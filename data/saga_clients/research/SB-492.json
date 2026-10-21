@@ -44,6 +44,13 @@
    "quote": "有Smartbyte的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户裁定",
+   "claim": "SmartByte 经销名单客户不碰（潜在渠道冲突）",
+   "quote": "不碰 标记一下 没必要去跟：会有潜在冲突的",
+   "url": "（对话全记录 T27-U5）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -55,9 +62,9 @@
    "source": "https://www.charter-controls.com/"
   }
  ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "grade_override": "C",
+ "override_reason": "Q-33 裁定（Simon 2026-10-21）：SmartByte 经销名单客户，潜在渠道冲突，不碰；c_sub=渠道冲突（Q-33 不碰）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ Q-33 裁定（Simon 2026-10-21）：不碰、标记、不跟进。",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（官网快照品牌识别：在售 SmartByte → Q-33 渠道冲突）"
@@ -97,10 +104,11 @@
  },
  "signals": [
   "已在卖 SmartByte 原厂工业交换机 → 对产品认可",
-  "管理型「可订」= 目前不备管理型库存"
+  "管理型「可订」= 目前不备管理型库存",
+  "Q-33 裁定：不碰（2026-10-21）"
  ],
  "risks": [
-  "**渠道冲突（Q-33）**：其货源为 SmartByte 原厂/英国进口商，Saga 介入 = 与供应商抢客，可能损害 Saga 的 SmartByte 供货关系；默认不主动发送，待 Simon 裁定",
+  "⛔ **Q-33 裁定（Simon 2026-10-21）：不碰**——SmartByte 经销名单客户，潜在渠道冲突；不主动发送、不跟进，仅留档防重复开发",
   "若裁定可触达，仅以 HRUI 商用 PoE / Hohunet 等 SmartByte 不覆盖的补充线切入"
  ],
  "saga_fit": {
@@ -108,5 +116,5 @@
   "tier": 20,
   "why": "其在售款即 SmartByte 5 口工业机（= Saga STI-050GE）；无价格优势（多一层），仅在 Q-33 裁定允许后以补充线触达。"
  },
- "email_hook": "（Q-33 待裁定，默认不主动发送；若允许：Besides the Smartbyte industrial range you stock, do you have a source for commercial rack PoE switches — 8/16/24-port L2+ — for the same control-panel customers?）"
+ "email_hook": "（⛔ 不发送：Q-33 裁定不碰，SmartByte 经销名单客户）"
 }

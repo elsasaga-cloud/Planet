@@ -1,14 +1,15 @@
 # charter-controls.com
 **官方名称（调研核实）**：Charter Controls Ltd
 
-> **评级 B**　|　英国　|　档案编号 `SB-492`　|　优先级 ★★　|　状态：名单内·未触达
+> **评级 C**　|　英国　|　档案编号 `SB-492`　|　优先级 —　|　状态：名单内·未触达
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：同行经销商(Smartbyte)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-492
-rating: B
+rating: C
 rating_auto: B
+rating_research: C  # Q-33 裁定（Simon 2026-10-21）：SmartByte 经销名单客户，潜在渠道冲突，不碰；c_sub=渠道冲突（Q-33 不碰）
 name_official: "Charter Controls Ltd"
 score: 39
 country: 英国
@@ -32,12 +33,11 @@ updated: 2026-10-21
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：英国东萨塞克斯工业控制与自动化元器件分销商（继电器、PLC、按钮、传感等），**明确备货 SmartByte 工业非管理交换机**（5/8/16 口 PoE 与非 PoE，管理型可订），品牌页列 Smartbyte；表内来源为 Simon 的「同行/Smartbyte」名单（「有 Smartbyte 的」）。已是 SmartByte 原厂（或其英国进口商）客户 → 渠道冲突待裁定（Q-33）。（调研 2026-10-21；表内兴趣：光路产品较多 工业FS 很多种外壳）
-- **为什么是 B 级**：+8 在卖 DPTEK/SmartByte 同类产品的经销商（已接受深圳供应链）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国
+- **为什么是 C 级**：**调研后定级 C**（Q-33 裁定（Simon 2026-10-21）：SmartByte 经销名单客户，潜在渠道冲突，不碰；c_sub=渠道冲突（Q-33 不碰））；自动分级 B：+8 在卖 DPTEK/SmartByte 同类产品的经销商（已接受深圳供应链）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；C 级细分：渠道冲突（Q-33
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-050GE — 深挖对位：其在售款即 SmartByte 5 口工业机（= Saga STI-050GE）；无价格优势（多一层），仅在 Q-33 裁定允许后以补充线触达。；$17.0 USD EXW（20% 档，SmartByte LT-IS3005G-5GT-M 95 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1**：不推（C 级）；若对方主动来询，起手 STI-050GE（深挖对位：其在售款即 SmartByte 5 口工业机（= Saga STI-050GE）；无价格优势（多一层），仅在 Q-33 裁定允许后以补充线触达。）
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不跟进；仅归档防重复开发
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -74,8 +74,12 @@ updated: 2026-10-21
 - **【用户表】来源：Clients/A/同行/Smartbyte.xlsx 第 19 行，备注「有Smartbyte的」**
   > 有Smartbyte的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【用户裁定】SmartByte 经销名单客户不碰（潜在渠道冲突）**
+  > 不碰 标记一下 没必要去跟：会有潜在冲突的
+  > 来源：（对话全记录 T27-U5）（抓取 2026-10-21）
 - **KP**：（销售/采购）（）enquiries@charter-controls.com +44 1424 850660〔https://www.charter-controls.com/〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- **调研后定级**：C（原自动 B）——Q-33 裁定（Simon 2026-10-21）：SmartByte 经销名单客户，潜在渠道冲突，不碰；c_sub=渠道冲突（Q-33 不碰）
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ Q-33 裁定（Simon 2026-10-21）：不碰、标记、不跟进。
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照品牌识别：在售 SmartByte → Q-33 渠道冲突））
 
@@ -97,9 +101,10 @@ updated: 2026-10-21
 - **近况信号**：
   - 已在卖 SmartByte 原厂工业交换机 → 对产品认可
   - 管理型「可订」= 目前不备管理型库存
-- **风险/边界**：**渠道冲突（Q-33）**：其货源为 SmartByte 原厂/英国进口商，Saga 介入 = 与供应商抢客，可能损害 Saga 的 SmartByte 供货关系；默认不主动发送，待 Simon 裁定；若裁定可触达，仅以 HRUI 商用 PoE / Hohunet 等 SmartByte 不覆盖的补充线切入
+  - Q-33 裁定：不碰（2026-10-21）
+- **风险/边界**：⛔ **Q-33 裁定（Simon 2026-10-21）：不碰**——SmartByte 经销名单客户，潜在渠道冲突；不主动发送、不跟进，仅留档防重复开发；若裁定可触达，仅以 HRUI 商用 PoE / Hohunet 等 SmartByte 不覆盖的补充线切入
 - **Saga 对位结论**：P1 STI-050GE（20% 档）——其在售款即 SmartByte 5 口工业机（= Saga STI-050GE）；无价格优势（多一层），仅在 Q-33 裁定允许后以补充线触达。
-- **邮件切入句（英文）**：（Q-33 待裁定，默认不主动发送；若允许：Besides the Smartbyte industrial range you stock, do you have a source for commercial rack PoE switches — 8/16/24-port L2+ — for the same control-panel customers?）
+- **邮件切入句（英文）**：（⛔ 不发送：Q-33 裁定不碰，SmartByte 经销名单客户）
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -151,33 +156,10 @@ updated: 2026-10-21
 |---|---|---|---|---|---|---|---|---|---|
 | A/同行/Smartbyte.xlsx#总表:19 | 18 | https://www.charter-controls.com/Catalogue/Networking/Industrial-Ethernet-Switch/Unmanaged | 英国 | 有Smartbyte的 | 谷歌 | 光路产品较多 工业FS<br>很多种外壳 | enquiries@charter-controls.com |  | — |
 
-## 产品决策（Saga · 单一决策口径）
-
-| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
-|---|---|---|---|---|
-| **P1** | STI-050GE | 深挖对位：其在售款即 SmartByte 5 口工业机（= Saga STI-050GE）；无价格优势（多一层），仅在 Q-33 裁定允许后以补充线触达。 | $17.0 USD EXW（20% 档，SmartByte LT-IS3005G-5GT-M 95 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-
-- **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
-
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-050GE），备选型不进首触。
-
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-050GE 一条规格链接；只问一个问题。
-- **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
-- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
-- **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
-
-## SWOT
-
-- **S**：欧洲主攻区，复购与口碑可外溢
-- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-050GE 按 20% 档报价，做现供应商的第二货源
-- **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
+> C 级不主动跟进。保留档案的意义：① 不重复开发；② 若对方主动来询再升级。
+> 不跟进理由：渠道冲突（Q-33。若用户不同意，在 `data/saga_clients/人工定级.csv` 写一行 `SB-492,B,理由` 后重跑即可。
 
 ## 触达与风险红线
 
@@ -196,7 +178,7 @@ updated: 2026-10-21
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ FS |
 | 采购量/预算 | ❓ 未确认 |
-| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
+| 商业资格结论 | **不合格（见 C 级细分）→ 不主动跟进** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -204,21 +186,7 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
-
-```text
-Hello,
-
-Picking up our earlier exchange about PoE / industrial switches. （Q-33 待裁定，默认不主动发送；若允许：Besides the Smartbyte industrial range you stock, do you have a source for commercial rack PoE switches — 8/16/24-port L2+ — for the same control-panel customers?）
-
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
-```
-
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> C 级不出邮件样板（不主动跟进）。
 
 ## 新跟进记录（仓库外发出后补）
 
@@ -230,11 +198,11 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- 不复核。对方主动来询 → 在 `data/saga_clients/人工定级.csv` 写一行升级后重跑。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 39）
+- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 39）；人工/调研定级 → C
 
 ---
 

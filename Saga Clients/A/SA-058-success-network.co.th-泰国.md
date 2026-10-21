@@ -85,9 +85,12 @@ updated: 2026-10-21
 - **【用户表】列于 Clients/A/同行/Smartbyte.xlsx（SmartByte 经销名单）→ 供应商渠道冲突 Q-33**
   > Clients/A/同行/Smartbyte.xlsx 总表
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【用户裁定】Success Network 可以跟进**
+  > Success Network 这个可以跟进 OK的
+  > 来源：（对话全记录 T27-U5）（抓取 2026-10-21）
 - **KP**：—（总机）info@success-network.co.th +66 2 973 1966 / +66 81 659 4477（LINE @success_network）〔https://www.success-network.co.th/contact-us/〕
 - **KP**：（Sawithree，姓氏未公开）（ORing 经销名录联系人（销售窗口））sawithree@success-network.co.th +66 2 973 1670-71〔https://oringnet.com/en/where-to-buy/apac〕
-- 备注：A 维持（已回复 + 全品类分销 + 已在卖同源产品），但需先向 SmartByte 确认该客户/其上游（Utepo 等）是否为 SmartByte 直客以免渠道冲突；P1 = STC-424DGGPM-280W（对位 Utepo 24 口 PoE L2+），20% 分销档。 ｜ Q-33 标注（2026-10-21）：SmartByte 经销名单内客户，A 级保留，但首触前需 Simon 裁定。
+- 备注：A 维持（已回复 + 全品类分销 + 已在卖同源产品），但需先向 SmartByte 确认该客户/其上游（Utepo 等）是否为 SmartByte 直客以免渠道冲突；P1 = STC-424DGGPM-280W（对位 Utepo 24 口 PoE L2+），20% 分销档。 ｜ Q-33 标注（2026-10-21）：SmartByte 经销名单内客户，A 级保留，但首触前需 Simon 裁定。 ｜ Q-33 裁定（Simon 2026-10-21）：Success Network 可以跟进。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + 注册 + 原厂经销名录核对））
 
@@ -109,9 +112,10 @@ updated: 2026-10-21
   - 用户表：工商业 FS，有 Utepo 的
   - 官网 Planet 类目含 Industrial Switch 与 L2+ 16-SFP / 2.5G SFP 机型——客户对 PLANET 工业 + 光口型谱熟悉，Saga 可按 PLANET 型号对位直接报（2026-10-21）
   - 2025-11 官网改版完成，营业中
-- **风险/边界**：多品牌小分销，Saga 为又一白牌；泰国价格敏感；Q-33：在 SmartByte 经销名单内（已回复 1 次、无成交）→ 默认不主动发送，待 Simon 裁定口径
+  - Q-33 裁定：可跟进（2026-10-21）
+- **风险/边界**：多品牌小分销，Saga 为又一白牌；泰国价格敏感；Q-33 裁定（Simon 2026-10-21）：虽在 SmartByte 经销名单内，**可以跟进**（唯一例外）
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（20% 档）——Utepo/Wi-Tek 位的商用 24 口 PoE 管理 = STC-424DGGPM-280W；工业位 STI-288DGGPM；分销 20% 档
-- **邮件切入句（英文）**：（Q-33 待裁定，默认不主动发送） 原钩子备用：Alongside the Utepo and Wi-Tek units you carry, the Marvell-based 24-port PoE+ managed switch and the 8-port industrial PoE DIN model are the two I can quote EXW as a neutral-packing line.
+- **邮件切入句（英文）**：Alongside the Utepo and Wi-Tek units you carry, the Marvell-based 24-port PoE+ managed switch and the 8-port industrial PoE DIN model are the two I can quote EXW as a neutral-packing line.
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -226,7 +230,7 @@ updated: 2026-10-21
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. （Q-33 待裁定，默认不主动发送） 原钩子备用：Alongside the Utepo and Wi-Tek units you carry, the Marvell-based 24-port PoE+ managed switch and the 8-port industrial PoE DIN model are the two I can quote EXW as a neutral-packing line.
+Picking up our earlier exchange about PoE / industrial switches. Alongside the Utepo and Wi-Tek units you carry, the Marvell-based 24-port PoE+ managed switch and the 8-port industrial PoE DIN model are the two I can quote EXW as a neutral-packing line.
 
 We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as your Utepo UTP5628S-PSB-L3 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

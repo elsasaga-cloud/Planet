@@ -73,6 +73,13 @@
    "quote": "Clients/A/同行/Smartbyte.xlsx 总表",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户裁定",
+   "claim": "Success Network 可以跟进",
+   "quote": "Success Network 这个可以跟进 OK的",
+   "url": "（对话全记录 T27-U5）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -91,7 +98,7 @@
    "source": "https://oringnet.com/en/where-to-buy/apac"
   }
  ],
- "notes": "A 维持（已回复 + 全品类分销 + 已在卖同源产品），但需先向 SmartByte 确认该客户/其上游（Utepo 等）是否为 SmartByte 直客以免渠道冲突；P1 = STC-424DGGPM-280W（对位 Utepo 24 口 PoE L2+），20% 分销档。 ｜ Q-33 标注（2026-10-21）：SmartByte 经销名单内客户，A 级保留，但首触前需 Simon 裁定。",
+ "notes": "A 维持（已回复 + 全品类分销 + 已在卖同源产品），但需先向 SmartByte 确认该客户/其上游（Utepo 等）是否为 SmartByte 直客以免渠道冲突；P1 = STC-424DGGPM-280W（对位 Utepo 24 口 PoE L2+），20% 分销档。 ｜ Q-33 标注（2026-10-21）：SmartByte 经销名单内客户，A 级保留，但首触前需 Simon 裁定。 ｜ Q-33 裁定（Simon 2026-10-21）：Success Network 可以跟进。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
@@ -130,16 +137,17 @@
  "signals": [
   "用户表：工商业 FS，有 Utepo 的",
   "官网 Planet 类目含 Industrial Switch 与 L2+ 16-SFP / 2.5G SFP 机型——客户对 PLANET 工业 + 光口型谱熟悉，Saga 可按 PLANET 型号对位直接报（2026-10-21）",
-  "2025-11 官网改版完成，营业中"
+  "2025-11 官网改版完成，营业中",
+  "Q-33 裁定：可跟进（2026-10-21）"
  ],
  "risks": [
   "多品牌小分销，Saga 为又一白牌；泰国价格敏感",
-  "Q-33：在 SmartByte 经销名单内（已回复 1 次、无成交）→ 默认不主动发送，待 Simon 裁定口径"
+  "Q-33 裁定（Simon 2026-10-21）：虽在 SmartByte 经销名单内，**可以跟进**（唯一例外）"
  ],
  "saga_fit": {
   "p1": "STC-424DGGPM-280W",
   "tier": 20,
   "why": "Utepo/Wi-Tek 位的商用 24 口 PoE 管理 = STC-424DGGPM-280W；工业位 STI-288DGGPM；分销 20% 档"
  },
- "email_hook": "（Q-33 待裁定，默认不主动发送） 原钩子备用：Alongside the Utepo and Wi-Tek units you carry, the Marvell-based 24-port PoE+ managed switch and the 8-port industrial PoE DIN model are the two I can quote EXW as a neutral-packing line."
+ "email_hook": "Alongside the Utepo and Wi-Tek units you carry, the Marvell-based 24-port PoE+ managed switch and the 8-port industrial PoE DIN model are the two I can quote EXW as a neutral-packing line."
 }

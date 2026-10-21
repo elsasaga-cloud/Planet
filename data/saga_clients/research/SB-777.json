@@ -23,6 +23,13 @@
    "quote": "兴趣：工商Switch 很多人在卖他们的;销售平台",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户裁定",
+   "claim": "SmartByte 经销名单客户不碰（潜在渠道冲突）",
+   "quote": "不碰 标记一下 没必要去跟：会有潜在冲突的",
+   "url": "（对话全记录 T27-U5）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -34,9 +41,9 @@
    "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "grade_override": "C",
+ "override_reason": "Q-33 裁定（Simon 2026-10-21）：SmartByte 经销名单客户，潜在渠道冲突，不碰；c_sub=渠道冲突（Q-33 不碰）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ Q-33 裁定（Simon 2026-10-21）：不碰、标记、不跟进。",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（名单识别：SmartByte 经销 → Q-33）"
@@ -46,12 +53,15 @@
   "region": "波兰"
  },
  "risks": [
-  "Q-33：供应商渠道冲突，默认不主动发送"
+  "⛔ **Q-33 裁定（Simon 2026-10-21）：不碰**——SmartByte 经销名单客户，潜在渠道冲突；不主动发送、不跟进，仅留档防重复开发"
  ],
  "saga_fit": {
   "p1": null,
   "tier": 20,
   "why": "Q-33 待裁定；不主动报价。"
  },
- "email_hook": "（Q-33 待裁定，默认不主动发送）"
+ "email_hook": "（⛔ 不发送：Q-33 裁定不碰，SmartByte 经销名单客户）",
+ "signals": [
+  "Q-33 裁定：不碰（2026-10-21）"
+ ]
 }

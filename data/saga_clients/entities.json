@@ -22307,6 +22307,13 @@
 "quote": "Clients/A/同行/Smartbyte.xlsx 总表",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "用户裁定",
+"claim": "Success Network 可以跟进",
+"quote": "Success Network 这个可以跟进 OK的",
+"url": "（对话全记录 T27-U5）",
+"date": "2026-10-21"
 }
 ],
 "kp": [
@@ -22325,7 +22332,7 @@
 "source": "https://oringnet.com/en/where-to-buy/apac"
 }
 ],
-"notes": "A 维持（已回复 + 全品类分销 + 已在卖同源产品），但需先向 SmartByte 确认该客户/其上游（Utepo 等）是否为 SmartByte 直客以免渠道冲突；P1 = STC-424DGGPM-280W（对位 Utepo 24 口 PoE L2+），20% 分销档。 ｜ Q-33 标注（2026-10-21）：SmartByte 经销名单内客户，A 级保留，但首触前需 Simon 裁定。",
+"notes": "A 维持（已回复 + 全品类分销 + 已在卖同源产品），但需先向 SmartByte 确认该客户/其上游（Utepo 等）是否为 SmartByte 直客以免渠道冲突；P1 = STC-424DGGPM-280W（对位 Utepo 24 口 PoE L2+），20% 分销档。 ｜ Q-33 标注（2026-10-21）：SmartByte 经销名单内客户，A 级保留，但首触前需 Simon 裁定。 ｜ Q-33 裁定（Simon 2026-10-21）：Success Network 可以跟进。",
 "researched_at": "2026-10-21",
 "deep": {
 "done_at": "2026-10-21",
@@ -22364,18 +22371,19 @@
 "signals": [
 "用户表：工商业 FS，有 Utepo 的",
 "官网 Planet 类目含 Industrial Switch 与 L2+ 16-SFP / 2.5G SFP 机型——客户对 PLANET 工业 + 光口型谱熟悉，Saga 可按 PLANET 型号对位直接报（2026-10-21）",
-"2025-11 官网改版完成，营业中"
+"2025-11 官网改版完成，营业中",
+"Q-33 裁定：可跟进（2026-10-21）"
 ],
 "risks": [
 "多品牌小分销，Saga 为又一白牌；泰国价格敏感",
-"Q-33：在 SmartByte 经销名单内（已回复 1 次、无成交）→ 默认不主动发送，待 Simon 裁定口径"
+"Q-33 裁定（Simon 2026-10-21）：虽在 SmartByte 经销名单内，**可以跟进**（唯一例外）"
 ],
 "saga_fit": {
 "p1": "STC-424DGGPM-280W",
 "tier": 20,
 "why": "Utepo/Wi-Tek 位的商用 24 口 PoE 管理 = STC-424DGGPM-280W；工业位 STI-288DGGPM；分销 20% 档"
 },
-"email_hook": "（Q-33 待裁定，默认不主动发送） 原钩子备用：Alongside the Utepo and Wi-Tek units you carry, the Marvell-based 24-port PoE+ managed switch and the 8-port industrial PoE DIN model are the two I can quote EXW as a neutral-packing line."
+"email_hook": "Alongside the Utepo and Wi-Tek units you carry, the Marvell-based 24-port PoE+ managed switch and the 8-port industrial PoE DIN model are the two I can quote EXW as a neutral-packing line."
 }
 },
 {
@@ -246559,10 +246567,10 @@
 "+5 有可核实的公司网站/域名",
 "+8 区域 欧洲/英国"
 ],
-"c_sub": "",
+"c_sub": "渠道冲突（Q-33",
 "status": "名单内·未触达",
 "code": "SB-492",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-492",
 "name_official": "Charter Controls Ltd",
@@ -246609,6 +246617,13 @@
 "quote": "有Smartbyte的",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "用户裁定",
+"claim": "SmartByte 经销名单客户不碰（潜在渠道冲突）",
+"quote": "不碰 标记一下 没必要去跟：会有潜在冲突的",
+"url": "（对话全记录 T27-U5）",
+"date": "2026-10-21"
 }
 ],
 "kp": [
@@ -246620,9 +246635,9 @@
 "source": "https://www.charter-controls.com/"
 }
 ],
-"grade_override": null,
-"override_reason": "",
-"notes": "（无首轮调研；由 deepen.py 建档）",
+"grade_override": "C",
+"override_reason": "Q-33 裁定（Simon 2026-10-21）：SmartByte 经销名单客户，潜在渠道冲突，不碰；c_sub=渠道冲突（Q-33 不碰）",
+"notes": "（无首轮调研；由 deepen.py 建档） ｜ Q-33 裁定（Simon 2026-10-21）：不碰、标记、不跟进。",
 "deep": {
 "done_at": "2026-10-21",
 "level": "B 级加厚 v1（官网快照品牌识别：在售 SmartByte → Q-33 渠道冲突）"
@@ -246662,10 +246677,11 @@
 },
 "signals": [
 "已在卖 SmartByte 原厂工业交换机 → 对产品认可",
-"管理型「可订」= 目前不备管理型库存"
+"管理型「可订」= 目前不备管理型库存",
+"Q-33 裁定：不碰（2026-10-21）"
 ],
 "risks": [
-"**渠道冲突（Q-33）**：其货源为 SmartByte 原厂/英国进口商，Saga 介入 = 与供应商抢客，可能损害 Saga 的 SmartByte 供货关系；默认不主动发送，待 Simon 裁定",
+"⛔ **Q-33 裁定（Simon 2026-10-21）：不碰**——SmartByte 经销名单客户，潜在渠道冲突；不主动发送、不跟进，仅留档防重复开发",
 "若裁定可触达，仅以 HRUI 商用 PoE / Hohunet 等 SmartByte 不覆盖的补充线切入"
 ],
 "saga_fit": {
@@ -246673,7 +246689,7 @@
 "tier": 20,
 "why": "其在售款即 SmartByte 5 口工业机（= Saga STI-050GE）；无价格优势（多一层），仅在 Q-33 裁定允许后以补充线触达。"
 },
-"email_hook": "（Q-33 待裁定，默认不主动发送；若允许：Besides the Smartbyte industrial range you stock, do you have a source for commercial rack PoE switches — 8/16/24-port L2+ — for the same control-panel customers?）"
+"email_hook": "（⛔ 不发送：Q-33 裁定不碰，SmartByte 经销名单客户）"
 }
 },
 {
@@ -249402,10 +249418,10 @@
 "+5 有可核实的公司网站/域名",
 "+8 区域 欧洲/英国"
 ],
-"c_sub": "",
+"c_sub": "渠道冲突（Q-33",
 "status": "名单内·未触达",
 "code": "SB-501",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-501",
 "name_official": "Innon Energy Ltd（innon.eu / innon.co.uk，英国）",
@@ -249431,6 +249447,13 @@
 "quote": "兴趣：有光路的工业FS 串口 比较杂 周边产品很多",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "用户裁定",
+"claim": "SmartByte 经销名单客户不碰（潜在渠道冲突）",
+"quote": "不碰 标记一下 没必要去跟：会有潜在冲突的",
+"url": "（对话全记录 T27-U5）",
+"date": "2026-10-21"
 }
 ],
 "kp": [
@@ -249442,9 +249465,9 @@
 "source": "（本地 Clients/ 表格，无公开 URL）"
 }
 ],
-"grade_override": null,
-"override_reason": "",
-"notes": "（无首轮调研；由 deepen.py 建档）",
+"grade_override": "C",
+"override_reason": "Q-33 裁定（Simon 2026-10-21）：SmartByte 经销名单客户，潜在渠道冲突，不碰；c_sub=渠道冲突（Q-33 不碰）",
+"notes": "（无首轮调研；由 deepen.py 建档） ｜ Q-33 裁定（Simon 2026-10-21）：不碰、标记、不跟进。",
 "deep": {
 "done_at": "2026-10-21",
 "level": "B 级加厚 v1（名单识别：SmartByte 经销 → Q-33）"
@@ -249454,14 +249477,17 @@
 "region": "英国"
 },
 "risks": [
-"Q-33：供应商渠道冲突，默认不主动发送"
+"⛔ **Q-33 裁定（Simon 2026-10-21）：不碰**——SmartByte 经销名单客户，潜在渠道冲突；不主动发送、不跟进，仅留档防重复开发"
 ],
 "saga_fit": {
 "p1": null,
 "tier": 20,
 "why": "Q-33 待裁定；不主动报价。"
 },
-"email_hook": "（Q-33 待裁定，默认不主动发送）"
+"email_hook": "（⛔ 不发送：Q-33 裁定不碰，SmartByte 经销名单客户）",
+"signals": [
+"Q-33 裁定：不碰（2026-10-21）"
+]
 }
 },
 {
@@ -250801,10 +250827,10 @@
 "+3 区域 亚太/台湾",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "渠道冲突（Q-33",
 "status": "已推送 3 次·未回复",
 "code": "SB-506",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-506",
 "name_official": "REPOTEC Co., Ltd.（台湾）",
@@ -250830,6 +250856,13 @@
 "quote": "兴趣：MC FS 工业品（有小壳类产品） SFP；备注：不跟了 他们那在面谈了",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "用户裁定",
+"claim": "SmartByte 经销名单客户不碰（潜在渠道冲突）",
+"quote": "不碰 标记一下 没必要去跟：会有潜在冲突的",
+"url": "（对话全记录 T27-U5）",
+"date": "2026-10-21"
 }
 ],
 "kp": [
@@ -250841,9 +250874,9 @@
 "source": "（本地 Clients/ 表格，无公开 URL）"
 }
 ],
-"grade_override": null,
-"override_reason": "",
-"notes": "（无首轮调研；由 deepen.py 建档）",
+"grade_override": "C",
+"override_reason": "Q-33 裁定（Simon 2026-10-21）：SmartByte 经销名单客户，潜在渠道冲突，不碰；c_sub=渠道冲突（Q-33 不碰）",
+"notes": "（无首轮调研；由 deepen.py 建档） ｜ Q-33 裁定（Simon 2026-10-21）：不碰、标记、不跟进。",
 "deep": {
 "done_at": "2026-10-21",
 "level": "B 级加厚 v1（名单识别：SmartByte 经销 → Q-33）"
@@ -250853,14 +250886,17 @@
 "region": "台湾"
 },
 "risks": [
-"Q-33：供应商渠道冲突，默认不主动发送"
+"⛔ **Q-33 裁定（Simon 2026-10-21）：不碰**——SmartByte 经销名单客户，潜在渠道冲突；不主动发送、不跟进，仅留档防重复开发"
 ],
 "saga_fit": {
 "p1": null,
 "tier": 20,
 "why": "Q-33 待裁定；不主动报价。"
 },
-"email_hook": "（Q-33 待裁定，默认不主动发送）"
+"email_hook": "（⛔ 不发送：Q-33 裁定不碰，SmartByte 经销名单客户）",
+"signals": [
+"Q-33 裁定：不碰（2026-10-21）"
+]
 }
 },
 {
@@ -307267,10 +307303,10 @@
 "+8 区域 欧洲/英国",
 "+2 最近活动 2024"
 ],
-"c_sub": "",
+"c_sub": "渠道冲突（Q-33",
 "status": "名单内·未触达",
 "code": "SB-765",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-765",
 "name_official": "Electric Bray Ltd",
@@ -307304,6 +307340,13 @@
 "quote": "（同行/Smartbyte 名单）",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "用户裁定",
+"claim": "SmartByte 经销名单客户不碰（潜在渠道冲突）",
+"quote": "不碰 标记一下 没必要去跟：会有潜在冲突的",
+"url": "（对话全记录 T27-U5）",
+"date": "2026-10-21"
 }
 ],
 "kp": [
@@ -307315,9 +307358,9 @@
 "source": "https://www.electricbray.com/"
 }
 ],
-"grade_override": null,
-"override_reason": "",
-"notes": "（无首轮调研；由 deepen.py 建档）",
+"grade_override": "C",
+"override_reason": "Q-33 裁定（Simon 2026-10-21）：SmartByte 经销名单客户，潜在渠道冲突，不碰；c_sub=渠道冲突（Q-33 不碰）",
+"notes": "（无首轮调研；由 deepen.py 建档） ｜ Q-33 裁定（Simon 2026-10-21）：不碰、标记、不跟进。",
 "deep": {
 "done_at": "2026-10-21",
 "level": "B 级加厚 v1（官网快照品牌识别：在售 SmartByte → Q-33 渠道冲突）"
@@ -307348,10 +307391,11 @@
 "region": "英国"
 },
 "signals": [
-"零售价 £54 vs Saga 列表 $34.1 → 有空间，但货源冲突"
+"零售价 £54 vs Saga 列表 $34.1 → 有空间，但货源冲突",
+"Q-33 裁定：不碰（2026-10-21）"
 ],
 "risks": [
-"**渠道冲突（Q-33）**：与 Charter Controls 同一 SmartByte 货源体系；默认不主动发送",
+"⛔ **Q-33 裁定（Simon 2026-10-21）：不碰**——SmartByte 经销名单客户，潜在渠道冲突；不主动发送、不跟进，仅留档防重复开发",
 "品类仅 2 款，交换机非主业"
 ],
 "saga_fit": {
@@ -307359,7 +307403,7 @@
 "tier": 20,
 "why": "其唯一在售交换机 = SmartByte 5 口（Saga STI-050GE）；Q-33 裁定前不触达。"
 },
-"email_hook": "（Q-33 待裁定，默认不主动发送）"
+"email_hook": "（⛔ 不发送：Q-33 裁定不碰，SmartByte 经销名单客户）"
 }
 },
 {
@@ -309785,10 +309829,10 @@
 "+5 有可核实的公司网站/域名",
 "+8 区域 欧洲/波兰"
 ],
-"c_sub": "",
+"c_sub": "渠道冲突（Q-33",
 "status": "名单内·未触达",
 "code": "SB-777",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-777",
 "name_official": "NAPAD.PL（波兰安防网店）",
@@ -309814,6 +309858,13 @@
 "quote": "兴趣：工商Switch 很多人在卖他们的;销售平台",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "用户裁定",
+"claim": "SmartByte 经销名单客户不碰（潜在渠道冲突）",
+"quote": "不碰 标记一下 没必要去跟：会有潜在冲突的",
+"url": "（对话全记录 T27-U5）",
+"date": "2026-10-21"
 }
 ],
 "kp": [
@@ -309825,9 +309876,9 @@
 "source": "（本地 Clients/ 表格，无公开 URL）"
 }
 ],
-"grade_override": null,
-"override_reason": "",
-"notes": "（无首轮调研；由 deepen.py 建档）",
+"grade_override": "C",
+"override_reason": "Q-33 裁定（Simon 2026-10-21）：SmartByte 经销名单客户，潜在渠道冲突，不碰；c_sub=渠道冲突（Q-33 不碰）",
+"notes": "（无首轮调研；由 deepen.py 建档） ｜ Q-33 裁定（Simon 2026-10-21）：不碰、标记、不跟进。",
 "deep": {
 "done_at": "2026-10-21",
 "level": "B 级加厚 v1（名单识别：SmartByte 经销 → Q-33）"
@@ -309837,14 +309888,17 @@
 "region": "波兰"
 },
 "risks": [
-"Q-33：供应商渠道冲突，默认不主动发送"
+"⛔ **Q-33 裁定（Simon 2026-10-21）：不碰**——SmartByte 经销名单客户，潜在渠道冲突；不主动发送、不跟进，仅留档防重复开发"
 ],
 "saga_fit": {
 "p1": null,
 "tier": 20,
 "why": "Q-33 待裁定；不主动报价。"
 },
-"email_hook": "（Q-33 待裁定，默认不主动发送）"
+"email_hook": "（⛔ 不发送：Q-33 裁定不碰，SmartByte 经销名单客户）",
+"signals": [
+"Q-33 裁定：不碰（2026-10-21）"
+]
 }
 },
 {
@@ -341002,10 +341056,10 @@
 "+5 有可核实的公司网站/域名",
 "+8 区域 欧洲/英国"
 ],
-"c_sub": "",
+"c_sub": "渠道冲突（Q-33",
 "status": "名单内·未触达",
 "code": "SB-905",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-905",
 "name_official": "Heat & Combustion Ltd（heatcombustion.co.uk，英国）",
@@ -341031,6 +341085,13 @@
 "quote": "兴趣：在用Smartbyte产品了",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "用户裁定",
+"claim": "SmartByte 经销名单客户不碰（潜在渠道冲突）",
+"quote": "不碰 标记一下 没必要去跟：会有潜在冲突的",
+"url": "（对话全记录 T27-U5）",
+"date": "2026-10-21"
 }
 ],
 "kp": [
@@ -341042,9 +341103,9 @@
 "source": "（本地 Clients/ 表格，无公开 URL）"
 }
 ],
-"grade_override": null,
-"override_reason": "",
-"notes": "（无首轮调研；由 deepen.py 建档）",
+"grade_override": "C",
+"override_reason": "Q-33 裁定（Simon 2026-10-21）：SmartByte 经销名单客户，潜在渠道冲突，不碰；c_sub=渠道冲突（Q-33 不碰）",
+"notes": "（无首轮调研；由 deepen.py 建档） ｜ Q-33 裁定（Simon 2026-10-21）：不碰、标记、不跟进。",
 "deep": {
 "done_at": "2026-10-21",
 "level": "B 级加厚 v1（名单识别：SmartByte 经销 → Q-33）"
@@ -341054,14 +341115,17 @@
 "region": "英国"
 },
 "risks": [
-"Q-33：供应商渠道冲突，默认不主动发送"
+"⛔ **Q-33 裁定（Simon 2026-10-21）：不碰**——SmartByte 经销名单客户，潜在渠道冲突；不主动发送、不跟进，仅留档防重复开发"
 ],
 "saga_fit": {
 "p1": null,
 "tier": 20,
 "why": "Q-33 待裁定；不主动报价。"
 },
-"email_hook": "（Q-33 待裁定，默认不主动发送）"
+"email_hook": "（⛔ 不发送：Q-33 裁定不碰，SmartByte 经销名单客户）",
+"signals": [
+"Q-33 裁定：不碰（2026-10-21）"
+]
 }
 },
 {
@@ -344288,10 +344352,10 @@
 "+5 有可核实的公司网站/域名",
 "+8 区域 欧洲/立陶宛"
 ],
-"c_sub": "",
+"c_sub": "渠道冲突（Q-33",
 "status": "名单内·未触达",
 "code": "SB-925",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-925",
 "name_official": "Vikings Technology（立陶宛；SmartByte 在售 → Q-33）",
@@ -344317,6 +344381,13 @@
 "quote": "Clients/A/同行/Smartbyte.xlsx",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "用户裁定",
+"claim": "SmartByte 经销名单客户不碰（潜在渠道冲突）",
+"quote": "不碰 标记一下 没必要去跟：会有潜在冲突的",
+"url": "（对话全记录 T27-U5）",
+"date": "2026-10-21"
 }
 ],
 "kp": [
@@ -344328,9 +344399,9 @@
 "source": "（本地 Clients/ 表格，无公开 URL）"
 }
 ],
-"grade_override": null,
-"override_reason": "",
-"notes": "（无首轮调研；由 deepen.py 建档）",
+"grade_override": "C",
+"override_reason": "Q-33 裁定（Simon 2026-10-21）：SmartByte 经销名单客户，潜在渠道冲突，不碰；c_sub=渠道冲突（Q-33 不碰）",
+"notes": "（无首轮调研；由 deepen.py 建档） ｜ Q-33 裁定（Simon 2026-10-21）：不碰、标记、不跟进。",
 "deep": {
 "done_at": "2026-10-21",
 "level": "B 级加厚 v1（官网快照品牌识别：SmartByte 经销 → Q-33）"
@@ -344350,17 +344421,18 @@
 "region": "立陶宛"
 },
 "signals": [
-"已售 SmartByte 全线 → 若 Simon 裁定可触达，可谈 Saga 品牌差异化 SKU"
+"已售 SmartByte 全线 → 若 Simon 裁定可触达，可谈 Saga 品牌差异化 SKU",
+"Q-33 裁定：不碰（2026-10-21）"
 ],
 "risks": [
-"Q-33：供应商渠道冲突，默认不主动发送"
+"⛔ **Q-33 裁定（Simon 2026-10-21）：不碰**——SmartByte 经销名单客户，潜在渠道冲突；不主动发送、不跟进，仅留档防重复开发"
 ],
 "saga_fit": {
 "p1": null,
 "tier": 20,
 "why": "Q-33 待裁定；不主动报价。"
 },
-"email_hook": "（Q-33 待裁定，默认不主动发送）"
+"email_hook": "（⛔ 不发送：Q-33 裁定不碰，SmartByte 经销名单客户）"
 }
 },
 {
@@ -344448,10 +344520,10 @@
 "+5 有可核实的公司网站/域名",
 "+8 区域 欧洲/西班牙"
 ],
-"c_sub": "",
+"c_sub": "渠道冲突（Q-33",
 "status": "名单内·未触达",
 "code": "SB-926",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-926",
 "name_official": "WifiSafe（wifisafe.com，西班牙）",
@@ -344470,6 +344542,13 @@
 "quote": "Clients/A/同行/Smartbyte.xlsx 总表",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "用户裁定",
+"claim": "SmartByte 经销名单客户不碰（潜在渠道冲突）",
+"quote": "不碰 标记一下 没必要去跟：会有潜在冲突的",
+"url": "（对话全记录 T27-U5）",
+"date": "2026-10-21"
 }
 ],
 "kp": [
@@ -344481,9 +344560,9 @@
 "source": "（本地 Clients/ 表格，无公开 URL）"
 }
 ],
-"grade_override": null,
-"override_reason": "",
-"notes": "（无首轮调研；由 deepen.py 建档）",
+"grade_override": "C",
+"override_reason": "Q-33 裁定（Simon 2026-10-21）：SmartByte 经销名单客户，潜在渠道冲突，不碰；c_sub=渠道冲突（Q-33 不碰）",
+"notes": "（无首轮调研；由 deepen.py 建档） ｜ Q-33 裁定（Simon 2026-10-21）：不碰、标记、不跟进。",
 "deep": {
 "done_at": "2026-10-21",
 "level": "B 级加厚 v1（名单识别：SmartByte 经销 → Q-33）"
@@ -344493,14 +344572,17 @@
 "region": "西班牙"
 },
 "risks": [
-"Q-33：供应商渠道冲突，默认不主动发送"
+"⛔ **Q-33 裁定（Simon 2026-10-21）：不碰**——SmartByte 经销名单客户，潜在渠道冲突；不主动发送、不跟进，仅留档防重复开发"
 ],
 "saga_fit": {
 "p1": null,
 "tier": 20,
 "why": "Q-33 待裁定；不主动报价。"
 },
-"email_hook": "（Q-33 待裁定，默认不主动发送）"
+"email_hook": "（⛔ 不发送：Q-33 裁定不碰，SmartByte 经销名单客户）",
+"signals": [
+"Q-33 裁定：不碰（2026-10-21）"
+]
 }
 },
 {
