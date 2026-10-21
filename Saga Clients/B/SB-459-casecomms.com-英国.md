@@ -1,4 +1,5 @@
 # casecomms.com
+**官方名称（调研核实）**：Case Communications Ltd（casecomms.com；邮箱域 case.uk.com）
 
 > **评级 B**　|　英国　|　档案编号 `SB-459`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -8,6 +9,7 @@
 code: SB-459
 rating: B
 rating_auto: B
+name_official: "Case Communications Ltd（casecomms.com；邮箱域 case.uk.com）"
 score: 40
 country: 英国
 region: 欧洲
@@ -19,21 +21,21 @@ replies: 1
 followups: 20
 first_contact: 2024-04-01
 last_contact: 2025-10-27
-p1: STC-28DGGPM
+p1: STI-288DGGPM
 price_tier: 30%
-research: pending
+research: done
 sources: 4
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：英国的品牌商/贴牌需求（OEM/ODM）；兴趣/在卖：工业FS 工业MC 自己的logo SFP ONV的；商业PoE CCTV为主 很多配件；商业POE CCTV为主 很多配件；提到的品牌：ONV, FS
+- **是谁**：英国 High Wycombe 的工业/「street-hardened」网络品牌商（1970 年起；1988 Dowty-Case、1993 Cray，后独立）：自有品牌工业交换机 PIGE-4T-2S-G / PIGE-8T-2S-G（8 PoE + 2 SFP）/ PIGE-10T-4S-G / PIGE-16T-4S-G / PIXE-12T-4SX-G（8 PoE + 4 GE + 4×10G）/ R2-8TxP-24S-4SX-G（2021-12）、新 R3 10G L3 机；另有工业路由器、MC、延长器、网管平台。「在英国设计开发，通过合作伙伴全球销售」；市场含油气、公用事业、铁路、机场、智慧城市、交通与 M.O.D.。规模口径不一（LinkedIn 51–200 / ContactOut 1–10）。用户表：1 次实质回复，20 次跟进，自有品牌标记。（调研 2026-10-21；表内兴趣：工业FS 工业MC 自己的logo SFP ONV的；商业PoE CCTV为主 很多配件；商业POE CCTV为主 很多配件）
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-60 用户已归入「不行及不太相关的」；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 20 次（2024-04-01 → 2025-10-27）；最近一次客户回复：2025-02-07：MoQ 能否定制
-- **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：OEM 30% 档：STI-288DGGPM 对位 PIGE-8T-2S-G；STI-21616GP 对位 PIGE-16T-4S-G；STI-448XGGGPM 对位 PIXE-12T-4SX-G；Case 标 + UKCA；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -63,7 +65,51 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-459.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：英国 High Wycombe 的工业/「street-hardened」网络品牌商（1970 年起；1988 Dowty-Case、1993 Cray，后独立）：自有品牌工业交换机 PIGE-4T-2S-G / PIGE-8T-2S-G（8 PoE + 2 SFP）/ PIGE-10T-4S-G / PIGE-16T-4S-G / PIXE-12T-4SX-G（8 PoE + 4 GE + 4×10G）/ R2-8TxP-24S-4SX-G（2021-12）、新 R3 10G L3 机；另有工业路由器、MC、延长器、网管平台。「在英国设计开发，通过合作伙伴全球销售」；市场含油气、公用事业、铁路、机场、智慧城市、交通与 M.O.D.。规模口径不一（LinkedIn 51–200 / ContactOut 1–10）。用户表：1 次实质回复，20 次跟进，自有品牌标记。
+- **在卖/在用品牌**：Case Communications（自有品牌）
+- **【官网】产品线与市场**
+  > Dec 2021 – Case Communications launch their latest Industrial Ethernet Switch the R2-8TxP-24S-4SX-G. This switch has 8 x Gigabit PoE Ports, 24 Gigabit SFP ports and 4 x 10Gbps Ports … Our Markets include the Oil and Gas Industry, Utilities, Railways, Air Travel, SMART Cities, Transport Systems and M.O.D. - PIXE-12T-4SX-G (12xPoE,4x10Gbps SFP) - PIGE-16T-4S-G (16xPoE, 4xSFP) - PIGE 10T-4S-G … - PIGE-8T-2S-G (8xPoE 2xSFP) - PIGE-4T-2S-G
+  > 来源：https://www.casecomms.com/（抓取 2024-11-04）
+- **【官网】商业模式（英国设计、伙伴销售）与历史**
+  > We design and develop our products within the UK and sell world-wide via carefully selected partners … In 1988 Case was purchased by the Dowty group … In 1993 Cray Electronics purchased Case
+  > 来源：https://www.casecomms.com/about-case-communications/（抓取 2023-07-28）
+- **【官网】工业交换机规格**
+  > Case Communications DIN Rail or wall-mounted Switches operate from -40C to +75C without the use of fans. All Case Industrial Switches are equipped with dual DC Power supplies … The Non-PoE Industrial Switches operate from 12vdc to 48vdc while the PoE and PoE plus switches operate from a 48vdc power source.
+  > 来源：https://www.casecomms.com/product-overview/industrial-ethernet-switches/（抓取 2026-09-09）
+- **【官网】地址与联系方式**
+  > North's Estate Old Oxford Road Piddington High Wycombe Buckinghamshire HP14 3BE United Kingdom Tel: +44 (0) 1494 880 240 … Email: admin@case.uk.com
+  > 来源：https://www.casecomms.com/contact-case-communications/（抓取 2024-11-04）
+- **【用户表】1 次实质回复；20 次跟进；自有品牌标记**
+  > （用户表字段）
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网产品线核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Case Communications Ltd |
+| 成立 | 1970 |
+| 总部/地址 | Unit 12E, North's Estate, Old Oxford Road, Piddington, High Wycombe, Bucks HP14 3BE, UK（+44 1494 880 240；admin@case.uk.com） |
+| 其他 | 产品型号体系（PIGE/PIXE/R2/R3）与典型 ODM 口型一致（8 PoE+2 SFP、16 PoE+4 SFP、8 PoE+4 GE+4×10G）→ 高概率外购贴牌；DIN 导轨、−40~+75 ℃、双 DC 输入、ERPS G.8032 |
+
+- **业务线**：自有品牌工业以太网交换机（PoE/10G/L3）；工业路由器（DSL/光纤/蜂窝/VoIP）、MC、延长器；网管平台（Case + 第三方）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Case Communications | PIGE-8T-2S-G | 8×GE PoE + 2×SFP 工业管理机，−40~+75 ℃，双 DC | STI-288DGGPM（同口型 OEM） | https://www.casecomms.com/（2024-11-04） |
+| Case Communications | PIGE-16T-4S-G | 16×GE PoE + 4×SFP | STI-21616GP（16 PoE） | https://www.casecomms.com/（2024-11-04） |
+| Case Communications | PIXE-12T-4SX-G | 8×GE PoE/PoE+ + 4×GE + 4×10G SFP+，−40~+75 ℃ | STI-448XGGGPM（8 PoE + 4 SFP + 4×10G） | https://www.casecomms.com/product-overview/industrial-ethernet-switches/10gbps-industrial-ethernet-switch/（2020-08-04） |
+| Case Communications | PIGE-10T-4S-G | 10×GE（8 PoE）+ 4×SFP，L2+，G.8032，SNMP | STI-480DGGM 系（8 GE + 4 SFP，PoE 衍生） | https://www.casecomms.com/pige-14-port-industrial-gigabit-ethernet-poe-switch/（2024-03-08） |
+| Case Communications | R2-8TxP-24S-4SX-G / R3-8Tx-24S-4SX | 8 PoE + 24 SFP + 4×10G，L3，ERPS（2021-12 / 2026 新 L3） | —（Saga 无 24 SFP 口型） | https://www.linkedin.com/company/case-communications（2026-10-21） |
+
+- **触达通道（公开）**：网站: https://www.casecomms.com/；电话: +44 1494 880 240（官网公开）；邮箱（公开）: admin@case.uk.com
+- **近况信号**：
+  - 自有品牌 + ODM 口型 → 第二 ODM 来源机会：STI-288DGGPM / STI-21616GP / STI-448XGGGPM 一一对位其 PIGE/PIXE 主力；1 次实质回复（用户表）
+- **风险/边界**：守界：客户市场含铁路与 M.O.D.——Saga 只供通用工业机，不做 EN50155/军规；UK 需 UKCA（Saga 有）；品牌商对固件/网管（自家 Open Management Platform）有整合要求，OEM 需 SNMP MIB 文档支持
+- **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——OEM 30% 档：STI-288DGGPM 对位 PIGE-8T-2S-G；STI-21616GP 对位 PIGE-16T-4S-G；STI-448XGGGPM 对位 PIXE-12T-4SX-G；Case 标 + UKCA
+- **邮件切入句（英文）**：For the PIGE-8T-2S-G slot, a Marvell-based DIN 8-PoE+ 2-SFP managed unit (−40 to +75 °C, dual DC, G.8032) in Case packing is $151.6 EXW with full SNMP MIBs; is a second ODM source something you evaluate this quarter?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -133,17 +179,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
-| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-288DGGPM | 深挖对位：OEM 30% 档：STI-288DGGPM 对位 PIGE-8T-2S-G；STI-21616GP 对位 PIGE-16T-4S-G；STI-448XGGGPM 对位 PIXE-12T-4SX-G；Case 标 + UKCA | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-28DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-288DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -153,7 +199,7 @@ updated: 2026-10-21
 
 - **S**：有 1 次实质回复（对方认识我们）；自有品牌/贴牌需求 = 现成 OEM 客户；欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；对位其在用/在卖的 ONV：涨价、断货或交期拉长时切入
+- **O**：P1 STI-288DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；对位其在用/在卖的 ONV：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -177,19 +223,18 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
 
 ```text
 Hi Andy,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. For the PIGE-8T-2S-G slot, a Marvell-based DIN 8-PoE+ 2-SFP managed unit (−40 to +75 °C, dual DC, G.8032) in Case packing is $151.6 EXW with full SNMP MIBs; is a second ODM source something you evaluate this quarter?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your Case Communications PIGE-8T-2S-G at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

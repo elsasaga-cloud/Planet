@@ -22,8 +22,8 @@ replies: 0
 followups: 17
 first_contact: 2024-05-07
 last_contact: 2025-10-13
-p1: none
-price_tier: 25%
+p1: STC-28DGGPM
+price_tier: 20%
 research: done
 sources: 2
 updated: 2026-10-21
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **是谁**：伦敦南郊的 Hikvision 授权批发商（2005 年注册，3 名员工），面向安装商供应 CCTV/门禁/对讲/报警及配件，网店含 78 个网络产品、Ruijie Reyee 55 个、Utepo 3 个。用户表：Graham Smith（Director）；对 video over fiber 感兴趣、曾买 IP camera 样品；17 次推送 0 回复，WhatsApp 加不上。（调研 2026-10-21；表内兴趣：对video over fiber感兴趣 看到买了ip camera样品）
 - **为什么是 B 级**：**调研后定级 B**（3 人微型批发商，17 次推送零回复，兴趣在 VC（Saga 不做）；保留 B 慢跟（Utepo 在售说明有 PoE 替代空间）。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 谈到样品/测样；+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-3 WhatsApp 加不上；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；推送 17 次（2024-05-07 → 2025-10-13）
-- **P1（下一步唯一主推）**：— — VC/光端机：Saga 不做（可只推交换机）；—
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：批发商自有标 NTP3-GSW0802S 同口型 = STC-28DGGPM（8 GE PoE + 2 SFP 管理）；16/24 口位 STI-21616GP / STC-424DGGPM-280W；分销 20% 档；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -70,16 +70,47 @@ updated: 2026-10-21
 - **是谁**：伦敦南郊的 Hikvision 授权批发商（2005 年注册，3 名员工），面向安装商供应 CCTV/门禁/对讲/报警及配件，网店含 78 个网络产品、Ruijie Reyee 55 个、Utepo 3 个。用户表：Graham Smith（Director）；对 video over fiber 感兴趣、曾买 IP camera 样品；17 次推送 0 回复，WhatsApp 加不上。
 - **类型**：安防批发商（小型）
 - **规模**：3 人（2025 年报）
-- **在卖/在用品牌**：Hikvision, HiLook, Ruijie Reyee, Utepo, Pyronix
+- **在卖/在用品牌**：Hikvision, HiLook, Ruijie Reyee, Utepo, Pyronix, Ruijie-Reyee, EZVIZ, Uniview
 - **【第三方（Companies House 摘录）】规模与董事**
   > SECURITYTEC LIMITED … Incorporated: 2005-10-06 · Employees: 3 (2025 accounts) … MR Graham David SMITH Director
   > 来源：https://www.companiesintheuk.co.uk/ltd/securitytec-1（抓取 2026-10-21）
 - **【官网】在售网络品类（含 Utepo）**
   > Networking Products 78 item · Ruije Reyee Networks 55 item … Brand: Hikvision 404 item … Utepo 3 item
   > 来源：https://www.securitytec.co.uk/our-products.html（抓取 2026-10-21）
+- **【官网网店】自有标 8 口千兆管理 PoE 交换机规格**
+  > 8-Port Gigabit Managed PoE Switch with 2 x SFP Fiber uplinks … Total PoE power budget is up to 135W, single port power output max 30W … UTP3-GSW0802S-MTP150, the full Gigabit managed PoE switch … Product Code: NTP3-GSW0802S-MTP150
+  > 来源：https://www.securitytec.co.uk/product/8-port-gigabit-poe-switch/（抓取 2021-07-21）
+- **【官网网店】在售交换机品牌与价格**
+  > Ruijie-Reyee, 15 watt, 52v Gigabit PoE+ injector SKU: RG-POE-AF15 £16.00 … Ruijie-Reyee, 6 PORT 100Mbps UNMANAGED PoE SWITCH SKU: RG-ES106F-P Trade Customers Only … Hikvision Smart Managed 4-Port + 1-uplink 100Mbps PoE Switch SKU: DS-3E1105P-EI … 8-Port 100Mbps PoE Switch, 1x uplink, HILOOK BY HIKVISION SKU: NS-0109P-60(B) £44.00
+  > 来源：https://www.securitytec.co.uk/our-products/networking-products/network-switches.html（抓取 2026-10-21）
+- **【名录】地址与联系人**
+  > Mr Graham Smith Unit 2 Redlands Centre Redlands Coulsdon Surrey Croydon CR5 2HT … WE ARE A PROUD HIKVISION DISTRIBUTOR Securitytec Ltd are a UK based Hikvision Authorised Wholesaler
+  > 来源：https://www.construction.co.uk/c/633203/securitytec（抓取 2026-10-21）
 - **KP**：Graham Smith（Director）graham@securitytec.co.uk +44 20 8660 5888〔https://www.securitytec.co.uk/contact〕
+- **KP**：Graham Smith（联系人（construction.co.uk 公司名录公开））—（未公开） —〔https://www.construction.co.uk/c/633203/securitytec〕
 - **调研后定级**：B（原自动 A）——3 人微型批发商，17 次推送零回复，兴趣在 VC（Saga 不做）；保留 B 慢跟（Utepo 在售说明有 PoE 替代空间）。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网网店目录核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Securitytec Ltd |
+| 总部/地址 | Unit 2 Redlands Centre, Redlands, Coulsdon, Surrey CR5 2HT（M25 J7 内 10 分钟） |
+| 其他 | 英国 Hikvision 授权批发商（trade counter + DPD 次日达）；价格匹配 Hikvision / Pyronix / EZVIZ / HiLook；网店在售交换机：自有标 **NTP3-GSW0802S-MTP150**（8 GE 管理 PoE + 2 SFP，135W，描述残留「UTP3-」= Utepo 贴牌）、Ruijie-Reyee（RG-ES106F-P、RG-ES110FG-P、PoE 注入器 £16–17）、Hikvision DS-3E1105P-EI / DS-3E1106HP-EI、HiLook NS-0109P-60(B) £44；NVR 清仓 Uniview NVR301-08L-P8 £79 |
+
+- **业务线**：Hikvision / HiLook / Pyronix / EZVIZ 安防批发（安装商客户）；网络交换与 PoE 配件（Ruijie-Reyee、自有标 NTP3-）；门禁 / 对讲 / 报警
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Securitytec（自有标，Utepo 源） | NTP3-GSW0802S-MTP150 | 8×GE PoE + 2×SFP，L2 管理，135W，30W/口，4M 缓存 | STC-28DGGPM（同口型 Marvell 替代） | https://www.securitytec.co.uk/product/8-port-gigabit-poe-switch/（2021-07-21） |
+| Ruijie-Reyee | RG-ES106F-P / RG-ES110FG-P | 6/8 口百兆非管理 PoE（trade only） | STC-28DGGPM（千兆升级） | https://www.securitytec.co.uk/our-products/networking-products/network-switches.html（2026-10-21） |
+| HiLook | NS-0109P-60(B) | 8 口百兆 PoE + 1 上联，£44 | —（价位参照） | https://www.securitytec.co.uk/our-products/networking-products/network-switches.html（2026-10-21） |
+
+- **触达通道（公开）**：网站/网店: https://www.securitytec.co.uk/；名录联系人: Mr Graham Smith（construction.co.uk 公开名录）
+- **近况信号**：
+  - 已成交 + 样品（用户表）；自有标 NTP3- 8 口千兆管理 PoE 已在售——Saga 同口型可直接作二供/升级 SKU（2026-10-21）
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——批发商自有标 NTP3-GSW0802S 同口型 = STC-28DGGPM（8 GE PoE + 2 SFP 管理）；16/24 口位 STI-21616GP / STC-424DGGPM-280W；分销 20% 档
+- **邮件切入句（英文）**：Your NTP3-GSW0802S-MTP150 and the Marvell-based 8-port PoE+ 2-SFP managed switch are the same port layout; as a second source in Securitytec packing at EXW cost it protects your trade price against the HiLook £44 tier.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -123,6 +154,7 @@ updated: 2026-10-21
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Graham Smith | Director | graham@securitytec.co.uk / +44 20 8660 5888 | 调研核实（公开页） | https://www.securitytec.co.uk/contact |
+| Graham Smith | 联系人（construction.co.uk 公司名录公开） | —（未公开） / — | 调研核实（公开页） | https://www.construction.co.uk/c/633203/securitytec |
 | Graham Smith Director | — | graham@securitytec.co.uk / +03339909191 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；邮件已推送 17 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -140,20 +172,19 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | 待核型（无标准对应，向 SmartByte 核） | VC/光端机：Saga 不做（可只推交换机） | — | 据用户表兴趣/备注推断；档位 25%（安防批发商（小型）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：批发商自有标 NTP3-GSW0802S 同口型 = STC-28DGGPM（8 GE PoE + 2 SFP 管理）；16/24 口位 STI-21616GP / STC-424DGGPM-280W；分销 20% 档 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（安防批发商（小型）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-424DGGPM-280W）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-28DGGPM）；只问一个问题：当前在采购的主力型号与月量。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -161,7 +192,7 @@ updated: 2026-10-21
 
 - **S**：有成交史，信任与开户成本已付；欧洲主攻区，复购与口碑可外溢
 - **W**：已推送 17 次无回复，邮件通道疲劳
-- **O**：P1 — 按 25% 档报价，做现供应商的第二货源；规模（调研）：3 人（2025 年报）
+- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源；规模（调研）：3 人（2025 年报）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -189,7 +220,25 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-> 该客户的需求（VC/光端机、SFP/DWDM 等）不在 Saga 三家供应商产品线内：不出邮件样板；若要只推交换机，用 STC-28DGGPM 版本手改。
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+
+```text
+Hi Graham,
+
+Thank you again for your earlier order with us - this is a short update rather than a cold mail. Your NTP3-GSW0802S-MTP150 and the Marvell-based 8-port PoE+ 2-SFP managed switch are the same port layout; as a second source in Securitytec packing at EXW cost it protects your trade price against the HiLook £44 tier.
+
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your Securitytec（自有标，Utepo 源） NTP3-GSW0802S-MTP150 at a lower landed cost, and we can ship it with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
+
+If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
+https://sagatele.com/
+```
+
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 
 ## 新跟进记录（仓库外发出后补）
 

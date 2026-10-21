@@ -1,4 +1,5 @@
 # etictelecom.com
+**官方名称（调研核实）**：Etic Telecom（etictelecom.com，法国）
 
 > **评级 B**　|　法国　|　档案编号 `SB-1026`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -8,6 +9,7 @@
 code: SB-1026
 rating: B
 rating_auto: B
+name_official: "Etic Telecom（etictelecom.com，法国）"
 score: 28
 country: 法国
 region: 欧洲
@@ -20,20 +22,20 @@ followups: 22
 first_contact: 2024-03-23
 last_contact: 2025-12-29
 p1: STI-288DGGPM
-price_tier: 20%
-research: pending
+price_tier: 30%
+research: done
 sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：法国的经销/集成（类型待核）；兴趣/在卖：工业FS 外壳比较统一；提到的品牌：FS
+- **是谁**：法国工业通信设备制造商（1985 年起）：工业 VPN 路由器 IPL 系列、机器远程维护盒 RAS、SHDSL/SPE 以太网延长器 XSLAN/XELAN、VPN 集中器 SIG，以及**军规战术 SHDSL 交换机 XSMIL**（Airbus Defence & Space 选用）；市场为水务、能源、交通、城市基础设施与工业 4.0。其产品线没有常规千兆管理 PoE 交换机。用户表：S 重点，1 次实质回复，22 次跟进，**用户已判定「不行」**；联系人 Charles Chaussonnier。（调研 2026-10-21；表内兴趣：工业FS 外壳比较统一）
 - **为什么是 B 级**：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；-60 用户已归入「不行及不太相关的」；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/法国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 22 次（2024-03-23 → 2025-12-29）；最近一次客户回复：2024-05-22：10 50 100个的价格
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：若重启：以 OEM（Etic 标）补其产品线空白——STI-288DGGPM DIN 导轨 8 PoE+ + 2 SFP 管理机，与 IPL 路由器同柜；OEM 30% 档；默认不推进（用户判定不行）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -53,7 +55,46 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1026.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：法国工业通信设备制造商（1985 年起）：工业 VPN 路由器 IPL 系列、机器远程维护盒 RAS、SHDSL/SPE 以太网延长器 XSLAN/XELAN、VPN 集中器 SIG，以及**军规战术 SHDSL 交换机 XSMIL**（Airbus Defence & Space 选用）；市场为水务、能源、交通、城市基础设施与工业 4.0。其产品线没有常规千兆管理 PoE 交换机。用户表：S 重点，1 次实质回复，22 次跟进，**用户已判定「不行」**；联系人 Charles Chaussonnier。
+- **在卖/在用品牌**：Etic Telecom（自产）
+- **【官网】产品线构成**
+  > Our product lines Machine Access Box RAS Family Industrial VPN router IPL Family Ethernet extender XSLAN/XELAN Family VPN servers SIG Family SHDSL tactical switch XSMIL family
+  > 来源：https://www.etictelecom.com/en/（抓取 2024-01-03）
+- **【官网】公司历史与市场**
+  > Etic Telecom designs and markets safe, simple, robust and low consumption products … Since 1985, we have been active in the water, energy, transportation, urban infrastructure and industry 4.0 markets. Etic Telecom is a European player designing and selling Telecom Products (routers, VPN servers, gateways, SHDSL switches, modem).
+  > 来源：https://www.etictelecom.com/en/about-us/（抓取 2024-08-20）
+- **【官网新闻】国防客户（守界依据）**
+  > Airbus Defense & Space chooses Etic Telecom technologies … has chosen Etic Telecom technologies (IPL routers and Ethernet extender XSLAN) for networking barracks and mobile operational equipment.
+  > 来源：https://www.etictelecom.com/en/airbus-defense-space-chooses-etic-telecom-technologies/（抓取 2020-07-09）
+- **【用户表】S 重点；1 次实质回复；22 次跟进；用户判定不行；联系人 Charles Chaussonnier**
+  > （用户表字段）
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Charles Chaussonnier（联系人（用户表））charles.chaussonnier@etictelecom.com —〔用户表〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网产品线核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Etic Telecom |
+| 成立 | 1985 |
+| 总部/地址 | France（官网未列详细地址于摘要） |
+| 其他 | 自研自产，欧洲玩家；产品线 RAS / IPL / XSLAN-XELAN / SIG / XSMIL；配置手册公开（SHDSL 交换机 XSLAN+1xxx/2xxx/4xxx，XSMIL-4200 军规 4 口） |
+
+- **业务线**：工业 VPN 路由器与远程维护（IPL / RAS / SIG）；SHDSL / SPE 以太网延长器（XSLAN / XELAN）；军规战术通信（XSMIL；守界：不参与）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Etic Telecom | IPL-E-100 / IPL-E-400 / IPL-E-220 | 工业路由器 IP31 金属壳 DIN 导轨，10 条 VPN，SPI 防火墙，−20~+70 ℃，QoS/VLAN | —（路由器，Saga 无） | https://www.etictelecom.com/en/etic-product/ipl-e-100/（2024-12-09） |
+| Etic Telecom | XSLAN+1xxx/2xxx/4xxx · XSMIL-4200 | 工业级 1/2/4 口 SHDSL 以太网交换机；XSMIL-4200 军规 | —（SHDSL 介质，Saga 无） | https://www.etictelecom.com/wp-content/uploads/2021/01/DOC_DEV_XS_Setup_guide_C.pdf（2021-01-01） |
+
+- **触达通道（公开）**：网站: https://www.etictelecom.com/en/
+- **近况信号**：
+  - 唯一可能的切入点：其工业路由器/延长器需要配套的 DIN 导轨千兆管理 PoE 交换机（产品线空白）→ OEM 补线（Etic 标或中性）；但用户已判定「不行」，仅作低频备案
+- **风险/边界**：军规/国防客户（Airbus Defence & Space、XSMIL）→ 守界，仅限水务/能源等民用线；制造商兼潜在竞争者；用户判定不行 → 不主动推进
+- **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——若重启：以 OEM（Etic 标）补其产品线空白——STI-288DGGPM DIN 导轨 8 PoE+ + 2 SFP 管理机，与 IPL 路由器同柜；OEM 30% 档；默认不推进（用户判定不行）
+- **邮件切入句（英文）**：（用户已判定不行，默认不发；若重启）Alongside the IPL routers your water and energy customers deploy, a DIN-rail 8-port PoE+ managed switch in Etic packing would fill the one slot your range does not cover — would a sample for your lab be useful?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -102,6 +143,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Charles Chaussonnier | 联系人（用户表） | charles.chaussonnier@etictelecom.com / — | 调研核实（公开页） | 用户表 |
 | Charles | — | contact@etictelecom.com / charles.chaussonnier@etictelecom.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
@@ -119,9 +161,9 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-288DGGPM | 深挖对位：若重启：以 OEM（Etic 标）补其产品线空白——STI-288DGGPM DIN 导轨 8 PoE+ + 2 SFP 管理机，与 IPL 路由器同柜；OEM 30% 档；默认不推进（用户判定不行） | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（经销/集成（类型待核）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -131,7 +173,7 @@ updated: 2026-10-21
 
 - **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-288DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -139,7 +181,7 @@ updated: 2026-10-21
 
 - **S**：有 1 次实质回复（对方认识我们）；欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-288DGGPM 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STI-288DGGPM 按 30% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -163,7 +205,6 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
@@ -173,9 +214,9 @@ updated: 2026-10-21
 ```text
 Hi Charles,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. （用户已判定不行，默认不发；若重启）Alongside the IPL routers your water and energy customers deploy, a DIN-rail 8-port PoE+ managed switch in Etic packing would fill the one slot your range does not cover — would a sample for your lab be useful?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your Etic Telecom IPL-E-100 / IPL-E-400 / IPL-E-220 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

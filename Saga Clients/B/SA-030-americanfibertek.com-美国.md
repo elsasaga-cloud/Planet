@@ -22,7 +22,7 @@ replies: 1
 followups: 21
 first_contact: 2024-04-30
 last_contact: 2025-12-30
-p1: STI-288DGGPM
+p1: STC-424XGGPM-280W
 price_tier: 30%
 research: done
 sources: 1
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **是谁**：美国佛州安防光传输设备制造商（1984 年成立，11–50 人，营收 $8–11M 口径），主打「Manufactured in America / BAA 合规」，并提供一整套「sourced TAA compliant」产品（以太网交换机、光纤交换机、MC、视频/数据/音频光端机）。2020 年被 Donna Poulos 收购。用户表：S 重点，兴趣 SFP/工业电源/大口 FS/MC/多功能 VC，1 次实质回复。（调研 2026-10-21；表内兴趣：SFP 工业电源 大口FS MC 多功能VC）
 - **为什么是 B 级**：**调研后定级 B**（品牌定位是美国制造/BAA + 外采 TAA 合规（TAA 指定国不含中国大陆），SmartByte/HRUI/Hohunet 中国产整机无法进入其外采线；仅 SFP/电源等非 TAA 敏感配件有机会。B 慢跟：只在其主动询价时报配件。）；自动分级 A：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 21 次（2024-04-30 → 2025-12-30）；最近一次客户回复：2024-11-23：有bt型号吗？
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424XGGPM-280W — 深挖对位：OEM 二供：其 24E/4SFP L2 管理机（24 PoE+ + 4×10G）对位 STC-424XGGPM-280W；MX-6p 价位（$753+）对位 STI-144GP/STI-110GE 成本优势巨大；仅限非 TAA 商业线；OEM 30% 档；$196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -70,10 +70,34 @@ updated: 2026-10-21
 - **【第三方（PRNewswire）】2020 年被 Donna Poulos 收购，强调「降低外国元素风险」**
   > American Fibertek Proudly Continues 35 Year History of Manufacturing American Products and Mitigating Risks of Foreign Elements … wholly acquired by seasoned industry leader Donna Poulos
   > 来源：https://www.prnewswire.com/news-releases/american-fibertek-proudly-continues-35-year-history-of-manufacturing-american-products-and-mitigating-risks-of-foreign-elements-301025706.html（抓取 2026-10-21）
+- **【官网】AFI510 系列端口与 PoE 规格**
+  > 510 Ethernet Switch Series Ethernet Ports: 8 Ports – 10/100/1000T(x), 16 Ports – 10/100/1000T(x), 22 Ports – 10/100/1000T(x) + 2 RJ45/SFP Combo Ports, 24 Ports – 10/100/1000T(x), 48 Ports – 10/100/1000T(x) SFP Ports: 2 Ports – 100/1000Fx SFP, 4 Ports – 100/1000/10G Fx SFP+ … PoE: 30W PoE+, No
+  > 来源：https://americanfibertek.com/products/afi510-series-8-16-24-48-port-ethernet-switches-poe-available/（抓取 2024-08-16）
+- **【官网】24E/4SFP L2 管理机规格与「美国制造」叙事**
+  > 24-10/100/1000Base-T PoE+ Ports 4 Dual Speed 100M/1G SFP Ports Console Port for CLI Management … Supports SNMP v1, v2c, v3 … American Fibertek is honored to create jobs for Americans at every step of the manufacturing process … SFP Ports: (4) 100/1G, (4) 10G
+  > 来源：https://americanfibertek.com/products/24-ethernet-4-sfp-port-layer-2-managed-switch/（抓取 2026-10-21）
+- **【经销商网店】MX-6p 街价**
+  > MX-6p-PoE-2HP was $975.33 Special Price $753.00 … American Fibertek MX-6p-PoE-2HP Unmanaged 6-Port Ethernet Switch, (4) 10/100 PoE af & (2) SFP 1000 Ports
+  > 来源：https://www.surveillance-video.com/network-mx-6p-poe-2hp.html（抓取 2026-10-21）
 - **KP**：Donna Poulos（President/Owner）sales@americanfibertek.com（官网公开） +1 800-323-0660〔https://www.americanfibertek.com/ ; https://www.zoominfo.com/c/american-fibertek-inc/1736750〕
 - **调研后定级**：B（原自动 A）——品牌定位是美国制造/BAA + 外采 TAA 合规（TAA 指定国不含中国大陆），SmartByte/HRUI/Hohunet 中国产整机无法进入其外采线；仅 SFP/电源等非 TAA 敏感配件有机会。B 慢跟：只在其主动询价时报配件。
 - 备注：INH 红线：TAA/UL；本客户是典型 TAA 冲突案例。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网交换机目录核对））
+
+- **业务线**：安防光传输（视频/数据/音频光端机）；以太网交换机（AFI510 系列 8/16/22/24/48 口，PoE+）与 L2 管理机；媒体转换器（MX-6p 系列 4 FE PoE + 2 SFP）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| American Fibertek | AFI510 系列 | 8/16/22/24/48 口 10/100/1000T，2×100/1000 SFP 或 4×10G SFP+，PoE+ 30W 可选 | STC-28DGGPM / STC-424DGGPM-280W / STC-448DGGPM | https://americanfibertek.com/products/afi510-series-8-16-24-48-port-ethernet-switches-poe-available/（2024-08-16） |
+| American Fibertek | 24 Ethernet/4 SFP L2 Managed Switch | 24×GE PoE+ + 4×100M/1G SFP + 4×10G，Console/USB，SNMP v1/v2c/v3，802.1x，10K Jumbo，16K MAC | STC-424XGGPM-280W（24 PoE+ + 4×10G SFP+） | https://americanfibertek.com/products/24-ethernet-4-sfp-port-layer-2-managed-switch/（2026-10-21） |
+| American Fibertek | MX-6p-PoE / MX-6p-FX-PoE / MX-6p-PoE-2HP | 4×10/100 PoE af/at + 2×SFP（100M 或 1G），外接 48V；街价 $753–$783（surveillance-video.com） | STI-144GP（4 PoE + 上联）/ STI-110GE | https://www.surveillance-video.com/network-mx-6p-poe-2hp.html（2026-10-21） |
+
+- **近况信号**：
+  - 官网同时强调「Manufactured in America」与「sourced TAA compliant」交换机 → 交换机为外购贴牌，存在 OEM 二供空间；但 TAA 合规要求原产地为指定国，中国大陆制造不满足 → 只能切非 TAA 商业渠道 SKU（如 MX-6p 价位极高，Saga 同功能成本仅其零头）
+- **风险/边界**：TAA/BAA 合规叙事是其核心卖点，中国产交换机难进其联邦/政府线；需在二封前问清 UL/TAA（INH 规则）；1 次回复、21 次跟进，热度低
+- **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——OEM 二供：其 24E/4SFP L2 管理机（24 PoE+ + 4×10G）对位 STC-424XGGPM-280W；MX-6p 价位（$753+）对位 STI-144GP/STI-110GE 成本优势巨大；仅限非 TAA 商业线；OEM 30% 档
+- **邮件切入句（英文）**：For the non-TAA commercial side of the AFI line, a 24-port PoE+ switch with 4×10G SFP+ uplinks in AFI packing lands far below your current sourced cost; one question: is UL listing required on that SKU, or FCC alone?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -137,17 +161,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商（美国本土制造 + TAA 外采线）） |
+| **P1** | STC-424XGGPM-280W | 深挖对位：OEM 二供：其 24E/4SFP L2 管理机（24 PoE+ + 4×10G）对位 STC-424XGGPM-280W；MX-6p 价位（$753+）对位 STI-144GP/STI-110GE 成本优势巨大；仅限非 TAA 商业线；OEM 30% 档 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商（美国本土制造 + TAA 外采线）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424XGGPM-280W 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -157,7 +181,7 @@ updated: 2026-10-21
 
 - **S**：有 1 次实质回复（对方认识我们）；自有品牌/贴牌需求 = 现成 OEM 客户；北美主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-288DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：11–50 人；$8.4M（ZoomInfo）/ $11M（LeadIQ）
+- **O**：P1 STC-424XGGPM-280W 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：11–50 人；$8.4M（ZoomInfo）/ $11M（LeadIQ）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -185,14 +209,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-424XGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Donna,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. For the non-TAA commercial side of the AFI line, a 24-port PoE+ switch with 4×10G SFP+ uplinks in AFI packing lands far below your current sourced cost; one question: is UL listing required on that SKU, or FCC alone?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGPM-280W - that fits the same slot as your American Fibertek AFI510 系列 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $196.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

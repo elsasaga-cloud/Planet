@@ -1,7 +1,7 @@
 {
  "code": "SA-129",
  "name_official": "Net Work Business Solutions（爱沙尼亚）",
- "website_status": "未单独检索（仅用户记录）",
+ "website_status": "nbs.ee 为停放域名（已注册、无主机，2026-10-21）；实际业务站 fiber.ee 在线",
  "summary": "爱沙尼亚网络业务方案公司，WA 在线，3 次回复、19 次跟进，内容为一般性信息交流。",
  "type": "IT/网络服务商",
  "size": "待补证",
@@ -12,6 +12,27 @@
    "claim": "一般性信息交流；WA 已加；3 次回复 / 19 次",
    "quote": "general information network business solutions；372 5151032 已加（用户 Clients 表摘录）",
    "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "业务站",
+   "claim": "ISP 业务与近期楼栋接入",
+   "quote": "Kiire ja stabiilne Internet! Ehitame internetiühendusega võrke kiirusega kuni 10Gbit/s. Kortermajades interneti (optilise kaabli kaudu, kiirus – 200Mbit/200Mbit) hind on vaid 18 eurot! … 8 oktoober 2026 … 18 € pakett — kiirus tõusis 200 → 250 Mbit/s … Majad aadressidel Paekaare 68, 72 ja 74 on ühendatud meie võrguga … 25 august 2026 Maja aadressil Punane 1 on ühendatud meie võrguga",
+   "url": "https://fiber.ee/et/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "名录",
+   "claim": "法人与站点归属",
+   "quote": "Network business solutions OÜ Arvutite ja välisseadmete hulgimüük. fiber.ee www.nbs.ee Infojuht tel 5033655 53616045",
+   "url": "https://www.infojuht.ee/Otsing-Network/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "nbs.ee 为停放域名",
+   "quote": "Your Domain www.nbs.ee is Registered NB! Your domain has been registered but has NOT yet been linked to a hosting service",
+   "url": "https://www.nbs.ee/",
    "date": "2026-10-21"
   }
  ],
@@ -27,5 +48,35 @@
  "grade_override": "B",
  "override_reason": "爱沙尼亚为非主动开发小国，互动停留在一般信息、无具体需求 → 慢跟。",
  "notes": "WA 维持；有具体项目再报价。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（名录 + 业务站核对）"
+ },
+ "company_facts": {
+  "legal_name": "Network Business Solutions OÜ（Infojuht 名录：计算机及外设批发；站点 fiber.ee / www.nbs.ee）",
+  "hq": "Tallinn（服务楼宇位于 Lasnamäe 区：Paekaare 68/72/74、Punane 1 等）, Eesti",
+  "other": "**小型住宅光纤 ISP + 数据中心/主机托管 + 域名注册商（.ee/.eu/.lv/.fi 认证）**：公寓楼光纤入户 18 €/月（2026-10 提速 200→250 Mbit/s）、24 € 档 400→500 Mbit/s、4G SIM 无限流量 12.40 €；网络建设「最高 10 Gbit/s」；2026-08/10 持续有新楼接入公告——楼栋接入交换机为持续性需求"
+ },
+ "business_lines": [
+  "住宅楼光纤宽带（Tallinn Lasnamäe）",
+  "数据中心托管 / 服务器租赁",
+  "主机与域名注册"
+ ],
+ "channels": {
+  "网站": "https://fiber.ee/（业务站）；www.nbs.ee（停放）",
+  "名录": "https://www.infojuht.ee/Otsing-Network/（电话 5033655 / 53616045）"
+ },
+ "signals": [
+  "ISP 持续新增楼栋接入（2026-08-25 Punane 1；2026-10-08 Paekaare 68/72/74）→ 每栋楼 1–2 台 24 口 GE + 10G 上联管理机；WA 在线、3 次回复（用户表）"
+ ],
+ "risks": [
+  "小型 ISP、单次 1–5 台；爱沙尼亚为非主动挖掘国家（INH），仅跟现有线索"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGM",
+  "tier": 25,
+  "why": "ISP 楼栋接入：STC-424XGGM（24×GE + 4×10G SFP+，L2+，非 PoE）为楼道机；楼间汇聚 STC-448XGGM(L3)；8 口小楼 STC-28DGGM；运营商自用 25% 档"
+ },
+ "email_hook": "For the new buildings you are connecting on Paekaare and Punane, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW per unit; how many risers are planned for the next phase?"
 }

@@ -1,0 +1,97 @@
+{
+ "code": "SB-003",
+ "name_official": "Thor Fiber / Thor Broadcast（thorfiber.com · thorbroadcast.com；用户表名「DIGI Group」，联系人 Stan）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（thorbroadcast.com 为主站，thorfiber.com 同公司）",
+ "summary": "美国加州 Torrance 的光纤传输/广播设备品牌商（2006 年起，LinkedIn 51–200 人），自有品牌销售光端机、以太网光纤延长器（F-GET-TRS-POE+ 千兆单纤 PoE+ 30W）、IP 二线延长器（H-IP-TP-TX/RX 500 m PoE）、机箱等——产品形态为 OEM 贴牌型。用户表：S 重点，2 次实质回复 + WhatsApp + 样品记录，22 次跟进。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Thor Fiber（自有品牌）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "延长器产品与 PoE 规格",
+   "quote": "F-GET-TRS-POE+A 10/100/100Base-T to 1000Base-FX Single Fiber / Side A -1310nm / PoE+ 802.3 /30W … 14 Slot Chassis available PN: F-Chassis -14",
+   "url": "https://thorbroadcast.com/product/10-100-1000-mbps-fast-and-gigabit-ethernet-over-1-fiber-media-8230.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "IP 二线延长器规格",
+   "quote": "Thor Fiber H-IP-TP-TX/RX is a high-performance IP over 2-Wire Copper Extender with PoE … PoE transmission up to 500 m (1,640 ft) … Delivers up to 30 W PoE … Input Power 48–57 VDC or PoE Input",
+   "url": "https://thorbroadcast.com/es/producto/ip-over-2-wire-copper-extender-with-poe.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "规模、地址、成立年",
+   "quote": "Thor Fiber specializes in manufacture of fiber optic transport equipment and Digital T.V. equipment … Company size: 51-200 employees Headquarters: Torrance, CA … Founded: 2009 … 2421 W 205th St. Torrance, CA 90501",
+   "url": "https://www.linkedin.com/company/thor-fiber",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "S 重点；2 次实质回复、WhatsApp、样品记录；联系人 Stan（stan@thorfiber.com）",
+   "quote": "（用户表字段：实质回复 2 / WA / 样品 / 跟进 22）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网目录核对）"
+ },
+ "company_facts": {
+  "legal_name": "Thor Fiber（Thor Broadcast）",
+  "hq": "2421 W 205th St, Torrance, CA 90501, USA",
+  "founded": "2006（LinkedIn 记 2009）",
+  "size": "51–200（LinkedIn 自报）",
+  "other": "由广播工程师创立，主打光纤传输（L-band、头端、卫星电视）与以太网延长；产品页风格为贴牌目录（型号前缀 F-/H-），Markertek 等分销有售"
+ },
+ "business_lines": [
+  "广播/头端光纤传输设备",
+  "以太网光纤 / 二线 延长器（含 PoE/PoE+）",
+  "光纤机箱与配件（14 槽机箱）"
+ ],
+ "products_seen": [
+  {
+   "brand": "Thor Fiber",
+   "model": "F-GET-TRS-POE+A/B",
+   "spec": "10/100/1000T ↔ 1000Base-FX 单纤 A/B 端，PoE+ 802.3at 30W；14 槽机箱 F-Chassis-14",
+   "url": "https://thorbroadcast.com/product/10-100-1000-mbps-fast-and-gigabit-ethernet-over-1-fiber-media-8230.html",
+   "date": "2026-10-21",
+   "saga": "STI-110GE（同类 MC）/ STC-28DGGPM（含 SFP 上联的 PoE 汇聚）"
+  },
+  {
+   "brand": "Thor Fiber",
+   "model": "H-IP-TP-TX/RX",
+   "spec": "IP over 2-wire 延长器，500 m，PoE 30W，物理层 240 Mbps / 实际 90 Mbps，48–57 VDC 或 PoE 供电",
+   "url": "https://thorbroadcast.com/es/producto/ip-over-2-wire-copper-extender-with-poe.html",
+   "date": "2026-10-21",
+   "saga": "—（Saga 无同类；可配 STC-28DGGPM 作局端 PoE 源）"
+  }
+ ],
+ "channels": {
+  "网站": "https://thorbroadcast.com/ · thorfiber.com",
+  "分销": "Markertek（brand/thor-fiber）",
+  "LinkedIn": "https://www.linkedin.com/company/thor-fiber"
+ },
+ "signals": [
+  "贴牌型品牌商 + 已有样品/WA 互动（用户表）→ 适合以 Thor 标 OEM 切入 PoE 汇聚交换机（其目录缺 8/24 口管理 PoE）"
+ ],
+ "risks": [
+  "美国品牌商可能要求 UL 列名或 TAA 来源——Saga 仅 CE/RoHS/FCC，需在二封前问清（INH 规则：US 客户第二封前核 UL/TAA）"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "自有品牌 OEM：目录只有延长器/MC，缺 PoE 交换机——STC-28DGGPM（8 PoE+ + 2 SFP）与其 F-GET 光纤产品成套；中性/Thor 标，OEM 30% 档"
+ },
+ "email_hook": "Your F-GET PoE+ fiber extenders pair naturally with an 8-port PoE+ 2-SFP managed switch in Thor packing; one question before I quote: does the switch need FCC only, or UL/TAA as well for your federal buyers?"
+}

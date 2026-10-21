@@ -1,0 +1,129 @@
+{
+ "code": "SB-459",
+ "name_official": "Case Communications Ltd（casecomms.com；邮箱域 case.uk.com）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "英国 High Wycombe 的工业/「street-hardened」网络品牌商（1970 年起；1988 Dowty-Case、1993 Cray，后独立）：自有品牌工业交换机 PIGE-4T-2S-G / PIGE-8T-2S-G（8 PoE + 2 SFP）/ PIGE-10T-4S-G / PIGE-16T-4S-G / PIXE-12T-4SX-G（8 PoE + 4 GE + 4×10G）/ R2-8TxP-24S-4SX-G（2021-12）、新 R3 10G L3 机；另有工业路由器、MC、延长器、网管平台。「在英国设计开发，通过合作伙伴全球销售」；市场含油气、公用事业、铁路、机场、智慧城市、交通与 M.O.D.。规模口径不一（LinkedIn 51–200 / ContactOut 1–10）。用户表：1 次实质回复，20 次跟进，自有品牌标记。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Case Communications（自有品牌）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "产品线与市场",
+   "quote": "Dec 2021 – Case Communications launch their latest Industrial Ethernet Switch the R2-8TxP-24S-4SX-G. This switch has 8 x Gigabit PoE Ports, 24 Gigabit SFP ports and 4 x 10Gbps Ports … Our Markets include the Oil and Gas Industry, Utilities, Railways, Air Travel, SMART Cities, Transport Systems and M.O.D. - PIXE-12T-4SX-G (12xPoE,4x10Gbps SFP) - PIGE-16T-4S-G (16xPoE, 4xSFP) - PIGE 10T-4S-G … - PIGE-8T-2S-G (8xPoE 2xSFP) - PIGE-4T-2S-G",
+   "url": "https://www.casecomms.com/",
+   "date": "2024-11-04"
+  },
+  {
+   "kind": "官网",
+   "claim": "商业模式（英国设计、伙伴销售）与历史",
+   "quote": "We design and develop our products within the UK and sell world-wide via carefully selected partners … In 1988 Case was purchased by the Dowty group … In 1993 Cray Electronics purchased Case",
+   "url": "https://www.casecomms.com/about-case-communications/",
+   "date": "2023-07-28"
+  },
+  {
+   "kind": "官网",
+   "claim": "工业交换机规格",
+   "quote": "Case Communications DIN Rail or wall-mounted Switches operate from -40C to +75C without the use of fans. All Case Industrial Switches are equipped with dual DC Power supplies … The Non-PoE Industrial Switches operate from 12vdc to 48vdc while the PoE and PoE plus switches operate from a 48vdc power source.",
+   "url": "https://www.casecomms.com/product-overview/industrial-ethernet-switches/",
+   "date": "2026-09-09"
+  },
+  {
+   "kind": "官网",
+   "claim": "地址与联系方式",
+   "quote": "North's Estate Old Oxford Road Piddington High Wycombe Buckinghamshire HP14 3BE United Kingdom Tel: +44 (0) 1494 880 240 … Email: admin@case.uk.com",
+   "url": "https://www.casecomms.com/contact-case-communications/",
+   "date": "2024-11-04"
+  },
+  {
+   "kind": "用户表",
+   "claim": "1 次实质回复；20 次跟进；自有品牌标记",
+   "quote": "（用户表字段）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网产品线核对）"
+ },
+ "company_facts": {
+  "legal_name": "Case Communications Ltd",
+  "founded": "1970",
+  "hq": "Unit 12E, North's Estate, Old Oxford Road, Piddington, High Wycombe, Bucks HP14 3BE, UK（+44 1494 880 240；admin@case.uk.com）",
+  "size": "1–10（ContactOut）/ 51–200（LinkedIn 自报）——口径不一，按小团队品牌商处理",
+  "other": "产品型号体系（PIGE/PIXE/R2/R3）与典型 ODM 口型一致（8 PoE+2 SFP、16 PoE+4 SFP、8 PoE+4 GE+4×10G）→ 高概率外购贴牌；DIN 导轨、−40~+75 ℃、双 DC 输入、ERPS G.8032"
+ },
+ "business_lines": [
+  "自有品牌工业以太网交换机（PoE/10G/L3）",
+  "工业路由器（DSL/光纤/蜂窝/VoIP）、MC、延长器",
+  "网管平台（Case + 第三方）"
+ ],
+ "products_seen": [
+  {
+   "brand": "Case Communications",
+   "model": "PIGE-8T-2S-G",
+   "spec": "8×GE PoE + 2×SFP 工业管理机，−40~+75 ℃，双 DC",
+   "url": "https://www.casecomms.com/",
+   "date": "2024-11-04",
+   "saga": "STI-288DGGPM（同口型 OEM）"
+  },
+  {
+   "brand": "Case Communications",
+   "model": "PIGE-16T-4S-G",
+   "spec": "16×GE PoE + 4×SFP",
+   "url": "https://www.casecomms.com/",
+   "date": "2024-11-04",
+   "saga": "STI-21616GP（16 PoE）"
+  },
+  {
+   "brand": "Case Communications",
+   "model": "PIXE-12T-4SX-G",
+   "spec": "8×GE PoE/PoE+ + 4×GE + 4×10G SFP+，−40~+75 ℃",
+   "url": "https://www.casecomms.com/product-overview/industrial-ethernet-switches/10gbps-industrial-ethernet-switch/",
+   "date": "2020-08-04",
+   "saga": "STI-448XGGGPM（8 PoE + 4 SFP + 4×10G）"
+  },
+  {
+   "brand": "Case Communications",
+   "model": "PIGE-10T-4S-G",
+   "spec": "10×GE（8 PoE）+ 4×SFP，L2+，G.8032，SNMP",
+   "url": "https://www.casecomms.com/pige-14-port-industrial-gigabit-ethernet-poe-switch/",
+   "date": "2024-03-08",
+   "saga": "STI-480DGGM 系（8 GE + 4 SFP，PoE 衍生）"
+  },
+  {
+   "brand": "Case Communications",
+   "model": "R2-8TxP-24S-4SX-G / R3-8Tx-24S-4SX",
+   "spec": "8 PoE + 24 SFP + 4×10G，L3，ERPS（2021-12 / 2026 新 L3）",
+   "url": "https://www.linkedin.com/company/case-communications",
+   "date": "2026-10-21",
+   "saga": "—（Saga 无 24 SFP 口型）"
+  }
+ ],
+ "channels": {
+  "网站": "https://www.casecomms.com/",
+  "电话": "+44 1494 880 240（官网公开）",
+  "邮箱（公开）": "admin@case.uk.com"
+ },
+ "signals": [
+  "自有品牌 + ODM 口型 → 第二 ODM 来源机会：STI-288DGGPM / STI-21616GP / STI-448XGGGPM 一一对位其 PIGE/PIXE 主力；1 次实质回复（用户表）"
+ ],
+ "risks": [
+  "守界：客户市场含铁路与 M.O.D.——Saga 只供通用工业机，不做 EN50155/军规；UK 需 UKCA（Saga 有）",
+  "品牌商对固件/网管（自家 Open Management Platform）有整合要求，OEM 需 SNMP MIB 文档支持"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 30,
+  "why": "OEM 30% 档：STI-288DGGPM 对位 PIGE-8T-2S-G；STI-21616GP 对位 PIGE-16T-4S-G；STI-448XGGGPM 对位 PIXE-12T-4SX-G；Case 标 + UKCA"
+ },
+ "email_hook": "For the PIGE-8T-2S-G slot, a Marvell-based DIN 8-PoE+ 2-SFP managed unit (−40 to +75 °C, dual DC, G.8032) in Case packing is $151.6 EXW with full SNMP MIBs; is a second ODM source something you evaluate this quarter?"
+}

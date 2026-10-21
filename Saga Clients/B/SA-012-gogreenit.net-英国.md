@@ -22,7 +22,7 @@ replies: 1
 followups: 3
 first_contact: 2025-06-10
 last_contact: 2025-10-14
-p1: STI-288DGGPM
+p1: STI-42424XGGPM-4BT
 price_tier: 25%
 research: done
 sources: 2
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **是谁**：英国德比小型 IT 咨询/绿色 IT 服务公司（2011 年注册，<25 人，<$5M），业务为服务器虚拟化、硬件升级、IT 设备回收。用户表：问过 90W bt 工业 PoE，1 次实质回复，仅 3 次推送。（调研 2026-10-21；表内兴趣：90W bt工业PoE）
 - **为什么是 B 级**：**调研后定级 B**（小型 IT 服务公司，一次性项目需求（90W bt 工业 PoE），无渠道属性与复购逻辑；B 慢跟。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025
 - **历史互动**：成交/下单过；实质回复 1 次；推送 3 次（2025-06-10 → 2025-10-14）；最近一次客户回复：2025-06-10：有兴趣
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-42424XGGPM-4BT — 深挖对位：已购 STI-42424XGGPM-4BT 自用；后续仅可能补 STI-144GP / STI-288DGGPM 小机；主要动作是征得评测引用许可 + 回传固件反馈；$448.4 USD EXW（25% 档，SmartByte LT-IS6328XGP-4XS24GT-4BT 2400 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -66,14 +66,41 @@ updated: 2026-10-21
 - **是谁**：英国德比小型 IT 咨询/绿色 IT 服务公司（2011 年注册，<25 人，<$5M），业务为服务器虚拟化、硬件升级、IT 设备回收。用户表：问过 90W bt 工业 PoE，1 次实质回复，仅 3 次推送。
 - **类型**：IT 服务商/终端（非渠道）
 - **规模**：<25 人；<$5M（NeverBounce 口径）
+- **在卖/在用品牌**：Saga Telecom（已购）, Linovision
 - **【官网】定位：可持续 IT 咨询**
   > Sustainability is now a major focus for organizations … Go Green IT can help with this. … Registered Address : 222 Warwick Avenue, Derby, England, DE23 6HP
   > 来源：http://gogreenit.net/（抓取 2026-10-21）
 - **【第三方（Companies House）】注册信息**
   > GO GREEN IT LTD … Company status: Active · Private limited Company · Incorporated on 26 April 2011
   > 来源：https://find-and-update.company-information.service.gov.uk/company/07614771（抓取 2026-10-21）
+- **【客户官网评测】2025-08 购入 Saga STI-42424XGGPM-4BT 并公开评测（含优缺点）**
+  > Saga Telecom Industrial Switch Price: £588 + import charges), August 2025 This was bought to replace the buggy Linovision POE-SW708GM-DC12V switch. (Model STI-42424XGGPM-4BT) … The salesman was very helpful, and when I mentioned about the SNMP limitations with the Linovision device, he sent me a PDF showing all the SNMP OIDs … Pros - Supports 10mbps half duplex … Well-designed UI - Backup results in a file with plain text commands … Cons - UI doesn't remember the # of lines to display - SFP ports doesn't autodetect speed, and default to 10gbps. I had to manually select 1gps for my 1gps Cisco SFP
+  > 来源：http://gogreenit.net/index.php?page=saga-telecom-switch（抓取 2026-10-21）
+- **【客户官网】主业 IT 回收/翻新（WEEE）**
+  > Go Green IT offers an IT equipment disposal service, where we aim to refurbish and reuse as many components as possible … We will adhere to the WEEE T11 exemption for repairing and refurbishing items
+  > 来源：http://www.gogreenit.net/index.php?page=EquipmentRecycling（抓取 2026-10-21）
 - **调研后定级**：B（原自动 A）——小型 IT 服务公司，一次性项目需求（90W bt 工业 PoE），无渠道属性与复购逻辑；B 慢跟。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网公开评测核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Go Green IT（gogreenit.net，英国） |
+| 其他 | IT 设备回收/翻新服务商（WEEE T11、数据销毁），同时运营「Green Reviews」栏目自费购买并评测离网/网络设备；**2025-08 自费 £588（+进口费）购入 Saga STI-42424XGGPM-4BT（L3，24 口）替换有 bug 的 Linovision POE-SW708GM-DC12V，并公开发表评测**：称赞销售响应（提供完整 SNMP OID PDF）、UI 设计、备份为明文 CLI 式配置、支持 10M 半双工；指出两项缺点（UI 不记忆显示行数；SFP 口不自动协商速率、默认 10G 需手动设 1G） |
+
+- **业务线**：IT 设备回收 / 翻新 / 数据销毁；自用离网供电与网络设备（评测栏目）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Saga Telecom | STI-42424XGGPM-4BT | L3 工业 PoE 24 口（含 SFP+），2025-08 购入 £588 + 进口费；公开评测含优缺点 | STI-42424XGGPM-4BT（已购） | http://gogreenit.net/index.php?page=saga-telecom-switch（2026-10-21） |
+| Linovision | POE-SW708GM-DC12V | 工业 8 GE 管理 PoE，2024-07 Amazon £379；被评为「buggy」、SNMP 受限，后被 Saga 机替换 | （已被 STI-42424XGGPM-4BT 替换） | http://gogreenit.net/index.php?page=linovision-poe-sw708gm-dc12v（2024-07） |
+
+- **触达通道（公开）**：网站: http://www.gogreenit.net/（Contact Us 表单）；评测页: http://gogreenit.net/index.php?page=saga-telecom-switch
+- **近况信号**：
+  - **公开好评参考客户**：评测页可作英国/欧洲客户的第三方背书（引用前先征得同意）；评测列出的两项 UI/SFP 缺点应原文转给 SmartByte 作固件改进项（2026-10-21）
+- **风险/边界**：一次性自用采购（1 台），非渠道复购——保持 B；价值在于背书与产品反馈，不在销量
+- **Saga 对位结论**：P1 STI-42424XGGPM-4BT（25% 档）——已购 STI-42424XGGPM-4BT 自用；后续仅可能补 STI-144GP / STI-288DGGPM 小机；主要动作是征得评测引用许可 + 回传固件反馈
+- **邮件切入句（英文）**：Thank you for the write-up on the STI-42424XGGPM-4BT; I have passed the two points (line-count memory in the UI and SFP speed auto-detect) to our firmware team, and would like to ask whether we may quote your review when talking to other UK customers.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -118,17 +145,18 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（IT 服务商/终端（非渠道）） |
+| **P1** | STI-42424XGGPM-4BT | 深挖对位：已购 STI-42424XGGPM-4BT 自用；后续仅可能补 STI-144GP / STI-288DGGPM 小机；主要动作是征得评测引用许可 + 回传固件反馈 | $448.4 USD EXW（25% 档，SmartByte LT-IS6328XGP-4XS24GT-4BT 2400 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（IT 服务商/终端（非渠道）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-42424XGGPM-4BT），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STI-288DGGPM）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STI-42424XGGPM-4BT）；只问一个问题：当前在采购的主力型号与月量。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -138,7 +166,7 @@ updated: 2026-10-21
 
 - **S**：有成交史，信任与开户成本已付；有 1 次实质回复（对方认识我们）；欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-288DGGPM 按 25% 档报价，做现供应商的第二货源；规模（调研）：<25 人；<$5M（NeverBounce 口径）
+- **O**：P1 STI-42424XGGPM-4BT 按 25% 档报价，做现供应商的第二货源；规模（调研）：<25 人；<$5M（NeverBounce 口径）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -166,25 +194,21 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Chris,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
+Picking up our earlier exchange about PoE / industrial switches. Thank you for the write-up on the STI-42424XGGPM-4BT; I have passed the two points (line-count memory in the UI and SFP speed auto-detect) to our firmware team, and would like to ask whether we may quote your review when talking to other UK customers.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

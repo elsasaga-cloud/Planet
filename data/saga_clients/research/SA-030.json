@@ -29,6 +29,27 @@
    "quote": "American Fibertek Proudly Continues 35 Year History of Manufacturing American Products and Mitigating Risks of Foreign Elements … wholly acquired by seasoned industry leader Donna Poulos",
    "url": "https://www.prnewswire.com/news-releases/american-fibertek-proudly-continues-35-year-history-of-manufacturing-american-products-and-mitigating-risks-of-foreign-elements-301025706.html",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "AFI510 系列端口与 PoE 规格",
+   "quote": "510 Ethernet Switch Series Ethernet Ports: 8 Ports – 10/100/1000T(x), 16 Ports – 10/100/1000T(x), 22 Ports – 10/100/1000T(x) + 2 RJ45/SFP Combo Ports, 24 Ports – 10/100/1000T(x), 48 Ports – 10/100/1000T(x) SFP Ports: 2 Ports – 100/1000Fx SFP, 4 Ports – 100/1000/10G Fx SFP+ … PoE: 30W PoE+, No",
+   "url": "https://americanfibertek.com/products/afi510-series-8-16-24-48-port-ethernet-switches-poe-available/",
+   "date": "2024-08-16"
+  },
+  {
+   "kind": "官网",
+   "claim": "24E/4SFP L2 管理机规格与「美国制造」叙事",
+   "quote": "24-10/100/1000Base-T PoE+ Ports 4 Dual Speed 100M/1G SFP Ports Console Port for CLI Management … Supports SNMP v1, v2c, v3 … American Fibertek is honored to create jobs for Americans at every step of the manufacturing process … SFP Ports: (4) 100/1G, (4) 10G",
+   "url": "https://americanfibertek.com/products/24-ethernet-4-sfp-port-layer-2-managed-switch/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "经销商网店",
+   "claim": "MX-6p 街价",
+   "quote": "MX-6p-PoE-2HP was $975.33 Special Price $753.00 … American Fibertek MX-6p-PoE-2HP Unmanaged 6-Port Ethernet Switch, (4) 10/100 PoE af & (2) SFP 1000 Ports",
+   "url": "https://www.surveillance-video.com/network-mx-6p-poe-2hp.html",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -43,5 +64,53 @@
  "grade_override": "B",
  "override_reason": "品牌定位是美国制造/BAA + 外采 TAA 合规（TAA 指定国不含中国大陆），SmartByte/HRUI/Hohunet 中国产整机无法进入其外采线；仅 SFP/电源等非 TAA 敏感配件有机会。B 慢跟：只在其主动询价时报配件。",
  "notes": "INH 红线：TAA/UL；本客户是典型 TAA 冲突案例。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网交换机目录核对）"
+ },
+ "business_lines": [
+  "安防光传输（视频/数据/音频光端机）",
+  "以太网交换机（AFI510 系列 8/16/22/24/48 口，PoE+）与 L2 管理机",
+  "媒体转换器（MX-6p 系列 4 FE PoE + 2 SFP）"
+ ],
+ "products_seen": [
+  {
+   "brand": "American Fibertek",
+   "model": "AFI510 系列",
+   "spec": "8/16/22/24/48 口 10/100/1000T，2×100/1000 SFP 或 4×10G SFP+，PoE+ 30W 可选",
+   "url": "https://americanfibertek.com/products/afi510-series-8-16-24-48-port-ethernet-switches-poe-available/",
+   "date": "2024-08-16",
+   "saga": "STC-28DGGPM / STC-424DGGPM-280W / STC-448DGGPM"
+  },
+  {
+   "brand": "American Fibertek",
+   "model": "24 Ethernet/4 SFP L2 Managed Switch",
+   "spec": "24×GE PoE+ + 4×100M/1G SFP + 4×10G，Console/USB，SNMP v1/v2c/v3，802.1x，10K Jumbo，16K MAC",
+   "url": "https://americanfibertek.com/products/24-ethernet-4-sfp-port-layer-2-managed-switch/",
+   "date": "2026-10-21",
+   "saga": "STC-424XGGPM-280W（24 PoE+ + 4×10G SFP+）"
+  },
+  {
+   "brand": "American Fibertek",
+   "model": "MX-6p-PoE / MX-6p-FX-PoE / MX-6p-PoE-2HP",
+   "spec": "4×10/100 PoE af/at + 2×SFP（100M 或 1G），外接 48V；街价 $753–$783（surveillance-video.com）",
+   "url": "https://www.surveillance-video.com/network-mx-6p-poe-2hp.html",
+   "date": "2026-10-21",
+   "saga": "STI-144GP（4 PoE + 上联）/ STI-110GE"
+  }
+ ],
+ "signals": [
+  "官网同时强调「Manufactured in America」与「sourced TAA compliant」交换机 → 交换机为外购贴牌，存在 OEM 二供空间；但 TAA 合规要求原产地为指定国，中国大陆制造不满足 → 只能切非 TAA 商业渠道 SKU（如 MX-6p 价位极高，Saga 同功能成本仅其零头）"
+ ],
+ "risks": [
+  "TAA/BAA 合规叙事是其核心卖点，中国产交换机难进其联邦/政府线；需在二封前问清 UL/TAA（INH 规则）",
+  "1 次回复、21 次跟进，热度低"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "OEM 二供：其 24E/4SFP L2 管理机（24 PoE+ + 4×10G）对位 STC-424XGGPM-280W；MX-6p 价位（$753+）对位 STI-144GP/STI-110GE 成本优势巨大；仅限非 TAA 商业线；OEM 30% 档"
+ },
+ "email_hook": "For the non-TAA commercial side of the AFI line, a 24-port PoE+ switch with 4×10G SFP+ uplinks in AFI packing lands far below your current sourced cost; one question: is UL listing required on that SKU, or FCC alone?"
 }

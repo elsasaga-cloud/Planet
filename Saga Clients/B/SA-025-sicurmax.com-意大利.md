@@ -22,7 +22,7 @@ replies: 0
 followups: 17
 first_contact: 2024-01-20
 last_contact: 2025-10-13
-p1: STC-448DGGPM
+p1: STC-28DGGPM
 price_tier: 25%
 research: done
 sources: 2
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **是谁**：意大利维罗纳省的民用/工业安防集成商（1992 年起，ISO 9001、SOA OS5/OS19/OS30 资质，具备意大利军方与 NATO 场所施工资格），业务：防盗、视频监控（含城市/交通）、消防、门禁。用户表：WhatsApp 已加，兴趣工业 PoE 配件，17 次推送无回复。（调研 2026-10-21；表内兴趣：工业PoE配件）
 - **为什么是 B 级**：**调研后定级 B**（17 次推送无任何回复（仅 WhatsApp 加上），小型集成商、项目型采购、且部分业务涉军方/NATO 场所（INH 守界）；B 慢跟。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；WhatsApp 已加；推送 17 次（2024-01-20 → 2025-10-13）
-- **P1（下一步唯一主推）**：STC-448DGGPM — 48 口 PoE 走量款；$321.4 USD EXW（25% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：集成商项目自用：STC-28DGGPM / STC-424DGGPM-280W 商用管理 PoE；工地/户外机柜位 STI-288DGGPM；25% 档；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -73,9 +73,32 @@ updated: 2026-10-21
 - **【官网】定位、历史与资质**
   > SICURMAX è specializzata in sistemi di sicurezza civili ed industriali. Dal 1992 opera con successo in tutto il Nord Italia … Certificazione del sistema di gestione Qualità ISO 9001-2015 · Attestazione SOA per le categorie OS5- OS19- OS30 … abilitazioni per realizzazioni presso Enti e Organizzazioni Militari Italiani e NATO
   > 来源：https://sicurmax.com/azienda（抓取 2026-10-21）
+- **【官网】公司法人、地址、电话、邮箱、资质**
+  > Sicurmax S.n.c., con sede a Bovolone (VR), è specializzata in sistemi di sicurezza civili e industriali. Con oltre 30 anni di esperienza, offre soluzioni personalizzate, certificazioni ISO 9001 e abilitazioni per realizzazioni presso Enti e Organizzazioni Militari Italiani e NATO … legalName SICURMAX S.R.L. vatID 02360600239 … Via del ciclamino, 7 … info@sicurmax.com … +39 045 690 0922
+  > 来源：https://sicurmax.com/azienda（抓取 2026-10-21）
+- **【官网】公共机构业务与 SOA**
+  > Certificata ISO 9001 e SOA, collabora con enti locali e istituzioni militari per la messa in sicurezza di strutture pubbliche.
+  > 来源：https://sicurmax.com/sistemi-di-sicurezza-per-enti-pubblici-a-bovolone-verona-sicurmax-33/soluzioni（抓取 2026-10-21）
 - **KP**：Massimo Marzari（合伙人（法人名称所示））info@sicurmax.com +39 045 690 0922〔https://sicurmax.com/azienda〕
+- **KP**：Massimo Marzari（创始合伙人（原 S.n.c. 名称「di Marzari Massimo & C.」））info@sicurmax.com（公司公开） +39 045 690 0922〔https://sicurmax.com/azienda〕
 - **调研后定级**：B（原自动 A）——17 次推送无任何回复（仅 WhatsApp 加上），小型集成商、项目型采购、且部分业务涉军方/NATO 场所（INH 守界）；B 慢跟。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | SICURMAX S.r.l.（原 Sicurmax S.n.c. di Marzari Massimo & C.；P.IVA 02360600239） |
+| 成立 | 1992 |
+| 总部/地址 | Via del Ciclamino 7, 37051 Bovolone (VR), Italia（+39 045 690 0922；info@sicurmax.com） |
+| 其他 | 北意大利民用/工业安防集成商（30+ 年）：防盗、视频监控、消防、门禁、无线系统；ISO 9001 + SOA；有意大利军方/NATO 设施施工资质（守界：不参与军方项目配套）；面向公共机构（学校、医疗）与工地 |
+
+- **业务线**：防盗 / 视频监控 / 门禁 安装（民用+工业）；公共机构与工地安防；消防
+- **触达通道（公开）**：网站: https://sicurmax.com/；电话: +39 045 690 0922（官网公开）；邮箱（公开）: info@sicurmax.com
+- **近况信号**：
+  - 已成交 + WA（用户表）；公共机构/工地项目持续——PoE 交换机复购型；军方/NATO 资质只作背景，不供军用项目
+- **风险/边界**：守界：客户持军方/NATO 施工资质——仅供民用/工业项目用通用交换机
+- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——集成商项目自用：STC-28DGGPM / STC-424DGGPM-280W 商用管理 PoE；工地/户外机柜位 STI-288DGGPM；25% 档
+- **邮件切入句（英文）**：For the school and municipal CCTV jobs you run around Verona, the Marvell-based 8- and 24-port PoE+ managed switches are in stock EXW, and the DIN-rail 8-port version covers the site cabins.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -120,6 +143,7 @@ updated: 2026-10-21
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Massimo Marzari | 合伙人（法人名称所示） | info@sicurmax.com / +39 045 690 0922 | 调研核实（公开页） | https://sicurmax.com/azienda |
+| Massimo Marzari | 创始合伙人（原 S.n.c. 名称「di Marzari Massimo & C.」） | info@sicurmax.com（公司公开） / +39 045 690 0922 | 调研核实（公开页） | https://sicurmax.com/azienda |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；邮件已推送 17 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -136,18 +160,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-448DGGPM | 48 口 PoE 走量款 | $321.4 USD EXW（25% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（安防集成商（含军方/NATO 场所资质）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：集成商项目自用：STC-28DGGPM / STC-424DGGPM-280W 商用管理 PoE；工地/户外机柜位 STI-288DGGPM；25% 档 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（安防集成商（含军方/NATO 场所资质）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-448DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-448DGGPM）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-28DGGPM）；只问一个问题：当前在采购的主力型号与月量。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -157,7 +180,7 @@ updated: 2026-10-21
 
 - **S**：有成交史，信任与开户成本已付；WhatsApp 直达；欧洲主攻区，复购与口碑可外溢
 - **W**：已推送 17 次无回复，邮件通道疲劳
-- **O**：P1 STC-448DGGPM 按 25% 档报价，做现供应商的第二货源；规模（调研）：未见人数（S.n.c. 合伙制小企业）
+- **O**：P1 STC-28DGGPM 按 25% 档报价，做现供应商的第二货源；规模（调研）：未见人数（S.n.c. 合伙制小企业）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -185,14 +208,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-448DGGPM - 48-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Massimo,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
+Thank you again for your earlier order with us - this is a short update rather than a cold mail. For the school and municipal CCTV jobs you run around Verona, the Marvell-based 8- and 24-port PoE+ managed switches are in stock EXW, and the DIN-rail 8-port version covers the site cabins.
 
-We supply a Marvell-based 48-port Gigabit PoE+ L2+ managed switch - model STC-448DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $321.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

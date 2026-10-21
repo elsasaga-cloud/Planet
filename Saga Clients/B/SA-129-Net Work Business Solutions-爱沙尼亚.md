@@ -22,7 +22,7 @@ replies: 3
 followups: 19
 first_contact: 2024-01-23
 last_contact: 2025-10-02
-p1: STC-424DGGPM-280W
+p1: STC-424XGGM
 price_tier: 25%
 research: done
 sources: 2
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **是谁**：爱沙尼亚网络业务方案公司，WA 在线，3 次回复、19 次跟进，内容为一般性信息交流。（调研 2026-10-21；表内兴趣：general information network business solutions）
 - **为什么是 B 级**：**调研后定级 B**（爱沙尼亚为非主动开发小国，互动停留在一般信息、无具体需求 → 慢跟。）；自动分级 A：+30 实质回复 3 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-8 部分邮箱发不过去（有 WhatsApp 兜底）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/爱沙尼亚；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 19 次（2024-01-23 → 2025-10-02）；最近一次客户回复：2025-02-27：有工业mini pc？
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424XGGM — 深挖对位：ISP 楼栋接入：STC-424XGGM（24×GE + 4×10G SFP+，L2+，非 PoE）为楼道机；楼间汇聚 STC-448XGGM(L3)；8 口小楼 STC-28DGGM；运营商自用 25% 档；$132.7 USD EXW（25% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -69,17 +69,41 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：未单独检索（仅用户记录）
+- **状态：已调研（2026-10-21）**　网站状态：nbs.ee 为停放域名（已注册、无主机，2026-10-21）；实际业务站 fiber.ee 在线
 - **是谁**：爱沙尼亚网络业务方案公司，WA 在线，3 次回复、19 次跟进，内容为一般性信息交流。
 - **类型**：IT/网络服务商
 - **规模**：待补证
 - **【用户记录】一般性信息交流；WA 已加；3 次回复 / 19 次**
   > general information network business solutions；372 5151032 已加（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【业务站】ISP 业务与近期楼栋接入**
+  > Kiire ja stabiilne Internet! Ehitame internetiühendusega võrke kiirusega kuni 10Gbit/s. Kortermajades interneti (optilise kaabli kaudu, kiirus – 200Mbit/200Mbit) hind on vaid 18 eurot! … 8 oktoober 2026 … 18 € pakett — kiirus tõusis 200 → 250 Mbit/s … Majad aadressidel Paekaare 68, 72 ja 74 on ühendatud meie võrguga … 25 august 2026 Maja aadressil Punane 1 on ühendatud meie võrguga
+  > 来源：https://fiber.ee/et/（抓取 2026-10-21）
+- **【名录】法人与站点归属**
+  > Network business solutions OÜ Arvutite ja välisseadmete hulgimüük. fiber.ee www.nbs.ee Infojuht tel 5033655 53616045
+  > 来源：https://www.infojuht.ee/Otsing-Network/（抓取 2026-10-21）
+- **【官网】nbs.ee 为停放域名**
+  > Your Domain www.nbs.ee is Registered NB! Your domain has been registered but has NOT yet been linked to a hosting service
+  > 来源：https://www.nbs.ee/（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） +372 515 1032（WA）〔用户 Clients 表〕
 - **调研后定级**：B（原自动 A）——爱沙尼亚为非主动开发小国，互动停留在一般信息、无具体需求 → 慢跟。
 - 备注：WA 维持；有具体项目再报价。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（名录 + 业务站核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Network Business Solutions OÜ（Infojuht 名录：计算机及外设批发；站点 fiber.ee / www.nbs.ee） |
+| 总部/地址 | Tallinn（服务楼宇位于 Lasnamäe 区：Paekaare 68/72/74、Punane 1 等）, Eesti |
+| 其他 | **小型住宅光纤 ISP + 数据中心/主机托管 + 域名注册商（.ee/.eu/.lv/.fi 认证）**：公寓楼光纤入户 18 €/月（2026-10 提速 200→250 Mbit/s）、24 € 档 400→500 Mbit/s、4G SIM 无限流量 12.40 €；网络建设「最高 10 Gbit/s」；2026-08/10 持续有新楼接入公告——楼栋接入交换机为持续性需求 |
+
+- **业务线**：住宅楼光纤宽带（Tallinn Lasnamäe）；数据中心托管 / 服务器租赁；主机与域名注册
+- **触达通道（公开）**：网站: https://fiber.ee/（业务站）；www.nbs.ee（停放）；名录: https://www.infojuht.ee/Otsing-Network/（电话 5033655 / 53616045）
+- **近况信号**：
+  - ISP 持续新增楼栋接入（2026-08-25 Punane 1；2026-10-08 Paekaare 68/72/74）→ 每栋楼 1–2 台 24 口 GE + 10G 上联管理机；WA 在线、3 次回复（用户表）
+- **风险/边界**：小型 ISP、单次 1–5 台；爱沙尼亚为非主动挖掘国家（INH），仅跟现有线索
+- **Saga 对位结论**：P1 STC-424XGGM（25% 档）——ISP 楼栋接入：STC-424XGGM（24×GE + 4×10G SFP+，L2+，非 PoE）为楼道机；楼间汇聚 STC-448XGGM(L3)；8 口小楼 STC-28DGGM；运营商自用 25% 档
+- **邮件切入句（英文）**：For the new buildings you are connecting on Paekaare and Punane, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW per unit; how many risers are planned for the next phase?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -140,7 +164,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（IT/网络服务商） |
+| **P1** | STC-424XGGM | 深挖对位：ISP 楼栋接入：STC-424XGGM（24×GE + 4×10G SFP+，L2+，非 PoE）为楼道机；楼间汇聚 STC-448XGGM(L3)；8 口小楼 STC-28DGGM；运营商自用 25% 档 | $132.7 USD EXW（25% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（IT/网络服务商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -149,9 +173,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGM），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424XGGM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -161,7 +185,7 @@ updated: 2026-10-21
 
 - **S**：有 3 次实质回复（对方认识我们）；WhatsApp 直达；欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-424DGGPM-280W 按 25% 档报价，做现供应商的第二货源；规模（调研）：待补证
+- **O**：P1 STC-424XGGM 按 25% 档报价，做现供应商的第二货源；规模（调研）：待补证
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -189,25 +213,21 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Vadim,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. For the new buildings you are connecting on Paekaare and Punane, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW per unit; how many risers are planned for the next phase?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $140.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

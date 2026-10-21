@@ -26,9 +26,14 @@ def main():
         code = it['code']
         p = os.path.join(RESEARCH_DIR, code + '.json')
         if not os.path.exists(p):
-            print('no research json for', code, '— run add_research.py first')
-            continue
-        j = json.load(open(p, encoding='utf-8'))
+            # B 级加厚：无首轮调研 JSON 时自动建骨架（summary 必须由本块给出）
+            j = {'code': code, 'name_official': it.get('name_official', ''), 'researched_at': it.get('deep', {}).get('done_at', ''),
+                 'website_status': it.get('website_status', ''), 'summary': it.get('summary') or '（加厚挖掘建档，摘要见下文加厚块）',
+                 'type': '', 'size': '', 'brands_seen': [], 'evidence': [], 'kp': [], 'grade_override': None,
+                 'override_reason': '', 'notes': '（无首轮调研；由 deepen.py 建档）'}
+            print('created research skeleton for', code)
+        else:
+            j = json.load(open(p, encoding='utf-8'))
         merge = bool(it.get('merge'))  # v2 增量：列表追加去重、字典更新、标量替换
         for k in SET_FIELDS:
             if k not in it:

@@ -13,6 +13,13 @@
    "quote": "（web_search 'intecseg.com ITS S.L. seguridad España' 仅返回 intecsecurity.com、intecseguridad.com、inteccybersecurity.com 等无关实体）",
    "url": "https://www.intecseguridad.com/en/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "持牌安防公司、ISO 9001、业务范围",
+   "quote": "Intec Seguridad | Empresa de seguridad 100% menorquina. Autorizada por la Dirección General de Policía y Guardia Civil con el número de inscripción 3451 … CERTIFICACIÓN ISO EUROCERT 2025 SGS System Certification ISO 9001 … Mejor seguridad, alarmas, cámaras de videovigilancia, CCTV, cajas fuertes, contra incendios y más, de Menorca y Campus Mallorca",
+   "url": "https://www.intecseguridad.com/en/productos-y-servicios/",
+   "date": "2024-11-19"
   }
  ],
  "kp": [
@@ -27,5 +34,31 @@
  "grade_override": "B",
  "override_reason": "实体无法核实 + 20 次推送零回复；保留 WhatsApp 渠道慢跟，若其回复再补调研。",
  "notes": "",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网核对）"
+ },
+ "company_facts": {
+  "legal_name": "Intec Seguridad（ITS, S.L. / S.B.T.；intecseguridad.com，用户表域 intecseg.com）",
+  "hq": "Menorca（另有 Mallorca Campus），Baleares, España",
+  "other": "「100% 梅诺卡」持牌安防公司：DGP/Guardia Civil 登记号 3451；ISO 9001（SGS，Eurocert 2025）；业务：报警、CCTV、保险柜、消防、报警接收中心联动；参与 red.es 云方案资助计划"
+ },
+ "business_lines": [
+  "报警 + 报警接收中心（CRA）联动",
+  "CCTV 安装（远程查看）",
+  "消防 / 保险柜 / 门禁"
+ ],
+ "channels": {
+  "网站": "https://www.intecseguridad.com/"
+ },
+ "signals": [
+  "岛屿型安装商、CCTV 为常规业务——8/16 口 PoE 为耗材；已有成交 + WA（用户表）——保持低频补货式跟进"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "安装商自用：STC-28DGGPM（8 PoE + 2 SFP）为主，STC-424DGGPM-280W 为大项目；集成商 25% 档"
+ },
+ "email_hook": "Since the last order, the 8-port PoE+ managed switch now ships with the 2 SFP uplinks as standard; if you have a CCTV job coming up in Menorca or Mallorca I can hold EXW pricing for 15 days."
 }

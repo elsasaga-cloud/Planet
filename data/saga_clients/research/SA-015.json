@@ -22,6 +22,20 @@
    "quote": "Kategória zamestnancov 2026: 3-4 zamestnanci · Tržby: 500,000 - 1,000,000 €",
    "url": "https://finstat.sk/36225801",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "Avigilon 供应商、联系方式",
+   "quote": "ROVEZ Trnava – dodávateľ kamerových systémov AVIGILON. Komplexné bezpečnostné riešenia, špičkové technológie a 30 rokov skúseností. rovez@rovez.sk +421 905 441 595",
+   "url": "https://www.rovez.sk/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "注册名录",
+   "claim": "法人、地址、IČO",
+   "quote": "ROVEZ, s.r.o. - Predaj, montáž a servis a kamerovej techniky a bezpečnostných systémov … Sídlo: Ul. 9. mája 49, 917 00 Trnava IČO: 36225801 … IČ DPH: SK2020163277",
+   "url": "https://www.azet.sk/firma/32427/rovez-s-r-o/",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -36,5 +50,32 @@
  "grade_override": "B",
  "override_reason": "有样品单但 3–4 人微型集成商、样品后 13 次推送无回应，体量不支持长期投入；B 慢跟（半年一次回访即可）。",
  "notes": "",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + 注册核对）"
+ },
+ "company_facts": {
+  "legal_name": "ROVEZ, s.r.o.（IČO 36225801；IČ DPH SK2020163277）",
+  "hq": "Ul. 9. mája 49, 917 01 Trnava, Slovensko（+421 33 5516 655；+421 905 617 471 / 905 441 595；rovez@rovez.sk）",
+  "other": "Trnava 的 **Avigilon** 摄像系统供应商（30 年经验）：摄像/录像/门禁/EZS 报警 销售、安装、维护；第二站 kamerovesystemy.com"
+ },
+ "business_lines": [
+  "Avigilon 视频监控系统（销售+安装+服务）",
+  "报警 EZS、视频对讲"
+ ],
+ "channels": {
+  "网站": "https://www.rovez.sk/ / https://kamerovesystemy.com/",
+  "电话": "+421 905 441 595 / +421 33 5516 655（官网公开）",
+  "邮箱（公开）": "rovez@rovez.sk"
+ },
+ "signals": [
+  "已成交 + 样品（用户表）；Avigilon 高端摄像（多 PoE+ / PTZ）→ 需 30W 全口 PoE+ 与千兆上联，Saga 管理型机契合"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "Avigilon 安装商：STC-28DGGPM（8 PoE+ 30W 全口 + 2 SFP）/ STC-424DGGPM-280W；户外柜 STI-288DGGPM；集成商 25% 档"
+ },
+ "email_hook": "For Avigilon PTZ and multisensor heads the per-port 30 W budget matters; the Marvell-based 8- and 24-port PoE+ managed switches hold full 802.3at on every port, EXW, and I can send the test report from the sample batch."
 }

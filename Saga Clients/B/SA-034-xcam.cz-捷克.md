@@ -22,8 +22,8 @@ replies: 0
 followups: 9
 first_contact: 2025-03-12
 last_contact: 2025-11-06
-p1: STC-424DGGPM-280W
-price_tier: 25%
+p1: STI-144GP
+price_tier: 30%
 research: done
 sources: 2
 updated: 2026-10-21
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **是谁**：捷克俄斯特拉发的小型安防集成/安装商（2012 年注册），业务：摄像系统安装与维护、报警/门禁、车牌识别道闸、工地延时摄影、光伏电站摄像，使用 AXIS 等品牌；官网提到 LAN 元件。用户表：已在用 E-link 产品，9 次推送无回复；早期 AI 评 30% B。（调研 2026-10-21；表内兴趣：Elink的）
 - **为什么是 B 级**：**调研后定级 B**（小型安装商、9 次推送零回复、无自有品牌；与早期 AI 评估（30% B）一致。B 慢跟。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/捷克；+5 最近活动 2025；-10 推送 9 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；推送 9 次（2025-03-12 → 2025-11-06）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-144GP — 深挖对位：X- 自有标 OEM：STI-144GP（4 PoE + 1 上联，宽压 DIN）= 其 X-IMC005GP / X-104GP-SFP 同口型；8 口位 STI-288DGGPM；OEM 30% 档；$36.9 USD EXW（30% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -60,12 +60,41 @@ updated: 2026-10-21
 - **是谁**：捷克俄斯特拉发的小型安防集成/安装商（2012 年注册），业务：摄像系统安装与维护、报警/门禁、车牌识别道闸、工地延时摄影、光伏电站摄像，使用 AXIS 等品牌；官网提到 LAN 元件。用户表：已在用 E-link 产品，9 次推送无回复；早期 AI 评 30% B。
 - **类型**：安防集成/安装商（小型）
 - **规模**：未见人数（小型 s.r.o.）
-- **在卖/在用品牌**：AXIS, E-link
+- **在卖/在用品牌**：AXIS, E-link, X-（自有标）
 - **【官网】业务范围**
   > Bezpečnostní kamery - instalace a servis, alarmy, kamery pro solární elektrárny a LAN prvky Instalace a návrhy kamerových systémů, servis, jejich údržba … Adresa : Gen Piky 1A, Ostrava 1 … Email: info@xcam.cz Tel: 597 606 080 · IČO 29397839
   > 来源：https://www.xcam.cz/（抓取 2026-10-21）
+- **【官网网店】自有标工业 PoE 小交换机与价格**
+  > LAN PoE MiniSwitch 4+1, Industrial, POE booster 12V, X-IMC005GP LAN SWITCH … Kč 1,480.00 … Bezpečnostní kamery - instalace a servis, alarmy, kamery pro solární elektrárny a LAN prvky
+  > 来源：https://www.xcam.cz/（抓取 2023-10-04）
+- **【官网网店】X-104GP-SFP 规格**
+  > LAN POE SWITCH X-104GP-SFP, 4+1SFP, Industrial 104GP-SFP Series is a Mini Industrial 4-Port 10/100/1000T 802.3at PoE + 1-Port 100/1000X SFP Gigabit Ethernet Switch with 12~48VDC Input and Voltage Booster … Kč 1,680.00
+  > 来源：https://www.xcam.cz/produkt/kamera/（抓取 2023-05-22）
+- **【姊妹站】DIN 导轨 PoE 交换机主推**
+  > Jedinečný PoE switch pro DIN montáž a pasující do standardních rozvaděčů. Ušetří čas instalace a místo pro Vaše kamerové rozvody. V nabídce také standardní PoE switche do racku
+  > 来源：https://www.excam.cz/（抓取 2026-10-21）
 - **调研后定级**：B（原自动 A）——小型安装商、9 次推送零回复、无自有品牌；与早期 AI 评估（30% B）一致。B 慢跟。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网网店自有标核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Xcam.cz（含姊妹站 excam.cz） |
+| 其他 | 捷克摄像系统安装商 + 网店：安防摄像安装/维护、报警与门禁（住宅、写字楼、厂房）、**光伏电站摄像**；网店以 **X- 自有标**销售工业小型 PoE 交换机（X-IMC005GP 4+1 工业迷你 PoE 带 12V 升压 Kč 1,480；X-104GP-SFP 4 PoE + 1 SFP 工业 12~48VDC 升压 Kč 1,680），excam.cz 主推「DIN 导轨 PoE 交换机，装进标准配电箱」 |
+
+- **业务线**：摄像系统安装与维护（含光伏电站）；报警与门禁；网店：X- 自有标工业 PoE 小交换机、LAN 配件
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| X-（自有标） | X-IMC005GP | LAN PoE MiniSwitch 4+1，工业，PoE booster 12V，Kč 1,480 | STI-144GP（4 PoE + 上联，X- 标 OEM） | https://www.xcam.cz/（2023-10-04） |
+| X-（自有标） | X-104GP-SFP | 4×GE 802.3at PoE + 1×100/1000X SFP，12~48VDC 宽压升压，非管理，DIN/壁挂，Kč 1,680 | STI-144GP（同口型） | https://www.xcam.cz/produkt/kamera/（2023-05-22） |
+| eXcam | DIN 导轨 PoE 交换机（型号未列） | 装入标准配电箱的 DIN PoE 交换机 + 机架 PoE 交换机 | STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理） | https://www.excam.cz/（2026-10-21） |
+
+- **触达通道（公开）**：网站/网店: https://www.xcam.cz/ · https://www.excam.cz/
+- **近况信号**：
+  - 已成交（用户表）+ 自有 X- 标工业 PoE 小机在售 → 直接的 OEM 续单型客户：STI-144GP 对位其 4+1 主力 SKU，STI-288DGGPM 补其 DIN 8 口管理空缺
+- **Saga 对位结论**：P1 STI-144GP（30% 档）——X- 自有标 OEM：STI-144GP（4 PoE + 1 上联，宽压 DIN）= 其 X-IMC005GP / X-104GP-SFP 同口型；8 口位 STI-288DGGPM；OEM 30% 档
+- **邮件切入句（英文）**：For the X-104GP-SFP slot in your shop, the Marvell-based 4-PoE + SFP DIN unit with 12–48 V input can ship in X- packing at $35.5 EXW; shall I send the label template for the next batch?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -119,20 +148,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（安防集成/安装商（小型）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-144GP | 深挖对位：X- 自有标 OEM：STI-144GP（4 PoE + 1 上联，宽压 DIN）= 其 X-IMC005GP / X-104GP-SFP 同口型；8 口位 STI-288DGGPM；OEM 30% 档 | $36.9 USD EXW（30% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（安防集成/安装商（小型）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-144GP），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-424DGGPM-280W）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STI-144GP）；只问一个问题：当前在采购的主力型号与月量。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -140,7 +169,7 @@ updated: 2026-10-21
 
 - **S**：有成交史，信任与开户成本已付；欧洲主攻区，复购与口碑可外溢
 - **W**：已推送 9 次无回复，邮件通道疲劳
-- **O**：P1 STC-424DGGPM-280W 按 25% 档报价，做现供应商的第二货源；对位其在用/在卖的 Elink：涨价、断货或交期拉长时切入；规模（调研）：未见人数（小型 s.r.o.）
+- **O**：P1 STI-144GP 按 30% 档报价，做现供应商的第二货源；对位其在用/在卖的 Elink：涨价、断货或交期拉长时切入；规模（调研）：未见人数（小型 s.r.o.）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -168,14 +197,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STI-144GP - compact industrial switch (Marvell-based, neutral label)
 
 ```text
 Hello,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
+Thank you again for your earlier order with us - this is a short update rather than a cold mail. For the X-104GP-SFP slot in your shop, the Marvell-based 4-PoE + SFP DIN unit with 12–48 V input can ship in X- packing at $35.5 EXW; shall I send the label template for the next batch?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the Elink class you work with at a lower landed cost, and we can ship it with neutral packaging. Current price: $140.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based compact industrial switch, 4x Gigabit PoE+ plus 1 SFP - model STI-144GP - that fits the same slot as your X-（自有标） X-IMC005GP at a lower landed cost, and we can ship it with neutral packaging. Current price: $36.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

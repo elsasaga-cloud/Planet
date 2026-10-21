@@ -5,7 +5,10 @@
  "summary": "英国德比小型 IT 咨询/绿色 IT 服务公司（2011 年注册，<25 人，<$5M），业务为服务器虚拟化、硬件升级、IT 设备回收。用户表：问过 90W bt 工业 PoE，1 次实质回复，仅 3 次推送。",
  "type": "IT 服务商/终端（非渠道）",
  "size": "<25 人；<$5M（NeverBounce 口径）",
- "brands_seen": [],
+ "brands_seen": [
+  "Saga Telecom（已购）",
+  "Linovision"
+ ],
  "evidence": [
   {
    "kind": "官网",
@@ -20,10 +23,70 @@
    "quote": "GO GREEN IT LTD … Company status: Active · Private limited Company · Incorporated on 26 April 2011",
    "url": "https://find-and-update.company-information.service.gov.uk/company/07614771",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "客户官网评测",
+   "claim": "2025-08 购入 Saga STI-42424XGGPM-4BT 并公开评测（含优缺点）",
+   "quote": "Saga Telecom Industrial Switch Price: £588 + import charges), August 2025 This was bought to replace the buggy Linovision POE-SW708GM-DC12V switch. (Model STI-42424XGGPM-4BT) … The salesman was very helpful, and when I mentioned about the SNMP limitations with the Linovision device, he sent me a PDF showing all the SNMP OIDs … Pros - Supports 10mbps half duplex … Well-designed UI - Backup results in a file with plain text commands … Cons - UI doesn't remember the # of lines to display - SFP ports doesn't autodetect speed, and default to 10gbps. I had to manually select 1gps for my 1gps Cisco SFP",
+   "url": "http://gogreenit.net/index.php?page=saga-telecom-switch",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "客户官网",
+   "claim": "主业 IT 回收/翻新（WEEE）",
+   "quote": "Go Green IT offers an IT equipment disposal service, where we aim to refurbish and reuse as many components as possible … We will adhere to the WEEE T11 exemption for repairing and refurbishing items",
+   "url": "http://www.gogreenit.net/index.php?page=EquipmentRecycling",
+   "date": "2026-10-21"
   }
  ],
  "grade_override": "B",
  "override_reason": "小型 IT 服务公司，一次性项目需求（90W bt 工业 PoE），无渠道属性与复购逻辑；B 慢跟。",
  "notes": "",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网公开评测核对）"
+ },
+ "company_facts": {
+  "legal_name": "Go Green IT（gogreenit.net，英国）",
+  "other": "IT 设备回收/翻新服务商（WEEE T11、数据销毁），同时运营「Green Reviews」栏目自费购买并评测离网/网络设备；**2025-08 自费 £588（+进口费）购入 Saga STI-42424XGGPM-4BT（L3，24 口）替换有 bug 的 Linovision POE-SW708GM-DC12V，并公开发表评测**：称赞销售响应（提供完整 SNMP OID PDF）、UI 设计、备份为明文 CLI 式配置、支持 10M 半双工；指出两项缺点（UI 不记忆显示行数；SFP 口不自动协商速率、默认 10G 需手动设 1G）"
+ },
+ "business_lines": [
+  "IT 设备回收 / 翻新 / 数据销毁",
+  "自用离网供电与网络设备（评测栏目）"
+ ],
+ "products_seen": [
+  {
+   "brand": "Saga Telecom",
+   "model": "STI-42424XGGPM-4BT",
+   "spec": "L3 工业 PoE 24 口（含 SFP+），2025-08 购入 £588 + 进口费；公开评测含优缺点",
+   "url": "http://gogreenit.net/index.php?page=saga-telecom-switch",
+   "date": "2026-10-21",
+   "saga": "STI-42424XGGPM-4BT（已购）"
+  },
+  {
+   "brand": "Linovision",
+   "model": "POE-SW708GM-DC12V",
+   "spec": "工业 8 GE 管理 PoE，2024-07 Amazon £379；被评为「buggy」、SNMP 受限，后被 Saga 机替换",
+   "url": "http://gogreenit.net/index.php?page=linovision-poe-sw708gm-dc12v",
+   "date": "2024-07",
+   "saga": "（已被 STI-42424XGGPM-4BT 替换）"
+  }
+ ],
+ "channels": {
+  "网站": "http://www.gogreenit.net/（Contact Us 表单）",
+  "评测页": "http://gogreenit.net/index.php?page=saga-telecom-switch"
+ },
+ "signals": [
+  "**公开好评参考客户**：评测页可作英国/欧洲客户的第三方背书（引用前先征得同意）；评测列出的两项 UI/SFP 缺点应原文转给 SmartByte 作固件改进项（2026-10-21）"
+ ],
+ "risks": [
+  "一次性自用采购（1 台），非渠道复购——保持 B；价值在于背书与产品反馈，不在销量"
+ ],
+ "saga_fit": {
+  "p1": "STI-42424XGGPM-4BT",
+  "tier": 25,
+  "why": "已购 STI-42424XGGPM-4BT 自用；后续仅可能补 STI-144GP / STI-288DGGPM 小机；主要动作是征得评测引用许可 + 回传固件反馈"
+ },
+ "email_hook": "Thank you for the write-up on the STI-42424XGGPM-4BT; I have passed the two points (line-count memory in the UI and SFP speed auto-detect) to our firmware team, and would like to ask whether we may quote your review when talking to other UK customers."
 }

@@ -1,4 +1,5 @@
 # STS Italia S.r.l.
+**官方名称（调研核实）**：STS Italia S.r.l.（stsitalia.com，Arcore MB；勿与 sts-italia.it 传感器公司混淆）
 
 > **评级 B**　|　意大利　|　档案编号 `SB-024`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -8,6 +9,7 @@
 code: SB-024
 rating: B
 rating_auto: B
+name_official: "STS Italia S.r.l.（stsitalia.com，Arcore MB；勿与 sts-italia.it 传感器公司混淆）"
 score: 59
 country: 意大利
 region: 欧洲
@@ -19,21 +21,21 @@ replies: 1
 followups: 8
 first_contact: 2024-02-04
 last_contact: 2024-10-13
-p1: STC-448DGGPM
-price_tier: 20%
-research: pending
+p1: STC-424DGGPM-280W
+price_tier: 25%
+research: done
 sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：意大利的经销/集成（类型待核）；兴趣/在卖：fiber optic transmission information, live in milano
+- **是谁**：意大利 Arcore（Monza-Brianza）的安防与特种设施集成商（1984 年起，LinkedIn 51–200 人；C.F./P.I. 00865310247，REA 1490600）：火灾探测 IRAI、防盗、排烟 EFC、视频监控、门禁、控制室、车牌识别、无人机巡检；客户含企业、协会与公共行政。用户表：A 优质名单（Italy），1 次实质回复，8 次跟进；联系人 Eros Stefani、Andrea Rongoni。（调研 2026-10-21；表内兴趣：fiber optic transmission information, live in milano）
 - **为什么是 B 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+2 最近活动 2024
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 8 次（2024-02-04 → 2024-10-13）；最近一次客户回复：1120：欧元价格
-- **P1（下一步唯一主推）**：STC-448DGGPM — 48 口 PoE 走量款；$308.5 USD EXW（20% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：SI 项目机：STC-424DGGPM-280W（24 PoE+ 280W + 4 SFP）作摄像汇聚，STC-28DGGPM 作边缘；10G 上联升级 STC-424XGGPM-280W；集成商 25% 档；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -63,7 +65,44 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-024.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：意大利 Arcore（Monza-Brianza）的安防与特种设施集成商（1984 年起，LinkedIn 51–200 人；C.F./P.I. 00865310247，REA 1490600）：火灾探测 IRAI、防盗、排烟 EFC、视频监控、门禁、控制室、车牌识别、无人机巡检；客户含企业、协会与公共行政。用户表：A 优质名单（Italy），1 次实质回复，8 次跟进；联系人 Eros Stefani、Andrea Rongoni。
+- **【官网】法人、地址、税号**
+  > STS Italia s.r.l. © 2025 … Sede Legale in Via Altiero Spinelli, 134 – 20862 Arcore (MB) | C.F e P.I 00865310247 | REA n° 1490600 della C.C.I.A.A. di Milano Monza Brianza Lodi
+  > 来源：https://www.stsitalia.com/company-profile/（抓取 2026-10-21）
+- **【官网】业务范围与历史**
+  > Dal 1984 specializzati in sistemi di sicurezza ed impianti speciali … Forniamo servizi di consulenza, progettazione, installazione, manutenzione, assistenza e pronto intervento su sistemi di rilevazione incendio (IRAI), sistemi antintrusione, sistemi di evacuazione fumi e calore (EFC), videosorveglianza, controllo accessi, control room e lettura targhe e ispezioni aeree con droni
+  > 来源：https://www.stsitalia.com/chi-siamo/（抓取 2026-10-21）
+- **【LinkedIn】规模与行业**
+  > STS Italia S.r.l … Settore: Sicurezza e investigazioni Dimensioni dell'azienda: 51-200 dipendenti Sede principale: Arcore, Lombardia … Data di fondazione: 1984
+  > 来源：https://it.linkedin.com/company/stsitaliasrl（抓取 2026-10-21）
+- **【消歧】sts-italia.it 为另一家公司（传感器代理）**
+  > STS ITALIA S.R.L. è stata fondata nel 1992 con l'obiettivo di distribuire in Italia la sensoristica ed i trasduttori di pressione … Via Lambro 36 Opera (MI) … Partita Iva 10621530152
+  > 来源：https://www.sts-italia.it/（抓取 2023-04-26）
+- **【用户表】A 优质名单（Italy）；1 次实质回复；8 次跟进；联系人 Eros Stefani / Andrea Rongoni**
+  > （用户表字段）
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Eros Stefani（联系人（用户表））eros.stefani@stsitalia.com —〔用户表〕
+- **KP**：Andrea Rongoni（联系人（用户表））andrea.rongoni@stsitalia.com —〔用户表〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对 + 同名消歧））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | STS Italia S.r.l. |
+| 成立 | 1984 |
+| 总部/地址 | Via Altiero Spinelli 134, 20862 Arcore (MB), Italia |
+| 注册/税号 | C.F./P.I. 00865310247 · REA 1490600（Milano Monza Brianza Lodi） |
+| 其他 | 四位现任股东中两位为创始人；服务链 咨询→设计→安装→维护→抢修；控制室/集中监控能力（「Centralizzazione Impianti Attivi」）；**同名消歧：sts-italia.it = STS Italia S.r.l.（Opera MI，瑞士 STS 压力传感器代理，P.IVA 10621530152）与本客户无关** |
+
+- **业务线**：火灾探测 IRAI / 排烟 EFC（守界：消防主系统不供货，仅通用网络）；防盗、视频监控、门禁、车牌识别；控制室与集中监控、无人机巡检
+- **触达通道（公开）**：网站: https://www.stsitalia.com/；LinkedIn: https://it.linkedin.com/company/stsitaliasrl
+- **近况信号**：
+  - 中型 SI（51–200）+ 控制室业务 → 24 口 PoE+ 与 10G 上联汇聚机有位；公共行政客户多 → 要求 CE/RoHS 文件齐全（Saga 可提供）
+- **风险/边界**：消防/排烟系统属生命安全 → 仅供视频/门禁侧通用交换机，不介入 IRAI/EFC 链路；仅 1 次回复、8 次跟进，热度一般
+- **Saga 对位结论**：P1 STC-424DGGPM-280W（25% 档）——SI 项目机：STC-424DGGPM-280W（24 PoE+ 280W + 4 SFP）作摄像汇聚，STC-28DGGPM 作边缘；10G 上联升级 STC-424XGGPM-280W；集成商 25% 档
+- **邮件切入句（英文）**：For the CCTV and LPR sites you centralise into the control room, a 24-port PoE+ managed switch with 4 SFP uplinks (280 W budget) is EXW-priced per unit; I can also send the CE/RoHS files you would need for public-administration tenders.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -98,8 +137,9 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Eros Stefani | 联系人（用户表） | eros.stefani@stsitalia.com / — | 调研核实（公开页） | 用户表 |
+| Andrea Rongoni | 联系人（用户表） | andrea.rongoni@stsitalia.com / — | 调研核实（公开页） | 用户表 |
 | Eros stefani  sales manager | — | eros.stefani@stsitalia.com / andrea.rongoni@stsitalia.com / +393489019911 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
-| Andrea Rongoni | — | eros.stefani@stsitalia.com / andrea.rongoni@stsitalia.com / +393489019911 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 
@@ -116,20 +156,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-448DGGPM | 48 口 PoE 走量款 | $308.5 USD EXW（20% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-424DGGPM-280W | 深挖对位：SI 项目机：STC-424DGGPM-280W（24 PoE+ 280W + 4 SFP）作摄像汇聚，STC-28DGGPM 作边缘；10G 上联升级 STC-424XGGPM-280W；集成商 25% 档 | $140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-448DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-448DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424DGGPM-280W 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -137,7 +177,7 @@ updated: 2026-10-21
 
 - **S**：有 1 次实质回复（对方认识我们）；WhatsApp 直达；欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-448DGGPM 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-424DGGPM-280W 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -161,19 +201,18 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-448DGGPM - 48-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
 
 ```text
 Hi Eros,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. For the CCTV and LPR sites you centralise into the control room, a 24-port PoE+ managed switch with 4 SFP uplinks (280 W budget) is EXW-priced per unit; I can also send the CE/RoHS files you would need for public-administration tenders.
 
-We supply a Marvell-based 48-port Gigabit PoE+ L2+ managed switch - model STC-448DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $308.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $140.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

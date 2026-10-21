@@ -22,8 +22,8 @@ replies: 1
 followups: 16
 first_contact: 2024-05-10
 last_contact: 2025-10-06
-p1: STC-424DGGPM-280W
-price_tier: 20%
+p1: STC-28DGGPM
+price_tier: 25%
 research: done
 sources: 2
 updated: 2026-10-21
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **是谁**：荷兰超高清视频安防公司，WA 在线，1 次回复、16 次跟进。（调研 2026-10-21；表内兴趣：公司业务：Ultra HD Video）
 - **为什么是 B 级**：**调研后定级 B**（欧洲主攻区、CCTV 对位 PoE，但 1 次回复后 15 次推送无果 → 慢跟。）；自动分级 A：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/荷兰；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 16 次（2024-05-10 → 2025-10-06）；最近一次客户回复：2025-03-05：price
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：自进口安装商：STC-28DGGPM（全口 30W 配 4K 摄像）为主、STC-424DGGPM-280W 为多摄像点；25% 档（自进口亦可按 20% 谈量）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -72,17 +72,41 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：未单独检索（仅用户记录）
+- **状态：已调研（2026-10-21）**　网站状态：在线（内容 2021–2024）
 - **是谁**：荷兰超高清视频安防公司，WA 在线，1 次回复、16 次跟进。
 - **类型**：安防集成/经销商
 - **规模**：待补证
 - **【用户记录】业务 Ultra HD Video；WA 已加；1 次回复 / 16 次**
   > 公司业务：Ultra HD Video；31(0)6 -46 85 3228 已加（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网】业务模式与市场**
+  > Dios Ultra HD Video Security Systems is een onderdeel van EPIC EUROPE BV en heeft zich toegelegd op hoogwaardige digitale camerabeveiliging … Van 4 megapixel tot 30 megapixel camera's … mogelijk door middel van eigen import, distributie en installatie onder 1 dak te hebben … speerpunt markten: Benelux en Duitsland.
+  > 来源：https://dios-industries.com/（抓取 2022-11-23）
+- **【官网】地址与联系方式**
+  > Epic Europe B.V. De Meeten 82 4706 NH Roosendaal +31 (0)85 4018 169 … stuur een email naar: info@dios-industries.com
+  > 来源：https://dios-industries.com/contact/（抓取 2021-09-15）
+- **【注册名录】V.O.F. 注册与规模**
+  > De vennootschap onder firma Dios Industries is gevestigd op Rugstraat 64 te ST. WILLEBRORD … kvk nummer 76083926 … Bij Dios Industries zijn tussen de 2 en 5 personen werkzaam.
+  > 来源：https://www.oozo.nl/bedrijven/rucphen/sint-willebrord/sint-willebrord/1825632/dios-industries（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） +31 6 4685 3228（WA）〔用户 Clients 表〕
 - **调研后定级**：B（原自动 A）——欧洲主攻区、CCTV 对位 PoE，但 1 次回复后 15 次推送无果 → 慢跟。
 - 备注：WA 季度触达一次（STC-28DGGPM / STC-424DGGPM-280W，项目 25%）。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 注册核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Dios Ultra HD Video Security Systems — Epic Europe B.V. 旗下；另有 Dios Industries V.O.F.（KvK 76083926，Rugstraat 64, St. Willebrord，2–5 人） |
+| 总部/地址 | De Meeten 82, 4706 NH Roosendaal, Nederland（+31 85 401 8169；info@dios-industries.com） |
+| 其他 | 4K/超高清（4–30 MP）视频监控专营：**自行进口 + 分销 + 安装一体**，目标市场 Benelux + 德国；提供任何品牌系统的接管维护、IP over coax 200 m 改造 |
+
+- **业务线**：超高清 IP 视频监控（进口 + 分销 + 安装）；维护服务（Benelux/德国）
+- **触达通道（公开）**：网站: https://dios-industries.com/；电话: +31 85 401 8169（官网公开）；邮箱（公开）: info@dios-industries.com
+- **近况信号**：
+  - 自进口模式 → 可直接向厂家买 PoE 交换机配 4K 摄像（高 PoE 预算需求）；WA 在线、1 次回复、16 次跟进（用户表）
+- **风险/边界**：微型公司（2–5 人），单量小；网站近年更新少
+- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——自进口安装商：STC-28DGGPM（全口 30W 配 4K 摄像）为主、STC-424DGGPM-280W 为多摄像点；25% 档（自进口亦可按 20% 谈量）
+- **邮件切入句（英文）**：Since you import directly for your 4K installs, the 8-port PoE+ managed switch at $84.1 EXW with 30 W on every port covers the multi-sensor heads; shall I quote a mixed carton of 8- and 24-port units?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -140,20 +164,19 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（安防集成/经销商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：自进口安装商：STC-28DGGPM（全口 30W 配 4K 摄像）为主、STC-424DGGPM-280W 为多摄像点；25% 档（自进口亦可按 20% 谈量） | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（安防集成/经销商） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -161,7 +184,7 @@ updated: 2026-10-21
 
 - **S**：有 1 次实质回复（对方认识我们）；WhatsApp 直达；欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源；规模（调研）：待补证
+- **O**：P1 STC-28DGGPM 按 25% 档报价，做现供应商的第二货源；规模（调研）：待补证
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -189,14 +212,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Jacco,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Since you import directly for your 4K installs, the 8-port PoE+ managed switch at $84.1 EXW with 30 W on every port covers the multi-sensor heads; shall I quote a mixed carton of 8- and 24-port units?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

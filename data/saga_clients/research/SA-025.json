@@ -13,6 +13,20 @@
    "quote": "SICURMAX è specializzata in sistemi di sicurezza civili ed industriali. Dal 1992 opera con successo in tutto il Nord Italia … Certificazione del sistema di gestione Qualità ISO 9001-2015 · Attestazione SOA per le categorie OS5- OS19- OS30 … abilitazioni per realizzazioni presso Enti e Organizzazioni Militari Italiani e NATO",
    "url": "https://sicurmax.com/azienda",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "公司法人、地址、电话、邮箱、资质",
+   "quote": "Sicurmax S.n.c., con sede a Bovolone (VR), è specializzata in sistemi di sicurezza civili e industriali. Con oltre 30 anni di esperienza, offre soluzioni personalizzate, certificazioni ISO 9001 e abilitazioni per realizzazioni presso Enti e Organizzazioni Militari Italiani e NATO … legalName SICURMAX S.R.L. vatID 02360600239 … Via del ciclamino, 7 … info@sicurmax.com … +39 045 690 0922",
+   "url": "https://sicurmax.com/azienda",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "公共机构业务与 SOA",
+   "quote": "Certificata ISO 9001 e SOA, collabora con enti locali e istituzioni militari per la messa in sicurezza di strutture pubbliche.",
+   "url": "https://sicurmax.com/sistemi-di-sicurezza-per-enti-pubblici-a-bovolone-verona-sicurmax-33/soluzioni",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -22,10 +36,49 @@
    "email": "info@sicurmax.com",
    "phone": "+39 045 690 0922",
    "source": "https://sicurmax.com/azienda"
+  },
+  {
+   "name": "Massimo Marzari",
+   "role": "创始合伙人（原 S.n.c. 名称「di Marzari Massimo & C.」）",
+   "email": "info@sicurmax.com（公司公开）",
+   "phone": "+39 045 690 0922",
+   "source": "https://sicurmax.com/azienda"
   }
  ],
  "grade_override": "B",
  "override_reason": "17 次推送无任何回复（仅 WhatsApp 加上），小型集成商、项目型采购、且部分业务涉军方/NATO 场所（INH 守界）；B 慢跟。",
  "notes": "",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网核对）"
+ },
+ "company_facts": {
+  "legal_name": "SICURMAX S.r.l.（原 Sicurmax S.n.c. di Marzari Massimo & C.；P.IVA 02360600239）",
+  "founded": "1992",
+  "hq": "Via del Ciclamino 7, 37051 Bovolone (VR), Italia（+39 045 690 0922；info@sicurmax.com）",
+  "other": "北意大利民用/工业安防集成商（30+ 年）：防盗、视频监控、消防、门禁、无线系统；ISO 9001 + SOA；有意大利军方/NATO 设施施工资质（守界：不参与军方项目配套）；面向公共机构（学校、医疗）与工地"
+ },
+ "business_lines": [
+  "防盗 / 视频监控 / 门禁 安装（民用+工业）",
+  "公共机构与工地安防",
+  "消防"
+ ],
+ "channels": {
+  "网站": "https://sicurmax.com/",
+  "电话": "+39 045 690 0922（官网公开）",
+  "邮箱（公开）": "info@sicurmax.com"
+ },
+ "signals": [
+  "已成交 + WA（用户表）；公共机构/工地项目持续——PoE 交换机复购型；军方/NATO 资质只作背景，不供军用项目"
+ ],
+ "risks": [
+  "守界：客户持军方/NATO 施工资质——仅供民用/工业项目用通用交换机"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "集成商项目自用：STC-28DGGPM / STC-424DGGPM-280W 商用管理 PoE；工地/户外机柜位 STI-288DGGPM；25% 档"
+ },
+ "email_hook": "For the school and municipal CCTV jobs you run around Verona, the Marvell-based 8- and 24-port PoE+ managed switches are in stock EXW, and the DIN-rail 8-port version covers the site cabins."
 }

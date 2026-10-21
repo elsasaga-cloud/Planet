@@ -1,7 +1,7 @@
 {
  "code": "SA-128",
  "name_official": "DIOS Ultra HD Video Security（荷兰）",
- "website_status": "未单独检索（仅用户记录）",
+ "website_status": "在线（内容 2021–2024）",
  "summary": "荷兰超高清视频安防公司，WA 在线，1 次回复、16 次跟进。",
  "type": "安防集成/经销商",
  "size": "待补证",
@@ -12,6 +12,27 @@
    "claim": "业务 Ultra HD Video；WA 已加；1 次回复 / 16 次",
    "quote": "公司业务：Ultra HD Video；31(0)6 -46 85 3228 已加（用户 Clients 表摘录）",
    "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "业务模式与市场",
+   "quote": "Dios Ultra HD Video Security Systems is een onderdeel van EPIC EUROPE BV en heeft zich toegelegd op hoogwaardige digitale camerabeveiliging … Van 4 megapixel tot 30 megapixel camera's … mogelijk door middel van eigen import, distributie en installatie onder 1 dak te hebben … speerpunt markten: Benelux en Duitsland.",
+   "url": "https://dios-industries.com/",
+   "date": "2022-11-23"
+  },
+  {
+   "kind": "官网",
+   "claim": "地址与联系方式",
+   "quote": "Epic Europe B.V. De Meeten 82 4706 NH Roosendaal +31 (0)85 4018 169 … stuur een email naar: info@dios-industries.com",
+   "url": "https://dios-industries.com/contact/",
+   "date": "2021-09-15"
+  },
+  {
+   "kind": "注册名录",
+   "claim": "V.O.F. 注册与规模",
+   "quote": "De vennootschap onder firma Dios Industries is gevestigd op Rugstraat 64 te ST. WILLEBRORD … kvk nummer 76083926 … Bij Dios Industries zijn tussen de 2 en 5 personen werkzaam.",
+   "url": "https://www.oozo.nl/bedrijven/rucphen/sint-willebrord/sint-willebrord/1825632/dios-industries",
    "date": "2026-10-21"
   }
  ],
@@ -27,5 +48,36 @@
  "grade_override": "B",
  "override_reason": "欧洲主攻区、CCTV 对位 PoE，但 1 次回复后 15 次推送无果 → 慢跟。",
  "notes": "WA 季度触达一次（STC-28DGGPM / STC-424DGGPM-280W，项目 25%）。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + 注册核对）"
+ },
+ "company_facts": {
+  "legal_name": "Dios Ultra HD Video Security Systems — Epic Europe B.V. 旗下；另有 Dios Industries V.O.F.（KvK 76083926，Rugstraat 64, St. Willebrord，2–5 人）",
+  "hq": "De Meeten 82, 4706 NH Roosendaal, Nederland（+31 85 401 8169；info@dios-industries.com）",
+  "size": "2–5 人（KvK 口径）",
+  "other": "4K/超高清（4–30 MP）视频监控专营：**自行进口 + 分销 + 安装一体**，目标市场 Benelux + 德国；提供任何品牌系统的接管维护、IP over coax 200 m 改造"
+ },
+ "business_lines": [
+  "超高清 IP 视频监控（进口 + 分销 + 安装）",
+  "维护服务（Benelux/德国）"
+ ],
+ "channels": {
+  "网站": "https://dios-industries.com/",
+  "电话": "+31 85 401 8169（官网公开）",
+  "邮箱（公开）": "info@dios-industries.com"
+ },
+ "signals": [
+  "自进口模式 → 可直接向厂家买 PoE 交换机配 4K 摄像（高 PoE 预算需求）；WA 在线、1 次回复、16 次跟进（用户表）"
+ ],
+ "risks": [
+  "微型公司（2–5 人），单量小；网站近年更新少"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "自进口安装商：STC-28DGGPM（全口 30W 配 4K 摄像）为主、STC-424DGGPM-280W 为多摄像点；25% 档（自进口亦可按 20% 谈量）"
+ },
+ "email_hook": "Since you import directly for your 4K installs, the 8-port PoE+ managed switch at $84.1 EXW with 30 W on every port covers the multi-sensor heads; shall I quote a mixed carton of 8- and 24-port units?"
 }
