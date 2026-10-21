@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（ekingen.com.tr，快照 2026-10-21）",
- "summary": "土耳其网络/安防经销或集成（官网未见角色词，待核）：官网「Ekingen Elektronik - Resmi Web Sitesi」（tr-TR）；站内品牌：Uniview、Ajax；产品页：kataloglar、catalogs、urun-gruplari、product-groups；群发 1 次、无回复。",
- "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "summary": "土耳其 Ekingen Elektronik（安防产品分销：Uniview、Ajax；产品目录与品牌页）；表内 1 次跟进无回复。",
+ "type": "安防分销商（土耳其，Uniview/Ajax）",
  "size": "",
  "brands_seen": [
   "Uniview",
@@ -17,6 +17,13 @@
    "quote": "Ekingen Elektronik Resmi Web Sayfasına Hoşgeldiniz. Burada tüm markalarımız hakkında detaylı bilgi alabilirsiniz. İletişim kurabilirsiniz.",
    "url": "https://ekingen.com.tr/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Ekingen 定位",
+   "quote": "Ekingen Elektronik - Resmi Web Sitesi ; tüm markalarımız hakkında detaylı bilgi ; /kataloglar/",
+   "url": "https://ekingen.com.tr/",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -25,30 +32,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 ekingen.com.tr，语言 tr-TR，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "（待核）"
+  "安防产品分销（土耳其）"
  ],
  "channels": {
-  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "role": "安防分销商（土耳其，Uniview/Ajax）",
   "region": "土耳其",
   "contact": "info@ekingen.com.tr、enes@ekingen.com.tr"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://ekingen.com.tr/）",
-  "安防品牌：Uniview、Ajax → PoE 配套切入",
-  "官网公开邮箱：gst@ekingen.com.tr、info@ekingen.com.tr"
+  "官网：Ekingen Elektronik Resmi Web Sayfasına Hoşgeldiniz. Burada tüm markalarımız hakkında detaylı bilgi alabilirsiniz；页面 /kataloglar/、/urun-gruplari/；brands Uniview / Ajax",
+  "表内：无兴趣备注"
  ],
- "risks": [],
+ "risks": [
+  "Uniview 自带 PoE 交换机（价格基准低）；土耳其汇率敏感；1 次无回复"
+ ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 20,
+  "why": "Uniview 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
  },
- "email_hook": "Alongside the Uniview / Ajax lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Alongside the Uniview and Ajax lines you distribute, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — which PoE port count do your installer customers order most?"
 }

@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（fonet.com.tr，快照 2026-10-21）",
- "summary": "土耳其系统集成/工程商：官网「Fonet」（tr）；品类词：数据中心 / 企业 IT / 光纤 / 媒体转换；群发 1 次、无回复。",
- "type": "系统集成/工程商",
+ "summary": "土耳其 Fonet（1995 年起 IT 与电信基础设施方案：网络基础设施、数据中心、光纤；项目含机场、FSM 大桥、酒店；KP Akgün）；表内 1 次跟进无回复。",
+ "type": "IT/电信基础设施集成商（土耳其，项目型）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -14,38 +14,54 @@
    "quote": "30 Yıllık tecrübe Bilişim ve Telekom Altyapısında Güçlü Çözümler Telekomünikasyon ve ağ altyapılarında yenilikçi çözümler sunuyoruz. Güçlü bağlantılarla işinizi bir adım öteye taşıyın. Çözümlerimiz Keşfedin Yıllık Tecrübe 0 + hakkımızda 199",
    "url": "https://fonet.com.tr/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Fonet 定位",
+   "quote": "Anasayfa | Fonet ; 30 Yıllık tecrübe Bilişim ve Telekom Altyapısında Güçlü Çözümler ; Havaalanı Projelerimiz ; Otel Projelerimiz",
+   "url": "https://fonet.com.tr/",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Akgün",
+   "title": "（职务待核）",
+   "email": "akgun@fonet.com.tr",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 fonet.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "数据中心 / 企业 IT",
-  "光纤 / 媒体转换"
+  "IT / 电信基础设施集成（土耳其）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "IT/电信基础设施集成商（土耳其，项目型）",
   "region": "土耳其",
   "contact": "akgun@fonet.com.tr"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://fonet.com.tr/）",
-  "官网公开邮箱：7275info@fonet.com、info@fonet.com、info@fonet.com.tr"
+  "官网：30 Yıllık tecrübe Bilişim ve Telekom Altyapısında Güçlü Çözümler ; 1995’ten Bu Yana En İyi Ağ Altyapı Uzmanlığı ; Havaalanı Projelerimiz ; FSM Köprüsü ; Otel Projelerimiz；kw data center 5",
+  "KP Akgün（akgun@fonet.com.tr）（表内）"
  ],
- "risks": [],
+ "risks": [
+  "项目型集成商（机场/大桥项目多为公共招标，守界备注：仅民用商业项目）；土耳其汇率敏感；1 次无回复"
+ ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
+  "p1": "STC-424DGGPM-280W",
   "tier": 25,
-  "why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "项目型接入 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$140.1 @25%）、10G 上联版 STC-424XGGPM-280W（$188.7）、8 口 STC-28DGGPM（$84.1）"
  },
- "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For the access layer in your hotel and infrastructure projects, we supply Marvell-based 24-PoE + 4 SFP/SFP+ L2+ and 8-PoE + 2 SFP switches from single units, CE/RoHS, EXW USD — which access configuration do your current projects specify most?"
 }

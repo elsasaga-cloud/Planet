@@ -2,7 +2,7 @@
 
 > **评级 B**　|　土耳其　|　档案编号 `SB-701`　|　优先级 ★★　|　状态：已推送 1 次·未回复
 >
-> **类型**：系统集成/工程商（推断）　|　**历史关系**：推送 1 次（2025-10-30 → 2025-10-30）　|　**所在清单**：A优质名单(土耳其客户)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：IT/电信基础设施集成商（土耳其，项目型）（推断）　|　**历史关系**：推送 1 次（2025-10-30 → 2025-10-30）　|　**所在清单**：A优质名单(土耳其客户)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-701
@@ -12,14 +12,14 @@ score: 34
 country: 土耳其
 region: 土耳其
 website: fonet.com.tr
-type: 系统集成/工程商
+type: IT/电信基础设施集成商（土耳其，项目型）
 tier_tags: ["A优质名单(土耳其客户)"]
 deal: no
 replies: 0
 followups: 1
 first_contact: 2025-10-30
 last_contact: 2025-10-30
-p1: STC-28DGGPM
+p1: STC-424DGGPM-280W
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：土耳其系统集成/工程商：官网「Fonet」（tr）；品类词：数据中心 / 企业 IT / 光纤 / 媒体转换；群发 1 次、无回复。（调研 2026-10-21；表内兴趣：—）
+- **是谁**：土耳其 Fonet（1995 年起 IT 与电信基础设施方案：网络基础设施、数据中心、光纤；项目含机场、FSM 大桥、酒店；KP Akgün）；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-10-30 → 2025-10-30）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：项目型接入 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$140.1 @25%）、10G 上联版 STC-424XGGPM-280W（$188.7）、8 口 STC-28DGGPM（$84.1）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | fonet.com.tr（取自域名，公司全名待核） | 推断 |
 | 国家 | 土耳其 | 事实（用户表）|
 | 网站/域名 | fonet.com.tr | 事实（用户表 URL/邮箱域名） |
-| 类型 | 系统集成/工程商 | 推断（据兴趣/备注关键词） |
+| 类型 | IT/电信基础设施集成商（土耳其，项目型） | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
 | 来源（From） | IASF 2025 | 事实（用户表） |
 | 兴趣（Interested in） | — | 事实（用户表） |
@@ -56,27 +56,32 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（fonet.com.tr，快照 2026-10-21）
-- **是谁**：土耳其系统集成/工程商：官网「Fonet」（tr）；品类词：数据中心 / 企业 IT / 光纤 / 媒体转换；群发 1 次、无回复。
-- **类型**：系统集成/工程商
+- **是谁**：土耳其 Fonet（1995 年起 IT 与电信基础设施方案：网络基础设施、数据中心、光纤；项目含机场、FSM 大桥、酒店；KP Akgün）；表内 1 次跟进无回复。
+- **类型**：IT/电信基础设施集成商（土耳其，项目型）
 - **【官网快照】官网标题：Fonet；品类词 数据中心 / 企业 IT / 光纤 / 媒体转换**
   > 30 Yıllık tecrübe Bilişim ve Telekom Altyapısında Güçlü Çözümler Telekomünikasyon ve ağ altyapılarında yenilikçi çözümler sunuyoruz. Güçlü bağlantılarla işinizi bir adım öteye taşıyın. Çözümlerimiz Keşfedin Yıllık Tecrübe 0 + hakkımızda 199
   > 来源：https://fonet.com.tr/（抓取 2026-10-21）
+- **【官网快照】Fonet 定位**
+  > Anasayfa | Fonet ; 30 Yıllık tecrübe Bilişim ve Telekom Altyapısında Güçlü Çözümler ; Havaalanı Projelerimiz ; Otel Projelerimiz
+  > 来源：https://fonet.com.tr/（抓取 2026-10-21）
+- **KP**：Akgün（）akgun@fonet.com.tr 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 土耳其 |
 | 其他 | 官网 fonet.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：数据中心 / 企业 IT；光纤 / 媒体转换
-- **触达通道（公开）**：role: 系统集成/工程商；region: 土耳其；contact: akgun@fonet.com.tr
+- **业务线**：IT / 电信基础设施集成（土耳其）
+- **触达通道（公开）**：role: IT/电信基础设施集成商（土耳其，项目型）；region: 土耳其；contact: akgun@fonet.com.tr
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://fonet.com.tr/）
-  - 官网公开邮箱：7275info@fonet.com、info@fonet.com、info@fonet.com.tr
-- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+  - 官网：30 Yıllık tecrübe Bilişim ve Telekom Altyapısında Güçlü Çözümler ; 1995’ten Bu Yana En İyi Ağ Altyapı Uzmanlığı ; Havaalanı Projelerimiz ; FSM Köprüsü ; Otel Projelerimiz；kw data center 5
+  - KP Akgün（akgun@fonet.com.tr）（表内）
+- **风险/边界**：项目型集成商（机场/大桥项目多为公共招标，守界备注：仅民用商业项目）；土耳其汇率敏感；1 次无回复
+- **Saga 对位结论**：P1 STC-424DGGPM-280W（25% 档）——项目型接入 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$140.1 @25%）、10G 上联版 STC-424XGGPM-280W（$188.7）、8 口 STC-28DGGPM（$84.1）
+- **邮件切入句（英文）**：For the access layer in your hotel and infrastructure projects, we supply Marvell-based 24-PoE + 4 SFP/SFP+ L2+ and 8-PoE + 2 SFP switches from single units, CE/RoHS, EXW USD — which access configuration do your current projects specify most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -113,7 +118,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | akgun@fonet.com.tr | 用户表原值 | Clients/ 表 |
+| Akgün | — | akgun@fonet.com.tr | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -129,17 +134,18 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（系统集成/工程商） |
-| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-424DGGPM-280W | 深挖对位：项目型接入 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$140.1 @25%）、10G 上联版 STC-424XGGPM-280W（$188.7）、8 口 STC-28DGGPM（$84.1） | $140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（IT/电信基础设施集成商（土耳其，项目型）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -148,8 +154,8 @@ updated: 2026-10-21
 ## SWOT
 
 - **S**：土耳其主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
-- **O**：P1 STC-28DGGPM 按 25% 档报价，做现供应商的第二货源
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
+- **O**：P1 STC-424DGGPM-280W 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -165,7 +171,7 @@ updated: 2026-10-21
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ❓ 表内兴趣不含交换机关键词 |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
@@ -179,14 +185,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Akgün,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the access layer in your hotel and infrastructure projects, we supply Marvell-based 24-PoE + 4 SFP/SFP+ L2+ and 8-PoE + 2 SFP switches from single units, CE/RoHS, EXW USD — which access configuration do your current projects specify most?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $140.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

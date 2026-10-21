@@ -338376,17 +338376,17 @@
 "+8 区域 土耳其/土耳其",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "品类不符（无源）",
 "status": "已推送 2 次·未回复",
 "code": "SB-677",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-677",
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（alfafonet.com，快照 2026-10-21）",
-"summary": "土耳其系统集成/工程商：官网「Alfafonet Complete Connectivity Solutions」；品类词：电信 / FTTH / ISP 设备 / 布线 / 线缆 / 光纤 / 媒体转换；站内型号：OS1-OS2；表内「无缘设备」；群发 2 次、无回复。",
-"type": "系统集成/工程商",
+"summary": "土耳其 Alfafonet（「Complete Connectivity Solutions」光纤连接方案商：光缆 OS1/OS2、FTTH、电信无源产品；表内「无源设备」）；表内 2 次跟进无回复。",
+"type": "光纤无源产品商（品类不符）",
 "size": "",
 "brands_seen": [],
 "evidence": [
@@ -338403,42 +338403,55 @@
 "quote": "无缘设备",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "Alfafonet 定位",
+"quote": "Alfafonet Complete Connectivity Solutions ; OS1-OS2",
+"url": "https://alfafonet.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "无源设备",
+"quote": "无缘设备",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
 "kp": [],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "品类不符（无源光纤产品）；c_sub=品类不符（无源）",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "土耳其",
 "other": "官网 alfafonet.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
 },
 "business_lines": [
-"电信 / FTTH / ISP 设备",
-"布线 / 线缆",
-"光纤 / 媒体转换"
+"光纤连接 / 无源产品（土耳其）"
 ],
 "channels": {
-"role": "系统集成/工程商",
+"role": "光纤无源产品商（品类不符）",
 "region": "土耳其",
 "contact": "sales@alfafonet.com"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://alfafonet.com/）",
-"官网公开邮箱：sales@alfafonet.com",
-"用户表兴趣/备注：无缘设备"
+"官网：Alfafonet Complete Connectivity Solutions；kw fiber 44 / ftth 7 / telecom 11；站内 OS1-OS2",
+"表内：无源设备"
 ],
-"risks": [],
+"risks": [
+"品类不符：无源光纤连接产品（Saga 不做）；2 次无回复"
+],
 "saga_fit": {
-"p1": "STC-28DGGPM",
-"tier": 25,
-"why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"p1": null,
+"tier": 20,
+"why": "主营无源光纤连接产品（Saga 不做无源），表内标「无源设备」→ 改 C（品类不符）"
 },
-"email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+"email_hook": "（不发送：无源品类）"
 }
 },
 {
@@ -338945,14 +338958,21 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（apresteknoloji.com.tr，快照 2026-10-21）",
-"summary": "土耳其系统集成/工程商：官网「Apres Teknoloji」；群发 1 次、无回复。",
-"type": "系统集成/工程商",
+"summary": "土耳其 Apres Teknoloji（官网快照仅标题，业务范围待核；表内无兴趣备注）；表内 1 次跟进无回复。",
+"type": "IT/技术公司（土耳其，待核）",
 "size": "",
 "brands_seen": [],
 "evidence": [
 {
 "kind": "官网快照",
 "claim": "官网标题：Apres Teknoloji",
+"quote": "Apres Teknoloji",
+"url": "https://apresteknoloji.com.tr/",
+"date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "Apres 快照",
 "quote": "Apres Teknoloji",
 "url": "https://apresteknoloji.com.tr/",
 "date": "2026-10-21"
@@ -338964,7 +338984,7 @@
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "土耳其",
@@ -338974,21 +338994,23 @@
 "（待核）"
 ],
 "channels": {
-"role": "系统集成/工程商",
+"role": "IT/技术公司（土耳其，待核）",
 "region": "土耳其",
 "contact": "info@apresteknoloji.com.tr"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://apresteknoloji.com.tr/）",
-"官网公开邮箱：info@apresteknoloji.com.tr"
+"快照：Apres Teknoloji（内容空）",
+"表内：无兴趣备注"
 ],
-"risks": [],
+"risks": [
+"业务范围待核（快照仅标题、表内无兴趣备注）；仅 info@，1 次无回复"
+],
 "saga_fit": {
 "p1": "STC-28DGGPM",
-"tier": 25,
-"why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"tier": 20,
+"why": "业务待核 → 通用首触：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）"
 },
-"email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+"email_hook": "We supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP switches plus DIN-rail industrial units from single units, CE/RoHS, EXW USD — does your business carry or install network switches, and if so which port count do your customers ask for most?"
 }
 },
 {
@@ -339108,8 +339130,8 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（arbybilgisayar.com.tr，快照 2026-10-21）",
-"summary": "土耳其安防集成/经销：官网「Arby Bilgisayar | Kurumsal BT Bakım Anlaşması ve IT Destek Firması」（tr）；品类词：网络交换 / PoE；群发 1 次、无回复。",
-"type": "安防集成/经销",
+"summary": "土耳其 Arby Bilgisayar（伊斯坦布尔企业 IT 维护合约与 IT 支持公司，22 年经验，端到端企业方案与系统管理）；表内 1 次跟进无回复。",
+"type": "企业 IT 服务商（土耳其）",
 "size": "",
 "brands_seen": [],
 "evidence": [
@@ -339117,6 +339139,13 @@
 "kind": "官网快照",
 "claim": "官网标题：Arby Bilgisayar | Kurumsal BT Bakım Anlaşması ve IT Destek Firması；品类词 网络交换 / PoE",
 "quote": "Arby Bilgisayar; İstanbul'un en iyi ve büyük kurumsal bilgisayar firmaları arasında, 22 yıllık tecrübeyle BT bakım anlaşması ve IT desteği sunar.",
+"url": "https://www.arbybilgisayar.com.tr/",
+"date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "Arby 定位",
+"quote": "Arby Bilgisayar | Kurumsal BT Bakım Anlaşması ve IT Destek Firması ; 22 yıllık tecrübeyle BT bakım anlaşması ve IT desteği",
 "url": "https://www.arbybilgisayar.com.tr/",
 "date": "2026-10-21"
 }
@@ -339127,31 +339156,33 @@
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "土耳其",
 "other": "官网 arbybilgisayar.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
 },
 "business_lines": [
-"网络交换 / PoE"
+"企业 IT 维护 / 支持（土耳其）"
 ],
 "channels": {
-"role": "安防集成/经销",
+"role": "企业 IT 服务商（土耳其）",
 "region": "土耳其",
 "contact": "bilgi@arbybilgisayar.com.tr"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://www.arbybilgisayar.com.tr/）",
-"官网公开邮箱：bilgi@arbybilgisayar.com.tr、destek@arbybilgisayar.com.tr"
+"官网：Arby Bilgisayar; İstanbul’un en iyi ve büyük kurumsal bilgisayar firmaları arasında, 22 yıllık tecrübeyle BT bakım anlaşması ve IT desteği sunar；首页 Uçtan Uca Kurumsal Çözümler",
+"表内：无兴趣备注"
 ],
-"risks": [],
+"risks": [
+"IT 服务商（硬件为附带采购，量小）；土耳其汇率敏感；仅 bilgi@，1 次无回复"
+],
 "saga_fit": {
 "p1": "STC-28DGGPM",
 "tier": 25,
-"why": "官网快照对位：交换机词频 2、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：安防集成/经销→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"why": "企业 IT 维护配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 GE + 4×10G STC-424XGGM（$132.7）"
 },
-"email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+"email_hook": "For the access switches you deploy under corporate IT maintenance contracts, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from single units, CE/RoHS, EXW USD — which switch position comes up most in your Istanbul client sites?"
 }
 },
 {
@@ -339520,17 +339551,25 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（arthaberlesme.com，快照 2026-10-21）",
-"summary": "土耳其安防集成/经销：官网「ART Haberleşme ve Güvenlik Sistemleri | Karel Yetkili Satıcı ve Servisi」；品类词：网络交换 / PoE；站内品牌：Dahua；站内型号：IPG1000、WE105、DS200、IPG500；群发 1 次、无回复。",
-"type": "安防集成/经销",
+"summary": "土耳其 ART Haberleşme ve Güvenlik Sistemleri（Karel 授权经销与服务；通信与安防系统：IP 网关 IPG500/1000、MPLS VPN、e-Fax、二手设备；Dahua）；表内 1 次跟进无回复。",
+"type": "通信/安防集成商（土耳其，Karel 经销）",
 "size": "",
 "brands_seen": [
-"Dahua"
+"Dahua",
+"Karel"
 ],
 "evidence": [
 {
 "kind": "官网快照",
 "claim": "官网标题：ART Haberleşme ve Güvenlik Sistemleri | Karel Yetkili Satıcı ve Servisi；品类词 网络交换 / PoE",
 "quote": "Ürünler；Blog；Duyurular；Teknolojiyi Takip Edin；Bağlantılar；Hakkımızda",
+"url": "https://www.arthaberlesme.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "ART 定位",
+"quote": "ART Haberleşme ve Güvenlik Sistemleri | Karel Yetkili Satıcı ve Servisi ; /urun/mpls-vpn/",
 "url": "https://www.arthaberlesme.com/",
 "date": "2026-10-21"
 }
@@ -339541,31 +339580,33 @@
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "土耳其",
 "other": "官网 arthaberlesme.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
 },
 "business_lines": [
-"网络交换 / PoE"
+"通信 / 安防系统集成（土耳其）"
 ],
 "channels": {
-"role": "安防集成/经销",
+"role": "通信/安防集成商（土耳其，Karel 经销）",
 "region": "土耳其",
 "contact": "info@arthaberlesme.com"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://www.arthaberlesme.com/）",
-"安防品牌：Dahua → PoE 配套切入"
+"官网：ART Haberleşme ve Güvenlik Sistemleri | Karel Yetkili Satıcı ve Servisi；页面 /urun/mpls-vpn/、/urun/e-fax/；站内 IPG1000 / IPG500；kw ethernet 21",
+"表内：无兴趣备注"
 ],
-"risks": [],
+"risks": [
+"Karel 生态（配套交换机可能随品牌方案）；土耳其汇率敏感；仅 info@，1 次无回复"
+],
 "saga_fit": {
 "p1": "STC-28DGGPM",
 "tier": 25,
-"why": "官网快照对位：交换机词频 1、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：安防集成/经销→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"why": "IP 话机/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）"
 },
-"email_hook": "Alongside the Dahua lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+"email_hook": "For the PoE switches behind your Karel IP telephony and Dahua camera installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (QoS/VLAN for voice) from single units, CE/RoHS, EXW USD — which port count do your projects use most?"
 }
 },
 {
@@ -339873,10 +339914,12 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（arttelekom.com.tr，快照 2026-10-21）",
-"summary": "土耳其安防集成/经销：官网「Art Telekom - Telefon, IP Santral, Tümleşik iletişim, Çağrı Merkezi, Güvenlik Sistemleri」（tr）；品类词：安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE；产品页：aastra-mx-one-telefon-switch、art-telekom-urunler、voip-cozumler、dialog-4220-lite；群发 1 次、无回复。",
-"type": "安防集成/经销",
+"summary": "土耳其 Art Telekom（电话/IP 交换机、统一通信、呼叫中心、VoIP 产品与安防系统项目；Aastra MX-ONE、Dialog 4220；KP Müjde Balıkçıoğlu）；表内 1 次跟进无回复。",
+"type": "统一通信/安防集成商（土耳其）",
 "size": "",
-"brands_seen": [],
+"brands_seen": [
+"Aastra"
+],
 "evidence": [
 {
 "kind": "官网快照",
@@ -339884,41 +339927,56 @@
 "quote": "Tümleşik İletişim, Telefon Santralı, Çağrı Merkezi, IP Santral,Masa Üstü Telefon , VOIP Ürünleri, Güvenlik Ürünleri, Haberleşme ve Güvenlik Sistemleri Projeleri",
 "url": "https://www.arttelekom.com.tr/",
 "date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "Art Telekom 定位",
+"quote": "Art Telekom - Telefon, IP Santral, Tümleşik iletişim, Çağrı Merkezi, Güvenlik Sistemleri ; /urun/444/430/aastra-mx-one-telefon-switch",
+"url": "https://www.arttelekom.com.tr/",
+"date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Müjde Balıkçıoğlu",
+"title": "（职务待核）",
+"email": "mujde.balikcioglu@arttelekom.com.tr",
+"phone": "",
+"source": "用户表"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "土耳其",
 "other": "官网 arttelekom.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
 },
 "business_lines": [
-"安防监控（CCTV / 门禁）",
-"光纤 / 媒体转换",
-"网络交换 / PoE"
+"IP 电话 / 统一通信 / 呼叫中心 / 安防项目（土耳其）"
 ],
 "channels": {
-"role": "安防集成/经销",
+"role": "统一通信/安防集成商（土耳其）",
 "region": "土耳其",
 "contact": "mujde.balikcioglu@arttelekom.com.tr"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://www.arttelekom.com.tr/）",
-"官网公开邮箱：info@tekno-sel.com"
+"官网：Art Telekom - Telefon, IP Santral, Tümleşik iletişim, Çağrı Merkezi, Güvenlik Sistemleri；页面 /urun/444/430/aastra-mx-one-telefon-switch、/urunler/0/420/voip-cozumler；kw fiber 31 / cctv 22",
+"KP Mujde（表内）"
 ],
-"risks": [],
+"risks": [
+"UC 品牌生态（配套交换机可能随方案）；土耳其汇率敏感；1 次无回复"
+],
 "saga_fit": {
 "p1": "STC-28DGGPM",
 "tier": 25,
-"why": "官网快照对位：交换机词频 2、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：安防集成/经销→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"why": "IP 话机/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）"
 },
-"email_hook": "Mujde, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+"email_hook": "Müjde, for the PoE switches that power the IP phones and cameras in your unified-communications and security projects, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (voice QoS/VLAN) from single units, CE/RoHS, EXW USD — which port count do your call-centre and office projects use most?"
 }
 },
 {
@@ -340595,11 +340653,13 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（biges.com，快照 2026-10-21）",
-"summary": "土耳其安防集成/经销：官网「Biges」；站内品牌：Bosch；产品页：OD912、DLFB-R、VP228TE、MA-1200；群发 1 次、无回复。",
-"type": "安防集成/经销",
+"summary": "土耳其 Biges（家庭与商用摄像安防/报警系统、报警监控服务；自有品牌 VGuard、Bullwark；DVR/IP 摄像机、无线与光纤方案；Bosch；KP Erdal Gökşen）；表内 1 次跟进无回复。",
+"type": "安防分销商（土耳其，自有品牌 VGuard/Bullwark）",
 "size": "",
 "brands_seen": [
-"Bosch"
+"Bosch",
+"VGuard",
+"Bullwark"
 ],
 "evidence": [
 {
@@ -340608,39 +340668,56 @@
 "quote": "Ev ve İşyeri için kamera güvenlik alarm sistemleri ve hırsız alarm sistemleri, alarm izleme hizmeti. güvenlik kameraları, DVR kayıt cihazları, IP kamera, kablosuz ve fiber optik çözümleri. VGuard, Bullwark, Pinetron, Bosch Türkiye distribüt",
 "url": "https://biges.com/",
 "date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "Biges 定位",
+"quote": "Biges ; kamera güvenlik alarm sistemleri ve hırsız alarm sistemleri, alarm izleme hizmeti ; VGuard, Bul…",
+"url": "https://biges.com/",
+"date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Erdal Gökşen",
+"title": "（职务待核）",
+"email": "erdal.goksen@biges.com",
+"phone": "",
+"source": "用户表"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "土耳其",
 "other": "官网 biges.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
 },
 "business_lines": [
-"（待核）"
+"安防摄像 / 报警 / 报警监控（自有品牌 VGuard / Bullwark）"
 ],
 "channels": {
-"role": "安防集成/经销",
+"role": "安防分销商（土耳其，自有品牌 VGuard/Bullwark）",
 "region": "土耳其",
 "contact": "erdal.goksen@biges.com"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://biges.com/）",
-"安防品牌：Bosch → PoE 配套切入"
+"官网：Ev ve İşyeri için kamera güvenlik alarm sistemleri ve hırsız alarm sistemleri, alarm izleme hizmeti. güvenlik kameraları, DVR kayıt cihazları, IP kamera, kablosuz ve fiber optik çözümleri. VGuard, Bul…；页面 /urunler/OD912、/urunler/VP228TE；brands Bosch",
+"KP Erdal（erdal.goksen@biges.com）（表内）"
 ],
-"risks": [],
+"risks": [
+"体量：Biges 为土耳其大型安防分销商（既有 ODM 供应链、采购流程长）；土耳其汇率敏感；1 次无回复"
+],
 "saga_fit": {
 "p1": "STC-28DGGPM",
-"tier": 25,
-"why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：安防集成/经销→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"tier": 30,
+"why": "自有品牌配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴 VGuard/Bullwark 标；非管理 4/8/16 PoE 位 HRUI（列表价，注明）"
 },
-"email_hook": "Erdal, alongside the Bosch lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+"email_hook": "Erdal, for the PoE switches sold under the VGuard and Bullwark labels, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, CE/RoHS — which PoE SKU do your dealers reorder most with camera kits?"
 }
 },
 {
@@ -340997,8 +341074,8 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（coredata.com.tr，快照 2026-10-21）",
-"summary": "土耳其网络/安防经销或集成（官网未见角色词，待核）：官网「Plesk Obsidian 18.0.81」（en）；表内「其他」；群发 2 次、无回复。",
-"type": "网络/安防经销或集成（官网未见角色词，待核）",
+"summary": "土耳其 Coredata（官网为 Plesk 默认页，业务待核；表内兴趣「其他」）；表内 2 次跟进无回复。",
+"type": "IT 公司（土耳其，待核）",
 "size": "",
 "brands_seen": [],
 "evidence": [
@@ -341015,6 +341092,13 @@
 "quote": "其他",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "其他",
+"quote": "其他",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
 "kp": [],
@@ -341023,31 +341107,33 @@
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "土耳其",
 "other": "官网 coredata.com.tr，语言 en，快照状态 ok；角色判定来源：待核"
 },
 "business_lines": [
-"（官网无品类词 / 无快照：按表内兴趣）"
+"（待核）"
 ],
 "channels": {
-"role": "网络/安防经销或集成（官网未见角色词，待核）",
+"role": "IT 公司（土耳其，待核）",
 "region": "土耳其",
 "contact": "info@coredata.com.tr、satis@coredata.com.tr"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://coredata.com.tr/login_up.php）",
-"用户表兴趣/备注：其他"
+"快照：Plesk Obsidian 18.0.81（默认页）",
+"表内：其他"
 ],
-"risks": [],
+"risks": [
+"官网为 Plesk 默认页（经营状态待核）；兴趣「其他」；2 次无回复"
+],
 "saga_fit": {
 "p1": "STC-28DGGPM",
-"tier": 25,
-"why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"tier": 20,
+"why": "业务待核 → 通用首触：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）"
 },
-"email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+"email_hook": "We supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP switches plus DIN-rail industrial units from single units, CE/RoHS, EXW USD — does Coredata resell or install network switches, and which port count do your customers ask for most?"
 }
 },
 {
@@ -341767,17 +341853,25 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（dijitalbina.com，快照 2026-10-21）",
-"summary": "土耳其系统集成/工程商：官网「DİJİTAL BİNA | Kontrol Sistemleri | Schneider Elekctric EcoExpert」（tr）；品类词：安防监控（CCTV / 门禁）；站内品牌：Schneider；站内型号：JBE-P2L1、FDP221、FDP252、EN54-23；群发 1 次、无回复。",
-"type": "系统集成/工程商",
+"summary": "土耳其 Dijital Bina（楼宇控制系统：Schneider Electric EcoXpert 与 Jade Bird 火灾系统合作伙伴；Esmi Impresia 产品页；CCTV 24 处）；表内 1 次跟进无回复。",
+"type": "楼宇控制/消防系统集成商（土耳其，民用网络侧）",
 "size": "",
 "brands_seen": [
-"Schneider"
+"Schneider",
+"Jade Bird"
 ],
 "evidence": [
 {
 "kind": "官网快照",
 "claim": "官网标题：DİJİTAL BİNA | Kontrol Sistemleri | Schneider Elekctric EcoExpert；品类词 安防监控（CCTV / 门禁）",
 "quote": "Dijital Bina Schneider Electric EcoXpert & Jade Bird Partneri Güvenilir markalarla gücü hissedin… Hizmetlerimiz Dijital Bina | EcoXpert by Schneider Yangın Sistemleri Yangına erken müdahale hayat kurtarır. Ev ve iş yerleriniz için profesyon",
+"url": "https://dijitalbina.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "Dijital Bina 定位",
+"quote": "DİJİTAL BİNA | Kontrol Sistemleri | Schneider Elekctric EcoExpert ; Schneider Electric EcoXpert & Jade Bird Partneri",
 "url": "https://dijitalbina.com/",
 "date": "2026-10-21"
 }
@@ -341788,32 +341882,33 @@
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "土耳其",
 "other": "官网 dijitalbina.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
 },
 "business_lines": [
-"安防监控（CCTV / 门禁）"
+"楼宇控制 / 消防系统集成（土耳其）"
 ],
 "channels": {
-"role": "系统集成/工程商",
+"role": "楼宇控制/消防系统集成商（土耳其，民用网络侧）",
 "region": "土耳其",
 "contact": "info@dijitalbina.com"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://dijitalbina.com/）",
-"在售工业网络品牌：Schneider → 工业线对位",
-"官网公开邮箱：info@dijitalbina.com"
+"官网：DİJİTAL BİNA | Kontrol Sistemleri | Schneider Elekctric EcoExpert ; Schneider Electric EcoXpert & Jade Bird Partneri ; Yangın Sistemleri；页面 /urun/us-esmi-impresia/；kw cctv 24",
+"表内：无兴趣备注"
 ],
-"risks": [],
+"risks": [
+"守界备注：火灾报警系统本体为生命安全品类（Saga 不碰），仅供楼宇网络侧；Schneider 生态价格基准高；1 次无回复"
+],
 "saga_fit": {
 "p1": "STC-28DGGPM",
 "tier": 25,
-"why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"why": "楼宇 CCTV/BMS 网络配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 GE + 2 SFP STI-280GE（$48.6）；守界：消防系统本体不碰，仅供网络侧"
 },
-"email_hook": "Alongside the Schneider lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+"email_hook": "For the network switches in your building-control and CCTV installations, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-GE + 2 SFP industrial units (−40~75 °C, CE/RoHS) from single units, EXW USD — which switch position do your Schneider EcoXpert projects use most?"
 }
 },
 {
@@ -342123,8 +342218,8 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（ekingen.com.tr，快照 2026-10-21）",
-"summary": "土耳其网络/安防经销或集成（官网未见角色词，待核）：官网「Ekingen Elektronik - Resmi Web Sitesi」（tr-TR）；站内品牌：Uniview、Ajax；产品页：kataloglar、catalogs、urun-gruplari、product-groups；群发 1 次、无回复。",
-"type": "网络/安防经销或集成（官网未见角色词，待核）",
+"summary": "土耳其 Ekingen Elektronik（安防产品分销：Uniview、Ajax；产品目录与品牌页）；表内 1 次跟进无回复。",
+"type": "安防分销商（土耳其，Uniview/Ajax）",
 "size": "",
 "brands_seen": [
 "Uniview",
@@ -342137,6 +342232,13 @@
 "quote": "Ekingen Elektronik Resmi Web Sayfasına Hoşgeldiniz. Burada tüm markalarımız hakkında detaylı bilgi alabilirsiniz. İletişim kurabilirsiniz.",
 "url": "https://ekingen.com.tr/",
 "date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "Ekingen 定位",
+"quote": "Ekingen Elektronik - Resmi Web Sitesi ; tüm markalarımız hakkında detaylı bilgi ; /kataloglar/",
+"url": "https://ekingen.com.tr/",
+"date": "2026-10-21"
 }
 ],
 "kp": [],
@@ -342145,32 +342247,33 @@
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "土耳其",
 "other": "官网 ekingen.com.tr，语言 tr-TR，快照状态 ok；角色判定来源：待核"
 },
 "business_lines": [
-"（待核）"
+"安防产品分销（土耳其）"
 ],
 "channels": {
-"role": "网络/安防经销或集成（官网未见角色词，待核）",
+"role": "安防分销商（土耳其，Uniview/Ajax）",
 "region": "土耳其",
 "contact": "info@ekingen.com.tr、enes@ekingen.com.tr"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://ekingen.com.tr/）",
-"安防品牌：Uniview、Ajax → PoE 配套切入",
-"官网公开邮箱：gst@ekingen.com.tr、info@ekingen.com.tr"
+"官网：Ekingen Elektronik Resmi Web Sayfasına Hoşgeldiniz. Burada tüm markalarımız hakkında detaylı bilgi alabilirsiniz；页面 /kataloglar/、/urun-gruplari/；brands Uniview / Ajax",
+"表内：无兴趣备注"
 ],
-"risks": [],
+"risks": [
+"Uniview 自带 PoE 交换机（价格基准低）；土耳其汇率敏感；1 次无回复"
+],
 "saga_fit": {
 "p1": "STC-28DGGPM",
-"tier": 25,
-"why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"tier": 20,
+"why": "Uniview 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
 },
-"email_hook": "Alongside the Uniview / Ajax lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+"email_hook": "Alongside the Uniview and Ajax lines you distribute, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — which PoE port count do your installer customers order most?"
 }
 },
 {
@@ -342290,8 +342393,8 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（entpa.com.tr，快照 2026-10-21）",
-"summary": "土耳其分销商/批发商：官网「ENTPA Elektronik」；品类词：安防监控（CCTV / 门禁） / 网络交换 / PoE；站内品牌：Hanwha；站内型号：NVR-7408、CNI-5200、CNI-4136、CND-4128；群发 1 次、无回复。",
-"type": "分销商/批发商",
+"summary": "土耳其 ENTPA Elektronik（1983 年起，土耳其工程与原创设计，产品出口 5 大洲近 50 国「Global Tedarikçi」；CCTV/NVR 产品（Hanwha 代理）；KP etekyildiz@）；表内 1 次跟进无回复。",
+"type": "电子制造商兼安防分销（土耳其，自有设计）",
 "size": "",
 "brands_seen": [
 "Hanwha"
@@ -342303,6 +342406,13 @@
 "quote": "ENTPA, 1983 yılından bu güne üstün Türk mühendisliği ve 30 yıllık bilgi birikimini özgün tasarımlarıyla buluşturarak, ürünlerini dünyanın 5 kıtasında 50'ye yakın ülkeye ''Global Tedarikçi'' kimliğiyle ihraç eden ve Türkiye elektronik sektör",
 "url": "https://entpa.com.tr/",
 "date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "ENTPA 定位",
+"quote": "ENTPA Elektronik ; 1983 yılından bu güne üstün Türk mühendisliği ; ürünlerini dünyanın 5 kıtasında 50’ye yakın ülkeye “Global Tedarikçi” kimliğiyle",
+"url": "https://entpa.com.tr/",
+"date": "2026-10-21"
 }
 ],
 "kp": [],
@@ -342311,33 +342421,33 @@
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "土耳其",
 "other": "官网 entpa.com.tr，语言 ?，快照状态 ok；角色判定来源：官网文案"
 },
 "business_lines": [
-"安防监控（CCTV / 门禁）",
-"网络交换 / PoE"
+"电子产品制造 / 安防分销（土耳其）"
 ],
 "channels": {
-"role": "分销商/批发商",
+"role": "电子制造商兼安防分销（土耳其，自有设计）",
 "region": "土耳其",
 "contact": "etekyildiz@entpa.com.tr"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://entpa.com.tr/）",
-"安防品牌：Hanwha → PoE 配套切入",
-"官网公开邮箱：info@entpa.com.tr、satis@entpa.com.tr"
+"官网：ENTPA, 1983 yılından bu güne üstün Türk mühendisliği ve 30 yıllık bilgi birikimini özgün tasarımlarıyla buluşturarak, ürünlerini dünyanın 5 kıtasında 50’ye yakın ülkeye “Global Tedarikçi” kimliğiyle；页面 /katalog_tr.asp；站内 NVR-7408 / SNB-6004；brands Hanwha",
+"表内：无兴趣备注"
 ],
-"risks": [],
+"risks": [
+"自有设计厂商（可能有既定 ODM）；Hanwha 代理（品牌配套）；1 次无回复"
+],
 "saga_fit": {
 "p1": "STC-28DGGPM",
-"tier": 20,
-"why": "官网快照对位：交换机词频 1、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：分销商/批发商→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"tier": 30,
+"why": "自有设计/出口品牌配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 ENTPA 标；24 口 STC-424DGGPM-280W（$145.7）"
 },
-"email_hook": "Alongside the Hanwha lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+"email_hook": "For the PoE switches sold with your CCTV and NVR range in export markets, we can be an ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W) in ENTPA packaging from small lots, CE/RoHS — which PoE SKU do your export dealers request most?"
 }
 },
 {
@@ -342746,17 +342856,17 @@
 "+8 区域 北美/美国",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "守界（军工/政府）",
 "status": "已推送 7 次·未回复",
 "code": "SB-699",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-699",
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（fiberplex.com，快照 2026-10-21）",
-"summary": "美国分销商/经销商：官网「Fiberplex Technologies」（en）；品类词：光纤 / 媒体转换；站内型号：FOI-4544-ST；表内「有人卖他们牌子的工业FS 但网站上没显示；CWDM」；群发 7 次、无回复。",
-"type": "分销商/经销商",
+"summary": "美国 Fiberplex Technologies（「The Global Leader in Secure Digital Communications」：国防与情报、民用政府机构、系统集成、能源与交通、广播；表内「有人卖他们牌子的工业 FS 但网站上没显示 / CWDM」）；表内 7 次跟进无回复。",
+"type": "国防/政府光通信厂商（守界）",
 "size": "",
 "brands_seen": [],
 "evidence": [
@@ -342773,40 +342883,55 @@
 "quote": "有人卖他们牌子的工业FS 但网站上没显示；CWDM",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "Fiberplex 定位",
+"quote": "Fiberplex Technologies ; The Global Leader in Secured Digital Communications ; Defense & Intelligence ; Civilian Government Agencies",
+"url": "https://www.fiberplex.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "有人卖他们牌子的工业 FS",
+"quote": "有人卖他们牌子的工业FS 但网站上没显示 / CWDM",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
 "kp": [],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "守界：国防与情报/政府市场为核心；c_sub=守界（军工/政府）",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "美国",
 "other": "官网 fiberplex.com，语言 en，快照状态 ok；角色判定来源：用户表"
 },
 "business_lines": [
-"光纤 / 媒体转换"
+"安全光通信设备（国防 / 政府）"
 ],
 "channels": {
-"role": "分销商/经销商",
+"role": "国防/政府光通信厂商（守界）",
 "region": "美国",
 "contact": "sales@fiberplex.com、info@fiberplex.com"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://www.fiberplex.com/）",
-"官网公开邮箱：clients@fiberplex.com",
-"用户表兴趣/备注：有人卖他们牌子的工业FS 但网站上没显示；CWDM"
+"官网：Fiberplex Technologies ; The Global Leader in Secured Digital Communications ; Defense & Intelligence ; Civilian Government Agencies ; System Integration ; Energy & Transportation",
+"表内：有人卖他们牌子的工业 FS 但网站上没显示 / CWDM"
 ],
-"risks": [],
+"risks": [
+"守界：国防与情报/政府市场；自有品牌光通信产品（同行性质）；7 次无回复"
+],
 "saga_fit": {
-"p1": "STI-288DGGPM",
-"tier": 20,
-"why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：分销商/经销商→20%）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"p1": null,
+"tier": 30,
+"why": "国防与情报、政府机构为核心市场的安全光通信厂商 → 改 C（守界）"
 },
-"email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?"
+"email_hook": "（不发送：守界）"
 }
 },
 {
@@ -343111,8 +343236,8 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（fonet.com.tr，快照 2026-10-21）",
-"summary": "土耳其系统集成/工程商：官网「Fonet」（tr）；品类词：数据中心 / 企业 IT / 光纤 / 媒体转换；群发 1 次、无回复。",
-"type": "系统集成/工程商",
+"summary": "土耳其 Fonet（1995 年起 IT 与电信基础设施方案：网络基础设施、数据中心、光纤；项目含机场、FSM 大桥、酒店；KP Akgün）；表内 1 次跟进无回复。",
+"type": "IT/电信基础设施集成商（土耳其，项目型）",
 "size": "",
 "brands_seen": [],
 "evidence": [
@@ -343122,40 +343247,56 @@
 "quote": "30 Yıllık tecrübe Bilişim ve Telekom Altyapısında Güçlü Çözümler Telekomünikasyon ve ağ altyapılarında yenilikçi çözümler sunuyoruz. Güçlü bağlantılarla işinizi bir adım öteye taşıyın. Çözümlerimiz Keşfedin Yıllık Tecrübe 0 + hakkımızda 199",
 "url": "https://fonet.com.tr/",
 "date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "Fonet 定位",
+"quote": "Anasayfa | Fonet ; 30 Yıllık tecrübe Bilişim ve Telekom Altyapısında Güçlü Çözümler ; Havaalanı Projelerimiz ; Otel Projelerimiz",
+"url": "https://fonet.com.tr/",
+"date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Akgün",
+"title": "（职务待核）",
+"email": "akgun@fonet.com.tr",
+"phone": "",
+"source": "用户表"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "土耳其",
 "other": "官网 fonet.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
 },
 "business_lines": [
-"数据中心 / 企业 IT",
-"光纤 / 媒体转换"
+"IT / 电信基础设施集成（土耳其）"
 ],
 "channels": {
-"role": "系统集成/工程商",
+"role": "IT/电信基础设施集成商（土耳其，项目型）",
 "region": "土耳其",
 "contact": "akgun@fonet.com.tr"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://fonet.com.tr/）",
-"官网公开邮箱：7275info@fonet.com、info@fonet.com、info@fonet.com.tr"
+"官网：30 Yıllık tecrübe Bilişim ve Telekom Altyapısında Güçlü Çözümler ; 1995’ten Bu Yana En İyi Ağ Altyapı Uzmanlığı ; Havaalanı Projelerimiz ; FSM Köprüsü ; Otel Projelerimiz；kw data center 5",
+"KP Akgün（akgun@fonet.com.tr）（表内）"
 ],
-"risks": [],
+"risks": [
+"项目型集成商（机场/大桥项目多为公共招标，守界备注：仅民用商业项目）；土耳其汇率敏感；1 次无回复"
+],
 "saga_fit": {
-"p1": "STC-28DGGPM",
+"p1": "STC-424DGGPM-280W",
 "tier": 25,
-"why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"why": "项目型接入 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$140.1 @25%）、10G 上联版 STC-424XGGPM-280W（$188.7）、8 口 STC-28DGGPM（$84.1）"
 },
-"email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+"email_hook": "For the access layer in your hotel and infrastructure projects, we supply Marvell-based 24-PoE + 4 SFP/SFP+ L2+ and 8-PoE + 2 SFP switches from single units, CE/RoHS, EXW USD — which access configuration do your current projects specify most?"
 }
 },
 {
@@ -343467,17 +343608,17 @@
 "+8 区域 欧洲/德国",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "品类不符（工程服务）",
 "status": "已推送 2 次·未回复",
 "code": "SB-703",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-703",
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（globalcarrier.de，快照 2026-10-21）",
-"summary": "德国系统集成/工程商：官网「globalcarrier - Ganzheitliche Telekommunikationslösungen」（de-DE）；表内「Networking」；群发 2 次、无回复。",
-"type": "系统集成/工程商",
+"summary": "德国 globalcarrier telecom GmbH（电信整体方案：规划、光纤、施工监理、物流；90 余名员工、6 个分支；表内「Networking」）；表内 2 次跟进无回复。",
+"type": "光纤建设/工程服务商（德国）",
 "size": "",
 "brands_seen": [],
 "evidence": [
@@ -343494,40 +343635,48 @@
 "quote": "Networking",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "globalcarrier 定位",
+"quote": "globalcarrier - Ganzheitliche Telekommunikationslösungen ; über 90 mitarbeitenden Menschen und 6 Niederlassungen ; Planung ; Glasfaser ; Bauleitung ; Logistik",
+"url": "https://www.globalcarrier.de/",
+"date": "2026-10-21"
 }
 ],
 "kp": [],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "工程服务公司（光纤规划/施工），非硬件渠道；c_sub=品类不符（工程服务）",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "德国",
 "other": "官网 globalcarrier.de，语言 de-DE，快照状态 ok；角色判定来源：官网文案"
 },
 "business_lines": [
-"（官网无品类词 / 无快照：按表内兴趣）"
+"电信 / 光纤网络规划与施工（德国）"
 ],
 "channels": {
-"role": "系统集成/工程商",
+"role": "光纤建设/工程服务商（德国）",
 "region": "德国",
 "contact": "info@globalcarrier.de"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://www.globalcarrier.de/）",
-"官网公开邮箱：info@globalcarrier.de",
-"用户表兴趣/备注：Networking"
+"官网：Die globalcarrier telecom GmbH ist mit über 90 mitarbeitenden Menschen und 6 Niederlassungen in Hessen und Nordrhein-Westfalen ein klassisches mittelständisches Unternehmen ; Planung ; Glasfaser ; Bauleitung ; Logistik",
+"表内：Networking"
 ],
-"risks": [],
+"risks": [
+"品类不符：光纤规划/施工监理/物流服务（非交换机渠道）；2 次无回复"
+],
 "saga_fit": {
-"p1": "STC-28DGGPM",
+"p1": null,
 "tier": 25,
-"why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"why": "光纤网络规划与施工服务（工程服务，非硬件渠道）→ 改 C（品类不符）"
 },
-"email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+"email_hook": "（不发送：工程服务）"
 }
 },
 {
@@ -343647,8 +343796,8 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（goldnet.com.tr，快照 2026-10-21）",
-"summary": "土耳其网络/安防经销或集成（官网未见角色词，待核）：官网「goldnet.com.tr」；群发 1 次、无回复。",
-"type": "网络/安防经销或集成（官网未见角色词，待核）",
+"summary": "土耳其 Goldnet（官网快照空，业务待核；联系人 murat@）；表内 1 次跟进无回复。",
+"type": "IT/网络公司（土耳其，待核）",
 "size": "",
 "brands_seen": [],
 "evidence": [
@@ -343660,13 +343809,21 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Murat",
+"title": "（职务待核）",
+"email": "murat@goldnet.com.tr",
+"phone": "",
+"source": "用户表"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "土耳其",
@@ -343676,20 +343833,23 @@
 "（待核）"
 ],
 "channels": {
-"role": "网络/安防经销或集成（官网未见角色词，待核）",
+"role": "IT/网络公司（土耳其，待核）",
 "region": "土耳其",
 "contact": "murat@goldnet.com.tr"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://goldnet.com.tr/）"
+"快照：内容为空",
+"表内：murat@goldnet.com.tr"
 ],
-"risks": [],
+"risks": [
+"官网快照空（经营状态待核）；表内无兴趣备注；1 次无回复"
+],
 "saga_fit": {
 "p1": "STC-28DGGPM",
-"tier": 25,
-"why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"tier": 20,
+"why": "业务待核 → 通用首触：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）"
 },
-"email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+"email_hook": "Murat, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP switches plus DIN-rail industrial units from single units, CE/RoHS, EXW USD — does Goldnet resell or install network switches, and which port count do your customers ask for most?"
 }
 },
 {
@@ -344564,17 +344724,17 @@
 "+8 区域 欧洲/德国",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "品类不符（软件）",
 "status": "已推送 7 次·未回复",
 "code": "SB-708",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-708",
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（inotec.digital，快照 2026-10-21）",
-"summary": "德国电信/ISP/网络运营：官网「inotec.digital | Digitale Lösungen für Effizienz & Transparenz」（de-DE）；品类词：电信 / FTTH / ISP 设备；产品页：produkte；表内「IT Telecom」；群发 7 次、无回复。",
-"type": "电信/ISP/网络运营",
+"summary": "德国 INOTEC（inotec.digital：效率与透明度数字化方案——dagenio 文档信息化、TV Servicecaster、NE-4 Survey、DataMiner xOPS；FTTH 相关软件；表内「IT Telecom」）；表内 7 次跟进无回复。",
+"type": "数字化软件方案商（软件品类）",
 "size": "",
 "brands_seen": [],
 "evidence": [
@@ -344591,40 +344751,48 @@
 "quote": "IT Telecom",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "INOTEC 定位",
+"quote": "Startseite | inotec.digital | Digitale Lösungen für Effizienz & Transparenz ; dagenio ; DataMiner xOPS",
+"url": "https://inotec.digital/",
+"date": "2026-10-21"
 }
 ],
 "kp": [],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "软件公司（不经销硬件）；c_sub=品类不符（软件）",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "德国",
 "other": "官网 inotec.digital，语言 de-DE，快照状态 ok；角色判定来源：用户表"
 },
 "business_lines": [
-"电信 / FTTH / ISP 设备"
+"数字化 / 软件方案（德国）"
 ],
 "channels": {
-"role": "电信/ISP/网络运营",
+"role": "数字化软件方案商（软件品类）",
 "region": "德国",
 "contact": "info@inotec.digital"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://inotec.digital/）",
-"官网公开邮箱：info@inotec.digital",
-"用户表兴趣/备注：IT Telecom"
+"官网：INOTEC bietet digitale Lösungen für Effizienz und Transparenz: Komplettlösungen für smarte Datenflüsse ; dagenio ; TV SERVICECASTER ; NE-4 SURVEY ; DataMiner xOPS",
+"表内：IT Telecom"
 ],
-"risks": [],
+"risks": [
+"品类不符：软件/数字化方案；7 次无回复"
+],
 "saga_fit": {
-"p1": "STC-424XGGM",
+"p1": null,
 "tier": 25,
-"why": "电信/ISP → 24 GE + 4×10G 汇聚起手（来源：角色默认；档位：电信/ISP/网络运营→25%）；$132.7 USD EXW（25% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"why": "软件/数字化方案公司（不经销硬件）→ 改 C（品类不符）"
 },
-"email_hook": "We supply the Marvell-based 24-port gigabit L2+ switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?"
+"email_hook": "（不发送：软件公司）"
 }
 },
 {
@@ -345035,17 +345203,17 @@
 "+8 区域 欧洲/爱沙尼亚",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "品类不符（软件）",
 "status": "已推送 5 次·未回复",
 "code": "SB-710",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-710",
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（linktr.ee，快照 2026-10-21）",
-"summary": "爱沙尼亚系统集成/工程商：官网「Link in bio tool: Everything you are, in one simple link | Linktree」（en）；品类词：网络交换 / PoE；表内「用的一个知名品牌的 跟一下试试」；群发 5 次、无回复。",
-"type": "系统集成/工程商",
+"summary": "Linktree（linktr.ee：「Link in bio」SaaS 平台（7,000 万+ 创作者）；表内国别「爱沙尼亚」为域名误判；KP Sam Else（Senior Director, BD）；表内「用的一个知名品牌的，跟一下试试」）；表内 5 次跟进无回复。",
+"type": "SaaS 平台（品类不符）",
 "size": "",
 "brands_seen": [],
 "evidence": [
@@ -345062,40 +345230,55 @@
 "quote": "用的一个知名品牌的 跟一下试试",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "Linktree 定位",
+"quote": "Link in bio tool: Everything you are, in one simple link | Linktree ; Join 70M+ creators",
+"url": "https://linktr.ee/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "知名品牌 跟一下试试",
+"quote": "用的一个知名品牌的 跟一下试试",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
 "kp": [],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "SaaS 平台公司（非渠道）；c_sub=品类不符（软件）",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "爱沙尼亚",
 "other": "官网 linktr.ee，语言 en，快照状态 ok；角色判定来源：官网文案"
 },
 "business_lines": [
-"网络交换 / PoE"
+"Link-in-bio SaaS 平台"
 ],
 "channels": {
-"role": "系统集成/工程商",
+"role": "SaaS 平台（品类不符）",
 "region": "爱沙尼亚",
 "contact": "sam@linktr.ee"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://linktr.ee/）",
-"官网公开邮箱：press@linktr.ee",
-"用户表兴趣/备注：用的一个知名品牌的 跟一下试试"
+"官网：Link in bio tool: Everything you are, in one simple link | Linktree ; Join 70M+ creators",
+"表内：用的一个知名品牌的 跟一下试试；KP Sam Else / Senior Director, BD"
 ],
-"risks": [],
+"risks": [
+"品类不符：SaaS 平台（自用网络、非渠道）；国别为域名误判（.ee）；5 次无回复"
+],
 "saga_fit": {
-"p1": "STC-28DGGPM",
+"p1": null,
 "tier": 25,
-"why": "官网快照对位：交换机词频 1、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"why": "Linktree 为 SaaS 平台公司（自用网络，非渠道）→ 改 C"
 },
-"email_hook": "Sam, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+"email_hook": "（不发送：SaaS 平台）"
 }
 },
 {

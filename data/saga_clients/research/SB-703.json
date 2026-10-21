@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（globalcarrier.de，快照 2026-10-21）",
- "summary": "德国系统集成/工程商：官网「globalcarrier - Ganzheitliche Telekommunikationslösungen」（de-DE）；表内「Networking」；群发 2 次、无回复。",
- "type": "系统集成/工程商",
+ "summary": "德国 globalcarrier telecom GmbH（电信整体方案：规划、光纤、施工监理、物流；90 余名员工、6 个分支；表内「Networking」）；表内 2 次跟进无回复。",
+ "type": "光纤建设/工程服务商（德国）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,38 +21,46 @@
    "quote": "Networking",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "globalcarrier 定位",
+   "quote": "globalcarrier - Ganzheitliche Telekommunikationslösungen ; über 90 mitarbeitenden Menschen und 6 Niederlassungen ; Planung ; Glasfaser ; Bauleitung ; Logistik",
+   "url": "https://www.globalcarrier.de/",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "工程服务公司（光纤规划/施工），非硬件渠道；c_sub=品类不符（工程服务）",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 globalcarrier.de，语言 de-DE，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "电信 / 光纤网络规划与施工（德国）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "光纤建设/工程服务商（德国）",
   "region": "德国",
   "contact": "info@globalcarrier.de"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.globalcarrier.de/）",
-  "官网公开邮箱：info@globalcarrier.de",
-  "用户表兴趣/备注：Networking"
+  "官网：Die globalcarrier telecom GmbH ist mit über 90 mitarbeitenden Menschen und 6 Niederlassungen in Hessen und Nordrhein-Westfalen ein klassisches mittelständisches Unternehmen ; Planung ; Glasfaser ; Bauleitung ; Logistik",
+  "表内：Networking"
  ],
- "risks": [],
+ "risks": [
+  "品类不符：光纤规划/施工监理/物流服务（非交换机渠道）；2 次无回复"
+ ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
+  "p1": null,
   "tier": 25,
-  "why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "光纤网络规划与施工服务（工程服务，非硬件渠道）→ 改 C（品类不符）"
  },
- "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "（不发送：工程服务）"
 }

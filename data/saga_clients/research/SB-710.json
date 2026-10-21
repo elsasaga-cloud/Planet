@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（linktr.ee，快照 2026-10-21）",
- "summary": "爱沙尼亚系统集成/工程商：官网「Link in bio tool: Everything you are, in one simple link | Linktree」（en）；品类词：网络交换 / PoE；表内「用的一个知名品牌的 跟一下试试」；群发 5 次、无回复。",
- "type": "系统集成/工程商",
+ "summary": "Linktree（linktr.ee：「Link in bio」SaaS 平台（7,000 万+ 创作者）；表内国别「爱沙尼亚」为域名误判；KP Sam Else（Senior Director, BD）；表内「用的一个知名品牌的，跟一下试试」）；表内 5 次跟进无回复。",
+ "type": "SaaS 平台（品类不符）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,38 +21,53 @@
    "quote": "用的一个知名品牌的 跟一下试试",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Linktree 定位",
+   "quote": "Link in bio tool: Everything you are, in one simple link | Linktree ; Join 70M+ creators",
+   "url": "https://linktr.ee/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "知名品牌 跟一下试试",
+   "quote": "用的一个知名品牌的 跟一下试试",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "SaaS 平台公司（非渠道）；c_sub=品类不符（软件）",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "爱沙尼亚",
   "other": "官网 linktr.ee，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "网络交换 / PoE"
+  "Link-in-bio SaaS 平台"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "SaaS 平台（品类不符）",
   "region": "爱沙尼亚",
   "contact": "sam@linktr.ee"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://linktr.ee/）",
-  "官网公开邮箱：press@linktr.ee",
-  "用户表兴趣/备注：用的一个知名品牌的 跟一下试试"
+  "官网：Link in bio tool: Everything you are, in one simple link | Linktree ; Join 70M+ creators",
+  "表内：用的一个知名品牌的 跟一下试试；KP Sam Else / Senior Director, BD"
  ],
- "risks": [],
+ "risks": [
+  "品类不符：SaaS 平台（自用网络、非渠道）；国别为域名误判（.ee）；5 次无回复"
+ ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
+  "p1": null,
   "tier": 25,
-  "why": "官网快照对位：交换机词频 1、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "Linktree 为 SaaS 平台公司（自用网络，非渠道）→ 改 C"
  },
- "email_hook": "Sam, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "（不发送：SaaS 平台）"
 }

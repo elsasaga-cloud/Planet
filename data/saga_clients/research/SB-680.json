@@ -3,14 +3,21 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（apresteknoloji.com.tr，快照 2026-10-21）",
- "summary": "土耳其系统集成/工程商：官网「Apres Teknoloji」；群发 1 次、无回复。",
- "type": "系统集成/工程商",
+ "summary": "土耳其 Apres Teknoloji（官网快照仅标题，业务范围待核；表内无兴趣备注）；表内 1 次跟进无回复。",
+ "type": "IT/技术公司（土耳其，待核）",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
    "kind": "官网快照",
    "claim": "官网标题：Apres Teknoloji",
+   "quote": "Apres Teknoloji",
+   "url": "https://apresteknoloji.com.tr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Apres 快照",
    "quote": "Apres Teknoloji",
    "url": "https://apresteknoloji.com.tr/",
    "date": "2026-10-21"
@@ -22,7 +29,7 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
@@ -32,19 +39,21 @@
   "（待核）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "IT/技术公司（土耳其，待核）",
   "region": "土耳其",
   "contact": "info@apresteknoloji.com.tr"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://apresteknoloji.com.tr/）",
-  "官网公开邮箱：info@apresteknoloji.com.tr"
+  "快照：Apres Teknoloji（内容空）",
+  "表内：无兴趣备注"
  ],
- "risks": [],
+ "risks": [
+  "业务范围待核（快照仅标题、表内无兴趣备注）；仅 info@，1 次无回复"
+ ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 20,
+  "why": "业务待核 → 通用首触：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）"
  },
- "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "We supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP switches plus DIN-rail industrial units from single units, CE/RoHS, EXW USD — does your business carry or install network switches, and if so which port count do your customers ask for most?"
 }

@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（entpa.com.tr，快照 2026-10-21）",
- "summary": "土耳其分销商/批发商：官网「ENTPA Elektronik」；品类词：安防监控（CCTV / 门禁） / 网络交换 / PoE；站内品牌：Hanwha；站内型号：NVR-7408、CNI-5200、CNI-4136、CND-4128；群发 1 次、无回复。",
- "type": "分销商/批发商",
+ "summary": "土耳其 ENTPA Elektronik（1983 年起，土耳其工程与原创设计，产品出口 5 大洲近 50 国「Global Tedarikçi」；CCTV/NVR 产品（Hanwha 代理）；KP etekyildiz@）；表内 1 次跟进无回复。",
+ "type": "电子制造商兼安防分销（土耳其，自有设计）",
  "size": "",
  "brands_seen": [
   "Hanwha"
@@ -16,6 +16,13 @@
    "quote": "ENTPA, 1983 yılından bu güne üstün Türk mühendisliği ve 30 yıllık bilgi birikimini özgün tasarımlarıyla buluşturarak, ürünlerini dünyanın 5 kıtasında 50'ye yakın ülkeye ''Global Tedarikçi'' kimliğiyle ihraç eden ve Türkiye elektronik sektör",
    "url": "https://entpa.com.tr/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "ENTPA 定位",
+   "quote": "ENTPA Elektronik ; 1983 yılından bu güne üstün Türk mühendisliği ; ürünlerini dünyanın 5 kıtasında 50’ye yakın ülkeye “Global Tedarikçi” kimliğiyle",
+   "url": "https://entpa.com.tr/",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -24,31 +31,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 entpa.com.tr，语言 ?，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "网络交换 / PoE"
+  "电子产品制造 / 安防分销（土耳其）"
  ],
  "channels": {
-  "role": "分销商/批发商",
+  "role": "电子制造商兼安防分销（土耳其，自有设计）",
   "region": "土耳其",
   "contact": "etekyildiz@entpa.com.tr"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://entpa.com.tr/）",
-  "安防品牌：Hanwha → PoE 配套切入",
-  "官网公开邮箱：info@entpa.com.tr、satis@entpa.com.tr"
+  "官网：ENTPA, 1983 yılından bu güne üstün Türk mühendisliği ve 30 yıllık bilgi birikimini özgün tasarımlarıyla buluşturarak, ürünlerini dünyanın 5 kıtasında 50’ye yakın ülkeye “Global Tedarikçi” kimliğiyle；页面 /katalog_tr.asp；站内 NVR-7408 / SNB-6004；brands Hanwha",
+  "表内：无兴趣备注"
  ],
- "risks": [],
+ "risks": [
+  "自有设计厂商（可能有既定 ODM）；Hanwha 代理（品牌配套）；1 次无回复"
+ ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "官网快照对位：交换机词频 1、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：分销商/批发商→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 30,
+  "why": "自有设计/出口品牌配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 ENTPA 标；24 口 STC-424DGGPM-280W（$145.7）"
  },
- "email_hook": "Alongside the Hanwha lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+ "email_hook": "For the PoE switches sold with your CCTV and NVR range in export markets, we can be an ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W) in ENTPA packaging from small lots, CE/RoHS — which PoE SKU do your export dealers request most?"
 }

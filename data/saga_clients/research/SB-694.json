@@ -3,17 +3,25 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（dijitalbina.com，快照 2026-10-21）",
- "summary": "土耳其系统集成/工程商：官网「DİJİTAL BİNA | Kontrol Sistemleri | Schneider Elekctric EcoExpert」（tr）；品类词：安防监控（CCTV / 门禁）；站内品牌：Schneider；站内型号：JBE-P2L1、FDP221、FDP252、EN54-23；群发 1 次、无回复。",
- "type": "系统集成/工程商",
+ "summary": "土耳其 Dijital Bina（楼宇控制系统：Schneider Electric EcoXpert 与 Jade Bird 火灾系统合作伙伴；Esmi Impresia 产品页；CCTV 24 处）；表内 1 次跟进无回复。",
+ "type": "楼宇控制/消防系统集成商（土耳其，民用网络侧）",
  "size": "",
  "brands_seen": [
-  "Schneider"
+  "Schneider",
+  "Jade Bird"
  ],
  "evidence": [
   {
    "kind": "官网快照",
    "claim": "官网标题：DİJİTAL BİNA | Kontrol Sistemleri | Schneider Elekctric EcoExpert；品类词 安防监控（CCTV / 门禁）",
    "quote": "Dijital Bina Schneider Electric EcoXpert & Jade Bird Partneri Güvenilir markalarla gücü hissedin… Hizmetlerimiz Dijital Bina | EcoXpert by Schneider Yangın Sistemleri Yangına erken müdahale hayat kurtarır. Ev ve iş yerleriniz için profesyon",
+   "url": "https://dijitalbina.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Dijital Bina 定位",
+   "quote": "DİJİTAL BİNA | Kontrol Sistemleri | Schneider Elekctric EcoExpert ; Schneider Electric EcoXpert & Jade Bird Partneri",
    "url": "https://dijitalbina.com/",
    "date": "2026-10-21"
   }
@@ -24,30 +32,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 dijitalbina.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）"
+  "楼宇控制 / 消防系统集成（土耳其）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "楼宇控制/消防系统集成商（土耳其，民用网络侧）",
   "region": "土耳其",
   "contact": "info@dijitalbina.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://dijitalbina.com/）",
-  "在售工业网络品牌：Schneider → 工业线对位",
-  "官网公开邮箱：info@dijitalbina.com"
+  "官网：DİJİTAL BİNA | Kontrol Sistemleri | Schneider Elekctric EcoExpert ; Schneider Electric EcoXpert & Jade Bird Partneri ; Yangın Sistemleri；页面 /urun/us-esmi-impresia/；kw cctv 24",
+  "表内：无兴趣备注"
  ],
- "risks": [],
+ "risks": [
+  "守界备注：火灾报警系统本体为生命安全品类（Saga 不碰），仅供楼宇网络侧；Schneider 生态价格基准高；1 次无回复"
+ ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
   "tier": 25,
-  "why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "楼宇 CCTV/BMS 网络配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 GE + 2 SFP STI-280GE（$48.6）；守界：消防系统本体不碰，仅供网络侧"
  },
- "email_hook": "Alongside the Schneider lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For the network switches in your building-control and CCTV installations, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-GE + 2 SFP industrial units (−40~75 °C, CE/RoHS) from single units, EXW USD — which switch position do your Schneider EcoXpert projects use most?"
 }

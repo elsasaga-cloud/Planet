@@ -2,7 +2,7 @@
 
 > **评级 B**　|　土耳其　|　档案编号 `SB-681`　|　优先级 ★★　|　状态：已推送 1 次·未回复
 >
-> **类型**：安防集成/经销（推断）　|　**历史关系**：推送 1 次（2025-10-27 → 2025-10-27）　|　**所在清单**：A优质名单(土耳其客户)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：企业 IT 服务商（土耳其）（推断）　|　**历史关系**：推送 1 次（2025-10-27 → 2025-10-27）　|　**所在清单**：A优质名单(土耳其客户)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-681
@@ -12,7 +12,7 @@ score: 34
 country: 土耳其
 region: 土耳其
 website: arbybilgisayar.com.tr
-type: 安防集成/经销
+type: 企业 IT 服务商（土耳其）
 tier_tags: ["A优质名单(土耳其客户)"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：土耳其安防集成/经销：官网「Arby Bilgisayar | Kurumsal BT Bakım Anlaşması ve IT Destek Firması」（tr）；品类词：网络交换 / PoE；群发 1 次、无回复。（调研 2026-10-21；表内兴趣：—）
+- **是谁**：土耳其 Arby Bilgisayar（伊斯坦布尔企业 IT 维护合约与 IT 支持公司，22 年经验，端到端企业方案与系统管理）；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-10-27 → 2025-10-27）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：官网快照对位：交换机词频 2、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：安防集成/经销→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：企业 IT 维护配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 GE + 4×10G STC-424XGGM（$132.7）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | arbybilgisayar.com.tr（取自域名，公司全名待核） | 推断 |
 | 国家 | 土耳其 | 事实（用户表）|
 | 网站/域名 | arbybilgisayar.com.tr | 事实（用户表 URL/邮箱域名） |
-| 类型 | 安防集成/经销 | 推断（据兴趣/备注关键词） |
+| 类型 | 企业 IT 服务商（土耳其） | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
 | 来源（From） | IASF 2022 | 事实（用户表） |
 | 兴趣（Interested in） | — | 事实（用户表） |
@@ -56,27 +56,31 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（arbybilgisayar.com.tr，快照 2026-10-21）
-- **是谁**：土耳其安防集成/经销：官网「Arby Bilgisayar | Kurumsal BT Bakım Anlaşması ve IT Destek Firması」（tr）；品类词：网络交换 / PoE；群发 1 次、无回复。
-- **类型**：安防集成/经销
+- **是谁**：土耳其 Arby Bilgisayar（伊斯坦布尔企业 IT 维护合约与 IT 支持公司，22 年经验，端到端企业方案与系统管理）；表内 1 次跟进无回复。
+- **类型**：企业 IT 服务商（土耳其）
 - **【官网快照】官网标题：Arby Bilgisayar | Kurumsal BT Bakım Anlaşması ve IT Destek Firması；品类词 网络交换 / PoE**
   > Arby Bilgisayar; İstanbul'un en iyi ve büyük kurumsal bilgisayar firmaları arasında, 22 yıllık tecrübeyle BT bakım anlaşması ve IT desteği sunar.
   > 来源：https://www.arbybilgisayar.com.tr/（抓取 2026-10-21）
+- **【官网快照】Arby 定位**
+  > Arby Bilgisayar | Kurumsal BT Bakım Anlaşması ve IT Destek Firması ; 22 yıllık tecrübeyle BT bakım anlaşması ve IT desteği
+  > 来源：https://www.arbybilgisayar.com.tr/（抓取 2026-10-21）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 土耳其 |
 | 其他 | 官网 arbybilgisayar.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：网络交换 / PoE
-- **触达通道（公开）**：role: 安防集成/经销；region: 土耳其；contact: bilgi@arbybilgisayar.com.tr
+- **业务线**：企业 IT 维护 / 支持（土耳其）
+- **触达通道（公开）**：role: 企业 IT 服务商（土耳其）；region: 土耳其；contact: bilgi@arbybilgisayar.com.tr
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.arbybilgisayar.com.tr/）
-  - 官网公开邮箱：bilgi@arbybilgisayar.com.tr、destek@arbybilgisayar.com.tr
-- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——官网快照对位：交换机词频 2、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：安防集成/经销→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+  - 官网：Arby Bilgisayar; İstanbul’un en iyi ve büyük kurumsal bilgisayar firmaları arasında, 22 yıllık tecrübeyle BT bakım anlaşması ve IT desteği sunar；首页 Uçtan Uca Kurumsal Çözümler
+  - 表内：无兴趣备注
+- **风险/边界**：IT 服务商（硬件为附带采购，量小）；土耳其汇率敏感；仅 bilgi@，1 次无回复
+- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——企业 IT 维护配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 GE + 4×10G STC-424XGGM（$132.7）
+- **邮件切入句（英文）**：For the access switches you deploy under corporate IT maintenance contracts, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from single units, CE/RoHS, EXW USD — which switch position comes up most in your Istanbul client sites?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -131,7 +135,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：官网快照对位：交换机词频 2、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：安防集成/经销→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（安防集成/经销） |
+| **P1** | STC-28DGGPM | 深挖对位：企业 IT 维护配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 GE + 4×10G STC-424XGGM（$132.7） | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（企业 IT 服务商（土耳其）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -186,9 +190,9 @@ updated: 2026-10-21
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the access switches you deploy under corporate IT maintenance contracts, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from single units, CE/RoHS, EXW USD — which switch position comes up most in your Istanbul client sites?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

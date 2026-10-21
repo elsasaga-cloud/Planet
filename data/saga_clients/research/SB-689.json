@@ -3,11 +3,13 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（biges.com，快照 2026-10-21）",
- "summary": "土耳其安防集成/经销：官网「Biges」；站内品牌：Bosch；产品页：OD912、DLFB-R、VP228TE、MA-1200；群发 1 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "土耳其 Biges（家庭与商用摄像安防/报警系统、报警监控服务；自有品牌 VGuard、Bullwark；DVR/IP 摄像机、无线与光纤方案；Bosch；KP Erdal Gökşen）；表内 1 次跟进无回复。",
+ "type": "安防分销商（土耳其，自有品牌 VGuard/Bullwark）",
  "size": "",
  "brands_seen": [
-  "Bosch"
+  "Bosch",
+  "VGuard",
+  "Bullwark"
  ],
  "evidence": [
   {
@@ -16,37 +18,54 @@
    "quote": "Ev ve İşyeri için kamera güvenlik alarm sistemleri ve hırsız alarm sistemleri, alarm izleme hizmeti. güvenlik kameraları, DVR kayıt cihazları, IP kamera, kablosuz ve fiber optik çözümleri. VGuard, Bullwark, Pinetron, Bosch Türkiye distribüt",
    "url": "https://biges.com/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Biges 定位",
+   "quote": "Biges ; kamera güvenlik alarm sistemleri ve hırsız alarm sistemleri, alarm izleme hizmeti ; VGuard, Bul…",
+   "url": "https://biges.com/",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Erdal Gökşen",
+   "title": "（职务待核）",
+   "email": "erdal.goksen@biges.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 biges.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "（待核）"
+  "安防摄像 / 报警 / 报警监控（自有品牌 VGuard / Bullwark）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "安防分销商（土耳其，自有品牌 VGuard/Bullwark）",
   "region": "土耳其",
   "contact": "erdal.goksen@biges.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://biges.com/）",
-  "安防品牌：Bosch → PoE 配套切入"
+  "官网：Ev ve İşyeri için kamera güvenlik alarm sistemleri ve hırsız alarm sistemleri, alarm izleme hizmeti. güvenlik kameraları, DVR kayıt cihazları, IP kamera, kablosuz ve fiber optik çözümleri. VGuard, Bul…；页面 /urunler/OD912、/urunler/VP228TE；brands Bosch",
+  "KP Erdal（erdal.goksen@biges.com）（表内）"
  ],
- "risks": [],
+ "risks": [
+  "体量：Biges 为土耳其大型安防分销商（既有 ODM 供应链、采购流程长）；土耳其汇率敏感；1 次无回复"
+ ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：安防集成/经销→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 30,
+  "why": "自有品牌配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴 VGuard/Bullwark 标；非管理 4/8/16 PoE 位 HRUI（列表价，注明）"
  },
- "email_hook": "Erdal, alongside the Bosch lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Erdal, for the PoE switches sold under the VGuard and Bullwark labels, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, CE/RoHS — which PoE SKU do your dealers reorder most with camera kits?"
 }
