@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "无域名",
- "summary": "英国经销/集成（类型待核，无官网快照）：无域名/未快照；表内「升压5口 / from: 阿里巴巴询盘」；表内未见跟进记录。",
- "type": "经销/集成（类型待核，无官网快照）",
+ "summary": "英国「Vimo Group ltd.」（阿里巴巴询盘「升压 5 口」；仅 gmail/outlook 免费邮箱，无公司域名、无联系人）；表内未跟进。",
+ "type": "个人/非渠道询盘（免费邮箱）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -14,38 +14,45 @@
    "quote": "升压5口 / from: 阿里巴巴询盘",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "升压 5 口询盘",
+   "quote": "升压5口 / from: 阿里巴巴询盘",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "个人买家/免费邮箱零散询盘；c_sub=个人买家",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "英国",
   "other": "无官网快照；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "（个人询盘）"
  ],
  "channels": {
-  "role": "经销/集成（类型待核，无官网快照）",
+  "role": "个人/非渠道询盘（免费邮箱）",
   "region": "英国",
   "contact": "markkontaga@gmail.com、lannonpage245@outlook.com"
  },
  "signals": [
-  "用户表兴趣/备注：升压5口 / from: 阿里巴巴询盘"
+  "表内：升压 5 口 / from: 阿里巴巴询盘；markkontaga@gmail.com；lannonpage245@outlook.com"
  ],
  "risks": [
-  "无域名或未快照：仅表内信息，身份待核"
+  "仅免费邮箱、无公司域名（实体不可核）；升压 PoE 款不在 Saga 列表"
  ],
  "saga_fit": {
-  "p1": "STI-144GP",
-  "tier": 25,
-  "why": "工业 4 PoE + 1 SFP 小壳（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$35.5 USD EXW（25% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 20,
+  "why": "无公司域名、仅免费邮箱的零散询盘（升压款 Saga 列表待核）→ 改 C（个人买家）"
  },
- "email_hook": "We supply the Marvell-based compact DIN-rail 4-port PoE+ industrial switch with 1 SFP uplink as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "（不发送：个人零散询盘）"
 }

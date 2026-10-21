@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（unreachable）",
- "summary": "德国经销/集成（类型待核，无官网快照）：官网快照失败（unreachable）；表内「SFP 工业FS MC POE Digitus的产品很多 价格很高」；表内未见跟进记录。",
- "type": "经销/集成（类型待核，无官网快照）",
+ "summary": "德国 A+ Net（aplusnet.de：SFP、工业 FS、MC、PoE；「Digitus 的产品很多，价格很高」；KP Sonja Geserick；表内「质量一般」；官网 unreachable）；表内未跟进。",
+ "type": "网络产品经销商（德国，Digitus 为主）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Digitus"
+ ],
  "evidence": [
   {
    "kind": "用户表",
@@ -14,38 +16,54 @@
    "quote": "SFP 工业FS MC POE Digitus的产品很多 价格很高",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Digitus 产品很多 价格很高",
+   "quote": "SFP 工业FS MC POE Digitus的产品很多 价格很高",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Sonja Geserick",
+   "title": "（职务待核）",
+   "email": "sonja.geserick@aplusnet.de",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 aplusnet.de，语言 ?，快照状态 unreachable；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "网络产品经销（德国）"
  ],
  "channels": {
-  "role": "经销/集成（类型待核，无官网快照）",
+  "role": "网络产品经销商（德国，Digitus 为主）",
   "region": "德国",
   "contact": "info@aplusnet.de、sonja.geserick@aplusnet.de"
  },
  "signals": [
-  "用户表兴趣/备注：SFP 工业FS MC POE Digitus的产品很多 价格很高"
+  "表内：SFP 工业 FS MC POE Digitus 的产品很多 价格很高；质量一般；KP Sonja Geserick",
+  "快照：unreachable"
  ],
  "risks": [
-  "官网快照失败（unreachable）：域名/证书待核，邮件可能退回"
+  "官网 unreachable（经营状态待核）；Digitus（Assmann）品牌粘性；表内「质量一般」；未跟进过"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-280GE",
+  "tier": 20,
+  "why": "Digitus 工业 FS 位（价格高）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）作预算位；SFP Saga 不供"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Sonja, alongside the Digitus industrial switches and MCs you carry, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit MCs from single units, CE/RoHS, EXW USD — is there a lower-priced industrial position your customers ask for?"
 }

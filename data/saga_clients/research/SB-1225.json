@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（odoo.com，快照 2026-10-21）",
- "summary": "卡塔尔电商/网店：官网「Open Source ERP and CRM | Odoo」（en-US）；品类词：工业自动化 / OT 网络；产品页：goodies-9、scale-up-10、sinadrives-and-odoo-optimizing-industria、comco-controls-and-automation-optimizes-；表内「有Utepo的交换机」；群发 4 次、无回复。",
- "type": "电商/网店",
+ "summary": "卡塔尔 Tamyeez Security（tamyeezsecurity.com；表内域名误记 odoo.com，快照抓到 Odoo 官网（site_mismatch，待重抓）；「有 Utepo 的交换机」）；表内 4 次跟进无回复。",
+ "type": "安防集成商（卡塔尔，Utepo 在用）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Utepo"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +23,13 @@
    "quote": "有Utepo的交换机",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "有 Utepo 的交换机",
+   "quote": "有Utepo的交换机",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,32 +38,32 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "卡塔尔",
   "other": "官网 odoo.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络"
+  "安防系统集成（卡塔尔）"
  ],
  "channels": {
-  "role": "电商/网店",
+  "role": "安防集成商（卡塔尔，Utepo 在用）",
   "region": "卡塔尔",
   "contact": "info@tamyeezsecurity.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.odoo.com/）",
-  "官网公开邮箱：example@mail.com、info@odoo.com",
-  "用户表兴趣/备注：有Utepo的交换机"
+  "表内：有 Utepo 的交换机；info@tamyeezsecurity.com",
+  "快照：Open Source ERP and CRM | Odoo（与实体不符）"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "快照域名误判（Odoo 官网）——tamyeezsecurity.com 待重抓；非主攻区（T5，卡塔尔）；现供 Utepo 价格基准低；4 次无回复，仅 info@"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 20,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：电商/网店→20%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-288GP",
+  "tier": 25,
+  "why": "Utepo 位 → 工业 8 PoE + 2 SFP STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）"
  },
- "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+ "email_hook": "For the Utepo-type PoE switch positions in your security installations, we supply Marvell-based DIN-rail 8-PoE + 2 SFP (managed/unmanaged) and commercial 8-PoE L2+ switches from single units, CE/RoHS, EXW USD — which configuration does your current project need?",
+ "site_mismatch": true
 }

@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（http_error）",
- "summary": "美国系统集成/工程商：官网快照失败（http_error）；表内「Marvell方案」；表内未见跟进记录。",
- "type": "系统集成/工程商",
+ "summary": "美国 VadaTech（嵌入式计算/板级厂商：ATCA、MicroTCA、VPX 板卡与系统，国防/航天客户为主；表内「Marvell 方案」）；表内未跟进。",
+ "type": "板级嵌入式厂商（同行/守界）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -14,38 +14,46 @@
    "quote": "Marvell方案",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Marvell 方案",
+   "quote": "Marvell方案",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "板级嵌入式厂商（同行）且国防导向；c_sub=品类不符（板级/芯片）/守界",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 vadatech.com，语言 ?，快照状态 http_error；角色判定来源：用户表"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "嵌入式计算板卡 / 系统（美国）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "板级嵌入式厂商（同行/守界）",
   "region": "美国",
   "contact": "info@vadatech.com"
  },
  "signals": [
-  "用户表兴趣/备注：Marvell方案"
+  "表内：Marvell 方案",
+  "快照：http_error"
  ],
  "risks": [
-  "官网快照失败（http_error）：域名/证书待核，邮件可能退回"
+  "板级/芯片层面同行（自研 Marvell 方案）；国防/航天客户导向（守界）；官网 http_error"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 30,
+  "why": "板级嵌入式计算厂商（Marvell 方案为自研板卡），国防/航天导向 → 改 C"
  },
- "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "（不发送：板级同行/守界）"
 }

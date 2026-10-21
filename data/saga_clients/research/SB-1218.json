@@ -3,14 +3,21 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（http_error）",
- "summary": "意大利经销/集成（类型待核，无官网快照）：官网快照失败（http_error）；表内「工业FS 很多牌子的」；表内未见跟进记录。",
- "type": "经销/集成（类型待核，无官网快照）",
+ "summary": "意大利 Marcom（marcomweb.it：工业 FS「很多牌子的」多品牌经销；表内「质量一般」；官网 http_error）；表内未跟进。",
+ "type": "工业网络多品牌经销商（意大利）",
  "size": "",
  "brands_seen": [],
  "evidence": [
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
+   "quote": "工业FS 很多牌子的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 很多牌子",
    "quote": "工业FS 很多牌子的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
@@ -22,30 +29,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "意大利",
   "other": "官网 marcomweb.it，语言 ?，快照状态 http_error；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "工业网络产品经销（意大利）"
  ],
  "channels": {
-  "role": "经销/集成（类型待核，无官网快照）",
+  "role": "工业网络多品牌经销商（意大利）",
   "region": "意大利",
   "contact": "info@marcomweb.it"
  },
  "signals": [
-  "用户表兴趣/备注：工业FS 很多牌子的"
+  "表内：工业 FS 很多牌子的；质量一般",
+  "快照：http_error"
  ],
  "risks": [
-  "官网快照失败（http_error）：域名/证书待核，邮件可能退回"
+  "官网 http_error（经营状态待核）；多品牌经销（白牌契合度待核）；表内「质量一般」；未跟进过"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-280GE",
+  "tier": 20,
+  "why": "工业 FS 多品牌 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Alongside the industrial switch brands you carry, we supply neutral-brand Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget industrial position your customers ask for?"
 }

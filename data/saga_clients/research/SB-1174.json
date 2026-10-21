@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（http_error）",
- "summary": "英国经销/集成（类型待核，无官网快照）：官网快照失败（http_error）；表内「Networking；Startech」；表内未见跟进记录。",
- "type": "经销/集成（类型待核，无官网快照）",
+ "summary": "英国 Connectix Cabling Systems（connectix.co.uk：结构化布线系统品牌；表内「Networking / Startech」「质量一般」；KP Matthew Craig（Product Designer））；表内未跟进。",
+ "type": "结构化布线品牌商（英国，有源为副线）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "StarTech"
+ ],
  "evidence": [
   {
    "kind": "用户表",
@@ -14,38 +16,54 @@
    "quote": "Networking；Startech",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Networking / Startech",
+   "quote": "Networking / Startech；质量一般",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Matthew Craig",
+   "title": "Product Designer",
+   "email": "matt.craig@connectix.co.uk",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "英国",
   "other": "官网 connectixcablingsystems.com，语言 ?，快照状态 http_error；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "结构化布线系统（自有品牌 Connectix）"
  ],
  "channels": {
-  "role": "经销/集成（类型待核，无官网快照）",
+  "role": "结构化布线品牌商（英国，有源为副线）",
   "region": "英国",
   "contact": "sales@connectix.co.uk、matt.craig@connectix.co.uk"
  },
  "signals": [
-  "用户表兴趣/备注：Networking；Startech"
+  "表内：Networking / Startech；质量一般 Matt；KP Matthew Craig / Product Designer",
+  "快照：http_error"
  ],
  "risks": [
-  "官网快照失败（http_error）：域名/证书待核，邮件可能退回"
+  "主业无源布线（有源为副线，现转售 StarTech）；表内「质量一般」；官网 http_error；未跟进过"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：经销/集成（类型待核，无官网快照）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 30,
+  "why": "布线品牌配套有源 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 GE + 4×10G STC-424XGGM（$138.0）、工业千兆 MC STI-110GE（$24.3）贴 Connectix 标"
  },
- "email_hook": "Matthew, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Matthew, to complement the Connectix cabling range with an active line, we can supply Marvell-based 8-PoE + 2 SFP and 24-GE + 4×10G L2+ switches and gigabit MCs under your label from small lots, CE/RoHS/UKCA — is an own-brand switch SKU something you are considering?"
 }
