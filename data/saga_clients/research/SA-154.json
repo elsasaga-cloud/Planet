@@ -5,7 +5,9 @@
  "summary": "德国杜伊斯堡摄像系统专业经销/项目商：HDCVI 与 IP 摄像系统及配件，承接 1–256 路摄像项目、接入既有网络与搭建网络环境；手机 +49 172 90 54 200 与用户记录一致；展会看了 4 光 8 电 10G、2.5G 1 光 8 电并索价，7 次跟进 0 回复。",
  "type": "安防经销/项目商",
  "size": "微型/小型（待补证）",
- "brands_seen": [],
+ "brands_seen": [
+  "Dahua"
+ ],
  "evidence": [
   {
    "kind": "官网",
@@ -20,6 +22,27 @@
    "quote": "hochwertige Alarm-, Smarthome- und Videoüberwachungslösungen… eignet sich für den Einbau in Wohnungen… Ladengeschäften, Bürogebäuden, Logistik- und Industriebetrieben",
    "url": "https://falke-security.de/uber-uns/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "注册",
+   "claim": "登记主体为个体经营 Nuri Sahin Sicherheitsdienste",
+   "quote": "Nuri Sahin Sicherheitsdienste \"Falke Security\" www.falke-security.de … Krefelder Str. 282 47229 Duisburg Deutschland",
+   "url": "https://firmeneintrag.creditreform.de/47229/5070424913/NURI_SAHIN_SICHERHEITSDIENSTE_FALKE_SECURITY",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "业务与联系方式",
+   "quote": "HDCVI, IP Kamerasysteme inklusive Zubehör vom Fachhändler … Projektierung von Kamerasystemen von 1 – 256 Stück – Integrierung in bestehende Netzwerke – Aufbau von Netzwerkumgebungen … Mobil: + 49 172 / 90 54 200 - E-mail: info@falke-security.de",
+   "url": "https://falke-security.de/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网网店",
+   "claim": "在售 Dahua 摄像机（PoE+）",
+   "quote": "DAHUA SD29204T-GN-W €339.78 … Netzteil · AC 24 V, PoE+ (802.3at)",
+   "url": "https://falke-security.de/produkt/dahua-sd29204t-gn-w/",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -29,6 +52,13 @@
    "email": "info@falke-security.de（公开）",
    "phone": "+49 172 90 54 200",
    "source": "用户 Clients 表 + 官网"
+  },
+  {
+   "name": "Nuri Sahin",
+   "role": "Inhaber（业主，Creditreform 登记名）",
+   "email": "info@falke-security.de（公开）",
+   "phone": "+49 172 90 54 200（官网）",
+   "source": "https://firmeneintrag.creditreform.de/47229/5070424913/NURI_SAHIN_SICHERHEITSDIENSTE_FALKE_SECURITY"
   }
  ],
  "grade_override": null,
@@ -37,16 +67,19 @@
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1（沿用首轮调研 + 展会记录）"
+  "level": "深挖 v2（官网 + 注册信息核对）"
  },
  "company_facts": {
-  "legal_name": "Falke Security（falke-security.de）",
-  "hq": "Duisburg, Germany",
-  "other": "摄像系统专业经销/项目商（HDCVI 与 IP，1–256 路项目，含网络搭建）；手机 +49 172 90 54 200 与用户记录一致"
+  "legal_name": "Nuri Sahin Sicherheitsdienste „Falke Security“（Creditreform）",
+  "hq": "Krefelder Str. 282, 47229 Duisburg（Creditreform）；官网联系页 Friedrich-Alfred-Straße 98, 47226 Duisburg",
+  "other": "个体经营安防企业（Nuri Sahin）：HDCVI/IP 摄像系统（在售 Dahua，如 SD29204T-GN-W €339.78）、报警、Smarthome；1–256 路项目 + 网络搭建；营业 Mo–Sa 09–18"
  },
  "business_lines": [
   "HDCVI / IP 摄像系统与配件",
-  "1–256 路摄像项目实施与网络环境搭建"
+  "1–256 路摄像项目实施与网络环境搭建",
+  "Dahua HDCVI/IP 摄像系统零售 + 项目",
+  "报警/Smarthome",
+  "网络环境搭建（交换机为配套）"
  ],
  "products_seen": [
   {
@@ -59,15 +92,18 @@
   }
  ],
  "channels": {
-  "网站": "https://falke-security.de/",
+  "网站": "https://falke-security.de/（WooCommerce 网店）",
   "直邮": "info@falke-security.de（用户表）",
-  "手机": "+49 172 90 54 200（官网公开）"
+  "手机": "+49 172 90 54 200（官网公开）",
+  "邮箱（公开）": "info@falke-security.de"
  },
  "signals": [
-  "用户表：展会看了 4 光 8 电 10G、2.5G 1 光 8 电并索价；7 次跟进 0 回复"
+  "用户表：展会看了 4 光 8 电 10G、2.5G 1 光 8 电并索价；7 次跟进 0 回复",
+  "网店卖 Dahua（PoE+ 摄像机）——配套 PoE 交换机需求真实但体量小（个体经营）"
  ],
  "risks": [
-  "0 回复 ×7：需换触达（电话/WhatsApp）；德国安装商量小"
+  "0 回复 ×7：需换触达（电话/WhatsApp）；德国安装商量小",
+  "个体经营、7 次跟进 0 回复——改用 WhatsApp/电话（+49 172 90 54 200）一次性触达，不再邮件轰炸"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",

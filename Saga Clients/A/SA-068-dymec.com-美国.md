@@ -69,16 +69,22 @@ updated: 2026-10-21
 - **【官网】联系方式（与用户表手机一致）**
   > 2243 N. Mason Rd, Suite 402, Katy, Texas 77449 Phone: (816) 988-7861, (713) 826-0739 E-Mail: sales@dymec.com
   > 来源：https://www.dymec.com/（抓取 2026-10-21）
+- **【官网商店】Economy 线清仓价**
+  > KY-3120DM Sale price $395.00 Regular price $1,295.00 Save $900 … KY-2189RG Sale price $449.00 Regular price $1,295.00 Save $846
+  > 来源：https://dymecdirect.com/collections/economy（抓取 2026-10-21）
+- **【官网】Economy 线 8 口 PoE 规格与价格**
+  > Over Ethernet Ports:8 Network Chipset Mfr:Broadcom Power Input:48~57 Volts DC Temperature Hardened:YES Operating Temperature:Ext:-40°C ~ 85°C … DYMEC Warranty:5 Year / Limited Lifetime $299.00
+  > 来源：https://www.dymec.com/product-catalog/economy-industrial-ethernet-switches/（抓取 2026-10-21）
 - **KP**：Thom Sherer（联系人（用户表邮箱））thom.sherer@dymec.com +1 713-826-0739〔https://www.dymec.com/〕
 - 备注：A 确认（美国自有品牌工业交换机 + 已回复）：只攻其非 TAA 的 Economy 线，P1 = STI-288DGGPM / STI-488XGGPM 贴牌，30% OEM 档；不承诺 TAA/NSA/UL。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研：KY- 型号与价格已入引文））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + dymecdirect 清仓价核对））
 
 | 公司事实 | 内容 |
 |---|---|
 | 法定名称 | DYMEC |
 | 总部/地址 | Katy/Houston, Texas & Blue Springs, Missouri, USA |
-| 其他 | 自有品牌 KY- 系列 DIN/机架 L2/L3 工业交换机（10G、PoE、bt）、Economy 线（Vitesse 芯片），部分 TAA + NSA 端点安全认证，5 年/有限终身保修；面向交通 ITS、公用事业 |
+| 其他 | Economy 线在 dymecdirect.com 大幅清仓（KY-3120DM $1,295 → $395；KY-2189RG → $449）——Economy 线可能换代/换源；主线强调 IEC 61850-3、IEEE 1588v2、MRP、HSE 高安全、Traffic/Railway（守界：铁路不供） |
 
 - **业务线**：工业交换机 KY- 系列（DIN/机架、L2/L3、PoE/bt、10G）；Economy 线（KY-3120DM $590、KY-2189RG $299）；SFP 配套
 
@@ -86,11 +92,15 @@ updated: 2026-10-21
 |---|---|---|---|---|
 | DYMEC | KY-3120DM（Economy） | 官网 $590 | STI-288DGGPM（待核口型） | https://www.dymec.com/（2026-10（首轮调研）） |
 | DYMEC | KY-2189RG（Economy） | 官网 $299，Vitesse 芯片 | STI-144GP（待核口型） | https://www.dymec.com/（2026-10（首轮调研）） |
+| DYMEC | KY-2189RG | 20 口 L3（8 GE + 12×100/1000 SFP），Vitesse，12–48VDC，-40~85℃，IEC 61850-3，5 年/有限终身保；dymecdirect $449（原 $1,295） | —（12 SFP L3 非 Saga 型谱） | https://dymecdirect.com/collections/economy（2026-10-21） |
+| DYMEC | KY-3120DM | 20 口 L2 管理（16 FE + 4 SFP），12–36VDC，CyberLock 高安全；官网 $590 / dymecdirect $395 | STI-21616GP（千兆 PoE 升级位） | https://www.dymec.com/products/economy-industrial-ethernet-switches/layer-2-managed/ky-3120dm/（2026-01-15） |
+| DYMEC | Economy 8 口 PoE（Broadcom） | 8 PoE，48–57VDC，-40~85℃，$299 | STI-288DGGPM | https://www.dymec.com/product-catalog/economy-industrial-ethernet-switches/（2026-10-21） |
 
 - **触达通道（公开）**：网站: https://www.dymec.com/；直邮: thom.sherer@dymec.com / sales@dymec.com（用户表）
 - **近况信号**：
   - 用户表：兴趣工业 FS / SFP，「有统一的型号」= 要求按其 KY- 型号体系贴牌
-- **风险/边界**：TAA/NSA 认证型号不能由 Saga 供；只能进 Economy 线；Vitesse（Microchip）芯片口径 vs Saga Marvell——需说明兼容性
+  - Economy 线清仓价（-70%）= 换代窗口：是推 Marvell 平台新 Economy 线的时机（2026-10-21）
+- **风险/边界**：TAA/NSA 认证型号不能由 Saga 供；只能进 Economy 线；Vitesse（Microchip）芯片口径 vs Saga Marvell——需说明兼容性；主线卖点 IEC 61850-3 / NSA / TAA / Railway——Saga 不承接；仅 Economy 位
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——Economy 线 DIN 8 口位（KY-3120DM 级）→ STI-288DGGPM；5 口位→STI-144GP；贴 KY- 型号 30% 档
 - **邮件切入句（英文）**：For the Economy line, a Marvell-based 8-port gigabit PoE managed DIN unit under a KY- part number is where we can add value without touching your TAA models, so that is the SKU I am quoting first.
 
@@ -192,7 +202,7 @@ Hi Thom,
 
 Picking up our earlier exchange about PoE / industrial switches. For the Economy line, a Marvell-based 8-port gigabit PoE managed DIN unit under a KY- part number is where we can add value without touching your TAA models, so that is the SKU I am quoting first.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your DYMEC KY-3120DM（Economy） at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your DYMEC Economy 8 口 PoE（Broadcom） at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

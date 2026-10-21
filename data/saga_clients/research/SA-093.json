@@ -34,6 +34,27 @@
    "quote": "ASN 6208… Network Types NSP… Traffic Levels 50-100Gbps",
    "url": "https://www.peeringdb.com/asn/6208",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "业务与总部",
+   "quote": "We are a leading company and local fiber optic operator with headquarters located in Guaynabo & Caguas-Puerto Rico … We offer Internet, Metro Ethernet (MPLS/VPLS), cloud connectivity, colocation, FTTH/FTTB, voice over IP, managed services and fixed fiber optic solutions.",
+   "url": "https://gofiberx.com/about-us/",
+   "date": "2025-04-08"
+  },
+  {
+   "kind": "官网",
+   "claim": "办公室 / 仓库 / 数据中心地址",
+   "quote": "Metro Office Park Street #1 Lot 6, Suite 104, Guaynabo, PR 00968 … Warehouse Plaza Rio Cañas Carr. #1 Km. 27.8, Caguas, PR 00725 … Data Center Metro Office Park Street #1 Lot 6, B01, Guaynabo, PR 00968",
+   "url": "https://gofiberx.com/contact-us/",
+   "date": "2025-04-02"
+  },
+  {
+   "kind": "目录",
+   "claim": "覆盖与速率",
+   "quote": "Fiber X is available in 21 cities … San Juan, PR - Availability: 79.75% - Avg. Download Speed: 1,000 Mbps … 100.00% of Fiber X customers can subscribe to fiber internet",
+   "url": "https://ispreports.org/internet-service-providers/fiber-x-availability/",
+   "date": "2026-09-03"
   }
  ],
  "kp": [
@@ -51,21 +72,24 @@
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1（沿用首轮调研）"
+  "level": "深挖 v2（官网 + PeeringDB 核对）"
  },
  "company_facts": {
-  "legal_name": "FiberX LLC / FIBERX Inc.",
+  "legal_name": "FiberX（gofiberx.com）",
   "founded": "2016",
-  "hq": "Guaynabo & Caguas, Puerto Rico（美国属地）",
+  "hq": "Metro Office Park Street #1 Lot 6, Suite 104, Guaynabo, PR 00968；Warehouse Plaza Rio Cañas Carr. #1 Km 27.8, Caguas PR 00725；Data Center B01（FXDC-MOP6，PeeringDB）",
   "staff": "11–50",
   "revenue": "约 $5.6M",
   "registry": "AS6208",
-  "other": "光纤 ISP/运营商：互联网、Metro Ethernet、FTTH/FTTB、机房托管；覆盖波多黎各/哥伦比亚/美国"
+  "other": "本地光纤运营商：Internet、Metro Ethernet（MPLS/VPLS）、云连接、机房托管、FTTH/FTTB、VoIP、Dark fiber；覆盖 21 城（San Juan 79.75%，Guaynabo 74.9%），1 Gbps 对称；自有数据中心（PeeringDB 设施）"
  },
  "business_lines": [
   "FTTH/FTTB 接入",
   "Metro Ethernet 专线",
-  "机房托管"
+  "机房托管",
+  "FTTH/FTTB 接入（1 Gbps 对称）",
+  "Metro Ethernet MPLS/VPLS、Dark fiber",
+  "数据中心托管（FXDC-MOP6）"
  ],
  "products_seen": [
   {
@@ -78,11 +102,14 @@
   }
  ],
  "channels": {
-  "网站": "https://fiberx.net/",
-  "直邮": "irivera@fiberx.net / info@fiberx.net（用户表）"
+  "网站": "https://gofiberx.com/（注意：官网域名 gofiberx.com，用户表邮箱域 fiberx.net）",
+  "直邮": "irivera@fiberx.net / info@fiberx.net（用户表）",
+  "LinkedIn": "https://www.linkedin.com/company/gofiberx",
+  "PeeringDB": "https://www.peeringdb.com/fac/14857"
  },
  "signals": [
-  "用户表：1 次回复、20 次跟进；对 bypass 机型有具体兴趣"
+  "用户表：1 次回复、20 次跟进；对 bypass 机型有具体兴趣",
+  "自有数据中心 + FTTB 楼宇接入——机柜/楼道交换机用量稳定；官网 2025-04 更新"
  ],
  "risks": [
   "bypass 光口机型不在 Saga 标准型谱",

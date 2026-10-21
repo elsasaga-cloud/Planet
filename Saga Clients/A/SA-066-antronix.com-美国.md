@@ -66,30 +66,41 @@ updated: 2026-10-21
 - **【官网】业务定位**
   > Antronix designs and manufactures the components that enable broadband operators to upgrade networks across North America – engineered in-house.
   > 来源：https://antronix.com/about-antronix/（抓取 2026-10-21）
+- **【官网】公司地址/电话/产品节奏**
+  > Worldwide Corporate Headquarters and Technology Center 440 Forsgate Drive Cranbury, NJ 08512 T: 1.609.860.0160 … 2.0 GHz SHIPPING SINCE 2024 … 3.0 GHz IN DEVELOPMENT
+  > 来源：https://antronix.com/about-antronix/（抓取 2026-10-07）
+- **【进口记录】从越南/中国进口分配器与连接器（2026-09）**
+  > WAY SPLITTER | ANTRONIX INC. | CONG TY TNHH DIEN TU HAN VIET | 2026-09-18 | Vietnam … CONNECTOR | ANTRONIX INC | MAIN BRIGHTNESS LTD | 2026-09-16 | China … BROADBAND COMMUNICATIONS PRODUCTS | ANTRONIX INC | ETECH INDUSTRIES NINGBO CO LTD
+  > 来源：https://www.importgenius.com/importers/antronix-inc（抓取 2026-09-18）
+- **【行业媒体】Antronix–GiaX 合作 Intercept EO 2.5 Gbps**
+  > This recent collaboration with GiaX will lead with the Intercept EO 2.5 Gbps ethernet over coax PON Extension powered by MoCA Access
+  > 来源：https://www.cbinsights.com/company/antronix（抓取 2024-09-23）
 - **KP**：Jim Taxdahl（Vice President of Sales U.S.A）jimtaxdahl@antronix.com +1 609-860-0160（总机）〔https://antronix.com/about-antronix/〕
 - **KP**：Peter Tarquinio（联系人（用户表））petertarquinio@antronix.com 〔Clients/A Replied 09.04.xlsx〕
 - 备注：A 确认（美国品牌商 + VP 级直联 + 明确 2.5G/10G 需求）：P1 = STC-424XGGPM-280W（24×2.5G PoE + 10G 上联）或 STC-448XGGM(L3)，30% OEM 档；运营商 MDU 场景强调 Marvell 方案与 L3 功能。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + 进口记录 + 合资））
 
 | 公司事实 | 内容 |
 |---|---|
 | 法定名称 | Antronix, Inc. |
 | 成立 | 1980 |
-| 总部/地址 | Cranbury, New Jersey, USA |
+| 总部/地址 | 440 Forsgate Drive, Cranbury, NJ 08512（T 1.609.860.0160） |
 | 人数 | 约 33 |
 | 营收 | 约 $4.3M（口径） |
-| 其他 | 有线宽带射频设备制造商（multi-tap、光节点、放大器、无源），2023 年起光纤方案（与 Teleste 合资 Intercept） |
+| 其他 | 自 1980 年；产品 Milenium NXT 2.0 GHz multi-tap（2024 起出货）、1.8 GHz 面板、3.0 GHz 在研；与 Teleste 合资 Teleste Intercept（同址，sales@telesteintercept.com）；与 GiaX 合作 Intercept EO 2.5 Gbps MoCA Access；进口记录显示从越南/中国（Etech Industries Ningbo、Main Brightness）采购分配器/连接器 |
 
-- **业务线**：有线电视/宽带 RF 设备；光纤接入方案；（拓展）商业 L2/L3 交换机、2.5G/10G（用户表询问）
+- **业务线**：有线电视/宽带 RF 设备；光纤接入方案；（拓展）商业 L2/L3 交换机、2.5G/10G（用户表询问）；HFC 无源/有源（multi-tap、放大器、分配器）；Teleste Intercept：光纤/DAA/PON 接入平台（含以太网交换机，PitchBook 描述）；（询价）2.5G/10G 商业 L2/L3 交换机
 
 | 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
 |---|---|---|---|---|
 | （拓展采购） | 商业 L2/L3 交换机 2.5G/10G（用户表） | 问了 2.5G/10G 类产品 | STC-424XGGPM-280W / STC-448XGGM(L3) | （本地 Clients/ 表格，无公开 URL）（用户表） |
 
-- **触达通道（公开）**：网站: https://www.antronix.com/；直邮: petertarquinio@antronix.com / jimtaxdahl@antronix.com（用户表）
+- **触达通道（公开）**：网站: https://antronix.com/（2026-09 更新）；直邮: petertarquinio@antronix.com / jimtaxdahl@antronix.com（用户表）；电话: +1 609 860 0160（官网公开）；LinkedIn: https://www.linkedin.com/company/antronix（605 followers）；合资: telesteintercept.com
 - **近况信号**：
   - 用户表：A 已回复 1 次（Peter Tarquinio），兴趣商业 L2/L3/10G、2.5G
+  - 已从中国/越南进口 RF 配件（2026-09 提单）——有成熟中国采购链路，交换机可走同一路径
+  - Intercept/EO 2.5 Gbps 方案需要 2.5G/10G 以太网配套——对应其询问 2.5G/10G 商业交换机（推断）
 - **风险/边界**：北美有线运营商供应链要求 UL/ROHS/一致性与长期供货；交换机为其新品类，决策慢；10G/2.5G 机型需 SmartByte 规格确认
 - **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——询问 2.5G/10G 商业机 → STC-424XGGPM-280W（24 GE PoE + 4×10G SFP+）与 STC-448XGGM(L3) 为对位；若以 Antronix 品牌上市按 30% 档
 - **邮件切入句（英文）**：On the 2.5G and 10G question from earlier, the 24-port PoE+ unit with four 10G SFP+ uplinks and the 48-port L3 version are the two Marvell-based platforms we can supply under the Antronix label, so I am sending both with EXW pricing.

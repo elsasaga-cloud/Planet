@@ -69,33 +69,45 @@ updated: 2026-10-21
 - **是谁**：德国杜伊斯堡摄像系统专业经销/项目商：HDCVI 与 IP 摄像系统及配件，承接 1–256 路摄像项目、接入既有网络与搭建网络环境；手机 +49 172 90 54 200 与用户记录一致；展会看了 4 光 8 电 10G、2.5G 1 光 8 电并索价，7 次跟进 0 回复。
 - **类型**：安防经销/项目商
 - **规模**：微型/小型（待补证）
+- **在卖/在用品牌**：Dahua
 - **【官网】HDCVI/IP 摄像系统专业经销商，项目 1–256 路，含网络环境搭建；联系方式**
   > HDCVI, IP Kamerasysteme inklusive Zubehör vom Fachhändler… Projektierung von Kamerasystemen von 1 – 256 Stück – Integrierung in bestehende Netzwerke – Aufbau von Netzwerkumgebungen… Duisburg… Mobil: + 49 172 / 90 54 200… info@falke-security.de
   > 来源：https://falke-security.de/（抓取 2026-10-21）
 - **【官网】产品覆盖报警、智能家居、视频监控，面向住宅/商铺/办公/物流与工业企业**
   > hochwertige Alarm-, Smarthome- und Videoüberwachungslösungen… eignet sich für den Einbau in Wohnungen… Ladengeschäften, Bürogebäuden, Logistik- und Industriebetrieben
   > 来源：https://falke-security.de/uber-uns/（抓取 2026-10-21）
+- **【注册】登记主体为个体经营 Nuri Sahin Sicherheitsdienste**
+  > Nuri Sahin Sicherheitsdienste "Falke Security" www.falke-security.de … Krefelder Str. 282 47229 Duisburg Deutschland
+  > 来源：https://firmeneintrag.creditreform.de/47229/5070424913/NURI_SAHIN_SICHERHEITSDIENSTE_FALKE_SECURITY（抓取 2026-10-21）
+- **【官网】业务与联系方式**
+  > HDCVI, IP Kamerasysteme inklusive Zubehör vom Fachhändler … Projektierung von Kamerasystemen von 1 – 256 Stück – Integrierung in bestehende Netzwerke – Aufbau von Netzwerkumgebungen … Mobil: + 49 172 / 90 54 200 - E-mail: info@falke-security.de
+  > 来源：https://falke-security.de/（抓取 2026-10-21）
+- **【官网网店】在售 Dahua 摄像机（PoE+）**
+  > DAHUA SD29204T-GN-W €339.78 … Netzteil · AC 24 V, PoE+ (802.3at)
+  > 来源：https://falke-security.de/produkt/dahua-sd29204t-gn-w/（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（）info@falke-security.de（公开） +49 172 90 54 200〔用户 Clients 表 + 官网〕
+- **KP**：Nuri Sahin（Inhaber（业主，Creditreform 登记名））info@falke-security.de（公开） +49 172 90 54 200（官网）〔https://firmeneintrag.creditreform.de/47229/5070424913/NURI_SAHIN_SICHERHEITSDIENSTE_FALKE_SECURITY〕
 - 备注：德国主攻区 + 明确机型兴趣（4 光 8 电 10G 上联、2.5G 1 光 8 电）+ 项目型摄像业务 = 对位 STC-424XGGPM-280W / 2.5G 8 口机型。仅 7 次推送（未达耳聋阈值）→ 保 A，改用手机/WhatsApp 直接报价（项目 25%）；再无回应降 B。注意同名 Falke Sicherheitstechnik（柏林/波茨坦）为另一家公司，勿混。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研 + 展会记录））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + 注册信息核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Falke Security（falke-security.de） |
-| 总部/地址 | Duisburg, Germany |
-| 其他 | 摄像系统专业经销/项目商（HDCVI 与 IP，1–256 路项目，含网络搭建）；手机 +49 172 90 54 200 与用户记录一致 |
+| 法定名称 | Nuri Sahin Sicherheitsdienste „Falke Security“（Creditreform） |
+| 总部/地址 | Krefelder Str. 282, 47229 Duisburg（Creditreform）；官网联系页 Friedrich-Alfred-Straße 98, 47226 Duisburg |
+| 其他 | 个体经营安防企业（Nuri Sahin）：HDCVI/IP 摄像系统（在售 Dahua，如 SD29204T-GN-W €339.78）、报警、Smarthome；1–256 路项目 + 网络搭建；营业 Mo–Sa 09–18 |
 
-- **业务线**：HDCVI / IP 摄像系统与配件；1–256 路摄像项目实施与网络环境搭建
+- **业务线**：HDCVI / IP 摄像系统与配件；1–256 路摄像项目实施与网络环境搭建；Dahua HDCVI/IP 摄像系统零售 + 项目；报警/Smarthome；网络环境搭建（交换机为配套）
 
 | 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
 |---|---|---|---|---|
 | （展会兴趣） | 4 光 8 电 10G；2.5G 1 光 8 电 | 索价 | STC-424XGGPM-280W（10G 上联位）/ STC-28DGGPM | （本地 Clients/ 表格，无公开 URL）（用户表） |
 
-- **触达通道（公开）**：网站: https://falke-security.de/；直邮: info@falke-security.de（用户表）；手机: +49 172 90 54 200（官网公开）
+- **触达通道（公开）**：网站: https://falke-security.de/（WooCommerce 网店）；直邮: info@falke-security.de（用户表）；手机: +49 172 90 54 200（官网公开）；邮箱（公开）: info@falke-security.de
 - **近况信号**：
   - 用户表：展会看了 4 光 8 电 10G、2.5G 1 光 8 电并索价；7 次跟进 0 回复
-- **风险/边界**：0 回复 ×7：需换触达（电话/WhatsApp）；德国安装商量小
+  - 网店卖 Dahua（PoE+ 摄像机）——配套 PoE 交换机需求真实但体量小（个体经营）
+- **风险/边界**：0 回复 ×7：需换触达（电话/WhatsApp）；德国安装商量小；个体经营、7 次跟进 0 回复——改用 WhatsApp/电话（+49 172 90 54 200）一次性触达，不再邮件轰炸
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——其索价机型（8 电 + 光上联，2.5G/10G）最接近 STC-28DGGPM（8 PoE + 2 SFP）与 STC-424XGGPM-280W（10G 上联）；集成商 25% 档
 - **邮件切入句（英文）**：You asked at the show for the 8-copper models with fibre uplinks, so here are the two closest Marvell-based units, the 8-port PoE+ with 2 SFP and the 24-port with four 10G SFP+ uplinks, both at EXW.
 
@@ -129,7 +141,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Nuri Sahin | — | info@falke-security.de / +491729054200 | 用户表原值 | Clients/ 表 |
+| Nuri Sahin | Inhaber（业主，Creditreform 登记名） | info@falke-security.de（公开） / +49 172 90 54 200（官网） | 调研核实（公开页） | https://firmeneintrag.creditreform.de/47229/5070424913/NURI_SAHIN_SICHERHEITSDIENSTE_FALKE_SECURITY |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

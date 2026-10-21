@@ -81,30 +81,40 @@ updated: 2026-10-21
 - **【PeeringDB】AS6208，NSP，50–100Gbps 流量**
   > ASN 6208… Network Types NSP… Traffic Levels 50-100Gbps
   > 来源：https://www.peeringdb.com/asn/6208（抓取 2026-10-21）
+- **【官网】业务与总部**
+  > We are a leading company and local fiber optic operator with headquarters located in Guaynabo & Caguas-Puerto Rico … We offer Internet, Metro Ethernet (MPLS/VPLS), cloud connectivity, colocation, FTTH/FTTB, voice over IP, managed services and fixed fiber optic solutions.
+  > 来源：https://gofiberx.com/about-us/（抓取 2025-04-08）
+- **【官网】办公室 / 仓库 / 数据中心地址**
+  > Metro Office Park Street #1 Lot 6, Suite 104, Guaynabo, PR 00968 … Warehouse Plaza Rio Cañas Carr. #1 Km. 27.8, Caguas, PR 00725 … Data Center Metro Office Park Street #1 Lot 6, B01, Guaynabo, PR 00968
+  > 来源：https://gofiberx.com/contact-us/（抓取 2025-04-02）
+- **【目录】覆盖与速率**
+  > Fiber X is available in 21 cities … San Juan, PR - Availability: 79.75% - Avg. Download Speed: 1,000 Mbps … 100.00% of Fiber X customers can subscribe to fiber internet
+  > 来源：https://ispreports.org/internet-service-providers/fiber-x-availability/（抓取 2026-09-03）
 - **KP**：（见 Clients 表联系人）（） +1 787-705-6999〔用户 Clients 表 + Crunchbase/Facebook〕
 - 备注：运营商终端用户，需求为带 bypass 的 2 光 10 电工业交换机（接入/塔站场景），美国关税与 FCC 适用。P1：STI 工业系列 2 光 10 电管理型（bypass 功能需向 SmartByte 核实是否支持，报价前核价），项目价阶 25%。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + PeeringDB 核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | FiberX LLC / FIBERX Inc. |
+| 法定名称 | FiberX（gofiberx.com） |
 | 成立 | 2016 |
-| 总部/地址 | Guaynabo & Caguas, Puerto Rico（美国属地） |
+| 总部/地址 | Metro Office Park Street #1 Lot 6, Suite 104, Guaynabo, PR 00968；Warehouse Plaza Rio Cañas Carr. #1 Km 27.8, Caguas PR 00725；Data Center B01（FXDC-MOP6，PeeringDB） |
 | 人数 | 11–50 |
 | 营收 | 约 $5.6M |
 | 注册/税号 | AS6208 |
-| 其他 | 光纤 ISP/运营商：互联网、Metro Ethernet、FTTH/FTTB、机房托管；覆盖波多黎各/哥伦比亚/美国 |
+| 其他 | 本地光纤运营商：Internet、Metro Ethernet（MPLS/VPLS）、云连接、机房托管、FTTH/FTTB、VoIP、Dark fiber；覆盖 21 城（San Juan 79.75%，Guaynabo 74.9%），1 Gbps 对称；自有数据中心（PeeringDB 设施） |
 
-- **业务线**：FTTH/FTTB 接入；Metro Ethernet 专线；机房托管
+- **业务线**：FTTH/FTTB 接入；Metro Ethernet 专线；机房托管；FTTH/FTTB 接入（1 Gbps 对称）；Metro Ethernet MPLS/VPLS、Dark fiber；数据中心托管（FXDC-MOP6）
 
 | 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
 |---|---|---|---|---|
 | （运营商自用） | bypass 2 光 10 电工业交换机（用户记录：帖子下询价） | bypass 光口 + 10 电口 | STI-288DGGPM（无 bypass；bypass 需 SmartByte 核） | （本地 Clients/ 表格，无公开 URL）（用户表） |
 
-- **触达通道（公开）**：网站: https://fiberx.net/；直邮: irivera@fiberx.net / info@fiberx.net（用户表）
+- **触达通道（公开）**：网站: https://gofiberx.com/（注意：官网域名 gofiberx.com，用户表邮箱域 fiberx.net）；直邮: irivera@fiberx.net / info@fiberx.net（用户表）；LinkedIn: https://www.linkedin.com/company/gofiberx；PeeringDB: https://www.peeringdb.com/fac/14857
 - **近况信号**：
   - 用户表：1 次回复、20 次跟进；对 bypass 机型有具体兴趣
+  - 自有数据中心 + FTTB 楼宇接入——机柜/楼道交换机用量稳定；官网 2025-04 更新
 - **风险/边界**：bypass 光口机型不在 Saga 标准型谱；运营商采购要求固件（VLAN/QinQ/IGMP）与长期支持
 - **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——FTTB 楼宇/机柜接入：STI-288DGGPM（8 GE PoE + 2 SFP 管理，环网冗余替代 bypass 需求）与 STC-28DGGPM；项目 25% 档；bypass 版本另询 SmartByte
 - **邮件切入句（英文）**：On the 2-fibre 10-copper bypass unit you asked about, the closest standard platform is the 8-port gigabit PoE managed DIN switch with two SFP uplinks and ring redundancy, so I am quoting that now and checking the hardware-bypass variant separately.

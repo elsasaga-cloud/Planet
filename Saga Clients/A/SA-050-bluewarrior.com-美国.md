@@ -76,16 +76,22 @@ updated: 2026-10-21
 - **【官网】宣称 UL C1D2 与 Tesla 案例（我方只报 CE/FCC，不承诺 UL）**
   > Our products are UL Class 1 Division 2 (HazLoc) Hazardous Location. American Certified Ethernet. The BlueWARRIOR IP Switch was chosen for its rugged construction
   > 来源：https://bluewarrior.com/solutions/factory-automation/（抓取 2026-10-21）
+- **【官网】BW7212G-4GF-8GT 规格与价格；描述残留 MISCOM7212G（迈威）**
+  > BW7212G-4GF-8GT $500.38 … 10 Port Layer 2 Industrial Ethernet (Din-Rail Managed) … Supports (8 x 10/100/1000M RJ-45 + 4 Gigabit SFP Ports) … MISCOM7212G supports 4 Gigabit Fx ports + 8 Gigabit Tx ports
+  > 来源：https://bluewarrior.com/products/layer-2-din-rail-managed-ethernet-switches/bw7212g-4gf-8gt/（抓取 2026-01-16）
+- **【官网】工业 PoE 类目：BW7212GP-4GT-8GTPOE $987.80**
+  > Surge Protected with Relay Contact / (Ground / Bonding) ( DC 48-52 Volts). $987.80 View Product - BW7212GP-4GT-8GTPOE - 24 Port - (Layer 2 Managed) - Temperature Hardened
+  > 来源：https://bluewarrior.com/product-category/industrial-poe-switches/（抓取 2026-10-21）
 - **KP**：Thomas West（联系人（用户表））sales@bluewarrior.com 〔Clients/A/DONE/US.xlsx〕
 - 备注：A 确认（美国自有品牌 + 全线中国白牌 + 已回复）：对位 BW7212G-4GF-8GT ≈ STI-488DGGM 类（8GE+4SFP 工业网管），30% OEM 档；切入点 = 迈威替代/补充 SKU + Marvell 方案 + 10–15 天交期；不承诺 UL/C1D2。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研：官网型号与价格已入引文））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网产品目录逐型号核对））
 
 | 公司事实 | 内容 |
 |---|---|
 | 法定名称 | BlueWARRIOR（bluewarrior.com） |
 | 总部/地址 | USA |
-| 其他 | 自有品牌工业以太网供应商：BW 系列机架/DIN 网管与非网管、bypass、工业 MC，官网明码标价；宣称 UL Class 1 Div 2 与 Tesla 工厂案例；用户表判断「几乎全线武汉迈威(Maiwe)」贴牌 |
+| 其他 | 官网 WooCommerce 目录明码标价（2026-01 更新）；BW7212G 产品描述内残留「MISCOM7212G」字样 → 证实为武汉迈威 MISCOM 系列贴牌 |
 
 - **业务线**：工业交换机（DIN/机架、L2/L3、PoE）；工业 bypass 交换机；工业 MC
 
@@ -94,10 +100,17 @@ updated: 2026-10-21
 | BlueWARRIOR | BW2026（26 口机架） | 官网标价 $308 | STC-424DGGPM-280W（PoE 版） | https://bluewarrior.com/（2026-10（首轮调研）） |
 | BlueWARRIOR | BW3020G | 官网标价 $662 | STC-424XGGPM-280W（待核口型） | https://bluewarrior.com/（2026-10（首轮调研）） |
 | BlueWARRIOR | BW7212G | 官网标价 $500 | STI-288DGGPM（待核口型） | https://bluewarrior.com/（2026-10（首轮调研）） |
+| BlueWARRIOR | BW7212G-4GF-8GT | DIN L2 管理 8×GE + 4 SFP，-45~85℃，IP40，双输入 12–48VDC，继电器；$500.38 | STI-288DGGPM（非 PoE 版需核） | https://bluewarrior.com/products/layer-2-din-rail-managed-ethernet-switches/bw7212g-4gf-8gt/（2026-01-16） |
+| BlueWARRIOR | BW7212GP-4GT-8GTPOE | DIN L2 管理工业 PoE，48–52VDC；$987.80 | STI-288DGGPM | https://bluewarrior.com/product-category/industrial-poe-switches/（2026-10-21） |
+| BlueWARRIOR | BW6220 Series | DIN L2 管理 18–20 口；$520.08–585.09 | STI-21616GP（PoE 位） | https://bluewarrior.com/products/layer-2-din-rail-managed-ethernet-switches/bw6220-series/（2026-01-16） |
+| BlueWARRIOR | BW5205 Series | DIN 7 口（2F+3T / 1F+4T，另有 2×10G SFP+4 SFP+8 GE 配置 $589.03）；$327.60–522.60 | STI-144GP | https://bluewarrior.com/products/layer-2-din-rail-managed-ethernet-switches/bw5205-series/（2026-10-21） |
+| BlueWARRIOR | BW2208 Series / BW2220 Series | DIN 非管理 8 口 $75.62–278.60 / 20 口 $469.64 | STI-144GP（PoE 升级位） | https://bluewarrior.com/products/layer-2-din-rail-un-managed-ethernet-switches/bw2208-series/（2026-10-21） |
+| BlueWARRIOR | BW2026 / BW3020G-4GF-16GT-AD220 / BW3024 | 机架非管理 26 口 $308 / 20 口（4 SFP+16 GE，AC）$662 / 24 口 | STC-424DGGPM-280W（PoE 管理升级位） | https://bluewarrior.com/product-category/layer-2-rack-un-managed-ethernet-switches/（2026-10-21） |
 
 - **触达通道（公开）**：网站: https://bluewarrior.com/（明码标价）；直邮: sales@bluewarrior.com（用户表）
 - **近况信号**：
   - 用户表：几乎全线迈威贴牌——已有成熟中国 ODM 来源；对 Saga 是「第二来源 + Marvell 平台」机会
+  - 产品页更新至 2026-01-16——目录活跃；DIN 管理型 8+4 定价 $500 → Saga STI-288DGGPM EXW ≈ $152 @30%，价差空间大
 - **风险/边界**：UL Class 1 Div 2 宣称：Saga 无 UL，不能承接要求 UL 的型号；迈威为 Saga 同行，价格战风险
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——DIN 8 PoE + 2 SFP 管理型是迈威线中最走量位，Saga STI-288DGGPM 可做 BW 贴牌二供；机架位 STC-424DGGPM-280W；30% 档
 - **邮件切入句（英文）**：For the DIN-rail 8-port PoE managed slot in the BW range, a Marvell-based second source in BlueWARRIOR packing with CE/FCC files is the unit I can quote today, and the 24-port rack PoE version follows the same logic.
@@ -218,7 +231,7 @@ Hi Thomas,
 
 Picking up our earlier exchange about PoE / industrial switches. For the DIN-rail 8-port PoE managed slot in the BW range, a Marvell-based second source in BlueWARRIOR packing with CE/FCC files is the unit I can quote today, and the 24-port rack PoE version follows the same logic.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your BlueWARRIOR BW2026（26 口机架） at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your BlueWARRIOR BW7212GP-4GT-8GTPOE at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

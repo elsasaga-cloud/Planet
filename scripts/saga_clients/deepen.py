@@ -29,8 +29,19 @@ def main():
             print('no research json for', code, '— run add_research.py first')
             continue
         j = json.load(open(p, encoding='utf-8'))
+        merge = bool(it.get('merge'))  # v2 增量：列表追加去重、字典更新、标量替换
         for k in SET_FIELDS:
-            if k in it:
+            if k not in it:
+                continue
+            if merge and isinstance(it[k], list) and isinstance(j.get(k), list):
+                if k == 'products_seen':
+                    seen = {(x.get('brand'), x.get('model')) for x in j[k]}
+                    j[k] += [x for x in it[k] if (x.get('brand'), x.get('model')) not in seen]
+                else:
+                    j[k] += [x for x in it[k] if x not in j[k]]
+            elif merge and isinstance(it[k], dict) and isinstance(j.get(k), dict):
+                j[k].update(it[k])
+            else:
                 j[k] = it[k]
         if it.get('evidence_add'):
             seen = {(e.get('url'), e.get('claim')) for e in j.get('evidence', [])}

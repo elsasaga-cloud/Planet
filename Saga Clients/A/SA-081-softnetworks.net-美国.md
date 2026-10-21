@@ -69,18 +69,25 @@ updated: 2026-10-21
 - **【Datanyze】18 名员工；Neal Cennamo 副总裁**
   > Neal Cennamo Vice President… Softnetworks has 18 employees
   > 来源：https://www.datanyze.com/companies/softnetworks/1100611077（抓取 2026-10-21）
+- **【官网】交换机目录含 INDUSTRIAL SWITCHES 分类与联系方式**
+  > Switches - 2900 SERIES - 3500 SERIES - 3650 SERIES - 3700 SERIES - 3800 SERIES - 9200 / 9300 SERIES - SG SMALL BUSINESS SERIES - INDUSTRIAL SWITCHES - N5K / N9K SERIES … 20 Troy Rd., STE4 Whippany, NJ 07981 … +1-201-636-7188 … info@softnetworks.net
+  > 来源：https://softnetworks.net/hardware/network-hardware/（抓取 2025-10-11）
+- **【官网】2012 年 NJ 注册，初期专注 Cisco/Juniper/Aruba 网络硬件**
+  > Softnetworks.net was incorporated in the State of NJ in 2012. Our initial primary focus was only on Networking Hardware solutions using hardware products from companies like Cisco, Juniper, Aruba and others.
+  > 来源：https://softnetworks.net/about-us/（抓取 2025-10-12）
 - **KP**：Neal Cennamo（Vice President）nealc@softnetworks.net +1 201-636-7188（官网）〔用户 Clients 表 + Datanyze/官网〕
+- **KP**：Neal Cennamo（VP（用户表）；ZoomInfo：Softnetworks 2014 至今）nealc@softnetworks.net（用户表原值） +1 201-636-7188（公司总机）〔https://www.zoominfo.com/p/Neal-Cennamo/81956627〕
 - 备注：美国主攻区、VP 直接回复。但其商业模式是 Cisco 等翻新件（低价竞争逻辑），新白牌工业/PoE 交换机可作为其'新品补充线'；需要 FCC 文件，不承诺 UL/TAA。P1：STI-288DGGPM（工业交换机类目对位）或 STC-28DGGPM 入门 PoE，分销价阶 20%。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + 目录核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Softnetworks Inc. |
-| 成立 | 2012 |
-| 总部/地址 | Whippany, New Jersey, USA |
-| 人数 | 11–50（Datanyze 18） |
-| 其他 | 二手/翻新网络设备经销 + IT 维修；目录含 Industrial Switches |
+| 法定名称 | Softnetworks Inc.（Softnetworks, LLC） |
+| 成立 | 2012 注册（NJ）；LinkedIn 2011；IndustryNet 口径 1998 |
+| 总部/地址 | 20 Troy Rd, STE 4, Whippany, NJ 07981（+1 201-636-7188，info@softnetworks.net） |
+| 人数 | 11–50 |
+| 其他 | 网站 2025-10～2026-01 更新；交换机目录按 Cisco 2900/3500/3650/3700/3800/9200-9300/SG/INDUSTRIAL SWITCHES/N5K-N9K 分类（即 Cisco IE 系列翻新）；另有资产处置、租赁、Chromebook/Apple 维修 |
 
 - **业务线**：Cisco/Juniper/Aruba/Meraki/Brocade/Dell/HP 翻新件；工业交换机类目；Chromebook/Apple 维修
 
@@ -88,9 +95,10 @@ updated: 2026-10-21
 |---|---|---|---|---|
 | Cisco 等（翻新） | Industrial Switches 类目 | 二手/翻新 | STI-288DGGPM（新品替代位） | https://softnetworks.net/（2026-10（首轮调研）） |
 
-- **触达通道（公开）**：网站: https://softnetworks.net/；直邮: nealc@softnetworks.net（Neal Cennamo，副总，用户表）
+- **触达通道（公开）**：网站: https://softnetworks.net/（Network Hardware → Switches → Industrial Switches）；直邮: nealc@softnetworks.net（Neal Cennamo，副总，用户表）；电话: +1 201-636-7188（官网公开）；邮箱（公开）: info@softnetworks.net；LinkedIn: https://www.linkedin.com/company/softnetworks-inc-
 - **近况信号**：
   - 用户表：兴趣工业 FS、Cisco 产品
+  - 官网评价强调「Cisco 现货当天发」——客户买的是现货与速度；新品白牌工业机需以库存/快发匹配（2026-10-21）
 - **风险/边界**：翻新经销商利润来自二手价差，对新品白牌接受度不确定；美国小型 B2B
 - **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——工业交换机类目补新品：STI-288DGGPM（DIN 8 PoE + 2 SFP 管理）与 STC-28DGGPM；分销 20% 档
 - **邮件切入句（英文）**：Alongside the refurbished Cisco industrial units, a new Marvell-based 8-port gigabit PoE managed DIN switch at EXW cost gives you a lower-priced new-stock option for the industrial category, so that is the one I am quoting.
@@ -125,6 +133,7 @@ updated: 2026-10-21
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Neal Cennamo | Vice President | nealc@softnetworks.net / +1 201-636-7188（官网） | 调研核实（公开页） | 用户 Clients 表 + Datanyze/官网 |
+| Neal Cennamo | VP（用户表）；ZoomInfo：Softnetworks 2014 至今 | nealc@softnetworks.net（用户表原值） / +1 201-636-7188（公司总机） | 调研核实（公开页） | https://www.zoominfo.com/p/Neal-Cennamo/81956627 |
 | Neal | — | nealc@softnetworks.net | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

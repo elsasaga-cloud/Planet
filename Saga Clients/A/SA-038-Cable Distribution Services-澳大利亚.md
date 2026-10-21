@@ -76,29 +76,39 @@ updated: 2026-10-21
 - **【官网】联系方式与行业**
   > 51 Boulder Rd Malaga, WA 6090 · sales@cabledistribution.com.au · +61 (08) 9375 6522 … Industries - Mining - Oil & Gas - Communication - Pumping & Dewatering
   > 来源：https://cabledistribution.com.au/（抓取 2026-10-21）
+- **【官网】地址 / 电话 / 品类 / 行业**
+  > 51 Boulder Rd Malaga, WA 6090 - sales@cabledistribution.com.au - +61 (08) 9375 6522 - 1800 GET CABLE (1800 438 222) … Products - Power Cables - Communication Cables - Fibre Optic - Data … Industries - Mining - Oil & Gas - Communication - Pumping & Dewatering
+  > 来源：https://cabledistribution.com.au/（抓取 2026-09-10）
+- **【官网】自有光纤端接工厂与 Dataflow 合作**
+  > In partnership with Dataflow since 2014, we provide end-to-end solutions using Australian-manufactured fibre, bend-insensitive Corning Glass and pre-tested components
+  > 来源：https://cabledistribution.com.au/industries/data-communications/（抓取 2025-08-18）
+- **【目录】规模口径**
+  > 51 Boulder Rd, Malaga, Western Australia, 6090 … Revenue $4.7 M … Employees 24 … Founded 1999
+  > 来源：https://www.datanyze.com/companies/cable-distribution-services/398327759（抓取 2026-10-21）
 - **KP**：Ross W.（创始人（官网「About」））sales@cabledistribution.com.au +61 8 9375 6522〔https://cabledistribution.com.au/about/〕
 - 备注：A 确认（2 次实质回复 + 问价 + 工业分销渠道）；澳洲不在重点区但互动真实；P1 = STI-144GP（1 光 4 电工业 PoE，若价格表无则标 SmartByte 型号），20% 分销档，强调矿业宽温。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研 + 用户表））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网核对））
 
 | 公司事实 | 内容 |
 |---|---|
 | 法定名称 | Cable Distribution Services（CDS） |
 | 成立 | 1999 |
-| 总部/地址 | Malaga/Perth, Western Australia |
-| 人数 | 11–50 |
-| 营收 | $4.7M–$39M（口径） |
-| 其他 | 矿业/油气/通信电缆与附件库存分销商；光纤与数据线缆类目；拓展工业交换机 |
+| 总部/地址 | 51 Boulder Rd, Malaga, WA 6090（+61 8 9375 6522；1800 438 222；sales@cabledistribution.com.au）；另 Kewdale/Maylands 3 Reggio Rd、Morley 办公 |
+| 人数 | 24（Datanyze）/ 11–50 |
+| 营收 | $4.7M（Datanyze） |
+| 其他 | 电缆库存分销 + 自有光纤端接工厂（FOBOT、预端接，与 Dataflow 合作自 2014，Corning 玻璃）；品类：电力/通信/数据/光纤/附件；行业：矿业、油气、通信、泵送排水、工业（含军事基地、医院——守界：军事不供）；官网 2025-08～2026-09 更新 |
 
-- **业务线**：工业电缆与附件（矿业、油气、泵送）；光纤/数据线缆；（拓展）1 光 4 电工业 PoE
+- **业务线**：工业电缆与附件（矿业、油气、泵送）；光纤/数据线缆；（拓展）1 光 4 电工业 PoE；电力/通信/仪表/矿用电缆分销；光纤产品与自有端接（FOBOT、预端接）；数据产品（机柜、跳线）；（拓展）工业 PoE 交换机
 
 | 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
 |---|---|---|---|---|
 | 中科德能 / Ewind（比价中） | 1 光 4 电 PoE 工业交换机 | 有意向，问了价格 | STI-144GP | （本地 Clients/ 表格，无公开 URL）（用户表） |
 
-- **触达通道（公开）**：网站: https://www.cabledistribution.com.au/；直邮: paul@cabledistribution.com.au（用户表）；WhatsApp: 已加（用户表）
+- **触达通道（公开）**：网站: https://cabledistribution.com.au/；直邮: paul@cabledistribution.com.au（用户表）；WhatsApp: 已加（用户表）；电话: +61 8 9375 6522 / 1800 438 222（官网）；邮箱（公开）: sales@cabledistribution.com.au；LinkedIn: https://au.linkedin.com/company/cable-distribution-services
 - **近况信号**：
   - 用户表：2 次实质回复，明确型号与比价对象（中科德能/Ewind）——处于选型期
+  - 光纤端接自有工厂 + 矿业客户——1 光 4 电工业 PoE 是其光纤方案的自然配套（2026-10-21）
 - **风险/边界**：澳洲 RCM 合规（Saga 无 RCM，需说明 CE 等效或客户自认）；矿业场景可能要求更高防护
 - **Saga 对位结论**：P1 STI-144GP（20% 档）——明确需求 1 光 4 电工业 PoE → STI-144GP（EXW $35.5 @25%，分销 20% 档更低）；比价对象为同行低价品，用 Marvell 平台 + 一致性说话
 - **邮件切入句（英文）**：For the 1-fibre 4-copper industrial PoE unit you were pricing, here is the Marvell-based 4-port gigabit PoE + 1 SFP DIN switch at EXW, with the datasheet so you can line it up against the two quotes you already have.

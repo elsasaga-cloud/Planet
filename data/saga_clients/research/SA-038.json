@@ -23,6 +23,27 @@
    "quote": "51 Boulder Rd Malaga, WA 6090 · sales@cabledistribution.com.au · +61 (08) 9375 6522 … Industries - Mining - Oil & Gas - Communication - Pumping & Dewatering",
    "url": "https://cabledistribution.com.au/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "地址 / 电话 / 品类 / 行业",
+   "quote": "51 Boulder Rd Malaga, WA 6090 - sales@cabledistribution.com.au - +61 (08) 9375 6522 - 1800 GET CABLE (1800 438 222) … Products - Power Cables - Communication Cables - Fibre Optic - Data … Industries - Mining - Oil & Gas - Communication - Pumping & Dewatering",
+   "url": "https://cabledistribution.com.au/",
+   "date": "2026-09-10"
+  },
+  {
+   "kind": "官网",
+   "claim": "自有光纤端接工厂与 Dataflow 合作",
+   "quote": "In partnership with Dataflow since 2014, we provide end-to-end solutions using Australian-manufactured fibre, bend-insensitive Corning Glass and pre-tested components",
+   "url": "https://cabledistribution.com.au/industries/data-communications/",
+   "date": "2025-08-18"
+  },
+  {
+   "kind": "目录",
+   "claim": "规模口径",
+   "quote": "51 Boulder Rd, Malaga, Western Australia, 6090 … Revenue $4.7 M … Employees 24 … Founded 1999",
+   "url": "https://www.datanyze.com/companies/cable-distribution-services/398327759",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -38,20 +59,24 @@
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1（沿用首轮调研 + 用户表）"
+  "level": "深挖 v2（官网核对）"
  },
  "company_facts": {
   "legal_name": "Cable Distribution Services（CDS）",
   "founded": "1999",
-  "hq": "Malaga/Perth, Western Australia",
-  "staff": "11–50",
-  "revenue": "$4.7M–$39M（口径）",
-  "other": "矿业/油气/通信电缆与附件库存分销商；光纤与数据线缆类目；拓展工业交换机"
+  "hq": "51 Boulder Rd, Malaga, WA 6090（+61 8 9375 6522；1800 438 222；sales@cabledistribution.com.au）；另 Kewdale/Maylands 3 Reggio Rd、Morley 办公",
+  "staff": "24（Datanyze）/ 11–50",
+  "revenue": "$4.7M（Datanyze）",
+  "other": "电缆库存分销 + 自有光纤端接工厂（FOBOT、预端接，与 Dataflow 合作自 2014，Corning 玻璃）；品类：电力/通信/数据/光纤/附件；行业：矿业、油气、通信、泵送排水、工业（含军事基地、医院——守界：军事不供）；官网 2025-08～2026-09 更新"
  },
  "business_lines": [
   "工业电缆与附件（矿业、油气、泵送）",
   "光纤/数据线缆",
-  "（拓展）1 光 4 电工业 PoE"
+  "（拓展）1 光 4 电工业 PoE",
+  "电力/通信/仪表/矿用电缆分销",
+  "光纤产品与自有端接（FOBOT、预端接）",
+  "数据产品（机柜、跳线）",
+  "（拓展）工业 PoE 交换机"
  ],
  "products_seen": [
   {
@@ -64,12 +89,16 @@
   }
  ],
  "channels": {
-  "网站": "https://www.cabledistribution.com.au/",
+  "网站": "https://cabledistribution.com.au/",
   "直邮": "paul@cabledistribution.com.au（用户表）",
-  "WhatsApp": "已加（用户表）"
+  "WhatsApp": "已加（用户表）",
+  "电话": "+61 8 9375 6522 / 1800 438 222（官网）",
+  "邮箱（公开）": "sales@cabledistribution.com.au",
+  "LinkedIn": "https://au.linkedin.com/company/cable-distribution-services"
  },
  "signals": [
-  "用户表：2 次实质回复，明确型号与比价对象（中科德能/Ewind）——处于选型期"
+  "用户表：2 次实质回复，明确型号与比价对象（中科德能/Ewind）——处于选型期",
+  "光纤端接自有工厂 + 矿业客户——1 光 4 电工业 PoE 是其光纤方案的自然配套（2026-10-21）"
  ],
  "risks": [
   "澳洲 RCM 合规（Saga 无 RCM，需说明 CE 等效或客户自认）；矿业场景可能要求更高防护"

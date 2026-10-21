@@ -23,6 +23,27 @@
    "quote": "Antronix designs and manufactures the components that enable broadband operators to upgrade networks across North America – engineered in-house.",
    "url": "https://antronix.com/about-antronix/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "公司地址/电话/产品节奏",
+   "quote": "Worldwide Corporate Headquarters and Technology Center 440 Forsgate Drive Cranbury, NJ 08512 T: 1.609.860.0160 … 2.0 GHz SHIPPING SINCE 2024 … 3.0 GHz IN DEVELOPMENT",
+   "url": "https://antronix.com/about-antronix/",
+   "date": "2026-10-07"
+  },
+  {
+   "kind": "进口记录",
+   "claim": "从越南/中国进口分配器与连接器（2026-09）",
+   "quote": "WAY SPLITTER | ANTRONIX INC. | CONG TY TNHH DIEN TU HAN VIET | 2026-09-18 | Vietnam … CONNECTOR | ANTRONIX INC | MAIN BRIGHTNESS LTD | 2026-09-16 | China … BROADBAND COMMUNICATIONS PRODUCTS | ANTRONIX INC | ETECH INDUSTRIES NINGBO CO LTD",
+   "url": "https://www.importgenius.com/importers/antronix-inc",
+   "date": "2026-09-18"
+  },
+  {
+   "kind": "行业媒体",
+   "claim": "Antronix–GiaX 合作 Intercept EO 2.5 Gbps",
+   "quote": "This recent collaboration with GiaX will lead with the Intercept EO 2.5 Gbps ethernet over coax PON Extension powered by MoCA Access",
+   "url": "https://www.cbinsights.com/company/antronix",
+   "date": "2024-09-23"
   }
  ],
  "kp": [
@@ -45,20 +66,23 @@
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1（沿用首轮调研）"
+  "level": "深挖 v2（官网 + 进口记录 + 合资）"
  },
  "company_facts": {
   "legal_name": "Antronix, Inc.",
   "founded": "1980",
-  "hq": "Cranbury, New Jersey, USA",
+  "hq": "440 Forsgate Drive, Cranbury, NJ 08512（T 1.609.860.0160）",
   "staff": "约 33",
   "revenue": "约 $4.3M（口径）",
-  "other": "有线宽带射频设备制造商（multi-tap、光节点、放大器、无源），2023 年起光纤方案（与 Teleste 合资 Intercept）"
+  "other": "自 1980 年；产品 Milenium NXT 2.0 GHz multi-tap（2024 起出货）、1.8 GHz 面板、3.0 GHz 在研；与 Teleste 合资 Teleste Intercept（同址，sales@telesteintercept.com）；与 GiaX 合作 Intercept EO 2.5 Gbps MoCA Access；进口记录显示从越南/中国（Etech Industries Ningbo、Main Brightness）采购分配器/连接器"
  },
  "business_lines": [
   "有线电视/宽带 RF 设备",
   "光纤接入方案",
-  "（拓展）商业 L2/L3 交换机、2.5G/10G（用户表询问）"
+  "（拓展）商业 L2/L3 交换机、2.5G/10G（用户表询问）",
+  "HFC 无源/有源（multi-tap、放大器、分配器）",
+  "Teleste Intercept：光纤/DAA/PON 接入平台（含以太网交换机，PitchBook 描述）",
+  "（询价）2.5G/10G 商业 L2/L3 交换机"
  ],
  "products_seen": [
   {
@@ -71,11 +95,16 @@
   }
  ],
  "channels": {
-  "网站": "https://www.antronix.com/",
-  "直邮": "petertarquinio@antronix.com / jimtaxdahl@antronix.com（用户表）"
+  "网站": "https://antronix.com/（2026-09 更新）",
+  "直邮": "petertarquinio@antronix.com / jimtaxdahl@antronix.com（用户表）",
+  "电话": "+1 609 860 0160（官网公开）",
+  "LinkedIn": "https://www.linkedin.com/company/antronix（605 followers）",
+  "合资": "telesteintercept.com"
  },
  "signals": [
-  "用户表：A 已回复 1 次（Peter Tarquinio），兴趣商业 L2/L3/10G、2.5G"
+  "用户表：A 已回复 1 次（Peter Tarquinio），兴趣商业 L2/L3/10G、2.5G",
+  "已从中国/越南进口 RF 配件（2026-09 提单）——有成熟中国采购链路，交换机可走同一路径",
+  "Intercept/EO 2.5 Gbps 方案需要 2.5G/10G 以太网配套——对应其询问 2.5G/10G 商业交换机（推断）"
  ],
  "risks": [
   "北美有线运营商供应链要求 UL/ROHS/一致性与长期供货；交换机为其新品类，决策慢",

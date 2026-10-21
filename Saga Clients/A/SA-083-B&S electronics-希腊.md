@@ -21,7 +21,7 @@ replies: 0
 followups: 6
 first_contact: 2025-03-19
 last_contact: 2025-10-08
-p1: STC-424XGGPM-280W
+p1: STC-28DGGPM
 price_tier: 20%
 research: done
 sources: 2
@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：希腊塞萨洛尼基安防批发/零售商（2004 年起；CCTV、报警、专业音频、自动化、电话交换机），进口+设计+销售，20–49 人、营收 <500 万美元；ISAF 2025 参展，CEO/创始人 Vasilis Stavridis 到访，现工业交换机供应商 EWIND 合作 5 年，对 2.5G 与升压 5 口机型有兴趣，要 8 口报价，已加 WA。（调研 2026-10-21；表内兴趣：防水交换机，先看了帧田的，主要是安防项目，IP camera 工业级交换机有供应商了，合作了5年了，大概率是EWIND，似乎和她们很熟悉，对2.5G交换机有兴趣，给他介绍了升压5口，有兴趣，平时也会解一些solar项目，问能否做8口的）
 - **为什么是 A 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/希腊；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 6 次（2025-03-19 → 2025-10-08）
-- **P1（下一步唯一主推）**：STC-424XGGPM-280W — 深挖对位：客户兴趣点是 2.5G：以 STC-424XGGPM-280W（24 PoE + 4×10G，2.5G 下行需 SmartByte 核）切入，工业位 STI-288DGGPM 作 EWIND 二供；分销 20% 档；$181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：BS-SWP8/2（8 PoE 百兆）千兆管理升级 = STC-28DGGPM；BS-SWP24/2Q = STC-424DGGPM-280W；2.5G 兴趣 = STC-424XGGPM-280W；工业位 STI-288DGGPM 作 EWIND 二供；分销 20% 档；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -69,7 +69,7 @@ updated: 2026-10-21
 - **是谁**：希腊塞萨洛尼基安防批发/零售商（2004 年起；CCTV、报警、专业音频、自动化、电话交换机），进口+设计+销售，20–49 人、营收 <500 万美元；ISAF 2025 参展，CEO/创始人 Vasilis Stavridis 到访，现工业交换机供应商 EWIND 合作 5 年，对 2.5G 与升压 5 口机型有兴趣，要 8 口报价，已加 WA。
 - **类型**：安防批发商/进口商
 - **规模**：小型（20–49 人，营收 <$5M）
-- **在卖/在用品牌**：EWIND（用户记录：现供应商 5 年）
+- **在卖/在用品牌**：EWIND（用户记录：现供应商 5 年）, TARGET / BS-SWP（自有标）
 - **【官网】进口+设计+销售高科技产品，专注安防/CCTV/专业音频/自动化/电话交换机；批发与超批发**
   > με βασικό αντικείμενο τον σχεδιασμό , την εισαγωγή και εμπορία προϊόντων υψηλής τεχνολογίας… κλειστών κυκλωμάτων τηλεόρασης (CCTV)… καλύπτει τις χονδρικές και υπερχονδρικές παραγγελίες σας
   > 来源：https://bselectronics.gr/（抓取 2026-10-21）
@@ -82,33 +82,47 @@ updated: 2026-10-21
 - **【黄页】法人为 Βασίλειος Σταυρίδης（Vassilios Stavridis）**
   > BS ELECTRONICS (Stavridis Vassilios K.) Papandreou Andrea 54-56, Kalamaria
   > 来源：https://www.vrisko.gr/en/details/52d_d4ajaf4f2i6i043h2c20c60d3i17（抓取 2026-10-21）
+- **【官网网店】BS-SWP / TP/SWP / BS-HPSWP 系列型号列表与地址**
+  > BS-SWP4/2 POE Switch 6άρι, 48V με ενσωματωμένο τροφοδοτικό … BS-SWP8/2 … BS-SWP16/2Q … BS-SWP24/2Q … TP/SWP4/2 … BS-HPSWP4/2 High Power POE Switch … Ανδρέα Παπανδρέου 54-56 Τ.Κ. 55132 Καλαμαριά, Θεσσαλονίκη
+  > 来源：https://bselectronics.gr/index.php?route=product/category&path=820（抓取 2026-10-21）
+- **【官网网店】TPSPOE48050/8CH 套件 €140（TARGET 品牌）**
+  > Κατασκευαστής: TARGET … Τροφοδοτικό POE-UPS 48V-5A, 8CH … Περιλαμβάνει το ψηφιακό POE SWITCH της ίδιας εταιρίας, 8 θυρών (ισχύς ανά θύρα 30W) 10/100 και 2 θυρών UPLINK 100/1000 … AI WATCHDOG … price 140.00
+  > 来源：https://bselectronics.gr/tpspoe48050_8（抓取 2026-10-21）
+- **【经销商】BS-SWP4/2 经销价**
+  > BS-SWP4/2 €66.96 Τιμή χωρίς Φ.Π.Α €54.00 … TP/SWP4/2 €71.92 Τιμή χωρίς Φ.Π.Α €58.00
+  > 来源：https://www.elektronikos.gr/product-category/modules-trofodotika-metallika-kytia/ethernet-poe-switches/poe-switches/（抓取 2026-10-21）
 - **KP**：Vasilis Stavridis（CEO / Founder）imports@bselectronics.gr +30 697 224 0011（用户记录 WA）〔用户 Clients 表（ISAF 2025）+ 黄页法人信息〕
 - 备注：欧洲主攻区、CEO 直接、已有同类供应商（EWIND）= 真实在采、可替换；兴趣点 2.5G + 升压 PoE 小口数机型。P1：STC-28DGGPM（8 口 PoE 商用）作为其要的 8 口报价，并附 2.5G 机型（STC-424XGGPM-280W 或 SmartByte 2.5G 8 口款，报价前核价）；分销价阶 20%。邮件 0 回复 → WA 跟。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研 + ISAF 现场记录））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网网店 + 自有 BS-SWP 系列核对））
 
 | 公司事实 | 内容 |
 |---|---|
 | 法定名称 | B&S Electronics（Βασίλειος Σταυρίδης） |
 | 成立 | 2004 |
-| 总部/地址 | Kalamaria, Thessaloniki, Greece |
+| 总部/地址 | Ανδρέα Παπανδρέου 54-56, 55132 Καλαμαριά, Θεσσαλονίκη（tel 2310 860 272 / 2310 455 005） |
 | 人数 | 20–49 |
 | 营收 | <$5M |
-| 其他 | 安防批发/零售（CCTV、报警、专业音频、自动化、电话交换机）；ISAF 2025 到访（CEO Vasilis Stavridis）；现工业交换机供应商 EWIND 合作 5 年 |
+| 其他 | B2B 网店 bselectronics.gr：自有/联营品牌 TARGET「BS-SWP」PoE 交换机系列（BS-SWP4/2、8/2、16/2Q、24/2Q；TP/SWP 无电源版；BS-HPSWP 高功率 4/8/16），PoE-UPS 电源 TPSPOE48050/8CH €140（含 8 口 AI PoE 交换机）；2025-07 行业媒体 securityreport.gr 专文推 Target BS-SWP 系列（B&S + PGM 联合）；新品：防水千兆 PoE extender、TD-3008H1-8P NVR |
 
-- **业务线**：CCTV / 报警 / 专业音频 / 自动化 批发零售；工业交换机（EWIND）用于安防项目；对 2.5G 交换机有兴趣；看了防水交换机
+- **业务线**：CCTV / 报警 / 专业音频 / 自动化 批发零售；工业交换机（EWIND）用于安防项目；对 2.5G 交换机有兴趣；看了防水交换机；TARGET / BS-SWP 自有标 PoE 交换机（百兆为主，内置电源）；PoE-UPS 48V 电源 + 交换机套件；CCTV/报警/对讲/机柜 批发
 
 | 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
 |---|---|---|---|---|
 | EWIND（现供应商 5 年） | 工业 PoE 交换机（IP camera 项目） | — | STI-288DGGPM（二供位） | （本地 Clients/ 表格，无公开 URL）（ISAF 2025） |
 | （兴趣） | 2.5G PoE 交换机 | 现场表达兴趣 | STC-424XGGPM-280W（2.5G 下行待核） | （本地 Clients/ 表格，无公开 URL）（ISAF 2025） |
+| TARGET（BS 自有标） | BS-SWP4/2 / TP/SWP4/2 | 4 PoE + 2 上联 48V 内置电源；经销价 €54 / €58 ex-VAT（elektronikos.gr） | STI-144GP / STC-28DGGPM | https://www.elektronikos.gr/product-category/modules-trofodotika-metallika-kytia/ethernet-poe-switches/poe-switches/（2026-10-21） |
+| TARGET（BS 自有标） | BS-SWP8/2 / BS-SWP16/2Q / BS-SWP24/2Q | 8/16/24 PoE 48V 内置电源 | STC-28DGGPM / STI-21616GP / STC-424DGGPM-280W | https://bselectronics.gr/index.php?route=product/category&path=820（2026-10-21） |
+| TARGET（BS 自有标） | BS-HPSWP4/2 / 8/2 / 16/2/1 | High Power PoE 4/8/16 | STC-28DGGPM（bt 需核） | https://bselectronics.gr/index.php?route=product/category&path=820（2026-10-21） |
+| TARGET | TPSPOE48050 / 8CH | PoE-UPS 48V 5A + 8 口 AI PoE 交换机（30W/口，2 GE 上联，VLAN/Watchdog）€140 | STC-28DGGPM（交换机部分） | https://bselectronics.gr/tpspoe48050_8（2026-10-21） |
 
-- **触达通道（公开）**：网站: https://bselectronics.gr/；直邮: imports@bselectronics.gr（用户表）；联系人: Vasilis Stavridis（CEO/创始人）
+- **触达通道（公开）**：网站: https://bselectronics.gr/；直邮: imports@bselectronics.gr（用户表）；联系人: Vasilis Stavridis（CEO/创始人）；网站/网店: https://bselectronics.gr/；电话: +30 2310 860 272（官网公开）；媒体: securityreport.gr 2025-07 专文
 - **近况信号**：
   - ISAF 2025：CEO 亲访；对 2.5G 感兴趣——2.5G 是切入差异点
+  - 自有标 BS-SWP 系列 2025-07 仍在媒体推广——贴牌采购活跃；全系百兆 → 千兆/2.5G 管理型是升级空位（2026-10-21）
 - **风险/边界**：EWIND 关系牢固（5 年、熟悉）→ 不做替换，只做 2.5G/新品类二供；防水（IP67）交换机 Saga 不做
-- **Saga 对位结论**：P1 STC-424XGGPM-280W（20% 档）——客户兴趣点是 2.5G：以 STC-424XGGPM-280W（24 PoE + 4×10G，2.5G 下行需 SmartByte 核）切入，工业位 STI-288DGGPM 作 EWIND 二供；分销 20% 档
-- **邮件切入句（英文）**：Since the 2.5G question came up at ISAF, the 24-port PoE+ unit with four 10G SFP+ uplinks is the platform I can price now, and the 8-port industrial PoE DIN model sits alongside your EWIND units rather than replacing them.
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——BS-SWP8/2（8 PoE 百兆）千兆管理升级 = STC-28DGGPM；BS-SWP24/2Q = STC-424DGGPM-280W；2.5G 兴趣 = STC-424XGGPM-280W；工业位 STI-288DGGPM 作 EWIND 二供；分销 20% 档
+- **邮件切入句（英文）**：Your BS-SWP series is fast-Ethernet today, so the Marvell-based gigabit managed 8-port PoE+ with 2 SFP in BS packing is the natural step up, and the 24-port version with four 10G SFP+ uplinks answers the 2.5G question from ISAF.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -157,17 +171,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424XGGPM-280W | 深挖对位：客户兴趣点是 2.5G：以 STC-424XGGPM-280W（24 PoE + 4×10G，2.5G 下行需 SmartByte 核）切入，工业位 STI-288DGGPM 作 EWIND 二供；分销 20% 档 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（安防批发商/进口商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：BS-SWP8/2（8 PoE 百兆）千兆管理升级 = STC-28DGGPM；BS-SWP24/2Q = STC-424DGGPM-280W；2.5G 兴趣 = STC-424XGGPM-280W；工业位 STI-288DGGPM 作 EWIND 二供；分销 20% 档 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（安防批发商/进口商） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424XGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
@@ -177,7 +191,7 @@ updated: 2026-10-21
 
 - **S**：WhatsApp 直达；欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-424XGGPM-280W 按 20% 档报价，做现供应商的第二货源；规模（调研）：小型（20–49 人，营收 <$5M）
+- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源；规模（调研）：小型（20–49 人，营收 <$5M）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -205,14 +219,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424XGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Vasilis,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Since the 2.5G question came up at ISAF, the 24-port PoE+ unit with four 10G SFP+ uplinks is the platform I can price now, and the 8-port industrial PoE DIN model sits alongside your EWIND units rather than replacing them.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Your BS-SWP series is fast-Ethernet today, so the Marvell-based gigabit managed 8-port PoE+ with 2 SFP in BS packing is the natural step up, and the 24-port version with four 10G SFP+ uplinks answers the 2.5G question from ISAF.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGPM-280W - that fits the same slot as your EWIND（现供应商 5 年） 工业 PoE 交换机（IP camera 项目） at a lower landed cost, and we can ship it with neutral packaging. Current price: $181.2 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your EWIND（现供应商 5 年） 工业 PoE 交换机（IP camera 项目） at a lower landed cost, and we can ship it with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 
