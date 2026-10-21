@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（sheildify.com，快照 2026-10-21）",
- "summary": "阿联酋电商/网店：官网「Security, Medical & Safety Equipment Store in Dubai, UAE.」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi；站内品牌：Hikvision、Ubiquiti、D-Link、Teltonika、Hanwha、TP-Link；站内型号：IEEE802、CT100、BLX24、DH-PFS3005-4ET-60；表内「很多牌子的switch」；群发 3 次、无回复。",
- "type": "电商/网店",
+ "summary": "迪拜安防 / 医疗 / 消防设备网店 Shieldify（官网：Dubai’s trusted store for CCTV, biometric readers, smart door locks, fire safety & medical equipment；站内 Hikvision / Dahua / Ubiquiti / D-Link / TP-Link / Teltonika / Hanwha / ZKTeco，交换机页面 Dahua PFS3005-4ET-60、Hikvision DS-3E0105P-E；表内「很多牌子的 switch」）；群发 3 次无回复。",
+ "type": "电商/网店（安防 + 弱电，迪拜）",
  "size": "",
  "brands_seen": [
   "Hikvision",
@@ -31,6 +31,13 @@
    "quote": "很多牌子的switch",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "迪拜安防/医疗/消防设备网店",
+   "quote": "Dubai’s trusted store for CCTV, biometric readers, smart door locks, fire safety & medical equipment. Best brands & prices. Shop Shieldify now!",
+   "url": "https://sheildify.com/",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -39,41 +46,51 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "阿联酋",
   "other": "官网 sheildify.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "电信 / FTTH / ISP 设备",
-  "无线 / WiFi",
-  "数据中心 / 企业 IT",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "安防 / 门禁 / 消防 / 医疗设备网店",
+  "数据网络方案（配套）"
  ],
  "channels": {
-  "role": "电商/网店",
+  "role": "电商/网店（安防 + 弱电，迪拜）",
   "region": "阿联酋",
   "contact": "sales@sheildify.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://sheildify.com/）",
-  "在售同口型交换品牌：Ubiquiti、D-Link、Teltonika、TP-Link → 直接对位替换",
-  "安防品牌：Hikvision、Hanwha、Dahua、ZKTeco → PoE 配套切入",
-  "官网公开邮箱：sales@sheildify.com",
-  "用户表兴趣/备注：很多牌子的switch"
+  "官网 kw：cable 560 / camera 509 / switch 427 / poe 228 / industrial 81",
+  "产品页 /product/data-networking-solutions-dubai-uae-2xx/ → 有「数据网络方案」品类"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "综合网店（安防 + 医疗 + 消防）：交换机为配套品类，量小",
+  "非主攻区（T5）；无具名联系人（sales@）"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
+  "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：电商/网店→20%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "网店在卖 Dahua/Hik 5 口非管理 PoE（$20–30 价带）→ Saga 对价位 HRUI STC-204GP（$20.4 列表价）/ STC-028GP（$24.2）；管理位 STC-28DGGPM（$80.7 @20%）作升级款"
  },
- "email_hook": "Alongside the Hikvision / Ubiquiti lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+ "email_hook": "Next to the Dahua PFS and Hikvision DS-3E PoE switches on your store, we can list a neutral-brand 8-port PoE+ L2+ managed switch (2 SFP) plus a budget 4/8-port unmanaged PoE line, shipped from small lots — which price band moves more for you, unmanaged or managed?",
+ "products_seen": [
+  {
+   "brand": "Dahua",
+   "model": "DH-PFS3005-4ET-60",
+   "spec": "4 口百兆 PoE + 1 上联 非管理 60W",
+   "saga": "STC-204GP（HRUI 列表价 $20.4，非 SmartByte）",
+   "url": "https://sheildify.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Hikvision",
+   "model": "DS-3E0105P-E",
+   "spec": "4 口百兆 PoE 非管理",
+   "saga": "STC-204GP（HRUI 列表价 $20.4，非 SmartByte）",
+   "url": "https://sheildify.com/",
+   "date": "2026-10-21"
+  }
+ ]
 }

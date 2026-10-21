@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（cctv-global.co.uk，快照 2026-10-21）",
- "summary": "英国安防集成/经销：官网「CCTV Global London Ltd」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆；站内品牌：Ruijie、Ajax、Hikvision；站内型号：RG-POE-50-60W-MG、NS-0106P-35、RG-ES106F-P、NS-0505P-35；表内「主要是CCTV类产品 卖Longse的」；群发 9 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "英国 CCTV Global London Ltd（CCTV 分销：Hikvision / HiLook / Ajax / EZVIZ / Toshiba / Haydon；站内 Ruijie RG-ES106F-P、RG-POE-50-60W、Hikvision DS-3E1105P-EI、NS-0106P-35 等 PoE 交换机；表内「主要是 CCTV 类产品，卖 Longse 的」；KP Iain McNeil（Director，imcneil@））；群发 9 次无回复。",
+ "type": "安防分销商（伦敦，Hikvision/Ajax 渠道）",
  "size": "",
  "brands_seen": [
   "Ruijie",
@@ -25,45 +25,80 @@
    "quote": "主要是CCTV类产品 卖Longse的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "品牌栏：Hikvision / HiLook / AJAX / EZVIZ / Toshiba / HAYDON",
+   "quote": "CCTV GLOBAL LONDON LTD ; Hikvision ; HiLook ; AJAX ; EZVIZ ; Toshiba ; HAYDON",
+   "url": "https://www.cctv-global.co.uk",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "主要 CCTV，卖 Longse",
+   "quote": "主要是CCTV类产品 卖Longse的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Iain McNeil",
+   "title": "Director",
+   "email": "imcneil@cctv-global.co.uk",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "英国",
   "other": "官网 cctv-global.co.uk，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "无线 / WiFi",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "CCTV / 门禁 / 报警分销（Hikvision、HiLook、Ajax、EZVIZ）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "安防分销商（伦敦，Hikvision/Ajax 渠道）",
   "region": "英国",
   "contact": "sales@cctv-global.co.uk、imcneil@cctv-global.co.uk"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.cctv-global.co.uk）",
-  "在售同口型交换品牌：Ruijie → 直接对位替换",
-  "安防品牌：Ajax、Hikvision → PoE 配套切入",
-  "官网公开邮箱：johndoe@domain.com",
-  "用户表兴趣/备注：主要是CCTV类产品 卖Longse的"
+  "站内型号 RG-POE-50-60W-MG、NS-0106P-35、NS-0505P-35、RG-ES106F-P、DS-3E1105P-EI",
+  "KP：Iain McNeil / Director（表内）"
  ],
- "risks": [],
+ "risks": [
+  "Hikvision 渠道分销：PoE 多随摄像机套装走，白牌交换机为补充",
+  "群发 9 次无回复：改向 Director 具名首触"
+ ],
  "saga_fit": {
-  "p1": "STI-288GP",
+  "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "官网快照对位：工业/自动化词频 5、PoE 292 → DIN 8 PoE+ 2 SFP 起手（来源：官网快照；档位：安防集成/经销→20%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "在售 Ruijie RG-ES106F-P / Hik DS-3E1105P 等 4–5 口非管理 PoE（$20–35 价带）→ 对价 HRUI STC-204GP（$20.4）/ STC-028GP（$24.2）；管理位 STC-28DGGPM（$80.7 @20%）"
  },
- "email_hook": "Iain, alongside the Ruijie / Ajax lines you carry, we supply the Marvell-based DIN-rail 8-port gigabit PoE+ industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Iain, next to the Ruijie ES106F-P and Hikvision DS-3E11xx PoE switches you stock, we supply a neutral-brand 8-port PoE+ L2+ switch (2 SFP) and a budget 4/8-port unmanaged PoE line from small lots with UKCA/CE — which price band do your installers buy most, unmanaged or managed?",
+ "products_seen": [
+  {
+   "brand": "Ruijie/Reyee",
+   "model": "RG-ES106F-P",
+   "spec": "6 口百兆 4 PoE 非管理",
+   "saga": "STC-204GP（HRUI 列表价 $20.4，非 SmartByte）",
+   "url": "https://www.cctv-global.co.uk",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Hikvision",
+   "model": "DS-3E1105P-EI",
+   "spec": "4 PoE + 1 上联 智能管理",
+   "saga": "STC-204GP（HRUI 列表价 $20.4，非 SmartByte）",
+   "url": "https://www.cctv-global.co.uk",
+   "date": "2026-10-21"
+  }
+ ]
 }

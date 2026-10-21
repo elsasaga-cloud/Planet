@@ -2,7 +2,7 @@
 
 > **评级 B**　|　沙特阿拉伯　|　档案编号 `SB-571`　|　优先级 ★★　|　状态：已推送 8 次·未回复
 >
-> **类型**：分销商/批发商（推断）　|　**历史关系**：推送 8 次（2025-04-04 → 2025-10-22）　|　**所在清单**：A优质名单(阿联酋 沙特阿拉伯)、AI评估(阿联酋 沙特阿拉伯)·DONE、群发(筛选后质量一般的_群发)、表:阿联酋沙特　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：分销商（IT 网络 + 安防 + 光纤，KSA/UAE）（推断）　|　**历史关系**：推送 8 次（2025-04-04 → 2025-10-22）　|　**所在清单**：A优质名单(阿联酋 沙特阿拉伯)、AI评估(阿联酋 沙特阿拉伯)·DONE、群发(筛选后质量一般的_群发)、表:阿联酋沙特　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-571
@@ -12,14 +12,14 @@ score: 38
 country: 沙特阿拉伯
 region: 中东
 website: zoomlinenetwork.com
-type: 分销商/批发商
+type: 分销商（IT 网络 + 安防 + 光纤，KSA/UAE）
 tier_tags: ["A优质名单(阿联酋 沙特阿拉伯)", "AI评估(阿联酋 沙特阿拉伯)·DONE", "群发(筛选后质量一般的_群发)", "表:阿联酋沙特"]
 deal: no
 replies: 0
 followups: 8
 first_contact: 2025-04-04
 last_contact: 2025-10-22
-p1: STI-288DGGPM
+p1: STI-288GP
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：沙特阿拉伯分销商/批发商：官网「Networking Products and Security Solutions Distributors in UAE」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT；站内品牌：TP-Link、Ubiquiti、MikroTik、Cisco、D-Link、Aruba；产品页：industrial-switches-distributor-ksa、industrial-switches-and-ip-pbx-a-powerfu、switches、kvm-switch-ksa；表内「工业FS 商业FS 周边产品 无源产品也比较多；很多牌子的 有Nnet的；工业FS 商业FS 周边产品 无源产品也比较多 N-net的工业FS」；群发 8 次、无回复。（调研 2026-10-21；表内兴趣：工业FS 商业FS 周边产品 无源产品也比较多；很多牌子的 有Nnet的；工业FS 商业FS 周边产品 无源产品也比较多 N-net的工业FS）
+- **是谁**：沙特/阿联酋 IT 网络与安防分销商 Zoom Line Networks Technology（官网自述「中东与非洲最大的 IT / 网络 / 安防方案分销商之一」；品牌页 TP-Link / Ubiquiti / MikroTik / Cisco / D-Link / Aruba / Fortinet / Schneider；专页「Industrial Switches Distributor KSA」；表内：工业 FS / 商业 FS / 无源产品多，有 N-net 的工业 FS；KP Mohammad Faisal（Business Development Manager，faisal@）；群发 8 次无回复。（调研 2026-10-21；表内兴趣：工业FS 商业FS 周边产品 无源产品也比较多；很多牌子的 有Nnet的；工业FS 商业FS 周边产品 无源产品也比较多 N-net的工业FS）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-04-04 → 2025-10-22）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：分销商/批发商→20%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：专页在推「工业交换机分销 KSA」且表内在卖 N-net 工业 FS → 非管理工业 8 PoE + 2 SFP STI-288GP（$57.4 @20%）对位 N-net；商用位 STC-424DGGPM-280W；$57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | zoomlinenetwork.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 沙特阿拉伯（另见：阿联酋） | 事实（用户表）|
 | 网站/域名 | zoomlinenetwork.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 分销商/批发商 | 推断（据兴趣/备注关键词） |
+| 类型 | 分销商（IT 网络 + 安防 + 光纤，KSA/UAE） | 推断（据兴趣/备注关键词） |
 | 联系人 | N-net的工业FS / Mohammad Faisal / Business Development Manager | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 工业FS 商业FS 周边产品<br>无源产品也比较多 / 很多牌子的 有Nnet的 / 工业FS 商业FS 周边产品<br>无源产品也比较多<br>N-net的工业FS | 事实（用户表） |
@@ -65,8 +65,8 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（zoomlinenetwork.com，快照 2026-10-21）
-- **是谁**：沙特阿拉伯分销商/批发商：官网「Networking Products and Security Solutions Distributors in UAE」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT；站内品牌：TP-Link、Ubiquiti、MikroTik、Cisco、D-Link、Aruba；产品页：industrial-switches-distributor-ksa、industrial-switches-and-ip-pbx-a-powerfu、switches、kvm-switch-ksa；表内「工业FS 商业FS 周边产品 无源产品也比较多；很多牌子的 有Nnet的；工业FS 商业FS 周边产品 无源产品也比较多 N-net的工业FS」；群发 8 次、无回复。
-- **类型**：分销商/批发商
+- **是谁**：沙特/阿联酋 IT 网络与安防分销商 Zoom Line Networks Technology（官网自述「中东与非洲最大的 IT / 网络 / 安防方案分销商之一」；品牌页 TP-Link / Ubiquiti / MikroTik / Cisco / D-Link / Aruba / Fortinet / Schneider；专页「Industrial Switches Distributor KSA」；表内：工业 FS / 商业 FS / 无源产品多，有 N-net 的工业 FS；KP Mohammad Faisal（Business Development Manager，faisal@）；群发 8 次无回复。
+- **类型**：分销商（IT 网络 + 安防 + 光纤，KSA/UAE）
 - **在卖/在用品牌**：TP-Link, Ubiquiti, MikroTik, Cisco, D-Link, Aruba, Schneider, Fortinet
 - **【官网快照】官网标题：Networking Products and Security Solutions Distributors in UAE；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE**
   > Zoom line Networks Technology is one of the largest IT, Networking & Security solutions distributors of renowned brands in the Middle East and Africa, houses other entities in the ME region.
@@ -74,26 +74,34 @@ updated: 2026-10-21
 - **【用户表】表内兴趣/备注**
   > 工业FS 商业FS 周边产品 无源产品也比较多；很多牌子的 有Nnet的；工业FS 商业FS 周边产品 无源产品也比较多 N-net的工业FS
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】自述中东与非洲最大 IT/网络/安防方案分销商之一**
+  > Zoom line Networks Technology is one of the largest IT, Networking & Security solutions distributors of renowned brands in the Middle East and Africa
+  > 来源：https://zoomlinenetwork.com/（抓取 2026-10-21）
+- **【官网快照】工业交换机分销专页**
+  > /industrial-switches-distributor-ksa/
+  > 来源：https://zoomlinenetwork.com/industrial-switches-distributor-ksa/（抓取 2026-10-21）
+- **【用户表】在卖 N-net 工业 FS、无源产品多**
+  > 工业FS 商业FS 周边产品 无源产品也比较多 / 很多牌子的 有Nnet的
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Mohammad Faisal（）faisal@zoomlinenetwork.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 沙特阿拉伯 |
 | 其他 | 官网 zoomlinenetwork.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：安防监控（CCTV / 门禁）；工业自动化 / OT 网络；电信 / FTTH / ISP 设备；数据中心 / 企业 IT；布线 / 线缆；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 分销商/批发商；region: 沙特阿拉伯；contact: sales@zoomlinenetwork.com、faisal@zoomlinenetwork.com
+- **业务线**：IT / 网络 / 安防分销（KSA、UAE）；光纤与无源产品（熔接机、线缆）；工业交换机分销（专页）
+- **触达通道（公开）**：role: 分销商（IT 网络 + 安防 + 光纤，KSA/UAE）；region: 沙特阿拉伯；contact: sales@zoomlinenetwork.com、faisal@zoomlinenetwork.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://zoomlinenetwork.com/）
-  - 在售同口型交换品牌：TP-Link、Ubiquiti、MikroTik、D-Link → 直接对位替换
-  - 在售工业网络品牌：Schneider → 工业线对位
-  - 官网公开邮箱：sales@zoomlinenetwork.com
-  - 用户表兴趣/备注：工业FS 商业FS 周边产品 无源产品也比较多；很多牌子的 有Nnet的；工业FS 商业FS 周边产品 无源产品也比较多 N-net的工业FS
-- **风险/边界**：企业级品牌为主（Cisco/Aruba/Fortinet）：Saga 白牌只作价格补充线；非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：分销商/批发商→20%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Mohammad, alongside the TP-Link / Ubiquiti lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?
+  - 官网专页 /industrial-switches-distributor-ksa/、/switches/、/kvm-switch-ksa/
+  - 首页在售 Fujikura 熔接机、Ramcro 线缆 → 光纤施工渠道
+  - KP：Mohammad Faisal / Business Development Manager（faisal@zoomlinenetwork.com，表内）
+- **风险/边界**：自述「中东最大分销商之一」：以大牌代理为主，Saga 白牌只作价格补充线；非主攻区（T5）；沙特项目多为招标，付款周期长；表内 8 次群发无回复：换角度（工业专页）首触
+- **Saga 对位结论**：P1 STI-288GP（20% 档）——专页在推「工业交换机分销 KSA」且表内在卖 N-net 工业 FS → 非管理工业 8 PoE + 2 SFP STI-288GP（$57.4 @20%）对位 N-net；商用位 STC-424DGGPM-280W
+- **邮件切入句（英文）**：Mohammad, for the industrial-switch line you promote in KSA alongside N-net, we supply Marvell-based DIN-rail 8-port PoE+ switches with 2 SFP (−40~75 °C) and the managed version, neutral packing from small lots — is unmanaged or managed the bigger volume for your KSA projects?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -147,8 +155,8 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Mohammad Faisal | — | faisal@zoomlinenetwork.com | 调研核实（公开页） | 用户表 |
 | N-net | — | sales@zoomlinenetwork.com / faisal@zoomlinenetwork.com | 用户表原值 | Clients/ 表 |
-| Mohammad Faisal | — | sales@zoomlinenetwork.com / faisal@zoomlinenetwork.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -167,17 +175,18 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 深挖对位：工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：分销商/批发商→20%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销商/批发商） |
+| **P1** | STI-288GP | 深挖对位：专页在推「工业交换机分销 KSA」且表内在卖 N-net 工业 FS → 非管理工业 8 PoE + 2 SFP STI-288GP（$57.4 @20%）对位 N-net；商用位 STC-424DGGPM-280W | $57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销商（IT 网络 + 安防 + 光纤，KSA/UAE）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -187,7 +196,7 @@ updated: 2026-10-21
 
 - **S**：名单内已有联系记录，不是零起点
 - **W**：已推送 8 次无回复，邮件通道疲劳；中东：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-288DGGPM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 N-net：涨价、断货或交期拉长时切入
+- **O**：P1 STI-288GP 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 N-net：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -215,25 +224,21 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Mohammad,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Mohammad, alongside the TP-Link / Ubiquiti lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?
+Picking up our earlier exchange about PoE / industrial switches. Mohammad, for the industrial-switch line you promote in KSA alongside N-net, we supply Marvell-based DIN-rail 8-port PoE+ switches with 2 SFP (−40~75 °C) and the managed version, neutral packing from small lots — is unmanaged or managed the bigger volume for your KSA projects?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the N-net class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

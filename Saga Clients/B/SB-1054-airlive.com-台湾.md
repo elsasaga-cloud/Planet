@@ -2,7 +2,7 @@
 
 > **评级 B**　|　台湾　|　档案编号 `SB-1054`　|　优先级 ★★　|　状态：已推送 19 次·未回复
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 19 次（2024-01-02 → 2025-10-23）　|　**所在清单**：A台湾名单　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：台湾品牌商（按「台湾厂商口径」只谈 OEM/ODM）（推断）　|　**历史关系**：推送 19 次（2024-01-02 → 2025-10-23）　|　**所在清单**：A台湾名单　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1054
@@ -12,7 +12,7 @@ score: 27
 country: 台湾
 region: 亚太
 website: airlive.com
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 台湾品牌商（按「台湾厂商口径」只谈 OEM/ODM）
 tier_tags: ["A台湾名单"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：台湾品牌商/贴牌需求（OEM/ODM）：官网「wifi6 MESH Router|AirLive|Managed Switch|5G|Your best choice of Smart Network Solution」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi；站内型号：IEEE802、RJ-45、IGM-14104BT-2、IGM-1484POE-2；表内「工业FS MC SFP 自己的牌子」；群发 19 次、无回复。（调研 2026-10-21；表内兴趣：工业FS MC SFP 自己的牌子）
+- **是谁**：台湾鑫志科技 AirLive Technology（网络品牌：Wi-Fi 6 Mesh / 管理交换机 / 5G / XGPON；站内工业 PoE 型号 IGM-1484POE-2、IGM-1082BT-2、IGM-14104BT-2，PoE 词频 481、2.5G 171、10G 135；表内「工业 FS / MC / SFP，自己的牌子」；KP John Lai（john.lai@））；群发 19 次无回复。（调研 2026-10-21；表内兴趣：工业FS MC SFP 自己的牌子）
 - **为什么是 B 级**：+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025；-16 推送 19 次无任何回复（聋名单）
 - **历史互动**：推送 19 次（2024-01-02 → 2025-10-23）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：自有品牌工业 PoE（IGM-1082BT-2 = 8 PoE++ + 2 SFP）→ 工业 L2+ 8 PoE + 2×2.5G SFP STI-288DGGPM（$151.6 @30%）/ -2BT 版（$171.0）；多千兆位 Saga 无 2.5G 全端口标准型；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | airlive.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 台湾 | 事实（用户表）|
 | 网站/域名 | airlive.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 台湾品牌商（按「台湾厂商口径」只谈 OEM/ODM） | 推断（据兴趣/备注关键词） |
 | 联系人 | John | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 工业FS MC SFP 自己的牌子 | 事实（用户表） |
@@ -55,32 +55,44 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（airlive.com，快照 2026-10-21）
-- **是谁**：台湾品牌商/贴牌需求（OEM/ODM）：官网「wifi6 MESH Router|AirLive|Managed Switch|5G|Your best choice of Smart Network Solution」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi；站内型号：IEEE802、RJ-45、IGM-14104BT-2、IGM-1484POE-2；表内「工业FS MC SFP 自己的牌子」；群发 19 次、无回复。
-- **类型**：品牌商/贴牌需求（OEM/ODM）
+- **是谁**：台湾鑫志科技 AirLive Technology（网络品牌：Wi-Fi 6 Mesh / 管理交换机 / 5G / XGPON；站内工业 PoE 型号 IGM-1484POE-2、IGM-1082BT-2、IGM-14104BT-2，PoE 词频 481、2.5G 171、10G 135；表内「工业 FS / MC / SFP，自己的牌子」；KP John Lai（john.lai@））；群发 19 次无回复。
+- **类型**：台湾品牌商（按「台湾厂商口径」只谈 OEM/ODM）
 - **【官网快照】官网标题：wifi6 MESH Router|AirLive|Managed Switch|5G|Your best choice of Smart Network Solution；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE**
   > AirLive® Technology’s Network and Communication innovations implement your smart Integration. Accumulated yearly well experiences in networking and communication Industry, AirLive Technology continuously dedicates in developing innovations 
   > 来源：https://www.airlive.com/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 工业FS MC SFP 自己的牌子
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】AirLive 网络与通信创新，智能整合**
+  > AirLive® Technology’s Network and Communication innovations implement your smart Integration.
+  > 来源：https://www.airlive.com/（抓取 2026-10-21）
+- **【用户表】工业 FS / MC / SFP 自有品牌**
+  > 工业FS MC SFP 自己的牌子
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：John Lai（）john.lai@airlive.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 台湾 |
 | 其他 | 官网 airlive.com，语言 en，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：安防监控（CCTV / 门禁）；工业自动化 / OT 网络；电信 / FTTH / ISP 设备；无线 / WiFi；数据中心 / 企业 IT；布线 / 线缆；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 品牌商/贴牌需求（OEM/ODM）；region: 台湾；contact: john.lai@airlive.com
+- **业务线**：Wi-Fi 6 Mesh / 企业无线；管理交换机（商用 / 工业 / 10G / 2.5G）；XGPON / 5G
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| AirLive（自有） | IGM-1082BT-2 | 工业 8 口 PoE++（BT）+ 2 SFP 管理型 | STI-288DGGPM-2BT | https://www.airlive.com/（2026-10-21） |
+| AirLive（自有） | IGM-1484POE-2 | 工业 4+4 PoE + 2 SFP | STI-288DGGPM | https://www.airlive.com/（2026-10-21） |
+
+- **触达通道（公开）**：role: 台湾品牌商（按「台湾厂商口径」只谈 OEM/ODM）；region: 台湾；contact: john.lai@airlive.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.airlive.com/）
-  - 官网公开邮箱：info@airlive.com
-  - 用户表兴趣/备注：工业FS MC SFP 自己的牌子
-- **风险/边界**：群发 19 次无回复：换角度首触（不再发产品图，只问一个问题）；非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：John, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+  - 官网产品页 /en/product/sr/SMB/PoE-Switch、/Industrial-Switch、/10G-Switch(NON-POE)
+  - 站内型号 IGM-1484POE-2、IGM-1082BT-2、IGM-14104BT-2
+- **风险/边界**：台湾品牌商：已有自有 ODM 体系，Saga 只能做二供/补缺型号；群发 19 次无回复；2.5G / 10G 多千兆线 Saga 无标准型
+- **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——自有品牌工业 PoE（IGM-1082BT-2 = 8 PoE++ + 2 SFP）→ 工业 L2+ 8 PoE + 2×2.5G SFP STI-288DGGPM（$151.6 @30%）/ -2BT 版（$171.0）；多千兆位 Saga 无 2.5G 全端口标准型
+- **邮件切入句（英文）**：John, for the IGM-series industrial PoE switches, we can supply Marvell-based DIN-rail L2+ 8-PoE++ + 2 SFP units (BT 90 W option, −40~75 °C) built to your spec from small lots — would a second-source quotation on the 8-port BT model be useful?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -141,6 +153,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| John Lai | — | john.lai@airlive.com | 调研核实（公开页） | 用户表 |
 | John | — | john.lai@airlive.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 19 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -157,7 +170,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 深挖对位：工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STI-288DGGPM | 深挖对位：自有品牌工业 PoE（IGM-1082BT-2 = 8 PoE++ + 2 SFP）→ 工业 L2+ 8 PoE + 2×2.5G SFP STI-288DGGPM（$151.6 @30%）/ -2BT 版（$171.0）；多千兆位 Saga 无 2.5G 全端口标准型 | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（台湾品牌商（按「台湾厂商口径」只谈 OEM/ODM）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -210,9 +223,9 @@ updated: 2026-10-21
 ```text
 Hi John,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. John, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. John, for the IGM-series industrial PoE switches, we can supply Marvell-based DIN-rail L2+ 8-PoE++ + 2 SFP units (BT 90 W option, −40~75 °C) built to your spec from small lots — would a second-source quotation on the 8-port BT model be useful?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your AirLive（自有） IGM-1484POE-2 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

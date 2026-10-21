@@ -2,7 +2,7 @@
 
 > **评级 B**　|　美国　|　档案编号 `SB-156`　|　优先级 ★★　|　状态：已推送 9 次·未回复
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 9 次（2025-03-19 → 2025-10-25）　|　**所在清单**：A优质名单(US)、AI评估(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：品牌商（离网供电 + PoE，自有 TP- 系列，OEM 采购）（推断）　|　**历史关系**：推送 9 次（2025-03-19 → 2025-10-25）　|　**所在清单**：A优质名单(US)、AI评估(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-156
@@ -12,14 +12,14 @@ score: 50
 country: 美国
 region: 北美
 website: tyconsystems.com
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 品牌商（离网供电 + PoE，自有 TP- 系列，OEM 采购）
 tier_tags: ["A优质名单(US)", "AI评估(US)"]
 deal: no
 replies: 0
 followups: 9
 first_contact: 2025-03-19
 last_contact: 2025-10-25
-p1: STI-288DGGPM
+p1: STI-054GP
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：美国品牌商/贴牌需求（OEM/ODM）：官网「Remote Solar Power, Mobile Surveillance Trailers & PoE Systems | Tycon Systems」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆；站内型号：TPDIN-SC48-20、TP-SW5G-D、TP-DCDC-1224、TP-DCDC-1248；表内「工业FS 一些PoE配件 自己的logo」；群发 9 次、无回复。（调研 2026-10-21；表内兴趣：工业FS 一些PoE配件 自己的logo）
+- **是谁**：美国犹他 Tycon Systems（离网太阳能供电 / 移动监控拖车 / PoE 设备制造商；自有 TP- 系列 PoE 产品：TP-SW5G-D DIN 5 口千兆 PoE、TP-DCDC 系列、TPDIN-SC48-20 太阳能控制器；官网有「Managed PoE Switches / Un-managed PoE Switches」品类；表内「工业 FS、PoE 配件、自己的 logo」；KP Daimyn Duong / Scott Parsons / Andy Pierre（Head of BD））；群发 9 次无回复。（调研 2026-10-21；表内兴趣：工业FS 一些PoE配件 自己的logo）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 9 次无任何回复（聋名单）
 - **历史互动**：推送 9 次（2025-03-19 → 2025-10-25）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-054GP — 深挖对位：自有 TP-SW5G-D（DIN 5 口千兆 4 PoE）→ Saga STI-054GP（工业 4 PoE + 1 GE，$33.8 @30%）贴 Tycon 标；带 SFP 位 STI-154GP（$40.8）；管理型 STI-288GPM；$33.8 USD EXW（30% 档，SmartByte LT-IS3005GP-5GT 174 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | tyconsystems.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | tyconsystems.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 品牌商（离网供电 + PoE，自有 TP- 系列，OEM 采购） | 推断（据兴趣/备注关键词） |
 | 联系人 | Daimyn Duong / Scott Parsons / Andy Pierre / Head of BD | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 工业FS 一些PoE配件 自己的logo | 事实（用户表） |
@@ -65,31 +65,47 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（tyconsystems.com，快照 2026-10-21）
-- **是谁**：美国品牌商/贴牌需求（OEM/ODM）：官网「Remote Solar Power, Mobile Surveillance Trailers & PoE Systems | Tycon Systems」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆；站内型号：TPDIN-SC48-20、TP-SW5G-D、TP-DCDC-1224、TP-DCDC-1248；表内「工业FS 一些PoE配件 自己的logo」；群发 9 次、无回复。
-- **类型**：品牌商/贴牌需求（OEM/ODM）
+- **是谁**：美国犹他 Tycon Systems（离网太阳能供电 / 移动监控拖车 / PoE 设备制造商；自有 TP- 系列 PoE 产品：TP-SW5G-D DIN 5 口千兆 PoE、TP-DCDC 系列、TPDIN-SC48-20 太阳能控制器；官网有「Managed PoE Switches / Un-managed PoE Switches」品类；表内「工业 FS、PoE 配件、自己的 logo」；KP Daimyn Duong / Scott Parsons / Andy Pierre（Head of BD））；群发 9 次无回复。
+- **类型**：品牌商（离网供电 + PoE，自有 TP- 系列，OEM 采购）
 - **【官网快照】官网标题：Remote Solar Power, Mobile Surveillance Trailers & PoE Systems | Tycon Systems；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE**
   > Tycon Systems designs & builds mobile solar security trailers, PoE equipment, and remote power systems for surveillance, communications, and off-grid applications.
   > 来源：https://www.tyconsystems.com/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 工业FS 一些PoE配件 自己的logo
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】设计制造移动太阳能监控拖车、PoE 设备与远程供电系统**
+  > Tycon Systems designs & builds mobile solar security trailers, PoE equipment, and remote power systems for surveillance, communications, and off-grid applications.
+  > 来源：https://www.tyconsystems.com/（抓取 2026-10-21）
+- **【用户表】工业 FS + PoE 配件 + 自有 logo**
+  > 工业FS 一些PoE配件 自己的logo
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Andy Pierre（） 〔用户表〕
+- **KP**：Daimyn Duong（）daimyn@tyconsystems.com 〔用户表〕
+- **KP**：Scott Parsons（）scottp@tyconsystems.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 美国 |
 | 其他 | 官网 tyconsystems.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：安防监控（CCTV / 门禁）；工业自动化 / OT 网络；无线 / WiFi；布线 / 线缆；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 品牌商/贴牌需求（OEM/ODM）；region: 美国；contact: daimyn@tyconsystems.com、scottp@tyconsystems.com
+- **业务线**：离网太阳能供电与 UPS 系统；移动太阳能监控拖车；PoE 交换机 / 注入器 / 延长器（自有 TP- 系列）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Tycon（自有） | TP-SW5G-D | DIN 5 口千兆 PoE 交换机（太阳能/直流供电场景） | STI-054GP | https://www.tyconsystems.com/（2026-10-21） |
+| Tycon（自有） | TP-DCDC-1248 | DC-DC PoE 注入 12→48V | （Q-32：Saga 无注入器 SKU） | https://www.tyconsystems.com/（2026-10-21） |
+
+- **触达通道（公开）**：role: 品牌商（离网供电 + PoE，自有 TP- 系列，OEM 采购）；region: 美国；contact: daimyn@tyconsystems.com、scottp@tyconsystems.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.tyconsystems.com/）
-  - 官网公开邮箱：sales@tyconsystems.com
-  - 用户表兴趣/备注：工业FS 一些PoE配件 自己的logo
-- **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Daimyn, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+  - 官网品类：/categories/poe-switches/、/managed-poe-switches/、/un-managed-poe-switches/、PoE extender
+  - 站内型号 TP-SW5G-D、TP-DCDC-1224/1248、TPDIN-SC48-20
+  - KP：Daimyn Duong、Scott Parsons、Andy Pierre（Head of BD，表内）
+- **风险/边界**：自有产品已有稳定代工来源：需以 12–58 VDC 宽压 + 小批量灵活性切入；群发 9 次无回复：改向 Head of BD 具名首触
+- **Saga 对位结论**：P1 STI-054GP（30% 档）——自有 TP-SW5G-D（DIN 5 口千兆 4 PoE）→ Saga STI-054GP（工业 4 PoE + 1 GE，$33.8 @30%）贴 Tycon 标；带 SFP 位 STI-154GP（$40.8）；管理型 STI-288GPM
+- **邮件切入句（英文）**：Andy, for the TP-SW5G-D class DIN-rail PoE switches in your off-grid kits, we build Marvell-based 5-port (4 PoE+) industrial units with 12–58 VDC input under your label from small lots (CE/RoHS/FCC) — do you want the SFP-uplink or the all-copper version first?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -144,8 +160,9 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Daimyn Duong | — | daimyn@tyconsystems.com / scottp@tyconsystems.com | 用户表原值 | Clients/ 表 |
-| Andy Pierre | — | daimyn@tyconsystems.com / scottp@tyconsystems.com | 用户表原值 | Clients/ 表 |
+| Andy Pierre | — | — | 调研核实（公开页） | 用户表 |
+| Daimyn Duong | — | daimyn@tyconsystems.com | 调研核实（公开页） | 用户表 |
+| Scott Parsons | — | scottp@tyconsystems.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 9 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -162,17 +179,18 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 深挖对位：工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STI-054GP | 深挖对位：自有 TP-SW5G-D（DIN 5 口千兆 4 PoE）→ Saga STI-054GP（工业 4 PoE + 1 GE，$33.8 @30%）贴 Tycon 标；带 SFP 位 STI-154GP（$40.8）；管理型 STI-288GPM | $33.8 USD EXW（30% 档，SmartByte LT-IS3005GP-5GT 174 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商（离网供电 + PoE，自有 TP- 系列，OEM 采购）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-054GP），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-054GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -182,7 +200,7 @@ updated: 2026-10-21
 
 - **S**：自有品牌/贴牌需求 = 现成 OEM 客户；北美主攻区，复购与口碑可外溢
 - **W**：已推送 9 次无回复，邮件通道疲劳
-- **O**：P1 STI-288DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
+- **O**：P1 STI-054GP 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -210,25 +228,21 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
-Hi Daimyn,
+Hi Andy,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Daimyn, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+Picking up our earlier exchange about PoE / industrial switches. Andy, for the TP-SW5G-D class DIN-rail PoE switches in your off-grid kits, we build Marvell-based 5-port (4 PoE+) industrial units with 12–58 VDC input under your label from small lots (CE/RoHS/FCC) — do you want the SFP-uplink or the all-copper version first?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（silarius.com，快照 2026-10-21）",
- "summary": "美国品牌商/贴牌需求（OEM/ODM）：官网「Security Cameras, Surveillance, IT and Access Control Superstore – Silarius」（en）；品类词：安防监控（CCTV / 门禁） / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 布线 / 线缆；站内品牌：Fortinet、Cisco、Extreme；站内型号：QSFP28、SC900、AX9000G、FS-224E；表内「工业FS 自己的logo 摄像头 其他一些周边产品」；群发 13 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "美国安防 / IT / AV 超级商店 Silarius（官网：110,000+ 产品、500+ 品牌；「Our own NDAA-compliant cameras, NVRs and switches」= 自有品牌含交换机；表内「工业 FS 自己的 logo，摄像头及周边」）；群发 13 次无回复。",
+ "type": "电商超市 + 自有品牌（OEM 采购）",
  "size": "",
  "brands_seen": [
   "Fortinet",
@@ -25,6 +25,20 @@
    "quote": "工业FS 自己的logo 摄像头 其他一些周边产品",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "自有品牌 NDAA 合规摄像机/NVR/交换机",
+   "quote": "Security, IT and AV for business. 110,000+ products from 500+ brands. ; Our own NDAA-compliant cameras, NVRs and switches",
+   "url": "https://silarius.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 自有 logo",
+   "quote": "工业FS 自己的logo 摄像头 其他一些周边产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -33,38 +47,34 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 silarius.com，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "电信 / FTTH / ISP 设备",
-  "无线 / WiFi",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "安防 / IT / AV 电商（B2B）",
+  "自有品牌（摄像机 / NVR / 交换机，NDAA 合规）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "电商超市 + 自有品牌（OEM 采购）",
   "region": "美国",
   "contact": "info@silarius.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://silarius.com/）",
-  "官网公开邮箱：info@silarius.com",
-  "用户表兴趣/备注：工业FS 自己的logo 摄像头 其他一些周边产品"
+  "官网：Our own NDAA-compliant cameras, NVRs and switches",
+  "站内 kw：switch 221 / sfp 101 / camera 399；品牌 Fortinet / Cisco / Extreme 等企业级"
  ],
  "risks": [
-  "群发 13 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "企业级品牌为主（Fortinet/Cisco/Extreme）：Saga 白牌只作价格补充线"
+  "NDAA 合规要求：需提供非 Huawei/ZTE/Hikvision/Dahua 元器件声明（Marvell 方案可满足，但要书面）",
+  "群发 13 次无回复：换角度（自有品牌 + NDAA 声明）首触",
+  "大型电商（110k SKU）：采购流程化，首触需找品类买手"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STC-424DGGPM-280W",
   "tier": 30,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "自有品牌含 NDAA 合规交换机 → 24 口 PoE L2+ STC-424DGGPM-280W（$145.7 @30%）贴 Silarius 标；工业位 STI-288GP；需随附元器件来源声明（NDAA 889 不含 Marvell 方案，但需书面确认）"
  },
- "email_hook": "Alongside the Fortinet / Cisco lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "For your own-label NDAA-compliant switch range, we build Marvell-based 24-port PoE+ L2+ and 8-port models under your brand from small lots with a component-origin statement for your compliance file — which model do you want to see first, the 24-PoE or the 8-PoE?"
 }

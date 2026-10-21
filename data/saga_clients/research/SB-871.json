@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（tronteq.com，快照 2026-10-21）",
- "summary": "德国系统集成/工程商：官网「TRONTEQ • Ethernet Switches for Public Transport」（en）；品类词：安防监控（CCTV / 门禁） / 网络交换 / PoE；站内品牌：Ubiquiti；表内「轨道交通switch比较多 看着比较专业」；群发 8 次、无回复。",
- "type": "系统集成/工程商",
+ "summary": "德国 TRONTEQ（公共交通车载以太网交换机制造商：ROQSTAR M12 非管理/管理/千兆/PoE 交换机「Made in Germany」，面向公交车与有轨电车数字化；表内「轨道交通 switch 比较多，看着比较专业」）；群发 8 次无回复。",
+ "type": "同行厂商（车载 M12 交换机，自产）",
  "size": "",
  "brands_seen": [
   "Ubiquiti"
@@ -23,40 +23,54 @@
    "quote": "轨道交通switch比较多 看着比较专业",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "德国制造的以太网交换机，公交与有轨电车车载网络",
+   "quote": "TRONTEQ is your specialist for Ethernet Switches Made in Germany and onboard networks for the digitalization of buses and trams.",
+   "url": "https://www.tronteq.com/en",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "轨道交通交换机为主",
+   "quote": "轨道交通switch比较多 看着比较专业",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "同行厂商（自产 ROQSTAR M12 车载交换机，Made in Germany）+ 轨道/车载 EN50155 品类不符；c_sub=品类不符（轨道/车载）",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 tronteq.com，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "网络交换 / PoE"
+  "公共交通车载以太网交换机（M12）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "同行厂商（车载 M12 交换机，自产）",
   "region": "德国",
   "contact": "info@tronteq.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.tronteq.com/en）",
-  "在售同口型交换品牌：Ubiquiti → 直接对位替换",
-  "官网公开邮箱：info@tronteq.com",
-  "用户表兴趣/备注：轨道交通switch比较多 看着比较专业"
+  "官网：Ethernet Switches Made in Germany, onboard networks for buses and trams",
+  "产品线 ROQSTAR Unmanaged / Managed / Gigabit / PoE M12"
  ],
- "risks": [],
+ "risks": [
+  "同行厂商：ROQSTAR 系列自产，Made in Germany 定位与中国白牌不兼容",
+  "品类：公交/有轨电车车载网络（EN50155）= Saga 不做"
+ ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
+  "p1": null,
   "tier": 25,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：系统集成/工程商→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "自产 M12 车载交换机（EN50155 场景）且标榜德国制造 → 非 OEM 买家；品类为 Saga 不做的轨道/车载 → 改 C"
  },
- "email_hook": "Alongside the Ubiquiti lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "（不发送：同行厂商 + 轨道/车载品类不符）"
 }

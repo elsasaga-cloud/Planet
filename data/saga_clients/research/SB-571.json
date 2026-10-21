@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（zoomlinenetwork.com，快照 2026-10-21）",
- "summary": "沙特阿拉伯分销商/批发商：官网「Networking Products and Security Solutions Distributors in UAE」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT；站内品牌：TP-Link、Ubiquiti、MikroTik、Cisco、D-Link、Aruba；产品页：industrial-switches-distributor-ksa、industrial-switches-and-ip-pbx-a-powerfu、switches、kvm-switch-ksa；表内「工业FS 商业FS 周边产品 无源产品也比较多；很多牌子的 有Nnet的；工业FS 商业FS 周边产品 无源产品也比较多 N-net的工业FS」；群发 8 次、无回复。",
- "type": "分销商/批发商",
+ "summary": "沙特/阿联酋 IT 网络与安防分销商 Zoom Line Networks Technology（官网自述「中东与非洲最大的 IT / 网络 / 安防方案分销商之一」；品牌页 TP-Link / Ubiquiti / MikroTik / Cisco / D-Link / Aruba / Fortinet / Schneider；专页「Industrial Switches Distributor KSA」；表内：工业 FS / 商业 FS / 无源产品多，有 N-net 的工业 FS；KP Mohammad Faisal（Business Development Manager，faisal@）；群发 8 次无回复。",
+ "type": "分销商（IT 网络 + 安防 + 光纤，KSA/UAE）",
  "size": "",
  "brands_seen": [
   "TP-Link",
@@ -30,49 +30,73 @@
    "quote": "工业FS 商业FS 周边产品 无源产品也比较多；很多牌子的 有Nnet的；工业FS 商业FS 周边产品 无源产品也比较多 N-net的工业FS",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "自述中东与非洲最大 IT/网络/安防方案分销商之一",
+   "quote": "Zoom line Networks Technology is one of the largest IT, Networking & Security solutions distributors of renowned brands in the Middle East and Africa",
+   "url": "https://zoomlinenetwork.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "工业交换机分销专页",
+   "quote": "/industrial-switches-distributor-ksa/",
+   "url": "https://zoomlinenetwork.com/industrial-switches-distributor-ksa/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "在卖 N-net 工业 FS、无源产品多",
+   "quote": "工业FS 商业FS 周边产品 无源产品也比较多 / 很多牌子的 有Nnet的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Mohammad Faisal",
+   "title": "Business Development Manager",
+   "email": "faisal@zoomlinenetwork.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "沙特阿拉伯",
   "other": "官网 zoomlinenetwork.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "电信 / FTTH / ISP 设备",
-  "数据中心 / 企业 IT",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "IT / 网络 / 安防分销（KSA、UAE）",
+  "光纤与无源产品（熔接机、线缆）",
+  "工业交换机分销（专页）"
  ],
  "channels": {
-  "role": "分销商/批发商",
+  "role": "分销商（IT 网络 + 安防 + 光纤，KSA/UAE）",
   "region": "沙特阿拉伯",
   "contact": "sales@zoomlinenetwork.com、faisal@zoomlinenetwork.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://zoomlinenetwork.com/）",
-  "在售同口型交换品牌：TP-Link、Ubiquiti、MikroTik、D-Link → 直接对位替换",
-  "在售工业网络品牌：Schneider → 工业线对位",
-  "官网公开邮箱：sales@zoomlinenetwork.com",
-  "用户表兴趣/备注：工业FS 商业FS 周边产品 无源产品也比较多；很多牌子的 有Nnet的；工业FS 商业FS 周边产品 无源产品也比较多 N-net的工业FS"
+  "官网专页 /industrial-switches-distributor-ksa/、/switches/、/kvm-switch-ksa/",
+  "首页在售 Fujikura 熔接机、Ramcro 线缆 → 光纤施工渠道",
+  "KP：Mohammad Faisal / Business Development Manager（faisal@zoomlinenetwork.com，表内）"
  ],
  "risks": [
-  "企业级品牌为主（Cisco/Aruba/Fortinet）：Saga 白牌只作价格补充线",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "自述「中东最大分销商之一」：以大牌代理为主，Saga 白牌只作价格补充线",
+  "非主攻区（T5）；沙特项目多为招标，付款周期长",
+  "表内 8 次群发无回复：换角度（工业专页）首触"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-288GP",
   "tier": 20,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：分销商/批发商→20%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "专页在推「工业交换机分销 KSA」且表内在卖 N-net 工业 FS → 非管理工业 8 PoE + 2 SFP STI-288GP（$57.4 @20%）对位 N-net；商用位 STC-424DGGPM-280W"
  },
- "email_hook": "Mohammad, alongside the TP-Link / Ubiquiti lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?"
+ "email_hook": "Mohammad, for the industrial-switch line you promote in KSA alongside N-net, we supply Marvell-based DIN-rail 8-port PoE+ switches with 2 SFP (−40~75 °C) and the managed version, neutral packing from small lots — is unmanaged or managed the bigger volume for your KSA projects?"
 }

@@ -1,25 +1,26 @@
 # grandstream.com
 
-> **评级 B**　|　美国　|　档案编号 `SB-535`　|　优先级 ★★　|　状态：已推送 19 次·未回复
+> **评级 C**　|　美国　|　档案编号 `SB-535`　|　优先级 —　|　状态：已推送 19 次·未回复
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 19 次（2024-05-02 → 2025-10-31）　|　**所在清单**：A优质名单(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：品牌厂商（自有 GWN 交换机线，ODM 体系成熟）（推断）　|　**历史关系**：推送 19 次（2024-05-02 → 2025-10-31）　|　**所在清单**：A优质名单(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-535
-rating: B
+rating: C
 rating_auto: B
+rating_research: C  # 品牌厂商：Grandstream 自有 GWN 交换机线且 ODM 体系成熟，无具名采购通道（仅 marketing@），19 次无回复；c_sub=体量过大/
 score: 38
 country: 美国
 region: 北美
 website: grandstream.com
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 品牌厂商（自有 GWN 交换机线，ODM 体系成熟）
 tier_tags: ["A优质名单(US)"]
 deal: no
 replies: 0
 followups: 19
 first_contact: 2024-05-02
 last_contact: 2025-10-31
-p1: STC-28DGGPM
+p1: none
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -29,13 +30,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：美国品牌商/贴牌需求（OEM/ODM）：官网「Grandstream Networks - Networking & Unified Communications」（en）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换；站内品牌：Grandstream、Ubiquiti；站内型号：GWN7700M、GWN7816、GWN7711、GWN7710R；表内「商业PoE 自己的logo 周边产品 有人在卖他们的」；群发 19 次、无回复。（调研 2026-10-21；表内兴趣：商业PoE 自己的logo 周边产品 有人在卖他们的）
-- **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 19 次无任何回复（聋名单）
+- **是谁**：美国 Grandstream Networks（UC 与网络品牌厂商，2002 年起；自有 GWN78xx 交换机系列（GWN7806/7816、GWN7700M、GWN7721）已有 ODM 体系；表内「商业 PoE 自己的 logo，有人在卖他们的」；表内仅 marketing@ 邮箱）；群发 19 次无回复。（调研 2026-10-21；表内兴趣：商业PoE 自己的logo 周边产品 有人在卖他们的）
+- **为什么是 C 级**：**调研后定级 C**（品牌厂商：Grandstream 自有 GWN 交换机线且 ODM 体系成熟，无具名采购通道（仅 marketing@），19 次无回复；c_sub=体量过大/品牌厂商）；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 19 次无任何回复（聋名单）；C 级细分：体量过大/品牌厂商
 - **历史互动**：推送 19 次（2024-05-02 → 2025-10-31）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（深挖对位：Grandstream 为全球 UC/网络品牌，GWN 交换机已有大型 ODM 供应；Saga 体量不匹配、无具名采购 KP、仅 marketing@ → 改 C（品牌厂商/体量））
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不跟进；仅归档防重复开发
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | grandstream.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | grandstream.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 品牌厂商（自有 GWN 交换机线，ODM 体系成熟） | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 商业PoE 自己的logo 周边产品<br>有人在卖他们的 | 事实（用户表） |
@@ -55,8 +55,8 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（grandstream.com，快照 2026-10-21）
-- **是谁**：美国品牌商/贴牌需求（OEM/ODM）：官网「Grandstream Networks - Networking & Unified Communications」（en）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换；站内品牌：Grandstream、Ubiquiti；站内型号：GWN7700M、GWN7816、GWN7711、GWN7710R；表内「商业PoE 自己的logo 周边产品 有人在卖他们的」；群发 19 次、无回复。
-- **类型**：品牌商/贴牌需求（OEM/ODM）
+- **是谁**：美国 Grandstream Networks（UC 与网络品牌厂商，2002 年起；自有 GWN78xx 交换机系列（GWN7806/7816、GWN7700M、GWN7721）已有 ODM 体系；表内「商业 PoE 自己的 logo，有人在卖他们的」；表内仅 marketing@ 邮箱）；群发 19 次无回复。
+- **类型**：品牌厂商（自有 GWN 交换机线，ODM 体系成熟）
 - **在卖/在用品牌**：Grandstream, Ubiquiti
 - **【官网快照】官网标题：Grandstream Networks - Networking & Unified Communications；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE**
   > Grandstream has been connecting the world since 2002 with unified communications and networking solutions.
@@ -64,24 +64,30 @@ updated: 2026-10-21
 - **【用户表】表内兴趣/备注**
   > 商业PoE 自己的logo 周边产品 有人在卖他们的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】2002 年起 UC 与网络方案品牌**
+  > Grandstream has been connecting the world since 2002 with unified communications and networking solutions.
+  > 来源：https://www.grandstream.com（抓取 2026-10-21）
+- **【用户表】商业 PoE 自有 logo，有人在卖**
+  > 商业PoE 自己的logo 周边产品 有人在卖他们的
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **调研后定级**：C（原自动 B）——品牌厂商：Grandstream 自有 GWN 交换机线且 ODM 体系成熟，无具名采购通道（仅 marketing@），19 次无回复；c_sub=体量过大/品牌厂商
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 美国 |
 | 其他 | 官网 grandstream.com，语言 en，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：安防监控（CCTV / 门禁）；无线 / WiFi；布线 / 线缆；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 品牌商/贴牌需求（OEM/ODM）；region: 美国；contact: marketing@grandstream.com
+- **业务线**：统一通信（IP 话机 / PBX）；网络（Wi-Fi 7 AP、GWN 交换机、路由）
+- **触达通道（公开）**：role: 品牌厂商（自有 GWN 交换机线，ODM 体系成熟）；region: 美国；contact: marketing@grandstream.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.grandstream.com）
-  - 在售同口型交换品牌：Grandstream、Ubiquiti → 直接对位替换
-  - 用户表兴趣/备注：商业PoE 自己的logo 周边产品 有人在卖他们的
-- **风险/边界**：群发 19 次无回复：换角度首触（不再发产品图，只问一个问题）
-- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Alongside the Grandstream / Ubiquiti lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+  - 官网产品：GWN7806/7816 L2+ 汇聚、GWN7700M、GWN7721 系列
+  - 站内语言分站 ru / pt-br / fr → 全球渠道
+- **风险/边界**：品牌厂商（全球 UC/网络），GWN 交换机 ODM 体系成熟：Saga 体量不匹配；仅 marketing@ 邮箱，19 次群发无回复
+- **Saga 对位结论**：P1 待核型（无标准对应）（30% 档）——Grandstream 为全球 UC/网络品牌，GWN 交换机已有大型 ODM 供应；Saga 体量不匹配、无具名采购 KP、仅 marketing@ → 改 C（品牌厂商/体量）
+- **邮件切入句（英文）**：（不发送：品牌厂商，自有 ODM 体系）
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -151,32 +157,10 @@ updated: 2026-10-21
 |---|---|---|---|---|---|---|---|---|---|
 | A/DONE/US.xlsx#总表:226 | 225 | http://www.grandstream.com/products/networking-solutions/network-switches/product/gwn7800series | 美国 |  | 谷歌 | 商业PoE 自己的logo 周边产品<br>有人在卖他们的 | marketing@grandstream.com |  | 19 条 |
 
-## 产品决策（Saga · 单一决策口径）
-
-| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
-|---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
-| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-
-- **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
-
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
-
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
-- **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
-- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
-- **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
-
-## SWOT
-
-- **S**：自有品牌/贴牌需求 = 现成 OEM 客户；北美主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达；已推送 19 次无回复，邮件通道疲劳
-- **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
-- **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
+> C 级不主动跟进。保留档案的意义：① 不重复开发；② 若对方主动来询再升级。
+> 不跟进理由：体量过大/品牌厂商。若用户不同意，在 `data/saga_clients/人工定级.csv` 写一行 `SB-535,B,理由` 后重跑即可。
 
 ## 触达与风险红线
 
@@ -195,7 +179,7 @@ updated: 2026-10-21
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
-| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
+| 商业资格结论 | **不合格（见 C 级细分）→ 不主动跟进** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -204,25 +188,7 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
-
-```text
-Hello,
-
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the Grandstream / Ubiquiti lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
-
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
-```
-
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> C 级不出邮件样板（不主动跟进）。
 
 ## 新跟进记录（仓库外发出后补）
 
@@ -234,11 +200,11 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- 不复核。对方主动来询 → 在 `data/saga_clients/人工定级.csv` 写一行升级后重跑。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 38）；人工/调研定级 → C
 
 ---
 

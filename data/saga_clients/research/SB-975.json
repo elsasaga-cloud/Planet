@@ -3,11 +3,13 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（erete.com.tr，快照 2026-10-21）",
- "summary": "土耳其安防集成/经销：官网「Erete Bilgi Sistemleri」（tr）；品类词：安防监控（CCTV / 门禁） / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换；站内品牌：EtherWAN；站内型号：RS485、EX87000、EX77000、EX75000；表内「XP Etherwan的工业FS Etherwan的MC voscom的VC；ozen.taylanli@erete.com.tr」；群发 2 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "土耳其 Erete Bilgi Sistemleri（产品组：工业交换机 / 骨干与边缘交换机 / Open Networking / 安防与 CCTV 模拟 / 结构化布线光铜 / 机柜 / NOS；在售 EtherWAN EX75000–EX87000 工业系列；表内「EtherWAN 的工业 FS 与 MC，Voscom 的 VC，XP 用 ONV 的」；KP Murat Soyak（murat.soyak@）、Ozen Taylanli（ozen.taylanli@））；群发 2 次无回复。",
+ "type": "网络 / 安防集成与经销（EtherWAN 渠道，土耳其）",
  "size": "",
  "brands_seen": [
-  "EtherWAN"
+  "EtherWAN",
+  "Voscom",
+  "ONV"
  ],
  "evidence": [
   {
@@ -23,42 +25,81 @@
    "quote": "XP Etherwan的工业FS Etherwan的MC voscom的VC；ozen.taylanli@erete.com.tr",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "产品组：工业交换机 / 骨干边缘交换机 / Open Networking / 安防 CCTV / 结构化布线 / 机柜 / NOS",
+   "quote": "ENDÜSTRİYEL SWITCHLER OMURGA ve KENAR SWITCHLER OPEN NETWORKING GÜVENLİK VE CCTV ANALOG ÜRÜNLERİ YAPISAL KABLOLAMA FİBER/BAKIR KABİNET VE AKSESUARLARI NOS",
+   "url": "https://www.erete.com.tr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "EtherWAN 工业 FS / MC，Voscom VC，ONV",
+   "quote": "XP Etherwan的工业FS Etherwan的MC voscom的VC；XP是用ONV的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Murat Soyak",
+   "title": "（表内联系人）",
+   "email": "murat.soyak@erete.com.tr",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Ozen Taylanli",
+   "title": "（表内联系人）",
+   "email": "ozen.taylanli@erete.com.tr",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 erete.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "数据中心 / 企业 IT",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "工业交换机 / 骨干与边缘交换机 / Open Networking",
+  "安防 CCTV / 结构化布线 / 机柜"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "网络 / 安防集成与经销（EtherWAN 渠道，土耳其）",
   "region": "土耳其",
   "contact": "murat.soyak@erete.com.tr、erete@erete.com.tr"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.erete.com.tr/）",
-  "在售工业网络品牌：EtherWAN → 工业线对位",
-  "用户表兴趣/备注：XP Etherwan的工业FS Etherwan的MC voscom的VC；ozen.taylanli@erete.com.tr"
+  "站内型号 EX87000 / EX77000 / EX75000 / EX76000（EtherWAN）",
+  "产品组含 Open Networking / NOS → 有白盒交换机认知",
+  "KP：Murat Soyak、Ozen Taylanli（表内邮箱）"
  ],
- "risks": [],
+ "risks": [
+  "EtherWAN 正规渠道：白牌作第二货源，需以交期/价格切入",
+  "土耳其：汇率与进口税敏感，报 EXW 美元"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-288GPM",
   "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：安防集成/经销→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "在售 EtherWAN EX7xxxx 工业管理型 → 对位工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）；工业 MC 位 STI-110GE / STI-111GP；Open Networking 位 24 GE + 4×10G STC-424XGGM"
  },
- "email_hook": "Murat, alongside the EtherWAN lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Murat, for the industrial Ethernet positions you now fill with EtherWAN EX7000-series, we supply Marvell-based DIN-rail managed 8-PoE + 2 SFP switches and gigabit industrial media converters (−40~75 °C, neutral packing) from small lots — which do you quote more often, the managed PoE switch or the media converter?",
+ "products_seen": [
+  {
+   "brand": "EtherWAN",
+   "model": "EX75000 / EX77000 / EX87000",
+   "spec": "工业管理型交换机系列",
+   "saga": "STI-288GPM",
+   "url": "https://www.erete.com.tr/",
+   "date": "2026-10-21"
+  }
+ ]
 }

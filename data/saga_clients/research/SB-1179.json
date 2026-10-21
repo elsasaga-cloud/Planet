@@ -3,12 +3,14 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（dowtechnologies.com，快照 2026-10-21）",
- "summary": "美国安防集成/经销：官网「DOW Technologies. Technology Distribution & Logistics」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆；站内品牌：Ubiquiti、Intellinet；站内型号：EZ-RJ45、AC-MXNET-10G-SW12C、POE-24-24W、USW-PRO-MAX-48；表内「主要是CCTV 少量商业POE」；表内未见跟进记录。",
- "type": "安防集成/经销",
+ "summary": "美国坦帕分销商 DOW Technologies（Technology Distribution & Logistics：AV / 车载 / 安防 / 网络分销，面向集成商，提供培训与营销支持；站内 Ubiquiti USW-Pro-Max-48、Luxul 8 口 PoE 管理、Intellinet 8 口 PoE、AVPro MXNet 10G 交换机；表内「主要是 CCTV，少量商业 PoE」）；表内无跟进记录。",
+ "type": "分销商（AV / 安防 / 网络，面向集成商）",
  "size": "",
  "brands_seen": [
   "Ubiquiti",
-  "Intellinet"
+  "Intellinet",
+  "Luxul",
+  "AVPro Edge"
  ],
  "evidence": [
   {
@@ -24,6 +26,20 @@
    "quote": "主要是CCTV 少量商业POE",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "分销 + 物流，面向集成商",
+   "quote": "Fast, Reliable Distribution ; Wide Selection, Deep Inventory ; Award Winning Support ; Free Marketing Support ; Training Support",
+   "url": "https://www.dowtechnologies.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "主要 CCTV，少量商业 PoE",
+   "quote": "主要是CCTV 少量商业POE",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -32,36 +48,59 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 dowtechnologies.com，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "无线 / WiFi",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "AV / 车载电子 / 安防 / 网络分销",
+  "面向集成商的培训 / 营销支持"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "分销商（AV / 安防 / 网络，面向集成商）",
   "region": "美国",
   "contact": "info@dowtechnologies.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.dowtechnologies.com/）",
-  "在售同口型交换品牌：Ubiquiti、Intellinet → 直接对位替换",
-  "官网公开邮箱：info@dowtechnologies.com",
-  "用户表兴趣/备注：主要是CCTV 少量商业POE"
+  "产品页 /luxul-managed-switch-8-poe-1gb-2rj45、/ubiquiti-ultra-8-port-gbe-poe-switch-usw-ultra、/intellinet-8-port-gigabit-ethernet-poe-switch-5",
+  "kw：10g 72 / integrator 39 / oem 21"
  ],
- "risks": [],
+ "risks": [
+  "区域性分销商（有培训/营销体系）：引入新白牌需走品类评审",
+  "表内无跟进记录，仅 info@；无具名 KP"
+ ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→20%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "在售 Luxul 8 PoE 管理 / Intellinet 8 PoE / UniFi → 集成商走量位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；AV-over-IP 位 24 GE + 4×10G STC-424XGGM"
  },
- "email_hook": "Alongside the Ubiquiti / Intellinet lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For the integrator-facing PoE line next to Luxul and Intellinet, we supply a Marvell-based 8-port PoE+ L2+ switch (2 SFP) and a 24-port 4×10G model in neutral packing from small lots — which port count do your dealers pull most, 8 or 24?",
+ "products_seen": [
+  {
+   "brand": "Luxul",
+   "model": "8-PoE managed 1Gb 2 RJ45",
+   "spec": "8 口 PoE 管理 + 2 上联",
+   "saga": "STC-28DGGPM",
+   "url": "https://www.dowtechnologies.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Ubiquiti",
+   "model": "USW-Ultra",
+   "spec": "8 口 GbE PoE",
+   "saga": "STC-28DGGPM",
+   "url": "https://www.dowtechnologies.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "AVPro Edge",
+   "model": "AC-MXNET-10G-SW24C",
+   "spec": "MXNet 10G 24 口 AV-over-IP 交换机",
+   "saga": "（10G 全端口 Saga 无标准型）",
+   "url": "https://www.dowtechnologies.com/",
+   "date": "2026-10-21"
+  }
+ ]
 }

@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（maintechconnect.com，快照 2026-10-21）",
- "summary": "美国品牌商/贴牌需求（OEM/ODM）：官网「Main Tech Connect – Maintechconnect.com」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换；站内品牌：Intellinet；站内型号：SFP28、IPS-16GM02-518W、IPS-24GM02-518W；表内「看着像是深圳公司的外壳 自己的logo/型号 产品较少」；群发 23 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "美国网络配件网店 Main Tech Connect（Shopify 站：电脑/网络配件、AV、机柜、光缆、工业以太网、大量 PoE；在售 Intellinet 与自有型号 IPS-16GM02-518W / IPS-24GM02-518W（深圳式工业 PoE 管理型命名）；表内「看着像是深圳公司的外壳，自己的 logo/型号，产品较少」；站内邮箱 aschlieck@icintracom.com（IC Intracom = Intellinet 母公司）→ 疑为 IC Intracom 关联渠道）；群发 23 次无回复。",
+ "type": "网店 + 自有型号（OEM 采购，疑 IC Intracom 关联）",
  "size": "",
  "brands_seen": [
   "Intellinet"
@@ -23,6 +23,20 @@
    "quote": "看着像是深圳公司的外壳 自己的logo/型号 产品较少",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "一站式电脑/网络配件 + PoE 网店",
+   "quote": "Main Tech Connect is your one-stop-shop for computer and networking accessories … networking switches and a vast selection of PoE Power over Ethernet",
+   "url": "https://maintechconnect.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "自有 logo/型号，深圳式外壳",
+   "quote": "看着像是深圳公司的外壳 自己的logo/型号 产品较少",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -31,37 +45,62 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 maintechconnect.com，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "电脑 / 网络配件网店",
+  "工业以太网 / PoE 交换机（自有型号 IPS 系列）",
+  "机柜 / 光缆"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "网店 + 自有型号（OEM 采购，疑 IC Intracom 关联）",
   "region": "美国",
   "contact": "sales@maintechconnect.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://maintechconnect.com/）",
-  "在售同口型交换品牌：Intellinet → 直接对位替换",
-  "官网公开邮箱：aschlieck@icintracom.com、sales@maintechconnect.com、u003easchlieck@icintracom.com",
-  "用户表兴趣/备注：看着像是深圳公司的外壳 自己的logo/型号 产品较少"
+  "站内型号 IPS-16GM02-518W / IPS-24GM02-518W / SFP28",
+  "站内邮箱 aschlieck@icintracom.com、sales@maintechconnect.com",
+  "表内「自己的 logo/型号」→ OEM 30% 档"
  ],
  "risks": [
-  "群发 23 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "疑为 IC Intracom（Intellinet 母公司）关联网店：若由母公司统一采购，决策不在此站",
+  "群发 23 次无回复：换角度首触（自有型号对位）",
+  "自有型号产品少（表内）→ 量未知"
  ],
  "saga_fit": {
-  "p1": "STI-288GP",
+  "p1": "STI-21616GP",
   "tier": 30,
-  "why": "官网快照对位：工业/自动化词频 17、PoE 199 → DIN 8 PoE+ 2 SFP 起手（来源：官网快照；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$62.2 USD EXW（30% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "自有型号 IPS-16GM02-518W = 16 口千兆工业 PoE 管理型（518W）→ Saga 对位 STI-21616GP（工业 16 PoE + 2 SFP，$184.6 @30%，L2 管理为 STI-21616XGGPM 待核）；8 口位 STI-288GPM"
  },
- "email_hook": "Alongside the Intellinet lines you carry, we supply the Marvell-based DIN-rail 8-port gigabit PoE+ industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "For your IPS-series industrial PoE switches (16/24-port), we build Marvell-based DIN/rack industrial 16-PoE + 2 SFP units under your label from small lots, CE/RoHS/FCC, neutral packing — which of the two, the 16-port or the 24-port, do you reorder more often?",
+ "products_seen": [
+  {
+   "brand": "Main Tech Connect（自有）",
+   "model": "IPS-16GM02-518W",
+   "spec": "16 口千兆工业 PoE 管理型，518W",
+   "saga": "STI-21616GP（非管理）/ 管理型待核",
+   "url": "https://maintechconnect.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Main Tech Connect（自有）",
+   "model": "IPS-24GM02-518W",
+   "spec": "24 口千兆工业 PoE 管理型",
+   "saga": "（工业 24 口 Saga 无标准型，待核）",
+   "url": "https://maintechconnect.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Intellinet",
+   "model": "—",
+   "spec": "PoE 交换机（在售品牌）",
+   "saga": "STC-28DGGPM",
+   "url": "https://maintechconnect.com/",
+   "date": "2026-10-21"
+  }
+ ]
 }

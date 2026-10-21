@@ -2,7 +2,7 @@
 
 > **评级 B**　|　台湾　|　档案编号 `SB-1081`　|　优先级 ★★　|　状态：已推送 19 次·未回复
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 19 次（2024-04-29 → 2025-10-23）　|　**所在清单**：A台湾名单　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：台湾 PoE 配件制造商（交换机为补线，OEM 采购）（推断）　|　**历史关系**：推送 19 次（2024-04-29 → 2025-10-23）　|　**所在清单**：A台湾名单　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1081
@@ -12,14 +12,14 @@ score: 27
 country: 台湾
 region: 亚太
 website: mse.com.tw
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 台湾 PoE 配件制造商（交换机为补线，OEM 采购）
 tier_tags: ["A台湾名单"]
 deal: no
 replies: 0
 followups: 19
 first_contact: 2024-04-29
 last_contact: 2025-10-23
-p1: STI-288DGGPM
+p1: STC-28DGGPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：台湾品牌商/贴牌需求（OEM/ODM）：官网「PoE manufacturer, Power over Ethernet - MSTronic Co. Ltd.」（en）；品类词：工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：IEEE802、EN60945、EN50155、RJ-45；表内「主要是POE 商业 工业 配件 自己的logo 工业白色外壳」；群发 19 次、无回复。（调研 2026-10-21；表内兴趣：主要是POE 商业 工业 配件 自己的logo 工业白色外壳）
+- **是谁**：台湾 MSTronic Co., Ltd.（PoE 制造商：PoE 分离器 / 注入器 / 开关电源，「offering the most PoE solutions in the world」，OEM/ODM 词频 18/14；站内 EN50155 / EN60945 / UL497B；表内「主要是 PoE 商业 + 工业 + 配件，自己的 logo，工业白色外壳」；KP Arthur（arthur@））；群发 19 次无回复。（调研 2026-10-21；表内兴趣：主要是POE 商业 工业 配件 自己的logo 工业白色外壳）
 - **为什么是 B 级**：+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025；-16 推送 19 次无任何回复（聋名单）
 - **历史互动**：推送 19 次（2024-04-29 → 2025-10-23）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：主业 PoE 电源/分离器，交换机为补充线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MSTronic 标；工业位 STI-288GP；Saga 不做其主业（注入器/分离器，Q-32）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | mse.com.tw（取自域名，公司全名待核） | 推断 |
 | 国家 | 台湾 | 事实（用户表）|
 | 网站/域名 | mse.com.tw | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 台湾 PoE 配件制造商（交换机为补线，OEM 采购） | 推断（据兴趣/备注关键词） |
 | 联系人 | Arthur | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 主要是POE 商业 工业 配件<br>自己的logo 工业白色外壳 | 事实（用户表） |
@@ -55,32 +55,38 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（mse.com.tw，快照 2026-10-21）
-- **是谁**：台湾品牌商/贴牌需求（OEM/ODM）：官网「PoE manufacturer, Power over Ethernet - MSTronic Co. Ltd.」（en）；品类词：工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：IEEE802、EN60945、EN50155、RJ-45；表内「主要是POE 商业 工业 配件 自己的logo 工业白色外壳」；群发 19 次、无回复。
-- **类型**：品牌商/贴牌需求（OEM/ODM）
+- **是谁**：台湾 MSTronic Co., Ltd.（PoE 制造商：PoE 分离器 / 注入器 / 开关电源，「offering the most PoE solutions in the world」，OEM/ODM 词频 18/14；站内 EN50155 / EN60945 / UL497B；表内「主要是 PoE 商业 + 工业 + 配件，自己的 logo，工业白色外壳」；KP Arthur（arthur@））；群发 19 次无回复。
+- **类型**：台湾 PoE 配件制造商（交换机为补线，OEM 采购）
 - **【官网快照】官网标题：PoE manufacturer, Power over Ethernet - MSTronic Co. Ltd.；品类词 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE**
   > MSTronic Co. Ltd. has been specializing in producing Power over Ethernet (PoE) and Switching Power Supply for many years, offering the most PoE solutions in the world.
   > 来源：https://www.mse.com.tw/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 主要是POE 商业 工业 配件 自己的logo 工业白色外壳
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】多年专注 PoE 与开关电源制造**
+  > MSTronic Co. Ltd. has been specializing in producing Power over Ethernet (PoE) and Switching Power Supply for many years, offering the most PoE solutions in the world.
+  > 来源：https://www.mse.com.tw/（抓取 2026-10-21）
+- **【用户表】PoE 商业 + 工业 + 配件，自有 logo**
+  > 主要是POE 商业 工业 配件 自己的logo 工业白色外壳
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Arthur（）arthur@mse.com.tw 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 台湾 |
 | 其他 | 官网 mse.com.tw，语言 en，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：工业自动化 / OT 网络；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 品牌商/贴牌需求（OEM/ODM）；region: 台湾；contact: arthur@mse.com.tw
+- **业务线**：PoE 分离器 / 注入器 / 开关电源制造（OEM/ODM）；PoE 交换机（补线）
+- **触达通道（公开）**：role: 台湾 PoE 配件制造商（交换机为补线，OEM 采购）；region: 台湾；contact: arthur@mse.com.tw
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.mse.com.tw/）
-  - 官网公开邮箱：arthur@mse.com.tw、craig.paton@mstroniceurope.com
-  - 用户表兴趣/备注：主要是POE 商业 工业 配件 自己的logo 工业白色外壳
-- **风险/边界**：群发 19 次无回复：换角度首触（不再发产品图，只问一个问题）；非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Arthur, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+  - 官网：Ultra High Power PoE Splitter 80W、25W 12VDC 802.3at splitter
+  - 站内 kw：poe 556 / oem 18 / odm 14；认证词 EN50155 / EN60945 / UL497B
+- **风险/边界**：主业为 PoE 电源/分离器（Saga 不做，Q-32 配件缺口）：交换机只是补线，量小；台湾厂商：OEM 口径，19 次无回复；非主攻区（T5）
+- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——主业 PoE 电源/分离器，交换机为补充线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MSTronic 标；工业位 STI-288GP；Saga 不做其主业（注入器/分离器，Q-32）
+- **邮件切入句（英文）**：Arthur, to round out your PoE power range, we can supply Marvell-based 8-port PoE+ L2+ switches and DIN-rail 8-PoE industrial switches under your label from small lots — would a switch line next to your splitters and injectors make sense, and which port count first?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -139,7 +145,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Arthur | — | arthur@mse.com.tw | 用户表原值 | Clients/ 表 |
+| Arthur | — | arthur@mse.com.tw | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 19 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -155,17 +161,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 深挖对位：工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：主业 PoE 电源/分离器，交换机为补充线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MSTronic 标；工业位 STI-288GP；Saga 不做其主业（注入器/分离器，Q-32） | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（台湾 PoE 配件制造商（交换机为补线，OEM 采购）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -175,7 +181,7 @@ updated: 2026-10-21
 
 - **S**：自有品牌/贴牌需求 = 现成 OEM 客户
 - **W**：已推送 19 次无回复，邮件通道疲劳
-- **O**：P1 STI-288DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
+- **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -203,14 +209,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Arthur,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Arthur, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Arthur, to round out your PoE power range, we can supply Marvell-based 8-port PoE+ L2+ switches and DIN-rail 8-PoE industrial switches under your label from small lots — would a switch line next to your splitters and injectors make sense, and which port count first?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

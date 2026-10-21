@@ -2,7 +2,7 @@
 
 > **评级 B**　|　俄罗斯　|　档案编号 `SB-426`　|　优先级 ★★　|　状态：已推送 35 次·未回复
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 35 次（2024-04-29 → 2025-10-31）　|　**所在清单**：A优质名单(优质俄罗斯客户)、AI评估(RU)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：安防品牌商（自有标 PoE 交换机，OEM 采购）（推断）　|　**历史关系**：推送 35 次（2024-04-29 → 2025-10-31）　|　**所在清单**：A优质名单(优质俄罗斯客户)、AI评估(RU)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-426
@@ -12,14 +12,14 @@ score: 41
 country: 俄罗斯
 region: 俄语区
 website: amatek.su
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 安防品牌商（自有标 PoE 交换机，OEM 采购）
 tier_tags: ["A优质名单(优质俄罗斯客户)", "AI评估(RU)"]
 deal: no
 replies: 0
 followups: 35
 first_contact: 2024-04-29
 last_contact: 2025-10-31
-p1: STI-288DGGPM
+p1: STC-28DGGPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：俄罗斯品牌商/贴牌需求（OEM/ODM）：官网「Amatek - cистемы видеонаблюдения」（ru）；品类词：安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：IEEE802、AN-SXGM12P8S、AN-SXG10P8、AN-SXGM6P4；表内「工商业FS 自己的logo 有人在卖他们的；普通POE FS AHD IP cameras 工业FS；产品上是自己的logo」；群发 35 次、无回复。（调研 2026-10-21；表内兴趣：工商业FS 自己的logo 有人在卖他们的；普通POE FS  AHD IP cameras 工业FS）
+- **是谁**：俄罗斯视频监控品牌 Amatek（官方站：Amatek 商标监控设备目录；自有标 PoE 交换机 AN-SXGM12P8S / AN-SXG10P8 / AN-SXGM6P4 / AN-SX8F，云管理 AN-SW10P8，Passive PoE / UltraPoE 页；表内「工商业 FS 自己的 logo，有人在卖他们的，AHD/IP 摄像机」，备注「产品上是自己的 logo」「重要」；KP Aleksandr Kovrigo（kovrigo@ksb.su，KSB 为运营公司））；群发 35 次无回复。（调研 2026-10-21；表内兴趣：工商业FS 自己的logo 有人在卖他们的；普通POE FS  AHD IP cameras 工业FS）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025；-22 推送 35 次无任何回复（聋名单）
 - **历史互动**：推送 35 次（2024-04-29 → 2025-10-31）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：自有 AN-SXGM12P8S（8 PoE + 2 SFP + 2 GE 管理）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Amatek 标；AN-SXGM6P4 ↔ STI-144GP/STC-204GP 位；云管理 AN-SW10P8 = Saga 不做云；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | amatek.su（取自域名，公司全名待核） | 推断 |
 | 国家 | 俄罗斯 | 事实（用户表）|
 | 网站/域名 | amatek.su / ksb.su | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 安防品牌商（自有标 PoE 交换机，OEM 采购） | 推断（据兴趣/备注关键词） |
 | 联系人 | 重要 / Aleksandr Kovrigo | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 工商业FS 自己的logo<br>有人在卖他们的 / 普通POE FS  AHD IP cameras 工业FS | 事实（用户表） |
@@ -72,32 +72,46 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（amatek.su，快照 2026-10-21）
-- **是谁**：俄罗斯品牌商/贴牌需求（OEM/ODM）：官网「Amatek - cистемы видеонаблюдения」（ru）；品类词：安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：IEEE802、AN-SXGM12P8S、AN-SXG10P8、AN-SXGM6P4；表内「工商业FS 自己的logo 有人在卖他们的；普通POE FS AHD IP cameras 工业FS；产品上是自己的logo」；群发 35 次、无回复。
-- **类型**：品牌商/贴牌需求（OEM/ODM）
+- **是谁**：俄罗斯视频监控品牌 Amatek（官方站：Amatek 商标监控设备目录；自有标 PoE 交换机 AN-SXGM12P8S / AN-SXG10P8 / AN-SXGM6P4 / AN-SX8F，云管理 AN-SW10P8，Passive PoE / UltraPoE 页；表内「工商业 FS 自己的 logo，有人在卖他们的，AHD/IP 摄像机」，备注「产品上是自己的 logo」「重要」；KP Aleksandr Kovrigo（kovrigo@ksb.su，KSB 为运营公司））；群发 35 次无回复。
+- **类型**：安防品牌商（自有标 PoE 交换机，OEM 采购）
 - **【官网快照】官网标题：Amatek - cистемы видеонаблюдения；品类词 安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE**
   > Официальный сайт торговой марки Amatek. На сайте представлен каталог современного и надежного оборудования для видеонаблюдения по доступным ценам.
   > 来源：https://amatek.su/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 工商业FS 自己的logo 有人在卖他们的；普通POE FS AHD IP cameras 工业FS；产品上是自己的logo
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】Amatek 商标官方站：视频监控设备目录**
+  > Официальный сайт торговой марки Amatek. На сайте представлен каталог современного и надежного оборудования для видеонаблюдения
+  > 来源：https://amatek.su/（抓取 2026-10-21）
+- **【用户表】工商业 FS 自有 logo，有人在卖**
+  > 工商业FS 自己的logo 有人在卖他们的；产品上是自己的logo；重要
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Aleksandr Kovrigo（）kovrigo@ksb.su 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 俄罗斯 |
 | 其他 | 官网 amatek.su，语言 ru，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：安防监控（CCTV / 门禁）；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 品牌商/贴牌需求（OEM/ODM）；region: 俄罗斯；contact: info@amatek.su、kovrigo@ksb.su
+- **业务线**：视频监控品牌（AHD/IP 摄像机、NVR）；自有标 PoE 交换机（商用 + 工业）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Amatek（自有） | AN-SXGM12P8S | 8 PoE + 2 SFP + 2 GE 管理型 | STC-28DGGPM | https://amatek.su/（2026-10-21） |
+| Amatek（自有） | AN-SXGM6P4 | 4 PoE + 2 上联 | STC-204GP（HRUI 列表价 $20.4，非 SmartByte） | https://amatek.su/（2026-10-21） |
+| Amatek（自有） | AN-SW10P8 | 云管理 8 PoE | （Saga 不做云管理） | https://amatek.su/（2026-10-21） |
+
+- **触达通道（公开）**：role: 安防品牌商（自有标 PoE 交换机，OEM 采购）；region: 俄罗斯；contact: info@amatek.su、kovrigo@ksb.su
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://amatek.su/）
-  - 官网公开邮箱：info@amatek.su、remont2@ksb.su、remont3@ksb.su
-  - 用户表兴趣/备注：工商业FS 自己的logo 有人在卖他们的；普通POE FS AHD IP cameras 工业FS；产品上是自己的logo
-- **风险/边界**：群发 35 次无回复：换角度首触（不再发产品图，只问一个问题）；非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Aleksandr, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+  - 站内型号 AN-SXGM12P8S / AN-SXG10P8 / AN-SXGM6P4 / AN-SX8F；页面 /pages/passive-poe、/pages/poe-power-over-ethernet-poe-ultrapoe
+  - 站内 PoE 词频 557、NVR 30
+  - KP：Aleksandr Kovrigo（kovrigo@ksb.su，表内）
+- **风险/边界**：俄罗斯：结算/物流通道受限（需经第三国），非主攻区（T5）；群发 35 次无回复（表内仍标「重要」）：改向 Kovrigo 具名首触，只问一个问题；云管理型号 Saga 不做
+- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——自有 AN-SXGM12P8S（8 PoE + 2 SFP + 2 GE 管理）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Amatek 标；AN-SXGM6P4 ↔ STI-144GP/STC-204GP 位；云管理 AN-SW10P8 = Saga 不做云
+- **邮件切入句（英文）**：Aleksandr, for the AN-SXGM series PoE switches under the Amatek label, we build Marvell-based 8-PoE + 2 SFP L2+ and 4-PoE compact models to your spec from small lots (neutral packing) — which model in the range is due for a second source, the 8-port managed or the 4-port?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -179,7 +193,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Aleksandr Kovrigo | — | info@amatek.su / kovrigo@ksb.su | 用户表原值 | Clients/ 表 |
+| Aleksandr Kovrigo | — | kovrigo@ksb.su | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 35 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -198,17 +212,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 深挖对位：工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：自有 AN-SXGM12P8S（8 PoE + 2 SFP + 2 GE 管理）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Amatek 标；AN-SXGM6P4 ↔ STI-144GP/STC-204GP 位；云管理 AN-SW10P8 = Saga 不做云 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（安防品牌商（自有标 PoE 交换机，OEM 采购）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -218,7 +232,7 @@ updated: 2026-10-21
 
 - **S**：自有品牌/贴牌需求 = 现成 OEM 客户
 - **W**：已推送 35 次无回复，邮件通道疲劳；俄语区：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-288DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
+- **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -246,14 +260,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Aleksandr,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Aleksandr, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Aleksandr, for the AN-SXGM series PoE switches under the Amatek label, we build Marvell-based 8-PoE + 2 SFP L2+ and 4-PoE compact models to your spec from small lots (neutral packing) — which model in the range is due for a second source, the 8-port managed or the 4-port?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your Amatek（自有） AN-SXGM12P8S at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 
