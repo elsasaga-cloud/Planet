@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（dacelsolutions.com，快照 2026-10-21）",
- "summary": "土耳其分销商/批发商：官网「DACEL Mühendislik - Teknolojik Değişim Lideri」（tr）；品类词：安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Siemens、Hirschmann；产品页：Xtralis-Vesda-VLI-Laser-Industrial-Aktif、Xtralis-Vesda-VLI-Laser-Industrial-Activ、Xtralis-Vesda-VLI-Laser-Industrial-Aktif、Xtralis-Vesda-VLI-Laser-Industrial-Aktif；表内「工业FS」；群发 2 次、无回复。",
- "type": "分销商/批发商",
+ "summary": "土耳其 DACEL Mühendislik（工业控制与自动化产品销售/服务 + 弱电系统：火灾探测（Xtralis VESDA）、CCTV、门禁、气体灭火、KNX、公共广播；Siemens / Hirschmann；表内「工业 FS」；KP Erkan Cirit（Shareholder，ecirit@）、Ibrahim Gokcen（Head of Purchasing and Logistics）、Ali Icoez（Vice President Projects））；表内 2 次跟进无回复。",
+ "type": "工业自动化/弱电系统集成商（土耳其，Hirschmann 在用）",
  "size": "",
  "brands_seen": [
   "Siemens",
@@ -24,41 +24,77 @@
    "quote": "工业FS",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "DACEL 定位",
+   "quote": "DAC-EL Mühendislik, endüstriyel kontrol ve otomasyon ürünlerinin satışı ve servisinde geniş ürün çeşidi ve rekabetçi fiyatlarla yüksek kaliteli çözümler sunan bir destek ve tedarikçi adresidir.",
+   "url": "https://www.dacelsolutions.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS",
+   "quote": "工业FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Ibrahim Gokcen",
+   "title": "Head of Purchasing and Logistics",
+   "email": "info@dacel.com.tr",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Erkan Cirit",
+   "title": "Shareholder",
+   "email": "ecirit@dacel.com.tr",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Ali Icoez",
+   "title": "Vice President Projects",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 dacelsolutions.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "工业控制与自动化产品销售/服务",
+  "弱电系统（消防 / CCTV / 门禁 / KNX / 广播）"
  ],
  "channels": {
-  "role": "分销商/批发商",
+  "role": "工业自动化/弱电系统集成商（土耳其，Hirschmann 在用）",
   "region": "土耳其",
   "contact": "info@dacel.com.tr、ecirit@dacel.com.tr"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.dacelsolutions.com/）",
-  "在售工业网络品牌：Siemens、Hirschmann → 工业线对位",
-  "官网公开邮箱：info@dacel.com.tr",
-  "用户表兴趣/备注：工业FS"
+  "首页栏目：Yangın Algılama ve Alarm Sistemleri ; CCTV ve Video Kontrol ; Geçiş Kontrol Sistemleri ; KNX (EIB) Aydınlatma Otomasyonu；页面 Xtralis-Vesda-VLI",
+  "KP：Ibrahim Gokcen / Head of Purchasing and Logistics；Ali Icoez / VP Projects；Erkan Cirit / Shareholder（表内）"
  ],
- "risks": [],
+ "risks": [
+  "守界备注：火灾探测/气体灭火等生命安全系统不涉，只供 CCTV/自动化通用交换机",
+  "土耳其：汇率敏感；Hirschmann/Siemens 既定线；2 次跟进无回复 → 改向采购负责人具名首触"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 20,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：分销商/批发商→20%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-288GPM",
+  "tier": 25,
+  "why": "项目用工业 FS（现 Hirschmann）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-280GE（$48.6）作预算线；消防/生命安全回路不涉（守界）"
  },
- "email_hook": "Erkan, alongside the Siemens / Hirschmann lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?"
+ "email_hook": "Ibrahim, for the industrial Ethernet switches in your CCTV and automation projects where Hirschmann is over budget, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-GE + 2 SFP unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your projects use most?"
 }

@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（mondoplast.ro，快照 2026-10-21）",
- "summary": "罗马尼亚安防集成/经销：官网「Mondo Plast - Cabluri si echipamente pentru telecomunicatii」（ro）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆；站内品牌：Hikvision、Hirschmann；站内型号：RO-12755240、AWG24、XTGK-45、AWG23；表内「比较多的外壳 有国内的 switch MC WDM等」；表内未见跟进记录。",
- "type": "安防集成/经销",
+ "summary": "罗马尼亚 Mondo Plast（蒂米什瓦拉电信设备进口与分销：光纤、线缆、电台、UPS、天线、机柜、卫星接收、路由、摄像机、交换机、MC；Hirschmann / Hikvision；表内「比较多的外壳，有国内的；switch / MC / WDM 等」；邮箱 timisoara@）；表内无跟进记录。",
+ "type": "电信设备进口分销商（罗马尼亚）",
  "size": "",
  "brands_seen": [
   "Hikvision",
@@ -24,6 +24,20 @@
    "quote": "比较多的外壳 有国内的 switch MC WDM等",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Mondo Plast 定位",
+   "quote": "Mondo Plast - importator si distribuitor echipamente telecomunicatii: fibra optica,cablu,statie radio,ups-uri,antena,rack,receptor satelit,router,router wireless,camera supraveghere,switch,media conv",
+   "url": "https://www.mondoplast.ro/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "多外壳国产；switch MC WDM",
+   "quote": "比较多的外壳 有国内的 switch MC WDM等",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -32,37 +46,32 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "罗马尼亚",
   "other": "官网 mondoplast.ro，语言 ro，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "无线 / WiFi",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "电信设备进口分销（光纤 / 线缆 / 无线 / 安防 / 网络）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "电信设备进口分销商（罗马尼亚）",
   "region": "罗马尼亚",
   "contact": "timisoara@mondoplast.net"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.mondoplast.ro/）",
-  "在售工业网络品牌：Hirschmann → 工业线对位",
-  "安防品牌：Hikvision → PoE 配套切入",
-  "官网公开邮箱：bucuresti@mondoplast.net、financiar@mondoplast.ro、timisoara@mondoplast.net",
-  "用户表兴趣/备注：比较多的外壳 有国内的 switch MC WDM等"
+  "官网：importator si distribuitor echipamente telecomunicatii: fibra optica,cablu,statie radio,ups-uri,antena,rack,receptor satelit,router,…,camera supraveghere,switch,media conv…",
+  "表内：比较多的外壳 有国内的；switch MC WDM 等"
  ],
- "risks": [],
+ "risks": [
+  "小国（罗马尼亚，非主动挖掘范围）；多品类杂货分销，量小",
+  "无具名 KP（分支邮箱 timisoara@）；无跟进记录"
+ ],
  "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 25,
-  "why": "工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：安防集成/经销→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$23.4 USD EXW（25% 档，SmartByte LT-IMC30G-E 125 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "多外壳国产货在售 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；MC 位 STI-110GE（$22.4）；WDM/SFP Saga 不供（Q-32）"
  },
- "email_hook": "Alongside the Hikvision / Hirschmann lines you carry, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which fiber side do you need most — SFP-based or fixed single-mode SC?"
+ "email_hook": "Alongside the switches and media converters you import, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch, budget 4/8-port PoE units and gigabit media converters from small lots, CE/RoHS, EXW USD — which band sells most through your Timișoara branch?"
 }

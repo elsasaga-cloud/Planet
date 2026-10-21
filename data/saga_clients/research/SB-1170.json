@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（carlogavazzisales.com，快照 2026-10-21）",
- "summary": "美国分销商/批发商：官网「Carlo Gavazzi | Industrial Automation Products」（en）；品类词：工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE；站内型号：IP69K、DPB71、DIB01CM、IP67K；表内「主要是工业电源」；表内未见跟进记录。",
- "type": "分销商/批发商",
+ "summary": "美国 Gross Automation（carlogavazzisales.com：Carlo Gavazzi 工业自动化产品经销——电源、凸轮开关、隔离开关、传感器、继电器、变频器；表内「主要是工业电源」）；表内无跟进记录。",
+ "type": "工业自动化元件经销（电气开关/电源，非网络）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,40 +21,53 @@
    "quote": "主要是工业电源",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Carlo Gavazzi 产品范围",
+   "quote": "Carlo Gavazzi offers a wide variety of industrial automation products, including power supplies, cam switches, disconnects, sensors, relays, drives, contactors, timers and counters.",
+   "url": "https://carlogavazzisales.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "主要是工业电源",
+   "quote": "主要是工业电源",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "品类不符：电气开关/工业电源元件经销（Gross Automation / Carlo Gavazzi），无以太网交换机需求；c_sub=品类不符（非网络设备）",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 carlogavazzisales.com，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "无线 / WiFi",
-  "布线 / 线缆",
-  "网络交换 / PoE"
+  "Carlo Gavazzi 工业自动化元件经销"
  ],
  "channels": {
-  "role": "分销商/批发商",
+  "role": "工业自动化元件经销（电气开关/电源，非网络）",
   "region": "美国",
   "contact": "sales@grossautomation.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://carlogavazzisales.com/）",
-  "用户表兴趣/备注：主要是工业电源"
+  "页面 /pbswitches.htm、/cam_switches.htm、/camswitchdis.htm、/limitswitches.htm；官网：power supplies, cam switches, disconnects, sensors, relays, drives, contactors, timers and counters",
+  "表内：主要是工业电源"
  ],
- "risks": [],
+ "risks": [
+  "品类不符：电气开关（凸轮/限位/按钮）与工业电源经销，非以太网交换机"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": null,
   "tier": 20,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：分销商/批发商→20%）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "品类不符：站内「switch」为凸轮/限位/按钮开关，主业工业电源与元件，无以太网交换机需求 → 改 C"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?"
+ "email_hook": "（不发送：品类不符）"
 }

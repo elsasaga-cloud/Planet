@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（vidom.pl，快照 2026-10-21）",
- "summary": "波兰安防集成/经销：官网「Oświetlenie LED. Systemy Smart Home i Inteligentnego Domu - VIDOM」（pl）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：FUT035W、ES111、FUT037W、CL2-P75V24；表内「PoE switch 国内的」；表内未见跟进记录。",
- "type": "安防集成/经销",
+ "summary": "波兰 VIDOM（LED 照明与智能家居（Grenton）网店；交换机/路由栏目、PoE、CCTV（64）、WiFi（72）；表内「PoE switch 国内的」「质量一般」；邮箱 grenton@）；表内无跟进记录。",
+ "type": "LED/智能家居网店（波兰，PoE 为配套）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,6 +21,20 @@
    "quote": "PoE switch 国内的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "VIDOM 网店",
+   "quote": "VIDOM ➤ Oświetlenie LED i systemy Smart Home ⭐ Ekspresowa wysyłka. Profesjonalna obsługa",
+   "url": "https://vidom.pl/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "PoE switch 国内的",
+   "quote": "PoE switch 国内的；质量一般",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,33 +43,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "波兰",
   "other": "官网 vidom.pl，语言 pl，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "无线 / WiFi",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "LED 照明 / 智能家居网店"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "LED/智能家居网店（波兰，PoE 为配套）",
   "region": "波兰",
   "contact": "grenton@vidom.pl"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://vidom.pl/）",
-  "官网公开邮箱：sklep@vidom.pl",
-  "用户表兴趣/备注：PoE switch 国内的"
+  "栏目 /Switche-c250、/Routery-switche-c110；官网：Oświetlenie LED i systemy Smart Home；kw wifi 72 / cctv 64 / switch 44"
  ],
- "risks": [],
+ "risks": [
+  "主业 LED/智能家居：交换机为配套品类，量小；表内「质量一般」",
+  "无具名 KP（grenton@）；无跟进记录"
+ ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：安防集成/经销→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "配套 PoE（现国产）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；预期低"
  },
- "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For the PoE switches in your smart-home and CCTV category, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your installers order most?"
 }

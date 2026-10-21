@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（elmospa.com，快照 2026-10-21）",
- "summary": "意大利安防集成/经销：官网「EL.MO. S.p.A」（en-gb）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 网络交换 / PoE；站内型号：RS485、EN50131、RS-485、SA5000；表内「CCTV 帧田交换机」；群发 7 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "意大利 EL.MO. S.p.A.（50 年专业安防系统制造商：入侵（EN50131）、门禁、CCTV、无线；面向经销商/安装商网络；表内「CCTV 帧田交换机」「可以尝试多跟进一下」；KP Agostino Avolio（Technical/Commercial Agent，agostino.avolio@）、Mauro Felice（CEO））；群发 7 次无回复。",
+ "type": "意大利安防系统制造商（CCTV 配套 PoE 可贴标，OEM 采购）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,40 +21,69 @@
    "quote": "CCTV 帧田交换机",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "EL.MO. 定位",
+   "quote": "Innovazione, ricerca e affidabilità si uniscono per ideare e produrre sistemi di sicurezza professionali per beni e persone. ; For 50 years, we’ve been innovating security",
+   "url": "https://www.elmospa.com/en/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "CCTV 帧田交换机",
+   "quote": "CCTV 帧田交换机；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Agostino Avolio",
+   "title": "Technical/Commercial Agent",
+   "email": "agostino.avolio@elmospa.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Mauro Felice",
+   "title": "CEO",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "意大利",
   "other": "官网 elmospa.com，语言 en-gb，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "无线 / WiFi",
-  "网络交换 / PoE"
+  "专业安防系统制造（入侵 / 门禁 / CCTV / 无线）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "意大利安防系统制造商（CCTV 配套 PoE 可贴标，OEM 采购）",
   "region": "意大利",
   "contact": "info@elmospa.com、agostino.avolio@elmospa.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.elmospa.com/en/）",
-  "用户表兴趣/备注：CCTV 帧田交换机"
+  "官网：For 50 years, we’ve been innovating security for your peace of mind；栏目 Residential / Industries / Infrastructure / Retail / Banking；kw installer 34 / distributor 26 / camera 53",
+  "KP：Agostino Avolio / Technical/Commercial Agent；Mauro Felice / CEO（表内）"
  ],
- "risks": [],
+ "risks": [
+  "制造商主业入侵/门禁（EN50131 生命安全侧不涉）：交换机为 CCTV 配套",
+  "7 次无回复 → 改向技术/商务代理具名首触；表内「帧田」品牌待核"
+ ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 20,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：安防集成/经销→20%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "CCTV 线配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 EL.MO. 标；24 口位 STC-424DGGPM-280W；入侵/报警回路不涉"
  },
- "email_hook": "Agostino, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Agostino, for the PoE switches that ship with your CCTV range, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in EL.MO. packaging, CE/RoHS — which size do your installers order most with your NVRs?"
 }

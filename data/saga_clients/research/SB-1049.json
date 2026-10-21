@@ -3,13 +3,14 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（fibermart.co.kr，快照 2026-10-21）",
- "summary": "韩国安防集成/经销：官网「파이버마트 - 통신 네트워크 전문 쇼핑몰」（ko）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：MikroTik、Hikvision、Dahua；站内型号：SFP28、QSFP28、SFC510HP、SFC516HP；表内「几个工业交换机型号；Simon客户 / attn: Kwang Young Kim(金广永） | telephone: 82-10-3046-5653 | mo」；群发 23 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "韩国 SOLTECH（솔텍：光传输/网络设备厂商，自有 SFC 系列（SFC510HP / SFC516HP / SFC1200-HDFT），Fibermart 网店（光缆、交换机、机柜、光配件）；表内「几个工业交换机型号」「质量高」「Simon 客户」；KP Kim Kwang Young（金广永）/ Jason（jasonk@、kky@），电话 +82-10-3046-5653）；群发 23 次无回复。",
+ "type": "韩国网络设备厂商（自有 SFC 标工业交换机，OEM 采购；Simon 客户）",
  "size": "",
  "brands_seen": [
   "MikroTik",
   "Hikvision",
-  "Dahua"
+  "Dahua",
+  "TP-Link"
  ],
  "evidence": [
   {
@@ -25,46 +26,88 @@
    "quote": "几个工业交换机型号；Simon客户 / attn: Kwang Young Kim(金广永） | telephone: 82-10-3046-5653 | mobile.: 82-70-4628-5232 | fax.: 82-2-701-6200 | 网址: www.fibermart.co.kr www.soltech.co.kr www.solmate.net",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Fibermart/SOLTECH 网店",
+   "quote": "파이버마트 - 통신 네트워크 전문 쇼핑몰 ; 솔텍 통신 장비부터 광케이블, 스위칭허브, 통신랙, 광자재, 전기용품 종합 쇼핑몰",
+   "url": "https://fibermart.co.kr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "几个工业交换机型号；Simon 客户",
+   "quote": "几个工业交换机型号；Simon客户 / attn: Kwang Young Kim(金广永）；质量高",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Kim Kwang Young（金广永）",
+   "title": "（Simon 客户联系人）",
+   "email": "kky@soltech.co.kr",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Jason",
+   "title": "（表内联系人）",
+   "email": "jasonk@soltech.co.kr",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "韩国",
   "other": "官网 fibermart.co.kr，语言 ko，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "光传输 / 网络设备制造（自有品牌 SOLTECH）",
+  "Fibermart 网店（光缆 / 交换机 / 机柜）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "韩国网络设备厂商（自有 SFC 标工业交换机，OEM 采购；Simon 客户）",
   "region": "韩国",
   "contact": "kky@soltech.co.kr、jasonk@soltech.co.kr"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://fibermart.co.kr/）",
-  "在售同口型交换品牌：MikroTik → 直接对位替换",
-  "安防品牌：Hikvision、Dahua → PoE 配套切入",
-  "官网公开邮箱：morenvy@hanmail.net、yji@soltech.co.kr",
-  "用户表兴趣/备注：几个工业交换机型号；Simon客户 / attn: Kwang Young Kim(金广永） | telephone: 82-10-3046-5653 | mobile.: 82-70-4628-5232 | fax.: 82-2-701-"
+  "快照（fibermart.co.kr）：솔텍 통신 장비부터 광케이블, 스위칭허브, 통신랙, 광자재；站内 SFC510HP / SFC516HP / SFC1200-HDFT；kw sfp 50 / cctv 55 / poe 40",
+  "表内：几个工业交换机型号；Simon 客户 / attn: Kwang Young Kim(金广永)；telephone 82-10-3046-5653"
  ],
  "risks": [
-  "群发 23 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5，韩国）；KC 认证由客户申报；23 次无回复（Simon 客户，线下渠道待核）",
+  "自研能力强（光传输厂商）：仅二供口径"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：安防集成/经销→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "自有 SFC 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 16 口位 STI-21616GP 贴 SOLTECH 标；KC 认证由客户申报"
  },
- "email_hook": "Jason, alongside the MikroTik / Hikvision lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Mr. Kim, for the SFC industrial switch models you asked about, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 16-PoE + 2×10G) from small lots in your housing, CE/RoHS — which SFC model would you evaluate first?",
+ "products_seen": [
+  {
+   "brand": "SOLTECH（自有）",
+   "model": "SFC516HP",
+   "spec": "16 口 PoE 交换机",
+   "saga": "STI-21616GP（工业）/ STC-2216GPM（HRUI 列表价）",
+   "url": "https://fibermart.co.kr/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "SOLTECH（自有）",
+   "model": "SFC510HP",
+   "spec": "8 PoE + 2 上联",
+   "saga": "STI-288GPM",
+   "url": "https://fibermart.co.kr/",
+   "date": "2026-10-21"
+  }
+ ]
 }
