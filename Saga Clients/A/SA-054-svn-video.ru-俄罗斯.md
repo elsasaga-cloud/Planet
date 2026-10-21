@@ -22,7 +22,7 @@ followups: 1
 first_contact: 2025-08-28
 last_contact: 2025-08-28
 p1: STC-28DGGPM
-price_tier: 20%
+price_tier: 30%
 research: done
 sources: 1
 updated: 2026-10-21
@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：俄罗斯卡卢加的视频监控网店 + 安装商（个体经营者），自有 SVN 品牌摄像机/套装，设批发栏目（Оптовикам）；用户表：A 已回复 1 次，备注「用的洪瑞（HRUI）的商业 PoE，自己的型号」——即已从 Saga 辅线供应商 HRUI 采购并贴自有型号。（调研 2026-10-21；表内兴趣：用的洪瑞的 商业PoE 自己的型号）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-08-28 → 2025-08-28）；最近一次客户回复：2025-08-28：Price List
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：商用 8 口 PoE 自有型号：STC-28DGGPM（Marvell 管理型）为升级位；也可按 HRUI 对照表报同规格；电商 20% 档；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：自有标 SVN-POE812（8 FE PoE）千兆管理升级 = STC-28DGGPM，按 SVN 命名 OEM 30%；SVN-POE1612 位 = STI-21616GP；价位不接受则改 HRUI 源 Realtek 商用款（需标注非 Saga 主线）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -59,36 +59,49 @@ updated: 2026-10-21
 - **是谁**：俄罗斯卡卢加的视频监控网店 + 安装商（个体经营者），自有 SVN 品牌摄像机/套装，设批发栏目（Оптовикам）；用户表：A 已回复 1 次，备注「用的洪瑞（HRUI）的商业 PoE，自己的型号」——即已从 Saga 辅线供应商 HRUI 采购并贴自有型号。
 - **类型**：电商/安装商（自有型号贴牌）
 - **规模**：个体经营（小型）
-- **在卖/在用品牌**：SVN, HRUI(洪瑞)
+- **在卖/在用品牌**：SVN, HRUI(洪瑞), SVN（自有标）
 - **【官网】业务与联系方式**
   > Системы видеонаблюдения, недорого в каталоге с ценой на сайте интернет-магазина SVN … zakaz@svn-video.ru … Наименование: ИП Криволуцкая Юлия Викторовна · ИНН: 402910363642 … г. Калуга, ул. Марата, д. 5
   > 来源：https://svn-video.ru/contact-us（抓取 2026-10-21）
 - **【官网】有批发栏目与自有 SVN 型号**
   > Оптовикам … Уличная камера IP SVN-800SBA20MPOE 2,8мм 8Мп · SVN-Дача-4 на 4 уличные камеры 5Мп
   > 来源：https://svn-video.ru/catalog（抓取 2026-10-21）
+- **【官网网店】SVN 自有标 PoE 设备与价格**
+  > POE коммутатор SVN-POE48V1A 1080 ₽ … POE коммутатор SVN-POE412 3150 ₽ … POE коммутатор SVN-POE812 4120 ₽
+  > 来源：https://svn-video.ru/poe-oborudovanie（抓取 2026-10-21）
+- **【官网网店】SVN-POE1612 口型**
+  > SVN-POE1612 … POE порты 16 портов 10/100M PoE 2 порта 1000M Ethernet Uplink 1 порт 1000M SFP · Коммутационная способность: 9.2Gbps
+  > 来源：https://svn-video.ru/poe-oborudovanie/poe-kommutator-svn-poe1612（抓取 2026-10-21）
+- **【官网】地址 / 电话 / 邮箱**
+  > 8-800-600-72-59 - 8-903-636-46-70 - svnshop@yandex.ru , zakaz@svn-video.ru - 248000, г. Калуга, ул. Марата, 5
+  > 来源：https://svn-video.ru/catalog（抓取 2026-10-21）
 - **KP**：—（订单邮箱）zakaz@svn-video.ru +7 903 810 33 33〔https://svn-video.ru/contact-us〕
 - 备注：A 维持但体量小：已在用 HRUI 商业 PoE 自有型号 → Saga 可用 STH 线（HRUI 来源）原厂同款 + 自有型号丝印直接承接；P1 = STH 对应 8 口 PoE（见 data/hrui_STC对照表.csv），20% 电商档。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网网店自有标 SVN 目录核对））
 
 | 公司事实 | 内容 |
 |---|---|
 | 法定名称 | SVN（svn-video.ru，ИП Криволуцкая Ю.В.） |
-| 总部/地址 | Kaluga, Russia |
-| 其他 | 视频监控网店 + 安装商，自有 SVN 品牌摄像机/套装，批发栏目；用户表：用 HRUI（洪瑞）商业 PoE，自己的型号 |
+| 总部/地址 | 248000, г. Калуга, ул. Марата, д. 5（+7 903 810-33-33 / +7 903 636-46-70 / 8-800-600-72-59；zakaz@svn-video.ru、svnshop@yandex.ru） |
+| 其他 | 自有标 SVN 全线：IP 摄像机（SVN-200SL20HF 2MP 5,800 ₽、SVN-800SBA20MPOE 8MP 11,350 ₽）、套装（SVN-Дача-4 27,000 ₽）、NVR（SVN-NVRC830POE 9ch/8 PoE）、**PoE 交换机 SVN-POE412（4 FE PoE+2 上联，3,150 ₽）/ SVN-POE812（8 FE PoE+2 上联，4,120 ₽）/ SVN-POE1612（16 FE PoE+2 GE+1 SFP）/ SVN-POE48V1A（1,080 ₽）**、PoE 分离器/注入器；设「Оптовикам」批发栏目；卡卢加本地安装 |
 
-- **业务线**：SVN 品牌摄像机/套装；商用 PoE 交换机（HRUI 来源，自有型号）；安装与批发
+- **业务线**：SVN 品牌摄像机/套装；商用 PoE 交换机（HRUI 来源，自有型号）；安装与批发；自有标 SVN 摄像机 / NVR / PoE 交换机 网店（零售 + 批发）；卡卢加州安装
 
 | 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
 |---|---|---|---|---|
 | SVN（HRUI 来源） | 商业 PoE 交换机（自有型号） | 用的洪瑞的 | STC-28DGGPM（Marvell 升级位）/ 或 HRUI 同款经 Saga 供 | （本地 Clients/ 表格，无公开 URL）（用户表） |
+| SVN（自有标） | SVN-POE812 | 8×10/100 PoE + 2×10/100 上联，AI PoE，af/at；零售 4,120 ₽ | STC-28DGGPM（千兆管理升级位；价位敏感 → 亦可按 HRUI 源 Realtek 商用款对位，见 hrui_STC 对照表，需标注） | https://svn-video.ru/poe-oborudovanie/poe-kommutator-svn-poe812-（2026-10-21） |
+| SVN（自有标） | SVN-POE412 | 4×10/100 PoE + 2 上联，AC 内置电源；3,150 ₽ | STI-144GP（工业位，不主推） | https://svn-video.ru/catalog/poe-oborudovanie/poe（2026-10-21） |
+| SVN（自有标） | SVN-POE1612 | 16×10/100 PoE + 2×1000 上联 + 1 SFP，9.2 Gbps | STI-21616GP（千兆升级位） | https://svn-video.ru/poe-oborudovanie/poe-kommutator-svn-poe1612（2026-10-21） |
 
-- **触达通道（公开）**：网站: https://svn-video.ru/；直邮: zakaz@svn-video.ru（用户表）
+- **触达通道（公开）**：网站: https://svn-video.ru/；直邮: zakaz@svn-video.ru（用户表）；网站/网店: https://svn-video.ru/（含 Оптовикам 批发页）；电话: +7 903 810-33-33 / 8-800-600-72-59（官网公开）；邮箱（公开）: zakaz@svn-video.ru / svnshop@yandex.ru
 - **近况信号**：
   - 已从 Saga 辅线供应商 HRUI 采购——Saga 可按 HRUI 对照表直接报同款（data/hrui_STC对照表.csv）或升级 Marvell 款
-- **风险/边界**：个体经营者，量小；俄罗斯结算；HRUI 直供价 vs Saga 加价——需以服务/组合（摄像机配套 PoE）取胜
-- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——商用 8 口 PoE 自有型号：STC-28DGGPM（Marvell 管理型）为升级位；也可按 HRUI 对照表报同规格；电商 20% 档
-- **邮件切入句（英文）**：For the 8-port PoE model you sell under the SVN name, I can quote the same footprint on a Marvell core as a managed upgrade, or the Realtek-based version you are used to, both in your own packing at EXW.
+  - 自有标 SVN PoE 交换机全系为百兆、零售 3–4 千卢布——极度价位敏感；千兆 Marvell 款只能作「SVN 千兆高端位」少量试单（2026-10-21）
+- **风险/边界**：个体经营者，量小；俄罗斯结算；HRUI 直供价 vs Saga 加价——需以服务/组合（摄像机配套 PoE）取胜；个体经营 + 百兆低价位——单量与毛利双低；若千兆位不接受，转 HRUI 源 Realtek 款（标注）或按 B 节奏
+- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——自有标 SVN-POE812（8 FE PoE）千兆管理升级 = STC-28DGGPM，按 SVN 命名 OEM 30%；SVN-POE1612 位 = STI-21616GP；价位不接受则改 HRUI 源 Realtek 商用款（需标注非 Saga 主线）
+- **邮件切入句（英文）**：Your SVN-POE812 and POE1612 are fast-Ethernet; a gigabit Marvell-based 8-port PoE+ with 2 SFP in SVN packing would give the range a top SKU for 4K cameras, EXW, MOQ 1 for a trial batch.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -131,9 +144,9 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：商用 8 口 PoE 自有型号：STC-28DGGPM（Marvell 管理型）为升级位；也可按 HRUI 对照表报同规格；电商 20% 档 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（电商/安装商（自有型号贴牌）） |
-| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：自有标 SVN-POE812（8 FE PoE）千兆管理升级 = STC-28DGGPM，按 SVN 命名 OEM 30%；SVN-POE1612 位 = STI-21616GP；价位不接受则改 HRUI 源 Realtek 商用款（需标注非 Saga 主线） | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（电商/安装商（自有型号贴牌）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -143,7 +156,7 @@ updated: 2026-10-21
 
 - **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -151,7 +164,7 @@ updated: 2026-10-21
 
 - **S**：有 1 次实质回复（对方认识我们）
 - **W**：俄语区：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 洪瑞：涨价、断货或交期拉长时切入；规模（调研）：个体经营（小型）
+- **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；对位其在用/在卖的 洪瑞：涨价、断货或交期拉长时切入；规模（调研）：个体经营（小型）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -185,9 +198,9 @@ updated: 2026-10-21
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. For the 8-port PoE model you sell under the SVN name, I can quote the same footprint on a Marvell core as a managed upgrade, or the Realtek-based version you are used to, both in your own packing at EXW.
+Picking up our earlier exchange about PoE / industrial switches. Your SVN-POE812 and POE1612 are fast-Ethernet; a gigabit Marvell-based 8-port PoE+ with 2 SFP in SVN packing would give the range a top SKU for 4K cameras, EXW, MOQ 1 for a trial batch.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your SVN（HRUI 来源） 商业 PoE 交换机（自有型号） at a lower landed cost, and we can ship it with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your SVN（HRUI 来源） 商业 PoE 交换机（自有型号） at a lower landed cost, and we can ship it with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

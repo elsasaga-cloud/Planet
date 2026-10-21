@@ -1,6 +1,6 @@
 {
  "code": "SA-120",
- "name_official": "Latmedia Group, LLC（乌兹别克斯坦）",
+ "name_official": "LATMEDIA GROUP LLC（ООО Latmedia group，塔什干，乌兹别克斯坦）",
  "website_status": "未单独检索（仅用户记录）",
  "summary": "乌兹别克斯坦 IT 公司，2025 年通过自建站询盘 L2+/L3 商业级交换机，留有手机号；至今 0 次跟进（尚未回复过该询盘）。",
  "type": "IT 集成/贸易商",
@@ -13,6 +13,27 @@
    "quote": "L2+/L3商业交换机 / from: 自建站；998 90 9767748（用户 Clients 表摘录）",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "公司定位：数字营销代理，2012 年起，CEO",
+   "quote": "Одна из ведущих и успешных компаний на рынке Узбекистана, в сфере Digital-Маркетинга. Наша история начинается с 2012 г. … Пак Максим CEO LATMEDIA",
+   "url": "https://latmedia.uz/about/",
+   "date": "2023-08-28"
+  },
+  {
+   "kind": "黄页",
+   "claim": "法人名、邮箱、地址",
+   "quote": "Legal name: LATMEDIA GROUP ООО … E-mail: Info@latmedia.uz, web@latmedia.uz … Address: Uzbekistan, Tashkent region, Tashkent, Yashnabad district, massif M. RIYOZI … Seo - Optimization, IP (Social Media Marketing) - Promotion",
+   "url": "https://www.yellowpages.uz/en/company/latmedia-group-llc",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "2GIS",
+   "claim": "广告代理分类与地址",
+   "quote": "Latmedia group, рекламное агентство … ООО Latmedia group … Массив Риёзи, 28/2 Риёзи ж/м, Яшнабадский район, Ташкент",
+   "url": "https://2gis.uz/tashkent/firm/70000001036910454",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -22,6 +43,13 @@
    "email": "",
    "phone": "+998 90 976 7748",
    "source": "用户 Clients 表（自建站询盘）"
+  },
+  {
+   "name": "Пак Максим（Maksim Pak）",
+   "role": "CEO LATMEDIA（官网 About）",
+   "email": "info@latmedia.uz（公司公开）",
+   "phone": "+998 90 115 51 00（公司 Telegram）",
+   "source": "https://latmedia.uz/about/"
   }
  ],
  "grade_override": null,
@@ -30,15 +58,20 @@
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1（沿用首轮调研；A 信箱已跟进）"
+  "level": "深挖 v2（官网 + 黄页核对）"
  },
  "company_facts": {
-  "legal_name": "Latmedia Group, LLC",
-  "hq": "Uzbekistan",
-  "other": "IT 集成/贸易商；2025 自建站询盘 L2+/L3 商业级交换机；A 信箱已跟进（用户 T27 说明）"
+  "legal_name": "LATMEDIA GROUP ООО",
+  "hq": "Ташкент, Яшнабадский район, массив Риёзи 28/2（黄页另列 ул. Сайрам 25, 100170）；info@latmedia.uz / web@latmedia.uz；Telegram +998 90 115 51 00",
+  "other": "**数字营销/广告代理公司**（SMM、SEO、投放、网站开发），非网络设备商；CEO Пак Максим（Maksim Pak），创始人 Jahongir Latipov（Webster Univ. 介绍）；网站 2025-09 更新为「LATMEDIA Community」",
+  "founded": "2012",
+  "staff": "≈19（ZoomInfo 口径，待核）"
  },
  "business_lines": [
-  "IT 集成 / 贸易"
+  "IT 集成 / 贸易",
+  "数字营销 / SMM / SEO / 投放",
+  "网站与 Web 开发",
+  "（本次询盘）L2+/L3 商用交换机——用途不明（自用办公/机房或代客户采购）"
  ],
  "products_seen": [
   {
@@ -53,18 +86,23 @@
  "channels": {
   "网站": "https://latmedia.uz/",
   "直邮": "vladimir.xe@latmedia.uz（用户表）",
-  "电话": "用户表留有手机号"
+  "电话": "用户表留有手机号",
+  "邮箱（公开）": "info@latmedia.uz / web@latmedia.uz",
+  "Telegram": "+998 90 115 51 00（Instagram 简介公开）",
+  "Instagram": "https://www.instagram.com/latmedia_agency/（2,181 followers）"
  },
  "signals": [
-  "主动询盘 L2+/L3——需求明确；跟进记录在 A 信箱（待导出）"
+  "主动询盘 L2+/L3——需求明确；跟进记录在 A 信箱（待导出）",
+  "公司主业为营销代理——L2+/L3 交换机询盘更可能是一次性（自建机房/代客户），不是渠道复购（2026-10-21）"
  ],
  "risks": [
-  "乌兹别克斯坦物流/结算；跟进历史未入库"
+  "乌兹别克斯坦物流/结算；跟进历史未入库",
+  "询盘来源与真实需求待核（营销代理公司问交换机可能是代采购或网站开发配套）；A 邮箱已跟进（用户 T27 确认）——下一步仅问「用途与台数」一句，不再多轮"
  ],
  "saga_fit": {
   "p1": "STC-448XGGM(L3)",
   "tier": 25,
   "why": "询盘 L2+/L3：STC-448XGGM(L3)（EXW $485.8 @25%）+ STC-424DGGPM-280W（L2+）；集成商 25% 档"
  },
- "email_hook": "Following up on your L2+/L3 enquiry, the 48-port L3 unit with 10G uplinks and the 24-port L2+ PoE+ model are the two Marvell-based platforms I can quote EXW, with the L3 feature list attached."
+ "email_hook": "Before I send the L2+/L3 managed switch quote you asked about, could you tell me roughly how many ports and whether it is for your own office or a client project, so I pick the right model?"
 }

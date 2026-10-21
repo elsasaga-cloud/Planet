@@ -59,7 +59,7 @@ updated: 2026-10-21
 - **是谁**：莫斯科 IT/电信设备分销商（十余年），Microsens 与 Lenovo 官方合作伙伴、日本住友分销商；供应有源/无源网络设备、服务器与存储、工业以太网、FTTO/Smart Office、SAS/Infiniband 等线缆及定制产品；自有/白牌 SFP 目录（SFP-WDM 系列）；E 渠道 2026 年回复（最新互动）。
 - **类型**：分销商（企业网络 + 工业以太网）
 - **规模**：中小型（待补证）
-- **在卖/在用品牌**：Microsens, Lenovo, Sumitomo, Tyco, Emcore
+- **在卖/在用品牌**：Microsens, Lenovo, Sumitomo, Tyco, Emcore, MICROSENS
 - **【官网】Microsens/Lenovo 官方合作伙伴、Sumitomo 分销商；供应工业以太网、FTTO、定制产品**
   > Компания CCS является официальным партнёром компаний MICROSENS и LENOVO, а также дистрибьютором японской компании SUMITOMO… оборудования промышленного Ethernet, систем FTTO и Smart Office… а также продукции по индивидуальным требованиям
   > 来源：https://www.ccs-msk.ru/about（抓取 2026-10-21）
@@ -69,28 +69,40 @@ updated: 2026-10-21
 - **【官网】首页关键词含 Microsens 工业交换机、工业以太网**
   > промышленные коммутаторы MICROSENS промышленный ethernet 10G XFP CWDM Copper SFP
   > 来源：https://www.ccs-msk.ru/（抓取 2026-10-21）
+- **【官网】合作品牌与业务范围**
+  > Компания CCS является официальным партнёром компаний MICROSENS и LENOVO, а также дистрибьютором японской компании SUMITOMO … оборудования промышленного Ethernet, систем FTTO и Smart Office, кабельной продукции с различными интерфейсами (HDSAS, SAS, SATA, Infiniband и др.) … кабели стандарта SpaceWire
+  > 来源：https://www.ccs-msk.ru/about（抓取 2026-10-21）
+- **【官网】Microsens Entry Line 工业千兆机规格**
+  > 5/8 портовые промышленные Gigabit Ethernet коммутаторы, Entry Line, SFP слот (MS655200X) … до восьми портов RJ-45 и два SFP слота … 5-портовый коммутатор Gigabit Ethernet, 5x 10/100/1000Base-T, диапазон рабочей температуры от -40 до +75°С · MS655200X
+  > 来源：https://www.ccs-msk.ru/catalog/microsens/industrial_ethernet/gigabit_switches/MS6552XX（抓取 2026-10-21）
+- **【官网】地址电话邮箱**
+  > Наши телефоны: (495) 926-86-95, (963) 763-88-43 e-mail: sales@ccs-msk.ru Наш адрес: 107589, г. Москва, ул. Красноярская д.1, корп. 1
+  > 来源：https://www.ccs-msk.ru/contacts（抓取 2026-10-21）
 - **KP**：（见 Clients 表回复签名）（） 〔用户 Clients 表（'回复里有详细联系方式'）〕
 - 备注：2026 年最新回复 + 分销商身份 + 已卖白牌 SFP 与 Microsens 工业交换机（高价德系）→ Saga 的 STI 工业线可作其'性价比替代'补充。俄罗斯收款路径需核。P1：STI-288DGGPM（对位 Microsens 工业 PoE），分销价阶 20%。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 Microsens 目录核对））
 
 | 公司事实 | 内容 |
 |---|---|
 | 法定名称 | CCS（ccs-msk.ru） |
-| 总部/地址 | Moscow, Russia |
-| 其他 | IT/电信设备分销商（十余年）：Microsens 与 Lenovo 官方合作伙伴、住友（Sumitomo）分销；有源/无源网络、服务器存储、工业以太网、FTTO/Smart Office、SAS/Infiniband 线缆与定制产品 |
+| 总部/地址 | 107589, Москва, ул. Красноярская, д.1, корп.1（(495) 926-86-95 / (963) 763-88-43；sales@ccs-msk.ru） |
+| 其他 | MICROSENS（德）与 LENOVO 官方合作伙伴、住友电工分销商；供应有源/无源网络设备、服务器/存储、工业以太网、FTTO / Smart Office、SAS/SATA/Infiniband/SpaceWire 线缆与定制；在售 Microsens 工业机：Entry Line MS655200X（5/8×GE + SFP，-40~75℃，继电器）、Profi Line MS650869M-B（7×FE + 1×GE + 2×1000 SX/LX，铁路/能源）、FiberGuard MS650090 光纤保护开关；注：Microsens 俄罗斯独家工业线分销为 2TEST，CCS 为「官方伙伴」 |
 
-- **业务线**：企业网络 + 工业以太网分销（Microsens 等）；服务器/存储（Lenovo）；光纤/铜缆与定制线缆（Sumitomo、Tyco）
+- **业务线**：企业网络 + 工业以太网分销（Microsens 等）；服务器/存储（Lenovo）；光纤/铜缆与定制线缆（Sumitomo、Tyco）；Microsens 光纤/工业以太网/FTTO 供应；Lenovo 服务器存储、住友光纤；数据中心线缆（SAS/Infiniband/DAC）与定制线
 
 | 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
 |---|---|---|---|---|
 | Microsens（在售） | 工业以太网 / FTTO 微型交换机 | 官方合作伙伴 | STI-288DGGPM / STI-144GP | https://ccs-msk.ru/（2026-10（首轮调研）） |
 | （兴趣） | 工业 FS / SFP / AOC / MC | 很多牌子的 | STI-110GE | （本地 Clients/ 表格，无公开 URL）（用户表） |
+| MICROSENS | MS655200X（Entry Line） | 5/8×10/100/1000 + SFP 槽，-40~75℃，冗余电源，继电器，即插即用 | STI-288DGGPM / STI-144GP（PoE 版；非 PoE 需核） | https://www.ccs-msk.ru/catalog/microsens/industrial_ethernet/gigabit_switches/MS6552XX（2026-10-21） |
+| MICROSENS | MS650869M-B（Profi Line） | 10 口：7×FE + 1×GE + 2×1000Base-SX/LX，铁路/能源（守界：铁路不供） | —（铁路用途不对位） | https://www.ccs-msk.ru/catalog/microsens/industrial_ethernet/gigabit_switches/MS650869（2026-10-21） |
 
-- **触达通道（公开）**：网站: https://ccs-msk.ru/；直邮: pkarpov@ccs-msk.ru（用户表）
+- **触达通道（公开）**：网站: https://www.ccs-msk.ru/；直邮: pkarpov@ccs-msk.ru（用户表）；电话: +7 495 926-86-95 / +7 963 763-88-43（官网公开）；邮箱（公开）: sales@ccs-msk.ru
 - **近况信号**：
   - Microsens（德系高价工业/FTTO）在俄供货受限——低价替代位空出（推断，待补证）
-- **风险/边界**：俄罗斯结算/制裁合规由客户侧；Microsens 级客户对功能（环网/管理）要求高
+  - 德系 Microsens 在俄供货受限（制裁/物流）——Entry Line 入门工业千兆位是白牌 Marvell 替代的切口；Profi Line 铁路/能源位不碰（2026-10-21）
+- **风险/边界**：俄罗斯结算/制裁合规由客户侧；Microsens 级客户对功能（环网/管理）要求高；铁路/能源项目为其 Microsens 主场——只对位 Entry Line 通用工业机，不参与铁路（EN50155）与能源站级项目
 - **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——Microsens 工业/FTTO 位的低价替代：STI-288DGGPM（8+2 管理）+ STI-144GP；MC 位 STI-110GE；分销 20% 档
 - **邮件切入句（英文）**：For the industrial and FTTO positions where a Microsens unit is now hard to source, the Marvell-based 8-port gigabit PoE + 2 SFP managed DIN switch and the 4+1 compact model are the two EXW prices I am sending.
 

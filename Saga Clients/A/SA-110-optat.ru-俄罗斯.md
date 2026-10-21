@@ -21,7 +21,7 @@ replies: 18
 followups: 20
 first_contact: 2023-12-09
 last_contact: 2025-08-12
-p1: STC-28DGGPM
+p1: STC-424DGGPM-280W
 price_tier: 20%
 research: done
 sources: 3
@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：莫斯科的电子招投标供货公司（通过电子交易平台参与投标，向俄企业集中供应非食品类商品，ОКВЭД 51.53 批发），执行总裁为用户标注'比较重要'的 KP；长期互动极强：20 次跟进中 18 次回复。（调研 2026-10-21；表内兴趣：比较重要！；招投标公司执行总裁）
 - **为什么是 A 级**：+30 实质回复 18 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+15 AI/Claude 评估 A；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
 - **历史互动**：实质回复 18 次；WhatsApp 已加；推送 20 次（2023-12-09 → 2025-08-12）；最近一次客户回复：2025-07-18：Whatsapp
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：按标书对位，常见接入层：STC-28DGGPM / STC-424DGGPM-280W / STI-288DGGPM；贸易 20% 档；公共/军方标不供；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：招标供货商按标书口型临时询价：主力 STC-424DGGPM-280W / STC-28DGGPM 商用管理型；分销 20% 档但 100% 预付、不议账期；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -75,29 +75,42 @@ updated: 2026-10-21
 - **【官网】地址/电话/Skype 与用户记录一致（skype optainfo）**
   > г.Москва, 1-й Красносельский, д.3… Телефон: (495) 744-37-78… Email: info@optat.ru… Skype: optainfo… ИНН 7708768402
   > 来源：https://www.optat.ru/（抓取 2026-10-21）
+- **【官网】公司使命与地址电话**
+  > Миссия компании: Организация и проведение качественных централизованных поставок непродовольственных групп товаров на предприятия и компании Российской Федерации, через электронные торговые площадки … г.Москва, 1-й Красносельский, д.3 пом.1, комн.79 - Телефон: (495) 744-37-78 - Email: info@optat.ru … ИНН 7708768402
+  > 来源：https://www.optat.ru/（抓取 2026-10-21）
+- **【官网】对供应商的条件（最低价、预付/账期）**
+  > Наша компания занимается комплектацией государственных корпораций. Является аккредитованным поставщиком … От вас ожидаем получить минимальные цены, варианты по работе с предоплатой, с частичной предоплатой (остальное по факту отгрузки Заказчику), отсрочку платежа.
+  > 来源：http://www.optat.ru/?page=distributor（抓取 2026-10-21）
+- **【注册/司法】1 人公司、执行程序与政采记录**
+  > Численность сотрудников стабильна на уровне одного человека на протяжении последних семи лет … Исполнительные производства … Производств 16 … На сумму 23 млн руб. Остаток задолженности 9,8 млн руб. … Госзакупки В роли: Поставщика 50 закупок на сумму 27 млн руб. 34 контракта заключено на сумму 14 млн руб.
+  > 来源：https://www.rusprofile.ru/id/5955596（抓取 2026-10-21）
 - **KP**：（执行总裁，见 Clients 表）（招投标公司执行总裁（用户记录））info@optat.ru +7 925 744 3778 / Skype optainfo〔用户 Clients 表 + 官网〕
+- **KP**：Елизаров Николай Николаевич（Nikolay N. Elizarov）（Генеральный директор / 唯一股东（注册信息；用户表「执行总裁」即此人））info@optat.ru（公司公开） +7 495 744-37-78〔https://www.rusprofile.ru/id/5955596〕
 - 备注：18 次回复 = 全库最活跃联系人之一，但业务模式是按标书逐单采购（品类随标书变化，非持续同品类）。价值在于'每次标书涉及交换机时第一时间报价'。俄罗斯收款路径需核。P1 随标书；默认 STC-424DGGPM-280W，分销/投标价阶 20%。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + 注册/司法信息核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | ООО «ОПТА»（optat.ru） |
-| 总部/地址 | Moscow, Russia |
-| 其他 | 电子招投标集中供货公司（ОКВЭД 51.53 批发）；执行总裁为 KP；20 次跟进 18 次回复 |
+| 法定名称 | ООО «Опта»（ИНН 7708768402，ОГРН 1127746631814） |
+| 成立 | 2012-08-15 |
+| 总部/地址 | 107140, Москва, 1-й Красносельский пер., д.3, пом.I, ком.79（(495) 744-37-78；info@optat.ru） |
+| 人数 | 1（连续 7 年）；总经理兼唯一股东 Елизаров Николай Николаевич |
+| 其他 | 电子招投标集中供货公司：「为国有公司配套、经认证供应商」，向生产商/大贸易商征集最低价 + 预付/部分预付/账期；政采记录：作为供应商参与 50 次采购（2,700 万 ₽）、签 34 份合同（1,400 万 ₽），投标 294 次 / 2.05 亿 ₽；**执行程序 16 项、累计 2,300 万 ₽，未清偿 980 万 ₽（rusprofile）** |
 
-- **业务线**：电子平台招投标供货（非食品类集中采购）
+- **业务线**：电子平台招投标供货（非食品类集中采购）；电子招投标集中供货（非食品类，国有企业/公司）；向供应商反向询价（要求最低价与账期）
 
 | 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
 |---|---|---|---|---|
 | （招标项目） | 按标书品类（交换机/MC 等） | 按单询价 | 按标书对位 | （本地 Clients/ 表格，无公开 URL）（用户表） |
 
-- **触达通道（公开）**：网站: https://optat.ru/；直邮: info@optat.ru（用户表）
+- **触达通道（公开）**：网站: https://www.optat.ru/；直邮: info@optat.ru（用户表）；电话: +7 495 744-37-78（官网公开）；邮箱（公开）: info@optat.ru
 - **近况信号**：
   - 18/20 回复率——极高互动；执行总裁直接对接
-- **风险/边界**：招投标供货多为公共采购——守界：不介入俄罗斯公共/军方标；只供商业标；俄罗斯结算
-- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——按标书对位，常见接入层：STC-28DGGPM / STC-424DGGPM-280W / STI-288DGGPM；贸易 20% 档；公共/军方标不供
-- **邮件切入句（英文）**：For tender lots that call for access-layer PoE switches or media converters, send me the line items and I will return EXW prices on the Marvell-based 8- and 24-port PoE+ managed units within one working day.
+  - 需求随招标而来、非经销复购；询价时会要求最低价与账期——只按 EXW 现价、100% 预付报
+- **风险/边界**：招投标供货多为公共采购——守界：不介入俄罗斯公共/军方标；只供商业标；俄罗斯结算；**付款风险**：1 人公司、16 项执行程序、未清偿 980 万 ₽（2026-10-21 rusprofile）→ 只接受 100% 预付，不给账期；**公共部门守界**：客户为国有公司配套，若标的为政府/国企项目按 INH 公共部门规则只供通用商用型号、不做定制
+- **Saga 对位结论**：P1 STC-424DGGPM-280W（20% 档）——招标供货商按标书口型临时询价：主力 STC-424DGGPM-280W / STC-28DGGPM 商用管理型；分销 20% 档但 100% 预付、不议账期
+- **邮件切入句（英文）**：For tender-driven lots I can hold EXW pricing for 15 days on the 8- and 24-port PoE+ managed switches with full CE/RoHS files, on 100% prepayment, so your bid sheet has a firm number.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -143,6 +156,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Елизаров Николай Николаевич（Nikolay N. Elizarov） | Генеральный директор / 唯一股东（注册信息；用户表「执行总裁」即此人） | info@optat.ru（公司公开） / +7 495 744-37-78 | 调研核实（公开页） | https://www.rusprofile.ru/id/5955596 |
 | Nikolay Elizarov | — | info@optat.ru / +79257443778 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
@@ -161,17 +175,18 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：按标书对位，常见接入层：STC-28DGGPM / STC-424DGGPM-280W / STI-288DGGPM；贸易 20% 档；公共/军方标不供 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（招投标供货商/贸易商） |
-| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-424DGGPM-280W | 深挖对位：招标供货商按标书口型临时询价：主力 STC-424DGGPM-280W / STC-28DGGPM 商用管理型；分销 20% 档但 100% 预付、不议账期 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（招投标供货商/贸易商） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-28DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424DGGPM-280W 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
@@ -181,7 +196,7 @@ updated: 2026-10-21
 
 - **S**：有 18 次实质回复（对方认识我们）；WhatsApp 直达
 - **W**：俄语区：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源；规模（调研）：小型（待补证）
+- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源；规模（调研）：小型（待补证）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -209,14 +224,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
 
 ```text
 Hi Nikolay,
 
-Picking up our earlier exchange about PoE / industrial switches. For tender lots that call for access-layer PoE switches or media converters, send me the line items and I will return EXW prices on the Marvell-based 8- and 24-port PoE+ managed units within one working day.
+Picking up our earlier exchange about PoE / industrial switches. For tender-driven lots I can hold EXW pricing for 15 days on the 8- and 24-port PoE+ managed switches with full CE/RoHS files, on 100% prepayment, so your bid sheet has a firm number.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your （招标项目） 按标书品类（交换机/MC 等） at a lower landed cost, and we can ship it with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as your （招标项目） 按标书品类（交换机/MC 等） at a lower landed cost, and we can ship it with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

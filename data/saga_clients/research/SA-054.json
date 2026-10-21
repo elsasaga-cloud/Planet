@@ -7,7 +7,8 @@
  "size": "个体经营（小型）",
  "brands_seen": [
   "SVN",
-  "HRUI(洪瑞)"
+  "HRUI(洪瑞)",
+  "SVN（自有标）"
  ],
  "evidence": [
   {
@@ -21,6 +22,27 @@
    "kind": "官网",
    "claim": "有批发栏目与自有 SVN 型号",
    "quote": "Оптовикам … Уличная камера IP SVN-800SBA20MPOE 2,8мм 8Мп · SVN-Дача-4 на 4 уличные камеры 5Мп",
+   "url": "https://svn-video.ru/catalog",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网网店",
+   "claim": "SVN 自有标 PoE 设备与价格",
+   "quote": "POE коммутатор SVN-POE48V1A 1080 ₽ … POE коммутатор SVN-POE412 3150 ₽ … POE коммутатор SVN-POE812 4120 ₽",
+   "url": "https://svn-video.ru/poe-oborudovanie",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网网店",
+   "claim": "SVN-POE1612 口型",
+   "quote": "SVN-POE1612 … POE порты 16 портов 10/100M PoE 2 порта 1000M Ethernet Uplink 1 порт 1000M SFP · Коммутационная способность: 9.2Gbps",
+   "url": "https://svn-video.ru/poe-oborudovanie/poe-kommutator-svn-poe1612",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "地址 / 电话 / 邮箱",
+   "quote": "8-800-600-72-59 - 8-903-636-46-70 - svnshop@yandex.ru , zakaz@svn-video.ru - 248000, г. Калуга, ул. Марата, 5",
    "url": "https://svn-video.ru/catalog",
    "date": "2026-10-21"
   }
@@ -38,17 +60,19 @@
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1（沿用首轮调研）"
+  "level": "深挖 v2（官网网店自有标 SVN 目录核对）"
  },
  "company_facts": {
   "legal_name": "SVN（svn-video.ru，ИП Криволуцкая Ю.В.）",
-  "hq": "Kaluga, Russia",
-  "other": "视频监控网店 + 安装商，自有 SVN 品牌摄像机/套装，批发栏目；用户表：用 HRUI（洪瑞）商业 PoE，自己的型号"
+  "hq": "248000, г. Калуга, ул. Марата, д. 5（+7 903 810-33-33 / +7 903 636-46-70 / 8-800-600-72-59；zakaz@svn-video.ru、svnshop@yandex.ru）",
+  "other": "自有标 SVN 全线：IP 摄像机（SVN-200SL20HF 2MP 5,800 ₽、SVN-800SBA20MPOE 8MP 11,350 ₽）、套装（SVN-Дача-4 27,000 ₽）、NVR（SVN-NVRC830POE 9ch/8 PoE）、**PoE 交换机 SVN-POE412（4 FE PoE+2 上联，3,150 ₽）/ SVN-POE812（8 FE PoE+2 上联，4,120 ₽）/ SVN-POE1612（16 FE PoE+2 GE+1 SFP）/ SVN-POE48V1A（1,080 ₽）**、PoE 分离器/注入器；设「Оптовикам」批发栏目；卡卢加本地安装"
  },
  "business_lines": [
   "SVN 品牌摄像机/套装",
   "商用 PoE 交换机（HRUI 来源，自有型号）",
-  "安装与批发"
+  "安装与批发",
+  "自有标 SVN 摄像机 / NVR / PoE 交换机 网店（零售 + 批发）",
+  "卡卢加州安装"
  ],
  "products_seen": [
   {
@@ -58,23 +82,52 @@
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "用户表",
    "saga": "STC-28DGGPM（Marvell 升级位）/ 或 HRUI 同款经 Saga 供"
+  },
+  {
+   "brand": "SVN（自有标）",
+   "model": "SVN-POE812",
+   "spec": "8×10/100 PoE + 2×10/100 上联，AI PoE，af/at；零售 4,120 ₽",
+   "url": "https://svn-video.ru/poe-oborudovanie/poe-kommutator-svn-poe812-",
+   "date": "2026-10-21",
+   "saga": "STC-28DGGPM（千兆管理升级位；价位敏感 → 亦可按 HRUI 源 Realtek 商用款对位，见 hrui_STC 对照表，需标注）"
+  },
+  {
+   "brand": "SVN（自有标）",
+   "model": "SVN-POE412",
+   "spec": "4×10/100 PoE + 2 上联，AC 内置电源；3,150 ₽",
+   "url": "https://svn-video.ru/catalog/poe-oborudovanie/poe",
+   "date": "2026-10-21",
+   "saga": "STI-144GP（工业位，不主推）"
+  },
+  {
+   "brand": "SVN（自有标）",
+   "model": "SVN-POE1612",
+   "spec": "16×10/100 PoE + 2×1000 上联 + 1 SFP，9.2 Gbps",
+   "url": "https://svn-video.ru/poe-oborudovanie/poe-kommutator-svn-poe1612",
+   "date": "2026-10-21",
+   "saga": "STI-21616GP（千兆升级位）"
   }
  ],
  "channels": {
   "网站": "https://svn-video.ru/",
-  "直邮": "zakaz@svn-video.ru（用户表）"
+  "直邮": "zakaz@svn-video.ru（用户表）",
+  "网站/网店": "https://svn-video.ru/（含 Оптовикам 批发页）",
+  "电话": "+7 903 810-33-33 / 8-800-600-72-59（官网公开）",
+  "邮箱（公开）": "zakaz@svn-video.ru / svnshop@yandex.ru"
  },
  "signals": [
-  "已从 Saga 辅线供应商 HRUI 采购——Saga 可按 HRUI 对照表直接报同款（data/hrui_STC对照表.csv）或升级 Marvell 款"
+  "已从 Saga 辅线供应商 HRUI 采购——Saga 可按 HRUI 对照表直接报同款（data/hrui_STC对照表.csv）或升级 Marvell 款",
+  "自有标 SVN PoE 交换机全系为百兆、零售 3–4 千卢布——极度价位敏感；千兆 Marvell 款只能作「SVN 千兆高端位」少量试单（2026-10-21）"
  ],
  "risks": [
   "个体经营者，量小；俄罗斯结算",
-  "HRUI 直供价 vs Saga 加价——需以服务/组合（摄像机配套 PoE）取胜"
+  "HRUI 直供价 vs Saga 加价——需以服务/组合（摄像机配套 PoE）取胜",
+  "个体经营 + 百兆低价位——单量与毛利双低；若千兆位不接受，转 HRUI 源 Realtek 款（标注）或按 B 节奏"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "商用 8 口 PoE 自有型号：STC-28DGGPM（Marvell 管理型）为升级位；也可按 HRUI 对照表报同规格；电商 20% 档"
+  "tier": 30,
+  "why": "自有标 SVN-POE812（8 FE PoE）千兆管理升级 = STC-28DGGPM，按 SVN 命名 OEM 30%；SVN-POE1612 位 = STI-21616GP；价位不接受则改 HRUI 源 Realtek 商用款（需标注非 Saga 主线）"
  },
- "email_hook": "For the 8-port PoE model you sell under the SVN name, I can quote the same footprint on a Marvell core as a managed upgrade, or the Realtek-based version you are used to, both in your own packing at EXW."
+ "email_hook": "Your SVN-POE812 and POE1612 are fast-Ethernet; a gigabit Marvell-based 8-port PoE+ with 2 SFP in SVN packing would give the range a top SKU for 4K cameras, EXW, MOQ 1 for a trial batch."
 }

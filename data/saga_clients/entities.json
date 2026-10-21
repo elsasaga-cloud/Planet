@@ -19900,7 +19900,8 @@
 "size": "个体经营（小型）",
 "brands_seen": [
 "SVN",
-"HRUI(洪瑞)"
+"HRUI(洪瑞)",
+"SVN（自有标）"
 ],
 "evidence": [
 {
@@ -19914,6 +19915,27 @@
 "kind": "官网",
 "claim": "有批发栏目与自有 SVN 型号",
 "quote": "Оптовикам … Уличная камера IP SVN-800SBA20MPOE 2,8мм 8Мп · SVN-Дача-4 на 4 уличные камеры 5Мп",
+"url": "https://svn-video.ru/catalog",
+"date": "2026-10-21"
+},
+{
+"kind": "官网网店",
+"claim": "SVN 自有标 PoE 设备与价格",
+"quote": "POE коммутатор SVN-POE48V1A 1080 ₽ … POE коммутатор SVN-POE412 3150 ₽ … POE коммутатор SVN-POE812 4120 ₽",
+"url": "https://svn-video.ru/poe-oborudovanie",
+"date": "2026-10-21"
+},
+{
+"kind": "官网网店",
+"claim": "SVN-POE1612 口型",
+"quote": "SVN-POE1612 … POE порты 16 портов 10/100M PoE 2 порта 1000M Ethernet Uplink 1 порт 1000M SFP · Коммутационная способность: 9.2Gbps",
+"url": "https://svn-video.ru/poe-oborudovanie/poe-kommutator-svn-poe1612",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "地址 / 电话 / 邮箱",
+"quote": "8-800-600-72-59 - 8-903-636-46-70 - svnshop@yandex.ru , zakaz@svn-video.ru - 248000, г. Калуга, ул. Марата, 5",
 "url": "https://svn-video.ru/catalog",
 "date": "2026-10-21"
 }
@@ -19931,17 +19953,19 @@
 "researched_at": "2026-10-21",
 "deep": {
 "done_at": "2026-10-21",
-"level": "深挖 v1（沿用首轮调研）"
+"level": "深挖 v2（官网网店自有标 SVN 目录核对）"
 },
 "company_facts": {
 "legal_name": "SVN（svn-video.ru，ИП Криволуцкая Ю.В.）",
-"hq": "Kaluga, Russia",
-"other": "视频监控网店 + 安装商，自有 SVN 品牌摄像机/套装，批发栏目；用户表：用 HRUI（洪瑞）商业 PoE，自己的型号"
+"hq": "248000, г. Калуга, ул. Марата, д. 5（+7 903 810-33-33 / +7 903 636-46-70 / 8-800-600-72-59；zakaz@svn-video.ru、svnshop@yandex.ru）",
+"other": "自有标 SVN 全线：IP 摄像机（SVN-200SL20HF 2MP 5,800 ₽、SVN-800SBA20MPOE 8MP 11,350 ₽）、套装（SVN-Дача-4 27,000 ₽）、NVR（SVN-NVRC830POE 9ch/8 PoE）、**PoE 交换机 SVN-POE412（4 FE PoE+2 上联，3,150 ₽）/ SVN-POE812（8 FE PoE+2 上联，4,120 ₽）/ SVN-POE1612（16 FE PoE+2 GE+1 SFP）/ SVN-POE48V1A（1,080 ₽）**、PoE 分离器/注入器；设「Оптовикам」批发栏目；卡卢加本地安装"
 },
 "business_lines": [
 "SVN 品牌摄像机/套装",
 "商用 PoE 交换机（HRUI 来源，自有型号）",
-"安装与批发"
+"安装与批发",
+"自有标 SVN 摄像机 / NVR / PoE 交换机 网店（零售 + 批发）",
+"卡卢加州安装"
 ],
 "products_seen": [
 {
@@ -19951,25 +19975,54 @@
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "用户表",
 "saga": "STC-28DGGPM（Marvell 升级位）/ 或 HRUI 同款经 Saga 供"
+},
+{
+"brand": "SVN（自有标）",
+"model": "SVN-POE812",
+"spec": "8×10/100 PoE + 2×10/100 上联，AI PoE，af/at；零售 4,120 ₽",
+"url": "https://svn-video.ru/poe-oborudovanie/poe-kommutator-svn-poe812-",
+"date": "2026-10-21",
+"saga": "STC-28DGGPM（千兆管理升级位；价位敏感 → 亦可按 HRUI 源 Realtek 商用款对位，见 hrui_STC 对照表，需标注）"
+},
+{
+"brand": "SVN（自有标）",
+"model": "SVN-POE412",
+"spec": "4×10/100 PoE + 2 上联，AC 内置电源；3,150 ₽",
+"url": "https://svn-video.ru/catalog/poe-oborudovanie/poe",
+"date": "2026-10-21",
+"saga": "STI-144GP（工业位，不主推）"
+},
+{
+"brand": "SVN（自有标）",
+"model": "SVN-POE1612",
+"spec": "16×10/100 PoE + 2×1000 上联 + 1 SFP，9.2 Gbps",
+"url": "https://svn-video.ru/poe-oborudovanie/poe-kommutator-svn-poe1612",
+"date": "2026-10-21",
+"saga": "STI-21616GP（千兆升级位）"
 }
 ],
 "channels": {
 "网站": "https://svn-video.ru/",
-"直邮": "zakaz@svn-video.ru（用户表）"
+"直邮": "zakaz@svn-video.ru（用户表）",
+"网站/网店": "https://svn-video.ru/（含 Оптовикам 批发页）",
+"电话": "+7 903 810-33-33 / 8-800-600-72-59（官网公开）",
+"邮箱（公开）": "zakaz@svn-video.ru / svnshop@yandex.ru"
 },
 "signals": [
-"已从 Saga 辅线供应商 HRUI 采购——Saga 可按 HRUI 对照表直接报同款（data/hrui_STC对照表.csv）或升级 Marvell 款"
+"已从 Saga 辅线供应商 HRUI 采购——Saga 可按 HRUI 对照表直接报同款（data/hrui_STC对照表.csv）或升级 Marvell 款",
+"自有标 SVN PoE 交换机全系为百兆、零售 3–4 千卢布——极度价位敏感；千兆 Marvell 款只能作「SVN 千兆高端位」少量试单（2026-10-21）"
 ],
 "risks": [
 "个体经营者，量小；俄罗斯结算",
-"HRUI 直供价 vs Saga 加价——需以服务/组合（摄像机配套 PoE）取胜"
+"HRUI 直供价 vs Saga 加价——需以服务/组合（摄像机配套 PoE）取胜",
+"个体经营 + 百兆低价位——单量与毛利双低；若千兆位不接受，转 HRUI 源 Realtek 款（标注）或按 B 节奏"
 ],
 "saga_fit": {
 "p1": "STC-28DGGPM",
-"tier": 20,
-"why": "商用 8 口 PoE 自有型号：STC-28DGGPM（Marvell 管理型）为升级位；也可按 HRUI 对照表报同规格；电商 20% 档"
+"tier": 30,
+"why": "自有标 SVN-POE812（8 FE PoE）千兆管理升级 = STC-28DGGPM，按 SVN 命名 OEM 30%；SVN-POE1612 位 = STI-21616GP；价位不接受则改 HRUI 源 Realtek 商用款（需标注非 Saga 主线）"
 },
-"email_hook": "For the 8-port PoE model you sell under the SVN name, I can quote the same footprint on a Marvell core as a managed upgrade, or the Realtek-based version you are used to, both in your own packing at EXW."
+"email_hook": "Your SVN-POE812 and POE1612 are fast-Ethernet; a gigabit Marvell-based 8-port PoE+ with 2 SFP in SVN packing would give the range a top SKU for 4K cameras, EXW, MOQ 1 for a trial batch."
 }
 },
 {
@@ -32209,7 +32262,9 @@
 "type": "多品牌贸易商/分销",
 "size": "待补证",
 "brands_seen": [
-"多家国内品牌（用户记录）"
+"多家国内品牌（用户记录）",
+"SNR",
+"NSGate"
 ],
 "evidence": [
 {
@@ -32217,6 +32272,34 @@
 "claim": "卖多品牌 MC/SFP/VC/FS；5 次回复 / 39 次跟进；地址圣彼得堡 Mebelnaya 12",
 "quote": "有很多牌子的产品 卖别人的MC SFP VC FS / 国内好几个牌子的；Address: 197374, St. Petersburg, Mebelnaya str., 12（用户 Clients 表摘录）",
 "url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "注册",
+"claim": "法人、注册日、负责人、规模",
+"quote": "ООО «Борн СПБ» зарегистрировано 17 апреля 2009 года в Санкт-Петербурге … оптовой торговли электронным и телекоммуникационным оборудованием … генеральным директором с момента основания является Сергей Иванович Федотов, он же выступает единственным учредителем … ИНН/КПП: 7841406851",
+"url": "https://www.rusprofile.ru/id/2395878",
+"date": "2026-10-21"
+},
+{
+"kind": "注册",
+"claim": "员工数与 2025 利润",
+"quote": "Численность персонала: · 9 … За 2025 год прибыль компании составила 1474 тыс.",
+"url": "https://www.list-org.com/company/5674467",
+"date": "2026-10-21"
+},
+{
+"kind": "网店",
+"claim": "品类与联系方式",
+"quote": "Сетевое оборудование Коммутаторы Маршрутизаторы Медиаконвертеры SFP модули SFP-трансиверы PoE-инжекторы Точки доступа Телекоммуникационные шкафы … Телефон: · 8 (800) 302-15-41 Электронная почта: · sales@born-spb.ru Санкт-Петербург Москва Екатеринбург Пермь",
+"url": "https://born-shop.ru/",
+"date": "2026-10-21"
+},
+{
+"kind": "伙伴名录",
+"claim": "SNR 官方合作伙伴与地址",
+"quote": "ООО «Борн СПб» Адрес: 192236, г. Санкт-Петербург, ул. Софийская, дом 8, кор. 1",
+"url": "https://snr.systems/ru/partners/ooo-born-spb",
 "date": "2026-10-21"
 }
 ],
@@ -32227,6 +32310,13 @@
 "email": "",
 "phone": "",
 "source": "用户 Clients 表"
+},
+{
+"name": "Федотов Сергей Иванович（Sergey I. Fedotov）",
+"role": "Генеральный директор / 唯一股东（注册信息）",
+"email": "sales@born-spb.ru（公司公开）",
+"phone": "+7 812 458-85-86",
+"source": "https://www.rusprofile.ru/id/2395878"
 }
 ],
 "grade_override": null,
@@ -32235,15 +32325,20 @@
 "researched_at": "2026-10-21",
 "deep": {
 "done_at": "2026-10-21",
-"level": "深挖 v1（沿用首轮调研）"
+"level": "深挖 v2（注册信息 + 网店 + 伙伴名录核对）"
 },
 "company_facts": {
-"legal_name": "Born SPb LLC（ООО «Борн СПб»）",
-"hq": "Saint Petersburg, Russia",
-"other": "多品牌网络产品贸易商（MC/SFP/VC/FS，多家国内品牌）"
+"legal_name": "ООО «Борн СПб»（ИНН 7841406851，ОГРН 1097847113814）",
+"hq": "192236, Санкт-Петербург, ул. Софийская, д. 8, корп. 1（+7 812 458-85-86；8 800 302-15-41；sales@born-spb.ru）；另列 Москва / Екатеринбург / Пермь",
+"other": "电子与电信设备批发（ОКВЭД 46.5x）；网店 born-shop.ru / born-spb.ru：交换机、路由器、MC、SFP/SFP+/QSFP、PoE 注入器、AP、机柜/热柜、KVM、防火墙、光缆；SNR.SYSTEMS 官方合作伙伴（SNR = 俄罗斯 NAG 自有标）；在售 NSGate NFG-SFP MC 2,200 ₽",
+"founded": "2009-04-17",
+"staff": "9（list-org）；2025 年利润 147.4 万 ₽；注册资本 10 万 ₽；总经理兼唯一股东 Федотов Сергей Иванович"
 },
 "business_lines": [
-"MC / SFP / VC / FS 多品牌贸易"
+"MC / SFP / VC / FS 多品牌贸易",
+"网络设备/光模块/MC 批发与网店（SNR、NSGate 等多品牌）",
+"机柜/热柜/KVM/光缆",
+"B2B 对公结算（безналичная оплата）"
 ],
 "products_seen": [
 {
@@ -32253,17 +32348,31 @@
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "用户表",
 "saga": "STI-110GE / STC-28DGGPM"
+},
+{
+"brand": "NSGate",
+"model": "NFG-SFP",
+"spec": "千兆 SFP 媒体转换器，2,200 ₽，12 个月保",
+"url": "https://born-shop.ru/catalog/136567.html",
+"date": "2026-10-21",
+"saga": "STI-110GE（SFP 版需核）"
 }
 ],
 "channels": {
 "网站": "https://born-spb.ru/",
-"直邮": "sales@born-spb.ru（用户表）"
+"直邮": "sales@born-spb.ru（用户表）",
+"网站/网店": "https://born-shop.ru/ / https://www.born-spb.ru/",
+"电话": "+7 812 458-85-86 / 8 800 302-15-41（官网公开）",
+"邮箱（公开）": "sales@born-spb.ru",
+"伙伴名录": "https://snr.systems/ru/partners/ooo-born-spb"
 },
 "signals": [
-"39 次跟进 5 次实质回复（最近 2025）——长期活跃"
+"39 次跟进 5 次实质回复（最近 2025）——长期活跃",
+"多品牌小型批发商（9 人）、SNR 伙伴——MC/SFP 为走量品类；Saga MC（STI-110GE）与 SFP/工业机可作白牌补充（2026-10-21）"
 ],
 "risks": [
-"俄罗斯结算；多品牌比价"
+"俄罗斯结算；多品牌比价",
+"规模小（9 人、年利 ≈1.5M ₽）——单笔金额有限；39 次跟进 5 次实质回复，保持低频"
 ],
 "saga_fit": {
 "p1": "STI-110GE",
@@ -39748,6 +39857,27 @@
 "quote": "г.Москва, 1-й Красносельский, д.3… Телефон: (495) 744-37-78… Email: info@optat.ru… Skype: optainfo… ИНН 7708768402",
 "url": "https://www.optat.ru/",
 "date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "公司使命与地址电话",
+"quote": "Миссия компании: Организация и проведение качественных централизованных поставок непродовольственных групп товаров на предприятия и компании Российской Федерации, через электронные торговые площадки … г.Москва, 1-й Красносельский, д.3 пом.1, комн.79 - Телефон: (495) 744-37-78 - Email: info@optat.ru … ИНН 7708768402",
+"url": "https://www.optat.ru/",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "对供应商的条件（最低价、预付/账期）",
+"quote": "Наша компания занимается комплектацией государственных корпораций. Является аккредитованным поставщиком … От вас ожидаем получить минимальные цены, варианты по работе с предоплатой, с частичной предоплатой (остальное по факту отгрузки Заказчику), отсрочку платежа.",
+"url": "http://www.optat.ru/?page=distributor",
+"date": "2026-10-21"
+},
+{
+"kind": "注册/司法",
+"claim": "1 人公司、执行程序与政采记录",
+"quote": "Численность сотрудников стабильна на уровне одного человека на протяжении последних семи лет … Исполнительные производства … Производств 16 … На сумму 23 млн руб. Остаток задолженности 9,8 млн руб. … Госзакупки В роли: Поставщика 50 закупок на сумму 27 млн руб. 34 контракта заключено на сумму 14 млн руб.",
+"url": "https://www.rusprofile.ru/id/5955596",
+"date": "2026-10-21"
 }
 ],
 "kp": [
@@ -39757,6 +39887,13 @@
 "email": "info@optat.ru",
 "phone": "+7 925 744 3778 / Skype optainfo",
 "source": "用户 Clients 表 + 官网"
+},
+{
+"name": "Елизаров Николай Николаевич（Nikolay N. Elizarov）",
+"role": "Генеральный директор / 唯一股东（注册信息；用户表「执行总裁」即此人）",
+"email": "info@optat.ru（公司公开）",
+"phone": "+7 495 744-37-78",
+"source": "https://www.rusprofile.ru/id/5955596"
 }
 ],
 "grade_override": null,
@@ -39765,15 +39902,19 @@
 "researched_at": "2026-10-21",
 "deep": {
 "done_at": "2026-10-21",
-"level": "深挖 v1（沿用首轮调研）"
+"level": "深挖 v2（官网 + 注册/司法信息核对）"
 },
 "company_facts": {
-"legal_name": "ООО «ОПТА»（optat.ru）",
-"hq": "Moscow, Russia",
-"other": "电子招投标集中供货公司（ОКВЭД 51.53 批发）；执行总裁为 KP；20 次跟进 18 次回复"
+"legal_name": "ООО «Опта»（ИНН 7708768402，ОГРН 1127746631814）",
+"hq": "107140, Москва, 1-й Красносельский пер., д.3, пом.I, ком.79（(495) 744-37-78；info@optat.ru）",
+"other": "电子招投标集中供货公司：「为国有公司配套、经认证供应商」，向生产商/大贸易商征集最低价 + 预付/部分预付/账期；政采记录：作为供应商参与 50 次采购（2,700 万 ₽）、签 34 份合同（1,400 万 ₽），投标 294 次 / 2.05 亿 ₽；**执行程序 16 项、累计 2,300 万 ₽，未清偿 980 万 ₽（rusprofile）**",
+"founded": "2012-08-15",
+"staff": "1（连续 7 年）；总经理兼唯一股东 Елизаров Николай Николаевич"
 },
 "business_lines": [
-"电子平台招投标供货（非食品类集中采购）"
+"电子平台招投标供货（非食品类集中采购）",
+"电子招投标集中供货（非食品类，国有企业/公司）",
+"向供应商反向询价（要求最低价与账期）"
 ],
 "products_seen": [
 {
@@ -39786,22 +39927,26 @@
 }
 ],
 "channels": {
-"网站": "https://optat.ru/",
-"直邮": "info@optat.ru（用户表）"
+"网站": "https://www.optat.ru/",
+"直邮": "info@optat.ru（用户表）",
+"电话": "+7 495 744-37-78（官网公开）",
+"邮箱（公开）": "info@optat.ru"
 },
 "signals": [
-"18/20 回复率——极高互动；执行总裁直接对接"
+"18/20 回复率——极高互动；执行总裁直接对接",
+"需求随招标而来、非经销复购；询价时会要求最低价与账期——只按 EXW 现价、100% 预付报"
 ],
 "risks": [
 "招投标供货多为公共采购——守界：不介入俄罗斯公共/军方标；只供商业标",
-"俄罗斯结算"
+"俄罗斯结算",
+"**付款风险**：1 人公司、16 项执行程序、未清偿 980 万 ₽（2026-10-21 rusprofile）→ 只接受 100% 预付，不给账期；**公共部门守界**：客户为国有公司配套，若标的为政府/国企项目按 INH 公共部门规则只供通用商用型号、不做定制"
 ],
 "saga_fit": {
-"p1": "STC-28DGGPM",
+"p1": "STC-424DGGPM-280W",
 "tier": 20,
-"why": "按标书对位，常见接入层：STC-28DGGPM / STC-424DGGPM-280W / STI-288DGGPM；贸易 20% 档；公共/军方标不供"
+"why": "招标供货商按标书口型临时询价：主力 STC-424DGGPM-280W / STC-28DGGPM 商用管理型；分销 20% 档但 100% 预付、不议账期"
 },
-"email_hook": "For tender lots that call for access-layer PoE switches or media converters, send me the line items and I will return EXW prices on the Marvell-based 8- and 24-port PoE+ managed units within one working day."
+"email_hook": "For tender-driven lots I can hold EXW pricing for 15 days on the 8- and 24-port PoE+ managed switches with full CE/RoHS files, on 100% prepayment, so your bid sheet has a firm number."
 }
 },
 {
@@ -42055,7 +42200,8 @@
 "Lenovo",
 "Sumitomo",
 "Tyco",
-"Emcore"
+"Emcore",
+"MICROSENS"
 ],
 "evidence": [
 {
@@ -42078,6 +42224,27 @@
 "quote": "промышленные коммутаторы MICROSENS промышленный ethernet 10G XFP CWDM Copper SFP",
 "url": "https://www.ccs-msk.ru/",
 "date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "合作品牌与业务范围",
+"quote": "Компания CCS является официальным партнёром компаний MICROSENS и LENOVO, а также дистрибьютором японской компании SUMITOMO … оборудования промышленного Ethernet, систем FTTO и Smart Office, кабельной продукции с различными интерфейсами (HDSAS, SAS, SATA, Infiniband и др.) … кабели стандарта SpaceWire",
+"url": "https://www.ccs-msk.ru/about",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "Microsens Entry Line 工业千兆机规格",
+"quote": "5/8 портовые промышленные Gigabit Ethernet коммутаторы, Entry Line, SFP слот (MS655200X) … до восьми портов RJ-45 и два SFP слота … 5-портовый коммутатор Gigabit Ethernet, 5x 10/100/1000Base-T, диапазон рабочей температуры от -40 до +75°С · MS655200X",
+"url": "https://www.ccs-msk.ru/catalog/microsens/industrial_ethernet/gigabit_switches/MS6552XX",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "地址电话邮箱",
+"quote": "Наши телефоны: (495) 926-86-95, (963) 763-88-43 e-mail: sales@ccs-msk.ru Наш адрес: 107589, г. Москва, ул. Красноярская д.1, корп. 1",
+"url": "https://www.ccs-msk.ru/contacts",
+"date": "2026-10-21"
 }
 ],
 "kp": [
@@ -42095,17 +42262,20 @@
 "researched_at": "2026-10-21",
 "deep": {
 "done_at": "2026-10-21",
-"level": "深挖 v1（沿用首轮调研）"
+"level": "深挖 v2（官网 Microsens 目录核对）"
 },
 "company_facts": {
 "legal_name": "CCS（ccs-msk.ru）",
-"hq": "Moscow, Russia",
-"other": "IT/电信设备分销商（十余年）：Microsens 与 Lenovo 官方合作伙伴、住友（Sumitomo）分销；有源/无源网络、服务器存储、工业以太网、FTTO/Smart Office、SAS/Infiniband 线缆与定制产品"
+"hq": "107589, Москва, ул. Красноярская, д.1, корп.1（(495) 926-86-95 / (963) 763-88-43；sales@ccs-msk.ru）",
+"other": "MICROSENS（德）与 LENOVO 官方合作伙伴、住友电工分销商；供应有源/无源网络设备、服务器/存储、工业以太网、FTTO / Smart Office、SAS/SATA/Infiniband/SpaceWire 线缆与定制；在售 Microsens 工业机：Entry Line MS655200X（5/8×GE + SFP，-40~75℃，继电器）、Profi Line MS650869M-B（7×FE + 1×GE + 2×1000 SX/LX，铁路/能源）、FiberGuard MS650090 光纤保护开关；注：Microsens 俄罗斯独家工业线分销为 2TEST，CCS 为「官方伙伴」"
 },
 "business_lines": [
 "企业网络 + 工业以太网分销（Microsens 等）",
 "服务器/存储（Lenovo）",
-"光纤/铜缆与定制线缆（Sumitomo、Tyco）"
+"光纤/铜缆与定制线缆（Sumitomo、Tyco）",
+"Microsens 光纤/工业以太网/FTTO 供应",
+"Lenovo 服务器存储、住友光纤",
+"数据中心线缆（SAS/Infiniband/DAC）与定制线"
 ],
 "products_seen": [
 {
@@ -42123,17 +42293,37 @@
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "用户表",
 "saga": "STI-110GE"
+},
+{
+"brand": "MICROSENS",
+"model": "MS655200X（Entry Line）",
+"spec": "5/8×10/100/1000 + SFP 槽，-40~75℃，冗余电源，继电器，即插即用",
+"url": "https://www.ccs-msk.ru/catalog/microsens/industrial_ethernet/gigabit_switches/MS6552XX",
+"date": "2026-10-21",
+"saga": "STI-288DGGPM / STI-144GP（PoE 版；非 PoE 需核）"
+},
+{
+"brand": "MICROSENS",
+"model": "MS650869M-B（Profi Line）",
+"spec": "10 口：7×FE + 1×GE + 2×1000Base-SX/LX，铁路/能源（守界：铁路不供）",
+"url": "https://www.ccs-msk.ru/catalog/microsens/industrial_ethernet/gigabit_switches/MS650869",
+"date": "2026-10-21",
+"saga": "—（铁路用途不对位）"
 }
 ],
 "channels": {
-"网站": "https://ccs-msk.ru/",
-"直邮": "pkarpov@ccs-msk.ru（用户表）"
+"网站": "https://www.ccs-msk.ru/",
+"直邮": "pkarpov@ccs-msk.ru（用户表）",
+"电话": "+7 495 926-86-95 / +7 963 763-88-43（官网公开）",
+"邮箱（公开）": "sales@ccs-msk.ru"
 },
 "signals": [
-"Microsens（德系高价工业/FTTO）在俄供货受限——低价替代位空出（推断，待补证）"
+"Microsens（德系高价工业/FTTO）在俄供货受限——低价替代位空出（推断，待补证）",
+"德系 Microsens 在俄供货受限（制裁/物流）——Entry Line 入门工业千兆位是白牌 Marvell 替代的切口；Profi Line 铁路/能源位不碰（2026-10-21）"
 ],
 "risks": [
-"俄罗斯结算/制裁合规由客户侧；Microsens 级客户对功能（环网/管理）要求高"
+"俄罗斯结算/制裁合规由客户侧；Microsens 级客户对功能（环网/管理）要求高",
+"铁路/能源项目为其 Microsens 主场——只对位 Entry Line 通用工业机，不参与铁路（EN50155）与能源站级项目"
 ],
 "saga_fit": {
 "p1": "STI-288DGGPM",
@@ -42903,7 +43093,7 @@
 "grade": "A",
 "research": {
 "code": "SA-120",
-"name_official": "Latmedia Group, LLC（乌兹别克斯坦）",
+"name_official": "LATMEDIA GROUP LLC（ООО Latmedia group，塔什干，乌兹别克斯坦）",
 "website_status": "未单独检索（仅用户记录）",
 "summary": "乌兹别克斯坦 IT 公司，2025 年通过自建站询盘 L2+/L3 商业级交换机，留有手机号；至今 0 次跟进（尚未回复过该询盘）。",
 "type": "IT 集成/贸易商",
@@ -42916,6 +43106,27 @@
 "quote": "L2+/L3商业交换机 / from: 自建站；998 90 9767748（用户 Clients 表摘录）",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "公司定位：数字营销代理，2012 年起，CEO",
+"quote": "Одна из ведущих и успешных компаний на рынке Узбекистана, в сфере Digital-Маркетинга. Наша история начинается с 2012 г. … Пак Максим CEO LATMEDIA",
+"url": "https://latmedia.uz/about/",
+"date": "2023-08-28"
+},
+{
+"kind": "黄页",
+"claim": "法人名、邮箱、地址",
+"quote": "Legal name: LATMEDIA GROUP ООО … E-mail: Info@latmedia.uz, web@latmedia.uz … Address: Uzbekistan, Tashkent region, Tashkent, Yashnabad district, massif M. RIYOZI … Seo - Optimization, IP (Social Media Marketing) - Promotion",
+"url": "https://www.yellowpages.uz/en/company/latmedia-group-llc",
+"date": "2026-10-21"
+},
+{
+"kind": "2GIS",
+"claim": "广告代理分类与地址",
+"quote": "Latmedia group, рекламное агентство … ООО Latmedia group … Массив Риёзи, 28/2 Риёзи ж/м, Яшнабадский район, Ташкент",
+"url": "https://2gis.uz/tashkent/firm/70000001036910454",
+"date": "2026-10-21"
 }
 ],
 "kp": [
@@ -42925,6 +43136,13 @@
 "email": "",
 "phone": "+998 90 976 7748",
 "source": "用户 Clients 表（自建站询盘）"
+},
+{
+"name": "Пак Максим（Maksim Pak）",
+"role": "CEO LATMEDIA（官网 About）",
+"email": "info@latmedia.uz（公司公开）",
+"phone": "+998 90 115 51 00（公司 Telegram）",
+"source": "https://latmedia.uz/about/"
 }
 ],
 "grade_override": null,
@@ -42933,15 +43151,20 @@
 "researched_at": "2026-10-21",
 "deep": {
 "done_at": "2026-10-21",
-"level": "深挖 v1（沿用首轮调研；A 信箱已跟进）"
+"level": "深挖 v2（官网 + 黄页核对）"
 },
 "company_facts": {
-"legal_name": "Latmedia Group, LLC",
-"hq": "Uzbekistan",
-"other": "IT 集成/贸易商；2025 自建站询盘 L2+/L3 商业级交换机；A 信箱已跟进（用户 T27 说明）"
+"legal_name": "LATMEDIA GROUP ООО",
+"hq": "Ташкент, Яшнабадский район, массив Риёзи 28/2（黄页另列 ул. Сайрам 25, 100170）；info@latmedia.uz / web@latmedia.uz；Telegram +998 90 115 51 00",
+"other": "**数字营销/广告代理公司**（SMM、SEO、投放、网站开发），非网络设备商；CEO Пак Максим（Maksim Pak），创始人 Jahongir Latipov（Webster Univ. 介绍）；网站 2025-09 更新为「LATMEDIA Community」",
+"founded": "2012",
+"staff": "≈19（ZoomInfo 口径，待核）"
 },
 "business_lines": [
-"IT 集成 / 贸易"
+"IT 集成 / 贸易",
+"数字营销 / SMM / SEO / 投放",
+"网站与 Web 开发",
+"（本次询盘）L2+/L3 商用交换机——用途不明（自用办公/机房或代客户采购）"
 ],
 "products_seen": [
 {
@@ -42956,20 +43179,25 @@
 "channels": {
 "网站": "https://latmedia.uz/",
 "直邮": "vladimir.xe@latmedia.uz（用户表）",
-"电话": "用户表留有手机号"
+"电话": "用户表留有手机号",
+"邮箱（公开）": "info@latmedia.uz / web@latmedia.uz",
+"Telegram": "+998 90 115 51 00（Instagram 简介公开）",
+"Instagram": "https://www.instagram.com/latmedia_agency/（2,181 followers）"
 },
 "signals": [
-"主动询盘 L2+/L3——需求明确；跟进记录在 A 信箱（待导出）"
+"主动询盘 L2+/L3——需求明确；跟进记录在 A 信箱（待导出）",
+"公司主业为营销代理——L2+/L3 交换机询盘更可能是一次性（自建机房/代客户），不是渠道复购（2026-10-21）"
 ],
 "risks": [
-"乌兹别克斯坦物流/结算；跟进历史未入库"
+"乌兹别克斯坦物流/结算；跟进历史未入库",
+"询盘来源与真实需求待核（营销代理公司问交换机可能是代采购或网站开发配套）；A 邮箱已跟进（用户 T27 确认）——下一步仅问「用途与台数」一句，不再多轮"
 ],
 "saga_fit": {
 "p1": "STC-448XGGM(L3)",
 "tier": 25,
 "why": "询盘 L2+/L3：STC-448XGGM(L3)（EXW $485.8 @25%）+ STC-424DGGPM-280W（L2+）；集成商 25% 档"
 },
-"email_hook": "Following up on your L2+/L3 enquiry, the 48-port L3 unit with 10G uplinks and the 24-port L2+ PoE+ model are the two Marvell-based platforms I can quote EXW, with the L3 feature list attached."
+"email_hook": "Before I send the L2+/L3 managed switch quote you asked about, could you tell me roughly how many ports and whether it is for your own office or a client project, so I pick the right model?"
 }
 },
 {
@@ -135474,6 +135702,178 @@
 "grade": "B"
 },
 {
+"name": "korekonect.com",
+"name_src": "domain",
+"names": [],
+"country": "波兰",
+"iso": "PL",
+"region": "欧洲",
+"other_countries": [],
+"domains": [
+"korekonect.com"
+],
+"urls": [
+"https://www.korekonect.com/industrial-poe-switches"
+],
+"platform_links": [],
+"emails": [
+"info@korekonect.com"
+],
+"corp_emails": [
+"info@korekonect.com"
+],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"有Ewind的"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"A优质名单(PL)",
+"AI评估(PL)·DONE"
+],
+"flags": {},
+"fit": {},
+"ai_evals": [
+{
+"file": "Clients/AI客户评估/DONE/AI客户评估_PL 09.28.xlsx",
+"ai": {
+"pct": 45,
+"grade": "A",
+"text": "45% A\n波兰工业网络设备供应商，面向工业通信与自动化市场，产品包含工业PoE交换机\n发送工业交换机技术邮件，强调ERPS环网+工业稳定性+CLI支持\n工业ERPS交换机、工业PoE、L3汇聚交换机\n官网工业交换机为核心产品且有Ewind品牌（深圳供应链），说明对中国OEM开放"
+}
+}
+],
+"years": [],
+"sources": [
+{
+"file": "Clients/A/DONE/PL 2.6.xlsx",
+"sheet": "总表",
+"row": 9,
+"no": "8",
+"tags": [
+"A优质名单(PL)"
+],
+"company": "https://www.korekonect.com/industrial-poe-switches",
+"country": "波兰",
+"person": "",
+"from": "谷歌",
+"interest": "有Ewind的",
+"contact": "info@korekonect.com",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 3
+},
+{
+"file": "Clients/AI客户评估/DONE/AI客户评估_PL 09.28.xlsx",
+"sheet": "总表",
+"row": 7,
+"no": "6",
+"tags": [
+"AI评估(PL)·DONE"
+],
+"company": "https://www.korekonect.com/industrial-poe-switches",
+"country": "波兰",
+"person": "",
+"from": "谷歌",
+"interest": "有Ewind的",
+"contact": "info@korekonect.com",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "45% A\n波兰工业网络设备供应商，面向工业通信与自动化市场，产品包含工业PoE交换机\n发送工业交换机技术邮件，强调ERPS环网+工业稳定性+CLI支持\n工业ERPS交换机、工业PoE、L3汇聚交换机\n官网工业交换机为核心产品且有Ewind品牌（深圳供应链），说明对中国OEM开放",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [
+{
+"file": "Clients/A/DONE/PL 2.6.xlsx",
+"no": "8",
+"date": "2025.8.21",
+"date_iso": "2025-08-21",
+"content": "22迷你",
+"reply": "",
+"platform": "A",
+"note": "",
+"reply_kind": ""
+},
+{
+"file": "Clients/A/DONE/PL 2.6.xlsx",
+"no": "8",
+"date": "924",
+"date_iso": "2025-09-24",
+"content": "dac",
+"reply": "",
+"platform": "A",
+"note": "",
+"reply_kind": ""
+},
+{
+"file": "Clients/A/DONE/PL 2.6.xlsx",
+"no": "8",
+"date": "1020",
+"date_iso": "2025-10-20",
+"content": "28poe",
+"reply": "",
+"platform": "A",
+"note": "",
+"reply_kind": ""
+}
+],
+"fu_count": 3,
+"fu_first": "2025-08-21",
+"fu_last": "2025-10-20",
+"fu_years": [
+"2025"
+],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [
+"A"
+],
+"last_tier_letter": "A",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 2025,
+"merge_keys": [
+"d:korekonect.com",
+"e:info@korekonect.com"
+],
+"grade_auto": "B",
+"score": 51,
+"reasons": [
+"+6 在 A/DONE 优质国家名单（已做过整轮推送）",
+"+2 在 AI 客户评估名单",
+"+15 AI/Claude 评估 A",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+8 区域 欧洲/波兰",
+"+5 最近活动 2025"
+],
+"c_sub": "",
+"status": "已推送 3 次·未回复",
+"code": "SB-132",
+"grade": "B"
+},
+{
 "name": "（未具名）",
 "name_src": "none",
 "names": [],
@@ -135692,7 +136092,7 @@
 ],
 "c_sub": "",
 "status": "有回复·跟进中",
-"code": "SB-1318",
+"code": "SB-1320",
 "grade": "B"
 },
 {
@@ -135826,179 +136226,7 @@
 ],
 "c_sub": "",
 "status": "有回复·跟进中",
-"code": "SB-1319",
-"grade": "B"
-},
-{
-"name": "korekonect.com",
-"name_src": "domain",
-"names": [],
-"country": "波兰",
-"iso": "PL",
-"region": "欧洲",
-"other_countries": [],
-"domains": [
-"korekonect.com"
-],
-"urls": [
-"https://www.korekonect.com/industrial-poe-switches"
-],
-"platform_links": [],
-"emails": [
-"info@korekonect.com"
-],
-"corp_emails": [
-"info@korekonect.com"
-],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"有Ewind的"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"A优质名单(PL)",
-"AI评估(PL)·DONE"
-],
-"flags": {},
-"fit": {},
-"ai_evals": [
-{
-"file": "Clients/AI客户评估/DONE/AI客户评估_PL 09.28.xlsx",
-"ai": {
-"pct": 45,
-"grade": "A",
-"text": "45% A\n波兰工业网络设备供应商，面向工业通信与自动化市场，产品包含工业PoE交换机\n发送工业交换机技术邮件，强调ERPS环网+工业稳定性+CLI支持\n工业ERPS交换机、工业PoE、L3汇聚交换机\n官网工业交换机为核心产品且有Ewind品牌（深圳供应链），说明对中国OEM开放"
-}
-}
-],
-"years": [],
-"sources": [
-{
-"file": "Clients/A/DONE/PL 2.6.xlsx",
-"sheet": "总表",
-"row": 9,
-"no": "8",
-"tags": [
-"A优质名单(PL)"
-],
-"company": "https://www.korekonect.com/industrial-poe-switches",
-"country": "波兰",
-"person": "",
-"from": "谷歌",
-"interest": "有Ewind的",
-"contact": "info@korekonect.com",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 3
-},
-{
-"file": "Clients/AI客户评估/DONE/AI客户评估_PL 09.28.xlsx",
-"sheet": "总表",
-"row": 7,
-"no": "6",
-"tags": [
-"AI评估(PL)·DONE"
-],
-"company": "https://www.korekonect.com/industrial-poe-switches",
-"country": "波兰",
-"person": "",
-"from": "谷歌",
-"interest": "有Ewind的",
-"contact": "info@korekonect.com",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "45% A\n波兰工业网络设备供应商，面向工业通信与自动化市场，产品包含工业PoE交换机\n发送工业交换机技术邮件，强调ERPS环网+工业稳定性+CLI支持\n工业ERPS交换机、工业PoE、L3汇聚交换机\n官网工业交换机为核心产品且有Ewind品牌（深圳供应链），说明对中国OEM开放",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [
-{
-"file": "Clients/A/DONE/PL 2.6.xlsx",
-"no": "8",
-"date": "2025.8.21",
-"date_iso": "2025-08-21",
-"content": "22迷你",
-"reply": "",
-"platform": "A",
-"note": "",
-"reply_kind": ""
-},
-{
-"file": "Clients/A/DONE/PL 2.6.xlsx",
-"no": "8",
-"date": "924",
-"date_iso": "2025-09-24",
-"content": "dac",
-"reply": "",
-"platform": "A",
-"note": "",
-"reply_kind": ""
-},
-{
-"file": "Clients/A/DONE/PL 2.6.xlsx",
-"no": "8",
-"date": "1020",
-"date_iso": "2025-10-20",
-"content": "28poe",
-"reply": "",
-"platform": "A",
-"note": "",
-"reply_kind": ""
-}
-],
-"fu_count": 3,
-"fu_first": "2025-08-21",
-"fu_last": "2025-10-20",
-"fu_years": [
-"2025"
-],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [
-"A"
-],
-"last_tier_letter": "A",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 2025,
-"merge_keys": [
-"d:korekonect.com",
-"e:info@korekonect.com"
-],
-"grade_auto": "B",
-"score": 51,
-"reasons": [
-"+6 在 A/DONE 优质国家名单（已做过整轮推送）",
-"+2 在 AI 客户评估名单",
-"+15 AI/Claude 评估 A",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+8 区域 欧洲/波兰",
-"+5 最近活动 2025"
-],
-"c_sub": "",
-"status": "已推送 3 次·未回复",
-"code": "SB-132",
+"code": "SB-1321",
 "grade": "B"
 },
 {
@@ -670552,6 +670780,878 @@
 "grade": "C"
 },
 {
+"name": "artel.com",
+"name_src": "domain",
+"names": [],
+"country": "美国",
+"iso": "US",
+"region": "北美",
+"other_countries": [],
+"domains": [
+"artel.com"
+],
+"urls": [
+"https://www.artel.com/"
+],
+"platform_links": [],
+"emails": [
+"sales@artel.com"
+],
+"corp_emails": [
+"sales@artel.com"
+],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"MC 多功能VC Network WM"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"DWDM线索"
+],
+"flags": {},
+"fit": {
+"mc_sfp": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/DWDM CENTEC_ALAN 08.13.xlsx",
+"sheet": "总表",
+"row": 80,
+"no": "79",
+"tags": [
+"DWDM线索"
+],
+"company": "https://www.artel.com/",
+"country": "美国",
+"person": "",
+"from": "谷歌",
+"interest": "MC 多功能VC Network WM",
+"contact": "sales@artel.com",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）",
+"+2 兴趣仅 MC/SFP/配件（边缘品类）",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+8 区域 北美/美国"
+],
+"c_sub": "综合分低",
+"status": "名单内·未触达",
+"code": "SC-456",
+"grade": "C"
+},
+{
+"name": "ascisecurity.com",
+"name_src": "domain",
+"names": [],
+"country": "美国",
+"iso": "US",
+"region": "北美",
+"other_countries": [],
+"domains": [
+"ascisecurity.com"
+],
+"urls": [
+"https://ascisecurity.com/industrial-security-alarm-systems/"
+],
+"platform_links": [],
+"emails": [
+"contactus@ascisecurity.com"
+],
+"corp_emails": [
+"contactus@ascisecurity.com"
+],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(Alarm)"
+],
+"flags": {},
+"fit": {},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/Alarm 08.24.xlsx",
+"sheet": "总表",
+"row": 5,
+"no": "4",
+"tags": [
+"群发(Alarm)"
+],
+"company": "https://ascisecurity.com/industrial-security-alarm-systems/",
+"country": "美国",
+"person": "",
+"from": "谷歌",
+"interest": "",
+"contact": "contactus@ascisecurity.com",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+8 区域 北美/美国"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-457",
+"grade": "C"
+},
+{
+"name": "aswindra.co.id",
+"name_src": "domain",
+"names": [],
+"country": "印度尼西亚",
+"iso": "ID",
+"region": "亚太",
+"other_countries": [],
+"domains": [
+"aswindra.co.id"
+],
+"urls": [
+"https://www.aswindra.co.id/brands-detail/22/dcn---yunke"
+],
+"platform_links": [],
+"emails": [
+"sales@aswindra.co.id"
+],
+"corp_emails": [
+"sales@aswindra.co.id"
+],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"基本都是DCN的"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"E冷名单(印度尼西亚)"
+],
+"flags": {},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/2026.08.07/印度尼西亚.xlsx",
+"sheet": "总表",
+"row": 22,
+"no": "21",
+"tags": [
+"E冷名单(印度尼西亚)"
+],
+"company": "https://www.aswindra.co.id/brands-detail/22/dcn---yunke",
+"country": "印度尼西亚",
+"person": "",
+"from": "谷歌",
+"interest": "基本都是DCN的",
+"contact": "sales@aswindra.co.id",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 E 冷名单（按国家群发）",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+0 区域 亚太/印度尼西亚"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-458",
+"grade": "C"
+},
+{
+"name": "atronicsys.com",
+"name_src": "domain",
+"names": [],
+"country": "印度",
+"iso": "IN",
+"region": "南亚",
+"other_countries": [],
+"domains": [
+"atronicsys.com"
+],
+"urls": [
+"https://www.atronicsys.com/"
+],
+"platform_links": [],
+"emails": [],
+"corp_emails": [],
+"phones": [],
+"persons": [
+"从ONV买"
+],
+"positions": [],
+"froms": [
+"富通天下"
+],
+"interests": [
+"switch"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"在用同行产品"
+],
+"flags": {},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/客户再筛选_在用同行的产品.xlsx",
+"sheet": "总表",
+"row": 85,
+"no": "84",
+"tags": [
+"在用同行产品"
+],
+"company": "https://www.atronicsys.com/",
+"country": "印度",
+"person": "从ONV买",
+"from": "富通天下",
+"interest": "switch",
+"contact": "",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"+10 用户二筛：在用 Utepo/ONV/Ewind 等同行产品（贴牌切入口）",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+5 有可核实的公司网站/域名",
+"-6 区域 南亚/印度"
+],
+"c_sub": "无邮箱（仅电话）",
+"status": "名单内·未触达",
+"code": "SC-459",
+"grade": "C"
+},
+{
+"name": "av808.ru",
+"name_src": "domain",
+"names": [],
+"country": "俄罗斯",
+"iso": "RU",
+"region": "俄语区",
+"other_countries": [],
+"domains": [
+"av808.ru"
+],
+"urls": [
+"https://av808.ru/catalog/network-items/network-oborudovanie/"
+],
+"platform_links": [],
+"emails": [
+"sales@av808.ru"
+],
+"corp_emails": [
+"sales@av808.ru"
+],
+"phones": [],
+"persons": [
+"销售平台"
+],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"商业POE 周边产品"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(Russia)"
+],
+"flags": {},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
+"sheet": "总表",
+"row": 163,
+"no": "162",
+"tags": [
+"群发(Russia)"
+],
+"company": "https://av808.ru/catalog/network-items/network-oborudovanie/",
+"country": "俄罗斯",
+"person": "销售平台",
+"from": "谷歌",
+"interest": "商业POE 周边产品",
+"contact": "sales@av808.ru",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+0 区域 俄语区/俄罗斯"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-460",
+"grade": "C"
+},
+{
+"name": "avant.by",
+"name_src": "domain",
+"names": [],
+"country": "俄罗斯",
+"iso": "RU",
+"region": "俄语区",
+"other_countries": [],
+"domains": [
+"avant.by"
+],
+"urls": [
+"https://avant.by/catalog/setevoe_oborudovanie/switches/"
+],
+"platform_links": [],
+"emails": [
+"office@avant.by"
+],
+"corp_emails": [
+"office@avant.by"
+],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"工商业FS 好几家牌子\n有宇航等国内的"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(Russia)"
+],
+"flags": {},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
+"sheet": "总表",
+"row": 70,
+"no": "69",
+"tags": [
+"群发(Russia)"
+],
+"company": "https://avant.by/catalog/setevoe_oborudovanie/switches/",
+"country": "俄罗斯",
+"person": "",
+"from": "谷歌",
+"interest": "工商业FS 好几家牌子\n有宇航等国内的",
+"contact": "office@avant.by",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+0 区域 俄语区/俄罗斯"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-461",
+"grade": "C"
+},
+{
+"name": "aveon.ru",
+"name_src": "domain",
+"names": [],
+"country": "俄罗斯",
+"iso": "RU",
+"region": "俄语区",
+"other_countries": [],
+"domains": [
+"aveon.ru"
+],
+"urls": [
+"https://aveon.ru/technical_support/icpdas/icpcon_8.pdf"
+],
+"platform_links": [],
+"emails": [
+"ipcsales@aveon.ru"
+],
+"corp_emails": [
+"ipcsales@aveon.ru"
+],
+"phones": [],
+"persons": [
+"东土的"
+],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"switch"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(电口)"
+],
+"flags": {},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/电口  08.22.xlsx",
+"sheet": "总表",
+"row": 12,
+"no": "11",
+"tags": [
+"群发(电口)"
+],
+"company": "https://aveon.ru/technical_support/icpdas/icpcon_8.pdf",
+"country": "俄罗斯",
+"person": "东土的",
+"from": "谷歌",
+"interest": "switch",
+"contact": "ipcsales@aveon.ru",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+0 区域 俄语区/俄罗斯"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-462",
+"grade": "C"
+},
+{
+"name": "bamer.it",
+"name_src": "domain",
+"names": [],
+"country": "意大利",
+"iso": "IT",
+"region": "欧洲",
+"other_countries": [],
+"domains": [
+"bamer.it"
+],
+"urls": [
+"https://www.bamer.it/en/134-din-rail-power-supplies"
+],
+"platform_links": [],
+"emails": [
+"info@bamer.it"
+],
+"corp_emails": [
+"info@bamer.it"
+],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(PA)"
+],
+"flags": {},
+"fit": {},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/PA 08.25.xlsx",
+"sheet": "总表",
+"row": 59,
+"no": "58",
+"tags": [
+"群发(PA)"
+],
+"company": "https://www.bamer.it/en/134-din-rail-power-supplies",
+"country": "意大利",
+"person": "",
+"from": "谷歌",
+"interest": "",
+"contact": "info@bamer.it",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+8 区域 欧洲/意大利"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-463",
+"grade": "C"
+},
+{
+"name": "barriermaster.com",
+"name_src": "domain",
+"names": [],
+"country": "新加坡",
+"iso": "SG",
+"region": "亚太",
+"other_countries": [],
+"domains": [
+"barriermaster.com"
+],
+"urls": [
+"https://barriermaster.com/"
+],
+"platform_links": [],
+"emails": [
+"contact@barriermaster.com"
+],
+"corp_emails": [
+"contact@barriermaster.com"
+],
+"phones": [
+"6591333889"
+],
+"persons": [
+"Alson"
+],
+"positions": [],
+"froms": [
+"2024.10.31"
+],
+"interests": [],
+"remarks": [
+"4V 8V模拟光端机 / from: 自建站"
+],
+"categories": [],
+"tags": [
+"询盘流水"
+],
+"flags": {},
+"fit": {
+"off": 1,
+"vc": 1
+},
+"ai_evals": [],
+"years": [
+2024
+],
+"sources": [
+{
+"file": "Clients/询盘统计表.xlsx",
+"sheet": "Sheet1",
+"row": 68,
+"no": "",
+"tags": [
+"询盘流水"
+],
+"company": "https://barriermaster.com/",
+"country": "新加坡",
+"person": "Alson",
+"from": "2024.10.31",
+"interest": "",
+"contact": "Contact@barriermaster.com",
+"mobile": "WeChat e3838076m, WhatsApp 6591333889",
+"website": "",
+"remark": "4V 8V模拟光端机",
+"extra": "from: 自建站",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 2024,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"+12 主动询盘（阿里巴巴/自建站/转介）",
+"-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+3 区域 亚太/新加坡",
+"+2 最近活动 2024"
+],
+"c_sub": "品类不符（VC/DWDM/CCTV 等）",
+"status": "名单内·未触达",
+"code": "SC-464",
+"grade": "C"
+},
+{
 "name": "（未具名）",
 "name_src": "none",
 "names": [],
@@ -670636,7 +671736,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4551",
+"code": "SC-4647",
 "grade": "C"
 },
 {
@@ -670726,7 +671826,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4552",
+"code": "SC-4648",
 "grade": "C"
 },
 {
@@ -670814,7 +671914,105 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4553",
+"code": "SC-4649",
+"grade": "C"
+},
+{
+"name": "bas-ip.com",
+"name_src": "domain",
+"names": [],
+"country": "俄罗斯",
+"iso": "RU",
+"region": "俄语区",
+"other_countries": [],
+"domains": [
+"bas-ip.com"
+],
+"urls": [
+"https://bas-ip.com/hardware/sh-20-8/"
+],
+"platform_links": [],
+"emails": [
+"sales@bas-ip.com"
+],
+"corp_emails": [
+"sales@bas-ip.com"
+],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"主要是CCTV 有一些商业POE\nSwitch数量不是很多"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(Russia)"
+],
+"flags": {},
+"fit": {
+"switch": 1,
+"off": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
+"sheet": "总表",
+"row": 75,
+"no": "74",
+"tags": [
+"群发(Russia)"
+],
+"company": "https://bas-ip.com/hardware/sh-20-8/",
+"country": "俄罗斯",
+"person": "",
+"from": "谷歌",
+"interest": "主要是CCTV 有一些商业POE\nSwitch数量不是很多",
+"contact": "sales@bas-ip.com",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+0 区域 俄语区/俄罗斯"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-465",
 "grade": "C"
 },
 {
@@ -670923,7 +672121,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "WhatsApp 已加·未回复",
-"code": "SC-4554",
+"code": "SC-4650",
 "grade": "C"
 },
 {
@@ -671014,7 +672212,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4555",
+"code": "SC-4651",
 "grade": "C"
 },
 {
@@ -671178,7 +672376,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 7 次·未回复",
-"code": "SC-4556",
+"code": "SC-4652",
 "grade": "C"
 },
 {
@@ -671342,7 +672540,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 7 次·未回复",
-"code": "SC-4557",
+"code": "SC-4653",
 "grade": "C"
 },
 {
@@ -671427,7 +672625,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4558",
+"code": "SC-4654",
 "grade": "C"
 },
 {
@@ -671627,104 +672825,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "回复暂无需求",
-"code": "SC-4559",
-"grade": "C"
-},
-{
-"name": "artel.com",
-"name_src": "domain",
-"names": [],
-"country": "美国",
-"iso": "US",
-"region": "北美",
-"other_countries": [],
-"domains": [
-"artel.com"
-],
-"urls": [
-"https://www.artel.com/"
-],
-"platform_links": [],
-"emails": [
-"sales@artel.com"
-],
-"corp_emails": [
-"sales@artel.com"
-],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"MC 多功能VC Network WM"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"DWDM线索"
-],
-"flags": {},
-"fit": {
-"mc_sfp": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/DWDM CENTEC_ALAN 08.13.xlsx",
-"sheet": "总表",
-"row": 80,
-"no": "79",
-"tags": [
-"DWDM线索"
-],
-"company": "https://www.artel.com/",
-"country": "美国",
-"person": "",
-"from": "谷歌",
-"interest": "MC 多功能VC Network WM",
-"contact": "sales@artel.com",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）",
-"+2 兴趣仅 MC/SFP/配件（边缘品类）",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+8 区域 北美/美国"
-],
-"c_sub": "综合分低",
-"status": "名单内·未触达",
-"code": "SC-456",
+"code": "SC-4655",
 "grade": "C"
 },
 {
@@ -671805,7 +672906,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4560",
+"code": "SC-4656",
 "grade": "C"
 },
 {
@@ -671886,7 +672987,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4561",
+"code": "SC-4657",
 "grade": "C"
 },
 {
@@ -671967,7 +673068,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4562",
+"code": "SC-4658",
 "grade": "C"
 },
 {
@@ -672048,7 +673149,105 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4563",
+"code": "SC-4659",
+"grade": "C"
+},
+{
+"name": "bast.ru",
+"name_src": "domain",
+"names": [],
+"country": "俄罗斯",
+"iso": "RU",
+"region": "俄语区",
+"other_countries": [],
+"domains": [
+"bast.ru"
+],
+"urls": [
+"https://bast.ru/power-over-ethernet/"
+],
+"platform_links": [],
+"emails": [
+"sales@bast.ru"
+],
+"corp_emails": [
+"sales@bast.ru"
+],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"主要是CCTV 有一些商业POE"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(Russia)"
+],
+"flags": {},
+"fit": {
+"switch": 1,
+"off": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
+"sheet": "总表",
+"row": 60,
+"no": "59",
+"tags": [
+"群发(Russia)"
+],
+"company": "https://bast.ru/power-over-ethernet/",
+"country": "俄罗斯",
+"person": "",
+"from": "谷歌",
+"interest": "主要是CCTV 有一些商业POE",
+"contact": "sales@bast.ru",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+0 区域 俄语区/俄罗斯"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-466",
 "grade": "C"
 },
 {
@@ -672129,7 +673328,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4564",
+"code": "SC-4660",
 "grade": "C"
 },
 {
@@ -672210,7 +673409,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4565",
+"code": "SC-4661",
 "grade": "C"
 },
 {
@@ -672291,7 +673490,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4566",
+"code": "SC-4662",
 "grade": "C"
 },
 {
@@ -672372,7 +673571,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4567",
+"code": "SC-4663",
 "grade": "C"
 },
 {
@@ -672453,7 +673652,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4568",
+"code": "SC-4664",
 "grade": "C"
 },
 {
@@ -672534,99 +673733,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4569",
-"grade": "C"
-},
-{
-"name": "ascisecurity.com",
-"name_src": "domain",
-"names": [],
-"country": "美国",
-"iso": "US",
-"region": "北美",
-"other_countries": [],
-"domains": [
-"ascisecurity.com"
-],
-"urls": [
-"https://ascisecurity.com/industrial-security-alarm-systems/"
-],
-"platform_links": [],
-"emails": [
-"contactus@ascisecurity.com"
-],
-"corp_emails": [
-"contactus@ascisecurity.com"
-],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(Alarm)"
-],
-"flags": {},
-"fit": {},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/Alarm 08.24.xlsx",
-"sheet": "总表",
-"row": 5,
-"no": "4",
-"tags": [
-"群发(Alarm)"
-],
-"company": "https://ascisecurity.com/industrial-security-alarm-systems/",
-"country": "美国",
-"person": "",
-"from": "谷歌",
-"interest": "",
-"contact": "contactus@ascisecurity.com",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+8 区域 北美/美国"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-457",
+"code": "SC-4665",
 "grade": "C"
 },
 {
@@ -672707,7 +673814,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4570",
+"code": "SC-4666",
 "grade": "C"
 },
 {
@@ -672788,7 +673895,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4571",
+"code": "SC-4667",
 "grade": "C"
 },
 {
@@ -672869,7 +673976,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4572",
+"code": "SC-4668",
 "grade": "C"
 },
 {
@@ -672950,7 +674057,142 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4573",
+"code": "SC-4669",
+"grade": "C"
+},
+{
+"name": "bbrc.ru",
+"name_src": "domain",
+"names": [],
+"country": "俄罗斯",
+"iso": "RU",
+"region": "俄语区",
+"other_countries": [],
+"domains": [
+"bbrc.ru"
+],
+"urls": [
+"https://www.bbrc.ru/catalog/category/promyshlennyy_ethernet/",
+"https://www.bbrc.ru/upload/iblock/480/xv1e8g0d48iy0opb23z0mxboiqfzoi7y/66331768_0fed_11e8_80d8_0cc47a1243ef_c634d289_260f_11e8_80d8_0cc47a1243ef.pdf"
+],
+"platform_links": [],
+"emails": [
+"kip@bbrc.ru",
+"sales@bbrc.ru"
+],
+"corp_emails": [
+"kip@bbrc.ru",
+"sales@bbrc.ru"
+],
+"phones": [
+"74951090208"
+],
+"persons": [
+"很多牌子 销售平台 / Moxa Edimax等"
+],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"工业FS MC SFP Bypass 周边产品",
+"switch"
+],
+"remarks": [
+"749510 90208 \n网站上的"
+],
+"categories": [],
+"tags": [
+"群发(Russia)",
+"群发(电口)"
+],
+"flags": {},
+"fit": {
+"switch": 2,
+"mc_sfp": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
+"sheet": "总表",
+"row": 122,
+"no": "121",
+"tags": [
+"群发(Russia)"
+],
+"company": "https://www.bbrc.ru/catalog/category/promyshlennyy_ethernet/",
+"country": "俄罗斯",
+"person": "很多牌子 销售平台\nMoxa Edimax等",
+"from": "谷歌",
+"interest": "工业FS MC SFP Bypass 周边产品",
+"contact": "kip@bbrc.ru",
+"mobile": "",
+"website": "",
+"remark": "749510 90208 \n网站上的",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+},
+{
+"file": "Clients/E/群发/电口  08.22.xlsx",
+"sheet": "总表",
+"row": 6,
+"no": "5",
+"tags": [
+"群发(电口)"
+],
+"company": "https://www.bbrc.ru/upload/iblock/480/xv1e8g0d48iy0opb23z0mxboiqfzoi7y/66331768_0fed_11e8_80d8_0cc47a1243ef_c634d289_260f_11e8_80d8_0cc47a1243ef.pdf",
+"country": "俄罗斯",
+"person": "",
+"from": "谷歌",
+"interest": "switch",
+"contact": "sales@bbrc.ru",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [
+"d:bbrc.ru"
+],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+0 区域 俄语区/俄罗斯"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-467",
 "grade": "C"
 },
 {
@@ -673031,7 +674273,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4574",
+"code": "SC-4670",
 "grade": "C"
 },
 {
@@ -673112,7 +674354,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4575",
+"code": "SC-4671",
 "grade": "C"
 },
 {
@@ -673193,7 +674435,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4576",
+"code": "SC-4672",
 "grade": "C"
 },
 {
@@ -673274,7 +674516,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4577",
+"code": "SC-4673",
 "grade": "C"
 },
 {
@@ -673355,7 +674597,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4578",
+"code": "SC-4674",
 "grade": "C"
 },
 {
@@ -673436,104 +674678,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4579",
-"grade": "C"
-},
-{
-"name": "aswindra.co.id",
-"name_src": "domain",
-"names": [],
-"country": "印度尼西亚",
-"iso": "ID",
-"region": "亚太",
-"other_countries": [],
-"domains": [
-"aswindra.co.id"
-],
-"urls": [
-"https://www.aswindra.co.id/brands-detail/22/dcn---yunke"
-],
-"platform_links": [],
-"emails": [
-"sales@aswindra.co.id"
-],
-"corp_emails": [
-"sales@aswindra.co.id"
-],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"基本都是DCN的"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"E冷名单(印度尼西亚)"
-],
-"flags": {},
-"fit": {
-"switch": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/2026.08.07/印度尼西亚.xlsx",
-"sheet": "总表",
-"row": 22,
-"no": "21",
-"tags": [
-"E冷名单(印度尼西亚)"
-],
-"company": "https://www.aswindra.co.id/brands-detail/22/dcn---yunke",
-"country": "印度尼西亚",
-"person": "",
-"from": "谷歌",
-"interest": "基本都是DCN的",
-"contact": "sales@aswindra.co.id",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 E 冷名单（按国家群发）",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+0 区域 亚太/印度尼西亚"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-458",
+"code": "SC-4675",
 "grade": "C"
 },
 {
@@ -673614,7 +674759,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4580",
+"code": "SC-4676",
 "grade": "C"
 },
 {
@@ -673695,7 +674840,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4581",
+"code": "SC-4677",
 "grade": "C"
 },
 {
@@ -673784,7 +674929,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4582",
+"code": "SC-4678",
 "grade": "C"
 },
 {
@@ -673865,7 +675010,107 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4583",
+"code": "SC-4679",
+"grade": "C"
+},
+{
+"name": "bic-inform.ru",
+"name_src": "domain",
+"names": [],
+"country": "俄罗斯",
+"iso": "RU",
+"region": "俄语区",
+"other_countries": [],
+"domains": [
+"bic-inform.ru"
+],
+"urls": [
+"https://bic-inform.ru/products/progmatic/kommutatoryi/"
+],
+"platform_links": [],
+"emails": [
+"bic@bic-inform.ru",
+"msk@bic-inform.ru"
+],
+"corp_emails": [
+"bic@bic-inform.ru",
+"msk@bic-inform.ru"
+],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"主要是CCTV 有一些商业POE"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(Russia)"
+],
+"flags": {},
+"fit": {
+"switch": 1,
+"off": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
+"sheet": "总表",
+"row": 55,
+"no": "54",
+"tags": [
+"群发(Russia)"
+],
+"company": "https://bic-inform.ru/products/progmatic/kommutatoryi/",
+"country": "俄罗斯",
+"person": "",
+"from": "谷歌",
+"interest": "主要是CCTV 有一些商业POE",
+"contact": "bic@bic-inform.ru\nmsk@bic-inform.ru",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+0 区域 俄语区/俄罗斯"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-468",
 "grade": "C"
 },
 {
@@ -673946,7 +675191,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4584",
+"code": "SC-4680",
 "grade": "C"
 },
 {
@@ -674133,7 +675378,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-4585",
+"code": "SC-4681",
 "grade": "C"
 },
 {
@@ -674320,7 +675565,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-4586",
+"code": "SC-4682",
 "grade": "C"
 },
 {
@@ -674507,7 +675752,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-4587",
+"code": "SC-4683",
 "grade": "C"
 },
 {
@@ -674588,7 +675833,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4588",
+"code": "SC-4684",
 "grade": "C"
 },
 {
@@ -674669,101 +675914,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4589",
-"grade": "C"
-},
-{
-"name": "atronicsys.com",
-"name_src": "domain",
-"names": [],
-"country": "印度",
-"iso": "IN",
-"region": "南亚",
-"other_countries": [],
-"domains": [
-"atronicsys.com"
-],
-"urls": [
-"https://www.atronicsys.com/"
-],
-"platform_links": [],
-"emails": [],
-"corp_emails": [],
-"phones": [],
-"persons": [
-"从ONV买"
-],
-"positions": [],
-"froms": [
-"富通天下"
-],
-"interests": [
-"switch"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"在用同行产品"
-],
-"flags": {},
-"fit": {
-"switch": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/客户再筛选_在用同行的产品.xlsx",
-"sheet": "总表",
-"row": 85,
-"no": "84",
-"tags": [
-"在用同行产品"
-],
-"company": "https://www.atronicsys.com/",
-"country": "印度",
-"person": "从ONV买",
-"from": "富通天下",
-"interest": "switch",
-"contact": "",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"+10 用户二筛：在用 Utepo/ONV/Ewind 等同行产品（贴牌切入口）",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+5 有可核实的公司网站/域名",
-"-6 区域 南亚/印度"
-],
-"c_sub": "无邮箱（仅电话）",
-"status": "名单内·未触达",
-"code": "SC-459",
+"code": "SC-4685",
 "grade": "C"
 },
 {
@@ -674844,7 +675995,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4590",
+"code": "SC-4686",
 "grade": "C"
 },
 {
@@ -674925,7 +676076,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4591",
+"code": "SC-4687",
 "grade": "C"
 },
 {
@@ -675006,7 +676157,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4592",
+"code": "SC-4688",
 "grade": "C"
 },
 {
@@ -675087,7 +676238,143 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4593",
+"code": "SC-4689",
+"grade": "C"
+},
+{
+"name": "bic-video.ru",
+"name_src": "domain",
+"names": [],
+"country": "俄罗斯",
+"iso": "RU",
+"region": "俄语区",
+"other_countries": [],
+"domains": [
+"bic-video.ru"
+],
+"urls": [
+"https://www.bic-video.ru/catalog/products/sf-g2041-ic-promyshlennyy-poe-kommutator-gigabit-ethernet.html",
+"https://www.bic-video.ru/brands/"
+],
+"platform_links": [],
+"emails": [
+"info@bic-video.ru",
+"narvskaya@bic-video.ru",
+"ozerki@bic-video.ru",
+"lad@bic-video.ru"
+],
+"corp_emails": [
+"info@bic-video.ru",
+"narvskaya@bic-video.ru",
+"ozerki@bic-video.ru",
+"lad@bic-video.ru"
+],
+"phones": [],
+"persons": [
+"之前跟过"
+],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"工业FS SFP MC 朱姐客户的\n HDMI SDI AHD",
+"很多牌子 可以查一下"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(Russia)"
+],
+"flags": {},
+"fit": {
+"switch": 1,
+"mc_sfp": 1,
+"off": 1,
+"vc": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
+"sheet": "总表",
+"row": 138,
+"no": "137",
+"tags": [
+"群发(Russia)"
+],
+"company": "https://www.bic-video.ru/catalog/products/sf-g2041-ic-promyshlennyy-poe-kommutator-gigabit-ethernet.html",
+"country": "俄罗斯",
+"person": "",
+"from": "谷歌",
+"interest": "工业FS SFP MC 朱姐客户的\n HDMI SDI AHD",
+"contact": "info@bic-video.ru\nnarvskaya@bic-video.ru\nozerki@bic-video.ru\nlad@bic-video.ru",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+},
+{
+"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
+"sheet": "总表",
+"row": 162,
+"no": "161",
+"tags": [
+"群发(Russia)"
+],
+"company": "https://www.bic-video.ru/brands/",
+"country": "俄罗斯",
+"person": "之前跟过",
+"from": "谷歌",
+"interest": "很多牌子 可以查一下",
+"contact": "",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [
+"d:bic-video.ru"
+],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+0 区域 俄语区/俄罗斯"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-469",
 "grade": "C"
 },
 {
@@ -675168,7 +676455,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4594",
+"code": "SC-4690",
 "grade": "C"
 },
 {
@@ -675249,7 +676536,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4595",
+"code": "SC-4691",
 "grade": "C"
 },
 {
@@ -675330,7 +676617,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4596",
+"code": "SC-4692",
 "grade": "C"
 },
 {
@@ -675411,7 +676698,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4597",
+"code": "SC-4693",
 "grade": "C"
 },
 {
@@ -675492,7 +676779,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4598",
+"code": "SC-4694",
 "grade": "C"
 },
 {
@@ -675573,106 +676860,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4599",
-"grade": "C"
-},
-{
-"name": "av808.ru",
-"name_src": "domain",
-"names": [],
-"country": "俄罗斯",
-"iso": "RU",
-"region": "俄语区",
-"other_countries": [],
-"domains": [
-"av808.ru"
-],
-"urls": [
-"https://av808.ru/catalog/network-items/network-oborudovanie/"
-],
-"platform_links": [],
-"emails": [
-"sales@av808.ru"
-],
-"corp_emails": [
-"sales@av808.ru"
-],
-"phones": [],
-"persons": [
-"销售平台"
-],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"商业POE 周边产品"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(Russia)"
-],
-"flags": {},
-"fit": {
-"switch": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
-"sheet": "总表",
-"row": 163,
-"no": "162",
-"tags": [
-"群发(Russia)"
-],
-"company": "https://av808.ru/catalog/network-items/network-oborudovanie/",
-"country": "俄罗斯",
-"person": "销售平台",
-"from": "谷歌",
-"interest": "商业POE 周边产品",
-"contact": "sales@av808.ru",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+0 区域 俄语区/俄罗斯"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-460",
+"code": "SC-4695",
 "grade": "C"
 },
 {
@@ -675778,7 +676966,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 2 次·未回复",
-"code": "SC-4600",
+"code": "SC-4696",
 "grade": "C"
 },
 {
@@ -675884,7 +677072,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 2 次·未回复",
-"code": "SC-4601",
+"code": "SC-4697",
 "grade": "C"
 },
 {
@@ -676037,7 +677225,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 6 次·未回复",
-"code": "SC-4602",
+"code": "SC-4698",
 "grade": "C"
 },
 {
@@ -676118,7 +677306,109 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4603",
+"code": "SC-4699",
+"grade": "C"
+},
+{
+"name": "bilberk.com",
+"name_src": "domain",
+"names": [],
+"country": "土耳其",
+"iso": "TR",
+"region": "土耳其",
+"other_countries": [],
+"domains": [
+"bilberk.com"
+],
+"urls": [
+"http://bilberk.com/"
+],
+"platform_links": [],
+"emails": [
+"serefberk@bilberk.com"
+],
+"corp_emails": [
+"serefberk@bilberk.com"
+],
+"phones": [
+"905323677990"
+],
+"persons": [
+"Mr.Seref"
+],
+"positions": [],
+"froms": [
+"2023.3.2"
+],
+"interests": [
+"思科产品"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(Cisco/Cisco)"
+],
+"flags": {
+"wa_added": 1
+},
+"fit": {},
+"ai_evals": [],
+"years": [
+2023
+],
+"sources": [
+{
+"file": "Clients/E/群发/Cisco 09.11/Cisco.xlsx",
+"sheet": "总表",
+"row": 6,
+"no": "5",
+"tags": [
+"群发(Cisco/Cisco)"
+],
+"company": "http://bilberk.com/\n杂货铺",
+"country": "土耳其",
+"person": "Mr.Seref",
+"from": "2023.3.2",
+"interest": "思科产品",
+"contact": "serefberk@bilberk.com\n90 53236 77990 已加",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 2023,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+8 区域 土耳其/土耳其"
+],
+"c_sub": "群发冷名单无回应",
+"status": "WhatsApp 已加·未回复",
+"code": "SC-470",
 "grade": "C"
 },
 {
@@ -676199,7 +677489,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4604",
+"code": "SC-4700",
 "grade": "C"
 },
 {
@@ -676280,7 +677570,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4605",
+"code": "SC-4701",
 "grade": "C"
 },
 {
@@ -676361,7 +677651,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4606",
+"code": "SC-4702",
 "grade": "C"
 },
 {
@@ -676442,7 +677732,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4607",
+"code": "SC-4703",
 "grade": "C"
 },
 {
@@ -676523,7 +677813,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4608",
+"code": "SC-4704",
 "grade": "C"
 },
 {
@@ -676604,104 +677894,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4609",
-"grade": "C"
-},
-{
-"name": "avant.by",
-"name_src": "domain",
-"names": [],
-"country": "俄罗斯",
-"iso": "RU",
-"region": "俄语区",
-"other_countries": [],
-"domains": [
-"avant.by"
-],
-"urls": [
-"https://avant.by/catalog/setevoe_oborudovanie/switches/"
-],
-"platform_links": [],
-"emails": [
-"office@avant.by"
-],
-"corp_emails": [
-"office@avant.by"
-],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"工商业FS 好几家牌子\n有宇航等国内的"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(Russia)"
-],
-"flags": {},
-"fit": {
-"switch": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
-"sheet": "总表",
-"row": 70,
-"no": "69",
-"tags": [
-"群发(Russia)"
-],
-"company": "https://avant.by/catalog/setevoe_oborudovanie/switches/",
-"country": "俄罗斯",
-"person": "",
-"from": "谷歌",
-"interest": "工商业FS 好几家牌子\n有宇航等国内的",
-"contact": "office@avant.by",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+0 区域 俄语区/俄罗斯"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-461",
+"code": "SC-4705",
 "grade": "C"
 },
 {
@@ -676782,7 +677975,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4610",
+"code": "SC-4706",
 "grade": "C"
 },
 {
@@ -676863,7 +678056,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4611",
+"code": "SC-4707",
 "grade": "C"
 },
 {
@@ -676944,7 +678137,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4612",
+"code": "SC-4708",
 "grade": "C"
 },
 {
@@ -677025,7 +678218,106 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4613",
+"code": "SC-4709",
+"grade": "C"
+},
+{
+"name": "bingcomm.com",
+"name_src": "domain",
+"names": [],
+"country": "越南",
+"iso": "VN",
+"region": "亚太",
+"other_countries": [],
+"domains": [
+"bingcomm.com"
+],
+"urls": [
+"http://bingcomm.com/"
+],
+"platform_links": [],
+"emails": [
+"sales@bingcomm.com",
+"support@bingcomm.com"
+],
+"corp_emails": [
+"sales@bingcomm.com",
+"support@bingcomm.com"
+],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"ONV的FS 工业FS\n也有Yeastar的设备"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(VN/VN)"
+],
+"flags": {},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/VN 09.09 09.10/VN.xlsx",
+"sheet": "总表",
+"row": 34,
+"no": "36",
+"tags": [
+"群发(VN/VN)"
+],
+"company": "http://bingcomm.com/",
+"country": "越南",
+"person": "",
+"from": "谷歌",
+"interest": "ONV的FS 工业FS\n也有Yeastar的设备",
+"contact": "sales@bingcomm.com\nsupport@bingcomm.com",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+0 区域 亚太/越南"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-471",
 "grade": "C"
 },
 {
@@ -677106,7 +678398,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4614",
+"code": "SC-4710",
 "grade": "C"
 },
 {
@@ -677187,7 +678479,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4615",
+"code": "SC-4711",
 "grade": "C"
 },
 {
@@ -677268,7 +678560,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4616",
+"code": "SC-4712",
 "grade": "C"
 },
 {
@@ -677478,7 +678770,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 11 次·未回复",
-"code": "SC-4617",
+"code": "SC-4713",
 "grade": "C"
 },
 {
@@ -677666,7 +678958,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-4618",
+"code": "SC-4714",
 "grade": "C"
 },
 {
@@ -677854,106 +679146,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-4619",
-"grade": "C"
-},
-{
-"name": "aveon.ru",
-"name_src": "domain",
-"names": [],
-"country": "俄罗斯",
-"iso": "RU",
-"region": "俄语区",
-"other_countries": [],
-"domains": [
-"aveon.ru"
-],
-"urls": [
-"https://aveon.ru/technical_support/icpdas/icpcon_8.pdf"
-],
-"platform_links": [],
-"emails": [
-"ipcsales@aveon.ru"
-],
-"corp_emails": [
-"ipcsales@aveon.ru"
-],
-"phones": [],
-"persons": [
-"东土的"
-],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"switch"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(电口)"
-],
-"flags": {},
-"fit": {
-"switch": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/电口  08.22.xlsx",
-"sheet": "总表",
-"row": 12,
-"no": "11",
-"tags": [
-"群发(电口)"
-],
-"company": "https://aveon.ru/technical_support/icpdas/icpcon_8.pdf",
-"country": "俄罗斯",
-"person": "东土的",
-"from": "谷歌",
-"interest": "switch",
-"contact": "ipcsales@aveon.ru",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+0 区域 俄语区/俄罗斯"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-462",
+"code": "SC-4715",
 "grade": "C"
 },
 {
@@ -678141,7 +679334,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-4620",
+"code": "SC-4716",
 "grade": "C"
 },
 {
@@ -678329,7 +679522,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-4621",
+"code": "SC-4717",
 "grade": "C"
 },
 {
@@ -678517,7 +679710,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-4622",
+"code": "SC-4718",
 "grade": "C"
 },
 {
@@ -678705,7 +679898,107 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-4623",
+"code": "SC-4719",
+"grade": "C"
+},
+{
+"name": "bkaii.com.vn",
+"name_src": "domain",
+"names": [],
+"country": "越南",
+"iso": "VN",
+"region": "亚太",
+"other_countries": [],
+"domains": [
+"bkaii.com.vn"
+],
+"urls": [
+"https://bkaii.com.vn/lien-he"
+],
+"platform_links": [],
+"emails": [
+"info@bkaii.com.vn"
+],
+"corp_emails": [
+"info@bkaii.com.vn"
+],
+"phones": [],
+"persons": [
+"卖很多牌子的产品"
+],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"MC FS 机架"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(VN/VN)"
+],
+"flags": {},
+"fit": {
+"switch": 1,
+"mc_sfp": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/VN 09.09 09.10/VN.xlsx",
+"sheet": "总表",
+"row": 12,
+"no": "14",
+"tags": [
+"群发(VN/VN)"
+],
+"company": "https://bkaii.com.vn/lien-he",
+"country": "越南",
+"person": "卖很多牌子的产品",
+"from": "谷歌",
+"interest": "MC FS 机架",
+"contact": "info@bkaii.com.vn",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+0 区域 亚太/越南"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-472",
 "grade": "C"
 },
 {
@@ -678904,7 +680197,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 10 次·未回复",
-"code": "SC-4624",
+"code": "SC-4720",
 "grade": "C"
 },
 {
@@ -679103,7 +680396,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 10 次·未回复",
-"code": "SC-4625",
+"code": "SC-4721",
 "grade": "C"
 },
 {
@@ -679302,7 +680595,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 10 次·未回复",
-"code": "SC-4626",
+"code": "SC-4722",
 "grade": "C"
 },
 {
@@ -679501,7 +680794,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 10 次·未回复",
-"code": "SC-4627",
+"code": "SC-4723",
 "grade": "C"
 },
 {
@@ -679700,7 +680993,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 10 次·未回复",
-"code": "SC-4628",
+"code": "SC-4724",
 "grade": "C"
 },
 {
@@ -679899,99 +681192,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 10 次·未回复",
-"code": "SC-4629",
-"grade": "C"
-},
-{
-"name": "bamer.it",
-"name_src": "domain",
-"names": [],
-"country": "意大利",
-"iso": "IT",
-"region": "欧洲",
-"other_countries": [],
-"domains": [
-"bamer.it"
-],
-"urls": [
-"https://www.bamer.it/en/134-din-rail-power-supplies"
-],
-"platform_links": [],
-"emails": [
-"info@bamer.it"
-],
-"corp_emails": [
-"info@bamer.it"
-],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(PA)"
-],
-"flags": {},
-"fit": {},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/PA 08.25.xlsx",
-"sheet": "总表",
-"row": 59,
-"no": "58",
-"tags": [
-"群发(PA)"
-],
-"company": "https://www.bamer.it/en/134-din-rail-power-supplies",
-"country": "意大利",
-"person": "",
-"from": "谷歌",
-"interest": "",
-"contact": "info@bamer.it",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+8 区域 欧洲/意大利"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-463",
+"code": "SC-4725",
 "grade": "C"
 },
 {
@@ -680179,7 +681380,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-4630",
+"code": "SC-4726",
 "grade": "C"
 },
 {
@@ -680367,7 +681568,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-4631",
+"code": "SC-4727",
 "grade": "C"
 },
 {
@@ -680555,7 +681756,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-4632",
+"code": "SC-4728",
 "grade": "C"
 },
 {
@@ -680743,7 +681944,107 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-4633",
+"code": "SC-4729",
+"grade": "C"
+},
+{
+"name": "bkpttech.vn",
+"name_src": "domain",
+"names": [],
+"country": "越南",
+"iso": "VN",
+"region": "亚太",
+"other_countries": [],
+"domains": [
+"bkpttech.vn"
+],
+"urls": [
+"http://bkpttech.vn/media-converter-aom2200"
+],
+"platform_links": [],
+"emails": [
+"info@bkpttech.vn"
+],
+"corp_emails": [
+"info@bkpttech.vn"
+],
+"phones": [],
+"persons": [
+"AoA的"
+],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"工业MC"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(VN/VN)"
+],
+"flags": {},
+"fit": {
+"switch": 1,
+"mc_sfp": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/VN 09.09 09.10/VN.xlsx",
+"sheet": "总表",
+"row": 69,
+"no": "71",
+"tags": [
+"群发(VN/VN)"
+],
+"company": "http://bkpttech.vn/media-converter-aom2200",
+"country": "越南",
+"person": "AoA的",
+"from": "谷歌",
+"interest": "工业MC",
+"contact": "info@bkpttech.vn",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+0 区域 亚太/越南"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-473",
 "grade": "C"
 },
 {
@@ -680931,7 +682232,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-4634",
+"code": "SC-4730",
 "grade": "C"
 },
 {
@@ -681107,7 +682408,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 8 次·未回复",
-"code": "SC-4635",
+"code": "SC-4731",
 "grade": "C"
 },
 {
@@ -681283,7 +682584,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 8 次·未回复",
-"code": "SC-4636",
+"code": "SC-4732",
 "grade": "C"
 },
 {
@@ -681378,7 +682679,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "成交过·维护",
-"code": "SC-4637",
+"code": "SC-4733",
 "grade": "C"
 },
 {
@@ -681463,7 +682764,7 @@
 ],
 "c_sub": "中国大陆（非出口客户）",
 "status": "名单内·未触达",
-"code": "SC-4638",
+"code": "SC-4734",
 "grade": "C"
 },
 {
@@ -681555,112 +682856,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "用户判定不行",
-"code": "SC-4639",
-"grade": "C"
-},
-{
-"name": "barriermaster.com",
-"name_src": "domain",
-"names": [],
-"country": "新加坡",
-"iso": "SG",
-"region": "亚太",
-"other_countries": [],
-"domains": [
-"barriermaster.com"
-],
-"urls": [
-"https://barriermaster.com/"
-],
-"platform_links": [],
-"emails": [
-"contact@barriermaster.com"
-],
-"corp_emails": [
-"contact@barriermaster.com"
-],
-"phones": [
-"6591333889"
-],
-"persons": [
-"Alson"
-],
-"positions": [],
-"froms": [
-"2024.10.31"
-],
-"interests": [],
-"remarks": [
-"4V 8V模拟光端机 / from: 自建站"
-],
-"categories": [],
-"tags": [
-"询盘流水"
-],
-"flags": {},
-"fit": {
-"off": 1,
-"vc": 1
-},
-"ai_evals": [],
-"years": [
-2024
-],
-"sources": [
-{
-"file": "Clients/询盘统计表.xlsx",
-"sheet": "Sheet1",
-"row": 68,
-"no": "",
-"tags": [
-"询盘流水"
-],
-"company": "https://barriermaster.com/",
-"country": "新加坡",
-"person": "Alson",
-"from": "2024.10.31",
-"interest": "",
-"contact": "Contact@barriermaster.com",
-"mobile": "WeChat e3838076m, WhatsApp 6591333889",
-"website": "",
-"remark": "4V 8V模拟光端机",
-"extra": "from: 自建站",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 2024,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"+12 主动询盘（阿里巴巴/自建站/转介）",
-"-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+3 区域 亚太/新加坡",
-"+2 最近活动 2024"
-],
-"c_sub": "品类不符（VC/DWDM/CCTV 等）",
-"status": "名单内·未触达",
-"code": "SC-464",
+"code": "SC-4735",
 "grade": "C"
 },
 {
@@ -681752,7 +682948,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "用户判定不行",
-"code": "SC-4640",
+"code": "SC-4736",
 "grade": "C"
 },
 {
@@ -681844,7 +683040,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "用户判定不行",
-"code": "SC-4641",
+"code": "SC-4737",
 "grade": "C"
 },
 {
@@ -681936,7 +683132,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "用户判定不行",
-"code": "SC-4642",
+"code": "SC-4738",
 "grade": "C"
 },
 {
@@ -682023,1244 +683219,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "用户判定不行",
-"code": "SC-4643",
-"grade": "C"
-},
-{
-"name": "（未具名）",
-"name_src": "none",
-"names": [],
-"country": "未填",
-"iso": "??",
-"region": "未知",
-"other_countries": [],
-"domains": [],
-"urls": [
-"https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8"
-],
-"platform_links": [
-"https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8"
-],
-"emails": [],
-"corp_emails": [],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"海关数据"
-],
-"interests": [],
-"remarks": [],
-"categories": [],
-"tags": [
-"用户判定不行"
-],
-"flags": {},
-"fit": {},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/不行及不太相关的.xlsx",
-"sheet": "总表",
-"row": 547,
-"no": "",
-"tags": [
-"用户判定不行"
-],
-"company": "https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8",
-"country": "",
-"person": "",
-"from": "海关数据",
-"interest": "",
-"contact": "",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": -103,
-"reasons": [
-"-60 用户已归入「不行及不太相关的」",
-"-40 无任何联系方式",
-"-3 区域 未知/未填"
-],
-"c_sub": "无联系方式",
-"status": "用户判定不行",
-"code": "SC-4644",
-"grade": "C"
-},
-{
-"name": "（未具名）",
-"name_src": "none",
-"names": [],
-"country": "俄罗斯",
-"iso": "RU",
-"region": "俄语区",
-"other_countries": [],
-"domains": [],
-"urls": [],
-"platform_links": [],
-"emails": [],
-"corp_emails": [],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"ETW 2011"
-],
-"interests": [
-"SFP"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"用户判定不行"
-],
-"flags": {},
-"fit": {
-"mc_sfp": 1
-},
-"ai_evals": [],
-"years": [
-2011
-],
-"sources": [
-{
-"file": "Clients/不行及不太相关的.xlsx",
-"sheet": "总表",
-"row": 68,
-"no": "96",
-"tags": [
-"用户判定不行"
-],
-"company": "itrade-group.ru",
-"country": "俄罗斯",
-"person": "",
-"from": "ETW 2011",
-"interest": "SFP",
-"contact": "",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": -108,
-"reasons": [
-"-60 用户已归入「不行及不太相关的」",
-"+2 兴趣仅 MC/SFP/配件（边缘品类）",
-"-40 无任何联系方式",
-"+0 区域 俄语区/俄罗斯",
-"-10 来源为 2010–2015 年展会且无后续记录"
-],
-"c_sub": "无联系方式",
-"status": "用户判定不行",
-"code": "SC-4645",
-"grade": "C"
-},
-{
-"name": "（未具名）",
-"name_src": "none",
-"names": [],
-"country": "哈萨克斯坦",
-"iso": "KZ",
-"region": "俄语区",
-"other_countries": [],
-"domains": [],
-"urls": [],
-"platform_links": [],
-"emails": [],
-"corp_emails": [],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"ETW 2011"
-],
-"interests": [
-"VC, russian"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"用户判定不行"
-],
-"flags": {},
-"fit": {
-"vc": 1
-},
-"ai_evals": [],
-"years": [
-2011
-],
-"sources": [
-{
-"file": "Clients/不行及不太相关的.xlsx",
-"sheet": "总表",
-"row": 84,
-"no": "112",
-"tags": [
-"用户判定不行"
-],
-"company": "",
-"country": "哈萨克斯坦",
-"person": "",
-"from": "ETW 2011",
-"interest": "VC, russian",
-"contact": "",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": -125,
-"reasons": [
-"-60 用户已归入「不行及不太相关的」",
-"-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）",
-"-40 无任何联系方式",
-"+0 区域 俄语区/哈萨克斯坦",
-"-10 来源为 2010–2015 年展会且无后续记录"
-],
-"c_sub": "无联系方式",
-"status": "用户判定不行",
-"code": "SC-4646",
-"grade": "C"
-},
-{
-"name": "bas-ip.com",
-"name_src": "domain",
-"names": [],
-"country": "俄罗斯",
-"iso": "RU",
-"region": "俄语区",
-"other_countries": [],
-"domains": [
-"bas-ip.com"
-],
-"urls": [
-"https://bas-ip.com/hardware/sh-20-8/"
-],
-"platform_links": [],
-"emails": [
-"sales@bas-ip.com"
-],
-"corp_emails": [
-"sales@bas-ip.com"
-],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"主要是CCTV 有一些商业POE\nSwitch数量不是很多"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(Russia)"
-],
-"flags": {},
-"fit": {
-"switch": 1,
-"off": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
-"sheet": "总表",
-"row": 75,
-"no": "74",
-"tags": [
-"群发(Russia)"
-],
-"company": "https://bas-ip.com/hardware/sh-20-8/",
-"country": "俄罗斯",
-"person": "",
-"from": "谷歌",
-"interest": "主要是CCTV 有一些商业POE\nSwitch数量不是很多",
-"contact": "sales@bas-ip.com",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+0 区域 俄语区/俄罗斯"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-465",
-"grade": "C"
-},
-{
-"name": "bast.ru",
-"name_src": "domain",
-"names": [],
-"country": "俄罗斯",
-"iso": "RU",
-"region": "俄语区",
-"other_countries": [],
-"domains": [
-"bast.ru"
-],
-"urls": [
-"https://bast.ru/power-over-ethernet/"
-],
-"platform_links": [],
-"emails": [
-"sales@bast.ru"
-],
-"corp_emails": [
-"sales@bast.ru"
-],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"主要是CCTV 有一些商业POE"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(Russia)"
-],
-"flags": {},
-"fit": {
-"switch": 1,
-"off": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
-"sheet": "总表",
-"row": 60,
-"no": "59",
-"tags": [
-"群发(Russia)"
-],
-"company": "https://bast.ru/power-over-ethernet/",
-"country": "俄罗斯",
-"person": "",
-"from": "谷歌",
-"interest": "主要是CCTV 有一些商业POE",
-"contact": "sales@bast.ru",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+0 区域 俄语区/俄罗斯"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-466",
-"grade": "C"
-},
-{
-"name": "bbrc.ru",
-"name_src": "domain",
-"names": [],
-"country": "俄罗斯",
-"iso": "RU",
-"region": "俄语区",
-"other_countries": [],
-"domains": [
-"bbrc.ru"
-],
-"urls": [
-"https://www.bbrc.ru/catalog/category/promyshlennyy_ethernet/",
-"https://www.bbrc.ru/upload/iblock/480/xv1e8g0d48iy0opb23z0mxboiqfzoi7y/66331768_0fed_11e8_80d8_0cc47a1243ef_c634d289_260f_11e8_80d8_0cc47a1243ef.pdf"
-],
-"platform_links": [],
-"emails": [
-"kip@bbrc.ru",
-"sales@bbrc.ru"
-],
-"corp_emails": [
-"kip@bbrc.ru",
-"sales@bbrc.ru"
-],
-"phones": [
-"74951090208"
-],
-"persons": [
-"很多牌子 销售平台 / Moxa Edimax等"
-],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"工业FS MC SFP Bypass 周边产品",
-"switch"
-],
-"remarks": [
-"749510 90208 \n网站上的"
-],
-"categories": [],
-"tags": [
-"群发(Russia)",
-"群发(电口)"
-],
-"flags": {},
-"fit": {
-"switch": 2,
-"mc_sfp": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
-"sheet": "总表",
-"row": 122,
-"no": "121",
-"tags": [
-"群发(Russia)"
-],
-"company": "https://www.bbrc.ru/catalog/category/promyshlennyy_ethernet/",
-"country": "俄罗斯",
-"person": "很多牌子 销售平台\nMoxa Edimax等",
-"from": "谷歌",
-"interest": "工业FS MC SFP Bypass 周边产品",
-"contact": "kip@bbrc.ru",
-"mobile": "",
-"website": "",
-"remark": "749510 90208 \n网站上的",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-},
-{
-"file": "Clients/E/群发/电口  08.22.xlsx",
-"sheet": "总表",
-"row": 6,
-"no": "5",
-"tags": [
-"群发(电口)"
-],
-"company": "https://www.bbrc.ru/upload/iblock/480/xv1e8g0d48iy0opb23z0mxboiqfzoi7y/66331768_0fed_11e8_80d8_0cc47a1243ef_c634d289_260f_11e8_80d8_0cc47a1243ef.pdf",
-"country": "俄罗斯",
-"person": "",
-"from": "谷歌",
-"interest": "switch",
-"contact": "sales@bbrc.ru",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [
-"d:bbrc.ru"
-],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+0 区域 俄语区/俄罗斯"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-467",
-"grade": "C"
-},
-{
-"name": "bic-inform.ru",
-"name_src": "domain",
-"names": [],
-"country": "俄罗斯",
-"iso": "RU",
-"region": "俄语区",
-"other_countries": [],
-"domains": [
-"bic-inform.ru"
-],
-"urls": [
-"https://bic-inform.ru/products/progmatic/kommutatoryi/"
-],
-"platform_links": [],
-"emails": [
-"bic@bic-inform.ru",
-"msk@bic-inform.ru"
-],
-"corp_emails": [
-"bic@bic-inform.ru",
-"msk@bic-inform.ru"
-],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"主要是CCTV 有一些商业POE"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(Russia)"
-],
-"flags": {},
-"fit": {
-"switch": 1,
-"off": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
-"sheet": "总表",
-"row": 55,
-"no": "54",
-"tags": [
-"群发(Russia)"
-],
-"company": "https://bic-inform.ru/products/progmatic/kommutatoryi/",
-"country": "俄罗斯",
-"person": "",
-"from": "谷歌",
-"interest": "主要是CCTV 有一些商业POE",
-"contact": "bic@bic-inform.ru\nmsk@bic-inform.ru",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+0 区域 俄语区/俄罗斯"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-468",
-"grade": "C"
-},
-{
-"name": "bic-video.ru",
-"name_src": "domain",
-"names": [],
-"country": "俄罗斯",
-"iso": "RU",
-"region": "俄语区",
-"other_countries": [],
-"domains": [
-"bic-video.ru"
-],
-"urls": [
-"https://www.bic-video.ru/catalog/products/sf-g2041-ic-promyshlennyy-poe-kommutator-gigabit-ethernet.html",
-"https://www.bic-video.ru/brands/"
-],
-"platform_links": [],
-"emails": [
-"info@bic-video.ru",
-"narvskaya@bic-video.ru",
-"ozerki@bic-video.ru",
-"lad@bic-video.ru"
-],
-"corp_emails": [
-"info@bic-video.ru",
-"narvskaya@bic-video.ru",
-"ozerki@bic-video.ru",
-"lad@bic-video.ru"
-],
-"phones": [],
-"persons": [
-"之前跟过"
-],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"工业FS SFP MC 朱姐客户的\n HDMI SDI AHD",
-"很多牌子 可以查一下"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(Russia)"
-],
-"flags": {},
-"fit": {
-"switch": 1,
-"mc_sfp": 1,
-"off": 1,
-"vc": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
-"sheet": "总表",
-"row": 138,
-"no": "137",
-"tags": [
-"群发(Russia)"
-],
-"company": "https://www.bic-video.ru/catalog/products/sf-g2041-ic-promyshlennyy-poe-kommutator-gigabit-ethernet.html",
-"country": "俄罗斯",
-"person": "",
-"from": "谷歌",
-"interest": "工业FS SFP MC 朱姐客户的\n HDMI SDI AHD",
-"contact": "info@bic-video.ru\nnarvskaya@bic-video.ru\nozerki@bic-video.ru\nlad@bic-video.ru",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-},
-{
-"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
-"sheet": "总表",
-"row": 162,
-"no": "161",
-"tags": [
-"群发(Russia)"
-],
-"company": "https://www.bic-video.ru/brands/",
-"country": "俄罗斯",
-"person": "之前跟过",
-"from": "谷歌",
-"interest": "很多牌子 可以查一下",
-"contact": "",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [
-"d:bic-video.ru"
-],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+0 区域 俄语区/俄罗斯"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-469",
-"grade": "C"
-},
-{
-"name": "bilberk.com",
-"name_src": "domain",
-"names": [],
-"country": "土耳其",
-"iso": "TR",
-"region": "土耳其",
-"other_countries": [],
-"domains": [
-"bilberk.com"
-],
-"urls": [
-"http://bilberk.com/"
-],
-"platform_links": [],
-"emails": [
-"serefberk@bilberk.com"
-],
-"corp_emails": [
-"serefberk@bilberk.com"
-],
-"phones": [
-"905323677990"
-],
-"persons": [
-"Mr.Seref"
-],
-"positions": [],
-"froms": [
-"2023.3.2"
-],
-"interests": [
-"思科产品"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(Cisco/Cisco)"
-],
-"flags": {
-"wa_added": 1
-},
-"fit": {},
-"ai_evals": [],
-"years": [
-2023
-],
-"sources": [
-{
-"file": "Clients/E/群发/Cisco 09.11/Cisco.xlsx",
-"sheet": "总表",
-"row": 6,
-"no": "5",
-"tags": [
-"群发(Cisco/Cisco)"
-],
-"company": "http://bilberk.com/\n杂货铺",
-"country": "土耳其",
-"person": "Mr.Seref",
-"from": "2023.3.2",
-"interest": "思科产品",
-"contact": "serefberk@bilberk.com\n90 53236 77990 已加",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 2023,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+8 区域 土耳其/土耳其"
-],
-"c_sub": "群发冷名单无回应",
-"status": "WhatsApp 已加·未回复",
-"code": "SC-470",
-"grade": "C"
-},
-{
-"name": "bingcomm.com",
-"name_src": "domain",
-"names": [],
-"country": "越南",
-"iso": "VN",
-"region": "亚太",
-"other_countries": [],
-"domains": [
-"bingcomm.com"
-],
-"urls": [
-"http://bingcomm.com/"
-],
-"platform_links": [],
-"emails": [
-"sales@bingcomm.com",
-"support@bingcomm.com"
-],
-"corp_emails": [
-"sales@bingcomm.com",
-"support@bingcomm.com"
-],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"ONV的FS 工业FS\n也有Yeastar的设备"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(VN/VN)"
-],
-"flags": {},
-"fit": {
-"switch": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/VN 09.09 09.10/VN.xlsx",
-"sheet": "总表",
-"row": 34,
-"no": "36",
-"tags": [
-"群发(VN/VN)"
-],
-"company": "http://bingcomm.com/",
-"country": "越南",
-"person": "",
-"from": "谷歌",
-"interest": "ONV的FS 工业FS\n也有Yeastar的设备",
-"contact": "sales@bingcomm.com\nsupport@bingcomm.com",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+0 区域 亚太/越南"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-471",
-"grade": "C"
-},
-{
-"name": "bkaii.com.vn",
-"name_src": "domain",
-"names": [],
-"country": "越南",
-"iso": "VN",
-"region": "亚太",
-"other_countries": [],
-"domains": [
-"bkaii.com.vn"
-],
-"urls": [
-"https://bkaii.com.vn/lien-he"
-],
-"platform_links": [],
-"emails": [
-"info@bkaii.com.vn"
-],
-"corp_emails": [
-"info@bkaii.com.vn"
-],
-"phones": [],
-"persons": [
-"卖很多牌子的产品"
-],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"MC FS 机架"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(VN/VN)"
-],
-"flags": {},
-"fit": {
-"switch": 1,
-"mc_sfp": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/VN 09.09 09.10/VN.xlsx",
-"sheet": "总表",
-"row": 12,
-"no": "14",
-"tags": [
-"群发(VN/VN)"
-],
-"company": "https://bkaii.com.vn/lien-he",
-"country": "越南",
-"person": "卖很多牌子的产品",
-"from": "谷歌",
-"interest": "MC FS 机架",
-"contact": "info@bkaii.com.vn",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+0 区域 亚太/越南"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-472",
-"grade": "C"
-},
-{
-"name": "bkpttech.vn",
-"name_src": "domain",
-"names": [],
-"country": "越南",
-"iso": "VN",
-"region": "亚太",
-"other_countries": [],
-"domains": [
-"bkpttech.vn"
-],
-"urls": [
-"http://bkpttech.vn/media-converter-aom2200"
-],
-"platform_links": [],
-"emails": [
-"info@bkpttech.vn"
-],
-"corp_emails": [
-"info@bkpttech.vn"
-],
-"phones": [],
-"persons": [
-"AoA的"
-],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"工业MC"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(VN/VN)"
-],
-"flags": {},
-"fit": {
-"switch": 1,
-"mc_sfp": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/VN 09.09 09.10/VN.xlsx",
-"sheet": "总表",
-"row": 69,
-"no": "71",
-"tags": [
-"群发(VN/VN)"
-],
-"company": "http://bkpttech.vn/media-converter-aom2200",
-"country": "越南",
-"person": "AoA的",
-"from": "谷歌",
-"interest": "工业MC",
-"contact": "info@bkpttech.vn",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+0 区域 亚太/越南"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-473",
+"code": "SC-4739",
 "grade": "C"
 },
 {
@@ -683416,6 +683375,275 @@
 "c_sub": "群发冷名单无回应",
 "status": "名单内·未触达",
 "code": "SC-474",
+"grade": "C"
+},
+{
+"name": "（未具名）",
+"name_src": "none",
+"names": [],
+"country": "未填",
+"iso": "??",
+"region": "未知",
+"other_countries": [],
+"domains": [],
+"urls": [
+"https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8"
+],
+"platform_links": [
+"https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8"
+],
+"emails": [],
+"corp_emails": [],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"海关数据"
+],
+"interests": [],
+"remarks": [],
+"categories": [],
+"tags": [
+"用户判定不行"
+],
+"flags": {},
+"fit": {},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/不行及不太相关的.xlsx",
+"sheet": "总表",
+"row": 547,
+"no": "",
+"tags": [
+"用户判定不行"
+],
+"company": "https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8",
+"country": "",
+"person": "",
+"from": "海关数据",
+"interest": "",
+"contact": "",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": -103,
+"reasons": [
+"-60 用户已归入「不行及不太相关的」",
+"-40 无任何联系方式",
+"-3 区域 未知/未填"
+],
+"c_sub": "无联系方式",
+"status": "用户判定不行",
+"code": "SC-4740",
+"grade": "C"
+},
+{
+"name": "（未具名）",
+"name_src": "none",
+"names": [],
+"country": "俄罗斯",
+"iso": "RU",
+"region": "俄语区",
+"other_countries": [],
+"domains": [],
+"urls": [],
+"platform_links": [],
+"emails": [],
+"corp_emails": [],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"ETW 2011"
+],
+"interests": [
+"SFP"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"用户判定不行"
+],
+"flags": {},
+"fit": {
+"mc_sfp": 1
+},
+"ai_evals": [],
+"years": [
+2011
+],
+"sources": [
+{
+"file": "Clients/不行及不太相关的.xlsx",
+"sheet": "总表",
+"row": 68,
+"no": "96",
+"tags": [
+"用户判定不行"
+],
+"company": "itrade-group.ru",
+"country": "俄罗斯",
+"person": "",
+"from": "ETW 2011",
+"interest": "SFP",
+"contact": "",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": -108,
+"reasons": [
+"-60 用户已归入「不行及不太相关的」",
+"+2 兴趣仅 MC/SFP/配件（边缘品类）",
+"-40 无任何联系方式",
+"+0 区域 俄语区/俄罗斯",
+"-10 来源为 2010–2015 年展会且无后续记录"
+],
+"c_sub": "无联系方式",
+"status": "用户判定不行",
+"code": "SC-4741",
+"grade": "C"
+},
+{
+"name": "（未具名）",
+"name_src": "none",
+"names": [],
+"country": "哈萨克斯坦",
+"iso": "KZ",
+"region": "俄语区",
+"other_countries": [],
+"domains": [],
+"urls": [],
+"platform_links": [],
+"emails": [],
+"corp_emails": [],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"ETW 2011"
+],
+"interests": [
+"VC, russian"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"用户判定不行"
+],
+"flags": {},
+"fit": {
+"vc": 1
+},
+"ai_evals": [],
+"years": [
+2011
+],
+"sources": [
+{
+"file": "Clients/不行及不太相关的.xlsx",
+"sheet": "总表",
+"row": 84,
+"no": "112",
+"tags": [
+"用户判定不行"
+],
+"company": "",
+"country": "哈萨克斯坦",
+"person": "",
+"from": "ETW 2011",
+"interest": "VC, russian",
+"contact": "",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": -125,
+"reasons": [
+"-60 用户已归入「不行及不太相关的」",
+"-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）",
+"-40 无任何联系方式",
+"+0 区域 俄语区/哈萨克斯坦",
+"-10 来源为 2010–2015 年展会且无后续记录"
+],
+"c_sub": "无联系方式",
+"status": "用户判定不行",
+"code": "SC-4742",
 "grade": "C"
 },
 {

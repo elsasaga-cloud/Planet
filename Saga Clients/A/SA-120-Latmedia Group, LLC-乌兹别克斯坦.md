@@ -1,5 +1,5 @@
 # Latmedia Group, LLC
-**官方名称（调研核实）**：Latmedia Group, LLC（乌兹别克斯坦）
+**官方名称（调研核实）**：LATMEDIA GROUP LLC（ООО Latmedia group，塔什干，乌兹别克斯坦）
 
 > **评级 A**　|　乌兹别克斯坦　|　档案编号 `SA-120`　|　优先级 ★★★　|　状态：名单内·未触达
 >
@@ -9,7 +9,7 @@
 code: SA-120
 rating: A
 rating_auto: A
-name_official: "Latmedia Group, LLC（乌兹别克斯坦）"
+name_official: "LATMEDIA GROUP LLC（ООО Latmedia group，塔什干，乌兹别克斯坦）"
 score: 63
 country: 乌兹别克斯坦
 region: 俄语区
@@ -72,29 +72,42 @@ updated: 2026-10-21
 - **【用户记录】自建站询盘 L2+/L3 商业交换机；电话 998 90 9767748；0 次跟进**
   > L2+/L3商业交换机 / from: 自建站；998 90 9767748（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网】公司定位：数字营销代理，2012 年起，CEO**
+  > Одна из ведущих и успешных компаний на рынке Узбекистана, в сфере Digital-Маркетинга. Наша история начинается с 2012 г. … Пак Максим CEO LATMEDIA
+  > 来源：https://latmedia.uz/about/（抓取 2023-08-28）
+- **【黄页】法人名、邮箱、地址**
+  > Legal name: LATMEDIA GROUP ООО … E-mail: Info@latmedia.uz, web@latmedia.uz … Address: Uzbekistan, Tashkent region, Tashkent, Yashnabad district, massif M. RIYOZI … Seo - Optimization, IP (Social Media Marketing) - Promotion
+  > 来源：https://www.yellowpages.uz/en/company/latmedia-group-llc（抓取 2026-10-21）
+- **【2GIS】广告代理分类与地址**
+  > Latmedia group, рекламное агентство … ООО Latmedia group … Массив Риёзи, 28/2 Риёзи ж/м, Яшнабадский район, Ташкент
+  > 来源：https://2gis.uz/tashkent/firm/70000001036910454（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） +998 90 976 7748〔用户 Clients 表（自建站询盘）〕
+- **KP**：Пак Максим（Maksim Pak）（CEO LATMEDIA（官网 About））info@latmedia.uz（公司公开） +998 90 115 51 00（公司 Telegram）〔https://latmedia.uz/about/〕
 - 备注：唯一一条'入站 L3 询盘却从未被跟进'的 A 级线索：先补发首封回复（L2+ STC-424DGGPM-280W / L3 STC-448XGGM(L3)，项目 25%），一轮后按回应重定级。俄语区非主攻，不额外投入。 ｜ T27 用户更正（2026-10-21）：该询盘已由 a.sagatelecom@gmail 邮箱跟进过（表内未记录）；跟进往来待用户导出 A 邮箱后补入。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研；A 信箱已跟进））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + 黄页核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Latmedia Group, LLC |
-| 总部/地址 | Uzbekistan |
-| 其他 | IT 集成/贸易商；2025 自建站询盘 L2+/L3 商业级交换机；A 信箱已跟进（用户 T27 说明） |
+| 法定名称 | LATMEDIA GROUP ООО |
+| 成立 | 2012 |
+| 总部/地址 | Ташкент, Яшнабадский район, массив Риёзи 28/2（黄页另列 ул. Сайрам 25, 100170）；info@latmedia.uz / web@latmedia.uz；Telegram +998 90 115 51 00 |
+| 人数 | ≈19（ZoomInfo 口径，待核） |
+| 其他 | **数字营销/广告代理公司**（SMM、SEO、投放、网站开发），非网络设备商；CEO Пак Максим（Maksim Pak），创始人 Jahongir Latipov（Webster Univ. 介绍）；网站 2025-09 更新为「LATMEDIA Community」 |
 
-- **业务线**：IT 集成 / 贸易
+- **业务线**：IT 集成 / 贸易；数字营销 / SMM / SEO / 投放；网站与 Web 开发；（本次询盘）L2+/L3 商用交换机——用途不明（自用办公/机房或代客户采购）
 
 | 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
 |---|---|---|---|---|
 | （询盘） | L2+/L3 商业级交换机 | 自建站询盘 | STC-424DGGPM-280W（L2+）/ STC-448XGGM(L3) | （本地 Clients/ 表格，无公开 URL）（2025） |
 
-- **触达通道（公开）**：网站: https://latmedia.uz/；直邮: vladimir.xe@latmedia.uz（用户表）；电话: 用户表留有手机号
+- **触达通道（公开）**：网站: https://latmedia.uz/；直邮: vladimir.xe@latmedia.uz（用户表）；电话: 用户表留有手机号；邮箱（公开）: info@latmedia.uz / web@latmedia.uz；Telegram: +998 90 115 51 00（Instagram 简介公开）；Instagram: https://www.instagram.com/latmedia_agency/（2,181 followers）
 - **近况信号**：
   - 主动询盘 L2+/L3——需求明确；跟进记录在 A 信箱（待导出）
-- **风险/边界**：乌兹别克斯坦物流/结算；跟进历史未入库
+  - 公司主业为营销代理——L2+/L3 交换机询盘更可能是一次性（自建机房/代客户），不是渠道复购（2026-10-21）
+- **风险/边界**：乌兹别克斯坦物流/结算；跟进历史未入库；询盘来源与真实需求待核（营销代理公司问交换机可能是代采购或网站开发配套）；A 邮箱已跟进（用户 T27 确认）——下一步仅问「用途与台数」一句，不再多轮
 - **Saga 对位结论**：P1 STC-448XGGM(L3)（25% 档）——询盘 L2+/L3：STC-448XGGM(L3)（EXW $485.8 @25%）+ STC-424DGGPM-280W（L2+）；集成商 25% 档
-- **邮件切入句（英文）**：Following up on your L2+/L3 enquiry, the 48-port L3 unit with 10G uplinks and the 24-port L2+ PoE+ model are the two Marvell-based platforms I can quote EXW, with the L3 feature list attached.
+- **邮件切入句（英文）**：Before I send the L2+/L3 managed switch quote you asked about, could you tell me roughly how many ports and whether it is for your own office or a client project, so I pick the right model?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -117,6 +130,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Пак Максим（Maksim Pak） | CEO LATMEDIA（官网 About） | info@latmedia.uz（公司公开） / +998 90 115 51 00（公司 Telegram） | 调研核实（公开页） | https://latmedia.uz/about/ |
 | Vladimir Xe | — | vladimir.xe@latmedia.uz / +998909767748 | 用户表原值 | Clients/ 表 |
 | Vladimir Xe, Co-founder | — | vladimir.xe@latmedia.uz / +998909767748 | 用户表原值 | Clients/ 表 |
 
@@ -190,7 +204,7 @@ updated: 2026-10-21
 ```text
 Hi Vladimir,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Following up on your L2+/L3 enquiry, the 48-port L3 unit with 10G uplinks and the 24-port L2+ PoE+ model are the two Marvell-based platforms I can quote EXW, with the L3 feature list attached.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Before I send the L2+/L3 managed switch quote you asked about, could you tell me roughly how many ports and whether it is for your own office or a client project, so I pick the right model?
 
 We supply a CENTEC-based 48-port Gigabit L3 switch with 10G uplinks - model STC-448XGGM(L3) - that fits the same slot as your （询盘） L2+/L3 商业级交换机 at a lower landed cost, and we can ship it with neutral packaging. Current price: $485.8 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

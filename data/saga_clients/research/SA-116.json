@@ -10,7 +10,8 @@
   "Lenovo",
   "Sumitomo",
   "Tyco",
-  "Emcore"
+  "Emcore",
+  "MICROSENS"
  ],
  "evidence": [
   {
@@ -33,6 +34,27 @@
    "quote": "промышленные коммутаторы MICROSENS промышленный ethernet 10G XFP CWDM Copper SFP",
    "url": "https://www.ccs-msk.ru/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "合作品牌与业务范围",
+   "quote": "Компания CCS является официальным партнёром компаний MICROSENS и LENOVO, а также дистрибьютором японской компании SUMITOMO … оборудования промышленного Ethernet, систем FTTO и Smart Office, кабельной продукции с различными интерфейсами (HDSAS, SAS, SATA, Infiniband и др.) … кабели стандарта SpaceWire",
+   "url": "https://www.ccs-msk.ru/about",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "Microsens Entry Line 工业千兆机规格",
+   "quote": "5/8 портовые промышленные Gigabit Ethernet коммутаторы, Entry Line, SFP слот (MS655200X) … до восьми портов RJ-45 и два SFP слота … 5-портовый коммутатор Gigabit Ethernet, 5x 10/100/1000Base-T, диапазон рабочей температуры от -40 до +75°С · MS655200X",
+   "url": "https://www.ccs-msk.ru/catalog/microsens/industrial_ethernet/gigabit_switches/MS6552XX",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "地址电话邮箱",
+   "quote": "Наши телефоны: (495) 926-86-95, (963) 763-88-43 e-mail: sales@ccs-msk.ru Наш адрес: 107589, г. Москва, ул. Красноярская д.1, корп. 1",
+   "url": "https://www.ccs-msk.ru/contacts",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -50,17 +72,20 @@
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1（沿用首轮调研）"
+  "level": "深挖 v2（官网 Microsens 目录核对）"
  },
  "company_facts": {
   "legal_name": "CCS（ccs-msk.ru）",
-  "hq": "Moscow, Russia",
-  "other": "IT/电信设备分销商（十余年）：Microsens 与 Lenovo 官方合作伙伴、住友（Sumitomo）分销；有源/无源网络、服务器存储、工业以太网、FTTO/Smart Office、SAS/Infiniband 线缆与定制产品"
+  "hq": "107589, Москва, ул. Красноярская, д.1, корп.1（(495) 926-86-95 / (963) 763-88-43；sales@ccs-msk.ru）",
+  "other": "MICROSENS（德）与 LENOVO 官方合作伙伴、住友电工分销商；供应有源/无源网络设备、服务器/存储、工业以太网、FTTO / Smart Office、SAS/SATA/Infiniband/SpaceWire 线缆与定制；在售 Microsens 工业机：Entry Line MS655200X（5/8×GE + SFP，-40~75℃，继电器）、Profi Line MS650869M-B（7×FE + 1×GE + 2×1000 SX/LX，铁路/能源）、FiberGuard MS650090 光纤保护开关；注：Microsens 俄罗斯独家工业线分销为 2TEST，CCS 为「官方伙伴」"
  },
  "business_lines": [
   "企业网络 + 工业以太网分销（Microsens 等）",
   "服务器/存储（Lenovo）",
-  "光纤/铜缆与定制线缆（Sumitomo、Tyco）"
+  "光纤/铜缆与定制线缆（Sumitomo、Tyco）",
+  "Microsens 光纤/工业以太网/FTTO 供应",
+  "Lenovo 服务器存储、住友光纤",
+  "数据中心线缆（SAS/Infiniband/DAC）与定制线"
  ],
  "products_seen": [
   {
@@ -78,17 +103,37 @@
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "用户表",
    "saga": "STI-110GE"
+  },
+  {
+   "brand": "MICROSENS",
+   "model": "MS655200X（Entry Line）",
+   "spec": "5/8×10/100/1000 + SFP 槽，-40~75℃，冗余电源，继电器，即插即用",
+   "url": "https://www.ccs-msk.ru/catalog/microsens/industrial_ethernet/gigabit_switches/MS6552XX",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM / STI-144GP（PoE 版；非 PoE 需核）"
+  },
+  {
+   "brand": "MICROSENS",
+   "model": "MS650869M-B（Profi Line）",
+   "spec": "10 口：7×FE + 1×GE + 2×1000Base-SX/LX，铁路/能源（守界：铁路不供）",
+   "url": "https://www.ccs-msk.ru/catalog/microsens/industrial_ethernet/gigabit_switches/MS650869",
+   "date": "2026-10-21",
+   "saga": "—（铁路用途不对位）"
   }
  ],
  "channels": {
-  "网站": "https://ccs-msk.ru/",
-  "直邮": "pkarpov@ccs-msk.ru（用户表）"
+  "网站": "https://www.ccs-msk.ru/",
+  "直邮": "pkarpov@ccs-msk.ru（用户表）",
+  "电话": "+7 495 926-86-95 / +7 963 763-88-43（官网公开）",
+  "邮箱（公开）": "sales@ccs-msk.ru"
  },
  "signals": [
-  "Microsens（德系高价工业/FTTO）在俄供货受限——低价替代位空出（推断，待补证）"
+  "Microsens（德系高价工业/FTTO）在俄供货受限——低价替代位空出（推断，待补证）",
+  "德系 Microsens 在俄供货受限（制裁/物流）——Entry Line 入门工业千兆位是白牌 Marvell 替代的切口；Profi Line 铁路/能源位不碰（2026-10-21）"
  ],
  "risks": [
-  "俄罗斯结算/制裁合规由客户侧；Microsens 级客户对功能（环网/管理）要求高"
+  "俄罗斯结算/制裁合规由客户侧；Microsens 级客户对功能（环网/管理）要求高",
+  "铁路/能源项目为其 Microsens 主场——只对位 Entry Line 通用工业机，不参与铁路（EN50155）与能源站级项目"
  ],
  "saga_fit": {
   "p1": "STI-288DGGPM",
