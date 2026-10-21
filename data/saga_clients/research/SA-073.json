@@ -41,6 +41,34 @@
    "quote": "VIVOTEK – POE-SWITCH AW-GEL-105A-110 EU… 705.00 + VAT",
    "url": "https://www.ekhalas.com/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "成立、母公司、业务范围",
+   "quote": "Established in 2014 as a subsidiary of Al Rajhi Building & Construction Al Rajhi Telecom Company is a Saudi-based technology solutions provider serving government, commercial, industrial, and telecommunications sectors. Specializing in ICT infrastructure, MEP systems, ELV solutions, software development, cybersecurity, telecommunications, and data center and power services",
+   "url": "https://www.alrajhitel.com/",
+   "date": "2025-08-17"
+  },
+  {
+   "kind": "官网",
+   "claim": "2024 成立 Al Rajhi Distribution、第三家展厅",
+   "quote": "2024 We have expanded our presence in the Eastern Province by opening our third showroom in Jubail. Additionally, we have successfully established a new entity called Al Rajhi Distribution, allowing us to enter the distribution business",
+   "url": "https://alrajhitel.odoo.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "关联公司官网",
+   "claim": "Silkroad：2005 起、3,000+ 客户、自有品牌零售",
+   "quote": "Established in the year 2005 as a telecom contracting company, Silkroad Business Solutions Company operates across all the regions of Saudi Arabia and has an extensive network of more than 3000+ customers … to introducing our own brands into the retail market",
+   "url": "https://www.ekhalas.com/about-us/",
+   "date": "2026-08-08"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "规模与专长",
+   "quote": "Company size: 501-1,000 employees … Specialties: Cyber Security, Low Current, Telecommunication … CCTV, Public Address System, Access Control System, IPTV, Fire Alarm System, Data Passive System, Cisco Premium Partners",
+   "url": "https://www.linkedin.com/company/alrajhitel/",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -58,18 +86,23 @@
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1（沿用首轮调研）"
+  "level": "深挖 v2（官网 + LinkedIn + 关联公司核对）"
  },
  "company_facts": {
-  "legal_name": "Al Rajhi Telecom Company / Silkroad Business Solutions（ekhalas.com）",
-  "founded": "2005（电信承包）/ 2015（ICT 集成）",
-  "hq": "Riyadh, Saudi Arabia",
-  "other": "B2B 电商 ekhalas.com：Vivotek PoE、TP-Link Omada、Huawei eKit、Dahua；自称 3,000+ 客户；有自有品牌进入零售；用户表：工业 FS 用 OTS 的"
+  "legal_name": "Al Rajhi Telecom Company（Al Rajhi Building & Construction 子公司）；关联 Silkroad Business Solutions Company（2005 电信承包商，ekhalas.com 运营方）",
+  "founded": "2014（官网时间线；LinkedIn 2013）",
+  "hq": "7687 King Fahad Branch Road, Al Murabba Dist., Unit 147, Riyadh 12612",
+  "other": "业务：ICT 基础设施、MEP、ELV（CCTV/门禁/PA/IPTV/消防/主时钟）、软件、网络安全、电信 OSP/ISP、数据中心与电源；Cisco Premium Partner；展厅 Riyadh / Al Khobar / Jeddah / Jubail（2024 第三家）；**2024 成立 Al Rajhi Distribution 进入分销**；电商 ekhalas.com；2024-07 与 Mobi Egypt 成立数据中心合资；Silkroad 自述「3,000+ 客户」并「向零售市场推出自有品牌」；高管：CEO Mohammed Abdul Majid、Director of Group Sales Mohamed W Telfah、Sales Director Mohamad Hejazi、GM Mohammed Naser Al Sultan（ContactOut 名录）",
+  "staff": "501–1,000（LinkedIn，3,078 followers）"
  },
  "business_lines": [
   "电信承包 / ICT 集成",
   "B2B 电商分销（多品牌）",
-  "自有品牌零售"
+  "自有品牌零售",
+  "ICT / ELV 系统集成（政府、商业、工业、电信）",
+  "电信 OSP/ISP 承包（STC、Mobily、Tahakom 等项目）",
+  "数据中心（Mobi Egypt 合资）",
+  "Al Rajhi Distribution 分销 + ekhalas.com 电商 + Silkroad 自有品牌零售"
  ],
  "products_seen": [
   {
@@ -90,19 +123,22 @@
   }
  ],
  "channels": {
-  "网站": "https://ekhalas.com/",
-  "直邮": "info@ekhalas.com（用户表）"
+  "网站": "https://www.alrajhitel.com/ / https://www.ekhalas.com/",
+  "直邮": "info@ekhalas.com（用户表）",
+  "LinkedIn": "https://www.linkedin.com/company/alrajhitel/"
  },
  "signals": [
-  "有自有品牌 + 电商 + 3,000 客户——白牌切入渠道现成"
+  "有自有品牌 + 电商 + 3,000 客户——白牌切入渠道现成",
+  "2024 新设 Al Rajhi Distribution + Silkroad「自有品牌进零售」——白牌 PoE 交换机走分销/自有品牌线比走集成项目更对口（2026-10-21）"
  ],
  "risks": [
-  "沙特 SASO/SABER 认证由进口方办理；电商价带低"
+  "沙特 SASO/SABER 认证由进口方办理；电商价带低",
+  "规模 501–1,000 人、消防/主时钟/公共部门项目多——按 INH「too big」与公共部门守界，只做其分销 / 自有品牌零售线，不做政府集成项目配套"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STC-424DGGPM-280W",
   "tier": 20,
-  "why": "工业位替代 OTS：STI-288DGGPM；电商自有品牌商用位：STC-28DGGPM/STC-424DGGPM-280W；分销 20% 档"
+  "why": "走 Al Rajhi Distribution / ekhalas 自有品牌线：STC-424DGGPM-280W 与 STC-28DGGPM 为零售主力口型，自有品牌包装；分销 20% 档（若按自有品牌 OEM 则 30%）"
  },
- "email_hook": "For the industrial PoE slot you currently fill with OTS units, the Marvell-based 8-port gigabit PoE + 2 SFP managed DIN switch is the one I am quoting EXW, and the 8/24-port commercial PoE models are ready for your own-brand listing on ekhalas."
+ "email_hook": "With Al Rajhi Distribution and the ekhalas own-brand range now live, the Marvell-based 8- and 24-port PoE+ managed switches in your packing at EXW cost are the two SKUs I would start with; I can send the spec sheets and MOQ-1 samples."
 }

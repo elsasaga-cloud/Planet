@@ -69,7 +69,7 @@ updated: 2026-10-21
 - **是谁**：阿布扎比 ISO 9001:2015 系统集成商（2010 年成立，ADMCC 认证 CCTV 集成商），业务覆盖 CCTV、光纤网络、门禁、无线、PBX、结构化布线、智能家居；ISAF 2025 参展商，现场介绍 2 光 10 电，其工业交换机采自 N-Net、商业级从深圳采购并刷自有 logo（用户记录）；邮件 0 回复 / 11 次，有 WA 号码。
 - **类型**：系统集成商（兼自有 logo 贴牌采购）
 - **规模**：小型（待补证）
-- **在卖/在用品牌**：N-Net（用户记录：工业交换机在用）, Avaya, Cisco, Camtron
+- **在卖/在用品牌**：N-Net（用户记录：工业交换机在用）, Avaya, Cisco, Camtron, ZKTeco
 - **【官网】2010 年成立的 ISO 9001:2015 集成商，电信/IT/安防/网络端到端方案；ADMCC 认证 CCTV 集成商**
   > IPNS, ISO Certified 9001:2015 UAE based Solutions Consulting System Integration Company established in 2010… ADMCC APPROVED COMPANY – MCC CERTIFIED CCTV INTEGRATOR – ABU DHABI
   > 来源：https://ipns-uae.com/（抓取 2026-10-21）
@@ -79,28 +79,39 @@ updated: 2026-10-21
 - **【黄页】代理品牌含 Avaya、Camtron、Cisco、Plantronics、Polycom**
   > Brands: AVAYA… CAMTRON Advanced CCTV System… CISCO Cisco Networking Accessories
   > 来源：https://www.reachuae.com/abu-dhabi/ipns-intelligent-professional-network-solutions-abu-dhabi-l4564（抓取 2026-10-21）
+- **【官网】公司资质、业务与地址**
+  > IPNS, ISO Certified 9001:2015 UAE based Solutions Consulting System Integration Company established in 2010 … ADMCC approved cctv provider abhu dhabi … P.O Box 126814 M8, Al Haram & Al Masy Building ,Near HSBC BANK Airport Road, Abu Dhabi, UAE
+  > 来源：https://ipns-uae.com/（抓取 2025-01-06）
+- **【官网】电话与邮箱**
+  > Call us today at +97124910731 / +971559835897 Email us at: info@ipns-uae.com
+  > 来源：https://ipns-uae.com/contactus/（抓取 2025-01-06）
+- **【官网】CCTV 分销与备货仓**
+  > IPNS is CCTV distributor and delivers end-to-end IP CCTV network solutions … Our entire CCTV range, including mounting and accessories, is held in stock at our United A-wide network of fully-stocked warehouses.
+  > 来源：https://ipns-uae.com/cctv-distributor-amc-contract-abu-dhabi/（抓取 2022-01-15）
 - **KP**：（ISAF 2025 现场联系人，见 Clients 表）（） +971 55 983 5897（用户记录）〔用户 Clients 表（ISAF 2025）〕
 - 备注：面对面接触 + 已在从深圳采购并刷自有 logo = 现成的 OEM 买家；工业线在用 N-Net 可替换。邮件不回 → 走 WA。P1：STI-288DGGPM（2 光 8 电工业 PoE；其询问的 alarm 继电器输出需向 SmartByte 核实），OEM 价阶 30%。注意政府/警务项目守界，只供商用与一般楼宇安防。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研 + ISAF 记录））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Intelligent Professional Network Solution LLC（IPNS） |
+| 法定名称 | Intelligent Professional Network Solutions LLC（IPNS / i-PNS） |
 | 成立 | 2010 |
-| 总部/地址 | Abu Dhabi, UAE |
-| 其他 | ISO 9001:2015，ADMCC 认证 CCTV 集成商；CCTV、光纤、门禁、无线、PBX、布线、智能家居；ISAF 2025 参展商；工业交换机用 N-Net；有自有 logo 采购 |
+| 总部/地址 | P.O. Box 126814, M8, Al Haram & Al Masy Building, near HSBC Bank, Airport Road, Abu Dhabi（+971 2 491 0731 / +971 55 983 5897；info@ipns-uae.com） |
+| 人数 | 11–50 |
+| 其他 | ISO 9001:2015；ADMCC 认证 CCTV 集成商（阿布扎比强制：≥30 天录像、2MP、20fps）；业务：CCTV 安装与 AMC（七个酋长国）、自称 CCTV 分销（全 UAE 备货仓）、Avaya PBX 供应、ZKTeco 门禁、道闸停车、光纤/Cat6 布线、网络交换方案、智能家居分销；官网 2025-01 更新 |
 
-- **业务线**：CCTV / 门禁 / 布线 / 无线 集成；自有 logo 网络产品采购
+- **业务线**：CCTV / 门禁 / 布线 / 无线 集成；自有 logo 网络产品采购；ADMCC 认证 CCTV 安装 + AMC（主业）；CCTV / 智能家居 分销；Avaya PBX、ZKTeco 门禁、停车道闸；结构化布线与网络交换
 
 | 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
 |---|---|---|---|---|
 | N-Net（现工业来源） | 工业交换机 | 用户记录 | STI-288DGGPM | （本地 Clients/ 表格，无公开 URL）（ISAF 2025） |
 | （现场介绍） | 2 光 10 电；着重问 alarm（告警）功能 | 问普通交换机是否带 alarm | STI-288DGGPM（告警继电器需核） | （本地 Clients/ 表格，无公开 URL）（ISAF 2025） |
 
-- **触达通道（公开）**：网站: https://ipns-uae.com/；直邮: gk@ipns-uae.com（用户表）
+- **触达通道（公开）**：网站: https://ipns-uae.com/；直邮: gk@ipns-uae.com（用户表）；电话: +971 2 491 0731 / +971 55 983 5897（官网公开）；邮箱（公开）: info@ipns-uae.com；LinkedIn: https://www.linkedin.com/company/intelligent-professional-network-solutions
 - **近况信号**：
   - ISAF 2025 双向到访；关注 alarm 继电器输出——工业机卖点
+  - ADMCC 合规 CCTV 项目 = 每点位 PoE 交换机刚需；兼做分销且有备货仓——可同时谈项目用与转售（2026-10-21）
 - **风险/边界**：ADMCC 项目可能指定品牌；N-Net 在用
 - **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——2 光 10 电近似 STI-288DGGPM（8+2）；alarm 继电器为工业机标配（需 SmartByte 确认）；集成商 25% 档
 - **邮件切入句（英文）**：You asked at ISAF whether the standard switches carry an alarm output: the industrial 8-port gigabit PoE + 2 SFP managed DIN unit does, with dual DC input, so that is the model I am quoting as a second source next to your N-Net units.

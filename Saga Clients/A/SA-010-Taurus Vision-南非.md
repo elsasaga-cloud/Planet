@@ -75,29 +75,38 @@ updated: 2026-10-21
 - **【官网】定位：端到端视频集成与管理，招募伙伴**
   > END TO END OFFERINGS — Operational video integration and video management · BECOME A PATNER TODAY · sales@taurusvision.com · Tell: 086 188 2266
   > 来源：https://www.taurusvision.com/（抓取 2026-10-21）
+- **【名录】地址、规模与定位**
+  > Taurus Vision corporate office is located in 8 Malan St, Pretoria, 0084, South Africa and has 1-10 employees … We are committed to our customers by installing a monitoring platform with point of sale integration tailored to a specific application and location.
+  > 来源：https://www.zoominfo.com/pic/taurus-vision/348010963（抓取 2026-10-21）
+- **【名录】全国 CCTV 监控管理方案商**
+  > Taurus Vision delivers quality solutions and support in the field of CCTV video surveillance management to our customers nation wide.
+  > 来源：https://pretoria.infoisinfo.co.za/search/cctv/2（抓取 2026-10-21）
 - **KP**：Lynette Bowman（CCTV（ZoomInfo 口径）） +27 86 188 2266（总机）〔https://www.zoominfo.com/p/Lynette-Bowman/8666668517〕
+- **KP**：Lynette Bowman（CCTV（ZoomInfo 职务标注；邮箱未公开，域 @taurusvision.com））—（未公开；用户表 sales@taurusvision… 为合作伙伴招募邮箱） —〔https://www.zoominfo.com/p/Lynette-Bowman/8666668517〕
+- **KP**：Cordea Bezuidenhout（Administrative Assistant（ZoomInfo））—（未公开） —〔https://www.zoominfo.com/pic/taurus-vision/348010963〕
 - 备注：A 维持（3 次实质回复 + WhatsApp 在手），但规模小、非洲区：以 8/16 口 PoE 小批量为主，不投入样机以外资源。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研））
+### 加厚挖掘（2026-10-21 · 深挖 v2（名录 + KP 核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Taurus Vision |
-| 总部/地址 | Pretoria, South Africa |
-| 人数 | 1–10 |
+| 法定名称 | Taurus Vision（taurusvision.com） |
+| 总部/地址 | 8 Malan Street, Riviera, Pretoria 0084, Gauteng, South Africa |
+| 人数 | 1–10（ZoomInfo） |
 | 营收 | <$5M |
-| 其他 | CCTV 视频监控管理方案商/集成商；官网招募合作伙伴 |
+| 其他 | CCTV 视频监控管理方案商，强调「带 POS 集成的监控平台」按场景定制（零售），全国服务；营业 Mo–Sa 9–18 |
 
-- **业务线**：CCTV / 视频管理方案；合作伙伴渠道
+- **业务线**：CCTV / 视频管理方案；合作伙伴渠道；CCTV 监控管理平台（POS 集成）；CCTV 安装与支持（全国）
 
 | 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
 |---|---|---|---|---|
 | （集成商自用） | PoE 交换机（CCTV） | 3 次实质回复 | STC-28DGGPM | （本地 Clients/ 表格，无公开 URL）（用户表） |
 
-- **触达通道（公开）**：网站: https://taurusvision.com/；直邮: sales@taurusvision.com（用户表）；WhatsApp: 已加（用户表）
+- **触达通道（公开）**：网站: https://www.taurusvision.com/；直邮: sales@taurusvision.com（用户表）；WhatsApp: 已加（用户表）
 - **近况信号**：
   - 3 次实质回复 + WA；21 次推送
-- **风险/边界**：南非 ICASA/NRCS 合规由进口方；小公司
+  - POS 集成零售监控 = 多门店小规模 PoE 交换机重复采购（4/8 口为主）（2026-10-21）
+- **风险/边界**：南非 ICASA/NRCS 合规由进口方；小公司；1–10 人、公开信息极少——单量小，按 B 节奏跟进即可，不投入过多
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——CCTV 集成接入：STC-28DGGPM 为主、STI-144GP 户外箱位；集成商 25% 档
 - **邮件切入句（英文）**：For the camera closets in your VMS projects, the Marvell-based 8-port gigabit PoE+ managed switch with 2 SFP and the 4+1 industrial DIN unit for outdoor cabinets are the two I am quoting EXW.
 
@@ -146,6 +155,8 @@ updated: 2026-10-21
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Lynette Bowman | CCTV（ZoomInfo 口径） | +27 86 188 2266（总机） | 调研核实（公开页） | https://www.zoominfo.com/p/Lynette-Bowman/8666668517 |
+| Lynette Bowman | CCTV（ZoomInfo 职务标注；邮箱未公开，域 @taurusvision.com） | —（未公开；用户表 sales@taurusvision… 为合作伙伴招募邮箱） / — | 调研核实（公开页） | https://www.zoominfo.com/p/Lynette-Bowman/8666668517 |
+| Cordea Bezuidenhout | Administrative Assistant（ZoomInfo） | —（未公开） / — | 调研核实（公开页） | https://www.zoominfo.com/pic/taurus-vision/348010963 |
 | Hendrik Bezuidenhout | — | sales@taurusvision.com / +0833267194 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发

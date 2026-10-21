@@ -22,6 +22,27 @@
    "quote": "10/100/1000 Mbps Duplex Data Media Converter … Part Number MC-10100G … +91-9656123414 Binanipuram … Brand DNC",
    "url": "https://www.dncsolutions.co.in/101001000mbpsduplexdatamediaconverter/pid-2010203631",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "IndiaMART",
+   "claim": "DNC 自有标 4-PoE + 1-FX 交换机",
+   "quote": "DNC 4-PoE With 1-Fixed FX Switch - Number of Ports · 4PoE+ 1FX … Power Consumption (watt) · 15.5W / 25.5W … Brand · DNC · Availability · In Stock",
+   "url": "https://www.indiamart.com/proddetail/4-poe-with-1-fixed-fx-switch-18538470891.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "MC-10100G 规格与价格、电话、地址",
+   "quote": "10/100/1000 Mbps Duplex Data Media Converter … +91-9656123414 Binanipuram … 3,379 … Part Number MC-10100G Temperature 0 to 50",
+   "url": "https://www.dncsolutions.co.in/101001000-mbps-duplex-data-media-converter/pid-2010203631",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "2011 年成立与产品范围",
+   "quote": "Established in the year 2011, DNC Technosolutions Pvt. Ltd. is one of the well recognized Manufacturers and Solution makers of Fiber Optic Products and Technology … Data to Fiber converters, Video to Fiber Converter , Telephone to Fiber Converters , SFP Modules , MPO Systems",
+   "url": "https://www.dncsolutions.co.in/",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -37,18 +58,21 @@
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1（沿用首轮调研）"
+  "level": "深挖 v2（官网 dncsolutions.co.in + IndiaMART 核对）"
  },
  "company_facts": {
   "legal_name": "DNC Technosolutions Pvt. Ltd.",
-  "founded": "2011",
-  "hq": "Ernakulam, Kerala, India",
-  "other": "光纤产品制造/方案商，自有 DNC 品牌：跳线/尾纤/分路器、MC（MC-10100G 等）、视频/电话光端机、SFP、MPO"
+  "founded": "2011（IndiaMART 另见 2013）",
+  "hq": "Binanipuram P.O., Edayar, Ernakulam, Kerala（+91 96561 23414）；另见 48/425-P, Raghavan Pillai Road, Edappally, Ernakulam 682026",
+  "other": "自有品牌 DNC 光纤产品制造商：跳线/尾纤/适配器/分路器/配线架/MPO 系统、数据 MC（MC-10100G 千兆双纤 ₹3,379）、视频光端机（4ch TVI/CVI/AHD）、电话光端机、HDMI+USB KVM 光端机（DNC-KVM-HV，FCC/CE）、SFP、**DNC 4-PoE + 1-FX 交换机（IndiaMART 在售）**"
  },
  "business_lines": [
   "光纤无源（跳线、分路器、MPO）",
   "DNC 品牌 MC / 光端机 / SFP",
-  "（兴趣）FS、HDMI、VC"
+  "（兴趣）FS、HDMI、VC",
+  "光纤无源（跳线/尾纤/MPO/配线架/分路器）制造",
+  "DNC 品牌光端机 / MC / SFP",
+  "DNC 品牌小口数 PoE 光纤交换机"
  ],
  "products_seen": [
   {
@@ -58,23 +82,42 @@
    "url": "https://dncsolutions.co.in/",
    "date": "2026-10（首轮调研）",
    "saga": "STI-110GE"
+  },
+  {
+   "brand": "DNC（自有标）",
+   "model": "4-PoE With 1-Fixed FX Switch",
+   "spec": "4 PoE+ + 1 FX 固定光口，15.5/25.5W，DC 适配器",
+   "url": "https://www.indiamart.com/proddetail/4-poe-with-1-fixed-fx-switch-18538470891.html",
+   "date": "2026-10-21",
+   "saga": "STI-144GP（4 GE PoE + 1 SFP，直接对位）"
+  },
+  {
+   "brand": "DNC（自有标）",
+   "model": "MC-10100G",
+   "spec": "10/100/1000 双纤 MC，150×100×30 mm，5W，0–50℃，₹3,379",
+   "url": "https://www.dncsolutions.co.in/101001000-mbps-duplex-data-media-converter/pid-2010203631",
+   "date": "2026-10-21",
+   "saga": "STI-110GE"
   }
  ],
  "channels": {
-  "网站": "https://dncsolutions.co.in/",
+  "网站": "https://www.dncsolutions.co.in/",
   "直邮": "coo@dncsolutions.co.in（COO，用户表）",
-  "WhatsApp": "跟进中（用户表）"
+  "WhatsApp": "跟进中（用户表）",
+  "电话/WA": "+91 96561 23414（官网公开）",
+  "IndiaMART": "https://www.indiamart.com/dncsolutions/"
  },
  "signals": [
-  "用户表：2 次实质回复，18 次跟进；兴趣 MC/FS/HDMI/SFP/VC，强调质量"
+  "用户表：2 次实质回复，18 次跟进；兴趣 MC/FS/HDMI/SFP/VC，强调质量",
+  "DNC 自有标已有 4 PoE + 1 FX 机——STI-144GP 为同口型 Marvell 替代，可按 DNC 命名贴牌；MC 位 STI-110GE（2026-10-21）"
  ],
  "risks": [
   "MC 单价低、印度价格敏感；VC/HDMI 不在 Saga 型谱"
  ],
  "saga_fit": {
-  "p1": "STI-110GE",
+  "p1": "STI-144GP",
   "tier": 30,
-  "why": "MC 贴牌为入口：STI-110GE（千兆 SFP MC，EXW $24.3 @30%）；随后 STC-28DGGPM 作 DNC 品牌 PoE 入门；OEM 30% 档"
+  "why": "自有标 DNC 4-PoE+1-FX 的同口型 = STI-144GP；MC-10100G 位 = STI-110GE；8 口升级 STI-288DGGPM；按 DNC 命名 OEM 30% 档"
  },
- "email_hook": "For the DNC-branded gigabit media converter line, the Marvell-based SFP media converter is the unit I can quote with your logo and CE/RoHS files, and an 8-port gigabit PoE+ 2 SFP managed switch is ready as the next SKU when you want to add switching."
+ "email_hook": "For your DNC 4-PoE + 1-FX switch and the MC-10100G converter, I can supply the Marvell-based 4-port gigabit PoE+ with SFP and the gigabit media converter in DNC packing, EXW, with CE/RoHS files."
 }

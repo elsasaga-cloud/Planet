@@ -1,6 +1,6 @@
 {
  "code": "SA-098",
- "name_official": "RYMTECH EAS（亚松森，巴拉圭）",
+ "name_official": "RYMTECH E.A.S.（商号 RYMTECH TACTICAL CYBEROPS；RYMTECH CYBERSECURITY LLC；亚松森，巴拉圭）",
  "website_status": "未单独检索（仅用户记录）",
  "summary": "巴拉圭集成/工程商（World Trade Center 亚松森办公地址），WA 在线，3 次回复、18 次跟进，明确需求 2 台 12 光 12 电交换机。",
  "type": "系统集成/工程商",
@@ -13,6 +13,27 @@
    "quote": "2个12光12电 +5959857 48567 已加；Address: Aviadores del Chaco 2050, World -Trade Center, 3rd Tower 14th Floor, Asunción（用户 Clients 表摘录）",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "政府采购登记",
+   "claim": "法人、RUC、规模、业务、招标邮箱",
+   "quote": "RYMTECH E.A.S. RUC 80125463-9 Nombre de Fantasía RYMTECH TACTICAL CYBEROPS NANCY CAROLINA ELIZALDE DE OSORIO,RUSLAN OSORIO GUERRA … Tamaño de Empresa Micro … Proveedor de Servicios de Ciberseguridad, Auditorías de Vulnerabilidades, Pruebas de Penetración, Security Operations Center como servicios (SOCaaS), Arrendamiento de equipos … licitaciones@rym-tech.net",
+   "url": "https://www.contrataciones.gov.py/proveedor/rymtech-e-a-s.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "军事/情报客户自述",
+   "quote": "RYMTECH es una empresa con experiencia en diversas ramas de la ciberseguridad … desarrollo de kits de explotación 0days, desarrollo de capacidades ciberofensivas para cibercomandos militares y agencias de inteligencia.",
+   "url": "https://py.linkedin.com/company/rymtech",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "名录",
+   "claim": "WTC 亚松森地址（CAGE）",
+   "quote": "Rymtech E.A.S Avenida Aviadores Del Chaco 2050 World Trade Center, Torre 3, Piso 14 Asuncion Asuncion 1890",
+   "url": "https://www.nsnlookup.com/cage/py",
+   "date": "2026-10-16"
   }
  ],
  "kp": [
@@ -22,6 +43,13 @@
    "email": "",
    "phone": "+595 985 748 567（WA）",
    "source": "用户 Clients 表"
+  },
+  {
+   "name": "Ruslan Osorio Guerra",
+   "role": "股东 / 负责人（政府采购登记；FIRST 2024 演讲人）",
+   "email": "—（未公开）",
+   "phone": "—",
+   "source": "https://www.contrataciones.gov.py/proveedor/rymtech-e-a-s.html"
   }
  ],
  "grade_override": null,
@@ -30,15 +58,20 @@
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1（沿用首轮调研）"
+  "level": "深挖 v2（政府采购名录 + LinkedIn + 官网核对）"
  },
  "company_facts": {
-  "legal_name": "RYMTECH EAS",
-  "hq": "World Trade Center, Asunción, Paraguay",
-  "other": "集成/工程商；WA 在线"
+  "legal_name": "RYMTECH E.A.S.（RUC 80125463-9；股东 Nancy Carolina Elizalde de Osorio、Ruslan Osorio Guerra）",
+  "hq": "Av. Aviadores del Chaco 2050, World Trade Center Torre 3 Piso 14, Asunción 1890（CAGE 名录）；另：Av. César Gianotti, Hernandarias, Alto Paraná（政府采购登记）",
+  "other": "**网络安全公司**：SOC 架构、CSIRT、威胁情报、DFIR、渗透测试、SOCaaS、设备租赁；LinkedIn 自述「为军事网络司令部与情报机构开发网络进攻能力」；持美国 CAGE 代码；巴拉圭政府采购平台注册供应商（licitaciones@rym-tech.net）；2024-10 FIRST 拉美峰会演讲（Operación Mozi 发现，与 CERT-PY 合作）；官网 rym-tech.net",
+  "founded": "2015（ConnectAmericas）；EAS 登记 2022-06",
+  "staff": "Micro（政府采购登记）/ 50（ConnectAmericas 自报）"
  },
  "business_lines": [
-  "系统集成/工程"
+  "系统集成/工程",
+  "网络安全服务（SOC/SOCaaS、DFIR、渗透测试、威胁情报）",
+  "工控/关键基础设施网络安全",
+  "政府招标供货（设备租赁/采购）"
  ],
  "products_seen": [
   {
@@ -52,18 +85,23 @@
  ],
  "channels": {
   "直邮": "cirruslink1983@gmail.com（用户表，免费邮箱）",
-  "WhatsApp": "+595 985 748567 已加（用户表）"
+  "WhatsApp": "+595 985 748567 已加（用户表）",
+  "网站": "https://www.rym-tech.net/",
+  "LinkedIn": "https://py.linkedin.com/company/rymtech（1,153 followers）",
+  "邮箱（公开）": "licitaciones@rym-tech.net（政府采购登记，招标窗口）"
  },
  "signals": [
-  "3 次回复、需求具体（2 台 12 光 12 电）"
+  "3 次回复、需求具体（2 台 12 光 12 电）",
+  "「2 台 12 SFP + 12 RJ45」需求对应 SOC/实验室或政府项目交换（公司主业），非经销复购——一次性项目单"
  ],
  "risks": [
-  "12 光 12 电非标准型谱；巴拉圭物流/付款"
+  "12 光 12 电非标准型谱；巴拉圭物流/付款",
+  "**守界风险**：自述服务军事网络司令部/情报机构 + 政府招标供应商（INH：military / public-sector 守界）；设备最终用途不明。默认：暂留 A、下一封邮件先确认用途与收货主体，若为军/情报/政府项目 → 转 B 并停止报价（见 Q-31）"
  ],
  "saga_fit": {
   "p1": null,
   "tier": 25,
   "why": "需求 12 SFP + 12 RJ45：Saga 标准型谱无对应，需向 SmartByte 核型；若改用 8 SFP 机型可替代则另报"
  },
- "email_hook": "For the two 12-fibre 12-copper units, I am checking the exact SFP-dense model with the factory this week; if your design can accept a 24-port copper switch with 4 SFP+ uplinks plus media converters, I can quote that combination immediately."
+ "email_hook": "For the two 12-SFP + 12-RJ45 units, could you confirm the deployment (your own SOC rack or a client site) and whether you need L3 features, so I quote the right build rather than a generic one?"
 }

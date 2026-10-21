@@ -9,7 +9,8 @@
   "N-Net（用户记录：工业交换机在用）",
   "Avaya",
   "Cisco",
-  "Camtron"
+  "Camtron",
+  "ZKTeco"
  ],
  "evidence": [
   {
@@ -32,6 +33,27 @@
    "quote": "Brands: AVAYA… CAMTRON Advanced CCTV System… CISCO Cisco Networking Accessories",
    "url": "https://www.reachuae.com/abu-dhabi/ipns-intelligent-professional-network-solutions-abu-dhabi-l4564",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "公司资质、业务与地址",
+   "quote": "IPNS, ISO Certified 9001:2015 UAE based Solutions Consulting System Integration Company established in 2010 … ADMCC approved cctv provider abhu dhabi … P.O Box 126814 M8, Al Haram & Al Masy Building ,Near HSBC BANK Airport Road, Abu Dhabi, UAE",
+   "url": "https://ipns-uae.com/",
+   "date": "2025-01-06"
+  },
+  {
+   "kind": "官网",
+   "claim": "电话与邮箱",
+   "quote": "Call us today at +97124910731 / +971559835897 Email us at: info@ipns-uae.com",
+   "url": "https://ipns-uae.com/contactus/",
+   "date": "2025-01-06"
+  },
+  {
+   "kind": "官网",
+   "claim": "CCTV 分销与备货仓",
+   "quote": "IPNS is CCTV distributor and delivers end-to-end IP CCTV network solutions … Our entire CCTV range, including mounting and accessories, is held in stock at our United A-wide network of fully-stocked warehouses.",
+   "url": "https://ipns-uae.com/cctv-distributor-amc-contract-abu-dhabi/",
+   "date": "2022-01-15"
   }
  ],
  "kp": [
@@ -49,17 +71,22 @@
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1（沿用首轮调研 + ISAF 记录）"
+  "level": "深挖 v2（官网核对）"
  },
  "company_facts": {
-  "legal_name": "Intelligent Professional Network Solution LLC（IPNS）",
+  "legal_name": "Intelligent Professional Network Solutions LLC（IPNS / i-PNS）",
   "founded": "2010",
-  "hq": "Abu Dhabi, UAE",
-  "other": "ISO 9001:2015，ADMCC 认证 CCTV 集成商；CCTV、光纤、门禁、无线、PBX、布线、智能家居；ISAF 2025 参展商；工业交换机用 N-Net；有自有 logo 采购"
+  "hq": "P.O. Box 126814, M8, Al Haram & Al Masy Building, near HSBC Bank, Airport Road, Abu Dhabi（+971 2 491 0731 / +971 55 983 5897；info@ipns-uae.com）",
+  "other": "ISO 9001:2015；ADMCC 认证 CCTV 集成商（阿布扎比强制：≥30 天录像、2MP、20fps）；业务：CCTV 安装与 AMC（七个酋长国）、自称 CCTV 分销（全 UAE 备货仓）、Avaya PBX 供应、ZKTeco 门禁、道闸停车、光纤/Cat6 布线、网络交换方案、智能家居分销；官网 2025-01 更新",
+  "staff": "11–50"
  },
  "business_lines": [
   "CCTV / 门禁 / 布线 / 无线 集成",
-  "自有 logo 网络产品采购"
+  "自有 logo 网络产品采购",
+  "ADMCC 认证 CCTV 安装 + AMC（主业）",
+  "CCTV / 智能家居 分销",
+  "Avaya PBX、ZKTeco 门禁、停车道闸",
+  "结构化布线与网络交换"
  ],
  "products_seen": [
   {
@@ -81,10 +108,14 @@
  ],
  "channels": {
   "网站": "https://ipns-uae.com/",
-  "直邮": "gk@ipns-uae.com（用户表）"
+  "直邮": "gk@ipns-uae.com（用户表）",
+  "电话": "+971 2 491 0731 / +971 55 983 5897（官网公开）",
+  "邮箱（公开）": "info@ipns-uae.com",
+  "LinkedIn": "https://www.linkedin.com/company/intelligent-professional-network-solutions"
  },
  "signals": [
-  "ISAF 2025 双向到访；关注 alarm 继电器输出——工业机卖点"
+  "ISAF 2025 双向到访；关注 alarm 继电器输出——工业机卖点",
+  "ADMCC 合规 CCTV 项目 = 每点位 PoE 交换机刚需；兼做分销且有备货仓——可同时谈项目用与转售（2026-10-21）"
  ],
  "risks": [
   "ADMCC 项目可能指定品牌；N-Net 在用"

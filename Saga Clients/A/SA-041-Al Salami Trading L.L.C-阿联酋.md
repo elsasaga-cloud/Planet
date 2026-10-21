@@ -65,28 +65,39 @@ updated: 2026-10-21
 - **【官网】联系方式**
   > PO Box: 27640, Dubai, UAE · +971 4 2650333 · alsalami@emirates.net.ae
   > 来源：https://www.alsalami.com/（抓取 2026-10-21）
+- **【官网】创立与定位**
+  > Al Salami Trading L.L.C (AST) – was founded in 1989 by its chairman Mr. Rashid Al Salami. Originally based in Sharjah, it is now located in Dubai under one roof with the rest of Al Salami Group Of Companies.
+  > 来源：https://www.alsalami.com/（抓取 2026-10-21）
+- **【名录】地址与电话**
+  > Al Salami Trading Est Address: Shop # 8, Ground Floor, Bin Sougat Building, Al Twar Road, Al Twar, Dubai Landmark: Opposite Terminal 2 Zip Code: 27640 … Phone number: +971 4 2650333
+  > 来源：https://www.uaeresults.com/1028180/Security_Control_Equipment_And_Systems/Dubai/Al_Salami_Trading_Est/（抓取 2026-10-21）
+- **【名录】服务范围与规模**
+  > Al Salami Trading Establishment Is Suppliers & Service Providers Of CCTV Camera, Access Control, Barrier & Gates, Wired & Wireless Alarm System … No employees: 10-19 Employees
+  > 来源：https://ae.kompass.com/c/al-salami-trading-establishment/ae650104/（抓取 2026-10-21）
 - **KP**：—（总机（官网公开））alsalami@emirates.net.ae +971 4 265 0333〔https://www.alsalami.com/〕
+- **KP**：Rashid Al Salami（Chairman / Founder（官网 About））—（未公开） +971 4 265 0333（公司）〔https://www.alsalami.com/about-us/〕
 - 备注：A 维持（主动询盘 + 已回复 + 中东集成商），首单仅 2 台，走项目复购逻辑；P1 = STI-144GP（1 光 4 电工业千兆，若价格表无则按 SmartByte 型号标注），25% 集成商档，MOQ 1 可直接成交。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研 + 询盘））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + 名录核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Al Salami Trading L.L.C.（AST） |
-| 成立 | 1989 |
-| 总部/地址 | Dubai, UAE |
-| 人数 | 11–50 |
-| 其他 | Al Salami 集团成员；报警/监控/音视频安防系统设计、集成、安装、维护 |
+| 法定名称 | Al Salami Trading L.L.C.（AST；原 Al Salami Trading Establishment, ASTE） |
+| 成立 | 1989（创始人/董事长 Rashid Al Salami） |
+| 总部/地址 | Shop 8, Bin Soqat (Bin Sougat) Building, Al Twar Road, opp. Airport Terminal 2, Dubai；P.O. Box 27640（+971 4 265 0333 / 265 0303） |
+| 人数 | 10–19（Kompass）/ 11–50（LinkedIn，2,183 followers） |
+| 其他 | Al Salami 集团成员，原址沙迦；业务：CCTV、门禁、道闸/大门、有线/无线报警 的设计/集成/安装/维护；官网主打「Dubai trusted CCTV company 报价」 |
 
-- **业务线**：电子安防集成（报警、CCTV、AV）；安装与维护
+- **业务线**：电子安防集成（报警、CCTV、AV）；安装与维护；CCTV 设计安装（主业）；门禁 / 道闸 / 大门；报警系统（有线/无线）
 
 | 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
 |---|---|---|---|---|
 | （项目询盘） | 工业千兆 1 光 4 电 ×2 | 官网询盘 2 台 | STI-144GP | （本地 Clients/ 表格，无公开 URL）（用户表） |
 
-- **触达通道（公开）**：网站: https://www.alsalami.com/；直邮: reyann@alsalami.com（用户表）
+- **触达通道（公开）**：网站: https://www.alsalami.com/；直邮: reyann@alsalami.com（用户表）；电话: +971 4 265 0333（名录公开）；LinkedIn: https://www.linkedin.com/company/al-salami-trading-establishment/
 - **近况信号**：
   - 用户表：A 已回复 + 询盘流水，具体数量 2 台（小样单→项目）
+  - 官网侧重 CCTV 报价获客——PoE 交换机为摄像机工程配套耗材，8/16/24 口 PoE 为主（2026-10-21）
 - **风险/边界**：小批量样单；UAE 项目付款与清关由客户处理
 - **Saga 对位结论**：P1 STI-144GP（25% 档）——询盘即 1 光 4 电工业千兆 → STI-144GP；集成商 25% 档；2 台可当样机走 PayPal
 - **邮件切入句（英文）**：For the two industrial gigabit 1-fibre 4-copper units you asked about, the 4-port PoE + 1 SFP DIN switch is in stock for a 10–15 day dispatch, and I can ship the pair as samples by courier on PayPal terms.
@@ -118,6 +129,7 @@ updated: 2026-10-21
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | — | 总机（官网公开） | alsalami@emirates.net.ae / +971 4 265 0333 | 调研核实（公开页） | https://www.alsalami.com/ |
+| Rashid Al Salami | Chairman / Founder（官网 About） | —（未公开） / +971 4 265 0333（公司） | 调研核实（公开页） | https://www.alsalami.com/about-us/ |
 | Reyann Salazar Brosoto | — | reyann@alsalami.com / +971529056975 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 | Reyann | — | reyann@alsalami.com / +971529056975 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
@@ -188,7 +200,7 @@ updated: 2026-10-21
 **主题**：STI-144GP - compact industrial switch (Marvell-based, neutral label)
 
 ```text
-Hi Reyann,
+Hi Rashid,
 
 Picking up our earlier exchange about PoE / industrial switches. For the two industrial gigabit 1-fibre 4-copper units you asked about, the 4-port PoE + 1 SFP DIN switch is in stock for a 10–15 day dispatch, and I can ship the pair as samples by courier on PayPal terms.
 

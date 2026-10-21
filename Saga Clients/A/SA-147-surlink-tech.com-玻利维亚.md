@@ -59,7 +59,7 @@ updated: 2026-10-21
 - **是谁**：玻利维亚圣克鲁斯的技术产品批发分销商（布线 Cat6/Cat6a、光纤 SM/MM、ADSS 五金、机柜；Corning 玻利维亚分销商），官网列出销售团队邮箱/手机；E 渠道已回复，需求 550 只 90 W 工业 PoE 注入器（2017 年起用阿里国际站）。
 - **类型**：批发分销商（布线/光纤/网络）
 - **规模**：小型（待补证）
-- **在卖/在用品牌**：Corning（分销）
+- **在卖/在用品牌**：Corning（分销）, Corning, Nexans, 3M, Toten, BASOR
 - **【官网】圣克鲁斯公司，地址/电话与销售联系人（Ivan Ortega、Mauricio Eguez 等）**
   > Sur - Link Technology (Bolivia) Av Guapay Nro. 2675… Telf.: +591-3-312-3371… Sr Ivan Ortega iortega@surlink-tech.com +591-74953834 · Sr Mauricio Eguez ventas05@surlink-tech.com
   > 来源：https://www.surlink-tech.com/（抓取 2026-10-21）
@@ -69,27 +69,40 @@ updated: 2026-10-21
 - **【Corning】Corning 光通信玻利维亚分销商，联系人 emiranda@surlink-tech.com**
   > Guapay # 2675… Santa Cruz de la Sierra, Bolivia… Email: emiranda@surlink-tech.com
   > 来源：https://www.corning.com/optical-communications/cala/en/home/support/distributors/bolivia.html（抓取 2026-10-21）
+- **【原厂名录】Corning 官方玻利维亚分销商（Carrier and Enterprise）**
+  > Location Title: Sur-Link Technology Bolivia … Business Classification: Carrier and Enterprise Country: Bolivia … Address Line 1: Av. Guapay # 2675 esquina Calle 10 Canal Cotoca entre Segundo y Tercer Anillo … Phone No: +591 3 3477677 … Email: emiranda@surlink-tech.com Website Link: http://www.surlink-tech.com/
+  > 来源：https://www.corning.com/optical-communications/cala/en/home/support/distributors/bolivia.html（抓取 2026-10-21）
+- **【官网】销售团队与分工（公开）**
+  > Ventas Fibra Optica Silvia Salas ADSS y Ferreteria 63486474 Andres Flores ADSS, Ferreteria, Ultima milla 68821306 Ventas Cableado Estructurado Daniel Menacho Rejillas BASOR, Cableado Estructurado, Gabinetes Toten 63338212 … Mauricio Eguez Coming, Nexans, Cat5e Cat6 Cat6a
+  > 来源：https://www.surlink-tech.com/contacto.php（抓取 2026-10-21）
+- **【官网】负责人联系方式**
+  > Sur - Link Technology (Bolivia) Av Guapay Nro. 2675, esq calle 10 … Telf.: +591-3-312-3371, 314-5932 Sr Eduardo Miranda +591-75009995 emiranda@surlink-tech.com
+  > 来源：https://surlink-tech.com/ubicacion.php（抓取 2026-10-21）
 - **KP**：Eduardo Miranda（（官网列为主要联系人；Corning 分销联系人））emiranda@surlink-tech.com +591 75009995〔官网 + Corning 分销商页〕
 - **KP**：Ivan Ortega（Ventas（销售））iortega@surlink-tech.com +591 74953834〔官网〕
+- **KP**：Mauricio Eguez（Ventas — Corning / Nexans / Cat5e-6A）ventas05@surlink-tech.com +591 74951389〔https://www.surlink-tech.com/〕
+- **KP**：Daniel Menacho（Ventas — 结构化布线 / BASOR 桥架 / Toten 机柜）kmenacho@surlink-tech.com +591 63338212〔http://www.surlink-tech.com/empresa.php〕
+- **KP**：Silvia Salas（Ventas Fibra Óptica — ADSS / 五金）ssalas@surlink-tech.com +591 63486474〔https://www.surlink-tech.com/contacto.php〕
 - 备注：550 只 90 W 注入器为明确量化需求且已回复；分销商身份可带后续 PoE 交换机。南美非主攻区但无需额外投入。先向 SmartByte 核实是否有 90 W（802.3bt）注入器及价格；若无，用 STC-28DGGPM（bt 版本核对）替代方案报价，分销价阶 20%。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + Corning 官方经销名录核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Sur-Link Technology |
-| 总部/地址 | Santa Cruz, Bolivia |
-| 其他 | 布线/光纤/网络批发分销（Cat6/6a、SM/MM、ADSS 五金、机柜；Corning 玻利维亚分销商）；官网列销售团队邮箱/手机 |
+| 法定名称 | Sur-Link Technology Bolivia |
+| 总部/地址 | Av. Guapay Nro. 2675 esq. Calle 10（Canal Cotoca, entre 2do y 3er anillo）, Santa Cruz de la Sierra（+591 3 312 3371 / 314 5932 / 3 347 7677；手机 77008888） |
+| 其他 | 技术产品批发分销商：Cat5e/6/6A（Corning、Nexans、3M）、光纤 SM/MM、ADSS 五金、最后一公里、BASOR 桥架、Toten 机柜、线槽；**Corning 官方玻利维亚分销商（Carrier and Enterprise）**；官网按产品线列出销售团队（公开） |
 
-- **业务线**：结构化布线 / 光纤 / 机柜 批发；Corning 分销
+- **业务线**：结构化布线 / 光纤 / 机柜 批发；Corning 分销；结构化布线批发（Corning / Nexans / 3M）；光纤 ADSS / 五金 / 最后一公里（ISP 客户）；机柜（Toten）/ 桥架（BASOR）/ 线槽
 
 | 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
 |---|---|---|---|---|
 | （需求） | 90W 工业 PoE 注入器 ×550 | E 渠道已回复，数量 550 | —（90W bt 注入器需 SmartByte 核型/外采） | （本地 Clients/ 表格，无公开 URL）（用户表） |
 
-- **触达通道（公开）**：网站: https://surlink-tech.com/；直邮: emiranda@surlink-tech.com（用户表）
+- **触达通道（公开）**：网站: https://www.surlink-tech.com/；直邮: emiranda@surlink-tech.com（用户表）；电话: +591 3 347 7677 / 312 3371（官网与 Corning 名录公开）；Facebook: https://www.facebook.com/p/SUR-LINK-technology-bolivia-100063766464860/
 - **近况信号**：
   - 550 只 90W 注入器——批量明确；玻利维亚不在主攻区但量大
+  - Corning 官方分销 + ADSS/最后一公里团队 → 客户群是 ISP 与布线承包商；550 台 90W PoE 注入器需求应来自 ISP/PTZ 项目，后续可延伸到 bt 级 PoE 交换机（2026-10-21）
 - **风险/边界**：90W 工业注入器不在 Saga 标准型谱；玻利维亚物流/付款
 - **Saga 对位结论**：P1 待核型（无标准对应）（20% 档）——550 × 90W 工业 PoE 注入器：需 SmartByte 核型或外采配套；可顺带报 STI-288DGGPM 作 PoE 交换方案替代；分销 20% 档
 - **邮件切入句（英文）**：For the 550 units of 90W industrial PoE injectors, I am confirming the bt injector part number and MOQ pricing with the factory now; if a switch-based design is acceptable, the 8-port 90W-capable industrial PoE switch can be quoted immediately as an alternative.
@@ -120,6 +133,9 @@ updated: 2026-10-21
 |---|---|---|---|---|
 | Eduardo Miranda | （官网列为主要联系人；Corning 分销联系人） | emiranda@surlink-tech.com / +591 75009995 | 调研核实（公开页） | 官网 + Corning 分销商页 |
 | Ivan Ortega | Ventas（销售） | iortega@surlink-tech.com / +591 74953834 | 调研核实（公开页） | 官网 |
+| Mauricio Eguez | Ventas — Corning / Nexans / Cat5e-6A | ventas05@surlink-tech.com / +591 74951389 | 调研核实（公开页） | https://www.surlink-tech.com/ |
+| Daniel Menacho | Ventas — 结构化布线 / BASOR 桥架 / Toten 机柜 | kmenacho@surlink-tech.com / +591 63338212 | 调研核实（公开页） | http://www.surlink-tech.com/empresa.php |
+| Silvia Salas | Ventas Fibra Óptica — ADSS / 五金 | ssalas@surlink-tech.com / +591 63486474 | 调研核实（公开页） | https://www.surlink-tech.com/contacto.php |
 
 - **通道建议**：企业邮箱可直发
 

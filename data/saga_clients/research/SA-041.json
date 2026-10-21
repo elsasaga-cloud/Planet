@@ -20,6 +20,27 @@
    "quote": "PO Box: 27640, Dubai, UAE · +971 4 2650333 · alsalami@emirates.net.ae",
    "url": "https://www.alsalami.com/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "创立与定位",
+   "quote": "Al Salami Trading L.L.C (AST) – was founded in 1989 by its chairman Mr. Rashid Al Salami. Originally based in Sharjah, it is now located in Dubai under one roof with the rest of Al Salami Group Of Companies.",
+   "url": "https://www.alsalami.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "名录",
+   "claim": "地址与电话",
+   "quote": "Al Salami Trading Est Address: Shop # 8, Ground Floor, Bin Sougat Building, Al Twar Road, Al Twar, Dubai Landmark: Opposite Terminal 2 Zip Code: 27640 … Phone number: +971 4 2650333",
+   "url": "https://www.uaeresults.com/1028180/Security_Control_Equipment_And_Systems/Dubai/Al_Salami_Trading_Est/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "名录",
+   "claim": "服务范围与规模",
+   "quote": "Al Salami Trading Establishment Is Suppliers & Service Providers Of CCTV Camera, Access Control, Barrier & Gates, Wired & Wireless Alarm System … No employees: 10-19 Employees",
+   "url": "https://ae.kompass.com/c/al-salami-trading-establishment/ae650104/",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -29,24 +50,34 @@
    "email": "alsalami@emirates.net.ae",
    "phone": "+971 4 265 0333",
    "source": "https://www.alsalami.com/"
+  },
+  {
+   "name": "Rashid Al Salami",
+   "role": "Chairman / Founder（官网 About）",
+   "email": "—（未公开）",
+   "phone": "+971 4 265 0333（公司）",
+   "source": "https://www.alsalami.com/about-us/"
   }
  ],
  "notes": "A 维持（主动询盘 + 已回复 + 中东集成商），首单仅 2 台，走项目复购逻辑；P1 = STI-144GP（1 光 4 电工业千兆，若价格表无则按 SmartByte 型号标注），25% 集成商档，MOQ 1 可直接成交。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1（沿用首轮调研 + 询盘）"
+  "level": "深挖 v2（官网 + 名录核对）"
  },
  "company_facts": {
-  "legal_name": "Al Salami Trading L.L.C.（AST）",
-  "founded": "1989",
-  "hq": "Dubai, UAE",
-  "staff": "11–50",
-  "other": "Al Salami 集团成员；报警/监控/音视频安防系统设计、集成、安装、维护"
+  "legal_name": "Al Salami Trading L.L.C.（AST；原 Al Salami Trading Establishment, ASTE）",
+  "founded": "1989（创始人/董事长 Rashid Al Salami）",
+  "hq": "Shop 8, Bin Soqat (Bin Sougat) Building, Al Twar Road, opp. Airport Terminal 2, Dubai；P.O. Box 27640（+971 4 265 0333 / 265 0303）",
+  "staff": "10–19（Kompass）/ 11–50（LinkedIn，2,183 followers）",
+  "other": "Al Salami 集团成员，原址沙迦；业务：CCTV、门禁、道闸/大门、有线/无线报警 的设计/集成/安装/维护；官网主打「Dubai trusted CCTV company 报价」"
  },
  "business_lines": [
   "电子安防集成（报警、CCTV、AV）",
-  "安装与维护"
+  "安装与维护",
+  "CCTV 设计安装（主业）",
+  "门禁 / 道闸 / 大门",
+  "报警系统（有线/无线）"
  ],
  "products_seen": [
   {
@@ -60,10 +91,13 @@
  ],
  "channels": {
   "网站": "https://www.alsalami.com/",
-  "直邮": "reyann@alsalami.com（用户表）"
+  "直邮": "reyann@alsalami.com（用户表）",
+  "电话": "+971 4 265 0333（名录公开）",
+  "LinkedIn": "https://www.linkedin.com/company/al-salami-trading-establishment/"
  },
  "signals": [
-  "用户表：A 已回复 + 询盘流水，具体数量 2 台（小样单→项目）"
+  "用户表：A 已回复 + 询盘流水，具体数量 2 台（小样单→项目）",
+  "官网侧重 CCTV 报价获客——PoE 交换机为摄像机工程配套耗材，8/16/24 口 PoE 为主（2026-10-21）"
  ],
  "risks": [
   "小批量样单；UAE 项目付款与清关由客户处理"

@@ -20,6 +20,20 @@
    "quote": "END TO END OFFERINGS — Operational video integration and video management · BECOME A PATNER TODAY · sales@taurusvision.com · Tell: 086 188 2266",
    "url": "https://www.taurusvision.com/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "名录",
+   "claim": "地址、规模与定位",
+   "quote": "Taurus Vision corporate office is located in 8 Malan St, Pretoria, 0084, South Africa and has 1-10 employees … We are committed to our customers by installing a monitoring platform with point of sale integration tailored to a specific application and location.",
+   "url": "https://www.zoominfo.com/pic/taurus-vision/348010963",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "名录",
+   "claim": "全国 CCTV 监控管理方案商",
+   "quote": "Taurus Vision delivers quality solutions and support in the field of CCTV video surveillance management to our customers nation wide.",
+   "url": "https://pretoria.infoisinfo.co.za/search/cctv/2",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -29,24 +43,40 @@
    "email": "",
    "phone": "+27 86 188 2266（总机）",
    "source": "https://www.zoominfo.com/p/Lynette-Bowman/8666668517"
+  },
+  {
+   "name": "Lynette Bowman",
+   "role": "CCTV（ZoomInfo 职务标注；邮箱未公开，域 @taurusvision.com）",
+   "email": "—（未公开；用户表 sales@taurusvision… 为合作伙伴招募邮箱）",
+   "phone": "—",
+   "source": "https://www.zoominfo.com/p/Lynette-Bowman/8666668517"
+  },
+  {
+   "name": "Cordea Bezuidenhout",
+   "role": "Administrative Assistant（ZoomInfo）",
+   "email": "—（未公开）",
+   "phone": "—",
+   "source": "https://www.zoominfo.com/pic/taurus-vision/348010963"
   }
  ],
  "notes": "A 维持（3 次实质回复 + WhatsApp 在手），但规模小、非洲区：以 8/16 口 PoE 小批量为主，不投入样机以外资源。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1（沿用首轮调研）"
+  "level": "深挖 v2（名录 + KP 核对）"
  },
  "company_facts": {
-  "legal_name": "Taurus Vision",
-  "hq": "Pretoria, South Africa",
-  "staff": "1–10",
+  "legal_name": "Taurus Vision（taurusvision.com）",
+  "hq": "8 Malan Street, Riviera, Pretoria 0084, Gauteng, South Africa",
+  "staff": "1–10（ZoomInfo）",
   "revenue": "<$5M",
-  "other": "CCTV 视频监控管理方案商/集成商；官网招募合作伙伴"
+  "other": "CCTV 视频监控管理方案商，强调「带 POS 集成的监控平台」按场景定制（零售），全国服务；营业 Mo–Sa 9–18"
  },
  "business_lines": [
   "CCTV / 视频管理方案",
-  "合作伙伴渠道"
+  "合作伙伴渠道",
+  "CCTV 监控管理平台（POS 集成）",
+  "CCTV 安装与支持（全国）"
  ],
  "products_seen": [
   {
@@ -59,15 +89,17 @@
   }
  ],
  "channels": {
-  "网站": "https://taurusvision.com/",
+  "网站": "https://www.taurusvision.com/",
   "直邮": "sales@taurusvision.com（用户表）",
   "WhatsApp": "已加（用户表）"
  },
  "signals": [
-  "3 次实质回复 + WA；21 次推送"
+  "3 次实质回复 + WA；21 次推送",
+  "POS 集成零售监控 = 多门店小规模 PoE 交换机重复采购（4/8 口为主）（2026-10-21）"
  ],
  "risks": [
-  "南非 ICASA/NRCS 合规由进口方；小公司"
+  "南非 ICASA/NRCS 合规由进口方；小公司",
+  "1–10 人、公开信息极少——单量小，按 B 节奏跟进即可，不投入过多"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",

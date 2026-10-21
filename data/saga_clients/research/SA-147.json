@@ -6,7 +6,12 @@
  "type": "批发分销商（布线/光纤/网络）",
  "size": "小型（待补证）",
  "brands_seen": [
-  "Corning（分销）"
+  "Corning（分销）",
+  "Corning",
+  "Nexans",
+  "3M",
+  "Toten",
+  "BASOR"
  ],
  "evidence": [
   {
@@ -29,6 +34,27 @@
    "quote": "Guapay # 2675… Santa Cruz de la Sierra, Bolivia… Email: emiranda@surlink-tech.com",
    "url": "https://www.corning.com/optical-communications/cala/en/home/support/distributors/bolivia.html",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "原厂名录",
+   "claim": "Corning 官方玻利维亚分销商（Carrier and Enterprise）",
+   "quote": "Location Title: Sur-Link Technology Bolivia … Business Classification: Carrier and Enterprise Country: Bolivia … Address Line 1: Av. Guapay # 2675 esquina Calle 10 Canal Cotoca entre Segundo y Tercer Anillo … Phone No: +591 3 3477677 … Email: emiranda@surlink-tech.com Website Link: http://www.surlink-tech.com/",
+   "url": "https://www.corning.com/optical-communications/cala/en/home/support/distributors/bolivia.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "销售团队与分工（公开）",
+   "quote": "Ventas Fibra Optica Silvia Salas ADSS y Ferreteria 63486474 Andres Flores ADSS, Ferreteria, Ultima milla 68821306 Ventas Cableado Estructurado Daniel Menacho Rejillas BASOR, Cableado Estructurado, Gabinetes Toten 63338212 … Mauricio Eguez Coming, Nexans, Cat5e Cat6 Cat6a",
+   "url": "https://www.surlink-tech.com/contacto.php",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "负责人联系方式",
+   "quote": "Sur - Link Technology (Bolivia) Av Guapay Nro. 2675, esq calle 10 … Telf.: +591-3-312-3371, 314-5932 Sr Eduardo Miranda +591-75009995 emiranda@surlink-tech.com",
+   "url": "https://surlink-tech.com/ubicacion.php",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -45,6 +71,27 @@
    "email": "iortega@surlink-tech.com",
    "phone": "+591 74953834",
    "source": "官网"
+  },
+  {
+   "name": "Mauricio Eguez",
+   "role": "Ventas — Corning / Nexans / Cat5e-6A",
+   "email": "ventas05@surlink-tech.com",
+   "phone": "+591 74951389",
+   "source": "https://www.surlink-tech.com/"
+  },
+  {
+   "name": "Daniel Menacho",
+   "role": "Ventas — 结构化布线 / BASOR 桥架 / Toten 机柜",
+   "email": "kmenacho@surlink-tech.com",
+   "phone": "+591 63338212",
+   "source": "http://www.surlink-tech.com/empresa.php"
+  },
+  {
+   "name": "Silvia Salas",
+   "role": "Ventas Fibra Óptica — ADSS / 五金",
+   "email": "ssalas@surlink-tech.com",
+   "phone": "+591 63486474",
+   "source": "https://www.surlink-tech.com/contacto.php"
   }
  ],
  "grade_override": null,
@@ -53,16 +100,19 @@
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1（沿用首轮调研）"
+  "level": "深挖 v2（官网 + Corning 官方经销名录核对）"
  },
  "company_facts": {
-  "legal_name": "Sur-Link Technology",
-  "hq": "Santa Cruz, Bolivia",
-  "other": "布线/光纤/网络批发分销（Cat6/6a、SM/MM、ADSS 五金、机柜；Corning 玻利维亚分销商）；官网列销售团队邮箱/手机"
+  "legal_name": "Sur-Link Technology Bolivia",
+  "hq": "Av. Guapay Nro. 2675 esq. Calle 10（Canal Cotoca, entre 2do y 3er anillo）, Santa Cruz de la Sierra（+591 3 312 3371 / 314 5932 / 3 347 7677；手机 77008888）",
+  "other": "技术产品批发分销商：Cat5e/6/6A（Corning、Nexans、3M）、光纤 SM/MM、ADSS 五金、最后一公里、BASOR 桥架、Toten 机柜、线槽；**Corning 官方玻利维亚分销商（Carrier and Enterprise）**；官网按产品线列出销售团队（公开）"
  },
  "business_lines": [
   "结构化布线 / 光纤 / 机柜 批发",
-  "Corning 分销"
+  "Corning 分销",
+  "结构化布线批发（Corning / Nexans / 3M）",
+  "光纤 ADSS / 五金 / 最后一公里（ISP 客户）",
+  "机柜（Toten）/ 桥架（BASOR）/ 线槽"
  ],
  "products_seen": [
   {
@@ -75,11 +125,14 @@
   }
  ],
  "channels": {
-  "网站": "https://surlink-tech.com/",
-  "直邮": "emiranda@surlink-tech.com（用户表）"
+  "网站": "https://www.surlink-tech.com/",
+  "直邮": "emiranda@surlink-tech.com（用户表）",
+  "电话": "+591 3 347 7677 / 312 3371（官网与 Corning 名录公开）",
+  "Facebook": "https://www.facebook.com/p/SUR-LINK-technology-bolivia-100063766464860/"
  },
  "signals": [
-  "550 只 90W 注入器——批量明确；玻利维亚不在主攻区但量大"
+  "550 只 90W 注入器——批量明确；玻利维亚不在主攻区但量大",
+  "Corning 官方分销 + ADSS/最后一公里团队 → 客户群是 ISP 与布线承包商；550 台 90W PoE 注入器需求应来自 ISP/PTZ 项目，后续可延伸到 bt 级 PoE 交换机（2026-10-21）"
  ],
  "risks": [
   "90W 工业注入器不在 Saga 标准型谱；玻利维亚物流/付款"

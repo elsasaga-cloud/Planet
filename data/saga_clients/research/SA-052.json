@@ -7,7 +7,8 @@
  "size": "未见人数（中小）",
  "brands_seen": [
   "FARADAY",
-  "ONV"
+  "ONV",
+  "FARADAY F-8xx（自有标交换机）"
  ],
  "evidence": [
   {
@@ -15,6 +16,27 @@
    "claim": "自有品牌 DIN 电源产品线与联系方式",
    "quote": "240W/48V/DIN. Блок питания FARADAY на DIN рейку разработан ООО \"ТД \"Фарадей Электроникс\" … Сертифицирован (EAC, CE, ROHS) … Гарантия 3 года … +7 (812) 953-13-59 spb@td-fe.ru",
    "url": "https://td-fe.ru/catalog/ps-on-din-rail/240W_48V_DIN.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "目录含 F-802 / F-812 交换机与 PoE 注入器",
+   "quote": "БП (инжекторы) PoE и сетевое оборудование - Коммутатор F-812 управляемый (L2) - Коммутатор F-802 управляемый … Серия блоков питания на DIN рейку и отдельные другие модели имеют СЕ сертификат",
+   "url": "https://td-fe.ru/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "F-802 规格",
+   "quote": "F-802. Индустриальный управляемый PoE коммутатор на 8 портов РоЕ (100 Мбит/с) + 2 порта Combo (1 Гбит/с)",
+   "url": "https://td-fe.ru/catalog/injector-poe/F-802_ID.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "经销商",
+   "claim": "F-802 PoE 预算与防护",
+   "quote": "Общий бюджет питания PoE — 240 Вт … Поддержка стандартов IEEE 802.3af/at … Крепление на DIN-рейку … Защита IP40 и грозозащита",
+   "url": "https://www.ami-com.ru/catalog/f-802/",
    "date": "2026-10-21"
   }
  ],
@@ -31,16 +53,19 @@
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1（沿用首轮调研）"
+  "level": "深挖 v2（官网 td-fe.ru 目录核对）"
  },
  "company_facts": {
-  "legal_name": "ООО «ТД «Фарадей Электроникс»（TH Faraday Electronics）",
-  "hq": "Saint Petersburg, Russia",
-  "other": "FARADAY 品牌 DIN 导轨工业电源 12–480W（EAC/CE/RoHS，3 年保），经 sintsec 等安防分销商销售；工业交换机为配套（ONV 来源）"
+  "legal_name": "ООО «ТД «Фарадей Электроникс»（TH Faraday Electronics Ltd.）",
+  "hq": "圣彼得堡（官网 td-fe.ru）",
+  "other": "自有品牌 FARADAY：DIN 开关电源 12–240W（CE）、UPS（UPS45-12-Slim … UPS 300W/48V）、**PoE 注入器与网络设备：F-802 工业管理型 PoE 交换机（8×FE PoE + 2 Combo GE，PoE 预算 240W，IP40，DIN，防雷）、F-812 管理型 L2**；中俄团队、电子模块合同制造；按客户 TЗ 免费定制电源（批量）"
  },
  "business_lines": [
   "DIN 导轨工业电源（主业）",
-  "配套 ONV 工业 PoE 交换机 / PoE 配件"
+  "配套 ONV 工业 PoE 交换机 / PoE 配件",
+  "FARADAY DIN 电源 / UPS（主业）",
+  "FARADAY PoE 注入器 + 自有标工业 PoE 交换机（F-802 / F-812）",
+  "电子模块合同制造"
  ],
  "products_seen": [
   {
@@ -58,23 +83,40 @@
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "用户表",
    "saga": "STI-288DGGPM / STI-144GP"
+  },
+  {
+   "brand": "FARADAY（自有标）",
+   "model": "F-802",
+   "spec": "工业管理型 PoE：8×100M PoE + 2×Combo 1G，PoE 240W，af/at，IP40，DIN，防雷",
+   "url": "https://td-fe.ru/catalog/injector-poe/F-802_ID.html",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM（千兆升级位）"
+  },
+  {
+   "brand": "FARADAY（自有标）",
+   "model": "F-812",
+   "spec": "管理型 L2 交换机（口型未列）",
+   "url": "https://td-fe.ru/",
+   "date": "2026-10-21",
+   "saga": "STI-21616GP（待核口型）"
   }
  ],
  "channels": {
-  "网站": "https://td-fe.ru/",
+  "网站": "https://td-fe.ru/（正式域名；faradayelectronics 为品牌名）",
   "直邮": "air@td-fe.ru（用户表）",
   "分销": "sintsec 等安防分销"
  },
  "signals": [
-  "用户表：优质俄罗斯客户，5 次实质回复——高互动；只要导轨式"
+  "用户表：优质俄罗斯客户，5 次实质回复——高互动；只要导轨式",
+  "已有自有标 F-802（百兆 PoE）——千兆 Marvell 版 = 现成的 F-8xx 升级 SKU；电源 + 交换机同柜配套是其卖点（2026-10-21）"
  ],
  "risks": [
   "俄罗斯：结算/物流/制裁合规由客户侧安排（Saga 侧无 EAC）；只做 DIN 导轨"
  ],
  "saga_fit": {
   "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "只要 DIN 导轨：STI-288DGGPM（8+2 管理）与 STI-144GP（4+1）配其电源线卖；品牌配套 25% 档"
+  "tier": 30,
+  "why": "自有标 FARADAY F-802（8 FE PoE + 2 combo）千兆升级 = STI-288DGGPM，按 F- 命名 OEM；F-812 L2 位待核口型；OEM 30% 档"
  },
- "email_hook": "Since your range is DIN-rail only, the 8-port gigabit PoE + 2 SFP managed DIN switch and the 4+1 compact model are the two units that pair naturally with FARADAY power supplies, and both are quoted EXW in neutral packing."
+ "email_hook": "Your F-802 is fast-Ethernet; the Marvell-based 8-port gigabit PoE+ with 2 SFP managed DIN switch would slot in as the F-8xx gigabit step-up in FARADAY packing, EXW, with CE/RoHS files ready."
 }

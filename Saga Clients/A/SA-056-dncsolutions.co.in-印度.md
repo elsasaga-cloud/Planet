@@ -21,7 +21,7 @@ replies: 2
 followups: 18
 first_contact: 2023-12-09
 last_contact: 2025-06-21
-p1: STI-110GE
+p1: STI-144GP
 price_tier: 30%
 research: done
 sources: 1
@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：喀拉拉邦的光纤产品制造/方案商（2011 年），自有 DNC 品牌：跳线/尾纤/连接器/分路器、数据 MC（MC-10100G 等）、视频/电话光端机、SFP、MPO。用户表：WhatsApp 跟进，2 次实质回复，18 次跟进；兴趣 MC / FS / HDMI / SFP / VC，要求质量较高，用自己的 logo。（调研 2026-10-21；表内兴趣：MC FS HDMI SFP VC 质量较高  自己的logo）
 - **为什么是 A 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 18 次（2023-12-09 → 2025-06-21）；最近一次客户回复：2024-12-09：1211: 22迷你
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：MC 贴牌为入口：STI-110GE（千兆 SFP MC，EXW $24.3 @30%）；随后 STC-28DGGPM 作 DNC 品牌 PoE 入门；OEM 30% 档；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-144GP — 深挖对位：自有标 DNC 4-PoE+1-FX 的同口型 = STI-144GP；MC-10100G 位 = STI-110GE；8 口升级 STI-288DGGPM；按 DNC 命名 OEM 30% 档；$36.9 USD EXW（30% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -66,30 +66,42 @@ updated: 2026-10-21
 - **【官网】自有品牌 MC 零售价与电话（与用户表一致）**
   > 10/100/1000 Mbps Duplex Data Media Converter … Part Number MC-10100G … +91-9656123414 Binanipuram … Brand DNC
   > 来源：https://www.dncsolutions.co.in/101001000mbpsduplexdatamediaconverter/pid-2010203631（抓取 2026-10-21）
+- **【IndiaMART】DNC 自有标 4-PoE + 1-FX 交换机**
+  > DNC 4-PoE With 1-Fixed FX Switch - Number of Ports · 4PoE+ 1FX … Power Consumption (watt) · 15.5W / 25.5W … Brand · DNC · Availability · In Stock
+  > 来源：https://www.indiamart.com/proddetail/4-poe-with-1-fixed-fx-switch-18538470891.html（抓取 2026-10-21）
+- **【官网】MC-10100G 规格与价格、电话、地址**
+  > 10/100/1000 Mbps Duplex Data Media Converter … +91-9656123414 Binanipuram … 3,379 … Part Number MC-10100G Temperature 0 to 50
+  > 来源：https://www.dncsolutions.co.in/101001000-mbps-duplex-data-media-converter/pid-2010203631（抓取 2026-10-21）
+- **【官网】2011 年成立与产品范围**
+  > Established in the year 2011, DNC Technosolutions Pvt. Ltd. is one of the well recognized Manufacturers and Solution makers of Fiber Optic Products and Technology … Data to Fiber converters, Video to Fiber Converter , Telephone to Fiber Converters , SFP Modules , MPO Systems
+  > 来源：https://www.dncsolutions.co.in/（抓取 2026-10-21）
 - **KP**：—（官网公开电话（WhatsApp 已加）） +91 96561 23414〔https://www.dncsolutions.co.in/〕
 - 备注：A 维持（2 次实质回复 + 自有品牌 + 官网电话即 WhatsApp）；主需求 MC 与 VC：P1 = STI-110GE（MC）贴牌 30%；VC/HDMI 光端机 Saga 不做，如实说明。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 dncsolutions.co.in + IndiaMART 核对））
 
 | 公司事实 | 内容 |
 |---|---|
 | 法定名称 | DNC Technosolutions Pvt. Ltd. |
-| 成立 | 2011 |
-| 总部/地址 | Ernakulam, Kerala, India |
-| 其他 | 光纤产品制造/方案商，自有 DNC 品牌：跳线/尾纤/分路器、MC（MC-10100G 等）、视频/电话光端机、SFP、MPO |
+| 成立 | 2011（IndiaMART 另见 2013） |
+| 总部/地址 | Binanipuram P.O., Edayar, Ernakulam, Kerala（+91 96561 23414）；另见 48/425-P, Raghavan Pillai Road, Edappally, Ernakulam 682026 |
+| 其他 | 自有品牌 DNC 光纤产品制造商：跳线/尾纤/适配器/分路器/配线架/MPO 系统、数据 MC（MC-10100G 千兆双纤 ₹3,379）、视频光端机（4ch TVI/CVI/AHD）、电话光端机、HDMI+USB KVM 光端机（DNC-KVM-HV，FCC/CE）、SFP、**DNC 4-PoE + 1-FX 交换机（IndiaMART 在售）** |
 
-- **业务线**：光纤无源（跳线、分路器、MPO）；DNC 品牌 MC / 光端机 / SFP；（兴趣）FS、HDMI、VC
+- **业务线**：光纤无源（跳线、分路器、MPO）；DNC 品牌 MC / 光端机 / SFP；（兴趣）FS、HDMI、VC；光纤无源（跳线/尾纤/MPO/配线架/分路器）制造；DNC 品牌光端机 / MC / SFP；DNC 品牌小口数 PoE 光纤交换机
 
 | 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
 |---|---|---|---|---|
 | DNC | MC-10100G 等 MC | 自有 logo，「质量较高」要求 | STI-110GE | https://dncsolutions.co.in/（2026-10（首轮调研）） |
+| DNC（自有标） | 4-PoE With 1-Fixed FX Switch | 4 PoE+ + 1 FX 固定光口，15.5/25.5W，DC 适配器 | STI-144GP（4 GE PoE + 1 SFP，直接对位） | https://www.indiamart.com/proddetail/4-poe-with-1-fixed-fx-switch-18538470891.html（2026-10-21） |
+| DNC（自有标） | MC-10100G | 10/100/1000 双纤 MC，150×100×30 mm，5W，0–50℃，₹3,379 | STI-110GE | https://www.dncsolutions.co.in/101001000-mbps-duplex-data-media-converter/pid-2010203631（2026-10-21） |
 
-- **触达通道（公开）**：网站: https://dncsolutions.co.in/；直邮: coo@dncsolutions.co.in（COO，用户表）；WhatsApp: 跟进中（用户表）
+- **触达通道（公开）**：网站: https://www.dncsolutions.co.in/；直邮: coo@dncsolutions.co.in（COO，用户表）；WhatsApp: 跟进中（用户表）；电话/WA: +91 96561 23414（官网公开）；IndiaMART: https://www.indiamart.com/dncsolutions/
 - **近况信号**：
   - 用户表：2 次实质回复，18 次跟进；兴趣 MC/FS/HDMI/SFP/VC，强调质量
+  - DNC 自有标已有 4 PoE + 1 FX 机——STI-144GP 为同口型 Marvell 替代，可按 DNC 命名贴牌；MC 位 STI-110GE（2026-10-21）
 - **风险/边界**：MC 单价低、印度价格敏感；VC/HDMI 不在 Saga 型谱
-- **Saga 对位结论**：P1 STI-110GE（30% 档）——MC 贴牌为入口：STI-110GE（千兆 SFP MC，EXW $24.3 @30%）；随后 STC-28DGGPM 作 DNC 品牌 PoE 入门；OEM 30% 档
-- **邮件切入句（英文）**：For the DNC-branded gigabit media converter line, the Marvell-based SFP media converter is the unit I can quote with your logo and CE/RoHS files, and an 8-port gigabit PoE+ 2 SFP managed switch is ready as the next SKU when you want to add switching.
+- **Saga 对位结论**：P1 STI-144GP（30% 档）——自有标 DNC 4-PoE+1-FX 的同口型 = STI-144GP；MC-10100G 位 = STI-110GE；8 口升级 STI-288DGGPM；按 DNC 命名 OEM 30% 档
+- **邮件切入句（英文）**：For your DNC 4-PoE + 1-FX switch and the MC-10100G converter, I can supply the Marvell-based 4-port gigabit PoE+ with SFP and the gigabit media converter in DNC packing, EXW, with CE/RoHS files.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -149,7 +161,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 深挖对位：MC 贴牌为入口：STI-110GE（千兆 SFP MC，EXW $24.3 @30%）；随后 STC-28DGGPM 作 DNC 品牌 PoE 入门；OEM 30% 档 | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商（光纤配套，MC 贴牌）） |
+| **P1** | STI-144GP | 深挖对位：自有标 DNC 4-PoE+1-FX 的同口型 = STI-144GP；MC-10100G 位 = STI-110GE；8 口升级 STI-288DGGPM；按 DNC 命名 OEM 30% 档 | $36.9 USD EXW（30% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商（光纤配套，MC 贴牌）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -158,9 +170,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-110GE），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-144GP），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-110GE 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-144GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
@@ -170,7 +182,7 @@ updated: 2026-10-21
 
 - **S**：有 2 次实质回复（对方认识我们）；WhatsApp 直达；自有品牌/贴牌需求 = 现成 OEM 客户
 - **W**：南亚：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-110GE 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：未见人数（小型）
+- **O**：P1 STI-144GP 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：未见人数（小型）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -199,14 +211,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (Marvell-based, neutral label)
+**主题**：STI-144GP - compact industrial switch (Marvell-based, neutral label)
 
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. For the DNC-branded gigabit media converter line, the Marvell-based SFP media converter is the unit I can quote with your logo and CE/RoHS files, and an 8-port gigabit PoE+ 2 SFP managed switch is ready as the next SKU when you want to add switching.
+Picking up our earlier exchange about PoE / industrial switches. For your DNC 4-PoE + 1-FX switch and the MC-10100G converter, I can supply the Marvell-based 4-port gigabit PoE+ with SFP and the gigabit media converter in DNC packing, EXW, with CE/RoHS files.
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as your DNC MC-10100G 等 MC at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based compact industrial switch, 4x Gigabit PoE+ plus 1 SFP - model STI-144GP - that fits the same slot as your DNC MC-10100G 等 MC at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $36.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 
