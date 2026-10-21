@@ -10,7 +10,9 @@
   "Advantech",
   "GTWave",
   "Sambo",
-  "HUNT"
+  "HUNT",
+  "PLANET",
+  "3Onedata"
  ],
  "evidence": [
   {
@@ -33,6 +35,20 @@
    "quote": "TRUONG SON SOLUTIONS AND CONTRUCTIONS COMPANY LIMITED, tax code 0315784421 … Company Establishment Date 12/07/2019 · The number of workers 5",
    "url": "https://dauthau.asia/en/businesslistings/detail/TRUONG-SON-SOLUTIONS-AND-CONTRUCTIONS-COMPANY-LIMITED-137944/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "ONV-IPS33054PF 规格",
+   "quote": "ONV-IPS33054PF series là dòng sản phẩm Switch PoE công nghiệp unmanaged tốc độ gigabit … 4×10/100/1000M RJ45 và 1x1000M SFP, Port 1->4 (PoE) hổ trợ chuẩn PoE IEEE802.3af/at",
+   "url": "https://truongsonsolutions.vn/san-pham/switch-poe-cong-nghiep-4-port-ips33054pf/",
+   "date": "2020-06-13"
+  },
+  {
+   "kind": "官网",
+   "claim": "ONV-IPS31004PF 售价",
+   "quote": "IPS31004PF Switch PoE công nghiệp 4 Port 4,159,500₫ … 4 Port RJ45 tốc độ 10/100M … 1 Port Uplink quang SC",
+   "url": "https://truongsonsolutions.vn/san-pham/ips31004pf-switch-poe-cong-nghiep-4-cong-1-sfp/",
+   "date": "2020-06-23"
   }
  ],
  "kp": [
@@ -45,5 +61,89 @@
   }
  ],
  "notes": "A 维持（垂直工业交换机分销 + 已回复 + 对深圳供应链开放），但规模小（5 人）；P1 = STI-288DGGPM 对位 ONV IPS33xx 系列，20% 分销档；注意它同时在推 Non-China 线，报价不提产地。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1"
+ },
+ "company_facts": {
+  "legal_name": "Công ty TNHH Giải pháp và Xây lắp Trường Sơn（Truong Son Solutions Co., Ltd.）",
+  "founded": "2019 注册",
+  "hq": "Ho Chi Minh City（另河内办公室）",
+  "staff": "5（登记）",
+  "other": "工业交换机垂直分销：ONV 工业 PoE 全线、PLANET（IGUP-1205AT）、3Onedata（IES5028G）、Advantech EKI、GTWave（Non-China/NDAA 卖点）、Sambo/HUNT 摄像机；站点 truongsonsolutions.vn + switchcongnghiep.com + wordpress；热线 0916.799.345"
+ },
+ "business_lines": [
+  "ONV 工业 PoE 交换机分销（IPS31004PF、IPS33054PF、IPS31064PF、IPS33168PFM、IPS36368PFM…）",
+  "PLANET / 3Onedata / Advantech / GTWave 工业网络",
+  "韩国/台湾摄像机"
+ ],
+ "products_seen": [
+  {
+   "brand": "ONV",
+   "model": "ONV-IPS33054PF",
+   "spec": "工业非管理 4×GE PoE + 1 SFP",
+   "url": "https://truongsonsolutions.vn/san-pham/switch-poe-cong-nghiep-4-port-ips33054pf/",
+   "date": "2020-06-13",
+   "saga": "STI-144GP"
+  },
+  {
+   "brand": "ONV",
+   "model": "ONV-IPS31004PF",
+   "spec": "工业 4×FE PoE + 1 SC，4,159,500 VND",
+   "url": "https://truongsonsolutions.vn/san-pham/ips31004pf-switch-poe-cong-nghiep-4-cong-1-sfp/",
+   "date": "2020-06-23",
+   "saga": "STI-144GP（千兆升级）"
+  },
+  {
+   "brand": "ONV",
+   "model": "ONV-IPS33168PFM",
+   "spec": "工业管理 8 GE PoE（+SFP）",
+   "url": "https://truongsonsolutions.vn/san-pham/switch-poe-cong-nghiep-4-port-ips33054pf/",
+   "date": "2020-06",
+   "saga": "STI-288DGGPM"
+  },
+  {
+   "brand": "ONV",
+   "model": "ONV-IPS36368PFM",
+   "spec": "工业 L2+ 10G 上联 36 口（8 GE + 24 SFP + 4 SFP+）",
+   "url": "https://truongsonsolutions.vn/san-pham/10g-uplink-36-port-l2-managed-industrial-poe-switch/",
+   "date": "2020-09-20",
+   "saga": "—"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IGUP-1205AT",
+   "spec": "工业 2 SFP → 1 bt 95W MC",
+   "url": "https://switchcongnghiep.com/san-pham/switch-cong-nghiep-planet-igup-1205at/",
+   "date": "2020-10-28",
+   "saga": "—"
+  },
+  {
+   "brand": "3Onedata",
+   "model": "IES5028G-8GC-4GS",
+   "spec": "工业 16 GE + 8 combo + 4 SFP",
+   "url": "https://switchcongnghiep.com/san-pham/ies5028g-8gc-4gs/",
+   "date": "2020-09-22",
+   "saga": "—"
+  }
+ ],
+ "channels": {
+  "网站": "https://truongsonsolutions.vn/ · https://switchcongnghiep.com/",
+  "直邮": "info@truongsonsolutions.com（用户表）",
+  "电话": "0916.799.345（官网公开）"
+ },
+ "signals": [
+  "多品牌工业交换机垂直分销——有现成客户群与品类知识；用户表：OEM/ODM、ONV 全线引进、MaiWe",
+  "GTWave 分销主打 Non-China/NDAA——同时经营中国 ONV，说明按客户分层卖"
+ ],
+ "risks": [
+  "ONV 全线在手，Saga 为同类替代；越南不在主攻区；5 人小公司"
+ ],
+ "saga_fit": {
+  "p1": "STI-144GP",
+  "tier": 20,
+  "why": "其最走量型 IPS33054PF/IPS31004PF（4 PoE + 1 光）= STI-144GP；IPS33168PFM = STI-288DGGPM；分销 20% 档"
+ },
+ "email_hook": "Against your ONV-IPS33054PF and IPS33168PFM listings, the Marvell-based 4+1 and 8+2 industrial PoE units are the two I can quote at EXW today as an alternative line under your own label."
 }

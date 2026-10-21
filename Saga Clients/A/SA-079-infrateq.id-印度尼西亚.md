@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：印尼雅加达 VoIP/PA 系统/联络中心/CCTV/工业网络解决方案商与分销商（2001 年，KOMINFO 持牌），CEO Ismed Sitepu 直接沟通（6 次回复、WA 在线），询过洪瑞（HRUI）工业 FS；LinkedIn 列'Offgrid CCTV Surveillance / Solar Panel Switch'等业务。（调研 2026-10-21；表内兴趣：洪瑞的工业FS）
 - **为什么是 A 级**：+30 实质回复 6 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/印度尼西亚；+5 最近活动 2025
 - **历史互动**：实质回复 6 次；WhatsApp 已加；推送 13 次（2024-05-11 → 2025-10-09）；最近一次客户回复：2025-01-03：hi
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：询过 HRUI 工业 FS：可按 HRUI 对照表报同款，并推 Marvell 版 STI-288DGGPM；分销 20% 档；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -75,6 +75,27 @@ updated: 2026-10-21
 - **KP**：Ismed Sitepu（CEO & Founder）ismed@divatel.co.id +62 852-8940-4589（WA，官网与用户记录一致）〔用户 Clients 表 + LinkedIn + 官网〕
 - 备注：A 级中少见的'CEO 直接、6 次回复、WA 在线、需求对位 HRUI 工业 FS'组合。离网/太阳能 CCTV 场景 → 工业 DC 供电 PoE 交换机（STI 工业线/HRUI STH 工业款）。P1：STI-288DGGPM 或 HRUI 对位 STH 工业 FS 机型（按 data/hrui_STC对照表.csv 核对），项目价阶 25%。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | PT Divatel Pratama（divatel.co.id / Infrateq.com） |
+| 成立 | 2001（KOMINFO 持牌） |
+| 总部/地址 | Jakarta, Indonesia |
+| 其他 | VoIP/PA/联络中心/CCTV/工业网络方案与分销；CEO Ismed Sitepu 直接沟通；VitalPBX 合作伙伴 |
+
+- **业务线**：VoIP / PA / 联络中心；CCTV 与工业网络分销（Infrateq 电商）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| HRUI（询过） | 工业 FS | 询过洪瑞的工业 FS | STI-288DGGPM（Marvell 位）/ HRUI 同款经 Saga | （本地 Clients/ 表格，无公开 URL）（用户表） |
+
+- **触达通道（公开）**：网站: https://divatel.co.id/ · https://infrateq.com/；直邮: ismed@divatel.co.id（CEO，用户表）；WhatsApp: 在线（用户表）
+- **近况信号**：
+  - CEO 直接沟通，6 次回复——决策人在手
+- **风险/边界**：印尼 SNI/Postel 认证由进口方；价格敏感
+- **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——询过 HRUI 工业 FS：可按 HRUI 对照表报同款，并推 Marvell 版 STI-288DGGPM；分销 20% 档
+- **邮件切入句（英文）**：On the industrial switch you asked about earlier, I can quote both the Realtek-based 8-port PoE unit you were looking at and the Marvell-based managed version with 2 SFP, so you can list two price points on Infrateq.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -134,7 +155,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（系统集成商+分销（VoIP/安防/工业网络）） |
+| **P1** | STI-288DGGPM | 深挖对位：询过 HRUI 工业 FS：可按 HRUI 对照表报同款，并推 Marvell 版 STI-288DGGPM；分销 20% 档 | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（系统集成商+分销（VoIP/安防/工业网络）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -187,9 +208,9 @@ updated: 2026-10-21
 ```text
 Hi Ismed,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. On the industrial switch you asked about earlier, I can quote both the Realtek-based 8-port PoE unit you were looking at and the Marvell-based managed version with 2 SFP, so you can list two price points on Infrateq.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the 洪瑞 class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your HRUI（询过） 工业 FS at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

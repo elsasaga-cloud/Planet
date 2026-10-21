@@ -34,5 +34,44 @@
  "grade_override": null,
  "override_reason": "",
  "notes": "有具体规格需求（2 光 4 电 + ERPS 环网）= 可追溯真实需求；2 次回复且 WA 在线。APAC 非主攻区但需求明确、尺寸可赢。P1：STI 工业系列中 2 光 4 电 ERPS 机型（在 SmartByte 工业目录中按'4 电 2 光 管理型'核对具体型号，报价前核价），项目价阶 25%。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1（沿用首轮调研）"
+ },
+ "company_facts": {
+  "legal_name": "BSN System / Berkah Saudara Network",
+  "hq": "Jakarta, Indonesia",
+  "other": "独立安防与 IT 方案公司（8 年），OSE 安防 + 外包运维"
+ },
+ "business_lines": [
+  "安防系统集成",
+  "IT 运维外包"
+ ],
+ "products_seen": [
+  {
+   "brand": "（项目需求）",
+   "model": "2 光 4 电 ERPS 环网工业交换机；5 电口带 PoE",
+   "spec": "明确需求",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "STI-144GP（4+1；2 光需核）/ STI-288DGGPM"
+  }
+ ],
+ "channels": {
+  "直邮": "aarstyan@gmail.com（用户表，免费邮箱）",
+  "WhatsApp": "已加（用户表）"
+ },
+ "signals": [
+  "用户表：2 次回复 + WA，需求具体（ERPS 环网）"
+ ],
+ "risks": [
+  "免费邮箱、小公司；ERPS 功能需 SmartByte 固件确认"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 25,
+  "why": "ERPS 环网需求 → 管理型 STI-288DGGPM（8+2，ERPS 待核）优于 4+1 非管理；集成商 25% 档"
+ },
+ "email_hook": "For the 2-fibre 4-copper ERPS ring requirement, the managed 8-port gigabit PoE + 2 SFP DIN switch is the unit that carries ring protection, so I am quoting that and confirming the ERPS firmware detail with the factory."
 }

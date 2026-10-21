@@ -38,6 +38,20 @@
    "quote": "회사명 : (주)이지넷유비쿼터스 · 대표자 : 김우경 · 이메일 : marketing@ez-net.co.kr · 대표전화 : 02-715-0372",
    "url": "https://nextu.kr/article/q-a/6/12691",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网商城",
+   "claim": "NEXT-POE8022GDT 售价",
+   "quote": "산업용 기가 8포트 POE 스위치허브 NEXT-POE8022GDT - 소비자가 : 300,000원 - 판매가 : 205,500원",
+   "url": "https://nextu.kr/category/%EC%82%B0%EC%97%85%EC%9A%A9-poe-%EC%8A%A4%EC%9C%84%EC%B9%98/362/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "工业 PoE 交换机分类（L2/安全/L3/BT/非管理）",
+   "quote": "산업용 PoE 스위치허브 - L2 POE 스위치 - 보안기능POE 스위치 - L3 POE 스위치 - BT 고출력 POE 스위치 - 언매니지드 POE 스위치",
+   "url": "https://ez-net.co.kr/sub/sub01_01.php?cat_no=149",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -57,5 +71,89 @@
   }
  ],
  "notes": "A 确认（顶级 OEM 目标）：自有品牌全系交换机 + 三次主动到访 + 明确 bypass/10G 需求；P1 改 STI-488XGGPM（工业 10G 上联）或 bypass 型号（如 SmartByte 有 bypass 款需标注），走 30% OEM 档。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1"
+ },
+ "company_facts": {
+  "legal_name": "(주)이지넷유비쿼터스 EZ-NET Ubiquitous Co., Ltd.（品牌 NEXTU / NEXTLINK）",
+  "founded": "2004",
+  "hq": "Seoul, Korea",
+  "other": "自有品牌约 1,000 SKU；官网目录含「산업용 PoE 스위치허브」L2/L3/보안/BT/비관리 五类；自营商城 nextu.kr 明码标价"
+ },
+ "business_lines": [
+  "工业以太网/PoE 交换机（L2/L3/安全功能/bt 高功率/非管理）",
+  "工业 PoE 光纤 MC（NEXT 300FSCSWA-POE 等）",
+  "商用交换机、数码周边"
+ ],
+ "products_seen": [
+  {
+   "brand": "NEXTU",
+   "model": "NEXT-POE8022GDT",
+   "spec": "工业千兆 8 PoE 交换机，商城 205,500 KRW（定价 300,000）",
+   "url": "https://nextu.kr/category/%EC%82%B0%EC%97%85%EC%9A%A9-poe-%EC%8A%A4%EC%9C%84%EC%B9%98/362/",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM"
+  },
+  {
+   "brand": "NEXTU",
+   "model": "POE9628GDT（피어방）",
+   "spec": "工业 1G 8 PoE + 2 SFP 迷你，232,500 KRW",
+   "url": "https://nextu.kr/category/poe/58/",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM"
+  },
+  {
+   "brand": "NEXTU",
+   "model": "POE9518GDT（인루트 U1）",
+   "spec": "工业 16 PoE+ + 2 SFP 240W 非管理（新品）",
+   "url": "https://nextu.kr/",
+   "date": "2026-10-21",
+   "saga": "STI-21616GP"
+  },
+  {
+   "brand": "NEXTU",
+   "model": "POE9968DX（인루트 MX2）",
+   "spec": "工业 16 GE PoE+ + 4×10G SFP+ 370W L2 管理",
+   "url": "https://ez-net.co.kr/en/sub/sub01_01.php?cat_no=&sk=&brand=NEXTU&is_new=&f1=&f2=&f3=&f4=&f5=&f6=&f7=&f8=&f9=&f10=&icons=&offset=216",
+   "date": "2026-10-21",
+   "saga": "STC-424XGGPM-280W（机架位）"
+  },
+  {
+   "brand": "NEXTU",
+   "model": "POE9848MDTL3-10G",
+   "spec": "工业 L3 8 PoE 240W + 4×1/2.5/10G SFP，ERPS/OSPF/BGP",
+   "url": "https://nextu.kr/product/%ED%94%BC%EC%95%84%EB%B0%B4-%EC%82%B0%EC%97%85%EC%9A%A9-8%ED%8F%AC%ED%8A%B8-1g-tp-10g-4sfp-l3%EB%A7%A4%EB%8B%88%EC%A7%80%EB%93%9C-poe-%EC%8A%A4%EC%9C%84%EC%B9%98%ED%97%88%EB%B8%8C-poe9848mdtl3-10g/1497/",
+   "date": "2026-10-21",
+   "saga": "—（工业 L3 10G 需 SmartByte 核型）"
+  },
+  {
+   "brand": "NEXTU",
+   "model": "NEXT-POE516FDT-B / NEXT 300FSCSWA-POE",
+   "spec": "工业百兆 PoE 光纤 MC，70,500 KRW",
+   "url": "https://rftown.com/product/%EB%84%A5%EC%8A%A4%ED%8A%B8%EC%9C%A0-next-poe516fdt-b-%EC%82%B0%EC%97%85%EC%9A%A9-%EC%8A%A4%EC%9C%84%EC%B9%98-10100m-mm-duplex-1310nm-sc-type-2km-poe/14534/",
+   "date": "2026-10-21",
+   "saga": "STI-110GE（千兆位）"
+  }
+ ],
+ "channels": {
+  "网站": "https://ez-net.co.kr/ · https://nextu.kr/（商城）",
+  "直邮": "eznet66@naver.com（用户表）",
+  "二级渠道": "rftown.com 等"
+ },
+ "signals": [
+  "2026 年仍在上新工业 PoE（POE9518GDT、POE9968DX）与 L3 10G 机型——工业线扩张期（2026-10-21）",
+  "用户表：三次到访，问 bypass、2.5G/10G bypass、波分设备"
+ ],
+ "risks": [
+  "韩国 KC 认证与韩文 Web UI 要求（其 L3 机型卖点是「한글 웹 설정」）",
+  "bypass/波分不在 Saga 型谱；韩国不在主攻区"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 30,
+  "why": "NEXT-POE8022GDT / POE9628GDT（8 PoE + 2 SFP 工业）与 STI-288DGGPM 同位；16 口位 STI-21616GP；OEM 30% 档；bypass 另核"
+ },
+ "email_hook": "Your POE9628GDT and NEXT-POE8022GDT sit on the same 8-port gigabit PoE + 2 SFP industrial footprint we build on a Marvell core, so I am quoting that in NEXTU packing with the 16-port 240W model as the second SKU."
 }

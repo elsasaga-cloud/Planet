@@ -50,5 +50,44 @@
  "grade_override": null,
  "override_reason": "",
  "notes": "550 只 90 W 注入器为明确量化需求且已回复；分销商身份可带后续 PoE 交换机。南美非主攻区但无需额外投入。先向 SmartByte 核实是否有 90 W（802.3bt）注入器及价格；若无，用 STC-28DGGPM（bt 版本核对）替代方案报价，分销价阶 20%。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1（沿用首轮调研）"
+ },
+ "company_facts": {
+  "legal_name": "Sur-Link Technology",
+  "hq": "Santa Cruz, Bolivia",
+  "other": "布线/光纤/网络批发分销（Cat6/6a、SM/MM、ADSS 五金、机柜；Corning 玻利维亚分销商）；官网列销售团队邮箱/手机"
+ },
+ "business_lines": [
+  "结构化布线 / 光纤 / 机柜 批发",
+  "Corning 分销"
+ ],
+ "products_seen": [
+  {
+   "brand": "（需求）",
+   "model": "90W 工业 PoE 注入器 ×550",
+   "spec": "E 渠道已回复，数量 550",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "—（90W bt 注入器需 SmartByte 核型/外采）"
+  }
+ ],
+ "channels": {
+  "网站": "https://surlink-tech.com/",
+  "直邮": "emiranda@surlink-tech.com（用户表）"
+ },
+ "signals": [
+  "550 只 90W 注入器——批量明确；玻利维亚不在主攻区但量大"
+ ],
+ "risks": [
+  "90W 工业注入器不在 Saga 标准型谱；玻利维亚物流/付款"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "550 × 90W 工业 PoE 注入器：需 SmartByte 核型或外采配套；可顺带报 STI-288DGGPM 作 PoE 交换方案替代；分销 20% 档"
+ },
+ "email_hook": "For the 550 units of 90W industrial PoE injectors, I am confirming the bt injector part number and MOQ pricing with the factory now; if a switch-based design is acceptable, the 8-port 90W-capable industrial PoE switch can be quoted immediately as an alternative."
 }

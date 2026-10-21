@@ -27,5 +27,43 @@
  "grade_override": null,
  "override_reason": "",
  "notes": "规格明确（12 光 12 电，2 台）、3 次回复、WA 在线 → 可追溯真实需求且小单可成；南美非主攻区但不需额外投入。P1：SmartByte 12 光 12 电管理型（按 docs/smartbyte/products 核对 24 口 combo 机型，报价前核价），项目价阶 25%。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1（沿用首轮调研）"
+ },
+ "company_facts": {
+  "legal_name": "RYMTECH EAS",
+  "hq": "World Trade Center, Asunción, Paraguay",
+  "other": "集成/工程商；WA 在线"
+ },
+ "business_lines": [
+  "系统集成/工程"
+ ],
+ "products_seen": [
+  {
+   "brand": "（项目需求）",
+   "model": "12 光 12 电交换机 ×2",
+   "spec": "明确数量",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "—（12 光 12 电需 SmartByte 核型；近似 STC-448XGGM(L3) 不匹配）"
+  }
+ ],
+ "channels": {
+  "直邮": "cirruslink1983@gmail.com（用户表，免费邮箱）",
+  "WhatsApp": "+595 985 748567 已加（用户表）"
+ },
+ "signals": [
+  "3 次回复、需求具体（2 台 12 光 12 电）"
+ ],
+ "risks": [
+  "12 光 12 电非标准型谱；巴拉圭物流/付款"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "需求 12 SFP + 12 RJ45：Saga 标准型谱无对应，需向 SmartByte 核型；若改用 8 SFP 机型可替代则另报"
+ },
+ "email_hook": "For the two 12-fibre 12-copper units, I am checking the exact SFP-dense model with the factory this week; if your design can accept a 24-port copper switch with 4 SFP+ uplinks plus media converters, I can quote that combination immediately."
 }

@@ -179,7 +179,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-144GP | 深挖对位：自有 PDT-NSU-7104-MP-SF-I（4 GE PoE + 1 SFP 超小 DIN）与 STI-144GP 同位；8 口位→STI-288DGGPM；贴 PDT 标 30% 档（量小可 25%） | $36.9 USD EXW（30% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（微型 OEM/ODM 品牌商（自有品牌网络设备）） |
+| **P1** | STI-144GP | 深挖对位：自有 PDT-NSU-7104-MP-SF-I（4 GE PoE + 1 SFP 超小 DIN）与 STI-144GP 同位；8 口位→STI-288DGGPM；贴 PDT 标 30% 档（量小可 25%） | $36.9 USD EXW（30% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（微型 OEM/ODM 品牌商（自有品牌网络设备）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |

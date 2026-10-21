@@ -22,7 +22,7 @@ followups: 1
 first_contact: 2025-09-12
 last_contact: 2025-09-12
 p1: STC-424DGGPM-280W
-price_tier: 30%
+price_tier: 20%
 research: done
 sources: 2
 updated: 2026-10-21
@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：曼谷的网络/安防设备综合分销与工程商（2011 年成立，登记规模极小），代理 PLANET、ORing、TRENDnet、Wi-Tek、W-LINK、C-DATA、Utepo（UTP5628S-PSB-L3 等）；页面含 L3 交换机、工业自动化、光纤收发器类目。用户表：A 已回复 1 次；「同行经销商(Smartbyte)」清单——即在售与 SmartByte 同源/同行产品；兴趣工商业 FS，有 Utepo。（调研 2026-10-21；表内兴趣：工商业FS 有Utepo的）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 在卖 DPTEK/SmartByte 同类产品的经销商（已接受深圳供应链）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/泰国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-09-12 → 2025-09-12）；最近一次客户回复：2025-09-12：Thanks for info
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：Utepo/Wi-Tek 位的商用 24 口 PoE 管理 = STC-424DGGPM-280W；工业位 STI-288DGGPM；分销 20% 档；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -72,6 +72,27 @@ updated: 2026-10-21
 - **KP**：—（总机）info@success-network.co.th +66 2 973 1966 / +66 81 659 4477（LINE @success_network）〔https://www.success-network.co.th/contact-us/〕
 - 备注：A 维持（已回复 + 全品类分销 + 已在卖同源产品），但需先向 SmartByte 确认该客户/其上游（Utepo 等）是否为 SmartByte 直客以免渠道冲突；P1 = STC-424DGGPM-280W（对位 Utepo 24 口 PoE L2+），20% 分销档。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Success Network and Communication Co., Ltd. |
+| 成立 | 2011 |
+| 总部/地址 | Bangkok, Thailand |
+| 其他 | 网络/安防综合分销与工程商，代理 PLANET、ORing、TRENDnet、Wi-Tek、W-LINK、C-DATA、Utepo（UTP5628S-PSB-L3）；登记规模极小 |
+
+- **业务线**：多品牌网络设备分销（PLANET/ORing/TRENDnet/Wi-Tek/Utepo）；安防工程
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Utepo | UTP5628S-PSB-L3 | L3 PoE 交换机（页面） | STC-424XGGPM-280W | https://success-network.co.th/（2026-10（首轮调研）） |
+
+- **触达通道（公开）**：网站: https://success-network.co.th/；直邮: info@success-network.co.th（用户表）
+- **近况信号**：
+  - 用户表：工商业 FS，有 Utepo 的
+- **风险/边界**：多品牌小分销，Saga 为又一白牌；泰国价格敏感
+- **Saga 对位结论**：P1 STC-424DGGPM-280W（20% 档）——Utepo/Wi-Tek 位的商用 24 口 PoE 管理 = STC-424DGGPM-280W；工业位 STI-288DGGPM；分销 20% 档
+- **邮件切入句（英文）**：Alongside the Utepo and Wi-Tek units you carry, the Marvell-based 24-port PoE+ managed switch and the 8-port industrial PoE DIN model are the two I can quote EXW as a neutral-packing line.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -116,10 +137,10 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（分销商/系统集成（多品牌）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-424DGGPM-280W | 深挖对位：Utepo/Wi-Tek 位的商用 24 口 PoE 管理 = STC-424DGGPM-280W；工业位 STI-288DGGPM；分销 20% 档 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销商/系统集成（多品牌）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -129,7 +150,7 @@ updated: 2026-10-21
 
 - **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424DGGPM-280W 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -137,7 +158,7 @@ updated: 2026-10-21
 
 - **S**：有 1 次实质回复（对方认识我们）；自有品牌/贴牌需求 = 现成 OEM 客户
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-424DGGPM-280W 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；对位其在用/在卖的 Utepo：涨价、断货或交期拉长时切入；规模（调研）：2 人（workventure 登记）
+- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；对位其在用/在卖的 Utepo：涨价、断货或交期拉长时切入；规模（调研）：2 人（workventure 登记）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -170,9 +191,9 @@ updated: 2026-10-21
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Alongside the Utepo and Wi-Tek units you carry, the Marvell-based 24-port PoE+ managed switch and the 8-port industrial PoE DIN model are the two I can quote EXW as a neutral-packing line.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the Utepo class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as your Utepo UTP5628S-PSB-L3 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

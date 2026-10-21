@@ -50,5 +50,46 @@
  "grade_override": null,
  "override_reason": "",
  "notes": "A 级中少见的'CEO 直接、6 次回复、WA 在线、需求对位 HRUI 工业 FS'组合。离网/太阳能 CCTV 场景 → 工业 DC 供电 PoE 交换机（STI 工业线/HRUI STH 工业款）。P1：STI-288DGGPM 或 HRUI 对位 STH 工业 FS 机型（按 data/hrui_STC对照表.csv 核对），项目价阶 25%。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1（沿用首轮调研）"
+ },
+ "company_facts": {
+  "legal_name": "PT Divatel Pratama（divatel.co.id / Infrateq.com）",
+  "founded": "2001（KOMINFO 持牌）",
+  "hq": "Jakarta, Indonesia",
+  "other": "VoIP/PA/联络中心/CCTV/工业网络方案与分销；CEO Ismed Sitepu 直接沟通；VitalPBX 合作伙伴"
+ },
+ "business_lines": [
+  "VoIP / PA / 联络中心",
+  "CCTV 与工业网络分销（Infrateq 电商）"
+ ],
+ "products_seen": [
+  {
+   "brand": "HRUI（询过）",
+   "model": "工业 FS",
+   "spec": "询过洪瑞的工业 FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "STI-288DGGPM（Marvell 位）/ HRUI 同款经 Saga"
+  }
+ ],
+ "channels": {
+  "网站": "https://divatel.co.id/ · https://infrateq.com/",
+  "直邮": "ismed@divatel.co.id（CEO，用户表）",
+  "WhatsApp": "在线（用户表）"
+ },
+ "signals": [
+  "CEO 直接沟通，6 次回复——决策人在手"
+ ],
+ "risks": [
+  "印尼 SNI/Postel 认证由进口方；价格敏感"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 20,
+  "why": "询过 HRUI 工业 FS：可按 HRUI 对照表报同款，并推 Marvell 版 STI-288DGGPM；分销 20% 档"
+ },
+ "email_hook": "On the industrial switch you asked about earlier, I can quote both the Realtek-based 8-port PoE unit you were looking at and the Marvell-based managed version with 2 SFP, so you can list two price points on Infrateq."
 }

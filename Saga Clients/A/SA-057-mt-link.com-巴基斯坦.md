@@ -21,7 +21,7 @@ replies: 2
 followups: 20
 first_contact: 2023-10-19
 last_contact: 2025-06-26
-p1: STC-448XGGM(L3)
+p1: STC-424DGGPM-280W
 price_tier: 30%
 research: done
 sources: 2
@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：卡拉奇的自有品牌网络设备商（自称巴基斯坦首家本土网络品牌）：WiFi 路由、XPON ONU、OLT、8/16/24 口千兆与 PoE 交换机、10G/25G/100G L3 交换机（产品页明示源自上海博达 BDCOM）；有零售电商 mtlinkpakistan.com。用户表：WhatsApp 跟进 + DC 线索，2 次实质回复，20 次跟进；兴趣 MC / FS / 无线 AP，用自己的 logo，备注「应该是 BDCOM 的，质量看着一般」。（调研 2026-10-21；表内兴趣：应该是BDCOM的；MC FS 无线AP 自己的logo  质量看着一般）
 - **为什么是 A 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+0 数据中心交换机线索（Hohunet/CENTEC 线）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/巴基斯坦；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 20 次（2023-10-19 → 2025-06-26）；最近一次客户回复：2024-02-27：price
-- **P1（下一步唯一主推）**：STC-448XGGM(L3) — L3 48 口 + 4×10G（Hohunet/CENTEC 线）；$505.2 USD EXW（30% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：MT-SW1024PE 的千兆管理升级位 = STC-424DGGPM-280W；8 口位 STC-28DGGPM；贴 MT- 型号 30% 档；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -69,9 +69,39 @@ updated: 2026-10-21
 - **【第三方（Facebook）】总部与电话（与用户表 WhatsApp 号一致）**
   > MT Link Technologies co. (HEAD OFFICE) 109,111&113 Elahi Centre Preedy Street, Saddar, Karachi, Pakistan +92 317 9995719
   > 来源：https://www.facebook.com/mtlinkpakistan/（抓取 2026-10-21）
+- **【官网零售】MT-SW1024PE 规格**
+  > MT-SW1024PE - 24FE POE+ 2GE + 1G SFP Uplink POE Switch - 24 ports 10/100Mbps POE Ports - 2 Gigabit Uplink ports - 1 Gigabit SFP Uplink ports - 250W Total POE budget
+  > 来源：https://mtlinkpakistan.com/products/mt-sw1024pe（抓取 2026-10-21）
+- **【官网零售】L3-Lite 机型基于 BDCOM BDROS 平台与价格**
+  > MT-SG2912 10G L3-Lite Stackable Switch … Based on the new high-performance hardware and the BDROS platform … price 88000.00 PKR
+  > 来源：https://mtlinkpakistan.com/products/mt-sg2912f（抓取 2026-10-21）
 - **KP**：—（总机（WhatsApp 已加））info@mt-link.com +92 317 9995719〔https://www.facebook.com/mtlinkpakistan/〕
 - 备注：A 维持（自有品牌 + 2 次实质回复 + 全线中国白牌），南亚价格极敏感；P1 = STC-424DGGM/STC-28DGGPM 贴牌 30%，突出 Marvell 方案对 BDCOM 入门款的稳定性差异；AP 不做。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | MT-Link Technologies Co. |
+| 总部/地址 | 109–113 Elahi Centre, Preedy Street, Saddar, Karachi, Pakistan（+92 317 9995719） |
+| 其他 | 自称巴基斯坦首家本土网络品牌；零售电商 mtlinkpakistan.com（PKR 标价）；L3 机型基于 BDCOM（BDROS 平台）；1 年官方保修 |
+
+- **业务线**：WiFi 路由 / XPON ONU / OLT；PoE 交换机（MT-SW1024PE 24 FE PoE+ 2 GE + 1 SFP 250W 等）；L3-Lite/L3 核心（MT-SG2912/2928/5828，BDCOM 来源）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| MT-Link | MT-SW1024PE | 24×FE PoE+ + 2 GE + 1 SFP，250W | STC-424DGGPM-280W（千兆升级） | https://mtlinkpakistan.com/products/mt-sw1024pe（2026-10-21） |
+| MT-Link（BDCOM） | MT-SG2928-2AC | 24 GE + 4×10G L3-Lite 可堆叠，Rs.65,500–66,000（原 80,950） | STC-448XGGM(L3)（48 口位）/ STC-424XGGPM-280W（PoE 位） | https://mtlinkpakistan.com/collections/manageable-switches（2026-10-21） |
+| MT-Link（BDCOM） | MT-SG2912 / MT-SG2912F | 10G L3-Lite，Rs.36,000 / Rs.88,000 | — | https://mtlinkpakistan.com/products/mt-sg2912f（2026-10-21） |
+| MT-Link（BDCOM） | MT-SG5828 | 24×10G + 4×100G 核心 | — | https://mt-link.com/product/mt-sg5828/（2026-10-21） |
+
+- **触达通道（公开）**：网站: https://mt-link.com/ · https://mtlinkpakistan.com/（零售）；直邮: info@mt-link.com（用户表）；mtlink.pakistan@gmail.com（Facebook 公开）；社媒: Facebook mtlinkpakistan
+- **近况信号**：
+  - PoE 线仍为百兆 24 口（MT-SW1024PE）——千兆 PoE 管理型是空位（2026-10-21）
+  - 用户表：MC/FS/无线 AP，自己的 logo
+- **风险/边界**：巴基斯坦外汇/LC 付款与进口限制；价格极敏感（24 FE PoE 零售极低）；BDCOM 为 L3 来源，Saga 只切接入层
+- **Saga 对位结论**：P1 STC-424DGGPM-280W（30% 档）——MT-SW1024PE 的千兆管理升级位 = STC-424DGGPM-280W；8 口位 STC-28DGGPM；贴 MT- 型号 30% 档
+- **邮件切入句（英文）**：Your MT-SW1024PE is still a fast-Ethernet PoE unit, so a Marvell-based 24-port gigabit PoE+ managed switch with 4 SFP under an MT- part number is the gap I would fill first, with the 8-port PoE+ 2 SFP model alongside.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -138,7 +168,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-448XGGM(L3) | L3 48 口 + 4×10G（Hohunet/CENTEC 线） | $505.2 USD EXW（30% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商（中国白牌贴牌，ODM 买家）） |
+| **P1** | STC-424DGGPM-280W | 深挖对位：MT-SW1024PE 的千兆管理升级位 = STC-424DGGPM-280W；8 口位 STC-28DGGPM；贴 MT- 型号 30% 档 | $145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商（中国白牌贴牌，ODM 买家）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -147,9 +177,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-448XGGM(L3)），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-448XGGM(L3) 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424DGGPM-280W 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
@@ -159,7 +189,7 @@ updated: 2026-10-21
 
 - **S**：有 2 次实质回复（对方认识我们）；WhatsApp 直达；自有品牌/贴牌需求 = 现成 OEM 客户
 - **W**：南亚：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-448XGGM(L3) 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；对位其在用/在卖的 BDCOM：涨价、断货或交期拉长时切入；规模（调研）：未见人数（中小）
+- **O**：P1 STC-424DGGPM-280W 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；对位其在用/在卖的 BDCOM：涨价、断货或交期拉长时切入；规模（调研）：未见人数（中小）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -187,14 +217,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-448XGGM(L3) - 48-port Gigabit L3 switch with 10G uplinks (CENTEC-based, neutral label)
+**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
 
 ```text
 Hi Adil,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Your MT-SW1024PE is still a fast-Ethernet PoE unit, so a Marvell-based 24-port gigabit PoE+ managed switch with 4 SFP under an MT- part number is the gap I would fill first, with the 8-port PoE+ 2 SFP model alongside.
 
-We supply a CENTEC-based 48-port Gigabit L3 switch with 10G uplinks - model STC-448XGGM(L3) - that fits the same slot as the BDCOM class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $505.2 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as your MT-Link MT-SW1024PE at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

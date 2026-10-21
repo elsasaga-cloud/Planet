@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：韩国板桥的自有品牌网络/无线设备商（2001 年成立，11–50 人）：智能 PoE 交换机、工业 PoE 交换机、PoE 注入器/延长器、户外/工业 AP（KCMVP/CC 认证联动，可用于军用无线）、无线 CCTV、无人机图传、天线；有 CB/CE/ISO 认证。用户表：A 已回复，兴趣自己的 logo、工业 FS、FS PoE，提到海思方案。（调研 2026-10-21；表内兴趣：自己的logo 工业FS FS PoE 海思的）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-04-15 → 2025-04-15）；最近一次客户回复：2025-04-15：Company Info
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：iG8P-2SMB（8 GE PoE + 2 SFP 管理，ERPS）= STI-288DGGPM；GT8P-2G-HA 商用位 = STC-28DGGPM；OEM 30% 档；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -66,9 +66,39 @@ updated: 2026-10-21
 - **【第三方（EC21）】规模与联系人**
   > Gtwave Co.,Ltd … Korea · 2001 · 11 - 50 … Main Products PoE Network Switch, 8Port PoE (GT8P-2G-HA) · Industrial PoE Network Switch, 4port Poe … Contact MOONSOO,PARK(Mr.)
   > 来源：https://www.ec21.com/product-details/PoE-Network-Switch-8Port-PoE--11968346.html（抓取 2026-10-21）
+- **【展会目录】GTWave 工业 PoE 型号表（iG8P-2SMB/2SB/4SMB/8GE/8FE、DNS8-2SM、iG4P-2SMB）**
+  > iG8P-2SMB | Web관리, 8PoE Gbps, 2SFP, 지능형 PoE, consol 1, Ring 구성(ERPS, EAPS) | iG8P-2SB | non managed, 8PoE Gbps, 2 SFP … iG8P-4SMB | Web관리, 8PoE Gbps, 4SFP … DNS8-2SM | Web관리, Ring 구성(ERPS, EAPS), 8GE + 2SFP
+  > 来源：https://oemfile.informamarkets-info.com/FileUpload/2025SEC_39523/20250116080429651.pdf（抓取 2025-01-16）
 - **KP**：Moonsoo Park（对外联系人（EC21 供应商页））master@gtwave.co.kr +82 31 707 4670〔https://www.ec21.com/product-details/PoE-Network-Switch-8Port-PoE--11968346.html〕
 - 备注：A 确认（韩国自有品牌 PoE 交换机 + 已回复 + 明确贴牌）；注意其部分 AP 用于军用无线——Saga 只供交换机硬件，守界不碰军品项目；P1 = STI-288DGGPM 工业 PoE，30% OEM 档。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | GTWAVE Co., Ltd.（(주)지티웨이브） |
+| 成立 | 2001 |
+| 总部/地址 | Seongnam (Pangyo), Korea |
+| 人数 | 11–50 |
+| 其他 | 自有品牌 GT-Wave：智能 PoE（通信故障自恢复）、工业 PoE iG 系列、PoE 注入器/延长器、户外 AP（KCMVP/CC 联动可军用）、无线桥接、无人机图传；2025 SEC 展会目录；用户表「海思的」 |
+
+- **业务线**：工业 PoE 交换机 iG4P/iG8P 系列（Web 管理、ERPS/EAPS、温湿度监测、-40~80℃）；商用 PoE GT8P-2G-HA、DNS8-2SM；PoE 注入/延长器（GAW-i90G 90W、GT2P-EX2）；户外/工业 AP、无线桥接 GT-Wave860S
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| GT-Wave | iG8P-2SMB / iG8P-4SMB | Web 管理 8 GE PoE + 2/4 SFP，智能 PoE，ERPS/EAPS，DC48–52V | STI-288DGGPM | https://oemfile.informamarkets-info.com/FileUpload/2025SEC_39523/20250116080429651.pdf（2025-01-16） |
+| GT-Wave | iG8P-2SB / iG8P-8GE / iG8P-8FE | 非管理 8 PoE（+2 SFP）自恢复 | STI-288DGGPM | https://oemfile.informamarkets-info.com/FileUpload/2025SEC_39523/20250116080429651.pdf（2025-01-16） |
+| GT-Wave | iG4P-2SMB | 6 口（4 PoE，3/4 口 90W bt）+ 2 SFP，环网，-40~80℃ | STI-144GP（bt 需核） | https://oemfile.informamarkets-info.com/FileUpload/2025SEC_39523/20250116080429651.pdf（2025-01-16） |
+| GT-Wave | GT8P-2G-HA | 商用 8 PoE + 2 GE（EC21） | STC-28DGGPM | https://www.ec21.com/product-details/PoE-Network-Switch-8Port-PoE--11968346.html（2026-10-21） |
+| GT-Wave | GAW-i90G | 90W bt 注入器（2026 英文单页） | — | https://camerasamsung.com/uploads/tiny_uploads/GAW-i90G_Eng2026_1.pdf（2026） |
+
+- **触达通道（公开）**：网站: https://www.gtwave.co.kr/；直邮: master@gtwave.co.kr（用户表）；展会: SEC 2025（informamarkets 目录）；出口: EC21 店；越南 Trường Sơn（SA-048）为其分销（Non-China/NDAA 卖点）
+- **近况信号**：
+  - 2025 展会目录 + 2026 英文单页——出口活跃；越南分销 SA-048 主打「Non-China」——注意 GTWave 对外可能标榜韩国制造
+  - 用户表：自己的 logo，工业 FS/PoE，海思方案
+- **风险/边界**：军用 AP/KCMVP 相关守界；Saga 只供商用/工业 PoE；其「Non-China」出口卖点与中国 ODM 来源存在张力——OEM 条款需明确中性包装（Saga 本就中性）
+- **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——iG8P-2SMB（8 GE PoE + 2 SFP 管理，ERPS）= STI-288DGGPM；GT8P-2G-HA 商用位 = STC-28DGGPM；OEM 30% 档
+- **邮件切入句（英文）**：Your iG8P-2SMB spec sheet, 8 gigabit PoE ports plus 2 SFP with ERPS ring and dual DC, maps one-to-one onto the Marvell-based industrial unit we build, so I am quoting it in neutral GT-Wave-ready packing with the 8-port commercial GT8P class model as a second line.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -113,7 +143,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商（OEM/ODM 需求）） |
+| **P1** | STI-288DGGPM | 深挖对位：iG8P-2SMB（8 GE PoE + 2 SFP 管理，ERPS）= STI-288DGGPM；GT8P-2G-HA 商用位 = STC-28DGGPM；OEM 30% 档 | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商（OEM/ODM 需求）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -166,9 +196,9 @@ updated: 2026-10-21
 ```text
 Hi Moonsoo,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Your iG8P-2SMB spec sheet, 8 gigabit PoE ports plus 2 SFP with ERPS ring and dual DC, maps one-to-one onto the Marvell-based industrial unit we build, so I am quoting it in neutral GT-Wave-ready packing with the 8-port commercial GT8P class model as a second line.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your GT-Wave iG8P-2SMB / iG8P-4SMB at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

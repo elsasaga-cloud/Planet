@@ -34,5 +34,45 @@
   }
  ],
  "notes": "A 确认（已回复 + 自有 logo + 工业线全品类分销）；P1 = STI-288DGGPM（工业 8 PoE 网管）+ STI-110GE（MC），20% 分销档，贴牌 30%。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1（沿用首轮调研）"
+ },
+ "company_facts": {
+  "legal_name": "ENTA SOURCE Co., Ltd.（เอ็นต้าซอร์ส）",
+  "hq": "Bangkok, Thailand",
+  "other": "网络与光纤设备进口分销：工业交换机（DIN/机架）、工业 PoE、兼容 SFP（3 年保）、MC、HDMI over fiber、无源件与 ODF；提供网络工程"
+ },
+ "business_lines": [
+  "工业交换机 / 工业 PoE（自有 logo）",
+  "兼容 SFP / MC / 光纤无源",
+  "网络工程服务"
+ ],
+ "products_seen": [
+  {
+   "brand": "中科德能（现来源，自有标）",
+   "model": "工业 FS / MC / 机架",
+   "spec": "自己的标",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "STI-288DGGPM / STI-110GE"
+  }
+ ],
+ "channels": {
+  "网站": "https://www.entasource.co.th/",
+  "直邮": "sale@entasource.co.th（用户表）"
+ },
+ "signals": [
+  "用户表：A 已回复；自有标 + 中科德能来源——贴牌采购流程成熟"
+ ],
+ "risks": [
+  "泰国价格敏感；现来源价格低"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 20,
+  "why": "自有标工业 PoE 线：STI-288DGGPM（8+2）与 STI-144GP（4+1）为二供；MC 位 STI-110GE；分销 20% 档"
+ },
+ "email_hook": "For your own-label industrial PoE range, the 8-port gigabit PoE + 2 SFP managed DIN switch on a Marvell core is the unit I would put next to your current source, and the gigabit SFP media converter follows in the same packing."
 }

@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：台湾无线网络设备厂商（2002 年成立，11–50 人），产品：无线路由/AP/USB 网卡/天线、PoE 模块与 PoE 交换机（APS08G、APS1602E、APS104G-EX 等）、PoE 注入器。用户表：S 重点，商业 PoE 想用自己的 logo，有人在卖他们的产品，1 次实质回复。（调研 2026-10-21；表内兴趣：商业POE 自己的logo POE配件 有人在卖他们的 自己的logo）
 - **为什么是 A 级**：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 21 次（2024-05-02 → 2025-12-29）；最近一次客户回复：2024-08-15：price   company info
-- **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：APS08G 的管理型升级位 STC-28DGGPM（8 PoE + 2 SFP）与 APS1602E 的千兆升级位 STI-21616GP；ALFA 贴牌 30% 档；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -66,8 +66,40 @@ updated: 2026-10-21
 - **【第三方（LinkedIn）】规模与定位**
   > ALFA Network Inc. designs and manufacturers high-performance wireless network equipment … Company size: 11-50 employees · Headquarters: Taipei City · Founded: 2002 · Specialties: Wireless Routers, Wireless AP, Outdoor Wireless, USB Wireless Adapters, Antennas, PoE
   > 来源：https://www.linkedin.com/company/alfanetwork（抓取 2026-10-21）
+- **【官网】APS1602E 规格**
+  > APS1602E is a high-performance 16-ports Ethernet with 2-ports Gigabit unmanaged PoE switch … 16x 10/100 Mbps Ethernet ports 2x 10/100/1000 Mbps Gigabit ports … Total PoE Power Budget · 250 W … Operating Temperature · 0 °C to 45 °C
+  > 来源：https://www.alfa.com.tw/products/aps1602e（抓取 2026-10-21）
+- **【官网】APS08G 规格**
+  > APS08G … 802.3af/at Power over Ethernet compliant, Max. 30W per port … Fanless … Fit on Desktop or Bring It to Rackmount
+  > 来源：https://www.alfa.com.tw/products/aps08g（抓取 2026-10-21）
 - 备注：A 维持（用户 S 重点 + 自有品牌 PoE 交换机 = OEM 采购方，非竞争对手）；INH「台湾厂商非客户」针对 Planet 同业，此处为 OEM 买家，特此说明。P1 = STC-21616GP 类 16 口 PoE 非网管（如价格表无则标注 SmartByte 型号），30% 档。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | ALFA Network Inc. |
+| 成立 | 2002 |
+| 总部/地址 | Taipei, Taiwan |
+| 人数 | 11–50 |
+| 其他 | 无线网络品牌，PoE 交换机线为外采：APS08G（8 GE PoE 150W）、APS1602E（16 FE PoE + 2 GE 250W，VLAN/CCTV 250 m）、APS104G-EX（bt 入 4 口 PoE 延长）、APOE08G 注入器；欧洲二级渠道（Alfa Distribution、EVX、wifi-highpower.it） |
+
+- **业务线**：无线路由/AP/USB 网卡/天线；PoE 交换机 APS 系列与 PoE 注入/延长器（外采贴牌）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| ALFA | APS08G | 8×GE PoE at 30W/150W，无风扇，桌面/机架 | STC-28DGGPM（管理型升级） | https://www.alfa.com.tw/products/aps08g（2026-10-21） |
+| ALFA | APS1602E | 16×FE PoE at + 2 GE，250W/270W PSU，VLAN/CCTV 模式 250 m，0–45℃ | STI-21616GP（千兆升级） | https://www.alfa.com.tw/products/aps1602e（2026-10-21） |
+| ALFA | APS104G-EX | 60W bt 入 → 4 口 af/at GE PoE 延长交换机 | — | https://www.alfa.com.tw/collections/all?page=17（2026-10-21） |
+| ALFA | APOE08G | 8 口无源 PoE 注入器 12–48VDC | — | https://www.alfa.com.tw/products/apoe08g（2026-10-21） |
+
+- **触达通道（公开）**：网站: https://www.alfa.com.tw/（Shopify 目录）；直邮: johnson@alfa.com.tw（用户表）；二级渠道: alfadistribution.com、evxab.com（SE）、wifi-highpower.it（IT）、instantbyte.com
+- **近况信号**：
+  - APS 线仅非管理且 16 口仍为百兆——管理型 8 口与千兆 16 口是空位（2026-10-21）
+  - 用户表：S 重点；商业 PoE，自己 logo，PoE 配件；「有人在卖他们的」
+- **风险/边界**：台系品牌商：TW 规则下上限 B，本条靠 S 重点 + 实质互动留 A；采购决策看成本，货源可能在台/大陆已有 ODM；欧洲渠道要求 CE/RoHS 文件齐全（Saga 具备）
+- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——APS08G 的管理型升级位 STC-28DGGPM（8 PoE + 2 SFP）与 APS1602E 的千兆升级位 STI-21616GP；ALFA 贴牌 30% 档
+- **邮件切入句（英文）**：Next to the APS08G, a Marvell-based managed 8-port gigabit PoE+ with 2 SFP uplinks in ALFA packing fills the managed slot your PoE line does not have yet, and the 16-port gigabit version upgrades the APS1602E footprint.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -129,7 +161,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商（台系无线网络品牌，PoE 交换机外采贴牌）） |
+| **P1** | STC-28DGGPM | 深挖对位：APS08G 的管理型升级位 STC-28DGGPM（8 PoE + 2 SFP）与 APS1602E 的千兆升级位 STI-21616GP；ALFA 贴牌 30% 档 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商（台系无线网络品牌，PoE 交换机外采贴牌）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -182,9 +214,9 @@ updated: 2026-10-21
 ```text
 Hi Johnson,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Next to the APS08G, a Marvell-based managed 8-port gigabit PoE+ with 2 SFP uplinks in ALFA packing fills the managed slot your PoE line does not have yet, and the 16-port gigabit version upgrades the APS1602E footprint.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your ALFA APS08G at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

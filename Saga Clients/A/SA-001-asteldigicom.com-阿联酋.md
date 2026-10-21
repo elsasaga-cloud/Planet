@@ -194,7 +194,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 深挖对位：其主力 AST-IMC-GB-POE-8E2U2S-PSE（8 GE PoE + 2 SFP 工业）与 STI-288DGGPM 同位，自有品牌贴牌 30% 档；千兆 MC 对位 STI-110GE；10G L3 工业机需 SmartByte 另核 | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（分销商/网店（线缆·网络·太阳能）） |
+| **P1** | STI-288DGGPM | 深挖对位：其主力 AST-IMC-GB-POE-8E2U2S-PSE（8 GE PoE + 2 SFP 工业）与 STI-288DGGPM 同位，自有品牌贴牌 30% 档；千兆 MC 对位 STI-110GE；10G L3 工业机需 SmartByte 另核 | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（分销商/网店（线缆·网络·太阳能）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 

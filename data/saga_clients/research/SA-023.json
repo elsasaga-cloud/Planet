@@ -30,6 +30,20 @@
    "quote": "Network Switches - Chassis Based Core Switch - Enterprise Grade Switch - Layer 3+ Switch",
    "url": "https://impulsecctv.com/category/technology2/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "IGS 工业系列功能与型号列表",
+   "quote": "4 Port / 8 Ports Gigabit PoE Ports - IEEE 802.3af and 802.3at compliant Dual DC power input - Rapid Ring (R-Ring) … G.8032 ERPS … Datasheets pdf IMP-IGS-1G06CG pdf IMP-IGS-1G06CP pdf IMP-IGS-1G10CG pdf IMP-IGS-1G10CP pdf IMP-EGS-1G24P02F pdf IMP-EGS-1G48P04X pdf IMP-EGS-1G24P04X pdf IMP-EGS-1G08P02F",
+   "url": "https://impulsecctv.com/industrial-network-switches/",
+   "date": "2022-10-27"
+  },
+  {
+   "kind": "官网博客",
+   "claim": "2026-01 推荐机型 IMP-IGS-1G06CG / 1G10CP",
+   "quote": "Impulse IGS Series: … 4-10 Gigabit PoE ports with IEEE 802.3af/at compliance - Dual DC power input … Operating temperature: -40°C to 75°C … Impulse 6-Port Gigabit PoE Switch (IMP-IGS-1G06CG) … Impulse 10-Port Gigabit PoE Switch (IMP-IGS-1G10CP)",
+   "url": "https://impulsecctv.com/blog/choosing-the-right-poe-switch-for-scalable-networks/",
+   "date": "2026-01-30"
   }
  ],
  "kp": [
@@ -42,5 +56,80 @@
   }
  ],
  "notes": "A 确认：安防品牌自有 PoE 交换机线 + 2026 年主动回复 + 明确要贴 logo；P1 = STI-288DGGPM（工业 PoE，对位其在用 ONV 工业 FS），30% OEM 档；注意其印度产线可能要求 SKD/CKD，先问整机。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1"
+ },
+ "company_facts": {
+  "legal_name": "Impulse Networks / Impulse CCTV",
+  "hq": "Singapore（81 Ubi Ave 4）；北美 Vancouver；印度生产（BIS）",
+  "staff": "51–200",
+  "other": "自有品牌 IMP- 系列：IGS 工业 PoE（IMP-IGS-1G06CG/CP、1G10CG/CP、1G12CG）、EGS 企业 PoE（1G08P02F、1G24P02F/04X、1G48P04X）、XGS 10G 核心（2404XCP、480204XCP）、SWT-0049 系列 24/48×10G + 40/100G；ONV 来源（用户表）"
+ },
+ "business_lines": [
+  "网络摄像机 / NVR / VMS",
+  "工业 PoE 交换机 IGS（ERPS/R-Ring/PTP/OAM）",
+  "企业 PoE 与 10G/100G 核心交换机"
+ ],
+ "products_seen": [
+  {
+   "brand": "Impulse",
+   "model": "IMP-IGS-1G06CG / 1G06CP",
+   "spec": "工业 4 GE PoE + 2 SFP，双 DC，R-Ring/ERPS，-40~75℃",
+   "url": "https://impulsecctv.com/industrial-network-switches/",
+   "date": "2022-10-27",
+   "saga": "STI-144GP"
+  },
+  {
+   "brand": "Impulse",
+   "model": "IMP-IGS-1G10CG / 1G10CP",
+   "spec": "工业 8 GE PoE + 2 SFP",
+   "url": "https://impulsecctv.com/blog/choosing-the-right-poe-switch-for-scalable-networks/",
+   "date": "2026-01-30",
+   "saga": "STI-288DGGPM"
+  },
+  {
+   "brand": "Impulse",
+   "model": "IMP-IGS-1G12CG",
+   "spec": "工业 L2+ 10G 上联 PoE，iDMS，DHCP server",
+   "url": "https://impulsecctv.com/switching-supply-for-sundergarh-college-and-hospital",
+   "date": "2021-10-13",
+   "saga": "—（工业 10G 需核）"
+  },
+  {
+   "brand": "Impulse",
+   "model": "IMP-EGS-1G08P02F / 1G24P02F / 1G24P04X / 1G48P04X",
+   "spec": "企业 PoE 8/24/48 口（2 SFP 或 4×10G）",
+   "url": "https://impulsecctv.com/industrial-network-switches/",
+   "date": "2022-10-27",
+   "saga": "STC-28DGGPM / STC-424DGGPM-280W / STC-424XGGPM-280W / STC-448XGGM(L3)"
+  },
+  {
+   "brand": "Impulse",
+   "model": "IMP-XGS-2404XCP / 480204XCP；IMP-SWT-0049 系列",
+   "spec": "L3 10G 核心、24/48×10G + 40/100G",
+   "url": "https://impulsecctv.com/product/imp-swt-0049-series/",
+   "date": "2026-10-21",
+   "saga": "—（核心层不在 Saga 型谱）"
+  }
+ ],
+ "channels": {
+  "网站": "https://impulsecctv.com/",
+  "直邮": "info@impulsecctv.com（用户表）"
+ },
+ "signals": [
+  "2026-01 博客仍主推 IGS 1G06CG/1G10CP——工业 PoE 为活跃走量线（2026-10-21）",
+  "用户表：ONV 工业 FS，他们的 logo——已有成熟 ODM"
+ ],
+ "risks": [
+  "印度「Make in India」BIS 路线：可能转向本地组装（SKD/CKD）而非整机进口",
+  "ONV 关系稳固；切入点为 Marvell 平台二供"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 30,
+  "why": "IMP-IGS-1G10CP（8 GE PoE + 2 SFP 工业）= STI-288DGGPM；1G06CP = STI-144GP；EGS 24/48 = STC-424DGGPM-280W / STC-448XGGM(L3)；OEM 30% 档"
+ },
+ "email_hook": "Your IMP-IGS-1G10CP and IMP-IGS-1G06CG are the exact 8+2 and 4+2 industrial PoE footprints we build on a Marvell core with ERPS ring, so I am quoting both in Impulse packing as a second source next to your current line."
 }

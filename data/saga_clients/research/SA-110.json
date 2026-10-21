@@ -34,5 +34,44 @@
  "grade_override": null,
  "override_reason": "",
  "notes": "18 次回复 = 全库最活跃联系人之一，但业务模式是按标书逐单采购（品类随标书变化，非持续同品类）。价值在于'每次标书涉及交换机时第一时间报价'。俄罗斯收款路径需核。P1 随标书；默认 STC-424DGGPM-280W，分销/投标价阶 20%。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1（沿用首轮调研）"
+ },
+ "company_facts": {
+  "legal_name": "ООО «ОПТА»（optat.ru）",
+  "hq": "Moscow, Russia",
+  "other": "电子招投标集中供货公司（ОКВЭД 51.53 批发）；执行总裁为 KP；20 次跟进 18 次回复"
+ },
+ "business_lines": [
+  "电子平台招投标供货（非食品类集中采购）"
+ ],
+ "products_seen": [
+  {
+   "brand": "（招标项目）",
+   "model": "按标书品类（交换机/MC 等）",
+   "spec": "按单询价",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "按标书对位"
+  }
+ ],
+ "channels": {
+  "网站": "https://optat.ru/",
+  "直邮": "info@optat.ru（用户表）"
+ },
+ "signals": [
+  "18/20 回复率——极高互动；执行总裁直接对接"
+ ],
+ "risks": [
+  "招投标供货多为公共采购——守界：不介入俄罗斯公共/军方标；只供商业标",
+  "俄罗斯结算"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "按标书对位，常见接入层：STC-28DGGPM / STC-424DGGPM-280W / STI-288DGGPM；贸易 20% 档；公共/军方标不供"
+ },
+ "email_hook": "For tender lots that call for access-layer PoE switches or media converters, send me the line items and I will return EXW prices on the Marvell-based 8- and 24-port PoE+ managed units within one working day."
 }

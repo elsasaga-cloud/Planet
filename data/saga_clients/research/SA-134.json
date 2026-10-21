@@ -36,5 +36,53 @@
  "grade_override": null,
  "override_reason": "",
  "notes": "5 次回复 + WA + 老合作关系线索；品类从视频光端机向 IP/PoE 迁移是其天然需求。俄罗斯收款路径需核。P1：STI-110GE 介质转换器 + STC-28DGGPM 商用 PoE（分销 20%）。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1（沿用首轮调研）"
+ },
+ "company_facts": {
+  "legal_name": "BPTEHNO（bptehno.ru）",
+  "hq": "Moscow, Russia",
+  "other": "光纤传输系统分销（俄罗斯及独联体），含杭州华泰视频光端机目录；用户记录「可能是公司之前的合作商」"
+ },
+ "business_lines": [
+  "光纤传输 / 视频光端机 分销",
+  "方案设计与到门交付"
+ ],
+ "products_seen": [
+  {
+   "brand": "Huatai（杭州华泰）",
+   "model": "视频光端机目录",
+   "spec": "—",
+   "url": "https://bptehno.ru/",
+   "date": "2026-10（首轮调研）",
+   "saga": "—（VC 不供）"
+  },
+  {
+   "brand": "（配套）",
+   "model": "MC / 工业 FS",
+   "spec": "22 次跟进 5 次回复",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "STI-110GE / STI-288DGGPM"
+  }
+ ],
+ "channels": {
+  "网站": "https://bptehno.ru/",
+  "直邮": "info@bptehno.ru（用户表）",
+  "WhatsApp": "在线（用户表）"
+ },
+ "signals": [
+  "可能是旧合作商——先核对历史订单（Gmail s./a. 导出后）"
+ ],
+ "risks": [
+  "俄罗斯结算；主业 VC 不在 Saga 型谱"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 20,
+  "why": "光传输分销的配套品：STI-110GE（MC）+ STI-288DGGPM（工业 FS）；分销 20% 档"
+ },
+ "email_hook": "Alongside the optical transmission lines you distribute, the gigabit SFP media converter and the 8-port industrial PoE + 2 SFP managed switch are the two EXW prices I am sending for your catalogue."
 }

@@ -22,6 +22,27 @@
    "quote": "+91 95379 10555 · info@aeconnect.co.in · F/9-10 Balaji Centre, Drive-In Road, Memnagar, Ahmedabad - 380 052",
    "url": "https://aeconnect.co.in/shop/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "AE-PS8082SFT-M 规格",
+   "quote": "8 Port Managed PoE Switch offers 8 Gigabit PoE+ ports, 2 SFP slots, 150 W power, advanced L2 control (IP-MAC-Port binding, ACL), QoS & VLAN … Backplane Bandwidth · 20Gbps … MAC address · 8k",
+   "url": "https://aeconnect.co.in/8-port-gigabit-l2-managed-poe-switch-ae-ps8082sft-m/",
+   "date": "2026-05-29"
+  },
+  {
+   "kind": "官网",
+   "claim": "管理型 PoE 产品线（含 2.5G bt L3、24 口 L3）",
+   "quote": "AE-PS8082SFT-M 8 Port Gigabit L2 Managed PoE+ Switch … AE250-PS1084SFTM-L3 8 Port 2.5G L3 Managed BT PoE Switch … AE-PS242SFT-M 24 Port Gigabit L2 Managed PoE+ Switch … AE600-24GP4TF-L3 24 Port Gigabit L3 Managed PoE+ Switch",
+   "url": "https://aeconnect.co.in/poe-solutions/managed-poe-switches/",
+   "date": "2026-06-09"
+  },
+  {
+   "kind": "官网",
+   "claim": "工业 AE700-IPS8GE4GF-M 规格",
+   "quote": "AE700-IPS8GE4GF-M is a 12-port Industrial Gigabit Managed Layer 2 PoE+ Switch, featuring 8×10/100/1000Mbps PoE+ ports and 4x1000Mbps SFP slots … Input voltage (DC): 48-56V - Working temperature: -40°C ~ +75°C - Shell: IP40",
+   "url": "https://aeconnect.co.in/8-port-industrial-gigabit-l2-managed-poe-switch-ae700-ips8ge4gf-m/",
+   "date": "2025-09-01"
   }
  ],
  "kp": [
@@ -34,5 +55,83 @@
   }
  ],
  "notes": "A 维持（3 次实质回复 + 自有品牌 + 200+ 经销商），风险是其「印度自产」方向可能转向 SKD/PCBA 采购；P1 = STC-28DGGPM / STC-424DGGPM-280W 贴牌，30% OEM 档；MC = STI-110GE。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1"
+ },
+ "company_facts": {
+  "legal_name": "AE Connect India Pvt. Ltd.（CIN U31200GJ2022PTC132573）",
+  "founded": "2005 起（公司 2022 注册）",
+  "hq": "Ahmedabad, Gujarat, India",
+  "staff": "11–50",
+  "revenue": "约 $8.1M",
+  "other": "自有品牌 PoE 全线（非管理/管理/工业/2.5G bt L3）、光纤、Cat6/6A 布线、机柜、工具；「Engineered in India」；2025–2026 产品页持续更新"
+ },
+ "business_lines": [
+  "非管理 PoE（AE-PS8082GU 8 GE PoE+2 GE 120W、AE-PSE8002GU、AEIN-PS24FE2GC 24 FE 250W、AE16PSN2GC）",
+  "管理 PoE（AE-PS8082SFT-M 8 GE PoE+2 SFP 150W L2、AE-PS242SFT-M 24 PoE+4 combo、AE600-24GP4TF-L3、AE250-PS1084SFTM-L3 8×2.5G bt L3）",
+  "工业 PoE（AE700-IPS8GE4GF-M 8 GE PoE + 4 SFP，-40~75℃）"
+ ],
+ "products_seen": [
+  {
+   "brand": "AE Connect",
+   "model": "AE-PS8082SFT-M",
+   "spec": "8×GE PoE+ + 2 SFP，150W，L2（ACL/IP-MAC 绑定/QoS/VLAN），20Gbps",
+   "url": "https://aeconnect.co.in/8-port-gigabit-l2-managed-poe-switch-ae-ps8082sft-m/",
+   "date": "2026-05-29",
+   "saga": "STC-28DGGPM"
+  },
+  {
+   "brand": "AE Connect",
+   "model": "AE-PS242SFT-M",
+   "spec": "24×GE PoE+ + 4 combo，56Gbps，L2 管理",
+   "url": "https://aeconnect.co.in/datasheet/PoE-Solution/Managed-PoE-Switches/AE-PS242SFT-M.pdf",
+   "date": "2026-10-21",
+   "saga": "STC-424DGGPM-280W"
+  },
+  {
+   "brand": "AE Connect",
+   "model": "AE600-24GP4TF-L3 / AE250-PS1084SFTM-L3",
+   "spec": "24 PoE L3 / 8×2.5G bt L3",
+   "url": "https://aeconnect.co.in/poe-solutions/managed-poe-switches/",
+   "date": "2026-06-09",
+   "saga": "STC-424XGGPM-280W（2.5G/10G 需核）"
+  },
+  {
+   "brand": "AE Connect",
+   "model": "AE700-IPS8GE4GF-M",
+   "spec": "工业 8 GE PoE+ + 4 SFP L2，48–56VDC，-40~75℃，IP40",
+   "url": "https://aeconnect.co.in/8-port-industrial-gigabit-l2-managed-poe-switch-ae700-ips8ge4gf-m/",
+   "date": "2025-09-01",
+   "saga": "STI-288DGGPM（2 SFP 版）"
+  },
+  {
+   "brand": "AE Connect",
+   "model": "AE-PS8082GU / AE-PSE8002GU / AEIN-PS24FE2GC",
+   "spec": "非管理 8 GE PoE+2 GE 120W / 8 FE PoE+2 GE 120W / 24 FE PoE+2 GE/SFP 250W，6kV 防雷",
+   "url": "https://aeconnect.co.in/24-port-fast-ethernet-unmanaged-poe-switch-aein-ps24fe2gc/",
+   "date": "2025-09-06",
+   "saga": "STC-28DGGPM / STC-424DGGPM-280W（千兆升级）"
+  }
+ ],
+ "channels": {
+  "网站": "https://aeconnect.co.in/（含 datasheet PDF 库）",
+  "直邮": "info@aeconnect.co.in（用户表）",
+  "B2B": "IndiaMART（imimg 目录）"
+ },
+ "signals": [
+  "2025-09～2026-06 连续上新管理型/工业/2.5G bt L3 机型——产品线快速扩张，进口贴牌 + 本地组装（2026-10-21）",
+  "用户表：PoE/FS/MC/SFP，自己的 logo"
+ ],
+ "risks": [
+  "印度 BIS（CRS）认证——交换机类是否强制需客户确认；本地组装趋势（SKD）",
+  "价格极敏感"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "AE-PS8082SFT-M（8 GE PoE + 2 SFP L2）= STC-28DGGPM；AE-PS242SFT-M = STC-424DGGPM-280W；AE700-IPS8GE4GF-M ≈ STI-288DGGPM；OEM 30% 档"
+ },
+ "email_hook": "Your AE-PS8082SFT-M and AE-PS242SFT-M are the two footprints where a Marvell-based second source in AE Connect packing drops in without datasheet changes, so I am quoting both EXW with the industrial 8-port PoE + SFP model as the third line."
 }

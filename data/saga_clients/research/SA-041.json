@@ -32,5 +32,46 @@
   }
  ],
  "notes": "A 维持（主动询盘 + 已回复 + 中东集成商），首单仅 2 台，走项目复购逻辑；P1 = STI-144GP（1 光 4 电工业千兆，若价格表无则按 SmartByte 型号标注），25% 集成商档，MOQ 1 可直接成交。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1（沿用首轮调研 + 询盘）"
+ },
+ "company_facts": {
+  "legal_name": "Al Salami Trading L.L.C.（AST）",
+  "founded": "1989",
+  "hq": "Dubai, UAE",
+  "staff": "11–50",
+  "other": "Al Salami 集团成员；报警/监控/音视频安防系统设计、集成、安装、维护"
+ },
+ "business_lines": [
+  "电子安防集成（报警、CCTV、AV）",
+  "安装与维护"
+ ],
+ "products_seen": [
+  {
+   "brand": "（项目询盘）",
+   "model": "工业千兆 1 光 4 电 ×2",
+   "spec": "官网询盘 2 台",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "STI-144GP"
+  }
+ ],
+ "channels": {
+  "网站": "https://www.alsalami.com/",
+  "直邮": "reyann@alsalami.com（用户表）"
+ },
+ "signals": [
+  "用户表：A 已回复 + 询盘流水，具体数量 2 台（小样单→项目）"
+ ],
+ "risks": [
+  "小批量样单；UAE 项目付款与清关由客户处理"
+ ],
+ "saga_fit": {
+  "p1": "STI-144GP",
+  "tier": 25,
+  "why": "询盘即 1 光 4 电工业千兆 → STI-144GP；集成商 25% 档；2 台可当样机走 PayPal"
+ },
+ "email_hook": "For the two industrial gigabit 1-fibre 4-copper units you asked about, the 4-port PoE + 1 SFP DIN switch is in stock for a 10–15 day dispatch, and I can ship the pair as samples by courier on PayPal terms."
 }

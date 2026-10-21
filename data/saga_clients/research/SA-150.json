@@ -29,6 +29,20 @@
    "quote": "Model No.: VES 1016WHD/ VES 1016HD/ VES 1016SHD… High Definition Vandalproof IR Dome Camera",
    "url": "https://vicomsecurity.com/cctv-ip-surveillance/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "VICOM 工业 PoE 交换机型号目录",
+   "quote": "24 Port Industrial POE Managed Switch 24GP4GC-L2M（IES7521-24PGE4GC-AC) … 16 Port Industrial POE Managed Switch 16PGE-4TF-L3M（IES7521-16PGE4TF-AC) … 16PGE2GF-L2（IES7511-16PGE2GF-DC） … 8 Port Industrial POE Managed Switch 8GP2GF-L2®VIES7511-8PGE2GF-DC … 8GP2G4GF-L2-VIES7511-8PGE2GE4GF-DC",
+   "url": "https://www.vicomsecurity.com/product_categories/network-switch/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "注册",
+   "claim": "公司注册信息",
+   "quote": "VICOM SECURITY PRIVATE LIMITED (CIN: U51109WB1995PTC070096) is a Private company incorporated on 28 Mar 1995 … Registered address … 8, JUSTICE K.M. YUSUF SARANI 2ND FLOOR, BECK BAGAN ROW, KOLKATA … 700017",
+   "url": "https://www.zaubacorp.com/VICOM-SECURITY-PRIVATE-LIMITED-U51109WB1995PTC070096",
+   "date": "2024-05-18"
   }
  ],
  "kp": [
@@ -43,5 +57,83 @@
  "grade_override": null,
  "override_reason": "",
  "notes": "已开视频会 + 自有品牌 + 明确机型需求 = 可做 OEM（VICOM 贴牌）。印度非主攻区但项目体量可观。P1：4 光 24 电管理 PoE → STC-424DGGPM-280W（4 SFP 版本核对）；4 光 4 PoE 管理 → STI 工业 4 电 4 光机型（核价）；OEM 价阶 30%。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1"
+ },
+ "company_facts": {
+  "legal_name": "Vicom Security Private Limited（CIN U51109WB1995PTC070096）",
+  "founded": "1995-03-28",
+  "hq": "8 Justice K.M. Yusuf Sarani (Beck Bagan Row), 2nd Floor, Kolkata 700017, India（+91 9830078655 / +91 33 2287 2290）",
+  "staff": "约 47–120（RocketReach 47；LinkedIn 51–200）",
+  "revenue": "₹27.1 Cr（FY2024，≈$3.3M）/ RocketReach $22.5M（口径差异大）",
+  "other": "IP 视频监控/消防/楼宇管理/OFC 网络交钥匙项目公司，30,000+ 项目；自有 VICOM 品牌摄像机与工业 PoE 交换机目录（VIES 系列）"
+ },
+ "business_lines": [
+  "IP 视频监控交钥匙项目（VICOM 摄像机 VTD 系列）",
+  "自有品牌工业 PoE 交换机（Industrial Managed / Unmanaged PoE 类目）",
+  "消防 / IBMS / 自动化 / 对讲"
+ ],
+ "products_seen": [
+  {
+   "brand": "VICOM",
+   "model": "8GP2GF-L2（VIES7511-8PGE2GF-DC）",
+   "spec": "8 GE PoE + 2 SFP 工业管理 DC",
+   "url": "https://www.vicomsecurity.com/product_categories/network-switch/",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM"
+  },
+  {
+   "brand": "VICOM",
+   "model": "8GP2G4GF-L2（VIES7511-8PGE2GE4GF-DC）",
+   "spec": "8 GE PoE + 2 GE + 4 SFP 工业管理",
+   "url": "https://www.vicomsecurity.com/product_categories/network-switch/",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM（口型差异）"
+  },
+  {
+   "brand": "VICOM",
+   "model": "16PGE2GF-L2（IES7511-16PGE2GF-DC）/ 16PGE-4TF-L3M（IES7521-16PGE4TF-AC）",
+   "spec": "16 PoE 工业管理 L2/L3",
+   "url": "https://www.vicomsecurity.com/product_categories/network-switch/",
+   "date": "2026-10-21",
+   "saga": "STI-21616GP"
+  },
+  {
+   "brand": "VICOM",
+   "model": "24GP4GC-L2M（IES7521-24PGE4GC-AC）",
+   "spec": "24 PoE + 4 combo 工业管理 AC",
+   "url": "https://www.vicomsecurity.com/product_categories/network-switch/",
+   "date": "2026-10-21",
+   "saga": "STC-424DGGPM-280W"
+  },
+  {
+   "brand": "VICOM",
+   "model": "VTD-9442E3B-A / VTD-8583IE3N",
+   "spec": "4MP IP67 PoE 摄像机 / 8MP PTZ bt 60W",
+   "url": "https://www.vicomsecurity.com/wp-content/uploads/2024/07/VTD-9442E3B-A.pdf",
+   "date": "2024-07",
+   "saga": "—"
+  }
+ ],
+ "channels": {
+  "网站": "https://www.vicomsecurity.com/（产品类目 + PDF）",
+  "直邮": "info@vicomsecurity.com（用户表）；accounts@vicomsecurity.com（注册公开）",
+  "LinkedIn": "https://in.linkedin.com/company/vicom-security-pvt-ltd",
+  "视频会": "已开（用户表）"
+ },
+ "signals": [
+  "自有品牌工业 PoE 交换机目录（VIES/IES 型号 = 典型中国 ODM 命名）——已在贴牌采购，Saga 可直接二供（2026-10-21）",
+  "用户表：4 光 4 PoE 管理 / 4 光 24 电——与目录机型对应；已开视频会"
+ ],
+ "risks": [
+  "印度 BIS 与本地组装趋势；价格敏感；ODM 现供应商在位"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 30,
+  "why": "VIES7511-8PGE2GF-DC（8 GE PoE + 2 SFP 工业管理）= STI-288DGGPM；16 口位 STI-21616GP；24+4 位 STC-424DGGPM-280W；VICOM 贴牌 30% 档"
+ },
+ "email_hook": "Your VIES7511-8PGE2GF-DC and the 24GP4GC-L2M are the two footprints we build on a Marvell core, so I am quoting both in VICOM packing as a second source, with the 16-port PoE model following the same datasheet layout."
 }

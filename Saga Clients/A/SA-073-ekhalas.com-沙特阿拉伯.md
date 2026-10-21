@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：沙特利雅得电信承包商（2005 年起）+ ICT 系统集成（2015 年起）+ 自营 B2B 电商 ekhalas.com；自称全沙特 3,000+ 客户，并有自有品牌进入零售；平台卖 Vivotek PoE 交换机、TP-Link Omada、华为 eKit、Dahua 等。（调研 2026-10-21；表内兴趣：工业FS 用的OTS的）
 - **为什么是 A 级**：+22 实质回复 1 次；+10 谈到样品/测样；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 17 次（2024-06-05 → 2025-10-23）；最近一次客户回复：2024-10-22：想测样
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：工业位替代 OTS：STI-288DGGPM；电商自有品牌商用位：STC-28DGGPM/STC-424DGGPM-280W；分销 20% 档；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -85,6 +85,28 @@ updated: 2026-10-21
 - **KP**：Inam（（用户记录联系人））info@ekhalas.com +966 11 4221089〔用户 Clients 表 + 官网联系页〕
 - 备注：有 1 次实质回复；工业 FS 在用 OTS（用户记录）。集成+电商双身份、且做自有品牌 → 可谈 OEM 贴牌或平台铺货。中东非主攻区但客户规模与贴牌意愿值得长期跟。P1 建议 STI-288DGGPM（工业 PoE 对位 OTS），电商/分销价阶 20%；若走自有品牌 30%。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Al Rajhi Telecom Company / Silkroad Business Solutions（ekhalas.com） |
+| 成立 | 2005（电信承包）/ 2015（ICT 集成） |
+| 总部/地址 | Riyadh, Saudi Arabia |
+| 其他 | B2B 电商 ekhalas.com：Vivotek PoE、TP-Link Omada、Huawei eKit、Dahua；自称 3,000+ 客户；有自有品牌进入零售；用户表：工业 FS 用 OTS 的 |
+
+- **业务线**：电信承包 / ICT 集成；B2B 电商分销（多品牌）；自有品牌零售
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Vivotek / TP-Link Omada / Huawei eKit（在售） | 商用 PoE 交换机 | 电商平台 | STC-424DGGPM-280W | https://ekhalas.com/（2026-10（首轮调研）） |
+| OTS（现工业来源） | 工业 FS | 用户表 | STI-288DGGPM | （本地 Clients/ 表格，无公开 URL）（用户表） |
+
+- **触达通道（公开）**：网站: https://ekhalas.com/；直邮: info@ekhalas.com（用户表）
+- **近况信号**：
+  - 有自有品牌 + 电商 + 3,000 客户——白牌切入渠道现成
+- **风险/边界**：沙特 SASO/SABER 认证由进口方办理；电商价带低
+- **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——工业位替代 OTS：STI-288DGGPM；电商自有品牌商用位：STC-28DGGPM/STC-424DGGPM-280W；分销 20% 档
+- **邮件切入句（英文）**：For the industrial PoE slot you currently fill with OTS units, the Marvell-based 8-port gigabit PoE + 2 SFP managed DIN switch is the one I am quoting EXW, and the 8/24-port commercial PoE models are ready for your own-brand listing on ekhalas.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -145,7 +167,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（系统集成商+电商分销） |
+| **P1** | STI-288DGGPM | 深挖对位：工业位替代 OTS：STI-288DGGPM；电商自有品牌商用位：STC-28DGGPM/STC-424DGGPM-280W；分销 20% 档 | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（系统集成商+电商分销） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -198,9 +220,9 @@ updated: 2026-10-21
 ```text
 Hi Inam,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. For the industrial PoE slot you currently fill with OTS units, the Marvell-based 8-port gigabit PoE + 2 SFP managed DIN switch is the one I am quoting EXW, and the 8/24-port commercial PoE models are ready for your own-brand listing on ekhalas.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your OTS（现工业来源） 工业 FS at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

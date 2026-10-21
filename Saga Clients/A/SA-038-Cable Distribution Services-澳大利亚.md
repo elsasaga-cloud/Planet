@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：西澳珀斯的电缆与电缆附件库存分销商（1999 年成立，11–50 人，营收口径 $4.7M–$39M），服务矿业、油气、通信、泵送排水等行业，有光纤与数据线缆类目。用户表：2 次实质回复，WhatsApp 已加，兴趣 1 光 4 电工业 PoE，比较过中科德能和 Ewind，问了价格。（调研 2026-10-21；表内兴趣：1光4电POE工业级 看了中科德能和Ewind的 有意向，问了价格 2015年使用国际站）
 - **为什么是 A 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/澳大利亚；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 21 次（2024-04-29 → 2025-10-29）；最近一次客户回复：2024-11-19：1121email发了8电口
-- **P1（下一步唯一主推）**：STI-144GP — 工业 4 PoE + 1 SFP 小壳；$34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-144GP — 深挖对位：明确需求 1 光 4 电工业 PoE → STI-144GP（EXW $35.5 @25%，分销 20% 档更低）；比价对象为同行低价品，用 Marvell 平台 + 一致性说话；$34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -79,6 +79,29 @@ updated: 2026-10-21
 - **KP**：Ross W.（创始人（官网「About」））sales@cabledistribution.com.au +61 8 9375 6522〔https://cabledistribution.com.au/about/〕
 - 备注：A 确认（2 次实质回复 + 问价 + 工业分销渠道）；澳洲不在重点区但互动真实；P1 = STI-144GP（1 光 4 电工业 PoE，若价格表无则标 SmartByte 型号），20% 分销档，强调矿业宽温。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研 + 用户表））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Cable Distribution Services（CDS） |
+| 成立 | 1999 |
+| 总部/地址 | Malaga/Perth, Western Australia |
+| 人数 | 11–50 |
+| 营收 | $4.7M–$39M（口径） |
+| 其他 | 矿业/油气/通信电缆与附件库存分销商；光纤与数据线缆类目；拓展工业交换机 |
+
+- **业务线**：工业电缆与附件（矿业、油气、泵送）；光纤/数据线缆；（拓展）1 光 4 电工业 PoE
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| 中科德能 / Ewind（比价中） | 1 光 4 电 PoE 工业交换机 | 有意向，问了价格 | STI-144GP | （本地 Clients/ 表格，无公开 URL）（用户表） |
+
+- **触达通道（公开）**：网站: https://www.cabledistribution.com.au/；直邮: paul@cabledistribution.com.au（用户表）；WhatsApp: 已加（用户表）
+- **近况信号**：
+  - 用户表：2 次实质回复，明确型号与比价对象（中科德能/Ewind）——处于选型期
+- **风险/边界**：澳洲 RCM 合规（Saga 无 RCM，需说明 CE 等效或客户自认）；矿业场景可能要求更高防护
+- **Saga 对位结论**：P1 STI-144GP（20% 档）——明确需求 1 光 4 电工业 PoE → STI-144GP（EXW $35.5 @25%，分销 20% 档更低）；比价对象为同行低价品，用 Marvell 平台 + 一致性说话
+- **邮件切入句（英文）**：For the 1-fibre 4-copper industrial PoE unit you were pricing, here is the Marvell-based 4-port gigabit PoE + 1 SFP DIN switch at EXW, with the datasheet so you can line it up against the two quotes you already have.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -147,7 +170,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-144GP | 工业 4 PoE + 1 SFP 小壳 | $34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（分销商（工业线缆；拓展工业交换机）） |
+| **P1** | STI-144GP | 深挖对位：明确需求 1 光 4 电工业 PoE → STI-144GP（EXW $35.5 @25%，分销 20% 档更低）；比价对象为同行低价品，用 Marvell 平台 + 一致性说话 | $34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销商（工业线缆；拓展工业交换机）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -201,9 +224,9 @@ updated: 2026-10-21
 ```text
 Hi Ross,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. For the 1-fibre 4-copper industrial PoE unit you were pricing, here is the Marvell-based 4-port gigabit PoE + 1 SFP DIN switch at EXW, with the datasheet so you can line it up against the two quotes you already have.
 
-We supply a Marvell-based compact industrial switch, 4x Gigabit PoE+ plus 1 SFP - model STI-144GP - that fits the same slot as the Ewind class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $34.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based compact industrial switch, 4x Gigabit PoE+ plus 1 SFP - model STI-144GP - that fits the same slot as your 中科德能 / Ewind（比价中） 1 光 4 电 PoE 工业交换机 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $34.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

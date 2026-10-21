@@ -246,7 +246,7 @@ def fmt_deep(ent):
         L.append('- **风险/边界**：' + '；'.join(rs['risks']))
     sf = rs.get('saga_fit') or {}
     if sf:
-        L.append(f"- **Saga 对位结论**：P1 {sf.get('p1', '—')}（{sf.get('tier', '')}% 档）——{sf.get('why', '')}")
+        L.append(f"- **Saga 对位结论**：P1 {sf.get('p1') or '待核型（无标准对应）'}（{sf.get('tier', '')}% 档）——{sf.get('why', '')}")
     if rs.get('email_hook'):
         L.append(f"- **邮件切入句（英文）**：{rs['email_hook']}")
     return '\n'.join(L)
@@ -451,6 +451,15 @@ def email_draft(ent, g, typ, p1, tier, brands, first_q):
     if g == 'C':
         return '> C 级不出邮件样板（不主动跟进）。'
     if not p1 or p1 not in P1_EN:
+        hook = ((ent.get('research') or {}).get('email_hook') or '').strip()
+        if hook:
+            name = greeting_name(ent)
+            hi = f'Hi {name},' if name else 'Hello,'
+            body = (f"{hi}\n\nPicking up our earlier exchange about PoE / industrial switches. {hook}\n\n"
+                    "One question: is the port mix fixed by the design, or can we propose an equivalent layout?\n\n"
+                    "Best regards,\nSaga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)\nhttps://sagatele.com/")
+            return ('**主题**：Follow-up on your switch requirement (model confirmation in progress)\n\n```text\n' + body + '\n```\n\n'
+                    '> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。')
         return '> 该客户的需求（VC/光端机、SFP/DWDM 等）不在 Saga 三家供应商产品线内：不出邮件样板；若要只推交换机，用 STC-28DGGPM 版本手改。'
     desc, chip = P1_EN[p1]
     r = PRICES.get(p1)
@@ -509,7 +518,9 @@ def render_one(ent):
     tier = infer_tier(ent, typ)
     p1, p1_why = infer_p1(ent)
     sf = (ent.get('research') or {}).get('saga_fit') or {}
-    if sf.get('p1'):
+    if 'p1' in sf and sf['p1'] is None:
+        p1, p1_why = None, f"深挖对位：{sf.get('why', '')}"
+    elif sf.get('p1'):
         p1, p1_why = sf['p1'], f"深挖对位：{sf.get('why', '')}"
     if sf.get('tier') in (20, 25, 30):
         tier = sf['tier']
@@ -723,7 +734,7 @@ def render_one(ent):
         lines.append('')
         lines.append('| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |')
         lines.append('|---|---|---|---|---|')
-        lines.append(f'| **P1** | {p1 or "—"} | {p1_why} | {p1_price} | 据用户表兴趣/备注推断；档位 {tier}%（{typ}） |')
+        lines.append(f'| **P1** | {p1 or "待核型（无标准对应，向 SmartByte 核）"} | {p1_why} | {p1_price} | {"深挖对位" if p1_why.startswith("深挖对位") else "据用户表兴趣/备注推断"}；档位 {tier}%（{typ}） |')
         alts = [('STC-28DGGPM', '8 口 PoE + 2 SFP L2+ 小接入'), ('STI-288DGGPM', '工业 L2+ 8 PoE + 2×2.5G SFP'), ('STC-424XGGPM-280W', '24 PoE + 4×10G 上联')]
         n = 2
         for m, sc in alts:
@@ -802,7 +813,31 @@ def main():
             f.write(render_one(e))
         index[e['grade']].append((e, fn))
     write_readme(ents, index)
+    write_deep_overview(index)
     print({g: len(v) for g, v in index.items()})
+
+
+def write_deep_overview(index):
+    """A 级加厚挖掘总览（生成文件，不手改）：编号 / 公司 / 国家 / 深挖等级 / P1 / 档位 / 对位理由 / 文件。"""
+    rows = []
+    for e, fn in sorted(index.get('A', []), key=lambda x: x[0]['code']):
+        rs = e.get('research') or {}
+        dp = rs.get('deep') or {}
+        sf = rs.get('saga_fit') or {}
+        seen = rs.get('products_seen') or []
+        rows.append('| {code} | {name} | {c} | {lvl} | {p1} | {tier} | {n} | {why} | `{fn}` |'.format(
+            code=e['code'], name=(rs.get('name_official') or e['name'])[:40].replace('|', '/'), c=e['country'],
+            lvl=(dp.get('level') or '未加厚').replace('|', '/'), p1=sf.get('p1') or ('待核型' if 'p1' in sf else '—'),
+            tier=f"{sf.get('tier')}%" if sf.get('tier') else '—', n=len(seen),
+            why=(sf.get('why') or '')[:90].replace('|', '/'), fn=fn))
+    done = sum(1 for e, _ in index.get('A', []) if (e.get('research') or {}).get('deep'))
+    L = ['# A 级客户 · 加厚挖掘总览', '',
+         f'> 生成：{TODAY}　|　A 级 {len(index.get("A", []))} 家，已加厚 {done} 家（深挖块 = 公司事实 / 业务线 / 在卖在用型号→Saga 对位 / 公开通道 / 近况信号 / 风险 / 对位结论 / 英文切入句，均在各自 MD 的「客户调研 → 加厚挖掘」小节）。',
+         '>', '> 改 `data/saga_clients/research/<编号>.json`（经 `scripts/saga_clients/deepen.py`）后重跑 `render.py` 生成；**不手改**。', '',
+         '| 编号 | 公司 | 国家 | 深挖等级 | P1 | 档位 | 型号条数 | 对位理由（摘） | 文件 |', '|---|---|---|---|---|---|---|---|---|']
+    L += rows
+    with open(os.path.join(OUT_DIR, 'A', '_加厚总览.md'), 'w', encoding='utf-8') as f:
+        f.write('\n'.join(L) + '\n')
 
 
 def write_readme(ents, index):

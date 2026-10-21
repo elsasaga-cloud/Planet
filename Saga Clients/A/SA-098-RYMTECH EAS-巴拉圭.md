@@ -21,7 +21,7 @@ replies: 3
 followups: 18
 first_contact: 2023-12-09
 last_contact: 2025-10-06
-p1: STC-448DGGPM
+p1: none
 price_tier: 25%
 research: done
 sources: 1
@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：巴拉圭集成/工程商（World Trade Center 亚松森办公地址），WA 在线，3 次回复、18 次跟进，明确需求 2 台 12 光 12 电交换机。（调研 2026-10-21；表内兴趣：2个12光12电 '+5959857 48567 已加）
 - **为什么是 A 级**：+30 实质回复 3 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/巴拉圭；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 18 次（2023-12-09 → 2025-10-06）；最近一次客户回复：2025-01-02：问了高速的 后续没进展了
-- **P1（下一步唯一主推）**：STC-448DGGPM — 48 口 PoE 走量款；$321.4 USD EXW（25% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：— — 深挖对位：需求 12 SFP + 12 RJ45：Saga 标准型谱无对应，需向 SmartByte 核型；若改用 8 SFP 机型可替代则另报；—
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -65,6 +65,26 @@ updated: 2026-10-21
 - **KP**：（见 Clients 表联系人）（） +595 985 748 567（WA）〔用户 Clients 表〕
 - 备注：规格明确（12 光 12 电，2 台）、3 次回复、WA 在线 → 可追溯真实需求且小单可成；南美非主攻区但不需额外投入。P1：SmartByte 12 光 12 电管理型（按 docs/smartbyte/products 核对 24 口 combo 机型，报价前核价），项目价阶 25%。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | RYMTECH EAS |
+| 总部/地址 | World Trade Center, Asunción, Paraguay |
+| 其他 | 集成/工程商；WA 在线 |
+
+- **业务线**：系统集成/工程
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| （项目需求） | 12 光 12 电交换机 ×2 | 明确数量 | —（12 光 12 电需 SmartByte 核型；近似 STC-448XGGM(L3) 不匹配） | （本地 Clients/ 表格，无公开 URL）（用户表） |
+
+- **触达通道（公开）**：直邮: cirruslink1983@gmail.com（用户表，免费邮箱）；WhatsApp: +595 985 748567 已加（用户表）
+- **近况信号**：
+  - 3 次回复、需求具体（2 台 12 光 12 电）
+- **风险/边界**：12 光 12 电非标准型谱；巴拉圭物流/付款
+- **Saga 对位结论**：P1 待核型（无标准对应）（25% 档）——需求 12 SFP + 12 RJ45：Saga 标准型谱无对应，需向 SmartByte 核型；若改用 8 SFP 机型可替代则另报
+- **邮件切入句（英文）**：For the two 12-fibre 12-copper units, I am checking the exact SFP-dense model with the factory this week; if your design can accept a 24-port copper switch with 4 SFP+ uplinks plus media converters, I can quote that combination immediately.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -123,7 +143,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-448DGGPM | 48 口 PoE 走量款 | $321.4 USD EXW（25% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（系统集成/工程商） |
+| **P1** | 待核型（无标准对应，向 SmartByte 核） | 深挖对位：需求 12 SFP + 12 RJ45：Saga 标准型谱无对应，需向 SmartByte 核型；若改用 8 SFP 机型可替代则另报 | — | 深挖对位；档位 25%（系统集成/工程商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -132,9 +152,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-448DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-448DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424DGGPM-280W 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
@@ -144,7 +164,7 @@ updated: 2026-10-21
 
 - **S**：有 3 次实质回复（对方认识我们）；WhatsApp 直达
 - **W**：拉美：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-448DGGPM 按 25% 档报价，做现供应商的第二货源；规模（调研）：小型（待补证）
+- **O**：P1 — 按 25% 档报价，做现供应商的第二货源；规模（调研）：小型（待补证）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -172,25 +192,21 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-448DGGPM - 48-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Ruslan,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. For the two 12-fibre 12-copper units, I am checking the exact SFP-dense model with the factory this week; if your design can accept a 24-port copper switch with 4 SFP+ uplinks plus media converters, I can quote that combination immediately.
 
-We supply a Marvell-based 48-port Gigabit PoE+ L2+ managed switch - model STC-448DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $321.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：迪拜老牌电子安防集成商（1989 年创立，Al Salami 集团成员，11–50 人），业务为报警、监控、音视频安防系统的设计、集成、安装与维护。用户表：A 已回复 + 询盘流水，自官网询盘 2 台工业千兆 1 光 4 电。（调研 2026-10-21；表内兴趣：2个工业千兆1光4）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+12 主动询盘（阿里巴巴/自建站/转介）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 1 次（2025-06-02 → 2025-06-02）；最近一次客户回复：2025-06-02：DS
-- **P1（下一步唯一主推）**：STI-144GP — 工业 4 PoE + 1 SFP 小壳；$35.5 USD EXW（25% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-144GP — 深挖对位：询盘即 1 光 4 电工业千兆 → STI-144GP；集成商 25% 档；2 台可当样机走 PayPal；$35.5 USD EXW（25% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -68,6 +68,28 @@ updated: 2026-10-21
 - **KP**：—（总机（官网公开））alsalami@emirates.net.ae +971 4 265 0333〔https://www.alsalami.com/〕
 - 备注：A 维持（主动询盘 + 已回复 + 中东集成商），首单仅 2 台，走项目复购逻辑；P1 = STI-144GP（1 光 4 电工业千兆，若价格表无则按 SmartByte 型号标注），25% 集成商档，MOQ 1 可直接成交。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研 + 询盘））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Al Salami Trading L.L.C.（AST） |
+| 成立 | 1989 |
+| 总部/地址 | Dubai, UAE |
+| 人数 | 11–50 |
+| 其他 | Al Salami 集团成员；报警/监控/音视频安防系统设计、集成、安装、维护 |
+
+- **业务线**：电子安防集成（报警、CCTV、AV）；安装与维护
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| （项目询盘） | 工业千兆 1 光 4 电 ×2 | 官网询盘 2 台 | STI-144GP | （本地 Clients/ 表格，无公开 URL）（用户表） |
+
+- **触达通道（公开）**：网站: https://www.alsalami.com/；直邮: reyann@alsalami.com（用户表）
+- **近况信号**：
+  - 用户表：A 已回复 + 询盘流水，具体数量 2 台（小样单→项目）
+- **风险/边界**：小批量样单；UAE 项目付款与清关由客户处理
+- **Saga 对位结论**：P1 STI-144GP（25% 档）——询盘即 1 光 4 电工业千兆 → STI-144GP；集成商 25% 档；2 台可当样机走 PayPal
+- **邮件切入句（英文）**：For the two industrial gigabit 1-fibre 4-copper units you asked about, the 4-port PoE + 1 SFP DIN switch is in stock for a 10–15 day dispatch, and I can ship the pair as samples by courier on PayPal terms.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -114,7 +136,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-144GP | 工业 4 PoE + 1 SFP 小壳 | $35.5 USD EXW（25% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（安防集成商（项目型小批量）） |
+| **P1** | STI-144GP | 深挖对位：询盘即 1 光 4 电工业千兆 → STI-144GP；集成商 25% 档；2 台可当样机走 PayPal | $35.5 USD EXW（25% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（安防集成商（项目型小批量）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -168,9 +190,9 @@ updated: 2026-10-21
 ```text
 Hi Reyann,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. For the two industrial gigabit 1-fibre 4-copper units you asked about, the 4-port PoE + 1 SFP DIN switch is in stock for a 10–15 day dispatch, and I can ship the pair as samples by courier on PayPal terms.
 
-We supply a Marvell-based compact industrial switch, 4x Gigabit PoE+ plus 1 SFP - model STI-144GP - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $35.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based compact industrial switch, 4x Gigabit PoE+ plus 1 SFP - model STI-144GP - that fits the same slot as your （项目询盘） 工业千兆 1 光 4 电 ×2 at a lower landed cost, and we can ship it with neutral packaging. Current price: $35.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

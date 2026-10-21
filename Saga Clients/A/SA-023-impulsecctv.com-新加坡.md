@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：自称工业级 CCTV 与 PoE 网络交换机的全球制造商（总部新加坡 81 Ubi Ave 4，北美总部温哥华，印度生产「Make in India」BIS 认证），产品线含网络摄像机、NVR、VMS、PoE/L3/机箱式核心交换机；51–200 人口径；通过集成商/经销商网络销售。用户表：2026 年 E 已回复，兴趣 ONV 工业 FS、工业 FS 打他们的 logo。（调研 2026-10-21；表内兴趣：ONV的工业FS；工业FS 音频视听设备 ONV的工业FS  他们的logo）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+5 最近活动 2026
 - **历史互动**：实质回复 1 次；推送 5 次（2025-02-21 → 2026-01-07）；最近一次客户回复：2026-01-07：INFO
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：IMP-IGS-1G10CP（8 GE PoE + 2 SFP 工业）= STI-288DGGPM；1G06CP = STI-144GP；EGS 24/48 = STC-424DGGPM-280W / STC-448XGGM(L3)；OEM 30% 档；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -79,9 +79,41 @@ updated: 2026-10-21
 - **【官网】交换机子类含机箱核心/企业级/L3+**
   > Network Switches - Chassis Based Core Switch - Enterprise Grade Switch - Layer 3+ Switch
   > 来源：https://impulsecctv.com/category/technology2/（抓取 2026-10-21）
+- **【官网】IGS 工业系列功能与型号列表**
+  > 4 Port / 8 Ports Gigabit PoE Ports - IEEE 802.3af and 802.3at compliant Dual DC power input - Rapid Ring (R-Ring) … G.8032 ERPS … Datasheets pdf IMP-IGS-1G06CG pdf IMP-IGS-1G06CP pdf IMP-IGS-1G10CG pdf IMP-IGS-1G10CP pdf IMP-EGS-1G24P02F pdf IMP-EGS-1G48P04X pdf IMP-EGS-1G24P04X pdf IMP-EGS-1G08P02F
+  > 来源：https://impulsecctv.com/industrial-network-switches/（抓取 2022-10-27）
+- **【官网博客】2026-01 推荐机型 IMP-IGS-1G06CG / 1G10CP**
+  > Impulse IGS Series: … 4-10 Gigabit PoE ports with IEEE 802.3af/at compliance - Dual DC power input … Operating temperature: -40°C to 75°C … Impulse 6-Port Gigabit PoE Switch (IMP-IGS-1G06CG) … Impulse 10-Port Gigabit PoE Switch (IMP-IGS-1G10CP)
+  > 来源：https://impulsecctv.com/blog/choosing-the-right-poe-switch-for-scalable-networks/（抓取 2026-01-30）
 - **KP**：—（总机邮箱）info@impulsecctv.com +1 778-508-3514（温哥华，ZoomInfo）〔https://impulsecctv.com/about-us/〕
 - 备注：A 确认：安防品牌自有 PoE 交换机线 + 2026 年主动回复 + 明确要贴 logo；P1 = STI-288DGGPM（工业 PoE，对位其在用 ONV 工业 FS），30% OEM 档；注意其印度产线可能要求 SKD/CKD，先问整机。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Impulse Networks / Impulse CCTV |
+| 总部/地址 | Singapore（81 Ubi Ave 4）；北美 Vancouver；印度生产（BIS） |
+| 人数 | 51–200 |
+| 其他 | 自有品牌 IMP- 系列：IGS 工业 PoE（IMP-IGS-1G06CG/CP、1G10CG/CP、1G12CG）、EGS 企业 PoE（1G08P02F、1G24P02F/04X、1G48P04X）、XGS 10G 核心（2404XCP、480204XCP）、SWT-0049 系列 24/48×10G + 40/100G；ONV 来源（用户表） |
+
+- **业务线**：网络摄像机 / NVR / VMS；工业 PoE 交换机 IGS（ERPS/R-Ring/PTP/OAM）；企业 PoE 与 10G/100G 核心交换机
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Impulse | IMP-IGS-1G06CG / 1G06CP | 工业 4 GE PoE + 2 SFP，双 DC，R-Ring/ERPS，-40~75℃ | STI-144GP | https://impulsecctv.com/industrial-network-switches/（2022-10-27） |
+| Impulse | IMP-IGS-1G10CG / 1G10CP | 工业 8 GE PoE + 2 SFP | STI-288DGGPM | https://impulsecctv.com/blog/choosing-the-right-poe-switch-for-scalable-networks/（2026-01-30） |
+| Impulse | IMP-IGS-1G12CG | 工业 L2+ 10G 上联 PoE，iDMS，DHCP server | —（工业 10G 需核） | https://impulsecctv.com/switching-supply-for-sundergarh-college-and-hospital（2021-10-13） |
+| Impulse | IMP-EGS-1G08P02F / 1G24P02F / 1G24P04X / 1G48P04X | 企业 PoE 8/24/48 口（2 SFP 或 4×10G） | STC-28DGGPM / STC-424DGGPM-280W / STC-424XGGPM-280W / STC-448XGGM(L3) | https://impulsecctv.com/industrial-network-switches/（2022-10-27） |
+| Impulse | IMP-XGS-2404XCP / 480204XCP；IMP-SWT-0049 系列 | L3 10G 核心、24/48×10G + 40/100G | —（核心层不在 Saga 型谱） | https://impulsecctv.com/product/imp-swt-0049-series/（2026-10-21） |
+
+- **触达通道（公开）**：网站: https://impulsecctv.com/；直邮: info@impulsecctv.com（用户表）
+- **近况信号**：
+  - 2026-01 博客仍主推 IGS 1G06CG/1G10CP——工业 PoE 为活跃走量线（2026-10-21）
+  - 用户表：ONV 工业 FS，他们的 logo——已有成熟 ODM
+- **风险/边界**：印度「Make in India」BIS 路线：可能转向本地组装（SKD/CKD）而非整机进口；ONV 关系稳固；切入点为 Marvell 平台二供
+- **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——IMP-IGS-1G10CP（8 GE PoE + 2 SFP 工业）= STI-288DGGPM；1G06CP = STI-144GP；EGS 24/48 = STC-424DGGPM-280W / STC-448XGGM(L3)；OEM 30% 档
+- **邮件切入句（英文）**：Your IMP-IGS-1G10CP and IMP-IGS-1G06CG are the exact 8+2 and 4+2 industrial PoE footprints we build on a Marvell core with ERPS ring, so I am quoting both in Impulse packing as a second source next to your current line.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -136,7 +168,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）——安防品牌自有 PoE 交换机线） |
+| **P1** | STI-288DGGPM | 深挖对位：IMP-IGS-1G10CP（8 GE PoE + 2 SFP 工业）= STI-288DGGPM；1G06CP = STI-144GP；EGS 24/48 = STC-424DGGPM-280W / STC-448XGGM(L3)；OEM 30% 档 | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）——安防品牌自有 PoE 交换机线） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -189,9 +221,9 @@ updated: 2026-10-21
 ```text
 Hi Pushpender,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Your IMP-IGS-1G10CP and IMP-IGS-1G06CG are the exact 8+2 and 4+2 industrial PoE footprints we build on a Marvell core with ERPS ring, so I am quoting both in Impulse packing as a second source next to your current line.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your Impulse IMP-IGS-1G10CG / 1G10CP at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

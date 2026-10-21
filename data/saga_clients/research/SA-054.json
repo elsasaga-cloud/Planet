@@ -35,5 +35,46 @@
   }
  ],
  "notes": "A 维持但体量小：已在用 HRUI 商业 PoE 自有型号 → Saga 可用 STH 线（HRUI 来源）原厂同款 + 自有型号丝印直接承接；P1 = STH 对应 8 口 PoE（见 data/hrui_STC对照表.csv），20% 电商档。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1（沿用首轮调研）"
+ },
+ "company_facts": {
+  "legal_name": "SVN（svn-video.ru，ИП Криволуцкая Ю.В.）",
+  "hq": "Kaluga, Russia",
+  "other": "视频监控网店 + 安装商，自有 SVN 品牌摄像机/套装，批发栏目；用户表：用 HRUI（洪瑞）商业 PoE，自己的型号"
+ },
+ "business_lines": [
+  "SVN 品牌摄像机/套装",
+  "商用 PoE 交换机（HRUI 来源，自有型号）",
+  "安装与批发"
+ ],
+ "products_seen": [
+  {
+   "brand": "SVN（HRUI 来源）",
+   "model": "商业 PoE 交换机（自有型号）",
+   "spec": "用的洪瑞的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "STC-28DGGPM（Marvell 升级位）/ 或 HRUI 同款经 Saga 供"
+  }
+ ],
+ "channels": {
+  "网站": "https://svn-video.ru/",
+  "直邮": "zakaz@svn-video.ru（用户表）"
+ },
+ "signals": [
+  "已从 Saga 辅线供应商 HRUI 采购——Saga 可按 HRUI 对照表直接报同款（data/hrui_STC对照表.csv）或升级 Marvell 款"
+ ],
+ "risks": [
+  "个体经营者，量小；俄罗斯结算",
+  "HRUI 直供价 vs Saga 加价——需以服务/组合（摄像机配套 PoE）取胜"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "商用 8 口 PoE 自有型号：STC-28DGGPM（Marvell 管理型）为升级位；也可按 HRUI 对照表报同规格；电商 20% 档"
+ },
+ "email_hook": "For the 8-port PoE model you sell under the SVN name, I can quote the same footprint on a Marvell core as a managed upgrade, or the Realtek-based version you are used to, both in your own packing at EXW."
 }

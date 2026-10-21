@@ -55,5 +55,54 @@
  "grade_override": null,
  "override_reason": "",
  "notes": "有 1 次实质回复；工业 FS 在用 OTS（用户记录）。集成+电商双身份、且做自有品牌 → 可谈 OEM 贴牌或平台铺货。中东非主攻区但客户规模与贴牌意愿值得长期跟。P1 建议 STI-288DGGPM（工业 PoE 对位 OTS），电商/分销价阶 20%；若走自有品牌 30%。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1（沿用首轮调研）"
+ },
+ "company_facts": {
+  "legal_name": "Al Rajhi Telecom Company / Silkroad Business Solutions（ekhalas.com）",
+  "founded": "2005（电信承包）/ 2015（ICT 集成）",
+  "hq": "Riyadh, Saudi Arabia",
+  "other": "B2B 电商 ekhalas.com：Vivotek PoE、TP-Link Omada、Huawei eKit、Dahua；自称 3,000+ 客户；有自有品牌进入零售；用户表：工业 FS 用 OTS 的"
+ },
+ "business_lines": [
+  "电信承包 / ICT 集成",
+  "B2B 电商分销（多品牌）",
+  "自有品牌零售"
+ ],
+ "products_seen": [
+  {
+   "brand": "Vivotek / TP-Link Omada / Huawei eKit（在售）",
+   "model": "商用 PoE 交换机",
+   "spec": "电商平台",
+   "url": "https://ekhalas.com/",
+   "date": "2026-10（首轮调研）",
+   "saga": "STC-424DGGPM-280W"
+  },
+  {
+   "brand": "OTS（现工业来源）",
+   "model": "工业 FS",
+   "spec": "用户表",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "STI-288DGGPM"
+  }
+ ],
+ "channels": {
+  "网站": "https://ekhalas.com/",
+  "直邮": "info@ekhalas.com（用户表）"
+ },
+ "signals": [
+  "有自有品牌 + 电商 + 3,000 客户——白牌切入渠道现成"
+ ],
+ "risks": [
+  "沙特 SASO/SABER 认证由进口方办理；电商价带低"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 20,
+  "why": "工业位替代 OTS：STI-288DGGPM；电商自有品牌商用位：STC-28DGGPM/STC-424DGGPM-280W；分销 20% 档"
+ },
+ "email_hook": "For the industrial PoE slot you currently fill with OTS units, the Marvell-based 8-port gigabit PoE + 2 SFP managed DIN switch is the one I am quoting EXW, and the 8/24-port commercial PoE models are ready for your own-brand listing on ekhalas."
 }

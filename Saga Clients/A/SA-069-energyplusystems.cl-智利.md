@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：智利比尼亚德尔马的矿业/工业技术供应商（团队 15+ 年经验）：变频器、软启动、矿用电缆与接插件、变压器、PLC、传感器、工业交换机与通信、光纤/机柜/UTP、IoT、光伏套件。用户表：S 重点名单，1 次实质回复，18 次跟进；兴趣工业 FS（中科德能款）；联系人 Ling。（调研 2026-10-21；表内兴趣：工业FS 中科德能的）
 - **为什么是 A 级**：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/智利；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 18 次（2024-05-30 → 2025-12-29）；最近一次客户回复：2024-09-27：price and moq
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：工业 DIN 位：STI-288DGGPM + STI-144GP 作配套品类；集成商 25% 档；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -69,6 +69,26 @@ updated: 2026-10-21
 - **KP**：Ling（用户表）（联系人）ventas@energyplusystems.cl +56 9 9218 8218〔https://energyplusystems.cl/sistemas-fotovoltaicos/〕
 - 备注：A 维持（S 重点 + 已回复 + 矿业工业交换机场景）；拉美不在重点区、单量小；P1 = STI-288DGGPM（矿业宽温、冗余电源），25% 集成商档。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Energy Plus Systems |
+| 总部/地址 | Viña del Mar, Chile |
+| 其他 | 矿业/工业技术供应商：变频器、软启动、矿用电缆、变压器、PLC、传感器、工业交换机、光纤/机柜、IoT、光伏 |
+
+- **业务线**：工业自动化与电气（矿业）；工业交换机与通信（中科德能来源）；光纤/机柜/UTP
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| 中科德能（现来源） | 工业 FS | — | STI-288DGGPM | （本地 Clients/ 表格，无公开 URL）（用户表） |
+
+- **触达通道（公开）**：网站: https://energyplusystems.cl/；直邮: ventas@energyplusystems.cl（用户表）
+- **近况信号**：
+  - 用户表：S 重点，1 次实质回复，18 次跟进
+- **风险/边界**：矿业场景可能要求更高防护/认证；智利不在主攻区；西语资料
+- **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——工业 DIN 位：STI-288DGGPM + STI-144GP 作配套品类；集成商 25% 档
+- **邮件切入句（英文）**：For the industrial switch positions in your automation panels, the Marvell-based 8-port gigabit PoE + 2 SFP managed DIN unit and the 4+1 compact model are the two I am quoting EXW, with Spanish datasheets on request.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -129,7 +149,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（工业/矿业集成供应商（工业交换机为配套品类）） |
+| **P1** | STI-288DGGPM | 深挖对位：工业 DIN 位：STI-288DGGPM + STI-144GP 作配套品类；集成商 25% 档 | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（工业/矿业集成供应商（工业交换机为配套品类）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -182,9 +202,9 @@ updated: 2026-10-21
 ```text
 Hi Ling,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. For the industrial switch positions in your automation panels, the Marvell-based 8-port gigabit PoE + 2 SFP managed DIN unit and the 4+1 compact model are the two I am quoting EXW, with Spanish datasheets on request.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the 中科德能 class you work with at a lower landed cost, and we can ship it with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your 中科德能（现来源） 工业 FS at a lower landed cost, and we can ship it with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

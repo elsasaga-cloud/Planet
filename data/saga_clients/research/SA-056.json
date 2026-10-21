@@ -34,5 +34,47 @@
   }
  ],
  "notes": "A 维持（2 次实质回复 + 自有品牌 + 官网电话即 WhatsApp）；主需求 MC 与 VC：P1 = STI-110GE（MC）贴牌 30%；VC/HDMI 光端机 Saga 不做，如实说明。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1（沿用首轮调研）"
+ },
+ "company_facts": {
+  "legal_name": "DNC Technosolutions Pvt. Ltd.",
+  "founded": "2011",
+  "hq": "Ernakulam, Kerala, India",
+  "other": "光纤产品制造/方案商，自有 DNC 品牌：跳线/尾纤/分路器、MC（MC-10100G 等）、视频/电话光端机、SFP、MPO"
+ },
+ "business_lines": [
+  "光纤无源（跳线、分路器、MPO）",
+  "DNC 品牌 MC / 光端机 / SFP",
+  "（兴趣）FS、HDMI、VC"
+ ],
+ "products_seen": [
+  {
+   "brand": "DNC",
+   "model": "MC-10100G 等 MC",
+   "spec": "自有 logo，「质量较高」要求",
+   "url": "https://dncsolutions.co.in/",
+   "date": "2026-10（首轮调研）",
+   "saga": "STI-110GE"
+  }
+ ],
+ "channels": {
+  "网站": "https://dncsolutions.co.in/",
+  "直邮": "coo@dncsolutions.co.in（COO，用户表）",
+  "WhatsApp": "跟进中（用户表）"
+ },
+ "signals": [
+  "用户表：2 次实质回复，18 次跟进；兴趣 MC/FS/HDMI/SFP/VC，强调质量"
+ ],
+ "risks": [
+  "MC 单价低、印度价格敏感；VC/HDMI 不在 Saga 型谱"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 30,
+  "why": "MC 贴牌为入口：STI-110GE（千兆 SFP MC，EXW $24.3 @30%）；随后 STC-28DGGPM 作 DNC 品牌 PoE 入门；OEM 30% 档"
+ },
+ "email_hook": "For the DNC-branded gigabit media converter line, the Marvell-based SFP media converter is the unit I can quote with your logo and CE/RoHS files, and an 8-port gigabit PoE+ 2 SFP managed switch is ready as the next SKU when you want to add switching."
 }

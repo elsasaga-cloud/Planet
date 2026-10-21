@@ -27,5 +27,44 @@
  "grade_override": null,
  "override_reason": "",
  "notes": "规格细到光口类型（SC/SFP）与 L2/L3 分档 = 真实项目选型；4 次回复、WA 在线。印度非主攻区但无需额外投入。P1：SmartByte 8 光 8 电管理型（L2）+ STC-448XGGM(L3) 类 L3 选项（按 docs/smartbyte/products 核对 8F8T 型号与 SC 口可选，报价前核价），项目价阶 25%。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1（沿用首轮调研）"
+ },
+ "company_facts": {
+  "legal_name": "Areca Embedded Systems Pvt. Ltd.",
+  "hq": "India",
+  "other": "嵌入式/网络系统公司；规格明确：8 光 8 电管理型、非 PoE、L2 与 L3、SC 与 SFP 光口"
+ },
+ "business_lines": [
+  "嵌入式/网络系统集成"
+ ],
+ "products_seen": [
+  {
+   "brand": "（项目需求）",
+   "model": "8 光 8 电管理（L2/L3，非 PoE，SC/SFP）",
+   "spec": "4 次回复",
+   "url": "（本地 Clients/ Clients 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "—（8 SFP + 8 RJ45 非 PoE 需 SmartByte 核型）"
+  }
+ ],
+ "channels": {
+  "网站": "https://areca.in/",
+  "直邮": "kb@areca.in（用户表）",
+  "WhatsApp": "在线（用户表）"
+ },
+ "signals": [
+  "需求规格完整（L2/L3、SC/SFP 都要）——可成交型客户"
+ ],
+ "risks": [
+  "8 光 8 电非 Saga 标准型谱；印度 BIS"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "8 SFP + 8 RJ45 管理型非 PoE：标准型谱无对应，需向 SmartByte 核 8 光 8 电 L2/L3 工业机；集成商 25% 档"
+ },
+ "email_hook": "For the 8-fibre 8-copper managed unit without PoE, I am confirming the L2 and L3 variants and the SC versus SFP optics with the factory; the datasheet and EXW price for both follow as soon as the part numbers are locked."
 }

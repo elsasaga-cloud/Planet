@@ -32,5 +32,47 @@
   }
  ],
  "notes": "A 维持（3 次实质回复 + WhatsApp 在手），但规模小、非洲区：以 8/16 口 PoE 小批量为主，不投入样机以外资源。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1（沿用首轮调研）"
+ },
+ "company_facts": {
+  "legal_name": "Taurus Vision",
+  "hq": "Pretoria, South Africa",
+  "staff": "1–10",
+  "revenue": "<$5M",
+  "other": "CCTV 视频监控管理方案商/集成商；官网招募合作伙伴"
+ },
+ "business_lines": [
+  "CCTV / 视频管理方案",
+  "合作伙伴渠道"
+ ],
+ "products_seen": [
+  {
+   "brand": "（集成商自用）",
+   "model": "PoE 交换机（CCTV）",
+   "spec": "3 次实质回复",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "STC-28DGGPM"
+  }
+ ],
+ "channels": {
+  "网站": "https://taurusvision.com/",
+  "直邮": "sales@taurusvision.com（用户表）",
+  "WhatsApp": "已加（用户表）"
+ },
+ "signals": [
+  "3 次实质回复 + WA；21 次推送"
+ ],
+ "risks": [
+  "南非 ICASA/NRCS 合规由进口方；小公司"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "CCTV 集成接入：STC-28DGGPM 为主、STI-144GP 户外箱位；集成商 25% 档"
+ },
+ "email_hook": "For the camera closets in your VMS projects, the Marvell-based 8-port gigabit PoE+ managed switch with 2 SFP and the 4+1 industrial DIN unit for outdoor cabinets are the two I am quoting EXW."
 }

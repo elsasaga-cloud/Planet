@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：印尼工业自动化与 MEP 承包商/系统集成商（PLC/HMI/SCADA 控制系统、MEP、安防 CCTV/门禁/消防、水处理、IT/电信基础设施；码头辅助系统、环境监测、智慧停车等方案），11–50 人、营收 <500 万美元；WA 在线，20 次跟进中 6 次回复，需求以工业 DIN 导轨 PoE 为主、项目制。（调研 2026-10-21；表内兴趣：工业品  din POE比较多 主要是做项目）
 - **为什么是 A 级**：+30 实质回复 6 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/印度尼西亚；+5 最近活动 2025
 - **历史互动**：实质回复 6 次；WhatsApp 已加；推送 20 次（2023-09-11 → 2025-10-09）；最近一次客户回复：2024-10-22：price
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：DIN PoE 项目：STI-288DGGPM（8+2 管理）主推、STI-144GP 辅；集成商 25% 档；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -71,6 +71,28 @@ updated: 2026-10-21
 - **KP**：（见 Clients 表联系人）（）info@ras-otomasi.id（公开） +62 813-1042-5123（WA）/ +62 21 5081-2002〔用户 Clients 表 + 官网〕
 - 备注：6 次回复 + WA + 工业 DIN PoE 项目需求 = 对位 STI 工业线的典型集成商。印尼非主攻区但无需额外投入。P1：STI-288DGGPM（DIN 导轨 8 电 2 光管理 PoE），项目价阶 25%；SCADA 场景可加 ERPS 环网机型。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | PT. RAS Otomasi Indonesia |
+| 总部/地址 | Jakarta / Tangerang, Indonesia |
+| 人数 | 11–50 |
+| 营收 | <$5M |
+| 其他 | 工业自动化与 MEP 承包/集成：PLC/HMI/SCADA、MEP、CCTV/门禁/消防、水处理、IT/电信基础设施；码头辅助、环境监测、智慧停车 |
+
+- **业务线**：工业自动化（PLC/HMI/SCADA）；MEP / 安防 / 消防；IT/电信基础设施
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| （项目采购） | DIN PoE 工业交换机（比较多） | 主要做项目 | STI-288DGGPM / STI-144GP | （本地 Clients/ 表格，无公开 URL）（用户表） |
+
+- **触达通道（公开）**：直邮: sudarso.jkt@gmail.com（用户表，免费邮箱）；WhatsApp: 在线（用户表）
+- **近况信号**：
+  - DIN PoE 用量多、项目型——与 Saga 工业线直接匹配
+- **风险/边界**：免费邮箱；印尼认证由进口方；码头/环境监测部分可能是公共项目（守界）
+- **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——DIN PoE 项目：STI-288DGGPM（8+2 管理）主推、STI-144GP 辅；集成商 25% 档
+- **邮件切入句（英文）**：For the DIN-rail PoE positions in your automation and CCTV panels, the Marvell-based 8-port gigabit PoE + 2 SFP managed unit and the 4+1 compact model are the two I am quoting EXW, both with dual DC input.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -131,7 +153,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（工业自动化/MEP 系统集成商） |
+| **P1** | STI-288DGGPM | 深挖对位：DIN PoE 项目：STI-288DGGPM（8+2 管理）主推、STI-144GP 辅；集成商 25% 档 | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（工业自动化/MEP 系统集成商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -184,9 +206,9 @@ updated: 2026-10-21
 ```text
 Hi Sudarso,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. For the DIN-rail PoE positions in your automation and CCTV panels, the Marvell-based 8-port gigabit PoE + 2 SFP managed unit and the 4+1 compact model are the two I am quoting EXW, both with dual DC input.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your （项目采购） DIN PoE 工业交换机（比较多） at a lower landed cost, and we can ship it with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

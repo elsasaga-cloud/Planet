@@ -47,5 +47,45 @@
   }
  ],
  "notes": "A 维持（已回复 + 全品类分销 + 已在卖同源产品），但需先向 SmartByte 确认该客户/其上游（Utepo 等）是否为 SmartByte 直客以免渠道冲突；P1 = STC-424DGGPM-280W（对位 Utepo 24 口 PoE L2+），20% 分销档。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1（沿用首轮调研）"
+ },
+ "company_facts": {
+  "legal_name": "Success Network and Communication Co., Ltd.",
+  "founded": "2011",
+  "hq": "Bangkok, Thailand",
+  "other": "网络/安防综合分销与工程商，代理 PLANET、ORing、TRENDnet、Wi-Tek、W-LINK、C-DATA、Utepo（UTP5628S-PSB-L3）；登记规模极小"
+ },
+ "business_lines": [
+  "多品牌网络设备分销（PLANET/ORing/TRENDnet/Wi-Tek/Utepo）",
+  "安防工程"
+ ],
+ "products_seen": [
+  {
+   "brand": "Utepo",
+   "model": "UTP5628S-PSB-L3",
+   "spec": "L3 PoE 交换机（页面）",
+   "url": "https://success-network.co.th/",
+   "date": "2026-10（首轮调研）",
+   "saga": "STC-424XGGPM-280W"
+  }
+ ],
+ "channels": {
+  "网站": "https://success-network.co.th/",
+  "直邮": "info@success-network.co.th（用户表）"
+ },
+ "signals": [
+  "用户表：工商业 FS，有 Utepo 的"
+ ],
+ "risks": [
+  "多品牌小分销，Saga 为又一白牌；泰国价格敏感"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 20,
+  "why": "Utepo/Wi-Tek 位的商用 24 口 PoE 管理 = STC-424DGGPM-280W；工业位 STI-288DGGPM；分销 20% 档"
+ },
+ "email_hook": "Alongside the Utepo and Wi-Tek units you carry, the Marvell-based 24-port PoE+ managed switch and the 8-port industrial PoE DIN model are the two I can quote EXW as a neutral-packing line."
 }

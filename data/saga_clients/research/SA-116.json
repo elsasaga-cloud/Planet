@@ -47,5 +47,53 @@
  "grade_override": null,
  "override_reason": "",
  "notes": "2026 年最新回复 + 分销商身份 + 已卖白牌 SFP 与 Microsens 工业交换机（高价德系）→ Saga 的 STI 工业线可作其'性价比替代'补充。俄罗斯收款路径需核。P1：STI-288DGGPM（对位 Microsens 工业 PoE），分销价阶 20%。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1（沿用首轮调研）"
+ },
+ "company_facts": {
+  "legal_name": "CCS（ccs-msk.ru）",
+  "hq": "Moscow, Russia",
+  "other": "IT/电信设备分销商（十余年）：Microsens 与 Lenovo 官方合作伙伴、住友（Sumitomo）分销；有源/无源网络、服务器存储、工业以太网、FTTO/Smart Office、SAS/Infiniband 线缆与定制产品"
+ },
+ "business_lines": [
+  "企业网络 + 工业以太网分销（Microsens 等）",
+  "服务器/存储（Lenovo）",
+  "光纤/铜缆与定制线缆（Sumitomo、Tyco）"
+ ],
+ "products_seen": [
+  {
+   "brand": "Microsens（在售）",
+   "model": "工业以太网 / FTTO 微型交换机",
+   "spec": "官方合作伙伴",
+   "url": "https://ccs-msk.ru/",
+   "date": "2026-10（首轮调研）",
+   "saga": "STI-288DGGPM / STI-144GP"
+  },
+  {
+   "brand": "（兴趣）",
+   "model": "工业 FS / SFP / AOC / MC",
+   "spec": "很多牌子的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "STI-110GE"
+  }
+ ],
+ "channels": {
+  "网站": "https://ccs-msk.ru/",
+  "直邮": "pkarpov@ccs-msk.ru（用户表）"
+ },
+ "signals": [
+  "Microsens（德系高价工业/FTTO）在俄供货受限——低价替代位空出（推断，待补证）"
+ ],
+ "risks": [
+  "俄罗斯结算/制裁合规由客户侧；Microsens 级客户对功能（环网/管理）要求高"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 20,
+  "why": "Microsens 工业/FTTO 位的低价替代：STI-288DGGPM（8+2 管理）+ STI-144GP；MC 位 STI-110GE；分销 20% 档"
+ },
+ "email_hook": "For the industrial and FTTO positions where a Microsens unit is now hard to source, the Marvell-based 8-port gigabit PoE + 2 SFP managed DIN switch and the 4+1 compact model are the two EXW prices I am sending."
 }

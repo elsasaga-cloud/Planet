@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：俄罗斯卡卢加的视频监控网店 + 安装商（个体经营者），自有 SVN 品牌摄像机/套装，设批发栏目（Оптовикам）；用户表：A 已回复 1 次，备注「用的洪瑞（HRUI）的商业 PoE，自己的型号」——即已从 Saga 辅线供应商 HRUI 采购并贴自有型号。（调研 2026-10-21；表内兴趣：用的洪瑞的 商业PoE 自己的型号）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-08-28 → 2025-08-28）；最近一次客户回复：2025-08-28：Price List
-- **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：商用 8 口 PoE 自有型号：STC-28DGGPM（Marvell 管理型）为升级位；也可按 HRUI 对照表报同规格；电商 20% 档；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -69,6 +69,26 @@ updated: 2026-10-21
 - **KP**：—（订单邮箱）zakaz@svn-video.ru +7 903 810 33 33〔https://svn-video.ru/contact-us〕
 - 备注：A 维持但体量小：已在用 HRUI 商业 PoE 自有型号 → Saga 可用 STH 线（HRUI 来源）原厂同款 + 自有型号丝印直接承接；P1 = STH 对应 8 口 PoE（见 data/hrui_STC对照表.csv），20% 电商档。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | SVN（svn-video.ru，ИП Криволуцкая Ю.В.） |
+| 总部/地址 | Kaluga, Russia |
+| 其他 | 视频监控网店 + 安装商，自有 SVN 品牌摄像机/套装，批发栏目；用户表：用 HRUI（洪瑞）商业 PoE，自己的型号 |
+
+- **业务线**：SVN 品牌摄像机/套装；商用 PoE 交换机（HRUI 来源，自有型号）；安装与批发
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| SVN（HRUI 来源） | 商业 PoE 交换机（自有型号） | 用的洪瑞的 | STC-28DGGPM（Marvell 升级位）/ 或 HRUI 同款经 Saga 供 | （本地 Clients/ 表格，无公开 URL）（用户表） |
+
+- **触达通道（公开）**：网站: https://svn-video.ru/；直邮: zakaz@svn-video.ru（用户表）
+- **近况信号**：
+  - 已从 Saga 辅线供应商 HRUI 采购——Saga 可按 HRUI 对照表直接报同款（data/hrui_STC对照表.csv）或升级 Marvell 款
+- **风险/边界**：个体经营者，量小；俄罗斯结算；HRUI 直供价 vs Saga 加价——需以服务/组合（摄像机配套 PoE）取胜
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——商用 8 口 PoE 自有型号：STC-28DGGPM（Marvell 管理型）为升级位；也可按 HRUI 对照表报同规格；电商 20% 档
+- **邮件切入句（英文）**：For the 8-port PoE model you sell under the SVN name, I can quote the same footprint on a Marvell core as a managed upgrade, or the Realtek-based version you are used to, both in your own packing at EXW.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -111,7 +131,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（电商/安装商（自有型号贴牌）） |
+| **P1** | STC-28DGGPM | 深挖对位：商用 8 口 PoE 自有型号：STC-28DGGPM（Marvell 管理型）为升级位；也可按 HRUI 对照表报同规格；电商 20% 档 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（电商/安装商（自有型号贴牌）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -165,9 +185,9 @@ updated: 2026-10-21
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. For the 8-port PoE model you sell under the SVN name, I can quote the same footprint on a Marvell core as a managed upgrade, or the Realtek-based version you are used to, both in your own packing at EXW.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the 洪瑞 class you work with at a lower landed cost, and we can ship it with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your SVN（HRUI 来源） 商业 PoE 交换机（自有型号） at a lower landed cost, and we can ship it with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

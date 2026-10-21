@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：莫斯科 IT/电信设备分销商（十余年），Microsens 与 Lenovo 官方合作伙伴、日本住友分销商；供应有源/无源网络设备、服务器与存储、工业以太网、FTTO/Smart Office、SAS/Infiniband 等线缆及定制产品；自有/白牌 SFP 目录（SFP-WDM 系列）；E 渠道 2026 年回复（最新互动）。（调研 2026-10-21；表内兴趣：工业FS SFP AOC MC 很多牌子的）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2026；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 1 次（2026-01-23 → 2026-01-23）；最近一次客户回复：2026-01-23：Can you provide Brocade switches?
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：Microsens 工业/FTTO 位的低价替代：STI-288DGGPM（8+2 管理）+ STI-144GP；MC 位 STI-110GE；分销 20% 档；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -72,6 +72,27 @@ updated: 2026-10-21
 - **KP**：（见 Clients 表回复签名）（） 〔用户 Clients 表（'回复里有详细联系方式'）〕
 - 备注：2026 年最新回复 + 分销商身份 + 已卖白牌 SFP 与 Microsens 工业交换机（高价德系）→ Saga 的 STI 工业线可作其'性价比替代'补充。俄罗斯收款路径需核。P1：STI-288DGGPM（对位 Microsens 工业 PoE），分销价阶 20%。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | CCS（ccs-msk.ru） |
+| 总部/地址 | Moscow, Russia |
+| 其他 | IT/电信设备分销商（十余年）：Microsens 与 Lenovo 官方合作伙伴、住友（Sumitomo）分销；有源/无源网络、服务器存储、工业以太网、FTTO/Smart Office、SAS/Infiniband 线缆与定制产品 |
+
+- **业务线**：企业网络 + 工业以太网分销（Microsens 等）；服务器/存储（Lenovo）；光纤/铜缆与定制线缆（Sumitomo、Tyco）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Microsens（在售） | 工业以太网 / FTTO 微型交换机 | 官方合作伙伴 | STI-288DGGPM / STI-144GP | https://ccs-msk.ru/（2026-10（首轮调研）） |
+| （兴趣） | 工业 FS / SFP / AOC / MC | 很多牌子的 | STI-110GE | （本地 Clients/ 表格，无公开 URL）（用户表） |
+
+- **触达通道（公开）**：网站: https://ccs-msk.ru/；直邮: pkarpov@ccs-msk.ru（用户表）
+- **近况信号**：
+  - Microsens（德系高价工业/FTTO）在俄供货受限——低价替代位空出（推断，待补证）
+- **风险/边界**：俄罗斯结算/制裁合规由客户侧；Microsens 级客户对功能（环网/管理）要求高
+- **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——Microsens 工业/FTTO 位的低价替代：STI-288DGGPM（8+2 管理）+ STI-144GP；MC 位 STI-110GE；分销 20% 档
+- **邮件切入句（英文）**：For the industrial and FTTO positions where a Microsens unit is now hard to source, the Marvell-based 8-port gigabit PoE + 2 SFP managed DIN switch and the 4+1 compact model are the two EXW prices I am sending.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -115,7 +136,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（分销商（企业网络 + 工业以太网）） |
+| **P1** | STI-288DGGPM | 深挖对位：Microsens 工业/FTTO 位的低价替代：STI-288DGGPM（8+2 管理）+ STI-144GP；MC 位 STI-110GE；分销 20% 档 | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销商（企业网络 + 工业以太网）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -168,9 +189,9 @@ updated: 2026-10-21
 ```text
 Hi Pavel,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. For the industrial and FTTO positions where a Microsens unit is now hard to source, the Marvell-based 8-port gigabit PoE + 2 SFP managed DIN switch and the 4+1 compact model are the two EXW prices I am sending.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your Microsens（在售） 工业以太网 / FTTO 微型交换机 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

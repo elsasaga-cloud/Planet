@@ -55,5 +55,48 @@
  "grade_override": null,
  "override_reason": "",
  "notes": "3 次回复 + WA 在线 + 高管级联系人；集成商身份与 ELV 项目用 PoE 交换机高度相关，虽历史询盘为 HDMI 转换器（Saga 不做）。中东非主攻区但可直接转为项目报价。P1：STC-424DGGPM-280W（楼宇安防 24 口 PoE），项目价阶 25%。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1（沿用首轮调研）"
+ },
+ "company_facts": {
+  "legal_name": "Tecpro Solutions Co. L.L.C.",
+  "founded": "2004",
+  "hq": "Dubai（+Abu Dhabi、Al Ain、Kochi）",
+  "staff": "11–50",
+  "other": "IT + ELV 系统集成（IT 基础设施、智能楼宇、安防、BMS）；网站含 switch 与电缆类目"
+ },
+ "business_lines": [
+  "IT 基础设施集成",
+  "ELV / 安防 / BMS",
+  "HDMI 转换器等配件询价"
+ ],
+ "products_seen": [
+  {
+   "brand": "（项目采购）",
+   "model": "HDMI converter；网站 switch/电缆类目",
+   "spec": "询过 HDMI 转换器",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "STC-424DGGPM-280W（项目接入位）"
+  }
+ ],
+ "channels": {
+  "网站": "https://tecprosolutions.com/",
+  "直邮": "shereef@tecprosolutions.com（用户表）",
+  "WhatsApp": "Rafi 已加（用户表）"
+ },
+ "signals": [
+  "用户表：3 次回复 + WA——关系活跃，但询价品类（HDMI）不在 Saga 型谱"
+ ],
+ "risks": [
+  "需求偏配件；项目型集成商决策看品牌"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 25,
+  "why": "ELV/安防项目接入：STC-424DGGPM-280W + STC-28DGGPM；集成商 25% 档；HDMI 不供，明确告知"
+ },
+ "email_hook": "We do not build HDMI converters, but for the camera and ELV closets in your projects the Marvell-based 24-port PoE+ managed switch and the 8-port PoE+ 2 SFP unit are the two I can quote EXW with CE files."
 }

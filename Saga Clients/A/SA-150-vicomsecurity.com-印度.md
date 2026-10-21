@@ -21,7 +21,7 @@ replies: 2
 followups: 13
 first_contact: 2024-04-28
 last_contact: 2025-06-21
-p1: STC-424DGGPM-280W
+p1: STI-288DGGPM
 price_tier: 30%
 research: done
 sources: 2
@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：印度加尔各答 IP 视频监控/消防/楼宇管理/OFC 网络交钥匙项目公司（1995 年，自有 VICOM 品牌摄像机，30,000+ 项目安装，约 120 人，FY2024 营收 ₹27.1 Cr ≈ 330 万美元）；WA 在线、已开视频会，2 次回复、13 次跟进；需求 4 光 4 PoE 管理型 / 4 光 24 电。（调研 2026-10-21；表内兴趣：CCTV；4光4POE管理/4光24电 开了视频会/Retailer）
 - **为什么是 A 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 13 次（2024-04-28 → 2025-06-21）；最近一次客户回复：2024-05-19：在和他们合作/https://www.benchu-group.net/
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：VIES7511-8PGE2GF-DC（8 GE PoE + 2 SFP 工业管理）= STI-288DGGPM；16 口位 STI-21616GP；24+4 位 STC-424DGGPM-280W；VICOM 贴牌 30% 档；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -69,9 +69,43 @@ updated: 2026-10-21
 - **【官网】自有型号 VES 系列摄像机**
   > Model No.: VES 1016WHD/ VES 1016HD/ VES 1016SHD… High Definition Vandalproof IR Dome Camera
   > 来源：https://vicomsecurity.com/cctv-ip-surveillance/（抓取 2026-10-21）
+- **【官网】VICOM 工业 PoE 交换机型号目录**
+  > 24 Port Industrial POE Managed Switch 24GP4GC-L2M（IES7521-24PGE4GC-AC) … 16 Port Industrial POE Managed Switch 16PGE-4TF-L3M（IES7521-16PGE4TF-AC) … 16PGE2GF-L2（IES7511-16PGE2GF-DC） … 8 Port Industrial POE Managed Switch 8GP2GF-L2®VIES7511-8PGE2GF-DC … 8GP2G4GF-L2-VIES7511-8PGE2GE4GF-DC
+  > 来源：https://www.vicomsecurity.com/product_categories/network-switch/（抓取 2026-10-21）
+- **【注册】公司注册信息**
+  > VICOM SECURITY PRIVATE LIMITED (CIN: U51109WB1995PTC070096) is a Private company incorporated on 28 Mar 1995 … Registered address … 8, JUSTICE K.M. YUSUF SARANI 2ND FLOOR, BECK BAGAN ROW, KOLKATA … 700017
+  > 来源：https://www.zaubacorp.com/VICOM-SECURITY-PRIVATE-LIMITED-U51109WB1995PTC070096（抓取 2024-05-18）
 - **KP**：（见 Clients 表联系人）（） +91 98300 30444（WA）/ +91 33 2287 2290〔用户 Clients 表 + RocketReach〕
 - 备注：已开视频会 + 自有品牌 + 明确机型需求 = 可做 OEM（VICOM 贴牌）。印度非主攻区但项目体量可观。P1：4 光 24 电管理 PoE → STC-424DGGPM-280W（4 SFP 版本核对）；4 光 4 PoE 管理 → STI 工业 4 电 4 光机型（核价）；OEM 价阶 30%。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Vicom Security Private Limited（CIN U51109WB1995PTC070096） |
+| 成立 | 1995-03-28 |
+| 总部/地址 | 8 Justice K.M. Yusuf Sarani (Beck Bagan Row), 2nd Floor, Kolkata 700017, India（+91 9830078655 / +91 33 2287 2290） |
+| 人数 | 约 47–120（RocketReach 47；LinkedIn 51–200） |
+| 营收 | ₹27.1 Cr（FY2024，≈$3.3M）/ RocketReach $22.5M（口径差异大） |
+| 其他 | IP 视频监控/消防/楼宇管理/OFC 网络交钥匙项目公司，30,000+ 项目；自有 VICOM 品牌摄像机与工业 PoE 交换机目录（VIES 系列） |
+
+- **业务线**：IP 视频监控交钥匙项目（VICOM 摄像机 VTD 系列）；自有品牌工业 PoE 交换机（Industrial Managed / Unmanaged PoE 类目）；消防 / IBMS / 自动化 / 对讲
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| VICOM | 8GP2GF-L2（VIES7511-8PGE2GF-DC） | 8 GE PoE + 2 SFP 工业管理 DC | STI-288DGGPM | https://www.vicomsecurity.com/product_categories/network-switch/（2026-10-21） |
+| VICOM | 8GP2G4GF-L2（VIES7511-8PGE2GE4GF-DC） | 8 GE PoE + 2 GE + 4 SFP 工业管理 | STI-288DGGPM（口型差异） | https://www.vicomsecurity.com/product_categories/network-switch/（2026-10-21） |
+| VICOM | 16PGE2GF-L2（IES7511-16PGE2GF-DC）/ 16PGE-4TF-L3M（IES7521-16PGE4TF-AC） | 16 PoE 工业管理 L2/L3 | STI-21616GP | https://www.vicomsecurity.com/product_categories/network-switch/（2026-10-21） |
+| VICOM | 24GP4GC-L2M（IES7521-24PGE4GC-AC） | 24 PoE + 4 combo 工业管理 AC | STC-424DGGPM-280W | https://www.vicomsecurity.com/product_categories/network-switch/（2026-10-21） |
+| VICOM | VTD-9442E3B-A / VTD-8583IE3N | 4MP IP67 PoE 摄像机 / 8MP PTZ bt 60W | — | https://www.vicomsecurity.com/wp-content/uploads/2024/07/VTD-9442E3B-A.pdf（2024-07） |
+
+- **触达通道（公开）**：网站: https://www.vicomsecurity.com/（产品类目 + PDF）；直邮: info@vicomsecurity.com（用户表）；accounts@vicomsecurity.com（注册公开）；LinkedIn: https://in.linkedin.com/company/vicom-security-pvt-ltd；视频会: 已开（用户表）
+- **近况信号**：
+  - 自有品牌工业 PoE 交换机目录（VIES/IES 型号 = 典型中国 ODM 命名）——已在贴牌采购，Saga 可直接二供（2026-10-21）
+  - 用户表：4 光 4 PoE 管理 / 4 光 24 电——与目录机型对应；已开视频会
+- **风险/边界**：印度 BIS 与本地组装趋势；价格敏感；ODM 现供应商在位
+- **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——VIES7511-8PGE2GF-DC（8 GE PoE + 2 SFP 工业管理）= STI-288DGGPM；16 口位 STI-21616GP；24+4 位 STC-424DGGPM-280W；VICOM 贴牌 30% 档
+- **邮件切入句（英文）**：Your VIES7511-8PGE2GF-DC and the 24GP4GC-L2M are the two footprints we build on a Marvell core, so I am quoting both in VICOM packing as a second source, with the 16-port PoE model following the same datasheet layout.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -127,18 +161,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（安防系统集成商 + 自有品牌） |
+| **P1** | STI-288DGGPM | 深挖对位：VIES7511-8PGE2GF-DC（8 GE PoE + 2 SFP 工业管理）= STI-288DGGPM；16 口位 STI-21616GP；24+4 位 STC-424DGGPM-280W；VICOM 贴牌 30% 档 | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（安防系统集成商 + 自有品牌） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-288DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
@@ -148,7 +181,7 @@ updated: 2026-10-21
 
 - **S**：有 2 次实质回复（对方认识我们）；WhatsApp 直达；自有品牌/贴牌需求 = 现成 OEM 客户
 - **W**：南亚：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-424DGGPM-280W 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：中型（≈120 人，≈$3.3M）
+- **O**：P1 STI-288DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：中型（≈120 人，≈$3.3M）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -176,14 +209,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
 
 ```text
 Hi Rajesh,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Your VIES7511-8PGE2GF-DC and the 24GP4GC-L2M are the two footprints we build on a Marvell core, so I am quoting both in VICOM packing as a second source, with the 16-port PoE model following the same datasheet layout.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your VICOM 8GP2GF-L2（VIES7511-8PGE2GF-DC） at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

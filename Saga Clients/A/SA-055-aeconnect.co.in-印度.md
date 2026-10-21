@@ -21,7 +21,7 @@ replies: 3
 followups: 18
 first_contact: 2023-12-09
 last_contact: 2025-06-21
-p1: STI-110GE
+p1: STC-28DGGPM
 price_tier: 30%
 research: done
 sources: 1
@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：印度艾哈迈达巴德的网络产品品牌商（2005 年起，公司 2022 注册 CIN U31200GJ2022PTC132573，11–50 人，营收约 $8.1M），自有品牌 PoE 注入器/交换机、光纤产品、Cat6/6A 布线、机柜、工具，200+ 经销商；自述过去 5 年进口部分产品，现开始在印度自产 PoE 交换机（Make in India）。用户表：WhatsApp 跟进，3 次实质回复，18 次跟进；兴趣 PoE FS / MC / SFP，用自己的 logo。（调研 2026-10-21；表内兴趣：POE FS MC SFP   自己的logo）
 - **为什么是 A 级**：+30 实质回复 3 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 18 次（2023-12-09 → 2025-06-21）；最近一次客户回复：2025-02-26：主要用RTL 有较为成熟的产品了 国内的
-- **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：AE-PS8082SFT-M（8 GE PoE + 2 SFP L2）= STC-28DGGPM；AE-PS242SFT-M = STC-424DGGPM-280W；AE700-IPS8GE4GF-M ≈ STI-288DGGPM；OEM 30% 档；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -66,9 +66,46 @@ updated: 2026-10-21
 - **【官网】联系方式**
   > +91 95379 10555 · info@aeconnect.co.in · F/9-10 Balaji Centre, Drive-In Road, Memnagar, Ahmedabad - 380 052
   > 来源：https://aeconnect.co.in/shop/（抓取 2026-10-21）
+- **【官网】AE-PS8082SFT-M 规格**
+  > 8 Port Managed PoE Switch offers 8 Gigabit PoE+ ports, 2 SFP slots, 150 W power, advanced L2 control (IP-MAC-Port binding, ACL), QoS & VLAN … Backplane Bandwidth · 20Gbps … MAC address · 8k
+  > 来源：https://aeconnect.co.in/8-port-gigabit-l2-managed-poe-switch-ae-ps8082sft-m/（抓取 2026-05-29）
+- **【官网】管理型 PoE 产品线（含 2.5G bt L3、24 口 L3）**
+  > AE-PS8082SFT-M 8 Port Gigabit L2 Managed PoE+ Switch … AE250-PS1084SFTM-L3 8 Port 2.5G L3 Managed BT PoE Switch … AE-PS242SFT-M 24 Port Gigabit L2 Managed PoE+ Switch … AE600-24GP4TF-L3 24 Port Gigabit L3 Managed PoE+ Switch
+  > 来源：https://aeconnect.co.in/poe-solutions/managed-poe-switches/（抓取 2026-06-09）
+- **【官网】工业 AE700-IPS8GE4GF-M 规格**
+  > AE700-IPS8GE4GF-M is a 12-port Industrial Gigabit Managed Layer 2 PoE+ Switch, featuring 8×10/100/1000Mbps PoE+ ports and 4x1000Mbps SFP slots … Input voltage (DC): 48-56V - Working temperature: -40°C ~ +75°C - Shell: IP40
+  > 来源：https://aeconnect.co.in/8-port-industrial-gigabit-l2-managed-poe-switch-ae700-ips8ge4gf-m/（抓取 2025-09-01）
 - **KP**：—（总机/用户表 WhatsApp）info@aeconnect.co.in +91 98250 15200（WhatsApp 已加）；+91 95379 10555（官网）〔https://aeconnect.co.in/shop/〕
 - 备注：A 维持（3 次实质回复 + 自有品牌 + 200+ 经销商），风险是其「印度自产」方向可能转向 SKD/PCBA 采购；P1 = STC-28DGGPM / STC-424DGGPM-280W 贴牌，30% OEM 档；MC = STI-110GE。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | AE Connect India Pvt. Ltd.（CIN U31200GJ2022PTC132573） |
+| 成立 | 2005 起（公司 2022 注册） |
+| 总部/地址 | Ahmedabad, Gujarat, India |
+| 人数 | 11–50 |
+| 营收 | 约 $8.1M |
+| 其他 | 自有品牌 PoE 全线（非管理/管理/工业/2.5G bt L3）、光纤、Cat6/6A 布线、机柜、工具；「Engineered in India」；2025–2026 产品页持续更新 |
+
+- **业务线**：非管理 PoE（AE-PS8082GU 8 GE PoE+2 GE 120W、AE-PSE8002GU、AEIN-PS24FE2GC 24 FE 250W、AE16PSN2GC）；管理 PoE（AE-PS8082SFT-M 8 GE PoE+2 SFP 150W L2、AE-PS242SFT-M 24 PoE+4 combo、AE600-24GP4TF-L3、AE250-PS1084SFTM-L3 8×2.5G bt L3）；工业 PoE（AE700-IPS8GE4GF-M 8 GE PoE + 4 SFP，-40~75℃）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| AE Connect | AE-PS8082SFT-M | 8×GE PoE+ + 2 SFP，150W，L2（ACL/IP-MAC 绑定/QoS/VLAN），20Gbps | STC-28DGGPM | https://aeconnect.co.in/8-port-gigabit-l2-managed-poe-switch-ae-ps8082sft-m/（2026-05-29） |
+| AE Connect | AE-PS242SFT-M | 24×GE PoE+ + 4 combo，56Gbps，L2 管理 | STC-424DGGPM-280W | https://aeconnect.co.in/datasheet/PoE-Solution/Managed-PoE-Switches/AE-PS242SFT-M.pdf（2026-10-21） |
+| AE Connect | AE600-24GP4TF-L3 / AE250-PS1084SFTM-L3 | 24 PoE L3 / 8×2.5G bt L3 | STC-424XGGPM-280W（2.5G/10G 需核） | https://aeconnect.co.in/poe-solutions/managed-poe-switches/（2026-06-09） |
+| AE Connect | AE700-IPS8GE4GF-M | 工业 8 GE PoE+ + 4 SFP L2，48–56VDC，-40~75℃，IP40 | STI-288DGGPM（2 SFP 版） | https://aeconnect.co.in/8-port-industrial-gigabit-l2-managed-poe-switch-ae700-ips8ge4gf-m/（2025-09-01） |
+| AE Connect | AE-PS8082GU / AE-PSE8002GU / AEIN-PS24FE2GC | 非管理 8 GE PoE+2 GE 120W / 8 FE PoE+2 GE 120W / 24 FE PoE+2 GE/SFP 250W，6kV 防雷 | STC-28DGGPM / STC-424DGGPM-280W（千兆升级） | https://aeconnect.co.in/24-port-fast-ethernet-unmanaged-poe-switch-aein-ps24fe2gc/（2025-09-06） |
+
+- **触达通道（公开）**：网站: https://aeconnect.co.in/（含 datasheet PDF 库）；直邮: info@aeconnect.co.in（用户表）；B2B: IndiaMART（imimg 目录）
+- **近况信号**：
+  - 2025-09～2026-06 连续上新管理型/工业/2.5G bt L3 机型——产品线快速扩张，进口贴牌 + 本地组装（2026-10-21）
+  - 用户表：PoE/FS/MC/SFP，自己的 logo
+- **风险/边界**：印度 BIS（CRS）认证——交换机类是否强制需客户确认；本地组装趋势（SKD）；价格极敏感
+- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——AE-PS8082SFT-M（8 GE PoE + 2 SFP L2）= STC-28DGGPM；AE-PS242SFT-M = STC-424DGGPM-280W；AE700-IPS8GE4GF-M ≈ STI-288DGGPM；OEM 30% 档
+- **邮件切入句（英文）**：Your AE-PS8082SFT-M and AE-PS242SFT-M are the two footprints where a Marvell-based second source in AE Connect packing drops in without datasheet changes, so I am quoting both EXW with the industrial 8-port PoE + SFP model as the third line.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -130,18 +167,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 工业迷你 1 光 1 电（MC 位） | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商（部分进口贴牌 + 本地组装）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：AE-PS8082SFT-M（8 GE PoE + 2 SFP L2）= STC-28DGGPM；AE-PS242SFT-M = STC-424DGGPM-280W；AE700-IPS8GE4GF-M ≈ STI-288DGGPM；OEM 30% 档 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商（部分进口贴牌 + 本地组装）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-110GE），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-110GE 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
@@ -151,7 +187,7 @@ updated: 2026-10-21
 
 - **S**：有 3 次实质回复（对方认识我们）；WhatsApp 直达；自有品牌/贴牌需求 = 现成 OEM 客户
 - **W**：南亚：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-110GE 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：11–50 人（LinkedIn）；$8.1M（ZoomInfo）
+- **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：11–50 人（LinkedIn）；$8.1M（ZoomInfo）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -179,14 +215,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Devendra,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Your AE-PS8082SFT-M and AE-PS242SFT-M are the two footprints where a Marvell-based second source in AE Connect packing drops in without datasheet changes, so I am quoting both EXW with the industrial 8-port PoE + SFP model as the third line.
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your AE Connect AE-PS8082SFT-M at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

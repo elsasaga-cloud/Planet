@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：阿布扎比 ISO 9001:2015 系统集成商（2010 年成立，ADMCC 认证 CCTV 集成商），业务覆盖 CCTV、光纤网络、门禁、无线、PBX、结构化布线、智能家居；ISAF 2025 参展商，现场介绍 2 光 10 电，其工业交换机采自 N-Net、商业级从深圳采购并刷自有 logo（用户记录）；邮件 0 回复 / 11 次，有 WA 号码。（调研 2026-10-21；表内兴趣：参展商，去了他们展位给了catalog，邀请他们来展位，来了介绍了2光10电，他着重问了alarm,说平常的交换机也带 工业他们是从N-Net买的能看出来，商业级基本也是从深圳买的需要调查一下，刷的他们自己的logo）
 - **为什么是 A 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025；-10 推送 11 次无任何回复（聋名单）
 - **历史互动**：推送 11 次（2024-11-12 → 2025-10-22）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：2 光 10 电近似 STI-288DGGPM（8+2）；alarm 继电器为工业机标配（需 SmartByte 确认）；集成商 25% 档；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -82,6 +82,28 @@ updated: 2026-10-21
 - **KP**：（ISAF 2025 现场联系人，见 Clients 表）（） +971 55 983 5897（用户记录）〔用户 Clients 表（ISAF 2025）〕
 - 备注：面对面接触 + 已在从深圳采购并刷自有 logo = 现成的 OEM 买家；工业线在用 N-Net 可替换。邮件不回 → 走 WA。P1：STI-288DGGPM（2 光 8 电工业 PoE；其询问的 alarm 继电器输出需向 SmartByte 核实），OEM 价阶 30%。注意政府/警务项目守界，只供商用与一般楼宇安防。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研 + ISAF 记录））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Intelligent Professional Network Solution LLC（IPNS） |
+| 成立 | 2010 |
+| 总部/地址 | Abu Dhabi, UAE |
+| 其他 | ISO 9001:2015，ADMCC 认证 CCTV 集成商；CCTV、光纤、门禁、无线、PBX、布线、智能家居；ISAF 2025 参展商；工业交换机用 N-Net；有自有 logo 采购 |
+
+- **业务线**：CCTV / 门禁 / 布线 / 无线 集成；自有 logo 网络产品采购
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| N-Net（现工业来源） | 工业交换机 | 用户记录 | STI-288DGGPM | （本地 Clients/ 表格，无公开 URL）（ISAF 2025） |
+| （现场介绍） | 2 光 10 电；着重问 alarm（告警）功能 | 问普通交换机是否带 alarm | STI-288DGGPM（告警继电器需核） | （本地 Clients/ 表格，无公开 URL）（ISAF 2025） |
+
+- **触达通道（公开）**：网站: https://ipns-uae.com/；直邮: gk@ipns-uae.com（用户表）
+- **近况信号**：
+  - ISAF 2025 双向到访；关注 alarm 继电器输出——工业机卖点
+- **风险/边界**：ADMCC 项目可能指定品牌；N-Net 在用
+- **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——2 光 10 电近似 STI-288DGGPM（8+2）；alarm 继电器为工业机标配（需 SmartByte 确认）；集成商 25% 档
+- **邮件切入句（英文）**：You asked at ISAF whether the standard switches carry an alarm output: the industrial 8-port gigabit PoE + 2 SFP managed DIN unit does, with dual DC input, so that is the model I am quoting as a second source next to your N-Net units.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -135,7 +157,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（系统集成商（兼自有 logo 贴牌采购）） |
+| **P1** | STI-288DGGPM | 深挖对位：2 光 10 电近似 STI-288DGGPM（8+2）；alarm 继电器为工业机标配（需 SmartByte 确认）；集成商 25% 档 | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（系统集成商（兼自有 logo 贴牌采购）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -188,9 +210,9 @@ updated: 2026-10-21
 ```text
 Hi Blessen,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. You asked at ISAF whether the standard switches carry an alarm output: the industrial 8-port gigabit PoE + 2 SFP managed DIN unit does, with dual DC input, so that is the model I am quoting as a second source next to your N-Net units.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your N-Net（现工业来源） 工业交换机 at a lower landed cost, and we can ship it with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

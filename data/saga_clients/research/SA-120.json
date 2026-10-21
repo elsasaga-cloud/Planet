@@ -27,5 +27,44 @@
  "grade_override": null,
  "override_reason": "",
  "notes": "唯一一条'入站 L3 询盘却从未被跟进'的 A 级线索：先补发首封回复（L2+ STC-424DGGPM-280W / L3 STC-448XGGM(L3)，项目 25%），一轮后按回应重定级。俄语区非主攻，不额外投入。 ｜ T27 用户更正（2026-10-21）：该询盘已由 a.sagatelecom@gmail 邮箱跟进过（表内未记录）；跟进往来待用户导出 A 邮箱后补入。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1（沿用首轮调研；A 信箱已跟进）"
+ },
+ "company_facts": {
+  "legal_name": "Latmedia Group, LLC",
+  "hq": "Uzbekistan",
+  "other": "IT 集成/贸易商；2025 自建站询盘 L2+/L3 商业级交换机；A 信箱已跟进（用户 T27 说明）"
+ },
+ "business_lines": [
+  "IT 集成 / 贸易"
+ ],
+ "products_seen": [
+  {
+   "brand": "（询盘）",
+   "model": "L2+/L3 商业级交换机",
+   "spec": "自建站询盘",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2025",
+   "saga": "STC-424DGGPM-280W（L2+）/ STC-448XGGM(L3)"
+  }
+ ],
+ "channels": {
+  "网站": "https://latmedia.uz/",
+  "直邮": "vladimir.xe@latmedia.uz（用户表）",
+  "电话": "用户表留有手机号"
+ },
+ "signals": [
+  "主动询盘 L2+/L3——需求明确；跟进记录在 A 信箱（待导出）"
+ ],
+ "risks": [
+  "乌兹别克斯坦物流/结算；跟进历史未入库"
+ ],
+ "saga_fit": {
+  "p1": "STC-448XGGM(L3)",
+  "tier": 25,
+  "why": "询盘 L2+/L3：STC-448XGGM(L3)（EXW $485.8 @25%）+ STC-424DGGPM-280W（L2+）；集成商 25% 档"
+ },
+ "email_hook": "Following up on your L2+/L3 enquiry, the 48-port L3 unit with 10G uplinks and the 24-port L2+ PoE+ model are the two Marvell-based platforms I can quote EXW, with the L3 feature list attached."
 }

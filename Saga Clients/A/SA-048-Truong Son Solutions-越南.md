@@ -21,7 +21,7 @@ replies: 1
 followups: 17
 first_contact: 2024-05-10
 last_contact: 2025-12-15
-p1: STC-424DGGPM-280W
+p1: STI-144GP
 price_tier: 20%
 research: done
 sources: 6
@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：胡志明市的工业交换机专营分销商（2019 年注册，登记员工 5 人；另有河内办公室），分销 ONV 工业 PoE 交换机、Advantech EKI、韩国 GTWave（主打 Non-China/NDAA）、三星/HUNT 摄像机；域名 switchcongnghiep = 「工业交换机」。用户表：A 已回复 1 次，17 次跟进；兴趣 OEM/ODM、MC/FS/机架/工业 FS、ONV 全线引进；多家 AI 评 30%–80%。（调研 2026-10-21；表内兴趣：OEM/ODM；MC FS 机架 工业FS 很多牌子的 销售平台；商业POE 工业FS等；ONV产品的全线引进；MaiWe）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+10 用户二筛：在用 Utepo/ONV/Ewind 等同行产品（贴牌切入口）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；-25 邮件发不过去且无 WhatsApp 通道；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 17 次（2024-05-10 → 2025-12-15）；最近一次客户回复：2025-12-15：INFO
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-144GP — 深挖对位：其最走量型 IPS33054PF/IPS31004PF（4 PoE + 1 光）= STI-144GP；IPS33168PFM = STI-288DGGPM；分销 20% 档；$34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -59,7 +59,7 @@ updated: 2026-10-21
 - **是谁**：胡志明市的工业交换机专营分销商（2019 年注册，登记员工 5 人；另有河内办公室），分销 ONV 工业 PoE 交换机、Advantech EKI、韩国 GTWave（主打 Non-China/NDAA）、三星/HUNT 摄像机；域名 switchcongnghiep = 「工业交换机」。用户表：A 已回复 1 次，17 次跟进；兴趣 OEM/ODM、MC/FS/机架/工业 FS、ONV 全线引进；多家 AI 评 30%–80%。
 - **类型**：分销商/电商（工业交换机垂直）
 - **规模**：5 人（dauthau.asia 登记）
-- **在卖/在用品牌**：ONV, Advantech, GTWave, Sambo, HUNT
+- **在卖/在用品牌**：ONV, Advantech, GTWave, Sambo, HUNT, PLANET, 3Onedata
 - **【官网（博客）】分销 ONV 工业 PoE 交换机**
   > Truong Son Solutions Co.,Ltd là đơn vị phân phối Switch PoE công nghiệp ONV, Camera Sambo Hàn Quốc, Camera HUNT Taiwan … Email : info@truongsonsolutions.com 090949007
   > 来源：https://truongsonsolutions.wordpress.com/（抓取 2026-10-21）
@@ -69,9 +69,43 @@ updated: 2026-10-21
 - **【第三方（dauthau.asia）】注册信息与规模**
   > TRUONG SON SOLUTIONS AND CONTRUCTIONS COMPANY LIMITED, tax code 0315784421 … Company Establishment Date 12/07/2019 · The number of workers 5
   > 来源：https://dauthau.asia/en/businesslistings/detail/TRUONG-SON-SOLUTIONS-AND-CONTRUCTIONS-COMPANY-LIMITED-137944/（抓取 2026-10-21）
+- **【官网】ONV-IPS33054PF 规格**
+  > ONV-IPS33054PF series là dòng sản phẩm Switch PoE công nghiệp unmanaged tốc độ gigabit … 4×10/100/1000M RJ45 và 1x1000M SFP, Port 1->4 (PoE) hổ trợ chuẩn PoE IEEE802.3af/at
+  > 来源：https://truongsonsolutions.vn/san-pham/switch-poe-cong-nghiep-4-port-ips33054pf/（抓取 2020-06-13）
+- **【官网】ONV-IPS31004PF 售价**
+  > IPS31004PF Switch PoE công nghiệp 4 Port 4,159,500₫ … 4 Port RJ45 tốc độ 10/100M … 1 Port Uplink quang SC
+  > 来源：https://truongsonsolutions.vn/san-pham/ips31004pf-switch-poe-cong-nghiep-4-cong-1-sfp/（抓取 2020-06-23）
 - **KP**：—（总机/销售（官网））info@truongsonsolutions.com +84 909 490 007〔https://truongsonsolutions.vn/lien-he/〕
 - 备注：A 维持（垂直工业交换机分销 + 已回复 + 对深圳供应链开放），但规模小（5 人）；P1 = STI-288DGGPM 对位 ONV IPS33xx 系列，20% 分销档；注意它同时在推 Non-China 线，报价不提产地。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Công ty TNHH Giải pháp và Xây lắp Trường Sơn（Truong Son Solutions Co., Ltd.） |
+| 成立 | 2019 注册 |
+| 总部/地址 | Ho Chi Minh City（另河内办公室） |
+| 人数 | 5（登记） |
+| 其他 | 工业交换机垂直分销：ONV 工业 PoE 全线、PLANET（IGUP-1205AT）、3Onedata（IES5028G）、Advantech EKI、GTWave（Non-China/NDAA 卖点）、Sambo/HUNT 摄像机；站点 truongsonsolutions.vn + switchcongnghiep.com + wordpress；热线 0916.799.345 |
+
+- **业务线**：ONV 工业 PoE 交换机分销（IPS31004PF、IPS33054PF、IPS31064PF、IPS33168PFM、IPS36368PFM…）；PLANET / 3Onedata / Advantech / GTWave 工业网络；韩国/台湾摄像机
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| ONV | ONV-IPS33054PF | 工业非管理 4×GE PoE + 1 SFP | STI-144GP | https://truongsonsolutions.vn/san-pham/switch-poe-cong-nghiep-4-port-ips33054pf/（2020-06-13） |
+| ONV | ONV-IPS31004PF | 工业 4×FE PoE + 1 SC，4,159,500 VND | STI-144GP（千兆升级） | https://truongsonsolutions.vn/san-pham/ips31004pf-switch-poe-cong-nghiep-4-cong-1-sfp/（2020-06-23） |
+| ONV | ONV-IPS33168PFM | 工业管理 8 GE PoE（+SFP） | STI-288DGGPM | https://truongsonsolutions.vn/san-pham/switch-poe-cong-nghiep-4-port-ips33054pf/（2020-06） |
+| ONV | ONV-IPS36368PFM | 工业 L2+ 10G 上联 36 口（8 GE + 24 SFP + 4 SFP+） | — | https://truongsonsolutions.vn/san-pham/10g-uplink-36-port-l2-managed-industrial-poe-switch/（2020-09-20） |
+| PLANET | IGUP-1205AT | 工业 2 SFP → 1 bt 95W MC | — | https://switchcongnghiep.com/san-pham/switch-cong-nghiep-planet-igup-1205at/（2020-10-28） |
+| 3Onedata | IES5028G-8GC-4GS | 工业 16 GE + 8 combo + 4 SFP | — | https://switchcongnghiep.com/san-pham/ies5028g-8gc-4gs/（2020-09-22） |
+
+- **触达通道（公开）**：网站: https://truongsonsolutions.vn/ · https://switchcongnghiep.com/；直邮: info@truongsonsolutions.com（用户表）；电话: 0916.799.345（官网公开）
+- **近况信号**：
+  - 多品牌工业交换机垂直分销——有现成客户群与品类知识；用户表：OEM/ODM、ONV 全线引进、MaiWe
+  - GTWave 分销主打 Non-China/NDAA——同时经营中国 ONV，说明按客户分层卖
+- **风险/边界**：ONV 全线在手，Saga 为同类替代；越南不在主攻区；5 人小公司
+- **Saga 对位结论**：P1 STI-144GP（20% 档）——其最走量型 IPS33054PF/IPS31004PF（4 PoE + 1 光）= STI-144GP；IPS33168PFM = STI-288DGGPM；分销 20% 档
+- **邮件切入句（英文）**：Against your ONV-IPS33054PF and IPS33168PFM listings, the Marvell-based 4+1 and 8+2 industrial PoE units are the two I can quote at EXW today as an alternative line under your own label.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -145,7 +179,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（分销商/电商（工业交换机垂直）） |
+| **P1** | STI-144GP | 深挖对位：其最走量型 IPS33054PF/IPS31004PF（4 PoE + 1 光）= STI-144GP；IPS33168PFM = STI-288DGGPM；分销 20% 档 | $34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销商/电商（工业交换机垂直）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -154,9 +188,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-144GP），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-144GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
@@ -166,7 +200,7 @@ updated: 2026-10-21
 
 - **S**：有 1 次实质回复（对方认识我们）
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 ONV：涨价、断货或交期拉长时切入；规模（调研）：5 人（dauthau.asia 登记）
+- **O**：P1 STI-144GP 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 ONV：涨价、断货或交期拉长时切入；规模（调研）：5 人（dauthau.asia 登记）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -194,14 +228,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STI-144GP - compact industrial switch (Marvell-based, neutral label)
 
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Against your ONV-IPS33054PF and IPS33168PFM listings, the Marvell-based 4+1 and 8+2 industrial PoE units are the two I can quote at EXW today as an alternative line under your own label.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based compact industrial switch, 4x Gigabit PoE+ plus 1 SFP - model STI-144GP - that fits the same slot as your ONV ONV-IPS33054PF at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $34.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

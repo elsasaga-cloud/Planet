@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：曼谷的网络与光纤设备进口分销商：工业交换机（DIN/机架）、工业 PoE、SFP（兼容 Cisco/HPE/Aruba 等，3 年保）、MC、HDMI over fiber、光纤无源件与 ODF，提供网络工程服务。用户表：A 已回复，兴趣工业 FS / SFP / MC / 机架 / 光猫，用自己的 logo，提到中科德能。（调研 2026-10-21；表内兴趣：工业FS SFP MC 机架 光猫 自己的标   中科德能的）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/泰国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-06-16 → 2025-06-16）；最近一次客户回复：2025-06-16：2+24非管理
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：自有标工业 PoE 线：STI-288DGGPM（8+2）与 STI-144GP（4+1）为二供；MC 位 STI-110GE；分销 20% 档；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -69,6 +69,26 @@ updated: 2026-10-21
 - **KP**：—（销售（官网公开））Sale@entasource.co.th +66 87 412 2552（LINE: lin.ee/mNnxD59）〔https://www.entasource.co.th/17906637/network-service〕
 - 备注：A 确认（已回复 + 自有 logo + 工业线全品类分销）；P1 = STI-288DGGPM（工业 8 PoE 网管）+ STI-110GE（MC），20% 分销档，贴牌 30%。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | ENTA SOURCE Co., Ltd.（เอ็นต้าซอร์ส） |
+| 总部/地址 | Bangkok, Thailand |
+| 其他 | 网络与光纤设备进口分销：工业交换机（DIN/机架）、工业 PoE、兼容 SFP（3 年保）、MC、HDMI over fiber、无源件与 ODF；提供网络工程 |
+
+- **业务线**：工业交换机 / 工业 PoE（自有 logo）；兼容 SFP / MC / 光纤无源；网络工程服务
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| 中科德能（现来源，自有标） | 工业 FS / MC / 机架 | 自己的标 | STI-288DGGPM / STI-110GE | （本地 Clients/ 表格，无公开 URL）（用户表） |
+
+- **触达通道（公开）**：网站: https://www.entasource.co.th/；直邮: sale@entasource.co.th（用户表）
+- **近况信号**：
+  - 用户表：A 已回复；自有标 + 中科德能来源——贴牌采购流程成熟
+- **风险/边界**：泰国价格敏感；现来源价格低
+- **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——自有标工业 PoE 线：STI-288DGGPM（8+2）与 STI-144GP（4+1）为二供；MC 位 STI-110GE；分销 20% 档
+- **邮件切入句（英文）**：For your own-label industrial PoE range, the 8-port gigabit PoE + 2 SFP managed DIN switch on a Marvell core is the unit I would put next to your current source, and the gigabit SFP media converter follows in the same packing.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -114,7 +134,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（进口分销商（自有 logo）） |
+| **P1** | STI-288DGGPM | 深挖对位：自有标工业 PoE 线：STI-288DGGPM（8+2）与 STI-144GP（4+1）为二供；MC 位 STI-110GE；分销 20% 档 | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（进口分销商（自有 logo）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -167,9 +187,9 @@ updated: 2026-10-21
 ```text
 Hi Janejira,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. For your own-label industrial PoE range, the 8-port gigabit PoE + 2 SFP managed DIN switch on a Marvell core is the unit I would put next to your current source, and the gigabit SFP media converter follows in the same packing.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the 中科德能 class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your 中科德能（现来源，自有标） 工业 FS / MC / 机架 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

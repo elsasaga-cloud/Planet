@@ -51,5 +51,47 @@
  "grade_override": null,
  "override_reason": "",
  "notes": "入站询盘 + 年量预估（≈150 台工业 PoE）= 可追溯真实需求；集成商尺寸可赢。市政/学校项目属公共部门边缘，但 Saga 卖给集成商为商业交易，可做；不参与投标主体。P1：STI-288DGGPM（IM-FS480GW 对位：8 电 + 光口工业 PoE，核对现行型号），项目价阶 25%。邮件不回 → WA。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1（沿用首轮调研）"
+ },
+ "company_facts": {
+  "legal_name": "SMBIT Ltd",
+  "founded": "2012",
+  "hq": "Mazkeret Batya, Israel",
+  "staff": "约 14",
+  "other": "ICT 集成商（ISO）：路由交换、Ubiquiti 企业 WiFi（1 万+ AP）、毫米波、LoRa、GPON、智慧城市 EKRON；中标耶路撒冷全市毫米波网络"
+ },
+ "business_lines": [
+  "企业 WiFi / 路由交换",
+  "毫米波无线 / GPON",
+  "智慧城市平台 EKRON"
+ ],
+ "products_seen": [
+  {
+   "brand": "（询价）",
+   "model": "IM-FS480GW（用户表型号）",
+   "spec": "工业 48 口？需核对用户表型号含义",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "STC-448XGGM(L3) / STC-424XGGPM-280W（待核）"
+  }
+ ],
+ "channels": {
+  "网站": "https://smbit.co.il/",
+  "直邮": "yoav@smbit.co.il（用户表）"
+ },
+ "signals": [
+  "智慧城市/市政项目——守界：仅供商业部分；Ubiquiti 生态偏好"
+ ],
+ "risks": [
+  "以色列市政项目守界；Ubiquiti 价格锚"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 25,
+  "why": "IM-FS480GW 询价对位 48 口/10G 上联机型（STC-448XGGM(L3) 或 STC-424XGGPM-280W），需核；集成商 25% 档"
+ },
+ "email_hook": "On the IM-FS480GW enquiry, the closest Marvell-based platforms are the 24-port PoE+ with four 10G SFP+ uplinks and the 48-port L3 unit, so I am sending both datasheets with EXW pricing for you to confirm the port mix."
 }
