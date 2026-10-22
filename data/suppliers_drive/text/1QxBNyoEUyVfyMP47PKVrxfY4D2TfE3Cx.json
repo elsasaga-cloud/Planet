@@ -1,0 +1,22 @@
+{
+"id":"1QxBNyoEUyVfyMP47PKVrxfY4D2TfE3Cx",
+"name":"1.png",
+"path":"CENTEC Based High-Speed Network/STH2.5G/STH-2QX4DX48DE-HSI/1.png",
+"type":"图片",
+"bytes":9265429,
+"sha256":"44b0ed966a76097df0fa747e3868569817df4c65bff1607c957f31dd80fb2e55",
+"extracted_at":"2026-10-22T08:42:30Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":3840,
+"height":2160,
+"mode":"RGBA",
+"thumb_bytes":8571
+},
+"ocr":{
+"text":"1Av2 3Av4 SAV6 7 和 98 GAVI0 11A 12_13A 14 15 公牛 16 17A 18_19A 20 21AV22 ZAV24 25AV2 27A 28_29A 30 31A 32 33A 34 35A 36 37A 39 39 信 站 40_41 人 站 42 43 从 四 44 454 V45 47 从 下 48",
+"conf":53.6
+},
+"text":"1Av2 3Av4 SAV6 7 和 98 GAVI0 11A 12_13A 14 15 公牛 16 17A 18_19A 20 21AV22 ZAV24 25AV2 27A 28_29A 30 31A 32 33A 34 35A 36 37A 39 39 信 站 40_41 人 站 42 43 从 四 44 454 V45 47 从 下 48"
+}

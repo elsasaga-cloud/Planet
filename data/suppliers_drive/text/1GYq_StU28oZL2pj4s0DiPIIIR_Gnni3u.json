@@ -1,0 +1,22 @@
+{
+"id":"1GYq_StU28oZL2pj4s0DiPIIIR_Gnni3u",
+"name":"5.png",
+"path":"CENTEC Based High-Speed Network/STH2.5G/STH-2QX4DX48DE-HSI/5.png",
+"type":"图片",
+"bytes":8873508,
+"sha256":"ca310c8a9c29c96ba8a68fdf2fb9fefcd8fc8b022a46c1cd51fbb6d911f133aa",
+"extracted_at":"2026-10-22T08:42:35Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":3840,
+"height":2160,
+"mode":"RGBA",
+"thumb_bytes":9966
+},
+"ocr":{
+"text":"SAV6 7AVS SAVIO HAVI2 19AV14 SAVIO 17 人 了 18 19AV20 21 人 了 22 23A 24 25A 26 ZAV2Z 29 人 30_31A 32 33 从 了 34 AVI 37 从 了 38 39A 40 41A 42_43 人 44 45AY46 474 V48\n全 画 a. i A = = = ot 1 加 = 吧 區 “加計 ie\nvava AA",
+"conf":47.6
+},
+"text":"SAV6 7AVS SAVIO HAVI2 19AV14 SAVIO 17 人 了 18 19AV20 21 人 了 22 23A 24 25A 26 ZAV2Z 29 人 30_31A 32 33 从 了 34 AVI 37 从 了 38 39A 40 41A 42_43 人 44 45AY46 474 V48\n全 画 a. i A = = = ot 1 加 = 吧 區 “加計 ie\nvava AA"
+}
