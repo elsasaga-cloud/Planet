@@ -1,0 +1,22 @@
+{
+"id":"1-vcCAjLVqhlFJaIutwrbYOCFMAX2ayF4",
+"name":"IMG_20220518_154154 拷贝.png",
+"path":"SmartByte/工业管理/10G L2+ with PoE/STI-42424XGGPM/IMG_20220518_154154 拷贝.png",
+"type":"图片",
+"bytes":5244003,
+"sha256":"9aab34ab5a4f923cd3f77cebc90e0a08b11752392f8cceeb08668c8aeb18844d",
+"extracted_at":"2026-10-22T01:56:46Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":2724,
+"height":2870,
+"mode":"RGBA",
+"thumb_bytes":11356
+},
+"ocr":{
+"text":"P1 SYS ALM\nP2 USB Ring",
+"conf":91.4
+},
+"text":"P1 SYS ALM\nP2 USB Ring"
+}

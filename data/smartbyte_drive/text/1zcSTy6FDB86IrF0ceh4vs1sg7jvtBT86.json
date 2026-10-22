@@ -1,0 +1,291 @@
+{
+"id":"1zcSTy6FDB86IrF0ceh4vs1sg7jvtBT86",
+"name":"SmartByte Managed Industrial Ethernet switch  pricelist on CNY for Simon-20240227.xlsx",
+"path":"SmartByte/工业管理/SmartByte Managed Industrial Ethernet switch  pricelist on CNY for Simon-20240227.xlsx",
+"type":"Excel",
+"ext":".xlsx",
+"bytes":3158580,
+"sha256":"a8b028ae79ad960c810a4d9f519a926c25295feae88d24b2bb18a51e3dad5a0e",
+"extracted_at":"2026-10-22T01:56:08Z",
+"method":"openpyxl(values)",
+"status":"ok",
+"chars":18944,
+"meta":{
+"sheets":[
+" Managed Industrial Switches"
+],
+"embedded_images":16,
+"rows_total":33
+},
+"warnings":[],
+"text":"--- Sheet:  Managed Industrial Switches ---\nShenzhen SmartByte Technology Co.,Ltd\n                                      Address.: D Buliding,  Huiqing Science & Technology Park, Dafu Industrial Area, Kukeng Community, Guanlan,  Longhua District, Shenzhen, China\nWeb: www.smartbyte-switch.com     E-mail: peter@smartbyte.com.cn\nMobile/Wechat/Whatsapp/Skype: +8613714293521\nPicture\tSmartByte Model\tDescription & Highlight\tUnit price/RMB未税\tPoE models\tPoE model price\tPoE++\nLayer 2 Managed  Industrial Ethernet Switches Full Gigabit Series\n\tLT-IS3206F-2FX4TX\t● 4*10/100Base-T RJ45 ports, 1*100Base-X SFP ports\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Support Layer 2 management function:                                                      VLAN/Port Mirroring/STP/RSTP/IGMP/QoS/LLDP/802.1X/SFP DDM\n/PoE management/IPV6 management/Web/SNMP/Telnet/management\n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃\t260\tLT-IS3206FP-2FX4TX\t300\tNone\n\tLT-IS3206G-2GX4GT\t● 4*10/100/1000Base-T RJ45 ports, 2*100/1000Base-X SFP ports\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Support Layer 2 management function:                                                      VLAN/Port Mirroring/STP/RSTP/IGMP/QoS/LLDP/802.1X/SFP DDM\n/PoE management/IPV6 management/Web/SNMP/Telnet/management\n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃\t300\tLT-IS3206GP-2GX4GT\t340\tNone\n\tLT-IS3210G-2GX8GT\t● 8*10/100/1000Base-T RJ45 ports, 2*1000/2500Base-X SFP ports\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection\n● Support Layer 2 management function:                                                      VLAN/Port Mirroring/STP/RSTP/IGMP/QoS/LLDP/802.1X/SFP DDM\n/PoE management/IPV6 management/Web/SNMP/Telnet/management\n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃\t380\tLT-IS3210GP-2GX8T\t440\tNone\nLayer 2+ Managed  Industrial Ethernet Switches Full Gigabit Series\n\tLT-IS6306G-2GX4GT\t● 4*10/100/1000Base-T RJ45 ports, 2*1G/2.5GBase-X SFP ports\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection                                                                                  ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃\t580\tLT-IS6306GP-2GX4GT\t640\tLT-IS6306GP-2GX4GT-2BT(1-2 ports support PoE++), the unit price is 740 RMB未税\n\tLT-IS6310G-2GX8GT\t●8*10/100/1000Base-T RJ45 ports, 2*1G/2.5GBase-X SFP slots\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection                                                                         ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃\t620\tLT-IS6310GP-2GX8GT\t700\tLT-IS6310GP-2GX8GT-2BT(1-2 ports support PoE++), the unit price is 800 RMB未税\n\tLT-IS6312G-4GX8GT\t●8*10/100/1000Base-T RJ45 ports, 4*1G/2.5GBase-X SFP slots\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection                                                                                    ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃\t680\tLT-IS6312GP-4GX8GT\t760\tLT-IS6312GP-4GX8GT-2BT(1-2 ports support PoE++), the unit price is 860RMB未税\n\tLT-IS6316G-8GX8GT\t●8*10/100/1000Base-T RJ45 ports, 4*100/1000M SFP, 4*1G/2.5G SFP\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection \n●Support one output relay alarm                                                                       ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃\t1100\tLT-IS6316GP-8GX8GT\t1180\tNone\n\tLT-IS6318G-2GX16GT\t●16*10/100/1000Base-T RJ45 ports, 2*1G/2.5GBase-X SFP slots\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection\n●Support one output relay alarm                                                                                   ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃\t1100\tLT-IS6318GP-2GX16GT\t1260\tNone\n\tLT-IS6328G-4GX24GT\t●24*10/100/1000Base-T RJ45 ports, 4*1G/2.5GBase-X SFP slots\n● DC 12~75V input, redundant power supply with polarity reverse/over-voltage/over-current protection\n● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+80℃\t1660\tLT-IS6328GP-4GX24GT\t1900\tLT-IS6228GP-4GX24GT-4BT(1-4 ports support PoE++), the unit price is 2100 RMB未税\n\tLT-IS6328G-4GX24GT-U\t●24*10/100/1000Base-T RJ45 ports, 4*1G/2.5GBase-X SFP slots\n● AC/DC redundant power supply with polarity reverse/over-voltage/over-current protection\n● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and rack-mount hardware design\n● Operation temperature: -40 ℃ ~+75℃\t1800\tLT-IS6328GP-4GX24GT-U\t2100\tLT-IS6328GP-4GX24GT-U-2BT(1-2 ports support PoE++), the unit price is 2200 RMB未税\n\tLT-IS6328G-20GX8GC\t●16*100/1000Base-X SFP slots, 8*1000Base Combo, 4*1G/2.5G SFP slots\n● AC/DC redundant power supply with polarity reverse/over-voltage/over-current protection\n● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and rack-mount hardware design\n● Operation temperature: -40 ℃ ~+ 75℃\t2350\tNone\tNone\tNone\nLayer 2+ Managed  Industrial Ethernet Switches with 10G Uplink Series\n\tLT-IS6312XG-4XS8GT\t●8*10/100/1000Base-T RJ45 ports, 4*1G/2.5G/10GBase-X SFP+ slots\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection\n●Support one output relay alarm                                                                              ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃\t1300\tLT-IS6212XGP-4XS8GT\t1380\tNone\n\tLT-IS6316XG-4XS4GX8GT\t●8*10/100/1000Base-T RJ45 ports, 4*1000Base-X SFP, 4*1G/2.5G/10GBase-X SFP+ slots\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection\n●Support one output relay alarm                                                                       ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃\t1400\tLT-IS6316XGP-4XS4GX8GT\t1480\tNone\tL3 1900\n\tLT-IS6318XG-2XS16GT\t●16*10/100/1000Base-T RJ45 ports, 2*1G/2.5G/10GBase-X SFP+ slots\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection\n●Support one output relay alarm                                                                      ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃\t1500\tLT-IS6318XGP-2XS16GT\t1660\tNone\n\tLT-IS6320XG-4XS8GX8GT\t●8*10/100/1000Base-T RJ45 ports, 8*100/1000Base-X SFP, 4*1G/2.5G/10GBase-X SFP+ slots\n● DC 12~75V input, redundant power supply with polarity reverse/over-voltage/over-current protection\n● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+ 80℃\t1780\tNone\tNone\tNone\n\tLT-IS6328XG-4XS24GT\t●24*10/100/1000Base-T RJ45 ports, 4*1G/2.5G/10GBase-X SFP+ slots\n● DC 12~75V input, redundant power supply with polarity reverse/over-voltage/over-current protection                                                                                     ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+80℃\t1960\tLT-IS6328XGP-4XS24GT\t2200\tLT-IS6328XGP-4XS24GT-4BT(1-4 ports support PoE++), the unit price is 2400 RMB未税\n\tLT-IS6328XG-4XS24GT-U\t●24*10/100/1000Base-T RJ45 ports, 4*1G/2.5G/10GBase-X SFP slots\n● AC/DC redundant power supply with polarity reverse/over-voltage/over-current protection\n● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and rack-mount hardware design\n● Operation temperature: -40 ℃ ~+75℃\t2100\tLT-IS6328XGP-4XS24GT-U\t2400\tLT-IS6328XGP-4XS24GT-U-2BT(1-2 ports support PoE++), the unit price is 2500 RMB未税\n\tLT-IS6328XG-4XS16GX8GC\t●16*100/1000Base-X SFP slots, 8*1000Base Combo, 4*1G/2.5G/10G Base-X SFP+ slots\n● AC/DC redundant power supply with polarity reverse/over-voltage/over-current protection\n● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+ 75℃\t2650\tNone\tNone\tNone\nL3 Managed Industrial Ethernet Switch with 10G uplink series\t\tL3 Managed Industrial Ethernet Switch\n\tLT-IS6516XG-4XS4GX8GT\tIndustrial L3,  8*10/100/1000Base-T RJ45,4*100/1000Base-X SFP, 4*1G/2.5G/10G SFP+\t1900\tLT-IS6516XGP-4XS4GX8GT\t1980\n\tLT-IS6518XG-2XS16GT\tIndustrial L3,  16*10/100/1000Base-T RJ45, 2*1G/2.5G/10G SFP+\t2000\tLT-IS6518XGP-2XS16GT\t2160\n\tLT-IS6520XG-4XS8GX8GT\tIndustrial L3,  8*10/100/1000Base-T RJ45, 8*100/1000Base-X SFP, 4*1G/2.5G/10G SFP+\t2280\tNone\n\tLT-IS6520XG-4XS16GT\tIndustrial L3,  16*10/100/1000Base-T RJ45, 4*1G/2.5G/10G SFP+\t2350\tLT-IS6520XGP-4XS16GT\t2510\tLT-IS6520XGP-4XS16GT-4BT, 2710 RMB\n\tLT-IS6528XG-4XS24GT\tIndustrial L3,  24*10/100/1000Base-T RJ45, 4*1G/2.5G/10G SFP+\t2460\tLT-IS6528XGP-4XS24GT\t2700\tLT-IS6528XGP-4XS24GT-4BT, 2900 RMB\n\tLT-IS6528XG-4XS24GT-U\tIndustrial L3,  24*10/100/1000Base-T RJ45, 4*1G/2.5G/10G SFP+, rack-mount\t2600\tLT-IS6528XGP-4XS24GT-U\t2900\tLT-IS6528XGP-4XS24GT-U-2BT, 3000 RMB\n\tLT-IS6528XG-4XS16GT8GC-U\tIndustrial L3,  16*10/100/1000Base-T RJ45, 8*gigabit Combo, 4*1G/2.5G/10G SFP+, rack-mount\t2900\tLT-IS6528XGP-4XS16GT8GC-U\t3060\tLT-IS6528XGP-4XS16GT8GC-U-2BT, 3160 RMB\n\tLT-IS6528XG-4XS16GX8GC-U\tIndustrial L3,  16*100/1000Base-X SFP, 8*gigabit Combo, 4*1G/2.5G/10G SFP+, rack-mount\t3100\tNone\n\tLT-IS6552XG-4XS48GT-U\tIndustrial L3,  48*10/100/1000Base-T RJ45, 4*1G/2.5G/10G SFP+, rack-mount\t4500\tNone",
+"sheets":{
+" Managed Industrial Switches":{
+"state":"visible",
+"rows":[
+[
+"Shenzhen SmartByte Technology Co.,Ltd\n                                      Address.: D Buliding,  Huiqing Science & Technology Park, Dafu Industrial Area, Kukeng Community, Guanlan,  Longhua District, Shenzhen, China\nWeb: www.smartbyte-switch.com     E-mail: peter@smartbyte.com.cn\nMobile/Wechat/Whatsapp/Skype: +8613714293521"
+],
+[
+"Picture",
+"SmartByte Model",
+"Description & Highlight",
+"Unit price/RMB未税",
+"PoE models",
+"PoE model price",
+"PoE++"
+],
+[
+"Layer 2 Managed  Industrial Ethernet Switches Full Gigabit Series"
+],
+[
+"",
+"LT-IS3206F-2FX4TX",
+"● 4*10/100Base-T RJ45 ports, 1*100Base-X SFP ports\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Support Layer 2 management function:                                                      VLAN/Port Mirroring/STP/RSTP/IGMP/QoS/LLDP/802.1X/SFP DDM\n/PoE management/IPV6 management/Web/SNMP/Telnet/management\n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃",
+"260",
+"LT-IS3206FP-2FX4TX",
+"300",
+"None"
+],
+[
+"",
+"LT-IS3206G-2GX4GT",
+"● 4*10/100/1000Base-T RJ45 ports, 2*100/1000Base-X SFP ports\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Support Layer 2 management function:                                                      VLAN/Port Mirroring/STP/RSTP/IGMP/QoS/LLDP/802.1X/SFP DDM\n/PoE management/IPV6 management/Web/SNMP/Telnet/management\n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃",
+"300",
+"LT-IS3206GP-2GX4GT",
+"340",
+"None"
+],
+[
+"",
+"LT-IS3210G-2GX8GT",
+"● 8*10/100/1000Base-T RJ45 ports, 2*1000/2500Base-X SFP ports\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection\n● Support Layer 2 management function:                                                      VLAN/Port Mirroring/STP/RSTP/IGMP/QoS/LLDP/802.1X/SFP DDM\n/PoE management/IPV6 management/Web/SNMP/Telnet/management\n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃",
+"380",
+"LT-IS3210GP-2GX8T",
+"440",
+"None"
+],
+[
+"Layer 2+ Managed  Industrial Ethernet Switches Full Gigabit Series"
+],
+[
+"",
+"LT-IS6306G-2GX4GT",
+"● 4*10/100/1000Base-T RJ45 ports, 2*1G/2.5GBase-X SFP ports\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection                                                                                  ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃",
+"580",
+"LT-IS6306GP-2GX4GT",
+"640",
+"LT-IS6306GP-2GX4GT-2BT(1-2 ports support PoE++), the unit price is 740 RMB未税"
+],
+[
+"",
+"LT-IS6310G-2GX8GT",
+"●8*10/100/1000Base-T RJ45 ports, 2*1G/2.5GBase-X SFP slots\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection                                                                         ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃",
+"620",
+"LT-IS6310GP-2GX8GT",
+"700",
+"LT-IS6310GP-2GX8GT-2BT(1-2 ports support PoE++), the unit price is 800 RMB未税"
+],
+[
+"",
+"LT-IS6312G-4GX8GT",
+"●8*10/100/1000Base-T RJ45 ports, 4*1G/2.5GBase-X SFP slots\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection                                                                                    ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃",
+"680",
+"LT-IS6312GP-4GX8GT",
+"760",
+"LT-IS6312GP-4GX8GT-2BT(1-2 ports support PoE++), the unit price is 860RMB未税"
+],
+[
+"",
+"LT-IS6316G-8GX8GT",
+"●8*10/100/1000Base-T RJ45 ports, 4*100/1000M SFP, 4*1G/2.5G SFP\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection \n●Support one output relay alarm                                                                       ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃",
+"1100",
+"LT-IS6316GP-8GX8GT",
+"1180",
+"None"
+],
+[
+"",
+"LT-IS6318G-2GX16GT",
+"●16*10/100/1000Base-T RJ45 ports, 2*1G/2.5GBase-X SFP slots\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection\n●Support one output relay alarm                                                                                   ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃",
+"1100",
+"LT-IS6318GP-2GX16GT",
+"1260",
+"None"
+],
+[
+"",
+"LT-IS6328G-4GX24GT",
+"●24*10/100/1000Base-T RJ45 ports, 4*1G/2.5GBase-X SFP slots\n● DC 12~75V input, redundant power supply with polarity reverse/over-voltage/over-current protection\n● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+80℃",
+"1660",
+"LT-IS6328GP-4GX24GT",
+"1900",
+"LT-IS6228GP-4GX24GT-4BT(1-4 ports support PoE++), the unit price is 2100 RMB未税"
+],
+[
+"",
+"LT-IS6328G-4GX24GT-U",
+"●24*10/100/1000Base-T RJ45 ports, 4*1G/2.5GBase-X SFP slots\n● AC/DC redundant power supply with polarity reverse/over-voltage/over-current protection\n● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and rack-mount hardware design\n● Operation temperature: -40 ℃ ~+75℃",
+"1800",
+"LT-IS6328GP-4GX24GT-U",
+"2100",
+"LT-IS6328GP-4GX24GT-U-2BT(1-2 ports support PoE++), the unit price is 2200 RMB未税"
+],
+[
+"",
+"LT-IS6328G-20GX8GC",
+"●16*100/1000Base-X SFP slots, 8*1000Base Combo, 4*1G/2.5G SFP slots\n● AC/DC redundant power supply with polarity reverse/over-voltage/over-current protection\n● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and rack-mount hardware design\n● Operation temperature: -40 ℃ ~+ 75℃",
+"2350",
+"None",
+"None",
+"None"
+],
+[
+"Layer 2+ Managed  Industrial Ethernet Switches with 10G Uplink Series"
+],
+[
+"",
+"LT-IS6312XG-4XS8GT",
+"●8*10/100/1000Base-T RJ45 ports, 4*1G/2.5G/10GBase-X SFP+ slots\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection\n●Support one output relay alarm                                                                              ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃",
+"1300",
+"LT-IS6212XGP-4XS8GT",
+"1380",
+"None"
+],
+[
+"",
+"LT-IS6316XG-4XS4GX8GT",
+"●8*10/100/1000Base-T RJ45 ports, 4*1000Base-X SFP, 4*1G/2.5G/10GBase-X SFP+ slots\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection\n●Support one output relay alarm                                                                       ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃",
+"1400",
+"LT-IS6316XGP-4XS4GX8GT",
+"1480",
+"None",
+"L3 1900"
+],
+[
+"",
+"LT-IS6318XG-2XS16GT",
+"●16*10/100/1000Base-T RJ45 ports, 2*1G/2.5G/10GBase-X SFP+ slots\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection\n●Support one output relay alarm                                                                      ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃",
+"1500",
+"LT-IS6318XGP-2XS16GT",
+"1660",
+"None"
+],
+[
+"",
+"LT-IS6320XG-4XS8GX8GT",
+"●8*10/100/1000Base-T RJ45 ports, 8*100/1000Base-X SFP, 4*1G/2.5G/10GBase-X SFP+ slots\n● DC 12~75V input, redundant power supply with polarity reverse/over-voltage/over-current protection\n● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+ 80℃",
+"1780",
+"None",
+"None",
+"None"
+],
+[
+"",
+"LT-IS6328XG-4XS24GT",
+"●24*10/100/1000Base-T RJ45 ports, 4*1G/2.5G/10GBase-X SFP+ slots\n● DC 12~75V input, redundant power supply with polarity reverse/over-voltage/over-current protection                                                                                     ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+80℃",
+"1960",
+"LT-IS6328XGP-4XS24GT",
+"2200",
+"LT-IS6328XGP-4XS24GT-4BT(1-4 ports support PoE++), the unit price is 2400 RMB未税"
+],
+[
+"",
+"LT-IS6328XG-4XS24GT-U",
+"●24*10/100/1000Base-T RJ45 ports, 4*1G/2.5G/10GBase-X SFP slots\n● AC/DC redundant power supply with polarity reverse/over-voltage/over-current protection\n● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and rack-mount hardware design\n● Operation temperature: -40 ℃ ~+75℃",
+"2100",
+"LT-IS6328XGP-4XS24GT-U",
+"2400",
+"LT-IS6328XGP-4XS24GT-U-2BT(1-2 ports support PoE++), the unit price is 2500 RMB未税"
+],
+[
+"",
+"LT-IS6328XG-4XS16GX8GC",
+"●16*100/1000Base-X SFP slots, 8*1000Base Combo, 4*1G/2.5G/10G Base-X SFP+ slots\n● AC/DC redundant power supply with polarity reverse/over-voltage/over-current protection\n● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+ 75℃",
+"2650",
+"None",
+"None",
+"None"
+],
+[
+"L3 Managed Industrial Ethernet Switch with 10G uplink series",
+"",
+"L3 Managed Industrial Ethernet Switch"
+],
+[
+"",
+"LT-IS6516XG-4XS4GX8GT",
+"Industrial L3,  8*10/100/1000Base-T RJ45,4*100/1000Base-X SFP, 4*1G/2.5G/10G SFP+",
+"1900",
+"LT-IS6516XGP-4XS4GX8GT",
+"1980"
+],
+[
+"",
+"LT-IS6518XG-2XS16GT",
+"Industrial L3,  16*10/100/1000Base-T RJ45, 2*1G/2.5G/10G SFP+",
+"2000",
+"LT-IS6518XGP-2XS16GT",
+"2160"
+],
+[
+"",
+"LT-IS6520XG-4XS8GX8GT",
+"Industrial L3,  8*10/100/1000Base-T RJ45, 8*100/1000Base-X SFP, 4*1G/2.5G/10G SFP+",
+"2280",
+"None"
+],
+[
+"",
+"LT-IS6520XG-4XS16GT",
+"Industrial L3,  16*10/100/1000Base-T RJ45, 4*1G/2.5G/10G SFP+",
+"2350",
+"LT-IS6520XGP-4XS16GT",
+"2510",
+"LT-IS6520XGP-4XS16GT-4BT, 2710 RMB"
+],
+[
+"",
+"LT-IS6528XG-4XS24GT",
+"Industrial L3,  24*10/100/1000Base-T RJ45, 4*1G/2.5G/10G SFP+",
+"2460",
+"LT-IS6528XGP-4XS24GT",
+"2700",
+"LT-IS6528XGP-4XS24GT-4BT, 2900 RMB"
+],
+[
+"",
+"LT-IS6528XG-4XS24GT-U",
+"Industrial L3,  24*10/100/1000Base-T RJ45, 4*1G/2.5G/10G SFP+, rack-mount",
+"2600",
+"LT-IS6528XGP-4XS24GT-U",
+"2900",
+"LT-IS6528XGP-4XS24GT-U-2BT, 3000 RMB"
+],
+[
+"",
+"LT-IS6528XG-4XS16GT8GC-U",
+"Industrial L3,  16*10/100/1000Base-T RJ45, 8*gigabit Combo, 4*1G/2.5G/10G SFP+, rack-mount",
+"2900",
+"LT-IS6528XGP-4XS16GT8GC-U",
+"3060",
+"LT-IS6528XGP-4XS16GT8GC-U-2BT, 3160 RMB"
+],
+[
+"",
+"LT-IS6528XG-4XS16GX8GC-U",
+"Industrial L3,  16*100/1000Base-X SFP, 8*gigabit Combo, 4*1G/2.5G/10G SFP+, rack-mount",
+"3100",
+"None"
+],
+[
+"",
+"LT-IS6552XG-4XS48GT-U",
+"Industrial L3,  48*10/100/1000Base-T RJ45, 4*1G/2.5G/10G SFP+, rack-mount",
+"4500",
+"None"
+]
+]
+}
+}
+}

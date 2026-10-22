@@ -1,0 +1,619 @@
+{
+"id":"1QgEHc6k80UAE33PBZlyEAzFPSrDu_vIV",
+"name":"LT-IS6516XG-4XS4GX8GT neutral datasheet.docx",
+"path":"SmartByte/工业管理/源信息/Managed industrial Ethernet Switches/Layer 3/LT-IS6516XG-4XS4GX8GT/LT-IS6516XG-4XS4GX8GT neutral datasheet.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":328508,
+"sha256":"f257cda5b614c10fa8721bf7bd827b45f1d7d4fcc175a6a2fe93b9e2c24c4ac2",
+"extracted_at":"2026-10-22T01:56:19Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":8567,
+"meta":{
+"title":"",
+"author":"雙燕飛",
+"last_modified_by":"peter hu",
+"created":"2021-12-06T02:50:00+00:00",
+"modified":"2024-02-14T14:31:50+00:00",
+"paragraphs":22,
+"tables":2,
+"embedded_images":3
+},
+"warnings":[],
+"text":"8*10/100/1000Base-T+ 4*100/1000Base-X SFP\n+ 4*1G/2.5G/10GBase-X SFP+\nL3 Managed Industrial Ethernet Switch\nLT-IS6516XG-4XS4GX8GT\nFeatures:\n➢ 8*10/100/1000Base-T RJ45, 4*100/1000Base-X SFP, 4*1G/2.5G/10GBase-X SFP+\n➢ Redundant power 12-58V input with polarity reverse/over-voltage/over-current protection\n➢ Support one digital output for relay alarm (terminal block Pin 5/6)\n➢  Layer 3 features: Supports static and dynamic routing, RIP, OSPF, BGP4,ECMP, VRRP\n➢  Support Layer 2 management function: VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP\nDDM/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading\n➢ Support G.8032 ERPS protocol, recovery time ≤20ms\n➢ Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n➢ IP40 fan-less and Din-rail hardware design\n➢ Operation temperature: -40 ℃ ~+75℃\nOverview\nThe SmartByte LT-IS6516XG-4XS4GX8GT is the highly reliable layer 3 managed industrial Ethernet switches with 8-port 10/100/1000-T RJ45, 4-port 100/1000Base-X SFP and 4-port 1G/2.5G/10GBase-X SFP+ interfaces. It supports ERPS redundant network and the self-recovery mechanism is less than 20ms on full load which allows you to scheme a reliable Ethernet network by building a redundant ring topology as your back-up solution. LT-IS6516XG-4XS4GX8GT supports Layer 3 static routing & dynamic routing features and robust layer 2 management function, which can fulfill the special needs of industrial automation applications.\nLT-IS6516XG-4XS4GX8GT is also high cost-effective easy-to-use device, which provides essential industrial Ethernet networking function, including wide range power input 12-58VDC, redundant power design with polarity reverse/over-voltage/over-current protection, robust IP40 fan-less housing with Din-rail installation, wide operation temperature from -40°C to 75°C as well as high-level EMI/EMC capability. It is the best choice for heavy industrial factory, transportation, oil & gas, chemical, IP Surveillance and processing automation area where environmental conditions are harsh and critical.\nTechnical specification\nModel No.\tLT-IS6516XG-4XS4GX8GT\nInterface\tFiber ports\tCopper RJ45 ports\nInterface\t8\t8\nEthernet\t8*10/100/1000Base-T RJ45 / 4*100/1000Base-X SFP    （13-16 ports) / 4*1G/2.5G/10GBase-X SFP+  (9-12 ports)\nManagement port\t1*RJ45 Console port (115200,8,N,1)\nAlarm port\tOne digital output for relay alarm, alarm relay current carry ability: 1A@24VDC\nStandard\tIEEE 802.3 10Base-T Ethernet / IEEE 802.3u 100Base-TX Ethernet / IEEE 802.3ab 1000Base-T Ethernet / IEEE 802.3z 1000Base-X Ethernet / IEEE802.3x Flow Control and Back Pressure / IEEE 802.1D Spanning Tree Protocol / IEEE 802.1w Rapid Spanning Tree Protocol / IEEE 802.1Q VLAN / ITU-T G.8032 ERPS / IEEE 802.1X Port Authentication Network Control / IEEE 802.1ab LLDP / IEEE 802.3ad LACP\nLED Indicators\nP (Power indicator)\tOff: the device is power off or failed\tOn: the device power on is normal\nS (System status indicator)\tBlinking: device initialization\tOn: device on normal operation\n1-8 (Copper ports indicators) Green\tOff: ports link down\n1-8 (Copper ports indicators) Green\tOn: ports link up\n1-8 (Copper ports indicators) Green\tBlinking: data on TX/RX\n1-8 (Port speed indicators) Yellow\tOff: ports on 10/100M\n1-8 (Port speed indicators) Yellow\tOn: ports on 1000M\n9-16 (Fiber ports indicators) Green\tOff: ports link down\n9-16 (Fiber ports indicators) Green\tOn: ports link up\n9-16 (Fiber ports indicators) Green\tBlinking: data on TX/RX\nPower parameter\nInput voltage\t12-58V DC, redundant power input\nInput current\t1.6A Max\nTotal power consumption\tFull loading ≤20W\nConnector\tRemovable 6-pin terminal block, Pin 5/6 for relay alarm output\nReverse polarity protection\tSupport\nOver-voltage protection\tSupport\nOver-current protection\tSupport\nLayer 2 functions\nPort aggregation\tSupport GE port aggregation / Support 2.5GE aggregation / Support 10GE aggregation / Support static aggregation / Support LACP dynamic aggregation / Up to 64 aggregation groups and up to 8 ports per group\nPort features\tSupport IEEE802.3x flow control, / Support interface counters, / Support port isolation, / Port mirroring ( One-to-One, Many-to-One) / Support loop detection(Port-based; VLAN-based) / Support broadcast storm suppression(broadcast; unknown multicast; unknown unicast)\nMac-address table management\tSupport static Mac-address management / Support dynamic Mac-address Management / Support filtering Mac-address / Support MAC limit based on port and VLAN / Support MAC flapping based on port and VLAN\nVLAN\tSupport access mode / Support trunk mode / Support hybrid mode\nVLAN classification\tMac Based VLAN / IP Based VLAN / Protocol Based VLAN\nGVRP\tNormal mode / Fixed mode / Forbidden mode\nQinQ\tPort-based QinQ / VLAN-based QinQ (VLAN-stacking; VLAN-mapping) / Flow-based QinQ\nLLDP\tLLDP (Link Layer Discovery Protocol)\nRing network protocol\tSupport IEEE802.1D-STP / Support IEEE802.1W-RSTP / Support IEEE802.1S-MSTP\nRing network protocol\tSupport G.8032 ERPS protocol，single ring, sub Ring and major ring / Recovery time ≤20ms\nL2 Multicast\nIGMP snooping\tSupport IGMP snooping\nGroup address\tSupport group address\nSecurity functions\nACL\tIP Standard ACL / MAC extend ACL / IP extend ACL / IPv6 ACL\nQoS\tSupport QoS Class, remarking / Support SP, WRR queue scheduling / Ingress port-based rate-limit / Egress port-based rate-limit / Support policy-based QoS\n802.1x\tPort access control / Mac-address access control / RADIUS server\nPort-security\tPort-security\nIP source guard\tIP Port/MAC binding\nARP-check\tSupport ARP-check and ARP packet filtering for illegal users\nAccess control\tSupport Telnet/SSH/HTTP/HTTPS user access control\nManagement & Maintenance functions\nUser Management\tSupport password protection / Support user authorization management\nSNMP\tSupporting SNMP V1/V2C/V3 version\nWeb Management\tWeb Management / Support HTTP V1.1 / Support HTTPS\nCLI management\tConsole/Telnet command line management\nRMON\tSupport RMON(Remote Monitoring) alarm\nFirmware upgrade\tFirmware upgrade\nFault Detection\tPing/Tracerout / Dying gasp / Support optical transceiver DDM function\nCable detection\tSupport copper port cable detection\nNTP\tNetwork Time Protocol\nSyslog/Debug\tSyslog/Debug / Syslog send to two servers\nConfiguration import/export\tSupport FTP/TFTP remote import/export\nDual partition management\tSupport dual partition switching\nApplication Protocol Functions\nDHCP Snooping\tDHCP snooping trust port / Support remote-id/circuit-id configuration / DHCP option-82\nDHCP client\tSupport DHCP client\nTelnet server\tSupport telnet server\nTelnet client\tSupport telnet client\nSSH server\tSupport SSH server\nTACACS\tSupport TACACS(the terminal access controller accesses the control system)\nsflow\tSupport network traffic analysis\nTFTP\tSupport TFTP Client\nLayer 3 functions\nARP\tARP table aging\nDHCP server\nIPv4 / IPv6\tstatic routing\nECMP\tSupport ECMP (Equal-cost multi-path routing)\nECMP\tSupport the configuration of ECMP Max next-hop\nECMP\tSupport capacity balanced configuration\nRoute policy\tIPv4 prefix-list\nVRRP\tVirtual Router Redundancy Protocol\nRouting Protocol Specification\nRIP\tRIPv1/v2\nOSPFv2\tOSPFv2\nBGP4\tBGP4\nBGP4\tBGP Support Routing Recursive ECMP\nBGP4\tSupport to view the number of neighbors and up/down state\nIS-IS\tIS-ISv4\nRouting entry\t13K\nSwitching features\nSwitching capacity\t104Gbps\nPacket forwarding rate\t154.7Mpps\nMAC address table\t16K\nVLAN\t4K\nBuffer\t12Mbit\nForwarding delay\t<5us\nJumbo Frame\tSupport 10Kbytes\nMDX/MIDX\tSupport\nWatchdog\tSupport\nMechanical structure\nCase protection\tIP40\nInstallation method\tDin-rail\nDimension(W*D*H)mm\t54*115*158mm\nWeight\t1.45 kg\nOperating environment\nOperating temperature\t-40℃~+75℃\nStorage/transportation temperature\t-40℃~+85℃\nRelative humidity\tOperation humidity: 10%-90%RH / Storage humidity: 5%-95%RH\nIndustrial Standard\nEMS\tSurge protection of power: IEC 61000-4-5  6KV/4KV（8/20us） / Surge protection of Ethernet ports: IEC 61000-4-5  6KV/2KV（10/700us） / RS：IEC 61000-4-3 80 MHz-1 GHz：10 V/m / EFT：IEC 61000-4-4  4K/2K / CS：IEC 61000-4-6 10V / ESD：IEC 61000-4-2  Contact: 8K；Air: 15K\nEMI\tFCC Part 15B Class A\nShock\tIEC 60068-2-27\nFree fall\tIEC 60068-2-32\nVibration\tIEC 60068-2-6\nCertification\tCCC/CE/UKCA/RoHS/REACH/FCC\nMTBF\t＞200,000 hours\nWarranty\t5 years\nStructure diagram\nOrder information\nModel\tDescription\nLT-IS6516XG-4XS4GX8GT\tL3 Managed industrial Ethernet switch with 8*10/100/1000Base-T RJ45 ports, 4*100/1000Base-X SFP and 4*1G/2.5G/10GBase-X SFP+ slots, DC12-58V input, redundant dual power supply, Din-rail installation. Operation temperature: -40℃～+75℃",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"8*10/100/1000Base-T+ 4*100/1000Base-X SFP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"+ 4*1G/2.5G/10GBase-X SFP+"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"L3 Managed Industrial Ethernet Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LT-IS6516XG-4XS4GX8GT"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Features:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ 8*10/100/1000Base-T RJ45, 4*100/1000Base-X SFP, 4*1G/2.5G/10GBase-X SFP+"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Redundant power 12-58V input with polarity reverse/over-voltage/over-current protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Support one digital output for relay alarm (terminal block Pin 5/6)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  Layer 3 features: Supports static and dynamic routing, RIP, OSPF, BGP4,ECMP, VRRP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  Support Layer 2 management function: VLAN/VLAN Classification/QinQ/STP, RSTP,"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DDM/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Support G.8032 ERPS protocol, recovery time ≤20ms"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ IP40 fan-less and Din-rail hardware design"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Operation temperature: -40 ℃ ~+75℃"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Overview"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The SmartByte LT-IS6516XG-4XS4GX8GT is the highly reliable layer 3 managed industrial Ethernet switches with 8-port 10/100/1000-T RJ45, 4-port 100/1000Base-X SFP and 4-port 1G/2.5G/10GBase-X SFP+ interfaces. It supports ERPS redundant network and the self-recovery mechanism is less than 20ms on full load which allows you to scheme a reliable Ethernet network by building a redundant ring topology as your back-up solution. LT-IS6516XG-4XS4GX8GT supports Layer 3 static routing & dynamic routing features and robust layer 2 management function, which can fulfill the special needs of industrial automation applications."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LT-IS6516XG-4XS4GX8GT is also high cost-effective easy-to-use device, which provides essential industrial Ethernet networking function, including wide range power input 12-58VDC, redundant power design with polarity reverse/over-voltage/over-current protection, robust IP40 fan-less housing with Din-rail installation, wide operation temperature from -40°C to 75°C as well as high-level EMI/EMC capability. It is the best choice for heavy industrial factory, transportation, oil & gas, chemical, IP Surveillance and processing automation area where environmental conditions are harsh and critical."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Technical specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model No.",
+"LT-IS6516XG-4XS4GX8GT"
+],
+[
+"Interface",
+"Fiber ports",
+"Copper RJ45 ports"
+],
+[
+"Interface",
+"8",
+"8"
+],
+[
+"Ethernet",
+"8*10/100/1000Base-T RJ45 / 4*100/1000Base-X SFP    （13-16 ports) / 4*1G/2.5G/10GBase-X SFP+  (9-12 ports)"
+],
+[
+"Management port",
+"1*RJ45 Console port (115200,8,N,1)"
+],
+[
+"Alarm port",
+"One digital output for relay alarm, alarm relay current carry ability: 1A@24VDC"
+],
+[
+"Standard",
+"IEEE 802.3 10Base-T Ethernet / IEEE 802.3u 100Base-TX Ethernet / IEEE 802.3ab 1000Base-T Ethernet / IEEE 802.3z 1000Base-X Ethernet / IEEE802.3x Flow Control and Back Pressure / IEEE 802.1D Spanning Tree Protocol / IEEE 802.1w Rapid Spanning Tree Protocol / IEEE 802.1Q VLAN / ITU-T G.8032 ERPS / IEEE 802.1X Port Authentication Network Control / IEEE 802.1ab LLDP / IEEE 802.3ad LACP"
+],
+[
+"LED Indicators"
+],
+[
+"P (Power indicator)",
+"Off: the device is power off or failed",
+"On: the device power on is normal"
+],
+[
+"S (System status indicator)",
+"Blinking: device initialization",
+"On: device on normal operation"
+],
+[
+"1-8 (Copper ports indicators) Green",
+"Off: ports link down"
+],
+[
+"1-8 (Copper ports indicators) Green",
+"On: ports link up"
+],
+[
+"1-8 (Copper ports indicators) Green",
+"Blinking: data on TX/RX"
+],
+[
+"1-8 (Port speed indicators) Yellow",
+"Off: ports on 10/100M"
+],
+[
+"1-8 (Port speed indicators) Yellow",
+"On: ports on 1000M"
+],
+[
+"9-16 (Fiber ports indicators) Green",
+"Off: ports link down"
+],
+[
+"9-16 (Fiber ports indicators) Green",
+"On: ports link up"
+],
+[
+"9-16 (Fiber ports indicators) Green",
+"Blinking: data on TX/RX"
+],
+[
+"Power parameter"
+],
+[
+"Input voltage",
+"12-58V DC, redundant power input"
+],
+[
+"Input current",
+"1.6A Max"
+],
+[
+"Total power consumption",
+"Full loading ≤20W"
+],
+[
+"Connector",
+"Removable 6-pin terminal block, Pin 5/6 for relay alarm output"
+],
+[
+"Reverse polarity protection",
+"Support"
+],
+[
+"Over-voltage protection",
+"Support"
+],
+[
+"Over-current protection",
+"Support"
+],
+[
+"Layer 2 functions"
+],
+[
+"Port aggregation",
+"Support GE port aggregation / Support 2.5GE aggregation / Support 10GE aggregation / Support static aggregation / Support LACP dynamic aggregation / Up to 64 aggregation groups and up to 8 ports per group"
+],
+[
+"Port features",
+"Support IEEE802.3x flow control, / Support interface counters, / Support port isolation, / Port mirroring ( One-to-One, Many-to-One) / Support loop detection(Port-based; VLAN-based) / Support broadcast storm suppression(broadcast; unknown multicast; unknown unicast)"
+],
+[
+"Mac-address table management",
+"Support static Mac-address management / Support dynamic Mac-address Management / Support filtering Mac-address / Support MAC limit based on port and VLAN / Support MAC flapping based on port and VLAN"
+],
+[
+"VLAN",
+"Support access mode / Support trunk mode / Support hybrid mode"
+],
+[
+"VLAN classification",
+"Mac Based VLAN / IP Based VLAN / Protocol Based VLAN"
+],
+[
+"GVRP",
+"Normal mode / Fixed mode / Forbidden mode"
+],
+[
+"QinQ",
+"Port-based QinQ / VLAN-based QinQ (VLAN-stacking; VLAN-mapping) / Flow-based QinQ"
+],
+[
+"LLDP",
+"LLDP (Link Layer Discovery Protocol)"
+],
+[
+"Ring network protocol",
+"Support IEEE802.1D-STP / Support IEEE802.1W-RSTP / Support IEEE802.1S-MSTP"
+],
+[
+"Ring network protocol",
+"Support G.8032 ERPS protocol，single ring, sub Ring and major ring / Recovery time ≤20ms"
+],
+[
+"L2 Multicast"
+],
+[
+"IGMP snooping",
+"Support IGMP snooping"
+],
+[
+"Group address",
+"Support group address"
+],
+[
+"Security functions"
+],
+[
+"ACL",
+"IP Standard ACL / MAC extend ACL / IP extend ACL / IPv6 ACL"
+],
+[
+"QoS",
+"Support QoS Class, remarking / Support SP, WRR queue scheduling / Ingress port-based rate-limit / Egress port-based rate-limit / Support policy-based QoS"
+],
+[
+"802.1x",
+"Port access control / Mac-address access control / RADIUS server"
+],
+[
+"Port-security",
+"Port-security"
+],
+[
+"IP source guard",
+"IP Port/MAC binding"
+],
+[
+"ARP-check",
+"Support ARP-check and ARP packet filtering for illegal users"
+],
+[
+"Access control",
+"Support Telnet/SSH/HTTP/HTTPS user access control"
+],
+[
+"Management & Maintenance functions"
+],
+[
+"User Management",
+"Support password protection / Support user authorization management"
+],
+[
+"SNMP",
+"Supporting SNMP V1/V2C/V3 version"
+],
+[
+"Web Management",
+"Web Management / Support HTTP V1.1 / Support HTTPS"
+],
+[
+"CLI management",
+"Console/Telnet command line management"
+],
+[
+"RMON",
+"Support RMON(Remote Monitoring) alarm"
+],
+[
+"Firmware upgrade",
+"Firmware upgrade"
+],
+[
+"Fault Detection",
+"Ping/Tracerout / Dying gasp / Support optical transceiver DDM function"
+],
+[
+"Cable detection",
+"Support copper port cable detection"
+],
+[
+"NTP",
+"Network Time Protocol"
+],
+[
+"Syslog/Debug",
+"Syslog/Debug / Syslog send to two servers"
+],
+[
+"Configuration import/export",
+"Support FTP/TFTP remote import/export"
+],
+[
+"Dual partition management",
+"Support dual partition switching"
+],
+[
+"Application Protocol Functions"
+],
+[
+"DHCP Snooping",
+"DHCP snooping trust port / Support remote-id/circuit-id configuration / DHCP option-82"
+],
+[
+"DHCP client",
+"Support DHCP client"
+],
+[
+"Telnet server",
+"Support telnet server"
+],
+[
+"Telnet client",
+"Support telnet client"
+],
+[
+"SSH server",
+"Support SSH server"
+],
+[
+"TACACS",
+"Support TACACS(the terminal access controller accesses the control system)"
+],
+[
+"sflow",
+"Support network traffic analysis"
+],
+[
+"TFTP",
+"Support TFTP Client"
+],
+[
+"Layer 3 functions"
+],
+[
+"ARP",
+"ARP table aging"
+],
+[
+"DHCP server"
+],
+[
+"IPv4 / IPv6",
+"static routing"
+],
+[
+"ECMP",
+"Support ECMP (Equal-cost multi-path routing)"
+],
+[
+"ECMP",
+"Support the configuration of ECMP Max next-hop"
+],
+[
+"ECMP",
+"Support capacity balanced configuration"
+],
+[
+"Route policy",
+"IPv4 prefix-list"
+],
+[
+"VRRP",
+"Virtual Router Redundancy Protocol"
+],
+[
+"Routing Protocol Specification"
+],
+[
+"RIP",
+"RIPv1/v2"
+],
+[
+"OSPFv2",
+"OSPFv2"
+],
+[
+"BGP4",
+"BGP4"
+],
+[
+"BGP4",
+"BGP Support Routing Recursive ECMP"
+],
+[
+"BGP4",
+"Support to view the number of neighbors and up/down state"
+],
+[
+"IS-IS",
+"IS-ISv4"
+],
+[
+"Routing entry",
+"13K"
+],
+[
+"Switching features"
+],
+[
+"Switching capacity",
+"104Gbps"
+],
+[
+"Packet forwarding rate",
+"154.7Mpps"
+],
+[
+"MAC address table",
+"16K"
+],
+[
+"VLAN",
+"4K"
+],
+[
+"Buffer",
+"12Mbit"
+],
+[
+"Forwarding delay",
+"<5us"
+],
+[
+"Jumbo Frame",
+"Support 10Kbytes"
+],
+[
+"MDX/MIDX",
+"Support"
+],
+[
+"Watchdog",
+"Support"
+],
+[
+"Mechanical structure"
+],
+[
+"Case protection",
+"IP40"
+],
+[
+"Installation method",
+"Din-rail"
+],
+[
+"Dimension(W*D*H)mm",
+"54*115*158mm"
+],
+[
+"Weight",
+"1.45 kg"
+],
+[
+"Operating environment"
+],
+[
+"Operating temperature",
+"-40℃~+75℃"
+],
+[
+"Storage/transportation temperature",
+"-40℃~+85℃"
+],
+[
+"Relative humidity",
+"Operation humidity: 10%-90%RH / Storage humidity: 5%-95%RH"
+],
+[
+"Industrial Standard"
+],
+[
+"EMS",
+"Surge protection of power: IEC 61000-4-5  6KV/4KV（8/20us） / Surge protection of Ethernet ports: IEC 61000-4-5  6KV/2KV（10/700us） / RS：IEC 61000-4-3 80 MHz-1 GHz：10 V/m / EFT：IEC 61000-4-4  4K/2K / CS：IEC 61000-4-6 10V / ESD：IEC 61000-4-2  Contact: 8K；Air: 15K"
+],
+[
+"EMI",
+"FCC Part 15B Class A"
+],
+[
+"Shock",
+"IEC 60068-2-27"
+],
+[
+"Free fall",
+"IEC 60068-2-32"
+],
+[
+"Vibration",
+"IEC 60068-2-6"
+],
+[
+"Certification",
+"CCC/CE/UKCA/RoHS/REACH/FCC"
+],
+[
+"MTBF",
+"＞200,000 hours"
+],
+[
+"Warranty",
+"5 years"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Structure diagram"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Order information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"Description"
+],
+[
+"LT-IS6516XG-4XS4GX8GT",
+"L3 Managed industrial Ethernet switch with 8*10/100/1000Base-T RJ45 ports, 4*100/1000Base-X SFP and 4*1G/2.5G/10GBase-X SFP+ slots, DC12-58V input, redundant dual power supply, Din-rail installation. Operation temperature: -40℃～+75℃"
+]
+]
+}
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":210289
+},
+{
+"name":"image2.png",
+"bytes":82665
+}
+]
+}

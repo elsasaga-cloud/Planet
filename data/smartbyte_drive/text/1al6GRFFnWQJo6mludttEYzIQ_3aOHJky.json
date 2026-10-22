@@ -1,0 +1,22 @@
+{
+"id":"1al6GRFFnWQJo6mludttEYzIQ_3aOHJky",
+"name":"Mechanical Drawing.png",
+"path":"SmartByte/工业管理/10G L2+ with PoE/STI-21616XGGPM/Mechanical Drawing.png",
+"type":"图片",
+"bytes":113694,
+"sha256":"7c4c0f9b536bb5cdaba816b002c60688298927b3be03e0b4cc56125ba0887ac3",
+"extracted_at":"2026-10-22T01:56:38Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":1693,
+"height":711,
+"mode":"RGBA",
+"thumb_bytes":9990
+},
+"ocr":{
+"text":"115mm\n158mm\n176mm\n51mm\n58.7mm\n48.3mm",
+"conf":81.7
+},
+"text":"115mm\n158mm\n176mm\n51mm\n58.7mm\n48.3mm"
+}

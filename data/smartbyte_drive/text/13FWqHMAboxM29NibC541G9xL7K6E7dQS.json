@@ -1,0 +1,26 @@
+{
+"id":"13FWqHMAboxM29NibC541G9xL7K6E7dQS",
+"name":"MEAN WELL Power Supplies Price List.pdf",
+"path":"SmartByte/工业管理/MEAN WELL Power Supplies Price List.pdf",
+"type":"PDF",
+"ext":".pdf",
+"bytes":115761,
+"sha256":"71626b9a622d2fbd4b9e1f32c1063c99574331f8063ac0eff14177b70437142d",
+"extracted_at":"2026-10-22T01:56:04Z",
+"method":"pdfplumber",
+"status":"ok",
+"chars":522,
+"meta":{
+"pages":1,
+"author":"Simon",
+"creator":"WPS 文字",
+"creationdate":"D:20250324113511+03'35'",
+"moddate":"D:20250324113511+03'35'",
+"ocr_pages":0
+},
+"warnings":[],
+"text":"[p1]\nMEANWELLPowerSupply a.sagatelecom@gmail.com\nSagaTelecom\n2025/Q3 www.sagatelecom.com.cn\nOriginalMEANWELLPowerSupplies\nModel UnitPrice/USD StockStatus\nHDR-15-24 15 ReadyinStock\nHDR-30-24 20 ReadyinStock\nHDR-60-48 25 Pleaseconfirmwithus\nNDR-120-48 30 ReadyinStock\nNDR-240-48 50 ReadyinStock\nNDR-480-48 100 ReadyinStock\nSDR-960-48 240 Pleaseconfirmwithus\nMDR-40-48 23 Pleaseconfirmwithus\nRemarks\n1. Priceterm:EXW\n2. Leadtimeforlessthan50pcs:within5workingdays\n3. CustomizationisNOTavailable\nConnecting,Converting,Creating",
+"pages":[
+"MEANWELLPowerSupply a.sagatelecom@gmail.com\nSagaTelecom\n2025/Q3 www.sagatelecom.com.cn\nOriginalMEANWELLPowerSupplies\nModel UnitPrice/USD StockStatus\nHDR-15-24 15 ReadyinStock\nHDR-30-24 20 ReadyinStock\nHDR-60-48 25 Pleaseconfirmwithus\nNDR-120-48 30 ReadyinStock\nNDR-240-48 50 ReadyinStock\nNDR-480-48 100 ReadyinStock\nSDR-960-48 240 Pleaseconfirmwithus\nMDR-40-48 23 Pleaseconfirmwithus\nRemarks\n1. Priceterm:EXW\n2. Leadtimeforlessthan50pcs:within5workingdays\n3. CustomizationisNOTavailable\nConnecting,Converting,Creating"
+]
+}

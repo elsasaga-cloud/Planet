@@ -1,0 +1,22 @@
+{
+"id":"1L5N8Huqm7-nXaYE_HMs6p75tV6NrlDIT",
+"name":"with serial port.png",
+"path":"SmartByte/工业管理/10G L2+ with PoE/STI-42424XGGPM-U/with serial port.png",
+"type":"图片",
+"bytes":4234705,
+"sha256":"b8cf3dbf34791d1da7d3f32017da6d3f7ab9a1eef33278a2a4771804cc27b7f1",
+"extracted_at":"2026-10-22T01:56:42Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5000,
+"height":1551,
+"mode":"RGBA",
+"thumb_bytes":4973
+},
+"ocr":{
+"text":"Yellow:PoE/Speed GreeniUink/act\nConsole\n115200.8.N.1 0c36-75v",
+"conf":64.4
+},
+"text":"Yellow:PoE/Speed GreeniUink/act\nConsole\n115200.8.N.1 0c36-75v"
+}

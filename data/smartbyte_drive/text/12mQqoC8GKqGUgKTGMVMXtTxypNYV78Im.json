@@ -1,0 +1,22 @@
+{
+"id":"12mQqoC8GKqGUgKTGMVMXtTxypNYV78Im",
+"name":"with serial port.png",
+"path":"SmartByte/工业管理/10G L2+ with PoE/STI-41616XGGPM/with serial port.png",
+"type":"图片",
+"bytes":5870796,
+"sha256":"8a047a8bd93d4b1483bfdec02824d5fe412aedef48ad7a2917b01354f0c7ea89",
+"extracted_at":"2026-10-22T01:56:40Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":3050,
+"height":3944,
+"mode":"RGBA",
+"thumb_bytes":10616
+},
+"ocr":{
+"text":"EE; ..\nConsole",
+"conf":69.2
+},
+"text":"EE; ..\nConsole"
+}

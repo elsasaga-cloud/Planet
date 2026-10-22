@@ -1,0 +1,22 @@
+{
+"id":"1UyyrnwaX1YRtfVBWY52hf7Mn5u5bMQ2n",
+"name":"24+4-serial.png",
+"path":"SmartByte/工业管理/10G L2+ with PoE/STI-42424XGGPM/24+4-serial.png",
+"type":"图片",
+"bytes":149044,
+"sha256":"e6259b5748984f25971fcf916730f6906352b29dd16acebe1b8c4e003b333066",
+"extracted_at":"2026-10-22T01:56:42Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":2061,
+"height":702,
+"mode":"RGBA",
+"thumb_bytes":8483
+},
+"ocr":{
+"text":"176mm\n158mm\n973mm",
+"conf":89.3
+},
+"text":"176mm\n158mm\n973mm"
+}

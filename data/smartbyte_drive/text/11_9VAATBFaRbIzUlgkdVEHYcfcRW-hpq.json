@@ -1,0 +1,22 @@
+{
+"id":"11_9VAATBFaRbIzUlgkdVEHYcfcRW-hpq",
+"name":"7.png",
+"path":"SmartByte/工业管理/10G L2+ with PoE/STI-21616XGGPM/7.png",
+"type":"图片",
+"bytes":4667044,
+"sha256":"3ce59bd9965ee4fe3a27ae0001692e69a774e9e88294efb21aed2dfd05bb0dd7",
+"extracted_at":"2026-10-22T01:56:36Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":3285,
+"height":2040,
+"mode":"RGBA",
+"thumb_bytes":7370
+},
+"ocr":{
+"text":"12-58V; PoE:DC 44-57V",
+"conf":90.7
+},
+"text":"12-58V; PoE:DC 44-57V"
+}

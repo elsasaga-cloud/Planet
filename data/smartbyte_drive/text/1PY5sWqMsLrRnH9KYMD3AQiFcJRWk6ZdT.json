@@ -1,0 +1,22 @@
+{
+"id":"1PY5sWqMsLrRnH9KYMD3AQiFcJRWk6ZdT",
+"name":"AC+AC without serial port.png",
+"path":"SmartByte/工业管理/10G L2+ with PoE/STI-42424XGGPM-U/AC+AC without serial port.png",
+"type":"图片",
+"bytes":159942,
+"sha256":"28d74ccc852c362661f351f356fcd9d63cef21699d4910f265f6c05f318f2807",
+"extracted_at":"2026-10-22T01:56:41Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":2928,
+"height":1385,
+"mode":"RGBA",
+"thumb_bytes":7476
+},
+"ocr":{
+"text":"45mm\n45mm\n45mm\n482.6mm\n465mm\nYellow:PoE/Speed Green:Link/act\nCQ AC 100V~240V 50/60Hz 1A.\nAC 100V~240V 50/60Hz 1A\n440mm\n280mm\n-|",
+"conf":79.2
+},
+"text":"45mm\n45mm\n45mm\n482.6mm\n465mm\nYellow:PoE/Speed Green:Link/act\nCQ AC 100V~240V 50/60Hz 1A.\nAC 100V~240V 50/60Hz 1A\n440mm\n280mm\n-|"
+}

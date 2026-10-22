@@ -1,0 +1,626 @@
+{
+"id":"1rbeDi1ivRYg8Wxz_3sKiMHqufW-mQpxR",
+"name":"LT-IS6310GP-2GX8GT-E neutral datasheet.docx",
+"path":"SmartByte/工业管理/源信息/Managed industrial PoE Switches/Layer 2+/千兆/LT-IS6310GP-2GX8GT-E series/LT-IS6310GP-2GX8GT-E neutral datasheet.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":623322,
+"sha256":"c834d279758ec2c15d63af2eab8c143efbc7c8fba63a14339fa11117087fce8c",
+"extracted_at":"2026-10-22T01:56:24Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":9317,
+"meta":{
+"title":"",
+"author":"雙燕飛",
+"last_modified_by":"peter hu",
+"created":"2021-12-06T02:50:00+00:00",
+"modified":"2024-02-15T02:56:54+00:00",
+"paragraphs":22,
+"tables":2,
+"embedded_images":5
+},
+"warnings":[],
+"text":"8*10/100/1000Base-T + 2*1G/2.5Base-X SFP\nL2+ Managed Industrial PoE Switch\nLT-IS6310GP-2GX8GT-E Series\nFeatures:\n➢ 8*10/100/1000Base-T RJ45 PoE, 2*1G/2.5GBase-X SFP\n➢ Redundant power 44-57V input with polarity reverse/over-voltage/over-current protection\n➢ Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n➢ DI/DO/RS485 and USB one key configuration & upgrading are optional\n➢ Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n➢  Support Layer 2 management function: VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP\nDDM/IPV6 management/PoE management/Web/SNMP/Telnet/TFTP/Web upgrading\n➢ Support G.8032 ERPS protocol, recovery time ≤20ms\n➢ Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n➢ IP40 fan-less and Din-rail hardware design\n➢ Operation temperature: -40 ℃ ~+75℃\nOverview\nThe SmartByte LT-IS6310GP-2GX8GT-E series are the highly reliable managed industrial PoE switches with 8-port 10/100/1000-T PoE and 2-port 1000/2500Base-X fiber optical interfaces. They comply with IEEE802.3af, IEEE802.3at standard PoE protocol, the Max power consumption can reach 30W (PoE+) per port.They support ERPS redundant network and the self-recovery mechanism is less than 20ms on full load which allows you to scheme a reliable Ethernet network by building a redundant ring topology as your back-up solution. LT-IS6310GP-2GX8GT-E series also support DI/DO/RS485 and robust layer 2 management function, which can fulfill the special needs of industrial automation applications.\nLT-IS6310GP-2GX8GT-E series are the high cost-effective easy-to-use devices, which provide essential industrial Ethernet networking function, including wide range power input 44-57VDC, redundant power design with polarity reverse protection, robust IP40 fan-less housing with Din-rail installation, wide operation temperature from -40°C to 75°C as well as high-level EMI/EMC capability. They are the best choice for heavy industrial factory, transportation, oil & gas, chemical, IP Surveillance and processing automation area where environmental conditions are harsh and critical.\nTechnical specification\nModel No.\tLT-IS6310GP-2GX8GT-E/ LT-IS6310GP-2GX8GT-E-D\nInterface\tFiber ports\tCopper RJ45 ports\nInterface\t2\t8\nEthernet\t8*10/100/1000Base-T RJ45 PoE / 2*1000/2500Base-X SFP\nManagement port\t1*RJ45 Console port (115200,8,N,1)，1*USB 2.0（optional）\nData & Alarm channel / (optional）\t1 channel RS485 / 1 channel DI(digital input) / 1 channel DO(digital output)\nStandard\tIEEE 802.3 10Base-T Ethernet / IEEE 802.3u 100Base-TX Ethernet / IEEE 802.3ab 1000Base-T Ethernet / IEEE 802.3z 1000Base-X Ethernet / IEEE802.3x Flow Control and Back Pressure / IEEE 802.1D Spanning Tree Protocol / IEEE 802.1w Rapid Spanning Tree Protocol / IEEE 802.1Q VLAN / ITU-T G.8032 ERPS / IEEE 802.1X Port Authentication Network Control / IEEE 802.1ab LLDP / IEEE 802.3ad LACP / IEEE 802.3af\nIEEE 802.3at\nLED Indicators\nP (Power indicator)\tOff: the device is power off or failed\tOn: the device power on is normal\nS (System status indicator)\tBlinking: device initialization\tOn: device on normal operation\nUSB (USB status indicator) Green\tOff: USB flash drive not insert or not detected by device\nUSB (USB status indicator) Green\tOn: USB flash drive is detected by device\nUSB (USB status indicator) Green\tBlinking: the device is reading and writing the data from USB flash drive\nALM(Fault status indicator) Red\tOff: Device on normal working state\tOn: Fault alarm\n1-8 (Copper ports indicators) Green\tOff: ports link down\n1-8 (Copper ports indicators) Green\tOn: ports link up\n1-8 (Copper ports indicators) Green\tBlinking: data on TX/RX\n1-8(PoE status indicators) Yellow\tOff: PoE not working\n1-8(PoE status indicators) Yellow\tOn: PoE working\n9-10(Fiber ports indicators) Green\tOff: ports link down\n9-10(Fiber ports indicators) Green\tOn: ports link up\n9-10(Fiber ports indicators) Green\tBlinking: data on TX/RX\nPower parameter\nInput voltage\t44-57VDC(802.3af) / 52-57VDC(802.3at) / redundant power input\nInput current\t5.6A Max\nTotal power consumption\tFull loading without PoE ≤10W / PoE power budget ≤240W\nConnector\tRemovable 4-pin terminal block\nReverse polarity protection\tSupport\nOver-voltage protection\tSupport\nOver-current protection\tSupport\nLayer 2 functions\nPort aggregation\tSupport GE port aggregation / Support 2.5GE aggregation / Support static aggregation / Support LACP dynamic aggregation / Up to 64 aggregation groups and up to 8 ports per group\nPort features\tSupport IEEE802.3x flow control, / Support interface counters, / Support port isolation, / Port mirroring ( One-to-One, Many-to-One) / Support loop detection(Port-based; VLAN-based) / Support broadcast storm suppression(broadcast; unknown multicast; unknown unicast)\nMac-address table management\tSupport static Mac-address management / Support dynamic Mac-address Management / Support filtering Mac-address / Support MAC limit based on port and VLAN / Support MAC flapping based on port and VLAN\nVLAN\tSupport access mode / Support trunk mode / Support hybrid mode\nVLAN classification\tMac Based VLAN / IP Based VLAN / Protocol Based VLAN\nGVRP\tNormal mode / Fixed mode / Forbidden mode\nQinQ\tPort-based QinQ / VLAN-based QinQ / Flow-based QinQ\nLLDP\tLLDP (Link Layer Discovery Protocol)\nRing network protocol\tSupport IEEE802.1D-STP / Support IEEE802.1W-RSTP / Support IEEE802.1S-MSTP\nRing network protocol\tSupport G.8032 ERPS protocol，single ring, sub Ring and major ring / Recovery time ≤20ms\nL2 Multicast\nIGMP snooping\tSupport IGMP snooping\nGroup address\tSupport group address\nSecurity functions\nACL\tIP Standard ACL / MAC extend ACL / IP extend ACL / IPv6 ACL\nQoS\tSupport QoS Class, remarking / Support SP, WRR queue scheduling / Ingress port-based rate-limit / Egress port-based rate-limit / Support policy-based QoS\n802.1x\tPort access control / Mac-address access control / RADIUS server\nPort-security\tPort-security\nIP source guard\tIP Port/MAC binding\nARP-check\tSupport ARP-check and ARP packet filtering for illegal users\nAccess control\tSupport Telnet/SSH/HTTP/HTTPS user access control\nManagement & Maintenance functions\nUser Management\tSupport password protection / Support user authorization management\nSNMP\tSupporting SNMP V1/V2C/V3 version\nWeb Management\tWeb Management / Support HTTP V1.1 / Support HTTPS\nCLI management\tConsole/Telnet command line management\nRMON\tSupport RMON(Remote Monitoring) alarm\nFirmware upgrade\tFirmware upgrade\nFault Detection\tPing/Tracerout / Dying gasp / Support optical transceiver DDM function\nCable detection\tSupport copper port cable detection\nPoE management\tSupport 802.3af/802.3at\nPoE management\tSupport PD watchdog\nPoE management\tSupport PoE priority management\nPoE management\tSupport Max PoE power configuration for each port\nPoE management\tSupport alarm waterline configuration\nPoE management\tSupport reserved power configuration\nNTP\tNetwork Time Protocol\nSyslog/Debug\tSyslog/Debug / Syslog send to two servers\nConfiguration import/export\tSupport FTP/TFTP remote import/export / Support USB import/export\nDual partition management\tSupport dual partition switching\nApplication Protocol Functions\nDHCP Snooping\tDHCP snooping trust port / Support remote-id/circuit-id configuration / DHCP option-82\nDHCP client\tSupport DHCP client\nTelnet server\tSupport telnet server\nTelnet client\tSupport telnet client\nSSH server\tSupport SSH server\nTACACS\tSupport TACACS(the terminal access controller accesses the control system)\nsflow\tSupport network traffic analysis\nTFTP\tSupport TFTP Client\nLayer 3 functions\nARP\tARP table aging\nDHCP server\nIPv4 / IPv6\tstatic routing\nSwitching features\nSwitching capacity\t26Gbps\nPacket forwarding rate\t38.6Mpps\nMAC address table\t16K\nVLAN\t4K\nBuffer\t12Mbit\nForwarding delay\t<5us\nJumbo Frame\tSupport 10Kbytes\nMDX/MIDX\tSupport\nWatchdog\tSupport\nMechanical structure\nCase protection\tIP40\nInstallation method\tDin-rail\nDimension(W*D*H)mm\t54*115*158mm\nWeight\tLT-IS6310GP-2GX8GT-E (1.18 kg);  LT-IS6310G-2GX8GTP-E-D( 1.28 kg)\nOperating environment\nOperating temperature\t-40℃~+75℃\nStorage/transportation temperature\t-40℃~+85℃\nRelative humidity\tOperation humidity: 10%-90%RH / Storage humidity: 5%-95%RH\nIndustrial Standard\nEMS\tSurge protection of power: IEC 61000-4-5  6KV/4KV（8/20us） / Surge protection of Ethernet ports: IEC 61000-4-5  6KV/2KV（10/700us） / RS：IEC 61000-4-3 80 MHz-1 GHz：10 V/m / EFT：IEC 61000-4-4  4K/2K / CS：IEC 61000-4-6 10V / ESD：IEC 61000-4-2  Contact: 8K；Air: 15K\nEMI\tFCC Part 15B Class A\nShock\tIEC 60068-2-27\nFree fall\tIEC 60068-2-32\nVibration\tIEC 60068-2-6\nCertification\tCCC/CE/UKCA/RoHS/REACH/FCC\nMTBF\t＞200,000 hours\nWarranty\t5 years\nStructure diagram\nOrder information\nModel\tDescription\nLT-IS6310GP-2GX8GT-E\tL2+ Managed industrial PoE switch with 8*10/100/1000Base-T RJ45 PoE ports and 2*1G/2.5GBase-X SFP slots, complies with IEEE802.3af, IEEE802.3at standard, DC44-57V input, redundant dual power supply, Din-rail installation. Operation temperature: -40℃～+75℃\nLT-IS6310GP-2GX8GT-E-D\tL2+ Managed industrial PoE switch with 8*10/100/1000Base-T RJ45 PoE ports and 2*1G/2.5GBase-X SFP slots, supports DI/DO/RS485, complies with IEEE802.3af, IEEE802.3at standard, DC44-57V input, redundant dual power supply, Din-rail installation; Operation temperature: -40℃～+75℃\n[文本框]\nLT-IS6310GP-2GX8GT-E\nLT-IS6210GP-2GX8GT-E-D\n-D",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"8*10/100/1000Base-T + 2*1G/2.5Base-X SFP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"L2+ Managed Industrial PoE Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LT-IS6310GP-2GX8GT-E Series"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Features:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ 8*10/100/1000Base-T RJ45 PoE, 2*1G/2.5GBase-X SFP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Redundant power 44-57V input with polarity reverse/over-voltage/over-current protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ DI/DO/RS485 and USB one key configuration & upgrading are optional"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Layer 3 features: Support IPv4/IPv6 static routing, DHCP server"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  Support Layer 2 management function: VLAN/VLAN Classification/QinQ/STP, RSTP,"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DDM/IPV6 management/PoE management/Web/SNMP/Telnet/TFTP/Web upgrading"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Support G.8032 ERPS protocol, recovery time ≤20ms"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ IP40 fan-less and Din-rail hardware design"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Operation temperature: -40 ℃ ~+75℃"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Overview"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The SmartByte LT-IS6310GP-2GX8GT-E series are the highly reliable managed industrial PoE switches with 8-port 10/100/1000-T PoE and 2-port 1000/2500Base-X fiber optical interfaces. They comply with IEEE802.3af, IEEE802.3at standard PoE protocol, the Max power consumption can reach 30W (PoE+) per port.They support ERPS redundant network and the self-recovery mechanism is less than 20ms on full load which allows you to scheme a reliable Ethernet network by building a redundant ring topology as your back-up solution. LT-IS6310GP-2GX8GT-E series also support DI/DO/RS485 and robust layer 2 management function, which can fulfill the special needs of industrial automation applications."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LT-IS6310GP-2GX8GT-E series are the high cost-effective easy-to-use devices, which provide essential industrial Ethernet networking function, including wide range power input 44-57VDC, redundant power design with polarity reverse protection, robust IP40 fan-less housing with Din-rail installation, wide operation temperature from -40°C to 75°C as well as high-level EMI/EMC capability. They are the best choice for heavy industrial factory, transportation, oil & gas, chemical, IP Surveillance and processing automation area where environmental conditions are harsh and critical."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Technical specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model No.",
+"LT-IS6310GP-2GX8GT-E/ LT-IS6310GP-2GX8GT-E-D"
+],
+[
+"Interface",
+"Fiber ports",
+"Copper RJ45 ports"
+],
+[
+"Interface",
+"2",
+"8"
+],
+[
+"Ethernet",
+"8*10/100/1000Base-T RJ45 PoE / 2*1000/2500Base-X SFP"
+],
+[
+"Management port",
+"1*RJ45 Console port (115200,8,N,1)，1*USB 2.0（optional）"
+],
+[
+"Data & Alarm channel / (optional）",
+"1 channel RS485 / 1 channel DI(digital input) / 1 channel DO(digital output)"
+],
+[
+"Standard",
+"IEEE 802.3 10Base-T Ethernet / IEEE 802.3u 100Base-TX Ethernet / IEEE 802.3ab 1000Base-T Ethernet / IEEE 802.3z 1000Base-X Ethernet / IEEE802.3x Flow Control and Back Pressure / IEEE 802.1D Spanning Tree Protocol / IEEE 802.1w Rapid Spanning Tree Protocol / IEEE 802.1Q VLAN / ITU-T G.8032 ERPS / IEEE 802.1X Port Authentication Network Control / IEEE 802.1ab LLDP / IEEE 802.3ad LACP / IEEE 802.3af\nIEEE 802.3at"
+],
+[
+"LED Indicators"
+],
+[
+"P (Power indicator)",
+"Off: the device is power off or failed",
+"On: the device power on is normal"
+],
+[
+"S (System status indicator)",
+"Blinking: device initialization",
+"On: device on normal operation"
+],
+[
+"USB (USB status indicator) Green",
+"Off: USB flash drive not insert or not detected by device"
+],
+[
+"USB (USB status indicator) Green",
+"On: USB flash drive is detected by device"
+],
+[
+"USB (USB status indicator) Green",
+"Blinking: the device is reading and writing the data from USB flash drive"
+],
+[
+"ALM(Fault status indicator) Red",
+"Off: Device on normal working state",
+"On: Fault alarm"
+],
+[
+"1-8 (Copper ports indicators) Green",
+"Off: ports link down"
+],
+[
+"1-8 (Copper ports indicators) Green",
+"On: ports link up"
+],
+[
+"1-8 (Copper ports indicators) Green",
+"Blinking: data on TX/RX"
+],
+[
+"1-8(PoE status indicators) Yellow",
+"Off: PoE not working"
+],
+[
+"1-8(PoE status indicators) Yellow",
+"On: PoE working"
+],
+[
+"9-10(Fiber ports indicators) Green",
+"Off: ports link down"
+],
+[
+"9-10(Fiber ports indicators) Green",
+"On: ports link up"
+],
+[
+"9-10(Fiber ports indicators) Green",
+"Blinking: data on TX/RX"
+],
+[
+"Power parameter"
+],
+[
+"Input voltage",
+"44-57VDC(802.3af) / 52-57VDC(802.3at) / redundant power input"
+],
+[
+"Input current",
+"5.6A Max"
+],
+[
+"Total power consumption",
+"Full loading without PoE ≤10W / PoE power budget ≤240W"
+],
+[
+"Connector",
+"Removable 4-pin terminal block"
+],
+[
+"Reverse polarity protection",
+"Support"
+],
+[
+"Over-voltage protection",
+"Support"
+],
+[
+"Over-current protection",
+"Support"
+],
+[
+"Layer 2 functions"
+],
+[
+"Port aggregation",
+"Support GE port aggregation / Support 2.5GE aggregation / Support static aggregation / Support LACP dynamic aggregation / Up to 64 aggregation groups and up to 8 ports per group"
+],
+[
+"Port features",
+"Support IEEE802.3x flow control, / Support interface counters, / Support port isolation, / Port mirroring ( One-to-One, Many-to-One) / Support loop detection(Port-based; VLAN-based) / Support broadcast storm suppression(broadcast; unknown multicast; unknown unicast)"
+],
+[
+"Mac-address table management",
+"Support static Mac-address management / Support dynamic Mac-address Management / Support filtering Mac-address / Support MAC limit based on port and VLAN / Support MAC flapping based on port and VLAN"
+],
+[
+"VLAN",
+"Support access mode / Support trunk mode / Support hybrid mode"
+],
+[
+"VLAN classification",
+"Mac Based VLAN / IP Based VLAN / Protocol Based VLAN"
+],
+[
+"GVRP",
+"Normal mode / Fixed mode / Forbidden mode"
+],
+[
+"QinQ",
+"Port-based QinQ / VLAN-based QinQ / Flow-based QinQ"
+],
+[
+"LLDP",
+"LLDP (Link Layer Discovery Protocol)"
+],
+[
+"Ring network protocol",
+"Support IEEE802.1D-STP / Support IEEE802.1W-RSTP / Support IEEE802.1S-MSTP"
+],
+[
+"Ring network protocol",
+"Support G.8032 ERPS protocol，single ring, sub Ring and major ring / Recovery time ≤20ms"
+],
+[
+"L2 Multicast"
+],
+[
+"IGMP snooping",
+"Support IGMP snooping"
+],
+[
+"Group address",
+"Support group address"
+],
+[
+"Security functions"
+],
+[
+"ACL",
+"IP Standard ACL / MAC extend ACL / IP extend ACL / IPv6 ACL"
+],
+[
+"QoS",
+"Support QoS Class, remarking / Support SP, WRR queue scheduling / Ingress port-based rate-limit / Egress port-based rate-limit / Support policy-based QoS"
+],
+[
+"802.1x",
+"Port access control / Mac-address access control / RADIUS server"
+],
+[
+"Port-security",
+"Port-security"
+],
+[
+"IP source guard",
+"IP Port/MAC binding"
+],
+[
+"ARP-check",
+"Support ARP-check and ARP packet filtering for illegal users"
+],
+[
+"Access control",
+"Support Telnet/SSH/HTTP/HTTPS user access control"
+],
+[
+"Management & Maintenance functions"
+],
+[
+"User Management",
+"Support password protection / Support user authorization management"
+],
+[
+"SNMP",
+"Supporting SNMP V1/V2C/V3 version"
+],
+[
+"Web Management",
+"Web Management / Support HTTP V1.1 / Support HTTPS"
+],
+[
+"CLI management",
+"Console/Telnet command line management"
+],
+[
+"RMON",
+"Support RMON(Remote Monitoring) alarm"
+],
+[
+"Firmware upgrade",
+"Firmware upgrade"
+],
+[
+"Fault Detection",
+"Ping/Tracerout / Dying gasp / Support optical transceiver DDM function"
+],
+[
+"Cable detection",
+"Support copper port cable detection"
+],
+[
+"PoE management",
+"Support 802.3af/802.3at"
+],
+[
+"PoE management",
+"Support PD watchdog"
+],
+[
+"PoE management",
+"Support PoE priority management"
+],
+[
+"PoE management",
+"Support Max PoE power configuration for each port"
+],
+[
+"PoE management",
+"Support alarm waterline configuration"
+],
+[
+"PoE management",
+"Support reserved power configuration"
+],
+[
+"NTP",
+"Network Time Protocol"
+],
+[
+"Syslog/Debug",
+"Syslog/Debug / Syslog send to two servers"
+],
+[
+"Configuration import/export",
+"Support FTP/TFTP remote import/export / Support USB import/export"
+],
+[
+"Dual partition management",
+"Support dual partition switching"
+],
+[
+"Application Protocol Functions"
+],
+[
+"DHCP Snooping",
+"DHCP snooping trust port / Support remote-id/circuit-id configuration / DHCP option-82"
+],
+[
+"DHCP client",
+"Support DHCP client"
+],
+[
+"Telnet server",
+"Support telnet server"
+],
+[
+"Telnet client",
+"Support telnet client"
+],
+[
+"SSH server",
+"Support SSH server"
+],
+[
+"TACACS",
+"Support TACACS(the terminal access controller accesses the control system)"
+],
+[
+"sflow",
+"Support network traffic analysis"
+],
+[
+"TFTP",
+"Support TFTP Client"
+],
+[
+"Layer 3 functions"
+],
+[
+"ARP",
+"ARP table aging"
+],
+[
+"DHCP server"
+],
+[
+"IPv4 / IPv6",
+"static routing"
+],
+[
+"Switching features"
+],
+[
+"Switching capacity",
+"26Gbps"
+],
+[
+"Packet forwarding rate",
+"38.6Mpps"
+],
+[
+"MAC address table",
+"16K"
+],
+[
+"VLAN",
+"4K"
+],
+[
+"Buffer",
+"12Mbit"
+],
+[
+"Forwarding delay",
+"<5us"
+],
+[
+"Jumbo Frame",
+"Support 10Kbytes"
+],
+[
+"MDX/MIDX",
+"Support"
+],
+[
+"Watchdog",
+"Support"
+],
+[
+"Mechanical structure"
+],
+[
+"Case protection",
+"IP40"
+],
+[
+"Installation method",
+"Din-rail"
+],
+[
+"Dimension(W*D*H)mm",
+"54*115*158mm"
+],
+[
+"Weight",
+"LT-IS6310GP-2GX8GT-E (1.18 kg);  LT-IS6310G-2GX8GTP-E-D( 1.28 kg)"
+],
+[
+"Operating environment"
+],
+[
+"Operating temperature",
+"-40℃~+75℃"
+],
+[
+"Storage/transportation temperature",
+"-40℃~+85℃"
+],
+[
+"Relative humidity",
+"Operation humidity: 10%-90%RH / Storage humidity: 5%-95%RH"
+],
+[
+"Industrial Standard"
+],
+[
+"EMS",
+"Surge protection of power: IEC 61000-4-5  6KV/4KV（8/20us） / Surge protection of Ethernet ports: IEC 61000-4-5  6KV/2KV（10/700us） / RS：IEC 61000-4-3 80 MHz-1 GHz：10 V/m / EFT：IEC 61000-4-4  4K/2K / CS：IEC 61000-4-6 10V / ESD：IEC 61000-4-2  Contact: 8K；Air: 15K"
+],
+[
+"EMI",
+"FCC Part 15B Class A"
+],
+[
+"Shock",
+"IEC 60068-2-27"
+],
+[
+"Free fall",
+"IEC 60068-2-32"
+],
+[
+"Vibration",
+"IEC 60068-2-6"
+],
+[
+"Certification",
+"CCC/CE/UKCA/RoHS/REACH/FCC"
+],
+[
+"MTBF",
+"＞200,000 hours"
+],
+[
+"Warranty",
+"5 years"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Structure diagram"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Order information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"Description"
+],
+[
+"LT-IS6310GP-2GX8GT-E",
+"L2+ Managed industrial PoE switch with 8*10/100/1000Base-T RJ45 PoE ports and 2*1G/2.5GBase-X SFP slots, complies with IEEE802.3af, IEEE802.3at standard, DC44-57V input, redundant dual power supply, Din-rail installation. Operation temperature: -40℃～+75℃"
+],
+[
+"LT-IS6310GP-2GX8GT-E-D",
+"L2+ Managed industrial PoE switch with 8*10/100/1000Base-T RJ45 PoE ports and 2*1G/2.5GBase-X SFP slots, supports DI/DO/RS485, complies with IEEE802.3af, IEEE802.3at standard, DC44-57V input, redundant dual power supply, Din-rail installation; Operation temperature: -40℃～+75℃"
+]
+]
+}
+],
+"textboxes":[
+"LT-IS6310GP-2GX8GT-E",
+"LT-IS6210GP-2GX8GT-E-D",
+"-D"
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":200346
+},
+{
+"name":"image2.png",
+"bytes":234244
+},
+{
+"name":"image3.png",
+"bytes":69335
+},
+{
+"name":"image4.png",
+"bytes":75612
+}
+]
+}

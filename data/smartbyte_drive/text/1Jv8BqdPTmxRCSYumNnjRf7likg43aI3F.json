@@ -1,0 +1,25 @@
+{
+"id":"1Jv8BqdPTmxRCSYumNnjRf7likg43aI3F",
+"name":"缺AC 品字尾 + DC 机型 结构图.doc",
+"path":"SmartByte/工业管理/源信息/工业级管理型中性产品图片 & 结构尺寸/6系/24+4-rack mount/中性机械结构图/缺AC 品字尾 + DC 机型 结构图.doc",
+"type":"Word",
+"ext":".doc",
+"bytes":9216,
+"sha256":"d70ac2b89dfb6527e0347a664618e25be5625e248a52cfa667eb661cecd88fc2",
+"extracted_at":"2026-10-22T01:56:30Z",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"meta",
+"chars":0,
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-22T01:56:30+00:00",
+"paragraphs":0,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"text":""
+}
