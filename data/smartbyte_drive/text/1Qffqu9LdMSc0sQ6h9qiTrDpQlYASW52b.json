@@ -1,0 +1,23 @@
+{
+"id":"1Qffqu9LdMSc0sQ6h9qiTrDpQlYASW52b",
+"name":"1.jpg",
+"path":"SmartByte/MC/STC-110XGE/Actual photos/1.jpg",
+"type":"图片",
+"bytes":5545540,
+"sha256":"8e0e2a1aa2a48768c0b9ee3d7fd33bf1ba9fdcf78cf9a7e1df2aa973aa1745da",
+"extracted_at":"2026-10-22T02:06:24Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":3468,
+"height":4624,
+"mode":"RGB",
+"software":"MediaTek Camera Application\u0000\u0000\u0000\u0000",
+"thumb_bytes":8766
+},
+"ocr":{
+"text":"10G Ethernet Media Converter",
+"conf":89.6
+},
+"text":"10G Ethernet Media Converter"
+}

@@ -1,0 +1,225 @@
+{
+"id":"1-oWIeYYpUTFq5zHB2ub419jhfjlQr2J6",
+"name":"JW-S3003F-1FX2TX datasheet.docx",
+"path":"SmartByte/MC/进为/JW-S3003F-1FX2TX datasheet.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":28311,
+"sha256":"aadfde89e815439d339bc40e2caf861edd7b764daaf0f890a7b3bfe70822d5fb",
+"extracted_at":"2026-10-22T02:06:09Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":2050,
+"meta":{
+"title":"",
+"author":"雙燕飛",
+"last_modified_by":"Dora",
+"created":"2020-05-13T06:38:00+00:00",
+"modified":"2024-11-11T02:17:17+00:00",
+"paragraphs":4,
+"tables":3,
+"embedded_images":2
+},
+"warnings":[],
+"text":"JW-S3003F-1FX2TX\n产品描述       PRODUCT DESCRIPTION\nJW-S3005F-1 FX 2 TX is a full 100 MB non-managed 3-port switch with 210 / 100Mbps adaptive RJ 45 ports and 1100 MB light port. Each RJ 45 port supports MDI / MDIX automatic flipping and line speed forwarding functions, which is convenient for users to flexibly network, meet the networking requirements of various scenarios, and meet the deployment requirements in outdoor monitoring environments such as rail transit, safe city and intelligent transportation.\n产品参数       PRODUCT PARAMETERS\n接口（Provider Mode Ports）\n业务接口（Fixed port）\t2*10/100 Base-Tx +1* 100Base-FX\n电源接口（Power interface）\tDC (2.5mm)\nLED灯（LED Indicators）\tP: power light / FX: Light signal indicator lamp / 1-2: The Link / act link status indicator on port 1-2\n光纤接口( Optical fiber interface)\tSC、FC、ST\n线缆类型及距离（Cable type&Transmission distance）\n双绞线（Twisted-pair）\t0-100m（CAT5e,CAT6）\n单模光纤（Monomode optical fiber）\t20/40/60/80/100KM\n多模光纤（Multimode optical fibre）\t550M\n网络拓扑（Network Topology）\n环形拓扑（Ring topology）\tDo not support\n星型拓扑（Star topology）\tSupport\n树形拓扑（Tree Topology）\tSupport\n电气特性（Electrical Specifications）\n输入电压（input voltage）\tDC5V\n整机功耗（Total Power consumption）\t满载（Total power）≤1.6W\n二层交换（Layer 2 Switching）\n交换容量（Switching capacity）\t1G\n包转发率（Packet forwarding rate）\t0.744Mpps\nMAC地址表（MAC address table）\t2K\nVLANSupport及数量（VLAN）\tSupport\n包缓冲区（Buffer）\t2K\n转发延迟（Forwarding delay）\t<10us\n极性反转（MDX/MIDX）\tSupport\n看门狗功能（WatchDog）\tSupport\n环境条件（Environment）\n工作温度（Operating temperature）\t-20℃~+60℃\n储藏/运输温度（Storage temperature）\t-40℃~+70℃\n相对湿度（Relative humidity）\t5%~95% Do not support non-condensing\n散热方式（Thermal methods）\tFanless design, natural heat dissipation\nMTBF\t50,000 hour\n机械结构（ Mechanical Dimensions）\n尺寸（Product size）\t110*71*27mm（LxWxH）\n安装方式（Installation Method）\tDesktop installation\n净重 （Weight）\t0.15KG\n配套和附件（Accessories）\t\n配套设备（Accessories）\tEquipment, qualification certificate, instruction manual, dust proof plug\n\tPower Adapter (optional)\n可选型号（Optional model）\tdescription\nJW-S3003F-1FX2TX-SC20\t1*100M SC+2*10/100M Adaptive RJ45port，DC5V power supply",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"JW-S3003F-1FX2TX"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"产品描述       PRODUCT DESCRIPTION"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"JW-S3005F-1 FX 2 TX is a full 100 MB non-managed 3-port switch with 210 / 100Mbps adaptive RJ 45 ports and 1100 MB light port. Each RJ 45 port supports MDI / MDIX automatic flipping and line speed forwarding functions, which is convenient for users to flexibly network, meet the networking requirements of various scenarios, and meet the deployment requirements in outdoor monitoring environments such as rail transit, safe city and intelligent transportation."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"产品参数       PRODUCT PARAMETERS"
+},
+{
+"t":"table",
+"rows":[
+[
+"接口（Provider Mode Ports）"
+],
+[
+"业务接口（Fixed port）",
+"2*10/100 Base-Tx +1* 100Base-FX"
+],
+[
+"电源接口（Power interface）",
+"DC (2.5mm)"
+],
+[
+"LED灯（LED Indicators）",
+"P: power light / FX: Light signal indicator lamp / 1-2: The Link / act link status indicator on port 1-2"
+],
+[
+"光纤接口( Optical fiber interface)",
+"SC、FC、ST"
+],
+[
+"线缆类型及距离（Cable type&Transmission distance）"
+],
+[
+"双绞线（Twisted-pair）",
+"0-100m（CAT5e,CAT6）"
+],
+[
+"单模光纤（Monomode optical fiber）",
+"20/40/60/80/100KM"
+],
+[
+"多模光纤（Multimode optical fibre）",
+"550M"
+],
+[
+"网络拓扑（Network Topology）"
+],
+[
+"环形拓扑（Ring topology）",
+"Do not support"
+],
+[
+"星型拓扑（Star topology）",
+"Support"
+],
+[
+"树形拓扑（Tree Topology）",
+"Support"
+],
+[
+"电气特性（Electrical Specifications）"
+],
+[
+"输入电压（input voltage）",
+"DC5V"
+],
+[
+"整机功耗（Total Power consumption）",
+"满载（Total power）≤1.6W"
+],
+[
+"二层交换（Layer 2 Switching）"
+],
+[
+"交换容量（Switching capacity）",
+"1G"
+],
+[
+"包转发率（Packet forwarding rate）",
+"0.744Mpps"
+],
+[
+"MAC地址表（MAC address table）",
+"2K"
+],
+[
+"VLANSupport及数量（VLAN）",
+"Support"
+],
+[
+"包缓冲区（Buffer）",
+"2K"
+],
+[
+"转发延迟（Forwarding delay）",
+"<10us"
+],
+[
+"极性反转（MDX/MIDX）",
+"Support"
+],
+[
+"看门狗功能（WatchDog）",
+"Support"
+],
+[
+"环境条件（Environment）"
+],
+[
+"工作温度（Operating temperature）",
+"-20℃~+60℃"
+],
+[
+"储藏/运输温度（Storage temperature）",
+"-40℃~+70℃"
+],
+[
+"相对湿度（Relative humidity）",
+"5%~95% Do not support non-condensing"
+],
+[
+"散热方式（Thermal methods）",
+"Fanless design, natural heat dissipation"
+],
+[
+"MTBF",
+"50,000 hour"
+],
+[
+"机械结构（ Mechanical Dimensions）"
+],
+[
+"尺寸（Product size）",
+"110*71*27mm（LxWxH）"
+],
+[
+"安装方式（Installation Method）",
+"Desktop installation"
+],
+[
+"净重 （Weight）",
+"0.15KG"
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+"配套和附件（Accessories）",
+""
+],
+[
+"配套设备（Accessories）",
+"Equipment, qualification certificate, instruction manual, dust proof plug"
+],
+[
+"",
+"Power Adapter (optional)"
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+"可选型号（Optional model）",
+"description"
+],
+[
+"JW-S3003F-1FX2TX-SC20",
+"1*100M SC+2*10/100M Adaptive RJ45port，DC5V power supply"
+]
+]
+}
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":4327
+}
+]
+}

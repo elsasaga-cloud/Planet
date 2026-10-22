@@ -1,0 +1,23 @@
+{
+"id":"1YmT50D7JDY8yN7vrVYP7C67muDlyWqHp",
+"name":"2.jpg",
+"path":"SmartByte/MC/STC-110XGE/Actual photos/2.jpg",
+"type":"图片",
+"bytes":3613268,
+"sha256":"c9009b65f28ace18a5166b4b48bf888e96434dffccc5e3b5cd6be08f08004b50",
+"extracted_at":"2026-10-22T02:06:25Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":4624,
+"height":3468,
+"mode":"RGB",
+"software":"MediaTek Camera Application\u0000\u0000\u0000\u0000",
+"thumb_bytes":11169
+},
+"ocr":{
+"text":"12:PWR 2:Link/ACT 3:SD 4:10G 5:Link 6:ACT",
+"conf":74.8
+},
+"text":"12:PWR 2:Link/ACT 3:SD 4:10G 5:Link 6:ACT"
+}

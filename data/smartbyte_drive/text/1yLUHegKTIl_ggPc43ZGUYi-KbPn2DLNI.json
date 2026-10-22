@@ -1,0 +1,302 @@
+{
+"id":"1yLUHegKTIl_ggPc43ZGUYi-KbPn2DLNI",
+"name":"LT-MC80X 10G media converter.docx",
+"path":"SmartByte/MC/凌特中性收发器引文规格书/LT-MC80X 10G media converter.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":67384,
+"sha256":"1e62eea002a55b3dbdca8015ceb71efc91f83a3677fae44056a1496186fda2ef",
+"extracted_at":"2026-10-22T02:06:09Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":2760,
+"meta":{
+"title":"",
+"author":"雙燕飛",
+"last_modified_by":"peter hu",
+"created":"2017-12-26T00:34:00+00:00",
+"modified":"2024-02-27T10:42:13+00:00",
+"paragraphs":16,
+"tables":2,
+"embedded_images":4
+},
+"warnings":[],
+"text":"10G Media Converter\nLT-MC80X (1*10G SFP+ port + 1*10/100M/1G/2.5G/5G/10G RJ45 port）\nOverview:\nSmartByte LT-MC80X media converter is a 10G N-Base-T (10/100M/1G/2.5G/5G/10G) to 10GBase-R media converter, Which converts traditional twisted-pair RJ-45 cable into SFP+ slot for pluggable fiber transceiver, extending transmission distance to servers, switches and patch panels  for Data Center 10G N-Base-T to 10GBase-R conversion application or ISP Mobile DU and Enterprise broadband service applications.\nPicture\nFeatures:\n10/100/1G/2.5G/5G/10G BASE-T RJ45 interface with auto MDI/MDI-X function, 10GBASE-X SFP+ slot interface\nIEEE 802.3u/802.3ab/802.3bz/802.3ae Ethernet standard compliant\nSupports auto-negotiation and 100Mbps half/full duplex and 1/2.5/5/10Gbps full duplex mode\nFan-less design, support plug and play installation\nSupport watchdog function, which can restart the equipments automatically when it is frozen\nWide range input voltage: DC5-12V\n4KV surge protection; ESD: 8KV/contact, 15KV/air protection\nTechnical specification\nPRODUCT PARAMETERS\nPorts Interface\nFixed port\t1*10G Base-X SFP+ port + 1*10/100/1G/2.5G/5G/10G Base－T RJ45 port\nPower interface\tDC Jack\nStandard\tIEEE 802.3u 100BASE-TX\nIEEE 802.3ab 1000BASE-T\nIEEE 802.3bz 2.5G/5GBASE-T\nIEEE 802.3an 10GBASE-T\nIEEE 802.3ae 10Gbps Ethernet\nIEEE 802.3x full-duplex flow control\nLED Indicators\nPWR\tPower supply indicator\t\nFiber Link/Act\tFiber port operation indicator\t\nSD\tFiber signal detection indicator\t\n10G\tElectrical port speed rate indicator\t\nCopper Link\tElectrical operation state indicator\t\nCopper Act\tElectrical port data receiving/transmission indicator\t\nCable type & Transmission distance\nTwisted-pair\t1000Base-T:  0-100m  Cat5\nTwisted-pair\t2.5GBase-T:  0-100m  Cat5e\nTwisted-pair\t5GBase-T:  0-100m  Cat5e\nTwisted-pair\t10G Base-T:  0-100m  Cat6a\nFiber\t50/125μm or 62.5/125μm multi-mode fiber optic cable, up to 300m, 9/125μm single-mode fiber optic cable, up to 60km\nElectrical Specifications\nInput voltage\tDC5-12 V\nTotal Power consumption\t≤4.1W\nLayer 2 Switching\nForwarding delay\t<5us\nMDX/MIDX\tSupport\nWatchdog\tSupport\nEnvironment\nOperating temperature\t-20℃~70℃\nStorage temperature\t-40℃~85℃\nRelative humidity\t5%~95% （non-condensing）\nThermal methods\tFan-less, natural heat dissipation\nMTBF\t100,000 hours\nProtection & Certification\t\nSurge protection of Power\tIEC 61000-4-5  Level 4（4KV）（8/20us）\nSurge protection of Ethernet port\tIEC 61000-4-5  Level 3（2KV）（10/700us）\nESD\tIEC 61000-4-2  Level 4 （8K/15K）\nFree fall\t0.5m\nCertification\tCE, FCC, RoHs\nMechanical Structure\nDimension\t95*71*27mm\nInstallation Method\tDesktop, wall-mount\nWeight\tNet weight 0.2KG\nOrder information\nModel\tDescription\nLT-MC80X\t10G media converter with 1*10/100/1G/2.5G/5G/10G RJ45 port + 10G SFP+ slot,  DC5-12V",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"10G Media Converter"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LT-MC80X (1*10G SFP+ port + 1*10/100M/1G/2.5G/5G/10G RJ45 port）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Overview:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SmartByte LT-MC80X media converter is a 10G N-Base-T (10/100M/1G/2.5G/5G/10G) to 10GBase-R media converter, Which converts traditional twisted-pair RJ-45 cable into SFP+ slot for pluggable fiber transceiver, extending transmission distance to servers, switches and patch panels  for Data Center 10G N-Base-T to 10GBase-R conversion application or ISP Mobile DU and Enterprise broadband service applications."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Picture"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Features:"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"10/100/1G/2.5G/5G/10G BASE-T RJ45 interface with auto MDI/MDI-X function, 10GBASE-X SFP+ slot interface"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"IEEE 802.3u/802.3ab/802.3bz/802.3ae Ethernet standard compliant"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"Supports auto-negotiation and 100Mbps half/full duplex and 1/2.5/5/10Gbps full duplex mode"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"Fan-less design, support plug and play installation"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"Support watchdog function, which can restart the equipments automatically when it is frozen"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"Wide range input voltage: DC5-12V"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"4KV surge protection; ESD: 8KV/contact, 15KV/air protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Technical specification"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PRODUCT PARAMETERS"
+},
+{
+"t":"table",
+"rows":[
+[
+"Ports Interface"
+],
+[
+"Fixed port",
+"1*10G Base-X SFP+ port + 1*10/100/1G/2.5G/5G/10G Base－T RJ45 port"
+],
+[
+"Power interface",
+"DC Jack"
+],
+[
+"Standard",
+"IEEE 802.3u 100BASE-TX\nIEEE 802.3ab 1000BASE-T\nIEEE 802.3bz 2.5G/5GBASE-T\nIEEE 802.3an 10GBASE-T\nIEEE 802.3ae 10Gbps Ethernet\nIEEE 802.3x full-duplex flow control"
+],
+[
+"LED Indicators"
+],
+[
+"PWR",
+"Power supply indicator",
+""
+],
+[
+"Fiber Link/Act",
+"Fiber port operation indicator",
+""
+],
+[
+"SD",
+"Fiber signal detection indicator",
+""
+],
+[
+"10G",
+"Electrical port speed rate indicator",
+""
+],
+[
+"Copper Link",
+"Electrical operation state indicator",
+""
+],
+[
+"Copper Act",
+"Electrical port data receiving/transmission indicator",
+""
+],
+[
+"Cable type & Transmission distance"
+],
+[
+"Twisted-pair",
+"1000Base-T:  0-100m  Cat5"
+],
+[
+"Twisted-pair",
+"2.5GBase-T:  0-100m  Cat5e"
+],
+[
+"Twisted-pair",
+"5GBase-T:  0-100m  Cat5e"
+],
+[
+"Twisted-pair",
+"10G Base-T:  0-100m  Cat6a"
+],
+[
+"Fiber",
+"50/125μm or 62.5/125μm multi-mode fiber optic cable, up to 300m, 9/125μm single-mode fiber optic cable, up to 60km"
+],
+[
+"Electrical Specifications"
+],
+[
+"Input voltage",
+"DC5-12 V"
+],
+[
+"Total Power consumption",
+"≤4.1W"
+],
+[
+"Layer 2 Switching"
+],
+[
+"Forwarding delay",
+"<5us"
+],
+[
+"MDX/MIDX",
+"Support"
+],
+[
+"Watchdog",
+"Support"
+],
+[
+"Environment"
+],
+[
+"Operating temperature",
+"-20℃~70℃"
+],
+[
+"Storage temperature",
+"-40℃~85℃"
+],
+[
+"Relative humidity",
+"5%~95% （non-condensing）"
+],
+[
+"Thermal methods",
+"Fan-less, natural heat dissipation"
+],
+[
+"MTBF",
+"100,000 hours"
+],
+[
+"Protection & Certification",
+""
+],
+[
+"Surge protection of Power",
+"IEC 61000-4-5  Level 4（4KV）（8/20us）"
+],
+[
+"Surge protection of Ethernet port",
+"IEC 61000-4-5  Level 3（2KV）（10/700us）"
+],
+[
+"ESD",
+"IEC 61000-4-2  Level 4 （8K/15K）"
+],
+[
+"Free fall",
+"0.5m"
+],
+[
+"Certification",
+"CE, FCC, RoHs"
+],
+[
+"Mechanical Structure"
+],
+[
+"Dimension",
+"95*71*27mm"
+],
+[
+"Installation Method",
+"Desktop, wall-mount"
+],
+[
+"Weight",
+"Net weight 0.2KG"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Order information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"Description"
+],
+[
+"LT-MC80X",
+"10G media converter with 1*10/100/1G/2.5G/5G/10G RJ45 port + 10G SFP+ slot,  DC5-12V"
+]
+]
+}
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.jpeg",
+"bytes":20286
+},
+{
+"name":"image2.jpeg",
+"bytes":16430
+},
+{
+"name":"image3.png",
+"bytes":9378
+}
+]
+}

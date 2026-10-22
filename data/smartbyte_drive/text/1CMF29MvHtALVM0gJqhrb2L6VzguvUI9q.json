@@ -1,0 +1,366 @@
+{
+"id":"1CMF29MvHtALVM0gJqhrb2L6VzguvUI9q",
+"name":"LT-MC80G enhanced function with Dip switch series--neutral.docx",
+"path":"SmartByte/MC/凌特中性收发器引文规格书/LT-MC80G enhanced function with Dip switch series--neutral.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":145563,
+"sha256":"5e4fa222f8a5a25b38e013d7bd202a2f5b474c94714ba292863b867e2b71eb4e",
+"extracted_at":"2026-10-22T02:06:08Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":3420,
+"meta":{
+"title":"",
+"author":"雙燕飛",
+"last_modified_by":"peter hu",
+"created":"2017-12-26T00:34:00+00:00",
+"modified":"2023-09-05T08:24:22+00:00",
+"paragraphs":24,
+"tables":2,
+"embedded_images":4
+},
+"warnings":[],
+"text":"10/100/1000M Media Converters\nEnhanced Function with Dip switch\nLT-MC80G Series\nOverview:\nLT-MC80G enhanced function series, featuring with 1*Gigabit SFP port + 1* 10/100/1000M RJ45 port, are the 10/100/1000Mbps adaptive Gigabit Ethernet media converter which adopt switching technology to fulfill media conversion. They complies with IEEE802.3,  IEEE802.3u, IEEE802.3z and IEEE802.3ab standards and provide media conversion between 10/100/1000Base-T and 1000Base-SX/LX interface. The key function of enhanced series are supporting LFP, network storm suppression, forcing the electrical port and fiber port on 100M，which can meet with the different application requirement.\nPicture\nFeatures\n●   10/100/1000M media converter with SFP slot\n●   Complies with IEEE 802.3 10Base-T, IEEE 802.3u 100Base-TX, IEEE 802.3ab 1000Base-T, IEEE 802.3z 1000Base-SX\n●   Media conversion between 10/100/1000Base-T and 1000Base-SX\n●   Supporting auto-sensing full-duplex and half-duplex operation\n●   Supporting auto-sensation of MDI/MDI-X, facilitating system commissioning and installation\n●   Supporting watchdog function, which can restart the equipments automatically when it is\nFrozen\n●   Dip switch function: supporting LFP, network storm suppression, forcing the electrical port\nand fiber port on 100M\n●   Supporting 1M Large buffer\n●   Supporting Jumbo frame 10Kbytes\n●   Store-and-Forward mechanism\n●   Flexible transmission distance based on different SFP module.\n●   4KV surge protection, ESD: Air-15kV, Contact-8kV protection\nTechnical specification\nPort interface\nFixed port\t1*1000 Base-X SFP port + 1*10/100/1000 Base－T RJ45\nPower interface\tDC jack\nEthernet standard\tIEEE802.3 10Base-T Ethernet, IEEE802.3u 100Base-TX Fast Ethernet, / IEEE802.3ab 1000Base-T , IEEE802.3z 1000Base-SX Gigabit Ethernet\nLED indicators\t\nPWR\tPower supply indicator\t\nFDX\tElectrical port operation mode indicator\t\nLink/Act\tLink state indicator\t\nCopper 100M Link\tElectrical port speed rate indicator\t\nCopper 1000M Link\tElectrical port speed rate indicator\t\nFiber Link/Act\tFiber port link state indicator\t\nDip switch function\nLFP\tNetwork storm suppression\n3.Forcing fiber port on 100M\t4. Forcing electrical port on 100M\nCable type & transmission distance\nTwisted-pair\t0-100m（CAT5e,CAT6）\nFiber port\tDepending on the SFP module\nElectrical Specifications\nInput voltage\tDC 5 V\nTotal Power consumption\tfull load≤1.6W\nLayer 2 Switching\nSwitching capacity\t14G\nPacket forwarding rate\t10.416Mpps\nMAC address table\t8K\nBuffer\t1M\nForwarding delay\t<5us\nMDX/MIDX\tSupport\nJumbo Frame\tSupport 10Kbytes\nWatchdog\tSupport\nLFP\tSupport\nEnvironment\nOperating temperature\t-20℃~70℃\nStorage temperature\t-40℃~85℃\nRelative humidity\t5%~95%（non-condensing）\nThermal methods\tFan-less, natural heat dissipation\nMTBF\t100,000 hours\nProtection & Certification\t\nPower surge protection\tIEC 61000-4-5  Level 4（4KV）（8/20us）\nEthernet port surge protection\tIEC 61000-4-5  Level 3（2KV）（10/700us）\nESD\tIEC 61000-4-2  Level 4 （8K/15K）\nFree fall\t0.5m\nCertification\tCE, FCC, RoHs\nStructure\nDimension\t93*71*27mm\nInstallation method\tDesktop, wall-mount\nWeight\tNet weight 0.2KG\nOrder information\nModel\tDescription\nLT-MC80G\t10/100/1000Base-T to 1000Base-X media converter with 1*Gigabit SFP port  and 1*10/100/1000M RJ45 port, without SFP module, external power adaptor, enhanced function with Dip switch (Any 1000M SFP modules from 500m to 100KM can be inserted into the SFP slot)\nPRODUCT PARAMETERS",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"10/100/1000M Media Converters"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Enhanced Function with Dip switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LT-MC80G Series"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Overview:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LT-MC80G enhanced function series, featuring with 1*Gigabit SFP port + 1* 10/100/1000M RJ45 port, are the 10/100/1000Mbps adaptive Gigabit Ethernet media converter which adopt switching technology to fulfill media conversion. They complies with IEEE802.3,  IEEE802.3u, IEEE802.3z and IEEE802.3ab standards and provide media conversion between 10/100/1000Base-T and 1000Base-SX/LX interface. The key function of enhanced series are supporting LFP, network storm suppression, forcing the electrical port and fiber port on 100M，which can meet with the different application requirement."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Picture"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"●   10/100/1000M media converter with SFP slot"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"●   Complies with IEEE 802.3 10Base-T, IEEE 802.3u 100Base-TX, IEEE 802.3ab 1000Base-T, IEEE 802.3z 1000Base-SX"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"●   Media conversion between 10/100/1000Base-T and 1000Base-SX"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"●   Supporting auto-sensing full-duplex and half-duplex operation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"●   Supporting auto-sensation of MDI/MDI-X, facilitating system commissioning and installation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"●   Supporting watchdog function, which can restart the equipments automatically when it is"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Frozen"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"●   Dip switch function: supporting LFP, network storm suppression, forcing the electrical port"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"and fiber port on 100M"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"●   Supporting 1M Large buffer"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"●   Supporting Jumbo frame 10Kbytes"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"●   Store-and-Forward mechanism"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"●   Flexible transmission distance based on different SFP module."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"●   4KV surge protection, ESD: Air-15kV, Contact-8kV protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Technical specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"Port interface"
+],
+[
+"Fixed port",
+"1*1000 Base-X SFP port + 1*10/100/1000 Base－T RJ45"
+],
+[
+"Power interface",
+"DC jack"
+],
+[
+"Ethernet standard",
+"IEEE802.3 10Base-T Ethernet, IEEE802.3u 100Base-TX Fast Ethernet, / IEEE802.3ab 1000Base-T , IEEE802.3z 1000Base-SX Gigabit Ethernet"
+],
+[
+"LED indicators",
+""
+],
+[
+"PWR",
+"Power supply indicator",
+""
+],
+[
+"FDX",
+"Electrical port operation mode indicator",
+""
+],
+[
+"Link/Act",
+"Link state indicator",
+""
+],
+[
+"Copper 100M Link",
+"Electrical port speed rate indicator",
+""
+],
+[
+"Copper 1000M Link",
+"Electrical port speed rate indicator",
+""
+],
+[
+"Fiber Link/Act",
+"Fiber port link state indicator",
+""
+],
+[
+"Dip switch function"
+],
+[
+"LFP",
+"Network storm suppression"
+],
+[
+"3.Forcing fiber port on 100M",
+"4. Forcing electrical port on 100M"
+],
+[
+"Cable type & transmission distance"
+],
+[
+"Twisted-pair",
+"0-100m（CAT5e,CAT6）"
+],
+[
+"Fiber port",
+"Depending on the SFP module"
+],
+[
+"Electrical Specifications"
+],
+[
+"Input voltage",
+"DC 5 V"
+],
+[
+"Total Power consumption",
+"full load≤1.6W"
+],
+[
+"Layer 2 Switching"
+],
+[
+"Switching capacity",
+"14G"
+],
+[
+"Packet forwarding rate",
+"10.416Mpps"
+],
+[
+"MAC address table",
+"8K"
+],
+[
+"Buffer",
+"1M"
+],
+[
+"Forwarding delay",
+"<5us"
+],
+[
+"MDX/MIDX",
+"Support"
+],
+[
+"Jumbo Frame",
+"Support 10Kbytes"
+],
+[
+"Watchdog",
+"Support"
+],
+[
+"LFP",
+"Support"
+],
+[
+"Environment"
+],
+[
+"Operating temperature",
+"-20℃~70℃"
+],
+[
+"Storage temperature",
+"-40℃~85℃"
+],
+[
+"Relative humidity",
+"5%~95%（non-condensing）"
+],
+[
+"Thermal methods",
+"Fan-less, natural heat dissipation"
+],
+[
+"MTBF",
+"100,000 hours"
+],
+[
+"Protection & Certification",
+""
+],
+[
+"Power surge protection",
+"IEC 61000-4-5  Level 4（4KV）（8/20us）"
+],
+[
+"Ethernet port surge protection",
+"IEC 61000-4-5  Level 3（2KV）（10/700us）"
+],
+[
+"ESD",
+"IEC 61000-4-2  Level 4 （8K/15K）"
+],
+[
+"Free fall",
+"0.5m"
+],
+[
+"Certification",
+"CE, FCC, RoHs"
+],
+[
+"Structure"
+],
+[
+"Dimension",
+"93*71*27mm"
+],
+[
+"Installation method",
+"Desktop, wall-mount"
+],
+[
+"Weight",
+"Net weight 0.2KG"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Order information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"Description"
+],
+[
+"LT-MC80G",
+"10/100/1000Base-T to 1000Base-X media converter with 1*Gigabit SFP port  and 1*10/100/1000M RJ45 port, without SFP module, external power adaptor, enhanced function with Dip switch (Any 1000M SFP modules from 500m to 100KM can be inserted into the SFP slot)"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PRODUCT PARAMETERS"
+}
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.jpeg",
+"bytes":24410
+},
+{
+"name":"image2.png",
+"bytes":86985
+},
+{
+"name":"image3.png",
+"bytes":10702
+}
+]
+}

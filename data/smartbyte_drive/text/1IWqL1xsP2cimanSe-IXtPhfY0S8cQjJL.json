@@ -1,0 +1,237 @@
+{
+"id":"1IWqL1xsP2cimanSe-IXtPhfY0S8cQjJL",
+"name":"JW-S3010G-2GX8GT datasheet.docx",
+"path":"SmartByte/MC/进为/JW-S3010G-2GX8GT datasheet.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":640893,
+"sha256":"dba2c7aed5036e06b3704ae00edb774ed9660fc1f6724f08e06c6a4f266aebe6",
+"extracted_at":"2026-10-22T02:06:11Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":2262,
+"meta":{
+"title":"",
+"author":"雙燕飛",
+"last_modified_by":"Dora",
+"created":"2020-05-13T06:38:00+00:00",
+"modified":"2024-11-11T03:05:38+00:00",
+"paragraphs":4,
+"tables":3,
+"embedded_images":3
+},
+"warnings":[],
+"text":"JW-S3010G系列\n产品描述       PRODUCT DESCRIPTION\nJW-S3010G series is a non-managed gigabit 10-port switch independently developed by Shenzhen Lingte Huasheng Technology Co., LTD., with 810 / 100 / 1000Mbps adaptive RJ 45 ports and 2 gigabit light ports. Each RJ 45 port supports MDI / MDIX automatic flipping and line speed forwarding functions, which is convenient for users to flexibly network, meet the networking requirements of various scenarios, and meet the deployment requirements in outdoor monitoring environments such as rail transit, safe city and intelligent transportation.\n产品参数       PRODUCT PARAMETERS\n接口（Provider Mode Ports）\n业务接口（Fixed port）\t8*10/100/1000 Base-T +2* 1000Base-X\n电源接口（Power interface）\tDC connector (2.5mm)\nLED灯（LED Indicators）\tP: power light / Link / Act9-10: Light signal indicator light / Link / Act1-8: The Link / act link status indicator for port 1-8\n光纤接口( Optical fiber interface)\tSC、FC、ST、LC\n线缆类型及距离（Cable type&Transmission distance）\n双绞线（Twisted-pair）\t0-100m（CAT5e,CAT6）\n单模光纤（Monomode optical fiber）\t20/40/60/80/100KM\n多模光纤（Multimode optical fibre）\t550M\n网络拓扑（Network Topology）\n环形拓扑（Ring topology）\tDo not support\n星型拓扑（Star topology）\tSupport\n树形拓扑（Tree Topology）\tSupport\n电气特性（Electrical Specifications）\n输入电压（input voltage）\tDC5V\n整机功耗（Total Power consumption）\t满载（Total power）≤4.5W\n二层交换（Layer 2 Switching）\n交换容量（Switching capacity）\t28G\n包转发率（Packet forwarding rate）\t20.8Mpps\nMAC地址表（MAC address table）\t2K\nVLANSupport及数量（VLAN）\tSupport\n包缓冲区（Buffer）\t384K\n转发延迟（Forwarding delay）\t<5us\n巨型帧（Jumbo Frame）\tSupport15Kbytes\n极性反转（MDX/MIDX）\tSupport\n看门狗功能（WatchDog）\tSupport\n环境条件（Environment）\n工作温度（Operating temperature）\t-30℃~+70℃\n储藏/运输温度（Storage temperature）\t-40℃~+70℃\n相对湿度（Relative humidity）\t5%~95% Do not support凝露（non-condensing）\n散热方式（Thermal methods）\tFanless design, natural heat dissipation\nMTBF\t50,000 hour\n机械结构（ Mechanical Dimensions）\n尺寸（Product size）\t152*115*44mm（LxWxH）\n安装方式（Installation Method）\tDesktop installation\n净重 （Weight）\t0.6KG\n配套和附件（Accessories）\t\n配套设备（Accessories）\tEquipment, qualification certificate, instruction manual, dust proof plug\n\tPower Adapter (optional)\n可选型号（Optional model）\t描述信息\nLT-S3010G-2GX8GT\t2*100/1000M SFP+8*10/100/1000M RJ45，DC5V power supply\nLT-S3010G-2GX8GT-SC20\t2*100/1000M SC+8*10/100/1000M RJ45，DC5V power supply",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"JW-S3010G系列"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"产品描述       PRODUCT DESCRIPTION"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"JW-S3010G series is a non-managed gigabit 10-port switch independently developed by Shenzhen Lingte Huasheng Technology Co., LTD., with 810 / 100 / 1000Mbps adaptive RJ 45 ports and 2 gigabit light ports. Each RJ 45 port supports MDI / MDIX automatic flipping and line speed forwarding functions, which is convenient for users to flexibly network, meet the networking requirements of various scenarios, and meet the deployment requirements in outdoor monitoring environments such as rail transit, safe city and intelligent transportation."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"产品参数       PRODUCT PARAMETERS"
+},
+{
+"t":"table",
+"rows":[
+[
+"接口（Provider Mode Ports）"
+],
+[
+"业务接口（Fixed port）",
+"8*10/100/1000 Base-T +2* 1000Base-X"
+],
+[
+"电源接口（Power interface）",
+"DC connector (2.5mm)"
+],
+[
+"LED灯（LED Indicators）",
+"P: power light / Link / Act9-10: Light signal indicator light / Link / Act1-8: The Link / act link status indicator for port 1-8"
+],
+[
+"光纤接口( Optical fiber interface)",
+"SC、FC、ST、LC"
+],
+[
+"线缆类型及距离（Cable type&Transmission distance）"
+],
+[
+"双绞线（Twisted-pair）",
+"0-100m（CAT5e,CAT6）"
+],
+[
+"单模光纤（Monomode optical fiber）",
+"20/40/60/80/100KM"
+],
+[
+"多模光纤（Multimode optical fibre）",
+"550M"
+],
+[
+"网络拓扑（Network Topology）"
+],
+[
+"环形拓扑（Ring topology）",
+"Do not support"
+],
+[
+"星型拓扑（Star topology）",
+"Support"
+],
+[
+"树形拓扑（Tree Topology）",
+"Support"
+],
+[
+"电气特性（Electrical Specifications）"
+],
+[
+"输入电压（input voltage）",
+"DC5V"
+],
+[
+"整机功耗（Total Power consumption）",
+"满载（Total power）≤4.5W"
+],
+[
+"二层交换（Layer 2 Switching）"
+],
+[
+"交换容量（Switching capacity）",
+"28G"
+],
+[
+"包转发率（Packet forwarding rate）",
+"20.8Mpps"
+],
+[
+"MAC地址表（MAC address table）",
+"2K"
+],
+[
+"VLANSupport及数量（VLAN）",
+"Support"
+],
+[
+"包缓冲区（Buffer）",
+"384K"
+],
+[
+"转发延迟（Forwarding delay）",
+"<5us"
+],
+[
+"巨型帧（Jumbo Frame）",
+"Support15Kbytes"
+],
+[
+"极性反转（MDX/MIDX）",
+"Support"
+],
+[
+"看门狗功能（WatchDog）",
+"Support"
+],
+[
+"环境条件（Environment）"
+],
+[
+"工作温度（Operating temperature）",
+"-30℃~+70℃"
+],
+[
+"储藏/运输温度（Storage temperature）",
+"-40℃~+70℃"
+],
+[
+"相对湿度（Relative humidity）",
+"5%~95% Do not support凝露（non-condensing）"
+],
+[
+"散热方式（Thermal methods）",
+"Fanless design, natural heat dissipation"
+],
+[
+"MTBF",
+"50,000 hour"
+],
+[
+"机械结构（ Mechanical Dimensions）"
+],
+[
+"尺寸（Product size）",
+"152*115*44mm（LxWxH）"
+],
+[
+"安装方式（Installation Method）",
+"Desktop installation"
+],
+[
+"净重 （Weight）",
+"0.6KG"
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+"配套和附件（Accessories）",
+""
+],
+[
+"配套设备（Accessories）",
+"Equipment, qualification certificate, instruction manual, dust proof plug"
+],
+[
+"",
+"Power Adapter (optional)"
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+"可选型号（Optional model）",
+"描述信息"
+],
+[
+"LT-S3010G-2GX8GT",
+"2*100/1000M SFP+8*10/100/1000M RJ45，DC5V power supply"
+],
+[
+"LT-S3010G-2GX8GT-SC20",
+"2*100/1000M SC+8*10/100/1000M RJ45，DC5V power supply"
+]
+]
+}
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":611266
+},
+{
+"name":"image2.png",
+"bytes":4327
+}
+]
+}

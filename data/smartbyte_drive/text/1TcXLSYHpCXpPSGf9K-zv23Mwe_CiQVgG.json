@@ -1,0 +1,255 @@
+{
+"id":"1TcXLSYHpCXpPSGf9K-zv23Mwe_CiQVgG",
+"name":"STC-110GE.docx",
+"path":"SmartByte/MC/进为/STC-110GE.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":104791,
+"sha256":"9d5e901824010a4fc38c0a64a6f3bc4f0169fabdf5f8ab5d8513350d78173cd2",
+"extracted_at":"2026-10-22T02:06:13Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":1806,
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2023-07-22T16:14:00+00:00",
+"modified":"2024-11-26T15:19:53+00:00",
+"paragraphs":17,
+"tables":1,
+"embedded_images":5
+},
+"warnings":[],
+"text":"STC-110GE\nMain Property\nInput voltage: DC5V\nOperating temperature: -20℃~60℃\nOuter shell: Fanless design\nMTBF: 100,000 hours\nChip: MTK\nProduct Description\nThis Ethernet media converter realizes the conversion of signals between fiber optic and copper twisted-pair.\nThe maximum network transmission distance can be increased to more than 100Km.\nIt supports\nlink fault alarm\nwide operating temperature range\nport and power surge protection\nand meets deployment requirements in outdoor monitoring environments such as rail transit, safe city, and intelligent transportation.\nProduct Size\nProduct Parameter\nPort\nFixed port\t1*1000Base-X, 1*10/100/1000Base-T\nPower interface\tDC jack\nLED Indicator\t\nPWR\tPower indicator\t\nFDX\tElectrical port working mode indicator\t\nLink/Act\tLink status indicator\t\nCopper 100M Link\tElectrical port speed indicator\t\nCopper 1000M Link\tElectrical port speed indicator\t\nCable Type&Transmission Distance\nTwisted-pair\t0-100m(CAT5e,CAT6)\nSinglemode optical fiber\t20/40/60/80/100Km\nMultimode optical fibre\t550m/2Km\nElectrical Specification\nInput voltage\tDC5 V\nTotal power consumption\tfull load≤1.5W\nEnvironment\nOperating temperature\t-20℃~60℃\nStorage temperature\t-40℃~85℃\nRelative humidity\t5%~95% non-condensing\nThermal method\tFanless design, natural heat dissipation\nMTBF\t100,000 hours\nMechanical Dimension\nProduct size\t95*71*27mm\nInstallation method\tDesktop, wall-mounted installation\nWeight\t0.2Kg\nAccessory\nAccessory\tEquipment, dust plug, Certificate, manual, power adapter (optional)\n[页眉页脚]\n2025/Q1\t                                                                                                                       s.sagatelecom@gmail.com\n\t\t\t\t\t\t\t                                                                       Saga Telecom\nwww.sagatelecom.com.cn\nConnecting, Converting, Creating",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"STC-110GE"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Main Property"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Input voltage: DC5V"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Operating temperature: -20℃~60℃"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Outer shell: Fanless design"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MTBF: 100,000 hours"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Chip: MTK"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product Description"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This Ethernet media converter realizes the conversion of signals between fiber optic and copper twisted-pair."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The maximum network transmission distance can be increased to more than 100Km."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It supports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"link fault alarm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"wide operating temperature range"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"port and power surge protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"and meets deployment requirements in outdoor monitoring environments such as rail transit, safe city, and intelligent transportation."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product Size"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product Parameter"
+},
+{
+"t":"table",
+"rows":[
+[
+"Port"
+],
+[
+"Fixed port",
+"1*1000Base-X, 1*10/100/1000Base-T"
+],
+[
+"Power interface",
+"DC jack"
+],
+[
+"LED Indicator",
+""
+],
+[
+"PWR",
+"Power indicator",
+""
+],
+[
+"FDX",
+"Electrical port working mode indicator",
+""
+],
+[
+"Link/Act",
+"Link status indicator",
+""
+],
+[
+"Copper 100M Link",
+"Electrical port speed indicator",
+""
+],
+[
+"Copper 1000M Link",
+"Electrical port speed indicator",
+""
+],
+[
+"Cable Type&Transmission Distance"
+],
+[
+"Twisted-pair",
+"0-100m(CAT5e,CAT6)"
+],
+[
+"Singlemode optical fiber",
+"20/40/60/80/100Km"
+],
+[
+"Multimode optical fibre",
+"550m/2Km"
+],
+[
+"Electrical Specification"
+],
+[
+"Input voltage",
+"DC5 V"
+],
+[
+"Total power consumption",
+"full load≤1.5W"
+],
+[
+"Environment"
+],
+[
+"Operating temperature",
+"-20℃~60℃"
+],
+[
+"Storage temperature",
+"-40℃~85℃"
+],
+[
+"Relative humidity",
+"5%~95% non-condensing"
+],
+[
+"Thermal method",
+"Fanless design, natural heat dissipation"
+],
+[
+"MTBF",
+"100,000 hours"
+],
+[
+"Mechanical Dimension"
+],
+[
+"Product size",
+"95*71*27mm"
+],
+[
+"Installation method",
+"Desktop, wall-mounted installation"
+],
+[
+"Weight",
+"0.2Kg"
+],
+[
+"Accessory"
+],
+[
+"Accessory",
+"Equipment, dust plug, Certificate, manual, power adapter (optional)"
+]
+]
+}
+],
+"header_footer":[
+"2025/Q1\t                                                                                                                       s.sagatelecom@gmail.com\n\t\t\t\t\t\t\t                                                                       Saga Telecom",
+"www.sagatelecom.com.cn",
+"Connecting, Converting, Creating"
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.jpeg",
+"bytes":18763
+},
+{
+"name":"image2.jpeg",
+"bytes":15771
+},
+{
+"name":"image3.png",
+"bytes":28114
+},
+{
+"name":"image4.png",
+"bytes":10702
+}
+]
+}

@@ -1,0 +1,378 @@
+{
+"id":"1-t8uqkbK-vnaaqHRA_IvHaAauLPAJ9fs",
+"name":"LT-MC80F enhanced function with Dip switch series--neutral.docx",
+"path":"SmartByte/MC/凌特中性收发器引文规格书/LT-MC80F enhanced function with Dip switch series--neutral.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":268983,
+"sha256":"a6496173df1aecfc842da9def29499458b673974cde1527e1fe00853255f4355",
+"extracted_at":"2026-10-22T02:06:07Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":4285,
+"meta":{
+"title":"",
+"author":"雙燕飛",
+"last_modified_by":"peter hu",
+"created":"2017-12-26T00:34:00+00:00",
+"modified":"2023-07-07T07:23:04+00:00",
+"paragraphs":24,
+"tables":2,
+"embedded_images":4
+},
+"warnings":[],
+"text":"10/100M Media Converters\nEnhanced Function With Dip Switch\nLT-MC80F Series\nOverview:\nLT-MC80F enhanced function series Ethernet media converter can interconvert electrical signals of 10Base-T and 100Base–TX twisted pairs with optical signals of 100Base-FX. It extends the network transmission distance from 100m via copper cables to 120 km via fiber optical cable. The key function of enhanced series are supporting LFP, network storm suppression, fixing the electrical port on 10M and full duplex operation state. It enables the data to transmit in two different mediums of electrical and optical networks either by the technology of data link L2 store-and-forward, or by the one of PHY L1 cut-through). It supports transmission in Multi-mode dual fiber, single mode dual fiber, single mode single fiber\nPicture\nFeatures:\n10/100Mbps auto-sensed, facilitating network upgrade\nDip switch function: supporting LFP, network storm suppression, fixing the electrical port on 10M and full duplex operation state\nBuilt-in efficient switching core to implement flow control and reduce broadcast packets\nFull-duplex and half-duplex auto-sensed\nSupporting auto-sense of MDI/MDI-X, facilitating system commissioning and installation\nSupporting half /full-duplex of FX.\nSupporting 10/100Mbps store-and-forward and 100Mbps cut-through transmission.\nSupporting the transmission of 100Base-FX or STM-1, compatible with other devices\nSupporting low-time lag transmission\nSupporting watchdog function, which can restart the equipments automatically when it is\nFrozen\nExtremely low power consumption (≤0.8W), reliable and stable performance\nOptions in Multi-mode dual fiber, single mode dual fiber, single mode single fiber\nTransmission distance 2KM～120KM optional\n4KV surge protection, ESD: Air-15kV, Contact-8kV protection\nTechnical specification\nPort interface\nFixed port\t1*100 Base-X SC port(FC/ST optional) + 1*10/100 Base－T RJ45 port\nPower interface\tDC jack\nEthernet standard\tIEEE802.3 10Base-T Ethernet, IEEE802.3u,100Base-TX/FX Fast Ethernet, IEEE802.3x Flow Control\nLED indicators\t\nPWR\tPower supply indicator\t\nFDX\tElectrical port operation mode indicator\t\nLink/Act\tLink state indicator\t\nCopper 100M Link\tElectrical port speed rate indicator\t\nFiber 100M Link\tFiber port speed rate indicator\t\nDip switch function\t\n1：LFP\t2：Network storm suppression\n3：Fixing the electrical port on 10M\t4：Electrical port full duplex\nCable type & transmission distance\nTwisted-pair\t0-100m（CAT5e,CAT6）\nMultimode optical fiber\t2KM\nSingle mode dual fiber\t20/40/60/80/100/120KM\nSingle mode single fiber\t20/40/60/80/100KM\nElectrical specification\nInput voltage\tDC 5V\nTotal Power consumption\t≤0.8W\nLayer 2 switching\nSwitching capacity\t1G\nPacket forwarding rat）\t0.744Mpps\nMAC address table\t2K\nBuffer\t2K\nForwarding delay\t<5us\nMDX/MIDX\tSupport\nWatchdog\tSupport\nLFP\tSupport\nEnvironment\nOperating temperature\t-20℃~70℃\nStorage temperature\t-40℃~85℃\nRelative humidity\t5%~95% （non-condensing）\nThermal methods\tFan-less, natural heat dissipation\nMTBF\t100,000 hours\nProtection & Certification\t\nPower surge protection\tIEC 61000-4-5  Level 4（4KV）（8/20us）\nEthernet port surge protection\tIEC 61000-4-5  Level 3（2KV）（10/700us）\nESD\tIEC 61000-4-2  Level 4 （8K/15K）\nFree fall\t0.5m\nCertification\tCE, FCC, RoHs\nStructure\nDimension(mm)\t93*71*27mm\nInstallation method\tDesktop, wall-mount\nWeight\tNet weight 0.2KG\nOrder information\nModel\tDescription\nLT-MC80F-SC2\t10/100Base-TX to 100Base-FX, 1*100M SC port + 1*10/100M RJ45 port ,multi-mode, 2km, SC (ST/FC optional) , standalone, external power adaptor, enhanced function with Dip switch\nLT-MC80F-SC20\t10/100Base-TX to 100Base-FX, 1*100M SC port + 1*10/100M RJ45 port ,single mode dual fiber, 20km, SC , standalone, external power adaptor. 40/60/80/100/120KM optional, ST/FC optional, enhanced function with Dip switch\nLT-MC80F-SC20A\t10/100Base-TX to 100Base-FX, 1*100M SC port + 1*10/100M RJ45 port, single mode single fiber, 20km, SC, TX1310nm,  standalone, external power adaptor; 40/60/80/100KM optional, ST/FC optional, enhanced function with Dip switch\nLT-MC80F-SC20B\t10/100Base-TX to 100Base-FX, 1*100M SC port + 1*10/100M RJ45 port, single mode single fiber, 20km, SC, TX1550nm, standalone, external power adaptor; 40/60/80/100KM optional, ST/FC optional, enhanced function with Dip switch",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"10/100M Media Converters"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Enhanced Function With Dip Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LT-MC80F Series"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Overview:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LT-MC80F enhanced function series Ethernet media converter can interconvert electrical signals of 10Base-T and 100Base–TX twisted pairs with optical signals of 100Base-FX. It extends the network transmission distance from 100m via copper cables to 120 km via fiber optical cable. The key function of enhanced series are supporting LFP, network storm suppression, fixing the electrical port on 10M and full duplex operation state. It enables the data to transmit in two different mediums of electrical and optical networks either by the technology of data link L2 store-and-forward, or by the one of PHY L1 cut-through). It supports transmission in Multi-mode dual fiber, single mode dual fiber, single mode single fiber"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Picture"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Features:"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"10/100Mbps auto-sensed, facilitating network upgrade"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Dip switch function: supporting LFP, network storm suppression, fixing the electrical port on 10M and full duplex operation state"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Built-in efficient switching core to implement flow control and reduce broadcast packets"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Full-duplex and half-duplex auto-sensed"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"Supporting auto-sense of MDI/MDI-X, facilitating system commissioning and installation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Supporting half /full-duplex of FX."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Supporting 10/100Mbps store-and-forward and 100Mbps cut-through transmission."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Supporting the transmission of 100Base-FX or STM-1, compatible with other devices"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Supporting low-time lag transmission"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"Supporting watchdog function, which can restart the equipments automatically when it is"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"Frozen"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"Extremely low power consumption (≤0.8W), reliable and stable performance"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Options in Multi-mode dual fiber, single mode dual fiber, single mode single fiber"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"Transmission distance 2KM～120KM optional"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"4KV surge protection, ESD: Air-15kV, Contact-8kV protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Technical specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"Port interface"
+],
+[
+"Fixed port",
+"1*100 Base-X SC port(FC/ST optional) + 1*10/100 Base－T RJ45 port"
+],
+[
+"Power interface",
+"DC jack"
+],
+[
+"Ethernet standard",
+"IEEE802.3 10Base-T Ethernet, IEEE802.3u,100Base-TX/FX Fast Ethernet, IEEE802.3x Flow Control"
+],
+[
+"LED indicators",
+""
+],
+[
+"PWR",
+"Power supply indicator",
+""
+],
+[
+"FDX",
+"Electrical port operation mode indicator",
+""
+],
+[
+"Link/Act",
+"Link state indicator",
+""
+],
+[
+"Copper 100M Link",
+"Electrical port speed rate indicator",
+""
+],
+[
+"Fiber 100M Link",
+"Fiber port speed rate indicator",
+""
+],
+[
+"Dip switch function",
+""
+],
+[
+"1：LFP",
+"2：Network storm suppression"
+],
+[
+"3：Fixing the electrical port on 10M",
+"4：Electrical port full duplex"
+],
+[
+"Cable type & transmission distance"
+],
+[
+"Twisted-pair",
+"0-100m（CAT5e,CAT6）"
+],
+[
+"Multimode optical fiber",
+"2KM"
+],
+[
+"Single mode dual fiber",
+"20/40/60/80/100/120KM"
+],
+[
+"Single mode single fiber",
+"20/40/60/80/100KM"
+],
+[
+"Electrical specification"
+],
+[
+"Input voltage",
+"DC 5V"
+],
+[
+"Total Power consumption",
+"≤0.8W"
+],
+[
+"Layer 2 switching"
+],
+[
+"Switching capacity",
+"1G"
+],
+[
+"Packet forwarding rat）",
+"0.744Mpps"
+],
+[
+"MAC address table",
+"2K"
+],
+[
+"Buffer",
+"2K"
+],
+[
+"Forwarding delay",
+"<5us"
+],
+[
+"MDX/MIDX",
+"Support"
+],
+[
+"Watchdog",
+"Support"
+],
+[
+"LFP",
+"Support"
+],
+[
+"Environment"
+],
+[
+"Operating temperature",
+"-20℃~70℃"
+],
+[
+"Storage temperature",
+"-40℃~85℃"
+],
+[
+"Relative humidity",
+"5%~95% （non-condensing）"
+],
+[
+"Thermal methods",
+"Fan-less, natural heat dissipation"
+],
+[
+"MTBF",
+"100,000 hours"
+],
+[
+"Protection & Certification",
+""
+],
+[
+"Power surge protection",
+"IEC 61000-4-5  Level 4（4KV）（8/20us）"
+],
+[
+"Ethernet port surge protection",
+"IEC 61000-4-5  Level 3（2KV）（10/700us）"
+],
+[
+"ESD",
+"IEC 61000-4-2  Level 4 （8K/15K）"
+],
+[
+"Free fall",
+"0.5m"
+],
+[
+"Certification",
+"CE, FCC, RoHs"
+],
+[
+"Structure"
+],
+[
+"Dimension(mm)",
+"93*71*27mm"
+],
+[
+"Installation method",
+"Desktop, wall-mount"
+],
+[
+"Weight",
+"Net weight 0.2KG"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Order information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"Description"
+],
+[
+"LT-MC80F-SC2",
+"10/100Base-TX to 100Base-FX, 1*100M SC port + 1*10/100M RJ45 port ,multi-mode, 2km, SC (ST/FC optional) , standalone, external power adaptor, enhanced function with Dip switch"
+],
+[
+"LT-MC80F-SC20",
+"10/100Base-TX to 100Base-FX, 1*100M SC port + 1*10/100M RJ45 port ,single mode dual fiber, 20km, SC , standalone, external power adaptor. 40/60/80/100/120KM optional, ST/FC optional, enhanced function with Dip switch"
+],
+[
+"LT-MC80F-SC20A",
+"10/100Base-TX to 100Base-FX, 1*100M SC port + 1*10/100M RJ45 port, single mode single fiber, 20km, SC, TX1310nm,  standalone, external power adaptor; 40/60/80/100KM optional, ST/FC optional, enhanced function with Dip switch"
+],
+[
+"LT-MC80F-SC20B",
+"10/100Base-TX to 100Base-FX, 1*100M SC port + 1*10/100M RJ45 port, single mode single fiber, 20km, SC, TX1550nm, standalone, external power adaptor; 40/60/80/100KM optional, ST/FC optional, enhanced function with Dip switch"
+]
+]
+}
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":137249
+},
+{
+"name":"image2.png",
+"bytes":97010
+},
+{
+"name":"image3.png",
+"bytes":10322
+}
+]
+}

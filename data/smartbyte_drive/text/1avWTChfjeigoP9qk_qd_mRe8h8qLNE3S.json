@@ -1,0 +1,22 @@
+{
+"id":"1avWTChfjeigoP9qk_qd_mRe8h8qLNE3S",
+"name":"test model.png",
+"path":"SmartByte/MC/STC-110XGE/test model.png",
+"type":"图片",
+"bytes":11626,
+"sha256":"2c316041d8e11794ca75550fe8b18ada6ab42d0ee9796481de0b4cc6b479262d",
+"extracted_at":"2026-10-22T02:06:30Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":742,
+"height":322,
+"mode":"RGBA",
+"thumb_bytes":6557
+},
+"ocr":{
+"text":"copper\n10M\n100M\n1G\n2.5G\n5G\n10G\nfiber\n10G\n10G\n10G\n10G\n10G\n10G\nthroughput(%)\n97%\n97%\n97%\n97%\n97%\n100%",
+"conf":93.8
+},
+"text":"copper\n10M\n100M\n1G\n2.5G\n5G\n10G\nfiber\n10G\n10G\n10G\n10G\n10G\n10G\nthroughput(%)\n97%\n97%\n97%\n97%\n97%\n100%"
+}

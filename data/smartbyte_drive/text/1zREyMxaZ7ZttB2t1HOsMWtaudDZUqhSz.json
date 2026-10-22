@@ -1,0 +1,26 @@
+{
+"id":"1zREyMxaZ7ZttB2t1HOsMWtaudDZUqhSz",
+"name":"Price List_Ethernet Media Converter.pdf",
+"path":"SmartByte/MC/Price List_Ethernet Media Converter.pdf",
+"type":"PDF",
+"ext":".pdf",
+"bytes":282481,
+"sha256":"3f62e760d47e1e89bc0e927f033404ddcfc84cde716d6c49ed083dca3b77325d",
+"extracted_at":"2026-10-22T02:06:05Z",
+"method":"pdfplumber",
+"status":"ok",
+"chars":1920,
+"meta":{
+"pages":1,
+"author":"tz",
+"creator":"WPS 表格",
+"creationdate":"D:20250427213606+13'36'",
+"moddate":"D:20250427213606+13'36'",
+"ocr_pages":0
+},
+"warnings":[],
+"text":"[p1]\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 13048800964 www.sagatelecom.com.cn Email: a.sagatelecom@gmail.com\nDownload Link(datasheet and photos for full category)\nhttps://drive.google.com/drive/folders/1chVSOnPIH_7Y4eE4knwUNgwotdY6Zguk?usp=drive_link\nMust-Know\n1. 10/100M, 10/100/1000M, 10G speeds are available\n2. With DIP function for flexible use\n3. 14-slot chassis mountable\n4. Support watchdog function to restart the device when frozen\n5. Full- positioned LEDs to indicate power and network status\n6. 4KV surge protection; ESD: 8KV/contact, 15KV/air protection\n7. Singlemode, multimode optical ports for difference distances\n8. PoE models are NOT available\nEthernet Media Converter(Non-PoE, Unmanaged)\nModel Specification Price Picture\nClick the model name, you will be directed to the product webpage for more information\n1*100M SC/ST/FC Fiber+1*10/100M RJ45, with 2KM/20KM dual fiber module\nSupport LFP, watchdog, 4KV surge protection for Ethernet port and power supply interface\nSTC-110FE $14.0\nDC5V input\nRemark: SFP fiber version is NOT available\n1*100/1000M SC/ST/FC/SFP Fiber+1*10/100/1000M RJ45, with 2KM/20KM dual fiber module\nSTC-110GE Support LFP, watchdog, 4KV surge protection for Ethernet port and power supply interface $17.0\nDC5V input\n1*10G Fiber+10/100/1000/2500M/10G RJ45\nSTC-110XGE Support LFP, watchdog, 4KV surge protection for Ethernet port and power supply interface $75.0\nDC5V~DC12V input\n14-slot 2U Ethernet media converter rack, dual power supply(220V)\nSTC-14DUR $75.0\nRemark: it could power above 3 models.\nRemarks\n1. Prices are valid for 15 days\n2. Price term: EXW\n3. Warranty period: One year\n4. Lead time for less than 50pcs: 5~7 working days\n5. Customization is available",
+"pages":[
+"Zhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 13048800964 www.sagatelecom.com.cn Email: a.sagatelecom@gmail.com\nDownload Link(datasheet and photos for full category)\nhttps://drive.google.com/drive/folders/1chVSOnPIH_7Y4eE4knwUNgwotdY6Zguk?usp=drive_link\nMust-Know\n1. 10/100M, 10/100/1000M, 10G speeds are available\n2. With DIP function for flexible use\n3. 14-slot chassis mountable\n4. Support watchdog function to restart the device when frozen\n5. Full- positioned LEDs to indicate power and network status\n6. 4KV surge protection; ESD: 8KV/contact, 15KV/air protection\n7. Singlemode, multimode optical ports for difference distances\n8. PoE models are NOT available\nEthernet Media Converter(Non-PoE, Unmanaged)\nModel Specification Price Picture\nClick the model name, you will be directed to the product webpage for more information\n1*100M SC/ST/FC Fiber+1*10/100M RJ45, with 2KM/20KM dual fiber module\nSupport LFP, watchdog, 4KV surge protection for Ethernet port and power supply interface\nSTC-110FE $14.0\nDC5V input\nRemark: SFP fiber version is NOT available\n1*100/1000M SC/ST/FC/SFP Fiber+1*10/100/1000M RJ45, with 2KM/20KM dual fiber module\nSTC-110GE Support LFP, watchdog, 4KV surge protection for Ethernet port and power supply interface $17.0\nDC5V input\n1*10G Fiber+10/100/1000/2500M/10G RJ45\nSTC-110XGE Support LFP, watchdog, 4KV surge protection for Ethernet port and power supply interface $75.0\nDC5V~DC12V input\n14-slot 2U Ethernet media converter rack, dual power supply(220V)\nSTC-14DUR $75.0\nRemark: it could power above 3 models.\nRemarks\n1. Prices are valid for 15 days\n2. Price term: EXW\n3. Warranty period: One year\n4. Lead time for less than 50pcs: 5~7 working days\n5. Customization is available"
+]
+}

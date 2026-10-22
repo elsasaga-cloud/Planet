@@ -1,0 +1,23 @@
+{
+"id":"1WIzvWP-aKRaYF71i-wlxgQc8gHPCK4CE",
+"name":"1.jpg",
+"path":"SmartByte/MC/STC-14DUR/Actual photos/1.jpg",
+"type":"图片",
+"bytes":2519645,
+"sha256":"3bb017278ad4a6fe09cd79191b07515626757d19abe6effccd5216f7864225a0",
+"extracted_at":"2026-10-22T02:06:38Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":2179,
+"height":4084,
+"mode":"RGB",
+"software":"FOA-AL00 4.0.0.113(C00E112R4P2)",
+"thumb_bytes":7873
+},
+"ocr":{
+"text":"FUSE 3A\nINPUT: 100-265VA‘\nPees 1.2AMAX\ne Notice:\n1. Green is normal.\n2. Red fault has sound to give an alarm.",
+"conf":80.5
+},
+"text":"FUSE 3A\nINPUT: 100-265VA‘\nPees 1.2AMAX\ne Notice:\n1. Green is normal.\n2. Red fault has sound to give an alarm."
+}

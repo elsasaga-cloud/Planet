@@ -1,0 +1,23 @@
+{
+"id":"1BC56zw3Db0hDrVnVC734842vp24RG2F9",
+"name":"3.jpg",
+"path":"SmartByte/MC/STC-14DUR/Actual photos/3.jpg",
+"type":"图片",
+"bytes":5696794,
+"sha256":"83158b4d6ff9fc249cda037b1237f2e0ff19876b0c492dacf9801378a09accd6",
+"extracted_at":"2026-10-22T02:06:36Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":3072,
+"height":4096,
+"mode":"RGB",
+"software":"FOA-AL00 4.0.0.113(C00E112R4P2)",
+"thumb_bytes":7898
+},
+"ocr":{
+"text":"44,\nnit",
+"conf":49.9
+},
+"text":"44,\nnit"
+}

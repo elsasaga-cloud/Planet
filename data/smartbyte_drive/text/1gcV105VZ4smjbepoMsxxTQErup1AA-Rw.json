@@ -1,0 +1,81 @@
+{
+"id":"1gcV105VZ4smjbepoMsxxTQErup1AA-Rw",
+"name":"SmartByte media converter pricelist for Simon-2024.02.27.xlsx",
+"path":"SmartByte/MC/SmartByte media converter pricelist for Simon-2024.02.27.xlsx",
+"type":"Excel",
+"ext":".xlsx",
+"bytes":67536,
+"sha256":"494beac3378d73381e71d6eece416eff772798673e70f731b55050597a20b960",
+"extracted_at":"2026-10-22T02:06:06Z",
+"method":"openpyxl(values)",
+"status":"ok",
+"chars":1807,
+"meta":{
+"sheets":[
+"Media converter"
+],
+"embedded_images":5,
+"rows_total":12
+},
+"warnings":[],
+"text":"--- Sheet: Media converter ---\nShenzhen SmartByte Technology Co.,Ltd\n                                      Address.: 8th Floor, 1st Building, Lihe Youke Innovation Base, Zhenlong town, Huiyang district, Huizhou city, Guangdong Province, 516227\nWeb: www.smartbyte-switch.com     E-mail: peter@smartbyte.com.cn\nMobile/Wechat/Whatsapp/Skype: +8613714293521\nSmartByte Model\tDescription\t未税价格(RMB)\n10/100M media converter\nLT-MC80F-SC02\t10/100M, Multi mode, Dual fiber,1310nm, 2km, SC connector(ST, FC optional); Support LFP, watchdog, 4KV surge protection for Ethernet port and power supply interface\t75\nLT-MC80F-SC20\t10/100M, Single mode, Dual fiber, 1310nm, 20km, SC connector(ST, FC optional); Support LFP, watchdog, 4KV surge protection for Ethernet port and power supply interface\t75\nLT-MC80F-SC20AB\t10/100M, Single mode, Single fiber, 1310/1550nm, 20km, SC connector(ST, FC optional), in pair. Support LFP, watchdog, 4KV surge protection for Ethernet port and power supply interface\t160\n10/100/1000M media converter\nLT-MC80G-SC05\t10/100/1000M, Multi mode, dual fiber, 550m, 850nm, SC connector(ST, FC optional);Support LFP, watchdog, 4KV surge protection for Ethernet port and power supply interface\t90\nLT-MC80G-SC20\t10/100/1000M, Single mode, dual fiber, 20km, 1310nm, SC connector(ST, FC optional);Support LFP, watchdog, 4KV surge protection for Ethernet port and power supply interface\t90\nLT-MC80G\t10/100/1000Base-TX to 1000Base-FX(SFP), Gigabit Ethernet Media converter with SFP slot, not include SFP module; Support LFP, watchdog, 4KV surge protection for Ethernet port and power supply interface\t70\n10G Media converter\nLT-MC80X\t10G media converter with 1*10/100/1G/2.5G/5G/10G RJ45 port + 10G SFP+ slot,  DC5-12V; Support watchdog, 4KV surge protection for Ethernet port and power supply interface\t350",
+"sheets":{
+"Media converter":{
+"state":"visible",
+"rows":[
+[
+"Shenzhen SmartByte Technology Co.,Ltd\n                                      Address.: 8th Floor, 1st Building, Lihe Youke Innovation Base, Zhenlong town, Huiyang district, Huizhou city, Guangdong Province, 516227\nWeb: www.smartbyte-switch.com     E-mail: peter@smartbyte.com.cn\nMobile/Wechat/Whatsapp/Skype: +8613714293521"
+],
+[
+"SmartByte Model",
+"Description",
+"未税价格(RMB)"
+],
+[
+"10/100M media converter"
+],
+[
+"LT-MC80F-SC02",
+"10/100M, Multi mode, Dual fiber,1310nm, 2km, SC connector(ST, FC optional); Support LFP, watchdog, 4KV surge protection for Ethernet port and power supply interface",
+"75"
+],
+[
+"LT-MC80F-SC20",
+"10/100M, Single mode, Dual fiber, 1310nm, 20km, SC connector(ST, FC optional); Support LFP, watchdog, 4KV surge protection for Ethernet port and power supply interface",
+"75"
+],
+[
+"LT-MC80F-SC20AB",
+"10/100M, Single mode, Single fiber, 1310/1550nm, 20km, SC connector(ST, FC optional), in pair. Support LFP, watchdog, 4KV surge protection for Ethernet port and power supply interface",
+"160"
+],
+[
+"10/100/1000M media converter"
+],
+[
+"LT-MC80G-SC05",
+"10/100/1000M, Multi mode, dual fiber, 550m, 850nm, SC connector(ST, FC optional);Support LFP, watchdog, 4KV surge protection for Ethernet port and power supply interface",
+"90"
+],
+[
+"LT-MC80G-SC20",
+"10/100/1000M, Single mode, dual fiber, 20km, 1310nm, SC connector(ST, FC optional);Support LFP, watchdog, 4KV surge protection for Ethernet port and power supply interface",
+"90"
+],
+[
+"LT-MC80G",
+"10/100/1000Base-TX to 1000Base-FX(SFP), Gigabit Ethernet Media converter with SFP slot, not include SFP module; Support LFP, watchdog, 4KV surge protection for Ethernet port and power supply interface",
+"70"
+],
+[
+"10G Media converter"
+],
+[
+"LT-MC80X",
+"10G media converter with 1*10/100/1G/2.5G/5G/10G RJ45 port + 10G SFP+ slot,  DC5-12V; Support watchdog, 4KV surge protection for Ethernet port and power supply interface",
+"350"
+]
+]
+}
+}
+}
