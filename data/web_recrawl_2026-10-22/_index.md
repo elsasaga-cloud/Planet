@@ -27,3 +27,4 @@
 ## 待 Actions 回填
 - `data/site_recrawl/20261022/{smartbyte,hrui,hohunet}/diff.md`（三家官网 vs 10-20/10-21 基线）
 - `data/hrui_cn_site_raw/`、`data/hohunet_cn_site_raw/`、`data/smartbyte_cn_site_raw/`（v3.2 新增；smartbyte.com.cn 可能 blocked/dead）
+| hrui | GitHub（brennoo/terraform-provider-hrui、logicog/RTLPlayground、openwrt/openwrt DTS、up-n-atom/SWTG118AS） | `hrui/github_opensource_ecosystem.md` | HRUI ZX-/SWTG 硬件族 = Horaco/Sodola/XikeStor/MokerLink/AmpCom/keepLINK/Lianguo/TRENDnet 同板；OpenWrt 主线支持 RTL9303/9313 机型 | 13:31Z |
