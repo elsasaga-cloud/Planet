@@ -1,0 +1,487 @@
+{
+"id":"1iE4HUyl3tLAj7bSOOMTrQnrz22DzSVjt",
+"name":"STH25G Series.pptx",
+"path":"CENTEC Based High-Speed Network/STH25G/STH25G Series.pptx",
+"type":"PPT",
+"ext":".pptx",
+"bytes":712086,
+"sha256":"98895af62ffe97372c35cc62eb351feb038d5fe840e77db781216a6d8e3e6497",
+"extracted_at":"2026-10-22T08:40:31Z",
+"method":"python-pptx",
+"status":"ok",
+"chars":7039,
+"meta":{
+"slides":6,
+"pictures":7
+},
+"warnings":[],
+"text":"[slide 1]\nSTH25G SERIES SWITCHES\nDATASHEET\nHigh Performance Data Center Switch\nProduct Overview\nThe STH25G Series switches are designed on a domestic new generation switch Chip, which is called PeakNetX Chip platform and BigFlow Chip platform.\nWith 48 x 25G or 24 x 25G high speed ports and rich features, these switches will perfectly meet the requirements of Metro, Enterprise, Data Center, and Hyper converged infrastructure (HCI) networks.\nKey features of the STH25G Series Switches\nMPLS (label-switching-based) integrates IP flexibility and connection-oriented reliability, enabling isolated multi-service bearing, precise traffic scheduling to meet multi-scenario efficient needs.\nMLAG which can build an Active-Active system to improve the reliability of the network links from single board grade to device grade.\nImplementing Vxlan and BGP protocols to build EVPN applications for data centers scenario.\nSwitch-to-switch encryption using MACsec (Media Access Control Security) AES-CMAC.\nPrecision Timing Protocol.\nRich features for Datacenter scenario.\nVersion: V3.5\nRelease Date: 2025/12/08\n\n[slide 2]\nThe STH25G Series switches provide various power supply solutions for customers choosing,\nfixed single power supply, fixed redundant power supplies, and redundant hot-swappable\npower supplies (AC and DC are both available).\nThe Fan solutions also have two bays with Field replaceable fan modules and build in fans. Generally, air flow of STH25G Series is front to rear (AFO), and some of models can do a customization of rear to front (AFI) airflow.\nTable 1: Feasible PSU and airflow of STH25G Series\nThe STH25G Series switches support varied management ways, include console port / in-band network ports / out-of-band network port. Support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, SSL, etc. to ensure security of management.\nMoreover, leveraging its profound technical expertise and in-depth understanding of campus and enterprise networking needs, Saga Telecom has launched the Da Hu Cloud Management System (DHCS).\nIt enhances network management and maintenance efficiency, reduces costs, elevates management intelligence, and delivers a faster, smarter, more secure and reliable network to better meet user requirements.\nItems\tAC\tDC\tAFO\tAFI\tPower Input\tFAN\nSTH-8C48DX-HSI\t◯\t◯\t◯\t◯\t2\t5\nSTH-4C48DX-HSI\t◯\t◯\t◯\t◯\t2\t4\nSTH-8C24DX-HSI\t◯\t◯\t◯\t◯\t2\t2\n\n[slide 3]\nVisual WEB UI\nSTOS allows you to quickly configure common configuration items using a visual WEB UI, which lowers the application threshold for users.\nTable 2: Family of the STH25G Series switches\nThe STH25G family of Ethernet switches consists of the following models\nModels\tEthernet Ports\tManagement\tPSU 1/PSU 2\tCooling\nSTH-4C48DX-HSI\t48 x 10G/25G SFP28\u000b+ 4 x 100G QSFP28\tConsole: RJ45 to RS232\u000bEthernet: 1G Port\u000bStorage: USB\t550W /550W CRPS\t4 x Fan Modules\u000b(front-to-back airflow)\nSTH-8C48DX-HSI\t48 x 10G/25G SFP28\u000b+ 8 x 100G QSFP28\tConsole: RJ45 to RS232\u000bEthernet: 1G Port\u000bStorage: USB\t550W /550W CRPS\t5 x Fan Modules\u000b(front-to-back airflow)\nSTH-8C24DX-HSI\t24 x 10G/25G SFP28\u000b+ 8 x 100G QSFP28\tConsole: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB\t350W / 350W CRPS\t2 x Fan Modules\u000b(front-to-back airflow)\n\n[slide 4]\nSTH25G Physical Specifications\nPacket Switch capacity (Tbps)\nSTH-8C48DX-HSI: 4.0 Tbps (bidirectional)\nSTH-4C48DX-HSI: 3.2 Tbps (bidirectional）\nSTH-8C24DX-HSI: 2.8 Tbps (bidirectional)\nLayer 2/Layer 3 Throughput (Gpps)\nSTH-4C48DX-HSI: 4.76 Gpps (bidirectional)\nSTH-8C48DX-HSI: 5.95 Gpps (bidirectional)\nSTH-8C24DX-HSI: 4.17 Gpps (bidirectional)\nCPU\nDual-core processor, ARM A53(1GHz)\non all models\nWeight (Net weight/Gross weight)\nSTH-8C48DX-HSI: 9Kg/12.5Kg\nSTH-4C48DX-HSI: 8Kg/11.5Kg\nSTH-8C24DX-HSI: 8Kg/11.5Kg\nDimensions (W x H x D) with package\nSTH-8C48DX-HSI: 66.5 x 15 x 56.5cm\nSTH-4C48DX-HSI: 66.5 x 15 x 56.5cm\nSTH-8C24DX-HSI: 66.5 x 15 x 56.5cm\nDimensions (W x H x D) without package\nSTH-8C48DX-HSI: 44.2 x 4.4 x 43cm\nSTH-4C48DX-HSI: 44.2 x 4.4 x 42cm\nSTH-8C24DX-HSI: 44.2 x 4.4 x 36cm\nPower consumption (220V 20ºC)\nWorst case, all ports used, line-rate traffic\nSTH-8C48DX-HSI: 168W\nSTH-4C48DX-HSI: 143W\nSTH-8C24DX-HSI: 130W\nTypical power consumption\nSTH-8C48DX-HSI: 154W\nSTH-4C48DX-HSI: 126W\nSTH-8C24DX-HSI: 116W\nEnvironmental ranges\nOperating temperature: 0ºC to 45ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90% (No condensation)\nStore Humidity: 5 to 95% (No condensation)\nOperating altitude: 0~5Km\nTemperature alarm\nAlarm threshold: 50ºC\nMTBF\nHSI (Swapable PSU and FAN): ≥90000h (~10.3 Years)\nCooling [CFM]-Total Maximum airflow\nSTH-8C48DX-HSI: 147.17\nSTH-8C24DX-HSI: 76.98\nMemory\neMMc: 8GB on all models\nDRAM: 2GB on all models\n\n[slide 5]\nSTH25G Software Specifications\nSaga Telecom implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘STOS Software features’ .\n* All Saga Telecom switches use a normalized software platform and image package file\n* Unified software version iteration plan\n* Unified user experience\nSTOS Network Platform\nLayer 2 switching\nIPv4/lPv6 Unicast Routing\nQoS\nIP Multicast Snooping/Proxy\nIPv4/lPv6 Multi cast Routing\nVRRP\nMultiprotocol Label Switching(MPLS)\nVirtual Private LAN Service(VPLS)\nVirtual Routing and Switching\nGeneralized Multiprotocol LabelSwitching(GMPLS)\nIPv6 Tunneling and TransitionTechnologies\nIP/MPLS OAM\nService management module\nFault Managemet (FM)\nHigh Availability (HA)\nIntegrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)\nHardware and platform abstraction layer\nAdvanced integration Suite\nCENTEC swtich chip  SDK\nSilicon in Pizza, Stacking or Chassis\nConfiguration\nOperating Systems TCP/IP Stacks\nLinux , IPv4/Pv6 Dual Stack\nHardware layer\nCENTEC Switch Chipset\nCPU Subsystem\nCooling SubSystem\nAC/DC DC/DC CLK\nEnvironmental Management Subsystem\nLogical Control Subunit\n\n[slide 6]\nOrdering Information\nSTH25G Series Switches\nAC/DC Power Supplies use for STH25G Series\nSoftware Licenses\nAccessory of STH25G Series\nItems\tDescription\nSTH-4C48DX-HSI\t25G Data Center Switch, with 48*25G SFP28, 4*100G QSFP28, Dual power supply modules(C13), 4 hot-swap fan modules.\nSTH-8C48DX-HSI\t25G Data Center Switch, with 48*25G SFP28, 8*100G QSFP28, Dual power supply modules(C13), 5 hot-swap fan modules.\nSTH-8C24DX-HSI\t25G Data Center Switch, with 24*25G SFP28, 8*100G QSFP28, Dual power supply modules(C13), 2 hot-swap fan modules.\nItems\tDescription\nPSU-550-AC-AFO\t550W AC power supply (front-to-back airflow)\nPSU-350-AC-AFO\t350W AC power supply (front-to-back airflow)\nPSU-550-DC-AFO\t550W DC power supply (front-to-back airflow)\nItems\tDescription\nSoftware License\tMS, L3 enhance features software license key, Preinstalled\nSoftware License\tMA, MPLS features software license key\nSoftware License\tST, Stacking feature software license key\nItems\tFront Mounting\tRear Mounting\tScrew\tPower Cord\tConsole (RS232 to RJ45)\nSTH-4C48DX-HSI\nSTH-8C48DX-HSI\nSTH-8C24DX-HSI\t2\t2\t14\t2\t1",
+"slides":[
+{
+"n":1,
+"items":[
+{
+"t":"p",
+"text":"STH25G SERIES SWITCHES\nDATASHEET\nHigh Performance Data Center Switch"
+},
+{
+"t":"p",
+"text":"Product Overview"
+},
+{
+"t":"p",
+"text":"The STH25G Series switches are designed on a domestic new generation switch Chip, which is called PeakNetX Chip platform and BigFlow Chip platform.\nWith 48 x 25G or 24 x 25G high speed ports and rich features, these switches will perfectly meet the requirements of Metro, Enterprise, Data Center, and Hyper converged infrastructure (HCI) networks."
+},
+{
+"t":"p",
+"text":"Key features of the STH25G Series Switches"
+},
+{
+"t":"p",
+"text":"MPLS (label-switching-based) integrates IP flexibility and connection-oriented reliability, enabling isolated multi-service bearing, precise traffic scheduling to meet multi-scenario efficient needs.\nMLAG which can build an Active-Active system to improve the reliability of the network links from single board grade to device grade.\nImplementing Vxlan and BGP protocols to build EVPN applications for data centers scenario.\nSwitch-to-switch encryption using MACsec (Media Access Control Security) AES-CMAC.\nPrecision Timing Protocol.\nRich features for Datacenter scenario."
+},
+{
+"t":"p",
+"text":"Version: V3.5\nRelease Date: 2025/12/08"
+},
+{
+"t":"picture",
+"name":"图片 1"
+}
+],
+"notes":""
+},
+{
+"n":2,
+"items":[
+{
+"t":"picture",
+"name":"图片 7"
+},
+{
+"t":"picture",
+"name":"图片 9"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"AC",
+"DC",
+"AFO",
+"AFI",
+"Power Input",
+"FAN"
+],
+[
+"STH-8C48DX-HSI",
+"◯",
+"◯",
+"◯",
+"◯",
+"2",
+"5"
+],
+[
+"STH-4C48DX-HSI",
+"◯",
+"◯",
+"◯",
+"◯",
+"2",
+"4"
+],
+[
+"STH-8C24DX-HSI",
+"◯",
+"◯",
+"◯",
+"◯",
+"2",
+"2"
+]
+]
+},
+{
+"t":"p",
+"text":"The STH25G Series switches provide various power supply solutions for customers choosing,\nfixed single power supply, fixed redundant power supplies, and redundant hot-swappable\npower supplies (AC and DC are both available).\nThe Fan solutions also have two bays with Field replaceable fan modules and build in fans. Generally, air flow of STH25G Series is front to rear (AFO), and some of models can do a customization of rear to front (AFI) airflow."
+},
+{
+"t":"p",
+"text":"Table 1: Feasible PSU and airflow of STH25G Series"
+},
+{
+"t":"p",
+"text":"The STH25G Series switches support varied management ways, include console port / in-band network ports / out-of-band network port. Support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, SSL, etc. to ensure security of management.\nMoreover, leveraging its profound technical expertise and in-depth understanding of campus and enterprise networking needs, Saga Telecom has launched the Da Hu Cloud Management System (DHCS).\nIt enhances network management and maintenance efficiency, reduces costs, elevates management intelligence, and delivers a faster, smarter, more secure and reliable network to better meet user requirements."
+},
+{
+"t":"picture",
+"name":"图片 1"
+}
+],
+"notes":""
+},
+{
+"n":3,
+"items":[
+{
+"t":"p",
+"text":"Visual WEB UI"
+},
+{
+"t":"p",
+"text":"STOS allows you to quickly configure common configuration items using a visual WEB UI, which lowers the application threshold for users."
+},
+{
+"t":"picture",
+"name":"图片 7"
+},
+{
+"t":"picture",
+"name":"图片 9"
+},
+{
+"t":"p",
+"text":"Table 2: Family of the STH25G Series switches"
+},
+{
+"t":"p",
+"text":"The STH25G family of Ethernet switches consists of the following models"
+},
+{
+"t":"table",
+"rows":[
+[
+"Models",
+"Ethernet Ports",
+"Management",
+"PSU 1/PSU 2",
+"Cooling"
+],
+[
+"STH-4C48DX-HSI",
+"48 x 10G/25G SFP28\u000b+ 4 x 100G QSFP28",
+"Console: RJ45 to RS232\u000bEthernet: 1G Port\u000bStorage: USB",
+"550W /550W CRPS",
+"4 x Fan Modules\u000b(front-to-back airflow)"
+],
+[
+"STH-8C48DX-HSI",
+"48 x 10G/25G SFP28\u000b+ 8 x 100G QSFP28",
+"Console: RJ45 to RS232\u000bEthernet: 1G Port\u000bStorage: USB",
+"550W /550W CRPS",
+"5 x Fan Modules\u000b(front-to-back airflow)"
+],
+[
+"STH-8C24DX-HSI",
+"24 x 10G/25G SFP28\u000b+ 8 x 100G QSFP28",
+"Console: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB",
+"350W / 350W CRPS",
+"2 x Fan Modules\u000b(front-to-back airflow)"
+]
+]
+},
+{
+"t":"picture",
+"name":"Picture 11"
+}
+],
+"notes":""
+},
+{
+"n":4,
+"items":[
+{
+"t":"p",
+"text":"STH25G Physical Specifications"
+},
+{
+"t":"p",
+"text":"Packet Switch capacity (Tbps)\nSTH-8C48DX-HSI: 4.0 Tbps (bidirectional)\nSTH-4C48DX-HSI: 3.2 Tbps (bidirectional）\nSTH-8C24DX-HSI: 2.8 Tbps (bidirectional)"
+},
+{
+"t":"p",
+"text":"Layer 2/Layer 3 Throughput (Gpps)\nSTH-4C48DX-HSI: 4.76 Gpps (bidirectional)\nSTH-8C48DX-HSI: 5.95 Gpps (bidirectional)\nSTH-8C24DX-HSI: 4.17 Gpps (bidirectional)"
+},
+{
+"t":"p",
+"text":"CPU\nDual-core processor, ARM A53(1GHz)\non all models"
+},
+{
+"t":"p",
+"text":"Weight (Net weight/Gross weight)\nSTH-8C48DX-HSI: 9Kg/12.5Kg\nSTH-4C48DX-HSI: 8Kg/11.5Kg\nSTH-8C24DX-HSI: 8Kg/11.5Kg"
+},
+{
+"t":"p",
+"text":"Dimensions (W x H x D) with package\nSTH-8C48DX-HSI: 66.5 x 15 x 56.5cm\nSTH-4C48DX-HSI: 66.5 x 15 x 56.5cm\nSTH-8C24DX-HSI: 66.5 x 15 x 56.5cm\nDimensions (W x H x D) without package\nSTH-8C48DX-HSI: 44.2 x 4.4 x 43cm\nSTH-4C48DX-HSI: 44.2 x 4.4 x 42cm\nSTH-8C24DX-HSI: 44.2 x 4.4 x 36cm"
+},
+{
+"t":"p",
+"text":"Power consumption (220V 20ºC)\nWorst case, all ports used, line-rate traffic\nSTH-8C48DX-HSI: 168W\nSTH-4C48DX-HSI: 143W\nSTH-8C24DX-HSI: 130W\nTypical power consumption\nSTH-8C48DX-HSI: 154W\nSTH-4C48DX-HSI: 126W\nSTH-8C24DX-HSI: 116W"
+},
+{
+"t":"p",
+"text":"Environmental ranges\nOperating temperature: 0ºC to 45ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90% (No condensation)\nStore Humidity: 5 to 95% (No condensation)\nOperating altitude: 0~5Km"
+},
+{
+"t":"p",
+"text":"Temperature alarm\nAlarm threshold: 50ºC"
+},
+{
+"t":"p",
+"text":"MTBF\nHSI (Swapable PSU and FAN): ≥90000h (~10.3 Years)"
+},
+{
+"t":"p",
+"text":"Cooling [CFM]-Total Maximum airflow\nSTH-8C48DX-HSI: 147.17\nSTH-8C24DX-HSI: 76.98"
+},
+{
+"t":"p",
+"text":"Memory\neMMc: 8GB on all models\nDRAM: 2GB on all models"
+}
+],
+"notes":""
+},
+{
+"n":5,
+"items":[
+{
+"t":"p",
+"text":"STH25G Software Specifications\nSaga Telecom implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘STOS Software features’ ."
+},
+{
+"t":"p",
+"text":"* All Saga Telecom switches use a normalized software platform and image package file\n* Unified software version iteration plan\n* Unified user experience"
+},
+{
+"t":"p",
+"text":"STOS Network Platform"
+},
+{
+"t":"p",
+"text":"Layer 2 switching"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Unicast Routing"
+},
+{
+"t":"p",
+"text":"QoS"
+},
+{
+"t":"p",
+"text":"IP Multicast Snooping/Proxy"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Multi cast Routing"
+},
+{
+"t":"p",
+"text":"VRRP"
+},
+{
+"t":"p",
+"text":"Multiprotocol Label Switching(MPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Private LAN Service(VPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Routing and Switching"
+},
+{
+"t":"p",
+"text":"Generalized Multiprotocol LabelSwitching(GMPLS)"
+},
+{
+"t":"p",
+"text":"IPv6 Tunneling and TransitionTechnologies"
+},
+{
+"t":"p",
+"text":"IP/MPLS OAM"
+},
+{
+"t":"p",
+"text":"Service management module"
+},
+{
+"t":"p",
+"text":"Fault Managemet (FM)"
+},
+{
+"t":"p",
+"text":"High Availability (HA)"
+},
+{
+"t":"p",
+"text":"Integrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)"
+},
+{
+"t":"p",
+"text":"Hardware and platform abstraction layer"
+},
+{
+"t":"p",
+"text":"Advanced integration Suite"
+},
+{
+"t":"p",
+"text":"CENTEC swtich chip  SDK"
+},
+{
+"t":"p",
+"text":"Silicon in Pizza, Stacking or Chassis\nConfiguration"
+},
+{
+"t":"p",
+"text":"Operating Systems TCP/IP Stacks"
+},
+{
+"t":"p",
+"text":"Linux , IPv4/Pv6 Dual Stack"
+},
+{
+"t":"p",
+"text":"Hardware layer"
+},
+{
+"t":"p",
+"text":"CENTEC Switch Chipset"
+},
+{
+"t":"p",
+"text":"CPU Subsystem"
+},
+{
+"t":"p",
+"text":"Cooling SubSystem"
+},
+{
+"t":"p",
+"text":"AC/DC DC/DC CLK"
+},
+{
+"t":"p",
+"text":"Environmental Management Subsystem"
+},
+{
+"t":"p",
+"text":"Logical Control Subunit"
+}
+],
+"notes":""
+},
+{
+"n":6,
+"items":[
+{
+"t":"p",
+"text":"Ordering Information\nSTH25G Series Switches"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"STH-4C48DX-HSI",
+"25G Data Center Switch, with 48*25G SFP28, 4*100G QSFP28, Dual power supply modules(C13), 4 hot-swap fan modules."
+],
+[
+"STH-8C48DX-HSI",
+"25G Data Center Switch, with 48*25G SFP28, 8*100G QSFP28, Dual power supply modules(C13), 5 hot-swap fan modules."
+],
+[
+"STH-8C24DX-HSI",
+"25G Data Center Switch, with 24*25G SFP28, 8*100G QSFP28, Dual power supply modules(C13), 2 hot-swap fan modules."
+]
+]
+},
+{
+"t":"p",
+"text":"AC/DC Power Supplies use for STH25G Series"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"PSU-550-AC-AFO",
+"550W AC power supply (front-to-back airflow)"
+],
+[
+"PSU-350-AC-AFO",
+"350W AC power supply (front-to-back airflow)"
+],
+[
+"PSU-550-DC-AFO",
+"550W DC power supply (front-to-back airflow)"
+]
+]
+},
+{
+"t":"p",
+"text":"Software Licenses"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"Software License",
+"MS, L3 enhance features software license key, Preinstalled"
+],
+[
+"Software License",
+"MA, MPLS features software license key"
+],
+[
+"Software License",
+"ST, Stacking feature software license key"
+]
+]
+},
+{
+"t":"p",
+"text":"Accessory of STH25G Series"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Front Mounting",
+"Rear Mounting",
+"Screw",
+"Power Cord",
+"Console (RS232 to RJ45)"
+],
+[
+"STH-4C48DX-HSI\nSTH-8C48DX-HSI\nSTH-8C24DX-HSI",
+"2",
+"2",
+"14",
+"2",
+"1"
+]
+]
+}
+],
+"notes":""
+}
+]
+}

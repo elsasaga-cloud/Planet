@@ -1,0 +1,22 @@
+{
+"id":"18gT63DddwB4cWJUbNn6QjiLTLvtTAN9a",
+"name":"5.png",
+"path":"CENTEC Based High-Speed Network/STH25G/STH-8C48DX-HSI/5.png",
+"type":"图片",
+"bytes":2426836,
+"sha256":"98ac1086197dd7848a1ef1dfebca015ad29c1a97265f18dc0878a8cd525e66bb",
+"extracted_at":"2026-10-22T08:40:44Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":3840,
+"height":2160,
+"mode":"RGBA",
+"thumb_bytes":5209
+},
+"ocr":{
+"text":"14 15 16\n-mh ER ee ee ee\n; 4",
+"conf":48.6
+},
+"text":"14 15 16\n-mh ER ee ee ee\n; 4"
+}
