@@ -1,6 +1,6 @@
 # Drive《SmartByte》全量入库 · 覆盖率报告
 
-- 生成时间：2026-10-22T02:10:53Z；索引：2385 个文件（5.73 GB），manifest：1765 条
+- 生成时间：2026-10-22T02:11:06Z；索引：2385 个文件（5.73 GB），manifest：1772 条
 - 状态含义：**ok** = 抽到正文（Word 段落+表格 / Excel 逐行 / PDF 逐页(或 OCR) / PPT 逐页 / 图片 OCR 有字）；**meta** = 只有元数据+缩略图（无文字的图片/视频/设计源文件，或空文档）；**dup** = 与另一文件 sha256 完全相同，指向 same_as；**fail** = 下载或解析失败（见下表）；**pending** = 本次未处理
 - 原件备份：GitHub Release `drive-smartbyte-20261022`（私有仓库，按顶层文件夹分卷 zip）
 
@@ -8,7 +8,7 @@
 
 | 类型 | ok | meta | dup | fail | pending | 合计 |
 |---|---|---|---|---|---|---|
-| 图片 | 104 | 276 | 898 | 0 | 447 | 1725 |
+| 图片 | 105 | 280 | 900 | 0 | 440 | 1725 |
 | Word | 417 | 1 | 3 | 0 | 111 | 532 |
 | PDF | 38 | 0 | 0 | 0 | 40 | 78 |
 | Excel | 14 | 0 | 1 | 1 | 11 | 27 |
@@ -37,7 +37,7 @@
 | PCB Information | 4 | 18 | 0 | 0 | 0 | 22 | ✅ smartbyte_drive_pcb_information_part01.zip |
 | Case | 2 | 0 | 0 | 0 | 0 | 2 | ✅ smartbyte_drive_case_part01.zip |
 | 管理界面图 | 12 | 0 | 0 | 0 | 0 | 12 | ✅ smartbyte_drive_ui_screenshots_part01.zip |
-| 组合图 | 0 | 0 | 0 | 0 | 7 | 7 | — |
+| 组合图 | 1 | 4 | 2 | 0 | 0 | 7 | ✅ smartbyte_drive_combo_images_part01.zip |
 | 素材 | 0 | 0 | 0 | 0 | 11 | 11 | — |
 | Factory Information | 0 | 0 | 0 | 0 | 32 | 32 | — |
 | 暂时不用的 | 0 | 0 | 0 | 0 | 570 | 570 | — |
@@ -56,5 +56,5 @@
 
 ## 体量
 
-- 抽取正文合计 9,206,564 字符；图片 OCR 有字 104 张；缩略图 390 张
+- 抽取正文合计 9,206,778 字符；图片 OCR 有字 105 张；缩略图 395 张
 - 运行记录：[{"started": "2026-10-22T01:55:11Z", "todo": 2385, "workers": 6, "backup": true, "ocr": true}]

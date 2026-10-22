@@ -1,0 +1,22 @@
+{
+"id":"1T_Anq5Qf9HrSzQOrH73SmVIKLWv47tQs",
+"name":"Marvell Series.png",
+"path":"SmartByte/组合图/Marvell Series.png",
+"type":"图片",
+"bytes":10023720,
+"sha256":"1d74d80b28682bce4ee57549b15c085e0a3cc5ed33e7c2b375709ba1dc6da473",
+"extracted_at":"2026-10-22T02:11:03Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":4433,
+"height":3260,
+"mode":"RGBA",
+"thumb_bytes":18079
+},
+"ocr":{
+"text":"MalewsPoELSpeed Groon:Link/act\nCS\nYenow:peg/spssa Groen:Link/ect\nConsole\n局\nav\n3 4\nvelowspeed Greenuink/act\nconsole\nvetow:peg/spesa Green'Unkact\nconsole\nRsr RsT\nConsole\n下\nConsole cys\n| [ | Reset\nay PWR\n51 52\nConsole",
+"conf":64.3
+},
+"text":"MalewsPoELSpeed Groon:Link/act\nCS\nYenow:peg/spssa Groen:Link/ect\nConsole\n局\nav\n3 4\nvelowspeed Greenuink/act\nconsole\nvetow:peg/spesa Green'Unkact\nconsole\nRsr RsT\nConsole\n下\nConsole cys\n| [ | Reset\nay PWR\n51 52\nConsole"
+}
