@@ -1,0 +1,442 @@
+S5500系列交换机产品规格书
+企业园区网交换机
+
+文档版本：V1.3
+发布日期：2025/12/17
+
+
+产品简介
+S5500系列交换机采用国产新一代交换芯片
+VastLakes系列芯片平台设计，支持
+1G/10G/25G/40G等多种速率端口，可提供
+全千兆接入（PoE，非PoE）和灵活扩展的
+万兆上行数据交互能力，拥有丰富三层特
+性，例如BGP、EVPN、IPv6、VxLAN等，适
+用于企业网、园区网、SMB等应用场景。
+
+
+关键特性
+l PoE++ Max 90W，支持永久PoE功能。
+l 支持MLAG，跨设备链路聚合技术，实现设备级冗余，灵活组网可靠性强。
+l 支持VxLAN和BGP协议，构建数据中心场景下的EVPN应用。
+l 支持交换机到交换机使用MACsec或AES-CMAC进行加密功能。
+l 支持Precision Timing协议。
+l 丰富的L2/L3特性，例如IPv6、OSPF、BGP、PIM等等。
+
+
+
+S5500系列交换机支持冗余可插拔电源，冗余可插拔风扇模块，以及固定电源和固定风扇。
+一般情况下为前后风向（AFO），特殊情况下可定制为后前风向（AFI）。
+表 1：电源和风扇
+
+      型号          AC   DC   AFO   AFI   电源类型    风扇类型
+
+ S5548-2Q4X-EI    ●    ○     ●    ○     热插拔模组   热插拔模组
+
+ S5548-2Q4X-SI    ●    X     ●    X     固定电源    固定风扇
+
+ S5548P-2Q4X-EI   ●    ○     ●    X     热插拔模组   热插拔模组
+
+ S5548P-2Q4X-SI   ●    ○     ●    X     固定电源    固定风扇
+
+
+
+                             1
+S5500系列交换机                                      产品规格书
+
+
+     型号           AC   DC   AFO   AFI   电源类型    风扇类型
+
+S5548PB-2Q4X-EI   ●    ○    ●     X     热插拔模组   热插拔模组
+
+ S5524-2Q4X-EI    ●    ○    ●     ○     热插拔模组   热插拔模组
+
+ S5524-2Q4X-SI    ●    X    ●     X     固定电源    固定风扇
+
+S5524P-2Q4X-EI    ●    ○    ●     X     热插拔模组   热插拔模组
+
+S5524P-2Q4X-SI    ●    X    ●     X     固定电源    固定风扇
+
+S5524PB-2Q4X-EI   ●    ○    ●     X     热插拔模组   热插拔模组
+
+● 默认配置；○ 可定制；X 不支持。
+
+
+出色的管理特性
+S5500系列交换机支持丰富的管理接口，包括Console、带内网口和带外网口；支持
+SNMPv1/v2/v3，支持CLI命令行，Web网管，TELNET及FTP配置，支持OAM，使设备管理
+更方便，并且支持SSH2.0、SSL等加密方式，使得管理更加安全。
+此外，HOHUNET依靠深厚的技术积累和对园区及企业网络需求的深入理解，推出大湖云
+维平台（DHCS），可以提高网络管理和维护效率，降低成本，提升网络管理的智能化水
+平，让网络更加快速、智能、安全、可靠化，更好地服务于用户的需求。
+
+
+
+
+                             2
+S5500系列交换机                        产品规格书
+
+
+可视化Web界面
+
+HOS支持可视化Web界面，可实现快速配置，降低用户操作门槛。
+
+
+
+
+                    3
+S5500系列交换机                                                       产品规格书
+
+
+硬件参数
+表 2：硬件一览表
+                                                              电源       风扇
+    型号             以太网口           PoE           管理口
+                                                              数量       数量
+
+S5548-2Q4X-EI                                               2×120W     2×2
+                                   无
+S5548-2Q4X-SI                                                1×96W      4
+
+   S5548P       48×1G Base-T，
+                2×40G QSFP+，                                2×500W     2×2
+  -2Q4X-EI                       48×30W
+                4×25/10G SFP28
+   S5548P                         PoE+
+                                                            1×890W      4
+  -2Q4X-SI
+  S5548PB                        48×90W
+                                                            2×1200W    2×2
+  -2Q4X-EI                        PoE++    串口:RJ45 to DB9
+                                           MGMT：1G RJ45
+S5524-2Q4X-EI                                               2×120W     2×2
+                                   无
+S5524-2Q4X-SI                                                1×96W      4
+
+   S5524P       24×1G Base-T，
+                                                            2×500W     2×2
+  -2Q4X-EI      2×40G QSFP+，     24×30W
+                4×25/10G SFP28    PoE+
+   S5524P
+                                                            1×480W      4
+  -2Q4X-SI
+  S5524PB                        24×90W
+                                                            2×500W     2×2
+  -2Q4X-EI                        PoE++
+
+
+
+交换容量（双向）                                包转发率（双向）
+l S5548-2Q4X-EI：456Gbps                 l S5548-2Q4X-EI：678.53Mpps
+l S5548-2Q4X-SI：456Gbps                 l S5548-2Q4X-SI：678.53Mpps
+l S5548P-2Q4X-EI：456Gbps                l S5548P-2Q4X-EI：678.53Mpps
+l S5548P-2Q4X-SI：456Gbps                l S5548P-2Q4X-SI：678.53Mpps
+l S5548PB-2Q4X-EI：456Gbps               l S5548PB-2Q4X-EI：678.53Mpps
+l S5524-2Q4X-EI：408Gbps                 l S5524-2Q4X-EI：607.10Mpps
+l S5524-2Q4X-SI：408Gbps                 l S5524-2Q4X-SI：607.10Mpps
+l S5524P-2Q4X-EI：408Gbps                l S5524P-2Q4X-EI：607.10Mpps
+l S5524P-2Q4X-SI：408Gbps                l S5524P-2Q4X-SI：607.10Mpps
+l S5524PB-2Q4X-EI：408Gbps               l S5524PB-2Q4X-EI：607.10Mpps
+
+
+
+                                    4
+S5500系列交换机                                                    产品规格书
+
+
+CPU                              Memory
+l Dualcore，ARM A53（1.2GHz）       l eMMc：8GB
+                                 l DRAM：2GB
+温度告警
+l 告警值：50℃                        PoE功率预算
+                                 l S5548P-2Q4X-EI：740W
+环境参数                             l S5548P-2Q4X-SI：780W
+l 运行温度：0℃ to 45℃                 l S5548PB-2Q4X-EI：2200W
+l 存储温度：-40℃ to 70℃               l S5524P-2Q4X-EI：TBD
+l 运行湿度：10% to 90%（无冷凝）           l S5524P-2Q4X-SI：380W
+l 存储湿度：0 to 95%（无冷凝）             l S5524PB-2Q4X-EI：740W
+
+工作海拔                             最大风量
+l S5548-2Q4X-EI：≤5000m           l S5548-2Q4X-EI：46.48cfm
+l S5548-2Q4X-SI：≤2000m           l S5548-2Q4X-SI：46.48cfm
+l S5548P-2Q4X-EI：≤5000m          l S5548P-2Q4X-EI：72.78cfm
+l S5548P-2Q4X-SI：≤5000m          l S5548P-2Q4X-SI：44.30cfm
+l S5548PB-2Q4X-EI：≤5000m         l S5548PB-2Q4X-EI：72.78cfm
+l S5524-2Q4X-EI：≤5000m           l S5524-2Q4X-EI：46.48cfm
+l S5524-2Q4X-SI：≤2000m           l S5524-2Q4X-SI：46.48cfm
+l S5524P-2Q4X-EI：≤5000m          l S5524P-2Q4X-EI：TBD
+l S5524P-2Q4X-SI：≤5000m          l S5524P-2Q4X-SI：46.48cfm
+l S5524PB-2Q4X-EI：≤5000m         l S5524PB-2Q4X-EI：75.27cfm
+
+功耗（满载/典型）                        MTBF
+l S5548-2Q4X-EI：60/59W           l S5548-2Q4X-EI：≥90000h
+l S5548-2Q4X-SI：72/69W           l S5548-2Q4X-SI：≥90000h
+l S5548P-2Q4X-EI：70/58W          l S5548P-2Q4X-EI：≥90000h
+l S5548P-2Q4X-SI：86/84W          l S5548P-2Q4X-SI：≥90000h
+l S5548PB-2Q4X-EI：72/61W         l S5548PB-2Q4X-EI：≥90000h
+l S5524-2Q4X-EI：60/36W           l S5524-2Q4X-EI：≥90000h
+l S5524-2Q4X-SI：51/51W           l S5524-2Q4X-SI：≥90000h
+l S5524P-2Q4X-EI：TBD             l S5524P-2Q4X-EI：≥90000h
+l S5524P-2Q4X-SI：70/69W          l S5524P-2Q4X-SI：≥90000h
+l S5524PB-2Q4X-EI：54/53W         l S5524PB-2Q4X-EI：≥90000h
+
+
+
+
+                             5
+S5500系列交换机                                                      产品规格书
+
+
+设备尺寸（宽×高×深）                            外箱尺寸（宽×高×深）
+l S5548-2Q4X-EI：44.2×4.4×41cm          l S5548-2Q4X-EI：55.7×15×49.5cm
+l S5548-2Q4X-SI：44.2×4.4×32.1cm        l S5548-2Q4X-SI：55.7×15×49.5cm
+l S5548P-2Q4X-EI：44.2×4.4×41cm         l S5548P-2Q4X-EI：55.7×15×49.5cm
+l S5548P-2Q4X-SI：44.2×4.4×32.1cm       l S5548P-2Q4X-SI：55.7×15×49.5cm
+l S5548PB-2Q4X-EI：44.2×4.4×42cm        l S5548PB-2Q4X-EI：55.7×15×49.5cm
+l S5524-2Q4X-EI：44.2×4.4×41cm          l S5524-2Q4X-EI：55.7×15×49.5cm
+l S5524-2Q4X-SI：44.2×4.4×32cm          l S5524-2Q4X-SI：55.7×15×49.5cm
+l S5524P-2Q4X-EI：44.2×4.4×37.1cm       l S5524P-2Q4X-EI：55.7×15×49.5cm
+l S5524P-2Q4X-SI：44.2×4.4×37.1cm       l S5524P-2Q4X-SI：55.7×15×49.5cm
+l S5524PB-2Q4X-EI：44.2×4.4×41cm        l S5524PB-2Q4X-EI：55.7×15×49.5cm
+
+重量（净重/毛重）
+l S5548-2Q4X-EI：7.16kg/9kg
+l S5548-2Q4X-SI：4.09kg/6.33kg
+l S5548P-2Q4X-EI：7.76kg/10kg
+l S5548P-2Q4X-SI：5.38kg/7.62kg
+l S5548PB-2Q4X-EI：8.36kg/10.6kg
+l S5524-2Q4X-EI：6.67kg/9kg
+l S5524-2Q4X-SI：3.9kg/6.14kg
+l S5524P-2Q4X-EI：7.36kg/9.6kg
+l S5524P-2Q4X-SI：6.96kg/9.2kg
+l S5524PB-2Q4X-EI：7.36kg/9.6kg
+
+
+
+
+                                   6
+S5500系列交换机                                                                                          产品规格书
+
+
+软件参数
+HOHUNET拥有统一的软件平台，设备支持的软件功能详见“HOS 软件功能列表”。
+
+  Integrated Management Interface (CLl, SNMP,WEB, RMON ,RPC-API , Netconf,etc)
+
+
+                                      HOS Network Platform
+
+       Layer 2 switching                 IPv4/lPv6 Unicast Routing                        QoS
+
+
+  IP Multicast Snooping/Proxy           IPv4/lPv6 Multi cast Routing                      VRRP
+
+      Multi protocol Label                     Virtual Private LAN
+                                                                              Virtual Routing and Switching
+       Switching(MPLS)                            Service(VPLS)
+
+   Generalized Multi protocol                   IPv6 Tunneling and
+                                                                                     IP/MPLS OAM
+    Label Switching(GMPLS)                    TransitionTechnologies
+
+
+  Service management module                   Fault Managemet (FM)                High Availability (HA)
+
+
+
+                             Hardware and platform abstraction layer
+
+
+          Advanced integration Suite                                   Operating Systems TCP/IP Stacks
+
+           CENTEC swtich chip SDK
+
+                                                                         Linux , IPv4/Pv6 Dual Stack
+      Silicon in Pizza, Stacking or Chassis
+                  Configuration
+
+
+
+                                              Hardware layer
+
+            CENTEC Switch Chipset                                             CPU Subsystem
+
+              Cooling SubSystem                                             AC/DC DC/DC CLK
+
+    Environmental Management Subsystem                                    Logical Control Subunit
+
+
+
+
+* 归一化的软件平台
+* 统一的软件版本迭代
+* 统一的用户体验
+
+
+
+                                                       7
+S5500系列交换机                                           产品规格书
+
+
+订购信息
+
+交换机
+      型号                              描述
+
+                   1G企业园区网交换机，48×1G Base-T，2×40G QSFP+，
+ S5548-2Q4X-EI     4×25/10G SFP28，2×可插拔电源模组（C13），2×可插拔风扇模
+                   组。
+
+                   1G企业园区网交换机，48×1G Base-T，2×40G QSFP+，
+ S5548-2Q4X-SI
+                   4×25/10G SFP28，1×固定电源（C13），4×固定风扇。
+
+                   1G企业园区网交换机，48×1G Base-T（PoE+ 30W），2×40G
+ S5548P-2Q·4X-EI   QSFP+， 4×25/10G SFP28，2×可插拔电源模组（C13），2×可插
+                   拔风扇模组。
+
+                   1G企业园区网交换机，48×1G Base-T（PoE+ 30W），2×40G
+ S5548P-2Q4X-SI
+                   QSFP+，4×25/10G SFP28，1×固定电源（C13），4×固定风扇。
+
+                   1G企业园区网交换机，48×1G Base-T（PoE++ 90W），2×40G
+S5548PB-2Q4X-EI    QSFP+，4×25/10G SFP28，2×可插拔电源模组（C13），2×可插
+                   拔风扇模组。
+
+                   1G企业园区网交换机，24×1G Base-T，2×40G QSFP+，
+ S5524-2Q4X-EI     4×25/10G SFP28，2×可插拔电源模组（C13），2×可插拔风扇模
+                   组。
+
+                   1G企业园区网交换机，24×1G Base-T，2×40G QSFP+，
+ S5524-2Q4X-SI
+                   4×25/10G SFP28，1×固定电源（C13），4×固定风扇。
+
+                   1G企业园区网交换机，24×1G Base-T（PoE+ 30W），2×40G
+ S5524P-2Q4X-EI    QSFP+，4×25/10G SFP28，2×可插拔电源模组（C13），2×可插
+                   拔风扇模组。
+
+                   1G企业园区网交换机，24×1G Base-T（PoE+ 30W），2×40G
+ S5524P-2Q4X-SI
+                   QSFP+，4×25/10G SFP28，1×固定电源（C13），4×固定风扇。
+
+                   1G企业园区网交换机，24×1G Base-T（PoE++ 90W），2×40G
+S5524PB-2Q4X-EI    QSFP+，4×25/10G SFP28，2×可插拔电源模组（C13），2×可插
+                   拔风扇模组。
+
+
+
+
+                                8
+S5500系列交换机                                   产品规格书
+
+
+AC/DC电源
+     事项                              描述
+
+                  120W AC电源（前后风向）
+PSU-120-AC-AFO
+                  输入：100–240V AC；输出：12V DC
+
+                  120W DC电源（前后风向）
+PSU-120-DC-AFO
+                  输入：48V DC；输出：12V DC
+
+                  500W AC电源（前后风向）
+PSU-500-AC-AFO
+                  输入：100–240V AC；输出：54V DC
+
+PSU-500-DC-AFO    500W DC电源（前后风向）
+
+                  1200W AC电源（前后风向）
+PSU-1200-AC-AFO
+                  输入：100–240V AC；输出：54V DC
+
+PSU-1200-DC-AFO   1200W DC电源（前后风向）
+
+
+
+软件许可证
+     事项                              描述
+
+    License       EB，基础三层软件许可证，SI型号预安装。
+
+    License       MS，全三层软件许可证，EI型号预安装。
+
+    License       MA，城域网软件许可证。
+
+    License       ST，堆叠软件许可证。
+
+
+
+
+                               9
+S5500系列交换机                                               产品规格书
+
+
+附件信息
+                      后挂耳   后挂耳       M4                  串口线
+    型号          前挂耳                        电源线   接地线
+                       导轨    滑轨       螺丝               (RJ45 to DB9)
+
+S5548-2Q4X-EI    2     2     2        12    2     1         1
+
+S5548-2Q4X-SI    2     /     /        12    1     1         1
+
+S5548P-2Q·4X-
+                 2     2     2        12    2     1         1
+      EI
+S5548P-2Q4X-
+                 2     /     /        12    1     1         1
+      SI
+  S5548PB-
+                 2     /     /        12    1     1         1
+   2Q4X-EI
+
+S5524-2Q4X-EI    2     2     2        12    2     1         1
+
+S5524-2Q4X-SI    2     /     /        12    1     1         1
+
+S5524P-2Q4X-
+                 2     2     2        12    2     1         1
+      EI
+S5524P-2Q4X-
+                 2     /     /        12    1     1         1
+      SI
+  S5524PB-
+                 2     /     /        12    1     1         1
+   2Q4X-EI
+
+
+
+
+                                 10
+S5500系列交换机                                  产品规格书
+
+
+
+关于           :
+
+        成立于2015年，是一家专业从事开发交换机产品的技术型公司，全系列交换机
+均基于国产交换芯片。随着芯片技术的不断发展，HOHUNET推出了一系列基于该芯片平
+台的差异化产品。目前，公司产品线覆盖1G到800G，可用于企业网、运营商网、数据中
+心、AI计算等场景。目前公司主要合作模式为OEM/ODM，致力于为客户提供灵活的端到
+端定制产品和技术咨询服务。成为客户最值得信赖的商业伙伴一直是公司的使命和原则。
+
+
+
+
+联系我们：
+深圳市浩湖网络技术有限公司
+
+总部地址：中国广东省深圳市南山区深南大道9996号李宁中心11楼
+商务合作：business@hohunet.com
+官方电话：0086-755-26418565
+官方网址: www.hohunet.cn
+
+
+
+
+深圳市浩湖网络技术有限公司版权所有。HOHUNET是深圳市浩湖有限有限公司在中国和其他国家的注册商
+标。HOHUNET对本文档中的任何不准确之处不承担任何责任。HOHUNET保留变更、修正、转让或以其他
+方式修改本出版物的权利，恕不另行通知。
+

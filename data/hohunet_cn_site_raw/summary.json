@@ -1,0 +1,96 @@
+{
+  "crawled_at": "2026-10-22T15:32:57Z",
+  "host": "hohunet.cn",
+  "complete": false,
+  "blocked": false,
+  "recrawl_base": null,
+  "diff": null,
+  "same_as_base": {
+    "downloads": 0,
+    "images": 0
+  },
+  "access": {
+    "mode": "requests",
+    "profile": "archiver",
+    "base": "https://hohunet.cn/"
+  },
+  "refused": {
+    "pages": 0,
+    "downloads": 1,
+    "images": 0
+  },
+  "refused_sample": {
+    "pages": [],
+    "downloads": [
+      "https://hohunet.cn/wp-content/uploads/2026/01/S8500系列交换机规格书_V1.2.pdf"
+    ],
+    "images": []
+  },
+  "pages_total": 234,
+  "pages_ok": 230,
+  "pages_failed": [
+    "https://hohunet.cn/product/s9532数据中心交换机，32个…fp112，双电源模块，4热插拔/",
+    "https://hohunet.cn/{$itemURL}",
+    "https://hohunet.cn/{$sitemapURL}",
+    "https://hohunet.cn/product-category/2-5g-multi-gigabit-switches/"
+  ],
+  "pages_stop": "complete (queue empty)",
+  "queue_left": 0,
+  "downloads_total": 32,
+  "downloads_ok": 31,
+  "downloads_left": 0,
+  "downloads_stop": "complete",
+  "downloads_bytes": 53068038,
+  "pdfs_committed": true,
+  "pdf_text_files": 31,
+  "images_bytes": 250891735,
+  "images_committed": false,
+  "images_total": 977,
+  "images_ok": 847,
+  "images_left": 0,
+  "images_stop": "complete",
+  "images_bytes_this_run": 250891735,
+  "external_hosts": {
+    "api.whatsapp.com": 221,
+    "baike.baidu.com": 3,
+    "beian.miit.gov.cn": 221,
+    "developers.google.com": 1,
+    "fonts.googleapis.com": 222,
+    "fonts.gstatic.com": 222,
+    "gmpg.org": 222,
+    "goo.gl": 6,
+    "hohunet.com": 222,
+    "hohunet.oss-cn-shenzhen.aliyuncs.com": 2,
+    "pinterest.com": 29,
+    "s.rankmath.com": 1,
+    "sdvoe.org": 221,
+    "sitemaps.org": 1,
+    "twitter.com": 29,
+    "www.facebook.com": 29,
+    "www.linkedin.com": 29
+  },
+  "runs": [
+    {
+      "run": "14",
+      "started": "2026-10-22T15:09:48Z",
+      "resumed": false,
+      "budget_min": 55.0,
+      "max_pages": 1500,
+      "delay_s": 0.8,
+      "ended": "2026-10-22T15:32:57Z",
+      "elapsed_s": 1390,
+      "pages_new": 234,
+      "downloads_new": 32,
+      "images_new": 847,
+      "pages_stop": "complete (queue empty)",
+      "downloads_stop": "complete",
+      "images_stop": "complete"
+    }
+  ],
+  "elapsed_s": 1390,
+  "user_agent": "Mozilla/5.0 (compatible; SagaTelecom-site-archiver/1.0; +https://sagatele.com)",
+  "delay_s": 0.8,
+  "time_budget_min": 55.0,
+  "how_to_continue": "未抓完（被拒 403/429/网络错误 1 个；页面阶段 complete (queue empty)；附件 complete；图片 complete）：在 GitHub Actions 页对 SmartByte site archive 点 Run workflow（或再推一次 crawl.py），会从 crawl_state.json 续抓并重试失败项",
+  "site": "hohunet_cn"
+}

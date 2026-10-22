@@ -4852,8 +4852,20 @@
     "new_bytes": 2015
    }
   ],
-  "same": 1974,
-  "gone": [],
+  "same": 1973,
+  "gone": [
+   {
+    "url": "https://www.hruitech.com/web/userfiles/product/IndustrialSwitch/thumb/HR722S-24T4GS--E6-AD-A3-E9-9D-A2.png",
+    "title": null,
+    "file": null,
+    "old_sha8": "3b211237",
+    "new_sha8": null,
+    "old_bytes": 17700,
+    "new_bytes": null,
+    "status": 520,
+    "error": null
+   }
+  ],
   "not_reached": []
  }
 }

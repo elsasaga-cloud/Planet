@@ -1,0 +1,92 @@
+{
+  "probed_at": "2026-10-22T15:32:57Z",
+  "runner_ip": null,
+  "tried": [
+    {
+      "profile": "archiver",
+      "url": "https://www.smartbyte.com.cn/",
+      "error": "ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'www.smartbyte.com.cn\\', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host=\\'www.smartbyte.com.cn\\', port=443): Failed to resolve \\'www.smartbyte.com.cn\\' ([Errno -2] Name or service not known)\"))'))"
+    },
+    {
+      "profile": "archiver",
+      "url": "https://smartbyte.com.cn/",
+      "error": "ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'smartbyte.com.cn\\', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host=\\'smartbyte.com.cn\\', port=443): Failed to resolve \\'smartbyte.com.cn\\' ([Errno -5] No address associated with hostname)\"))'))"
+    },
+    {
+      "profile": "archiver",
+      "url": "http://www.smartbyte.com.cn/",
+      "error": "ConnectionError(MaxRetryError('HTTPConnectionPool(host=\\'www.smartbyte.com.cn\\', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host=\\'www.smartbyte.com.cn\\', port=80): Failed to resolve \\'www.smartbyte.com.cn\\' ([Errno -2] Name or service not known)\"))'))"
+    },
+    {
+      "profile": "archiver",
+      "url": "http://smartbyte.com.cn/",
+      "error": "ConnectionError(MaxRetryError('HTTPConnectionPool(host=\\'smartbyte.com.cn\\', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host=\\'smartbyte.com.cn\\', port=80): Failed to resolve \\'smartbyte.com.cn\\' ([Errno -5] No address associated with hostname)\"))'))"
+    },
+    {
+      "profile": "chrome-win",
+      "url": "https://www.smartbyte.com.cn/",
+      "error": "ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'www.smartbyte.com.cn\\', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host=\\'www.smartbyte.com.cn\\', port=443): Failed to resolve \\'www.smartbyte.com.cn\\' ([Errno -2] Name or service not known)\"))'))"
+    },
+    {
+      "profile": "chrome-win",
+      "url": "https://smartbyte.com.cn/",
+      "error": "ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'smartbyte.com.cn\\', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host=\\'smartbyte.com.cn\\', port=443): Failed to resolve \\'smartbyte.com.cn\\' ([Errno -5] No address associated with hostname)\"))'))"
+    },
+    {
+      "profile": "chrome-win",
+      "url": "http://www.smartbyte.com.cn/",
+      "error": "ConnectionError(MaxRetryError('HTTPConnectionPool(host=\\'www.smartbyte.com.cn\\', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host=\\'www.smartbyte.com.cn\\', port=80): Failed to resolve \\'www.smartbyte.com.cn\\' ([Errno -2] Name or service not known)\"))'))"
+    },
+    {
+      "profile": "chrome-win",
+      "url": "http://smartbyte.com.cn/",
+      "error": "ConnectionError(MaxRetryError('HTTPConnectionPool(host=\\'smartbyte.com.cn\\', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host=\\'smartbyte.com.cn\\', port=80): Failed to resolve \\'smartbyte.com.cn\\' ([Errno -5] No address associated with hostname)\"))'))"
+    },
+    {
+      "profile": "firefox-win",
+      "url": "https://www.smartbyte.com.cn/",
+      "error": "ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'www.smartbyte.com.cn\\', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host=\\'www.smartbyte.com.cn\\', port=443): Failed to resolve \\'www.smartbyte.com.cn\\' ([Errno -2] Name or service not known)\"))'))"
+    },
+    {
+      "profile": "firefox-win",
+      "url": "https://smartbyte.com.cn/",
+      "error": "ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'smartbyte.com.cn\\', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host=\\'smartbyte.com.cn\\', port=443): Failed to resolve \\'smartbyte.com.cn\\' ([Errno -5] No address associated with hostname)\"))'))"
+    },
+    {
+      "profile": "firefox-win",
+      "url": "http://www.smartbyte.com.cn/",
+      "error": "ConnectionError(MaxRetryError('HTTPConnectionPool(host=\\'www.smartbyte.com.cn\\', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host=\\'www.smartbyte.com.cn\\', port=80): Failed to resolve \\'www.smartbyte.com.cn\\' ([Errno -2] Name or service not known)\"))'))"
+    },
+    {
+      "profile": "firefox-win",
+      "url": "http://smartbyte.com.cn/",
+      "error": "ConnectionError(MaxRetryError('HTTPConnectionPool(host=\\'smartbyte.com.cn\\', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host=\\'smartbyte.com.cn\\', port=80): Failed to resolve \\'smartbyte.com.cn\\' ([Errno -5] No address associated with hostname)\"))'))"
+    },
+    {
+      "profile": "safari-mac",
+      "url": "https://www.smartbyte.com.cn/",
+      "error": "ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'www.smartbyte.com.cn\\', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host=\\'www.smartbyte.com.cn\\', port=443): Failed to resolve \\'www.smartbyte.com.cn\\' ([Errno -2] Name or service not known)\"))'))"
+    },
+    {
+      "profile": "safari-mac",
+      "url": "https://smartbyte.com.cn/",
+      "error": "ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'smartbyte.com.cn\\', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host=\\'smartbyte.com.cn\\', port=443): Failed to resolve \\'smartbyte.com.cn\\' ([Errno -5] No address associated with hostname)\"))'))"
+    },
+    {
+      "profile": "safari-mac",
+      "url": "http://www.smartbyte.com.cn/",
+      "error": "ConnectionError(MaxRetryError('HTTPConnectionPool(host=\\'www.smartbyte.com.cn\\', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host=\\'www.smartbyte.com.cn\\', port=80): Failed to resolve \\'www.smartbyte.com.cn\\' ([Errno -2] Name or service not known)\"))'))"
+    },
+    {
+      "profile": "safari-mac",
+      "url": "http://smartbyte.com.cn/",
+      "error": "ConnectionError(MaxRetryError('HTTPConnectionPool(host=\\'smartbyte.com.cn\\', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host=\\'smartbyte.com.cn\\', port=80): Failed to resolve \\'smartbyte.com.cn\\' ([Errno -5] No address associated with hostname)\"))'))"
+    }
+  ],
+  "mode": "blocked",
+  "playwright_bootstrap": {
+    "pip": 0,
+    "install_with_deps": 0
+  },
+  "playwright_error": "Error('Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.smartbyte.com.cn/\\nCall log:\\n  - navigating to \"https://www.smartbyte.com.cn/\", waiting until \"domcontentloaded\"\\n')"
+}

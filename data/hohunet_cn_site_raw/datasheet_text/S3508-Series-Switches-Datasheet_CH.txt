@@ -1,0 +1,546 @@
+S3508 系列三层 PoE 以太网交换机
+
+S3508 系列三层 PoE 以太网交换机
+
+
+
+
+ S3508-4X：8*100M/1000M/2.5GBASE-T 和 4*10GSFP+上行端口，三层管理以太网交换机
+
+
+
+
+  S3508P-4X：8*100M/1000M/2.5GBASE-T 和 802.3AF/AT（30W）PoE+4*10GSFP+上行端口，三层管理
+
+  以太网交换机
+
+
+
+
+  S3508PB-4X：8*100M/1000M/2.5GBASE-T 和 802.3AF/AT/BT（45WMax）PoE++4*10GSFP+上行端口，
+
+  层管理以太网交换机
+
+  概述
+
+  S3508 系列路由交换机，高性能三层以太网交换机，支持 2.5G 多千兆和 10GSFP+端口，紧凑型 1U 外形。自
+
+主研发软件提供了强大的功能支持，支持三层以太网路由功能。
+
+  该交换机结合了先进的硬件和软件，为下一代家庭/SMB/企业/Wi-Fi6AX 访问/高速 NAS 网络提供了三层路由
+
+解决方案。
+
+
+                                     -1-
+S3508 系列三层 PoE 以太网交换机
+
+  不同的端口类型
+
+  支持 10M/100M/1G/2.5G/10G 端口，以满足不同的网络需求。
+
+
+
+
+  超长距离 PoE++
+
+  光电协同，实现 300m PoE+(30W/40W)和 10Gbit/s 访问，兼容的 802.3af/at/bt 标准。
+
+
+
+
+硬件特性
+
+     产品名称              S3508-4X            S3508P-4X           S3508PB-4X
+
+
+                                     -8*100M/1000M/2.5G 电口
+    以太网端口
+                                          -4*10G SFP+
+
+
+     PoE 端口               N/A            8*AF/AT30W 最大值      8*AF/AT/BT45W 最大值
+
+
+      电源                  输入电压 AC100-240V/输出电压 DC12V/输出最大功耗 35W
+
+
+                                     输入电压 AC100-240V/输 输入电压 AC100-240V/输
+
+     PoE 电源               N/A        出电压直流 DC52V/输出最 出电压直流 DC52V/输出最
+
+                                          大功耗 150W              大功耗 250W
+
+
+     管理端口                                1*串口（RJ45）
+
+
+      风扇               1*静音风扇              2*静音风扇               2*静音风扇
+
+
+      风道                                    从右到左
+
+
+      FLASH                                 128Mb
+
+
+      DRAM                                   4Gb
+
+
+     交换容量                                   120Gbps
+
+
+    MAC 地址                                    32K
+
+
+
+                                   -2-
+S3508 系列三层 PoE 以太网交换机
+
+      尺寸                 320mmx207mmx43.6mm
+
+
+      重量                           3KG
+
+
+    工作温度                        -10℃至 50℃
+
+
+    储存温度                        -40℃至 70℃
+
+
+    运行湿度                      10%至 90%（非冷凝）
+
+
+    存储湿度                      0 至 95%（非冷凝）
+
+
+    温度报警                           55℃
+
+
+
+
+                        -3-
+S3508 系列三层 PoE 以太网交换机
+
+软件功能列表
+
+         功能                                           特性
+
+MAC Address Table   32K
+
+Jumbo Frame         12K
+
+                    802.3x (Full-duplex)         支持
+Flow Control
+                    Back-Pressure
+                                                 支持
+                    (Half-duplex)
+                    IEEE 802.1D (STP)            支持
+
+                    IEEE 802.1w (RSTP)           支持
+
+                    IEEE 802.1s (MSTP)           64 instances
+Spanning Tree
+                    Auto Edge Port               支持
+
+                    BPDU Filtering               支持
+
+                    Self Loop Detection          支持
+
+                    IEEE 802.3ad LACP            支持
+
+                    Static Trunk                 支持
+
+Link Aggregation    Max. Group                   64
+
+                    Max. Ports/Group             8
+
+                    Traffic Load Balancing       支持
+
+VLAN
+
+                    Static VLAN                  4K
+
+                    Port-based                   支持
+
+                    IEEE 802.1Q Tagged-based     支持
+Voice VLAN
+                    Protocol-based               8 groups
+
+                    MAC-based                    1K (shared)
+
+                    OUI Mode (Auto/Manual)       16 OUI
+
+Surveillance VLAN   OUI Mode (Auto/Manual)       16 OUI
+
+
+                                           -4-
+S3508 系列三层 PoE 以太网交换机
+
+QinQ (IEEE 802.1ad)      Basic                        支持
+
+GARP VLAN Registration
+                         支持
+Protocol (GVRP)
+Multicast
+
+                         Multicast Groups             1K
+
+                         Immediate Leave              支持
+
+                         Static/Forbidden Router
+                                                      支持
+                         Port
+Common
+                         Static/Forbidden Forward
+                                                      支持
+                         Port
+                         Filtering                    128 profiles
+
+                         Throttling                   支持
+
+                         IGMP v1/v2                   支持
+
+IGMP Snooping            IGMP v3 Basic (BISS)         支持
+
+                         IGMP v2/v3 Querier           支持
+
+MLD Snooping             MLD v1/v2                    支持
+
+Multicast VLAN
+                                                      支持
+Registration (MVR)
+QoS Features
+
+Priority Queue           8 queues/port
+
+                         WRR                          支持
+
+                         WFQ                          支持
+Queue Scheduling
+                         Strict Pripority             支持
+
+                         Hybrid(WRR+SP or
+                                                      支持
+                         WFQ+SP)
+                         Port-based                   支持
+
+Class of Service         802.1p                       支持
+
+                         IP TOS Precedence            支持
+
+                         IP DSCP                      支持
+
+                                                -5-
+S3508 系列三层 PoE 以太网交换机
+
+Trusted QoS                                              支持
+
+                            Port-based
+Rate Limit                                               支持
+                            (Ingress/Egress)
+Access Control List (ACL)
+
+Access Rules                2048
+
+                            L2/L3/L4                     支持
+
+                            MAC-based
+ACL Type
+                            IPv4-based                   512
+
+                            IPv6-based
+
+Security
+
+AAA                         Authentication               支持
+
+TACACS+                     8
+
+RADIUS                      8
+
+                            IEEE 802.1X                  支持
+
+                            MAC Auth                     支持
+
+                            Web Auth                     支持
+Authentication Manager
+                            Guest VLAN                   支持
+
+                            Port-based                   支持
+
+                            Host-based                   支持
+
+                            Local Authenticatoin         支持
+
+                            Multiple User Account        8
+Account Manager
+                            Multi-Level Security         支持
+
+                            Password Recovery
+                                                         支持
+                            Procedures
+                            Management VLAN              支持
+Management Access
+                            Management ACL               256
+
+SSL                         SSLv2                        支持
+
+                                                   -6-
+S3508 系列三层 PoE 以太网交换机
+
+                         SSLv3                      支持
+
+                         TLSv1                      支持
+
+WebUI                    HTTPS                      支持
+
+CLI                      SSH v1/v2                  支持
+
+Port Security            Dynamic Lock               256
+
+                         Broadcast                  支持
+
+Storm Control            Unknown Multicast          支持
+
+                         Unknown Unicast            支持
+
+Spanning Tree            BPDU Guard                 支持
+
+Protected Port (Port
+                         支持
+Isolation)
+Black Hole MAC           支持
+
+CPU Defence Engine                                  支持
+
+DoS Prevention                                      支持
+
+DHCP Snooping (with
+                                                    支持
+Option 82)
+Dynamic ARP Inspection                              支持
+
+IP Source Guard                                     256
+IP/MAC/Port Binding
+                                                    支持
+(IMPB)
+IPv6
+
+                         Auto Configuration         支持
+
+                         Static IPv6 Address and
+                                                    支持
+                         Prefix Length
+                         Static IPv6 Default
+IPv6 Host                                           支持
+                         Gateway
+                         IPv6 Neighbor Discovery
+                                                    支持
+                         (ND)
+                         IPv6 Duplicate Address
+                                                    支持
+                         Detection
+
+
+                                              -7-
+S3508 系列三层 PoE 以太网交换机
+
+                   ICMPv6                     支持
+
+                   HTTP/HTTPS                 支持
+
+                   TELNET                     支持
+
+                   SSH                        支持
+
+                   SNMP                       支持
+IPv6 Application
+                   TFTP                       支持
+
+                   Syslog                     支持
+
+                   PING                       支持
+
+                   DHCPv6                     支持
+
+Management
+
+                   Console                    3 sessions
+CLI
+                   Telnet (RFC854)
+
+                   HTTP                       支持
+
+WebUI              v1                         支持
+
+                   v2c                        支持
+
+SNMP               v3                         支持
+
+                   Firmware Upgrade/Backup 支持
+
+                   Dual Images                支持
+File Management
+                   Configuration
+                                              支持
+                   Download/Backup
+                   Multiple Configurations    支持
+
+                   TFTP (RFC783)              支持
+
+Upload/Download    HTTP                       支持
+
+                   UART                       支持
+
+
+                                        -8-
+S3508 系列三层 PoE 以太网交换机
+
+                          Local                      支持
+Time Management
+                          SNTP                       支持
+
+                          Friendly Port Name (Port
+                                                     支持
+                          Description)
+Port Management
+                          Error Disabled Recovery    支持
+
+                          Console                    支持
+
+Line Management           Telnet (RFC854)            支持
+
+                          SSH v1/v2                  支持
+
+                          Client                     支持
+
+                          DHCP SNOOPING              支持
+
+DHCP                      Server                     支持
+
+                          Relay                      支持
+
+                          option82                   支持
+
+DNS                       Client                     支持
+
+Software Reset Button     支持
+
+EEE (802.3az)             支持
+
+RMON Management           32 entries / type
+
+Discovery
+IEEE 802.1AB Link Layer
+Discovery Protocol        支持
+(LLDP)
+ANSI/TIA-1057 LLDP
+Media Endpoint            支持
+Discovery (LLDP-MED)
+Diagnostics
+
+Mirroring                 Port-based (Many to One)   4 sessions
+
+                          Local RAM                  支持
+Syslog (RFC3164)
+                          Local Flash                支持
+                                              -9-
+S3508 系列三层 PoE 以太网交换机
+
+                          Remote Server                  8
+
+                          CPU Utilization                支持
+
+System Diagnostics        Memory Utilization             支持
+
+                          Port Utilization               支持
+
+                          Cable Test                     支持
+Port Diagnostics
+                          Fiber Module Status            支持
+
+                          Ping Test                      支持
+Network Diagnostics
+                          Traceroute                     支持
+
+UDLD                      支持
+
+MIB
+RFC1213 MIBII (System &
+                        支持
+Interface groups)
+RFC2819 RMON I (1,2,3,
+                        支持
+& 9 groups)
+RFC1215 Generic Traps     支持
+
+RFC1493 Bridge            支持
+
+RFC2674 Bridge MIB
+                          支持
+Extensions
+RFC2737 Entity            支持
+
+RFC3635 Ethernet-Like     支持
+
+RFC2863 Interface Group   支持
+
+SNMP-Community-MIB        支持
+
+SNMPv3                    支持
+
+                          POE port config                支持
+
+POE (S3508P/S3508PB)      POE timer                      支持
+
+                          Legacy PD detection            支持
+
+
+                                                - 10 -
+S3508 系列三层 PoE 以太网交换机
+
+                   max power management           支持
+
+                   Priority management            支持
+
+RIP                v1/v2                          支持
+
+OSPF               v1/v2                          支持
+
+Web GUI language   Chinese / English              支持
+
+
+
+
+配件
+
+        产品名称                                           数量
+
+
+ 串口线                  1PCS
+
+
+ 电源线                  1PCS
+
+
+ 挂耳                   2PCS
+
+
+ 挂耳螺丝                 6PCS
+
+
+ 五类网线                 1PCS
+
+
+ 接地线                  1PCS
+
+
+ 用户手册                 1PCS
+
+
+
+
+                                         - 11 -
+

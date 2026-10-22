@@ -1,5 +1,5 @@
 {
-  "probed_at": "2026-10-22T14:01:31Z",
+  "probed_at": "2026-10-22T15:59:26Z",
   "runner_ip": null,
   "tried": [
     {
@@ -9,7 +9,7 @@
       "final_url": "https://www.hruitech.com/",
       "content_type": "text/html",
       "server": "cloudflare",
-      "cf_ray": "a4e908d67e5a1f49-DEN",
+      "cf_ray": "a4e9b58d0d57d6f4-IAD",
       "cf_mitigated": null,
       "x_powered_by": "ASP.NET",
       "via": null,

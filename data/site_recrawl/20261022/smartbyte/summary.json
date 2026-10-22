@@ -1,7 +1,7 @@
 {
-  "crawled_at": "2026-10-22T14:01:30Z",
+  "crawled_at": "2026-10-22T15:59:25Z",
   "host": "www.smartbyte-switch.com",
-  "complete": false,
+  "complete": true,
   "blocked": false,
   "recrawl_base": "data/smartbyte_site_raw",
   "diff": {
@@ -23,14 +23,14 @@
     "images": {
       "new": 0,
       "changed": 0,
-      "same": 1226,
+      "same": 1498,
       "gone": 0,
-      "not_reached": 272
+      "not_reached": 0
     }
   },
   "same_as_base": {
     "downloads": 245,
-    "images": 1226
+    "images": 1498
   },
   "access": {
     "mode": "requests",
@@ -64,11 +64,11 @@
   "pdf_text_files": 0,
   "images_bytes": 0,
   "images_committed": true,
-  "images_total": 1226,
-  "images_ok": 1226,
-  "images_left": 272,
-  "images_stop": "time budget (272 left)",
-  "images_bytes_this_run": 236131192,
+  "images_total": 1498,
+  "images_ok": 1498,
+  "images_left": 0,
+  "images_stop": "complete",
+  "images_bytes_this_run": 254229259,
   "external_hosts": {
     "gcdn.meidianbang.cn": 348
   },
@@ -88,12 +88,28 @@
       "pages_stop": "complete (queue empty)",
       "downloads_stop": "complete",
       "images_stop": "time budget (272 left)"
+    },
+    {
+      "run": "14",
+      "started": "2026-10-22T15:34:05Z",
+      "resumed": true,
+      "budget_min": 64.0,
+      "max_pages": 1500,
+      "delay_s": 0.8,
+      "ended": "2026-10-22T15:59:25Z",
+      "elapsed_s": 1520,
+      "pages_new": 0,
+      "downloads_new": 0,
+      "images_new": 1498,
+      "pages_stop": "complete (queue empty)",
+      "downloads_stop": "complete",
+      "images_stop": "complete"
     }
   ],
-  "elapsed_s": 4020,
+  "elapsed_s": 1520,
   "user_agent": "Mozilla/5.0 (compatible; SagaTelecom-site-archiver/1.0; +https://sagatele.com)",
   "delay_s": 0.8,
-  "time_budget_min": 67.0,
-  "how_to_continue": "未抓完（被拒 403/429/网络错误 0 个；页面阶段 complete (queue empty)；附件 complete；图片 time budget (272 left)）：在 GitHub Actions 页对 SmartByte site archive 点 Run workflow（或再推一次 crawl.py），会从 crawl_state.json 续抓并重试失败项",
+  "time_budget_min": 64.0,
+  "how_to_continue": null,
   "site": "smartbyte"
 }

@@ -1,0 +1,78 @@
+===== run 14 =====
+[14:59:44] checkout already at branch tip db3b08d
+[14:59:44] run 14 start; resume=False; budget 50.0 min; max_pages 1500; delay 0.8s
+[14:59:48] probe archiver https://www.hrgdkj.com/ → 200
+[14:59:48] access mode = requests (archiver) base https://www.hrgdkj.com/
+[14:59:48] sitemap: 8 loc, 7 new seeds
+[14:59:49] hrui_cn api seeds: 0 candidate ids from homepage
+[14:59:49] hrui_cn api: 0 calls, 0 items, 0 new pages queued
+[15:00:21] pages 25 (+25 this run) queue 415 downloads 0 images 167 elapsed 0.6 min
+[15:00:50] pages 50 (+50 this run) queue 393 downloads 0 images 167 elapsed 1.1 min
+[15:01:21] pages 75 (+75 this run) queue 406 downloads 12 images 202 elapsed 1.6 min
+[15:01:50] pages 100 (+100 this run) queue 381 downloads 33 images 313 elapsed 2.1 min
+[15:02:19] pages 125 (+125 this run) queue 356 downloads 56 images 449 elapsed 2.6 min
+[15:02:49] pages 150 (+150 this run) queue 331 downloads 81 images 569 elapsed 3.1 min
+[15:03:18] pages 175 (+175 this run) queue 306 downloads 105 images 703 elapsed 3.6 min
+[15:03:47] pages 200 (+200 this run) queue 289 downloads 114 images 756 elapsed 4.0 min
+[15:03:58] HTTP 404 https://www.hrgdkj.com/218/49.html
+[15:03:59] HTTP 404 https://www.hrgdkj.com/218/51.html
+[15:04:00] HTTP 404 https://www.hrgdkj.com/218/53.html
+[15:04:01] HTTP 404 https://www.hrgdkj.com/218/55.html
+[15:04:05] HTTP 404 https://www.hrgdkj.com/218/115.html
+[15:04:06] HTTP 404 https://www.hrgdkj.com/218/117.html
+[15:04:07] HTTP 404 https://www.hrgdkj.com/218/119.html
+[15:04:08] HTTP 404 https://www.hrgdkj.com/218/121.html
+[15:04:12] HTTP 404 https://www.hrgdkj.com/218/198.html
+[15:04:13] HTTP 404 https://www.hrgdkj.com/218/200.html
+[15:04:15] HTTP 404 https://www.hrgdkj.com/218/204.html
+[15:04:16] HTTP 404 https://www.hrgdkj.com/218/206.html
+[15:04:16] pages 225 (+225 this run) queue 274 downloads 115 images 767 elapsed 4.5 min
+[15:04:17] HTTP 404 https://www.hrgdkj.com/218/208.html
+[15:04:18] HTTP 404 https://www.hrgdkj.com/218/210.html
+[15:04:20] HTTP 404 https://www.hrgdkj.com/218/212.html
+[15:04:21] HTTP 404 https://www.hrgdkj.com/218/214.html
+[15:04:22] HTTP 404 https://www.hrgdkj.com/218/216.html
+[15:04:23] HTTP 404 https://www.hrgdkj.com/218/218.html
+[15:04:24] HTTP 404 https://www.hrgdkj.com/218/220.html
+[15:04:25] HTTP 404 https://www.hrgdkj.com/218/222.html
+[15:04:26] HTTP 404 https://www.hrgdkj.com/218/224.html
+[15:04:45] pages 250 (+250 this run) queue 249 downloads 115 images 792 elapsed 5.0 min
+[15:05:16] pages 275 (+275 this run) queue 224 downloads 115 images 818 elapsed 5.5 min
+[15:05:44] pages 300 (+300 this run) queue 199 downloads 115 images 838 elapsed 6.0 min
+[15:06:13] pages 325 (+325 this run) queue 174 downloads 115 images 855 elapsed 6.5 min
+[15:06:41] pages 350 (+350 this run) queue 149 downloads 115 images 921 elapsed 6.9 min
+[15:07:12] pages 375 (+375 this run) queue 124 downloads 115 images 963 elapsed 7.5 min
+[15:07:41] pages 400 (+400 this run) queue 99 downloads 115 images 985 elapsed 8.0 min
+[15:08:05] HTTP 404 https://www.hrgdkj.com/27/poe-full-network-audio-fixed-installation-series.html
+[15:08:13] HTTP 404 https://www.hrgdkj.com/400/ZhanHuiHuiGuHRUIHongRuiJingCaiLiangXiang2021ShenZhen.html
+[15:08:13] pages 425 (+425 this run) queue 74 downloads 115 images 1039 elapsed 8.5 min
+[15:08:44] HTTP 404 https://www.hrgdkj.com/25/XinPinYuGao-7CHR-CPE30B-05P2.4GWuXianWangQiaoBuShu.html776/
+[15:08:44] pages 450 (+450 this run) queue 49 downloads 115 images 1071 elapsed 9.0 min
+[15:09:13] pages 475 (+475 this run) queue 24 downloads 115 images 1088 elapsed 9.5 min
+[15:09:21] HTTP 404 https://www.hrgdkj.com/312/layer-3-managed-10/100/1000m&amp
+[15:09:22] HTTP 404 https://www.hrgdkj.com/312/377.html
+[15:09:23] HTTP 404 https://www.hrgdkj.com/312/367.html
+[15:09:24] HTTP 404 https://www.hrgdkj.com/420/353.html
+[15:09:26] HTTP 404 https://www.hrgdkj.com/312/381.html
+[15:09:27] HTTP 404 https://www.hrgdkj.com/312/357.html
+[15:09:28] HTTP 404 https://www.hrgdkj.com/312/layer-3-managed-24-port-sfp-10/100/1000m&amp
+[15:09:29] HTTP 404 https://www.hrgdkj.com/420/355.html
+[15:09:42] BFS stop: complete (queue empty); pages=499 (+499) downloads=145 images=1088
+[15:09:42] cdn images harvested from archived html: +0 (images total 1088)
+[15:09:42] DL FAIL https://www.hrgdkj.com/web/userfiles/download/100-E7-B3-BB-E5-88-97-E5-8D-83-E5-85-861-E5-85-891-E7-94-B5-E5-85-89-E7-BA-A4-E6-94-B6-E5-8F-91-E5-99-A8.pdf: 61-E5-85-891-E7-94-B5-E5-85-89-E7-BA-A4-E6-94-B6-E5-8F-91-E5-99-A8.pdf: HTTP 404 text/html; charset=iso-8859- 236B
+[15:09:43] DL FAIL https://www.hrgdkj.com/web/userfiles/download/100-E7-B3-BB-E5-88-97-E7-99-BE-E5-85-861-E5-85-891-E7-94-B5-E5-85-89-E7-BA-A4-E6-94-B6-E5-8F-91-E5-99-A8.pdf: 61-E5-85-891-E7-94-B5-E5-85-89-E7-BA-A4-E6-94-B6-E5-8F-91-E5-99-A8.pdf: HTTP 404 text/html; charset=iso-8859- 236B
+[15:09:43] DL FAIL https://www.hrgdkj.com/web/userfiles/download/900-E7-B3-BB-E5-88-97-E5-8D-83-E5-85-861-E5-85-891-E7-94-B5-E5-85-89-E7-BA-A4-E6-94-B6-E5-8F-91-E5-99-A8.pdf: 61-E5-85-891-E7-94-B5-E5-85-89-E7-BA-A4-E6-94-B6-E5-8F-91-E5-99-A8.pdf: HTTP 404 text/html; charset=iso-8859- 236B
+[15:09:43] DL FAIL https://www.hrgdkj.com/web/userfiles/download/900-E7-B3-BB-E5-88-97-E5-8D-83-E5-85-861-E5-85-894-E7-94-B5-E5-85-89-E7-BA-A4-E6-94-B6-E5-8F-91-E5-99-A8.pdf: 61-E5-85-894-E7-94-B5-E5-85-89-E7-BA-A4-E6-94-B6-E5-8F-91-E5-99-A8.pdf: HTTP 404 text/html; charset=iso-8859- 236B
+[15:09:44] DL FAIL https://www.hrgdkj.com/web/userfiles/download/900-E7-B3-BB-E5-88-97-E5-8D-83-E5-85-861-E5-85-898-E7-94-B5-E5-85-89-E7-BA-A4-E6-94-B6-E5-8F-91-E5-99-A8.pdf: 61-E5-85-898-E7-94-B5-E5-85-89-E7-BA-A4-E6-94-B6-E5-8F-91-E5-99-A8.pdf: HTTP 404 text/html; charset=iso-8859- 236B
+[15:09:44] DL FAIL https://www.hrgdkj.com/web/userfiles/download/900-E7-B3-BB-E5-88-97-E5-8D-83-E5-85-862-E5-85-894-E7-94-B5-E5-85-89-E7-BA-A4-E6-94-B6-E5-8F-91-E5-99-A8.pdf: 62-E5-85-894-E7-94-B5-E5-85-89-E7-BA-A4-E6-94-B6-E5-8F-91-E5-99-A8.pdf: HTTP 404 text/html; charset=iso-8859- 236B
+[15:09:44] DL FAIL https://www.hrgdkj.com/web/userfiles/download/900-E7-B3-BB-E5-88-97-E5-8D-83-E5-85-862-E5-85-898-E7-94-B5-E5-85-89-E7-BA-A4-E6-94-B6-E5-8F-91-E5-99-A8.pdf: 62-E5-85-898-E7-94-B5-E5-85-89-E7-BA-A4-E6-94-B6-E5-8F-91-E5-99-A8.pdf: HTTP 404 text/html; charset=iso-8859- 236B
+[15:09:44] DL FAIL https://www.hrgdkj.com/web/userfiles/download/900-E7-B3-BB-E5-88-97-E7-99-BE-E5-85-861-E5-85-891-E7-94-B5-E5-85-89-E7-BA-A4-E6-94-B6-E5-8F-91-E5-99-A8.pdf: 61-E5-85-891-E7-94-B5-E5-85-89-E7-BA-A4-E6-94-B6-E5-8F-91-E5-99-A8.pdf: HTTP 404 text/html; charset=iso-8859- 236B
+[15:09:45] DL FAIL https://www.hrgdkj.com/web/userfiles/download/900-E7-B3-BB-E5-88-97-E7-99-BE-E5-85-861-E5-85-894-E7-94-B5-E5-85-89-E7-BA-A4-E6-94-B6-E5-8F-91-E5-99-A8.pdf: 61-E5-85-894-E7-94-B5-E5-85-89-E7-BA-A4-E6-94-B6-E5-8F-91-E5-99-A8.pdf: HTTP 404 text/html; charset=iso-8859- 236B
+[15:09:45] DL FAIL https://www.hrgdkj.com/web/userfiles/download/900-E7-B3-BB-E5-88-97-E7-99-BE-E5-85-861-E5-85-898-E7-94-B5-E5-85-89-E7-BA-A4-E6-94-B6-E5-8F-91-E5-99-A8.pdf: 61-E5-85-898-E7-94-B5-E5-85-89-E7-BA-A4-E6-94-B6-E5-8F-91-E5-99-A8.pdf: HTTP 404 text/html; charset=iso-8859- 236B
+[15:09:46] DL FAIL https://www.hrgdkj.com/web/userfiles/download/HR-AF-PD12D-26HR-AT-PD12D.pdf: ://www.hrgdkj.com/web/userfiles/download/HR-AF-PD12D-26HR-AT-PD12D.pdf: HTTP 404 text/html; charset=iso-8859- 236B
+[15:09:46] DL FAIL https://www.hrgdkj.com/web/userfiles/download/HR-BTG-N901_FEQDO.pdf: https://www.hrgdkj.com/web/userfiles/download/HR-BTG-N901_FEQDO.pdf: HTTP 404 text/html; charset=iso-8859- 236B
+[15:09:46] downloads stop: blocked (133 left) → resume later; ok 0/12 (+12 this run), 0.0 MB
+[15:09:46] pdftotext: 0
+[15:09:46] downloads total 0.0 MB → committed to git: 0/0 files (0.0 MB; all=True)
+[15:09:46] images total 0.0 MB → committed to git: True (+0 copied into data/hrui_cn_site_raw/images)
+[15:09:46] images stop: blocked (1088 left) → resume later; ok 0/0 (+0 this run), 0.0 MB this run

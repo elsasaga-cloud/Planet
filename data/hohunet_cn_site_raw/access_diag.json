@@ -1,0 +1,22 @@
+{
+  "probed_at": "2026-10-22T15:09:48Z",
+  "runner_ip": null,
+  "tried": [
+    {
+      "profile": "archiver",
+      "url": "https://hohunet.cn/",
+      "status": 200,
+      "final_url": "https://hohunet.cn/",
+      "content_type": "text/html; charset=utf-8",
+      "server": "nginx",
+      "cf_ray": null,
+      "cf_mitigated": null,
+      "x_powered_by": "PHP/8.2.13",
+      "via": null,
+      "body_head": "<!doctype html> <html lang=\"zh-Hans\" prefix=\"og: https://ogp.me/ns#\"> <head> <meta charset=\"UTF-8\"> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"> <link rel=\"profile\" href=\"//gmpg.org/xfn/11\"> <!-- Search Engine Optimization by Rank Math - https://s.rankmath.com/home --> <title>深圳市浩湖网络技术有限公司 - For better networking！</title><link rel=\"preload\" as=\"style\" href=\"https://fonts.googleapis.com/css?family=Roboto%3A300%2C400%2C400i%2C500%2C500i%2C700%2C700i%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500itali"
+    }
+  ],
+  "mode": "requests",
+  "profile": "archiver",
+  "base": "https://hohunet.cn/"
+}

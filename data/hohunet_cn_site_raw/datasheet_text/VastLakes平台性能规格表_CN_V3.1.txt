@@ -1,0 +1,676 @@
+HOHUNET VASTLAKES PLATFORM
+性能规格表
+高性能交换硬件平台
+文档版本：V3.1
+发布日期：2025/11/24
+
+平台简介
+VastLakes平台是专门为解决网络发展中遇到的挑战而构建的高性能交换硬件平台，
+VastLakes平台结合了功能丰富的交换核心，以及800MHz/1.2GHz嵌入式ARM双核A53处
+理器。平台支持多种端口配置，提供100M到100G的全速率端口能力。
+
+
+关键特性
+l   以太网功能表：MAC table，Vxlan，IPFIX，ACL，EVC等等
+l   丰富的2层/3层协议
+l   丰富的OAM
+l   安全特性集
+l   时钟协议
+
+
+性能规格表
+表 1：VastLakes平台性能规格表
+
+类                  描述                         值
+
+Ethernet Basic
+Jumbo Frame        Maximum jumbo frame size   9600
+                                              Default profile: 98304
+                                              Extended-buffer: 12288
+                   MAC address capacity       IPv6 profile: 98304
+                                              Layer3 profile: 98304
+Unicast MAC                                   MPLS profile: 98304
+                   MAC learning rate (SW)     > 4000pps
+                   MAC learning rate (HW)     > 10Gbps
+                   Blackhole MAC address
+                                              128
+                   capacity
+
+
+
+                                   1
+VASTLAKES PLATFORM                                                           性能规格表
+
+
+表 1：VastLakes平台性能规格表（续）
+
+类                          描述                           值
+
+Ethernet Basic
+                                                        Default profile: 2048
+                                                        Extended-buffer: 1024
+Multicast MAC              MAC address capacity         IPv6 profile: 1024
+                                                        Layer3 profile: 1024
+                                                        MPLS profile: 2048
+                           VLAN IDs                     4094
+VLAN                       VLAN instances               4094
+                           VLANs to enable statistics   256
+                           Maximum mapping table        64
+VLAN Mapping
+                           Maximum rules number         1024
+EVC                        Maximum EVC number           4094
+                           Maximum member number
+                                                        No limitation
+                           per group
+
+Link Aggregation (Static   Maximum Group Num            64
+& LACP)                                                 Static/Dlb/RR/Resilient/Self-
+                           Load balance key mode
+                                                        healing
+                           Convergence time             < 50ms
+                           Maximum rule number          4096
+                           Maximum group number         1
+                           Base MAC capacity            512
+VLAN Classification
+                           Base IPv4 capacity           448
+                           Base IPv6 capacity           32
+                           Base protocol capacity       7
+Ethernet Ring Protection
+STP                        Convergence time             < 30s
+RSTP                       Convergence time             < 1s
+                           Instance number              64
+MSTP
+                           Convergence time             < 1s
+ERPS                       Domain number                16
+                                             2
+VASTLAKES PLATFORM                                                            性能规格表
+
+
+表 1：VastLakes平台性能规格表（续）
+
+类                          描述                           值
+
+Ethernet Ring Protection
+                                                        1 Primary ring/domain
+                           Ring number
+                                                        2 Sub ring/domain
+ERPS                       Protection instance number
+                                                        64
+                           per Ring
+                           Switchover time              < 50 ms
+Ethernet OAM
+                           Maximum session number       1024
+                           Maximum domain number        8
+                           CCM interval types           7
+CFM (802.1ag)              CCM minimum interval         3.3ms
+                           Maximum down MEP number      1024
+                           Maximum up MEP number        1024
+                           Maximum LMEP number          1024
+IPv4 Unicast
+                                                        Default profile: 12288
+                                                        Extended-buffer: 4096
+ARP                        ARP capacity                 IPv6 profile: 6144
+                                                        Layer3 profile: 16384
+                                                        MPLS profile: 12288
+                                                        Default profile: 57344
+                                                        Extended-buffer: 28672
+IPv4                       FIB                          IPv6 profile: 12288
+                                                        Layer3 profile: 57344
+                                                        MPLS profile: 57344
+ECMP                       ECMP group                   240 (Share with IPv6)
+                           Policy route map             64
+PBR
+                           Policy based routing ACE     256
+                           Maximum static neighbors     256
+OSPF
+                           Maximum summary address      2048
+                                              3
+VASTLAKES PLATFORM                                                       性能规格表
+
+
+表 1：VastLakes平台性能规格表（续）
+
+类                    描述                             值
+
+IPv4 Multicast
+                                                    Default profile: 2048
+                                                    Extended-buffer: 512
+                     Multicast routing table        IPv6 profile: 1024
+                                                    Layer3 profile: 2048
+                                                    MPLS profile: 1024
+IPMC
+                                                    Default profile: 4096
+                                                    Extended-buffer: 2048
+                     Multicast routing downstream
+                                                    IPv6 profile: 2048
+                     interfaces
+                                                    Layer3 profile: 5120
+                                                    MPLS profile: 2048
+                     Maximum groups number          2048
+IGMP Snooping
+                     Maximum member number          N/A
+                                                    Default profile: 2048
+                                                    Extended-buffer: 2048 (Share
+                                                    with IPv6)
+                     Maximum group number
+MVR                                                 IPv6 profile: 1024
+                                                    Layer3 Profile: 2048
+                                                    MPLS profile: 1024
+                     Maximum member number          4096
+IPv6 Unicast
+                                                    Default profile: 2048
+                                                    Extended-buffer: 1024
+Host Route           NDP capacity                   IPv6 profile: 4096
+                                                    Layer3 profile: 0
+                                                    MPLS profile: 2048
+                                                    Default profile: 4096
+IPv6                 FIBv6                          Extended-buffer: 1024
+                                                    IPv6 profile: 6144
+
+                                       4
+VASTLAKES PLATFORM                                                          性能规格表
+
+
+表 1：VastLakes平台性能规格表（续）
+
+类                    描述                                值
+
+IPv6 Unicast
+                                                       Layer3 profile: 0
+                     FIBv6
+IPv6                                                   MPLS profile: 1024
+                     ECMP group                        240 (share with IPv4)
+IPv6 Multicast
+                                                       Default profile: 256
+                                                       Extended-buffer: 256
+                     Multicast routing table           IPv6 profile: 512
+                                                       Layer3 profile: 0
+                                                       MPLS profile: 0
+IPMC
+                                                       Default profile: 512
+                                                       Extended-buffer: 1536
+                     Number of interfaces that
+                                                       IPv6 profile: 1024
+                     support Multicast routing table
+                                                       Layer3 profile: 0
+                                                       MPLS profile: 0
+                                                       Default profile: 256
+                                                       Extended-buffer: 2048 (Share
+                                                       with IPv4)
+                     Maximum entry number
+                                                       IPv6 profile: 512
+                                                       Layer3 profile: 0
+
+MVR V6                                                 MPLS profile: 0
+                                                       Default profile: 512
+                                                       Extended-buffer: 4096
+                     Maximum member number             IPv6 profile: 1024
+                                                       Layer3 profile: 0
+                                                       MPLS profile: 0
+IP tunnel
+IP Tunnel            Tunnel peer capacity              8
+
+
+
+                                       5
+VASTLAKES PLATFORM                                                              性能规格表
+
+
+表 1：VastLakes平台性能规格表（续）
+
+类                       描述                                 值
+
+QoS
+                        Unicast queue                      10
+Per-port Queue Number   Multicast queue                    10
+                        Monitor queue                      10
+                                                           Default profile: 4.5MByte
+                                                           Extended-buffer: 9MByte
+Packet Buffer           System packet buffer capacity      IPv6 profile: 4.5MByte
+                                                           Layer3 profile: 4.5MByte
+                                                           MPLS profile: 4.5MByte
+                                                           0~2M: 10K
+                                                           2M~100M: 40K
+                        Policer granularity                100M~1G: 80K
+Granularity                                                1G~2G: 120K
+                                                           2G~4G: 250K
+                        Queue shape granularity            4G~10G: 500K
+                        Port shape granularity             10k
+                        Ingress port QoS ipv4 flow
+                                                           1532
+                        entries
+                        Ingress port QoS ipv6 flow
+Flow Entry                                                 1532
+                        entries
+                        Ingress port QoS flow statistics
+                                                           511
+                        entries
+ACL
+                                                           Default profile: 2926
+                                                           Extended-buffer: 2926
+                        Ingress port ACL for MAC           IPv6 profile: 2926
+MAC ACL                                                    Layer3 profile: 2976
+                                                           MPLS profile: 2976
+                                                           Default profile: 2926
+                        Ingress VLAN ACL for MAC
+                                                           Extended-buffer: 2926
+
+                                              6
+VASTLAKES PLATFORM                                                     性能规格表
+
+
+表 1：VastLakes平台性能规格表（续）
+
+类                    描述                          值
+
+ACL
+                                                 IPv6 profile: 2926
+                     Ingress VLAN ACL for MAC    Layer3 profile: 2976
+                                                 MPLS profile: 2976
+                                                 Default profile: 878
+                                                 Extended-buffer: 878
+                     Egress port ACL for MAC     IPv6 profile: 878
+MAC ACL                                          Layer3 profile: 928
+                                                 MPLS profile: 928
+                                                 Default profile: 878
+                                                 Extended-buffer: 878
+                     Egress VLAN ACL for MAC     IPv6 profile: 878
+                                                 Layer3 profile: 928
+                                                 MPLS profile: 928
+                                                 Default profile: 2926
+                                                 Extended-buffer: 2926
+                     Ingress Port ACL for IPv4   IPv6 profile: 2926
+                                                 Layer3 profile: 2976
+                                                 MPLS profile: 2976
+                                                 Default profile: 2926
+                                                 Extended-buffer: 2926
+IPv4 ACL             Ingress VLAN ACL for IPv4   IPv6 profile: 2926
+                                                 Layer3 profile: 2976
+                                                 MPLS profile: 2976
+                                                 Default profile: 878
+                                                 Extended-buffer: 878
+                     Egress Port ACL for IPv4    IPv6 profile: 878
+                                                 Layer3 profile: 928
+                                                 MPLS profile: 928
+
+                                       7
+VASTLAKES PLATFORM                                                        性能规格表
+
+
+表 1：VastLakes平台性能规格表（续）
+
+类                     描述                            值
+
+ACL
+                                                    Default profile: 878
+                                                    Extended-buffer: 878
+IPv4 ACL              Egress VLAN ACL for IPv4      IPv6 profile: 878
+                                                    Layer3 profile: 928
+                                                    MPLS profile: 928
+                                                    Default profile: 2926
+                                                    Extended-buffer: 2926
+                      Ingress Port ACL for IPv6     IPv6 profile: 2926
+                                                    Layer3 profile: 2976
+                                                    MPLS profile: 2976
+                                                    Default profile: 2926
+                                                    Extended-buffer: 2926
+                      Ingress VLAN ACL for IPv6     IPv6 profile: 2926
+                                                    Layer3 profile: 2976
+                                                    MPLS profile: 2976
+IPv6 ACL
+                                                    Default profile: 878
+                                                    Extended-buffer: 878
+                      Egress Port ACL for IPv6      IPv6 profile: 878
+                                                    Layer3 profile: 928
+                                                    MPLS profile: 928
+                                                    Default profile: 878
+                                                    Extended-buffer: 878
+                      Egress VLAN ACL for IPv6      IPv6 profile: 878
+                                                    Layer3 profile: 928
+                                                    MPLS profile: 928
+                      Ingress ACL flow statistics
+                                                    1022
+                      entries
+ACL Flow Statistics
+                      Egress ACL flow statistics
+                                                    511
+                      entries
+                                         8
+VASTLAKES PLATFORM                                                        性能规格表
+
+
+表 1：VastLakes平台性能规格表（续）
+
+类                    描述                             值
+
+ACL
+                     CoPP rules                     249
+CoPP
+                     CoPP flow statistics entries   249
+                     UDF rules                      256
+UDF
+                     UDF flow stats entries         128
+Security
+                     IPv4 maximum rules number      768
+IP Source Guard
+                     IPv6 maximum rules number      64
+                                                    Default profile: 512
+                                                    Extended-buffer: 256
+802.1x Base MAC      Maximum entries                IPv6 profile: 256
+                                                    Layer3 profile: 256
+                                                    MPLS profile: 512
+DHCP Snooping        Maximum bound entry            4096
+IPFIX
+IPFIX                IPFIX member                   4096
+Reliability
+BFD                  Maximum session number         Share 128
+S-BFD                Maximum session number         Share 128
+VRRP                 Maximum group number           63
+                     Maximum group number           16
+Smart Link           Maximum instance number        64
+                     Switchover time                <50ms
+                     Maximum group number           16
+Monitor Link         Maximum up-link number per
+                                                    24
+                     group
+Data center
+VARP                 Virtual IP Num per Port        15
+VXLAN                VXLAN tunnel                   Default profile: 6144
+
+                                        9
+VASTLAKES PLATFORM                                            性能规格表
+
+
+表 1：VastLakes平台性能规格表（续）
+
+类                    描述                  值
+
+Data center
+                                         Extended-buffer: 6144
+                                         IPv6 profile: 6144
+                     VXLAN tunnel
+                                         Layer3 profile: 6144
+                                         MPLS profile: 2040
+                                         Default profile: 2000
+                                         Extended-buffer: 2000
+                     VNI                 IPv6 profile: 2000
+VXLAN
+                                         Layer3 profile: 2000
+                                         MPLS profile: 1000
+                                         Default profile: 2048
+                                         Extended-buffer: 2048
+                     VTEP Peer           IPv6 profile: 2048
+                                         Layer3 profile: 2048
+                                         MPLS profile: 256
+
+
+
+
+                                    10
+VASTLAKES PLATFORM                                                性能规格表
+
+
+VastLakes平台支持型号
+表 2：VastLakes平台支持型号
+
+    系列                型号                             描述
+
+                                   48*100M/1G/2.5G/5G/10G多速率电口，4*10G
+               S5648T-4X2Z-EI      SFP+，2*100G QSFP28
+                                   2*热插拔电源模组，4*热插拔风扇模组
+
+                                   48*100M/1G/2.5G/5G/10G多速率电口，4*10G
+               S5648T-4X2Z-SI      SFP+，2*100G QSFP28
+                                   1*固定电源，4*固定风扇
+
+                                   48*10G SFP+，2*100G QSFP28
+                S5648X-2Z-SI
+                                   1*固定电源，4*固定风扇
+
+                                   24*100M/1G/2.5G/5G/10G多速率电口，2*100G
+                S5624T-2Z-EI       QSFP28
+                                   2*热插拔电源模组，2*热插拔风扇模组
+
+                                   24*100M/1G/2.5G/5G/10G多速率电口，2*100G
+                S5624T-2Z-SI       QSFP28
+                                   1*固定电源，4*固定风扇
+   S5600                           24*100M/1G/2.5G/5G/10G多速率PoE++电口，
+                S5624P-2Z-EI       2*100G QSFP28
+                                   2*热插拔电源模组，2*热插拔风扇模组
+
+                                   24*10G SFP+，2*100G QSFP28
+                S5624X-2Z-EI
+                                   2*热插拔电源模组，2*热插拔风扇模组
+Version Information
+                                   24*10G SFP+，2*100G QSFP28
+                S5624X-2Z-SI
+  Version            Description   1*固定电源，4*固定风扇 Date
+
+  V1.0.0             Initial version 24*10G SFP+，8*25/10G
+                S5624X-8N-EI
+                                                          SFP28 2024
+                                                   12 September
+                                     2*热插拔电源模组，2*热插拔风扇模组
+
+                                   24*100M/1G/2.5G/5G/10G多速率电口，
+                S5624T-8N-EI       8*25/10G SFP28
+                                   2*热插拔电源模组，2*热插拔风扇模组
+
+                                   24*100M/1G/2.5G/5G/10G多速率PoE++电口，
+                S5624P-8N-EI       8*25/10G SFP28
+                                   2*热插拔电源模组，2*热插拔风扇模组
+
+
+                                     11
+VASTLAKES PLATFORM                                          性能规格表
+
+
+表 2：VastLakes平台支持型号（续）
+
+   系列                型号                          描述
+
+                                 12*10G SFP+，8*100M/1000M电口，8*1G SFP，
+             S5612X-16G8N2Q-EI   8*25G SFP28，2*40G QSFP+
+                                 2*热插拔电源模组，2*热插拔风扇模组
+   S5600
+                                 12*10G SFP+，8*100M/1000M电口，8*1G SFP，
+             S5612X-16G8N2Q-SI   8*25G SFP28，2*40G QSFP+
+                                 1*固定电源，4*固定风扇
+
+                                 48*100M/1G/2.5G多速率电口，2*40G QSFP+，
+               S5048-4X2Q-EI     4*25G/10G SFP28
+                                 2*热插拔电源模组，2*热插拔风扇模组
+
+                                 48*100M/1G/2.5G多速率电口，2*40G QSFP+，
+               S5048-4X2Q-SI     4*25G/10G SFP28
+                                 1*固定电源，4*固定风扇
+
+                                 40*2.5G (PoE++ 90W)多速率电口，8*10G
+                                 (PoE++ 90W)多速率电口 ，4*25 SFP28，2*40G
+   S5000     S5040P-8T2Q4N-EI
+                                 QSFP+
+                                 2*热插拔电源模组，2*热插拔风扇模组
+
+                                 32*2.5G (PoE++ 90W)多速率电口，16*10G
+              S5032P-16T8N-EI    (PoE++ 90W)多速率电口 ，8*25 SFP28
+                                 2*热插拔电源模组，2*热插拔风扇模组
+
+                                 16*2.5G (PoE++ 90W)多速率电口，8*10G
+              S5016P-8T8N-EI     (PoE++ 90W)多速率电口 ，8*25 SFP28
+                                 2*热插拔电源模组，2*热插拔风扇模组
+
+
+
+
+                                   12
+VASTLAKES PLATFORM                                       性能规格表
+
+
+表 2：VastLakes平台支持型号（续）
+
+   系列                型号                       描述
+
+                               24*100M/1G/2.5G/5G多速率电口，2*100G
+                S4624T-2Z-EI   QSFP28
+                               2*热插拔电源模组，2*热插拔风扇模组
+
+                               24*100M/1G/2.5G/5G多速率PoE++电口，2*100G
+               S4624P-2Z-EI    QSFP28
+                               2*热插拔电源模组，2*热插拔风扇模组
+
+                               24*100M/1G/2.5G/5G多速率电口，8*25G/10G
+               S4624T-8N-EI    SFP28
+                               2*热插拔电源模组，2*热插拔风扇模组
+
+                               24*100M/1G/2.5G/5G多速率电口，8*25G/10G
+   S4600       S4624P-8N-EI    SFP28
+                               2*热插拔电源模组，2*热插拔风扇模组
+
+                               34*100M/1G/2.5G/5G多速率电口，1*10G SFP+，
+               S4634-1X2Z-SI   2*100G QSFP28
+                               1*固定电源，4*固定风扇
+
+                               48*100M/1G/2.5G/5G多速率电口，4*25G/10G
+              S4648T-4N2Z-SI   SFP28，4*100G QSFP28
+                               1*固定电源，4*固定风扇
+
+                               48*100M/1G/2.5G/5G多速率电口，4*100G
+                S4648T-4Z-SI   QSFP28
+                               1*固定电源，4*固定风扇
+
+
+
+
+                                 13
+VASTLAKES PLATFORM                                          性能规格表
+
+
+表 2：VastLakes平台支持型号（续）
+
+   系列                型号                           描述
+
+                                6*40G QSFP+，2*100G QSFP28
+               S7606X-2Z-EI     1*热插拔电源模组，1*热插拔风扇模组
+                                1*ATX(2*3pin) 冗余电源线
+
+                                6*40G QSFP+，2*100G QSFP28
+               S7606X-2Z-SI
+                                1*固定电源，2*固定风扇
+
+                                24*10G SFP+，2*100G QSFP28
+               S5624XH-2Z-EI    1*热插拔电源模组，1*热插拔风扇模组
+                                1*ATX(2*3pin) 冗余电源线
+
+                                24*10G SFP+，2*100G QSFP28
+               S5624XH-2Z-SI    1*固定电源，2*固定风扇
+                                1*ATX(2*4pin) 冗余电源线
+
+                                12*10G SFP+，12*100M/1G/2.5G/5G/10G多速率
+                                电口，2*100G QSFP28
+DynamicDuo   S5612X12TH-2Z-EI
+                                1*热插拔电源模组，1*热插拔风扇模组
+                                1*ATX(2*3pin) 冗余电源线
+
+                                12*10G SFP+，12*100M/1G/2.5G/5G/10G多速率
+                                电口，2*100G QSFP28
+             S5612X12TH-2Z-SI
+                                1*固定电源，2*固定风扇
+                                1*ATX(2*4pin) 冗余电源线
+
+                                24*100M/1G/2.5G/5G/10G多速率电口，2*100G
+                                QSFP28
+               S5624TH-2Z-EI
+                                1*热插拔电源模组，1*热插拔风扇模组
+                                1*ATX(2*3pin) 冗余电源线
+
+                                24*100M/1G/2.5G/5G/10G多速率电口，2*100G
+                                QSFP28
+               S5624TH-2Z-SI
+                                1*固定电源，2*固定风扇
+                                1*ATX(2*4pin) 冗余电源线
+
+
+
+
+                                  14
+VASTLAKES PLATFORM                                            性能规格表
+
+
+表 2：VastLakes平台支持型号（续）
+
+   系列                型号                           描述
+
+                                48*10/100/1000M电口，2*40G QSFP+，
+               S5548-2Q4X-EI    4*25G/10G SFP28
+                                2*热插拔电源模组，2*热插拔风扇模组
+
+                                48*10/100/1000M电口，2*40G QSFP+，
+               S5548-2Q4X-SI    4*25G/10G SFP28
+                                1*固定电源，4*固定风扇
+
+                                48*10/100/1000M PoE+电口, 2*40G QSFP+,
+              S5548P-2Q4X-EI    4*25G/10G SFP28
+                                2*热插拔电源模组，2*热插拔风扇模组
+
+                                48*10/100/1000M PoE+电口，2*40G QSFP+，
+              S5548P-2Q4X-SI    4*25G/10G SFP28
+                                1*固定电源，4*固定风扇
+
+                                48*10/100/1000M PoE++电口，2*40G QSFP+,
+              S5548PB-2Q4X-EI   4*25G/10G SFP28
+                                2*热插拔电源模组，2*热插拔风扇模组
+   S5500
+                                24*10/100/1000M电口，2*40G QSFP+，
+               S5524-2Q4X-EI    4*25G/10G SFP28
+                                2*热插拔电源模组，2*热插拔风扇模组
+
+                                24*10/100/1000M电口，2*40G QSFP+，
+               S5524-2Q4X-SI    4*25G/10G SFP28
+                                1*固定电源，4*固定风扇
+
+                                24*10/100/1000M PoE+电口，2*40G QSFP+，
+              S5524P-2Q4X-EI    4*25G/10G SFP28
+                                2*热插拔电源模组，2*热插拔风扇模组
+
+                                24*10/100/1000M PoE+电口，2*40G QSFP+，
+              S5524P-2Q4X-SI    4*25G/10G SFP28
+                                1*固定电源，4*固定风扇
+
+                                24*10/100/1000M PoE++电口，2*40G QSFP+，
+              S5524PB-2Q4X-EI   4*25G/10G SFP28
+                                2*热插拔电源模组，2*热插拔风扇模组
+
+
+
+
+                                  15
+VASTLAKES PLATFORM                          性能规格表
+
+
+
+关于            :
+
+        成立于2015年，是一家专业从事开发交换机产品的技术型公司，全系列交换机
+均基于国产交换芯片。随着芯片技术的不断发展，HOHUNET推出了一系列基于该芯片平
+台的差异化产品。目前，公司产品线覆盖1G到800G，可用于企业网、运营商网、数据中
+心、AI计算等场景。目前公司主要合作模式为OEM/ODM，致力于为客户提供灵活的端到
+端定制产品和技术咨询服务。成为客户最值得信赖的商业伙伴一直是公司的使命和原则。
+
+
+
+
+联系我们：
+深圳市浩湖网络技术有限公司
+
+总部地址：中国广东省深圳市南山区深南大道9996号李宁中心11楼
+商务合作：business@hohunet.com
+官方电话：0086-755-26418565
+官方网址: www.hohunet.cn
+
+
+
+
+深圳市浩湖网络技术有限公司版权所有。HOHUNET是深圳市浩湖有限有限公司在中国和其他国家的注册商
+标。HOHUNET对本文档中的任何不准确之处不承担任何责任。HOHUNET保留变更、修正、转让或以其他
+方式修改本出版物的权利，恕不另行通知。
+

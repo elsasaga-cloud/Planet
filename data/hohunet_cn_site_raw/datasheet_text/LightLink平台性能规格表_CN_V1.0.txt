@@ -1,0 +1,487 @@
+HOHUNET LightLink PLATFORM
+性能规格表
+高性能交换硬件平台
+文档版本：V1.0
+发布日期：2026/6/10
+
+平台简介
+LightLink平台是专为边缘计算和人工智能时代对极低延迟/抖动、全面端到端隧道网络和
+日益增长的需求而打造的以太网交换平台。LightLink平台提供卓越灵活的I/O连接能力，
+支持下行千兆上行10G端口速率。
+
+关键特性
+l   以太网功能表：MAC table，Vxlan，IPFIX，ACL，EVC等等
+l   丰富的2层/3层协议
+l   丰富的OAM
+l   安全特性集
+l   时钟协议
+
+性能规格表
+表 1：LightLink平台性能规格表
+
+类                  描述                         值
+
+Ethernet Basic
+Jumbo Frame        Maximum jumbo frame size   9600
+                                              Default profile:73728
+                                              IPv6 profile: 61440
+                   MAC address capacity
+                                              Layer3 profile: 61440
+                                              MPLS profile: 73728
+Unicast MAC
+                   MAC learning rate (SW)     > 4000pps
+                   MAC learning rate (HW)     > 10Gbps
+                   Blackhole MAC address
+                                              128
+                   capacity
+                                              Default profile: 2048
+                                              IPv6 profile: 1024
+Multicast MAC      MAC address capacity
+                                              Layer3 profile: 1024
+                                              MPLS profile: 2048
+                                   1
+LightLink PLATFORM                                                          性能规格表
+
+
+表 1：LightLink平台性能规格表（续）
+
+类                          描述                           值
+
+Ethernet Basic
+                           VLAN IDs                     4094
+VLAN                       VLAN instances               4094
+                           VLANs to enable statistics   255
+                           Maximum mapping table        64
+VLAN Mapping
+                           Maximum rules number         1024
+EVC                        Maximum EVC number           4094
+                           Maximum member number
+                                                        No limitation
+                           per group
+Link Aggregation (Static   Maximum Group Num            64
+& LACP)
+                           Load balance key mode        static/dlb/rr/self-healing
+                           Convergence time             < 50ms
+                           Maximum rule number          4096
+                           Maximum group number         1
+                           Base MAC capacity            512
+VLAN Classification
+                           Base IPv4 capacity           448
+                           Base IPv6 capacity           32
+                           Base protocol capacity       7
+Ethernet Ring Protection
+STP                        Convergence time             < 30s
+RSTP                       Convergence time             < 1s
+                           Instance number              64
+MSTP
+                           Convergence time             < 1s
+                           Domain number                16
+                                                        1 Primary ring/domain
+                           Ring number
+                                                        2 Sub ring/domain
+ERPS
+                           Protection instance number
+                                                        64
+                           per Ring
+                           Switchover time              < 50 ms
+
+
+                                             2
+LightLink PLATFORM                                                        性能规格表
+
+
+表 1：LightLink平台性能规格表（续）
+
+类                    描述                             值
+
+Ethernet OAM
+                     Maximum session number         1024
+                     Maximum domain number          8
+                     CCM interval types             7
+CFM (802.1ag)        CCM minimum interval           3.3ms
+                     Maximum down MEP number        1024
+                     Maximum up MEP number          1024
+                     Maximum LMEP number            1024
+IPv4 Unicast
+                                                    Default profile: 10240
+                                                    IPv6 profile: 6144
+ARP                  ARP capacity
+                                                    Layer3 profile: 12288
+                                                    MPLS profile: 10240
+                                                    Default profile: 16384
+                                                    IPv6 profile: 12288
+IPv4                 FIB
+                                                    Layer3 profile: 32768
+                                                    MPLS profile: 16384
+ECMP                 ECMP group                     240 (Share with IPv6)
+                     Policy route map               64
+PBR
+                     Policy based routing ACE       256
+                     Maximum static neighbors       256
+OSPF
+                     Maximum summary address        2048
+IPv4 Multicast
+                                                    Default profile: 2048
+                                                    IPv6 profile: 1024
+                     Multicast routing table
+                                                    Layer3 profile: 2048
+IPMC
+                                                    MPLS profile: 1024
+                     Multicast routing downstream
+                                                    Default profile: 4096
+                     interfaces
+
+                                        3
+LightLink PLATFORM                                                       性能规格表
+
+
+表 1：LightLink平台性能规格表（续）
+
+类                    描述                             值
+
+IPv4 Multicast
+                                                    IPv6 profile: 2048
+                     Multicast routing downstream
+IPMC                                                Layer3 profile: 5120
+                     interfaces
+                                                    MPLS profile: 2048
+                     Maximum groups number          2048
+IGMP Snooping
+                     Maximum member number          N/A
+                                                    Default profile: 2048
+                                                    IPv6 profile: 1024
+                     Maximum group number
+                                                    Layer3 Profile: 2048
+                                                    MPLS profile: 1024
+MVR
+                                                    Default profile: 4096
+                                                    IPv6 profile: 2048
+                     Maximum member number
+                                                    Layer3 profile: 5120
+                                                    MPLS profile: 2048
+IPv6 Unicast
+                                                    Default profile: 2048
+                                                    IPv6 profile: 4096
+Host Route           NDP capacity
+                                                    Layer3 profile: 0
+                                                    MPLS profile: 2048
+                                                    Default profile: 2048
+                                                    IPv6 profile: 6144
+                     FIBv6
+IPv6                                                Layer3 profile: 0
+                                                    MPLS profile: 1024
+                     ECMP group                     240 (share with IPv4)
+IPv6 Multicast
+                                                    Default profile: 256
+                                                    IPv6 profile: 512
+IPMC                 Multicast routing table
+                                                    Layer3 Profile: 0
+                                                    MPLS profile: 0
+
+                                       4
+LightLink PLATFORM                                                             性能规格表
+
+
+表 1：LightLink平台性能规格表（续）
+
+类                       描述                                值
+
+IPv6 Multicast
+                                                          Default profile: 512
+
+                        Number of interfaces that         IPv6 profile: 1024
+IPMC
+                        support multicast routing table   Layer3 Profile: 0
+                                                          MPLS profile: 0
+                                                          Default profile: 256
+                                                          IPv6 Profile: 512
+                        Maximum entry number
+                                                          Layer3 Profile: 0
+                                                          MPLS profile: 0
+MVR V6
+                                                          Default profile: 512
+                                                          IPv6 profile: 1024
+                        Maximum member number
+                                                          Layer3 Profile: 0
+                                                          MPLS profile: 0
+IP tunnel
+IP Tunnel               Tunnel peer capacity              8
+QoS
+                        Unicast queue                     10
+Per-port Queue Number   Multicast queue                   10
+                        Monitor queue                     10
+Packet Buffer           System packet buffer capacity     3MByte
+                                                          0~2M: 10K
+                                                          2M~100M: 40K
+                        Policer granularity               100M~1G: 80K
+Granularity                                               1G~2G: 120K
+                                                          2G~4G: 250K
+                        Queue shape granularity           4G~10G: 500K
+                        Port shape granularity            10k
+                        Ingress port QoS ipv4 flow
+Flow Entry                                                1532
+                        entries
+
+                                              5
+LightLink PLATFORM                                                            性能规格表
+
+
+表 1：LightLink平台性能规格表（续）
+
+类                    描述                                 值
+
+QoS
+                     Ingress port QoS ipv6 flow
+                                                        1532
+                     entries
+Flow Entry
+                     Ingress port QoS flow statistics
+                                                        32
+                     entries
+ACL
+                                                        Default profile: 2926
+                                                        IPv6 profile: 2926
+                     Ingress port ACL for MAC
+                                                        Layer3 profile: 2976
+                                                        MPLS profile: 2976
+                                                        Default profile: 2926
+                                                        IPv6 profile: 2926
+                     Ingress VLAN ACL for MAC
+                                                        Layer3 profile: 2976
+                                                        MPLS profile: 2976
+MAC ACL
+                                                        Default profile: 878
+                                                        IPv6 profile: 878
+                     Egress port ACL for MAC
+                                                        Layer3 profile: 928
+                                                        MPLS profile: 928
+                                                        Default profile: 878
+                                                        IPv6 profile: 878
+                     Egress VLAN ACL for MAC
+                                                        Layer3 profile: 928
+                                                        MPLS profile: 928
+                                                        Default profile: 2926
+                                                        IPv6 profile: 2926
+                     Ingress Port ACL for IPv4
+                                                        Layer3 profile: 2976
+                                                        MPLS profile: 2976
+IPv4 ACL
+                                                        Default profile: 2926
+                                                        IPv6 profile: 2926
+                     Ingress VLAN ACL for IPv4
+                                                        Layer3 profile: 2976
+                                                        MPLS profile: 2976
+                                       6
+LightLink PLATFORM                                                        性能规格表
+
+
+表 1：LightLink平台性能规格表（续）
+
+类                     描述                            值
+
+ACL
+                                                    Default profile: 878
+                                                    IPv6 profile: 878
+                      Egress Port ACL for IPv4
+                                                    Layer3 profile: 928
+                                                    MPLS profile: 928
+IPv4 ACL
+                                                    Default profile: 878
+                                                    IPv6 profile: 878
+                      Egress VLAN ACL for IPv4
+                                                    Layer3 profile: 928
+                                                    MPLS profile: 928
+                                                    Default profile: 2926
+                                                    IPv6 profile: 2926
+                      Ingress Port ACL for IPv6
+                                                    Layer3 profile: 2976
+                                                    MPLS profile: 2976
+                                                    Default profile: 2926
+                                                    IPv6 profile: 2926
+                      Ingress VLAN ACL for IPv6
+                                                    Layer3 profile: 2976
+                                                    MPLS profile: 2976
+IPv6 ACL
+                                                    Default profile: 878
+                                                    IPv6 profile: 878
+                      Egress Port ACL for IPv6
+                                                    Layer3 profile: 928
+                                                    MPLS profile: 928
+                                                    Default profile: 878
+                                                    IPv6 profile: 878
+                      Egress VLAN ACL for IPv6
+                                                    Layer3 profile: 928
+                                                    MPLS profile: 928
+                                                    Default profile: 255
+
+                      Ingress ACL flow statistics   IPv6 profile: 255
+ACL Flow Statistics
+                      entries                       Layer3 profile: 255
+                                                    MPLS profile: 255
+
+                                         7
+LightLink PLATFORM                                                         性能规格表
+
+
+表 1：LightLink平台性能规格表（续）
+类                     描述                             值
+ACL
+                                                     Default profile: 255
+
+                      Egress ACL flow statistics     IPv6 profile: 255
+ACL Flow Statistics
+                      entries                        Layer3 profile: 255
+                                                     MPLS profile: 255
+                      CoPP rules                     250
+CoPP
+                      CoPP flow statistics entries   58
+                      UDF rules                      256
+UDF
+                      UDF flow stats entries         16
+Security
+                                                     Default profile: 768
+                                                     IPv6 profile: 512
+                      IPv4 maximum rules number
+                                                     Layer3 profile: 512
+                                                     MPLS profile: 512
+IP Source Guard
+                                                     Default profile: 64
+                                                     IPv6 profile: 128
+                      IPv6 maximum rules number
+                                                     Layer3 profile: 0
+                                                     MPLS profile: 0
+802.1x Base MAC       Maximum entries                512
+DHCP Snooping         Maximum bound entry            4096
+IPFIX
+IPFIX                 IPFIX member                   4096
+Reliability
+BFD                   Maximum session number         Share 128
+S-BFD                 Maximum session number         Share 128
+VRRP                  Maximum group number           63
+                      Maximum group number           16
+Smart Link            Maximum instance number        64
+                      Switchover time                <50ms
+
+                                         8
+LightLink PLATFORM                                                     性能规格表
+
+
+表 1：LightLink平台性能规格表（续）
+
+类                    描述                           值
+
+Reliability
+                     Maximum group number         16
+Monitor Link         Maximum up-link number per
+                                                  24
+                     group
+Data Center
+VARP                 Virtual IP number per port   15
+VXLAN                VXLAN tunnel                 Default profile: 6144
+                                                  IPv6 profile: 6144
+                     VXLAN tunnel                 Layer3 profile: 6144
+                                                  MPLS profile: 2040
+                                                  Default profile: 2000
+                                                  IPv6 profile: 2000
+                     VNI
+VXLAN                                             Layer3 profile: 2000
+                                                  MPLS profile: 1000
+                                                  Default profile: 2048
+                                                  IPv6 profile: 2048
+                     VTEP peer
+                                                  Layer3 profile: 2048
+                                                  MPLS profile: 256
+
+
+
+
+                                      9
+LightLink PLATFORM                                                   性能规格表
+
+
+LightLink平台支持型号
+表 2：LightLink平台支持型号
+
+
+    系列                型号                             描述
+
+                              48 x 1G BaseT,6 x 10G SFP+
+             S3748-6X-EI      三层以太网交换机
+                              2*CRPS 75W，3*热插拔风扇模组
+
+                              48 x 1G BaseT,6 x 10G SFP+
+             S3748-6X-SI      三层以太网交换机
+                              1*固定电源60W，3*固定内置风扇
+
+                              48 x 1G BaseT (PoE++ 90W),6 x 10G SFP+
+             S3748PB-6X-EI    三层以太网交换机
+                              2*CRPS 900W，3*热插拔风扇模组
+
+                              48 x 1G BaseT (1-4prot PoE++,5-48port PoE+),6 x
+                              10G SFP+
+             S3748P-6X-SI
+                              三层以太网交换机
+                              1*固定电源780W，4*固定内置风扇
+
+                              24 x 1G BaseT,6 x 10G SFP+
+             S3724-6X-EI      三层以太网交换机
+                              2*CRPS 75W，2*固定内置风扇
+
+                              24 x 1G BaseT,6 x 10G SFP+
+S3700        S3724-6X-SI      三层以太网交换机
+                              1*固定电源60W，2*固定内置风扇
+
+                              24 x 1G BaseT(PoE++90W),6 x 10G SFP+
+             S3724PB-6X-EI    三层以太网交换机
+                              2*CRPS 600W，3*热插拔风扇模组
+
+                              24 x 1G BaseT (1-4prot PoE++,5-24port PoE+),6 x 10G
+                              SFP+
+             S3724P-6X-SI
+                              三层以太网交换机
+                              1*固定电源450W，4*固定内置风扇
+
+                              16 x 1G SFP,8 x 1G BaseT,8 x 1G SFP Combo,6 x 10G
+             S3724S-8G6X-EI   SFP+，三层以太网交换机
+                              2*CRPS 75W，3*热插拔风扇模组
+
+                              16 x 1G SFP,8 x 1G BaseT,8 x 1G SFP Combo,6 x 10G
+             S3724S-8G6X-SI   SFP+，三层以太网交换机
+                              1*固定电源60W，3*固定内置风扇
+
+                              8 x 1G Base-T (PoE+30W),2 x 10G SFP+
+             S3708P-2X-SI     三层以太网交换机
+                              2*固定电源150W/24W，1*固定内置风扇
+
+
+                                 10
+LightLink PLATFORM                          性能规格表
+
+
+
+关于              :
+
+         成立于2015年，是一家专业从事开发交换机产品的技术型公司，全系列交换机
+均基于国产交换芯片。随着芯片技术的不断发展，HOHUNET推出了一系列基于该芯片平
+台的差异化产品。目前，公司产品线覆盖1G到800G，可用于企业网、运营商网、数据中
+心、AI计算等场景。目前公司主要合作模式为OEM/ODM，致力于为客户提供灵活的端到
+端定制产品和技术咨询服务。成为客户最值得信赖的商业伙伴一直是公司的使命和原则。
+
+
+
+
+联系我们：
+深圳市浩湖网络技术有限公司
+
+总部地址：中国广东省深圳市南山区深南大道9996号李宁中心11楼
+商务合作：business@hohunet.com
+官方电话：0086-755-26418565
+官方网址: www.hohunet.cn
+
+
+
+
+深圳市浩湖网络技术有限公司版权所有。HOHUNET是深圳市浩湖有限有限公司在中国和其他国家的注册商
+标。HOHUNET对本文档中的任何不准确之处不承担任何责任。HOHUNET保留变更、修正、转让或以其他
+方式修改本出版物的权利，恕不另行通知。
+

@@ -1,0 +1,442 @@
+灵动双子星系列交换机产品规格书
+企业园区网交换机
+
+文档版本：V1.5
+发布日期：2025/12/17
+
+
+产品简介
+灵动双子星系列交换机是通过VastLakes以
+及BigFlow芯片平台构建的半宽尺寸交换机，
+即宽度仅为常规交换机二分之一的交换机，
+支持10G/40G/100G等高速端口以及丰富的
+功能特性，采用静音设计，打造绿色节能
+的网络环境，适用于企业园区网、SMB、
+音视频网络等应用场景。
+
+
+
+关键特性
+l 内置SDVoE API Server，简化用户操作步骤。
+l 支持1U空间实现物理双机冗余特性，降低用户使用成本。
+l 支持MLAG，跨设备链路聚合技术，实现设备级冗余，灵活组网可靠性强。
+l 支持Precision Timing协议。
+l 丰富的L2/L3特性，例如IPv6、OSPF、BGP、PIM等等。
+
+
+
+灵动双子星系列交换机支持可插拔电源，可插拔风扇模块，以及固定电源和固定风扇。
+一般情况下为前后风向（AFO），特殊情况下可定制为后前风向（AFI）。
+表 1：电源和风扇
+
+      型号          AC   DC   AFO   AFI   电源类型    风扇类型
+
+ S7814ZH-4N-EI    ●    ○    ●     ○     热插拔模组   热插拔模组
+
+  S7606X-2Z-EI    ●    ○    ●     ○     热插拔模组   热插拔模组
+
+  S7606X-2Z-SI    ●    X    ●     X     固定电源    固定风扇
+
+ S5624XH-2Z-EI    ●    ○    ●     ○     热插拔模组   热插拔模组
+
+ S5624XH-2Z-SI    ●    X    ●     X     固定电源    固定风扇
+
+
+                             1
+灵动双子星系列交换机                                       产品规格书
+
+
+      型号           AC   DC   AFO   AFI   电源类型    风扇类型
+
+S5612X12TH-2Z-EI   ●    ○    ●     ○     热插拔模组   热插拔模组
+
+S5612X12TH-2Z-SI   ●    X    ●     X     固定电源    固定风扇
+
+ S5624TH-2Z-EI     ●    ○    ●     ○     热插拔模组   热插拔模组
+
+ S5624TH-2Z-SI     ●    X    ●     X     固定电源    固定风扇
+
+● 默认配置；○ 可定制；X 不支持。
+
+
+l 可视化Web界面
+
+HOS支持可视化Web界面，可实现快速配置，降低用户操作门槛。
+此外，灵动双子星系列交换机内置了SDVoE API Server，用户无需额外购买SDVoE控制器；
+只需要简单的3个部分，即可完成SDVoE的相关配置：SDVoE、组播、DHCP服务器；
+网页简单易操作，整体降低用户的时间成本和项目成本。
+
+
+
+
+                              2
+灵动双子星系列交换机                                        产品规格书
+
+
+l 出色的管理特性
+
+灵动双子星系列交换机支持丰富的管理接口，包括Console、带内网口和带外网口、USB
+口；支持SNMPv1/v2/v3，支持CLI命令行，Web网管，TELNET及FTP配置，支持OAM，使
+设备管理更方便，并且支持SSH2.0、SSL等加密方式，使得管理更加安全。
+此外，HOHUNET依靠深厚的技术积累和对园区及企业网络需求的深入理解，推出大湖云
+维平台（DHCS），可以提高网络管理和维护效率，降低成本，提升网络管理的智能化水
+平，让网络更加快速、智能、安全、可靠化，更好地服务于用户的需求。
+
+
+
+
+l 支持MLAG双活双机热备份
+
+支持MLAG(Multi-Chassis Link Aggregation)，实现跨设备链路聚合，通过将两台聚合交换
+机上的接口进行跨设备链路聚合，从而把链路可靠性从单板级提高到了设备级，组成
+Active-Active系统，在两台聚合交换机的中间通过一条Peer-link链路进行连接，使其在逻
+辑上如同一台设备。
+
+
+
+
+                            3
+灵动双子星系列交换机          产品规格书
+
+
+l 支持多种双机物理热备份
+
+
+
+
+l 灵活多样的安装部署模式
+
+
+
+
+                4
+灵动双子星系列交换机                                                         产品规格书
+
+
+硬件参数
+表 2：硬件一览表
+
+      型号               以太网口                  管理口          电源数量      风扇数量
+
+                   14×100G QSFP28，
+ S7814ZH-4N-EI                                            2×300W          2
+                   4×25G SFP28
+                                         串口：RJ45 to DB9
+  S7606X-2Z-EI                           MGMT：1G RJ45     1×350W      1×2
+                   6×40G QSFP+，          存储：USB
+                   2×100G QSFP28
+  S7606X-2Z-SI                                            1×150W          2
+
+ S5624XH-2Z-EI                                            1×550W      1×2
+                   24×10G SFP+，
+                   2×100G QSFP28
+ S5624XH-2Z-SI                                            1×150W          2
+
+S5612X12TH-2Z-EI   12×10G SFP+，          串口：RJ45 to DB9   1×550W      1×2
+                   12×10G Base-T，        MGMT：1G RJ45
+S5612X12TH-2Z-SI   2×100G QSFP28                             1            2
+
+ S5624TH-2Z-EI                                            1×550W      1×2
+                   24×10G Base-T，
+                   2×100G QSFP28
+ S5624TH-2Z-SI                                            1×300W          2
+
+
+交换容量（双向）                                 包转发率（双向）
+l S7814ZH-4N-EI：3.0Tbps                  l S7814ZH-4N-EI：4464Mpps
+l S7606X-2Z-EI：880Gbps                   l S7606X-2Z-EI：1309.44Mpps
+l S7606X-2Z-SI：880Gbps                   l S7606X-2Z-SI：1309.44Mpps
+l S5624XH-2Z-EI：880Gbps                  l S5624XH-2Z-EI：1309.44Mpps
+l S5624XH-2Z-SI：880Gbps                  l S5624XH-2Z-SI：1309.44Mpps
+l S5612X12TH-2Z-EI：880Gbps               l S5612X12TH-2Z-EI：1309.44Mpps
+l S5612X12TH-2Z-SI：880Gbps               l S5612X12TH-2Z-SI：1309.44Mpps
+l S5624TH-2Z-EI：880Gbps                  l S5624TH-2Z-EI：1309.44Mpps
+l S5624TH-2Z-SI：880Gbps                  l S5624TH-2Z-SI：1309.44Mpps
+
+温度告警                                     CPU
+l 告警值：50℃                                l Dualcore，ARM A53（1GHz）
+
+环境参数                                     Memory
+l 运行温度：0℃ to 45℃                         l eMMc：8GB
+l 存储温度：-40℃ to 70℃                       l DRAM：2GB
+l 运行湿度：10% to 90%（无冷凝）
+l 存储湿度：0 to 95%（无冷凝）
+
+                                     5
+灵动双子星系列交换机                                                  产品规格书
+
+
+功耗（满载/典型）                        工作海拔
+l S7814ZH-4N-EI：133/123W         l S7814ZH-4N-EI：≤5000m
+l S7606X-2Z-EI：56/55W            l S7606X-2Z-EI：≤5000m
+l S7606X-2Z-SI：TBD               l S7606X-2Z-SI：≤3000m
+l S5624XH-2Z-EI：64/39W           l S5624XH-2Z-EI：≤5000m
+l S5624XH-2Z-SI：38/36W           l S5624XH-2Z-SI：≤3000m
+l S5612X12TH-2Z-EI：81/77W        l S5612X12TH-2Z-EI：≤5000m
+l S5612X12TH-2Z-SI：TBD           l S5612X12TH-2Z-SI：≤3000m
+l S5624TH-2Z-EI：101/100W         l S5624TH-2Z-EI：≤5000m
+l S5624TH-2Z-SI：98/94W           l S5624TH-2Z-SI：≤3000m
+
+
+噪声典型值                            最大风量
+l S7814ZH-4N-EI：62.67dB          l S7814ZH-4N-EI：21.61cfm
+l S7606X-2Z-EI：43.67dB           l S7606X-2Z-EI：34.38cfm
+l S7606X-2Z-SI：47.1dB            l S7606X-2Z-SI：23.24cfm
+l S5624XH-2Z-EI：39.1dB           l S5624XH-2Z-EI：34.38cfm
+l S5624XH-2Z-SI：46.87dB          l S5624XH-2Z-SI：23.24cfm
+l S5612X12TH-2Z-EI：49.4dB        l S5612X12TH-2Z-EI：38.49cfm
+l S5612X12TH-2Z-SI：TBD           l S5612X12TH-2Z-SI：41.43cfm
+l S5624TH-2Z-EI：45.47dB          l S5624TH-2Z-EI：38.49cfm
+l S5624TH-2Z-SI：39.1dB           l S5624TH-2Z-SI：41.43cfm
+
+
+MTBF                             重量（净重/毛重）
+l S7814ZH-4N-EI：≥90000h          l S7814ZH-4N-EI：4.5kg/7kg
+l S7606X-2Z-EI：≥90000h           l S7606X-2Z-EI：3.3kg/5.3kg
+l S7606X-2Z-SI：≥70000h           l S7606X-2Z-SI：3kg/5kg
+l S5624XH-2Z-EI：≥90000h          l S5624XH-2Z-EI：3.5kg/5.5kg
+l S5624XH-2Z-SI：≥70000h          l S5624XH-2Z-SI：2.7kg/4.7kg
+l S5612X12TH-2Z-EI：≥90000h       l S5612X12TH-2Z-EI：3.5kg/5.5kg
+l S5612X12TH-2Z-SI：≥70000h       l S5612X12TH-2Z-SI：3kg/5kg
+l S5624TH-2Z-EI：≥90000h          l S5624TH-2Z-EI：3.5kg/5.5kg
+l S5624TH-2Z-SI：≥70000h          l S5624TH-2Z-SI：3kg/5kg
+
+
+
+
+                             6
+灵动双子星系列交换机                                                         产品规格书
+
+
+设备尺寸（宽×高×深）                              外箱尺寸（宽×高×深）
+l S7814ZH-4N-EI：21.5×4.4×40.8cm          l S7814ZH-4N-EI：55.7×15×49.5cm
+l S7606X-2Z-EI：21.5×4.4×35.5cm           l S7606X-2Z-EI：48.5×12.5×34.3cm
+l S7606X-2Z-SI：21.5×4.4×35.5cm           l S7606X-2Z-SI：48.5×12.5×34.3cm
+l S5624XH-2Z-EI：21.5×4.4×35.5cm          l S5624XH-2Z-EI：48.5×12.5×34.3cm
+l S5624XH-2Z-SI：21.5×4.4×35.5cm          l S5624XH-2Z-SI：48.5×12.5×34.3cm
+l S5612X12TH-2Z-EI：21.5×4.4×35.6cm       l S5612X12TH-2Z-EI：48.5×12.5×34.3cm
+l S5612X12TH-2Z-SI：21.5×4.4×35.6cm       l S5612X12TH-2Z-SI：48.5×12.5×34.3cm
+l S5624TH-2Z-EI：21.5×4.4×35.6cm          l S5624TH-2Z-EI：48.5×12.5×34.3cm
+l S5624TH-2Z-SI：21.5×4.4×35.6cm          l S5624TH-2Z-SI：48.5×12.5×34.3cm
+
+
+
+
+                                     7
+灵动双子星系列交换机                                                                                          产品规格书
+
+
+软件参数
+HOHUNET拥有统一的软件平台，设备支持的软件功能详见“HOS 软件功能列表”。
+
+  Integrated Management Interface (CLl, SNMP,WEB, RMON ,RPC-API , Netconf,etc)
+
+
+                                      HOS Network Platform
+
+       Layer 2 switching                 IPv4/lPv6 Unicast Routing                        QoS
+
+
+  IP Multicast Snooping/Proxy           IPv4/lPv6 Multi cast Routing                      VRRP
+
+      Multi protocol Label                     Virtual Private LAN
+                                                                              Virtual Routing and Switching
+       Switching(MPLS)                            Service(VPLS)
+
+   Generalized Multi protocol                   IPv6 Tunneling and
+                                                                                     IP/MPLS OAM
+    Label Switching(GMPLS)                    TransitionTechnologies
+
+
+  Service management module                   Fault Managemet (FM)                High Availability (HA)
+
+
+
+                             Hardware and platform abstraction layer
+
+
+          Advanced integration Suite                                   Operating Systems TCP/IP Stacks
+
+           CENTEC swtich chip SDK
+
+                                                                         Linux , IPv4/Pv6 Dual Stack
+      Silicon in Pizza, Stacking or Chassis
+                  Configuration
+
+
+
+                                              Hardware layer
+
+            CENTEC Switch Chipset                                             CPU Subsystem
+
+              Cooling SubSystem                                             AC/DC DC/DC CLK
+
+    Environmental Management Subsystem                                    Logical Control Subunit
+
+
+
+
+* 归一化的软件平台
+* 统一的软件版本迭代
+* 统一的用户体验
+
+
+
+                                                       8
+灵动双子星系列交换机                                             产品规格书
+
+
+订购信息
+
+交换机
+      型号                               描述
+
+                   100G企业园区网交换机，14×100G QSFP28，4×25G SFP28，2×可
+ S7814ZH-4N-EI
+                   插拔电源模块（C13），2×可插拔风扇模块。
+
+                   40G企业园区网交换机，6×40G QSFP+，2×100G QSFP28，1×可
+  S7606X-2Z-EI
+                   插拔电源模块（C13），1×可插拔风扇模块。
+
+                   40G企业园区网交换机，6×40G QSFP+，2×100G QSFP28，1×固
+  S7606X-2Z-SI
+                   定风扇（C13），2×固定风扇。
+
+                   10G企业园区网交换机，24×10G SFP+，2×100G QSFP28，1×可插
+ S5624XH-2Z-EI
+                   拔电源模块（C13），1×可插拔风扇模块。
+
+                   10G企业园区网交换机，24×10G SFP+，2×100G QSFP28，1×固定
+ S5624XH-2Z-SI
+                   风扇（C13），2×固定风扇。
+
+                   10G企业园区网交换机，12×10G SFP+，12×10G Base-T，2×100G
+S5612X12TH-2Z-EI
+                   QSFP28，1×可插拔电源模块（C13），1×可插拔风扇模块。
+
+                   10G企业园区网交换机，12×10G SFP+，12×10G Base-T，2×100G
+S5612X12TH-2Z-SI
+                   QSFP28，1×固定风扇（C13），3×固定风扇。
+
+                   10G企业园区网交换机，24×10G Base-T，2×100G QSFP28，1×可
+ S5624TH-2Z-EI
+                   插拔电源模块（C13），1×可插拔风扇模块。
+
+                   10G企业园区网交换机，24×10G Base-T，2×100G QSFP28，1×固
+ S5624TH-2Z-SI
+                   定风扇（C13），2×固定风扇。
+
+
+AC/DC电源
+      事项                                描述
+
+PSU-300-AC-AFO     300W AC电源 （前后风向）
+
+PSU-350-AC-AFO     350W AC电源 （前后风向）
+
+PSU-550-AC-AFO     550W AC电源 （前后风向）
+
+PSU-550-DC-AFO     550W DC电源 （前后风向）
+
+
+
+
+                                 9
+灵动双子星系列交换机                                                产品规格书
+
+
+附件信息
+                   前挂耳    前挂耳                 壁挂   双机拼     双机拼
+      型号                         后挂耳    滑轨
+                    (短)    (长)                挂耳   装组件a    装组件b
+ S7814ZH-4N-EI      1      1      1      1    2     1       1
+
+  S7606X-2Z-EI      1      1      1      1    2     1       1
+
+  S7606X-2Z-SI      1      1      0      0    0     1       1
+
+ S5624XH-2Z-EI      1      1      1      1    2     1       1
+
+ S5624XH-2Z-SI      1      1      0      0    0     1       1
+
+S5612X12TH-2Z-EI    1      1      1      1    2     1       1
+
+S5612X12TH-2Z-SI    1      1      0      0    0     1       1
+
+ S5624TH-2Z-EI      1      1      1      1    2     1       1
+
+ S5624TH-2Z-SI      1      1      0      0    0     1       1
+                                  RPS         M4   堆叠支     堆叠支
+      型号           接地线    电源线           串口线
+                                 电源线          螺丝   架(前)    架(后)
+ S7814ZH-4N-EI      1      1      1      1    12    2       2
+
+  S7606X-2Z-EI      1      1      1      1    12    0       0
+
+  S7606X-2Z-SI      1      1      1      1    12    0       0
+
+ S5624XH-2Z-EI      1      1      1      1    12    2       2
+
+ S5624XH-2Z-SI      1      1      1      1    12    0       0
+
+S5612X12TH-2Z-EI    1      1      1      1    12    2       2
+
+S5612X12TH-2Z-SI    1      1      1      1    12    0       0
+
+ S5624TH-2Z-EI      1      1      1      1    12    2       2
+
+ S5624TH-2Z-SI      1      1      1      1    12    0       0
+
+
+
+
+                                 10
+灵动双子星系列交换机                          产品规格书
+
+
+软件许可证
+   事项                      描述
+
+  License   EB，基础三层软件许可证，SI型号预安装。
+
+  License   MS，全三层软件许可证，EI型号预安装。
+
+  License   MA，城域网软件许可证。
+
+  License   ST，堆叠软件许可证。
+
+
+
+
+                      11
+灵动双子星系列交换机                                  产品规格书
+
+
+
+关于           :
+
+        成立于2015年，是一家专业从事开发交换机产品的技术型公司，全系列交换机
+均基于国产交换芯片。随着芯片技术的不断发展，HOHUNET推出了一系列基于该芯片平
+台的差异化产品。目前，公司产品线覆盖1G到800G，可用于企业网、运营商网、数据中
+心、AI计算等场景。目前公司主要合作模式为OEM/ODM，致力于为客户提供灵活的端到
+端定制产品和技术咨询服务。成为客户最值得信赖的商业伙伴一直是公司的使命和原则。
+
+
+
+
+联系我们：
+深圳市浩湖网络技术有限公司
+
+总部地址：中国广东省深圳市南山区深南大道9996号李宁中心11楼
+商务合作：business@hohunet.com
+官方电话：0086-755-26418565
+官方网址: www.hohunet.cn
+
+
+
+
+深圳市浩湖网络技术有限公司版权所有。HOHUNET是深圳市浩湖有限有限公司在中国和其他国家的注册商
+标。HOHUNET对本文档中的任何不准确之处不承担任何责任。HOHUNET保留变更、修正、转让或以其他
+方式修改本出版物的权利，恕不另行通知。
+

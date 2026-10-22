@@ -1,0 +1,35 @@
+===== run 14 =====
+[15:09:48] synced checkout db3b08d → branch tip ae443a6 (arena/3f35b9b3-planet)
+[15:09:48] run 14 start; resume=False; budget 55.0 min; max_pages 1500; delay 0.8s
+[15:09:51] probe archiver https://hohunet.cn/ → 200
+[15:09:51] access mode = requests (archiver) base https://hohunet.cn/
+[15:09:52] sitemap: 6 loc, 6 new seeds
+[15:10:38] pages 25 (+25 this run) queue 165 downloads 0 images 466 elapsed 0.9 min
+[15:11:24] HTTP 404 https://hohunet.cn/product/s9532数据中心交换机，32个…fp112，双电源模块，4热插拔/
+[15:11:29] pages 50 (+50 this run) queue 145 downloads 10 images 521 elapsed 1.7 min
+[15:12:18] pages 75 (+75 this run) queue 125 downloads 15 images 615 elapsed 2.5 min
+[15:13:08] pages 100 (+100 this run) queue 100 downloads 19 images 695 elapsed 3.4 min
+[15:13:57] pages 125 (+125 this run) queue 75 downloads 29 images 824 elapsed 4.2 min
+[15:14:48] pages 150 (+150 this run) queue 50 downloads 29 images 901 elapsed 5.0 min
+[15:15:38] pages 175 (+175 this run) queue 25 downloads 32 images 974 elapsed 5.9 min
+[15:16:22] HTTP 404 https://hohunet.cn/{$itemURL}
+[15:16:24] HTTP 404 https://hohunet.cn/{$sitemapURL}
+[15:16:25] HTTP 404 https://hohunet.cn/product-category/2-5g-multi-gigabit-switches/
+[15:16:25] pages 200 (+200 this run) queue 19 downloads 32 images 977 elapsed 6.7 min
+[15:17:20] pages 225 (+225 this run) queue 4 downloads 32 images 977 elapsed 7.6 min
+[15:17:38] BFS stop: complete (queue empty); pages=234 (+234) downloads=32 images=977
+[15:17:39] cdn images harvested from archived html: +0 (images total 977)
+[15:18:31] DL FAIL https://hohunet.cn/wp-content/uploads/2026/01/S8500系列交换机规格书_V1.2.pdf: https://hohunet.cn/wp-content/uploads/2026/01/S8500系列交换机规格书_V1.2.pdf: UnicodeEncodeError | https://hohunet.cn/wp-content/uploads/2026/01/S8500系列交换机规格书_V1.2.pdf: UnicodeEncodeError
+[15:18:51] downloads stop: complete; ok 31/32 (+32 this run), 53.1 MB
+[15:18:53] pdftotext: 31
+[15:18:53] downloads total 53.1 MB → committed to git: 31/31 files (53.1 MB; all=True)
+[15:20:32] images 100/977 28 MB elapsed 10.8 min
+[15:22:03] images 200/977 48 MB elapsed 12.3 min
+[15:24:33] images 300/977 163 MB elapsed 14.8 min
+[15:26:03] images 400/977 181 MB elapsed 16.3 min
+[15:27:35] images 500/977 193 MB elapsed 17.8 min
+[15:29:06] images 600/977 205 MB elapsed 19.3 min
+[15:30:39] images 700/977 221 MB elapsed 20.9 min
+[15:32:12] images 800/977 242 MB elapsed 22.4 min
+[15:32:57] images total 250.9 MB → committed to git: False (+0 copied into data/hohunet_cn_site_raw/images)
+[15:32:57] images stop: complete; ok 847/977 (+847 this run), 250.9 MB this run

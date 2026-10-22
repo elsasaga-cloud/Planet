@@ -1,0 +1,232 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="renderer" content="webkit">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<title>工业级交换机应用中的六种安全设置介绍-POE交换机,工业级交换机,深圳市洪瑞光祥电子技术有限公司</title>
+<meta name="keywords" content="工业级交换机，工业级交换机的优势"/>
+<meta name="description" content="工业级交换机应用中的六种安全设置介绍" />
+<script type="text/javascript">if(window.screen.width<1200 && location.href.indexOf('wap=1') < 0) {location.href = '/web/?ckurl='+encodeURIComponent(location.href);}</script>
+<link rel="stylesheet" type="text/css" href="/web/template/themes/default/skins/css/css.css">
+<link rel="stylesheet" type="text/css" href="/web/template/themes/default/skins/css/zh_cn.css">
+<script type="text/javascript" src="/web/template/themes/default/skins/js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="/web/template/themes/default/skins/caidan/js/superfish.js"></script>
+<script type="text/javascript">
+		$(function(){
+			$("ul.sf-menu,ul.sf-navbar").superfish();
+			$("ul.sf-vertical").superfish({
+					animation:{opacity:'show',height:'show'},
+					speed:'fast'
+			});
+		});
+</script>
+
+</head>
+<body>
+<div class="header_zone">
+	<div class="header">
+		<div class="logo">
+			<a href="/"><img src="/web/userfiles/logo/-E4-B8-AD-E6-96-87-E5-AE-98-E7-BD-91logo-2.png" /></a>
+		</div>
+		<div class="nav">
+			<ul class="sf-menu">
+				<li><a href="/"  id="">网站首页</a></li>
+										<li id=""><a href="/hong-rui-induction/">关于洪瑞</a>
+					<ul><li><a href='/hong-rui-induction/' id=>洪瑞简介</a></li><li><a href='/5/' id=>企业文化</a></li><li><a href='/258/' id=>发展历程</a></li><li><a href='/260/' id=>资质荣誉</a></li><li><a href='/372/' id=>企业管理</a></li><li><a href='/374/' id=>员工之家</a></li></ul>
+				</li>
+									<li id=""><a href="/9/">产品中心</a>
+					<ul><li><a href='/272/' id=>标准PoE交换机</a><ul><li><a href='/324/'>百兆PoE交换机</a></li><li><a href='/baiqianzhaopoejiaohuanji/'>百千兆PoE交换机</a></li><li><a href='/326/'>全千兆PoE交换机</a></li><li><a href='/2.5gpoejiaohuanji/'>2.5G POE交换机</a></li><li><a href='/wanzhaopoejiaohuanji/'>万兆 POE交换机</a></li></ul></li><li><a href='/274/' id=>以太网交换机</a><ul><li><a href='/334/'>百兆以太网交换机</a></li><li><a href='/336/'>百千兆以太网交换机</a></li><li><a href='/quanqianzhaoyitaiwangjiaohuanji/'>全千兆以太网交换机</a></li><li><a href='/2.5gyitaiwangjiaohuanji/'>2.5G 以太网交换机</a></li><li><a href='/wanzhaoyitaiwangjiaohuanji/'>万兆以太网交换机</a></li></ul></li><li><a href='/404/' id=>工业以太网/PoE交换机</a><ul><li><a href='/418/'>工业级PoE交换机</a></li><li><a href='/420/'>工业级以太网交换机</a></li></ul></li><li><a href='/guanlixingjiaohuanji/' id=>商业管理型交换机</a><ul><li><a href='/guanlixingyitaiwangjiaohuanji/'>管理型以太网交换机</a></li><li><a href='/guanlixingpoejiaohuanji/'>管理型PoE交换机</a></li><li><a href='/qingwangguanjiaohuanji/'>轻网管交换机</a></li><li><a href='/shujuzhongxinjiaohuanji/'>数据中心交换机</a></li></ul></li><li><a href='/13/' id=>工业管理型交换机</a><ul><li><a href='/310/'>工业千兆管理型交换机</a></li><li><a href='/312/'>工业万兆管理型交换机</a></li></ul></li><li><a href='/media-converter/' id=>光纤收发器</a><ul><li><a href='/100XiLieGuangXianShouFaQi/'>100系列光纤收发器</a></li><li><a href='/900XiLieGuangXianShouFaQi/'>900系列光纤收发器</a></li></ul></li><li><a href='/passive-poe-switch/' id=>非标PoE交换机</a><ul><li><a href='/BaiZhaoFeiBiaoPoEJiaoHuanJi/'>百兆非标PoE交换机</a></li><li><a href='/BaiQianZhaoFeiBiaoPoEJiaoHuanJi/'>百千兆非标PoE交换机</a></li></ul></li><li><a href='/330/' id=>PoE供电器</a><ul><li><a href='/BiaoZhunPoEGongDianQi/'>标准PoE供电器</a></li><li><a href='/FeiBiaoPoEGongDianQi/'>非标PoE供电器</a></li></ul></li><li><a href='/poe-extender/' id=>PoE延长器</a><ul><li><a href='/BaiZhaoPoEYanChangQi/'>百兆PoE延长器</a></li></ul></li><li><a href='/328/' id=>PoE分离器</a><ul><li><a href='/10/'>千兆PoE分离器</a></li><li><a href='/BaiZhaoPoEFenLiQi/'>百兆PoE分离器</a></li></ul></li><li><a href='/wuxianwangluo/' id=>无线网络</a><ul><li><a href='/wirelessap/'>无线AP</a></li><li><a href='/wirelessbridge/'>无线网桥</a></li><li><a href='/enterpriserouter/'>4G/5G CPE</a></li><li><a href='/WuXianKongZhiQi/'>无线控制器</a></li><li><a href='/WuXianLuYouQi/'>无线路由器</a></li></ul></li></ul>
+				</li>
+									<li id="nav_sel"><a href="/23/">新闻资讯</a>
+					<ul><li><a href='/25/' id=>公司新闻</a></li><li><a href='/27/' id=>技术信息</a></li><li><a href='/168/' id=>解决方案</a></li><li><a href='/400/' id=>全球展会</a></li></ul>
+				</li>
+									<li id=""><a href="/107/">服务支持</a>
+					<ul><li><a href='/107/' id=>渠道代理</a></li><li><a href='/218/' id=>保修政策</a></li><li><a href='/382/' id=>OEM/ODM</a></li><li><a href='/download1/' id=>Web管理手册</a></li></ul>
+				</li>
+									<li id=""><a href="/270/">行业应用</a>
+					<ul><li><a href='/378/' id=>成功案例</a></li><li><a href='/430/' id=>电力行业</a></li><li><a href='/432/' id=>新能源行业</a></li><li><a href='/434/' id=>轨道交通行业</a></li><li><a href='/436/' id=>石油化工行业</a></li><li><a href='/438/' id=>物联网</a></li><li><a href='/428/' id=>工业自动化</a></li></ul>
+				</li>
+									<li id=""><a href="/239/">联系我们</a>
+					<ul><li><a href='/239/' id=>联系方式</a></li><li><a href='/241/' id=>人才招聘</a></li><li><a href='/243/' id=>在线反馈</a></li></ul>
+				</li>
+				
+			</ul>  
+			<!--NAV END-->
+		</div>
+		<div class="header_r">
+			<div class="lan">
+				<a href="/"><img src="/web/template/themes/default/skins/images/cn.png" /></a>
+				<a href="https://www.hruitech.com/" target="_blank"><img src="/web/template/themes/default/skins/images/en.png" /></a>
+			</div>
+			
+		</div>
+	</div>
+</div>
+
+<div class="clear" style="height:105px"></div>
+
+<div class="ny_banner" style="background:url(/web/userfiles/banner/news.jpg) center center no-repeat"></div>
+<div class="wz_zone">
+	<div class="wz">
+	<span>您现在位置是：<a href='/'>网站首页</a> >> <a href='/23/'>新闻资讯</a></span><h2>新闻资讯</h2>
+	</div>	
+</div>
+<div class="ny_main">
+	<div class="left_wrap">
+			<h2>新闻资讯</h2>
+			<!--左侧菜单开始-->
+			<div class="zlm">
+								<dl>
+					<dt id=""><a href="/25/">公司新闻</a></dt>
+					
+				</dl>
+								<dl>
+					<dt id=""><a href="/27/">技术信息</a></dt>
+					
+				</dl>
+								<dl>
+					<dt id=""><a href="/168/">解决方案</a></dt>
+					
+				</dl>
+								<dl>
+					<dt id=""><a href="/400/">全球展会</a></dt>
+					
+				</dl>
+				
+			</div>
+			<div class="blank10"></div>
+			<h2>联系我们 </h2>
+			<div class="left_lxxx">
+				<div><span style="font-family: 楷体_GB2312">电话：0755-27085760</span></div>
+<div><span style="font-family: 楷体_GB2312">邮箱：</span>wangqh@hruitech.com</div>
+<div><span style="font-family: 楷体_GB2312">地址：</span>深圳市宝安区福海街道展城社区泽达利科技园A3栋</div>
+			</div>
+	</div>
+	<div class="right_wrap">
+
+				<div class="content">
+			<h1 class="ny_h1">工业级交换机应用中的六种安全设置介绍</h1>
+			<p>交换机应用中的六种安全设置介绍</p>
+<p>L2-L4 层过滤</p>
+<p>现在的新型交换机大都可以通过建立规则的方式来实现各种过滤需求。规则设置有两种模式，一种是MAC模式，可根据用户需要依据源MAC或目的MAC有效实现数据的隔离，另一种是IP模式，可以通过源IP、目的IP、协议、源应用端口及目的应用端口过滤数据封包;建立好的规则必须附加到相应的接收或传送端口上，则当交换机此端口接收或转发数据时，根据过滤规则来过滤封包，决定是转发还是丢弃。另外，交换机通过硬件&ldquo;逻辑与非门&rdquo;对过滤规则进行逻辑运算，实现过滤规则确定，完全不影响数据转发速率。</p>
+<p>802.1X 基于端口的访问控制</p>
+<p>为了阻止非法用户对局域网的接入，保障网络的安全性，基于端口的访问控制协议802.1X无论在有线LAN或WLAN中都得到了广泛应用。例如华硕最新的 GigaX2024/2048等新一代交换机产品不仅仅支持802.1X 的Local、RADIUS 验证方式，而且支持802.1X 的Dynamic VLAN 的接入，即在VLAN和802.1X 的基础上，持有某用户账号的用户无论在网络内的何处接入，都会超越原有802.1Q 下基于端口VLAN 的限制，始终接入与此账号指定的VLAN组内，这一功能不仅为网络内的移动用户对资源的应用提供了灵活便利，同时又保障了网络资源应用的安全性;另外，GigaX2024/2048 交换机还支持802.1X的Guest VLAN功能，即在802.1X的应用中，如果端口指定了Guest VLAN项，此端口下的接入用户如果认证失败或根本无用户账号的话，会成为Guest VLAN 组的成员，可以享用此组内的相应网络资源，这一种功能同样可为网络应用的某一些群体开放最低限度的资源，并为整个网络提供了一个最外围的接入安全。</p>
+<p>流量控制(traffic control)</p>
+<p>交换机的流量控制可以预防因为广播数据包、组播数据包及因目的地址错误的单播数据包数据流量过大造成交换机带宽的异常负荷，并可提高系统的整体效能，保持网络安全稳定的运行。</p>
+<p>SNMP v3 及SSH</p>
+<p>安全网管SNMP v3 提出全新的体系结构，将各版本的SNMP 标准集中到一起，进而加强网管安全性。SNMP v3 建议的安全模型是基于用户的安全模型，即USM.USM对网管消息进行加密和认证是基于用户进行的，具体地说就是用什么协议和密钥进行加密和认证均由用户名称(userNmae)权威引擎标识符(EngineID)来决定(推荐加密协议CBCDES，认证协议HMAC-MD5-96 和HMAC-SHA-96)，通过认证、加密和时限提供数据完整性、数据源认证、数据保密和消息时限服务，从而有效防止非授权用户对管理信息的修改、伪装和窃听。</p>
+<p>至于通过Telnet 的远程网络管理，由于Telnet 服务有一个致命的弱点&mdash;&mdash;它以明文的方式传输用户名及口令，所以，很容易被别有用心的人窃取口令，受到攻击，但采用SSH进行通讯时，用户名及口令均进行了加密，有效防止了对口令的窃听，便于网管人员进行远程的安全网络管理。</p>
+<p>Syslog和Watchdog</p>
+<p>交换机的Syslog 日志功能可以将系统错误、系统配置、状态变化、状态定期报告、系统退出等用户设定的期望信息传送给日志服务器，网管人员依据这些信息掌握设备的运行状况，及早发现问题，及时进行配置设定和排障，保障网络安全稳定地运行。</p>
+<p>Watchdog 通过设定一个计时器，如果设定的时间间隔内计时器没有重启，则生成一个内在CPU重启指令，使设备重新启动，这一功能可使交换机在紧急故障或意外情况下时可智能自动重启，保障网络的运行。</p>
+<p>双映像文件</p>
+<p>一些最新的<a href="http://www.hrgdkj.com">工业级交换机</a>，像A S U SGigaX2024/2048还具备双映像文件。这一功能保护设备在异常情况下(固件升级失败等)仍然可正常启动运行。文件系统分majoy和 mirror两部分进行保存，如果一个文件系统损害或中断，另外一个文件系统会将其重写，如果两个文件系统都损害，则设备会清除两个文件系统并重写为出厂时默认设置，确保系统安全启动运行。</p>
+<p></p>
+		</div>
+		<div class="blank10"></div>
+		<div class="shangxiapian">
+			<li><strong>上一篇：</strong><a href="/27/GongYeShiJueWangLuoRuHeGouJianGongYeYiTaiWangYuPoE.html">工业视觉网络如何构建？工业以太网与PoE交换机选型指南</a>&nbsp;&nbsp;2026/09/23</li>
+			<li><strong>下一篇：</strong><a href="/23/how-will-the-general-switch-into-a-poe-function.html">怎么将普通交换机变成有PoE功能的？</a>&nbsp;&nbsp;2017/03/18</li>
+		</div>
+		<div class="blank10"></div>
+		<!--
+		<div class="pages">
+			这里是分页
+		</div>
+		-->
+
+
+
+	</div>
+</div>
+<!--footer-->
+<div class="footer_zone">
+	<div class="footer">
+		<dl>
+			<dt><a href="/hong-rui-induction/">关于洪瑞</a></dt>
+							<dd><a href="/hong-rui-induction/" title="洪瑞简介">洪瑞简介</a></dd>
+							<dd><a href="/5/" title="企业文化">企业文化</a></dd>
+							<dd><a href="/258/" title="发展历程">发展历程</a></dd>
+							<dd><a href="/260/" title="资质荣誉">资质荣誉</a></dd>
+							<dd><a href="/372/" title="企业管理">企业管理</a></dd>
+							<dd><a href="/374/" title="员工之家">员工之家</a></dd>
+						
+		</dl>
+		<dl>
+			<dt><a href="/9/">产品中心</a></dt>
+							<dd><a href="/272/" title="标准PoE交换机">标准PoE交换机</a></dd>
+							<dd><a href="/274/" title="以太网交换机">以太网交换机</a></dd>
+							<dd><a href="/404/" title="工业以太网/PoE交换机">工业以太网/PoE交换机</a></dd>
+							<dd><a href="/guanlixingjiaohuanji/" title="商业管理型交换机">商业管理型交换机</a></dd>
+							<dd><a href="/13/" title="工业管理型交换机">工业管理型交换机</a></dd>
+							<dd><a href="/media-converter/" title="光纤收发器">光纤收发器</a></dd>
+							<dd><a href="/passive-poe-switch/" title="非标PoE交换机">非标PoE交换机</a></dd>
+							<dd><a href="/330/" title="PoE供电器">PoE供电器</a></dd>
+							<dd><a href="/poe-extender/" title="PoE延长器">PoE延长器</a></dd>
+							<dd><a href="/328/" title="PoE分离器">PoE分离器</a></dd>
+							<dd><a href="/wuxianwangluo/" title="无线网络">无线网络</a></dd>
+						
+		</dl>
+		<dl>
+			<dt><a href="/23/">新闻资讯</a></dt>
+							<dd><a href="/25/" title="公司新闻">公司新闻</a></dd>
+							<dd><a href="/27/" title="技术信息">技术信息</a></dd>
+							<dd><a href="/168/" title="解决方案">解决方案</a></dd>
+							<dd><a href="/400/" title="全球展会">全球展会</a></dd>
+						
+		</dl>
+		<dl style="margin-right:0">
+			<dt><a href="/270/">行业应用</a></dt>
+							<dd><a href="/378/" title="成功案例">成功案例</a></dd>
+							<dd><a href="/430/" title="电力行业">电力行业</a></dd>
+							<dd><a href="/432/" title="新能源行业">新能源行业</a></dd>
+							<dd><a href="/434/" title="轨道交通行业">轨道交通行业</a></dd>
+							<dd><a href="/436/" title="石油化工行业">石油化工行业</a></dd>
+							<dd><a href="/438/" title="物联网">物联网</a></dd>
+							<dd><a href="/428/" title="工业自动化">工业自动化</a></dd>
+						
+		</dl>
+		<dl class="footer_lxxx" style="float:right;margin-right:0">
+			<dt><a href="/239/">联系我们</a></dt>
+			<dd><div><span style="font-family: 楷体_GB2312">电话：0755-27085760</span></div>
+<div><span style="font-family: 楷体_GB2312">邮箱：</span>wangqh@hruitech.com</div>
+<div><span style="font-family: 楷体_GB2312">地址：</span>深圳市宝安区福海街道展城社区泽达利科技园A3栋</div></dd>
+		</dl>
+		<!--dl class="footer_ewm">
+			<dt></dt>
+			<dd></dd>
+		</dl-->
+	</div>
+	<div class="copy">
+		<div id="links">
+			<strong>友情链接:</strong>
+			<a href="https://www.lcdbvs.com" title="永兴盛LCD" target="_blank">永兴盛LCD</a><a href="http://secu.hc360.com/" title="慧聪物联网" target="_blank">慧聪物联网</a><a href="http://www.networktelecom.cn/" title="网络电信" target="_blank">网络电信</a><a href="https://www.qianjia.com/" title="千家网" target="_blank">千家网</a><a href="http://www.21csp.com.cn/" title="中国安防行业" target="_blank">中国安防行业</a><a href="http://www.asmag.com.cn" title="安防知识" target="_blank">安防知识</a><a href="http://www.afzhan.com/" title=" 安防展览" target="_blank"> 安防展览</a><a href="http://www.secu.hc360.com/" title="慧聪安防" target="_blank">慧聪安防</a>
+		</div>
+		<div id="copy_l"><table border="0" cellspacing="1" cellpadding="1" width="100%">
+    <tbody>
+        <tr>
+            <td>版权所有 &copy; 2025 深圳市洪瑞光祥电子技术有限公司 <a href="https://beian.miit.gov.cn/">粤ICP备14098292号</a></td>
+            <td style="text-align: right"></td>
+        </tr>
+    </tbody>
+</table>
+<br /></div>
+	</div>
+</div>
+<!--百度商桥begin-->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?5b459fcac28ba1b9f9b4e49e3c00f6dc";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<!--百度商桥end-->
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5715d7b0e8ed7da3"></script>
+</body>
+</html>
+

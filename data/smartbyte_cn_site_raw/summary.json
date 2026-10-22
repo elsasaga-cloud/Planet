@@ -1,0 +1,71 @@
+{
+  "crawled_at": "2026-10-22T15:34:03Z",
+  "host": "www.smartbyte.com.cn",
+  "complete": false,
+  "blocked": true,
+  "recrawl_base": null,
+  "diff": null,
+  "same_as_base": {
+    "downloads": 0,
+    "images": 0
+  },
+  "access": {
+    "mode": "blocked",
+    "profile": null,
+    "base": null
+  },
+  "refused": {
+    "pages": 0,
+    "downloads": 0,
+    "images": 0
+  },
+  "refused_sample": {
+    "pages": [],
+    "downloads": [],
+    "images": []
+  },
+  "pages_total": 0,
+  "pages_ok": 0,
+  "pages_failed": [],
+  "pages_stop": "blocked (seed refused under every profile; see access_diag.json)",
+  "queue_left": 1,
+  "downloads_total": 0,
+  "downloads_ok": 0,
+  "downloads_left": 0,
+  "downloads_stop": "complete",
+  "downloads_bytes": 0,
+  "pdfs_committed": true,
+  "pdf_text_files": 0,
+  "images_bytes": 0,
+  "images_committed": true,
+  "images_total": 0,
+  "images_ok": 0,
+  "images_left": 0,
+  "images_stop": "complete",
+  "images_bytes_this_run": 0,
+  "external_hosts": {},
+  "runs": [
+    {
+      "run": "14",
+      "started": "2026-10-22T15:32:57Z",
+      "resumed": false,
+      "budget_min": 55.0,
+      "max_pages": 1500,
+      "delay_s": 0.8,
+      "ended": "2026-10-22T15:34:03Z",
+      "elapsed_s": 66,
+      "pages_new": 0,
+      "downloads_new": 0,
+      "images_new": 0,
+      "pages_stop": "blocked (seed refused under every profile; see access_diag.json)",
+      "downloads_stop": "complete",
+      "images_stop": "complete"
+    }
+  ],
+  "elapsed_s": 66,
+  "user_agent": "Mozilla/5.0 (compatible; SagaTelecom-site-archiver/1.0; +https://sagatele.com)",
+  "delay_s": 0.8,
+  "time_budget_min": 55.0,
+  "how_to_continue": "被封：站点对 GitHub Actions 运行器的所有访问方式都返回拒绝（access_diag.json 有状态码 / 响应头 / 正文片段）。办法：① 过几小时再到 Actions 页点 Run workflow（可能是长时间抓取触发的临时封禁）；② 在本地电脑运行 CRAWL_HOST=www.smartbyte.com.cn python scripts/smartbyte_crawl/crawl.py data/smartbyte_cn_site_raw crawl_bin_smartbyte_cn 后提交；③ 请站方放行归档 UA / 运行器 IP。",
+  "site": "smartbyte_cn"
+}

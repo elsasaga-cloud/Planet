@@ -1,0 +1,447 @@
+HOHUNET PEAKNETX PLATFORM
+性能规格表
+高性能交换硬件平台
+文档版本：V3.1
+发布日期：2025/11/24
+
+平台简介
+PeakNetX平台是专为边缘计算和人工智能时代对极低延迟/抖动、全面端到端隧道网络和
+日益增长的需求而打造的以太网交换平台。PeakNetX平台提供卓越灵活的I/O连接能力，
+支持从10G到100G的全范围端口速率。
+
+关键特性
+l   以太网功能表：MAC table，Vxlan，IPFIX，ACL，EVC等等
+l   丰富的2层/3层协议
+l   丰富的OAM
+l   安全特性集
+l   时钟协议
+
+性能规格表
+表 1：PeakNetX平台性能规格表
+
+类                  描述                         值
+
+Ethernet Basic
+Jumbo Frame        Maximum jumbo frame size   9600
+                                              Default profile:122880
+                                              IPv6 profile: 65536
+                   MAC address capacity
+                                              Layer3 profile: 65536
+                                              MPLS profile: 131072
+Unicast MAC
+                   MAC learning rate (SW)     > 4000pps
+                   MAC learning rate (HW)     > 10Gbps
+                   Blackhole MAC address
+                                              128
+                   capacity
+                                              Default profile: 2048
+                                              IPv6 profile: 1024
+Multicast MAC      MAC address capacity
+                                              Layer3 profile: 1024
+                                              MPLS profile: 2048
+                                   1
+PEAKNETX PLATFORM                                                          性能规格表
+
+
+表 1：PeakNetX平台性能规格表（续）
+
+类                          描述                           值
+
+Ethernet Basic
+                           VLAN IDs                     4094
+VLAN                       VLAN instances               4094
+                           VLANs to enable statistics   256
+                           Maximum mapping table        64
+VLAN Mapping
+                           Maximum rules number         3072
+EVC                        Maximum EVC number           4094
+                           Maximum member number
+                                                        No limitation
+                           per group
+
+Link Aggregation (Static   Maximum Group Num            64
+& LACP)                                                 Static/Dlb/RR/Resilient/Self-
+                           Load balance key mode
+                                                        healing
+                           Convergence time             < 50ms
+                           Maximum rule number          4096
+                           Maximum group number         1
+                           Base MAC capacity            512
+VLAN Classification
+                           Base IPv4 capacity           448
+                           Base IPv6 capacity           32
+                           Base protocol capacity       7
+Ethernet Ring Protection
+STP                        Convergence time             < 30s
+RSTP                       Convergence time             < 1s
+                           Instance number              64
+MSTP
+                           Convergence time             < 1s
+                           Domain number                16
+                                                        1 Primary ring/domain
+                           Ring number
+                                                        2 Sub ring/domain
+ERPS
+                           Protection instance number
+                                                        64
+                           per Ring
+                           Switchover time              < 50 ms
+
+                                             2
+PEAKNETX PLATFORM                                                        性能规格表
+
+
+表 1：PeakNetX平台性能规格表（续）
+
+类                   描述                             值
+
+Ethernet OAM
+                    Maximum session number         1024
+                    Maximum domain number          8
+                    CCM interval types             7
+CFM (802.1ag)       CCM minimum interval           3.3ms
+                    Maximum down MEP number        1024
+                    Maximum up MEP number          1024
+                    Maximum LMEP number            1024
+IPv4 Unicast
+                                                   Default profile: 16384
+                                                   IPv6 profile: 16384
+ARP                 ARP capacity
+                                                   Layer3 profile: 20480
+                                                   MPLS profile: 8192
+                                                   Default profile: 61440
+                                                   IPv6 profile: 32768
+IPv4                FIB
+                                                   Layer3 profile: 163840
+                                                   MPLS profile: 32768
+ECMP                ECMP group                     240 (Share with IPv6)
+                    Policy route map               64
+PBR
+                    Policy based routing ACE       1024
+                    Maximum static neighbors       256
+OSPF
+                    Maximum summary address        2048
+IPv4 Multicast
+                                                   Default profile: 2048
+                                                   IPv6 profile: 1024
+                    Multicast routing table
+                                                   Layer3 profile: 2048
+IPMC
+                                                   MPLS profile: 1024
+                    Multicast routing downstream
+                                                   Default profile: 4096
+                    interfaces
+
+                                       3
+PEAKNETX PLATFORM                                                        性能规格表
+
+
+表 1：PeakNetX平台性能规格表（续）
+
+类                   描述                             值
+
+IPv4 Multicast
+                                                   IPv6 profile: 2048
+                    Multicast routing downstream
+IPMC                                               Layer3 profile: 5120
+                    interfaces
+                                                   MPLS profile: 2048
+                    Maximum groups number          2048
+IGMP Snooping
+                    Maximum member number          N/A
+                                                   Default profile: 2048
+                                                   IPv6 profile: 1024
+                    Maximum group number
+                                                   Layer3 Profile: 2048
+                                                   MPLS profile: 1024
+MVR
+                                                   Default profile: 4096
+                                                   IPv6 profile: 2048
+                    Maximum member number
+                                                   Layer3 profile: 5120
+                                                   MPLS profile: 2048
+IPv6 Unicast
+                                                   Default profile: 2048
+                                                   IPv6 profile: 8192
+Host Route          NDP capacity
+                                                   Layer3 profile: 2048
+                                                   MPLS profile: 2048
+                                                   Default profile: 4096
+                                                   IPv6 profile: 16384
+                    FIBv6
+IPv6                                               Layer3 profile: 4096
+                                                   MPLS profile: 2048
+                    ECMP group                     240 (share with IPv4)
+IPv6 Multicast
+                                                   Default profile: 256
+                                                   IPv6 profile: 512
+IPMC                Multicast routing table
+                                                   Layer3 Profile: 0
+                                                   MPLS profile: 0
+
+                                      4
+PEAKNETX PLATFORM                                                              性能规格表
+
+
+表 1：PeakNetX平台性能规格表（续）
+
+类                       描述                                值
+
+IPv6 Multicast
+                                                          Default profile: 512
+
+                        Number of interfaces that         IPv6 profile: 1024
+IPMC
+                        support multicast routing table   Layer3 Profile: 0
+                                                          MPLS profile: 0
+                                                          Default profile: 256
+                                                          IPv6 Profile: 512
+                        Maximum entry number
+                                                          Layer3 Profile: 0
+                                                          MPLS profile: 0
+MVR V6
+                                                          Default profile: 512
+                                                          IPv6 profile: 1024
+                        Maximum member number
+                                                          Layer3 Profile: 0
+                                                          MPLS profile: 0
+IP tunnel
+IP Tunnel               Tunnel peer capacity              8
+QoS
+                        Unicast queue                     10
+Per-port Queue Number   Multicast queue                   10
+                        Monitor queue                     10
+Packet Buffer           System packet buffer capacity     36MByte
+                                                          0~2M: 10K
+                                                          2M~100M: 40K
+                        Policer granularity               100M~1G: 80K
+Granularity                                               1G~2G: 120K
+                                                          2G~4G: 250K
+                        Queue shape granularity           4G~10G: 500K
+                        Port shape granularity            10k
+                        Ingress port QoS ipv4 flow
+Flow Entry                                                1532
+                        entries
+
+                                              5
+PEAKNETX PLATFORM                                                           性能规格表
+
+
+表 1：PeakNetX平台性能规格表（续）
+
+类                   描述                                 值
+
+QoS
+                    Ingress port QoS ipv6 flow
+                                                       1532
+                    entries
+Flow Entry
+                    Ingress port QoS flow statistics
+                                                       511
+                    entries
+ACL
+                                                       Default profile: 5949
+                                                       IPv6 profile: 5949
+                    Ingress port ACL for MAC
+                                                       Layer3 profile: 5952
+                                                       MPLS profile: 5952
+                                                       Default profile: 5949
+                                                       IPv6 profile: 5949
+                    Ingress VLAN ACL for MAC
+                                                       Layer3 profile: 5952
+                                                       MPLS profile: 5950
+MAC ACL
+                                                       Default profile: 1901
+                                                       IPv6 profile: 1904
+                    Egress port ACL for MAC
+                                                       Layer3 profile: 1952
+                                                       MPLS profile: 1952
+                                                       Default profile: 1901
+                                                       IPv6 profile: 1904
+                    Egress VLAN ACL for MAC
+                                                       Layer3 profile: 1952
+                                                       MPLS profile: 1952
+                                                       Default profile: 5949
+                                                       IPv6 profile: 5949
+                    Ingress Port ACL for IPv4
+                                                       Layer3 profile: 5952
+                                                       MPLS profile: 5952
+IPv4 ACL
+                                                       Default profile: 5949
+                                                       IPv6 profile: 5949
+                    Ingress VLAN ACL for IPv4
+                                                       Layer3 profile: 5952
+                                                       MPLS profile: 5952
+                                      6
+PEAKNETX PLATFORM                                                        性能规格表
+
+
+表 1：PeakNetX平台性能规格表（续）
+
+类                     描述                            值
+
+ACL
+                                                    Default profile: 1901
+                                                    IPv6 profile: 1904
+                      Egress Port ACL for IPv4
+                                                    Layer3 profile: 1952
+                                                    MPLS profile: 1952
+IPv4 ACL
+                                                    Default profile: 1901
+                                                    IPv6 profile: 1904
+                      Egress VLAN ACL for IPv4
+                                                    Layer3 profile: 1952
+                                                    MPLS profile: 1952
+                                                    Default profile: 5949
+                                                    IPv6 profile: 5949
+                      Ingress Port ACL for IPv6
+                                                    Layer3 profile: 5952
+                                                    MPLS profile: 5952
+                                                    Default profile: 5949
+                                                    IPv6 profile: 5949
+                      Ingress VLAN ACL for IPv6
+                                                    Layer3 profile: 5952
+                                                    MPLS profile: 5952
+IPv6 ACL
+                                                    Default profile: 1901
+                                                    IPv6 profile: 1904
+                      Egress Port ACL for IPv6
+                                                    Layer3 profile: 1952
+                                                    MPLS profile: 1952
+                                                    Default profile: 1901
+                                                    IPv6 profile: 1904
+                      Egress VLAN ACL for IPv6
+                                                    Layer3 profile: 1952
+                                                    MPLS profile: 1952
+                                                    Default profile: 5949
+
+                      Ingress ACL flow statistics   IPv6 profile: 5949
+ACL Flow Statistics
+                      entries                       Layer3 profile: 5952
+                                                    MPLS profile: 5952
+
+                                         7
+PEAKNETX PLATFORM                                                         性能规格表
+
+
+表 1：PeakNetX平台性能规格表（续）
+
+类                     描述                             值
+
+ACL
+                                                     Default profile: 1901
+
+                      Egress ACL flow statistics     IPv6 profile: 1904
+ACL Flow Statistics
+                      entries                        Layer3 profile: 1952
+                                                     MPLS profile: 1952
+                      CoPP rules                     1500
+CoPP
+                      CoPP flow statistics entries   1500
+                      UDF rules                      512
+UDF
+                      UDF flow stats entries         1024
+Security
+                      IPv4 maximum rules number      2048
+IP Source Guard
+                      IPv6 maximum rules number      64
+802.1x Base MAC       Maximum entries                512
+DHCP Snooping         Maximum bound entry            4096
+IPFIX
+IPFIX                 IPFIX member                   4096
+Reliability
+BFD                   Maximum session number         Share 256
+S-BFD                 Maximum session number         Share 256
+VRRP                  Maximum group number           63
+                      Maximum group number           16
+Smart Link            Maximum instance number        64
+                      Switchover time                <50ms
+                      Maximum group number           16
+Monitor Link          Maximum up-link number per
+                                                     24
+                      group
+Data Center
+VARP                  Virtual IP number per port     15
+VXLAN                 VXLAN tunnel                   Default profile: 16384
+
+                                         8
+PEAKNETX PLATFORM                                            性能规格表
+
+
+表 1：PeakNetX平台性能规格表（续）
+
+类                   描述                 值
+
+Data Center
+                                       IPv6 profile: 16384
+                    VXLAN tunnel       Layer3 profile: 16384
+                                       MPLS profile: 4096
+                                       Default profile: 4092
+                                       IPv6 profile: 4092
+                    VNI
+VXLAN                                  Layer3 profile: 4092
+                                       MPLS profile: 2000
+                                       Default profile: 2048
+                                       IPv6 profile: 2048
+                    VTEP peer
+                                       Layer3 profile: 2048
+                                       MPLS profile: 128
+
+
+
+
+                                   9
+PEAKNETX PLATFORM                                              性能规格表
+
+
+PeaknetX平台支持型号
+表 2：PeakNetX平台支持型号
+
+   系列                 型号                          描述
+
+                                32*100G QSFP28，三层以太网交换机
+  S7800             S7832Z-EI
+                                2*CRPS 550W，4*热插拔风扇模组
+
+                                48*25G SFP28，8*100G QSFP28，三层以太网交
+  S7500        S7548N-8Z-EI     换机
+                                2*CRPS 550W，5*热插拔风扇模组
+
+                                48*100M/1G/2.5G/5G/10G Base-T，8*100G
+  S5600        S5648T-8Z-EI     QSFP28，三层以太网交换机
+                                2*CRPS 550W，2*热插拔风扇模组
+
+
+
+
+                                  10
+PEAKNETX PLATFORM                           性能规格表
+
+
+
+关于            :
+
+        成立于2015年，是一家专业从事开发交换机产品的技术型公司，全系列交换机
+均基于国产交换芯片。随着芯片技术的不断发展，HOHUNET推出了一系列基于该芯片平
+台的差异化产品。目前，公司产品线覆盖1G到800G，可用于企业网、运营商网、数据中
+心、AI计算等场景。目前公司主要合作模式为OEM/ODM，致力于为客户提供灵活的端到
+端定制产品和技术咨询服务。成为客户最值得信赖的商业伙伴一直是公司的使命和原则。
+
+
+
+
+联系我们：
+深圳市浩湖网络技术有限公司
+
+总部地址：中国广东省深圳市南山区深南大道9996号李宁中心11楼
+商务合作：business@hohunet.com
+官方电话：0086-755-26418565
+官方网址: www.hohunet.cn
+
+
+
+
+深圳市浩湖网络技术有限公司版权所有。HOHUNET是深圳市浩湖有限有限公司在中国和其他国家的注册商
+标。HOHUNET对本文档中的任何不准确之处不承担任何责任。HOHUNET保留变更、修正、转让或以其他
+方式修改本出版物的权利，恕不另行通知。
+

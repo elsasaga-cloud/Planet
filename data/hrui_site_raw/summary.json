@@ -1,5 +1,5 @@
 {
-  "crawled_at": "2026-10-22T12:54:29Z",
+  "crawled_at": "2026-10-22T14:59:44Z",
   "host": "www.hruitech.com",
   "complete": false,
   "blocked": false,
@@ -222,12 +222,28 @@
       "pages_stop": "complete (queue empty)",
       "downloads_stop": "complete",
       "images_stop": "complete"
+    },
+    {
+      "run": "14",
+      "started": "2026-10-22T14:58:47Z",
+      "resumed": true,
+      "budget_min": 30.0,
+      "max_pages": 1500,
+      "delay_s": 0.8,
+      "ended": "2026-10-22T14:59:44Z",
+      "elapsed_s": 61,
+      "pages_new": 0,
+      "downloads_new": 1,
+      "images_new": 1,
+      "pages_stop": "complete (queue empty)",
+      "downloads_stop": "complete",
+      "images_stop": "complete"
     }
   ],
-  "elapsed_s": 57,
+  "elapsed_s": 61,
   "user_agent": "Mozilla/5.0 (compatible; SagaTelecom-site-archiver/1.0; +https://sagatele.com)",
   "delay_s": 0.8,
-  "time_budget_min": 55.0,
+  "time_budget_min": 30.0,
   "how_to_continue": "未抓完（被拒 403/429/网络错误 1 个；页面阶段 complete (queue empty)；附件 complete；图片 complete）：在 GitHub Actions 页对 SmartByte site archive 点 Run workflow（或再推一次 crawl.py），会从 crawl_state.json 续抓并重试失败项",
   "site": "hrui"
 }

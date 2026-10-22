@@ -1,10 +1,10 @@
-# 复抓对比：www.hruitech.com（本轮 2026-10-22T14:40:34Z；基线 data/hrui_site_raw）
+# 复抓对比：www.hruitech.com（本轮 2026-10-22T16:35:48Z；基线 data/hrui_site_raw）
 
 | 对象 | 新增 | 正文有变 / 内容变化 | 仅标记变 | 未变 | 消失（本轮取不到） | 本轮未抓到 |
 |---|---|---|---|---|---|---|
 | 页面 | 0 | 0 | 536 | 1 | 0 | 0 |
 | 附件 | 0 | 0 | – | 208 | 0 | 0 |
-| 图片 | 0 | 1 | – | 1974 | 0 | 0 |
+| 图片 | 0 | 1 | – | 1973 | 1 | 0 |
 
 说明：「仅标记变」= HTML 字节变了但去标签后的正文一字未变（token / 时间戳 / 计数器之类）；「消失」= 基线抓到过、本轮 404 / 拒绝 / 出错；「本轮未抓到」= 本轮没有到达该 URL（预算 / 被封 / 站内不再链到）。附件与图片若内容 sha256 与基线一致则不再入 git（见 same_as_base）。
 
@@ -419,3 +419,9 @@
 | url | title | old_sha8 | new_sha8 | old_bytes | new_bytes | file |
 |---|---|---|---|---|---|---|
 | https://www.hruitech.com/web/vcode/get_vcode.php |  | 7f261a47 | 307e2601 | 1993 | 2015 | images/web_vcode_get_vcode.php |
+
+## 图片：消失（1）
+
+| url | title | status | error |
+|---|---|---|---|
+| https://www.hruitech.com/web/userfiles/product/IndustrialSwitch/thumb/HR722S-24T4GS--E6-AD-A3-E9-9D-A2.png |  | 520 |  |

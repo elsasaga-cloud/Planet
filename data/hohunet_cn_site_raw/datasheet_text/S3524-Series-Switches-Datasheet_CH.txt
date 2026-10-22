@@ -1,0 +1,764 @@
+S3524 系列三层 PoE 以太网交换机
+
+S3524 系列三层 PoE 以太网交换机
+
+
+
+
+  S3524-6X: 24 口 2.5G 三层管理以太网交换，24*100M/1000M/2.5GBASE-T 和 6*10GSFP+上行端口，
+
+内置 96W AC/DC 电源和内置风扇。
+
+  S3524-6X-D: 24 口 2.5G 三层管理以太网交换，24*100M/1000M/2.5GBASE-T 和 6*10GSFP+上行端口，
+
+内置 150W AC/DC 双电源，内置风扇。
+
+  S3524P-6X: 24 口 2.5G 三层 POE++ 管理以太网交换机, 24*100M/1000M/2.5GBASE-T(每端口最大 90W)
+
+和 6*10GSFP+上行端口，内置 450W POE 电源，内置风扇。
+
+  S3524PB-6X: 24 口 2.5G 三层 POE++ 管理以太网交换机, 24*100M/1000M/2.5GBASE-T(每端口最大 90W)
+
+和 6*10GSFP+上行端口，内置 880W POE 电源，内置风扇。
+
+  概述
+
+  S3524 系列路由交换机，高性能三层以太网交换机，支持 2.5G 多千兆和 10GSFP+端口，紧凑型 1U 外形。自
+
+主研发软件提供了强大的功能支持，支持三层以太网路由功能。
+
+  该交换机结合了先进的硬件和软件，为下一代家庭/SMB/企业/Wi-Fi6AX 访问/高速 NAS 网络提供了三层路由
+
+解决方案。
+
+  不同的端口类型
+
+  支持 10M/100M/1G/2.5G/10G 端口，以满足不同的网络需求。
+
+  超长距离 PoE++
+
+  光电协同，实现 300m PoE+(30W/40W)和 10Gbit/s 访问，兼容的 802.3af/at/bt 标准。
+
+
+
+
+                                    -1-
+S3524 系列三层 PoE 以太网交换机
+
+硬件特性
+
+  产品名称       S3524-6X         S3524-6X-D                S3524P-6X     S3524PB-6X
+
+
+           24 *100M/1000M/2.5G BASE-T
+ 以太网端口
+           6*10G SFP+
+
+
+                                                  24*AF/AT/BT 90W    24*AF/AT/BT 90W
+  PoE 端口       N/A                N/A
+                                                  Max                Max
+
+
+                                                                     880W AC/DC 电源,
+                                                  450W AC/DC 电源,
+           96W AC/DC 电源， 2*150W AC/ DC 电                             110Vac-260Vac 输
+                                                  110Vac-260Vac 输
+  电源规格     110Vac-260Vac    源, 110Vac-260Vac                         入, 800W 54Vdc 输
+                                                  入, 400W 54Vdc 输
+           输入，12Vdc 输出      输入，12Vdc 输出                              出, 80W 12Vdc 输
+                                                  出, 50W 12Vdc 输出.
+                                                                     出.
+
+
+  管理端口                                   1*串口（RJ45）
+
+
+   风扇         3*风扇              3*风扇                      5*风扇             5*风扇
+
+
+   风道                                         从右到左
+
+
+  FLASH                                       128Mb
+
+
+  DRAM                                         4Gb
+
+
+  交换容量                                        240Gbps
+
+
+ MAC 地址                                        32K
+
+
+   尺寸                              440mmx290mmx43.6mm
+
+
+   重量         4.06KG            4.41KG                   4.55KG            4.46KG
+
+
+  工作温度                                     -10℃至 50℃
+
+
+  储存温度                                     -40℃至 70℃
+
+
+                                        -2-
+S3524 系列三层 PoE 以太网交换机
+
+  运行湿度                                   10%至 90%（非冷凝）
+
+
+  存储湿度                                     0 至 95%（非冷凝）
+
+
+  温度报警                                           55℃
+
+
+
+
+软件功能列表
+
+         Type                                          Feature
+
+
+MAC Address Table   32K
+
+
+Jumbo Frame         12K
+
+
+                    802.3x (Full-duplex)         Yes
+
+
+Flow Control        Back-Pressure
+                                                 Yes
+                    (Half-duplex)
+
+
+                    IEEE 802.1D (STP)            Yes
+
+
+                    IEEE 802.1w (RSTP)           Yes
+
+
+                    IEEE 802.1s (MSTP)           64 instances
+Spanning Tree
+                    Auto Edge Port               Yes
+
+
+                    BPDU Filtering               Yes
+
+
+                    Self Loop Detection          Yes
+
+
+                    IEEE 802.3ad LACP            Yes
+
+
+                    Static Trunk                 Yes
+
+
+Link Aggregation    Max. Group                   64
+
+
+                    Max. Ports/Group             8
+
+
+                    Traffic Load Balancing       Yes
+
+
+VLAN
+
+                                           -3-
+S3524 系列三层 PoE 以太网交换机
+
+                        Static VLAN               4K
+
+
+                        Port-based                Yes
+
+
+                        IEEE 802.1Q
+                                                  Yes
+                        Tagged-based
+Voice VLAN
+                        Protocol-based            8 groups
+
+
+                        MAC-based                 1K (shared)
+
+
+                        OUI Mode
+                                                  16 OUI
+                        (Auto/Manual)
+
+
+                        OUI Mode
+Surveillance VLAN                                 16 OUI
+                        (Auto/Manual)
+
+
+QinQ (IEEE 802.1ad)     Basic                     Yes
+
+
+GARP VLAN
+
+Registration Protocol   Yes
+
+(GVRP)
+
+
+Multicast
+
+
+                        Multicast Groups          1K
+
+
+                        Immediate Leave           Yes
+
+
+                        Static/Forbidden Router
+                                                  Yes
+                        Port
+Common
+                        Static/Forbidden
+                                                  Yes
+                        Forward Port
+
+
+                        Filtering                 128 profiles
+
+
+                        Throttling                Yes
+
+                                           -4-
+S3524 系列三层 PoE 以太网交换机
+
+                            IGMP v1/v2                 Yes
+
+
+IGMP Snooping               IGMP v3 Basic (BISS)       Yes
+
+
+                            IGMP v2/v3 Querier         Yes
+
+
+MLD Snooping                MLD v1/v2                  Yes
+
+
+Multicast VLAN
+                                                       Yes
+Registration (MVR)
+
+
+QoS Features
+
+
+Priority Queue              8 queues/port
+
+
+                            WRR                        Yes
+
+
+                            WFQ                        Yes
+
+
+Queue Scheduling            Strict Pripority           Yes
+
+
+                            Hybrid(WRR+SP or
+                                                       Yes
+                            WFQ+SP)
+
+
+                            Port-based                 Yes
+
+
+Class of Service            802.1p                     Yes
+
+
+                            IP TOS Precedence          Yes
+
+
+                            IP DSCP                    Yes
+
+
+Trusted QoS                                            Yes
+
+
+                            Port-based
+Rate Limit                                             Yes
+                            (Ingress/Egress)
+
+
+Access Control List (ACL)
+
+
+Access Rules                2048
+
+
+ACL Type                    L2/L3/L4                   Yes
+
+                                                 -5-
+S3524 系列三层 PoE 以太网交换机
+
+                    MAC-based
+
+
+                    IPv4-based                   512
+
+
+                    IPv6-based
+
+
+Security
+
+
+AAA                 Authentication               Yes
+
+
+TACACS+             8
+
+
+RADIUS              8
+
+
+                    IEEE 802.1X                  Yes
+
+
+                    MAC Auth                     Yes
+
+
+Authentication      Web Auth                     Yes
+
+
+Manager             Guest VLAN                   Yes
+
+
+                    Port-based                   Yes
+
+
+                    Host-based                   Yes
+
+
+                    Local Authenticatoin         Yes
+
+
+                    Multiple User Account        8
+
+
+Account Manager     Multi-Level Security         Yes
+
+
+                    Password Recovery
+                                                 Yes
+                    Procedures
+
+
+                    Management VLAN              Yes
+Management Access
+                    Management ACL               256
+
+
+                    SSLv2                        Yes
+
+
+SSL                 SSLv3                        Yes
+
+
+                    TLSv1                        Yes
+
+                                           -6-
+S3524 系列三层 PoE 以太网交换机
+
+WebUI                  HTTPS                      Yes
+
+
+CLI                    SSH v1/v2                  Yes
+
+
+Port Security          Dynamic Lock               256
+
+
+                       Broadcast                  Yes
+
+
+Storm Control          Unknown Multicast          Yes
+
+
+                       Unknown Unicast            Yes
+
+
+Spanning Tree          BPDU Guard                 Yes
+
+
+Protected Port (Port
+                       Yes
+Isolation)
+
+
+Black Hole MAC         Yes
+
+
+CPU Defence Engine                                Yes
+
+
+DoS Prevention                                    Yes
+
+
+DHCP Snooping (with
+                                                  Yes
+Option 82)
+
+
+Dynamic ARP
+                                                  Yes
+Inspection
+
+
+IP Source Guard                                   256
+
+
+IP/MAC/Port Binding
+                                                  Yes
+(IMPB)
+
+
+IPv6
+
+
+                       Auto Configuration         Yes
+
+
+IPv6 Host              Static IPv6 Address and
+                                                  Yes
+                       Prefix Length
+
+                                            -7-
+S3524 系列三层 PoE 以太网交换机
+
+                   Static IPv6 Default
+                                               Yes
+                   Gateway
+
+
+                   IPv6 Neighbor Discovery
+                                               Yes
+                   (ND)
+
+
+                   IPv6 Duplicate Address
+                                               Yes
+                   Detection
+
+
+                   ICMPv6                      Yes
+
+
+                   HTTP/HTTPS                  Yes
+
+
+                   TELNET                      Yes
+
+
+                   SSH                         Yes
+
+
+                   SNMP                        Yes
+IPv6 Application
+                   TFTP                        Yes
+
+
+                   Syslog                      Yes
+
+
+                   PING                        Yes
+
+
+                   DHCPv6                      Yes
+
+
+Management
+
+
+                   Console                     3 sessions
+CLI
+                   Telnet (RFC854)
+
+
+                   HTTP                        Yes
+
+
+WebUI              v1                          Yes
+
+
+                   v2c                         Yes
+
+
+SNMP               v3                          Yes
+
+
+File Management    Firmware                    Yes
+
+                                         -8-
+S3524 系列三层 PoE 以太网交换机
+
+                        Upgrade/Backup
+
+
+                        Dual Images                Yes
+
+
+                        Configuration
+                                                   Yes
+                        Download/Backup
+
+
+                        Multiple Configurations    Yes
+
+
+                        TFTP (RFC783)              Yes
+
+
+Upload/Download         HTTP                       Yes
+
+
+                        UART                       Yes
+
+
+                        Local                      Yes
+Time Management
+                        SNTP                       Yes
+
+
+                        Friendly Port Name (Port
+                                                   Yes
+Port Management         Description)
+
+
+                        Error Disabled Recovery    Yes
+
+
+                        Console                    Yes
+
+
+Line Management         Telnet (RFC854)            Yes
+
+
+                        SSH v1/v2                  Yes
+
+
+                        Client                     Yes
+
+
+                        DHCP SNOOPING              yes
+
+
+DHCP                    Server                     yes
+
+
+                        Relay                      yes
+
+
+                        option82                   yes
+
+
+DNS                     Client                     Yes
+
+
+Software Reset Button   Yes
+
+                                           -9-
+S3524 系列三层 PoE 以太网交换机
+
+EEE (802.3az)             Yes
+
+
+RMON Management           32 entries / type
+
+
+Discovery
+
+
+IEEE 802.1AB Link Layer
+
+Discovery Protocol        Yes
+
+(LLDP)
+
+
+ANSI/TIA-1057 LLDP
+
+Media Endpoint            Yes
+
+Discovery (LLDP-MED)
+
+
+Diagnostics
+
+
+                          Port-based (Many to
+Mirroring                                               4 sessions
+                          One)
+
+
+                          Local RAM                     Yes
+
+
+Syslog (RFC3164)          Local Flash                   Yes
+
+
+                          Remote Server                 8
+
+
+                          CPU Utilization               Yes
+
+
+System Diagnostics        Memory Utilization            Yes
+
+
+                          Port Utilization              Yes
+
+
+                          Cable Test                    Yes
+Port Diagnostics
+                          Fiber Module Status           Yes
+
+
+                          Ping Test                     Yes
+Network Diagnostics
+                          Traceroute                    Yes
+
+
+UDLD                      Yes
+
+                                               - 10 -
+S3524 系列三层 PoE 以太网交换机
+
+MIB
+
+
+RFC1213 MIBII (System
+                         Yes
+& Interface groups)
+
+
+RFC2819 RMON I (1,2,3,
+                         Yes
+& 9 groups)
+
+
+RFC1215 Generic Traps    Yes
+
+
+RFC1493 Bridge           Yes
+
+
+RFC2674 Bridge MIB
+                         Yes
+Extensions
+
+
+RFC2737 Entity           Yes
+
+
+RFC3635 Ethernet-Like    Yes
+
+
+RFC2863 Interface
+                         Yes
+Group
+
+
+SNMP-Community-MIB       Yes
+
+
+SNMPv3                   Yes
+
+
+                         POE port config              Yes
+
+
+                         POE timer                    Yes
+
+
+POE (S3508P/S3508PB)     Legacy PD detection          Yes
+
+
+                         max power management         Yes
+
+
+                         Priority management          Yes
+
+
+RIP                      v1/v2                        Yes
+
+
+OSPF                     v1/v2                        Yes
+
+
+Web GUI language         Chinese / English            Yes
+
+                                             - 11 -
+S3524 系列三层 PoE 以太网交换机
+
+
+
+
+配件
+
+        产品名称                                 数量
+
+
+ 串口线                 1PCS
+
+
+ 电源线                 1PCS
+
+
+ 挂耳                  2PCS
+
+
+ 挂耳螺丝                6PCS
+
+
+ 接地线                 1PCS
+
+
+
+
+订购信息
+
+            型号                             产品描述描述
+
+
+                 -    24 口 2.5G 三层管理以太网交换，24*100M/1000M/2.5GBASE-T 和
+ S3524-6X
+                      6*10GSFP+上行端口，内置 96W AC/DC 电源和内置风扇
+
+
+                 -    24 口 2.5G 三层管理以太网交换，24*100M/1000M/2.5GBASE-T 和
+ S3524-6X-D
+                      6*10GSFP+上行端口，内置 150W AC/DC 双电源，内置风扇。
+
+
+                 -    24 口 2.5G 三层 POE++ 管理以太网交换机,
+
+ S3524P-6X            24*100M/1000M/2.5GBASE-T(每端口最大 90W) 和 6*10GSFP+上行端
+
+                      口，内置 450W POE 电源，内置风扇。
+
+
+                 -    24 口 2.5G 三层 POE++ 管理以太网交换机,
+
+ S3524PB-6X           24*100M/1000M/2.5GBASE-T(每端口最大 90W) 和 6*10GSFP+上行端
+
+                      口，内置 880W POE 电源，内置风扇。
+
+
+
+
+                                  - 12 -
+

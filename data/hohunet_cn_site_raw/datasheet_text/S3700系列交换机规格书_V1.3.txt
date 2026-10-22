@@ -1,0 +1,470 @@
+S3700系列交换机产品规格书
+企业园区网交换机
+
+文档版本：V1.3
+发布日期：2026/6/10
+
+
+
+
+产品简介
+S3700系列交换机采用国产新一代交换芯片
+LightLink系列芯片平台设计,该系列交换机
+配备8、24、48个GE下行链路端口、10G上
+行链路端口,可提供全千兆接入（PoE,非PoE）
+和灵活扩展的万兆上行数据交互能力,拥有
+丰富三层特性,例如BGP、EVPN、IPv6等,适
+用于企业网、园区网、SMB等应用场景。
+
+
+
+
+关键特性
+l PoE++ Max 90W,支持永久PoE功能。
+l 支持MLAG,跨设备链路聚合技术,实现设备级冗余,灵活组网可靠性强。
+l 支持VxLAN和BGP协议,构建数据中心场景下的EVPN应用。
+l 支持交换机到交换机使用MACsec或AES-CMAC进行加密功能。
+l 支持Precision Timing协议。
+l 丰富的L2/L3特性,例如IPv6、OSPF、BGP、PIM等等。
+
+
+
+
+S3700系列交换机为客户提供多种电源解决方案,包括固定单电源、12V电池供电型号以及
+冗余热插拔电源（支持交流和直流）。风扇方案配备内置风扇,并可更换现场替换的风扇
+模块。通常情况下,S3700系列的气流为前向后向（AFO）,部分型号还可定制后向前（AFI）
+气流。
+
+
+
+
+                        1
+  S3700系列交换机                                                     产品规格书
+
+
+  表 1：电源和风扇
+
+
+     型号           AC       DC      AFO      AFI     电源类型          电源风扇
+
+S3748-6X-EI       ●        ○        ●       ○       热插拔模组        热插拔模组
+
+S3748-6X-SI       ●         X       ●       X       内置电源          内置风扇
+
+S3748PB-6X-EI     ●        ○        ●       ○       热插拔模组        热插拔模组
+
+S3748P-6X-SI      ●         X       ●       X       内置电源          内置风扇
+
+S3724-6X-EI       ●        ○        ●       ○       热插拔模组         内置风扇
+
+S3724-6X-SI       ●         X       ●       X       内置电源          内置风扇
+
+S3724PB-6X-EI     ●        ○        ●       ○       热插拔模组        热插拔模组
+
+S3724P-6X-SI      ●         X       ●       X       内置电源          内置风扇
+
+S3724S-8T6X-EI    ●        ○        ●       ○       热插拔模组        热插拔模组
+
+S3724S-8T6X-SI    ●         X       ●       X       内置电源          内置风扇
+
+S3708P-2X-SI      ●         X       ●       X       内置电源          内置风扇
+
+● 默认配置；○ 可定制；X 不支持。
+
+
+
+出色的管理特性
+
+S3700 系 列 交 换 机 支 持 丰 富 的 管 理 接 口 , 包 括 Console 、 带 内 网 口 和 带 外 网 口 ； 支 持
+SNMPv1/v2/v3,支持CLI命令行,Web网管,TELNET及FTP配置,支持OAM,使设备管理更方便,
+并且支持SSH2.0、SSL等加密方式,使得管理更加安全。
+此外,HOHUNET依靠深厚的技术积累和对园区及企业网络需求的深入理解,推出大湖云维
+平台（DHCS）,可以提高网络管理和维护效率,降低成本,提升网络管理的智能化水平,让网
+络更加快速、智能、安全、可靠化,更好地服务于用户的需求。
+
+
+
+
+                                     2
+S3700系列交换机                        产品规格书
+
+
+
+
+HOS支持可视化Web界面,可实现快速配置,降低用户操作门槛。
+可视化Web界面
+
+
+
+
+                  3
+S3700系列交换机                                                              产品规格书
+
+硬件参数
+表 2：硬件一览表
+
+
+     型号           以太网端口              POE            管理口           电源数量        风扇数量
+
+ S3748-6X-EI                         None                          2*75W
+                 48 x 1G BaseT,
+                                                                               3
+                  6x 10G SFP+
+ S3748-6X-SI                         None                          1*60W
+
+
+S3748PB-6X-EI                     Port 1-48BT                      2*900W      3
+                 48 x 1G Base-T
+                 + 6 x 10G SFP+
+                                   Port 1-4BT
+ S3748P-6X-SI                                                      1*780W      4
+                                  Port 5-48AT
+
+
+ S3724-6X-EI     24 x 1G Base-T      None                          2*75W
+                 + 6 x 10G SFP+                 串口: RJ45 to DB9                 2
+                                                带外管理口: RJ45
+                 24 x 1G Base-T
+ S3724-6X-SI                         None         存储: USB          1*60W
+                 + 6 x 10G SFP+
+
+S3724PB-6X-EI                     Port 1-48BT                      2*600W
+                 24 x 1G Base-T                                                3
+                 + 6 x 10G SFP+
+                                   Port 1-4BT
+ S3724P-6X-SI                                                      1*450W
+                                  Port 5-24AT                                  4
+
+S3724S-8T6X-EI  16 x 1G SFP,         None                          2*75W
+               8x1G Base-T or
+                  8x1G SFP
+                                                                                3
+S3724S-8T6X-SI Combo, 6x10G          None                          1*60W
+                    SFP+
+
+                  8 x 1G Base-T                                   1*150W/1*
+ S3708P-2X-SI                     Port 1-8 AT                                  1
+                 + 2 x 10G SFP+                                      24W
+
+
+
+
+                                            4
+S3700系列交换机                                                                  产品规格书
+
+
+l 交换容量（双向）                                     l 包转发率(MPPS)
+l S3748-6X-EI:216Gbps (bidirectional)          l S3748-6X-EI: 178 MPPS
+l S3748-6X-SI:216Gbps (bidirectional)          l S3748-6X-SI: 178 MPPS
+l S3748PB-6X-EI:216Gbps (bidirectional)        l S3748PB-6X-EI: 178 MPPS
+l S3748P-6X-SI:216Gbps (bidirectional)         l S3748P-6X-SI: 178 MPPS
+l S3724-6X-EI:168Gbps (bidirectional)          l S3724-6X-EI: 151 MPPS
+l S3724-6X-SI:168Gbps (bidirectional)          l S3724-6X-SI: 151 MPPS
+l S3724PB-6X-EI:168Gbps (bidirectional)        l S3724PB-6X-EI: 151 MPPS
+l S3724P-6X-SI:168Gbps (bidirectional)         l S3724P-6X-SI: 151 MPPS
+l S3724S-8T6X-EI:184Gbps (bidirectional)       l S3724S-8T6X-EI: 151 MPPS
+l S3724S-8T6X-SI:184Gbps (bidirectional)       l S3724S-8T6X-SI: 151 MPPS
+l S3708P-2X-SI:56Gbps (bidirectional)          l S3708P-2X-SI: 151 MPPS
+
+
+CPU                                            MTBF
+l Quad-core, RISC-V(1.2GHz)                    l EI (Swapable PSU and FAN): ≥90000h
+                                                 (~10.3 Years)
+                                               l SI (Fixed PSU and FAN): ≥70000h
+                                                  (~8.0 Years)
+
+环境参数                                           Memory
+l 运行温度：0℃ to 45℃                               l eMMc: 8G
+l 存储温度：-40℃ to 70℃                             l DRAM: 2G
+l 运行湿度：10% to 90%（无冷凝）
+l 存储湿度：0 to 95%（无冷凝）                           温度告警
+                                               l Alarm threshold: 50ºC
+
+
+                                               PoE 功率预算
+                                               l S3748PB-6X-EI: TBD
+                                               l S3748P-6X-SI: TBD
+                                               l S3724PB-6X-EI: TBD
+                                               l S3724P-6X-SI: TBD
+
+
+
+
+                                           5
+S3700系列交换机                                                         产品规格书
+
+
+功耗(最大）                           重量（净重/毛重）
+l S3748-6X-EI:52W                l S3748-6X-EI:5.3kg/TBD
+l S3748-6X-SI:49W                l S3748-6X-SI:3.6kg/TBD
+l S3748PB-6X-EI:66W              l S3748PB-6X-EI:7kg/TBD
+l S3748P-6X-SI:T61W              l S3748P-6X-SI:TBD/TBD
+l S3724-6X-EI:39W                l S3724-6X-EI:4.3kg/TBD
+l S3724-6X-SI:28W                l S3724-6X-SI:TBD/TBD
+l S3724PB-6X-EI:66W              l S3724PB-6X-EI:6.9kg/TBD
+l S3724P-6X-SI:47W               l S3724P-6X-SI:3.6kg/TBD
+l S3724S-8T6X-EI:45W             l S3724S-8T6X-EI:5.2kg/TBD
+l S3724S-8T6X-SI:43W             l S3724S-8T6X-SI:3.4kg/TBD
+l S3708P-2X-SI:TBD               l S3708P-2X-SI:1.5kg/TBD
+功耗(经典）
+                                 外箱尺寸（宽x高x深）
+l S3748-6X-EI:40W
+                                 l S3748-6X-EI:TBD
+l S3748-6X-SI:38W
+                                 l S3748-6X-SI:TBD
+l S3748PB-6X-EI:60W
+                                 l S3748PB-6X-EI:TBD
+l S3748P-6X-SI:55W
+                                 l S3748P-6X-SI:TBD
+l S3724-6X-EI:33W
+                                 l S3724-6X-EI:TBD
+l S3724-6X-SI:23W
+                                 l S3724-6X-SI:TBD
+l S3724PB-6X-EI:60W
+                                 l S3724PB-6X-EI:TBD
+l S3724P-6X-SI:42W
+                                 l S3724P-6X-SI:TBD
+l S3724S-8T6X-EI:41W
+                                 l S3724S-8T6X-EI:TBD
+l S3724S-8T6X-SI:39W
+                                 l S3724S-8T6X-SI:TBD
+l S3708P-2X-SI:TBD
+                                 l S3708P-2X-SI:TBD
+
+最大风量(cfm)                        设备尺寸（宽x高x深）
+l S3748-6X-EI:34.8cfm(±10%)      l S3748-6X-EI:440 x 44 x 320
+l S3748-6X-SI:34.8cfm(±10%)      l S3748-6X-SI:440 x 44 x 280
+l S3748PB-6X-EI:34.8cfm(±10%)    l S3748PB-6X-EI:440 x 44 x 385
+l S3748P-6X-SI:46.4cfm(±10%)     l S3748P-6X-SI:440 x 44 x 330
+l S3724-6X-EI:23.2cfm(±10%)      l S3724-6X-EI:440 x 44 x 260
+l S3724-6X-SI:23.2cfm(±10%)      l S3724-6X-SI:440 x 44 x260
+l S3724PB-6X-EI:34.8cfm(±10%)    l S3724PB-6X-EI:442 x 44 x 385
+l S3724P-6X-SI:46.4cfm(±10%)     l S3724P-6X-SI:440 x 44 x 280
+l S3724S-8G6X-EI:34.8cfm(±10%)   l S3724S-8T6X-EI:440 x 44 x 320
+l S3724S-8G6X-SI:34.8cfm(±10%)   l S3724S-8T6X-SI:440 x 44 x 280
+l S3708P-2X-SI:11.6cfm(±10%)     l S3708P-2X-SI:319 x44 x208
+
+
+
+                                 6
+S3700系列交换机                                                                                          产品规格书
+
+
+软件参数
+HOHUNET拥有统一的软件平台,设备支持的软件功能详见“HOS 软件功能列表”。
+
+  Integrated Management Interface (CLl, SNMP,WEB, RMON ,RPC-API , Netconf,etc)
+
+
+                                      HOS Network Platform
+
+       Layer 2 switching                 IPv4/lPv6 Unicast Routing                        QoS
+
+
+  IP Multicast Snooping/Proxy           IPv4/lPv6 Multi cast Routing                      VRRP
+
+      Multi protocol Label                     Virtual Private LAN
+                                                                              Virtual Routing and Switching
+       Switching(MPLS)                            Service(VPLS)
+
+   Generalized Multi protocol                   IPv6 Tunneling and
+                                                                                     IP/MPLS OAM
+    Label Switching(GMPLS)                    TransitionTechnologies
+
+
+  Service management module                   Fault Managemet (FM)                High Availability (HA)
+
+
+
+                             Hardware and platform abstraction layer
+
+
+          Advanced integration Suite                                   Operating Systems TCP/IP Stacks
+
+           CENTEC swtich chip SDK
+
+                                                                         Linux , IPv4/Pv6 Dual Stack
+      Silicon in Pizza, Stacking or Chassis
+                  Configuration
+
+
+
+                                              Hardware layer
+
+            CENTEC Switch Chipset                                             CPU Subsystem
+
+              Cooling SubSystem                                             AC/DC DC/DC CLK
+
+    Environmental Management Subsystem                                    Logical Control Subunit
+
+
+
+
+x 归一化的软件平台
+x 统一的软件版本迭代
+x 统一的用户体验
+
+
+
+                                                       7
+S3700系列交换机                                                       产品规格书
+
+
+
+订购信息
+
+交换机
+
+       型号                                   描述
+
+                 48口接入交换机,48x1G Base-T,6x10G SFP+,2x可插拔电源模组(C13),3x
+S3748-6X-EI
+                 可插拔风扇模组
+
+                 48口接入交换机,48x1G Base-T,6x10G SFP+, 1x固定电源(C13),3x固定
+S3748-6X-SI
+                 内置风扇
+
+                 48口接入交换机,48x1G PoE++ Base-T,6x10G SFP+,2x可插拔电源模组
+S3748PB-6X-EI
+                 (C13),3x可插拔风扇模组
+
+                 48口接入交换机,48 x 1G BaseT (1-4prot PoE++,5-48port PoE+), 1x固
+S3748P-6X-SI
+                 定电源(C13),4x固定内置风扇
+
+                 24口接入交换机,24x1G Base-T,6x10G SFP+,2x可插拔电源模组(C13),2x
+S3724-6X-EI
+                 固定内置风扇
+
+                 24口接入交换机,24x1G Base-T,6x10G SFP+,1x固定电源(C13), 2x固定
+S3724-6X-SI
+                 内置风扇
+
+                 24口接入交换机, 24x1G POE++ Base-T,6x10G SFP+,2x可插拔电源模
+S3724PB-6X-EI
+                 组(C13),3x可插拔风扇模组
+
+                 24口接入交换机,24 x 1G BaseT (1-4prot PoE++,5-24port PoE+), 1x固
+S3724P-6X-SI
+                 定电源(C13),4x固定内置风扇
+
+                 24口接入交换机,16x1G SFP+,8x 1G Combo Ports, 6x10G SFP+, 2x可插
+S3724S-8T6X-EI
+                 拔电源模组(C13),3x可插拔风扇模组
+
+                 24口接入交换机, with 16x1G SFP+,8x 1G Combo Ports, 6x10G SFP+, 1x
+S3724S-8T6X-SI
+                 固定电源(C13),3x固定内置风扇
+
+                 8口接入交换机, with 8x1G Base-T, 2x10G SFP+, 2x固定电源(C13),1x固
+S3708P-2X-SI
+                 定内置风扇
+
+
+
+
+                                    8
+S3700系列交换机                                          产品规格书
+
+
+
+AC/DC电源
+      型号                           描述
+
+ PSU-60-AC-AFO          S3700 系列 60W 交流电源（前后气流）
+
+
+ PSU-75-AC-AFO          S3700 系列 75W 交流电源（前后气流）
+
+
+ PSU-600-AC-AFO         S3700 系列 600W 交流电源（前后气流）
+
+
+PSU-1200-AC-AFO         S3700 系列 1200W 交流电源（前后气流）
+
+
+
+
+软件许可证
+      事项                           描述
+
+     License      EB,基础三层软件许可证,SI型号预安装
+
+     License      MS,全三层软件许可证,EI型号预安装
+
+     License      MA,城域网软件许可证
+
+     License      ST,堆叠软件许可证
+
+
+
+
+                               9
+S3700系列交换机                                               产品规格书
+
+
+
+
+附件信息
+
+                       后挂耳导 后挂耳       M4                  串口线
+型号               前挂耳                       电源线   接地线
+                       轨    滑轨        螺丝               (RJ45 to DB9)
+
+S3748-6X-EI       2     2    2        12    2     1         1
+
+S3748-6X-SI       2     /    /        12    1     1         1
+
+S3748PB-6X-EI     2     2    2        12    2     1         1
+
+S3748P-6X-SI      2     /    /        12    1     1         1
+
+S3724-6X-EI       2     2    2        12    2     1         1
+
+S3724-6X-SI       2     /    /        12    1     1         1
+
+S3724PB-6X-EI     2     2    2        12    2     1         1
+
+S3724P-6X-SI      2     /    /        12    1     1         1
+
+S3724S-8T6X-EI    2     2    2        12    2     1         1
+
+S3724S-8T6X-SI    2     /    /        12    1     1         1
+
+S3708P-2X-SI      2     /    /        12    1     1         1
+
+
+
+
+                                 10
+S3700系列交换机                                  产品规格书
+
+
+
+关于           :
+
+        成立于2015年,是一家专业从事开发交换机产品的技术型公司,全系列交换机均
+基于国产交换芯片。随着芯片技术的不断发展,HOHUNET推出了一系列基于该芯片平台的
+差异化产品。目前,公司产品线覆盖1G到800G,可用于企业网、运营商网、数据中心、AI计
+算等场景。目前公司主要合作模式为OEM/ODM,致力于为客户提供灵活的端到端定制产
+品和技术咨询服务。成为客户最值得信赖的商业伙伴一直是公司的使命和原则。
+
+
+
+
+联系我们：
+深圳市浩湖网络技术有限公司
+
+总部地址：中国广东省深圳市南山区深南大道9996号李宁中心11楼
+商务合作：business@hohunet.com
+官方电话：0086-755-26418565
+官方网址: www.hohunet.cn
+
+
+
+
+深圳市浩湖网络技术有限公司版权所有。HOHUNET是深圳市浩湖有限有限公司在中国和其他国家的注册商
+标。HOHUNET对本文档中的任何不准确之处不承担任何责任。HOHUNET保留变更、修正、转让或以其他
+方式修改本出版物的权利,恕不另行通知。
+

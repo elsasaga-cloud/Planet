@@ -1,0 +1,278 @@
+S7600系列交换机产品规格书
+高性能数据中心交换机
+
+文档版本：V1.1
+发布日期：2026/5/29
+
+
+产品简介
+S7600系列交换机是通过PeakNetX芯片平台
+以及BigFlow芯片平台构建的高性能高密度
+交换机，支持50G、25G高速率端口，拥有
+丰富的三层特性，例如BGP、EVPN、IPv6、
+VxLAN等，满足Spine-Leaf全三层网络架构
+设计要求，适用于数据中心应用场景。
+
+
+
+关键特性
+l 支持MPLS特性(包括L2/L3 VPN)，帮助企业构建统一融合的网络平台。
+l 支持MLAG，跨设备链路聚合技术，实现设备级冗余，灵活组网可靠性强。
+l 支持VxLAN和BGP协议，构建数据中心场景下的EVPN应用。
+l 支持交换机到交换机使用MACsec或AES-CMAC进行加密功能。
+l 支持Precision Timing协议。
+l 丰富的L2/L3特性，例如IPv6、OSPF、BGP、PIM等等。
+
+S7600系列交换机支持冗余可插拔电源，冗余可插拔风扇模块。一般情况下为前后风向
+（AFO），特殊情况下可定制为后前风向（AFI）。
+
+
+
+
+表 1：电源和风扇
+
+      型号         AC   DC   AFO   AFI   电源类型    风扇类型
+
+   S7648-8B-EI   ●    ○      ●   ○     热插拔模组   热插拔模组
+
+
+
+
+● 默认配置；○ 可定制；X 不支持。
+                             1
+S7600系列交换机                                   产品规格书
+
+
+出色的管理特性
+S7600系列交换机支持丰富的管理接口，包括Console、带内网口和带外网口、USB口；支
+持SNMPv1/v2/v3，支持CLI命令行，Web网管，TELNET及FTP配置，支持OAM，使设备管
+理更方便，并且支持SSH2.0、SSL等加密方式，使得管理更加安全。
+此外，HOHUNET依靠深厚的技术积累和对园区及企业网络需求的深入理解，推出大湖云
+维平台（DHCS），可以提高网络管理和维护效率，降低成本，提升网络管理的智能化水
+平，让网络更加快速、智能、安全、可靠化，更好地服务于用户的需求。
+
+
+
+
+可视化Web界面
+HOS支持可视化Web界面，可实现快速配置，降低用户操作门槛。
+
+
+
+
+                         2
+S7600系列交换机                                                          产品规格书
+
+
+
+硬件参数
+
+表 2：硬件一览表
+
+      型号                  以太网口           管理口             电源数量       风扇数量
+
+
+                     48×50G SFP56   串口：RJ45 to DB9
+   S7648-8B-EI       8×100G         MGMT：1G RJ45         2×800W       4
+                     QSFP28         存储：USB
+
+
+
+
+ 交换容量（双向）                                包转发率
+ l S7648-8B-EI: 6.4Tbps                  l S7648-8B-EI: 1.82 BPPS
+
+
+
+
+ 温度告警                                     CPU
+ l 告警值：50℃                                l Dualcore，ARM A53（1GHz）
+
+
+
+
+ 环境参数                                     Memory
+ l 运行温度：0℃ to 45℃                         l eMMc：8GB
+ l 存储温度：-40℃ to 70℃                       l DRAM：2GB
+ l 运行湿度：10% to 90%（无冷凝）
+ l 存储湿度：0 to 95%（无冷凝）
+ l 工作海拔：≤5000m
+
+
+
+
+                                     3
+S7600系列交换机                                                 产品规格书
+
+
+功耗（满载/典型）                         MTBF
+l S7648-8B-EI: TBD                l S7648-8B-EI: ≥90000h
+
+
+
+
+设备尺寸（宽×高×深）                       外箱尺寸（宽×高×深）
+l S7648-8B-EI: 440x4.4x47cm       l S7648-8B-EI: TBD
+
+
+
+
+重量（净重/毛重）                         最大风量
+l S7648-8B-EI: 9KG/TBD            l S7648-8B-EI: TBD
+
+
+
+
+典型噪声值
+l S7648-8B-EI: TBD
+
+
+
+
+                              4
+S7600系列交换机                                                                                          产品规格书
+
+
+软件参数
+HOHUNET拥有统一的软件平台，设备支持的软件功能详见“HOS 软件功能列表”。
+
+  Integrated Management Interface (CLl, SNMP,WEB, RMON ,RPC-API , Netconf,etc)
+
+
+                                      HOS Network Platform
+
+       Layer 2 switching                 IPv4/lPv6 Unicast Routing                        QoS
+
+
+  IP Multicast Snooping/Proxy           IPv4/lPv6 Multi cast Routing                      VRRP
+
+      Multi protocol Label                     Virtual Private LAN
+                                                                              Virtual Routing and Switching
+       Switching(MPLS)                            Service(VPLS)
+
+   Generalized Multi protocol                   IPv6 Tunneling and
+                                                                                     IP/MPLS OAM
+    Label Switching(GMPLS)                    TransitionTechnologies
+
+
+  Service management module                   Fault Managemet (FM)                High Availability (HA)
+
+
+
+                             Hardware and platform abstraction layer
+
+
+          Advanced integration Suite                                   Operating Systems TCP/IP Stacks
+
+           CENTEC swtich chip SDK
+
+                                                                         Linux , IPv4/Pv6 Dual Stack
+      Silicon in Pizza, Stacking or Chassis
+                  Configuration
+
+
+
+                                              Hardware layer
+
+            CENTEC Switch Chipset                                             CPU Subsystem
+
+              Cooling SubSystem                                             AC/DC DC/DC CLK
+
+    Environmental Management Subsystem                                    Logical Control Subunit
+
+
+
+
+* 归一化的软件平台
+* 统一的软件版本迭代
+* 统一的用户体验
+
+
+
+                                                       5
+S7600系列交换机                                               产品规格书
+
+
+订购信息
+
+
+
+交换机
+
+      型号                               描述
+
+                   50G数据中心交换机，48×50G SFP28，8×100G QSFP28，2×可插
+  S7648-8B-EI
+                   拔电源模组（C13），4×可插拔风扇模组。
+
+
+
+
+AC/DC电源
+       事项                               描述
+
+                    800W AC电源（前后风向）
+  PSU-800-AC-AFO
+                    输入：100–240V AC；输出：12V DC，66.7A Max
+
+
+
+
+软件许可证
+
+       事项                               描述
+
+      License       MS，全三层软件许可证，预安装。
+
+      License       MA，城域网软件许可证。
+
+      License       ST，堆叠软件许可证。
+
+
+
+
+                                6
+S7600系列交换机                                             产品规格书
+
+
+附件信息
+                     后挂耳   后挂耳      M4                  串口线
+    型号         前挂耳                       电源线   接地线
+                      导轨    滑轨      螺丝               (RJ45 to DB9)
+
+ S7648-8B-EI    2     2     2       12    2     1         1
+
+
+
+
+                                7
+S7600系列交换机                                  产品规格书
+
+
+
+关于           :
+
+        成立于2015年，是一家专业从事开发交换机产品的技术型公司，全系列交换机
+均基于国产交换芯片。随着芯片技术的不断发展，HOHUNET推出了一系列基于该芯片平
+台的差异化产品。目前，公司产品线覆盖1G到800G，可用于企业网、运营商网、数据中
+心、AI计算等场景。目前公司主要合作模式为OEM/ODM，致力于为客户提供灵活的端到
+端定制产品和技术咨询服务。成为客户最值得信赖的商业伙伴一直是公司的使命和原则。
+
+
+
+
+联系我们：
+深圳市浩湖网络技术有限公司
+
+总部地址：中国广东省深圳市南山区深南大道9996号李宁中心11楼
+商务合作：business@hohunet.com
+官方电话：0086-755-26418565
+官方网址: www.hohunet.cn
+
+
+
+
+深圳市浩湖网络技术有限公司版权所有。HOHUNET是深圳市浩湖有限有限公司在中国和其他国家的注册商
+标。HOHUNET对本文档中的任何不准确之处不承担任何责任。HOHUNET保留变更、修正、转让或以其他
+方式修改本出版物的权利，恕不另行通知。
+
