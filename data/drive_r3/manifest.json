@@ -1284,12 +1284,14 @@
 "todo":1461,
 "workers":6,
 "backup":true,
-"ocr":true
+"ocr":true,
+"finished":"2026-10-22T12:33:34Z",
+"processed":1461
 }
 ],
 "files_total_in_index":1461,
 "index_source":"Google Drive（Elsa 账号）第三轮：SmartByte/CENTEC/Realtek 之外剩余的全部根文件夹 《Saga Telecom Resource Library》(id 1YyJDq-YRG680Z7_HhzCQo_X8GwOM0Ijp)；《MUST KNOW》(id 1mMMqbA3-kS697R-O5aehCLKrzL7b_Dpw)；《Marvell Based Industrial Managed Switch》(id 18wELd5rPvpYWkcJHD-P9qEMrL0tCSmhn)；《Marvell Based Industrial Unmanaged Switch》(id 1i0qtbohGJXpaLzUYj4Kr682JMpil2H6u)；《Marvell Based Commercial Managed Switch》(id 1P8-2u6TkNK2Fu98bv92SNd73WbXkyl2L)；《Anda Telecom 共享（副本，供入库）》(id 1Wuujl_clSr085L7NUgaEeHPM8-ni5ZoL)",
-"updated_at":"2026-10-22T12:33:33Z",
+"updated_at":"2026-10-22T12:33:34Z",
 "files_in_manifest":1461,
 "status_counts":{
 "ok":183,
