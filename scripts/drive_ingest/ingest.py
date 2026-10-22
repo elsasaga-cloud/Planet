@@ -1516,8 +1516,8 @@ def main():
 
 
 def maybe_dispatch_run_file():
-    """RUN 文件里若有 `JOB=gmail`（KEY=VALUE 行），把本次运行转交给 scripts/gmail_ingest/ingest.py（复用同一 workflow，
-    无需再另存新的 workflow 文件）。RUN 里的 KEY=VALUE 覆盖 workflow 传入的环境变量；Drive 专用变量不下传。"""
+    """RUN 文件里若有 `JOB=gmail` / `JOB=files`（KEY=VALUE 行），把本次运行转交给 scripts/gmail_ingest/ingest.py /
+    scripts/drive_ingest/files_job.py（复用同一 workflow，无需再另存新的 workflow 文件）。RUN 里的 KEY=VALUE 覆盖 workflow 传入的环境变量；Drive 专用变量不下传。"""
     run_file = os.environ.get('RUN_FILE') or os.path.join(ROOT, 'scripts', 'drive_ingest', 'RUN')
     try:
         lines = open(run_file, encoding='utf-8').read().splitlines()
@@ -1530,14 +1530,17 @@ def maybe_dispatch_run_file():
             continue
         k, v = ln.split('=', 1)
         kv[k.strip().upper()] = v.strip().strip('"').strip("'")
-    if kv.pop('JOB', '').lower() != 'gmail':
+    job = kv.pop('JOB', '').lower()
+    scripts = {'gmail': os.path.join(ROOT, 'scripts', 'gmail_ingest', 'ingest.py'),
+               'files': os.path.join(ROOT, 'scripts', 'drive_ingest', 'files_job.py')}
+    if job not in scripts:
         return
     env = dict(os.environ)
     for k in ('COMMIT_EVERY', 'ONLY_FOLDERS', 'ONLY_TYPES', 'WORKERS', 'INDEX', 'OUT_DIR', 'LOCAL_DIR', 'SOURCE_RELEASE', 'OCR', 'LIMIT', 'FORCE'):
         env.pop(k, None)
     env.update(kv)
-    script = os.path.join(ROOT, 'scripts', 'gmail_ingest', 'ingest.py')
-    log('RUN says JOB=gmail → dispatch to', script, json.dumps({k: (v if k != 'SOURCE_IDS' else v[:60]) for k, v in kv.items()}))
+    script = scripts[job]
+    log(f'RUN says JOB={job} → dispatch to', script, json.dumps({k: (v if k != 'SOURCE_IDS' else v[:60]) for k, v in kv.items()}))
     sys.stdout.flush()
     os.execve(sys.executable, [sys.executable, script], env)
 
