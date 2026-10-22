@@ -1,0 +1,26 @@
+{
+"id":"1QZKdEzucgAtx1KJ3_KwY38pqmP-n_YSd",
+"name":"4.jpg",
+"path":"Realtek Based Commercial Switch/Commercial Ethernet Switch/STC-248GE/4.jpg",
+"type":"图片",
+"bytes":2414305,
+"sha256":"cd398b84eca903af81eae4ea6393ade83f7b9c61a082a7af4956f4002d4fa173",
+"extracted_at":"2026-10-22T08:45:07Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":3456,
+"mode":"RGB",
+"datetime":"2023:06:05 15:55:24",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":2338
+},
+"ocr":{
+"text":"6\nce)\nAC INPUT 100-240V",
+"conf":71.8
+},
+"text":"6\nce)\nAC INPUT 100-240V"
+}

@@ -1,0 +1,26 @@
+{
+"id":"1uNF5-VphEQzuGAxvCnmjwLvCjjeLLZrg",
+"name":"2.jpg",
+"path":"Realtek Based Commercial Switch/Commercial Ethernet Switch/STC-224XGDGE/2.jpg",
+"type":"图片",
+"bytes":1407030,
+"sha256":"c3c430d54ec870a1076ed53767a6878b5102747829f5a26090b5c7ffa0d3c719",
+"extracted_at":"2026-10-22T08:45:04Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":3456,
+"mode":"RGB",
+"datetime":"2023:06:15 15:14:59",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":4306
+},
+"ocr":{
+"text":"ethernet switch\n2.56",
+"conf":86.8
+},
+"text":"ethernet switch\n2.56"
+}

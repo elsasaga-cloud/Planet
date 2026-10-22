@@ -1,0 +1,26 @@
+{
+"id":"1OTGw-rFqTWKYtAaeZMYe-Xk1nuvA-e24",
+"name":"4.jpg",
+"path":"Realtek Based Commercial Switch/Commercial Ethernet Switch/STC-08XGE/4.jpg",
+"type":"图片",
+"bytes":469227,
+"sha256":"d1e56907d2de76ff2adc01d7e8fa5d777cd43bc69753bfcf463fb1c34a450818",
+"extracted_at":"2026-10-22T08:44:50Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":3456,
+"mode":"RGB",
+"datetime":"2023:03:21 18:22:21",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":2667
+},
+"ocr":{
+"text":"@ 4\n©\nAC INPUT 100-",
+"conf":85.8
+},
+"text":"@ 4\n©\nAC INPUT 100-"
+}

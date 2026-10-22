@@ -1,0 +1,328 @@
+{
+"id":"1CGmjSBVhMx8QOlrKqCyLJmz2X4RtQgeq",
+"name":"STC-15XGDGE.docx",
+"path":"Realtek Based Commercial Switch/Commercial Ethernet Switch/STC-15XGDGE.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":722865,
+"sha256":"0fa8b91389cb75bef58969b89dcd608e4e4bc8cd57d1e12a4124f8a3026564d2",
+"extracted_at":"2026-10-22T08:44:24Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":3759,
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2025-11-04T12:33:00+00:00",
+"modified":"2026-06-22T12:30:39+00:00",
+"paragraphs":40,
+"tables":1,
+"embedded_images":5
+},
+"warnings":[],
+"text":"Introduction\nIt adopts high-quality and high-speed network intelligent chip and completely solves the noise problem of small switches in the office environment through the fan-less mute design\nThis switch has 5*2.5G RJ45 ports and 1*10G SFP port enjoying\nseamless connection for 10/100/1000M/2.5G Ethernet\neasy to manage and maintain\nIt can be widely used in security network video surveillance, hotel, campus, small and medium-sized enterprise network engineering and other occasions\nKey Features\n5* 2.5G RJ45 ports+1* 10G SFP  port\nComply with IEEE 802.3, IEEE802.3u, IEEE 802.3ab, IEEE 802.3bz,  IEEE 802.3ae, IEEE 802.3x\nEthernet ports support 10/100/1000M/2.5G self-adaptive\nSupport port Auto MDI/MDIX\nPanel indicator lights monitor working status and help failure analysis\nFlow control mode, full duplex adopts IEEE802.3x standard, half duplex adopts Back pressure standard\nSupport surge protection: common mode 6KV; ESD Air 8KV, contact 6KV\nSpecification\nProduct Name\t6 Port Hybrid Rate Ethernet Switch\nPort\t5*2.5G RJ45 Ports(Support MDI/MDIX, auto-sensing) / 1*10G SFP Port\nSwitching Capacity\t45Gbps\nThroughput\t33.48Mpps\nMAC Address\t4K\nJumbo Frame\t12Kbytes\nVLAN\t4096\nTransfer Mode\tStore and forward\nMTBF\t100000 hours\nNetwork Protocol\tIEEE802.3(Ethernet) / IEEE802.3u(Fast Ethernet) / IEEE802.3ab(Gigabit Ethernet) / IEEE 802.3bz(5G Ethernet) / IEEE 802.3z(Gigabit Ethernet) / IEEE 802.3ae(10G Ethernet) / IEEE802.3x(Flow control)\nIndustry Standard\tEMI: FCC Part 15, CISPR(EN55032) class A / EMS: EN61000-4-2(ESD) / EN61000-4-5(Surge)\nNetwork Medium\t10Base-T: Cat3, 4, 5 or above UTP(≤100m) / 100Base-TX: Cat5 or above UTP(≤100m) / 1000Base-TX: Cat5 or above UTP(≤100m)\nOptical Medium\tMulti mode: 50/125, 62.5/125, 100/140um / Single mode: 8/125, 8.7/125, 9/125, 10/125um\nCertification\tCE/FCC/RoHS\nWorking Environment\tWorking Temperature: -10℃~50℃ / Storage Temperature: -40℃~70℃ / Working Humidity: 10%~90%, non-condensing / Storage Temperature: 5%~95%, non-condensing\nInput Voltage\tDC12V1A\nLED Indicators\tPWR(Power indicator) / On: power on\nOff: no power / 1-5 Port green light / On: 2.5G Link connect normal / Off: Link off / Flashing: data transmitting / 1-5 Port yellow light / On: 10/100/1000M Link connect normal / Off: Link off / Flashing: data transmitting / 6 Port green light / On: 10G Link connect normal / Off: Link off / Flashing: data transmitting\nApplication\nAny network utilizing a mixture of copper and fiber\nIP-based Communication\nVehicle Network Solution\nPacking Information\n1pc switch(neutral device)\n1pc power adapter(standards vary across countries)\n1pc user manual(including QIG information)\nPlease know that there is NOT a warranty card in the packing box\nA “Warranty Certificate” will be issued to indicate the order information and warranty coverage\nShipping box information(Below information is approximately accurate)\nProduct size: 140*93*28mm\nInner box size: 203*160*55mm\nProduct weight: 0.33Kg\nPacking weight: 0.46Kg\nMaster box size: 580*335*445mm\nPacking quantity: 40Pcs\nPacking weight: 19.5Kg\nRemark\nAccessories(Optical module, network cable, patchcord etc.)are NOT included in the packing box\nPlease prepare it by yourself or purchase a whole set from us\nPower adapter is included in BOTH the packing box AND unit pricing\nProduct Picture\nRemark\nPlease let us know if you need to check the PCBs\n[页眉页脚]\nRealtek Commercial Ethernet Series                                                                                                             Saga Telecom\n2026/Q3                                                                                                                                     www.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Introduction"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It adopts high-quality and high-speed network intelligent chip and completely solves the noise problem of small switches in the office environment through the fan-less mute design"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This switch has 5*2.5G RJ45 ports and 1*10G SFP port enjoying"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"seamless connection for 10/100/1000M/2.5G Ethernet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"easy to manage and maintain"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It can be widely used in security network video surveillance, hotel, campus, small and medium-sized enterprise network engineering and other occasions"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Key Features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"5* 2.5G RJ45 ports+1* 10G SFP  port"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Comply with IEEE 802.3, IEEE802.3u, IEEE 802.3ab, IEEE 802.3bz,  IEEE 802.3ae, IEEE 802.3x"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ethernet ports support 10/100/1000M/2.5G self-adaptive"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support port Auto MDI/MDIX"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Panel indicator lights monitor working status and help failure analysis"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Flow control mode, full duplex adopts IEEE802.3x standard, half duplex adopts Back pressure standard"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support surge protection: common mode 6KV; ESD Air 8KV, contact 6KV"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"Product Name",
+"6 Port Hybrid Rate Ethernet Switch"
+],
+[
+"Port",
+"5*2.5G RJ45 Ports(Support MDI/MDIX, auto-sensing) / 1*10G SFP Port"
+],
+[
+"Switching Capacity",
+"45Gbps"
+],
+[
+"Throughput",
+"33.48Mpps"
+],
+[
+"MAC Address",
+"4K"
+],
+[
+"Jumbo Frame",
+"12Kbytes"
+],
+[
+"VLAN",
+"4096"
+],
+[
+"Transfer Mode",
+"Store and forward"
+],
+[
+"MTBF",
+"100000 hours"
+],
+[
+"Network Protocol",
+"IEEE802.3(Ethernet) / IEEE802.3u(Fast Ethernet) / IEEE802.3ab(Gigabit Ethernet) / IEEE 802.3bz(5G Ethernet) / IEEE 802.3z(Gigabit Ethernet) / IEEE 802.3ae(10G Ethernet) / IEEE802.3x(Flow control)"
+],
+[
+"Industry Standard",
+"EMI: FCC Part 15, CISPR(EN55032) class A / EMS: EN61000-4-2(ESD) / EN61000-4-5(Surge)"
+],
+[
+"Network Medium",
+"10Base-T: Cat3, 4, 5 or above UTP(≤100m) / 100Base-TX: Cat5 or above UTP(≤100m) / 1000Base-TX: Cat5 or above UTP(≤100m)"
+],
+[
+"Optical Medium",
+"Multi mode: 50/125, 62.5/125, 100/140um / Single mode: 8/125, 8.7/125, 9/125, 10/125um"
+],
+[
+"Certification",
+"CE/FCC/RoHS"
+],
+[
+"Working Environment",
+"Working Temperature: -10℃~50℃ / Storage Temperature: -40℃~70℃ / Working Humidity: 10%~90%, non-condensing / Storage Temperature: 5%~95%, non-condensing"
+],
+[
+"Input Voltage",
+"DC12V1A"
+],
+[
+"LED Indicators",
+"PWR(Power indicator) / On: power on\nOff: no power / 1-5 Port green light / On: 2.5G Link connect normal / Off: Link off / Flashing: data transmitting / 1-5 Port yellow light / On: 10/100/1000M Link connect normal / Off: Link off / Flashing: data transmitting / 6 Port green light / On: 10G Link connect normal / Off: Link off / Flashing: data transmitting"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Application"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Any network utilizing a mixture of copper and fiber"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IP-based Communication"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Vehicle Network Solution"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Packing Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc switch(neutral device)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc power adapter(standards vary across countries)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc user manual(including QIG information)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that there is NOT a warranty card in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A “Warranty Certificate” will be issued to indicate the order information and warranty coverage"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipping box information(Below information is approximately accurate)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product size: 140*93*28mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Inner box size: 203*160*55mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product weight: 0.33Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 0.46Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Master box size: 580*335*445mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing quantity: 40Pcs"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 19.5Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Accessories(Optical module, network cable, patchcord etc.)are NOT included in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please prepare it by yourself or purchase a whole set from us"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Power adapter is included in BOTH the packing box AND unit pricing"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Product Picture"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please let us know if you need to check the PCBs"
+}
+],
+"header_footer":[
+"Realtek Commercial Ethernet Series                                                                                                             Saga Telecom",
+"2026/Q3                                                                                                                                     www.sagatelecom.com.cn",
+"Tailored Managed Networking Solutions Provider",
+"Built to Last, Continuous Supply, Evolving Together"
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":176566
+},
+{
+"name":"image2.png",
+"bytes":80609
+},
+{
+"name":"image3.png",
+"bytes":159529
+},
+{
+"name":"image4.png",
+"bytes":266526
+}
+]
+}

@@ -1,0 +1,22 @@
+{
+"id":"1WO5BlmoOj114psOxy3xRZxSy2Z8z7oTG",
+"name":"4.png",
+"path":"Realtek Based Commercial Switch/Commercial Ethernet Switch/STC-016GE/4.png",
+"type":"图片",
+"bytes":2652990,
+"sha256":"4b5ae318d7cf73c4e7836a5a26b76c9f455f15f0cd1a0f44529fd1aa17075d1c",
+"extracted_at":"2026-10-22T08:44:31Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5156,
+"height":3437,
+"mode":"RGBA",
+"thumb_bytes":2553
+},
+"ocr":{
+"text":"二\nA\n= AC INPUT 100-240V",
+"conf":78.6
+},
+"text":"二\nA\n= AC INPUT 100-240V"
+}

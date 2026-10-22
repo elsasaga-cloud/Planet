@@ -1,0 +1,351 @@
+{
+"id":"1o6W-4XKn6LbAj0spur6jqVXvWRkmoBul",
+"name":"STC-08XGE.docx",
+"path":"Realtek Based Commercial Switch/Commercial Ethernet Switch/STC-08XGE.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":289206,
+"sha256":"679d50338da639a43d358824ab1f702210c01fccd900878cb45f05a630967b5c",
+"extracted_at":"2026-10-22T08:44:23Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":3854,
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2025-11-04T12:33:00+00:00",
+"modified":"2026-06-22T12:30:54+00:00",
+"paragraphs":43,
+"tables":1,
+"embedded_images":5
+},
+"warnings":[],
+"text":"Introduction\nIt adopts a storage and forwarding mechanism, and internally integrates a high capacity cache to ensure that all ports can achieve 10G non-blocking line speed forwarding for more emergency situations\nWith a durable and high strength fan steel shell design, the efficient heat dissipation ensures stable operation\nThis switch has 8*10 Gigabit RJ45 ports enjoying\nseamless connection for 10/100/1000/2500M/5G/10G Ethernet\neasy to manage and maintain\nIt can be widely used in security network video surveillance, hotel, campus, small and medium-sized enterprise network engineering and other occasions\nKey Features\n8*10G Ethernet ports\nSupport IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3 bz, IEEE 802.3 ae, IEEE 802.3. x, IEEE 802.3az\nEthernet ports support 100/1000M/2500M/5G/10G self-adaptive\nSupport port automatic MDI/MDIX\nPanel indicators monitor operating conditions and assist in fault analysis\nFlow control mode, IEEE802.3x standard for full duplex, and back pressure standard for half duplex\nSupport surge protection: common mode 6KV; ESD Air 8KV, contact 6KV\nSpecification\nProduct Name\t8 Port 10G Ethernet Switch\nPort\t8x100/1000M/2.5G/5G/10G UTP RJ45(Support MDI/MDIX, auto-sensing)\nSwitching Capacity\t160Gbps\nThroughput\t119.04Mpps\nRAM\t128MByte\nFlash Memory\t16MByte\nMemory Cache\t12MBit\nMAC Address\t16K\nJumbo Frame\t12Kbytes\nTransfer Mode\tStore and forward\nMTBF\t100000 hours\nNetwork Protocol\tIEEE802.3(Ethernet) / IEEE802.3u(Fast Ethernet) / IEEE 802.3ab(Gigabit Ethernet) / IEEE 802.3az(Efficient and energy-saving Ethernet) / IEEE 802.3ae(10G Ethernet) / IEEE802.3x(Flow control) / IEEE802.3 bz(2.5G/5G Ethernet standard)\nIndustry Standard\tEMI: FCC Part 15, CISPR(EN55032)class A / EMS: EN61000-4-2(ESD) / EN61000-4-5(Surge)\nNetwork Medium\t10Base-T: Cat3, 4, 5 or above UTP(≤100m) / 100Base-TX: Cat5 or above UTP(≤100m) / 1000Base-TX: Cat5 or above UTP(≤100m)\nCertification\tCE/FCC/RoHS\nWorking Environment\tWorking Temperature: -10℃~50℃ / Storage Temperature: -40℃~70℃ / Working Humidity: 10%~90%, non-condensing / Storage Temperature: 5%~95%, non-condensing\nInput Voltage\tAC100-240V, Single Power Input / Internal DC12V8A Converter\nPower Consumption\t＜38.6W\nLED Indicators\tPWR(Power indicator) / On: power on\nOff: no power / Port LED light (green) / On: 5G/10G link connection is normal / Flashing: Data transmission is normal / Off:  Link not working / Port LED (yellow) / On: 100/1000M link connection is normal / Flashing: Data transmission is normal / Off: Link not working\nApplication\nIP-based Communication\nVehicle Network Solution\nDimension\nRemark\nPlease contact us if the source file is needed\nPacking Information\n1pc switch(neutral device)\n1pc power cable(standards vary across countries)\n1pc user manual(including QIG information)\n1pair mounting brackets(rack mountable)\nPlease know that there is NOT a warranty card in the packing box\nA “Warranty Certificate” will be issued to indicate the order information and warranty coverage\nShipping box information(Below information is approximately accurate)\nProduct size: 320*207*44.5mm\nInner box size: 370*290*85mm\nProduct weight: 1.72Kg\nPacking weight: 2.12Kg\nMaster box size: 445*310*390mm\nPacking quantity: 5Pcs\nPacking weight: 11.6Kg\nRemark\nAccessories(Network cable etc.)are NOT included in the packing box\nPower cable is included in BOTH the packing box AND unit pricing\nProduct Picture\nRemark\nPlease let us know if you need to check the PCBs\n[页眉页脚]\nRealtek Commercial Ethernet Series                                                                                                             Saga Telecom\n2026/Q3                                                                                                                                      www.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Introduction"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It adopts a storage and forwarding mechanism, and internally integrates a high capacity cache to ensure that all ports can achieve 10G non-blocking line speed forwarding for more emergency situations"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"With a durable and high strength fan steel shell design, the efficient heat dissipation ensures stable operation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This switch has 8*10 Gigabit RJ45 ports enjoying"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"seamless connection for 10/100/1000/2500M/5G/10G Ethernet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"easy to manage and maintain"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It can be widely used in security network video surveillance, hotel, campus, small and medium-sized enterprise network engineering and other occasions"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Key Features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8*10G Ethernet ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3 bz, IEEE 802.3 ae, IEEE 802.3. x, IEEE 802.3az"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ethernet ports support 100/1000M/2500M/5G/10G self-adaptive"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support port automatic MDI/MDIX"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Panel indicators monitor operating conditions and assist in fault analysis"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Flow control mode, IEEE802.3x standard for full duplex, and back pressure standard for half duplex"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support surge protection: common mode 6KV; ESD Air 8KV, contact 6KV"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"Product Name",
+"8 Port 10G Ethernet Switch"
+],
+[
+"Port",
+"8x100/1000M/2.5G/5G/10G UTP RJ45(Support MDI/MDIX, auto-sensing)"
+],
+[
+"Switching Capacity",
+"160Gbps"
+],
+[
+"Throughput",
+"119.04Mpps"
+],
+[
+"RAM",
+"128MByte"
+],
+[
+"Flash Memory",
+"16MByte"
+],
+[
+"Memory Cache",
+"12MBit"
+],
+[
+"MAC Address",
+"16K"
+],
+[
+"Jumbo Frame",
+"12Kbytes"
+],
+[
+"Transfer Mode",
+"Store and forward"
+],
+[
+"MTBF",
+"100000 hours"
+],
+[
+"Network Protocol",
+"IEEE802.3(Ethernet) / IEEE802.3u(Fast Ethernet) / IEEE 802.3ab(Gigabit Ethernet) / IEEE 802.3az(Efficient and energy-saving Ethernet) / IEEE 802.3ae(10G Ethernet) / IEEE802.3x(Flow control) / IEEE802.3 bz(2.5G/5G Ethernet standard)"
+],
+[
+"Industry Standard",
+"EMI: FCC Part 15, CISPR(EN55032)class A / EMS: EN61000-4-2(ESD) / EN61000-4-5(Surge)"
+],
+[
+"Network Medium",
+"10Base-T: Cat3, 4, 5 or above UTP(≤100m) / 100Base-TX: Cat5 or above UTP(≤100m) / 1000Base-TX: Cat5 or above UTP(≤100m)"
+],
+[
+"Certification",
+"CE/FCC/RoHS"
+],
+[
+"Working Environment",
+"Working Temperature: -10℃~50℃ / Storage Temperature: -40℃~70℃ / Working Humidity: 10%~90%, non-condensing / Storage Temperature: 5%~95%, non-condensing"
+],
+[
+"Input Voltage",
+"AC100-240V, Single Power Input / Internal DC12V8A Converter"
+],
+[
+"Power Consumption",
+"＜38.6W"
+],
+[
+"LED Indicators",
+"PWR(Power indicator) / On: power on\nOff: no power / Port LED light (green) / On: 5G/10G link connection is normal / Flashing: Data transmission is normal / Off:  Link not working / Port LED (yellow) / On: 100/1000M link connection is normal / Flashing: Data transmission is normal / Off: Link not working"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Application"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IP-based Communication"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Vehicle Network Solution"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Dimension"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please contact us if the source file is needed"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Packing Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc switch(neutral device)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc power cable(standards vary across countries)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc user manual(including QIG information)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pair mounting brackets(rack mountable)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that there is NOT a warranty card in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A “Warranty Certificate” will be issued to indicate the order information and warranty coverage"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipping box information(Below information is approximately accurate)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product size: 320*207*44.5mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Inner box size: 370*290*85mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product weight: 1.72Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 2.12Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Master box size: 445*310*390mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing quantity: 5Pcs"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 11.6Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Accessories(Network cable etc.)are NOT included in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Power cable is included in BOTH the packing box AND unit pricing"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Product Picture"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please let us know if you need to check the PCBs"
+}
+],
+"header_footer":[
+"Realtek Commercial Ethernet Series                                                                                                             Saga Telecom",
+"2026/Q3                                                                                                                                      www.sagatelecom.com.cn",
+"Tailored Managed Networking Solutions Provider",
+"Built to Last, Continuous Supply, Evolving Together"
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":60514
+},
+{
+"name":"image2.png",
+"bytes":37554
+},
+{
+"name":"image3.png",
+"bytes":109709
+},
+{
+"name":"image4.png",
+"bytes":41740
+}
+]
+}

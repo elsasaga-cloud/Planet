@@ -1,0 +1,26 @@
+{
+"id":"1-ek1KUi36F99cbeULfYnos14AUyqAste",
+"name":"3.jpg",
+"path":"Realtek Based Commercial Switch/Commercial Ethernet Switch/STC-224GE/3.jpg",
+"type":"图片",
+"bytes":1851966,
+"sha256":"bd866ea1fed78bacf4667dd65e47a3039e3d6249800e4a8aa8aebaae50f10f11",
+"extracted_at":"2026-10-22T08:45:01Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":3456,
+"mode":"RGB",
+"datetime":"2021:05:06 18:01:20",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":4869
+},
+"ocr":{
+"text":"Gigabit Unmanaged Switch",
+"conf":91.2
+},
+"text":"Gigabit Unmanaged Switch"
+}

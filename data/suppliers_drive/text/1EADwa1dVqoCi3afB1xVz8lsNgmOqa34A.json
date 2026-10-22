@@ -1,0 +1,26 @@
+{
+"id":"1EADwa1dVqoCi3afB1xVz8lsNgmOqa34A",
+"name":"1.jpg",
+"path":"Realtek Based Commercial Switch/Commercial Ethernet Switch/STC-80XGO/1.jpg",
+"type":"图片",
+"bytes":1494671,
+"sha256":"f8a89fb11cf3aeaafaf37da4602565c6f0f7689bd6d0020bf55793d85ab4f766",
+"extracted_at":"2026-10-22T08:45:09Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":3456,
+"mode":"RGB",
+"datetime":"2023:08:16 10:07:24",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":3043
+},
+"ocr":{
+"text":"(Speed Mode)1:Port1-8 10G/1G; 2: port1-8 10G/2.5G; 3:Port1-4 10G/1G Port5-8 106/2.56\n106 Link 1 10G Ethernet Switch\n2.5G/1G Link ap\n123\nSpeed Mode\n@ PWR @ SYS",
+"conf":75.8
+},
+"text":"(Speed Mode)1:Port1-8 10G/1G; 2: port1-8 10G/2.5G; 3:Port1-4 10G/1G Port5-8 106/2.56\n106 Link 1 10G Ethernet Switch\n2.5G/1G Link ap\n123\nSpeed Mode\n@ PWR @ SYS"
+}

@@ -1,0 +1,26 @@
+{
+"id":"17AQpgGYBZyTRWaDeYT4V1pJ2yQQafbwx",
+"name":"3.jpg",
+"path":"Realtek Based Commercial Switch/Commercial Ethernet Switch/STC-024GE-U/3.jpg",
+"type":"图片",
+"bytes":1211137,
+"sha256":"10d08bc537f54367ec5c90e690b1ed7933f1ea3f941cdc5b03a43c291d5bdf36",
+"extracted_at":"2026-10-22T08:44:45Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":3456,
+"mode":"RGB",
+"datetime":"2020:07:13 17:24:15",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC (Windows)",
+"thumb_bytes":4479
+},
+"ocr":{
+"text":"2 ap\nGenius Gigabit Switch\n24(Upling)",
+"conf":66.6
+},
+"text":"2 ap\nGenius Gigabit Switch\n24(Upling)"
+}

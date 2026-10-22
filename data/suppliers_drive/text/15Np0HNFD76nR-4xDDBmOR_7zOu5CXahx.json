@@ -1,0 +1,26 @@
+{
+"id":"15Np0HNFD76nR-4xDDBmOR_7zOu5CXahx",
+"name":"1.jpg",
+"path":"Realtek Based Commercial Switch/Commercial Ethernet Switch/STC-18XGDGE/1.jpg",
+"type":"图片",
+"bytes":1576274,
+"sha256":"58c813dfd5127de64c9cc66a8bc42785d61f5a1f02bc4347c09bb6aed1feaaf8",
+"extracted_at":"2026-10-22T08:44:54Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":5161,
+"height":3440,
+"mode":"RGB",
+"datetime":"2023:02:09 15:55:08",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":3527
+},
+"ocr":{
+"text":"9(10G)\n2.5G Link/Act 10/100/1000M Link/Act 2.5G Ethernet Switch",
+"conf":89.3
+},
+"text":"9(10G)\n2.5G Link/Act 10/100/1000M Link/Act 2.5G Ethernet Switch"
+}

@@ -1,0 +1,336 @@
+{
+"id":"1D6HslkJzz4NpnsdP3zVo1-IPQVaUUjZ4",
+"name":"STC-08GE.docx",
+"path":"Realtek Based Commercial Switch/Commercial Ethernet Switch/STC-08GE.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":692616,
+"sha256":"f87f98f4466bbbe6c3a158c3f95011808ea1c64c51d91fb052d780c336eebdda",
+"extracted_at":"2026-10-22T08:44:24Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":3173,
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2025-11-04T12:33:00+00:00",
+"modified":"2026-06-22T12:30:58+00:00",
+"paragraphs":40,
+"tables":1,
+"embedded_images":6
+},
+"warnings":[],
+"text":"Introduction\nIt adopts high-quality and high-speed network intelligent chip and completely solves the noise problem of small switches in the office environment through the fan-less mute design\nThis switch has 8 Gigabit RJ45 ports enjoying\nseamless connection for 10/100/1000M Ethernet\neasy to manage and maintain\nIt  can be widely used in security network video surveillance, hotel, campus, small and medium-sized enterprise network engineering and other occasions\nKey Features\n8*10/ 100/ 1000M RJ45 Ports\nApply to IEEE802.3, IEEE802.3u, IEEE802.3ab standard\nEthernet port supports 10/100/1000M adaptive\nSupport auto MDI/ MDIX\nPanel indicators to monitor working status and help fault analysis\nFlow control, full duplex adopts IEEE802.3x standard, half duplex adopts Back pressure standard\nSpecification\nProduct Name\t8 Port 10/100/1000Mbps Ethernet Switch\nPort\t8x10/100/1000M UTP RJ45(Support MDI/MDIX, auto-sensing)\nSwitching Capacity\t16Gbps\nThroughput\t11.9Mpps\nPacket Buffer\t4M\nMAC Address\t8K\nJumbo Frame\t16Kbytes\nVLAN\t4K\nTransfer Mode\tStore and forward\nMTBF\t100000 hours\nNetwork Protocol\tIEEE802.3(10Base-T) / IEEE802.3u(100Base-TX) / IEEE802.3ab(1000Base-TX) / IEEE802.3x(Flow control)\nIndustry Standard\tEMI: FCC Part 15, CISPR(EN55032)class A / EMS: EN61000-4-2(ESD) / EN61000-4-5(Surge)\nNetwork Medium\t10Base-T: Cat3, 4, 5 or above UTP(≤100m) / 100Base-TX: Cat5 or above UTP(≤100m) / 1000Base-TX: Cat5 or above UTP(≤100m)\nCertification\tCE/FCC/RoHS\nWorking Environment\tWorking Temperature: -10℃~50℃ / Storage Temperature: -40℃~70℃ / Working Humidity: 10%~90%, non-condensing / Storage Temperature: 5%~95%, non-condensing\nInput Voltage\tDC5V2A\nPower Consumption\t＜5W\nLED Indicators\tPWR(Power indicator) / On: power on\nOff: no power / Link(Network Link) / On: 10/100/1000M link connection is normal / Blinking: Data transmission is normal / Off: link failure\nApplication\nIP-based Communication\nVehicle Network Solution\nDimension\nRemark\nPlease contact us if the source file is needed\nPacking Information\n1pc switch(neutral device)\n1pc power adapter(standards vary across countries)\n1pc user manual(including QIG information)\nPlease know that there is NOT a warranty card in the packing box\nA “Warranty Certificate” will be issued to indicate the order information and warranty coverage\nShipping box information(Below information is approximately accurate)\nProduct size: 138*78*25mm\nInner box size: 175*120*63mm\nProduct weight: 0.24Kg\nPacking weight: 0.37Kg\nMaster box size: 520*335*380mm\nPacking quantity: 40Pcs\nPacking weight: 15.8Kg\nRemark\nAccessories(Network cable etc.)are NOT included in the packing box\nPower adapter is included in BOTH the packing box AND unit pricing\nProduct Picture\nRemark\nPlease let us know if you need to check the PCBs\n[页眉页脚]\nRealtek Commercial Ethernet Series                                                                                                             Saga Telecom\n2026/Q3                                                                                                                                      www.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Introduction"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It adopts high-quality and high-speed network intelligent chip and completely solves the noise problem of small switches in the office environment through the fan-less mute design"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This switch has 8 Gigabit RJ45 ports enjoying"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"seamless connection for 10/100/1000M Ethernet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"easy to manage and maintain"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It  can be widely used in security network video surveillance, hotel, campus, small and medium-sized enterprise network engineering and other occasions"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Key Features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8*10/ 100/ 1000M RJ45 Ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Apply to IEEE802.3, IEEE802.3u, IEEE802.3ab standard"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ethernet port supports 10/100/1000M adaptive"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support auto MDI/ MDIX"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Panel indicators to monitor working status and help fault analysis"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Flow control, full duplex adopts IEEE802.3x standard, half duplex adopts Back pressure standard"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"Product Name",
+"8 Port 10/100/1000Mbps Ethernet Switch"
+],
+[
+"Port",
+"8x10/100/1000M UTP RJ45(Support MDI/MDIX, auto-sensing)"
+],
+[
+"Switching Capacity",
+"16Gbps"
+],
+[
+"Throughput",
+"11.9Mpps"
+],
+[
+"Packet Buffer",
+"4M"
+],
+[
+"MAC Address",
+"8K"
+],
+[
+"Jumbo Frame",
+"16Kbytes"
+],
+[
+"VLAN",
+"4K"
+],
+[
+"Transfer Mode",
+"Store and forward"
+],
+[
+"MTBF",
+"100000 hours"
+],
+[
+"Network Protocol",
+"IEEE802.3(10Base-T) / IEEE802.3u(100Base-TX) / IEEE802.3ab(1000Base-TX) / IEEE802.3x(Flow control)"
+],
+[
+"Industry Standard",
+"EMI: FCC Part 15, CISPR(EN55032)class A / EMS: EN61000-4-2(ESD) / EN61000-4-5(Surge)"
+],
+[
+"Network Medium",
+"10Base-T: Cat3, 4, 5 or above UTP(≤100m) / 100Base-TX: Cat5 or above UTP(≤100m) / 1000Base-TX: Cat5 or above UTP(≤100m)"
+],
+[
+"Certification",
+"CE/FCC/RoHS"
+],
+[
+"Working Environment",
+"Working Temperature: -10℃~50℃ / Storage Temperature: -40℃~70℃ / Working Humidity: 10%~90%, non-condensing / Storage Temperature: 5%~95%, non-condensing"
+],
+[
+"Input Voltage",
+"DC5V2A"
+],
+[
+"Power Consumption",
+"＜5W"
+],
+[
+"LED Indicators",
+"PWR(Power indicator) / On: power on\nOff: no power / Link(Network Link) / On: 10/100/1000M link connection is normal / Blinking: Data transmission is normal / Off: link failure"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Application"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IP-based Communication"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Vehicle Network Solution"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Dimension"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please contact us if the source file is needed"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Packing Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc switch(neutral device)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc power adapter(standards vary across countries)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc user manual(including QIG information)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that there is NOT a warranty card in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A “Warranty Certificate” will be issued to indicate the order information and warranty coverage"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipping box information(Below information is approximately accurate)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product size: 138*78*25mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Inner box size: 175*120*63mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product weight: 0.24Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 0.37Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Master box size: 520*335*380mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing quantity: 40Pcs"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 15.8Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Accessories(Network cable etc.)are NOT included in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Power adapter is included in BOTH the packing box AND unit pricing"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Product Picture"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please let us know if you need to check the PCBs"
+}
+],
+"header_footer":[
+"Realtek Commercial Ethernet Series                                                                                                             Saga Telecom",
+"2026/Q3                                                                                                                                      www.sagatelecom.com.cn",
+"Tailored Managed Networking Solutions Provider",
+"Built to Last, Continuous Supply, Evolving Together"
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":232553
+},
+{
+"name":"image2.png",
+"bytes":25167
+},
+{
+"name":"image3.png",
+"bytes":242691
+},
+{
+"name":"image4.png",
+"bytes":125474
+},
+{
+"name":"image5.png",
+"bytes":27240
+}
+]
+}

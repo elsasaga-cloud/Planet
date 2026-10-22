@@ -1,0 +1,347 @@
+{
+"id":"1-h2hxV9DYS1TsJGz6zinAX7Y69OCTW1V",
+"name":"STC-024GE-U.docx",
+"path":"Realtek Based Commercial Switch/Commercial Ethernet Switch/STC-024GE-U.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":649039,
+"sha256":"b9659cb09db44133e2e951b252a38c9ba057e8d60a609eb548c4b996fe1ac847",
+"extracted_at":"2026-10-22T08:44:23Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":3551,
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2025-11-04T12:33:00+00:00",
+"modified":"2026-06-22T12:31:09+00:00",
+"paragraphs":43,
+"tables":1,
+"embedded_images":6
+},
+"warnings":[],
+"text":"Introduction\nIt adopts high-quality and high-speed network intelligent chip and completely solves the noise problem of small switches in the office environment through the fan-less mute design\nThis switch has 24 Gigabit RJ45 ports enjoying\nseamless connection for 10/100/1000M Ethernet\nthree working modes\none-key smart simple switching working mode\neasy to manage and maintain\nIt can be widely used in security network video surveillance, hotel, campus, small and medium-sized enterprise network engineering and other occasions\nKey Features\n24*10/ 100/ 1000M RJ45 Ports\nApply to IEEE802.3, IEEE802.3u, IEEE802.3ab standard\nEthernet port supports 10/100/1000M adaptive\nSupport auto MDI/ MDIX\nPanel indicators to monitor working status and help fault analysis\nOne-key smart switch, support VLAN, Default, Extend three modes\nFlow control, full duplex adopts IEEE802.3x standard, half duplex adopts Back pressure standard\nPort 1-8 supports QoS data priority\nSupport loop alarm\nSpecification\nProduct Name\t24 Port 10/100/1000Mbps Rack Type Ethernet Switch\nPort\t24x10/100/1000M UTP RJ45(Support MDI/MDIX, auto-sensing)\nSwitching Capacity\t48Gbps\nThroughput\t35.71Mpps\nPacket Buffer\t4M\nMAC Address\t8K\nJumbo Frame\t4Kbytes\nTransfer Mode\tStore and forward\nMTBF\t100000 hours\nNetwork Protocol\tIEEE802.3(10Base-T) / IEEE802.3u(100Base-TX) / IEEE802.3ab(1000Base-TX) / IEEE802.3x(Flow control)\nIndustry Standard\tEMI: FCC Part 15 CISPR(EN55032)class A / EMS: EN61000-4-2(ESD) / EN61000-4-5(Surge)\nNetwork Medium\t10Base-T: Cat3, 4, 5 or above UTP(≤100m) / 100Base-TX: Cat5 or above UTP(≤100m) / 1000Base-TX: Cat5 or above UTP(≤100m)\nCertification\tCE/FCC/RoHS\nWorking Environment\tWorking Temperature: -10℃~50℃ / Storage Temperature: -40℃~70℃ / Working Humidity: 10%~90%, non-condensing / Storage Temperature: 5%~95%, non-condensing\nInput Voltage\tAC100-240V, Single Power Input / Internal AC-DC Converter: 12V2A\nLED Indicators\tPWR(Power indicator)/LOOP(Loop alarm)/Link(Network Link)/1000M\nDIP Switch\tVLAN: Port Isolation, 1-22 ports are isolated each other, all communicate with uplink port 23/24 / Default: Default mode, support loop alarm / Extend: Monitor  Mode,  1-22  ports  support  100M speed reduction  negotiation, support  250 meters in 10M/s mode, port 23/24 as uplink port\nApplication\nIP-based Communication\nVehicle Network Solution\nPacking Information\n1pc switch(neutral device)\n1pc power cable(standards vary across countries)\n1pc user manual(including QIG information)\n1pair mounting brackets(rack mountable)\nPlease know that there is NOT a warranty card in the packing box\nA “Warranty Certificate” will be issued to indicate the order information and warranty coverage\nShipping box information(Below information is approximately accurate)\nProduct size: 440*204*44.5mm\nInner box size: 500*275*85mm\nProduct weight: 2.2Kg\nPacking weight: 2.7Kg\nMaster box size: 520*445*300mm\nPacking quantity: 5Pcs\nPacking weight: 14.5Kg\nRemark\nAccessories(Network cable etc.)are NOT included in the packing box\nPower cable is included in BOTH the packing box AND unit pricing\nProduct Picture\nRemark\nPlease let us know if you need to check the PCBs\n[页眉页脚]\nRealtek Commercial Ethernet Series                                                                                                             Saga Telecom\n2026/Q3                                                                                                                                      www.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Introduction"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It adopts high-quality and high-speed network intelligent chip and completely solves the noise problem of small switches in the office environment through the fan-less mute design"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This switch has 24 Gigabit RJ45 ports enjoying"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"seamless connection for 10/100/1000M Ethernet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"three working modes"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"one-key smart simple switching working mode"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"easy to manage and maintain"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It can be widely used in security network video surveillance, hotel, campus, small and medium-sized enterprise network engineering and other occasions"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Key Features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"24*10/ 100/ 1000M RJ45 Ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Apply to IEEE802.3, IEEE802.3u, IEEE802.3ab standard"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ethernet port supports 10/100/1000M adaptive"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support auto MDI/ MDIX"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Panel indicators to monitor working status and help fault analysis"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"One-key smart switch, support VLAN, Default, Extend three modes"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Flow control, full duplex adopts IEEE802.3x standard, half duplex adopts Back pressure standard"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Port 1-8 supports QoS data priority"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support loop alarm"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"Product Name",
+"24 Port 10/100/1000Mbps Rack Type Ethernet Switch"
+],
+[
+"Port",
+"24x10/100/1000M UTP RJ45(Support MDI/MDIX, auto-sensing)"
+],
+[
+"Switching Capacity",
+"48Gbps"
+],
+[
+"Throughput",
+"35.71Mpps"
+],
+[
+"Packet Buffer",
+"4M"
+],
+[
+"MAC Address",
+"8K"
+],
+[
+"Jumbo Frame",
+"4Kbytes"
+],
+[
+"Transfer Mode",
+"Store and forward"
+],
+[
+"MTBF",
+"100000 hours"
+],
+[
+"Network Protocol",
+"IEEE802.3(10Base-T) / IEEE802.3u(100Base-TX) / IEEE802.3ab(1000Base-TX) / IEEE802.3x(Flow control)"
+],
+[
+"Industry Standard",
+"EMI: FCC Part 15 CISPR(EN55032)class A / EMS: EN61000-4-2(ESD) / EN61000-4-5(Surge)"
+],
+[
+"Network Medium",
+"10Base-T: Cat3, 4, 5 or above UTP(≤100m) / 100Base-TX: Cat5 or above UTP(≤100m) / 1000Base-TX: Cat5 or above UTP(≤100m)"
+],
+[
+"Certification",
+"CE/FCC/RoHS"
+],
+[
+"Working Environment",
+"Working Temperature: -10℃~50℃ / Storage Temperature: -40℃~70℃ / Working Humidity: 10%~90%, non-condensing / Storage Temperature: 5%~95%, non-condensing"
+],
+[
+"Input Voltage",
+"AC100-240V, Single Power Input / Internal AC-DC Converter: 12V2A"
+],
+[
+"LED Indicators",
+"PWR(Power indicator)/LOOP(Loop alarm)/Link(Network Link)/1000M"
+],
+[
+"DIP Switch",
+"VLAN: Port Isolation, 1-22 ports are isolated each other, all communicate with uplink port 23/24 / Default: Default mode, support loop alarm / Extend: Monitor  Mode,  1-22  ports  support  100M speed reduction  negotiation, support  250 meters in 10M/s mode, port 23/24 as uplink port"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Application"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IP-based Communication"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Vehicle Network Solution"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Packing Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc switch(neutral device)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc power cable(standards vary across countries)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc user manual(including QIG information)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pair mounting brackets(rack mountable)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that there is NOT a warranty card in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A “Warranty Certificate” will be issued to indicate the order information and warranty coverage"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipping box information(Below information is approximately accurate)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product size: 440*204*44.5mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Inner box size: 500*275*85mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product weight: 2.2Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 2.7Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Master box size: 520*445*300mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing quantity: 5Pcs"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 14.5Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Accessories(Network cable etc.)are NOT included in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Power cable is included in BOTH the packing box AND unit pricing"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Product Picture"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please let us know if you need to check the PCBs"
+}
+],
+"header_footer":[
+"Realtek Commercial Ethernet Series                                                                                                             Saga Telecom",
+"2026/Q3                                                                                                                                      www.sagatelecom.com.cn",
+"Tailored Managed Networking Solutions Provider",
+"Built to Last, Continuous Supply, Evolving Together"
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":152296
+},
+{
+"name":"image2.png",
+"bytes":119669
+},
+{
+"name":"image3.png",
+"bytes":154257
+},
+{
+"name":"image4.png",
+"bytes":145096
+},
+{
+"name":"image5.png",
+"bytes":38065
+}
+]
+}

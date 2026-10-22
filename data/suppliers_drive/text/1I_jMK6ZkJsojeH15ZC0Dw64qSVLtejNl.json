@@ -1,0 +1,22 @@
+{
+"id":"1I_jMK6ZkJsojeH15ZC0Dw64qSVLtejNl",
+"name":"1.png",
+"path":"Realtek Based Commercial Switch/Commercial Ethernet Switch/STC-016GE/1.png",
+"type":"图片",
+"bytes":1784717,
+"sha256":"21548cd00436b80101ba3fbd60eca48557ec30b6857f9d0c7cf71c0718d5de99",
+"extracted_at":"2026-10-22T08:44:32Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5126,
+"height":3417,
+"mode":"RGBA",
+"thumb_bytes":4635
+},
+"ocr":{
+"text":"15(Uplink)\nGenius Gigabit Switch\n1357911315\nExtend\nDefault\nVLAN!\n6 8 10 12 14 16 點 |\n16(Uplink)",
+"conf":82.0
+},
+"text":"15(Uplink)\nGenius Gigabit Switch\n1357911315\nExtend\nDefault\nVLAN!\n6 8 10 12 14 16 點 |\n16(Uplink)"
+}

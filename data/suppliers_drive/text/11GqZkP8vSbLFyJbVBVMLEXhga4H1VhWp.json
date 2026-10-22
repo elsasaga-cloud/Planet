@@ -1,0 +1,347 @@
+{
+"id":"11GqZkP8vSbLFyJbVBVMLEXhga4H1VhWp",
+"name":"STC-248GE.docx",
+"path":"Realtek Based Commercial Switch/Commercial Ethernet Switch/STC-248GE.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":548552,
+"sha256":"d1b61df2ce7f702ab133925a0a1c825dcd8efb3040e0d2d59f409af3de4f4541",
+"extracted_at":"2026-10-22T08:44:25Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":3933,
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2025-11-04T12:33:00+00:00",
+"modified":"2026-06-22T12:31:37+00:00",
+"paragraphs":43,
+"tables":1,
+"embedded_images":5
+},
+"warnings":[],
+"text":"Introduction\nIt adopts high-quality and high-speed network intelligent chip and completely solves the noise problem when deploying small switches in the office environment through the fan-less mute design\nThis switch has 2 Gigabit SFP and 48 Gigabit RJ45 ports enjoying\nseamless connection for 10/100/1000M Ethernet\ntwo working modes\neasy to manage and maintain, intelligent one-click dialing\nIt can be widely used in security network video surveillance, hotel, campus, small and medium-sized enterprise network engineering and other occasions\nKey Features\n48*10/100/1000M RJ45 Ports+2*1000M SFP Ports\nComply with IEEE 802.3, IEEE 802.3u, IEEE802.3ab standards\nEthernet port supports 10/100/1000M adaptive\nSupport auto MDI/ MDIX\nPanel indicators to monitor working status and help fault analysis\nSupport dial switch VLAN mode\nFlow control, full duplex adopts IEEE802.3x standard, half duplex adopts Back pressure standard\nSupport loop alarm\nSurge Protection: General 6KV, Differential 2KV, ESD 15KV air, 8KV contact(level B)\nSpecification\nProduct Name\t50 Port 10/100/1000Mbps Rack Type Ethernet Switch\nPort\t48x10/100/1000M UTP RJ45(Support MDI/MDIX, auto-sensing)\n2x1000M SFP Ports\nSwitching Capacity\t100Gbps\nThroughput\t74.4Mpps\nPacket Buffer\t16M\nMAC Address\t32K\nJumbo Frame\t12Kbytes\nTransfer Mode\tStore and forward\nMTBF\t100000 hours\nNetwork Protocol\tIEEE802.3(Ethernet) / IEEE802.3u(Fast Ethernet) / IEEE 802.3ab(Gigabit Ethernet) / IEEE802.3x(Flow Control)\nIndustry Standard\tEMI: FCC Part 15 CISPR(EN55032)class A / EMS: EN61000-4-2(ESD) / EN61000-4-5(Surge)\nNetwork Medium\t10Base-T: Cat3, 4, 5 or above UTP( ≤100m) / 100Base-TX: Cat5 or above UTP( ≤100m) / 1000Base-TX: Cat5 or above UTP( ≤100m)\nOptical Media\tMulti mode fiber : 50/125, 62.5/125, 100/140μm / Single mode fiber: 8/125, 8.7/125, 9/125, 10/125μm\nCertification\tCE/FCC/RoHS\nWorking Environment\tWorking Temperature: -10℃~50℃ / Storage Temperature: -40℃~70℃ / Working Humidity: 10%~90%, non-condensing / Storage Temperature: 5%~95%, non-condensing\nInput Voltage\tAC100-240V, Single Power Input / Power supply: 12V4A\nLED Indicators\tPWR(Power indicator)\nLighting/Powered, Off/No-power / SYS(System Light) / On/The system is normal / Flashing/System startup in progress / Off/System not started / Link/Act(Link & Data) / Green On/1000M Link Connection Normal / Yellow On/10/100M Link Connection Normal / Flashing/Data Transmit / Off/Link Connection Blocked\nVLAN Dialing\tVLAN OFF/Off, all ports are interconnected / VLAN ON/enabled, ports 1-46 are isolated from each other and interconnected with ports 47-50\nDimension\nRemark\nPlease contact us if the source file is needed\nPacking Information\n1pc switch(neutral device)\n1pc power cable(standards vary across countries)\n1pc user manual(including QIG information)\n1pair mounting brackets(rack mountable)\nPlease know that there is NOT a warranty card in the packing box\nA “Warranty Certificate” will be issued to indicate the order information and warranty coverage\nShipping box information(Below information is approximately accurate)\nProduct size: 440*205*44.5mm\nInner box size: 500*290*85mm\nProduct weight: 2.83Kg\nPacking weight: 3.37Kg\nMaster box size: 520*445*310mm\nPacking quantity: 5Pcs\nPacking weight: 17.85Kg\nRemark\nAccessories(optical module, patchcord etc.)are NOT included in the packing box\nPlease prepare it by yourself or purchase a whole set from us\nPower cable is included in BOTH the packing box AND unit pricing\nProduct Picture\nRemark\nPlease let us know if you need to check the PCBs\n[页眉页脚]\nRealtek Commercial Ethernet Series                                                                                                             Saga Telecom\n2026/Q3                                                                                                                                      www.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Introduction"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It adopts high-quality and high-speed network intelligent chip and completely solves the noise problem when deploying small switches in the office environment through the fan-less mute design"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This switch has 2 Gigabit SFP and 48 Gigabit RJ45 ports enjoying"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"seamless connection for 10/100/1000M Ethernet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"two working modes"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"easy to manage and maintain, intelligent one-click dialing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It can be widely used in security network video surveillance, hotel, campus, small and medium-sized enterprise network engineering and other occasions"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Key Features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"48*10/100/1000M RJ45 Ports+2*1000M SFP Ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Comply with IEEE 802.3, IEEE 802.3u, IEEE802.3ab standards"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ethernet port supports 10/100/1000M adaptive"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support auto MDI/ MDIX"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Panel indicators to monitor working status and help fault analysis"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support dial switch VLAN mode"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Flow control, full duplex adopts IEEE802.3x standard, half duplex adopts Back pressure standard"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support loop alarm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Surge Protection: General 6KV, Differential 2KV, ESD 15KV air, 8KV contact(level B)"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"Product Name",
+"50 Port 10/100/1000Mbps Rack Type Ethernet Switch"
+],
+[
+"Port",
+"48x10/100/1000M UTP RJ45(Support MDI/MDIX, auto-sensing)\n2x1000M SFP Ports"
+],
+[
+"Switching Capacity",
+"100Gbps"
+],
+[
+"Throughput",
+"74.4Mpps"
+],
+[
+"Packet Buffer",
+"16M"
+],
+[
+"MAC Address",
+"32K"
+],
+[
+"Jumbo Frame",
+"12Kbytes"
+],
+[
+"Transfer Mode",
+"Store and forward"
+],
+[
+"MTBF",
+"100000 hours"
+],
+[
+"Network Protocol",
+"IEEE802.3(Ethernet) / IEEE802.3u(Fast Ethernet) / IEEE 802.3ab(Gigabit Ethernet) / IEEE802.3x(Flow Control)"
+],
+[
+"Industry Standard",
+"EMI: FCC Part 15 CISPR(EN55032)class A / EMS: EN61000-4-2(ESD) / EN61000-4-5(Surge)"
+],
+[
+"Network Medium",
+"10Base-T: Cat3, 4, 5 or above UTP( ≤100m) / 100Base-TX: Cat5 or above UTP( ≤100m) / 1000Base-TX: Cat5 or above UTP( ≤100m)"
+],
+[
+"Optical Media",
+"Multi mode fiber : 50/125, 62.5/125, 100/140μm / Single mode fiber: 8/125, 8.7/125, 9/125, 10/125μm"
+],
+[
+"Certification",
+"CE/FCC/RoHS"
+],
+[
+"Working Environment",
+"Working Temperature: -10℃~50℃ / Storage Temperature: -40℃~70℃ / Working Humidity: 10%~90%, non-condensing / Storage Temperature: 5%~95%, non-condensing"
+],
+[
+"Input Voltage",
+"AC100-240V, Single Power Input / Power supply: 12V4A"
+],
+[
+"LED Indicators",
+"PWR(Power indicator)\nLighting/Powered, Off/No-power / SYS(System Light) / On/The system is normal / Flashing/System startup in progress / Off/System not started / Link/Act(Link & Data) / Green On/1000M Link Connection Normal / Yellow On/10/100M Link Connection Normal / Flashing/Data Transmit / Off/Link Connection Blocked"
+],
+[
+"VLAN Dialing",
+"VLAN OFF/Off, all ports are interconnected / VLAN ON/enabled, ports 1-46 are isolated from each other and interconnected with ports 47-50"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Dimension"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please contact us if the source file is needed"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Packing Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc switch(neutral device)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc power cable(standards vary across countries)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc user manual(including QIG information)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pair mounting brackets(rack mountable)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that there is NOT a warranty card in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A “Warranty Certificate” will be issued to indicate the order information and warranty coverage"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipping box information(Below information is approximately accurate)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product size: 440*205*44.5mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Inner box size: 500*290*85mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product weight: 2.83Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 3.37Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Master box size: 520*445*310mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing quantity: 5Pcs"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 17.85Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Accessories(optical module, patchcord etc.)are NOT included in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please prepare it by yourself or purchase a whole set from us"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Power cable is included in BOTH the packing box AND unit pricing"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Product Picture"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please let us know if you need to check the PCBs"
+}
+],
+"header_footer":[
+"Realtek Commercial Ethernet Series                                                                                                             Saga Telecom",
+"2026/Q3                                                                                                                                      www.sagatelecom.com.cn",
+"Tailored Managed Networking Solutions Provider",
+"Built to Last, Continuous Supply, Evolving Together"
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":165979
+},
+{
+"name":"image2.png",
+"bytes":58333
+},
+{
+"name":"image3.png",
+"bytes":230939
+},
+{
+"name":"image4.png",
+"bytes":53392
+}
+]
+}
