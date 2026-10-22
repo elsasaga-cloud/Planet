@@ -338,17 +338,43 @@ def backup(paths, manifest):
             log('release create failed:', (r.stderr or r.stdout)[-300:])
             return
     bk = manifest.setdefault('backup', {})
+    part_max = int(float(os.environ.get('PART_MAX_GB', '1.8')) * 1024 ** 3)  # GitHub 单个 Release 资产上限 2 GiB → 超过就分卷 .partNN（cat 还原）
     for name, p in paths:
         asset = re.sub(r'[^\w.\-]+', '_', name)
-        ok = False
-        for attempt in range(3):
-            r = run(['gh', 'release', 'upload', RELEASE_TAG, f'{p}#{asset}', '--clobber'], timeout=3600)
-            if r.returncode == 0:
-                ok = True
-                break
-            time.sleep(10 + attempt * 20)
-        bk[name] = {'asset': asset, 'bytes': os.path.getsize(p), 'sha256': sha256_file(p), 'release': RELEASE_TAG, 'ok': ok, 'at': now()}
-        log('backup', name, ok)
+        size = os.path.getsize(p)
+        if size <= part_max:
+            parts = [(asset, p, 0, size)]
+        else:
+            n = (size + part_max - 1) // part_max
+            parts = [(f'{asset}.part{i + 1:02d}', p, i * part_max, min(part_max, size - i * part_max)) for i in range(n)]
+        done = []
+        for a, src, off, ln in parts:
+            if off == 0 and ln == size:
+                part_path = src
+            else:
+                part_path = os.path.join(RAW_DIR, a)
+                with open(src, 'rb') as rf, open(part_path, 'wb') as wf:
+                    rf.seek(off)
+                    left = ln
+                    while left > 0:
+                        chunk = rf.read(min(1 << 20, left))
+                        if not chunk:
+                            break
+                        wf.write(chunk)
+                        left -= len(chunk)
+            ok = False
+            for attempt in range(3):
+                r = run(['gh', 'release', 'upload', RELEASE_TAG, f'{part_path}#{a}', '--clobber'], timeout=7200)
+                if r.returncode == 0:
+                    ok = True
+                    break
+                log('upload retry', a, (r.stderr or r.stdout)[-200:])
+                time.sleep(10 + attempt * 20)
+            done.append({'asset': a, 'bytes': ln, 'sha256': sha256_file(part_path), 'ok': ok})
+            if part_path != src:
+                os.remove(part_path)
+        bk[name] = {'asset': asset, 'bytes': size, 'sha256': sha256_file(p), 'release': RELEASE_TAG, 'ok': all(x['ok'] for x in done), 'parts': done, 'at': now()}
+        log('backup', name, bk[name]['ok'], len(done), 'parts')
 
 
 def main():
