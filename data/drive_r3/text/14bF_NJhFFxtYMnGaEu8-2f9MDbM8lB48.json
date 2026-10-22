@@ -1,0 +1,22 @@
+{
+"id":"14bF_NJhFFxtYMnGaEu8-2f9MDbM8lB48",
+"name":"8+2-serial.png",
+"path":"Drive第三轮/Marvell Based Industrial Managed Switch/2.5G L2+ with PoE/STI-288DGGPM/8+2-serial.png",
+"type":"图片",
+"bytes":116628,
+"sha256":"932fee231ef1743bcd7abf15852f045a2d30aecf7d69301ccbddedd5a0e86fde",
+"extracted_at":"2026-10-22T12:28:19Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":1812,
+"height":732,
+"mode":"RGBA",
+"thumb_bytes":9140
+},
+"ocr":{
+"text":"coon Se\n\"加 | 有\n>\nio\na\n+\n1\ni]\n158mm\n176mm\n54mm\nE\nE\nWon\n@ oO\n©\n——\nE\n上\n48.3mm",
+"conf":67.7
+},
+"text":"coon Se\n\"加 | 有\n>\nio\na\n+\n1\ni]\n158mm\n176mm\n54mm\nE\nE\nWon\n@ oO\n©\n——\nE\n上\n48.3mm"
+}

@@ -1,0 +1,22 @@
+{
+"id":"1kvbcUOwqAjk73CpnFiJB_HML88WrXdAT",
+"name":"With serial port.png",
+"path":"Drive第三轮/Marvell Based Industrial Managed Switch/2.5G L2+ with PoE/STI-244DGGPM/With serial port.png",
+"type":"图片",
+"bytes":5314398,
+"sha256":"25771275b6c82c146c62038f0844b3d2cd3633dc1e17be72a2aacdc93be7bdb0",
+"extracted_at":"2026-10-22T12:28:05Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":2432,
+"height":3148,
+"mode":"RGBA",
+"thumb_bytes":10439
+},
+"ocr":{
+"text":"USB ALM\n回 中\nL A\nEe 和\nXN\n生\ntil! | AAI",
+"conf":61.1
+},
+"text":"USB ALM\n回 中\nL A\nEe 和\nXN\n生\ntil! | AAI"
+}
