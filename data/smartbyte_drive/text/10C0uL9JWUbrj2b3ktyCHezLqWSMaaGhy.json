@@ -1,0 +1,22 @@
+{
+"id":"10C0uL9JWUbrj2b3ktyCHezLqWSMaaGhy",
+"name":"16GT+8Combo+4-D-双DC 机型.png",
+"path":"SmartByte/工业管理/源信息/工业级管理型中性产品图片 & 结构尺寸/6系/16GT + 8 Combo +4/中性机械结构图/16GT+8Combo+4-D-双DC 机型.png",
+"type":"图片",
+"bytes":167132,
+"sha256":"8b61f139006138c8aba40c368717d4630068a78163d31820964d6925fee7ee47",
+"extracted_at":"2026-10-22T02:00:13Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":2927,
+"height":1397,
+"mode":"RGBA",
+"thumb_bytes":7650
+},
+"ocr":{
+"text":"45mm\n45mm\n45mm\n280mm\n465mm\nC 7) Fy 党 Age+- 呈 品 Yellow:PoE/Speed Green:Link/act C)\n? & -ooem OSG\no PL P2\n° 中 | [| le\niat ~\nOQ Cc)\n440mm\na 一 一\nCQ ©\nCD | [0\n™ 440mm\n7 ©",
+"conf":58.6
+},
+"text":"45mm\n45mm\n45mm\n280mm\n465mm\nC 7) Fy 党 Age+- 呈 品 Yellow:PoE/Speed Green:Link/act C)\n? & -ooem OSG\no PL P2\n° 中 | [| le\niat ~\nOQ Cc)\n440mm\na 一 一\nCQ ©\nCD | [0\n™ 440mm\n7 ©"
+}

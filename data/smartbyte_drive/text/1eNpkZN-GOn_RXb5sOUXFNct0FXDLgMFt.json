@@ -1,0 +1,22 @@
+{
+"id":"1eNpkZN-GOn_RXb5sOUXFNct0FXDLgMFt",
+"name":"16GT+8Combo+4-双DC 机型.png",
+"path":"SmartByte/工业管理/源信息/工业级管理型中性产品图片 & 结构尺寸/6系/16GT + 8 Combo +4/中性机械结构图/16GT+8Combo+4-双DC 机型.png",
+"type":"图片",
+"bytes":156502,
+"sha256":"d616b50da801143e2e142385d311ce8590a07edbcc62632a7cf195f146073be1",
+"extracted_at":"2026-10-22T02:00:12Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":2927,
+"height":1392,
+"mode":"RGBA",
+"thumb_bytes":7756
+},
+"ocr":{
+"text":"465mm\nGB So A ©\n45mm 已\noe pean\n= rer! oO\n“ 440mm\nO ©\n45mm\n©\n‘ 440mm \"\n45mm\n280mm",
+"conf":54.1
+},
+"text":"465mm\nGB So A ©\n45mm 已\noe pean\n= rer! oO\n“ 440mm\nO ©\n45mm\n©\n‘ 440mm \"\n45mm\n280mm"
+}

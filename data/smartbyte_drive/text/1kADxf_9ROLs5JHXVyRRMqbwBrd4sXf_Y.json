@@ -1,0 +1,22 @@
+{
+"id":"1kADxf_9ROLs5JHXVyRRMqbwBrd4sXf_Y",
+"name":"16GX +8Combo+4 双DC.png",
+"path":"SmartByte/工业管理/源信息/工业级管理型中性产品图片 & 结构尺寸/6系/16GX + 8 Combo +4/中性机械结构图/16GX +8Combo+4 双DC.png",
+"type":"图片",
+"bytes":147443,
+"sha256":"d2d3b20a4f3c33d5b3ca7d46ad68aa3f3b049aa7fe8cf348ce73a8d3c0bc8ec4",
+"extracted_at":"2026-10-22T02:00:14Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":2928,
+"height":1388,
+"mode":"RGBA",
+"thumb_bytes":7439
+},
+"ocr":{
+"text":"45mm\nram OO\nA 了\n45mm\n440mm\n45mm\n440mm\n-|\n280mm",
+"conf":71.5
+},
+"text":"45mm\nram OO\nA 了\n45mm\n440mm\n45mm\n440mm\n-|\n280mm"
+}

@@ -1,0 +1,22 @@
+{
+"id":"1asQS08THowkpWpyizkjUtanyMf3Neh0p",
+"name":"8+4万.png",
+"path":"SmartByte/工业管理/源信息/工业级管理型中性产品图片 & 结构尺寸/6系/8+4XS（10G）/中性机械结构图/8+4万.png",
+"type":"图片",
+"bytes":103201,
+"sha256":"f30b466729719667ca32c82ee048c3bfd1d26bad3372f14b7bdb8f107c70f5dc",
+"extracted_at":"2026-10-22T02:00:30Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":1693,
+"height":712,
+"mode":"RGBA",
+"thumb_bytes":9731
+},
+"ocr":{
+"text":"E\nE\nin\n5\nE\nE o\nE E |\n5 目 © ©\n¢ 8\no\n9mm 在\n; COE\nE 9 @ 2\n四 @\n吕\n44mm\n|\n115mm 54mm",
+"conf":67.3
+},
+"text":"E\nE\nin\n5\nE\nE o\nE E |\n5 目 © ©\n¢ 8\no\n9mm 在\n; COE\nE 9 @ 2\n四 @\n吕\n44mm\n|\n115mm 54mm"
+}

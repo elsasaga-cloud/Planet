@@ -1,0 +1,22 @@
+{
+"id":"1InTL47jrlC-tAVnhJ9WFOATxdPn8pyMd",
+"name":"24+4-D 双DC机型.png",
+"path":"SmartByte/工业管理/源信息/工业级管理型中性产品图片 & 结构尺寸/6系/24+4-rack mount/中性机械结构图/24+4-D 双DC机型.png",
+"type":"图片",
+"bytes":155479,
+"sha256":"71812bc823b837948415c318011718cdc1953735acac16e8ee657a3d4c628faa",
+"extracted_at":"2026-10-22T02:00:17Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":2928,
+"height":1385,
+"mode":"RGBA",
+"thumb_bytes":7232
+},
+"ocr":{
+"text":"Yellow:PoE/Speed Green:Link/act\ncaerev >)\n45mm A iz\n入 oles\n* 440mm .\n© ©\n45mm\n| (CD) CO\n7 440mm 加\n45mm\n280mm",
+"conf":51.5
+},
+"text":"Yellow:PoE/Speed Green:Link/act\ncaerev >)\n45mm A iz\n入 oles\n* 440mm .\n© ©\n45mm\n| (CD) CO\n7 440mm 加\n45mm\n280mm"
+}

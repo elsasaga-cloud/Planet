@@ -1,0 +1,22 @@
+{
+"id":"1mhzIp5thZM9C4JvXVLzgfCJxRsOtJXKA",
+"name":"48+4 双DC.png",
+"path":"SmartByte/工业管理/源信息/工业级管理型中性产品图片 & 结构尺寸/6系/48+4/中性机械结构图/48+4 双DC.png",
+"type":"图片",
+"bytes":170542,
+"sha256":"bd01a08ed6add84d5373dfa4fa0f313ca54c4dc0d46e67f946ad0e8ec34d42c1",
+"extracted_at":"2026-10-22T02:00:22Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":2928,
+"height":1384,
+"mode":"RGBA",
+"thumb_bytes":7978
+},
+"ocr":{
+"text":"45mm\n45mm\n440mm\n45mm\n280mm",
+"conf":92.0
+},
+"text":"45mm\n45mm\n440mm\n45mm\n280mm"
+}
