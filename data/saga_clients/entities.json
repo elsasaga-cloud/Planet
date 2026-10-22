@@ -5330,9 +5330,44 @@
 "quote": "The MIB enterprise IDs (.1.3.6.1.4.1.57430.* and .1.3.6.1.4.1.56813.* and .1.3.6.1.4.1.171.*) are registered to two other companies … How is smart bytes/saga telecom related to these companies? … Can you please request your own SmartByte SNMP enterprise OID at https://www.iana.org/assignments/enterprise-numbers/ … Is the OEM data like the product ID, SNMP PEN prefix, company logo, etc. hardcoded in the firmware (separate firmware file for each OEM)?",
 "url": "data/gmail_s/messages/2025/2025-03.jsonl（主题 RE: Testing Feedback，f.kriewitz@nynex.de ↔ peter@smartbyte.com.cn，抄 S 邮箱）",
 "date": "2025-03-27"
+},
+{
+"kind": "S 邮箱原文",
+"claim": "2026-09-29 NYNEX 询价 20 × STC-4168XGGCM（双 AC 电源，同上次订单）含运到德国；Simon 当日答材料涨价（PCB / RAM）、汇率 6.71、可 EUR 结算",
+"quote": "can you please share a quote for 20 x STC-4168XGGCM switches (dual AC PSUs, same as last order) including shipping to Germany.",
+"url": "（S 邮箱 key afced0c9af361141，2026-09-29T13:36Z；回信 key 38d19aa9fadaae82）",
+"date": "2026-10-22"
+},
+{
+"kind": "S 邮箱原文",
+"claim": "2026-09-30 Simon 报最终价：2,015 RMB/台 = 300 USD（1:6.71）= 265.2 EUR（1:7.6）；交期 3 周 / 15 个工作日（下单后起算）；客户称因涨价需再找 3 家比价",
+"quote": "Best offer is 2015RMB/PC USD offer: 300USD/PC … EUR offer: 265.2EUR/PC … Production time: 3 weeks, it is 15 working days. AFTER the order is confirmed!",
+"url": "（S 邮箱 key 074a700ad4b10bf7，2026-09-30T05:50Z）",
+"date": "2026-10-22"
+},
+{
+"kind": "S 邮箱原文",
+"claim": "2026-10-06 NYNEX 要欧元账户 → Simon 发 invoice + 银行确认（同一账户收 USD / EUR）；2026-10-15 NYNEX 付款并要求成品用 SmartByte 原始产品名 / ID 与 SmartByte SNMP 厂商 OID；Simon 同意「let's do SmartByte information」；2026-10-17 确认收款、投产",
+"quote": "payment has been made (see attachment). One additional note: We would pfeffere to have them with original SmartByte product names/IDs. Please make sure that the SmartByte and SNMP vendor OIDs are used.",
+"url": "（S 邮箱 key 60ac95de9259a792 / 81f8fe275f461480 / 95b7153bc20857f6，2026-10-15～17）",
+"date": "2026-10-22"
+},
+{
+"kind": "GitHub 公开仓库",
+"claim": "Frederik Kriewitz 本人是 LibreNMS 贡献者：PR #18681「Add support for SmartByte OS」2026-01-11 合并，sysObjectID .1.3.6.1.4.1.56166，测试夹具用 Saga 的 STC-4168XGGCM V1.1（序列号 202509160001 = 2025-09 那单）→ NYNEX 用 LibreNMS 纳管 Saga 交换机，并替 Saga/SmartByte 做了上游适配；其 2026-10-15「必须用 SmartByte OID」的技术原因即在此",
+"quote": "@copyright 2025 Frederik Kriewitz / @author Frederik Kriewitz <frederik@kriewitz.eu> … sysDescr: Product STC-4168XGGCM V1.1 Version hotfix/7.4.7 (r1540 af525c9)",
+"url": "https://github.com/librenms/librenms/pull/18681 ；LibreNMS/OS/Smartbyte.php；tests/data/smartbyte_stc-4168xggcm.json",
+"date": "2026-10-22"
+},
+{
+"kind": "GitHub 公开仓库",
+"claim": "Kriewitz 还向 Oxidized（开源配置备份）提交了 smartbyte 模型（2026-01-23 合并，测试数据同为 STC-4168XGGCM 7.4.7）→ NYNEX 用 LibreNMS + Oxidized 两套工具把 Saga 交换机当长期在网设备运维",
+"quote": "smartbyte: new model for SmartByte switches — Frderik Kriewitz, 2026-01-23；spec/model/data/smartbyte#STC-4168XGGCM_7.4.7#output.txt",
+"url": "https://github.com/ytti/oxidized/blob/master/lib/oxidized/model/smartbyte.rb",
+"date": "2026-10-22"
 }
 ],
-"notes": "A 维持：运营商持续采购楼宇接入交换机（48 口/L2+/2.5G 上联）与贴牌 MC/SFP；P1 改 STC-448XGGPM 或 STC-424XGGPM-280W（10G 上联）。\n【2026-10-22 复盘补】NYNEX 2025-03 的 SNMP/MIB 合规追问是「工程型缓冲层」的真实考题：欧洲客户会用 snmpwalk 核 OID 归属。Saga 应自己申请一个 IANA PEN（免费、在线表单、约 1–2 周）并要求 SmartByte 在 Saga 版固件里只保留 Saga PEN 下的私有 MIB；给 NYNEX/德国客户的 OEM 说明要能回答「OEM 数据是固件内写死还是独立配置分区」。对应 Q-35。",
+"notes": "A 维持：运营商持续采购楼宇接入交换机（48 口/L2+/2.5G 上联）与贴牌 MC/SFP；P1 改 STC-448XGGPM 或 STC-424XGGPM-280W（10G 上联）。\n【2026-10-22 复盘补】NYNEX 2025-03 的 SNMP/MIB 合规追问是「工程型缓冲层」的真实考题：欧洲客户会用 snmpwalk 核 OID 归属。Saga 应自己申请一个 IANA PEN（免费、在线表单、约 1–2 周）并要求 SmartByte 在 Saga 版固件里只保留 Saga PEN 下的私有 MIB；给 NYNEX/德国客户的 OEM 说明要能回答「OEM 数据是固件内写死还是独立配置分区」。对应 Q-35。 ｜ 针对性加厚 2026-10-22（S 邮箱 2026-09/10 第 6 单，T29-U13 ②）",
 "researched_at": "2026-10-22",
 "deep": {
 "done_at": "2026-10-21",
@@ -5373,11 +5408,13 @@
 "signals": [
 "2025-08-31：Kriewitz/Frank 署名提交 TKG 修法意见书——Kriewitz 为公司决策层之一（https://bmds.bund.de/…/NYNEX_Stellungnahme_Eckpunktepapier_fiberONE_BMDS_31-August-2025.pdf）",
 "2026-10：公司 26 周年，上线 nynex.ai 自建 AI 基础设施，品牌族 nynex.de/fiberONE/nynex.ai 完整（https://nynex.de/geschichte.html）",
-"用户表：已成单（Frederik Kriewitz），要自有 logo"
+"用户表：已成单（Frederik Kriewitz），要自有 logo",
+"2026-01-11：Frederik Kriewitz 向 LibreNMS 提交并合并 SmartByte OS 支持（PR #18681），测试机为 Saga STC-4168XGGCM —— 客户在为供应商做上游生态适配，是深度绑定信号；跟进时可致谢并提供 MIB 更新 / 新机型 snmprec"
 ],
 "risks": [
 "运营商自建网 → 对设备稳定性与固件（VLAN/QinQ/IGMP）要求高，需提供管理型固件说明",
-"自有 logo = OEM 30% 档，但 ISP 采购对价格敏感，首单可按 25% 项目档试探"
+"自有 logo = OEM 30% 档，但 ISP 采购对价格敏感，首单可按 25% 项目档试探",
+"【2026-10-22 第二遍复盘 F11】第 6 单（20 × STC-4168XGGCM，2026-10-15 付款、10-17 投产）成交单价 2,015 RMB/台，**低于《价格主表》该型号 SmartByte 未税 CNY 2,100**（即三档公式的基数）；PI 包 5 单合计利润 7,081 RMB / USD 19,634 ≈ 5% —— 与「+20/25/30%」规则冲突，两者都保留：要么 SmartByte 对 Saga 的实际进价低于 2024-05 价目表，要么 Saga 对老客让利到贴本。客户最终选择 SmartByte 原名 + SmartByte OID（放弃 Saga 贴牌），对「Saga 品牌」定位是一个真实反馈。"
 ],
 "saga_fit": {
 "p1": "STC-28DGGPM",
@@ -5413,7 +5450,8 @@
 "usd": 19634.0,
 "rmb": 0.0,
 "profit_rmb": 7081.83,
-"models": "STC-4168XGGCM、STC-424XGGM"
+"models": "STC-4168XGGCM、STC-424XGGM",
+"mail_update_2026-10-22": "第 6 单：20 × STC-4168XGGCM @2,015 RMB（$300 / €265.2），EUR 付款 2026-10-15，投产 2026-10-17，客户要求 SmartByte 原名与 OID"
 },
 "grade_override": "A",
 "override_reason": "PI 包成单客户，Simon 标签 活跃 → A"
@@ -62401,6 +62439,13 @@
 "quote": "",
 "url": "PI.zip:10 加拿大 James 活跃 Xtransfer 轻度绑定",
 "date": "2026-10-22"
+},
+{
+"kind": "S 邮箱原文",
+"claim": "2024-06-27 Simon 向 James 发 Invoice 并承诺「I am now working on the UL listed PSU. 52~57VDC output. 250W~300W power budget」；James 2024-06-28 回复在 24–36 小时内付款；UL 需求只落在 PSU 配件，不在交换机",
+"quote": "I am now working on the UL listed PSU. 52~57VDC output. 250W~300W power budget. I will let you know if I have news.",
+"url": "（S 邮箱 2024-06-27 07:25Z Simon→james@clendenan.ca 主题 Invoice，data/gmail_s/messages/2024/2024-06.jsonl）",
+"date": "2026-10-22"
 }
 ],
 "kp": [
@@ -62412,7 +62457,7 @@
 "source": "PI.zip 单据"
 }
 ],
-"notes": "",
+"notes": " ｜ 针对性加厚 2026-10-22（UL PSU 线索，T29-U13 ②）",
 "researched_at": "2026-10-22",
 "deal_pi": {
 "folder": "10 加拿大 James 活跃 Xtransfer 轻度绑定",
@@ -62434,7 +62479,10 @@
 "why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
 },
 "grade_override": "A",
-"override_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）"
+"override_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）",
+"risks": [
+"【2026-10-22 第二遍复盘】S 邮箱全库 13,583 封里唯一的 UL 需求来自本户（UL listed 52–57 VDC 250–300 W PSU，2024-06）；Simon 2023-12 曾向 Mencom 问 UL DIN 电源 → 跟进时可直接给 MEAN WELL UL 版电源型号 + 价格（Drive《SmartByte》有 MEAN WELL 价目表），交换机本体不承诺 UL。"
+]
 }
 },
 {
@@ -72432,12 +72480,19 @@
 "quote": "用的洪瑞的 商业PoE CCTV产品为主",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "海关提单(ImportYeti)",
+"claim": "GW Security 是 HRUI（深圳洪瑞）美国海运直客：2018-07 至 2026-10-14 共 14 票整柜 PoE 交换机（每票 100–225 箱，Yantian→Long Beach）",
+"quote": "Gw Security Inc, South El Monte … 14 shipments … Poe Switch, Poe Switch Plts … 10/14/2026 PSEAZLGB26092040 2,240 kg 170ctn",
+"url": "https://www.importyeti.com/supplier/shenzhen-hongrui-optical-technology",
+"date": "2026-10-22"
 }
 ],
 "kp": [],
 "grade_override": null,
 "override_reason": "",
-"notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+"notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4） ｜ 针对性加厚 2026-10-22（ImportYeti 海关提单，T29-U13）",
 "deep": {
 "done_at": "2026-10-21",
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -72463,7 +72518,8 @@
 "risks": [
 "Q-33 口径：客户在用 HRUI（Saga 供应商）→ 不报 HRUI 同款，只推 SmartByte/Marvell 管理型",
 "表内「像是国内平台」：公司背景可能为华人创办，决策链/供应链在深圳的可能性需核",
-"38 次群发已有回复：下一封承接上次回复、只问一个问题"
+"38 次群发已有回复：下一封承接上次回复、只问一个问题",
+"【2026-10-22 外网复抓】ImportYeti 证实其直接从 HRUI 工厂整柜进货（14 票至 2026-10）→ Saga 的 HRUI 底 STC 报价对其无价格意义；若跟进只能推 Marvell 线（SmartByte）或 PoE++/管理型差异化机型，否则维持 B 不主动触达。"
 ],
 "saga_fit": {
 "p1": "STC-28DGGPM",
@@ -99268,25 +99324,31 @@
 "name": "TELTRONIX | BRITICOM",
 "name_src": "company",
 "names": [
-"TELTRONIX | BRITICOM"
+"TELTRONIX | BRITICOM",
+"Teltronix / Briticom"
 ],
 "country": "英国",
 "iso": "GB",
 "region": "欧洲",
 "other_countries": [],
 "domains": [
-"briticom.net"
+"briticom.net",
+"teltronix.net"
 ],
 "urls": [
 "https://briticom.net/product/poe-industrial-switch-14-port-full-gigabit-managed/",
-"https://briticom.net/product/poe-industrial-switch-8-port-full-gigabit-managed/"
+"https://briticom.net/product/poe-industrial-switch-8-port-full-gigabit-managed/",
+"https://teltronix.net",
+"https://briticom.net"
 ],
 "platform_links": [],
 "emails": [
-"briticom@briticom.net"
+"briticom@briticom.net",
+"wadii@teltronix.net"
 ],
 "corp_emails": [
-"briticom@briticom.net"
+"briticom@briticom.net",
+"wadii@teltronix.net"
 ],
 "phones": [
 "441604434186"
@@ -99295,33 +99357,48 @@
 "Wadii Kherfani",
 "Briticom is a brand of / Teltronix Holdings Ltd"
 ],
-"positions": [],
+"positions": [
+"采购/项目（邮件签名无职务）"
+],
 "froms": [
-"谷歌"
+"谷歌",
+"补录：S 邮箱有人工往来但不在客户表（T29-U13 ② F16）"
 ],
 "interests": [
 "有自己的logo 有的没有 光猫\nONV Upeto的工业FS 机架 FS等",
-"机架 MC FS 工业FS  自己的logo 外壳种类比较多"
+"机架 MC FS 工业FS  自己的logo 外壳种类比较多",
+"2024-09-03 项目 RFQ：20 台 24 口 PoE 千兆 + 4 GE 上联 + 2 冗余电源 + 4×SFP LH 单模 + 堆叠线；另问过 STI-288GP（报 $60）、Power Converter、2+4 Web 管理 2.5G"
 ],
 "remarks": [
 "T: 44 1604 434 186",
-"似乎是有Upeto的工业FS"
+"似乎是有Upeto的工业FS",
+"Simon 2024-09-03 答「this specification is not available」（当时无冗余电源/堆叠）；2026 年 Saga 已有双 AC 与堆叠 → 可重开。S 邮箱 3 进 7 出，最后一封 2024-12-11 Saga 群发无回。"
 ],
-"categories": [],
+"categories": [
+"系统集成/网络设备分销（Teltronix | BRITICOM，北安普顿 +44 1604）"
+],
 "tags": [
 "A已回复",
-"用户判定不行"
+"用户判定不行",
+"补录",
+"S邮箱人工往来",
+"英国",
+"RFQ未成"
 ],
 "flags": {
-"own_brand": 2
+"own_brand": 2,
+"engaged_note": 1
 },
 "fit": {
-"switch": 2,
+"switch": 3,
 "off": 1,
-"mc_sfp": 1
+"mc_sfp": 2
 },
 "ai_evals": [],
-"years": [],
+"years": [
+2024,
+2026
+],
 "sources": [
 {
 "file": "Clients/A Replied 09.04.xlsx",
@@ -99370,6 +99447,33 @@
 "ai_eval": "",
 "claude_eval": "",
 "followups": 0
+},
+{
+"file": "补录客户.jsonl",
+"sheet": "(补录)",
+"row": 12,
+"no": "S-补录-2026-10-22-01",
+"tags": [
+"补录",
+"S邮箱人工往来",
+"英国",
+"RFQ未成"
+],
+"company": "Teltronix / Briticom",
+"country": "英国",
+"person": "Wadii Kherfani",
+"from": "补录：S 邮箱有人工往来但不在客户表（T29-U13 ② F16）",
+"interest": "2024-09-03 项目 RFQ：20 台 24 口 PoE 千兆 + 4 GE 上联 + 2 冗余电源 + 4×SFP LH 单模 + 堆叠线；另问过 STI-288GP（报 $60）、Power Converter、2+4 Web 管理 2.5G",
+"contact": "wadii@teltronix.net",
+"mobile": "+44 1604 434 186",
+"website": "https://teltronix.net; https://briticom.net",
+"remark": "Simon 2024-09-03 答「this specification is not available」（当时无冗余电源/堆叠）；2026 年 Saga 已有双 AC 与堆叠 → 可重开。S 邮箱 3 进 7 出，最后一封 2024-12-11 Saga 群发无回。",
+"extra": "",
+"category": "系统集成/网络设备分销（Teltronix | BRITICOM，北安普顿 +44 1604）",
+"position": "采购/项目（邮件签名无职务）",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
 }
 ],
 "followups": [
@@ -99402,9 +99506,11 @@
 "wa_in_fu": false,
 "deal_in_fu": false,
 "fu_sample": false,
-"last_year": 2025,
+"last_year": 2026,
 "merge_keys": [
-"d:briticom.net"
+"d:briticom.net",
+"n:GB|teltronix briticom",
+"p:604434186"
 ],
 "grade_auto": "B",
 "score": 28,
@@ -99417,7 +99523,7 @@
 "+10 有企业邮箱",
 "+5 有可核实的公司网站/域名",
 "+8 区域 欧洲/英国",
-"+5 最近活动 2025"
+"+5 最近活动 2026"
 ],
 "c_sub": "",
 "status": "有回复·跟进中",
@@ -99469,12 +99575,26 @@
 "quote": "（用户表字段）",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "email",
+"claim": "2024-09-03 Wadii Kherfani 发来 20 台项目 RFQ（24 口 PoE 千兆 + 4 GE + 2 冗余电源 + 4×SFP LH 单模 + USB 控制台线 + 堆叠线），Simon 当天答「this specification is not available on our product list」→ RFQ 流失",
+"quote": "I'm looking for 20 switches for a project. Can you please quote - 24 port Fast Ethernet 10/100/1000 POE -04 ports Giga Ethernet -02 redundant power supply modules -04 SFP LH module … - stack wise cable",
+"url": "data/gmail_s/messages/2024/2024-09.jsonl（k 47d30031bff4bebe / 9709506348c74b1f）",
+"date": "2024-09-03"
+},
+{
+"kind": "email",
+"claim": "同期问 STI-288GP 价格（Simon 报 $60/pc，2024-09-03）；2024-10-02 要 Power Converter 的组网示意图；此后 Saga 群发 2024-10/11/12 三次无回",
+"quote": "What's the price of this switch? … Can you show us a drawing of a network where this product will fit/install??",
+"url": "data/gmail_s/messages/2024/2024-09.jsonl、2024-10.jsonl（wadii@teltronix.net，+44 1604 434 186）",
+"date": "2024-10-02"
 }
 ],
 "kp": [],
 "grade_override": null,
 "override_reason": "",
-"notes": "（无首轮调研；由 deepen.py 建档）",
+"notes": "（无首轮调研；由 deepen.py 建档） ｜ 2026-10-22 并入 teltronix.net 往来（3 进 7 出，F16）",
 "deep": {
 "done_at": "2026-10-21",
 "level": "B 级加厚 v1（官网 + 公司档案核对）"
@@ -99500,7 +99620,8 @@
 "无源品牌向有源延伸的典型 OEM 场景：Briticom 标 PoE/10G 接入交换机与其机柜、光缆成套销售给分销商/安装商；UKCA 由 Saga 提供"
 ],
 "risks": [
-"有源产品需要其建立技术支持/RMA 能力——首单宜小批量；仅 1 次回复 + 1 次跟进"
+"有源产品需要其建立技术支持/RMA 能力——首单宜小批量；仅 1 次回复 + 1 次跟进",
+"【2026-10-22 F16 补录】teltronix.net 域名此前不在档内（只有 briticom.net）→ 本轮并入；2024-09 的 20 台 RFQ 要「冗余电源 + 堆叠」，当年 Saga 没有、现在 STC-4168XGGCM 双 AC / CENTEC 堆叠已有 → 可拿这条旧 RFQ 重开（先问项目是否还在）"
 ],
 "saga_fit": {
 "p1": "STC-28DGGPM",
@@ -178180,6 +178301,333 @@
 }
 },
 {
+"name": "CXR",
+"name_src": "company",
+"names": [
+"CXR"
+],
+"country": "法国",
+"iso": "FR",
+"region": "欧洲",
+"other_countries": [],
+"domains": [
+"cxr.fr"
+],
+"urls": [
+"https://www.cxr.fr"
+],
+"platform_links": [],
+"emails": [
+"marco.divalerio@cxr.fr"
+],
+"corp_emails": [
+"marco.divalerio@cxr.fr"
+],
+"phones": [],
+"persons": [
+"Marco Di Valerio"
+],
+"positions": [
+"COO"
+],
+"froms": [
+"补录：S 邮箱有人工往来但不在客户表（T29-U13 ② F16）"
+],
+"interests": [
+"10G 媒体转换器（2024-05-30 索要规格书，Simon 报 $65/pc：1×10G SFP + 1×100M/1G/2.5G/10G RJ45，非管理，DC5–12V，含适配器）"
+],
+"remarks": [
+"COO 本人回信索要规格书；之后 Saga 4 次群发（工业 PoE 管理 / 24 口无源 PoE / 2+4 Web 管理）均无回。品牌商 → OEM 30% 档候选。"
+],
+"categories": [
+"电信设备制造商 / 品牌商（cxr.fr）"
+],
+"tags": [
+"补录",
+"S邮箱人工往来",
+"法国",
+"品牌商"
+],
+"flags": {
+"own_brand": 1
+},
+"fit": {
+"switch": 1,
+"mc_sfp": 1,
+"off": 1
+},
+"ai_evals": [],
+"years": [
+2024
+],
+"sources": [
+{
+"file": "补录客户.jsonl",
+"sheet": "(补录)",
+"row": 13,
+"no": "S-补录-2026-10-22-02",
+"tags": [
+"补录",
+"S邮箱人工往来",
+"法国",
+"品牌商"
+],
+"company": "CXR",
+"country": "法国",
+"person": "Marco Di Valerio",
+"from": "补录：S 邮箱有人工往来但不在客户表（T29-U13 ② F16）",
+"interest": "10G 媒体转换器（2024-05-30 索要规格书，Simon 报 $65/pc：1×10G SFP + 1×100M/1G/2.5G/10G RJ45，非管理，DC5–12V，含适配器）",
+"contact": "marco.divalerio@cxr.fr",
+"mobile": "",
+"website": "https://www.cxr.fr",
+"remark": "COO 本人回信索要规格书；之后 Saga 4 次群发（工业 PoE 管理 / 24 口无源 PoE / 2+4 Web 管理）均无回。品牌商 → OEM 30% 档候选。",
+"extra": "",
+"category": "电信设备制造商 / 品牌商（cxr.fr）",
+"position": "COO",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 2024,
+"merge_keys": [],
+"grade_auto": "B",
+"score": 45,
+"reasons": [
+"+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+8 区域 欧洲/法国",
+"+2 最近活动 2024"
+],
+"c_sub": "",
+"status": "名单内·未触达",
+"code": "SB-1340",
+"grade": "B",
+"research": {
+"code": "SB-1340",
+"name_official": "CXR (cxr.fr)",
+"website_status": "未核（本轮只用 S 邮箱证据）",
+"summary": "法国电信设备制造商 / 品牌商。2024-05-30 COO Marco Di Valerio 回群发索要 10G 媒体转换器规格书，Simon 报 $65/pc；之后 4 次群发无回。S 邮箱 1 进 5 出。",
+"type": "电信设备制造商 / 品牌商",
+"size": "未核",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "email",
+"claim": "COO 本人索要 10G MC 规格书",
+"quote": "Hi Simon, Thanks, please could you send data sheet please — Marco Di Valerio COO",
+"url": "data/gmail_s/messages/2024/2024-05.jsonl（k afbdeb9d5505018c）",
+"date": "2024-05-30"
+},
+{
+"kind": "email",
+"claim": "Simon 报价 10G MC $65/pc（1×10G SFP + 1×100M/1G/2.5G/10G RJ45，非管理，DC5–12V，含适配器）",
+"quote": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE, DC5~12V input, with power adapter.",
+"url": "data/gmail_s/messages/2024/2024-05.jsonl（k 696d6a213ad761ca）",
+"date": "2024-05-30"
+}
+],
+"kp": [
+{
+"name": "Marco Di Valerio",
+"role": "COO",
+"email": "marco.divalerio@cxr.fr",
+"phone": "",
+"source": "S 邮箱签名"
+}
+],
+"notes": "T29-U13 ② F16 补录：S 邮箱有人工往来但不在客户表。品牌商 → 若重开按 OEM 30% 档；先从 10G MC（当年感兴趣的品类）切入，不要再群发。",
+"researched_at": "2026-10-22",
+"saga_fit": {
+"p1": "STC-110XGE（10G MC，价格主表无 → 按最近报价 $65 口径，待厂确认）",
+"tier": 30,
+"why": "品牌商 + COO 直接回过信；10G MC 是其自己开口问的品类"
+},
+"grade_override": null,
+"override_reason": ""
+}
+},
+{
+"name": "Al Rajhi Telecommunication (alrajhitel.com)",
+"name_src": "company",
+"names": [
+"Al Rajhi Telecommunication (alrajhitel.com)"
+],
+"country": "沙特阿拉伯",
+"iso": "SA",
+"region": "中东",
+"other_countries": [],
+"domains": [
+"alrajhitel.com"
+],
+"urls": [
+"https://www.alrajhitel.com"
+],
+"platform_links": [],
+"emails": [
+"inam@alrajhitel.com"
+],
+"corp_emails": [
+"inam@alrajhitel.com"
+],
+"phones": [
+"966507162470",
+"966114221089"
+],
+"persons": [
+"Inam Ahmed"
+],
+"positions": [
+"Data Center Division Manager"
+],
+"froms": [
+"补录：S 邮箱有人工往来但不在客户表（T29-U13 ② F16）"
+],
+"interests": [
+"工业 PoE 交换机 STI-154GP（2024-10-22 索样；Simon 答非免费样品 $36/pc）"
+],
+"remarks": [
+"中东，不在区域重点内；有具名 KP。2024-11-15 Saga 再群发无回。"
+],
+"categories": [
+"系统集成 / 数据中心（Riyadh）"
+],
+"tags": [
+"补录",
+"S邮箱人工往来",
+"沙特",
+"区域外"
+],
+"flags": {
+"sample": 1
+},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [
+2024
+],
+"sources": [
+{
+"file": "补录客户.jsonl",
+"sheet": "(补录)",
+"row": 14,
+"no": "S-补录-2026-10-22-03",
+"tags": [
+"补录",
+"S邮箱人工往来",
+"沙特",
+"区域外"
+],
+"company": "Al Rajhi Telecommunication (alrajhitel.com)",
+"country": "沙特阿拉伯",
+"person": "Inam Ahmed",
+"from": "补录：S 邮箱有人工往来但不在客户表（T29-U13 ② F16）",
+"interest": "工业 PoE 交换机 STI-154GP（2024-10-22 索样；Simon 答非免费样品 $36/pc）",
+"contact": "inam@alrajhitel.com",
+"mobile": "+966 50716 2470; +966 11 4221089 Ext 2452",
+"website": "https://www.alrajhitel.com",
+"remark": "中东，不在区域重点内；有具名 KP。2024-11-15 Saga 再群发无回。",
+"extra": "",
+"category": "系统集成 / 数据中心（Riyadh）",
+"position": "Data Center Division Manager",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 2024,
+"merge_keys": [],
+"grade_auto": "B",
+"score": 38,
+"reasons": [
+"+10 谈到样品/测样",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+3 区域 中东/沙特阿拉伯",
+"+2 最近活动 2024"
+],
+"c_sub": "调研后定级 C",
+"status": "名单内·未触达",
+"code": "SB-1341",
+"grade": "C",
+"research": {
+"code": "SB-1341",
+"name_official": "Al Rajhi Telecommunication (alrajhitel.com)",
+"website_status": "未核（本轮只用 S 邮箱证据）",
+"summary": "沙特利雅得系统集成 / 数据中心业务。2024-10-22 Data Center Division Manager Inam Ahmed 回群发索样 STI-154GP，Simon 答非免费样品 $36/pc；之后无回。S 邮箱 1 进 2 出。",
+"type": "系统集成 / 数据中心",
+"size": "未核",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "email",
+"claim": "索样 STI-154GP",
+"quote": "Please send me a sample to test — Inam Ahmed, Data Center Division Manager, +966 50716 2470",
+"url": "data/gmail_s/messages/2024/2024-10.jsonl（k 2291cc97643c8854）",
+"date": "2024-10-22"
+},
+{
+"kind": "email",
+"claim": "Simon 答非免费样品，报 $36/pc",
+"quote": "It is NOT free samples. 36usd/pc STI-154GP … Please see attached datasheet and let me know if you are ready to order.",
+"url": "data/gmail_s/messages/2024/2024-10.jsonl（k 775f9ed585dd20d5）",
+"date": "2024-10-22"
+}
+],
+"kp": [
+{
+"name": "Inam Ahmed",
+"role": "Data Center Division Manager",
+"email": "inam@alrajhitel.com",
+"phone": "+966 50716 2470; +966 11 4221089 Ext 2452",
+"source": "S 邮箱签名"
+}
+],
+"notes": "T29-U13 ② F16 补录。中东不在区域重点（US/CA + 欧洲 + 土耳其）→ 不主动跟；留档。",
+"researched_at": "2026-10-22",
+"saga_fit": {
+"p1": "STI-154GP",
+"tier": 25,
+"why": "集成商 25% 档；其开口问的就是 STI-154GP"
+},
+"grade_override": "C",
+"override_reason": "区域外（沙特）+ 2024 年后无回 → C；有具名 KP 留档"
+}
+},
+{
 "name": "Elsi",
 "name_src": "company",
 "names": [
@@ -186496,6 +186944,13 @@
 "quote": "工业FS 一些PoE配件 自己的logo",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "海关提单(ImportYeti)",
+"claim": "Tycon Systems 是 HRUI（深圳洪瑞）美国海运直客：2022-08 至 2024-01 共 4 票 PoE 交换机（5–29 箱/票，PO:6456）",
+"quote": "Tycon Systems Inc, Riverton … 4 shipments … Poe Switch … 01/31/2024 CHKMMZLMSA248500 570 kg 29ctn",
+"url": "https://www.importyeti.com/supplier/shenzhen-hongrui-optical-technology",
+"date": "2026-10-22"
 }
 ],
 "kp": [
@@ -186523,7 +186978,7 @@
 ],
 "grade_override": null,
 "override_reason": "",
-"notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+"notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4） ｜ 针对性加厚 2026-10-22（ImportYeti 海关提单，T29-U13）",
 "deep": {
 "done_at": "2026-10-21",
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -186549,7 +187004,8 @@
 ],
 "risks": [
 "自有产品已有稳定代工来源：需以 12–58 VDC 宽压 + 小批量灵活性切入",
-"群发 9 次无回复：改向 Head of BD 具名首触"
+"群发 9 次无回复：改向 Head of BD 具名首触",
+"【2026-10-22 外网复抓】ImportYeti 证实其 2022–2024 直接从 HRUI 进口 PoE 交换机（4 票，小批量，最近一票 2024-01）→ 2024 年后无 HRUI 海运记录，可能换厂或改空运；Saga 跟进时问清现供应商，推工业 DIN 导轨 PoE（STI）而非 HRUI 同款。"
 ],
 "saga_fit": {
 "p1": "STI-054GP",
@@ -409654,6 +410110,27 @@
 "quote": "兴趣：Stacking",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "S 邮箱原文",
+"claim": "关系起点：2023-11-09 Simon 首信——Olycom 时期已与 Greg 谈过 HDMI 产品，自立门户后发 CCTV PoE 价表；Greg 祝贺并「keep on-hand」。此后 2023-11→2026-03 共 50 封、29 出 21 入，Greg 每信必回（典型 US 老派采购：礼貌、不下单、问价）",
+"quote": "We discussed HDMI unit before(Olycom model), I set up my own office now.",
+"url": "（S 邮箱 thr 1782055947356135738，2023-11-09）",
+"date": "2026-10-22"
+},
+{
+"kind": "S 邮箱原文",
+"claim": "Saga 给 Versitron 的历史报价：2024-05 4×10G+16×1G SFP+8 Combo L3 商用 $375 / 工业 $550；2024-06 10G 光纤 MC $75；2025-08 24 口 L3 DIN PoE（af/at/bt 370W，DI/DO/RS485）$500「expensive because Marvell」；2025-10 24 口 SFP 汇聚双 AC $280",
+"quote": "Commercial model, 375usd/pc Industrial model, 550usd/pc … It is 500usd/pc, it is expensive because we are doing Marvell chip. … price-competitive aggregation switch(280usd/pc)",
+"url": "（S 邮箱 thr 1782055947356135738 / 1839339295413255932 / 1844786008444924799）",
+"date": "2026-10-22"
+},
+{
+"kind": "S 邮箱原文",
+"claim": "Versitron 真正的需求 = **堆叠交换机（替代 Cisco Catalyst 9300）**：2025-06-11/18/23 三次催「stacking switches discussed below」（指 2024-11-19 48 口讨论），2025-10-15「Any news on this?」，2025-10-31「We are trying to offer stacking as an alternative to Cisco」；Simon 2025-10-31 称首版有严重问题、客户都买 H3C/华为/Cisco；**2026-03-11 Simon 宣布「stacking feature is available on all models」并给 CENTEC 资料 Drive 链接**（1nKIZPptuYQhoUs0FbjyXYStrn2sl4iRU）；Greg 自动回复后至今无回音",
+"quote": "Finally, our \"stacking\" feature is available on all models. 1. We are trying to offer stacking as an alternative to Cisco. I guess you mean Cisco Catalyst 9300 Switches? This is fine.",
+"url": "（S 邮箱 thr 1844786008444924799，2026-03-11T08:24Z；Versitron 最后一封 2025-10-31）",
+"date": "2026-10-22"
 }
 ],
 "kp": [
@@ -409667,7 +410144,7 @@
 ],
 "grade_override": null,
 "override_reason": "",
-"notes": "（无首轮调研；由 deepen.py 建档）",
+"notes": "（无首轮调研；由 deepen.py 建档） ｜ 针对性加厚 2026-10-22（S 邮箱 50 封通读：三年关系、4 次报价、堆叠需求链，T29-U13 ②）",
 "deep": {
 "done_at": "2026-10-21",
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
@@ -409691,7 +410168,8 @@
 ],
 "risks": [
 "堆叠交换机 Saga 无",
-"美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明"
+"美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+"【2026-10-22 复盘冲突，原样保留】本档 email_hook / saga_fit 写「不做堆叠」，但 S 邮箱 2026-03-11 Simon 已向 Greg 宣布 stacking 全系列可用（CENTEC/Hohunet 线）；两种口径并存——若 Simon 确认 CENTEC 堆叠可卖，Versitron 是美国最对口的堆叠买家（Cisco 替代），hook 应改为「堆叠已就绪 + 价格」；否则维持。"
 ],
 "saga_fit": {
 "p1": "STI-110GE",

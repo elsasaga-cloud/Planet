@@ -3,7 +3,7 @@
 
 > **评级 B**　|　英国　|　档案编号 `SB-1019`　|　优先级 ★★　|　状态：有回复·跟进中
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：实质回复 1 次；推送 1 次（2025-07-07 → 2025-07-07）　|　**所在清单**：A已回复、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：实质回复 1 次；推送 1 次（2025-07-07 → 2025-07-07）　|　**所在清单**：A已回复、用户判定不行、补录、S邮箱人工往来、英国、RFQ未成　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1019
@@ -15,7 +15,7 @@ country: 英国
 region: 欧洲
 website: briticom.net
 type: 品牌商/贴牌需求（OEM/ODM）
-tier_tags: ["A已回复", "用户判定不行"]
+tier_tags: ["A已回复", "用户判定不行", "补录", "S邮箱人工往来", "英国", "RFQ未成"]
 deal: no
 replies: 1
 followups: 1
@@ -26,14 +26,14 @@ p1: STC-28DGGPM
 price_tier: 30%
 research: done
 site_snapshot: http_error  # 2026-10-21
-sources: 2
+sources: 3
 updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：英国北安普顿的**无源**布线制造商/品牌（Briticom 为 Teltronix Holdings Ltd 品牌；团队始于 2004，控股公司 2020-02 注册，公司号 12455268，VAT GB419036114；11–50 人；2017 年底换新管理层走国际化）：铜缆系统、光纤无源产品（FTTx/GPON）、机柜与机箱，面向数据中心、FTTx/电信、广播、智能家居；有「授权分销商 / 认证安装商」计划，2025-10 参展 GITEX Dubai。目录为纯无源——有源交换机是产品线空白。用户表：1 次实质回复，1 次跟进，自有品牌标记。（调研 2026-10-21；表内兴趣：有自己的logo 有的没有 光猫 ONV Upeto的工业FS 机架 FS等；机架 MC FS 工业FS  自己的logo 外壳种类比较多）
-- **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-60 用户已归入「不行及不太相关的」；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025
+- **是谁**：英国北安普顿的**无源**布线制造商/品牌（Briticom 为 Teltronix Holdings Ltd 品牌；团队始于 2004，控股公司 2020-02 注册，公司号 12455268，VAT GB419036114；11–50 人；2017 年底换新管理层走国际化）：铜缆系统、光纤无源产品（FTTx/GPON）、机柜与机箱，面向数据中心、FTTx/电信、广播、智能家居；有「授权分销商 / 认证安装商」计划，2025-10 参展 GITEX Dubai。目录为纯无源——有源交换机是产品线空白。用户表：1 次实质回复，1 次跟进，自有品牌标记。（调研 2026-10-21；表内兴趣：有自己的logo 有的没有 光猫 ONV Upeto的工业FS 机架 FS等；机架 MC FS 工业FS  自己的logo 外壳种类比较多；2024-09-03 项目 RFQ：20 台 24 口 PoE 千兆 + 4 GE 上联 + 2 冗）
+- **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-60 用户已归入「不行及不太相关的」；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2026
 - **历史互动**：实质回复 1 次；推送 1 次（2025-07-07 → 2025-07-07）；最近一次客户回复：2025-07-07：Price 电源
 - **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：OEM 30% 档：STC-28DGGPM（8 PoE+ + 2 SFP 管理）作 Briticom 首款有源 SKU，与机柜/光缆成套；FTTx/数据中心位 STC-424XGGM（24 GE + 4×10G）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
@@ -45,14 +45,16 @@ updated: 2026-10-22
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | TELTRONIX \| BRITICOM | 事实（用户表） |
+| 其他名称写法 | Teltronix / Briticom | 事实（用户表） |
 | 国家 | 英国 | 事实（用户表）|
-| 网站/域名 | briticom.net | 事实（用户表 URL/邮箱域名） |
+| 网站/域名 | briticom.net / teltronix.net | 事实（用户表 URL/邮箱域名） |
 | 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
 | 联系人 | Wadii Kherfani / Briticom is a brand of / Teltronix Holdings Ltd | 事实（用户表） |
-| 来源（From） | 谷歌 | 事实（用户表） |
-| 兴趣（Interested in） | 有自己的logo 有的没有 光猫<br>ONV Upeto的工业FS 机架 FS等 / 机架 MC FS 工业FS  自己的logo 外壳种类比较多 | 事实（用户表） |
-| 用户备注（Remark） | T: 44 1604 434 186 / 似乎是有Upeto的工业FS | 事实（用户表） |
-| 所在清单 | A已回复、用户判定不行 | 事实（文件路径） |
+| 来源（From） | 谷歌 / 补录：S 邮箱有人工往来但不在客户表（T29-U13 ② F16） | 事实（用户表） |
+| 兴趣（Interested in） | 有自己的logo 有的没有 光猫<br>ONV Upeto的工业FS 机架 FS等 / 机架 MC FS 工业FS  自己的logo 外壳种类比较多 / 2024-09-03 项目 RFQ：20 台 24 口 PoE 千兆 + 4 GE 上联 + 2 冗余电源 + 4×SFP LH 单模 + 堆叠线；另问过 STI-288GP（报 $60）、Power Converter、2+4 Web 管理 2.5G | 事实（用户表） |
+| 用户备注（Remark） | T: 44 1604 434 186 / 似乎是有Upeto的工业FS / Simon 2024-09-03 答「this specification is not available」（当时无冗余电源/堆叠）；2026 年 Saga 已有双 AC 与堆叠 → 可重开。S 邮箱 3 进 7 出，最后一封 2024-12-11 Saga 群发无回。 | 事实（用户表） |
+| 用户分档（Category） | 系统集成/网络设备分销（Teltronix \| BRITICOM，北安普顿 +44 1604） | 事实（用户表） |
+| 所在清单 | A已回复、用户判定不行、补录、S邮箱人工往来、英国、RFQ未成 | 事实（文件路径） |
 | 在卖/在用品牌（备注所见） | ONV, Upeto, FS | 事实（用户备注）/ 推断 |
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
@@ -75,7 +77,13 @@ updated: 2026-10-22
 - **【用户表】1 次实质回复；1 次跟进；自有品牌标记**
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- 备注：（无首轮调研；由 deepen.py 建档）
+- **【email】2024-09-03 Wadii Kherfani 发来 20 台项目 RFQ（24 口 PoE 千兆 + 4 GE + 2 冗余电源 + 4×SFP LH 单模 + USB 控制台线 + 堆叠线），Simon 当天答「this specification is not available on our product list」→ RFQ 流失**
+  > I'm looking for 20 switches for a project. Can you please quote - 24 port Fast Ethernet 10/100/1000 POE -04 ports Giga Ethernet -02 redundant power supply modules -04 SFP LH module … - stack wise cable
+  > 来源：data/gmail_s/messages/2024/2024-09.jsonl（k 47d30031bff4bebe / 9709506348c74b1f）（抓取 2024-09-03）
+- **【email】同期问 STI-288GP 价格（Simon 报 $60/pc，2024-09-03）；2024-10-02 要 Power Converter 的组网示意图；此后 Saga 群发 2024-10/11/12 三次无回**
+  > What's the price of this switch? … Can you show us a drawing of a network where this product will fit/install??
+  > 来源：data/gmail_s/messages/2024/2024-09.jsonl、2024-10.jsonl（wadii@teltronix.net，+44 1604 434 186）（抓取 2024-10-02）
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ 2026-10-22 并入 teltronix.net 往来（3 进 7 出，F16）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 公司档案核对））
 
@@ -89,7 +97,7 @@ updated: 2026-10-22
 - **触达通道（公开）**：网站: https://briticom.net/ · https://teltronix.net/；电话: +44 1604 434 186（官网公开）；邮箱（公开）: sales@briticom.net
 - **近况信号**：
   - 无源品牌向有源延伸的典型 OEM 场景：Briticom 标 PoE/10G 接入交换机与其机柜、光缆成套销售给分销商/安装商；UKCA 由 Saga 提供
-- **风险/边界**：有源产品需要其建立技术支持/RMA 能力——首单宜小批量；仅 1 次回复 + 1 次跟进
+- **风险/边界**：有源产品需要其建立技术支持/RMA 能力——首单宜小批量；仅 1 次回复 + 1 次跟进；【2026-10-22 F16 补录】teltronix.net 域名此前不在档内（只有 briticom.net）→ 本轮并入；2024-09 的 20 台 RFQ 要「冗余电源 + 堆叠」，当年 Saga 没有、现在 STC-4168XGGCM 双 AC / CENTEC 堆叠已有 → 可拿这条旧 RFQ 重开（先问项目是否还在）
 - **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——OEM 30% 档：STC-28DGGPM（8 PoE+ + 2 SFP 管理）作 Briticom 首款有源 SKU，与机柜/光缆成套；FTTx/数据中心位 STC-424XGGM（24 GE + 4×10G）
 - **邮件切入句（英文）**：Since the Briticom range stops at passive, an 8-port PoE+ managed switch with 2 SFP uplinks in Briticom packing ($87.4 EXW, UKCA/CE) would let your distributors buy the active part of a cabinet from you too; would a sample for your lab be useful?
 
@@ -136,29 +144,33 @@ updated: 2026-10-22
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`briticom@briticom.net`〔企业邮箱；来源：用户表原值〕
+- 邮箱：`wadii@teltronix.net`〔企业邮箱；来源：用户表原值〕
 - 电话：`+441604434186`〔电话/WhatsApp 状态未记；原值见来源表〕
 - 联系人（原值）：Wadii Kherfani
 - 联系人（原值）：Briticom is a brand of / Teltronix Holdings Ltd
+- 职位（原值）：采购/项目（邮件签名无职务）
 - 网站/域名：briticom.net
+- 网站/域名：teltronix.net
 - **邮箱纪律**：只用表内原值，不猜测、不拼接；发不过去的地址标注后保留不删。
 
 ## 关键人（KP）与触达通道
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Wadii Kherfani | — | briticom@briticom.net / +441604434186 | 用户表原值 | Clients/ 表 |
-| Briticom is a brand of | — | briticom@briticom.net / +441604434186 | 用户表原值 | Clients/ 表 |
+| Wadii Kherfani | 采购/项目（邮件签名无职务） | briticom@briticom.net / wadii@teltronix.net / +441604434186 | 用户表原值 | Clients/ 表 |
+| Briticom is a brand of | 采购/项目（邮件签名无职务） | briticom@briticom.net / wadii@teltronix.net / +441604434186 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
 ## 来源与归并（不漏 · 原始行定位）
 
-本客户由 **2 行**原始记录归并而成；归并键：`d:briticom.net`。
+本客户由 **3 行**原始记录归并而成；归并键：`d:briticom.net`, `n:GB|teltronix briticom`, `p:604434186`。
 
 | 文件#表:行 | No. | Company（原值） | Country | Person | From | Interested in | Contact | Remark | 跟进表 |
 |---|---|---|---|---|---|---|---|---|---|
 | A Replied 09.04.xlsx#总表:12 | 11 | TELTRONIX \| BRITICOM | 英国 | Wadii Kherfani | 谷歌 | 有自己的logo 有的没有 光猫<br>ONV Upeto的工业FS 机架 FS等 | briticom@briticom.net | T: 44 1604 434 186 | 1 条 |
 | 不行及不太相关的.xlsx#总表:265 | 293 | https://briticom.net/product/poe-industrial-switch-14-port-full-gigabit-managed/ | 英国 | Briticom is a brand of<br>Teltronix Holdings Ltd | 谷歌 | 机架 MC FS 工业FS  自己的logo 外壳种类比较多 | https://briticom.net/product/poe-industrial-switch-8-port-full-gigabit-managed/ | 似乎是有Upeto的工业FS | — |
+| 补录客户.jsonl#(补录):12 | S-补录-2026-10-22-01 | Teltronix / Briticom | 英国 | Wadii Kherfani | 补录：S 邮箱有人工往来但不在客户表（T29-U13 ② F16） | 2024-09-03 项目 RFQ：20 台 24 口 PoE 千兆 + 4 GE 上联 + 2 冗余电源 + 4×SFP LH 单模 + 堆叠线；另问过 STI-288GP（报 $60）、Power Converter、2+4 Web 管理 2.5G | wadii@teltronix.net +44 1604 434 186 https://teltronix.net; https://briticom.net | Simon 2024-09-03 答「this specification is not available」（当时无冗余电源/堆叠）；2026 年 Saga 已有双 AC 与堆叠 → 可重开。S 邮箱 3 进 7 出，最后一封 2024-12-11 Saga 群发无回。 采购/项目（邮件签名无职务） | — |
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -247,7 +259,7 @@ https://sagatele.com/
 
 ## 变更日志
 
-- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 28）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 28）
 
 ---
 

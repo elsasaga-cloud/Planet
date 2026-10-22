@@ -44,12 +44,26 @@
    "quote": "（用户表字段）",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "email",
+   "claim": "2024-09-03 Wadii Kherfani 发来 20 台项目 RFQ（24 口 PoE 千兆 + 4 GE + 2 冗余电源 + 4×SFP LH 单模 + USB 控制台线 + 堆叠线），Simon 当天答「this specification is not available on our product list」→ RFQ 流失",
+   "quote": "I'm looking for 20 switches for a project. Can you please quote - 24 port Fast Ethernet 10/100/1000 POE -04 ports Giga Ethernet -02 redundant power supply modules -04 SFP LH module … - stack wise cable",
+   "url": "data/gmail_s/messages/2024/2024-09.jsonl（k 47d30031bff4bebe / 9709506348c74b1f）",
+   "date": "2024-09-03"
+  },
+  {
+   "kind": "email",
+   "claim": "同期问 STI-288GP 价格（Simon 报 $60/pc，2024-09-03）；2024-10-02 要 Power Converter 的组网示意图；此后 Saga 群发 2024-10/11/12 三次无回",
+   "quote": "What's the price of this switch? … Can you show us a drawing of a network where this product will fit/install??",
+   "url": "data/gmail_s/messages/2024/2024-09.jsonl、2024-10.jsonl（wadii@teltronix.net，+44 1604 434 186）",
+   "date": "2024-10-02"
   }
  ],
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 2026-10-22 并入 teltronix.net 往来（3 进 7 出，F16）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（官网 + 公司档案核对）"
@@ -75,7 +89,8 @@
   "无源品牌向有源延伸的典型 OEM 场景：Briticom 标 PoE/10G 接入交换机与其机柜、光缆成套销售给分销商/安装商；UKCA 由 Saga 提供"
  ],
  "risks": [
-  "有源产品需要其建立技术支持/RMA 能力——首单宜小批量；仅 1 次回复 + 1 次跟进"
+  "有源产品需要其建立技术支持/RMA 能力——首单宜小批量；仅 1 次回复 + 1 次跟进",
+  "【2026-10-22 F16 补录】teltronix.net 域名此前不在档内（只有 briticom.net）→ 本轮并入；2024-09 的 20 台 RFQ 要「冗余电源 + 堆叠」，当年 Saga 没有、现在 STC-4168XGGCM 双 AC / CENTEC 堆叠已有 → 可拿这条旧 RFQ 重开（先问项目是否还在）"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",

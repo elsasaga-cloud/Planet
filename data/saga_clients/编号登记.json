@@ -1,7 +1,7 @@
 {
 "next": {
 "A": 172,
-"B": 1340,
+"B": 1342,
 "C": 5319
 },
 "keys": {
@@ -16285,6 +16285,16 @@
 "e:kevin@switchcom.co.za": "SB-1339",
 "e:sales@switchcom.co.za": "SB-1339",
 "p:100072555": "SB-1339",
-"n:ZA|switchcom distribution": "SB-1339"
+"n:ZA|switchcom distribution": "SB-1339",
+"d:cxr.fr": "SB-1340",
+"e:marco.divalerio@cxr.fr": "SB-1340",
+"n:FR|cxr": "SB-1340",
+"d:alrajhitel.com": "SB-1341",
+"e:inam@alrajhitel.com": "SB-1341",
+"p:507162470": "SB-1341",
+"p:114221089": "SB-1341",
+"n:SA|al rajhi telecommunication": "SB-1341",
+"d:teltronix.net": "SB-1019",
+"e:wadii@teltronix.net": "SB-1019"
 }
 }
