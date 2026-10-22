@@ -1,0 +1,22 @@
+{
+"id":"1x-KzjjVPi9ndXrtnWyeix8I1yN1cWsqW",
+"name":"AC+DC with serial port.png",
+"path":"SmartByte/工业管理/10G L2+ with PoE/STI-4816XGCGPM-U/AC+DC with serial port.png",
+"type":"图片",
+"bytes":175918,
+"sha256":"f8861c96bac176fd65209bf480824a385cc69715256b1300e6886b9e44c06524",
+"extracted_at":"2026-10-22T01:57:03Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":2927,
+"height":1392,
+"mode":"RGBA",
+"thumb_bytes":8197
+},
+"ocr":{
+"text":"45mm\n45mm\n45mm\n482.6mm\n465mm\nYellow-PoE/Speed Green:LinK/act Cc)\n[beaeray 一 @\n由 由\n° fel ° ° [esl lo\nCD)\n440mm\n(@) AC 100V~240V 50/60Hz 1A. Cc)\nO ©\n- 440mm\n-|\n280mm",
+"conf":63.0
+},
+"text":"45mm\n45mm\n45mm\n482.6mm\n465mm\nYellow-PoE/Speed Green:LinK/act Cc)\n[beaeray 一 @\n由 由\n° fel ° ° [esl lo\nCD)\n440mm\n(@) AC 100V~240V 50/60Hz 1A. Cc)\nO ©\n- 440mm\n-|\n280mm"
+}

@@ -1,0 +1,22 @@
+{
+"id":"1-M9lL-yX9_-Laum0Y7RJ1CN2B-Vy5SmQ",
+"name":"AC+DC with serial port.png",
+"path":"SmartByte/工业管理/10G L2+ without PoE/STI-4168XGGCM-U/AC+DC with serial port.png",
+"type":"图片",
+"bytes":168230,
+"sha256":"2b07813f94fb962f3894163b015b2938c24255c1c65b59cb315a6a37f070d255",
+"extracted_at":"2026-10-22T01:57:27Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":2928,
+"height":1392,
+"mode":"RGBA",
+"thumb_bytes":8136
+},
+"ocr":{
+"text":"NGO Oo SS a TS\n| Fam |\n[oaeray @\n& h\n45mm Se om ad ta ET | IE\nDee Ae Ae ole sJe} [ele slo\nCD) AC 100V-240V 50160Hz 1A\n45mm\n©O\n人 440mm\n| © © ©\n45mm\n280mm",
+"conf":48.4
+},
+"text":"NGO Oo SS a TS\n| Fam |\n[oaeray @\n& h\n45mm Se om ad ta ET | IE\nDee Ae Ae ole sJe} [ele slo\nCD) AC 100V-240V 50160Hz 1A\n45mm\n©O\n人 440mm\n| © © ©\n45mm\n280mm"
+}

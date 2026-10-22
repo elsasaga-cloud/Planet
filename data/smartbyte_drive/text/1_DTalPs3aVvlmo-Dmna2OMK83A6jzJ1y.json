@@ -1,0 +1,22 @@
+{
+"id":"1_DTalPs3aVvlmo-Dmna2OMK83A6jzJ1y",
+"name":"AC+AC without serial port.png",
+"path":"SmartByte/工业管理/10G L2+ with PoE/STI-4816XGCGPM-U/AC+AC without serial port.png",
+"type":"图片",
+"bytes":167885,
+"sha256":"fd34971afd2ee4e579e88faaad1bee6485d2282ad87bc666c0034e6b879ab368",
+"extracted_at":"2026-10-22T01:57:04Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":2927,
+"height":1396,
+"mode":"RGBA",
+"thumb_bytes":7872
+},
+"ocr":{
+"text":"45mm\n45mm\n45mm\n482.6mm\n280mm\n| 465mm\ns ‘Yellow:PoE/Speed Green:LinK/act\nO ame, o oO\n? 2 ©e\no\n。 fama\nCQ) = 2s 各 us 2A bh bh BH NA EA HD 3? §t 84 Ft C)\n-\n440mm\nCc) AC 100V~240V 50/60Hz 1A AC 100V~240V 50/60Hz 1A @\n440mm\n© ©",
+"conf":63.2
+},
+"text":"45mm\n45mm\n45mm\n482.6mm\n280mm\n| 465mm\ns ‘Yellow:PoE/Speed Green:LinK/act\nO ame, o oO\n? 2 ©e\no\n。 fama\nCQ) = 2s 各 us 2A bh bh BH NA EA HD 3? §t 84 Ft C)\n-\n440mm\nCc) AC 100V~240V 50/60Hz 1A AC 100V~240V 50/60Hz 1A @\n440mm\n© ©"
+}

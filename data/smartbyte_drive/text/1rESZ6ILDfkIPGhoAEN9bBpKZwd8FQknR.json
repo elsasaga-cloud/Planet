@@ -1,0 +1,22 @@
+{
+"id":"1rESZ6ILDfkIPGhoAEN9bBpKZwd8FQknR",
+"name":"9.png",
+"path":"SmartByte/工业管理/2.5G L2+ with PoE/STI-288DGGPM/9.png",
+"type":"图片",
+"bytes":6456148,
+"sha256":"366a76cb33d94883e076f8de025ad3eb8ed04777e5f6d1c069f1c72105c24efc",
+"extracted_at":"2026-10-22T01:58:02Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5063,
+"height":1934,
+"mode":"RGBA",
+"thumb_bytes":5643
+},
+"ocr":{
+"text":"Cc\nwo\n四\n>\n大\n=",
+"conf":67.9
+},
+"text":"Cc\nwo\n四\n>\n大\n="
+}

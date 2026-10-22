@@ -1,0 +1,22 @@
+{
+"id":"1E17gJ7XJEyEtUofEp2M57OVqw5uceJiY",
+"name":"11.png",
+"path":"SmartByte/工业管理/2.5G L2+ with PoE/STI-288DGGPM/11.png",
+"type":"图片",
+"bytes":4746116,
+"sha256":"79167c75e752ca6b71eb0d2e78b668be9f1b3c28974eea90dd987d6e3694ebba",
+"extracted_at":"2026-10-22T01:57:56Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":3465,
+"height":2036,
+"mode":"RGBA",
+"thumb_bytes":6898
+},
+"ocr":{
+"text":"PWR1 PWR2 Console\n. O Reset\n少 - 中 = 115200,8,N,1\nNon-PoE:DC 12-58V; PoE:DC 44-57V",
+"conf":73.0
+},
+"text":"PWR1 PWR2 Console\n. O Reset\n少 - 中 = 115200,8,N,1\nNon-PoE:DC 12-58V; PoE:DC 44-57V"
+}

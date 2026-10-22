@@ -1,0 +1,22 @@
+{
+"id":"1C2sC5Cj870Cl3Kj4Fl9BeJagS_PU2sLZ",
+"name":"48+4.png",
+"path":"SmartByte/工业管理/10G L2+ without PoE/STI-4480XGGM-U/48+4.png",
+"type":"图片",
+"bytes":4123401,
+"sha256":"8d31eeb1c0550786aa4086c7a3542cff2f6a8d86c6b66e496760920b008a725e",
+"extracted_at":"2026-10-22T01:57:30Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5000,
+"height":1551,
+"mode":"RGBA",
+"thumb_bytes":5558
+},
+"ocr":{
+"text":"Yellow:PoE/Speed Green:Link/act\nConsole\n115200.8.N.1",
+"conf":70.6
+},
+"text":"Yellow:PoE/Speed Green:Link/act\nConsole\n115200.8.N.1"
+}

@@ -1,0 +1,22 @@
+{
+"id":"1LIKgD7AH5tnu1K1NLRgjS1Bar1e_snUR",
+"name":"without serial port.png",
+"path":"SmartByte/工业管理/10G L2+ without PoE/STI-488XGGGM/without serial port.png",
+"type":"图片",
+"bytes":124372,
+"sha256":"4027530b8b6feb7cc7477a54bd33ac4625637dfd8b6c5a571d1ea7b0e936b051",
+"extracted_at":"2026-10-22T01:57:40Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":1945,
+"height":702,
+"mode":"RGBA",
+"thumb_bytes":8554
+},
+"ocr":{
+"text":"二\nee! | [loo\n回\n€\n踢\na\nHe\na\n回\n| 一 一.\naan | 10.4mm\n131mm\n158mm\n176mm\n60.7mm\n973mm",
+"conf":64.9
+},
+"text":"二\nee! | [loo\n回\n€\n踢\na\nHe\na\n回\n| 一 一.\naan | 10.4mm\n131mm\n158mm\n176mm\n60.7mm\n973mm"
+}

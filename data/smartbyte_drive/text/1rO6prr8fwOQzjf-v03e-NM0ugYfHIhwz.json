@@ -1,0 +1,22 @@
+{
+"id":"1rO6prr8fwOQzjf-v03e-NM0ugYfHIhwz",
+"name":"AC+AC without serial port.png",
+"path":"SmartByte/工业管理/10G L2+ without PoE/STI-4168XGGCM-U/AC+AC without serial port.png",
+"type":"图片",
+"bytes":160960,
+"sha256":"f84bd08d0356a5cdee9ea964fd7a7e83334e150f49191861939c7ddcba0a68c2",
+"extracted_at":"2026-10-22T01:57:21Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":2928,
+"height":1389,
+"mode":"RGBA",
+"thumb_bytes":7968
+},
+"ocr":{
+"text":"45mm\nCO OS\n45mm\n©O O\n440mm 一\n| @ @ @\n45mm\n280mm",
+"conf":72.6
+},
+"text":"45mm\nCO OS\n45mm\n©O O\n440mm 一\n| @ @ @\n45mm\n280mm"
+}

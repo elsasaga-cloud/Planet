@@ -1,0 +1,22 @@
+{
+"id":"1MPc_GdTd-rbpj6Dk4qRoG_i0f5Wq6njK",
+"name":"without serial port.png",
+"path":"SmartByte/工业管理/10G L2+ with PoE/STI-4816XGCGPM-U/without serial port.png",
+"type":"图片",
+"bytes":4173490,
+"sha256":"9b8e18e7346cae09e2439de0a1a3264388579edea32645acc82a8666fd6d711a",
+"extracted_at":"2026-10-22T01:57:10Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5000,
+"height":1551,
+"mode":"RGBA",
+"thumb_bytes":5214
+},
+"ocr":{
+"text":"Yellow:PoE/Speed Green:Link/act\nConsole\n135900 841 perv — QO\nwes payee",
+"conf":50.0
+},
+"text":"Yellow:PoE/Speed Green:Link/act\nConsole\n135900 841 perv — QO\nwes payee"
+}

@@ -1,0 +1,22 @@
+{
+"id":"1YDqWVUgI8ocMjJWA9PR6D9HQdNFG5_7p",
+"name":"with serial port.png",
+"path":"SmartByte/工业管理/10G L2+ without PoE/STI-4168XGGCM-U/with serial port.png",
+"type":"图片",
+"bytes":4231514,
+"sha256":"5f6e8eb8e336f6c16dde782c17a3c53570cb5f9fdef8fe7cc440866320c39c0c",
+"extracted_at":"2026-10-22T01:57:24Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5000,
+"height":1551,
+"mode":"RGBA",
+"thumb_bytes":5244
+},
+"ocr":{
+"text":"Yellow:PoE/Speed Green:Link/act\nConsole\n1 i\n15200801 fares Oo\nwes payee",
+"conf":47.2
+},
+"text":"Yellow:PoE/Speed Green:Link/act\nConsole\n1 i\n15200801 fares Oo\nwes payee"
+}

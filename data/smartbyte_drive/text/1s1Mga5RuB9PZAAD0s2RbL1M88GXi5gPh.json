@@ -1,0 +1,22 @@
+{
+"id":"1s1Mga5RuB9PZAAD0s2RbL1M88GXi5gPh",
+"name":"8+12-serial.png",
+"path":"SmartByte/工业管理/10G L2+ without PoE/STI-488XGGGM/8+12-serial.png",
+"type":"图片",
+"bytes":4983272,
+"sha256":"8993aaa0bce66b09495e1a8ac5e7ca8a0da6f912ad5a6591da0821267ffc577d",
+"extracted_at":"2026-10-22T01:57:40Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":3050,
+"height":3944,
+"mode":"RGBA",
+"thumb_bytes":9761
+},
+"ocr":{
+"text":"Pl SYS Au\nRST\nConsole\nP2_USB Ring\n115200.8.N 1",
+"conf":72.4
+},
+"text":"Pl SYS Au\nRST\nConsole\nP2_USB Ring\n115200.8.N 1"
+}

@@ -1,0 +1,22 @@
+{
+"id":"1x0WfD_CSmmAQjWIaptiy6f0DtBclV5VD",
+"name":"AC+DC without serial port.png",
+"path":"SmartByte/工业管理/10G L2+ without PoE/STI-4168XGGCM-U/AC+DC without serial port.png",
+"type":"图片",
+"bytes":160975,
+"sha256":"fc74b187f5f7367f402f77acd7dc46e737e5dde4679413a5e56de281a1676692",
+"extracted_at":"2026-10-22T01:57:29Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":2928,
+"height":1391,
+"mode":"RGBA",
+"thumb_bytes":8006
+},
+"ocr":{
+"text":"uaa 2, PIT PUPPY UPS eed\n|... Se EES eee gm, OF\n45mm — fa | ai fa | a ti [sai | 二 和\noe I Rh A 4 Rea en) A 7) ee ee ee eee} ele\nCc) “aye “aa BA Ho BK BS RH LA HE 37? 's 23 if 37 站 全 34 if ©)\n* 440mm .\n+ C) AC 100V~240V 50/60Hz 1A\n45mm\ntC [Oo\n~ 440mm\n© © ©\n45mm\n-|\n280mm",
+"conf":46.5
+},
+"text":"uaa 2, PIT PUPPY UPS eed\n|... Se EES eee gm, OF\n45mm — fa | ai fa | a ti [sai | 二 和\noe I Rh A 4 Rea en) A 7) ee ee ee eee} ele\nCc) “aye “aa BA Ho BK BS RH LA HE 37? 's 23 if 37 站 全 34 if ©)\n* 440mm .\n+ C) AC 100V~240V 50/60Hz 1A\n45mm\ntC [Oo\n~ 440mm\n© © ©\n45mm\n-|\n280mm"
+}

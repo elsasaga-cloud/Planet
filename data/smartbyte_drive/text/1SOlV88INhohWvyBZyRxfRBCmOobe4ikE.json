@@ -1,0 +1,22 @@
+{
+"id":"1SOlV88INhohWvyBZyRxfRBCmOobe4ikE",
+"name":"6.png",
+"path":"SmartByte/工业管理/2.5G L2+ with PoE/STI-244DGGPM/6.png",
+"type":"图片",
+"bytes":4045972,
+"sha256":"509205285df42d545aa01431a4929254126ae747f019d536ef68dbbf2160a938",
+"extracted_at":"2026-10-22T01:57:50Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":3465,
+"height":2036,
+"mode":"RGBA",
+"thumb_bytes":6435
+},
+"ocr":{
+"text":"Console\n——\n| 圖\n全 一 -\n+ ~ ad ~ 115200,8,N, 1\nNon-PoE:DC 12-58V; PoE:DC 44-57V",
+"conf":62.1
+},
+"text":"Console\n——\n| 圖\n全 一 -\n+ ~ ad ~ 115200,8,N, 1\nNon-PoE:DC 12-58V; PoE:DC 44-57V"
+}

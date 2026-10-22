@@ -1,0 +1,22 @@
+{
+"id":"1DbfE59xBD2vsdYBoM0SgZDDxwygPASoe",
+"name":"8+4.png",
+"path":"SmartByte/工业管理/10G L2+ with PoE/STI-488XGGPM/8+4.png",
+"type":"图片",
+"bytes":103389,
+"sha256":"f0b9b561124eb186b521952b15f130d04210d885226f6854fab71ad5beac1fb2",
+"extracted_at":"2026-10-22T01:57:13Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":1693,
+"height":711,
+"mode":"RGBA",
+"thumb_bytes":9735
+},
+"ocr":{
+"text":"51mm\n176mm\n158mm\n58.7mm\n©\nce)\n©\n48.3mm",
+"conf":86.0
+},
+"text":"51mm\n176mm\n158mm\n58.7mm\n©\nce)\n©\n48.3mm"
+}
