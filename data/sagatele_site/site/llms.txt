@@ -1,0 +1,58 @@
+# Saga Telecom
+
+> Saga Telecom is an engineering and supply-chain-first telecom partner based in Shenzhen, China.
+> We concentrate on managed switching built on Marvell and CENTEC chipset platforms, provide deep OEM/ODM/SKD/CKD customization, and hold strategic chip inventory so supply holds when allocation tightens.
+> We serve OEMs, brand owners, system integrators, ISPs, and distributors who value architectural consistency, lifecycle continuity, and low total deployment cost.
+
+## What we do
+
+- Access-layer managed switching on Marvell platforms (L2+, PoE / PoE+ / PoE++, ERPS G.8032 ring protection)
+- Aggregation, core, and data-center switching on CENTEC platforms (L3, EVPN-VXLAN, MLAG, MPLS, 10G to 100G)
+- Commercial and industrial Ethernet switches, DIN-rail and rack-mount
+- OEM / ODM / SKD / CKD customization: hardware, firmware, CLI, SNMP MIBs, and web UI white-labeling
+- Strategic chip inventory and lifecycle management for predictable supply
+
+## Selected products
+
+- STI-488XGGPM2B-2BT — 8-port industrial L2+ managed PoE++ switch with fiber bypass and 10G uplinks
+- STC-424XGGPM-280W — 24-port commercial L2+ managed PoE switch with 4x10G SFP+ and redundant AC
+- STH-2C12XF12XE-HSI — half-width L3 managed switch with 10G access and 100G uplinks
+- STI-21616GP — 16-port industrial PoE+ unmanaged switch, 240W budget, DIN-rail, for outdoor CCTV
+- STC-448XGGM — 48-port commercial L3 managed switch with 4x10G SFP+ uplinks and AC/DC options
+- STH-8C48DX-HSI — data-center L3 switch with 48x25G SFP28 and 8x100G uplinks, redundant hot-swap PSU
+
+## Why Saga Telecom
+
+- Engineering-driven, not marketing-driven: we optimize feature sets, hold strategic inventory, deliver deep customization.
+- Strategic inventory is the product — buffer stock on key chipsets planned against demand, not speculative stockpiling.
+- Lifecycle continuity — hardware, firmware, and software stay coherent across product generations.
+- Transparent boundaries: we do not do cloud-managed platforms, rail/transit certified switches, IP67 enclosures, or consumer routers.
+
+## Site
+
+- Home: https://sagatele.com
+- Capabilities: https://sagatele.com/#/capabilities
+- Resources: https://sagatele.com/#/resources
+- Contact: https://sagatele.com/#/contact
+- Email: alan@sagatele.com
+
+## Products
+
+- https://sagatele.com/products/sti-488xggpm2b-2bt.html
+- https://sagatele.com/products/stc-424xggpm-280w.html
+- https://sagatele.com/products/sth-2c12xf12xe-hsi.html
+- https://sagatele.com/products/sti-21616gp.html
+- https://sagatele.com/products/stc-448xggm.html
+- https://sagatele.com/products/sth-8c48dx-hsi.html
+
+## Insights
+
+- https://sagatele.com/insights/strategic-inventory-procurement.html
+- https://sagatele.com/insights/marvell-vs-generic-switches.html
+- https://sagatele.com/insights/evaluate-switch-supplier.html
+- https://sagatele.com/insights/oem-odm-skd-ckd.html
+- https://sagatele.com/insights/industrial-vs-commercial-switch-selection.html
+- https://sagatele.com/insights/poe-budget-planning.html
+- https://sagatele.com/insights/chipset-allocation-tightens.html
+- https://sagatele.com/insights/five-questions-oem-agreement.html
+- https://sagatele.com/insights/public-safety-deployment-case.html

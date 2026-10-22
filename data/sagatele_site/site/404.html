@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>404 — Page Not Found · Saga Telecom</title>
+<meta name="robots" content="noindex, follow">
+<style>
+  :root{
+    --ink:#1a1a18;
+    --paper:#f1efe9;
+    --paper-deep:#e8e4da;
+    --rule:#1a1a18;
+    --rule-light:#b9b3a4;
+    --accent:#8a2e1f;
+    --mono:"Courier New", Courier, monospace;
+    --serif:"Times New Roman", Times, serif;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{
+    font-family:var(--serif);
+    background:var(--paper);
+    color:var(--ink);
+    min-height:100vh;
+    display:flex;
+    flex-direction:column;
+  }
+  .topstrip{
+    background:var(--ink); color:var(--paper);
+    font-family:var(--mono); font-size:12px; letter-spacing:0.06em;
+    padding:6px 32px; display:flex; justify-content:space-between;
+  }
+  .topstrip span{opacity:0.75;}
+  header{
+    border-bottom:3px double var(--rule);
+    padding:22px 32px 14px;
+    display:flex; align-items:center; gap:14px;
+  }
+  .mark{
+    width:40px; height:40px; border:2px solid var(--ink);
+    display:flex; align-items:center; justify-content:center;
+    font-family:var(--mono); font-weight:bold; font-size:15px;
+  }
+  header h1{font-size:26px; font-weight:700; font-family:var(--serif);}
+  header .tagline{font-family:var(--mono); font-size:11px; letter-spacing:0.08em; color:#555; text-transform:uppercase; margin-top:2px;}
+  .main{
+    flex:1; display:flex; align-items:center; justify-content:center;
+    padding:64px 32px;
+  }
+  .card{
+    border:1.5px solid var(--ink); padding:48px 56px; max-width:560px; width:100%;
+    background:var(--paper-deep);
+  }
+  .err-code{
+    font-family:var(--mono); font-size:72px; font-weight:bold;
+    color:var(--accent); line-height:1; margin-bottom:8px;
+    letter-spacing:-0.02em;
+  }
+  .err-label{
+    font-family:var(--mono); font-size:12px; text-transform:uppercase;
+    letter-spacing:0.1em; color:#888; margin-bottom:28px;
+    border-bottom:1px solid var(--rule-light); padding-bottom:16px;
+  }
+  .err-msg{font-size:18px; line-height:1.65; color:#3a3a36; margin-bottom:32px;}
+  .btn{
+    font-family:var(--mono); font-size:13px; letter-spacing:0.04em;
+    padding:13px 24px; border:1.5px solid var(--ink);
+    background:var(--ink); color:var(--paper);
+    text-decoration:none; display:inline-block; cursor:pointer;
+    transition:background .15s;
+  }
+  .btn:hover{background:var(--accent); border-color:var(--accent);}
+  footer{
+    background:var(--ink); color:var(--paper);
+    padding:18px 32px; display:flex; justify-content:space-between;
+    font-family:var(--mono); font-size:11.5px; color:#a89c8a; flex-wrap:wrap; gap:8px;
+  }
+</style>
+</head>
+<body>
+
+<div class="topstrip">
+  <span>AN ENGINEERING &amp; SUPPLY-CHAIN-FIRST TELECOM PARTNER</span>
+  <span>sagatele.com</span>
+</div>
+
+<header>
+  <div class="mark">ST</div>
+  <div>
+    <h1>Saga Telecom</h1>
+    <div class="tagline">Engineering &amp; Supply-Chain-First</div>
+  </div>
+</header>
+
+<div class="main">
+  <div class="card">
+    <div class="err-code">404</div>
+    <div class="err-label">Page Not Found</div>
+    <p class="err-msg">The page you're looking for doesn't exist or has been moved. Head back to the homepage to find what you need.</p>
+    <a class="btn" href="/">Return to Homepage</a>
+  </div>
+</div>
+
+<footer>
+  <span>&copy; 2026 Saga Telecom. All rights reserved.</span>
+  <span>sagatele.com</span>
+</footer>
+
+</body>
+</html>

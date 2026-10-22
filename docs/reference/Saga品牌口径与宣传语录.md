@@ -66,3 +66,14 @@
 - ✅ `scripts/render.py` 首触样板：落款改为 Saga 自有口径（"Saga Telecom — An Engineering & Supply-Chain-First Telecom Partner · PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://sagatele.com/"）；"We build" → "We supply"；工业线保修措辞改为 "up to 5-year warranty on the 6-series industrial line"（Q-22 保守口径）。
 - ✅ Q-24 按用户 T16 指令关闭：Factory Tour 只能以 "our manufacturing partner's ISO9001/14001 facility" 引用，不当 Saga 自述。
 - ⏳ 新建 Q-25：首触落款是否沿用 Mikrotik 继承的旧落款（见 `待统一处理问题清单.md`）。
+
+## 补（13:36Z）：第四个自有来源 —— 官网 sagatele.com 源码
+- 来源：`SimonSaga-202306/sagatele-site`（Simon 的 GitHub Pages 仓库，2026-08-01 起 45 次提交）；全文见 `docs/reference/Saga官网_sagatele.com_全文_2026-10-22.md`，原始 HTML 在 `data/sagatele_site/site/`。
+- 官网核心句（可直接复用）：
+  - "An Engineering & Supply-Chain-First Telecom Partner" / "Built to engineer, not just to sell."
+  - "We commit to Marvell and CENTEC architectures and go deep — not broad."
+  - "Chip inventory, held on purpose." / "Strategic inventory isn't a cost center. It's the product."
+  - "We're not a marketing-driven company. We put resources into engineering and inventory because that's where we actually create value for clients."
+  - "Typical response within one business day. We don't use contact forms — direct email gets a faster, more useful reply."
+- 官网 At-a-Glance：Positioning = Engineering & Supply-Chain-First；Chipset Platforms = Marvell · CENTEC · Realtek；Customization = OEM / ODM / SKD / CKD；Supply Model = Strategic Inventory · Fast Lead Time；Certifications = CE · FCC · RoHS · REACH · UKCA；Base = Shenzhen, China（**与郑州主体冲突，见复盘 F14**）。
+- 官网「不做」清单：Rail / transit certified (EN50155)、IP67、Consumer / home routers；UL 与 KC 写成「available on request for qualified projects」（比本库「无 UL」口径松，原样保留）。
