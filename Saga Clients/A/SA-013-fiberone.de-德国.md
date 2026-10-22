@@ -111,11 +111,20 @@ updated: 2026-10-22
 - **【Gmail 往来（S 邮箱）】合规审查：NYNEX 测试 LT-S8328XG 时发现 SmartByte 通用 MIB 内含 3 家其他 OEM 客户/品牌的企业 OID（.57430 Dongguan Huarong、.56813 Fuzhou Dockeer、.171 D-Link），要求说明 Saga 与 SmartByte 关系以报备合规部门；SmartByte 承认「忘了删其他 OEM 客户的 OID」，并提出按客户自有 OID 定制固件；NYNEX 自有 IANA PEN 44770，但要求 SmartByte 先申请自己的 PEN 并把私有 OID 迁到自己的树下，还追问 OEM 数据（产品 ID / PEN 前缀 / logo）是写死在固件还是独立 OEM 配置分区**
   > The MIB enterprise IDs (.1.3.6.1.4.1.57430.* and .1.3.6.1.4.1.56813.* and .1.3.6.1.4.1.171.*) are registered to two other companies … How is smart bytes/saga telecom related to these companies? … Can you please request your own SmartByte SNMP enterprise OID at https://www.iana.org/assignments/enterprise-numbers/ … Is the OEM data like the product ID, SNMP PEN prefix, company logo, etc. hardcoded in the firmware (separate firmware file for each OEM)?
   > 来源：data/gmail_s/messages/2025/2025-03.jsonl（主题 RE: Testing Feedback，f.kriewitz@nynex.de ↔ peter@smartbyte.com.cn，抄 S 邮箱）（抓取 2025-03-27）
+- **【S 邮箱原文】2026-09-29 NYNEX 询价 20 × STC-4168XGGCM（双 AC 电源，同上次订单）含运到德国；Simon 当日答材料涨价（PCB / RAM）、汇率 6.71、可 EUR 结算**
+  > can you please share a quote for 20 x STC-4168XGGCM switches (dual AC PSUs, same as last order) including shipping to Germany.
+  > 来源：（S 邮箱 key afced0c9af361141，2026-09-29T13:36Z；回信 key 38d19aa9fadaae82）（抓取 2026-10-22）
+- **【S 邮箱原文】2026-09-30 Simon 报最终价：2,015 RMB/台 = 300 USD（1:6.71）= 265.2 EUR（1:7.6）；交期 3 周 / 15 个工作日（下单后起算）；客户称因涨价需再找 3 家比价**
+  > Best offer is 2015RMB/PC USD offer: 300USD/PC … EUR offer: 265.2EUR/PC … Production time: 3 weeks, it is 15 working days. AFTER the order is confirmed!
+  > 来源：（S 邮箱 key 074a700ad4b10bf7，2026-09-30T05:50Z）（抓取 2026-10-22）
+- **【S 邮箱原文】2026-10-06 NYNEX 要欧元账户 → Simon 发 invoice + 银行确认（同一账户收 USD / EUR）；2026-10-15 NYNEX 付款并要求成品用 SmartByte 原始产品名 / ID 与 SmartByte SNMP 厂商 OID；Simon 同意「let's do SmartByte information」；2026-10-17 确认收款、投产**
+  > payment has been made (see attachment). One additional note: We would pfeffere to have them with original SmartByte product names/IDs. Please make sure that the SmartByte and SNMP vendor OIDs are used.
+  > 来源：（S 邮箱 key 60ac95de9259a792 / 81f8fe275f461480 / 95b7153bc20857f6，2026-10-15～17）（抓取 2026-10-22）
 - **KP**：Frederik Kriewitz（Systems Engineer / 网络负责人（RIPE 联系人、政策文件署名人；成单联系人））f.kriewitz@nynex.de +49 6151 50074-009〔https://ipinfo.io/AS200519/178.17.236.0/23 + 用户表〕
 - **KP**：Gunter Frank（创始人/合伙人（1999/2000 创立）） 〔https://nynex.de/company/〕
 - **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 活跃 → A
 - 备注：A 维持：运营商持续采购楼宇接入交换机（48 口/L2+/2.5G 上联）与贴牌 MC/SFP；P1 改 STC-448XGGPM 或 STC-424XGGPM-280W（10G 上联）。
-【2026-10-22 复盘补】NYNEX 2025-03 的 SNMP/MIB 合规追问是「工程型缓冲层」的真实考题：欧洲客户会用 snmpwalk 核 OID 归属。Saga 应自己申请一个 IANA PEN（免费、在线表单、约 1–2 周）并要求 SmartByte 在 Saga 版固件里只保留 Saga PEN 下的私有 MIB；给 NYNEX/德国客户的 OEM 说明要能回答「OEM 数据是固件内写死还是独立配置分区」。对应 Q-35。
+【2026-10-22 复盘补】NYNEX 2025-03 的 SNMP/MIB 合规追问是「工程型缓冲层」的真实考题：欧洲客户会用 snmpwalk 核 OID 归属。Saga 应自己申请一个 IANA PEN（免费、在线表单、约 1–2 周）并要求 SmartByte 在 Saga 版固件里只保留 Saga PEN 下的私有 MIB；给 NYNEX/德国客户的 OEM 说明要能回答「OEM 数据是固件内写死还是独立配置分区」。对应 Q-35。 ｜ 针对性加厚 2026-10-22（S 邮箱 2026-09/10 第 6 单，T29-U13 ②）
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
 
@@ -140,7 +149,7 @@ updated: 2026-10-22
   - 2025-08-31：Kriewitz/Frank 署名提交 TKG 修法意见书——Kriewitz 为公司决策层之一（https://bmds.bund.de/…/NYNEX_Stellungnahme_Eckpunktepapier_fiberONE_BMDS_31-August-2025.pdf）
   - 2026-10：公司 26 周年，上线 nynex.ai 自建 AI 基础设施，品牌族 nynex.de/fiberONE/nynex.ai 完整（https://nynex.de/geschichte.html）
   - 用户表：已成单（Frederik Kriewitz），要自有 logo
-- **风险/边界**：运营商自建网 → 对设备稳定性与固件（VLAN/QinQ/IGMP）要求高，需提供管理型固件说明；自有 logo = OEM 30% 档，但 ISP 采购对价格敏感，首单可按 25% 项目档试探
+- **风险/边界**：运营商自建网 → 对设备稳定性与固件（VLAN/QinQ/IGMP）要求高，需提供管理型固件说明；自有 logo = OEM 30% 档，但 ISP 采购对价格敏感，首单可按 25% 项目档试探；【2026-10-22 第二遍复盘 F11】第 6 单（20 × STC-4168XGGCM，2026-10-15 付款、10-17 投产）成交单价 2,015 RMB/台，**低于《价格主表》该型号 SmartByte 未税 CNY 2,100**（即三档公式的基数）；PI 包 5 单合计利润 7,081 RMB / USD 19,634 ≈ 5% —— 与「+20/25/30%」规则冲突，两者都保留：要么 SmartByte 对 Saga 的实际进价低于 2024-05 价目表，要么 Saga 对老客让利到贴本。客户最终选择 SmartByte 原名 + SmartByte OID（放弃 Saga 贴牌），对「Saga 品牌」定位是一个真实反馈。
 - **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——FTTB 楼宇接入：8 口千兆 + 2 SFP 管理型（可贴 fiberONE logo）是楼层/地下室接入的标准位；配 STI-110GE 千兆 MC 作单户光电转换；SFP 由 Saga 配套供货
 - **邮件切入句（英文）**：For the FTTB building side the 8-port gigabit unit with two SFP uplinks is the one we already ship under customer logos, so I am quoting it in fiberONE neutral packing together with the gigabit media converter you took before.
 
