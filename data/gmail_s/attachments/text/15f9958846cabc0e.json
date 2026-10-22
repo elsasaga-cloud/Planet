@@ -1,0 +1,19 @@
+{
+ "sha256_16": "15f9958846cabc0e",
+ "name": "front.jpg",
+ "ext": ".jpg",
+ "bytes": 402133,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 1603,
+  "height": 614,
+  "mode": "RGB",
+  "thumb_bytes": 5685
+ },
+ "warnings": [],
+ "chars": 7,
+ "text": "FDX PWR",
+ "extracted_at": "2026-10-22T03:40:48Z"
+}

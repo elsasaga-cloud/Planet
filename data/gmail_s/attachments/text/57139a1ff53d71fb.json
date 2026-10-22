@@ -1,0 +1,509 @@
+{
+ "sha256_16": "57139a1ff53d71fb",
+ "name": "WiFi6 Indoor Access Point.doc",
+ "ext": ".doc",
+ "bytes": 1812992,
+ "method": "soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+ "status": "ok",
+ "meta": {
+  "title": "Word Document",
+  "author": "",
+  "last_modified_by": "python-docx",
+  "created": "",
+  "modified": "2026-10-22T03:45:39+00:00",
+  "paragraphs": 7,
+  "tables": 2,
+  "embedded_images": 4
+ },
+ "warnings": [],
+ "chars": 4434,
+ "text": "11ax 3000Mbps Ceiling Wireless AP\nThis is a high-performance, high-speed 11ax indoor dual-band ceiling AP that can provide 2.4G and 5.8GHz dual-band wireless services. 2.4G provides up to 574Mbps access rate, and 5G provides up to 2402Mbps access rate.\nKey Features\n• With better transmission quality and higher transmission rate, the overall concurrent rate can reach up to 3000Mbps.\n• Support hardware watchdog function, automatic recovery of abnormal equipment, and maintenance free.\n• Elegant appearance design, port concealed housing, and beautiful wiring.\n• Supports two power supply modes: 48V PoE and DC 12V.\nCPU\tMT7981B+MT7976CN+7531AE\nFlash\tSPI NOR 16MB\nDDR3\t256M\n2.4G Frequency\t2.4GHz ~ 2.484GHz\n2.4G WIFI protocol\t802.11 b / g / n / ax\n\t5.150GHz～5.850GHz\n5G WIFI protocol\t802.11 a / n / ac / ax\n2.4G Antenna\t2*2.4G， gain：4.6dBi\n5G Antenna\t2*5G， gain：4dBi\nWireless data rate\t2.4G: 574Mbps，5G: 2402Mbps\n2.4G Power\t802.11b\t11M\t22±2dBm\t1M\t22±2dBm\n2.4G Power\t802.11g\t54M\t19±2dBm\t6M\t21±2dBm\n2.4G Power\t802.11n HT20\tMCS7\t18±2dBm\tMCS0\t20±2dBm\n2.4G Power\t802.11n HT40\tMCS7\t18±2dBm\tMCS0\t20±2dBm\n2.4G Power\t802.11ax HT20\tMCS11\t16±2dBm\tMCS0\t20±2dBm\n2.4G Power\t802.11ax HT40\tMCS11\t16±2dBm\tMCS0\t20±2dBm\n5G Power\t802.11a\t54M\t19±2dBm\t6M\t21±2dBm\n5G Power\t802.11n HT20\tMCS7\t18±2dBm\tMCS0\t20±2dBm\n5G Power\t802.11n HT40\tMCS7\t18±2dBm\tMCS0\t20±2dBm\n5G Power\t802.11ac HT20\tMCS7\t17±2dBm\tMCS0\t20±2dBm\n5G Power\t802.11ac HT40\tMCS7\t17±2dBm\tMCS0\t20±2dBm\n5G Power\t802.11ac HT80\tMCS9\t17±2dBm\tMCS0\t19±2dBm\n5G Power\t802.11ax HT20\tMCS11\t16±2dBm\tMCS0\t20±2dBm\n5G Power\t802.11ax HT40\tMCS11\t16±2dBm\tMCS0\t20±2dBm\n5G Power\t802.11ax HT80\tMCS11\t16±2dBm\tMCS0\t19±2dBm\n5G Power\t802.11ax HT160\tMCS11\t14±2dBm\tMCS0\t18±2dBm\n2.4G Receive Sensitivity\t802.11b\t11M\t-87dBm\t1M\t-96dBm\n2.4G Receive Sensitivity\t802.11g\t54M\t-75dBm\t6M\t-93dBm\n2.4G Receive Sensitivity\t802.11n HT20\tMCS7\t-73dBm\tMCS0\t-92dBm\n2.4G Receive Sensitivity\t802.11n HT40\tMCS7\t-70dBm\tMCS0\t-89dBm\n2.4G Receive Sensitivity\t802.11ax HT20\tMCS11\t-64dBm\tMCS0\t-92dBm\n2.4G Receive Sensitivity\t802.11ax HT40\tMCS11\t-61dBm\tMCS0\t-89dBm\n5G Receive Sensitivity\t802.11a\t54M\t-74dBm\t6M\t-92dBm\n5G Receive Sensitivity\t802.11n HT20\tMCS7\t-73dBm\tMCS0\t-90dBm\n5G Receive Sensitivity\t802.11n HT40\tMCS7\t-70dBm\tMCS0\t-87dBm\n5G Receive Sensitivity\t802.11ac HT20\tMCS7\t-67dBm\tMCS0\t-91dBm\n5G Receive Sensitivity\t802.11ac HT40\tMCS7\t-63dBm\tMCS0\t-88dBm\n5G Receive Sensitivity\t802.11ac HT80\tMCS9\t-60dBm\tMCS0\t-84dBm\n5G Receive Sensitivity\t802.11ax HT20\tMCS11\t-62dBm\tMCS0\t-91dBm\n5G Receive Sensitivity\t802.11ax HT40\tMCS11\t-59dBm\tMCS0\t-89dBm\n5G Receive Sensitivity\t802.11ax HT80\tMCS11\t-56dBm\tMCS0\t-86dBm\n5G Receive Sensitivity\t802.11ax HT160\tMCS11\t-53dBm\tMCS0\t-83dBm\n2.4G EVM\t802.11b:≤-10 dB；802.11g:≤-25 dB；802.11n:≤-28dB ; 802.11ax: ≤-35 dB\n5G EVM\t802.11a:≤-25 dB； 802.11n:≤-28 dB；802.11ac:≤-32 dB ; 802.11ax:≤-35 dB\nppm\t±20ppm\nWAN\t1个10/100/1000M WAN, support 48V POE\nLAN\t1个10/100/1000M LAN\nReset\tReset*1\nIndicator\tTriple color(sys-red，2.4G-green，5.8G-blue)\nPower\tPoE 802.3af，DC2.0 12V/1.5A，\nMax Power Consumption\t< 15W\nSize\t186mm × 186mm ×37mm\nWeight\t0.55kg\nTemperature\tWorking: -20°C to 45°C；Storage: -40°C to 70°C；Humidity: 5％～95％(Non-Condensing)\nESD\tAir: +/-8K，Touch: +/-4K\nElectrical Surge\tCommon Mode: 2K, Differential Mode: 1K\nWorking Mode\tGateway, AP\nWireless Functions\tMultiple SSID functions: 2.4GHz: 4; 5.8GHz: 4.\nWireless Functions\tSupport SSID hidden\nWireless Functions\tSupport seamless roaming\nWireless Functions\tSupport 5G Prior for a faster Ethernet.\nWireless Functions\tWireless Security: Open, WPA, WPA2PSK_TKIPAES, WAP2_EAP, WPA3\nWireless Functions\tSupport MAC filter\nWireless Functions\tSupport Wi-Fi time on/off to save energy\nWireless Functions\tSupport client isolation to improve the wireless stability\nWireless Functions\tSupport RF power adjustable, adjust the RF power based on environment.\nWireless Functions\tSupport user quantity limited, Max 64 users to access each band.\nNetworking Function\tVLAN settings\nNetworking Function\tCloud access support in gateway mode\nDevice Management\tBack-up the configuration\nDevice Management\tRestore the configuration\nDevice Management\tReset to factory default\nDevice Management\tReboot the device: including time reboot or reboot immediately\nDevice Management\tAdmin management password modify\nDevice Management\tFirmware upgrade\nDevice Management\tSystem log\nDevice Management\tSupport firmware GUI web management, AC controller management, remote management and cloud management\nProtocols\tIPv4",
+ "blocks": [
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "11ax 3000Mbps Ceiling Wireless AP"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "This is a high-performance, high-speed 11ax indoor dual-band ceiling AP that can provide 2.4G and 5.8GHz dual-band wireless services. 2.4G provides up to 574Mbps access rate, and 5G provides up to 2402Mbps access rate."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Key Features"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "• With better transmission quality and higher transmission rate, the overall concurrent rate can reach up to 3000Mbps."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "• Support hardware watchdog function, automatic recovery of abnormal equipment, and maintenance free."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "• Elegant appearance design, port concealed housing, and beautiful wiring."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "• Supports two power supply modes: 48V PoE and DC 12V."
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "CPU",
+     "MT7981B+MT7976CN+7531AE"
+    ],
+    [
+     "Flash",
+     "SPI NOR 16MB"
+    ],
+    [
+     "DDR3",
+     "256M"
+    ],
+    [
+     "2.4G Frequency",
+     "2.4GHz ~ 2.484GHz"
+    ],
+    [
+     "2.4G WIFI protocol",
+     "802.11 b / g / n / ax"
+    ],
+    [
+     "",
+     "5.150GHz～5.850GHz"
+    ],
+    [
+     "5G WIFI protocol",
+     "802.11 a / n / ac / ax"
+    ],
+    [
+     "2.4G Antenna",
+     "2*2.4G， gain：4.6dBi"
+    ],
+    [
+     "5G Antenna",
+     "2*5G， gain：4dBi"
+    ],
+    [
+     "Wireless data rate",
+     "2.4G: 574Mbps，5G: 2402Mbps"
+    ],
+    [
+     "2.4G Power",
+     "802.11b",
+     "11M",
+     "22±2dBm",
+     "1M",
+     "22±2dBm"
+    ],
+    [
+     "2.4G Power",
+     "802.11g",
+     "54M",
+     "19±2dBm",
+     "6M",
+     "21±2dBm"
+    ],
+    [
+     "2.4G Power",
+     "802.11n HT20",
+     "MCS7",
+     "18±2dBm",
+     "MCS0",
+     "20±2dBm"
+    ],
+    [
+     "2.4G Power",
+     "802.11n HT40",
+     "MCS7",
+     "18±2dBm",
+     "MCS0",
+     "20±2dBm"
+    ],
+    [
+     "2.4G Power",
+     "802.11ax HT20",
+     "MCS11",
+     "16±2dBm",
+     "MCS0",
+     "20±2dBm"
+    ],
+    [
+     "2.4G Power",
+     "802.11ax HT40",
+     "MCS11",
+     "16±2dBm",
+     "MCS0",
+     "20±2dBm"
+    ],
+    [
+     "5G Power",
+     "802.11a",
+     "54M",
+     "19±2dBm",
+     "6M",
+     "21±2dBm"
+    ],
+    [
+     "5G Power",
+     "802.11n HT20",
+     "MCS7",
+     "18±2dBm",
+     "MCS0",
+     "20±2dBm"
+    ],
+    [
+     "5G Power",
+     "802.11n HT40",
+     "MCS7",
+     "18±2dBm",
+     "MCS0",
+     "20±2dBm"
+    ],
+    [
+     "5G Power",
+     "802.11ac HT20",
+     "MCS7",
+     "17±2dBm",
+     "MCS0",
+     "20±2dBm"
+    ],
+    [
+     "5G Power",
+     "802.11ac HT40",
+     "MCS7",
+     "17±2dBm",
+     "MCS0",
+     "20±2dBm"
+    ],
+    [
+     "5G Power",
+     "802.11ac HT80",
+     "MCS9",
+     "17±2dBm",
+     "MCS0",
+     "19±2dBm"
+    ],
+    [
+     "5G Power",
+     "802.11ax HT20",
+     "MCS11",
+     "16±2dBm",
+     "MCS0",
+     "20±2dBm"
+    ],
+    [
+     "5G Power",
+     "802.11ax HT40",
+     "MCS11",
+     "16±2dBm",
+     "MCS0",
+     "20±2dBm"
+    ],
+    [
+     "5G Power",
+     "802.11ax HT80",
+     "MCS11",
+     "16±2dBm",
+     "MCS0",
+     "19±2dBm"
+    ],
+    [
+     "5G Power",
+     "802.11ax HT160",
+     "MCS11",
+     "14±2dBm",
+     "MCS0",
+     "18±2dBm"
+    ],
+    [
+     "2.4G Receive Sensitivity",
+     "802.11b",
+     "11M",
+     "-87dBm",
+     "1M",
+     "-96dBm"
+    ],
+    [
+     "2.4G Receive Sensitivity",
+     "802.11g",
+     "54M",
+     "-75dBm",
+     "6M",
+     "-93dBm"
+    ],
+    [
+     "2.4G Receive Sensitivity",
+     "802.11n HT20",
+     "MCS7",
+     "-73dBm",
+     "MCS0",
+     "-92dBm"
+    ],
+    [
+     "2.4G Receive Sensitivity",
+     "802.11n HT40",
+     "MCS7",
+     "-70dBm",
+     "MCS0",
+     "-89dBm"
+    ],
+    [
+     "2.4G Receive Sensitivity",
+     "802.11ax HT20",
+     "MCS11",
+     "-64dBm",
+     "MCS0",
+     "-92dBm"
+    ],
+    [
+     "2.4G Receive Sensitivity",
+     "802.11ax HT40",
+     "MCS11",
+     "-61dBm",
+     "MCS0",
+     "-89dBm"
+    ],
+    [
+     "5G Receive Sensitivity",
+     "802.11a",
+     "54M",
+     "-74dBm",
+     "6M",
+     "-92dBm"
+    ],
+    [
+     "5G Receive Sensitivity",
+     "802.11n HT20",
+     "MCS7",
+     "-73dBm",
+     "MCS0",
+     "-90dBm"
+    ],
+    [
+     "5G Receive Sensitivity",
+     "802.11n HT40",
+     "MCS7",
+     "-70dBm",
+     "MCS0",
+     "-87dBm"
+    ],
+    [
+     "5G Receive Sensitivity",
+     "802.11ac HT20",
+     "MCS7",
+     "-67dBm",
+     "MCS0",
+     "-91dBm"
+    ],
+    [
+     "5G Receive Sensitivity",
+     "802.11ac HT40",
+     "MCS7",
+     "-63dBm",
+     "MCS0",
+     "-88dBm"
+    ],
+    [
+     "5G Receive Sensitivity",
+     "802.11ac HT80",
+     "MCS9",
+     "-60dBm",
+     "MCS0",
+     "-84dBm"
+    ],
+    [
+     "5G Receive Sensitivity",
+     "802.11ax HT20",
+     "MCS11",
+     "-62dBm",
+     "MCS0",
+     "-91dBm"
+    ],
+    [
+     "5G Receive Sensitivity",
+     "802.11ax HT40",
+     "MCS11",
+     "-59dBm",
+     "MCS0",
+     "-89dBm"
+    ],
+    [
+     "5G Receive Sensitivity",
+     "802.11ax HT80",
+     "MCS11",
+     "-56dBm",
+     "MCS0",
+     "-86dBm"
+    ],
+    [
+     "5G Receive Sensitivity",
+     "802.11ax HT160",
+     "MCS11",
+     "-53dBm",
+     "MCS0",
+     "-83dBm"
+    ],
+    [
+     "2.4G EVM",
+     "802.11b:≤-10 dB；802.11g:≤-25 dB；802.11n:≤-28dB ; 802.11ax: ≤-35 dB"
+    ],
+    [
+     "5G EVM",
+     "802.11a:≤-25 dB； 802.11n:≤-28 dB；802.11ac:≤-32 dB ; 802.11ax:≤-35 dB"
+    ],
+    [
+     "ppm",
+     "±20ppm"
+    ],
+    [
+     "WAN",
+     "1个10/100/1000M WAN, support 48V POE"
+    ],
+    [
+     "LAN",
+     "1个10/100/1000M LAN"
+    ],
+    [
+     "Reset",
+     "Reset*1"
+    ],
+    [
+     "Indicator",
+     "Triple color(sys-red，2.4G-green，5.8G-blue)"
+    ],
+    [
+     "Power",
+     "PoE 802.3af，DC2.0 12V/1.5A，"
+    ],
+    [
+     "Max Power Consumption",
+     "< 15W"
+    ],
+    [
+     "Size",
+     "186mm × 186mm ×37mm"
+    ],
+    [
+     "Weight",
+     "0.55kg"
+    ],
+    [
+     "Temperature",
+     "Working: -20°C to 45°C；Storage: -40°C to 70°C；Humidity: 5％～95％(Non-Condensing)"
+    ],
+    [
+     "ESD",
+     "Air: +/-8K，Touch: +/-4K"
+    ],
+    [
+     "Electrical Surge",
+     "Common Mode: 2K, Differential Mode: 1K"
+    ]
+   ]
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "Working Mode",
+     "Gateway, AP"
+    ],
+    [
+     "Wireless Functions",
+     "Multiple SSID functions: 2.4GHz: 4; 5.8GHz: 4."
+    ],
+    [
+     "Wireless Functions",
+     "Support SSID hidden"
+    ],
+    [
+     "Wireless Functions",
+     "Support seamless roaming"
+    ],
+    [
+     "Wireless Functions",
+     "Support 5G Prior for a faster Ethernet."
+    ],
+    [
+     "Wireless Functions",
+     "Wireless Security: Open, WPA, WPA2PSK_TKIPAES, WAP2_EAP, WPA3"
+    ],
+    [
+     "Wireless Functions",
+     "Support MAC filter"
+    ],
+    [
+     "Wireless Functions",
+     "Support Wi-Fi time on/off to save energy"
+    ],
+    [
+     "Wireless Functions",
+     "Support client isolation to improve the wireless stability"
+    ],
+    [
+     "Wireless Functions",
+     "Support RF power adjustable, adjust the RF power based on environment."
+    ],
+    [
+     "Wireless Functions",
+     "Support user quantity limited, Max 64 users to access each band."
+    ],
+    [
+     "Networking Function",
+     "VLAN settings"
+    ],
+    [
+     "Networking Function",
+     "Cloud access support in gateway mode"
+    ],
+    [
+     "Device Management",
+     "Back-up the configuration"
+    ],
+    [
+     "Device Management",
+     "Restore the configuration"
+    ],
+    [
+     "Device Management",
+     "Reset to factory default"
+    ],
+    [
+     "Device Management",
+     "Reboot the device: including time reboot or reboot immediately"
+    ],
+    [
+     "Device Management",
+     "Admin management password modify"
+    ],
+    [
+     "Device Management",
+     "Firmware upgrade"
+    ],
+    [
+     "Device Management",
+     "System log"
+    ],
+    [
+     "Device Management",
+     "Support firmware GUI web management, AC controller management, remote management and cloud management"
+    ],
+    [
+     "Protocols",
+     "IPv4"
+    ]
+   ]
+  }
+ ],
+ "extracted_at": "2026-10-22T03:45:39Z"
+}

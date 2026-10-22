@@ -1,0 +1,19 @@
+{
+ "sha256_16": "ca616d4913d9ba04",
+ "name": "IMG-20250728-WA0003.jpg",
+ "ext": ".jpg",
+ "bytes": 204565,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 1200,
+  "height": 1600,
+  "mode": "RGB",
+  "thumb_bytes": 14081
+ },
+ "warnings": [],
+ "chars": 229,
+ "text": "”\nChafenger\n—Port 10G Multi— Gigabit\nWWW\n6935364030919\nTL-SX1008\n8-port 10G Multi-Gigabit Desktop/Rackmount Switch\n| 更 | 到 | 已 1ocbps 25Gbps\naa DP es Left LED “Right LED\n(06/56) [essen (25G/1G/100M) [areoow\n$369.00\nIMEMBE\n$359.00",
+ "extracted_at": "2026-10-22T03:41:55Z"
+}

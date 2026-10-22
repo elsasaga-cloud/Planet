@@ -1,0 +1,20 @@
+{
+ "sha256_16": "a704eeaa86773ae2",
+ "name": "Shipping Label.jpg",
+ "ext": ".jpg",
+ "bytes": 4982802,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 4624,
+  "height": 3468,
+  "mode": "RGB",
+  "software": "MediaTek Camera Application\u0000\u0000\u0000\u0000",
+  "thumb_bytes": 9408
+ },
+ "warnings": [],
+ "chars": 36,
+ "text": "ANGORA NETW¢ IRKS\nModel: ANW-2116-PG",
+ "extracted_at": "2026-10-22T03:44:09Z"
+}

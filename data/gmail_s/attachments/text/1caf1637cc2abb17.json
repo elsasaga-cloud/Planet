@@ -1,0 +1,21 @@
+{
+ "sha256_16": "1caf1637cc2abb17",
+ "name": "1U Umanaged.png",
+ "ext": ".png",
+ "bytes": 398373,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 1000,
+  "height": 500,
+  "mode": "RGB",
+  "datetime": "2024:12:04 19:28:40",
+  "software": "Adobe Photoshop CS6 (Windows)",
+  "thumb_bytes": 14960
+ },
+ "warnings": [],
+ "chars": 4,
+ "text": "人 an",
+ "extracted_at": "2026-10-22T03:41:20Z"
+}

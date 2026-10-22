@@ -1,0 +1,20 @@
+{
+ "sha256_16": "182033d9af821f5c",
+ "name": "MC10G printing.jpg",
+ "ext": ".jpg",
+ "bytes": 4013272,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 4096,
+  "height": 3072,
+  "mode": "RGB",
+  "software": "FOA-AL00 4.0.0.113(C00E112R4P2)",
+  "thumb_bytes": 10728
+ },
+ "warnings": [],
+ "chars": 80,
+ "text": "Ethernet 10G Base-TX to Ethernet 10G SFP Conversion\n10G Ethernet Media Converter",
+ "extracted_at": "2026-10-22T03:45:12Z"
+}

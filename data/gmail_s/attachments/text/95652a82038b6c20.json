@@ -1,0 +1,19 @@
+{
+ "sha256_16": "95652a82038b6c20",
+ "name": "level one.png",
+ "ext": ".png",
+ "bytes": 236160,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1130,
+  "height": 591,
+  "mode": "RGB",
+  "thumb_bytes": 6560
+ },
+ "warnings": [],
+ "chars": 11,
+ "text": "Bijlevelone",
+ "extracted_at": "2026-10-22T03:41:03Z"
+}

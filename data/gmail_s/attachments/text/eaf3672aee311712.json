@@ -1,0 +1,19 @@
+{
+ "sha256_16": "eaf3672aee311712",
+ "name": "Outlook-0ugdt2nj.png",
+ "ext": ".png",
+ "bytes": 486844,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1920,
+  "height": 717,
+  "mode": "RGBA",
+  "thumb_bytes": 8024
+ },
+ "warnings": [],
+ "chars": 331,
+ "text": "M=ENET\n© X www.megnet.co.uk\nIN\nLhd ) 謂 說\nFree Delivery\nFor UK & Europe\nfor orders above\n£1000\nSave Big On\nVolume Purchase\n20% Discount on the\nSelling Price for Chimera\nProducts of orders of 50\nunits or more per part\nnumber.\n10% Discount on\nChimera Products\nMin. order value\n£1200 & additional 5%\ndiscount on referral\norder/customer",
+ "extracted_at": "2026-10-22T03:41:43Z"
+}

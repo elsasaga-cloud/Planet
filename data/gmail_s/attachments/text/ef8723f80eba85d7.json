@@ -1,0 +1,19 @@
+{
+ "sha256_16": "ef8723f80eba85d7",
+ "name": "24-port LAN.png",
+ "ext": ".png",
+ "bytes": 2386620,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "PNG",
+  "width": 1740,
+  "height": 2494,
+  "mode": "RGBA",
+  "thumb_bytes": 14155
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:44:06Z"
+}

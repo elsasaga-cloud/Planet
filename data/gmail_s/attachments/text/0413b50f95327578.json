@@ -1,0 +1,24 @@
+{
+ "sha256_16": "0413b50f95327578",
+ "name": "HT2500-PSE-BT60 Datasheet.pdf",
+ "ext": ".pdf",
+ "bytes": 641933,
+ "method": "pdfplumber",
+ "status": "ok",
+ "meta": {
+  "pages": 2,
+  "author": "Sdapo-Emily",
+  "creator": "WPS 文字",
+  "creationdate": "D:20250912172457+08'00'",
+  "moddate": "D:20251022153114+08'00'",
+  "ocr_pages": 0
+ },
+ "warnings": [],
+ "chars": 901,
+ "text": "[p1]\nHT2500-PSE-BT60\n60W, PoE++,10/100/1000/2500Mbps Single Port PoE Active Injector\nFeatures:\n IEEE802.3af/at/btCompliant  PoEdata&powertransmissiondistance\nFeatur\nP\ne\no\ns:\nEPin:1,2+/3,6-;4,5+/7,8- 100meter\n Power:60Watts  FullOver-VoltageandOver-Current\n InputVoltage:100~240VAC Protection;\n OutputVoltage:54VDC~57VDC  Compactsize\n Support10/100/1000/2500Mbps  Metelhousing\nMechanicalCharacteristics:\n Length:172.0mm(6.77inch)  Height:44.0mm(1.73inch)\n Width:76.0mm(2.99inch)  Weight:660g(23.28oz)persetincludingpackings&accessories\nOutputSpecifications:\nDCoutput Load Regulation\nModel Dataspeed\nvoltage Min. Max. Line Load\nHT2500-PSE-BT60 10/100/1000/2500Mbps 54V~57V 10mA 1.2A 54V~57V\nApplications:\n54V~57V\n IPTelephones  SecurityCameras\n WirelessAccessPoints  IPPointServers\n BluetoothAccessPoints  WiMAXAccessPoints\nDimensionalDiagram:(Unit:mm)\n~57V\n\n[p2]\nWiringDiagram:\n~57V",
+ "pages": [
+  "HT2500-PSE-BT60\n60W, PoE++,10/100/1000/2500Mbps Single Port PoE Active Injector\nFeatures:\n IEEE802.3af/at/btCompliant  PoEdata&powertransmissiondistance\nFeatur\nP\ne\no\ns:\nEPin:1,2+/3,6-;4,5+/7,8- 100meter\n Power:60Watts  FullOver-VoltageandOver-Current\n InputVoltage:100~240VAC Protection;\n OutputVoltage:54VDC~57VDC  Compactsize\n Support10/100/1000/2500Mbps  Metelhousing\nMechanicalCharacteristics:\n Length:172.0mm(6.77inch)  Height:44.0mm(1.73inch)\n Width:76.0mm(2.99inch)  Weight:660g(23.28oz)persetincludingpackings&accessories\nOutputSpecifications:\nDCoutput Load Regulation\nModel Dataspeed\nvoltage Min. Max. Line Load\nHT2500-PSE-BT60 10/100/1000/2500Mbps 54V~57V 10mA 1.2A 54V~57V\nApplications:\n54V~57V\n IPTelephones  SecurityCameras\n WirelessAccessPoints  IPPointServers\n BluetoothAccessPoints  WiMAXAccessPoints\nDimensionalDiagram:(Unit:mm)\n~57V",
+  "WiringDiagram:\n~57V"
+ ],
+ "extracted_at": "2026-10-22T03:41:42Z"
+}

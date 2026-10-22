@@ -1,0 +1,19 @@
+{
+ "sha256_16": "fc49c8f156dc0d1d",
+ "name": "Vi-Link Logo MC10G-1.jpg",
+ "ext": ".jpg",
+ "bytes": 492794,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 3408,
+  "height": 2501,
+  "mode": "RGB",
+  "thumb_bytes": 7616
+ },
+ "warnings": [],
+ "chars": 91,
+ "text": "Fiber Optic Communications\nModel: MC10G\nEthernet 10G Base-TX to Ethernet 10G SFP Conversion",
+ "extracted_at": "2026-10-22T03:45:13Z"
+}

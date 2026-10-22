@@ -1,0 +1,19 @@
+{
+ "sha256_16": "db6852054965313b",
+ "name": "image001.png",
+ "ext": ".png",
+ "bytes": 125528,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 4493,
+  "height": 566,
+  "mode": "RGB",
+  "thumb_bytes": 2948
+ },
+ "warnings": [],
+ "chars": 225,
+ "text": "SmartByte\n。 Industrial Ethernet Switches » Industry-specific Ethernet Switches » Industrial PoE Switches\nThe Real Source Factory of Ethernet Switches » Industrial Media Converters » Commercial Ethernet Switches » PoE Switches",
+ "extracted_at": "2026-10-22T03:44:02Z"
+}

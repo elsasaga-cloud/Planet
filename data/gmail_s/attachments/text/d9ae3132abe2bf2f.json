@@ -1,0 +1,19 @@
+{
+ "sha256_16": "d9ae3132abe2bf2f",
+ "name": "SC fiber.png",
+ "ext": ".png",
+ "bytes": 395343,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "PNG",
+  "width": 589,
+  "height": 790,
+  "mode": "RGBA",
+  "thumb_bytes": 13113
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:49:10Z"
+}

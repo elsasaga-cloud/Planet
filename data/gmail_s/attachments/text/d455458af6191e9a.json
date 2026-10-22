@@ -1,0 +1,19 @@
+{
+ "sha256_16": "d455458af6191e9a",
+ "name": "2.png",
+ "ext": ".png",
+ "bytes": 160504,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1734,
+  "height": 1407,
+  "mode": "RGBA",
+  "thumb_bytes": 9808
+ },
+ "warnings": [],
+ "chars": 802,
+ "text": "Port Configuration - Switch\nCA Notsecure\nx 十\n192.168.56.166/#/config/port/config\n= Configuration v / Port\nL2 Port\n2 Batch Edit\nName\ngigabitEthernet0/1\ngigabitEthernet0/2\ngigabitEthernet0/3\ngigabitEthereto/4\ngigabitEthernet0/5\ngigabitEthernet0/6\ngigabitEthernet0/7\ngigabitEthernet0/8\ntengigabitEthernet0/9\ntengigabitEthernet0/10\ntengigabitEthernet0/11\ntengigabitEthernet0/12\ngigabitEthernet0/13\ngigabitEthernet0/14\ngigabitEthernet0/15\ngigabitEthernet0/16\nAdmin State\nNo shutdown\nNo shutdown\nNo shutdown\nNo shutdown\nNo shutdown\nNo shutdown\nNo shutdown\nNo shutdown\nNo shutdown\nNo shutdown\nNo shutdown\nNo shutdown\nNo shutdown\nNo shutdown\nNo shutdown\nNo shutdown\n10GBASE-X\n10GBASE-X\n10GBASE-X\n10GBASE-X\n1000BASE-X\n1000BASE-X\n1000BASE-X\n1000BASE-X\nDuplex/Autoneg\nFlow Control\nDescription\n» Port statis\nAction",
+ "extracted_at": "2026-10-22T03:51:34Z"
+}

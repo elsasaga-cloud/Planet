@@ -1,0 +1,19 @@
+{
+ "sha256_16": "f5d64b7c8fd0d323",
+ "name": "Printing.jpg",
+ "ext": ".jpg",
+ "bytes": 3119361,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 2323,
+  "height": 1607,
+  "mode": "RGB",
+  "thumb_bytes": 14941
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:40:44Z"
+}

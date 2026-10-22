@@ -1,0 +1,25 @@
+{
+ "sha256_16": "4002c06c2d9fddd2",
+ "name": "RFQ 25RIM0412A01 SAGA TELECOM.pdf",
+ "ext": ".pdf",
+ "bytes": 95163,
+ "method": "pdfplumber",
+ "status": "ok",
+ "meta": {
+  "pages": 1,
+  "title": "Price Quote Template",
+  "author": "www.vertex42.com",
+  "creator": "Microsoft® Excel® 2016",
+  "producer": "Microsoft® Excel® 2016",
+  "creationdate": "D:20250411221718-10'00'",
+  "moddate": "D:20250411221718-10'00'",
+  "ocr_pages": 0
+ },
+ "warnings": [],
+ "chars": 448,
+ "text": "[p1]\nREQUEST FOR QUOTATION\nDate Shipping Instructions Enquiry Number\n12-Apr-25 To Collect 25 - RIM0412A01\nFROM: TO:\nRIMETECH CONSTRUCTION LIMITED SAGA TELECOM/OEM FACTORY\n8630 LANGASHE ROAD\nINDUSTRIAL AREA\nKITWE\nZAMBIA\nIten No. Description UOM Qty Unit Price Total Cost\n-\nNET ADC (IMS) ETHERNET (10/100 BASE-TX) WITH AUTO-MDIX (AUTO-\n1 EA 6\nCROSSOVER) RS-232 2-WIRE PORT FOR TIME S\n-\n-\nSUB TOTAL -\n-\nGRAND TOTAL -\nManaging Director: Jonathan Siyame",
+ "pages": [
+  "REQUEST FOR QUOTATION\nDate Shipping Instructions Enquiry Number\n12-Apr-25 To Collect 25 - RIM0412A01\nFROM: TO:\nRIMETECH CONSTRUCTION LIMITED SAGA TELECOM/OEM FACTORY\n8630 LANGASHE ROAD\nINDUSTRIAL AREA\nKITWE\nZAMBIA\nIten No. Description UOM Qty Unit Price Total Cost\n-\nNET ADC (IMS) ETHERNET (10/100 BASE-TX) WITH AUTO-MDIX (AUTO-\n1 EA 6\nCROSSOVER) RS-232 2-WIRE PORT FOR TIME S\n-\n-\nSUB TOTAL -\n-\nGRAND TOTAL -\nManaging Director: Jonathan Siyame"
+ ],
+ "extracted_at": "2026-10-22T03:43:46Z"
+}

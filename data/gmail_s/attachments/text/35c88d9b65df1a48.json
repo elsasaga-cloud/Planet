@@ -1,0 +1,23 @@
+{
+ "sha256_16": "35c88d9b65df1a48",
+ "name": "SGP250051-Zhengzhou Saga Telecom.pdf",
+ "ext": ".pdf",
+ "bytes": 344107,
+ "method": "pdfplumber",
+ "status": "ok",
+ "meta": {
+  "pages": 1,
+  "title": "PO RN 24-25.xlsx",
+  "producer": "Microsoft: Print To PDF",
+  "creationdate": "D:20240821211540+08'00'",
+  "moddate": "D:20240821211540+08'00'",
+  "ocr_pages": 0
+ },
+ "warnings": [],
+ "chars": 1250,
+ "text": "[p1]\nResonant Networks Pte Ltd\n81 Ubi Avenue 4 #09-28 UB. One\nSingapore 408830\nEmail: sales-inf@resonantnetworks.com\nRegistration No: 202005761Z\nPurchase Order\nDate: 21-Aug-24 PO No: SGP250051\nAttn: Simon Cheng\nZhengzhou Saga Telecom Co., Ltd.\n316, 22nd Flr, Bldg 57, No. 2 Hanghai East Road\nGuancheng District,\nZhengzhou, Henan, China 450009.\nTel: 086-15237149683\nRe: Commercial Managed Ethernet Switch Quotation Date: 21-Aug-24\nQuote Ref: Demo Unit\nKindly help to process this PO immediately.\nNo Item Description Qty Unit Price Total Price\n8*10 Gigabit RJ45, Downward compatible(5G/2.5G/1G/100M)\nWeb managed, Non-POE\n1 STC-08XGWE AC input, 1U rack, metal case 1 USD 185.00 USD 1 85.00\nwith internal AC-DC converter\nwith power cord, with mounting brackets\nLot\n2 Freight Cost UPS air, door-to-door service 1 USD 25.00 USD 2 5.00\nTotal USD 2 10.00\nGrand Total USD 2 10.00\nPayment Terms: 30 Days upon invoice\nBill to: finops@resonantnetworks.com\nWarranty: 1 year, lifetime technical support\nYours sincerely,\nAu Wai Choon\nResonant Networks Pte Ltd\nHP: +65 9734 0606\nEmail: sales-inf@resonantnetworks.com\n**This is a computer generated document, signature is not required.\n**The authorized personnel to send and sign off the PO will be Au Wai Choon only.",
+ "pages": [
+  "Resonant Networks Pte Ltd\n81 Ubi Avenue 4 #09-28 UB. One\nSingapore 408830\nEmail: sales-inf@resonantnetworks.com\nRegistration No: 202005761Z\nPurchase Order\nDate: 21-Aug-24 PO No: SGP250051\nAttn: Simon Cheng\nZhengzhou Saga Telecom Co., Ltd.\n316, 22nd Flr, Bldg 57, No. 2 Hanghai East Road\nGuancheng District,\nZhengzhou, Henan, China 450009.\nTel: 086-15237149683\nRe: Commercial Managed Ethernet Switch Quotation Date: 21-Aug-24\nQuote Ref: Demo Unit\nKindly help to process this PO immediately.\nNo Item Description Qty Unit Price Total Price\n8*10 Gigabit RJ45, Downward compatible(5G/2.5G/1G/100M)\nWeb managed, Non-POE\n1 STC-08XGWE AC input, 1U rack, metal case 1 USD 185.00 USD 1 85.00\nwith internal AC-DC converter\nwith power cord, with mounting brackets\nLot\n2 Freight Cost UPS air, door-to-door service 1 USD 25.00 USD 2 5.00\nTotal USD 2 10.00\nGrand Total USD 2 10.00\nPayment Terms: 30 Days upon invoice\nBill to: finops@resonantnetworks.com\nWarranty: 1 year, lifetime technical support\nYours sincerely,\nAu Wai Choon\nResonant Networks Pte Ltd\nHP: +65 9734 0606\nEmail: sales-inf@resonantnetworks.com\n**This is a computer generated document, signature is not required.\n**The authorized personnel to send and sign off the PO will be Au Wai Choon only."
+ ],
+ "extracted_at": "2026-10-22T03:48:12Z"
+}

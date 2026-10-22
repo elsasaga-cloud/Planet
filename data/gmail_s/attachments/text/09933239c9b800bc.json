@@ -1,0 +1,2337 @@
+{
+ "sha256_16": "09933239c9b800bc",
+ "name": "L2 Web Manual.doc",
+ "ext": ".doc",
+ "bytes": 3992274,
+ "method": "soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+ "status": "ok",
+ "meta": {
+  "title": "Word Document",
+  "author": "",
+  "last_modified_by": "python-docx",
+  "created": "",
+  "modified": "2026-10-22T03:48:00+00:00",
+  "paragraphs": 451,
+  "tables": 2,
+  "embedded_images": 82
+ },
+ "warnings": [],
+ "chars": 60076,
+ "text": "L2 Web Manual\nContent\n1.Overview of WEB pages41.Characteristics of WEB access42.System requirements for WEB browsing:43.Login for WEB browsing session54.Basic composition of WEB page65.Navigation Tree Structure76.Introduction to Page Button77.Error Message88.Entry Field89.State Field92.WEB Page Introduction91.Login Dialog92.Main Page103.System configuration10(1) Basic Information10(2) Serial Information11(3) User Management12(4) safe management13(5) SNTP configuration13(6) Jumbo Frame Configuration14(7) Save Current configuration14(8) Configuration file15(9) File upload15(10) System Reboot164.Port configuration16(1) Common configuration16(2) Port Statistics17(3) Flow Control17(4) Broadcast Storm17(5) Port rate limit18(6) Protection Port19(7) Learn limit19(8) Prot Trunking20(9) Mirror21(10) DDM information225.MAC Configuration22(1) MAC table22(2) MAC Binding 23(3) MAC auto binding 23(4) MAC Filter24(5) MAC auto filter 246.VLAN Configuration25(1) VLAN information25(2) VLAN Configuration25(3) VLAN Port Configuration267.SNMP Configuration27(1) Community Name27(2) TRAP Target288.ACL Configuration28(1) Standard IP28(2) Extended IP29(3) MAC IP30(4) MAC ARP31(5) ACL Information32(6) ACL Reference329.Qos configuration33(1) Qos apply33(2) Qos Schedule3410.IP Basic Configuration34(1) VLAN interface34(2) ARP configuration and display35(3) Host static route configuration3511.AAA Configuration36(1) AAA Authentication 36(2) Tacacs + Configuration36(3) Radius Configuration37(4) 802.1x configuration38(5) 802.1x Port Configuration39(6) 802.1x user authentication information4012.MSTP configuration40(1) Global Configuration40(2) Port configuration40(3) Port information4113.IGMP SNOOPING configuration41(1) IGMP SNOOPING Configuration41(2) Multicast group information4214.GMRP Configuration42(1) GMRP Global Configuration42(2) GMRP Ports Configuration42(3) GMRP State Machine4315.CVRP Configuration43(1) GVRP Global Configuration43(2) GVRP Ports Configuration43(3) GVRP state machine4416.EAPS Configuration44(1) EAPS Configuration44(2) EAPS Information4517.RMON Configuration45(1) Statistics Configuration45(2) History Configuration46(3) Alarm Configuration47(4) Event Configuration4718.Cluster Management48(1) NDP configuration48(2) NTDP Configuration48(3) Cluster configuration4919.ERPS Configuration50(1) ERPS Configuration50(2) ERPS Information5220.LLDP Configuration52(1) LLDP global configuration52(2) LLDP Ports Configuration53(3) LLDP Neighbor 5321.Log Management53(1) Log Configuration53(2) Log Information5422.POE Port Configuration54(1) POE Port Configuration54(2) POE Policy Configuration55(3) PD Query Configuration55\n1.Overview of WEB pages\n1.Characteristics of WEB access\nThe all-gigabit managed Ethernet switch provides Web access for users.\nUsers can access the switch through a Web browser to manage and configure the switch.\nThe main features of WEB access are:\nEasy access: Users can easily access the switch from anywhere on the network.\nUsers can use familiar browsers such as Netscape Communicator and Microsoft Internet Explorer to access the WEB page of the all-gigabit managed Ethernet switch, and the WEB page is presented to users in a graphical and tabular form.\nThe all-gigabit managed Ethernet switch provides rich WEB pages, through which users can configure and manage most of the functions of the switch.\nThe classification and integration of WEB page functions are convenient for users to find relevant pages for configuration and management.\nSystem requirements for WEB browsing\nThe system requirements for Web browsing are shown in Table 1\nTable 1:\nHardware and software\tSystem Requirements\nCPU\tPentium 586 or above\nMemory\t128MB or more\nResolution\tAbove 800 × 600\nColor\tMore than 256 colors\nBrowser\tIE 4.0 or above or Netscape 4.01 or above\nOperating system\tMicrosoft® ,Windows95®,Windows98®,WindowsNT®, / Windows2000®,WindowsXP®,WindowsME®, WindowsVista®, Windows7®, Windows8®, Windows10® Windows11®MAC, Linux,Unix-like operating system\nNotice：\nMicrosoft®, Windows95®,W indows98®, WindowsNT®, Windows2000®, WindowsXP ®, Windows ME®, WindowsVista®, Windows7®, Windows8®, Windows10®, Windows11®  is a registered trademark of Microsoft Corporation.\nAll other product names, trademarks, registered trademarks, and service marks are copyrighted by their respective owners.\n3.Login for WEB browsing session\nBefore starting a Web browsing session, the user needs to confirm:\nThe switch has been configured for IP, and by default, the interface IP address for VLAN1 on the switch is 192.168.0.1\nThe subnet mask is 255.255.255.0\nA host with a Web browser has been connected to the network and is able to ping to the switch.\nAfter completing the above two tasks, the user enters the address of the switch in the address bar of the browser and presses Enter to enter the Web login page of the switch, as shown in Figure 1. When the multi-user management is not enabled, the user needs to verify the password of the anonymous user (admin)  when logging in the Web. Only by entering the correct password can the user access the Web. The default password of the anonymous user is admin.\nIf the system enables multi-user management and configures privileged users, the anonymous user password will not take effect. Users accessing the Web will not verify the anonymous user password, but verify the user name and password of multi-user management.\nFigure 1  Login page for WEB browsing session\n4.Basic composition of WEB page\nAs shown in Figure 2, the WEB page is mainly composed of three parts: title page, navigation tree page and main page.\nFigure 2  Basic composition page of switch WEB page\nTitle Page  It is used to display the logo and the real-time port status, as shown in the following figure\nA green light indicates that the port is connected;\nA gray light indicates that the port is not connected;\nRed light indicates that the port is closed (refer to the port configuration for specific settings)\nMain Page  Displays the page that the user selects from the navigation tree.\n5.Navigation Tree Structure\nFigure 3 shows the organization of the navigation tree.\nThe navigation tree is located at the bottom left of each page, and displays the nodes of the WEB page in the form of a tree, so that the user can easily find the WEB page to be managed. Web pages are divided into different groups according to their functions, and each group includes one or more pages. The page name in most navigation trees is an abbreviation of the page title above the corresponding page.\nFigure 3  Organization page of the switch navigation tree\n6.Introduction to Page Button\nThere are some common buttons on the page, and the functions of these buttons are generally the same. Table 2 describes the functions of these buttons.\nTable 2：\nbutton\tFunction\nRefresh\tUpdate all fields on the pack\napplication\tPlace the updated value in memory. Because error checking is done by the Web server, there is no error checking until the user selects the button\ndelete\tDelete the current record\nhelp\tOpen the help page to view the configuration instructions for each pack\n7.Error Message\nIf an error occurs while the switch&apos;s WEB server is processing a user request, a corresponding error message is displayed in a dialog box. For example, Figure 4 shows an error message dialog box.\nFigure 4  Error Information Page\n8.Entry Field\nSome pages have an entry field in the leftmost column of the table, as shown in Figure 5, through which different rows in the table can be accessed. When you select a value in an entry field, the corresponding information for that row is displayed on the first row. Only that row can be edited. It is also called the active row. When a page is initially loaded, the entry field displays new and the active line is empty.\nTo add a new row, select New from the drop-down menu in the entry field, enter the new row information, and press the Apply key.\nIf you want to edit an existing row, select the appropriate row number from the drop-down menu in the entry field, edit the row as needed, and then press the Apply key. You will see the corresponding changes displayed in the table.\nIf you want to delete a row, select the corresponding row number from the drop-down menu in the entry field and press the Delete key. The row will disappear from the table.\nFigure 5  Entry Domain Page\n9.State Field\nSome pages have a status field in the rightmost column of the table, as shown in Figure 6, which shows the status of the row. Since all row state changes are handled internally, this state field is read-only. Once all the domain information in a row is in effect, the row status automatically changes to active.\nFigure 6  Status Field Page\n2.WEB Page Introduction\n1.Login Dialog\nFigure 1-1  Login page for WEB browsing session\nFigure 1-1 shows the login dialog box that appears the first time a user logs on to a Web page. The user can log in to the Web server of the switch by entering the user name and password in the corresponding fields and then clicking the OK button. Passwords are case-sensitive. Anonymous user passwords can be up to 16 characters, while multiple user names and passwords can be up to 16 characters. The default user name of the managed switch is the anonymous user name admin, the default password is the anonymous user password, and the default anonymous user password is blank.\n2.Main Page\nFigure 2-1 shows the main WEB page of the managed switch. This page is displayed after the user logs in to the web page.\nFigure 2-1  Switch Home Page\n3.System configuration\nLanguage switching: via the language switching button in the upper right corner, you can easily switch between Chinese and English system interfaces.\n(1) Basic Information\nFigure 3-1 is the basic information configuration page, through which the user can configure the basic information of the switch.\nSystem Description displays a description of the relevant parameters of the system.\nThe system descriptor identification number shows the identification of the system in network management.\nSystem Version Number displays the version number of the software currently in use on the switch.\nNetwork Interfaces displays the current number of network interfaces in the switch.\nSystem Startup Time displays the time since the switch was started.\nThe system clock displays the current clock of the system. The user can modify the current clock of the system by inputting the parameters of year, month, day, hour, minute and second.\nSystem Name displays the system name of the switch on the network. You can change the system name.\nSystem Location displays the physical location of the switch in the network. You can modify the system location.\nSystem Contacts displays the Manage Contact Information page for the current node.\nFigure 3-1 Basic information configuration page\n(2) Serial Information\nFigure 3-2 shows the interface for displaying switch serial port information. Through this page, you can view the configuration information of the switch serial port.\nFigure 3-2  Serial Port Configuration Information Page\n(3) User Management\nFigure 3-3 shows the user management page, where users can modify the anonymous user (admin)  password of the switch. Telnet and Web use the same anonymous user password when multiple users are not enabled. Passwords are case sensitive and can be set to a maximum of 16 characters. If you want to change the password, the user needs to enter the new password twice. Once the user clicks the application button, the new password will be activated. At this time, if the switch does not enable multiple users, a login dialog box will be displayed (as shown in Figure 7) . The user needs to log in to the webpage again, and must enter the new anonymous user password to log in to the WEB page.\nAt the same time, users can configure multiple users through this page. The switch does not have multiple users by default, which means that the multi user management function is not enabled by default. At this time, login does not require verification of multiple user names and passwords. For Telnet, when a username is added, the multi user management function is enabled, and when all users are deleted, the multi user management function is turned off again. For the Web, when adding a username, the multi user management function is only enabled if it is a privileged user. When all privileged users are deleted, the multi user management function is turned off again. When the multi user management function is enabled, anonymous user passwords will not take effect, and logging in to Telnet and the Web requires multi user username and password verification. When the multi user management function is turned off, if an anonymous user password is configured, logging in to Telnet and Web requires anonymous user password verification.\nFigure 3-3 User Management Page\n(4) Safe management\nFigure 3-4 is the security management configuration page. Through the configuration of this page, the administrator can control the network management services TELNET, WEB and SNMP, enable or disable these services, attach these services to the ACL group of IP standard, and implement source IP address control. Controls host access to these services.\nBy default, the TELNET, WEB, and SNMP services of the switch are turned on without ACL filtering, that is, all hosts can access these three services of the switch. If the administrator does not want to provide one or more of these services to other users for the sake of security, one or more of these services can be turned off. If the administrator only wants specific hosts to access one or more of these services, one or more of these services can be filtered by ACL. When a service needs ACL filtering, the service needs to be opened and an ACL group (1-99)  of IP standard needs to be selected. At this time, the ACL group must exist.\nIt should be noted that if the administrator controls the WEB service on this page (such as closing the WEB service) , the user may no longer be able to use the WEB page. At this time, the user can log in to the switch in other ways and control the WEB service so that the user can use the WEB page (such as opening the WEB service) .\nFigure 3-4  Security Management Page\n(5) SNTP configuration\nFigure 3-5 shows the SNTP configuration page, which allows administrators to configure and view the system clock.\nFigure 3-5  SNTP Configuration Page\n(6) Jumbo Frame Configuration\nFigure 3-6 Jumbo Frame Configuration Interface. Through this page, the user can configure the switch frame. The frame number range (1522-16383) sets the point application.\nFigure 3-6  Jumbo Frame Page\n(7) Save Current configuration\nFigure 3-7 is the current configuration page. This page allows the user to view the current configuration of the switch. The save key is used to save the current configuration of the system to the configuration file. Because the storage operation needs to erase the FLASH chip, which takes a certain amount of time. When the user makes a configuration on the page and wishes that the configuration will not be lost after restarting the switch, he must click Save in the current configuration page before exiting the page.\nFigure 3-7  Current Configuration Page\n(8) Configuration file\nFigure 3-8 is the profile page. This page allows the user to view the initial configuration of the system. The initial configuration is actually the configuration file in FLASH. When there is no configuration file in FLASH, the default configuration is used when the system is started. The delete key is used to delete the configuration file in FLASH. Click the delete key, and a dialog box will pop up. The dialog box prompts the user to confirm whether to delete the configuration file. If yes, press the OK key on the dialog box. Otherwise, press the cancel key. The download key is used to download the configuration file to the PC. Click the download button, a dialog box will pop up, and the user will select the directory path and save the configuration file. The file name of the downloaded configuration file is the switch. cfg.\nFigure 3-8 Configuration File Page\n(9) File upload\nFigure 3-9 shows the file upload page, which allows users to upload configuration files and image files to the switch. Click the Browse button to select the directory path of the uploaded profile or image file on the PC. Click the Upload button to upload the configuration file or image file. The suffix of the configuration file must be *.cfg. The image file must be provided by the manufacturer and the suffix of the file name must be *.img. Please do not click other pages or restart the switch before returning to the transfer result page; otherwise, the file transfer will fail and the system will crash.\nFigure 3-9 File Upload Page\n(10) System Reboot\nFigure 3-10 shows the system reset page, through which the user restarts the switch. When the Restart button is clicked, a dialog box will pop up to prompt the user whether to restart the switch. If yes, press the OK button, otherwise press the Cancel button. Web pages will no longer open when you restart. When clicking the Restore Factory Switch, a dialog box will pop up to prompt the user whether to confirm the restoration of the factory switch. If yes, press the OK key, otherwise press the Cancel key. Web pages will no longer open when you restart.\nFigure 3-10 System Reset Page\n4.Port configuration\n(1) Common configuration\nFigure 4-1 is the Port Configuration/Port Display page. This page allows users to enable or disable ports, set port speeds, or view basic information for all ports. To set a specific port, the user needs to select the corresponding port name in the drop-down menu of the port. The port status defaults to up, and you can disable the port by selecting down from the drop-down menu. The user can also select the Set Speed drop-down menu to set the speed of the port, such as forcing the port to be half-duplex 10 M (half-10) . This page allows the user to view additional basic information for all ports.\nFigure 4-1  Port Configuration and Port Display Page\n(2) Port Statistics\nFigure 4-2 is the Port Statistics page. To view a particular port, the user needs to select the appropriate port name from the drop-down menu for the port. This page allows the user to view the statistics of packets sent and received by the port.\nFigure 4-2  Port Statistics Page\n(3) Flow Control\nFigure 4-3 is the flow control page. The user can turn on and off the flow control of each port through this page. Flow control of a port is turned on or off by the pull-down on or off of the flow control. At the same time, the flow control status of all ports can be viewed through this page.\nFigure 4-3  Flow Control Page\n(4) Broadcast Storm\nFigure 4-4 is the Broadcast Storm Control page. This page is used to configure the suppression function of broadcast packets, multicast packets and DLF packets for the port.\nSelect the port to be configured from the drop-down bar of the port. Use on and off to turn on and off broadcast suppression, multicast suppression, and DLF suppression for the port. Throttle rate item is used to configure the throttle rate of the port. Range 1-1024000, unit: kbits. The suppression rates of broadcast suppression, multicast suppression and DLF suppression on the same port are equal. At the same time, you can view the broadcast storm control configuration of all ports through this page.\nFigure 4-4  Broadcast Storm Control Page\n(5) Port rate limit\nFigure 4-5 shows the port speed limit page. This page is used to configure the rate at which the port sends and receives.\nSelect the port to be configured from the drop-down bar of the port. The bandwidth control of sending data packet is used to configure and display the bandwidth control of sending data packet. The range is 1-1024000, and the unit is kbits. After input, press the application key to take effect. Displays off if the port is not configured for bandwidth control. The corresponding cancel key is used to cancel the bandwidth control of the transmitted data packet. The bandwidth control of the received data packet is used to configure and display the bandwidth control of the received data packet. The range is 1-1024000, and the unit is kbits. After input, press the application key to take effect. Displays off if the port is not configured for bandwidth control. The corresponding cancel key is used to cancel the bandwidth control of the received packet.\nIf the port is configured with bandwidth control, it is displayed in the list.\nFigure 4-5  Port Speed Limit Page\n(6) Protection Port\nFigure 4-6 is the protection port page. This page is used to configure protection ports. Protected ports cannot communicate with each other, only with unprotected ports.\nFigure 4-6  Protection Port Page\n(7) Learn limit\nFigure 4-7 is the Port Learning Limits page. This page is used to limit the number of MAC addresses that the port can learn. The range is 0-8191. The default value is 8191, which is also the maximum value, indicating that the port has no learning limit configured. The list shows the learning limits for all ports.\nFigure 4-7  Port Learning Limit Page\n(8) Port Trunking\nFigure 4-8 is the Port Aggregation Configuration page. This page allows the user to configure port aggregation. This page consists of four sections: Tr group ID selection, port aggregation method, configurable ports, and group member ports.\nTo create or modify a port aggregation, the user needs to select a Tr group ID from 1 to 8. The user clicks the corresponding Tr group ID in the list box, and the information of the Tr group is displayed in the group member port. To create a Trunk group, select the corresponding ID in the Trunk group ID, and click \"Create Trunk Group\". If the creation is successful, the ID display column will be marked with parentheses. If a Tr group is not created,Not created is marked in parentheses in the ID display column. To set the port aggregation method, select an aggregation method from the drop-down box above the list and click the button Set Aggregation Method. To add an aggregated port, select the aggregated port in Configurable Ports and click Member Port = >. To delete a port from the existing aggregated ports, select the aggregated port from the group member ports and click the \"Non-member port < =\" button. To delete the entire Tr group, click the Delete Tr Group button.\nIn the page configuration process, the configured aggregation method corresponds to the selected Trunk group ID. Only the existing Trunk group can configure the aggregation method; only the existing Trunk can add or delete member ports; only the Trunk group without member ports can be deleted.\nThe switch provides six types of port aggregation: based on source MAC address, based on destination MAC address, based on source and destination MAC address, based on source IP address, based on destination IP address, and based on source and destination IP address.\nThe managed switch supports up to 8 groups of port aggregation. Each group of port aggregation supports up to 8 ports. Each Tr group can configure its own port aggregation method.\nFigure 4-8  Port Aggregation Configuration Page\n(9) Mirror\nFigure 4-9 shows the port mirroring configuration page, which allows the user to configure port mirroring. Port mirroring is to monitor the data packets output by the mirrored output port and the data packets input by the mirrored input port through the mirroring port. Only one mirror port can be selected, and multiple mirrored output ports and mirrored input ports can be selected. This page consists of four parts: listening port, configurable port, listening direction and mirror configuration information. When configuring a mirror port, first configure the mirror port from the monitoring port. There can only be one mirror port. Then select the mirrored port from the configurable ports. Select the monitoring direction from the monitoring direction. Finally, press the Apply key to take effect. The result will be displayed in the mirror configuration information.\nWhen RECEIVE is selected in the monitoring direction, it means to monitor the received data packets, and TRANSMIT means to monitor the transmitted data packets. BOTH means to monitor all sent and received packets, NOT _ RECEIVE means to cancel monitoring received packets, NOT _ TRANSMIT means to cancel monitoring sent packets, and NEITHER means to cancel monitoring received and sent packets, that is, to cancel the monitored port.\nFigure 4-9  Port Mirror Configuration Page\n(10) DDM information\nFigure 4-10 shows the DDM information viewing interface. This page is used to view the corresponding information of the optical module.\nFigure 4-10  DDM information viewing interface\n5.MAC Configuration\n(1) MAC table\nFigure 5-1 is the MAC address table display interface. This page is used to view the MAC address of the VLAN corresponding to the port.\nFigure 5-1  MAC Address Table\n(2) MAC Binding\nFigure 5-2 is the MAC binding configuration page. This page is used to implement the binding of port and MAC address. The MAC entry on the page is used to enter the bound MAC address, and the VLAN ID entry is used to enter the VLAN to which the MAC address belongs.\nFigure 5-2  MAC Binding Configuration Page\n(3) MAC auto binding\nFigure 5-3 is the MAC Binding Auto Conversion page. This page is used to automatically bind the MAC address of the port.\nDisplays the existing dynamic MAC address of the port in the Layer 2 hardware forwarding table and the VLAN to which it belongs. You can select an entry and convert it to a static binding.\nFigure 5-3  MAC Binding Automatic Conversion Page\n(4) MAC Filter\nFigure 5-4 is the MAC filtering configuration page. This page is used to configure the port to filter MAC addresses.\nThe MAC entry on the page is used to enter the filtered MAC address, and the VLAN ID entry is used to enter the VLAN to which the MAC address belongs.\nFigure 5-4  MAC Filtering Configuration Page\n(5) MAC auto filter\nFigure 5-5 shows the MAC filtering automatic transition page. This page is used to automatically bind the MAC address to the port.\nDisplays the existing dynamic MAC address of the port in the Layer 2 hardware forwarding table and the VLAN to which it belongs. You can select an entry and convert it to a static filtering configuration.\nFigure 5-5 MAC Filtering Auto Conversion Page\n6.VLAN Configuration\n(1) VLAN information\nFigure 6-1 shows the Current VLAN Information page. This read-only page displays the current VLAN, the status of the VLAN, and the port membership of the VLAN. The drop-down box displays all current VLANs, and the list displays the VID, status, and port membership for up to 30 VLANs. Select a VLAN from the drop-down box. The list displays information for up to 30 VLANs with a VID greater than the VLAN. However, if there are no more than 30 VLANs, no matter which VLAN is selected from the drop-down box, the information of all VLANs will be displayed in the list.\nA port may not be a member of a VLAN, and may be a tagged or untagged member of a VLAN.\nThe characters before the port on the page have the following meanings:\nt   tagged            The port is a tagged member of this VLAN\nu   untagged          The port is an untagged member of this VLAN\nFigure 6-1  VLAN Information Page\n(2) VLAN Configuration\nFigure 6-2 is the Static VLAN Configuration page, which allows the user to create VLANs.\nTo create a new VLAN, the user enters a VID in the active line from 2 to 4094. The VLAN name is generated by the system based on the VLAN ID and cannot be modified. Click the Apply button, and the list box displays the VID and VLAN name of the VLAN created by the user. The switch creates VLAN 1 by default, and VLAN 1 cannot be deleted.\nTo delete a VLAN, the user needs to click on the corresponding VLAN in the list box. The VLAN will be displayed in the active line. Click the Delete key to delete the VLAN, and the information of the VLAN will be removed from the list box.\nFigure 6-2  VLAN Configuration Page\n(3) VLAN Port Configuration\nFigure 6-3 is the VLAN Port Configuration page, which is used to configure VLANs on the ports and displays the results of the configuration. This page mainly consists of eight parts: port, mode, all current VLANs, VLAN to which the port belongs, and the keys \"Default VLAN = >\", \"tagged = >\", \"untagged = >\" and \"Non-member < =\".\nPort is the port that specifies the VLAN to be configured.\nMode Access specifies that the port&apos;s VLAN mode is ACCESS mode. In this VLAN mode, the port defaults to an untagged member of VLAN1, and the port&apos;s default VLAN is 1. Hybrid specifies that the VLAN mode of the port is HYBRID mode. In this VLAN mode, the port is an untagged member of VLAN1 by default, and the default VLAN of the port is 1. Trunk specifies that the VLAN mode of the port is TRUNK mode. In this VLAN mode, the port is a tagged member of VLAN1 by default, and the default VLAN of the port is 1.\nAll current VLANs refer to the currently created VLANs, that is, the VLANs configured by the port. The user can select more than one VLAN from the list.\nThe VLAN to which the port belongs displays the result of the VLAN port configuration. [P] indicates that the VLAN is the default VLAN for the port. [T] indicates that the port is a tagged member of the VLAN. [U] indicates that the port is an untagged member of the VLAN. When a VLAN is deleted, the user selects the VLAN from the list. Multiple selections are allowed.\nPress \"Default VLAN = >\" to configure the default VLAN of the port, and select a VLAN from all the current VLANs.\nPress \"tagged = >\" to configure that the port is a tagged member of the specified VLAN, and select one or more VLANs from all current VLANs.\nPress \"untagged = >\" to configure the port to be an untagged member of the specified VLAN. Select one or more VLANs from all the current VLANs.\nPress the key \"Non-member < =\" to delete the port from one or more specified VLANs, and select one or more VLANs from the VLANs to which the port belongs.\nFigure 6-3  VLAN Port Configuration Page\n7.SNMP Configuration\n(1) Community Name\nFigure 7-1 shows the SNMP community configuration page, which allows the user to configure the name and read and write permissions of the community of the switch. A total of eight entries can be configured.\nBy default, the switch has a community with a public name that is read-only. Correspondingly, there is only one active entry on the page, the community name is public, and the permissions are read-only. When the switch needs to be managed through SNMP, it is necessary to configure a common body with readable and writable permissions.\nFigure 7-1  SNMP Community Configuration Page\n(2) TRAP Target\nFigure 7-2 is the TRAP Destination Configuration page, which allows the user to configure the IP address of the workstation that receives the TRAP message and some parameters of the TRAP packet.\nWhen configuring the entry, the name is used to enter the trap name, the transport IP address is used to enter the destination address, and the SNMP version is used to select the version of the trap packet. If the setting is successful, the status in the entry will be displayed as active. If the configuration is successful, the SNMP TRAP feature will work and the switch will automatically send TRAP packets to the destination address in the event of a link up or link down condition, for example.\nFigure 7-2 TRAP Target Configuration Page\n8.ACL Configuration\n(1) Standard IP\nFigure 8-1 is the ACL Standard IP Configuration page, which allows the user to create a rule base for ACL Standard IP. Users can select an ACL group number (in the range of 1-99, or 1300-1999)  to create one or more rules in that group. The only field that can be matched in a rule is the source IP address (with a mask) .\nFigure 8-1  ACL Standard IP Configuration Page\nWhen the user configures the rule, the source IP address needs to be masked, and the rule can match the set of IP addresses. The mask of the address is represented by the complement. If the rule is to match the IP address range 192.168. 0.0 to 192.168. 0.255, the IP address can be 192.168. 0.1 and its mask is 0.0. 0.255.\nWhen a user configures a rule, each rule must have a filter mode: allow or deny.\nWhen a user creates a rule in a rule group, the system will automatically assign a rule number to the rule. When a rule in a rule group is deleted, other rules remain unchanged, and the system will automatically sort the rules in a rule group. If the user wants to delete the whole rule group, he can select all first, and then click the delete button.\n(2) Extended IP\nFigure 8-2 shows the ACL extended IP configuration page, which allows the user to create a rule base for the ACL extended IP. Users can select an ACL group number (in the range of 100-199, or 2000-2699)  to create one or more rules in that group. Fields that can be matched in a rule are source IP address (with mask) , destination IP address (with mask) , protocol type (such as ICMP, TCP, UDP, etc.) , source port and destination port (valid only for TCP and UDP protocols) , and TCP control flags.\nFigure 8-2  ACL Extended IP Configuration Page\nWhen the user configures a rule, both the source IP address and the destination IP address need to be masked, and the rule can match the set of IP addresses. The mask of the address is represented by one&apos;s complement if the rule is to match the IP address range 192.168. 0.0 to 192.168. 0. 255, the IP address can be 192.168. 0.1 and its mask is 0.0. 0.255.\nWhen a user configures a rule, each rule must have a filter mode: allow or deny.\nWhen a user creates a rule in a rule group, the system will automatically assign a rule number to the rule. When a rule in a rule group is deleted, other rules remain unchanged, and the system will automatically sort the rules in a rule group. If the user wants to delete the whole rule group, he can select all first and then press the delete key.\n(3) MAC IP\nFigure 8-3 shows the ACL MAC IP configuration page, which allows the user to create a rule base for the ACL MAC IP. Users can select an ACL group number (in the range of 700-799)  to create one or more rules in that group. The fields that can be matched in a rule are source MAC address (with address match bits) , source IP address (with address match bits) , destination IP address (with address match bits) , VLAN ID.\nFigure 8-3  ACL MAC IP Configuration Page\nWhen the user configures a rule, the source MAC address, source IP address, and destination IP address must all have an address match bit, and the rule can match a set of MAC addresses and IP addresses. For example, if the rule is to match the IP address range 192.168. 0.0 to 192.168. 0. 255, the IP address can be 192.168. 0.1 and its mask is 0.0. 0.255.\nWhen a user configures a rule, each rule must have a filter mode: allow or deny.\nWhen a user creates a rule in a rule group, the system will automatically assign a rule number to the rule. When a rule in a rule group is deleted, other rules remain unchanged, and the system will automatically sort the rules in a rule group. If the user wants to delete the whole rule group, he can select all first and then press the delete key.\nWhen the user configures the rule, the VLAN ID must be in the range of 0 to 4094, inclusive, where 0 represents all.\n(4) MAC ARP\nFigure 8-4 shows the ACL MAC ARP configuration page, which allows the user to create a rule base for ACL MAC ARP. Users can select an ACL group number (in the range of 1100-1199)  to create one or more rules in that group. The fields that can be matched in a rule are the sending MAC address (with address match bits)  and the sending IP address (with address match bits) .\nFigure 8-4  ACL MAC ARP Configuration Page\nWhen the user configures the rule, both the sending MAC address and the sending IP address need to have the address matching bit, and the rule can match the set of MAC address and IP address. For example, if the rule is to match the IP address range 192.168. 0.0 to 192.168. 0. 255, the IP address can be 192.168. 0.1 and its mask is 0.0. 0.255.\nWhen a user configures a rule, each rule must have a filter mode: allow or deny.\nWhen a user creates a rule in a rule group, the system will automatically assign a rule number to the rule. When a rule in a rule group is deleted, other rules remain unchanged, and the system will automatically sort the rules in a rule group. If the user wants to delete the whole rule group, he can select all first and then press the delete key.\n(5) ACL Information\nFigure 8-5 shows the ACL Repository Information page, which displays all the rules and references configured in the current ACL.\nFigure 8-5  ACL Resource Library Information Page\n(6) ACL Reference\nFigure 8-6 is the ACL reference configuration page, through which the user can select an ACL rule group for a port, write the rules in the ACL rule group into the port hardware logic, and make the port perform ACL filtering on the received packets according to these rules.\nWhen selecting an ACL rule group on a port, you can select IP Standard, IP Extended, MAC IP, and MAC ARP ACL groups. The selected ACL rule group must exist. Select from the ACL rule group list and press the Add key. To delete an ACL rule group, select an ACL rule group from the list of referenced rule groups and press the Delete key.\nFigure 8-6  ACL Reference Configuration Page\n9.Qos configuration\n(1) Qos apply\nFigure 9-1 is the Qos application page, through which the user can configure the Qos type of the port and modify the default user priority. The list shows the port&apos;s Qos type and user default priority in real time.\nFigure 9-1  Qos Application Page\n(2) Qos Schedule\nFigure 9-2 is the Qos scheduling page, through which the user can configure the Qos scheduling mode of the port and modify the priority of the queue. The list displays the scheduling mode of the port and the weight value of each queue in real time.\nFigure 9-2  Qos Scheduling Page\n10.IP Basic Configuration\n(1) VLAN interface\nFigure 10-1 is the VLAN interface configuration page, through which the user can configure the VLAN interface, delete the VLAN interface, configure the IP address of the interface, delete the IP address of the interface, and view the interface information. A VLAN can only be set as an interface if it already exists, and an interface address can only be configured on an already set interface.\nFigure 10-1  VLAN Interface Configuration Page\nManaged switches have a VLAN 1 interface by default, which cannot be deleted. Only one interface can be configured for a VLAN.\n(2) ARP configuration and display\nFigure 10-2 is the ARP configuration and display page. This page can display all the information of the ARP table of the switch. At the same time, the user can configure the static ARP entry, delete the ARP entry, and modify the dynamic ARP entry to the static ARP entry through this page.\nWhen configuring a static ARP entry, the user needs to enter the IP address and MAC address. The MAC address must be a unicast MAC address, and then click Add.\nWhen deleting an ARP entry, the user can select to delete an ARP entry of an IP, delete an ARP entry of a network segment, delete all ARP entries, delete all dynamic ARP entries, and delete all static ARP entries. To delete the ARP table entry of an IP or delete the ARP table entry of a network segment, enter the specified IP address or IP network segment in the input box. Then click the delete button.\nWhen the dynamic ARP table entry is modified into the static ARP table entry, the dynamic ARP table entry in a certain network segment or all the dynamic ARP table entries can be modified into the static ARP table entry. In the case of a certain network segment, you need to enter the specified network segment in the input box. Then click the Apply button.\nFigure 10-2  ARP Configuration and Display Page\n(3) Host static route configuration\nFigure 10-3 is the host static route configuration page, through which the user can add or delete the host static route of the switch. By default, the switch is not configured with a host static route. The user can use this page to configure a default route, that is, a route with a destination address/subnet prefix of 0.0. 0.0/0.\nFigure 10-3  Host Static Route Configuration Page\n11.AAA Configuration\n(1) AAA Authentication\nFigure 11-1 is the AAA authentication configuration interface, through which the user can select the authentication type.\nFigure 11-1  AAA Authentication Configuration Page\n(2) Tacacs + Configuration\nFigure 11-2 shows the Tacacs + configuration page. Users can configure information related to Tacacs +. The information that can be set includes: enabling Tacacs + functions, configuring the IP address of the Tacacs + server, the authentication type, and the shared secret key.\nThe Tacacs + feature must be enabled before it can be used. The default configuration is not enabled.\nConfigure the IP address of the Tacacs + server. This field must be set when using Tacacs + functionality.\nAuthentication type: PAP and CHAP authentication types are provided, and the default configuration is PAP authentication.\nThe shared key is used to set the encrypted shared password between the switch and the Tacacs + server. This field must be set during authentication and authorization, and must be the same as the setting on the Tacacs + server.\nFigure 11-2  Tacacs + Configuration Page\n(3) Radius Configuration\nFigure 11-3 is the Radius configuration page. The user can configure the information related to Radius. The settable information includes:\nIP address of Radius server. This field must be set during authentication and accounting.\nOptional Radius Server IP Address. This field can be set if there is an alternate radius server.\nAuthentication UDP port. The default value is 1812. Users generally do not need to modify this field.\nWhether to start charging? It is started by default. Charging is generally started during authentication charging.\nBilling UDP port, default value is 1813.\nThe shared key is used to set the encrypted shared password between the switch and the Radius server. This field must be set during authentication and billing, and must be the same as the setting on the Radius server.\nVendor specific information. Users generally do not need to modify this field.\nNAS port, NAS port type, and NAS service type. Users generally do not need to modify these three values.\nWhether Radius roaming is turned on or off.\nFigure 11-3  Radius Configuration Page\n(4) 802.1x configuration\nFigure 11-4 is the 802.1x configuration page, through which the user can configure some information related to 802.1x, mainly including:\nWhether to start the 802.1x protocol? The 802.1x protocol must be started during authentication and accounting.\nWhether the switch uses general authentication or extended authentication.\nWhether to turn on the re-authentication function is not turned on by default, and it is determined according to the actual situation when making authentication billing. Turning on the re-authentication function will make users more reliable when using authentication billing, but it will slightly increase the traffic of the network.\nSet the re-authentication time interval, which is valid only when the re-authentication function is enabled. The default is 3600 seconds. Set the value according to the actual situation when performing authentication billing, but the value should not be too small.\nQuiet Period timer. Users generally do not need to modify this field.\nTx-Period timer. Users generally do not need to modify this field.\nServer timeout timer. Users generally do not need to modify this field.\nFor the supplicant timeout timer, the user generally does not need to modify this field\nThe number of Max Requests. Users generally do not need to modify this field.\nDisplays the Reauth Max size.\nClient Version. The client version number.\nCheck Client, whether to check the timing traffic packet of the client after passing the authentication.\nFigure 11-4  802.1x Configuration Page\n(5) 802.1x Port Configuration\nFigure 11-5 is the X port configuration page of the 802.1. Through this page, the user can configure the X port mode of the 802.1 and the maximum number of hosts supported, and view the X configuration of the 802.1 of each port.\n802.1x port modes include four types: N/A state, Auto state, Force-authorized state, and Force-unauthorized state.\nWhen 802.1 X authentication is required for a port, the port must be set to the Auto state. If the port is not authenticated, it can access the network. The port must be set to the N/a state. The other two States are rarely used in practical applications.\nFigure 11-5  802.1x Port Configuration Page\nWhen performing 802.1x authentication, the maximum number of hosts accessed by the port is 256 by default. The user can modify this field to support a maximum of 256 hosts.\n(6) 802.1x user authentication information\nFigure 11-6 is the 802.1x user authentication information page, through which the user can view the status information of all users connected to a port\nFigure 11-6  802.1x User Authentication Information Page\n12.MSTP configuration\n(1) Global Configuration\nFigure 12-1 shows the MSTP global configuration page, through which the user can configure global MSTP parameters.\nFigure 12-1  MSTP Global Configuration Page\n(2) Port configuration\nFigure 12-2 shows the MSTP port configuration page, through which the user can configure the port MSTP parameters.\nFigure 12-2  MSTP Port Configuration Page\n(3) Port information\nFigure 12-3 is the MSTP port information page, through which the user can view the specific status of the port MSTP.\nFigure 12-3  MSTP Port Information Page\n13.IGMP SNOOPING configuration\n(1) IGMP SNOOPING Configuration\nFigure 13-1 shows the IGMP SNOOPING configuration page, which allows the user to enable IGMP SNOOPING.\nFigure 13-1  IGMP SNOOPING Global Configuration Page\n(2) Multicast group information\nFigure 13-2 is the multicast group information page, through which the user can view the IGMP snooping multicast program information.\nFigure 13-2  Multicast Group Information Page\n14.GMRP Configuration\n(1) GMRP Global Configuration\nFigure 14-1 shows the GMRP global configuration page, which allows the user to enable GMRP.\nFigure 14-1  GMRP Global Configuration Page\n(2) GMRP Ports Configuration\nFigure 14-2 shows the GMRP port configuration page, through which the user can enable the port GMRP and view the port information.\nFigure 14-2  GM RP Ports Configuration Page\n(3) GMRP State Machine\nFigure 14-3 is the GMRP state machine page, through which the user can view the state machine information established by GMRP.\nFigure 14-3  GMRP State Machine Page\n15.CVRP Configuration\n(1) GVRP Global Configuration\nFigure 15-1 shows the GVRP global configuration page, which allows the user to enable GVRP.\nFigure 15-1  GVRP Global Configuration Page\n(2) GVRP Ports Configuration\nFigure 15-2 shows the GVRP port configuration page, through which the user can enable port GVRP and view port information.\nFigure 15-2  GVRP Ports Configuration\n(3) GVRP state machine\nFigure 15-3 is the GVRP state machine page, through which the user can view the state machine information established by GVRP.\nFigure 15-3  GVRP State Machine\n16.EAPS Configuration\n(1) EAPS Configuration\nFigure 16-1 This page is used to create and configure EAPS information. It can also be used to delete and display EAPS information.\nEAPS ring number: specific ring number, value range 1-16, can be selected according to the drop-down box\nCreation status: Not Created and Created. If not created, you need to create first.\nModes: Master and Transit, which can be configured according to specific needs.\nMaster port EAPS master port, e.g. fe1/1, ge1/1\nAlternate port: EAPS second port\nControl VLAN: control VLAN of EAPS ring, value: 2-4094\nProtected VLAN: EAPS ring protected VLAN\nHello Time Interval The time interval between the sending of Hello messages. Default is 1s\nFail time: the time to detect the fault, which is 3s by default\nIn the case of data trans-ring forwarding and multi-ring forwarding, this function shall be enabled when the data needs to be trans-ring forwarded. Not turned on by default\nEXtreme Interoperability Compatibility with other network devices, on by default\nNable state, last EAPS loop enable condition\nFigure 16-1  EAPS Configuration Page\n(2) EAPS Information\nFigure 16-2 shows the EAPS information page, through which the user can view the EAPS configuration information.\nFigure 16-2  EAPS Information Page\n17.RMON Configuration\n(1) Statistics Configuration\nFigure 17-1 shows the RMON Statistics Group Configuration page, which allows the user to configure the RMON Statistics Group. Select a port from the drop-down list to view the RMON statistics group configuration that configures that port. When it is not configured, the index number is 0. Fill in the correct index number (range is 1 to 100) . The owner is optional. You can configure the RMON statistics group for this port. The Statistics table displays port statistics from the time the configuration was successful.\nFigure 17-1  RMON Statistics Group Configuration Page\n(2) History Configuration\nFigure 17-2 shows the RMON history group configuration page, through which the user can configure the RMON history group. Select a port from the drop-down list to view the RMON History Group configuration that configures that port. If it is not configured, the index number is 0. Fill in the correct index number (the range is 1 to 100) . Interval, Request Buckets, and Owner are optional. You can configure the RMON history group for this port. Interval refers to the time interval for collecting data, in seconds, ranging from 1 to 3600. Request Buckets is the allocated storage size, indicating how many records are stored, ranging from 1 to 100. The statistics table displays the historical data that has been collected since the successful configuration.\nFigure 17-2  RMON History Group Configuration Page\n(3) Alarm Configuration\nFigure 17-3 shows the RMON Alert Group Configuration page, which allows the user to create or modify RMON Alert Groups. Select a configured alert group from the drop-down list to view/configure its information, or select New to create one. The index number range is 1 to 60, the interval range is 1 to 3600, and the unit is second. The monitoring object must fill in the MIB node. The comparison method can be absolute (absolute value)  or delta (delta) . In addition, the upper and lower threshold values and the event index must be filled in. The owner is optional. The alarm value is read-only and displays the sampled value when the alarm was last raised. The event index refers to the index number of the RMON event group, which must be configured in advance.\nFigure 17-3  RMON Alarm Group Configuration Page\n(4) Event Configuration\nFigure 17-4 shows the RMON Event Group Configuration page, which allows users to create or modify RMON event groups. Select a configured event group from the drop-down list to view/configure its information, or select New to create one. The index number range is 1 to 60. The description is in the form of a string. The action can select none, log, snmp-trap, or log-and-trap. The community name has no effect in this device. The owner is optional. Last Sent Time is read-only and displays the last time the event was sent.\nFigure 17-4  RMON Event Group Configuration Page\n18.Cluster Management\n(1) NDP configuration\nFigure 18-1 shows the NDP configuration page, through which the user can configure the NDP. The information that can be set includes: selecting the port, enabling the port NDP function, enabling the global NDP function, the time interval for sending NDP messages, and the aging time of NDP messages on the receiving device.\nPort selection: select the port as required and enable the NDP function of the port. For NDP to function properly, both global and port NDP functions must be enabled.\nConfigure the aging time of NDP message sent by the equipment on the receiving equipment. The effective time range is 1-4096 seconds, and the default configuration is 180 seconds.\nConfigure the time interval for sending NDP message. The effective time range is 1-4096 seconds, and the default configuration is 60 seconds.\nFigure 18-1  NDP Configuration Page\n(2) NTDP Configuration\nFigure 18-2 shows the NTDP configuration page, which allows the user to configure NTDP. Information that can be set includes: selecting a port, enabling the port NTDP function, enabling the global NTDP function, the scope of topology collection, the time interval for timing topology collection, the delay time for forwarding a packet on the first port, and the delay time for forwarding a packet on other ports.\nPort selection: select the port as required and enable the NTDP function of the port. For NTDP to function properly, both the global and port NTDP features must be enabled.\nConfigure the range of topology collection. The valid range is 1-6. In the default configuration, the farthest device in the collected topology has a maximum hop count of 3 from the topology collection device.\nConfigure the time interval for scheduled topology collection. The valid range is 0-65535 minutes. The default configuration is 1 minute.\nConfigure the delay time for the first port to forward the message. The effective range is 1-1000 milliseconds, and the default configuration is 200 milliseconds.\nConfigure the delay time for the first port to forward the message. The effective range is 1-100 milliseconds, and the default configuration is 20 milliseconds.\nFigure 18-2  NTDP Configuration Page\n(3) Cluster configuration\nFigure 18-3 shows the cluster configuration page, which allows the user to configure the cluster and view the cluster member table. Information that can be set includes: enabling the cluster function, configuring the management VLAN, the address pool of the cluster, the time interval for sending the handshake message, the effective retention time of the device, the cluster name, the way to join the cluster, and deleting the cluster.\nEnable the cluster feature. The cluster feature must be enabled for it to function properly.\nConfigure the management VLAN. The valid range is 1-4094. The default configuration is vlan1.\nConfigure the private IP address range used by the member devices in the cluster. The valid range of the IP address is 0.0.0.0 ~ 255.255.255.255, and the valid range of the mask length is 0 ~ 32.\nConfigure the time interval for sending the handshake message. The effective range is 1-255 seconds, and the default configuration is 10 seconds.\nConfigure the valid retention time of the device. The valid range is 1-255 seconds. The default configuration is 60 seconds.\nTo establish a cluster, you need to configure the cluster name and select the way to join the cluster. There are two ways to join the cluster: manual and automatic. After the cluster is established, automatic can be switched to manual, but manual cannot be switched to automatic. The cluster name can be changed manually.\nAfter the cluster is established, member devices and candidate devices can be viewed in the cluster member table, and member devices can be deleted or candidate devices can be added to member devices according to roles.\nFigure 18-3  Cluster Configuration Page\n19.ERPS Configuration\n(1) ERPS Configuration\nFigure 19-1 is the ERPS configuration page. Users can use this page to enable ERPS functions, configure ERPS parameters, create and delete ERPS instances, ERPS rings and other applications.\nERPS instances: creating and deleting ERPS instances (< 1-8 >)\nERPS Instance Node Role: Configure the role of the node in the ERPS ring, interlink node or non-interlink nodes\nERPS Ring Numbers: Creating and Deleting ERPS Rings (< 1-32 >)\nRing mode: configure the ERPS ring mode, the main ring or the sub-ring\nRing node mode: configure the ERPS ring node mode, RPL owner node, RPL neighbor node, or normal ring node\nProtocol VLAN: Configure and delete the ERPS ring protocol VLAN (< 2-4094 >)\nData VLAN: Configure the ERPS ring data VLAN (< 1-4094 >)\nRing port: configure and delete ERPS ring port, RPL port or normal ring port\nRecovery behavior: Configure the recovery behavior of the ERPS ring, recoverable or non-recoverable\nHold-off time: configure ERPS ring hold-off time (< 0-10000 >) , unit: ms, default: 0\nGuard time: configure ERPS ring guard time (< 10-2000 >) , unit: ms, default: 500\nWtr time: configure the wtr time of ERPS ring (< 1-12 >) , unit: min, default: 5\nWTB time: configure the WTB time of ERPS ring (< 1-10 >) , unit: sec, default: 5\nProtocol message sending time: configure the ERPS ring protocol message sending time (< 1-10 >) , unit: sec, default is 5\nEnable ERPS ring: Turn ERPS ring on or off\nForce switch ERPS ring port: Force, clear switch ERPS ring port\nForce Manual ERPS Ring Port: Force, Clear Manual ERPS Ring Port\nManual recovery, manual recovery when unrecoverable behavior of ERPS ring is cleared, or manual recovery before WTR/WTB expires\nFigure 19-1  ERPS Configuration Page\n(2) ERPS Information\nFigure 19-2 is the ERPS information page that allows users to view ERPS configuration information.\nFigure 19-2  ERPS Information Page\n20.LLDP Configuration\n(1) LLDP global configuration\nFigure 20-1 shows the LLDP global configuration screen, which is used to display and configure global LLDP parameters.\nFigure 20-1  LLDP Global Configuration Part\n(2) LLDP Ports Configuration\nFigure 20-2 shows the LLDP port configuration screen, which is used to display and configure LLDP port parameters.\nFigure 20-2  LLDP Ports Configuration Part\n(3) LLDP Neighbor\nFigure 20-3 This page is LLDP information. This page is used to display and configure LLDP port parameters.\nFigure 20-3  LLDP Neighbor Table Part\n21.Log Management\n(1) Log Configuration\nFigure 21-1 shows the log information page through which the user can view the log. Select the log priority from the drop-down list to view the log of this level. Click Refresh to view the latest log.\nFigure 21-1  Log Configuration Page\n(2) Log Information\nFigure 21-2 shows the log information page through which the user can view the log. Select the log priority from the drop-down list to view the log of this level. Click Refresh to view the latest log.\nFigure 21-2  Log Information Page\n22.POE Port Configuration\n(1) POE Port Configuration\nFigure 22-1 is the POE port configuration page, through which you can configure the total power of the POE device (to be updated by the system) , POE single-port power (to be updated by the system) , and POE on or off; through this page, you can view the relevant information of the current POE device\nPOE Port: Select the power supply port number (1-24)\nPOE port status: enable or disable\nFigure 22-1  POE Port Configuration Page\n(2) POE Policy Configuration\nFigure 22-2 is the POE policy configuration page. Through the scheduling management, the POE power supply can be turned on or off according to the actual needs. The control mode is hour + week.\nControl Port: Used to select the port (1-24)  to be scheduled for management\nControl function: enable or disable\nFigure 22-2  POE policy Configuration Page\n(3) PD Query Configuration\nFigure 22-3 shows the PD query configuration page, through which the PD online device status detection can be realized.\nPOE port: used to select the port to be queried and connected to the PD device\nPD IP address: IP address of the PD device.\nPD query interval: the time interval for querying PD devices (5 seconds by default) .\nMaximum times of PD query without response: used to query the maximum times of PD device without response (3 times by default)\nMaximum time required for PD startup: used to query the maximum time required for PD device startup (120 seconds by default)\nFigure 22-3  PD Query Configuration Page\n[页眉页脚]\ns.sagatelecom@gmail.com\nSaga Telecom\nwww.sagatelecom.com.cn\nConnecting, Converting, Creating",
+ "blocks": [
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "L2 Web Manual"
+  },
+  {
+   "t": "p",
+   "s": "TOC Heading",
+   "text": "Content"
+  },
+  {
+   "t": "p",
+   "s": "sdt",
+   "text": "1.Overview of WEB pages41.Characteristics of WEB access42.System requirements for WEB browsing:43.Login for WEB browsing session54.Basic composition of WEB page65.Navigation Tree Structure76.Introduction to Page Button77.Error Message88.Entry Field89.State Field92.WEB Page Introduction91.Login Dialog92.Main Page103.System configuration10(1) Basic Information10(2) Serial Information11(3) User Management12(4) safe management13(5) SNTP configuration13(6) Jumbo Frame Configuration14(7) Save Current configuration14(8) Configuration file15(9) File upload15(10) System Reboot164.Port configuration16(1) Common configuration16(2) Port Statistics17(3) Flow Control17(4) Broadcast Storm17(5) Port rate limit18(6) Protection Port19(7) Learn limit19(8) Prot Trunking20(9) Mirror21(10) DDM information225.MAC Configuration22(1) MAC table22(2) MAC Binding 23(3) MAC auto binding 23(4) MAC Filter24(5) MAC auto filter 246.VLAN Configuration25(1) VLAN information25(2) VLAN Configuration25(3) VLAN Port Configuration267.SNMP Configuration27(1) Community Name27(2) TRAP Target288.ACL Configuration28(1) Standard IP28(2) Extended IP29(3) MAC IP30(4) MAC ARP31(5) ACL Information32(6) ACL Reference329.Qos configuration33(1) Qos apply33(2) Qos Schedule3410.IP Basic Configuration34(1) VLAN interface34(2) ARP configuration and display35(3) Host static route configuration3511.AAA Configuration36(1) AAA Authentication 36(2) Tacacs + Configuration36(3) Radius Configuration37(4) 802.1x configuration38(5) 802.1x Port Configuration39(6) 802.1x user authentication information4012.MSTP configuration40(1) Global Configuration40(2) Port configuration40(3) Port information4113.IGMP SNOOPING configuration41(1) IGMP SNOOPING Configuration41(2) Multicast group information4214.GMRP Configuration42(1) GMRP Global Configuration42(2) GMRP Ports Configuration42(3) GMRP State Machine4315.CVRP Configuration43(1) GVRP Global Configuration43(2) GVRP Ports Configuration43(3) GVRP state machine4416.EAPS Configuration44(1) EAPS Configuration44(2) EAPS Information4517.RMON Configuration45(1) Statistics Configuration45(2) History Configuration46(3) Alarm Configuration47(4) Event Configuration4718.Cluster Management48(1) NDP configuration48(2) NTDP Configuration48(3) Cluster configuration4919.ERPS Configuration50(1) ERPS Configuration50(2) ERPS Information5220.LLDP Configuration52(1) LLDP global configuration52(2) LLDP Ports Configuration53(3) LLDP Neighbor 5321.Log Management53(1) Log Configuration53(2) Log Information5422.POE Port Configuration54(1) POE Port Configuration54(2) POE Policy Configuration55(3) PD Query Configuration55"
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "1.Overview of WEB pages"
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "1.Characteristics of WEB access"
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "The all-gigabit managed Ethernet switch provides Web access for users."
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "Users can access the switch through a Web browser to manage and configure the switch."
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "The main features of WEB access are:"
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "Easy access: Users can easily access the switch from anywhere on the network."
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "Users can use familiar browsers such as Netscape Communicator and Microsoft Internet Explorer to access the WEB page of the all-gigabit managed Ethernet switch, and the WEB page is presented to users in a graphical and tabular form."
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "The all-gigabit managed Ethernet switch provides rich WEB pages, through which users can configure and manage most of the functions of the switch."
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "The classification and integration of WEB page functions are convenient for users to find relevant pages for configuration and management."
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "System requirements for WEB browsing"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "The system requirements for Web browsing are shown in Table 1"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Table 1:"
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "Hardware and software",
+     "System Requirements"
+    ],
+    [
+     "CPU",
+     "Pentium 586 or above"
+    ],
+    [
+     "Memory",
+     "128MB or more"
+    ],
+    [
+     "Resolution",
+     "Above 800 × 600"
+    ],
+    [
+     "Color",
+     "More than 256 colors"
+    ],
+    [
+     "Browser",
+     "IE 4.0 or above or Netscape 4.01 or above"
+    ],
+    [
+     "Operating system",
+     "Microsoft® ,Windows95®,Windows98®,WindowsNT®, / Windows2000®,WindowsXP®,WindowsME®, WindowsVista®, Windows7®, Windows8®, Windows10® Windows11®MAC, Linux,Unix-like operating system"
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Notice："
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Microsoft®, Windows95®,W indows98®, WindowsNT®, Windows2000®, WindowsXP ®, Windows ME®, WindowsVista®, Windows7®, Windows8®, Windows10®, Windows11®  is a registered trademark of Microsoft Corporation."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "All other product names, trademarks, registered trademarks, and service marks are copyrighted by their respective owners."
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "3.Login for WEB browsing session"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Before starting a Web browsing session, the user needs to confirm:"
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "The switch has been configured for IP, and by default, the interface IP address for VLAN1 on the switch is 192.168.0.1"
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "The subnet mask is 255.255.255.0"
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "A host with a Web browser has been connected to the network and is able to ping to the switch."
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "After completing the above two tasks, the user enters the address of the switch in the address bar of the browser and presses Enter to enter the Web login page of the switch, as shown in Figure 1. When the multi-user management is not enabled, the user needs to verify the password of the anonymous user (admin)  when logging in the Web. Only by entering the correct password can the user access the Web. The default password of the anonymous user is admin."
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "If the system enables multi-user management and configures privileged users, the anonymous user password will not take effect. Users accessing the Web will not verify the anonymous user password, but verify the user name and password of multi-user management."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 1  Login page for WEB browsing session"
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "4.Basic composition of WEB page"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "As shown in Figure 2, the WEB page is mainly composed of three parts: title page, navigation tree page and main page."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 2  Basic composition page of switch WEB page"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Title Page  It is used to display the logo and the real-time port status, as shown in the following figure"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "A green light indicates that the port is connected;"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "A gray light indicates that the port is not connected;"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Red light indicates that the port is closed (refer to the port configuration for specific settings)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Main Page  Displays the page that the user selects from the navigation tree."
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "5.Navigation Tree Structure"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 3 shows the organization of the navigation tree."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "The navigation tree is located at the bottom left of each page, and displays the nodes of the WEB page in the form of a tree, so that the user can easily find the WEB page to be managed. Web pages are divided into different groups according to their functions, and each group includes one or more pages. The page name in most navigation trees is an abbreviation of the page title above the corresponding page."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 3  Organization page of the switch navigation tree"
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "6.Introduction to Page Button"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "There are some common buttons on the page, and the functions of these buttons are generally the same. Table 2 describes the functions of these buttons."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Table 2："
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "button",
+     "Function"
+    ],
+    [
+     "Refresh",
+     "Update all fields on the pack"
+    ],
+    [
+     "application",
+     "Place the updated value in memory. Because error checking is done by the Web server, there is no error checking until the user selects the button"
+    ],
+    [
+     "delete",
+     "Delete the current record"
+    ],
+    [
+     "help",
+     "Open the help page to view the configuration instructions for each pack"
+    ]
+   ]
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "7.Error Message"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "If an error occurs while the switch&apos;s WEB server is processing a user request, a corresponding error message is displayed in a dialog box. For example, Figure 4 shows an error message dialog box."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 4  Error Information Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "8.Entry Field"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Some pages have an entry field in the leftmost column of the table, as shown in Figure 5, through which different rows in the table can be accessed. When you select a value in an entry field, the corresponding information for that row is displayed on the first row. Only that row can be edited. It is also called the active row. When a page is initially loaded, the entry field displays new and the active line is empty."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "To add a new row, select New from the drop-down menu in the entry field, enter the new row information, and press the Apply key."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "If you want to edit an existing row, select the appropriate row number from the drop-down menu in the entry field, edit the row as needed, and then press the Apply key. You will see the corresponding changes displayed in the table."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "If you want to delete a row, select the corresponding row number from the drop-down menu in the entry field and press the Delete key. The row will disappear from the table."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 5  Entry Domain Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "9.State Field"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Some pages have a status field in the rightmost column of the table, as shown in Figure 6, which shows the status of the row. Since all row state changes are handled internally, this state field is read-only. Once all the domain information in a row is in effect, the row status automatically changes to active."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 6  Status Field Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "2.WEB Page Introduction"
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "1.Login Dialog"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 1-1  Login page for WEB browsing session"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 1-1 shows the login dialog box that appears the first time a user logs on to a Web page. The user can log in to the Web server of the switch by entering the user name and password in the corresponding fields and then clicking the OK button. Passwords are case-sensitive. Anonymous user passwords can be up to 16 characters, while multiple user names and passwords can be up to 16 characters. The default user name of the managed switch is the anonymous user name admin, the default password is the anonymous user password, and the default anonymous user password is blank."
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "2.Main Page"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 2-1 shows the main WEB page of the managed switch. This page is displayed after the user logs in to the web page."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 2-1  Switch Home Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "3.System configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Language switching: via the language switching button in the upper right corner, you can easily switch between Chinese and English system interfaces."
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(1) Basic Information"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 3-1 is the basic information configuration page, through which the user can configure the basic information of the switch."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "System Description displays a description of the relevant parameters of the system."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "The system descriptor identification number shows the identification of the system in network management."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "System Version Number displays the version number of the software currently in use on the switch."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Network Interfaces displays the current number of network interfaces in the switch."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "System Startup Time displays the time since the switch was started."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "The system clock displays the current clock of the system. The user can modify the current clock of the system by inputting the parameters of year, month, day, hour, minute and second."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "System Name displays the system name of the switch on the network. You can change the system name."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "System Location displays the physical location of the switch in the network. You can modify the system location."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "System Contacts displays the Manage Contact Information page for the current node."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 3-1 Basic information configuration page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(2) Serial Information"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 3-2 shows the interface for displaying switch serial port information. Through this page, you can view the configuration information of the switch serial port."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 3-2  Serial Port Configuration Information Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(3) User Management"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 3-3 shows the user management page, where users can modify the anonymous user (admin)  password of the switch. Telnet and Web use the same anonymous user password when multiple users are not enabled. Passwords are case sensitive and can be set to a maximum of 16 characters. If you want to change the password, the user needs to enter the new password twice. Once the user clicks the application button, the new password will be activated. At this time, if the switch does not enable multiple users, a login dialog box will be displayed (as shown in Figure 7) . The user needs to log in to the webpage again, and must enter the new anonymous user password to log in to the WEB page."
+  },
+  {
+   "t": "p",
+   "s": "Default",
+   "text": "At the same time, users can configure multiple users through this page. The switch does not have multiple users by default, which means that the multi user management function is not enabled by default. At this time, login does not require verification of multiple user names and passwords. For Telnet, when a username is added, the multi user management function is enabled, and when all users are deleted, the multi user management function is turned off again. For the Web, when adding a username, the multi user management function is only enabled if it is a privileged user. When all privileged users are deleted, the multi user management function is turned off again. When the multi user management function is enabled, anonymous user passwords will not take effect, and logging in to Telnet and the Web requires multi user username and password verification. When the multi user management function is turned off, if an anonymous user password is configured, logging in to Telnet and Web requires anonymous user password verification."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 3-3 User Management Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(4) Safe management"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 3-4 is the security management configuration page. Through the configuration of this page, the administrator can control the network management services TELNET, WEB and SNMP, enable or disable these services, attach these services to the ACL group of IP standard, and implement source IP address control. Controls host access to these services."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "By default, the TELNET, WEB, and SNMP services of the switch are turned on without ACL filtering, that is, all hosts can access these three services of the switch. If the administrator does not want to provide one or more of these services to other users for the sake of security, one or more of these services can be turned off. If the administrator only wants specific hosts to access one or more of these services, one or more of these services can be filtered by ACL. When a service needs ACL filtering, the service needs to be opened and an ACL group (1-99)  of IP standard needs to be selected. At this time, the ACL group must exist."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It should be noted that if the administrator controls the WEB service on this page (such as closing the WEB service) , the user may no longer be able to use the WEB page. At this time, the user can log in to the switch in other ways and control the WEB service so that the user can use the WEB page (such as opening the WEB service) ."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 3-4  Security Management Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(5) SNTP configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 3-5 shows the SNTP configuration page, which allows administrators to configure and view the system clock."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 3-5  SNTP Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(6) Jumbo Frame Configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 3-6 Jumbo Frame Configuration Interface. Through this page, the user can configure the switch frame. The frame number range (1522-16383) sets the point application."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 3-6  Jumbo Frame Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(7) Save Current configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 3-7 is the current configuration page. This page allows the user to view the current configuration of the switch. The save key is used to save the current configuration of the system to the configuration file. Because the storage operation needs to erase the FLASH chip, which takes a certain amount of time. When the user makes a configuration on the page and wishes that the configuration will not be lost after restarting the switch, he must click Save in the current configuration page before exiting the page."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 3-7  Current Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(8) Configuration file"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 3-8 is the profile page. This page allows the user to view the initial configuration of the system. The initial configuration is actually the configuration file in FLASH. When there is no configuration file in FLASH, the default configuration is used when the system is started. The delete key is used to delete the configuration file in FLASH. Click the delete key, and a dialog box will pop up. The dialog box prompts the user to confirm whether to delete the configuration file. If yes, press the OK key on the dialog box. Otherwise, press the cancel key. The download key is used to download the configuration file to the PC. Click the download button, a dialog box will pop up, and the user will select the directory path and save the configuration file. The file name of the downloaded configuration file is the switch. cfg."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 3-8 Configuration File Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(9) File upload"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 3-9 shows the file upload page, which allows users to upload configuration files and image files to the switch. Click the Browse button to select the directory path of the uploaded profile or image file on the PC. Click the Upload button to upload the configuration file or image file. The suffix of the configuration file must be *.cfg. The image file must be provided by the manufacturer and the suffix of the file name must be *.img. Please do not click other pages or restart the switch before returning to the transfer result page; otherwise, the file transfer will fail and the system will crash."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 3-9 File Upload Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(10) System Reboot"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 3-10 shows the system reset page, through which the user restarts the switch. When the Restart button is clicked, a dialog box will pop up to prompt the user whether to restart the switch. If yes, press the OK button, otherwise press the Cancel button. Web pages will no longer open when you restart. When clicking the Restore Factory Switch, a dialog box will pop up to prompt the user whether to confirm the restoration of the factory switch. If yes, press the OK key, otherwise press the Cancel key. Web pages will no longer open when you restart."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 3-10 System Reset Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "4.Port configuration"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(1) Common configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 4-1 is the Port Configuration/Port Display page. This page allows users to enable or disable ports, set port speeds, or view basic information for all ports. To set a specific port, the user needs to select the corresponding port name in the drop-down menu of the port. The port status defaults to up, and you can disable the port by selecting down from the drop-down menu. The user can also select the Set Speed drop-down menu to set the speed of the port, such as forcing the port to be half-duplex 10 M (half-10) . This page allows the user to view additional basic information for all ports."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 4-1  Port Configuration and Port Display Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(2) Port Statistics"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 4-2 is the Port Statistics page. To view a particular port, the user needs to select the appropriate port name from the drop-down menu for the port. This page allows the user to view the statistics of packets sent and received by the port."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 4-2  Port Statistics Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(3) Flow Control"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 4-3 is the flow control page. The user can turn on and off the flow control of each port through this page. Flow control of a port is turned on or off by the pull-down on or off of the flow control. At the same time, the flow control status of all ports can be viewed through this page."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 4-3  Flow Control Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(4) Broadcast Storm"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 4-4 is the Broadcast Storm Control page. This page is used to configure the suppression function of broadcast packets, multicast packets and DLF packets for the port."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Select the port to be configured from the drop-down bar of the port. Use on and off to turn on and off broadcast suppression, multicast suppression, and DLF suppression for the port. Throttle rate item is used to configure the throttle rate of the port. Range 1-1024000, unit: kbits. The suppression rates of broadcast suppression, multicast suppression and DLF suppression on the same port are equal. At the same time, you can view the broadcast storm control configuration of all ports through this page."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 4-4  Broadcast Storm Control Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(5) Port rate limit"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 4-5 shows the port speed limit page. This page is used to configure the rate at which the port sends and receives."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Select the port to be configured from the drop-down bar of the port. The bandwidth control of sending data packet is used to configure and display the bandwidth control of sending data packet. The range is 1-1024000, and the unit is kbits. After input, press the application key to take effect. Displays off if the port is not configured for bandwidth control. The corresponding cancel key is used to cancel the bandwidth control of the transmitted data packet. The bandwidth control of the received data packet is used to configure and display the bandwidth control of the received data packet. The range is 1-1024000, and the unit is kbits. After input, press the application key to take effect. Displays off if the port is not configured for bandwidth control. The corresponding cancel key is used to cancel the bandwidth control of the received packet."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "If the port is configured with bandwidth control, it is displayed in the list."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 4-5  Port Speed Limit Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(6) Protection Port"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 4-6 is the protection port page. This page is used to configure protection ports. Protected ports cannot communicate with each other, only with unprotected ports."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 4-6  Protection Port Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(7) Learn limit"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 4-7 is the Port Learning Limits page. This page is used to limit the number of MAC addresses that the port can learn. The range is 0-8191. The default value is 8191, which is also the maximum value, indicating that the port has no learning limit configured. The list shows the learning limits for all ports."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 4-7  Port Learning Limit Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(8) Port Trunking"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 4-8 is the Port Aggregation Configuration page. This page allows the user to configure port aggregation. This page consists of four sections: Tr group ID selection, port aggregation method, configurable ports, and group member ports."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "To create or modify a port aggregation, the user needs to select a Tr group ID from 1 to 8. The user clicks the corresponding Tr group ID in the list box, and the information of the Tr group is displayed in the group member port. To create a Trunk group, select the corresponding ID in the Trunk group ID, and click \"Create Trunk Group\". If the creation is successful, the ID display column will be marked with parentheses. If a Tr group is not created,Not created is marked in parentheses in the ID display column. To set the port aggregation method, select an aggregation method from the drop-down box above the list and click the button Set Aggregation Method. To add an aggregated port, select the aggregated port in Configurable Ports and click Member Port = >. To delete a port from the existing aggregated ports, select the aggregated port from the group member ports and click the \"Non-member port < =\" button. To delete the entire Tr group, click the Delete Tr Group button."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "In the page configuration process, the configured aggregation method corresponds to the selected Trunk group ID. Only the existing Trunk group can configure the aggregation method; only the existing Trunk can add or delete member ports; only the Trunk group without member ports can be deleted."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "The switch provides six types of port aggregation: based on source MAC address, based on destination MAC address, based on source and destination MAC address, based on source IP address, based on destination IP address, and based on source and destination IP address."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "The managed switch supports up to 8 groups of port aggregation. Each group of port aggregation supports up to 8 ports. Each Tr group can configure its own port aggregation method."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 4-8  Port Aggregation Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(9) Mirror"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 4-9 shows the port mirroring configuration page, which allows the user to configure port mirroring. Port mirroring is to monitor the data packets output by the mirrored output port and the data packets input by the mirrored input port through the mirroring port. Only one mirror port can be selected, and multiple mirrored output ports and mirrored input ports can be selected. This page consists of four parts: listening port, configurable port, listening direction and mirror configuration information. When configuring a mirror port, first configure the mirror port from the monitoring port. There can only be one mirror port. Then select the mirrored port from the configurable ports. Select the monitoring direction from the monitoring direction. Finally, press the Apply key to take effect. The result will be displayed in the mirror configuration information."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "When RECEIVE is selected in the monitoring direction, it means to monitor the received data packets, and TRANSMIT means to monitor the transmitted data packets. BOTH means to monitor all sent and received packets, NOT _ RECEIVE means to cancel monitoring received packets, NOT _ TRANSMIT means to cancel monitoring sent packets, and NEITHER means to cancel monitoring received and sent packets, that is, to cancel the monitored port."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 4-9  Port Mirror Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(10) DDM information"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 4-10 shows the DDM information viewing interface. This page is used to view the corresponding information of the optical module."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 4-10  DDM information viewing interface"
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "5.MAC Configuration"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(1) MAC table"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 5-1 is the MAC address table display interface. This page is used to view the MAC address of the VLAN corresponding to the port."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 5-1  MAC Address Table"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(2) MAC Binding"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 5-2 is the MAC binding configuration page. This page is used to implement the binding of port and MAC address. The MAC entry on the page is used to enter the bound MAC address, and the VLAN ID entry is used to enter the VLAN to which the MAC address belongs."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 5-2  MAC Binding Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(3) MAC auto binding"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 5-3 is the MAC Binding Auto Conversion page. This page is used to automatically bind the MAC address of the port."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Displays the existing dynamic MAC address of the port in the Layer 2 hardware forwarding table and the VLAN to which it belongs. You can select an entry and convert it to a static binding."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 5-3  MAC Binding Automatic Conversion Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(4) MAC Filter"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 5-4 is the MAC filtering configuration page. This page is used to configure the port to filter MAC addresses."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "The MAC entry on the page is used to enter the filtered MAC address, and the VLAN ID entry is used to enter the VLAN to which the MAC address belongs."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 5-4  MAC Filtering Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(5) MAC auto filter"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 5-5 shows the MAC filtering automatic transition page. This page is used to automatically bind the MAC address to the port."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Displays the existing dynamic MAC address of the port in the Layer 2 hardware forwarding table and the VLAN to which it belongs. You can select an entry and convert it to a static filtering configuration."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 5-5 MAC Filtering Auto Conversion Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "6.VLAN Configuration"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(1) VLAN information"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 6-1 shows the Current VLAN Information page. This read-only page displays the current VLAN, the status of the VLAN, and the port membership of the VLAN. The drop-down box displays all current VLANs, and the list displays the VID, status, and port membership for up to 30 VLANs. Select a VLAN from the drop-down box. The list displays information for up to 30 VLANs with a VID greater than the VLAN. However, if there are no more than 30 VLANs, no matter which VLAN is selected from the drop-down box, the information of all VLANs will be displayed in the list."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "A port may not be a member of a VLAN, and may be a tagged or untagged member of a VLAN."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "The characters before the port on the page have the following meanings:"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "t   tagged            The port is a tagged member of this VLAN"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "u   untagged          The port is an untagged member of this VLAN"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 6-1  VLAN Information Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(2) VLAN Configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 6-2 is the Static VLAN Configuration page, which allows the user to create VLANs."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "To create a new VLAN, the user enters a VID in the active line from 2 to 4094. The VLAN name is generated by the system based on the VLAN ID and cannot be modified. Click the Apply button, and the list box displays the VID and VLAN name of the VLAN created by the user. The switch creates VLAN 1 by default, and VLAN 1 cannot be deleted."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "To delete a VLAN, the user needs to click on the corresponding VLAN in the list box. The VLAN will be displayed in the active line. Click the Delete key to delete the VLAN, and the information of the VLAN will be removed from the list box."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 6-2  VLAN Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(3) VLAN Port Configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 6-3 is the VLAN Port Configuration page, which is used to configure VLANs on the ports and displays the results of the configuration. This page mainly consists of eight parts: port, mode, all current VLANs, VLAN to which the port belongs, and the keys \"Default VLAN = >\", \"tagged = >\", \"untagged = >\" and \"Non-member < =\"."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Port is the port that specifies the VLAN to be configured."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Mode Access specifies that the port&apos;s VLAN mode is ACCESS mode. In this VLAN mode, the port defaults to an untagged member of VLAN1, and the port&apos;s default VLAN is 1. Hybrid specifies that the VLAN mode of the port is HYBRID mode. In this VLAN mode, the port is an untagged member of VLAN1 by default, and the default VLAN of the port is 1. Trunk specifies that the VLAN mode of the port is TRUNK mode. In this VLAN mode, the port is a tagged member of VLAN1 by default, and the default VLAN of the port is 1."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "All current VLANs refer to the currently created VLANs, that is, the VLANs configured by the port. The user can select more than one VLAN from the list."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "The VLAN to which the port belongs displays the result of the VLAN port configuration. [P] indicates that the VLAN is the default VLAN for the port. [T] indicates that the port is a tagged member of the VLAN. [U] indicates that the port is an untagged member of the VLAN. When a VLAN is deleted, the user selects the VLAN from the list. Multiple selections are allowed."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Press \"Default VLAN = >\" to configure the default VLAN of the port, and select a VLAN from all the current VLANs."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Press \"tagged = >\" to configure that the port is a tagged member of the specified VLAN, and select one or more VLANs from all current VLANs."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Press \"untagged = >\" to configure the port to be an untagged member of the specified VLAN. Select one or more VLANs from all the current VLANs."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Press the key \"Non-member < =\" to delete the port from one or more specified VLANs, and select one or more VLANs from the VLANs to which the port belongs."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 6-3  VLAN Port Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "7.SNMP Configuration"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(1) Community Name"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 7-1 shows the SNMP community configuration page, which allows the user to configure the name and read and write permissions of the community of the switch. A total of eight entries can be configured."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "By default, the switch has a community with a public name that is read-only. Correspondingly, there is only one active entry on the page, the community name is public, and the permissions are read-only. When the switch needs to be managed through SNMP, it is necessary to configure a common body with readable and writable permissions."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 7-1  SNMP Community Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(2) TRAP Target"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 7-2 is the TRAP Destination Configuration page, which allows the user to configure the IP address of the workstation that receives the TRAP message and some parameters of the TRAP packet."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "When configuring the entry, the name is used to enter the trap name, the transport IP address is used to enter the destination address, and the SNMP version is used to select the version of the trap packet. If the setting is successful, the status in the entry will be displayed as active. If the configuration is successful, the SNMP TRAP feature will work and the switch will automatically send TRAP packets to the destination address in the event of a link up or link down condition, for example."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 7-2 TRAP Target Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "8.ACL Configuration"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(1) Standard IP"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 8-1 is the ACL Standard IP Configuration page, which allows the user to create a rule base for ACL Standard IP. Users can select an ACL group number (in the range of 1-99, or 1300-1999)  to create one or more rules in that group. The only field that can be matched in a rule is the source IP address (with a mask) ."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 8-1  ACL Standard IP Configuration Page"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "When the user configures the rule, the source IP address needs to be masked, and the rule can match the set of IP addresses. The mask of the address is represented by the complement. If the rule is to match the IP address range 192.168. 0.0 to 192.168. 0.255, the IP address can be 192.168. 0.1 and its mask is 0.0. 0.255."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "When a user configures a rule, each rule must have a filter mode: allow or deny."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "When a user creates a rule in a rule group, the system will automatically assign a rule number to the rule. When a rule in a rule group is deleted, other rules remain unchanged, and the system will automatically sort the rules in a rule group. If the user wants to delete the whole rule group, he can select all first, and then click the delete button."
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(2) Extended IP"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 8-2 shows the ACL extended IP configuration page, which allows the user to create a rule base for the ACL extended IP. Users can select an ACL group number (in the range of 100-199, or 2000-2699)  to create one or more rules in that group. Fields that can be matched in a rule are source IP address (with mask) , destination IP address (with mask) , protocol type (such as ICMP, TCP, UDP, etc.) , source port and destination port (valid only for TCP and UDP protocols) , and TCP control flags."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 8-2  ACL Extended IP Configuration Page"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "When the user configures a rule, both the source IP address and the destination IP address need to be masked, and the rule can match the set of IP addresses. The mask of the address is represented by one&apos;s complement if the rule is to match the IP address range 192.168. 0.0 to 192.168. 0. 255, the IP address can be 192.168. 0.1 and its mask is 0.0. 0.255."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "When a user configures a rule, each rule must have a filter mode: allow or deny."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "When a user creates a rule in a rule group, the system will automatically assign a rule number to the rule. When a rule in a rule group is deleted, other rules remain unchanged, and the system will automatically sort the rules in a rule group. If the user wants to delete the whole rule group, he can select all first and then press the delete key."
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(3) MAC IP"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 8-3 shows the ACL MAC IP configuration page, which allows the user to create a rule base for the ACL MAC IP. Users can select an ACL group number (in the range of 700-799)  to create one or more rules in that group. The fields that can be matched in a rule are source MAC address (with address match bits) , source IP address (with address match bits) , destination IP address (with address match bits) , VLAN ID."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 8-3  ACL MAC IP Configuration Page"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "When the user configures a rule, the source MAC address, source IP address, and destination IP address must all have an address match bit, and the rule can match a set of MAC addresses and IP addresses. For example, if the rule is to match the IP address range 192.168. 0.0 to 192.168. 0. 255, the IP address can be 192.168. 0.1 and its mask is 0.0. 0.255."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "When a user configures a rule, each rule must have a filter mode: allow or deny."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "When a user creates a rule in a rule group, the system will automatically assign a rule number to the rule. When a rule in a rule group is deleted, other rules remain unchanged, and the system will automatically sort the rules in a rule group. If the user wants to delete the whole rule group, he can select all first and then press the delete key."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "When the user configures the rule, the VLAN ID must be in the range of 0 to 4094, inclusive, where 0 represents all."
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(4) MAC ARP"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 8-4 shows the ACL MAC ARP configuration page, which allows the user to create a rule base for ACL MAC ARP. Users can select an ACL group number (in the range of 1100-1199)  to create one or more rules in that group. The fields that can be matched in a rule are the sending MAC address (with address match bits)  and the sending IP address (with address match bits) ."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 8-4  ACL MAC ARP Configuration Page"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "When the user configures the rule, both the sending MAC address and the sending IP address need to have the address matching bit, and the rule can match the set of MAC address and IP address. For example, if the rule is to match the IP address range 192.168. 0.0 to 192.168. 0. 255, the IP address can be 192.168. 0.1 and its mask is 0.0. 0.255."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "When a user configures a rule, each rule must have a filter mode: allow or deny."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "When a user creates a rule in a rule group, the system will automatically assign a rule number to the rule. When a rule in a rule group is deleted, other rules remain unchanged, and the system will automatically sort the rules in a rule group. If the user wants to delete the whole rule group, he can select all first and then press the delete key."
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(5) ACL Information"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 8-5 shows the ACL Repository Information page, which displays all the rules and references configured in the current ACL."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 8-5  ACL Resource Library Information Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(6) ACL Reference"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 8-6 is the ACL reference configuration page, through which the user can select an ACL rule group for a port, write the rules in the ACL rule group into the port hardware logic, and make the port perform ACL filtering on the received packets according to these rules."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "When selecting an ACL rule group on a port, you can select IP Standard, IP Extended, MAC IP, and MAC ARP ACL groups. The selected ACL rule group must exist. Select from the ACL rule group list and press the Add key. To delete an ACL rule group, select an ACL rule group from the list of referenced rule groups and press the Delete key."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 8-6  ACL Reference Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "9.Qos configuration"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(1) Qos apply"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 9-1 is the Qos application page, through which the user can configure the Qos type of the port and modify the default user priority. The list shows the port&apos;s Qos type and user default priority in real time."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 9-1  Qos Application Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(2) Qos Schedule"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 9-2 is the Qos scheduling page, through which the user can configure the Qos scheduling mode of the port and modify the priority of the queue. The list displays the scheduling mode of the port and the weight value of each queue in real time."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 9-2  Qos Scheduling Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "10.IP Basic Configuration"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(1) VLAN interface"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 10-1 is the VLAN interface configuration page, through which the user can configure the VLAN interface, delete the VLAN interface, configure the IP address of the interface, delete the IP address of the interface, and view the interface information. A VLAN can only be set as an interface if it already exists, and an interface address can only be configured on an already set interface."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 10-1  VLAN Interface Configuration Page"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Managed switches have a VLAN 1 interface by default, which cannot be deleted. Only one interface can be configured for a VLAN."
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(2) ARP configuration and display"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 10-2 is the ARP configuration and display page. This page can display all the information of the ARP table of the switch. At the same time, the user can configure the static ARP entry, delete the ARP entry, and modify the dynamic ARP entry to the static ARP entry through this page."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "When configuring a static ARP entry, the user needs to enter the IP address and MAC address. The MAC address must be a unicast MAC address, and then click Add."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "When deleting an ARP entry, the user can select to delete an ARP entry of an IP, delete an ARP entry of a network segment, delete all ARP entries, delete all dynamic ARP entries, and delete all static ARP entries. To delete the ARP table entry of an IP or delete the ARP table entry of a network segment, enter the specified IP address or IP network segment in the input box. Then click the delete button."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "When the dynamic ARP table entry is modified into the static ARP table entry, the dynamic ARP table entry in a certain network segment or all the dynamic ARP table entries can be modified into the static ARP table entry. In the case of a certain network segment, you need to enter the specified network segment in the input box. Then click the Apply button."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 10-2  ARP Configuration and Display Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(3) Host static route configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 10-3 is the host static route configuration page, through which the user can add or delete the host static route of the switch. By default, the switch is not configured with a host static route. The user can use this page to configure a default route, that is, a route with a destination address/subnet prefix of 0.0. 0.0/0."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 10-3  Host Static Route Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "11.AAA Configuration"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(1) AAA Authentication"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 11-1 is the AAA authentication configuration interface, through which the user can select the authentication type."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 11-1  AAA Authentication Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(2) Tacacs + Configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 11-2 shows the Tacacs + configuration page. Users can configure information related to Tacacs +. The information that can be set includes: enabling Tacacs + functions, configuring the IP address of the Tacacs + server, the authentication type, and the shared secret key."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "The Tacacs + feature must be enabled before it can be used. The default configuration is not enabled."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Configure the IP address of the Tacacs + server. This field must be set when using Tacacs + functionality."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Authentication type: PAP and CHAP authentication types are provided, and the default configuration is PAP authentication."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "The shared key is used to set the encrypted shared password between the switch and the Tacacs + server. This field must be set during authentication and authorization, and must be the same as the setting on the Tacacs + server."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 11-2  Tacacs + Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(3) Radius Configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 11-3 is the Radius configuration page. The user can configure the information related to Radius. The settable information includes:"
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "IP address of Radius server. This field must be set during authentication and accounting."
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "Optional Radius Server IP Address. This field can be set if there is an alternate radius server."
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "Authentication UDP port. The default value is 1812. Users generally do not need to modify this field."
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "Whether to start charging? It is started by default. Charging is generally started during authentication charging."
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "Billing UDP port, default value is 1813."
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "The shared key is used to set the encrypted shared password between the switch and the Radius server. This field must be set during authentication and billing, and must be the same as the setting on the Radius server."
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "Vendor specific information. Users generally do not need to modify this field."
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "NAS port, NAS port type, and NAS service type. Users generally do not need to modify these three values."
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "Whether Radius roaming is turned on or off."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 11-3  Radius Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(4) 802.1x configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 11-4 is the 802.1x configuration page, through which the user can configure some information related to 802.1x, mainly including:"
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "Whether to start the 802.1x protocol? The 802.1x protocol must be started during authentication and accounting."
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "Whether the switch uses general authentication or extended authentication."
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "Whether to turn on the re-authentication function is not turned on by default, and it is determined according to the actual situation when making authentication billing. Turning on the re-authentication function will make users more reliable when using authentication billing, but it will slightly increase the traffic of the network."
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "Set the re-authentication time interval, which is valid only when the re-authentication function is enabled. The default is 3600 seconds. Set the value according to the actual situation when performing authentication billing, but the value should not be too small."
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "Quiet Period timer. Users generally do not need to modify this field."
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "Tx-Period timer. Users generally do not need to modify this field."
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "Server timeout timer. Users generally do not need to modify this field."
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "For the supplicant timeout timer, the user generally does not need to modify this field"
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "The number of Max Requests. Users generally do not need to modify this field."
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "Displays the Reauth Max size."
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "Client Version. The client version number."
+  },
+  {
+   "t": "p",
+   "s": "LNW-编号正文",
+   "text": "Check Client, whether to check the timing traffic packet of the client after passing the authentication."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 11-4  802.1x Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(5) 802.1x Port Configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 11-5 is the X port configuration page of the 802.1. Through this page, the user can configure the X port mode of the 802.1 and the maximum number of hosts supported, and view the X configuration of the 802.1 of each port."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "802.1x port modes include four types: N/A state, Auto state, Force-authorized state, and Force-unauthorized state."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "When 802.1 X authentication is required for a port, the port must be set to the Auto state. If the port is not authenticated, it can access the network. The port must be set to the N/a state. The other two States are rarely used in practical applications."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 11-5  802.1x Port Configuration Page"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "When performing 802.1x authentication, the maximum number of hosts accessed by the port is 256 by default. The user can modify this field to support a maximum of 256 hosts."
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "(6) 802.1x user authentication information"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 11-6 is the 802.1x user authentication information page, through which the user can view the status information of all users connected to a port"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 11-6  802.1x User Authentication Information Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "12.MSTP configuration"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(1) Global Configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 12-1 shows the MSTP global configuration page, through which the user can configure global MSTP parameters."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 12-1  MSTP Global Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(2) Port configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 12-2 shows the MSTP port configuration page, through which the user can configure the port MSTP parameters."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 12-2  MSTP Port Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(3) Port information"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 12-3 is the MSTP port information page, through which the user can view the specific status of the port MSTP."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 12-3  MSTP Port Information Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "13.IGMP SNOOPING configuration"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(1) IGMP SNOOPING Configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 13-1 shows the IGMP SNOOPING configuration page, which allows the user to enable IGMP SNOOPING."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 13-1  IGMP SNOOPING Global Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(2) Multicast group information"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 13-2 is the multicast group information page, through which the user can view the IGMP snooping multicast program information."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 13-2  Multicast Group Information Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "14.GMRP Configuration"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(1) GMRP Global Configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 14-1 shows the GMRP global configuration page, which allows the user to enable GMRP."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 14-1  GMRP Global Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(2) GMRP Ports Configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 14-2 shows the GMRP port configuration page, through which the user can enable the port GMRP and view the port information."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 14-2  GM RP Ports Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(3) GMRP State Machine"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 14-3 is the GMRP state machine page, through which the user can view the state machine information established by GMRP."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 14-3  GMRP State Machine Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "15.CVRP Configuration"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(1) GVRP Global Configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 15-1 shows the GVRP global configuration page, which allows the user to enable GVRP."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 15-1  GVRP Global Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(2) GVRP Ports Configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 15-2 shows the GVRP port configuration page, through which the user can enable port GVRP and view port information."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 15-2  GVRP Ports Configuration"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(3) GVRP state machine"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 15-3 is the GVRP state machine page, through which the user can view the state machine information established by GVRP."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 15-3  GVRP State Machine"
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "16.EAPS Configuration"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(1) EAPS Configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 16-1 This page is used to create and configure EAPS information. It can also be used to delete and display EAPS information."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "EAPS ring number: specific ring number, value range 1-16, can be selected according to the drop-down box"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Creation status: Not Created and Created. If not created, you need to create first."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Modes: Master and Transit, which can be configured according to specific needs."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Master port EAPS master port, e.g. fe1/1, ge1/1"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Alternate port: EAPS second port"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Control VLAN: control VLAN of EAPS ring, value: 2-4094"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Protected VLAN: EAPS ring protected VLAN"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Hello Time Interval The time interval between the sending of Hello messages. Default is 1s"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Fail time: the time to detect the fault, which is 3s by default"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "In the case of data trans-ring forwarding and multi-ring forwarding, this function shall be enabled when the data needs to be trans-ring forwarded. Not turned on by default"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "EXtreme Interoperability Compatibility with other network devices, on by default"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Nable state, last EAPS loop enable condition"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 16-1  EAPS Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(2) EAPS Information"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 16-2 shows the EAPS information page, through which the user can view the EAPS configuration information."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 16-2  EAPS Information Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "17.RMON Configuration"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(1) Statistics Configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 17-1 shows the RMON Statistics Group Configuration page, which allows the user to configure the RMON Statistics Group. Select a port from the drop-down list to view the RMON statistics group configuration that configures that port. When it is not configured, the index number is 0. Fill in the correct index number (range is 1 to 100) . The owner is optional. You can configure the RMON statistics group for this port. The Statistics table displays port statistics from the time the configuration was successful."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 17-1  RMON Statistics Group Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(2) History Configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 17-2 shows the RMON history group configuration page, through which the user can configure the RMON history group. Select a port from the drop-down list to view the RMON History Group configuration that configures that port. If it is not configured, the index number is 0. Fill in the correct index number (the range is 1 to 100) . Interval, Request Buckets, and Owner are optional. You can configure the RMON history group for this port. Interval refers to the time interval for collecting data, in seconds, ranging from 1 to 3600. Request Buckets is the allocated storage size, indicating how many records are stored, ranging from 1 to 100. The statistics table displays the historical data that has been collected since the successful configuration."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 17-2  RMON History Group Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(3) Alarm Configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 17-3 shows the RMON Alert Group Configuration page, which allows the user to create or modify RMON Alert Groups. Select a configured alert group from the drop-down list to view/configure its information, or select New to create one. The index number range is 1 to 60, the interval range is 1 to 3600, and the unit is second. The monitoring object must fill in the MIB node. The comparison method can be absolute (absolute value)  or delta (delta) . In addition, the upper and lower threshold values and the event index must be filled in. The owner is optional. The alarm value is read-only and displays the sampled value when the alarm was last raised. The event index refers to the index number of the RMON event group, which must be configured in advance."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 17-3  RMON Alarm Group Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(4) Event Configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 17-4 shows the RMON Event Group Configuration page, which allows users to create or modify RMON event groups. Select a configured event group from the drop-down list to view/configure its information, or select New to create one. The index number range is 1 to 60. The description is in the form of a string. The action can select none, log, snmp-trap, or log-and-trap. The community name has no effect in this device. The owner is optional. Last Sent Time is read-only and displays the last time the event was sent."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 17-4  RMON Event Group Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "18.Cluster Management"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(1) NDP configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 18-1 shows the NDP configuration page, through which the user can configure the NDP. The information that can be set includes: selecting the port, enabling the port NDP function, enabling the global NDP function, the time interval for sending NDP messages, and the aging time of NDP messages on the receiving device."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Port selection: select the port as required and enable the NDP function of the port. For NDP to function properly, both global and port NDP functions must be enabled."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Configure the aging time of NDP message sent by the equipment on the receiving equipment. The effective time range is 1-4096 seconds, and the default configuration is 180 seconds."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Configure the time interval for sending NDP message. The effective time range is 1-4096 seconds, and the default configuration is 60 seconds."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 18-1  NDP Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(2) NTDP Configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 18-2 shows the NTDP configuration page, which allows the user to configure NTDP. Information that can be set includes: selecting a port, enabling the port NTDP function, enabling the global NTDP function, the scope of topology collection, the time interval for timing topology collection, the delay time for forwarding a packet on the first port, and the delay time for forwarding a packet on other ports."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Port selection: select the port as required and enable the NTDP function of the port. For NTDP to function properly, both the global and port NTDP features must be enabled."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Configure the range of topology collection. The valid range is 1-6. In the default configuration, the farthest device in the collected topology has a maximum hop count of 3 from the topology collection device."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Configure the time interval for scheduled topology collection. The valid range is 0-65535 minutes. The default configuration is 1 minute."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Configure the delay time for the first port to forward the message. The effective range is 1-1000 milliseconds, and the default configuration is 200 milliseconds."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Configure the delay time for the first port to forward the message. The effective range is 1-100 milliseconds, and the default configuration is 20 milliseconds."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 18-2  NTDP Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(3) Cluster configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 18-3 shows the cluster configuration page, which allows the user to configure the cluster and view the cluster member table. Information that can be set includes: enabling the cluster function, configuring the management VLAN, the address pool of the cluster, the time interval for sending the handshake message, the effective retention time of the device, the cluster name, the way to join the cluster, and deleting the cluster."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Enable the cluster feature. The cluster feature must be enabled for it to function properly."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Configure the management VLAN. The valid range is 1-4094. The default configuration is vlan1."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Configure the private IP address range used by the member devices in the cluster. The valid range of the IP address is 0.0.0.0 ~ 255.255.255.255, and the valid range of the mask length is 0 ~ 32."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Configure the time interval for sending the handshake message. The effective range is 1-255 seconds, and the default configuration is 10 seconds."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Configure the valid retention time of the device. The valid range is 1-255 seconds. The default configuration is 60 seconds."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "To establish a cluster, you need to configure the cluster name and select the way to join the cluster. There are two ways to join the cluster: manual and automatic. After the cluster is established, automatic can be switched to manual, but manual cannot be switched to automatic. The cluster name can be changed manually."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "After the cluster is established, member devices and candidate devices can be viewed in the cluster member table, and member devices can be deleted or candidate devices can be added to member devices according to roles."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 18-3  Cluster Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "19.ERPS Configuration"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(1) ERPS Configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 19-1 is the ERPS configuration page. Users can use this page to enable ERPS functions, configure ERPS parameters, create and delete ERPS instances, ERPS rings and other applications."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "ERPS instances: creating and deleting ERPS instances (< 1-8 >)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "ERPS Instance Node Role: Configure the role of the node in the ERPS ring, interlink node or non-interlink nodes"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "ERPS Ring Numbers: Creating and Deleting ERPS Rings (< 1-32 >)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Ring mode: configure the ERPS ring mode, the main ring or the sub-ring"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Ring node mode: configure the ERPS ring node mode, RPL owner node, RPL neighbor node, or normal ring node"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Protocol VLAN: Configure and delete the ERPS ring protocol VLAN (< 2-4094 >)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Data VLAN: Configure the ERPS ring data VLAN (< 1-4094 >)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Ring port: configure and delete ERPS ring port, RPL port or normal ring port"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Recovery behavior: Configure the recovery behavior of the ERPS ring, recoverable or non-recoverable"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Hold-off time: configure ERPS ring hold-off time (< 0-10000 >) , unit: ms, default: 0"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Guard time: configure ERPS ring guard time (< 10-2000 >) , unit: ms, default: 500"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Wtr time: configure the wtr time of ERPS ring (< 1-12 >) , unit: min, default: 5"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "WTB time: configure the WTB time of ERPS ring (< 1-10 >) , unit: sec, default: 5"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Protocol message sending time: configure the ERPS ring protocol message sending time (< 1-10 >) , unit: sec, default is 5"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Enable ERPS ring: Turn ERPS ring on or off"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Force switch ERPS ring port: Force, clear switch ERPS ring port"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Force Manual ERPS Ring Port: Force, Clear Manual ERPS Ring Port"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Manual recovery, manual recovery when unrecoverable behavior of ERPS ring is cleared, or manual recovery before WTR/WTB expires"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 19-1  ERPS Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(2) ERPS Information"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 19-2 is the ERPS information page that allows users to view ERPS configuration information."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 19-2  ERPS Information Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "20.LLDP Configuration"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(1) LLDP global configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 20-1 shows the LLDP global configuration screen, which is used to display and configure global LLDP parameters."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 20-1  LLDP Global Configuration Part"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(2) LLDP Ports Configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 20-2 shows the LLDP port configuration screen, which is used to display and configure LLDP port parameters."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 20-2  LLDP Ports Configuration Part"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(3) LLDP Neighbor"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 20-3 This page is LLDP information. This page is used to display and configure LLDP port parameters."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 20-3  LLDP Neighbor Table Part"
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "21.Log Management"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(1) Log Configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 21-1 shows the log information page through which the user can view the log. Select the log priority from the drop-down list to view the log of this level. Click Refresh to view the latest log."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 21-1  Log Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(2) Log Information"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 21-2 shows the log information page through which the user can view the log. Select the log priority from the drop-down list to view the log of this level. Click Refresh to view the latest log."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 21-2  Log Information Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "22.POE Port Configuration"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(1) POE Port Configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 22-1 is the POE port configuration page, through which you can configure the total power of the POE device (to be updated by the system) , POE single-port power (to be updated by the system) , and POE on or off; through this page, you can view the relevant information of the current POE device"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "POE Port: Select the power supply port number (1-24)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "POE port status: enable or disable"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 22-1  POE Port Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(2) POE Policy Configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 22-2 is the POE policy configuration page. Through the scheduling management, the POE power supply can be turned on or off according to the actual needs. The control mode is hour + week."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Control Port: Used to select the port (1-24)  to be scheduled for management"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Control function: enable or disable"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 22-2  POE policy Configuration Page"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "(3) PD Query Configuration"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 22-3 shows the PD query configuration page, through which the PD online device status detection can be realized."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "POE port: used to select the port to be queried and connected to the PD device"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "PD IP address: IP address of the PD device."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "PD query interval: the time interval for querying PD devices (5 seconds by default) ."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Maximum times of PD query without response: used to query the maximum times of PD device without response (3 times by default)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Maximum time required for PD startup: used to query the maximum time required for PD device startup (120 seconds by default)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Figure 22-3  PD Query Configuration Page"
+  }
+ ],
+ "extracted_at": "2026-10-22T03:48:00Z"
+}

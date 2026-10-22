@@ -1,0 +1,19 @@
+{
+ "sha256_16": "dc955c6f24e6feec",
+ "name": "Model.png",
+ "ext": ".png",
+ "bytes": 230873,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1000,
+  "height": 600,
+  "mode": "RGBA",
+  "thumb_bytes": 4320
+ },
+ "warnings": [],
+ "chars": 21,
+ "text": "Industrial PoE Switch",
+ "extracted_at": "2026-10-22T03:50:05Z"
+}

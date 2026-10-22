@@ -1,0 +1,24 @@
+{
+ "sha256_16": "afb00017b3bc0d82",
+ "name": "Zhengzhou Saga Telecom.pdf",
+ "ext": ".pdf",
+ "bytes": 81289,
+ "method": "pdfplumber",
+ "status": "ok",
+ "meta": {
+  "pages": 2,
+  "creator": "pdf-lib (https://github.com/Hopding/pdf-lib)",
+  "producer": "pdf-lib (https://github.com/Hopding/pdf-lib)",
+  "creationdate": "D:20240830084534Z",
+  "moddate": "D:20240830084534Z",
+  "ocr_pages": 0
+ },
+ "warnings": [],
+ "chars": 1921,
+ "text": "[p1]\n30/08/2024 10:52:35 SGT\nPage 1\nORDER DETAILS\nOrder ID 100222005504 Status Committed\nClient Name RESONANT NETWORKS PTE. LTD. Number of 1\nClient Address 81 Ubi Avenue 4 No. 09-28 UB.One, Singapore, Payments\nN/A, 408830 Settlement Method Wire\nCountry Singapore Settlement USD 210.00\nSettlement Acc 0003-008328-013 Amount\nNumber Total Fee USD 20.00\nSettlement Acc 7171 Total Amount USD 230.00\nBranch Created By Yee Yin Chew 30/08/2024 10:48:03 SGT\nSettlement Acc Convera Singapore Pte Ltd Updated By Yee Yin Chew 30/08/2024 10:52:29 SGT\nName\nSettlement Acc Convera Singapore Pte Ltd\nLocal Name\nLINE ITEM DETAILS\nPayment ID 100222005506 Status Created\nDelivery Method Wire Amount USD 210.00\nClient Payment ID Rate 1\nPayment CPVU2408/03 Fee Total USD 20.00\nReference Total FX USD 210.00\nPayment Type Trade Total Amount USD 230.00\nPayment Purpose Trade Related Fee Payer\nNotes to the Inv.STSC20240821011\nBene\u0000ciary\nBENEFICIARY DETAILS\nBene\u0000ciary Name Zhengzhou Saga Telecom Co., Ltd. Familiar Name Zhengzhou Saga Telecom Co., Lt\nBene\u0000ciary 18/F, 20/F, 22-29/F, CHATER HOUSE, 8 Country Hong Kong\nAddress CONNAUGHT ROAD CENTRAL,, Hong Kong\nContact Number 86 15237149683 Pro\u0000le ID\n\n[p2]\nEmail Address For Further Credit\nBENEFICIARY BANK DETAILS\nBank Name JPMORGAN CHASE BANK, N.A., HONG KONG Account Number 63003662406\nBRANCH (ORGANIZED UNDER THE LAWS\nBank Address SUITES 1801 AND 1806 20/F 22-29/F CHATER Country Hong Kong\nHOUSE 8 CONNAUGHT ROAD, CENTRAL,\nHONG KONG ISLAND\nRouting Code 007867 Swift Code CHASHKHHXXX\nPayment Instruction to Complete Wire Transaction\nPlease make arrangement with your bank to send a wire payment of USD 230.00 to the following account:\nPAYMENT INSTRUCTIONS\nCurrency USD\nBank Name: DBS BANK Bank Address: BANK ADDRESS: 6 SHENTON WAY #38-00\nDBS BUILDING ,TOWER ONE SINGAPORE\n068809,SGP\nAccount Name Convera Singapore Pte Ltd Account Number: 0003-008328-013\nRouting Code: 7171 SWIFT Code: DBSSSGSG",
+ "pages": [
+  "30/08/2024 10:52:35 SGT\nPage 1\nORDER DETAILS\nOrder ID 100222005504 Status Committed\nClient Name RESONANT NETWORKS PTE. LTD. Number of 1\nClient Address 81 Ubi Avenue 4 No. 09-28 UB.One, Singapore, Payments\nN/A, 408830 Settlement Method Wire\nCountry Singapore Settlement USD 210.00\nSettlement Acc 0003-008328-013 Amount\nNumber Total Fee USD 20.00\nSettlement Acc 7171 Total Amount USD 230.00\nBranch Created By Yee Yin Chew 30/08/2024 10:48:03 SGT\nSettlement Acc Convera Singapore Pte Ltd Updated By Yee Yin Chew 30/08/2024 10:52:29 SGT\nName\nSettlement Acc Convera Singapore Pte Ltd\nLocal Name\nLINE ITEM DETAILS\nPayment ID 100222005506 Status Created\nDelivery Method Wire Amount USD 210.00\nClient Payment ID Rate 1\nPayment CPVU2408/03 Fee Total USD 20.00\nReference Total FX USD 210.00\nPayment Type Trade Total Amount USD 230.00\nPayment Purpose Trade Related Fee Payer\nNotes to the Inv.STSC20240821011\nBene\u0000ciary\nBENEFICIARY DETAILS\nBene\u0000ciary Name Zhengzhou Saga Telecom Co., Ltd. Familiar Name Zhengzhou Saga Telecom Co., Lt\nBene\u0000ciary 18/F, 20/F, 22-29/F, CHATER HOUSE, 8 Country Hong Kong\nAddress CONNAUGHT ROAD CENTRAL,, Hong Kong\nContact Number 86 15237149683 Pro\u0000le ID",
+  "Email Address For Further Credit\nBENEFICIARY BANK DETAILS\nBank Name JPMORGAN CHASE BANK, N.A., HONG KONG Account Number 63003662406\nBRANCH (ORGANIZED UNDER THE LAWS\nBank Address SUITES 1801 AND 1806 20/F 22-29/F CHATER Country Hong Kong\nHOUSE 8 CONNAUGHT ROAD, CENTRAL,\nHONG KONG ISLAND\nRouting Code 007867 Swift Code CHASHKHHXXX\nPayment Instruction to Complete Wire Transaction\nPlease make arrangement with your bank to send a wire payment of USD 230.00 to the following account:\nPAYMENT INSTRUCTIONS\nCurrency USD\nBank Name: DBS BANK Bank Address: BANK ADDRESS: 6 SHENTON WAY #38-00\nDBS BUILDING ,TOWER ONE SINGAPORE\n068809,SGP\nAccount Name Convera Singapore Pte Ltd Account Number: 0003-008328-013\nRouting Code: 7171 SWIFT Code: DBSSSGSG"
+ ],
+ "extracted_at": "2026-10-22T03:48:10Z"
+}

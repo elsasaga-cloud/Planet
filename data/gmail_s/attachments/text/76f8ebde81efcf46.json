@@ -1,0 +1,21 @@
+{
+ "sha256_16": "76f8ebde81efcf46",
+ "name": "Commercial Rear.jpg",
+ "ext": ".jpg",
+ "bytes": 2792366,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 5000,
+  "height": 3600,
+  "mode": "RGB",
+  "datetime": "2024:01:10 22:08:17",
+  "software": "Adobe Photoshop CS6 (Windows)",
+  "thumb_bytes": 3064
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:47:18Z"
+}

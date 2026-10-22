@@ -1,0 +1,19 @@
+{
+ "sha256_16": "f33557de5963e2cc",
+ "name": "tronx.png",
+ "ext": ".png",
+ "bytes": 116370,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "PNG",
+  "width": 2363,
+  "height": 2363,
+  "mode": "RGBA",
+  "thumb_bytes": 2243
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:43:41Z"
+}

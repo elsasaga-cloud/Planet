@@ -1,0 +1,1101 @@
+{
+ "sha256_16": "7346f850e38da49f",
+ "name": "STI-4168XGGCM-U.docx",
+ "ext": ".docx",
+ "bytes": 511618,
+ "method": "python-docx(段落+表格+文本框+页眉页脚)",
+ "status": "ok",
+ "meta": {
+  "title": "",
+  "author": "Simon",
+  "last_modified_by": "Simon",
+  "created": "2023-07-22T16:14:00+00:00",
+  "modified": "2024-05-28T07:51:13+00:00",
+  "paragraphs": 147,
+  "tables": 4,
+  "embedded_images": 8
+ },
+ "warnings": [],
+ "chars": 14237,
+ "text": "Model Name\nSTI-4168XGGCM-U\nST: Saga Telecom\nI: Industrial grade\n4: 4 optical Uplink ports\n16: 16 copper Downlink ports\n8: 8 Combo ports\nXG: 10 Gigabit based for optical Uplink ports\nG: Gigabit based for copper Downlink ports\nC: Combo ports\nM: Managed\nU: 1U Rack type\nIt is advised to read specific product description for more information.\nKey Features\n16*100/1000Base-X SFP, 8*1000Base SFP/RJ45Combo, 4*1G/2.5/10GGBase-X SFP+ slots\nAC/DC redundant power supply with polarity reverse/over-voltage/over-current protection\nSupport USB one key configuration&upgrading\nDI/DO/RS485 are optional\nLayer 3 features: Supports static and dynamic routing, RIP, OSPF, BGP4, ECMP, VRRP\nLayer 2 features: VLAN; ERPS, STP/RSTP/MSTP; Link aggregation, IGMP snooping, port mirroring QinQ, 802.1X, port isolation, RMON, NTP client, DHCP snooping/client, Ping/Tracert test, ACL, QoS and SFP DDM function\nManagement and maintenance: IPv4 and IPv6 management; Support Web, SNMP, CLI, Telnet/SSH management method; Support user management, system log, configuration upload/download through web interface, firmware upgrade via HTTP/TFTP/USB\nSupport G.8032 ERPS protocol, recovery time ≤20ms\nSupport 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\nIP40 fan-less and rack-mount hardware design\nOperation temperature: -40 ℃ ~+75℃\nWith above features, it is an ideal solution for IP Surveillance, wind, electricity, assembly automation, subway PIS, power SCADA, sewage treatment, metallurgy, intelligent transportation, rail transportation, military and other industries.\nSpecification\nProduct Name\t32 port Hybrid Rate Rack Layer 3 Managed Industrial Ethernet Switch\nPort\t16*10/100/1000Base-T SFP / 8*COMBO SFP/RJ45 / 4*1G/2.5G/10GBase-X SFP+ / 1*RJ45 Console port(115200,8,N,1) / 1*USB 2.0 for configuration and firmware update\nData&Alarm Port / (Optional)\t1 channel RS485 / 1 channel DI(digital input) / 1 channel DO(digital output)\nNetwork Medium\t10BASE-T: Cat 3, 4, 5 or above UTP(≤100 meter) / 100BASE-TX: Cat 5 or above UTP (≤100 meter) / 1000BASE-TX: Cat5 or above UTP (≤100 meter)\nNetwork protocol\tIEEE 802.3 10Base-T Ethernet / IEEE 802.3u 100Base-TX Ethernet / IEEE 802.3ab 1000Base-T Ethernet / IEEE 802.3z 1000Base-X Ethernet / IEEE802.3x Flow Control and Back Pressure / IEEE 802.1D Spanning Tree Protocol / IEEE 802.1w Rapid Spanning Tree Protocol / IEEE 802.1Q VLAN / ITU-T G.8032 ERPS / IEEE 802.1X Port Authentication Network Control / IEEE 802.1ab LLDP / IEEE 802.3ad LACP\nFiber Option\tSFP Plugable Module(LC) / SM: 1310nm/1550nm, 20Km; 1490nm/1550nm, 40~100Km / MM: 1310nm, 2Km; 850nm, 500-meter\nSwitching Capacity\t128Gbps\nThroughput\t190.4Mpps\nPacket Buffer\t12M\nMAC Address\t16K\nVLAN\t4K\nJumbo Frame\t10Kbytes\nTransfer Mode\tStore and forward, forwarding delay<5us\nMDX/MIDX\tSupport\nWatchdog\tSupport\nMTBF\t200,000 hours\nPower Voltage\tInput Voltage: 36-75VDC, 100~240VAC / Redundant power input / Removable 2*2-pin terminal block(DC/DC) / 3-pin AC socket(AC/AC)\nInput current\t1.2A DC/AC input Max\nTotal power consumption\tFull loading ≤40W\nReverse polarity protection\tSupport\nOver-voltage protection\tSupport\nOver-current protection\tSupport\nIndustry Standard\tEMI: FCC Part 15B Class A\nSurge protection of power: IEC 61000-4-5  6KV/4KV(8/20us)\nSurge protection of Ethernet ports: IEC 61000-4-5  6KV/2KV(10/700us) / RS: IEC 61000-4-3 80 MHz-1 GHz: 10 V/m / EFT: IEC 61000-4-4  power interface: 4K；Ethernet ports: 2K\nCS: IEC 61000-4-6 10V / ESD: IEC 61000-4-2  Level 4(8K/15K)\nShock: IEC 60068-2-27 / Free fall: IEC 60068-2-32 / Vibration: IEC 60068-2-6\nProtection Level\tIP40\nInstallation Method\tDin Mounted\nSecurity Certificate\tCE/FCC/RoHS\nWorking Environment\tWorking Temperature: -40℃~75℃ / Storage Temperature: -40℃~85℃ / Relative Humidity: 5%~95%, non-condensing\nLED Indicators\tPWR(Power indicator), Green Color / On: power status is normal\nOff: power off or power connection failure / S(System indicator), Red Color / On: Normal operation / Off: Connection failure / Blinking: Device initialization / USB(USB status indicator), Green Color / On: USB flash drive is detected by device / Blinking: the device is reading and writing the data from USB flash drive / Off: USB flash drive is not inserted or not detected by device / ALM(Fault status indicator), Red Color / On: Fault alarm / Off: Device on normal working state / Ethernet Port / Green Indicator / On: port link up / Off: port link down / Blinking: data is in normal transmission / Yellow Indicator / On: port speed is 1000M / Off: port speed is 10/100M / Fiber port, Green Color / On: port link up / Off: port link down / Blinking: data is in normal transmission\nL3 Function\nARP\tARP table aging\nDHCP server\nIPv4/IPv6\tStatic routing\nECMP\tSupport ECMP (Equal-cost multi-path routing) / Support the configuration of ECMP Max next-hop / Support capacity balanced configuration\nRoute policy\tIPv4 prefix-list\nVRRP\tVirtual Router Redundancy Protocol\nRouting Protocol Specification\nRIP\tRIPv1/v2\nOSPFv2\tOSPFv2\nBGP4\tBGP4 / BGP Support Routing Recursive ECMP / Support to view the number of neighbors and up/down state\nIS-IS\tIS-ISv4\nRouting entry\t13K\nL2 Function\nPort aggregation\tSupport GE port aggregation / Support 2.5GE aggregation / Support 10GE aggregation / Support static aggregation / Support LACP dynamic aggregation / Up to 64 aggregation groups and up to 8 ports per group\nPort features\tSupport IEEE802.3x flow control / Support interface counters / Support port isolation / Port mirroring (One-to-One, Many-to-One) / Support loop detection(Port-based; VLAN-based) / Support broadcast storm suppression(broadcast; unknown multicast; unknown unicast)\nMac-address table management\tSupport static Mac-address management / Support dynamic Mac-address Management / Support filtering Mac-address / Support MAC limit based on port and VLAN / Support MAC flapping based on port and VLAN\nVLAN\tSupport access mode / Support trunk mode / Support hybrid mode\nVLAN classification\tMac Based VLAN / IP Based VLAN / Protocol Based VLAN\nGVRP\tNormal mode / Fixed mode / Forbidden mode\nQinQ\tPort-based QinQ / VLAN-based QinQ (VLAN-stacking; VLAN-mapping) / Flow-based QinQ\nLLDP\tLLDP (Link Layer Discovery Protocol)\nRing network protocol\tSupport IEEE802.1D-STP / Support IEEE802.1W-RSTP / Support IEEE802.1S-MSTP / Support G.8032 ERPS protocol, single ring, sub Ring and major ring / Recovery time ≤20ms\nL2 Multicast\nIGMP snooping\tSupport IGMP snooping\nGroup address\tSupport group address\nSecurity Function\nACL\tIP Standard ACL / MAC extend ACL / IP extend ACL / IPv6 ACL\nQoS\tSupport QoS Class, remarking / Support SP, WRR queue scheduling / Ingress port-based rate-limit / Egress port-based rate-limit / Support policy-based QoS\n802.1x\tPort access control / Mac-address access control / RADIUS server\nPort-security\tPort-security\nIP source guard\tIP Port/MAC binding\nARP-check\tSupport ARP-check and ARP packet filtering for illegal users\nAccess control\tSupport Telnet/SSH/HTTP/HTTPS user access control\nManagement&Maintenance Function\nUser Management\tSupport password protection / Support user authorization management\nSNMP\tSupporting SNMP V1/V2C/V3 version\nWeb Management\tWeb Management / Support HTTP V1.1 / Support HTTPS\nCLI management\tConsole/Telnet command line management\nRMON\tSupport RMON(Remote Monitoring) alarm\nFirmware upgrade\tFirmware upgrade\nFault Detection\tPing/Tracerout / Dying gasp / Support optical transceiver DDM function\nCable detection\tSupport copper port cable detection\nNTP\tNetwork Time Protocol\nSyslog/Debug\tSyslog/Debug / Syslog send to two servers\nConfiguration import/export\tSupport FTP/TFTP remote import/export / Support USB import/export\nDual partition management\tSupport dual partition switching\nApplication Protocol Function\nDHCP Snooping\tDHCP snooping trust port / Support remote-id/circuit-id configuration / DHCP option-82\nDHCP client\tSupport DHCP client\nTelnet server\tSupport telnet server\nTelnet client\tSupport telnet client\nSSH server\tSupport SSH server\nTACACS\tSupport TACACS(the terminal access controller accesses the control system)\nSFlow\tSupport network traffic analysis\nTFTP\tSupport TFTP Client\nPacking List\n1pc switch\n1pc user manual\n1pc console cable\n1pc power cable\nShipping box information(Below information is approximately accurate)\nProduct size: 440*280*45mm\nInner box size: 525*390*95mm\nProduct weight: 4.1Kg\nPacking weight: 4.5Kg\nMaster box size: 535*205*408mm\nPacking quantity: 2Pcs\nPacking weight: 11Kg\nMechanical Drawing\nAC/DC Power Input\nAC/AC Power Input\nRemark: DC/DC Power Input is also available.\nFAQ\nLeadtime\nProduction time is usually 5~7 working days for standard(non-customized) models (no more than 50pcs).\nShipping time is usually 4~7 days by air\nIn total, it takes 10~15 days for a client to receive the order.\nShipment\nWe will send the goods by air(DHL, UPS or FEDEX) or by sea(for bulk order)\nIt is fine to ship purchased items via customer’s shipping account or forwarder.\nMOQ\n1 Pc/Pair(It is NOT free, Saga Telecom do NOT do FREE SAMPLES)\nIt is fine to have sample testing before bulk order, but 1 Pc/Pair is ONLY about sample testing.\nWhen testing proves fine, MOQ is 20pcs(discussion is required if it is about smaller quantity).\nWarranty\n1 year for commercial models(STC series) and 3 years for industrial models(STI series)\nPlease kindly refer to the “Warranty Policy” for more information.\nTechnical assistance is always available\nPayment\nT/T transfer and PayPal, FULL AMOUNT BEFORE SHIPMENT.\nIt is fine to pay 50% first and another 50% before shipment for bulk order.\nIt is fine to be paid via customer’s forwarder(this is usually about RMB payment).\nTransaction cost\nIt is standard charge 25usd for EACH T/T transfer whatever the invoice value is.\nIt is 5usd for every 100usd to PayPal a/c, this ratio is standard charge by PayPal\nRMA\nPlease contact us ASAP once there is any problem(package or usage)with the supplied products.\nFor every 100pcs, there will be 2 extra free units(2% RMA) against immediate warranty coverage.\nThis rule stands for all Saga Telecom models and even there is not an after-sales issue.\nIf it is about missing/faulty parts in the packing box.\nPlease simply use the extra units for the replacement and let us know this problem(we will improve).\nIf it is about usage problem.\nSaga Telecom will provide technical support and send new units when necessary.\nOEM\nSupported, but discussion is required if it is about complex requirements.\nBelow are usual OEM services available.\nShow client’s logo/model on the device/label/management interface...\nUse client’s packing box\nDesign client’s product PVC sticker\nCustomize some parts of a model like rear panel/power input terminal block...\nPlease know that there might be extra cost for OEM services.\nAfter-sales Support\nWarranty comes in effect from the date of delivery.\nIf something is wrong with the package or usage, please let us know asap.\nCase 1, package problem\nAny faulty/missing parts in the packing box, Saga telecom will help do the replacement or refund.\nCase 2, usage problem\nThe standard and most effective procedures(get a feedback form from us) are as below\n1, describe what happened, examples as below\nWhen this problem occurred\nWhat you did to adjust it like restart the device or change new accessories\nHow you use this device like outdoor use for connecting some IP cameras\nWith this information, Saga telecom could quickly know what is going on and do trouble-shooting\n2, provide as many actual photos/video as possible\nWrong connection or improper use may occur.\nIn this case, photos and videos are helpful and efficient.\n3, prepare necessary and relevant accessories such as SFP module/network cable/patch-cord...\nAn example is, in a linear network connection, if one SFP module fails, the whole system might have a transmission problem.\nThe solution would be as simple as replacing a new workable SFP module.\nWith in-hand accessories, sometimes it is easy to fix the problem.\n4, get ready for online meeting\nSaga telecom might remotely control your PC to do trouble-shooting with the help of Teamviewer/Anydesk.\nFor more information, please talk with us or visit www.sagatelecom.com.cn\nAbout Us\nSaga Telecom is a reliable manufacturer and trader of good-quality fiber optic devices and transmission solutions, and focuses on industrial networking, CCTV surveillance, fiber optic conversion and featured optical devices for industrial automation, vehicle network, security monitoring etc.\nBacked by diversified product portfolio and mature business system, Saga Telecom gains good feedback overseas especially in USA, Turkey, Italy, Russia and India.\nMeantime, Saga Telecom is actively seeking trustworthy partners and enhancing its presence in optical telecommunication field.\nCore Value\nConnecting, Converting, Creating\nSaga Telecom connects talents and ideas that may drive itself forward\nSaga Telecom converts mature business system to all-round growth\nSaga Telecom creates betterness from expertise and solution package\nProduct Line\nCommercial Ethernet\nIndustrial Networking\nDin Power Adapter\nEthernet Media Converter\nPoE Accessory\nOptical Module\nFeatured Optical Fiber Devices\nA reliable networking solution supplier\nHow We Do Business\nSaga Telecom is being digital and paperless to be efficient and eco-friendly\nSimplified, Standard, Solution based\nAll is about a s truly helpful solution\nSaga Telecom proposes a buffet-style business communication.\nAll the information is available without asking\nBusiness details are being continuously updated\nValue and growth manifest itself\n1\nA google link containing full information is created with access to everyone.\nAnyone could read or download it anytime and anywhere.\n2\nWe have been absorbing useful information and will update it in the link.\nLike product query, application...\nSo latest information will be available all the time.\n3\nWe are welcoming comparisons and suggestions from you.\nCompare our products with existing or other suppliers\nLet us know where we could improve\nSaga Telecom aims to be a marathoner in fiber optic telecommunication field.\nA link to all the information\nhttps://drive.google.com/drive/folders/10pI-PIGftC6UVEngjg_cLlC8-X14fA9A?usp=drive_link\n[页眉页脚]\ns.sagatelecom@gmail.com\nSaga Telecom\nwww.sagatelecom.com.cn\nConnecting, Converting, Creating",
+ "blocks": [
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "Model Name"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "STI-4168XGGCM-U"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "ST: Saga Telecom"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "I: Industrial grade"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "4: 4 optical Uplink ports"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "16: 16 copper Downlink ports"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "8: 8 Combo ports"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "XG: 10 Gigabit based for optical Uplink ports"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "G: Gigabit based for copper Downlink ports"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "C: Combo ports"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "M: Managed"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "U: 1U Rack type"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is advised to read specific product description for more information."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Key Features"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "16*100/1000Base-X SFP, 8*1000Base SFP/RJ45Combo, 4*1G/2.5/10GGBase-X SFP+ slots"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "AC/DC redundant power supply with polarity reverse/over-voltage/over-current protection"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Support USB one key configuration&upgrading"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "DI/DO/RS485 are optional"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Layer 3 features: Supports static and dynamic routing, RIP, OSPF, BGP4, ECMP, VRRP"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Layer 2 features: VLAN; ERPS, STP/RSTP/MSTP; Link aggregation, IGMP snooping, port mirroring QinQ, 802.1X, port isolation, RMON, NTP client, DHCP snooping/client, Ping/Tracert test, ACL, QoS and SFP DDM function"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Management and maintenance: IPv4 and IPv6 management; Support Web, SNMP, CLI, Telnet/SSH management method; Support user management, system log, configuration upload/download through web interface, firmware upgrade via HTTP/TFTP/USB"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Support G.8032 ERPS protocol, recovery time ≤20ms"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "IP40 fan-less and rack-mount hardware design"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Operation temperature: -40 ℃ ~+75℃"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "With above features, it is an ideal solution for IP Surveillance, wind, electricity, assembly automation, subway PIS, power SCADA, sewage treatment, metallurgy, intelligent transportation, rail transportation, military and other industries."
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "Specification"
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "Product Name",
+     "32 port Hybrid Rate Rack Layer 3 Managed Industrial Ethernet Switch"
+    ],
+    [
+     "Port",
+     "16*10/100/1000Base-T SFP / 8*COMBO SFP/RJ45 / 4*1G/2.5G/10GBase-X SFP+ / 1*RJ45 Console port(115200,8,N,1) / 1*USB 2.0 for configuration and firmware update"
+    ],
+    [
+     "Data&Alarm Port / (Optional)",
+     "1 channel RS485 / 1 channel DI(digital input) / 1 channel DO(digital output)"
+    ],
+    [
+     "Network Medium",
+     "10BASE-T: Cat 3, 4, 5 or above UTP(≤100 meter) / 100BASE-TX: Cat 5 or above UTP (≤100 meter) / 1000BASE-TX: Cat5 or above UTP (≤100 meter)"
+    ],
+    [
+     "Network protocol",
+     "IEEE 802.3 10Base-T Ethernet / IEEE 802.3u 100Base-TX Ethernet / IEEE 802.3ab 1000Base-T Ethernet / IEEE 802.3z 1000Base-X Ethernet / IEEE802.3x Flow Control and Back Pressure / IEEE 802.1D Spanning Tree Protocol / IEEE 802.1w Rapid Spanning Tree Protocol / IEEE 802.1Q VLAN / ITU-T G.8032 ERPS / IEEE 802.1X Port Authentication Network Control / IEEE 802.1ab LLDP / IEEE 802.3ad LACP"
+    ],
+    [
+     "Fiber Option",
+     "SFP Plugable Module(LC) / SM: 1310nm/1550nm, 20Km; 1490nm/1550nm, 40~100Km / MM: 1310nm, 2Km; 850nm, 500-meter"
+    ],
+    [
+     "Switching Capacity",
+     "128Gbps"
+    ],
+    [
+     "Throughput",
+     "190.4Mpps"
+    ],
+    [
+     "Packet Buffer",
+     "12M"
+    ],
+    [
+     "MAC Address",
+     "16K"
+    ],
+    [
+     "VLAN",
+     "4K"
+    ],
+    [
+     "Jumbo Frame",
+     "10Kbytes"
+    ],
+    [
+     "Transfer Mode",
+     "Store and forward, forwarding delay<5us"
+    ],
+    [
+     "MDX/MIDX",
+     "Support"
+    ],
+    [
+     "Watchdog",
+     "Support"
+    ],
+    [
+     "MTBF",
+     "200,000 hours"
+    ],
+    [
+     "Power Voltage",
+     "Input Voltage: 36-75VDC, 100~240VAC / Redundant power input / Removable 2*2-pin terminal block(DC/DC) / 3-pin AC socket(AC/AC)"
+    ],
+    [
+     "Input current",
+     "1.2A DC/AC input Max"
+    ],
+    [
+     "Total power consumption",
+     "Full loading ≤40W"
+    ]
+   ]
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "Reverse polarity protection",
+     "Support"
+    ],
+    [
+     "Over-voltage protection",
+     "Support"
+    ],
+    [
+     "Over-current protection",
+     "Support"
+    ],
+    [
+     "Industry Standard",
+     "EMI: FCC Part 15B Class A\nSurge protection of power: IEC 61000-4-5  6KV/4KV(8/20us)\nSurge protection of Ethernet ports: IEC 61000-4-5  6KV/2KV(10/700us) / RS: IEC 61000-4-3 80 MHz-1 GHz: 10 V/m / EFT: IEC 61000-4-4  power interface: 4K；Ethernet ports: 2K\nCS: IEC 61000-4-6 10V / ESD: IEC 61000-4-2  Level 4(8K/15K)\nShock: IEC 60068-2-27 / Free fall: IEC 60068-2-32 / Vibration: IEC 60068-2-6"
+    ],
+    [
+     "Protection Level",
+     "IP40"
+    ],
+    [
+     "Installation Method",
+     "Din Mounted"
+    ],
+    [
+     "Security Certificate",
+     "CE/FCC/RoHS"
+    ],
+    [
+     "Working Environment",
+     "Working Temperature: -40℃~75℃ / Storage Temperature: -40℃~85℃ / Relative Humidity: 5%~95%, non-condensing"
+    ],
+    [
+     "LED Indicators",
+     "PWR(Power indicator), Green Color / On: power status is normal\nOff: power off or power connection failure / S(System indicator), Red Color / On: Normal operation / Off: Connection failure / Blinking: Device initialization / USB(USB status indicator), Green Color / On: USB flash drive is detected by device / Blinking: the device is reading and writing the data from USB flash drive / Off: USB flash drive is not inserted or not detected by device / ALM(Fault status indicator), Red Color / On: Fault alarm / Off: Device on normal working state / Ethernet Port / Green Indicator / On: port link up / Off: port link down / Blinking: data is in normal transmission / Yellow Indicator / On: port speed is 1000M / Off: port speed is 10/100M / Fiber port, Green Color / On: port link up / Off: port link down / Blinking: data is in normal transmission"
+    ]
+   ]
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "L3 Function"
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "ARP",
+     "ARP table aging"
+    ],
+    [
+     "DHCP server"
+    ],
+    [
+     "IPv4/IPv6",
+     "Static routing"
+    ],
+    [
+     "ECMP",
+     "Support ECMP (Equal-cost multi-path routing) / Support the configuration of ECMP Max next-hop / Support capacity balanced configuration"
+    ],
+    [
+     "Route policy",
+     "IPv4 prefix-list"
+    ],
+    [
+     "VRRP",
+     "Virtual Router Redundancy Protocol"
+    ],
+    [
+     "Routing Protocol Specification"
+    ],
+    [
+     "RIP",
+     "RIPv1/v2"
+    ],
+    [
+     "OSPFv2",
+     "OSPFv2"
+    ],
+    [
+     "BGP4",
+     "BGP4 / BGP Support Routing Recursive ECMP / Support to view the number of neighbors and up/down state"
+    ],
+    [
+     "IS-IS",
+     "IS-ISv4"
+    ],
+    [
+     "Routing entry",
+     "13K"
+    ]
+   ]
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "L2 Function"
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "Port aggregation",
+     "Support GE port aggregation / Support 2.5GE aggregation / Support 10GE aggregation / Support static aggregation / Support LACP dynamic aggregation / Up to 64 aggregation groups and up to 8 ports per group"
+    ],
+    [
+     "Port features",
+     "Support IEEE802.3x flow control / Support interface counters / Support port isolation / Port mirroring (One-to-One, Many-to-One) / Support loop detection(Port-based; VLAN-based) / Support broadcast storm suppression(broadcast; unknown multicast; unknown unicast)"
+    ],
+    [
+     "Mac-address table management",
+     "Support static Mac-address management / Support dynamic Mac-address Management / Support filtering Mac-address / Support MAC limit based on port and VLAN / Support MAC flapping based on port and VLAN"
+    ],
+    [
+     "VLAN",
+     "Support access mode / Support trunk mode / Support hybrid mode"
+    ],
+    [
+     "VLAN classification",
+     "Mac Based VLAN / IP Based VLAN / Protocol Based VLAN"
+    ],
+    [
+     "GVRP",
+     "Normal mode / Fixed mode / Forbidden mode"
+    ],
+    [
+     "QinQ",
+     "Port-based QinQ / VLAN-based QinQ (VLAN-stacking; VLAN-mapping) / Flow-based QinQ"
+    ],
+    [
+     "LLDP",
+     "LLDP (Link Layer Discovery Protocol)"
+    ],
+    [
+     "Ring network protocol",
+     "Support IEEE802.1D-STP / Support IEEE802.1W-RSTP / Support IEEE802.1S-MSTP / Support G.8032 ERPS protocol, single ring, sub Ring and major ring / Recovery time ≤20ms"
+    ],
+    [
+     "L2 Multicast"
+    ],
+    [
+     "IGMP snooping",
+     "Support IGMP snooping"
+    ],
+    [
+     "Group address",
+     "Support group address"
+    ],
+    [
+     "Security Function"
+    ],
+    [
+     "ACL",
+     "IP Standard ACL / MAC extend ACL / IP extend ACL / IPv6 ACL"
+    ],
+    [
+     "QoS",
+     "Support QoS Class, remarking / Support SP, WRR queue scheduling / Ingress port-based rate-limit / Egress port-based rate-limit / Support policy-based QoS"
+    ],
+    [
+     "802.1x",
+     "Port access control / Mac-address access control / RADIUS server"
+    ],
+    [
+     "Port-security",
+     "Port-security"
+    ],
+    [
+     "IP source guard",
+     "IP Port/MAC binding"
+    ],
+    [
+     "ARP-check",
+     "Support ARP-check and ARP packet filtering for illegal users"
+    ],
+    [
+     "Access control",
+     "Support Telnet/SSH/HTTP/HTTPS user access control"
+    ],
+    [
+     "Management&Maintenance Function"
+    ],
+    [
+     "User Management",
+     "Support password protection / Support user authorization management"
+    ],
+    [
+     "SNMP",
+     "Supporting SNMP V1/V2C/V3 version"
+    ],
+    [
+     "Web Management",
+     "Web Management / Support HTTP V1.1 / Support HTTPS"
+    ],
+    [
+     "CLI management",
+     "Console/Telnet command line management"
+    ],
+    [
+     "RMON",
+     "Support RMON(Remote Monitoring) alarm"
+    ],
+    [
+     "Firmware upgrade",
+     "Firmware upgrade"
+    ],
+    [
+     "Fault Detection",
+     "Ping/Tracerout / Dying gasp / Support optical transceiver DDM function"
+    ],
+    [
+     "Cable detection",
+     "Support copper port cable detection"
+    ],
+    [
+     "NTP",
+     "Network Time Protocol"
+    ],
+    [
+     "Syslog/Debug",
+     "Syslog/Debug / Syslog send to two servers"
+    ],
+    [
+     "Configuration import/export",
+     "Support FTP/TFTP remote import/export / Support USB import/export"
+    ],
+    [
+     "Dual partition management",
+     "Support dual partition switching"
+    ],
+    [
+     "Application Protocol Function"
+    ],
+    [
+     "DHCP Snooping",
+     "DHCP snooping trust port / Support remote-id/circuit-id configuration / DHCP option-82"
+    ],
+    [
+     "DHCP client",
+     "Support DHCP client"
+    ],
+    [
+     "Telnet server",
+     "Support telnet server"
+    ],
+    [
+     "Telnet client",
+     "Support telnet client"
+    ],
+    [
+     "SSH server",
+     "Support SSH server"
+    ],
+    [
+     "TACACS",
+     "Support TACACS(the terminal access controller accesses the control system)"
+    ],
+    [
+     "SFlow",
+     "Support network traffic analysis"
+    ],
+    [
+     "TFTP",
+     "Support TFTP Client"
+    ]
+   ]
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "Packing List"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1pc switch"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1pc user manual"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1pc console cable"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1pc power cable"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Shipping box information(Below information is approximately accurate)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Product size: 440*280*45mm"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Inner box size: 525*390*95mm"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Product weight: 4.1Kg"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Packing weight: 4.5Kg"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Master box size: 535*205*408mm"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Packing quantity: 2Pcs"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Packing weight: 11Kg"
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "Mechanical Drawing"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "AC/DC Power Input"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "AC/AC Power Input"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Remark: DC/DC Power Input is also available."
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "FAQ"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Leadtime"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Production time is usually 5~7 working days for standard(non-customized) models (no more than 50pcs)."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Shipping time is usually 4~7 days by air"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "In total, it takes 10~15 days for a client to receive the order."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Shipment"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We will send the goods by air(DHL, UPS or FEDEX) or by sea(for bulk order)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is fine to ship purchased items via customer’s shipping account or forwarder."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "MOQ"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1 Pc/Pair(It is NOT free, Saga Telecom do NOT do FREE SAMPLES)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is fine to have sample testing before bulk order, but 1 Pc/Pair is ONLY about sample testing."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "When testing proves fine, MOQ is 20pcs(discussion is required if it is about smaller quantity)."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Warranty"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1 year for commercial models(STC series) and 3 years for industrial models(STI series)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please kindly refer to the “Warranty Policy” for more information."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Technical assistance is always available"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Payment"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "T/T transfer and PayPal, FULL AMOUNT BEFORE SHIPMENT."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is fine to pay 50% first and another 50% before shipment for bulk order."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is fine to be paid via customer’s forwarder(this is usually about RMB payment)."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Transaction cost"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is standard charge 25usd for EACH T/T transfer whatever the invoice value is."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is 5usd for every 100usd to PayPal a/c, this ratio is standard charge by PayPal"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "RMA"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please contact us ASAP once there is any problem(package or usage)with the supplied products."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "For every 100pcs, there will be 2 extra free units(2% RMA) against immediate warranty coverage."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "This rule stands for all Saga Telecom models and even there is not an after-sales issue."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "If it is about missing/faulty parts in the packing box."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please simply use the extra units for the replacement and let us know this problem(we will improve)."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "If it is about usage problem."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Saga Telecom will provide technical support and send new units when necessary."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "OEM"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Supported, but discussion is required if it is about complex requirements."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Below are usual OEM services available."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Show client’s logo/model on the device/label/management interface..."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Use client’s packing box"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Design client’s product PVC sticker"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Customize some parts of a model like rear panel/power input terminal block..."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please know that there might be extra cost for OEM services."
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "After-sales Support"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Warranty comes in effect from the date of delivery."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "If something is wrong with the package or usage, please let us know asap."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Case 1, package problem"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Any faulty/missing parts in the packing box, Saga telecom will help do the replacement or refund."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Case 2, usage problem"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "The standard and most effective procedures(get a feedback form from us) are as below"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1, describe what happened, examples as below"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "When this problem occurred"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "What you did to adjust it like restart the device or change new accessories"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "How you use this device like outdoor use for connecting some IP cameras"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "With this information, Saga telecom could quickly know what is going on and do trouble-shooting"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "2, provide as many actual photos/video as possible"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Wrong connection or improper use may occur."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "In this case, photos and videos are helpful and efficient."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "3, prepare necessary and relevant accessories such as SFP module/network cable/patch-cord..."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "An example is, in a linear network connection, if one SFP module fails, the whole system might have a transmission problem."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "The solution would be as simple as replacing a new workable SFP module."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "With in-hand accessories, sometimes it is easy to fix the problem."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "4, get ready for online meeting"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Saga telecom might remotely control your PC to do trouble-shooting with the help of Teamviewer/Anydesk."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "For more information, please talk with us or visit www.sagatelecom.com.cn"
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "About Us"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Saga Telecom is a reliable manufacturer and trader of good-quality fiber optic devices and transmission solutions, and focuses on industrial networking, CCTV surveillance, fiber optic conversion and featured optical devices for industrial automation, vehicle network, security monitoring etc."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Backed by diversified product portfolio and mature business system, Saga Telecom gains good feedback overseas especially in USA, Turkey, Italy, Russia and India."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Meantime, Saga Telecom is actively seeking trustworthy partners and enhancing its presence in optical telecommunication field."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Core Value"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Connecting, Converting, Creating"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Saga Telecom connects talents and ideas that may drive itself forward"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Saga Telecom converts mature business system to all-round growth"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Saga Telecom creates betterness from expertise and solution package"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Product Line"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Commercial Ethernet"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Industrial Networking"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Din Power Adapter"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Ethernet Media Converter"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "PoE Accessory"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Optical Module"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Featured Optical Fiber Devices"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "A reliable networking solution supplier"
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "How We Do Business"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Saga Telecom is being digital and paperless to be efficient and eco-friendly"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Simplified, Standard, Solution based"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "All is about a s truly helpful solution"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Saga Telecom proposes a buffet-style business communication."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "All the information is available without asking"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Business details are being continuously updated"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Value and growth manifest itself"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "A google link containing full information is created with access to everyone."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Anyone could read or download it anytime and anywhere."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "2"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We have been absorbing useful information and will update it in the link."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Like product query, application..."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "So latest information will be available all the time."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "3"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We are welcoming comparisons and suggestions from you."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Compare our products with existing or other suppliers"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Let us know where we could improve"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Saga Telecom aims to be a marathoner in fiber optic telecommunication field."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "A link to all the information"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "https://drive.google.com/drive/folders/10pI-PIGftC6UVEngjg_cLlC8-X14fA9A?usp=drive_link"
+  }
+ ],
+ "extracted_at": "2026-10-22T03:51:50Z"
+}

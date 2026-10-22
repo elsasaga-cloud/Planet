@@ -1,0 +1,431 @@
+{
+ "sha256_16": "a6922c763606e1d9",
+ "name": "Turkey Client List.xlsx",
+ "ext": ".xlsx",
+ "bytes": 25014,
+ "method": "openpyxl(values)",
+ "status": "ok",
+ "meta": {
+  "sheets": [
+   "Turkey"
+  ],
+  "embedded_images": 0,
+  "rows_total": 59
+ },
+ "warnings": [],
+ "chars": 6285,
+ "text": "--- Sheet: Turkey ---\nPerson\tInterested in\tContact\tRemark\tCompany\nBosgem\tindustrial network\tinfo@iotsistem.com\t\thttps://www.iotsistem.com/urun-kategori/ethernet-switch/yonetilebilir-switch/\nSadik Yildiz\tCCTV\tinfo@filizguvenlik.com.tr\tM 90533 74 63788\thttps://www.filizguvenlik.com.tr/\n\tindustrial network\tinfo@snexus.com.tr\t90 53340 48364\thttps://www.snexus.com.tr/\n\tindustrial network\tgmt@gmtcontrol.com\thttps://www.uotek.com/product-73.html\thttps://gmtcontrol.com/en/endustriyel-haberlesme/\nGizem KIZILTAN\tindustrial network\tinfo@pavotek.com.tr\ngizem.kiziltan@pavotek.com.tr\nhilal.kirlioglu@pavotek.com.tr\nnouman.ali@pavotek.com.tr\t\thttps://www.pavotek.com.tr/our-solutions/communication-network-and-control-systems/\n\tPOE switch  industrial network\tinfo@cenova.com.tr\t\thttps://www.cenova.com.tr/dl-end3308pfg\n\tindustrial network\tinfo@cryptolink.com.tr\t\thttp://www.cryptolink.com.tr/pdf/DatasheetofCRLISW-08.pdf\n\tindustrial network\tinfo@mfd.com.tr\t\thttp://mfd.com.tr/endustriyel-ethernet_s_tr_165_.aspx\nTuğrul Akarsu\na.tugrul@efb-elektronik.com.tr\tindustrial network\tinfo@efb-elektronik.com.tr\t\thttps://www.efb-elektronik.com.tr/ueruenler/ag-coezuemleri\n\tindustrial network\tinfo@eretekne.com\t\thttps://www.eretekne.com/kategori/100mbit-donusturuculer-1\n\tswitch\tinfo@telkolink.com\t\thttp://www.telkolink.com/\nFurkan Kalkan\nTechnical Manager\tCommercial PoE\tfurkan@optima.tc\t90507 463 0566\tOptima Soft\nhttps://www.optima-engineering.com/\n\tindustrial network\tsales@gemaxxnetwork.com\t\twww.gemaxxnetwork.com\n\tswitch\tinfo@teleone.com.tr\t\thttp://urunler.teleone.com.tr/\n\tswitch\tiletisim@cebecigrup.com ‎\t\thttps://cebecigrup.com/endustriyel-ag-anahtarlari/\n\t\tinfo@coredata.com.tr\nsatis@coredata.com.tr\t\thttp://coredata.com.tr/Home/Index\n\t\tdestek@destekelektronik.com.tr\t90 21652 84510\tDestek Elektronik Tic. Ltd.\nhttps://www.destekelektronik.com.tr/\n\tfiber networking\tbilgi@industrialnetworkcenter.com\t\thttps://www.portel.com.tr/\n\tswitch\tinfo@lansan.com.tr\t\thttps://www.lansan.com.tr/switch-ve-aktif-urunler/media-converter\nGokhan Ozkara\nForeign Trade Consultant\tcatalog; relay converter(110)\tgokhan@okisan.com\t90530 691 8454 M\tOkisan\nwww.okisan.com\n\tPoE\tinfo@nfsteknoloji.com\t\thttp://www.nfsteknoloji.com/guvenliksistemleri/532/8-ports-industrial-full-gigabit-poe-managed-switch.html\n\tindustrial network\tinfo@rfteknoloji.com.tr\t\thttps://www.rfteknoloji.com.tr/end%C3%BCstriyel-switchler/poe-endustriyel-switch/yonetilemez-poe-endustriyel-ethernet-switch/item/207-ips215-f-4poe-4tp-1fiber-poe-portlu-endustriyel-ethernet-switch\n\tindustrial network\teleman@bimel.com.tr\t\thttps://www.bimel.com.tr/urun/bn-isw-3084px\n\tindustrial network\tinfo@areskom.com.tr\t\thttps://areskom.com.tr/\n\tindustrial network\tinfo@intenet.com.tr\t\thttps://intenet.com.tr/en/our-solution/industrial-switch/\n\tindustrial network\tinfo@4sltd.com.tr\n4steknolojiltd@gmail.com\t\thttps://www.4sltd.com.tr/red-lion-kontrol-sistemleri-4s-teknoloji.php\n\tswitch\tinfo@teamon.com.tr\t\thttps://www.teamon.com.tr/urunler/listesi?marka=AEM&sayfa=3\n\tCCTV fiber optics, network\tinfo@inovatech.com.tr\t\thttps://www.inovatech.com.tr/ip-cctv-sistemleri/\n\tindustrial network\tinfo@longlinenetwork.com\thttps://www.longlinenetwork.com/10g-media-converter/\thttps://www.longlinenetwork.com/media-converter/\n\tindustrial network\tbayi@gelecekbt.com\thttps://gelecekbt.com/10g-ethernet-cevirici\thttps://gelecekbt.com/\n\tindustrial network\tinfo@oncuguvenlik.com.tr\t\thttps://www.oncuguvenlik.com.tr/tr/urunlerimiz/network-urunleri/endustriyel-switch/\n\tindustrial network\tinfo@metcom.com.tr\t\thttp://www.metcom.com.tr/product-category/fiber-optik-sistemler/rack-tipi-terminal-kutulari/\n\tCommercial PoE CCTV\tsatis@egemenelektronik.com\t90 53260 57018\thttps://www.egemenelektronik.com/tr/kategori/switchler\n\tCommercial PoE\tinfo@teknolojipazar.com\t\thttps://www.teknolojipazar.com/freelink-fr-1621gs-300-16-port-10-100-poe-2xuplink-1xsfp-300w-poe-switch\n\tCommercial PoE\tinfo@tekmarshop.com\t\thttps://www.tekmarshop.com/ods/switch\n\tCommercial PoE\tsatis@asyatelekom.net\ncan@asyatelekom.net\t\thttps://www.isee.com.tr/product-category/switch/\n\tCommercial PoE\tmhb@karel.com.tr\t\thttps://www.karel.com.tr/urunler-cozumler\n\tCommercial PoE\tokisan@okisan.com\t\thttps://www.okisan.com/urun-kategori/aksesuarlar-2/\nSelim Bey\tCommercial PoE\tpurchasing@fgmarket.com.tr\t90 5369669277\tFG SPECTRAL TEKNOLOJİ A.Ş\nwww.fgmarket.com.tr\nMurat Soyak\tindustrial network\tmurat.soyak@erete.com.tr\nerete@erete.com.tr\tozen.taylanli@erete.com.tr\thttps://www.erete.com.tr/Kullanici/Urun/UrunDetay/2375\n\tCommercial PoE\tinfo@coptek.com.tr\t\thttp://www.coptek.com.tr/end%C3%BCstriyelethernet.html\nOsman Yildiz   GM\nMunevver Acarer  import\t\teds@eds.com.tr\t90 216 528 45 00\tEds protection technology\nwww.eds.com.tr\nMr.Kaan kokarcali\tcameras\tkaankokarcali@gmail.com\tT 90-543-2078191\tbiltek\nShaalan alzitawi\nboard of directors\t\tshaalan@kiracbilisim.com.tr\tM 905556904546\tkirac bilisim\nwww.kiracbilisim.com.tr\nDeniz Aydin\nTechnical Manager\t\tdeniz@kozaguvenlik.com.tr\t90 532 610 15 94\tKoza\nwww.kozaguvenlik.com.tr\n\tindustrial network\tdestek@akakce.com\nik@akakce.com\t\thttps://www.akakce.com/switch/en-ucuz-industrial-8-4-all-gigabit-poe-switch-8-x-1000m-rj45-4-x-1000m-sfp-pnent-g1200wp-8g-4s-fiyati,1907994058.html\n\tswitch\thello@ccsguvenlik.com.tr\t\thttps://ccsguvenlik.com.tr/u/ods-r-8p2u\n\tswitch\tdestek@baburtech.com\t\thttps://www.baburtech.com/kategori/switch-2\n\tswitch\tinfo@bestabilisim.com\thttps://www.gsdbilisim.com/6li-poe-switch-fiyat\thttps://www.bestabilisim.com/besta-6-port-poe-switch-10-100-mbps-masaustu-4-port-poe-bst620\n\tswitch\tinfo@nova-grup.com\t\thttps://www.novacom.com.tr/urun-kategori/poe-switch/\n\tswitch\tsatis@lemaxguvenlik.com\t\thttps://www.lemaxguvenlik.com/urun/lg-nd1p802lf-8-port-poe-10-100-2-port-gigabit-uplink-poe-switch/188\nErkut Sevin\n90 5315637721\tCommercial POE\tsatis@konakguvenlik.com.tr\t\thttps://www.konakguvenlik.com.tr/k/2539-.html\n\tCommercial POE\tsatis@opax.com\t90 4449890\thttps://www.opax.com/ag-urunleri/prd-opax-0810-8-port-10100m-poe-switch-2-port-uplink-120w\n\tCCTV products\tnokta@noktaelektronik.net\t\thttps://www.noktaelektronik.net/tr\n\tIndustrial PoE\tinfo@technopc.com.tr\t\thttps://technopc.com.tr/urunler/network-cozumleri\n\tCommercial POE\tinfo@hanelektronik.com\t\thttps://www.hanelektronik.com/poe-switchler\nRemark\nMost of the local companies have a or many Chinese suppliers",
+ "sheets": {
+  "Turkey": {
+   "state": "visible",
+   "rows": [
+    [
+     "Person",
+     "Interested in",
+     "Contact",
+     "Remark",
+     "Company"
+    ],
+    [
+     "Bosgem",
+     "industrial network",
+     "info@iotsistem.com",
+     "",
+     "https://www.iotsistem.com/urun-kategori/ethernet-switch/yonetilebilir-switch/"
+    ],
+    [
+     "Sadik Yildiz",
+     "CCTV",
+     "info@filizguvenlik.com.tr",
+     "M 90533 74 63788",
+     "https://www.filizguvenlik.com.tr/"
+    ],
+    [
+     "",
+     "industrial network",
+     "info@snexus.com.tr",
+     "90 53340 48364",
+     "https://www.snexus.com.tr/"
+    ],
+    [
+     "",
+     "industrial network",
+     "gmt@gmtcontrol.com",
+     "https://www.uotek.com/product-73.html",
+     "https://gmtcontrol.com/en/endustriyel-haberlesme/"
+    ],
+    [
+     "Gizem KIZILTAN",
+     "industrial network",
+     "info@pavotek.com.tr\ngizem.kiziltan@pavotek.com.tr\nhilal.kirlioglu@pavotek.com.tr\nnouman.ali@pavotek.com.tr",
+     "",
+     "https://www.pavotek.com.tr/our-solutions/communication-network-and-control-systems/"
+    ],
+    [
+     "",
+     "POE switch  industrial network",
+     "info@cenova.com.tr",
+     "",
+     "https://www.cenova.com.tr/dl-end3308pfg"
+    ],
+    [
+     "",
+     "industrial network",
+     "info@cryptolink.com.tr",
+     "",
+     "http://www.cryptolink.com.tr/pdf/DatasheetofCRLISW-08.pdf"
+    ],
+    [
+     "",
+     "industrial network",
+     "info@mfd.com.tr",
+     "",
+     "http://mfd.com.tr/endustriyel-ethernet_s_tr_165_.aspx"
+    ],
+    [
+     "Tuğrul Akarsu\na.tugrul@efb-elektronik.com.tr",
+     "industrial network",
+     "info@efb-elektronik.com.tr",
+     "",
+     "https://www.efb-elektronik.com.tr/ueruenler/ag-coezuemleri"
+    ],
+    [
+     "",
+     "industrial network",
+     "info@eretekne.com",
+     "",
+     "https://www.eretekne.com/kategori/100mbit-donusturuculer-1"
+    ],
+    [
+     "",
+     "switch",
+     "info@telkolink.com",
+     "",
+     "http://www.telkolink.com/"
+    ],
+    [
+     "Furkan Kalkan\nTechnical Manager",
+     "Commercial PoE",
+     "furkan@optima.tc",
+     "90507 463 0566",
+     "Optima Soft\nhttps://www.optima-engineering.com/"
+    ],
+    [
+     "",
+     "industrial network",
+     "sales@gemaxxnetwork.com",
+     "",
+     "www.gemaxxnetwork.com"
+    ],
+    [
+     "",
+     "switch",
+     "info@teleone.com.tr",
+     "",
+     "http://urunler.teleone.com.tr/"
+    ],
+    [
+     "",
+     "switch",
+     "iletisim@cebecigrup.com ‎",
+     "",
+     "https://cebecigrup.com/endustriyel-ag-anahtarlari/"
+    ],
+    [
+     "",
+     "",
+     "info@coredata.com.tr\nsatis@coredata.com.tr",
+     "",
+     "http://coredata.com.tr/Home/Index"
+    ],
+    [
+     "",
+     "",
+     "destek@destekelektronik.com.tr",
+     "90 21652 84510",
+     "Destek Elektronik Tic. Ltd.\nhttps://www.destekelektronik.com.tr/"
+    ],
+    [
+     "",
+     "fiber networking",
+     "bilgi@industrialnetworkcenter.com",
+     "",
+     "https://www.portel.com.tr/"
+    ],
+    [
+     "",
+     "switch",
+     "info@lansan.com.tr",
+     "",
+     "https://www.lansan.com.tr/switch-ve-aktif-urunler/media-converter"
+    ],
+    [
+     "Gokhan Ozkara\nForeign Trade Consultant",
+     "catalog; relay converter(110)",
+     "gokhan@okisan.com",
+     "90530 691 8454 M",
+     "Okisan\nwww.okisan.com"
+    ],
+    [
+     "",
+     "PoE",
+     "info@nfsteknoloji.com",
+     "",
+     "http://www.nfsteknoloji.com/guvenliksistemleri/532/8-ports-industrial-full-gigabit-poe-managed-switch.html"
+    ],
+    [
+     "",
+     "industrial network",
+     "info@rfteknoloji.com.tr",
+     "",
+     "https://www.rfteknoloji.com.tr/end%C3%BCstriyel-switchler/poe-endustriyel-switch/yonetilemez-poe-endustriyel-ethernet-switch/item/207-ips215-f-4poe-4tp-1fiber-poe-portlu-endustriyel-ethernet-switch"
+    ],
+    [
+     "",
+     "industrial network",
+     "eleman@bimel.com.tr",
+     "",
+     "https://www.bimel.com.tr/urun/bn-isw-3084px"
+    ],
+    [
+     "",
+     "industrial network",
+     "info@areskom.com.tr",
+     "",
+     "https://areskom.com.tr/"
+    ],
+    [
+     "",
+     "industrial network",
+     "info@intenet.com.tr",
+     "",
+     "https://intenet.com.tr/en/our-solution/industrial-switch/"
+    ],
+    [
+     "",
+     "industrial network",
+     "info@4sltd.com.tr\n4steknolojiltd@gmail.com",
+     "",
+     "https://www.4sltd.com.tr/red-lion-kontrol-sistemleri-4s-teknoloji.php"
+    ],
+    [
+     "",
+     "switch",
+     "info@teamon.com.tr",
+     "",
+     "https://www.teamon.com.tr/urunler/listesi?marka=AEM&sayfa=3"
+    ],
+    [
+     "",
+     "CCTV fiber optics, network",
+     "info@inovatech.com.tr",
+     "",
+     "https://www.inovatech.com.tr/ip-cctv-sistemleri/"
+    ],
+    [
+     "",
+     "industrial network",
+     "info@longlinenetwork.com",
+     "https://www.longlinenetwork.com/10g-media-converter/",
+     "https://www.longlinenetwork.com/media-converter/"
+    ],
+    [
+     "",
+     "industrial network",
+     "bayi@gelecekbt.com",
+     "https://gelecekbt.com/10g-ethernet-cevirici",
+     "https://gelecekbt.com/"
+    ],
+    [
+     "",
+     "industrial network",
+     "info@oncuguvenlik.com.tr",
+     "",
+     "https://www.oncuguvenlik.com.tr/tr/urunlerimiz/network-urunleri/endustriyel-switch/"
+    ],
+    [
+     "",
+     "industrial network",
+     "info@metcom.com.tr",
+     "",
+     "http://www.metcom.com.tr/product-category/fiber-optik-sistemler/rack-tipi-terminal-kutulari/"
+    ],
+    [
+     "",
+     "Commercial PoE CCTV",
+     "satis@egemenelektronik.com",
+     "90 53260 57018",
+     "https://www.egemenelektronik.com/tr/kategori/switchler"
+    ],
+    [
+     "",
+     "Commercial PoE",
+     "info@teknolojipazar.com",
+     "",
+     "https://www.teknolojipazar.com/freelink-fr-1621gs-300-16-port-10-100-poe-2xuplink-1xsfp-300w-poe-switch"
+    ],
+    [
+     "",
+     "Commercial PoE",
+     "info@tekmarshop.com",
+     "",
+     "https://www.tekmarshop.com/ods/switch"
+    ],
+    [
+     "",
+     "Commercial PoE",
+     "satis@asyatelekom.net\ncan@asyatelekom.net",
+     "",
+     "https://www.isee.com.tr/product-category/switch/"
+    ],
+    [
+     "",
+     "Commercial PoE",
+     "mhb@karel.com.tr",
+     "",
+     "https://www.karel.com.tr/urunler-cozumler"
+    ],
+    [
+     "",
+     "Commercial PoE",
+     "okisan@okisan.com",
+     "",
+     "https://www.okisan.com/urun-kategori/aksesuarlar-2/"
+    ],
+    [
+     "Selim Bey",
+     "Commercial PoE",
+     "purchasing@fgmarket.com.tr",
+     "90 5369669277",
+     "FG SPECTRAL TEKNOLOJİ A.Ş\nwww.fgmarket.com.tr"
+    ],
+    [
+     "Murat Soyak",
+     "industrial network",
+     "murat.soyak@erete.com.tr\nerete@erete.com.tr",
+     "ozen.taylanli@erete.com.tr",
+     "https://www.erete.com.tr/Kullanici/Urun/UrunDetay/2375"
+    ],
+    [
+     "",
+     "Commercial PoE",
+     "info@coptek.com.tr",
+     "",
+     "http://www.coptek.com.tr/end%C3%BCstriyelethernet.html"
+    ],
+    [
+     "Osman Yildiz   GM\nMunevver Acarer  import",
+     "",
+     "eds@eds.com.tr",
+     "90 216 528 45 00",
+     "Eds protection technology\nwww.eds.com.tr"
+    ],
+    [
+     "Mr.Kaan kokarcali",
+     "cameras",
+     "kaankokarcali@gmail.com",
+     "T 90-543-2078191",
+     "biltek"
+    ],
+    [
+     "Shaalan alzitawi\nboard of directors",
+     "",
+     "shaalan@kiracbilisim.com.tr",
+     "M 905556904546",
+     "kirac bilisim\nwww.kiracbilisim.com.tr"
+    ],
+    [
+     "Deniz Aydin\nTechnical Manager",
+     "",
+     "deniz@kozaguvenlik.com.tr",
+     "90 532 610 15 94",
+     "Koza\nwww.kozaguvenlik.com.tr"
+    ],
+    [
+     "",
+     "industrial network",
+     "destek@akakce.com\nik@akakce.com",
+     "",
+     "https://www.akakce.com/switch/en-ucuz-industrial-8-4-all-gigabit-poe-switch-8-x-1000m-rj45-4-x-1000m-sfp-pnent-g1200wp-8g-4s-fiyati,1907994058.html"
+    ],
+    [
+     "",
+     "switch",
+     "hello@ccsguvenlik.com.tr",
+     "",
+     "https://ccsguvenlik.com.tr/u/ods-r-8p2u"
+    ],
+    [
+     "",
+     "switch",
+     "destek@baburtech.com",
+     "",
+     "https://www.baburtech.com/kategori/switch-2"
+    ],
+    [
+     "",
+     "switch",
+     "info@bestabilisim.com",
+     "https://www.gsdbilisim.com/6li-poe-switch-fiyat",
+     "https://www.bestabilisim.com/besta-6-port-poe-switch-10-100-mbps-masaustu-4-port-poe-bst620"
+    ],
+    [
+     "",
+     "switch",
+     "info@nova-grup.com",
+     "",
+     "https://www.novacom.com.tr/urun-kategori/poe-switch/"
+    ],
+    [
+     "",
+     "switch",
+     "satis@lemaxguvenlik.com",
+     "",
+     "https://www.lemaxguvenlik.com/urun/lg-nd1p802lf-8-port-poe-10-100-2-port-gigabit-uplink-poe-switch/188"
+    ],
+    [
+     "Erkut Sevin\n90 5315637721",
+     "Commercial POE",
+     "satis@konakguvenlik.com.tr",
+     "",
+     "https://www.konakguvenlik.com.tr/k/2539-.html"
+    ],
+    [
+     "",
+     "Commercial POE",
+     "satis@opax.com",
+     "90 4449890",
+     "https://www.opax.com/ag-urunleri/prd-opax-0810-8-port-10100m-poe-switch-2-port-uplink-120w"
+    ],
+    [
+     "",
+     "CCTV products",
+     "nokta@noktaelektronik.net",
+     "",
+     "https://www.noktaelektronik.net/tr"
+    ],
+    [
+     "",
+     "Industrial PoE",
+     "info@technopc.com.tr",
+     "",
+     "https://technopc.com.tr/urunler/network-cozumleri"
+    ],
+    [
+     "",
+     "Commercial POE",
+     "info@hanelektronik.com",
+     "",
+     "https://www.hanelektronik.com/poe-switchler"
+    ],
+    [
+     "Remark"
+    ],
+    [
+     "Most of the local companies have a or many Chinese suppliers"
+    ]
+   ]
+  }
+ },
+ "extracted_at": "2026-10-22T03:46:39Z"
+}

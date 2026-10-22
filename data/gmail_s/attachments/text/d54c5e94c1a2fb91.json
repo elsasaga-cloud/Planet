@@ -1,0 +1,19 @@
+{
+ "sha256_16": "d54c5e94c1a2fb91",
+ "name": "Outlook-48 port.jp.jpg",
+ "ext": ".jpg",
+ "bytes": 125096,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 1920,
+  "height": 599,
+  "mode": "RGB",
+  "thumb_bytes": 5395
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:41:52Z"
+}

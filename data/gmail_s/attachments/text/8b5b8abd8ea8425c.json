@@ -1,0 +1,19 @@
+{
+ "sha256_16": "8b5b8abd8ea8425c",
+ "name": "a UK sample order.png",
+ "ext": ".png",
+ "bytes": 139755,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1539,
+  "height": 714,
+  "mode": "RGBA",
+  "thumb_bytes": 7982
+ },
+ "warnings": [],
+ "chars": 555,
+ "text": "STI-42424XGGPM-4BT\nIndustrial PoE Managed Switch\n4* 1G/2.5G/10G SFP+24* 10/100/1000M\nRJ45/PoE +1*Console Port+1*USB Port\n20*PoE affat+4*PoE af/at/bt\n240W/370W, L3 Managed\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial\nTerminal Block), Din Mounted.\n‘With Mounting Hanger\n‘Without Optical Module, Without Power Supply\nae\n1, Without DI/DO/RS485 Function\n2, -40°C~+ 70°C@240W PoE Output\n-40°C~+ 60°C@370W PoE Output\nHS Code 8517622990\nDimension: 158*115*110mm\nPacking Information [Net Weight: 1.8Kg\nGross Weight: 2Kg\n=\n500\n$500.0\nMarvell Chip",
+ "extracted_at": "2026-10-22T03:42:00Z"
+}

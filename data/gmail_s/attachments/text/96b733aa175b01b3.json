@@ -1,0 +1,21 @@
+{
+ "sha256_16": "96b733aa175b01b3",
+ "name": "Mini.png",
+ "ext": ".png",
+ "bytes": 123274,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 800,
+  "height": 800,
+  "mode": "RGB",
+  "datetime": "2024:05:29 17:11:59",
+  "software": "Adobe Photoshop CS6 (Windows)",
+  "thumb_bytes": 9873
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:49:45Z"
+}

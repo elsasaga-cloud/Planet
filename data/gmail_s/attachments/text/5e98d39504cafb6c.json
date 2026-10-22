@@ -1,0 +1,20 @@
+{
+ "sha256_16": "5e98d39504cafb6c",
+ "name": "hotline record 2.PNG",
+ "ext": ".png",
+ "bytes": 4463031,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1206,
+  "height": 2622,
+  "mode": "RGB",
+  "datetime": "2026:10:20 09:29:18",
+  "thumb_bytes": 6990
+ },
+ "warnings": [],
+ "chars": 145,
+ "text": "9:29N\n4\nphone\n400 685 8589\nShare Contact\nCreate New Contact\nAdd to Existing Contact\nAdd to Emergency Contacts\nBlock Contact\nCalls Contacts Keypad",
+ "extracted_at": "2026-10-22T03:40:31Z"
+}

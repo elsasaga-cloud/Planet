@@ -1,0 +1,21 @@
+{
+ "sha256_16": "04e4ba8c6b3c36d6",
+ "name": "Marvell Series.png",
+ "ext": ".png",
+ "bytes": 422666,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 1000,
+  "height": 700,
+  "mode": "RGB",
+  "datetime": "2024:12:04 19:43:24",
+  "software": "Adobe Photoshop CS6 (Windows)",
+  "thumb_bytes": 17935
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:41:27Z"
+}

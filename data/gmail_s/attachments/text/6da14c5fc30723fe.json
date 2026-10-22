@@ -1,0 +1,19 @@
+{
+ "sha256_16": "6da14c5fc30723fe",
+ "name": "Verificaiton.png",
+ "ext": ".png",
+ "bytes": 456118,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 780,
+  "height": 800,
+  "mode": "RGB",
+  "thumb_bytes": 18575
+ },
+ "warnings": [],
+ "chars": 46,
+ "text": "1 人 Select items that help you swim\nunderwater",
+ "extracted_at": "2026-10-22T03:40:26Z"
+}

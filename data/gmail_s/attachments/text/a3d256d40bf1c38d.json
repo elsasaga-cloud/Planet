@@ -1,0 +1,254 @@
+{
+ "sha256_16": "a3d256d40bf1c38d",
+ "name": "Reply on RFP 2024.12.10.docx",
+ "ext": ".docx",
+ "bytes": 1395625,
+ "method": "python-docx(段落+表格+文本框+页眉页脚)",
+ "status": "ok",
+ "meta": {
+  "title": "",
+  "author": "Simon",
+  "last_modified_by": "Simon",
+  "created": "2023-07-22T16:14:00+00:00",
+  "modified": "2024-12-11T07:57:17+00:00",
+  "paragraphs": 46,
+  "tables": 0,
+  "embedded_images": 6
+ },
+ "warnings": [],
+ "chars": 2654,
+ "text": "There are some interesting features that may help stand out.\n1, hardware material\n1.1\nExpert Design\nThe upper panel, aluminum\nThe other sides, iron\nThis ensures better dissipation especially for PoE models\nThough this model STI-280DGGM is Non-PoE.\n1.2\nPush-in Terminal Block\nNow on the market many suppliers are doing traditional screw-type terminal block as below\nThis is more difficult in installation than push-in type\nOn top of this, the heat sink part&EMI protection is better than peer suppliers.\nYou have the 2 units and can easily understand those points.\nIt is not necessarily helpful in this project, but maybe.\nAnd this is exactly we are better than competitors.\n2, hardware features\n2.1\nSerial function\nOur engineer suggested this to be mandatory in this tender.\nAs far as we know, few peer suppliers have a full range of industrial switches with serial function.\nSome suppliers just have 1 or 2 models while we have many.\nAt the same time, the price is not expensive after adding it.\nMeanwhile, there is USB&Alarm function available,\nWe think this is critical to stand out from this tender.\n2.2\nChip info\nIt is Marvell Based IC and we develop our own software(codes)\nFor most peer suppliers, they do Realtek, Vitesse or Broadcom\nMoreover, the software is foreign, that is to say, when there is a substantial software change, they are very passive and subject to the software supplier.\nFor us, we can easily change most of the requested features(of course cost and R&D time is a big concern), but technically its very possible.\nOur engineer suggested maybe add a term “have the capability to do software change for future purpose if any”, some kind of description like this to stand out\n3, software features\n3.1\nSFTP feature is available, please add this in the requirement list.\nWe discussed this before.\nFor most peer suppliers, they are not technically able to do this.\nFor Huawei, H3C those big guys, they are not in this competition, right?\nSo this gives us an edge.\n3.2\nAdditional features\nWe are open to some new features you possibly need.\nIn our daily work, we receive some RFPs that got some features not on our list yet.\nWe are now not knowing who you are competing with, maybe locally or with other EU brands.\nSure thing is, our models are good enough against peer Chinese suppliers.\nSo maybe its good to let us know the features you think helpful after evaluating the strengths and models of the competitors in this tender.\nWe will see how to move on.\n[页眉页脚]\ns.sagatelecom@gmail.com\n\t\t\t\t\t\t\t                                                                       Saga Telecom\nwww.sagatelecom.com.cn\nConnecting, Converting, Creating",
+ "blocks": [
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "There are some interesting features that may help stand out."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1, hardware material"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1.1"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Expert Design"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "The upper panel, aluminum"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "The other sides, iron"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "This ensures better dissipation especially for PoE models"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Though this model STI-280DGGM is Non-PoE."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1.2"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Push-in Terminal Block"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Now on the market many suppliers are doing traditional screw-type terminal block as below"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "This is more difficult in installation than push-in type"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "On top of this, the heat sink part&EMI protection is better than peer suppliers."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "You have the 2 units and can easily understand those points."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is not necessarily helpful in this project, but maybe."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "And this is exactly we are better than competitors."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "2, hardware features"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "2.1"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Serial function"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Our engineer suggested this to be mandatory in this tender."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "As far as we know, few peer suppliers have a full range of industrial switches with serial function."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Some suppliers just have 1 or 2 models while we have many.\nAt the same time, the price is not expensive after adding it."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Meanwhile, there is USB&Alarm function available,"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We think this is critical to stand out from this tender."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "2.2"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Chip info"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is Marvell Based IC and we develop our own software(codes)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "For most peer suppliers, they do Realtek, Vitesse or Broadcom"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Moreover, the software is foreign, that is to say, when there is a substantial software change, they are very passive and subject to the software supplier."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "For us, we can easily change most of the requested features(of course cost and R&D time is a big concern), but technically its very possible."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Our engineer suggested maybe add a term “have the capability to do software change for future purpose if any”, some kind of description like this to stand out"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "3, software features"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "3.1"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "SFTP feature is available, please add this in the requirement list."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We discussed this before."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "For most peer suppliers, they are not technically able to do this."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "For Huawei, H3C those big guys, they are not in this competition, right?"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "So this gives us an edge."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "3.2"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Additional features"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We are open to some new features you possibly need."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "In our daily work, we receive some RFPs that got some features not on our list yet."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We are now not knowing who you are competing with, maybe locally or with other EU brands."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Sure thing is, our models are good enough against peer Chinese suppliers."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "So maybe its good to let us know the features you think helpful after evaluating the strengths and models of the competitors in this tender."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We will see how to move on."
+  }
+ ],
+ "extracted_at": "2026-10-22T03:44:25Z"
+}

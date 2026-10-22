@@ -1,0 +1,180 @@
+{
+ "sha256_16": "d0aa4255a5646560",
+ "name": "Quotation.xls",
+ "ext": ".xls",
+ "bytes": 171008,
+ "method": "xlrd",
+ "status": "ok",
+ "meta": {
+  "sheets": [
+   "Quotation"
+  ],
+  "rows_total": 28
+ },
+ "warnings": [],
+ "chars": 1731,
+ "text": "--- Sheet: Quotation ---\nZhengzhou Saga Telecom Co., Ltd.\nAddress: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob/Whatsapp/Wechat: 86 15237149683                       www.sagatelecom.com.cn                     Email: s.sagatelecom@gmail.com\n*********************************************************************************************************************\nQuotation\nBuyer:\tAngora Networks\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t\t\tQuoted By:\tSimon Cheng\nEmail:\tlkilic@angoranetworks.com\ntesen@angoranetworks.com\t\tDate:\t2nd, May, 2024\nContact Person:\tLevent Kilic\nTaylan Esen\t\tPrice Term:\tEXW\nDestination\tTurkey\nModel\tSpecification\t\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSTC-424XGGPM\tCommercial Ethernet Switch\n4*1G/2.5G/10G SFP+24*10/100/1000M RJ45+1*Console Port\nL3 managed, POE af/at, 400W budget, Support PoE management, PoE watchdog, AC input, Rack compatible, with power cable, without SFP transceiver\t\t\t1\t340\t340\n\t\t\t\t10\t335\t3350\n\t\t\t\t20\t330\t6600\n\t\t\t\t50\t320\t16000\nSTC-28DGGPM\tCommercial Ethernet Switch\n2*1G/2.5G SFP+8*10/100/1000M RJ45+1*Console Port\nPoE af/at, 240W budget, L2 managed, DC52V input, with power supply, without SFP transceiver\t\t\t1\t90\t90\n\t\t\t\t10\t88\t880\n\t\t\t\t20\t86\t1720\n\t\t\t\t50\t83\t4150\nPrice validity: 30 days\nSaga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply.\nNon-brand packing, without Chinese letters or logo\nNeutral device\nCountry of origin: China\nLeadtime: 4~7 working days\nWarranty: 1 year\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" for more information.",
+ "sheets": {
+  "Quotation": {
+   "rows": [
+    [
+     "Zhengzhou Saga Telecom Co., Ltd."
+    ],
+    [
+     "Address: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+    ],
+    [
+     "Mob/Whatsapp/Wechat: 86 15237149683                       www.sagatelecom.com.cn                     Email: s.sagatelecom@gmail.com"
+    ],
+    [
+     "*********************************************************************************************************************"
+    ],
+    [
+     "Quotation"
+    ],
+    [
+     "Buyer:",
+     "Angora Networks",
+     "",
+     "Seller:",
+     "Zhengzhou Saga Telecom Co., Ltd."
+    ],
+    [
+     "Tel:",
+     "",
+     "",
+     "Quoted By:",
+     "Simon Cheng"
+    ],
+    [
+     "Email:",
+     "lkilic@angoranetworks.com\ntesen@angoranetworks.com",
+     "",
+     "Date:",
+     "2nd, May, 2024"
+    ],
+    [
+     "Contact Person:",
+     "Levent Kilic\nTaylan Esen",
+     "",
+     "Price Term:",
+     "EXW"
+    ],
+    [
+     "Destination",
+     "Turkey"
+    ],
+    [
+     "Model",
+     "Specification",
+     "",
+     "",
+     "Quantity \n(pcs)",
+     "Unit Price\n(USD)",
+     "Amount \n(USD)",
+     "Remark"
+    ],
+    [
+     "STC-424XGGPM",
+     "Commercial Ethernet Switch\n4*1G/2.5G/10G SFP+24*10/100/1000M RJ45+1*Console Port\nL3 managed, POE af/at, 400W budget, Support PoE management, PoE watchdog, AC input, Rack compatible, with power cable, without SFP transceiver",
+     "",
+     "",
+     "1",
+     "340",
+     "340"
+    ],
+    [
+     "",
+     "",
+     "",
+     "",
+     "10",
+     "335",
+     "3350"
+    ],
+    [
+     "",
+     "",
+     "",
+     "",
+     "20",
+     "330",
+     "6600"
+    ],
+    [
+     "",
+     "",
+     "",
+     "",
+     "50",
+     "320",
+     "16000"
+    ],
+    [
+     "STC-28DGGPM",
+     "Commercial Ethernet Switch\n2*1G/2.5G SFP+8*10/100/1000M RJ45+1*Console Port\nPoE af/at, 240W budget, L2 managed, DC52V input, with power supply, without SFP transceiver",
+     "",
+     "",
+     "1",
+     "90",
+     "90"
+    ],
+    [
+     "",
+     "",
+     "",
+     "",
+     "10",
+     "88",
+     "880"
+    ],
+    [
+     "",
+     "",
+     "",
+     "",
+     "20",
+     "86",
+     "1720"
+    ],
+    [
+     "",
+     "",
+     "",
+     "",
+     "50",
+     "83",
+     "4150"
+    ],
+    [
+     "Price validity: 30 days"
+    ],
+    [
+     "Saga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply."
+    ],
+    [
+     "Non-brand packing, without Chinese letters or logo"
+    ],
+    [
+     "Neutral device"
+    ],
+    [
+     "Country of origin: China"
+    ],
+    [
+     "Leadtime: 4~7 working days"
+    ],
+    [
+     "Warranty: 1 year"
+    ],
+    [
+     "Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+    ],
+    [
+     "Please refer to \"warranty policy\" for more information."
+    ]
+   ]
+  }
+ },
+ "extracted_at": "2026-10-22T03:51:18Z"
+}

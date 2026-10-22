@@ -1,0 +1,19 @@
+{
+ "sha256_16": "a3952a3a27a2fa0d",
+ "name": "label format.jpg",
+ "ext": ".jpg",
+ "bytes": 2283119,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 2080,
+  "height": 4624,
+  "mode": "RGB",
+  "thumb_bytes": 8949
+ },
+ "warnings": [],
+ "chars": 156,
+ "text": "SORA NETWORKS\nSERIES ETHERNET SWITCHES\nVERGE\nMODEL: ANW-2116-PG\nPOWER: 240W\nINPUT: 220V\nNNN UN NQ00 0 0 MT\nAVYN241023123008AE\nMAC ADDRESS: 98:06:37:A0:57:03",
+ "extracted_at": "2026-10-22T03:46:47Z"
+}

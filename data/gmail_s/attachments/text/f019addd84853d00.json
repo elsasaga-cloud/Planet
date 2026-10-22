@@ -1,0 +1,21 @@
+{
+ "sha256_16": "f019addd84853d00",
+ "name": "Optical Bypass Switch.jpg",
+ "ext": ".jpg",
+ "bytes": 359737,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 1700,
+  "height": 3000,
+  "mode": "RGB",
+  "datetime": "2025:03:08 16:56:05",
+  "software": "Adobe Photoshop CS6 (Windows)",
+  "thumb_bytes": 11831
+ },
+ "warnings": [],
+ "chars": 19,
+ "text": "a =\n和 IS 1 FAN FA’.",
+ "extracted_at": "2026-10-22T03:41:29Z"
+}

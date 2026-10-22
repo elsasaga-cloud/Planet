@@ -1,0 +1,21 @@
+{
+ "sha256_16": "0d16d07c6e68da5c",
+ "name": "Commercial Front.jpg",
+ "ext": ".jpg",
+ "bytes": 2947455,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 5000,
+  "height": 3600,
+  "mode": "RGB",
+  "datetime": "2024:01:10 22:07:19",
+  "software": "Adobe Photoshop CS6 (Windows)",
+  "thumb_bytes": 5561
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:47:21Z"
+}

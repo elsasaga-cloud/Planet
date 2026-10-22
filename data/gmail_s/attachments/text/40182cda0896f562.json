@@ -1,0 +1,21 @@
+{
+ "sha256_16": "40182cda0896f562",
+ "name": "8C48XF.png",
+ "ext": ".png",
+ "bytes": 191947,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 1000,
+  "height": 300,
+  "mode": "RGB",
+  "datetime": "2024:12:04 17:20:02",
+  "software": "Adobe Photoshop CS6 (Windows)",
+  "thumb_bytes": 6710
+ },
+ "warnings": [],
+ "chars": 36,
+ "text": "24*10G Fiber 8*40G/100G 24*10G Fiber",
+ "extracted_at": "2026-10-22T03:41:13Z"
+}

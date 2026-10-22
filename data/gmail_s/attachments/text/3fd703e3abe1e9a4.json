@@ -1,0 +1,19 @@
+{
+ "sha256_16": "3fd703e3abe1e9a4",
+ "name": "rear.jpg",
+ "ext": ".jpg",
+ "bytes": 237748,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 1920,
+  "height": 1080,
+  "mode": "RGB",
+  "thumb_bytes": 9707
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:46:33Z"
+}

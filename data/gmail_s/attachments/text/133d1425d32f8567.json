@@ -1,0 +1,19 @@
+{
+ "sha256_16": "133d1425d32f8567",
+ "name": "final packing box format.jpg",
+ "ext": ".jpg",
+ "bytes": 378577,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 1440,
+  "height": 810,
+  "mode": "RGB",
+  "thumb_bytes": 5273
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:44:08Z"
+}

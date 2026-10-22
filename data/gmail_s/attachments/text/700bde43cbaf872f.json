@@ -1,0 +1,24 @@
+{
+ "sha256_16": "700bde43cbaf872f",
+ "name": "Option&Explanation.pdf",
+ "ext": ".pdf",
+ "bytes": 318426,
+ "method": "pdfplumber",
+ "status": "ok",
+ "meta": {
+  "pages": 2,
+  "author": "Simon",
+  "creator": "WPS 文字",
+  "creationdate": "D:20240419151450+07'14'",
+  "moddate": "D:20240419151450+07'14'",
+  "ocr_pages": 0
+ },
+ "warnings": [],
+ "chars": 750,
+ "text": "[p1]\nAftercheck,wegot2optionsforyou.\nOption1\nPrintlogoandmodelnameonthefrontchassis.\nAsIexplainedinlastemail,wefirstgetatemplate,thenprintit.\nPleasdoknowthat,allwillbewhitecolor.\nIt is not about different color, and there might be some color or printing error(there is too much\ninformationonthephoto).\n\n[p2]\nOption2\nWegetacustomizedPVCmask.\nThisisnotaboutalabel/sticker,itisaPVCcoveringthewholefrontpanelofthischassis.\nThisismorepopularnow,pleaseseethisexamplephoto.\nThefontsandcolorsareexactlycopiedanddisplayed.\nIknowyouareprintingthelogoandmodelsonthecaselikeMC100.\nWecandothisbutthiswillbecostlyforasampleunit.\nOuradviceis,takeoption2fortestinganddemonstration.\nIfallisOK,innextorder,wecancustomizeabatchofchassisforyou.\nWhatdoyouthink?\nThankyou.",
+ "pages": [
+  "Aftercheck,wegot2optionsforyou.\nOption1\nPrintlogoandmodelnameonthefrontchassis.\nAsIexplainedinlastemail,wefirstgetatemplate,thenprintit.\nPleasdoknowthat,allwillbewhitecolor.\nIt is not about different color, and there might be some color or printing error(there is too much\ninformationonthephoto).",
+  "Option2\nWegetacustomizedPVCmask.\nThisisnotaboutalabel/sticker,itisaPVCcoveringthewholefrontpanelofthischassis.\nThisismorepopularnow,pleaseseethisexamplephoto.\nThefontsandcolorsareexactlycopiedanddisplayed.\nIknowyouareprintingthelogoandmodelsonthecaselikeMC100.\nWecandothisbutthiswillbecostlyforasampleunit.\nOuradviceis,takeoption2fortestinganddemonstration.\nIfallisOK,innextorder,wecancustomizeabatchofchassisforyou.\nWhatdoyouthink?\nThankyou."
+ ],
+ "extracted_at": "2026-10-22T03:47:47Z"
+}

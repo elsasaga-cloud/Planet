@@ -1,0 +1,19 @@
+{
+ "sha256_16": "ac946da6dde788d4",
+ "name": "image001.jpg",
+ "ext": ".jpg",
+ "bytes": 181548,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 3624,
+  "height": 1361,
+  "mode": "RGB",
+  "thumb_bytes": 5487
+ },
+ "warnings": [],
+ "chars": 62,
+ "text": "了 =\nGigabit PoE Switch\nExtend(7-8)\nOFF |ON\n[= 30d INOOOL/OOL/O",
+ "extracted_at": "2026-10-22T03:48:24Z"
+}

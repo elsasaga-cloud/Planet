@@ -1,0 +1,16 @@
+{
+ "sha256_16": "5d9d41e053f7f551",
+ "name": "TT-2208-TG.zip",
+ "ext": ".zip",
+ "bytes": 157858,
+ "method": "archive-extract",
+ "status": "ok",
+ "meta": {
+  "members": 5,
+  "extracted": true
+ },
+ "warnings": [],
+ "chars": 317,
+ "text": "[customize/config]\n//version=\"1.0\";\ncontact=\"\";\nlocation=\"\";\nvendor_oid=0;\nproduct_name=\"TT-2208-TG\";\n\n\n[customize/www/sysconf.json]\n{\n  \"login_page_help\": \"one of ['lt', 'logo', 'nologo']\",\n  \"login_page\": \"logo\",\n  \"data_upgrade\":true,\n  \"langs\": [\n    {\n      \"name\": \"English\",\n      \"value\": \"en_US\"\n    }\n  ]\n}\n",
+ "extracted_at": "2026-10-22T03:44:24Z"
+}

@@ -1,0 +1,21 @@
+{
+ "sha256_16": "85205c556d9fc955",
+ "name": "Quotation QU509692.PDF",
+ "ext": ".pdf",
+ "bytes": 36980,
+ "method": "pdfplumber",
+ "status": "ok",
+ "meta": {
+  "pages": 1,
+  "producer": "ComponentOne PDF Generator 8.0",
+  "creationdate": "D:20241212110837",
+  "ocr_pages": 0
+ },
+ "warnings": [],
+ "chars": 1280,
+ "text": "[p1]\nSwitchcom Distribution (PTY) Ltd\n49 Galaxy Avenue\nLinbro Business Park\nT: +27 10 007 2555\nF: +27 86 658 3333 Reg. No. 2015/334722/07 | VAT. No. 4600271672\nQuotation\nCash Sales Account\nAccount Number CAS001 Vat Number\nCustomer Reference Page Number 1\nPayment Terms Date Sales Code Expiry Date Document Number\n0 days 12/12/24 K4 12/12/24 QU509692\nCode Description Quantity Unit Price Discount Tax Nett Price\n98012384 Huawei S310-48P4S 48P POE+ 4xSFP 400W L3 1.00 12,595.00 15.00% 12,595.00 12,595.00\nPLEASE NOTE\nAll goods must be returned in complete, perfect condition in order to qualify for a full credit.\nGoods returned after 7 working days will be charged a 15% handling fee.\nNo goods will be accepted after 10 working days for credit.\nSwitchcom reserves the right to charge a 10% cancellation fee on all special orders once the quote is accepted.\nBANKING DETAILS\nFirst National Bank Standard Bank Absa Bank Sub Total 12,595.00\nAccount No 62575896653 Account No 422068659 Account No 4112333036\nVAT 1,889.25\nBranch 250655 Branch 051001 Branch 632005\nReference CAS001 Reference CAS001 Reference CAS001 Total (ZAR) 14,484.25\nOrder received complete and in good condition. I accept the Switchcom Distribution terms and conditions of sale.\nCustomer Name Customer Signature Date",
+ "pages": [
+  "Switchcom Distribution (PTY) Ltd\n49 Galaxy Avenue\nLinbro Business Park\nT: +27 10 007 2555\nF: +27 86 658 3333 Reg. No. 2015/334722/07 | VAT. No. 4600271672\nQuotation\nCash Sales Account\nAccount Number CAS001 Vat Number\nCustomer Reference Page Number 1\nPayment Terms Date Sales Code Expiry Date Document Number\n0 days 12/12/24 K4 12/12/24 QU509692\nCode Description Quantity Unit Price Discount Tax Nett Price\n98012384 Huawei S310-48P4S 48P POE+ 4xSFP 400W L3 1.00 12,595.00 15.00% 12,595.00 12,595.00\nPLEASE NOTE\nAll goods must be returned in complete, perfect condition in order to qualify for a full credit.\nGoods returned after 7 working days will be charged a 15% handling fee.\nNo goods will be accepted after 10 working days for credit.\nSwitchcom reserves the right to charge a 10% cancellation fee on all special orders once the quote is accepted.\nBANKING DETAILS\nFirst National Bank Standard Bank Absa Bank Sub Total 12,595.00\nAccount No 62575896653 Account No 422068659 Account No 4112333036\nVAT 1,889.25\nBranch 250655 Branch 051001 Branch 632005\nReference CAS001 Reference CAS001 Reference CAS001 Total (ZAR) 14,484.25\nOrder received complete and in good condition. I accept the Switchcom Distribution terms and conditions of sale.\nCustomer Name Customer Signature Date"
+ ],
+ "extracted_at": "2026-10-22T03:45:26Z"
+}

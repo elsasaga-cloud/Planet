@@ -1,0 +1,19 @@
+{
+ "sha256_16": "65f877c47e8c1ebb",
+ "name": "4+24 BT Auto.png",
+ "ext": ".png",
+ "bytes": 1873193,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 3276,
+  "height": 502,
+  "mode": "RGBA",
+  "thumb_bytes": 4562
+ },
+ "warnings": [],
+ "chars": 159,
+ "text": "en ASTER SC ee Gigabit Super PoE Switch\nBreow\nPo 678 TeARSD AGE AUTO+4GE BT_90W+16GE AT+4GE COMBO\n2463 8 enn nee ] ! |] ess\n25-COMBO 26-COMBO 27-COMBO 28-cowao",
+ "extracted_at": "2026-10-22T03:49:18Z"
+}

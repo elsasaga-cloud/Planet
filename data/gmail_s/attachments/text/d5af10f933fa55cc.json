@@ -1,0 +1,19 @@
+{
+ "sha256_16": "d5af10f933fa55cc",
+ "name": "image002.png",
+ "ext": ".png",
+ "bytes": 354510,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 2501,
+  "height": 626,
+  "mode": "RGBA",
+  "thumb_bytes": 6408
+ },
+ "warnings": [],
+ "chars": 259,
+ "text": "Global Distributor of = =\nOEM Compatible Networking Products M=EN=T\nNext Day Delivery Across UK & Europe’ Follow Us On: J) X@\n*For In-Stock Items Only\nOUR WAREHOUSES- Se B= = BSS i E = E OUR VALUES- PROACTIVE | PROFESSIONAL | INNOVATE | OWNERSHIP | RESILIENCE",
+ "extracted_at": "2026-10-22T03:44:32Z"
+}

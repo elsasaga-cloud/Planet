@@ -1,0 +1,19 @@
+{
+ "sha256_16": "4f30fcac978abee9",
+ "name": "Below part.png",
+ "ext": ".png",
+ "bytes": 920799,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 934,
+  "height": 708,
+  "mode": "RGBA",
+  "thumb_bytes": 10785
+ },
+ "warnings": [],
+ "chars": 28,
+ "text": "10G Ethernet Media Converter",
+ "extracted_at": "2026-10-22T03:45:14Z"
+}

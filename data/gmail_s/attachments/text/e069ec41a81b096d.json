@@ -1,0 +1,21 @@
+{
+ "sha256_16": "e069ec41a81b096d",
+ "name": "logo on the outside.jpg",
+ "ext": ".jpg",
+ "bytes": 8848449,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 5712,
+  "height": 4284,
+  "mode": "RGB",
+  "datetime": "2025:01:18 14:02:13",
+  "software": "Adobe Photoshop CS6 (Windows)",
+  "thumb_bytes": 8357
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:44:14Z"
+}

@@ -1,0 +1,19 @@
+{
+ "sha256_16": "16dd2be2f120b60e",
+ "name": "MINI.png",
+ "ext": ".png",
+ "bytes": 713505,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1365,
+  "height": 722,
+  "mode": "RGBA",
+  "thumb_bytes": 11976
+ },
+ "warnings": [],
+ "chars": 17,
+ "text": "85*85*30mm, 0.3Kg",
+ "extracted_at": "2026-10-22T03:41:18Z"
+}

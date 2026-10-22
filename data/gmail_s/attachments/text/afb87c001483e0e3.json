@@ -1,0 +1,19 @@
+{
+ "sha256_16": "afb87c001483e0e3",
+ "name": "web managed.png",
+ "ext": ".png",
+ "bytes": 183712,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1414,
+  "height": 504,
+  "mode": "RGB",
+  "thumb_bytes": 5200
+ },
+ "warnings": [],
+ "chars": 65,
+ "text": "Web Managed Gigabit PoE Switch\nReset(>5S)\nPoE Led(1S)\nsys 一 一\nPWR",
+ "extracted_at": "2026-10-22T03:46:56Z"
+}

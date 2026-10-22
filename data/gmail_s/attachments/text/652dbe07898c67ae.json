@@ -1,0 +1,908 @@
+{
+ "sha256_16": "652dbe07898c67ae",
+ "name": "Saga Software Function List-release 7.3.0.xlsx",
+ "ext": ".xlsx",
+ "bytes": 23502,
+ "method": "openpyxl(values)",
+ "status": "ok",
+ "meta": {
+  "sheets": [
+   "Saga software function"
+  ],
+  "embedded_images": 0,
+  "rows_total": 125
+ },
+ "warnings": [],
+ "chars": 5589,
+ "text": "--- Sheet: Saga software function ---\nSwitch Specification\t\t\tMarvell \nAlleyCat 3 series\tMarvell \nAlleyCat 5 series\tRemark\nEthernet interface\tPort features\tSupport IEEE 802.3x Flow Control\tP\tP\n\t\tSupport Interface Counters\tP\tP\n\t\tSupportJumbo Frame, maxium:10222bytes\tP\tP\n\tPort aggregation\tSupport GE Port Aggregaiton\tP\tP\n\t\tSupport 10GE Port Aggregation\tP\tP\n\t\tSupport Static Aggregation\tP\tP\n\t\tSupport LACP Dynamic Aggragation\tP\tP\n\t\tAggregation Groups creation supported number\t64\t64\n\t\tNumber of Each Aggregation Group Members\t8\t8\nSwitching features\tVLAN\tIEEE 802.1Q Tagged VLAN\tP\tP\n\t\tMAC-based VLAN\tP\tP\n\t\tIP-based VLAN\tP\tP\n\t\tProtocol-based VLAN\tP\tP\n\t\tVLAN Range\t1-4094\t1-4094\n\tMac- address Table\tSupport Static Mac-address Management\tP\tP\n\t\tSupport Dynamic Mac-address Management\tP\tP\n\t\tSupport Filtering Mac-address\tP\tP\n\t\tSupport Mac-address Limit based on port and VLAN\tP\tP\n\t\tSupport Mac-address Flapping based on Port or VLAN\tP\tP\n\t\tMac-address Table Size\t16k\t16k\n\tGVRP\tNormal Mode\tP\tP\n\t\tFixed Mode\tP\tP\n\t\tForbidden Mode\tP\tP\n\tQinQ\tSupport Port-based QinQ\tP\tP\n\t\tSupport VLAN-based QinQ\tP\tP\n\t\tSupport VLAN-Mapping\tP\tP\n\t\tSupport Flow-based QinQ\tP\tP\n\tMSTP\tSupport 802.1D STP\tP\tP\n\t\tSupport 802.1W RSTP\tP\tP\n\t\tSupport 802.1S MSTP\tP\tP\n\t\tSupport BPDU Guard\tP\tP\n\t\tNumber of Single Ring Device Connections* Suggested\t20\t20\n\tERPS（G.8032)\tSupport Major Ring\tP\tP\n\t\tSupport linking the Sub Ring and other Rings\tP\tP\n\t\tRecovery Time\t20ms\t20ms\n\t\tNumber of Single Ring Device Connections* Suggested\t20\t20\n\tStorm Suppression\tSpeed Limited basing on port bandwidth percentage\tP\tP\n\t\tSupport broadcast storm suppression(broadcast; unknown multicast; unknown unicast)\tP\tP\n\tSPAN\tSupported Number of Sessions\t7\t7\n\t\tSupport Many-to-One Mode\tP\tP\n\tRSPAN\tRemote Port mirroring(Remote Switch Port Analyzer)\tP\tP\n\tLLDP\tLink Layer Discovery Protocol\tP\tP\n\tPort isolation\tIsolate Groups supported number\t1\t1\nIP Routing\tStatic Routing\tSupport VLAN Interface（SVI） and Route Port\tP\tP\n\t\tSupport IPv4 Static Routing Table Entry Configuration\tP\tP\n\t\tSupport ARP Dynamic Learning and Static Configuration\tP\tP\n\t\tSupport IPv6 Static Routing Table Entry Configuration\tP\tP\n\t\tSupport IPv6 Neighbor Discovery and Static Configuration\tP\tP\n\t\tRouting Prefix Table Size For IPv4, for IPv6 Divide by 4\t256\t768\n\tRIP\tRouting Information Protocol\tP\tP\tL3 only\n\tOSPFv2\tOpen Shortest Path First\tP\tP\tL3 only\n\tIS-IS\tIntermediate System-to-Intermediate System\tP\tP\tL3 only\n\tBGP4\tBorder Gateway Protocol V4\tP\tP\tL3 only\n\tECMP\tEqual Cost Multi Path\tP\tP\tL3 only\nDHCP\tDHCPv4 Client\tDynamic Host Configuration Protocol, For IPv4\tP\tP\n\tDHCPv6 Client\tDynamic Host Configuration Protocol For IPv6\tP\tP\n\tDHCPv4 Snooping\tSupport DHCP Snooping Trust Port\tP\tP\n\t\tSupport DHCP Snooping Option-82\tP\tP\n\t\tSupport DHCP Snooping Circuit-id and Remote-id Customized\tP\tP\n\tDHCPv4 Server\tDHCP Server,  For IPv4\tP\tP\nQuality of Service\tQoS\tSupport QoS Class, Remarking\tP\tP\n\t\tSupport SP, WRR Queue Scheduling\tP\tP\n\t\tIngress Port-based Rate-limit\tP\tP\n\t\tEgress Port-based Rate-limit\tP\tP\n\t\tPolicy-based QoS\tP\tP\n\t\tPort Queue Numbers\t8\t8\nMulticast\tIGMP Snooping\tInternet Group Management Protocol Snooping\tP\tP\n\t\tMulticast Table Size\t1k\t1k\nSecurity functions\tACL\tSupport IP Standard ACL\tP\tP\n\t\tSupport IP Extended ACL\tP\tP\n\t\tSupport Mac ACL\tP\tP\n\t\tSupport IPv6 ACL\tP\tP\n\t\tSupporting ACL  application on VLAN\tP\tP\n\t\tMaximum number of ACL Entrys, Include Input and Output\t240\t480\n\tPort Security\tSupport Port Security\tP\tP\n\tIP Source Gurad\tSupport IP Source Guard, Port-based IP/Mac Binding Access\tP\tP\n\tARP Check\tARP Check(ARP packet filtering)\tP\tP\n\tDdos\tDdos Attack Protection\tP\tP\n\tDot1x\tPort Access Control\tP\tP\n\t\tMac-address Access Control\tP\tP\n\t\tRADIUS Server\tP\tP\n\tAAA\tRADIUS Authentication Access Switch\tP\tP\n\t\tTACACS Authentication Access Switch\tP\tP\n\t\tAuthorization\tP\tP\nreliability\tLoop Detect\tBased on Port or VLAN\tP\tP\n\tVRRP\tVirtual Router Redundancy Protocol\tP\tP\tL3 only\nManagement &\nMonitoring\tDual Stack\tIPv4 and IPv6 Dual Stack Management\tP\tP\n\tSyslog Management\tSyslog Level 7 to 0, Corresponding Debug, Info, Notice, Warning, Err, Critical, Alert\tP\tP\n\t\tSupports Connecting up to 3 Servers\tP\tP\n\t\tFor IPv4 and IPv6\tP\tP\n\tUser management\tSupport Authentication by Password Protection\tP\tP\n\t\tSupport Local Management of User Privilege\tP\tP\n\t\tRemote Authorization by RADIUS or TARCAS\tP\tP\n\t\tSupport User Privilege Level 0 to 15\tP\tP\n\tLogin Service Management\tUp to 8 Users Online Simultaneously by vty\tP\tP\n\t\tAccess Control Based on IPv4 or IPv6 ACL\tP\tP\n\tDevice firmware management\tSupport Firmware Upgrade by WEB\tP\tP\n\t\tSupport Firmware Upgrade by CLI\tP\tP\n\t\tSupport Dual Partition\tP\tP\n\tWeb Management\tWeb Management\tP\tP\n\t\tSupport HTTP V1.1\tP\tP\n\t\tSupport HTTPS\tO\tP\n\t\tFor IPv4 and IPv6\tP\tP\n\tfailure detection\tPing and Tracerout, For IPv4 and IPv6\tP\tP\n\t\tSupport Dying-gasp\tP\tP\n\t\tSupport Optical-DDM\tP\tP\n\t\tSupport One Click Fault Information Collection\tP\tP\n\t\tSupport Cable Detect\tP\tP\n\tNTP\tFor IPv4 and IPv6\tP\tP\n\tConfiguration import/export\tRemote Configuration import/export by FTP/TFTP)\tP\tP\n\t\tLocal Configuration Import/export by USB\tP\tP\n\tsFLOW\tSampled Flow\tP\tP\n\tSNMP\tSupporting Version(SNMP V2C/V3)\tP\tP\n\tRMON\tRMON\tP\tP\nApplication Protocol\n Features\tPoE\tSupport PD Alive Detect\tP\tP\n\t\tSupport PoE Port Power Feeding Priority management\tP\tP\n\t\tSupport PoE Port Power Limit\tP\tP\n\t\tSupport PoE Power Alarm threshold settings\tP\tP\n\t\tSupport PoE Reseve Power settings\tP\tP\n\t\tSupport PoE Legacy Mode\tP\tP\n\t\tIEEE 802.3af, IEEE 802.3at, IEEE 802.3bt\tP\tP\n\tTelnet Server\tSupport Telnet Server, For IPv4 and IPv6\tP\tP\n\tTelnet Client\tSupport Telnet Client, For IPv4 and IPv6\tP\tP\n\tSSH Server\tSupport SSH2 , for IPv4 and IPv6\tP\tP",
+ "sheets": {
+  "Saga software function": {
+   "state": "visible",
+   "rows": [
+    [
+     "Switch Specification",
+     "",
+     "",
+     "Marvell \nAlleyCat 3 series",
+     "Marvell \nAlleyCat 5 series",
+     "Remark"
+    ],
+    [
+     "Ethernet interface",
+     "Port features",
+     "Support IEEE 802.3x Flow Control",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support Interface Counters",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "SupportJumbo Frame, maxium:10222bytes",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "Port aggregation",
+     "Support GE Port Aggregaiton",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support 10GE Port Aggregation",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support Static Aggregation",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support LACP Dynamic Aggragation",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Aggregation Groups creation supported number",
+     "64",
+     "64"
+    ],
+    [
+     "",
+     "",
+     "Number of Each Aggregation Group Members",
+     "8",
+     "8"
+    ],
+    [
+     "Switching features",
+     "VLAN",
+     "IEEE 802.1Q Tagged VLAN",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "MAC-based VLAN",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "IP-based VLAN",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Protocol-based VLAN",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "VLAN Range",
+     "1-4094",
+     "1-4094"
+    ],
+    [
+     "",
+     "Mac- address Table",
+     "Support Static Mac-address Management",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support Dynamic Mac-address Management",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support Filtering Mac-address",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support Mac-address Limit based on port and VLAN",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support Mac-address Flapping based on Port or VLAN",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Mac-address Table Size",
+     "16k",
+     "16k"
+    ],
+    [
+     "",
+     "GVRP",
+     "Normal Mode",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Fixed Mode",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Forbidden Mode",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "QinQ",
+     "Support Port-based QinQ",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support VLAN-based QinQ",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support VLAN-Mapping",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support Flow-based QinQ",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "MSTP",
+     "Support 802.1D STP",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support 802.1W RSTP",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support 802.1S MSTP",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support BPDU Guard",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Number of Single Ring Device Connections* Suggested",
+     "20",
+     "20"
+    ],
+    [
+     "",
+     "ERPS（G.8032)",
+     "Support Major Ring",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support linking the Sub Ring and other Rings",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Recovery Time",
+     "20ms",
+     "20ms"
+    ],
+    [
+     "",
+     "",
+     "Number of Single Ring Device Connections* Suggested",
+     "20",
+     "20"
+    ],
+    [
+     "",
+     "Storm Suppression",
+     "Speed Limited basing on port bandwidth percentage",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support broadcast storm suppression(broadcast; unknown multicast; unknown unicast)",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "SPAN",
+     "Supported Number of Sessions",
+     "7",
+     "7"
+    ],
+    [
+     "",
+     "",
+     "Support Many-to-One Mode",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "RSPAN",
+     "Remote Port mirroring(Remote Switch Port Analyzer)",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "LLDP",
+     "Link Layer Discovery Protocol",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "Port isolation",
+     "Isolate Groups supported number",
+     "1",
+     "1"
+    ],
+    [
+     "IP Routing",
+     "Static Routing",
+     "Support VLAN Interface（SVI） and Route Port",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support IPv4 Static Routing Table Entry Configuration",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support ARP Dynamic Learning and Static Configuration",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support IPv6 Static Routing Table Entry Configuration",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support IPv6 Neighbor Discovery and Static Configuration",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Routing Prefix Table Size For IPv4, for IPv6 Divide by 4",
+     "256",
+     "768"
+    ],
+    [
+     "",
+     "RIP",
+     "Routing Information Protocol",
+     "P",
+     "P",
+     "L3 only"
+    ],
+    [
+     "",
+     "OSPFv2",
+     "Open Shortest Path First",
+     "P",
+     "P",
+     "L3 only"
+    ],
+    [
+     "",
+     "IS-IS",
+     "Intermediate System-to-Intermediate System",
+     "P",
+     "P",
+     "L3 only"
+    ],
+    [
+     "",
+     "BGP4",
+     "Border Gateway Protocol V4",
+     "P",
+     "P",
+     "L3 only"
+    ],
+    [
+     "",
+     "ECMP",
+     "Equal Cost Multi Path",
+     "P",
+     "P",
+     "L3 only"
+    ],
+    [
+     "DHCP",
+     "DHCPv4 Client",
+     "Dynamic Host Configuration Protocol, For IPv4",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "DHCPv6 Client",
+     "Dynamic Host Configuration Protocol For IPv6",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "DHCPv4 Snooping",
+     "Support DHCP Snooping Trust Port",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support DHCP Snooping Option-82",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support DHCP Snooping Circuit-id and Remote-id Customized",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "DHCPv4 Server",
+     "DHCP Server,  For IPv4",
+     "P",
+     "P"
+    ],
+    [
+     "Quality of Service",
+     "QoS",
+     "Support QoS Class, Remarking",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support SP, WRR Queue Scheduling",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Ingress Port-based Rate-limit",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Egress Port-based Rate-limit",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Policy-based QoS",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Port Queue Numbers",
+     "8",
+     "8"
+    ],
+    [
+     "Multicast",
+     "IGMP Snooping",
+     "Internet Group Management Protocol Snooping",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Multicast Table Size",
+     "1k",
+     "1k"
+    ],
+    [
+     "Security functions",
+     "ACL",
+     "Support IP Standard ACL",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support IP Extended ACL",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support Mac ACL",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support IPv6 ACL",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Supporting ACL  application on VLAN",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Maximum number of ACL Entrys, Include Input and Output",
+     "240",
+     "480"
+    ],
+    [
+     "",
+     "Port Security",
+     "Support Port Security",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "IP Source Gurad",
+     "Support IP Source Guard, Port-based IP/Mac Binding Access",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "ARP Check",
+     "ARP Check(ARP packet filtering)",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "Ddos",
+     "Ddos Attack Protection",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "Dot1x",
+     "Port Access Control",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Mac-address Access Control",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "RADIUS Server",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "AAA",
+     "RADIUS Authentication Access Switch",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "TACACS Authentication Access Switch",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Authorization",
+     "P",
+     "P"
+    ],
+    [
+     "reliability",
+     "Loop Detect",
+     "Based on Port or VLAN",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "VRRP",
+     "Virtual Router Redundancy Protocol",
+     "P",
+     "P",
+     "L3 only"
+    ],
+    [
+     "Management &\nMonitoring",
+     "Dual Stack",
+     "IPv4 and IPv6 Dual Stack Management",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "Syslog Management",
+     "Syslog Level 7 to 0, Corresponding Debug, Info, Notice, Warning, Err, Critical, Alert",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Supports Connecting up to 3 Servers",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "For IPv4 and IPv6",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "User management",
+     "Support Authentication by Password Protection",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support Local Management of User Privilege",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Remote Authorization by RADIUS or TARCAS",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support User Privilege Level 0 to 15",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "Login Service Management",
+     "Up to 8 Users Online Simultaneously by vty",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Access Control Based on IPv4 or IPv6 ACL",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "Device firmware management",
+     "Support Firmware Upgrade by WEB",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support Firmware Upgrade by CLI",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support Dual Partition",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "Web Management",
+     "Web Management",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support HTTP V1.1",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support HTTPS",
+     "O",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "For IPv4 and IPv6",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "failure detection",
+     "Ping and Tracerout, For IPv4 and IPv6",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support Dying-gasp",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support Optical-DDM",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support One Click Fault Information Collection",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support Cable Detect",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "NTP",
+     "For IPv4 and IPv6",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "Configuration import/export",
+     "Remote Configuration import/export by FTP/TFTP)",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Local Configuration Import/export by USB",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "sFLOW",
+     "Sampled Flow",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "SNMP",
+     "Supporting Version(SNMP V2C/V3)",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "RMON",
+     "RMON",
+     "P",
+     "P"
+    ],
+    [
+     "Application Protocol\n Features",
+     "PoE",
+     "Support PD Alive Detect",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support PoE Port Power Feeding Priority management",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support PoE Port Power Limit",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support PoE Power Alarm threshold settings",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support PoE Reseve Power settings",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "Support PoE Legacy Mode",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "",
+     "IEEE 802.3af, IEEE 802.3at, IEEE 802.3bt",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "Telnet Server",
+     "Support Telnet Server, For IPv4 and IPv6",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "Telnet Client",
+     "Support Telnet Client, For IPv4 and IPv6",
+     "P",
+     "P"
+    ],
+    [
+     "",
+     "SSH Server",
+     "Support SSH2 , for IPv4 and IPv6",
+     "P",
+     "P"
+    ]
+   ]
+  }
+ },
+ "extracted_at": "2026-10-22T03:44:24Z"
+}

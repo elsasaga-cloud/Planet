@@ -1,0 +1,23 @@
+{
+ "sha256_16": "35edfc3e529f14ca",
+ "name": "STI-050FE (NSI-500F).pdf",
+ "ext": ".pdf",
+ "bytes": 273446,
+ "method": "pdfplumber+OCR(1p)",
+ "status": "ok",
+ "meta": {
+  "pages": 1,
+  "title": "Industrial Ethernet_Realtek Series.pdf",
+  "producer": "Microsoft: Print To PDF",
+  "creationdate": "D:20241119142455+02'00'",
+  "moddate": "D:20241119142455+02'00'",
+  "ocr_pages": 1
+ },
+ "warnings": [],
+ "chars": 1060,
+ "text": "[p1]\n2025/01\nSTI-OS50FE\ns.sagatelecom@gmail.com\nSaga Telecom\nwww.sagatelecom.com.cn\nModel\nSTI-OSOFE\nProduct Name\n5 port 10/100Mbps Industrial Ethernet Switch\n4*10/100M RJ45 port\nFixed Port 1*10/100M Uplink RJ45 port\nBandwidth 1Gbps\nPacket Forwarding 0.74Mpps\nMAC 1K\nBuffer 768K\nLED Indicator\nPW: Power indicator(green)\nUplink port: 10/100M connection indicator light\nPort: green _10M network connection indicator\ngreentorange _100M network connection indicator\nV1: Main power indicator(green)\nV2: Slave power indicator(green)\nPower\nThree groups of independent power input\nSW: DC12-57V\nOperating Temperature\nHumidity\n-40°C~+75°C\n90% RH No condensation\nStorage Temperature\nHumidity\n~+85°C\n5%~95% RH No condensation\nDimension Device: 105*90*36mm.\nL*W*H Packing Box: 200*130*40mm\nN.W/G.W(Kg) 0.5Kg/0.6Kg\nLightning 6KV 8/20us, 8KV ESD electrostatic protection\nProtection level IP40\nInstallation Desktop, Wall, Rack mountable(with mounting hangers)\nCertifieate CE-EMC EN55032; CE-LVD EN62368\nFCC Part 15Class B; RoHS\nWarranty 3 Years\nConnecting, Converting, Creating",
+ "pages": [
+  "2025/01\nSTI-OS50FE\ns.sagatelecom@gmail.com\nSaga Telecom\nwww.sagatelecom.com.cn\nModel\nSTI-OSOFE\nProduct Name\n5 port 10/100Mbps Industrial Ethernet Switch\n4*10/100M RJ45 port\nFixed Port 1*10/100M Uplink RJ45 port\nBandwidth 1Gbps\nPacket Forwarding 0.74Mpps\nMAC 1K\nBuffer 768K\nLED Indicator\nPW: Power indicator(green)\nUplink port: 10/100M connection indicator light\nPort: green _10M network connection indicator\ngreentorange _100M network connection indicator\nV1: Main power indicator(green)\nV2: Slave power indicator(green)\nPower\nThree groups of independent power input\nSW: DC12-57V\nOperating Temperature\nHumidity\n-40°C~+75°C\n90% RH No condensation\nStorage Temperature\nHumidity\n~+85°C\n5%~95% RH No condensation\nDimension Device: 105*90*36mm.\nL*W*H Packing Box: 200*130*40mm\nN.W/G.W(Kg) 0.5Kg/0.6Kg\nLightning 6KV 8/20us, 8KV ESD electrostatic protection\nProtection level IP40\nInstallation Desktop, Wall, Rack mountable(with mounting hangers)\nCertifieate CE-EMC EN55032; CE-LVD EN62368\nFCC Part 15Class B; RoHS\nWarranty 3 Years\nConnecting, Converting, Creating"
+ ],
+ "extracted_at": "2026-10-22T03:45:56Z"
+}

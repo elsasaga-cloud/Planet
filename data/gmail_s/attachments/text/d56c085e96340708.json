@@ -1,0 +1,19 @@
+{
+ "sha256_16": "d56c085e96340708",
+ "name": "image001.png",
+ "ext": ".png",
+ "bytes": 261771,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 780,
+  "height": 236,
+  "mode": "RGB",
+  "thumb_bytes": 7681
+ },
+ "warnings": [],
+ "chars": 198,
+ "text": "Legards.\nRAJIV GOYAL\nManaging Director Cloud Infotech\n+91 98116 66516 | @ RAJIV.GOYAL1986\nworw.cloudinfotech.co.in | 0-92, Sector.63, Noida UP.201301 e000\nSE Seems DINSTAR Richertink Qviqcom P- poly",
+ "extracted_at": "2026-10-22T03:45:27Z"
+}

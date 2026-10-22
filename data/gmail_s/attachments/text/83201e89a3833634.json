@@ -1,0 +1,16 @@
+{
+ "sha256_16": "83201e89a3833634",
+ "name": "STC-4168XGGCM.zip",
+ "ext": ".zip",
+ "bytes": 1592,
+ "method": "archive-extract",
+ "status": "ok",
+ "meta": {
+  "members": 4,
+  "extracted": true
+ },
+ "warnings": [],
+ "chars": 349,
+ "text": "[customize/config]\n//version=\"1.0\";\ncontact=\"\";\nlocation=\"\";\nvendor_oid=56166;\nproduct_name=\"STC-4168XGGCM\";\n\n\n[customize/www/.ico]\n\n\n[customize/www/sysconf.json]\n{\n  \"login_page_help\": \"one of ['lt', 'logo', 'nologo']\",\n  \"login_page\": \"nologo\",\n  \"data_upgrade\":true,\n  \"langs\": [\n    {\n      \"name\": \"English\",\n      \"value\": \"en_US\"\n    }\n  ]\n}\n",
+ "extracted_at": "2026-10-22T03:41:30Z"
+}

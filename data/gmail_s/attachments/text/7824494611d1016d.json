@@ -1,0 +1,24 @@
+{
+ "sha256_16": "7824494611d1016d",
+ "name": "LK-Passport-chip.pdf",
+ "ext": ".pdf",
+ "bytes": 634704,
+ "method": "pdfplumber+OCR(1p)",
+ "status": "ok",
+ "meta": {
+  "pages": 1,
+  "title": "LK-Passport-chip.jpg",
+  "creator": "Preview",
+  "producer": "macOS Version 13.2.1 (Build 22D68) Quartz PDFContext, AppendMode 1.1",
+  "creationdate": "D:20230305181409Z00'00'",
+  "moddate": "D:20230305181449Z00'00'",
+  "ocr_pages": 1
+ },
+ "warnings": [],
+ "chars": 596,
+ "text": "[p1]\nPASAPORT P ASSPORT Tarui/Type The k Kodu/Code of ksuing State Pasaport No./Passport No.\n全 P\nTUR\nseeunors U 14818567\nKILIC\nAdVNctmne Uyrugu/Nationality\nLEVENT TUR\nDogum Tarihl/bate of Birth T c: Kimlik No, it es Identification No.\n18 SUB/FEB 1969 一 422331 24146 :\nCinsiyefi/Sex pogum Yeri/Pliqce of Birth\nE/M ANKARA a\nDiizenleme Tarihi/Date of Issue , Veren Makam/|ssued By\n29 HAZ/JUN 2017 nen _ GOLBASI-ANKARA\nGec¢erlilik Tarihi/Date of Expiry Hamilinin jimzasyHolders Signature\n29 HAZ/JUN 2027 Cs he\nP<TURKILIC<<LEVENT<<<<<<<<<<<<<<<<<<<<<<<<<<\nU148185674TUR6902184M2 70629242233124146<<<04",
+ "pages": [
+  "PASAPORT P ASSPORT Tarui/Type The k Kodu/Code of ksuing State Pasaport No./Passport No.\n全 P\nTUR\nseeunors U 14818567\nKILIC\nAdVNctmne Uyrugu/Nationality\nLEVENT TUR\nDogum Tarihl/bate of Birth T c: Kimlik No, it es Identification No.\n18 SUB/FEB 1969 一 422331 24146 :\nCinsiyefi/Sex pogum Yeri/Pliqce of Birth\nE/M ANKARA a\nDiizenleme Tarihi/Date of Issue , Veren Makam/|ssued By\n29 HAZ/JUN 2017 nen _ GOLBASI-ANKARA\nGec¢erlilik Tarihi/Date of Expiry Hamilinin jimzasyHolders Signature\n29 HAZ/JUN 2027 Cs he\nP<TURKILIC<<LEVENT<<<<<<<<<<<<<<<<<<<<<<<<<<\nU148185674TUR6902184M2 70629242233124146<<<04"
+ ],
+ "extracted_at": "2026-10-22T03:51:10Z"
+}

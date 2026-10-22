@@ -1,0 +1,19 @@
+{
+ "sha256_16": "36e714e4d2ea0b56",
+ "name": "PoE managed.jpg",
+ "ext": ".jpg",
+ "bytes": 194368,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 4088,
+  "height": 1281,
+  "mode": "RGB",
+  "thumb_bytes": 5258
+ },
+ "warnings": [],
+ "chars": 86,
+ "text": "PoE\nLink/Act\nWOd 30d NOOOL/OOL/OL 一\nGigabit Managed PoE Switch\nReset\nConsole PWR® sys@",
+ "extracted_at": "2026-10-22T03:50:25Z"
+}

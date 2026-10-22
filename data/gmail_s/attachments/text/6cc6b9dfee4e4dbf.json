@@ -1,0 +1,19 @@
+{
+ "sha256_16": "6cc6b9dfee4e4dbf",
+ "name": "AngoraLabelFormat.png",
+ "ext": ".png",
+ "bytes": 118160,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 864,
+  "height": 462,
+  "mode": "RGBA",
+  "thumb_bytes": 10421
+ },
+ "warnings": [],
+ "chars": 164,
+ "text": "ANGORA NETWORKS\nVERGE SERIES ETHERNET SWITCHES\nMODEL: ANW-2124-PG\nPOWER: 240W\nINPUT: 220V ANGI.\nVAIO A\nN241023 123 008AE\nMAC ADDRESS: 98:06:37:A0:57:00\nLb\nO\nSs\n6\nAW",
+ "extracted_at": "2026-10-22T03:46:45Z"
+}

@@ -1,0 +1,19 @@
+{
+ "sha256_16": "9b284f131ffcf0df",
+ "name": "testing port 1.jpg",
+ "ext": ".jpg",
+ "bytes": 330759,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 1279,
+  "height": 1706,
+  "mode": "RGB",
+  "thumb_bytes": 13561
+ },
+ "warnings": [],
+ "chars": 1467,
+ "text": "|3 EA - Untitled.cfg - [StatView - 09]\nency Statistics Multiu:\n回 入 |\nixExplorer - 6.00.700\nite | Ean | Mew ucanserit bili\n$a xeeaejans=|a/?|\nlo per 2|©Or>mo mms\ni> pw lOro mann |—\nA\nName\nser Tools Window Help\nmit Capture Collisions Lat\nWe lo ve [ri * HCl a |Sl\nC |\n192 168 10.240:04.01 ， 192.168.10.240.04.02\n| Link Up Link Up\n1000 Mbps 1000 Mbps\nFull Full\n51,006,076,346 51,006,076,346\n0 0\nValid Frames Received 51,006,076,346 §1,006,076,346\n0 0\nValid Frames Received Rate\nBytes Sent 3,264, 388,886,144 3,264,388,886, 144\nBytes Sent Rate 0 0\nBytes Received 3.264,388,886,144 ， 3,264,388,886,144\nBytes Received Rate\nFragments\nUndersize\nOversize and Good CRCs\n| CRC Errors\nVian Tagged Frames\nFlow Control Frames Received\nAlignment Errors\nDribble Errors\nCollisions\n| Late Collisions\nCollision Frames\nExcessive Collision Frames\nOversize and CRC Errors\nUser Defined Stat 1\nUser Defined Stat 2\nCapture Trigger (UDS 3) 51,006,076, 346 51,006,076, 346\nCapture Filter (UDS 4) 51,006,076, 346 51,006,076, 346\nProtocolServer Transmit | |\nProtocolServer Receive\nTransmit Arp Reply\nTransmit Arp Request\nTransmit Ping Reply\nTransmit Ping Request\nReceive Arp Reply\nReceive Arp Request\nReceive Ping Reply\nReceive Ping Request\nTransmit Duration(Cleared on |\nProtocol Server Vian Dropped Fame 人\nScheduled Frames Sent :\n51.006,076,346\n0\nLink State\nLine Speed\nDuplex Mode\nFrames Sent\nFrames Sent Rate\nsceoocococoeoesesccoc coco cS oO\ney\ncoococeceoca\ncococececococc=\n己\n51,006,076,346 |\n計",
+ "extracted_at": "2026-10-22T03:42:43Z"
+}

@@ -1,0 +1,19 @@
+{
+ "sha256_16": "3f7cd46a33333bc5",
+ "name": "user manual description.png",
+ "ext": ".png",
+ "bytes": 486925,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1198,
+  "height": 471,
+  "mode": "RGBA",
+  "thumb_bytes": 7601
+ },
+ "warnings": [],
+ "chars": 382,
+ "text": "User Manual\nur mara for safe and cate se\nLS Se ay\nshou general information, plese RN\nProduct purchased,\n\\s advised to keep the wer manual prope.\n{© Pease tet us know for any usage problem ot query.\nPacking List\n1, Sait See the prot abel for more det\n2. Rover Cond (Sundanle vary actor coun\n}, Comte Casa Connevin)\n44 Rackets, Screws (Rack Mowe)\nUser Manoa! (hinted Copy)\nApplication",
+ "extracted_at": "2026-10-22T03:46:46Z"
+}

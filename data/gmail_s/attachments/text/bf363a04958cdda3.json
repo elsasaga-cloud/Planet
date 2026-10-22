@@ -1,0 +1,19 @@
+{
+ "sha256_16": "bf363a04958cdda3",
+ "name": "Sublime - Teltonika Certification Level 1 - 2.png",
+ "ext": ".png",
+ "bytes": 899702,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1080,
+  "height": 1080,
+  "mode": "RGB",
+  "thumb_bytes": 19522
+ },
+ "warnings": [],
+ "chars": 1008,
+ "text": "‘SUBLIME TELECOM SON BHO\nTHE COURSE CONSISTS OF MULTIPLE MODULES COVERING THE FOLLOWING:\nNetworking Basics\nOSI(TCP/IP)\nIP & MAC addresses\nIP Types\nNetworks Types.\nDHCP\nNAT\nRouting\nTeltonika Networks Devices\nRouters\nSwitches\nAccess Points\nGateways\nModems\nOperational System\nOS in general\nRUTOS/TSWOS Background\nWebUI/CLI\nSDK\nPackage Manager\nUsage RUTOS\nRemote Management System Teltonika Networks Internal Systems\n。 Platform * Helpdesk\n* Main functionalities * Wiki Knowledge Base\n* Account creation * Web Site\n‧ Users & Companies ‧ Community Forum\n‧ How to add a device ‧ RMS API\n* How to use remote access ‧ RUTOS API\nHow to use RMS Connect\nUse Cases\nAutomation\nEnergy\nRetail\nTransportation\nSmart City\nEnterprise\nTroubleshooting\nHow to download TS file\nWhat is included in the TS file\nHow to find logs\nHow to send AT commands\nWhere to find AT commands Manual\nHow to work with TCP Dump files\nFor more information:\nSublime Telecom\nEmail : salesesublimetele.com\nPhone : Zhek +6016-305 0261\n: Mar +6010-240 0261",
+ "extracted_at": "2026-10-22T03:44:40Z"
+}

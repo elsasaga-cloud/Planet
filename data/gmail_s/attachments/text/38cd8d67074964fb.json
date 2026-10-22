@@ -1,0 +1,19 @@
+{
+ "sha256_16": "38cd8d67074964fb",
+ "name": "management interface.png",
+ "ext": ".png",
+ "bytes": 211740,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1829,
+  "height": 839,
+  "mode": "RGBA",
+  "thumb_bytes": 6472
+ },
+ "warnings": [],
+ "chars": 322,
+ "text": "C 全 Notsecure\nx +\n192.168.56.166/#/monitor/dashi\nH\nSystem Information\nCPU\nMemory\nProduct ID Model name\nProduct SN\nMAC Address: 78-D0-44-44-12-0A\nHardware Version: 1.0\n64.68%\n99%\nSoftware Version\nUptime: 16 min\n[_) selected\nAG Port 的 Trunk Port (fy Ue 国 shutdown\n[_] copper [5] Fiver\n16 15 14 13 8 6 4\noOoos\n1000 Oooo\n5 3 1",
+ "extracted_at": "2026-10-22T03:47:53Z"
+}

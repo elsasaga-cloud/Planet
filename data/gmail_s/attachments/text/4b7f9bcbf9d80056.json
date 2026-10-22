@@ -1,0 +1,23 @@
+{
+ "sha256_16": "4b7f9bcbf9d80056",
+ "name": "2+2+8.jpg",
+ "ext": ".jpg",
+ "bytes": 307737,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 1047,
+  "height": 395,
+  "mode": "RGB",
+  "datetime": "2022:07:14 10:36:25",
+  "make": "Canon",
+  "model": "Canon EOS 70D",
+  "software": "Adobe Photoshop CC (Windows)",
+  "thumb_bytes": 8146
+ },
+ "warnings": [],
+ "chars": 51,
+ "text": "SIZ+ 3od398\nUu211AS paseuew\nLink 一 PoE\na\niS\na\n=\n3\n=",
+ "extracted_at": "2026-10-22T03:49:13Z"
+}

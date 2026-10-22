@@ -1,0 +1,19 @@
+{
+ "sha256_16": "05e515b10b153a84",
+ "name": "page 13 of PROFILE.png",
+ "ext": ".png",
+ "bytes": 166967,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1413,
+  "height": 758,
+  "mode": "RGBA",
+  "thumb_bytes": 8685
+ },
+ "warnings": [],
+ "chars": 911,
+ "text": "6\nTelecom\npany Information\nion\nnercial Contract\nuct Category\nng Rule\niload Link\nnercial Ethernet\nsical Application\ndel List\nsical Models\nical Photos\n12\n14\n15\n15\n20\n21\nDownload Link\nfe are some links for each product category.\nGeneral access\nAnyone with the link w\nAnyone on the internet with the link can edit (sign in\nrequired)\nEditor w\n© Commercial Switch\nhttps://drive google We/folders/IvzysOR8vsniAUnfSNC8_FSHfMWDPSGa3?usp=sharing\njal Unmanaged Switch\nhttps://drive google.com/drive/folders/IPKhmEboNZk1 1 05nBUotOBcTBrH9qX6EU2usp=sharing\n© Industrial Managed Switch\nhttps://drive.google.com/drive/folders/1i4j1kI-_gW6HSqd_qw7ivs]CVOvNI_ td?usp=sharing\n© Din Power Adapter\nhttps://drive google.com/drive/folders/I EOLyK ditssoswel9z-EkBm9g2I7MQxoJ usp=sharing,\n© Ethernet Media Converter\nhttps://drive.google.com/drive/folders/IQU_VA4ZfRqWux_zAkQbDyD4PH8M3cgxt?usp=sharin\ng\n© Optical Module\n© PoE Accessory",
+ "extracted_at": "2026-10-22T03:49:55Z"
+}

@@ -1,0 +1,29 @@
+{
+ "sha256_16": "2e5c5ff816e6366e",
+ "name": "Vilink Logo 2440.pdf",
+ "ext": ".pdf",
+ "bytes": 694015,
+ "method": "pdfplumber",
+ "status": "ok",
+ "meta": {
+  "pages": 6,
+  "author": "tonypvilink@outlook.com",
+  "creator": "Microsoft® Visio® 2010",
+  "producer": "Microsoft® Visio® 2010",
+  "creationdate": "D:20240417120327-07'00'",
+  "moddate": "D:20240417120327-07'00'",
+  "ocr_pages": 0
+ },
+ "warnings": [],
+ "chars": 1238,
+ "text": "[p1]\nVL Vi-Link VL Vi-Link\nFiber Optic Communications Fiber Optic Communications\nModel MC100 Model MC100SFP\nFiber Optic Media Converter Fiber Optic Media Converter\nEthernet 10/100M Base-TX To Ethernet 100M SC Conversion Ethernet 10/100M Base-TX To Ethernet 100M SFP Conversion\nVL Vi-Link VL Vi-Link\nFiber Optic Communications Fiber Optic Communications\nModel MC1000 Model MC10G\nFiber Optic Media Converter Fiber Optic 10 Gigabits Media Converter\nEthernet 10/100/1000M Base-TX To Ethernet 1000M SFP Conversion Ethernet 10G Base-TX To Ethernet 10G SFP Conversion\n\n[p2]\nVL Vi-Link VL Vi-Link\nFiber Optic Communications Fiber Optic Communications\nModel HL1D Model HL8D\nTX RX TX RX\nFiber Optic HD Video 1080P Transmission Fiber Optic HD Video 1080P Transmission\n1 Channel HD TVI/CVI/AHD Video & PTZ Data To ST Fiber Conversion 8 Channels HD TVI/CVI/AHD Video & PTZ Data To ST Fiber Conversion\n\n[p3]\nVL Vi-Link\nFiber Optic Communications\n24 Ports Fiber Ethernet Switch\nModel EN2440\n\n[p4]\nVL Vi-Link\nFiber Optic Communications\nModel AO1-3\n10GB – AOC Active Optical Ethernet Cable\nVL Vi-Link\nFiber Optic Communications\nModel AE1-3\n10GB – DAC Direct Active Ethernet Cable\n\n[p5]\nVL Vi-Link\nModel ISC100\n\n[p6]\nVVLL Vi-Link\nFiber Optic Communications",
+ "pages": [
+  "VL Vi-Link VL Vi-Link\nFiber Optic Communications Fiber Optic Communications\nModel MC100 Model MC100SFP\nFiber Optic Media Converter Fiber Optic Media Converter\nEthernet 10/100M Base-TX To Ethernet 100M SC Conversion Ethernet 10/100M Base-TX To Ethernet 100M SFP Conversion\nVL Vi-Link VL Vi-Link\nFiber Optic Communications Fiber Optic Communications\nModel MC1000 Model MC10G\nFiber Optic Media Converter Fiber Optic 10 Gigabits Media Converter\nEthernet 10/100/1000M Base-TX To Ethernet 1000M SFP Conversion Ethernet 10G Base-TX To Ethernet 10G SFP Conversion",
+  "VL Vi-Link VL Vi-Link\nFiber Optic Communications Fiber Optic Communications\nModel HL1D Model HL8D\nTX RX TX RX\nFiber Optic HD Video 1080P Transmission Fiber Optic HD Video 1080P Transmission\n1 Channel HD TVI/CVI/AHD Video & PTZ Data To ST Fiber Conversion 8 Channels HD TVI/CVI/AHD Video & PTZ Data To ST Fiber Conversion",
+  "VL Vi-Link\nFiber Optic Communications\n24 Ports Fiber Ethernet Switch\nModel EN2440",
+  "VL Vi-Link\nFiber Optic Communications\nModel AO1-3\n10GB – AOC Active Optical Ethernet Cable\nVL Vi-Link\nFiber Optic Communications\nModel AE1-3\n10GB – DAC Direct Active Ethernet Cable",
+  "VL Vi-Link\nModel ISC100",
+  "VVLL Vi-Link\nFiber Optic Communications"
+ ],
+ "extracted_at": "2026-10-22T03:47:53Z"
+}

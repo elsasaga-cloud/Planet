@@ -1,0 +1,147 @@
+{
+ "sha256_16": "b3ce22a36bf8fd0f",
+ "name": "PL_STSC20250117007.xls",
+ "ext": ".xls",
+ "bytes": 147968,
+ "method": "xlrd",
+ "status": "ok",
+ "meta": {
+  "sheets": [
+   "Packing List"
+  ],
+  "rows_total": 18
+ },
+ "warnings": [],
+ "chars": 895,
+ "text": "--- Sheet: Packing List ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nMob/WhatsApp/WeChat: 86 15237149683\nWeb:www.sagatelecom.com.cn\nEmail: s.sagatelecom@gmail.com\nPacking  List\nDate\t2025.02.28\t\t\t\t\t\t\t\tP/O No.\nShip To\tANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.\t\t\t\t\t\t\t\tP/I No.\tSTSC20250117007\nShipping Add.\tÇamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle  06200 Ankara Turkey\t\t\t\t\t\t\t\tP/L No.\tPL20250228001\nC/No.:\tDESCRIPTION\tQTY/CTN\tQTY/PCS\tCTNS\tN.W/Kg\tG.W/Kg\tLENGTH/CM\tWIDTH/CM\tHEIGHT/CM\tMEAS/CM³\n1~22\tANW-2116-PG\t8\t176\t22\t444.4\t466.4\t53.5\t40\t40.8\t1.920864\n23\tANW-2116-PG\t2\t2\t1\t4.5\t5.5\t37\t31.5\t20.5\t0.023893\nTOTAL\t\t\t178\t23\t448.9\t471.9\t\t\t\t1.944757\nSAY TOTAL: TWENTY THREE(23)CARTONS ONLY\nQUANTITY: ONE HUNDRED AND SEVENTY EIGHT PCS ONLY\nIssued by: Zhengzhou Saga Telecom Co., Ltd.\nSimon Cheng",
+ "sheets": {
+  "Packing List": {
+   "rows": [
+    [
+     "Zhengzhou Saga Telecom Co., Ltd."
+    ],
+    [
+     "Connecting, Converting, Creating"
+    ],
+    [
+     "Tailored Marvell Managed Networking Solutions Provider"
+    ],
+    [
+     "Mob/WhatsApp/WeChat: 86 15237149683"
+    ],
+    [
+     "Web:www.sagatelecom.com.cn"
+    ],
+    [
+     "Email: s.sagatelecom@gmail.com"
+    ],
+    [
+     "Packing  List"
+    ],
+    [
+     "Date",
+     "2025.02.28",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "P/O No."
+    ],
+    [
+     "Ship To",
+     "ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "P/I No.",
+     "STSC20250117007"
+    ],
+    [
+     "Shipping Add.",
+     "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle  06200 Ankara Turkey",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "P/L No.",
+     "PL20250228001"
+    ],
+    [
+     "C/No.:",
+     "DESCRIPTION",
+     "QTY/CTN",
+     "QTY/PCS",
+     "CTNS",
+     "N.W/Kg",
+     "G.W/Kg",
+     "LENGTH/CM",
+     "WIDTH/CM",
+     "HEIGHT/CM",
+     "MEAS/CM³"
+    ],
+    [
+     "1~22",
+     "ANW-2116-PG",
+     "8",
+     "176",
+     "22",
+     "444.4",
+     "466.4",
+     "53.5",
+     "40",
+     "40.8",
+     "1.920864"
+    ],
+    [
+     "23",
+     "ANW-2116-PG",
+     "2",
+     "2",
+     "1",
+     "4.5",
+     "5.5",
+     "37",
+     "31.5",
+     "20.5",
+     "0.023893"
+    ],
+    [
+     "TOTAL",
+     "",
+     "",
+     "178",
+     "23",
+     "448.9",
+     "471.9",
+     "",
+     "",
+     "",
+     "1.944757"
+    ],
+    [
+     "SAY TOTAL: TWENTY THREE(23)CARTONS ONLY"
+    ],
+    [
+     "QUANTITY: ONE HUNDRED AND SEVENTY EIGHT PCS ONLY"
+    ],
+    [
+     "Issued by: Zhengzhou Saga Telecom Co., Ltd."
+    ],
+    [
+     "Simon Cheng"
+    ]
+   ]
+  }
+ },
+ "extracted_at": "2026-10-22T03:44:02Z"
+}

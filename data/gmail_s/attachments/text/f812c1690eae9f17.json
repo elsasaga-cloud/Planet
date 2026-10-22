@@ -1,0 +1,21 @@
+{
+ "sha256_16": "f812c1690eae9f17",
+ "name": "image001.jpg",
+ "ext": ".jpg",
+ "bytes": 108652,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 1000,
+  "height": 200,
+  "mode": "RGB",
+  "datetime": "2024:01:18 14:30:13",
+  "software": "Adobe Photoshop CC 2015 (Windows)",
+  "thumb_bytes": 5489
+ },
+ "warnings": [],
+ "chars": 69,
+ "text": "MSRock etEon OEM\net on ORing 3onedaa @robustel| 路\nEmdoor 必中 DARGUEEN®",
+ "extracted_at": "2026-10-22T03:48:20Z"
+}

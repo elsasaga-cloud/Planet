@@ -1,0 +1,19 @@
+{
+ "sha256_16": "a5548f2dc01ff052",
+ "name": "Vi-LinkLogo MC1400.jpg",
+ "ext": ".jpg",
+ "bytes": 284236,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 3128,
+  "height": 1384,
+  "mode": "RGB",
+  "thumb_bytes": 7314
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:45:19Z"
+}

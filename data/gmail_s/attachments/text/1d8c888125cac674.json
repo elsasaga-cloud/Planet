@@ -1,0 +1,19 @@
+{
+ "sha256_16": "1d8c888125cac674",
+ "name": "front.jpg",
+ "ext": ".jpg",
+ "bytes": 251944,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 1920,
+  "height": 1080,
+  "mode": "RGB",
+  "thumb_bytes": 9407
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:46:33Z"
+}

@@ -1,0 +1,19 @@
+{
+ "sha256_16": "304e601f63ff4380",
+ "name": "flat 8p PoE.JPG",
+ "ext": ".jpg",
+ "bytes": 181733,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 896,
+  "height": 734,
+  "mode": "RGB",
+  "thumb_bytes": 13814
+ },
+ "warnings": [],
+ "chars": 140,
+ "text": "中 村 要 寺村\n9-Port IO/IOOMpbs Switch w/8-Port PoE\nModel: WB- 908\n8-Port FE PoE+1-Port UP-Link\nExternal Power 60-150W\nDC48~56/IN\nIEEE802. 3af/at",
+ "extracted_at": "2026-10-22T03:47:00Z"
+}

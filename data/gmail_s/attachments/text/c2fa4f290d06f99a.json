@@ -1,0 +1,19 @@
+{
+ "sha256_16": "c2fa4f290d06f99a",
+ "name": "PCB.png",
+ "ext": ".png",
+ "bytes": 374578,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "PNG",
+  "width": 1497,
+  "height": 1078,
+  "mode": "RGBA",
+  "thumb_bytes": 19064
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:41:24Z"
+}

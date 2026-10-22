@@ -1,0 +1,19 @@
+{
+ "sha256_16": "c3fd7ca92138c6b4",
+ "name": "24 port Din.png",
+ "ext": ".png",
+ "bytes": 354184,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "PNG",
+  "width": 515,
+  "height": 751,
+  "mode": "RGBA",
+  "thumb_bytes": 14299
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:42:56Z"
+}

@@ -1,0 +1,21 @@
+{
+ "sha256_16": "dedd34c1058f6b34",
+ "name": "8+12-serial.jpg",
+ "ext": ".jpg",
+ "bytes": 2366104,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 2089,
+  "height": 3301,
+  "mode": "RGB",
+  "datetime": "2025:01:03 13:00:46",
+  "software": "Adobe Photoshop CS6 (Windows)",
+  "thumb_bytes": 11592
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:45:04Z"
+}

@@ -1,0 +1,23 @@
+{
+ "sha256_16": "803029a506d161ba",
+ "name": "Label.pdf",
+ "ext": ".pdf",
+ "bytes": 214474,
+ "method": "pdfplumber",
+ "status": "ok",
+ "meta": {
+  "pages": 1,
+  "author": "Simon",
+  "creator": "WPS 文字",
+  "creationdate": "D:20241120222732+14'27'",
+  "moddate": "D:20241120222732+14'27'",
+  "ocr_pages": 0
+ },
+ "warnings": [],
+ "chars": 607,
+ "text": "[p1]\n2025/Q1 s.sagatelecom@gmail.com\nSagaTelecom\nwww.sagatelecom.com.cn\nUnmanaged\nManaged\nProductCategory:\nPorts:\nPowerinput:\nGraphs:\nSN:\n1. Size:80*50mm\n2. SagaTelecomsupportsprintingyourlogo/modelname,serialnumber\n3. StandardlanguageisEnglish\nIfadifferentlanguageisadoptedlikeRussian,Italian,Korean...\nPleaseshareEXACTtranslation,wewillsimplycopyandprint\n4. Barcodesarescannableforinboundstatistics\n5. “MadeinChina”canberemovedifrequired\n6. Anexamplephotowillbesharedforconfirmationbeforemassprintingforabulkorder.\nAllofthisisfreeofcost.\nPleasejustletusknowtheformatyouneed.\nConnecting,Converting,Creating",
+ "pages": [
+  "2025/Q1 s.sagatelecom@gmail.com\nSagaTelecom\nwww.sagatelecom.com.cn\nUnmanaged\nManaged\nProductCategory:\nPorts:\nPowerinput:\nGraphs:\nSN:\n1. Size:80*50mm\n2. SagaTelecomsupportsprintingyourlogo/modelname,serialnumber\n3. StandardlanguageisEnglish\nIfadifferentlanguageisadoptedlikeRussian,Italian,Korean...\nPleaseshareEXACTtranslation,wewillsimplycopyandprint\n4. Barcodesarescannableforinboundstatistics\n5. “MadeinChina”canberemovedifrequired\n6. Anexamplephotowillbesharedforconfirmationbeforemassprintingforabulkorder.\nAllofthisisfreeofcost.\nPleasejustletusknowtheformatyouneed.\nConnecting,Converting,Creating"
+ ],
+ "extracted_at": "2026-10-22T03:45:36Z"
+}

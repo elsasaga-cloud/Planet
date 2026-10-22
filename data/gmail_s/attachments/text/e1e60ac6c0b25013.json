@@ -1,0 +1,19 @@
+{
+ "sha256_16": "e1e60ac6c0b25013",
+ "name": "Vi-Link Logo New.jpg",
+ "ext": ".jpg",
+ "bytes": 201307,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 2304,
+  "height": 1536,
+  "mode": "RGB",
+  "thumb_bytes": 7915
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:41:11Z"
+}

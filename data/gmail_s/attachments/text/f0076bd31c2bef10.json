@@ -1,0 +1,384 @@
+{
+ "sha256_16": "f0076bd31c2bef10",
+ "name": "TT-RFP-TR.docx",
+ "ext": ".docx",
+ "bytes": 10248,
+ "method": "python-docx(段落+表格+文本框+页眉页脚)",
+ "status": "ok",
+ "meta": {
+  "title": "Word Document",
+  "author": "",
+  "last_modified_by": "python-docx",
+  "created": "",
+  "modified": "2026-10-22T03:47:59+00:00",
+  "paragraphs": 72,
+  "tables": 0,
+  "embedded_images": 0
+ },
+ "warnings": [],
+ "chars": 6719,
+ "text": "7. TEKNİK ÖZELLİKLER\n7.1. Cihaz endüstriyel tip olmalı ve ağır çevresel şartlara karşı dayanıklı olmalıdır. Cihazın bu dayanıklılığının garanti edilebilmesi için aşağıdaki sertifikalara sahip olabilmeli ve gerektiğinde bunlarla ilgili test raporları ilgili kuruma sunulabilmelidir.\n• IEC 61000-4-2 (ESD)\n• IEC 61000-4-3 (RS)\n• IEC 61000-4-4 (EFT)\n• IEC 61000-4-5 (Surge)\n• IEC 61000-4-6 (CS)\n• EN 55032: 2012/AC: 2013 (CE & RE) Class B\nKABUL EDİLDİ\n7.2. Eğer Madde 2.4 ‘te bulunan sertifikalar sağlanamıyorsa cihazın endüstriyel tipte olduğu ve ağır çevresel şartlara karşı dayanıklı olduğu, yıldırım düşmesi, enerji problemleri vb. şartlarda arızalanmayacak şekilde gerekli korumalara sahip olduğu firma tarafından garanti edilmeli ve üründe meydana gelen tüm arızalar garanti kapsamında giderilmelidir.\nKABUL EDİLDİ\n7.3. Teklif edilecek cihaz 4/6/8 adet 10/100/1000Mbps hızlarında çalışabilecek bakır ethernet portlarına sahip olacaktır. Ayrıca cihaz üzerinde en az 2 adet 1 / 2.5 Gbps hızlarını destekleyecek SFP modül yuvası bulunacaktır.\nKABUL EDİLDİ\n7.4.\n7.5. Cihaz ile birlikte üreticinin kendi ürettiği (OEM olmadığı, üretim belgeleri ile ispatlanacaktır) 1 adet 1000 Base-LX SFP modülü TT tarafından talep edilebilecektir. Talep edilen modülün fiyatı teklif fiyat listesinde belirtilecektir.\nKABUL EDİLDİ\n7.6.  Endüstriyel Switch üzerinde en az 4/6/8 (iki/dört/sekiz) adet 10/100/1000Base-T/TX RJ45 autosense MDI/MDI-x portu ve en az 2 (iki) adet 100/1000/2500MbpsBaseSFP port bulunacaktır. SFP portlara 1000Base-SX, 1000Base-LX, 1000Base-T/TX, 2.5GBase-SX ve 2.5GBase-LX modüller takılabilecektir. Verilecek olan transceiver modüller Endüstriyel Switch üreticisi tarafından üretilmiş orijinal modüller olacaktır. OEM modüller kabul edilmeyecektir.\nKABUL EDİLDİ\n7.7. Endüstriyel Switch üzerinde en az 512 (beş yüz on iki) MB RAM ve en az 128 (yüz yirmi sekiz) MB flash bellek bulunacaktır.\nKABUL EDİLDİ\n7.8. En az 16000 (on altı bin) adet MAC adresi desteklenecektir.\nKABUL EDİLDİ\n7.9. Endüstriyel Switch aşırı akım ve aşırı gerilim koruma devresi içerecektir.\nKABUL EDİLDİ\n7.10. Endüstriyel Switch IP40 standartlarında tamamen metal harici muhafazaya sahip olacaktır.\nKABUL EDİLDİ\n7.11. Endüstriyel Switch 19 inch rack kabinete monte edilebilmesi için gerekli aparatlara sahip olmalıdır.\nKABUL EDİLDİ\n7.12. Endüstriyel Switch üzerindeki tüm portlar aynı anda tıkanmasız ve kablo hızında çalışabilecektir.\nKABUL EDİLDİ\n7.13. Endüstriyel Switch, IEEE 802.1q VLAN protokolü desteklemelidir. En az 256 (iki yüz elli eltı) adet aktif VLAN ve 4000 (dört bin) adet VLAN ID desteğine sahip olacaktır.\nKABUL EDİLDİ\n7.14. Endüstriyel Switch, IEEE 802.1D mac bridging standartlarını desteklemelidir. Ayrıca farklı alt ağlar üzerinde, bağımsız olarak, döngüleri engellemek üzere, 802.1s MST protokolünü ve hızlı yakınsama için 802.1w protokolünü desteklemelidir..\nKABUL EDİLDİ\n7.15. Cihaz RING protokolü desteklemelidir. Yedekli bağlantı üzerinden trafik akışı geçişi 20ms (yirmi milisaniye) altında olmalıdır.\nKABUL EDİLDİ\n7.16. Endüstriyel Switch 802.3ad protokolü destekleyecek, en az 8 (sekiz) adet aynı özellikteki portu gruplayabilecektir (port-channel).\nKABUL EDİLDİ\n7.17. Endüstriyel Switch 10K boyutlara kadar Jumbo Frame desteklemelidir.\nKABUL EDİLDİ\n7.18. Endüstriyel Switch üzerinde DHCP kapsamları tanımlanabilmeli ve uç cihazlara IP adresi ve gerekli diğer bilgileri gönderebilmelidir.\nKABUL EDİLDİ\n7.19.  Endüstriyel Switch kendisine bağlı diğer cihazların tespiti için 802.1ab Link Layer Discovery Protocol desteği sağlamalıdır. Böylelikle komşu olduğu cihazlarla ilgili bilgileri toplayabilecek, kendisi ile ilgili bilgileri de komşularına iletebilecektir.\nKABUL EDİLDİ\n7.20.  Endüstriyel Switch Türk Telekom’un daha öncesinde vermiş oldugu konfigurasyonlar yapılandırılmış olarak sahalara gönderilecektir.\nKABUL EDİLDİ\n7.21. Endüstriyel Switch servis kalitesi yapılandırmasını desteklemelidir. Her port için gelen trafik yönünde hız limitleme ve giden trafik yönünde trafik şekillendirme, 8 adet donanımsal kuyruk, ağırlıklı ve kesin önceliklendirme desteği, DSCP, 802.1p Class of service, ToS temelli, sınıflandırma ve yeniden işaretleme, sıkışıklık önleme algoritması servis özellikleri bulunmalıdır.\nKABUL EDİLDİ\n7.22. Endüstriyel Switch 2.katman güvenliğini sağlamak amacıyla en az Dynamic ARP Inspection veya Dynamic ARP Protection, DHCP Snooping, Management ACL, L2/L3/L4 Access Control Lists, Ip Source Guard güvenlik önlemlerini alabilecek veya ilgili protokolleri destekleyecektir.\nKABUL EDİLDİ\n7.23. Endüstriyel Switch statik yönlendirme ve tanımlı vlan arayüzleri arasında yönlendirmeyi desteklemelidir.\nKABUL EDİLDİ\n7.24. Port mirroring desteği bulunacaktır. Birden fazla kaynak portu, hedef portuna aynalanabilecektir.\nKABUL EDİLDİ\n7.25. Endüstriyel Switch yönetim amaçlı olarak, SNMP v3, HTTPS SSHv2 ve sFTP özelliklerini desteklemelidir.\nKABUL EDİLDİ\n7.26. Endüstriyel Switch HTTPS tabanlı web arayüzünden gerekli bütün configurasyonlar yapılabilir olmalıdır. Ayrıca bu web arayuzunın türkçe dil desteği olmalıdır.\nKABUL EDİLDİ\n7.27. Endüstriyel Switch firmware guncellemelerini içerisene daha önceden yazılmış sunucunun dosya uzantısındaki güncel fimware dosyasıyla sFTP protokolu üzerinden güncelleyebilecektir.\nKABUL EDİLDİ\n7.28. Endüstriyel Switch üzerinde gerçekleşen olay ve alarmlar , SNMP Trap ve syslog protokolleri kullanılarak harici sistemlere gönderilebilecektir. Olayve Alarmlar SNMP get yapılarak periyodik olarakta sorgulabilmelidir. Ayrıca sflow protokollerinden birisini kullanarak, trafikle ilgili örneklendirme yapabilecek ve bu örnekleri harici sistemlere gönderebilecektir.\nKABUL EDİLDİ\n7.29.  Cihazlar Konsol portuna sahip olacaktır. Cihazın tüm fonksiyonları konsol veya SSHv2 ile erişilebilen komut satırı üzerinden yapılabilecektir.\nKABUL EDİLDİ\n7.30. Cihaz yönetim amacıyla kimlik doğrulamasını TACACS veya Radius protokolü kullanarak, merkezi bir kimlik doğrulama sunucusundan yapabilecektir.\nKABUL EDİLDİ\n7.31.  Endüstriyel Switchlar harici bir yönetim platformu talep edilmesi durumda saglanabiliyor olmalıdır. Yönetim platformu en az 250 cihazı ilave lisans gerektirmeden sağlamalıdır.\nKABUL EDİLDİ\n7.32. Yönetim platformu talep edilmesi durumda, mevcut yapıda çalışan farklı markalı Endüstriyel Switchlerın monitörleme işlemini detaylı olarak yapabilmelidir. Bu özellik için ilave bedel talep edilmemelidir.\nKABUL EDİLDİ\n7.33.  Yönetim platformu talep edilmesi durumda, farklı marka cihazların, asgari olarak portların tüm durum, vlan bilgilerini, bağlı kullanıcı ve mac adres bilgilerini, arayüzlerden geçen trafiğin grafiksel gösterimini, cihazların sıcaklık ve işlemci kullanımlarını ve komşu cihaz bilgilerini gösterme yeteneği olmalıdır.\nKABUL EDİLDİ",
+ "blocks": [
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7. TEKNİK ÖZELLİKLER"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.1. Cihaz endüstriyel tip olmalı ve ağır çevresel şartlara karşı dayanıklı olmalıdır. Cihazın bu dayanıklılığının garanti edilebilmesi için aşağıdaki sertifikalara sahip olabilmeli ve gerektiğinde bunlarla ilgili test raporları ilgili kuruma sunulabilmelidir."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "• IEC 61000-4-2 (ESD)"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "• IEC 61000-4-3 (RS)"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "• IEC 61000-4-4 (EFT)"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "• IEC 61000-4-5 (Surge)"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "• IEC 61000-4-6 (CS)"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "• EN 55032: 2012/AC: 2013 (CE & RE) Class B"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.2. Eğer Madde 2.4 ‘te bulunan sertifikalar sağlanamıyorsa cihazın endüstriyel tipte olduğu ve ağır çevresel şartlara karşı dayanıklı olduğu, yıldırım düşmesi, enerji problemleri vb. şartlarda arızalanmayacak şekilde gerekli korumalara sahip olduğu firma tarafından garanti edilmeli ve üründe meydana gelen tüm arızalar garanti kapsamında giderilmelidir."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.3. Teklif edilecek cihaz 4/6/8 adet 10/100/1000Mbps hızlarında çalışabilecek bakır ethernet portlarına sahip olacaktır. Ayrıca cihaz üzerinde en az 2 adet 1 / 2.5 Gbps hızlarını destekleyecek SFP modül yuvası bulunacaktır."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.4."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.5. Cihaz ile birlikte üreticinin kendi ürettiği (OEM olmadığı, üretim belgeleri ile ispatlanacaktır) 1 adet 1000 Base-LX SFP modülü TT tarafından talep edilebilecektir. Talep edilen modülün fiyatı teklif fiyat listesinde belirtilecektir."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.6.  Endüstriyel Switch üzerinde en az 4/6/8 (iki/dört/sekiz) adet 10/100/1000Base-T/TX RJ45 autosense MDI/MDI-x portu ve en az 2 (iki) adet 100/1000/2500MbpsBaseSFP port bulunacaktır. SFP portlara 1000Base-SX, 1000Base-LX, 1000Base-T/TX, 2.5GBase-SX ve 2.5GBase-LX modüller takılabilecektir. Verilecek olan transceiver modüller Endüstriyel Switch üreticisi tarafından üretilmiş orijinal modüller olacaktır. OEM modüller kabul edilmeyecektir."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.7. Endüstriyel Switch üzerinde en az 512 (beş yüz on iki) MB RAM ve en az 128 (yüz yirmi sekiz) MB flash bellek bulunacaktır."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.8. En az 16000 (on altı bin) adet MAC adresi desteklenecektir."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.9. Endüstriyel Switch aşırı akım ve aşırı gerilim koruma devresi içerecektir."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.10. Endüstriyel Switch IP40 standartlarında tamamen metal harici muhafazaya sahip olacaktır."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.11. Endüstriyel Switch 19 inch rack kabinete monte edilebilmesi için gerekli aparatlara sahip olmalıdır."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.12. Endüstriyel Switch üzerindeki tüm portlar aynı anda tıkanmasız ve kablo hızında çalışabilecektir."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.13. Endüstriyel Switch, IEEE 802.1q VLAN protokolü desteklemelidir. En az 256 (iki yüz elli eltı) adet aktif VLAN ve 4000 (dört bin) adet VLAN ID desteğine sahip olacaktır."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.14. Endüstriyel Switch, IEEE 802.1D mac bridging standartlarını desteklemelidir. Ayrıca farklı alt ağlar üzerinde, bağımsız olarak, döngüleri engellemek üzere, 802.1s MST protokolünü ve hızlı yakınsama için 802.1w protokolünü desteklemelidir.."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.15. Cihaz RING protokolü desteklemelidir. Yedekli bağlantı üzerinden trafik akışı geçişi 20ms (yirmi milisaniye) altında olmalıdır."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.16. Endüstriyel Switch 802.3ad protokolü destekleyecek, en az 8 (sekiz) adet aynı özellikteki portu gruplayabilecektir (port-channel)."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.17. Endüstriyel Switch 10K boyutlara kadar Jumbo Frame desteklemelidir."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.18. Endüstriyel Switch üzerinde DHCP kapsamları tanımlanabilmeli ve uç cihazlara IP adresi ve gerekli diğer bilgileri gönderebilmelidir."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.19.  Endüstriyel Switch kendisine bağlı diğer cihazların tespiti için 802.1ab Link Layer Discovery Protocol desteği sağlamalıdır. Böylelikle komşu olduğu cihazlarla ilgili bilgileri toplayabilecek, kendisi ile ilgili bilgileri de komşularına iletebilecektir."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.20.  Endüstriyel Switch Türk Telekom’un daha öncesinde vermiş oldugu konfigurasyonlar yapılandırılmış olarak sahalara gönderilecektir."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.21. Endüstriyel Switch servis kalitesi yapılandırmasını desteklemelidir. Her port için gelen trafik yönünde hız limitleme ve giden trafik yönünde trafik şekillendirme, 8 adet donanımsal kuyruk, ağırlıklı ve kesin önceliklendirme desteği, DSCP, 802.1p Class of service, ToS temelli, sınıflandırma ve yeniden işaretleme, sıkışıklık önleme algoritması servis özellikleri bulunmalıdır."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.22. Endüstriyel Switch 2.katman güvenliğini sağlamak amacıyla en az Dynamic ARP Inspection veya Dynamic ARP Protection, DHCP Snooping, Management ACL, L2/L3/L4 Access Control Lists, Ip Source Guard güvenlik önlemlerini alabilecek veya ilgili protokolleri destekleyecektir."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.23. Endüstriyel Switch statik yönlendirme ve tanımlı vlan arayüzleri arasında yönlendirmeyi desteklemelidir."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.24. Port mirroring desteği bulunacaktır. Birden fazla kaynak portu, hedef portuna aynalanabilecektir."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.25. Endüstriyel Switch yönetim amaçlı olarak, SNMP v3, HTTPS SSHv2 ve sFTP özelliklerini desteklemelidir."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.26. Endüstriyel Switch HTTPS tabanlı web arayüzünden gerekli bütün configurasyonlar yapılabilir olmalıdır. Ayrıca bu web arayuzunın türkçe dil desteği olmalıdır."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.27. Endüstriyel Switch firmware guncellemelerini içerisene daha önceden yazılmış sunucunun dosya uzantısındaki güncel fimware dosyasıyla sFTP protokolu üzerinden güncelleyebilecektir."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.28. Endüstriyel Switch üzerinde gerçekleşen olay ve alarmlar , SNMP Trap ve syslog protokolleri kullanılarak harici sistemlere gönderilebilecektir. Olayve Alarmlar SNMP get yapılarak periyodik olarakta sorgulabilmelidir. Ayrıca sflow protokollerinden birisini kullanarak, trafikle ilgili örneklendirme yapabilecek ve bu örnekleri harici sistemlere gönderebilecektir."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.29.  Cihazlar Konsol portuna sahip olacaktır. Cihazın tüm fonksiyonları konsol veya SSHv2 ile erişilebilen komut satırı üzerinden yapılabilecektir."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.30. Cihaz yönetim amacıyla kimlik doğrulamasını TACACS veya Radius protokolü kullanarak, merkezi bir kimlik doğrulama sunucusundan yapabilecektir."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.31.  Endüstriyel Switchlar harici bir yönetim platformu talep edilmesi durumda saglanabiliyor olmalıdır. Yönetim platformu en az 250 cihazı ilave lisans gerektirmeden sağlamalıdır."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.32. Yönetim platformu talep edilmesi durumda, mevcut yapıda çalışan farklı markalı Endüstriyel Switchlerın monitörleme işlemini detaylı olarak yapabilmelidir. Bu özellik için ilave bedel talep edilmemelidir."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "7.33.  Yönetim platformu talep edilmesi durumda, farklı marka cihazların, asgari olarak portların tüm durum, vlan bilgilerini, bağlı kullanıcı ve mac adres bilgilerini, arayüzlerden geçen trafiğin grafiksel gösterimini, cihazların sıcaklık ve işlemci kullanımlarını ve komşu cihaz bilgilerini gösterme yeteneği olmalıdır."
+  },
+  {
+   "t": "p",
+   "s": "normal",
+   "text": "KABUL EDİLDİ"
+  }
+ ],
+ "extracted_at": "2026-10-22T03:47:59Z"
+}

@@ -1,0 +1,19 @@
+{
+ "sha256_16": "32840d797585b1f0",
+ "name": "STH-2C12XF12XE.jpg",
+ "ext": ".jpg",
+ "bytes": 121588,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 1658,
+  "height": 877,
+  "mode": "RGB",
+  "thumb_bytes": 9926
+ },
+ "warnings": [],
+ "chars": 118,
+ "text": "SYSOMGTO\nIDO RPSO\nSm 108 14 129 134 #149 154 169 174 18 194 200 214 227 234 240\nAUY Al AlY AI AlY\n29 34 49 SA 69 74 BY",
+ "extracted_at": "2026-10-22T03:44:20Z"
+}

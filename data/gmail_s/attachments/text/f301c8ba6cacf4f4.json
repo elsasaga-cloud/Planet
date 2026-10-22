@@ -1,0 +1,19 @@
+{
+ "sha256_16": "f301c8ba6cacf4f4",
+ "name": "12x4 Signature CÂBLAGE & CONNECTIQUE (1).gif",
+ "ext": ".gif",
+ "bytes": 192201,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "GIF",
+  "width": 453,
+  "height": 151,
+  "mode": "P",
+  "thumb_bytes": 6971
+ },
+ "warnings": [],
+ "chars": 281,
+ "text": "aoe oh on CABLAGE & CONNECTIQUE\n| in PRECABLAGE & FIBRE OPTIQUE\n= VIDEOSURVEILLANCE & SECURITE\nUw 453 SONORISATION & TELEDISTRIBUTION\nrite RESEAUX & TELEPHONIE\nAUTOMATISME & DOMOTIQUE\nELECTRICITE & ECLAIRAGE LED\nMagazin N° 17 Rue ElKararm, Riad Salar Agadir, Maroc | OS 29 89 69 01",
+ "extracted_at": "2026-10-22T03:51:44Z"
+}

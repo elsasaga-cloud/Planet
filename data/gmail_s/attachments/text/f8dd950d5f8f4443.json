@@ -1,0 +1,19 @@
+{
+ "sha256_16": "f8dd950d5f8f4443",
+ "name": "After-sales Procedure.png",
+ "ext": ".png",
+ "bytes": 93232,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 2723,
+  "height": 838,
+  "mode": "RGB",
+  "thumb_bytes": 7285
+ },
+ "warnings": [],
+ "chars": 855,
+ "text": "When this problem occurred\n- What you did to adjust it like restart the device or change new accessories\n- 4 Describe what happened. 一 一 一 一\n' How you use this device like connecting some IP cameras\nProvide as many This is direct and efficient to help figure out the problems.\nactual photos/videos_ 下\nas possible\nAfter-sales Procedure\nWith in-hand accessories, sometimes it is easy to fix the problem.\nprepare necessary and relevant | An example is, in a linear network connection, if one SFP module fails, the\naccessories such as SFP module/ 「 whole system might have a transmission problem.\nnetwork cable/patch-cord... | The solution would be as simple as replacing a new workable SFP module.\nA zoom video meeting link will be shared for face-to-face discussion\n| Get ready for online meeting 「 Remote control might be required via Teamviewer or Anydesk",
+ "extracted_at": "2026-10-22T03:48:36Z"
+}

@@ -1,0 +1,19 @@
+{
+ "sha256_16": "f43cdf61ffabc522",
+ "name": "48 port.jpg",
+ "ext": ".jpg",
+ "bytes": 346936,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 4782,
+  "height": 1493,
+  "mode": "RGB",
+  "thumb_bytes": 5323
+ },
+ "warnings": [],
+ "chars": 17,
+ "text": "Reset\nsys\nPwR\n|\ng",
+ "extracted_at": "2026-10-22T03:41:51Z"
+}

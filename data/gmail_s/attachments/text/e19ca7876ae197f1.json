@@ -1,0 +1,22 @@
+{
+ "sha256_16": "e19ca7876ae197f1",
+ "name": "DECDKG4UGCJP3KOFK1O58H.pdf",
+ "ext": ".pdf",
+ "bytes": 34143,
+ "method": "pdfplumber+OCR(1p)",
+ "status": "ok",
+ "meta": {
+  "pages": 1,
+  "producer": "iTextSharp™ 5.5.13.4 ©2000-2024 iText Group NV (AGPL-version)",
+  "creationdate": "D:20240711181551+00'00'",
+  "moddate": "D:20240711181551+00'00'",
+  "ocr_pages": 1
+ },
+ "warnings": [],
+ "chars": 1061,
+ "text": "[p1]\nMCAfee\nInvoice to:\nINV No 0536066526736\ns.sagatelecom@gmail.com\nDate 11 July 2024\nDear s.sagatelecom@gmail.com,\nYour subscription is now renewed. We're grateful for your ongoing\npartnership and look forward to serving you.\nContact us at +1 (888) 452-1485 to report if this transaction was not\nauthorized by you.\nNote: Within the next day or two, you may be certain that your bank's records will\ncontain the specifics of the transaction.\nShould you require any assistance or encounter issues with the transaction\nprocess, our hotline is available to provide support.\nItem Description Price Qty. Total\nMcAfee Total Secure 649.98 1 USD 649.98\nPayment Method Auto-Debit\nTerms and conditions Sub Total: 649.98\nThis membership has a 24-hour grace period\nbefore expiring and automatically renews for Tax 0.00%\nan additional three years after it is\ndeactivated. Total 649.98\nFor Support: +1 (888) 452-1485\nPlease do not reply to this automatic email, as it is not constantly inspected, in order to speed up the\nprocess. gnoilz3-7c83a4ea-91d8-4ead-ac4d-0cca2822244e",
+ "pages": [
+  "MCAfee\nInvoice to:\nINV No 0536066526736\ns.sagatelecom@gmail.com\nDate 11 July 2024\nDear s.sagatelecom@gmail.com,\nYour subscription is now renewed. We're grateful for your ongoing\npartnership and look forward to serving you.\nContact us at +1 (888) 452-1485 to report if this transaction was not\nauthorized by you.\nNote: Within the next day or two, you may be certain that your bank's records will\ncontain the specifics of the transaction.\nShould you require any assistance or encounter issues with the transaction\nprocess, our hotline is available to provide support.\nItem Description Price Qty. Total\nMcAfee Total Secure 649.98 1 USD 649.98\nPayment Method Auto-Debit\nTerms and conditions Sub Total: 649.98\nThis membership has a 24-hour grace period\nbefore expiring and automatically renews for Tax 0.00%\nan additional three years after it is\ndeactivated. Total 649.98\nFor Support: +1 (888) 452-1485\nPlease do not reply to this automatic email, as it is not constantly inspected, in order to speed up the\nprocess. gnoilz3-7c83a4ea-91d8-4ead-ac4d-0cca2822244e"
+ ],
+ "extracted_at": "2026-10-22T03:50:23Z"
+}

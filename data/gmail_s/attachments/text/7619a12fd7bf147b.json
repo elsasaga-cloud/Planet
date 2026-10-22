@@ -1,0 +1,20 @@
+{
+ "sha256_16": "7619a12fd7bf147b",
+ "name": "ANGORA LOGO2.png",
+ "ext": ".png",
+ "bytes": 100006,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 481,
+  "height": 516,
+  "mode": "RGBA",
+  "software": "Adobe ImageReady",
+  "thumb_bytes": 13210
+ },
+ "warnings": [],
+ "chars": 12,
+ "text": "A\nA\nNETWORKS",
+ "extracted_at": "2026-10-22T03:51:22Z"
+}

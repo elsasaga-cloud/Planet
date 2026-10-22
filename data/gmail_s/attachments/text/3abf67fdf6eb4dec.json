@@ -1,0 +1,21 @@
+{
+ "sha256_16": "3abf67fdf6eb4dec",
+ "name": "10G.jpg",
+ "ext": ".jpg",
+ "bytes": 223668,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 1000,
+  "height": 1000,
+  "mode": "RGB",
+  "datetime": "2024:03:25 18:30:05",
+  "software": "Adobe Photoshop CS6 (Windows)",
+  "thumb_bytes": 8517
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:47:07Z"
+}

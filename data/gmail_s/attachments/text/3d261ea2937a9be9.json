@@ -1,0 +1,19 @@
+{
+ "sha256_16": "3d261ea2937a9be9",
+ "name": "10G Web.jpg",
+ "ext": ".jpg",
+ "bytes": 214693,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 4826,
+  "height": 1205,
+  "mode": "RGB",
+  "thumb_bytes": 4149
+ },
+ "warnings": [],
+ "chars": 95,
+ "text": "j= 10G/5G/2.5G Link/Act\n四 100/1000M Link/Act\n1\nWeb Managed 10G Ethernet Switch\n10G/1G 1\nSYS PWR",
+ "extracted_at": "2026-10-22T03:45:32Z"
+}

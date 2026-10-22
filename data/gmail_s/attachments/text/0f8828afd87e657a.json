@@ -1,0 +1,720 @@
+{
+ "sha256_16": "0f8828afd87e657a",
+ "name": "STI-PA-240W-48V5A.docx",
+ "ext": ".docx",
+ "bytes": 355709,
+ "method": "python-docx(段落+表格+文本框+页眉页脚)",
+ "status": "ok",
+ "meta": {
+  "title": "",
+  "author": "Simon",
+  "last_modified_by": "Simon",
+  "created": "2023-07-22T16:14:00+00:00",
+  "modified": "2023-12-24T07:09:10+00:00",
+  "paragraphs": 96,
+  "tables": 4,
+  "embedded_images": 7
+ },
+ "warnings": [],
+ "chars": 7644,
+ "text": "Model Name\nSTI-PA-240W-48V5A\nST: Saga Telecom\nI: Industrial grade\nPA: Power adapter\n240W: Total power budget\n48V5A: Output Voltage and Ampere\nIt is advised to read specific product description for more information.\nIntroduction\nSTI-PA-240W-48V5A is a single-phase PSU providing efficient and adjustable DC output.\nIt could operate in wide temperature range and for industrial automation&control systems etc.\nExample: 240W(or below) POE device such as STI-118GFP and STI-208GP.\nKey Features\nUniversal AC Input 90-264V or 127 ~370VDC Input by connecting AC/L(+), AC/N(-)\nDC O/P Voltage Adjustable 48V~55V\nProtection: Short Circuit/Overload/Over Voltage/Over Temperature\nFree Air Convection Design\nInstallation: DIN Rail TS-35/7.5 &15\nWith Built-in Active PFC Function\nWith DC OK Indicator\nCE/RoHS/UKCA/UL Compliant\n3 years warranty\nSpecification\nProduct Name\t240W Din Rail Industrial Power Adapter\nInput\nVoltage Range\t90-264VAC, 127 ~370VDC\nFrequency Range\t47~63Hz\nEfficiency(Typ.)\t88%\nPower Factor(Typ.)\t>0.98/115VACat full load / >0.95/230VACat full load\nAC Current(Typ.)\t2.5A/115VAC / 1.3A/230VAC\nInrush Current(Typ.)\t37.2A/115VAC / 70A/230VAC\nLeakage Current\t<1mA/240VAC\nOutput\nPower\t240W max.\nOutput Voltage\t48V\nOutput Current\t5A\nRipple&Noise(max.)\t150mVp-p\nVoltage Tolerance\t±2.0%\nLine Regulation\t±0.5%\nLoad Regulation\t±1.0%\nSetup, Rise Time\t1500ms, 100ms/230VAC at full load / 3000ms, 100ms/115VAC at full load\nHold Up Time(Typ.)\t16ms/230VAC/50Hz at full load / 12ms/115VAC/60Hz at full load\nProtection\nOver Load\t105~130% rated output power / Protection type: Constant current limiting, recovers automatically after fault condition is removed\nOver Voltage\t56~65V, Shut down o/p voltage, re-power on to recover\nOver Temperature\tShut down o/p voltage, recovers automatically after temperature / goes down\nEnvironment\nWorking Temp.\t-20℃ ~ +70℃(Refer to\"Derating Curve\")\nWorking Humidity\t20~95% RH non-condensing\nStorage Temp.\t-40℃ ~ +85℃,10~95% RH\nStorage Humidity\t10~95% RH\nMTBF\t1398.4K hrs min. Telcordia SR-332(Bellcore)\nNote\nAll parameters NOT specially mentioned at 230VAC input, rated load and 25℃ of ambient temperature.\nRipple&noise are measured from peak to peak with band width limit of 20MHZ(0.1uF and 47uF/50V parallel capacitor under DC output full load,AC nominal input 25℃ ambient temperature).\nInstallation clearances:  top with 40mm, bottom with 20mm, left and right with 5mm. Increase the space to 10-15mm when the adjacent device is heat source.\nDerating may be needed under low input voltage. Please check the derating curve for more details.\nEfficiency test after 30 minutes of burn-in.\nThe ambient temperature derating of 3.5℃/1000m for operating altitude higher than 2000m(6500ft).\nSafety&EMC\nSafety Standards\tUL508, BS/EN62368-1\nWithstand Voltage\tI/P-O/P: 3KVAC I/P-FG: 2KVAC O/P-FG: 0.5KVAC\nIsolation Resistance\tI/P-O/P, I/P-FG, O/P-FG: >100M Ohms/500VDC/25℃/70% RH\nEMC Emission\tCompliance to BS EN/EN55032, BS EN/EN61000-3-2, -3\nEMC Immunity\tCompliance to BS EN/EN61000-4-2, 3, 4, 5, 6, 8, 11 / BS EN/EN55035, BS EN/EN61000-6-2(BS EN/EN50082-2)\nDimension&Weight\nWidth\t63mm/2.48in\nHeight\t125mm/4.92in\nDepth\t113.5mm/4.47in\nWeight\t1KG\nPacking\nCarton Size\t52.5*33*17.5cm / 20.67*12.99*6.9in\nMaster Carton Quantities\t10pcs/Carton\nBlock Diagram\nDeduction Curve and Temperature\nMinus Output and Input Voltage Curve\nDimension\nOrdering Information\nDin Rail Industrial Power Adapter Series\nModel Name\tSpecification\nSTI-PA-20W-12V1.67A\t90-264VAC Input, 12VDC Output, 1.67A, 20W, Plastic Case, Din Mounted\nSTI-PA-20W-24V0.83A\t90-264VAC Input, 24VDC Output, 0.83A, 20W, Plastic Case, Din Mounted\nSTI-PA-75W-48V1.56A\t90-264VAC Input, 48VDC Output, 1.56A, 75W, Metal Case, Din Mounted\nSTI-PA-120W-48V2.5A\t90-264VAC Input, 48VDC Output, 2.5A, 120W, Metal Case, Din Mounted\nSTI-PA-240W-48V5A\t90-264VAC Input, 48VDC Output, 5A, 240W, Metal Case, Din Mounted\nSTI-PA-480W-48V10A\t90-264VAC Input, 48VDC Output, 10A, 480W, Metal Case, Din Mounted\nFAQ\nLeadtime\nProduction time is usually 5~7 working days for standard(non-customized) models (no more than 50pcs).\nShipping time is usually 4~7 days by air\nIn total, it takes 10~15 days for a client to receive the order.\nShipment\nWe will send the goods by air(DHL, UPS or FEDEX) or by sea(for bulk order)\nIt is fine to ship purchased items via customer’s shipping account or forwarder.\nMOQ\n1 Pc/Pair(It is NOT free, Saga Telecom do NOT do FREE SAMPLES)\nIt is fine to have sample testing before bulk order, but 1 Pc/Pair is ONLY about sample testing.\nWhen testing proves fine, MOQ is 20pcs(discussion is required if it is about smaller quantity).\nWarranty\n1 year for commercial models(STC series) and 3 years for industrial models(STI series)\nPlease kindly refer to the “Warranty Policy” for more information.\nTechnical assistance is always available\nPayment\nT/T transfer and PayPal, FULL AMOUNT BEFORE SHIPMENT.\nIt is fine to pay 50% first and another 50% before shipment for bulk order.\nIt is fine to be paid via customer’s forwarder(this is usually about RMB payment).\nTransaction cost\nIt is standard charge 25usd for EACH T/T transfer whatever the invoice value is.\nIt is 5usd for every 100usd to PayPal a/c, this ratio is standard charge by PayPal\nRMA\nPlease contact us ASAP once there is any problem(package or usage)with the supplied products.\nFor every 100pcs, there will be 2 extra free units(2% RMA) against immediate warranty coverage.\nThis rule stands for all Saga Telecom models and even there is not an after-sales issue.\nIf it is about missing/faulty parts in the packing box.\nPlease simply use the extra units for the replacement and let us know this problem(we will improve).\nIf it is about usage problem.\nSaga Telecom will provide technical support and send new units when necessary.\nOEM\nSupported, but discussion is required if it is about complex requirements.\nBelow are usual OEM services available.\nShow client’s logo/model on the device/label/management interface...\nUse client’s packing box\nDesign client’s product PVC sticker\nCustomize some parts of a model like rear panel/power input terminal block...\nPlease know that there might be extra cost for OEM services.\nAfter-sales support\nWarranty comes in effect from the date of delivery.\nIf something is wrong with the package or usage, please let us know asap.\nCase 1, package problem\nAny faulty/missing parts in the packing box, Saga Telecom will help do the replacement or refund.\nCase 2, usage problem\nThe standard and most effective procedures(get a feedback form from us) are as below\n1, describe what happened, examples as below\nWhen this problem occurred\nWhat you did to adjust it like restart the device or change new accessories\nHow you use this device like outdoor use for connecting some IP cameras\nWith this information, Saga Telecom could quickly know what is going on and do trouble-shooting\n2, provide as many actual photos/video as possible\nWrong connection or improper use may occur.\nIn this case, photos and videos are helpful and efficient.\n3, prepare necessary and relevant accessories such as SFP module/network cable/patch-cord...\nAn example is, in a linear network connection, if one SFP module fails, the whole system might have a transmission problem.\nThe solution would be as simple as replacing a new workable SFP module.\nWith in-hand accessories, sometimes it is easy to fix the problem.\n4, get ready for online meeting\nSaga Telecom might remotely control your PC to do trouble-shooting with the help of Teamviewer.\nFor more information, please talk with us or visit www.sagatelecom.com.cn\n[页眉页脚]\ns.sagatelecom@gmail.com\nSaga Telecom\nwww.sagatelecom.com.cn\nConnecting, Converting, Creating",
+ "blocks": [
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "Model Name"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "STI-PA-240W-48V5A"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "ST: Saga Telecom"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "I: Industrial grade"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "PA: Power adapter"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "240W: Total power budget"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "48V5A: Output Voltage and Ampere"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is advised to read specific product description for more information."
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "Introduction"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "STI-PA-240W-48V5A is a single-phase PSU providing efficient and adjustable DC output."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It could operate in wide temperature range and for industrial automation&control systems etc."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Example: 240W(or below) POE device such as STI-118GFP and STI-208GP."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Key Features"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Universal AC Input 90-264V or 127 ~370VDC Input by connecting AC/L(+), AC/N(-)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "DC O/P Voltage Adjustable 48V~55V"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Protection: Short Circuit/Overload/Over Voltage/Over Temperature"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Free Air Convection Design"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Installation: DIN Rail TS-35/7.5 &15"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "With Built-in Active PFC Function"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "With DC OK Indicator"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "CE/RoHS/UKCA/UL Compliant"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "3 years warranty"
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "Specification"
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "Product Name",
+     "240W Din Rail Industrial Power Adapter"
+    ],
+    [
+     "Input"
+    ],
+    [
+     "Voltage Range",
+     "90-264VAC, 127 ~370VDC"
+    ],
+    [
+     "Frequency Range",
+     "47~63Hz"
+    ],
+    [
+     "Efficiency(Typ.)",
+     "88%"
+    ],
+    [
+     "Power Factor(Typ.)",
+     ">0.98/115VACat full load / >0.95/230VACat full load"
+    ],
+    [
+     "AC Current(Typ.)",
+     "2.5A/115VAC / 1.3A/230VAC"
+    ],
+    [
+     "Inrush Current(Typ.)",
+     "37.2A/115VAC / 70A/230VAC"
+    ],
+    [
+     "Leakage Current",
+     "<1mA/240VAC"
+    ],
+    [
+     "Output"
+    ],
+    [
+     "Power",
+     "240W max."
+    ],
+    [
+     "Output Voltage",
+     "48V"
+    ],
+    [
+     "Output Current",
+     "5A"
+    ],
+    [
+     "Ripple&Noise(max.)",
+     "150mVp-p"
+    ],
+    [
+     "Voltage Tolerance",
+     "±2.0%"
+    ],
+    [
+     "Line Regulation",
+     "±0.5%"
+    ],
+    [
+     "Load Regulation",
+     "±1.0%"
+    ],
+    [
+     "Setup, Rise Time",
+     "1500ms, 100ms/230VAC at full load / 3000ms, 100ms/115VAC at full load"
+    ],
+    [
+     "Hold Up Time(Typ.)",
+     "16ms/230VAC/50Hz at full load / 12ms/115VAC/60Hz at full load"
+    ],
+    [
+     "Protection"
+    ],
+    [
+     "Over Load",
+     "105~130% rated output power / Protection type: Constant current limiting, recovers automatically after fault condition is removed"
+    ],
+    [
+     "Over Voltage",
+     "56~65V, Shut down o/p voltage, re-power on to recover"
+    ],
+    [
+     "Over Temperature",
+     "Shut down o/p voltage, recovers automatically after temperature / goes down"
+    ]
+   ]
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "Environment"
+    ],
+    [
+     "Working Temp.",
+     "-20℃ ~ +70℃(Refer to\"Derating Curve\")"
+    ],
+    [
+     "Working Humidity",
+     "20~95% RH non-condensing"
+    ],
+    [
+     "Storage Temp.",
+     "-40℃ ~ +85℃,10~95% RH"
+    ],
+    [
+     "Storage Humidity",
+     "10~95% RH"
+    ],
+    [
+     "MTBF",
+     "1398.4K hrs min. Telcordia SR-332(Bellcore)"
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Note"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "All parameters NOT specially mentioned at 230VAC input, rated load and 25℃ of ambient temperature."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Ripple&noise are measured from peak to peak with band width limit of 20MHZ(0.1uF and 47uF/50V parallel capacitor under DC output full load,AC nominal input 25℃ ambient temperature)."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Installation clearances:  top with 40mm, bottom with 20mm, left and right with 5mm. Increase the space to 10-15mm when the adjacent device is heat source."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Derating may be needed under low input voltage. Please check the derating curve for more details."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Efficiency test after 30 minutes of burn-in."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "The ambient temperature derating of 3.5℃/1000m for operating altitude higher than 2000m(6500ft)."
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "Safety&EMC"
+    ],
+    [
+     "Safety Standards",
+     "UL508, BS/EN62368-1"
+    ],
+    [
+     "Withstand Voltage",
+     "I/P-O/P: 3KVAC I/P-FG: 2KVAC O/P-FG: 0.5KVAC"
+    ],
+    [
+     "Isolation Resistance",
+     "I/P-O/P, I/P-FG, O/P-FG: >100M Ohms/500VDC/25℃/70% RH"
+    ],
+    [
+     "EMC Emission",
+     "Compliance to BS EN/EN55032, BS EN/EN61000-3-2, -3"
+    ],
+    [
+     "EMC Immunity",
+     "Compliance to BS EN/EN61000-4-2, 3, 4, 5, 6, 8, 11 / BS EN/EN55035, BS EN/EN61000-6-2(BS EN/EN50082-2)"
+    ],
+    [
+     "Dimension&Weight"
+    ],
+    [
+     "Width",
+     "63mm/2.48in"
+    ],
+    [
+     "Height",
+     "125mm/4.92in"
+    ],
+    [
+     "Depth",
+     "113.5mm/4.47in"
+    ],
+    [
+     "Weight",
+     "1KG"
+    ],
+    [
+     "Packing"
+    ],
+    [
+     "Carton Size",
+     "52.5*33*17.5cm / 20.67*12.99*6.9in"
+    ],
+    [
+     "Master Carton Quantities",
+     "10pcs/Carton"
+    ]
+   ]
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "Block Diagram"
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "Deduction Curve and Temperature"
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "Minus Output and Input Voltage Curve"
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "Dimension"
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "Ordering Information"
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "Din Rail Industrial Power Adapter Series"
+    ],
+    [
+     "Model Name",
+     "Specification"
+    ],
+    [
+     "STI-PA-20W-12V1.67A",
+     "90-264VAC Input, 12VDC Output, 1.67A, 20W, Plastic Case, Din Mounted"
+    ],
+    [
+     "STI-PA-20W-24V0.83A",
+     "90-264VAC Input, 24VDC Output, 0.83A, 20W, Plastic Case, Din Mounted"
+    ],
+    [
+     "STI-PA-75W-48V1.56A",
+     "90-264VAC Input, 48VDC Output, 1.56A, 75W, Metal Case, Din Mounted"
+    ],
+    [
+     "STI-PA-120W-48V2.5A",
+     "90-264VAC Input, 48VDC Output, 2.5A, 120W, Metal Case, Din Mounted"
+    ],
+    [
+     "STI-PA-240W-48V5A",
+     "90-264VAC Input, 48VDC Output, 5A, 240W, Metal Case, Din Mounted"
+    ],
+    [
+     "STI-PA-480W-48V10A",
+     "90-264VAC Input, 48VDC Output, 10A, 480W, Metal Case, Din Mounted"
+    ]
+   ]
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "FAQ"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Leadtime"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Production time is usually 5~7 working days for standard(non-customized) models (no more than 50pcs)."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Shipping time is usually 4~7 days by air"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "In total, it takes 10~15 days for a client to receive the order."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Shipment"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We will send the goods by air(DHL, UPS or FEDEX) or by sea(for bulk order)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is fine to ship purchased items via customer’s shipping account or forwarder."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "MOQ"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1 Pc/Pair(It is NOT free, Saga Telecom do NOT do FREE SAMPLES)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is fine to have sample testing before bulk order, but 1 Pc/Pair is ONLY about sample testing."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "When testing proves fine, MOQ is 20pcs(discussion is required if it is about smaller quantity)."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Warranty"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1 year for commercial models(STC series) and 3 years for industrial models(STI series)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please kindly refer to the “Warranty Policy” for more information."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Technical assistance is always available"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Payment"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "T/T transfer and PayPal, FULL AMOUNT BEFORE SHIPMENT."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is fine to pay 50% first and another 50% before shipment for bulk order."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is fine to be paid via customer’s forwarder(this is usually about RMB payment)."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Transaction cost"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is standard charge 25usd for EACH T/T transfer whatever the invoice value is."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is 5usd for every 100usd to PayPal a/c, this ratio is standard charge by PayPal"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "RMA"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please contact us ASAP once there is any problem(package or usage)with the supplied products."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "For every 100pcs, there will be 2 extra free units(2% RMA) against immediate warranty coverage."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "This rule stands for all Saga Telecom models and even there is not an after-sales issue."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "If it is about missing/faulty parts in the packing box."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please simply use the extra units for the replacement and let us know this problem(we will improve)."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "If it is about usage problem."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Saga Telecom will provide technical support and send new units when necessary."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "OEM"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Supported, but discussion is required if it is about complex requirements."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Below are usual OEM services available."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Show client’s logo/model on the device/label/management interface..."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Use client’s packing box"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Design client’s product PVC sticker"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Customize some parts of a model like rear panel/power input terminal block..."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please know that there might be extra cost for OEM services."
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "After-sales support"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Warranty comes in effect from the date of delivery."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "If something is wrong with the package or usage, please let us know asap."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Case 1, package problem"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Any faulty/missing parts in the packing box, Saga Telecom will help do the replacement or refund."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Case 2, usage problem"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "The standard and most effective procedures(get a feedback form from us) are as below"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1, describe what happened, examples as below"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "When this problem occurred"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "What you did to adjust it like restart the device or change new accessories"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "How you use this device like outdoor use for connecting some IP cameras"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "With this information, Saga Telecom could quickly know what is going on and do trouble-shooting"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "2, provide as many actual photos/video as possible"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Wrong connection or improper use may occur."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "In this case, photos and videos are helpful and efficient."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "3, prepare necessary and relevant accessories such as SFP module/network cable/patch-cord..."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "An example is, in a linear network connection, if one SFP module fails, the whole system might have a transmission problem."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "The solution would be as simple as replacing a new workable SFP module."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "With in-hand accessories, sometimes it is easy to fix the problem."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "4, get ready for online meeting"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Saga Telecom might remotely control your PC to do trouble-shooting with the help of Teamviewer."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "For more information, please talk with us or visit www.sagatelecom.com.cn"
+  }
+ ],
+ "extracted_at": "2026-10-22T03:50:38Z"
+}

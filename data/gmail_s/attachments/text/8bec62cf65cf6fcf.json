@@ -1,0 +1,19 @@
+{
+ "sha256_16": "8bec62cf65cf6fcf",
+ "name": "Info.png",
+ "ext": ".png",
+ "bytes": 120518,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1393,
+  "height": 853,
+  "mode": "RGB",
+  "thumb_bytes": 8939
+ },
+ "warnings": [],
+ "chars": 758,
+ "text": "Q_ search in Drive\nMy Drive |> ( Business Mode_Saga Tel... -)\n| Type ~ || People - | | Modified -|\nName\n个\nFactory Information_Saga Telecom\nAfter-sales Procedure_Saga Telecom 28\nCertificate of Warranty_Saga Telecom 2\nCustomization_Saga Telecom.pdf 2%\nEasy and Transparent Business_Saga Telecom 2%\nFAQ Saga Telecom 28\nL3 Feature Confirmation_Saga Telecom.pdf 2%\nMiscellaneous Fee Saga Telecom.pdf 2%\nMust-Read_Saga Telecom 2%\nName Card_Saga Telecom Simon +\nOrder Procedure_Saga Telecom 2%\nOwner\nLast modified ~\nMay 25, 2024 me\nMay 25, 2024 me\nMay 25, 2024 me\nJul 4, 2024 me\nMay 25, 2024 me\nMay 25, 2024 me\nMay 29, 2024 me\nMay 30, 2024 me\nMay 25, 2024 me\nMay 25, 2024 me\nMay 25, 2024 me\nFile size\n91KB\n875 KB\n413 KB\n159 KB\n83KB\n157 KB\n208 KB\n114 KB\n33 KB\n172 KB",
+ "extracted_at": "2026-10-22T03:50:03Z"
+}

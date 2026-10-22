@@ -1,0 +1,306 @@
+{
+ "sha256_16": "faab9fdfb5855ed2",
+ "name": "Key Points in WeChat meeting at 2024.10.31.docx",
+ "ext": ".docx",
+ "bytes": 50522,
+ "method": "python-docx(段落+表格+文本框+页眉页脚)",
+ "status": "ok",
+ "meta": {
+  "title": "",
+  "author": "Simon",
+  "last_modified_by": "Simon",
+  "created": "2023-07-22T16:14:00+00:00",
+  "modified": "2024-11-04T09:07:32+00:00",
+  "paragraphs": 53,
+  "tables": 1,
+  "embedded_images": 2
+ },
+ "warnings": [],
+ "chars": 3054,
+ "text": "100% payment for small order, 30% for bulk order, after confirmation of ready units(send photos etc.) and do the balance payment before shipment. This is about the 150 units of 16 port commercial switch(exactly the same as this order STSC20241021007)\nSaga\nBut lets do 30/70\nIndustrial Switch Project\nVerbally confirmed, but not in writing yet, need to go through a lot of paperwork\nExpect delivery of this order by the end of this fiscal year\nOpen to the option that send the firmware first and do the upgrading locally, the software should be ready at most 2 weeks after delivery of hardware.\nR&D is not started yet, need to have deposit first, submitted this project beforehand.\nSaga\nExpected period\nHardware: 40~45 calendar days\nSoftware: 60 calendar days\nThat is, we better finalize this order in writing before 15th or so.\nBusiness term\n25% deposit to start the R&D and hardware production\nAnother 25% should be paid should be paid in the middle of production\nBalance payment before shipment.\nI shared this before.\nSKD mode for reducing the tax cost in import\nSaga\nOK, we will do our best to support you.\nRMA term is good\nSales stock: 50% deposit, after selling the units in their warehouse, they do the balance payment\nLets agree upon a certain period(perhaps 6 months) for balance payment if those units are not sold\nSaga\nNot acceptable\nBut here is what we suggest after internal discussion.\nFor the first few orders, lets do full payment.\nBased on the selling status and volumes, we do a conclusive evaluation and decide the percentage for after-sales payment.\nExample: lets say, full payment, order is decent, and it is sold out soon, you are ready for next batch.\nfor the first 3~5 orders, everything works well like this.\nThen we will assess it, ordered models, amount, repurchase interval...\nMaybe 10~15% to start with, that is to say, 85~90% deposit for sales stock and balance(10~15%) for after-sales payment.\nOver time, the percentage will rise to 30% AT MOST.\nHappy with product quality\nSaga\nThanks, please let us know if we can improve.\nNeed our help with some telecom products like access points or wireless products\nSaga\nSure, we are happy to help.\nBut maybe we are not very familiar with some products you need, better if you could share some product photos and models names etc. for reference, then it would be easier for us to handle it.\nNeed data center switch information\nSaga\nYes, this series is ready, but it takes some time to release it(not very long).\nI will let you know.\nBtw: the information will be uploaded to the google drive link.\nWill provide a list of popular models in their daily work\nSaga\nThanks, waiting.\nWe should provide a list of local clients for follow-up, maybe a different approach works.\nSaga\nThe list is now ready, please share a template to fill in the client information.\nExample:\nCompany\tWebsite\tContact\t...\nABC\tABC\tABC\t...\n[页眉页脚]\ns.sagatelecom@gmail.com\n\t\t\t\t\t\t\t                                                                       Saga Telecom\nwww.sagatelecom.com.cn\nConnecting, Converting, Creating",
+ "blocks": [
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "100% payment for small order, 30% for bulk order, after confirmation of ready units(send photos etc.) and do the balance payment before shipment. This is about the 150 units of 16 port commercial switch(exactly the same as this order STSC20241021007)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Saga"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "But lets do 30/70"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Industrial Switch Project"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Verbally confirmed, but not in writing yet, need to go through a lot of paperwork"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Expect delivery of this order by the end of this fiscal year"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Open to the option that send the firmware first and do the upgrading locally, the software should be ready at most 2 weeks after delivery of hardware."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "R&D is not started yet, need to have deposit first, submitted this project beforehand."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Saga"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Expected period"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Hardware: 40~45 calendar days"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Software: 60 calendar days"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "That is, we better finalize this order in writing before 15th or so."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Business term"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "25% deposit to start the R&D and hardware production"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Another 25% should be paid should be paid in the middle of production"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Balance payment before shipment."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "I shared this before."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "SKD mode for reducing the tax cost in import"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Saga"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "OK, we will do our best to support you."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "RMA term is good"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Sales stock: 50% deposit, after selling the units in their warehouse, they do the balance payment"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Lets agree upon a certain period(perhaps 6 months) for balance payment if those units are not sold"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Saga"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Not acceptable"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "But here is what we suggest after internal discussion."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "For the first few orders, lets do full payment."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Based on the selling status and volumes, we do a conclusive evaluation and decide the percentage for after-sales payment."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Example: lets say, full payment, order is decent, and it is sold out soon, you are ready for next batch."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "for the first 3~5 orders, everything works well like this."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Then we will assess it, ordered models, amount, repurchase interval..."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Maybe 10~15% to start with, that is to say, 85~90% deposit for sales stock and balance(10~15%) for after-sales payment."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Over time, the percentage will rise to 30% AT MOST."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Happy with product quality"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Saga"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Thanks, please let us know if we can improve."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Need our help with some telecom products like access points or wireless products"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Saga"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Sure, we are happy to help."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "But maybe we are not very familiar with some products you need, better if you could share some product photos and models names etc. for reference, then it would be easier for us to handle it."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Need data center switch information"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Saga"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Yes, this series is ready, but it takes some time to release it(not very long)."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "I will let you know."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Btw: the information will be uploaded to the google drive link."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Will provide a list of popular models in their daily work"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Saga"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Thanks, waiting."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We should provide a list of local clients for follow-up, maybe a different approach works."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Saga"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "The list is now ready, please share a template to fill in the client information."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Example:"
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "Company",
+     "Website",
+     "Contact",
+     "..."
+    ],
+    [
+     "ABC",
+     "ABC",
+     "ABC",
+     "..."
+    ]
+   ]
+  }
+ ],
+ "extracted_at": "2026-10-22T03:47:29Z"
+}

@@ -1,0 +1,187 @@
+{
+ "sha256_16": "26004767b09d8d3a",
+ "name": "Tronx Saga Siparis Listesi-3.xlsx",
+ "ext": ".xlsx",
+ "bytes": 77886,
+ "method": "openpyxl(values)",
+ "status": "ok",
+ "meta": {
+  "sheets": [
+   "Sheet1"
+  ],
+  "embedded_images": 0,
+  "rows_total": 20
+ },
+ "warnings": [],
+ "chars": 877,
+ "text": "--- Sheet: Sheet1 ---\n\tTRONX BILISIM VE SAGLIK TEKNOLOJILERI LTD. STI.\n\tANKARA TURKEY\n\tAttention:\tMr. Mustafa Calik\tmustafa.calik@tronx.com.tr\n\t\t\t+90-531-450-4445\n\t\t\t\t\tFOB\n\tSAGA SKU\tTRONX SKU\tDescription\tQty\tUnit Price\tTOTAL\n\tSTC-28DGGPM\tTRX-AS-8TP2G\t8 Port Enterprise\t0\n\tSTC-424DGGPM-280W\tTRX-AS-24TP4X\t24 Port Enterprise\t1\t180\t180\n\tSTC-448XGGPM\tTRX-AS-48TP4X\t48 Port Enterprise\t1\t335\t335\n\tSTI-288DGGPM\tTRX-IS-8TP2G\t8 Port Industrial\t2\t125\t250\n\t1G-SX\tTRX-SFP-1G-LX\tSFP\t5\t5\t25\n\t1G-LX\tTRX-SFP-10G-LR\tSFP\t5\t5\t25\n\t10G-SR\tTRX-SFP-1G-SX\tSFP\t5\t8\t40\n\t10G-LR\tTRX-SFP-10G-SR\tSFP\t5\t10\t50\n\t25G-SR\tTRX-SFP28-25G-SR\tSFP\t5\t20\t100\n\t40G-SR\tTRX-QSFP-40G-SR4\tSFP\t5\t33\t165\n\t100G-SR\tTRX-QSFP28-100G-SR4\tSFP\t5\t42\t210\n\t2xAP\tTRX-AP-612T\tWiFi6 Indoor Access Point Ceiling type\t2\t50\t100\n\tWireless Controllers\tTRX-WLC-3100\tWireless Controller\nWireless Traffic Management - 128 AP\nlicense\t0\t\t0\n\t\t\t\t\t\t1480",
+ "sheets": {
+  "Sheet1": {
+   "state": "visible",
+   "rows": [
+    [
+     "",
+     "TRONX BILISIM VE SAGLIK TEKNOLOJILERI LTD. STI."
+    ],
+    [
+     "",
+     "ANKARA TURKEY"
+    ],
+    [
+     "",
+     "Attention:",
+     "Mr. Mustafa Calik",
+     "mustafa.calik@tronx.com.tr"
+    ],
+    [
+     "",
+     "",
+     "",
+     "+90-531-450-4445"
+    ],
+    [
+     "",
+     "",
+     "",
+     "",
+     "",
+     "FOB"
+    ],
+    [
+     "",
+     "SAGA SKU",
+     "TRONX SKU",
+     "Description",
+     "Qty",
+     "Unit Price",
+     "TOTAL"
+    ],
+    [
+     "",
+     "STC-28DGGPM",
+     "TRX-AS-8TP2G",
+     "8 Port Enterprise",
+     "0"
+    ],
+    [
+     "",
+     "STC-424DGGPM-280W",
+     "TRX-AS-24TP4X",
+     "24 Port Enterprise",
+     "1",
+     "180",
+     "180"
+    ],
+    [
+     "",
+     "STC-448XGGPM",
+     "TRX-AS-48TP4X",
+     "48 Port Enterprise",
+     "1",
+     "335",
+     "335"
+    ],
+    [
+     "",
+     "STI-288DGGPM",
+     "TRX-IS-8TP2G",
+     "8 Port Industrial",
+     "2",
+     "125",
+     "250"
+    ],
+    [
+     "",
+     "1G-SX",
+     "TRX-SFP-1G-LX",
+     "SFP",
+     "5",
+     "5",
+     "25"
+    ],
+    [
+     "",
+     "1G-LX",
+     "TRX-SFP-10G-LR",
+     "SFP",
+     "5",
+     "5",
+     "25"
+    ],
+    [
+     "",
+     "10G-SR",
+     "TRX-SFP-1G-SX",
+     "SFP",
+     "5",
+     "8",
+     "40"
+    ],
+    [
+     "",
+     "10G-LR",
+     "TRX-SFP-10G-SR",
+     "SFP",
+     "5",
+     "10",
+     "50"
+    ],
+    [
+     "",
+     "25G-SR",
+     "TRX-SFP28-25G-SR",
+     "SFP",
+     "5",
+     "20",
+     "100"
+    ],
+    [
+     "",
+     "40G-SR",
+     "TRX-QSFP-40G-SR4",
+     "SFP",
+     "5",
+     "33",
+     "165"
+    ],
+    [
+     "",
+     "100G-SR",
+     "TRX-QSFP28-100G-SR4",
+     "SFP",
+     "5",
+     "42",
+     "210"
+    ],
+    [
+     "",
+     "2xAP",
+     "TRX-AP-612T",
+     "WiFi6 Indoor Access Point Ceiling type",
+     "2",
+     "50",
+     "100"
+    ],
+    [
+     "",
+     "Wireless Controllers",
+     "TRX-WLC-3100",
+     "Wireless Controller\nWireless Traffic Management - 128 AP\nlicense",
+     "0",
+     "",
+     "0"
+    ],
+    [
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "1480"
+    ]
+   ]
+  }
+ },
+ "extracted_at": "2026-10-22T03:45:34Z"
+}

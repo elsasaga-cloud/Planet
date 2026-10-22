@@ -1,0 +1,24 @@
+{
+ "sha256_16": "a80aacffb7696934",
+ "name": "Variants.pdf",
+ "ext": ".pdf",
+ "bytes": 406430,
+ "method": "pdfplumber",
+ "status": "ok",
+ "meta": {
+  "pages": 2,
+  "author": "Simon",
+  "creator": "WPS 文字",
+  "creationdate": "D:20240814231328+15'13'",
+  "moddate": "D:20240814231328+15'13'",
+  "ocr_pages": 0
+ },
+ "warnings": [],
+ "chars": 607,
+ "text": "[p1]\ns.sagatelecom@gmail.com\nSagaTelecom\nwww.sagatelecom.com.cn\nDimension:85*85*30mm\nGrossWeight:0.3KG\nThisenclosurehasmanymodelsforoptions.\n100Mmodels\n1000Mmodels\nSFPfiberor1*9fixedfiber\nPoEornon-PoE\nButallisunmanaged.\nConnecting,Converting,Creating\n\n[p2]\ns.sagatelecom@gmail.com\nSagaTelecom\nwww.sagatelecom.com.cn\nDimension:98*98*48mm\nGrossWeight:0.55KG\nThisenclosurehasmanymodelsforoptions.\n4portand6portmodelONLYgot100Mmodels(PoEandNon-PoE),withoutGigabit\nmodels(Gigabitmodelswillbeaboutanotherenclosure)\n8portmodelgot100Mand1000Mmodels(PoEandNon-PoE)\nButallisunmanaged.\nw\nConnecting,Converting,Creating",
+ "pages": [
+  "s.sagatelecom@gmail.com\nSagaTelecom\nwww.sagatelecom.com.cn\nDimension:85*85*30mm\nGrossWeight:0.3KG\nThisenclosurehasmanymodelsforoptions.\n100Mmodels\n1000Mmodels\nSFPfiberor1*9fixedfiber\nPoEornon-PoE\nButallisunmanaged.\nConnecting,Converting,Creating",
+  "s.sagatelecom@gmail.com\nSagaTelecom\nwww.sagatelecom.com.cn\nDimension:98*98*48mm\nGrossWeight:0.55KG\nThisenclosurehasmanymodelsforoptions.\n4portand6portmodelONLYgot100Mmodels(PoEandNon-PoE),withoutGigabit\nmodels(Gigabitmodelswillbeaboutanotherenclosure)\n8portmodelgot100Mand1000Mmodels(PoEandNon-PoE)\nButallisunmanaged.\nw\nConnecting,Converting,Creating"
+ ],
+ "extracted_at": "2026-10-22T03:49:24Z"
+}

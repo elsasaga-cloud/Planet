@@ -1,0 +1,3145 @@
+{
+ "sha256_16": "c9089501cd35e9fc",
+ "name": "Test Report_STC-08XGE.xlsx",
+ "ext": ".xlsx",
+ "bytes": 9843900,
+ "method": "openpyxl(values)",
+ "status": "ok",
+ "meta": {
+  "sheets": [
+   "封面 Test report cover",
+   "全面测试报告 Comprehensive test repor",
+   "修改记录表 Modify record",
+   "纹波测试 Ripple test",
+   "上电时序测试 Power-on sequence test",
+   " 整机功耗测试 Whole machine power con",
+   " 元器件温升测试 Component temperature ",
+   " RFC2544&RFC2889测试 test",
+   "网络测试仪测试 Network tester test",
+   " LED灯测试 Lamp test",
+   "电口兼容性测试",
+   " 开关机测试 Switch machine test",
+   " 低温环境测试  Low temperature enviro",
+   " 高温环境测试  High temperature work ",
+   " (ESD)静电放电抗扰度试验 Electrostatic d",
+   " 浪涌（冲击）抗扰度试验 Surge (impact) imm",
+   "传导骚扰测试Conducted disturbance tes",
+   "辐射骚扰测试（RE） Radiation disturbanc"
+  ],
+  "embedded_images": 33,
+  "rows_total": 473
+ },
+ "warnings": [],
+ "chars": 60747,
+ "text": "--- Sheet: 封面 Test report cover ---\n郑州仨戛通讯器材有限公司\nZhengzhou Saga Telecom Co., Ltd.\n产品硬件测试报告 Product hardware test report\n机 型 Machine type：STC-08XGE\n制 表Tabulation\t魏嵩波\t\t日期Date\t45210\t描 述Description\t全万兆8电口交换机  All 10 Gigabit 8-port switch\n审 核Audit\t吴飞\t\t日期Date\t45210\t8个万兆电口  All 10 Gigabit 8-port switch\n项目负责人审核\nProject leader review\t陈东\t\t日期Date\t45210\t主芯片型号Main chip model：RTL9303\n核准Approved\t唐灵军\t\t日期Date\t45210\t版 本Version\tV1.0\t\t发放日期Issue date\t45211\n--- Sheet: 全面测试报告 Comprehensive test repor ---\nSTC-08XGE测试项目列表List of test items\n测试人Tester:魏嵩波\t\t审核人Reviewer:唐灵军\t\t日期Date：2022/10/11\n测试测试项目 Test test items\t报告版本 Report version：v1.0\t电源power supply： 52V 1.85A\n\t\t供电方式Power supply mode：220V\n\t测试项目Test items:STC-08XGE\t测试结果Test Results（PASS/FAIL)\t\t数据链接Data link\t\t备注Remarks\n硬件测试 Hardware test\t纹波测试 Ripple test\tPASS\t\t纹波测试 Ripple test\n\t上电时序测试 Power-on sequence test\tPASS\t\t上电时序测试 Power-on sequence test\n\t整机功耗测试  Whole machine power consumption test\tPASS\t\t整机功耗测试 Whole machine power con\n\t元器件温升测试 Component temperature rise test\tPASS\t\t元器件温升测试 Component temperature '!A1\n性能测试 Performance Testing\tRFC2544&RFC2889测试 RFC2544&RFC288 test\tPASS\t\tRFC2544&RFC2889测试 test\n\t网络测试仪测试 Network tester test\tPASS\t\t网络测试仪测试 Network tester test\n\tLED指示灯测试 Indicator light test\tPASS\t\tLED灯测试 Lamp test\n\t开关机测试 ON/OFF switch machine test\tPASS\t\t开关机测试 Switch machine test\n兼容性测试\t交换机级联兼容性测试\tPASS\t\t交换机级联兼容性测试Switch Cascading Comp'\n\t电口兼容性测试\tPASS\t\t电口兼容性测试!A1\n可靠性测试 Reliability test\t低温环境测试 Low temperature environment test\tPASS\t\t低温环境测试  Low temperature enviro\n\t高温环境测试 High temperature environment test\tPASS\t\t高温环境测试  High temperature work\nEMC\tESD 静电放电抗扰度试验 Electrostatic discharge immunity test\tPASS\t\t(ESD)静电放电抗扰度试验 Electrostatic d\n\t浪涌（冲击）抗扰度试验 Surge (impact) immunity test\tPASS\t\t浪涌（冲击）抗扰度试验 Surge (impact) imm\n\t传导骚扰测试 Conducted disturbance test(CE)\tPASS\t\t传导骚扰测试Conducted disturbance tes\n\t辐射骚扰测试 Radiation disturbance test（RE）\tPASS\t\t辐射骚扰测试（RE） Radiation disturbanc\n--- Sheet: 修改记录表 Modify record ---\n修改记录 Modify record\t\t\t\t\t\t返回\n文件编号\nFile Number\t版本号\nVersion Number\t拟制人Drafter\n修改人Editor\t拟制Date of drafting\n修改日期Modification\t更改理由\nReason for Change\t主要更改内容Main content\n\t\t\t\t\t（写要点即可）(Just write the main points)\n1\tV1.0\t\t\t无no\t无no\n注1：每次更改归档文件（归为受控文件），需填写此表。Note 1: This form is required to be filled in every time the archive file (classified as a controlled file) is changed.\n注2：文件第一次归档时，“更改理由”、“主要更改内容”栏写“无”Note 2: When the document is filed for the first time, write \"None\" in the \"Reason for change\" and \"Main content of change\"\n--- Sheet: 纹波测试 Ripple test ---\n纹波测试Ripple test\t\t\t\t\t\t\t\t\t\t\t\t\t返回\n一、测试目的Testing purposes\n通过对产品主芯片power的电气参数的测量，对比其本身的电气特性规范来判断交换机是否符合电源完整性的要求。（反映产品的performance因素之一）\nBy measuring the electrical parameters of the main chip power of the product, and comparing its own electrical characteristics to determine whether the switch meets the requirements of power integrity. (Reflecting one of the performance factors of the product)\n二、测试步骤Test steps\n1、开启示波器，然后对示波器和无缘探头进行校准。Turn on the oscilloscope, and then calibrate the oscilloscope and the edgeless probe.\n2、开交换机环起来触发广播包，使其满负载工作。Open the switch to loop and trigger the broadcast packet to make it work at full load.\n3、无缘探头连接到测试点（测试点尽可能在信号终端，接地点尽量靠近被测点同时接地线尽可能的短，最好用接地弹簧），示波器设置带宽为20M，交流\n，调节示波器读取需要量测信号的参数，记录下测试结果并保存其波形。                                                                                            The non-edge probe is connected to the test point (the test point is as close as possible to the signal terminal, the ground point is as close as possible to the measured point and the ground wire is as short as possible, preferably a ground spring), the oscilloscope set bandwidth to 20M, AC, adjust the oscilloscope to read needs Measure the parameters of the signal, record the test result and save its waveform.\n三、测试设备Test Equipment\n序号Serial number\t测试设备Test Equipment\t\t型号 Model\t\t数量Quantity\t\t用途Purpose/描述Description\n1\tDUT\t\tSTC-08XGE\t\t1\t\t被测试产品                Product being tested\n2\t示波器Oscilloscope\t\tRIGOL DS41014E\t\t1\t\t抓取波形使用\nGrab waveform using\n3\t无源探头             Passive probe\t\tPVP2350\t\t1\t\t抓取波形使用\nGrab waveform using\n4\t光纤模块            Optical fiber module\t\t/\t\t4\t\t搭建环境                            \nSet up the environment\n5\t光纤线                Fiber optic cable\t\t/\t\t若干Several\t\t搭建环境                             \nSet up the environment\n6\tU盘 USB Disk\t\t/\t\t1\t\t保存测试图片使用                  \nuse for Saving the test picture\n7\t万用表 multimeter\t\tTOSHIBA 32G\t\t1\t\t测试电压使用                      \nTest voltage usage\n8\t网线 cable\t\tfluke 12E+\t\t若干Several\t\t搭建环境                           \nSet up the environment\n三、测试标准 Standard test\n电压等级Voltage level\n\n电压种类Voltage type\t\t12V\t3.3V以及以上电压                                                                                                                                                                                                                                    3.3 V and above\t\t\t2.5V\t\t1.8V及下电压                                                                                                                                                                                                                                     1.8 V and down voltage\t电源交换器输出精度                                                                                                                                                                                                                          Output accuracy of power switch\n普通I/O 电源                                                                                                                                                                                                                                     Normal i/o power\t\t＜5%\t＜3%\t\t\t\t\t\t＜±2%\nVTT电源                                                                                                                                                                                                                                    VTT power supply\ncore电压                                                                                                                                                                                                                                           Core voltage\t\t\t＜50mV\t\t＜50mV\t\t\t＜30mV或2%取最少值                                                                                                                                                                                                                              Less than 30 MV OR 2%\t＜±1%\n模拟电源                                                                                                                                                                                                                                                              Analog power supply\nPLL, DLL电源                                                                                                                                                                                                                                                                                             PLL, DLL power supply\t\t\t＜30mV\t\t\t\t\t＜20mV\t＜±1%\n特殊情况处理                                                                                                                                                                                                                                         Special case handling\t\t器件资料有明确的要求，按照器件资料要求处理，否则按照上述规范处理。                                                                                                                                                                                    Device data have clear requirements, in accordance with the requirements of device data processing, otherwise in accordance with the above norms.\n3.2、测试数据 Test Data\nSignal\tLocation\t\t实测电压Measured voltage（V）\t\t\t测试判定标准Test Judgment Standard(mV)\t\tRipple Voltage\t\tResult（Pass/Fail）\n\t\t\t\t\t\t\t\tPK-PK（mV）\n3.3V\tC119\t\t3.302\t\t\t＜56mV\t\t50.6\t\tpass\n1.5V\tC62\t\t1.492\t\t\t＜36mV\t\t12.45\t\tpass\n1.1V\tC104\t\t1.08\t\t\t＜36mV\t\t16.24\t\tpass\n测试截图图 Test screenshot：\n四、测试结论Test conclusion\n该DUT可以通过测试。The DUT can pass the test.\n--- Sheet: 上电时序测试 Power-on sequence test ---\n上电时序测试 Power-on sequence test\t\t\t\t\t\t\t\t\t\t\t\t\t返回\n一、测试步骤Test steps\n1、配置单板板内的业务转发，使其分别在最大功耗下运行。   \nConfigure the service forwarding in the single board to operate at the maximum power consumption.\n2、设置示波器测试电源输入端的通道为触发通道，触发方式为单次触发，触发沿为上升沿；对所有的在板电源设置各种负载条件下，用硬开关起机，输出电压波形从10%Vo上升到90%Vo的这段时间为输出电压上升时间，如果发现输出波形有振荡等异常情况发生，记录波形。                                                          Set the oscilloscope test power input channel as the trigger channel, the trigger mode is single trigger, and the trigger edge is the rising edge; under various load conditions for all on-board power supplies, start the machine with a hard switch, and the output voltage waveform is from 10%Vo The period of rising to 90%Vo is the output voltage rising time. If an abnormal situation such as oscillation is found in the output waveform, record the waveform.\n3、设置示波器测试电源输入端的通道为触发通道，触发方式为单次触发，触发沿为下降沿；对所有的在板电源设置各种负载条件下，用硬开关关机，输出电压波形从90%Vo下降到10%Vo的这段时间为输出电压下降时间，如果发现输出波形有振荡等异常情况发生，记录波形。                                                           Set the oscilloscope test power input channel as the trigger channel, the trigger mode is single trigger, and the trigger edge is the falling edge; under various load conditions for all on-board power supplies, turn off with a hard switch, and the output voltage waveform drops from 90%Vo The period from 10%Vo is the output voltage fall time. If abnormal conditions such as oscillations are found in the output waveform, record the waveform.\n4、设置示波器测试电源输入端的通道为触发通道，触发方式为单次触发，触发沿为上升沿；使用多探头分别测试各电源，用硬开关起机，记录各电压的上电时序波形。                                                                                                                                                   Set the oscilloscope test power input channel as the trigger channel, the trigger mode is single trigger, and the trigger edge is the rising edge; use multiple probes to test each power supply separately, start the machine with a hard switch, and record the power-on sequence waveform of each voltage.\n5、在步骤2、3、4测试每种情况最少重复5次，结果中取最差值进行记录。                                                                                                                                                                                                    In steps 2, 3, and 4, the test should be repeated at least 5 times in each case, and the worst value of the results will be recorded.\n二、芯片要求Chip requirements\n三、电源上下电要求Power requirements\n1、各路电源上下电波形的上冲和下冲不能超过输出电压的10％；                                                                                                                                                                                                                  The overshoot and undershoot of each power supply waveform cannot exceed 10% of the output voltage;\n2、要求各路电源上下电波形要平滑，不能有毛刺和回落；                                                                                                                   The power-on and power-off waveforms of each power supply are required to be smooth, without glitches and fallbacks;\n3、要求各路电源上电和下电时不能出现振荡。                                                                                                                                                                                                                                       It is required that each power supply cannot oscillate when it is powered on and off.\n4、要求各路电源电压大小满足芯片要求；                                                                                                                                         The voltage of each power supply is required to meet the requirements of the chip;\n四、测试设备Test Equipment\n序号Serial number\t测试设备 Test Equipment\t\t型号model\t\t数量Quantity\t\t用途 Purpose              /描述Description\t\t备注Remarks\n1\tDUT\t\tSTC-08XGE\t\t1\t\t被测试产品           Product being tested\n3\t示波器Oscilloscope\t\tRIGOL DS41014E\t\t1\t\t抓取波形使用               Grab waveform using\n4\t无源探头Passive probe\t\tPVP2350\t\t1\t\t抓取波形使用\nGrab waveform using\n5\t光纤模块Optical fiber module\t\t/\t\t4\t\t搭建环境                  \nSet up the environment\n6\t光纤线Fiber optic cable\t\t/\t\t若干Several\t\t搭建环境                  \nSet up the environment\n7\tU盘 USB Disk\t\tTOSHIBA 32G\t\t1\t\t保存测试图片使用      Save the test picture for use\n8\t网线cable\t\t/\t\t若干Several\t\t搭建环境                \nSet up the environment\n五、测试数据Test Data\n芯片Chip/电源名称power supply name\t\t芯片要求电压Chip required voltage\t\t实测电压            Measured voltage\t上下电要求                      Power on and off requirements\t\t实测数据            \n  actual data\t\t测试结论Test conclusion\t备注Remarks\n\t\t最大值Maximum value\t最小值Minimum\n3.3V\t\t3.465\t3.135\t3.375\t上电过冲                           Power on overshoot＜10％\t\t上电过冲                Power on overshoot:1.856%\t\txx\n\t\t\t\t\t下电过冲                         Power-off overshoot＜10％\t\t下电过冲                Power-off overshoot:2.316%\t\txx\n1.5\t\t1.575\t1.425\t1.531\t上电过冲                           Power on overshoot＜10％\t\t上电过冲                Power on overshoot:4.188%\n\t\t\t\t\t下电过冲                         Power-off overshoot＜10％\t\t下电过冲                Power-off overshoot:4.188%\n1.1\t\t1.15\t1.05\t1.141\t上电过冲                           Power on overshoot＜10％\t\t上电过冲                Power on overshoot:4.244%\n\t\t\t\t\t下电过冲                         Power-off overshoot＜10％\t\t下电过冲                Power-off overshoot:1.430%\n测试截图 Test screenshot\n六、测试结论Test conclusion\n该DUT可以通过上电时序测试。The DUT can pass the power-on sequence test.\n--- Sheet:  整机功耗测试 Whole machine power con ---\n整机功耗测试 Whole machine power consumption test\t\t\t\t\t\t\t\t\t\t返回\n一、测试目的Testing purposes\n测试工程师主要针对整机系统（包括电源适配器和交换机）在DC输入模式下空载和满载时的输入电压和输入电流的量测，以此来计算整机系统的功耗，通过此项测试来了解产品的整机功率消耗状况以及适配电源选型的合理性，来验证整机功耗是否满足设计要求。                                                                                                  The test engineer mainly measures the input voltage and input current of the whole system (including power adapters and switches) under no load and full load in the DC input mode, so as to calculate the power consumption of the whole system, and pass this test To understand the overall power consumption of the product and the rationality of the selection of the adaptive power supply, to verify whether the overall power consumption meets the design requirements.\n二、测试步骤Test steps\n1、配置单板板内的业务转发，使其在最大功耗下运行，并用功率计读取一次电源的输入电压、输入电流、以及功率因素等参数。以及测试各个支路电流，适当用最短的导线从各个支点输出端飞线，用示波器和电流探头配合测试满载状态下的数据，并保存测试图片。                                                                                                                                                         Configure the service forwarding in the single board to run at the maximum power consumption, and use the power meter to read the input voltage, input current, and power factor parameters of the primary power supply. And to test the current of each branch, properly use the shortest wire to fly from the output terminal of each fulcrum, use the oscilloscope and current probe to test the data under the full load state, and save the test picture\n2、根据记录的数据分别计算出各种输入条件下的功耗。                                                                                                                                                                                                       Calculate the power consumption under various input conditions according to the recorded data.\n三、测试设备Test Equipment\n序号Serial number\t测试设备Test Equipment\t\t型号model\t\t数量Quantity\t\t用途Purpose/Description\t\t备注Remarks\n1\tDUT\t\tSTC-08XGE\t\t1\t\t被测试产品                  Product being tested\n2\t功率计dynamometer\t\tGWINSTEK GPM-8213\t\t1\t\t整机功耗测试使用                 The whole machine power consumption test use\n3\t示波器Oscilloscope\t\tRIGOL DS41014E\t\t1\t\t测试电流使用                     \nTest current usage\n4\t电流探头Current probe\t\tCP8030B\t\t1\t\t测试电流使用                    \nTest current usage\n5\t光纤模块Optical fiber module\t\t/\t\t4\t\t搭建环境                  \nSet up the environment\n6\t光纤线Fiber optic cable\t\t/\t\t若干Several\t\t搭建环境                    \nSet up the environment\n7\tU盘USB Disk\t\tTOSHIBA 32G\t\t1\t\t保存测试图片使用                  Save the test picture for use\n8\t万用表multimeter\t\tfluke 12E+\t\t1\t\t测试电压使用                \nTest voltage usage\n9\t网线cable\t\t/\t\t若干Several\t\t搭建环境Set up the environment\n四、测试结果Test Results\n整机型号Whole machine model\t电源型号Power supply model\t状态名称State name\t测试数据Test Data\t\t\t功耗（W）\t是否whether pass\n\t\t\t输入电压            Input voltage（V）\t输入电流            Input Current(A)\t输出功耗\nOutput power consumption(W)\n整机满载功耗\t220V\t满载\t220V\t0.292\t36.14\t硬件配置信息\tPASS\n空载\t220V\t空载\t220V\t0.1\t10.972\t\tPASS\n五、测试截图数据Test screenshot data\n--- Sheet:  元器件温升测试 Component temperature  ---\n元器件温升测试测 Component temperature rise test（40℃）\t\t\t\t\t\t\t\t\t\t返回\n一、测试描述Test description\n测试人员通过对高温环境下DUT 工作时各关键点的元器件的温度测试，了解在最高的温度状态下，确保每个元器件低于规格书的降额值符合规格规格书的要求。                                                                                                                                                                                     The tester passes the temperature test of the components at each key point when the DUT is working in a high temperature environment, and understands that under the highest temperature state, to ensure that the derating value of each component is lower than the specification and meets the requirements of the specification.\n二、测试产品及环境示意图Schematic diagram of test products and environment\n测试环境示意图Schematic diagram of test environment：\n三、测试设备Test Equipment\n序号Serial number\t测试设备Test Equipment\t\t型号model\t\t数量Quantity\t\t用途Purpose/描述Description\t\t备注Remarks\n1\tDUT\t\tSTC-08XGE\t\t1\t\t被测试产品                    Product being tested\n2\t多路温升测试仪                  Multi-channel temperature rise tester\t\tSJ-U\t\t1\t\t温度量测使用Temperature measurement use\n3\tPC\t\t台式兼容机                  Desktop computer\t\t1\t\t广播包触发Broadcast packet trigger\n4\t恒温恒湿试验箱             Constant temperature and humidity test chamber\t\tST-TH-S-225Z\t\t1\t\t40℃环境40℃ environment\n5\t光纤模块             Optical fiber module\t\t/\t\t1\t\t搭建环境Set up the environment\n6\t光纤线                          Fiber optic cable\t\t/\t\t2\t\t搭建环境Set up the environment\n7\tU盘USB Disk\t\tTOSHIBA 32G\t\t1\t\t记录温升数据使用Record temperature rise data usage\n8\t网线cable\t\tcat.5e\t\t16\t\t搭建环境Set up the environment\n四、测试步骤Test steps\n1、用升温胶固定各个量测点，再组装上外壳。                                                                                                                                                                                                              In the test step, each measuring point is fixed with heating glue, and then the shell is assembled.\n2、交换机每个端口用短网线连接起来，感温探头固定在各量测点上，组装上外壳。                                                             Each port of the switch is connected with a short network cable, the temperature sensing probe is fixed on each measuring point, and the upper shell is assembled.\n3、放入高低温箱，DUT触发广播包满负载运行起来。                                                                                              Put it into the high and low temperature box, DUT triggers the broadcast package to run at full load.\n4、调节高温箱温度到40℃，DUT工作4小时以后在温度稳定情况下用，从温升测试仪导出温升测试数据，并标注位号做好曲线图。                                                                                                                                              Adjust the temperature of the high temperature box to xx°C, and use the DUT when the temperature is stable after 4 hours of operation. Export the temperature rise test data from the temperature rise tester, and mark the position number to make a graph.\n五、测量位号图Measurement bit number map\n七、测量结果 ℃Measurement result ℃\nNO\tLocation/位置\t\tSPEC/规格\n(℃)\t\t实际测试温度Actual test temperature (℃)\t\tAMB/环温℃\t\tResult/结果\n1#\tCPU\t\t125\t\t67.7\t\t40\t\tPASS\n2#\tPHY左\t\t115\t\t93.3\t\t40\t\tPASS\n3#\tPHY右\t\t115\t\t92.8\t\t40\t\tPASS\n4#\tQ5\t\t105\t\t93.5\t\t40\t\tPASS\n5#\tU10\t\t105\t\t74.8\t\t40\t\tPASS\n6#\tQ6\t\t105\t\t100.2\t\t40\t\tPASS\n7#\tL12\t\t105\t\t86.4\t\t40\t\tPASS\n8#\tC292\t\t105\t\t66.3\t\t40\t\tPASS\n9#\tQ1\t\t105\t\t72.4\t\t40\t\tPASS\n10#\tL2\t\t105\t\t63.6\t\t40\t\tPASS\n11#\tU15\t\t105\t\t53.8\t\t40\t\tPASS\n12#\tL13\t\t105\t\t55.5\t\t40\t\tPASS\n13#\tU4\t\t105\t\t52.6\t\t40\t\tPASS\n14#\tQ7\t\t105\t\t50.5\t\t40\t\tPASS\n15#\tL3\t\t105\t\t53.3\t\t40\t\tPASS\n16#\tQ3\t\t105\t\t48\t\t40\t\tPASS\n八、结果判定Result judgment\n序号Serial number\t\t测试组件Test component\t\t结果判定Result judgment            (PASS/FAIL)\t\t测试数据Test Data\t\t备注Remarks\n1\t\tDUT交换组件的温度The temperature of the DUT exchange component\t\tPASS\n--- Sheet:  RFC2544&RFC2889测试 test ---\nRFC-2544&RFC-2889 性能测试报告 Performance test report\t\t\t\t\t\t\t\t\t\t\t\t\t\t返回\n测试项目Test items\t\t测试模式Test mode\t\t测试内容Test content\t\tFrame Size\t\t测试时间\n（Duration Secs）\t\t测试结果Test Results\n（PASS/FAIL)\t\t测试数据Test Data\t备注Remarks\nRFC2544\t\tPAIR\t\t吞吐量\n（Throughput ）\t\t64 /128 /256/ 512/ 1024 1280/ 1518\t\t30 S\t\tPASS\n\t\t\t\t时延\n（Latency）\t\t\t\t\t\tPASS\n\t\t\t\t丢包率\n（Packet Loss）\t\t\t\t\t\tPASS\n\t\t\t\t背靠背\n（Back to Back）\t\t\t\t\t\tPASS\nRFC2889\t\t\t\t错误帧过滤\n（Error Filtering）\t\t64 /128 /256/ 512/ 1024 1280/ 1518\t\t30 S\t\tPASS\n\t\t\t\t广播转发\n（Broadcast Forwarding）\t\t\t\t\t\tPASS\n\t\t\t\t广播时延\n（Broadcast Latency）\t\t\t\t\t\tPASS\n测试结论：DUT可以通过RFC2544&RFC2889各项指标测试。Test conclusion: DUT can pass RFC2544&RFC2889 various index tests.\n--- Sheet: 网络测试仪测试 Network tester test ---\nNuStreams-2000i网络测试仪测试Network tester test\t\t\t\t\t\t返回\n一、测试目的Testing purposes\n测试工程师通过对交换机进行NuStreams-2000i网络测试仪UC、BC、FC、FT、CRC测试，以此来验证交换机的收发包状况。The test engineer verifies the status of the switch's receiving and sending packets by performing the NuStreams-2000i network tester UC, BC, FC, FT, and CRC tests on the switch.\n二、测试步骤Test steps\n1．用百米网线将DUT与NuStreams-2000i网络测试仪连接起来，开启网络测试仪。Connect the DUT and NuStreams-2000i network tester with a 100-meter network cable, and turn on the network tester.\n2．交换机上电，在测试电脑上开启APMPT-4测试软件。Power on the switch and start the APMPT-4 test software on the test computer.\n3．在APMPT-4测试软件中加入10M/100M全/半双工和1G的UC、BC、FC、FT、CRC 共26个测试项（各测试项均设置在默认设置基础上增加100倍）；1G的UC、BC、FT、CRC共4个测试项。Add 10M/100M full/half duplex and 1G UC, BC, FC, FT, CRC to APMPT-4 test software, a total of 26 test items (each test item is set to increase by 100 times based on the default setting); 1G There are 4 test items of UC, BC, FT and CRC.\n4．测试完毕后截取测试结果图。After the test is completed, take a screenshot of the test result.\n测试项目：UC：单播  BC：广播  FT：过滤  CRC：校验Test items: UC: Unicast BC: Broadcast FT: Filter CRC: Check\nUC\tBC\tFT\tCRC\nPT2-UC-10G\tPT2-BC-10G\tPT2-FT-10G\tPT2-CRC-10G\n2SFP测试项目：UC：单播  BC：广播  FT：过滤  CRC：校验2SFP test items: UC: Unicast BC: Broadcast FT: Filter CRC: Check\nUC\tBC\tFT\tCRC\nPT2-UC-10G\tPT2-BC-10G\tPT2-FT-10G\tPT2-CRC-10G\n三、测试标准standard test\n要求测试项测试完成以后，测试软件显示全部测试项都是PASS的。  \nAfter the test items are required to be tested, the test software shows that all test items are PASS.\n测试结果Test Results（）\n测试项目Test items\t测试子项目Test subproject\t\t\t测试结果Test Results（PASS/FAIL）\t备注Remarks\nUC：单播               Unicast\tPT2-UC-10G\t\t\tPASS\nFT：过滤                  filter\tPT2-FT-10G\t\t\tPASS\nCRC：校验check\tPT2-CRC-10G\t\t\tPASS\n测试结果Test Results（）\n测试项目Test items\t测试子项目Test subproject\t\t\t测试结果Test Results（PASS/FAIL）\t备注Remarks\nUC：单播Unicast\tPT2-UC-10G\t\t\tPASS\nBC：广播broadcast\tPT2-BC-10G\t\t\tPASS\nFT：过滤filter\tPT2-FT-10G\t\t\tPASS\nCRC：校验check\tPT2-CRC-10G\t\t\tPASS\n测试结果附图Test results attached\n--- Sheet:  LED灯测试 Lamp test ---\nLED灯测试Lamp test\t\t\t\t\t\t\t\t返回\n一、测试目的Testing purposes\n测试人员通过插拔交换机端口的网线来判断其对应的LED指示灯顺序及指示状况是否正确，以此来验证产品设计的正确性和合理性。                                                                                                                                The tester judges whether the corresponding LED indicator sequence and indication status are correct by plugging and unplugging the network cable of the switch port, so as to verify the correctness and rationality of the product design.\n二、测试步骤Test steps\n1、DUT上电，观察DUT面板上的LED指示灯,此时DUT所有指示灯应常亮自检，自检后系统启动完成。                                                                                             \nPower on the DUT and observe the LED indicators on the DUT panel. At this time, all the indicators of the DUT should always be on. Self-checking. After the self-checking, the system starts up.\n2、用网线将DUT连接到网络测试仪，观察指示灯变化情况。                                                                                                                                                                                        Connect the DUT to the network tester with a network cable and observe the change of the indicator light.\n3、分别设置网络测试仪端口的链接速度10M/100M/1000M，查看交换机每一个对应的LED指示灯应长亮并观察其颜色变化。然后进行收发包测试，此时对应端口的指示灯应该闪烁，否则视为不正常。                                                                                                                                                                 \nSet the link speed of the network tester port to 10M/100M/1000M respectively, check that each corresponding LED indicator of the switch should be on and observe its color change. Then carry out the packet sending and receiving test, at this time the indicator light of the corresponding port should flash, otherwise it is regarded as abnormal.\n三、测试结果Test Results\n位置position\t颜色colour\t状态status\t状态描述status description\nPOWER\t绿色green\t长亮bright\t通电                                                                    \npower ups\n\t\t熄灭Go out\t断电                                                                   \nPower off\n电口指示灯Electric port indicator\t绿色green（10000Mbps）\n橙色green（100/1000/2500 Mbps）\t长亮bright\t对应端口已连接                                                    \nCorresponding port is connected\n\t\t闪烁Flashing\t对应端口已连接并收发数据                                                  \nThe corresponding port is connected and sending and receiving data\n\t\t熄灭Go out\t对应端口未连接                                                 \nCorresponding port is not connected\n四、测试结果附图Test results attached\n--- Sheet: 电口兼容性测试 ---\n注意测试时手法：1：每种速率需要20次插拔；2:每种速率插入状态要断电上电10次 \n3：每种速率要用100米网线测试；4:10M需要用200-250米网线测试\n序号 No.\t\t\t机型或者芯片型号\t10M\t100M\t1000M\t2.5G\t10G\t测试结果\t备注\n1\t测试仪兼容性测试                                                                                                                                                                                                                                                          Tester Compatibility Testing\t\tNustreams-2000i\t×\t√\t√\t√\t√\tPass\n7\t电脑板卡兼容性测试                                                                                                                                                                                                                        Computer board compatibility test\t\t英特尔 X550-T1 10G/2.5G\t×\t√\t√\t√\t√\tPass\n8\t\t\t高通AQC107 10G/2.5G\t×\t√\t√\t√\t√\tPass\n9\t\t\t瑞昱RTL8125 2.5G\t×\t√\t√\t√\t√\tPass\n10\t\t\t瑞昱RTL8156 USB 2.5G\t×\t√\t√\t√\t√\tPass\n--- Sheet:  开关机测试 Switch machine test ---\n开关机测试Switch machine test\t\t\t\t\t\t\t\t\t\t\t返回\n一、测试描述Test description\n测试工程师通过将交换机电源与测试治具串连，通过开关控制器频繁开关，通过这项测试，来检查交换机在快速频繁开关机的时候是否能够正常上电复位以及正常工作。                                                                                                                            \nThe test engineer connects the switch power supply to the test fixture in series, and frequently switches on and off the switch controller. Through this test, the switch can be powered on and reset and work normally when the switch is switched on and off quickly and frequently.\n三、测试步骤Test steps\n1．定时瞬间开关机Timing and momentary switch:\n步骤一：开机时间设为120S。                                                                                                                        Step 1: Set the boot time to 120S.\n步骤二：关机时间设为30s。                                                                                                                                                                                                                                                 Step 2: Set the shutdown time to 30s.\n步骤三：用串口监控启动状态，并时时保存启动信息                                                                                                                                                                                                             Step 3: Use the serial port to monitor the startup status, and save startup information from time to time\n步骤四：重复步骤一、二、三循环500次。                                                                                                                                                                                                                                           Step 4: Repeat steps 1, 2, and 3 for 500 times.\n步骤五：分别在-10℃环境开关机500次，再切换50℃环境下开关机500次。                                                                                                                                                                                                     Step 5: Switch the machine on and off at -10°C for 500 times, and then switch on and off at 50°C for 500 times.\n开关机测试组网图如图所示 备注：高低开关机测试时，测试设备先高温/低温冷藏3H ,再进行测试                                                                                                                                                          .The network diagram of the switch machine test is shown in the figure. Remarks: During the high and low switch machine test, the test equipment should be refrigerated at high temperature/low temperature for 3H before testing. The network diagram of the switch machine test is shown in the figure.\n三、测试设备Test Equipment\n序号Serial number\t测试设备Test Equipment\t\t型号model\t\t数量Quantity\t\t用途use/描述description\n1\tDUT\t\tSTC-08XGE\t\t1\n2\t恒温恒湿试验箱          Constant temperature and humidity test chamber\t\tST-TH-S-225Z\t\t1\t\t提供测试环境                                   Provide test environment\n3\t开关控制器               Switch controller\t\t自研Self-study\t\t1\t\t控制开关频繁切换Frequent switching of the control switch\n4\t串口小板                      Serial port board\t\t/\t\t1\t\t输出软件打印信息           Output software printing information\n5\t台式电脑                Desktop PC\t\t金河田Golden Field\t\t1\t\t查看打印信息                                                                                                                                                                                                                                  View Print Information\n四、测试结果Test Results\n测试项目Test items\t\t测试数据Test Data\t\t\t\t测试结果Test Results                             （PASS/FAIL）\n低温-10℃500次开关机\t\t\t\t\t\tPASS\n高温50℃500次开关机\t\t\t\t\t\tPASS\n五、测试结论Test conclusion\nDUT通过长时间开关机测试，无异常，可以通过开关机测试。           \nThe DUT has passed the long-time power-on and power-off test, and it can pass the power-on-off test without exception.\n--- Sheet:  低温环境测试  Low temperature enviro ---\n低温环境测试Low temperature environment test(16H)\t\t\t\t\t\t\t\t\t\t\t\t\t\t返回\n一、测试目的Testing purposes\n测试工程师通过对DUT在-10度低温环境下长时间稳定性测试，以此来检验DUT的低温适应性以及确保DUT的可靠性。\nTest engineers test the long-term stability of the DUT in a low temperature environment of -10℃ degrees to \nverify the low temperature adaptability of the DUT and ensure the reliability of the DUT.\n二、测试方法和说明Test method and description :\n参考IEC-60068-2-1测试规则Refer to IEC-60068-2-1 test rules\n序号Serial number\t测试项目Test items\t\t状态描述status description\t\t\t\t\t参考资料Reference\n1\tOperation Cold Test\t\t- Temperature: -10℃\t\t\t\t\tIEC-60068-2-1\n\t\t\t- Duration: 16hours\n试验参数确定Determination of test parameters\n三，测试设备Test Equipment\n\t序号Serial number\t设备名称Equipment name\t型号model\t数量Quantity\t用途Purpose/描述Description\n\t1\tDUT\tSTC-08XGE\t1\t被测试样机Prototype being tested\n\t2\t网络测试仪                  Network tester\tNustreams-2000i\t1\t打流设备Streaming equipment\n\t3\t台式机 \nDesktop\t金河田            \nGolden Field\t1\t控制打流Control flow\n\t4\t网线cable\tcat.5e\t若干Several\t搭建环境Set up the environment\n\t7\t恒温恒湿试验箱Constant temperature and humidity test chamber\tST-TH-S-225Z\t1\t（-10℃环境）(-10℃ environment)\n四、测试拓扑结构图与测试环境示意图Test topology diagram and test environment diagram\n1．DUT放入高低温箱内，通电后所有千兆端口连接网络测试仪，用光纤线将DUT的光纤口与网络测试仪相连，网络测试仪运行NuWin-RM测试程序，点击菜单栏Browse Setup,选择Pair模式,所有端口自协商成最高速率Line Rate为100.00%，                                                                                                                                                                                                                          \nPut the DUT into the high and low temperature box. After power on, all Gigabit ports are connected to the network tester. Connect the optical fiber port of the DUT to the network tester with an optical fiber cable. The network tester runs the NuWin-RM test program, click on the menu bar Browse Setup, select Pair mode, all ports auto-negotiate to the highest line rate of 100.00%,\nFrame length Random Bytes，运行测试程序，让DUT处于满负荷运行状态。                                                                                                                                                                                               \nFrame length Random Bytes, run the test program to make the DUT run at full load.\n1．DUT放入高低温箱内，通电后所有千兆端口连接网络测试仪，用光纤线将DUT的光纤口与网络测试仪相连，网络测试仪运行NuWin-RM测试程序，协商成最高速率Line Rate为100.00%， Frame length Random Bytes，运行测试程序，让DUT处于满负荷运行状态。                                                                                                                  \nPut the DUT in the high and low temperature box. After power on, all Gigabit ports are connected to the network tester. Connect the fiber port of the DUT to the network tester with an optical fiber cable. The network tester runs the NuWin-RM test program and negotiates the highest rate Line Rate 100.00%, Frame length Random Bytes, run the test program to make the DUT run at full load.\n3. 启动高低温箱预先设定的温度调控程序（步骤2），开始测试；                                                                                                                                                                                                       \nStart the pre-set temperature control program of the high and low temperature box (step 2), and start the test;\n4. DUT收发包运行16小时，保存网络测试仪测试数据；                                                                                                                                                                                     \nDUT receiving and sending packets runs for 16 hours and saves the test data of the network tester;\n4. DUT收发包运行16小时，保存网络测试仪测试数据；                                                                                                                                                                                                                       DUT receiving and sending packets runs for 16 hours and saves the test data of the network tester;\n5．待高温箱温度升至常温25℃，取出DUT，测试结束。                                                                                                                                                                                                                     After the temperature of the high temperature box rises to 25°C, take out the DUT and the test ends.\n要求DUT在高温能正常工作，在测试时间结束以后，其端口发送的数据包与接收端口收到的数据包数量一致，发送和接收总包数相同，没有丢包或者多包现象，也没有接收到其它非正常数据包，如broadcast、Undersize、Oversize……                                                                                                                                                                                                                                  \nThe DUT is required to work normally at high temperatures. After the test time is over, the number of data packets sent by its port is the same as the number of data packets received by the receiving port, the total number of sent and received packets is the same, there is no packet loss or multi-packet phenomenon, and no reception To other abnormal data packets, such as broadcast, Undersize, Oversize.\n五、测试结果合格判定标准Test result qualification criteria\n要求DUT在低温能正常工作，在测试时间结束以后，其端口发送的数据包与接收端口收到的数据包数量一致，发送和接收总包数相同，没有丢包或者多包现象，也没有接收到其它非正常数据包如broadcast、Undersize、Oversize…                                                                                                                                            \n The DUT is required to work normally at low temperatures. After the test time is over, the number of data packets sent by its port is the same as the number of data packets received by the receiving port, the total number of sent and received packets is the same, there is no packet loss or multi-packet phenomenon, and no reception To other abnormal data packets such as broadcast, Undersize, Oversize...\n六、测试结果Test Results\n1) 低温试验结果：PASS Low temperature test result: PASS\nSTC-08XGE产品在输入电压为AC 220V，再-10℃环境中，在连续工作16h低温环境工作中没有丢包现像，Nustreams-2000i测试正常，测试具体数据在附件。                                                                                                        The STC-08XGE product has no packet loss when the input voltage is AC 220V, and then at -10°C, in a low temperature environment for 16 hours of continuous operation. Nustreams-2000i is tested normally. The specific data of the test is in the attachment.\n2) DUT进行外观检查、性能检测：PASS DUT performs visual inspection and performance inspection: PASS\n测试结果附图Test results attached：\n七、测试结论Test conclusion\n该DUT可以通过低温长时间工作测试。The DUT can pass the low-temperature long-time working test.\n--- Sheet:  高温环境测试  High temperature work  ---\n高温工作（调压）High temperature work (voltage regulation)16H\t\t\t\t\t\t\t\t\t\t\t\t\t\t返回\n一、测试目的Testing purposes\n测试工程师通过对DUT在+40度高温环境下长时间稳定性测试，调压、断电重启以此来检验DUT的高温适应性以及确保DUT的可靠性。                                                                                                                                           Test engineers verify the high temperature adaptability of the DUT and ensure the reliability of the DUT through long-term stability testing of the DUT in a high temperature environment of +40 degrees, voltage regulation, and power-off restart.\n二、测试方法和说明Test method and description:\n参考IEC-60068-2-2测试规则Refer to IEC-60068-2-2 test rules\n序号Serial number\t测试项目Test items\t\t\t状态描述status description\t\t\t\t参考资料Reference\n1\tDamp Heat Steady State Test\t\t\t- Temperature: +40℃ 95%RH\t\t\t\tIEC-60068-2-2\n\t\t\t\t- Duration: 16hours\n试验参数确定Determination of test parameters\n三，测试设备Test Equipment\n\t序号Serial number\t设备名称Equipment name\t型号model\t数量Quantity\t用途Purpose/描述Description\n\t1\tDUT\tSTC-08XGE\t1\t被测试样机Prototype being tested\n\t2\t网络测试仪              Network tester\tNustreams-2000i\t1\t打流设备Streaming equipment\n\t3\t台式机             Desktop\t金河田                    Golden Field\t1\t控制打流Control flow\n\t4\t网线cable\tcat.5e\t若干Several\t搭建环境Set up the environment\n\t7\t恒温恒湿试验箱Constant temperature and humidity test chamber\tST-TH-S-225Z\t1\t（40℃环境）(40℃ environment)\n三、测试拓扑结构图与测试环境示意图Test topology diagram and test environment diagram\n四、测试步骤Test steps\n1．DUT放入高低温箱内，通电后所有千兆端口连接网络测试仪，用光纤线将DUT的光纤口与网络测试仪相连，网络测试仪运行NuWin-RM测试程序，点击菜单栏Browse Setup,选择Pair模式,所有端口自协商成最高速率Line Rate为100.00%，                                                                                                                                                                                                                          \nPut the DUT into the high and low temperature box. After power on, all Gigabit ports are connected to the network tester. Connect the optical fiber port of the DUT to the network tester with an optical fiber cable. The network tester runs the NuWin-RM test program, click on the menu bar Browse Setup, select Pair mode, all ports auto-negotiate to the highest line rate of 100.00%,\nFrame length Random Bytes，运行测试程序，让DUT处于满负荷运行状态。                                                                                                                                                                                               \nFrame length Random Bytes, run the test program to make the DUT run at full load.\n2．设置高低温老化箱的温控程序：①25℃ 60%RH保持30分钟，②30分钟内升温至40℃95%RH，③40℃95%RH保持16小时，④30分钟内降温至25℃ 60%RH，⑤25℃ 60%RH 保持30分钟；                                                                                                          Set the temperature control program of the high and low temperature aging box: ① keep at 25℃ 60%RH for 30 minutes, ② increase the temperature to 40℃95%RH within 30 minutes, ③ keep at40℃ 95%RH for 16 hours, ④ decrease the temperature to 25℃ 60%RH within 30 minutes, ⑤ Keep at 25℃ 60%RH for 30 minutes;\n3. 启动高低温箱预先设定的温度调控程序（步骤2），开始测试；                                                                                                                                                                                                       \nStart the pre-set temperature control program of the high and low temperature box (step 2), and start the test;\n4. DUT收发包运行16小时，保存网络测试仪测试数据；                                                                                                                                                                                     \nDUT receiving and sending packets runs for 16 hours and saves the test data of the network tester;\n6．待高温箱温度升至常温25℃，取出DUT，测试结束。                                                                                                                                                                                                                                                                                                            After the temperature of the high temperature box rises to 25°C, take out the DUT and the test ends.\n五、测试结果合格判定标准Test result qualification criteria\n要求DUT在高温能正常工作，在测试时间结束以后，其端口发送的数据包与接收端口收到的数据包数量一致，发送和接收总包数相同，没有丢包或者多包现象，也没有接收到其它非正常数据包，如broadcast、Undersize、Oversize……                                                                                                                                                                                                                                  \nThe DUT is required to work normally at high temperatures. After the test time is over, the number of data packets sent by its port is the same as the number of data packets received by the receiving port, the total number of sent and received packets is the same, there is no packet loss or multi-packet phenomenon, and no reception To other abnormal data packets, such as broadcast, Undersize, Oversize.\n六、测试结果Test Results\n1) 高温试验结果High temperature test results：PASS\nSTC-08XGE产品在输入电压为AC 220V，在40℃环境中，在连续工作16h低温环境工作中没有丢包现像，Nustreams-2000i测试正常，测试具体数据在附件。                                                                                                                                                                                              The STC-08XGE product has an input voltage of AC 220V, in an environment of 50°C, and no packet loss during 16 hours of continuous working in a low temperature environment. Nustreams-2000i is tested normally. The specific data of the test is in the attachment.\n2) DUT进行外观检查、性能检测DUT conducts visual inspection and performance testing：PASS\n测试结果附图Test results attached：\n七、测试结论Test conclusion\n该DUT可以通过高温长时间工作测试。The DUT can pass the high temperature and long time working test.\n--- Sheet:  (ESD)静电放电抗扰度试验 Electrostatic d ---\n（ESD）静电放电抗扰度试验(ESD) Electrostatic discharge immunity test\t\t\t\t\t\t\t\t\t\t返回\n一、测试目的Testing purposes\n验证DUT承受ESD的能力，以确保产品的可靠性。Verify the ability of DUT to withstand ESD to ensure product reliability.\n二、测试描述Test description\n测试工程师通过对DUT在通电情况下，按照标准GB/T 17626.2-2006，对螺丝，网口屏蔽罩，光纤口，机壳，接地点导电部分进行±6KV的接触放电测试；对拨动开关，散热孔、网口、光纤口不导电位置进行±8KV的气隙放电。以此来确认DUT静电抗扰度的等级，以确保产品的可靠性                                                                                                                                                The test engineer conducted a ±6KV contact discharge test on the screw, network port shield, optical fiber port, chassis, and conductive part of the grounding point when the DUT is powered on, in accordance with the standard GB/T 17626.2-2006; for the toggle switch, Cooling holes, network ports。The non-conducting position of the fiber port performs an air gap discharge of ±8KV. In order to confirm the level of DUT electrostatic immunity, to ensure the reliability of the product.\n表1试验等级/Table 1 test levels\n1A 接触放电/1A contact discharge\t\t\t\t1B空气放电/1B Air discharge\n等级                                                                                                                                                                                                                                                           Rank\t\t试验电压/KV                                                                                                                                                                                                                                      Test Voltage/kv\t\t等级                                                                                                                                                                                                                                                           Rank\t\t试验电压/KV                                                                                                                                                                                                                                      Test Voltage/kv\n1\t\t2\t\t1\t\t2\n2\t\t4\t\t2\t\t4\n3\t\t6\t\t3\t\t8\n4\t\t8\t\t4\t\t15\nXa\t\t特殊/Special\t\tXa\t\t特殊/Special\n“X”是开放等级，该等级必须在专业设备的规范中加以规定，如果规定了高压表格中的电压则可能需要专业的试验设备。                                               \n\"X\" is an open grade, which must be specified in the specification for professional equipment, which may be required if the voltage in the high-voltage form is specified.\n三、测试连接图Test connection diagram\n四、测试环境：（室温：22±2℃ 相对湿度：50.0±5% RH） Test environment: (room temperature: 22±2℃ relative humidity: 50.0±5% RH)\n五、测试设备Test Equipment\n\t序号Serial number\t设备名称Equipment name\t型号model\t数量Quantity\t用途Purpose/描述Description\n\t1\tDUT\tSTC-08XGE\t1\t被测试样机Prototype being tested\n\t2\t静电测试仪Static tester\tHESDD610002TA\t1\t静电发生器设备Electrostatic generator equipment\n\t3\t笔记本notebook\tLenovo 470\t1\t使用ping广播包Use ping broadcast packet\n\t4\t网线cable\tcat.5e\t1\t搭建环境Set up the environment\n六.测试步骤Test steps：\n1、把DUT网口与笔记本电脑连接，通过笔记本ping交换机的IP,进行发送广播包，查看通讯情况。                                                                               Connect the DUT network port to the laptop, ping the IP of the switch through the laptop, send broadcast packets, and check the communication status.\n2、调节静电测试仪，分别对每个ESD接触测试点进行10次±8KV接触放电，放电间隔1s。                                                                                     Adjust the electrostatic tester to perform 10 ±8KV contact discharges on each ESD contact test point, with a discharge interval of 1s.\n3、调节静电测试仪，分别对每个ESD空气测试点进行10次±15KV空气放电，放电间隔1s。  \nAdjust the electrostatic tester, and perform 10 ±15KV air discharges on each ESD air test point with a discharge interval of 1s.\n4、测试过程中，注意LED灯的闪烁情况，如出现异常，立即停止测试，并按照测试标准对其评级。   \nDuring the test, pay attention to the flickering of the LED lights. If there is an abnormality, stop the test immediately and rate it according to the test standard.\n七、测试判定标准Test Judgment Standard：\n基于EUT之操作条件和功能规格，将测试结果分为四级：                                                                                                                                                                                                  Based on the operating conditions and functional specifications of Eut, the test results are divided into four levels:\na、在规格限制内，功能正常；                                                                                                                                    a、Within the limits of the specification, the function is normal;\nb、EUT不允许重启，可自行恢复的暂时性功能丧失或退化；                                                                                                                                                                                                                                       B, EUT is not allowed to restart, temporary loss of function or degeneration which can be recovered\nby itself;\nc、需系统重设或者人工操作才能恢复的暂时性功能丧失或退化；                                                                                                                                                                                     c、Temporary loss or degeneration of functions that require system reset or manual operation tobe restored;\nd、因设备被破坏，或软件资料流失而引起之不可能恢复的功能丧失或退化；                                                                                                                                                                               d、 loss or degradation of functions that can not be recovered as a result of damage to the equipment or loss of software data;\n一般来说，EUT在测试过程中一直呈现A项状态，则判定EUT为测试合格。若出现D.项状态则判定EUT为不合格，若出现B，及C.项状态则依据EUT规格要求判定或客户协定EUT是否合格。                                                                                                                                    In general, EUT is judged to pass the test if it has been in a state during the test. If there's a \"D. \". Item Status is judged EUT to be unqualified, if appear B, and C. Item Status is determined according to EUT specifications or customer agreement EUT is eligible.\n七、测试结果Test Results:\n测试项目Test items\t\t测试位置Test location\t\t试验电压与测试次数Test voltage and test times\t\t符合等级Meet the level\t\t测试结果Test Results                    （PASS/FAIL）\n接触放电 \nContact discharge\t\t网口 Network port\t\t±6KV/10次10 times\t\tC级Class C\t\tPASS\n\t\t接地点Ground point\t\t\t\t\t\tPASS\n\t\t机壳螺丝Case screws\t\t\t\t\t\tPASS\n\t\t光纤口Fiber port\t\t\t\t\t\tPASS\n\t\t设备外壳Equipment shell\t\t\t\t\t\tPASS\n空气放电 \nAir discharge\t\t网口Network port\t\t±8KV/10次10 times\t\tC级Class C\t\tPASS\n\t\t光纤口Fiber port\t\t\t\t\t\tPASS\n\t\t散热孔Vents\t\t\t\t\t\tPASS\n\t\t产品缝隙Product gap\t\t\t\t\t\tPASS\n八、测试结论Test conclusion\nDUT可以通过静电ESD测试。The DUT can pass the electrostatic ESD test.\n--- Sheet:  浪涌（冲击）抗扰度试验 Surge (impact) imm ---\n浪涌（冲击）抗扰度试验Surge (impact) immunity test\n一、测试目的Testing purposes\n浪涌（冲击） 可靠性试验是产品在规定的工作状态下， 对由开关或雷电作用所产生的有一定危害电平的浪涌(冲击)电压的反应及性能， 以评定设备或系统对规定 现象的抗扰度， 确保产品的品质和可靠性.                                                                                                                                                                                    Surge (impact) reliability test is the product's response and performance to a certain hazardous level of surge \n(impact) voltage generated by the action of switches or thunder and Phenomenon immunity to ensure product quality and reliability.\n二、测试描述Test description\n测试工程师通过对DUT在通电情况下，按照标准GB/T 17626.5-2008/IEC61000-4-5:2005，对电源端口和通讯端口进行的浪涌（冲击）测试，差分±2K,通讯端口共模±4k.                                                                                                                                he test engineer passed the surge (impact) test on the power port and the communication port when the DUT is powered on, according to the standard GB/T 17626.5-2008, the differential mode is ±2K, and the communication port is common mode. ±4k.\n三、测试连接图Test connection diagram\n四、 测试设备Test Equipment\n\t序号\t设备名称                   Equipment name\t型号model\t数量Quantity\t用途Purpose/描述Description\n\t1\tDUT\tSTC-08XGE\t1\t被测试样机Prototype being tested\n\t2\t雷击浪涌发生器                Lightning surge generator\tSUG61005TB\t1\t浪涌发生器         Surge generator\n\t3\t信号线去耦网络                   Signal line decoupling network\tDATA-CDN-4\t1\t浪涌发生器Surge generator\n\t\t单相变压器                     Single phase transformer\tJMB-2KVA\t1\t给电源浪涌输送电Feeding power surges\n\t4\t网线cable\tcat.5e\t若干                  Several\t搭建环境Set up the environment\n\t\t\t\t\t\t\t\t\t\t7\n五、测试环境test environment\n通讯口测试共模环境图\nCommunication port test common mode environment diagram\t\t\t\t\t\t电源口测试差分环境图\nPower port test differential mode environment diagram\n拍摄实际测试图片Take actual test pictures\n六、测试步骤Test steps\n1、打开雷击浪涌测试软件。Open the lightning surge test software.\n2、将实验样机放置在浪涌设备附近， 搭建好实验模型（若无其他规定和实际限定， 实验样机应模拟实际使用状态安装和连接， 并按需求附加测试辅助设备）。 按测试环境示意图搭建测试环境， 给交换机正常上电， 开启雷击发生器。                                                                                                                                      Place the experimental prototype near the surge equipment, and build the experimental model (if there are no other regulations and actual restrictions, the experimental prototype should be installed and connected in a simulation of actual use, and additional test auxiliary equipment should be added as required). Set up the test environment according to the test environment diagram, power on the switch normally, and turn on the lightning generator.\n3、对 EUT 网口 RJ45 试验时， 依据产品规格书设置雷击仪器相应的输出电压值， 间隔时间依据输出电压值设置（设置 60秒）， 内阻设置 2欧， 测试次数为正负各 5 次。                                                                                                                                 When testing the EUT network port RJ45, set the corresponding output voltage value of the lightning instrument according to the product specification, the interval time is set according to the output voltage value (set 60 seconds), the internal resistance is set to 2 ohms, and the number of tests is positive and negative 5 times each.\n5、 每次雷击试验， 观察DUT是自环发包是否正常，是否重启。                                                                                                                                                                                                         \nIn each lightning test, observe whether the DUT is self-looping and sending packets is normal and whether it is restarted.\n七、测试判定标准Test Judgment Standard\n基于EUT之操作条件和功能规格，将测试结果分为四级：/Based on the operating conditions and functional specifications of Eut, the test results are divided into four levels:\na、在规格限制内，功能正常；/a、Within the limits of the specification, the function is normal;\nb、EUT不允许重启，可自行恢复的暂时性功能丧失或退化；/B, EUT is not allowed to restart, temporary loss of function or degeneration which can be recovered by itself;\nc、需系统重设或者人工操作才能恢复的暂时性功能丧失或退化；/c、Temporary loss or degeneration of functions that require system reset or manual operation to be restored;\nd、因设备被破坏，或软件资料流失而引起之不可能恢复的功能丧失或退化；/d、 loss or degradation of functions that can not be recovered as a result of damage to the equipment or loss of software data;\n在对DUT的每个通讯端口进行网口共模与差模测试后，DUT符合CLASS B等级以上After the network port common mode and differential mode tests are performed on each communication port of the DUT, the DUT meets the CLASS B level or above\n在对DUT的每个通讯端口进行网口共模与差模测试后，DUT符合CLASS B等级以上After the network port common mode and differential mode tests are performed on each communication port of the DUT, the DUT meets the CLASS B level or above\n八、测试结果Test Results\n测试项目\nTest items\t\t测试模式\nTest mode\t端口类型\nPort type\t测试电压\nTest voltage\t耦合方式\nCoupling method\t有效阻抗\nEffective \nimpedance\t组合波信息\nCombination wave information\t间隔时间\nInterval time\t重复频率\nrepeat frequency\t测试次数\nTesting frequency\t试验等级\nTest Rank\t性能判定\nClass\t测试结果\nTest Results         (PASS/FAIL)\n（非POE型）通讯端口（Non POE type）Communication port               浪涌(Surge)测试Surge test\t\t线到地(共模)Wire to ground (common mode)\t对称线\nSymmetry line\t±4000V\tLines-PE\t40Ω\tOpen circuit voltage wave：10/700\nhort circuit current wave：5/320\t60S\t1次time/min\t正负各5次Positive and negative 5 times each\t4\tB\tPASS\n\t\t线到线(差分)Line to line (differential mode)\t非对称线\nAsymmetry line\t±2000V\t1-2,3-6\t40Ω\t\t60S\t1次time/min\t正负各5次Positive and negative 5 times each\t3\tB\tPASS\n七、测试结论Test conclusion\nDUT可以通过雷击浪涌测试。DUT can pass lightning surge test.\n--- Sheet: 传导骚扰测试Conducted disturbance tes ---\n传导骚扰测试Conducted disturbance test(CE)\t\t\t\t\t\t返回\n一、测试目的Testing purposes\n验证DUT抗传导骚扰的能力，以确保DUT的可靠性。                                                                                                                                                                                                Verify the ability of the DUT to resist conducted disturbances to ensure the reliability of the DUT.\n二、测试描述Test description\n测试工程师通过对DUT在通电情况下，按照EN55032 Class A，在标准实验室里，对通讯端口和电源端口进行传导骚扰测试，以此来确认DUT抗传导干扰的能力，确保产品的可靠性。                                                                                              \nThe test engineer confirms the conduction interference resistance of the DUT and ensures the reliability of the product by conducting a conducted disturbance test on the communication port and power port in a standard laboratory in accordance with EN55032 Class A when the DUT is powered on.\n三、 测试设备Test Equipment\n序号Serial number\t设备名称Equipment name\t型号model\t生产商manufacturer\t数量Quantity\n1\t接收机Receiver\tESCS30\tRohde&Schwarz\t1\n2\tL.I.S.N\tESH2-Z5\tRohde&Schwarz\t1\n3\t50ΩCoaxialSwitch\tMP59B\tAnritsu\t1\n4\tPulse Limiter\tESH3-Z\tRohde&Schwarz\t1\n5\t测试样机Test prototype\tSTC-08XGE\t郑州仨戛通讯器材有限公司Saga Telecom\t1\n6\t网线cable\t/\t/\t若干Several\n7\t电源线power cable\t/\t/\t1\n四、测试标准standard test\n测试标准standard test：   EN55032 ClassA\n\tA级电源端子骚扰电压限值要求A-level power terminal disturbance voltage limit requirements\n\t频率frequency（MHz）\t限值Limit（dBuV）\n\t\t准峰值Quasi-peak\t\t平均值average value\n\t0.15～0.50\t79\t\t66\n\t0.5～5\t73\t\t60\n\t注：在过度频率处（0.5MHz～30MHz）应采用较低的限值                                                                                                                                                                                                 Note:  A lower limit should be used at the excessive frequency (0.5MHz～30MHz)\n\tA级电信端口传导共模（不对称）骚扰限值Class A telecom port conducted common mode (asymmetric) disturbance limit\n\t频率frequency（MHz）\t电压限值Voltage limit（dBuV）\t\t电流限值Current limit（dBuV）\n\t\t准峰值Quasi-peak\t平均值average value\t准峰值Quasi-peak\t平均值average value\n\t0.15～0.50\t97～87\t84～74\t53～43\t40～30\n\t0.50～30\t87\t74\t43\t30\n\t注：频率在 0.15~0.50MHz 范围内，限值随频率的对数呈线性减少；在过渡频率处采用较低的限值；                                                                                                                                                               Note: In the frequency range of 0.15~0.50MHz, the limit decreases linearly with the logarithm of the frequency; a lower limit is used at the transition frequency;\n五、测试连接图Test connection diagram\n六、测试设备与环境Test equipment and environment：（室温：18±2℃ 相对湿度：53.0±2% RH） (Room temperature: 18±2℃ Relative humidity: 53.0±2% RH)\nCE测试设备CE test equipment：Rohde&Schwarz测试系统Rohde&Schwarz test system\n电源口测试环境示意图Schematic diagram of power port test environment\t\t\t网口测试环境示意图Schematic diagram of network port test environment\n七、测试结论Test conclusion\n测试项目Test items\t测试模式Test mode\t符合等级Meet the level\t测试结果Test Results（PASS/FAIL）\t测试数据Test Data\n电源口Power port\n传导抗扰度测试Conducted immunity test\t网口自环发广播包Network port self-loop send broadcast packet\tA级 Class A\tPASS\n通讯口Communication port\n传导抗扰度测试Conducted immunity test\t\tA级 Class A\tPASS\n--- Sheet: 辐射骚扰测试（RE） Radiation disturbanc ---\n辐射骚扰测试Radiation disturbance test（RE）\t\t\t\t\t\t返回\n一、测试目的Testing purposes\n测试 DUT 在 30MHz 到 1GHz 这段频率内的电磁辐射是否能满足 CLASS A 的限值要求                             \nTest whether the electromagnetic radiation of the DUT in the frequency range of 30MHz to 1GHz can meet the limit requirements of CLASS A\n二、测试描述Test description\n测试工程师通过对DUT在通电情况下，按照标准 EN55032 ClassA，对被测交换机水平方向和垂直方向两个方向施加的辐射骚扰。以此来确认DUT抗辐射干扰的能力，确保产品的可靠性。                                                                                     The test engineer passes the radiated disturbance applied to the switch under test in both the horizontal and vertical directions in accordance with the standard EN55032 ClassA when the DUT is powered on. In order to confirm the ability of the DUT to resist radiation interference and ensure the reliability of the product.\n三、 测试设备Test Equipment\n序号Serial number\t设备名称Equipment name\t型号model\t生产商   manufacturer\t数量                    Quantity\n1\t测试接收机             Test receiver\tESCS30\tRohde&Schwarz\t1\n2\t前置功放Pre-amp\t8447D\tHP\t1\n3\t偶极子天线 Dipole antenna\tVULB9163\tSchwarz beck\t1\n4\t宽带天线Broadband antenna\tBBHA 9170\tSchwarz beck\t1\n5\t综合测试仪Tester\tCMU200\tRohde&Schwarz\t1\n6\t测试样机Test prototype\tSTC-08XGE\t郑州仨戛通讯器材有限公司Saga Telecom\t1\n7\t网线cable\t/\t/\t若干Several\n8\t电源线power cable\t/\t/\t1\n四、测试标准standard test\nEN55032 ClassA\n\tA级ITE 1GHz以下限值dB（uV/m）Class A ITE limit below 1GHz dB (uV/m)\n\t频率范围Frequency Range（MHz）\t准峰值限值dB（uV/m）Quasi-peak limit dB (uV/m)\n\t\t3m\n\t30～230\t40\n\t230～1000\t47\n备注：根据标准，对于不超过（L-20dB）（L为用对数单位表示的限值电平）的骚扰场强，不予记录Remarks: According to the standard, the disturbance field strength that does not exceed (L-20dB) (L is the limit level expressed in logarithmic units) will not be recorded\n\tA级ITE 1GHz以下限值dB（uV/m）Class A ITE limit below 1GHz dB (uV/m)\n\t频率范围Frequency Range（GHz）\t平均值average value/dB(uV/m)\t\t峰值Peak/dB(uV/m)\n\t\t3m\n\t1～3\t50\t\t70\n\t3～6\t54\t\t74\n备注：在过渡频率处采用较低的限值。Note: A lower limit is used at the transition frequency. \n测量频率上限的选择Selection of upper limit of measurement frequency： \nEUT的最高内部源指在EUT内部产生或使用的最高频率，或EUT工作或调谐的频率。                                                                                                                                                                                                   The highest internal source of the EUT refers to the highest frequency generated or used inside the EUT, or the frequency at which the EUT works or is tuned.\n如果EUT内部源的最高频率低于108MHz，则测量只进行到1GHz。                                                                               If the highest frequency of the internal source of the EUT is lower than 108MHz, the measurement is only carried out to 1GHz.\n如果EUT内部源的最高频率在108MHz～500MHz之间，则测量只进行到2GHz。                                                                        If the highest frequency of the EUT's internal source is between 108MHz and 500MHz, the measurement is only carried out to 2GHz.\n如果EUT内部源的最高频率高于1GHz，则测量将进行到最高频率的5倍或6GHz，取两者中的小者。                                                                                                                                                         If the highest frequency of the internal source of the EUT is higher than 1GHz, the measurement will be carried out to 5 times the highest frequency or 6GHz, whichever is less.\n四.测试连接图Test connection diagram\n30M-1G连接图 30M-1G connection diagram：\n三、测试设备与环境Test equipment and environment：（室温：18±2℃ 相对湿度：53.0±2% RH） (Room temperature: 18±2℃ Relative humidity: 53.0±2% RH)\nRE测试设备：Rohde&Schwarz测试系统RE test equipment: Rohde&Schwarz test system\n辐射骚扰测试环境示意图Schematic diagram of radiation disturbance test environment\n六、测试结论Test conclusion\n测试项目Test items\t测试模式Test mode\t符合等级Meet the level\t测试结果Test Results（PASS/FAIL）\t测试数据Test Data\n垂直方向Vertical direction\t网口自环发广播包Network port self-loop send broadcast packet\tA级 Class A\tPASS\n水平方向horizontal direction\t\tA级 Class A\tPASS",
+ "sheets": {
+  "封面 Test report cover": {
+   "state": "visible",
+   "rows": [
+    [
+     "郑州仨戛通讯器材有限公司\nZhengzhou Saga Telecom Co., Ltd."
+    ],
+    [
+     "产品硬件测试报告 Product hardware test report"
+    ],
+    [
+     "机 型 Machine type：STC-08XGE"
+    ],
+    [
+     "制 表Tabulation",
+     "魏嵩波",
+     "",
+     "日期Date",
+     "45210",
+     "描 述Description",
+     "全万兆8电口交换机  All 10 Gigabit 8-port switch"
+    ],
+    [
+     "审 核Audit",
+     "吴飞",
+     "",
+     "日期Date",
+     "45210",
+     "8个万兆电口  All 10 Gigabit 8-port switch"
+    ],
+    [
+     "项目负责人审核\nProject leader review",
+     "陈东",
+     "",
+     "日期Date",
+     "45210",
+     "主芯片型号Main chip model：RTL9303"
+    ],
+    [
+     "核准Approved",
+     "唐灵军",
+     "",
+     "日期Date",
+     "45210",
+     "版 本Version",
+     "V1.0",
+     "",
+     "发放日期Issue date",
+     "45211"
+    ]
+   ]
+  },
+  "全面测试报告 Comprehensive test repor": {
+   "state": "visible",
+   "rows": [
+    [
+     "STC-08XGE测试项目列表List of test items"
+    ],
+    [
+     "测试人Tester:魏嵩波",
+     "",
+     "审核人Reviewer:唐灵军",
+     "",
+     "日期Date：2022/10/11"
+    ],
+    [
+     "测试测试项目 Test test items",
+     "报告版本 Report version：v1.0",
+     "电源power supply： 52V 1.85A"
+    ],
+    [
+     "",
+     "",
+     "供电方式Power supply mode：220V"
+    ],
+    [
+     "",
+     "测试项目Test items:STC-08XGE",
+     "测试结果Test Results（PASS/FAIL)",
+     "",
+     "数据链接Data link",
+     "",
+     "备注Remarks"
+    ],
+    [
+     "硬件测试 Hardware test",
+     "纹波测试 Ripple test",
+     "PASS",
+     "",
+     "纹波测试 Ripple test"
+    ],
+    [
+     "",
+     "上电时序测试 Power-on sequence test",
+     "PASS",
+     "",
+     "上电时序测试 Power-on sequence test"
+    ],
+    [
+     "",
+     "整机功耗测试  Whole machine power consumption test",
+     "PASS",
+     "",
+     "整机功耗测试 Whole machine power con"
+    ],
+    [
+     "",
+     "元器件温升测试 Component temperature rise test",
+     "PASS",
+     "",
+     "元器件温升测试 Component temperature '!A1"
+    ],
+    [
+     "性能测试 Performance Testing",
+     "RFC2544&RFC2889测试 RFC2544&RFC288 test",
+     "PASS",
+     "",
+     "RFC2544&RFC2889测试 test"
+    ],
+    [
+     "",
+     "网络测试仪测试 Network tester test",
+     "PASS",
+     "",
+     "网络测试仪测试 Network tester test"
+    ],
+    [
+     "",
+     "LED指示灯测试 Indicator light test",
+     "PASS",
+     "",
+     "LED灯测试 Lamp test"
+    ],
+    [
+     "",
+     "开关机测试 ON/OFF switch machine test",
+     "PASS",
+     "",
+     "开关机测试 Switch machine test"
+    ],
+    [
+     "兼容性测试",
+     "交换机级联兼容性测试",
+     "PASS",
+     "",
+     "交换机级联兼容性测试Switch Cascading Comp'"
+    ],
+    [
+     "",
+     "电口兼容性测试",
+     "PASS",
+     "",
+     "电口兼容性测试!A1"
+    ],
+    [
+     "可靠性测试 Reliability test",
+     "低温环境测试 Low temperature environment test",
+     "PASS",
+     "",
+     "低温环境测试  Low temperature enviro"
+    ],
+    [
+     "",
+     "高温环境测试 High temperature environment test",
+     "PASS",
+     "",
+     "高温环境测试  High temperature work"
+    ],
+    [
+     "EMC",
+     "ESD 静电放电抗扰度试验 Electrostatic discharge immunity test",
+     "PASS",
+     "",
+     "(ESD)静电放电抗扰度试验 Electrostatic d"
+    ],
+    [
+     "",
+     "浪涌（冲击）抗扰度试验 Surge (impact) immunity test",
+     "PASS",
+     "",
+     "浪涌（冲击）抗扰度试验 Surge (impact) imm"
+    ],
+    [
+     "",
+     "传导骚扰测试 Conducted disturbance test(CE)",
+     "PASS",
+     "",
+     "传导骚扰测试Conducted disturbance tes"
+    ],
+    [
+     "",
+     "辐射骚扰测试 Radiation disturbance test（RE）",
+     "PASS",
+     "",
+     "辐射骚扰测试（RE） Radiation disturbanc"
+    ]
+   ]
+  },
+  "修改记录表 Modify record": {
+   "state": "visible",
+   "rows": [
+    [
+     "修改记录 Modify record",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "返回"
+    ],
+    [
+     "文件编号\nFile Number",
+     "版本号\nVersion Number",
+     "拟制人Drafter\n修改人Editor",
+     "拟制Date of drafting\n修改日期Modification",
+     "更改理由\nReason for Change",
+     "主要更改内容Main content"
+    ],
+    [
+     "",
+     "",
+     "",
+     "",
+     "",
+     "（写要点即可）(Just write the main points)"
+    ],
+    [
+     "1",
+     "V1.0",
+     "",
+     "",
+     "无no",
+     "无no"
+    ],
+    [
+     "注1：每次更改归档文件（归为受控文件），需填写此表。Note 1: This form is required to be filled in every time the archive file (classified as a controlled file) is changed."
+    ],
+    [
+     "注2：文件第一次归档时，“更改理由”、“主要更改内容”栏写“无”Note 2: When the document is filed for the first time, write \"None\" in the \"Reason for change\" and \"Main content of change\""
+    ]
+   ]
+  },
+  "纹波测试 Ripple test": {
+   "state": "visible",
+   "rows": [
+    [
+     "纹波测试Ripple test",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "返回"
+    ],
+    [
+     "一、测试目的Testing purposes"
+    ],
+    [
+     "通过对产品主芯片power的电气参数的测量，对比其本身的电气特性规范来判断交换机是否符合电源完整性的要求。（反映产品的performance因素之一）"
+    ],
+    [
+     "By measuring the electrical parameters of the main chip power of the product, and comparing its own electrical characteristics to determine whether the switch meets the requirements of power integrity. (Reflecting one of the performance factors of the product)"
+    ],
+    [
+     "二、测试步骤Test steps"
+    ],
+    [
+     "1、开启示波器，然后对示波器和无缘探头进行校准。Turn on the oscilloscope, and then calibrate the oscilloscope and the edgeless probe."
+    ],
+    [
+     "2、开交换机环起来触发广播包，使其满负载工作。Open the switch to loop and trigger the broadcast packet to make it work at full load."
+    ],
+    [
+     "3、无缘探头连接到测试点（测试点尽可能在信号终端，接地点尽量靠近被测点同时接地线尽可能的短，最好用接地弹簧），示波器设置带宽为20M，交流"
+    ],
+    [
+     "，调节示波器读取需要量测信号的参数，记录下测试结果并保存其波形。                                                                                            The non-edge probe is connected to the test point (the test point is as close as possible to the signal terminal, the ground point is as close as possible to the measured point and the ground wire is as short as possible, preferably a ground spring), the oscilloscope set bandwidth to 20M, AC, adjust the oscilloscope to read needs Measure the parameters of the signal, record the test result and save its waveform."
+    ],
+    [
+     "三、测试设备Test Equipment"
+    ],
+    [
+     "序号Serial number",
+     "测试设备Test Equipment",
+     "",
+     "型号 Model",
+     "",
+     "数量Quantity",
+     "",
+     "用途Purpose/描述Description"
+    ],
+    [
+     "1",
+     "DUT",
+     "",
+     "STC-08XGE",
+     "",
+     "1",
+     "",
+     "被测试产品                Product being tested"
+    ],
+    [
+     "2",
+     "示波器Oscilloscope",
+     "",
+     "RIGOL DS41014E",
+     "",
+     "1",
+     "",
+     "抓取波形使用\nGrab waveform using"
+    ],
+    [
+     "3",
+     "无源探头             Passive probe",
+     "",
+     "PVP2350",
+     "",
+     "1",
+     "",
+     "抓取波形使用\nGrab waveform using"
+    ],
+    [
+     "4",
+     "光纤模块            Optical fiber module",
+     "",
+     "/",
+     "",
+     "4",
+     "",
+     "搭建环境                            \nSet up the environment"
+    ],
+    [
+     "5",
+     "光纤线                Fiber optic cable",
+     "",
+     "/",
+     "",
+     "若干Several",
+     "",
+     "搭建环境                             \nSet up the environment"
+    ],
+    [
+     "6",
+     "U盘 USB Disk",
+     "",
+     "/",
+     "",
+     "1",
+     "",
+     "保存测试图片使用                  \nuse for Saving the test picture"
+    ],
+    [
+     "7",
+     "万用表 multimeter",
+     "",
+     "TOSHIBA 32G",
+     "",
+     "1",
+     "",
+     "测试电压使用                      \nTest voltage usage"
+    ],
+    [
+     "8",
+     "网线 cable",
+     "",
+     "fluke 12E+",
+     "",
+     "若干Several",
+     "",
+     "搭建环境                           \nSet up the environment"
+    ],
+    [
+     "三、测试标准 Standard test"
+    ],
+    [
+     "电压等级Voltage level\n\n电压种类Voltage type",
+     "",
+     "12V",
+     "3.3V以及以上电压                                                                                                                                                                                                                                    3.3 V and above",
+     "",
+     "",
+     "2.5V",
+     "",
+     "1.8V及下电压                                                                                                                                                                                                                                     1.8 V and down voltage",
+     "电源交换器输出精度                                                                                                                                                                                                                          Output accuracy of power switch"
+    ],
+    [
+     "普通I/O 电源                                                                                                                                                                                                                                     Normal i/o power",
+     "",
+     "＜5%",
+     "＜3%",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "＜±2%"
+    ],
+    [
+     "VTT电源                                                                                                                                                                                                                                    VTT power supply"
+    ],
+    [
+     "core电压                                                                                                                                                                                                                                           Core voltage",
+     "",
+     "",
+     "＜50mV",
+     "",
+     "＜50mV",
+     "",
+     "",
+     "＜30mV或2%取最少值                                                                                                                                                                                                                              Less than 30 MV OR 2%",
+     "＜±1%"
+    ],
+    [
+     "模拟电源                                                                                                                                                                                                                                                              Analog power supply"
+    ],
+    [
+     "PLL, DLL电源                                                                                                                                                                                                                                                                                             PLL, DLL power supply",
+     "",
+     "",
+     "＜30mV",
+     "",
+     "",
+     "",
+     "",
+     "＜20mV",
+     "＜±1%"
+    ],
+    [
+     "特殊情况处理                                                                                                                                                                                                                                         Special case handling",
+     "",
+     "器件资料有明确的要求，按照器件资料要求处理，否则按照上述规范处理。                                                                                                                                                                                    Device data have clear requirements, in accordance with the requirements of device data processing, otherwise in accordance with the above norms."
+    ],
+    [
+     "3.2、测试数据 Test Data"
+    ],
+    [
+     "Signal",
+     "Location",
+     "",
+     "实测电压Measured voltage（V）",
+     "",
+     "",
+     "测试判定标准Test Judgment Standard(mV)",
+     "",
+     "Ripple Voltage",
+     "",
+     "Result（Pass/Fail）"
+    ],
+    [
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "PK-PK（mV）"
+    ],
+    [
+     "3.3V",
+     "C119",
+     "",
+     "3.302",
+     "",
+     "",
+     "＜56mV",
+     "",
+     "50.6",
+     "",
+     "pass"
+    ],
+    [
+     "1.5V",
+     "C62",
+     "",
+     "1.492",
+     "",
+     "",
+     "＜36mV",
+     "",
+     "12.45",
+     "",
+     "pass"
+    ],
+    [
+     "1.1V",
+     "C104",
+     "",
+     "1.08",
+     "",
+     "",
+     "＜36mV",
+     "",
+     "16.24",
+     "",
+     "pass"
+    ],
+    [
+     "测试截图图 Test screenshot："
+    ],
+    [
+     "四、测试结论Test conclusion"
+    ],
+    [
+     "该DUT可以通过测试。The DUT can pass the test."
+    ]
+   ]
+  },
+  "上电时序测试 Power-on sequence test": {
+   "state": "visible",
+   "rows": [
+    [
+     "上电时序测试 Power-on sequence test",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "返回"
+    ],
+    [
+     "一、测试步骤Test steps"
+    ],
+    [
+     "1、配置单板板内的业务转发，使其分别在最大功耗下运行。   \nConfigure the service forwarding in the single board to operate at the maximum power consumption."
+    ],
+    [
+     "2、设置示波器测试电源输入端的通道为触发通道，触发方式为单次触发，触发沿为上升沿；对所有的在板电源设置各种负载条件下，用硬开关起机，输出电压波形从10%Vo上升到90%Vo的这段时间为输出电压上升时间，如果发现输出波形有振荡等异常情况发生，记录波形。                                                          Set the oscilloscope test power input channel as the trigger channel, the trigger mode is single trigger, and the trigger edge is the rising edge; under various load conditions for all on-board power supplies, start the machine with a hard switch, and the output voltage waveform is from 10%Vo The period of rising to 90%Vo is the output voltage rising time. If an abnormal situation such as oscillation is found in the output waveform, record the waveform."
+    ],
+    [
+     "3、设置示波器测试电源输入端的通道为触发通道，触发方式为单次触发，触发沿为下降沿；对所有的在板电源设置各种负载条件下，用硬开关关机，输出电压波形从90%Vo下降到10%Vo的这段时间为输出电压下降时间，如果发现输出波形有振荡等异常情况发生，记录波形。                                                           Set the oscilloscope test power input channel as the trigger channel, the trigger mode is single trigger, and the trigger edge is the falling edge; under various load conditions for all on-board power supplies, turn off with a hard switch, and the output voltage waveform drops from 90%Vo The period from 10%Vo is the output voltage fall time. If abnormal conditions such as oscillations are found in the output waveform, record the waveform."
+    ],
+    [
+     "4、设置示波器测试电源输入端的通道为触发通道，触发方式为单次触发，触发沿为上升沿；使用多探头分别测试各电源，用硬开关起机，记录各电压的上电时序波形。                                                                                                                                                   Set the oscilloscope test power input channel as the trigger channel, the trigger mode is single trigger, and the trigger edge is the rising edge; use multiple probes to test each power supply separately, start the machine with a hard switch, and record the power-on sequence waveform of each voltage."
+    ],
+    [
+     "5、在步骤2、3、4测试每种情况最少重复5次，结果中取最差值进行记录。                                                                                                                                                                                                    In steps 2, 3, and 4, the test should be repeated at least 5 times in each case, and the worst value of the results will be recorded."
+    ],
+    [
+     "二、芯片要求Chip requirements"
+    ],
+    [
+     "三、电源上下电要求Power requirements"
+    ],
+    [
+     "1、各路电源上下电波形的上冲和下冲不能超过输出电压的10％；                                                                                                                                                                                                                  The overshoot and undershoot of each power supply waveform cannot exceed 10% of the output voltage;"
+    ],
+    [
+     "2、要求各路电源上下电波形要平滑，不能有毛刺和回落；                                                                                                                   The power-on and power-off waveforms of each power supply are required to be smooth, without glitches and fallbacks;"
+    ],
+    [
+     "3、要求各路电源上电和下电时不能出现振荡。                                                                                                                                                                                                                                       It is required that each power supply cannot oscillate when it is powered on and off."
+    ],
+    [
+     "4、要求各路电源电压大小满足芯片要求；                                                                                                                                         The voltage of each power supply is required to meet the requirements of the chip;"
+    ],
+    [
+     "四、测试设备Test Equipment"
+    ],
+    [
+     "序号Serial number",
+     "测试设备 Test Equipment",
+     "",
+     "型号model",
+     "",
+     "数量Quantity",
+     "",
+     "用途 Purpose              /描述Description",
+     "",
+     "备注Remarks"
+    ],
+    [
+     "1",
+     "DUT",
+     "",
+     "STC-08XGE",
+     "",
+     "1",
+     "",
+     "被测试产品           Product being tested"
+    ],
+    [
+     "3",
+     "示波器Oscilloscope",
+     "",
+     "RIGOL DS41014E",
+     "",
+     "1",
+     "",
+     "抓取波形使用               Grab waveform using"
+    ],
+    [
+     "4",
+     "无源探头Passive probe",
+     "",
+     "PVP2350",
+     "",
+     "1",
+     "",
+     "抓取波形使用\nGrab waveform using"
+    ],
+    [
+     "5",
+     "光纤模块Optical fiber module",
+     "",
+     "/",
+     "",
+     "4",
+     "",
+     "搭建环境                  \nSet up the environment"
+    ],
+    [
+     "6",
+     "光纤线Fiber optic cable",
+     "",
+     "/",
+     "",
+     "若干Several",
+     "",
+     "搭建环境                  \nSet up the environment"
+    ],
+    [
+     "7",
+     "U盘 USB Disk",
+     "",
+     "TOSHIBA 32G",
+     "",
+     "1",
+     "",
+     "保存测试图片使用      Save the test picture for use"
+    ],
+    [
+     "8",
+     "网线cable",
+     "",
+     "/",
+     "",
+     "若干Several",
+     "",
+     "搭建环境                \nSet up the environment"
+    ],
+    [
+     "五、测试数据Test Data"
+    ],
+    [
+     "芯片Chip/电源名称power supply name",
+     "",
+     "芯片要求电压Chip required voltage",
+     "",
+     "实测电压            Measured voltage",
+     "上下电要求                      Power on and off requirements",
+     "",
+     "实测数据            \n  actual data",
+     "",
+     "测试结论Test conclusion",
+     "备注Remarks"
+    ],
+    [
+     "",
+     "",
+     "最大值Maximum value",
+     "最小值Minimum"
+    ],
+    [
+     "3.3V",
+     "",
+     "3.465",
+     "3.135",
+     "3.375",
+     "上电过冲                           Power on overshoot＜10％",
+     "",
+     "上电过冲                Power on overshoot:1.856%",
+     "",
+     "xx"
+    ],
+    [
+     "",
+     "",
+     "",
+     "",
+     "",
+     "下电过冲                         Power-off overshoot＜10％",
+     "",
+     "下电过冲                Power-off overshoot:2.316%",
+     "",
+     "xx"
+    ],
+    [
+     "1.5",
+     "",
+     "1.575",
+     "1.425",
+     "1.531",
+     "上电过冲                           Power on overshoot＜10％",
+     "",
+     "上电过冲                Power on overshoot:4.188%"
+    ],
+    [
+     "",
+     "",
+     "",
+     "",
+     "",
+     "下电过冲                         Power-off overshoot＜10％",
+     "",
+     "下电过冲                Power-off overshoot:4.188%"
+    ],
+    [
+     "1.1",
+     "",
+     "1.15",
+     "1.05",
+     "1.141",
+     "上电过冲                           Power on overshoot＜10％",
+     "",
+     "上电过冲                Power on overshoot:4.244%"
+    ],
+    [
+     "",
+     "",
+     "",
+     "",
+     "",
+     "下电过冲                         Power-off overshoot＜10％",
+     "",
+     "下电过冲                Power-off overshoot:1.430%"
+    ],
+    [
+     "测试截图 Test screenshot"
+    ],
+    [
+     "六、测试结论Test conclusion"
+    ],
+    [
+     "该DUT可以通过上电时序测试。The DUT can pass the power-on sequence test."
+    ]
+   ]
+  },
+  " 整机功耗测试 Whole machine power con": {
+   "state": "visible",
+   "rows": [
+    [
+     "整机功耗测试 Whole machine power consumption test",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "返回"
+    ],
+    [
+     "一、测试目的Testing purposes"
+    ],
+    [
+     "测试工程师主要针对整机系统（包括电源适配器和交换机）在DC输入模式下空载和满载时的输入电压和输入电流的量测，以此来计算整机系统的功耗，通过此项测试来了解产品的整机功率消耗状况以及适配电源选型的合理性，来验证整机功耗是否满足设计要求。                                                                                                  The test engineer mainly measures the input voltage and input current of the whole system (including power adapters and switches) under no load and full load in the DC input mode, so as to calculate the power consumption of the whole system, and pass this test To understand the overall power consumption of the product and the rationality of the selection of the adaptive power supply, to verify whether the overall power consumption meets the design requirements."
+    ],
+    [
+     "二、测试步骤Test steps"
+    ],
+    [
+     "1、配置单板板内的业务转发，使其在最大功耗下运行，并用功率计读取一次电源的输入电压、输入电流、以及功率因素等参数。以及测试各个支路电流，适当用最短的导线从各个支点输出端飞线，用示波器和电流探头配合测试满载状态下的数据，并保存测试图片。                                                                                                                                                         Configure the service forwarding in the single board to run at the maximum power consumption, and use the power meter to read the input voltage, input current, and power factor parameters of the primary power supply. And to test the current of each branch, properly use the shortest wire to fly from the output terminal of each fulcrum, use the oscilloscope and current probe to test the data under the full load state, and save the test picture"
+    ],
+    [
+     "2、根据记录的数据分别计算出各种输入条件下的功耗。                                                                                                                                                                                                       Calculate the power consumption under various input conditions according to the recorded data."
+    ],
+    [
+     "三、测试设备Test Equipment"
+    ],
+    [
+     "序号Serial number",
+     "测试设备Test Equipment",
+     "",
+     "型号model",
+     "",
+     "数量Quantity",
+     "",
+     "用途Purpose/Description",
+     "",
+     "备注Remarks"
+    ],
+    [
+     "1",
+     "DUT",
+     "",
+     "STC-08XGE",
+     "",
+     "1",
+     "",
+     "被测试产品                  Product being tested"
+    ],
+    [
+     "2",
+     "功率计dynamometer",
+     "",
+     "GWINSTEK GPM-8213",
+     "",
+     "1",
+     "",
+     "整机功耗测试使用                 The whole machine power consumption test use"
+    ],
+    [
+     "3",
+     "示波器Oscilloscope",
+     "",
+     "RIGOL DS41014E",
+     "",
+     "1",
+     "",
+     "测试电流使用                     \nTest current usage"
+    ],
+    [
+     "4",
+     "电流探头Current probe",
+     "",
+     "CP8030B",
+     "",
+     "1",
+     "",
+     "测试电流使用                    \nTest current usage"
+    ],
+    [
+     "5",
+     "光纤模块Optical fiber module",
+     "",
+     "/",
+     "",
+     "4",
+     "",
+     "搭建环境                  \nSet up the environment"
+    ],
+    [
+     "6",
+     "光纤线Fiber optic cable",
+     "",
+     "/",
+     "",
+     "若干Several",
+     "",
+     "搭建环境                    \nSet up the environment"
+    ],
+    [
+     "7",
+     "U盘USB Disk",
+     "",
+     "TOSHIBA 32G",
+     "",
+     "1",
+     "",
+     "保存测试图片使用                  Save the test picture for use"
+    ],
+    [
+     "8",
+     "万用表multimeter",
+     "",
+     "fluke 12E+",
+     "",
+     "1",
+     "",
+     "测试电压使用                \nTest voltage usage"
+    ],
+    [
+     "9",
+     "网线cable",
+     "",
+     "/",
+     "",
+     "若干Several",
+     "",
+     "搭建环境Set up the environment"
+    ],
+    [
+     "四、测试结果Test Results"
+    ],
+    [
+     "整机型号Whole machine model",
+     "电源型号Power supply model",
+     "状态名称State name",
+     "测试数据Test Data",
+     "",
+     "",
+     "功耗（W）",
+     "是否whether pass"
+    ],
+    [
+     "",
+     "",
+     "",
+     "输入电压            Input voltage（V）",
+     "输入电流            Input Current(A)",
+     "输出功耗\nOutput power consumption(W)"
+    ],
+    [
+     "整机满载功耗",
+     "220V",
+     "满载",
+     "220V",
+     "0.292",
+     "36.14",
+     "硬件配置信息",
+     "PASS"
+    ],
+    [
+     "空载",
+     "220V",
+     "空载",
+     "220V",
+     "0.1",
+     "10.972",
+     "",
+     "PASS"
+    ],
+    [
+     "五、测试截图数据Test screenshot data"
+    ]
+   ]
+  },
+  " 元器件温升测试 Component temperature ": {
+   "state": "visible",
+   "rows": [
+    [
+     "元器件温升测试测 Component temperature rise test（40℃）",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "返回"
+    ],
+    [
+     "一、测试描述Test description"
+    ],
+    [
+     "测试人员通过对高温环境下DUT 工作时各关键点的元器件的温度测试，了解在最高的温度状态下，确保每个元器件低于规格书的降额值符合规格规格书的要求。                                                                                                                                                                                     The tester passes the temperature test of the components at each key point when the DUT is working in a high temperature environment, and understands that under the highest temperature state, to ensure that the derating value of each component is lower than the specification and meets the requirements of the specification."
+    ],
+    [
+     "二、测试产品及环境示意图Schematic diagram of test products and environment"
+    ],
+    [
+     "测试环境示意图Schematic diagram of test environment："
+    ],
+    [
+     "三、测试设备Test Equipment"
+    ],
+    [
+     "序号Serial number",
+     "测试设备Test Equipment",
+     "",
+     "型号model",
+     "",
+     "数量Quantity",
+     "",
+     "用途Purpose/描述Description",
+     "",
+     "备注Remarks"
+    ],
+    [
+     "1",
+     "DUT",
+     "",
+     "STC-08XGE",
+     "",
+     "1",
+     "",
+     "被测试产品                    Product being tested"
+    ],
+    [
+     "2",
+     "多路温升测试仪                  Multi-channel temperature rise tester",
+     "",
+     "SJ-U",
+     "",
+     "1",
+     "",
+     "温度量测使用Temperature measurement use"
+    ],
+    [
+     "3",
+     "PC",
+     "",
+     "台式兼容机                  Desktop computer",
+     "",
+     "1",
+     "",
+     "广播包触发Broadcast packet trigger"
+    ],
+    [
+     "4",
+     "恒温恒湿试验箱             Constant temperature and humidity test chamber",
+     "",
+     "ST-TH-S-225Z",
+     "",
+     "1",
+     "",
+     "40℃环境40℃ environment"
+    ],
+    [
+     "5",
+     "光纤模块             Optical fiber module",
+     "",
+     "/",
+     "",
+     "1",
+     "",
+     "搭建环境Set up the environment"
+    ],
+    [
+     "6",
+     "光纤线                          Fiber optic cable",
+     "",
+     "/",
+     "",
+     "2",
+     "",
+     "搭建环境Set up the environment"
+    ],
+    [
+     "7",
+     "U盘USB Disk",
+     "",
+     "TOSHIBA 32G",
+     "",
+     "1",
+     "",
+     "记录温升数据使用Record temperature rise data usage"
+    ],
+    [
+     "8",
+     "网线cable",
+     "",
+     "cat.5e",
+     "",
+     "16",
+     "",
+     "搭建环境Set up the environment"
+    ],
+    [
+     "四、测试步骤Test steps"
+    ],
+    [
+     "1、用升温胶固定各个量测点，再组装上外壳。                                                                                                                                                                                                              In the test step, each measuring point is fixed with heating glue, and then the shell is assembled."
+    ],
+    [
+     "2、交换机每个端口用短网线连接起来，感温探头固定在各量测点上，组装上外壳。                                                             Each port of the switch is connected with a short network cable, the temperature sensing probe is fixed on each measuring point, and the upper shell is assembled."
+    ],
+    [
+     "3、放入高低温箱，DUT触发广播包满负载运行起来。                                                                                              Put it into the high and low temperature box, DUT triggers the broadcast package to run at full load."
+    ],
+    [
+     "4、调节高温箱温度到40℃，DUT工作4小时以后在温度稳定情况下用，从温升测试仪导出温升测试数据，并标注位号做好曲线图。                                                                                                                                              Adjust the temperature of the high temperature box to xx°C, and use the DUT when the temperature is stable after 4 hours of operation. Export the temperature rise test data from the temperature rise tester, and mark the position number to make a graph."
+    ],
+    [
+     "五、测量位号图Measurement bit number map"
+    ],
+    [
+     "七、测量结果 ℃Measurement result ℃"
+    ],
+    [
+     "NO",
+     "Location/位置",
+     "",
+     "SPEC/规格\n(℃)",
+     "",
+     "实际测试温度Actual test temperature (℃)",
+     "",
+     "AMB/环温℃",
+     "",
+     "Result/结果"
+    ],
+    [
+     "1#",
+     "CPU",
+     "",
+     "125",
+     "",
+     "67.7",
+     "",
+     "40",
+     "",
+     "PASS"
+    ],
+    [
+     "2#",
+     "PHY左",
+     "",
+     "115",
+     "",
+     "93.3",
+     "",
+     "40",
+     "",
+     "PASS"
+    ],
+    [
+     "3#",
+     "PHY右",
+     "",
+     "115",
+     "",
+     "92.8",
+     "",
+     "40",
+     "",
+     "PASS"
+    ],
+    [
+     "4#",
+     "Q5",
+     "",
+     "105",
+     "",
+     "93.5",
+     "",
+     "40",
+     "",
+     "PASS"
+    ],
+    [
+     "5#",
+     "U10",
+     "",
+     "105",
+     "",
+     "74.8",
+     "",
+     "40",
+     "",
+     "PASS"
+    ],
+    [
+     "6#",
+     "Q6",
+     "",
+     "105",
+     "",
+     "100.2",
+     "",
+     "40",
+     "",
+     "PASS"
+    ],
+    [
+     "7#",
+     "L12",
+     "",
+     "105",
+     "",
+     "86.4",
+     "",
+     "40",
+     "",
+     "PASS"
+    ],
+    [
+     "8#",
+     "C292",
+     "",
+     "105",
+     "",
+     "66.3",
+     "",
+     "40",
+     "",
+     "PASS"
+    ],
+    [
+     "9#",
+     "Q1",
+     "",
+     "105",
+     "",
+     "72.4",
+     "",
+     "40",
+     "",
+     "PASS"
+    ],
+    [
+     "10#",
+     "L2",
+     "",
+     "105",
+     "",
+     "63.6",
+     "",
+     "40",
+     "",
+     "PASS"
+    ],
+    [
+     "11#",
+     "U15",
+     "",
+     "105",
+     "",
+     "53.8",
+     "",
+     "40",
+     "",
+     "PASS"
+    ],
+    [
+     "12#",
+     "L13",
+     "",
+     "105",
+     "",
+     "55.5",
+     "",
+     "40",
+     "",
+     "PASS"
+    ],
+    [
+     "13#",
+     "U4",
+     "",
+     "105",
+     "",
+     "52.6",
+     "",
+     "40",
+     "",
+     "PASS"
+    ],
+    [
+     "14#",
+     "Q7",
+     "",
+     "105",
+     "",
+     "50.5",
+     "",
+     "40",
+     "",
+     "PASS"
+    ],
+    [
+     "15#",
+     "L3",
+     "",
+     "105",
+     "",
+     "53.3",
+     "",
+     "40",
+     "",
+     "PASS"
+    ],
+    [
+     "16#",
+     "Q3",
+     "",
+     "105",
+     "",
+     "48",
+     "",
+     "40",
+     "",
+     "PASS"
+    ],
+    [
+     "八、结果判定Result judgment"
+    ],
+    [
+     "序号Serial number",
+     "",
+     "测试组件Test component",
+     "",
+     "结果判定Result judgment            (PASS/FAIL)",
+     "",
+     "测试数据Test Data",
+     "",
+     "备注Remarks"
+    ],
+    [
+     "1",
+     "",
+     "DUT交换组件的温度The temperature of the DUT exchange component",
+     "",
+     "PASS"
+    ]
+   ]
+  },
+  " RFC2544&RFC2889测试 test": {
+   "state": "visible",
+   "rows": [
+    [
+     "RFC-2544&RFC-2889 性能测试报告 Performance test report",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "返回"
+    ],
+    [
+     "测试项目Test items",
+     "",
+     "测试模式Test mode",
+     "",
+     "测试内容Test content",
+     "",
+     "Frame Size",
+     "",
+     "测试时间\n（Duration Secs）",
+     "",
+     "测试结果Test Results\n（PASS/FAIL)",
+     "",
+     "测试数据Test Data",
+     "备注Remarks"
+    ],
+    [
+     "RFC2544",
+     "",
+     "PAIR",
+     "",
+     "吞吐量\n（Throughput ）",
+     "",
+     "64 /128 /256/ 512/ 1024 1280/ 1518",
+     "",
+     "30 S",
+     "",
+     "PASS"
+    ],
+    [
+     "",
+     "",
+     "",
+     "",
+     "时延\n（Latency）",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "PASS"
+    ],
+    [
+     "",
+     "",
+     "",
+     "",
+     "丢包率\n（Packet Loss）",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "PASS"
+    ],
+    [
+     "",
+     "",
+     "",
+     "",
+     "背靠背\n（Back to Back）",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "PASS"
+    ],
+    [
+     "RFC2889",
+     "",
+     "",
+     "",
+     "错误帧过滤\n（Error Filtering）",
+     "",
+     "64 /128 /256/ 512/ 1024 1280/ 1518",
+     "",
+     "30 S",
+     "",
+     "PASS"
+    ],
+    [
+     "",
+     "",
+     "",
+     "",
+     "广播转发\n（Broadcast Forwarding）",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "PASS"
+    ],
+    [
+     "",
+     "",
+     "",
+     "",
+     "广播时延\n（Broadcast Latency）",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "PASS"
+    ],
+    [
+     "测试结论：DUT可以通过RFC2544&RFC2889各项指标测试。Test conclusion: DUT can pass RFC2544&RFC2889 various index tests."
+    ]
+   ]
+  },
+  "网络测试仪测试 Network tester test": {
+   "state": "visible",
+   "rows": [
+    [
+     "NuStreams-2000i网络测试仪测试Network tester test",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "返回"
+    ],
+    [
+     "一、测试目的Testing purposes"
+    ],
+    [
+     "测试工程师通过对交换机进行NuStreams-2000i网络测试仪UC、BC、FC、FT、CRC测试，以此来验证交换机的收发包状况。The test engineer verifies the status of the switch's receiving and sending packets by performing the NuStreams-2000i network tester UC, BC, FC, FT, and CRC tests on the switch."
+    ],
+    [
+     "二、测试步骤Test steps"
+    ],
+    [
+     "1．用百米网线将DUT与NuStreams-2000i网络测试仪连接起来，开启网络测试仪。Connect the DUT and NuStreams-2000i network tester with a 100-meter network cable, and turn on the network tester."
+    ],
+    [
+     "2．交换机上电，在测试电脑上开启APMPT-4测试软件。Power on the switch and start the APMPT-4 test software on the test computer."
+    ],
+    [
+     "3．在APMPT-4测试软件中加入10M/100M全/半双工和1G的UC、BC、FC、FT、CRC 共26个测试项（各测试项均设置在默认设置基础上增加100倍）；1G的UC、BC、FT、CRC共4个测试项。Add 10M/100M full/half duplex and 1G UC, BC, FC, FT, CRC to APMPT-4 test software, a total of 26 test items (each test item is set to increase by 100 times based on the default setting); 1G There are 4 test items of UC, BC, FT and CRC."
+    ],
+    [
+     "4．测试完毕后截取测试结果图。After the test is completed, take a screenshot of the test result."
+    ],
+    [
+     "测试项目：UC：单播  BC：广播  FT：过滤  CRC：校验Test items: UC: Unicast BC: Broadcast FT: Filter CRC: Check"
+    ],
+    [
+     "UC",
+     "BC",
+     "FT",
+     "CRC"
+    ],
+    [
+     "PT2-UC-10G",
+     "PT2-BC-10G",
+     "PT2-FT-10G",
+     "PT2-CRC-10G"
+    ],
+    [
+     "2SFP测试项目：UC：单播  BC：广播  FT：过滤  CRC：校验2SFP test items: UC: Unicast BC: Broadcast FT: Filter CRC: Check"
+    ],
+    [
+     "UC",
+     "BC",
+     "FT",
+     "CRC"
+    ],
+    [
+     "PT2-UC-10G",
+     "PT2-BC-10G",
+     "PT2-FT-10G",
+     "PT2-CRC-10G"
+    ],
+    [
+     "三、测试标准standard test"
+    ],
+    [
+     "要求测试项测试完成以后，测试软件显示全部测试项都是PASS的。  \nAfter the test items are required to be tested, the test software shows that all test items are PASS."
+    ],
+    [
+     "测试结果Test Results（）"
+    ],
+    [
+     "测试项目Test items",
+     "测试子项目Test subproject",
+     "",
+     "",
+     "测试结果Test Results（PASS/FAIL）",
+     "备注Remarks"
+    ],
+    [
+     "UC：单播               Unicast",
+     "PT2-UC-10G",
+     "",
+     "",
+     "PASS"
+    ],
+    [
+     "FT：过滤                  filter",
+     "PT2-FT-10G",
+     "",
+     "",
+     "PASS"
+    ],
+    [
+     "CRC：校验check",
+     "PT2-CRC-10G",
+     "",
+     "",
+     "PASS"
+    ],
+    [
+     "测试结果Test Results（）"
+    ],
+    [
+     "测试项目Test items",
+     "测试子项目Test subproject",
+     "",
+     "",
+     "测试结果Test Results（PASS/FAIL）",
+     "备注Remarks"
+    ],
+    [
+     "UC：单播Unicast",
+     "PT2-UC-10G",
+     "",
+     "",
+     "PASS"
+    ],
+    [
+     "BC：广播broadcast",
+     "PT2-BC-10G",
+     "",
+     "",
+     "PASS"
+    ],
+    [
+     "FT：过滤filter",
+     "PT2-FT-10G",
+     "",
+     "",
+     "PASS"
+    ],
+    [
+     "CRC：校验check",
+     "PT2-CRC-10G",
+     "",
+     "",
+     "PASS"
+    ],
+    [
+     "测试结果附图Test results attached"
+    ]
+   ]
+  },
+  " LED灯测试 Lamp test": {
+   "state": "visible",
+   "rows": [
+    [
+     "LED灯测试Lamp test",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "返回"
+    ],
+    [
+     "一、测试目的Testing purposes"
+    ],
+    [
+     "测试人员通过插拔交换机端口的网线来判断其对应的LED指示灯顺序及指示状况是否正确，以此来验证产品设计的正确性和合理性。                                                                                                                                The tester judges whether the corresponding LED indicator sequence and indication status are correct by plugging and unplugging the network cable of the switch port, so as to verify the correctness and rationality of the product design."
+    ],
+    [
+     "二、测试步骤Test steps"
+    ],
+    [
+     "1、DUT上电，观察DUT面板上的LED指示灯,此时DUT所有指示灯应常亮自检，自检后系统启动完成。                                                                                             \nPower on the DUT and observe the LED indicators on the DUT panel. At this time, all the indicators of the DUT should always be on. Self-checking. After the self-checking, the system starts up."
+    ],
+    [
+     "2、用网线将DUT连接到网络测试仪，观察指示灯变化情况。                                                                                                                                                                                        Connect the DUT to the network tester with a network cable and observe the change of the indicator light."
+    ],
+    [
+     "3、分别设置网络测试仪端口的链接速度10M/100M/1000M，查看交换机每一个对应的LED指示灯应长亮并观察其颜色变化。然后进行收发包测试，此时对应端口的指示灯应该闪烁，否则视为不正常。                                                                                                                                                                 \nSet the link speed of the network tester port to 10M/100M/1000M respectively, check that each corresponding LED indicator of the switch should be on and observe its color change. Then carry out the packet sending and receiving test, at this time the indicator light of the corresponding port should flash, otherwise it is regarded as abnormal."
+    ],
+    [
+     "三、测试结果Test Results"
+    ],
+    [
+     "位置position",
+     "颜色colour",
+     "状态status",
+     "状态描述status description"
+    ],
+    [
+     "POWER",
+     "绿色green",
+     "长亮bright",
+     "通电                                                                    \npower ups"
+    ],
+    [
+     "",
+     "",
+     "熄灭Go out",
+     "断电                                                                   \nPower off"
+    ],
+    [
+     "电口指示灯Electric port indicator",
+     "绿色green（10000Mbps）\n橙色green（100/1000/2500 Mbps）",
+     "长亮bright",
+     "对应端口已连接                                                    \nCorresponding port is connected"
+    ],
+    [
+     "",
+     "",
+     "闪烁Flashing",
+     "对应端口已连接并收发数据                                                  \nThe corresponding port is connected and sending and receiving data"
+    ],
+    [
+     "",
+     "",
+     "熄灭Go out",
+     "对应端口未连接                                                 \nCorresponding port is not connected"
+    ],
+    [
+     "四、测试结果附图Test results attached"
+    ]
+   ]
+  },
+  "电口兼容性测试": {
+   "state": "visible",
+   "rows": [
+    [
+     "注意测试时手法：1：每种速率需要20次插拔；2:每种速率插入状态要断电上电10次 \n3：每种速率要用100米网线测试；4:10M需要用200-250米网线测试"
+    ],
+    [
+     "序号 No.",
+     "",
+     "",
+     "机型或者芯片型号",
+     "10M",
+     "100M",
+     "1000M",
+     "2.5G",
+     "10G",
+     "测试结果",
+     "备注"
+    ],
+    [
+     "1",
+     "测试仪兼容性测试                                                                                                                                                                                                                                                          Tester Compatibility Testing",
+     "",
+     "Nustreams-2000i",
+     "×",
+     "√",
+     "√",
+     "√",
+     "√",
+     "Pass"
+    ],
+    [
+     "7",
+     "电脑板卡兼容性测试                                                                                                                                                                                                                        Computer board compatibility test",
+     "",
+     "英特尔 X550-T1 10G/2.5G",
+     "×",
+     "√",
+     "√",
+     "√",
+     "√",
+     "Pass"
+    ],
+    [
+     "8",
+     "",
+     "",
+     "高通AQC107 10G/2.5G",
+     "×",
+     "√",
+     "√",
+     "√",
+     "√",
+     "Pass"
+    ],
+    [
+     "9",
+     "",
+     "",
+     "瑞昱RTL8125 2.5G",
+     "×",
+     "√",
+     "√",
+     "√",
+     "√",
+     "Pass"
+    ],
+    [
+     "10",
+     "",
+     "",
+     "瑞昱RTL8156 USB 2.5G",
+     "×",
+     "√",
+     "√",
+     "√",
+     "√",
+     "Pass"
+    ]
+   ]
+  },
+  " 开关机测试 Switch machine test": {
+   "state": "visible",
+   "rows": [
+    [
+     "开关机测试Switch machine test",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "返回"
+    ],
+    [
+     "一、测试描述Test description"
+    ],
+    [
+     "测试工程师通过将交换机电源与测试治具串连，通过开关控制器频繁开关，通过这项测试，来检查交换机在快速频繁开关机的时候是否能够正常上电复位以及正常工作。                                                                                                                            \nThe test engineer connects the switch power supply to the test fixture in series, and frequently switches on and off the switch controller. Through this test, the switch can be powered on and reset and work normally when the switch is switched on and off quickly and frequently."
+    ],
+    [
+     "三、测试步骤Test steps"
+    ],
+    [
+     "1．定时瞬间开关机Timing and momentary switch:"
+    ],
+    [
+     "步骤一：开机时间设为120S。                                                                                                                        Step 1: Set the boot time to 120S.\n步骤二：关机时间设为30s。                                                                                                                                                                                                                                                 Step 2: Set the shutdown time to 30s.\n步骤三：用串口监控启动状态，并时时保存启动信息                                                                                                                                                                                                             Step 3: Use the serial port to monitor the startup status, and save startup information from time to time\n步骤四：重复步骤一、二、三循环500次。                                                                                                                                                                                                                                           Step 4: Repeat steps 1, 2, and 3 for 500 times.\n步骤五：分别在-10℃环境开关机500次，再切换50℃环境下开关机500次。                                                                                                                                                                                                     Step 5: Switch the machine on and off at -10°C for 500 times, and then switch on and off at 50°C for 500 times.\n开关机测试组网图如图所示 备注：高低开关机测试时，测试设备先高温/低温冷藏3H ,再进行测试                                                                                                                                                          .The network diagram of the switch machine test is shown in the figure. Remarks: During the high and low switch machine test, the test equipment should be refrigerated at high temperature/low temperature for 3H before testing. The network diagram of the switch machine test is shown in the figure."
+    ],
+    [
+     "三、测试设备Test Equipment"
+    ],
+    [
+     "序号Serial number",
+     "测试设备Test Equipment",
+     "",
+     "型号model",
+     "",
+     "数量Quantity",
+     "",
+     "用途use/描述description"
+    ],
+    [
+     "1",
+     "DUT",
+     "",
+     "STC-08XGE",
+     "",
+     "1"
+    ],
+    [
+     "2",
+     "恒温恒湿试验箱          Constant temperature and humidity test chamber",
+     "",
+     "ST-TH-S-225Z",
+     "",
+     "1",
+     "",
+     "提供测试环境                                   Provide test environment"
+    ],
+    [
+     "3",
+     "开关控制器               Switch controller",
+     "",
+     "自研Self-study",
+     "",
+     "1",
+     "",
+     "控制开关频繁切换Frequent switching of the control switch"
+    ],
+    [
+     "4",
+     "串口小板                      Serial port board",
+     "",
+     "/",
+     "",
+     "1",
+     "",
+     "输出软件打印信息           Output software printing information"
+    ],
+    [
+     "5",
+     "台式电脑                Desktop PC",
+     "",
+     "金河田Golden Field",
+     "",
+     "1",
+     "",
+     "查看打印信息                                                                                                                                                                                                                                  View Print Information"
+    ],
+    [
+     "四、测试结果Test Results"
+    ],
+    [
+     "测试项目Test items",
+     "",
+     "测试数据Test Data",
+     "",
+     "",
+     "",
+     "测试结果Test Results                             （PASS/FAIL）"
+    ],
+    [
+     "低温-10℃500次开关机",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "PASS"
+    ],
+    [
+     "高温50℃500次开关机",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "PASS"
+    ],
+    [
+     "五、测试结论Test conclusion"
+    ],
+    [
+     "DUT通过长时间开关机测试，无异常，可以通过开关机测试。           \nThe DUT has passed the long-time power-on and power-off test, and it can pass the power-on-off test without exception."
+    ]
+   ]
+  },
+  " 低温环境测试  Low temperature enviro": {
+   "state": "visible",
+   "rows": [
+    [
+     "低温环境测试Low temperature environment test(16H)",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "返回"
+    ],
+    [
+     "一、测试目的Testing purposes"
+    ],
+    [
+     "测试工程师通过对DUT在-10度低温环境下长时间稳定性测试，以此来检验DUT的低温适应性以及确保DUT的可靠性。\nTest engineers test the long-term stability of the DUT in a low temperature environment of -10℃ degrees to \nverify the low temperature adaptability of the DUT and ensure the reliability of the DUT."
+    ],
+    [
+     "二、测试方法和说明Test method and description :"
+    ],
+    [
+     "参考IEC-60068-2-1测试规则Refer to IEC-60068-2-1 test rules"
+    ],
+    [
+     "序号Serial number",
+     "测试项目Test items",
+     "",
+     "状态描述status description",
+     "",
+     "",
+     "",
+     "",
+     "参考资料Reference"
+    ],
+    [
+     "1",
+     "Operation Cold Test",
+     "",
+     "- Temperature: -10℃",
+     "",
+     "",
+     "",
+     "",
+     "IEC-60068-2-1"
+    ],
+    [
+     "",
+     "",
+     "",
+     "- Duration: 16hours"
+    ],
+    [
+     "试验参数确定Determination of test parameters"
+    ],
+    [
+     "三，测试设备Test Equipment"
+    ],
+    [
+     "",
+     "序号Serial number",
+     "设备名称Equipment name",
+     "型号model",
+     "数量Quantity",
+     "用途Purpose/描述Description"
+    ],
+    [
+     "",
+     "1",
+     "DUT",
+     "STC-08XGE",
+     "1",
+     "被测试样机Prototype being tested"
+    ],
+    [
+     "",
+     "2",
+     "网络测试仪                  Network tester",
+     "Nustreams-2000i",
+     "1",
+     "打流设备Streaming equipment"
+    ],
+    [
+     "",
+     "3",
+     "台式机 \nDesktop",
+     "金河田            \nGolden Field",
+     "1",
+     "控制打流Control flow"
+    ],
+    [
+     "",
+     "4",
+     "网线cable",
+     "cat.5e",
+     "若干Several",
+     "搭建环境Set up the environment"
+    ],
+    [
+     "",
+     "7",
+     "恒温恒湿试验箱Constant temperature and humidity test chamber",
+     "ST-TH-S-225Z",
+     "1",
+     "（-10℃环境）(-10℃ environment)"
+    ],
+    [
+     "四、测试拓扑结构图与测试环境示意图Test topology diagram and test environment diagram"
+    ],
+    [
+     "1．DUT放入高低温箱内，通电后所有千兆端口连接网络测试仪，用光纤线将DUT的光纤口与网络测试仪相连，网络测试仪运行NuWin-RM测试程序，点击菜单栏Browse Setup,选择Pair模式,所有端口自协商成最高速率Line Rate为100.00%，                                                                                                                                                                                                                          \nPut the DUT into the high and low temperature box. After power on, all Gigabit ports are connected to the network tester. Connect the optical fiber port of the DUT to the network tester with an optical fiber cable. The network tester runs the NuWin-RM test program, click on the menu bar Browse Setup, select Pair mode, all ports auto-negotiate to the highest line rate of 100.00%,"
+    ],
+    [
+     "Frame length Random Bytes，运行测试程序，让DUT处于满负荷运行状态。                                                                                                                                                                                               \nFrame length Random Bytes, run the test program to make the DUT run at full load."
+    ],
+    [
+     "1．DUT放入高低温箱内，通电后所有千兆端口连接网络测试仪，用光纤线将DUT的光纤口与网络测试仪相连，网络测试仪运行NuWin-RM测试程序，协商成最高速率Line Rate为100.00%， Frame length Random Bytes，运行测试程序，让DUT处于满负荷运行状态。                                                                                                                  \nPut the DUT in the high and low temperature box. After power on, all Gigabit ports are connected to the network tester. Connect the fiber port of the DUT to the network tester with an optical fiber cable. The network tester runs the NuWin-RM test program and negotiates the highest rate Line Rate 100.00%, Frame length Random Bytes, run the test program to make the DUT run at full load."
+    ],
+    [
+     "3. 启动高低温箱预先设定的温度调控程序（步骤2），开始测试；                                                                                                                                                                                                       \nStart the pre-set temperature control program of the high and low temperature box (step 2), and start the test;"
+    ],
+    [
+     "4. DUT收发包运行16小时，保存网络测试仪测试数据；                                                                                                                                                                                     \nDUT receiving and sending packets runs for 16 hours and saves the test data of the network tester;"
+    ],
+    [
+     "4. DUT收发包运行16小时，保存网络测试仪测试数据；                                                                                                                                                                                                                       DUT receiving and sending packets runs for 16 hours and saves the test data of the network tester;"
+    ],
+    [
+     "5．待高温箱温度升至常温25℃，取出DUT，测试结束。                                                                                                                                                                                                                     After the temperature of the high temperature box rises to 25°C, take out the DUT and the test ends."
+    ],
+    [
+     "要求DUT在高温能正常工作，在测试时间结束以后，其端口发送的数据包与接收端口收到的数据包数量一致，发送和接收总包数相同，没有丢包或者多包现象，也没有接收到其它非正常数据包，如broadcast、Undersize、Oversize……                                                                                                                                                                                                                                  \nThe DUT is required to work normally at high temperatures. After the test time is over, the number of data packets sent by its port is the same as the number of data packets received by the receiving port, the total number of sent and received packets is the same, there is no packet loss or multi-packet phenomenon, and no reception To other abnormal data packets, such as broadcast, Undersize, Oversize."
+    ],
+    [
+     "五、测试结果合格判定标准Test result qualification criteria"
+    ],
+    [
+     "要求DUT在低温能正常工作，在测试时间结束以后，其端口发送的数据包与接收端口收到的数据包数量一致，发送和接收总包数相同，没有丢包或者多包现象，也没有接收到其它非正常数据包如broadcast、Undersize、Oversize…                                                                                                                                            \n The DUT is required to work normally at low temperatures. After the test time is over, the number of data packets sent by its port is the same as the number of data packets received by the receiving port, the total number of sent and received packets is the same, there is no packet loss or multi-packet phenomenon, and no reception To other abnormal data packets such as broadcast, Undersize, Oversize..."
+    ],
+    [
+     "六、测试结果Test Results"
+    ],
+    [
+     "1) 低温试验结果：PASS Low temperature test result: PASS"
+    ],
+    [
+     "STC-08XGE产品在输入电压为AC 220V，再-10℃环境中，在连续工作16h低温环境工作中没有丢包现像，Nustreams-2000i测试正常，测试具体数据在附件。                                                                                                        The STC-08XGE product has no packet loss when the input voltage is AC 220V, and then at -10°C, in a low temperature environment for 16 hours of continuous operation. Nustreams-2000i is tested normally. The specific data of the test is in the attachment."
+    ],
+    [
+     "2) DUT进行外观检查、性能检测：PASS DUT performs visual inspection and performance inspection: PASS"
+    ],
+    [
+     "测试结果附图Test results attached："
+    ],
+    [
+     "七、测试结论Test conclusion"
+    ],
+    [
+     "该DUT可以通过低温长时间工作测试。The DUT can pass the low-temperature long-time working test."
+    ]
+   ]
+  },
+  " 高温环境测试  High temperature work ": {
+   "state": "visible",
+   "rows": [
+    [
+     "高温工作（调压）High temperature work (voltage regulation)16H",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "返回"
+    ],
+    [
+     "一、测试目的Testing purposes"
+    ],
+    [
+     "测试工程师通过对DUT在+40度高温环境下长时间稳定性测试，调压、断电重启以此来检验DUT的高温适应性以及确保DUT的可靠性。                                                                                                                                           Test engineers verify the high temperature adaptability of the DUT and ensure the reliability of the DUT through long-term stability testing of the DUT in a high temperature environment of +40 degrees, voltage regulation, and power-off restart."
+    ],
+    [
+     "二、测试方法和说明Test method and description:"
+    ],
+    [
+     "参考IEC-60068-2-2测试规则Refer to IEC-60068-2-2 test rules"
+    ],
+    [
+     "序号Serial number",
+     "测试项目Test items",
+     "",
+     "",
+     "状态描述status description",
+     "",
+     "",
+     "",
+     "参考资料Reference"
+    ],
+    [
+     "1",
+     "Damp Heat Steady State Test",
+     "",
+     "",
+     "- Temperature: +40℃ 95%RH",
+     "",
+     "",
+     "",
+     "IEC-60068-2-2"
+    ],
+    [
+     "",
+     "",
+     "",
+     "",
+     "- Duration: 16hours"
+    ],
+    [
+     "试验参数确定Determination of test parameters"
+    ],
+    [
+     "三，测试设备Test Equipment"
+    ],
+    [
+     "",
+     "序号Serial number",
+     "设备名称Equipment name",
+     "型号model",
+     "数量Quantity",
+     "用途Purpose/描述Description"
+    ],
+    [
+     "",
+     "1",
+     "DUT",
+     "STC-08XGE",
+     "1",
+     "被测试样机Prototype being tested"
+    ],
+    [
+     "",
+     "2",
+     "网络测试仪              Network tester",
+     "Nustreams-2000i",
+     "1",
+     "打流设备Streaming equipment"
+    ],
+    [
+     "",
+     "3",
+     "台式机             Desktop",
+     "金河田                    Golden Field",
+     "1",
+     "控制打流Control flow"
+    ],
+    [
+     "",
+     "4",
+     "网线cable",
+     "cat.5e",
+     "若干Several",
+     "搭建环境Set up the environment"
+    ],
+    [
+     "",
+     "7",
+     "恒温恒湿试验箱Constant temperature and humidity test chamber",
+     "ST-TH-S-225Z",
+     "1",
+     "（40℃环境）(40℃ environment)"
+    ],
+    [
+     "三、测试拓扑结构图与测试环境示意图Test topology diagram and test environment diagram"
+    ],
+    [
+     "四、测试步骤Test steps"
+    ],
+    [
+     "1．DUT放入高低温箱内，通电后所有千兆端口连接网络测试仪，用光纤线将DUT的光纤口与网络测试仪相连，网络测试仪运行NuWin-RM测试程序，点击菜单栏Browse Setup,选择Pair模式,所有端口自协商成最高速率Line Rate为100.00%，                                                                                                                                                                                                                          \nPut the DUT into the high and low temperature box. After power on, all Gigabit ports are connected to the network tester. Connect the optical fiber port of the DUT to the network tester with an optical fiber cable. The network tester runs the NuWin-RM test program, click on the menu bar Browse Setup, select Pair mode, all ports auto-negotiate to the highest line rate of 100.00%,"
+    ],
+    [
+     "Frame length Random Bytes，运行测试程序，让DUT处于满负荷运行状态。                                                                                                                                                                                               \nFrame length Random Bytes, run the test program to make the DUT run at full load."
+    ],
+    [
+     "2．设置高低温老化箱的温控程序：①25℃ 60%RH保持30分钟，②30分钟内升温至40℃95%RH，③40℃95%RH保持16小时，④30分钟内降温至25℃ 60%RH，⑤25℃ 60%RH 保持30分钟；                                                                                                          Set the temperature control program of the high and low temperature aging box: ① keep at 25℃ 60%RH for 30 minutes, ② increase the temperature to 40℃95%RH within 30 minutes, ③ keep at40℃ 95%RH for 16 hours, ④ decrease the temperature to 25℃ 60%RH within 30 minutes, ⑤ Keep at 25℃ 60%RH for 30 minutes;"
+    ],
+    [
+     "3. 启动高低温箱预先设定的温度调控程序（步骤2），开始测试；                                                                                                                                                                                                       \nStart the pre-set temperature control program of the high and low temperature box (step 2), and start the test;"
+    ],
+    [
+     "4. DUT收发包运行16小时，保存网络测试仪测试数据；                                                                                                                                                                                     \nDUT receiving and sending packets runs for 16 hours and saves the test data of the network tester;"
+    ],
+    [
+     "6．待高温箱温度升至常温25℃，取出DUT，测试结束。                                                                                                                                                                                                                                                                                                            After the temperature of the high temperature box rises to 25°C, take out the DUT and the test ends."
+    ],
+    [
+     "五、测试结果合格判定标准Test result qualification criteria"
+    ],
+    [
+     "要求DUT在高温能正常工作，在测试时间结束以后，其端口发送的数据包与接收端口收到的数据包数量一致，发送和接收总包数相同，没有丢包或者多包现象，也没有接收到其它非正常数据包，如broadcast、Undersize、Oversize……                                                                                                                                                                                                                                  \nThe DUT is required to work normally at high temperatures. After the test time is over, the number of data packets sent by its port is the same as the number of data packets received by the receiving port, the total number of sent and received packets is the same, there is no packet loss or multi-packet phenomenon, and no reception To other abnormal data packets, such as broadcast, Undersize, Oversize."
+    ],
+    [
+     "六、测试结果Test Results"
+    ],
+    [
+     "1) 高温试验结果High temperature test results：PASS"
+    ],
+    [
+     "STC-08XGE产品在输入电压为AC 220V，在40℃环境中，在连续工作16h低温环境工作中没有丢包现像，Nustreams-2000i测试正常，测试具体数据在附件。                                                                                                                                                                                              The STC-08XGE product has an input voltage of AC 220V, in an environment of 50°C, and no packet loss during 16 hours of continuous working in a low temperature environment. Nustreams-2000i is tested normally. The specific data of the test is in the attachment."
+    ],
+    [
+     "2) DUT进行外观检查、性能检测DUT conducts visual inspection and performance testing：PASS"
+    ],
+    [
+     "测试结果附图Test results attached："
+    ],
+    [
+     "七、测试结论Test conclusion"
+    ],
+    [
+     "该DUT可以通过高温长时间工作测试。The DUT can pass the high temperature and long time working test."
+    ]
+   ]
+  },
+  " (ESD)静电放电抗扰度试验 Electrostatic d": {
+   "state": "visible",
+   "rows": [
+    [
+     "（ESD）静电放电抗扰度试验(ESD) Electrostatic discharge immunity test",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "返回"
+    ],
+    [
+     "一、测试目的Testing purposes"
+    ],
+    [
+     "验证DUT承受ESD的能力，以确保产品的可靠性。Verify the ability of DUT to withstand ESD to ensure product reliability."
+    ],
+    [
+     "二、测试描述Test description"
+    ],
+    [
+     "测试工程师通过对DUT在通电情况下，按照标准GB/T 17626.2-2006，对螺丝，网口屏蔽罩，光纤口，机壳，接地点导电部分进行±6KV的接触放电测试；对拨动开关，散热孔、网口、光纤口不导电位置进行±8KV的气隙放电。以此来确认DUT静电抗扰度的等级，以确保产品的可靠性                                                                                                                                                The test engineer conducted a ±6KV contact discharge test on the screw, network port shield, optical fiber port, chassis, and conductive part of the grounding point when the DUT is powered on, in accordance with the standard GB/T 17626.2-2006; for the toggle switch, Cooling holes, network ports。The non-conducting position of the fiber port performs an air gap discharge of ±8KV. In order to confirm the level of DUT electrostatic immunity, to ensure the reliability of the product."
+    ],
+    [
+     "表1试验等级/Table 1 test levels"
+    ],
+    [
+     "1A 接触放电/1A contact discharge",
+     "",
+     "",
+     "",
+     "1B空气放电/1B Air discharge"
+    ],
+    [
+     "等级                                                                                                                                                                                                                                                           Rank",
+     "",
+     "试验电压/KV                                                                                                                                                                                                                                      Test Voltage/kv",
+     "",
+     "等级                                                                                                                                                                                                                                                           Rank",
+     "",
+     "试验电压/KV                                                                                                                                                                                                                                      Test Voltage/kv"
+    ],
+    [
+     "1",
+     "",
+     "2",
+     "",
+     "1",
+     "",
+     "2"
+    ],
+    [
+     "2",
+     "",
+     "4",
+     "",
+     "2",
+     "",
+     "4"
+    ],
+    [
+     "3",
+     "",
+     "6",
+     "",
+     "3",
+     "",
+     "8"
+    ],
+    [
+     "4",
+     "",
+     "8",
+     "",
+     "4",
+     "",
+     "15"
+    ],
+    [
+     "Xa",
+     "",
+     "特殊/Special",
+     "",
+     "Xa",
+     "",
+     "特殊/Special"
+    ],
+    [
+     "“X”是开放等级，该等级必须在专业设备的规范中加以规定，如果规定了高压表格中的电压则可能需要专业的试验设备。                                               \n\"X\" is an open grade, which must be specified in the specification for professional equipment, which may be required if the voltage in the high-voltage form is specified."
+    ],
+    [
+     "三、测试连接图Test connection diagram"
+    ],
+    [
+     "四、测试环境：（室温：22±2℃ 相对湿度：50.0±5% RH） Test environment: (room temperature: 22±2℃ relative humidity: 50.0±5% RH)"
+    ],
+    [
+     "五、测试设备Test Equipment"
+    ],
+    [
+     "",
+     "序号Serial number",
+     "设备名称Equipment name",
+     "型号model",
+     "数量Quantity",
+     "用途Purpose/描述Description"
+    ],
+    [
+     "",
+     "1",
+     "DUT",
+     "STC-08XGE",
+     "1",
+     "被测试样机Prototype being tested"
+    ],
+    [
+     "",
+     "2",
+     "静电测试仪Static tester",
+     "HESDD610002TA",
+     "1",
+     "静电发生器设备Electrostatic generator equipment"
+    ],
+    [
+     "",
+     "3",
+     "笔记本notebook",
+     "Lenovo 470",
+     "1",
+     "使用ping广播包Use ping broadcast packet"
+    ],
+    [
+     "",
+     "4",
+     "网线cable",
+     "cat.5e",
+     "1",
+     "搭建环境Set up the environment"
+    ],
+    [
+     "六.测试步骤Test steps："
+    ],
+    [
+     "1、把DUT网口与笔记本电脑连接，通过笔记本ping交换机的IP,进行发送广播包，查看通讯情况。                                                                               Connect the DUT network port to the laptop, ping the IP of the switch through the laptop, send broadcast packets, and check the communication status."
+    ],
+    [
+     "2、调节静电测试仪，分别对每个ESD接触测试点进行10次±8KV接触放电，放电间隔1s。                                                                                     Adjust the electrostatic tester to perform 10 ±8KV contact discharges on each ESD contact test point, with a discharge interval of 1s."
+    ],
+    [
+     "3、调节静电测试仪，分别对每个ESD空气测试点进行10次±15KV空气放电，放电间隔1s。  \nAdjust the electrostatic tester, and perform 10 ±15KV air discharges on each ESD air test point with a discharge interval of 1s."
+    ],
+    [
+     "4、测试过程中，注意LED灯的闪烁情况，如出现异常，立即停止测试，并按照测试标准对其评级。   \nDuring the test, pay attention to the flickering of the LED lights. If there is an abnormality, stop the test immediately and rate it according to the test standard."
+    ],
+    [
+     "七、测试判定标准Test Judgment Standard："
+    ],
+    [
+     "基于EUT之操作条件和功能规格，将测试结果分为四级：                                                                                                                                                                                                  Based on the operating conditions and functional specifications of Eut, the test results are divided into four levels:"
+    ],
+    [
+     "a、在规格限制内，功能正常；                                                                                                                                    a、Within the limits of the specification, the function is normal;"
+    ],
+    [
+     "b、EUT不允许重启，可自行恢复的暂时性功能丧失或退化；                                                                                                                                                                                                                                       B, EUT is not allowed to restart, temporary loss of function or degeneration which can be recovered"
+    ],
+    [
+     "by itself;"
+    ],
+    [
+     "c、需系统重设或者人工操作才能恢复的暂时性功能丧失或退化；                                                                                                                                                                                     c、Temporary loss or degeneration of functions that require system reset or manual operation tobe restored;"
+    ],
+    [
+     "d、因设备被破坏，或软件资料流失而引起之不可能恢复的功能丧失或退化；                                                                                                                                                                               d、 loss or degradation of functions that can not be recovered as a result of damage to the equipment or loss of software data;"
+    ],
+    [
+     "一般来说，EUT在测试过程中一直呈现A项状态，则判定EUT为测试合格。若出现D.项状态则判定EUT为不合格，若出现B，及C.项状态则依据EUT规格要求判定或客户协定EUT是否合格。                                                                                                                                    In general, EUT is judged to pass the test if it has been in a state during the test. If there's a \"D. \". Item Status is judged EUT to be unqualified, if appear B, and C. Item Status is determined according to EUT specifications or customer agreement EUT is eligible."
+    ],
+    [
+     "七、测试结果Test Results:"
+    ],
+    [
+     "测试项目Test items",
+     "",
+     "测试位置Test location",
+     "",
+     "试验电压与测试次数Test voltage and test times",
+     "",
+     "符合等级Meet the level",
+     "",
+     "测试结果Test Results                    （PASS/FAIL）"
+    ],
+    [
+     "接触放电 \nContact discharge",
+     "",
+     "网口 Network port",
+     "",
+     "±6KV/10次10 times",
+     "",
+     "C级Class C",
+     "",
+     "PASS"
+    ],
+    [
+     "",
+     "",
+     "接地点Ground point",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "PASS"
+    ],
+    [
+     "",
+     "",
+     "机壳螺丝Case screws",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "PASS"
+    ],
+    [
+     "",
+     "",
+     "光纤口Fiber port",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "PASS"
+    ],
+    [
+     "",
+     "",
+     "设备外壳Equipment shell",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "PASS"
+    ],
+    [
+     "空气放电 \nAir discharge",
+     "",
+     "网口Network port",
+     "",
+     "±8KV/10次10 times",
+     "",
+     "C级Class C",
+     "",
+     "PASS"
+    ],
+    [
+     "",
+     "",
+     "光纤口Fiber port",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "PASS"
+    ],
+    [
+     "",
+     "",
+     "散热孔Vents",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "PASS"
+    ],
+    [
+     "",
+     "",
+     "产品缝隙Product gap",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "PASS"
+    ],
+    [
+     "八、测试结论Test conclusion"
+    ],
+    [
+     "DUT可以通过静电ESD测试。The DUT can pass the electrostatic ESD test."
+    ]
+   ]
+  },
+  " 浪涌（冲击）抗扰度试验 Surge (impact) imm": {
+   "state": "visible",
+   "rows": [
+    [
+     "浪涌（冲击）抗扰度试验Surge (impact) immunity test"
+    ],
+    [
+     "一、测试目的Testing purposes"
+    ],
+    [
+     "浪涌（冲击） 可靠性试验是产品在规定的工作状态下， 对由开关或雷电作用所产生的有一定危害电平的浪涌(冲击)电压的反应及性能， 以评定设备或系统对规定 现象的抗扰度， 确保产品的品质和可靠性.                                                                                                                                                                                    Surge (impact) reliability test is the product's response and performance to a certain hazardous level of surge \n(impact) voltage generated by the action of switches or thunder and Phenomenon immunity to ensure product quality and reliability."
+    ],
+    [
+     "二、测试描述Test description"
+    ],
+    [
+     "测试工程师通过对DUT在通电情况下，按照标准GB/T 17626.5-2008/IEC61000-4-5:2005，对电源端口和通讯端口进行的浪涌（冲击）测试，差分±2K,通讯端口共模±4k.                                                                                                                                he test engineer passed the surge (impact) test on the power port and the communication port when the DUT is powered on, according to the standard GB/T 17626.5-2008, the differential mode is ±2K, and the communication port is common mode. ±4k."
+    ],
+    [
+     "三、测试连接图Test connection diagram"
+    ],
+    [
+     "四、 测试设备Test Equipment"
+    ],
+    [
+     "",
+     "序号",
+     "设备名称                   Equipment name",
+     "型号model",
+     "数量Quantity",
+     "用途Purpose/描述Description"
+    ],
+    [
+     "",
+     "1",
+     "DUT",
+     "STC-08XGE",
+     "1",
+     "被测试样机Prototype being tested"
+    ],
+    [
+     "",
+     "2",
+     "雷击浪涌发生器                Lightning surge generator",
+     "SUG61005TB",
+     "1",
+     "浪涌发生器         Surge generator"
+    ],
+    [
+     "",
+     "3",
+     "信号线去耦网络                   Signal line decoupling network",
+     "DATA-CDN-4",
+     "1",
+     "浪涌发生器Surge generator"
+    ],
+    [
+     "",
+     "",
+     "单相变压器                     Single phase transformer",
+     "JMB-2KVA",
+     "1",
+     "给电源浪涌输送电Feeding power surges"
+    ],
+    [
+     "",
+     "4",
+     "网线cable",
+     "cat.5e",
+     "若干                  Several",
+     "搭建环境Set up the environment"
+    ],
+    [
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "7"
+    ],
+    [
+     "五、测试环境test environment"
+    ],
+    [
+     "通讯口测试共模环境图\nCommunication port test common mode environment diagram",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "电源口测试差分环境图\nPower port test differential mode environment diagram"
+    ],
+    [
+     "拍摄实际测试图片Take actual test pictures"
+    ],
+    [
+     "六、测试步骤Test steps"
+    ],
+    [
+     "1、打开雷击浪涌测试软件。Open the lightning surge test software."
+    ],
+    [
+     "2、将实验样机放置在浪涌设备附近， 搭建好实验模型（若无其他规定和实际限定， 实验样机应模拟实际使用状态安装和连接， 并按需求附加测试辅助设备）。 按测试环境示意图搭建测试环境， 给交换机正常上电， 开启雷击发生器。                                                                                                                                      Place the experimental prototype near the surge equipment, and build the experimental model (if there are no other regulations and actual restrictions, the experimental prototype should be installed and connected in a simulation of actual use, and additional test auxiliary equipment should be added as required). Set up the test environment according to the test environment diagram, power on the switch normally, and turn on the lightning generator."
+    ],
+    [
+     "3、对 EUT 网口 RJ45 试验时， 依据产品规格书设置雷击仪器相应的输出电压值， 间隔时间依据输出电压值设置（设置 60秒）， 内阻设置 2欧， 测试次数为正负各 5 次。                                                                                                                                 When testing the EUT network port RJ45, set the corresponding output voltage value of the lightning instrument according to the product specification, the interval time is set according to the output voltage value (set 60 seconds), the internal resistance is set to 2 ohms, and the number of tests is positive and negative 5 times each."
+    ],
+    [
+     "5、 每次雷击试验， 观察DUT是自环发包是否正常，是否重启。                                                                                                                                                                                                         \nIn each lightning test, observe whether the DUT is self-looping and sending packets is normal and whether it is restarted."
+    ],
+    [
+     "七、测试判定标准Test Judgment Standard"
+    ],
+    [
+     "基于EUT之操作条件和功能规格，将测试结果分为四级：/Based on the operating conditions and functional specifications of Eut, the test results are divided into four levels:"
+    ],
+    [
+     "a、在规格限制内，功能正常；/a、Within the limits of the specification, the function is normal;"
+    ],
+    [
+     "b、EUT不允许重启，可自行恢复的暂时性功能丧失或退化；/B, EUT is not allowed to restart, temporary loss of function or degeneration which can be recovered by itself;"
+    ],
+    [
+     "c、需系统重设或者人工操作才能恢复的暂时性功能丧失或退化；/c、Temporary loss or degeneration of functions that require system reset or manual operation to be restored;"
+    ],
+    [
+     "d、因设备被破坏，或软件资料流失而引起之不可能恢复的功能丧失或退化；/d、 loss or degradation of functions that can not be recovered as a result of damage to the equipment or loss of software data;"
+    ],
+    [
+     "在对DUT的每个通讯端口进行网口共模与差模测试后，DUT符合CLASS B等级以上After the network port common mode and differential mode tests are performed on each communication port of the DUT, the DUT meets the CLASS B level or above"
+    ],
+    [
+     "在对DUT的每个通讯端口进行网口共模与差模测试后，DUT符合CLASS B等级以上After the network port common mode and differential mode tests are performed on each communication port of the DUT, the DUT meets the CLASS B level or above"
+    ],
+    [
+     "八、测试结果Test Results"
+    ],
+    [
+     "测试项目\nTest items",
+     "",
+     "测试模式\nTest mode",
+     "端口类型\nPort type",
+     "测试电压\nTest voltage",
+     "耦合方式\nCoupling method",
+     "有效阻抗\nEffective \nimpedance",
+     "组合波信息\nCombination wave information",
+     "间隔时间\nInterval time",
+     "重复频率\nrepeat frequency",
+     "测试次数\nTesting frequency",
+     "试验等级\nTest Rank",
+     "性能判定\nClass",
+     "测试结果\nTest Results         (PASS/FAIL)"
+    ],
+    [
+     "（非POE型）通讯端口（Non POE type）Communication port               浪涌(Surge)测试Surge test",
+     "",
+     "线到地(共模)Wire to ground (common mode)",
+     "对称线\nSymmetry line",
+     "±4000V",
+     "Lines-PE",
+     "40Ω",
+     "Open circuit voltage wave：10/700\nhort circuit current wave：5/320",
+     "60S",
+     "1次time/min",
+     "正负各5次Positive and negative 5 times each",
+     "4",
+     "B",
+     "PASS"
+    ],
+    [
+     "",
+     "",
+     "线到线(差分)Line to line (differential mode)",
+     "非对称线\nAsymmetry line",
+     "±2000V",
+     "1-2,3-6",
+     "40Ω",
+     "",
+     "60S",
+     "1次time/min",
+     "正负各5次Positive and negative 5 times each",
+     "3",
+     "B",
+     "PASS"
+    ],
+    [
+     "七、测试结论Test conclusion"
+    ],
+    [
+     "DUT可以通过雷击浪涌测试。DUT can pass lightning surge test."
+    ]
+   ]
+  },
+  "传导骚扰测试Conducted disturbance tes": {
+   "state": "visible",
+   "rows": [
+    [
+     "传导骚扰测试Conducted disturbance test(CE)",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "返回"
+    ],
+    [
+     "一、测试目的Testing purposes"
+    ],
+    [
+     "验证DUT抗传导骚扰的能力，以确保DUT的可靠性。                                                                                                                                                                                                Verify the ability of the DUT to resist conducted disturbances to ensure the reliability of the DUT."
+    ],
+    [
+     "二、测试描述Test description"
+    ],
+    [
+     "测试工程师通过对DUT在通电情况下，按照EN55032 Class A，在标准实验室里，对通讯端口和电源端口进行传导骚扰测试，以此来确认DUT抗传导干扰的能力，确保产品的可靠性。                                                                                              \nThe test engineer confirms the conduction interference resistance of the DUT and ensures the reliability of the product by conducting a conducted disturbance test on the communication port and power port in a standard laboratory in accordance with EN55032 Class A when the DUT is powered on."
+    ],
+    [
+     "三、 测试设备Test Equipment"
+    ],
+    [
+     "序号Serial number",
+     "设备名称Equipment name",
+     "型号model",
+     "生产商manufacturer",
+     "数量Quantity"
+    ],
+    [
+     "1",
+     "接收机Receiver",
+     "ESCS30",
+     "Rohde&Schwarz",
+     "1"
+    ],
+    [
+     "2",
+     "L.I.S.N",
+     "ESH2-Z5",
+     "Rohde&Schwarz",
+     "1"
+    ],
+    [
+     "3",
+     "50ΩCoaxialSwitch",
+     "MP59B",
+     "Anritsu",
+     "1"
+    ],
+    [
+     "4",
+     "Pulse Limiter",
+     "ESH3-Z",
+     "Rohde&Schwarz",
+     "1"
+    ],
+    [
+     "5",
+     "测试样机Test prototype",
+     "STC-08XGE",
+     "郑州仨戛通讯器材有限公司Saga Telecom",
+     "1"
+    ],
+    [
+     "6",
+     "网线cable",
+     "/",
+     "/",
+     "若干Several"
+    ],
+    [
+     "7",
+     "电源线power cable",
+     "/",
+     "/",
+     "1"
+    ],
+    [
+     "四、测试标准standard test"
+    ],
+    [
+     "测试标准standard test：   EN55032 ClassA"
+    ],
+    [
+     "",
+     "A级电源端子骚扰电压限值要求A-level power terminal disturbance voltage limit requirements"
+    ],
+    [
+     "",
+     "频率frequency（MHz）",
+     "限值Limit（dBuV）"
+    ],
+    [
+     "",
+     "",
+     "准峰值Quasi-peak",
+     "",
+     "平均值average value"
+    ],
+    [
+     "",
+     "0.15～0.50",
+     "79",
+     "",
+     "66"
+    ],
+    [
+     "",
+     "0.5～5",
+     "73",
+     "",
+     "60"
+    ],
+    [
+     "",
+     "注：在过度频率处（0.5MHz～30MHz）应采用较低的限值                                                                                                                                                                                                 Note:  A lower limit should be used at the excessive frequency (0.5MHz～30MHz)"
+    ],
+    [
+     "",
+     "A级电信端口传导共模（不对称）骚扰限值Class A telecom port conducted common mode (asymmetric) disturbance limit"
+    ],
+    [
+     "",
+     "频率frequency（MHz）",
+     "电压限值Voltage limit（dBuV）",
+     "",
+     "电流限值Current limit（dBuV）"
+    ],
+    [
+     "",
+     "",
+     "准峰值Quasi-peak",
+     "平均值average value",
+     "准峰值Quasi-peak",
+     "平均值average value"
+    ],
+    [
+     "",
+     "0.15～0.50",
+     "97～87",
+     "84～74",
+     "53～43",
+     "40～30"
+    ],
+    [
+     "",
+     "0.50～30",
+     "87",
+     "74",
+     "43",
+     "30"
+    ],
+    [
+     "",
+     "注：频率在 0.15~0.50MHz 范围内，限值随频率的对数呈线性减少；在过渡频率处采用较低的限值；                                                                                                                                                               Note: In the frequency range of 0.15~0.50MHz, the limit decreases linearly with the logarithm of the frequency; a lower limit is used at the transition frequency;"
+    ],
+    [
+     "五、测试连接图Test connection diagram"
+    ],
+    [
+     "六、测试设备与环境Test equipment and environment：（室温：18±2℃ 相对湿度：53.0±2% RH） (Room temperature: 18±2℃ Relative humidity: 53.0±2% RH)"
+    ],
+    [
+     "CE测试设备CE test equipment：Rohde&Schwarz测试系统Rohde&Schwarz test system"
+    ],
+    [
+     "电源口测试环境示意图Schematic diagram of power port test environment",
+     "",
+     "",
+     "网口测试环境示意图Schematic diagram of network port test environment"
+    ],
+    [
+     "七、测试结论Test conclusion"
+    ],
+    [
+     "测试项目Test items",
+     "测试模式Test mode",
+     "符合等级Meet the level",
+     "测试结果Test Results（PASS/FAIL）",
+     "测试数据Test Data"
+    ],
+    [
+     "电源口Power port\n传导抗扰度测试Conducted immunity test",
+     "网口自环发广播包Network port self-loop send broadcast packet",
+     "A级 Class A",
+     "PASS"
+    ],
+    [
+     "通讯口Communication port\n传导抗扰度测试Conducted immunity test",
+     "",
+     "A级 Class A",
+     "PASS"
+    ]
+   ]
+  },
+  "辐射骚扰测试（RE） Radiation disturbanc": {
+   "state": "visible",
+   "rows": [
+    [
+     "辐射骚扰测试Radiation disturbance test（RE）",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "返回"
+    ],
+    [
+     "一、测试目的Testing purposes"
+    ],
+    [
+     "测试 DUT 在 30MHz 到 1GHz 这段频率内的电磁辐射是否能满足 CLASS A 的限值要求                             \nTest whether the electromagnetic radiation of the DUT in the frequency range of 30MHz to 1GHz can meet the limit requirements of CLASS A"
+    ],
+    [
+     "二、测试描述Test description"
+    ],
+    [
+     "测试工程师通过对DUT在通电情况下，按照标准 EN55032 ClassA，对被测交换机水平方向和垂直方向两个方向施加的辐射骚扰。以此来确认DUT抗辐射干扰的能力，确保产品的可靠性。                                                                                     The test engineer passes the radiated disturbance applied to the switch under test in both the horizontal and vertical directions in accordance with the standard EN55032 ClassA when the DUT is powered on. In order to confirm the ability of the DUT to resist radiation interference and ensure the reliability of the product."
+    ],
+    [
+     "三、 测试设备Test Equipment"
+    ],
+    [
+     "序号Serial number",
+     "设备名称Equipment name",
+     "型号model",
+     "生产商   manufacturer",
+     "数量                    Quantity"
+    ],
+    [
+     "1",
+     "测试接收机             Test receiver",
+     "ESCS30",
+     "Rohde&Schwarz",
+     "1"
+    ],
+    [
+     "2",
+     "前置功放Pre-amp",
+     "8447D",
+     "HP",
+     "1"
+    ],
+    [
+     "3",
+     "偶极子天线 Dipole antenna",
+     "VULB9163",
+     "Schwarz beck",
+     "1"
+    ],
+    [
+     "4",
+     "宽带天线Broadband antenna",
+     "BBHA 9170",
+     "Schwarz beck",
+     "1"
+    ],
+    [
+     "5",
+     "综合测试仪Tester",
+     "CMU200",
+     "Rohde&Schwarz",
+     "1"
+    ],
+    [
+     "6",
+     "测试样机Test prototype",
+     "STC-08XGE",
+     "郑州仨戛通讯器材有限公司Saga Telecom",
+     "1"
+    ],
+    [
+     "7",
+     "网线cable",
+     "/",
+     "/",
+     "若干Several"
+    ],
+    [
+     "8",
+     "电源线power cable",
+     "/",
+     "/",
+     "1"
+    ],
+    [
+     "四、测试标准standard test"
+    ],
+    [
+     "EN55032 ClassA"
+    ],
+    [
+     "",
+     "A级ITE 1GHz以下限值dB（uV/m）Class A ITE limit below 1GHz dB (uV/m)"
+    ],
+    [
+     "",
+     "频率范围Frequency Range（MHz）",
+     "准峰值限值dB（uV/m）Quasi-peak limit dB (uV/m)"
+    ],
+    [
+     "",
+     "",
+     "3m"
+    ],
+    [
+     "",
+     "30～230",
+     "40"
+    ],
+    [
+     "",
+     "230～1000",
+     "47"
+    ],
+    [
+     "备注：根据标准，对于不超过（L-20dB）（L为用对数单位表示的限值电平）的骚扰场强，不予记录Remarks: According to the standard, the disturbance field strength that does not exceed (L-20dB) (L is the limit level expressed in logarithmic units) will not be recorded"
+    ],
+    [
+     "",
+     "A级ITE 1GHz以下限值dB（uV/m）Class A ITE limit below 1GHz dB (uV/m)"
+    ],
+    [
+     "",
+     "频率范围Frequency Range（GHz）",
+     "平均值average value/dB(uV/m)",
+     "",
+     "峰值Peak/dB(uV/m)"
+    ],
+    [
+     "",
+     "",
+     "3m"
+    ],
+    [
+     "",
+     "1～3",
+     "50",
+     "",
+     "70"
+    ],
+    [
+     "",
+     "3～6",
+     "54",
+     "",
+     "74"
+    ],
+    [
+     "备注：在过渡频率处采用较低的限值。Note: A lower limit is used at the transition frequency. \n测量频率上限的选择Selection of upper limit of measurement frequency： \nEUT的最高内部源指在EUT内部产生或使用的最高频率，或EUT工作或调谐的频率。                                                                                                                                                                                                   The highest internal source of the EUT refers to the highest frequency generated or used inside the EUT, or the frequency at which the EUT works or is tuned.\n如果EUT内部源的最高频率低于108MHz，则测量只进行到1GHz。                                                                               If the highest frequency of the internal source of the EUT is lower than 108MHz, the measurement is only carried out to 1GHz.\n如果EUT内部源的最高频率在108MHz～500MHz之间，则测量只进行到2GHz。                                                                        If the highest frequency of the EUT's internal source is between 108MHz and 500MHz, the measurement is only carried out to 2GHz.\n如果EUT内部源的最高频率高于1GHz，则测量将进行到最高频率的5倍或6GHz，取两者中的小者。                                                                                                                                                         If the highest frequency of the internal source of the EUT is higher than 1GHz, the measurement will be carried out to 5 times the highest frequency or 6GHz, whichever is less."
+    ],
+    [
+     "四.测试连接图Test connection diagram"
+    ],
+    [
+     "30M-1G连接图 30M-1G connection diagram："
+    ],
+    [
+     "三、测试设备与环境Test equipment and environment：（室温：18±2℃ 相对湿度：53.0±2% RH） (Room temperature: 18±2℃ Relative humidity: 53.0±2% RH)"
+    ],
+    [
+     "RE测试设备：Rohde&Schwarz测试系统RE test equipment: Rohde&Schwarz test system"
+    ],
+    [
+     "辐射骚扰测试环境示意图Schematic diagram of radiation disturbance test environment"
+    ],
+    [
+     "六、测试结论Test conclusion"
+    ],
+    [
+     "测试项目Test items",
+     "测试模式Test mode",
+     "符合等级Meet the level",
+     "测试结果Test Results（PASS/FAIL）",
+     "测试数据Test Data"
+    ],
+    [
+     "垂直方向Vertical direction",
+     "网口自环发广播包Network port self-loop send broadcast packet",
+     "A级 Class A",
+     "PASS"
+    ],
+    [
+     "水平方向horizontal direction",
+     "",
+     "A级 Class A",
+     "PASS"
+    ]
+   ]
+  }
+ },
+ "extracted_at": "2026-10-22T03:49:00Z"
+}

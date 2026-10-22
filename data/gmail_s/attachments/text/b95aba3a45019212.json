@@ -1,0 +1,19 @@
+{
+ "sha256_16": "b95aba3a45019212",
+ "name": "ready-to-ship.jpg",
+ "ext": ".jpg",
+ "bytes": 144081,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 1706,
+  "height": 1279,
+  "mode": "RGB",
+  "thumb_bytes": 7137
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:47:46Z"
+}

@@ -1,0 +1,19 @@
+{
+ "sha256_16": "1835fad9a58ce363",
+ "name": "Vi-Link Logo MC10G Green.jpg",
+ "ext": ".jpg",
+ "bytes": 145956,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 1512,
+  "height": 435,
+  "mode": "RGB",
+  "thumb_bytes": 7094
+ },
+ "warnings": [],
+ "chars": 39,
+ "text": "Fiber Optic Communications\nModel: MC10G",
+ "extracted_at": "2026-10-22T03:45:23Z"
+}

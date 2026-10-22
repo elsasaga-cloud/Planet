@@ -1,0 +1,19 @@
+{
+ "sha256_16": "4cba85c11f3a1e5d",
+ "name": "2+4 web.png",
+ "ext": ".png",
+ "bytes": 252600,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1457,
+  "height": 479,
+  "mode": "RGB",
+  "thumb_bytes": 5965
+ },
+ "warnings": [],
+ "chars": 98,
+ "text": "Web Managed 2.5G Ethernet Switch\n10G/2.5G/1G 1\nmm 2.5G Link/Act == 10/100/1000M Link/Act wo wo SYS",
+ "extracted_at": "2026-10-22T03:44:43Z"
+}

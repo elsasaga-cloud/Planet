@@ -1,0 +1,19 @@
+{
+ "sha256_16": "914d3447c072cf28",
+ "name": "48 port sfp.jpg",
+ "ext": ".jpg",
+ "bytes": 336973,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 4978,
+  "height": 1243,
+  "mode": "RGB",
+  "thumb_bytes": 4702
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:41:19Z"
+}

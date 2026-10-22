@@ -1,0 +1,19 @@
+{
+ "sha256_16": "7eac2c54288f089b",
+ "name": "label confirmation.png",
+ "ext": ".png",
+ "bytes": 192589,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1163,
+  "height": 678,
+  "mode": "RGBA",
+  "thumb_bytes": 15991
+ },
+ "warnings": [],
+ "chars": 167,
+ "text": "TronX?\nANGORA NETWORKS 一\nVERGE SERIES|ETHERNET SWITCHES\nMODEK: ANW-2224-PX_) TRx-AS-24TP4X\nPOWER: 280W\nINPUT: AC 100~240V\nA different series or the same?\n25052224A0103",
+ "extracted_at": "2026-10-22T03:43:22Z"
+}

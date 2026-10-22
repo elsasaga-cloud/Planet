@@ -1,0 +1,19 @@
+{
+ "sha256_16": "94bc190508a04a72",
+ "name": "DCN web gui.png",
+ "ext": ".png",
+ "bytes": 132752,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 937,
+  "height": 654,
+  "mode": "RGBA",
+  "thumb_bytes": 7442
+ },
+ "warnings": [],
+ "chars": 679,
+ "text": "Switel Device Admin ayer 2 Function usine v admin\nasic Information\non overwew 。 Bascnfomaton @\nUser Management\nHostname And Version CPUAnd Memory Temperature Save Configuration. Member\nDate And Time\nV Hostname\n7 vee Ea\n© Version Information\nSNMP\nCompile Time Jul 19 18:09:02 2024\nsysLocation: china\nEquipment Mode! swtcn\n0003.0r20.2303\nCluster Network\nVLAN MAC 00:03:0420:23:02\nSoftware Version: \\vr0sR002c0118012\nBootron m 7540\nHardware Version 201\nCPLD Version: 101\nSerial Number DcN4E17D47aAc8A4\nAl Rights Reserved Copyright(C) 2001-2024 by DC vunke Networks Co. Ltd Al ights reserved\nLast Restat: Last reboot is cold reset\nSystem Running Time weeks O days, Ohours, 44 minutes",
+ "extracted_at": "2026-10-22T03:44:29Z"
+}

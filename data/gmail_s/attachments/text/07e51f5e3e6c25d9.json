@@ -1,0 +1,21 @@
+{
+ "sha256_16": "07e51f5e3e6c25d9",
+ "name": "With serial port.png",
+ "ext": ".png",
+ "bytes": 1903126,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 1813,
+  "height": 3004,
+  "mode": "RGB",
+  "datetime": "2024:05:20 09:01:19",
+  "software": "Adobe Photoshop CS6 (Windows)",
+  "thumb_bytes": 10166
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:42:56Z"
+}

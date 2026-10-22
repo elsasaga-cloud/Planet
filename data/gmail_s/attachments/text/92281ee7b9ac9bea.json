@@ -1,0 +1,19 @@
+{
+ "sha256_16": "92281ee7b9ac9bea",
+ "name": "image002.png",
+ "ext": ".png",
+ "bytes": 493771,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 865,
+  "height": 703,
+  "mode": "RGBA",
+  "thumb_bytes": 13313
+ },
+ "warnings": [],
+ "chars": 144,
+ "text": "E27 Light\nSocket\nEnhanced Wi\nModule\nMic\nWhite &\nIR LEDs\n十 一 2.8in/7.11cm 一 一\nFi\n6.1in/1\nSpeaker (On the back)\n5.49cm\nReset Button & SD Card Slot",
+ "extracted_at": "2026-10-22T03:41:46Z"
+}

@@ -1,0 +1,13 @@
+{
+ "sha256_16": "9fd73e8dda0e6bd0",
+ "name": "NMS-SYS-TEMPERATURE-MIB.mib",
+ "ext": ".mib",
+ "bytes": 1341,
+ "method": "text",
+ "status": "ok",
+ "meta": {},
+ "warnings": [],
+ "chars": 1341,
+ "text": "NMS-SYS-TEMPERATURE-MIB DEFINITIONS ::= BEGIN\n\n\tIMPORTS\n\t\tsys\t\t\n\t\t\tFROM NMS-SYS-MIB\t\t\n\t\tInteger32, OBJECT-TYPE, MODULE-IDENTITY\t\t\n\t\t\tFROM SNMPv2-SMI;\n\n\n\t-- xx.2.1\n\tdummyTemperatureModule MODULE-IDENTITY \n\t\tLAST-UPDATED \"202511131307Z\"\n\t\tORGANIZATION \n\t\t\t\"NYNEX satellite OHG / fiberONE\"\n\t\tCONTACT-INFO \n\t\t\t\"noc@fiberone.de\"\n\t\tDESCRIPTION \n\t\t\t\t\"Define system private MIB nodes for NMS.\"\n\t\tREVISION  \"202511131307Z\"\t\t-- October 16, 2020 at 11:42 GMT\n\t\tDESCRIPTION \n\t\t\t\"init\"\n\t\t::= { sys 999 }\t\n\n\n\ttemperatureTable OBJECT-TYPE\n\t\tSYNTAX SEQUENCE OF TemperatureEntry\n\t\tMAX-ACCESS not-accessible\n\t\tSTATUS current\n\t\tDESCRIPTION\n\t\t\t\"Table containing all temperature readings.\"\n\t\t::= { sys 4 }\n\n\ttemperatureEntry OBJECT-TYPE\n\t\tSYNTAX TemperatureEntry\n\t\tMAX-ACCESS not-accessible\n\t\tSTATUS current\n\t\tDESCRIPTION\n\t\t\t\"temperature probe data\"\n\t\tINDEX { temperatureIndex }\n\t\t::= { temperatureTable 1 }\n\n\ttemperatureIndex OBJECT-TYPE\n\t\tSYNTAX Integer32 (1..2147483647)\n\t\tMAX-ACCESS not-accessible\n\t\tSTATUS current\n\t\tDESCRIPTION\n\t\t\t\"Temperature probe index\"\n\t\t::= { temperatureEntry 1 }\n\n\ttemperatureValue OBJECT-TYPE\n\t\tSYNTAX Integer32\n\t\tMAX-ACCESS read-only\n\t\tSTATUS current\n\t\tDESCRIPTION\n\t\t\t\"Temperature in celsius\"\n\t\t::= { temperatureEntry 2 }\t\n\n\tTemperatureEntry ::=\n\t\tSEQUENCE { \n\t\t\ttemperatureIndex Integer32,\n\t\t\ttemperatureValue Integer32\n\t\t }\n\n\nEND\n",
+ "extracted_at": "2026-10-22T03:41:30Z"
+}

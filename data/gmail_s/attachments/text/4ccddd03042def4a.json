@@ -1,0 +1,19 @@
+{
+ "sha256_16": "4ccddd03042def4a",
+ "name": "Confirmation.jpg",
+ "ext": ".jpg",
+ "bytes": 320811,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 1699,
+  "height": 1270,
+  "mode": "RGB",
+  "thumb_bytes": 14024
+ },
+ "warnings": [],
+ "chars": 116,
+ "text": "VL\nThereis aline, right?\nEthernet 10G Base-TX to Ethernet 10G SFP Conversion\nModel:\nFiber Optic Communications\nMC10G",
+ "extracted_at": "2026-10-22T03:45:12Z"
+}

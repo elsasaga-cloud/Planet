@@ -1,0 +1,21 @@
+{
+ "sha256_16": "1563d76926922f45",
+ "name": "with serial port.jpg",
+ "ext": ".jpg",
+ "bytes": 2818348,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 5000,
+  "height": 1551,
+  "mode": "RGB",
+  "datetime": "2025:01:03 13:44:54",
+  "software": "Adobe Photoshop CS6 (Windows)",
+  "thumb_bytes": 5231
+ },
+ "warnings": [],
+ "chars": 61,
+ "text": "Yellow:PoE/Speed Green:Link/act\nConsole\n115200.8.N.1\n0c36-75v",
+ "extracted_at": "2026-10-22T03:45:03Z"
+}

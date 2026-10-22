@@ -1,0 +1,1934 @@
+{
+ "sha256_16": "d2155c9075d6aaf9",
+ "name": "STI-288GP.docx",
+ "ext": ".docx",
+ "bytes": 4245186,
+ "method": "python-docx(段落+表格+文本框+页眉页脚)",
+ "status": "ok",
+ "meta": {
+  "title": "",
+  "author": "Simon",
+  "last_modified_by": "Simon",
+  "created": "2023-07-22T16:14:00+00:00",
+  "modified": "2024-10-26T05:25:08+00:00",
+  "paragraphs": 324,
+  "tables": 5,
+  "embedded_images": 22
+ },
+ "warnings": [],
+ "chars": 23105,
+ "text": "ContentModel Name2Key Features2Specification3Application5Mechanical Drawing5Packing List6Product Picture7Bullet Points8FAQ9General Query9Product Query12Ordering Information14Order Procedure15Miscellaneous Fee16After-sales Support17About Us18How We Do Business19\nPlease click the bookmarks for easier reading\nPlease pay attention to “remark” and “product query”\nModel Name\nSTI-288GP\nST: Saga Telecom\nI: Industrial grade\n2: 2 optical ports\n8: 8 Ethernet ports\n8: 8 PoE ports\nG: Gigabit based\nP: Support PoE\nIt is advised to read specific product description for more information\nKey Features\n8*10/100/1000Base-T RJ45 PoE port, 2*1000Base-X fiber port(SFP/SC/ST/FC optional)\nRedundant DC44-57V power input with polarity reverse protection\nComply with IEEE802.3af PoE and IEEE802.3at PoE+ standard\nPowerful DIP switch function(on the top panel)\nPort isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog\nSupport 10K bytes jumbo frame\nSupport 4KV surge protection and ESD: Air-15KV, Contact-8KV protection\nIP40 fan-less and Din-rail design\nOperation temperature: -40℃~+75℃\nWith above features, it is an ideal solution for IP Surveillance, wind, electricity, assembly automation, subway PIS, power SCADA, sewage treatment, metallurgy, intelligent transportation, rail transportation, military and other industries\nSpecification\nProduct Name\t10 Port 10/100/1000Mbps Industrial PoE Switch\nPort\t8*10/100/1000M PoE + 2 port 1000M Fiber\nNetwork Medium\t10BASE-T: Cat3, 4, 5 or above UTP(≤100 meters) / 100BASE-TX: Cat5 or above UTP(≤100 meters) / 1000BASE-TX: Cat5 or above UTP(≤100 meters)\nNetwork Protocol\tIEEE 802.3 10Base-T Ethernet / IEEE 802.3u Fast Ethernet / IEEE 802.3ab Gigabit Ethernet / IEEE 802.3x Full-Duplex Flow Control / IEEE 802.3az Energy Efficient Ethernet / IEEE 802.3af Power-Over-Ethernet / IEEE 802.3at Power Over Ethernet plus PSE\nFiber Option\tHot Plug-able Module(LC)or 1*9 Fixed Module(SC/ST/FC), 1000M based / SM: 1310nm/1550nm, 20Km; 1490nm/1550nm, 40~100Km / MM: 1310nm, 2Km; 850nm, 500-meter / Remark: It is NOT supporting 100M SFP Module\nSwitching Capacity\t20Gbps\nThroughput\t29.76Mpps\nPacket Buffer\t2M\nMAC Address\t16K\nVLAN\t4K\nJumbo Frame\t10Kbytes\nTransfer Mode\tStore and forward, forwarding delay<5us\nMDX/MIDX\tSupport\nWatchdog\tSupport\nNetwork Topology\tStar topology / Bus topology / Tree Topology\nMTBF\t200,000 hours\nPoE Protocol\tIEEE802.3af(15.4W), IEEE802.3at(30W) / Remark: auto-sensing PD standard and supply compatible power\nPoE Distance\tmeter or 250-meter(ONLY port 1~4, need to turn on DIP 2) / Remark: A PoE extender is required for longer PoE transmission\nPoE Wiring\t1/2(+), 3/6(-)\nPoE Budget\t240W / Max PoE output: 30W/port, 30W*8=240W\nInput Voltage\tDC44-57V, Redundant Input / Removable 4 PIN Industrial Terminal Block\nPoE Output\tDC48V, Active PoE / Remark: DC24V passive PoE is NOT supported / A PoE splitter is required if the powered device receives DC24V voltage\nInput Current\t5.6A Max\nTotal Power Consumption\tFull loading≤7.5W\nReverse Polarity Protection\tSupport\nIndustry Standard\tSurge protection of power: IEC 61000-4-5 Level 3(4KV/2KV)(8/20us) / Surge protection of Ethernet ports: IEC 61000-4-5 Level 3(4KV/2KV) / (10/700us) / DIP: IEC 61000-4-11 Level 3(10V) / ESD: IEC 61000-4-2 Level 4(8K/15K) / Shock: IEC 60068-2-27 / Free fall: IEC 60068-2-32 / Vibration: IEC 60068-2-6\nProtection Level\tIP40\nInstallation\tDin Rail or Wall Mounted(1pc mounting hanger is offered)\nCertification\tCE/FCC/RoHS/Reach/UKCA\nWorking Environment\tWorking Temperature: -40℃~75℃ / Storage Temperature: -40℃~85℃ / Relative Humidity: 5%~95%, non-condensing\nDIP\tPort Isolation / 250m long distance mode(1-4 ports) / QoS(1-2 ports) / PoE watchdog\nLED Indicators\tPWR(Power indicator), Green Color / On: power status is normal\nOff: power off or power connection failure / S(PoE usage indicator), Red Color / On: PoE usage≥90% rated budget / Blinking: 50%<PoE usage<90% rated budget / Off: PoE usage<50% rated budget / Ethernet Port / Green Indicator / On: port link up / Off: port link down / Blinking: data is in normal transmission / Yellow Indicator / PoE ports / On: PoE working / Off: PoE not working / Fiber port, Green Color / On: port link up / Off: port link down / Blinking: data is in normal transmission\nApplication\nAny network utilizing a mixture of copper and fiber\nIP connectivity and communication\nCCTV system such as network camera, access control\nMechanical Drawing\nSFP Plug-able Module\n1*9 Fixed Module\nRemark\nPlease contact us if the source file is needed\nPacking List\n1pc switch\n1pc wall hanger(shared holes with DIN Rail Kit)\n1pc user manual(including QIG information)\nPlease know that there is NOT a warranty card in the packing box\nA “Certificate of Warranty” will be issued to indicate the order information and warranty coverage\nShipping box information(Below information is approximately accurate)\nProduct size: 130*98*48mm\nInner box size: 184*150*70mm\nProduct weight: 0.75Kg\nPacking weight: 0.9Kg\nMaster box size: 390*370*330mm\nPacking quantity: 20Pcs\nPacking weight: 19Kg\nRemark\nAccessories(optical module, power supply, patchcord etc.)are NOT included in the packing box\nPlease prepare it by yourself or purchase a whole set from us\nProduct Picture\nRemark\nPlease let us know if you need to check actual photos(not PS-modified)\nBullet Points\nThis helps you understand the unique features of our models and why choose us\nExpert Design\nWe borrow the case design idea from Moxa and Simens(to have beauty, professionalism and practicality in industrial design)\nThe upper panel, aluminum\nThe other sides, iron\nThe curves and textures\nThis ensures beautiful outlook and good heat dissipation especially for PoE models\nDIP Function\nThis offers useful and flexible configurations based on the same model\nPush-in Terminal Block\nThis is much easier in installation than traditional screw-type terminal block\nFor many models on the market\nThe design is not so good\nWithout DIP function\nTraditional screw-type terminal block\nFAQ\nGeneral Query\nLeadtime\nProduction starts AFTER payment is received\nPlease know that it usually takes 1~2 working days for our bank to receive the payment\nProduction time is usually 4~7 working days for standard(non-customized)models(no more than 50Pcs)\nShipping time is usually 4~7 days by express\nIn total, it takes 10~15 calendar days to arrive at local customs for clearance\nThis is an estimated period, it usually does not take this long to receive the order\nShipment\nWe will send the goods by express(DHL, UPS or FEDEX)or by sea(for bulk orders)\nIt is fine to ship purchased items via client’s shipping account(DHL, UPS or FEDEX) or forwarders in China\nMoQ\n1 Pc/Pair(It is NOT free, Saga Telecom do NOT do FREE SAMPLES)\nIt is fine to have sample testing before bulk orders\nPlease know that we do NOT suggest 1pc/pair in sample testing, better make it at least 2 pieces/pairs in case of any possible dysfunction in production/transportation(then all efforts are gone, a big waste of time)\nWarranty\n1 year for commercial models(STC series)and 3 years for industrial models(STI series)\nPlease kindly refer to the “Warranty Policy” for more information\nTechnical assistance is always available\nDiscount\nAvailable and it is usually based on quantity and AFTER sample testing\nThe price negotiation makes sense ONLY IF a client is satisfied with the quality\nFor distributorship, that we are now seeking, best prices will be provided\nPayment\nT/T transfer and PayPal\nIt is fine to pay 50% first and another 50% before shipment for a bulk order(this is about standard/non-customized models)\nFULL PAYMENT for a customization order BEFORE PRODUCTION(non-negotiated)\nIt is fine to be paid via client’s forwarder(this is usually about RMB payment on Alipay or WeChat)\nTransaction Cost\nIt is standard charge 25usd for EACH T/T transfer whatever the invoice value is\nIt is 5usd for every 100usd to PayPal a/c, this ratio is standard charge by PayPal\nUser Manual\nPlease know that there is a user manual(with necessary information for usage and installation)in the packing box Actually most of the necessary information is available in this datasheet\nWe can help print a copy of your version and put it in the packing box\nPacking Box\nWithout Chinese letters or logo\nHard carton, resilient to wrinkle, good for reselling even after shipment(there is protective foam inside to avoid possible damage)\nCustomized version is available(with your logo/model/slogan or remove the patterns), but there is MoQ and cost for this, discussion is required\nLabel\nThere is product information/model name/serial number on the label\nIt is fine to write client’s version\nStandard language is English\nIf a different language is adopted like Russian, Italian, Korean...\nPlease share EXACT translation, we will simply copy and print\nBarcodes are scannable for inbound statistics\n“Made in China” description is there and can be removed if required\nAn example photo will be shared for confirmation before mass printing for a bulk order\nThere are 2 copies for each manufactured product. One is attached on the device, the other is on the packing box\nCertification\nCE/RoHS/FCC/Reach/UKCA\nPlease let us know if you need to check the certificates\nRMA\nPlease contact us ASAP once there is a problem of ANY KIND\nPlease also read below “after-sales support” information to understand how to proceed\nFor every 100Pcs, there will be 2 extra free units(2% RMA)against immediate warranty coverage\nThis rule stands for all Saga Telecom models and even there is not an after-sales issue\nIf it is about missing/faulty parts in the packing box\nPlease simply use the extra units for the replacem\nent and let us know this problem(we will improve)\nIf it is about usage problem\nSaga Telecom will provide technical support and send new units when necessary(in this occasion, we will be responsible for both product cost and shipping cost, but the local customs clearance cost, if any, is on clients)\nSKD/CKD\nAvailable\nSKD is simple, please just let us know how you would like to have it\nCKD usually involves confidential information such as BOM list, schematic design, PCB layout etc.\nIt is based on solid cooperation AND bulk orders, thorough discussion is required to do CKD mode\nOEM\nAvailable\nDiscussion is required for complex changes, meanwhile an NDA(Non-disclosure Agreement)contract will be agreed upon and signed\nRelevant cooperation information will not be leaked to a third party without client’s permission\nIt is mainly about 2 categories\nIndustrial manufacturing\nShow client’s logo/model on the device/label\nUse client’s packing box\nDesign client’s product PVC sticker\nCustomize some parts of a model like rear panel/power input terminal block/panels...\nPlease know that there might be an extra cost for such OEM services\nManagement features\nShow client’s logo/model on the management interface\nChange IP address\nMAC address\nSNMP, OID\nAbove changes are free of cost and please know that\nFont format&GUI color are NOT changeable for the management interface\nWe can also help with develop exact features/specifications based on given chips or PCB board designs, this is more complex, thorough discussion is required\nIncoterms\nEXW term is our focus\nSometimes we do FOB/CIF for bulk orders, this depends on cases, please talk with us for more information\nOnline Store\nCurrently we do not have an online store(Amazon, Shopify, Aliexpress etc.)\nWe will add a store link in this datasheet when available\nBranch/Distribution\nCurrently we do not have ANY overseas branches or distributors\nWe are actively seeking good agents/resellers to promote our brand and products\nNecessary technical and pricing support will be provided\nPlease let us know if you are interested\nProduct Query\nIf possible to remove DIP function?\nA: Most of our industrial unmanaged switches have DIP function, it is uniform. And this is an advantage over other switches on the market\nSo NO for small quantities\nJust do not use it(ignore it)if relevant functions are not needed\nIf it is about a bulk order, we can remove it for you(customization)\nIs it managed?\nNo, it is unmanaged\nWe have many managed switches for your choice\nWhat power supply should I use?\nPlease read below “ordering information” for our power supply models.\nOr it is fine to use a different brand, just make sure that the power input range stands in DC44V~DC57V\nCan your switches work with other brand switches?\nYes, it is unmanaged and about the universal networking protocols, so there will not be incompliances\nCan I just have a piece of PCB? I do not need the product case\nYes, we will pack the PCB board in an ESD bag, than locate it against the protective foam in the packing box.\nIt is well protected from possible damage in transportation\nWhat should I do if I temporarily do not need PoE function sometimes?\nTo realize this, please just use a DC12V or DC24V power supply, PoE function will not work then\nI need to supply power to some IP cameras about 200 meters away, what do you suggest?\nThis PoE switch supports 250-meter PoE transmission distance for port 1~4, please turn on this function and connect the IP cameras with those 4 ports.\nIf there are many IP cameras that are over 100-meter away, please choose some other models or use PoE extenders.\nWhat is the fiber speed?\nIt is 1000M based(1.25Gb/s)and NOT supporting 100M(155Mb/s)or 2.5G optical modules.\nI have a MEAN WELL NDR-120-12 power supply, its DC12V output. Is it possible to use it to make PoE work?\nNO\nOur switches receive DC44V~DC57V to activate the PoE function, DC12V/DC24V input is not enough to make PoE work\nWe know that some suppliers are doing this type, DC12V/DC24V voltage input while active PoE output, there is a booster (another name is step-up) INSIDE\nWhen DC12V/DC24V comes in, it will be boosted/converted to DC48V to make PoE chip work\nCurrently we have a better solution for this occasion\nWe introduce an EXTERNAL power booster(model name STI-PA-120W-UP) which realizes exactly the same function, and it could be used to boost different devices, convenient and cost effective\nOrdering Information\nIndustrial PoE Switch(Unmanaged Series), DC44V~DC57V, Din Mounted\nModel\tDescription\nSTI-054FP\t1*10/100M RJ45+4*10/100 PoE, 120W budget\nSTI-088FP\t8*10/100 PoE, 240W budget\nSTI-054GP\t1*10/100/1000M RJ45+4*10/100/1000 PoE, 120W budget\nSTI-088GP\t8*10/100/1000 PoE, 240W budget\nSTI-01616GP\t16*10/100/1000 PoE, 240W budget\nSTI-111FP\t1*100M Fiber+1*10/100M PoE, 30W budget\nSTI-122FP\t1*100M Fiber+2*10/100M PoE, 60W budget\nSTI-144FP\t1*100M Fiber+4*10/100M PoE, 120W budget\nSTI-188FP\t1*100M Fiber+8*10/100M PoE, 240W budget\nSTI-222FP\t2*100M Fiber+2*10/100M PoE, 60W budget\nSTI-244FP\t2*100M Fiber+4*10/100M PoE, 120W budget\nSTI-266FP\t2*100M Fiber+6*10/100M PoE, 180W budget\nSTI-111GP\t1*100/1000M Fiber+1*10/100/1000M PoE, 30W budget\nSTI-122GP\t1*100/1000M Fiber+2*10/100/1000M PoE, 60W budget\nSTI-222GP\t2*100/1000M Fiber+2*10/100/1000M PoE, 60W budget\nSTI-144GP\t1*1000M Fiber+4*10/100/1000M PoE, 120W budget\nSTI-154GP\t1*1000M Fiber+1*10/100/1000M RJ45+4*10/100/1000M PoE, 120W budget\nSTI-188GP\t1*1000M Fiber+8*10/100/1000M PoE, 240W budget\nSTI-244GP\t2*1000M Fiber+4*10/100/1000M PoE, 120W budget\nSTI-288GP\t2*1000M Fiber+8*10/100/1000M PoE, 240W budget\nSTI-21616GP\t2*1000M Fiber+16*10/100/1000M PoE, 240W budget\nSTI-488GP\t4*1000M Fiber+8*10/100/1000M PoE, 240W budget\nSTI-888GP\t8*1000M Fiber+8*10/100/1000M PoE, 240W budget\nIndustrial Din Power Adapter(-40℃~+75℃)\nSTI-PA-75W-48V1.56A\t90-264VAC Input, 48VDC Output, 1.56A, 75W, Metal Case, Din Mounted\nSTI-PA-120W-48V2.5A\t90-264VAC Input, 48VDC Output, 2.5A, 120W, Metal Case, Din Mounted\nSTI-PA-240W-48V5A\t90-264VAC Input, 48VDC Output, 5A, 240W, Metal Case, Din Mounted\nSTI-PA-480W-48V10A\t90-264VAC Input, 48VDC Output, 10A, 480W, Metal Case, Din Mounted\nIndustrial Optical Module(-40℃~+75℃)\nSTI-G0.5-MD\tGigabit(1000M), 0.5KM Multi-mode, Dual Fiber, 850nm, LC port\nSTI-G2-MD\tGigabit(1000M), 2KM Multi-mode, Dual Fiber, 1310nm, LC port\nSTI-G20-SD\tGigabit(1000M), 20KM Single mode, Dual Fiber, 1310nm, LC port\nSTI-G20-SST/R\tGigabit(1000M), 20KM Single-mode, Single Fiber, 1310nm/1550nm, LC port\nRemark\nOptical Module&Power Supply are NOT included in the packing box, need to purchase individually\nListed optical module and power supply specifications are COMMONLY used for this device\nPlease talk with us for more specifications\nOrder Procedure\nNegotiation\nOrdering\nPayment\nShipment\nNegotiation\nDiscuss specification, quantity, customized requirements...\nMove on to “Ordering” stage if every detail is finalized\nNo agreement is achieved due to pricing, unavailable offer...\nWait for next business opportunity\nOrdering\nBuyer sending PO\nThis is not necessarily required\nSeller drafting PI\nRequired\nContact information, pricing, quantity, shipping time etc. should be specified in this invoice\nBuyer checking\nMake payment if PI is approved\nNotify seller to revise the points in question\nPayment\nPayPal/Bank transfer ONLY\nPayPal is usually for sample orders, 5Usd will be charged for EVERY 100Usd into our A/C\nBank transfer is usually about repeat and bulk orders, standard charge in EACH order: 25Usd\nBuyer sending payment receipt\nMaterial preparation starts\nSeller receiving payment\nProduction starts\nShipping\nDispatch ready\nPhotos and videos of ordered units are available\nBuyer confirmation(product label format, shipping marks...)is required to release out the order\nShipping method\nVia buyer’s designated forwarder, this is usually about buyer's shipping agent, we will directly send purchased items to agent for further processing\nVia Saga Telecom’s shipping agent, we will quote based on total weight to buyer. It is usually air service by DHL/FedEx/UPS, cost will be included in PI after buyer approves\nVia buyer’s shipping A/C(DHL/FedEx/UPS)\nShipping number\nSeller should send shipping information to buyer once available\nMiscellaneous Fee\nThis covers most of small charges in an order\nPVC mask\nMoQ: 300Pcs, unit price: 1usd/pc\nExamples are:\nAn order less than 300Pcs, lets say 50Pcs\n50Pcs will be consumed and 250Pcs are left at the moment(Either ship them together with the purchased items or keep them in our warehouse for next orders)\nAn order over 300Pcs, lets say 350Pcs\nThen we could order an exact amount 350Pcs for this order\nThere will be none left\nRemark\nIt is neutral device(without logo)in a standard order\nCOO(Certificate of Origin)\n15usd/EACH copy\nClient needs to go through the content, it is non-modifiable once confirmed\nThis has to be exercised AT LEAST 2 working days before shipment\nPlease let us know how we handle the copy(attach it on the outside or put it inside the box)\nTransaction Cost\nAs stated in General Query, it is standard charge in EACH order\nAfter-sales Support\nWarranty comes in effect from the date of delivery\nA “certificate of warranty” will be issued to indicate the coverage and relevant information\nIf you have no idea how to install/configure/use the purchased devices, please contact us\nA detailed introduction will be shared\nIf something is faulty in usage(especially managed models)\n1, please describe what happened, examples as below\nWhen this problem occurred\nWhat you did to adjust it like restart the device or change new accessories\nHow you use this device like outdoor use for connecting some IP cameras\nWith this information, Saga telecom could quickly know what is going on and do trouble-shooting\n2, please do your best to provide as many actual photos/videos as possible\nWrong connection or improper use may occur, photos and videos are helpful and efficient\nIt is NOT suggested to discuss after-sales issues ONLY by text, we find it difficult to understand the situation and find out the root reasons\nAt the same time, we know that it might not be easy to get some photos/videos due to different reasons\nPlease try your best(at least draw a sketch or something), this is the most efficient method based on our many after-sales cases\n3, please prepare necessary accessories such as new SFP modules/other brand switches...\nAn example is, in a linear network connection, if one SFP module fails, the whole system might have a transmission problem\nThe solution would be as simple as replacing a new workable SFP module\nWith in-hand accessories, sometimes it is easy to fix the problem\n4, please get ready for online meeting\nIf early tests and communication failed to identify the problem, an online meeting will be held to better discuss the after-sales issues(usually on Zoom or Microsoft Teams)\nSaga telecom might remotely control your PC to do trouble-shooting with the help of Teamviewer/Anydesk\nPlease do NOT wire or test the devices casually without our knowing, just follow our instructions and our engineers will do next moves based on the feedback.\nFor more information, please talk with us or visit www.sagatelecom.com.cn\nAbout Us\nSaga Telecom is a reliable manufacturer and trader of good-quality fiber optic devices and transmission solutions, and focuses on industrial networking, CCTV surveillance, fiber optic conversion and featured optical devices for industrial automation, vehicle network, security monitoring etc.\nBacked by diversified product portfolio and mature business system, Saga Telecom gains good feedback overseas especially in USA, Turkey, Italy, Russia and India\nMeantime, Saga Telecom is actively seeking trustworthy partners and enhancing its presence in optical telecommunication field\nCore Value\nConnecting, Converting, Creating\nSaga Telecom connects talents and ideas that may drive itself forward\nSaga Telecom converts mature business system to all-round growth\nSaga Telecom creates betterness from expertise and solution package\nProduct Line\nCommercial Ethernet\nIndustrial Networking\nDin Power Adapter\nEthernet Media Converter\nPoE Accessory\nOptical Module\nFeatured Optical Fiber Devices\nA reliable networking solution supplier\nHow We Do Business\nSaga Telecom is being digital and paperless to be efficient and eco-friendly\nSimplified, Standard, Solution based\nAll is about a s truly helpful solution\nSaga Telecom proposes a buffet-style business communication\nAll the information is available without asking\nBusiness details are being continuously updated\nValue and growth manifest itself\n1\nA google link containing full information is created with access to everyone\nAnyone could read or download it anytime and anywhere\n2\nWe have been absorbing useful information and will update it in the link\nLike product query, application...\nSo latest information will be available all the time\n3\nWe are welcoming comparisons and suggestions from you\nCompare our products with existing or other suppliers\nLet us know where we could improve\nSaga Telecom aims to be a marathoner in fiber optic telecommunication field\nA link to all the information\nhttps://drive.google.com/drive/folders/10pI-PIGftC6UVEngjg_cLlC8-X14fA9A?usp=drive_link\n[页眉页脚]\n2025/Q1\t                                                                                                                       s.sagatelecom@gmail.com\n\t\t\t\t\t\t\t                                                                       Saga Telecom\nwww.sagatelecom.com.cn\nConnecting, Converting, Creating",
+ "blocks": [
+  {
+   "t": "p",
+   "s": "sdt",
+   "text": "ContentModel Name2Key Features2Specification3Application5Mechanical Drawing5Packing List6Product Picture7Bullet Points8FAQ9General Query9Product Query12Ordering Information14Order Procedure15Miscellaneous Fee16After-sales Support17About Us18How We Do Business19"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please click the bookmarks for easier reading"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please pay attention to “remark” and “product query”"
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "Model Name"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "STI-288GP"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "ST: Saga Telecom"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "I: Industrial grade"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "2: 2 optical ports"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "8: 8 Ethernet ports"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "8: 8 PoE ports"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "G: Gigabit based"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "P: Support PoE"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is advised to read specific product description for more information"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Key Features"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "8*10/100/1000Base-T RJ45 PoE port, 2*1000Base-X fiber port(SFP/SC/ST/FC optional)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Redundant DC44-57V power input with polarity reverse protection"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Comply with IEEE802.3af PoE and IEEE802.3at PoE+ standard"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Powerful DIP switch function(on the top panel)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Support 10K bytes jumbo frame"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Support 4KV surge protection and ESD: Air-15KV, Contact-8KV protection"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "IP40 fan-less and Din-rail design"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Operation temperature: -40℃~+75℃"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "With above features, it is an ideal solution for IP Surveillance, wind, electricity, assembly automation, subway PIS, power SCADA, sewage treatment, metallurgy, intelligent transportation, rail transportation, military and other industries"
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "Specification"
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "Product Name",
+     "10 Port 10/100/1000Mbps Industrial PoE Switch"
+    ],
+    [
+     "Port",
+     "8*10/100/1000M PoE + 2 port 1000M Fiber"
+    ],
+    [
+     "Network Medium",
+     "10BASE-T: Cat3, 4, 5 or above UTP(≤100 meters) / 100BASE-TX: Cat5 or above UTP(≤100 meters) / 1000BASE-TX: Cat5 or above UTP(≤100 meters)"
+    ],
+    [
+     "Network Protocol",
+     "IEEE 802.3 10Base-T Ethernet / IEEE 802.3u Fast Ethernet / IEEE 802.3ab Gigabit Ethernet / IEEE 802.3x Full-Duplex Flow Control / IEEE 802.3az Energy Efficient Ethernet / IEEE 802.3af Power-Over-Ethernet / IEEE 802.3at Power Over Ethernet plus PSE"
+    ],
+    [
+     "Fiber Option",
+     "Hot Plug-able Module(LC)or 1*9 Fixed Module(SC/ST/FC), 1000M based / SM: 1310nm/1550nm, 20Km; 1490nm/1550nm, 40~100Km / MM: 1310nm, 2Km; 850nm, 500-meter / Remark: It is NOT supporting 100M SFP Module"
+    ],
+    [
+     "Switching Capacity",
+     "20Gbps"
+    ],
+    [
+     "Throughput",
+     "29.76Mpps"
+    ],
+    [
+     "Packet Buffer",
+     "2M"
+    ],
+    [
+     "MAC Address",
+     "16K"
+    ],
+    [
+     "VLAN",
+     "4K"
+    ],
+    [
+     "Jumbo Frame",
+     "10Kbytes"
+    ],
+    [
+     "Transfer Mode",
+     "Store and forward, forwarding delay<5us"
+    ],
+    [
+     "MDX/MIDX",
+     "Support"
+    ],
+    [
+     "Watchdog",
+     "Support"
+    ],
+    [
+     "Network Topology",
+     "Star topology / Bus topology / Tree Topology"
+    ],
+    [
+     "MTBF",
+     "200,000 hours"
+    ],
+    [
+     "PoE Protocol",
+     "IEEE802.3af(15.4W), IEEE802.3at(30W) / Remark: auto-sensing PD standard and supply compatible power"
+    ],
+    [
+     "PoE Distance",
+     "meter or 250-meter(ONLY port 1~4, need to turn on DIP 2) / Remark: A PoE extender is required for longer PoE transmission"
+    ],
+    [
+     "PoE Wiring",
+     "1/2(+), 3/6(-)"
+    ],
+    [
+     "PoE Budget",
+     "240W / Max PoE output: 30W/port, 30W*8=240W"
+    ],
+    [
+     "Input Voltage",
+     "DC44-57V, Redundant Input / Removable 4 PIN Industrial Terminal Block"
+    ],
+    [
+     "PoE Output",
+     "DC48V, Active PoE / Remark: DC24V passive PoE is NOT supported / A PoE splitter is required if the powered device receives DC24V voltage"
+    ],
+    [
+     "Input Current",
+     "5.6A Max"
+    ],
+    [
+     "Total Power Consumption",
+     "Full loading≤7.5W"
+    ],
+    [
+     "Reverse Polarity Protection",
+     "Support"
+    ]
+   ]
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "Industry Standard",
+     "Surge protection of power: IEC 61000-4-5 Level 3(4KV/2KV)(8/20us) / Surge protection of Ethernet ports: IEC 61000-4-5 Level 3(4KV/2KV) / (10/700us) / DIP: IEC 61000-4-11 Level 3(10V) / ESD: IEC 61000-4-2 Level 4(8K/15K) / Shock: IEC 60068-2-27 / Free fall: IEC 60068-2-32 / Vibration: IEC 60068-2-6"
+    ],
+    [
+     "Protection Level",
+     "IP40"
+    ],
+    [
+     "Installation",
+     "Din Rail or Wall Mounted(1pc mounting hanger is offered)"
+    ],
+    [
+     "Certification",
+     "CE/FCC/RoHS/Reach/UKCA"
+    ],
+    [
+     "Working Environment",
+     "Working Temperature: -40℃~75℃ / Storage Temperature: -40℃~85℃ / Relative Humidity: 5%~95%, non-condensing"
+    ],
+    [
+     "DIP",
+     "Port Isolation / 250m long distance mode(1-4 ports) / QoS(1-2 ports) / PoE watchdog"
+    ],
+    [
+     "LED Indicators",
+     "PWR(Power indicator), Green Color / On: power status is normal\nOff: power off or power connection failure / S(PoE usage indicator), Red Color / On: PoE usage≥90% rated budget / Blinking: 50%<PoE usage<90% rated budget / Off: PoE usage<50% rated budget / Ethernet Port / Green Indicator / On: port link up / Off: port link down / Blinking: data is in normal transmission / Yellow Indicator / PoE ports / On: PoE working / Off: PoE not working / Fiber port, Green Color / On: port link up / Off: port link down / Blinking: data is in normal transmission"
+    ]
+   ]
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "Application"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Any network utilizing a mixture of copper and fiber"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "IP connectivity and communication"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "CCTV system such as network camera, access control"
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "Mechanical Drawing"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "SFP Plug-able Module"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1*9 Fixed Module"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Remark"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please contact us if the source file is needed"
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "Packing List"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1pc switch"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1pc wall hanger(shared holes with DIN Rail Kit)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1pc user manual(including QIG information)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please know that there is NOT a warranty card in the packing box"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "A “Certificate of Warranty” will be issued to indicate the order information and warranty coverage"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Shipping box information(Below information is approximately accurate)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Product size: 130*98*48mm"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Inner box size: 184*150*70mm"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Product weight: 0.75Kg"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Packing weight: 0.9Kg"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Master box size: 390*370*330mm"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Packing quantity: 20Pcs"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Packing weight: 19Kg"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Remark"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Accessories(optical module, power supply, patchcord etc.)are NOT included in the packing box"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please prepare it by yourself or purchase a whole set from us"
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "Product Picture"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Remark"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please let us know if you need to check actual photos(not PS-modified)"
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "Bullet Points"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "This helps you understand the unique features of our models and why choose us"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Expert Design"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We borrow the case design idea from Moxa and Simens(to have beauty, professionalism and practicality in industrial design)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "The upper panel, aluminum"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "The other sides, iron"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "The curves and textures"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "This ensures beautiful outlook and good heat dissipation especially for PoE models"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "DIP Function"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "This offers useful and flexible configurations based on the same model"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Push-in Terminal Block"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "This is much easier in installation than traditional screw-type terminal block"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "For many models on the market"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "The design is not so good"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Without DIP function"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Traditional screw-type terminal block"
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "FAQ"
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "General Query"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Leadtime"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Production starts AFTER payment is received"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please know that it usually takes 1~2 working days for our bank to receive the payment"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Production time is usually 4~7 working days for standard(non-customized)models(no more than 50Pcs)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Shipping time is usually 4~7 days by express"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "In total, it takes 10~15 calendar days to arrive at local customs for clearance"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "This is an estimated period, it usually does not take this long to receive the order"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Shipment"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We will send the goods by express(DHL, UPS or FEDEX)or by sea(for bulk orders)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is fine to ship purchased items via client’s shipping account(DHL, UPS or FEDEX) or forwarders in China"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "MoQ"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1 Pc/Pair(It is NOT free, Saga Telecom do NOT do FREE SAMPLES)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is fine to have sample testing before bulk orders"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please know that we do NOT suggest 1pc/pair in sample testing, better make it at least 2 pieces/pairs in case of any possible dysfunction in production/transportation(then all efforts are gone, a big waste of time)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Warranty"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1 year for commercial models(STC series)and 3 years for industrial models(STI series)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please kindly refer to the “Warranty Policy” for more information"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Technical assistance is always available"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Discount"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Available and it is usually based on quantity and AFTER sample testing"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "The price negotiation makes sense ONLY IF a client is satisfied with the quality"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "For distributorship, that we are now seeking, best prices will be provided"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Payment"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "T/T transfer and PayPal"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is fine to pay 50% first and another 50% before shipment for a bulk order(this is about standard/non-customized models)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "FULL PAYMENT for a customization order BEFORE PRODUCTION(non-negotiated)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is fine to be paid via client’s forwarder(this is usually about RMB payment on Alipay or WeChat)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Transaction Cost"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is standard charge 25usd for EACH T/T transfer whatever the invoice value is"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is 5usd for every 100usd to PayPal a/c, this ratio is standard charge by PayPal"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "User Manual"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please know that there is a user manual(with necessary information for usage and installation)in the packing box Actually most of the necessary information is available in this datasheet"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We can help print a copy of your version and put it in the packing box"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Packing Box"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Without Chinese letters or logo"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Hard carton, resilient to wrinkle, good for reselling even after shipment(there is protective foam inside to avoid possible damage)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Customized version is available(with your logo/model/slogan or remove the patterns), but there is MoQ and cost for this, discussion is required"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Label"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "There is product information/model name/serial number on the label"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is fine to write client’s version"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Standard language is English"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "If a different language is adopted like Russian, Italian, Korean..."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please share EXACT translation, we will simply copy and print"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Barcodes are scannable for inbound statistics"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "“Made in China” description is there and can be removed if required"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "An example photo will be shared for confirmation before mass printing for a bulk order"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "There are 2 copies for each manufactured product. One is attached on the device, the other is on the packing box"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Certification"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "CE/RoHS/FCC/Reach/UKCA"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please let us know if you need to check the certificates"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "RMA"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please contact us ASAP once there is a problem of ANY KIND"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please also read below “after-sales support” information to understand how to proceed"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "For every 100Pcs, there will be 2 extra free units(2% RMA)against immediate warranty coverage"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "This rule stands for all Saga Telecom models and even there is not an after-sales issue"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "If it is about missing/faulty parts in the packing box"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please simply use the extra units for the replacem"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "ent and let us know this problem(we will improve)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "If it is about usage problem"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Saga Telecom will provide technical support and send new units when necessary(in this occasion, we will be responsible for both product cost and shipping cost, but the local customs clearance cost, if any, is on clients)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "SKD/CKD"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Available"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "SKD is simple, please just let us know how you would like to have it"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "CKD usually involves confidential information such as BOM list, schematic design, PCB layout etc."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is based on solid cooperation AND bulk orders, thorough discussion is required to do CKD mode"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "OEM"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Available"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Discussion is required for complex changes, meanwhile an NDA(Non-disclosure Agreement)contract will be agreed upon and signed"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Relevant cooperation information will not be leaked to a third party without client’s permission"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is mainly about 2 categories"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Industrial manufacturing"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Show client’s logo/model on the device/label"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Use client’s packing box"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Design client’s product PVC sticker"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Customize some parts of a model like rear panel/power input terminal block/panels..."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please know that there might be an extra cost for such OEM services"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Management features"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Show client’s logo/model on the management interface"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Change IP address"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "MAC address"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "SNMP, OID"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Above changes are free of cost and please know that"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Font format&GUI color are NOT changeable for the management interface"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We can also help with develop exact features/specifications based on given chips or PCB board designs, this is more complex, thorough discussion is required"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Incoterms"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "EXW term is our focus"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Sometimes we do FOB/CIF for bulk orders, this depends on cases, please talk with us for more information"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Online Store"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Currently we do not have an online store(Amazon, Shopify, Aliexpress etc.)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We will add a store link in this datasheet when available"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Branch/Distribution"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Currently we do not have ANY overseas branches or distributors"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We are actively seeking good agents/resellers to promote our brand and products"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Necessary technical and pricing support will be provided"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please let us know if you are interested"
+  },
+  {
+   "t": "h",
+   "s": "Heading 2",
+   "text": "Product Query"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "If possible to remove DIP function?"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "A: Most of our industrial unmanaged switches have DIP function, it is uniform. And this is an advantage over other switches on the market"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "So NO for small quantities"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Just do not use it(ignore it)if relevant functions are not needed"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "If it is about a bulk order, we can remove it for you(customization)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Is it managed?"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "No, it is unmanaged"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We have many managed switches for your choice"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "What power supply should I use?"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please read below “ordering information” for our power supply models."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Or it is fine to use a different brand, just make sure that the power input range stands in DC44V~DC57V"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Can your switches work with other brand switches?"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Yes, it is unmanaged and about the universal networking protocols, so there will not be incompliances"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Can I just have a piece of PCB? I do not need the product case"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Yes, we will pack the PCB board in an ESD bag, than locate it against the protective foam in the packing box."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is well protected from possible damage in transportation"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "What should I do if I temporarily do not need PoE function sometimes?"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "To realize this, please just use a DC12V or DC24V power supply, PoE function will not work then"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "I need to supply power to some IP cameras about 200 meters away, what do you suggest?"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "This PoE switch supports 250-meter PoE transmission distance for port 1~4, please turn on this function and connect the IP cameras with those 4 ports."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "If there are many IP cameras that are over 100-meter away, please choose some other models or use PoE extenders."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "What is the fiber speed?"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is 1000M based(1.25Gb/s)and NOT supporting 100M(155Mb/s)or 2.5G optical modules."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "I have a MEAN WELL NDR-120-12 power supply, its DC12V output. Is it possible to use it to make PoE work?"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "NO"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Our switches receive DC44V~DC57V to activate the PoE function, DC12V/DC24V input is not enough to make PoE work"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We know that some suppliers are doing this type, DC12V/DC24V voltage input while active PoE output, there is a booster (another name is step-up) INSIDE"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "When DC12V/DC24V comes in, it will be boosted/converted to DC48V to make PoE chip work"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Currently we have a better solution for this occasion"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We introduce an EXTERNAL power booster(model name STI-PA-120W-UP) which realizes exactly the same function, and it could be used to boost different devices, convenient and cost effective"
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "Ordering Information"
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "Industrial PoE Switch(Unmanaged Series), DC44V~DC57V, Din Mounted"
+    ],
+    [
+     "Model",
+     "Description"
+    ],
+    [
+     "STI-054FP",
+     "1*10/100M RJ45+4*10/100 PoE, 120W budget"
+    ],
+    [
+     "STI-088FP",
+     "8*10/100 PoE, 240W budget"
+    ],
+    [
+     "STI-054GP",
+     "1*10/100/1000M RJ45+4*10/100/1000 PoE, 120W budget"
+    ],
+    [
+     "STI-088GP",
+     "8*10/100/1000 PoE, 240W budget"
+    ],
+    [
+     "STI-01616GP",
+     "16*10/100/1000 PoE, 240W budget"
+    ],
+    [
+     "STI-111FP",
+     "1*100M Fiber+1*10/100M PoE, 30W budget"
+    ],
+    [
+     "STI-122FP",
+     "1*100M Fiber+2*10/100M PoE, 60W budget"
+    ],
+    [
+     "STI-144FP",
+     "1*100M Fiber+4*10/100M PoE, 120W budget"
+    ],
+    [
+     "STI-188FP",
+     "1*100M Fiber+8*10/100M PoE, 240W budget"
+    ],
+    [
+     "STI-222FP",
+     "2*100M Fiber+2*10/100M PoE, 60W budget"
+    ],
+    [
+     "STI-244FP",
+     "2*100M Fiber+4*10/100M PoE, 120W budget"
+    ],
+    [
+     "STI-266FP",
+     "2*100M Fiber+6*10/100M PoE, 180W budget"
+    ],
+    [
+     "STI-111GP",
+     "1*100/1000M Fiber+1*10/100/1000M PoE, 30W budget"
+    ],
+    [
+     "STI-122GP",
+     "1*100/1000M Fiber+2*10/100/1000M PoE, 60W budget"
+    ],
+    [
+     "STI-222GP",
+     "2*100/1000M Fiber+2*10/100/1000M PoE, 60W budget"
+    ],
+    [
+     "STI-144GP",
+     "1*1000M Fiber+4*10/100/1000M PoE, 120W budget"
+    ],
+    [
+     "STI-154GP",
+     "1*1000M Fiber+1*10/100/1000M RJ45+4*10/100/1000M PoE, 120W budget"
+    ],
+    [
+     "STI-188GP",
+     "1*1000M Fiber+8*10/100/1000M PoE, 240W budget"
+    ],
+    [
+     "STI-244GP",
+     "2*1000M Fiber+4*10/100/1000M PoE, 120W budget"
+    ],
+    [
+     "STI-288GP",
+     "2*1000M Fiber+8*10/100/1000M PoE, 240W budget"
+    ],
+    [
+     "STI-21616GP",
+     "2*1000M Fiber+16*10/100/1000M PoE, 240W budget"
+    ],
+    [
+     "STI-488GP",
+     "4*1000M Fiber+8*10/100/1000M PoE, 240W budget"
+    ],
+    [
+     "STI-888GP",
+     "8*1000M Fiber+8*10/100/1000M PoE, 240W budget"
+    ]
+   ]
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "Industrial Din Power Adapter(-40℃~+75℃)"
+    ],
+    [
+     "STI-PA-75W-48V1.56A",
+     "90-264VAC Input, 48VDC Output, 1.56A, 75W, Metal Case, Din Mounted"
+    ],
+    [
+     "STI-PA-120W-48V2.5A",
+     "90-264VAC Input, 48VDC Output, 2.5A, 120W, Metal Case, Din Mounted"
+    ],
+    [
+     "STI-PA-240W-48V5A",
+     "90-264VAC Input, 48VDC Output, 5A, 240W, Metal Case, Din Mounted"
+    ],
+    [
+     "STI-PA-480W-48V10A",
+     "90-264VAC Input, 48VDC Output, 10A, 480W, Metal Case, Din Mounted"
+    ]
+   ]
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "Industrial Optical Module(-40℃~+75℃)"
+    ],
+    [
+     "STI-G0.5-MD",
+     "Gigabit(1000M), 0.5KM Multi-mode, Dual Fiber, 850nm, LC port"
+    ],
+    [
+     "STI-G2-MD",
+     "Gigabit(1000M), 2KM Multi-mode, Dual Fiber, 1310nm, LC port"
+    ],
+    [
+     "STI-G20-SD",
+     "Gigabit(1000M), 20KM Single mode, Dual Fiber, 1310nm, LC port"
+    ],
+    [
+     "STI-G20-SST/R",
+     "Gigabit(1000M), 20KM Single-mode, Single Fiber, 1310nm/1550nm, LC port"
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Remark"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Optical Module&Power Supply are NOT included in the packing box, need to purchase individually"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Listed optical module and power supply specifications are COMMONLY used for this device"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please talk with us for more specifications"
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "Order Procedure"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Negotiation"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Ordering"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Payment"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Shipment"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Negotiation"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Discuss specification, quantity, customized requirements..."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Move on to “Ordering” stage if every detail is finalized"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "No agreement is achieved due to pricing, unavailable offer..."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Wait for next business opportunity"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Ordering"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Buyer sending PO"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "This is not necessarily required"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Seller drafting PI"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Required"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Contact information, pricing, quantity, shipping time etc. should be specified in this invoice"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Buyer checking"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Make payment if PI is approved"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Notify seller to revise the points in question"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Payment"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "PayPal/Bank transfer ONLY"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "PayPal is usually for sample orders, 5Usd will be charged for EVERY 100Usd into our A/C"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Bank transfer is usually about repeat and bulk orders, standard charge in EACH order: 25Usd"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Buyer sending payment receipt"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Material preparation starts"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Seller receiving payment"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Production starts"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Shipping"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Dispatch ready"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Photos and videos of ordered units are available"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Buyer confirmation(product label format, shipping marks...)is required to release out the order"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Shipping method"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Via buyer’s designated forwarder, this is usually about buyer's shipping agent, we will directly send purchased items to agent for further processing"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Via Saga Telecom’s shipping agent, we will quote based on total weight to buyer. It is usually air service by DHL/FedEx/UPS, cost will be included in PI after buyer approves"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Via buyer’s shipping A/C(DHL/FedEx/UPS)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Shipping number"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Seller should send shipping information to buyer once available"
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "Miscellaneous Fee"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "This covers most of small charges in an order"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "PVC mask"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "MoQ: 300Pcs, unit price: 1usd/pc"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Examples are:"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "An order less than 300Pcs, lets say 50Pcs"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "50Pcs will be consumed and 250Pcs are left at the moment(Either ship them together with the purchased items or keep them in our warehouse for next orders)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "An order over 300Pcs, lets say 350Pcs"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Then we could order an exact amount 350Pcs for this order"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "There will be none left"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Remark"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is neutral device(without logo)in a standard order"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "COO(Certificate of Origin)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "15usd/EACH copy"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Client needs to go through the content, it is non-modifiable once confirmed"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "This has to be exercised AT LEAST 2 working days before shipment"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please let us know how we handle the copy(attach it on the outside or put it inside the box)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Transaction Cost"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "As stated in General Query, it is standard charge in EACH order"
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "After-sales Support"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Warranty comes in effect from the date of delivery"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "A “certificate of warranty” will be issued to indicate the coverage and relevant information"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "If you have no idea how to install/configure/use the purchased devices, please contact us"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "A detailed introduction will be shared"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "If something is faulty in usage(especially managed models)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1, please describe what happened, examples as below"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "When this problem occurred"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "What you did to adjust it like restart the device or change new accessories"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "How you use this device like outdoor use for connecting some IP cameras"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "With this information, Saga telecom could quickly know what is going on and do trouble-shooting"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "2, please do your best to provide as many actual photos/videos as possible"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Wrong connection or improper use may occur, photos and videos are helpful and efficient"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is NOT suggested to discuss after-sales issues ONLY by text, we find it difficult to understand the situation and find out the root reasons"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "At the same time, we know that it might not be easy to get some photos/videos due to different reasons"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please try your best(at least draw a sketch or something), this is the most efficient method based on our many after-sales cases"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "3, please prepare necessary accessories such as new SFP modules/other brand switches..."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "An example is, in a linear network connection, if one SFP module fails, the whole system might have a transmission problem"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "The solution would be as simple as replacing a new workable SFP module"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "With in-hand accessories, sometimes it is easy to fix the problem"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "4, please get ready for online meeting"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "If early tests and communication failed to identify the problem, an online meeting will be held to better discuss the after-sales issues(usually on Zoom or Microsoft Teams)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Saga telecom might remotely control your PC to do trouble-shooting with the help of Teamviewer/Anydesk"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please do NOT wire or test the devices casually without our knowing, just follow our instructions and our engineers will do next moves based on the feedback."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "For more information, please talk with us or visit www.sagatelecom.com.cn"
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "About Us"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Saga Telecom is a reliable manufacturer and trader of good-quality fiber optic devices and transmission solutions, and focuses on industrial networking, CCTV surveillance, fiber optic conversion and featured optical devices for industrial automation, vehicle network, security monitoring etc."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Backed by diversified product portfolio and mature business system, Saga Telecom gains good feedback overseas especially in USA, Turkey, Italy, Russia and India"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Meantime, Saga Telecom is actively seeking trustworthy partners and enhancing its presence in optical telecommunication field"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Core Value"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Connecting, Converting, Creating"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Saga Telecom connects talents and ideas that may drive itself forward"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Saga Telecom converts mature business system to all-round growth"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Saga Telecom creates betterness from expertise and solution package"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Product Line"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Commercial Ethernet"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Industrial Networking"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Din Power Adapter"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Ethernet Media Converter"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "PoE Accessory"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Optical Module"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Featured Optical Fiber Devices"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "A reliable networking solution supplier"
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "How We Do Business"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Saga Telecom is being digital and paperless to be efficient and eco-friendly"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Simplified, Standard, Solution based"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "All is about a s truly helpful solution"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Saga Telecom proposes a buffet-style business communication"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "All the information is available without asking"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Business details are being continuously updated"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Value and growth manifest itself"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "A google link containing full information is created with access to everyone"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Anyone could read or download it anytime and anywhere"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "2"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We have been absorbing useful information and will update it in the link"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Like product query, application..."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "So latest information will be available all the time"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "3"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We are welcoming comparisons and suggestions from you"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Compare our products with existing or other suppliers"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Let us know where we could improve"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Saga Telecom aims to be a marathoner in fiber optic telecommunication field"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "A link to all the information"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "https://drive.google.com/drive/folders/10pI-PIGftC6UVEngjg_cLlC8-X14fA9A?usp=drive_link"
+  }
+ ],
+ "extracted_at": "2026-10-22T03:44:38Z"
+}

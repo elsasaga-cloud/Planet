@@ -1,0 +1,19 @@
+{
+ "sha256_16": "655ee61b3b95290c",
+ "name": "16 Copper.png",
+ "ext": ".png",
+ "bytes": 388892,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "PNG",
+  "width": 474,
+  "height": 796,
+  "mode": "RGBA",
+  "thumb_bytes": 11806
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:41:20Z"
+}

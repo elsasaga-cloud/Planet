@@ -1,0 +1,19 @@
+{
+ "sha256_16": "4e18ccce1d20ae47",
+ "name": "MC1000 Logo.png",
+ "ext": ".png",
+ "bytes": 130189,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 976,
+  "height": 634,
+  "mode": "RGBA",
+  "thumb_bytes": 7383
+ },
+ "warnings": [],
+ "chars": 139,
+ "text": "Wi-Link\nFiber Optic Communications\nModel MC1000SC03\nFiber Optic Media Converter\n10/100/1000M Base-T To 1000M Base-LX SC Ethernet Conversion",
+ "extracted_at": "2026-10-22T03:40:44Z"
+}

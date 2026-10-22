@@ -1,0 +1,19 @@
+{
+ "sha256_16": "c51ead0e8f1862b3",
+ "name": "RGB.png",
+ "ext": ".png",
+ "bytes": 106729,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "PNG",
+  "width": 1232,
+  "height": 613,
+  "mode": "RGBA",
+  "thumb_bytes": 5748
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:51:21Z"
+}

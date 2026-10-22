@@ -1,0 +1,19 @@
+{
+ "sha256_16": "c33d8a3cac3f17f5",
+ "name": "Full copper.png",
+ "ext": ".png",
+ "bytes": 355430,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "PNG",
+  "width": 800,
+  "height": 800,
+  "mode": "RGB",
+  "thumb_bytes": 9792
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:42:46Z"
+}

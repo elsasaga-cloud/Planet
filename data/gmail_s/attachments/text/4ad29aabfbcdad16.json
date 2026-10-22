@@ -1,0 +1,135 @@
+{
+ "sha256_16": "4ad29aabfbcdad16",
+ "name": "DI order #1.xls",
+ "ext": ".xls",
+ "bytes": 8704,
+ "method": "xlrd",
+ "status": "ok",
+ "meta": {
+  "sheets": [
+   "Аркуш1"
+  ],
+  "rows_total": 13
+ },
+ "warnings": [],
+ "chars": 1015,
+ "text": "--- Sheet: Аркуш1 ---\n\tSaga name\tOur name\tDescription\tQ-ty\tPrice\tTotal\n\t\t\tRealtek\n\tSTI-050FE\tNSI-500F\t5*10/100M RJ45\t20\t19\t380\n\tSTI-054GP-BT\tNSI-500GP\t1*10/100/1000M RJ45+4*10/100/1000M PoE RJ45 3*PoE af/at+1*PoE af/at/bt, 180W budget\t2\t25\t50\n\tSTI-080FE\tNSI-800F\t8*10/100M RJ45\t10\t24\t240\n\tSTI-088GP-BT\tNSI-800GP\t8*10/100/1000M PoE RJ45 7*PoE af/at+1*PoE af/at/bt, 300W budget\t2\t41\t82\n\tSTI-240GE\tNSI-420G\t2*1000M SFP+4*10/100/1000M RJ45\t5\t31\t155\n\tSTI-280GE\tNSI-820G\t2*1000M SFP+8*10/100/1000M RJ45\t3\t46\t138\n\tSTI-288GP-BT\tNSI-820GP\t2*1000M SFP+8*10/100/1000M PoE RJ45 7*PoE af/at+1*PoE af/at/bt, 300W budget\t2\t53\t106\n\t\t\tMarvell\n\tSTI-240GM\tNSIM-420G\t2*100M/1000M SFP+4*10/100/1000M RJ45\nL2 Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input\t5\t60\t300\n\tSTI-280GM\tNSIM-820G\t2*100M/1000M SFP+8*10/100/1000M RJ45\nL2 Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input\t3\t70\t210\n\tSTI-288GP-BT\tNSIM-820GP\t2*100M/1000M SFP+8*10/100/1000M PoE\nL2 Managed, PoE af/at, 240W budget, Din Rail, Redundant DC44V~57V Input\t2\t80\t160",
+ "sheets": {
+  "Аркуш1": {
+   "rows": [
+    [
+     "",
+     "Saga name",
+     "Our name",
+     "Description",
+     "Q-ty",
+     "Price",
+     "Total"
+    ],
+    [
+     "",
+     "",
+     "",
+     "Realtek"
+    ],
+    [
+     "",
+     "STI-050FE",
+     "NSI-500F",
+     "5*10/100M RJ45",
+     "20",
+     "19",
+     "380"
+    ],
+    [
+     "",
+     "STI-054GP-BT",
+     "NSI-500GP",
+     "1*10/100/1000M RJ45+4*10/100/1000M PoE RJ45 3*PoE af/at+1*PoE af/at/bt, 180W budget",
+     "2",
+     "25",
+     "50"
+    ],
+    [
+     "",
+     "STI-080FE",
+     "NSI-800F",
+     "8*10/100M RJ45",
+     "10",
+     "24",
+     "240"
+    ],
+    [
+     "",
+     "STI-088GP-BT",
+     "NSI-800GP",
+     "8*10/100/1000M PoE RJ45 7*PoE af/at+1*PoE af/at/bt, 300W budget",
+     "2",
+     "41",
+     "82"
+    ],
+    [
+     "",
+     "STI-240GE",
+     "NSI-420G",
+     "2*1000M SFP+4*10/100/1000M RJ45",
+     "5",
+     "31",
+     "155"
+    ],
+    [
+     "",
+     "STI-280GE",
+     "NSI-820G",
+     "2*1000M SFP+8*10/100/1000M RJ45",
+     "3",
+     "46",
+     "138"
+    ],
+    [
+     "",
+     "STI-288GP-BT",
+     "NSI-820GP",
+     "2*1000M SFP+8*10/100/1000M PoE RJ45 7*PoE af/at+1*PoE af/at/bt, 300W budget",
+     "2",
+     "53",
+     "106"
+    ],
+    [
+     "",
+     "",
+     "",
+     "Marvell"
+    ],
+    [
+     "",
+     "STI-240GM",
+     "NSIM-420G",
+     "2*100M/1000M SFP+4*10/100/1000M RJ45\nL2 Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input",
+     "5",
+     "60",
+     "300"
+    ],
+    [
+     "",
+     "STI-280GM",
+     "NSIM-820G",
+     "2*100M/1000M SFP+8*10/100/1000M RJ45\nL2 Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input",
+     "3",
+     "70",
+     "210"
+    ],
+    [
+     "",
+     "STI-288GP-BT",
+     "NSIM-820GP",
+     "2*100M/1000M SFP+8*10/100/1000M PoE\nL2 Managed, PoE af/at, 240W budget, Din Rail, Redundant DC44V~57V Input",
+     "2",
+     "80",
+     "160"
+    ]
+   ]
+  }
+ },
+ "extracted_at": "2026-10-22T03:45:36Z"
+}

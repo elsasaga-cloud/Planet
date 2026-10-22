@@ -1,0 +1,24 @@
+{
+ "sha256_16": "a0ec6283baf954d8",
+ "name": "Zhengzhou Saga Telecom Co., Ltd..pdf",
+ "ext": ".pdf",
+ "bytes": 46820,
+ "method": "pdfplumber",
+ "status": "ok",
+ "meta": {
+  "pages": 1,
+  "title": "Journal",
+  "creator": "StarMoney Business 12",
+  "producer": "DynaPDF 4.0.87.250",
+  "creationdate": "D:20261015120629+02'00'",
+  "moddate": "D:20261015120629+02'00'",
+  "ocr_pages": 0
+ },
+ "warnings": [],
+ "chars": 547,
+ "text": "[p1]\nStarMoney Business 12 15.10.2026 12:06:28\nJournal\nzum Konto 023853500 - Kontokorrentkonto, 0023853500\nvom 15.10.2026 um 07:29:56 Uhr\nGesendet von: Administrator\nUnterschrift durch: NEUES BESTSIGN\nEmpfänger/Zahlungspflichtiger Ende-zu-Ende-Referenz Betrag Währung Fälligkeit\nKontonummer/IBAN Mandatsreferenz Rechnungsbetrag Währung\nBankleitzahl/BIC Mandatsstatus Auftrag/Textschlüssel\nVerwendungszweck\nZhengzhou Saga Telecom Co., Ltd. 5.944,50 EUR\n63003662406\nCHASHKHH SAÜ\nInvoice No STSC20261006015\nAnzahl: 1\nSumme: 5.944,50 EUR\nSeite 1 von 1",
+ "pages": [
+  "StarMoney Business 12 15.10.2026 12:06:28\nJournal\nzum Konto 023853500 - Kontokorrentkonto, 0023853500\nvom 15.10.2026 um 07:29:56 Uhr\nGesendet von: Administrator\nUnterschrift durch: NEUES BESTSIGN\nEmpfänger/Zahlungspflichtiger Ende-zu-Ende-Referenz Betrag Währung Fälligkeit\nKontonummer/IBAN Mandatsreferenz Rechnungsbetrag Währung\nBankleitzahl/BIC Mandatsstatus Auftrag/Textschlüssel\nVerwendungszweck\nZhengzhou Saga Telecom Co., Ltd. 5.944,50 EUR\n63003662406\nCHASHKHH SAÜ\nInvoice No STSC20261006015\nAnzahl: 1\nSumme: 5.944,50 EUR\nSeite 1 von 1"
+ ],
+ "extracted_at": "2026-10-22T03:40:35Z"
+}

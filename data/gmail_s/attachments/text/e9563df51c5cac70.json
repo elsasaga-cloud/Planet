@@ -1,0 +1,19 @@
+{
+ "sha256_16": "e9563df51c5cac70",
+ "name": "MC10G N.jpg",
+ "ext": ".jpg",
+ "bytes": 1657936,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 3648,
+  "height": 2736,
+  "mode": "RGB",
+  "thumb_bytes": 10942
+ },
+ "warnings": [],
+ "chars": 91,
+ "text": "Fiber Optic 10 Gigabits Media Converter\nEthernet 10G Base-TX To Ethernet 10G SFP Conversion",
+ "extracted_at": "2026-10-22T03:45:24Z"
+}

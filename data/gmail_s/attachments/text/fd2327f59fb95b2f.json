@@ -1,0 +1,19 @@
+{
+ "sha256_16": "fd2327f59fb95b2f",
+ "name": "2光8PoE管理.png",
+ "ext": ".png",
+ "bytes": 211645,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "PNG",
+  "width": 478,
+  "height": 715,
+  "mode": "RGBA",
+  "thumb_bytes": 10306
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:49:12Z"
+}

@@ -1,0 +1,19 @@
+{
+ "sha256_16": "fb236e1d55195511",
+ "name": "last order.png",
+ "ext": ".png",
+ "bytes": 501268,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "PNG",
+  "width": 1465,
+  "height": 478,
+  "mode": "RGBA",
+  "thumb_bytes": 5647
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:45:21Z"
+}

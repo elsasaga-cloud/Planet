@@ -1,0 +1,94 @@
+{
+ "sha256_16": "b5f82cfe05833e16",
+ "name": "Label Content.docx",
+ "ext": ".docx",
+ "bytes": 145811,
+ "method": "python-docx(段落+表格+文本框+页眉页脚)",
+ "status": "ok",
+ "meta": {
+  "title": "",
+  "author": "Simon",
+  "last_modified_by": "Simon",
+  "created": "2024-04-22T07:22:00+00:00",
+  "modified": "2024-09-05T01:54:22+00:00",
+  "paragraphs": 14,
+  "tables": 0,
+  "embedded_images": 2
+ },
+ "warnings": [],
+ "chars": 603,
+ "text": "Product: 10G MultiGig Switch\nModel: R ~Nets 10U-MG\nFeatures: 8*10G Ethernet Ports(10M/100M/1000M/2.5G/10G Self-adaptive)\nNon-PoE, With Fan\nInternal Power: AC100~240V, Web Managed\nIP Address:192.168.2.1\nUser Name/Password: Admin\nPlease send me the description if you have a different idea.\nS/N-202408300001\n0830 is the production date in our system\nWe can change it if you have a different idea.\nManufacturer: Resonant Networks (R ~Nets).\nThere is a space after Networks?\nDo we keep the “dot” at the end?\n[页眉页脚]\ns.sagatelecom@gmail.com\nSaga Telecom\nwww.sagatelecom.com.cn\nConnecting, Converting, Creating",
+ "blocks": [
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Product: 10G MultiGig Switch"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Model: R ~Nets 10U-MG"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Features: 8*10G Ethernet Ports(10M/100M/1000M/2.5G/10G Self-adaptive)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Non-PoE, With Fan"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Internal Power: AC100~240V, Web Managed"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "IP Address:192.168.2.1"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "User Name/Password: Admin"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please send me the description if you have a different idea."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "S/N-202408300001"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "0830 is the production date in our system"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We can change it if you have a different idea."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Manufacturer: Resonant Networks (R ~Nets)."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "There is a space after Networks?"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Do we keep the “dot” at the end?"
+  }
+ ],
+ "extracted_at": "2026-10-22T03:48:00Z"
+}

@@ -1,0 +1,349 @@
+{
+ "sha256_16": "0d6d5c3aa4b13733",
+ "name": "Industrial Switch.xlsx",
+ "ext": ".xlsx",
+ "bytes": 13745,
+ "method": "openpyxl(values)",
+ "status": "ok",
+ "meta": {
+  "sheets": [
+   "Switch 1",
+   "Switch 2"
+  ],
+  "embedded_images": 0,
+  "rows_total": 69
+ },
+ "warnings": [],
+ "chars": 3658,
+ "text": "--- Sheet: Switch 1 ---\nCategory\tSpecification\tBid Requirement (Allowed Values)\nGeneric Parameter\tType of Switch\tL2 Managed\nTechnical Specifications\tTechnology\tPoE+, PoE\n\tNumber of 10 G Copper Ports\tAny applicable numeric value\n\tNumber of 1G Copper Ports\t4.0 Or higher\n\tTime Synchronization IEEE1588v2\tYes, No\n\tSecurity Feature\t802.1x\n\tBasic Protocol\tDHCP Server / Client / Relay\n\tConsole Port\tYes, No\n\tMAC Address table(Thousand)\t8.0 Or higher\n\tFanless design\tYes, No\n\tAutomation Profiles : Profinet v2.33 & Modbus/TCP\tYes, No\n\tInstallation\tDIN rail\n\tDual power input for redundant power supplies ( from day one)\tSupported, Available, Not Available\n\tIPv6 Ready from day one\tNo\n\tPower Input Option\tAC-DC\n\tReverse Polarity Protection\tYes, No\n\tBasic Layer-2 Protocol\tPort-based VLAN\n\tNo of 1 G SFP Port (Uplink)\t2.0 Or higher\n\tHousing\tIP30-rated Metal\n\tAdditional Slot for No of Ports\tAny applicable numeric value\nEnvironment\tOperating Temperature Range (Degree C)\t-20 deg C to 75 deg C, -0 deg C-60 deg C (-4 deg F~l 58 deg F), -20 deg C-70 deg C (-4 deg F~l 58 deg F), -40 deg C-75 deg C (-4 deg F~l 58 deg F)\nAdditional Features\ton Site OEM Warranty\t1, 3, 5 Or higher\nCertification & Standards\tCertifications\tFreefall or drop, Shock, Vibration\nSpecification Parameter Name\n\tBid Requirement (Allowed Values)\nMANAGEMENT PROTOCOL\tTELNET, CLI, ICMP, SNMP\n\tRACK MOUNTING HARDWARE INCLUDING CONNECTING CABLES WITH INDIAN STANDARD PLUG TOPS.\nACCESSORIES\n\tTCP/IP, Supports minimum 4 K VLANs, Supports minimum 128 IP interfaces,802.1s and 802.1w, IPv4 IGMP v1, v2 and v3,IPV4 Static Routing.MAC Binding & Authentication, SNMP, ARP, DHCP, DNS,Port Trunking,Logs\nNetwork Features\nSFP MODULES\tSHOULD BE POPULATED WITH MIN 2 NOUMBERS OF SFP LC LX\n\tNON-BLOCKING SWITCHING BACKPLANEOF 10GbpS OR MODE AND FORWARDING RATE OF 8MBPS OR MORE\nSWITCHING FABRIC SPEED\n--- Sheet: Switch 2 ---\nCategory\tSpecification\tBid Requirement (Allowed Values)\nGeneric Parameter\tType of Switch\tL2 Managed\nTechnical Specifications\tTechnology\tPoE+, PoE\n\tNumber of 10 G Copper Ports\tAny applicable numeric value\n\tNumber of 1G Copper Ports\t8.0 Or higher\n\tTime Synchronization IEEE1588v2\tYes, No\n\tSecurity Feature\t802.1x\n\tBasic Protocol\tIGMP/MLD Snooping\n\tConsole Port\tYes, No\n\tMAC Address table(Thousand)\t8000.0 Or higher\n\tFanless design\tYes, No\n\tAutomation Profiles : Profinet v2.33 & Modbus/TCP\tYes, No\n\tPoE Power Budget ( Watt )\t240.0 Or higher\n\tInstallation\tDIN rail\n\tDual power input for redundant power supplies ( from day one)\tSupported, Available, Not Available\n\tIPv6 Ready from day one\tYes\n\tPower Input Option\tAC, DC, AC-AC, AC-DC, DC-DC\n\tReverse Polarity Protection\tYes, No\n\tBasic Layer-2 Protocol\tIEEE 802.1 Q\n\tNo of 1 G SFP Port (Uplink)\t4.0 Or higher\n\tHousing\tIP40-rated Metal\n\tAdditional Slot for No of Ports\tAny applicable numeric value\nEnvironment\tOperating Temperature Range (Degree C)\t-40 deg C-75 deg C (-4 deg F~l 58 deg F)\nAdditional Features\ton Site OEM Warranty\t5 Or higher\nCertification & Standards\tCertifications\tUL, EMC, RoHS, Freefall or drop, Shock, Vibration, NEMA-TS2\nSpecification Parameter Name\n\tBid Requirement (Allowed Values)\nManagement protocol\tTelnet, CLI, ICMP, SNMP\n\tRack mounting hardware including connecting cables with Indian Standard plug tops.\nAccessories\nSFP Modules\tShould be populated with min 2 Nos of SFP LC LX\n\tNon-blocking switching backplane of 10 Gbps or more and forwarding rate of 8 Mbps or more.\nSwitching Fabric Speed\n\tTCP/IP, Supports minimum 4 K VLANs, Supports minimum 128 IP interfaces,802.1s and 802.1w, IPv4 IGMP v1, v2 and v3,IPV4 Static Routing.MAC Binding & authentication, SNMP, ARP, DHCP, DNS,Port Trunking,Logs\nNetwork Features",
+ "sheets": {
+  "Switch 1": {
+   "state": "visible",
+   "rows": [
+    [
+     "Category",
+     "Specification",
+     "Bid Requirement (Allowed Values)"
+    ],
+    [
+     "Generic Parameter",
+     "Type of Switch",
+     "L2 Managed"
+    ],
+    [
+     "Technical Specifications",
+     "Technology",
+     "PoE+, PoE"
+    ],
+    [
+     "",
+     "Number of 10 G Copper Ports",
+     "Any applicable numeric value"
+    ],
+    [
+     "",
+     "Number of 1G Copper Ports",
+     "4.0 Or higher"
+    ],
+    [
+     "",
+     "Time Synchronization IEEE1588v2",
+     "Yes, No"
+    ],
+    [
+     "",
+     "Security Feature",
+     "802.1x"
+    ],
+    [
+     "",
+     "Basic Protocol",
+     "DHCP Server / Client / Relay"
+    ],
+    [
+     "",
+     "Console Port",
+     "Yes, No"
+    ],
+    [
+     "",
+     "MAC Address table(Thousand)",
+     "8.0 Or higher"
+    ],
+    [
+     "",
+     "Fanless design",
+     "Yes, No"
+    ],
+    [
+     "",
+     "Automation Profiles : Profinet v2.33 & Modbus/TCP",
+     "Yes, No"
+    ],
+    [
+     "",
+     "Installation",
+     "DIN rail"
+    ],
+    [
+     "",
+     "Dual power input for redundant power supplies ( from day one)",
+     "Supported, Available, Not Available"
+    ],
+    [
+     "",
+     "IPv6 Ready from day one",
+     "No"
+    ],
+    [
+     "",
+     "Power Input Option",
+     "AC-DC"
+    ],
+    [
+     "",
+     "Reverse Polarity Protection",
+     "Yes, No"
+    ],
+    [
+     "",
+     "Basic Layer-2 Protocol",
+     "Port-based VLAN"
+    ],
+    [
+     "",
+     "No of 1 G SFP Port (Uplink)",
+     "2.0 Or higher"
+    ],
+    [
+     "",
+     "Housing",
+     "IP30-rated Metal"
+    ],
+    [
+     "",
+     "Additional Slot for No of Ports",
+     "Any applicable numeric value"
+    ],
+    [
+     "Environment",
+     "Operating Temperature Range (Degree C)",
+     "-20 deg C to 75 deg C, -0 deg C-60 deg C (-4 deg F~l 58 deg F), -20 deg C-70 deg C (-4 deg F~l 58 deg F), -40 deg C-75 deg C (-4 deg F~l 58 deg F)"
+    ],
+    [
+     "Additional Features",
+     "on Site OEM Warranty",
+     "1, 3, 5 Or higher"
+    ],
+    [
+     "Certification & Standards",
+     "Certifications",
+     "Freefall or drop, Shock, Vibration"
+    ],
+    [
+     "Specification Parameter Name"
+    ],
+    [
+     "",
+     "Bid Requirement (Allowed Values)"
+    ],
+    [
+     "MANAGEMENT PROTOCOL",
+     "TELNET, CLI, ICMP, SNMP"
+    ],
+    [
+     "",
+     "RACK MOUNTING HARDWARE INCLUDING CONNECTING CABLES WITH INDIAN STANDARD PLUG TOPS."
+    ],
+    [
+     "ACCESSORIES"
+    ],
+    [
+     "",
+     "TCP/IP, Supports minimum 4 K VLANs, Supports minimum 128 IP interfaces,802.1s and 802.1w, IPv4 IGMP v1, v2 and v3,IPV4 Static Routing.MAC Binding & Authentication, SNMP, ARP, DHCP, DNS,Port Trunking,Logs"
+    ],
+    [
+     "Network Features"
+    ],
+    [
+     "SFP MODULES",
+     "SHOULD BE POPULATED WITH MIN 2 NOUMBERS OF SFP LC LX"
+    ],
+    [
+     "",
+     "NON-BLOCKING SWITCHING BACKPLANEOF 10GbpS OR MODE AND FORWARDING RATE OF 8MBPS OR MORE"
+    ],
+    [
+     "SWITCHING FABRIC SPEED"
+    ]
+   ]
+  },
+  "Switch 2": {
+   "state": "visible",
+   "rows": [
+    [
+     "Category",
+     "Specification",
+     "Bid Requirement (Allowed Values)"
+    ],
+    [
+     "Generic Parameter",
+     "Type of Switch",
+     "L2 Managed"
+    ],
+    [
+     "Technical Specifications",
+     "Technology",
+     "PoE+, PoE"
+    ],
+    [
+     "",
+     "Number of 10 G Copper Ports",
+     "Any applicable numeric value"
+    ],
+    [
+     "",
+     "Number of 1G Copper Ports",
+     "8.0 Or higher"
+    ],
+    [
+     "",
+     "Time Synchronization IEEE1588v2",
+     "Yes, No"
+    ],
+    [
+     "",
+     "Security Feature",
+     "802.1x"
+    ],
+    [
+     "",
+     "Basic Protocol",
+     "IGMP/MLD Snooping"
+    ],
+    [
+     "",
+     "Console Port",
+     "Yes, No"
+    ],
+    [
+     "",
+     "MAC Address table(Thousand)",
+     "8000.0 Or higher"
+    ],
+    [
+     "",
+     "Fanless design",
+     "Yes, No"
+    ],
+    [
+     "",
+     "Automation Profiles : Profinet v2.33 & Modbus/TCP",
+     "Yes, No"
+    ],
+    [
+     "",
+     "PoE Power Budget ( Watt )",
+     "240.0 Or higher"
+    ],
+    [
+     "",
+     "Installation",
+     "DIN rail"
+    ],
+    [
+     "",
+     "Dual power input for redundant power supplies ( from day one)",
+     "Supported, Available, Not Available"
+    ],
+    [
+     "",
+     "IPv6 Ready from day one",
+     "Yes"
+    ],
+    [
+     "",
+     "Power Input Option",
+     "AC, DC, AC-AC, AC-DC, DC-DC"
+    ],
+    [
+     "",
+     "Reverse Polarity Protection",
+     "Yes, No"
+    ],
+    [
+     "",
+     "Basic Layer-2 Protocol",
+     "IEEE 802.1 Q"
+    ],
+    [
+     "",
+     "No of 1 G SFP Port (Uplink)",
+     "4.0 Or higher"
+    ],
+    [
+     "",
+     "Housing",
+     "IP40-rated Metal"
+    ],
+    [
+     "",
+     "Additional Slot for No of Ports",
+     "Any applicable numeric value"
+    ],
+    [
+     "Environment",
+     "Operating Temperature Range (Degree C)",
+     "-40 deg C-75 deg C (-4 deg F~l 58 deg F)"
+    ],
+    [
+     "Additional Features",
+     "on Site OEM Warranty",
+     "5 Or higher"
+    ],
+    [
+     "Certification & Standards",
+     "Certifications",
+     "UL, EMC, RoHS, Freefall or drop, Shock, Vibration, NEMA-TS2"
+    ],
+    [
+     "Specification Parameter Name"
+    ],
+    [
+     "",
+     "Bid Requirement (Allowed Values)"
+    ],
+    [
+     "Management protocol",
+     "Telnet, CLI, ICMP, SNMP"
+    ],
+    [
+     "",
+     "Rack mounting hardware including connecting cables with Indian Standard plug tops."
+    ],
+    [
+     "Accessories"
+    ],
+    [
+     "SFP Modules",
+     "Should be populated with min 2 Nos of SFP LC LX"
+    ],
+    [
+     "",
+     "Non-blocking switching backplane of 10 Gbps or more and forwarding rate of 8 Mbps or more."
+    ],
+    [
+     "Switching Fabric Speed"
+    ],
+    [
+     "",
+     "TCP/IP, Supports minimum 4 K VLANs, Supports minimum 128 IP interfaces,802.1s and 802.1w, IPv4 IGMP v1, v2 and v3,IPV4 Static Routing.MAC Binding & authentication, SNMP, ARP, DHCP, DNS,Port Trunking,Logs"
+    ],
+    [
+     "Network Features"
+    ]
+   ]
+  }
+ },
+ "extracted_at": "2026-10-22T03:47:29Z"
+}

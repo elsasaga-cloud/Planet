@@ -1,0 +1,19 @@
+{
+ "sha256_16": "07b3cf3045dfcc8c",
+ "name": "24 port passive PoE.png",
+ "ext": ".png",
+ "bytes": 584062,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1751,
+  "height": 387,
+  "mode": "RGBA",
+  "thumb_bytes": 4849
+ },
+ "warnings": [],
+ "chars": 36,
+ "text": "Gigabit PoE Switch\n24GE PoE+2GE+2SFP",
+ "extracted_at": "2026-10-22T03:45:25Z"
+}

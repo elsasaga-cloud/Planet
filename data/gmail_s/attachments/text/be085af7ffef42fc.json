@@ -1,0 +1,19 @@
+{
+ "sha256_16": "be085af7ffef42fc",
+ "name": "label.jpg",
+ "ext": ".jpg",
+ "bytes": 2230725,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 2344,
+  "height": 1486,
+  "mode": "RGB",
+  "thumb_bytes": 12677
+ },
+ "warnings": [],
+ "chars": 169,
+ "text": "eee\nRCH RETESET\nEthernet Media Converter\nModel: MC1000SC03\nPorts: 1*10/100/1000M RJ45 + 1*1000Base-X SC20\nPower Input: DC5V\nCC fe\nOL XQ wx\n: 202609040001\ntiles mmc 和\nTFT",
+ "extracted_at": "2026-10-22T03:40:59Z"
+}

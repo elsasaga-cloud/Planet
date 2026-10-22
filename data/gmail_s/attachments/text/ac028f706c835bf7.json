@@ -1,0 +1,23 @@
+{
+ "sha256_16": "ac028f706c835bf7",
+ "name": "STI-054GP-BT (NSI-500GP).pdf",
+ "ext": ".pdf",
+ "bytes": 308879,
+ "method": "pdfplumber+OCR(1p)",
+ "status": "ok",
+ "meta": {
+  "pages": 1,
+  "title": "Industrial PoE_Realtek Series.pdf",
+  "producer": "Microsoft: Print To PDF",
+  "creationdate": "D:20241120151319+02'00'",
+  "moddate": "D:20241120151319+02'00'",
+  "ocr_pages": 1
+ },
+ "warnings": [],
+ "chars": 1280,
+ "text": "[p1]\n2025/01\nSTI-054GP-BT\ns.sagatelecom@gmail.com\nSaga Telecom\nwww.sagatelecom.com.cn\nModel\nSTI-054GP-BT\nProduct mame\n5 port 10/100/1000Mbps Industrial PoE Switch\n4*10/100/1000M RJ45 port\nFixed Port 1*10/100/1000M Uplink RJ45 port\nPoE Ports 1 port supports TEEE802.3af/ ‘at/poe + +/bt, with a maximum power of 90W per port\n2-4 ports support IEEE802.3af/at, with a maximum single port power of 30W\nPoE Dog Support\n. af/at: 12+ 36-\nPoE: Pin aflat/poet+t/bt: 12+ 45+ 36- 78-\nBandwidth 10Gbps\nPacket Forwarding 7.44Mpps\nMAC 2K\nBuffer 2.5M\nLED Indicator\nPW: power indicator (green)\nUplink port: green 100M + orange 1000M\nPoE port: orange PoE indicator, green grid connection indicator\nV1: Main power indicator (green)\n‘V2: Slave power indicator (green)\nThree groups of independent power input\nPower PoE: DC37-57V\nOperating Temperature -40°C~+75°C\nHumidity 10%~90% RH No condensation\nStorage Temperature -40°C~+85°C\nHumidity 95% RH No condensation\nDimension 105*90*36mm\nL*W*H Packing Box: 200*130*40mm\nN.W/G.W(Kg) 0.5Kg/0.6Kg\nLightning 6KV 8/20us, 8KV ESD electrostatic protection\nProtection level IP40\nInstallation Desktop, Wall, Rack mountable(with mounting hangers)\nCertificate\nCE-EMC EN55032; CE-LVD EN62368\nFCC Part 15Class B; RoHS\nWarranty\n3 Years\nConnecting, Converting, Creating",
+ "pages": [
+  "2025/01\nSTI-054GP-BT\ns.sagatelecom@gmail.com\nSaga Telecom\nwww.sagatelecom.com.cn\nModel\nSTI-054GP-BT\nProduct mame\n5 port 10/100/1000Mbps Industrial PoE Switch\n4*10/100/1000M RJ45 port\nFixed Port 1*10/100/1000M Uplink RJ45 port\nPoE Ports 1 port supports TEEE802.3af/ ‘at/poe + +/bt, with a maximum power of 90W per port\n2-4 ports support IEEE802.3af/at, with a maximum single port power of 30W\nPoE Dog Support\n. af/at: 12+ 36-\nPoE: Pin aflat/poet+t/bt: 12+ 45+ 36- 78-\nBandwidth 10Gbps\nPacket Forwarding 7.44Mpps\nMAC 2K\nBuffer 2.5M\nLED Indicator\nPW: power indicator (green)\nUplink port: green 100M + orange 1000M\nPoE port: orange PoE indicator, green grid connection indicator\nV1: Main power indicator (green)\n‘V2: Slave power indicator (green)\nThree groups of independent power input\nPower PoE: DC37-57V\nOperating Temperature -40°C~+75°C\nHumidity 10%~90% RH No condensation\nStorage Temperature -40°C~+85°C\nHumidity 95% RH No condensation\nDimension 105*90*36mm\nL*W*H Packing Box: 200*130*40mm\nN.W/G.W(Kg) 0.5Kg/0.6Kg\nLightning 6KV 8/20us, 8KV ESD electrostatic protection\nProtection level IP40\nInstallation Desktop, Wall, Rack mountable(with mounting hangers)\nCertificate\nCE-EMC EN55032; CE-LVD EN62368\nFCC Part 15Class B; RoHS\nWarranty\n3 Years\nConnecting, Converting, Creating"
+ ],
+ "extracted_at": "2026-10-22T03:45:57Z"
+}

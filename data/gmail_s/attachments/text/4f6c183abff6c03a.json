@@ -1,0 +1,327 @@
+{
+ "sha256_16": "4f6c183abff6c03a",
+ "name": "STC-110GE.docx",
+ "ext": ".docx",
+ "bytes": 152814,
+ "method": "python-docx(段落+表格+文本框+页眉页脚)",
+ "status": "ok",
+ "meta": {
+  "title": "",
+  "author": "Simon",
+  "last_modified_by": "Simon",
+  "created": "2025-09-18T11:49:00+00:00",
+  "modified": "2026-09-02T03:03:24+00:00",
+  "paragraphs": 42,
+  "tables": 1,
+  "embedded_images": 7
+ },
+ "warnings": [],
+ "chars": 3609,
+ "text": "Remark\nPlease let us know if you need to check the PCBs\nIntroduction\nIt provides media conversion between 10/100/1000Base-T and 1000Base-SX/LX interfaces for various distances(0.5/2/20/40/60/80/100km)and can be widely used in FTTX projects\nIt supports SC/ST/FC/SFP fiber optic ports.\n(Optional)Enhanced DIP functions as below make available flexible usage\nLFP\nNetwork storm suppression\nForced 100M fiber speed\nForced 100M network speed\nKey Features\n1*10/100/1000MBASE-T RJ45 port, 1*1000MBASE-X SC/ST/FC/SFP optical port\nIEEE802.3,  IEEE802.3u, IEEE802.3z and IEEE802.3ab standard compliant\nSupport auto MDI/MDI-X function and half/full-duplex of FX\nSupport 1M Large buffer and 10Kbytes Jumbo frame\nFan-less design, support plug and play installation\nSupport watchdog function, which can restart the equipment automatically when it is frozen\nFull- positioned LEDs to indicate power and network status\nTransmission distance 2KM～100KM optional\n4KV surge protection; ESD: 8KV/contact, 15KV/air protection\nSpecification\nProduct Name\t2 port 1000M Ethernet Media Converter\nPort\t1*10/100/1000M Base-T RJ45 port / 1*1000M Base-X SC/ST/FC/SFP optical port\nNetwork Protocol\tIEEE802.3 10Base-T Ethernet / IEEE802.3u 100Base-TX Fast Ethernet / IEEE802.3ab 1000Base-T / IEEE802.3z 1000Base-SX Gigabit Ethernet\nIEEE 802.3x full-duplex flow control\nNetwork Medium\t10Base-T: Cat3, 4, 5 or above UTP(≤100m) / 100Base-TX: Cat5 or above UTP(≤100m) / 1000Base-TX: Cat5 or above UTP(≤100m)\nFiber Option\t50/125μm or 62.5/125μm multi-mode fiber optic cable, up to 2km / 9/125μm single-mode fiber optic cable, up to 100km\nSwitching Capacity\t14G\nThroughput\t10.416M\nPacket Buffer\t1M\nMAC Address\t8K\nJumbo Frame\t10Kbytes\nTransfer Mode\tStore and forward, forwarding delay<5us\nMDX/MIDX\tSupport\nWatchdog\tSupport\nMTBF\t100,000 hours\nThermal Method\tFan-less, natural heat dissipation\nInstallation\tDesktop, wall mount, 14-slot chassis mount\nCertification\tCE/FCC/RoHS/UKCA\nWorking Environment\tWorking Temperature: -20℃~70℃ / Storage Temperature: -40℃~85℃ / Relative Humidity: 5%~95%, non-condensing\nInput Voltage\tDC5-12V, DC Jack\nTotal Power Consumption\tFull loading≤1.6W\nIndustry Standard\tSurge protection of power: IEC 61000-4-5  Level 4(4KV)(8/20us)\nSurge protection of Ethernet ports: IEC 61000-4-5  Level 3(2KV)(10/700us) / ESD: IEC 61000-4-2  Level 4(8K/15K) / Free fall: 0.5-meter\nLED Indicator\tPWR: Power indicator / FDX: Electrical port operation mode indicator / Link/Act: Link state indicator / Copper 100M Link: Electrical port speed rate indicator / Copper 1000M Link: Electrical port speed rate indicator / Fiber Link/Act: Fiber port link state indicator\nMechanical Drawing\nRemark\nPlease contact us if the source file is needed\nPacking Information\n1pc media converter(neutral device)\n1pc power adapter(standards vary across countries)\n1pc user manual\nPlease know that there is NOT a warranty card in the packing box\nA “Warranty Certificate” will be issued to indicate the order information and warranty coverage\nShipping box information(Below information is approximately accurate)\nProduct size: 95*71*27mm\nInner box size: 230*125*54.6mm\nProduct weight: 0.2Kg\nPacking weight: 0.35Kg\nMaster box size: 560*475*275mm\nPacking quantity: 40Pcs\nPacking weight: 15.4Kg\nRemark\nAccessories(Optical module, network cable, patchcord etc.)are NOT included in the packing box\nPlease prepare it by yourself or purchase a whole set from us\nPower adapter is included in BOTH the packing box AND unit pricing\n[页眉页脚]\nSaga Telecom\nwww.sagatele.com\nAn Engineering & Supply-Chain-First Telecom Partner\nBuilt to Last, Continuous Supply, Evolving Together",
+ "blocks": [
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Remark"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please let us know if you need to check the PCBs"
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "Introduction"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It provides media conversion between 10/100/1000Base-T and 1000Base-SX/LX interfaces for various distances(0.5/2/20/40/60/80/100km)and can be widely used in FTTX projects"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It supports SC/ST/FC/SFP fiber optic ports."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "(Optional)Enhanced DIP functions as below make available flexible usage"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "LFP"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Network storm suppression"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Forced 100M fiber speed"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Forced 100M network speed"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Key Features"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1*10/100/1000MBASE-T RJ45 port, 1*1000MBASE-X SC/ST/FC/SFP optical port"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "IEEE802.3,  IEEE802.3u, IEEE802.3z and IEEE802.3ab standard compliant"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Support auto MDI/MDI-X function and half/full-duplex of FX"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Support 1M Large buffer and 10Kbytes Jumbo frame"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Fan-less design, support plug and play installation"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Support watchdog function, which can restart the equipment automatically when it is frozen"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Full- positioned LEDs to indicate power and network status"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Transmission distance 2KM～100KM optional"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "4KV surge protection; ESD: 8KV/contact, 15KV/air protection"
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "Specification"
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "Product Name",
+     "2 port 1000M Ethernet Media Converter"
+    ],
+    [
+     "Port",
+     "1*10/100/1000M Base-T RJ45 port / 1*1000M Base-X SC/ST/FC/SFP optical port"
+    ],
+    [
+     "Network Protocol",
+     "IEEE802.3 10Base-T Ethernet / IEEE802.3u 100Base-TX Fast Ethernet / IEEE802.3ab 1000Base-T / IEEE802.3z 1000Base-SX Gigabit Ethernet\nIEEE 802.3x full-duplex flow control"
+    ],
+    [
+     "Network Medium",
+     "10Base-T: Cat3, 4, 5 or above UTP(≤100m) / 100Base-TX: Cat5 or above UTP(≤100m) / 1000Base-TX: Cat5 or above UTP(≤100m)"
+    ],
+    [
+     "Fiber Option",
+     "50/125μm or 62.5/125μm multi-mode fiber optic cable, up to 2km / 9/125μm single-mode fiber optic cable, up to 100km"
+    ],
+    [
+     "Switching Capacity",
+     "14G"
+    ],
+    [
+     "Throughput",
+     "10.416M"
+    ],
+    [
+     "Packet Buffer",
+     "1M"
+    ],
+    [
+     "MAC Address",
+     "8K"
+    ],
+    [
+     "Jumbo Frame",
+     "10Kbytes"
+    ],
+    [
+     "Transfer Mode",
+     "Store and forward, forwarding delay<5us"
+    ],
+    [
+     "MDX/MIDX",
+     "Support"
+    ],
+    [
+     "Watchdog",
+     "Support"
+    ],
+    [
+     "MTBF",
+     "100,000 hours"
+    ],
+    [
+     "Thermal Method",
+     "Fan-less, natural heat dissipation"
+    ],
+    [
+     "Installation",
+     "Desktop, wall mount, 14-slot chassis mount"
+    ],
+    [
+     "Certification",
+     "CE/FCC/RoHS/UKCA"
+    ],
+    [
+     "Working Environment",
+     "Working Temperature: -20℃~70℃ / Storage Temperature: -40℃~85℃ / Relative Humidity: 5%~95%, non-condensing"
+    ],
+    [
+     "Input Voltage",
+     "DC5-12V, DC Jack"
+    ],
+    [
+     "Total Power Consumption",
+     "Full loading≤1.6W"
+    ],
+    [
+     "Industry Standard",
+     "Surge protection of power: IEC 61000-4-5  Level 4(4KV)(8/20us)\nSurge protection of Ethernet ports: IEC 61000-4-5  Level 3(2KV)(10/700us) / ESD: IEC 61000-4-2  Level 4(8K/15K) / Free fall: 0.5-meter"
+    ],
+    [
+     "LED Indicator",
+     "PWR: Power indicator / FDX: Electrical port operation mode indicator / Link/Act: Link state indicator / Copper 100M Link: Electrical port speed rate indicator / Copper 1000M Link: Electrical port speed rate indicator / Fiber Link/Act: Fiber port link state indicator"
+    ]
+   ]
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "Mechanical Drawing"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Remark"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please contact us if the source file is needed"
+  },
+  {
+   "t": "h",
+   "s": "Heading 1",
+   "text": "Packing Information"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1pc media converter(neutral device)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1pc power adapter(standards vary across countries)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1pc user manual"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please know that there is NOT a warranty card in the packing box"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "A “Warranty Certificate” will be issued to indicate the order information and warranty coverage"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Shipping box information(Below information is approximately accurate)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Product size: 95*71*27mm"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Inner box size: 230*125*54.6mm"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Product weight: 0.2Kg"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Packing weight: 0.35Kg"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Master box size: 560*475*275mm"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Packing quantity: 40Pcs"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Packing weight: 15.4Kg"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Remark"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Accessories(Optical module, network cable, patchcord etc.)are NOT included in the packing box"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please prepare it by yourself or purchase a whole set from us"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Power adapter is included in BOTH the packing box AND unit pricing"
+  }
+ ],
+ "extracted_at": "2026-10-22T03:41:01Z"
+}

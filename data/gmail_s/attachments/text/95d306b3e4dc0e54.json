@@ -1,0 +1,19 @@
+{
+ "sha256_16": "95d306b3e4dc0e54",
+ "name": "product label confirmation.png",
+ "ext": ".png",
+ "bytes": 144883,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 930,
+  "height": 548,
+  "mode": "RGBA",
+  "thumb_bytes": 16526
+ },
+ "warnings": [],
+ "chars": 224,
+ "text": "ANGORA NETWORKS\nVERGE SERIES ETHERNET SWITCHES\nwobEKANw2iiepe>\nPOWE Sow) This is for 24-port\n-0V Whats it for 48-port?\nINPUT 400W or 440W?\n115%\nan NETWORKS\nIMM! «= CE FE\nKWN241023123008AE\nMAC ADDRESS(98:06:37:A0:57:00 Sots i",
+ "extracted_at": "2026-10-22T03:43:49Z"
+}

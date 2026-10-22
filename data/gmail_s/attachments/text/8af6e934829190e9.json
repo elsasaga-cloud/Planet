@@ -1,0 +1,16 @@
+{
+ "sha256_16": "8af6e934829190e9",
+ "name": "PC0012_Saga.7z",
+ "ext": ".7z",
+ "bytes": 9269369,
+ "method": "archive-extract",
+ "status": "meta",
+ "meta": {
+  "members": 3,
+  "extracted": true
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:43:31Z"
+}

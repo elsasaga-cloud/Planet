@@ -1,0 +1,20 @@
+{
+ "sha256_16": "034ff650d14768c1",
+ "name": "Dual Input.jpg",
+ "ext": ".jpg",
+ "bytes": 4037250,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 4096,
+  "height": 3072,
+  "mode": "RGB",
+  "software": "FOA-AL00 4.0.0.113(C00E112R4P2)",
+  "thumb_bytes": 8522
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:44:19Z"
+}

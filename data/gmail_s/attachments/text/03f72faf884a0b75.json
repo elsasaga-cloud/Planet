@@ -1,0 +1,19 @@
+{
+ "sha256_16": "03f72faf884a0b75",
+ "name": "DC63D14D59FC445282B4360437E8EFF8.png",
+ "ext": ".png",
+ "bytes": 276672,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "PNG",
+  "width": 711,
+  "height": 250,
+  "mode": "RGBA",
+  "thumb_bytes": 9744
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:48:30Z"
+}

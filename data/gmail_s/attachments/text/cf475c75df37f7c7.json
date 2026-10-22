@@ -1,0 +1,19 @@
+{
+ "sha256_16": "cf475c75df37f7c7",
+ "name": "2B modified.png",
+ "ext": ".png",
+ "bytes": 5223970,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "PNG",
+  "width": 1678,
+  "height": 2919,
+  "mode": "RGBA",
+  "thumb_bytes": 12189
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:44:03Z"
+}

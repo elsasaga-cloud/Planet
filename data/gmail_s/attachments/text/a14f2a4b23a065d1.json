@@ -1,0 +1,19 @@
+{
+ "sha256_16": "a14f2a4b23a065d1",
+ "name": "Regular Testing.jpg",
+ "ext": ".jpg",
+ "bytes": 7720395,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 4032,
+  "height": 3024,
+  "mode": "RGB",
+  "thumb_bytes": 15266
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:42:19Z"
+}

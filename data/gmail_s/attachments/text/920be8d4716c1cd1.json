@@ -1,0 +1,22 @@
+{
+ "sha256_16": "920be8d4716c1cd1",
+ "name": "outside.jpg",
+ "ext": ".jpg",
+ "bytes": 6567322,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "MPO",
+  "width": 5712,
+  "height": 4284,
+  "mode": "RGB",
+  "datetime": "2025:02:12 16:07:05",
+  "make": "Apple",
+  "software": "17.5.1",
+  "thumb_bytes": 9107
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:44:14Z"
+}

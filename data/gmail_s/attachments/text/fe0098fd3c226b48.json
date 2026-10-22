@@ -1,0 +1,19 @@
+{
+ "sha256_16": "fe0098fd3c226b48",
+ "name": "STC-424DGGPM-280W-cdr.pdf",
+ "ext": ".pdf",
+ "bytes": 87521,
+ "method": "pdfplumber",
+ "status": "ok",
+ "meta": {
+  "pages": 1,
+  "ocr_pages": 0
+ },
+ "warnings": [],
+ "chars": 69,
+ "text": "[p1]\nRESET(cid:10) ANW-2124-PG(cid:10)\nCONSOLE(cid:10)\n115200(cid:10)",
+ "pages": [
+  "RESET(cid:10) ANW-2124-PG(cid:10)\nCONSOLE(cid:10)\n115200(cid:10)"
+ ],
+ "extracted_at": "2026-10-22T03:46:39Z"
+}

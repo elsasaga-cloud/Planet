@@ -1,0 +1,19 @@
+{
+ "sha256_16": "48ae9f17b7dec8b6",
+ "name": "image001.png",
+ "ext": ".png",
+ "bytes": 458196,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 840,
+  "height": 851,
+  "mode": "RGBA",
+  "thumb_bytes": 14326
+ },
+ "warnings": [],
+ "chars": 83,
+ "text": "& * we a\n本 Motion Night Cloud\nHD 1080P Audio detected vision _ storage\nOQ m\nicam365",
+ "extracted_at": "2026-10-22T03:41:46Z"
+}

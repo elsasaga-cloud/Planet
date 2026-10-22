@@ -1,0 +1,22 @@
+{
+ "sha256_16": "295ade16061bab0c",
+ "name": "Gaziantep_HighLevel_Network.pdf",
+ "ext": ".pdf",
+ "bytes": 103603,
+ "method": "pdfplumber",
+ "status": "ok",
+ "meta": {
+  "pages": 2,
+  "creationdate": "D:20251102104003+00'00'",
+  "moddate": "D:20251102104003+00'00'",
+  "ocr_pages": 0
+ },
+ "warnings": [],
+ "chars": 1459,
+ "text": "[p1]\nVLAN 340 VLAN 340\nVLAN 340\nVLAN 340 VLAN 340 VLAN 340 VLAN 340\nVLAN 350\nVLAN 340 VLAN 340\nVLAN 330\nVLAN 350 VLAN 350\nROUNDABOUT 2 CL\nO2\nNF\nL\nNBI\nVLAN 330 O C F 2 C E R E L2 RADIOLINK VLAN 330\nNBI TT TRUNK\nROUNDABOUT 1 C E\nN\nT R\nE\nN\nOI\nN U\nR\nCONNECTION ROUNDABOUT 3\nTR K\nOIU\nNN\nK\nSERVICE PROVIDER\nMPLS NETWORK\nSURVEILLANCE\nCENTER\n\n[p2]\nEverything is layer 2, gateways are in the\nEach site has multiple cameras located in a surveillance center.\nseparate VLAN 340\nVLAN 340 VLAN 340 So, we can see all cameras mac addresses,\nEach Site has one Roundabout Control Server no matter which site it is, on all switches.\nlocated in a separate VLAN 350 VLASNa 3m40e for roundabout control servers\nVLAN 340 VLAN 340 VLAN 340 VLAN 340\nVLAN 350\nSwitch management IP is on VLAN 330\nVLAN 340 VLAN 340\nVLAN 330\nVLAN 350 VLAN 350\nEach site is connected to a central ROUNDABOUT 2 CL\nO2\nNF\nsurveillance platform which re\nL\nside in another NBI\nVlLoAcNa 3t3i0on, miles away O C F 2 C E R E L2 RADIOLINK VLAN 330\nNBI TT TRUNK\nROUN S D o A m BO e U s T i 1 tes are connected to C E N c T R Eenter via fiber N OI N U R CONNECTION ROUNDABOUT 3\nconnection, plugged directlyT toR our switch K\nOIU There are some site, that fiber\nfiber port NN\nK connection is not possible. In these\nsites there are radiolink connections.\nSERVICE PROVIDER\nThere is a device that is connected to\nMPLS NETWORK service provider over radionlink and to\nour switch via Rj45 ethernet port\nSURVEILLANCE\nCENTER",
+ "pages": [
+  "VLAN 340 VLAN 340\nVLAN 340\nVLAN 340 VLAN 340 VLAN 340 VLAN 340\nVLAN 350\nVLAN 340 VLAN 340\nVLAN 330\nVLAN 350 VLAN 350\nROUNDABOUT 2 CL\nO2\nNF\nL\nNBI\nVLAN 330 O C F 2 C E R E L2 RADIOLINK VLAN 330\nNBI TT TRUNK\nROUNDABOUT 1 C E\nN\nT R\nE\nN\nOI\nN U\nR\nCONNECTION ROUNDABOUT 3\nTR K\nOIU\nNN\nK\nSERVICE PROVIDER\nMPLS NETWORK\nSURVEILLANCE\nCENTER",
+  "Everything is layer 2, gateways are in the\nEach site has multiple cameras located in a surveillance center.\nseparate VLAN 340\nVLAN 340 VLAN 340 So, we can see all cameras mac addresses,\nEach Site has one Roundabout Control Server no matter which site it is, on all switches.\nlocated in a separate VLAN 350 VLASNa 3m40e for roundabout control servers\nVLAN 340 VLAN 340 VLAN 340 VLAN 340\nVLAN 350\nSwitch management IP is on VLAN 330\nVLAN 340 VLAN 340\nVLAN 330\nVLAN 350 VLAN 350\nEach site is connected to a central ROUNDABOUT 2 CL\nO2\nNF\nsurveillance platform which re\nL\nside in another NBI\nVlLoAcNa 3t3i0on, miles away O C F 2 C E R E L2 RADIOLINK VLAN 330\nNBI TT TRUNK\nROUN S D o A m BO e U s T i 1 tes are connected to C E N c T R Eenter via fiber N OI N U R CONNECTION ROUNDABOUT 3\nconnection, plugged directlyT toR our switch K\nOIU There are some site, that fiber\nfiber port NN\nK connection is not possible. In these\nsites there are radiolink connections.\nSERVICE PROVIDER\nThere is a device that is connected to\nMPLS NETWORK service provider over radionlink and to\nour switch via Rj45 ethernet port\nSURVEILLANCE\nCENTER"
+ ],
+ "extracted_at": "2026-10-22T03:41:43Z"
+}

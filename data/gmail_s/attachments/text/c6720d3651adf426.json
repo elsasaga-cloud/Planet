@@ -1,0 +1,19 @@
+{
+ "sha256_16": "c6720d3651adf426",
+ "name": "image001.png",
+ "ext": ".png",
+ "bytes": 88457,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 918,
+  "height": 478,
+  "mode": "RGBA",
+  "thumb_bytes": 11230
+ },
+ "warnings": [],
+ "chars": 670,
+ "text": "s.sagatelecom@gmail.com\nSaga Telecom\nwww.sagatelecom.com.cn\nKey Features\n© —8*10G Ethernet ports\n© — Support IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3 bz, IEEE 802.3 ae, IEEE 802.3. x, IEEE\n802.3az\n© Ethernet ports support 100/1000M/2500MISG/10G self-adaptive\n© — Support port automatic MDI/MDIX\n© Panel indicators monitor operating conditions and assist in fault analysis\n© Flow control mode, IEEE802.3x standard for full duplex, and back pressure standard for half duplex\n© Support surge protection: common mode 6KV; ESD Air 8KV, contact 6KV\nSpecification\nProduct Name 8 port 10G Ethemet Switch\nPort BRIOMOOMOOOMIASGMOGIUTP RI45(Support MDI/MDIX, auto-sensing)",
+ "extracted_at": "2026-10-22T03:48:55Z"
+}

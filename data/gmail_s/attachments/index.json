@@ -1,0 +1,9572 @@
+{
+ "bb3885ed8891b69a": {
+  "name": "24 port.png",
+  "names": [
+   "24 port.png"
+  ],
+  "mime": "image/png",
+  "bytes": 261078,
+  "n": 835,
+  "first_msg": "75fbb4acd434fe33",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "53f8dda136f73dc6": {
+  "name": "icon.png",
+  "names": [
+   "icon.png"
+  ],
+  "mime": "image/png",
+  "bytes": 1450,
+  "n": 110,
+  "first_msg": "d401cebf90843d7c",
+  "x": "skip:image"
+ },
+ "3b897ab71e2fd4c2": {
+  "name": "icon.png",
+  "names": [
+   "icon.png"
+  ],
+  "mime": "image/png",
+  "bytes": 3910,
+  "n": 109,
+  "first_msg": "c5b27b3f2b52d397",
+  "x": "skip:image"
+ },
+ "e9b71751ca44015a": {
+  "name": "warning_triangle.png",
+  "names": [
+   "warning_triangle.png"
+  ],
+  "mime": "image/png",
+  "bytes": 466,
+  "n": 25,
+  "first_msg": "c5b27b3f2b52d397",
+  "x": "skip:image"
+ },
+ "ed4409b9d79b372c": {
+  "name": "icon.png",
+  "names": [
+   "icon.png"
+  ],
+  "mime": "image/png",
+  "bytes": 5747,
+  "n": 60,
+  "first_msg": "b7751699aea2c448",
+  "x": "skip:image"
+ },
+ "a3a0311f04e7b02a": {
+  "name": "icon.png",
+  "names": [
+   "icon.png"
+  ],
+  "mime": "image/png",
+  "bytes": 2187,
+  "n": 24,
+  "first_msg": "5944c93e223fe749",
+  "x": "skip:image"
+ },
+ "b4e558114cbe2a99": {
+  "name": "icon.png",
+  "names": [
+   "icon.png"
+  ],
+  "mime": "image/png",
+  "bytes": 3637,
+  "n": 8,
+  "first_msg": "54409870d7fc4056",
+  "x": "skip:image"
+ },
+ "24bc1b3e2574c8d8": {
+  "name": "SWITCH-MIBS-release.docx",
+  "names": [
+   "SWITCH-MIBS-release.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 124231,
+  "n": 1,
+  "first_msg": "3c37c75887d3f132",
+  "x": "ok",
+  "chars": 61650,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "a7df80ee2059f964": {
+  "name": "Saga Feature List_7.5.x_L2+.xlsx",
+  "names": [
+   "Saga Feature List_7.5.x_L2+.xlsx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "bytes": 101341,
+  "n": 21,
+  "first_msg": "3c37c75887d3f132",
+  "x": "ok",
+  "chars": 5590,
+  "method": "openpyxl(values)"
+ },
+ "87f674060afbf017": {
+  "name": "STC-424XGGPM-280W.docx",
+  "names": [
+   "STC-424XGGPM-280W.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 1334979,
+  "n": 1,
+  "first_msg": "3c37c75887d3f132",
+  "x": "ok",
+  "chars": 9391,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "960db093240e1e6d": {
+  "name": "Marvell Based CLI Manual.docx",
+  "names": [
+   "Marvell Based CLI Manual.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 2472681,
+  "n": 1,
+  "first_msg": "3c37c75887d3f132",
+  "x": "ok",
+  "chars": 370059,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "3433fc43fa38a31f": {
+  "name": "Marvell Based Web Manual.docx",
+  "names": [
+   "Marvell Based Web Manual.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 4655911,
+  "n": 1,
+  "first_msg": "3c37c75887d3f132",
+  "x": "ok",
+  "chars": 147480,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "6da14c5fc30723fe": {
+  "name": "Verificaiton.png",
+  "names": [
+   "Verificaiton.png"
+  ],
+  "mime": "image/png",
+  "bytes": 456118,
+  "n": 1,
+  "first_msg": "c649bb70cca727ac",
+  "x": "ok",
+  "chars": 46,
+  "method": "pillow+tesseract"
+ },
+ "d71e5a9129fa7e85": {
+  "name": "hotline record 1.PNG",
+  "names": [
+   "hotline record 1.PNG"
+  ],
+  "mime": "image/png",
+  "bytes": 1001728,
+  "n": 1,
+  "first_msg": "c649bb70cca727ac",
+  "x": "ok",
+  "chars": 508,
+  "method": "pillow+tesseract"
+ },
+ "5e98d39504cafb6c": {
+  "name": "hotline record 2.PNG",
+  "names": [
+   "hotline record 2.PNG"
+  ],
+  "mime": "image/png",
+  "bytes": 4463031,
+  "n": 1,
+  "first_msg": "c649bb70cca727ac",
+  "x": "ok",
+  "chars": 145,
+  "method": "pillow+tesseract"
+ },
+ "f7c88045e68ebaea": {
+  "name": "Gmail - Firstrade登入确认通知.pdf",
+  "names": [
+   "Gmail - Firstrade登入确认通知.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 187756,
+  "n": 1,
+  "first_msg": "c649bb70cca727ac",
+  "x": "ok",
+  "chars": 581,
+  "method": "pdfplumber"
+ },
+ "e12968cb71d4b7ea": {
+  "name": "Gmail - Your trade confirmation is ready.pdf",
+  "names": [
+   "Gmail - Your trade confirmation is ready.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 100639,
+  "n": 1,
+  "first_msg": "c649bb70cca727ac",
+  "x": "ok",
+  "chars": 1292,
+  "method": "pdfplumber"
+ },
+ "b6969e605dd9d524": {
+  "name": "change_contact_info.pdf",
+  "names": [
+   "change_contact_info.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 110882,
+  "n": 1,
+  "first_msg": "d7bad74282e4d794",
+  "x": "ok",
+  "chars": 1614,
+  "method": "pdfplumber"
+ },
+ "5c570acffa481742": {
+  "name": "IMG_0381.pdf",
+  "names": [
+   "IMG_0381.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 215733,
+  "n": 1,
+  "first_msg": "d7bad74282e4d794",
+  "x": "ok",
+  "chars": 1080,
+  "method": "pdfplumber+OCR(1p)"
+ },
+ "cef32cc654e39c8e": {
+  "name": "passport.pdf",
+  "names": [
+   "passport.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 329020,
+  "n": 1,
+  "first_msg": "d7bad74282e4d794",
+  "x": "ok",
+  "chars": 480,
+  "method": "pdfplumber+OCR(1p)"
+ },
+ "e3c2a760026ea560": {
+  "name": "STSC-20261017-001.pdf",
+  "names": [
+   "STSC-20261017-001.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 245928,
+  "n": 1,
+  "first_msg": "5ca2dee1999bade7",
+  "x": "ok",
+  "chars": 2881,
+  "method": "pdfplumber"
+ },
+ "08d0e97d3f285318": {
+  "name": "PL_STSC-20261017-001.pdf",
+  "names": [
+   "PL_STSC-20261017-001.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 112283,
+  "n": 1,
+  "first_msg": "5ca2dee1999bade7",
+  "x": "ok",
+  "chars": 722,
+  "method": "pdfplumber"
+ },
+ "88a2165eee65286a": {
+  "name": "Product Link_2026Q3.pdf",
+  "names": [
+   "Product Link_2026Q3.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 212312,
+  "n": 1,
+  "first_msg": "3bc111136e01bedb",
+  "x": "ok",
+  "chars": 1969,
+  "method": "pdfplumber"
+ },
+ "a0ec6283baf954d8": {
+  "name": "Zhengzhou Saga Telecom Co., Ltd..pdf",
+  "names": [
+   "Zhengzhou Saga Telecom Co., Ltd..pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 46820,
+  "n": 1,
+  "first_msg": "60ac95de9259a792",
+  "x": "ok",
+  "chars": 547,
+  "method": "pdfplumber"
+ },
+ "d5108f7462f05565": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 4660,
+  "n": 1,
+  "first_msg": "60ac95de9259a792",
+  "x": "skip:type"
+ },
+ "9fb2ccadfb62974d": {
+  "name": "JPMorgan Chase Bank N.A., Hong Kong Branch_1791290439340.pdf",
+  "names": [
+   "JPMorgan Chase Bank N.A., Hong Kong Branch_1791290439340.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 273728,
+  "n": 1,
+  "first_msg": "f22b10e3250c3f3c",
+  "x": "ok",
+  "chars": 1181,
+  "method": "pdfplumber"
+ },
+ "c543afcf7b7baa3c": {
+  "name": "STSC20261006015.pdf",
+  "names": [
+   "STSC20261006015.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 198209,
+  "n": 1,
+  "first_msg": "f22b10e3250c3f3c",
+  "x": "ok",
+  "chars": 3221,
+  "method": "pdfplumber"
+ },
+ "fd3e70206b86c9c9": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 4660,
+  "n": 1,
+  "first_msg": "da67a500ff9a25f8",
+  "x": "skip:type"
+ },
+ "1b836691350a8579": {
+  "name": "STSC-20260930-001.pdf",
+  "names": [
+   "STSC-20260930-001.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 197175,
+  "n": 1,
+  "first_msg": "074a700ad4b10bf7",
+  "x": "ok",
+  "chars": 2873,
+  "method": "pdfplumber"
+ },
+ "e305ce2efcb2b96b": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 4660,
+  "n": 1,
+  "first_msg": "637b710ddb45d5f6",
+  "x": "skip:type"
+ },
+ "22474f0d4309073e": {
+  "name": "PL_STSC-20260929-001.pdf",
+  "names": [
+   "PL_STSC-20260929-001.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 112802,
+  "n": 1,
+  "first_msg": "38d19aa9fadaae82",
+  "x": "ok",
+  "chars": 710,
+  "method": "pdfplumber"
+ },
+ "cb5a2c6d4d0632d2": {
+  "name": "STSC-20260929-001.pdf",
+  "names": [
+   "STSC-20260929-001.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 197198,
+  "n": 1,
+  "first_msg": "38d19aa9fadaae82",
+  "x": "ok",
+  "chars": 2864,
+  "method": "pdfplumber"
+ },
+ "8d959fbb81e15de7": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 4660,
+  "n": 1,
+  "first_msg": "afced0c9af361141",
+  "x": "skip:type"
+ },
+ "babdb5493c98f11f": {
+  "name": "AC5 BIN.png",
+  "names": [
+   "AC5 BIN.png"
+  ],
+  "mime": "image/png",
+  "bytes": 3176,
+  "n": 1,
+  "first_msg": "bf1a3e1e9ab85d63",
+  "x": "skip:image"
+ },
+ "f3ca952ec7ff4d09": {
+  "name": "jira-generated-image-static-3e1f1cf7-dfa1-45f7-a4c6-3c07c9e19203",
+  "names": [
+   "jira-generated-image-static-3e1f1cf7-dfa1-45f7-a4c6-3c07c9e19203"
+  ],
+  "mime": "image/png",
+  "bytes": 11763,
+  "n": 1,
+  "first_msg": "66de19760a263273",
+  "x": "skip:type"
+ },
+ "f5d64b7c8fd0d323": {
+  "name": "Printing.jpg",
+  "names": [
+   "Printing.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 3119361,
+  "n": 1,
+  "first_msg": "6d28c798fba082a8",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "3edbb8eeda617bf9": {
+  "name": "STC-424XGGPM-280W.docx",
+  "names": [
+   "STC-424XGGPM-280W.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 1334988,
+  "n": 1,
+  "first_msg": "6d28c798fba082a8",
+  "x": "ok",
+  "chars": 9391,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "80be7d6dc574a211": {
+  "name": "confirmation.png",
+  "names": [
+   "confirmation.png"
+  ],
+  "mime": "image/png",
+  "bytes": 53423,
+  "n": 1,
+  "first_msg": "9125e658b3fbbc54",
+  "x": "skip:image"
+ },
+ "975687c8854005c2": {
+  "name": "MC1000 Logo.dwg",
+  "names": [
+   "MC1000 Logo.dwg"
+  ],
+  "mime": "application/octet-stream",
+  "bytes": 23055,
+  "n": 1,
+  "first_msg": "dedfbd0f90100551",
+  "x": "skip:type"
+ },
+ "4e18ccce1d20ae47": {
+  "name": "MC1000 Logo.png",
+  "names": [
+   "MC1000 Logo.png"
+  ],
+  "mime": "image/png",
+  "bytes": 130189,
+  "n": 1,
+  "first_msg": "dedfbd0f90100551",
+  "x": "ok",
+  "chars": 139,
+  "method": "pillow+tesseract"
+ },
+ "6ad685e89407ef76": {
+  "name": "Vi-Link Logo.xps",
+  "names": [
+   "Vi-Link Logo.xps"
+  ],
+  "mime": "application/vnd.ms-xpsdocument",
+  "bytes": 305918,
+  "n": 1,
+  "first_msg": "dedfbd0f90100551",
+  "x": "skip:type"
+ },
+ "056881e8b9c74036": {
+  "name": "MC1000 Logo.jpg",
+  "names": [
+   "MC1000 Logo.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 114339,
+  "n": 1,
+  "first_msg": "291b7d41c2900daf",
+  "x": "ok",
+  "chars": 138,
+  "method": "pillow+tesseract"
+ },
+ "dfec6c60fe03591a": {
+  "name": "ready for printing.jpg",
+  "names": [
+   "ready for printing.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 331415,
+  "n": 1,
+  "first_msg": "11e6468a0d414670",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "15f9958846cabc0e": {
+  "name": "front.jpg",
+  "names": [
+   "front.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 402133,
+  "n": 1,
+  "first_msg": "0a2c40d8eb561283",
+  "x": "ok",
+  "chars": 7,
+  "method": "pillow+tesseract"
+ },
+ "2c24b157257a19e6": {
+  "name": "rear.jpg",
+  "names": [
+   "rear.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 607072,
+  "n": 1,
+  "first_msg": "0a2c40d8eb561283",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "78f5d0927a4be0c1": {
+  "name": "packing.jpg",
+  "names": [
+   "packing.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 2088129,
+  "n": 1,
+  "first_msg": "0a2c40d8eb561283",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "4944b36d37b25885": {
+  "name": "printing.jpg",
+  "names": [
+   "printing.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 1954765,
+  "n": 1,
+  "first_msg": "0a2c40d8eb561283",
+  "x": "ok",
+  "chars": 84,
+  "method": "pillow+tesseract"
+ },
+ "be085af7ffef42fc": {
+  "name": "label.jpg",
+  "names": [
+   "label.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 2230725,
+  "n": 1,
+  "first_msg": "0a2c40d8eb561283",
+  "x": "ok",
+  "chars": 169,
+  "method": "pillow+tesseract"
+ },
+ "aed6f3e476c5cfc5": {
+  "name": "User Manual_STSC20260903006.pdf",
+  "names": [
+   "User Manual_STSC20260903006.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 230404,
+  "n": 1,
+  "first_msg": "0df06be4341c37e4",
+  "x": "ok",
+  "chars": 5240,
+  "method": "pdfplumber"
+ },
+ "d23ce69a6140643e": {
+  "name": "STC-424XGGPM-280W.docx",
+  "names": [
+   "STC-424XGGPM-280W.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 1334991,
+  "n": 1,
+  "first_msg": "059803e2ac308b24",
+  "x": "ok",
+  "chars": 9470,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "7f774d7376864a64": {
+  "name": "Marvell.png",
+  "names": [
+   "Marvell.png"
+  ],
+  "mime": "image/png",
+  "bytes": 1878374,
+  "n": 29,
+  "first_msg": "8481f7580addd6d7",
+  "x": "ok",
+  "chars": 300,
+  "method": "pillow+tesseract"
+ },
+ "e7b5629f59276e92": {
+  "name": "10G Switch.png",
+  "names": [
+   "10G Switch.png",
+   "image001.jpg"
+  ],
+  "mime": "image/png",
+  "bytes": 69458,
+  "n": 19,
+  "first_msg": "d8a7409102b01dbb",
+  "x": "skip:image"
+ },
+ "9e97f4a0cdca93b1": {
+  "name": "image0.jpeg",
+  "names": [
+   "image0.jpeg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 1503728,
+  "n": 1,
+  "first_msg": "3287d81fe10e8f5f",
+  "x": "ok",
+  "chars": 25,
+  "method": "pillow+tesseract"
+ },
+ "a27253e5ec79cfd1": {
+  "name": "STSC20260830010_IN USD.pdf",
+  "names": [
+   "STSC20260830010_IN USD.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 179190,
+  "n": 1,
+  "first_msg": "703ab4cf93c3154d",
+  "x": "ok",
+  "chars": 3338,
+  "method": "pdfplumber"
+ },
+ "0196fb485dc21f5e": {
+  "name": "STSC20260830010.pdf",
+  "names": [
+   "STSC20260830010.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 179229,
+  "n": 1,
+  "first_msg": "de1270fe8e69865f",
+  "x": "ok",
+  "chars": 3357,
+  "method": "pdfplumber"
+ },
+ "3d684113cfc3e866": {
+  "name": "STSC-20260826-001.pdf",
+  "names": [
+   "STSC-20260826-001.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 181559,
+  "n": 1,
+  "first_msg": "ba36e2ca75bc3155",
+  "x": "ok",
+  "chars": 2762,
+  "method": "pdfplumber"
+ },
+ "a288a7392dd7e93f": {
+  "name": "STSC20260903006.pdf",
+  "names": [
+   "STSC20260903006.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 150563,
+  "n": 1,
+  "first_msg": "f9be055672585c38",
+  "x": "ok",
+  "chars": 3257,
+  "method": "pdfplumber"
+ },
+ "df190fa74e2d4fda": {
+  "name": "MC1000 Logo.jpg",
+  "names": [
+   "MC1000 Logo.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 33193,
+  "n": 1,
+  "first_msg": "d9d43c891cfc6622",
+  "x": "skip:image"
+ },
+ "4f6c183abff6c03a": {
+  "name": "STC-110GE.docx",
+  "names": [
+   "STC-110GE.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 152814,
+  "n": 1,
+  "first_msg": "b7cc0f808acdc972",
+  "x": "ok",
+  "chars": 3609,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "50add654d624dba5": {
+  "name": "lantronix.png",
+  "names": [
+   "lantronix.png"
+  ],
+  "mime": "image/png",
+  "bytes": 353518,
+  "n": 1,
+  "first_msg": "d813f53529c41717",
+  "x": "ok",
+  "chars": 729,
+  "method": "pillow+tesseract"
+ },
+ "95652a82038b6c20": {
+  "name": "level one.png",
+  "names": [
+   "level one.png"
+  ],
+  "mime": "image/png",
+  "bytes": 236160,
+  "n": 1,
+  "first_msg": "d813f53529c41717",
+  "x": "ok",
+  "chars": 11,
+  "method": "pillow+tesseract"
+ },
+ "15408f58efede8b0": {
+  "name": "STSC-20260821-001.pdf",
+  "names": [
+   "STSC-20260821-001.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 123995,
+  "n": 1,
+  "first_msg": "761e3709ad7f5df0",
+  "x": "ok",
+  "chars": 2693,
+  "method": "pdfplumber"
+ },
+ "f8eab67d789b75c2": {
+  "name": "STC-110FE.pdf",
+  "names": [
+   "STC-110FE.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 267718,
+  "n": 1,
+  "first_msg": "761e3709ad7f5df0",
+  "x": "ok",
+  "chars": 3577,
+  "method": "pdfplumber"
+ },
+ "372915ae1abc444e": {
+  "name": "New MC100SC03 Logo.jpg",
+  "names": [
+   "New MC100SC03 Logo.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 34972,
+  "n": 1,
+  "first_msg": "b3e051f99d40baba",
+  "x": "skip:image"
+ },
+ "0e613c894c625c64": {
+  "name": "MC100SC03.pdf",
+  "names": [
+   "MC100SC03.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 1161754,
+  "n": 1,
+  "first_msg": "b3e051f99d40baba",
+  "x": "ok",
+  "chars": 5052,
+  "method": "pdfplumber"
+ },
+ "e1e60ac6c0b25013": {
+  "name": "Vi-Link Logo New.jpg",
+  "names": [
+   "Vi-Link Logo New.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 201307,
+  "n": 1,
+  "first_msg": "b950c8899f808dc7",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "df96c6b724dd0408": {
+  "name": "Product Link_2026Q2.pdf",
+  "names": [
+   "Product Link_2026Q2.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 98600,
+  "n": 4,
+  "first_msg": "b1d980459779e683",
+  "x": "ok",
+  "chars": 3187,
+  "method": "pdfplumber"
+ },
+ "ed71c8644248ad3b": {
+  "name": "STC-424XGGM.docx",
+  "names": [
+   "STC-424XGGM.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 1332685,
+  "n": 1,
+  "first_msg": "06610cfbde4173c3",
+  "x": "ok",
+  "chars": 8923,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "d23e8a6b87839cfe": {
+  "name": "Dual AC.jpg",
+  "names": [
+   "Dual AC.jpg",
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 435914,
+  "n": 28,
+  "first_msg": "06610cfbde4173c3",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "47011b55b17c1866": {
+  "name": "2.5G.png",
+  "names": [
+   "2.5G.png"
+  ],
+  "mime": "image/png",
+  "bytes": 368975,
+  "n": 1,
+  "first_msg": "74c7d5bdd3c4244d",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "d26b19b2a0d7601d": {
+  "name": "DIN Rail Unmanaged.png",
+  "names": [
+   "DIN Rail Unmanaged.png",
+   "image001.jpg"
+  ],
+  "mime": "image/png",
+  "bytes": 243665,
+  "n": 183,
+  "first_msg": "a969e51cd05598bc",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "40182cda0896f562": {
+  "name": "8C48XF.png",
+  "names": [
+   "8C48XF.png",
+   "image001.jpg"
+  ],
+  "mime": "image/png",
+  "bytes": 191947,
+  "n": 50,
+  "first_msg": "a70907a717a29241",
+  "x": "ok",
+  "chars": 36,
+  "method": "pillow+tesseract"
+ },
+ "d1af81c1a33a08a9": {
+  "name": "KGYS_Section33_Translation_EN.pdf",
+  "names": [
+   "KGYS_Section33_Translation_EN.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 154360,
+  "n": 2,
+  "first_msg": "ab06ad1c2c566a01",
+  "x": "ok",
+  "chars": 6693,
+  "method": "pdfplumber"
+ },
+ "b05247c88c2dc17d": {
+  "name": "EGM_Sections_3.3_3.4_EN.pdf",
+  "names": [
+   "EGM_Sections_3.3_3.4_EN.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 158578,
+  "n": 2,
+  "first_msg": "ab06ad1c2c566a01",
+  "x": "ok",
+  "chars": 9017,
+  "method": "pdfplumber"
+ },
+ "c8fdb7b194593b26": {
+  "name": "CGKS_Section_3.3_Network_Switches_EN.pdf",
+  "names": [
+   "CGKS_Section_3.3_Network_Switches_EN.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 148185,
+  "n": 2,
+  "first_msg": "ab06ad1c2c566a01",
+  "x": "ok",
+  "chars": 8917,
+  "method": "pdfplumber"
+ },
+ "42c2eb7d971f8ff3": {
+  "name": "Product Link_2026Q2.pdf",
+  "names": [
+   "Product Link_2026Q2.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 105398,
+  "n": 15,
+  "first_msg": "e86e1ce143e962f7",
+  "x": "ok",
+  "chars": 5827,
+  "method": "pdfplumber"
+ },
+ "35a4e8e720c7745d": {
+  "name": "Customization after log-in.jpg",
+  "names": [
+   "Customization after log-in.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 138179,
+  "n": 21,
+  "first_msg": "59af56032854503e",
+  "x": "ok",
+  "chars": 503,
+  "method": "pillow+tesseract"
+ },
+ "16dd2be2f120b60e": {
+  "name": "MINI.png",
+  "names": [
+   "MINI.png"
+  ],
+  "mime": "image/png",
+  "bytes": 713505,
+  "n": 274,
+  "first_msg": "7ff617fa3c08c4fb",
+  "x": "ok",
+  "chars": 17,
+  "method": "pillow+tesseract"
+ },
+ "e5ed830f9f906f5a": {
+  "name": "24-port LAN.jpg",
+  "names": [
+   "24-port LAN.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 608518,
+  "n": 4,
+  "first_msg": "393e841809a62e21",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "3bc33a585eacc911": {
+  "name": "10G.jpg",
+  "names": [
+   "10G.jpg",
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 36887,
+  "n": 515,
+  "first_msg": "8c98548157201f71",
+  "x": "skip:image"
+ },
+ "c206e35a8c693b85": {
+  "name": "16 port PoE.jpg",
+  "names": [
+   "16 port PoE.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 466489,
+  "n": 142,
+  "first_msg": "efec794bbbc337a4",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "1caf1637cc2abb17": {
+  "name": "1U Umanaged.png",
+  "names": [
+   "1U Umanaged.png"
+  ],
+  "mime": "image/png",
+  "bytes": 398373,
+  "n": 303,
+  "first_msg": "d3e4e2ad01dbf3ed",
+  "x": "ok",
+  "chars": 4,
+  "method": "pillow+tesseract"
+ },
+ "914d3447c072cf28": {
+  "name": "48 port sfp.jpg",
+  "names": [
+   "48 port sfp.jpg",
+   "image001.jpg",
+   "52光.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 336973,
+  "n": 63,
+  "first_msg": "dfda96f7442a52e7",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "655ee61b3b95290c": {
+  "name": "16 Copper.png",
+  "names": [
+   "16 Copper.png"
+  ],
+  "mime": "image/png",
+  "bytes": 388892,
+  "n": 265,
+  "first_msg": "eb6d3d80cfa55564",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "f6a0ef45e5a7589b": {
+  "name": "L3 Managed.png",
+  "names": [
+   "L3 Managed.png",
+   "image001.jpg"
+  ],
+  "mime": "image/png",
+  "bytes": 411034,
+  "n": 124,
+  "first_msg": "8aaaf1725336dba7",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "c2fa4f290d06f99a": {
+  "name": "PCB.png",
+  "names": [
+   "PCB.png"
+  ],
+  "mime": "image/png",
+  "bytes": 374578,
+  "n": 1,
+  "first_msg": "bef0f284b0e1b74e",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "9382b85bd3e0bb4c": {
+  "name": "Booster PoE Switch.png",
+  "names": [
+   "Booster PoE Switch.png"
+  ],
+  "mime": "image/png",
+  "bytes": 477992,
+  "n": 22,
+  "first_msg": "f86037c1bb2b455d",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "b649adcfdf69c7ab": {
+  "name": "Outlook-1hvwujoc.png",
+  "names": [
+   "Outlook-1hvwujoc.png",
+   "Outlook-pkn2fflg.png",
+   "Outlook-ql3nc041.png",
+   "Outlook-qwfwhqxe.png",
+   "Outlook-lsgikph4.png",
+   "Outlook-nbvn3lxi.png",
+   "Outlook-czucnilc.png",
+   "Outlook-wah1vqbv.png"
+  ],
+  "mime": "image/png",
+  "bytes": 1311,
+  "n": 129,
+  "first_msg": "3cab7e50e48fea36",
+  "x": "skip:image"
+ },
+ "04abc90a7dd4d4f9": {
+  "name": "Outlook-e0z3rhow.png",
+  "names": [
+   "Outlook-e0z3rhow.png",
+   "Outlook-ub2f0jpz.png",
+   "Outlook-brngttgm.png",
+   "Outlook-stajrihc.png",
+   "Outlook-o5mlevze.png",
+   "Outlook-bilfgi3c.png",
+   "Outlook-mbjkx4tm.png",
+   "Outlook-gyrtdvo2.png"
+  ],
+  "mime": "image/png",
+  "bytes": 1557,
+  "n": 129,
+  "first_msg": "3cab7e50e48fea36",
+  "x": "skip:image"
+ },
+ "06f7e19873ad23e1": {
+  "name": "Outlook-evc4rmn4.png",
+  "names": [
+   "Outlook-evc4rmn4.png",
+   "Outlook-lcgi5ke2.png",
+   "Outlook-lrtge10a.png",
+   "Outlook-rojbamxo.png",
+   "Outlook-ouj0dsmu.png",
+   "Outlook-povg1jna.png",
+   "Outlook-kuttgajr.png",
+   "Outlook-qmkf5mbj.png"
+  ],
+  "mime": "image/png",
+  "bytes": 1548,
+  "n": 129,
+  "first_msg": "3cab7e50e48fea36",
+  "x": "skip:image"
+ },
+ "df9670bdd28f51ac": {
+  "name": "STH1G Series.pdf",
+  "names": [
+   "STH1G Series.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 970698,
+  "n": 1,
+  "first_msg": "3cab7e50e48fea36",
+  "x": "ok",
+  "chars": 13078,
+  "method": "pdfplumber"
+ },
+ "fa3133b4e5358d62": {
+  "name": "Alarm.jpg",
+  "names": [
+   "Alarm.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 365773,
+  "n": 1,
+  "first_msg": "6eff946a4fce8903",
+  "x": "ok",
+  "chars": 207,
+  "method": "pillow+tesseract"
+ },
+ "f019addd84853d00": {
+  "name": "Optical Bypass Switch.jpg",
+  "names": [
+   "Optical Bypass Switch.jpg",
+   "Optical Bypass S(04-01-12-08-53).jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 359737,
+  "n": 21,
+  "first_msg": "e3353b09af543026",
+  "x": "ok",
+  "chars": 19,
+  "method": "pillow+tesseract"
+ },
+ "5ff55f52112ba9d6": {
+  "name": "24 port L3.jpg",
+  "names": [
+   "24 port L3.jpg",
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 613716,
+  "n": 79,
+  "first_msg": "91bbb14faf132059",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "04e4ba8c6b3c36d6": {
+  "name": "Marvell Series.png",
+  "names": [
+   "Marvell Series.png",
+   "image003.jpg"
+  ],
+  "mime": "image/png",
+  "bytes": 422666,
+  "n": 242,
+  "first_msg": "f599632a094deb79",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "5cfb87dceea25a25": {
+  "name": "STI-488XGGBPM.pdf",
+  "names": [
+   "STI-488XGGBPM.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 2342225,
+  "n": 1,
+  "first_msg": "822038afc07c951e",
+  "x": "ok",
+  "chars": 47176,
+  "method": "pdfplumber"
+ },
+ "ef0b25bc35686f66": {
+  "name": "STAG20251127018.pdf",
+  "names": [
+   "STAG20251127018.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 331179,
+  "n": 1,
+  "first_msg": "0cc642cb3b5505fb",
+  "x": "ok",
+  "chars": 3021,
+  "method": "pdfplumber"
+ },
+ "39026e9f04db4579": {
+  "name": "Screenshot 2025-12-01 090050.png",
+  "names": [
+   "Screenshot 2025-12-01 090050.png"
+  ],
+  "mime": "image/png",
+  "bytes": 57925,
+  "n": 1,
+  "first_msg": "0cc642cb3b5505fb",
+  "x": "skip:image"
+ },
+ "c7887d8f5b011ac9": {
+  "name": "image002.png",
+  "names": [
+   "image002.png",
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 6853,
+  "n": 9,
+  "first_msg": "0f0fbe815b9ef1af",
+  "x": "skip:image"
+ },
+ "48d637ca053b680f": {
+  "name": "Technical Sales White Paper.pdf",
+  "names": [
+   "Technical Sales White Paper.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 169100,
+  "n": 1,
+  "first_msg": "d1387d455547fc18",
+  "x": "ok",
+  "chars": 15597,
+  "method": "pdfplumber"
+ },
+ "1f18e0ec36ba4c43": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "c24584352bd15931",
+  "x": "skip:type"
+ },
+ "2a59d012c27c65c5": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "e2c8e6b4f49f56e3",
+  "x": "skip:type"
+ },
+ "7528830de2b628e6": {
+  "name": "release date.png",
+  "names": [
+   "release date.png"
+  ],
+  "mime": "image/png",
+  "bytes": 32441,
+  "n": 1,
+  "first_msg": "ace9a12d5b111470",
+  "x": "skip:image"
+ },
+ "3ffde43fdaea0327": {
+  "name": "upload steps.png",
+  "names": [
+   "upload steps.png"
+  ],
+  "mime": "image/png",
+  "bytes": 41600,
+  "n": 1,
+  "first_msg": "ace9a12d5b111470",
+  "x": "skip:image"
+ },
+ "2ba43fe8fd767598": {
+  "name": "result.png",
+  "names": [
+   "result.png"
+  ],
+  "mime": "image/png",
+  "bytes": 17170,
+  "n": 1,
+  "first_msg": "ace9a12d5b111470",
+  "x": "skip:image"
+ },
+ "83201e89a3833634": {
+  "name": "STC-4168XGGCM.zip",
+  "names": [
+   "STC-4168XGGCM.zip"
+  ],
+  "mime": "application/x-zip-compressed",
+  "bytes": 1592,
+  "n": 1,
+  "first_msg": "ace9a12d5b111470",
+  "x": "ok",
+  "chars": 349,
+  "method": "archive-extract"
+ },
+ "1a57e2b764fb7636": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "68c59647de2f8f4a",
+  "x": "skip:type"
+ },
+ "f53e0666e4cc1240": {
+  "name": "Updated MIB Info.png",
+  "names": [
+   "Updated MIB Info.png"
+  ],
+  "mime": "image/png",
+  "bytes": 54853,
+  "n": 1,
+  "first_msg": "4a1ef61e619d1f95",
+  "x": "skip:image"
+ },
+ "c2149b836df13b6d": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "52e1dedf79930af9",
+  "x": "skip:type"
+ },
+ "ae9939faaf376626": {
+  "name": "FAN MIB INFO.png",
+  "names": [
+   "FAN MIB INFO.png"
+  ],
+  "mime": "image/png",
+  "bytes": 39491,
+  "n": 1,
+  "first_msg": "aafd6c29ea5c2898",
+  "x": "skip:image"
+ },
+ "c1826e34783f79f7": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "06568928a9445bc3",
+  "x": "skip:type"
+ },
+ "9fd73e8dda0e6bd0": {
+  "name": "NMS-SYS-TEMPERATURE-MIB.mib",
+  "names": [
+   "NMS-SYS-TEMPERATURE-MIB.mib"
+  ],
+  "mime": "application/octet-stream",
+  "bytes": 1341,
+  "n": 1,
+  "first_msg": "b05d98b52f0e6f6a",
+  "x": "ok",
+  "chars": 1341,
+  "method": "text"
+ },
+ "9d7626087dd8e423": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "b05d98b52f0e6f6a",
+  "x": "skip:type"
+ },
+ "a8a5533b5336df4c": {
+  "name": "fan dual PSU status monitoring 1.png",
+  "names": [
+   "fan dual PSU status monitoring 1.png",
+   "1.png"
+  ],
+  "mime": "image/png",
+  "bytes": 46580,
+  "n": 2,
+  "first_msg": "7901836b90f0813a",
+  "x": "skip:image"
+ },
+ "a548e6ed042af7a0": {
+  "name": "fan dual PSU status monitoring 2.png",
+  "names": [
+   "fan dual PSU status monitoring 2.png",
+   "2.png"
+  ],
+  "mime": "image/png",
+  "bytes": 29778,
+  "n": 2,
+  "first_msg": "7901836b90f0813a",
+  "x": "skip:image"
+ },
+ "d10ab7b26a9effcd": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "a3a995891b5a56ba",
+  "x": "skip:type"
+ },
+ "a8fa99dabb058af1": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "fa8ab1ca2fcd678e",
+  "x": "skip:type"
+ },
+ "dfefb52aab37b499": {
+  "name": "CRS310-8G+2S+IN.png",
+  "names": [
+   "CRS310-8G+2S+IN.png"
+  ],
+  "mime": "image/png",
+  "bytes": 48259,
+  "n": 1,
+  "first_msg": "e59436a1a5d05de6",
+  "x": "skip:image"
+ },
+ "907a997d18156734": {
+  "name": "Options.png",
+  "names": [
+   "Options.png"
+  ],
+  "mime": "image/png",
+  "bytes": 1073704,
+  "n": 1,
+  "first_msg": "e59436a1a5d05de6",
+  "x": "ok",
+  "chars": 446,
+  "method": "pillow+tesseract"
+ },
+ "4dedb61975610c3e": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "61065505a331e5fd",
+  "x": "skip:type"
+ },
+ "1eba565ece4ebed2": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "04b26b17e0c7eb1a",
+  "x": "skip:type"
+ },
+ "beb2fe7552ea3565": {
+  "name": "Money-transfer[102833].pdf",
+  "names": [
+   "Money-transfer[102833].pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 44712,
+  "n": 1,
+  "first_msg": "329dc2cfa7f4f178",
+  "x": "ok",
+  "chars": 487,
+  "method": "pdfplumber"
+ },
+ "2c85235d0dd475e0": {
+  "name": "front.jpg",
+  "names": [
+   "front.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 138388,
+  "n": 1,
+  "first_msg": "9c254544f29aa146",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "12daec49270802b6": {
+  "name": "accessory.jpg",
+  "names": [
+   "accessory.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 2320559,
+  "n": 1,
+  "first_msg": "9c254544f29aa146",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "49ca48aeb4c0207a": {
+  "name": "rear.jpg",
+  "names": [
+   "rear.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 741982,
+  "n": 1,
+  "first_msg": "9c254544f29aa146",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "0df3138bd26e27a4": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "0938afaa8b0b77e6",
+  "x": "skip:type"
+ },
+ "101e8677f617d44d": {
+  "name": "STSC20250915015.pdf",
+  "names": [
+   "STSC20250915015.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 197842,
+  "n": 1,
+  "first_msg": "6e7692b7af0d73e2",
+  "x": "ok",
+  "chars": 3093,
+  "method": "pdfplumber"
+ },
+ "e4f67f228318c56e": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "6ee52d89f134ec4e",
+  "x": "skip:type"
+ },
+ "7158db2704f5818d": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "140bf7d7abb3eb0e",
+  "x": "skip:type"
+ },
+ "c7e45befc157a2cd": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "3c32c9ad46e6235d",
+  "x": "skip:type"
+ },
+ "df8a7ded92fa91e1": {
+  "name": "Saga Software Function List_7.3, 7.4, 7.5 version.xlsx",
+  "names": [
+   "Saga Software Function List_7.3, 7.4, 7.5 version.xlsx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "bytes": 125242,
+  "n": 2,
+  "first_msg": "d2d4ea3dce9b1ea6",
+  "x": "ok",
+  "chars": 26141,
+  "method": "openpyxl(values)"
+ },
+ "1b45210355172ba0": {
+  "name": "NMS-MIB.rar",
+  "names": [
+   "NMS-MIB.rar"
+  ],
+  "mime": "application/x-compressed",
+  "bytes": 241809,
+  "n": 3,
+  "first_msg": "be5a2777fff95ac8",
+  "x": "ok",
+  "chars": 400018,
+  "method": "archive-extract"
+ },
+ "39851584526a2b82": {
+  "name": "SWITCH-MIBS-release-7.3.0.docx",
+  "names": [
+   "SWITCH-MIBS-release-7.3.0.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 132056,
+  "n": 1,
+  "first_msg": "be5a2777fff95ac8",
+  "x": "ok",
+  "chars": 61650,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "8f4b6fec82a772d7": {
+  "name": "image001.gif",
+  "names": [
+   "image001.gif"
+  ],
+  "mime": "image/gif",
+  "bytes": 3444,
+  "n": 1,
+  "first_msg": "7d516fc6a1f3e02f",
+  "x": "skip:image"
+ },
+ "d99260d806d6b2d6": {
+  "name": "image002.png",
+  "names": [
+   "image002.png"
+  ],
+  "mime": "image/png",
+  "bytes": 56865,
+  "n": 1,
+  "first_msg": "7d516fc6a1f3e02f",
+  "x": "skip:image"
+ },
+ "e1df04fe5cfaf49d": {
+  "name": "STC-4168XGGCM.pdf",
+  "names": [
+   "STC-4168XGGCM.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 2606220,
+  "n": 1,
+  "first_msg": "997c8dd215505696",
+  "x": "ok",
+  "chars": 44734,
+  "method": "pdfplumber"
+ },
+ "d5bab31d0489e98c": {
+  "name": "monitoring.png",
+  "names": [
+   "monitoring.png"
+  ],
+  "mime": "image/png",
+  "bytes": 62758,
+  "n": 1,
+  "first_msg": "997c8dd215505696",
+  "x": "skip:image"
+ },
+ "92843c440cd1f221": {
+  "name": "Outlook-signatureI.png",
+  "names": [
+   "Outlook-signatureI.png"
+  ],
+  "mime": "image/png",
+  "bytes": 5177,
+  "n": 6,
+  "first_msg": "c006113d9ba7a08c",
+  "x": "skip:image"
+ },
+ "eaf3672aee311712": {
+  "name": "Outlook-0ugdt2nj.png",
+  "names": [
+   "Outlook-0ugdt2nj.png",
+   "Outlook-r3mhf2cu.png"
+  ],
+  "mime": "image/png",
+  "bytes": 486844,
+  "n": 6,
+  "first_msg": "c006113d9ba7a08c",
+  "x": "ok",
+  "chars": 331,
+  "method": "pillow+tesseract"
+ },
+ "17d84148abff3a6a": {
+  "name": "3.jpg",
+  "names": [
+   "3.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 62289,
+  "n": 1,
+  "first_msg": "c006113d9ba7a08c",
+  "x": "skip:image"
+ },
+ "c5462210a83c3a02": {
+  "name": "1.png",
+  "names": [
+   "1.png"
+  ],
+  "mime": "image/png",
+  "bytes": 130330,
+  "n": 1,
+  "first_msg": "c006113d9ba7a08c",
+  "x": "ok",
+  "chars": 16,
+  "method": "pillow+tesseract"
+ },
+ "cea09b612b993b60": {
+  "name": "2.jpg",
+  "names": [
+   "2.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 74779,
+  "n": 1,
+  "first_msg": "c006113d9ba7a08c",
+  "x": "skip:image"
+ },
+ "0413b50f95327578": {
+  "name": "HT2500-PSE-BT60 Datasheet.pdf",
+  "names": [
+   "HT2500-PSE-BT60 Datasheet.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 641933,
+  "n": 1,
+  "first_msg": "9e11d7829cad23f3",
+  "x": "ok",
+  "chars": 901,
+  "method": "pdfplumber"
+ },
+ "78cc16b2cb62bcb4": {
+  "name": "Gaziantep_SW.txt",
+  "names": [
+   "Gaziantep_SW.txt"
+  ],
+  "mime": "text/plain",
+  "bytes": 2565,
+  "n": 2,
+  "first_msg": "2cba4ae871c4b152",
+  "x": "ok",
+  "chars": 2564,
+  "method": "text"
+ },
+ "1f3a36658e0378a8": {
+  "name": "Gaziantep_Details.txt",
+  "names": [
+   "Gaziantep_Details.txt"
+  ],
+  "mime": "text/plain",
+  "bytes": 67541,
+  "n": 2,
+  "first_msg": "2cba4ae871c4b152",
+  "x": "ok",
+  "chars": 67511,
+  "method": "text"
+ },
+ "295ade16061bab0c": {
+  "name": "Gaziantep_HighLevel_Network.pdf",
+  "names": [
+   "Gaziantep_HighLevel_Network.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 103603,
+  "n": 2,
+  "first_msg": "f6a7eed849e9aac6",
+  "x": "ok",
+  "chars": 1459,
+  "method": "pdfplumber"
+ },
+ "48ae9f17b7dec8b6": {
+  "name": "image001.png",
+  "names": [
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 458196,
+  "n": 14,
+  "first_msg": "b26aafe834fa3423",
+  "x": "ok",
+  "chars": 83,
+  "method": "pillow+tesseract"
+ },
+ "92281ee7b9ac9bea": {
+  "name": "image002.png",
+  "names": [
+   "image002.png"
+  ],
+  "mime": "image/png",
+  "bytes": 493771,
+  "n": 14,
+  "first_msg": "b26aafe834fa3423",
+  "x": "ok",
+  "chars": 144,
+  "method": "pillow+tesseract"
+ },
+ "5f93c2cd26d041c5": {
+  "name": "image003.png",
+  "names": [
+   "image003.png"
+  ],
+  "mime": "image/png",
+  "bytes": 54414,
+  "n": 14,
+  "first_msg": "b26aafe834fa3423",
+  "x": "skip:image"
+ },
+ "4f08a96adffdfb82": {
+  "name": "image004.png",
+  "names": [
+   "image004.png"
+  ],
+  "mime": "image/png",
+  "bytes": 157633,
+  "n": 14,
+  "first_msg": "b26aafe834fa3423",
+  "x": "ok",
+  "chars": 2083,
+  "method": "pillow+tesseract"
+ },
+ "11390001764a416a": {
+  "name": "image005.png",
+  "names": [
+   "image005.png"
+  ],
+  "mime": "image/png",
+  "bytes": 68997,
+  "n": 14,
+  "first_msg": "b26aafe834fa3423",
+  "x": "skip:image"
+ },
+ "ca616d4913d9ba04": {
+  "name": "IMG-20250728-WA0003.jpg",
+  "names": [
+   "IMG-20250728-WA0003.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 204565,
+  "n": 1,
+  "first_msg": "2c2282af0677f30a",
+  "x": "ok",
+  "chars": 229,
+  "method": "pillow+tesseract"
+ },
+ "f3defbe8fea3f4a5": {
+  "name": "log in problem.png",
+  "names": [
+   "log in problem.png"
+  ],
+  "mime": "image/png",
+  "bytes": 40092,
+  "n": 1,
+  "first_msg": "a39c837e568b25c4",
+  "x": "skip:image"
+ },
+ "63becd2147d4a122": {
+  "name": "24 fiber.jpeg",
+  "names": [
+   "24 fiber.jpeg",
+   "image001.jpg",
+   "image002.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 351618,
+  "n": 381,
+  "first_msg": "243ec12cb648c9fa",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "f43cdf61ffabc522": {
+  "name": "48 port.jpg",
+  "names": [
+   "48 port.jpg",
+   "image001.jpg",
+   "image002.jpg",
+   "image003.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 346936,
+  "n": 985,
+  "first_msg": "08fe828b2a31d85b",
+  "x": "ok",
+  "chars": 17,
+  "method": "pillow+tesseract"
+ },
+ "d54c5e94c1a2fb91": {
+  "name": "Outlook-48 port.jp.jpg",
+  "names": [
+   "Outlook-48 port.jp.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 125096,
+  "n": 3,
+  "first_msg": "e1fd8f4094de16bc",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "8b5b8abd8ea8425c": {
+  "name": "a UK sample order.png",
+  "names": [
+   "a UK sample order.png"
+  ],
+  "mime": "image/png",
+  "bytes": 139755,
+  "n": 1,
+  "first_msg": "d9911e2b978f6965",
+  "x": "ok",
+  "chars": 555,
+  "method": "pillow+tesseract"
+ },
+ "4d9c2ef1d2b5f8d5": {
+  "name": "STI-42424XGGPM-4BT.pdf",
+  "names": [
+   "STI-42424XGGPM-4BT.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 2526861,
+  "n": 1,
+  "first_msg": "d9911e2b978f6965",
+  "x": "ok",
+  "chars": 39019,
+  "method": "pdfplumber"
+ },
+ "06882c21b94baf56": {
+  "name": "Download Link_Simon.pdf",
+  "names": [
+   "Download Link_Simon.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 113701,
+  "n": 1,
+  "first_msg": "785f5e7be824e94b",
+  "x": "ok",
+  "chars": 1372,
+  "method": "pdfplumber"
+ },
+ "c1edba6060a2d5d8": {
+  "name": "testing port 2.jpg",
+  "names": [
+   "testing port 2.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 415563,
+  "n": 1,
+  "first_msg": "7070ed6c2bed4cf5",
+  "x": "ok",
+  "chars": 1368,
+  "method": "pillow+tesseract"
+ },
+ "3f0462a60af69954": {
+  "name": "-40 degree.jpg",
+  "names": [
+   "-40 degree.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 186374,
+  "n": 1,
+  "first_msg": "7070ed6c2bed4cf5",
+  "x": "ok",
+  "chars": 90,
+  "method": "pillow+tesseract"
+ },
+ "a9b5d42fe2817d61": {
+  "name": "+75 degree.jpg",
+  "names": [
+   "+75 degree.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 179055,
+  "n": 1,
+  "first_msg": "7070ed6c2bed4cf5",
+  "x": "ok",
+  "chars": 26,
+  "method": "pillow+tesseract"
+ },
+ "9b284f131ffcf0df": {
+  "name": "testing port 1.jpg",
+  "names": [
+   "testing port 1.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 330759,
+  "n": 1,
+  "first_msg": "7070ed6c2bed4cf5",
+  "x": "ok",
+  "chars": 1467,
+  "method": "pillow+tesseract"
+ },
+ "20d679aae6f168a2": {
+  "name": "Internal Testing Report.png",
+  "names": [
+   "Internal Testing Report.png"
+  ],
+  "mime": "image/png",
+  "bytes": 148361,
+  "n": 1,
+  "first_msg": "35fd4adb1fa985ed",
+  "x": "ok",
+  "chars": 2949,
+  "method": "pillow+tesseract"
+ },
+ "41872b21da58699e": {
+  "name": "Industrial Testing.jpg",
+  "names": [
+   "Industrial Testing.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 2989075,
+  "n": 1,
+  "first_msg": "35fd4adb1fa985ed",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "a14f2a4b23a065d1": {
+  "name": "Regular Testing.jpg",
+  "names": [
+   "Regular Testing.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 7720395,
+  "n": 1,
+  "first_msg": "35fd4adb1fa985ed",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "56f2c247e5411692": {
+  "name": "Alarm.png",
+  "names": [
+   "Alarm.png"
+  ],
+  "mime": "image/png",
+  "bytes": 693224,
+  "n": 21,
+  "first_msg": "e6fe4b841c97af17",
+  "x": "ok",
+  "chars": 6,
+  "method": "pillow+tesseract"
+ },
+ "73c8d222b54248e8": {
+  "name": "Screenshot 2025-07-24 at 14.19.06.png",
+  "names": [
+   "Screenshot 2025-07-24 at 14.19.06.png"
+  ],
+  "mime": "image/png",
+  "bytes": 24554,
+  "n": 2,
+  "first_msg": "d2b4d05e761d4d54",
+  "x": "skip:image"
+ },
+ "7f2af33007c21b21": {
+  "name": "Screenshot 2025-07-24 at 14.12.36.png",
+  "names": [
+   "Screenshot 2025-07-24 at 14.12.36.png"
+  ],
+  "mime": "image/png",
+  "bytes": 27796,
+  "n": 2,
+  "first_msg": "d2b4d05e761d4d54",
+  "x": "skip:image"
+ },
+ "16e754f6d61c25a7": {
+  "name": "Faulty Info.png",
+  "names": [
+   "Faulty Info.png"
+  ],
+  "mime": "image/png",
+  "bytes": 93869,
+  "n": 1,
+  "first_msg": "d2b4d05e761d4d54",
+  "x": "ok",
+  "chars": 278,
+  "method": "pillow+tesseract"
+ },
+ "84e53ab56ced4083": {
+  "name": "Wall Mounting.png",
+  "names": [
+   "Wall Mounting.png"
+  ],
+  "mime": "image/png",
+  "bytes": 450249,
+  "n": 1,
+  "first_msg": "6b3cb4da400627b6",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "f4492dafeec55341": {
+  "name": "STC-110GE.docx",
+  "names": [
+   "STC-110GE.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 4117624,
+  "n": 1,
+  "first_msg": "6b3cb4da400627b6",
+  "x": "ok",
+  "chars": 24712,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "92c8133c1bb84425": {
+  "name": "WeTransfer Info.png",
+  "names": [
+   "WeTransfer Info.png"
+  ],
+  "mime": "image/png",
+  "bytes": 32063,
+  "n": 1,
+  "first_msg": "7042263c4ea1f548",
+  "x": "skip:image"
+ },
+ "db7365acaebc0255": {
+  "name": "STSC20241219010.pdf",
+  "names": [
+   "STSC20241219010.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 357307,
+  "n": 1,
+  "first_msg": "b5fe3b80577ca4f4",
+  "x": "ok",
+  "chars": 3600,
+  "method": "pdfplumber"
+ },
+ "f42aa92be7abfeb0": {
+  "name": "4+8 PCB layout.dxf",
+  "names": [
+   "4+8 PCB layout.dxf"
+  ],
+  "mime": "application/octet-stream",
+  "bytes": 2808647,
+  "n": 1,
+  "first_msg": "b6ff69ce2b27817f",
+  "x": "ok",
+  "chars": 61,
+  "method": "ezdxf"
+ },
+ "2ab5567acf1e6de0": {
+  "name": "Agenda for WeChat meeting at 2025.docx",
+  "names": [
+   "Agenda for WeChat meeting at 2025.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 167293,
+  "n": 1,
+  "first_msg": "4fc6e434acac7852",
+  "x": "ok",
+  "chars": 10051,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "73170ccc0bb6e2f3": {
+  "name": "image001.png",
+  "names": [
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 13601,
+  "n": 2,
+  "first_msg": "57e6b38b6c3b72a7",
+  "x": "skip:image"
+ },
+ "bf1b27a66bbfed3f": {
+  "name": "image001.png",
+  "names": [
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 3794,
+  "n": 42,
+  "first_msg": "e46d34979ec9dbbf",
+  "x": "skip:image"
+ },
+ "5dac76c7b418ea2f": {
+  "name": "image002.jpg",
+  "names": [
+   "image002.jpg",
+   "image003.jpg",
+   "image004.jpg",
+   "image006.jpg",
+   "image012.jpg",
+   "image013.jpg",
+   "image007.jpg",
+   "image011.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 2385,
+  "n": 80,
+  "first_msg": "e46d34979ec9dbbf",
+  "x": "skip:image"
+ },
+ "0eb2c0b416f310a3": {
+  "name": "image004.png",
+  "names": [
+   "image004.png",
+   "image003.png",
+   "image014.png",
+   "image011.png",
+   "image010.png",
+   "image012.png",
+   "image009.png",
+   "image007.png"
+  ],
+  "mime": "image/png",
+  "bytes": 6209,
+  "n": 33,
+  "first_msg": "e46d34979ec9dbbf",
+  "x": "skip:image"
+ },
+ "1d6733b58a3df1a6": {
+  "name": "image003.jpg",
+  "names": [
+   "image003.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 24122,
+  "n": 2,
+  "first_msg": "894e2e7e3d6fd765",
+  "x": "skip:image"
+ },
+ "e3a09b6c88d132fa": {
+  "name": "image004.jpg",
+  "names": [
+   "image004.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 19068,
+  "n": 2,
+  "first_msg": "894e2e7e3d6fd765",
+  "x": "skip:image"
+ },
+ "f7b42bdf45d43a3f": {
+  "name": "image005.jpg",
+  "names": [
+   "image005.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 22564,
+  "n": 2,
+  "first_msg": "894e2e7e3d6fd765",
+  "x": "skip:image"
+ },
+ "4dc43671bfb8c53b": {
+  "name": "image007.jpg",
+  "names": [
+   "image007.jpg",
+   "image003.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 19062,
+  "n": 7,
+  "first_msg": "894e2e7e3d6fd765",
+  "x": "skip:image"
+ },
+ "5cab28bf9319efdd": {
+  "name": "image008.png",
+  "names": [
+   "image008.png",
+   "image005.png",
+   "image004.png"
+  ],
+  "mime": "image/png",
+  "bytes": 148536,
+  "n": 19,
+  "first_msg": "894e2e7e3d6fd765",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "64457f287722c8df": {
+  "name": "image009.jpg",
+  "names": [
+   "image009.jpg",
+   "image006.jpg",
+   "image005.jpg",
+   "image007.jpg",
+   "image003.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 22596,
+  "n": 24,
+  "first_msg": "894e2e7e3d6fd765",
+  "x": "skip:image"
+ },
+ "b1189dd2f8a90c73": {
+  "name": "image010.jpg",
+  "names": [
+   "image010.jpg",
+   "image007.jpg",
+   "image006.jpg",
+   "image008.jpg",
+   "image004.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 29327,
+  "n": 26,
+  "first_msg": "894e2e7e3d6fd765",
+  "x": "skip:image"
+ },
+ "c3fd7f1b3388c83b": {
+  "name": "image011.png",
+  "names": [
+   "image011.png",
+   "image008.png",
+   "image007.png",
+   "image009.png",
+   "image005.png"
+  ],
+  "mime": "image/png",
+  "bytes": 41465,
+  "n": 26,
+  "first_msg": "894e2e7e3d6fd765",
+  "x": "skip:image"
+ },
+ "91a4dfbe93a9660a": {
+  "name": "image012.png",
+  "names": [
+   "image012.png",
+   "image009.png",
+   "image008.png",
+   "image010.png",
+   "image006.png"
+  ],
+  "mime": "image/png",
+  "bytes": 39084,
+  "n": 26,
+  "first_msg": "894e2e7e3d6fd765",
+  "x": "skip:image"
+ },
+ "29e9f89936680e5f": {
+  "name": "image013.jpg",
+  "names": [
+   "image013.jpg",
+   "image010.jpg",
+   "image009.jpg",
+   "image011.jpg",
+   "image008.jpg",
+   "image012.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 9065,
+  "n": 26,
+  "first_msg": "894e2e7e3d6fd765",
+  "x": "skip:image"
+ },
+ "a74ccf2afc0d0ed8": {
+  "name": "front.png",
+  "names": [
+   "front.png"
+  ],
+  "mime": "image/png",
+  "bytes": 289196,
+  "n": 90,
+  "first_msg": "8f39021abeffa919",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "a94571715988ecc9": {
+  "name": "power converter.jpg",
+  "names": [
+   "power converter.jpg",
+   "image002.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 215016,
+  "n": 167,
+  "first_msg": "8f39021abeffa919",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "c33d8a3cac3f17f5": {
+  "name": "Full copper.png",
+  "names": [
+   "Full copper.png",
+   "image008.png",
+   "image005.png",
+   "image004.png",
+   "image003.png",
+   "With DIP.png"
+  ],
+  "mime": "image/png",
+  "bytes": 355430,
+  "n": 80,
+  "first_msg": "152a98c3eeefd6a2",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "7798212c15e10137": {
+  "name": "STI-488XGGPM.pdf",
+  "names": [
+   "STI-488XGGPM.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 725020,
+  "n": 1,
+  "first_msg": "80bdb8e0e1b5a1a5",
+  "x": "ok",
+  "chars": 11286,
+  "method": "pdfplumber"
+ },
+ "48e0534277e2909c": {
+  "name": "GUI.png",
+  "names": [
+   "GUI.png"
+  ],
+  "mime": "image/png",
+  "bytes": 138177,
+  "n": 2,
+  "first_msg": "da18da0b15e18a4d",
+  "x": "ok",
+  "chars": 440,
+  "method": "pillow+tesseract"
+ },
+ "3dc88c6e38b84a54": {
+  "name": "STI-480DGGM.docx",
+  "names": [
+   "STI-480DGGM.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 1218432,
+  "n": 1,
+  "first_msg": "7e7f4ea846102c34",
+  "x": "ok",
+  "chars": 11246,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "f11ad83f2dc9223e": {
+  "name": "Wechat.png",
+  "names": [
+   "Wechat.png"
+  ],
+  "mime": "image/png",
+  "bytes": 160068,
+  "n": 1,
+  "first_msg": "df06a53559b44e5b",
+  "x": "ok",
+  "chars": 203,
+  "method": "pillow+tesseract"
+ },
+ "07e51f5e3e6c25d9": {
+  "name": "With serial port.png",
+  "names": [
+   "With serial port.png"
+  ],
+  "mime": "image/png",
+  "bytes": 1903126,
+  "n": 1,
+  "first_msg": "df06a53559b44e5b",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "a5fc1452ff9debc1": {
+  "name": "STI-480XGGM.docx",
+  "names": [
+   "STI-480XGGM.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 331725,
+  "n": 1,
+  "first_msg": "df06a53559b44e5b",
+  "x": "ok",
+  "chars": 11302,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "c3fd7ca92138c6b4": {
+  "name": "24 port Din.png",
+  "names": [
+   "24 port Din.png",
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 354184,
+  "n": 79,
+  "first_msg": "dd6fe063a877b632",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "2547b8100da5fe09": {
+  "name": "STI-288DGGPM-2BT.docx",
+  "names": [
+   "STI-288DGGPM-2BT.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 1135233,
+  "n": 1,
+  "first_msg": "3b218a526f756a50",
+  "x": "ok",
+  "chars": 11882,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "22277436af10f63a": {
+  "name": "Marvell Based Web Manual.docx",
+  "names": [
+   "Marvell Based Web Manual.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 4274282,
+  "n": 1,
+  "first_msg": "3b218a526f756a50",
+  "x": "ok",
+  "chars": 133832,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "bb4fb46a69b470ce": {
+  "name": "CLI Manual.docx",
+  "names": [
+   "CLI Manual.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 2974126,
+  "n": 2,
+  "first_msg": "3b218a526f756a50",
+  "x": "ok",
+  "chars": 400017,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "db04f2f8e4d3e8c4": {
+  "name": "With serial port.png",
+  "names": [
+   "With serial port.png"
+  ],
+  "mime": "image/png",
+  "bytes": 193158,
+  "n": 95,
+  "first_msg": "1513ce33081ea56b",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "3dac3e74ea545d65": {
+  "name": "with serial port.png",
+  "names": [
+   "with serial port.png",
+   "image002.jpg"
+  ],
+  "mime": "image/png",
+  "bytes": 2345975,
+  "n": 58,
+  "first_msg": "c091677f02cc1298",
+  "x": "ok",
+  "chars": 50,
+  "method": "pillow+tesseract"
+ },
+ "f86521912c0d6fdc": {
+  "name": "STC-4248XGGCM.pdf",
+  "names": [
+   "STC-4248XGGCM.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 436676,
+  "n": 3,
+  "first_msg": "ed0b0240aced46af",
+  "x": "ok",
+  "chars": 12472,
+  "method": "pdfplumber"
+ },
+ "47b874df52a12848": {
+  "name": "STI-488XGGPM.pdf",
+  "names": [
+   "STI-488XGGPM.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 1216508,
+  "n": 1,
+  "first_msg": "9e70b92b05e06744",
+  "x": "ok",
+  "chars": 11312,
+  "method": "pdfplumber"
+ },
+ "1668716419d7d5a2": {
+  "name": "Marvell Based Web Manual.pdf",
+  "names": [
+   "Marvell Based Web Manual.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 3896638,
+  "n": 1,
+  "first_msg": "9e70b92b05e06744",
+  "x": "ok",
+  "chars": 141409,
+  "method": "pdfplumber"
+ },
+ "c182ad91ef36f29b": {
+  "name": "STI-244GP.pdf",
+  "names": [
+   "STI-244GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 455415,
+  "n": 5,
+  "first_msg": "ecd42fe9c6d284f2",
+  "x": "ok",
+  "chars": 9390,
+  "method": "pdfplumber"
+ },
+ "65ea5f92cb76f3c8": {
+  "name": "Din Power Adapter.pdf",
+  "names": [
+   "Din Power Adapter.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 191889,
+  "n": 1,
+  "first_msg": "7f64a092d8c12e8e",
+  "x": "ok",
+  "chars": 3038,
+  "method": "pdfplumber"
+ },
+ "7f9054c9be25c05f": {
+  "name": "240W.jpg",
+  "names": [
+   "240W.jpg",
+   "240W_48V.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 387934,
+  "n": 2,
+  "first_msg": "69cc09f10464e19a",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "62db03c763752dac": {
+  "name": "STI-PA-240W-48V5A.docx",
+  "names": [
+   "STI-PA-240W-48V5A.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 359803,
+  "n": 1,
+  "first_msg": "69cc09f10464e19a",
+  "x": "ok",
+  "chars": 7511,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "a132be3b93e7eb9b": {
+  "name": "DIN Power Adapter.pdf",
+  "names": [
+   "DIN Power Adapter.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 183424,
+  "n": 2,
+  "first_msg": "6290dd6c4299f317",
+  "x": "ok",
+  "chars": 1521,
+  "method": "pdfplumber"
+ },
+ "96c80f372a603572": {
+  "name": "STSC20250711007.pdf",
+  "names": [
+   "STSC20250711007.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 266973,
+  "n": 1,
+  "first_msg": "c8df9874e77ed794",
+  "x": "ok",
+  "chars": 3835,
+  "method": "pdfplumber"
+ },
+ "700b7f21601240e4": {
+  "name": "STI-288DGGPM drawing.ai",
+  "names": [
+   "STI-288DGGPM drawing.ai"
+  ],
+  "mime": "application/postscript",
+  "bytes": 1061207,
+  "n": 1,
+  "first_msg": "89adec2651947b16",
+  "x": "skip:type"
+ },
+ "249d581ead593b2f": {
+  "name": "User Manual_STSC20250619007.pdf",
+  "names": [
+   "User Manual_STSC20250619007.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 445202,
+  "n": 1,
+  "first_msg": "89adec2651947b16",
+  "x": "ok",
+  "chars": 5608,
+  "method": "pdfplumber"
+ },
+ "0b99455d53b95969": {
+  "name": "STI-288DGGPM drawing.dxf",
+  "names": [
+   "STI-288DGGPM drawing.dxf"
+  ],
+  "mime": "application/octet-stream",
+  "bytes": 18669884,
+  "n": 1,
+  "first_msg": "89adec2651947b16",
+  "x": "ok",
+  "chars": 442,
+  "method": "ezdxf"
+ },
+ "b6669b0f35c85a5d": {
+  "name": "STSC20250619007_R1.pdf",
+  "names": [
+   "STSC20250619007_R1.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 227651,
+  "n": 1,
+  "first_msg": "89adec2651947b16",
+  "x": "ok",
+  "chars": 3522,
+  "method": "pdfplumber"
+ },
+ "14917b5a204b39fc": {
+  "name": "STSC20250619007.pdf",
+  "names": [
+   "STSC20250619007.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 228028,
+  "n": 1,
+  "first_msg": "592827e48c9a5125",
+  "x": "ok",
+  "chars": 3529,
+  "method": "pdfplumber"
+ },
+ "7eac2c54288f089b": {
+  "name": "label confirmation.png",
+  "names": [
+   "label confirmation.png"
+  ],
+  "mime": "image/png",
+  "bytes": 192589,
+  "n": 1,
+  "first_msg": "7ee186c814975a7c",
+  "x": "ok",
+  "chars": 167,
+  "method": "pillow+tesseract"
+ },
+ "accea418714a12bc": {
+  "name": "STSC20250526007_R1.pdf",
+  "names": [
+   "STSC20250526007_R1.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 399932,
+  "n": 1,
+  "first_msg": "748c2f9a38396fc1",
+  "x": "ok",
+  "chars": 4192,
+  "method": "pdfplumber"
+ },
+ "d763f592d490ec26": {
+  "name": "PVCs.xlsx",
+  "names": [
+   "PVCs.xlsx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "bytes": 229100,
+  "n": 1,
+  "first_msg": "734f65965ce15fec",
+  "x": "ok",
+  "chars": 1003,
+  "method": "openpyxl(values)"
+ },
+ "9428a0858d26a924": {
+  "name": "STSC20250526007.pdf",
+  "names": [
+   "STSC20250526007.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 401043,
+  "n": 1,
+  "first_msg": "59459768a969a05b",
+  "x": "ok",
+  "chars": 4552,
+  "method": "pdfplumber"
+ },
+ "e982db0289b43fa1": {
+  "name": "48PX web gui.png",
+  "names": [
+   "48PX web gui.png"
+  ],
+  "mime": "image/png",
+  "bytes": 156485,
+  "n": 1,
+  "first_msg": "945ab8ff6e6ba833",
+  "x": "ok",
+  "chars": 835,
+  "method": "pillow+tesseract"
+ },
+ "1685510dcde9f956": {
+  "name": "24PX web gui.png",
+  "names": [
+   "24PX web gui.png"
+  ],
+  "mime": "image/png",
+  "bytes": 154551,
+  "n": 1,
+  "first_msg": "945ab8ff6e6ba833",
+  "x": "ok",
+  "chars": 764,
+  "method": "pillow+tesseract"
+ },
+ "122e39a56f5637cf": {
+  "name": "STSC20250507007_R1.pdf",
+  "names": [
+   "STSC20250507007_R1.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 399417,
+  "n": 1,
+  "first_msg": "bc5ffbb6d2fd04e9",
+  "x": "ok",
+  "chars": 3967,
+  "method": "pdfplumber"
+ },
+ "68693c404173a132": {
+  "name": "mac_address_block.xlsx",
+  "names": [
+   "mac_address_block.xlsx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "bytes": 26871,
+  "n": 1,
+  "first_msg": "fb075b46317664ca",
+  "x": "ok",
+  "chars": 28012,
+  "method": "openpyxl(values)"
+ },
+ "51e958461b0080c3": {
+  "name": "STSC20250507007.pdf",
+  "names": [
+   "STSC20250507007.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 399695,
+  "n": 1,
+  "first_msg": "8329a3320ece4195",
+  "x": "ok",
+  "chars": 3937,
+  "method": "pdfplumber"
+ },
+ "8af6e934829190e9": {
+  "name": "PC0012_Saga.7z",
+  "names": [
+   "PC0012_Saga.7z"
+  ],
+  "mime": "application/x-7z-compressed",
+  "bytes": 9269369,
+  "n": 1,
+  "first_msg": "e80a411fb4ad8b3b",
+  "x": "meta",
+  "chars": 0,
+  "method": "archive-extract"
+ },
+ "1a49ce837047c6ff": {
+  "name": "TT-kart-v1.jpeg",
+  "names": [
+   "TT-kart-v1.jpeg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 20085,
+  "n": 1,
+  "first_msg": "7504c277f2473030",
+  "x": "skip:image"
+ },
+ "226b99a939e389b5": {
+  "name": "TT-kart-v1.jpeg",
+  "names": [
+   "TT-kart-v1.jpeg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 55332,
+  "n": 4,
+  "first_msg": "3dfc40002841dbe1",
+  "x": "skip:image"
+ },
+ "233ff0f56c4a99de": {
+  "name": "STI-42424XGGPM-4BT.pdf",
+  "names": [
+   "STI-42424XGGPM-4BT.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 2526861,
+  "n": 1,
+  "first_msg": "d6394cf0f807b767",
+  "x": "ok",
+  "chars": 39019,
+  "method": "pdfplumber"
+ },
+ "59887ee994061fd5": {
+  "name": "White TRONX.psd",
+  "names": [
+   "White TRONX.psd"
+  ],
+  "mime": "image/vnd.adobe.photoshop",
+  "bytes": 166716,
+  "n": 1,
+  "first_msg": "ae0dc359b718bfa6",
+  "x": "skip:type"
+ },
+ "cea0c12e8d51edec": {
+  "name": "Black TRONX.psd",
+  "names": [
+   "Black TRONX.psd"
+  ],
+  "mime": "image/vnd.adobe.photoshop",
+  "bytes": 89340,
+  "n": 1,
+  "first_msg": "ae0dc359b718bfa6",
+  "x": "skip:type"
+ },
+ "68d716222e2c3dd6": {
+  "name": "Download Link.pdf",
+  "names": [
+   "Download Link.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 108874,
+  "n": 1,
+  "first_msg": "4e5f2868ed962aae",
+  "x": "ok",
+  "chars": 1201,
+  "method": "pdfplumber"
+ },
+ "0cd98d69869aaa7c": {
+  "name": "8296_image011(12-04-10-25-27).jpg",
+  "names": [
+   "8296_image011(12-04-10-25-27).jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 8296,
+  "n": 1,
+  "first_msg": "7ec0a1611c56b25b",
+  "x": "skip:image"
+ },
+ "2c4f780482aefd06": {
+  "name": "50464_image010(12-04-10-25-27).png",
+  "names": [
+   "50464_image010(12-04-10-25-27).png",
+   "image002.png"
+  ],
+  "mime": "image/png",
+  "bytes": 50464,
+  "n": 6,
+  "first_msg": "7ec0a1611c56b25b",
+  "x": "skip:image"
+ },
+ "d868538a7e5f832a": {
+  "name": "STI-288DGGPM.pdf",
+  "names": [
+   "STI-288DGGPM.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 2642550,
+  "n": 1,
+  "first_msg": "13c00bbc4cc5b9d8",
+  "x": "ok",
+  "chars": 38426,
+  "method": "pdfplumber"
+ },
+ "f33557de5963e2cc": {
+  "name": "tronx.png",
+  "names": [
+   "tronx.png"
+  ],
+  "mime": "image/png",
+  "bytes": 116370,
+  "n": 2,
+  "first_msg": "3670f15c2d7638cb",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "7af6c30affd8644e": {
+  "name": "Saga Software Function List-release 7.3.0.xlsx",
+  "names": [
+   "Saga Software Function List-release 7.3.0.xlsx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "bytes": 23619,
+  "n": 8,
+  "first_msg": "a35e54fd2ae25c76",
+  "x": "ok",
+  "chars": 5589,
+  "method": "openpyxl(values)"
+ },
+ "3ac9914649227cac": {
+  "name": "Wrong Info.png",
+  "names": [
+   "Wrong Info.png"
+  ],
+  "mime": "image/png",
+  "bytes": 47217,
+  "n": 1,
+  "first_msg": "f24924959ffe413d",
+  "x": "skip:image"
+ },
+ "66f353ce87860378": {
+  "name": "SWITCH-MIBS-release-7.3.0.docx",
+  "names": [
+   "SWITCH-MIBS-release-7.3.0.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 132474,
+  "n": 2,
+  "first_msg": "a5808b240a296dcd",
+  "x": "ok",
+  "chars": 61854,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "b8b0dff1b0ea4d03": {
+  "name": "Steps for upgrading.png",
+  "names": [
+   "Steps for upgrading.png"
+  ],
+  "mime": "image/png",
+  "bytes": 33187,
+  "n": 2,
+  "first_msg": "a40e89a2d8a38623",
+  "x": "skip:image"
+ },
+ "25b4aac11646ebbd": {
+  "name": "TT-2116-PG.zip",
+  "names": [
+   "TT-2116-PG.zip"
+  ],
+  "mime": "application/x-zip-compressed",
+  "bytes": 157783,
+  "n": 1,
+  "first_msg": "a40e89a2d8a38623",
+  "x": "ok",
+  "chars": 566,
+  "method": "archive-extract"
+ },
+ "edcbe4a00cc6fa19": {
+  "name": "STI-288DGGPM.pdf",
+  "names": [
+   "STI-288DGGPM.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 2642535,
+  "n": 1,
+  "first_msg": "8349d522fe9e29b9",
+  "x": "ok",
+  "chars": 38426,
+  "method": "pdfplumber"
+ },
+ "4002c06c2d9fddd2": {
+  "name": "RFQ 25RIM0412A01 SAGA TELECOM.pdf",
+  "names": [
+   "RFQ 25RIM0412A01 SAGA TELECOM.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 95163,
+  "n": 1,
+  "first_msg": "1e01efaca199d1d1",
+  "x": "ok",
+  "chars": 448,
+  "method": "pdfplumber"
+ },
+ "67ce51f12804c99c": {
+  "name": "AC input.png",
+  "names": [
+   "AC input.png"
+  ],
+  "mime": "image/png",
+  "bytes": 1174243,
+  "n": 1,
+  "first_msg": "dc47c9508a0f57ba",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "95d306b3e4dc0e54": {
+  "name": "product label confirmation.png",
+  "names": [
+   "product label confirmation.png"
+  ],
+  "mime": "image/png",
+  "bytes": 144883,
+  "n": 1,
+  "first_msg": "31fd458d7457f2f3",
+  "x": "ok",
+  "chars": 224,
+  "method": "pillow+tesseract"
+ },
+ "50c9101a7258f803": {
+  "name": "STSC20250228007_R3.pdf",
+  "names": [
+   "STSC20250228007_R3.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 400447,
+  "n": 1,
+  "first_msg": "0ed9b2ffeadbc422",
+  "x": "ok",
+  "chars": 4341,
+  "method": "pdfplumber"
+ },
+ "7a748b131d0fdd0a": {
+  "name": "PVC.png",
+  "names": [
+   "PVC.png"
+  ],
+  "mime": "image/png",
+  "bytes": 213633,
+  "n": 2,
+  "first_msg": "0ed9b2ffeadbc422",
+  "x": "ok",
+  "chars": 302,
+  "method": "pillow+tesseract"
+ },
+ "0fc0ebf24604f118": {
+  "name": "STSC20250228007_R2.pdf",
+  "names": [
+   "STSC20250228007_R2.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 399269,
+  "n": 1,
+  "first_msg": "3a39b0cb9c058053",
+  "x": "ok",
+  "chars": 3956,
+  "method": "pdfplumber"
+ },
+ "4ad6865e37cc4bf9": {
+  "name": "STC-424DGGPM-280W.docx",
+  "names": [
+   "STC-424DGGPM-280W.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 2274846,
+  "n": 1,
+  "first_msg": "c4891b91d7179df8",
+  "x": "ok",
+  "chars": 31233,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "52ca5e7018fffb97": {
+  "name": "Marvell Based CLI Manual.docx",
+  "names": [
+   "Marvell Based CLI Manual.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 2473356,
+  "n": 1,
+  "first_msg": "c4891b91d7179df8",
+  "x": "ok",
+  "chars": 370131,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "69dcdcf7d9e82654": {
+  "name": "Marvell Based Web Manual.docx",
+  "names": [
+   "Marvell Based Web Manual.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 4650717,
+  "n": 1,
+  "first_msg": "c4891b91d7179df8",
+  "x": "ok",
+  "chars": 147537,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "fa76854b646ebeba": {
+  "name": "YWC7GH3019VK.heic",
+  "names": [
+   "YWC7GH3019VK.heic"
+  ],
+  "mime": "application/octet-stream",
+  "bytes": 82984,
+  "n": 1,
+  "first_msg": "0f3cbb0049da348a",
+  "x": "skip:type"
+ },
+ "db6852054965313b": {
+  "name": "image001.png",
+  "names": [
+   "image001.png",
+   "image001(03-27-10-19-37).png",
+   "125528_C86DCC51@F0381D6(04-09-14-43-37).9EEF056600000000"
+  ],
+  "mime": "image/png",
+  "bytes": 125528,
+  "n": 6,
+  "first_msg": "631ff6c812b52b24",
+  "x": "ok",
+  "chars": 225,
+  "method": "pillow+tesseract"
+ },
+ "0afd7dfa7999b251": {
+  "name": "image002.png",
+  "names": [
+   "image002.png",
+   "image002(03-27-10-19-37).png",
+   "image002(03-26-20-05-30).png"
+  ],
+  "mime": "image/png",
+  "bytes": 3629,
+  "n": 6,
+  "first_msg": "631ff6c812b52b24",
+  "x": "skip:image"
+ },
+ "dc596f3da5a250e3": {
+  "name": "image003.png",
+  "names": [
+   "image003.png",
+   "image003(03-27-10-19-37).png",
+   "image001(03-26-20-05-30).png",
+   "image001.png",
+   "image002.png"
+  ],
+  "mime": "image/png",
+  "bytes": 7444,
+  "n": 14,
+  "first_msg": "631ff6c812b52b24",
+  "x": "skip:image"
+ },
+ "1a38495df3a57996": {
+  "name": "image004.png",
+  "names": [
+   "image004.png"
+  ],
+  "mime": "image/png",
+  "bytes": 8939,
+  "n": 2,
+  "first_msg": "631ff6c812b52b24",
+  "x": "skip:image"
+ },
+ "12c6afb6efaf8dfc": {
+  "name": "instruction.png",
+  "names": [
+   "instruction.png"
+  ],
+  "mime": "image/png",
+  "bytes": 48668,
+  "n": 1,
+  "first_msg": "631ff6c812b52b24",
+  "x": "skip:image"
+ },
+ "83ac564d497fc432": {
+  "name": "Link.png",
+  "names": [
+   "Link.png"
+  ],
+  "mime": "image/png",
+  "bytes": 40177,
+  "n": 1,
+  "first_msg": "631ff6c812b52b24",
+  "x": "skip:image"
+ },
+ "44019a215954c0fc": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "8f79a607c3cc831e",
+  "x": "skip:type"
+ },
+ "0c75d785eab4f928": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "c921dc47fd9370bb",
+  "x": "skip:type"
+ },
+ "35c728806330ef44": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "3b9394ece5faff28",
+  "x": "skip:type"
+ },
+ "03f325964fb6c963": {
+  "name": "Saga Internal MC Test Report_2025.3.22.docx",
+  "names": [
+   "Saga Internal MC Test Report_2025.3.22.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 2102307,
+  "n": 1,
+  "first_msg": "58de1a266cb6a22c",
+  "x": "ok",
+  "chars": 583,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "1b9c76de0c540437": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "6f52709a41c57f28",
+  "x": "skip:type"
+ },
+ "6a83bc08ce99f2d4": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "79da416338a002dc",
+  "x": "skip:type"
+ },
+ "2c316041d8e11794": {
+  "name": "test model.png",
+  "names": [
+   "test model.png"
+  ],
+  "mime": "image/png",
+  "bytes": 11626,
+  "n": 1,
+  "first_msg": "99e0642005ecf680",
+  "x": "skip:image"
+ },
+ "23d789b2e0c1d4b9": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "a4edddf91a111dc8",
+  "x": "skip:type"
+ },
+ "cf475c75df37f7c7": {
+  "name": "2B modified.png",
+  "names": [
+   "2B modified.png",
+   "Optical Bypass Feature.png"
+  ],
+  "mime": "image/png",
+  "bytes": 5223970,
+  "n": 2,
+  "first_msg": "ca69839de10ce56d",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "1425ffc55aed43f9": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "e6541a3a0f80bd49",
+  "x": "skip:type"
+ },
+ "68ffcca38dbf15e6": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "b69408d4fcf18fc4",
+  "x": "skip:type"
+ },
+ "e60c61d899a6bf35": {
+  "name": "SUBTEL-Ruijie-01-FB-02.png",
+  "names": [
+   "SUBTEL-Ruijie-01-FB-02.png"
+  ],
+  "mime": "image/png",
+  "bytes": 304038,
+  "n": 2,
+  "first_msg": "bd2eeaa24e59e461",
+  "x": "ok",
+  "chars": 816,
+  "method": "pillow+tesseract"
+ },
+ "53b016139ad81fa8": {
+  "name": "(unnamed multipart/related)",
+  "names": [
+   "(unnamed multipart/related)",
+   "(unnamed multipart/alternative)",
+   "(unnamed multipart/mixed)"
+  ],
+  "mime": "multipart/related",
+  "bytes": 31,
+  "n": 281,
+  "first_msg": "bb24853c5ae10ffa",
+  "x": "skip:type"
+ },
+ "7524ce2c235dd447": {
+  "name": "L3 PoE.txt",
+  "names": [
+   "L3 PoE.txt"
+  ],
+  "mime": "text/plain",
+  "bytes": 196,
+  "n": 1,
+  "first_msg": "c43e815bccfacde3",
+  "x": "ok",
+  "chars": 196,
+  "method": "text"
+ },
+ "3ffd2f5c0e506f54": {
+  "name": "A copy of reply.txt",
+  "names": [
+   "A copy of reply.txt"
+  ],
+  "mime": "text/plain",
+  "bytes": 1009,
+  "n": 1,
+  "first_msg": "d95fc4b414b50aa1",
+  "x": "ok",
+  "chars": 1005,
+  "method": "text"
+ },
+ "d834ce244c650ff6": {
+  "name": "154.png",
+  "names": [
+   "154.png",
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 390324,
+  "n": 887,
+  "first_msg": "c6d97acbe75e6497",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "ef8723f80eba85d7": {
+  "name": "24-port LAN.png",
+  "names": [
+   "24-port LAN.png"
+  ],
+  "mime": "image/png",
+  "bytes": 2386620,
+  "n": 1,
+  "first_msg": "11b69416af0bd514",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "4fc777b174f43135": {
+  "name": "Commercial  Invoice.xls",
+  "names": [
+   "Commercial  Invoice.xls"
+  ],
+  "mime": "application/vnd.ms-excel",
+  "bytes": 5907968,
+  "n": 1,
+  "first_msg": "4e7b89312cf4765e",
+  "x": "ok",
+  "chars": 3719,
+  "method": "xlrd"
+ },
+ "b3ce22a36bf8fd0f": {
+  "name": "PL_STSC20250117007.xls",
+  "names": [
+   "PL_STSC20250117007.xls"
+  ],
+  "mime": "application/vnd.ms-excel",
+  "bytes": 147968,
+  "n": 1,
+  "first_msg": "204feb23b0485d53",
+  "x": "ok",
+  "chars": 895,
+  "method": "xlrd"
+ },
+ "a704eeaa86773ae2": {
+  "name": "Shipping Label.jpg",
+  "names": [
+   "Shipping Label.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 4982802,
+  "n": 1,
+  "first_msg": "204feb23b0485d53",
+  "x": "ok",
+  "chars": 36,
+  "method": "pillow+tesseract"
+ },
+ "a44b07c6820ebf58": {
+  "name": "STSC20250228007_R1.pdf",
+  "names": [
+   "STSC20250228007_R1.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 399256,
+  "n": 1,
+  "first_msg": "426f575973930983",
+  "x": "ok",
+  "chars": 3953,
+  "method": "pdfplumber"
+ },
+ "7708dde42436ebc9": {
+  "name": "4.mp4",
+  "names": [
+   "4.mp4"
+  ],
+  "mime": "video/mp4",
+  "bytes": 335461,
+  "n": 1,
+  "first_msg": "a679a8a09ced53b3",
+  "x": "skip:type"
+ },
+ "e5a00f5ec9374c84": {
+  "name": "3.mp4",
+  "names": [
+   "3.mp4"
+  ],
+  "mime": "video/mp4",
+  "bytes": 1325474,
+  "n": 1,
+  "first_msg": "a679a8a09ced53b3",
+  "x": "skip:type"
+ },
+ "e0de41f8a9ce8001": {
+  "name": "1.mp4",
+  "names": [
+   "1.mp4"
+  ],
+  "mime": "video/mp4",
+  "bytes": 2054593,
+  "n": 1,
+  "first_msg": "a679a8a09ced53b3",
+  "x": "skip:type"
+ },
+ "ac4b00f2314e7e85": {
+  "name": "2.mp4",
+  "names": [
+   "2.mp4"
+  ],
+  "mime": "video/mp4",
+  "bytes": 6889159,
+  "n": 1,
+  "first_msg": "a679a8a09ced53b3",
+  "x": "skip:type"
+ },
+ "ec3829cd2b9e4b91": {
+  "name": "STSC20250228007.pdf",
+  "names": [
+   "STSC20250228007.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 398364,
+  "n": 1,
+  "first_msg": "a679a8a09ced53b3",
+  "x": "ok",
+  "chars": 3779,
+  "method": "pdfplumber"
+ },
+ "133d1425d32f8567": {
+  "name": "final packing box format.jpg",
+  "names": [
+   "final packing box format.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 378577,
+  "n": 1,
+  "first_msg": "4ed57708b5426b46",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "6266fd156edd6660": {
+  "name": "shipping label.png",
+  "names": [
+   "shipping label.png"
+  ],
+  "mime": "image/png",
+  "bytes": 14068,
+  "n": 1,
+  "first_msg": "ff7b16375f92a3ca",
+  "x": "skip:image"
+ },
+ "6b9b981a8b2e9ae2": {
+  "name": "prodcut label.png",
+  "names": [
+   "prodcut label.png"
+  ],
+  "mime": "image/png",
+  "bytes": 31011,
+  "n": 1,
+  "first_msg": "ff7b16375f92a3ca",
+  "x": "skip:image"
+ },
+ "94520b1afe35ec40": {
+  "name": "inside.jpg",
+  "names": [
+   "inside.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 6489061,
+  "n": 1,
+  "first_msg": "5cca1350744ee671",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "920be8d4716c1cd1": {
+  "name": "outside.jpg",
+  "names": [
+   "outside.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 6567322,
+  "n": 1,
+  "first_msg": "5cca1350744ee671",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "750832d76b58d64d": {
+  "name": "packing box design.png",
+  "names": [
+   "packing box design.png"
+  ],
+  "mime": "image/png",
+  "bytes": 59117,
+  "n": 1,
+  "first_msg": "d7cd27e65e4e4d8e",
+  "x": "skip:image"
+ },
+ "e069ec41a81b096d": {
+  "name": "logo on the outside.jpg",
+  "names": [
+   "logo on the outside.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 8848449,
+  "n": 1,
+  "first_msg": "d7cd27e65e4e4d8e",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "690e82808da4a070": {
+  "name": "STSC20250117007.pdf",
+  "names": [
+   "STSC20250117007.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 250180,
+  "n": 1,
+  "first_msg": "96fb5ba95be8ecb2",
+  "x": "ok",
+  "chars": 4424,
+  "method": "pdfplumber"
+ },
+ "3561e84b6f07f68b": {
+  "name": "Info to be provided-Angora.docx",
+  "names": [
+   "Info to be provided-Angora.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 2978882,
+  "n": 1,
+  "first_msg": "a8d75ebe3c8ae637",
+  "x": "ok",
+  "chars": 1866,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "6161569f73e064cf": {
+  "name": "Quotation_176pcs Industrial switch&power adapter.pdf",
+  "names": [
+   "Quotation_176pcs Industrial switch&power adapter.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 132110,
+  "n": 2,
+  "first_msg": "4fbcb8b0b99f4188",
+  "x": "ok",
+  "chars": 2474,
+  "method": "pdfplumber"
+ },
+ "6d2671a360472568": {
+  "name": "Reply on 174 pieces of ANW-2116-PG-ANW.docx",
+  "names": [
+   "Reply on 174 pieces of ANW-2116-PG-ANW.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 24775,
+  "n": 1,
+  "first_msg": "226dc50183a7ad44",
+  "x": "ok",
+  "chars": 4422,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "f23d5e7bb3bdf48e": {
+  "name": "Reply on 174 pieces of ANW-2116-PG-ANW.docx",
+  "names": [
+   "Reply on 174 pieces of ANW-2116-PG-ANW.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 27361,
+  "n": 1,
+  "first_msg": "647d76e7daa1ee7f",
+  "x": "ok",
+  "chars": 3107,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "8201390b47f230ac": {
+  "name": "Reply on 174 pieces of ANW-2116-PG.docx",
+  "names": [
+   "Reply on 174 pieces of ANW-2116-PG.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 23245,
+  "n": 1,
+  "first_msg": "0f60a2fed6532cf0",
+  "x": "ok",
+  "chars": 2079,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "ceb705852975ba48": {
+  "name": "Model 1.jpg",
+  "names": [
+   "Model 1.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 427286,
+  "n": 1,
+  "first_msg": "eb80eea25e1a3bb5",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "94354bd15520f21f": {
+  "name": "Model 2.png",
+  "names": [
+   "Model 2.png"
+  ],
+  "mime": "image/png",
+  "bytes": 291512,
+  "n": 1,
+  "first_msg": "eb80eea25e1a3bb5",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "190c596a066f920e": {
+  "name": "STH-2C24XF.jpg",
+  "names": [
+   "STH-2C24XF.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 122193,
+  "n": 1,
+  "first_msg": "f6d6159512661dd7",
+  "x": "ok",
+  "chars": 86,
+  "method": "pillow+tesseract"
+ },
+ "32840d797585b1f0": {
+  "name": "STH-2C12XF12XE.jpg",
+  "names": [
+   "STH-2C12XF12XE.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 121588,
+  "n": 1,
+  "first_msg": "f6d6159512661dd7",
+  "x": "ok",
+  "chars": 118,
+  "method": "pillow+tesseract"
+ },
+ "5dd0d68726d864d7": {
+  "name": "STC-4816XGCGM.docx",
+  "names": [
+   "STC-4816XGCGM.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 620956,
+  "n": 1,
+  "first_msg": "eed0d4c132d940c8",
+  "x": "ok",
+  "chars": 24023,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "034ff650d14768c1": {
+  "name": "Dual Input.jpg",
+  "names": [
+   "Dual Input.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 4037250,
+  "n": 1,
+  "first_msg": "eed0d4c132d940c8",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "9b8e18e7346cae09": {
+  "name": "industrial grade.png",
+  "names": [
+   "industrial grade.png"
+  ],
+  "mime": "image/png",
+  "bytes": 4173490,
+  "n": 1,
+  "first_msg": "eed0d4c132d940c8",
+  "x": "ok",
+  "chars": 70,
+  "method": "pillow+tesseract"
+ },
+ "c75a12aea5e4579c": {
+  "name": "Customization before log-in.jpg",
+  "names": [
+   "Customization before log-in.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 63925,
+  "n": 6,
+  "first_msg": "dc9e99165ea41d89",
+  "x": "skip:image"
+ },
+ "ed167a601051e4e9": {
+  "name": "Marvell Based CLI Manual.docx",
+  "names": [
+   "Marvell Based CLI Manual.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 2472183,
+  "n": 7,
+  "first_msg": "dc9e99165ea41d89",
+  "x": "ok",
+  "chars": 370107,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "261cdb44571907ec": {
+  "name": "Marvell Based Web Manual.docx",
+  "names": [
+   "Marvell Based Web Manual.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 4650706,
+  "n": 7,
+  "first_msg": "dc9e99165ea41d89",
+  "x": "ok",
+  "chars": 147513,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "a12e43d59cf35a4c": {
+  "name": "STC-448XGGPM.docx",
+  "names": [
+   "STC-448XGGPM.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 619311,
+  "n": 3,
+  "first_msg": "dc9e99165ea41d89",
+  "x": "ok",
+  "chars": 24435,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "aaa422401672d0f7": {
+  "name": "Marvell Series.jpg",
+  "names": [
+   "Marvell Series.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 2025903,
+  "n": 1,
+  "first_msg": "dc9e99165ea41d89",
+  "x": "ok",
+  "chars": 312,
+  "method": "pillow+tesseract"
+ },
+ "94bc190508a04a72": {
+  "name": "DCN web gui.png",
+  "names": [
+   "DCN web gui.png"
+  ],
+  "mime": "image/png",
+  "bytes": 132752,
+  "n": 1,
+  "first_msg": "f113dcc6c80eded4",
+  "x": "ok",
+  "chars": 679,
+  "method": "pillow+tesseract"
+ },
+ "bde22426cd0f36ad": {
+  "name": "Saga reply on Turk_Telekom_Test_Items.xlsx",
+  "names": [
+   "Saga reply on Turk_Telekom_Test_Items.xlsx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "bytes": 13226,
+  "n": 1,
+  "first_msg": "e00a8ece71274aaf",
+  "x": "ok",
+  "chars": 1936,
+  "method": "openpyxl(values)"
+ },
+ "652dbe07898c67ae": {
+  "name": "Saga Software Function List-release 7.3.0.xlsx",
+  "names": [
+   "Saga Software Function List-release 7.3.0.xlsx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "bytes": 23502,
+  "n": 1,
+  "first_msg": "e00a8ece71274aaf",
+  "x": "ok",
+  "chars": 5589,
+  "method": "openpyxl(values)"
+ },
+ "5d9d41e053f7f551": {
+  "name": "TT-2208-TG.zip",
+  "names": [
+   "TT-2208-TG.zip"
+  ],
+  "mime": "application/x-zip-compressed",
+  "bytes": 157858,
+  "n": 1,
+  "first_msg": "f93b1b10dd63be2f",
+  "x": "ok",
+  "chars": 317,
+  "method": "archive-extract"
+ },
+ "66006aa5079c5108": {
+  "name": "Turk_Telekom_Test_Items.xlsx",
+  "names": [
+   "Turk_Telekom_Test_Items.xlsx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "bytes": 12759,
+  "n": 1,
+  "first_msg": "ca5b8bf22de86f3c",
+  "x": "ok",
+  "chars": 1540,
+  "method": "openpyxl(values)"
+ },
+ "0791d2297f9b7de9": {
+  "name": "Before log-in.png",
+  "names": [
+   "Before log-in.png"
+  ],
+  "mime": "image/png",
+  "bytes": 28076,
+  "n": 1,
+  "first_msg": "cea07b14bca21616",
+  "x": "skip:image"
+ },
+ "6b5c1f7ffba0532d": {
+  "name": "After log-in.png",
+  "names": [
+   "After log-in.png"
+  ],
+  "mime": "image/png",
+  "bytes": 77118,
+  "n": 1,
+  "first_msg": "cea07b14bca21616",
+  "x": "skip:image"
+ },
+ "1c34e96cf9b88f4a": {
+  "name": "Turk Telekom Logo 3.zip",
+  "names": [
+   "Turk Telekom Logo 3.zip"
+  ],
+  "mime": "application/zip",
+  "bytes": 2671468,
+  "n": 1,
+  "first_msg": "052e080125255c9b",
+  "x": "ok",
+  "chars": 400018,
+  "method": "archive-extract"
+ },
+ "a3d256d40bf1c38d": {
+  "name": "Reply on RFP 2024.12.10.docx",
+  "names": [
+   "Reply on RFP 2024.12.10.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 1395625,
+  "n": 1,
+  "first_msg": "64197ab49e8d0ab0",
+  "x": "ok",
+  "chars": 2654,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "9d1fef4ed8abeaa3": {
+  "name": "icon.png",
+  "names": [
+   "icon.png"
+  ],
+  "mime": "image/png",
+  "bytes": 4663,
+  "n": 34,
+  "first_msg": "5d08eb19539bfdaf",
+  "x": "skip:image"
+ },
+ "96d6784124f18587": {
+  "name": "image002.png",
+  "names": [
+   "image002.png"
+  ],
+  "mime": "image/png",
+  "bytes": 1304,
+  "n": 1,
+  "first_msg": "aa47c68cb303365e",
+  "x": "skip:image"
+ },
+ "569d1a507940deae": {
+  "name": "image003.png",
+  "names": [
+   "image003.png"
+  ],
+  "mime": "image/png",
+  "bytes": 990,
+  "n": 1,
+  "first_msg": "aa47c68cb303365e",
+  "x": "skip:image"
+ },
+ "9001e74cb6953fb4": {
+  "name": "image004.png",
+  "names": [
+   "image004.png"
+  ],
+  "mime": "image/png",
+  "bytes": 459,
+  "n": 1,
+  "first_msg": "aa47c68cb303365e",
+  "x": "skip:image"
+ },
+ "36cc570f937c6cc7": {
+  "name": "image005.png",
+  "names": [
+   "image005.png"
+  ],
+  "mime": "image/png",
+  "bytes": 932,
+  "n": 1,
+  "first_msg": "aa47c68cb303365e",
+  "x": "skip:image"
+ },
+ "44f3310af7b42664": {
+  "name": "image001.png",
+  "names": [
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 6074,
+  "n": 2,
+  "first_msg": "d0cedc0a81dda002",
+  "x": "skip:image"
+ },
+ "d5af10f933fa55cc": {
+  "name": "image002.png",
+  "names": [
+   "image002.png"
+  ],
+  "mime": "image/png",
+  "bytes": 354510,
+  "n": 2,
+  "first_msg": "d0cedc0a81dda002",
+  "x": "ok",
+  "chars": 259,
+  "method": "pillow+tesseract"
+ },
+ "fdc79b8fbfa9e040": {
+  "name": "STI-222GP.pdf",
+  "names": [
+   "STI-222GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 928685,
+  "n": 1,
+  "first_msg": "05b51bd103cc66ea",
+  "x": "ok",
+  "chars": 25018,
+  "method": "pdfplumber"
+ },
+ "feb7bc0206753f95": {
+  "name": "STI-0160GE.pdf",
+  "names": [
+   "STI-0160GE.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 782697,
+  "n": 1,
+  "first_msg": "98bfe2d29f2c15fe",
+  "x": "ok",
+  "chars": 22393,
+  "method": "pdfplumber"
+ },
+ "bf363a04958cdda3": {
+  "name": "Sublime - Teltonika Certification Level 1 - 2.png",
+  "names": [
+   "Sublime - Teltonika Certification Level 1 - 2.png"
+  ],
+  "mime": "image/png",
+  "bytes": 899702,
+  "n": 1,
+  "first_msg": "e673d63335756990",
+  "x": "ok",
+  "chars": 1008,
+  "method": "pillow+tesseract"
+ },
+ "695affb3932e7f4a": {
+  "name": "front.png",
+  "names": [
+   "front.png",
+   "image002.png",
+   "image003.png"
+  ],
+  "mime": "image/png",
+  "bytes": 342568,
+  "n": 439,
+  "first_msg": "96dd6befb13ab337",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "3737da577266147a": {
+  "name": "Quotation.pdf",
+  "names": [
+   "Quotation.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 172966,
+  "n": 1,
+  "first_msg": "96dd6befb13ab337",
+  "x": "ok",
+  "chars": 2101,
+  "method": "pdfplumber"
+ },
+ "8fd8b593e44a7cc1": {
+  "name": "STI-080FE.docx",
+  "names": [
+   "STI-080FE.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 1619844,
+  "n": 1,
+  "first_msg": "96dd6befb13ab337",
+  "x": "ok",
+  "chars": 19712,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "c76fc809dfb9468c": {
+  "name": "STI-088FP.docx",
+  "names": [
+   "STI-088FP.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 2946049,
+  "n": 1,
+  "first_msg": "96dd6befb13ab337",
+  "x": "ok",
+  "chars": 22065,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "fa961ed0adea1d6a": {
+  "name": "Quotation.pdf",
+  "names": [
+   "Quotation.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 165652,
+  "n": 1,
+  "first_msg": "97abd397ae670272",
+  "x": "ok",
+  "chars": 2147,
+  "method": "pdfplumber"
+ },
+ "08082e7624aefc2c": {
+  "name": "STI-280GE.docx",
+  "names": [
+   "STI-280GE.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 2803352,
+  "n": 1,
+  "first_msg": "97abd397ae670272",
+  "x": "ok",
+  "chars": 20842,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "d2155c9075d6aaf9": {
+  "name": "STI-288GP.docx",
+  "names": [
+   "STI-288GP.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 4245186,
+  "n": 1,
+  "first_msg": "97abd397ae670272",
+  "x": "ok",
+  "chars": 23105,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "7a62f8f9c273640d": {
+  "name": "STC-4168XGGCM.docx",
+  "names": [
+   "STC-4168XGGCM.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 708376,
+  "n": 2,
+  "first_msg": "105e03e3cf1155f3",
+  "x": "ok",
+  "chars": 23604,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "79a0e6e956d5c635": {
+  "name": "winmail.dat",
+  "names": [
+   "winmail.dat"
+  ],
+  "mime": "application/ms-tnef",
+  "bytes": 435851,
+  "n": 1,
+  "first_msg": "b591a174013b884b",
+  "x": "skip:type"
+ },
+ "4cba85c11f3a1e5d": {
+  "name": "2+4 web.png",
+  "names": [
+   "2+4 web.png",
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 252600,
+  "n": 305,
+  "first_msg": "c0cf197dfa0721b5",
+  "x": "ok",
+  "chars": 98,
+  "method": "pillow+tesseract"
+ },
+ "ad1282f7b853cc84": {
+  "name": "2.5G Ethernet.jpg",
+  "names": [
+   "2.5G Ethernet.jpg",
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 146894,
+  "n": 384,
+  "first_msg": "33b6f6c0e0e27da4",
+  "x": "ok",
+  "chars": 64,
+  "method": "pillow+tesseract"
+ },
+ "9382780144c25b8c": {
+  "name": "PROFILE.pdf",
+  "names": [
+   "PROFILE.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 4294248,
+  "n": 3,
+  "first_msg": "27d005cda6b7196c",
+  "x": "ok",
+  "chars": 62766,
+  "method": "pdfplumber"
+ },
+ "a210dcffb6c242e7": {
+  "name": "image001.jpg",
+  "names": [
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 351619,
+  "n": 3,
+  "first_msg": "9c1d2784c118640c",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "d33965b5e41de154": {
+  "name": "Shipping status.png",
+  "names": [
+   "Shipping status.png"
+  ],
+  "mime": "image/png",
+  "bytes": 27430,
+  "n": 1,
+  "first_msg": "02fac3b2c3dc9ad0",
+  "x": "skip:image"
+ },
+ "f8899bd0f9cfcb2a": {
+  "name": "24 port Ethernet.png",
+  "names": [
+   "24 port Ethernet.png"
+  ],
+  "mime": "image/png",
+  "bytes": 146801,
+  "n": 1,
+  "first_msg": "784b8b635c74ea46",
+  "x": "ok",
+  "chars": 736,
+  "method": "pillow+tesseract"
+ },
+ "0de1d3d72a3b7ad5": {
+  "name": "24 port Fiber.png",
+  "names": [
+   "24 port Fiber.png"
+  ],
+  "mime": "image/png",
+  "bytes": 150341,
+  "n": 1,
+  "first_msg": "784b8b635c74ea46",
+  "x": "ok",
+  "chars": 726,
+  "method": "pillow+tesseract"
+ },
+ "56c0254254c5840b": {
+  "name": "Dual ac input.jpg",
+  "names": [
+   "Dual ac input.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 721016,
+  "n": 1,
+  "first_msg": "784b8b635c74ea46",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "7e73db45c41481a9": {
+  "name": "Quotation_10G Media Converter.pdf",
+  "names": [
+   "Quotation_10G Media Converter.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 126328,
+  "n": 1,
+  "first_msg": "31a797db59595305",
+  "x": "ok",
+  "chars": 1609,
+  "method": "pdfplumber"
+ },
+ "8f4034e975d94008": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "8955dbc10895a87f",
+  "x": "skip:type"
+ },
+ "39fd3d0e0ec05722": {
+  "name": "STC-110XGE.pdf",
+  "names": [
+   "STC-110XGE.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 399724,
+  "n": 1,
+  "first_msg": "92e8ba6107a049f2",
+  "x": "ok",
+  "chars": 19420,
+  "method": "pdfplumber"
+ },
+ "066385725feaf7cc": {
+  "name": "INVOICE STSC20241121015 Protokoll.pdf",
+  "names": [
+   "INVOICE STSC20241121015 Protokoll.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 190321,
+  "n": 1,
+  "first_msg": "550c583892bee00e",
+  "x": "ok",
+  "chars": 509,
+  "method": "pdfplumber"
+ },
+ "295b7489146474b0": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "550c583892bee00e",
+  "x": "skip:type"
+ },
+ "9e13591a0feec40c": {
+  "name": "STSC20241121015.pdf",
+  "names": [
+   "STSC20241121015.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 294708,
+  "n": 1,
+  "first_msg": "712568b0182ce0a5",
+  "x": "ok",
+  "chars": 2978,
+  "method": "pdfplumber"
+ },
+ "a4f2507dc3f76278": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "0ff5029dc9b104bb",
+  "x": "skip:type"
+ },
+ "5ac59964893d7d86": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "aa2f0df9e1b26eee",
+  "x": "skip:type"
+ },
+ "998cd90b4e28bdad": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "efebdbab211ca5a4",
+  "x": "skip:type"
+ },
+ "686fe50a4a863c9e": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "74aac1949ef29187",
+  "x": "skip:type"
+ },
+ "af757ac42c6f39f1": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "bb48b4bc9c0ee4fc",
+  "x": "skip:type"
+ },
+ "192d593f4912f076": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "2c73370ad9f9cefb",
+  "x": "skip:type"
+ },
+ "593b7520f47a6cc4": {
+  "name": "Quotation.pdf",
+  "names": [
+   "Quotation.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 481320,
+  "n": 1,
+  "first_msg": "9d430f23097281f2",
+  "x": "ok",
+  "chars": 3019,
+  "method": "pdfplumber"
+ },
+ "6177a7196d7c166a": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "72bbfb66a5dc2115",
+  "x": "skip:type"
+ },
+ "f03df5923035b717": {
+  "name": "STC-424XGGM.docx",
+  "names": [
+   "STC-424XGGM.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 1142547,
+  "n": 1,
+  "first_msg": "c6754c96142b8972",
+  "x": "ok",
+  "chars": 23563,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "e02a443bd043cf38": {
+  "name": "STC-448XGGM.docx",
+  "names": [
+   "STC-448XGGM.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 630706,
+  "n": 1,
+  "first_msg": "c6754c96142b8972",
+  "x": "ok",
+  "chars": 23563,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "ac170f6745b4fbb3": {
+  "name": "STC-448XGGMO.docx",
+  "names": [
+   "STC-448XGGMO.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 625756,
+  "n": 1,
+  "first_msg": "c6754c96142b8972",
+  "x": "ok",
+  "chars": 23668,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "d2e0b6116263fd01": {
+  "name": "STC-4168XGGCM.docx",
+  "names": [
+   "STC-4168XGGCM.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 709725,
+  "n": 1,
+  "first_msg": "c6754c96142b8972",
+  "x": "ok",
+  "chars": 23996,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "5ef885e0b51b397d": {
+  "name": "smime.p7s",
+  "names": [
+   "smime.p7s"
+  ],
+  "mime": "application/pkcs7-signature",
+  "bytes": 7058,
+  "n": 1,
+  "first_msg": "709eb72c74251c3c",
+  "x": "skip:type"
+ },
+ "8de09ae19851b985": {
+  "name": "image001.png",
+  "names": [
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 35869,
+  "n": 7,
+  "first_msg": "9dc0cf876d4cafcf",
+  "x": "skip:image"
+ },
+ "6b9070ee2a87c877": {
+  "name": "STI-4168XGGCM-U.docx",
+  "names": [
+   "STI-4168XGGCM-U.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 896068,
+  "n": 1,
+  "first_msg": "d7c3fc6a4618d648",
+  "x": "ok",
+  "chars": 21833,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "1563d76926922f45": {
+  "name": "with serial port.jpg",
+  "names": [
+   "with serial port.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 2818348,
+  "n": 1,
+  "first_msg": "7e5de4e309f0d7ca",
+  "x": "ok",
+  "chars": 61,
+  "method": "pillow+tesseract"
+ },
+ "dedd34c1058f6b34": {
+  "name": "8+12-serial.jpg",
+  "names": [
+   "8+12-serial.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 2366104,
+  "n": 1,
+  "first_msg": "0be01d688461e736",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "de15070c8c4d5df9": {
+  "name": "STI-222GP.pdf",
+  "names": [
+   "STI-222GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 928685,
+  "n": 1,
+  "first_msg": "347a1cb99eeabbb1",
+  "x": "ok",
+  "chars": 25018,
+  "method": "pdfplumber"
+ },
+ "53c9aca24addcfb5": {
+  "name": "MC1400 printing.jpg",
+  "names": [
+   "MC1400 printing.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 3331719,
+  "n": 1,
+  "first_msg": "a339fb00d29df884",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "182033d9af821f5c": {
+  "name": "MC10G printing.jpg",
+  "names": [
+   "MC10G printing.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 4013272,
+  "n": 1,
+  "first_msg": "a339fb00d29df884",
+  "x": "ok",
+  "chars": 80,
+  "method": "pillow+tesseract"
+ },
+ "ff56fa2774bef21b": {
+  "name": "MC Logos.vsd",
+  "names": [
+   "MC Logos.vsd"
+  ],
+  "mime": "application/vnd.ms-office",
+  "bytes": 503808,
+  "n": 1,
+  "first_msg": "f1c3a3c11abedbfc",
+  "x": "skip:type"
+ },
+ "9ce335b3105446d3": {
+  "name": "MC10G.jpg",
+  "names": [
+   "MC10G.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 74301,
+  "n": 1,
+  "first_msg": "c42b730eadf0bfa6",
+  "x": "skip:image"
+ },
+ "36f664853a48a32c": {
+  "name": "MC1400.jpg",
+  "names": [
+   "MC1400.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 109380,
+  "n": 1,
+  "first_msg": "c42b730eadf0bfa6",
+  "x": "ok",
+  "chars": 175,
+  "method": "pillow+tesseract"
+ },
+ "4ccddd03042def4a": {
+  "name": "Confirmation.jpg",
+  "names": [
+   "Confirmation.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 320811,
+  "n": 1,
+  "first_msg": "5421b6cec88fe6fc",
+  "x": "ok",
+  "chars": 116,
+  "method": "pillow+tesseract"
+ },
+ "fc49c8f156dc0d1d": {
+  "name": "Vi-Link Logo MC10G-1.jpg",
+  "names": [
+   "Vi-Link Logo MC10G-1.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 492794,
+  "n": 1,
+  "first_msg": "5067db790ccae30d",
+  "x": "ok",
+  "chars": 91,
+  "method": "pillow+tesseract"
+ },
+ "bfa777812fe05178": {
+  "name": "STSC20241119006.pdf",
+  "names": [
+   "STSC20241119006.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 129018,
+  "n": 1,
+  "first_msg": "d0fec7737e2a5743",
+  "x": "ok",
+  "chars": 3051,
+  "method": "pdfplumber"
+ },
+ "4f30fcac978abee9": {
+  "name": "Below part.png",
+  "names": [
+   "Below part.png"
+  ],
+  "mime": "image/png",
+  "bytes": 920799,
+  "n": 1,
+  "first_msg": "d0fec7737e2a5743",
+  "x": "ok",
+  "chars": 28,
+  "method": "pillow+tesseract"
+ },
+ "a0ffc5cc0a20e675": {
+  "name": "Vi-LinkLogo MC10G.jpg",
+  "names": [
+   "Vi-LinkLogo MC10G.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 1508916,
+  "n": 1,
+  "first_msg": "53111947463f05e5",
+  "x": "ok",
+  "chars": 123,
+  "method": "pillow+tesseract"
+ },
+ "edb1d66e2bfc0d0a": {
+  "name": "Vi-Link Logo MC1400.jpg",
+  "names": [
+   "Vi-Link Logo MC1400.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 2145222,
+  "n": 1,
+  "first_msg": "53111947463f05e5",
+  "x": "ok",
+  "chars": 40,
+  "method": "pillow+tesseract"
+ },
+ "a5548f2dc01ff052": {
+  "name": "Vi-LinkLogo MC1400.jpg",
+  "names": [
+   "Vi-LinkLogo MC1400.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 284236,
+  "n": 1,
+  "first_msg": "53111947463f05e5",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "2b27e210a7f7d1e8": {
+  "name": "white part.png",
+  "names": [
+   "white part.png"
+  ],
+  "mime": "image/png",
+  "bytes": 428629,
+  "n": 1,
+  "first_msg": "9b26b8e5f17f8e5c",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "e9563df51c5cac70": {
+  "name": "MC10G N.jpg",
+  "names": [
+   "MC10G N.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 1657936,
+  "n": 1,
+  "first_msg": "7ab8cc16e9d42382",
+  "x": "ok",
+  "chars": 91,
+  "method": "pillow+tesseract"
+ },
+ "119953b66a0f540a": {
+  "name": "MC1600.jpg",
+  "names": [
+   "MC1600.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 98048,
+  "n": 1,
+  "first_msg": "7ab8cc16e9d42382",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "1835fad9a58ce363": {
+  "name": "Vi-Link Logo MC10G Green.jpg",
+  "names": [
+   "Vi-Link Logo MC10G Green.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 145956,
+  "n": 1,
+  "first_msg": "7ab8cc16e9d42382",
+  "x": "ok",
+  "chars": 39,
+  "method": "pillow+tesseract"
+ },
+ "2191f303dacd21ce": {
+  "name": "Vi-Link Logo MC1400 Green.jpg",
+  "names": [
+   "Vi-Link Logo MC1400 Green.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 146907,
+  "n": 1,
+  "first_msg": "7ab8cc16e9d42382",
+  "x": "ok",
+  "chars": 40,
+  "method": "pillow+tesseract"
+ },
+ "fb236e1d55195511": {
+  "name": "last order.png",
+  "names": [
+   "last order.png"
+  ],
+  "mime": "image/png",
+  "bytes": 501268,
+  "n": 1,
+  "first_msg": "246091b10a547df2",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "280b64f6712c7370": {
+  "name": "14 slot rack.png",
+  "names": [
+   "14 slot rack.png"
+  ],
+  "mime": "image/png",
+  "bytes": 229452,
+  "n": 1,
+  "first_msg": "246091b10a547df2",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "bb7ce380d92014bf": {
+  "name": "10G.png",
+  "names": [
+   "10G.png"
+  ],
+  "mime": "image/png",
+  "bytes": 225615,
+  "n": 1,
+  "first_msg": "246091b10a547df2",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "d21a7ce0353f7ae8": {
+  "name": "Vi-Link Logo MC10G.jpg",
+  "names": [
+   "Vi-Link Logo MC10G.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 28478,
+  "n": 1,
+  "first_msg": "5bab043e26581e6a",
+  "x": "skip:image"
+ },
+ "196d6aea47e78bed": {
+  "name": "Vi-Link Logo MC1400.jpg",
+  "names": [
+   "Vi-Link Logo MC1400.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 28771,
+  "n": 1,
+  "first_msg": "5bab043e26581e6a",
+  "x": "skip:image"
+ },
+ "e4fd2d81a78598d3": {
+  "name": "STC-14DUR.docx",
+  "names": [
+   "STC-14DUR.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 811384,
+  "n": 1,
+  "first_msg": "aa5bd145269a4a45",
+  "x": "ok",
+  "chars": 15549,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "9ba2a1d611ce41db": {
+  "name": "STC-110XGE.docx",
+  "names": [
+   "STC-110XGE.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 707059,
+  "n": 2,
+  "first_msg": "aa5bd145269a4a45",
+  "x": "ok",
+  "chars": 17866,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "5997655dfe8c1701": {
+  "name": "2光8PoE.jpg",
+  "names": [
+   "2光8PoE.jpg",
+   "image001.jpg",
+   "image003.jpg",
+   "image002.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 46303,
+  "n": 601,
+  "first_msg": "101d66303a42edec",
+  "x": "skip:image"
+ },
+ "7192a48682c1110e": {
+  "name": "Apple Payments Services Privacy Notice Sept 2024.pdf",
+  "names": [
+   "Apple Payments Services Privacy Notice Sept 2024.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 2189896,
+  "n": 1,
+  "first_msg": "90ff8fbc07451f1c",
+  "x": "ok",
+  "chars": 4749,
+  "method": "pdfplumber"
+ },
+ "07b3cf3045dfcc8c": {
+  "name": "24 port passive PoE.png",
+  "names": [
+   "24 port passive PoE.png",
+   "image002.png",
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 584062,
+  "n": 840,
+  "first_msg": "a1cb182d6509ea36",
+  "x": "ok",
+  "chars": 36,
+  "method": "pillow+tesseract"
+ },
+ "aa906d6fe40b802c": {
+  "name": "2 SFP 2 Copper.png",
+  "names": [
+   "2 SFP 2 Copper.png"
+  ],
+  "mime": "image/png",
+  "bytes": 463437,
+  "n": 470,
+  "first_msg": "4e3a210ba140fd99",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "d56c085e96340708": {
+  "name": "image001.png",
+  "names": [
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 261771,
+  "n": 3,
+  "first_msg": "aeb11c67dab8ab41",
+  "x": "ok",
+  "chars": 198,
+  "method": "pillow+tesseract"
+ },
+ "44b73261d35c0c49": {
+  "name": "image002.jpg",
+  "names": [
+   "image002.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 46305,
+  "n": 3,
+  "first_msg": "aeb11c67dab8ab41",
+  "x": "skip:image"
+ },
+ "bddb2790bffdd5ed": {
+  "name": "STI-288GP.pdf",
+  "names": [
+   "STI-288GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 1062857,
+  "n": 3,
+  "first_msg": "d69f19128185f945",
+  "x": "ok",
+  "chars": 25031,
+  "method": "pdfplumber"
+ },
+ "cdbb03feda2aa4fb": {
+  "name": "Quotation[2].pdf",
+  "names": [
+   "Quotation[2].pdf",
+   "Quotation.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 165273,
+  "n": 3,
+  "first_msg": "d69f19128185f945",
+  "x": "ok",
+  "chars": 1789,
+  "method": "pdfplumber"
+ },
+ "802a4859afd709c2": {
+  "name": "image001.png",
+  "names": [
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 261770,
+  "n": 2,
+  "first_msg": "76c1acb0159a3632",
+  "x": "ok",
+  "chars": 198,
+  "method": "pillow+tesseract"
+ },
+ "9593996bfb9f00f5": {
+  "name": "image002.jpg",
+  "names": [
+   "image002.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 46304,
+  "n": 2,
+  "first_msg": "76c1acb0159a3632",
+  "x": "skip:image"
+ },
+ "3aa1b0a57fff7ff3": {
+  "name": "image002.png",
+  "names": [
+   "image002.png"
+  ],
+  "mime": "image/png",
+  "bytes": 63090,
+  "n": 1,
+  "first_msg": "a7d9a3952458bd64",
+  "x": "skip:image"
+ },
+ "71012dd648d109c2": {
+  "name": "image003.png",
+  "names": [
+   "image003.png",
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 45966,
+  "n": 3,
+  "first_msg": "a7d9a3952458bd64",
+  "x": "skip:image"
+ },
+ "85205c556d9fc955": {
+  "name": "Quotation QU509692.PDF",
+  "names": [
+   "Quotation QU509692.PDF"
+  ],
+  "mime": "application/pdf",
+  "bytes": 36980,
+  "n": 1,
+  "first_msg": "a7d9a3952458bd64",
+  "x": "ok",
+  "chars": 1280,
+  "method": "pdfplumber"
+ },
+ "b60cac2560b8d4f5": {
+  "name": "image001.jpg",
+  "names": [
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 2380,
+  "n": 6,
+  "first_msg": "ed973dfae5902353",
+  "x": "skip:image"
+ },
+ "bfb8cce0cea6e971": {
+  "name": "image001.jpg",
+  "names": [
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 3909,
+  "n": 9,
+  "first_msg": "afc55caee520db52",
+  "x": "skip:image"
+ },
+ "7d62c1e7b119d4e1": {
+  "name": "With serial port.png",
+  "names": [
+   "With serial port.png"
+  ],
+  "mime": "image/png",
+  "bytes": 326656,
+  "n": 133,
+  "first_msg": "afc55caee520db52",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "0e29ff260742471a": {
+  "name": "STI-PA-120W-UP.pdf",
+  "names": [
+   "STI-PA-120W-UP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 858048,
+  "n": 1,
+  "first_msg": "b34f080f9094fe03",
+  "x": "ok",
+  "chars": 7691,
+  "method": "pdfplumber"
+ },
+ "6b1fc1a81fd10368": {
+  "name": "STI-222GP.pdf",
+  "names": [
+   "STI-222GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 928685,
+  "n": 1,
+  "first_msg": "16f7e9226d3288da",
+  "x": "ok",
+  "chars": 25018,
+  "method": "pdfplumber"
+ },
+ "6a396ddc8e1b321e": {
+  "name": "2+8 Auto.png",
+  "names": [
+   "2+8 Auto.png",
+   "image005.png",
+   "image002.png"
+  ],
+  "mime": "image/png",
+  "bytes": 700379,
+  "n": 326,
+  "first_msg": "bd9b47132ca3f06f",
+  "x": "ok",
+  "chars": 112,
+  "method": "pillow+tesseract"
+ },
+ "3d261ea2937a9be9": {
+  "name": "10G Web.jpg",
+  "names": [
+   "10G Web.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 214693,
+  "n": 152,
+  "first_msg": "ee2cffc7a2cc39dd",
+  "x": "ok",
+  "chars": 95,
+  "method": "pillow+tesseract"
+ },
+ "d005b80063704bbd": {
+  "name": "32@100G.png",
+  "names": [
+   "32@100G.png"
+  ],
+  "mime": "image/png",
+  "bytes": 803995,
+  "n": 80,
+  "first_msg": "482f0b91b6451283",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "526bef6b6ccfb933": {
+  "name": "Quotation_48 port switch 150pcs.pdf",
+  "names": [
+   "Quotation_48 port switch 150pcs.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 124963,
+  "n": 1,
+  "first_msg": "2a7b6790edb2e6fb",
+  "x": "ok",
+  "chars": 2079,
+  "method": "pdfplumber"
+ },
+ "0c4cf7e22a9a4473": {
+  "name": "STSC20241129007.pdf",
+  "names": [
+   "STSC20241129007.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 439477,
+  "n": 1,
+  "first_msg": "0ba9622081fd4228",
+  "x": "ok",
+  "chars": 5415,
+  "method": "pdfplumber"
+ },
+ "392812930f2ef87d": {
+  "name": "STSC20241129007.pdf",
+  "names": [
+   "STSC20241129007.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 440254,
+  "n": 1,
+  "first_msg": "be04fb410f4f6274",
+  "x": "ok",
+  "chars": 5760,
+  "method": "pdfplumber"
+ },
+ "26004767b09d8d3a": {
+  "name": "Tronx Saga Siparis Listesi-3.xlsx",
+  "names": [
+   "Tronx Saga Siparis Listesi-3.xlsx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "bytes": 77886,
+  "n": 1,
+  "first_msg": "8f50a5bc2516511d",
+  "x": "ok",
+  "chars": 877,
+  "method": "openpyxl(values)"
+ },
+ "57139a1ff53d71fb": {
+  "name": "WiFi6 Indoor Access Point.doc",
+  "names": [
+   "WiFi6 Indoor Access Point.doc"
+  ],
+  "mime": "application/msword",
+  "bytes": 1812992,
+  "n": 1,
+  "first_msg": "0d518903557cf877",
+  "x": "ok",
+  "chars": 4434,
+  "method": "soffice→docx→python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "1dd660e4d7aaebc4": {
+  "name": "Tronx Saga Siparis Listesi.xlsx",
+  "names": [
+   "Tronx Saga Siparis Listesi.xlsx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "bytes": 10522,
+  "n": 1,
+  "first_msg": "c80e042658c75fc9",
+  "x": "ok",
+  "chars": 634,
+  "method": "openpyxl(values)"
+ },
+ "b3b3c4d10907cedd": {
+  "name": "Quotation.pdf",
+  "names": [
+   "Quotation.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 131446,
+  "n": 1,
+  "first_msg": "c80e042658c75fc9",
+  "x": "ok",
+  "chars": 4065,
+  "method": "pdfplumber"
+ },
+ "e5c2c7356ff2a006": {
+  "name": "Certificate of Warranty.pdf",
+  "names": [
+   "Certificate of Warranty.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 803428,
+  "n": 1,
+  "first_msg": "c80e042658c75fc9",
+  "x": "ok",
+  "chars": 1350,
+  "method": "pdfplumber+OCR(1p)"
+ },
+ "5acf7f33713df765": {
+  "name": "Case Study_Passive PoE.pdf",
+  "names": [
+   "Case Study_Passive PoE.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 227027,
+  "n": 1,
+  "first_msg": "d86526863f22737d",
+  "x": "ok",
+  "chars": 1695,
+  "method": "pdfplumber"
+ },
+ "803029a506d161ba": {
+  "name": "Label.pdf",
+  "names": [
+   "Label.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 214474,
+  "n": 1,
+  "first_msg": "fbd001897a47c982",
+  "x": "ok",
+  "chars": 607,
+  "method": "pdfplumber"
+ },
+ "4ad29aabfbcdad16": {
+  "name": "DI order #1.xls",
+  "names": [
+   "DI order #1.xls"
+  ],
+  "mime": "application/vnd.ms-excel",
+  "bytes": 8704,
+  "n": 2,
+  "first_msg": "7782a8b93daf7255",
+  "x": "ok",
+  "chars": 1015,
+  "method": "xlrd"
+ },
+ "35edfc3e529f14ca": {
+  "name": "STI-050FE (NSI-500F).pdf",
+  "names": [
+   "STI-050FE (NSI-500F).pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 273446,
+  "n": 1,
+  "first_msg": "7782a8b93daf7255",
+  "x": "ok",
+  "chars": 1060,
+  "method": "pdfplumber+OCR(1p)"
+ },
+ "ac028f706c835bf7": {
+  "name": "STI-054GP-BT (NSI-500GP).pdf",
+  "names": [
+   "STI-054GP-BT (NSI-500GP).pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 308879,
+  "n": 1,
+  "first_msg": "7782a8b93daf7255",
+  "x": "ok",
+  "chars": 1280,
+  "method": "pdfplumber+OCR(1p)"
+ },
+ "97189b838af53170": {
+  "name": "STI-080FE (NSI-800F).pdf",
+  "names": [
+   "STI-080FE (NSI-800F).pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 251603,
+  "n": 1,
+  "first_msg": "7782a8b93daf7255",
+  "x": "ok",
+  "chars": 1590,
+  "method": "pdfplumber+OCR(1p)"
+ },
+ "c612e95c828e2d26": {
+  "name": "STI-088GP-BT (NSI-800GP).pdf",
+  "names": [
+   "STI-088GP-BT (NSI-800GP).pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 320786,
+  "n": 1,
+  "first_msg": "7782a8b93daf7255",
+  "x": "ok",
+  "chars": 1566,
+  "method": "pdfplumber+OCR(1p)"
+ },
+ "2fd8108650ff01f2": {
+  "name": "STI-240GE (NSI-420G).pdf",
+  "names": [
+   "STI-240GE (NSI-420G).pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 307802,
+  "n": 1,
+  "first_msg": "7782a8b93daf7255",
+  "x": "ok",
+  "chars": 1350,
+  "method": "pdfplumber+OCR(1p)"
+ },
+ "1187daff0595efa1": {
+  "name": "STI-280GE (NSI-820G).pdf",
+  "names": [
+   "STI-280GE (NSI-820G).pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 287496,
+  "n": 1,
+  "first_msg": "7782a8b93daf7255",
+  "x": "ok",
+  "chars": 1279,
+  "method": "pdfplumber+OCR(1p)"
+ },
+ "ab00ebee888a8b71": {
+  "name": "STI288GP-BT (NSI-820GP).pdf",
+  "names": [
+   "STI288GP-BT (NSI-820GP).pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 332745,
+  "n": 1,
+  "first_msg": "7782a8b93daf7255",
+  "x": "ok",
+  "chars": 1547,
+  "method": "pdfplumber+OCR(1p)"
+ },
+ "052eecb9f79ac4d7": {
+  "name": "Passive PoE.pdf",
+  "names": [
+   "Passive PoE.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 1370913,
+  "n": 1,
+  "first_msg": "c9057ef48518bc9c",
+  "x": "ok",
+  "chars": 23860,
+  "method": "pdfplumber"
+ },
+ "0ccb2821f784a2f3": {
+  "name": "Quotation.pdf",
+  "names": [
+   "Quotation.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 501774,
+  "n": 1,
+  "first_msg": "0bff4caab85195a3",
+  "x": "ok",
+  "chars": 2078,
+  "method": "pdfplumber"
+ },
+ "bb0f8295eb3e900a": {
+  "name": "STI-288DGGPM-2BT.pdf",
+  "names": [
+   "STI-288DGGPM-2BT.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 725584,
+  "n": 1,
+  "first_msg": "0bff4caab85195a3",
+  "x": "ok",
+  "chars": 23210,
+  "method": "pdfplumber"
+ },
+ "07d13104f84b3464": {
+  "name": "STI-288GP.pdf",
+  "names": [
+   "STI-288GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 1062861,
+  "n": 1,
+  "first_msg": "0bff4caab85195a3",
+  "x": "ok",
+  "chars": 25031,
+  "method": "pdfplumber"
+ },
+ "dbeab2b186505118": {
+  "name": "STC-448XGGPM.docx",
+  "names": [
+   "STC-448XGGPM.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 631793,
+  "n": 1,
+  "first_msg": "b552ce1372ae1296",
+  "x": "ok",
+  "chars": 23358,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "71397f38119936fd": {
+  "name": "Price List_Marvell Industrial Unmanaged Switch.pdf",
+  "names": [
+   "Price List_Marvell Industrial Unmanaged Switch.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 970397,
+  "n": 1,
+  "first_msg": "f02f65b1e31a43e0",
+  "x": "ok",
+  "chars": 10025,
+  "method": "pdfplumber"
+ },
+ "1a876e3377cb9f92": {
+  "name": "STH10G Series switches datasheet_EN_V1.0.pdf",
+  "names": [
+   "STH10G Series switches datasheet_EN_V1.0.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 761145,
+  "n": 1,
+  "first_msg": "e43e6043c60ac6de",
+  "x": "ok",
+  "chars": 6378,
+  "method": "pdfplumber"
+ },
+ "856fb4974aff124e": {
+  "name": "front.png",
+  "names": [
+   "front.png"
+  ],
+  "mime": "image/png",
+  "bytes": 8223374,
+  "n": 1,
+  "first_msg": "e43e6043c60ac6de",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "3c1c5762a79469e4": {
+  "name": "rear_single input.png",
+  "names": [
+   "rear_single input.png"
+  ],
+  "mime": "image/png",
+  "bytes": 7860309,
+  "n": 1,
+  "first_msg": "e43e6043c60ac6de",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "1d8c888125cac674": {
+  "name": "front.jpg",
+  "names": [
+   "front.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 251944,
+  "n": 1,
+  "first_msg": "7c2c27e251257452",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "3fd703e3abe1e9a4": {
+  "name": "rear.jpg",
+  "names": [
+   "rear.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 237748,
+  "n": 1,
+  "first_msg": "7c2c27e251257452",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "3a4bbe0dfc3ec177": {
+  "name": "STOS Software Features_EN_V1.0 .pdf",
+  "names": [
+   "STOS Software Features_EN_V1.0 .pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 230960,
+  "n": 1,
+  "first_msg": "7c2c27e251257452",
+  "x": "ok",
+  "chars": 15946,
+  "method": "pdfplumber"
+ },
+ "481392d44bdb2028": {
+  "name": "Performance of PeakNetX Platform_EN_V1.26.pdf",
+  "names": [
+   "Performance of PeakNetX Platform_EN_V1.26.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 171354,
+  "n": 1,
+  "first_msg": "7c2c27e251257452",
+  "x": "ok",
+  "chars": 7783,
+  "method": "pdfplumber"
+ },
+ "d8c2f2f8e5ca5634": {
+  "name": "STH100G Series Datasheet_EN_V1.0.pdf",
+  "names": [
+   "STH100G Series Datasheet_EN_V1.0.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 523925,
+  "n": 1,
+  "first_msg": "7c2c27e251257452",
+  "x": "ok",
+  "chars": 5901,
+  "method": "pdfplumber"
+ },
+ "2d60c47f57d2cda6": {
+  "name": "STSC20241105007.pdf",
+  "names": [
+   "STSC20241105007.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 276449,
+  "n": 1,
+  "first_msg": "df64308e242c2e87",
+  "x": "ok",
+  "chars": 3025,
+  "method": "pdfplumber"
+ },
+ "a6922c763606e1d9": {
+  "name": "Turkey Client List.xlsx",
+  "names": [
+   "Turkey Client List.xlsx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "bytes": 25014,
+  "n": 1,
+  "first_msg": "b276a03d2f241647",
+  "x": "ok",
+  "chars": 6285,
+  "method": "openpyxl(values)"
+ },
+ "2b494a2980d33c9a": {
+  "name": "STSC20241105007.pdf",
+  "names": [
+   "STSC20241105007.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 276499,
+  "n": 1,
+  "first_msg": "b276a03d2f241647",
+  "x": "ok",
+  "chars": 3029,
+  "method": "pdfplumber"
+ },
+ "625cd7ce347143f3": {
+  "name": "STSC20241028007.pdf",
+  "names": [
+   "STSC20241028007.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 245744,
+  "n": 1,
+  "first_msg": "1f0c0fd7e67f4084",
+  "x": "ok",
+  "chars": 2457,
+  "method": "pdfplumber"
+ },
+ "0cbdad10e7bf289f": {
+  "name": "User Manual.pdf",
+  "names": [
+   "User Manual.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 398496,
+  "n": 1,
+  "first_msg": "d961c5cd5dca7ab6",
+  "x": "ok",
+  "chars": 4856,
+  "method": "pdfplumber"
+ },
+ "a3952a3a27a2fa0d": {
+  "name": "label format.jpg",
+  "names": [
+   "label format.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 2283119,
+  "n": 1,
+  "first_msg": "d961c5cd5dca7ab6",
+  "x": "ok",
+  "chars": 156,
+  "method": "pillow+tesseract"
+ },
+ "f938062fed36af9b": {
+  "name": "GUI after change.png",
+  "names": [
+   "GUI after change.png"
+  ],
+  "mime": "image/png",
+  "bytes": 39897,
+  "n": 1,
+  "first_msg": "5b07861cfd7ab9c2",
+  "x": "skip:image"
+ },
+ "d5c4460cb7412253": {
+  "name": "PVC after change.png",
+  "names": [
+   "PVC after change.png"
+  ],
+  "mime": "image/png",
+  "bytes": 47554,
+  "n": 1,
+  "first_msg": "5b07861cfd7ab9c2",
+  "x": "skip:image"
+ },
+ "d5b5dec7ae529b7b": {
+  "name": "PVC mask font.png",
+  "names": [
+   "PVC mask font.png"
+  ],
+  "mime": "image/png",
+  "bytes": 49730,
+  "n": 1,
+  "first_msg": "9db0731c076259f6",
+  "x": "skip:image"
+ },
+ "3f7cd46a33333bc5": {
+  "name": "user manual description.png",
+  "names": [
+   "user manual description.png"
+  ],
+  "mime": "image/png",
+  "bytes": 486925,
+  "n": 1,
+  "first_msg": "9db0731c076259f6",
+  "x": "ok",
+  "chars": 382,
+  "method": "pillow+tesseract"
+ },
+ "fe0098fd3c226b48": {
+  "name": "STC-424DGGPM-280W-cdr.pdf",
+  "names": [
+   "STC-424DGGPM-280W-cdr.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 87521,
+  "n": 1,
+  "first_msg": "ce262c0d10112c1a",
+  "x": "ok",
+  "chars": 69,
+  "method": "pdfplumber"
+ },
+ "6cc6b9dfee4e4dbf": {
+  "name": "AngoraLabelFormat.png",
+  "names": [
+   "AngoraLabelFormat.png"
+  ],
+  "mime": "image/png",
+  "bytes": 118160,
+  "n": 1,
+  "first_msg": "ce262c0d10112c1a",
+  "x": "ok",
+  "chars": 164,
+  "method": "pillow+tesseract"
+ },
+ "ada4887f30122d64": {
+  "name": "Angora-Replies_2024.10.23.docx",
+  "names": [
+   "Angora-Replies_2024.10.23.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 1255787,
+  "n": 1,
+  "first_msg": "ce262c0d10112c1a",
+  "x": "ok",
+  "chars": 3666,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "1b278797e0bf17e4": {
+  "name": "ANGORA LOGO2.ai",
+  "names": [
+   "ANGORA LOGO2.ai"
+  ],
+  "mime": "application/postscript",
+  "bytes": 1131472,
+  "n": 1,
+  "first_msg": "ce262c0d10112c1a",
+  "x": "skip:type"
+ },
+ "bc7e3ff787b3896a": {
+  "name": "CI_to be finalized.pdf",
+  "names": [
+   "CI_to be finalized.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 446228,
+  "n": 1,
+  "first_msg": "f28777801505a1d1",
+  "x": "ok",
+  "chars": 3216,
+  "method": "pdfplumber"
+ },
+ "ae10dc74c7dcc535": {
+  "name": "Reply_2024.10.23.docx",
+  "names": [
+   "Reply_2024.10.23.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 1251020,
+  "n": 1,
+  "first_msg": "f28777801505a1d1",
+  "x": "ok",
+  "chars": 2776,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "7b166a39aaf5f501": {
+  "name": "STC-424DGGPM-280W-cdr-ANW.psd",
+  "names": [
+   "STC-424DGGPM-280W-cdr-ANW.psd"
+  ],
+  "mime": "image/vnd.adobe.photoshop",
+  "bytes": 58203,
+  "n": 1,
+  "first_msg": "52d48691d8b888c4",
+  "x": "skip:type"
+ },
+ "0ec51d91faf6032e": {
+  "name": "STSC20241021007.pdf",
+  "names": [
+   "STSC20241021007.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 447223,
+  "n": 1,
+  "first_msg": "41dd5d4d398efb0e",
+  "x": "ok",
+  "chars": 3611,
+  "method": "pdfplumber"
+ },
+ "aea2d199d7cd6571": {
+  "name": "STSC20241017007.pdf",
+  "names": [
+   "STSC20241017007.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 341645,
+  "n": 1,
+  "first_msg": "7b51e0b806180c99",
+  "x": "ok",
+  "chars": 3018,
+  "method": "pdfplumber"
+ },
+ "fb2b4c5eaccd56d2": {
+  "name": "Quotation.pdf",
+  "names": [
+   "Quotation.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 125066,
+  "n": 1,
+  "first_msg": "37a153364e2b656f",
+  "x": "ok",
+  "chars": 1828,
+  "method": "pdfplumber"
+ },
+ "b6e6158b418183d8": {
+  "name": "Quotation.pdf",
+  "names": [
+   "Quotation.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 167543,
+  "n": 1,
+  "first_msg": "f891987faadfbf05",
+  "x": "ok",
+  "chars": 1609,
+  "method": "pdfplumber"
+ },
+ "d0b693083173463c": {
+  "name": "STI-288GP.pdf",
+  "names": [
+   "STI-288GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 1034517,
+  "n": 1,
+  "first_msg": "f891987faadfbf05",
+  "x": "ok",
+  "chars": 23864,
+  "method": "pdfplumber"
+ },
+ "58d9c0cd4f995c85": {
+  "name": "STI-154GP.pdf",
+  "names": [
+   "STI-154GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 895433,
+  "n": 1,
+  "first_msg": "d5585a4d93b26e7c",
+  "x": "ok",
+  "chars": 25103,
+  "method": "pdfplumber"
+ },
+ "5de3e1a45ae4c5c3": {
+  "name": "Quotation.pdf",
+  "names": [
+   "Quotation.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 164584,
+  "n": 1,
+  "first_msg": "d5585a4d93b26e7c",
+  "x": "ok",
+  "chars": 1642,
+  "method": "pdfplumber"
+ },
+ "1eafdc4497779442": {
+  "name": "STI-154GP.pdf",
+  "names": [
+   "STI-154GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 894016,
+  "n": 1,
+  "first_msg": "1e54f5394e19a0cc",
+  "x": "ok",
+  "chars": 24728,
+  "method": "pdfplumber"
+ },
+ "042b2d457c73d5fa": {
+  "name": "Outlook-yskoxzb1.png",
+  "names": [
+   "Outlook-yskoxzb1.png"
+  ],
+  "mime": "image/png",
+  "bytes": 6449,
+  "n": 5,
+  "first_msg": "f1d354f266c05cc2",
+  "x": "skip:image"
+ },
+ "144f5e6ee6e08baf": {
+  "name": "STC-110XGE.pdf",
+  "names": [
+   "STC-110XGE.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 399720,
+  "n": 1,
+  "first_msg": "0afcfc91064a5fca",
+  "x": "ok",
+  "chars": 19420,
+  "method": "pdfplumber"
+ },
+ "afb87c001483e0e3": {
+  "name": "web managed.png",
+  "names": [
+   "web managed.png"
+  ],
+  "mime": "image/png",
+  "bytes": 183712,
+  "n": 1,
+  "first_msg": "0bee126717d66cdf",
+  "x": "ok",
+  "chars": 65,
+  "method": "pillow+tesseract"
+ },
+ "4dfad83d10dfa5ef": {
+  "name": "L2 managed.jpg",
+  "names": [
+   "L2 managed.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 192195,
+  "n": 1,
+  "first_msg": "0bee126717d66cdf",
+  "x": "ok",
+  "chars": 83,
+  "method": "pillow+tesseract"
+ },
+ "304e601f63ff4380": {
+  "name": "flat 8p PoE.JPG",
+  "names": [
+   "flat 8p PoE.JPG"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 181733,
+  "n": 1,
+  "first_msg": "b795aff546929794",
+  "x": "ok",
+  "chars": 140,
+  "method": "pillow+tesseract"
+ },
+ "850dac186e9dc148": {
+  "name": "image001.jpg",
+  "names": [
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 9643,
+  "n": 3,
+  "first_msg": "1c35b2b420c40f24",
+  "x": "skip:image"
+ },
+ "619dab1bafd47e4f": {
+  "name": "STI-088GP.pdf",
+  "names": [
+   "STI-088GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 777978,
+  "n": 1,
+  "first_msg": "6040430bbbdcc302",
+  "x": "ok",
+  "chars": 23304,
+  "method": "pdfplumber"
+ },
+ "c0a8d0c2a461c1ae": {
+  "name": "STC-08XGWE.docx",
+  "names": [
+   "STC-08XGWE.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 626754,
+  "n": 1,
+  "first_msg": "5cb1b1ebf2e01948",
+  "x": "ok",
+  "chars": 11098,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "3620d309f78ab377": {
+  "name": "Web Info.MP4",
+  "names": [
+   "Web Info.MP4"
+  ],
+  "mime": "video/mp4",
+  "bytes": 7870967,
+  "n": 2,
+  "first_msg": "5cb1b1ebf2e01948",
+  "x": "skip:type"
+ },
+ "3e39e8419d70c7b6": {
+  "name": "image012.png",
+  "names": [
+   "image012.png"
+  ],
+  "mime": "image/png",
+  "bytes": 15001,
+  "n": 3,
+  "first_msg": "e726c2da0d108d7c",
+  "x": "skip:image"
+ },
+ "533ac86817b1930a": {
+  "name": "image013.png",
+  "names": [
+   "image013.png"
+  ],
+  "mime": "image/png",
+  "bytes": 1066,
+  "n": 3,
+  "first_msg": "e726c2da0d108d7c",
+  "x": "skip:image"
+ },
+ "20e264474244d7ca": {
+  "name": "image014.png",
+  "names": [
+   "image014.png"
+  ],
+  "mime": "image/png",
+  "bytes": 961,
+  "n": 3,
+  "first_msg": "e726c2da0d108d7c",
+  "x": "skip:image"
+ },
+ "fdd1f59bc953fefc": {
+  "name": "image015.png",
+  "names": [
+   "image015.png"
+  ],
+  "mime": "image/png",
+  "bytes": 1266,
+  "n": 3,
+  "first_msg": "e726c2da0d108d7c",
+  "x": "skip:image"
+ },
+ "742abafa86ee9267": {
+  "name": "image016.png",
+  "names": [
+   "image016.png"
+  ],
+  "mime": "image/png",
+  "bytes": 1167,
+  "n": 3,
+  "first_msg": "e726c2da0d108d7c",
+  "x": "skip:image"
+ },
+ "026000803b3fb115": {
+  "name": "image017.png",
+  "names": [
+   "image017.png"
+  ],
+  "mime": "image/png",
+  "bytes": 2064,
+  "n": 3,
+  "first_msg": "e726c2da0d108d7c",
+  "x": "skip:image"
+ },
+ "bee3fa63669ffda3": {
+  "name": "image018.png",
+  "names": [
+   "image018.png"
+  ],
+  "mime": "image/png",
+  "bytes": 1973,
+  "n": 3,
+  "first_msg": "e726c2da0d108d7c",
+  "x": "skip:image"
+ },
+ "80d9fe9fa2d6125e": {
+  "name": "image019.png",
+  "names": [
+   "image019.png"
+  ],
+  "mime": "image/png",
+  "bytes": 1676,
+  "n": 3,
+  "first_msg": "e726c2da0d108d7c",
+  "x": "skip:image"
+ },
+ "67e66b1d8d47ef5f": {
+  "name": "image020.png",
+  "names": [
+   "image020.png"
+  ],
+  "mime": "image/png",
+  "bytes": 2097,
+  "n": 3,
+  "first_msg": "e726c2da0d108d7c",
+  "x": "skip:image"
+ },
+ "bb0fbcc6e26b65ec": {
+  "name": "image021.png",
+  "names": [
+   "image021.png"
+  ],
+  "mime": "image/png",
+  "bytes": 2698,
+  "n": 3,
+  "first_msg": "e726c2da0d108d7c",
+  "x": "skip:image"
+ },
+ "bb3df7fea8b018c5": {
+  "name": "image022.png",
+  "names": [
+   "image022.png"
+  ],
+  "mime": "image/png",
+  "bytes": 193890,
+  "n": 3,
+  "first_msg": "e726c2da0d108d7c",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "1abb80e267112906": {
+  "name": "STI-154GP.pdf",
+  "names": [
+   "STI-154GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 894016,
+  "n": 1,
+  "first_msg": "775f9ed585dd20d5",
+  "x": "ok",
+  "chars": 24728,
+  "method": "pdfplumber"
+ },
+ "5aa7d2c12ca23dd4": {
+  "name": "K8 document Quotation-25992001.pdf",
+  "names": [
+   "K8 document Quotation-25992001.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 68807,
+  "n": 1,
+  "first_msg": "f41d4564c84c5f93",
+  "x": "ok",
+  "chars": 1374,
+  "method": "pdfplumber"
+ },
+ "1c48929cf2ee5b16": {
+  "name": "Quotation.pdf",
+  "names": [
+   "Quotation.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 265103,
+  "n": 1,
+  "first_msg": "54932716b5166fad",
+  "x": "ok",
+  "chars": 2403,
+  "method": "pdfplumber"
+ },
+ "473782f659fe55a9": {
+  "name": "STI-244GP.pdf",
+  "names": [
+   "STI-244GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 896473,
+  "n": 1,
+  "first_msg": "54932716b5166fad",
+  "x": "ok",
+  "chars": 25060,
+  "method": "pdfplumber"
+ },
+ "278bc2206a877385": {
+  "name": "STI-154GP.pdf",
+  "names": [
+   "STI-154GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 895433,
+  "n": 1,
+  "first_msg": "54932716b5166fad",
+  "x": "ok",
+  "chars": 25103,
+  "method": "pdfplumber"
+ },
+ "cb3a831a4e90e351": {
+  "name": "STI-288GP.pdf",
+  "names": [
+   "STI-288GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 1062861,
+  "n": 1,
+  "first_msg": "54932716b5166fad",
+  "x": "ok",
+  "chars": 25031,
+  "method": "pdfplumber"
+ },
+ "c88f44d7b9e38360": {
+  "name": "image001.jpg",
+  "names": [
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 9173,
+  "n": 11,
+  "first_msg": "749479f0d092ad8e",
+  "x": "skip:image"
+ },
+ "3abf67fdf6eb4dec": {
+  "name": "10G.jpg",
+  "names": [
+   "10G.jpg",
+   "image006.jpg",
+   "image003.jpg",
+   "image002.jpg",
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 223668,
+  "n": 416,
+  "first_msg": "749479f0d092ad8e",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "d91b9d508b237f77": {
+  "name": "Catalog.pdf",
+  "names": [
+   "Catalog.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 1250335,
+  "n": 1,
+  "first_msg": "30c9607700a7b02e",
+  "x": "ok",
+  "chars": 16109,
+  "method": "pdfplumber"
+ },
+ "14f8508e91df2247": {
+  "name": "Commercial Ethernet.pdf",
+  "names": [
+   "Commercial Ethernet.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 2175159,
+  "n": 1,
+  "first_msg": "33d79cd9475ceb7c",
+  "x": "ok",
+  "chars": 9844,
+  "method": "pdfplumber"
+ },
+ "7795f0e74b648b71": {
+  "name": "image556349.png",
+  "names": [
+   "image556349.png"
+  ],
+  "mime": "image/png",
+  "bytes": 434,
+  "n": 1,
+  "first_msg": "e34bc85395984f80",
+  "x": "skip:image"
+ },
+ "5f20fad0aba2f2a0": {
+  "name": "image250346.png",
+  "names": [
+   "image250346.png"
+  ],
+  "mime": "image/png",
+  "bytes": 536,
+  "n": 1,
+  "first_msg": "e34bc85395984f80",
+  "x": "skip:image"
+ },
+ "2995b173ecead96c": {
+  "name": "image428544.png",
+  "names": [
+   "image428544.png"
+  ],
+  "mime": "image/png",
+  "bytes": 411,
+  "n": 1,
+  "first_msg": "e34bc85395984f80",
+  "x": "skip:image"
+ },
+ "1a4c2a0f71dad067": {
+  "name": "image702491.png",
+  "names": [
+   "image702491.png"
+  ],
+  "mime": "image/png",
+  "bytes": 432,
+  "n": 1,
+  "first_msg": "e34bc85395984f80",
+  "x": "skip:image"
+ },
+ "33024d64d4f683f5": {
+  "name": "image410981.jpg",
+  "names": [
+   "image410981.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 38236,
+  "n": 1,
+  "first_msg": "e34bc85395984f80",
+  "x": "skip:image"
+ },
+ "eeac99d873d2714e": {
+  "name": "image004.png",
+  "names": [
+   "image004.png",
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 18869,
+  "n": 24,
+  "first_msg": "bfebd58a4890064a",
+  "x": "skip:image"
+ },
+ "664805b4bb7b3fde": {
+  "name": "image007.png",
+  "names": [
+   "image007.png",
+   "image004.png",
+   "image003.png",
+   "image002.png",
+   "SC fiber.png"
+  ],
+  "mime": "image/png",
+  "bytes": 332017,
+  "n": 51,
+  "first_msg": "bfebd58a4890064a",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "85ae346d8fa2e840": {
+  "name": "STC-24XGDGWE.pdf",
+  "names": [
+   "STC-24XGDGWE.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 536019,
+  "n": 1,
+  "first_msg": "600c9221602d0b9d",
+  "x": "ok",
+  "chars": 10949,
+  "method": "pdfplumber"
+ },
+ "aaa38b1698901bf7": {
+  "name": "PROFILE.pdf",
+  "names": [
+   "PROFILE.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 4387469,
+  "n": 3,
+  "first_msg": "d99f3982faceb616",
+  "x": "ok",
+  "chars": 60368,
+  "method": "pdfplumber"
+ },
+ "d2f064282b4d8579": {
+  "name": "Company Profile.pdf",
+  "names": [
+   "Company Profile.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 5183319,
+  "n": 1,
+  "first_msg": "65e31282aefa89d6",
+  "x": "ok",
+  "chars": 62613,
+  "method": "pdfplumber"
+ },
+ "6da95fdec2406097": {
+  "name": "STC-448DGGM.docx",
+  "names": [
+   "STC-448DGGM.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 629535,
+  "n": 1,
+  "first_msg": "c161a1bcd3481a0d",
+  "x": "ok",
+  "chars": 22531,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "76f8ebde81efcf46": {
+  "name": "Commercial Rear.jpg",
+  "names": [
+   "Commercial Rear.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 2792366,
+  "n": 1,
+  "first_msg": "c161a1bcd3481a0d",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "0d16d07c6e68da5c": {
+  "name": "Commercial Front.jpg",
+  "names": [
+   "Commercial Front.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 2947455,
+  "n": 1,
+  "first_msg": "c161a1bcd3481a0d",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "4088179044186c52": {
+  "name": "STI-4480DGGM-U.docx",
+  "names": [
+   "STI-4480DGGM-U.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 1041639,
+  "n": 1,
+  "first_msg": "c161a1bcd3481a0d",
+  "x": "ok",
+  "chars": 21103,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "8d31eeb1c0550786": {
+  "name": "Industrial Model.png",
+  "names": [
+   "Industrial Model.png"
+  ],
+  "mime": "image/png",
+  "bytes": 4123401,
+  "n": 1,
+  "first_msg": "c161a1bcd3481a0d",
+  "x": "ok",
+  "chars": 52,
+  "method": "pillow+tesseract"
+ },
+ "057a189379f750df": {
+  "name": "Quotation.pdf",
+  "names": [
+   "Quotation.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 125117,
+  "n": 1,
+  "first_msg": "c161a1bcd3481a0d",
+  "x": "ok",
+  "chars": 1740,
+  "method": "pdfplumber"
+ },
+ "9bec49c7e75408e3": {
+  "name": "image001.jpg",
+  "names": [
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 19514,
+  "n": 1,
+  "first_msg": "44579d8590f8b238",
+  "x": "skip:image"
+ },
+ "ad1c6ed9d7ef0667": {
+  "name": "Spec.png",
+  "names": [
+   "Spec.png"
+  ],
+  "mime": "image/png",
+  "bytes": 32149,
+  "n": 1,
+  "first_msg": "f4e695a067e95cd9",
+  "x": "skip:image"
+ },
+ "df92c0f2e71238bc": {
+  "name": "image001.png",
+  "names": [
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 390325,
+  "n": 1,
+  "first_msg": "e7137160517a2eba",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "0d6d5c3aa4b13733": {
+  "name": "Industrial Switch.xlsx",
+  "names": [
+   "Industrial Switch.xlsx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "bytes": 13745,
+  "n": 1,
+  "first_msg": "e7137160517a2eba",
+  "x": "ok",
+  "chars": 3658,
+  "method": "openpyxl(values)"
+ },
+ "2135a27b8ba5445a": {
+  "name": "CENTEC we gui.png",
+  "names": [
+   "CENTEC we gui.png"
+  ],
+  "mime": "image/png",
+  "bytes": 110622,
+  "n": 1,
+  "first_msg": "648b8b15ac9da921",
+  "x": "ok",
+  "chars": 645,
+  "method": "pillow+tesseract"
+ },
+ "faab9fdfb5855ed2": {
+  "name": "Key Points in WeChat meeting at 2024.10.31.docx",
+  "names": [
+   "Key Points in WeChat meeting at 2024.10.31.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 50522,
+  "n": 1,
+  "first_msg": "df37e79ebe501f92",
+  "x": "ok",
+  "chars": 3054,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "b220bc27ebb6213a": {
+  "name": "Proposal.pdf",
+  "names": [
+   "Proposal.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 172528,
+  "n": 1,
+  "first_msg": "bbb3e4bd1734e6e1",
+  "x": "ok",
+  "chars": 4379,
+  "method": "pdfplumber"
+ },
+ "84f12ba1ebb2c9f0": {
+  "name": "Passive PoE.pdf",
+  "names": [
+   "Passive PoE.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 1434435,
+  "n": 1,
+  "first_msg": "6f5abb76ba18ddff",
+  "x": "ok",
+  "chars": 25951,
+  "method": "pdfplumber"
+ },
+ "7fe57c8295f07a5e": {
+  "name": "1.png",
+  "names": [
+   "1.png"
+  ],
+  "mime": "image/png",
+  "bytes": 184174,
+  "n": 12,
+  "first_msg": "f56f98bcf2e0a850",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "f09d31bab32185fe": {
+  "name": "DIN Power Adapter.pdf",
+  "names": [
+   "DIN Power Adapter.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 201812,
+  "n": 52,
+  "first_msg": "bbd7c1343f5dc3c5",
+  "x": "ok",
+  "chars": 3285,
+  "method": "pdfplumber"
+ },
+ "4bf67656b72cad53": {
+  "name": "STI-PA-120W-UP.pdf",
+  "names": [
+   "STI-PA-120W-UP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 858048,
+  "n": 1,
+  "first_msg": "82968785e232fd55",
+  "x": "ok",
+  "chars": 7691,
+  "method": "pdfplumber"
+ },
+ "3638377e8b1fc57f": {
+  "name": "STI-154GP.pdf",
+  "names": [
+   "STI-154GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 893759,
+  "n": 1,
+  "first_msg": "dd2380a46a6ba1cc",
+  "x": "ok",
+  "chars": 24640,
+  "method": "pdfplumber"
+ },
+ "6e0586d516203f62": {
+  "name": "0000-radio_logo_3.jpg",
+  "names": [
+   "0000-radio_logo_3.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 25663,
+  "n": 1,
+  "first_msg": "c1b354a355fe218c",
+  "x": "skip:image"
+ },
+ "c405c6c95e848f15": {
+  "name": "image001.png",
+  "names": [
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 4316,
+  "n": 10,
+  "first_msg": "5df34b1b04eecaee",
+  "x": "skip:image"
+ },
+ "52acb0b333f9caf4": {
+  "name": "image002.png",
+  "names": [
+   "image002.png"
+  ],
+  "mime": "image/png",
+  "bytes": 3225,
+  "n": 10,
+  "first_msg": "5df34b1b04eecaee",
+  "x": "skip:image"
+ },
+ "a03437874eb37a60": {
+  "name": "image003.png",
+  "names": [
+   "image003.png"
+  ],
+  "mime": "image/png",
+  "bytes": 3449,
+  "n": 10,
+  "first_msg": "5df34b1b04eecaee",
+  "x": "skip:image"
+ },
+ "73a941aea8c74f47": {
+  "name": "image001.png",
+  "names": [
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 324866,
+  "n": 3,
+  "first_msg": "1959d267e00d0824",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "038f22d4334c6cc9": {
+  "name": "STI-222GP.pdf",
+  "names": [
+   "STI-222GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 929068,
+  "n": 1,
+  "first_msg": "815888411fd50a1b",
+  "x": "ok",
+  "chars": 24706,
+  "method": "pdfplumber"
+ },
+ "022bf78f9c734904": {
+  "name": "Passive PoE.pdf",
+  "names": [
+   "Passive PoE.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 1362020,
+  "n": 7,
+  "first_msg": "8a1110c1ce614996",
+  "x": "ok",
+  "chars": 19928,
+  "method": "pdfplumber"
+ },
+ "906dbff0155691ff": {
+  "name": "Information.png",
+  "names": [
+   "Information.png"
+  ],
+  "mime": "image/png",
+  "bytes": 45846,
+  "n": 1,
+  "first_msg": "c519bba09aca7206",
+  "x": "skip:image"
+ },
+ "50a38b59d72939ae": {
+  "name": "Certificate of Warranty.pdf",
+  "names": [
+   "Certificate of Warranty.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 898655,
+  "n": 1,
+  "first_msg": "5a560161a76e41a3",
+  "x": "ok",
+  "chars": 964,
+  "method": "pdfplumber+OCR(1p)"
+ },
+ "9b89eba34f5cc611": {
+  "name": "google drive.png",
+  "names": [
+   "google drive.png"
+  ],
+  "mime": "image/png",
+  "bytes": 37231,
+  "n": 1,
+  "first_msg": "194ce7fdec6252ef",
+  "x": "skip:image"
+ },
+ "463ffcf071df5297": {
+  "name": "4 port PoE.png",
+  "names": [
+   "4 port PoE.png",
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 357607,
+  "n": 77,
+  "first_msg": "22330df88ce64317",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "7ac10702deb3006f": {
+  "name": "power supply.png",
+  "names": [
+   "power supply.png"
+  ],
+  "mime": "image/png",
+  "bytes": 173524,
+  "n": 1,
+  "first_msg": "22330df88ce64317",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "0d6220ebaa2bc830": {
+  "name": "before log-in.png",
+  "names": [
+   "before log-in.png"
+  ],
+  "mime": "image/png",
+  "bytes": 50948,
+  "n": 2,
+  "first_msg": "091a366bb9968a00",
+  "x": "skip:image"
+ },
+ "f88dc474abc4e3a1": {
+  "name": "after log-in.png",
+  "names": [
+   "after log-in.png"
+  ],
+  "mime": "image/png",
+  "bytes": 97041,
+  "n": 2,
+  "first_msg": "091a366bb9968a00",
+  "x": "ok",
+  "chars": 513,
+  "method": "pillow+tesseract"
+ },
+ "b95aba3a45019212": {
+  "name": "ready-to-ship.jpg",
+  "names": [
+   "ready-to-ship.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 144081,
+  "n": 1,
+  "first_msg": "979fcabce4911f2d",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "20f94edbf7958d20": {
+  "name": "PVC.CDR",
+  "names": [
+   "PVC.CDR"
+  ],
+  "mime": "application/octet-stream",
+  "bytes": 76176,
+  "n": 1,
+  "first_msg": "979fcabce4911f2d",
+  "x": "skip:type"
+ },
+ "ae72db3c3c6cc0cb": {
+  "name": "Vi-Link.vsd",
+  "names": [
+   "Vi-Link.vsd"
+  ],
+  "mime": "application/vnd.visio",
+  "bytes": 60928,
+  "n": 1,
+  "first_msg": "3e238ae6e225d585",
+  "x": "skip:type"
+ },
+ "5ea9dead4a89a091": {
+  "name": "Vi-Link Logo.vsd",
+  "names": [
+   "Vi-Link Logo.vsd"
+  ],
+  "mime": "application/vnd.visio",
+  "bytes": 47616,
+  "n": 1,
+  "first_msg": "e8d4fd4c8179a346",
+  "x": "skip:type"
+ },
+ "aa7100e1edfd5a46": {
+  "name": "Visio.png",
+  "names": [
+   "Visio.png"
+  ],
+  "mime": "image/png",
+  "bytes": 46317,
+  "n": 1,
+  "first_msg": "6404f94de79024ab",
+  "x": "skip:image"
+ },
+ "efbbc97ef2c97031": {
+  "name": "Confirmation.png",
+  "names": [
+   "Confirmation.png"
+  ],
+  "mime": "image/png",
+  "bytes": 52619,
+  "n": 1,
+  "first_msg": "6404f94de79024ab",
+  "x": "skip:image"
+ },
+ "38cd8d67074964fb": {
+  "name": "management interface.png",
+  "names": [
+   "management interface.png"
+  ],
+  "mime": "image/png",
+  "bytes": 211740,
+  "n": 1,
+  "first_msg": "6404f94de79024ab",
+  "x": "ok",
+  "chars": 322,
+  "method": "pillow+tesseract"
+ },
+ "700bde43cbaf872f": {
+  "name": "Option&Explanation.pdf",
+  "names": [
+   "Option&Explanation.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 318426,
+  "n": 1,
+  "first_msg": "96c5af49be39d248",
+  "x": "ok",
+  "chars": 750,
+  "method": "pdfplumber"
+ },
+ "660e500948a3b293": {
+  "name": "Marvell User Manual.pub",
+  "names": [
+   "Marvell User Manual.pub"
+  ],
+  "mime": "application/vnd.ms-publisher",
+  "bytes": 3865600,
+  "n": 1,
+  "first_msg": "feed1d28435d8ee4",
+  "x": "ok",
+  "chars": 5093,
+  "method": "soffice→pdf→pdfplumber"
+ },
+ "1b6b60fbf829e7be": {
+  "name": "Vi-Link  EN2440.jpg",
+  "names": [
+   "Vi-Link  EN2440.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 28296,
+  "n": 1,
+  "first_msg": "8dd3a7a46b77ae6f",
+  "x": "skip:image"
+ },
+ "81f5f9a9945fe61a": {
+  "name": "Vi-Link Logo EN2440 B.jpg",
+  "names": [
+   "Vi-Link Logo EN2440 B.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 27513,
+  "n": 1,
+  "first_msg": "8dd3a7a46b77ae6f",
+  "x": "skip:image"
+ },
+ "121b4939aeffaea8": {
+  "name": "Vi-Link Logo EN2440.pdf",
+  "names": [
+   "Vi-Link Logo EN2440.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 377735,
+  "n": 1,
+  "first_msg": "8dd3a7a46b77ae6f",
+  "x": "ok",
+  "chars": 108,
+  "method": "pdfplumber"
+ },
+ "63b93695b3386d07": {
+  "name": "Vi-Link Logo.vsd",
+  "names": [
+   "Vi-Link Logo.vsd"
+  ],
+  "mime": "application/octet-stream",
+  "bytes": 58368,
+  "n": 1,
+  "first_msg": "8dd3a7a46b77ae6f",
+  "x": "skip:type"
+ },
+ "ddd36c9e0aaff88a": {
+  "name": "logo printing.png",
+  "names": [
+   "logo printing.png"
+  ],
+  "mime": "image/png",
+  "bytes": 532307,
+  "n": 1,
+  "first_msg": "2427a64e6cc4bb26",
+  "x": "ok",
+  "chars": 41,
+  "method": "pillow+tesseract"
+ },
+ "b19337d5c556ffd4": {
+  "name": "Vi-Link Logo EN2440.jpg",
+  "names": [
+   "Vi-Link Logo EN2440.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 41078,
+  "n": 2,
+  "first_msg": "2427a64e6cc4bb26",
+  "x": "skip:image"
+ },
+ "3f48e4d5f46214d0": {
+  "name": "STSC20240418006.pdf",
+  "names": [
+   "STSC20240418006.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 130647,
+  "n": 1,
+  "first_msg": "c99c94abd0c7eed6",
+  "x": "ok",
+  "chars": 2135,
+  "method": "pdfplumber"
+ },
+ "2e5c5ff816e6366e": {
+  "name": "Vilink Logo 2440.pdf",
+  "names": [
+   "Vilink Logo 2440.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 694015,
+  "n": 1,
+  "first_msg": "4c859aea7c100a66",
+  "x": "ok",
+  "chars": 1238,
+  "method": "pdfplumber"
+ },
+ "5e5530ddb7b3db2c": {
+  "name": "Actual Photo.jpeg",
+  "names": [
+   "Actual Photo.jpeg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 1259974,
+  "n": 2,
+  "first_msg": "66abd16e91e433e6",
+  "x": "ok",
+  "chars": 23,
+  "method": "pillow+tesseract"
+ },
+ "75979b4e8337753d": {
+  "name": "STC-4168XGGCM.docx",
+  "names": [
+   "STC-4168XGGCM.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 480056,
+  "n": 2,
+  "first_msg": "66abd16e91e433e6",
+  "x": "ok",
+  "chars": 13289,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "a53e93366f2a8542": {
+  "name": "image001.jpg",
+  "names": [
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 14999,
+  "n": 5,
+  "first_msg": "eefa25971a8373f7",
+  "x": "skip:image"
+ },
+ "23a9108447b6586a": {
+  "name": "Quotation.pdf",
+  "names": [
+   "Quotation.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 171813,
+  "n": 1,
+  "first_msg": "15341d100345e816",
+  "x": "ok",
+  "chars": 1762,
+  "method": "pdfplumber"
+ },
+ "20cbaef6965b24b6": {
+  "name": "STI-080GE.pdf",
+  "names": [
+   "STI-080GE.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 726960,
+  "n": 1,
+  "first_msg": "15341d100345e816",
+  "x": "ok",
+  "chars": 21803,
+  "method": "pdfplumber"
+ },
+ "99422a93dcb002f1": {
+  "name": "2.5g 10g network switch.pdf",
+  "names": [
+   "2.5g 10g network switch.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 1004812,
+  "n": 1,
+  "first_msg": "ff2fdd83c9098338",
+  "x": "ok",
+  "chars": 4377,
+  "method": "pdfplumber"
+ },
+ "69ab1cd36e2023dc": {
+  "name": "STC-110XGE.pdf",
+  "names": [
+   "STC-110XGE.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 376632,
+  "n": 3,
+  "first_msg": "c1f84a3cb49da4d3",
+  "x": "ok",
+  "chars": 8970,
+  "method": "pdfplumber"
+ },
+ "1115c500fc48a6a2": {
+  "name": "STI-154GP.pdf",
+  "names": [
+   "STI-154GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 530853,
+  "n": 1,
+  "first_msg": "3aad3634570aa2c0",
+  "x": "ok",
+  "chars": 11439,
+  "method": "pdfplumber"
+ },
+ "09933239c9b800bc": {
+  "name": "L2 Web Manual.doc",
+  "names": [
+   "L2 Web Manual.doc"
+  ],
+  "mime": "application/msword",
+  "bytes": 3992274,
+  "n": 1,
+  "first_msg": "f38de7254a2ba19a",
+  "x": "ok",
+  "chars": 60076,
+  "method": "soffice→docx→python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "b2329870382c1187": {
+  "name": "STC-208GPM-AUTO.docx",
+  "names": [
+   "STC-208GPM-AUTO.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 1484421,
+  "n": 1,
+  "first_msg": "f38de7254a2ba19a",
+  "x": "ok",
+  "chars": 7757,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "5b9bb142141e7d6c": {
+  "name": "PI.pdf",
+  "names": [
+   "PI.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 233490,
+  "n": 1,
+  "first_msg": "48e5683f5dca7956",
+  "x": "ok",
+  "chars": 3049,
+  "method": "pdfplumber"
+ },
+ "6a2f8f6395077c1f": {
+  "name": "R&D period&cost_2024.7.12.docx",
+  "names": [
+   "R&D period&cost_2024.7.12.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 15978,
+  "n": 2,
+  "first_msg": "25aecf075222d564",
+  "x": "ok",
+  "chars": 2042,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "fa03c0ba364767ab": {
+  "name": "poe board.png",
+  "names": [
+   "poe board.png"
+  ],
+  "mime": "image/png",
+  "bytes": 87029,
+  "n": 1,
+  "first_msg": "5f6aa91cfc7a0b2c",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "cccacb263fe243da": {
+  "name": "PoE information.png",
+  "names": [
+   "PoE information.png"
+  ],
+  "mime": "image/png",
+  "bytes": 108120,
+  "n": 1,
+  "first_msg": "5f6aa91cfc7a0b2c",
+  "x": "ok",
+  "chars": 1094,
+  "method": "pillow+tesseract"
+ },
+ "1bd90a47f7eaf425": {
+  "name": "Sftp reply_2024.7.11.docx",
+  "names": [
+   "Sftp reply_2024.7.11.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 104672,
+  "n": 1,
+  "first_msg": "044f82980fe42e83",
+  "x": "ok",
+  "chars": 1405,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "792870ae0d88d530": {
+  "name": "TT-RFP-EN.docx.pdf",
+  "names": [
+   "TT-RFP-EN.docx.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 187309,
+  "n": 1,
+  "first_msg": "a62908d8de13d3fd",
+  "x": "ok",
+  "chars": 6665,
+  "method": "pdfplumber"
+ },
+ "ea19ea3b4200a03c": {
+  "name": "garbled text.png",
+  "names": [
+   "garbled text.png"
+  ],
+  "mime": "image/png",
+  "bytes": 34024,
+  "n": 1,
+  "first_msg": "c36974a55041b3b7",
+  "x": "skip:image"
+ },
+ "f0076bd31c2bef10": {
+  "name": "TT-RFP-TR.docx",
+  "names": [
+   "TT-RFP-TR.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 10248,
+  "n": 1,
+  "first_msg": "658f7f9cc22f5d88",
+  "x": "ok",
+  "chars": 6719,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "356aa1ddce7d96a6": {
+  "name": "TT-RFP-EN.docx",
+  "names": [
+   "TT-RFP-EN.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 17226,
+  "n": 1,
+  "first_msg": "658f7f9cc22f5d88",
+  "x": "ok",
+  "chars": 6635,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "543f98eee35370f3": {
+  "name": "image001.png",
+  "names": [
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 119390,
+  "n": 2,
+  "first_msg": "d1c2643f199d1be2",
+  "x": "ok",
+  "chars": 787,
+  "method": "pillow+tesseract"
+ },
+ "18c474167721e7a1": {
+  "name": "Easy and Transparent Business.pdf",
+  "names": [
+   "Easy and Transparent Business.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 141826,
+  "n": 1,
+  "first_msg": "c40df74e490ec039",
+  "x": "ok",
+  "chars": 919,
+  "method": "pdfplumber"
+ },
+ "82773971110979be": {
+  "name": "label.jpg",
+  "names": [
+   "label.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 74330,
+  "n": 1,
+  "first_msg": "128990bdff087a95",
+  "x": "skip:image"
+ },
+ "b5f82cfe05833e16": {
+  "name": "Label Content.docx",
+  "names": [
+   "Label Content.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 145811,
+  "n": 1,
+  "first_msg": "d11e3ad5abc524be",
+  "x": "ok",
+  "chars": 603,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "a07c5be4be572e88": {
+  "name": "label format.png",
+  "names": [
+   "label format.png"
+  ],
+  "mime": "image/png",
+  "bytes": 130453,
+  "n": 1,
+  "first_msg": "2c11485a3da8884b",
+  "x": "ok",
+  "chars": 286,
+  "method": "pillow+tesseract"
+ },
+ "b76784b9013f6d75": {
+  "name": "Web GUI.jpg",
+  "names": [
+   "Web GUI.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 321391,
+  "n": 1,
+  "first_msg": "862a496f6dce0e30",
+  "x": "ok",
+  "chars": 453,
+  "method": "pillow+tesseract"
+ },
+ "2bc0236113f66512": {
+  "name": "front.jpg",
+  "names": [
+   "front.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 100693,
+  "n": 1,
+  "first_msg": "c7034f814c362836",
+  "x": "ok",
+  "chars": 66,
+  "method": "pillow+tesseract"
+ },
+ "4c183d6b25e9b636": {
+  "name": "fan.jpg",
+  "names": [
+   "fan.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 46370,
+  "n": 1,
+  "first_msg": "c7034f814c362836",
+  "x": "skip:image"
+ },
+ "afb00017b3bc0d82": {
+  "name": "Zhengzhou Saga Telecom.pdf",
+  "names": [
+   "Zhengzhou Saga Telecom.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 81289,
+  "n": 1,
+  "first_msg": "31b8a244ed477ecd",
+  "x": "ok",
+  "chars": 1921,
+  "method": "pdfplumber"
+ },
+ "227753b8ccc4acf5": {
+  "name": "PI.pdf",
+  "names": [
+   "PI.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 211525,
+  "n": 1,
+  "first_msg": "709f29570d36d30e",
+  "x": "ok",
+  "chars": 2616,
+  "method": "pdfplumber"
+ },
+ "35c88d9b65df1a48": {
+  "name": "SGP250051-Zhengzhou Saga Telecom.pdf",
+  "names": [
+   "SGP250051-Zhengzhou Saga Telecom.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 344107,
+  "n": 1,
+  "first_msg": "c1bb5f643f37d6ee",
+  "x": "ok",
+  "chars": 1250,
+  "method": "pdfplumber"
+ },
+ "83347b08fbc80158": {
+  "name": "STI-080GE.pdf",
+  "names": [
+   "STI-080GE.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 736817,
+  "n": 1,
+  "first_msg": "ba1598925e30939a",
+  "x": "ok",
+  "chars": 21469,
+  "method": "pdfplumber"
+ },
+ "51f707e0cfccc9b2": {
+  "name": "STI-288GP.pdf",
+  "names": [
+   "STI-288GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 647636,
+  "n": 1,
+  "first_msg": "a0d8cc99242d354d",
+  "x": "ok",
+  "chars": 11556,
+  "method": "pdfplumber"
+ },
+ "d03558823202816e": {
+  "name": "image001.png",
+  "names": [
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 8192,
+  "n": 4,
+  "first_msg": "02967d482d4203ba",
+  "x": "skip:image"
+ },
+ "f812c1690eae9f17": {
+  "name": "image001.jpg",
+  "names": [
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 108652,
+  "n": 4,
+  "first_msg": "0a243f12a452e76d",
+  "x": "ok",
+  "chars": 69,
+  "method": "pillow+tesseract"
+ },
+ "72449efcecc0c98c": {
+  "name": "STI-244GP.pdf",
+  "names": [
+   "STI-244GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 527615,
+  "n": 2,
+  "first_msg": "ab11895fb6ba55d6",
+  "x": "ok",
+  "chars": 11396,
+  "method": "pdfplumber"
+ },
+ "2f51e6be01f54283": {
+  "name": "STC-228GP.pdf",
+  "names": [
+   "STC-228GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 474430,
+  "n": 2,
+  "first_msg": "ab11895fb6ba55d6",
+  "x": "ok",
+  "chars": 10920,
+  "method": "pdfplumber"
+ },
+ "1dbf7baa660452bd": {
+  "name": "STI-4240XGGM.pdf",
+  "names": [
+   "STI-4240XGGM.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 445178,
+  "n": 1,
+  "first_msg": "320115425c459bcb",
+  "x": "ok",
+  "chars": 11456,
+  "method": "pdfplumber"
+ },
+ "fc916b4f8b4e8097": {
+  "name": "Quotation.pdf",
+  "names": [
+   "Quotation.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 127284,
+  "n": 1,
+  "first_msg": "320115425c459bcb",
+  "x": "ok",
+  "chars": 2400,
+  "method": "pdfplumber"
+ },
+ "06d161fdf68a4a67": {
+  "name": "CLI Manual.pdf",
+  "names": [
+   "CLI Manual.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 3449114,
+  "n": 1,
+  "first_msg": "320115425c459bcb",
+  "x": "ok",
+  "chars": 380546,
+  "method": "pdfplumber"
+ },
+ "05c479e567a7cbd3": {
+  "name": "Marvell Based Web Manual.pdf",
+  "names": [
+   "Marvell Based Web Manual.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 4309155,
+  "n": 1,
+  "first_msg": "320115425c459bcb",
+  "x": "ok",
+  "chars": 156887,
+  "method": "pdfplumber"
+ },
+ "ac946da6dde788d4": {
+  "name": "image001.jpg",
+  "names": [
+   "image001.jpg",
+   "228.jpg",
+   "675db25.jpg",
+   "5ef1773.jpg",
+   "1dbb455.jpg",
+   "14d0f7d.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 181548,
+  "n": 138,
+  "first_msg": "2ed8f71596507f04",
+  "x": "ok",
+  "chars": 62,
+  "method": "pillow+tesseract"
+ },
+ "f8dd950d5f8f4443": {
+  "name": "After-sales Procedure.png",
+  "names": [
+   "After-sales Procedure.png"
+  ],
+  "mime": "image/png",
+  "bytes": 93232,
+  "n": 1,
+  "first_msg": "a6a8e100a358aabf",
+  "x": "ok",
+  "chars": 855,
+  "method": "pillow+tesseract"
+ },
+ "7fbf949bbe927559": {
+  "name": "2.5G PoE BT.png",
+  "names": [
+   "2.5G PoE BT.png"
+  ],
+  "mime": "image/png",
+  "bytes": 1874637,
+  "n": 27,
+  "first_msg": "8cc1c862f224e1e6",
+  "x": "ok",
+  "chars": 40,
+  "method": "pillow+tesseract"
+ },
+ "65c4dd0b88622b5a": {
+  "name": "552DC368A6F846808778E41E36CB94BF.jpg",
+  "names": [
+   "552DC368A6F846808778E41E36CB94BF.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 30186,
+  "n": 6,
+  "first_msg": "7d90c2dbf6839a0e",
+  "x": "skip:image"
+ },
+ "03f72faf884a0b75": {
+  "name": "DC63D14D59FC445282B4360437E8EFF8.png",
+  "names": [
+   "DC63D14D59FC445282B4360437E8EFF8.png"
+  ],
+  "mime": "image/png",
+  "bytes": 276672,
+  "n": 6,
+  "first_msg": "7d90c2dbf6839a0e",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "6c630744e13c20e8": {
+  "name": "Miscellaneous Fee_Saga Telecom.pdf",
+  "names": [
+   "Miscellaneous Fee_Saga Telecom.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 212777,
+  "n": 1,
+  "first_msg": "43f6d2aa8672c5de",
+  "x": "ok",
+  "chars": 719,
+  "method": "pdfplumber"
+ },
+ "5acc4883e9071d46": {
+  "name": "Label_Saga Telecom.pdf",
+  "names": [
+   "Label_Saga Telecom.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 150224,
+  "n": 1,
+  "first_msg": "43f6d2aa8672c5de",
+  "x": "ok",
+  "chars": 581,
+  "method": "pdfplumber"
+ },
+ "c34479fe89095655": {
+  "name": "STI-154GP.pdf",
+  "names": [
+   "STI-154GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 530853,
+  "n": 1,
+  "first_msg": "71f84f290da90e77",
+  "x": "ok",
+  "chars": 11439,
+  "method": "pdfplumber"
+ },
+ "13f8a099082f44b3": {
+  "name": "STC-110XGE.pdf",
+  "names": [
+   "STC-110XGE.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 376632,
+  "n": 1,
+  "first_msg": "bcef381c219fdd90",
+  "x": "ok",
+  "chars": 8970,
+  "method": "pdfplumber"
+ },
+ "bb1dffddfbd2cd40": {
+  "name": "STC-108XGDGP.pdf",
+  "names": [
+   "STC-108XGDGP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 466990,
+  "n": 1,
+  "first_msg": "1d7b74c6c5e4034f",
+  "x": "ok",
+  "chars": 10630,
+  "method": "pdfplumber"
+ },
+ "69e9336625266e23": {
+  "name": "STC-18XGDGE.pdf",
+  "names": [
+   "STC-18XGDGE.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 459008,
+  "n": 1,
+  "first_msg": "1d7b74c6c5e4034f",
+  "x": "ok",
+  "chars": 9706,
+  "method": "pdfplumber"
+ },
+ "cadf78ae15e8e9fe": {
+  "name": "image001.png",
+  "names": [
+   "image001.png",
+   "2 SFP 2 Copper.png"
+  ],
+  "mime": "image/png",
+  "bytes": 390262,
+  "n": 216,
+  "first_msg": "c6b37adc9b215aed",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "aa3d9a57aacb3a6f": {
+  "name": "Price List_Marvell Industrial Unmanaged Switch.pdf",
+  "names": [
+   "Price List_Marvell Industrial Unmanaged Switch.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 1177504,
+  "n": 1,
+  "first_msg": "d1d7c72a90dcad26",
+  "x": "ok",
+  "chars": 9942,
+  "method": "pdfplumber"
+ },
+ "c6720d3651adf426": {
+  "name": "image001.png",
+  "names": [
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 88457,
+  "n": 17,
+  "first_msg": "757517a771a61024",
+  "x": "ok",
+  "chars": 670,
+  "method": "pillow+tesseract"
+ },
+ "0c5306333b1032bb": {
+  "name": "Quotation.pdf",
+  "names": [
+   "Quotation.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 224516,
+  "n": 1,
+  "first_msg": "112e99f1af79b68a",
+  "x": "ok",
+  "chars": 1782,
+  "method": "pdfplumber"
+ },
+ "4745caa6dc590932": {
+  "name": "STC-08XGWE.pdf",
+  "names": [
+   "STC-08XGWE.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 419081,
+  "n": 1,
+  "first_msg": "fa2d4aedda431ffa",
+  "x": "ok",
+  "chars": 10807,
+  "method": "pdfplumber"
+ },
+ "c9089501cd35e9fc": {
+  "name": "Test Report_STC-08XGE.xlsx",
+  "names": [
+   "Test Report_STC-08XGE.xlsx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "bytes": 9843900,
+  "n": 1,
+  "first_msg": "ab0b6e47bbc825f5",
+  "x": "ok",
+  "chars": 60747,
+  "method": "openpyxl(values)"
+ },
+ "5daa18cca5525f30": {
+  "name": "STC-110XGE.docx",
+  "names": [
+   "STC-110XGE.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 457546,
+  "n": 1,
+  "first_msg": "696d6a213ad761ca",
+  "x": "ok",
+  "chars": 9392,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "e2cae9c6cb369082": {
+  "name": "STI-280GE.pdf",
+  "names": [
+   "STI-280GE.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 666090,
+  "n": 1,
+  "first_msg": "4b941fc8bc10a130",
+  "x": "ok",
+  "chars": 10991,
+  "method": "pdfplumber"
+ },
+ "e21a9744267ce10c": {
+  "name": "STI-244GP.pdf",
+  "names": [
+   "STI-244GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 527615,
+  "n": 1,
+  "first_msg": "4b941fc8bc10a130",
+  "x": "ok",
+  "chars": 11396,
+  "method": "pdfplumber"
+ },
+ "0e413be3ec2e7493": {
+  "name": "System Diagram.jpg",
+  "names": [
+   "System Diagram.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 76369,
+  "n": 1,
+  "first_msg": "4dbd322d94d94597",
+  "x": "skip:image"
+ },
+ "d9ae3132abe2bf2f": {
+  "name": "SC fiber.png",
+  "names": [
+   "SC fiber.png"
+  ],
+  "mime": "image/png",
+  "bytes": 395343,
+  "n": 2,
+  "first_msg": "bd06ce435fb31c3b",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "4b7f9bcbf9d80056": {
+  "name": "2+2+8.jpg",
+  "names": [
+   "2+2+8.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 307737,
+  "n": 2,
+  "first_msg": "73efac8412c79d99",
+  "x": "ok",
+  "chars": 51,
+  "method": "pillow+tesseract"
+ },
+ "486924cd3f03ce2a": {
+  "name": "Full copper.png",
+  "names": [
+   "Full copper.png"
+  ],
+  "mime": "image/png",
+  "bytes": 432224,
+  "n": 4,
+  "first_msg": "5f5f8b6fb397f247",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "830d6919c82cb395": {
+  "name": "MC.png",
+  "names": [
+   "MC.png"
+  ],
+  "mime": "image/png",
+  "bytes": 448285,
+  "n": 8,
+  "first_msg": "26bf42b764879cb2",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "5f20b8c98bb2882f": {
+  "name": "0.png",
+  "names": [
+   "0.png"
+  ],
+  "mime": "image/png",
+  "bytes": 16093,
+  "n": 5,
+  "first_msg": "fc10d9fa6d583071",
+  "x": "skip:image"
+ },
+ "7290211b71fd84f5": {
+  "name": "image001.jpg",
+  "names": [
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 13361,
+  "n": 5,
+  "first_msg": "d193eed644ab4aa1",
+  "x": "skip:image"
+ },
+ "fd2327f59fb95b2f": {
+  "name": "2光8PoE管理.png",
+  "names": [
+   "2光8PoE管理.png"
+  ],
+  "mime": "image/png",
+  "bytes": 211645,
+  "n": 63,
+  "first_msg": "f9dc1088b1aa8564",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "65f877c47e8c1ebb": {
+  "name": "4+24 BT Auto.png",
+  "names": [
+   "4+24 BT Auto.png"
+  ],
+  "mime": "image/png",
+  "bytes": 1873193,
+  "n": 3,
+  "first_msg": "2428b9a46ebcf58b",
+  "x": "ok",
+  "chars": 159,
+  "method": "pillow+tesseract"
+ },
+ "16393c0862994028": {
+  "name": "MC.png",
+  "names": [
+   "MC.png"
+  ],
+  "mime": "image/png",
+  "bytes": 376801,
+  "n": 75,
+  "first_msg": "c05faecbdb7aa037",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "9a39361447fa8095": {
+  "name": "STC-18XGDGE.pdf",
+  "names": [
+   "STC-18XGDGE.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 459929,
+  "n": 1,
+  "first_msg": "7c571235207cd154",
+  "x": "ok",
+  "chars": 9706,
+  "method": "pdfplumber"
+ },
+ "d2fe499be2466562": {
+  "name": "pending.png",
+  "names": [
+   "pending.png"
+  ],
+  "mime": "image/png",
+  "bytes": 31727,
+  "n": 4,
+  "first_msg": "c0910a4341d7db3a",
+  "x": "skip:image"
+ },
+ "724cce26f7188ae1": {
+  "name": "mounting hanger.jpg",
+  "names": [
+   "mounting hanger.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 1737860,
+  "n": 1,
+  "first_msg": "b7d78b37a5053821",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "9342168b529b4c2a": {
+  "name": "Quotation.pdf",
+  "names": [
+   "Quotation.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 271795,
+  "n": 1,
+  "first_msg": "52ff15862f3f35c4",
+  "x": "ok",
+  "chars": 2393,
+  "method": "pdfplumber"
+ },
+ "d911e5f296d28ee6": {
+  "name": "STC-228GP.pdf",
+  "names": [
+   "STC-228GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 474430,
+  "n": 1,
+  "first_msg": "52ff15862f3f35c4",
+  "x": "ok",
+  "chars": 10920,
+  "method": "pdfplumber"
+ },
+ "6554a3f4a476d3a6": {
+  "name": "STC-2216GP.pdf",
+  "names": [
+   "STC-2216GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 496263,
+  "n": 1,
+  "first_msg": "52ff15862f3f35c4",
+  "x": "ok",
+  "chars": 11533,
+  "method": "pdfplumber"
+ },
+ "6dfe28a22cc3304c": {
+  "name": "STC-2224GP.pdf",
+  "names": [
+   "STC-2224GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 499297,
+  "n": 1,
+  "first_msg": "52ff15862f3f35c4",
+  "x": "ok",
+  "chars": 11556,
+  "method": "pdfplumber"
+ },
+ "11df4cc29cefc553": {
+  "name": "Ordering Information.pdf",
+  "names": [
+   "Ordering Information.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 157977,
+  "n": 1,
+  "first_msg": "cb9f87c4602c03ba",
+  "x": "ok",
+  "chars": 17697,
+  "method": "pdfplumber"
+ },
+ "a80aacffb7696934": {
+  "name": "Variants.pdf",
+  "names": [
+   "Variants.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 406430,
+  "n": 1,
+  "first_msg": "95fdad716d993fcd",
+  "x": "ok",
+  "chars": 607,
+  "method": "pdfplumber"
+ },
+ "8b9b9eab6e8f69f3": {
+  "name": "Quotation.pdf",
+  "names": [
+   "Quotation.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 276258,
+  "n": 1,
+  "first_msg": "95fdad716d993fcd",
+  "x": "ok",
+  "chars": 2499,
+  "method": "pdfplumber"
+ },
+ "2b17960048aecb10": {
+  "name": "Passive PoE.pdf",
+  "names": [
+   "Passive PoE.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 1218169,
+  "n": 1,
+  "first_msg": "b7f70c38b0bfdd26",
+  "x": "ok",
+  "chars": 17322,
+  "method": "pdfplumber"
+ },
+ "89b239f164d79746": {
+  "name": "STI-4168XGGCM-U.docx",
+  "names": [
+   "STI-4168XGGCM-U.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 383314,
+  "n": 1,
+  "first_msg": "73339deec6e397bd",
+  "x": "ok",
+  "chars": 12189,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "bb6967ccf16bc998": {
+  "name": "STC-4168XGGCM.docx",
+  "names": [
+   "STC-4168XGGCM.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 480136,
+  "n": 1,
+  "first_msg": "73339deec6e397bd",
+  "x": "ok",
+  "chars": 13289,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "4ecbda34e19df456": {
+  "name": "CLI Manual.docx",
+  "names": [
+   "CLI Manual.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 2423740,
+  "n": 2,
+  "first_msg": "73339deec6e397bd",
+  "x": "ok",
+  "chars": 371346,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "bd4dd29ce2bfde1d": {
+  "name": "Marvell Based Web Manual.docx",
+  "names": [
+   "Marvell Based Web Manual.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 4663950,
+  "n": 1,
+  "first_msg": "73339deec6e397bd",
+  "x": "ok",
+  "chars": 147345,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "a8ab457ae61bc5c3": {
+  "name": "STI-21616GP.pdf",
+  "names": [
+   "STI-21616GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 396724,
+  "n": 1,
+  "first_msg": "b88fdfbd72e71b7e",
+  "x": "ok",
+  "chars": 9470,
+  "method": "pdfplumber"
+ },
+ "43dfb99e12c38fdb": {
+  "name": "DIN Power Adapter.pdf",
+  "names": [
+   "DIN Power Adapter.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 191241,
+  "n": 1,
+  "first_msg": "04bb077d49311fda",
+  "x": "ok",
+  "chars": 3028,
+  "method": "pdfplumber"
+ },
+ "82c72d3e1bd2f784": {
+  "name": "Price.pdf",
+  "names": [
+   "Price.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 2075421,
+  "n": 1,
+  "first_msg": "38745aac247dcfb9",
+  "x": "ok",
+  "chars": 11073,
+  "method": "pdfplumber"
+ },
+ "c605084c4c6a2624": {
+  "name": "STC-228GP.pdf",
+  "names": [
+   "STC-228GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 421202,
+  "n": 1,
+  "first_msg": "8d75c75d51c26f58",
+  "x": "ok",
+  "chars": 10920,
+  "method": "pdfplumber"
+ },
+ "682f285ea6b38da7": {
+  "name": "STC-4424GCPM.pdf",
+  "names": [
+   "STC-4424GCPM.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 591854,
+  "n": 1,
+  "first_msg": "8c1d7c507bf9d631",
+  "x": "ok",
+  "chars": 15131,
+  "method": "pdfplumber"
+ },
+ "c5eb2d9f3472a049": {
+  "name": "s-l1200.webp",
+  "names": [
+   "s-l1200.webp"
+  ],
+  "mime": "image/webp",
+  "bytes": 19412,
+  "n": 1,
+  "first_msg": "f2187e6f5c356bda",
+  "x": "skip:image"
+ },
+ "e2457f10b2f0528f": {
+  "name": "image002.jpg",
+  "names": [
+   "image002.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 19072,
+  "n": 5,
+  "first_msg": "47e02a8b3d35c37e",
+  "x": "skip:image"
+ },
+ "a09a1e521e39b24c": {
+  "name": "image003.jpg",
+  "names": [
+   "image003.jpg",
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 17812,
+  "n": 8,
+  "first_msg": "47e02a8b3d35c37e",
+  "x": "skip:image"
+ },
+ "96b733aa175b01b3": {
+  "name": "Mini.png",
+  "names": [
+   "Mini.png"
+  ],
+  "mime": "image/png",
+  "bytes": 123274,
+  "n": 1,
+  "first_msg": "effa45ee7857ca74",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "c8de60c298dcdfcc": {
+  "name": "STI-050GE.pdf",
+  "names": [
+   "STI-050GE.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 452038,
+  "n": 1,
+  "first_msg": "6f9e1d3875bc1933",
+  "x": "ok",
+  "chars": 8299,
+  "method": "pdfplumber"
+ },
+ "146d45fe13143334": {
+  "name": "price list.png",
+  "names": [
+   "price list.png"
+  ],
+  "mime": "image/png",
+  "bytes": 39912,
+  "n": 2,
+  "first_msg": "b1540746ed4ce2a6",
+  "x": "skip:image"
+ },
+ "05e515b10b153a84": {
+  "name": "page 13 of PROFILE.png",
+  "names": [
+   "page 13 of PROFILE.png"
+  ],
+  "mime": "image/png",
+  "bytes": 166967,
+  "n": 1,
+  "first_msg": "b1540746ed4ce2a6",
+  "x": "ok",
+  "chars": 911,
+  "method": "pillow+tesseract"
+ },
+ "784ec80f99f2799f": {
+  "name": "Single Box.mp4",
+  "names": [
+   "Single Box.mp4"
+  ],
+  "mime": "video/mp4",
+  "bytes": 5248299,
+  "n": 1,
+  "first_msg": "009a27399ee1961b",
+  "x": "skip:type"
+ },
+ "dd41d1384732ed2c": {
+  "name": "STI-288DGGPM-2BT.pdf",
+  "names": [
+   "STI-288DGGPM-2BT.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 610522,
+  "n": 1,
+  "first_msg": "dbcc0fa9397615b2",
+  "x": "ok",
+  "chars": 13369,
+  "method": "pdfplumber"
+ },
+ "37bbb8459d448756": {
+  "name": "Special Models.pdf",
+  "names": [
+   "Special Models.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 755666,
+  "n": 1,
+  "first_msg": "8409f423ca6a7b98",
+  "x": "ok",
+  "chars": 20523,
+  "method": "pdfplumber"
+ },
+ "f816e9ae39b216c0": {
+  "name": "STC-624XGDGPM.docx",
+  "names": [
+   "STC-624XGDGPM.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 759803,
+  "n": 1,
+  "first_msg": "2148e33f91fd27d0",
+  "x": "ok",
+  "chars": 13639,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "8bec62cf65cf6fcf": {
+  "name": "Info.png",
+  "names": [
+   "Info.png"
+  ],
+  "mime": "image/png",
+  "bytes": 120518,
+  "n": 1,
+  "first_msg": "36b87dd538df10e4",
+  "x": "ok",
+  "chars": 758,
+  "method": "pillow+tesseract"
+ },
+ "6342661aaa1cf7c7": {
+  "name": "Customization.pdf",
+  "names": [
+   "Customization.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 323301,
+  "n": 1,
+  "first_msg": "2ee3a599d3bedbae",
+  "x": "ok",
+  "chars": 1370,
+  "method": "pdfplumber"
+ },
+ "6ca34c9e8e22ba2e": {
+  "name": "Invoice.pdf",
+  "names": [
+   "Invoice.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 232645,
+  "n": 1,
+  "first_msg": "4953070b9de38e66",
+  "x": "ok",
+  "chars": 2831,
+  "method": "pdfplumber"
+ },
+ "191732ce6b45da58": {
+  "name": "Quotation.pdf",
+  "names": [
+   "Quotation.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 183887,
+  "n": 1,
+  "first_msg": "e5b364a2376ca40c",
+  "x": "ok",
+  "chars": 1953,
+  "method": "pdfplumber"
+ },
+ "f0abd7986be19bba": {
+  "name": "STI-266FP.pdf",
+  "names": [
+   "STI-266FP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 642336,
+  "n": 1,
+  "first_msg": "e5b364a2376ca40c",
+  "x": "ok",
+  "chars": 11415,
+  "method": "pdfplumber"
+ },
+ "72ab83966614d4c5": {
+  "name": "STI-260FE.pdf",
+  "names": [
+   "STI-260FE.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 641893,
+  "n": 1,
+  "first_msg": "e5b364a2376ca40c",
+  "x": "ok",
+  "chars": 10844,
+  "method": "pdfplumber"
+ },
+ "942d20fe70ff4dc9": {
+  "name": "STC-120XGM.pdf",
+  "names": [
+   "STC-120XGM.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 479314,
+  "n": 1,
+  "first_msg": "9c34ff9a98f0c773",
+  "x": "ok",
+  "chars": 13612,
+  "method": "pdfplumber"
+ },
+ "30b4b4979927b38e": {
+  "name": "STC-448XGGMO.pdf",
+  "names": [
+   "STC-448XGGMO.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 429427,
+  "n": 1,
+  "first_msg": "9c34ff9a98f0c773",
+  "x": "ok",
+  "chars": 15222,
+  "method": "pdfplumber"
+ },
+ "8644a00a7912f210": {
+  "name": "STI-4168XGGCM-U.pdf",
+  "names": [
+   "STI-4168XGGCM-U.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 462506,
+  "n": 1,
+  "first_msg": "9c34ff9a98f0c773",
+  "x": "ok",
+  "chars": 13623,
+  "method": "pdfplumber"
+ },
+ "dc955c6f24e6feec": {
+  "name": "Model.png",
+  "names": [
+   "Model.png"
+  ],
+  "mime": "image/png",
+  "bytes": 230873,
+  "n": 1,
+  "first_msg": "f7eeb34e0ebf238b",
+  "x": "ok",
+  "chars": 21,
+  "method": "pillow+tesseract"
+ },
+ "b437564da2e331ac": {
+  "name": "STI-PA-120W-48V2.5A.pdf",
+  "names": [
+   "STI-PA-120W-48V2.5A.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 535006,
+  "n": 1,
+  "first_msg": "438fac8a6e60b71a",
+  "x": "ok",
+  "chars": 10235,
+  "method": "pdfplumber"
+ },
+ "0b0ac34d05eb32ad": {
+  "name": "STI-244DGGPM.pdf",
+  "names": [
+   "STI-244DGGPM.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 595091,
+  "n": 1,
+  "first_msg": "438fac8a6e60b71a",
+  "x": "ok",
+  "chars": 13245,
+  "method": "pdfplumber"
+ },
+ "620eedf5d34fd20c": {
+  "name": "STC-448XGGMO.pdf",
+  "names": [
+   "STC-448XGGMO.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 355649,
+  "n": 1,
+  "first_msg": "136af1055b96e5f9",
+  "x": "ok",
+  "chars": 12274,
+  "method": "pdfplumber"
+ },
+ "79b68c6d1f93762f": {
+  "name": "STC-624XGDGPM.pdf",
+  "names": [
+   "STC-624XGDGPM.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 442825,
+  "n": 1,
+  "first_msg": "301a7c14c9c81190",
+  "x": "ok",
+  "chars": 13531,
+  "method": "pdfplumber"
+ },
+ "2dfa29abd8ab977b": {
+  "name": "STI-244GP.pdf",
+  "names": [
+   "STI-244GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 527615,
+  "n": 1,
+  "first_msg": "063870521f2854ef",
+  "x": "ok",
+  "chars": 11396,
+  "method": "pdfplumber"
+ },
+ "cd9e4d9e60daf6d5": {
+  "name": "STC-448XGGPM.pdf",
+  "names": [
+   "STC-448XGGPM.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 600916,
+  "n": 1,
+  "first_msg": "deda136173372ce7",
+  "x": "ok",
+  "chars": 15141,
+  "method": "pdfplumber"
+ },
+ "e19ca7876ae197f1": {
+  "name": "DECDKG4UGCJP3KOFK1O58H.pdf",
+  "names": [
+   "DECDKG4UGCJP3KOFK1O58H.pdf"
+  ],
+  "mime": "application/octet-stream",
+  "bytes": 34143,
+  "n": 1,
+  "first_msg": "5ad075a1e447a481",
+  "x": "ok",
+  "chars": 1061,
+  "method": "pdfplumber+OCR(1p)"
+ },
+ "62fd882c235781d1": {
+  "name": "Trans_Receipt_EPMY2407128036.pdf",
+  "names": [
+   "Trans_Receipt_EPMY2407128036.pdf"
+  ],
+  "mime": "application/octet-stream",
+  "bytes": 561261,
+  "n": 1,
+  "first_msg": "d649c9e86a394ab2",
+  "x": "ok",
+  "chars": 3480,
+  "method": "pdfplumber+OCR(1p)"
+ },
+ "b538615fe5c21182": {
+  "name": "3层16口.png",
+  "names": [
+   "3层16口.png"
+  ],
+  "mime": "image/png",
+  "bytes": 245197,
+  "n": 9,
+  "first_msg": "237e25ce4dd53bb4",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "36e714e4d2ea0b56": {
+  "name": "PoE managed.jpg",
+  "names": [
+   "PoE managed.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 194368,
+  "n": 26,
+  "first_msg": "339cbb01ce7708ae",
+  "x": "ok",
+  "chars": 86,
+  "method": "pillow+tesseract"
+ },
+ "56ca5cd3e02d4825": {
+  "name": "Trans_Receipt_EPMY2407058006.pdf",
+  "names": [
+   "Trans_Receipt_EPMY2407058006.pdf"
+  ],
+  "mime": "application/octet-stream",
+  "bytes": 561748,
+  "n": 1,
+  "first_msg": "1c3c49206bf219dd",
+  "x": "ok",
+  "chars": 3477,
+  "method": "pdfplumber+OCR(1p)"
+ },
+ "b78d7d4c298c72d2": {
+  "name": "image001.jpg",
+  "names": [
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 121547,
+  "n": 5,
+  "first_msg": "eb1c2b5480ae215f",
+  "x": "ok",
+  "chars": 414,
+  "method": "pillow+tesseract"
+ },
+ "67abf2a7d18ce41c": {
+  "name": "image001.png",
+  "names": [
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 659894,
+  "n": 2,
+  "first_msg": "e056f44936325edc",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "cd3717ad9bb1b7af": {
+  "name": "image002.png",
+  "names": [
+   "image002.png"
+  ],
+  "mime": "image/png",
+  "bytes": 20679,
+  "n": 2,
+  "first_msg": "e056f44936325edc",
+  "x": "skip:image"
+ },
+ "82ea2660baba5abe": {
+  "name": "4 port PoE.png",
+  "names": [
+   "4 port PoE.png"
+  ],
+  "mime": "image/png",
+  "bytes": 435927,
+  "n": 4,
+  "first_msg": "37fbe4230c2e99d0",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "a0a1a1f1d46d3e2c": {
+  "name": "STC-08XGE.pdf",
+  "names": [
+   "STC-08XGE.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 446281,
+  "n": 1,
+  "first_msg": "af564e63f6de5441",
+  "x": "ok",
+  "chars": 9804,
+  "method": "pdfplumber"
+ },
+ "83f8fcbb57a1c0ea": {
+  "name": "STC-18XGDGE.pdf",
+  "names": [
+   "STC-18XGDGE.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 459008,
+  "n": 1,
+  "first_msg": "90a2996a99eb6cc2",
+  "x": "ok",
+  "chars": 9706,
+  "method": "pdfplumber"
+ },
+ "27f554aaf9d0a53e": {
+  "name": "SFP fiber.png",
+  "names": [
+   "SFP fiber.png"
+  ],
+  "mime": "image/png",
+  "bytes": 135478,
+  "n": 2,
+  "first_msg": "e28c3906f7365e04",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "0f8828afd87e657a": {
+  "name": "STI-PA-240W-48V5A.docx",
+  "names": [
+   "STI-PA-240W-48V5A.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 355709,
+  "n": 1,
+  "first_msg": "4df1977995e4e90b",
+  "x": "ok",
+  "chars": 7644,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "e7b12d5220ff13f0": {
+  "name": "DIN Power Adapter.pdf",
+  "names": [
+   "DIN Power Adapter.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 188465,
+  "n": 1,
+  "first_msg": "69615fba71fe5a65",
+  "x": "ok",
+  "chars": 2831,
+  "method": "pdfplumber"
+ },
+ "d8f2eea25006c325": {
+  "name": "With Serial port.png",
+  "names": [
+   "With Serial port.png"
+  ],
+  "mime": "image/png",
+  "bytes": 300563,
+  "n": 1,
+  "first_msg": "f49349074dd2f0b4",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "7c65563e99b639c6": {
+  "name": "C TİPİ ETHERNET ANAHTAR KGYS tr en.pdf",
+  "names": [
+   "C TİPİ ETHERNET ANAHTAR KGYS tr en.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 108123,
+  "n": 1,
+  "first_msg": "049ea6ab40f32907",
+  "x": "ok",
+  "chars": 4647,
+  "method": "pdfplumber"
+ },
+ "7e2a6bbfec81260e": {
+  "name": "systemconfig.png",
+  "names": [
+   "systemconfig.png"
+  ],
+  "mime": "image/png",
+  "bytes": 123343,
+  "n": 5,
+  "first_msg": "768d3e8f83711a2a",
+  "x": "ok",
+  "chars": 288,
+  "method": "pillow+tesseract"
+ },
+ "c7b9db92611d3970": {
+  "name": "shver.png",
+  "names": [
+   "shver.png"
+  ],
+  "mime": "image/png",
+  "bytes": 45223,
+  "n": 5,
+  "first_msg": "768d3e8f83711a2a",
+  "x": "skip:image"
+ },
+ "83012ed67abc16ae": {
+  "name": "dhcpserver.png",
+  "names": [
+   "dhcpserver.png"
+  ],
+  "mime": "image/png",
+  "bytes": 29993,
+  "n": 5,
+  "first_msg": "768d3e8f83711a2a",
+  "x": "skip:image"
+ },
+ "1aab5cf65a1f21bc": {
+  "name": "Page 100 of Web Manual.png",
+  "names": [
+   "Page 100 of Web Manual.png"
+  ],
+  "mime": "image/png",
+  "bytes": 64913,
+  "n": 1,
+  "first_msg": "eb5095824bc7d262",
+  "x": "skip:image"
+ },
+ "5b5ae749885f3178": {
+  "name": "STC-624XGDGPM.docx",
+  "names": [
+   "STC-624XGDGPM.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 888846,
+  "n": 1,
+  "first_msg": "dd7b0dd6b6f0e633",
+  "x": "ok",
+  "chars": 16318,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "7824494611d1016d": {
+  "name": "LK-Passport-chip.pdf",
+  "names": [
+   "LK-Passport-chip.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 634704,
+  "n": 1,
+  "first_msg": "7d2cbc98423c3734",
+  "x": "ok",
+  "chars": 596,
+  "method": "pdfplumber+OCR(1p)"
+ },
+ "d4c7805f75e23b4f": {
+  "name": "ANGORA TICARET SICIL 11 MART 2024 .pdf",
+  "names": [
+   "ANGORA TICARET SICIL 11 MART 2024 .pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 39597,
+  "n": 1,
+  "first_msg": "55e4938ebbcd268f",
+  "x": "ok",
+  "chars": 7717,
+  "method": "pdfplumber+OCR(1p)"
+ },
+ "28234f866210208b": {
+  "name": "customs.png",
+  "names": [
+   "customs.png"
+  ],
+  "mime": "image/png",
+  "bytes": 61027,
+  "n": 1,
+  "first_msg": "08d71191c7529e7c",
+  "x": "skip:image"
+ },
+ "bb1391d4548863ea": {
+  "name": "bank info.jpg",
+  "names": [
+   "bank info.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 332567,
+  "n": 1,
+  "first_msg": "08d71191c7529e7c",
+  "x": "ok",
+  "chars": 655,
+  "method": "pillow+tesseract"
+ },
+ "eb38f8ef4cce4af5": {
+  "name": "Google drive.png",
+  "names": [
+   "Google drive.png"
+  ],
+  "mime": "image/png",
+  "bytes": 48697,
+  "n": 1,
+  "first_msg": "d9e01e0328e1e862",
+  "x": "skip:image"
+ },
+ "c5814b677aec2843": {
+  "name": "Easy and Transparent Business.pdf",
+  "names": [
+   "Easy and Transparent Business.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 113177,
+  "n": 1,
+  "first_msg": "d9e01e0328e1e862",
+  "x": "ok",
+  "chars": 872,
+  "method": "pdfplumber"
+ },
+ "9856d021f09d10c3": {
+  "name": "Information.png",
+  "names": [
+   "Information.png"
+  ],
+  "mime": "image/png",
+  "bytes": 72845,
+  "n": 1,
+  "first_msg": "1ee47781752ef063",
+  "x": "skip:image"
+ },
+ "b38f54c6ca591526": {
+  "name": "before log-in.png",
+  "names": [
+   "before log-in.png"
+  ],
+  "mime": "image/png",
+  "bytes": 30502,
+  "n": 1,
+  "first_msg": "e3b6e1c9e2441923",
+  "x": "skip:image"
+ },
+ "01c5bf44da82295b": {
+  "name": "after log-in.png",
+  "names": [
+   "after log-in.png"
+  ],
+  "mime": "image/png",
+  "bytes": 71741,
+  "n": 1,
+  "first_msg": "e3b6e1c9e2441923",
+  "x": "skip:image"
+ },
+ "37a9a8dccd82c2c7": {
+  "name": "logo.png",
+  "names": [
+   "logo.png"
+  ],
+  "mime": "image/png",
+  "bytes": 68835,
+  "n": 1,
+  "first_msg": "7b66109227ca99a3",
+  "x": "skip:image"
+ },
+ "5adccba866ebef6b": {
+  "name": "STSC20240508007.pdf",
+  "names": [
+   "STSC20240508007.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 131426,
+  "n": 2,
+  "first_msg": "8f21bb16fe7da755",
+  "x": "ok",
+  "chars": 2957,
+  "method": "pdfplumber"
+ },
+ "546d3bbc1db353a2": {
+  "name": "zbe-dekont.pdf",
+  "names": [
+   "zbe-dekont.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 93988,
+  "n": 1,
+  "first_msg": "8f21bb16fe7da755",
+  "x": "ok",
+  "chars": 1151,
+  "method": "pdfplumber"
+ },
+ "235150fc81700a45": {
+  "name": "24 port.jpg",
+  "names": [
+   "24 port.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 4676471,
+  "n": 1,
+  "first_msg": "4f33c87624c9a28b",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "cec7828dedb186a2": {
+  "name": "8 port.jpg",
+  "names": [
+   "8 port.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 5626586,
+  "n": 1,
+  "first_msg": "4f33c87624c9a28b",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "82e2c3102b49cd7a": {
+  "name": "STSC20240502007.pdf",
+  "names": [
+   "STSC20240502007.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 129930,
+  "n": 1,
+  "first_msg": "4e09cd0323730e88",
+  "x": "ok",
+  "chars": 2599,
+  "method": "pdfplumber"
+ },
+ "d0aa4255a5646560": {
+  "name": "Quotation.xls",
+  "names": [
+   "Quotation.xls"
+  ],
+  "mime": "application/vnd.ms-excel",
+  "bytes": 171008,
+  "n": 1,
+  "first_msg": "4e09cd0323730e88",
+  "x": "ok",
+  "chars": 1731,
+  "method": "xlrd"
+ },
+ "c46b9c70a5f739e9": {
+  "name": "ANGORA LOGO2.jpeg",
+  "names": [
+   "ANGORA LOGO2.jpeg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 120567,
+  "n": 4,
+  "first_msg": "0da70d0306f6925b",
+  "x": "ok",
+  "chars": 8,
+  "method": "pillow+tesseract"
+ },
+ "7619a12fd7bf147b": {
+  "name": "ANGORA LOGO2.png",
+  "names": [
+   "ANGORA LOGO2.png"
+  ],
+  "mime": "image/png",
+  "bytes": 100006,
+  "n": 4,
+  "first_msg": "0da70d0306f6925b",
+  "x": "ok",
+  "chars": 12,
+  "method": "pillow+tesseract"
+ },
+ "c51ead0e8f1862b3": {
+  "name": "RGB.png",
+  "names": [
+   "RGB.png"
+  ],
+  "mime": "image/png",
+  "bytes": 106729,
+  "n": 1,
+  "first_msg": "04bc381dcf6e606b",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "d455458af6191e9a": {
+  "name": "2.png",
+  "names": [
+   "2.png"
+  ],
+  "mime": "image/png",
+  "bytes": 160504,
+  "n": 1,
+  "first_msg": "2ace785d6d413506",
+  "x": "ok",
+  "chars": 802,
+  "method": "pillow+tesseract"
+ },
+ "507dc3510b0246c4": {
+  "name": "3.png",
+  "names": [
+   "3.png"
+  ],
+  "mime": "image/png",
+  "bytes": 65325,
+  "n": 1,
+  "first_msg": "2ace785d6d413506",
+  "x": "skip:image"
+ },
+ "8586251a8a79dc7e": {
+  "name": "1.png",
+  "names": [
+   "1.png"
+  ],
+  "mime": "image/png",
+  "bytes": 180415,
+  "n": 1,
+  "first_msg": "2ace785d6d413506",
+  "x": "ok",
+  "chars": 501,
+  "method": "pillow+tesseract"
+ },
+ "d2b9341bfec91a86": {
+  "name": "STI-050GE.pdf",
+  "names": [
+   "STI-050GE.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 452038,
+  "n": 1,
+  "first_msg": "84e695e94d703321",
+  "x": "ok",
+  "chars": 8299,
+  "method": "pdfplumber"
+ },
+ "6d44602359290435": {
+  "name": "Trans_Receipt_EPMY2406217949.pdf",
+  "names": [
+   "Trans_Receipt_EPMY2406217949.pdf"
+  ],
+  "mime": "application/octet-stream",
+  "bytes": 560522,
+  "n": 1,
+  "first_msg": "c1ba293f8c865820",
+  "x": "ok",
+  "chars": 3473,
+  "method": "pdfplumber+OCR(1p)"
+ },
+ "e55c04aedd08c63f": {
+  "name": "STC-28GPM.pdf",
+  "names": [
+   "STC-28GPM.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 560093,
+  "n": 1,
+  "first_msg": "0bfc4e4d7a76ad1f",
+  "x": "ok",
+  "chars": 15005,
+  "method": "pdfplumber"
+ },
+ "f301c8ba6cacf4f4": {
+  "name": "12x4 Signature CÂBLAGE & CONNECTIQUE (1).gif",
+  "names": [
+   "12x4 Signature CÂBLAGE & CONNECTIQUE (1).gif"
+  ],
+  "mime": "image/gif",
+  "bytes": 192201,
+  "n": 3,
+  "first_msg": "341fd7e11c4f030e",
+  "x": "ok",
+  "chars": 281,
+  "method": "pillow+tesseract"
+ },
+ "d8a9d4b380558a59": {
+  "name": "Catalog.pdf",
+  "names": [
+   "Catalog.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 5183319,
+  "n": 1,
+  "first_msg": "69f9bee0119e4b12",
+  "x": "ok",
+  "chars": 62613,
+  "method": "pdfplumber"
+ },
+ "86cb56f6ecb5c063": {
+  "name": "STC-28GPM.pdf",
+  "names": [
+   "STC-28GPM.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 487687,
+  "n": 1,
+  "first_msg": "69acc1e645bfa1c1",
+  "x": "ok",
+  "chars": 12979,
+  "method": "pdfplumber"
+ },
+ "8da5230489447049": {
+  "name": "STC-624XGDGM.docx",
+  "names": [
+   "STC-624XGDGM.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 851189,
+  "n": 1,
+  "first_msg": "4dc8c3b789722006",
+  "x": "ok",
+  "chars": 15448,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "7346f850e38da49f": {
+  "name": "STI-4168XGGCM-U.docx",
+  "names": [
+   "STI-4168XGGCM-U.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 511618,
+  "n": 1,
+  "first_msg": "e0abfb3db9cff89e",
+  "x": "ok",
+  "chars": 14237,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "ff8c1cb8ff260a12": {
+  "name": "STI-288DGGPM.docx",
+  "names": [
+   "STI-288DGGPM.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 1324444,
+  "n": 1,
+  "first_msg": "e0abfb3db9cff89e",
+  "x": "ok",
+  "chars": 13813,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "a6d957ed3d93054f": {
+  "name": "Marvell Based Web Manual.docx",
+  "names": [
+   "Marvell Based Web Manual.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 4643428,
+  "n": 1,
+  "first_msg": "e0abfb3db9cff89e",
+  "x": "ok",
+  "chars": 147345,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "4f639a3eccdeb411": {
+  "name": "CLI Manual.pdf",
+  "names": [
+   "CLI Manual.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 6036826,
+  "n": 1,
+  "first_msg": "1489289b3aad4e69",
+  "x": "ok",
+  "chars": 400017,
+  "method": "pdfplumber"
+ },
+ "1f5d3383b4251a68": {
+  "name": "STI-480XGGM.pdf",
+  "names": [
+   "STI-480XGGM.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 349207,
+  "n": 1,
+  "first_msg": "0427d9e1c3995272",
+  "x": "ok",
+  "chars": 10333,
+  "method": "pdfplumber"
+ },
+ "0b5506a6f6bb4e3b": {
+  "name": "Marvell Based Web Manual.pdf",
+  "names": [
+   "Marvell Based Web Manual.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 3896690,
+  "n": 1,
+  "first_msg": "0427d9e1c3995272",
+  "x": "ok",
+  "chars": 141406,
+  "method": "pdfplumber"
+ },
+ "898a606f31ba2f1d": {
+  "name": "Invoice_bank payment.pdf",
+  "names": [
+   "Invoice_bank payment.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 129939,
+  "n": 1,
+  "first_msg": "3c88bfd8760e162d",
+  "x": "ok",
+  "chars": 2367,
+  "method": "pdfplumber"
+ },
+ "b499eddacc027b35": {
+  "name": "Invoice.pdf",
+  "names": [
+   "Invoice.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 130856,
+  "n": 1,
+  "first_msg": "f1756d687dfd1ee3",
+  "x": "ok",
+  "chars": 2278,
+  "method": "pdfplumber"
+ },
+ "f23e26daa171c828": {
+  "name": "STC-228GP.pdf",
+  "names": [
+   "STC-228GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 474430,
+  "n": 1,
+  "first_msg": "101563282aac0b03",
+  "x": "ok",
+  "chars": 10920,
+  "method": "pdfplumber"
+ },
+ "9922042292a25a23": {
+  "name": "STC-448XGGM.pdf",
+  "names": [
+   "STC-448XGGM.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 487433,
+  "n": 1,
+  "first_msg": "101563282aac0b03",
+  "x": "ok",
+  "chars": 14835,
+  "method": "pdfplumber"
+ },
+ "e5bbdc012e11c20c": {
+  "name": "STC-4424GCPM.pdf",
+  "names": [
+   "STC-4424GCPM.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 591854,
+  "n": 1,
+  "first_msg": "101563282aac0b03",
+  "x": "ok",
+  "chars": 15131,
+  "method": "pdfplumber"
+ },
+ "5c11d51448d889b0": {
+  "name": "1718243624067.jpg",
+  "names": [
+   "1718243624067.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 61683,
+  "n": 2,
+  "first_msg": "0d5454ee903208ab",
+  "x": "skip:image"
+ },
+ "dcc7b35f5b511e42": {
+  "name": "image001.png",
+  "names": [
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 161,
+  "n": 1,
+  "first_msg": "82d786efadce8b6a",
+  "x": "skip:image"
+ },
+ "87cc4030186e1c67": {
+  "name": "image002.jpg",
+  "names": [
+   "image002.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 10988,
+  "n": 1,
+  "first_msg": "82d786efadce8b6a",
+  "x": "skip:image"
+ },
+ "7fa8d5d8160b5136": {
+  "name": "image001.png",
+  "names": [
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 494,
+  "n": 1,
+  "first_msg": "7203d72a927b7030",
+  "x": "skip:image"
+ },
+ "52d20b40c637de62": {
+  "name": "image002.png",
+  "names": [
+   "image002.png"
+  ],
+  "mime": "image/png",
+  "bytes": 600,
+  "n": 1,
+  "first_msg": "7203d72a927b7030",
+  "x": "skip:image"
+ },
+ "c0cd9a36de25a0e3": {
+  "name": "image003.png",
+  "names": [
+   "image003.png"
+  ],
+  "mime": "image/png",
+  "bytes": 608,
+  "n": 1,
+  "first_msg": "7203d72a927b7030",
+  "x": "skip:image"
+ },
+ "09915b1febd917fe": {
+  "name": "image004.png",
+  "names": [
+   "image004.png"
+  ],
+  "mime": "image/png",
+  "bytes": 773,
+  "n": 1,
+  "first_msg": "7203d72a927b7030",
+  "x": "skip:image"
+ },
+ "d10a1cf6c734a7e0": {
+  "name": "image005.png",
+  "names": [
+   "image005.png"
+  ],
+  "mime": "image/png",
+  "bytes": 9654,
+  "n": 1,
+  "first_msg": "7203d72a927b7030",
+  "x": "skip:image"
+ },
+ "2907e519bd903d71": {
+  "name": "image006.png",
+  "names": [
+   "image006.png"
+  ],
+  "mime": "image/png",
+  "bytes": 1278,
+  "n": 1,
+  "first_msg": "7203d72a927b7030",
+  "x": "skip:image"
+ },
+ "87026f788423b905": {
+  "name": "image007.png",
+  "names": [
+   "image007.png"
+  ],
+  "mime": "image/png",
+  "bytes": 1046,
+  "n": 1,
+  "first_msg": "7203d72a927b7030",
+  "x": "skip:image"
+ },
+ "d8492a8130862afa": {
+  "name": "image008.png",
+  "names": [
+   "image008.png"
+  ],
+  "mime": "image/png",
+  "bytes": 1076,
+  "n": 1,
+  "first_msg": "7203d72a927b7030",
+  "x": "skip:image"
+ },
+ "e99a10c2eabb8127": {
+  "name": "image009.png",
+  "names": [
+   "image009.png"
+  ],
+  "mime": "image/png",
+  "bytes": 1254,
+  "n": 1,
+  "first_msg": "7203d72a927b7030",
+  "x": "skip:image"
+ },
+ "dc547fb38aaee12a": {
+  "name": "image010.png",
+  "names": [
+   "image010.png"
+  ],
+  "mime": "image/png",
+  "bytes": 1043,
+  "n": 1,
+  "first_msg": "7203d72a927b7030",
+  "x": "skip:image"
+ },
+ "6f9202412b78ac36": {
+  "name": "image011.png",
+  "names": [
+   "image011.png"
+  ],
+  "mime": "image/png",
+  "bytes": 1044,
+  "n": 1,
+  "first_msg": "7203d72a927b7030",
+  "x": "skip:image"
+ },
+ "708c42dab94330f2": {
+  "name": "image012.png",
+  "names": [
+   "image012.png"
+  ],
+  "mime": "image/png",
+  "bytes": 1261,
+  "n": 1,
+  "first_msg": "7203d72a927b7030",
+  "x": "skip:image"
+ },
+ "1dc631e235fed790": {
+  "name": "Access and aggregation switches specs.docx",
+  "names": [
+   "Access and aggregation switches specs.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 1139780,
+  "n": 1,
+  "first_msg": "7203d72a927b7030",
+  "x": "ok",
+  "chars": 5223,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "db2ee0de9604d68f": {
+  "name": "QUOTE_00090069.PDF",
+  "names": [
+   "QUOTE_00090069.PDF"
+  ],
+  "mime": "application/pdf",
+  "bytes": 9543,
+  "n": 1,
+  "first_msg": "01a8e2a70ec81814",
+  "x": "ok",
+  "chars": 1222,
+  "method": "pdfplumber"
+ },
+ "05fc04ca03403119": {
+  "name": "RFQ MCB and Accessories.pdf",
+  "names": [
+   "RFQ MCB and Accessories.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 168394,
+  "n": 1,
+  "first_msg": "2ff1477327f64427",
+  "x": "ok",
+  "chars": 1205,
+  "method": "pdfplumber"
+ },
+ "ee2876930390f379": {
+  "name": "RFQ FOR TELECOM ITEMS.xlsx",
+  "names": [
+   "RFQ FOR TELECOM ITEMS.xlsx"
+  ],
+  "mime": "application/octet-stream",
+  "bytes": 39148,
+  "n": 2,
+  "first_msg": "0c993be0c8b28c1b",
+  "x": "fail",
+  "err": "RuntimeError: openpyxl: Unable to read workbook: could not read stylesheet from /tmp/att_m08bn05c/RFQ_FOR_TELECOM_ITEMS.xlsx.\nThis is most probably because the workbook sourc; soffice-xlsx: Unable to read workbook: could not read stylesheet from /tmp/att_m08bn05c/RFQ_FOR_TELECOM_ITEMS.xlsx.\nThis is "
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "sha256_16": "6a396ddc8e1b321e",
+ "name": "2+8 Auto.png",
+ "ext": ".png",
+ "bytes": 700379,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1827,
+  "height": 552,
+  "mode": "RGBA",
+  "thumb_bytes": 5976
+ },
+ "warnings": [],
+ "chars": 112,
+ "text": "PoE 生: 3 5 7\nPoE:Green-48V orange-24V\nLink:Green-10/100M orange-1000M\nGigabit Fiber PoE Switch\n8GE PoE+2SFP-AUTO",
+ "extracted_at": "2026-10-22T03:45:31Z"
+}

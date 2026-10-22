@@ -1,0 +1,23 @@
+{
+ "sha256_16": "5e5530ddb7b3db2c",
+ "name": "Actual Photo.jpeg",
+ "ext": ".jpeg",
+ "bytes": 1259974,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 3996,
+  "height": 2019,
+  "mode": "RGB",
+  "datetime": "2022:03:03 11:10:51",
+  "make": "HUAWEI",
+  "model": "YAL-AL50",
+  "software": "YAL-AL50 10.1.0.119(C00E95R8P1)",
+  "thumb_bytes": 9635
+ },
+ "warnings": [],
+ "chars": 23,
+ "text": "Console\n(aay\n] sys\n|\nmt",
+ "extracted_at": "2026-10-22T03:47:56Z"
+}

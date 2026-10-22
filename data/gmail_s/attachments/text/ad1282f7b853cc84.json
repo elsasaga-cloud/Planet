@@ -1,0 +1,19 @@
+{
+ "sha256_16": "ad1282f7b853cc84",
+ "name": "2.5G Ethernet.jpg",
+ "ext": ".jpg",
+ "bytes": 146894,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 3346,
+  "height": 1018,
+  "mode": "RGB",
+  "thumb_bytes": 4938
+ },
+ "warnings": [],
+ "chars": 64,
+ "text": "9 (10G)\n2.5G Link/Act 10/100/1000M Link/Act 2.5G Ethernet Switch",
+ "extracted_at": "2026-10-22T03:44:41Z"
+}

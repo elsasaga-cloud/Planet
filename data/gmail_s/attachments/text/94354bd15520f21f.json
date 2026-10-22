@@ -1,0 +1,19 @@
+{
+ "sha256_16": "94354bd15520f21f",
+ "name": "Model 2.png",
+ "ext": ".png",
+ "bytes": 291512,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "PNG",
+  "width": 1056,
+  "height": 259,
+  "mode": "RGBA",
+  "thumb_bytes": 5347
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:44:14Z"
+}

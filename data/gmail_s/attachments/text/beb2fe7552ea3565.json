@@ -1,0 +1,24 @@
+{
+ "sha256_16": "beb2fe7552ea3565",
+ "name": "Money-transfer[102833].pdf",
+ "ext": ".pdf",
+ "bytes": 44712,
+ "method": "pdfplumber",
+ "status": "ok",
+ "meta": {
+  "pages": 1,
+  "title": "Journal",
+  "creator": "StarMoney Business 12",
+  "producer": "DynaPDF 4.0.87.250",
+  "creationdate": "D:20250929131630+02'00'",
+  "moddate": "D:20250929131630+02'00'",
+  "ocr_pages": 0
+ },
+ "warnings": [],
+ "chars": 487,
+ "text": "[p1]\nStarMoney Business 12 29.09.2025 13:16:30\nJournal\nzum Konto 4710995012- Kontokorrent (USD) - VB, 4710995012\nvom 29.09.2025 um 13:06:19 Uhr\nGesendet von: Administrator\nEmpfänger/Zahlungspflichtiger Ende-zu-Ende-Referenz Betrag Währung Fälligkeit\nKontonummer/IBAN Mandatsreferenz Rechnungsbetrag Währung\nBankleitzahl/BIC Mandatsstatus Auftrag/Textschlüssel\nVerwendungszweck\n420,00 USD 29.09.25\n63003662406\nCHASHKHH SAÜ\nInvoice STSC20250915015\nAnzahl: 1\nSumme: 420,00 USD\nSeite 1 von 1",
+ "pages": [
+  "StarMoney Business 12 29.09.2025 13:16:30\nJournal\nzum Konto 4710995012- Kontokorrent (USD) - VB, 4710995012\nvom 29.09.2025 um 13:06:19 Uhr\nGesendet von: Administrator\nEmpfänger/Zahlungspflichtiger Ende-zu-Ende-Referenz Betrag Währung Fälligkeit\nKontonummer/IBAN Mandatsreferenz Rechnungsbetrag Währung\nBankleitzahl/BIC Mandatsstatus Auftrag/Textschlüssel\nVerwendungszweck\n420,00 USD 29.09.25\n63003662406\nCHASHKHH SAÜ\nInvoice STSC20250915015\nAnzahl: 1\nSumme: 420,00 USD\nSeite 1 von 1"
+ ],
+ "extracted_at": "2026-10-22T03:41:31Z"
+}

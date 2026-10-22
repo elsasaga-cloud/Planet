@@ -1,0 +1,19 @@
+{
+ "sha256_16": "9b8e18e7346cae09",
+ "name": "industrial grade.png",
+ "ext": ".png",
+ "bytes": 4173490,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 5000,
+  "height": 1551,
+  "mode": "RGBA",
+  "thumb_bytes": 5214
+ },
+ "warnings": [],
+ "chars": 70,
+ "text": "Yellow:PoE/Speed Green:Link/act\nConsole\n135900 841 perv — QO\nwes payee",
+ "extracted_at": "2026-10-22T03:44:21Z"
+}

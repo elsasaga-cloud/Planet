@@ -1,0 +1,19 @@
+{
+ "sha256_16": "8d31eeb1c0550786",
+ "name": "Industrial Model.png",
+ "ext": ".png",
+ "bytes": 4123401,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 5000,
+  "height": 1551,
+  "mode": "RGBA",
+  "thumb_bytes": 5558
+ },
+ "warnings": [],
+ "chars": 52,
+ "text": "Yellow:PoE/Speed Green:Link/act\nConsole\n115200.8.N.1",
+ "extracted_at": "2026-10-22T03:47:29Z"
+}

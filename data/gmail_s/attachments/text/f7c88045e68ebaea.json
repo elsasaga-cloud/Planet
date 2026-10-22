@@ -1,0 +1,24 @@
+{
+ "sha256_16": "f7c88045e68ebaea",
+ "name": "Gmail - Firstrade登入确认通知.pdf",
+ "ext": ".pdf",
+ "bytes": 187756,
+ "method": "pdfplumber",
+ "status": "ok",
+ "meta": {
+  "pages": 1,
+  "title": "Gmail - Firstrade登入确认通知",
+  "creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+  "producer": "Skia/PDF m146",
+  "creationdate": "D:20261020013357+00'00'",
+  "moddate": "D:20261020013357+00'00'",
+  "ocr_pages": 0
+ },
+ "warnings": [],
+ "chars": 581,
+ "text": "[p1]\n10/20/26, 9:33 AM Gmail - Firstrade登⼊确认通知\nSimon <s.sagatelecom@gmail.com>\nFirstrade登⼊确认通知\n1 message\n第⼀证券 <sender@firstrade.com> Fri, Oct 16, 2026 at 3:49 PM\nReply-To: do-not-reply@firstrade.com\nTo: s.sagatelecom@gmail.com\n尊敬的客⼾,\n为了保障您的账⼾安全，我们系统显⽰您在以下时间登⼊过账⼾，相关资讯如下：\n⽇期与时间： 美东时间2026年10⽉16⽇上午3点49分\n操作系统： Windows\n浏览器： Chrome\n若您在以上时间登⼊过firstrade.com，请您忽略此邮件。\n若您在以上时间没有登⼊过firstrade.com，请您及时与我们的客服联系。\n感谢您选择第⼀证券。\nFirstrade Securities Inc.\n美国第⼀证券公司\nhttps://mail.google.com/mail/u/0/?ik=907b16b753&view=pt&search=all&permthid=thread-f:1879191829351577687&simpl=msg-f:1879191829351… 1/1",
+ "pages": [
+  "10/20/26, 9:33 AM Gmail - Firstrade登⼊确认通知\nSimon <s.sagatelecom@gmail.com>\nFirstrade登⼊确认通知\n1 message\n第⼀证券 <sender@firstrade.com> Fri, Oct 16, 2026 at 3:49 PM\nReply-To: do-not-reply@firstrade.com\nTo: s.sagatelecom@gmail.com\n尊敬的客⼾,\n为了保障您的账⼾安全，我们系统显⽰您在以下时间登⼊过账⼾，相关资讯如下：\n⽇期与时间： 美东时间2026年10⽉16⽇上午3点49分\n操作系统： Windows\n浏览器： Chrome\n若您在以上时间登⼊过firstrade.com，请您忽略此邮件。\n若您在以上时间没有登⼊过firstrade.com，请您及时与我们的客服联系。\n感谢您选择第⼀证券。\nFirstrade Securities Inc.\n美国第⼀证券公司\nhttps://mail.google.com/mail/u/0/?ik=907b16b753&view=pt&search=all&permthid=thread-f:1879191829351577687&simpl=msg-f:1879191829351… 1/1"
+ ],
+ "extracted_at": "2026-10-22T03:40:31Z"
+}

@@ -1,0 +1,24 @@
+{
+ "sha256_16": "5acf7f33713df765",
+ "name": "Case Study_Passive PoE.pdf",
+ "ext": ".pdf",
+ "bytes": 227027,
+ "method": "pdfplumber",
+ "status": "ok",
+ "meta": {
+  "pages": 2,
+  "author": "Simon",
+  "creator": "WPS 文字",
+  "creationdate": "D:20241028143238+06'32'",
+  "moddate": "D:20241028143238+06'32'",
+  "ocr_pages": 0
+ },
+ "warnings": [],
+ "chars": 1695,
+ "text": "[p1]\n2025/Q1 s.sagatelecom@gmail.com\nSagaTelecom\nwww.sagatelecom.com.cn\nCaseStudy\nApplication\nHospitalNurseCallSystem\nPDs\nLEDlights:providelightincorridors,wardsandbathrooms\nCorridortouchpanels:indicatingtime,diagnosticsequence,hospitalinformation\nCameras:real-timemonitoring\nSpeakers:playmusic,emergencycommunication,maintainorder\nDoorcontacts:addedsecurityforwards,authorizedaccess\nCallpoints:efficientcommunication,emergencycall\nAlarms:dangerwarning\nConnecting,Converting,Creating\n\n[p2]\n2025/Q1 s.sagatelecom@gmail.com\nSagaTelecom\nwww.sagatelecom.com.cn\nModel\nSTC-2224GFP-24V\nSpecification:2*1GSFP+2*1GCopperuplink+24*10/100MPoEdownlink,24VPoEoutput\nUsefulfeature:24VPoEoutput\nSTC-208GP-Auto\nSpecification:2*1GSFP+8*10/100/1000MPoE,auto-adaptive24V/48VPoEoutput\nUsefulfeature:auto-adaptive24V/48VPoEoutput\nSTC-4424GCP-4BT-Auto\nSpecification:4*1GSFP/RJ45Combo+24*10/100/1000MPoE,1~4PoEportsauto-adaptive24V/48VPoE\noutput,5~8PoEportssupportPoEaf/at/btoutput\nUsefulfeature:4*1GCombo,auto-adaptive24V/48VPoEoutput,PoEaf/at/btoutput\nForabovelistedPDs,mostreceive24Vpowerinput,somedo48V(likePoEcameras).\nTherecommended3modelsarewellsuitedforsuchprojectsorsimilar.\n24VPoEoutput:for24VpowerinputPDs\nAuto-adaptive24V/48VPoEoutput:formultiplePDswithboth24Vand48Vpowerinput\nCombo:forflexibleportcombination\nPoEaf/at/bt:forsomepower-hungrydeviceslikePTZcamera,digitalsignage\nConclusion\nAboveinformationexplainsatypical24VpassivePoEapplicationproject.\nByanalyzingthePDsandmodelfeaturesfromSagaTelecom,aPoEsolutionpackageisprovidedandalsoapplicable\ntosimilarprojects.\nMoreover:SagaTelecomalsooffersactivePoEswitchesorindustrialPoEswitches,pleasetalkwithusformore\ninformation.\nConnecting,Converting,Creating",
+ "pages": [
+  "2025/Q1 s.sagatelecom@gmail.com\nSagaTelecom\nwww.sagatelecom.com.cn\nCaseStudy\nApplication\nHospitalNurseCallSystem\nPDs\nLEDlights:providelightincorridors,wardsandbathrooms\nCorridortouchpanels:indicatingtime,diagnosticsequence,hospitalinformation\nCameras:real-timemonitoring\nSpeakers:playmusic,emergencycommunication,maintainorder\nDoorcontacts:addedsecurityforwards,authorizedaccess\nCallpoints:efficientcommunication,emergencycall\nAlarms:dangerwarning\nConnecting,Converting,Creating",
+  "2025/Q1 s.sagatelecom@gmail.com\nSagaTelecom\nwww.sagatelecom.com.cn\nModel\nSTC-2224GFP-24V\nSpecification:2*1GSFP+2*1GCopperuplink+24*10/100MPoEdownlink,24VPoEoutput\nUsefulfeature:24VPoEoutput\nSTC-208GP-Auto\nSpecification:2*1GSFP+8*10/100/1000MPoE,auto-adaptive24V/48VPoEoutput\nUsefulfeature:auto-adaptive24V/48VPoEoutput\nSTC-4424GCP-4BT-Auto\nSpecification:4*1GSFP/RJ45Combo+24*10/100/1000MPoE,1~4PoEportsauto-adaptive24V/48VPoE\noutput,5~8PoEportssupportPoEaf/at/btoutput\nUsefulfeature:4*1GCombo,auto-adaptive24V/48VPoEoutput,PoEaf/at/btoutput\nForabovelistedPDs,mostreceive24Vpowerinput,somedo48V(likePoEcameras).\nTherecommended3modelsarewellsuitedforsuchprojectsorsimilar.\n24VPoEoutput:for24VpowerinputPDs\nAuto-adaptive24V/48VPoEoutput:formultiplePDswithboth24Vand48Vpowerinput\nCombo:forflexibleportcombination\nPoEaf/at/bt:forsomepower-hungrydeviceslikePTZcamera,digitalsignage\nConclusion\nAboveinformationexplainsatypical24VpassivePoEapplicationproject.\nByanalyzingthePDsandmodelfeaturesfromSagaTelecom,aPoEsolutionpackageisprovidedandalsoapplicable\ntosimilarprojects.\nMoreover:SagaTelecomalsooffersactivePoEswitchesorindustrialPoEswitches,pleasetalkwithusformore\ninformation.\nConnecting,Converting,Creating"
+ ],
+ "extracted_at": "2026-10-22T03:45:35Z"
+}

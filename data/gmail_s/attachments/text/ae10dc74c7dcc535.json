@@ -1,0 +1,264 @@
+{
+ "sha256_16": "ae10dc74c7dcc535",
+ "name": "Reply_2024.10.23.docx",
+ "ext": ".docx",
+ "bytes": 1251020,
+ "method": "python-docx(段落+表格+文本框+页眉页脚)",
+ "status": "ok",
+ "meta": {
+  "title": "",
+  "author": "Simon",
+  "last_modified_by": "Simon",
+  "created": "2024-04-22T07:22:00+00:00",
+  "modified": "2024-10-23T01:45:29+00:00",
+  "paragraphs": 48,
+  "tables": 0,
+  "embedded_images": 6
+ },
+ "warnings": [],
+ "chars": 2776,
+ "text": "Hi. Levent,\nThanks for your information.\n1, PVC mask file looks a little blurry, and I notice that there is not a big change\n1.1: change LED description to your model name\n1.2: add your logo\nI think that is all, please let me know if any\nWith the PS file you shared, we will later work out a sample photo for your confirmation.\n2, OK, so just for those 5 units, for 2 units of industrial switch, still use our MAC address?\n3, We will remove “made in China” from the label.\nPower cable is EU standard in the packing box, or here do you mean put this information on the label?\n4, please see attached CI and let me know if this is what is needed for clearance.\nBesides this, I would like to finalize something more with you.\nPlease see below label photo, this is for last order and also based on our daily practices.\nActually would like to finalize the format with you(kinda related to the 3rd point above)\nTitle\nWe have “Commercial Switch” and “Industrial Switch” and do not show if it is PoE or Managed on the title(just in description)\nFont\nWe do Times New Roman\nSerial Number\nIt is based on the production date(not shipping date or something, this order will be 20241022001~...)\nDo you need a change of above information?(Maybe some not even listed)\nWe expect you to have a FINAL format for future orders\nUser Manual\nDo you need to use your version?\nWarranty Card\nWe do not have it, but will issue a “certification of warranty”\nIs this OK?\nDo you need a change or something?\nLogo\nIn the PVC design, it is the blue logo, the same as last order we put it in WEB GUI, right?\nWe will always use this photo as long as your logo is involved, OK?(unless you explicitly inform us not or of a new photo)\nMAC address\nWe will use yours and please just provide it when you have an order for us, OK?\nSometimes it is OK to use ours if it is not mandatory, it is up to you.\nWhat do you think?\nProduct photos\nWe will always send actual photos of your order before shipment.\nLike WEB GUI or packing photos...\nBUT, please know that if a model is placed before, we will not send new photos when purchased again, just save the trouble.\nThis is OK?\nClearance\nAt our side, we can almost do nothing about your local import, just change the commercial invoice BEFORE shipment(just like this time, 4th point aforementioned)\nSo we will just help revise it as long as it helps clearance.\nThis is OK?\nCurrently this is almost all, maybe more in the future.\nI will draft a separate file to include your reply and finalized rules, then upload it to the google drive folder.\nThis is just one point, establish formats/rules to make the discussion/business simple and standard.\nPlease let me know.\nThank you.\n[页眉页脚]\ns.sagatelecom@gmail.com\nSaga Telecom\nwww.sagatelecom.com.cn\nConnecting, Converting, Creating",
+ "blocks": [
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Hi. Levent,"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Thanks for your information."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1, PVC mask file looks a little blurry, and I notice that there is not a big change"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1.1: change LED description to your model name"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1.2: add your logo"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "I think that is all, please let me know if any"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "With the PS file you shared, we will later work out a sample photo for your confirmation."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "2, OK, so just for those 5 units, for 2 units of industrial switch, still use our MAC address?"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "3, We will remove “made in China” from the label."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Power cable is EU standard in the packing box, or here do you mean put this information on the label?"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "4, please see attached CI and let me know if this is what is needed for clearance."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Besides this, I would like to finalize something more with you."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please see below label photo, this is for last order and also based on our daily practices."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Actually would like to finalize the format with you(kinda related to the 3rd point above)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Title"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We have “Commercial Switch” and “Industrial Switch” and do not show if it is PoE or Managed on the title(just in description)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Font"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We do Times New Roman"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Serial Number"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is based on the production date(not shipping date or something, this order will be 20241022001~...)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Do you need a change of above information?(Maybe some not even listed)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We expect you to have a FINAL format for future orders"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "User Manual"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Do you need to use your version?"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Warranty Card"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We do not have it, but will issue a “certification of warranty”"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Is this OK?"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Do you need a change or something?"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Logo\nIn the PVC design, it is the blue logo, the same as last order we put it in WEB GUI, right?"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We will always use this photo as long as your logo is involved, OK?(unless you explicitly inform us not or of a new photo)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "MAC address"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We will use yours and please just provide it when you have an order for us, OK?"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Sometimes it is OK to use ours if it is not mandatory, it is up to you."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "What do you think?"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Product photos"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We will always send actual photos of your order before shipment."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Like WEB GUI or packing photos..."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "BUT, please know that if a model is placed before, we will not send new photos when purchased again, just save the trouble."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "This is OK?"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Clearance"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "At our side, we can almost do nothing about your local import, just change the commercial invoice BEFORE shipment(just like this time, 4th point aforementioned)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "So we will just help revise it as long as it helps clearance."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "This is OK?"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Currently this is almost all, maybe more in the future."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "I will draft a separate file to include your reply and finalized rules, then upload it to the google drive folder."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "This is just one point, establish formats/rules to make the discussion/business simple and standard."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please let me know."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Thank you."
+  }
+ ],
+ "extracted_at": "2026-10-22T03:46:41Z"
+}

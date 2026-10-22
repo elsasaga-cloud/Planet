@@ -1,0 +1,23 @@
+{
+ "sha256_16": "2fd8108650ff01f2",
+ "name": "STI-240GE (NSI-420G).pdf",
+ "ext": ".pdf",
+ "bytes": 307802,
+ "method": "pdfplumber+OCR(1p)",
+ "status": "ok",
+ "meta": {
+  "pages": 1,
+  "title": "Industrial Ethernet_Realtek Series.pdf",
+  "producer": "Microsoft: Print To PDF",
+  "creationdate": "D:20241119142009+02'00'",
+  "moddate": "D:20241119142009+02'00'",
+  "ocr_pages": 1
+ },
+ "warnings": [],
+ "chars": 1350,
+ "text": "[p1]\n2025/01\nSTI-240GE\ns.sagatelecom@gmail.com\nSaga Telecom\nwww.sagatelecom.com.cn\nModel\nSTI-240GE\nProduct Name\n6 port 10/100/1000Mbps Industrial Ethernet Switch\nFixed Port\n4*10/100/1000M RJ45 port\n2*1000M SFP\nTransmission Mode\nStore and Forward\nBandwidth 16Gbps\nPacket Forwarding 11.9Mpps\nMAC 4K\nBuffer 2.5M\nTransmission Distance\n10BASE-T: Cat3, 4, 5 UTP(<250 meter)\n100BASE-TX: Cat5 or later UTP(150 meter)\n1000BASE-TX: Cat6 or later UTP(150 meter)\nOptical Media\nSFP: 1000M single and multi-mode optical module, Max distance<100Km\nLED Indicator\nPWR: Power indicator light\nP1: Power indicator light\nP2: Power indicator light\nPMx: Power overload indicator light\n5,6: Optical port connection indicator light\nPort: green _10/100M network connection indicator\nsreentorange _1000M network connection indicator.\nPower\nThree groups of independent power input\nSW: DC12-57V\nOperating Temperature\nHumidity\n-40°C~+75°C\n10%~90% RH No condensation\nStorage Temperature\n-40°C~+85°C\nHumidity 5%~95% RH No condensation\nDimension Device: 156*113*40mm\nL*W*H Packing Box: 235*165*78mm\nN.W/G.W(Kg) 0.9Kg/1.1Kg\nLightning 6KV 8/20us; 8KV ESD electrostatic protection\nProtection Level IP40\nInstallation\nDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\nCE-EMC EN55032; CE-LVD EN62368\nFCC Part 15Class B; RoHS\nWarranty\n3 Years\nConnecting, Converting, Creating",
+ "pages": [
+  "2025/01\nSTI-240GE\ns.sagatelecom@gmail.com\nSaga Telecom\nwww.sagatelecom.com.cn\nModel\nSTI-240GE\nProduct Name\n6 port 10/100/1000Mbps Industrial Ethernet Switch\nFixed Port\n4*10/100/1000M RJ45 port\n2*1000M SFP\nTransmission Mode\nStore and Forward\nBandwidth 16Gbps\nPacket Forwarding 11.9Mpps\nMAC 4K\nBuffer 2.5M\nTransmission Distance\n10BASE-T: Cat3, 4, 5 UTP(<250 meter)\n100BASE-TX: Cat5 or later UTP(150 meter)\n1000BASE-TX: Cat6 or later UTP(150 meter)\nOptical Media\nSFP: 1000M single and multi-mode optical module, Max distance<100Km\nLED Indicator\nPWR: Power indicator light\nP1: Power indicator light\nP2: Power indicator light\nPMx: Power overload indicator light\n5,6: Optical port connection indicator light\nPort: green _10/100M network connection indicator\nsreentorange _1000M network connection indicator.\nPower\nThree groups of independent power input\nSW: DC12-57V\nOperating Temperature\nHumidity\n-40°C~+75°C\n10%~90% RH No condensation\nStorage Temperature\n-40°C~+85°C\nHumidity 5%~95% RH No condensation\nDimension Device: 156*113*40mm\nL*W*H Packing Box: 235*165*78mm\nN.W/G.W(Kg) 0.9Kg/1.1Kg\nLightning 6KV 8/20us; 8KV ESD electrostatic protection\nProtection Level IP40\nInstallation\nDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\nCE-EMC EN55032; CE-LVD EN62368\nFCC Part 15Class B; RoHS\nWarranty\n3 Years\nConnecting, Converting, Creating"
+ ],
+ "extracted_at": "2026-10-22T03:46:24Z"
+}

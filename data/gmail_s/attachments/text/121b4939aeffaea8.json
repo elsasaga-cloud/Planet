@@ -1,0 +1,24 @@
+{
+ "sha256_16": "121b4939aeffaea8",
+ "name": "Vi-Link Logo EN2440.pdf",
+ "ext": ".pdf",
+ "bytes": 377735,
+ "method": "pdfplumber",
+ "status": "ok",
+ "meta": {
+  "pages": 1,
+  "author": "tonyp",
+  "creator": "Microsoft® Visio® 2010",
+  "producer": "Microsoft® Visio® 2010",
+  "creationdate": "D:20240418182342-07'00'",
+  "moddate": "D:20240418182342-07'00'",
+  "ocr_pages": 0
+ },
+ "warnings": [],
+ "chars": 108,
+ "text": "[p1]\nVL Vi-Link\nFiber Optic Communications\nModel: EN2440\nVL Vi-Link\nFiber Optic Communications\nModel: EN2440",
+ "pages": [
+  "VL Vi-Link\nFiber Optic Communications\nModel: EN2440\nVL Vi-Link\nFiber Optic Communications\nModel: EN2440"
+ ],
+ "extracted_at": "2026-10-22T03:47:49Z"
+}

@@ -1,0 +1,19 @@
+{
+ "sha256_16": "1685510dcde9f956",
+ "name": "24PX web gui.png",
+ "ext": ".png",
+ "bytes": 154551,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1920,
+  "height": 1080,
+  "mode": "RGBA",
+  "thumb_bytes": 8017
+ },
+ "warnings": [],
+ "chars": 764,
+ "text": "& Overview - Switch x +\nv 一 x\n全 ca O Q ARE 192.168.56.166/#/monitor/dashboard wm 家 a\nOct Mash Oxzen OFERE ”人 @@ 京东 商城 ”人 mERT\nangela Monitor v / 0 a PB 2 sami\nBE Monitor . a ~\nOverview\nSystem Information CPU Memory\nStatistics\nProduct ID : ANW-2224-PX\nProduct SN : 2505222440103\n45.57%\nMAC Address : 98-06-37-AS-00-00\n96.01%\nHardware Version : V1.1\nSoftware Version : hotfix/7.3.2 (r1275 382d3e1) 2025-01-21 16:16:10\nUptime : 00:01\nIGMP\n77 selected [T] AG Port PY trunk Port Pipot 此 bp [2] shutdown 此 Emordowm [2 copper [J] Fiber\nQinQ Information\n1 3 5 7 9 1 1 15 7 19 21 23\nCd\nInform.. 2 4 6 8 10 12 14 16 18 20 22 24 25 26 27 28\nTraffic gigabitEthemet0/23 Kbps » Configuration\n-Or Te Traffic “O- Rx Traffic\nMaintenance , Kbps\nB® Diagn\nse) 4 唔 国 中\nhh 本 Bl\n2025/5/8",
+ "extracted_at": "2026-10-22T03:43:38Z"
+}

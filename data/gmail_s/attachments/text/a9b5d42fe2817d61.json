@@ -1,0 +1,19 @@
+{
+ "sha256_16": "a9b5d42fe2817d61",
+ "name": "+75 degree.jpg",
+ "ext": ".jpg",
+ "bytes": 179055,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 1706,
+  "height": 1279,
+  "mode": "RGB",
+  "thumb_bytes": 12789
+ },
+ "warnings": [],
+ "chars": 26,
+ "text": "2006-01-01 19:32:48\nWRIEFT",
+ "extracted_at": "2026-10-22T03:42:08Z"
+}

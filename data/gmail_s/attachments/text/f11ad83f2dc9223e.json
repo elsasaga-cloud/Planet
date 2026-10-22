@@ -1,0 +1,19 @@
+{
+ "sha256_16": "f11ad83f2dc9223e",
+ "name": "Wechat.png",
+ "ext": ".png",
+ "bytes": 160068,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 750,
+  "height": 1624,
+  "mode": "RGB",
+  "thumb_bytes": 4741
+ },
+ "warnings": [],
+ "chars": 203,
+ "text": "9:03 al 全\nSend Friend Request\nSend Friend Request\nI'm Simon\nSet Alias\nAlex (FARADAY)\nAdd tags and a description\nTags\nRemark\nSet Privacy Settings\nChats, Moments, WeRun, etc. VY\nChats Only\nMoments & Status",
+ "extracted_at": "2026-10-22T03:42:55Z"
+}

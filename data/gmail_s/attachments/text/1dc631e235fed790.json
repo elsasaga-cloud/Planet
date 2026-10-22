@@ -1,0 +1,118 @@
+{
+ "sha256_16": "1dc631e235fed790",
+ "name": "Access and aggregation switches specs.docx",
+ "ext": ".docx",
+ "bytes": 1139780,
+ "method": "python-docx(段落+表格+文本框+页眉页脚)",
+ "status": "ok",
+ "meta": {
+  "title": "",
+  "author": "Muhammad Azam",
+  "last_modified_by": "Muhammad Azam",
+  "created": "2023-12-07T04:56:00+00:00",
+  "modified": "2023-12-07T05:17:00+00:00",
+  "paragraphs": 2,
+  "tables": 5,
+  "embedded_images": 4
+ },
+ "warnings": [],
+ "chars": 5223,
+ "text": "Access and aggregation switches\nNo.\tItem Description\tTechnical Specs\n1\tAccess switch\t\n2\tAGG Switch\t\nAccess Switch Specification\n57.\t98011321 / Access Switch 24 Port / Or Equivalent\t24 Gigabit Ethernet ports (built in assy) / 1G Small Form-Factor Pluggable (SFP) or 1G SFP / slots (built in assy) / IEEE 802.3at-complaint PoE+ for up to 30W of power per port (Feature) / AC Power Cord (UK) C13 BS 1363  2.5m (Accessory) / 1000Base-LX/LH SFP transceiver module MMF/SMF 1310nm DOM  (Qty 02) (Accessory) / Features to control access to network, including Flexible Authentication, 802.1x Monitor Mode, and / RADIUS Change of authorization (Feature) / Threat defense features including Port Security, Dynamic ARP Inspection, IP Source Guard, MAC binding and DHCP snooping (Feature) / Supports SSH V2, HTTPs and SNMPv3 (Feature) / Supports Control Plane rate limiting, Scavenger Class QoS and Express Forwarding (Feature)\n58.\t98011345 / ACCESS SWITCH-S5735- / L48P4S-A1 / Or Equivalent\t48 GigE PoE 370W 4xSFP LAN Base / with following accessories & services:- / 48 Gigabit Ethernet ports (built in assy) / 1G Small Form-Factor Pluggable (SFP) or 1G/10G / SFP+ slots (built in assy) / IEEE 802.3at-complaint PoE+ for up to 30W of power per port (Feature) / AC Power Cord (UK) C13 BS 1363  2.5m / (Accessory) / 1000Base-LX/LH SFP transceiver module / MMF/SMF 1310nm DOM  (Qty 02) (Accessory) / Features to control access to network, including / Flexible Authentication, 802.1x Monitor Mode, and / RADIUS Change of authorization (Feature) / Threat defense features including Port Security, Dynamic ARP Inspection, IP Source Guard, MAC binding and DHCP snooping (Feature) / Supports SSH V2, HTTPs and SNMPv3 (Feature) / (j) \tSupports Control Plane rate limiting, Scavenger / Class QoS and Express Forwarding (Feature)\n59.\t98011606 / AGG SWITCH-S5736- / S48S4X-A-48GE / Or Equivalent\t• 48x1G & 4x10G SFP with following accessories & services:- / 48 Gigabit Optical ports (built in assy) / 1G Small Form-Factor Pluggable (SFP) or 1G/10G / SFP+ slots (built in assy) / Support L3 protocols like OSPF, RIP etc / AC Power Cord (UK) C13 BS 1363  2.5m / (Accessory) / Supports SSH V2, HTTPs and SNMPv3 (Feature)\n\t\t(f) \tSupports Control Plane rate limiting, Scavenger Class QoS and Express Forwarding (Feature)\n60.\t5805/NL-SFP-GE-LXSM1310 / 1000 Base LX/LH SFP Transceiver / Or Equivalent\t• 1000Base-LX/LH SFP transceiver module SMF / 1310nm DOM / These SFPs are used with Optical Switches\n61.\t5805/02312NEU / HUAWEI AR6300 Series Router / Or Equivalent\tPower Specification: / Rated input voltage range (AC): 100v to 240V / Rated input Frequency: 50Hz/Hz / Maximum input voltage range (AC): 90V to 264 / Maximum input current (AC): 5A / Maximum output Power: 350W / Rated input voltage range (DC): -48V DC to -80 V DC / Maximum input voltage range (DC): -38.4 V DC to -72 V / DC / Fan module: independent pluggable fan modules Software feature and protocol: / Basic Function:  DHCP server/Client /relay, PPoE server/client, NAT and sub-interface management  LAN: IEEE 802.1P, IEEE 802.1Q, IEEE 802.3, VLAN management, VLAN aggregation, MAC management, / STP/RSTP/MSTP, SEP / WLAN(AC):AP management (AC discover access and AP management),CAPWAP, wlan user management, WLAN radio management(802.11a/b/g/n/ac), WLAN / QoS(WMM),WLAN Security(WEP,WPA,WPA2,kwy management) Security: / ACL(v4/v6) domain based stateful firewall, ASPF / (Application specific packet filter), 802.1X authentication, MAC Address authentication, portal authentication, AAA authentication, RADIUS authentication, HWTACACS authentication, PKI, broadcast storm suppression, ARP security, ICMP attach defense, URPF, UPCAR, blacklist,\n\t\tattack source tracing, online behavior management, IPS/IDS, URL filtering, file filtering, segmentation EMC standard compliance: / CISPR32 Class A / EN 55032 CLASS A / CISPR24 / EN55024 / ETSI EN 300 386 / AS/NZS CISPR32 CLASS A / FCC Part 15 subpart B class A / ICES 003 Class A / IECs 61000-3-2 / Envormental standard compliance: / RoHS / REACH / WEEE\t\t\n\t08 Port POE Network Managed Gigabit Switch (Industrial Grade) / OR / “Equivalent Brand”\tPurpose: - Layer 2 network management PoE switch / Function / Capability of Eqpt (Min Req):- / 08 Port PoE Network Managed Gigabit Switch with 4 SFP Ports Support Ring Network / Industrial\tgrade\tLayer\t2\tnetwork management PoE switch / Support IEEE802.3af, IEEE802.3at standard / Network Redundancy: STP/RSTP/MSTP / Provide 8x10/100/1000 Base-T Ethernet ports (POE) + 2/4x1000Base-X SFP ports / Supports 4k HD video transmission / Support IPv4/IPv6, and DHCP / Web bases Network Management, supports VLAN, QoS, RSTP, SNMP, IGMP snooping etc / Supports port based VLAN / Supports fast ring as redundant link / 6KV surge immunity, 8KV ESD protection and anti-interference ability / -40ºC to +75ºC working temperature / Supports redundant power supply / Rail / rack kit fitting / Configuration: Web, Telnet, CLI Command, SSH / QoS (IEEE802.1p/1Q), CoS/ToS to Increase Determinism / Enhanced Network Security with IEEE802.1X, SNMP v1/v2c/v3, HTTPS, and SSH/SSL / Large data cache(4M), real-time transmission / MAC auto study and aging, MAC address list capacity is 8K / EMC high protection design\t\t",
+ "blocks": [
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Access and aggregation switches"
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "No.",
+     "Item Description",
+     "Technical Specs"
+    ],
+    [
+     "1",
+     "Access switch",
+     ""
+    ],
+    [
+     "2",
+     "AGG Switch",
+     ""
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Access Switch Specification"
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "57.",
+     "98011321 / Access Switch 24 Port / Or Equivalent",
+     "24 Gigabit Ethernet ports (built in assy) / 1G Small Form-Factor Pluggable (SFP) or 1G SFP / slots (built in assy) / IEEE 802.3at-complaint PoE+ for up to 30W of power per port (Feature) / AC Power Cord (UK) C13 BS 1363  2.5m (Accessory) / 1000Base-LX/LH SFP transceiver module MMF/SMF 1310nm DOM  (Qty 02) (Accessory) / Features to control access to network, including Flexible Authentication, 802.1x Monitor Mode, and / RADIUS Change of authorization (Feature) / Threat defense features including Port Security, Dynamic ARP Inspection, IP Source Guard, MAC binding and DHCP snooping (Feature) / Supports SSH V2, HTTPs and SNMPv3 (Feature) / Supports Control Plane rate limiting, Scavenger Class QoS and Express Forwarding (Feature)"
+    ],
+    [
+     "58.",
+     "98011345 / ACCESS SWITCH-S5735- / L48P4S-A1 / Or Equivalent",
+     "48 GigE PoE 370W 4xSFP LAN Base / with following accessories & services:- / 48 Gigabit Ethernet ports (built in assy) / 1G Small Form-Factor Pluggable (SFP) or 1G/10G / SFP+ slots (built in assy) / IEEE 802.3at-complaint PoE+ for up to 30W of power per port (Feature) / AC Power Cord (UK) C13 BS 1363  2.5m / (Accessory) / 1000Base-LX/LH SFP transceiver module / MMF/SMF 1310nm DOM  (Qty 02) (Accessory) / Features to control access to network, including / Flexible Authentication, 802.1x Monitor Mode, and / RADIUS Change of authorization (Feature) / Threat defense features including Port Security, Dynamic ARP Inspection, IP Source Guard, MAC binding and DHCP snooping (Feature) / Supports SSH V2, HTTPs and SNMPv3 (Feature) / (j) \tSupports Control Plane rate limiting, Scavenger / Class QoS and Express Forwarding (Feature)"
+    ],
+    [
+     "59.",
+     "98011606 / AGG SWITCH-S5736- / S48S4X-A-48GE / Or Equivalent",
+     "• 48x1G & 4x10G SFP with following accessories & services:- / 48 Gigabit Optical ports (built in assy) / 1G Small Form-Factor Pluggable (SFP) or 1G/10G / SFP+ slots (built in assy) / Support L3 protocols like OSPF, RIP etc / AC Power Cord (UK) C13 BS 1363  2.5m / (Accessory) / Supports SSH V2, HTTPs and SNMPv3 (Feature)"
+    ]
+   ]
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "",
+     "",
+     "(f) \tSupports Control Plane rate limiting, Scavenger Class QoS and Express Forwarding (Feature)"
+    ],
+    [
+     "60.",
+     "5805/NL-SFP-GE-LXSM1310 / 1000 Base LX/LH SFP Transceiver / Or Equivalent",
+     "• 1000Base-LX/LH SFP transceiver module SMF / 1310nm DOM / These SFPs are used with Optical Switches"
+    ],
+    [
+     "61.",
+     "5805/02312NEU / HUAWEI AR6300 Series Router / Or Equivalent",
+     "Power Specification: / Rated input voltage range (AC): 100v to 240V / Rated input Frequency: 50Hz/Hz / Maximum input voltage range (AC): 90V to 264 / Maximum input current (AC): 5A / Maximum output Power: 350W / Rated input voltage range (DC): -48V DC to -80 V DC / Maximum input voltage range (DC): -38.4 V DC to -72 V / DC / Fan module: independent pluggable fan modules Software feature and protocol: / Basic Function:  DHCP server/Client /relay, PPoE server/client, NAT and sub-interface management  LAN: IEEE 802.1P, IEEE 802.1Q, IEEE 802.3, VLAN management, VLAN aggregation, MAC management, / STP/RSTP/MSTP, SEP / WLAN(AC):AP management (AC discover access and AP management),CAPWAP, wlan user management, WLAN radio management(802.11a/b/g/n/ac), WLAN / QoS(WMM),WLAN Security(WEP,WPA,WPA2,kwy management) Security: / ACL(v4/v6) domain based stateful firewall, ASPF / (Application specific packet filter), 802.1X authentication, MAC Address authentication, portal authentication, AAA authentication, RADIUS authentication, HWTACACS authentication, PKI, broadcast storm suppression, ARP security, ICMP attach defense, URPF, UPCAR, blacklist,"
+    ]
+   ]
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "",
+     "",
+     "attack source tracing, online behavior management, IPS/IDS, URL filtering, file filtering, segmentation EMC standard compliance: / CISPR32 Class A / EN 55032 CLASS A / CISPR24 / EN55024 / ETSI EN 300 386 / AS/NZS CISPR32 CLASS A / FCC Part 15 subpart B class A / ICES 003 Class A / IECs 61000-3-2 / Envormental standard compliance: / RoHS / REACH / WEEE",
+     "",
+     ""
+    ]
+   ]
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "",
+     "08 Port POE Network Managed Gigabit Switch (Industrial Grade) / OR / “Equivalent Brand”",
+     "Purpose: - Layer 2 network management PoE switch / Function / Capability of Eqpt (Min Req):- / 08 Port PoE Network Managed Gigabit Switch with 4 SFP Ports Support Ring Network / Industrial\tgrade\tLayer\t2\tnetwork management PoE switch / Support IEEE802.3af, IEEE802.3at standard / Network Redundancy: STP/RSTP/MSTP / Provide 8x10/100/1000 Base-T Ethernet ports (POE) + 2/4x1000Base-X SFP ports / Supports 4k HD video transmission / Support IPv4/IPv6, and DHCP / Web bases Network Management, supports VLAN, QoS, RSTP, SNMP, IGMP snooping etc / Supports port based VLAN / Supports fast ring as redundant link / 6KV surge immunity, 8KV ESD protection and anti-interference ability / -40ºC to +75ºC working temperature / Supports redundant power supply / Rail / rack kit fitting / Configuration: Web, Telnet, CLI Command, SSH / QoS (IEEE802.1p/1Q), CoS/ToS to Increase Determinism / Enhanced Network Security with IEEE802.1X, SNMP v1/v2c/v3, HTTPS, and SSH/SSL / Large data cache(4M), real-time transmission / MAC auto study and aging, MAC address list capacity is 8K / EMC high protection design",
+     "",
+     ""
+    ]
+   ]
+  }
+ ],
+ "extracted_at": "2026-10-22T03:52:21Z"
+}

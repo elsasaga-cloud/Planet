@@ -1,0 +1,102 @@
+{
+ "sha256_16": "03f325964fb6c963",
+ "name": "Saga Internal MC Test Report_2025.3.22.docx",
+ "ext": ".docx",
+ "bytes": 2102307,
+ "method": "python-docx(段落+表格+文本框+页眉页脚)",
+ "status": "ok",
+ "meta": {
+  "title": "",
+  "author": "Simon",
+  "last_modified_by": "Simon",
+  "created": "2025-03-22T03:58:00+00:00",
+  "modified": "2025-03-22T04:34:38+00:00",
+  "paragraphs": 9,
+  "tables": 1,
+  "embedded_images": 12
+ },
+ "warnings": [],
+ "chars": 583,
+ "text": "1\\ Network topology\n2\\ Result\n1000M\nCopper speed(MC)\tDuration(second)\tThroughput (%)\tPass/Fail\n1000M\t60\t100%\tPass\n100M\t60\t100%\tPass\n10M\t60\t100%\tPass\n2.5G\tThe total flow of the tester is 2G, and the test results show no packet loss.\n3\\ Record\n1000M\nTester\nSwitch counters\n100M\n2G\n[页眉页脚]\n2025/Q2\t                                                                                                                       a.sagatelecom@gmail.com\n\t\t\t\t\t\t\t                                                                       Saga Telecom\nwww.sagatelecom.com.cn\nConnecting, Converting, Creating",
+ "blocks": [
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1\\ Network topology"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "2\\ Result"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1000M"
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "Copper speed(MC)",
+     "Duration(second)",
+     "Throughput (%)",
+     "Pass/Fail"
+    ],
+    [
+     "1000M",
+     "60",
+     "100%",
+     "Pass"
+    ],
+    [
+     "100M",
+     "60",
+     "100%",
+     "Pass"
+    ],
+    [
+     "10M",
+     "60",
+     "100%",
+     "Pass"
+    ],
+    [
+     "2.5G",
+     "The total flow of the tester is 2G, and the test results show no packet loss."
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "3\\ Record"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1000M"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Tester"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Switch counters"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "100M"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "2G"
+  }
+ ],
+ "extracted_at": "2026-10-22T03:43:58Z"
+}

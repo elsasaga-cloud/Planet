@@ -1,0 +1,19 @@
+{
+ "sha256_16": "056881e8b9c74036",
+ "name": "MC1000 Logo.jpg",
+ "ext": ".jpg",
+ "bytes": 114339,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 976,
+  "height": 634,
+  "mode": "RGB",
+  "thumb_bytes": 7387
+ },
+ "warnings": [],
+ "chars": 138,
+ "text": "ViLink\nFiber Optic Communications\nModel MC1000SC03\nFiber Optic Media Converter\n10/100/1000M Base-T To 1000M Base-LX SC Ethernet Conversion",
+ "extracted_at": "2026-10-22T03:40:50Z"
+}

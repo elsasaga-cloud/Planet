@@ -1,0 +1,19 @@
+{
+ "sha256_16": "4944b36d37b25885",
+ "name": "printing.jpg",
+ "ext": ".jpg",
+ "bytes": 1954765,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 2330,
+  "height": 1467,
+  "mode": "RGB",
+  "thumb_bytes": 10507
+ },
+ "warnings": [],
+ "chars": 84,
+ "text": "MEDIA CONVERTER\n10/100/1000 BASE-TX TO 1000BASE-FX\n, tee |) fa. cult S| lee ae eed x",
+ "extracted_at": "2026-10-22T03:40:59Z"
+}

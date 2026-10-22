@@ -1,0 +1,19 @@
+{
+ "sha256_16": "84e53ab56ced4083",
+ "name": "Wall Mounting.png",
+ "ext": ".png",
+ "bytes": 450249,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "PNG",
+  "width": 604,
+  "height": 382,
+  "mode": "RGBA",
+  "thumb_bytes": 10147
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:42:42Z"
+}

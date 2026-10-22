@@ -1,0 +1,25 @@
+{
+ "sha256_16": "e12968cb71d4b7ea",
+ "name": "Gmail - Your trade confirmation is ready.pdf",
+ "ext": ".pdf",
+ "bytes": 100639,
+ "method": "pdfplumber",
+ "status": "ok",
+ "meta": {
+  "pages": 2,
+  "title": "Gmail - Your trade confirmation is ready",
+  "creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+  "producer": "Skia/PDF m146",
+  "creationdate": "D:20261020013443+00'00'",
+  "moddate": "D:20261020013443+00'00'",
+  "ocr_pages": 0
+ },
+ "warnings": [],
+ "chars": 1292,
+ "text": "[p1]\n10/20/26, 9:34 AM Gmail - Your trade confirmation is ready\nSimon <s.sagatelecom@gmail.com>\nYour trade confirmation is ready\n1 message\nFirstrade <notifications@digital-delivery.com> Sat, Oct 17, 2026 at 2:57 PM\nReply-To: noreply@firstrade.com\nTo: S.SAGATELECOM@gmail.com\nYour trade confirmation is ready.\nYour trade confirmation is now available online for Firstrade account ending in\n###-##413. To access it, please log in to your account by clicking on the button\nbelow.\nView your trade confirmation\nSincerely,\nFirstrade Securities Inc.\nPlease do not respond to this email. This email system does not have the ability to respond to\nindividual questions or comments.\nContact Us\nU.S. Toll Free: 1-800-869-8800 • Overseas: 1-718-961-6600\nEmail: service@firstrade.com\nMailing Address\n30-50 Whitestone Expwy., Suite A301, Flushing, NY 11354\nhttps://mail.google.com/mail/u/0/?ik=907b16b753&view=pt&search=all&permthid=thread-f:1879279171880907315&simpl=msg-f:1879279171880… 1/2\n\n[p2]\n10/20/26, 9:34 AM Gmail - Your trade confirmation is ready\nTerms & Conditions | Privacy & Security\n© 2026 Firstrade Securities Inc. All rights reserved. Member FINRA / SIPC\nhttps://mail.google.com/mail/u/0/?ik=907b16b753&view=pt&search=all&permthid=thread-f:1879279171880907315&simpl=msg-f:1879279171880… 2/2",
+ "pages": [
+  "10/20/26, 9:34 AM Gmail - Your trade confirmation is ready\nSimon <s.sagatelecom@gmail.com>\nYour trade confirmation is ready\n1 message\nFirstrade <notifications@digital-delivery.com> Sat, Oct 17, 2026 at 2:57 PM\nReply-To: noreply@firstrade.com\nTo: S.SAGATELECOM@gmail.com\nYour trade confirmation is ready.\nYour trade confirmation is now available online for Firstrade account ending in\n###-##413. To access it, please log in to your account by clicking on the button\nbelow.\nView your trade confirmation\nSincerely,\nFirstrade Securities Inc.\nPlease do not respond to this email. This email system does not have the ability to respond to\nindividual questions or comments.\nContact Us\nU.S. Toll Free: 1-800-869-8800 • Overseas: 1-718-961-6600\nEmail: service@firstrade.com\nMailing Address\n30-50 Whitestone Expwy., Suite A301, Flushing, NY 11354\nhttps://mail.google.com/mail/u/0/?ik=907b16b753&view=pt&search=all&permthid=thread-f:1879279171880907315&simpl=msg-f:1879279171880… 1/2",
+  "10/20/26, 9:34 AM Gmail - Your trade confirmation is ready\nTerms & Conditions | Privacy & Security\n© 2026 Firstrade Securities Inc. All rights reserved. Member FINRA / SIPC\nhttps://mail.google.com/mail/u/0/?ik=907b16b753&view=pt&search=all&permthid=thread-f:1879279171880907315&simpl=msg-f:1879279171880… 2/2"
+ ],
+ "extracted_at": "2026-10-22T03:40:31Z"
+}

@@ -1,0 +1,21 @@
+{
+ "sha256_16": "36f664853a48a32c",
+ "name": "MC1400.jpg",
+ "ext": ".jpg",
+ "bytes": 109380,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 480,
+  "height": 303,
+  "mode": "RGB",
+  "datetime": "2024:11:21 14:22:42",
+  "software": "Adobe Photoshop CS6 (Windows)",
+  "thumb_bytes": 13113
+ },
+ "warnings": [],
+ "chars": 175,
+ "text": "14-slot Ethernet Media Converter Chassis\nModel: MC1400\nFunction:Housing and powering 14*MC10G\nPower Input: Dual Input AC85V~264V, typicall AC220V\nCC FE\nUU eee\nSN: 202404230001",
+ "extracted_at": "2026-10-22T03:45:06Z"
+}

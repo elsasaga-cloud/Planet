@@ -1,0 +1,19 @@
+{
+ "sha256_16": "12daec49270802b6",
+ "name": "accessory.jpg",
+ "ext": ".jpg",
+ "bytes": 2320559,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 3344,
+  "height": 2508,
+  "mode": "RGB",
+  "thumb_bytes": 15676
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:41:38Z"
+}

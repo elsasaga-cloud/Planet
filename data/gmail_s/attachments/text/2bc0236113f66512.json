@@ -1,0 +1,19 @@
+{
+ "sha256_16": "2bc0236113f66512",
+ "name": "front.jpg",
+ "ext": ".jpg",
+ "bytes": 100693,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 1706,
+  "height": 1279,
+  "mode": "RGB",
+  "thumb_bytes": 7678
+ },
+ "warnings": [],
+ "chars": 66,
+ "text": "10G Link/Act\n\"= 10011000M Link/Act\n10G Web Managed Ethernet Switch",
+ "extracted_at": "2026-10-22T03:48:11Z"
+}

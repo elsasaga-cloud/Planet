@@ -1,0 +1,124 @@
+{
+ "sha256_16": "1dd660e4d7aaebc4",
+ "name": "Tronx Saga Siparis Listesi.xlsx",
+ "ext": ".xlsx",
+ "bytes": 10522,
+ "method": "openpyxl(values)",
+ "status": "ok",
+ "meta": {
+  "sheets": [
+   "Sheet1"
+  ],
+  "embedded_images": 0,
+  "rows_total": 17
+ },
+ "warnings": [],
+ "chars": 634,
+ "text": "--- Sheet: Sheet1 ---\n\tTRONX BILISIM VE SAGLIK TEKNOLOJILERI LTD. STI.\n\tANKARA TURKEY\n\tAttention:\tMr. Mustafa Calik\tmustafa.calik@tronx.com.tr\n\t\t\t+90-531-450-4445\n\tSAGA SKU\tTRONX SKU\tDescription\n\tSTC-28DGGPM\tTRX-AS-8TP2G\t8 Port Enterprise\n\tSTC-424DGGPM-280W\tTRX-AS-24TP4X\t24 Port Enterprise\n\tSTC-448XGGPM\tTRX-AS-48TP4X\t48 Port Enterprise\n\tSTI-288DGGPM\tTRX-IS-8TP2G\t8 Port Industrial\n\t1G-SX\tTRX-SFP-1G-LX\tSFP\n\t1G-LX\tTRX-SFP-10G-LR\tSFP\n\t10G-SR\tTRX-SFP-1G-SX\tSFP\n\t10G-LR\tTRX-SFP-10G-SR\tSFP\n\t25G-SR\tTRX-SFP28-25G-SR\tSFP\n\t40G-SR\tTRX-QSFP-40G-SR4\tSFP\n\t100G-SR\tTRX-QSFP28-100G-SR4\tSFP\n\t2xAP\tTRX-AP-612T\tWiFi6 Indoor Access Point Ceiling type",
+ "sheets": {
+  "Sheet1": {
+   "state": "visible",
+   "rows": [
+    [
+     "",
+     "TRONX BILISIM VE SAGLIK TEKNOLOJILERI LTD. STI."
+    ],
+    [
+     "",
+     "ANKARA TURKEY"
+    ],
+    [
+     "",
+     "Attention:",
+     "Mr. Mustafa Calik",
+     "mustafa.calik@tronx.com.tr"
+    ],
+    [
+     "",
+     "",
+     "",
+     "+90-531-450-4445"
+    ],
+    [
+     "",
+     "SAGA SKU",
+     "TRONX SKU",
+     "Description"
+    ],
+    [
+     "",
+     "STC-28DGGPM",
+     "TRX-AS-8TP2G",
+     "8 Port Enterprise"
+    ],
+    [
+     "",
+     "STC-424DGGPM-280W",
+     "TRX-AS-24TP4X",
+     "24 Port Enterprise"
+    ],
+    [
+     "",
+     "STC-448XGGPM",
+     "TRX-AS-48TP4X",
+     "48 Port Enterprise"
+    ],
+    [
+     "",
+     "STI-288DGGPM",
+     "TRX-IS-8TP2G",
+     "8 Port Industrial"
+    ],
+    [
+     "",
+     "1G-SX",
+     "TRX-SFP-1G-LX",
+     "SFP"
+    ],
+    [
+     "",
+     "1G-LX",
+     "TRX-SFP-10G-LR",
+     "SFP"
+    ],
+    [
+     "",
+     "10G-SR",
+     "TRX-SFP-1G-SX",
+     "SFP"
+    ],
+    [
+     "",
+     "10G-LR",
+     "TRX-SFP-10G-SR",
+     "SFP"
+    ],
+    [
+     "",
+     "25G-SR",
+     "TRX-SFP28-25G-SR",
+     "SFP"
+    ],
+    [
+     "",
+     "40G-SR",
+     "TRX-QSFP-40G-SR4",
+     "SFP"
+    ],
+    [
+     "",
+     "100G-SR",
+     "TRX-QSFP28-100G-SR4",
+     "SFP"
+    ],
+    [
+     "",
+     "2xAP",
+     "TRX-AP-612T",
+     "WiFi6 Indoor Access Point Ceiling type"
+    ]
+   ]
+  }
+ },
+ "extracted_at": "2026-10-22T03:45:34Z"
+}

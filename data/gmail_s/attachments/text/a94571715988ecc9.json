@@ -1,0 +1,21 @@
+{
+ "sha256_16": "a94571715988ecc9",
+ "name": "power converter.jpg",
+ "ext": ".jpg",
+ "bytes": 215016,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 600,
+  "height": 800,
+  "mode": "RGB",
+  "datetime": "2024:08:30 12:02:20",
+  "software": "Adobe Photoshop CS6 (Windows)",
+  "thumb_bytes": 11544
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:42:46Z"
+}

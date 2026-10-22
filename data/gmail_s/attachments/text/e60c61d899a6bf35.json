@@ -1,0 +1,19 @@
+{
+ "sha256_16": "e60c61d899a6bf35",
+ "name": "SUBTEL-Ruijie-01-FB-02.png",
+ "ext": ".png",
+ "bytes": 304038,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1024,
+  "height": 1024,
+  "mode": "RGB",
+  "thumb_bytes": 26016
+ },
+ "warnings": [],
+ "chars": 816,
+ "text": "reuigre | Reyce\nin collaboration with Sublime Telecom\nShowcasing the capabilities of Ruijie’s Technologies and\nSolutions\nJoin us for an engaging and informative session as Sublime\nTelecom partners with the Ruijie Team to bring you the latest\nin cutting-edge networking solutions.\nDate: 7th January 2025\nTime: 2 p.m. -3 p.m.\nVenue: Online Webinar (Link will be provided)\nhis is a unique opportunity to gain insights into next-gen networking\nsolutions and learn how they can empower your business.\nTopics Covered:\n- Introduction to Ruijie: Discover the innovative technologies and solu-\nions\n- Key Product Highlights: See how Ruijie can enhance your networking in-\nrastructure.\n- Q&A Session: Get your questions answered directly by experts from both\nSublime Telecom and Ruijie.\nSpeakers:\nRuijie & Sublime Telecom Team",
+ "extracted_at": "2026-10-22T03:44:07Z"
+}

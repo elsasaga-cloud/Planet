@@ -1,0 +1,19 @@
+{
+ "sha256_16": "e982db0289b43fa1",
+ "name": "48PX web gui.png",
+ "ext": ".png",
+ "bytes": 156485,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1920,
+  "height": 1080,
+  "mode": "RGBA",
+  "thumb_bytes": 8421
+ },
+ "warnings": [],
+ "chars": 835,
+ "text": "& Overview - Switch x +\nv 一 x\n全 ca O Q ARE 192.168.56.166/#/monitor/dashboard wm 家 a\nOct Mash Oxzen OFERE ”人 @@ 京东 商城 ”人 mERT\nangela Monitor v / 0 a PB 2 sami\nBE Monitor . a ~\nOverview\nSystem Information CPU Memory\nStatistics\nProduct ID : ANW-2248-PX\nProduct SN : 2505224840103\nMAC Address : 98-06-37-AS-00-03 61.21%\n83.62%\nHardware Version : V1.2\nSoftware Version : hotfix/7.3.2 (r1275 382d3e1) 2025-01-21 16:16:10\nUptime : 00:01\nIGMP\n77 selected [T] AG Port PY trunk Port Pipot 此 bp [2] shutdown 此 Emordowm [2 copper [J] Fiber\nQinQ Information\n1395 7 9 1 B15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 S152\nLJ\nInform.. 2 4 6 8 0 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 42 44 46 48 49 50\nTraffic gigabitéthemeto/48 Kbps » Configuration\n-Or Te Traffic “O- Rx Traffic\nMaintenance Kbps\nB® Diagn °\n. @erx.zxara\n20:43\nse) 4 唔 国 中",
+ "extracted_at": "2026-10-22T03:43:35Z"
+}

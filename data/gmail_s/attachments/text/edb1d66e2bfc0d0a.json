@@ -1,0 +1,19 @@
+{
+ "sha256_16": "edb1d66e2bfc0d0a",
+ "name": "Vi-Link Logo MC1400.jpg",
+ "ext": ".jpg",
+ "bytes": 2145222,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 10501,
+  "height": 3584,
+  "mode": "RGB",
+  "thumb_bytes": 7455
+ },
+ "warnings": [],
+ "chars": 40,
+ "text": "Fiber Optic Communications\nModel: MC1400",
+ "extracted_at": "2026-10-22T03:45:18Z"
+}

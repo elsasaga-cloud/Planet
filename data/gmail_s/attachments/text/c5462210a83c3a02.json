@@ -1,0 +1,19 @@
+{
+ "sha256_16": "c5462210a83c3a02",
+ "name": "1.png",
+ "ext": ".png",
+ "bytes": 130330,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1000,
+  "height": 600,
+  "mode": "RGBA",
+  "thumb_bytes": 3248
+ },
+ "warnings": [],
+ "chars": 16,
+ "text": "PoE/DATA DATA/IN",
+ "extracted_at": "2026-10-22T03:41:42Z"
+}

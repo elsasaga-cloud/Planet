@@ -1,0 +1,699 @@
+{
+ "sha256_16": "2ab5567acf1e6de0",
+ "name": "Agenda for WeChat meeting at 2025.docx",
+ "ext": ".docx",
+ "bytes": 167293,
+ "method": "python-docx(段落+表格+文本框+页眉页脚)",
+ "status": "ok",
+ "meta": {
+  "title": "",
+  "author": "Simon",
+  "last_modified_by": "Simon",
+  "created": "2025-06-24T11:49:00+00:00",
+  "modified": "2025-06-25T05:42:15+00:00",
+  "paragraphs": 135,
+  "tables": 0,
+  "embedded_images": 4
+ },
+ "warnings": [],
+ "chars": 10051,
+ "text": "Last year, we discussed a little bit about EU market issue\nBelow is a copy\nWe are inviting you to be our distributor/agent in EU\nGeographically, Germany and Poland stand in the central part while Turkey is a little remote.\nHowever we still consider you as our first option for below reasons.\nOur products are mainly Marvell-based. You do know its market positioning and work on a big project with us\nI mean the industrial switch project STI-280DDGM)\nThis is the VERY most important reason of all\nIn our daily work, we collect some feedback from EU clients\nShipping cost and VAT tax, it might be high sometimes\nNever buy anything from China before, most of them are individual buyers\nNot licensed to import, hesitant to move on\nJust want to save trouble, ask us if we have a local agent or online store(like Amazon)\nSmall order(like a few pieces), it is hard to win the order after including extra cost(shipping cost and tax), there are some local competitors anyway\nMaybe more in the future...\nWe now have a long list of EU clients, but it is not easy to make some progress with them\nThey already have some suppliers(local or from China)\nNot allowed to import from China, gotta be from another location like Taiwan/Singapore or has to import in a special format(SKD/CKD)\nIn some extreme cases, not even allowed to cooperate with China suppliers\nTrust and support, this is mainly about some big projects/tenders, they would rather choose some suppliers from EU countries(better in-sales and after-sales support)\nMaybe more in the future...\nBased on above information, I think you probably get our idea\nBluntly, we would like to use your strength to help increase sales in EU countries.\nI marked point 2 & 3, it will be still our main concern in marketing EU clients.\nBut now after a year of cooperation, it is more practical to talk about more market-related issues\nWith the help of ChatGPT, we would like to propose some interesting points in our discussion this time.\nOnline Store\nPreviously there is https://networkmarket.online/ for promoting different models.\nAs Levent talked on WeChat, it is shut down due to different reasons.\nFrom our side, we do think this is a good method to promote your brand(Angora/TronX) and lock some sales\nNot sure about the reasons why you closed it, here is what we think\nOriginally, we hoped that you could put more models on shelf, just for exhibition\nIf some potential clients are interested, you can talk with them\n1.1: if it is only a few pieces or not worth putting in too much time, you can simply share the datasheet and prices\nThey are willing to buy, then collect the payment, talk with us etc.\n1.2: if it is for a project or something, then probably quality clients, you can try to develop a long-term business tie.\nThere might be more situations\nThe point is, it is at your discretion if some clients are interested, collect their information, see if there is a deal(maybe now, maybe in the future)\nIt is a good media to expose your brand, products, solutions etc.\nWould like  to know why you shut it down...  maybe do not have much time for it or something\nSample Testing\nYou have purchased some commercial edge switches(L2/L2+/L3) and L2+ industrial Ethernet Switch.\nNow you have a rough idea of our products, web gui/cli/features etc.\nTechnically Taylan will know that, most models actually share similar features, it is just based on that few chips.\nAn example is STI-21616DGGPM: L2+, 2*2.5G fiber and 16*PoE Ports, 240W, industrial grade\nIt is exactly the bulk order last time\nIf you did a full testing of this model, actually for some models, there is no need for testing\neg: STI-288DGGPM STI-244DGGPM STI-488DGGPM STI-448DGGGPM...\nIt is just a slight difference of ports and some minor materials in production\nThey share ALMOST exactly same features\nSimilarly, for industrial unmanaged switches, you can just test some typical models STI-222GP, STI-244GP, STI-288GP and STI-21616GP\nThey are typical of the features in this category.\nFor non-PoE models, it is even easier, just feed DC12V/DC24V to PoE models, it will act as a Non-PoE model\nSTI-222GP+DC12V/DC24V=STI220GE\nSTI-21616DGGPM+DC12V/DC24V=STI-2160DGGM\nSo there will be only like 10~15 models for testing to fully know our products.\nTechnically they are just based on some chips(I shared a new version of software feature list on email: Saga Software Function List_7.3, 7.4, 7.5 version)\nThen back to point 1: online store\nAfter standard testings, you can upload all the models to the website(like https://networkmarket.online/)\nIt will be one-time effort, after completion, you can go back to your daily work.\nIf there are enquires, then as I explained, you can decide how to move on.\nThis will be a high-return attempt in the long run.\nOnline Store and Sample Testing are mainly about selling(standard models)\nCustomization\nWe support an in-depth customization covering almost all the needed services on the market\nHardware: enclosure, PVC, label, user manual, packing box etc.\nSoftware: some basic changes and complex ones(web gui language, SNMP IOD etc.)\nThe plan is, as I mentioned above(Sample Testing), there are just a few typical models\nAfter standard testings,\nYou can make some videos to explain the features\nMaybe send it to your potential clients(client base, connections etc.) in EU market for testing\nYou can focus on some interesting parts like\nMarvell based solutions\nOptical bypass protection\nDI/DO/RS485 function\nPower booster feature(our new model)\nCustomization(hardware, software, especially the web gui language)\nExample: if your client is from France, we can do a French version of all materials(web gui, PVC, user manual, labels etc. a new product enclosure when necessary)\nThen it will be fully localized\nBranch Office\nIt seems that you do not have a branch office in Istanbul\nBelow information is from ChatGPT\n1. Significant Improvement in Logistics Efficiency\nMost of our products are standardized, fully tested, and rarely fail.\nWith an Istanbul office and warehouse(ideally combined in a larger office space), the full supply chain becomes more streamlined:\nChina→ Istanbul → Customs Clearance → Office\nFrom there, orders can be flexibly fulfilled to Ankara or EU clients.\nThis setup dramatically improves time efficiency, shipping cost, and reduces customs coordination effort.\nOverall, the process becomes faster, clearer, and more cost-effective.\n2. Strategic Gateway to the European Market\nIstanbul sits at the Eurasian gateway, adjacent to Bulgaria and the EU zone – a natural export hub for Europe.\nWith local Turkish/English staff in the office, it becomes easier to communicate with European clients, agents, and partners.\nAn office in a key logistics hub builds trust and reflects your commitment to service and localization.\nIstanbul hosts many regional exhibitions and business meetings; having a physical presence allows clients to visit, test products, and deepen cooperation more conveniently.\nWe noticed that the local customs clearance took long\nWondering if it is done in Istanbul, then delivered to your office?\nIf you have a branch in Istanbul, things will get easy as ChatGPT analyzed\nBtw: how is the office in Romania?\nLets say if you have collected some local connections, maybe send some samples for testing or show them some videos to explain the features, maybe it works.\nPayment\nWe have opened a new account for collecting TRY payment directly, this may help save your cost\nPlease check if you need to deposit some money to prevent huge exchange rate fluctuation.\nTRY to RMB/USD exchange rate chart\nLets say 50K TRY for deposit\nwe can use this amount for samples or sample orders\nwe can ship the purchased materials beforehand if the total amount exceeds 50K(lets say 60K)\nsave your bank cost in multiple transfers\nno delays in T/T wiring\netc.\nThis adds flexibility in our business discussions\nBusiness Mode\nWould like to know how you are doing your business, we will see how we can help\nMaybe focusing on government projects?\nAs the web information goes, Turk Telekom is one of the three national operators in Turkey.\nThis demo order(6 units of AC5 based models) is for Turk Telekom, right?\nWe assume you must have poured decent efforts and have some connections with the government.\nPerhaps this could partly explain why you shut down https://networkmarket.online/?\nHonestly if you have a solid business connection with Turk Telekom, we can even do something more to win more projects from them, this is much easier than developing new clients/connections\nWe could initiate a Joint-Go-To-Market plan named Saga Telecom & Angora Networks — Empowering Industrial Networks Across Turkey and Beyond\nThat is,\nWe develop some business patterns/ideas based on your business scope\nwe can help take care of accessories like APs, SFP modules etc.\nwe can improve the product features based on your feedback(an example is HTTPS, SFTP feature, its ready now)\nmaybe send some samples if your clients deal with Ultra PoE(802.3bt models)\nmaybe try to integrate our models to your previous ones(as I remember you got NMS platform or something for uniformly controlling all managed switches?)\nwhat you expect from Saga or maybe models/features you need us to develop\nDistribution\nBefore on WeChat, you said would stock some models this year\nActually not understanding this especially after your online store is closed\nI mean, is stocking for online sales, sample testing or something?\nOfficial Website\nWe noticed that it is still old products on your website, do you need an update?\nWe can help with photos & diagrams etc.\nIn the meantime, you can consider displaying some interesting model as I mentioned above\nOptical bypass switch, power booster models or DI/DO/RS485 etc.\n[页眉页脚]\n2025/Q3 \t\t\t \t                                                                              s.sagatelecom@gmail.com\n\t\t\t\t\t\t\t                                                                       Saga Telecom\nwww.sagatelecom.com.cn\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider",
+ "blocks": [
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Last year, we discussed a little bit about EU market issue"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Below is a copy"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We are inviting you to be our distributor/agent in EU"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Geographically, Germany and Poland stand in the central part while Turkey is a little remote."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "However we still consider you as our first option for below reasons."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Our products are mainly Marvell-based. You do know its market positioning and work on a big project with us"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "I mean the industrial switch project STI-280DDGM)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "This is the VERY most important reason of all"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "In our daily work, we collect some feedback from EU clients"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Shipping cost and VAT tax, it might be high sometimes"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Never buy anything from China before, most of them are individual buyers"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Not licensed to import, hesitant to move on"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Just want to save trouble, ask us if we have a local agent or online store(like Amazon)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Small order(like a few pieces), it is hard to win the order after including extra cost(shipping cost and tax), there are some local competitors anyway"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Maybe more in the future..."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We now have a long list of EU clients, but it is not easy to make some progress with them"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "They already have some suppliers(local or from China)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Not allowed to import from China, gotta be from another location like Taiwan/Singapore or has to import in a special format(SKD/CKD)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "In some extreme cases, not even allowed to cooperate with China suppliers"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Trust and support, this is mainly about some big projects/tenders, they would rather choose some suppliers from EU countries(better in-sales and after-sales support)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Maybe more in the future..."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Based on above information, I think you probably get our idea"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Bluntly, we would like to use your strength to help increase sales in EU countries."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "I marked point 2 & 3, it will be still our main concern in marketing EU clients."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "But now after a year of cooperation, it is more practical to talk about more market-related issues"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "With the help of ChatGPT, we would like to propose some interesting points in our discussion this time."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Online Store"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Previously there is https://networkmarket.online/ for promoting different models."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "As Levent talked on WeChat, it is shut down due to different reasons."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "From our side, we do think this is a good method to promote your brand(Angora/TronX) and lock some sales"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Not sure about the reasons why you closed it, here is what we think"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Originally, we hoped that you could put more models on shelf, just for exhibition"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "If some potential clients are interested, you can talk with them"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1.1: if it is only a few pieces or not worth putting in too much time, you can simply share the datasheet and prices"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "They are willing to buy, then collect the payment, talk with us etc."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1.2: if it is for a project or something, then probably quality clients, you can try to develop a long-term business tie."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "There might be more situations"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "The point is, it is at your discretion if some clients are interested, collect their information, see if there is a deal(maybe now, maybe in the future)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is a good media to expose your brand, products, solutions etc."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Would like  to know why you shut it down...  maybe do not have much time for it or something"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Sample Testing"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "You have purchased some commercial edge switches(L2/L2+/L3) and L2+ industrial Ethernet Switch."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Now you have a rough idea of our products, web gui/cli/features etc."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Technically Taylan will know that, most models actually share similar features, it is just based on that few chips."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "An example is STI-21616DGGPM: L2+, 2*2.5G fiber and 16*PoE Ports, 240W, industrial grade"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is exactly the bulk order last time"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "If you did a full testing of this model, actually for some models, there is no need for testing"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "eg: STI-288DGGPM STI-244DGGPM STI-488DGGPM STI-448DGGGPM..."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It is just a slight difference of ports and some minor materials in production"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "They share ALMOST exactly same features"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Similarly, for industrial unmanaged switches, you can just test some typical models STI-222GP, STI-244GP, STI-288GP and STI-21616GP"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "They are typical of the features in this category."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "For non-PoE models, it is even easier, just feed DC12V/DC24V to PoE models, it will act as a Non-PoE model"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "STI-222GP+DC12V/DC24V=STI220GE"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "STI-21616DGGPM+DC12V/DC24V=STI-2160DGGM"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "So there will be only like 10~15 models for testing to fully know our products."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Technically they are just based on some chips(I shared a new version of software feature list on email: Saga Software Function List_7.3, 7.4, 7.5 version)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Then back to point 1: online store"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "After standard testings, you can upload all the models to the website(like https://networkmarket.online/)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It will be one-time effort, after completion, you can go back to your daily work."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "If there are enquires, then as I explained, you can decide how to move on."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "This will be a high-return attempt in the long run."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Online Store and Sample Testing are mainly about selling(standard models)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Customization"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We support an in-depth customization covering almost all the needed services on the market"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Hardware: enclosure, PVC, label, user manual, packing box etc."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Software: some basic changes and complex ones(web gui language, SNMP IOD etc.)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "The plan is, as I mentioned above(Sample Testing), there are just a few typical models"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "After standard testings,"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "You can make some videos to explain the features"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Maybe send it to your potential clients(client base, connections etc.) in EU market for testing"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "You can focus on some interesting parts like"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Marvell based solutions"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Optical bypass protection"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "DI/DO/RS485 function"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Power booster feature(our new model)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Customization(hardware, software, especially the web gui language)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Example: if your client is from France, we can do a French version of all materials(web gui, PVC, user manual, labels etc. a new product enclosure when necessary)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Then it will be fully localized"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Branch Office"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It seems that you do not have a branch office in Istanbul"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Below information is from ChatGPT"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "1. Significant Improvement in Logistics Efficiency"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Most of our products are standardized, fully tested, and rarely fail."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "With an Istanbul office and warehouse(ideally combined in a larger office space), the full supply chain becomes more streamlined:"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "China→ Istanbul → Customs Clearance → Office"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "From there, orders can be flexibly fulfilled to Ankara or EU clients."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "This setup dramatically improves time efficiency, shipping cost, and reduces customs coordination effort."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Overall, the process becomes faster, clearer, and more cost-effective."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "2. Strategic Gateway to the European Market"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Istanbul sits at the Eurasian gateway, adjacent to Bulgaria and the EU zone – a natural export hub for Europe."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "With local Turkish/English staff in the office, it becomes easier to communicate with European clients, agents, and partners."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "An office in a key logistics hub builds trust and reflects your commitment to service and localization."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Istanbul hosts many regional exhibitions and business meetings; having a physical presence allows clients to visit, test products, and deepen cooperation more conveniently."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We noticed that the local customs clearance took long"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Wondering if it is done in Istanbul, then delivered to your office?"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "If you have a branch in Istanbul, things will get easy as ChatGPT analyzed"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Btw: how is the office in Romania?"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Lets say if you have collected some local connections, maybe send some samples for testing or show them some videos to explain the features, maybe it works."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Payment"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We have opened a new account for collecting TRY payment directly, this may help save your cost"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please check if you need to deposit some money to prevent huge exchange rate fluctuation."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "TRY to RMB/USD exchange rate chart"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Lets say 50K TRY for deposit"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "we can use this amount for samples or sample orders"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "we can ship the purchased materials beforehand if the total amount exceeds 50K(lets say 60K)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "save your bank cost in multiple transfers"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "no delays in T/T wiring"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "etc."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "This adds flexibility in our business discussions"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Business Mode"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Would like to know how you are doing your business, we will see how we can help"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Maybe focusing on government projects?"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "As the web information goes, Turk Telekom is one of the three national operators in Turkey."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "This demo order(6 units of AC5 based models) is for Turk Telekom, right?"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We assume you must have poured decent efforts and have some connections with the government."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Perhaps this could partly explain why you shut down https://networkmarket.online/?"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Honestly if you have a solid business connection with Turk Telekom, we can even do something more to win more projects from them, this is much easier than developing new clients/connections"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We could initiate a Joint-Go-To-Market plan named Saga Telecom & Angora Networks — Empowering Industrial Networks Across Turkey and Beyond"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "That is,"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We develop some business patterns/ideas based on your business scope"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "we can help take care of accessories like APs, SFP modules etc."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "we can improve the product features based on your feedback(an example is HTTPS, SFTP feature, its ready now)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "maybe send some samples if your clients deal with Ultra PoE(802.3bt models)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "maybe try to integrate our models to your previous ones(as I remember you got NMS platform or something for uniformly controlling all managed switches?)"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "what you expect from Saga or maybe models/features you need us to develop"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Distribution"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Before on WeChat, you said would stock some models this year"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Actually not understanding this especially after your online store is closed"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "I mean, is stocking for online sales, sample testing or something?"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Official Website"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We noticed that it is still old products on your website, do you need an update?"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We can help with photos & diagrams etc."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "In the meantime, you can consider displaying some interesting model as I mentioned above"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Optical bypass switch, power booster models or DI/DO/RS485 etc."
+  }
+ ],
+ "extracted_at": "2026-10-22T03:42:44Z"
+}

@@ -1,0 +1,19 @@
+{
+ "sha256_16": "a07c5be4be572e88",
+ "name": "label format.png",
+ "ext": ".png",
+ "bytes": 130453,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 914,
+  "height": 613,
+  "mode": "RGBA",
+  "thumb_bytes": 16310
+ },
+ "warnings": [],
+ "chars": 286,
+ "text": "Product: 32 Port Commercial Managed Ethernet Switch\nModel: STC-4248XGGCM\nFeatures: 4*1G/10G SFP slots + 24*1000M SFP slots\n+ 8*SFP/RJ45 Combo\nInternal Power, AC100~240V, Layer 3 Managed\nIP Address:192.168.2.1\nUser Name/Password: Admin\nyeai/month/date/serial S/N-202402190001\ndescription",
+ "extracted_at": "2026-10-22T03:48:07Z"
+}

@@ -1,0 +1,19 @@
+{
+ "sha256_16": "724cce26f7188ae1",
+ "name": "mounting hanger.jpg",
+ "ext": ".jpg",
+ "bytes": 1737860,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 4032,
+  "height": 3024,
+  "mode": "RGB",
+  "thumb_bytes": 9978
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T03:49:19Z"
+}
