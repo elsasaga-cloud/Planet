@@ -1,0 +1,22 @@
+{
+"id":"1UtdLZ-SdM1mEsGduOXTaRbxEXwiGG8jG",
+"name":"3.jpg",
+"path":"Drive第三轮/MUST KNOW/Factory Information_Saga Telecom/Testing of Switches/3.jpg",
+"type":"图片",
+"bytes":3061916,
+"sha256":"90d4ac6e72c7d09949582410f5ec81dd877f597181f9d7a19193f4ffc2d9a2cc",
+"extracted_at":"2026-10-22T12:24:49Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":3072,
+"height":4096,
+"mode":"RGB",
+"thumb_bytes":16140
+},
+"ocr":{
+"text":"電源 指示 故障 報警\nSABRI ARIE IO POWER LIGHT FAILURE\n@ e)\n停止 视窗 灯\nRUN STOP WINDOW LIGHT\n國 加 還 = 縣",
+"conf":59.5
+},
+"text":"電源 指示 故障 報警\nSABRI ARIE IO POWER LIGHT FAILURE\n@ e)\n停止 视窗 灯\nRUN STOP WINDOW LIGHT\n國 加 還 = 縣"
+}

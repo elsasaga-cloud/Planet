@@ -1,0 +1,22 @@
+{
+"id":"1PRyVwcNiYup6Efiel2MV3jQGbfD_K8mt",
+"name":"1.jpg",
+"path":"Drive第三轮/MUST KNOW/Factory Information_Saga Telecom/1.jpg",
+"type":"图片",
+"bytes":6105907,
+"sha256":"ad3791a2dadb3ef08f97d481ab79a57b1364732eb1509e0183cf46f5fd2ab5b2",
+"extracted_at":"2026-10-22T12:23:32Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":4032,
+"height":3024,
+"mode":"RGB",
+"thumb_bytes":9855
+},
+"ocr":{
+"text":"防 靜 電 測試\nAnti-static Test",
+"conf":82.9
+},
+"text":"防 靜 電 測試\nAnti-static Test"
+}

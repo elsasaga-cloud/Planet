@@ -1,0 +1,22 @@
+{
+"id":"1rSfgmisY5W3x_oTis-SNwlHDgomRIUkr",
+"name":"Lightning surge test.jpg",
+"path":"Drive第三轮/MUST KNOW/Factory Information_Saga Telecom/Testing Equipment/Lightning surge test.jpg",
+"type":"图片",
+"bytes":716288,
+"sha256":"d2838bb6f0189d9b29dbda3aeb41fd9308814cc70084b73d1a1128cb1f8044f2",
+"extracted_at":"2026-10-22T12:24:37Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":3072,
+"height":4096,
+"mode":"RGB",
+"thumb_bytes":13671
+},
+"ocr":{
+"text":"IM\nSUG61005TDB\nEMERGENCY @ |\nSe\nES\nF Fa ut\nLightnir\n一 -一\n上 海 普 锐 马 电子 有 限 公 司 www.emcprima.com 过\n| at\nhtning Surge Generator\n6 | ym",
+"conf":68.4
+},
+"text":"IM\nSUG61005TDB\nEMERGENCY @ |\nSe\nES\nF Fa ut\nLightnir\n一 -一\n上 海 普 锐 马 电子 有 限 公 司 www.emcprima.com 过\n| at\nhtning Surge Generator\n6 | ym"
+}

@@ -1,0 +1,23 @@
+{
+"id":"1Oqznuw28PuvQP0izCRdM26g3v8uthB9P",
+"name":"Lightning surge test 4KV.jpg",
+"path":"Drive第三轮/MUST KNOW/Factory Information_Saga Telecom/Testing Equipment/Lightning surge test 4KV.jpg",
+"type":"图片",
+"bytes":5407883,
+"sha256":"26797fbc0fdb6fd0a865b75e5d47c93370f6660f830358a70fdad9aabf256d08",
+"extracted_at":"2026-10-22T12:24:37Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":3072,
+"height":4096,
+"mode":"RGB",
+"software":"FOA-AL00 4.0.0.113(C00E112R4P2)",
+"thumb_bytes":10310
+},
+"ocr":{
+"text":"模式 选择\n0 用 户 1 |\n© 国标 4 |\n试 品 电源 (AC)\n触发 方式 ;\n間隔 時 間 :\nMa",
+"conf":76.3
+},
+"text":"模式 选择\n0 用 户 1 |\n© 国标 4 |\n试 品 电源 (AC)\n触发 方式 ;\n間隔 時 間 :\nMa"
+}

@@ -1,0 +1,22 @@
+{
+"id":"1ZoK4xW79oZYkg2Sr4Pa-FrOh-9EgBzfz",
+"name":"1.jpg",
+"path":"Drive第三轮/MUST KNOW/Factory Information_Saga Telecom/Team/1.jpg",
+"type":"图片",
+"bytes":3778144,
+"sha256":"0352c9f614b8ca2ca336bf1c221b41b7d9d7d6c07a875aeedec091c66712fcc4",
+"extracted_at":"2026-10-22T12:24:09Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":4032,
+"height":3024,
+"mode":"RGB",
+"thumb_bytes":16240
+},
+"ocr":{
+"text":"既 生 ip 何 生",
+"conf":92.2
+},
+"text":"既 生 ip 何 生"
+}

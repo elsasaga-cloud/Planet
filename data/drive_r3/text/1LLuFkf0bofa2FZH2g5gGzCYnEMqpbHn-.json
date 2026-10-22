@@ -1,0 +1,26 @@
+{
+"id":"1LLuFkf0bofa2FZH2g5gGzCYnEMqpbHn-",
+"name":"Order Procedure.pdf",
+"path":"Drive第三轮/MUST KNOW/Order Procedure.pdf",
+"type":"PDF",
+"ext":".pdf",
+"bytes":99158,
+"sha256":"5d9f4e47d9e3c828dca22e3bcb7de9763ec5730c3e88b432a4fd7f1af4e16db1",
+"extracted_at":"2026-10-22T12:23:10Z",
+"method":"pdfplumber",
+"status":"ok",
+"chars":1470,
+"meta":{
+"pages":1,
+"author":"Simon",
+"creator":"WPS 文字",
+"creationdate":"D:20260201163408+08'34'",
+"moddate":"D:20260201163408+08'34'",
+"ocr_pages":0
+},
+"warnings":[],
+"text":"[p1]\nSagaTelecom\nwww.sagatelecom.com.cn\n1. Negotiation\n2. Ordering\n3. Payment\n4. Shipment\nNegotiation\n Discussspecification,quantity,customizedrequirements...\nMoveonto“Ordering”stageifeverydetailisfinalized\n Noagreementisachievedduetopricing,unavailableoffer...\nWaitfornextbusinessopportunity\nOrdering\n BuyersendingPO\nNotmandatory\n SellerdraftingPI\nRequired\nContactinformation,pricing,quantity,shippingtimeetc.shallbespecifiedinthisinvoice\n Buyerreview\nProceedwithpaymentifthePIisapproved,ornotifythesellerofanyrequiredrevisions\nPayment\n PayPal/BanktransferONLY\nPayPalisusuallyforsampleorders,5UsdwillbechargedforEVERY100UsdintoourA/C\nBanktransferisusuallyaboutrepeatandbulkorders,standardchargeinEACHorder:25Usd\n Buyersendingpaymentreceipt\nMaterialpreparationstarts\n Sellerreceivingpayment\nProductionstarts\nShipping\n Dispatchready\nPhotosandvideosoforderedunitsareavailable\nBuyerconfirmation(productlabelformat,shippingmarks...)isrequiredtoreleaseouttheorder\n Shippingmethod\n1. Viabuyer’sdesignatedforwarder,thisisusuallyaboutbuyer'sshippingagent,wewilldirectlysendpurchased\nitemstoagent’sforfurtherprocessing\n2. ViaSagaTelecom’sshippingagent,wewillquotebasedontotalweighttobuyer.Itisusuallyairserviceby\nDHL/FedEx/UPS,costwillbeincludedinPIafterbuyerapproves\n3. Viabuyer’sshippingA/C(DHL/FedEx/UPS)\n Shippingnumber\nSellershouldsendshippinginformationtobuyeronceavailable\nTailoredManagedNetworkingSolutionsProvider\nBuilttoLast,ContinuousSupply,EvolvingTogether",
+"pages":[
+"SagaTelecom\nwww.sagatelecom.com.cn\n1. Negotiation\n2. Ordering\n3. Payment\n4. Shipment\nNegotiation\n Discussspecification,quantity,customizedrequirements...\nMoveonto“Ordering”stageifeverydetailisfinalized\n Noagreementisachievedduetopricing,unavailableoffer...\nWaitfornextbusinessopportunity\nOrdering\n BuyersendingPO\nNotmandatory\n SellerdraftingPI\nRequired\nContactinformation,pricing,quantity,shippingtimeetc.shallbespecifiedinthisinvoice\n Buyerreview\nProceedwithpaymentifthePIisapproved,ornotifythesellerofanyrequiredrevisions\nPayment\n PayPal/BanktransferONLY\nPayPalisusuallyforsampleorders,5UsdwillbechargedforEVERY100UsdintoourA/C\nBanktransferisusuallyaboutrepeatandbulkorders,standardchargeinEACHorder:25Usd\n Buyersendingpaymentreceipt\nMaterialpreparationstarts\n Sellerreceivingpayment\nProductionstarts\nShipping\n Dispatchready\nPhotosandvideosoforderedunitsareavailable\nBuyerconfirmation(productlabelformat,shippingmarks...)isrequiredtoreleaseouttheorder\n Shippingmethod\n1. Viabuyer’sdesignatedforwarder,thisisusuallyaboutbuyer'sshippingagent,wewilldirectlysendpurchased\nitemstoagent’sforfurtherprocessing\n2. ViaSagaTelecom’sshippingagent,wewillquotebasedontotalweighttobuyer.Itisusuallyairserviceby\nDHL/FedEx/UPS,costwillbeincludedinPIafterbuyerapproves\n3. Viabuyer’sshippingA/C(DHL/FedEx/UPS)\n Shippingnumber\nSellershouldsendshippinginformationtobuyeronceavailable\nTailoredManagedNetworkingSolutionsProvider\nBuilttoLast,ContinuousSupply,EvolvingTogether"
+]
+}

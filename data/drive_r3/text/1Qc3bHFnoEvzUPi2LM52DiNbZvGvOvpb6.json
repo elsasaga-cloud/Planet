@@ -1,0 +1,28 @@
+{
+"id":"1Qc3bHFnoEvzUPi2LM52DiNbZvGvOvpb6",
+"name":"Client Oriented.pdf",
+"path":"Drive第三轮/MUST KNOW/Client Oriented.pdf",
+"type":"PDF",
+"ext":".pdf",
+"bytes":370989,
+"sha256":"2b13f382c25fd9f609ac85799177d0c91205bc040f5b974c4d80ef75cada8c36",
+"extracted_at":"2026-10-22T12:22:57Z",
+"method":"pdfplumber",
+"status":"ok",
+"chars":1218,
+"meta":{
+"pages":3,
+"author":"Simon",
+"creator":"WPS 文字",
+"creationdate":"D:20260201163419+08'34'",
+"moddate":"D:20260201163419+08'34'",
+"ocr_pages":0
+},
+"warnings":[],
+"text":"[p1]\nSagaTelecom\nwww.sagatelecom.com.cn\nCase1\nReadilyAvailable\nDualACInput\nTailoredManagedNetworkingSolutionsProvider\nBuilttoLast,ContinuousSupply,EvolvingTogether\n\n[p2]\nSagaTelecom\nwww.sagatelecom.com.cn\nCase2\nNewestFirmware\nTailoredManagedNetworkingSolutionsProvider\nBuilttoLast,ContinuousSupply,EvolvingTogether\n\n[p3]\nSagaTelecom\nwww.sagatelecom.com.cn\nInthemeantime,wehavebeencollectingthefeedbackfromclientsidesabout\n Anyfeaturestobeadded\n Anydysfunctionsinsampletesting\n Anytechnicalsupportrequired\nandtryingtosolverealproblems\nCase1\nIdidn'trealizethattheSFPdidn'tauto-detect1or10gbps,sothatconfusedmeforafewminutesbeforeIsawthe\nsettingIneededtochoosemanually.\nIlikethatthebackupfileisaneditabletextfile,whichwouldbegreatifyouhavetoconfigurealotofthematonce.\nItwouldbeniceifthewebUIrememberedthexxitemsperpagesetting.Itseemstodefaultto20/page,eventhoughI\nkeepchangingitto50/pagesoIcanseeallmyportsatonce:(\nNowitisinplace,Icandosomemoretesting.\nCase2\nPractically,therearecertainrequirementsbeyondourcapacity,buttherearesomethingswecandoortrytoimprove\nWearebackingourclientsandfollowingthemarkettrend\nLet'sevolvetogether!!\nTailoredManagedNetworkingSolutionsProvider\nBuilttoLast,ContinuousSupply,EvolvingTogether",
+"pages":[
+"SagaTelecom\nwww.sagatelecom.com.cn\nCase1\nReadilyAvailable\nDualACInput\nTailoredManagedNetworkingSolutionsProvider\nBuilttoLast,ContinuousSupply,EvolvingTogether",
+"SagaTelecom\nwww.sagatelecom.com.cn\nCase2\nNewestFirmware\nTailoredManagedNetworkingSolutionsProvider\nBuilttoLast,ContinuousSupply,EvolvingTogether",
+"SagaTelecom\nwww.sagatelecom.com.cn\nInthemeantime,wehavebeencollectingthefeedbackfromclientsidesabout\n Anyfeaturestobeadded\n Anydysfunctionsinsampletesting\n Anytechnicalsupportrequired\nandtryingtosolverealproblems\nCase1\nIdidn'trealizethattheSFPdidn'tauto-detect1or10gbps,sothatconfusedmeforafewminutesbeforeIsawthe\nsettingIneededtochoosemanually.\nIlikethatthebackupfileisaneditabletextfile,whichwouldbegreatifyouhavetoconfigurealotofthematonce.\nItwouldbeniceifthewebUIrememberedthexxitemsperpagesetting.Itseemstodefaultto20/page,eventhoughI\nkeepchangingitto50/pagesoIcanseeallmyportsatonce:(\nNowitisinplace,Icandosomemoretesting.\nCase2\nPractically,therearecertainrequirementsbeyondourcapacity,buttherearesomethingswecandoortrytoimprove\nWearebackingourclientsandfollowingthemarkettrend\nLet'sevolvetogether!!\nTailoredManagedNetworkingSolutionsProvider\nBuilttoLast,ContinuousSupply,EvolvingTogether"
+]
+}

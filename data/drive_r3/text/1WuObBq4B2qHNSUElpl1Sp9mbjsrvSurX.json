@@ -1,0 +1,22 @@
+{
+"id":"1WuObBq4B2qHNSUElpl1Sp9mbjsrvSurX",
+"name":"20.jpg",
+"path":"Drive第三轮/MUST KNOW/Factory Information_Saga Telecom/20.jpg",
+"type":"图片",
+"bytes":3384781,
+"sha256":"f6d5a97402e57ec23927d72c017f458a95735ad6da80d7e317b6e356df754506",
+"extracted_at":"2026-10-22T12:23:52Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"MPO",
+"width":4032,
+"height":3024,
+"mode":"RGB",
+"thumb_bytes":16695
+},
+"ocr":{
+"text":"yi!\nWh\nHh! |\nWe LI,\niL\nTHM\nAA\n/// /\nHN\n/ ///\n|\n/\n/\n/\n/\n/\n|\n/\n/\nI |\n/1\n|\n/\n/\n|\n|\n/\nie\nI)\nHy\n八\ni! |\n//\n/\n/\n/\n/\n/\n/\n? i)",
+"conf":61.6
+},
+"text":"yi!\nWh\nHh! |\nWe LI,\niL\nTHM\nAA\n/// /\nHN\n/ ///\n|\n/\n/\n/\n/\n/\n|\n/\n/\nI |\n/1\n|\n/\n/\n|\n|\n/\nie\nI)\nHy\n八\ni! |\n//\n/\n/\n/\n/\n/\n/\n? i)"
+}

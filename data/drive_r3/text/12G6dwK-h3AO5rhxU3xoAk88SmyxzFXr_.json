@@ -1,0 +1,22 @@
+{
+"id":"12G6dwK-h3AO5rhxU3xoAk88SmyxzFXr_",
+"name":"8h aging test.jpg",
+"path":"Drive第三轮/MUST KNOW/Factory Information_Saga Telecom/Testing Equipment/8h aging test.jpg",
+"type":"图片",
+"bytes":737315,
+"sha256":"b74b7af4d2d8abb251d7ad52dbb448c3354110ab0ed2b8a25b50e39161d0de65",
+"extracted_at":"2026-10-22T12:24:42Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":3072,
+"height":3072,
+"mode":"RGB",
+"thumb_bytes":18714
+},
+"ocr":{
+"text":"PCD-D9000 Contro/ /#\n> 万 nm nm\nuu\nQa yA\nDy CIOS\n超 温 保护\n高 溫 老化 試驗 箱 安全 操作 規程\n文 件 編號 LTHS-B-JS-GC-02 版 本 / 版 次 | A/0\n生效 日 期 2020-5-6 页 码 |\nAUIS 295) 5 ALAS (LUO AR (PILL, RURAL IT PP ALCOR.\n三 .范围 本 规范 适用 于 本 机 台 作业 及 管理 工作 。\n= nt 1. ADAH A DAS Hh HA TE NID\n= 2 PMA GLIA BURT HE LP.\n四 , 操作 指引 ,\n> 設備 主 要 枝 術 俊 數,\n1s 試驗 庚 度 , RTHOT~+1500\n2) THMMUR: +20 一 +160U 4 <50min\n31 DK\n4; ‘WL ACSSOV + 10%; BOHZ\n\\ RRR\n打开 总 所\n2i 设备 显示 界面 点 击 监 视 画 面\n<= =\nAUIS fi 4 OB i Ff Ma\n5 i LMG UAT SLI bak HMC UG; IR “PIL” OR, 以 名 停止 屆 行 。\n2. PERT )\n1 (Mes eT FABIA, 75 79 RP\n2. UIE BIW, 58.58 2 ey wt.\n3. OA CUNNEPLT RULE AE. ACR. HOUR, ERO ATL, LP A, eA a) BR\nAB. ch PMLA JA i 1 4.\n4, AORTA He SR AR, LORNA, SA I IL. LR wea ET\n外 表 面 , —a eS\nTAM ORIR\n/ 4",
+"conf":51.1
+},
+"text":"PCD-D9000 Contro/ /#\n> 万 nm nm\nuu\nQa yA\nDy CIOS\n超 温 保护\n高 溫 老化 試驗 箱 安全 操作 規程\n文 件 編號 LTHS-B-JS-GC-02 版 本 / 版 次 | A/0\n生效 日 期 2020-5-6 页 码 |\nAUIS 295) 5 ALAS (LUO AR (PILL, RURAL IT PP ALCOR.\n三 .范围 本 规范 适用 于 本 机 台 作业 及 管理 工作 。\n= nt 1. ADAH A DAS Hh HA TE NID\n= 2 PMA GLIA BURT HE LP.\n四 , 操作 指引 ,\n> 設備 主 要 枝 術 俊 數,\n1s 試驗 庚 度 , RTHOT~+1500\n2) THMMUR: +20 一 +160U 4 <50min\n31 DK\n4; ‘WL ACSSOV + 10%; BOHZ\n\\ RRR\n打开 总 所\n2i 设备 显示 界面 点 击 监 视 画 面\n<= =\nAUIS fi 4 OB i Ff Ma\n5 i LMG UAT SLI bak HMC UG; IR “PIL” OR, 以 名 停止 屆 行 。\n2. PERT )\n1 (Mes eT FABIA, 75 79 RP\n2. UIE BIW, 58.58 2 ey wt.\n3. OA CUNNEPLT RULE AE. ACR. HOUR, ERO ATL, LP A, eA a) BR\nAB. ch PMLA JA i 1 4.\n4, AORTA He SR AR, LORNA, SA I IL. LR wea ET\n外 表 面 , —a eS\nTAM ORIR\n/ 4"
+}
