@@ -150,7 +150,7 @@ updated: 2026-10-22
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom　|　**邮件**：26 封（去 23 / 来 3）　|　**期间**：2024-06-18 → 2026-09-08　|　**最后去信**：2026-09-08
-- **对方邮箱**：stan@thorfiber.com
+- **对方邮箱**：digicorp1@gmail.com、stan@thorfiber.com
 - **最后一封来信**：2025-11-28 stan@thorfiber.com「Re: Booster PoE Switch」：Thank you for your email How much is that ? please email me the OEM prices - On Thu, Nov 27, 2025 at 6:37 AM Simon from Saga Telecom < s.sagatelecom@gmail.com> wrote:
 - **邮件里报过的价**：2026-09-08 $170；2026-07-20 $1500；2025-12-01 $215（STI-488XGGBPM）；2025-10-29 $280；2025-01-06 $240；2024-12-11 $300；2024-06-18 $65
 

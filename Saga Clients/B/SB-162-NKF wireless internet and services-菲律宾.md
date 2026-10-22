@@ -101,6 +101,7 @@ updated: 2026-10-22
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom　|　**邮件**：2 封（去 1 / 来 1）　|　**期间**：2025-01-15 → 2025-01-16　|　**最后去信**：2025-01-16
+- **对方邮箱**：joemar.baquiran@gmail.com
 - **最后一封来信**：2025-01-15 joemar.baquiran@gmail.com「Re: Mini Industrial PoE Switch」：sir, can you possibly send me an item for testing? Looking forward to hearing from you. thanks
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |

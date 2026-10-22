@@ -1,6 +1,6 @@
 # MARCOM S.r.l.
 
-> **评级 B**　|　意大利 · Verona（Bassone，via della Metallurgia 11）　|　档案编号 `PB-068`　|　优先级 ★★　|　状态：00-未触达
+> **评级 B**　|　意大利 · Verona（Bassone，via della Metallurgia 11）　|　档案编号 `PB-068`　|　优先级 ★★　|　状态：10-已触达(S邮箱 去1·0回复)
 >
 > **类型**：分销 + 工业自动化集成（2002 年起「Digital Building & Digital Factory」：现场总线 / 4G-5G 路由 / LoRaWAN / 多协议网关；品牌 Moxa、ICP DAS、Teltonika、MikroTik、Hilscher、Metz Connect、RAKwireless、Ubiquiti；PLANET 工业交换机 + 串口服务器在售）　|　**PLANET 关联**：shop.marcomweb.it 厂商页 /manufacturer/planet 与产品页：IGS-10020MT €388（工业 8×GE + 2×SFP 管理）、IGS-4215-4T2S €193（工业 L2/L4 4×GE + 2×SFP 管理）、ISW-621 €118 / ISW-621TF €107–118（工业 4×FE + 2×FX）、ISW-800T €78–88、ISW-500T €68–78、IGS-1020TF €145（END OF LIFE 促销）、IPM-8221 €410、工业串口服务器——PLANET 在它这里全部是工业线，与 Moxa EDS、Teltonika TSW 同柜　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
@@ -14,9 +14,9 @@ type: 分销 + 工业自动化集成（2002 年起「Digital Building & Digital 
 planet_models: ["IGS-10020MT", "IGS-4215-4T2S", "ISW-621", "ISW-621TF", "ISW-800T", "ISW-500T", "IGS-1020TF", "IPM-8221"]
 p1: STI-280DGGM
 price_tier: 20%
-stage: 00-未触达
+stage: 10-已触达(S邮箱 去1·0回复)
 mikrotik_ref: A-487（Mikrotik 侧 R53 人工 A，info@marcomweb.it，原 B-167）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：Mikrotik 侧「工业线为零」与事实不符（PLANET 工业 ≥7 款 + Moxa EDS 在售）+ IGS-1020TF EOL 促销时点（Q-06 同类，跨仓需用户手工）
-updated: 2026-10-20
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -185,4 +185,4 @@ updated: 2026-10-20
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W15 目录型矿脉：Mikrotik 池域名 × site: planet switch（CZ-US-PL-FR-IT）　|　原始证据：batch/2026-10-20_W15_目录型矿脉_Mikrotik池反查_CZ-US-PL-FR-IT.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：W15 目录型矿脉：Mikrotik 池域名 × site: planet switch（CZ-US-PL-FR-IT）　|　原始证据：batch/2026-10-20_W15_目录型矿脉_Mikrotik池反查_CZ-US-PL-FR-IT.json　|　渲染：scripts/render.py 2026-10-22*

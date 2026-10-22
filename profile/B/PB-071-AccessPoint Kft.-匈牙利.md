@@ -1,6 +1,6 @@
 # AccessPoint Kft.
 
-> **评级 B**　|　匈牙利 · Budakeszi（Bianka utca 18；办公 1116 Budapest, Vegyész utca 17-25）　|　档案编号 `PB-071`　|　优先级 ★　|　状态：00-未触达
+> **评级 B**　|　匈牙利 · Budakeszi（Bianka utca 18；办公 1116 Budapest, Vegyész utca 17-25）　|　档案编号 `PB-071`　|　优先级 ★　|　状态：10-已触达(S邮箱 去1·0回复)
 >
 > **类型**：分销（2002 年成立的 B2B 网络/布线批发商，面向安装商与系统集成商；Ubiquiti / MikroTik / Cambium / Teltonika / TP-Link / Belden-Hirschmann / CCS / Fibrain / FormRack 官方分销；2025-01 被 biztributor 集团并购；PLANET 在交换机类目品牌筛选中在列）　|　**PLANET 关联**：accesspoint.hu 旧版网店 Switch 类目「Gyártó」品牌筛选：Ubiquiti Networks · MikroTik · Cambium Networks · ZyXEL · TP-Link · IgniteNet · Cisco · TinyControl · Aruba Instant On · Hewlett Packard · Planet · Procet PoE System；Ethernet 类目筛选亦含 Planet（与 ATOP、Teltonika 同列）；新官网 OT Networking 段明列「industrial switch」　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
@@ -14,9 +14,9 @@ type: 分销（2002 年成立的 B2B 网络/布线批发商，面向安装商与
 planet_models: []
 p1: STI-288GP
 price_tier: 20%
-stage: 00-未触达
+stage: 10-已触达(S邮箱 去1·0回复)
 mikrotik_ref: A-452（Mikrotik 侧人工 A ★★★，info@accesspoint.hu）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：PLANET 仅品牌筛选级信号 + 2025 财报（€8M / 10–19 人）+ biztributor 并购风险（Q-06 同类，跨仓需用户手工）
-updated: 2026-10-20
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -175,4 +175,4 @@ updated: 2026-10-20
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W16 目录型矿脉 ①（续）：Mikrotik 池域名 × site: planet switch（PL-CZ-SK-HU-GR）+ W06/W07 OR 组查询假阴性复核　|　原始证据：batch/2026-10-20_W16_目录型矿脉续_OR组假阴性复核_PL-CZ-HU.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：W16 目录型矿脉 ①（续）：Mikrotik 池域名 × site: planet switch（PL-CZ-SK-HU-GR）+ W06/W07 OR 组查询假阴性复核　|　原始证据：batch/2026-10-20_W16_目录型矿脉续_OR组假阴性复核_PL-CZ-HU.json　|　渲染：scripts/render.py 2026-10-22*

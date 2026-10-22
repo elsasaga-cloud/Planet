@@ -63,3 +63,19 @@
 - Payment: "T/T 50% deposit, balance before shipment; PayPal accepted with 5% fee."
 - Spares: "2 free spare units per 100 pcs of the same model instead of RMA returns."
 - OEM: "Logo, label, carton and Web-UI logo customization are free of charge; neutral packing available."
+
+## 8. 2026-09/10 S 邮箱实际口径（Simon 原话，PR-02-31 复盘 2026-10-22 补）
+> 来源：`data/gmail_s/messages/2026/2026-09.jsonl`、`2026-10.jsonl`（Milliseconds Evolution SB-1337、Fikes Media SB-1336、Vi-Link SA-011 等线程）。这是**现在正在用的**说法，与上面官网/Drive 口径有差异时以此为准、差异列入 Q-35。
+
+| 项目 | Simon 现行口径（英文可直接复用） | 出处 |
+|---|---|---|
+| 群发主推 | "Marvell AC5 based L2+ switch: 24 Port PoE af/at + 10G Fiber Uplinks + OEM and customizable Web GUI — **Price: 180USD/PC**"（= STC-424XGGPM-280W，20% 档） | 2026-09-28 → 10-20 群发 813 封同主题「24 Port PoE Managed Switch」 |
+| 样品 | "Normally evaluation units are provided at a **partner price**, and the sample cost will be **credited toward your first commercial order**. For long-term partners we can discuss additional support based on the project and cooperation plan." → 随后直接开 2 台样品形式发票（STSC-20261017-001） | 2026-10-03 / 10-17 致 Milliseconds |
+| 分销 | "For now, we do not have a distributor in the UK. We are certainly open to discussing a distributorship **after we get to know each other and see good cooperation**." | 2026-09-30 致 Milliseconds |
+| OEM 菜单 | "Company logo / Packaging / Front panel (PVC mask) / Product label / Model name / Serial number / User manual / Default login IP / SNMP OID customization / Web GUI language — all mature options. We can also discuss **firmware customization** for specific project requirements, **subject to technical evaluation**." | 2026-10-04 致 Fikes Media |
+| 控制器/API 问法 | 先反问："REST API / SNMP-based / SSH-CLI automation / NETCONF / other controller platform?"（Saga 线实际可承诺：SNMP + CLI/SSH + Web；**无云控制器、无 REST API**，下一封应直说） | 2026-10-04 致 Fikes Media |
+| 资料包 | 先发 `Saga Feature List_7.5.x_L2+.xlsx` + `Product Link_2026Q3.pdf`（Q4 版将更新）；深谈再发 `STC-424XGGPM-280W.docx` + `Marvell Based CLI/Web Manual.docx` + `SWITCH-MIBS-release.docx` | 2026-09-30 / 10-04 |
+| 涨价提醒 | "in recent days, PCB and material costs are rising. This is one of the very competitive models." | 2026-10-03 |
+| 签名 | "- Simon  https://sagatele.com/  An Engineering & Supply-Chain-First Telecom Partner  Built to Last, Continuous Supply, Evolving Together" | 全部 2026-09/10 群发 |
+
+- **SNMP 企业号（PEN）提醒**：NYNEX（SA-013）2025-03 测试时发现 SmartByte 通用 MIB 内含其他 OEM 客户的企业 OID（.57430 / .56813 / .171 D-Link），要求 Saga/SmartByte 申请自己的 IANA PEN 并说明 OEM 数据是固件写死还是独立分区。对欧洲系统集成商这是合规题 → Q-35（建议 Saga 自己免费申请 PEN，并要求 Saga 版固件只含 Saga 树）。

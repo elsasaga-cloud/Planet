@@ -162,7 +162,7 @@ updated: 2026-10-22
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom　|　**邮件**：27 封（去 26 / 来 1）　|　**期间**：2024-05-30 → 2026-09-08　|　**最后去信**：2026-09-08
-- **对方邮箱**：contact@cxr.com、marco.divalerio@cxr.com
+- **对方邮箱**：contact@cxr.com、marco.divalerio@cxr.com、marco.divalerio@cxr.fr
 - **最后一封来信**：2024-05-30 marco.divalerio@cxr.fr「Re: 10g media converter」：Hi Simon, Thanks, please could you send data sheet please Marco Di Valerio COO Regards
 - **邮件里报过的价**：2026-09-08 $170；2026-07-20 $1500；2025-10-29 $280；2025-08-27 $240；2024-11-19 $300
 

@@ -1,6 +1,6 @@
 # GelecekBT Bilgi Teknolojileri
 
-> **评级 B**　|　土耳其 · Istanbul（Şişli，Perpa Ticaret Merkezi）　|　档案编号 `PB-054`　|　优先级 ★★　|　状态：00-未触达
+> **评级 B**　|　土耳其 · Istanbul（Şişli，Perpa Ticaret Merkezi）　|　档案编号 `PB-054`　|　优先级 ★★　|　状态：10-已触达(S邮箱 去5·0回复)
 >
 > **类型**：分销商/经销（2004 年起；以太网交换机、PoE 与工业交换机、SFP、光纤/视频转换器、CCTV、工业串口通信、结构化布线；CLR Networks 土耳其独家分销 + ONET / Telkolink / Netkablo 分销；2–10 人）　|　**PLANET 关联**：gelecekbt.com/planet 品牌页在售：ELA-100、WGR-500、FSD-805S15、BSP-300、BSP-360、POE-TESTER、IGS-5227-4MP2MT、MC-1500R、AIS-1000、FTP-802、GPL-GSFP-C+、GT-802S、XT-705A、POE-163（多数「İletişime Geçiniz」询价制）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 
@@ -12,9 +12,9 @@ type: 分销商/经销（2004 年起；以太网交换机、PoE 与工业交换�
 planet_models: ["ELA-100", "WGR-500", "FSD-805S15", "BSP-300", "BSP-360", "POE-TESTER", "IGS-5227-4MP2MT", "MC-1500R", "AIS-1000", "FTP-802", "GT-802S", "XT-705A", "POE-163"]
 p1: STI-288DGGPM
 price_tier: 20%
-stage: 00-未触达
+stage: 10-已触达(S邮箱 去5·0回复)
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -216,4 +216,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK　|　原始证据：batch/2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK　|　原始证据：batch/2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK.json　|　渲染：scripts/render.py 2026-10-22*

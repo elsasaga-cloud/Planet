@@ -108,10 +108,14 @@ updated: 2026-10-22
   > 来源：PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展/STSC20261006015.xlsx（抓取 2026-10-06）
 - **【PI】PI 包文件夹「德国 Frederik 活跃 Xtransfer 可发展」：Simon 标签 活跃，收款 Xtransfer；单号 5 个，2024-11-21 → 2026-10-06，销售 USD 19634.0 / RMB 0，Simon 成本统计利润合计 RMB 7081.83**
   > 来源：PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展（抓取 2026-10-22）
+- **【Gmail 往来（S 邮箱）】合规审查：NYNEX 测试 LT-S8328XG 时发现 SmartByte 通用 MIB 内含 3 家其他 OEM 客户/品牌的企业 OID（.57430 Dongguan Huarong、.56813 Fuzhou Dockeer、.171 D-Link），要求说明 Saga 与 SmartByte 关系以报备合规部门；SmartByte 承认「忘了删其他 OEM 客户的 OID」，并提出按客户自有 OID 定制固件；NYNEX 自有 IANA PEN 44770，但要求 SmartByte 先申请自己的 PEN 并把私有 OID 迁到自己的树下，还追问 OEM 数据（产品 ID / PEN 前缀 / logo）是写死在固件还是独立 OEM 配置分区**
+  > The MIB enterprise IDs (.1.3.6.1.4.1.57430.* and .1.3.6.1.4.1.56813.* and .1.3.6.1.4.1.171.*) are registered to two other companies … How is smart bytes/saga telecom related to these companies? … Can you please request your own SmartByte SNMP enterprise OID at https://www.iana.org/assignments/enterprise-numbers/ … Is the OEM data like the product ID, SNMP PEN prefix, company logo, etc. hardcoded in the firmware (separate firmware file for each OEM)?
+  > 来源：data/gmail_s/messages/2025/2025-03.jsonl（主题 RE: Testing Feedback，f.kriewitz@nynex.de ↔ peter@smartbyte.com.cn，抄 S 邮箱）（抓取 2025-03-27）
 - **KP**：Frederik Kriewitz（Systems Engineer / 网络负责人（RIPE 联系人、政策文件署名人；成单联系人））f.kriewitz@nynex.de +49 6151 50074-009〔https://ipinfo.io/AS200519/178.17.236.0/23 + 用户表〕
 - **KP**：Gunter Frank（创始人/合伙人（1999/2000 创立）） 〔https://nynex.de/company/〕
 - **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 活跃 → A
 - 备注：A 维持：运营商持续采购楼宇接入交换机（48 口/L2+/2.5G 上联）与贴牌 MC/SFP；P1 改 STC-448XGGPM 或 STC-424XGGPM-280W（10G 上联）。
+【2026-10-22 复盘补】NYNEX 2025-03 的 SNMP/MIB 合规追问是「工程型缓冲层」的真实考题：欧洲客户会用 snmpwalk 核 OID 归属。Saga 应自己申请一个 IANA PEN（免费、在线表单、约 1–2 周）并要求 SmartByte 在 Saga 版固件里只保留 Saga PEN 下的私有 MIB；给 NYNEX/德国客户的 OEM 说明要能回答「OEM 数据是固件内写死还是独立配置分区」。对应 Q-35。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
 

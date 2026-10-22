@@ -1,6 +1,6 @@
 # EDOX SAS
 
-> **评级 B**　|　法国 · Burnhaupt-le-Haut（Haut-Rhin，ZI de la Doller，1 rue de la Forêt Noire）　|　档案编号 `PB-067`　|　优先级 ★★　|　状态：00-未触达
+> **评级 B**　|　法国 · Burnhaupt-le-Haut（Haut-Rhin，ZI de la Doller，1 rue de la Forêt Noire）　|　档案编号 `PB-067`　|　优先级 ★★　|　状态：10-已触达(S邮箱 去1·0回复)
 >
 > **类型**：分销（1993 年起的 IT / 视频监控 / IP 电话增值批发商，100% 间接分销，自称 5 000 家经销商、35 000 个 SKU、J+1 发货；MikroTik Master Distributor；交换机类目品牌筛选 Planet 155 款）　|　**PLANET 关联**：edox.com 交换机类目 /Webshop/category/10004008 品牌筛选：Mikrotik (37) / Planet (155) / Qnap (4) / Teltonika (16) / TP-Link (204) / Ubiquiti (65) / Zyxel (88)——PLANET 为其第二大交换机品牌；产品页 GS-4210-16P2S（Disponible）、GS-4210-24HP2C、GSD-604HP（Disponible）、ISW-504PT（Disponible，工业）、MGSW-24160F（Géré à la commande）、GS-2210-16T2S　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
@@ -14,9 +14,9 @@ type: 分销（1993 年起的 IT / 视频监控 / IP 电话增值批发商，100
 planet_models: ["GS-4210-16P2S", "GS-4210-24HP2C", "GSD-604HP", "ISW-504PT", "MGSW-24160F", "GS-2210-16T2S"]
 p1: STC-424DGGPM-280W
 price_tier: 20%
-stage: 00-未触达
+stage: 10-已触达(S邮箱 去1·0回复)
 mikrotik_ref: A-579（Mikrotik 侧 R63 升 A，commercial@edox.com，原 B-238）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：Mikrotik 侧「工业线为零」与事实不符（ISW-504PT 等工业款在售）+ PLANET 155 款（Q-06 同类，跨仓需用户手工）
-updated: 2026-10-20
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -186,4 +186,4 @@ updated: 2026-10-20
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W15 目录型矿脉：Mikrotik 池域名 × site: planet switch（CZ-US-PL-FR-IT）　|　原始证据：batch/2026-10-20_W15_目录型矿脉_Mikrotik池反查_CZ-US-PL-FR-IT.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：W15 目录型矿脉：Mikrotik 池域名 × site: planet switch（CZ-US-PL-FR-IT）　|　原始证据：batch/2026-10-20_W15_目录型矿脉_Mikrotik池反查_CZ-US-PL-FR-IT.json　|　渲染：scripts/render.py 2026-10-22*

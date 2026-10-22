@@ -1,0 +1,38 @@
+{
+ "code": "SB-1338",
+ "name_official": "Litech (Pvt) Ltd",
+ "website_status": "未核（本轮只用 S 邮箱证据；注意 litech.cc 马来西亚 = 另一家 SC-917，勿混）",
+ "summary": "巴基斯坦伊斯兰堡系统集成/项目承包商（华为渠道），2024-03-09 主动发来 RFQ：接入/汇聚交换机 + 路由器规格书（以华为型号为参照）要做技术符合性声明，称多个项目在管线、想长期合作。S 邮箱内未见 Simon 回复（来询未回）。",
+ "type": "系统集成/项目承包（华为渠道）",
+ "size": "中（有 BD 经理、项目制）",
+ "brands_seen": [
+  "Huawei"
+ ],
+ "evidence": [
+  {
+   "kind": "email",
+   "claim": "主动 RFQ + 长期合作意向（来询未回）",
+   "quote": "Attached herewith are the technical specifications of different Access/Aggregation switches and Routers for your working for technical compliance statement… customer has prepared these specifications with reference to different models of Huawei Switches… number of projects are in pipe line and we want long business partnership with you（附 Access and aggregation switches specs.docx）",
+   "url": "data/gmail_s/messages/2024/2024-03.jsonl（from hassancheema@litech.com.pk，主题 RFQ Switches）",
+   "date": "2024-03-09"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Hassan Ijaz Cheema",
+   "role": "Manager Business Development",
+   "email": "hassancheema@litech.com.pk",
+   "phone": "+92 310 092 4444 / +92 51 8744109",
+   "source": "S 邮箱签名"
+  }
+ ],
+ "notes": "2.5 年前的 RFQ，先确认 Simon 当时是否在别的渠道回过；若没有，可发一封「当年没接上，现在 L2+/L3 线成熟」的短信重新开门（只对交换机部分，路由器不做）。公共项目/运营商类项目注意守界。",
+ "researched_at": "2026-10-22",
+ "saga_fit": {
+  "p1": "STI-41616XGGPM",
+  "tier": 25,
+  "why": "项目集成商 → 25% 档；汇聚层 L3 口型先用工业 L3 顶上，商用 48 口 L3 另议"
+ },
+ "grade_override": "B",
+ "override_reason": "具名 BD 经理 + 真实 RFQ，但年代久、规格对标华为（部分做不了）、未回 → B"
+}

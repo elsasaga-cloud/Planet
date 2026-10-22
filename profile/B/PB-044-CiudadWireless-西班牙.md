@@ -1,6 +1,6 @@
 # CiudadWireless
 
-> **评级 B**　|　西班牙 · Madrid　|　档案编号 `PB-044`　|　优先级 ★★☆　|　状态：00-未触达
+> **评级 B**　|　西班牙 · Madrid　|　档案编号 `PB-044`　|　优先级 ★★☆　|　状态：10-已触达(S邮箱 去1·0回复)
 >
 > **类型**：分销商/专业网店（无线/网络/监控/VoIP 专营，自述「la tienda online con mayor stock de productos Wifi, Videovigilancia, Cámaras IP, Networking」；品牌墙 MikroTik / Ubiquiti / Cambium / Netgear / Planet / Zyxel / Lantech 等；自有品牌 eRize）　|　**PLANET 关联**：Mikrotik 仓库 A-562 官网核对：制造/代理品牌墙含 Planet；自有品牌 eRize 含工业 DIN 交换机（ERZ-IS01G20802R-4075AP 管理型 8 GbE PoE + 2 SFP 240W；ERZ-IS00F00510R-4075AP 4 PoE 非管理）与 OEM PoE 分离器　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
@@ -14,9 +14,9 @@ type: 分销商/专业网店（无线/网络/监控/VoIP 专营，自述「la ti
 planet_models: ["PLANET（品牌墙，具体型号待补证）"]
 p1: STI-288DGGPM
 price_tier: 30%
-stage: 00-未触达
+stage: 10-已触达(S邮箱 去1·0回复)
 mikrotik_ref: A-562
-updated: 2026-10-20
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -163,4 +163,4 @@ updated: 2026-10-20
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL　|　原始证据：batch/2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL　|　原始证据：batch/2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json　|　渲染：scripts/render.py 2026-10-22*

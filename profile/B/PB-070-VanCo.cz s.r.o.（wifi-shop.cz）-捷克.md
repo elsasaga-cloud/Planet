@@ -1,6 +1,6 @@
 # VanCo.cz s.r.o.（wifi-shop.cz）
 
-> **评级 B**　|　捷克 · Praha（U čokoládoven 818/9, Praha 12 – Modřany；注册地 Vojtěšská 231/17, Praha 1）　|　档案编号 `PB-070`　|　优先级 ★　|　状态：00-未触达
+> **评级 B**　|　捷克 · Praha（U čokoládoven 818/9, Praha 12 – Modřany；注册地 Vojtěšská 231/17, Praha 1）　|　档案编号 `PB-070`　|　优先级 ★　|　状态：10-已触达(S邮箱 去1·0回复)
 >
 > **类型**：分销/电商（1999 年成立的网络设备网店 VanCo eStore = wifi-shop.cz；MikroTik Master Distributor；LAN 类目 553 件（MikroTik 69 / Ubiquiti 40 / TP-Link 27 / D-Link / EnGenius / Fortinet）；C-Data CZ/SK 独家分销；PLANET 为独立品牌类目，仅余工业 FE 款 + 清仓 AP + 配件）　|　**PLANET 关联**：wifi-shop.cz 「Planet」品牌类目：10/100 交换机类目列「Průmyslový switch Planet ISW-621TF」；XL-WDAP-1001 AP/WDS（Producer Planet，Výprodej 清仓）；Planet 2×RJ-45 屏蔽墙插（88 Kč，PH OLC 在库）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
@@ -14,9 +14,9 @@ type: 分销/电商（1999 年成立的网络设备网店 VanCo eStore = wifi-sh
 planet_models: ["ISW-621TF", "XL-WDAP-1001"]
 p1: STI-240FE
 price_tier: 20%
-stage: 00-未触达
+stage: 10-已触达(S邮箱 去1·0回复)
 mikrotik_ref: A-498（Mikrotik 侧人工 A ★★★，obchod@vanco.cz）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：PLANET 仅余 ISW-621TF 工业款 + 清仓件（Mikrotik 侧「缺工业线」判断与事实基本一致：仅 1 款 PLANET 工业 FE）（Q-06 同类，跨仓需用户手工）
-updated: 2026-10-20
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -177,4 +177,4 @@ updated: 2026-10-20
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W16 目录型矿脉 ①（续）：Mikrotik 池域名 × site: planet switch（PL-CZ-SK-HU-GR）+ W06/W07 OR 组查询假阴性复核　|　原始证据：batch/2026-10-20_W16_目录型矿脉续_OR组假阴性复核_PL-CZ-HU.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：W16 目录型矿脉 ①（续）：Mikrotik 池域名 × site: planet switch（PL-CZ-SK-HU-GR）+ W06/W07 OR 组查询假阴性复核　|　原始证据：batch/2026-10-20_W16_目录型矿脉续_OR组假阴性复核_PL-CZ-HU.json　|　渲染：scripts/render.py 2026-10-22*

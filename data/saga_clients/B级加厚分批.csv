@@ -116,6 +116,8 @@ SB-096,B,T1,ONSIS ELEKTRONIK,土耳其,土耳其,0,0,0,1,0,1,0,0,0,onsis.com.tr,
 SB-1000,B,T1,stasanet.rs,塞尔维亚,欧洲,0,0,0,1,0,0,1,0,0,stasanet.rs,0,1,1,人工,ok,"Hikvision,Dahua,MikroTik,Teltonika",STC-424DGGPM-280W
 SB-1017,B,T1,NECDET SENKACAYC,土耳其,土耳其,0,0,0,1,0,0,0,0,0,,1,1,1,人工,,,
 SB-1040,B,T1,DIMAS TEKNOLOJI VE GUVENLIK,土耳其,土耳其,0,0,0,1,0,0,0,0,0,,1,1,1,人工,,,
+SB-1336,B,T1,Fikes Media,美国,北美,0,0,0,0,0,1,0,1,0,fikesmedia.com,1,1,0,,,,
+SB-1337,B,T1,Milliseconds Evolution Limited,英国,欧洲,0,0,0,0,0,1,0,0,0,millievolution.com,1,1,0,,,,
 SB-160,B,T1,CESS Govalik,土耳其,土耳其,0,0,0,1,0,0,1,0,0,shnrise.com,1,1,1,人工,unreachable,,
 SB-250,B,T1,camsanordu.com,土耳其,土耳其,0,0,0,1,0,0,1,0,0,camsanordu.com,1,1,1,人工,ok,,
 SB-251,B,T1,ebatek.com,土耳其,土耳其,0,0,0,1,0,0,1,0,0,ebatek.com,1,1,1,人工,ok,,STC-28DGGPM
@@ -360,6 +362,7 @@ SB-152,B,T2,nag.ru,俄罗斯,俄语区,0,0,0,0,0,0,1,0,1,nag.ru,3,1,1,人工,ok,
 SB-575,B,T2,Latitude,莫桑比克,非洲,0,0,0,0,0,0,1,0,1,voiptech.co.mz,2,1,1,人工,http_error,,
 SB-1103,B,T2,Multi Technology System,未填,未知,0,0,0,0,0,0,1,0,0,multi-technology.com,1,1,1,人工,ok,,
 SB-1138,B,T2,Precision,巴西,拉美,0,0,0,0,0,0,1,0,0,precisionsolutions.com.br,1,1,1,人工,ok,,
+SB-1338,B,T2,Litech (Pvt) Ltd,巴基斯坦,南亚,0,0,0,0,0,0,1,0,0,litech.com.pk,1,1,0,,,,
 SB-254,B,T2,AADONA COMMUNICATION Pvt. Ltd.,印度,南亚,0,0,0,0,0,0,1,0,0,aadona.com,2,1,1,人工,ok,,
 SB-255,B,T2,Bits&Byte CONSULTING PVT LTD,印度,南亚,0,0,0,0,0,0,1,0,0,bitsandbyte.net,2,1,1,人工,ok,,STC-28DGGPM
 SB-257,B,T2,Saxco Marketing Sdn Bhd,马来西亚,亚太,0,0,0,0,0,0,1,0,0,saxco.com.my,2,1,1,人工,http_error,,
@@ -1071,6 +1074,7 @@ SB-121,B,T5,vintronsmartvision.com,印度,南亚,0,0,0,0,0,0,0,0,0,vintronsmartv
 SB-1229,B,T5,portdepo.ru,俄罗斯,俄语区,0,0,0,0,0,0,0,0,0,portdepo.ru,2,1,1,人工,unreachable,,
 SB-1245,B,T5,soft-tronik.ru,俄罗斯,俄语区,0,0,0,0,0,0,0,0,0,soft-tronik.ru,1,1,1,人工,ok,"Dahua,Ruijie,Zyxel,TP-Link,D-Link,Vivotek,Axis",STC-28DGGPM
 SB-1259,B,T5,tramaweb.com.br,巴西,拉美,0,0,0,0,0,0,0,1,0,tramaweb.com.br,1,1,1,人工,ok,,
+SB-1339,B,T5,Switchcom Distribution (Pty) Ltd,南非,非洲,0,0,0,0,0,0,0,1,0,switchcom.co.za,2,1,0,,,,
 SB-258,B,T5,alconlink.com,印度,南亚,0,0,0,0,0,0,0,1,0,alconlink.com,1,1,1,人工,ok,,STI-288GP
 SB-318,B,T5,larch-networks.com,以色列,中东,0,0,0,0,0,0,0,0,0,larch-networks.com,2,1,1,人工,ok,,STI-288GP
 SB-325,B,T5,th-it.com,马来西亚,亚太,0,0,0,0,0,0,0,0,0,th-it.com,1,1,1,人工,ok,,

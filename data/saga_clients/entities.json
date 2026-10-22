@@ -5159,9 +5159,16 @@
 "quote": "",
 "url": "PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展",
 "date": "2026-10-22"
+},
+{
+"kind": "Gmail 往来（S 邮箱）",
+"claim": "合规审查：NYNEX 测试 LT-S8328XG 时发现 SmartByte 通用 MIB 内含 3 家其他 OEM 客户/品牌的企业 OID（.57430 Dongguan Huarong、.56813 Fuzhou Dockeer、.171 D-Link），要求说明 Saga 与 SmartByte 关系以报备合规部门；SmartByte 承认「忘了删其他 OEM 客户的 OID」，并提出按客户自有 OID 定制固件；NYNEX 自有 IANA PEN 44770，但要求 SmartByte 先申请自己的 PEN 并把私有 OID 迁到自己的树下，还追问 OEM 数据（产品 ID / PEN 前缀 / logo）是写死在固件还是独立 OEM 配置分区",
+"quote": "The MIB enterprise IDs (.1.3.6.1.4.1.57430.* and .1.3.6.1.4.1.56813.* and .1.3.6.1.4.1.171.*) are registered to two other companies … How is smart bytes/saga telecom related to these companies? … Can you please request your own SmartByte SNMP enterprise OID at https://www.iana.org/assignments/enterprise-numbers/ … Is the OEM data like the product ID, SNMP PEN prefix, company logo, etc. hardcoded in the firmware (separate firmware file for each OEM)?",
+"url": "data/gmail_s/messages/2025/2025-03.jsonl（主题 RE: Testing Feedback，f.kriewitz@nynex.de ↔ peter@smartbyte.com.cn，抄 S 邮箱）",
+"date": "2025-03-27"
 }
 ],
-"notes": "A 维持：运营商持续采购楼宇接入交换机（48 口/L2+/2.5G 上联）与贴牌 MC/SFP；P1 改 STC-448XGGPM 或 STC-424XGGPM-280W（10G 上联）。",
+"notes": "A 维持：运营商持续采购楼宇接入交换机（48 口/L2+/2.5G 上联）与贴牌 MC/SFP；P1 改 STC-448XGGPM 或 STC-424XGGPM-280W（10G 上联）。\n【2026-10-22 复盘补】NYNEX 2025-03 的 SNMP/MIB 合规追问是「工程型缓冲层」的真实考题：欧洲客户会用 snmpwalk 核 OID 归属。Saga 应自己申请一个 IANA PEN（免费、在线表单、约 1–2 周）并要求 SmartByte 在 Saga 版固件里只保留 Saga PEN 下的私有 MIB；给 NYNEX/德国客户的 OEM 说明要能回答「OEM 数据是固件内写死还是独立配置分区」。对应 Q-35。",
 "researched_at": "2026-10-22",
 "deep": {
 "done_at": "2026-10-21",
@@ -176551,6 +176558,694 @@
 },
 "grade_override": "B",
 "override_reason": "PI 包成单客户，Simon 标签 gg：gg（已凉）→ B（成交过·慢慢跟进）"
+}
+},
+{
+"name": "Fikes Media",
+"name_src": "company",
+"names": [
+"Fikes Media"
+],
+"country": "美国",
+"iso": "US",
+"region": "北美",
+"other_countries": [],
+"domains": [
+"fikesmedia.com"
+],
+"urls": [
+"https://www.fikesmedia.com"
+],
+"platform_links": [],
+"emails": [
+"cfikes@fikesmedia.com"
+],
+"corp_emails": [
+"cfikes@fikesmedia.com"
+],
+"phones": [
+"4098774220"
+],
+"persons": [
+"Christopher Fikes"
+],
+"positions": [
+"Owner"
+],
+"froms": [
+"补录：S 邮箱 2026-10 群发（Apollo 名单）回复客户（T29-U10 复盘发现）"
+],
+"interests": [
+"24 口 PoE L2+（STC-424XGGPM-280W）的 OEM 定制 + 控制器 API 集成（REST/SNMP/CLI 待明确）"
+],
+"remarks": [
+"S 邮箱 4 封（2026-10-03 → 10-19）：10-03 回复「This actually does have my interest. What levels of customization are offered? …api availability for controller integration」；10-04 Simon 发 OEM 清单（logo/包装/面板/标签/型号/序列号/手册/默认 IP/SNMP OID/Web 语言）+ MIB 文件 + 规格书 + CLI/Web 手册并反问控制器架构；10-19 Simon 追问样品，客户未回；详见 research JSON"
+],
+"categories": [
+"媒体/IT 集成小公司（业主直营）"
+],
+"tags": [
+"补录",
+"S邮箱回复",
+"OEM意向",
+"待回复"
+],
+"flags": {
+"sample": 1,
+"own_brand": 1
+},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [
+2026
+],
+"sources": [
+{
+"file": "补录客户.jsonl",
+"sheet": "(补录)",
+"row": 9,
+"no": "GM-002",
+"tags": [
+"补录",
+"S邮箱回复",
+"OEM意向",
+"待回复"
+],
+"company": "Fikes Media",
+"country": "美国",
+"person": "Christopher Fikes",
+"from": "补录：S 邮箱 2026-10 群发（Apollo 名单）回复客户（T29-U10 复盘发现）",
+"interest": "24 口 PoE L2+（STC-424XGGPM-280W）的 OEM 定制 + 控制器 API 集成（REST/SNMP/CLI 待明确）",
+"contact": "cfikes@fikesmedia.com",
+"mobile": "O: 409.877.4220",
+"website": "https://www.fikesmedia.com",
+"remark": "S 邮箱 4 封（2026-10-03 → 10-19）：10-03 回复「This actually does have my interest. What levels of customization are offered? …api availability for controller integration」；10-04 Simon 发 OEM 清单（logo/包装/面板/标签/型号/序列号/手册/默认 IP/SNMP OID/Web 语言）+ MIB 文件 + 规格书 + CLI/Web 手册并反问控制器架构；10-19 Simon 追问样品，客户未回；详见 research JSON",
+"extra": "",
+"category": "媒体/IT 集成小公司（业主直营）",
+"position": "Owner",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 2026,
+"merge_keys": [],
+"grade_auto": "B",
+"score": 58,
+"reasons": [
+"+10 谈到样品/测样",
+"+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+8 区域 北美/美国",
+"+5 最近活动 2026"
+],
+"c_sub": "",
+"status": "名单内·未触达",
+"code": "SB-1336",
+"grade": "B",
+"research": {
+"code": "SB-1336",
+"name_official": "Fikes Media",
+"website_status": "未核（本轮只用 S 邮箱证据）",
+"summary": "美国小公司（Owner Christopher Fikes，电话区号 409 = 德州 Beaumont 一带），2026-10-03 回复群发表示有兴趣，关心 OEM 定制层级与控制器 API 集成；Simon 10-04 发完整 OEM 清单 + MIB + 规格书 + CLI/Web 手册并反问控制器架构，10-19 追问样品，客户未回。S 邮箱 4 封。",
+"type": "媒体/IT 集成小公司（业主直营）",
+"size": "小（Owner 直接回信）",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "email",
+"claim": "有兴趣 + 问 OEM 层级 + 要 API/控制器集成",
+"quote": "This actually does have my interest. What levels of customization are offered? I would be interested if there was api availability for controller integration. If you have some specification sheets and models available I would love to see them.",
+"url": "data/gmail_s/messages/2026/2026-10.jsonl",
+"date": "2026-10-03"
+},
+{
+"kind": "email",
+"claim": "Simon 回复的 OEM 菜单（可复用口径）",
+"quote": "Company logo / Packaging / Front panel (PVC mask) / Product label / Model name / Serial number / User manual / Default login IP / SNMP OID customization / Web GUI language… firmware customization for specific project requirements, subject to technical evaluation（附 SWITCH-MIBS-release.docx、Saga Feature List_7.5.x_L2+.xlsx、STC-424XGGPM-280W.docx、CLI/Web Manual）",
+"url": "data/gmail_s/messages/2026/2026-10.jsonl",
+"date": "2026-10-04"
+},
+{
+"kind": "email",
+"claim": "Simon 追问样品，未回",
+"quote": "Any feedback about our product information? Maybe arrange 2 samples for testing?",
+"url": "data/gmail_s/messages/2026/2026-10.jsonl",
+"date": "2026-10-19"
+}
+],
+"kp": [
+{
+"name": "Christopher Fikes",
+"role": "Owner",
+"email": "cfikes@fikesmedia.com",
+"phone": "409.877.4220",
+"source": "S 邮箱签名"
+}
+],
+"notes": "API/控制器集成是关键未知：Saga 线（SmartByte Marvell AC5）有 SNMP/CLI/Web，无云控制器 REST API——下一封应直说 SNMP + CLI 自动化可做、REST/云控不做，别吊着。",
+"researched_at": "2026-10-22",
+"saga_fit": {
+"p1": "STC-424XGGPM-280W",
+"tier": 30,
+"why": "明确问 OEM 定制 → OEM/ODM 30% 档；若只是自用/项目则 25%"
+},
+"grade_override": "B",
+"override_reason": "具名 Owner 实质回复 + OEM 意向，但规模小、API 诉求未必能满足、追问未回 → B"
+}
+},
+{
+"name": "Milliseconds Evolution Limited",
+"name_src": "company",
+"names": [
+"Milliseconds Evolution Limited"
+],
+"country": "英国",
+"iso": "GB",
+"region": "欧洲",
+"other_countries": [],
+"domains": [
+"millievolution.com"
+],
+"urls": [
+"https://millievolution.com"
+],
+"platform_links": [],
+"emails": [
+"ifolayan@millievolution.com"
+],
+"corp_emails": [
+"ifolayan@millievolution.com"
+],
+"phones": [
+"20261017001"
+],
+"persons": [
+"Iyiola Folayan"
+],
+"positions": [
+"负责人（MikroTik 经验 20 年，MikroTik 认证顾问名录在列）"
+],
+"froms": [
+"补录：S 邮箱 2026-09 群发（Apollo 名单）回复客户（T29-U10 复盘发现）"
+],
+"interests": [
+"STC-424XGGPM-280W 24 口 PoE L2+（$180/PC）；先 2 台样品测试，再谈英国经销/分销"
+],
+"remarks": [
+"S 邮箱 9 封（2026-09-28 → 10-19）：09-29 问目录 + 「Can we work as your distributor in the UK?」；10-03 Simon 讲样品按伙伴价、样品款抵首单；10-17 Simon 开样品形式发票 STSC-20261017-001 + 装箱单（2 台）；10-17 客户回复「unable to make the payment now… only proceed when I have a project」；地址 128 City Road, London EC1V 2NX；详见 research JSON"
+],
+"categories": [
+"网络集成/MikroTik 认证顾问（新公司，拟做英国经销）"
+],
+"tags": [
+"补录",
+"S邮箱回复",
+"样品PI已开",
+"等项目"
+],
+"flags": {
+"sample": 1
+},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [
+2026
+],
+"sources": [
+{
+"file": "补录客户.jsonl",
+"sheet": "(补录)",
+"row": 8,
+"no": "GM-001",
+"tags": [
+"补录",
+"S邮箱回复",
+"样品PI已开",
+"等项目"
+],
+"company": "Milliseconds Evolution Limited",
+"country": "英国",
+"person": "Iyiola Folayan",
+"from": "补录：S 邮箱 2026-09 群发（Apollo 名单）回复客户（T29-U10 复盘发现）",
+"interest": "STC-424XGGPM-280W 24 口 PoE L2+（$180/PC）；先 2 台样品测试，再谈英国经销/分销",
+"contact": "ifolayan@millievolution.com",
+"mobile": "",
+"website": "https://millievolution.com",
+"remark": "S 邮箱 9 封（2026-09-28 → 10-19）：09-29 问目录 + 「Can we work as your distributor in the UK?」；10-03 Simon 讲样品按伙伴价、样品款抵首单；10-17 Simon 开样品形式发票 STSC-20261017-001 + 装箱单（2 台）；10-17 客户回复「unable to make the payment now… only proceed when I have a project」；地址 128 City Road, London EC1V 2NX；详见 research JSON",
+"extra": "",
+"category": "网络集成/MikroTik 认证顾问（新公司，拟做英国经销）",
+"position": "负责人（MikroTik 经验 20 年，MikroTik 认证顾问名录在列）",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 2026,
+"merge_keys": [],
+"grade_auto": "B",
+"score": 46,
+"reasons": [
+"+10 谈到样品/测样",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+8 区域 欧洲/英国",
+"+5 最近活动 2026"
+],
+"c_sub": "",
+"status": "名单内·未触达",
+"code": "SB-1337",
+"grade": "B",
+"research": {
+"code": "SB-1337",
+"name_official": "Milliseconds Evolution Limited",
+"website_status": "未核（本轮只用 S 邮箱证据）",
+"summary": "英国伦敦新公司（MikroTik 认证顾问 Iyiola Folayan，20 年 MikroTik 经验），2026-09 群发回复后主动提出做 Saga 英国经销；2026-10-17 已开 2 台 STC-424XGGPM-280W 样品形式发票（$180/台，样品款抵首单），客户当日回复暂无项目、等有项目再付款。S 邮箱 9 封（2026-09-28 → 10-19）。",
+"type": "网络集成/MikroTik 顾问（拟经销）",
+"size": "新公司（自述 My company is new here）",
+"brands_seen": [
+"MikroTik"
+],
+"evidence": [
+{
+"kind": "email",
+"claim": "主动提出做英国经销",
+"quote": "Are you able to share your product catalog with me? Do you have distributors in the UK? Can we work as your distributor in the UK?",
+"url": "data/gmail_s/messages/2026/2026-09.jsonl（from ifolayan@millievolution.com，主题 Re: 24 Port PoE Managed Switch）",
+"date": "2026-09-29"
+},
+{
+"kind": "email",
+"claim": "背景：MikroTik 20 年、按项目做、愿意订样品",
+"quote": "For now, I just work project by project. My plan is to start a reseller partner agreement. My company is new here… I have been working with mikrotik for over 20 years… I will be opened to ordering some samples.",
+"url": "data/gmail_s/messages/2026/2026-09.jsonl",
+"date": "2026-09-30"
+},
+{
+"kind": "email",
+"claim": "Simon 的样品口径（伙伴价、样品款抵首单）与 P1 推荐",
+"quote": "evaluation units are provided at a partner price, and the sample cost will be credited toward your first commercial order… the STC-424XGGPM-280W(180USD/PC) would be a good starting point",
+"url": "data/gmail_s/messages/2026/2026-10.jsonl",
+"date": "2026-10-03"
+},
+{
+"kind": "email",
+"claim": "样品形式发票已开（2 台）",
+"quote": "please see attached information. Lets do 2pcs, OK? If everything is good, we will deduct this amount from future orders.（附 STSC-20261017-001.pdf + PL_STSC-20261017-001.pdf）",
+"url": "data/gmail_s/messages/2026/2026-10.jsonl",
+"date": "2026-10-17"
+},
+{
+"kind": "email",
+"claim": "客户暂缓付款，等项目",
+"quote": "Thanks for the invoice. Unfortunately I am unable to make the payment now. I can only proceed when I have a project that can take care of the cost. Hopefully, I will make the order and payment soon.",
+"url": "data/gmail_s/messages/2026/2026-10.jsonl",
+"date": "2026-10-17"
+},
+{
+"kind": "email",
+"claim": "收货地址（公司注册地）",
+"quote": "Milliseconds Evolution Limited. 128 City Road, London, United Kingdom, EC1V 2NX",
+"url": "data/gmail_s/messages/2026/2026-10.jsonl",
+"date": "2026-10-17"
+}
+],
+"kp": [
+{
+"name": "Iyiola Folayan",
+"role": "负责人 / MikroTik 认证顾问",
+"email": "ifolayan@millievolution.com",
+"phone": "",
+"source": "S 邮箱签名 + Simon 10-03 信中提到 MikroTik consultant list"
+}
+],
+"notes": "128 City Road EC1V 2NX 是伦敦常见的虚拟注册地址（公司可能无实体仓）；「经销」意向要在首单之后再谈。下一步：不催；等客户项目来时把样品 PI 换成正式单。",
+"researched_at": "2026-10-22",
+"saga_fit": {
+"p1": "STC-424XGGPM-280W",
+"tier": 20,
+"why": "MikroTik 顾问做项目 + 拟经销：先按经销 20% 档（$180 已是 20% 档价），项目成交后再定；样品 2 台口径已定"
+},
+"grade_override": "B",
+"override_reason": "有具名 KP + 真实意向 + 样品 PI 已开，但新公司、无项目、未付款 → B（等项目；若样品付款即升 A）"
+}
+},
+{
+"name": "Litech (Pvt) Ltd",
+"name_src": "company",
+"names": [
+"Litech (Pvt) Ltd"
+],
+"country": "巴基斯坦",
+"iso": "PK",
+"region": "南亚",
+"other_countries": [],
+"domains": [
+"litech.com.pk"
+],
+"urls": [
+"https://www.litech.com.pk"
+],
+"platform_links": [],
+"emails": [
+"hassancheema@litech.com.pk"
+],
+"corp_emails": [
+"hassancheema@litech.com.pk"
+],
+"phones": [
+"923100924444",
+"92518744109"
+],
+"persons": [
+"Hassan Ijaz Cheema"
+],
+"positions": [
+"Manager Business Development"
+],
+"froms": [
+"补录：S 邮箱来询未回（T29-U10 复盘发现）"
+],
+"interests": [
+"接入/汇聚交换机 + 路由器 RFQ（客户规格以华为型号为参照，要求做技术符合性声明）；称项目在管线、想长期合作"
+],
+"remarks": [
+"S 邮箱 1 封（2024-03-09 来信，附《Access and aggregation switches specs.docx》）；S 邮箱内未见回复（可能微信/其他渠道回了，待 Simon 确认）；路由器不在 Saga 线内，只能对交换机部分；详见 research JSON"
+],
+"categories": [
+"系统集成/项目承包（华为渠道）"
+],
+"tags": [
+"补录",
+"S邮箱来询未回",
+"RFQ"
+],
+"flags": {
+"engaged_note": 1
+},
+"fit": {
+"switch": 1,
+"off": 1
+},
+"ai_evals": [],
+"years": [
+2024
+],
+"sources": [
+{
+"file": "补录客户.jsonl",
+"sheet": "(补录)",
+"row": 11,
+"no": "GM-004",
+"tags": [
+"补录",
+"S邮箱来询未回",
+"RFQ"
+],
+"company": "Litech (Pvt) Ltd",
+"country": "巴基斯坦",
+"person": "Hassan Ijaz Cheema",
+"from": "补录：S 邮箱来询未回（T29-U10 复盘发现）",
+"interest": "接入/汇聚交换机 + 路由器 RFQ（客户规格以华为型号为参照，要求做技术符合性声明）；称项目在管线、想长期合作",
+"contact": "hassancheema@litech.com.pk",
+"mobile": "+92 310 092 4444; +92 51 8744109",
+"website": "https://www.litech.com.pk",
+"remark": "S 邮箱 1 封（2024-03-09 来信，附《Access and aggregation switches specs.docx》）；S 邮箱内未见回复（可能微信/其他渠道回了，待 Simon 确认）；路由器不在 Saga 线内，只能对交换机部分；详见 research JSON",
+"extra": "",
+"category": "系统集成/项目承包（华为渠道）",
+"position": "Manager Business Development",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 2024,
+"merge_keys": [],
+"grade_auto": "B",
+"score": 31,
+"reasons": [
+"+12 备注记录了对方问价/要资料/见面等互动",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"-6 区域 南亚/巴基斯坦",
+"+2 最近活动 2024"
+],
+"c_sub": "",
+"status": "名单内·未触达",
+"code": "SB-1338",
+"grade": "B",
+"research": {
+"code": "SB-1338",
+"name_official": "Litech (Pvt) Ltd",
+"website_status": "未核（本轮只用 S 邮箱证据；注意 litech.cc 马来西亚 = 另一家 SC-917，勿混）",
+"summary": "巴基斯坦伊斯兰堡系统集成/项目承包商（华为渠道），2024-03-09 主动发来 RFQ：接入/汇聚交换机 + 路由器规格书（以华为型号为参照）要做技术符合性声明，称多个项目在管线、想长期合作。S 邮箱内未见 Simon 回复（来询未回）。",
+"type": "系统集成/项目承包（华为渠道）",
+"size": "中（有 BD 经理、项目制）",
+"brands_seen": [
+"Huawei"
+],
+"evidence": [
+{
+"kind": "email",
+"claim": "主动 RFQ + 长期合作意向（来询未回）",
+"quote": "Attached herewith are the technical specifications of different Access/Aggregation switches and Routers for your working for technical compliance statement… customer has prepared these specifications with reference to different models of Huawei Switches… number of projects are in pipe line and we want long business partnership with you（附 Access and aggregation switches specs.docx）",
+"url": "data/gmail_s/messages/2024/2024-03.jsonl（from hassancheema@litech.com.pk，主题 RFQ Switches）",
+"date": "2024-03-09"
+}
+],
+"kp": [
+{
+"name": "Hassan Ijaz Cheema",
+"role": "Manager Business Development",
+"email": "hassancheema@litech.com.pk",
+"phone": "+92 310 092 4444 / +92 51 8744109",
+"source": "S 邮箱签名"
+}
+],
+"notes": "2.5 年前的 RFQ，先确认 Simon 当时是否在别的渠道回过；若没有，可发一封「当年没接上，现在 L2+/L3 线成熟」的短信重新开门（只对交换机部分，路由器不做）。公共项目/运营商类项目注意守界。",
+"researched_at": "2026-10-22",
+"saga_fit": {
+"p1": "STI-41616XGGPM",
+"tier": 25,
+"why": "项目集成商 → 25% 档；汇聚层 L3 口型先用工业 L3 顶上，商用 48 口 L3 另议"
+},
+"grade_override": "B",
+"override_reason": "具名 BD 经理 + 真实 RFQ，但年代久、规格对标华为（部分做不了）、未回 → B"
+}
+},
+{
+"name": "Switchcom Distribution (Pty) Ltd",
+"name_src": "company",
+"names": [
+"Switchcom Distribution (Pty) Ltd"
+],
+"country": "南非",
+"iso": "ZA",
+"region": "非洲",
+"other_countries": [],
+"domains": [
+"switchcom.co.za"
+],
+"urls": [
+"https://www.switchcom.co.za"
+],
+"platform_links": [],
+"emails": [
+"kevin@switchcom.co.za",
+"sales@switchcom.co.za"
+],
+"corp_emails": [
+"kevin@switchcom.co.za",
+"sales@switchcom.co.za"
+],
+"phones": [
+"270100072555"
+],
+"persons": [
+"Kevin Maphanga"
+],
+"positions": [
+"Account Manager"
+],
+"froms": [
+"补录：S 邮箱双向往来但不在 Clients/ 表（T29-U10 复盘发现）"
+],
+"interests": [
+"Simon 推过 10G 媒体转换器（2024-07）、52 口 L2+ PoE（2024-12）；对方两次都以「销售报价」回应（把 Saga 当买家）"
+],
+"remarks": [
+"S 邮箱 10 封（2024-07-07 → 2024-12-12）：销售台自动回复「Kevin received your request…」+ 2024-12-12 Kevin 发来其自家报价单 Quotation QU509692.PDF —— 未进入真正的采购对话；需要换角度（渠道/贴牌）重新切入；详见 research JSON"
+],
+"categories": [
+"网络设备分销商（MikroTik/Ubiquiti 类渠道）"
+],
+"tags": [
+"补录",
+"S邮箱回复",
+"分销商",
+"未入正题"
+],
+"flags": {
+"own_brand": 1
+},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [
+2024
+],
+"sources": [
+{
+"file": "补录客户.jsonl",
+"sheet": "(补录)",
+"row": 10,
+"no": "GM-003",
+"tags": [
+"补录",
+"S邮箱回复",
+"分销商",
+"未入正题"
+],
+"company": "Switchcom Distribution (Pty) Ltd",
+"country": "南非",
+"person": "Kevin Maphanga",
+"from": "补录：S 邮箱双向往来但不在 Clients/ 表（T29-U10 复盘发现）",
+"interest": "Simon 推过 10G 媒体转换器（2024-07）、52 口 L2+ PoE（2024-12）；对方两次都以「销售报价」回应（把 Saga 当买家）",
+"contact": "kevin@switchcom.co.za; sales@switchcom.co.za",
+"mobile": "+27 (0)10 007 2555",
+"website": "https://www.switchcom.co.za",
+"remark": "S 邮箱 10 封（2024-07-07 → 2024-12-12）：销售台自动回复「Kevin received your request…」+ 2024-12-12 Kevin 发来其自家报价单 Quotation QU509692.PDF —— 未进入真正的采购对话；需要换角度（渠道/贴牌）重新切入；详见 research JSON",
+"extra": "",
+"category": "网络设备分销商（MikroTik/Ubiquiti 类渠道）",
+"position": "Account Manager",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 2024,
+"merge_keys": [],
+"grade_auto": "B",
+"score": 31,
+"reasons": [
+"+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"-6 区域 非洲/南非",
+"+2 最近活动 2024"
+],
+"c_sub": "",
+"status": "名单内·未触达",
+"code": "SB-1339",
+"grade": "B",
+"research": {
+"code": "SB-1339",
+"name_official": "Switchcom Distribution (Pty) Ltd",
+"website_status": "未核（本轮只用 S 邮箱证据）",
+"summary": "南非网络设备分销商（销售台 sales@ + 客户经理 Kevin Maphanga）。Simon 2024-07 推 10G 媒体转换器、2024-12 推 52 口 L2+ PoE，对方两次都把 Saga 当买家：自动回复「Kevin received your request…」并于 2024-12-12 发来其自家报价单 Quotation QU509692.PDF——没有进入采购对话。S 邮箱 10 封（2024-07-07 → 2024-12-12）。",
+"type": "网络设备分销商",
+"size": "中（有销售台 + 多客户经理）",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "email",
+"claim": "销售台把 Simon 当询价客户",
+"quote": "Kevin received your request and is currently working diligently to provide you with pricing. Please be assured that your request is a top priority for us",
+"url": "data/gmail_s/messages/2024/2024-07.jsonl（from sales@switchcom.co.za）",
+"date": "2024-07-08"
+},
+{
+"kind": "email",
+"claim": "客户经理发来自家报价单（方向反了）",
+"quote": "Please see the attached sales quote above on what we can offer and stock is available.（附 Quotation QU509692.PDF）Kevin Maphanga, Account Manager, Office: +27(0)10 007 2555",
+"url": "data/gmail_s/messages/2024/2024-12.jsonl",
+"date": "2024-12-12"
+}
+],
+"kp": [
+{
+"name": "Kevin Maphanga",
+"role": "Account Manager（销售侧，非采购）",
+"email": "kevin@switchcom.co.za",
+"phone": "+27 (0)10 007 2555",
+"source": "S 邮箱签名"
+}
+],
+"notes": "分销商的采购/品类经理才是对的人；现有联系人是销售。南非不在 Planet 仓重点区域，但 Saga Clients 全域覆盖：慢慢跟，换「渠道/贴牌」角度找品类负责人再发。",
+"researched_at": "2026-10-22",
+"saga_fit": {
+"p1": "STC-424DGGPM-280W",
+"tier": 20,
+"why": "分销商 → 20% 档；走量口型 24 口 PoE"
+},
+"grade_override": "B",
+"override_reason": "有邮箱、是真实分销商、双向往来，但对话方向反了且无采购人 → B（低优先）"
 }
 },
 {

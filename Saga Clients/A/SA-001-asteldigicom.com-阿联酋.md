@@ -198,6 +198,7 @@ updated: 2026-10-22
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom　|　**邮件**：28 封（去 22 / 来 6）　|　**期间**：2024-06-29 → 2025-12-01　|　**最后去信**：2025-11-27
+- **对方邮箱**：asteldigicom@eim.ae、navsim@eim.ae
 - **最后一封来信**：2025-12-01 navsim@eim.ae「FW: 10G Enterprise SFP Switch」：Hi Alan, Hello Simon We have processed your payment. Screenshot attached. Pls process our PO and arrange the goods. Shipping address and Shipping marks have been advised on WeChat. Thanks and best regards Sanjay Singla General Manager ASTEL DIGICOM Electronics
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |

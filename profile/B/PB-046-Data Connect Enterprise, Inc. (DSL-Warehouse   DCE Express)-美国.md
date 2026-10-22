@@ -1,6 +1,6 @@
 # Data Connect Enterprise, Inc. (DSL-Warehouse / DCE Express)
 
-> **评级 B**　|　美国 · Olney, MD　|　档案编号 `PB-046`　|　优先级 ★★★　|　状态：00-未触达
+> **评级 B**　|　美国 · Olney, MD　|　档案编号 `PB-046`　|　优先级 ★★★　|　状态：10-已触达(S邮箱 去7·0回复)
 >
 > **类型**：VAD + 自有品牌制造商（Belden/Hirschmann 与 GarrettCom 主备货分销 + TAC；收购 Ctek/Relcomm/Synxcom/Telenetics 等产品线后自产商用/工业连接产品；DSL-Warehouse 为其 2009 年并入的电商部门）　|　**PLANET 关联**：官网厂商名录含 PLANET TECHNOLOGIES；DSL-Warehouse 设 PLANET 品牌页（LRE-101、LRP-422CST、LRP-104CET 工业延长器等带价在售）；DCE Express 厂商列表含 Planet Technology；Mikrotik 仓库 A-270（Hirschmann/GarrettCom 主备货分销）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
@@ -14,9 +14,9 @@ type: VAD + 自有品牌制造商（Belden/Hirschmann 与 GarrettCom 主备货�
 planet_models: ["LRE-101", "LRP-422CST", "LRP-104CET"]
 p1: STI-288DGGPM
 price_tier: 30%
-stage: 00-未触达
+stage: 10-已触达(S邮箱 去7·0回复)
 mikrotik_ref: A-270
-updated: 2026-10-20
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -182,4 +182,4 @@ updated: 2026-10-20
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：2026-10-20_W06_Mikrotik工业品牌渠道行核验与葡萄牙补点_US-UK-PT　|　原始证据：batch/2026-10-20_W06_Mikrotik工业品牌渠道行核验与葡萄牙补点_US-UK-PT.json, batch/2026-10-20_W18_OR组与非OR剩余逐域复核及型号比价试探_CA-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：2026-10-20_W06_Mikrotik工业品牌渠道行核验与葡萄牙补点_US-UK-PT　|　原始证据：batch/2026-10-20_W06_Mikrotik工业品牌渠道行核验与葡萄牙补点_US-UK-PT.json, batch/2026-10-20_W18_OR组与非OR剩余逐域复核及型号比价试探_CA-US.json　|　渲染：scripts/render.py 2026-10-22*

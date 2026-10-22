@@ -1,6 +1,6 @@
 # TRIOTRONIK Computerhandels GmbH
 
-> **评级 B**　|　奥地利 · Weiz　|　档案编号 `PB-038`　|　优先级 ★★☆　|　状态：00-未触达
+> **评级 B**　|　奥地利 · Weiz　|　档案编号 `PB-038`　|　优先级 ★★☆　|　状态：10-已触达(S邮箱 去2·0回复)
 >
 > **类型**：分销商（奥地利网络分销「der Netzwerkdistributor」；MikroTik Master 分销；PLANET 在线销售专页）　|　**PLANET 关联**：官网「PLANET online kaufen」专页（Über uns › Planet）介绍 PLANET 10 大产品类目　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
@@ -14,9 +14,9 @@ type: 分销商（奥地利网络分销「der Netzwerkdistributor」；MikroTik 
 planet_models: ["PLANET 全线（专页 10 大类目）"]
 p1: STC-424DGGPM-280W
 price_tier: 20%
-stage: 00-未触达
+stage: 10-已触达(S邮箱 去2·0回复)
 mikrotik_ref: A-469
-updated: 2026-10-20
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -154,4 +154,4 @@ updated: 2026-10-20
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL　|　原始证据：batch/2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL　|　原始证据：batch/2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json　|　渲染：scripts/render.py 2026-10-22*

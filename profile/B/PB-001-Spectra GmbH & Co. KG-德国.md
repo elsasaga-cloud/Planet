@@ -1,6 +1,6 @@
 # Spectra GmbH & Co. KG
 
-> **评级 B**　|　德国 · Reutlingen　|　档案编号 `PB-001`　|　优先级 ★★　|　状态：00-未触达
+> **评级 B**　|　德国 · Reutlingen　|　档案编号 `PB-001`　|　优先级 ★★　|　状态：10-已触达(S邮箱 去5·0回复)
 >
 > **类型**：工业自动化经销（工业 PC/网络 VAD）+ PLANET 官方分销（子站 planet.spectra.de）　|　**PLANET 关联**：自称 PLANET 官方分销商，运营 PLANET 专卖子站（LAN/PoE/路由/转换器/SFP），面向工业与基础设施　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
@@ -14,9 +14,9 @@ type: 工业自动化经销（工业 PC/网络 VAD）+ PLANET 官方分销（子
 planet_models: []
 p1: STI-488DGGPM
 price_tier: 20%
-stage: 00-未触达
+stage: 10-已触达(S邮箱 去5·0回复)
 mikrotik_ref: C-026; C-149
-updated: 2026-10-20
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -193,4 +193,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json, batch/2026-10-20_W12_B级老化回查与收官补挖_DE-US-FR-UK-ES-PT-北欧.json, batch/2026-10-20_W18_OR组与非OR剩余逐域复核及型号比价试探_CA-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json, batch/2026-10-20_W12_B级老化回查与收官补挖_DE-US-FR-UK-ES-PT-北欧.json, batch/2026-10-20_W18_OR组与非OR剩余逐域复核及型号比价试探_CA-US.json　|　渲染：scripts/render.py 2026-10-22*

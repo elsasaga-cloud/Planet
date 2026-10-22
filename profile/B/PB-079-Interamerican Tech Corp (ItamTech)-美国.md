@@ -1,6 +1,6 @@
 # Interamerican Tech Corp (ItamTech)
 
-> **评级 B**　|　美国 · Miami, FL　|　档案编号 `PB-079`　|　优先级 ★★　|　状态：00-未触达
+> **评级 B**　|　美国 · Miami, FL　|　档案编号 `PB-079`　|　优先级 ★★　|　状态：10-已触达(S邮箱 去1·0回复)
 >
 > **类型**：分销/网店（MikroTik 官方分销；网络/安防/VoIP 分销商，面向美国与拉美；PLANET 品牌页在售 7 款：3 台交换机 + 4 件 PoE 注入器/延长器）　|　**PLANET 关联**：itamtech.com/planet 品牌页（7 Items，全部 In stock）：GSW-1601 Special Price $94.24（Regular $99.20）、IGS-504HPT $395.00、IGS-5225-4UP1T2S Special Price $651.13（Regular $685.40）、POE-151 $30.00、POE-163 $39.14、POE-173 $64.00、POE-E304 $85.50（TAA Compliant）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
@@ -14,9 +14,9 @@ type: 分销/网店（MikroTik 官方分销；网络/安防/VoIP 分销商，面
 planet_models: ["GSW-1601", "IGS-504HPT", "IGS-5225-4UP1T2S", "POE-151", "POE-163", "POE-173", "POE-E304"]
 p1: STI-054GP
 price_tier: 20%
-stage: 00-未触达
+stage: 10-已触达(S邮箱 去1·0回复)
 mikrotik_ref: A-538（Mikrotik 侧人工定级 A，R53 由 B-353 升级；首推 STC-48DGGM-U；状态「未触达」）→ 首触以 Mikrotik 仓库为准，本仓不重复发；本仓新增：PLANET 工业 PoE 两款有价在库 → 建议 Mikrotik 侧首触第一问改为工业 4×PoE DIN（IGS-504HPT 位）而非商用 48 口（Q-04 同类，跨仓需用户手工）
-updated: 2026-10-20
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -176,4 +176,4 @@ updated: 2026-10-20
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W18 矿脉 ①b 收官：OR 组剩余（US/CA/TR）+ 非 OR 剩余逐域复核 + 矿脉 ③ 型号比价试探（CA-US）　|　原始证据：batch/2026-10-20_W18_OR组与非OR剩余逐域复核及型号比价试探_CA-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：W18 矿脉 ①b 收官：OR 组剩余（US/CA/TR）+ 非 OR 剩余逐域复核 + 矿脉 ③ 型号比价试探（CA-US）　|　原始证据：batch/2026-10-20_W18_OR组与非OR剩余逐域复核及型号比价试探_CA-US.json　|　渲染：scripts/render.py 2026-10-22*

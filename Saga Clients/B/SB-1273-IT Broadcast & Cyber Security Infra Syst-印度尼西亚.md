@@ -104,6 +104,7 @@ updated: 2026-10-22
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom　|　**邮件**：4 封（去 3 / 来 1）　|　**期间**：2024-11-08 → 2025-01-04　|　**最后去信**：2025-01-04
+- **对方邮箱**：kosovaku@gmail.com
 - **最后一封来信**：2024-11-08 cs@firesecurityproducts.zendesk.com「Request received: 8 Port Ethernet Switch」：##- Please type your reply above this line -## Dear Simon, This email is confirmation that we have received your request (Ticket #107061) and a customer service representative will action this shortly. While we endeavor to answer all queries within 24 hours, w
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |

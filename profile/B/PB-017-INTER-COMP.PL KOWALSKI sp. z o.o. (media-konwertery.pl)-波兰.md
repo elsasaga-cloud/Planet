@@ -1,6 +1,6 @@
 # INTER-COMP.PL KOWALSKI sp. z o.o. (media-konwertery.pl)
 
-> **评级 B**　|　波兰 · Koronowo　|　档案编号 `PB-017`　|　优先级 ★☆☆　|　状态：00-未触达
+> **评级 B**　|　波兰 · Koronowo　|　档案编号 `PB-017`　|　优先级 ★☆☆　|　状态：10-已触达(S邮箱 去6·0回复)
 >
 > **类型**：分销商/电商（媒体转换器/工业交换机/IP 摄像机多站电商：media-konwertery.pl、lan.sklep.pl、kamery-ip.com、routery.sklep.pl）　|　**PLANET 关联**：在售 PLANET 工业交换机（IGS-4215-4P4T、IGS-6325、FGSD-1022VHP 等）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 
@@ -12,9 +12,9 @@ type: 分销商/电商（媒体转换器/工业交换机/IP 摄像机多站电�
 planet_models: ["IGS-4215-4P4T", "IGS-6325", "FGSD-1022VHP"]
 p1: STI-288DGGPM
 price_tier: 20%
-stage: 00-未触达
+stage: 10-已触达(S邮箱 去6·0回复)
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -174,4 +174,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-22*

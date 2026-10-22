@@ -316,7 +316,9 @@
 "in": 7,
 "first": "2023-11-27",
 "last": "2025-01-27",
-"emails": [],
+"emails": [
+"cs@firesecurityproducts.zendesk.com"
+],
 "threads": [
 {
 "id": "1822007569293080635",
@@ -2724,6 +2726,153 @@
 "quotes": [],
 "attachments": []
 },
+"SC-3090": {
+"pending_reply": false,
+"account": "s.sagatelecom",
+"messages": 10,
+"out": 9,
+"in": 1,
+"first": "2023-12-25",
+"last": "2025-01-01",
+"emails": [
+"info@niveopraofessional.com",
+"info@niveoprofessional.com"
+],
+"threads": [
+{
+"id": "1820028911782138952",
+"subject": "24 Port Fiber Switch",
+"first": "2025-01-01",
+"last": "2025-01-01",
+"in": 0,
+"out": 1,
+"atts": 1
+},
+{
+"id": "1818144032485175096",
+"subject": "Mini Industrial PoE Switch",
+"first": "2024-12-12",
+"last": "2024-12-12",
+"in": 0,
+"out": 1,
+"atts": 1
+},
+{
+"id": "1816038495471962499",
+"subject": "48 Port PoE Managed Switch",
+"first": "2024-11-19",
+"last": "2024-11-19",
+"in": 0,
+"out": 1,
+"atts": 1
+},
+{
+"id": "1813608981376700732",
+"subject": "10G Ethernet Web Managed Switch",
+"first": "2024-10-23",
+"last": "2024-10-23",
+"in": 0,
+"out": 1,
+"atts": 1
+},
+{
+"id": "1809913566537366203",
+"subject": "24 Port Passive PoE Switch",
+"first": "2024-09-13",
+"last": "2024-09-13",
+"in": 0,
+"out": 1,
+"atts": 1
+},
+{
+"id": "1807085417375660677",
+"subject": "Fiber Media Converter",
+"first": "2024-08-13",
+"last": "2024-08-13",
+"in": 0,
+"out": 1,
+"atts": 1
+},
+{
+"id": "1804352400060910678",
+"subject": "10G media converter",
+"first": "2024-07-15",
+"last": "2024-07-15",
+"in": 0,
+"out": 1,
+"atts": 1
+},
+{
+"id": "1803157799321488649",
+"subject": "10g managed switch",
+"first": "2024-06-29",
+"last": "2024-06-29",
+"in": 1,
+"out": 1,
+"atts": 3
+},
+{
+"id": "1802016897443402961",
+"subject": "Industrial poe switch",
+"first": "2024-06-17",
+"last": "2024-06-17",
+"in": 0,
+"out": 1,
+"atts": 1
+},
+{
+"id": "1786239374815947478",
+"subject": "[#28096]: Din rail power supply",
+"first": "2023-12-25",
+"last": "2023-12-25",
+"in": 1,
+"out": 0,
+"atts": 0
+}
+],
+"last_in": {
+"date": "2023-12-25",
+"from": "info@techgates.lk",
+"subject": "[#28096]: Din rail power supply",
+"snippet": "Simon, Thank you for contacting us. This is an automated response confirming the receipt of your ticket. Our team will get back to you as soon as possible. When replying, please make sure that the ticket ID is kept in the subject so that we can track your repl",
+"thr": "1786239374815947478",
+"auto": true
+},
+"last_out": "2025-01-01",
+"quotes": [
+{
+"date": "2025-01-01",
+"usd": "240",
+"model": "",
+"ctx": "Price: 240usd/pc"
+},
+{
+"date": "2024-11-19",
+"usd": "300",
+"model": "",
+"ctx": "*Price is very competitive, 300usd/pc*"
+},
+{
+"date": "2024-08-13",
+"usd": "65",
+"model": "",
+"ctx": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE,"
+},
+{
+"date": "2024-07-15",
+"usd": "65",
+"model": "",
+"ctx": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE,"
+},
+{
+"date": "2024-06-29",
+"usd": "220",
+"model": "",
+"ctx": "Price is very competitive, 220usd/pc"
+}
+],
+"attachments": []
+},
 "SC-984": {
 "pending_reply": false,
 "account": "s.sagatelecom",
@@ -2942,153 +3091,6 @@
 "usd": "65",
 "model": "",
 "ctx": "*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,"
-}
-],
-"attachments": []
-},
-"SC-3090": {
-"pending_reply": false,
-"account": "s.sagatelecom",
-"messages": 10,
-"out": 9,
-"in": 1,
-"first": "2023-12-25",
-"last": "2025-01-01",
-"emails": [
-"info@niveopraofessional.com",
-"info@niveoprofessional.com"
-],
-"threads": [
-{
-"id": "1820028911782138952",
-"subject": "24 Port Fiber Switch",
-"first": "2025-01-01",
-"last": "2025-01-01",
-"in": 0,
-"out": 1,
-"atts": 1
-},
-{
-"id": "1818144032485175096",
-"subject": "Mini Industrial PoE Switch",
-"first": "2024-12-12",
-"last": "2024-12-12",
-"in": 0,
-"out": 1,
-"atts": 1
-},
-{
-"id": "1816038495471962499",
-"subject": "48 Port PoE Managed Switch",
-"first": "2024-11-19",
-"last": "2024-11-19",
-"in": 0,
-"out": 1,
-"atts": 1
-},
-{
-"id": "1813608981376700732",
-"subject": "10G Ethernet Web Managed Switch",
-"first": "2024-10-23",
-"last": "2024-10-23",
-"in": 0,
-"out": 1,
-"atts": 1
-},
-{
-"id": "1809913566537366203",
-"subject": "24 Port Passive PoE Switch",
-"first": "2024-09-13",
-"last": "2024-09-13",
-"in": 0,
-"out": 1,
-"atts": 1
-},
-{
-"id": "1807085417375660677",
-"subject": "Fiber Media Converter",
-"first": "2024-08-13",
-"last": "2024-08-13",
-"in": 0,
-"out": 1,
-"atts": 1
-},
-{
-"id": "1804352400060910678",
-"subject": "10G media converter",
-"first": "2024-07-15",
-"last": "2024-07-15",
-"in": 0,
-"out": 1,
-"atts": 1
-},
-{
-"id": "1803157799321488649",
-"subject": "10g managed switch",
-"first": "2024-06-29",
-"last": "2024-06-29",
-"in": 1,
-"out": 1,
-"atts": 3
-},
-{
-"id": "1802016897443402961",
-"subject": "Industrial poe switch",
-"first": "2024-06-17",
-"last": "2024-06-17",
-"in": 0,
-"out": 1,
-"atts": 1
-},
-{
-"id": "1786239374815947478",
-"subject": "[#28096]: Din rail power supply",
-"first": "2023-12-25",
-"last": "2023-12-25",
-"in": 1,
-"out": 0,
-"atts": 0
-}
-],
-"last_in": {
-"date": "2023-12-25",
-"from": "info@techgates.lk",
-"subject": "[#28096]: Din rail power supply",
-"snippet": "Simon, Thank you for contacting us. This is an automated response confirming the receipt of your ticket. Our team will get back to you as soon as possible. When replying, please make sure that the ticket ID is kept in the subject so that we can track your repl",
-"thr": "1786239374815947478",
-"auto": true
-},
-"last_out": "2025-01-01",
-"quotes": [
-{
-"date": "2025-01-01",
-"usd": "240",
-"model": "",
-"ctx": "Price: 240usd/pc"
-},
-{
-"date": "2024-11-19",
-"usd": "300",
-"model": "",
-"ctx": "*Price is very competitive, 300usd/pc*"
-},
-{
-"date": "2024-08-13",
-"usd": "65",
-"model": "",
-"ctx": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE,"
-},
-{
-"date": "2024-07-15",
-"usd": "65",
-"model": "",
-"ctx": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE,"
-},
-{
-"date": "2024-06-29",
-"usd": "220",
-"model": "",
-"ctx": "Price is very competitive, 220usd/pc"
 }
 ],
 "attachments": []
@@ -4868,7 +4870,9 @@
 "in": 0,
 "first": "2024-03-15",
 "last": "2025-01-03",
-"emails": [],
+"emails": [
+"digiteck.maroc@gmail.com"
+],
 "threads": [
 {
 "id": "1820145194288724342",
@@ -5118,7 +5122,9 @@
 "in": 1,
 "first": "2024-03-27",
 "last": "2024-03-27",
-"emails": [],
+"emails": [
+"currentoptronics@gmail.com"
+],
 "threads": [
 {
 "id": "1794650991055743418",
@@ -5438,19 +5444,63 @@
 ],
 "attachments": []
 },
+"SB-1338": {
+"pending_reply": false,
+"account": "s.sagatelecom",
+"messages": 1,
+"out": 0,
+"in": 1,
+"first": "2024-03-09",
+"last": "2024-03-09",
+"emails": [
+"hassancheema@litech.com.pk"
+],
+"threads": [
+{
+"id": "1793079736991103791",
+"subject": "RFQ Switches",
+"first": "2024-03-09",
+"last": "2024-03-09",
+"in": 1,
+"out": 0,
+"atts": 13
+}
+],
+"last_in": {
+"date": "2024-03-09",
+"from": "hassancheema@litech.com.pk",
+"subject": "RFQ Switches",
+"snippet": "Dear Mr. Simon, Hoping you are doing well, Attached herewith are the technical specifications of different Access/Aggregation switches and Routers for your working for technical compliance statement. Please note that customer has prepared these specifications ",
+"thr": "1793079736991103791",
+"auto": false
+},
+"last_out": "",
+"quotes": [],
+"attachments": []
+},
 "SA-011": {
 "pending_reply": false,
 "account": "s.sagatelecom",
-"messages": 36,
-"out": 25,
-"in": 11,
+"messages": 111,
+"out": 69,
+"in": 42,
 "first": "2024-04-16",
-"last": "2026-07-20",
+"last": "2026-09-27",
 "emails": [
 "sales@vi-link.net",
-"thup@vilinknet.com"
+"thup@vilinknet.com",
+"thupvilink16@gmail.com"
 ],
 "threads": [
+{
+"id": "1875332036300677979",
+"subject": "Fw: T/T Payment",
+"first": "2026-09-03",
+"last": "2026-09-27",
+"in": 7,
+"out": 10,
+"atts": 14
+},
 {
 "id": "1856092693524502363",
 "subject": "24 Port Ethernet Switch",
@@ -5579,14 +5629,14 @@
 }
 ],
 "last_in": {
-"date": "2025-05-09",
-"from": "thup@vilinknet.com",
-"subject": "Re: 16 Port Ethernet Switch",
-"snippet": "On 2025-03-27 08:00, Simon from Saga Telecom wrote: > Hi, Thu, > > How are you? > > There is a 16-port Din Gigabit Ethernet switch for you. > > It is good for vehicle network and industrial automation. > > Model choice > > 1. 5 Port/8 Port/24 Port > > 2. 10/10",
-"thr": "1827738616250852309",
+"date": "2026-09-25",
+"from": "thupvilink16@gmail.com",
+"subject": "Re: Fw: T/T Payment",
+"snippet": "Thank you - It looks good. I will take a look at the switch. What would be our cost? Thu",
+"thr": "1875332036300677979",
 "auto": false
 },
-"last_out": "2026-07-20",
+"last_out": "2026-09-27",
 "quotes": [
 {
 "date": "2026-07-20",
@@ -7187,6 +7237,7 @@
 "first": "2024-04-25",
 "last": "2025-01-13",
 "emails": [
+"jain.deepak1@gmail.com",
 "sales@airpro.in",
 "support@airpro.in"
 ],
@@ -7657,7 +7708,9 @@
 "in": 1,
 "first": "2024-04-01",
 "last": "2025-01-20",
-"emails": [],
+"emails": [
+"info@avito.ru"
+],
 "threads": [
 {
 "id": "1821407013271286759",
@@ -8090,6 +8143,239 @@
 ],
 "attachments": []
 },
+"SA-018": {
+"pending_reply": false,
+"account": "s.sagatelecom",
+"messages": 32,
+"out": 28,
+"in": 4,
+"first": "2024-05-29",
+"last": "2026-09-08",
+"emails": [
+"info@germany24.com.ua",
+"sergiy.khodun@gmail.com"
+],
+"threads": [
+{
+"id": "1873137196285793318",
+"subject": "24 Port PoE Managed Switch",
+"first": "2026-09-08",
+"last": "2026-09-08",
+"in": 0,
+"out": 1,
+"atts": 1
+},
+{
+"id": "1871131848119494648",
+"subject": "24 Port 10G SFP+ Switch",
+"first": "2026-07-20",
+"last": "2026-07-20",
+"in": 0,
+"out": 1,
+"atts": 1
+},
+{
+"id": "1868593997924855492",
+"subject": "Firmware 7.5 L2+ Feature Update",
+"first": "2026-06-22",
+"last": "2026-06-22",
+"in": 0,
+"out": 1,
+"atts": 2
+},
+{
+"id": "1856629731478430106",
+"subject": "Updated Ethernet Switches Links",
+"first": "2026-03-02",
+"last": "2026-03-02",
+"in": 0,
+"out": 1,
+"atts": 1
+},
+{
+"id": "1854843555117654853",
+"subject": "OEM Core Switching Solution",
+"first": "2026-01-29",
+"last": "2026-01-29",
+"in": 0,
+"out": 1,
+"atts": 1
+},
+{
+"id": "1850119686674704986",
+"subject": "Optional Marvell Chipset Solutions",
+"first": "2025-12-29",
+"last": "2025-12-29",
+"in": 0,
+"out": 1,
+"atts": 1
+},
+{
+"id": "1847844790112357167",
+"subject": "Booster PoE Switch",
+"first": "2025-11-27",
+"last": "2025-11-27",
+"in": 0,
+"out": 1,
+"atts": 1
+},
+{
+"id": "1844785463794657948",
+"subject": "10G Enterprise SFP Switch",
+"first": "2025-10-29",
+"last": "2025-10-29",
+"in": 0,
+"out": 1,
+"atts": 1
+},
+{
+"id": "1841750672633048055",
+"subject": "8 Port Industrial PoE Switch",
+"first": "2025-09-30",
+"last": "2025-09-30",
+"in": 0,
+"out": 1,
+"atts": 1
+},
+{
+"id": "1839338522449959861",
+"subject": "Mini Industrial PoE Switch",
+"first": "2025-08-27",
+"last": "2025-08-27",
+"in": 0,
+"out": 1,
+"atts": 1
+},
+{
+"id": "1836429348345672397",
+"subject": "90W PoE Managed Switch",
+"first": "2025-07-28",
+"last": "2025-07-28",
+"in": 0,
+"out": 1,
+"atts": 1
+},
+{
+"id": "1835884000592308960",
+"subject": "Marvell Alleycat5 Solution",
+"first": "2025-06-25",
+"last": "2025-06-25",
+"in": 0,
+"out": 1,
+"atts": 1
+},
+{
+"id": "1833273178611973388",
+"subject": "Marvell Industrial Alert System",
+"first": "2025-05-28",
+"last": "2025-05-28",
+"in": 0,
+"out": 1,
+"atts": 1
+},
+{
+"id": "1830522189243195003",
+"subject": "Managed Optical Bypass Switch",
+"first": "2025-04-30",
+"last": "2025-04-30",
+"in": 0,
+"out": 1,
+"atts": 1
+},
+{
+"id": "1828731486414265985",
+"subject": "48 Port PoE Managed Switch",
+"first": "2025-04-07",
+"last": "2025-04-07",
+"in": 0,
+"out": 1,
+"atts": 1
+},
+{
+"id": "1824720120425351528",
+"subject": "Industrial PoE Switch",
+"first": "2025-02-28",
+"last": "2025-02-28",
+"in": 0,
+"out": 1,
+"atts": 1
+},
+{
+"id": "1820145758780435450",
+"subject": "24 Port Fiber Switch",
+"first": "2025-01-03",
+"last": "2025-01-03",
+"in": 0,
+"out": 1,
+"atts": 1
+},
+{
+"id": "1818057264903296311",
+"subject": "16 Port Ethernet Switch",
+"first": "2024-12-11",
+"last": "2024-12-11",
+"in": 0,
+"out": 1,
+"atts": 1
+},
+{
+"id": "1816249764974178992",
+"subject": "Samples order form DI",
+"first": "2024-11-20",
+"last": "2024-11-22",
+"in": 2,
+"out": 2,
+"atts": 11
+},
+{
+"id": "1816138522168479365",
+"subject": "Industrial PoE Switch",
+"first": "2024-11-20",
+"last": "2024-11-20",
+"in": 1,
+"out": 1,
+"atts": 3
+},
+{
+"id": "1813682111283637909",
+"subject": "8 Port Industrial PoE Switch",
+"first": "2024-10-24",
+"last": "2024-10-24",
+"in": 0,
+"out": 1,
+"atts": 1
+},
+{
+"id": "1811248244785581852",
+"subject": "Mini Industrial PoE Switch",
+"first": "2024-09-30",
+"last": "2024-09-30",
+"in": 0,
+"out": 1,
+"atts": 1
+},
+{
+"id": "1800392150493519729",
+"subject": "У відповідь: У відповідь: У відповідь: L3 managed switch",
+"first": "2024-05-29",
+"last": "2024-08-29",
+"in": 1,
+"out": 5,
+"atts": 20
+}
+],
+"last_in": {
+"date": "2024-11-22",
+"from": "sergiy.khodun@gmail.com",
+"subject": "RE: Samples order form DI",
+"snippet": "Hi Simon, Tnx for your replay. As far as I understand, your company is not a manufacturer and does not have its own production facilities. You operate in cooperation with other manufacturers, right? BR Sergiy Khodun LLC DEUTSCHE IMPORT 02068 Kiev, Ukraine str.",
+"thr": "1816249764974178992",
+"auto": false
+},
+"last_out": "2026-09-08",
+"quotes": [],
+"attachments": []
+},
 "SA-019": {
 "pending_reply": false,
 "account": "s.sagatelecom",
@@ -8100,7 +8386,8 @@
 "last": "2026-09-08",
 "emails": [
 "contact@cxr.com",
-"marco.divalerio@cxr.com"
+"marco.divalerio@cxr.com",
+"marco.divalerio@cxr.fr"
 ],
 "threads": [
 {
@@ -8353,7 +8640,9 @@
 "in": 0,
 "first": "2024-05-23",
 "last": "2025-01-19",
-"emails": [],
+"emails": [
+"cleanworldmanagement@gmail.com"
+],
 "threads": [
 {
 "id": "1821402828109269041",
@@ -8638,7 +8927,9 @@
 "in": 2,
 "first": "2024-05-16",
 "last": "2025-01-01",
-"emails": [],
+"emails": [
+"nedic.aleksandar@gmail.com"
+],
 "threads": [
 {
 "id": "1820028649208676098",
@@ -8828,7 +9119,9 @@
 "in": 1,
 "first": "2024-05-22",
 "last": "2024-12-23",
-"emails": [],
+"emails": [
+"powerlogic1965@gmail.com"
+],
 "threads": [
 {
 "id": "1818930008480175683",
@@ -8970,7 +9263,11 @@
 "in": 2,
 "first": "2024-05-09",
 "last": "2025-02-06",
-"emails": [],
+"emails": [
+"admin@case.uk.com",
+"andys@case.uk.com",
+"sales@foscam.uk.com"
+],
 "threads": [
 {
 "id": "1822723097621704741",
@@ -11143,7 +11440,9 @@
 "in": 4,
 "first": "2024-06-19",
 "last": "2025-01-06",
-"emails": [],
+"emails": [
+"transivideo@gmail.com"
+],
 "threads": [
 {
 "id": "1820212936749295205",
@@ -11220,7 +11519,9 @@
 "in": 1,
 "first": "2024-06-15",
 "last": "2025-01-03",
-"emails": [],
+"emails": [
+"2440420@mail.ru"
+],
 "threads": [
 {
 "id": "1820145414472275882",
@@ -11460,7 +11761,9 @@
 "first": "2024-06-21",
 "last": "2026-10-20",
 "emails": [
-"hydraulics@vnn.vn"
+"chuyengiathuykhi@gmail.com",
+"hydraulics@vnn.vn",
+"thuyluc1973@gmail.com"
 ],
 "threads": [
 {
@@ -11556,7 +11859,9 @@
 "in": 2,
 "first": "2024-06-17",
 "last": "2025-01-03",
-"emails": [],
+"emails": [
+"francois.burton0@gmail.com"
+],
 "threads": [
 {
 "id": "1820147517516024754",
@@ -11742,7 +12047,10 @@
 "in": 6,
 "first": "2024-06-29",
 "last": "2025-12-01",
-"emails": [],
+"emails": [
+"asteldigicom@eim.ae",
+"navsim@eim.ae"
+],
 "threads": [
 {
 "id": "1850281483942059613",
@@ -12195,7 +12503,9 @@
 "in": 2,
 "first": "2024-06-30",
 "last": "2025-01-04",
-"emails": [],
+"emails": [
+"nimanthasampath@gmail.com"
+],
 "threads": [
 {
 "id": "1820145507570542337",
@@ -13001,7 +13311,9 @@
 "in": 0,
 "first": "2024-06-30",
 "last": "2024-12-03",
-"emails": [],
+"emails": [
+"kh.alwa@hotmail.com"
+],
 "threads": [
 {
 "id": "1817174752113998635",
@@ -13434,7 +13746,9 @@
 "in": 0,
 "first": "2024-06-30",
 "last": "2024-12-31",
-"emails": [],
+"emails": [
+"wallacehoustonceo@gmail.com"
+],
 "threads": [
 {
 "id": "1819861775067601507",
@@ -13602,7 +13916,9 @@
 "in": 0,
 "first": "2024-06-30",
 "last": "2024-12-31",
-"emails": [],
+"emails": [
+"routerhansome@gmail.com"
+],
 "threads": [
 {
 "id": "1819861691555432426",
@@ -14051,7 +14367,9 @@
 "in": 0,
 "first": "2024-06-30",
 "last": "2024-12-31",
-"emails": [],
+"emails": [
+"ism_art@hotmail.com"
+],
 "threads": [
 {
 "id": "1819861733341619027",
@@ -14474,6 +14792,7 @@
 "first": "2024-06-30",
 "last": "2025-01-23",
 "emails": [
+"leechunte@gmail.com",
 "service@dawnraytech.com"
 ],
 "threads": [
@@ -14940,7 +15259,9 @@
 "in": 0,
 "first": "2024-06-30",
 "last": "2025-01-01",
-"emails": [],
+"emails": [
+"fernandochrist@hotmail.com"
+],
 "threads": [
 {
 "id": "1819920493360150907",
@@ -15773,7 +16094,9 @@
 "in": 0,
 "first": "2024-06-30",
 "last": "2024-12-27",
-"emails": [],
+"emails": [
+"vienthongkhoinguyen@gmail.com"
+],
 "threads": [
 {
 "id": "1819397861040208054",
@@ -16106,7 +16429,9 @@
 "in": 0,
 "first": "2024-06-30",
 "last": "2024-12-30",
-"emails": [],
+"emails": [
+"cctvpinoy@gmail.com"
+],
 "threads": [
 {
 "id": "1819514360716106214",
@@ -16177,7 +16502,8 @@
 "first": "2024-06-30",
 "last": "2026-10-21",
 "emails": [
-"info@trimatrikbd.com"
+"info@trimatrikbd.com",
+"trimatrikfa@gmail.com"
 ],
 "threads": [
 {
@@ -16658,7 +16984,9 @@
 "in": 0,
 "first": "2024-06-29",
 "last": "2024-12-30",
-"emails": [],
+"emails": [
+"r_abusamra@hotmail.com"
+],
 "threads": [
 {
 "id": "1819581293589691216",
@@ -17078,7 +17406,9 @@
 "in": 0,
 "first": "2024-06-29",
 "last": "2024-12-31",
-"emails": [],
+"emails": [
+"aihuamanj@gmail.com"
+],
 "threads": [
 {
 "id": "1819861474765640595",
@@ -17734,7 +18064,9 @@
 "in": 0,
 "first": "2024-06-29",
 "last": "2025-01-14",
-"emails": [],
+"emails": [
+"gentopapp@gmail.com"
+],
 "threads": [
 {
 "id": "1820831997478271870",
@@ -18766,7 +19098,9 @@
 "in": 0,
 "first": "2024-06-29",
 "last": "2024-12-31",
-"emails": [],
+"emails": [
+"businesswise1@hotmail.com"
+],
 "threads": [
 {
 "id": "1819861354531181089",
@@ -19450,7 +19784,9 @@
 "in": 0,
 "first": "2024-06-29",
 "last": "2025-01-16",
-"emails": [],
+"emails": [
+"az.anvar@mail.ru"
+],
 "threads": [
 {
 "id": "1821185063454258032",
@@ -20367,7 +20703,9 @@
 "in": 0,
 "first": "2024-06-29",
 "last": "2024-12-18",
-"emails": [],
+"emails": [
+"seunghyunson@yahoo.com"
+],
 "threads": [
 {
 "id": "1818596039190832082",
@@ -21380,7 +21718,9 @@
 "in": 0,
 "first": "2024-06-29",
 "last": "2024-12-31",
-"emails": [],
+"emails": [
+"jamtvproduccion@hotmail.com"
+],
 "threads": [
 {
 "id": "1819861389437301563",
@@ -21736,6 +22076,7 @@
 "first": "2024-06-29",
 "last": "2024-11-26",
 "emails": [
+"4steknolojiltd@gmail.com",
 "info@4sltd.com.tr"
 ],
 "threads": [
@@ -21902,7 +22243,9 @@
 "in": 0,
 "first": "2024-06-28",
 "last": "2024-12-20",
-"emails": [],
+"emails": [
+"atoguem@hotmail.com"
+],
 "threads": [
 {
 "id": "1818855211322363260",
@@ -22081,7 +22424,9 @@
 "in": 0,
 "first": "2024-06-29",
 "last": "2024-12-31",
-"emails": [],
+"emails": [
+"alarmitpueblo@msn.com"
+],
 "threads": [
 {
 "id": "1819861897329469914",
@@ -22454,7 +22799,9 @@
 "in": 0,
 "first": "2024-06-17",
 "last": "2025-01-15",
-"emails": [],
+"emails": [
+"contacts@mail.atrie.com.tw"
+],
 "threads": [
 {
 "id": "1820923113164968189",
@@ -23546,7 +23893,9 @@
 "in": 1,
 "first": "2024-06-28",
 "last": "2025-01-03",
-"emails": [],
+"emails": [
+"joejts@hotmail.com"
+],
 "threads": [
 {
 "id": "1820147621649751510",
@@ -23623,7 +23972,9 @@
 "in": 0,
 "first": "2024-06-28",
 "last": "2024-06-28",
-"emails": [],
+"emails": [
+"sandyperez2790@gmail.com"
+],
 "threads": [
 {
 "id": "1803011727523302766",
@@ -24005,7 +24356,9 @@
 "in": 0,
 "first": "2024-06-28",
 "last": "2024-12-20",
-"emails": [],
+"emails": [
+"audemarms@hotmail.com"
+],
 "threads": [
 {
 "id": "1818855169957565663",
@@ -26261,7 +26614,9 @@
 "in": 0,
 "first": "2024-06-28",
 "last": "2024-12-23",
-"emails": [],
+"emails": [
+"info@in.omega.com"
+],
 "threads": [
 {
 "id": "1818220533757181066",
@@ -27519,12 +27874,13 @@
 "SA-073": {
 "pending_reply": false,
 "account": "s.sagatelecom",
-"messages": 11,
-"out": 6,
-"in": 5,
+"messages": 14,
+"out": 8,
+"in": 6,
 "first": "2024-06-05",
 "last": "2025-01-03",
 "emails": [
+"inam@alrajhitel.com",
 "info@ekhalas.com"
 ],
 "threads": [
@@ -29409,7 +29765,11 @@
 "in": 0,
 "first": "2024-06-19",
 "last": "2025-01-20",
-"emails": [],
+"emails": [
+"info@de.pepperl-fuchs.com",
+"info@kr.pepperl-fuchs.com",
+"sales@us.pepperl-fuchs.com"
+],
 "threads": [
 {
 "id": "1821407157300062719",
@@ -33080,7 +33440,8 @@
 "first": "2024-06-26",
 "last": "2024-12-16",
 "emails": [
-"antonio.greco@3medialab.com"
+"antonio.greco@3medialab.com",
+"antoniogreco@yahoo.it"
 ],
 "threads": [
 {
@@ -35689,6 +36050,7 @@
 "first": "2024-06-26",
 "last": "2025-01-30",
 "emails": [
+"info@prolink.us.com",
 "info@us.com"
 ],
 "threads": [
@@ -40979,7 +41341,9 @@
 "in": 0,
 "first": "2024-06-26",
 "last": "2025-01-07",
-"emails": [],
+"emails": [
+"jkpgmtv@gmail.com"
+],
 "threads": [
 {
 "id": "1820220064894819835",
@@ -41275,7 +41639,8 @@
 "first": "2024-06-26",
 "last": "2025-01-08",
 "emails": [
-"sales@sinyu.com.tw"
+"sales@sinyu.com.tw",
+"sinyu@ms17.hinet.net"
 ],
 "threads": [
 {
@@ -42041,7 +42406,9 @@
 "in": 0,
 "first": "2024-06-25",
 "last": "2025-01-23",
-"emails": [],
+"emails": [
+"wisali0708@gmail.com"
+],
 "threads": [
 {
 "id": "1821787272935684547",
@@ -43296,7 +43663,9 @@
 "in": 0,
 "first": "2024-06-25",
 "last": "2024-12-25",
-"emails": [],
+"emails": [
+"sjk7700@naver.com"
+],
 "threads": [
 {
 "id": "1819231036120221132",
@@ -44122,7 +44491,9 @@
 "in": 0,
 "first": "2024-06-24",
 "last": "2024-12-24",
-"emails": [],
+"emails": [
+"fiberworld@naver.com"
+],
 "threads": [
 {
 "id": "1818952565583810137",
@@ -44601,7 +44972,9 @@
 "in": 0,
 "first": "2024-06-24",
 "last": "2025-02-07",
-"emails": [],
+"emails": [
+"hanaend-a@naver.com"
+],
 "threads": [
 {
 "id": "1822730098216754280",
@@ -45950,7 +46323,9 @@
 "in": 0,
 "first": "2024-06-24",
 "last": "2025-01-07",
-"emails": [],
+"emails": [
+"poe-link@ukr.net"
+],
 "threads": [
 {
 "id": "1820219918770993808",
@@ -46715,12 +47090,13 @@
 "SC-1574": {
 "pending_reply": false,
 "account": "s.sagatelecom",
-"messages": 7,
-"out": 7,
-"in": 0,
+"messages": 9,
+"out": 8,
+"in": 1,
 "first": "2024-06-19",
 "last": "2025-01-01",
 "emails": [
+"mooteksales@gmail.com",
 "raj@mootek.in"
 ],
 "threads": [
@@ -46761,6 +47137,15 @@
 "atts": 1
 },
 {
+"id": "1804835937782864558",
+"subject": "48 port managed switch",
+"first": "2024-07-19",
+"last": "2024-07-19",
+"in": 1,
+"out": 1,
+"atts": 1
+},
+{
 "id": "1804365731453228118",
 "subject": "48 port managed switch",
 "first": "2024-07-16",
@@ -46788,7 +47173,14 @@
 "atts": 1
 }
 ],
-"last_in": null,
+"last_in": {
+"date": "2024-07-19",
+"from": "mooteksales@gmail.com",
+"subject": "Re: 48 port managed switch",
+"snippet": "Dear Sir/Madam, Our official email has changed to [ raj@mootek.in ]. Please update your records accordingly. Thank you, Raj +91 9092520520 -- ​MOOTEK TECHNOLOGIES RAJ First floor, No.20, East Jones Road, Saidapet, Chennai –600015. Mob:+91-9092520520 Skype: moo",
+"thr": "1804835937782864558",
+"auto": false
+},
 "last_out": "2025-01-01",
 "quotes": [
 {
@@ -47221,7 +47613,9 @@
 "in": 0,
 "first": "2024-06-25",
 "last": "2025-01-24",
-"emails": [],
+"emails": [
+"adm2000@naver.com"
+],
 "threads": [
 {
 "id": "1821916110923857324",
@@ -48197,7 +48591,9 @@
 "in": 0,
 "first": "2024-06-25",
 "last": "2024-12-24",
-"emails": [],
+"emails": [
+"wallpch@hanmail.net"
+],
 "threads": [
 {
 "id": "1818964890768895856",
@@ -48469,6 +48865,7 @@
 "first": "2024-06-25",
 "last": "2025-01-24",
 "emails": [
+"aircess@gmail.com",
 "cs@jmpsystem.com"
 ],
 "threads": [
@@ -48628,7 +49025,9 @@
 "in": 1,
 "first": "2024-06-22",
 "last": "2025-01-30",
-"emails": [],
+"emails": [
+"pongpanot.k@hotmail.com"
+],
 "threads": [
 {
 "id": "1822051845510547291",
@@ -48714,7 +49113,9 @@
 "in": 2,
 "first": "2024-06-22",
 "last": "2025-06-09",
-"emails": [],
+"emails": [
+"sales.ebsa@gmail.com"
+],
 "threads": [
 {
 "id": "1820032662989860473",
@@ -49219,7 +49620,9 @@
 "in": 0,
 "first": "2024-06-22",
 "last": "2024-06-22",
-"emails": [],
+"emails": [
+"nicholasmakwae@gmail.com"
+],
 "threads": [
 {
 "id": "1802451514652007423",
@@ -49399,7 +49802,9 @@
 "in": 0,
 "first": "2024-06-22",
 "last": "2024-10-25",
-"emails": [],
+"emails": [
+"bojan.vrbancic@gmail.com"
+],
 "threads": [
 {
 "id": "1813791587605317502",
@@ -49460,7 +49865,9 @@
 "in": 0,
 "first": "2024-06-22",
 "last": "2024-10-28",
-"emails": [],
+"emails": [
+"ersinkurmash94@gmail.com"
+],
 "threads": [
 {
 "id": "1813865887562046179",
@@ -49631,7 +50038,9 @@
 "in": 0,
 "first": "2024-06-22",
 "last": "2024-10-28",
-"emails": [],
+"emails": [
+"soyaeb92@gmail.com"
+],
 "threads": [
 {
 "id": "1813882276911842884",
@@ -49759,7 +50168,9 @@
 "in": 0,
 "first": "2024-06-22",
 "last": "2024-06-22",
-"emails": [],
+"emails": [
+"97sadaruwan@gmail.com"
+],
 "threads": [
 {
 "id": "1802451051858144881",
@@ -49985,7 +50396,9 @@
 "in": 0,
 "first": "2024-06-25",
 "last": "2024-12-26",
-"emails": [],
+"emails": [
+"pcs0713@gmail.com"
+],
 "threads": [
 {
 "id": "1819322085716662799",
@@ -50064,7 +50477,9 @@
 "in": 0,
 "first": "2024-06-22",
 "last": "2024-10-28",
-"emails": [],
+"emails": [
+"edgarhcarrillor@gmail.com"
+],
 "threads": [
 {
 "id": "1813866214972340336",
@@ -50125,7 +50540,9 @@
 "in": 0,
 "first": "2024-06-22",
 "last": "2024-10-28",
-"emails": [],
+"emails": [
+"gavassoniinformatica@gmail.com"
+],
 "threads": [
 {
 "id": "1813881625291163342",
@@ -50280,7 +50697,9 @@
 "in": 1,
 "first": "2024-06-22",
 "last": "2025-02-14",
-"emails": [],
+"emails": [
+"saikooperu@gmail.com"
+],
 "threads": [
 {
 "id": "1823665155115487822",
@@ -50375,7 +50794,9 @@
 "in": 0,
 "first": "2024-06-22",
 "last": "2024-11-15",
-"emails": [],
+"emails": [
+"victormbombo@gmail.com"
+],
 "threads": [
 {
 "id": "1815661834635157489",
@@ -50445,7 +50866,9 @@
 "in": 0,
 "first": "2024-06-22",
 "last": "2024-11-20",
-"emails": [],
+"emails": [
+"ahmadariyanto105@gmail.com"
+],
 "threads": [
 {
 "id": "1816141289125734494",
@@ -50488,7 +50911,9 @@
 "in": 0,
 "first": "2024-06-22",
 "last": "2024-10-24",
-"emails": [],
+"emails": [
+"jonmimiese@gmail.com"
+],
 "threads": [
 {
 "id": "1813756412378181112",
@@ -50737,7 +51162,9 @@
 "in": 0,
 "first": "2024-06-22",
 "last": "2024-10-28",
-"emails": [],
+"emails": [
+"tsh.netcracker@live.com"
+],
 "threads": [
 {
 "id": "1813882453237730948",
@@ -50883,7 +51310,9 @@
 "in": 0,
 "first": "2024-06-22",
 "last": "2024-06-22",
-"emails": [],
+"emails": [
+"gadsatoh@gmail.com"
+],
 "threads": [
 {
 "id": "1802449020865602791",
@@ -50908,7 +51337,9 @@
 "in": 0,
 "first": "2024-06-22",
 "last": "2024-10-24",
-"emails": [],
+"emails": [
+"aufimegs@uol.com.br"
+],
 "threads": [
 {
 "id": "1813756277319700693",
@@ -50970,6 +51401,7 @@
 "first": "2024-06-22",
 "last": "2024-10-28",
 "emails": [
+"murad_85@hotmail.com",
 "soliman@techub.ae"
 ],
 "threads": [
@@ -51032,7 +51464,9 @@
 "in": 0,
 "first": "2024-06-21",
 "last": "2024-06-21",
-"emails": [],
+"emails": [
+"nurulalambabu121@gmail.com"
+],
 "threads": [
 {
 "id": "1802363429336214850",
@@ -51057,7 +51491,9 @@
 "in": 0,
 "first": "2024-06-22",
 "last": "2024-06-22",
-"emails": [],
+"emails": [
+"akoe.yusuf@gmail.com"
+],
 "threads": [
 {
 "id": "1802450953765509823",
@@ -51082,7 +51518,9 @@
 "in": 0,
 "first": "2024-06-22",
 "last": "2024-10-28",
-"emails": [],
+"emails": [
+"augusto.jr12@hotmail.com"
+],
 "threads": [
 {
 "id": "1813880829919841801",
@@ -51230,6 +51668,7 @@
 "first": "2024-06-22",
 "last": "2024-06-22",
 "emails": [
+"deepakg158@gmail.com",
 "dgupta@ralakde.co.uk"
 ],
 "threads": [
@@ -51533,7 +51972,9 @@
 "in": 0,
 "first": "2024-06-21",
 "last": "2024-12-03",
-"emails": [],
+"emails": [
+"42810730@pro.onet.pl"
+],
 "threads": [
 {
 "id": "1817175695737742087",
@@ -51673,7 +52114,9 @@
 "in": 1,
 "first": "2024-06-20",
 "last": "2024-06-24",
-"emails": [],
+"emails": [
+"samuelkbunyan51@gmail.com"
+],
 "threads": [
 {
 "id": "1802358435436442939",
@@ -51705,7 +52148,9 @@
 "in": 0,
 "first": "2024-06-22",
 "last": "2024-10-28",
-"emails": [],
+"emails": [
+"it.illimite@gmail.com"
+],
 "threads": [
 {
 "id": "1813866782880201764",
@@ -51766,7 +52211,10 @@
 "in": 0,
 "first": "2024-06-22",
 "last": "2024-06-22",
-"emails": [],
+"emails": [
+"pweruh@gmail.com",
+"wellspeter8@gmail.com"
+],
 "threads": [
 {
 "id": "1802391262085265878",
@@ -51791,7 +52239,9 @@
 "in": 0,
 "first": "2024-06-22",
 "last": "2024-10-28",
-"emails": [],
+"emails": [
+"kakashy_85@hotmail.com"
+],
 "threads": [
 {
 "id": "1813881700594586399",
@@ -52058,7 +52508,9 @@
 "in": 0,
 "first": "2024-06-22",
 "last": "2024-10-28",
-"emails": [],
+"emails": [
+"sds.broadcast@gmail.com"
+],
 "threads": [
 {
 "id": "1813882915147091861",
@@ -52385,7 +52837,9 @@
 "in": 0,
 "first": "2024-06-22",
 "last": "2024-10-28",
-"emails": [],
+"emails": [
+"giftshops.mty@gmail.com"
+],
 "threads": [
 {
 "id": "1813881910528857944",
@@ -52543,7 +52997,10 @@
 "in": 0,
 "first": "2024-06-22",
 "last": "2024-10-28",
-"emails": [],
+"emails": [
+"ahmedkhemaja@gmail.com",
+"ahmedkhemaja@hotmail.com"
+],
 "threads": [
 {
 "id": "1813867292589655580",
@@ -52604,7 +53061,9 @@
 "in": 0,
 "first": "2024-06-22",
 "last": "2024-06-22",
-"emails": [],
+"emails": [
+"agrajan@eim.ae"
+],
 "threads": [
 {
 "id": "1802448433267674793",
@@ -52953,7 +53412,9 @@
 "in": 0,
 "first": "2024-06-22",
 "last": "2024-06-22",
-"emails": [],
+"emails": [
+"gmnolkeri@gmail.com"
+],
 "threads": [
 {
 "id": "1802451960311849005",
@@ -53407,7 +53868,9 @@
 "in": 0,
 "first": "2024-06-22",
 "last": "2024-10-24",
-"emails": [],
+"emails": [
+"dllocllaipanaque@gmail.com"
+],
 "threads": [
 {
 "id": "1813756449003274109",
@@ -53459,7 +53922,9 @@
 "in": 0,
 "first": "2024-06-22",
 "last": "2024-09-23",
-"emails": [],
+"emails": [
+"rameshdngl@gmail.com"
+],
 "threads": [
 {
 "id": "1810969345673422911",
@@ -53851,7 +54316,9 @@
 "in": 0,
 "first": "2024-06-22",
 "last": "2024-10-28",
-"emails": [],
+"emails": [
+"yalito@live.com"
+],
 "threads": [
 {
 "id": "1813882128739338131",
@@ -54312,7 +54779,9 @@
 "in": 0,
 "first": "2024-06-22",
 "last": "2024-10-24",
-"emails": [],
+"emails": [
+"passos.automaticos@gmail.com"
+],
 "threads": [
 {
 "id": "1813756191247509546",
@@ -55441,7 +55910,10 @@
 "in": 0,
 "first": "2024-06-21",
 "last": "2024-12-05",
-"emails": [],
+"emails": [
+"b.dalaei@gmail.com",
+"dalaei_b@yahoo.com"
+],
 "threads": [
 {
 "id": "1817418520462440163",
@@ -55511,7 +55983,9 @@
 "in": 0,
 "first": "2024-06-20",
 "last": "2024-06-20",
-"emails": [],
+"emails": [
+"martinnjiru58@gmail.com"
+],
 "threads": [
 {
 "id": "1802357671818538190",
@@ -56090,7 +56564,9 @@
 "in": 0,
 "first": "2024-06-21",
 "last": "2024-11-20",
-"emails": [],
+"emails": [
+"rizkyadips@yahoo.com"
+],
 "threads": [
 {
 "id": "1816140771218546717",
@@ -56285,7 +56761,9 @@
 "in": 0,
 "first": "2024-06-20",
 "last": "2025-01-02",
-"emails": [],
+"emails": [
+"davenduttsharma@gmail.com"
+],
 "threads": [
 {
 "id": "1820032242099549108",
@@ -56473,7 +56951,9 @@
 "in": 0,
 "first": "2024-06-20",
 "last": "2024-11-04",
-"emails": [],
+"emails": [
+"nasreddineghorri@gmail.com"
+],
 "threads": [
 {
 "id": "1814486103953730963",
@@ -56925,7 +57405,9 @@
 "in": 0,
 "first": "2024-06-21",
 "last": "2024-06-21",
-"emails": [],
+"emails": [
+"lodhibhupendrasingh432@gmail.com"
+],
 "threads": [
 {
 "id": "1802361918886874640",
@@ -57048,7 +57530,9 @@
 "in": 0,
 "first": "2024-06-14",
 "last": "2025-01-15",
-"emails": [],
+"emails": [
+"xmeye.com.ua@gmail.com"
+],
 "threads": [
 {
 "id": "1821146063813663734",
@@ -57523,7 +58007,9 @@
 "in": 0,
 "first": "2024-06-20",
 "last": "2025-01-31",
-"emails": [],
+"emails": [
+"computerwayne@gmail.com"
+],
 "threads": [
 {
 "id": "1822375792181116453",
@@ -57611,7 +58097,9 @@
 "in": 0,
 "first": "2024-06-21",
 "last": "2024-06-21",
-"emails": [],
+"emails": [
+"alminiaco@gmail.com"
+],
 "threads": [
 {
 "id": "1802362119256878999",
@@ -57701,7 +58189,8 @@
 "last": "2026-10-19",
 "emails": [
 "info@distri-x.nl",
-"sales@distri-x.nl"
+"sales@distri-x.nl",
+"timgruijters@hotmail.com"
 ],
 "threads": [
 {
@@ -58561,7 +59050,9 @@
 "in": 0,
 "first": "2024-06-21",
 "last": "2024-08-15",
-"emails": [],
+"emails": [
+"dtechnic02@gmail.com"
+],
 "threads": [
 {
 "id": "1807358985206637553",
@@ -58595,7 +59086,9 @@
 "in": 0,
 "first": "2024-06-20",
 "last": "2024-10-25",
-"emails": [],
+"emails": [
+"habitlandry@icloud.com"
+],
 "threads": [
 {
 "id": "1813791668920041427",
@@ -58896,7 +59389,9 @@
 "in": 0,
 "first": "2024-06-20",
 "last": "2024-09-23",
-"emails": [],
+"emails": [
+"rndijuye@gmail.com"
+],
 "threads": [
 {
 "id": "1810968819318660989",
@@ -59036,7 +59531,9 @@
 "in": 0,
 "first": "2024-06-20",
 "last": "2024-10-25",
-"emails": [],
+"emails": [
+"manuelgermano09@gmail.com"
+],
 "threads": [
 {
 "id": "1813791636642572326",
@@ -59427,7 +59924,9 @@
 "in": 0,
 "first": "2024-06-20",
 "last": "2024-07-24",
-"emails": [],
+"emails": [
+"sinagtelservices@gmail.com"
+],
 "threads": [
 {
 "id": "1805351887901131721",
@@ -60319,7 +60818,8 @@
 "first": "2024-06-19",
 "last": "2025-01-31",
 "emails": [
-"sales@optiviel.com"
+"sales@optiviel.com",
+"stefen.sidharta@yahoo.com"
 ],
 "threads": [
 {
@@ -60667,6 +61167,7 @@
 "first": "2024-06-18",
 "last": "2024-10-28",
 "emails": [
+"broadcast-storage@outlook.com",
 "jramirez@broadcast-storagetv.com"
 ],
 "threads": [
@@ -62162,7 +62663,9 @@
 "in": 0,
 "first": "2024-06-18",
 "last": "2024-09-23",
-"emails": [],
+"emails": [
+"s.gsertesegursas@gmail.com"
+],
 "threads": [
 {
 "id": "1810970058528252888",
@@ -62545,7 +63048,9 @@
 "in": 0,
 "first": "2024-06-18",
 "last": "2024-06-18",
-"emails": [],
+"emails": [
+"bfedkevich@yandex.ru"
+],
 "threads": [
 {
 "id": "1802104697774663486",
@@ -62570,7 +63075,9 @@
 "in": 0,
 "first": "2024-06-19",
 "last": "2025-01-01",
-"emails": [],
+"emails": [
+"iahksa.com@gmail.com"
+],
 "threads": [
 {
 "id": "1820028215444713022",
@@ -63666,6 +64173,7 @@
 "first": "2024-06-18",
 "last": "2026-09-08",
 "emails": [
+"digicorp1@gmail.com",
 "stan@thorfiber.com"
 ],
 "threads": [
@@ -64180,7 +64688,9 @@
 "in": 0,
 "first": "2024-06-18",
 "last": "2024-10-15",
-"emails": [],
+"emails": [
+"khmisti39@gmail.com"
+],
 "threads": [
 {
 "id": "1812719833790796303",
@@ -64468,6 +64978,7 @@
 "first": "2024-06-18",
 "last": "2024-10-29",
 "emails": [
+"eduardosti@gmail.com",
 "emoreno@aitex.cl"
 ],
 "threads": [
@@ -64709,7 +65220,9 @@
 "in": 0,
 "first": "2024-06-18",
 "last": "2024-10-28",
-"emails": [],
+"emails": [
+"mpjlopeza@gmail.com"
+],
 "threads": [
 {
 "id": "1813881666880820631",
@@ -66008,6 +66521,7 @@
 "first": "2024-06-19",
 "last": "2025-01-22",
 "emails": [
+"svnshop@yandex.ru",
 "zakaz@svn-video.ru"
 ],
 "threads": [
@@ -66116,7 +66630,9 @@
 "in": 0,
 "first": "2024-06-18",
 "last": "2025-01-02",
-"emails": [],
+"emails": [
+"matrixcam.ru@mail.ru"
+],
 "threads": [
 {
 "id": "1820048680430037968",
@@ -66308,7 +66824,8 @@
 "first": "2024-06-19",
 "last": "2025-01-02",
 "emails": [
-"info@metsuki.com.vn"
+"info@metsuki.com.vn",
+"vugiasecurity@gmail.com"
 ],
 "threads": [
 {
@@ -66938,7 +67455,9 @@
 "in": 0,
 "first": "2024-06-17",
 "last": "2025-01-21",
-"emails": [],
+"emails": [
+"approbd@gmail.com"
+],
 "threads": [
 {
 "id": "1821571282753486824",
@@ -69138,7 +69657,9 @@
 "in": 0,
 "first": "2024-06-17",
 "last": "2025-01-02",
-"emails": [],
+"emails": [
+"privacy-lsnetworks@ml.jp.panasonic.com"
+],
 "threads": [
 {
 "id": "1820030722873754651",
@@ -69226,7 +69747,9 @@
 "in": 0,
 "first": "2024-06-17",
 "last": "2024-10-15",
-"emails": [],
+"emails": [
+"dariusz.rusiecki@gmail.com"
+],
 "threads": [
 {
 "id": "1812717059847974077",
@@ -69396,7 +69919,9 @@
 "in": 0,
 "first": "2024-06-17",
 "last": "2024-10-24",
-"emails": [],
+"emails": [
+"camerasmesquita@hotmail.com"
+],
 "threads": [
 {
 "id": "1813756007137930802",
@@ -69554,7 +70079,9 @@
 "in": 0,
 "first": "2024-06-18",
 "last": "2024-06-18",
-"emails": [],
+"emails": [
+"ahza.group@gmail.com"
+],
 "threads": [
 {
 "id": "1802110768042657288",
@@ -69770,7 +70297,9 @@
 "in": 0,
 "first": "2024-06-17",
 "last": "2025-01-17",
-"emails": [],
+"emails": [
+"cavishov@gmail.com"
+],
 "threads": [
 {
 "id": "1821310815333247937",
@@ -70064,7 +70593,9 @@
 "in": 0,
 "first": "2024-06-18",
 "last": "2024-10-25",
-"emails": [],
+"emails": [
+"yaroslav.revenko@gmail.com"
+],
 "threads": [
 {
 "id": "1813791334658998245",
@@ -70186,7 +70717,9 @@
 "in": 0,
 "first": "2024-06-18",
 "last": "2024-11-13",
-"emails": [],
+"emails": [
+"laveshsavale@gmail.com"
+],
 "threads": [
 {
 "id": "1815478859378669556",
@@ -70498,7 +71031,9 @@
 "in": 0,
 "first": "2024-06-17",
 "last": "2024-06-17",
-"emails": [],
+"emails": [
+"benjeminchin@gmail.com"
+],
 "threads": [
 {
 "id": "1802101154097617205",
@@ -70727,7 +71262,9 @@
 "in": 0,
 "first": "2024-06-18",
 "last": "2024-06-18",
-"emails": [],
+"emails": [
+"lloydpan@hotmail.com"
+],
 "threads": [
 {
 "id": "1802109967065989311",
@@ -70984,7 +71521,8 @@
 "last": "2025-01-03",
 "emails": [
 "info@nme.vn",
-"tuong.tv@nme.vn"
+"tuong.tv@nme.vn",
+"tuong.tv@outlook.com"
 ],
 "threads": [
 {
@@ -71181,6 +71719,7 @@
 "first": "2024-06-18",
 "last": "2024-10-25",
 "emails": [
+"wang.hongyu1818@gmail.com",
 "wanghongyu@glover.hu"
 ],
 "threads": [
@@ -71359,7 +71898,9 @@
 "in": 0,
 "first": "2024-06-18",
 "last": "2024-06-18",
-"emails": [],
+"emails": [
+"zanyarelc@gmail.com"
+],
 "threads": [
 {
 "id": "1802110638146721573",
@@ -72017,7 +72558,9 @@
 "in": 0,
 "first": "2024-06-18",
 "last": "2025-01-14",
-"emails": [],
+"emails": [
+"mdirphanmdirphan151@gmail.com"
+],
 "threads": [
 {
 "id": "1820832103633879668",
@@ -72982,7 +73525,9 @@
 "in": 0,
 "first": "2024-06-15",
 "last": "2024-08-09",
-"emails": [],
+"emails": [
+"vizorsanjay@gmail.com"
+],
 "threads": [
 {
 "id": "1806872572028761800",
@@ -73025,7 +73570,9 @@
 "in": 0,
 "first": "2024-06-15",
 "last": "2024-12-03",
-"emails": [],
+"emails": [
+"e.dedyaev@yandex.ru"
+],
 "threads": [
 {
 "id": "1817324391733881969",
@@ -73311,7 +73858,9 @@
 "in": 0,
 "first": "2024-06-16",
 "last": "2025-01-01",
-"emails": [],
+"emails": [
+"bastagir@hotmail.com"
+],
 "threads": [
 {
 "id": "1819919895841944312",
@@ -73602,7 +74151,9 @@
 "in": 0,
 "first": "2024-06-15",
 "last": "2024-08-09",
-"emails": [],
+"emails": [
+"sanjaytelecom@hotmail.com"
+],
 "threads": [
 {
 "id": "1806872619264004619",
@@ -73742,7 +74293,9 @@
 "in": 0,
 "first": "2024-06-15",
 "last": "2024-08-09",
-"emails": [],
+"emails": [
+"subash1982@gmail.com"
+],
 "threads": [
 {
 "id": "1806872909389961245",
@@ -74234,7 +74787,8 @@
 "first": "2024-06-16",
 "last": "2024-08-10",
 "emails": [
-"jehad@nls.ae"
+"jehad@nls.ae",
+"newlines@eim.ae"
 ],
 "threads": [
 {
@@ -74491,7 +75045,9 @@
 "in": 0,
 "first": "2024-06-15",
 "last": "2025-01-20",
-"emails": [],
+"emails": [
+"praid-city@yandex.ru"
+],
 "threads": [
 {
 "id": "1821406751494996580",
@@ -74691,7 +75247,9 @@
 "in": 0,
 "first": "2024-06-16",
 "last": "2024-12-04",
-"emails": [],
+"emails": [
+"core.and.clad@gmail.com"
+],
 "threads": [
 {
 "id": "1817419572417468244",
@@ -75389,7 +75947,9 @@
 "in": 0,
 "first": "2024-06-15",
 "last": "2024-12-30",
-"emails": [],
+"emails": [
+"d.dima.brn@mail.ru"
+],
 "threads": [
 {
 "id": "1819555225028720226",
@@ -75504,7 +76064,9 @@
 "in": 0,
 "first": "2024-06-16",
 "last": "2024-08-10",
-"emails": [],
+"emails": [
+"kwalidco@yahoo.com"
+],
 "threads": [
 {
 "id": "1806873755277078928",
@@ -75626,7 +76188,9 @@
 "in": 1,
 "first": "2024-06-16",
 "last": "2025-01-06",
-"emails": [],
+"emails": [
+"arnoldomohr@gmail.com"
+],
 "threads": [
 {
 "id": "1820211326272238047",
@@ -75800,7 +76364,9 @@
 "in": 0,
 "first": "2024-06-16",
 "last": "2024-12-30",
-"emails": [],
+"emails": [
+"polykolter@gmail.com"
+],
 "threads": [
 {
 "id": "1819581003832088977",
@@ -76084,7 +76650,9 @@
 "in": 0,
 "first": "2024-06-15",
 "last": "2025-01-01",
-"emails": [],
+"emails": [
+"kairosmusique@gmail.com"
+],
 "threads": [
 {
 "id": "1819920437028986207",
@@ -76172,7 +76740,9 @@
 "in": 0,
 "first": "2024-06-15",
 "last": "2024-08-09",
-"emails": [],
+"emails": [
+"manish_kanchi@rediffmail.com"
+],
 "threads": [
 {
 "id": "1806872174609722368",
@@ -76513,7 +77083,9 @@
 "in": 0,
 "first": "2024-06-15",
 "last": "2024-11-12",
-"emails": [],
+"emails": [
+"ashraf_waheed@hotmail.com"
+],
 "threads": [
 {
 "id": "1815415392113223911",
@@ -76583,7 +77155,9 @@
 "in": 0,
 "first": "2024-06-16",
 "last": "2024-08-10",
-"emails": [],
+"emails": [
+"plathif@hotmail.com"
+],
 "threads": [
 {
 "id": "1806874100978493783",
@@ -76886,7 +77460,9 @@
 "in": 0,
 "first": "2024-06-16",
 "last": "2024-12-30",
-"emails": [],
+"emails": [
+"amr_sha@hotmail.com"
+],
 "threads": [
 {
 "id": "1819556288018733154",
@@ -77374,7 +77950,9 @@
 "in": 0,
 "first": "2024-06-15",
 "last": "2024-08-09",
-"emails": [],
+"emails": [
+"chashmitabaroda@gmail.com"
+],
 "threads": [
 {
 "id": "1806872824524530640",
@@ -77506,7 +78084,9 @@
 "in": 0,
 "first": "2024-06-16",
 "last": "2025-01-01",
-"emails": [],
+"emails": [
+"security-st@hotmail.com"
+],
 "threads": [
 {
 "id": "1819919756241805773",
@@ -77594,7 +78174,9 @@
 "in": 0,
 "first": "2024-06-15",
 "last": "2024-12-10",
-"emails": [],
+"emails": [
+"oao-bgp@bk.ru"
+],
 "threads": [
 {
 "id": "1817947450138809384",
@@ -77673,7 +78255,10 @@
 "in": 0,
 "first": "2024-06-15",
 "last": "2024-08-09",
-"emails": [],
+"emails": [
+"hyduniversal@gmail.com",
+"uttechno@gmail.com"
+],
 "threads": [
 {
 "id": "1806872675356087829",
@@ -77716,7 +78301,9 @@
 "in": 0,
 "first": "2024-06-15",
 "last": "2024-08-10",
-"emails": [],
+"emails": [
+"karammario@gmail.com"
+],
 "threads": [
 {
 "id": "1806874307516750285",
@@ -77759,7 +78346,9 @@
 "in": 0,
 "first": "2024-06-16",
 "last": "2024-12-09",
-"emails": [],
+"emails": [
+"kaankokarcali@gmail.com"
+],
 "threads": [
 {
 "id": "1817693771911931069",
@@ -77838,7 +78427,9 @@
 "in": 0,
 "first": "2024-06-16",
 "last": "2024-12-31",
-"emails": [],
+"emails": [
+"cngs@bk.ru"
+],
 "threads": [
 {
 "id": "1819861123086521156",
@@ -78007,7 +78598,9 @@
 "in": 0,
 "first": "2024-06-16",
 "last": "2024-12-30",
-"emails": [],
+"emails": [
+"layannajd@yahoo.com"
+],
 "threads": [
 {
 "id": "1819580937050087814",
@@ -78704,7 +79297,9 @@
 "in": 0,
 "first": "2024-06-15",
 "last": "2024-11-18",
-"emails": [],
+"emails": [
+"ctservicemolise@gmail.com"
+],
 "threads": [
 {
 "id": "1815785881306749720",
@@ -79257,7 +79852,9 @@
 "in": 0,
 "first": "2024-06-15",
 "last": "2024-12-30",
-"emails": [],
+"emails": [
+"grabbel@mail.ru"
+],
 "threads": [
 {
 "id": "1819555247419051656",
@@ -79345,7 +79942,9 @@
 "in": 0,
 "first": "2024-06-16",
 "last": "2024-12-30",
-"emails": [],
+"emails": [
+"ellips@mail.ru"
+],
 "threads": [
 {
 "id": "1819580838888327322",
@@ -79639,7 +80238,10 @@
 "in": 0,
 "first": "2024-06-15",
 "last": "2024-12-23",
-"emails": [],
+"emails": [
+"secekb@yandex.ru",
+"sentinel.su@gmail.com"
+],
 "threads": [
 {
 "id": "1818952056653983365",
@@ -80030,7 +80632,9 @@
 "in": 0,
 "first": "2024-06-16",
 "last": "2024-12-30",
-"emails": [],
+"emails": [
+"alimanarhitech@gmail.com"
+],
 "threads": [
 {
 "id": "1819581248944566442",
@@ -80118,7 +80722,9 @@
 "in": 0,
 "first": "2024-06-16",
 "last": "2024-08-09",
-"emails": [],
+"emails": [
+"fastvis@eim.ae"
+],
 "threads": [
 {
 "id": "1806873521899990115",
@@ -80785,7 +81391,9 @@
 "in": 0,
 "first": "2024-06-14",
 "last": "2024-12-31",
-"emails": [],
+"emails": [
+"infoautomation18@gmail.com"
+],
 "threads": [
 {
 "id": "1819860128947868741",
@@ -81672,7 +82280,9 @@
 "in": 0,
 "first": "2024-06-15",
 "last": "2024-08-09",
-"emails": [],
+"emails": [
+"moiz1973@gmail.com"
+],
 "threads": [
 {
 "id": "1806873122866303252",
@@ -81824,7 +82434,9 @@
 "in": 0,
 "first": "2024-06-13",
 "last": "2024-12-24",
-"emails": [],
+"emails": [
+"frydman@btinternet.com"
+],
 "threads": [
 {
 "id": "1819230212496841181",
@@ -81912,7 +82524,9 @@
 "in": 0,
 "first": "2024-06-14",
 "last": "2025-01-23",
-"emails": [],
+"emails": [
+"muhd.azhari.ayie@gmail.com"
+],
 "threads": [
 {
 "id": "1821787041786411956",
@@ -82288,7 +82902,9 @@
 "in": 0,
 "first": "2024-06-15",
 "last": "2024-08-09",
-"emails": [],
+"emails": [
+"kodan.r@gmail.com"
+],
 "threads": [
 {
 "id": "1806873350225609263",
@@ -82839,7 +83455,9 @@
 "in": 0,
 "first": "2024-06-14",
 "last": "2025-01-22",
-"emails": [],
+"emails": [
+"stevensonwilliam@icloud.com"
+],
 "threads": [
 {
 "id": "1821574971926525410",
@@ -83054,7 +83672,9 @@
 "in": 0,
 "first": "2024-06-14",
 "last": "2024-12-30",
-"emails": [],
+"emails": [
+"nstcctv@gmail.com"
+],
 "threads": [
 {
 "id": "1819556101241729216",
@@ -83295,7 +83915,9 @@
 "in": 0,
 "first": "2024-06-14",
 "last": "2024-12-26",
-"emails": [],
+"emails": [
+"thiru_vajram@yahoo.com"
+],
 "threads": [
 {
 "id": "1819322180342692001",
@@ -84219,7 +84841,9 @@
 "in": 0,
 "first": "2024-06-15",
 "last": "2024-08-09",
-"emails": [],
+"emails": [
+"lohiarajesh@yahoo.co.in"
+],
 "threads": [
 {
 "id": "1806873066522567320",
@@ -84580,7 +85204,9 @@
 "in": 0,
 "first": "2024-06-15",
 "last": "2024-08-09",
-"emails": [],
+"emails": [
+"muthuvi15885@gmail.com"
+],
 "threads": [
 {
 "id": "1806873007573673124",
@@ -84732,7 +85358,9 @@
 "in": 0,
 "first": "2024-06-14",
 "last": "2025-01-23",
-"emails": [],
+"emails": [
+"cctvcamarageral@gmail.com"
+],
 "threads": [
 {
 "id": "1821842394083163937",
@@ -84917,7 +85545,9 @@
 "in": 0,
 "first": "2024-06-14",
 "last": "2024-12-23",
-"emails": [],
+"emails": [
+"rusadze@gmail.com"
+],
 "threads": [
 {
 "id": "1818952012942115157",
@@ -85099,7 +85729,9 @@
 "in": 0,
 "first": "2024-06-14",
 "last": "2024-12-30",
-"emails": [],
+"emails": [
+"dbjcontrad@hotmail.com"
+],
 "threads": [
 {
 "id": "1819581472471994782",
@@ -85487,7 +86119,9 @@
 "in": 0,
 "first": "2024-06-14",
 "last": "2024-12-26",
-"emails": [],
+"emails": [
+"saleh90214@gmail.com"
+],
 "threads": [
 {
 "id": "1819394118943955733",
@@ -85784,7 +86418,9 @@
 "in": 0,
 "first": "2024-06-14",
 "last": "2025-01-23",
-"emails": [],
+"emails": [
+"mentera7@gmail.com"
+],
 "threads": [
 {
 "id": "1821787078752945291",
@@ -85881,7 +86517,9 @@
 "in": 0,
 "first": "2024-06-14",
 "last": "2024-12-26",
-"emails": [],
+"emails": [
+"cmg199423@gmail.com"
+],
 "threads": [
 {
 "id": "1819394286187986071",
@@ -87055,7 +87693,9 @@
 "in": 0,
 "first": "2024-07-02",
 "last": "2024-12-10",
-"emails": [],
+"emails": [
+"misaltech@bigpond.com"
+],
 "threads": [
 {
 "id": "1817694292859674368",
@@ -87524,7 +88164,9 @@
 "in": 0,
 "first": "2024-07-03",
 "last": "2024-12-31",
-"emails": [],
+"emails": [
+"kwilliamstrade@gmail.com"
+],
 "threads": [
 {
 "id": "1819861549983943898",
@@ -87603,7 +88245,9 @@
 "in": 0,
 "first": "2024-07-04",
 "last": "2024-12-02",
-"emails": [],
+"emails": [
+"siamskyworth@gmail.com"
+],
 "threads": [
 {
 "id": "1817135817879598334",
@@ -87664,7 +88308,9 @@
 "in": 0,
 "first": "2024-07-02",
 "last": "2025-01-31",
-"emails": [],
+"emails": [
+"namrontan@gmail.com"
+],
 "threads": [
 {
 "id": "1822144673669969217",
@@ -87829,7 +88475,9 @@
 "in": 0,
 "first": "2024-07-31",
 "last": "2024-10-23",
-"emails": [],
+"emails": [
+"gustavoyourfriend@yahoo.com.ar"
+],
 "threads": [
 {
 "id": "1813161167885634973",
@@ -88297,6 +88945,7 @@
 "first": "2024-07-02",
 "last": "2025-10-01",
 "emails": [
+"frit3245@gmail.com",
 "sae@sae-net.com"
 ],
 "threads": [
@@ -88469,7 +89118,9 @@
 "in": 0,
 "first": "2024-07-02",
 "last": "2024-11-06",
-"emails": [],
+"emails": [
+"ndongonorbert@gmail.com"
+],
 "threads": [
 {
 "id": "1814861277491349790",
@@ -89016,7 +89667,9 @@
 "in": 0,
 "first": "2024-07-02",
 "last": "2024-11-06",
-"emails": [],
+"emails": [
+"mourad.benabdallah.mba@gmail.com"
+],
 "threads": [
 {
 "id": "1814859753613746641",
@@ -89256,7 +89909,9 @@
 "in": 0,
 "first": "2024-07-02",
 "last": "2024-11-07",
-"emails": [],
+"emails": [
+"abdo239066@gmail.com"
+],
 "threads": [
 {
 "id": "1814861245320395504",
@@ -89317,7 +89972,9 @@
 "in": 0,
 "first": "2024-07-03",
 "last": "2025-01-15",
-"emails": [],
+"emails": [
+"contact-cnmi@wanadoo.fr"
+],
 "threads": [
 {
 "id": "1821146549404190341",
@@ -89580,7 +90237,9 @@
 "in": 5,
 "first": "2024-07-02",
 "last": "2025-01-09",
-"emails": [],
+"emails": [
+"cgkamdi@gmail.com"
+],
 "threads": [
 {
 "id": "1811320230826617801",
@@ -89658,7 +90317,8 @@
 "first": "2024-07-01",
 "last": "2025-01-22",
 "emails": [
-"wayne@wave1.com.au"
+"wayne@wave1.com.au",
+"wayneand4305@icloud.com"
 ],
 "threads": [
 {
@@ -89944,7 +90604,9 @@
 "in": 0,
 "first": "2024-07-01",
 "last": "2025-01-08",
-"emails": [],
+"emails": [
+"claudiodevincenti@gmail.com"
+],
 "threads": [
 {
 "id": "1820514258079618165",
@@ -91155,7 +91817,9 @@
 "in": 0,
 "first": "2024-07-02",
 "last": "2024-12-04",
-"emails": [],
+"emails": [
+"ronaldmsimango@gmail.com"
+],
 "threads": [
 {
 "id": "1817415534421037372",
@@ -91225,7 +91889,9 @@
 "in": 0,
 "first": "2024-07-02",
 "last": "2024-12-23",
-"emails": [],
+"emails": [
+"chaudharyaneshwar@gmail.com"
+],
 "threads": [
 {
 "id": "1818929857904490905",
@@ -91398,7 +92064,10 @@
 "in": 0,
 "first": "2024-07-01",
 "last": "2025-01-15",
-"emails": [],
+"emails": [
+"hanutechsolution2018@gmail.com",
+"ramex.htech@gmail.com"
+],
 "threads": [
 {
 "id": "1820923158336992704",
@@ -91540,7 +92209,9 @@
 "in": 0,
 "first": "2024-07-02",
 "last": "2024-11-06",
-"emails": [],
+"emails": [
+"teejimu@gmail.com"
+],
 "threads": [
 {
 "id": "1814859819402485975",
@@ -92504,7 +93175,9 @@
 "in": 0,
 "first": "2024-07-02",
 "last": "2025-01-15",
-"emails": [],
+"emails": [
+"digitalcndxb@gmail.com"
+],
 "threads": [
 {
 "id": "1821146382023468499",
@@ -95742,7 +96415,8 @@
 "first": "2024-07-01",
 "last": "2024-12-30",
 "emails": [
-"info@simbacorp.com.vn"
+"info@simbacorp.com.vn",
+"infosimbacorp@gmail.com"
 ],
 "threads": [
 {
@@ -95941,7 +96615,10 @@
 "in": 0,
 "first": "2024-07-22",
 "last": "2024-10-25",
-"emails": [],
+"emails": [
+"johanthysse41@gmail.com",
+"nmc@mweb.co.za"
+],
 "threads": [
 {
 "id": "1813790977627065617",
@@ -98385,7 +99062,9 @@
 "in": 0,
 "first": "2024-07-12",
 "last": "2024-12-31",
-"emails": [],
+"emails": [
+"inbox.vienthonghanoi@gmail.com"
+],
 "threads": [
 {
 "id": "1819860091173845396",
@@ -98931,7 +99610,10 @@
 "in": 0,
 "first": "2024-07-10",
 "last": "2024-12-09",
-"emails": [],
+"emails": [
+"destek@akakce.com",
+"ik@akakce.com"
+],
 "threads": [
 {
 "id": "1817691611645580496",
@@ -99397,7 +100079,9 @@
 "in": 0,
 "first": "2024-07-10",
 "last": "2025-01-21",
-"emails": [],
+"emails": [
+"mastergsuren@gmail.com"
+],
 "threads": [
 {
 "id": "1821571125888176019",
@@ -100566,7 +101250,9 @@
 "in": 0,
 "first": "2024-07-11",
 "last": "2024-09-04",
-"emails": [],
+"emails": [
+"brijmishra07@gmail.com"
+],
 "threads": [
 {
 "id": "1809169675485613761",
@@ -100786,7 +101472,9 @@
 "in": 0,
 "first": "2024-07-11",
 "last": "2025-01-20",
-"emails": [],
+"emails": [
+"anelectrical@hotmail.com"
+],
 "threads": [
 {
 "id": "1821406480296824216",
@@ -101255,7 +101943,9 @@
 "in": 0,
 "first": "2024-07-11",
 "last": "2024-12-30",
-"emails": [],
+"emails": [
+"vietlong.telecom@gmail.com"
+],
 "threads": [
 {
 "id": "1819514444679600735",
@@ -102439,7 +103129,9 @@
 "in": 0,
 "first": "2024-07-10",
 "last": "2025-01-23",
-"emails": [],
+"emails": [
+"tiger.cctv@inbox.lv"
+],
 "threads": [
 {
 "id": "1821824338887875719",
@@ -103611,7 +104303,9 @@
 "in": 0,
 "first": "2024-07-09",
 "last": "2025-01-06",
-"emails": [],
+"emails": [
+"eznet66@naver.com"
+],
 "threads": [
 {
 "id": "1820211683851130685",
@@ -104471,13 +105165,14 @@
 "SB-1019": {
 "pending_reply": false,
 "account": "s.sagatelecom",
-"messages": 4,
-"out": 4,
-"in": 0,
+"messages": 13,
+"out": 10,
+"in": 3,
 "first": "2024-07-08",
-"last": "2024-10-02",
+"last": "2024-12-11",
 "emails": [
-"briticom@briticom.net"
+"briticom@briticom.net",
+"wadii@teltronix.net"
 ],
 "threads": [
 {
@@ -104499,6 +105194,15 @@
 "atts": 6
 },
 {
+"id": "1808971850971177361",
+"subject": "48 port switch",
+"first": "2024-09-02",
+"last": "2024-09-03",
+"in": 1,
+"out": 2,
+"atts": 5
+},
+{
 "id": "1806600751763483335",
 "subject": "5 port Ethernet Switch",
 "first": "2024-08-06",
@@ -104517,8 +105221,15 @@
 "atts": 1
 }
 ],
-"last_in": null,
-"last_out": "2024-10-02",
+"last_in": {
+"date": "2024-10-02",
+"from": "wadii@teltronix.net",
+"subject": "RE: Power Converter",
+"snippet": "Can you show us a drawing of a network where this product will fit/install?? Thanks Best Regards Wadii TELTRONIX | BRITICOM T.: +44 1604 434 186 [cid:image001.jpg@01DB14FE.8DF39080]<briticom.net> Please click here<https://www.linkedin.com/company/teltronix> to",
+"thr": "1811248068036151402",
+"auto": false
+},
+"last_out": "2024-12-11",
 "quotes": [
 {
 "date": "2024-07-08",
@@ -105087,7 +105798,9 @@
 "in": 0,
 "first": "2024-07-09",
 "last": "2025-01-09",
-"emails": [],
+"emails": [
+"luismoreta3@gmail.com"
+],
 "threads": [
 {
 "id": "1820601809872134494",
@@ -105437,7 +106150,10 @@
 "in": 0,
 "first": "2024-07-09",
 "last": "2025-01-17",
-"emails": [],
+"emails": [
+"its1998@gmail.com",
+"majedul1234@yahoo.com"
+],
 "threads": [
 {
 "id": "1821311847455933157",
@@ -106143,7 +106859,9 @@
 "in": 0,
 "first": "2024-07-10",
 "last": "2025-01-03",
-"emails": [],
+"emails": [
+"worldcns@hanmail.net"
+],
 "threads": [
 {
 "id": "1820100379829769190",
@@ -106331,7 +107049,9 @@
 "in": 0,
 "first": "2024-07-08",
 "last": "2025-01-20",
-"emails": [],
+"emails": [
+"epointinnovate@gmail.com"
+],
 "threads": [
 {
 "id": "1821406375845105214",
@@ -107349,7 +108069,9 @@
 "in": 0,
 "first": "2024-07-08",
 "last": "2025-01-20",
-"emails": [],
+"emails": [
+"dacom3000@gmail.com"
+],
 "threads": [
 {
 "id": "1821406429889358749",
@@ -108755,7 +109477,9 @@
 "in": 0,
 "first": "2024-07-06",
 "last": "2025-01-01",
-"emails": [],
+"emails": [
+"wisnu_kewel@yahoo.com"
+],
 "threads": [
 {
 "id": "1819873029957807189",
@@ -108943,7 +109667,9 @@
 "in": 0,
 "first": "2024-07-08",
 "last": "2024-12-31",
-"emails": [],
+"emails": [
+"thanhbinhtechnology@gmail.com"
+],
 "threads": [
 {
 "id": "1819859998408976067",
@@ -109014,7 +109740,8 @@
 "first": "2024-07-08",
 "last": "2024-11-08",
 "emails": [
-"cdma092@piolink.com"
+"cdma092@piolink.com",
+"gooleebiz@gmail.com"
 ],
 "threads": [
 {
@@ -109752,7 +110479,9 @@
 "in": 0,
 "first": "2024-07-08",
 "last": "2025-01-03",
-"emails": [],
+"emails": [
+"leeth952@naver.com"
+],
 "threads": [
 {
 "id": "1820100461938662432",
@@ -110086,7 +110815,9 @@
 "in": 0,
 "first": "2024-07-06",
 "last": "2024-12-30",
-"emails": [],
+"emails": [
+"wenmdc@gmail.com"
+],
 "threads": [
 {
 "id": "1819556180371013857",
@@ -110347,7 +111078,9 @@
 "in": 0,
 "first": "2024-07-06",
 "last": "2024-12-30",
-"emails": [],
+"emails": [
+"mohammad.alipour57@gmail.com"
+],
 "threads": [
 {
 "id": "1819580805149043097",
@@ -110488,6 +111221,87 @@
 ],
 "attachments": []
 },
+"SB-1339": {
+"pending_reply": false,
+"account": "s.sagatelecom",
+"messages": 10,
+"out": 6,
+"in": 4,
+"first": "2024-07-07",
+"last": "2024-12-12",
+"emails": [
+"joash@switchcom.co.za",
+"kevin@switchcom.co.za",
+"sales@switchcom.co.za"
+],
+"threads": [
+{
+"id": "1818107986485238596",
+"subject": "48 Port PoE Managed Switch",
+"first": "2024-12-12",
+"last": "2024-12-12",
+"in": 2,
+"out": 1,
+"atts": 5
+},
+{
+"id": "1815499622472732185",
+"subject": "8 Port Industrial PoE Switch",
+"first": "2024-11-15",
+"last": "2024-11-15",
+"in": 0,
+"out": 1,
+"atts": 1
+},
+{
+"id": "1812872239096760317",
+"subject": "10G Media Converter",
+"first": "2024-10-15",
+"last": "2024-10-15",
+"in": 0,
+"out": 1,
+"atts": 1
+},
+{
+"id": "1809788404618607103",
+"subject": "Power Converter",
+"first": "2024-09-10",
+"last": "2024-09-10",
+"in": 0,
+"out": 1,
+"atts": 1
+},
+{
+"id": "1806986599839101125",
+"subject": "Passive PoE Switch",
+"first": "2024-08-16",
+"last": "2024-08-16",
+"in": 3,
+"out": 3,
+"atts": 7
+},
+{
+"id": "1803716705463838957",
+"subject": "10G fiber media converter",
+"first": "2024-07-07",
+"last": "2024-07-08",
+"in": 1,
+"out": 1,
+"atts": 3
+}
+],
+"last_in": {
+"date": "2024-12-12",
+"from": "sales@switchcom.co.za",
+"subject": "RE: 48 Port PoE Managed Switch",
+"snippet": "Hi there, Thanks for reaching out! We’ve received your request and are already working on getting the best pricing for you. Rest assured, your request is a priority for us, and we'll have a response to you as soon as possible. We appreciate you choosing Switch",
+"thr": "1818107986485238596",
+"auto": false
+},
+"last_out": "2024-12-12",
+"quotes": [],
+"attachments": []
+},
 "SC-1909": {
 "pending_reply": false,
 "account": "s.sagatelecom",
@@ -110496,7 +111310,9 @@
 "in": 0,
 "first": "2024-07-08",
 "last": "2024-12-24",
-"emails": [],
+"emails": [
+"thekbinfotech@gmail.com"
+],
 "threads": [
 {
 "id": "1819018781618626237",
@@ -111106,7 +111922,8 @@
 "last": "2025-01-24",
 "emails": [
 "vadim@sbvs.ru",
-"video@svp.ru"
+"video@svp.ru",
+"vladros@inbox.ru"
 ],
 "threads": [
 {
@@ -111205,7 +112022,9 @@
 "in": 0,
 "first": "2024-07-05",
 "last": "2024-08-05",
-"emails": [],
+"emails": [
+"contact.spyvision@gmail.com"
+],
 "threads": [
 {
 "id": "1806509645689927119",
@@ -111239,7 +112058,9 @@
 "in": 0,
 "first": "2024-07-05",
 "last": "2025-01-13",
-"emails": [],
+"emails": [
+"msp1145@gmail.com"
+],
 "threads": [
 {
 "id": "1820767512393436030",
@@ -111397,7 +112218,9 @@
 "in": 0,
 "first": "2024-07-05",
 "last": "2025-01-20",
-"emails": [],
+"emails": [
+"bpotay@gmail.com"
+],
 "threads": [
 {
 "id": "1821404047300310813",
@@ -113096,7 +113919,9 @@
 "in": 0,
 "first": "2024-07-05",
 "last": "2024-12-23",
-"emails": [],
+"emails": [
+"rbltny@gmail.com"
+],
 "threads": [
 {
 "id": "1818952109098252528",
@@ -113284,7 +114109,9 @@
 "in": 0,
 "first": "2024-07-05",
 "last": "2024-12-30",
-"emails": [],
+"emails": [
+"oleg@mail.ru"
+],
 "threads": [
 {
 "id": "1819556137830206844",
@@ -114478,6 +115305,7 @@
 "first": "2024-07-05",
 "last": "2026-10-10",
 "emails": [
+"jonkjetilgrimsrud@gmail.com",
 "salg@fiberworks.no"
 ],
 "threads": [
@@ -115622,7 +116450,9 @@
 "in": 0,
 "first": "2024-07-05",
 "last": "2024-12-31",
-"emails": [],
+"emails": [
+"faraon2000ck@gmail.com"
+],
 "threads": [
 {
 "id": "1819860842579308138",
@@ -116145,7 +116975,9 @@
 "in": 2,
 "first": "2024-07-03",
 "last": "2025-01-16",
-"emails": [],
+"emails": [
+"eugeniobongo@gmail.com"
+],
 "threads": [
 {
 "id": "1821146505921873681",
@@ -116801,7 +117633,11 @@
 "in": 0,
 "first": "2024-07-04",
 "last": "2025-01-01",
-"emails": [],
+"emails": [
+"as-pr@taiwan.messefrankfurt.com",
+"inging.chen@taiwan.messefrankfurt.com",
+"william.pao@taiwan.messefrankfurt.com"
+],
 "threads": [
 {
 "id": "1819862372087251833",
@@ -118025,7 +118861,9 @@
 "in": 0,
 "first": "2024-07-03",
 "last": "2024-12-03",
-"emails": [],
+"emails": [
+"damis_maj@yahoo.fr"
+],
 "threads": [
 {
 "id": "1817175532162058430",
@@ -118156,7 +118994,9 @@
 "in": 0,
 "first": "2024-07-03",
 "last": "2025-01-24",
-"emails": [],
+"emails": [
+"7772477@mail.ru"
+],
 "threads": [
 {
 "id": "1821917672247856462",
@@ -118345,7 +119185,9 @@
 "in": 0,
 "first": "2024-07-03",
 "last": "2025-01-13",
-"emails": [],
+"emails": [
+"matchdigisol@gmail.com"
+],
 "threads": [
 {
 "id": "1820676263816120747",
@@ -118600,7 +119442,9 @@
 "in": 0,
 "first": "2024-07-04",
 "last": "2025-01-19",
-"emails": [],
+"emails": [
+"syukronmakmun14@gmail.com"
+],
 "threads": [
 {
 "id": "1821403439646713245",
@@ -121272,7 +122116,9 @@
 "in": 0,
 "first": "2024-07-02",
 "last": "2025-01-23",
-"emails": [],
+"emails": [
+"lagicctv@gmail.com"
+],
 "threads": [
 {
 "id": "1821786926647268619",
@@ -122026,7 +122872,9 @@
 "in": 0,
 "first": "2024-08-01",
 "last": "2025-01-15",
-"emails": [],
+"emails": [
+"kulibin92@gmail.com"
+],
 "threads": [
 {
 "id": "1821146295237159826",
@@ -122199,7 +123047,9 @@
 "in": 0,
 "first": "2024-08-23",
 "last": "2024-12-23",
-"emails": [],
+"emails": [
+"mohammadmhagghhhj@gmail.com"
+],
 "threads": [
 {
 "id": "1818220760826771684",
@@ -122922,7 +123772,9 @@
 "in": 0,
 "first": "2024-08-17",
 "last": "2024-08-17",
-"emails": [],
+"emails": [
+"b.medvedev11@mail.ru"
+],
 "threads": [
 {
 "id": "1807615948018321627",
@@ -122981,7 +123833,10 @@
 "in": 0,
 "first": "2024-08-15",
 "last": "2024-10-28",
-"emails": [],
+"emails": [
+"lcfoong@gmail.com",
+"padumakmur@gmail.com"
+],
 "threads": [
 {
 "id": "1813791895774930442",
@@ -123049,7 +123904,9 @@
 "in": 0,
 "first": "2024-08-15",
 "last": "2024-11-20",
-"emails": [],
+"emails": [
+"prakashghartii62@gmail.com"
+],
 "threads": [
 {
 "id": "1816141195242998534",
@@ -123249,7 +124106,9 @@
 "in": 0,
 "first": "2024-08-12",
 "last": "2025-01-08",
-"emails": [],
+"emails": [
+"hitojp76@gmail.com"
+],
 "threads": [
 {
 "id": "1820514470138115399",
@@ -123448,7 +124307,9 @@
 "in": 2,
 "first": "2024-08-03",
 "last": "2025-01-18",
-"emails": [],
+"emails": [
+"justinmwangi100@gmail.com"
+],
 "threads": [
 {
 "id": "1820769719587787749",
@@ -123525,7 +124386,9 @@
 "in": 1,
 "first": "2024-08-08",
 "last": "2024-08-08",
-"emails": [],
+"emails": [
+"kajubia@gmail.com"
+],
 "threads": [
 {
 "id": "1805541117772121943",
@@ -124020,7 +124883,9 @@
 "in": 0,
 "first": "2024-09-16",
 "last": "2024-09-16",
-"emails": [],
+"emails": [
+"abilinholuz@gmail.com"
+],
 "threads": [
 {
 "id": "1810177066406800924",
@@ -124045,7 +124910,9 @@
 "in": 0,
 "first": "2024-09-16",
 "last": "2024-10-25",
-"emails": [],
+"emails": [
+"shamiljansen@hotmail.com"
+],
 "threads": [
 {
 "id": "1813757424154649115",
@@ -124217,7 +125084,9 @@
 "in": 0,
 "first": "2024-09-09",
 "last": "2024-09-09",
-"emails": [],
+"emails": [
+"dauren.boltaev@mail.ru"
+],
 "threads": [
 {
 "id": "1809642353390659820",
@@ -124242,7 +125111,10 @@
 "in": 0,
 "first": "2024-09-10",
 "last": "2024-10-15",
-"emails": [],
+"emails": [
+"engineeransarabbas@gmail.com",
+"engineeransarabbas@yahoo.com"
+],
 "threads": [
 {
 "id": "1812719656550488008",
@@ -124277,6 +125149,7 @@
 "first": "2024-09-09",
 "last": "2024-10-11",
 "emails": [
+"cirruslink1983@gmail.com",
 "rosorio@rym-tech.net"
 ],
 "threads": [
@@ -124312,7 +125185,9 @@
 "in": 0,
 "first": "2024-09-09",
 "last": "2024-10-15",
-"emails": [],
+"emails": [
+"eletrotecnicasoares@bol.com.br"
+],
 "threads": [
 {
 "id": "1812872644422410825",
@@ -124347,7 +125222,8 @@
 "first": "2024-09-09",
 "last": "2025-01-07",
 "emails": [
-"david@comred.pe"
+"david@comred.pe",
+"midavo@gmail.com"
 ],
 "threads": [
 {
@@ -124663,7 +125539,9 @@
 "in": 0,
 "first": "2024-09-09",
 "last": "2024-10-15",
-"emails": [],
+"emails": [
+"susheeltinnu60@gmail.com"
+],
 "threads": [
 {
 "id": "1812717400385182771",
@@ -125225,7 +126103,9 @@
 "in": 1,
 "first": "2024-10-30",
 "last": "2025-02-07",
-"emails": [],
+"emails": [
+"chk999@outlook.com"
+],
 "threads": [
 {
 "id": "1823098498535230919",
@@ -125943,7 +126823,9 @@
 "in": 0,
 "first": "2024-10-15",
 "last": "2024-10-15",
-"emails": [],
+"emails": [
+"belalsherwans@gmail.com"
+],
 "threads": [
 {
 "id": "1812718929053435900",
@@ -125968,7 +126850,9 @@
 "in": 0,
 "first": "2024-10-15",
 "last": "2024-10-15",
-"emails": [],
+"emails": [
+"vps.vps1991@gmail.com"
+],
 "threads": [
 {
 "id": "1812719686478445987",
@@ -125993,7 +126877,9 @@
 "in": 0,
 "first": "2024-10-15",
 "last": "2024-11-13",
-"emails": [],
+"emails": [
+"mintusony@gmail.com"
+],
 "threads": [
 {
 "id": "1815478751894619383",
@@ -126718,7 +127604,9 @@
 "in": 0,
 "first": "2024-11-20",
 "last": "2024-11-20",
-"emails": [],
+"emails": [
+"pchhatra02@gmail.com"
+],
 "threads": [
 {
 "id": "1816141006791268929",
@@ -126743,7 +127631,9 @@
 "in": 0,
 "first": "2024-11-20",
 "last": "2025-01-10",
-"emails": [],
+"emails": [
+"semtec2017@gmail.com"
+],
 "threads": [
 {
 "id": "1820675393605524405",
@@ -126787,6 +127677,7 @@
 "first": "2024-11-20",
 "last": "2024-11-20",
 "emails": [
+"aarstyan@gmail.com",
 "sales@bsn-system.com"
 ],
 "threads": [
@@ -126813,7 +127704,9 @@
 "in": 0,
 "first": "2024-11-20",
 "last": "2025-01-06",
-"emails": [],
+"emails": [
+"angelorecto@gmail.com"
+],
 "threads": [
 {
 "id": "1820209818974444545",
@@ -126899,7 +127792,9 @@
 "in": 0,
 "first": "2024-11-20",
 "last": "2025-01-09",
-"emails": [],
+"emails": [
+"diamondstar.sopheap@gmail.com"
+],
 "threads": [
 {
 "id": "1820558509820772506",
@@ -126969,7 +127864,9 @@
 "in": 1,
 "first": "2024-11-03",
 "last": "2025-01-06",
-"emails": [],
+"emails": [
+"vienthonggiatotvn@gmail.com"
+],
 "threads": [
 {
 "id": "1820211627084401773",
@@ -127287,7 +128184,9 @@
 "in": 0,
 "first": "2024-11-10",
 "last": "2025-02-05",
-"emails": [],
+"emails": [
+"sibandaprofp@gmail.com"
+],
 "threads": [
 {
 "id": "1822596157977341783",
@@ -127391,7 +128290,9 @@
 "in": 0,
 "first": "2024-11-10",
 "last": "2025-02-05",
-"emails": [],
+"emails": [
+"sergio.deza@gmail.com"
+],
 "threads": [
 {
 "id": "1822596208513415991",
@@ -127443,7 +128344,10 @@
 "in": 0,
 "first": "2024-11-11",
 "last": "2024-11-11",
-"emails": [],
+"emails": [
+"usman2c@hotmail.com",
+"usman65@gmail.com"
+],
 "threads": [
 {
 "id": "1815437652094908185",
@@ -127651,7 +128555,9 @@
 "in": 0,
 "first": "2024-11-10",
 "last": "2025-01-05",
-"emails": [],
+"emails": [
+"lezdco@gmail.com"
+],
 "threads": [
 {
 "id": "1820148276196236937",
@@ -127790,7 +128696,9 @@
 "in": 0,
 "first": "2024-11-10",
 "last": "2025-02-05",
-"emails": [],
+"emails": [
+"amin.aboud@gmail.com"
+],
 "threads": [
 {
 "id": "1822596257161069555",
@@ -128206,7 +129114,9 @@
 "in": 0,
 "first": "2024-11-07",
 "last": "2024-11-07",
-"emails": [],
+"emails": [
+"thuanan.sales1@gmail.com"
+],
 "threads": [
 {
 "id": "1814588071968084050",
@@ -128231,7 +129141,9 @@
 "in": 1,
 "first": "2024-11-08",
 "last": "2025-01-04",
-"emails": [],
+"emails": [
+"kosovaku@gmail.com"
+],
 "threads": [
 {
 "id": "1820148000954692793",
@@ -128290,7 +129202,9 @@
 "in": 0,
 "first": "2024-11-07",
 "last": "2025-02-03",
-"emails": [],
+"emails": [
+"maskman5821@nate.com"
+],
 "threads": [
 {
 "id": "1822376133255766226",
@@ -129138,7 +130052,9 @@
 "in": 0,
 "first": "2024-12-30",
 "last": "2024-12-30",
-"emails": [],
+"emails": [
+"ashu.ent@gmail.com"
+],
 "threads": [
 {
 "id": "1819232014822407006",
@@ -129878,7 +130794,9 @@
 "in": 0,
 "first": "2024-12-12",
 "last": "2024-12-12",
-"emails": [],
+"emails": [
+"lunafernandezfhoqzi@hotmail.com"
+],
 "threads": [
 {
 "id": "1818108982655881898",
@@ -129938,7 +130856,8 @@
 "first": "2024-12-10",
 "last": "2024-12-10",
 "emails": [
-"projects@keme-tec.com"
+"projects@keme-tec.com",
+"rab444rab@yahoo.com"
 ],
 "threads": [
 {
@@ -129971,7 +130890,9 @@
 "in": 0,
 "first": "2024-12-11",
 "last": "2024-12-11",
-"emails": [],
+"emails": [
+"korino77@naver.com"
+],
 "threads": [
 {
 "id": "1818023677664881336",
@@ -130025,6 +130946,7 @@
 "first": "2024-12-11",
 "last": "2025-02-05",
 "emails": [
+"insuner@hanmail.net",
 "kis@hstw.net"
 ],
 "threads": [
@@ -130060,7 +130982,9 @@
 "in": 0,
 "first": "2024-12-10",
 "last": "2024-12-10",
-"emails": [],
+"emails": [
+"bablupoddar.911@gmail.com"
+],
 "threads": [
 {
 "id": "1817750513736663020",
@@ -130085,7 +131009,9 @@
 "in": 0,
 "first": "2024-12-10",
 "last": "2024-12-10",
-"emails": [],
+"emails": [
+"mahboobulhaq853@gmail.com"
+],
 "threads": [
 {
 "id": "1817750455643094601",
@@ -130229,7 +131155,9 @@
 "in": 0,
 "first": "2024-12-10",
 "last": "2024-12-10",
-"emails": [],
+"emails": [
+"helpdesk.rbcs@gmail.com"
+],
 "threads": [
 {
 "id": "1817749861539413229",
@@ -130558,7 +131486,9 @@
 "in": 0,
 "first": "2024-12-10",
 "last": "2024-12-10",
-"emails": [],
+"emails": [
+"apithaliya@gmail.com"
+],
 "threads": [
 {
 "id": "1817750008072002680",
@@ -130645,7 +131575,9 @@
 "in": 0,
 "first": "2024-12-09",
 "last": "2024-12-09",
-"emails": [],
+"emails": [
+"information@corp.auction.co.kr"
+],
 "threads": [
 {
 "id": "1817602365361087465",
@@ -130794,7 +131726,9 @@
 "in": 0,
 "first": "2024-12-02",
 "last": "2025-01-02",
-"emails": [],
+"emails": [
+"kinhdoanh.thc1@gmail.com"
+],
 "threads": [
 {
 "id": "1819582182771224491",
@@ -130994,7 +131928,9 @@
 "in": 0,
 "first": "2025-01-08",
 "last": "2025-01-31",
-"emails": [],
+"emails": [
+"lihongdaum@hanmail.net"
+],
 "threads": [
 {
 "id": "1822144537103715198",
@@ -131172,40 +132108,6 @@
 "quotes": [],
 "attachments": []
 },
-"SC-623": {
-"pending_reply": true,
-"account": "s.sagatelecom",
-"messages": 1,
-"out": 0,
-"in": 1,
-"first": "2025-01-27",
-"last": "2025-01-27",
-"emails": [
-"shop@murrelektronik.com"
-],
-"threads": [
-{
-"id": "1822008593065399821",
-"subject": "24 Port Fiber Switch",
-"first": "2025-01-26",
-"last": "2025-01-27",
-"in": 1,
-"out": 1,
-"atts": 6
-}
-],
-"last_in": {
-"date": "2025-01-27",
-"from": "shop@murrelektronik.com",
-"subject": "AW: 24 Port Fiber Switch",
-"snippet": "Dear Customer, Thank you for your interest in our products. We need you location please first to forward your request to the right person. Thank you. Your Shop - Team [cid:image002.png@01DB7098.7B5B4300]<https://www.murrelektronik.com/de/> [cid:image003.png@01",
-"thr": "1822008593065399821",
-"auto": false
-},
-"last_out": "",
-"quotes": [],
-"attachments": []
-},
 "SC-2008": {
 "pending_reply": true,
 "account": "s.sagatelecom",
@@ -131245,6 +132147,40 @@
 "ctx": "Price: 240usd/pc"
 }
 ],
+"attachments": []
+},
+"SC-623": {
+"pending_reply": true,
+"account": "s.sagatelecom",
+"messages": 1,
+"out": 0,
+"in": 1,
+"first": "2025-01-27",
+"last": "2025-01-27",
+"emails": [
+"shop@murrelektronik.com"
+],
+"threads": [
+{
+"id": "1822008593065399821",
+"subject": "24 Port Fiber Switch",
+"first": "2025-01-26",
+"last": "2025-01-27",
+"in": 1,
+"out": 1,
+"atts": 6
+}
+],
+"last_in": {
+"date": "2025-01-27",
+"from": "shop@murrelektronik.com",
+"subject": "AW: 24 Port Fiber Switch",
+"snippet": "Dear Customer, Thank you for your interest in our products. We need you location please first to forward your request to the right person. Thank you. Your Shop - Team [cid:image002.png@01DB7098.7B5B4300]<https://www.murrelektronik.com/de/> [cid:image003.png@01",
+"thr": "1822008593065399821",
+"auto": false
+},
+"last_out": "",
+"quotes": [],
 "attachments": []
 },
 "SB-259": {
@@ -131398,7 +132334,9 @@
 "in": 0,
 "first": "2025-01-25",
 "last": "2025-01-25",
-"emails": [],
+"emails": [
+"vermarhemi@hotmail.com"
+],
 "threads": [
 {
 "id": "1821938361185413755",
@@ -132147,6 +133085,7 @@
 "first": "2025-01-22",
 "last": "2025-01-22",
 "emails": [
+"asktolanpro@gmail.com",
 "sales@lanpro.com"
 ],
 "threads": [
@@ -133103,7 +134042,9 @@
 "in": 1,
 "first": "2025-01-15",
 "last": "2025-01-16",
-"emails": [],
+"emails": [
+"joemar.baquiran@gmail.com"
+],
 "threads": [
 {
 "id": "1820148276196236937",
@@ -134238,7 +135179,9 @@
 "in": 0,
 "first": "2025-01-07",
 "last": "2025-01-07",
-"emails": [],
+"emails": [
+"oceaninsky@gmail.com"
+],
 "threads": [
 {
 "id": "1820216755886020535",
@@ -134554,7 +135497,9 @@
 "in": 0,
 "first": "2025-02-12",
 "last": "2025-02-12",
-"emails": [],
+"emails": [
+"tjcomputer2003@gmail.com"
+],
 "threads": [
 {
 "id": "1822595731613840458",
@@ -134861,7 +135806,9 @@
 "in": 0,
 "first": "2025-02-05",
 "last": "2025-02-05",
-"emails": [],
+"emails": [
+"focus.sys@hotmail.com"
+],
 "threads": [
 {
 "id": "1822595896921719402",
@@ -134913,7 +135860,9 @@
 "in": 0,
 "first": "2025-02-05",
 "last": "2025-02-05",
-"emails": [],
+"emails": [
+"mdakhtar943.phusro@gmail.com"
+],
 "threads": [
 {
 "id": "1822596120040235432",
@@ -134992,7 +135941,9 @@
 "in": 1,
 "first": "2025-04-12",
 "last": "2026-09-08",
-"emails": [],
+"emails": [
+"anniepalatoni@gmail.com"
+],
 "threads": [
 {
 "id": "1873137272239046460",
@@ -135167,30 +136118,37 @@
 "quotes": [],
 "attachments": []
 },
-"SA-018": {
+"SB-1337": {
 "pending_reply": false,
 "account": "s.sagatelecom",
-"messages": 1,
-"out": 1,
-"in": 0,
-"first": "2026-06-22",
-"last": "2026-06-22",
+"messages": 9,
+"out": 5,
+"in": 4,
+"first": "2026-09-28",
+"last": "2026-10-19",
 "emails": [
-"info@germany24.com.ua"
+"ifolayan@millievolution.com"
 ],
 "threads": [
 {
-"id": "1868593997924855492",
-"subject": "Firmware 7.5 L2+ Feature Update",
-"first": "2026-06-22",
-"last": "2026-06-22",
-"in": 0,
-"out": 1,
-"atts": 2
+"id": "1877540503391577137",
+"subject": "24 Port PoE Managed Switch",
+"first": "2026-09-28",
+"last": "2026-10-19",
+"in": 4,
+"out": 5,
+"atts": 13
 }
 ],
-"last_in": null,
-"last_out": "2026-06-22",
+"last_in": {
+"date": "2026-10-17",
+"from": "ifolayan@millievolution.com",
+"subject": "Re: 24 Port PoE Managed Switch",
+"snippet": "Hello Simon, My address is : Iyiola Folayan Milliseconds Evolution Limited. 128 City Road, London, United Kingdom, EC1V 2NX <https://www.google.com/search?kgmid=%2Fg%2F11b8v9qjg8> Regards Iyiola Sent from Outlook for Android <https://aka.ms/AAb9ysg>",
+"thr": "1877540503391577137",
+"auto": true
+},
+"last_out": "2026-10-19",
 "quotes": [],
 "attachments": []
 },
@@ -135760,6 +136718,41 @@
 "ctx": "*Price: 180USD/PC*"
 }
 ],
+"attachments": []
+},
+"SB-1336": {
+"pending_reply": false,
+"account": "s.sagatelecom",
+"messages": 4,
+"out": 3,
+"in": 1,
+"first": "2026-10-03",
+"last": "2026-10-19",
+"emails": [
+"cfikes@fikesmedia.com",
+"sales@fikesmedia.com"
+],
+"threads": [
+{
+"id": "1878016526439049513",
+"subject": "24 Port PoE Managed Switch",
+"first": "2026-10-03",
+"last": "2026-10-19",
+"in": 1,
+"out": 3,
+"atts": 9
+}
+],
+"last_in": {
+"date": "2026-10-03",
+"from": "cfikes@fikesmedia.com",
+"subject": "Re: 24 Port PoE Managed Switch",
+"snippet": "This actually does have my interest. What levels of customization are offered? I would be interested if there was api availability for controller integration. If you have some specification sheets and models available I would love to see them. Thank you Christ",
+"thr": "1878016526439049513",
+"auto": false
+},
+"last_out": "2026-10-19",
+"quotes": [],
 "attachments": []
 },
 "SC-1047": {

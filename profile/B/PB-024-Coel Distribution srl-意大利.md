@@ -1,6 +1,6 @@
 # Coel Distribution srl
 
-> **评级 B**　|　意大利 · Muggiò (MB)　|　档案编号 `PB-024`　|　优先级 ★★☆　|　状态：00-未触达
+> **评级 B**　|　意大利 · Muggiò (MB)　|　档案编号 `PB-024`　|　优先级 ★★☆　|　状态：10-已触达(S邮箱 去1·0回复)
 >
 > **类型**：分销商（1994 年起；结构化布线、网络、电信与连接产品分销，服务安装商与系统集成商；11–50 人，营收 €9.4M 2023）　|　**PLANET 关联**：官网品牌页「Planet Networking」+ 产品页 IGS-801T（COD. COEL PLT0086）、WGS-803、WGS-5225-8T2SV 在售；首页品牌墙列 Planet Networking　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
@@ -14,9 +14,9 @@ type: 分销商（1994 年起；结构化布线、网络、电信与连接产品
 planet_models: ["IGS-801T", "WGS-803", "WGS-5225-8T2SV", "IGS-614HPT（品牌页 4 PoE+2 SFP）"]
 p1: STI-288DGGPM
 price_tier: 20%
-stage: 00-未触达
+stage: 10-已触达(S邮箱 去1·0回复)
 mikrotik_ref: A-191
-updated: 2026-10-20
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -166,4 +166,4 @@ updated: 2026-10-20
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ　|　原始证据：batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ　|　原始证据：batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-22*

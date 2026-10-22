@@ -19,7 +19,7 @@ replies: 3
 followups: 22
 first_contact: 2024-03-21
 last_contact: 2025-12-29
-s_mail: 1 msgs (out 1 / in 0), 2026-06-22 -> 2026-06-22
+s_mail: 32 msgs (out 28 / in 4), 2024-05-29 -> 2026-09-08
 p1: STI-288GP
 price_tier: 20%
 research: done
@@ -130,13 +130,25 @@ updated: 2026-10-22
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：1 封（去 1 / 来 0）　|　**期间**：2026-06-22 → 2026-06-22　|　**最后去信**：2026-06-22
-- **对方邮箱**：info@germany24.com.ua
-- 对方从未回信（全部为我方去信）
+- **账号**：s.sagatelecom　|　**邮件**：32 封（去 28 / 来 4）　|　**期间**：2024-05-29 → 2026-09-08　|　**最后去信**：2026-09-08
+- **对方邮箱**：info@germany24.com.ua、sergiy.khodun@gmail.com
+- **最后一封来信**：2024-11-22 sergiy.khodun@gmail.com「RE: Samples order form DI」：Hi Simon, Tnx for your replay. As far as I understand, your company is not a manufacturer and does not have its own production facilities. You operate in cooperation with other manufacturers, right? BR Sergiy Khodun LLC DEUTSCHE IMPORT 02068 Kiev, Ukraine str.
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
+| 24 Port PoE Managed Switch | 2026-09-08 | 2026-09-08 | 0 | 1 | 1 |
+| 24 Port 10G SFP+ Switch | 2026-07-20 | 2026-07-20 | 0 | 1 | 1 |
 | Firmware 7.5 L2+ Feature Update | 2026-06-22 | 2026-06-22 | 0 | 1 | 2 |
+| Updated Ethernet Switches Links | 2026-03-02 | 2026-03-02 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-29 | 2026-01-29 | 0 | 1 | 1 |
+| Optional Marvell Chipset Solutions | 2025-12-29 | 2025-12-29 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-27 | 2025-11-27 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-29 | 2025-10-29 | 0 | 1 | 1 |
+| 8 Port Industrial PoE Switch | 2025-09-30 | 2025-09-30 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2025-08-27 | 2025-08-27 | 0 | 1 | 1 |
+| 90W PoE Managed Switch | 2025-07-28 | 2025-07-28 | 0 | 1 | 1 |
+| Marvell Alleycat5 Solution | 2025-06-25 | 2025-06-25 | 0 | 1 | 1 |
+| …共 23 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 联系方式（已有 · 原值照录）
 

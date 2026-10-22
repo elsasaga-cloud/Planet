@@ -1,6 +1,6 @@
 # Fiber24 (shop.fiber24.net)
 
-> **评级 B**　|　德国 · —（德国发货）　|　档案编号 `PB-037`　|　优先级 ★★☆　|　状态：00-未触达
+> **评级 B**　|　德国 · —（德国发货）　|　档案编号 `PB-037`　|　优先级 ★★☆　|　状态：10-已触达(S邮箱 去2·0回复)
 >
 > **类型**：分销商/电商 + 自有品牌（光纤与网络产品网店；PLANET 工业交换机全系 + 自有品牌产品线）　|　**PLANET 关联**：网店 PLANET 厂商页与 IGS-5225 全系（IGS-5225-4P2S €293 / 8P2T2S €469 / 8T2S2X €540 / 4UP1T2S）；自述「We carry brands such as PLANET, as well as a large selection of our own brand products」　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
@@ -14,9 +14,9 @@ type: 分销商/电商 + 自有品牌（光纤与网络产品网店；PLANET 工
 planet_models: ["IGS-5225-4P2S", "IGS-5225-8P2T2S", "IGS-5225-8T2S2X", "IGS-5225-4UP1T2S", "IGS-5225-4T2S", "IGS-620TF"]
 p1: STI-288DGGPM
 price_tier: 30%
-stage: 00-未触达
+stage: 10-已触达(S邮箱 去2·0回复)
 mikrotik_ref: A-480
-updated: 2026-10-20
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -165,4 +165,4 @@ updated: 2026-10-20
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL　|　原始证据：batch/2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL　|　原始证据：batch/2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json　|　渲染：scripts/render.py 2026-10-22*

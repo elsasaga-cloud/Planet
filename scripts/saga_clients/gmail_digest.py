@@ -24,10 +24,21 @@ def main():
         threads = json.load(open(os.path.join(base, 'threads.json'), encoding='utf-8'))['threads']
         # 当前 entities.json 的域名 → 编号（比入库时的 clients_link 新：补录客户也能对上）
         ents = json.load(open(os.path.join(DATA, 'entities.json'), encoding='utf-8'))
-        dom2 = {}
+        dom2, em2 = {}, {}
         for e in ents:
             for d in e.get('domains') or []:
                 dom2[d.lower()] = e['code']
+            for x in (e.get('emails') or []) + (e.get('corp_emails') or []):
+                em2[x.lower()] = e['code']        # 邮箱级匹配：免费邮箱（gmail 等）客户靠这个对上
+        # 人工确认的邮箱/域名别名（data/saga_clients/邮箱别名.csv：编号,邮箱或域名,依据,日期）——同一客户换邮箱 / 用私人邮箱 / 第二域名
+        alias_p = os.path.join(DATA, '邮箱别名.csv')
+        if os.path.exists(alias_p):
+            for r in csv.DictReader(open(alias_p, encoding='utf-8-sig')):
+                k = (r.get('邮箱或域名') or '').strip().lower()
+                code = (r.get('编号') or '').strip()
+                if not k or not code:
+                    continue
+                (em2 if '@' in k else dom2)[k] = code
         own = {'gmail.com', 'googlemail.com', 'sagatelecom.com', 'sagatelecom.com.cn', 'sagatele.com'}
         stat = defaultdict(lambda: {'messages': 0, 'out': 0, 'in': 0, 'first': '9999', 'last': '0000', 'emails': set(), 'threads': set()})
         last_in, last_out, atts = {}, {}, defaultdict(set)
@@ -37,8 +48,11 @@ def main():
                 people = [m['from']] + (m.get('to') or []) + (m.get('cc') or [])
                 codes = set(m.get('client') or [])
                 for x in people:
-                    dmn = x['e'].split('@')[-1].lower()
-                    if dmn in dom2 and dmn not in own:
+                    em = x['e'].lower()
+                    dmn = em.split('@')[-1]
+                    if em in em2:
+                        codes.add(em2[em])
+                    elif dmn in dom2 and dmn not in own:
                         codes.add(dom2[dmn])
                 if not codes:
                     continue
@@ -51,9 +65,10 @@ def main():
                     st['last'] = max(st['last'], d)
                     st['threads'].add(m['thr'])
                     for x in people:
-                        dmn = x['e'].split('@')[-1].lower()
-                        if dom2.get(dmn) == code:
-                            st['emails'].add(x['e'].lower())
+                        em = x['e'].lower()
+                        dmn = em.split('@')[-1]
+                        if em2.get(em) == code or (dom2.get(dmn) == code and dmn not in own):
+                            st['emails'].add(em)
                     if m.get('dir') == 'in':
                         t = (m.get('text') or '')
                         qa = m.get('quote_at')

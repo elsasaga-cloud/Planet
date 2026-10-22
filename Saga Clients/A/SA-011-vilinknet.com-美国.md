@@ -22,7 +22,7 @@ replies: 1
 followups: 19
 first_contact: 2023-12-09
 last_contact: 2025-12-08
-s_mail: 36 msgs (out 25 / in 11), 2024-04-16 -> 2026-07-20
+s_mail: 111 msgs (out 69 / in 42), 2024-04-16 -> 2026-09-27
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
@@ -176,13 +176,14 @@ updated: 2026-10-22
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：36 封（去 25 / 来 11）　|　**期间**：2024-04-16 → 2026-07-20　|　**最后去信**：2026-07-20
-- **对方邮箱**：sales@vi-link.net、thup@vilinknet.com
-- **最后一封来信**：2025-05-09 thup@vilinknet.com「Re: 16 Port Ethernet Switch」：On 2025-03-27 08:00, Simon from Saga Telecom wrote: > Hi, Thu, > > How are you? > > There is a 16-port Din Gigabit Ethernet switch for you. > > It is good for vehicle network and industrial automation. > > Model choice > > 1. 5 Port/8 Port/24 Port > > 2. 10/10
+- **账号**：s.sagatelecom　|　**邮件**：111 封（去 69 / 来 42）　|　**期间**：2024-04-16 → 2026-09-27　|　**最后去信**：2026-09-27
+- **对方邮箱**：sales@vi-link.net、thup@vilinknet.com、thupvilink16@gmail.com
+- **最后一封来信**：2026-09-25 thupvilink16@gmail.com「Re: Fw: T/T Payment」：Thank you - It looks good. I will take a look at the switch. What would be our cost? Thu
 - **邮件里报过的价**：2026-07-20 $1500；2025-10-30 $280；2024-11-16 $50；2024-11-14 $65；2024-11-14 $75；2024-11-13 $65
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
+| Fw: T/T Payment | 2026-09-03 | 2026-09-27 | 7 | 10 | 14 |
 | 24 Port Ethernet Switch | 2026-02-03 | 2026-09-03 | 7 | 8 | 11 |
 | 24 Port 10G SFP+ Switch | 2026-07-20 | 2026-07-20 | 0 | 1 | 1 |
 | Firmware 7.5 L2+ Feature Update | 2026-06-22 | 2026-06-22 | 0 | 1 | 2 |
@@ -194,8 +195,7 @@ updated: 2026-10-22
 | Industrial PoE Switch | 2025-07-29 | 2025-07-29 | 0 | 1 | 1 |
 | Managed Optical Bypass Switch | 2025-05-27 | 2025-05-27 | 0 | 1 | 1 |
 | 16 Port Ethernet Switch | 2025-03-27 | 2025-05-17 | 1 | 3 | 2 |
-| 8 Port Industrial PoE Switch | 2025-02-10 | 2025-02-10 | 0 | 1 | 1 |
-| …共 14 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 15 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 联系方式（已有 · 原值照录）
 

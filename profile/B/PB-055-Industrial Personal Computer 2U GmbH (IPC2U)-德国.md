@@ -1,6 +1,6 @@
 # Industrial Personal Computer 2U GmbH (IPC2U)
 
-> **评级 B**　|　德国 · （待补证；电话区号 0511 = 汉诺威）　|　档案编号 `PB-055`　|　优先级 ★★★　|　状态：00-未触达
+> **评级 B**　|　德国 · （待补证；电话区号 0511 = 汉诺威）　|　档案编号 `PB-055`　|　优先级 ★★★　|　状态：10-已触达(S邮箱 去1·0回复)
 >
 > **类型**：工业自动化经销/集成（工业 PC、工业通信：Antaira + Korenix 授权分销；PLANET 德国授权销售伙伴，自述合作 25 年+；德/法/波/捷四国办公室，兼做系统集成）　|　**PLANET 关联**：ipc2u.de/ueber-uns/vendors/planet：「Offizieller PLANET Technology Partner in Deutschland … autorisierter Vertriebspartner von PLANET Technology in Deutschland … Vollständiges PLANET-Produktportfolio … IPC2U kooperiert mit PLANET seit über 25 Jahren」；目录按 vendor-planet 分 Industrielle Ethernet Switches / Industrie Wireless / Serial Device Servers / Converter und Repeater　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
@@ -14,9 +14,9 @@ type: 工业自动化经销/集成（工业 PC、工业通信：Antaira + Koreni
 planet_models: []
 p1: STI-488XGGPM
 price_tier: 20%
-stage: 00-未触达
+stage: 10-已触达(S邮箱 去1·0回复)
 mikrotik_ref: A-482
-updated: 2026-10-20
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -149,4 +149,4 @@ updated: 2026-10-20
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK　|　原始证据：batch/2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK.json, batch/2026-10-20_W12_B级老化回查与收官补挖_DE-US-FR-UK-ES-PT-北欧.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK　|　原始证据：batch/2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK.json, batch/2026-10-20_W12_B级老化回查与收官补挖_DE-US-FR-UK-ES-PT-北欧.json　|　渲染：scripts/render.py 2026-10-22*

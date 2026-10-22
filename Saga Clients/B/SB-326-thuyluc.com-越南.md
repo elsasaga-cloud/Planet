@@ -121,7 +121,7 @@ updated: 2026-10-22
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom　|　**邮件**：12 封（去 11 / 来 1）　|　**期间**：2024-06-21 → 2026-10-20　|　**最后去信**：2026-10-20
-- **对方邮箱**：hydraulics@vnn.vn
+- **对方邮箱**：chuyengiathuykhi@gmail.com、hydraulics@vnn.vn、thuyluc1973@gmail.com
 - **最后一封来信**：2024-06-21 chuyengiathuykhi@gmail.com「Re: 8 port fiber switch」：Please quote me 10pcs. *Mr. Ly Thanh Ha (Lee Thanh Ha)* Project Manager MTS JSC VAT Code 0101892941 No. 166, Tuu Liet road, Tam Hiep Ward Thanh Tri District, Hanoi, VIET NAM Zip Code 134109 Phone: +84436416189 +84436416189 Mobile: +84912336758 for WeChat, What
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |

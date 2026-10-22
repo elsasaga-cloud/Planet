@@ -1,6 +1,6 @@
 # APLUS Système Automation（aplus-sa.com）
 
-> **评级 B**　|　法国 · Saint-Michel-sur-Orge（ZAC de la Noue Rousseau, Techniparc, 91160）　|　档案编号 `PB-074`　|　优先级 ★★　|　状态：00-未触达
+> **评级 B**　|　法国 · Saint-Michel-sur-Orge（ZAC de la Noue Rousseau, Techniparc, 91160）　|　档案编号 `PB-074`　|　优先级 ★★　|　状态：10-已触达(S邮箱 去1·0回复)
 >
 > **类型**：集成商/制造商（1988 年起法国工业计算机设计制造 + 分销：工业 / 医疗 / 国防安全 / 数字媒体 / POS 五大领域；网络件按 ORing / PLANET / Korenix 配套；合作伙伴 ASUS IoT / Custom / Seiko Instruments / Cincoze / Wincomm / Sintrones；关联品牌 APLUS Défense & Sécurité、VISION+）　|　**PLANET 关联**：aplus-sa.com /partenaires/ 新闻「PLANET obtient la certification de sécurité IEC 62443-4-1」（2024-02-14）；/toutes-les-actualites 列表「PLANET remporte le Taiwan Excellence Award pour la 20e année consécutive」「L'ICG-2515W obtient le prix du « Best Choice Golden Award » à l'occasion du Computex 2022」；托管 PLANET-Catalogue-2020-Solutions-PoE.pdf；2026-01-28 专题「Des routeurs industriels et des commutateurs réseau (Oring, Planet, Korenix)」；站内 /produit/planet-solution-sans-fil 与 /produit/planet-routeurs-vpn/ 两条 PLANET 产品路径（今日均 301 至 /nos-solutions/）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
@@ -14,9 +14,9 @@ type: 集成商/制造商（1988 年起法国工业计算机设计制造 + 分�
 planet_models: ["IGS-5227", "ICG-2515W"]
 p1: STI-288GPM
 price_tier: 25%
-stage: 00-未触达
+stage: 10-已触达(S邮箱 去1·0回复)
 mikrotik_ref: B-522（Mikrotik 侧 B ★★★，ORing 名录导入，R49 补到 sales@aplus-sa.com 由 C-205 回升）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：PLANET 合作伙伴新闻 ×2 + 2026-01 专题 + 托管 PoE 目录（Mikrotik 侧信号仅「ORing」）；档位 25%（集成商/制造商）与 Mikrotik 侧「分销」类型不同，以本仓为准（Q-06 同类，跨仓需用户手工）
-updated: 2026-10-20
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -174,4 +174,4 @@ updated: 2026-10-20
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W17 矿脉 ①b：W06/W07 OR 组「假阴性」逐域复核（CZ-FR-NO-GR-ES）　|　原始证据：batch/2026-10-20_W17_OR组假阴性逐域复核_CZ-FR-NO-GR-ES.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：W17 矿脉 ①b：W06/W07 OR 组「假阴性」逐域复核（CZ-FR-NO-GR-ES）　|　原始证据：batch/2026-10-20_W17_OR组假阴性逐域复核_CZ-FR-NO-GR-ES.json　|　渲染：scripts/render.py 2026-10-22*

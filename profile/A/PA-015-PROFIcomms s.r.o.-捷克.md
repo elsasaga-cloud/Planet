@@ -1,6 +1,6 @@
 # PROFIcomms s.r.o.
 
-> **评级 A**　|　捷克 · Brno　|　档案编号 `PA-015`　|　优先级 ★★★　|　状态：00-未触达
+> **评级 A**　|　捷克 · Brno　|　档案编号 `PA-015`　|　优先级 ★★★　|　状态：10-已触达(S邮箱 去1·0回复)
 >
 > **类型**：分销商（有源网络设备分销：企业/城域/电信网络与摄像系统；ComNet / Microsens / Transition Networks / Olycom / PLANET）　|　**PLANET 关联**：官网 PLANET 品牌页 + 产品页（IGS-801M、BSP-360）具名「product & sales manager – Planet Networks, ComNet, Microsens, Transition Networks, Olycom」David Matula matula@proficomms.cz　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
@@ -14,9 +14,9 @@ type: 分销商（有源网络设备分销：企业/城域/电信网络与摄像
 planet_models: ["IGS-801M", "BSP-360", "PLANET 工业线（品牌页）"]
 p1: STI-288DGGPM
 price_tier: 20%
-stage: 00-未触达
+stage: 10-已触达(S邮箱 去1·0回复)
 mikrotik_ref: A-497
-updated: 2026-10-20
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -199,4 +199,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL　|　原始证据：batch/2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json, batch/2026-10-20_W11_A级老化回查收尾与法国集成商_FR-CZ-HU-SE-PL.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL　|　原始证据：batch/2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json, batch/2026-10-20_W11_A级老化回查收尾与法国集成商_FR-CZ-HU-SE-PL.json　|　渲染：scripts/render.py 2026-10-22*

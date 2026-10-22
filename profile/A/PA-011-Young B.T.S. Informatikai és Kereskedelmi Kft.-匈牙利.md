@@ -1,6 +1,6 @@
 # Young B.T.S. Informatikai és Kereskedelmi Kft.
 
-> **评级 A**　|　匈牙利 · Budapest　|　档案编号 `PA-011`　|　优先级 ★★★　|　状态：00-未触达
+> **评级 A**　|　匈牙利 · Budapest　|　档案编号 `PA-011`　|　优先级 ★★★　|　状态：10-已触达(S邮箱 去1·0回复)
 >
 > **类型**：集成商/代理（结构化布线、电话系统、机柜、安防摄像/门禁、有源网络；约 20 个品牌；1996 年成立）　|　**PLANET 关联**：PLANET 产品经理具名直邮（官网联系页在列）；官网 PLANET 新闻页「KKV 用 PLANET switch 现货」；在售 GS-4210-24P4C；2018 年 securifocus 报道「Forgalmazó: Young B.T.S. Kft Gyártó: Planet Technology Corp.」（UNV 摄像机 + PLANET PoE 组合）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
@@ -14,9 +14,9 @@ type: 集成商/代理（结构化布线、电话系统、机柜、安防摄像/
 planet_models: ["GS-4210-24P4C", "PLANET PoE 系列（managed/unmanaged、室内/室外、PoE 注入器）"]
 p1: STC-424DGGPM-280W
 price_tier: 20%
-stage: 00-未触达
+stage: 10-已触达(S邮箱 去1·0回复)
 mikrotik_ref: A-233
-updated: 2026-10-20
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -202,4 +202,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ　|　原始证据：batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ　|　原始证据：batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-22*

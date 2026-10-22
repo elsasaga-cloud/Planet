@@ -1,0 +1,50 @@
+{
+ "code": "SB-1336",
+ "name_official": "Fikes Media",
+ "website_status": "未核（本轮只用 S 邮箱证据）",
+ "summary": "美国小公司（Owner Christopher Fikes，电话区号 409 = 德州 Beaumont 一带），2026-10-03 回复群发表示有兴趣，关心 OEM 定制层级与控制器 API 集成；Simon 10-04 发完整 OEM 清单 + MIB + 规格书 + CLI/Web 手册并反问控制器架构，10-19 追问样品，客户未回。S 邮箱 4 封。",
+ "type": "媒体/IT 集成小公司（业主直营）",
+ "size": "小（Owner 直接回信）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "email",
+   "claim": "有兴趣 + 问 OEM 层级 + 要 API/控制器集成",
+   "quote": "This actually does have my interest. What levels of customization are offered? I would be interested if there was api availability for controller integration. If you have some specification sheets and models available I would love to see them.",
+   "url": "data/gmail_s/messages/2026/2026-10.jsonl",
+   "date": "2026-10-03"
+  },
+  {
+   "kind": "email",
+   "claim": "Simon 回复的 OEM 菜单（可复用口径）",
+   "quote": "Company logo / Packaging / Front panel (PVC mask) / Product label / Model name / Serial number / User manual / Default login IP / SNMP OID customization / Web GUI language… firmware customization for specific project requirements, subject to technical evaluation（附 SWITCH-MIBS-release.docx、Saga Feature List_7.5.x_L2+.xlsx、STC-424XGGPM-280W.docx、CLI/Web Manual）",
+   "url": "data/gmail_s/messages/2026/2026-10.jsonl",
+   "date": "2026-10-04"
+  },
+  {
+   "kind": "email",
+   "claim": "Simon 追问样品，未回",
+   "quote": "Any feedback about our product information? Maybe arrange 2 samples for testing?",
+   "url": "data/gmail_s/messages/2026/2026-10.jsonl",
+   "date": "2026-10-19"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Christopher Fikes",
+   "role": "Owner",
+   "email": "cfikes@fikesmedia.com",
+   "phone": "409.877.4220",
+   "source": "S 邮箱签名"
+  }
+ ],
+ "notes": "API/控制器集成是关键未知：Saga 线（SmartByte Marvell AC5）有 SNMP/CLI/Web，无云控制器 REST API——下一封应直说 SNMP + CLI 自动化可做、REST/云控不做，别吊着。",
+ "researched_at": "2026-10-22",
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "明确问 OEM 定制 → OEM/ODM 30% 档；若只是自用/项目则 25%"
+ },
+ "grade_override": "B",
+ "override_reason": "具名 Owner 实质回复 + OEM 意向，但规模小、API 诉求未必能满足、追问未回 → B"
+}

@@ -1,6 +1,6 @@
 # Business Systems Connection Inc.
 
-> **评级 B**　|　美国 · Fenton, MO　|　档案编号 `PB-022`　|　优先级 ★★☆　|　状态：00-未触达
+> **评级 B**　|　美国 · Fenton, MO　|　档案编号 `PB-022`　|　优先级 ★★☆　|　状态：10-已触达(S邮箱 去1·0回复)
 >
 > **类型**：分销商（WISP/网络分销：Ubiquiti / MikroTik / Cambium / PLANET，1997 年起，2–10 人）+ 自有品牌 Lysora　|　**PLANET 关联**：在售 PLANET GS-4210-24P4C（$522）、IGS-5225-8P4S-12V（$809.60）、IGS-4215-8P2T2S；DigiKey 市场卖家　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
@@ -14,9 +14,9 @@ type: 分销商（WISP/网络分销：Ubiquiti / MikroTik / Cambium / PLANET，1
 planet_models: ["GS-4210-24P4C", "IGS-5225-8P4S-12V", "IGS-4215-8P2T2S"]
 p1: STI-488DGGPM
 price_tier: 20%
-stage: 00-未触达
+stage: 10-已触达(S邮箱 去1·0回复)
 mikrotik_ref: A-532
-updated: 2026-10-20
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -156,4 +156,4 @@ updated: 2026-10-20
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-22*

@@ -21,7 +21,7 @@ replies: 1
 followups: 1
 first_contact: 2025-07-07
 last_contact: 2025-07-07
-s_mail: 4 msgs (out 4 / in 0), 2024-07-08 -> 2024-10-02
+s_mail: 13 msgs (out 10 / in 3), 2024-07-08 -> 2024-12-11
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
@@ -120,15 +120,16 @@ updated: 2026-10-22
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：4 封（去 4 / 来 0）　|　**期间**：2024-07-08 → 2024-10-02　|　**最后去信**：2024-10-02
-- **对方邮箱**：briticom@briticom.net
-- 对方从未回信（全部为我方去信）
+- **账号**：s.sagatelecom　|　**邮件**：13 封（去 10 / 来 3）　|　**期间**：2024-07-08 → 2024-12-11　|　**最后去信**：2024-12-11
+- **对方邮箱**：briticom@briticom.net、wadii@teltronix.net
+- **最后一封来信**：2024-10-02 wadii@teltronix.net「RE: Power Converter」：Can you show us a drawing of a network where this product will fit/install?? Thanks Best Regards Wadii TELTRONIX \| BRITICOM T.: +44 1604 434 186 [cid:image001.jpg@01DB14FE.8DF39080]<briticom.net> Please click here<https://www.linkedin.com/company/teltronix> to
 - **邮件里报过的价**：2024-07-08 $220
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
 | Power Converter | 2024-10-02 | 2024-12-11 | 1 | 5 | 18 |
 | 8 port poe switch | 2024-09-02 | 2024-09-03 | 1 | 2 | 6 |
+| 48 port switch | 2024-09-02 | 2024-09-03 | 1 | 2 | 5 |
 | 5 port Ethernet Switch | 2024-08-06 | 2024-08-06 | 0 | 1 | 1 |
 | 48 port managed switch | 2024-07-08 | 2024-07-08 | 0 | 1 | 1 |
 

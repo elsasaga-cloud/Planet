@@ -116,6 +116,7 @@ updated: 2026-10-22
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom　|　**邮件**：10 封（去 9 / 来 1）　|　**期间**：2024-06-22 → 2025-01-30　|　**最后去信**：2025-01-30
+- **对方邮箱**：pongpanot.k@hotmail.com
 - **最后一封来信**：2024-07-04 pongpanot.k@hotmail.com「Re: 8 Port Network Switch」：Good morning Simon, Do you have any product to comply requirement as diagram attached ? I am looking for 16 sets for Tunnel project in Bangkok. Rdgs, Pongpanot
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |

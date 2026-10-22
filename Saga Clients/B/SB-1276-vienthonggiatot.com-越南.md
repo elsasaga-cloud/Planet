@@ -134,6 +134,7 @@ updated: 2026-10-22
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom　|　**邮件**：6 封（去 5 / 来 1）　|　**期间**：2024-11-03 → 2025-01-06　|　**最后去信**：2025-01-06
+- **对方邮箱**：vienthonggiatotvn@gmail.com
 - **最后一封来信**：2024-11-03 vienthonggiatotvn@gmail.com「Re: 8 Port Industrial PoE Switch」：What is the price? Vào 14:41 CN, 3 thg 11, 2024 Simon <s.sagatelecom@gmail.com> đã viết:
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |

@@ -1,6 +1,6 @@
 # Cyberbajt Tadeusz Nowak（cyberbajt.pl）
 
-> **评级 B**　|　波兰 · Zamość（ul. Młyńska 27）　|　档案编号 `PB-069`　|　优先级 ★★　|　状态：00-未触达
+> **评级 B**　|　波兰 · Zamość（ul. Młyńska 27）　|　档案编号 `PB-069`　|　优先级 ★★　|　状态：10-已触达(S邮箱 去1·0回复)
 >
 > **类型**：分销/电商（2002 年起面向安装商与 ISP 的网络设备网店 + 自有天线/光纤品牌 CBF 制造；品牌 MikroTik / Ubiquiti / Moxa / Antaira / TP-Link / D-Link / Teltonika / Planet 等；PLANET 交换机 5 款 + 媒体转换器）　|　**PLANET 关联**：cyberbajt.pl 商品页：PLANET WGS-4215-8P2S（1017.63 zł netto / 1251.68 zł brutto，「Towar będzie u Ciebie za 7 dni」）、WGSW-20160HP、GSD-804P、GSD-804（57.15 zł）、FSD-803（114.30 zł）、GT-805A 媒体转换器（168.22 zł）、IGTP-815AT 工业 PoE+ 媒体转换器；Urządzenia 与 Mediakonwertery 类目品牌筛选均含「Planet」　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
@@ -14,9 +14,9 @@ type: 分销/电商（2002 年起面向安装商与 ISP 的网络设备网店 + 
 planet_models: ["WGS-4215-8P2S", "WGSW-20160HP", "GSD-804P", "GSD-804", "FSD-803", "GT-805A", "IGTP-815AT"]
 p1: STC-28DGGPM
 price_tier: 20%
-stage: 00-未触达
+stage: 10-已触达(S邮箱 去1·0回复)
 mikrotik_ref: A-512（Mikrotik 侧人工 A ★★★，d.jonik@ 等 6 位具名销售邮箱）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：PLANET 商用交换机 5 款 + 媒体转换器 2 款在售（Mikrotik 侧信号仅「Moxa 工业交换机」，建议其 STI-488XGGPM 首推可改为对位 WGS-4215-8P2S 的 STC-28DGGPM）（Q-06 同类，跨仓需用户手工）
-updated: 2026-10-20
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -189,4 +189,4 @@ updated: 2026-10-20
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W16 目录型矿脉 ①（续）：Mikrotik 池域名 × site: planet switch（PL-CZ-SK-HU-GR）+ W06/W07 OR 组查询假阴性复核　|　原始证据：batch/2026-10-20_W16_目录型矿脉续_OR组假阴性复核_PL-CZ-HU.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：W16 目录型矿脉 ①（续）：Mikrotik 池域名 × site: planet switch（PL-CZ-SK-HU-GR）+ W06/W07 OR 组查询假阴性复核　|　原始证据：batch/2026-10-20_W16_目录型矿脉续_OR组假阴性复核_PL-CZ-HU.json　|　渲染：scripts/render.py 2026-10-22*

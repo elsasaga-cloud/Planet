@@ -1,6 +1,6 @@
 # Nokta Elektronik ve Bilişim Sistemleri
 
-> **评级 B**　|　土耳其 · İstanbul　|　档案编号 `PB-041`　|　优先级 ★★☆　|　状态：00-未触达
+> **评级 B**　|　土耳其 · İstanbul　|　档案编号 `PB-041`　|　优先级 ★★☆　|　状态：10-已触达(S邮箱 去8·0回复)
 >
 > **类型**：分销商（自述「Güvenlik ve Network Distribütörü」安防与网络分销；ORing 授权；设 B2B 批发平台）　|　**PLANET 关联**：官网 PLANET 产品页：GS-5220-8P2T2S、GS-5220-24UP4XV/24UP4XVR（Ultra PoE + 4×10G SFP+）、GS-5220-16S8C；Mikrotik 仓库 A-462 核：首页主推 Planet GS-5220 L3 24 口 802.3bt PoE + 4×10G SFP+　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
@@ -14,9 +14,9 @@ type: 分销商（自述「Güvenlik ve Network Distribütörü」安防与网�
 planet_models: ["GS-5220-8P2T2S", "GS-5220-24UP4XV", "GS-5220-24UP4XVR", "GS-5220-16S8C", "GS-5220-16S8CR"]
 p1: STC-424XGGPM-280W
 price_tier: 20%
-stage: 00-未触达
+stage: 10-已触达(S邮箱 去8·0回复)
 mikrotik_ref: A-462
-updated: 2026-10-20
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -164,4 +164,4 @@ updated: 2026-10-20
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL　|　原始证据：batch/2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL　|　原始证据：batch/2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json　|　渲染：scripts/render.py 2026-10-22*

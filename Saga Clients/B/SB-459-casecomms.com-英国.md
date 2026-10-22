@@ -166,6 +166,7 @@ updated: 2026-10-22
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom　|　**邮件**：18 封（去 16 / 来 2）　|　**期间**：2024-05-09 → 2025-02-06　|　**最后去信**：2025-02-06
+- **对方邮箱**：admin@case.uk.com、andys@case.uk.com、sales@foscam.uk.com
 - **最后一封来信**：2024-05-09 andys@case.uk.com「RE: 24 port switch」：Hi Simon Thank you for your mail but we already have such a switch Best regards Andy
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |

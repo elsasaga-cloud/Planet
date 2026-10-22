@@ -1,6 +1,6 @@
 # LAN Számítástechnikai Szolgáltató Kft.
 
-> **评级 B**　|　匈牙利 · Budapest（H-1155 Budapest, Kolozsvár utca 7）　|　档案编号 `PB-093`　|　优先级 ★★　|　状态：00-未触达
+> **评级 B**　|　匈牙利 · Budapest（H-1155 Budapest, Kolozsvár utca 7）　|　档案编号 `PB-093`　|　优先级 ★★　|　状态：10-已触达(S邮箱 去信未入导出·仅见自动回复1封)
 >
 > **类型**：网络 / 布线 / 机柜 / UPS 分销商兼电商（Digitus、X-Tech 机柜、PowerWalker UPS、Softing 测试、PLANET；另有施工服务 szolgaltatas@）；「aktív eszközök」类目以 PLANET 工业交换机为主，自编货号 L+型号　|　**PLANET 关联**：lan.hu 商品页（「A LAN Kft. forgalmazásában」）：Planet ISW-801T 36 015 Ft（Cikkszám LISW-801T）、Planet IGS-10020MT 120 140 Ft + ÁFA (152 578 Ft)（LIGS-10020MT）、Planet IGSW-24040T 253 780 Ft + ÁFA (322 301 Ft)（LIGSW-24040T）、Planet IGS-801T 46 800 Ft + ÁFA (59 436 Ft)、Planet Industrial 8-Port 10/100/1000T + 2-Port SFP 102 019 Ft；FAQ 称库存实时、1–2 工作日发货　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
@@ -14,9 +14,9 @@ type: 网络 / 布线 / 机柜 / UPS 分销商兼电商（Digitus、X-Tech 机�
 planet_models: ["IGS-10020MT", "IGS-801T", "ISW-801T", "IGSW-24040T", "IGS-1020TF"]
 p1: STI-280GM
 price_tier: 20%
-stage: 00-未触达
+stage: 10-已触达(S邮箱 去信未入导出·仅见自动回复1封)
 mikrotik_ref: —（Mikrotik 仓无此户；本仓 grep 0）
-updated: 2026-10-20
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -198,4 +198,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W21 矿脉 ⑤ Elsa 群发 BCC 域反查批 2（CZ-DE-IT-HU-FI；PL/US/ES/BE 批探针全阴）　|　原始证据：batch/2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：W21 矿脉 ⑤ Elsa 群发 BCC 域反查批 2（CZ-DE-IT-HU-FI；PL/US/ES/BE 批探针全阴）　|　原始证据：batch/2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json　|　渲染：scripts/render.py 2026-10-22*

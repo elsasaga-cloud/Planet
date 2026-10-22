@@ -1,6 +1,6 @@
 # Mid-Atlantic Rugged Systems (M/A Rugged)
 
-> **评级 B**　|　美国 · Frederick, MD　|　档案编号 `PB-005`　|　优先级 ★★　|　状态：00-未触达
+> **评级 B**　|　美国 · Frederick, MD　|　档案编号 `PB-005`　|　优先级 ★★　|　状态：10-已触达(S邮箱 去1·0回复)
 >
 > **类型**：工业自动化经销（加固计算与网络 VAD；PLANET 授权分销；Moxa 合作 10 年+）　|　**PLANET 关联**：「Authorized PLANET Technology Distributor」专页，在售 WGS-4215-8P2S 等；多品牌（Moxa、WoMaster、Vecow、Cincoze、Nexcom、Falcon Electric）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
@@ -14,9 +14,9 @@ type: 工业自动化经销（加固计算与网络 VAD；PLANET 授权分销；
 planet_models: ["WGS-4215-8P2S"]
 p1: STI-288DGGPM
 price_tier: 20%
-stage: 00-未触达
+stage: 10-已触达(S邮箱 去1·0回复)
 mikrotik_ref: A-541
-updated: 2026-10-20
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -178,4 +178,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-20_W12_B级老化回查与收官补挖_DE-US-FR-UK-ES-PT-北欧.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-20_W12_B级老化回查与收官补挖_DE-US-FR-UK-ES-PT-北欧.json　|　渲染：scripts/render.py 2026-10-22*

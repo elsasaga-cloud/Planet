@@ -1,6 +1,6 @@
 # Solimedia Technology Inc
 
-> **评级 B**　|　加拿大 · Vancouver, BC（329-470 Granville Street, V6C 1V5）　|　档案编号 `PB-078`　|　优先级 ★　|　状态：00-未触达
+> **评级 B**　|　加拿大 · Vancouver, BC（329-470 Granville Street, V6C 1V5）　|　档案编号 `PB-078`　|　优先级 ★　|　状态：10-已触达(S邮箱 去3·0回复)
 >
 > **类型**：分销/网店（MikroTik 官方分销商，另售 Grandstream / Optcore；PLANET 商用交换机曾全线在售，现仅剩 Deals & Bargains 清仓位，品牌页与工业类目已下线）　|　**PLANET 关联**：solimedia.net：PLANET GSW-1600HP（16×GE 802.3at PoE+）$286.62 CAD In stock、Category: Deals & Bargains（清仓类目）；关联商品 Planet GSD-504 $28.95 CAD；搜索快照另见 GS-4210-48T4S CAD$593.14（2025-04）、GSD-1603 $88.97 CAD In stock（2026-03）、IGS-801M $204.08 CAD Out of stock（2025-10）、GSW-1601 / GSW-2401 / GS-4210-8P2S；但 /brand/planet/ 与工业类目 404，/product/gsd-1603/ 与 48 口管理款商品页 301 → Grandstream GWN7802P-Pro / GWN7806P → PLANET 线正被 Grandstream 替换　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
@@ -14,9 +14,9 @@ type: 分销/网店（MikroTik 官方分销商，另售 Grandstream / Optcore；
 planet_models: ["GSW-1600HP", "GSD-504", "GSD-1603", "GS-4210-48T4S", "IGS-801M", "GSW-1601", "GSW-2401", "GS-4210-8P2S"]
 p1: STI-288GPM
 price_tier: 20%
-stage: 00-未触达
+stage: 10-已触达(S邮箱 去3·0回复)
 mikrotik_ref: A-448（Mikrotik 侧人工定级 A，R53 由 B-073 升级；首推 STI-488XGGPM；状态「未触达」）→ 首触以 Mikrotik 仓库为准，本仓不重复发；本仓新增：PLANET 退出 / 工业空位论据 + Gmail 已群发 10 封无回复事实 → 建议 Mikrotik 仓 A-448 状态改「已触达（Elsa 群发 ×10，无回复）」并换入口（跨仓需用户手工，Q-21 同类）
-updated: 2026-10-20
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -181,4 +181,4 @@ updated: 2026-10-20
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W18 矿脉 ①b 收官：OR 组剩余（US/CA/TR）+ 非 OR 剩余逐域复核 + 矿脉 ③ 型号比价试探（CA-US）　|　原始证据：batch/2026-10-20_W18_OR组与非OR剩余逐域复核及型号比价试探_CA-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：W18 矿脉 ①b 收官：OR 组剩余（US/CA/TR）+ 非 OR 剩余逐域复核 + 矿脉 ③ 型号比价试探（CA-US）　|　原始证据：batch/2026-10-20_W18_OR组与非OR剩余逐域复核及型号比价试探_CA-US.json　|　渲染：scripts/render.py 2026-10-22*

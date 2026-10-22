@@ -19,12 +19,13 @@ replies: 0
 followups: 17
 first_contact: 2024-05-03
 last_contact: 2025-10-13
+s_mail: 7 msgs (out 7 / in 0), 2024-06-24 -> 2025-01-07
 p1: STI-110GE
 price_tier: 30%
 research: pending
 site_snapshot: none
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -168,8 +169,8 @@ updated: 2026-10-21
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 27）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 27）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

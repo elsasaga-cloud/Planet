@@ -1,6 +1,6 @@
 # El Paso Communication Systems, Inc.（dba EPCOM）
 
-> **评级 B**　|　美国 · El Paso, TX（1630 E Paisano Dr；配送中心 San Antonio / El Paso / Miami；LinkedIn 总部 Miami, FL）　|　档案编号 `PB-066`　|　优先级 ★　|　状态：00-未触达
+> **评级 B**　|　美国 · El Paso, TX（1630 E Paisano Dr；配送中心 San Antonio / El Paso / Miami；LinkedIn 总部 Miami, FL）　|　档案编号 `PB-066`　|　优先级 ★　|　状态：10-已触达(S邮箱 去1·0回复)
 >
 > **类型**：分销（无线通信 + 安防 + 网络多品类分销商，1987 年起；Syscom 集团美方实体；ICOM/TXPro 对讲、安防、Wi-Tek/Alta Labs 网络；PLANET 商用 + 工业多款在售并提供「Epcom 保修」）　|　**PLANET 关联**：epcom.net 产品页 PLANET：IGS-620TF（$249，Warranty: 1 year with Epcom，OutOfStock）、WGSD-10020（$229）、IGS-6325-8UP2S2X（5 years with Epcom）、GS-4210-24T2S（$353.99，InStock）、IGS-6325-16P4S（$1,345）、GS-5220-8UP2T2X、XGS3-24042——≥7 款，自带 Epcom 保修条款说明其为正式进货而非代发　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
@@ -14,9 +14,9 @@ type: 分销（无线通信 + 安防 + 网络多品类分销商，1987 年起；
 planet_models: ["GS-4210-24T2S", "IGS-620TF", "WGSD-10020", "IGS-6325-8UP2S2X", "IGS-6325-16P4S", "GS-5220-8UP2T2X", "XGS3-24042"]
 p1: STC-424DGGM
 price_tier: 20%
-stage: 00-未触达
+stage: 10-已触达(S邮箱 去1·0回复)
 mikrotik_ref: B-346（Mikrotik 侧 B，sales@epcom.net）→ 并档，首触以 Mikrotik 仓库为准；本仓回填 PLANET ≥7 款 + Epcom 保修证据（Q-06 同类）
-updated: 2026-10-20
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -183,4 +183,4 @@ updated: 2026-10-20
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W15 目录型矿脉：Mikrotik 池域名 × site: planet switch（CZ-US-PL-FR-IT）　|　原始证据：batch/2026-10-20_W15_目录型矿脉_Mikrotik池反查_CZ-US-PL-FR-IT.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：W15 目录型矿脉：Mikrotik 池域名 × site: planet switch（CZ-US-PL-FR-IT）　|　原始证据：batch/2026-10-20_W15_目录型矿脉_Mikrotik池反查_CZ-US-PL-FR-IT.json　|　渲染：scripts/render.py 2026-10-22*

@@ -1,20 +1,20 @@
 {
  "rows_xlsx": 6246,
  "rows_docx_extra": 2,
- "rows_manual_extra": 6,
+ "rows_manual_extra": 10,
  "docx_emails_total": 384,
  "followups": 20819,
  "followups_attached": 18100,
- "entities": 4641,
+ "entities": 4645,
  "grades": {
   "A": 91,
   "C": 3427,
-  "B": 1123
+  "B": 1127
  },
  "grades_auto": {
   "A": 169,
   "C": 3188,
-  "B": 1284
+  "B": 1288
  },
  "multi_source": 1280,
  "c_sub": {
@@ -134,7 +134,7 @@
   "已推送 5 次·未回复": 29,
   "已推送 11 次·未回复": 14,
   "已推送 17 次·未回复": 77,
-  "名单内·未触达": 2003,
+  "名单内·未触达": 2007,
   "已推送 22 次·未回复": 21,
   "已推送 14 次·未回复": 32,
   "回复暂无需求": 15,

@@ -1,6 +1,6 @@
 # CompMarket Hungary Zrt.
 
-> **评级 B**　|　匈牙利 · Budapest（1044, Megyeri út 53）　|　档案编号 `PB-072`　|　优先级 ★　|　状态：00-未触达
+> **评级 B**　|　匈牙利 · Budapest（1044, Megyeri út 53）　|　档案编号 `PB-072`　|　优先级 ★　|　状态：10-已触达(S邮箱 去1·0回复)
 >
 > **类型**：分销（2004 年起经营、2011 年设立 Zrt. 的匈牙利 IT 分销商；MikroTik Master + VAD；为零售商代运营网店 kisker.compmarket.hu；交换机品牌含 TP-Link 127 / ZyXEL 71 / Ubiquiti 49 / Tenda 34 / Reyee 15 / Planet 14 / Teltonika 8 等；近年新增安防线）　|　**PLANET 关联**：CompMarket 代运营零售网店（genesyscomputer.kisker.compmarket.hu / kovacstelefon.kisker.compmarket.hu）交换机类目品牌筛选「Planet (14)」，与 TP-Link (127) / ZyXEL (71) / Ubiquiti (49) / Tenda (34) / Reyee (15) / Teltonika (8) 同列 → 分销目录含 PLANET 交换机 14 款　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
@@ -14,9 +14,9 @@ type: 分销（2004 年起经营、2011 年设立 Zrt. 的匈牙利 IT 分销商
 planet_models: []
 p1: STC-424DGGPM-280W
 price_tier: 20%
-stage: 00-未触达
+stage: 10-已触达(S邮箱 去1·0回复)
 mikrotik_ref: B-081（Mikrotik 侧 B ★★★，rakos.zoltan@compmarket.hu）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：PLANET 交换机 14 款在目录（Mikrotik 侧「通用分销商信号」可据此加「PLANET 长尾」差异化切入）+ 2025 财报（€35M / 57 人）（Q-06 同类，跨仓需用户手工）
-updated: 2026-10-20
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -174,4 +174,4 @@ updated: 2026-10-20
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W16 目录型矿脉 ①（续）：Mikrotik 池域名 × site: planet switch（PL-CZ-SK-HU-GR）+ W06/W07 OR 组查询假阴性复核　|　原始证据：batch/2026-10-20_W16_目录型矿脉续_OR组假阴性复核_PL-CZ-HU.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：W16 目录型矿脉 ①（续）：Mikrotik 池域名 × site: planet switch（PL-CZ-SK-HU-GR）+ W06/W07 OR 组查询假阴性复核　|　原始证据：batch/2026-10-20_W16_目录型矿脉续_OR组假阴性复核_PL-CZ-HU.json　|　渲染：scripts/render.py 2026-10-22*

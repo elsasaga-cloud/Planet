@@ -118,6 +118,7 @@ updated: 2026-10-22
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom　|　**邮件**：10 封（去 9 / 来 1）　|　**期间**：2024-06-28 → 2025-01-03　|　**最后去信**：2025-01-03
+- **对方邮箱**：joejts@hotmail.com
 - **最后一封来信**：2024-07-30 joejts@hotmail.com「Re: Passive poe switch」：Hi Yea I’m interested Could you send me a quote
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |

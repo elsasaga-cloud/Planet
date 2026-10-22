@@ -107,6 +107,7 @@ updated: 2026-10-22
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom　|　**邮件**：6 封（去 5 / 来 1）　|　**期间**：2024-10-30 → 2025-02-07　|　**最后去信**：2025-02-07
+- **对方邮箱**：chk999@outlook.com
 - **最后一封来信**：2024-10-30 chk999@outlook.com「Re: 10G Ethernet Web Managed Switch」：Hi, Does it have the https (not http, but https with s at the end http secure protocol) and can we store third party https certificates ? Best Regards. Chavan
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |

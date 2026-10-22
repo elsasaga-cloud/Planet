@@ -1,6 +1,6 @@
 # WAV, LLC (Last Mile Gear, a WAV company)
 
-> **评级 B**　|　美国 · Aurora, IL（Last Mile Gear 原址 Longview, WA）　|　档案编号 `PB-047`　|　优先级 ★★　|　状态：00-未触达
+> **评级 B**　|　美国 · Aurora, IL（Last Mile Gear 原址 Longview, WA）　|　档案编号 `PB-047`　|　优先级 ★★　|　状态：10-已触达(S邮箱 去2·0回复)
 >
 > **类型**：分销（WISP/ISP 无线宽带、LTE、网络与 Wi-Fi 设备全服务分销；MikroTik 授权分销 2022；Last Mile Gear 2019 收购、2023-01-01 全并入 WAV LLC）　|　**PLANET 关联**：lastmilegear.com 商城 PLANET 产品页（XGSW-28040HP、IGS-501T，分类 Planet / Switches，页面 2019）；Mikrotik 仓库 A-546 WAV（ORing 授权）与 A-096 Last Mile Gear（Netonix 渠道）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
@@ -14,9 +14,9 @@ type: 分销（WISP/ISP 无线宽带、LTE、网络与 Wi-Fi 设备全服务分�
 planet_models: ["XGSW-28040HP", "IGS-501T"]
 p1: STC-424XGGPM-280W
 price_tier: 20%
-stage: 00-未触达
+stage: 10-已触达(S邮箱 去2·0回复)
 mikrotik_ref: A-546; A-096
-updated: 2026-10-20
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -175,4 +175,4 @@ updated: 2026-10-20
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：2026-10-20_W06_Mikrotik工业品牌渠道行核验与葡萄牙补点_US-UK-PT　|　原始证据：batch/2026-10-20_W06_Mikrotik工业品牌渠道行核验与葡萄牙补点_US-UK-PT.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：2026-10-20_W06_Mikrotik工业品牌渠道行核验与葡萄牙补点_US-UK-PT　|　原始证据：batch/2026-10-20_W06_Mikrotik工业品牌渠道行核验与葡萄牙补点_US-UK-PT.json　|　渲染：scripts/render.py 2026-10-22*

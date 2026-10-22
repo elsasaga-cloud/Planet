@@ -1,6 +1,6 @@
 # PCV Computers, s.r.o.
 
-> **评级 B**　|　捷克 · České Budějovice　|　档案编号 `PB-050`　|　优先级 ★★　|　状态：00-未触达
+> **评级 B**　|　捷克 · České Budějovice　|　档案编号 `PB-050`　|　优先级 ★★　|　状态：10-已触达(S邮箱 去1·0回复)
 >
 > **类型**：分销（捷克 IT 分销商；MikroTik Master + VAD；站内「Síťové prvky › Switche › Planet」专类 28 款）　|　**PLANET 关联**：pcvcomp.cz 交换机类目品牌筛选「Planet 28」（与 Cisco 61 / Zyxel 90 / TP-link 144 / Ruijie 110 并列）；Planet 专类在售 GSW-2401（24 口千兆）、ISW-501T（工业 5 口 FE）、SW-804；Mikrotik 仓库 B-201（MikroTik Master+VAD）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
@@ -14,9 +14,9 @@ type: 分销（捷克 IT 分销商；MikroTik Master + VAD；站内「Síťové 
 planet_models: ["GSW-2401", "ISW-501T", "SW-804"]
 p1: STC-424DGGM
 price_tier: 20%
-stage: 00-未触达
+stage: 10-已触达(S邮箱 去1·0回复)
 mikrotik_ref: B-201
-updated: 2026-10-20
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -163,4 +163,4 @@ updated: 2026-10-20
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：2026-10-20_W07_Mikrotik分销行PLANET核验与多国分组查询_CZ-PL　|　原始证据：batch/2026-10-20_W07_Mikrotik分销行PLANET核验与多国分组查询_CZ-PL.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：2026-10-20_W07_Mikrotik分销行PLANET核验与多国分组查询_CZ-PL　|　原始证据：batch/2026-10-20_W07_Mikrotik分销行PLANET核验与多国分组查询_CZ-PL.json　|　渲染：scripts/render.py 2026-10-22*

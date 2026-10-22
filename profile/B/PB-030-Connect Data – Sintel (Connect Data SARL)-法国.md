@@ -1,6 +1,6 @@
 # Connect Data – Sintel (Connect Data SARL)
 
-> **评级 B**　|　法国 · Bièvres (91)　|　档案编号 `PB-030`　|　优先级 ★★☆　|　状态：00-未触达
+> **评级 B**　|　法国 · Bièvres (91)　|　档案编号 `PB-030`　|　优先级 ★★☆　|　状态：10-已触达(S邮箱 去1·0回复)
 >
 > **类型**：分销商（1981 年起；面向运营商/集成商/经销商的电信与网络方案分销：Perle、PLANET、RAD、Radwin、Ruckus；集团约 20 人、营收约 €15M；OP GLOBE 集团成员）　|　**PLANET 关联**：官网品牌页 PLANET：「gamme complète de switchs et convertisseurs Ethernet pour les environnements industriels … complément de gamme idéal pour les produits radio Radwin, CommScope Ruckus」　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
@@ -14,9 +14,9 @@ type: 分销商（1981 年起；面向运营商/集成商/经销商的电信与�
 planet_models: ["PLANET 工业交换机与介质转换器（品牌页）"]
 p1: STI-288DGGPM
 price_tier: 20%
-stage: 00-未触达
+stage: 10-已触达(S邮箱 去1·0回复)
 mikrotik_ref: A-254
-updated: 2026-10-20
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -163,4 +163,4 @@ updated: 2026-10-20
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ　|　原始证据：batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ　|　原始证据：batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-22*

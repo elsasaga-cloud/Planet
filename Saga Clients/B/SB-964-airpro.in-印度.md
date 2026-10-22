@@ -132,7 +132,7 @@ updated: 2026-10-22
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom　|　**邮件**：25 封（去 16 / 来 9）　|　**期间**：2024-04-25 → 2025-01-13　|　**最后去信**：2025-01-13
-- **对方邮箱**：sales@airpro.in、support@airpro.in
+- **对方邮箱**：jain.deepak1@gmail.com、sales@airpro.in、support@airpro.in
 - **最后一封来信**：2024-12-13 support@airpro.in「Support Ticket Opened [#591086]」：-- reply above this line -- Dear Simon, A request for support has been created and assigned #591086. A representative will follow-up with you as soon as possible. You can view this ticket's progress online. Model Number: SerialNumber: CompanyName: InvoiceNumbe
 - **邮件里报过的价**：2024-12-13 $240；2024-07-17 $220
 

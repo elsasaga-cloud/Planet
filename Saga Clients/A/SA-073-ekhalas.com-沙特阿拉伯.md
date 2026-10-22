@@ -21,7 +21,7 @@ replies: 1
 followups: 17
 first_contact: 2024-06-05
 last_contact: 2025-10-23
-s_mail: 11 msgs (out 6 / in 5), 2024-06-05 -> 2025-01-03
+s_mail: 14 msgs (out 8 / in 6), 2024-06-05 -> 2025-01-03
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: done
@@ -174,8 +174,8 @@ updated: 2026-10-22
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：11 封（去 6 / 来 5）　|　**期间**：2024-06-05 → 2025-01-03　|　**最后去信**：2025-01-03
-- **对方邮箱**：info@ekhalas.com
+- **账号**：s.sagatelecom　|　**邮件**：14 封（去 8 / 来 6）　|　**期间**：2024-06-05 → 2025-01-03　|　**最后去信**：2025-01-03
+- **对方邮箱**：inam@alrajhitel.com、info@ekhalas.com
 - **最后一封来信**：2024-10-22 info@ekhalas.com「Thank you for contacting us!Dear」：Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we want to assure you that we are working on finding the best solution for your needs. Our dedicated team members are currently reviewing your que
 - **邮件里报过的价**：2024-12-12 $300；2024-07-24 $65
 
