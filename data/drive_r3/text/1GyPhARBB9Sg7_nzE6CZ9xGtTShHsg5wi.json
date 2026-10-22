@@ -1,0 +1,22 @@
+{
+"id":"1GyPhARBB9Sg7_nzE6CZ9xGtTShHsg5wi",
+"name":"AC+AC with serial port.png",
+"path":"Drive第三轮/Marvell Based Industrial Managed Switch/10G L2+ without PoE/STI-4168XGGCM-U/AC+AC with serial port.png",
+"type":"图片",
+"bytes":170934,
+"sha256":"cc8e9c4f8fb1dc6ef4819a25e05bbcbf3c7fbe3878b1b357bbd7de0f8b5d4c36",
+"extracted_at":"2026-10-22T12:27:28Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":2928,
+"height":1385,
+"mode":"RGBA",
+"thumb_bytes":7778
+},
+"ocr":{
+"text":"482.6mm\n465mm\n圖\n内\nUN\n[7\noy DT\nDS\n圖\n中\nWATT AT\n[7\nNEN\nDS\n圖\n由\nWAT AT\n||| ma || | || a || | | | Pa\n[7\nNING\n| | | ii | | | 點 im| 點 mm | im |\n时\n° ° °o\nWT? 民生\npm\nmm\no\n品\n|\nIE\no\n440mm\nV~240V 50/60Hz 1A\nAC 1001\nAC 100V~240V 50/60Hz 1A\n440mm\n|\n45mm\n280mm",
+"conf":55.0
+},
+"text":"482.6mm\n465mm\n圖\n内\nUN\n[7\noy DT\nDS\n圖\n中\nWATT AT\n[7\nNEN\nDS\n圖\n由\nWAT AT\n||| ma || | || a || | | | Pa\n[7\nNING\n| | | ii | | | 點 im| 點 mm | im |\n时\n° ° °o\nWT? 民生\npm\nmm\no\n品\n|\nIE\no\n440mm\nV~240V 50/60Hz 1A\nAC 1001\nAC 100V~240V 50/60Hz 1A\n440mm\n|\n45mm\n280mm"
+}

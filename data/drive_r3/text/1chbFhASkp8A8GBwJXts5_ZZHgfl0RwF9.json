@@ -1,0 +1,22 @@
+{
+"id":"1chbFhASkp8A8GBwJXts5_ZZHgfl0RwF9",
+"name":"IMG_20220518_154332 拷贝.png",
+"path":"Drive第三轮/Marvell Based Industrial Managed Switch/10G L2+ with PoE/STI-42424XGGPM/IMG_20220518_154332 拷贝.png",
+"type":"图片",
+"bytes":7259571,
+"sha256":"dcad94b0a74d42076028e8a654b63728802c73f5c168ef4b67b6739d67e9089a",
+"extracted_at":"2026-10-22T12:26:44Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":3781,
+"height":2441,
+"mode":"RGBA",
+"thumb_bytes":7072
+},
+"ocr":{
+"text":"DC12-75V DC12-75V\n十 一 +\nQ",
+"conf":92.3
+},
+"text":"DC12-75V DC12-75V\n十 一 +\nQ"
+}

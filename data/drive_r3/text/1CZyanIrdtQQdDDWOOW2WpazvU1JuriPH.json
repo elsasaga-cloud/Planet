@@ -1,0 +1,22 @@
+{
+"id":"1CZyanIrdtQQdDDWOOW2WpazvU1JuriPH",
+"name":"7.png",
+"path":"Drive第三轮/Marvell Based Industrial Managed Switch/10G L2+ with PoE/STI-448XGGGPM/7.png",
+"type":"图片",
+"bytes":4946255,
+"sha256":"0e3e9d24f4153ab492fb2b6d2b419d6379103b4f9e16cb95334b10fd48e31bca",
+"extracted_at":"2026-10-22T12:26:54Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":3285,
+"height":2040,
+"mode":"RGBA",
+"thumb_bytes":7694
+},
+"ocr":{
+"text":"Relay PWR2 PWRI1\nNon-PoE:DC 12-58V; PoE:DC 44-57V\n[EC",
+"conf":73.6
+},
+"text":"Relay PWR2 PWRI1\nNon-PoE:DC 12-58V; PoE:DC 44-57V\n[EC"
+}

@@ -1,0 +1,889 @@
+{
+"id":"1gUFwL6PDLLNhPLjvJULQq8xsKjx8Z04e",
+"name":"STI-4816XGCGPM-U.docx",
+"path":"Drive第三轮/Marvell Based Industrial Managed Switch/L3 with PoE/STI-4816XGCGPM-U.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":2380175,
+"sha256":"44fc3af9565b3d2c2fa965a5a873569d197be5d50ddb3d4985dfd30887c9fbb4",
+"extracted_at":"2026-10-22T12:26:02Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":12066,
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2023-07-22T16:14:00+00:00",
+"modified":"2026-06-22T12:45:09+00:00",
+"paragraphs":84,
+"tables":5,
+"embedded_images":14
+},
+"warnings":[],
+"text":"Key Features\n16*10/100/1000Base-T RJ45 PoE, 8*1G Combo RJ45/SFP, 4*1G/2.5/10GGBase-X SFP+ slots\nDC/DC redundant DC44-57V input with polarity reverse/over-current protection\nComply with IEEE802.3af PoE and IEEE802.3at PoE+ standard\nSupport USB one key configuration &upgrading\nDI/DO/RS485 is optional\nLayer 3 features: Supports static and dynamic routing, RIP, OSPF, BGP4, ECMP, VRRP\nLayer 2 features: VLAN; ERPS, STP/RSTP/MSTP; Link aggregation, IGMP snooping, port mirroring QinQ, 802.1X, port isolation, RMON, NTP client, DHCP snooping/client, Ping/Tracert test, ACL, QoS and SFP DDM function\nManagement and maintenance: IPv4 and IPv6 management; PoE management\nSupport Web, SNMP, CLI, Telnet/SSH management method; Support user management, system log, Configuration upload/download through web interface, firmware upgrade via HTTP/TFTP/USB\nSupport G.8032 ERPS protocol, recovery time≤20ms\nSupport 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\nIP40 fan-less and rack-mount hardware design\nOperation temperature: -40℃~+75℃\nIt is an ideal solution for IP surveillance, wind, electricity, assembly automation, subway PIS, power SCADA, sewage treatment, metallurgy, intelligent transportation, rail transportation, military and other industries\nSpecification\nProduct Name\t32 Port Hybrid Rate Rack Layer 3 Managed Industrial Ethernet PoE Switch\nPort\t16*10/100/1000Base-T RJ45 PoE / 8*COMBO SFP/RJ45 / 4*1G/2.5G/10GBase-X SFP+ / 1*RJ45 Console port(115200,8,N,1) / 1*USB 2.0 for configuration and firmware update\nData&Alarm Port / (Optional)\t1 channel RS485 / 1 channel DI(digital input) / 1 channel DO(digital output)\nNetwork Medium\t10BASE-T: Cat3, 4, 5 or above UTP(≤100 meters) / 100BASE-TX: Cat5 or above UTP(≤100 meters) / 1000BASE-TX: Cat5 or above UTP(≤100 meters)\nNetwork Protocol\tIEEE 802.3 10Base-T Ethernet / IEEE 802.3u 100Base-TX Ethernet / IEEE 802.3ab 1000Base-T Ethernet / IEEE 802.3z 1000Base-X Ethernet / IEEE802.3x Flow Control and Back Pressure / IEEE 802.1D Spanning Tree Protocol / IEEE 802.1w Rapid Spanning Tree Protocol / IEEE 802.1Q VLAN / ITU-T G.8032 ERPS / IEEE 802.1X Port Authentication Network Control / IEEE 802.1ab LLDP / IEEE 802.3ad LACP / IEEE802.3af PoE / IEEE802.3at PoE+\nFiber Option\tHot Plug-able Module(LC) / SM: 1310nm/1550nm, 20Km; 1490nm/1550nm, 40~100Km / MM: 1310nm, 2Km; 850nm, 500-meter\nSwitching Capacity\t128Gbps\nThroughput\t190.4Mpps\nPacket Buffer\t12M\nMAC Address\t16K\nVLAN\t4K\nJumbo Frame\t10Kbytes\nTransfer Mode\tStore and forward, forwarding delay<5us\nMDX/MIDX\tSupport\nWatchdog\tSupport\nMTBF\t200,000 hours\nPoE Protocol\tIEEE802.3af(15.4W), IEEE802.3at(30W) / Remark: auto-sensing PD standard and supply compatible power\nPoE Distance\tmeter / Remark: A PoE extender is required for longer PoE transmission\nPoE Wiring\t1/2(+), 3/6(-)\nPoE Budget\t370W / Max PoE output: 30W/port\nInput Voltage\tDC44-57V(PoE af), DC52-57V(PoE at), Redundant Input / Removable 2*2-pin terminal block\nPoE Output\tDC48V, Active PoE / Remark: DC24V passive PoE is NOT supported / A PoE splitter is required if the powered device receives DC24V voltage\nInput Current\t9A DC input Max\nTotal Power Consumption\tFull loading without PoE≤36W\nReverse Polarity Protection\tSupport\nOver-current Protection\tSupport\nIndustry Standard\tEMI: FCC Part 15B Class A\nSurge protection of power: IEC 61000-4-5 6KV/4KV(8/20us)\nSurge protection of Ethernet ports: IEC 61000-4-5 6KV/2KV(10/700us) / RS: IEC 61000-4-3 80 MHz-1 GHz: 10 V/m / EFT: IEC 61000-4-4  power interface: 4K; Ethernet ports: 2K\nCS: IEC 61000-4-6 10V / ESD: IEC 61000-4-2 Level 4(8K/15K)\nShock: IEC 60068-2-27 / Free fall: IEC 60068-2-32 / Vibration: IEC 60068-2-6\nProtection Level\tIP40(Currently IP66/IP67/IP68 rated models are NOT available)\nInstallation\tRack Mounted\nCertification\tCE/FCC/RoHS/Reach/UKCA\nWorking Environment\tWorking Temperature: -40℃~75℃ / Storage Temperature: -40℃~85℃ / Relative Humidity: 5%~95%, non-condensing\nLED Indicator\tPWR(Power indicator), Green Color / On: power status is normal\nOff: power off or power connection failure / S(System indicator), Red Color / On: Normal operation / Off: Connection failure / Blinking: Device initialization / USB(USB status indicator), Green Color / On: USB flash drive is detected by device / Blinking: the device is reading and writing the data from USB flash drive / Off: USB flash drive is not inserted or not detected by device / ALM(Fault status indicator), Red Color(Optional) / On: Fault alarm / Off: Device on normal working state / Ethernet Port / Green Indicator / On: port link up / Off: port link down / Blinking: data is in normal transmission / Yellow Indicator / PoE ports / On: PoE working / Off: PoE not working / Fiber port, Green Color / On: port link up / Off: port link down / Blinking: data is in normal transmission\nWeb UI\nAbove changes are free of cost(even for 1 piece only)\nDefault IP: 192.168.56.166\nUser Name/Password: admin/admin\nPlease contact us if you need to check\nWeb Manual\nCLI Manual\nFull Software Function List\nUnavailable features\nBelow features are not available for now, and we are NOT going to develop it in 2 or 3 years\nNAT\nStacking\nSD-WAN\nTSN\nMPLS\nCloud Management\nL3 Function\nARP\tARP table aging\nDHCP Server\nIPv4/IPv6\tStatic routing\nECMP\tSupport ECMP(Equal-cost multi-path routing) / Support the configuration of ECMP Max next-hop / Support capacity balanced configuration\nRoute Policy\tIPv4 prefix-list\nVRRP\tVirtual Router Redundancy Protocol\nRouting Protocol Specification\nRIP\tRIPv1/v2\nOSPFv2\tOSPFv2\nBGP4\tBGP4 / BGP Support Routing Recursive ECMP / Support to view the number of neighbors and up/down state\nIS-IS\tIS-ISv4\nRouting Entry\t13K\nL2 Function\nPort Aggregation\tSupport GE port aggregation / Support 2.5GE aggregation / Support 10GE aggregation / Support static aggregation / Support LACP dynamic aggregation / Up to 64 aggregation groups and up to 8 ports per group\nPort Features\tSupport IEEE802.3x flow control / Support interface counters / Support port isolation / Port mirroring(One-to-One, Many-to-One) / Support loop detection(Port-based; VLAN-based) / Support broadcast storm suppression(broadcast; unknown multicast; unknown unicast)\nMac-address Table Management\tSupport static Mac-address management / Support dynamic Mac-address Management / Support filtering Mac-address / Support MAC limit based on port and VLAN / Support MAC flapping based on port and VLAN\nVLAN\tSupport access mode / Support trunk mode / Support hybrid mode\nVLAN Classification\tMac Based VLAN / IP Based VLAN / Protocol Based VLAN\nGVRP\tNormal mode / Fixed mode / Forbidden mode\nQinQ\tPort-based QinQ / VLAN-based QinQ(VLAN-stacking; VLAN-mapping) / Flow-based QinQ\nLLDP\tLLDP(Link Layer Discovery Protocol)\nRing Network Protocol\tSupport IEEE802.1D-STP / Support IEEE802.1W-RSTP / Support IEEE802.1S-MSTP / Support G.8032 ERPS protocol, single ring, sub Ring and major ring / Recovery time≤20ms(based on Marvell switching chipset under ring topology with Rapid Ring Protocol enabled) / Typical ring topologies: single ring, dual ring, tangent ring, intersecting ring, nested ring(ring-in-ring), chain-type and hybrid structures\nL2 Multicast\nIGMP Snooping\tSupport\nGroup Address\tSupport\nSecurity Function\nACL\tIP Standard ACL / MAC extend ACL / IP extend ACL / IPv6 ACL\nQoS\tSupport QoS Class, remarking / Support SP, WRR queue scheduling / Ingress port-based rate-limit / Egress port-based rate-limit / Support policy-based QoS\n802.1x\tPort access control / Mac-address access control / RADIUS server\nPort-security\tPort-security\nIP Source Guard\tIP Port/MAC binding\nARP-check\tSupport ARP-check and ARP packet filtering for illegal users\nAccess Control\tSupport Telnet/SSH/HTTP/HTTPS user access control\nManagement & Maintenance Function\nUser Management\tSupport password protection / Support user authorization management\nSNMP\tSupporting SNMP V1/V2C/V3 version\nWeb Management\tWeb Management / Support HTTP V1.1 / Support HTTPS\nCLI Management\tConsole/Telnet command line management\nRMON\tSupport RMON(Remote Monitoring)alarm\nFirmware Upgrade\tFirmware upgrade\nFault Detection\tPing/Tracerout / Dying gasp / Support optical transceiver DDM function\nCable Detection\tSupport copper port cable detection\nPoE Management\tSupport 802.3af/802.3at / Support PD watchdog / Support PoE priority management / Support Max PoE power configuration for each port / Support alarm waterline configuration / Support reserved power configuration\nNTP\tNetwork Time Protocol\nSyslog/Debug\tSyslog/Debug / Syslog send to two servers\nConfiguration Import/Export\tSupport FTP/TFTP remote import/export / Support USB import/export / SFTP is supported\nDual partition Management\tSupport dual partition switching\nApplication Protocol Function\nDHCP Snooping\tDHCP snooping trust port / Support remote-id/circuit-id configuration / DHCP option-82\nDHCP Client\tSupport DHCP client\nTelnet Server\tSupport telnet server\nTelnet Client\tSupport telnet client\nSSH Server\tSupport SSH server\nTACACS\tSupport TACACS(the terminal access controller accesses the control system)\nsFlow\tSupport network traffic analysis\nTFTP\tSupport TFTP Client\nApplication\nAny network utilizing a mixture of copper and fiber\nIP connectivity and communication\nCCTV system such as network camera, access control\nPacking Information\n1pc switch(neutral device)\n1pc power cable(standards vary across countries)\n1pc user manual(including QIG information)\n1pc console cable(USB2.0 to RJ45 connector)\nPlease know that there is NOT a warranty card in the packing box\nA “Warranty Certificate” will be issued to indicate the order information and warranty coverage\nShipping box information(Below information is approximately accurate)\nProduct size: 440*280*45mm\nInner box size: 525*390*95mm\nProduct weight: 4.1Kg\nPacking weight: 4.5Kg\nMaster box size: 535*205*408mm\nPacking quantity: 2Pcs\nPacking weight: 11Kg\nRemark\nAccessories(Optical module, network cable, patchcord etc.)are NOT included in the packing box\nPlease prepare it by yourself or purchase a whole set from us\nMechanical Drawing\nAC/DC Power Input\nAC/AC Power Input\nRemark: DC/DC Power Input is also available\nPlease contact us if the source file is needed\nData & Alarm\nExplanation\nRS485 Data is a common serial communication protocol widely used to connect sensors, controllers etc.\nThe DI/DO(digital input/output)alarm system is used to detect changes in equipment status and issue an alarm\nDigital input(DI)can receive signals from external devices, such as equipment failure, sensor abnormality, etc.\nDigital output(DO)is used to control external devices, such as turning on or off alarm lights, ringing bells, etc.\nWhen detecting an abnormal state, the DI/DO system will trigger an alarm to notify the operator to take timely action\nApplication\nIndustrial Automation\nIntelligent Manufacturing\nMonitoring System\nConnection\n[Sensors/Devices]--(RS485)--[Industrial Ethernet Switch]--(DI/DO)--[Alarm Device]\nSensors/Devices\nSensors or devices are connected to the industrial switch through the RS485 bus for data transmission\nFor example, temperature sensors, pressure sensors, etc.\nIndustrial Ethernet Switch\nThe industrial switch is responsible for managing connected devices and receives data from sensors via the \tRS485 interface\nIt has built-in DI/DO interfaces for connecting alarm devices\nWhen abnormal sensor data is detected, it triggers the alarm device through the DO interface\nAlarm Device\nAlarm devices, such as warning lights or buzzers, are connected to the industrial switch via the DI interface\nWhen an alarm signal is received, the device generates a visual or audible alert to notify the operator\nMagnetic Door Closed: Alarm Not Triggered\tMagnetic Door Opened: Alarm Triggered\nRJ45/Fiber Connection Fault\tPower Failure\nAlarm Output & Notification Methods\n[页眉页脚]\nMarvell Industrial Managed Series\t                                                                                                  Saga Telecom\n2026/Q3 \t\t\t\t\t                                                                  www.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Key Features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"16*10/100/1000Base-T RJ45 PoE, 8*1G Combo RJ45/SFP, 4*1G/2.5/10GGBase-X SFP+ slots"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DC/DC redundant DC44-57V input with polarity reverse/over-current protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Comply with IEEE802.3af PoE and IEEE802.3at PoE+ standard"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support USB one key configuration &upgrading"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DI/DO/RS485 is optional"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Layer 3 features: Supports static and dynamic routing, RIP, OSPF, BGP4, ECMP, VRRP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Layer 2 features: VLAN; ERPS, STP/RSTP/MSTP; Link aggregation, IGMP snooping, port mirroring QinQ, 802.1X, port isolation, RMON, NTP client, DHCP snooping/client, Ping/Tracert test, ACL, QoS and SFP DDM function"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Management and maintenance: IPv4 and IPv6 management; PoE management"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support Web, SNMP, CLI, Telnet/SSH management method; Support user management, system log, Configuration upload/download through web interface, firmware upgrade via HTTP/TFTP/USB"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support G.8032 ERPS protocol, recovery time≤20ms"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IP40 fan-less and rack-mount hardware design"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Operation temperature: -40℃~+75℃"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is an ideal solution for IP surveillance, wind, electricity, assembly automation, subway PIS, power SCADA, sewage treatment, metallurgy, intelligent transportation, rail transportation, military and other industries"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"Product Name",
+"32 Port Hybrid Rate Rack Layer 3 Managed Industrial Ethernet PoE Switch"
+],
+[
+"Port",
+"16*10/100/1000Base-T RJ45 PoE / 8*COMBO SFP/RJ45 / 4*1G/2.5G/10GBase-X SFP+ / 1*RJ45 Console port(115200,8,N,1) / 1*USB 2.0 for configuration and firmware update"
+],
+[
+"Data&Alarm Port / (Optional)",
+"1 channel RS485 / 1 channel DI(digital input) / 1 channel DO(digital output)"
+],
+[
+"Network Medium",
+"10BASE-T: Cat3, 4, 5 or above UTP(≤100 meters) / 100BASE-TX: Cat5 or above UTP(≤100 meters) / 1000BASE-TX: Cat5 or above UTP(≤100 meters)"
+],
+[
+"Network Protocol",
+"IEEE 802.3 10Base-T Ethernet / IEEE 802.3u 100Base-TX Ethernet / IEEE 802.3ab 1000Base-T Ethernet / IEEE 802.3z 1000Base-X Ethernet / IEEE802.3x Flow Control and Back Pressure / IEEE 802.1D Spanning Tree Protocol / IEEE 802.1w Rapid Spanning Tree Protocol / IEEE 802.1Q VLAN / ITU-T G.8032 ERPS / IEEE 802.1X Port Authentication Network Control / IEEE 802.1ab LLDP / IEEE 802.3ad LACP / IEEE802.3af PoE / IEEE802.3at PoE+"
+],
+[
+"Fiber Option",
+"Hot Plug-able Module(LC) / SM: 1310nm/1550nm, 20Km; 1490nm/1550nm, 40~100Km / MM: 1310nm, 2Km; 850nm, 500-meter"
+],
+[
+"Switching Capacity",
+"128Gbps"
+],
+[
+"Throughput",
+"190.4Mpps"
+],
+[
+"Packet Buffer",
+"12M"
+],
+[
+"MAC Address",
+"16K"
+],
+[
+"VLAN",
+"4K"
+],
+[
+"Jumbo Frame",
+"10Kbytes"
+],
+[
+"Transfer Mode",
+"Store and forward, forwarding delay<5us"
+],
+[
+"MDX/MIDX",
+"Support"
+],
+[
+"Watchdog",
+"Support"
+],
+[
+"MTBF",
+"200,000 hours"
+],
+[
+"PoE Protocol",
+"IEEE802.3af(15.4W), IEEE802.3at(30W) / Remark: auto-sensing PD standard and supply compatible power"
+],
+[
+"PoE Distance",
+"meter / Remark: A PoE extender is required for longer PoE transmission"
+],
+[
+"PoE Wiring",
+"1/2(+), 3/6(-)"
+],
+[
+"PoE Budget",
+"370W / Max PoE output: 30W/port"
+],
+[
+"Input Voltage",
+"DC44-57V(PoE af), DC52-57V(PoE at), Redundant Input / Removable 2*2-pin terminal block"
+],
+[
+"PoE Output",
+"DC48V, Active PoE / Remark: DC24V passive PoE is NOT supported / A PoE splitter is required if the powered device receives DC24V voltage"
+],
+[
+"Input Current",
+"9A DC input Max"
+],
+[
+"Total Power Consumption",
+"Full loading without PoE≤36W"
+],
+[
+"Reverse Polarity Protection",
+"Support"
+],
+[
+"Over-current Protection",
+"Support"
+],
+[
+"Industry Standard",
+"EMI: FCC Part 15B Class A\nSurge protection of power: IEC 61000-4-5 6KV/4KV(8/20us)\nSurge protection of Ethernet ports: IEC 61000-4-5 6KV/2KV(10/700us) / RS: IEC 61000-4-3 80 MHz-1 GHz: 10 V/m / EFT: IEC 61000-4-4  power interface: 4K; Ethernet ports: 2K\nCS: IEC 61000-4-6 10V / ESD: IEC 61000-4-2 Level 4(8K/15K)\nShock: IEC 60068-2-27 / Free fall: IEC 60068-2-32 / Vibration: IEC 60068-2-6"
+],
+[
+"Protection Level",
+"IP40(Currently IP66/IP67/IP68 rated models are NOT available)"
+],
+[
+"Installation",
+"Rack Mounted"
+],
+[
+"Certification",
+"CE/FCC/RoHS/Reach/UKCA"
+],
+[
+"Working Environment",
+"Working Temperature: -40℃~75℃ / Storage Temperature: -40℃~85℃ / Relative Humidity: 5%~95%, non-condensing"
+],
+[
+"LED Indicator",
+"PWR(Power indicator), Green Color / On: power status is normal\nOff: power off or power connection failure / S(System indicator), Red Color / On: Normal operation / Off: Connection failure / Blinking: Device initialization / USB(USB status indicator), Green Color / On: USB flash drive is detected by device / Blinking: the device is reading and writing the data from USB flash drive / Off: USB flash drive is not inserted or not detected by device / ALM(Fault status indicator), Red Color(Optional) / On: Fault alarm / Off: Device on normal working state / Ethernet Port / Green Indicator / On: port link up / Off: port link down / Blinking: data is in normal transmission / Yellow Indicator / PoE ports / On: PoE working / Off: PoE not working / Fiber port, Green Color / On: port link up / Off: port link down / Blinking: data is in normal transmission"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Web UI"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Above changes are free of cost(even for 1 piece only)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Default IP: 192.168.56.166"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"User Name/Password: admin/admin"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please contact us if you need to check"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Web Manual"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CLI Manual"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Full Software Function List"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Unavailable features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Below features are not available for now, and we are NOT going to develop it in 2 or 3 years"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"NAT"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Stacking"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SD-WAN"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"TSN"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MPLS"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Cloud Management"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"L3 Function"
+},
+{
+"t":"table",
+"rows":[
+[
+"ARP",
+"ARP table aging"
+],
+[
+"DHCP Server"
+],
+[
+"IPv4/IPv6",
+"Static routing"
+],
+[
+"ECMP",
+"Support ECMP(Equal-cost multi-path routing) / Support the configuration of ECMP Max next-hop / Support capacity balanced configuration"
+],
+[
+"Route Policy",
+"IPv4 prefix-list"
+],
+[
+"VRRP",
+"Virtual Router Redundancy Protocol"
+],
+[
+"Routing Protocol Specification"
+],
+[
+"RIP",
+"RIPv1/v2"
+],
+[
+"OSPFv2",
+"OSPFv2"
+],
+[
+"BGP4",
+"BGP4 / BGP Support Routing Recursive ECMP / Support to view the number of neighbors and up/down state"
+],
+[
+"IS-IS",
+"IS-ISv4"
+],
+[
+"Routing Entry",
+"13K"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"L2 Function"
+},
+{
+"t":"table",
+"rows":[
+[
+"Port Aggregation",
+"Support GE port aggregation / Support 2.5GE aggregation / Support 10GE aggregation / Support static aggregation / Support LACP dynamic aggregation / Up to 64 aggregation groups and up to 8 ports per group"
+],
+[
+"Port Features",
+"Support IEEE802.3x flow control / Support interface counters / Support port isolation / Port mirroring(One-to-One, Many-to-One) / Support loop detection(Port-based; VLAN-based) / Support broadcast storm suppression(broadcast; unknown multicast; unknown unicast)"
+],
+[
+"Mac-address Table Management",
+"Support static Mac-address management / Support dynamic Mac-address Management / Support filtering Mac-address / Support MAC limit based on port and VLAN / Support MAC flapping based on port and VLAN"
+],
+[
+"VLAN",
+"Support access mode / Support trunk mode / Support hybrid mode"
+],
+[
+"VLAN Classification",
+"Mac Based VLAN / IP Based VLAN / Protocol Based VLAN"
+],
+[
+"GVRP",
+"Normal mode / Fixed mode / Forbidden mode"
+],
+[
+"QinQ",
+"Port-based QinQ / VLAN-based QinQ(VLAN-stacking; VLAN-mapping) / Flow-based QinQ"
+],
+[
+"LLDP",
+"LLDP(Link Layer Discovery Protocol)"
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+"Ring Network Protocol",
+"Support IEEE802.1D-STP / Support IEEE802.1W-RSTP / Support IEEE802.1S-MSTP / Support G.8032 ERPS protocol, single ring, sub Ring and major ring / Recovery time≤20ms(based on Marvell switching chipset under ring topology with Rapid Ring Protocol enabled) / Typical ring topologies: single ring, dual ring, tangent ring, intersecting ring, nested ring(ring-in-ring), chain-type and hybrid structures"
+],
+[
+"L2 Multicast"
+],
+[
+"IGMP Snooping",
+"Support"
+],
+[
+"Group Address",
+"Support"
+],
+[
+"Security Function"
+],
+[
+"ACL",
+"IP Standard ACL / MAC extend ACL / IP extend ACL / IPv6 ACL"
+],
+[
+"QoS",
+"Support QoS Class, remarking / Support SP, WRR queue scheduling / Ingress port-based rate-limit / Egress port-based rate-limit / Support policy-based QoS"
+],
+[
+"802.1x",
+"Port access control / Mac-address access control / RADIUS server"
+],
+[
+"Port-security",
+"Port-security"
+],
+[
+"IP Source Guard",
+"IP Port/MAC binding"
+],
+[
+"ARP-check",
+"Support ARP-check and ARP packet filtering for illegal users"
+],
+[
+"Access Control",
+"Support Telnet/SSH/HTTP/HTTPS user access control"
+],
+[
+"Management & Maintenance Function"
+],
+[
+"User Management",
+"Support password protection / Support user authorization management"
+],
+[
+"SNMP",
+"Supporting SNMP V1/V2C/V3 version"
+],
+[
+"Web Management",
+"Web Management / Support HTTP V1.1 / Support HTTPS"
+],
+[
+"CLI Management",
+"Console/Telnet command line management"
+],
+[
+"RMON",
+"Support RMON(Remote Monitoring)alarm"
+],
+[
+"Firmware Upgrade",
+"Firmware upgrade"
+],
+[
+"Fault Detection",
+"Ping/Tracerout / Dying gasp / Support optical transceiver DDM function"
+],
+[
+"Cable Detection",
+"Support copper port cable detection"
+],
+[
+"PoE Management",
+"Support 802.3af/802.3at / Support PD watchdog / Support PoE priority management / Support Max PoE power configuration for each port / Support alarm waterline configuration / Support reserved power configuration"
+],
+[
+"NTP",
+"Network Time Protocol"
+],
+[
+"Syslog/Debug",
+"Syslog/Debug / Syslog send to two servers"
+],
+[
+"Configuration Import/Export",
+"Support FTP/TFTP remote import/export / Support USB import/export / SFTP is supported"
+],
+[
+"Dual partition Management",
+"Support dual partition switching"
+],
+[
+"Application Protocol Function"
+],
+[
+"DHCP Snooping",
+"DHCP snooping trust port / Support remote-id/circuit-id configuration / DHCP option-82"
+],
+[
+"DHCP Client",
+"Support DHCP client"
+],
+[
+"Telnet Server",
+"Support telnet server"
+],
+[
+"Telnet Client",
+"Support telnet client"
+],
+[
+"SSH Server",
+"Support SSH server"
+],
+[
+"TACACS",
+"Support TACACS(the terminal access controller accesses the control system)"
+],
+[
+"sFlow",
+"Support network traffic analysis"
+],
+[
+"TFTP",
+"Support TFTP Client"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Application"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Any network utilizing a mixture of copper and fiber"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IP connectivity and communication"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CCTV system such as network camera, access control"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Packing Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc switch(neutral device)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc power cable(standards vary across countries)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc user manual(including QIG information)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc console cable(USB2.0 to RJ45 connector)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that there is NOT a warranty card in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A “Warranty Certificate” will be issued to indicate the order information and warranty coverage"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipping box information(Below information is approximately accurate)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product size: 440*280*45mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Inner box size: 525*390*95mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product weight: 4.1Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 4.5Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Master box size: 535*205*408mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing quantity: 2Pcs"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 11Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Accessories(Optical module, network cable, patchcord etc.)are NOT included in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please prepare it by yourself or purchase a whole set from us"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Mechanical Drawing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"AC/DC Power Input"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"AC/AC Power Input"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark: DC/DC Power Input is also available"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please contact us if the source file is needed"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Data & Alarm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Explanation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"RS485 Data is a common serial communication protocol widely used to connect sensors, controllers etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The DI/DO(digital input/output)alarm system is used to detect changes in equipment status and issue an alarm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Digital input(DI)can receive signals from external devices, such as equipment failure, sensor abnormality, etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Digital output(DO)is used to control external devices, such as turning on or off alarm lights, ringing bells, etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"When detecting an abnormal state, the DI/DO system will trigger an alarm to notify the operator to take timely action"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Application"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Industrial Automation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Intelligent Manufacturing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Monitoring System"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"[Sensors/Devices]--(RS485)--[Industrial Ethernet Switch]--(DI/DO)--[Alarm Device]"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Sensors/Devices"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Sensors or devices are connected to the industrial switch through the RS485 bus for data transmission"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For example, temperature sensors, pressure sensors, etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Industrial Ethernet Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The industrial switch is responsible for managing connected devices and receives data from sensors via the \tRS485 interface"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It has built-in DI/DO interfaces for connecting alarm devices"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"When abnormal sensor data is detected, it triggers the alarm device through the DO interface"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Alarm Device"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Alarm devices, such as warning lights or buzzers, are connected to the industrial switch via the DI interface"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"When an alarm signal is received, the device generates a visual or audible alert to notify the operator"
+},
+{
+"t":"table",
+"rows":[
+[
+"Magnetic Door Closed: Alarm Not Triggered",
+"Magnetic Door Opened: Alarm Triggered"
+],
+[
+"RJ45/Fiber Connection Fault",
+"Power Failure"
+],
+[
+"Alarm Output & Notification Methods"
+]
+]
+}
+],
+"header_footer":[
+"Marvell Industrial Managed Series\t                                                                                                  Saga Telecom",
+"2026/Q3 \t\t\t\t\t                                                                  www.sagatelecom.com.cn",
+"Tailored Managed Networking Solutions Provider",
+"Built to Last, Continuous Supply, Evolving Together"
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":179941
+},
+{
+"name":"image10.png",
+"bytes":198547
+},
+{
+"name":"image11.jpeg",
+"bytes":23811
+},
+{
+"name":"image12.png",
+"bytes":190551
+},
+{
+"name":"image13.png",
+"bytes":145637
+},
+{
+"name":"image2.png",
+"bytes":49530
+},
+{
+"name":"image3.png",
+"bytes":163816
+},
+{
+"name":"image4.jpeg",
+"bytes":7272
+},
+{
+"name":"image5.jpeg",
+"bytes":39208
+},
+{
+"name":"image6.png",
+"bytes":51788
+},
+{
+"name":"image7.png",
+"bytes":52430
+},
+{
+"name":"image8.png",
+"bytes":1053769
+},
+{
+"name":"image9.png",
+"bytes":111273
+}
+]
+}

@@ -1,0 +1,22 @@
+{
+"id":"1VeHIWpxnfU6rOpGLiMRViwbcWc9o7lC7",
+"name":"AC+AC with serial port.png",
+"path":"Drive第三轮/Marvell Based Industrial Managed Switch/10G L2+ with PoE/STI-42424XGGPM-U/AC+AC with serial port.png",
+"type":"图片",
+"bytes":169791,
+"sha256":"cc799bb590c2b9492e3889c9cd1af570e71ea53da7b2a29a94fd85c1999220ef",
+"extracted_at":"2026-10-22T12:26:27Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":2928,
+"height":1385,
+"mode":"RGBA",
+"thumb_bytes":7709
+},
+"ocr":{
+"text":"45mm\n45mm\n45mm\nYellow:PoE/Speed Green:Linkjact\nmn mm\nae) ee\nAC 100V~240V 50/60Hz 1A\nAC 100V~240V 50/60Hz 1A\n440mm\n280mm",
+"conf":67.3
+},
+"text":"45mm\n45mm\n45mm\nYellow:PoE/Speed Green:Linkjact\nmn mm\nae) ee\nAC 100V~240V 50/60Hz 1A\nAC 100V~240V 50/60Hz 1A\n440mm\n280mm"
+}

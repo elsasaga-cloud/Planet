@@ -1,0 +1,22 @@
+{
+"id":"15lqwWGLwOTKQTJzBThLdm8ICrWvYYDrH",
+"name":"8+4-serial.png",
+"path":"Drive第三轮/Marvell Based Industrial Managed Switch/10G L2+ with PoE/STI-488XGGPM/8+4-serial.png",
+"type":"图片",
+"bytes":119510,
+"sha256":"bf354041076a573f1ab8995056c782537eb07b7858293e65d746e20a59f42641",
+"extracted_at":"2026-10-22T12:27:09Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":1812,
+"height":754,
+"mode":"RGBA",
+"thumb_bytes":9403
+},
+"ocr":{
+"text":"uuis Uuz8s\n54mm\n115mm\n131mm",
+"conf":65.0
+},
+"text":"uuis Uuz8s\n54mm\n115mm\n131mm"
+}

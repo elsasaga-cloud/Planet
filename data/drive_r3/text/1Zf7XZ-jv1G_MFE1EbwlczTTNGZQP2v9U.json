@@ -1,0 +1,22 @@
+{
+"id":"1Zf7XZ-jv1G_MFE1EbwlczTTNGZQP2v9U",
+"name":"16+4-serial.png",
+"path":"Drive第三轮/Marvell Based Industrial Managed Switch/10G L2+ with PoE/STI-41616XGGPM/16+4-serial.png",
+"type":"图片",
+"bytes":137547,
+"sha256":"b546d19d6c1dab765b98d16d6e0931bef20d68bb1ab1c292a5c8341e9eab795c",
+"extracted_at":"2026-10-22T12:26:23Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":2064,
+"height":701,
+"mode":"RGBA",
+"thumb_bytes":8143
+},
+"ocr":{
+"text":"回 回\nE\nE\ner\nE |=\noO\nnay\nE\nE\n%\n說\n图 回\n| 1104mm Tomm\n131mm",
+"conf":64.6
+},
+"text":"回 回\nE\nE\ner\nE |=\noO\nnay\nE\nE\n%\n說\n图 回\n| 1104mm Tomm\n131mm"
+}

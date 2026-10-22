@@ -1,0 +1,505 @@
+{
+"id":"1nDT9AKcZA_Wa-5CwBskmXKCLZohE4i6r",
+"name":"STI-240GM.docx",
+"path":"Drive第三轮/Marvell Based Industrial Managed Switch/L2/STI-240GM.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":1459300,
+"sha256":"aeae21fbd99f76088a9d765a96e6d213b765c7175d2681effb97238b1d3270a6",
+"extracted_at":"2026-10-22T12:25:56Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":6262,
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2023-07-22T16:14:00+00:00",
+"modified":"2026-06-22T12:46:54+00:00",
+"paragraphs":56,
+"tables":2,
+"embedded_images":11
+},
+"warnings":[],
+"text":"Key Features\n4*10/100/1000Base-T RJ45 ports, 2*100/1000Base-X SFP slots\nRedundant DC12-58V power input with polarity reverse/over-current protection\nLayer 2 features: VLAN/Port Mirroring/IGMP/QoS/LLDP/802.1X\nFiber transceiver DDM/IPv6 management/Web/SNMP/Telnet/TFTP/Web upgrading\nSupport G.8032 ERPS protocol, recovery time≤20ms\nSupport 4KV surge protection and ESD: Air-15KV, Contact-8KV Protection\nIP40 fan-less and Din-rail hardware design\nOperation temperature: -40℃~+75℃\nIt is an ideal solution for IP surveillance, wind, electricity, assembly automation, subway PIS, power SCADA, sewage treatment, metallurgy, intelligent transportation, rail transportation, military and other industries\nSpecification\nProduct Name\t6 Port 1000M Layer 2 Managed Industrial Ethernet Switch\nPort\t4*10/100/1000Base-T RJ45 / 2*100/1000Base-X SFP / 1*RJ45 Console port(115200,8,N,1)\nNetwork Medium\t10BASE-T: Cat3, 4, 5 or above UTP(≤100 meters) / 100BASE-TX: Cat5 or above UTP(≤100 meters) / 1000BASE-TX: Cat5 or above UTP(≤100 meters)\nNetwork Protocol\tIEEE 802.3 10Base-T / IEEE 802.3u 100Base-TX / IEEE 802.3ab 1000Base-T / IEEE 802.3z 1000Base-X / IEEE 802.3x flow control and back pressure / IEEE 802.1D spanning tree protocol / IEEE 802.1w rapid spanning tree protocol / IEEE 802.1Q VLAN tagging / ITU-T G.8032 ERPS / IEEE 802.1X port authentication network control / IEEE 802.1ab LLDP / IEEE 802.3ad LACP\nFiber Option\tHot Plug-able Module(LC), 100M or 1000M based / Default speed is 1000M, 100M speed needs to be configured in the management / SM: 1310nm/1550nm, 20Km; 1490nm/1550nm, 40~100Km / MM: 1310nm, 2Km; 850nm, 500-meter / Remark: 1*9 fixed module is NOT available on this model\nSwitching Capacity\t12Gbps\nThroughput\t17.8Mpps\nPacket Buffer\t1M\nMAC Address\t8K\nVLAN\t4K\nJumbo Frame\t10Kbytes\nTransfer Mode\tStore and forward, forwarding delay<5us\nMDX/MIDX\tSupport\nWatchdog\tSupport\nMTBF\t200,000 hours\nInput Voltage\tDC12-58V, Redundant Input / Removable 4-pin terminal block\nInput Current\t0.5A Max\nTotal Power Consumption\tFull loading≤6W\nReverse Polarity Protection\tSupport\nProtection Level\tIP40(Currently IP66/IP67/IP68 rated models are NOT available)\nInstallation\tDin Rail or Wall Mounted(1pc mounting hanger is offered)\nCertification\tCE/FCC/RoHS/Reach/UKCA\nWorking Environment\tWorking Temperature: -40℃~75℃ / Storage Temperature: -40℃~85℃ / Relative Humidity: 5%~95%, non-condensing\nIndustry Standard\tSurge protection of power: IEC 61000-4-5 Level 3(4KV/2KV)(8/20us)\nSurge protection of Ethernet ports: IEC 61000-4-5 Level 3(4KV/2KV) / (10/700us) / DIP: IEC 61000-4-11 Level 3(10V) / ESD: IEC 61000-4-2 Level 4(8K/15K) / Shock: IEC 60068-2-27 / Free fall: IEC 60068-2-32 / Vibration: IEC 60068-2-6\nLED Indicator\tPWR(Power indicator), Green Color / On: power status is normal\nOff: power off or power connection failure / S(System indicator), Red Color / On: Normal operation / Off: Connection failure / Blinking: Device initialization / Ethernet Port / Green Indicator / On: port link up / Off: port link down / Blinking: data is in normal transmission / Yellow Indicator / On: port speed is 1000M / Off: port speed is 10/100M / Fiber port, Green Color / On: port link up / Off: port link down / Blinking: data is in normal transmission\nWeb UI\nAbove changes are free of cost(even for 1 piece only)\nDefault IP: 192.168.56.166\nUser Name/Password: admin/admin\nPlease contact us if you need to check\nWeb Manual\nCLI Manual\nFull Software Function List\nUnavailable features\nBelow features are not available for now, and we are NOT going to develop it in 2 or 3 years\nNAT\nStacking\nSD-WAN\nTSN\nMPLS\nCloud Management\nL2 Function\nPort Aggregation\tSupport static aggregation / Support dynamic aggregation\nPort Features\tSupport IEEE802.3x flow control / Support Port traffic statistics / Support port isolation / Support network storm suppression based on port bandwidth percentage\nVLAN\tSupport access mode / Support trunk mode / Support hybrid mode\nPort Mirroring\tSupport many to one port mirroring\nRing Network Protocol\tSupport STP, RSTP / Support G.8032 ERPS protocol, single ring, sub Ring and associated sub ring / Recovery time≤20ms(based on Marvell switching chipset under ring topology with Rapid Ring Protocol enabled)\nMulticast\tIGMP snooping\nQoS\tIngress Port-based Rate-limit / Egress Port-based Rate-limit\nSecurity Features\tSupport 802.1x, port authentication, MAC authentication, RADIUS service / Support port isolation\nManagement and Maintenance\tSupport LLDP / Support user management and login authentication / Support SNMPV1/V2C/V3 / Support web management, HTTP1.1, HTTPS / Support Syslog and alarm grading / Support RMON(Remote Monitoring)alarm / Support NTP / Support Ping, Tracert / Support optical transceiver DDM function / Support TFTP Client / Support Telnet Server / Support SSH Server / Support IPv6 Management / Support TFTP, web upgrading\nApplication\nAny network utilizing a mixture of copper and fiber\nIP connectivity and communication\nCCTV system such as network camera, access control\nMechanical Drawing\nRemark\nPlease contact us if the source file is needed\nPacking Information\n1pc switch(neutral device)\n1pc wall hanger(shared holes with DIN Rail Kit)\n1pc user manual(including QIG information)\n1pc console cable(USB2.0 to RJ45 connector)\nPlease know that there is NOT a warranty card in the packing box\nA “Warranty Certificate” will be issued to indicate the order information and warranty coverage\nShipping box information(Below information is approximately accurate)\nProduct size: 130*98*30mm\nInner box size: 184*150*50mm\nProduct weight: 0.55Kg\nPacking weight: 0.7Kg\nMaster box size: 385*330*320mm\nPacking quantity: 24Pcs\nPacking weight: 17Kg\nRemark\nAccessories(DIN rail bracket, optical module, power supply, network cable etc.)are NOT included in the packing box\nPlease prepare it by yourself or purchase a whole set from us\nProduct Picture\nRemark\nPlease let us know if you need to check the PCBs\n[页眉页脚]\nMarvell Industrial Managed Series\t                                                                                                  Saga Telecom\n2026/Q3\t\t\t\t\t                                                                  www.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Key Features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4*10/100/1000Base-T RJ45 ports, 2*100/1000Base-X SFP slots"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Redundant DC12-58V power input with polarity reverse/over-current protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Layer 2 features: VLAN/Port Mirroring/IGMP/QoS/LLDP/802.1X"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Fiber transceiver DDM/IPv6 management/Web/SNMP/Telnet/TFTP/Web upgrading"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support G.8032 ERPS protocol, recovery time≤20ms"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support 4KV surge protection and ESD: Air-15KV, Contact-8KV Protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IP40 fan-less and Din-rail hardware design"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Operation temperature: -40℃~+75℃"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is an ideal solution for IP surveillance, wind, electricity, assembly automation, subway PIS, power SCADA, sewage treatment, metallurgy, intelligent transportation, rail transportation, military and other industries"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"Product Name",
+"6 Port 1000M Layer 2 Managed Industrial Ethernet Switch"
+],
+[
+"Port",
+"4*10/100/1000Base-T RJ45 / 2*100/1000Base-X SFP / 1*RJ45 Console port(115200,8,N,1)"
+],
+[
+"Network Medium",
+"10BASE-T: Cat3, 4, 5 or above UTP(≤100 meters) / 100BASE-TX: Cat5 or above UTP(≤100 meters) / 1000BASE-TX: Cat5 or above UTP(≤100 meters)"
+],
+[
+"Network Protocol",
+"IEEE 802.3 10Base-T / IEEE 802.3u 100Base-TX / IEEE 802.3ab 1000Base-T / IEEE 802.3z 1000Base-X / IEEE 802.3x flow control and back pressure / IEEE 802.1D spanning tree protocol / IEEE 802.1w rapid spanning tree protocol / IEEE 802.1Q VLAN tagging / ITU-T G.8032 ERPS / IEEE 802.1X port authentication network control / IEEE 802.1ab LLDP / IEEE 802.3ad LACP"
+],
+[
+"Fiber Option",
+"Hot Plug-able Module(LC), 100M or 1000M based / Default speed is 1000M, 100M speed needs to be configured in the management / SM: 1310nm/1550nm, 20Km; 1490nm/1550nm, 40~100Km / MM: 1310nm, 2Km; 850nm, 500-meter / Remark: 1*9 fixed module is NOT available on this model"
+],
+[
+"Switching Capacity",
+"12Gbps"
+],
+[
+"Throughput",
+"17.8Mpps"
+],
+[
+"Packet Buffer",
+"1M"
+],
+[
+"MAC Address",
+"8K"
+],
+[
+"VLAN",
+"4K"
+],
+[
+"Jumbo Frame",
+"10Kbytes"
+],
+[
+"Transfer Mode",
+"Store and forward, forwarding delay<5us"
+],
+[
+"MDX/MIDX",
+"Support"
+],
+[
+"Watchdog",
+"Support"
+],
+[
+"MTBF",
+"200,000 hours"
+],
+[
+"Input Voltage",
+"DC12-58V, Redundant Input / Removable 4-pin terminal block"
+],
+[
+"Input Current",
+"0.5A Max"
+],
+[
+"Total Power Consumption",
+"Full loading≤6W"
+],
+[
+"Reverse Polarity Protection",
+"Support"
+],
+[
+"Protection Level",
+"IP40(Currently IP66/IP67/IP68 rated models are NOT available)"
+],
+[
+"Installation",
+"Din Rail or Wall Mounted(1pc mounting hanger is offered)"
+],
+[
+"Certification",
+"CE/FCC/RoHS/Reach/UKCA"
+],
+[
+"Working Environment",
+"Working Temperature: -40℃~75℃ / Storage Temperature: -40℃~85℃ / Relative Humidity: 5%~95%, non-condensing"
+],
+[
+"Industry Standard",
+"Surge protection of power: IEC 61000-4-5 Level 3(4KV/2KV)(8/20us)\nSurge protection of Ethernet ports: IEC 61000-4-5 Level 3(4KV/2KV) / (10/700us) / DIP: IEC 61000-4-11 Level 3(10V) / ESD: IEC 61000-4-2 Level 4(8K/15K) / Shock: IEC 60068-2-27 / Free fall: IEC 60068-2-32 / Vibration: IEC 60068-2-6"
+],
+[
+"LED Indicator",
+"PWR(Power indicator), Green Color / On: power status is normal\nOff: power off or power connection failure / S(System indicator), Red Color / On: Normal operation / Off: Connection failure / Blinking: Device initialization / Ethernet Port / Green Indicator / On: port link up / Off: port link down / Blinking: data is in normal transmission / Yellow Indicator / On: port speed is 1000M / Off: port speed is 10/100M / Fiber port, Green Color / On: port link up / Off: port link down / Blinking: data is in normal transmission"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Web UI"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Above changes are free of cost(even for 1 piece only)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Default IP: 192.168.56.166"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"User Name/Password: admin/admin"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please contact us if you need to check"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Web Manual"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CLI Manual"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Full Software Function List"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Unavailable features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Below features are not available for now, and we are NOT going to develop it in 2 or 3 years"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"NAT"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Stacking"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SD-WAN"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"TSN"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MPLS"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Cloud Management"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"L2 Function"
+},
+{
+"t":"table",
+"rows":[
+[
+"Port Aggregation",
+"Support static aggregation / Support dynamic aggregation"
+],
+[
+"Port Features",
+"Support IEEE802.3x flow control / Support Port traffic statistics / Support port isolation / Support network storm suppression based on port bandwidth percentage"
+],
+[
+"VLAN",
+"Support access mode / Support trunk mode / Support hybrid mode"
+],
+[
+"Port Mirroring",
+"Support many to one port mirroring"
+],
+[
+"Ring Network Protocol",
+"Support STP, RSTP / Support G.8032 ERPS protocol, single ring, sub Ring and associated sub ring / Recovery time≤20ms(based on Marvell switching chipset under ring topology with Rapid Ring Protocol enabled)"
+],
+[
+"Multicast",
+"IGMP snooping"
+],
+[
+"QoS",
+"Ingress Port-based Rate-limit / Egress Port-based Rate-limit"
+],
+[
+"Security Features",
+"Support 802.1x, port authentication, MAC authentication, RADIUS service / Support port isolation"
+],
+[
+"Management and Maintenance",
+"Support LLDP / Support user management and login authentication / Support SNMPV1/V2C/V3 / Support web management, HTTP1.1, HTTPS / Support Syslog and alarm grading / Support RMON(Remote Monitoring)alarm / Support NTP / Support Ping, Tracert / Support optical transceiver DDM function / Support TFTP Client / Support Telnet Server / Support SSH Server / Support IPv6 Management / Support TFTP, web upgrading"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Application"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Any network utilizing a mixture of copper and fiber"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IP connectivity and communication"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CCTV system such as network camera, access control"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Mechanical Drawing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please contact us if the source file is needed"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Packing Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc switch(neutral device)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc wall hanger(shared holes with DIN Rail Kit)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc user manual(including QIG information)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc console cable(USB2.0 to RJ45 connector)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that there is NOT a warranty card in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A “Warranty Certificate” will be issued to indicate the order information and warranty coverage"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipping box information(Below information is approximately accurate)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product size: 130*98*30mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Inner box size: 184*150*50mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product weight: 0.55Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 0.7Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Master box size: 385*330*320mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing quantity: 24Pcs"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 17Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Accessories(DIN rail bracket, optical module, power supply, network cable etc.)are NOT included in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please prepare it by yourself or purchase a whole set from us"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Product Picture"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please let us know if you need to check the PCBs"
+}
+],
+"header_footer":[
+"Marvell Industrial Managed Series\t                                                                                                  Saga Telecom",
+"2026/Q3\t\t\t\t\t                                                                  www.sagatelecom.com.cn",
+"Tailored Managed Networking Solutions Provider",
+"Built to Last, Continuous Supply, Evolving Together"
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":290731
+},
+{
+"name":"image10.png",
+"bytes":107668
+},
+{
+"name":"image2.png",
+"bytes":49530
+},
+{
+"name":"image3.png",
+"bytes":163816
+},
+{
+"name":"image4.png",
+"bytes":46917
+},
+{
+"name":"image5.jpeg",
+"bytes":17250
+},
+{
+"name":"image6.png",
+"bytes":182520
+},
+{
+"name":"image7.png",
+"bytes":118095
+},
+{
+"name":"image8.png",
+"bytes":98893
+},
+{
+"name":"image9.png",
+"bytes":121826
+}
+]
+}

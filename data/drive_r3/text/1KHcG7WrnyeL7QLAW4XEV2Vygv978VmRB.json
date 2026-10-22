@@ -1,0 +1,22 @@
+{
+"id":"1KHcG7WrnyeL7QLAW4XEV2Vygv978VmRB",
+"name":"7.png",
+"path":"Drive第三轮/Marvell Based Industrial Managed Switch/10G L2+ with PoE/STI-488XGGPM/7.png",
+"type":"图片",
+"bytes":4719316,
+"sha256":"c8340ed2b0ef1ca13b15c4a1cd5a388ebba9752e421b51d0df28ef148b6dfada",
+"extracted_at":"2026-10-22T12:27:13Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":3465,
+"height":2036,
+"mode":"RGBA",
+"thumb_bytes":6818
+},
+"ocr":{
+"text":"PWR1 PWR2 Console\na ee 115200,8,N, 1\nNon-PoE:DC 12-58V; PoE:DC 44-57V",
+"conf":77.2
+},
+"text":"PWR1 PWR2 Console\na ee 115200,8,N, 1\nNon-PoE:DC 12-58V; PoE:DC 44-57V"
+}

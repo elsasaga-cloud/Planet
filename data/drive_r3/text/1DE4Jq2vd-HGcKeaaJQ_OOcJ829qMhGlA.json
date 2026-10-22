@@ -1,0 +1,22 @@
+{
+"id":"1DE4Jq2vd-HGcKeaaJQ_OOcJ829qMhGlA",
+"name":"AC+DC.png",
+"path":"Drive第三轮/Marvell Based Industrial Managed Switch/10G L2+ without PoE/STI-4480XGGM-U/AC+DC.png",
+"type":"图片",
+"bytes":183293,
+"sha256":"5e8355111494b1681ef1b6a63b26e0b78f6c09e84c917bd11501ac5ae467a82d",
+"extracted_at":"2026-10-22T12:27:38Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":2928,
+"height":1384,
+"mode":"RGBA",
+"thumb_bytes":8384
+},
+"ocr":{
+"text":"45mm\n45mm\n482.6mm\n465mm\n办 用 && LH A HH EH RK US\nAC 100V~240V 50/60Hz 1A\n440mm\n280mm",
+"conf":64.5
+},
+"text":"45mm\n45mm\n482.6mm\n465mm\n办 用 && LH A HH EH RK US\nAC 100V~240V 50/60Hz 1A\n440mm\n280mm"
+}
