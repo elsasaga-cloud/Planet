@@ -1,0 +1,22 @@
+{
+"id":"1uxWskR23Sibwl2qGSqJP1hOJ9cTwjpOW",
+"name":"6系管理型4光8电.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/4光8电/网管/千兆/中性机械结构图/6系管理型4光8电.png",
+"type":"图片",
+"bytes":149912,
+"sha256":"20c833bc8b0b8aea1d80fe4387cd948548bb5b8262577ba3f192abfda1d16ff5",
+"extracted_at":"2026-10-22T02:18:37Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":4552,
+"height":2097,
+"mode":"RGB",
+"thumb_bytes":6121
+},
+"ocr":{
+"text":"@ @\na\na\na\na\n1_@ @\n8ST\n0 © @\n0\n.0\noO\n.0\n@ @\nHugg\nee ee Lr LI LI\nie) mamamaom Console E\n过\nSooooe Cd 了\n二 TS300Tra\nml\nso 一 > < ao ，，F = =\nso|F 一 一 (CREE) o 「 中 本 號 可 唔\n° ° ° °\nJO,\n115mm ——______ F- 115mmn 一",
+"conf":51.4
+},
+"text":"@ @\na\na\na\na\n1_@ @\n8ST\n0 © @\n0\n.0\noO\n.0\n@ @\nHugg\nee ee Lr LI LI\nie) mamamaom Console E\n过\nSooooe Cd 了\n二 TS300Tra\nml\nso 一 > < ao ，，F = =\nso|F 一 一 (CREE) o 「 中 本 號 可 唔\n° ° ° °\nJO,\n115mm ——______ F- 115mmn 一"
+}

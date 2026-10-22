@@ -1,0 +1,22 @@
+{
+"id":"1xS085N3vcbNFzPiKnwEUo4fDHUnZpS-M",
+"name":"非管理2光8电-机械结构图.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/2光8电/非管理/千兆/非管理2光8电-机械结构图.png",
+"type":"图片",
+"bytes":173468,
+"sha256":"5e6ca0e153b223296cfe40c66d4e0a35913239627d8a56675efbdb01d7fb23b0",
+"extracted_at":"2026-10-22T02:18:05Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":4552,
+"height":2097,
+"mode":"RGB",
+"thumb_bytes":5537
+},
+"ocr":{
+"text":"oaoooo\nWu08T\n口 口 口 口 口 品\n@\n@\n-K——_———_ 98mm —WY_—_, 98 mm 一 四\nHW wwoe t+\nPWRI__PWR2 relay\nFormomoAmaormaory\n-Wol\noz\nSee)\nrs\n@ MS\n2) 還\n一 一 一 54mm 一 一 一\n| wu86\nPO os\n90 O10\n| 54mm——_\nE\nE\nSo\n人\n中",
+"conf":51.8
+},
+"text":"oaoooo\nWu08T\n口 口 口 口 口 品\n@\n@\n-K——_———_ 98mm —WY_—_, 98 mm 一 四\nHW wwoe t+\nPWRI__PWR2 relay\nFormomoAmaormaory\n-Wol\noz\nSee)\nrs\n@ MS\n2) 還\n一 一 一 54mm 一 一 一\n| wu86\nPO os\n90 O10\n| 54mm——_\nE\nE\nSo\n人\n中"
+}

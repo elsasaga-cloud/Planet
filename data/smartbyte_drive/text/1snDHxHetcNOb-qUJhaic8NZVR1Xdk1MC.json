@@ -1,0 +1,22 @@
+{
+"id":"1snDHxHetcNOb-qUJhaic8NZVR1Xdk1MC",
+"name":"6系非管理4光8电.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/4光8电/非网管/中性机械结构图/6系非管理4光8电.png",
+"type":"图片",
+"bytes":139442,
+"sha256":"5ef5733cf4cf27fe331b0fb6a0491b68888f50403baa5ffeecf3b5e080722ec3",
+"extracted_at":"2026-10-22T02:18:44Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":4552,
+"height":2097,
+"mode":"RGB",
+"thumb_bytes":6045
+},
+"ocr":{
+"text":"ooooaoo\n山 山 8ST\n口 口 口 口 口 口\nH 115mn 一 上 115mnm 一\nFuu8T —_]\nLLL Lr LT LT LT\n© sss ty\ni) falatlallatattal E\nON\n+\ngb 昌 中\nSooscooos| fee\na\nmmmnmnm nm\nuuuuGIL\n『 了 FF Doe oe 可 |\nE\no o o o E\nTt\noo 人 有 5S\n20 | |",
+"conf":56.1
+},
+"text":"ooooaoo\n山 山 8ST\n口 口 口 口 口 口\nH 115mn 一 上 115mnm 一\nFuu8T —_]\nLLL Lr LT LT LT\n© sss ty\ni) falatlallatattal E\nON\n+\ngb 昌 中\nSooscooos| fee\na\nmmmnmnm nm\nuuuuGIL\n『 了 FF Doe oe 可 |\nE\no o o o E\nTt\noo 人 有 5S\n20 | |"
+}

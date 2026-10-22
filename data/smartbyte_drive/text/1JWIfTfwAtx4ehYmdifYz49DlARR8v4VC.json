@@ -1,0 +1,22 @@
+{
+"id":"1JWIfTfwAtx4ehYmdifYz49DlARR8v4VC",
+"name":"6系2光4电 管理型带数据，USB.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/2光4电/管理型/中性机械结构图/6系2光4电 管理型带数据，USB.png",
+"type":"图片",
+"bytes":141637,
+"sha256":"1e29e2b9a162764dcaf1d2191ab200f43a6c34d728861da9340747125a374a58",
+"extracted_at":"2026-10-22T02:17:52Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":4552,
+"height":2097,
+"mode":"RGB",
+"thumb_bytes":5973
+},
+"ocr":{
+"text":"@ @\na\na\na\na\n0 @ ©\nWu85ST\n0 @ @\n0\n.0\n品\n.0\n@ @\nIK west\nLLL Ls Lt LT LT\n© sans nes\n国 momamaor Console E\nT+\nNiererere) 加 」 時\n二 二 二 io\nAAA nm nm\nWuwsSTT\n> <eo+1 tT < ~\nPE CE\n85 Di Relay\n品\n品\ntT\nLo\nmm -———— 115mm ——_—+——_|\n| 54mm——_",
+"conf":49.9
+},
+"text":"@ @\na\na\na\na\n0 @ ©\nWu85ST\n0 @ @\n0\n.0\n品\n.0\n@ @\nIK west\nLLL Ls Lt LT LT\n© sans nes\n国 momamaor Console E\nT+\nNiererere) 加 」 時\n二 二 二 io\nAAA nm nm\nWuwsSTT\n> <eo+1 tT < ~\nPE CE\n85 Di Relay\n品\n品\ntT\nLo\nmm -———— 115mm ——_—+——_|\n| 54mm——_"
+}

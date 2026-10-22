@@ -1,0 +1,22 @@
+{
+"id":"1M-Rl07hYATWaODUXslQbZOWM5B4PxxEj",
+"name":"4X24-不带数据中性结构图.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/4光24电/4X24-不带数据中性结构图.png",
+"type":"图片",
+"bytes":164794,
+"sha256":"41446e5ef6551420a592426f38e4a16eaf4312796974fe9f31cded2c7cf47a60",
+"extracted_at":"2026-10-22T02:18:23Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5339,
+"height":2097,
+"mode":"RGB",
+"thumb_bytes":5005
+},
+"ocr":{
+"text":"@ @\n站\na E\nE\n6\n4\n=)\nER:\n0\n@ @\nuu8ST\n@ @\na\n| 轉\nE\nEE\n6\na a\na\n© ©\nwwggt—————————_\nnana an ee ee,\ncia. Deine €\n® = fa SQJo] [CS &\n(2) oa\na YY\nDr\n| 山 usSTT\n= 二 于 5 =a =a “品\nsoot ] [\ngo of\nSola AG oh oh AG my 上 E\n! E\naa 同 4 回 o\nSi,\n4\ncd\nWUWgsT",
+"conf":52.0
+},
+"text":"@ @\n站\na E\nE\n6\n4\n=)\nER:\n0\n@ @\nuu8ST\n@ @\na\n| 轉\nE\nEE\n6\na a\na\n© ©\nwwggt—————————_\nnana an ee ee,\ncia. Deine €\n® = fa SQJo] [CS &\n(2) oa\na YY\nDr\n| 山 usSTT\n= 二 于 5 =a =a “品\nsoot ] [\ngo of\nSola AG oh oh AG my 上 E\n! E\naa 同 4 回 o\nSi,\n4\ncd\nWUWgsT"
+}

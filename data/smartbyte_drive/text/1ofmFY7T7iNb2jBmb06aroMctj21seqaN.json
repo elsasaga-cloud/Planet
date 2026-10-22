@@ -1,0 +1,22 @@
+{
+"id":"1ofmFY7T7iNb2jBmb06aroMctj21seqaN",
+"name":"12X8 带数据中性机械结构图.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/12光8电/12X8 带数据中性机械结构图.png",
+"type":"图片",
+"bytes":174562,
+"sha256":"fc93eb2f86d4d0ee8cd7ee515cf8340d6296dbb5b9633ed106d0d560b22e7356",
+"extracted_at":"2026-10-22T02:17:14Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5067,
+"height":2097,
+"mode":"RGB",
+"thumb_bytes":5318
+},
+"ocr":{
+"text":"@ @\nGe\nLo E\n: 在\nIn\n4\na\n中\n同\n@ @\nWUW8sT\nq__ © @\n[| 品\nfi oo\nE\nE\n= In\n則 a\nfi oo\n@ @\nuuuSGT\nLs\nec ee\n四 SeSiSeeS\ni)\nSan re E\nE\no\nLd\nCARA AA nm nm\nWwUWGTT\n30 of or On Oe On Or On On Oo-\ngo of\nED O&\n5 Jee 。 2 2 : E\nER 了 了 戰局 OS oF &\n4 OR . of of OS\nil mB Oo po fo A",
+"conf":53.1
+},
+"text":"@ @\nGe\nLo E\n: 在\nIn\n4\na\n中\n同\n@ @\nWUW8sT\nq__ © @\n[| 品\nfi oo\nE\nE\n= In\n則 a\nfi oo\n@ @\nuuuSGT\nLs\nec ee\n四 SeSiSeeS\ni)\nSan re E\nE\no\nLd\nCARA AA nm nm\nWwUWGTT\n30 of or On Oe On Or On On Oo-\ngo of\nED O&\n5 Jee 。 2 2 : E\nER 了 了 戰局 OS oF &\n4 OR . of of OS\nil mB Oo po fo A"
+}

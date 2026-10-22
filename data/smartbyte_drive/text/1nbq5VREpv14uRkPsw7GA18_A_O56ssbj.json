@@ -1,0 +1,22 @@
+{
+"id":"1nbq5VREpv14uRkPsw7GA18_A_O56ssbj",
+"name":"Power supply and Dip switch.png",
+"path":"SmartByte/暂时不用的/源图 源DS/2光2电/Power supply and Dip switch.png",
+"type":"图片",
+"bytes":425947,
+"sha256":"f53d23b1075d1866fb01bef1cf308a4a62164b9abe7c0224e04de53e97fab1ac",
+"extracted_at":"2026-10-22T02:16:28Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":800,
+"height":800,
+"mode":"RGB",
+"thumb_bytes":5759
+},
+"ocr":{
+"text":"Non-PoE:DC 12.58v: PoE DC 4457V",
+"conf":72.7
+},
+"text":"Non-PoE:DC 12.58v: PoE DC 4457V"
+}

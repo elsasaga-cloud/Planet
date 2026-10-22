@@ -1,0 +1,22 @@
+{
+"id":"1SIHMeU6e4ZxYfyExNkrmSzHhR6Sx4Ffs",
+"name":"6系2光4电管理型.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/2光4电/管理型/中性机械结构图/6系2光4电管理型.png",
+"type":"图片",
+"bytes":123435,
+"sha256":"5c752893c116fd703bc8783d068261fbfd9e680be23de9524d60eae25dde769c",
+"extracted_at":"2026-10-22T02:17:50Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":4552,
+"height":2097,
+"mode":"RGB",
+"thumb_bytes":5749
+},
+"ocr":{
+"text":"© ©\n6\n0\n0\nun\n1 @ @\nWWgcT\n0 © ©\noO\n0\n-O\n0\n© ©\nIK wwgst\nLIL Ls LS LT LT LT\nie) mamamaom Console E\n中\nNrererere)\\ [ ] 全\nFr nn\nuuuuGIL\n5 2\n品\n品\n口 一\nDI\nH 115mm ——_____—___| HKWR_-——115 mm ———_____—__\n| 54mm——_",
+"conf":55.0
+},
+"text":"© ©\n6\n0\n0\nun\n1 @ @\nWWgcT\n0 © ©\noO\n0\n-O\n0\n© ©\nIK wwgst\nLIL Ls LS LT LT LT\nie) mamamaom Console E\n中\nNrererere)\\ [ ] 全\nFr nn\nuuuuGIL\n5 2\n品\n品\n口 一\nDI\nH 115mm ——_____—___| HKWR_-——115 mm ———_____—__\n| 54mm——_"
+}

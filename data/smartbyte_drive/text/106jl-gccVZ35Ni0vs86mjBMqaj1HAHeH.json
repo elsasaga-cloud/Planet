@@ -1,0 +1,22 @@
+{
+"id":"106jl-gccVZ35Ni0vs86mjBMqaj1HAHeH",
+"name":"6系2光8电管理型.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/2光8电/管理型/千兆/中性机械结构图/6系2光8电管理型.png",
+"type":"图片",
+"bytes":130208,
+"sha256":"b6af1df23ca2c7443186c43c09b8a62cc4920873a944c8d7d0e846cad66535b2",
+"extracted_at":"2026-10-22T02:18:02Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":4552,
+"height":2097,
+"mode":"RGB",
+"thumb_bytes":5886
+},
+"ocr":{
+"text":"山 山 8ST\n口 口 口 口\n©\n©\n115mm ——______ F- 115mmn 一\n@ @\nF 山 册 8ST\nLLL Ls Lt LT LT\nie) mamamaom Console E\n了\npF 11520084\nmn\nToro 器 |\n[ E\n7 =\n3 時\nee Boo pop |",
+"conf":53.9
+},
+"text":"山 山 8ST\n口 口 口 口\n©\n©\n115mm ——______ F- 115mmn 一\n@ @\nF 山 册 8ST\nLLL Ls Lt LT LT\nie) mamamaom Console E\n了\npF 11520084\nmn\nToro 器 |\n[ E\n7 =\n3 時\nee Boo pop |"
+}

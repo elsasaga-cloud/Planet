@@ -1,0 +1,22 @@
+{
+"id":"1B3zYdF1ZuaoQKspmtev4b770xx2_t8vM",
+"name":"6系2光8电 管理型带数据.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/2光8电/管理型/千兆/中性机械结构图/6系2光8电 管理型带数据.png",
+"type":"图片",
+"bytes":148083,
+"sha256":"7d293b30866ef16926723428e9233ba274d2534eb9e640d56f2c1c973aa3ed73",
+"extracted_at":"2026-10-22T02:18:04Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":4552,
+"height":2097,
+"mode":"RGB",
+"thumb_bytes":6100
+},
+"ocr":{
+"text":"山 山 8ST\n口 口 口 口\n@\n@\nHF-- 1!15mn 一 和 F 1 5 mm\n© ©\nHw gst\nLLL Lr LT LT LT\nie) mamamaom Console E\nT+\nNeretetre) [ ] 全\nSass stoke\nia\nad ee,,rw os - 。\nao [o Eee © 「 了 Toe ot Oo\n85 Di Relay\n“ -\nee |",
+"conf":49.0
+},
+"text":"山 山 8ST\n口 口 口 口\n@\n@\nHF-- 1!15mn 一 和 F 1 5 mm\n© ©\nHw gst\nLLL Lr LT LT LT\nie) mamamaom Console E\nT+\nNeretetre) [ ] 全\nSass stoke\nia\nad ee,,rw os - 。\nao [o Eee © 「 了 Toe ot Oo\n85 Di Relay\n“ -\nee |"
+}

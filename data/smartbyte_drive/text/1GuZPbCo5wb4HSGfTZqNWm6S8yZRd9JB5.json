@@ -1,0 +1,24 @@
+{
+"id":"1GuZPbCo5wb4HSGfTZqNWm6S8yZRd9JB5",
+"name":"未标题-1.jpg",
+"path":"SmartByte/暂时不用的/未标题-1.jpg",
+"type":"图片",
+"bytes":457880,
+"sha256":"f8c882ecc4b36d6fef2a4ce8fb706858e025886ec76afafd94f5248f535c9dbb",
+"extracted_at":"2026-10-22T02:16:08Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":1508,
+"height":478,
+"mode":"RGB",
+"datetime":"2025:03:23 20:29:16",
+"software":"Adobe Photoshop CS6 (Windows)",
+"thumb_bytes":5048
+},
+"ocr":{
+"text":"Yellow:PoE/Speed Green:Lini/act",
+"conf":48.0
+},
+"text":"Yellow:PoE/Speed Green:Lini/act"
+}

@@ -1,0 +1,22 @@
+{
+"id":"1gbeAstTG7CD6Od98HnlbLR0j7qKKs-4Z",
+"name":"5.png",
+"path":"SmartByte/暂时不用的/商业级管理 源图/52光/5.png",
+"type":"图片",
+"bytes":247211,
+"sha256":"1d6af967464e0f5d414df6ed9ee722334d4cc594160334faa4e49067d95fef9b",
+"extracted_at":"2026-10-22T02:16:32Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":2889,
+"height":2097,
+"mode":"RGB",
+"thumb_bytes":6790
+},
+"ocr":{
+"text":"一 - 44mm —\nOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO\nConsole\n| 上 中\n[一 一 二 一 二 一 二 上 一 二 一 二 一 二 一 一 二 一 二 一 本 ———— aio\nVv — Al Ap Agv — atv — atv — al jv —_ av — atv — atv — atv — av — atv —_ av — al vy av —_ atv —_ atv — atv av — ay —_ av at Wat val ss\nE 2\n品\nBe Hee DH AR SN SK HK HH FE BN EK HK SH AS 人\n人\nFe 44mm 一 下\nFront view\n一 440mm 一\n@@\nBack view\n[| ,ooooc Joooocr Jooooc @\ng| 2oooooc 2ooooot Jooooo\nOooooo Dooooo oooooo\nE| 2oooooc 2oooooc 2Oooooc\n了 | Oooooo oooooo oooooo\nooooor Youur \"ooooor @ @\n|| cooo oooor \"oooor\n六 300mmn 一\nSide view\n一 440mm 一 一",
+"conf":56.2
+},
+"text":"一 - 44mm —\nOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO\nConsole\n| 上 中\n[一 一 二 一 二 一 二 上 一 二 一 二 一 二 一 一 二 一 二 一 本 ———— aio\nVv — Al Ap Agv — atv — atv — al jv —_ av — atv — atv — atv — av — atv —_ av — al vy av —_ atv —_ atv — atv av — ay —_ av at Wat val ss\nE 2\n品\nBe Hee DH AR SN SK HK HH FE BN EK HK SH AS 人\n人\nFe 44mm 一 下\nFront view\n一 440mm 一\n@@\nBack view\n[| ,ooooc Joooocr Jooooc @\ng| 2oooooc 2ooooot Jooooo\nOooooo Dooooo oooooo\nE| 2oooooc 2oooooc 2Oooooc\n了 | Oooooo oooooo oooooo\nooooor Youur \"ooooor @ @\n|| cooo oooor \"oooor\n六 300mmn 一\nSide view\n一 440mm 一 一"
+}

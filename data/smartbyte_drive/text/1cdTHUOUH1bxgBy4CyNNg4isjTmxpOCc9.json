@@ -1,0 +1,22 @@
+{
+"id":"1cdTHUOUH1bxgBy4CyNNg4isjTmxpOCc9",
+"name":"3系1光4电-1X9.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/3系5口（5电，1光4）/非管理/中性机械结构图/3系1光4电-1X9.png",
+"type":"图片",
+"bytes":124139,
+"sha256":"6b22860d42669843a833bee1be96b0d56aaeb97f198f7498c1578d0e5dede284",
+"extracted_at":"2026-10-22T02:16:47Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":3933,
+"height":2010,
+"mode":"RGB",
+"thumb_bytes":5215
+},
+"ocr":{
+"text":"98mm\n口 口 口 口\nooo 8\n98mm\nHK wwe tJ\nPWR1I_ PWR2 T\nML E\n© ON E\nESE5S5 Hi\n| 山 uu86 1\n1\n四 1 1 E\n6 一 E\nss |l@tlet 5\n= SS = FF\nWWOET",
+"conf":58.7
+},
+"text":"98mm\n口 口 口 口\nooo 8\n98mm\nHK wwe tJ\nPWR1I_ PWR2 T\nML E\n© ON E\nESE5S5 Hi\n| 山 uu86 1\n1\n四 1 1 E\n6 一 E\nss |l@tlet 5\n= SS = FF\nWWOET"
+}

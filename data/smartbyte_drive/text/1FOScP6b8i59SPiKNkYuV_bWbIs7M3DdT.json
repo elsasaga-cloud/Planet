@@ -1,0 +1,22 @@
+{
+"id":"1FOScP6b8i59SPiKNkYuV_bWbIs7M3DdT",
+"name":"2光16电非网管.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/2光16电/非网管/中性机械结构图/2光16电非网管.png",
+"type":"图片",
+"bytes":148292,
+"sha256":"24ee1bd38a5be210d25a6e80d3b373a3860ccd34741e6a84d8b94cedcbdd8e26",
+"extracted_at":"2026-10-22T02:17:43Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":4552,
+"height":2097,
+"mode":"RGB",
+"thumb_bytes":6162
+},
+"ocr":{
+"text":"@ @ |\nE\nE\n0 In\n四\na\n中\n0\n四\n0\n{© ©\nWu85ST\n{ 9 ©\no\nD\n口\n口\n° E\nQ E\nIm\n四\n四\n@ @\nF 山 册 8ST\nLLL Lr LT LT LT\nRS\naaCCCOOOCOR\nE\nPT ho @ 上\n1234 (a)\na og gO oO eB eB ee rm Jl Jl 了 L\nWuwsTT\npo os\n品\n區\n品\nal\n品\nal\n品\n口\n品\nal\n品\nal\n品\n一 一 一 54mm 一 一 一",
+"conf":61.6
+},
+"text":"@ @ |\nE\nE\n0 In\n四\na\n中\n0\n四\n0\n{© ©\nWu85ST\n{ 9 ©\no\nD\n口\n口\n° E\nQ E\nIm\n四\n四\n@ @\nF 山 册 8ST\nLLL Lr LT LT LT\nRS\naaCCCOOOCOR\nE\nPT ho @ 上\n1234 (a)\na og gO oO eB eB ee rm Jl Jl 了 L\nWuwsTT\npo os\n品\n區\n品\nal\n品\nal\n品\n口\n品\nal\n品\nal\n品\n一 一 一 54mm 一 一 一"
+}

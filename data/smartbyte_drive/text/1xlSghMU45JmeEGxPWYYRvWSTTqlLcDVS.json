@@ -1,0 +1,22 @@
+{
+"id":"1xlSghMU45JmeEGxPWYYRvWSTTqlLcDVS",
+"name":"3系5电口.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/3系5口（5电，1光4）/非管理/中性机械结构图/3系5电口.png",
+"type":"图片",
+"bytes":113604,
+"sha256":"68aa26892708c8da037ab847286e16a0adeed6539f317a5f09642fb7d3a6f31b",
+"extracted_at":"2026-10-22T02:16:48Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":3933,
+"height":2010,
+"mode":"RGB",
+"thumb_bytes":5192
+},
+"ocr":{
+"text":"98mm\n口 口 口 口\n@ @\n.0\nOo\n0\n四 E\nE\noo\na\n© ©\nHK wwe tJ\nPWR1_PWR2 T\nmaomamoA E\n© ON E\nESE5S5 Hi\n| uu86 ]\nE\n8 qr E\n8 8\nWWOET",
+"conf":67.4
+},
+"text":"98mm\n口 口 口 口\n@ @\n.0\nOo\n0\n四 E\nE\noo\na\n© ©\nHK wwe tJ\nPWR1_PWR2 T\nmaomamoA E\n© ON E\nESE5S5 Hi\n| uu86 ]\nE\n8 qr E\n8 8\nWWOET"
+}

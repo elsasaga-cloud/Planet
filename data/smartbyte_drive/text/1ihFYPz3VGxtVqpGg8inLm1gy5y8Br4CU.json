@@ -1,0 +1,22 @@
+{
+"id":"1ihFYPz3VGxtVqpGg8inLm1gy5y8Br4CU",
+"name":"48 PoE + 4.png",
+"path":"SmartByte/暂时不用的/商业级管理 源图/4光+48电/48 PoE + 4.png",
+"type":"图片",
+"bytes":214945,
+"sha256":"16c5aa2a1ad7dd73038f9da39c1724d69d4a1352026fb8917c13c89040a40133",
+"extracted_at":"2026-10-22T02:16:26Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":2889,
+"height":2097,
+"mode":"RGB",
+"thumb_bytes":6635
+},
+"ocr":{
+"text":"一 - 44mm —\n一 - 44mm 一 下\nFoo to] co。\nee ee So\nReset\nFn | | | ob oh | | | L se\noo 48 %\nba && bk bo Ab\nQB ob bo Db 月 | (Bb de ph oo oo tb |\nte\nti bh Ah Au 8% bh BH AR Bu 8% be wa\n$3 $8 F 3 Sh Ah Shu &\ngg\nFront view\n四\n-440mnmn 一 -六\nBack view\nTy JOoOoou 300006 2090006 @\nJoooooc Joooooxt JOOooot\nE| oooooo oooooo oooooo\nE| 2oooooc 2oooooc 2oooooec\n+ 了 | oooooo oooooo oooooo\nYooooor Yaooooor 1ooooor es @\n| Yoooor Yoooor yoooor\n六 300mmn qx crf\nSide view",
+"conf":52.0
+},
+"text":"一 - 44mm —\n一 - 44mm 一 下\nFoo to] co。\nee ee So\nReset\nFn | | | ob oh | | | L se\noo 48 %\nba && bk bo Ab\nQB ob bo Db 月 | (Bb de ph oo oo tb |\nte\nti bh Ah Au 8% bh BH AR Bu 8% be wa\n$3 $8 F 3 Sh Ah Shu &\ngg\nFront view\n四\n-440mnmn 一 -六\nBack view\nTy JOoOoou 300006 2090006 @\nJoooooc Joooooxt JOOooot\nE| oooooo oooooo oooooo\nE| 2oooooc 2oooooc 2oooooec\n+ 了 | oooooo oooooo oooooo\nYooooor Yaooooor 1ooooor es @\n| Yoooor Yoooor yoooor\n六 300mmn qx crf\nSide view"
+}

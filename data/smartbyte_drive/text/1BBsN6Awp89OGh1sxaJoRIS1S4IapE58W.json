@@ -1,0 +1,22 @@
+{
+"id":"1BBsN6Awp89OGh1sxaJoRIS1S4IapE58W",
+"name":"1光8电-SC.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/3系9口（1光8电）/中性机械结构图/1光8电-SC.png",
+"type":"图片",
+"bytes":123351,
+"sha256":"8d70b3424eab56d02b22101b2340aa1b05041545ad2beb0205420db55888981b",
+"extracted_at":"2026-10-22T02:17:10Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":4254,
+"height":2010,
+"mode":"RGB",
+"thumb_bytes":4547
+},
+"ocr":{
+"text":"98mm\noo oo\n口 口 口 口\n98mm\n一 一 一 一 一 uu0c0 一 一 一 一 -\nPWRI_PwR2\n人 品\n©®@\nON\n966008 Bese\nHe 48mm ——_\n口\n小\n口\n小\n則,\n品\nqu),\n口\n48mm 一 一\nPo os\n90\npolpod moo oo oo 2\nE\n=\nSs\n人\n四",
+"conf":56.7
+},
+"text":"98mm\noo oo\n口 口 口 口\n98mm\n一 一 一 一 一 uu0c0 一 一 一 一 -\nPWRI_PwR2\n人 品\n©®@\nON\n966008 Bese\nHe 48mm ——_\n口\n小\n口\n小\n則,\n品\nqu),\n口\n48mm 一 一\nPo os\n90\npolpod moo oo oo 2\nE\n=\nSs\n人\n四"
+}

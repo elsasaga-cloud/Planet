@@ -1,0 +1,22 @@
+{
+"id":"1Aelp_evqyHLpT7n1uquZrY0rKO6Vzlet",
+"name":"4光48 机械结构图.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/4光48电/4光48 机械结构图.png",
+"type":"图片",
+"bytes":257865,
+"sha256":"684a8851b15bb1678024bc007690304699fa0a4da7040e88af699f19ca32d778",
+"extracted_at":"2026-10-22T02:18:31Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5350,
+"height":5604,
+"mode":"RGB",
+"thumb_bytes":9197
+},
+"ocr":{
+"text":"[44mm —_{\n[44mm —_{\nSS oP 本 Oe 器 已 可 可\nso ia Al jw H\nwo Pot ro Front view\nnoe? 已 oh 品 gh oh sh 器\nSe BA 2 為 及 了\n| 440mm\nAR\neo cma\n2 上 =- Rear view\n2Goo Ulere)\n| 440mm |\n440mm\n©\nAeroview\n280mm",
+"conf":57.9
+},
+"text":"[44mm —_{\n[44mm —_{\nSS oP 本 Oe 器 已 可 可\nso ia Al jw H\nwo Pot ro Front view\nnoe? 已 oh 品 gh oh sh 器\nSe BA 2 為 及 了\n| 440mm\nAR\neo cma\n2 上 =- Rear view\n2Goo Ulere)\n| 440mm |\n440mm\n©\nAeroview\n280mm"
+}

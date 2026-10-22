@@ -1,0 +1,22 @@
+{
+"id":"1Nhcrh4Rm5F4hq2ooh2sHRbyR8AtOFOPg",
+"name":"8-port Copper RJ45.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/3系8电口/8电口/中性机械结构图/8-port Copper RJ45.png",
+"type":"图片",
+"bytes":112758,
+"sha256":"534334030502f839f5ee55e2730545bc33649f619b0fcc2352e904a512bc648b",
+"extracted_at":"2026-10-22T02:16:58Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":4254,
+"height":2010,
+"mode":"RGB",
+"thumb_bytes":4017
+},
+"ocr":{
+"text":"口 口 口 口\n品 品 品 品\n! wwg6\nPWRI_PwR2\n人 品\nON\n966008 Bese\n一 一 一 一 93smm 一 一 一 HF 一 98mn 一\nHe 48mm ——_\nPO os\nH-— 48mm —_+",
+"conf":53.6
+},
+"text":"口 口 口 口\n品 品 品 品\n! wwg6\nPWRI_PwR2\n人 品\nON\n966008 Bese\n一 一 一 一 93smm 一 一 一 HF 一 98mn 一\nHe 48mm ——_\nPO os\nH-— 48mm —_+"
+}

@@ -1,0 +1,22 @@
+{
+"id":"1S7VDE0T--7ShG7UzUqUla8WykuDQ2rSS",
+"name":"1光8电-SFP.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/3系9口（1光8电）/中性机械结构图/1光8电-SFP.png",
+"type":"图片",
+"bytes":117411,
+"sha256":"f677f1e1c9a3d44cd20cb032d21032f8803c5f081ffcf89a0729c0dd016afbc2",
+"extracted_at":"2026-10-22T02:17:08Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":4254,
+"height":2010,
+"mode":"RGB",
+"thumb_bytes":4527
+},
+"ocr":{
+"text":"98mm\noo oo\n口 口 口 口\n98mm\nmm\nPWRI_PwR2\n人 品\n©®@\nON\n966008 Bese\n| 48mm —_\n口\n下\n口\n中\n則,\n品\nqu),\n品\n48mm 一 一\nPo os\n90\n品\n口\n口\n口\n品\n口\n品\n口\nE\n=\nSs\n人\n四",
+"conf":64.4
+},
+"text":"98mm\noo oo\n口 口 口 口\n98mm\nmm\nPWRI_PwR2\n人 品\n©®@\nON\n966008 Bese\n| 48mm —_\n口\n下\n口\n中\n則,\n品\nqu),\n品\n48mm 一 一\nPo os\n90\n品\n口\n口\n口\n品\n口\n品\n口\nE\n=\nSs\n人\n四"
+}

@@ -1,0 +1,22 @@
+{
+"id":"15y0jK2jFhb0FJGU5R7xrHQ_JzMAw2Zyt",
+"name":"1.png",
+"path":"SmartByte/暂时不用的/商业级管理 源图/4光+48电/1.png",
+"type":"图片",
+"bytes":3398587,
+"sha256":"f656779f374a8a5f344cfa8430c70c3bc1f432caa69a74840c2f16beea35ef3b",
+"extracted_at":"2026-10-22T02:15:54Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":4560,
+"height":1787,
+"mode":"RGBA",
+"thumb_bytes":5361
+},
+"ocr":{
+"text":"Reset\nsys\n@",
+"conf":83.0
+},
+"text":"Reset\nsys\n@"
+}

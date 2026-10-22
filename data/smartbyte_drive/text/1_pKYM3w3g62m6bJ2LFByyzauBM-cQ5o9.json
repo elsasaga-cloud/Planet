@@ -1,0 +1,22 @@
+{
+"id":"1_pKYM3w3g62m6bJ2LFByyzauBM-cQ5o9",
+"name":"3系 2光4电-SFP.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/3系6口（2光4，1光5）/2光4电非管理/千兆2光4/中性机械结构图/3系 2光4电-SFP.png",
+"type":"图片",
+"bytes":123517,
+"sha256":"de2c4e52d20bbb32d50ccea6cb5755452af1caa187eafd1d6c0578673613d954",
+"extracted_at":"2026-10-22T02:16:52Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":3933,
+"height":2010,
+"mode":"RGB",
+"thumb_bytes":5214
+},
+"ocr":{
+"text":"98mm\n口 口 口 口\n@ @\n-O\n0\n0\n‘a E\nE\nco\na\n© ©\nIWR iti € I\nPWRI PWR2 T\nmaomamoA E\n© ON E\nESE5S5 Hi\n| uuS6 |\nE\n88 ! ! E\n28 a\nWWOET",
+"conf":67.0
+},
+"text":"98mm\n口 口 口 口\n@ @\n-O\n0\n0\n‘a E\nE\nco\na\n© ©\nIWR iti € I\nPWRI PWR2 T\nmaomamoA E\n© ON E\nESE5S5 Hi\n| uuS6 |\nE\n88 ! ! E\n28 a\nWWOET"
+}

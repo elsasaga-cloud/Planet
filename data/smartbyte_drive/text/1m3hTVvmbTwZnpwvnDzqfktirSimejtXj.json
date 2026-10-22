@@ -1,0 +1,22 @@
+{
+"id":"1m3hTVvmbTwZnpwvnDzqfktirSimejtXj",
+"name":"3系2光8电-1X9.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/3系10口（2光8）/非管理型/中性机械结构图/3系2光8电-1X9.png",
+"type":"图片",
+"bytes":129645,
+"sha256":"fdb5b891ca7716739de4e5d671e99ec3d9c62fdf289a9f6890a3b249e8c30bfb",
+"extracted_at":"2026-10-22T02:16:40Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":4254,
+"height":2010,
+"mode":"RGB",
+"thumb_bytes":4603
+},
+"ocr":{
+"text":"98mm\noo oo\n口 口 口 口\n98mm\n一 一 一 一 一 uu0c0 一 一 一 一 -\nPWRI_PwR2\n人 品\n©®@\nON\n966008 Bese\nH— 48mm —_|\npou\n口\n品\n口\n品\n口\n品\n口\n品\n48mm 一 一\nPo os\n90 O10\nE\n=\nSs\n人\n四",
+"conf":64.7
+},
+"text":"98mm\noo oo\n口 口 口 口\n98mm\n一 一 一 一 一 uu0c0 一 一 一 一 -\nPWRI_PwR2\n人 品\n©®@\nON\n966008 Bese\nH— 48mm —_|\npou\n口\n品\n口\n品\n口\n品\n口\n品\n48mm 一 一\nPo os\n90 O10\nE\n=\nSs\n人\n四"
+}

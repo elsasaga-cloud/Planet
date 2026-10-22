@@ -1,0 +1,22 @@
+{
+"id":"1DbhlvDbgwzZXHDQGcJFAnGwh_yjOz4uf",
+"name":"带数据中性机械结构图.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/4光24电--机架式/带数据中性机械结构图.png",
+"type":"图片",
+"bytes":265548,
+"sha256":"eebb8b34d9c4907eeb72718a5077a9b01e736224ad9bdd016f959ba591091ade",
+"extracted_at":"2026-10-22T02:18:20Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5350,
+"height":5604,
+"mode":"RGB",
+"thumb_bytes":8814
+},
+"ocr":{
+"text":"As _ rD Yellow:PoE/Speed Green:Link/act\nPor o(F uo op oo\nPo Por oF 下 已 可 | | 已 uo\nCE\n°\n三 ecaezs 一 ©e\nratte} [aa\nGO 同 Socooca\n[44mm —_{\n[44mm —_{\n‘AC 100~240v 50/60Hz 1A\n440mm\n440mm\n280mm\nFront view\nRear view\nAeroview",
+"conf":53.6
+},
+"text":"As _ rD Yellow:PoE/Speed Green:Link/act\nPor o(F uo op oo\nPo Por oF 下 已 可 | | 已 uo\nCE\n°\n三 ecaezs 一 ©e\nratte} [aa\nGO 同 Socooca\n[44mm —_{\n[44mm —_{\n‘AC 100~240v 50/60Hz 1A\n440mm\n440mm\n280mm\nFront view\nRear view\nAeroview"
+}

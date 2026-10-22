@@ -1,0 +1,22 @@
+{
+"id":"1QF3l_QH8kRQZhODSK4z2Sid2M0BXGDKo",
+"name":"48 + 4.png",
+"path":"SmartByte/暂时不用的/商业级管理 源图/4光+48电/48 + 4.png",
+"type":"图片",
+"bytes":214245,
+"sha256":"df4c356743f4dc5bf7c8afe8ed91e96ccb5582851da294024e163faa70d4c23d",
+"extracted_at":"2026-10-22T02:16:14Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":2889,
+"height":2097,
+"mode":"RGB",
+"thumb_bytes":6086
+},
+"ocr":{
+"text":"一 - 44mm —\n上 它 避 上 它 可 ceoe\nvl vl\nsys\nReset\nSS Oo\nBoo oo oO DO ob on oa DR 品 已 oe 上 已 ob 已 Bob Sa fb fob oo oO oO DR 上 已 器 L Je\n% % ie oO 如 名 % de\nal\n&% tk bh\n440mm 一\nFront view\n一 - 44mm 一 下\n440mm 一\nBack view\n一 44mm —-f\nVO\nO 〇\nO\nO\nO\n0\noO\n一 一 一 一 一 一 一 玫 玫 一 300mm AA mo $ c_\nSide view",
+"conf":50.5
+},
+"text":"一 - 44mm —\n上 它 避 上 它 可 ceoe\nvl vl\nsys\nReset\nSS Oo\nBoo oo oO DO ob on oa DR 品 已 oe 上 已 ob 已 Bob Sa fb fob oo oO oO DR 上 已 器 L Je\n% % ie oO 如 名 % de\nal\n&% tk bh\n440mm 一\nFront view\n一 - 44mm 一 下\n440mm 一\nBack view\n一 44mm —-f\nVO\nO 〇\nO\nO\nO\n0\noO\n一 一 一 一 一 一 一 玫 玫 一 300mm AA mo $ c_\nSide view"
+}

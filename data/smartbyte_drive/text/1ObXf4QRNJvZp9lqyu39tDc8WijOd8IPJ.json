@@ -1,0 +1,22 @@
+{
+"id":"1ObXf4QRNJvZp9lqyu39tDc8WijOd8IPJ",
+"name":"4X16 带数据中性机械结构图.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/4光16电/4X16 带数据中性机械结构图.png",
+"type":"图片",
+"bytes":165573,
+"sha256":"bd2ca74be539b8c71791ba1c6bf7fb7f645a43a832d8e868e7cb0dcacc79dc65",
+"extracted_at":"2026-10-22T02:18:09Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5339,
+"height":2097,
+"mode":"RGB",
+"thumb_bytes":4910
+},
+"ocr":{
+"text":"@ @\n站\n8 E\nE\na\na\nEE:\n0\n@ @\nuug8ST\n@ @\n| 轉\nE\nEE\nIn\n| 证\nn\n@ @\nuussT 一 四\nPoon\nee 所 pei 各 E\n© SO COS &\n(a) roy\nom os\n[AAA AAA AA LA ALA\n| 山 usSTT\n30 of\ngo of\nEO OF mam OO DO Ab 加 E\nov， rm 同\ng gl 自 7 三 2 2 a\n2 ig|O fe)\n3 IC CREE pgp ae ses\noR 08 os os\nWUWgsT {",
+"conf":55.8
+},
+"text":"@ @\n站\n8 E\nE\na\na\nEE:\n0\n@ @\nuug8ST\n@ @\n| 轉\nE\nEE\nIn\n| 证\nn\n@ @\nuussT 一 四\nPoon\nee 所 pei 各 E\n© SO COS &\n(a) roy\nom os\n[AAA AAA AA LA ALA\n| 山 usSTT\n30 of\ngo of\nEO OF mam OO DO Ab 加 E\nov， rm 同\ng gl 自 7 三 2 2 a\n2 ig|O fe)\n3 IC CREE pgp ae ses\noR 08 os os\nWUWgsT {"
+}

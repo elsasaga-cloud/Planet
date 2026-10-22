@@ -1,0 +1,22 @@
+{
+"id":"10nW9z-yX5bepT_PE4qIhSiaz4L5Q_peh",
+"name":"1光2电-SFP.png",
+"path":"SmartByte/暂时不用的/源图 源DS/1光2电/1光2电-SFP.png",
+"type":"图片",
+"bytes":99862,
+"sha256":"eefa3f421d7c11713c5baa61fdb22d0c32203573bc7c6f0816c64a56ee79e8ac",
+"extracted_at":"2026-10-22T02:16:26Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":3877,
+"height":1461,
+"mode":"RGB",
+"thumb_bytes":4162
+},
+"ocr":{
+"text":"E\na E\na 品\n口\n口\nU @ @\n-———_ wwigg ———_—_—__\n© ©\n“oO\n:0\n“oO E\n: E\nwn\noo\n@ @\n| uus8 圖\nPWR1 _PWR2 T\nfavialatral E\n© ON E\n2 ES 5\n| uus8\nT\nE\n8 E\ne 8\n了 “ 上",
+"conf":66.0
+},
+"text":"E\na E\na 品\n口\n口\nU @ @\n-———_ wwigg ———_—_—__\n© ©\n“oO\n:0\n“oO E\n: E\nwn\noo\n@ @\n| uus8 圖\nPWR1 _PWR2 T\nfavialatral E\n© ON E\n2 ES 5\n| uus8\nT\nE\n8 E\ne 8\n了 “ 上"
+}

@@ -1,0 +1,22 @@
+{
+"id":"16MiqMACKFe220nWDG_q1cgJ41tW3jsBj",
+"name":"4X16-不带数据中性机械结构图.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/4光16电/4X16-不带数据中性机械结构图.png",
+"type":"图片",
+"bytes":151789,
+"sha256":"d8c889c14e47a05ce69bcd315d4771322f56631a8d63e84fbbf0243ea0adeb47",
+"extracted_at":"2026-10-22T02:18:16Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5339,
+"height":2097,
+"mode":"RGB",
+"thumb_bytes":4833
+},
+"ocr":{
+"text":"@ @\n站\na E\nEE\n6\na\na\nER:\n0\n@ @\nuug8ST\n@ @\n用\nE\nEE\n6\na a\n3\n© ©\nwwggt—————————_\nPoon\nee 所 pei 各 E\n© 回 0 同 同 2C6 5\n(2) oa\nom os\n[AAA AAA AA LA ALA\n| 山 usSTT\nso of\ngo of\nEO OF ma FO FO 上 加 E\n二\n中 日 = 2 2 8\n5 iL, A For or oe oO\nwugsT 1",
+"conf":55.2
+},
+"text":"@ @\n站\na E\nEE\n6\na\na\nER:\n0\n@ @\nuug8ST\n@ @\n用\nE\nEE\n6\na a\n3\n© ©\nwwggt—————————_\nPoon\nee 所 pei 各 E\n© 回 0 同 同 2C6 5\n(2) oa\nom os\n[AAA AAA AA LA ALA\n| 山 usSTT\nso of\ngo of\nEO OF ma FO FO 上 加 E\n二\n中 日 = 2 2 8\n5 iL, A For or oe oO\nwugsT 1"
+}

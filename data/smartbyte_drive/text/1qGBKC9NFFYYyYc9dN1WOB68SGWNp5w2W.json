@@ -1,0 +1,22 @@
+{
+"id":"1qGBKC9NFFYYyYc9dN1WOB68SGWNp5w2W",
+"name":"6系管理型4光8电-USB，data.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/4光8电/网管/千兆/中性机械结构图/6系管理型4光8电-USB，data.png",
+"type":"图片",
+"bytes":149247,
+"sha256":"1d2e82b9b7cafe090154a3822eaaf9e1340ce8417fcc9e6c851aa0803c72c7cb",
+"extracted_at":"2026-10-22T02:18:37Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":4552,
+"height":2097,
+"mode":"RGB",
+"thumb_bytes":6121
+},
+"ocr":{
+"text":"@ @\na\na\na\na\n1_@ @\n8ST\n0 © @\n0\n.0\noO\n.0\n@ @\nHugg\nee ee Lr LI LI\nie) mamamaom Console E\n过\nSooooe Cd 了\n二 TS300Tra\nml\n50 2 <e0+1 717 = =\nGo| 回 品 Me 「 中 本 號 可 唔\n° ° ° °\nJO,\n115mm ——______ F- 115mmn 一",
+"conf":49.6
+},
+"text":"@ @\na\na\na\na\n1_@ @\n8ST\n0 © @\n0\n.0\noO\n.0\n@ @\nHugg\nee ee Lr LI LI\nie) mamamaom Console E\n过\nSooooe Cd 了\n二 TS300Tra\nml\n50 2 <e0+1 717 = =\nGo| 回 品 Me 「 中 本 號 可 唔\n° ° ° °\nJO,\n115mm ——______ F- 115mmn 一"
+}

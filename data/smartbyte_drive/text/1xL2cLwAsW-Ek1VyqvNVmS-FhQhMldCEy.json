@@ -1,0 +1,22 @@
+{
+"id":"1xL2cLwAsW-Ek1VyqvNVmS-FhQhMldCEy",
+"name":"3系8电口.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/3系8电口/8电口/中性原图/3系8电口.png",
+"type":"图片",
+"bytes":5405554,
+"sha256":"fd0697bfe24d83ba58a51a7cd6b50b5d2aef8a446292ce0fc350ecb19d28503d",
+"extracted_at":"2026-10-22T02:17:00Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":3533,
+"height":3609,
+"mode":"RGBA",
+"thumb_bytes":12137
+},
+"ocr":{
+"text":"一\n=\n=\n=\ne\n=\n=\nVALUE AAA\nAAA",
+"conf":47.1
+},
+"text":"一\n=\n=\n=\ne\n=\n=\nVALUE AAA\nAAA"
+}

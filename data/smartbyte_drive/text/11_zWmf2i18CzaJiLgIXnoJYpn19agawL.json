@@ -1,0 +1,22 @@
+{
+"id":"11_zWmf2i18CzaJiLgIXnoJYpn19agawL",
+"name":"2光2电.png",
+"path":"SmartByte/暂时不用的/源图 源DS/2光2电/2光2电.png",
+"type":"图片",
+"bytes":101894,
+"sha256":"eb9029f48d006fa326245596f00c4a80049b1b089067a3e0a771464d5f5ad3e6",
+"extracted_at":"2026-10-22T02:16:29Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":3877,
+"height":1461,
+"mode":"RGB",
+"thumb_bytes":4199
+},
+"ocr":{
+"text":"E\na E\na 品\n口\n口\nU @ @\nFuus 一\n@ @\n:0\n“oO\n“oO E\n: E\nwn\noo\n@ @\n| uus8 圖\nPWR1 _PWR2 T\nfavialatral E\n© ON E\n2 ES 5\n| uus8\nT\nE\n8 E\ne 8\nOr Om N 一 上\n站 一 一 一 uuss 一 一",
+"conf":65.1
+},
+"text":"E\na E\na 品\n口\n口\nU @ @\nFuus 一\n@ @\n:0\n“oO\n“oO E\n: E\nwn\noo\n@ @\n| uus8 圖\nPWR1 _PWR2 T\nfavialatral E\n© ON E\n2 ES 5\n| uus8\nT\nE\n8 E\ne 8\nOr Om N 一 上\n站 一 一 一 uuss 一 一"
+}

@@ -1,0 +1,22 @@
+{
+"id":"18PWuYwaojlyfNFJXA5Xd86BgXtj8Sp-P",
+"name":"3系管理型1光4电-SFP.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/3系5口（5电，1光4）/管理型/中性机械结构图/3系管理型1光4电-SFP.png",
+"type":"图片",
+"bytes":122967,
+"sha256":"71ae33d5f9adb9c731c93f36974d788e61edf909537da76e6853d4b0e5ebb4d1",
+"extracted_at":"2026-10-22T02:16:43Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":3933,
+"height":2010,
+"mode":"RGB",
+"thumb_bytes":5193
+},
+"ocr":{
+"text":"口 口 口 口\n98mm\nooo 8\nHK wwe tJ\nPWRI_ PWR\nfaLlaLiaLtal Console\n©©\nSelerere) Ls\n+ + 一 115200.N.8.1\nEK 30mm +\nNon-PoB: DC 12-58V; PoE: DC 44-57\n! uuS6\n98mm\nPO os\n50\n30mm",
+"conf":60.2
+},
+"text":"口 口 口 口\n98mm\nooo 8\nHK wwe tJ\nPWRI_ PWR\nfaLlaLiaLtal Console\n©©\nSelerere) Ls\n+ + 一 115200.N.8.1\nEK 30mm +\nNon-PoB: DC 12-58V; PoE: DC 44-57\n! uuS6\n98mm\nPO os\n50\n30mm"
+}

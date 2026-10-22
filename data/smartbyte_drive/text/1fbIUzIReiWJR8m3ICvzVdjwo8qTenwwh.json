@@ -1,0 +1,22 @@
+{
+"id":"1fbIUzIReiWJR8m3ICvzVdjwo8qTenwwh",
+"name":"3系千兆1光5电.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/3系6口（2光4，1光5）/千兆1光5非管理/中性机械结构图/3系千兆1光5电.png",
+"type":"图片",
+"bytes":123998,
+"sha256":"779b03960b0723c861b4d8ee075d23ae5352d1473388a6faa1aab4aa3c74efe0",
+"extracted_at":"2026-10-22T02:16:57Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":3933,
+"height":2010,
+"mode":"RGB",
+"thumb_bytes":5221
+},
+"ocr":{
+"text":"98mm\n口 口 口 口\nooo 8\n98mm\nIK ww 9\nPWR1I_ PWR2 T\njalaLiatial E\n© ON E\nSooccg Fee a\naes 上\n| uuuu86 |\ntT\nE\n8 1 1 €\n29\n© 本 ~ = > =\nwuogT",
+"conf":59.2
+},
+"text":"98mm\n口 口 口 口\nooo 8\n98mm\nIK ww 9\nPWR1I_ PWR2 T\njalaLiatial E\n© ON E\nSooccg Fee a\naes 上\n| uuuu86 |\ntT\nE\n8 1 1 €\n29\n© 本 ~ = > =\nwuogT"
+}

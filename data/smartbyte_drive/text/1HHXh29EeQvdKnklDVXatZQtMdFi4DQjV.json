@@ -1,0 +1,22 @@
+{
+"id":"1HHXh29EeQvdKnklDVXatZQtMdFi4DQjV",
+"name":"24+4口.png",
+"path":"SmartByte/暂时不用的/商业级管理 源图/4光 +24电/24+4口.png",
+"type":"图片",
+"bytes":131235,
+"sha256":"dfb25ecb6ebe5a0e240f9d92785e2b6381cb1ace0a36f4fbc20b3fab62fdfbbc",
+"extracted_at":"2026-10-22T02:15:56Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":2889,
+"height":2097,
+"mode":"RGB",
+"thumb_bytes":6164
+},
+"ocr":{
+"text":"FOS 品 OF oF an =\n回 Console\na z 如 z svs\nLh JL AG dG dE SE AG dls a\nBo 二 moo, = ao oo 百 go\nAAA AT ay av av a wv av av av av L_—reset\n2 3 $6 ?7 8 9 i 2 is mis 16 we i9 2 2 22 为 24\nEF 44mm —\nFe 44mm —f\nFront view\n440mm 一\nKe 44mm —-f\nBack view\n440mm A A\nOOOOOOOOOOOOOOOOOO\nOOOOOOOOOOOOOOOOO\nOOOOOOOOOOOOOOOOOO\nOOOOOOOOOOOOOOOOO\nOOOOOOOOOOOOOOOOOO\n四\n@\n@\n@\nSide view\nRO 245m 一",
+"conf":53.1
+},
+"text":"FOS 品 OF oF an =\n回 Console\na z 如 z svs\nLh JL AG dG dE SE AG dls a\nBo 二 moo, = ao oo 百 go\nAAA AT ay av av a wv av av av av L_—reset\n2 3 $6 ?7 8 9 i 2 is mis 16 we i9 2 2 22 为 24\nEF 44mm —\nFe 44mm —f\nFront view\n440mm 一\nKe 44mm —-f\nBack view\n440mm A A\nOOOOOOOOOOOOOOOOOO\nOOOOOOOOOOOOOOOOO\nOOOOOOOOOOOOOOOOOO\nOOOOOOOOOOOOOOOOO\nOOOOOOOOOOOOOOOOOO\n四\n@\n@\n@\nSide view\nRO 245m 一"
+}

@@ -1,0 +1,22 @@
+{
+"id":"1tcamIM9HSZVyTvnOTi0rWq7A81S_hQmk",
+"name":"6系非管理中性2光4 机械结构图.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/2光4电/非管理/6系非管理中性2光4 机械结构图.png",
+"type":"图片",
+"bytes":159288,
+"sha256":"7e91fa28be2362283c776289655f31657a2e72b4ce9ff8fe022b3143c8640ce4",
+"extracted_at":"2026-10-22T02:17:54Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":4552,
+"height":2097,
+"mode":"RGB",
+"thumb_bytes":5368
+},
+"ocr":{
+"text":"oaoooo\nWu08T\n口 口 口 口 口 品\n@\nHW wwoe t+\nPWRI__PWR2 relay\nFormomoAmaormaory\n-Wol\noz\nSee)\nrs\n@ MS\n2) 還\n| wu86\n一 一 一 54mm 一 一 一\nPo os\n5 o6\nWu08T\nFF 98mm 一 四 F- 98mn 一 四\nH-— 54mm——_",
+"conf":51.1
+},
+"text":"oaoooo\nWu08T\n口 口 口 口 口 品\n@\nHW wwoe t+\nPWRI__PWR2 relay\nFormomoAmaormaory\n-Wol\noz\nSee)\nrs\n@ MS\n2) 還\n| wu86\n一 一 一 54mm 一 一 一\nPo os\n5 o6\nWu08T\nFF 98mm 一 四 F- 98mn 一 四\nH-— 54mm——_"
+}

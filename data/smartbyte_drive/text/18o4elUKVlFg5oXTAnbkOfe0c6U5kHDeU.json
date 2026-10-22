@@ -1,0 +1,22 @@
+{
+"id":"18o4elUKVlFg5oXTAnbkOfe0c6U5kHDeU",
+"name":"6系 8光8电 管理型.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/8光8电/管理/中性机械结构图/6系 8光8电 管理型.png",
+"type":"图片",
+"bytes":146777,
+"sha256":"f51333e186bb7b8c33f52530a3020113fd38e80537a5a9f227693ed81d25b40a",
+"extracted_at":"2026-10-22T02:18:47Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":4552,
+"height":2097,
+"mode":"RGB",
+"thumb_bytes":6152
+},
+"ocr":{
+"text":"口 口 口 口 口 口\n山 山 8ST\nooooaoaob\n@ @\nFuu8T —_]\n©\n©\n115mm ——______ F- 115mmn 一\nLu\n- + - +\n[一 |\n二 OOOOOOR\n@@\nUoUowowowoU\nRelay PWR2 PWRI\nConsole\nL A OReset\n115200.N.8.1\n54mm\nnon rm rm nm 只\nWuwsTT\n[ 了 Oo Un 過 號 Uo |\nE\nE\noo 人 有 5\n20 BAe Du 上 號 |\nO16\n‘ons\nO14\non",
+"conf":57.1
+},
+"text":"口 口 口 口 口 口\n山 山 8ST\nooooaoaob\n@ @\nFuu8T —_]\n©\n©\n115mm ——______ F- 115mmn 一\nLu\n- + - +\n[一 |\n二 OOOOOOR\n@@\nUoUowowowoU\nRelay PWR2 PWRI\nConsole\nL A OReset\n115200.N.8.1\n54mm\nnon rm rm nm 只\nWuwsTT\n[ 了 Oo Un 過 號 Uo |\nE\nE\noo 人 有 5\n20 BAe Du 上 號 |\nO16\n‘ons\nO14\non"
+}

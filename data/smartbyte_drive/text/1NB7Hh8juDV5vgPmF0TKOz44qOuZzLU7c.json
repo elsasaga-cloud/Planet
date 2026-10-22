@@ -1,0 +1,22 @@
+{
+"id":"1NB7Hh8juDV5vgPmF0TKOz44qOuZzLU7c",
+"name":"1光2电-SC.png",
+"path":"SmartByte/暂时不用的/源图 源DS/1光2电/1光2电-SC.png",
+"type":"图片",
+"bytes":105249,
+"sha256":"132db2e0ea5df2e1f680cd088773b717e57ba7eca7c3e11831c289b1e466627c",
+"extracted_at":"2026-10-22T02:16:25Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":3877,
+"height":1461,
+"mode":"RGB",
+"thumb_bytes":4176
+},
+"ocr":{
+"text":"E\n6 E\nn ©\n口\nU © @\nFuus 一\n@ © |]\n:0\n“oO\npa E\n.0 E\nwn\noo\n@ @\n| uus8 圖\nPWR1_PWR2 T\nfavialatral E\n© ON E\n% 5559 8 |e\n| uus8\nT\n. E\n”| elicr\n_ . ° 上",
+"conf":63.3
+},
+"text":"E\n6 E\nn ©\n口\nU © @\nFuus 一\n@ © |]\n:0\n“oO\npa E\n.0 E\nwn\noo\n@ @\n| uus8 圖\nPWR1_PWR2 T\nfavialatral E\n© ON E\n% 5559 8 |e\n| uus8\nT\n. E\n”| elicr\n_ . ° 上"
+}

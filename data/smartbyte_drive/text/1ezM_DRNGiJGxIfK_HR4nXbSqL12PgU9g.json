@@ -1,0 +1,22 @@
+{
+"id":"1ezM_DRNGiJGxIfK_HR4nXbSqL12PgU9g",
+"name":"12X8-不带数据中性机械结构图.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/12光8电/12X8-不带数据中性机械结构图.png",
+"type":"图片",
+"bytes":160593,
+"sha256":"3fe384035dbbf84c41eeb53bbb71fff2b5bf8951c2919b74953d1b8b1a7a7aec",
+"extracted_at":"2026-10-22T02:17:14Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5067,
+"height":2097,
+"mode":"RGB",
+"thumb_bytes":5239
+},
+"ocr":{
+"text":"@ @\n區 加\n還 E\nE\nIn\n器\n圖\n下\n同\n0 @ @\n8ST\nq © ©\n[| 品\nfi oo\nE\nE\n= In\n則 a\nFo\n© ©\nuuuSGr\nu 一 一 ,\noc ec 各\n© SeSiSwesS\n@\nue Gey E\n目\no\nLd\nCARA\nWwUWGTT\n30 of os Or Oo On Or On On O-\ngo o8\nED O&\nE\n4 OR Of os OS\nil Boo oo oo A",
+"conf":61.0
+},
+"text":"@ @\n區 加\n還 E\nE\nIn\n器\n圖\n下\n同\n0 @ @\n8ST\nq © ©\n[| 品\nfi oo\nE\nE\n= In\n則 a\nFo\n© ©\nuuuSGr\nu 一 一 ,\noc ec 各\n© SeSiSwesS\n@\nue Gey E\n目\no\nLd\nCARA\nWwUWGTT\n30 of os Or Oo On Or On On O-\ngo o8\nED O&\nE\n4 OR Of os OS\nil Boo oo oo A"
+}

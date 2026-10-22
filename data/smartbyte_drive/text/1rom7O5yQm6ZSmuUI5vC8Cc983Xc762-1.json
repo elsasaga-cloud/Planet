@@ -1,0 +1,22 @@
+{
+"id":"1rom7O5yQm6ZSmuUI5vC8Cc983Xc762-1",
+"name":"8光8电 非管理 机械结构图.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/8光8电/非管理/机械结构图/8光8电 非管理 机械结构图.png",
+"type":"图片",
+"bytes":141883,
+"sha256":"101c3b1c087d2419748d2529819d4a2f0c2c8021618abe3029ce8bfc32a8e313",
+"extracted_at":"2026-10-22T02:18:47Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":4552,
+"height":2097,
+"mode":"RGB",
+"thumb_bytes":6175
+},
+"ocr":{
+"text":"ooooaoo\n山 山 8ST\n口 口 口 口 口 口\n@\n@\n-—— 115mm —______ F- 115mmn 一\nFuu8T —_]\nLu\n@ 人 @\n人 品 AUEJAWUTAUTALTei E\nON\n+\nSo55858 Tt 了\nnon rm rm nm 只\nWuwsTT\n[ 了 Oo Un 過 號 Uo |\nE\nE\noo 人 有 5\n20 BAe Du 上 號 |\nO16\n‘ons\nO14\non",
+"conf":52.7
+},
+"text":"ooooaoo\n山 山 8ST\n口 口 口 口 口 口\n@\n@\n-—— 115mm —______ F- 115mmn 一\nFuu8T —_]\nLu\n@ 人 @\n人 品 AUEJAWUTAUTALTei E\nON\n+\nSo55858 Tt 了\nnon rm rm nm 只\nWuwsTT\n[ 了 Oo Un 過 號 Uo |\nE\nE\noo 人 有 5\n20 BAe Du 上 號 |\nO16\n‘ons\nO14\non"
+}

@@ -1,0 +1,22 @@
+{
+"id":"1pgu24ik3YtlB-0zg1mo6MzZIGVU17QDA",
+"name":"不带数据中性机械结构图.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/16光 + 8Combo + 4光/不带数据中性机械结构图.png",
+"type":"图片",
+"bytes":272311,
+"sha256":"0cc9cecdb65e3cc63523985bed3bcf91960c9284ef25da33404788794e8fabc8",
+"extracted_at":"2026-10-22T02:17:21Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5350,
+"height":5604,
+"mode":"RGB",
+"thumb_bytes":8843
+},
+"ocr":{
+"text":"6% ‘Yelow:Po/Speed Greenini/ac\nSonate\n115200.8.N.1_ 9 FUP OP 4 4 [ ece7s 一 (9@\nBe as\n° ° o o 区 aby — aby — ay, — al py aby — aby — abv, val vate, ate abe a mcran] so 可 Front view\n= |\na\n[44mm —_{\n[44mm —_{\nReset 已 品 已 品 已 品 已 品 sea Soo2\n人 a 同 還 EM bi 8h 8h fs ey 83 83 FY or rr\n440mm\nAC 100~240V 5oy60hz 1A\nRear view\n440mm |\n440mm\nAeroview\n280mm",
+"conf":52.1
+},
+"text":"6% ‘Yelow:Po/Speed Greenini/ac\nSonate\n115200.8.N.1_ 9 FUP OP 4 4 [ ece7s 一 (9@\nBe as\n° ° o o 区 aby — aby — ay, — al py aby — aby — abv, val vate, ate abe a mcran] so 可 Front view\n= |\na\n[44mm —_{\n[44mm —_{\nReset 已 品 已 品 已 品 已 品 sea Soo2\n人 a 同 還 EM bi 8h 8h fs ey 83 83 FY or rr\n440mm\nAC 100~240V 5oy60hz 1A\nRear view\n440mm |\n440mm\nAeroview\n280mm"
+}

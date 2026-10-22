@@ -1,0 +1,22 @@
+{
+"id":"1MGPTA7wmAzqgQEqw0DEtJevI3D8I-yOm",
+"name":"2光16电 中性机械结构图.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/2光16电/网管/中性机械结构图/2光16电 中性机械结构图.png",
+"type":"图片",
+"bytes":154128,
+"sha256":"08374d719384c72e99c06792949bc70c86f204ba1fa06b1d79a3796807f8d085",
+"extracted_at":"2026-10-22T02:17:41Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":4552,
+"height":2097,
+"mode":"RGB",
+"thumb_bytes":6178
+},
+"ocr":{
+"text":"口 口 口 口 口 口\n山 山 8ST\n上 115mn 一 和\nooooaoaob\n115mm\nFuu8T —_]\n2OOOOe\nOCCUls\n®\nUsUsUsU0U0U,\nRelay PWR2 PWRI\nConsole\nco 人]\n115200.N.8.1\nH-— 54mm —_\nuuuuqIL\n已 品 已 品 已 Uo\nPO os\nH-— 54mm——_",
+"conf":53.5
+},
+"text":"口 口 口 口 口 口\n山 山 8ST\n上 115mn 一 和\nooooaoaob\n115mm\nFuu8T —_]\n2OOOOe\nOCCUls\n®\nUsUsUsU0U0U,\nRelay PWR2 PWRI\nConsole\nco 人]\n115200.N.8.1\nH-— 54mm —_\nuuuuqIL\n已 品 已 品 已 Uo\nPO os\nH-— 54mm——_"
+}

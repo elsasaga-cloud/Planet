@@ -1,0 +1,22 @@
+{
+"id":"1Bh90B03Kmpt74UEcBc1sp-Xrsv6Pm5db",
+"name":"带数据中性机械结构图.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/16光 + 8Combo + 4光/带数据中性机械结构图.png",
+"type":"图片",
+"bytes":281113,
+"sha256":"dd12499fabef1df5ecdaa9211ec7d164e8c2bc94cbc3eb25bddd9d79b93f47b7",
+"extracted_at":"2026-10-22T02:17:27Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5350,
+"height":5604,
+"mode":"RGB",
+"thumb_bytes":8917
+},
+"ocr":{
+"text":"[44mm —_{\n6 sser- 品 yalew:pegrspssd Greenuneaet\nae\nSt os 区 fi 5 F UF 4 Uo 4 eI ©@\nYY 一 CC CC CC cr cc t = x = Thee Tr = x rattan! rattan] Front view\n了\noo co 上 一生 生 生 生 oA oA\nob 品 已 品 已 品 Soocaq Looe.\nReset\n°\n° 有\n>\n3\n>\n3\n>\n3\n>\n可\n>\n3\n>\n了\n>\n3\n>\noa\n[PT\n= op\nwa\n= op\nod U\noq U\n-4\nof\noa\nns\noa\nar\n-4\n[44mm —_{\n‘AC 100~240v 50/60Hz 1A\nRear view\n440mm |\n440mm\n280mm\nAeroview",
+"conf":53.5
+},
+"text":"[44mm —_{\n6 sser- 品 yalew:pegrspssd Greenuneaet\nae\nSt os 区 fi 5 F UF 4 Uo 4 eI ©@\nYY 一 CC CC CC cr cc t = x = Thee Tr = x rattan! rattan] Front view\n了\noo co 上 一生 生 生 生 oA oA\nob 品 已 品 已 品 Soocaq Looe.\nReset\n°\n° 有\n>\n3\n>\n3\n>\n3\n>\n可\n>\n3\n>\n了\n>\n3\n>\noa\n[PT\n= op\nwa\n= op\nod U\noq U\n-4\nof\noa\nns\noa\nar\n-4\n[44mm —_{\n‘AC 100~240v 50/60Hz 1A\nRear view\n440mm |\n440mm\n280mm\nAeroview"
+}

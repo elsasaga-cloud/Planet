@@ -1,0 +1,22 @@
+{
+"id":"1UaSAZ2R8jYdX_xW6cm8qOl98kHThOuE4",
+"name":"不带数据中性机械结构图.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/16电 + 8Combo + 4 光/不带数据中性机械结构图.png",
+"type":"图片",
+"bytes":272336,
+"sha256":"2b7c55c58438cb3026958c3bbf7c5d65bc17b395113ad9f974e933d9ae0ae7d0",
+"extracted_at":"2026-10-22T02:17:30Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5350,
+"height":5604,
+"mode":"RGB",
+"thumb_bytes":8910
+},
+"ocr":{
+"text":"[44mm —_{\noe ‘elow:Pot/Speed Greentnk/at\nTS oo FU Up 归口 口 Pup UP Up Oo P uP UP Up Oo 一 se 一 G@e\n2 & les aa\n-一 二 一 -二 一 Ia Ia Front view\n2 9 9 i} ] — — —\nReset | | | | | || | 器 sea Soo2\na & a co 全 EM aS BL bb BF eS 6% bh ws or rr\n440mm\n和 AC 100~-240V S/H 1A\n£\nE ,\n¢ Rear view\n+\n440mm |\n440mm\nAeroview\n280mm",
+"conf":50.8
+},
+"text":"[44mm —_{\noe ‘elow:Pot/Speed Greentnk/at\nTS oo FU Up 归口 口 Pup UP Up Oo P uP UP Up Oo 一 se 一 G@e\n2 & les aa\n-一 二 一 -二 一 Ia Ia Front view\n2 9 9 i} ] — — —\nReset | | | | | || | 器 sea Soo2\na & a co 全 EM aS BL bb BF eS 6% bh ws or rr\n440mm\n和 AC 100~-240V S/H 1A\n£\nE ,\n¢ Rear view\n+\n440mm |\n440mm\nAeroview\n280mm"
+}

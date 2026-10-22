@@ -1,0 +1,22 @@
+{
+"id":"1dWoOS00HAUJqjS8zti3vtgcoe1QhhiBH",
+"name":"16电非管理.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/16电/非管理/中性机械结构图/16电非管理.png",
+"type":"图片",
+"bytes":144458,
+"sha256":"fb36f979c4801c54184218f7c6593fe20405856d96077db998441aa9ba0c3098",
+"extracted_at":"2026-10-22T02:17:40Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":4552,
+"height":2097,
+"mode":"RGB",
+"thumb_bytes":6094
+},
+"ocr":{
+"text":"@ @ |\nE\nE\n開 Im\n四\n‘a 4\n中\n由\n中\n由\n0 @ ©\nWWgcT\nq__ © ©\na\na\n口\n口\n” E\n2 E\nIm\n四\n四\n© ©\nIK wwigst\nLIL Ls LS LT LT LT\nGOO CC0Uls\nE\na Ray Sa @ |e\n1234 (a)\nOe OO ee rm Jl Jl 了 L\nWuwsTT\npo os\n品\n區\n品\nal\n品\nal\n品\n口\n品\nal\n品\nal\n品\n一 一 一 54mm 一 一 一",
+"conf":62.1
+},
+"text":"@ @ |\nE\nE\n開 Im\n四\n‘a 4\n中\n由\n中\n由\n0 @ ©\nWWgcT\nq__ © ©\na\na\n口\n口\n” E\n2 E\nIm\n四\n四\n© ©\nIK wwigst\nLIL Ls LS LT LT LT\nGOO CC0Uls\nE\na Ray Sa @ |e\n1234 (a)\nOe OO ee rm Jl Jl 了 L\nWuwsTT\npo os\n品\n區\n品\nal\n品\nal\n品\n口\n品\nal\n品\nal\n品\n一 一 一 54mm 一 一 一"
+}

@@ -1,0 +1,22 @@
+{
+"id":"12Osl0syBsFIq5c4VuXUIBw-rG0Kp-xtW",
+"name":"带数据中性机械结构图.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/16电 + 8Combo + 4 光/带数据中性机械结构图.png",
+"type":"图片",
+"bytes":281102,
+"sha256":"fc29a978ed1818298f29397c916656b4e359d0cc5e080bc6aa2b0b3f954d59e8",
+"extracted_at":"2026-10-22T02:17:41Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5350,
+"height":5604,
+"mode":"RGB",
+"thumb_bytes":8991
+},
+"ocr":{
+"text":"[44mm —_{\n‘Yelow:PoE/Speed Green:Link/act\nAse+- 呈 品\n已 本 or oF OF OF SGP oO SP OP oP oP\n三 ecaezs 一 ©e\n2 世博 ,\noe a Feo eo Front view\nconsole\n1152008\n2 9 9 i} ] — — —\nReset | | | | | || | 器 sea Soo2\na & a co 全 EM aS BL bb BF eS 6% bh ws or rr\n440mm\n和 AC 100~-240V S/H 1A\n£\nE ,\n¢ Rear view\n+\n440mm |\n440mm\nAeroview\n280mm",
+"conf":49.1
+},
+"text":"[44mm —_{\n‘Yelow:PoE/Speed Green:Link/act\nAse+- 呈 品\n已 本 or oF OF OF SGP oO SP OP oP oP\n三 ecaezs 一 ©e\n2 世博 ,\noe a Feo eo Front view\nconsole\n1152008\n2 9 9 i} ] — — —\nReset | | | | | || | 器 sea Soo2\na & a co 全 EM aS BL bb BF eS 6% bh ws or rr\n440mm\n和 AC 100~-240V S/H 1A\n£\nE ,\n¢ Rear view\n+\n440mm |\n440mm\nAeroview\n280mm"
+}

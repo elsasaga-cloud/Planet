@@ -1,0 +1,22 @@
+{
+"id":"12AbR9x_ASFtfBwOkpm-AnVoiC_efSo0n",
+"name":"8 giga + 2 SFP+.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/2光8电/管理型/千+万/8千+2万中性机械结构图/8 giga + 2 SFP+.png",
+"type":"图片",
+"bytes":141807,
+"sha256":"14acb882bd3a35cbb5a5d1767ec678b83fc379c24569d9fa794e49bb8aeb246b",
+"extracted_at":"2026-10-22T02:17:55Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":4552,
+"height":2097,
+"mode":"RGB",
+"thumb_bytes":5951
+},
+"ocr":{
+"text":"口 口 口 口 口 口\n山 山 8ST\nooooaoaob\n@ @\nFuu8T —_]\nLLL Lr LT LT LT\nTRY\nSOOOOOOW\nE\nUsUsUoUsU00 €\nRay PURE PWR 于\nMR 了\nee\nins\nFr nm\n! uuuusTL\nToL UP uo U\n1 器\nee Boe fo 品\n115mm ——______ F- 115mmn 一",
+"conf":50.6
+},
+"text":"口 口 口 口 口 口\n山 山 8ST\nooooaoaob\n@ @\nFuu8T —_]\nLLL Lr LT LT LT\nTRY\nSOOOOOOW\nE\nUsUsUoUsU00 €\nRay PURE PWR 于\nMR 了\nee\nins\nFr nm\n! uuuusTL\nToL UP uo U\n1 器\nee Boe fo 品\n115mm ——______ F- 115mmn 一"
+}

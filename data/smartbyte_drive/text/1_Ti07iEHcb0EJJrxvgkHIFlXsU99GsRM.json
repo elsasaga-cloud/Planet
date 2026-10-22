@@ -1,0 +1,22 @@
+{
+"id":"1_Ti07iEHcb0EJJrxvgkHIFlXsU99GsRM",
+"name":"4X24带数据中性结构图.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/4光24电/4X24带数据中性结构图.png",
+"type":"图片",
+"bytes":178835,
+"sha256":"75c9ca997bc0afbf75a49c85e8b88cf697d02f3db788a003dd8e758d82fee68c",
+"extracted_at":"2026-10-22T02:18:33Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5339,
+"height":2097,
+"mode":"RGB",
+"thumb_bytes":5072
+},
+"ocr":{
+"text":"山 u85ST\n@ @\n加\n0 =\n£\nrr)\na\na\n加\n有\n@ ©\n山 山 85T\n@ @\n品\n轉\nE\nE\n加\n3 a\n| 区\n@ @\nwuggt—————\nlon at\nci 各 Deine E\n[SENSISEIeS &\n(2) a\na et\nCAAA AA rm nm\n| uusTT\n本 二 可 Sas =a Toe oe oe a\nsoot i [\n8o of\ncela oh dh ob Lb db Ab E\n! ee |e\neg 2 三 三 三 a\nLE 有 j= PUT\nol a eies or ey\nOR OR Of On\n山 an an 人 2",
+"conf":51.5
+},
+"text":"山 u85ST\n@ @\n加\n0 =\n£\nrr)\na\na\n加\n有\n@ ©\n山 山 85T\n@ @\n品\n轉\nE\nE\n加\n3 a\n| 区\n@ @\nwuggt—————\nlon at\nci 各 Deine E\n[SENSISEIeS &\n(2) a\na et\nCAAA AA rm nm\n| uusTT\n本 二 可 Sas =a Toe oe oe a\nsoot i [\n8o of\ncela oh dh ob Lb db Ab E\n! ee |e\neg 2 三 三 三 a\nLE 有 j= PUT\nol a eies or ey\nOR OR Of On\n山 an an 人 2"
+}

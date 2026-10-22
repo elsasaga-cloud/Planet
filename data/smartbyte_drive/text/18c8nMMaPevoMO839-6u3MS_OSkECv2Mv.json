@@ -1,0 +1,22 @@
+{
+"id":"18c8nMMaPevoMO839-6u3MS_OSkECv2Mv",
+"name":"8 giga + 4 SFP+.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/4光8电/网管/千+万/千+万中性机械结构图/8 giga + 4 SFP+.png",
+"type":"图片",
+"bytes":144347,
+"sha256":"afcfa9c57beecd2b41db2366a05cdb1986705c3121f9f850d7fd7b9f7acb9030",
+"extracted_at":"2026-10-22T02:18:36Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":4552,
+"height":2097,
+"mode":"RGB",
+"thumb_bytes":6013
+},
+"ocr":{
+"text":"口 口 口 口 口 口\n山 山 8ST\nooooaoaob\n@\n@\nFuu8T —_]\nLLL Lr LT LT LT\nai\nMOO CCCs\nE\nUsUsUoUsUc0 €\nRey EWR PRE 于\nCie =\ne@ | |\nins\nFr nm\n! uuuusTL\nToL IF Uo UW\nO fe} ° co}\noo 人 有\n20 oO Fa Fa 號\n-—— 115mm —______ F- 115mmn 一",
+"conf":48.6
+},
+"text":"口 口 口 口 口 口\n山 山 8ST\nooooaoaob\n@\n@\nFuu8T —_]\nLLL Lr LT LT LT\nai\nMOO CCCs\nE\nUsUsUoUsUc0 €\nRey EWR PRE 于\nCie =\ne@ | |\nins\nFr nm\n! uuuusTL\nToL IF Uo UW\nO fe} ° co}\noo 人 有\n20 oO Fa Fa 號\n-—— 115mm —______ F- 115mmn 一"
+}

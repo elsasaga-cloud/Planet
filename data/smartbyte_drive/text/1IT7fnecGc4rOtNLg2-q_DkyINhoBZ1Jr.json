@@ -1,0 +1,22 @@
+{
+"id":"1IT7fnecGc4rOtNLg2-q_DkyINhoBZ1Jr",
+"name":"48 + 4 非 PoE.png",
+"path":"SmartByte/暂时不用的/商业级管理 源图/4光+48电/48 + 4 非 PoE.png",
+"type":"图片",
+"bytes":177964,
+"sha256":"d441c0536d4f5c97dd3651fd89b5db635fb698d047d9d4045b595940acca3bbc",
+"extracted_at":"2026-10-22T02:16:21Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":2889,
+"height":2097,
+"mode":"RGB",
+"thumb_bytes":6838
+},
+"ocr":{
+"text":"一 - 44mm —\n一 - 44mm 一 下\nOP OF OU OP UP oP oP oP op\nTI] A] consote\nAv\nSS Go\nReset\n2b 9b ob sos L se\nbod %\nba && bk bo Ab\nBb 9h fb pe oh, Dd) eb ob 已\n%\nbh fd\nbh Ah &8% &% th HH AR BU &%\n440mm AAA\nFront view\n@@\n440mm 一\nBack view\noooooooooooooooooooooooooo © @\nooooooooooooooooooooooooo\noooooooooooooooooooooooooo\nooooooooooooooooooooooooo\noooooooooooooooooooooooooo 5 5\nx — 3009 xc ger\nSide view\nKe 44mm —-f",
+"conf":52.2
+},
+"text":"一 - 44mm —\n一 - 44mm 一 下\nOP OF OU OP UP oP oP oP op\nTI] A] consote\nAv\nSS Go\nReset\n2b 9b ob sos L se\nbod %\nba && bk bo Ab\nBb 9h fb pe oh, Dd) eb ob 已\n%\nbh fd\nbh Ah &8% &% th HH AR BU &%\n440mm AAA\nFront view\n@@\n440mm 一\nBack view\noooooooooooooooooooooooooo © @\nooooooooooooooooooooooooo\noooooooooooooooooooooooooo\nooooooooooooooooooooooooo\noooooooooooooooooooooooooo 5 5\nx — 3009 xc ger\nSide view\nKe 44mm —-f"
+}

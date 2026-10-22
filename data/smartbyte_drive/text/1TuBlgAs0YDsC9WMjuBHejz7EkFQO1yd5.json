@@ -1,0 +1,22 @@
+{
+"id":"1TuBlgAs0YDsC9WMjuBHejz7EkFQO1yd5",
+"name":"the dimension of 16GT PoE +8Combo+4XS.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/16电 + 8Combo + 4 光/the dimension of 16GT PoE +8Combo+4XS.png",
+"type":"图片",
+"bytes":260585,
+"sha256":"6613d508c027d03d504d7baa1c0d3bc0c5464601fb8970335ea068fcb4cc7d25",
+"extracted_at":"2026-10-22T02:17:32Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5350,
+"height":5604,
+"mode":"RGBA",
+"thumb_bytes":8703
+},
+"ocr":{
+"text":"[44mm —_{\n[44mm —_{\n3 ‘Yelow:Poe/SpeedGreensini/ac\nS053, Gor oe oe OP oF oF oF OP oF op oo\nneti 9 9 ers Oe\noe oe oe .\no oo ° Po A A P| PP Front view\nRe 一 二 | Boa on oo | (a oh oo oD) le oo oe oo 品 Soocaq Looe.\nal & h 加 & BS bn bb BH Bh BL bb BD bi 6h 8h 65 8383 83 YT\n| 440mm\nRear view\n| 440mm |\n440mm\n280mm\nAeroview",
+"conf":45.9
+},
+"text":"[44mm —_{\n[44mm —_{\n3 ‘Yelow:Poe/SpeedGreensini/ac\nS053, Gor oe oe OP oF oF oF OP oF op oo\nneti 9 9 ers Oe\noe oe oe .\no oo ° Po A A P| PP Front view\nRe 一 二 | Boa on oo | (a oh oo oD) le oo oe oo 品 Soocaq Looe.\nal & h 加 & BS bn bb BH Bh BL bb BD bi 6h 8h 65 8383 83 YT\n| 440mm\nRear view\n| 440mm |\n440mm\n280mm\nAeroview"
+}

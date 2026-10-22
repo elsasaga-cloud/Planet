@@ -1,0 +1,22 @@
+{
+"id":"1HvFqFSBBzMxgqBhQUNDA7mGxokPypF9v",
+"name":"带数据中性机械结构图-PoE机型.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/4光24电--机架式/带数据中性机械结构图-PoE机型.png",
+"type":"图片",
+"bytes":232911,
+"sha256":"46407e2627f9b1eba179a921fc52f66cd45a1eca616abea5a8f0e6f32f2e7776",
+"extracted_at":"2026-10-22T02:18:23Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5350,
+"height":5604,
+"mode":"RGB",
+"thumb_bytes":8596
+},
+"ocr":{
+"text":"SR 9 O fleeces © Por oOo oo oe oF oy 品 Por op oo 一 se 一 Oe\n上 o_o er 0 pen} 下 Front view\nv poet 一 二 | Bop oo oo | LL oe oo Dd (eo ob oe 品 Soocaq Looe.\n上 — a 4 8 4 am Sn $5 AS fy oan oan AS 3 全 生 生\n440mm\nE\nRear view\n440mm |\n440mm\nE\nE\n同 .\na Aeroview",
+"conf":49.0
+},
+"text":"SR 9 O fleeces © Por oOo oo oe oF oy 品 Por op oo 一 se 一 Oe\n上 o_o er 0 pen} 下 Front view\nv poet 一 二 | Bop oo oo | LL oe oo Dd (eo ob oe 品 Soocaq Looe.\n上 — a 4 8 4 am Sn $5 AS fy oan oan AS 3 全 生 生\n440mm\nE\nRear view\n440mm |\n440mm\nE\nE\n同 .\na Aeroview"
+}

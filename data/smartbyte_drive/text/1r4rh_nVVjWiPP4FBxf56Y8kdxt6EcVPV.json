@@ -1,0 +1,22 @@
+{
+"id":"1r4rh_nVVjWiPP4FBxf56Y8kdxt6EcVPV",
+"name":"5.png",
+"path":"SmartByte/暂时不用的/商业级管理 源图/4光+ 8电/5.png",
+"type":"图片",
+"bytes":150901,
+"sha256":"d88bca26bf61c0bedd89ee0d4409a96f738ba608a66e52476b475a93cb996c58",
+"extracted_at":"2026-10-22T02:15:55Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5350,
+"height":1517,
+"mode":"RGB",
+"thumb_bytes":2449
+},
+"ocr":{
+"text":"aomipoglspeed semusese\nFos 品\nConsole\nDe0s0FD8\nBoo 口\nLa\nva a5 v6 a7 v8 9\n一 44mm 一 二\n152mm\n152mm\n2\n的\n和 @@]\n一 44mm 一 二",
+"conf":55.3
+},
+"text":"aomipoglspeed semusese\nFos 品\nConsole\nDe0s0FD8\nBoo 口\nLa\nva a5 v6 a7 v8 9\n一 44mm 一 二\n152mm\n152mm\n2\n的\n和 @@]\n一 44mm 一 二"
+}

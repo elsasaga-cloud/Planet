@@ -1,0 +1,22 @@
+{
+"id":"1QswfMJNOgWI3jLBC2Zsf3qLSix2Irsjn",
+"name":"3系管理型1光4电-1X9.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/3系5口（5电，1光4）/管理型/中性机械结构图/3系管理型1光4电-1X9.png",
+"type":"图片",
+"bytes":125463,
+"sha256":"04453d306e1ca690b3e7283792968e7f09f050e653bc7b27d46396af74179a5a",
+"extracted_at":"2026-10-22T02:16:42Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":3933,
+"height":2010,
+"mode":"RGB",
+"thumb_bytes":5217
+},
+"ocr":{
+"text":"口 口 口 口\n98mm\nooo 8\nIK ww 9\nPWRI_ PWR\nasses Console E\n四 g\n人 OO,0,O © LJ a\n© ton 96\" De 1359v; PoE: 8€ 48-570 1S200.N Gt L\n| uuuu86 |\n3 i i\nee |bodpou\n98mm\nL- 30mm +\nWWOET",
+"conf":54.6
+},
+"text":"口 口 口 口\n98mm\nooo 8\nIK ww 9\nPWRI_ PWR\nasses Console E\n四 g\n人 OO,0,O © LJ a\n© ton 96\" De 1359v; PoE: 8€ 48-570 1S200.N Gt L\n| uuuu86 |\n3 i i\nee |bodpou\n98mm\nL- 30mm +\nWWOET"
+}

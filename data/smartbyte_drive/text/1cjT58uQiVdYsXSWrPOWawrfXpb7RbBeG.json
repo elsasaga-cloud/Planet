@@ -1,0 +1,22 @@
+{
+"id":"1cjT58uQiVdYsXSWrPOWawrfXpb7RbBeG",
+"name":"1光1电-SFP.png",
+"path":"SmartByte/暂时不用的/源图 源DS/1光1电/1光1电-SFP.png",
+"type":"图片",
+"bytes":98230,
+"sha256":"bd11654d7e12da189963fbe6278d61ae9cfe6a768d41b6968bec3c9d2779c3a8",
+"extracted_at":"2026-10-22T02:16:17Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":3877,
+"height":1461,
+"mode":"RGB",
+"thumb_bytes":4115
+},
+"ocr":{
+"text":"站 一 一 一 uuss 一 一\nE\na E\na 品\n口\n口\nU @ @\n-———_ wwigg ———_—_—__\n© ©\n“oO\n:0\n“oO E\n: E\nwn\noo\n@ @\n| uus8 圖\nPWR1 _PWR2 T\nfavialatral E\n© ON E\n2 ES 5\n| uus8\nT\nE\n8 7 E\ne 8\n°\" . 上",
+"conf":63.5
+},
+"text":"站 一 一 一 uuss 一 一\nE\na E\na 品\n口\n口\nU @ @\n-———_ wwigg ———_—_—__\n© ©\n“oO\n:0\n“oO E\n: E\nwn\noo\n@ @\n| uus8 圖\nPWR1 _PWR2 T\nfavialatral E\n© ON E\n2 ES 5\n| uus8\nT\nE\n8 7 E\ne 8\n°\" . 上"
+}

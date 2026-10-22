@@ -1,0 +1,22 @@
+{
+"id":"160uKq2mkXC4CKV5jWV9bxQMDXGSRMho_",
+"name":"3系2光8电-SFP.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/3系10口（2光8）/非管理型/中性机械结构图/3系2光8电-SFP.png",
+"type":"图片",
+"bytes":124508,
+"sha256":"4de6730c812ee5b73c5d58e4bbc409f6b6dfb28e39adffdbd017179d52399299",
+"extracted_at":"2026-10-22T02:16:40Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":4254,
+"height":2010,
+"mode":"RGB",
+"thumb_bytes":4559
+},
+"ocr":{
+"text":"98mm\noo oo\n口 口 口 口\n98mm\nmm\nPWRI_PwR2\n人 品\nON\n966008 Bese\n©®@\nHe 48mm ——_\n口\n下\n口\n中\n則,\n品\nqu),\n品\n48mm 一 一\nPo os\n90 O10\nE\n=\nSs\n人\n四",
+"conf":61.9
+},
+"text":"98mm\noo oo\n口 口 口 口\n98mm\nmm\nPWRI_PwR2\n人 品\nON\n966008 Bese\n©®@\nHe 48mm ——_\n口\n下\n口\n中\n則,\n品\nqu),\n品\n48mm 一 一\nPo os\n90 O10\nE\n=\nSs\n人\n四"
+}

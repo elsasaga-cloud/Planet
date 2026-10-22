@@ -1,0 +1,22 @@
+{
+"id":"1JonU0U054lZ1awvN0BPrzCnvrUaLowc_",
+"name":"the dimension of 24GT PoE + 4XS.png",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/4光24电--机架式/the dimension of 24GT PoE + 4XS.png",
+"type":"图片",
+"bytes":246252,
+"sha256":"150db4e326d230c33704cceb9e973f5135fbf1c4ea1d941b791ac8388bbce006",
+"extracted_at":"2026-10-22T02:18:14Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5350,
+"height":5604,
+"mode":"RGBA",
+"thumb_bytes":8544
+},
+"ocr":{
+"text":"Yellow:PoE/Speed Green:Link/act\nPor oF oF UF oF oe OP ole oP oP oo\n[44mm —_{\n[44mm —_{\n440mm\n440mm\n280mm\nFront view\nRear view\nAeroview",
+"conf":62.3
+},
+"text":"Yellow:PoE/Speed Green:Link/act\nPor oF oF UF oF oe OP ole oP oP oo\n[44mm —_{\n[44mm —_{\n440mm\n440mm\n280mm\nFront view\nRear view\nAeroview"
+}
