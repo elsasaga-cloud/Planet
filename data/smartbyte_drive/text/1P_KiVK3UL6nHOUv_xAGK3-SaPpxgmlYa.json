@@ -1,0 +1,22 @@
+{
+"id":"1P_KiVK3UL6nHOUv_xAGK3-SaPpxgmlYa",
+"name":"Power supply.png",
+"path":"SmartByte/工业非管理/STI-180FE/Power supply.png",
+"type":"图片",
+"bytes":297510,
+"sha256":"9e6f3d4d21956ab2f80f92c3a413673c150d61842f09571210dfec4b9b788d74",
+"extracted_at":"2026-10-22T02:03:54Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":800,
+"height":800,
+"mode":"RGB",
+"thumb_bytes":7374
+},
+"ocr":{
+"text":"十 一 +\nNonfPoEDC 12.58V; POEDC 44S7V",
+"conf":63.2
+},
+"text":"十 一 +\nNonfPoEDC 12.58V; POEDC 44S7V"
+}
