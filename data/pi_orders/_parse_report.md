@@ -1,0 +1,65 @@
+# PI 包解析报告
+
+- 销售单据 180 份（PI/CI/Quotation/PL），单号去重 62；采购合同 99 份；成本统计 sheet 32 个
+- 未解析出明细的文件 60：
+
+- 销售单据无明细：`PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/1st order sample/CI.pdf`
+- 采购合同无明细：`PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/1st order sample/采购合同.pdf`
+- 销售单据无明细：`PI/PI/11 新加坡 Au gg/PI.pdf`
+- 销售单据无明细：`PI/PI/11 新加坡 Au gg/Quotation.pdf`
+- 采购合同无明细：`PI/PI/11 新加坡 Au gg/采购合同.pdf`
+- 采购合同无明细：`PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/10th order/采购合同_STEC20260618012.pdf`
+- 采购合同无明细：`PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/11th order/采购合同_STEC20260718012.pdf`
+- 采购合同无明细：`PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/3rd order/采购_Hrui/采购合同_STSC20250306012.pdf`
+- 采购合同无明细：`PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/3rd order/采购_Smartbyte/采购合同_STSC20250306012.pdf`
+- 采购合同无明细：`PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/4th order/采购_Hrui/采购合同_STEC20250609012.pdf`
+- 采购合同无明细：`PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/4th order/采购_Smartbyte/采购合同_STEC20250609012.pdf`
+- 采购合同无明细：`PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/6th order/采购合同_STEC20250930012.pdf`
+- 采购合同无明细：`PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/7th order/采购合同_STEC20251016012.pdf`
+- 采购合同无明细：`PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/8th order/采购合同_STEC20251121012.pdf`
+- 采购合同无明细：`PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/9th order/采购_Hohunet/采购合同_STEC20251123012.pdf`
+- 采购合同无明细：`PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/9th order/采购_Hohunet/采购合同_STEC20251123012.xls`
+- 采购合同无明细：`PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/9th order/采购_Smartbyte/采购合同_STEC20251123012.pdf`
+- 采购合同无明细：`PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/采购合同_STEC20260830012.pdf`
+- 销售单据无明细：`PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/1st order/STSC20241014013.pdf`
+- 销售单据无明细：`PI/PI/14 印度 Manoj 可发展/1st order/CI_Zhengzhou Saga Telecom Co., Ltd..pdf`
+- 销售单据无明细：`PI/PI/14 印度 Manoj 可发展/2nd order/CI(2).xls simon.pdf`
+- 采购合同无明细：`PI/PI/14 印度 Manoj 可发展/2nd order/采购合同_STSC20250107014.pdf`
+- 销售单据无明细：`PI/PI/14 印度 Manoj 可发展/3rd order/出货/SIMON.pdf`
+- 采购合同无明细：`PI/PI/14 印度 Manoj 可发展/3rd order/采购合同_STSC20251009014.pdf`
+- 销售单据无明细：`PI/PI/14 印度 Manoj 可发展/出货/STSC20260212014 (2).pdf NEW (simon).pdf`
+- 采购合同无明细：`PI/PI/14 印度 Manoj 可发展/采购合同_STSC20260212014.pdf`
+- 采购合同无明细：`PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/2nd order/采购合同_STSC20250915015.pdf`
+- 采购合同无明细：`PI/PI/17 英国 Chris PayPal 可发展/采购合同_STAG20250823017.pdf`
+- 销售单据无明细：`PI/PI/18 阿联酋 Sanjay 可发展/STAG20251127018.pdf`
+- 销售单据无明细：`PI/PI/19 马来西亚 Raja 可发展/STSC20260819019.pdf`
+- 销售单据无明细：`PI/PI/19 马来西亚 Raja 可发展/STSC20260821019.pdf`
+- 采购合同无明细：`PI/PI/1 格鲁吉亚 George gg/采购合同.xls`
+- 销售单据无明细：`PI/PI/20 土耳其 Burak 活跃 Xtransfer 轻度绑定/STAG20251224020.pdf`
+- 采购合同无明细：`PI/PI/20 土耳其 Burak 活跃 Xtransfer 轻度绑定/采购合同_STAG20251224020.pdf`
+- 销售单据无明细：`PI/PI/2 印度 Rishi gg/1st order/CI.xls`
+- 销售单据无明细：`PI/PI/2 印度 Rishi gg/1st order/CI_signed&stamped.pdf`
+- 销售单据无明细：`PI/PI/2 印度 Rishi gg/1st order/STSC20231009002.xls`
+- 销售单据无明细：`PI/PI/2 印度 Rishi gg/1st order/Z-13 可原发票中转模板_invoice.pdf`
+- 销售单据无明细：`PI/PI/2 印度 Rishi gg/1st order/Z-13 可原发票中转模板_invoice.xlsx`
+- 销售单据无明细：`PI/PI/2 印度 Rishi gg/1st order/商业发票（Invoice）.xls`
+- 采购合同无明细：`PI/PI/2 印度 Rishi gg/1st order/采购合同.xls`
+- 销售单据无明细：`PI/PI/3  赞比亚 Pythias gg/水单 1.23.pdf`
+- 采购合同无明细：`PI/PI/3  赞比亚 Pythias gg/采购_Smartbyte/采购合同.pdf`
+- 销售单据无明细：`PI/PI/5 印度 Rajesh gg/STSC20240416005.pdf`
+- 采购合同无明细：`PI/PI/5 印度 Rajesh gg/订单要求.docx`
+- 采购合同无明细：`PI/PI/5 印度 Rajesh gg/采购合同.pdf`
+- 销售单据无明细：`PI/PI/6 美国 Thu 可发展/1st order/STSC20240418006.pdf`
+- 采购合同无明细：`PI/PI/6 美国 Thu 可发展/1st order/采购合同.pdf`
+- 采购合同无明细：`PI/PI/6 美国 Thu 可发展/采购合同_STSC20260903006.pdf`
+- 销售单据无明细：`PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/1st order sample  3层10G 24口 48口/STSC20240508007.pdf`
+- 采购合同无明细：`PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/1st order sample  3层10G 24口 48口/采购合同.pdf`
+- 销售单据无明细：`PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/2nd order sample 2层10G 16口 2光8管理/Angora-Replies_2024.10.23.docx`
+- 销售单据无明细：`PI/PI/8 俄罗斯 Igor gg/STSC20240523008.pdf`
+- 采购合同无明细：`PI/PI/8 俄罗斯 Igor gg/采购合同.pdf`
+- 销售单据无明细：`PI/PI/9 马来西亚 Sugito gg/1st order Sample/Invoice.pdf`
+- 销售单据无明细：`PI/PI/9 马来西亚 Sugito gg/1st order Sample/STSC20240618009.xls`
+- 销售单据无明细：`PI/PI/9 马来西亚 Sugito gg/1st order Sample/发货/CI.xls`
+- 销售单据无明细：`PI/PI/9 马来西亚 Sugito gg/1st order Sample/结汇/发票.xls`
+- 销售单据无明细：`PI/PI/9 马来西亚 Sugito gg/1st order Sample/结汇/合同.xls`
+- 销售单据无明细：`PI/PI/9 马来西亚 Sugito gg/2nd order/发货/CI.xls`

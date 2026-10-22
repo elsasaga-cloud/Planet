@@ -1,0 +1,21 @@
+﻿客户文件夹,Simon标签,买方名称,邮箱,客户名单编号,单号数(CI/PI),首单,末单,累计销售USD(单号去重),累计销售RMB(货代走账单),累计数量,采购合同数,累计采购RMB,Simon成本统计:利润RMB合计,Saga型号集合
+1 格鲁吉亚 George gg,格鲁吉亚 George gg,DELTA CONSULTING LLC,george@dc.ge,SB-335,1,2023-07-24,2023-07-24,100.0,0,4,1,470.0,177.1,STC-028GFP、STC-128GFP
+10 加拿大 James 活跃 Xtransfer 轻度绑定,加拿大 James 活跃 Xtransfer 轻度绑定,James Clendenan Systems Ltd.,James Clendenan; james@clendenan.ca,,4,2024-06-27,2026-09-07,6740.0,0,27,4,32752.0,5201.52,Industrial Switch、STC-424XGGM、STI-21616DGGPM、STI-21616XGGPM、STI-488XGGPM、SW-3200-16GP-2SX
+11 新加坡 Au gg,新加坡 Au gg,Resonant Networks Pte Ltd,,SA-006,1,2024-09-06,2024-09-06,185.0,0,1,2,1040.0,336.63,Commercial Switch
+12 尼日利亚 Mbata 活跃 货代走账 轻度绑定,尼日利亚 Mbata 活跃 货代走账 轻度绑定,Biz - Ethics Ltd.,info@belnetworks.com,,12,2024-09-08,2026-08-30,0,101353.0,131,28,69620.7,0,BNSC-28GPM、BNSC-4168XGGCM、BNSC-424DGDPM、STC-228GP、STC-28GPM、STC-4168XGGCM、STC-424DGGPM、STC-424XGGM、STC-424XGGPM-280W、STH-2C24XF-SFI
+13 泰国 Peeranun 活跃 货代走账 轻度绑定,泰国 Peeranun 活跃 货代走账 轻度绑定,"PBA Forever Technology CO., LTD.",pomnong9@gmail.com,,6,2024-10-14,2026-07-06,0,37489.0,51,10,32007.0,0,STC-05XGWE、STC-08XGWE、STC-108XGDGP、STC-114XGDGP、STC-15XGDGE、STC-18XGDGE、STC-18XGDGPW、STC-216XGDGE、STC-216XGDGWE、STC-224XGDGE、STC-224XGDGWE、STC-80XGO、STI-21616DGGPM、STI-21616GP、STI-42424DGGPM、STI-42424DGGPM-U
+14 印度 Manoj 可发展,印度 Manoj 可发展,Sundar Techno Solutions,sales@sundartechno.com,SA-049,4,2025-01-07,2026-02-12,875.0,0,10,7,5632.0,1227.6,STI-0160GE
+15 德国 Frederik 活跃 Xtransfer 可发展,德国 Frederik 活跃 Xtransfer 可发展,NYNEX satellite OHG,Frederik Kriewitz; f.kriewitz@nynex.de,SA-013,5,2024-11-21,2026-10-06,19634.0,0,63,5,37950.0,7081.83,STC-4168XGGCM、STC-424XGGM
+16 美国 John PayPal gg,美国 John PayPal gg,52 Networks Inc.,sales@52networks.com,SA-064,1,2025-07-18,2025-07-18,285.0,0,4,2,1084.0,914.31,NDR-240-48、STI-288GP
+17 英国 Chris PayPal 可发展,英国 Chris PayPal 可发展,GOGREENIT,info@gogreenit.net,SA-012,1,2025-08-23,2025-08-23,588.0,0,1,2,2912.0,1125.94,STI-42424XGGPM-4BT
+18 阿联酋 Sanjay 可发展,阿联酋 Sanjay 可发展,ASTEL DIGICOM Electronics LLC,"navsim@eim.ae, asteldigicom@eim.ae",SA-001,1,2025-11-27,2025-11-27,166.0,0,8,2,934.0,267.75,HDR-15-24、STI-110GE、STI-140GE
+19 马来西亚 Raja 可发展,马来西亚 Raja 可发展,WIZARDSINC SDN BHD,#; rajaking@outlook.com,SC-1006,3,2026-08-18,2026-08-21,0,19590.0,84,2,5348.0,0,NDR-240-48、STI-21616GP、STI-21616GPM、STI-288GP、STI-288GPM、STI-G2-MD、STI-G20-SD
+2 印度 Rishi gg,印度 Rishi gg,Fastball,office@fastball.in,,1,2023-10-09,2023-10-09,260.0,0,80,1,1595.05,553.48,
+20 土耳其 Burak 活跃 Xtransfer 轻度绑定,土耳其 Burak 活跃 Xtransfer 轻度绑定,NETAŞ Telekomünikasyon A.Ş.,buozdemir@netas.com.tr,SB-473,1,2025-12-24,2025-12-24,545.0,0,3,2,2616.0,903.53,STI-488DGGPM-2BT
+3  赞比亚 Pythias gg,赞比亚 Pythias gg,Obmac Systems,pythiask@gmail.com,SC-349,1,2024-01-17,2024-01-17,9350.0,0,265,3,33800.0,23118.35,STC-4248XGGCM、STI-244GP、STI-SFP1G-SMD20-1310LC
+4 俄罗斯 Andrey 货代走账 可发展,俄罗斯 Andrey 货代走账 可发展,BitBook LLC,info@bitbuk.ru,SA-026,2,2023-11-22,2025-07-31,6038.38,0,132,5,30700.0,5474.38,STC-128GFP、STC-28GPM、STC-424GM、STC-4424GCPM、STI-288GPM
+5 印度 Rajesh gg,印度 Rajesh gg,UNITED CONTROL ENGINEERS INDIA PRIVATE LIMITED,,SA-016,1,2024-04-22,2024-04-22,120.0,0,4,3,524.0,481.99,Industrial Switch
+6 美国 Thu 可发展,美国 Thu 可发展,"Vi-Link, Inc.",Thu Pham; s.sagatelecom@gmail.com; thupvilink16@gmail.com,,4,2024-04-18,2026-09-24,1147.0,0,16,5,3850.0,749.89,Fiber Media Converter、STC-110FE、STC-110XGE、STC-14DUR、STC-4168XGGCM
+7 土耳其 Levent 活跃 Xtransfer 轻度绑定,土耳其 Levent 活跃 Xtransfer 轻度绑定,ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.,Levent.Kilic@AngoraNetworks.com; mustafa.calik@tronx.com.tr,SA-168,10,2024-05-08,2025-06-19,61669.0,0,266,11,49446.0,75789.12,ANW-2248-PX、Commercial Switch、STC-28DGGPM、STC-416DGGPM、STC-424XGGPM、STC-448XGGPM、STI-21616DGGPM、STI-280DGGM、STI-288DGGPM、TRX-AP-612T、TRX-AS-24TP4X、TRX-AS-48TP4X、TRX-IS-8TP2G、TRX-QSFP-40G-SR4、TRX-QSFP28-100G-SR4、TRX-SFP-10G-LR、TRX-SFP-10G-SR、TRX-SFP-1G-LX、TRX-SFP-1G-SX、TRX-SFP28-25G-SR
+8 俄罗斯 Igor gg,俄罗斯 Igor gg,«Rio-Import» LLC,rio-popov@mail.ru,,1,2024-05-23,2024-05-23,1140.0,0,4,2,626.0,514.0,STI-050GE、STI-080GE
+9 马来西亚 Sugito gg,马来西亚 Sugito gg,XSPec Hospitech Sdn Bhd,,,2,2024-06-27,2024-07-17,1146.0,0,13,2,6500.0,3179.39,Commercial Switch
