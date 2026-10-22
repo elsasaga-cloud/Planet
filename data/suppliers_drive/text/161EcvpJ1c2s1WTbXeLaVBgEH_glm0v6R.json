@@ -1,0 +1,22 @@
+{
+"id":"161EcvpJ1c2s1WTbXeLaVBgEH_glm0v6R",
+"name":"1.png",
+"path":"CENTEC Based High-Speed Network/STH10G/STH-2C48XF-SFI/1.png",
+"type":"图片",
+"bytes":4645371,
+"sha256":"a8f5060df9d5b711bc6870a3b88148e6801e9993983c0d63d2884f4f02520d04",
+"extracted_at":"2026-10-22T08:41:33Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5760,
+"height":3840,
+"mode":"RGBA",
+"thumb_bytes":4860
+},
+"ocr":{
+"text":"aly v a 2 2 ail av Ai7 alv—alv Allvo Ally a\ni val i\nv Aiv al liv",
+"conf":52.8
+},
+"text":"aly v a 2 2 ail av Ai7 alv—alv Allvo Ally a\ni val i\nv Aiv al liv"
+}
