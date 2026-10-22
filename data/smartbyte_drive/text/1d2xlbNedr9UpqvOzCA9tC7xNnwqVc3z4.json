@@ -1,0 +1,22 @@
+{
+"id":"1d2xlbNedr9UpqvOzCA9tC7xNnwqVc3z4",
+"name":"10.jpg",
+"path":"SmartByte/工业非管理/STI-110FE/10.jpg",
+"type":"图片",
+"bytes":1556849,
+"sha256":"c6a8d3a4327552461f115e690a2d0246ffac4ec8d9b9b58615661b27c52cfa37",
+"extracted_at":"2026-10-22T02:03:21Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":4032,
+"height":3024,
+"mode":"RGB",
+"thumb_bytes":9019
+},
+"ocr":{
+"text":"| |\nPetree, j\nPetal\n=.",
+"conf":54.6
+},
+"text":"| |\nPetree, j\nPetal\n=."
+}

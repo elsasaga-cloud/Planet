@@ -1,0 +1,327 @@
+{
+"id":"1qm92sQhs_Drd98BboRVTEXDlp5nnT4V3",
+"name":"SmartByte popular Unmanaged industrial Ethernet switch and industrial MC  pricelist on CNY for Simon-20240111 更新.xlsx",
+"path":"SmartByte/工业非管理/SmartByte popular Unmanaged industrial Ethernet switch and industrial MC  pricelist on CNY for Simon-20240111 更新.xlsx",
+"type":"Excel",
+"ext":".xlsx",
+"bytes":11077764,
+"sha256":"165ad7163feab1456b2e6ad18270f16c42f9563240ede5b294df83333465931e",
+"extracted_at":"2026-10-22T02:03:00Z",
+"method":"openpyxl(values)",
+"status":"ok",
+"chars":30434,
+"meta":{
+"sheets":[
+"Industrial Media Converters",
+"Unmanaged Industrial Switches"
+],
+"embedded_images":34,
+"rows_total":50
+},
+"warnings":[],
+"text":"--- Sheet: Industrial Media Converters ---\nShenzhen SmartByte Technology Co.,Ltd\n                                      Address.: D Buliding,  Huiqing Science & Technology Park, Dafu Industrial Area, Kukeng Community, Guanlan,  Longhua District, Shenzhen, China\nWeb: www.smartbyte-switch.com     E-mail: peter@smartbyte.com.cn\nMobile/Wechat/Whatsapp/Skype: +8613714293521\nPicture\tSmartByte Model\tDescription & Highlight\tUnit price/RMB 未税\tSC models(dual fiber ,20KM),industrial version\nUnmanaged Ultra-compact Industrial Fast Media Converters(PoE/Non-PoE)\n\tLT-IMC30F-E\t● 1*10/100Base-TX RJ45 port, 1*100Base-FX SFP(/SC/ST/FC optional) fiber port\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1.LFP ;  2.Flow control;  3.Broadcast storm restrain;  4.10Kbytes jumbo frame                         ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃\t110\t140\n\tLT-IMC30FP-E\t● 1*10/100Base-TX RJ45 PoE/PoE+ port, 1*100Base-FX SFP(/SC/ST/FC optional) fiber port\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection                                                                                                               ●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                                     1.LFP;  2. Flow control;  3. 250m long distance;  4.PoE watchdog                                                                 ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃\t140\t170\n\tLT-IMC30F-1FX2TX-E\t● 2*10/100Base-TX RJ45 port, 1*100Base-FX SFP(/SC/ST/FC optional) fiber port\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1.Port isolation; 2. Flow control; 3. Broadcast storm restrain 4. 10K Bytes Jumbo frame                                                                                                                         ● Support 1M large buffer                                                                                                                 ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃\t120\t150\n\tLT-IMC30FP-1FX2TX-E\t● 2*10/100Base-TX RJ45 PoE/PoE+ port, 1*100Base-FX SFP(/SC/ST/FC optional) fiber port\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection                                                                                                               ●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                                     1.Port isolation;  2. Flow control;  3.250m long distance;  4.PoE watchdog                                                  ● Support 1M large buffer                                                                                                          ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n●  Operation temperature: -40 ℃ ~+75℃\t150\t180\n\tLT-IMC30F-2FX2TX-E\t● 2*10/100Base-TX RJ45 port, 2*100Base-FX SFP port\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1.Fiber redundant; 2. Flow control; 3.Broadcast storm restrain; 4. 10K Bytes Jumbo frame                                                                                                                         ● Support 1M large buffer                                                                                                              ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃\t140\tdo not support SC/ST/FC\n\tLT-IMC30FP-2FX2TX-E\t● 2*10/100Base-TX RJ45 PoE/PoE+ port, 2*100Base-FX SFP port\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection                                                                                                               ●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                                     1.Fiber redundant;  2. Flow control;  3.250m long distance;  4.PoE watchdog                                ● Support 10K Bytes Jumbo frame and 1M large buffer                                                                                                       ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃\t170\tdo not support SC/ST/FC\nUnmanaged Ultra-compact Industrial Gigabit Media Converters(PoE/Non-PoE)\n\tLT-IMC30G-E\t●1*10/100/1000Base-T RJ45 port, 1*100/1000Base-X SFP(/SC/ST/FC optional) fiber port\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1.LFP;  2. Flow control;  3. Broadcast storm restrain;  4.fiber port 100/1000M selection                                                                                                                                 ● Support 10K Bytes Jumbo frame and 1M large buffer                                                                                                                            ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃\t125\t160\n\tLT-IMC30GP-E\t● 1*10/100/1000Base-T RJ45 PoE/PoE+  port, 1*100/1000Base-X SFP(/SC/ST/FC optional) fiber port\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection                                                                                                               ●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                                     1.LFP;  2.Fiber port 100/1000M selection;  3.250m long distance;  4.PoE watchdog                                                                                                                                ● Support 10K Bytes Jumbo frame and 1M large buffer                                                                                               ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃\t155\t190\n\tLT-IMC30G-1GX2GT-E\t● 2*10/100/1000Base-T RJ45 ports, 1*100/1000Base-X SFP(/SC/ST/FC optional) fiber port\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1.Port isolation; 2.Flow control; 3.Broadcast storm restrain; 4.Fiber port 100/1000M selection                                                                                                                       ● Support 10K Bytes Jumbo frame and 1M large buffer                                                                                                                            ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃\t135\t170\n\tLT-IMC30GP-1GX2GT-E\t● 2*10/100/1000Base-T RJ45 PoE/PoE+ ports, 1*100/1000Base-X SFP(/SC/ST/FC optional) fiber port\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection                                                                                                               ●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                                     1.Port isolation; 2. Fiber port 100/1000M selection; 3. 250m long distance; 4.PoE watchdog                                                                                                                      ● Support 10K Bytes Jumbo frame and 1M large buffer                                                                                               ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃\t165\t200\n\tLT-IMC30G-2GX2GT-E\t● 2*2*10/100/1000Base-T RJ45 ports, 2*100/1000Base-X SFP ports\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1.Port redundant; 2.Flow control; 3.Broadcast storm restrain; 4.Fiber port 100/1000M selection                                                                                                                       ● Support 10K Bytes Jumbo frame and 1M large buffer                                                                                                                            ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃\t155\tdo not support SC/ST/FC\n\tLT-IMC30GP-2GX2GT-E\t● 2*10/100/1000Base-T RJ45 PoE ports, 2*100/1000Base-X SFP ports\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection                                                                                                               ●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                                     1.Port redundant; 2. Fiber port 100/1000M selection; 3. 250m long distance; 4.PoE watchdog                                                                                                                      ● Support 10K Bytes Jumbo frame and 1M large buffer                                                                                               ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃\t185\tdo not support SC/ST/FC\n--- Sheet: Unmanaged Industrial Switches ---\nShenzhen SmartByte Technology Co.,Ltd\n                                      Address.: D Buliding,  Huiqing Science & Technology Park, Dafu Industrial Area, Kukeng Community, Guanlan,  Longhua District, Shenzhen, China\nWeb: www.smartbyte-switch.com     E-mail: peter@smartbyte.com.cn\nMobile/Wechat/Whatsapp/Skype: +8613714293521\nPicture\tSmartByte Model\tDescription & Highlight\tUnit price/RMB未税\nUnmanaged Industrial Ethernet Switches\n\tLT-IS3005F-1FX4TX\t● 4*10/100Base-TX RJ45 ports, 1*100Base-FX SFP(/SC/ST/FC optional) fiber port\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1..Port isolation;     2. Flow control;   3. QoS;    4.  Broadcast storm restrain\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃\t130\n\tLT-IS3005F-5TX-M\t● 5*10/100Base-TX RJ45 ports\n● DC 12~36V input, redundant power supply with polarity reverse/over-voltage protection \n● Support 10K Bytes Jumbo frame\n● Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●  IP40 fan-less and Din-rail hardware with compact size design \n●  Operation temperature: -40 ℃ ~+75℃\t85\n\tLT-IS3005F-5TX-E\t● 5*10/100Base-TX RJ45 ports（NO.5 is the uplink port)\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1..Port isolation;     2. Flow control;   3. QoS;    4.  Broadcast storm restrain\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃\t122\n\tLT-IS3006F-2FX4TX\t● 4*10/100Base-TX RJ45 ports, 2*100Base-FX SFP fiber ports\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1..Port isolation;     2. Flow control;   3. QoS;    4.  Broadcast storm restrain\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃\t140\n\tLT-IS3008F-8TX\t● 8*10/100M RJ45 ports(No.8 is uplink port)\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1..Port isolation;     2. Flow control;   3. QoS;    4.  Broadcast storm restrain                                                                                                                            ●Support 10K Bytes Jumbo frame\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃\t136\n\tLT-IS3009F-1FX8TX\t● 8*10/100Base-TX RJ45 ports, 1*100Base-FX SFP(/SC/ST/FC optional) fiber port\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1..Port isolation;     2. Flow control;   3. QoS;    4.  Broadcast storm restrain\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃\t155\n\tLT-IS3005G-5GT-M\t● 5*10/100/1000Base-TX RJ45 ports\n● DC 12~36V input, redundant power supply with polarity reverse/over-voltage protection \n● Support 10K Bytes Jumbo frame\n● Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●  IP40 fan-less and Din-rail hardware with compact size design \n●  Operation temperature: -40 ℃ ~+75℃\t95\n\tLT-IS3005G-5GT\t● 4*10/100/1000Base-T RJ45 ports downlink, 1*10/100/1000Base-T RJ45 port uplink\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1..Port isolation;     2. Flow control;   3. QoS;    4.  Broadcast storm restrain     ●Support 10K Bytes Jumbo frame\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃\t134\n\tLT-IS3005G-1GX4GT\t● 4*10/100/1000M RJ45 ports, 1*1000Base-X SFP(/SC/ST/FC optional) fiber port\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1..Port isolation;     2. Flow control;   3. QoS;    4.  Broadcast storm restrain     ●Support 10K Bytes Jumbo frame\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃\t150\n\tLT-IS3006G-1GT1GX4GT\t● 4*10/100/1000M RJ45 ports downlink, 1*1000Base-X SFP port and 1*10/100/1000Base-T RJ45 port uplink\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1..Port isolation;     2. Flow control;   3. QoS;    4.  Broadcast storm restrain     ●Support 10K Bytes Jumbo frame\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃\t170\n\tLT-IS3006G-2GX4GT\t● 4*10/100/1000M RJ45 ports, 2*1000Base-X SFP fiber ports\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1..Port isolation;     2. Flow control;   3. QoS;    4.  Broadcast storm restrain     ●Support 10K Bytes Jumbo frame\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃\t156\n\tLT-IS3008G-8GT\t● 8*10/100/1000M RJ45 ports(No.8 is uplink port)\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1..Port isolation;     2. Flow control;   3. QoS;    4.  Broadcast storm restrain     ●Support 10K Bytes Jumbo frame\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃\t175\n\tLT-IS3010G-2GX8GT\t●8*10/100/1000M RJ45 ports, 2*1000Base-X SFP (/SC/ST/FC optional) fiber ports\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1..Port isolation;     2. Flow control;   3. QoS;    4.  Broadcast storm restrain     ●Support 10K Bytes Jumbo frame\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃\t260\n\tLT-IS6016G-16GT\t●16*10/100/1000Base-T RJ45 ports\n● Redundant power DC 12-58V input with polarity reverse/over-voltage/over-current protection\n● Powerful Dip switch function:                                                                                     1..Port isolation;     2. Flow control;   3. QoS;    4.  Broadcast storm restrain     ●Support one output relay alarm for DC power failure\n●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃\t510\n\tLT-IS6018G-2GX16GT\t●16*10/100/1000Base-T RJ45 ports, 2*1000Base-X SFP slots\n● Redundant power DC 12-58V input with polarity reverse/over-voltage/over-current protection\n● Powerful Dip switch function:                                                                                     1.Link aggregation;     2. Flow control;   3. QoS;    4.  Broadcast storm restrain     ●Support one output relay alarm for DC power failure\n●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃\t790\nUnmanaged Industrial PoE Switches\n\tLT-IS3005FP-1FX4TX\t●4*10/100Base-TX RJ45 PoE ports, 1*100Base-FX SFP(/SC/ST/FC optional) fiber port\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                                     1.Port isolation;    2. 250m long distance;    3. QoS;      4.PoE watchdog\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃\t170\n\tLT-IS3005FP-5TX\t●4*10/100Base-TX RJ45 PoE ports downlink , 1*10/100Base-TX RJ45 port uplink\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                                     1.Port isolation;    2. 250m long distance;    3. QoS;     4.PoE watchdog\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃\t162\n\tLT-IS3006FP-2FX4TX\t● 4*10/100Base-TX RJ45 ports, 2*100Base-FX SFP fiber ports\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1.Port isolation;    2. 250m long distance;    3. QoS;     4.PoE watchdog\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃\t180\n\tLT-IS3008FP-8TX\t● 8*10/100M RJ45 ports(No.8 is uplink port)\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1.Port isolation;    2. 250m long distance;    3. QoS;     4.PoE watchdog                                                                                                                        ●Support 10K Bytes Jumbo frame\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃\t196\n\tLT-IS3009FP-1FX8TX\t● 8*10/100Base-TX RJ45 ports, 1*100Base-FX SFP(/SC/ST/FC optional) fiber port\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1.Port isolation;    2. 250m long distance;    3. QoS;     4.PoE watchdog \n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃\t215\n\tLT-IS3005GP-5GT\t● 4*10/100/1000Base-T PoE downlink, 1*10/100/1000Base-T RJ45 uplink\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                             1.Port isolation; 2. 250m long distance; 3. QoS(1-2 ports); 4.PoE watchdog\n●Support 10K Bytes Jumbo frame                                                                                  ●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃\t174\n\tLT-IS3005GP-1GX4GT\t● 4*10/100/1000Base-T PoE downlink, 1*1000Base-X SFP uplink\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                             1.Port isolation; 2. 250m long distance; 3. QoS(1-2 ports); 4.PoE watchdog\n●Support 10K Bytes Jumbo frame                                                                                  ●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃\t190\n\tLT-IS3006GP-1GT1GX4GT\t● 4*10/100/1000M RJ45 ports downlink, 1*1000Base-X SFP port and 1*10/100/1000Base-T RJ45 port uplink\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                             1.Port isolation; 2. 250m long distance; 3. QoS(1-2 ports); 4.PoE watchdog                                                                                                                           ●Support 10K Bytes Jumbo frame\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃\t210\n\tLT-IS3006GP-2GX4GT\t● 4*10/100/1000Base-T RJ45 PoE ports, 2*1000Base-X SFP ports\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                             1.Port isolation; 2. 250m long distance; 3. QoS(1-2 ports); 4.PoE watchdog\n●Support 10K Bytes Jumbo frame                                                                                  ●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃\t196\n\tLT-IS3008GP-8GT\t● 8*10/100/1000Base-T PoE ports\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                                     1. Port isolation;     2. 250m long distance(1-4 ports);                                                  3. QoS(1-2 ports);  4.PoE watchdog\n●Support 10K Bytes Jumbo frame                                                                                  ●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃\t235\n\tLT-IS3010GP-2GX8GT\t● 8*10/100/1000Base-T RJ45 PoE ports, 2*1000Base-X SFP ports\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                               1.Port isolation;       2. 250m long distance(1-4 ports);                                                  3. QoS(1-2 ports);    4. PoE watchdog\n●Support 10K Bytes Jumbo frame                                                                                  ●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃\t320\n\tLT-IS6012GP-4GX8GT\t● 8*10/100/1000Base-T RJ45 PoE ports, 4*1000Base-X SFP ports\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard                     ●Support one channel output relay alarm for DC power failure \n● Powerful Dip switch function:                                                                                     1. Link aggregation;       2. 250m long distance(1-4 ports);                                                  3. QoS(1-2 ports);           4. PoE watchdog\n●Support 10K Bytes Jumbo frame                                                                                  ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃\t600\n\tLT-IS6016GP-16GT\t● 16*10/100/1000Base-T RJ45 PoE/PoE+ ports\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard                     ●Support one channel output relay alarm for DC power failure \n● Powerful Dip switch function:                                                                                     1.Link aggregation;         2. 250m long distance(1-4 ports);                                             3. QoS(1-2 ports) ;           4. PoE watchdog\n●Support 10K Bytes Jumbo frame                                                                                  ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃\t670\n\tLT-IS6018GP-2GX16GT\t● 16*10/100/1000Base-T RJ45 PoE ports, 2*1000Base-X SFP slots\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard                     ●Support one channel output relay alarm for DC power failure \n● Powerful Dip switch function:                                                                                     1.Link aggregation;         2. 250m long distance(1-4 ports);                                             3. QoS(1-2 ports) ;           4. PoE watchdog\n●Support 10K Bytes Jumbo frame                                                                                  ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃\t950\n备注：非管理PoE机型在非PoE机型上加价规则如下：3系4口+40RMB，3系8口+60RMB，6系8口+80RMB，6系16口+160RMB",
+"sheets":{
+"Industrial Media Converters":{
+"state":"visible",
+"rows":[
+[
+"Shenzhen SmartByte Technology Co.,Ltd\n                                      Address.: D Buliding,  Huiqing Science & Technology Park, Dafu Industrial Area, Kukeng Community, Guanlan,  Longhua District, Shenzhen, China\nWeb: www.smartbyte-switch.com     E-mail: peter@smartbyte.com.cn\nMobile/Wechat/Whatsapp/Skype: +8613714293521"
+],
+[
+"Picture",
+"SmartByte Model",
+"Description & Highlight",
+"Unit price/RMB 未税",
+"SC models(dual fiber ,20KM),industrial version"
+],
+[
+"Unmanaged Ultra-compact Industrial Fast Media Converters(PoE/Non-PoE)"
+],
+[
+"",
+"LT-IMC30F-E",
+"● 1*10/100Base-TX RJ45 port, 1*100Base-FX SFP(/SC/ST/FC optional) fiber port\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1.LFP ;  2.Flow control;  3.Broadcast storm restrain;  4.10Kbytes jumbo frame                         ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃",
+"110",
+"140"
+],
+[
+"",
+"LT-IMC30FP-E",
+"● 1*10/100Base-TX RJ45 PoE/PoE+ port, 1*100Base-FX SFP(/SC/ST/FC optional) fiber port\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection                                                                                                               ●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                                     1.LFP;  2. Flow control;  3. 250m long distance;  4.PoE watchdog                                                                 ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃",
+"140",
+"170"
+],
+[
+"",
+"LT-IMC30F-1FX2TX-E",
+"● 2*10/100Base-TX RJ45 port, 1*100Base-FX SFP(/SC/ST/FC optional) fiber port\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1.Port isolation; 2. Flow control; 3. Broadcast storm restrain 4. 10K Bytes Jumbo frame                                                                                                                         ● Support 1M large buffer                                                                                                                 ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃",
+"120",
+"150"
+],
+[
+"",
+"LT-IMC30FP-1FX2TX-E",
+"● 2*10/100Base-TX RJ45 PoE/PoE+ port, 1*100Base-FX SFP(/SC/ST/FC optional) fiber port\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection                                                                                                               ●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                                     1.Port isolation;  2. Flow control;  3.250m long distance;  4.PoE watchdog                                                  ● Support 1M large buffer                                                                                                          ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n●  Operation temperature: -40 ℃ ~+75℃",
+"150",
+"180"
+],
+[
+"",
+"LT-IMC30F-2FX2TX-E",
+"● 2*10/100Base-TX RJ45 port, 2*100Base-FX SFP port\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1.Fiber redundant; 2. Flow control; 3.Broadcast storm restrain; 4. 10K Bytes Jumbo frame                                                                                                                         ● Support 1M large buffer                                                                                                              ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃",
+"140",
+"do not support SC/ST/FC"
+],
+[
+"",
+"LT-IMC30FP-2FX2TX-E",
+"● 2*10/100Base-TX RJ45 PoE/PoE+ port, 2*100Base-FX SFP port\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection                                                                                                               ●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                                     1.Fiber redundant;  2. Flow control;  3.250m long distance;  4.PoE watchdog                                ● Support 10K Bytes Jumbo frame and 1M large buffer                                                                                                       ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃",
+"170",
+"do not support SC/ST/FC"
+],
+[
+"Unmanaged Ultra-compact Industrial Gigabit Media Converters(PoE/Non-PoE)"
+],
+[
+"",
+"LT-IMC30G-E",
+"●1*10/100/1000Base-T RJ45 port, 1*100/1000Base-X SFP(/SC/ST/FC optional) fiber port\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1.LFP;  2. Flow control;  3. Broadcast storm restrain;  4.fiber port 100/1000M selection                                                                                                                                 ● Support 10K Bytes Jumbo frame and 1M large buffer                                                                                                                            ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃",
+"125",
+"160"
+],
+[
+"",
+"LT-IMC30GP-E",
+"● 1*10/100/1000Base-T RJ45 PoE/PoE+  port, 1*100/1000Base-X SFP(/SC/ST/FC optional) fiber port\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection                                                                                                               ●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                                     1.LFP;  2.Fiber port 100/1000M selection;  3.250m long distance;  4.PoE watchdog                                                                                                                                ● Support 10K Bytes Jumbo frame and 1M large buffer                                                                                               ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃",
+"155",
+"190"
+],
+[
+"",
+"LT-IMC30G-1GX2GT-E",
+"● 2*10/100/1000Base-T RJ45 ports, 1*100/1000Base-X SFP(/SC/ST/FC optional) fiber port\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1.Port isolation; 2.Flow control; 3.Broadcast storm restrain; 4.Fiber port 100/1000M selection                                                                                                                       ● Support 10K Bytes Jumbo frame and 1M large buffer                                                                                                                            ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃",
+"135",
+"170"
+],
+[
+"",
+"LT-IMC30GP-1GX2GT-E",
+"● 2*10/100/1000Base-T RJ45 PoE/PoE+ ports, 1*100/1000Base-X SFP(/SC/ST/FC optional) fiber port\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection                                                                                                               ●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                                     1.Port isolation; 2. Fiber port 100/1000M selection; 3. 250m long distance; 4.PoE watchdog                                                                                                                      ● Support 10K Bytes Jumbo frame and 1M large buffer                                                                                               ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃",
+"165",
+"200"
+],
+[
+"",
+"LT-IMC30G-2GX2GT-E",
+"● 2*2*10/100/1000Base-T RJ45 ports, 2*100/1000Base-X SFP ports\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1.Port redundant; 2.Flow control; 3.Broadcast storm restrain; 4.Fiber port 100/1000M selection                                                                                                                       ● Support 10K Bytes Jumbo frame and 1M large buffer                                                                                                                            ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃",
+"155",
+"do not support SC/ST/FC"
+],
+[
+"",
+"LT-IMC30GP-2GX2GT-E",
+"● 2*10/100/1000Base-T RJ45 PoE ports, 2*100/1000Base-X SFP ports\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection                                                                                                               ●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                                     1.Port redundant; 2. Fiber port 100/1000M selection; 3. 250m long distance; 4.PoE watchdog                                                                                                                      ● Support 10K Bytes Jumbo frame and 1M large buffer                                                                                               ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃",
+"185",
+"do not support SC/ST/FC"
+]
+]
+},
+"Unmanaged Industrial Switches":{
+"state":"visible",
+"rows":[
+[
+"Shenzhen SmartByte Technology Co.,Ltd\n                                      Address.: D Buliding,  Huiqing Science & Technology Park, Dafu Industrial Area, Kukeng Community, Guanlan,  Longhua District, Shenzhen, China\nWeb: www.smartbyte-switch.com     E-mail: peter@smartbyte.com.cn\nMobile/Wechat/Whatsapp/Skype: +8613714293521"
+],
+[
+"Picture",
+"SmartByte Model",
+"Description & Highlight",
+"Unit price/RMB未税"
+],
+[
+"Unmanaged Industrial Ethernet Switches"
+],
+[
+"",
+"LT-IS3005F-1FX4TX",
+"● 4*10/100Base-TX RJ45 ports, 1*100Base-FX SFP(/SC/ST/FC optional) fiber port\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1..Port isolation;     2. Flow control;   3. QoS;    4.  Broadcast storm restrain\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃",
+"130"
+],
+[
+"",
+"LT-IS3005F-5TX-M",
+"● 5*10/100Base-TX RJ45 ports\n● DC 12~36V input, redundant power supply with polarity reverse/over-voltage protection \n● Support 10K Bytes Jumbo frame\n● Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●  IP40 fan-less and Din-rail hardware with compact size design \n●  Operation temperature: -40 ℃ ~+75℃",
+"85"
+],
+[
+"",
+"LT-IS3005F-5TX-E",
+"● 5*10/100Base-TX RJ45 ports（NO.5 is the uplink port)\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1..Port isolation;     2. Flow control;   3. QoS;    4.  Broadcast storm restrain\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃",
+"122"
+],
+[
+"",
+"LT-IS3006F-2FX4TX",
+"● 4*10/100Base-TX RJ45 ports, 2*100Base-FX SFP fiber ports\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1..Port isolation;     2. Flow control;   3. QoS;    4.  Broadcast storm restrain\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃",
+"140"
+],
+[
+"",
+"LT-IS3008F-8TX",
+"● 8*10/100M RJ45 ports(No.8 is uplink port)\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1..Port isolation;     2. Flow control;   3. QoS;    4.  Broadcast storm restrain                                                                                                                            ●Support 10K Bytes Jumbo frame\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃",
+"136"
+],
+[
+"",
+"LT-IS3009F-1FX8TX",
+"● 8*10/100Base-TX RJ45 ports, 1*100Base-FX SFP(/SC/ST/FC optional) fiber port\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1..Port isolation;     2. Flow control;   3. QoS;    4.  Broadcast storm restrain\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃",
+"155"
+],
+[
+"",
+"LT-IS3005G-5GT-M",
+"● 5*10/100/1000Base-TX RJ45 ports\n● DC 12~36V input, redundant power supply with polarity reverse/over-voltage protection \n● Support 10K Bytes Jumbo frame\n● Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●  IP40 fan-less and Din-rail hardware with compact size design \n●  Operation temperature: -40 ℃ ~+75℃",
+"95"
+],
+[
+"",
+"LT-IS3005G-5GT",
+"● 4*10/100/1000Base-T RJ45 ports downlink, 1*10/100/1000Base-T RJ45 port uplink\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1..Port isolation;     2. Flow control;   3. QoS;    4.  Broadcast storm restrain     ●Support 10K Bytes Jumbo frame\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃",
+"134"
+],
+[
+"",
+"LT-IS3005G-1GX4GT",
+"● 4*10/100/1000M RJ45 ports, 1*1000Base-X SFP(/SC/ST/FC optional) fiber port\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1..Port isolation;     2. Flow control;   3. QoS;    4.  Broadcast storm restrain     ●Support 10K Bytes Jumbo frame\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃",
+"150"
+],
+[
+"",
+"LT-IS3006G-1GT1GX4GT",
+"● 4*10/100/1000M RJ45 ports downlink, 1*1000Base-X SFP port and 1*10/100/1000Base-T RJ45 port uplink\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1..Port isolation;     2. Flow control;   3. QoS;    4.  Broadcast storm restrain     ●Support 10K Bytes Jumbo frame\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃",
+"170"
+],
+[
+"",
+"LT-IS3006G-2GX4GT",
+"● 4*10/100/1000M RJ45 ports, 2*1000Base-X SFP fiber ports\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1..Port isolation;     2. Flow control;   3. QoS;    4.  Broadcast storm restrain     ●Support 10K Bytes Jumbo frame\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃",
+"156"
+],
+[
+"",
+"LT-IS3008G-8GT",
+"● 8*10/100/1000M RJ45 ports(No.8 is uplink port)\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1..Port isolation;     2. Flow control;   3. QoS;    4.  Broadcast storm restrain     ●Support 10K Bytes Jumbo frame\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃",
+"175"
+],
+[
+"",
+"LT-IS3010G-2GX8GT",
+"●8*10/100/1000M RJ45 ports, 2*1000Base-X SFP (/SC/ST/FC optional) fiber ports\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1..Port isolation;     2. Flow control;   3. QoS;    4.  Broadcast storm restrain     ●Support 10K Bytes Jumbo frame\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃",
+"260"
+],
+[
+"",
+"LT-IS6016G-16GT",
+"●16*10/100/1000Base-T RJ45 ports\n● Redundant power DC 12-58V input with polarity reverse/over-voltage/over-current protection\n● Powerful Dip switch function:                                                                                     1..Port isolation;     2. Flow control;   3. QoS;    4.  Broadcast storm restrain     ●Support one output relay alarm for DC power failure\n●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃",
+"510"
+],
+[
+"",
+"LT-IS6018G-2GX16GT",
+"●16*10/100/1000Base-T RJ45 ports, 2*1000Base-X SFP slots\n● Redundant power DC 12-58V input with polarity reverse/over-voltage/over-current protection\n● Powerful Dip switch function:                                                                                     1.Link aggregation;     2. Flow control;   3. QoS;    4.  Broadcast storm restrain     ●Support one output relay alarm for DC power failure\n●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃",
+"790"
+],
+[
+"Unmanaged Industrial PoE Switches"
+],
+[
+"",
+"LT-IS3005FP-1FX4TX",
+"●4*10/100Base-TX RJ45 PoE ports, 1*100Base-FX SFP(/SC/ST/FC optional) fiber port\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                                     1.Port isolation;    2. 250m long distance;    3. QoS;      4.PoE watchdog\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃",
+"170"
+],
+[
+"",
+"LT-IS3005FP-5TX",
+"●4*10/100Base-TX RJ45 PoE ports downlink , 1*10/100Base-TX RJ45 port uplink\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                                     1.Port isolation;    2. 250m long distance;    3. QoS;     4.PoE watchdog\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃",
+"162"
+],
+[
+"",
+"LT-IS3006FP-2FX4TX",
+"● 4*10/100Base-TX RJ45 ports, 2*100Base-FX SFP fiber ports\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1.Port isolation;    2. 250m long distance;    3. QoS;     4.PoE watchdog\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃",
+"180"
+],
+[
+"",
+"LT-IS3008FP-8TX",
+"● 8*10/100M RJ45 ports(No.8 is uplink port)\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1.Port isolation;    2. 250m long distance;    3. QoS;     4.PoE watchdog                                                                                                                        ●Support 10K Bytes Jumbo frame\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃",
+"196"
+],
+[
+"",
+"LT-IS3009FP-1FX8TX",
+"● 8*10/100Base-TX RJ45 ports, 1*100Base-FX SFP(/SC/ST/FC optional) fiber port\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1.Port isolation;    2. 250m long distance;    3. QoS;     4.PoE watchdog \n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃",
+"215"
+],
+[
+"",
+"LT-IS3005GP-5GT",
+"● 4*10/100/1000Base-T PoE downlink, 1*10/100/1000Base-T RJ45 uplink\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                             1.Port isolation; 2. 250m long distance; 3. QoS(1-2 ports); 4.PoE watchdog\n●Support 10K Bytes Jumbo frame                                                                                  ●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃",
+"174"
+],
+[
+"",
+"LT-IS3005GP-1GX4GT",
+"● 4*10/100/1000Base-T PoE downlink, 1*1000Base-X SFP uplink\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                             1.Port isolation; 2. 250m long distance; 3. QoS(1-2 ports); 4.PoE watchdog\n●Support 10K Bytes Jumbo frame                                                                                  ●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃",
+"190"
+],
+[
+"",
+"LT-IS3006GP-1GT1GX4GT",
+"● 4*10/100/1000M RJ45 ports downlink, 1*1000Base-X SFP port and 1*10/100/1000Base-T RJ45 port uplink\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                             1.Port isolation; 2. 250m long distance; 3. QoS(1-2 ports); 4.PoE watchdog                                                                                                                           ●Support 10K Bytes Jumbo frame\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃",
+"210"
+],
+[
+"",
+"LT-IS3006GP-2GX4GT",
+"● 4*10/100/1000Base-T RJ45 PoE ports, 2*1000Base-X SFP ports\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                             1.Port isolation; 2. 250m long distance; 3. QoS(1-2 ports); 4.PoE watchdog\n●Support 10K Bytes Jumbo frame                                                                                  ●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃",
+"196"
+],
+[
+"",
+"LT-IS3008GP-8GT",
+"● 8*10/100/1000Base-T PoE ports\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                                     1. Port isolation;     2. 250m long distance(1-4 ports);                                                  3. QoS(1-2 ports);  4.PoE watchdog\n●Support 10K Bytes Jumbo frame                                                                                  ●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃",
+"235"
+],
+[
+"",
+"LT-IS3010GP-2GX8GT",
+"● 8*10/100/1000Base-T RJ45 PoE ports, 2*1000Base-X SFP ports\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                               1.Port isolation;       2. 250m long distance(1-4 ports);                                                  3. QoS(1-2 ports);    4. PoE watchdog\n●Support 10K Bytes Jumbo frame                                                                                  ●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃",
+"320"
+],
+[
+"",
+"LT-IS6012GP-4GX8GT",
+"● 8*10/100/1000Base-T RJ45 PoE ports, 4*1000Base-X SFP ports\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard                     ●Support one channel output relay alarm for DC power failure \n● Powerful Dip switch function:                                                                                     1. Link aggregation;       2. 250m long distance(1-4 ports);                                                  3. QoS(1-2 ports);           4. PoE watchdog\n●Support 10K Bytes Jumbo frame                                                                                  ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃",
+"600"
+],
+[
+"",
+"LT-IS6016GP-16GT",
+"● 16*10/100/1000Base-T RJ45 PoE/PoE+ ports\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard                     ●Support one channel output relay alarm for DC power failure \n● Powerful Dip switch function:                                                                                     1.Link aggregation;         2. 250m long distance(1-4 ports);                                             3. QoS(1-2 ports) ;           4. PoE watchdog\n●Support 10K Bytes Jumbo frame                                                                                  ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃",
+"670"
+],
+[
+"",
+"LT-IS6018GP-2GX16GT",
+"● 16*10/100/1000Base-T RJ45 PoE ports, 2*1000Base-X SFP slots\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard                     ●Support one channel output relay alarm for DC power failure \n● Powerful Dip switch function:                                                                                     1.Link aggregation;         2. 250m long distance(1-4 ports);                                             3. QoS(1-2 ports) ;           4. PoE watchdog\n●Support 10K Bytes Jumbo frame                                                                                  ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃",
+"950"
+],
+[
+"备注：非管理PoE机型在非PoE机型上加价规则如下：3系4口+40RMB，3系8口+60RMB，6系8口+80RMB，6系16口+160RMB"
+]
+]
+}
+}
+}

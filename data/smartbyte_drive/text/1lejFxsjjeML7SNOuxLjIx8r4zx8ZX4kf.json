@@ -1,0 +1,27 @@
+{
+"id":"1lejFxsjjeML7SNOuxLjIx8r4zx8ZX4kf",
+"name":"DIP Definition.pdf",
+"path":"SmartByte/工业非管理/DIP Definition.pdf",
+"type":"PDF",
+"ext":".pdf",
+"bytes":104070,
+"sha256":"ac2a84687d29d1051031f76fd2ace6092eeb8516b19297323f33ce07c137b6b5",
+"extracted_at":"2026-10-22T02:02:38Z",
+"method":"pdfplumber",
+"status":"ok",
+"chars":2283,
+"meta":{
+"pages":2,
+"author":"Simon",
+"creator":"WPS 文字",
+"creationdate":"D:20250323141540+06'15'",
+"moddate":"D:20250323141540+06'15'",
+"ocr_pages":0
+},
+"warnings":[],
+"text":"[p1]\nDIPDefinition a.sagatelecom@gmail.com\nSagaTelecom\n2025/Q3 www.sagatelecom.com.cn\nNon-PoEMediaConverter\nDip1 Dip2 Dip3 Dip4\nSTI-110FE LFP Flowcontrol Broadcaststorm 10Kbytesjumboframe\nrestrain\nSTI-120FE Portisolation Flowcontrol Broadcaststorm 10Kbytesjumboframe\nrestrain\nSTI-220FE Fiberredundant Flowcontrol Broadcaststorm 10Kbytesjumboframe\nrestrain\nSTI-120GE Portisolation Flowcontrol Broadcaststorm 100/1000Mfiberportselection\nrestrain (ON=100M,OFF=1000M)\nSTI-220GE Fiberredundant Flowcontrol Broadcaststorm 100/1000Mfiberportselection\nrestrain (ON=100/1000Madaptive,OFF=1000M)\nPoEMediaConverter\nModel Dip1 Dip2 Dip3 Dip4\nSTI-111FP LFP Flowcontrol 250mlongdistance PoEWatchdog\nSTI-122FP Portisolation Flowcontrol 250mlongdistance PoEWatchdog\nSTI-222FP Fiberredundant Flowcontrol 250mlongdistance PoEWatchdog\nSTI-111GP LFP 100/1000Mfiberportselection 250mlongdistance PoEWatchdog\n(ON=100M,OFF=1000M) Port1Only\nSTI-122GP Portisolation 100/1000Mfiberportselection 250mlongdistance PoEWatchdog\n(ON=100M,OFF=1000M) Port1Only\nSTI-222GP Fiberredundant 100/1000Mfiberportselection 250mlongdistance PoEWatchdog\n(ON=100/1000Madaptive,OFF=1000M) Port1Only\nFastEthernetUnmanagedSwitch\nModel DIP1 DIP2 DIP3 DIP4\nNon-PoE STI-050FE Portisolation Flowcontrol QoS(1-2ports) Broadcaststormrestrain\nSTI-080FE\nSTI-140FE\nSTI-180FE\nSTI-240FE\nSTI-260FE\nPoE STI-054FP Portisolation 250mlongdistance QoS(1-2ports) PoEwatchdog\nSTI-088FP\nSTI-144FP\nSTI-188FP\nSTI-244FP\nSTI-266FP\nConnecting,Converting,Creating\nTailoredMarvellManagedNetworkingSolutionsProvider\n\n[p2]\nDIPDefinition a.sagatelecom@gmail.com\nSagaTelecom\n2025/Q3 www.sagatelecom.com.cn\nGigabitUnmanagedSwitch\nModel DIP1 DIP2 DIP3 DIP4\nSTI-140GE\nSTI-150GE\nSTI-240GE\nSTI-050GE\nPortisolation\nSTI-080GE QoS\nNon-PoE Flowcontrol Broadcaststormrestrain\nSTI-180GE (1-2port)\nSTI-280GE\nSTI-880GE\nSTI-0160GE Link\nSTI-2160GE aggregation\nSTI-144GP\nSTI-154GP 250mlongdistance\nSTI-244GP (1-2ports)\nSTI-054GP Portisolation\nSTI-088GP QoS\nPoE 250mlongdistance PoEwatchdog\nSTI-188GP (1-2port)\n(1-4ports)\nSTI-288GP\nSTI-488GP\nLink 250mlongdistance\nSTI-01616GP\naggregation (1-4ports)\nSTI-21616GP\nRemark\n1. STI-888GPdoesNOTsupportDIPfunction\n2. AllmanagedmodelsdoNOTsupportDIPfunction\nConnecting,Converting,Creating\nTailoredMarvellManagedNetworkingSolutionsProvider",
+"pages":[
+"DIPDefinition a.sagatelecom@gmail.com\nSagaTelecom\n2025/Q3 www.sagatelecom.com.cn\nNon-PoEMediaConverter\nDip1 Dip2 Dip3 Dip4\nSTI-110FE LFP Flowcontrol Broadcaststorm 10Kbytesjumboframe\nrestrain\nSTI-120FE Portisolation Flowcontrol Broadcaststorm 10Kbytesjumboframe\nrestrain\nSTI-220FE Fiberredundant Flowcontrol Broadcaststorm 10Kbytesjumboframe\nrestrain\nSTI-120GE Portisolation Flowcontrol Broadcaststorm 100/1000Mfiberportselection\nrestrain (ON=100M,OFF=1000M)\nSTI-220GE Fiberredundant Flowcontrol Broadcaststorm 100/1000Mfiberportselection\nrestrain (ON=100/1000Madaptive,OFF=1000M)\nPoEMediaConverter\nModel Dip1 Dip2 Dip3 Dip4\nSTI-111FP LFP Flowcontrol 250mlongdistance PoEWatchdog\nSTI-122FP Portisolation Flowcontrol 250mlongdistance PoEWatchdog\nSTI-222FP Fiberredundant Flowcontrol 250mlongdistance PoEWatchdog\nSTI-111GP LFP 100/1000Mfiberportselection 250mlongdistance PoEWatchdog\n(ON=100M,OFF=1000M) Port1Only\nSTI-122GP Portisolation 100/1000Mfiberportselection 250mlongdistance PoEWatchdog\n(ON=100M,OFF=1000M) Port1Only\nSTI-222GP Fiberredundant 100/1000Mfiberportselection 250mlongdistance PoEWatchdog\n(ON=100/1000Madaptive,OFF=1000M) Port1Only\nFastEthernetUnmanagedSwitch\nModel DIP1 DIP2 DIP3 DIP4\nNon-PoE STI-050FE Portisolation Flowcontrol QoS(1-2ports) Broadcaststormrestrain\nSTI-080FE\nSTI-140FE\nSTI-180FE\nSTI-240FE\nSTI-260FE\nPoE STI-054FP Portisolation 250mlongdistance QoS(1-2ports) PoEwatchdog\nSTI-088FP\nSTI-144FP\nSTI-188FP\nSTI-244FP\nSTI-266FP\nConnecting,Converting,Creating\nTailoredMarvellManagedNetworkingSolutionsProvider",
+"DIPDefinition a.sagatelecom@gmail.com\nSagaTelecom\n2025/Q3 www.sagatelecom.com.cn\nGigabitUnmanagedSwitch\nModel DIP1 DIP2 DIP3 DIP4\nSTI-140GE\nSTI-150GE\nSTI-240GE\nSTI-050GE\nPortisolation\nSTI-080GE QoS\nNon-PoE Flowcontrol Broadcaststormrestrain\nSTI-180GE (1-2port)\nSTI-280GE\nSTI-880GE\nSTI-0160GE Link\nSTI-2160GE aggregation\nSTI-144GP\nSTI-154GP 250mlongdistance\nSTI-244GP (1-2ports)\nSTI-054GP Portisolation\nSTI-088GP QoS\nPoE 250mlongdistance PoEwatchdog\nSTI-188GP (1-2port)\n(1-4ports)\nSTI-288GP\nSTI-488GP\nLink 250mlongdistance\nSTI-01616GP\naggregation (1-4ports)\nSTI-21616GP\nRemark\n1. STI-888GPdoesNOTsupportDIPfunction\n2. AllmanagedmodelsdoNOTsupportDIPfunction\nConnecting,Converting,Creating\nTailoredMarvellManagedNetworkingSolutionsProvider"
+]
+}

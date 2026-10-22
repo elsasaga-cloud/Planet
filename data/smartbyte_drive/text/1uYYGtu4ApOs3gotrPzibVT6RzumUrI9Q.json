@@ -1,0 +1,265 @@
+{
+"id":"1uYYGtu4ApOs3gotrPzibVT6RzumUrI9Q",
+"name":"LED Indicator Definition.docx",
+"path":"SmartByte/工业非管理/LED Indicator Definition.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":32070,
+"sha256":"4897600f4d7d61146aef22105ed08611ec87435aeb989a8aa44ab3c216a32328",
+"extracted_at":"2026-10-22T02:02:37Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":3668,
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2023-07-22T16:14:00+00:00",
+"modified":"2025-03-23T06:15:28+00:00",
+"paragraphs":4,
+"tables":3,
+"embedded_images":3
+},
+"warnings":[],
+"text":"Unmanaged Model\nLED Indicators\nP(Power Status) / Green Indicator\tOn: power status is normal\tOff: power off or power connection failure\nS(System Status) / Red Indicator\tNon-PoE Models\tPoE Models\nS(System Status) / Red Indicator\tOn: the chip read/write is abnormal / Off: the chip is normally operating\tOn: PoE usage≥90% rated budget\nS(System Status) / Red Indicator\tOn: the chip read/write is abnormal / Off: the chip is normally operating\tBlinking: 50%<PoE usage<90% rated budget\nS(System Status) / Red Indicator\tOn: the chip read/write is abnormal / Off: the chip is normally operating\tOff: PoE usage<50% rated budget\nEthernet Port Status / Green Indicator\tOn: port link up\nEthernet Port Status / Green Indicator\tBlinking: data is in normal transmission\nEthernet Port Status / Green Indicator\tOff: port link down\nEthernet Port Status / PoE Status / Yellow Indicator\tNon-PoE Models\tPoE Models\nEthernet Port Status / PoE Status / Yellow Indicator\t1000M models\t10/100M models\tOn: PoE working / Off: PoE not working\nEthernet Port Status / PoE Status / Yellow Indicator\tOn: port speed is 1000M\tOn: port speed is 100M\tOn: PoE working / Off: PoE not working\nEthernet Port Status / PoE Status / Yellow Indicator\tOff: port speed is 10/100M\tOff: ports on 10M\tOn: PoE working / Off: PoE not working\nFiber Port Status / Green Indicator\tOn: port link up\nFiber Port Status / Green Indicator\tBlinking: data is in normal transmission\nFiber Port Status / Green Indicator\tOff: port link down\nPlease refer to the datasheet or take with us for more information\nManaged Model\nLED Indicators\nP(Power Status) / Green Indicator\tOn: power status is normal\tOff: power off or power connection failure\nS(System Status) / Green Indicator\tOn: Normal operation / Blinking: Device initialization / Off: Connection failure\nUSB(USB status) / Green Indicator\tOn: USB flash drive is detected by device / Blinking: the device is reading and writing the data from USB flash drive / Off: USB flash drive not insert or not detected by device\nALM(Fault Status) / Red Indicator\tOff: Device on normal working state\tOn: Fault alarm\nRing(Ring Network)\tOff: Ring network disable\tOn: Ring network enable\nEthernet Port Status / Green Indicator\tOn: port link up\nEthernet Port Status / Green Indicator\tBlinking: data is in normal transmission\nEthernet Port Status / Green Indicator\tOff: port link down\nEthernet Port Status / PoE Status / Yellow Indicator\tNon-PoE Models\tPoE Models\nEthernet Port Status / PoE Status / Yellow Indicator\t1000M models\t10/100M models\tOn: PoE working / Off: PoE not working\nEthernet Port Status / PoE Status / Yellow Indicator\tOn: port speed is 1000M\tOn: port speed is 100M\tOn: PoE working / Off: PoE not working\nEthernet Port Status / PoE Status / Yellow Indicator\tOff: port speed is 10/100M\tOff: ports on 10M\tOn: PoE working / Off: PoE not working\nFiber Port Status / Green Indicator\tOn: port link up\nFiber Port Status / Green Indicator\tBlinking: data is in normal transmission\nFiber Port Status / Green Indicator\tOff: port link down\nConnector Definition\nRS485\tA\tData positive line\nRS485\tB\tData negative line\nG\tG\tGrounding line\nDI\t+\tDigital input +(“1”: None or -30~+1V) / Max input current: 8mA\nDI\t-\tDigital input-(“0”: +12V~+30V)\nRelay\t\tNormally open\nRelay\t\tNormally close\n[页眉页脚]\nLED Indicator Definition\t                                                                                                         a.sagatelecom@gmail.com\n\t\t\t\t\t\t\t                                                                       Saga Telecom\n2025/Q3\t\t\t\t\t\t\t                         \t           www.sagatelecom.com.cn\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Unmanaged Model"
+},
+{
+"t":"table",
+"rows":[
+[
+"LED Indicators"
+],
+[
+"P(Power Status) / Green Indicator",
+"On: power status is normal",
+"Off: power off or power connection failure"
+],
+[
+"S(System Status) / Red Indicator",
+"Non-PoE Models",
+"PoE Models"
+],
+[
+"S(System Status) / Red Indicator",
+"On: the chip read/write is abnormal / Off: the chip is normally operating",
+"On: PoE usage≥90% rated budget"
+],
+[
+"S(System Status) / Red Indicator",
+"On: the chip read/write is abnormal / Off: the chip is normally operating",
+"Blinking: 50%<PoE usage<90% rated budget"
+],
+[
+"S(System Status) / Red Indicator",
+"On: the chip read/write is abnormal / Off: the chip is normally operating",
+"Off: PoE usage<50% rated budget"
+],
+[
+"Ethernet Port Status / Green Indicator",
+"On: port link up"
+],
+[
+"Ethernet Port Status / Green Indicator",
+"Blinking: data is in normal transmission"
+],
+[
+"Ethernet Port Status / Green Indicator",
+"Off: port link down"
+],
+[
+"Ethernet Port Status / PoE Status / Yellow Indicator",
+"Non-PoE Models",
+"PoE Models"
+],
+[
+"Ethernet Port Status / PoE Status / Yellow Indicator",
+"1000M models",
+"10/100M models",
+"On: PoE working / Off: PoE not working"
+],
+[
+"Ethernet Port Status / PoE Status / Yellow Indicator",
+"On: port speed is 1000M",
+"On: port speed is 100M",
+"On: PoE working / Off: PoE not working"
+],
+[
+"Ethernet Port Status / PoE Status / Yellow Indicator",
+"Off: port speed is 10/100M",
+"Off: ports on 10M",
+"On: PoE working / Off: PoE not working"
+],
+[
+"Fiber Port Status / Green Indicator",
+"On: port link up"
+],
+[
+"Fiber Port Status / Green Indicator",
+"Blinking: data is in normal transmission"
+],
+[
+"Fiber Port Status / Green Indicator",
+"Off: port link down"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please refer to the datasheet or take with us for more information"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Managed Model"
+},
+{
+"t":"table",
+"rows":[
+[
+"LED Indicators"
+],
+[
+"P(Power Status) / Green Indicator",
+"On: power status is normal",
+"Off: power off or power connection failure"
+],
+[
+"S(System Status) / Green Indicator",
+"On: Normal operation / Blinking: Device initialization / Off: Connection failure"
+],
+[
+"USB(USB status) / Green Indicator",
+"On: USB flash drive is detected by device / Blinking: the device is reading and writing the data from USB flash drive / Off: USB flash drive not insert or not detected by device"
+],
+[
+"ALM(Fault Status) / Red Indicator",
+"Off: Device on normal working state",
+"On: Fault alarm"
+],
+[
+"Ring(Ring Network)",
+"Off: Ring network disable",
+"On: Ring network enable"
+],
+[
+"Ethernet Port Status / Green Indicator",
+"On: port link up"
+],
+[
+"Ethernet Port Status / Green Indicator",
+"Blinking: data is in normal transmission"
+],
+[
+"Ethernet Port Status / Green Indicator",
+"Off: port link down"
+],
+[
+"Ethernet Port Status / PoE Status / Yellow Indicator",
+"Non-PoE Models",
+"PoE Models"
+],
+[
+"Ethernet Port Status / PoE Status / Yellow Indicator",
+"1000M models",
+"10/100M models",
+"On: PoE working / Off: PoE not working"
+],
+[
+"Ethernet Port Status / PoE Status / Yellow Indicator",
+"On: port speed is 1000M",
+"On: port speed is 100M",
+"On: PoE working / Off: PoE not working"
+],
+[
+"Ethernet Port Status / PoE Status / Yellow Indicator",
+"Off: port speed is 10/100M",
+"Off: ports on 10M",
+"On: PoE working / Off: PoE not working"
+],
+[
+"Fiber Port Status / Green Indicator",
+"On: port link up"
+],
+[
+"Fiber Port Status / Green Indicator",
+"Blinking: data is in normal transmission"
+],
+[
+"Fiber Port Status / Green Indicator",
+"Off: port link down"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Connector Definition"
+},
+{
+"t":"table",
+"rows":[
+[
+"RS485",
+"A",
+"Data positive line"
+],
+[
+"RS485",
+"B",
+"Data negative line"
+],
+[
+"G",
+"G",
+"Grounding line"
+],
+[
+"DI",
+"+",
+"Digital input +(“1”: None or -30~+1V) / Max input current: 8mA"
+],
+[
+"DI",
+"-",
+"Digital input-(“0”: +12V~+30V)"
+],
+[
+"Relay",
+"",
+"Normally open"
+],
+[
+"Relay",
+"",
+"Normally close"
+]
+]
+}
+],
+"header_footer":[
+"LED Indicator Definition\t                                                                                                         a.sagatelecom@gmail.com\n\t\t\t\t\t\t\t                                                                       Saga Telecom",
+"2025/Q3\t\t\t\t\t\t\t                         \t           www.sagatelecom.com.cn",
+"Connecting, Converting, Creating",
+"Tailored Marvell Managed Networking Solutions Provider"
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":566
+},
+{
+"name":"image2.png",
+"bytes":272
+}
+]
+}

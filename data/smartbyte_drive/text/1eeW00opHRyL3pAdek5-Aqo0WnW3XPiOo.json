@@ -1,0 +1,27 @@
+{
+"id":"1eeW00opHRyL3pAdek5-Aqo0WnW3XPiOo",
+"name":"LED Indicator Definition.pdf",
+"path":"SmartByte/工业非管理/LED Indicator Definition.pdf",
+"type":"PDF",
+"ext":".pdf",
+"bytes":133321,
+"sha256":"fcfd3d7824c929cede1d1d4ed8598ed9e6ae95809e6e55d2d392fefa58ca7803",
+"extracted_at":"2026-10-22T02:02:37Z",
+"method":"pdfplumber",
+"status":"ok",
+"chars":2275,
+"meta":{
+"pages":2,
+"author":"Simon",
+"creator":"WPS 文字",
+"creationdate":"D:20250323141536+06'15'",
+"moddate":"D:20250323141536+06'15'",
+"ocr_pages":0
+},
+"warnings":[],
+"text":"[p1]\nLEDIndicatorDefinition a.sagatelecom@gmail.com\nSagaTelecom\n2025/Q3 www.sagatelecom.com.cn\nUnmanagedModel\nLEDIndicators\nP(PowerStatus)\nOn:powerstatusisnormal Off:powerofforpowerconnectionfailure\nGreenIndicator\nNon-PoEModels PoEModels\nS(SystemStatus) On:PoEusage≥90%ratedbudget\nRedIndicator On:thechipread/writeisabnormal\nBlinking:50%<PoEusage<90%ratedbudget\nOff:thechipisnormallyoperating\nOff:PoEusage<50%ratedbudget\nOn:portlinkup\nEthernetPortStatus\nBlinking:dataisinnormaltransmission\nGreenIndicator\nOff:portlinkdown\nNon-PoEModels PoEModels\nEthernetPortStatus 1000Mmodels 10/100Mmodels\nPoEStatus\nOn:PoEworking\nYellowIndicator On:portspeedis1000M On:portspeedis100M\nOff:PoEnotworking\nOff:portspeedis10/100M Off:portson10M\nOn:portlinkup\nFiberPortStatus\nBlinking:dataisinnormaltransmission\nGreenIndicator\nOff:portlinkdown\nPleaserefertothedatasheetortakewithusformoreinformation\nConnecting,Converting,Creating\nTailoredMarvellManagedNetworkingSolutionsProvider\n\n[p2]\nLEDIndicatorDefinition a.sagatelecom@gmail.com\nSagaTelecom\n2025/Q3 www.sagatelecom.com.cn\nManagedModel\nLEDIndicators\nP(PowerStatus)\nOn:powerstatusisnormal Off:powerofforpowerconnectionfailure\nGreenIndicator\nOn:Normaloperation\nS(SystemStatus)\nBlinking:Deviceinitialization\nGreenIndicator\nOff:Connectionfailure\nOn:USBflashdriveisdetectedbydevice\nUSB(USBstatus)\nBlinking:thedeviceisreadingandwritingthedatafromUSBflashdrive\nGreenIndicator\nOff:USBflashdrivenotinsertornotdetectedbydevice\nALM(FaultStatus)\nOff:Deviceonnormalworkingstate On:Faultalarm\nRedIndicator\nRing(RingNetwork) Off:Ringnetworkdisable On:Ringnetworkenable\nOn:portlinkup\nEthernetPortStatus\nBlinking:dataisinnormaltransmission\nGreenIndicator\nOff:portlinkdown\nNon-PoEModels PoEModels\nEthernetPortStatus 1000Mmodels 10/100Mmodels\nPoEStatus\nOn:PoEworking\nYellowIndicator On:portspeedis1000M On:portspeedis100M\nOff:PoEnotworking\nOff:portspeedis10/100M Off:portson10M\nOn:portlinkup\nFiberPortStatus\nBlinking:dataisinnormaltransmission\nGreenIndicator\nOff:portlinkdown\nConnectorDefinition\nA Datapositiveline\nRS485\nB Datanegativeline\nG G Groundingline\n+ Digitalinput+(“1”:Noneor-30~+1V)\nDI Maxinputcurrent:8mA\n- Digitalinput-(“0”:+12V~+30V)\nNormallyopen\nRelay\nNormallyclose\nConnecting,Converting,Creating\nTailoredMarvellManagedNetworkingSolutionsProvider",
+"pages":[
+"LEDIndicatorDefinition a.sagatelecom@gmail.com\nSagaTelecom\n2025/Q3 www.sagatelecom.com.cn\nUnmanagedModel\nLEDIndicators\nP(PowerStatus)\nOn:powerstatusisnormal Off:powerofforpowerconnectionfailure\nGreenIndicator\nNon-PoEModels PoEModels\nS(SystemStatus) On:PoEusage≥90%ratedbudget\nRedIndicator On:thechipread/writeisabnormal\nBlinking:50%<PoEusage<90%ratedbudget\nOff:thechipisnormallyoperating\nOff:PoEusage<50%ratedbudget\nOn:portlinkup\nEthernetPortStatus\nBlinking:dataisinnormaltransmission\nGreenIndicator\nOff:portlinkdown\nNon-PoEModels PoEModels\nEthernetPortStatus 1000Mmodels 10/100Mmodels\nPoEStatus\nOn:PoEworking\nYellowIndicator On:portspeedis1000M On:portspeedis100M\nOff:PoEnotworking\nOff:portspeedis10/100M Off:portson10M\nOn:portlinkup\nFiberPortStatus\nBlinking:dataisinnormaltransmission\nGreenIndicator\nOff:portlinkdown\nPleaserefertothedatasheetortakewithusformoreinformation\nConnecting,Converting,Creating\nTailoredMarvellManagedNetworkingSolutionsProvider",
+"LEDIndicatorDefinition a.sagatelecom@gmail.com\nSagaTelecom\n2025/Q3 www.sagatelecom.com.cn\nManagedModel\nLEDIndicators\nP(PowerStatus)\nOn:powerstatusisnormal Off:powerofforpowerconnectionfailure\nGreenIndicator\nOn:Normaloperation\nS(SystemStatus)\nBlinking:Deviceinitialization\nGreenIndicator\nOff:Connectionfailure\nOn:USBflashdriveisdetectedbydevice\nUSB(USBstatus)\nBlinking:thedeviceisreadingandwritingthedatafromUSBflashdrive\nGreenIndicator\nOff:USBflashdrivenotinsertornotdetectedbydevice\nALM(FaultStatus)\nOff:Deviceonnormalworkingstate On:Faultalarm\nRedIndicator\nRing(RingNetwork) Off:Ringnetworkdisable On:Ringnetworkenable\nOn:portlinkup\nEthernetPortStatus\nBlinking:dataisinnormaltransmission\nGreenIndicator\nOff:portlinkdown\nNon-PoEModels PoEModels\nEthernetPortStatus 1000Mmodels 10/100Mmodels\nPoEStatus\nOn:PoEworking\nYellowIndicator On:portspeedis1000M On:portspeedis100M\nOff:PoEnotworking\nOff:portspeedis10/100M Off:portson10M\nOn:portlinkup\nFiberPortStatus\nBlinking:dataisinnormaltransmission\nGreenIndicator\nOff:portlinkdown\nConnectorDefinition\nA Datapositiveline\nRS485\nB Datanegativeline\nG G Groundingline\n+ Digitalinput+(“1”:Noneor-30~+1V)\nDI Maxinputcurrent:8mA\n- Digitalinput-(“0”:+12V~+30V)\nNormallyopen\nRelay\nNormallyclose\nConnecting,Converting,Creating\nTailoredMarvellManagedNetworkingSolutionsProvider"
+]
+}

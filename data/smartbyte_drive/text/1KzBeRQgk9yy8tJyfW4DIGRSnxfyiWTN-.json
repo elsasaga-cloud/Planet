@@ -1,0 +1,24 @@
+{
+"id":"1KzBeRQgk9yy8tJyfW4DIGRSnxfyiWTN-",
+"name":"6.jpg",
+"path":"SmartByte/工业非管理/STI-110FE/6.jpg",
+"type":"图片",
+"bytes":202335,
+"sha256":"e2123ee19d347d5756761aab2b891ebfafc439a480b4aea93bf78849875f914b",
+"extracted_at":"2026-10-22T02:03:22Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":800,
+"height":800,
+"mode":"RGB",
+"datetime":"2024:01:10 20:58:34",
+"software":"Adobe Photoshop CS6 (Windows)",
+"thumb_bytes":9321
+},
+"ocr":{
+"text":"PWR1 PWR2\nJe ie\n+ 一 + 一\nNon-PoE:DC 12-58V: PoE:DC 44-57v",
+"conf":69.7
+},
+"text":"PWR1 PWR2\nJe ie\n+ 一 + 一\nNon-PoE:DC 12-58V: PoE:DC 44-57v"
+}

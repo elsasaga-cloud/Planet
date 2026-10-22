@@ -1,0 +1,251 @@
+{
+"id":"1UtSXy2BA-LHjhqfUQOFWjLjw9-6IvNFK",
+"name":"DIP Definition.docx",
+"path":"SmartByte/工业非管理/DIP Definition.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":29156,
+"sha256":"21be465b048ccda6a45abd991503f2e199837ad33f31d7a4ef2cd9e1421102d9",
+"extracted_at":"2026-10-22T02:02:37Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":2710,
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2023-07-22T16:14:00+00:00",
+"modified":"2025-03-23T06:15:27+00:00",
+"paragraphs":7,
+"tables":4,
+"embedded_images":0
+},
+"warnings":[],
+"text":"Non-PoE Media Converter\n\tDip 1\tDip 2\tDip 3\tDip 4\nSTI-110FE\tLFP\tFlow control\tBroadcast storm restrain\t10Kbytes jumbo frame\nSTI-120FE\tPort isolation\tFlow control\tBroadcast storm restrain\t10Kbytes jumbo frame\nSTI-220FE\tFiber redundant\tFlow control\tBroadcast storm restrain\t10Kbytes jumbo frame\nSTI-120GE\tPort isolation\tFlow control\tBroadcast storm restrain\t100/1000M fiber port selection / (ON=100M, OFF=1000M)\nSTI-220GE\tFiber redundant\tFlow control\tBroadcast storm restrain\t100/1000M fiber port selection / (ON=100/1000M adaptive, OFF=1000M)\nPoE Media Converter\nModel\tDip 1\tDip 2\tDip 3\tDip 4\nSTI-111FP\tLFP\tFlow control\t250m long distance\tPoE Watchdog\nSTI-122FP\tPort isolation\tFlow control\t250m long distance\tPoE Watchdog\nSTI-222FP\tFiber redundant\tFlow control\t250m long distance\tPoE Watchdog\nSTI-111GP\tLFP\t100/1000M fiber port selection / (ON=100M, OFF=1000M)\t250m long distance\nPort 1 Only\tPoE Watchdog\nSTI-122GP\tPort isolation\t100/1000M fiber port selection / (ON=100M, OFF=1000M)\t250m long distance\nPort 1 Only\tPoE Watchdog\nSTI-222GP\tFiber redundant\t100/1000M fiber port selection / (ON=100/1000M adaptive, OFF=1000M)\t250m long distance\nPort 1 Only\tPoE Watchdog\nFast Ethernet Unmanaged Switch\n\tModel\tDIP 1\tDIP 2\tDIP 3\tDIP 4\nNon-PoE\tSTI-050FE / STI-080FE / STI-140FE / STI-180FE / STI-240FE / STI-260FE\tPort isolation\tFlow control\tQoS(1-2 ports)\tBroadcast storm restrain\nPoE\tSTI-054FP / STI-088FP / STI-144FP / STI-188FP / STI-244FP / STI-266FP\tPort isolation\t250m long distance\tQoS(1-2 ports)\tPoE watchdog\nGigabit Unmanaged Switch\n\tModel\tDIP 1\tDIP 2\tDIP 3\tDIP 4\nNon-PoE\tSTI-140GE / STI-150GE / STI-240GE / STI-050GE / STI-080GE / STI-180GE / STI-280GE / STI-880GE\tPort isolation\tFlow control\tQoS \n(1-2 port)\tBroadcast storm restrain\nNon-PoE\tSTI-0160GE / STI-2160GE\tLink aggregation\tFlow control\tQoS \n(1-2 port)\tBroadcast storm restrain\nPoE\tSTI-144GP / STI-154GP / STI-244GP / STI-054GP\tPort isolation\t250m long distance \n(1-2 ports)\tQoS \n(1-2 port)\tPoE watchdog\nPoE\tSTI-088GP / STI-188GP / STI-288GP\tPort isolation\t250m long distance / (1-4 ports)\tQoS \n(1-2 port)\tPoE watchdog\nPoE\tSTI-488GP / STI-01616GP / STI-21616GP\tLink aggregation\t250m long distance / (1-4 ports)\tQoS \n(1-2 port)\tPoE watchdog\nRemark\nSTI-888GP does NOT support DIP function\nAll managed models do NOT support DIP function\n[页眉页脚]\nDIP Definition\t                                                                                                                       a.sagatelecom@gmail.com\n\t\t\t\t\t\t\t                                                                       Saga Telecom\n2025/Q3\t\t\t\t\t\t\t                         \t           www.sagatelecom.com.cn\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Non-PoE Media Converter"
+},
+{
+"t":"table",
+"rows":[
+[
+"",
+"Dip 1",
+"Dip 2",
+"Dip 3",
+"Dip 4"
+],
+[
+"STI-110FE",
+"LFP",
+"Flow control",
+"Broadcast storm restrain",
+"10Kbytes jumbo frame"
+],
+[
+"STI-120FE",
+"Port isolation",
+"Flow control",
+"Broadcast storm restrain",
+"10Kbytes jumbo frame"
+],
+[
+"STI-220FE",
+"Fiber redundant",
+"Flow control",
+"Broadcast storm restrain",
+"10Kbytes jumbo frame"
+],
+[
+"STI-120GE",
+"Port isolation",
+"Flow control",
+"Broadcast storm restrain",
+"100/1000M fiber port selection / (ON=100M, OFF=1000M)"
+],
+[
+"STI-220GE",
+"Fiber redundant",
+"Flow control",
+"Broadcast storm restrain",
+"100/1000M fiber port selection / (ON=100/1000M adaptive, OFF=1000M)"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"PoE Media Converter"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"Dip 1",
+"Dip 2",
+"Dip 3",
+"Dip 4"
+],
+[
+"STI-111FP",
+"LFP",
+"Flow control",
+"250m long distance",
+"PoE Watchdog"
+],
+[
+"STI-122FP",
+"Port isolation",
+"Flow control",
+"250m long distance",
+"PoE Watchdog"
+],
+[
+"STI-222FP",
+"Fiber redundant",
+"Flow control",
+"250m long distance",
+"PoE Watchdog"
+],
+[
+"STI-111GP",
+"LFP",
+"100/1000M fiber port selection / (ON=100M, OFF=1000M)",
+"250m long distance\nPort 1 Only",
+"PoE Watchdog"
+],
+[
+"STI-122GP",
+"Port isolation",
+"100/1000M fiber port selection / (ON=100M, OFF=1000M)",
+"250m long distance\nPort 1 Only",
+"PoE Watchdog"
+],
+[
+"STI-222GP",
+"Fiber redundant",
+"100/1000M fiber port selection / (ON=100/1000M adaptive, OFF=1000M)",
+"250m long distance\nPort 1 Only",
+"PoE Watchdog"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Fast Ethernet Unmanaged Switch"
+},
+{
+"t":"table",
+"rows":[
+[
+"",
+"Model",
+"DIP 1",
+"DIP 2",
+"DIP 3",
+"DIP 4"
+],
+[
+"Non-PoE",
+"STI-050FE / STI-080FE / STI-140FE / STI-180FE / STI-240FE / STI-260FE",
+"Port isolation",
+"Flow control",
+"QoS(1-2 ports)",
+"Broadcast storm restrain"
+],
+[
+"PoE",
+"STI-054FP / STI-088FP / STI-144FP / STI-188FP / STI-244FP / STI-266FP",
+"Port isolation",
+"250m long distance",
+"QoS(1-2 ports)",
+"PoE watchdog"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Gigabit Unmanaged Switch"
+},
+{
+"t":"table",
+"rows":[
+[
+"",
+"Model",
+"DIP 1",
+"DIP 2",
+"DIP 3",
+"DIP 4"
+],
+[
+"Non-PoE",
+"STI-140GE / STI-150GE / STI-240GE / STI-050GE / STI-080GE / STI-180GE / STI-280GE / STI-880GE",
+"Port isolation",
+"Flow control",
+"QoS \n(1-2 port)",
+"Broadcast storm restrain"
+],
+[
+"Non-PoE",
+"STI-0160GE / STI-2160GE",
+"Link aggregation",
+"Flow control",
+"QoS \n(1-2 port)",
+"Broadcast storm restrain"
+],
+[
+"PoE",
+"STI-144GP / STI-154GP / STI-244GP / STI-054GP",
+"Port isolation",
+"250m long distance \n(1-2 ports)",
+"QoS \n(1-2 port)",
+"PoE watchdog"
+],
+[
+"PoE",
+"STI-088GP / STI-188GP / STI-288GP",
+"Port isolation",
+"250m long distance / (1-4 ports)",
+"QoS \n(1-2 port)",
+"PoE watchdog"
+],
+[
+"PoE",
+"STI-488GP / STI-01616GP / STI-21616GP",
+"Link aggregation",
+"250m long distance / (1-4 ports)",
+"QoS \n(1-2 port)",
+"PoE watchdog"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STI-888GP does NOT support DIP function"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"All managed models do NOT support DIP function"
+}
+],
+"header_footer":[
+"DIP Definition\t                                                                                                                       a.sagatelecom@gmail.com\n\t\t\t\t\t\t\t                                                                       Saga Telecom",
+"2025/Q3\t\t\t\t\t\t\t                         \t           www.sagatelecom.com.cn",
+"Connecting, Converting, Creating",
+"Tailored Marvell Managed Networking Solutions Provider"
+]
+}

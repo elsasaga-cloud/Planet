@@ -1,0 +1,24 @@
+{
+"id":"1SeD9fS6zMu5OSE9lN5FrtgJujjlXh4Gm",
+"name":"4.jpg",
+"path":"SmartByte/工业非管理/STI-140FE/4.jpg",
+"type":"图片",
+"bytes":177711,
+"sha256":"ef18bf8992c731ad75f309bddfb9497bb75e9cbcc1a13902119f5769d033d673",
+"extracted_at":"2026-10-22T02:03:33Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":800,
+"height":800,
+"mode":"RGB",
+"datetime":"2024:01:10 20:53:07",
+"software":"Adobe Photoshop CS6 (Windows)",
+"thumb_bytes":7776
+},
+"ocr":{
+"text":"PWR1 PWR2",
+"conf":62.7
+},
+"text":"PWR1 PWR2"
+}

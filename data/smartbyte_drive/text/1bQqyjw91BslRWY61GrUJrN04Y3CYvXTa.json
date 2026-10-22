@@ -1,0 +1,24 @@
+{
+"id":"1bQqyjw91BslRWY61GrUJrN04Y3CYvXTa",
+"name":"4.jpg",
+"path":"SmartByte/工业非管理/STI-080GE/4.jpg",
+"type":"图片",
+"bytes":195469,
+"sha256":"e32ac72785ced2a623d3824fe6419aa7ec8a693e596b71a833aa194fc9c358ff",
+"extracted_at":"2026-10-22T02:03:16Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":800,
+"height":800,
+"mode":"RGB",
+"datetime":"2024:01:10 20:32:26",
+"software":"Adobe Photoshop CS6 (Windows)",
+"thumb_bytes":9291
+},
+"ocr":{
+"text":"uplink\n<",
+"conf":81.8
+},
+"text":"uplink\n<"
+}
