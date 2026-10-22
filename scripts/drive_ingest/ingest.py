@@ -65,6 +65,7 @@ BACKUP = os.environ.get('BACKUP', '1') == '1'
 RELEASE_TAG = os.environ.get('RELEASE_TAG') or ('drive-smartbyte-' + datetime.now(timezone.utc).strftime('%Y%m%d'))
 RELEASE_TARGET = os.environ.get('RELEASE_TARGET', '')
 PART_MAX = int(float(os.environ.get('PART_MAX_GB', '1.8')) * 1024 ** 3)
+JOB_LABEL = os.environ.get('JOB_LABEL') or 'T28: Drive《SmartByte》入库'
 OCR = os.environ.get('OCR', '1') == '1'
 THUMB_PX = int(os.environ.get('THUMB_PX', '360'))
 OCR_MAX_PAGES = int(os.environ.get('OCR_MAX_PAGES', '150'))
@@ -1486,7 +1487,7 @@ def main():
                         log(f'{state.processed}/{len(todo)} done; last: {m["status"]} {m["path"][-60:]} ({m.get("secs")}s)')
                     if state.since_commit >= COMMIT_EVERY:
                         state.save()
-                        git_commit_push(f'T28: Drive《SmartByte》入库 +{state.since_commit}（累计 {state.processed}/{len(todo)}，{top}）')
+                        git_commit_push(f'{JOB_LABEL} +{state.since_commit}（累计 {state.processed}/{len(todo)}，{top}）')
                         state.since_commit = 0
                 if abort:
                     log('ABORT: Drive 连续返回登录/申请权限页 —— 《SmartByte》文件夹还没有设为「知道链接的任何人可查看」。'
@@ -1505,12 +1506,12 @@ def main():
                                                       'note': f'原件来源 Release {SOURCE_RELEASE}（Simon 手工上传的 Drive 打包）' if SOURCE_RELEASE else 'LOCAL_DIR test'}
         state.save()
         coverage_md(state, index_meta, recs)
-        git_commit_push(f'T28: Drive《SmartByte》入库 · {top} 完成（{n_ok}/{len(group)}，累计 {state.processed}/{len(todo)}）')
+        git_commit_push(f'{JOB_LABEL} · {top} 完成（{n_ok}/{len(group)}，累计 {state.processed}/{len(todo)}）')
         state.since_commit = 0
     run_rec.update({'finished': now(), 'processed': state.processed})
     state.save()
     coverage_md(state, index_meta, recs)
-    git_commit_push(f'T28: Drive《SmartByte》入库收口（本次 {state.processed}，manifest {len(state.manifest["files"])}/{len(recs)}）')
+    git_commit_push(f'{JOB_LABEL}收口（本次 {state.processed}，manifest {len(state.manifest["files"])}/{len(recs)}）')
     st = state.manifest['meta'].get('status_counts', {})
     log('DONE', json.dumps(st, ensure_ascii=False))
 
@@ -1533,6 +1534,17 @@ def maybe_dispatch_run_file():
     job = kv.pop('JOB', '').lower()
     scripts = {'gmail': os.path.join(ROOT, 'scripts', 'gmail_ingest', 'ingest.py'),
                'files': os.path.join(ROOT, 'scripts', 'drive_ingest', 'files_job.py')}
+    if job == 'drive':
+        # JOB=drive：用 RUN 里的 KEY=VALUE（INDEX / OUT_DIR / RELEASE_TAG / BACKUP / OCR / WORKERS / FORCE / ONLY_FOLDERS …）
+        # 重新进入本脚本的 Drive 任务（模块级常量在 import 时读 env，故 execve 自身一次；DRIVE_DISPATCHED 防止循环）。
+        if os.environ.get('DRIVE_DISPATCHED') == '1':
+            return
+        env = dict(os.environ)
+        env.update(kv)
+        env['DRIVE_DISPATCHED'] = '1'
+        log('RUN says JOB=drive → re-exec self with', json.dumps(kv, ensure_ascii=False))
+        sys.stdout.flush()
+        os.execve(sys.executable, [sys.executable, os.path.abspath(__file__)], env)
     if job not in scripts:
         return
     env = dict(os.environ)
