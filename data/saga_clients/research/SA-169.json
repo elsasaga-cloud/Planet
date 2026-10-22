@@ -41,6 +41,13 @@
    "quote": "",
    "url": "PI.zip:10 加拿大 James 活跃 Xtransfer 轻度绑定",
    "date": "2026-10-22"
+  },
+  {
+   "kind": "S 邮箱原文",
+   "claim": "2024-06-27 Simon 向 James 发 Invoice 并承诺「I am now working on the UL listed PSU. 52~57VDC output. 250W~300W power budget」；James 2024-06-28 回复在 24–36 小时内付款；UL 需求只落在 PSU 配件，不在交换机",
+   "quote": "I am now working on the UL listed PSU. 52~57VDC output. 250W~300W power budget. I will let you know if I have news.",
+   "url": "（S 邮箱 2024-06-27 07:25Z Simon→james@clendenan.ca 主题 Invoice，data/gmail_s/messages/2024/2024-06.jsonl）",
+   "date": "2026-10-22"
   }
  ],
  "kp": [
@@ -52,7 +59,7 @@
    "source": "PI.zip 单据"
   }
  ],
- "notes": "",
+ "notes": " ｜ 针对性加厚 2026-10-22（UL PSU 线索，T29-U13 ②）",
  "researched_at": "2026-10-22",
  "deal_pi": {
   "folder": "10 加拿大 James 活跃 Xtransfer 轻度绑定",
@@ -74,5 +81,8 @@
   "why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
  },
  "grade_override": "A",
- "override_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）"
+ "override_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）",
+ "risks": [
+  "【2026-10-22 第二遍复盘】S 邮箱全库 13,583 封里唯一的 UL 需求来自本户（UL listed 52–57 VDC 250–300 W PSU，2024-06）；Simon 2023-12 曾向 Mencom 问 UL DIN 电源 → 跟进时可直接给 MEAN WELL UL 版电源型号 + 价格（Drive《SmartByte》有 MEAN WELL 价目表），交换机本体不承诺 UL。"
+ ]
 }

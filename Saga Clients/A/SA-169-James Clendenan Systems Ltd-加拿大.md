@@ -71,8 +71,12 @@ updated: 2026-10-22
   > 来源：PI.zip:10 加拿大 James 活跃 Xtransfer 轻度绑定/发票_STSC20260830010.xlsx（抓取 2026-09-07）
 - **【PI】PI 包文件夹「加拿大 James 活跃 Xtransfer 轻度绑定」：Simon 标签 活跃，收款 Xtransfer，轻度绑定；单号 4 个，2024-06-27 → 2026-09-07，销售 USD 6740.0 / RMB 0，Simon 成本统计利润合计 RMB 5201.52**
   > 来源：PI.zip:10 加拿大 James 活跃 Xtransfer 轻度绑定（抓取 2026-10-22）
+- **【S 邮箱原文】2024-06-27 Simon 向 James 发 Invoice 并承诺「I am now working on the UL listed PSU. 52~57VDC output. 250W~300W power budget」；James 2024-06-28 回复在 24–36 小时内付款；UL 需求只落在 PSU 配件，不在交换机**
+  > I am now working on the UL listed PSU. 52~57VDC output. 250W~300W power budget. I will let you know if I have news.
+  > 来源：（S 邮箱 2024-06-27 07:25Z Simon→james@clendenan.ca 主题 Invoice，data/gmail_s/messages/2024/2024-06.jsonl）（抓取 2026-10-22）
 - **KP**：James Clendenan（单据联系人）james@clendenan.ca 〔PI.zip 单据〕
 - **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）
+- 备注： ｜ 针对性加厚 2026-10-22（UL PSU 线索，T29-U13 ②）
 
 
 ## 在卖/在用品牌 → Saga 对位
