@@ -1,0 +1,19 @@
+{
+ "sha256_16": "12c6afb6efaf8dfc",
+ "name": "instruction.png",
+ "ext": ".png",
+ "bytes": 48668,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1395,
+  "height": 832,
+  "mode": "RGBA",
+  "thumb_bytes": 5851
+ },
+ "warnings": [],
+ "chars": 458,
+ "text": "Maintenance\noeview File Management\nBasic Information\nlog\nConfig\n4/11924 KB)\nRootfs :ae\n—\n-\nfen}\nClean\nImage Management3 Configuration Management Certificate Management Page Package Management Data Management\nImages ;\nName _ Version Action\nhotfix/7.3.1 (r1262 f365514) 2024-12-04\nactive\n19:30:13,\nhotfin/7.1.4 (r995 e6a46de) 2024-06-24 二\nstandby 區\n2023:13\nUpgrade |\nick or drag file to this area to uploa\n4 Click or drag file to thi load\nlite-hotfix-7.3.3.bin",
+ "extracted_at": "2026-10-22T04:14:49Z"
+}

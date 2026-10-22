@@ -1,0 +1,19 @@
+{
+ "sha256_16": "6b9b981a8b2e9ae2",
+ "name": "prodcut label.png",
+ "ext": ".png",
+ "bytes": 31011,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 665,
+  "height": 329,
+  "mode": "RGBA",
+  "thumb_bytes": 11257
+ },
+ "warnings": [],
+ "chars": 156,
+ "text": "ANGORA NETWORKS\nVERGE SERIES ETHERNET SWITCHES\nMODEL: ANW-2116-PG\nINPUT: DC44-57V angora\nUOUIANIT ART CC FE\n2501211600103 的 入\nMAC ADDRESS: 98:06:37:A1:00:00",
+ "extracted_at": "2026-10-22T04:15:01Z"
+}

@@ -1,0 +1,19 @@
+{
+ "sha256_16": "6266fd156edd6660",
+ "name": "shipping label.png",
+ "ext": ".png",
+ "bytes": 14068,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 549,
+  "height": 548,
+  "mode": "RGBA",
+  "thumb_bytes": 9146
+ },
+ "warnings": [],
+ "chars": 91,
+ "text": "LA\nANGORA NETWORKS\nModel: ANW-2116-PG\nQty.: 8PCS Ill HUM\nWeight: 12.4 KG\nCarton No.: 1 / 23",
+ "extracted_at": "2026-10-22T04:15:00Z"
+}

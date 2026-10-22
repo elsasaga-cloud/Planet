@@ -1,0 +1,19 @@
+{
+ "sha256_16": "2c4f780482aefd06",
+ "name": "50464_image010(12-04-10-25-27).png",
+ "ext": ".png",
+ "bytes": 50464,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 600,
+  "height": 100,
+  "mode": "RGBA",
+  "thumb_bytes": 4535
+ },
+ "warnings": [],
+ "chars": 53,
+ "text": "二\nPr ded\nae Self-healing Networks” | 一\ncy WINTELLINET",
+ "extracted_at": "2026-10-22T04:14:17Z"
+}

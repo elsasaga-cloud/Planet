@@ -15,5 +15,5 @@
  "warnings": [],
  "chars": 729,
  "text": "MPB-00178-RevA2-SGETF-Series.pdf 146% + 日\nThe SGETF Series is a stand-alone media converter that provides an interface between\n1000Base-T ports and 1000Base-SX/LX ports, allowing users to integrate fiber optic\ncabling into 1000Base-T copper environments. Operating at Layer 1, the physical layer,\ndata is passed through the converter at line speed, making it ideal for applications SGETF1040-110\nwhere low latency is essential SGETF1013-110\nKey Features\n+ Auto-MDI/MDIX\n* Copper & Fiber Auto-Negotiation 一 一 eT(BJ-45) 0100 mi\nSpecifications Ordering Information\nStandards EEE 802.3ab SGETF1013-110\n+ Transparent Link Pass Through\n+ Automatic Link Restoration 3 SGETF1039-110\n1001 e-T (RJ-45) [100 my\n* Pause\n+ Remote Fault Detect",
- "extracted_at": "2026-10-22T03:41:10Z"
+ "extracted_at": "2026-10-22T04:10:58Z"
 }

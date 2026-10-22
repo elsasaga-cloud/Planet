@@ -1,0 +1,19 @@
+{
+ "sha256_16": "0d6220ebaa2bc830",
+ "name": "before log-in.png",
+ "ext": ".png",
+ "bytes": 50948,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1786,
+  "height": 1399,
+  "mode": "RGBA",
+  "thumb_bytes": 4652
+ },
+ "warnings": [],
+ "chars": 116,
+ "text": "v 全 Login switeh x 二 - 品 x\n[e\n還\n< SC ARs 192.168.56.166/#/login & *\n@\nEN2440 |\nManaged Ethernet Switch\n»\nLogin Clear",
+ "extracted_at": "2026-10-22T04:19:08Z"
+}

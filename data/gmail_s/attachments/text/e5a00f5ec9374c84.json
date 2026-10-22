@@ -1,0 +1,21 @@
+{
+ "sha256_16": "e5a00f5ec9374c84",
+ "name": "3.mp4",
+ "ext": ".mp4",
+ "bytes": 1325474,
+ "method": "ffprobe+ffmpeg",
+ "status": "meta",
+ "meta": {
+  "duration_s": 8.2,
+  "width": 1280,
+  "height": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "creation_time": "2025-02-28T02:54:20.000000Z",
+  "thumb_bytes": 6583
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T04:14:52Z"
+}

@@ -1,6 +1,6 @@
 # Gmail（s 邮箱）Takeout 全量入库 · 覆盖率报告
 
-- 生成时间：2026-10-22T04:05:33Z；状态：**done**；本邮箱地址：s.sagatelecom@gmail.com
+- 生成时间：2026-10-22T04:24:33Z；状态：**done**；本邮箱地址：s.sagatelecom@gmail.com
 - 来源：2 个文件，合计 6.48 GB：`All_mail_Including_Spam_and_Trash-002.mbox` 6.48 GB；`takeout-20261021T123952Z-1-001.zip` 0.00 GB
 - 批次 1：2 个文件 / mbox 条目 1 个 / 流总长 6.48 GB，已处理到偏移 6.48 GB，13,583 封，✅ 完成
 - 规则：**full** = 全文（非群发 / 本邮箱发出 / 本邮箱回过的线程 / 对方是 Saga Clients 里的客户 / 加星 / 重要）；**snippet** = 群发与通知类只留头部 + 前 600 字；附件按 sha256 去重抽正文（≤25 MB，文档类；图片 OCR=开）
@@ -20,12 +20,12 @@
 | parse_err | 0 |
 | attachments | 13,460 |
 | att_unique | 760 |
-| att_ok | 445 |
-| att_meta | 94 |
-| att_fail | 1 |
-| att_skip | 220 |
+| att_ok | 528 |
+| att_meta | 136 |
+| att_fail | 0 |
+| att_skip | 96 |
 | text_chars | 15,951,998 |
-| att_chars | 8,159,020 |
+| att_chars | 8,179,670 |
 
 ## 按年
 
@@ -115,47 +115,43 @@
 | 扩展名 | 个数（去重后） | 抽到正文 | 仅元数据 | 失败 | 跳过 |
 |---|---|---|---|---|---|
 | .pdf | 235 | 235 | 0 | 0 | 0 |
-| .png | 234 | 64 | 53 | 0 | 117 |
-| .jpg | 120 | 40 | 39 | 0 | 41 |
+| .png | 234 | 120 | 63 | 0 | 51 |
+| .jpg | 120 | 59 | 58 | 0 | 3 |
 | .docx | 70 | 70 | 0 | 0 | 0 |
 | .p7s | 36 | 0 | 0 | 0 | 36 |
-| .xlsx | 14 | 13 | 0 | 1 | 0 |
-| .jpeg | 6 | 3 | 1 | 0 | 2 |
-| .mp4 | 6 | 0 | 0 | 0 | 6 |
+| .xlsx | 14 | 14 | 0 | 0 | 0 |
+| .jpeg | 6 | 4 | 2 | 0 | 0 |
+| .mp4 | 6 | 0 | 6 | 0 | 0 |
 | .zip | 4 | 4 | 0 | 0 | 0 |
 | .txt | 4 | 4 | 0 | 0 | 0 |
 | .xls | 4 | 4 | 0 | 0 | 0 |
-| .vsd | 4 | 0 | 0 | 0 | 4 |
-| .psd | 3 | 0 | 0 | 0 | 3 |
+| .vsd | 4 | 4 | 0 | 0 | 0 |
+| .psd | 3 | 0 | 3 | 0 | 0 |
 | (无) | 2 | 0 | 0 | 0 | 2 |
 | .gif | 2 | 1 | 0 | 0 | 1 |
 | .dxf | 2 | 2 | 0 | 0 | 0 |
-| .ai | 2 | 0 | 0 | 0 | 2 |
+| .ai | 2 | 1 | 1 | 0 | 0 |
 | .doc | 2 | 2 | 0 | 0 | 0 |
 | .dwg | 1 | 0 | 0 | 0 | 1 |
 | .xps | 1 | 0 | 0 | 0 | 1 |
 | .mib | 1 | 1 | 0 | 0 | 0 |
 | .rar | 1 | 1 | 0 | 0 | 0 |
 | .7z | 1 | 0 | 1 | 0 | 0 |
-| .heic | 1 | 0 | 0 | 0 | 1 |
+| .heic | 1 | 1 | 0 | 0 | 0 |
 | .dat | 1 | 0 | 0 | 0 | 1 |
-| .cdr | 1 | 0 | 0 | 0 | 1 |
+| .cdr | 1 | 0 | 1 | 0 | 0 |
 | .pub | 1 | 1 | 0 | 0 | 0 |
-| .webp | 1 | 0 | 0 | 0 | 1 |
+| .webp | 1 | 0 | 1 | 0 | 0 |
 
 ## 解析失败（0）
 
 无。
 
-## 附件抽取失败（1）
+## 附件抽取失败（0）
 
-| sha16 | 文件名 | 错误 |
-|---|---|---|
-| ee2876930390f379 | RFQ FOR TELECOM ITEMS.xlsx | RuntimeError: openpyxl: Unable to read workbook: could not read stylesheet from /tmp/att_m08bn05c/RFQ_FOR_TELECOM_ITEMS.xlsx.
-This is most probably because the workbook sourc; soffice-xlsx: Unable to read workbook: could not read stylesheet from /tmp/att_m08bn05c/RFQ_FOR_TELECOM_ITEMS.xlsx.
-This is  |
+无。
 
 ## 运行记录
 
 - {"started": "2026-10-22T03:32:17Z", "limit": 0, "bulk_mode": "full", "attach": true, "ocr": true, "more_batches": false, "ended": "2026-10-22T03:53:00Z", "messages_this_run": 13583, "stopped_early": false}
-- {"started": "2026-10-22T04:02:09Z", "limit": 0, "bulk_mode": "full", "attach": true, "ocr": true, "more_batches": false, "ended": "2026-10-22T04:05:33Z", "messages_this_run": 0, "stopped_early": false}
+- {"started": "2026-10-22T04:07:17Z", "limit": 0, "bulk_mode": "full", "attach": true, "ocr": true, "more_batches": false, "ended": "2026-10-22T04:24:33Z", "messages_this_run": 13583, "stopped_early": false}

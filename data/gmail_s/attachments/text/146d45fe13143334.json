@@ -1,0 +1,19 @@
+{
+ "sha256_16": "146d45fe13143334",
+ "name": "price list.png",
+ "ext": ".png",
+ "bytes": 39912,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 983,
+  "height": 526,
+  "mode": "RGBA",
+  "thumb_bytes": 6805
+ },
+ "warnings": [],
+ "chars": 183,
+ "text": "My Drive >» Commercial Switch ~ 吃\n[Ra\nName Owner\n® Commercial POE Switch saa me\nB® Marvell Series sacha me\n® Commercial Ethernet Switch saca Me\nBs Commercial Managed Switch saca Me\nme",
+ "extracted_at": "2026-10-22T04:21:28Z"
+}

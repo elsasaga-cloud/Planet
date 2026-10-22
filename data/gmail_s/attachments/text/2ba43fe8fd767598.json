@@ -1,0 +1,19 @@
+{
+ "sha256_16": "2ba43fe8fd767598",
+ "name": "result.png",
+ "ext": ".png",
+ "bytes": 17170,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 743,
+  "height": 162,
+  "mode": "RGB",
+  "thumb_bytes": 4203
+ },
+ "warnings": [],
+ "chars": 222,
+ "text": "SWITCH#show ver\nSoftware Version: hotfix/7.4.7 (r1540 af525c9)\nRelease Date: 2025-12-11 17:09:22\nSystem MAC Address: 8c:ae:49:d1:21:73\nPID: STC-4168XGGCM, Hardware Version: 1.0, Serial Number: 111\nVendor oid: 56166\nSWITCH#",
+ "extracted_at": "2026-10-22T04:11:23Z"
+}

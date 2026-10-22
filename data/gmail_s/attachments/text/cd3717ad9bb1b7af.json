@@ -1,0 +1,19 @@
+{
+ "sha256_16": "cd3717ad9bb1b7af",
+ "name": "image002.png",
+ "ext": ".png",
+ "bytes": 20679,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 343,
+  "height": 95,
+  "mode": "RGB",
+  "thumb_bytes": 3503
+ },
+ "warnings": [],
+ "chars": 10,
+ "text": "2 parallax",
+ "extracted_at": "2026-10-22T04:21:56Z"
+}

@@ -1,0 +1,19 @@
+{
+ "sha256_16": "d5b5dec7ae529b7b",
+ "name": "PVC mask font.png",
+ "ext": ".png",
+ "bytes": 49730,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1617,
+  "height": 329,
+  "mode": "RGBA",
+  "thumb_bytes": 3753
+ },
+ "warnings": [],
+ "chars": 45,
+ "text": "246 8 101:\n一 °\nCONSOLE RESET L_ ANW\n27 115200",
+ "extracted_at": "2026-10-22T04:17:50Z"
+}

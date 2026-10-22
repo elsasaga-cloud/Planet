@@ -1,0 +1,19 @@
+{
+ "sha256_16": "d03558823202816e",
+ "name": "image001.png",
+ "ext": ".png",
+ "bytes": 8192,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 190,
+  "height": 95,
+  "mode": "RGB",
+  "thumb_bytes": 2971
+ },
+ "warnings": [],
+ "chars": 14,
+ "text": "BT Group\nee ee",
+ "extracted_at": "2026-10-22T04:19:52Z"
+}

@@ -1,0 +1,19 @@
+{
+ "sha256_16": "aa7100e1edfd5a46",
+ "name": "Visio.png",
+ "ext": ".png",
+ "bytes": 46317,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 996,
+  "height": 303,
+  "mode": "RGBA",
+  "thumb_bytes": 8090
+ },
+ "warnings": [],
+ "chars": 17,
+ "text": "Visio File Format",
+ "extracted_at": "2026-10-22T04:19:10Z"
+}

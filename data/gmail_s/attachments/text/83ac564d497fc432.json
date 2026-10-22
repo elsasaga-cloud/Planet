@@ -1,0 +1,19 @@
+{
+ "sha256_16": "83ac564d497fc432",
+ "name": "Link.png",
+ "ext": ".png",
+ "bytes": 40177,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1082,
+  "height": 633,
+  "mode": "RGBA",
+  "thumb_bytes": 5249
+ },
+ "warnings": [],
+ "chars": 261,
+ "text": "https://we.tl/t-SOmqi3WDUR\nExpiration date @\nApril 4, 2025 v\nTransfer is recoverable @\nPassword @\nSet password\nSent to 1 person\nf.kriewitz@nynex.de\nNot yet downloaded\nTotal downloads\n0\n8 Copy\n5 files\nNew MIBs Info\nFolder - 5 items\n©\nDownload\n©\nForward\nG@\nDelete",
+ "extracted_at": "2026-10-22T04:14:48Z"
+}

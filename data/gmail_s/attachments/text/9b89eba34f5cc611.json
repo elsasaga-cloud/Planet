@@ -1,0 +1,19 @@
+{
+ "sha256_16": "9b89eba34f5cc611",
+ "name": "google drive.png",
+ "ext": ".png",
+ "bytes": 37231,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 597,
+  "height": 552,
+  "mode": "RGBA",
+  "thumb_bytes": 13073
+ },
+ "warnings": [],
+ "chars": 286,
+ "text": "Share \"USA Thu Pham\"\n@ 8\n|Add people, groups, and calendar events\nPeople with access\nSimon (Saga Telecom) (you)\ns.sagatelecom@gmail.com\nSAGA\n「 thupvilink16@gmail.com\nthupvilink16@gmail.com\nGeneral access\nRestricted w\nOnly people with access can open with the link\n(© Copy ink )\nEditor 闻",
+ "extracted_at": "2026-10-22T04:19:02Z"
+}

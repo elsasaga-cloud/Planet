@@ -1,0 +1,19 @@
+{
+ "sha256_16": "73c8d222b54248e8",
+ "name": "Screenshot 2025-07-24 at 14.19.06.png",
+ "ext": ".png",
+ "bytes": 24554,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 933,
+  "height": 74,
+  "mode": "RGBA",
+  "thumb_bytes": 2535
+ },
+ "warnings": [],
+ "chars": 292,
+ "text": "nnex@telekom-cm4:~ $ snmpget -v 3 -u tt-user -~L authPriv -a SHA -A privpass -X AES -X encrpass 192.168.255.39 1.3.6.1.2.1.1.4.0\nmpget: Unknown user name\nonnex@telekom-cn4:~ $ snmpget -v 2c ~ctt-test 192.168.255.30 1.3.6.1.2.1.1.4.0\ns0.3.6.1.2.1.1.4.0 = STRING: \"tt-test@turktelekom. com. tr\"",
+ "extracted_at": "2026-10-22T04:12:51Z"
+}

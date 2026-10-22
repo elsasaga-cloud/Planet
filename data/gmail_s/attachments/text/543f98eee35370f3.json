@@ -15,5 +15,5 @@
  "warnings": [],
  "chars": 787,
  "text": "SWITCH\nLoopback )) Loopback Config\n人\nv Port\nMAC Address Table\n^ Network\nIP Address\nDNS\n^ Port\nPort Setting\nLink Aggregation\nEEE\nJumbo Frame\nPort Security\nProtected Port\nStorm Control loopback port setting table\nMirroring\n^ VLAN\n« VLAN\nCreate VLAN\nEnable\nEnable\nEnable\n67, default 5)\n35, default 30)\n30 (10 - 6£\n|| Entry | Port | Mode State | Port State\nTE1 Automation Disabled Forwarding\nTE2 Automation Disabled Forwarding\nTE3 Automation Disabled Forwarding\nTE4 Automation Disabled Forwarding\nTES Automation Disabled Forwarding\nTE6 Automation Disabled Forwarding\nTE7 Automation Disabled Forwarding\nTE8 Automation Disabled Forwarding\nVLAN Configuration\nMembership\nPort Setting\nv MAC Address Table\nv Spanning Tree\n« ERPS\nProperty\nERPS Instance\n+ Loopback\nDVD 四 上 四 及 =\nLoopback Config Edit",
- "extracted_at": "2026-10-22T03:48:19Z"
+ "extracted_at": "2026-10-22T04:19:47Z"
 }

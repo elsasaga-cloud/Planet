@@ -1,0 +1,21 @@
+{
+ "sha256_16": "9ce335b3105446d3",
+ "name": "MC10G.jpg",
+ "ext": ".jpg",
+ "bytes": 74301,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 480,
+  "height": 303,
+  "mode": "RGB",
+  "datetime": "2024:11:21 14:18:57",
+  "software": "Adobe Photoshop CS6 (Windows)",
+  "thumb_bytes": 13560
+ },
+ "warnings": [],
+ "chars": 158,
+ "text": "10G Ethernet Media Converter\nModel: MC10G\nPorts: 1*10G SFP+1*100M/1G/2.5G/5G/10G Ethernet\nPower Input: DCSV or powered in MC1400\nCC FE\nUn era\nSN: 202404230001",
+ "extracted_at": "2026-10-22T04:16:13Z"
+}

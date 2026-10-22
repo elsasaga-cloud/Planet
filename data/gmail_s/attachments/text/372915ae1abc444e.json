@@ -1,0 +1,19 @@
+{
+ "sha256_16": "372915ae1abc444e",
+ "name": "New MC100SC03 Logo.jpg",
+ "ext": ".jpg",
+ "bytes": 34972,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 640,
+  "height": 421,
+  "mode": "RGB",
+  "thumb_bytes": 8274
+ },
+ "warnings": [],
+ "chars": 134,
+ "text": "WVi-Link\nFiber Optic Communications\nModel MC100SC03\nFiber Optic Media Converter\n10/100M Base-TX To 100M Base-FX SC Ethernet Conversion",
+ "extracted_at": "2026-10-22T04:10:53Z"
+}

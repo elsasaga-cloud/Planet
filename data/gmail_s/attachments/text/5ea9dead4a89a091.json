@@ -1,0 +1,23 @@
+{
+ "sha256_16": "5ea9dead4a89a091",
+ "name": "Vi-Link Logo.vsd",
+ "ext": ".vsd",
+ "bytes": 47616,
+ "method": "soffice→pdf→pdfplumber",
+ "status": "ok",
+ "meta": {
+  "pages": 1,
+  "creator": "Draw",
+  "producer": "LibreOffice 24.2",
+  "creationdate": "D:20261022041909Z'",
+  "ocr_pages": 0,
+  "thumb_bytes": 1860
+ },
+ "warnings": [],
+ "chars": 70,
+ "text": "[p1]\nModel: EN2440\nVi-Link\nVL\nFiber Optic Communications\nModel: EN2440",
+ "pages": [
+  "Model: EN2440\nVi-Link\nVL\nFiber Optic Communications\nModel: EN2440"
+ ],
+ "extracted_at": "2026-10-22T04:19:09Z"
+}

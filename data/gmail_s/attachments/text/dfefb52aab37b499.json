@@ -1,0 +1,19 @@
+{
+ "sha256_16": "dfefb52aab37b499",
+ "name": "CRS310-8G+2S+IN.png",
+ "ext": ".png",
+ "bytes": 48259,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1151,
+  "height": 935,
+  "mode": "RGB",
+  "thumb_bytes": 13339
+ },
+ "warnings": [],
+ "chars": 272,
+ "text": "六 有 区 区 区 区\nCRS310-8G+2S+\n2.5 Gigabit\nEther 1-8 ports\nSFP+1\nSFP+2\n\\\n32MB 1 CPU 1 13 1 non blocking\n1 800MHz ‘cps? ‘Wire speed\n開 i ' Switch Chip\n-~ 1\nRAM to\n256MB\nUSB\n3 一 二 十\ni i\nFLASH 1 1 10port\n一\n| 一\ni\ni\nLEDs\nFan Controller\nFan\nLUL___-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_--J",
+ "extracted_at": "2026-10-22T04:11:43Z"
+}

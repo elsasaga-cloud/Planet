@@ -1,0 +1,23 @@
+{
+ "sha256_16": "20f94edbf7958d20",
+ "name": "PVC.CDR",
+ "ext": ".cdr",
+ "bytes": 76176,
+ "method": "soffice→pdf→pdfplumber+OCR(0p)",
+ "status": "meta",
+ "meta": {
+  "pages": 1,
+  "creator": "Draw",
+  "producer": "LibreOffice 24.2",
+  "creationdate": "D:20261022041906Z'",
+  "ocr_pages": 0,
+  "thumb_bytes": 835
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "pages": [
+  ""
+ ],
+ "extracted_at": "2026-10-22T04:19:08Z"
+}

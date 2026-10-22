@@ -1,0 +1,19 @@
+{
+ "sha256_16": "850dac186e9dc148",
+ "name": "image001.jpg",
+ "ext": ".jpg",
+ "bytes": 9643,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 458,
+  "height": 143,
+  "mode": "RGB",
+  "thumb_bytes": 6520
+ },
+ "warnings": [],
+ "chars": 24,
+ "text": "Communication & Security",
+ "extracted_at": "2026-10-22T04:18:08Z"
+}

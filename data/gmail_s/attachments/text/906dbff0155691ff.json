@@ -1,0 +1,19 @@
+{
+ "sha256_16": "906dbff0155691ff",
+ "name": "Information.png",
+ "ext": ".png",
+ "bytes": 45846,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1400,
+  "height": 417,
+  "mode": "RGBA",
+  "thumb_bytes": 5497
+ },
+ "warnings": [],
+ "chars": 257,
+ "text": "USAThu Pham > STSC20240418006 ~\nPeople ~ ) ( Modified ~ )\na\nOwner\nLast modified b... 了 火 File size\nSTC-4168XGGCM\nme\nApr 28, 2024 一 & 出 用\nCLI Manual.docx 2%\nMarvell Based Web Manual.docx 2%\nCertificate of Warranty.pdf 2\nme\n1:06 PM\n12:01 PM\nMay 6, 2024 878 KB",
+ "extracted_at": "2026-10-22T04:18:59Z"
+}

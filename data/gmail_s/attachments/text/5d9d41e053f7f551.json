@@ -12,5 +12,5 @@
  "warnings": [],
  "chars": 317,
  "text": "[customize/config]\n//version=\"1.0\";\ncontact=\"\";\nlocation=\"\";\nvendor_oid=0;\nproduct_name=\"TT-2208-TG\";\n\n\n[customize/www/sysconf.json]\n{\n  \"login_page_help\": \"one of ['lt', 'logo', 'nologo']\",\n  \"login_page\": \"logo\",\n  \"data_upgrade\":true,\n  \"langs\": [\n    {\n      \"name\": \"English\",\n      \"value\": \"en_US\"\n    }\n  ]\n}\n",
- "extracted_at": "2026-10-22T03:44:24Z"
+ "extracted_at": "2026-10-22T04:15:17Z"
 }

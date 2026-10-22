@@ -1,0 +1,23 @@
+{
+ "sha256_16": "ae72db3c3c6cc0cb",
+ "name": "Vi-Link.vsd",
+ "ext": ".vsd",
+ "bytes": 60928,
+ "method": "soffice→pdf→pdfplumber",
+ "status": "ok",
+ "meta": {
+  "pages": 1,
+  "creator": "Draw",
+  "producer": "LibreOffice 24.2",
+  "creationdate": "D:20261022041908Z'",
+  "ocr_pages": 0,
+  "thumb_bytes": 2005
+ },
+ "warnings": [],
+ "chars": 176,
+ "text": "[p1]\nModel: EN2440\nVL Vi-Link\nFor Management\nFiber Optic Communications\nModel: EN2440\nVL Vi-Link\nFor PVC\nFiber Optic Communications\n24 Ports Fiber Ethernet\nSwitch\nModel: EN2440",
+ "pages": [
+  "Model: EN2440\nVL Vi-Link\nFor Management\nFiber Optic Communications\nModel: EN2440\nVL Vi-Link\nFor PVC\nFiber Optic Communications\n24 Ports Fiber Ethernet\nSwitch\nModel: EN2440"
+ ],
+ "extracted_at": "2026-10-22T04:19:08Z"
+}

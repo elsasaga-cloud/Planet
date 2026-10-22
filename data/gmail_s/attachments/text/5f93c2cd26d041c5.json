@@ -1,0 +1,19 @@
+{
+ "sha256_16": "5f93c2cd26d041c5",
+ "name": "image003.png",
+ "ext": ".png",
+ "bytes": 54414,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 888,
+  "height": 495,
+  "mode": "RGBA",
+  "thumb_bytes": 4733
+ },
+ "warnings": [],
+ "chars": 434,
+ "text": "Product Specifications\nCategory Shopee > Cameras & Drones > Surveillance Cameras > CCTV & IP Cameras\nStock 32\nVideo Capture 1080p\nResolution\nSecurity Camera Motion Detection, Mobile Phone Remote Control, Rotate Left And Right, Two-way Voice Intercom, Double Light Night\nFeatures Vision\nNumber of Cameras 1\nIncluded\nMemory Card Type Miero SD\nDigital Zoom aK\nFrame Rate 15fps\nSecurityCamera Gimbal Camera\nstyle\nShips From Mainland China",
+ "extracted_at": "2026-10-22T04:12:01Z"
+}

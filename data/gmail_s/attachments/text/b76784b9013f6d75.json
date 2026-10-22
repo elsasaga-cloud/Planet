@@ -15,5 +15,5 @@
  "warnings": [],
  "chars": 453,
  "text": "Status\nSystem Information\n“Model |\nSystem Name\nSystem Location |\nSystem Contact |\nSerial Number |\nMAC Address |\nIPv4 Address\nSystem O1D |\nSystem Uptime |\nCurrent Tune\nFirmware Version\nFirmware Date\nHTTP |\nSNMP\nR -Nets 10U-MG\nSwitch\nDefault\nDefault\n219342411030001\n1C2AA31E.B402\n192 16821\n1361412728213\nOday, O nr, 2 min and 23\n2024-01-01 08:02:10 UTC+8\nT1123\nJul 04 2024 - 09:38:48\nEnabled\nDisabled\n|\n20\n0\n07 58:0\n100%\n80\n70%\n60%\n40%\n30%\n20%\n0%\n07:58:00",
- "extracted_at": "2026-10-22T03:48:09Z"
+ "extracted_at": "2026-10-22T04:19:50Z"
 }

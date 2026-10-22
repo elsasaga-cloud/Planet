@@ -1,0 +1,19 @@
+{
+ "sha256_16": "df190fa74e2d4fda",
+ "name": "MC1000 Logo.jpg",
+ "ext": ".jpg",
+ "bytes": 33193,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 641,
+  "height": 421,
+  "mode": "RGB",
+  "thumb_bytes": 8292
+ },
+ "warnings": [],
+ "chars": 142,
+ "text": "4CVi-Link\nFiber Optic Communications\nModel MC1000SC03\nFiber Optic Media Converter\n10/100/1000M Base TX To 1000M Base LX SC Ethernet Conversion",
+ "extracted_at": "2026-10-22T04:10:51Z"
+}

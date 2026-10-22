@@ -1,0 +1,19 @@
+{
+ "sha256_16": "33024d64d4f683f5",
+ "name": "image410981.jpg",
+ "ext": ".jpg",
+ "bytes": 38236,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 1313,
+  "height": 263,
+  "mode": "RGB",
+  "thumb_bytes": 3898
+ },
+ "warnings": [],
+ "chars": 139,
+ "text": "masibus xf Gender Equality/ Powering\n* European a International Pro9re55\n< Stan for Future\nA Sonepar Company Certified xx Generations\nINDIA",
+ "extracted_at": "2026-10-22T04:18:27Z"
+}

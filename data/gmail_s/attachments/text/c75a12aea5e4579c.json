@@ -1,0 +1,19 @@
+{
+ "sha256_16": "c75a12aea5e4579c",
+ "name": "Customization before log-in.jpg",
+ "ext": ".jpg",
+ "bytes": 63925,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 1920,
+  "height": 1032,
+  "mode": "RGB",
+  "thumb_bytes": 2940
+ },
+ "warnings": [],
+ "chars": 144,
+ "text": "E toain- svc a Given IP Address\nca 0 & 192.168.56.166/#/login?redirect=/monitor/dashboard\nLogo\nModel Name\nManaged Ethernet Switch\n[a\nLogin Clear",
+ "extracted_at": "2026-10-22T04:15:13Z"
+}

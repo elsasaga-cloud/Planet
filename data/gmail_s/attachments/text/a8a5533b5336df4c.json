@@ -1,0 +1,19 @@
+{
+ "sha256_16": "a8a5533b5336df4c",
+ "name": "fan dual PSU status monitoring 1.png",
+ "ext": ".png",
+ "bytes": 46580,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1127,
+  "height": 774,
+  "mode": "RGBA",
+  "thumb_bytes": 8934
+ },
+ "warnings": [],
+ "chars": 651,
+ "text": "SWITCH#en\nSWITCH#show power\nInd\n工 AC Active\n2 AC Active\nSWITCH#\nSWITCH#show fan\nCurrent temperature: 44.0 C\nHigh ctrl level:\nTrigger: 90.0 C\nClear : 85.0 C\nFan ID Fan Speed Fan Status\n1 low Normal\n2 low Normal\nSWITCH#\nSWITCH#*1970 Jan 01 00:00:43 SWITCH “%HAL-6: AC 2 power supply powered off.\n*1970 Jan 01 00:00:49 SWITCH %HAL-6: AC 2 power supply powered on.\n*1970 Jan 01 00:00:58 SWITCH %HAL-6: AC 1 power supply powered off.\nSWITCH#show fan\nCurrent temperature: 45.0 C\nHigh ctrl level:\nTrigger: 90.0 C\nClear : 85.0 C\nFan ID Fan Speed Fan Status\n1 low Normal\n2 low Normal\nSWITCH#show power\nIndex Type (AC/DC/Battery) State\n1 AC Inactive\n2 AC Active",
+ "extracted_at": "2026-10-22T04:11:40Z"
+}

@@ -1,0 +1,21 @@
+{
+ "sha256_16": "3620d309f78ab377",
+ "name": "Web Info.MP4",
+ "ext": ".mp4",
+ "bytes": 7870967,
+ "method": "ffprobe+ffmpeg",
+ "status": "meta",
+ "meta": {
+  "duration_s": 50.8,
+  "width": 960,
+  "height": 540,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "creation_time": "2024-07-22T08:08:25.000000Z",
+  "thumb_bytes": 11520
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T04:18:10Z"
+}

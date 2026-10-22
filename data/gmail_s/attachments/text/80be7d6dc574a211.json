@@ -1,0 +1,19 @@
+{
+ "sha256_16": "80be7d6dc574a211",
+ "name": "confirmation.png",
+ "ext": ".png",
+ "bytes": 53423,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 981,
+  "height": 795,
+  "mode": "RGB",
+  "thumb_bytes": 9243
+ },
+ "warnings": [],
+ "chars": 157,
+ "text": "(人 Vi-Link\nFiber Optic Communications\nModel MC1000SC03\nFiber Optic Media Converter\n10/100/1000M Base-T To 1000M Base-LX SC Ethernet Conversion\n鸿 艺 -2026.9.20",
+ "extracted_at": "2026-10-22T04:10:26Z"
+}

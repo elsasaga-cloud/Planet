@@ -1,0 +1,19 @@
+{
+ "sha256_16": "1aab5cf65a1f21bc",
+ "name": "Page 100 of Web Manual.png",
+ "ext": ".png",
+ "bytes": 64913,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1366,
+  "height": 721,
+  "mode": "RGBA",
+  "thumb_bytes": 11234
+ },
+ "warnings": [],
+ "chars": 733,
+ "text": "5 Maintenance |\n5.1 System Configuration\nThe system configuration module provides host name settings, services of Telnet, SSH, HTTP, HTTPS, and\nmanagement IP setting.\n5.1.1 Host name settings\nSelect Maintenance > system configuration from the navigation area to enter the system configuration page,\nas shown in Figure 5-1. User can set the host name of the switch here.\nFigure 5-1 Management Information page\nSystem Configuration\nHostname: SWITCH\n5.1.2 Services Enable\nThe service management module provides the following types of services: FTP, Telnet, SS.\nand HTTPS. You can enable or disable the services as needed. In this way, the performance and sec\nsystem can be enhanced, thus secure management of the device can be achieved.",
+ "extracted_at": "2026-10-22T04:22:24Z"
+}

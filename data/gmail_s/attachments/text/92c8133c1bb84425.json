@@ -1,0 +1,19 @@
+{
+ "sha256_16": "92c8133c1bb84425",
+ "name": "WeTransfer Info.png",
+ "ext": ".png",
+ "bytes": 32063,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 927,
+  "height": 570,
+  "mode": "RGBA",
+  "thumb_bytes": 5556
+ },
+ "warnings": [],
+ "chars": 220,
+ "text": "https://we.tl/t-fR5... & Copy\nExpiration date @\nAugust 31, 2025 v\nTransfer is recoverable @\nPassword @\nSet password\nSent to 1 person\njames@clendenan.ca\nTotal downloads\n0\n©\nDownload\n1 file\nac5-hotfix-7.4.2.bin\n58 MB - bin",
+ "extracted_at": "2026-10-22T04:13:10Z"
+}

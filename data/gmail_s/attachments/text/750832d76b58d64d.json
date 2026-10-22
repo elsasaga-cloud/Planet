@@ -1,0 +1,19 @@
+{
+ "sha256_16": "750832d76b58d64d",
+ "name": "packing box design.png",
+ "ext": ".png",
+ "bytes": 59117,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 977,
+  "height": 839,
+  "mode": "RGBA",
+  "thumb_bytes": 10050
+ },
+ "warnings": [],
+ "chars": 123,
+ "text": "Console Cable\n串口 線\n127.0 一 一 一\n256.0 交换 机\n參考 B.BZ. 03. 033 导轨 电源 六 |\n25.04 :\nSwitch PWR\n36.5\n|\n358.0\n15.0\n92.0\nCn\nh 一 9 一\n口",
+ "extracted_at": "2026-10-22T04:15:03Z"
+}

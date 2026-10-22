@@ -1,0 +1,19 @@
+{
+ "sha256_16": "28234f866210208b",
+ "name": "customs.png",
+ "ext": ".png",
+ "bytes": 61027,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1346,
+  "height": 746,
+  "mode": "RGBA",
+  "thumb_bytes": 5512
+ },
+ "warnings": [],
+ "chars": 529,
+ "text": "FedEx? Tracking Track Another Shipment ”Local Scan Time \\\nDELIVERY DETAILS DELIVERY STATUS TRACKING ID\nWell add a delivery date as soon as Clearance Delay @ 776387684390 2 yy\nyour package starts moving. L Shipmentis 1 of 2 pieces\ne FROM\nKWAI CHONG NT, HK\nWant updates on this shipment? Enter your email and we will do the rest!\nLabel Created\nYOUR EMAIL SUBMIT 5/14/24 10:35 PM\nMORE OPTIONS Os TSUEN WAN HK\n5/16/24 6:27 PM\n0 CLEARANCE DELAY\nISTANBULTR\n5/18/24 3:21 PM\n品 ouTFoRDELIVERY\n品 To\nYENIMAHALLE, TR\n山 View travel history\nco",
+ "extracted_at": "2026-10-22T04:22:35Z"
+}

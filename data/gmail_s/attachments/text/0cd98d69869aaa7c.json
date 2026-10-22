@@ -1,0 +1,19 @@
+{
+ "sha256_16": "0cd98d69869aaa7c",
+ "name": "8296_image011(12-04-10-25-27).jpg",
+ "ext": ".jpg",
+ "bytes": 8296,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 624,
+  "height": 61,
+  "mode": "RGB",
+  "thumb_bytes": 3611
+ },
+ "warnings": [],
+ "chars": 52,
+ "text": "‘manhattan @INTELLINET\n*ee® products.com\nBO INTRACOM",
+ "extracted_at": "2026-10-22T04:14:13Z"
+}

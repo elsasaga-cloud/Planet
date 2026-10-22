@@ -1,0 +1,23 @@
+{
+ "sha256_16": "ff56fa2774bef21b",
+ "name": "MC Logos.vsd",
+ "ext": ".vsd",
+ "bytes": 503808,
+ "method": "soffice→pdf→pdfplumber",
+ "status": "ok",
+ "meta": {
+  "pages": 1,
+  "creator": "Draw",
+  "producer": "LibreOffice 24.2",
+  "creationdate": "D:20261022041607Z'",
+  "ocr_pages": 0,
+  "thumb_bytes": 11935
+ },
+ "warnings": [],
+ "chars": 191,
+ "text": "[p1]\nV\nL\nFiber Optic 10G Media Converter\nEthernet 10G Base-TX to Ethernet 10G SFP\nConversion\nVi-\nFiber Optic\nLink\nMC140\nCommunications\nModel:\n0\nVi-\nFiber Optic\nLink\nCommunications\nModel:MC10G",
+ "pages": [
+  "V\nL\nFiber Optic 10G Media Converter\nEthernet 10G Base-TX to Ethernet 10G SFP\nConversion\nVi-\nFiber Optic\nLink\nMC140\nCommunications\nModel:\n0\nVi-\nFiber Optic\nLink\nCommunications\nModel:MC10G"
+ ],
+ "extracted_at": "2026-10-22T04:16:07Z"
+}

@@ -1,0 +1,213 @@
+{
+ "sha256_16": "ee2876930390f379",
+ "name": "RFQ FOR TELECOM ITEMS.xlsx",
+ "ext": ".xlsx",
+ "bytes": 39148,
+ "method": "xlsx-raw-xml",
+ "status": "ok",
+ "meta": {
+  "sheets": [
+   "RFQ"
+  ],
+  "rows_total": 29
+ },
+ "warnings": [
+  "openpyxl 无法打开（样式表损坏等），按 zip 内 XML 直接读取：无格式/合并单元格信息",
+  "openpyxl: Unable to read workbook: could not read stylesheet from /tmp/att_z7cy4in3/RFQ_FOR_TELECOM_ITEMS.xlsx.\nThis is most probably because the workbook sourc"
+ ],
+ "chars": 2240,
+ "text": "=== 表：RFQ（29 行）===\nAAM INDUSTRIAL CONTRACTING EST.                                                                                                                                                                                                        \nDAMMAM, ALANOOD, KING SAUD, 32426\t\t\tDATE\t\t45083\nwww.aamindustrial.com\t\t\tREV #\t\t0\nPhone: 0133303631\t\t\tCUSTOMER ID\nC.R : 2053112692\t\t\t#\t\tAPPENDIX - A\nVAT NO : 310247074400003\nS.NO\tMATERIAL\tDESCRIPTION\tUNIT\tQTY\tREMARKS\n1\t\tAC to DC Converter: Din Rail Mount, Input Voltage 230 VAC, Output 24 VDC. Phoenix Contact: Power supply unit - UNO-PS/1AC/24DC/ 30W – 2902991\tEA\t6\n2\t\tAC to DC Converter: Din Rail Mount, Input Voltage 230 VAC, Output 48 VDC. Phoenix Contact: Power supply unit - UNO2-PS/1AC/48DC/240W – 1110155\tEA\t6\n3\t\tETHERNET CARD (11QCE12x) FOR NOKIA NODE \tEA\t5\n4\t\tHOFFMAN PENTAIR CABINET, WALL MOUNTED, DOUBLE-HINGED, UL AND NEMA TYPE 4X, SOLID DOOR STAINLESS STEEL, SUITABLE FOR MOUNTING 19\" RACK EQUIPMENT, WITH FRONT AND REAR ACCESS TO 19\" RACK-MOUNTED EQUIPMENT, WITH GROUNDING KITS. SIZE: 915H X 600W X 610D.  \tEA\t1\n5\t\tMOXA SFP, Wide Temperature (-40 to 85˚C), 1000BaseLH, 1550nm, LC Connector, 30km\tEA\t8\n6\t\tMOXA SFP, Wide Temperature (-40 to 85˚C), 1000BaseLHX, 1550nm, LC Connector, 40km \tEA\t9\n7\t\tMOXA SFP, Wide Temperature (-40 to 85˚C), 1000BaseLX, 1550nm, LC Connector, 10km\tEA\t6\n8\t\tMOXA SFP, Wide Temperature (-40 to 85˚C), 1000BaseZX, 1310nm, LC Connector, 80km\tEA\t21\n9\t\tSFP GBE  FOR ETHERNET CARD (11QCE12x) \tEA\t6\n10\t\tSFP GBE LH, 30K, FOR ETHERNET CARD (11QCE12x) \tEA\t6\n11\t\tSFP GBE LX, 10K, FOR ETHERNET CARD (11QCE12x) \tEA\t6\n12\t\tSFP GBE ZX, 80K, FOR ETHERNET CARD (11QCE12x) \tEA\t6\n13\t\tSINGLE MODE FIBER OPTIC PATCH CORD DUPLEX-SC-LC (1 METER), BELDEN\tEA\t162\n14\t\tSINGLE MODE FIBER OPTIC PATCH CORD DUPLEX-SC-LC (20 METER), BELDEN\tEA\t35\n15\t\tSINGLE MODE FIBER OPTIC PATCH CORD DUPLEX-SC-LC (3 METER), BELDEN\tEA\t37\n16\t\tSINGLE MODE FIBER OPTIC PATCH CORD DUPLEX-SC-SC (1 METER), BELDEN\tEA\t161\n17\t\tTrimm, GMT Fuse 1A, P/N: 0300097004\tEA\t82\n18\t\tTrimm, GMT Fuse 5A, P/N: 0300097009\tEA\t74\nPrepared by : \t\t\tApproved by: Abdulaziz almohsin\nIf you have any questions about this RFQ, please contact\nwasi akhtar,  0572012594 ,telecomlead@aamindustrial.com\nThank You For Your Business!",
+ "sheets": {
+  "RFQ": {
+   "state": "visible",
+   "rows": [
+    [
+     "AAM INDUSTRIAL CONTRACTING EST.                                                                                                                                                                                                        "
+    ],
+    [
+     "DAMMAM, ALANOOD, KING SAUD, 32426",
+     "",
+     "",
+     "DATE",
+     "",
+     "45083"
+    ],
+    [
+     "www.aamindustrial.com",
+     "",
+     "",
+     "REV #",
+     "",
+     "0"
+    ],
+    [
+     "Phone: 0133303631",
+     "",
+     "",
+     "CUSTOMER ID"
+    ],
+    [
+     "C.R : 2053112692",
+     "",
+     "",
+     "#",
+     "",
+     "APPENDIX - A"
+    ],
+    [
+     "VAT NO : 310247074400003"
+    ],
+    [
+     "S.NO",
+     "MATERIAL",
+     "DESCRIPTION",
+     "UNIT",
+     "QTY",
+     "REMARKS"
+    ],
+    [
+     "1",
+     "",
+     "AC to DC Converter: Din Rail Mount, Input Voltage 230 VAC, Output 24 VDC. Phoenix Contact: Power supply unit - UNO-PS/1AC/24DC/ 30W – 2902991",
+     "EA",
+     "6"
+    ],
+    [
+     "2",
+     "",
+     "AC to DC Converter: Din Rail Mount, Input Voltage 230 VAC, Output 48 VDC. Phoenix Contact: Power supply unit - UNO2-PS/1AC/48DC/240W – 1110155",
+     "EA",
+     "6"
+    ],
+    [
+     "3",
+     "",
+     "ETHERNET CARD (11QCE12x) FOR NOKIA NODE ",
+     "EA",
+     "5"
+    ],
+    [
+     "4",
+     "",
+     "HOFFMAN PENTAIR CABINET, WALL MOUNTED, DOUBLE-HINGED, UL AND NEMA TYPE 4X, SOLID DOOR STAINLESS STEEL, SUITABLE FOR MOUNTING 19\" RACK EQUIPMENT, WITH FRONT AND REAR ACCESS TO 19\" RACK-MOUNTED EQUIPMENT, WITH GROUNDING KITS. SIZE: 915H X 600W X 610D.  ",
+     "EA",
+     "1"
+    ],
+    [
+     "5",
+     "",
+     "MOXA SFP, Wide Temperature (-40 to 85˚C), 1000BaseLH, 1550nm, LC Connector, 30km",
+     "EA",
+     "8"
+    ],
+    [
+     "6",
+     "",
+     "MOXA SFP, Wide Temperature (-40 to 85˚C), 1000BaseLHX, 1550nm, LC Connector, 40km ",
+     "EA",
+     "9"
+    ],
+    [
+     "7",
+     "",
+     "MOXA SFP, Wide Temperature (-40 to 85˚C), 1000BaseLX, 1550nm, LC Connector, 10km",
+     "EA",
+     "6"
+    ],
+    [
+     "8",
+     "",
+     "MOXA SFP, Wide Temperature (-40 to 85˚C), 1000BaseZX, 1310nm, LC Connector, 80km",
+     "EA",
+     "21"
+    ],
+    [
+     "9",
+     "",
+     "SFP GBE  FOR ETHERNET CARD (11QCE12x) ",
+     "EA",
+     "6"
+    ],
+    [
+     "10",
+     "",
+     "SFP GBE LH, 30K, FOR ETHERNET CARD (11QCE12x) ",
+     "EA",
+     "6"
+    ],
+    [
+     "11",
+     "",
+     "SFP GBE LX, 10K, FOR ETHERNET CARD (11QCE12x) ",
+     "EA",
+     "6"
+    ],
+    [
+     "12",
+     "",
+     "SFP GBE ZX, 80K, FOR ETHERNET CARD (11QCE12x) ",
+     "EA",
+     "6"
+    ],
+    [
+     "13",
+     "",
+     "SINGLE MODE FIBER OPTIC PATCH CORD DUPLEX-SC-LC (1 METER), BELDEN",
+     "EA",
+     "162"
+    ],
+    [
+     "14",
+     "",
+     "SINGLE MODE FIBER OPTIC PATCH CORD DUPLEX-SC-LC (20 METER), BELDEN",
+     "EA",
+     "35"
+    ],
+    [
+     "15",
+     "",
+     "SINGLE MODE FIBER OPTIC PATCH CORD DUPLEX-SC-LC (3 METER), BELDEN",
+     "EA",
+     "37"
+    ],
+    [
+     "16",
+     "",
+     "SINGLE MODE FIBER OPTIC PATCH CORD DUPLEX-SC-SC (1 METER), BELDEN",
+     "EA",
+     "161"
+    ],
+    [
+     "17",
+     "",
+     "Trimm, GMT Fuse 1A, P/N: 0300097004",
+     "EA",
+     "82"
+    ],
+    [
+     "18",
+     "",
+     "Trimm, GMT Fuse 5A, P/N: 0300097009",
+     "EA",
+     "74"
+    ],
+    [
+     "Prepared by : ",
+     "",
+     "",
+     "Approved by: Abdulaziz almohsin"
+    ],
+    [
+     "If you have any questions about this RFQ, please contact"
+    ],
+    [
+     "wasi akhtar,  0572012594 ,telecomlead@aamindustrial.com"
+    ],
+    [
+     "Thank You For Your Business!"
+    ]
+   ]
+  }
+ },
+ "extracted_at": "2026-10-22T04:24:02Z"
+}

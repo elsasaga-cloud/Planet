@@ -1,0 +1,19 @@
+{
+ "sha256_16": "3e39e8419d70c7b6",
+ "name": "image012.png",
+ "ext": ".png",
+ "bytes": 15001,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 312,
+  "height": 58,
+  "mode": "RGBA",
+  "thumb_bytes": 4018
+ },
+ "warnings": [],
+ "chars": 31,
+ "text": "Sb A AP 一 | yl\nAL RAJHI TELECOM",
+ "extracted_at": "2026-10-22T04:18:13Z"
+}

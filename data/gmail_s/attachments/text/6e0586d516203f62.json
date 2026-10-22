@@ -1,0 +1,21 @@
+{
+ "sha256_16": "6e0586d516203f62",
+ "name": "0000-radio_logo_3.jpg",
+ "ext": ".jpg",
+ "bytes": 25663,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 394,
+  "height": 78,
+  "mode": "RGB",
+  "datetime": "2015:10:13 04:38:13",
+  "software": "ACDSee Pro 7",
+  "thumb_bytes": 6604
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T04:18:52Z"
+}

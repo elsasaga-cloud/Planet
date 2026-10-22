@@ -1,0 +1,19 @@
+{
+ "sha256_16": "4c183d6b25e9b636",
+ "name": "fan.jpg",
+ "ext": ".jpg",
+ "bytes": 46370,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 852,
+  "height": 1136,
+  "mode": "RGB",
+  "thumb_bytes": 8215
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T04:19:50Z"
+}

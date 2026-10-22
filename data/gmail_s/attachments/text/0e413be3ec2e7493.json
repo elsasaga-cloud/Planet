@@ -1,0 +1,19 @@
+{
+ "sha256_16": "0e413be3ec2e7493",
+ "name": "System Diagram.jpg",
+ "ext": ".jpg",
+ "bytes": 76369,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 1125,
+  "height": 439,
+  "mode": "RGB",
+  "thumb_bytes": 4785
+ },
+ "warnings": [],
+ "chars": 462,
+ "text": "CC Emergency Access\nIP Camera_| | Telephone Point\nCat 6 cone Cat 6\nMain 4or 5 ports Industrial 4or 5 ports Industrial 4 or 5 ports Industrial\n8 ports Ethernet Unmanage Switch with Unmanage Switch with Unmanage Switch with |\nSwitch PoE PoE PoE\n1 Core Single Mode 1 Core Single Mode 1 Core Single Mode 1 Core Single Mode\nFiber Optic -Daisy\nChain Connection\nFiber Optic -Daisy\nChain Connection\nFiber Optic -Daisy\nChain Connection\nFiber Optic -Daisy\nChain Connection",
+ "extracted_at": "2026-10-22T04:20:46Z"
+}

@@ -1,0 +1,19 @@
+{
+ "sha256_16": "1a49ce837047c6ff",
+ "name": "TT-kart-v1.jpeg",
+ "ext": ".jpeg",
+ "bytes": 20085,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 320,
+  "height": 164,
+  "mode": "RGB",
+  "thumb_bytes": 9859
+ },
+ "warnings": [],
+ "chars": 20,
+ "text": "| 13 o@ Do\nie im.\n@@",
+ "extracted_at": "2026-10-22T04:14:10Z"
+}

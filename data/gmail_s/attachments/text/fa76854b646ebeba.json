@@ -1,0 +1,19 @@
+{
+ "sha256_16": "fa76854b646ebeba",
+ "name": "YWC7GH3019VK.heic",
+ "ext": ".heic",
+ "bytes": 82984,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "HEIF",
+  "width": 1241,
+  "height": 1755,
+  "mode": "RGB",
+  "thumb_bytes": 12640
+ },
+ "warnings": [],
+ "chars": 841,
+ "text": "A Norton\nNRT 8614 5932 4701 8095 is Your Renewal Key!\nInvoice Number: NRT56235574 Support: +1 (808) 810-2099\nDear, User !\nYour Norton LifeLock activation is complete. We are currently reviewing the\npayment status of your invoice.\nShould you wish to proceed, please get in touch with our billing team. We look\nforward to helping you.\n-= :Product Description: --------------\nProduct Name Norton LifeLock For Home and Office\nAmount 508.99 USD\nPayment Method Auto-debit\nDate March 7, 2025\nOrder ID NRT3KJXZQMTLV\nNotes: Our billing support team is available during office hours to answer any questions or confirm\nfeature details.\nCustomer Service: +1 (808) 810-2099\nTerms and Conditions: Upon deactivation, this membership will remain active for 24 hours before\nrenewing for another three years.\n© 2025-2026 Norton Life-Lock - All Rights Reserved",
+ "extracted_at": "2026-10-22T04:14:41Z"
+}

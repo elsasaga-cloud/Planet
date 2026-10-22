@@ -1,0 +1,19 @@
+{
+ "sha256_16": "5f20b8c98bb2882f",
+ "name": "0.png",
+ "ext": ".png",
+ "bytes": 16093,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 600,
+  "height": 136,
+  "mode": "RGB",
+  "thumb_bytes": 4480
+ },
+ "warnings": [],
+ "chars": 128,
+ "text": "EMPOWERDEX a\n4 First Technology 全\nrst lec GENERIC LEVEL 1 CONTRIBUTOR\n51% BLACK OWNED AND 30% BLACK WOMEN OWNED\naan\nsttech.co.za",
+ "extracted_at": "2026-10-22T04:20:48Z"
+}

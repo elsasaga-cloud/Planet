@@ -1,0 +1,19 @@
+{
+ "sha256_16": "11390001764a416a",
+ "name": "image005.png",
+ "ext": ".png",
+ "bytes": 68997,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 705,
+  "height": 510,
+  "mode": "RGBA",
+  "thumb_bytes": 11432
+ },
+ "warnings": [],
+ "chars": 506,
+ "text": "1080P Bulb IP Camera with Al Detection, Human Tracking, 355-\ndegree Pan/Tilt, Color Night Vision, Two-Way Audio, Instant Alerts, Clou\n4.8 weewe 95 Ratings | 1.5k Sold @ Report\n$16.90 - $17.99 s24.00-s26.96 2%\nShop Vouchers $24 OFF\nShipping > Guaranteed to get by 18 Mar-21 Mar >\nFree shipping\nGet a $1.00 voucher if your order arrives late.\nShopping\nGuarantee © 15-Day Free Returns Fulfilled by Shopee . Everyday Low Prices : Free Shi... ~\nSilent 3 2.46 Camera 3 2.4G&5G Camera\nQuantity 32 pieces available",
+ "extracted_at": "2026-10-22T04:12:10Z"
+}

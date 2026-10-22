@@ -1,0 +1,19 @@
+{
+ "sha256_16": "a09a1e521e39b24c",
+ "name": "image003.jpg",
+ "ext": ".jpg",
+ "bytes": 17812,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 453,
+  "height": 453,
+  "mode": "RGB",
+  "thumb_bytes": 9818
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T04:21:23Z"
+}

@@ -4,8 +4,9 @@
   "own_emails": [
    "s.sagatelecom@gmail.com"
   ],
-  "created": "2026-10-22T03:32:17Z",
-  "release_tag": "gmail-s-20261022"
+  "created": "2026-10-22T04:07:17Z",
+  "release_tag": "gmail-s-20261022",
+  "force_rebuilt_at": "2026-10-22T04:07:17Z"
  },
  "sources": [
   {
@@ -27,7 +28,7 @@
    "All_mail_Including_Spam_and_Trash-002.mbox",
    "takeout-20261021T123952Z-1-001.zip"
   ],
-  "started": "2026-10-22T03:34:39Z",
+  "started": "2026-10-22T04:09:03Z",
   "offset": 6478214703,
   "messages": 13583,
   "done": true,
@@ -37,43 +38,43 @@
   ],
   "total_bytes": 6478214703,
   "starts_with_separator": true,
-  "ended": "2026-10-22T04:05:32Z"
+  "ended": "2026-10-22T04:24:30Z"
  },
  "shards": {
-  "messages/2026/2026-10.jsonl": 1674988,
-  "messages/2026/2026-09.jsonl": 929929,
-  "messages/2026/2026-08.jsonl": 56292,
+  "messages/2026/2026-10.jsonl": 1675015,
+  "messages/2026/2026-09.jsonl": 929923,
+  "messages/2026/2026-08.jsonl": 56289,
   "messages/2026/2026-06.jsonl": 72038,
-  "messages/2026/2026-07.jsonl": 67170,
+  "messages/2026/2026-07.jsonl": 67113,
   "messages/2026/2026-02.jsonl": 46179,
-  "messages/2025/2025-12.jsonl": 364974,
+  "messages/2025/2025-12.jsonl": 364947,
   "messages/2026/2026-01.jsonl": 110582,
   "messages/2026/2026-03.jsonl": 33203,
-  "messages/2025/2025-10.jsonl": 174650,
-  "messages/2025/2025-11.jsonl": 321054,
-  "messages/2025/2025-09.jsonl": 128025,
+  "messages/2025/2025-10.jsonl": 174641,
+  "messages/2025/2025-11.jsonl": 321030,
+  "messages/2025/2025-09.jsonl": 128019,
   "messages/2026/2026-04.jsonl": 42154,
-  "messages/2025/2025-06.jsonl": 321176,
-  "messages/2025/2025-07.jsonl": 174651,
-  "messages/2025/2025-04.jsonl": 400707,
-  "messages/2025/2025-03.jsonl": 624122,
-  "messages/2024/2024-09.jsonl": 1911350,
-  "messages/2025/2025-08.jsonl": 59492,
-  "messages/2025/2025-02.jsonl": 416371,
-  "messages/2025/2025-01.jsonl": 1762813,
-  "messages/2024/2024-11.jsonl": 2258501,
-  "messages/2024/2024-12.jsonl": 2042165,
-  "messages/2024/2024-10.jsonl": 1532610,
-  "messages/2024/2024-06.jsonl": 1946914,
-  "messages/2024/2024-05.jsonl": 1595775,
-  "messages/2024/2024-04.jsonl": 933009,
-  "messages/2024/2024-03.jsonl": 164908,
-  "messages/2024/2024-02.jsonl": 161540,
-  "messages/2024/2024-01.jsonl": 154066,
+  "messages/2025/2025-06.jsonl": 321159,
+  "messages/2025/2025-07.jsonl": 174609,
+  "messages/2025/2025-04.jsonl": 400671,
+  "messages/2025/2025-03.jsonl": 624090,
+  "messages/2024/2024-09.jsonl": 1910633,
+  "messages/2025/2025-08.jsonl": 59489,
+  "messages/2025/2025-02.jsonl": 416433,
+  "messages/2025/2025-01.jsonl": 1763001,
+  "messages/2024/2024-11.jsonl": 2258809,
+  "messages/2024/2024-12.jsonl": 2041922,
+  "messages/2024/2024-10.jsonl": 1534147,
+  "messages/2024/2024-06.jsonl": 1946582,
+  "messages/2024/2024-05.jsonl": 1595517,
+  "messages/2024/2024-04.jsonl": 932881,
+  "messages/2024/2024-03.jsonl": 164899,
+  "messages/2024/2024-02.jsonl": 161522,
+  "messages/2024/2024-01.jsonl": 154060,
   "messages/2023/2023-12.jsonl": 121930,
-  "messages/2025/2025-05.jsonl": 282224,
-  "messages/2024/2024-08.jsonl": 2418084,
-  "messages/2024/2024-07.jsonl": 2668336,
+  "messages/2025/2025-05.jsonl": 282217,
+  "messages/2024/2024-08.jsonl": 2417017,
+  "messages/2024/2024-07.jsonl": 2668422,
   "messages/2023/2023-11.jsonl": 75664,
   "messages/2023/2023-08.jsonl": 219096,
   "messages/2023/2023-07.jsonl": 14465,
@@ -144,14 +145,14 @@
    "stopped_early": false
   },
   {
-   "started": "2026-10-22T04:02:09Z",
+   "started": "2026-10-22T04:07:17Z",
    "limit": 0,
    "bulk_mode": "full",
    "attach": true,
    "ocr": true,
    "more_batches": false,
-   "ended": "2026-10-22T04:05:33Z",
-   "messages_this_run": 0,
+   "ended": "2026-10-22T04:24:33Z",
+   "messages_this_run": 13583,
    "stopped_early": false
   }
  ],
@@ -163,7 +164,7 @@
     "All_mail_Including_Spam_and_Trash-002.mbox",
     "takeout-20261021T123952Z-1-001.zip"
    ],
-   "started": "2026-10-22T03:34:39Z",
+   "started": "2026-10-22T04:09:03Z",
    "offset": 6478214703,
    "messages": 13583,
    "done": true,
@@ -173,7 +174,7 @@
    ],
    "total_bytes": 6478214703,
    "starts_with_separator": true,
-   "ended": "2026-10-22T04:05:32Z"
+   "ended": "2026-10-22T04:24:30Z"
   }
  ],
  "stats": {
@@ -188,10 +189,10 @@
   "attachments": 13460,
   "text_chars": 15951998,
   "att_unique": 760,
-  "att_ok": 445,
-  "att_fail": 1,
-  "att_skip": 220,
-  "att_chars": 8159020,
+  "att_ok": 528,
+  "att_fail": 0,
+  "att_skip": 96,
+  "att_chars": 8179670,
   "clients": 1669
  }
 }

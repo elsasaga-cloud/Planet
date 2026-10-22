@@ -1,0 +1,19 @@
+{
+ "sha256_16": "b19337d5c556ffd4",
+ "name": "Vi-Link Logo EN2440.jpg",
+ "ext": ".jpg",
+ "bytes": 41078,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 641,
+  "height": 421,
+  "mode": "RGB",
+  "thumb_bytes": 5855
+ },
+ "warnings": [],
+ "chars": 51,
+ "text": "Vi-Link\n24 Ports Fiber Ethernet Switch\nModel EN2440",
+ "extracted_at": "2026-10-22T04:19:18Z"
+}

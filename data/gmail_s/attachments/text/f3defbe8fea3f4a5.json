@@ -1,0 +1,19 @@
+{
+ "sha256_16": "f3defbe8fea3f4a5",
+ "name": "log in problem.png",
+ "ext": ".png",
+ "bytes": 40092,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 583,
+  "height": 797,
+  "mode": "RGBA",
+  "thumb_bytes": 9569
+ },
+ "warnings": [],
+ "chars": 170,
+ "text": "Please Log In on Shopee APP\nSorry, something went wrong. To continue\naccessing Shopee, please download and log in on\nthe Shopee APP.\n@ AppStore > Google Play\n© Appeallery",
+ "extracted_at": "2026-10-22T04:12:06Z"
+}

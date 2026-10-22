@@ -15,5 +15,5 @@
  "warnings": [],
  "chars": 1094,
  "text": "3.2.Configuring\n3.3.Examples\n3.4.Display information\n4.Configuring SPAN\n4.1 Overview of SPAN\n42.Configuring\n43.Examples\n4A Display information\n5.Configuring Port Aggregation\n5.1.Overview of Port Aggregati...\n5.2.Overview of LACP\n5.3.Configuring\n5.4.Examples\n5.5.Display information\niguring PoE\n6.1.Overview of PoE\n6.2.Configuring\n64.Display Information\nRE\nCommand | SWITCH (config-ib#poe enable\nSs ‘CH (config-if)#no poe enable\nefault port power supply enabled.\nEnabling Powersupply Legacy Mode\nCommand | SWITCH (config)#poe legacy\nSWITCH (config)#no poe legacy\nDescriptio | Using this command on a port that is not connected to a PD device may c\nn the peer device to be bumed by wrong power-on. Please make sure that tl\nuses this command when connecting to a PD device.\n6.3. Examples\nExample 1: Enable interface gigabitEthemet0/1 powersupply.\nSWITCH(config)#interface gigabitEthemet0/1\nSWITCH(config-if)#poe enable\n6.4. Display Information\n@ “ Display System Powersupply Information\nSWITCH#showpoe powersupply\nPower supply : 123.2W\nPower consume :44.1W\nPower management : energy-saving\na: 4 al",
- "extracted_at": "2026-10-22T03:48:17Z"
+ "extracted_at": "2026-10-22T04:19:49Z"
 }

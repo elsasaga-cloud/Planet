@@ -1,0 +1,20 @@
+{
+ "sha256_16": "784ec80f99f2799f",
+ "name": "Single Box.mp4",
+ "ext": ".mp4",
+ "bytes": 5248299,
+ "method": "ffprobe+ffmpeg",
+ "status": "meta",
+ "meta": {
+  "duration_s": 28.2,
+  "width": 544,
+  "height": 960,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "thumb_bytes": 18347
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T04:21:28Z"
+}

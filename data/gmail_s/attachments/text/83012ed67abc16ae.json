@@ -1,0 +1,19 @@
+{
+ "sha256_16": "83012ed67abc16ae",
+ "name": "dhcpserver.png",
+ "ext": ".png",
+ "bytes": 29993,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1838,
+  "height": 68,
+  "mode": "RGBA",
+  "thumb_bytes": 1649
+ },
+ "warnings": [],
+ "chars": 178,
+ "text": "CNX-LAB-1-24-PA(config)#ip dhcp-server enable\n%Error: The DHCP server failed to start(ret=256), please check your configuration! For more details, use show ip dhcp-server status!",
+ "extracted_at": "2026-10-22T04:22:20Z"
+}

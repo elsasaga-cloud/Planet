@@ -1,0 +1,19 @@
+{
+ "sha256_16": "b8b0dff1b0ea4d03",
+ "name": "Steps for upgrading.png",
+ "ext": ".png",
+ "bytes": 33187,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1647,
+  "height": 635,
+  "mode": "RGBA",
+  "thumb_bytes": 3546
+ },
+ "warnings": [],
+ "chars": 261,
+ "text": "oeview File Management\nBasic Information\nLog:\nConfig: 144/11924 KByt\nRootfs: TS\n——_\n.\n區\nClean:\nImage Management Configuration Management Certificate Management Page Package Management Data Management 3\nUpgrade package\nClick or drag file to this area to upload 4",
+ "extracted_at": "2026-10-22T04:14:28Z"
+}

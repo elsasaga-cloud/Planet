@@ -1,0 +1,19 @@
+{
+ "sha256_16": "0791d2297f9b7de9",
+ "name": "Before log-in.png",
+ "ext": ".png",
+ "bytes": 28076,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 2133,
+  "height": 1175,
+  "mode": "RGBA",
+  "thumb_bytes": 2063
+ },
+ "warnings": [],
+ "chars": 46,
+ "text": "TT-2208-TG\nManaged Ethernet Switch\nLogin Clear",
+ "extracted_at": "2026-10-22T04:15:19Z"
+}

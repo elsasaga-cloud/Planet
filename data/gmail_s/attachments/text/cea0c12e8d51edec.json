@@ -1,0 +1,19 @@
+{
+ "sha256_16": "cea0c12e8d51edec",
+ "name": "Black TRONX.psd",
+ "ext": ".psd",
+ "bytes": 89340,
+ "method": "pillow(psd composite)",
+ "status": "meta",
+ "meta": {
+  "format": "PSD",
+  "width": 480,
+  "height": 480,
+  "mode": "RGBA",
+  "thumb_bytes": 2020
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T04:14:11Z"
+}

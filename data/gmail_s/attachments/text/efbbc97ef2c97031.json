@@ -1,0 +1,19 @@
+{
+ "sha256_16": "efbbc97ef2c97031",
+ "name": "Confirmation.png",
+ "ext": ".png",
+ "bytes": 52619,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1113,
+  "height": 540,
+  "mode": "RGBA",
+  "thumb_bytes": 7989
+ },
+ "warnings": [],
+ "chars": 128,
+ "text": "Logo, right?\nVi-Link\nFiber Optic Communicationy\n一 一 一 24 Ports Fiber Ethernet Switch\nModel EN2440\nproduct description\nmodel name",
+ "extracted_at": "2026-10-22T04:19:13Z"
+}

@@ -1,0 +1,19 @@
+{
+ "sha256_16": "c5eb2d9f3472a049",
+ "name": "s-l1200.webp",
+ "ext": ".webp",
+ "bytes": 19412,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "WEBP",
+  "width": 1024,
+  "height": 768,
+  "mode": "RGB",
+  "thumb_bytes": 5308
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T04:21:21Z"
+}

@@ -1,0 +1,19 @@
+{
+ "sha256_16": "d99260d806d6b2d6",
+ "name": "image002.png",
+ "ext": ".png",
+ "bytes": 56865,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 200,
+  "height": 226,
+  "mode": "RGBA",
+  "thumb_bytes": 6639
+ },
+ "warnings": [],
+ "chars": 29,
+ "text": "ORLY\nOCHRONY\nLAUREAT KONKURSU",
+ "extracted_at": "2026-10-22T04:11:46Z"
+}

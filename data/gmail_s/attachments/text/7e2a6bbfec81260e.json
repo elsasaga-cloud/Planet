@@ -15,5 +15,5 @@
  "warnings": [],
  "chars": 288,
  "text": "Overview\nFile Management\n<= Maintenance v / System Configuration\nDHCP Snooping Configuration System Configuration <\nHost name: CNX-LAB-1-24-PA\nService: Telnet\nSSH HTTP HTTPS\nV Apply fi Reset\nwarning\n<188>*1970 J\n24-PA %NETD\n70b3.d582.22\ninterface gigak\ngigabitEtherne\nwarning\n<188>*1970 J",
- "extracted_at": "2026-10-22T03:50:52Z"
+ "extracted_at": "2026-10-22T04:22:09Z"
 }

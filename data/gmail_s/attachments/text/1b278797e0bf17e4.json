@@ -1,0 +1,24 @@
+{
+ "sha256_16": "1b278797e0bf17e4",
+ "name": "ANGORA LOGO2.ai",
+ "ext": ".ai",
+ "bytes": 1131472,
+ "method": "ai-as-pdf→pdfplumber+OCR(0p)",
+ "status": "meta",
+ "meta": {
+  "pages": 1,
+  "title": "ANGORA LOGO2",
+  "creator": "Adobe Illustrator CS6 (Macintosh)",
+  "producer": "Adobe PDF library 10.01",
+  "creationdate": "D:20161220110027+03'00'",
+  "moddate": "D:20161221093705+03'00'",
+  "ocr_pages": 0
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "pages": [
+  ""
+ ],
+ "extracted_at": "2026-10-22T04:17:56Z"
+}

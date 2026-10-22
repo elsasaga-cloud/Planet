@@ -1,0 +1,19 @@
+{
+ "sha256_16": "c7b9db92611d3970",
+ "name": "shver.png",
+ "ext": ".png",
+ "bytes": 45223,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1082,
+  "height": 162,
+  "mode": "RGBA",
+  "thumb_bytes": 5198
+ },
+ "warnings": [],
+ "chars": 229,
+ "text": "CNX-LAB-1-24-PA#sh ver\nSoftware Version: release/7.1.@ (r957 74ad5d5)\nRelease Date: 2024-04-23 18:47:10\nSystem MAC Address: fc:cd:2f:d0:3c:9f\nPID: ANW-3124-PX, Hardware Version: V1.4, Serial Number: 20240509003\nCNX-LAB-1-24-PA#§]",
+ "extracted_at": "2026-10-22T04:22:15Z"
+}

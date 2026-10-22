@@ -1,0 +1,19 @@
+{
+ "sha256_16": "eb38f8ef4cce4af5",
+ "name": "Google drive.png",
+ "ext": ".png",
+ "bytes": 48697,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 594,
+  "height": 595,
+  "mode": "RGBA",
+  "thumb_bytes": 14018
+ },
+ "warnings": [],
+ "chars": 355,
+ "text": "Share \"Turkey Levent\"\nQO 8\nAdd people, groups, and calendar events\nPeople with access\nSimon (Saga Telecom) (you)\nSAGA ;\ns.sagatelecom@gmail.com\n© |kilic@angoranetworks.com\nIkilic@angoranetworks.com\n「 tesen@angoranetworks.com\ntesen@angoranetworks.com\nGeneral access\nRestricted w\nOnly people with access can open with the link\ncD Copy link\nEditor w\nEditor w",
+ "extracted_at": "2026-10-22T04:22:42Z"
+}

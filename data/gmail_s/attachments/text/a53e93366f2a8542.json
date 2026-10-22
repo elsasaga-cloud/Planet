@@ -1,0 +1,19 @@
+{
+ "sha256_16": "a53e93366f2a8542",
+ "name": "image001.jpg",
+ "ext": ".jpg",
+ "bytes": 14999,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 936,
+  "height": 92,
+  "mode": "RGB",
+  "thumb_bytes": 3685
+ },
+ "warnings": [],
+ "chars": 76,
+ "text": ":manhattan | DOINTELLINET\n“ee®products.com | ~ “frwore sorurions\n§@ INTRAGDM",
+ "extracted_at": "2026-10-22T04:19:19Z"
+}

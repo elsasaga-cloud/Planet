@@ -1,0 +1,19 @@
+{
+ "sha256_16": "3aa1b0a57fff7ff3",
+ "name": "image002.png",
+ "ext": ".png",
+ "bytes": 63090,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 431,
+  "height": 99,
+  "mode": "RGBA",
+  "thumb_bytes": 6345
+ },
+ "warnings": [],
+ "chars": 94,
+ "text": "Eswrcncom 了 SO\nOur |luaweieKit products are selling fast, act now!\n3 Year Swop- Out Warranty |",
+ "extracted_at": "2026-10-22T04:16:35Z"
+}

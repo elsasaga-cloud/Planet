@@ -1,0 +1,19 @@
+{
+ "sha256_16": "1b6b60fbf829e7be",
+ "name": "Vi-Link  EN2440.jpg",
+ "ext": ".jpg",
+ "bytes": 28296,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 325,
+  "height": 122,
+  "mode": "RGB",
+  "thumb_bytes": 7337
+ },
+ "warnings": [],
+ "chars": 48,
+ "text": "VI-LInk\nFiber Optic Communications\nModel: EN2440",
+ "extracted_at": "2026-10-22T04:19:15Z"
+}

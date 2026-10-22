@@ -12,5 +12,5 @@
  "warnings": [],
  "chars": 566,
  "text": "[startup.conf]\ntelnet-server enable\nweb-server enable\nmanagement vlan 1 ip address 192.168.56.166/24 gateway 192.168.56.1\n\n\n\n[startup.def]\ntelnet-server enable\nweb-server enable\nmanagement vlan 1 ip address 192.168.56.166/24 gateway 192.168.56.1\n\n\n[customize/config]\n//version=\"1.0\";\ncontact=\"\";\nlocation=\"\";\nvendor_oid=0;\nproduct_name=\"TT-2116-PG\";\n\n\n\n[customize/www/sysconf.json]\n{\n  \"login_page_help\": \"one of ['lt', 'logo', 'nologo']\",\n  \"login_page\": \"logo\",\n  \"data_upgrade\":true,\n  \"langs\": [\n    {\n      \"name\": \"English\",\n      \"value\": \"en_US\"\n    }\n  ]\n}\n",
- "extracted_at": "2026-10-22T03:43:45Z"
+ "extracted_at": "2026-10-22T04:14:25Z"
 }

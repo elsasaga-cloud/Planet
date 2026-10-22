@@ -1,0 +1,19 @@
+{
+ "sha256_16": "87cc4030186e1c67",
+ "name": "image002.jpg",
+ "ext": ".jpg",
+ "bytes": 10988,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 112,
+  "height": 93,
+  "mode": "RGB",
+  "thumb_bytes": 2635
+ },
+ "warnings": [],
+ "chars": 37,
+ "text": "ta\nTRADEKEY’\nYour Key To Global Trace",
+ "extracted_at": "2026-10-22T04:24:00Z"
+}

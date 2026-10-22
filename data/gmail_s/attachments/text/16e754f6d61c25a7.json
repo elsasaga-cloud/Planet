@@ -15,5 +15,5 @@
  "warnings": [],
  "chars": 278,
  "text": "1 Lek m4:~ $ snmpget -v 3 -u tt-user -~L authPriv -a SHA -A privpass -x AES -X encrpass 192.168.255.30 1.3.6.1.2.1.1.4.0\nnmpget : Unknown user name\n’ k m4:~ $ snmpget -v 2c -ctt-test 192.168.255.3@ 1.3.6.1.2.1.1.4.0\n'$0.3.6.1.2.1.1.4.0 = ae \"tt-test@turktelekom.com.tr\"\n’ m4:~ $",
- "extracted_at": "2026-10-22T03:42:40Z"
+ "extracted_at": "2026-10-22T04:13:16Z"
 }

@@ -1,0 +1,19 @@
+{
+ "sha256_16": "5c11d51448d889b0",
+ "name": "1718243624067.jpg",
+ "ext": ".jpg",
+ "bytes": 61683,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1243,
+  "height": 474,
+  "mode": "RGBA",
+  "thumb_bytes": 6787
+ },
+ "warnings": [],
+ "chars": 457,
+ "text": "Elkin Hernan Valdiviezo Tonato <elkin.valdiviezo@unach.edu.ec> Wed, Jun 12, 11:37PM (10 hours ago)\nto Elkin +\nFrom: Elkin Hernan Valdiviezo Tonato <elkin.valdiviezo@unach.edu.ec>\nDate: Wednesday, June 12, 2024 at 4:16 PM\nTo: \"mrsnikkifenton95@gmail.com\" <mrsnikkifenton95@gmail.com>\nCe: \"mrsnikkifenton95@gmail.com\" <mrsnikkifenton95@gmail.com>\nSubject: Re: proposal\ncan you be trustéd you ? if yés contact via my private email: mrsnikkifenton95@gmail.com\nw",
+ "extracted_at": "2026-10-22T04:23:59Z"
+}

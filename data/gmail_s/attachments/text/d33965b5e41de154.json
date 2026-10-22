@@ -1,0 +1,19 @@
+{
+ "sha256_16": "d33965b5e41de154",
+ "name": "Shipping status.png",
+ "ext": ".png",
+ "bytes": 27430,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 428,
+  "height": 470,
+  "mode": "RGBA",
+  "thumb_bytes": 16735
+ },
+ "warnings": [],
+ "chars": 462,
+ "text": "有 Germany, 德国\n加 跟踪 号 : 1Z144AW70425087646\n2025-01-05 19:53:00\n[Koeln, DE]Warehouse Scan\n®@ 2025-01-05 19:49:00\n[Koeln, DE]Import Scan\n@ 2025-0T- “40:00\n[Koeln, DEjArived at Facility\n®@ 2025-01-05 15:10:00\n[Sharjah, AE]Departed from Facility\n®@ 2025-01-05 10:24:00\n[Sharjah, AEJArrived at Facility\n®@ 2025-01-05 05:28:00\n[Shenzhen, CN]Departed from Facility\n@@ 2025-01-05 00:09:00\n[Shenzhen, CN]Export Scan\n@@ 2025-01-05 00:01:00\n[Shenzhen, CN]Arrived at Facility",
+ "extracted_at": "2026-10-22T04:15:51Z"
+}

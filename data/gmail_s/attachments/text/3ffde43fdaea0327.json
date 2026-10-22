@@ -1,0 +1,19 @@
+{
+ "sha256_16": "3ffde43fdaea0327",
+ "name": "upload steps.png",
+ "ext": ".png",
+ "bytes": 41600,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1466,
+  "height": 685,
+  "mode": "RGB",
+  "thumb_bytes": 4139
+ },
+ "warnings": [],
+ "chars": 251,
+ "text": "Basic Information\nImage Management\nRoot ”ae 0/210780 KBy\nLog: em 48624 KBytes\nConfig: « 64/11924 KBytes\nClean: 器\nConfiguration Management Certificate Management Page Package Management Data Management\nUpgrade package |\nciceordragfietothisareato 作 ioad",
+ "extracted_at": "2026-10-22T04:11:21Z"
+}

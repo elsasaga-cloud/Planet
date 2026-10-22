@@ -1,0 +1,19 @@
+{
+ "sha256_16": "ea19ea3b4200a03c",
+ "name": "garbled text.png",
+ "ext": ".png",
+ "bytes": 34024,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "PNG",
+  "width": 1294,
+  "height": 476,
+  "mode": "RGBA",
+  "thumb_bytes": 4479
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T04:19:50Z"
+}

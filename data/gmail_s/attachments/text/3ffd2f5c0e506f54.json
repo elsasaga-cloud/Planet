@@ -9,5 +9,5 @@
  "warnings": [],
  "chars": 1005,
  "text": "Hi, Frank,\r\nPlease check this google drive link, there are many other models available.\r\n\r\nhttps://drive.google.com/drive/folders/1PKhmEboNZkl105nBUotOBcTBrH9qX6EU?usp=drive_link\r\n\r\nIf you need to check more models like managed switches, please let me know.\r\n\r\nFor the model in discussion, it is STI-154GP.\r\n1. It is unmanaged, Marvell chip\r\n2. Max 30W output per port, that will be 120W total budget3.  For 250-meter PoE distance, it is OK, but in this situation, the ETH speed will be 10Mb/s.\r\nConnectivity is OK, this function is for some certain situations ONLY.\r\nMeanwhile, higher voltage and good network cable should be adopted to counter the voltage drop and power loss in transmission. \r\n\r\nPricing\r\n38usd/pc\r\nSTI-154GP: industrial PoE Switch\r\n1*Gigabit SFP+1*1G Copper Uplink+4*10/100/1000M PoE Downlink, PoE af/at, 120W, Unmanaged, Support DIP function, DC44V~DC57V(Removable 4 PIN Industrial Terminal Block)\r\n-40℃ to 75℃, Din mounted, Without optical module, Without Power Adapter\r\n\r\nThank you.",
- "extracted_at": "2026-10-22T03:44:00Z"
+ "extracted_at": "2026-10-22T04:14:48Z"
 }

@@ -1,0 +1,20 @@
+{
+ "sha256_16": "e7b5629f59276e92",
+ "name": "10G Switch.png",
+ "ext": ".png",
+ "bytes": 69458,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 983,
+  "height": 533,
+  "mode": "RGB",
+  "software": "Google",
+  "thumb_bytes": 9219
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-22T04:10:37Z"
+}

@@ -1,0 +1,19 @@
+{
+ "sha256_16": "ae9939faaf376626",
+ "name": "FAN MIB INFO.png",
+ "ext": ".png",
+ "bytes": 39491,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1171,
+  "height": 581,
+  "mode": "RGBA",
+  "thumb_bytes": 5181
+ },
+ "warnings": [],
+ "chars": 254,
+ "text": "FAN MIB INFO :\n3 files - 56.1 MB - Sent 45 seconds ago\nhttps://we.tl/t-k7sJFy7TVv @ Copy\nExpiration date\nDec 13, 2025 ~\n©} Transfer is recoverable\nSent to 1 person\nf.kriewitz@nynex.de\n©\nDownload\nAccess control @ Total downloads\nPublic 0\nPreview\n@\nPreview",
+ "extracted_at": "2026-10-22T04:11:26Z"
+}

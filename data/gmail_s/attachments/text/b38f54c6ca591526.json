@@ -1,0 +1,19 @@
+{
+ "sha256_16": "b38f54c6ca591526",
+ "name": "before log-in.png",
+ "ext": ".png",
+ "bytes": 30502,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1815,
+  "height": 952,
+  "mode": "RGBA",
+  "thumb_bytes": 2418
+ },
+ "warnings": [],
+ "chars": 96,
+ "text": "英語 中 文 (简体 ) ix\nAng:\n3\nGoogle Translate 上\nAnvw-35124-PX\nManaged Ethernet Switch\n[s 名\nLogin Clear",
+ "extracted_at": "2026-10-22T04:22:45Z"
+}

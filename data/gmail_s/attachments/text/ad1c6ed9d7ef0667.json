@@ -1,0 +1,19 @@
+{
+ "sha256_16": "ad1c6ed9d7ef0667",
+ "name": "Spec.png",
+ "ext": ".png",
+ "bytes": 32149,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 977,
+  "height": 403,
+  "mode": "RGBA",
+  "thumb_bytes": 4895
+ },
+ "warnings": [],
+ "chars": 326,
+ "text": "Added Date: 2023-06-25 13:51:46\nShort Description:\nL2+ Full Gigabit Access Switch(48*10/100/1000Base-T + 4* 10G SFP+), AC power, static routing\nProduct Tags:\nNumber of main ports:25-48 — Stacking:Stackable Main porttype:1G RJ45 —_ Uplink port type:10G SFP+\nTypes of switch power supplies:AC Category of switch materials:Box L2",
+ "extracted_at": "2026-10-22T04:18:46Z"
+}

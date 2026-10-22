@@ -1,0 +1,19 @@
+{
+ "sha256_16": "1a38495df3a57996",
+ "name": "image004.png",
+ "ext": ".png",
+ "bytes": 8939,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1129,
+  "height": 86,
+  "mode": "RGB",
+  "thumb_bytes": 1652
+ },
+ "warnings": [],
+ "chars": 143,
+ "text": "ition Contact Email\nDecimal organi\n56166 深圳 潜 符 华 感 科技 有 限 公司 (Shenzhen Smartbyte Technology Co., Ltd.) shigan Chen chenshigan@smartbyte.com.cn",
+ "extracted_at": "2026-10-22T04:14:42Z"
+}
