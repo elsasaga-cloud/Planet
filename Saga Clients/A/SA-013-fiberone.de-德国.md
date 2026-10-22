@@ -123,6 +123,9 @@ updated: 2026-10-22
 - **【GitHub 公开仓库】Frederik Kriewitz 本人是 LibreNMS 贡献者：PR #18681「Add support for SmartByte OS」2026-01-11 合并，sysObjectID .1.3.6.1.4.1.56166，测试夹具用 Saga 的 STC-4168XGGCM V1.1（序列号 202509160001 = 2025-09 那单）→ NYNEX 用 LibreNMS 纳管 Saga 交换机，并替 Saga/SmartByte 做了上游适配；其 2026-10-15「必须用 SmartByte OID」的技术原因即在此**
   > @copyright 2025 Frederik Kriewitz / @author Frederik Kriewitz <frederik@kriewitz.eu> … sysDescr: Product STC-4168XGGCM V1.1 Version hotfix/7.4.7 (r1540 af525c9)
   > 来源：https://github.com/librenms/librenms/pull/18681 ；LibreNMS/OS/Smartbyte.php；tests/data/smartbyte_stc-4168xggcm.json（抓取 2026-10-22）
+- **【GitHub 公开仓库】Kriewitz 还向 Oxidized（开源配置备份）提交了 smartbyte 模型（2026-01-23 合并，测试数据同为 STC-4168XGGCM 7.4.7）→ NYNEX 用 LibreNMS + Oxidized 两套工具把 Saga 交换机当长期在网设备运维**
+  > smartbyte: new model for SmartByte switches — Frderik Kriewitz, 2026-01-23；spec/model/data/smartbyte#STC-4168XGGCM_7.4.7#output.txt
+  > 来源：https://github.com/ytti/oxidized/blob/master/lib/oxidized/model/smartbyte.rb（抓取 2026-10-22）
 - **KP**：Frederik Kriewitz（Systems Engineer / 网络负责人（RIPE 联系人、政策文件署名人；成单联系人））f.kriewitz@nynex.de +49 6151 50074-009〔https://ipinfo.io/AS200519/178.17.236.0/23 + 用户表〕
 - **KP**：Gunter Frank（创始人/合伙人（1999/2000 创立）） 〔https://nynex.de/company/〕
 - **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 活跃 → A

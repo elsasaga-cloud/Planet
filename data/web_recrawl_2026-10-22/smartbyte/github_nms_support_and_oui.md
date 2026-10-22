@@ -9,6 +9,12 @@
 | 测试夹具 `tests/data/smartbyte_stc-4168xggcm.json` / `tests/snmpsim/smartbyte_stc-4168xggcm.snmprec`：**sysDescr = "Product STC-4168XGGCM V1.1 Version hotfix/7.4.7 (r1540 af525c9)"，hardware = STC-4168XGGCM，serial 202509160001 / EC4BD14642** —— 用的是 **Saga 型号名**（NYNEX 2025-09-15 那单的机器，序列号 20250916） | 文件内容 |
 | 含义：全球最常用的开源 NMS 之一已把 Saga/SmartByte 交换机当独立 OS 识别（按 .56166 判定）→ ① NYNEX 2026-10-15 坚持要「SmartByte OID」的技术原因就在这里（他们的 LibreNMS 靠 sysObjectID .56166 识别）；② Saga 可以对外说「LibreNMS natively supported（OS: SmartByte, since v25.x/2026-01）」；③ 若 Saga 日后换成自己的 PEN，LibreNMS 识别会失效（Q-02/PEN 决策要考虑） | 推断 |
 
+## 1b. Oxidized（配置备份工具）也有「smartbyte」模型 —— 同样是 Kriewitz（13:37Z 补）
+- `ytti/oxidized` 2026-01-23 「smartbyte: new model for SmartByte switches」作者 Frederik Kriewitz（提交署名拼作 "Frderik"）；2026-03-31 Robert Cheramy（维护者）修订。`lib/oxidized/model/smartbyte.rb`：命令 `show running-config` / `show version` / `show interface optical-transceiver info` / `show power`，隐藏 SNMP community；测试数据 `spec/model/data/smartbyte#STC-4168XGGCM_7.4.7#…`（又是 Saga 的 STC-4168XGGCM，固件 7.4.7，配置样例含 hostname/logging/snmp-server/ip dns/spanning-tree mode rstp）。
+- 含义：NYNEX 把 Saga 交换机纳入了 LibreNMS（监控）+ Oxidized（配置备份）两套主流开源运维链，并把两处上游适配都提交回社区；同一客户在 2026-01 的两周内完成，说明 NYNEX 是把 Saga 机器当**长期在网设备**管理的。
+- 派生仓库 `RND-NoriTech/NMS-WHITE-V2`、`kruczek8989/librenms_old_kruczek8989` 为 LibreNMS fork，自然带上 smartbyte 夹具。
+- 其他 Saga 型号码（STC-448XGGPM、STI-288DGGPM、STC-424XGGPM）在 GitHub 代码搜索里只出现在 Simon 自己的 `sagatele-site`；"sagatele" 其余命中为过期域名清单噪音。
+
 ## 2. netdata：SNMP trap 档案「shenzhen-smartbyte-technology-co-ltd」
 - `netdata/netdata` 2026-06-11 Costa Tsaousis「go.d: add profile-based SNMP trap ingestion (#22652)」自动生成 `snmp.trap-profiles/default/shenzhen-smartbyte-technology-co-ltd.yaml`（vendor 名由 MIB 目录生成；mib_count 1、trap_count 6；varbinds fanIndex .56166.1.2.5.1.1、fanSpeedStatus、powerIndex .56166.1.2.3.1.1、powerState …）；另有 `netdata/learn` 文档页「Shenzhen Smartbyte Technology Co Ltd SNMP Traps」。
 - 含义：SmartByte 的 NMS-SYS-MIB 已进入公共 MIB 目录（netdata 用的 MIB 库），企业名登记为 **Shenzhen Smartbyte Technology Co., Ltd**。
