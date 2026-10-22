@@ -155,6 +155,13 @@ def resolve_sources():
                 if m:
                     from urllib.parse import unquote
                     name = unquote(m.group(1))
+                    # requests 把 header 当 latin-1 解码：Google 对中文名只给 filename="..."（UTF-8 字节）→ 会变成 æ´ªç 式乱码，这里还原
+                    try:
+                        fixed = name.encode('latin-1').decode('utf-8')
+                        if fixed != name:
+                            name = fixed
+                    except (UnicodeEncodeError, UnicodeDecodeError):
+                        pass
                 ctype = r.headers.get('Content-Type', '')
                 if 'text/html' in ctype:
                     body = r.content[:6000].decode('utf-8', 'ignore')

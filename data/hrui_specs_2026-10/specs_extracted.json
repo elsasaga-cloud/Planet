@@ -1,0 +1,6092 @@
+[
+ {
+  "zx_model": "ZX-AFGM-1622S-200",
+  "folder": "ZX-AFGM-1622S-200",
+  "category_in_zip": "900及管理型POE交换机",
+  "doc": "洪瑞产品参数/900及管理型POE交换机/ZX-AFGM-1622S-200/ZX-AFGM-1622S（英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX-AFGM-1622S-200__ZX-AFGM-1622S_英文_.doc__c625f703",
+  "doc_chars": 8471,
+  "photos": [
+   {
+    "name": "HR-AFGM-1622GS右面ZX(1).jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "HR-AFGM-1622GS左面ZX(1).jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "HR-AFGM-1622GS正面ZX(1).jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 26
+   },
+   {
+    "name": "背面.jpg",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "20 Port Gigabit Managed Ethernet PoE Switch",
+   "ports": "16 * 10/100/1000Mbps PoE Port / 2* 10/100/1000Mbps Uplink Port / 2* 1000Mbps SFP Port / 1 * RJ45 Console Port",
+   "bandwidth": "40Gbps",
+   "pps": "29.76Mpps",
+   "mac": "8K",
+   "buffer": "4Mbit",
+   "poe_budget": "180W / 280W",
+   "hipoe": "",
+   "power_supply": "52V3.84A / 52V5.76A",
+   "power_input": "AC100-240V",
+   "max_power": "15W",
+   "temp": "-10~50°C",
+   "dims": "440*204*44mm",
+   "nw": "2.65KG",
+   "pack_qty": "",
+   "chipset": "",
+   "certs": "CE、FCC、RoHS",
+   "fan": "",
+   "install": "",
+   "order_model": "ZX-AFGM-1622S",
+   "features": [
+    "L3静态路由",
+    "SNMP",
+    "Web网管",
+    "PoE看门狗",
+    "Console",
+    "无风扇"
+   ]
+  },
+  "site_model": "HR-AFGM-1622S-300",
+  "match": "manual",
+  "near_model": null,
+  "site_fields": {
+   "title": "16-Port 10/100/1000T 802.3af/at PoE + 2-Port 10/100/1000T + 2-Port 1G SFP Managed Switch",
+   "ports": "16*1Gbps PoE ports / 2*1Gbps SFP ports / 2*1Gbps RJ45 ports / 1*Console port",
+   "bandwidth": "40Gbps",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "285W",
+   "hipoe": "",
+   "power_supply": "52V5.76A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "440*204*44mm",
+   "nw": "2.78KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/managed-switch/231.html",
+   "category": "Managed Switch",
+   "spec_kv_count": 174
+  },
+  "diffs": [
+   {
+    "field": "poe_budget",
+    "label": "PoE预算",
+    "new": "180W / 280W",
+    "site": "285W"
+   },
+   {
+    "field": "nw",
+    "label": "净重",
+    "new": "2.65KG",
+    "site": "2.78KG"
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX-AFGM-2444S-300",
+  "folder": "ZX-AFGM-2444S-300",
+  "category_in_zip": "900及管理型POE交换机",
+  "doc": "洪瑞产品参数/900及管理型POE交换机/ZX-AFGM-2444S-300/ZX-AFGM-2444S-300（英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX-AFGM-2444S-300__ZX-AFGM-2444S-300_英文_.doc__1fc6fbca",
+  "doc_chars": 8163,
+  "photos": [
+   {
+    "name": "_MG_6633.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 40
+   },
+   {
+    "name": "_MG_6636.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 39
+   },
+   {
+    "name": "_MG_6638.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 18
+   },
+   {
+    "name": "_MG_6640.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 192
+   }
+  ],
+  "fields": {
+   "title": "32 Ports Managed POE Switch",
+   "ports": "24* 10/100/1000Mbps PoE Port / 4* 1000M RJ45 Port(Combo) / 4*1000M SFP Port (Combo) / 1 * RJ45 Console Port",
+   "bandwidth": "56Gbps",
+   "pps": "41.66Mpps",
+   "mac": "8K",
+   "buffer": "4Mbit",
+   "poe_budget": "280W",
+   "hipoe": "",
+   "power_supply": "52V5.76A",
+   "power_input": "AC 100-240V",
+   "max_power": "20W",
+   "temp": "-10~50°C",
+   "dims": "440* 280*44mm",
+   "nw": "3.47kg",
+   "pack_qty": "",
+   "chipset": "",
+   "certs": "",
+   "fan": "",
+   "install": "",
+   "order_model": "",
+   "features": [
+    "L3静态路由",
+    "SNMP",
+    "Web网管",
+    "PoE看门狗",
+    "Console",
+    "无风扇"
+   ]
+  },
+  "site_model": "HR-AFGM-2444S-400",
+  "match": "manual",
+  "near_model": null,
+  "site_fields": {
+   "title": "24-Port 10/100/1000T 802.3af/at PoE + 4-Port 1G SFP Managed Switch",
+   "ports": "24*1Gbps PoE ports / 4*1Gbps Combo ports / 1*Console port",
+   "bandwidth": "56 Gbps",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "370W",
+   "hipoe": "",
+   "power_supply": "52V7.69A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "440*280*44mm",
+   "nw": "3.65KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/managed-switch/240.html",
+   "category": "Managed Switch",
+   "spec_kv_count": 202
+  },
+  "diffs": [
+   {
+    "field": "poe_budget",
+    "label": "PoE预算",
+    "new": "280W",
+    "site": "370W"
+   },
+   {
+    "field": "power_supply",
+    "label": "电源适配",
+    "new": "52V5.76A",
+    "site": "52V7.69A"
+   },
+   {
+    "field": "nw",
+    "label": "净重",
+    "new": "3.47kg",
+    "site": "3.65KG"
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX-AFGM-82NS",
+  "folder": "ZX-AFGM-82NS",
+  "category_in_zip": "900及管理型POE交换机",
+  "doc": "洪瑞产品参数/900及管理型POE交换机/ZX-AFGM-82NS/ZX-AFGM-82NS（英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX-AFGM-82NS__ZX-AFGM-82NS_英文_.doc__8f7cc4df",
+  "doc_chars": 8281,
+  "photos": [
+   {
+    "name": "1.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 69
+   },
+   {
+    "name": "2.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "3.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "背面.jpg",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "10 Port Gigabit Managed Ethernet PoE Switch",
+   "ports": "8 * 10/100/1000Mbps PoE Port / 2* 1000Mbps SFP Port / 1 * RJ45 Console Port",
+   "bandwidth": "20Gbps",
+   "pps": "14.88Mpps",
+   "mac": "8K",
+   "buffer": "4Mbit",
+   "poe_budget": "110W",
+   "hipoe": "",
+   "power_supply": "52V2.3A",
+   "power_input": "AC100-240V",
+   "max_power": "10W",
+   "temp": "-10~50°C",
+   "dims": "268*181*44mm",
+   "nw": "1.08KG",
+   "pack_qty": "",
+   "chipset": "",
+   "certs": "CE、FCC、RoHS",
+   "fan": "",
+   "install": "",
+   "order_model": "ZX-AFGM-82NS",
+   "features": [
+    "L3静态路由",
+    "SNMP",
+    "Web网管",
+    "PoE看门狗",
+    "Console",
+    "无风扇"
+   ]
+  },
+  "site_model": "HR-AFGM-82NS",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "8-Port 10/100/1000T 802.3af/at PoE + 2-Port 1G SFP Managed Switch",
+   "ports": "8*1Gbps PoE ports / 2*1Gbps SFP ports / 1*Console port",
+   "bandwidth": "20Gbps",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "100W",
+   "hipoe": "",
+   "power_supply": "52V2.3A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "268*181*44mm",
+   "nw": "1.2KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/managed-switch/226.html",
+   "category": "Managed Switch",
+   "spec_kv_count": 201
+  },
+  "diffs": [
+   {
+    "field": "poe_budget",
+    "label": "PoE预算",
+    "new": "110W",
+    "site": "100W"
+   },
+   {
+    "field": "nw",
+    "label": "净重",
+    "new": "1.08KG",
+    "site": "1.2KG"
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX-AXGM-SWTG3448S-650",
+  "folder": "ZX-AXGM-SWTG3448S-650",
+  "category_in_zip": "900及管理型POE交换机",
+  "doc": "洪瑞产品参数/900及管理型POE交换机/ZX-AXGM-SWTG3448S-650/ZX-AXGM-SWTG3448S （英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX-AXGM-SWTG3448S-650__ZX-AXGM-SWTG3448S_英文_.doc__dc59dc2d",
+  "doc_chars": 9227,
+  "photos": [
+   {
+    "name": "HR-AFGM-SWTG3448S.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 162
+   },
+   {
+    "name": "_MG_9364.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "_MG_9365.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "52 Port 10G Uplink 48 Ports Gigabit L3 Management Ethernet POE switch",
+   "ports": "48* 10/100/1000Mbps POE Ports (Ports 1-4 support BT Power Supply) / 4* 10G SFP+ Port / 1* RJ45 Console Port / 1* USB serial Port",
+   "bandwidth": "176Gbps",
+   "pps": "131Mpps",
+   "mac": "32K",
+   "buffer": "",
+   "poe_budget": "600W",
+   "hipoe": "",
+   "power_supply": "54V14.8A / 12V6A",
+   "power_input": "AC100-240V",
+   "max_power": "600W",
+   "temp": "0~40°C",
+   "dims": "440*360*44.5mm",
+   "nw": "5.30KG",
+   "pack_qty": "2",
+   "chipset": "",
+   "certs": "CE, FCC, RoHS",
+   "fan": "",
+   "install": "",
+   "order_model": "ZX-AXGM-SWTG3448S-650",
+   "features": [
+    "L3静态路由",
+    "SNMP",
+    "Web网管",
+    "PoE看门狗",
+    "802.3bt",
+    "2.5G",
+    "10G",
+    "Console"
+   ]
+  },
+  "site_model": null,
+  "match": "none",
+  "near_model": "HR-AXGM-SWTG3624AS",
+  "near_fields": {
+   "title": "Layer3 24-Port 10/100/1000/2500T 802.3af/at/bt PoE + 6-Port 10G SFP+ Managed Switch",
+   "ports": "24*2.5Gbps PoE ports / 6*10Gbps SFP+ ports / 1*Console port",
+   "bandwidth": "240Gbps",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "400W",
+   "hipoe": "",
+   "power_supply": "56V7.15A / 12V5A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "440*281*44mm",
+   "nw": "4.37KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/managed-switch/245.html",
+   "category": "Managed Switch",
+   "spec_kv_count": 216
+  },
+  "near_diffs": [
+   {
+    "field": "ports",
+    "label": "端口",
+    "new": "48* 10/100/1000Mbps POE Ports (Ports 1-4 support BT Power Supply) / 4* 10G SFP+ Port / 1* RJ45 Console Port / 1* USB serial Port",
+    "site": "24*2.5Gbps PoE ports / 6*10Gbps SFP+ ports / 1*Console port",
+    "new_tokens": [
+     [
+      1,
+      "-",
+      "Console"
+     ],
+     [
+      1,
+      "-",
+      "USB"
+     ],
+     [
+      4,
+      "10G",
+      "SFP+"
+     ],
+     [
+      48,
+      "1G",
+      "PoE RJ45"
+     ]
+    ],
+    "site_tokens": [
+     [
+      1,
+      "-",
+      "Console"
+     ],
+     [
+      6,
+      "10G",
+      "SFP+"
+     ],
+     [
+      24,
+      "2.5G",
+      "PoE RJ45"
+     ]
+    ]
+   },
+   {
+    "field": "bandwidth",
+    "label": "交换容量",
+    "new": "176Gbps",
+    "site": "240Gbps"
+   },
+   {
+    "field": "poe_budget",
+    "label": "PoE预算",
+    "new": "600W",
+    "site": "400W"
+   },
+   {
+    "field": "power_supply",
+    "label": "电源适配",
+    "new": "54V14.8A / 12V6A",
+    "site": "56V7.15A / 12V5A"
+   },
+   {
+    "field": "dims",
+    "label": "尺寸",
+    "new": "440*360*44.5mm",
+    "site": "440*281*44mm"
+   },
+   {
+    "field": "nw",
+    "label": "净重",
+    "new": "5.30KG",
+    "site": "4.37KG"
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX-AXGM-SWTG3624AS-450",
+  "folder": "ZX-AXGM-SWTG3624AS-450",
+  "category_in_zip": "900及管理型POE交换机",
+  "doc": "洪瑞产品参数/900及管理型POE交换机/ZX-AXGM-SWTG3624AS-450/ZX-AXGM-SWTG3624AS （英文）.docx",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX-AXGM-SWTG3624AS-450__ZX-AXGM-SWTG3624AS_英文_.docx__1b64cee8",
+  "doc_chars": 9407,
+  "photos": [
+   {
+    "name": "IMG_5585.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 23
+   },
+   {
+    "name": "IMG_5603.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_5608.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_5621.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 21
+   }
+  ],
+  "fields": {
+   "title": "30 Port L3 Managed 10G Uplink 2.5G PoE Switch",
+   "ports": "24* 100/1000/2500 Mbps PoE Port (1-4 Port support IEEE802.3bt(90W)) / 6* 10G SFP+ Port / 1* RJ45 Console Port",
+   "bandwidth": "240Gbps",
+   "pps": "178.56Mpps",
+   "mac": "32K",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "54V7.69A / 12V5A",
+   "power_input": "AC100-240V",
+   "max_power": "400W",
+   "temp": "-10~50°C",
+   "dims": "440*281*44mm",
+   "nw": "4.37KG",
+   "pack_qty": "",
+   "chipset": "",
+   "certs": "CE, FCC, RoHS",
+   "fan": "",
+   "install": "",
+   "order_model": "ZX-AXGM-SWTG3624AS",
+   "features": [
+    "L3静态路由",
+    "SNMP",
+    "Web网管",
+    "PoE看门狗",
+    "802.3bt",
+    "2.5G",
+    "10G",
+    "Console"
+   ]
+  },
+  "site_model": "HR-AXGM-SWTG3624AS",
+  "match": "base",
+  "near_model": null,
+  "site_fields": {
+   "title": "Layer3 24-Port 10/100/1000/2500T 802.3af/at/bt PoE + 6-Port 10G SFP+ Managed Switch",
+   "ports": "24*2.5Gbps PoE ports / 6*10Gbps SFP+ ports / 1*Console port",
+   "bandwidth": "240Gbps",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "400W",
+   "hipoe": "",
+   "power_supply": "56V7.15A / 12V5A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "440*281*44mm",
+   "nw": "4.37KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/managed-switch/245.html",
+   "category": "Managed Switch",
+   "spec_kv_count": 216
+  },
+  "diffs": [
+   {
+    "field": "power_supply",
+    "label": "电源适配",
+    "new": "54V7.69A / 12V5A",
+    "site": "56V7.15A / 12V5A"
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX200-AFGM-SWTG3424S-400",
+  "folder": "ZX200-AFGM-SWTG3424S-400",
+  "category_in_zip": "900及管理型POE交换机",
+  "doc": "洪瑞产品参数/900及管理型POE交换机/ZX200-AFGM-SWTG3424S-400/ZX200-AFGM-SWTG3424S-400(EN).pdf",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX200-AFGM-SWTG3424S-400__ZX200-AFGM-SWTG3424S-400_EN_.pdf__8d6450a5",
+  "doc_chars": 6725,
+  "photos": [
+   {
+    "name": "ZX200-AFGM-SWTG3424S-400右侧.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "ZX200-AFGM-SWTG3424S-400左侧.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 10
+   },
+   {
+    "name": "ZX200-AFGM-SWTG3424S-400正面.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 49
+   },
+   {
+    "name": "ZX200-AFGM-SWTG3424S-400背面.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 21
+   }
+  ],
+  "fields": {
+   "title": "24-Port Gigabit and 4-Port 10G SFP+ L3 Managed PoE Switch",
+   "ports": "",
+   "bandwidth": "",
+   "pps": "95.23Mpps",
+   "mac": "16K",
+   "buffer": "",
+   "poe_budget": "400W",
+   "hipoe": "",
+   "power_supply": "52V7.7A / 12V5A",
+   "power_input": "AC 100-240V",
+   "max_power": "26.6W",
+   "temp": "0~40°C",
+   "dims": "440*280*44mm",
+   "nw": "4.03KG",
+   "pack_qty": "4",
+   "chipset": "",
+   "certs": "",
+   "fan": "2",
+   "install": "Desktop, Rack-mounting",
+   "order_model": "",
+   "features": [
+    "L3静态路由",
+    "SNMP",
+    "Web网管",
+    "PoE看门狗",
+    "2.5G",
+    "10G",
+    "Console"
+   ]
+  },
+  "site_model": "HR200-AFGM-SWTG3424S-400",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "Layer3 24-Port 10/100/1000T 802.3af/at PoE + 4-Port 10G SFP+ Managed Switch",
+   "ports": "24*1Gbps PoE ports / 4*10Gbps SFP+ ports / 1*Console port / 1*USB port",
+   "bandwidth": "128Gbps",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "400W",
+   "hipoe": "",
+   "power_supply": "52V7.69A / 12V4A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "440*280*44mm",
+   "nw": "4.03KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/managed-switch/242.html",
+   "category": "Managed Switch",
+   "spec_kv_count": 209
+  },
+  "diffs": [
+   {
+    "field": "power_supply",
+    "label": "电源适配",
+    "new": "52V7.7A / 12V5A",
+    "site": "52V7.69A / 12V4A"
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX900-AF-1621GS-300",
+  "folder": "ZX900-AF-1621GS-300",
+  "category_in_zip": "900及管理型POE交换机",
+  "doc": "洪瑞产品参数/900及管理型POE交换机/ZX900-AF-1621GS-300/ZX900-AF-1621GS （英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AF-1621GS-300__ZX900-AF-1621GS_英文_.doc__866c9a74",
+  "doc_chars": 5612,
+  "photos": [
+   {
+    "name": "_MG_3273.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "_MG_3275.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 10
+   },
+   {
+    "name": "_MG_6805.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 20
+   },
+   {
+    "name": "背面.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 17
+   }
+  ],
+  "fields": {
+   "title": "19 port 100/1000M intelligent standard PoE switch",
+   "ports": "16 Port 10/100M PoE + 2 Port 1000M Ethernet Uplink+1 Port 1000M SFP",
+   "bandwidth": "9.2Gbps",
+   "pps": "6.84Mpps",
+   "mac": "2K",
+   "buffer": "3Mbit",
+   "poe_budget": "270W",
+   "hipoe": "",
+   "power_supply": "52V5.76A",
+   "power_input": "AC100-240V",
+   "max_power": "6W",
+   "temp": "-10~50°C",
+   "dims": "320*207*45mm",
+   "nw": "1.61KG",
+   "pack_qty": "",
+   "chipset": "",
+   "certs": "",
+   "fan": "",
+   "install": "",
+   "order_model": "",
+   "features": [
+    "Extend 250m"
+   ]
+  },
+  "site_model": "HR900-AF-1621GS-300",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "16*10/100T 802.3af/at PoE ports + 2-Port 10/100/1000T + 1-Port Gigabit SFP Ethernet Switch (300 Watts)",
+   "ports": "16 *100Mbps Po E ports / 2 *1G RJ45 ports / 1 *1G SFP port",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "290W",
+   "hipoe": "",
+   "power_supply": "52V5.76A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "320*207*45mm",
+   "nw": "1.61KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/poe-switch/195.html",
+   "category": "PoE Switch",
+   "spec_kv_count": 57
+  },
+  "diffs": [
+   {
+    "field": "poe_budget",
+    "label": "PoE预算",
+    "new": "270W",
+    "site": "290W"
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX900-AF-2421GS-300",
+  "folder": "ZX900-AF-2421GS-300",
+  "category_in_zip": "900及管理型POE交换机",
+  "doc": "洪瑞产品参数/900及管理型POE交换机/ZX900-AF-2421GS-300/ZX900-AF-2421GS（英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AF-2421GS-300__ZX900-AF-2421GS_英文_.doc__0b781efa",
+  "doc_chars": 5616,
+  "photos": [
+   {
+    "name": "_MG_3273.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 16
+   },
+   {
+    "name": "_MG_3275.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "_MG_6805.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 181
+   },
+   {
+    "name": "背面.jpg",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "27 port 100/1000M intelligent standard PoE switch",
+   "ports": "24 Port 10/100M PoE + 2 Port 1000M Ethernet Uplink+1 Port 1000M SFP",
+   "bandwidth": "10.8Gbps",
+   "pps": "8.03Mpps",
+   "mac": "2K",
+   "buffer": "3Mbit",
+   "poe_budget": "270W",
+   "hipoe": "",
+   "power_supply": "52V5.76A",
+   "power_input": "AC100-240V",
+   "max_power": "7W",
+   "temp": "-10~50°C",
+   "dims": "320*207*45mm",
+   "nw": "1.79KG",
+   "pack_qty": "",
+   "chipset": "",
+   "certs": "",
+   "fan": "",
+   "install": "",
+   "order_model": "",
+   "features": [
+    "Extend 250m"
+   ]
+  },
+  "site_model": "HR900-AF-2421GS-300",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "24*10/100T 802.3af/at PoE ports + 2-Port 10/100/1000T + 1-Port Gigabit SFP Ethernet Switch (300 Watts)",
+   "ports": "24*100Mbps PoE ports / 2*1000Mbps RJ45 ports / 1*1000Mbps SFP port",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "290W",
+   "hipoe": "",
+   "power_supply": "52V5.76A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "320*207*45mm",
+   "nw": "1.79KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/poe-switch/196.html",
+   "category": "PoE Switch",
+   "spec_kv_count": 76
+  },
+  "diffs": [
+   {
+    "field": "poe_budget",
+    "label": "PoE预算",
+    "new": "270W",
+    "site": "290W"
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX900-AF-42N",
+  "folder": "ZX900-AF-42N",
+  "category_in_zip": "900及管理型POE交换机",
+  "doc": "洪瑞产品参数/900及管理型POE交换机/ZX900-AF-42N/ZX900-AF-42N（英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AF-42N__ZX900-AF-42N_英文_.doc__dd5e02a1",
+  "doc_chars": 4417,
+  "photos": [
+   {
+    "name": "_MG_2740.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 29
+   },
+   {
+    "name": "_MG_2743.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "_MG_2747.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "_MG_2751.jpg",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "6 Port 100M AI PoE Switch",
+   "ports": "4 Port 10/100M PoE + 2 Port 100M Ethernet Uplink",
+   "bandwidth": "1.2Gbps",
+   "pps": "0.8928Mpps",
+   "mac": "1K",
+   "buffer": "448Kbit",
+   "poe_budget": "60W",
+   "hipoe": "",
+   "power_supply": "52V1.25A",
+   "power_input": "AC 100-240V",
+   "max_power": "5W",
+   "temp": "-10~50°C",
+   "dims": "200*118*44mm",
+   "nw": "0.60kg",
+   "pack_qty": "",
+   "chipset": "",
+   "certs": "",
+   "fan": "",
+   "install": "",
+   "order_model": "",
+   "features": [
+    "VLAN拨码隔离",
+    "Extend 250m",
+    "PoE看门狗"
+   ]
+  },
+  "site_model": "HR900-AF-42N",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "4-Port 10/100T 802.3af/at PoE + 2-Port 10/100T Ethernet Switch (65 Watts)",
+   "ports": "4 *100Mbps PoE ports / 2 *100Mbps uplink RJ45 ports",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "60W",
+   "hipoe": "",
+   "power_supply": "52V1.25A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "200*118*44mm",
+   "nw": "0.60KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/poe-switch/178.html",
+   "category": "PoE Switch",
+   "spec_kv_count": 64
+  },
+  "diffs": []
+ },
+ {
+  "zx_model": "ZX900-AF-82GN",
+  "folder": "ZX900-AF-82GN",
+  "category_in_zip": "900及管理型POE交换机",
+  "doc": "洪瑞产品参数/900及管理型POE交换机/ZX900-AF-82GN/ZX900-AF-82GN（英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AF-82GN__ZX900-AF-82GN_英文_.doc__2e88ed7e",
+  "doc_chars": 4540,
+  "photos": [
+   {
+    "name": "IMG_6923.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 105
+   },
+   {
+    "name": "IMG_6926.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 12
+   },
+   {
+    "name": "IMG_6929.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "_MG_2751.jpg",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "10 Port 1000M Uplink AI PoE Switch",
+   "ports": "8 Port 10/100M PoE + 2 Port 1000M Ethernet Uplink",
+   "bandwidth": "5.6Gbps",
+   "pps": "4.166Mpps",
+   "mac": "2K",
+   "buffer": "448Kbit",
+   "poe_budget": "60W",
+   "hipoe": "",
+   "power_supply": "52V2.3A",
+   "power_input": "AC 100-240V",
+   "max_power": "5W",
+   "temp": "-10~50°C",
+   "dims": "200*118*44mm",
+   "nw": "0.62kg",
+   "pack_qty": "",
+   "chipset": "",
+   "certs": "",
+   "fan": "",
+   "install": "",
+   "order_model": "",
+   "features": [
+    "VLAN拨码隔离",
+    "Extend 250m",
+    "PoE看门狗"
+   ]
+  },
+  "site_model": "HR900-AF-82GN",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "8-Port 10/100T 802.3af/at PoE + 2-Port 10/100/1000T Ethernet Switch (120 Watts)",
+   "ports": "8* 100Mbps PoE ports / 2* 1G uplink RJ45 port",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "115W",
+   "hipoe": "",
+   "power_supply": "52V2.3A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "200*118*44mm",
+   "nw": "0.62 KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/poe-switch/194.html",
+   "category": "PoE Switch",
+   "spec_kv_count": 48
+  },
+  "diffs": [
+   {
+    "field": "poe_budget",
+    "label": "PoE预算",
+    "new": "60W",
+    "site": "115W"
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX900-AF-82N",
+  "folder": "ZX900-AF-82N",
+  "category_in_zip": "900及管理型POE交换机",
+  "doc": "洪瑞产品参数/900及管理型POE交换机/ZX900-AF-82N/ZX900-AF-82N（英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AF-82N__ZX900-AF-82N_英文_.doc__cc1a808c",
+  "doc_chars": 4674,
+  "photos": [
+   {
+    "name": "IMG_6923.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 105
+   },
+   {
+    "name": "IMG_6926.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 10
+   },
+   {
+    "name": "IMG_6929.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "_MG_2751.jpg",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "10 Port 10/100M AI PoE Switch",
+   "ports": "8 Port 10/100M PoE + 2 Port 100M Ethernet Uplink",
+   "bandwidth": "2Gbps",
+   "pps": "1.488Mpps",
+   "mac": "2K",
+   "buffer": "448Kbit",
+   "poe_budget": "110W",
+   "hipoe": "",
+   "power_supply": "52V2.3A",
+   "power_input": "AC 100-240V",
+   "max_power": "5W",
+   "temp": "-10~50°C",
+   "dims": "200*118*44mm",
+   "nw": "0.62kg",
+   "pack_qty": "",
+   "chipset": "",
+   "certs": "",
+   "fan": "",
+   "install": "",
+   "order_model": "",
+   "features": [
+    "VLAN拨码隔离",
+    "Extend 250m",
+    "PoE看门狗"
+   ]
+  },
+  "site_model": "HR900-AF-82N",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "8-Port 10/100T 802.3af/at PoE + 2-Port 10/100T Ethernet Switch (120 Watts)",
+   "ports": "8* 100Mbps PoE ports / 2 *100Mbps uplink RJ45 ports",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "115W",
+   "hipoe": "",
+   "power_supply": "52V2.3A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "200*118*44mm",
+   "nw": "0.62 KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/poe-switch/191.html",
+   "category": "PoE Switch",
+   "spec_kv_count": 62
+  },
+  "diffs": [
+   {
+    "field": "poe_budget",
+    "label": "PoE预算",
+    "new": "110W",
+    "site": "115W"
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX900-AFG-162S-200",
+  "folder": "ZX900-AFG-162S-200",
+  "category_in_zip": "900及管理型POE交换机",
+  "doc": "洪瑞产品参数/900及管理型POE交换机/ZX900-AFG-162S-200/ZX900-AFG-162S-200（英文).doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AFG-162S-200__ZX900-AFG-162S-200_英文_.doc__d4befeaa",
+  "doc_chars": 4614,
+  "photos": [
+   {
+    "name": "901-AFG-162S- (1).jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "901-AFG-162S- (2).jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "901-AFG-162S- (3).jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "背面.jpg",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "18 Port Full Gigabit PoE Switch",
+   "ports": "16*Gigabit PoE Ports / 2* Gigabit SFP Ports",
+   "bandwidth": "36Gbps",
+   "pps": "26.784Mpps",
+   "mac": "8K",
+   "buffer": "",
+   "poe_budget": "180W",
+   "hipoe": "",
+   "power_supply": "52V3.84A",
+   "power_input": "AC100-240V",
+   "max_power": "20W",
+   "temp": "-10~50°C",
+   "dims": "440*204*44mm",
+   "nw": "2.74KG",
+   "pack_qty": "5",
+   "chipset": "",
+   "certs": "",
+   "fan": "",
+   "install": "",
+   "order_model": "ZX900-AFG-162S-200",
+   "features": [
+    "Extend 250m"
+   ]
+  },
+  "site_model": "HR900-AFG-162S-200",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "16-Port 10/100/1000T 802.3af/at PoE + 2-Port Gigabit SFP Ethernet Switch(200 Watts)",
+   "ports": "16* 1G PoE ports / 2 *1G uplink SFP ports",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "185W",
+   "hipoe": "",
+   "power_supply": "52V3.84A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "440*204*44mm",
+   "nw": "2.74KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/poe-switch/221.html",
+   "category": "PoE Switch",
+   "spec_kv_count": 53
+  },
+  "diffs": [
+   {
+    "field": "poe_budget",
+    "label": "PoE预算",
+    "new": "180W",
+    "site": "185W"
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX900-AFG-2422S-400",
+  "folder": "ZX900-AFG-2422S-400",
+  "category_in_zip": "900及管理型POE交换机",
+  "doc": "洪瑞产品参数/900及管理型POE交换机/ZX900-AFG-2422S-400/ZX900-AFG-2422S（英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AFG-2422S-400__ZX900-AFG-2422S_英文_.doc__c47843aa",
+  "doc_chars": 5302,
+  "photos": [
+   {
+    "name": "右侧.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "左侧.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 50
+   },
+   {
+    "name": "正面.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 18
+   },
+   {
+    "name": "背面.jpg",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "28 Port Gigabit Intelligent Standard PoE Switch",
+   "ports": "24*Gigabit PoE Ports / 2*Uplink ports / 2*Gigabit SFP Ports",
+   "bandwidth": "56Gbps",
+   "pps": "41.644Mpps",
+   "mac": "8K",
+   "buffer": "",
+   "poe_budget": "380W",
+   "hipoe": "",
+   "power_supply": "52V7.69A",
+   "power_input": "AC100-240V",
+   "max_power": "15W",
+   "temp": "-10~50°C",
+   "dims": "440*280*44mm",
+   "nw": "3.565KG",
+   "pack_qty": "5",
+   "chipset": "EN8850DH, RTL8238B",
+   "certs": "",
+   "fan": "",
+   "install": "",
+   "order_model": "ZX900-AFG-2422S-400",
+   "features": [
+    "Extend 250m",
+    "PoE看门狗"
+   ]
+  },
+  "site_model": "HR900-AFG-2422S-300",
+  "match": "manual",
+  "near_model": null,
+  "site_fields": {
+   "title": "24-10/100/1000T 802.3af/at PoE +2-Port 10/100/1000T + 2-Port Gigabit SFP Ports Ethernet Switch (300 Watts)",
+   "ports": "24 *1G PoE ports / 2 *1G RJ45 ports / 2 *1G SFP ports",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "285W",
+   "hipoe": "",
+   "power_supply": "52V5.76A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "440*204*44mm",
+   "nw": "2.864KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/poe-switch/205.html",
+   "category": "PoE Switch",
+   "spec_kv_count": 54
+  },
+  "diffs": [
+   {
+    "field": "ports",
+    "label": "端口",
+    "new": "24*Gigabit PoE Ports / 2*Uplink ports / 2*Gigabit SFP Ports",
+    "site": "24 *1G PoE ports / 2 *1G RJ45 ports / 2 *1G SFP ports",
+    "new_tokens": [
+     [
+      2,
+      "1G",
+      "SFP"
+     ],
+     [
+      2,
+      "?",
+      "RJ45"
+     ],
+     [
+      24,
+      "1G",
+      "PoE RJ45"
+     ]
+    ],
+    "site_tokens": [
+     [
+      2,
+      "1G",
+      "RJ45"
+     ],
+     [
+      2,
+      "1G",
+      "SFP"
+     ],
+     [
+      24,
+      "1G",
+      "PoE RJ45"
+     ]
+    ]
+   },
+   {
+    "field": "poe_budget",
+    "label": "PoE预算",
+    "new": "380W",
+    "site": "285W"
+   },
+   {
+    "field": "power_supply",
+    "label": "电源适配",
+    "new": "52V7.69A",
+    "site": "52V5.76A"
+   },
+   {
+    "field": "dims",
+    "label": "尺寸",
+    "new": "440*280*44mm",
+    "site": "440*204*44mm"
+   },
+   {
+    "field": "nw",
+    "label": "净重",
+    "new": "3.565KG",
+    "site": "2.864KG"
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX900-AFG-242S-300",
+  "folder": "ZX900-AFG-242S-300",
+  "category_in_zip": "900及管理型POE交换机",
+  "doc": "洪瑞产品参数/900及管理型POE交换机/ZX900-AFG-242S-300/ZX900-AFG-242S-300（英文).doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AFG-242S-300__ZX900-AFG-242S-300_英文_.doc__f62adc90",
+  "doc_chars": 4623,
+  "photos": [
+   {
+    "name": "右侧.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "左侧.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 20
+   },
+   {
+    "name": "正面.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 18
+   },
+   {
+    "name": "背面.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 16
+   }
+  ],
+  "fields": {
+   "title": "26 Port Full Gigabit PoE Switch",
+   "ports": "24* 10/100/1000M PoE Ports / 2* Gigabit SFP Ports",
+   "bandwidth": "52Gbps",
+   "pps": "38.68Mpps",
+   "mac": "8K",
+   "buffer": "",
+   "poe_budget": "286.46W",
+   "hipoe": "",
+   "power_supply": "52V5.76A",
+   "power_input": "AC100-240V",
+   "max_power": "18.379W",
+   "temp": "-10~50°C",
+   "dims": "440*204*44mm",
+   "nw": "2.82KG",
+   "pack_qty": "5",
+   "chipset": "",
+   "certs": "",
+   "fan": "",
+   "install": "",
+   "order_model": "ZX900-AFG-242S",
+   "features": [
+    "Extend 250m"
+   ]
+  },
+  "site_model": "HR900-AFG-242S-300",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "24-Port 10/100/1000T 802.3af/at PoE + 2-Port Gigabit SFP Ethernet Switch(300 Watts)",
+   "ports": "24* 1000Mbps PoE ports / 2 *1000Mbps SFP ports",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "280W",
+   "hipoe": "",
+   "power_supply": "52V5.76A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "440*204*44mm",
+   "nw": "2.82KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/poe-switch/224.html",
+   "category": "PoE Switch",
+   "spec_kv_count": 71
+  },
+  "diffs": [
+   {
+    "field": "poe_budget",
+    "label": "PoE预算",
+    "new": "286.46W",
+    "site": "280W"
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX900-AFG-411NS-65",
+  "folder": "ZX900-AFG-411NS-65",
+  "category_in_zip": "900及管理型POE交换机",
+  "doc": "洪瑞产品参数/900及管理型POE交换机/ZX900-AFG-411NS-65/ZX900-AFG-411NS（英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AFG-411NS-65__ZX900-AFG-411NS_英文_.doc__6d453229",
+  "doc_chars": 3726,
+  "photos": [
+   {
+    "name": "_MG_2740.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 88
+   },
+   {
+    "name": "_MG_2743.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 43
+   },
+   {
+    "name": "_MG_2747.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "_MG_2751.jpg",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "6-Port Gigabit PoE Switch",
+   "ports": "4*Gigabit PoE Port / 1*Gigabit RJ45 Port / 1* Gigabit SFP Uplink Port",
+   "bandwidth": "12Gbps",
+   "pps": "8.928Mpps",
+   "mac": "2K",
+   "buffer": "1Mbit",
+   "poe_budget": "60W",
+   "hipoe": "",
+   "power_supply": "52V1.25A",
+   "power_input": "AC 100-240V",
+   "max_power": "5W",
+   "temp": "-10~50°C",
+   "dims": "200*118*44.5mm",
+   "nw": "0.63kg",
+   "pack_qty": "",
+   "chipset": "",
+   "certs": "",
+   "fan": "",
+   "install": "",
+   "order_model": "",
+   "features": [
+    "Extend 250m"
+   ]
+  },
+  "site_model": "HR900-AFG-411NS-65",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "4-Port 10/100/1000T 802.3af/at PoE + 1-Port 10/100/1000T + 1-Port Gigabit SFP Ethernet Switch (65 Watts)",
+   "ports": "4 *1G PoE ports / 1 *1G RJ45 port / 1* 1G SFP port",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "60W",
+   "hipoe": "",
+   "power_supply": "52V1.25A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "200*118*44mm",
+   "nw": "0.65Kg",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/poe-switch/237.html",
+   "category": "PoE Switch",
+   "spec_kv_count": 50
+  },
+  "diffs": [
+   {
+    "field": "dims",
+    "label": "尺寸",
+    "new": "200*118*44.5mm",
+    "site": "200*118*44mm"
+   },
+   {
+    "field": "nw",
+    "label": "净重",
+    "new": "0.63kg",
+    "site": "0.65Kg"
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX900-AFG-42N",
+  "folder": "ZX900-AFG-42N",
+  "category_in_zip": "900及管理型POE交换机",
+  "doc": "洪瑞产品参数/900及管理型POE交换机/ZX900-AFG-42N/ZX900-AFG-42N （英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AFG-42N__ZX900-AFG-42N_英文_.doc__67347359",
+  "doc_chars": 4656,
+  "photos": [
+   {
+    "name": "_MG_2743.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 28
+   },
+   {
+    "name": "_MG_2747.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "_MG_2751.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 17
+   },
+   {
+    "name": "正面.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 91
+   }
+  ],
+  "fields": {
+   "title": "6-Port Gigabit Intelligent Standard PoE Switch",
+   "ports": "4* Gigabit PoE ports / 2* Gigabit Ethernet ports",
+   "bandwidth": "12Gbps",
+   "pps": "8.928Mpps",
+   "mac": "2K",
+   "buffer": "",
+   "poe_budget": "60W",
+   "hipoe": "",
+   "power_supply": "",
+   "power_input": "",
+   "max_power": "5W",
+   "temp": "",
+   "dims": "",
+   "nw": "0.61Kg",
+   "pack_qty": "20",
+   "chipset": "",
+   "certs": "CE、FCC、RoHS",
+   "fan": "",
+   "install": "",
+   "order_model": "ZX900-AFG-42N",
+   "features": [
+    "Extend 250m",
+    "PoE看门狗"
+   ]
+  },
+  "site_model": "HR900-AFG-42N",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "4-Port 10/100/1000T 802.3af/at PoE + 2-Port 10/100/1000T Ethernet Switch (65 Watts)",
+   "ports": "4 *1G PoE ports / 2* 1G RJ45 port",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "60W",
+   "hipoe": "",
+   "power_supply": "52V1.25A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "200*118*44mm",
+   "nw": "0.61Kg",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/poe-switch/197.html",
+   "category": "PoE Switch",
+   "spec_kv_count": 48
+  },
+  "diffs": []
+ },
+ {
+  "zx_model": "ZX900-AFG-42NS-65",
+  "folder": "ZX900-AFG-42NS-65",
+  "category_in_zip": "900及管理型POE交换机",
+  "doc": "洪瑞产品参数/900及管理型POE交换机/ZX900-AFG-42NS-65/ZX900-AFG-42NS（英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AFG-42NS-65__ZX900-AFG-42NS_英文_.doc__d43ae1db",
+  "doc_chars": 3692,
+  "photos": [
+   {
+    "name": "_MG_2740.jpg",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "_MG_2743.jpg",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "_MG_2747.jpg",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "_MG_2751.jpg",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "6-Port Gigabit PoE Switch",
+   "ports": "4*Gigabit PoE Port / 2* Gigabit SFP Uplink Port",
+   "bandwidth": "12Gbps",
+   "pps": "8.928Mpps",
+   "mac": "2K",
+   "buffer": "1Mbit",
+   "poe_budget": "60W",
+   "hipoe": "",
+   "power_supply": "52V1.25A",
+   "power_input": "AC 100-240V",
+   "max_power": "5W",
+   "temp": "-10~50°C",
+   "dims": "200*118*44.5mm",
+   "nw": "0.63kg",
+   "pack_qty": "",
+   "chipset": "",
+   "certs": "",
+   "fan": "",
+   "install": "",
+   "order_model": "",
+   "features": [
+    "Extend 250m"
+   ]
+  },
+  "site_model": "HR900-AFG-42NS-65",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "4-Port 10/100/1000T 802.3af/at PoE + 2-Port Gigabit SFP Ethernet Switch (65 Watts)",
+   "ports": "4 *1G PoE ports / 2* 1G SFP port",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "60W",
+   "hipoe": "",
+   "power_supply": "52V1.25A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "200*118*44mm",
+   "nw": "0.63Kg",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/poe-switch/239.html",
+   "category": "PoE Switch",
+   "spec_kv_count": 49
+  },
+  "diffs": [
+   {
+    "field": "dims",
+    "label": "尺寸",
+    "new": "200*118*44.5mm",
+    "site": "200*118*44mm"
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX900-AFG-82N",
+  "folder": "ZX900-AFG-82N",
+  "category_in_zip": "900及管理型POE交换机",
+  "doc": "洪瑞产品参数/900及管理型POE交换机/ZX900-AFG-82N/ZX900-AFG-82N（英文）.docx",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AFG-82N__ZX900-AFG-82N_英文_.docx__bbec18da",
+  "doc_chars": 4706,
+  "photos": [
+   {
+    "name": "IMG_0674.png",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_0706.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 29
+   },
+   {
+    "name": "IMG_0709.png",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 33
+   },
+   {
+    "name": "IMG_0721.png",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 28
+   }
+  ],
+  "fields": {
+   "title": "10 Port Full Gigabit Intelligent Standard PoE Switch",
+   "ports": "8* Gigabit PoE Ethernet Ports / 2* Gigabit Uplink Ethernet Port",
+   "bandwidth": "20Gbps",
+   "pps": "14.88Mpps",
+   "mac": "2K",
+   "buffer": "448Kbit",
+   "poe_budget": "110W",
+   "hipoe": "",
+   "power_supply": "52V2.3A",
+   "power_input": "AC100-240V",
+   "max_power": "10W",
+   "temp": "-10~50°C",
+   "dims": "220*161*44mm",
+   "nw": "0.88kg",
+   "pack_qty": "",
+   "chipset": "2*RTL8367S / RTL8238B",
+   "certs": "CE, FCC, RoHS",
+   "fan": "",
+   "install": "",
+   "order_model": "ZX900-AFG-82N",
+   "features": [
+    "Extend 250m",
+    "PoE看门狗"
+   ]
+  },
+  "site_model": "HR900-AFG-82N",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "8-Port 10/100/1000T 802.3af/at PoE + 2-Port 10/100/1000T Ethernet Switch (120 Watts)",
+   "ports": "8-Port 10/100/1000T 802.3af/at PoE + 2-Port 10/100/1000T Ethernet Switch (120 Watts)",
+   "bandwidth": "20Gbps",
+   "pps": "14.88Mpps",
+   "mac": "2K",
+   "buffer": "1Mbit",
+   "poe_budget": "110W",
+   "hipoe": "Port 2-24 PoE power output <30W，Port 1 PoE power output 60W",
+   "power_supply": "52V2.3A",
+   "power_input": "AC 100-240V",
+   "max_power": "6.5W",
+   "temp": "0~40°C",
+   "dims": "220*161*44mm",
+   "nw": "0.88KG",
+   "pack_qty": "10",
+   "chipset": "",
+   "fan": "0",
+   "install": "Desktop",
+   "url": "https://www.hruitech.com/poe-switch/199.html",
+   "category": "PoE Switch",
+   "spec_kv_count": 46
+  },
+  "diffs": [
+   {
+    "field": "ports",
+    "label": "端口",
+    "new": "8* Gigabit PoE Ethernet Ports / 2* Gigabit Uplink Ethernet Port",
+    "site": "8-Port 10/100/1000T 802.3af/at PoE + 2-Port 10/100/1000T Ethernet Switch (120 Watts)",
+    "new_tokens": [
+     [
+      2,
+      "1G",
+      "RJ45"
+     ],
+     [
+      8,
+      "1G",
+      "PoE RJ45"
+     ]
+    ],
+    "site_tokens": [
+     [
+      2,
+      "1G",
+      "RJ45"
+     ],
+     [
+      8,
+      "1G",
+      "RJ45"
+     ]
+    ]
+   },
+   {
+    "field": "buffer",
+    "label": "缓存",
+    "new": "448Kbit",
+    "site": "1Mbit"
+   },
+   {
+    "field": "max_power",
+    "label": "整机功耗",
+    "new": "10W",
+    "site": "6.5W"
+   },
+   {
+    "field": "temp",
+    "label": "工作温度",
+    "new": "-10~50°C",
+    "site": "0~40°C"
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX900-AFG-82NS",
+  "folder": "ZX900-AFG-82NS",
+  "category_in_zip": "900及管理型POE交换机",
+  "doc": "洪瑞产品参数/900及管理型POE交换机/ZX900-AFG-82NS/ZX900-AFG-82NS 英文.docx",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AFG-82NS__ZX900-AFG-82NS_英文.docx__a42c0e02",
+  "doc_chars": 4749,
+  "photos": [
+   {
+    "name": "IMG_0674.png",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_0706.png",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 40
+   },
+   {
+    "name": "IMG_0709.png",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_0721.png",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "10 Port Full Gigabit Intelligent Standard PoE Switch",
+   "ports": "8* Gigabit PoE Ports / 2* Gigabit SFP Ports",
+   "bandwidth": "20Gbps",
+   "pps": "14.88Mpps",
+   "mac": "2K",
+   "buffer": "448Kbit",
+   "poe_budget": "110W",
+   "hipoe": "",
+   "power_supply": "52V2.3A",
+   "power_input": "AC100-240V",
+   "max_power": "10W",
+   "temp": "-10~50°C",
+   "dims": "220*161*44mm",
+   "nw": "0.88kg",
+   "pack_qty": "10",
+   "chipset": "2*RTL8367S / RTL8238B",
+   "certs": "CE, FCC, RoHS",
+   "fan": "",
+   "install": "",
+   "order_model": "ZX900-AFG-82NS",
+   "features": [
+    "Extend 250m",
+    "PoE看门狗"
+   ]
+  },
+  "site_model": "HR900-AFG-82NS",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "8-Port 10/100/1000T 802.3af/at PoE + 2-Port Gigabit SFP Ports Ethernet Switch(120 Watts)",
+   "ports": "8* 1G PoE ports / 2 *1G uplink SFP ports",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "110W",
+   "hipoe": "",
+   "power_supply": "52V2.3A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "220*161*44mm",
+   "nw": "0.88KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/poe-switch/198.html",
+   "category": "PoE Switch",
+   "spec_kv_count": 44
+  },
+  "diffs": []
+ },
+ {
+  "zx_model": "ZX900-AFG-SWTG015ANS",
+  "folder": "ZX900-AFG-SWTG015ANS",
+  "category_in_zip": "900及管理型POE交换机",
+  "doc": "洪瑞产品参数/900及管理型POE交换机/ZX900-AFG-SWTG015ANS/ZX900-AFG-SWTG015ANS （英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AFG-SWTG015ANS__ZX900-AFG-SWTG015ANS_英文_.doc__337dcbaa",
+  "doc_chars": 4233,
+  "photos": [
+   {
+    "name": "_MG_2740.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 163
+   },
+   {
+    "name": "_MG_2743.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "_MG_2747.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "_MG_2751.jpg",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "6 Port 10 Gigabit Uplink 2.5G Ethernet POE Switch",
+   "ports": "4*100/1000/2500M POE port / 1*2500M ports / 1*10G SFP+ port",
+   "bandwidth": "45Gbps",
+   "pps": "33.48Mpps",
+   "mac": "4K",
+   "buffer": "",
+   "poe_budget": "60W",
+   "hipoe": "",
+   "power_supply": "52V1.25A",
+   "power_input": "AC 100-240V",
+   "max_power": "5W",
+   "temp": "-10~50°C",
+   "dims": "200*118*44mm",
+   "nw": "0.63KG",
+   "pack_qty": "20",
+   "chipset": "",
+   "certs": "CE, FCC, RoHS",
+   "fan": "",
+   "install": "",
+   "order_model": "ZX900-AFG-SWTG015ANS",
+   "features": [
+    "2.5G",
+    "10G",
+    "无风扇"
+   ]
+  },
+  "site_model": null,
+  "match": "none",
+  "near_model": null
+ },
+ {
+  "zx_model": "ZX900-AFG-SWTG018ANS",
+  "folder": "ZX900-AFG-SWTG018ANS",
+  "category_in_zip": "900及管理型POE交换机",
+  "doc": "洪瑞产品参数/900及管理型POE交换机/ZX900-AFG-SWTG018ANS/ZX900-AFG-SWTG018ANS（英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AFG-SWTG018ANS__ZX900-AFG-SWTG018ANS_英文_.doc__fa40c902",
+  "doc_chars": 4152,
+  "photos": [
+   {
+    "name": "IMG_0674.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_0706.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 149
+   },
+   {
+    "name": "IMG_0709.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_0721.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "9 Port 10 Gigabit Uplink 2.5G Ethernet POE Switch",
+   "ports": "8*100/1000/2500M POE port / 1*10G SFP port",
+   "bandwidth": "60Gbps",
+   "pps": "44.64Mpps",
+   "mac": "4K",
+   "buffer": "",
+   "poe_budget": "90W",
+   "hipoe": "",
+   "power_supply": "52V1.92A",
+   "power_input": "AC 100-240V",
+   "max_power": "10W",
+   "temp": "-10~50°C",
+   "dims": "220*161*44mm",
+   "nw": "0.91KG",
+   "pack_qty": "10",
+   "chipset": "",
+   "certs": "CE, FCC, RoHS",
+   "fan": "",
+   "install": "",
+   "order_model": "ZX900-AFG-SWTG018ANS",
+   "features": [
+    "2.5G",
+    "10G",
+    "无风扇"
+   ]
+  },
+  "site_model": "HR900-AFG-SWTG018ANS",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "8-Port 100/1000/2500T 802.3af/at PoE + 1-Port 10G SFP+  Ethemet Switch (100 Watts)",
+   "ports": "8 * 2.5G PoE port / 1 * 10G SFP+ port",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "85W",
+   "hipoe": "",
+   "power_supply": "52V1.92A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "220*161*44mm",
+   "nw": "0.916KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/poe-switch/209.html",
+   "category": "PoE Switch",
+   "spec_kv_count": 53
+  },
+  "diffs": [
+   {
+    "field": "poe_budget",
+    "label": "PoE预算",
+    "new": "90W",
+    "site": "85W"
+   },
+   {
+    "field": "nw",
+    "label": "净重",
+    "new": "0.91KG",
+    "site": "0.916KG"
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX901-AF-821GNS",
+  "folder": "ZX901-AF-821GNS",
+  "category_in_zip": "902POE交换机",
+  "doc": "洪瑞产品参数/902POE交换机/ZX901-AF-821GNS/ZX901-AF-821GNS(EN).pdf",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__902POE交换机__ZX901-AF-821GNS__ZX901-AF-821GNS_EN_.pdf__1d7a0929",
+  "doc_chars": 2571,
+  "photos": [
+   {
+    "name": "IMG_0662.png",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 74
+   },
+   {
+    "name": "IMG_0666.png",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_0668.png",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_0674.png",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "8-Port 100Mbps and 3-Port Gigabit PoE Switch",
+   "ports": "8*100Mbps PoE ports / 2*1Gbps uplink RJ45 ports / 1*1Gbps SFP port",
+   "bandwidth": "7.6Gbps",
+   "pps": "5.65Mpps",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "95W",
+   "hipoe": "",
+   "power_supply": "52V1.92A",
+   "power_input": "AC 100-240V",
+   "max_power": "2.3W",
+   "temp": "0~40°C",
+   "dims": "220*161*44mm",
+   "nw": "0.88KG",
+   "pack_qty": "10",
+   "chipset": "",
+   "certs": "",
+   "fan": "0",
+   "install": "Desktop",
+   "order_model": "",
+   "features": [
+    "VLAN拨码隔离",
+    "Extend 250m"
+   ]
+  },
+  "site_model": null,
+  "match": "none",
+  "near_model": null
+ },
+ {
+  "zx_model": "ZX902-AF-162G",
+  "folder": "ZX902-AF-162G",
+  "category_in_zip": "902POE交换机",
+  "doc": "洪瑞产品参数/902POE交换机/ZX902-AF-162G/ZX902-AF-162G(EN).pdf",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__902POE交换机__ZX902-AF-162G__ZX902-AF-162G_EN_.pdf__a38e4d17",
+  "doc_chars": 2779,
+  "photos": [
+   {
+    "name": "ZX902-AF-162G-200右侧.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "ZX902-AF-162G-200左侧.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "ZX902-AF-162G-200正面.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 52
+   },
+   {
+    "name": "ZX902-AF-162G-200背面.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 16
+   }
+  ],
+  "fields": {
+   "title": "Datasheet 16-Port 100Mbps and 2-Port Gigabit PoE Switch",
+   "ports": "16 *100Mbps PoE ports / 2 *1G RJ45 ports",
+   "bandwidth": "7.2Gbps",
+   "pps": "5.35Mpps",
+   "mac": "2K",
+   "buffer": "1Mbit",
+   "poe_budget": "180W",
+   "hipoe": "",
+   "power_supply": "52V3.84A",
+   "power_input": "AC 100-240V",
+   "max_power": "20W",
+   "temp": "0~40°C",
+   "dims": "268*181*44mm",
+   "nw": "1.29KG",
+   "pack_qty": "10",
+   "chipset": "",
+   "certs": "",
+   "fan": "0",
+   "install": "Desktop, Rack-mounting",
+   "order_model": "",
+   "features": [
+    "Extend 250m"
+   ]
+  },
+  "site_model": null,
+  "match": "none",
+  "near_model": "HR900-AF-1621GS-300",
+  "near_fields": {
+   "title": "16*10/100T 802.3af/at PoE ports + 2-Port 10/100/1000T + 1-Port Gigabit SFP Ethernet Switch (300 Watts)",
+   "ports": "16 *100Mbps Po E ports / 2 *1G RJ45 ports / 1 *1G SFP port",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "290W",
+   "hipoe": "",
+   "power_supply": "52V5.76A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "320*207*45mm",
+   "nw": "1.61KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/poe-switch/195.html",
+   "category": "PoE Switch",
+   "spec_kv_count": 57
+  },
+  "near_diffs": [
+   {
+    "field": "ports",
+    "label": "端口",
+    "new": "16 *100Mbps PoE ports / 2 *1G RJ45 ports",
+    "site": "16 *100Mbps Po E ports / 2 *1G RJ45 ports / 1 *1G SFP port",
+    "new_tokens": [
+     [
+      2,
+      "1G",
+      "RJ45"
+     ],
+     [
+      16,
+      "100M",
+      "PoE RJ45"
+     ]
+    ],
+    "site_tokens": [
+     [
+      1,
+      "1G",
+      "SFP"
+     ],
+     [
+      2,
+      "1G",
+      "RJ45"
+     ],
+     [
+      16,
+      "100M",
+      "PoE RJ45"
+     ]
+    ]
+   },
+   {
+    "field": "poe_budget",
+    "label": "PoE预算",
+    "new": "180W",
+    "site": "290W"
+   },
+   {
+    "field": "power_supply",
+    "label": "电源适配",
+    "new": "52V3.84A",
+    "site": "52V5.76A"
+   },
+   {
+    "field": "dims",
+    "label": "尺寸",
+    "new": "268*181*44mm",
+    "site": "320*207*45mm"
+   },
+   {
+    "field": "nw",
+    "label": "净重",
+    "new": "1.29KG",
+    "site": "1.61KG"
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX902-AF-242G",
+  "folder": "ZX902-AF-242G",
+  "category_in_zip": "902POE交换机",
+  "doc": "洪瑞产品参数/902POE交换机/ZX902-AF-242G/ZX902-AF-242G(EN).pdf",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__902POE交换机__ZX902-AF-242G__ZX902-AF-242G_EN_.pdf__38b7b08f",
+  "doc_chars": 2710,
+  "photos": [
+   {
+    "name": "ZX902-AF-242G右侧.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "ZX902-AF-242G左侧.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 10
+   },
+   {
+    "name": "ZX902-AF-242G正面.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 27
+   },
+   {
+    "name": "ZX902-AF-242G背面.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 16
+   }
+  ],
+  "fields": {
+   "title": "Datasheet 24-port 100Mbps and 2-port Gigabit PoE Switch",
+   "ports": "24 *100Mbps PoE ports / 2 *1G uplink RJ45 ports",
+   "bandwidth": "8.8 Gbps",
+   "pps": "6.54Mpps",
+   "mac": "2K",
+   "buffer": "1Mbit",
+   "poe_budget": "290W",
+   "hipoe": "",
+   "power_supply": "52V5.76A",
+   "power_input": "AC 100-240V",
+   "max_power": "6.19W",
+   "temp": "0~40°C",
+   "dims": "268*181*44mm",
+   "nw": "1.44KG",
+   "pack_qty": "10",
+   "chipset": "",
+   "certs": "",
+   "fan": "0",
+   "install": "Desktop, Rack-mounting",
+   "order_model": "",
+   "features": [
+    "Extend 250m"
+   ]
+  },
+  "site_model": null,
+  "match": "none",
+  "near_model": "HR900-AF-2421GS-300",
+  "near_fields": {
+   "title": "24*10/100T 802.3af/at PoE ports + 2-Port 10/100/1000T + 1-Port Gigabit SFP Ethernet Switch (300 Watts)",
+   "ports": "24*100Mbps PoE ports / 2*1000Mbps RJ45 ports / 1*1000Mbps SFP port",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "290W",
+   "hipoe": "",
+   "power_supply": "52V5.76A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "320*207*45mm",
+   "nw": "1.79KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/poe-switch/196.html",
+   "category": "PoE Switch",
+   "spec_kv_count": 76
+  },
+  "near_diffs": [
+   {
+    "field": "ports",
+    "label": "端口",
+    "new": "24 *100Mbps PoE ports / 2 *1G uplink RJ45 ports",
+    "site": "24*100Mbps PoE ports / 2*1000Mbps RJ45 ports / 1*1000Mbps SFP port",
+    "new_tokens": [
+     [
+      2,
+      "1G",
+      "RJ45"
+     ],
+     [
+      24,
+      "100M",
+      "PoE RJ45"
+     ]
+    ],
+    "site_tokens": [
+     [
+      1,
+      "1G",
+      "SFP"
+     ],
+     [
+      2,
+      "1G",
+      "RJ45"
+     ],
+     [
+      24,
+      "100M",
+      "PoE RJ45"
+     ]
+    ]
+   },
+   {
+    "field": "dims",
+    "label": "尺寸",
+    "new": "268*181*44mm",
+    "site": "320*207*45mm"
+   },
+   {
+    "field": "nw",
+    "label": "净重",
+    "new": "1.44KG",
+    "site": "1.79KG"
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX902-AF-42N",
+  "folder": "ZX902-AF-42N",
+  "category_in_zip": "902POE交换机",
+  "doc": "洪瑞产品参数/902POE交换机/ZX902-AF-42N/ZX902-AF-42N(EN).pdf",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__902POE交换机__ZX902-AF-42N__ZX902-AF-42N_EN_.pdf__f5ea0b66",
+  "doc_chars": 2922,
+  "photos": [
+   {
+    "name": "ZX902-AF-42N右侧.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "ZX902-AF-42N左侧.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "ZX902-AF-42N正面.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 37
+   },
+   {
+    "name": "ZX902-AF-42N背面.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 17
+   }
+  ],
+  "fields": {
+   "title": "Datasheet 6-Port 100Mbps PoE Switch",
+   "ports": "4 *100Mbps PoE ports / 2 *100Mbps uplink RJ45 port",
+   "bandwidth": "1.2Gbps",
+   "pps": "0.8928Mpps",
+   "mac": "2K",
+   "buffer": "768Kbit",
+   "poe_budget": "50W",
+   "hipoe": "Port 1 supports HiPoE 60W",
+   "power_supply": "52V1.05A",
+   "power_input": "AC 100-240V",
+   "max_power": "1.93W",
+   "temp": "0~40°C",
+   "dims": "200*118*44mm",
+   "nw": "0.54Kg",
+   "pack_qty": "20",
+   "chipset": "",
+   "certs": "",
+   "fan": "0",
+   "install": "Desktop",
+   "order_model": "",
+   "features": [
+    "Extend 250m",
+    "PoE看门狗"
+   ]
+  },
+  "site_model": null,
+  "match": "none",
+  "near_model": "HR900-AF-42N",
+  "near_fields": {
+   "title": "4-Port 10/100T 802.3af/at PoE + 2-Port 10/100T Ethernet Switch (65 Watts)",
+   "ports": "4 *100Mbps PoE ports / 2 *100Mbps uplink RJ45 ports",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "60W",
+   "hipoe": "",
+   "power_supply": "52V1.25A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "200*118*44mm",
+   "nw": "0.60KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/poe-switch/178.html",
+   "category": "PoE Switch",
+   "spec_kv_count": 64
+  },
+  "near_diffs": [
+   {
+    "field": "poe_budget",
+    "label": "PoE预算",
+    "new": "50W",
+    "site": "60W"
+   },
+   {
+    "field": "power_supply",
+    "label": "电源适配",
+    "new": "52V1.05A",
+    "site": "52V1.25A"
+   },
+   {
+    "field": "nw",
+    "label": "净重",
+    "new": "0.54Kg",
+    "site": "0.60KG"
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX902-AF-82GN",
+  "folder": "ZX902-AF-82GN",
+  "category_in_zip": "902POE交换机",
+  "doc": "洪瑞产品参数/902POE交换机/ZX902-AF-82GN/ZX902-AF-82GN(EN).pdf",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__902POE交换机__ZX902-AF-82GN__ZX902-AF-82GN_EN_.pdf__ad83681c",
+  "doc_chars": 2905,
+  "photos": [
+   {
+    "name": "ZX902-AF-82GN右侧.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 5
+   },
+   {
+    "name": "ZX902-AF-82GN左侧.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 20
+   },
+   {
+    "name": "ZX902-AF-82GN正面.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 85
+   },
+   {
+    "name": "ZX902-AF-82GN背面.jpg",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "8-Port 100Mbps and 2-Port Gigabit PoE Switch",
+   "ports": "8* 100Mbps PoE ports / 2* 1G uplink RJ45 port",
+   "bandwidth": "5.6Gbps",
+   "pps": "4.166Mpps",
+   "mac": "2K",
+   "buffer": "1Mbit",
+   "poe_budget": "90W",
+   "hipoe": "Port 1 supports HiPoE 60W",
+   "power_supply": "52V1.85A",
+   "power_input": "AC 100-240V",
+   "max_power": "2.3W",
+   "temp": "0~40°C",
+   "dims": "200*118*44mm",
+   "nw": "0.60Kg",
+   "pack_qty": "20",
+   "chipset": "",
+   "certs": "",
+   "fan": "0",
+   "install": "Desktop",
+   "order_model": "",
+   "features": [
+    "Extend 250m",
+    "PoE看门狗"
+   ]
+  },
+  "site_model": null,
+  "match": "none",
+  "near_model": "HR900-AF-82GN",
+  "near_fields": {
+   "title": "8-Port 10/100T 802.3af/at PoE + 2-Port 10/100/1000T Ethernet Switch (120 Watts)",
+   "ports": "8* 100Mbps PoE ports / 2* 1G uplink RJ45 port",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "115W",
+   "hipoe": "",
+   "power_supply": "52V2.3A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "200*118*44mm",
+   "nw": "0.62 KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/poe-switch/194.html",
+   "category": "PoE Switch",
+   "spec_kv_count": 48
+  },
+  "near_diffs": [
+   {
+    "field": "poe_budget",
+    "label": "PoE预算",
+    "new": "90W",
+    "site": "115W"
+   },
+   {
+    "field": "power_supply",
+    "label": "电源适配",
+    "new": "52V1.85A",
+    "site": "52V2.3A"
+   },
+   {
+    "field": "nw",
+    "label": "净重",
+    "new": "0.60Kg",
+    "site": "0.62 KG"
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX902-AF-82N",
+  "folder": "ZX902-AF-82N",
+  "category_in_zip": "902POE交换机",
+  "doc": "洪瑞产品参数/902POE交换机/ZX902-AF-82N/ZX902-AF-82N(EN).pdf",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__902POE交换机__ZX902-AF-82N__ZX902-AF-82N_EN_.pdf__5b823f20",
+  "doc_chars": 2890,
+  "photos": [
+   {
+    "name": "ZX902-AF-82N右侧.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 10
+   },
+   {
+    "name": "ZX902-AF-82N左侧.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "ZX902-AF-82N正面.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 104
+   },
+   {
+    "name": "ZX902-AF-82N背面.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 17
+   }
+  ],
+  "fields": {
+   "title": "10-Port 100Mbps Standard PoE Switch",
+   "ports": "8*100Mbps PoE ports / 2*100Mbps uplink RJ45 ports",
+   "bandwidth": "2Gbps",
+   "pps": "1.488Mpps",
+   "mac": "2K",
+   "buffer": "768Kbit",
+   "poe_budget": "90W",
+   "hipoe": "Port 1 supports HiPoE 60W",
+   "power_supply": "52V1.85A",
+   "power_input": "AC 100-240V",
+   "max_power": "1.98W",
+   "temp": "0~40°C",
+   "dims": "200*118*44mm",
+   "nw": "0.61KG",
+   "pack_qty": "20",
+   "chipset": "",
+   "certs": "",
+   "fan": "0",
+   "install": "Desktop",
+   "order_model": "",
+   "features": [
+    "VLAN拨码隔离",
+    "Extend 250m",
+    "PoE看门狗"
+   ]
+  },
+  "site_model": null,
+  "match": "none",
+  "near_model": "HR900-AF-82N",
+  "near_fields": {
+   "title": "8-Port 10/100T 802.3af/at PoE + 2-Port 10/100T Ethernet Switch (120 Watts)",
+   "ports": "8* 100Mbps PoE ports / 2 *100Mbps uplink RJ45 ports",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "115W",
+   "hipoe": "",
+   "power_supply": "52V2.3A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "200*118*44mm",
+   "nw": "0.62 KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/poe-switch/191.html",
+   "category": "PoE Switch",
+   "spec_kv_count": 62
+  },
+  "near_diffs": [
+   {
+    "field": "poe_budget",
+    "label": "PoE预算",
+    "new": "90W",
+    "site": "115W"
+   },
+   {
+    "field": "power_supply",
+    "label": "电源适配",
+    "new": "52V1.85A",
+    "site": "52V2.3A"
+   },
+   {
+    "field": "nw",
+    "label": "净重",
+    "new": "0.61KG",
+    "site": "0.62 KG"
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX902-AFG-411NS-65",
+  "folder": "ZX902-AFG-411NS-65",
+  "category_in_zip": "902POE交换机",
+  "doc": "洪瑞产品参数/902POE交换机/ZX902-AFG-411NS-65/ZX902-AFG-411NS（EN）.pdf",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__902POE交换机__ZX902-AFG-411NS-65__ZX902-AFG-411NS_EN_.pdf__66c21ffd",
+  "doc_chars": 2896,
+  "photos": [
+   {
+    "name": "ZX200-AXG-411NS (1).png",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 60
+   },
+   {
+    "name": "ZX200-AXG-411NS (2).png",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 28
+   },
+   {
+    "name": "ZX200-AXG-411NS (3).png",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "ZX200-AXG-411NS (4).png",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "Datasheet 6-Port Gigabit PoE Switch",
+   "ports": "4* 1G PoE ports / 1 *1G RJ45 port / 1 *1G SFP port",
+   "bandwidth": "12Gbps",
+   "pps": "8.928Mpps",
+   "mac": "2K",
+   "buffer": "1Mbit",
+   "poe_budget": "60W",
+   "hipoe": "Port 1 supports HiPoE 60W",
+   "power_supply": "52V1.25A",
+   "power_input": "AC 100-240V",
+   "max_power": "3.7W",
+   "temp": "0~40°C",
+   "dims": "200*118*44mm",
+   "nw": "0.63KG",
+   "pack_qty": "20",
+   "chipset": "",
+   "certs": "",
+   "fan": "0",
+   "install": "Desktop",
+   "order_model": "",
+   "features": [
+    "Extend 250m",
+    "PoE看门狗"
+   ]
+  },
+  "site_model": null,
+  "match": "none",
+  "near_model": "HR900-AFG-411NS-65",
+  "near_fields": {
+   "title": "4-Port 10/100/1000T 802.3af/at PoE + 1-Port 10/100/1000T + 1-Port Gigabit SFP Ethernet Switch (65 Watts)",
+   "ports": "4 *1G PoE ports / 1 *1G RJ45 port / 1* 1G SFP port",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "60W",
+   "hipoe": "",
+   "power_supply": "52V1.25A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "200*118*44mm",
+   "nw": "0.65Kg",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/poe-switch/237.html",
+   "category": "PoE Switch",
+   "spec_kv_count": 50
+  },
+  "near_diffs": [
+   {
+    "field": "nw",
+    "label": "净重",
+    "new": "0.63KG",
+    "site": "0.65Kg"
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX902-AFG-42N-65",
+  "folder": "ZX902-AFG-42N-65",
+  "category_in_zip": "902POE交换机",
+  "doc": "洪瑞产品参数/902POE交换机/ZX902-AFG-42N-65/ZX902-AFG-42N(EN).pdf",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__902POE交换机__ZX902-AFG-42N-65__ZX902-AFG-42N_EN_.pdf__552615d4",
+  "doc_chars": 2714,
+  "photos": [
+   {
+    "name": "ZX902-AFG-42N-65右侧.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "ZX902-AFG-42N-65左侧.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "ZX902-AFG-42N-65正面.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 74
+   },
+   {
+    "name": "ZX902-AFG-42N-65背面.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 16
+   },
+   {
+    "name": "ZX902-AFG-42NS右侧.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "ZX902-AFG-42NS左侧.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 63
+   },
+   {
+    "name": "ZX902-AFG-42NS正面.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 46
+   },
+   {
+    "name": "ZX902-AFG-42NS背面.jpg",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "Datasheet 6-Port Gigabit PoE Switch",
+   "ports": "4* 1G PoE ports / 2 *1G RJ45 ports",
+   "bandwidth": "12Gbps",
+   "pps": "8.928Mpps",
+   "mac": "2K",
+   "buffer": "1Mbit",
+   "poe_budget": "60W",
+   "hipoe": "Port 1 supports HiPoE 60W",
+   "power_supply": "52V1.25A",
+   "power_input": "AC 100-240V",
+   "max_power": "3.8W",
+   "temp": "0~40°C",
+   "dims": "200*118*44mm",
+   "nw": "0.61Kg",
+   "pack_qty": "20",
+   "chipset": "",
+   "certs": "",
+   "fan": "0",
+   "install": "Desktop",
+   "order_model": "",
+   "features": [
+    "Extend 250m",
+    "PoE看门狗"
+   ]
+  },
+  "site_model": null,
+  "match": "none",
+  "near_model": "HR900-AFG-42N",
+  "near_fields": {
+   "title": "4-Port 10/100/1000T 802.3af/at PoE + 2-Port 10/100/1000T Ethernet Switch (65 Watts)",
+   "ports": "4 *1G PoE ports / 2* 1G RJ45 port",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "60W",
+   "hipoe": "",
+   "power_supply": "52V1.25A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "200*118*44mm",
+   "nw": "0.61Kg",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/poe-switch/197.html",
+   "category": "PoE Switch",
+   "spec_kv_count": 48
+  },
+  "near_diffs": []
+ },
+ {
+  "zx_model": "ZX902-AFG-42NS",
+  "folder": "ZX902-AFG-42N-65",
+  "category_in_zip": "902POE交换机",
+  "doc": "洪瑞产品参数/902POE交换机/ZX902-AFG-42N-65/ZX902-AFG-42NS(EN).pdf",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__902POE交换机__ZX902-AFG-42N-65__ZX902-AFG-42NS_EN_.pdf__df59f040",
+  "doc_chars": 2726,
+  "photos": [
+   {
+    "name": "ZX902-AFG-42N-65右侧.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "ZX902-AFG-42N-65左侧.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "ZX902-AFG-42N-65正面.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 74
+   },
+   {
+    "name": "ZX902-AFG-42N-65背面.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 16
+   },
+   {
+    "name": "ZX902-AFG-42NS右侧.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "ZX902-AFG-42NS左侧.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 63
+   },
+   {
+    "name": "ZX902-AFG-42NS正面.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 46
+   },
+   {
+    "name": "ZX902-AFG-42NS背面.jpg",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "Datasheet 6-Port Gigabit PoE Switch",
+   "ports": "4* 1G PoE ports / 2 *1G SFP ports",
+   "bandwidth": "12Gbps",
+   "pps": "8.928Mpps",
+   "mac": "2K",
+   "buffer": "1Mbit",
+   "poe_budget": "60W",
+   "hipoe": "",
+   "power_supply": "52V1.25A",
+   "power_input": "AC 100-240V",
+   "max_power": "3.9W",
+   "temp": "0~40°C",
+   "dims": "200*118*44mm",
+   "nw": "0.63Kg",
+   "pack_qty": "20",
+   "chipset": "",
+   "certs": "",
+   "fan": "0",
+   "install": "Desktop",
+   "order_model": "",
+   "features": [
+    "Extend 250m",
+    "PoE看门狗"
+   ]
+  },
+  "site_model": null,
+  "match": "none",
+  "near_model": "HR900-AFG-42NS-65",
+  "near_fields": {
+   "title": "4-Port 10/100/1000T 802.3af/at PoE + 2-Port Gigabit SFP Ethernet Switch (65 Watts)",
+   "ports": "4 *1G PoE ports / 2* 1G SFP port",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "60W",
+   "hipoe": "",
+   "power_supply": "52V1.25A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "200*118*44mm",
+   "nw": "0.63Kg",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/poe-switch/239.html",
+   "category": "PoE Switch",
+   "spec_kv_count": 49
+  },
+  "near_diffs": []
+ },
+ {
+  "zx_model": "ZX902-AFG-822NS",
+  "folder": "ZX902-AFG-822NS",
+  "category_in_zip": "902POE交换机",
+  "doc": "洪瑞产品参数/902POE交换机/ZX902-AFG-822NS/ZX902-AFG-822NS（EN).pdf",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__902POE交换机__ZX902-AFG-822NS__ZX902-AFG-822NS_EN_.pdf__332c507d",
+  "doc_chars": 2801,
+  "photos": [
+   {
+    "name": "ZX902-AFG-822NS右侧.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "ZX902-AFG-822NS左侧.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 62
+   },
+   {
+    "name": "ZX902-AFG-822NS正面.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 57
+   },
+   {
+    "name": "ZX902-AFG-822NS背面.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "Datasheet 12-Port Gigabit PoE Switch",
+   "ports": "8* 1G PoE ports / 2 *1G RJ45 port / 2 *1G SFP port",
+   "bandwidth": "24Gbps",
+   "pps": "17.856Mpps",
+   "mac": "2K",
+   "buffer": "3Mbit",
+   "poe_budget": "110W",
+   "hipoe": "Port 1 supports HiPoE 60W",
+   "power_supply": "52V2.3A",
+   "power_input": "AC 100-240V",
+   "max_power": "6.7W",
+   "temp": "0~40°C",
+   "dims": "220*161*44.5mm",
+   "nw": "0.92KG",
+   "pack_qty": "10",
+   "chipset": "",
+   "certs": "",
+   "fan": "0",
+   "install": "Desktop",
+   "order_model": "",
+   "features": [
+    "Extend 250m",
+    "PoE看门狗"
+   ]
+  },
+  "site_model": null,
+  "match": "none",
+  "near_model": "HR900-AFG-822NS",
+  "near_fields": {
+   "title": "8-Port 10/100/1000T 802.3af/at PoE + 2-Port 10/100/1000T +2-Port Gigabit SFP Ethernet Switch (120 Watts)",
+   "ports": "8* 1G PoE ports / 2 *1G uplink SFP ports / 2* 1G RJ45 ports",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "110W",
+   "hipoe": "",
+   "power_supply": "52V2.3A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "220*161*44mm",
+   "nw": "0.88KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/poe-switch/208.html",
+   "category": "PoE Switch",
+   "spec_kv_count": 45
+  },
+  "near_diffs": [
+   {
+    "field": "dims",
+    "label": "尺寸",
+    "new": "220*161*44.5mm",
+    "site": "220*161*44mm"
+   },
+   {
+    "field": "nw",
+    "label": "净重",
+    "new": "0.92KG",
+    "site": "0.88KG"
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX902-AFG-82N",
+  "folder": "ZX902-AFG-82N",
+  "category_in_zip": "902POE交换机",
+  "doc": "洪瑞产品参数/902POE交换机/ZX902-AFG-82N/ZX902-AFG-82N(EN).pdf",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__902POE交换机__ZX902-AFG-82N__ZX902-AFG-82N_EN_.pdf__ff0e0536",
+  "doc_chars": 2490,
+  "photos": [
+   {
+    "name": "ZX902-AFG-82N-120右侧.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "ZX902-AFG-82N-120左侧.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "ZX902-AFG-82N-120正面.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 93
+   },
+   {
+    "name": "ZX902-AFG-82N-120背面.jpg",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "10-Port Gigabit PoE Switch",
+   "ports": "8*1Gbps PoE ports / 2*1Gbps uplink RJ45 ports",
+   "bandwidth": "20Gbps",
+   "pps": "14.88Mpps",
+   "mac": "2K",
+   "buffer": "",
+   "poe_budget": "110W",
+   "hipoe": "",
+   "power_supply": "52V2.3A",
+   "power_input": "AC 100-240V",
+   "max_power": "6.5W",
+   "temp": "0~40°C",
+   "dims": "200*118*44mm",
+   "nw": "0.69KG",
+   "pack_qty": "20",
+   "chipset": "",
+   "certs": "",
+   "fan": "0",
+   "install": "Desktop",
+   "order_model": "",
+   "features": [
+    "VLAN拨码隔离",
+    "Extend 250m"
+   ]
+  },
+  "site_model": null,
+  "match": "none",
+  "near_model": "HR900-AFG-82N",
+  "near_fields": {
+   "title": "8-Port 10/100/1000T 802.3af/at PoE + 2-Port 10/100/1000T Ethernet Switch (120 Watts)",
+   "ports": "8-Port 10/100/1000T 802.3af/at PoE + 2-Port 10/100/1000T Ethernet Switch (120 Watts)",
+   "bandwidth": "20Gbps",
+   "pps": "14.88Mpps",
+   "mac": "2K",
+   "buffer": "1Mbit",
+   "poe_budget": "110W",
+   "hipoe": "Port 2-24 PoE power output <30W，Port 1 PoE power output 60W",
+   "power_supply": "52V2.3A",
+   "power_input": "AC 100-240V",
+   "max_power": "6.5W",
+   "temp": "0~40°C",
+   "dims": "220*161*44mm",
+   "nw": "0.88KG",
+   "pack_qty": "10",
+   "chipset": "",
+   "fan": "0",
+   "install": "Desktop",
+   "url": "https://www.hruitech.com/poe-switch/199.html",
+   "category": "PoE Switch",
+   "spec_kv_count": 46
+  },
+  "near_diffs": [
+   {
+    "field": "ports",
+    "label": "端口",
+    "new": "8*1Gbps PoE ports / 2*1Gbps uplink RJ45 ports",
+    "site": "8-Port 10/100/1000T 802.3af/at PoE + 2-Port 10/100/1000T Ethernet Switch (120 Watts)",
+    "new_tokens": [
+     [
+      2,
+      "1G",
+      "RJ45"
+     ],
+     [
+      8,
+      "1G",
+      "PoE RJ45"
+     ]
+    ],
+    "site_tokens": [
+     [
+      2,
+      "1G",
+      "RJ45"
+     ],
+     [
+      8,
+      "1G",
+      "RJ45"
+     ]
+    ]
+   },
+   {
+    "field": "dims",
+    "label": "尺寸",
+    "new": "200*118*44mm",
+    "site": "220*161*44mm"
+   },
+   {
+    "field": "nw",
+    "label": "净重",
+    "new": "0.69KG",
+    "site": "0.88KG"
+   },
+   {
+    "field": "pack_qty",
+    "label": "装箱数",
+    "new": "20",
+    "site": "10"
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX-SW0050",
+  "folder": "ZX-SW0050",
+  "category_in_zip": "交换机",
+  "doc": "洪瑞产品参数/交换机/ZX-SW0050/ZX-SW0050 （英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SW0050__ZX-SW0050_英文_.doc__410c5c36",
+  "doc_chars": 2890,
+  "photos": [
+   {
+    "name": "IMG_1591.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_1593.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_1597.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_1600.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "5 Ports 100M Ethernet Switch",
+   "ports": "5*100M RJ45 Ports",
+   "bandwidth": "1Gbps",
+   "pps": "0.744Mpps",
+   "mac": "1K",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "",
+   "power_input": "DC 5V",
+   "max_power": "5W",
+   "temp": "-10~50°C",
+   "dims": "",
+   "nw": "",
+   "pack_qty": "100",
+   "chipset": "",
+   "certs": "CE、FCC、RoHS",
+   "fan": "",
+   "install": "",
+   "order_model": "",
+   "features": [
+    "无风扇"
+   ]
+  },
+  "site_model": null,
+  "match": "none",
+  "near_model": null
+ },
+ {
+  "zx_model": "ZX-SW0050+",
+  "folder": "ZX-SW0050+",
+  "category_in_zip": "交换机",
+  "doc": "洪瑞产品参数/交换机/ZX-SW0050+/ZX-SW0050+ （英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SW0050___ZX-SW0050_英文_.doc__c9be442a",
+  "doc_chars": 2803,
+  "photos": [
+   {
+    "name": "5口.10.png",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "5口.11.png",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "5口.3.png",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "5口.9.png",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "5 Ports 100M Ethernet Switch(Plastic shell)",
+   "ports": "5*100M RJ45 Ports",
+   "bandwidth": "1Gbps",
+   "pps": "0.744Mpps",
+   "mac": "2K",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "",
+   "power_input": "DC 5V",
+   "max_power": "5W",
+   "temp": "-10~50°C",
+   "dims": "",
+   "nw": "",
+   "pack_qty": "100",
+   "chipset": "",
+   "certs": "CE、FCC、RoHS",
+   "fan": "",
+   "install": "",
+   "order_model": "",
+   "features": [
+    "无风扇"
+   ]
+  },
+  "site_model": null,
+  "match": "none",
+  "near_model": "HR-SWG0050+",
+  "near_fields": {
+   "title": "5-Port 10/100/1000T Ethernet Switch",
+   "ports": "5 *1000Mbps RJ45 ports",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "92*51*21.5mm",
+   "nw": "0.062Kg",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/ethernet-switch/142.html",
+   "category": "Ethernet Switch",
+   "spec_kv_count": 36
+  },
+  "near_diffs": [
+   {
+    "field": "ports",
+    "label": "端口",
+    "new": "5*100M RJ45 Ports",
+    "site": "5 *1000Mbps RJ45 ports",
+    "new_tokens": [
+     [
+      5,
+      "100M",
+      "RJ45"
+     ]
+    ],
+    "site_tokens": [
+     [
+      5,
+      "1G",
+      "RJ45"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX-SW0080",
+  "folder": "ZX-SW0080",
+  "category_in_zip": "交换机",
+  "doc": "洪瑞产品参数/交换机/ZX-SW0080/ZX-SW0080 （英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SW0080__ZX-SW0080_英文_.doc__69832ca6",
+  "doc_chars": 2895,
+  "photos": [
+   {
+    "name": "IMG_1138.jpg",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_1147.jpg",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_1150.jpg",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_1152.jpg",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "8 Ports 100M Ethernet Switch",
+   "ports": "8*100M RJ45 Ports",
+   "bandwidth": "1.6Gbps",
+   "pps": "1.190Mpps",
+   "mac": "1K",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "",
+   "power_input": "DC 5V",
+   "max_power": "5W",
+   "temp": "-10~50°C",
+   "dims": "",
+   "nw": "",
+   "pack_qty": "40",
+   "chipset": "",
+   "certs": "CE、FCC、RoHS",
+   "fan": "",
+   "install": "",
+   "order_model": "",
+   "features": [
+    "无风扇"
+   ]
+  },
+  "site_model": null,
+  "match": "none",
+  "near_model": "HR-SWG0080",
+  "near_fields": {
+   "title": "8-Port 10/100/1000T Ethernet Switch",
+   "ports": "8 *1000Mbps RJ45 ports",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "138*78*25mm",
+   "nw": "0.24Kg",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/ethernet-switch/134.html",
+   "category": "Ethernet Switch",
+   "spec_kv_count": 36
+  },
+  "near_diffs": [
+   {
+    "field": "ports",
+    "label": "端口",
+    "new": "8*100M RJ45 Ports",
+    "site": "8 *1000Mbps RJ45 ports",
+    "new_tokens": [
+     [
+      8,
+      "100M",
+      "RJ45"
+     ]
+    ],
+    "site_tokens": [
+     [
+      8,
+      "1G",
+      "RJ45"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX-SW0080+",
+  "folder": "ZX-SW0080+",
+  "category_in_zip": "交换机",
+  "doc": "洪瑞产品参数/交换机/ZX-SW0080+/ZX-SW0080+ （英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SW0080___ZX-SW0080_英文_.doc__16a7500b",
+  "doc_chars": 2809,
+  "photos": [
+   {
+    "name": "8口.5.png",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "8口.6.png",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "8口.7.png",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "8口.8.png",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "8 Ports 100M Ethernet Switch(Plastic shell)",
+   "ports": "8*100M RJ45 Ports",
+   "bandwidth": "1.6Gbps",
+   "pps": "1.190Mpps",
+   "mac": "2K",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "",
+   "power_input": "DC 5V",
+   "max_power": "5W",
+   "temp": "-10~50°C",
+   "dims": "",
+   "nw": "",
+   "pack_qty": "100",
+   "chipset": "",
+   "certs": "CE、FCC、RoHS",
+   "fan": "",
+   "install": "",
+   "order_model": "",
+   "features": [
+    "无风扇"
+   ]
+  },
+  "site_model": null,
+  "match": "none",
+  "near_model": "HR-SWG0080+",
+  "near_fields": {
+   "title": "8-Port 10/100/1000T Ethernet Switch",
+   "ports": "8 *1000Mbps RJ45 ports",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "145*60*21.5mm",
+   "nw": "0.111Kg",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/ethernet-switch/141.html",
+   "category": "Ethernet Switch",
+   "spec_kv_count": 36
+  },
+  "near_diffs": [
+   {
+    "field": "ports",
+    "label": "端口",
+    "new": "8*100M RJ45 Ports",
+    "site": "8 *1000Mbps RJ45 ports",
+    "new_tokens": [
+     [
+      8,
+      "100M",
+      "RJ45"
+     ]
+    ],
+    "site_tokens": [
+     [
+      8,
+      "1G",
+      "RJ45"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX-SWG00160",
+  "folder": "ZX-SWG00160",
+  "category_in_zip": "交换机",
+  "doc": "洪瑞产品参数/交换机/ZX-SWG00160/ZX-SWG00160（英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG00160__ZX-SWG00160_英文_.doc__7163ac78",
+  "doc_chars": 2891,
+  "photos": [
+   {
+    "name": "IMG_0877.png",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 23
+   },
+   {
+    "name": "IMG_0880.png",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_0883.png",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_0886.png",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "16-Port Gigabit Ethernet Switch",
+   "ports": "16*10/100/1000Mbps RJ45 Ports",
+   "bandwidth": "32Gbps",
+   "pps": "23.8Mpps",
+   "mac": "8K",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V1A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "-0~40°C",
+   "dims": "",
+   "nw": "",
+   "pack_qty": "20",
+   "chipset": "",
+   "certs": "",
+   "fan": "",
+   "install": "",
+   "order_model": "ZX-SWG00160",
+   "features": [
+    "无风扇"
+   ]
+  },
+  "site_model": null,
+  "match": "none",
+  "near_model": null
+ },
+ {
+  "zx_model": "ZX-SWG0050+",
+  "folder": "ZX-SWG0050+",
+  "category_in_zip": "交换机",
+  "doc": "洪瑞产品参数/交换机/ZX-SWG0050+/ZX-SWG0050+ （英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG0050___ZX-SWG0050_英文_.doc__f4ca50c2",
+  "doc_chars": 2911,
+  "photos": [
+   {
+    "name": "5口.10.png",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "5口.11.png",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "5口.3.png",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "5口.9.png",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "5 Ports Gigabit Ethernet Switch(Plastic shell)",
+   "ports": "5*Gigabit RJ45 Ports",
+   "bandwidth": "10Gbps",
+   "pps": "7.44Mpps",
+   "mac": "2K",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "",
+   "power_input": "DC 5V",
+   "max_power": "5W",
+   "temp": "-10~50°C",
+   "dims": "",
+   "nw": "",
+   "pack_qty": "100",
+   "chipset": "",
+   "certs": "CE、FCC、RoHS",
+   "fan": "",
+   "install": "",
+   "order_model": "",
+   "features": [
+    "10G",
+    "无风扇"
+   ]
+  },
+  "site_model": "HR-SWG0050+",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "5-Port 10/100/1000T Ethernet Switch",
+   "ports": "5 *1000Mbps RJ45 ports",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "92*51*21.5mm",
+   "nw": "0.062Kg",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/ethernet-switch/142.html",
+   "category": "Ethernet Switch",
+   "spec_kv_count": 36
+  },
+  "diffs": []
+ },
+ {
+  "zx_model": "ZX-SWG0050-M",
+  "folder": "ZX-SWG0050-M",
+  "category_in_zip": "交换机",
+  "doc": "洪瑞产品参数/交换机/ZX-SWG0050-M/ZX-SWG0050-M （英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG0050-M__ZX-SWG0050-M_英文_.doc__dafed32b",
+  "doc_chars": 2943,
+  "photos": [
+   {
+    "name": "IMG_1591.jpg",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_1593.jpg",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_1597.jpg",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_1600.jpg",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "5 Ports Gigabit Ethernet Switch",
+   "ports": "5*Gigabit RJ45 Ports",
+   "bandwidth": "10Gbps",
+   "pps": "7.44Mpps",
+   "mac": "2K",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "",
+   "power_input": "DC 5V",
+   "max_power": "5W",
+   "temp": "-10~50°C",
+   "dims": "",
+   "nw": "",
+   "pack_qty": "100",
+   "chipset": "",
+   "certs": "CE、FCC、RoHS",
+   "fan": "",
+   "install": "",
+   "order_model": "",
+   "features": [
+    "10G",
+    "无风扇"
+   ]
+  },
+  "site_model": "HR-SWG0050-M",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "5-Port 10/100/1000T Ethernet Switch",
+   "ports": "5 *1000Mbps RJ45 ports",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "87*54*23mm",
+   "nw": "0.13Kg",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/ethernet-switch/133.html",
+   "category": "Ethernet Switch",
+   "spec_kv_count": 36
+  },
+  "diffs": []
+ },
+ {
+  "zx_model": "ZX-SWG0080",
+  "folder": "ZX-SWG0080",
+  "category_in_zip": "交换机",
+  "doc": "洪瑞产品参数/交换机/ZX-SWG0080/ZX-SWG0080 （英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG0080__ZX-SWG0080_英文_.doc__efc226b2",
+  "doc_chars": 2898,
+  "photos": [
+   {
+    "name": "IMG_1138.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_1147.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_1150.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_1152.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "8 Ports Gigabit Ethernet Switch",
+   "ports": "8*Gigabit RJ45 Ports",
+   "bandwidth": "16Gbps",
+   "pps": "11.90Mpps",
+   "mac": "8K",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "",
+   "power_input": "DC 5V",
+   "max_power": "",
+   "temp": "-10~40°C",
+   "dims": "",
+   "nw": "",
+   "pack_qty": "40",
+   "chipset": "",
+   "certs": "",
+   "fan": "",
+   "install": "",
+   "order_model": "",
+   "features": [
+    "无风扇"
+   ]
+  },
+  "site_model": "HR-SWG0080",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "8-Port 10/100/1000T Ethernet Switch",
+   "ports": "8 *1000Mbps RJ45 ports",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "138*78*25mm",
+   "nw": "0.24Kg",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/ethernet-switch/134.html",
+   "category": "Ethernet Switch",
+   "spec_kv_count": 36
+  },
+  "diffs": []
+ },
+ {
+  "zx_model": "ZX-SWG0080+",
+  "folder": "ZX-SWG0080+",
+  "category_in_zip": "交换机",
+  "doc": "洪瑞产品参数/交换机/ZX-SWG0080+/ZX-SWG0080+ （英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG0080___ZX-SWG0080_英文_.doc__362933ec",
+  "doc_chars": 2969,
+  "photos": [
+   {
+    "name": "8口.5.png",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "8口.6.png",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "8口.7.png",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "8口.8.png",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "8 Ports Gigabit Ethernet Switch(Plastic shell)",
+   "ports": "8*Gigabit RJ45 Ports",
+   "bandwidth": "16Gbps",
+   "pps": "11.90Mpps",
+   "mac": "8K",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "",
+   "power_input": "DC 5V",
+   "max_power": "5W",
+   "temp": "-10~50°C",
+   "dims": "",
+   "nw": "",
+   "pack_qty": "100",
+   "chipset": "",
+   "certs": "CE、FCC、RoHS",
+   "fan": "",
+   "install": "",
+   "order_model": "ZX-SWG0080+",
+   "features": [
+    "无风扇"
+   ]
+  },
+  "site_model": "HR-SWG0080+",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "8-Port 10/100/1000T Ethernet Switch",
+   "ports": "8 *1000Mbps RJ45 ports",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "145*60*21.5mm",
+   "nw": "0.111Kg",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/ethernet-switch/141.html",
+   "category": "Ethernet Switch",
+   "spec_kv_count": 36
+  },
+  "diffs": []
+ },
+ {
+  "zx_model": "ZX-SWG10160D-M",
+  "folder": "ZX-SWG10160D",
+  "category_in_zip": "交换机",
+  "doc": "洪瑞产品参数/交换机/ZX-SWG10160D/ZX-SWG10160D-M（英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG10160D__ZX-SWG10160D-M_英文_.doc__545e86b7",
+  "doc_chars": 3361,
+  "photos": [
+   {
+    "name": "IMG_0683.png",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 95
+   },
+   {
+    "name": "IMG_0689.png",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_0692.png",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_0701.png",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 23
+   }
+  ],
+  "fields": {
+   "title": "16-Port Gigabit Intelligent Ethernet Switch",
+   "ports": "16* 10/100/1000M RJ45 Ports",
+   "bandwidth": "32Gbps",
+   "pps": "23.8Mpps",
+   "mac": "8K",
+   "buffer": "4Mbit",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V1A",
+   "power_input": "",
+   "max_power": "",
+   "temp": "-10~50°C",
+   "dims": "",
+   "nw": "",
+   "pack_qty": "",
+   "chipset": "",
+   "certs": "",
+   "fan": "",
+   "install": "",
+   "order_model": "",
+   "features": [
+    "Extend 250m",
+    "无风扇"
+   ]
+  },
+  "site_model": "HR-SWG10160D-M",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "16-Port 10/100/1000T Ethernet Switch",
+   "ports": "16 *1G RJ45 ports",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V1A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "220*161*44.5mm",
+   "nw": "0.90KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/ethernet-switch/275.html",
+   "category": "Ethernet Switch",
+   "spec_kv_count": 43
+  },
+  "diffs": []
+ },
+ {
+  "zx_model": "ZX-SWG10240",
+  "folder": "ZX-SWG10240",
+  "category_in_zip": "交换机",
+  "doc": "洪瑞产品参数/交换机/ZX-SWG10240/ZX-SWG10240（英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG10240__ZX-SWG10240_英文_.doc__508896da",
+  "doc_chars": 3262,
+  "photos": [
+   {
+    "name": "_MG_9025.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 57
+   },
+   {
+    "name": "_MG_9027.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 21
+   },
+   {
+    "name": "_MG_9028.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 37
+   },
+   {
+    "name": "_MG_9030.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 17
+   }
+  ],
+  "fields": {
+   "title": "24-Port Gigabit Intelligent Ethernet Switch",
+   "ports": "24*RJ45 10/100/1000Mbps Ports",
+   "bandwidth": "48Gbps",
+   "pps": "35.71Mpps",
+   "mac": "8K",
+   "buffer": "4Mbit",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V2A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "-10~50°C",
+   "dims": "",
+   "nw": "",
+   "pack_qty": "",
+   "chipset": "",
+   "certs": "",
+   "fan": "",
+   "install": "",
+   "order_model": "",
+   "features": [
+    "Extend 250m",
+    "无风扇"
+   ]
+  },
+  "site_model": "HR-SWG10240",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "24-Port 10/100/1000T Ethemet Switch",
+   "ports": "24 *1G RJ45 ports",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V2A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "440*204*44mm",
+   "nw": "2.2KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/ethernet-switch/192.html",
+   "category": "Ethernet Switch",
+   "spec_kv_count": 42
+  },
+  "diffs": []
+ },
+ {
+  "zx_model": "ZX-SWG10240D",
+  "folder": "ZX-SWG10240D",
+  "category_in_zip": "交换机",
+  "doc": "洪瑞产品参数/交换机/ZX-SWG10240D/ZX-SWG10240D（英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG10240D__ZX-SWG10240D_英文_.doc__0828af1f",
+  "doc_chars": 3221,
+  "photos": [
+   {
+    "name": "_MG_8358.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 96
+   },
+   {
+    "name": "_MG_8359.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 92
+   },
+   {
+    "name": "_MG_8361.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "_MG_8367.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 16
+   }
+  ],
+  "fields": {
+   "title": "24-Port Gigabit Intelligent Ethernet Switch",
+   "ports": "24*RJ45 10/100/1000Mbps Ports",
+   "bandwidth": "48Gbps",
+   "pps": "35.71Mpps",
+   "mac": "8K",
+   "buffer": "4Mbit",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V2A",
+   "power_input": "",
+   "max_power": "",
+   "temp": "-10~50°C",
+   "dims": "",
+   "nw": "",
+   "pack_qty": "",
+   "chipset": "",
+   "certs": "",
+   "fan": "",
+   "install": "",
+   "order_model": "",
+   "features": [
+    "Extend 250m",
+    "无风扇"
+   ]
+  },
+  "site_model": "HR-SWG10240D",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "24-Port 10/100/1000T Ethernet Switch",
+   "ports": "24 *1G RJ45 ports",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V2A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "268*181*44mm",
+   "nw": "1.16KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/ethernet-switch/190.html",
+   "category": "Ethernet Switch",
+   "spec_kv_count": 43
+  },
+  "diffs": []
+ },
+ {
+  "zx_model": "ZX-SWG10242S",
+  "folder": "ZX-SWG10242S",
+  "category_in_zip": "交换机",
+  "doc": "洪瑞产品参数/交换机/ZX-SWG10242S/ZX-SWG10242S（英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG10242S__ZX-SWG10242S_英文_.doc__7b0338d1",
+  "doc_chars": 3775,
+  "photos": [
+   {
+    "name": "右侧.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 24
+   },
+   {
+    "name": "后面.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 19
+   },
+   {
+    "name": "左侧.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 42
+   },
+   {
+    "name": "正面.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 49
+   }
+  ],
+  "fields": {
+   "title": "26-Port Gigabit Ethernet Switch",
+   "ports": "24*10/100/1000Mbps RJ45 Ports / 2*1000M SFP Ports",
+   "bandwidth": "52Gbps",
+   "pps": "38.68Mpps",
+   "mac": "8K",
+   "buffer": "4Mbit",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V2A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "-10~50°C",
+   "dims": "440*204*44mm",
+   "nw": "2.36kg",
+   "pack_qty": "",
+   "chipset": "",
+   "certs": "",
+   "fan": "",
+   "install": "",
+   "order_model": "",
+   "features": [
+    "Extend 250m",
+    "无风扇"
+   ]
+  },
+  "site_model": "HR-SWG10242S",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "24-Port 10/100/1000T + 2-Port 1G SFP Ethernet Switch",
+   "ports": "24 *1G RJ45 ports / 2 * 1G SFP ports",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V2A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "440*204*44mm",
+   "nw": "2.36KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/ethernet-switch/193.html",
+   "category": "Ethernet Switch",
+   "spec_kv_count": 44
+  },
+  "diffs": []
+ },
+ {
+  "zx_model": "ZX-SWG10482S",
+  "folder": "ZX-SWG10482S",
+  "category_in_zip": "交换机",
+  "doc": "洪瑞产品参数/交换机/ZX-SWG10482S/ZX-SWG10482S（英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG10482S__ZX-SWG10482S_英文_.doc__3f061f5c",
+  "doc_chars": 3833,
+  "photos": [
+   {
+    "name": "_MG_9136.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "_MG_9140.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "_MG_9159.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "_MG_9161.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 23
+   }
+  ],
+  "fields": {
+   "title": "50 Port Gigabit Ethernet switch",
+   "ports": "48* 10/100/1000 Mbps RJ45 Ports / 2* 10/100/1000 Mbps SFP Ports",
+   "bandwidth": "100Gbps",
+   "pps": "74.4Mpps",
+   "mac": "32K",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V4A",
+   "power_input": "AC100-240V",
+   "max_power": "38W",
+   "temp": "-10~50°C",
+   "dims": "",
+   "nw": "",
+   "pack_qty": "",
+   "chipset": "",
+   "certs": "CE, FCC, RoHS",
+   "fan": "",
+   "install": "",
+   "order_model": "ZX-SWG10482S",
+   "features": [
+    "VLAN拨码隔离"
+   ]
+  },
+  "site_model": "HR-SWG10482S",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "48-Port 10/100/1000T + 2-Port 1G SFP Ethernet Switch",
+   "ports": "48-Port 10/100/1000T + 2-Port 1G SFP Ethernet Switch",
+   "bandwidth": "100Gbps",
+   "pps": "74.4Mpps",
+   "mac": "16K",
+   "buffer": "12Mbit",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V2A",
+   "power_input": "AC 100-240V",
+   "max_power": "33.99W",
+   "temp": "0~40°C",
+   "dims": "440*205*44mm",
+   "nw": "2.826KG",
+   "pack_qty": "5",
+   "chipset": "",
+   "fan": "0",
+   "install": "desktop",
+   "url": "https://www.hruitech.com/ethernet-switch/137.html",
+   "category": "Ethernet Switch",
+   "spec_kv_count": 25
+  },
+  "diffs": [
+   {
+    "field": "mac",
+    "label": "MAC表",
+    "new": "32K",
+    "site": "16K"
+   },
+   {
+    "field": "power_supply",
+    "label": "电源适配",
+    "new": "12V4A",
+    "site": "12V2A"
+   },
+   {
+    "field": "max_power",
+    "label": "整机功耗",
+    "new": "38W",
+    "site": "33.99W"
+   },
+   {
+    "field": "temp",
+    "label": "工作温度",
+    "new": "-10~50°C",
+    "site": "0~40°C"
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX-SWG20244S",
+  "folder": "ZX-SWG20244S",
+  "category_in_zip": "交换机",
+  "doc": "洪瑞产品参数/交换机/ZX-SWG20244S/ZX-SWG20244S 英文.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG20244S__ZX-SWG20244S_英文.doc__5070f5bb",
+  "doc_chars": 8442,
+  "photos": [
+   {
+    "name": "IMG_7096.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 64
+   },
+   {
+    "name": "IMG_7097.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_7099.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "背面.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 17
+   }
+  ],
+  "fields": {
+   "title": "28-Port Managed Gigabit Ethernet Switch",
+   "ports": "24* Gigabit Ethernet Ports / 4* Gigabit SFP Ports / 1* Console Port",
+   "bandwidth": "56Gbps",
+   "pps": "41.66Mpps",
+   "mac": "8K",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "-10~50°C",
+   "dims": "",
+   "nw": "",
+   "pack_qty": "",
+   "chipset": "",
+   "certs": "",
+   "fan": "",
+   "install": "",
+   "order_model": "ZX-SWG20244S",
+   "features": [
+    "L3静态路由",
+    "SNMP",
+    "Web网管",
+    "Console",
+    "无风扇"
+   ]
+  },
+  "site_model": "HR-SWG20244S",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "24-Port 10/100/1000T + 4-Port 1G SFP Managed Switch",
+   "ports": "24*1Gbps RJ45 ports / 4*1Gbps SFP ports / 1*Console port",
+   "bandwidth": "56Gbps",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V3A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "440*204*44mm",
+   "nw": "2.45kg",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/managed-switch/241.html",
+   "category": "Managed Switch",
+   "spec_kv_count": 188
+  },
+  "diffs": []
+ },
+ {
+  "zx_model": "ZX-SWG2082NS",
+  "folder": "ZX-SWG2082NS",
+  "category_in_zip": "交换机",
+  "doc": "洪瑞产品参数/交换机/ZX-SWG2082NS/ZX-SWG2082NS（英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG2082NS__ZX-SWG2082NS_英文_.doc__2157c387",
+  "doc_chars": 8230,
+  "photos": [
+   {
+    "name": "3-1.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 82
+   },
+   {
+    "name": "3-2.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 4
+   },
+   {
+    "name": "3-3.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "背面.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "10-Port Managed Gigabit Intelligent Ethernet Switch",
+   "ports": "8*10/100/1000Mbps Ethernet Port / 2*1000Mbps SFP Port / 1*Console Port",
+   "bandwidth": "20Gbps",
+   "pps": "14.88Mpps",
+   "mac": "8K",
+   "buffer": "4Mbit",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V2A",
+   "power_input": "DC 12V",
+   "max_power": "",
+   "temp": "-10~50°C",
+   "dims": "",
+   "nw": "",
+   "pack_qty": "",
+   "chipset": "",
+   "certs": "",
+   "fan": "",
+   "install": "",
+   "order_model": "",
+   "features": [
+    "L3静态路由",
+    "SNMP",
+    "Web网管",
+    "Console"
+   ]
+  },
+  "site_model": "HR-SWG2082NS",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "8-Port 10/100/1000T + 2-Port 1G SFP Managed Switch",
+   "ports": "8*1Gbps RJ45 ports / 2*1Gbps SFP ports / 1*Console port",
+   "bandwidth": "20Gbps",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V2A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "268*181*44mm",
+   "nw": "1.01KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/managed-switch/227.html",
+   "category": "Managed Switch",
+   "spec_kv_count": 188
+  },
+  "diffs": []
+ },
+ {
+  "zx_model": "ZX-SWTG015AS",
+  "folder": "ZX-SWTG015AS",
+  "category_in_zip": "交换机",
+  "doc": "洪瑞产品参数/交换机/ZX-SWTG015AS/ZX-SWTG015AS 英文.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTG015AS__ZX-SWTG015AS_英文.doc__c817c460",
+  "doc_chars": 3615,
+  "photos": [
+   {
+    "name": "IMG_0756-.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 63
+   },
+   {
+    "name": "IMG_0764-.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_0776-.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_0783-.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "6 Port 10G Uplink 2.5G Ethernet Switch",
+   "ports": "5*100/1000/2500M RJ45 Ports / 1*10G SFP  Port",
+   "bandwidth": "45Gbps",
+   "pps": "33.48Mpps",
+   "mac": "4K",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V1A",
+   "power_input": "DC 12V",
+   "max_power": "",
+   "temp": "-10~50°C",
+   "dims": "",
+   "nw": "",
+   "pack_qty": "",
+   "chipset": "",
+   "certs": "",
+   "fan": "",
+   "install": "",
+   "order_model": "ZX-SWTG015AS",
+   "features": [
+    "2.5G",
+    "10G",
+    "无风扇"
+   ]
+  },
+  "site_model": "HR903-SWTG015AS",
+  "match": "manual",
+  "near_model": null,
+  "site_fields": {
+   "title": "5-Port 10/100/1000/2500T + 1-Port 10G SFP+ Ethernet Switch",
+   "ports": "5*2.5Gbps RJ45 ports / 1*10Gbps SFP+ port",
+   "bandwidth": "45Gbps",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V1A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "113.5*90*25mm",
+   "nw": "0.25KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/ethernet-switch/278.html",
+   "category": "Ethernet Switch",
+   "spec_kv_count": 42
+  },
+  "diffs": []
+ },
+ {
+  "zx_model": "ZX-SWTG018AS",
+  "folder": "ZX-SWTG018AS",
+  "category_in_zip": "交换机",
+  "doc": "洪瑞产品参数/交换机/ZX-SWTG018AS/ZX-SWTG018AS (英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTG018AS__ZX-SWTG018AS_英文_.doc__4ea0a4b9",
+  "doc_chars": 3788,
+  "photos": [
+   {
+    "name": "IMG_0792.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 63
+   },
+   {
+    "name": "IMG_0801.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_0806.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_0819.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "9 Ports 10G Uplink 2.5G Ethernet Switch",
+   "ports": "8*100/1000/2500M RJ45 ports / 1*10G SFP ports",
+   "bandwidth": "60Gbps",
+   "pps": "44.64Mpps",
+   "mac": "4K",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V1A",
+   "power_input": "DC 12V",
+   "max_power": "",
+   "temp": "-10~50°C",
+   "dims": "",
+   "nw": "",
+   "pack_qty": "20",
+   "chipset": "",
+   "certs": "",
+   "fan": "",
+   "install": "",
+   "order_model": "ZX-SWTG018AS",
+   "features": [
+    "2.5G",
+    "10G"
+   ]
+  },
+  "site_model": "HR903-SWTG018AS",
+  "match": "manual",
+  "near_model": null,
+  "site_fields": {
+   "title": "8-Port 10/100/1000/2500T + 1-Port 10G SFP+ Ethernet Switch",
+   "ports": "8 * 2.5G RJ45 ports / 1 * 10G SFP+ port",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V1A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "160*90*35mm",
+   "nw": "0.32KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/ethernet-switch/279.html",
+   "category": "Ethernet Switch",
+   "spec_kv_count": 42
+  },
+  "diffs": []
+ },
+ {
+  "zx_model": "ZX-SWTG024AS",
+  "folder": "ZX-SWTG024AS",
+  "category_in_zip": "交换机",
+  "doc": "洪瑞产品参数/交换机/ZX-SWTG024AS/ZX-SWTG024AS（英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTG024AS__ZX-SWTG024AS_英文_.doc__60c2e447",
+  "doc_chars": 3863,
+  "photos": [
+   {
+    "name": "IMG_0756-.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 84
+   },
+   {
+    "name": "IMG_0764-.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_0776-.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_0783-.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "6 Port 10G Uplink 2.5G Ethernet Switch",
+   "ports": "4*100/1000/2500M RJ45 Ports / 2*10G SFP+ Ports",
+   "bandwidth": "60Gbps",
+   "pps": "44.64Mpps",
+   "mac": "4K",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V1A",
+   "power_input": "DC 12V",
+   "max_power": "",
+   "temp": "0~40°C",
+   "dims": "",
+   "nw": "",
+   "pack_qty": "",
+   "chipset": "",
+   "certs": "",
+   "fan": "",
+   "install": "",
+   "order_model": "ZX-SWTG024AS",
+   "features": [
+    "2.5G",
+    "10G"
+   ]
+  },
+  "site_model": "HR903-SWTG024AS",
+  "match": "manual",
+  "near_model": null,
+  "site_fields": {
+   "title": "4-Port 10/100/1000/2500T + 2-Port 10G SFP+ Ethernet Switch",
+   "ports": "4-Port 10/100/1000/2500T + 2-Port 10G SFP+ Ethernet Switch",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "",
+   "power_input": "",
+   "max_power": "",
+   "temp": "",
+   "dims": "",
+   "nw": "",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/ethernet-switch/280.html",
+   "category": "Ethernet Switch",
+   "spec_kv_count": 1
+  },
+  "diffs": []
+ },
+ {
+  "zx_model": "ZX-SWTG0C80N",
+  "folder": "ZX-SWTG0C80N",
+  "category_in_zip": "交换机",
+  "doc": "洪瑞产品参数/交换机/ZX-SWTG0C80N/ZX-SWTG0C80N （英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTG0C80N__ZX-SWTG0C80N_英文_.doc__e5f964c0",
+  "doc_chars": 4027,
+  "photos": [
+   {
+    "name": "1.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 63
+   },
+   {
+    "name": "2.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "3.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "背面.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 19
+   }
+  ],
+  "fields": {
+   "title": "Commercial 8-Port Full 10G Ethernet Switch",
+   "ports": "8* 10G Ethernet ports",
+   "bandwidth": "",
+   "pps": "119.04Mpps",
+   "mac": "16K",
+   "buffer": "12MBit",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V8A",
+   "power_input": "AC100-240V",
+   "max_power": "38.6W",
+   "temp": "",
+   "dims": "",
+   "nw": "",
+   "pack_qty": "5",
+   "chipset": "",
+   "certs": "CE, FCC, RoHS",
+   "fan": "",
+   "install": "",
+   "order_model": "ZX-SWTG0C80N",
+   "features": [
+    "2.5G",
+    "10G"
+   ]
+  },
+  "site_model": null,
+  "match": "none",
+  "near_model": "HR902-SWTGW2C80N",
+  "near_fields": {
+   "title": "8-Port 10GBASE-T Web Managed Switch",
+   "ports": "Port Switch configuration / Port Speed configuration / Port Duplex configuration / Port Flow Control configuration / EEE / Jumbo Frame",
+   "bandwidth": "160Gbps",
+   "pps": "119.04Mpps",
+   "mac": "16K",
+   "buffer": "12Mbit",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V8A",
+   "power_input": "AC 100-240V",
+   "max_power": "13.8W",
+   "temp": "0~40°C",
+   "dims": "320*207*45mm",
+   "nw": "1.82KG",
+   "pack_qty": "5",
+   "chipset": "",
+   "fan": "1",
+   "install": "desktop",
+   "url": "https://www.hruitech.com/managed-switch/217.html",
+   "category": "Managed Switch",
+   "spec_kv_count": 113
+  },
+  "near_diffs": [
+   {
+    "field": "ports",
+    "label": "端口",
+    "new": "8* 10G Ethernet ports",
+    "site": "Port Switch configuration / Port Speed configuration / Port Duplex configuration / Port Flow Control configuration / EEE / Jumbo Frame",
+    "new_tokens": [
+     [
+      8,
+      "10G",
+      "RJ45"
+     ]
+    ],
+    "site_tokens": []
+   },
+   {
+    "field": "max_power",
+    "label": "整机功耗",
+    "new": "38.6W",
+    "site": "13.8W"
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX-SWTG1216AS",
+  "folder": "ZX-SWTG1216AS",
+  "category_in_zip": "交换机",
+  "doc": "洪瑞产品参数/交换机/ZX-SWTG1216AS/ZX-SWTG1216AS（英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTG1216AS__ZX-SWTG1216AS_英文_.doc__a22becca",
+  "doc_chars": 4036,
+  "photos": [
+   {
+    "name": "_MG_9136.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 20
+   },
+   {
+    "name": "_MG_9140.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "_MG_9159.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "_MG_9161.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 25
+   }
+  ],
+  "fields": {
+   "title": "18 Port 10G Uplink 2.5G Ethernet Switch",
+   "ports": "16*2.5G RJ45 port / 2* 10G SFP+ port",
+   "bandwidth": "120Gbps",
+   "pps": "89.28Mpps",
+   "mac": "16K",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V4A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "0~40°C",
+   "dims": "",
+   "nw": "",
+   "pack_qty": "5",
+   "chipset": "",
+   "certs": "",
+   "fan": "",
+   "install": "",
+   "order_model": "ZX-SWTG1216AS",
+   "features": [
+    "VLAN拨码隔离",
+    "2.5G",
+    "10G"
+   ]
+  },
+  "site_model": "HR-SWTG1216AS",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "16-Port 10/100/1000/2500T + 2-Port 10G SFP+ Ethernet Switch",
+   "ports": "16-Port 10/100/1000/2500T + 2-Port 10G SFP+ Ethernet Switch",
+   "bandwidth": "120Gbps",
+   "pps": "89.28Mpps",
+   "mac": "16K",
+   "buffer": "12Mbit",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V4A",
+   "power_input": "AC 100-240V",
+   "max_power": "21.5W",
+   "temp": "0~40°C",
+   "dims": "440*205*44mm",
+   "nw": "2.21KG",
+   "pack_qty": "5",
+   "chipset": "",
+   "fan": "0",
+   "install": "Desktop",
+   "url": "https://www.hruitech.com/ethernet-switch/138.html",
+   "category": "Ethernet Switch",
+   "spec_kv_count": 26
+  },
+  "diffs": []
+ },
+ {
+  "zx_model": "ZX-SWTG1224AS",
+  "folder": "ZX-SWTG1224AS",
+  "category_in_zip": "交换机",
+  "doc": "洪瑞产品参数/交换机/ZX-SWTG1224AS/ZX-SWTG1224AS（英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTG1224AS__ZX-SWTG1224AS_英文_.doc__d14213bf",
+  "doc_chars": 3986,
+  "photos": [
+   {
+    "name": "_MG_9136.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "_MG_9140.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 20
+   },
+   {
+    "name": "_MG_9159.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "_MG_9161.jpg",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "26 Port 10G Uplink 2.5G Ethernet Switch",
+   "ports": "24* 2.5G RJ45 Ports / 2* 10G SFP+ Ports",
+   "bandwidth": "160Gbps",
+   "pps": "119.04Mpps",
+   "mac": "16K",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V4A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "0~40°C",
+   "dims": "",
+   "nw": "",
+   "pack_qty": "",
+   "chipset": "",
+   "certs": "",
+   "fan": "",
+   "install": "",
+   "order_model": "ZX-SWTG1224AS",
+   "features": [
+    "VLAN拨码隔离",
+    "2.5G",
+    "10G"
+   ]
+  },
+  "site_model": "HR-SWTG1224AS",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "24-Port 10/100/1000/2500T + 2-Port 10G SFP+ Ethernet Switch",
+   "ports": "24-Port 10/100/1000/2500T + 2-Port 10G SFP+ Ethernet Switch",
+   "bandwidth": "160Gbps",
+   "pps": "119.04Mpps",
+   "mac": "16K",
+   "buffer": "12Mbit",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V4A",
+   "power_input": "AC 100-240V",
+   "max_power": "27.9W",
+   "temp": "0~40°C",
+   "dims": "440*205*44mm",
+   "nw": "2.61KG",
+   "pack_qty": "5",
+   "chipset": "",
+   "fan": "0",
+   "install": "desktop",
+   "url": "https://www.hruitech.com/ethernet-switch/139.html",
+   "category": "Ethernet Switch",
+   "spec_kv_count": 26
+  },
+  "diffs": []
+ },
+ {
+  "zx_model": "ZX-SWTG1C8F",
+  "folder": "ZX-SWTG1C8F",
+  "category_in_zip": "交换机",
+  "doc": "洪瑞产品参数/交换机/ZX-SWTG1C8F/ZX-SWTG1C8F（英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTG1C8F__ZX-SWTG1C8F_英文_.doc__f3d9a914",
+  "doc_chars": 3768,
+  "photos": [
+   {
+    "name": "IMG_6066.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_6068.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 158
+   },
+   {
+    "name": "IMG_6071.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_6075.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "8-Port Full 10G SFP+ Ethernet Switch",
+   "ports": "8* 10G SFP+ ports",
+   "bandwidth": "160Gbps",
+   "pps": "119.04Mpps",
+   "mac": "16K",
+   "buffer": "12Mbit",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V2A",
+   "power_input": "DC 12V",
+   "max_power": "",
+   "temp": "",
+   "dims": "",
+   "nw": "",
+   "pack_qty": "",
+   "chipset": "",
+   "certs": "CE, FCC, RoHS",
+   "fan": "",
+   "install": "",
+   "order_model": "HR-SWTG1C8F",
+   "features": [
+    "2.5G",
+    "10G"
+   ]
+  },
+  "site_model": "HR-SWTG1C8F",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "8-Port 10G SFP+ Ethernet Switch",
+   "ports": "8-Port 10G SFP+ Ethernet Switch",
+   "bandwidth": "160Gbps",
+   "pps": "119.04Mpps",
+   "mac": "16K",
+   "buffer": "12Mbit",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V2A",
+   "power_input": "AC 100-240V",
+   "max_power": "13.8W",
+   "temp": "0~40°C",
+   "dims": "220*126*28mm",
+   "nw": "0.62KG",
+   "pack_qty": "20",
+   "chipset": "",
+   "fan": "0",
+   "install": "desktop",
+   "url": "https://www.hruitech.com/ethernet-switch/136.html",
+   "category": "Ethernet Switch",
+   "spec_kv_count": 25
+  },
+  "diffs": []
+ },
+ {
+  "zx_model": "ZX-SWTG342408F",
+  "folder": "ZX-SWTG342408F",
+  "category_in_zip": "交换机",
+  "doc": "洪瑞产品参数/交换机/ZX-SWTG342408F/ZX-SWTG342408F （英文）.docx",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTG342408F__ZX-SWTG342408F_英文_.docx__060626b4",
+  "doc_chars": 8366,
+  "photos": [
+   {
+    "name": "_MG_9136.png",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "_MG_9140.png",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "_MG_9159.png",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "_MG_9161.png",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 25
+   }
+  ],
+  "fields": {
+   "title": "28 Port 10G Uplink 24* SFP Port Gigabit L3 Managed Ethernet Switch",
+   "ports": "24* Gigabit SFP Ports / 8* Gigabit Ethernet Ports(Combo) 4* 10G SFP+ Ports / 1* Console Port",
+   "bandwidth": "128Gbps",
+   "pps": "95.23Mpps",
+   "mac": "16K",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V8A",
+   "power_input": "AC 100-240V",
+   "max_power": "38W",
+   "temp": "-10~50°C",
+   "dims": "440*205*44mm",
+   "nw": "3.06KG",
+   "pack_qty": "5",
+   "chipset": "",
+   "certs": "CE, FCC, RoHS",
+   "fan": "",
+   "install": "",
+   "order_model": "HR-SWTG342408F",
+   "features": [
+    "L3静态路由",
+    "SNMP",
+    "Web网管",
+    "2.5G",
+    "10G",
+    "Console"
+   ]
+  },
+  "site_model": "HR-SWTG342408F",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "Layer3 16-Port 1G SFP + 8-Port 1G Combo + 4-Port 10G SFP+ Managed Switch",
+   "ports": "16*1Gbps SFP ports / 8*1Gbps Combo ports / 4*10Gbps SFP+ ports / 1*Console port",
+   "bandwidth": "128Gbps",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V8A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "440*205*44mm",
+   "nw": "3.06KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/managed-switch/247.html",
+   "category": "Managed Switch",
+   "spec_kv_count": 203
+  },
+  "diffs": [
+   {
+    "field": "ports",
+    "label": "端口",
+    "new": "24* Gigabit SFP Ports / 8* Gigabit Ethernet Ports(Combo) 4* 10G SFP+ Ports / 1* Console Port",
+    "site": "16*1Gbps SFP ports / 8*1Gbps Combo ports / 4*10Gbps SFP+ ports / 1*Console port",
+    "new_tokens": [
+     [
+      1,
+      "-",
+      "Console"
+     ],
+     [
+      8,
+      "10G",
+      "Combo"
+     ],
+     [
+      24,
+      "1G",
+      "SFP"
+     ]
+    ],
+    "site_tokens": [
+     [
+      1,
+      "-",
+      "Console"
+     ],
+     [
+      4,
+      "10G",
+      "SFP+"
+     ],
+     [
+      8,
+      "1G",
+      "Combo"
+     ],
+     [
+      16,
+      "1G",
+      "SFP"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX-SWTG3424S",
+  "folder": "ZX-SWTG3424S",
+  "category_in_zip": "交换机",
+  "doc": "洪瑞产品参数/交换机/ZX-SWTG3424S/ZX-SWTG3424S（英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTG3424S__ZX-SWTG3424S_英文_.doc__134a0810",
+  "doc_chars": 8222,
+  "photos": [
+   {
+    "name": "右侧.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "后面.jpg",
+    "status": "dup",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "左侧.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 28
+   },
+   {
+    "name": "正面.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 23
+   }
+  ],
+  "fields": {
+   "title": "28 Port 10G Uplink 24 Port Gigabit Managed Ethernet Switch",
+   "ports": "24 * 10/100/1000Mbps RJ45 Port / 4 * 10G SFP+ Port / 1 * RJ45 Console Port / 1 * USB Port",
+   "bandwidth": "128Gbps",
+   "pps": "95.23Mpps",
+   "mac": "16K",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V3A",
+   "power_input": "AC100-240V",
+   "max_power": "",
+   "temp": "-10~50°C",
+   "dims": "440*205*44mm",
+   "nw": "2.53KG",
+   "pack_qty": "",
+   "chipset": "",
+   "certs": "CE、FCC、RoHS",
+   "fan": "",
+   "install": "",
+   "order_model": "ZX-SWTG3424S",
+   "features": [
+    "L3静态路由",
+    "SNMP",
+    "Web网管",
+    "2.5G",
+    "10G",
+    "Console"
+   ]
+  },
+  "site_model": "HR-SWTG3424S",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "Layer3 24-Port 10/100/1000T + 4-Port 10G SFP+ Managed Switch",
+   "ports": "24*1Gbps RJ45 ports / 4*10Gbps SFP+ ports / 1*Console port / 1*USB port",
+   "bandwidth": "128Gbps",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V3A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "440*204*44mm",
+   "nw": "2.53KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/managed-switch/244.html",
+   "category": "Managed Switch",
+   "spec_kv_count": 203
+  },
+  "diffs": [
+   {
+    "field": "dims",
+    "label": "尺寸",
+    "new": "440*205*44mm",
+    "site": "440*204*44mm"
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX-SWTG3448S",
+  "folder": "ZX-SWTG3448S",
+  "category_in_zip": "交换机",
+  "doc": "洪瑞产品参数/交换机/ZX-SWTG3448S/ZX-SWTG3448S（英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTG3448S__ZX-SWTG3448S_英文_.doc__5a7c1b0c",
+  "doc_chars": 8249,
+  "photos": [
+   {
+    "name": "5.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "HR-SWTG3448S.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 161
+   },
+   {
+    "name": "_MG_9364.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "_MG_9365.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "52 Port 10G Uplink 48 Port Gigabit Layer 3 Managed Ethernet Switch",
+   "ports": "48 * 10/100/1000Mbps RJ45 Port / 4 * 10G SFP+ Port / 1 * RJ45 Console Port / 1 * USB Port",
+   "bandwidth": "176Gbps",
+   "pps": "131Mpps",
+   "mac": "32K",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V8A",
+   "power_input": "AC100-240V",
+   "max_power": "46W",
+   "temp": "-10~50°C",
+   "dims": "440*280*44mm",
+   "nw": "3.87KG",
+   "pack_qty": "",
+   "chipset": "",
+   "certs": "CE、FCC、RoHS",
+   "fan": "",
+   "install": "",
+   "order_model": "ZX-SWTG3448S",
+   "features": [
+    "L3静态路由",
+    "SNMP",
+    "Web网管",
+    "2.5G",
+    "10G",
+    "Console"
+   ]
+  },
+  "site_model": null,
+  "match": "none",
+  "near_model": null
+ },
+ {
+  "zx_model": "ZX-SWTG3624AS",
+  "folder": "ZX-SWTG3624AS",
+  "category_in_zip": "交换机",
+  "doc": "洪瑞产品参数/交换机/ZX-SWTG3624AS/ZX-SWTG3624AS（英文）.docx",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTG3624AS__ZX-SWTG3624AS_英文_.docx__56cfb9bc",
+  "doc_chars": 8737,
+  "photos": [
+   {
+    "name": "IMG_5585.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 25
+   },
+   {
+    "name": "IMG_5603.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_5608.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_5621.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 21
+   }
+  ],
+  "fields": {
+   "title": "30 Port L3 Managed 10G Uplink 2.5G Ethernet Switch",
+   "ports": "24* 100/1000/2500M RJ45 Ports / 6* 10G SFP+ Ports / 1* RJ45 Console Port",
+   "bandwidth": "240Gbps",
+   "pps": "178.56Mpps",
+   "mac": "32K",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V5A",
+   "power_input": "AC100-240V",
+   "max_power": "",
+   "temp": "-10~50°C",
+   "dims": "",
+   "nw": "3.50KG",
+   "pack_qty": "",
+   "chipset": "",
+   "certs": "",
+   "fan": "",
+   "install": "",
+   "order_model": "ZX-SWTG3624AS",
+   "features": [
+    "L3静态路由",
+    "SNMP",
+    "Web网管",
+    "2.5G",
+    "10G",
+    "Console"
+   ]
+  },
+  "site_model": "HR-SWTG3624AS",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "Layer3 24-Port 10/100/1000/2500T + 6-Port 10G SFP+ Managed Switch",
+   "ports": "24*2.5Gbps RJ45 ports / 6*10Gbps SFP+ ports / 1*Console port",
+   "bandwidth": "240Gbps",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V8A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "440*281*44mm",
+   "nw": "3.50KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/managed-switch/246.html",
+   "category": "Managed Switch",
+   "spec_kv_count": 205
+  },
+  "diffs": [
+   {
+    "field": "power_supply",
+    "label": "电源适配",
+    "new": "12V5A",
+    "site": "12V8A"
+   }
+  ]
+ },
+ {
+  "zx_model": "ZX-SWTGW215AS",
+  "folder": "ZX-SWTGW215AS",
+  "category_in_zip": "交换机",
+  "doc": "洪瑞产品参数/交换机/ZX-SWTGW215AS/ZX-SWTGW215AS （英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTGW215AS__ZX-SWTGW215AS_英文_.doc__400c9438",
+  "doc_chars": 5069,
+  "photos": [
+   {
+    "name": "IMG_0756-.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 81
+   },
+   {
+    "name": "IMG_0764-.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_0776-.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_0783-.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "6 Port 10G uplink 2.5G web managed Ethernet Switch",
+   "ports": "5*2.5G RJ45 Ports / 1*10G SFP  Port",
+   "bandwidth": "45Gbps",
+   "pps": "33.48Mpps",
+   "mac": "4K",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V1A",
+   "power_input": "DC 12V",
+   "max_power": "",
+   "temp": "-10~50°C",
+   "dims": "",
+   "nw": "",
+   "pack_qty": "40",
+   "chipset": "",
+   "certs": "",
+   "fan": "",
+   "install": "",
+   "order_model": "ZX-SWTGW215AS",
+   "features": [
+    "Web网管",
+    "2.5G",
+    "10G",
+    "无风扇"
+   ]
+  },
+  "site_model": "HR-SWTGW215AS",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "6 Port 10G uplink 2.5G Web Managed Ethernet switch",
+   "ports": "5*2.5Gbps RJ45 ports / 1*10Gbps SFP+ port",
+   "bandwidth": "45Gbps",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V1A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "140*93*28mm",
+   "nw": "0.33KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/managed-switch/201.html",
+   "category": "Managed Switch",
+   "spec_kv_count": 96
+  },
+  "diffs": []
+ },
+ {
+  "zx_model": "ZX-SWTGW218AS",
+  "folder": "ZX-SWTGW218AS",
+  "category_in_zip": "交换机",
+  "doc": "洪瑞产品参数/交换机/ZX-SWTGW218AS/ZX-SWTGW218AS  （英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTGW218AS__ZX-SWTGW218AS_英文_.doc__3d906554",
+  "doc_chars": 5217,
+  "photos": [
+   {
+    "name": "IMG_0792.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 75
+   },
+   {
+    "name": "IMG_0801.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_0806.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_0819.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "9 Port 10G uplink 2.5G Web Managed Ethernet switch",
+   "ports": "8*2.5G RJ45 ports / 1*10G SFP+ ports",
+   "bandwidth": "60Gbps",
+   "pps": "44.64Mpps",
+   "mac": "4K",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V1A",
+   "power_input": "DC 12V",
+   "max_power": "",
+   "temp": "-10~50°C",
+   "dims": "",
+   "nw": "",
+   "pack_qty": "20",
+   "chipset": "",
+   "certs": "",
+   "fan": "",
+   "install": "",
+   "order_model": "ZX-SWTGW218AS",
+   "features": [
+    "Web网管",
+    "2.5G",
+    "10G"
+   ]
+  },
+  "site_model": "HR902-SWTGW218AS",
+  "match": "manual",
+  "near_model": null,
+  "site_fields": {
+   "title": "9 Port 10G uplink 2.5G Web Managed Ethernet switch",
+   "ports": "8 * 2.5G RJ45 ports / 1 * 10G SFP+ port",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V1A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "190*100*28mm",
+   "nw": "0.49KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/managed-switch/219.html",
+   "category": "Managed Switch",
+   "spec_kv_count": 94
+  },
+  "diffs": []
+ },
+ {
+  "zx_model": "ZX-SWTGW224AS",
+  "folder": "ZX-SWTGW224AS",
+  "category_in_zip": "交换机",
+  "doc": "洪瑞产品参数/交换机/ZX-SWTGW224AS/ZX-SWTGW224AS（英文）.doc",
+  "doc_id": "æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTGW224AS__ZX-SWTGW224AS_英文_.doc__aa19205c",
+  "doc_chars": 5482,
+  "photos": [
+   {
+    "name": "IMG_0756-.jpg",
+    "status": "ok",
+    "thumb": null,
+    "ocr_chars": 97
+   },
+   {
+    "name": "IMG_0764-.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_0776-.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   },
+   {
+    "name": "IMG_0783-.jpg",
+    "status": "meta",
+    "thumb": null,
+    "ocr_chars": 0
+   }
+  ],
+  "fields": {
+   "title": "6 Port 10G Uplink 2.5G Web Managed Ethernet Switch",
+   "ports": "4*2.5G RJ45 ports / 2*10G SFP+ ports",
+   "bandwidth": "60Gbps",
+   "pps": "44.64Mpps",
+   "mac": "4K",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V1A",
+   "power_input": "DC 12V",
+   "max_power": "",
+   "temp": "-10~50°C",
+   "dims": "",
+   "nw": "",
+   "pack_qty": "40",
+   "chipset": "",
+   "certs": "",
+   "fan": "",
+   "install": "",
+   "order_model": "ZX-SWTGW224AS",
+   "features": [
+    "Web网管",
+    "2.5G",
+    "10G"
+   ]
+  },
+  "site_model": "HR-SWTGW224AS",
+  "match": "exact",
+  "near_model": null,
+  "site_fields": {
+   "title": "6 Port 10G uplink 2.5G Web Managed Ethernet switch",
+   "ports": "4 * 2.5G RJ45 ports / 2 * 10G SFP+ ports",
+   "bandwidth": "",
+   "pps": "",
+   "mac": "",
+   "buffer": "",
+   "poe_budget": "",
+   "hipoe": "",
+   "power_supply": "12V1A",
+   "power_input": "AC 100-240V",
+   "max_power": "",
+   "temp": "",
+   "dims": "140*93*28mm",
+   "nw": "0.33KG",
+   "pack_qty": "",
+   "chipset": "",
+   "fan": "",
+   "install": "",
+   "url": "https://www.hruitech.com/managed-switch/200.html",
+   "category": "Managed Switch",
+   "spec_kv_count": 96
+  },
+  "diffs": []
+ }
+]
