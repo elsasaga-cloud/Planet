@@ -2,10 +2,12 @@
 # - 默认（没有 JOB 行）= Drive《SmartByte》入库的续跑/补漏：只处理 fail / pending 的文件，备份已完成的文件夹不会被覆盖（新文件单独打 *_retry* 分卷）。
 # - 写入 KEY=VALUE 行 JOB=gmail / ACCOUNT=s / SOURCE_IDS=<Drive 文件 ID,…> 则转交 scripts/gmail_ingest/ingest.py（T29，见该目录 操作步骤.md）；
 #   再跑 Drive 任务前要把 JOB 行删掉或注释掉。
-# last trigger: 2026-10-22T04:00:39Z  purpose: T29 S 邮箱补全重建（FORCE=1：附件扩展 vsd/ai/psd/视频/HEIC、损坏 xlsx 兜底、图片 OCR 门槛 8 KB；原件备份不重传）
+# last trigger: 2026-10-22T04:00:59Z  purpose: T29 S 邮箱补全重建（FORCE=1：附件扩展 vsd/ai/psd/视频/HEIC、损坏 xlsx 兜底、图片 OCR 门槛 8 KB；原件备份不重传）
 JOB=gmail
 ACCOUNT=s
 SOURCE_IDS=1j6FshrtET737Za1-ABWvutOGa9zzpJy-,19kP3mrq-GEr40ri6h2WES2kttrFqQX-J
 SOURCE_MD5=5135bf1f5c277ccbf591ae300a8dfe4f,cd19534f42214ddd8049b6ed61e82b97
 BULK_MODE=full
 OCR=1
+FORCE=1
+OCR_MIN_KB=8
