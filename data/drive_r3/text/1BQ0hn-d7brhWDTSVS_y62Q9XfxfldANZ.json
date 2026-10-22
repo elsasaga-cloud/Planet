@@ -1,0 +1,22 @@
+{
+"id":"1BQ0hn-d7brhWDTSVS_y62Q9XfxfldANZ",
+"name":"Mechanical Drawing.png",
+"path":"Drive第三轮/Marvell Based Industrial Managed Switch/L2/STI-240FM/Mechanical Drawing.png",
+"type":"图片",
+"bytes":124830,
+"sha256":"7357df8c8bc23d7455ef968b3efd978e912bcdbcf63fe206b891f04056877e5a",
+"extracted_at":"2026-10-22T12:29:33Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":3933,
+"height":2010,
+"mode":"RGB",
+"thumb_bytes":5224
+},
+"ocr":{
+"text":"口 口 口 口\n98mm\nooo 8\nHK wwe tJ\nPWRI_ PWR\nfaLlaLiaLtal Console\n©©\nSelerere) Ls\nEK 30mm +\n二 - + 一 115200.N.8.1\n| uuuuS6 |\nra i in\nDO\nDO\n28\n° ° < 回 還 =\n98mm\nL- 30mm +",
+"conf":58.9
+},
+"text":"口 口 口 口\n98mm\nooo 8\nHK wwe tJ\nPWRI_ PWR\nfaLlaLiaLtal Console\n©©\nSelerere) Ls\nEK 30mm +\n二 - + 一 115200.N.8.1\n| uuuuS6 |\nra i in\nDO\nDO\n28\n° ° < 回 還 =\n98mm\nL- 30mm +"
+}

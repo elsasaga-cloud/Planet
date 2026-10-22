@@ -1,0 +1,22 @@
+{
+"id":"19mryCvCqvIMdTVoev2zK57h1vJ-pLQ17",
+"name":"7.png",
+"path":"Drive第三轮/Marvell Based Industrial Managed Switch/L2/STI-240FM/7.png",
+"type":"图片",
+"bytes":3061558,
+"sha256":"0dad32790fa2140f126a90f8cdbc32eae3ee9cf9d3db199071a100d9ca955368",
+"extracted_at":"2026-10-22T12:29:29Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":3421,
+"height":1920,
+"mode":"RGBA",
+"thumb_bytes":4987
+},
+"ocr":{
+"text":"PWR1 PWR2\nConsole\n| a 7]\nNon-PoE-DC 12-58V: PoE:DC 44-57V 115200,8,N,1",
+"conf":67.4
+},
+"text":"PWR1 PWR2\nConsole\n| a 7]\nNon-PoE-DC 12-58V: PoE:DC 44-57V 115200,8,N,1"
+}

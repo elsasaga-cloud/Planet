@@ -1,0 +1,22 @@
+{
+"id":"1Z4AIE05OZeMKAJYaXCbEuz9ViQn0TnbL",
+"name":"7.png",
+"path":"Drive第三轮/Marvell Based Industrial Managed Switch/L2/STI-280GM/7.png",
+"type":"图片",
+"bytes":5185578,
+"sha256":"bdd53dc009a95d06ad4339b8d3d499cbb4ca8afe6ce52df73a5bcb8826379c6a",
+"extracted_at":"2026-10-22T12:29:43Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":3832,
+"height":2731,
+"mode":"RGBA",
+"thumb_bytes":6512
+},
+"ocr":{
+"text":"Console",
+"conf":90.4
+},
+"text":"Console"
+}
