@@ -14,6 +14,7 @@
   OWN_EMAILS       本邮箱自己的地址（逗号分隔；默认 <ACCOUNT>.sagatelecom@gmail.com，另会自动从 Sent 标签学习）
   BULK_MODE        headers | full（默认 headers：群发/通知类邮件只留头部 + 600 字摘要；与客户往来或本邮箱回过的线程一律全文）
   ATTACH / ATTACH_MAX_MB / ATTACH_WORKERS / OCR    附件正文抽取（复用 scripts/drive_ingest/ingest.py 的抽取器；默认 1 / 25 / 4 / 0）
+  MORE_BATCHES     1 = 本批之后还有后续批次（导出件因 Drive 空间分几次上传时用）：批尾可能被切断的半封邮件存入 state/carry.bin，下一批自动接上
   SHARD_MAX_MB     每个 JSONL 分片上限（默认 40，GitHub 单文件 100 MB 硬限）
   COMMIT_EVERY / CHECKPOINT_MIN / MAX_MINUTES      每 N 封 / 每 N 分钟检查点提交（默认 20000 / 15）；总时长上限（默认 330，超时优雅停止，下次续跑）
   GIT_COMMIT / GIT_REF / BACKUP / RELEASE_TAG / RELEASE_TARGET / PART_MAX_GB / RAW_DIR / LIMIT / FORCE   同 drive_ingest
@@ -83,6 +84,8 @@ RELEASE_TARGET = os.environ.get('RELEASE_TARGET', '')
 PART_MAX = int(float(os.environ.get('PART_MAX_GB', '1.8')) * 1024 ** 3)
 LIMIT = int(os.environ.get('LIMIT', '0'))
 FORCE = os.environ.get('FORCE', '0') == '1'
+MORE_BATCHES = os.environ.get('MORE_BATCHES', '0') == '1'   # 1 = 导出件分几批上传（Drive 放不下）：本批最后一封可能被切断，先存为 carry，下一批接上
+STATE_DIR_NAME = 'state'
 MAX_TEXT = int(os.environ.get('MAX_TEXT_CHARS', '400000'))  # 单封正文上限（超长的通常是嵌入 HTML 垃圾）
 BLOCK = 8 << 20
 
@@ -283,9 +286,10 @@ class Chain:
         return self.openers[self.i][0] if 0 <= self.i < len(self.openers) else ''
 
 
-def iter_messages(chain, start_offset=0):
+def iter_messages(chain, start_offset=0, tail_sink=None):
     """按 mbox 分隔行切分，产出 (分隔行偏移, 正文起始偏移, 消息字节)。分隔行本身不计入消息；
-    正文起始偏移 + len(消息字节) == 下一条分隔行的偏移（用于续跑）。"""
+    正文起始偏移 + len(消息字节) == 下一条分隔行的偏移（用于续跑）。
+    tail_sink 不为 None 时，流末尾的最后一封（可能被分批切断）不产出，而是以 (sep_line, bytes) 放进 tail_sink。"""
     if start_offset:
         chain.skip_to(start_offset)
     carry = b''
@@ -293,6 +297,7 @@ def iter_messages(chain, start_offset=0):
     parts = []
     sep_off = None            # 当前消息分隔行偏移
     body_off = None           # 当前消息正文起始偏移
+    sep_line = b''
     while True:
         data = chain.read(BLOCK)
         if not data:
@@ -313,6 +318,7 @@ def iter_messages(chain, start_offset=0):
                 parts = []
             sep_off = base + m.start()
             body_off = base + m.end()
+            sep_line = m.group(0)
             last = m.end()
         if sep_off is None:
             # 流不是从分隔行开始（分卷切断 / 续跑偏移落在消息中间）：残片作为「无头消息」累积
@@ -329,7 +335,11 @@ def iter_messages(chain, start_offset=0):
     if tail.strip():
         if sep_off is None:
             sep_off = body_off = base
-        yield sep_off, body_off, tail
+            sep_line = b''
+        if tail_sink is not None:
+            tail_sink.append((sep_line, tail, sep_off))
+        else:
+            yield sep_off, body_off, tail
 
 
 # ---------------------------------------------------------------- 来源：下载 / 展开
@@ -972,6 +982,7 @@ def pass1(chain, start_offset, own, clients, limit):
 
 
 def process_message(off, raw, src_i, ctx):
+    """src_i = 批次号（manifest.batches[].id），off = 该批次字节流里的分隔行偏移。"""
     own, clients, thr_keep, atts_store = ctx['own'], ctx['clients'], ctx['thr_keep'], ctx['atts']
     rec = {'k': None, 'src': src_i, 'off': off, 'bytes': len(raw)}
     try:
@@ -1066,8 +1077,11 @@ def coverage_md(manifest, stats, clients):
     L.append(f'# Gmail（{ACCOUNT} 邮箱）Takeout 全量入库 · 覆盖率报告\n')
     L.append(f'- 生成时间：{now()}；状态：**{manifest.get("status")}**；本邮箱地址：{", ".join(manifest["meta"].get("own_emails", []))}')
     srcs = manifest.get('sources', [])
-    L.append(f'- 来源：{len(srcs)} 个文件，合计 {sum(s.get("bytes", 0) for s in srcs) / 1e9:.2f} GB；mbox 条目 {manifest.get("progress", {}).get("entries", "?")} 个，'
-             f'流总长 {manifest.get("progress", {}).get("total_bytes", 0) / 1e9:.2f} GB，已处理到偏移 {manifest.get("progress", {}).get("offset", 0) / 1e9:.2f} GB')
+    L.append(f'- 来源：{len(srcs)} 个文件，合计 {sum(s.get("bytes", 0) for s in srcs) / 1e9:.2f} GB：' + '；'.join(f'`{s["file"]}` {s.get("bytes", 0) / 1e9:.2f} GB' for s in srcs))
+    for b in manifest.get('batches', []):
+        L.append(f'- 批次 {b.get("id")}：{len(b.get("files", []))} 个文件 / mbox 条目 {b.get("entries", "?")} 个 / 流总长 {b.get("total_bytes", 0) / 1e9:.2f} GB，'
+                 f'已处理到偏移 {b.get("offset", 0) / 1e9:.2f} GB，{b.get("messages", 0):,} 封，{"✅ 完成" if b.get("done") else "⏳ 未完"}'
+                 + (f'，批尾 carry {b.get("carry_bytes")} B 交下一批' if b.get('carry_bytes') else ''))
     L.append(f'- 规则：**full** = 全文（非群发 / 本邮箱发出 / 本邮箱回过的线程 / 对方是 Saga Clients 里的客户 / 加星 / 重要）；'
              f'**snippet** = 群发与通知类只留头部 + 前 {SNIPPET} 字；附件按 sha256 去重抽正文（≤{ATTACH_MAX // 1024 // 1024} MB，文档类；图片 OCR={"开" if OCR else "关"}）')
     bk = manifest.get('backup', {})
@@ -1289,43 +1303,70 @@ def build_indexes(manifest, clients):
 
 
 def main():
-    log(f'gmail ingest: account={ACCOUNT} out={OUT} bulk_mode={BULK_MODE} attach={ATTACH} ocr={OCR} tools: '
+    global RELEASE_TAG
+    log(f'gmail ingest: account={ACCOUNT} out={OUT} bulk_mode={BULK_MODE} attach={ATTACH} ocr={OCR} more_batches={MORE_BATCHES} tools: '
         + ' '.join(f'{c}={"y" if have(c) else "n"}' for c in ('tesseract', 'soffice', 'pdftoppm', 'gh')))
     os.makedirs(OUT, exist_ok=True)
+    state_dir = os.path.join(OUT, STATE_DIR_NAME)
+    os.makedirs(state_dir, exist_ok=True)
     manifest = load_manifest()
-    manifest['runs'].append({'started': now(), 'limit': LIMIT, 'bulk_mode': BULK_MODE, 'attach': ATTACH, 'ocr': OCR})
+    if manifest['meta'].get('release_tag') and not os.environ.get('RELEASE_TAG') and not FORCE:
+        RELEASE_TAG = manifest['meta']['release_tag']       # 多批 / 续跑沿用同一个 Release
+    manifest['meta']['release_tag'] = RELEASE_TAG
+    manifest['runs'].append({'started': now(), 'limit': LIMIT, 'bulk_mode': BULK_MODE, 'attach': ATTACH, 'ocr': OCR, 'more_batches': MORE_BATCHES})
     paths = resolve_sources()
     old_src = {s.get('file'): s for s in manifest.get('sources', [])}
-    manifest['sources'] = [{'label': l, 'file': os.path.basename(p), 'bytes': os.path.getsize(p),
-                            'sha256': (old_src.get(os.path.basename(p)) or {}).get('sha256') or sha256_file(p)} for l, p in paths]
+    cur_sources = [{'label': l, 'file': os.path.basename(p), 'bytes': os.path.getsize(p),
+                    'sha256': (old_src.get(os.path.basename(p)) or {}).get('sha256') or sha256_file(p)} for l, p in paths]
+    # 批次：来源文件集合相同 → 同一批（续跑）；不同 → 新批次（分几次上传的后续批）
+    batches = manifest.setdefault('batches', [])
+    key = sorted(x['file'] for x in cur_sources)
+    batch = next((b for b in batches if sorted(b.get('files', [])) == key), None)
+    if batch is None:
+        batch = {'id': len(batches) + 1, 'files': key, 'started': now(), 'offset': 0, 'messages': 0, 'done': False}
+        batches.append(batch)
+    bid = batch['id']
+    known = {x['file'] for x in manifest.get('sources', [])}
+    manifest['sources'] = manifest.get('sources', []) + [x for x in cur_sources if x['file'] not in known]
     backup_sources(paths, manifest)
     write_json(os.path.join(OUT, 'manifest.json'), manifest)
 
     openers = mbox_openers(paths)
+    carry_path = os.path.join(state_dir, 'carry.bin')
+    if bid > 1 and os.path.exists(carry_path) and os.path.getsize(carry_path) > 0 and not batch.get('done'):
+        # 上一批被切断的尾巴接到本批最前面
+        log(f'prepend carry from previous batch: {os.path.getsize(carry_path)} bytes')
+        openers.insert(0, ('carry(previous batch tail)', (lambda cp=carry_path: open(cp, 'rb')), os.path.getsize(carry_path)))
     total = sum(o[2] for o in openers)
-    prog = manifest.setdefault('progress', {})
+    prog = manifest['progress'] = batch          # 兼容旧字段：progress 指向当前批
     prog.update({'entries': len(openers), 'entry_names': [o[0] for o in openers][:50], 'total_bytes': total})
     start = 0 if FORCE else int(prog.get('offset', 0) or 0)
     if prog.get('done') and not FORCE:
-        log('already done; rebuilding indexes only')
+        log(f'batch {bid} already done; rebuilding indexes only')
         start = total
     clients = Clients()
     own = set(OWN_EMAILS) | set(manifest['meta'].get('own_emails', []))
 
-    # pass 1：头部扫描（学习本邮箱地址 + 要全文保留的线程）
+    # pass 1：头部扫描（学习本邮箱地址 + 要全文保留的线程）；线程集合跨批次累积（state/thr_keep.txt）
+    thr_path = os.path.join(state_dir, 'thr_keep.txt')
+    thr_prev = set(open(thr_path, encoding='utf-8').read().split()) if os.path.exists(thr_path) else set()
     chain = Chain([(o[0], o[1]) for o in openers])
     thr_keep, learned, n1 = pass1(chain, 0, own, clients, LIMIT)
+    thr_keep |= thr_prev
     if learned - own:
         log('learned own addresses from Sent:', sorted(learned - own))
     own |= learned
     manifest['meta']['own_emails'] = sorted(own)
-    log(f'pass1: {n1} messages scanned, threads to keep full: {len(thr_keep)}')
+    with open(thr_path, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(sorted(thr_keep)))
+    log(f'pass1: {n1} messages scanned, threads to keep full: {len(thr_keep)} (incl. {len(thr_prev)} from previous batches)')
 
     # pass 2：全量解析
     shards = Shards(manifest)
     atts = AttachStore(manifest)
     ctx = {'own': own, 'clients': clients, 'thr_keep': thr_keep, 'atts': atts}
     chain = Chain([(o[0], o[1]) for o in openers])
+    tail_sink = [] if MORE_BATCHES else None
     n = done_since = 0
     last_ckpt = time.time()
     deadline = T0 + MAX_MINUTES * 60
@@ -1342,7 +1383,7 @@ def main():
         manifest['status'] = 'done' if final else 'partial'
         write_json(os.path.join(OUT, 'manifest.json'), manifest)
 
-    for off, body_off, raw in iter_messages(chain, start):
+    for off, body_off, raw in iter_messages(chain, start, tail_sink):
         if LIMIT and n >= LIMIT:
             break
         if time.time() > deadline:
@@ -1350,9 +1391,9 @@ def main():
             log('MAX_MINUTES reached → graceful stop at offset', off)
             break
         try:
-            rec = process_message(off, raw, 0, ctx)
+            rec = process_message(off, raw, bid, ctx)
         except Exception as e:  # noqa
-            rec = {'k': hashlib.sha1(raw[:4000]).hexdigest()[:16], 'src': 0, 'off': off, 'bytes': len(raw), 'err': f'process: {type(e).__name__}: {e}'[:200],
+            rec = {'k': hashlib.sha1(raw[:4000]).hexdigest()[:16], 'src': bid, 'off': off, 'bytes': len(raw), 'err': f'process: {type(e).__name__}: {e}'[:200],
                    'text': raw[:2000].decode('utf-8', 'ignore'), 'from': {'n': '', 'e': ''}, 'to': [], 'cc': [], 'labels': [], 'dir': 'in', 'keep': 'full'}
         shards.write(rec)
         n += 1
@@ -1369,10 +1410,24 @@ def main():
             last_ckpt = time.time()
     atts.finish()
     shards.close()
-    if not stopped_early and not (LIMIT and n >= LIMIT):
+    complete = not stopped_early and not (LIMIT and n >= LIMIT)
+    if complete:
         last_off = total if total else last_off
         prog['done'] = True
-    checkpoint(final=prog.get('done', False))
+        prog['ended'] = now()
+        if tail_sink:   # MORE_BATCHES：批尾半封存为 carry，下一批接上
+            sep_line, tail, _ = tail_sink[-1]
+            with open(carry_path, 'wb') as f:
+                f.write(sep_line + tail)
+            batch['carry_bytes'] = len(sep_line) + len(tail)
+            log(f'batch {bid} tail kept as carry: {len(tail)} bytes (will be completed by next batch)')
+        elif os.path.exists(carry_path) and bid > 1:
+            os.remove(carry_path)
+    all_done = complete and not MORE_BATCHES
+    checkpoint(final=all_done)
+    if complete and MORE_BATCHES:
+        manifest['status'] = 'awaiting_next_batch'
+        write_json(os.path.join(OUT, 'manifest.json'), manifest)
     stats = build_indexes(manifest, clients)
     manifest['stats'] = {k: v for k, v in stats.items() if k in ('messages', 'full', 'snippet', 'out', 'in', 'bulk', 'with_client', 'parse_err',
                                                                  'attachments', 'att_unique', 'att_ok', 'att_fail', 'att_skip', 'text_chars', 'att_chars')}
@@ -1380,7 +1435,8 @@ def main():
     manifest['runs'][-1].update({'ended': now(), 'messages_this_run': n, 'stopped_early': stopped_early})
     write_json(os.path.join(OUT, 'manifest.json'), manifest)
     coverage_md(manifest, stats, clients)
-    git_commit_push(f'T29: Gmail({ACCOUNT}) 入库 {"完成" if prog.get("done") else "阶段提交"}：{stats["messages"]} 封（全文 {stats["full"]} / 摘要 {stats["snippet"]}），'
+    label = '完成' if all_done else (f'第 {bid} 批完成，等下一批' if complete else '阶段提交')
+    git_commit_push(f'T29: Gmail({ACCOUNT}) 入库 {label}：{stats["messages"]} 封（全文 {stats["full"]} / 摘要 {stats["snippet"]}），'
                     f'附件 {stats["att_unique"]} 个去重、正文 {stats["att_ok"]}，关联客户 {len(stats["clients"])} 家')
     log('DONE', json.dumps(manifest['stats'], ensure_ascii=False), 'stopped_early' if stopped_early else '')
 
