@@ -1,0 +1,22 @@
+{
+"id":"181lyjH4EvMOI20Q7yaGEB3f-NkstanWm",
+"name":"6.jpg",
+"path":"SmartByte/Factory Information/6.jpg",
+"type":"图片",
+"bytes":7798705,
+"sha256":"e5153272e9bde8fa23f84b05015fa24a1f81288ac0374510d9a59953f19fd6bd",
+"extracted_at":"2026-10-22T02:11:42Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":4032,
+"height":3024,
+"mode":"RGB",
+"thumb_bytes":14327
+},
+"ocr":{
+"text":"个 cauron",
+"conf":65.0
+},
+"text":"个 cauron"
+}

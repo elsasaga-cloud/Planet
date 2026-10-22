@@ -1,0 +1,22 @@
+{
+"id":"1WR9Bn6qKOpXr5CrF_JE8WL7zORQShMA_",
+"name":"1.jpg",
+"path":"SmartByte/Factory Information/Team/1.jpg",
+"type":"图片",
+"bytes":3778144,
+"sha256":"0352c9f614b8ca2ca336bf1c221b41b7d9d7d6c07a875aeedec091c66712fcc4",
+"extracted_at":"2026-10-22T02:11:50Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":4032,
+"height":3024,
+"mode":"RGB",
+"thumb_bytes":16240
+},
+"ocr":{
+"text":"既 生 ip 何 生",
+"conf":92.2
+},
+"text":"既 生 ip 何 生"
+}
