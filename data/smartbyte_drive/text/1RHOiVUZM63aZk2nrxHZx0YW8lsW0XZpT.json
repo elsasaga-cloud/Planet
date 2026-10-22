@@ -1,0 +1,22 @@
+{
+"id":"1RHOiVUZM63aZk2nrxHZx0YW8lsW0XZpT",
+"name":"3.jpg",
+"path":"SmartByte/工业非管理/STI-PA-120W-UP/3.jpg",
+"type":"图片",
+"bytes":289823,
+"sha256":"a1f6909750740a58abb41954df73ae5eb4891d9e875916da3cddd3a3d7f8c47b",
+"extracted_at":"2026-10-22T02:04:47Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":881,
+"height":2326,
+"mode":"RGB",
+"thumb_bytes":6902
+},
+"ocr":{
+"text":"DC Input 12-48V",
+"conf":93.7
+},
+"text":"DC Input 12-48V"
+}

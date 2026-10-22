@@ -1,0 +1,24 @@
+{
+"id":"1uRfOUgVKvQrQrVNU0pAk49XAkuYYb47Y",
+"name":"12V_1.jpg",
+"path":"SmartByte/工业非管理/STI-PA-120W-UP/12V_1.jpg",
+"type":"图片",
+"bytes":298726,
+"sha256":"76b24029d7d85c8c6de71d874ce33812c08cfc72ca0ae0e324944e71ff701e1c",
+"extracted_at":"2026-10-22T02:04:47Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":1820,
+"height":732,
+"mode":"RGB",
+"datetime":"2024:08:29 19:26:25",
+"software":"Adobe Photoshop CS6 (Windows)",
+"thumb_bytes":6292
+},
+"ocr":{
+"text":"Input DC 12V and output IEEE802.3af/at 30W POE er\ney\nSTI-PA-120W-UP 圖\nIEEE 802.3af/at\nDC 12V PoE 和\n> >\nSolar Charge Controller STI-O54GP ()",
+"conf":76.9
+},
+"text":"Input DC 12V and output IEEE802.3af/at 30W POE er\ney\nSTI-PA-120W-UP 圖\nIEEE 802.3af/at\nDC 12V PoE 和\n> >\nSolar Charge Controller STI-O54GP ()"
+}

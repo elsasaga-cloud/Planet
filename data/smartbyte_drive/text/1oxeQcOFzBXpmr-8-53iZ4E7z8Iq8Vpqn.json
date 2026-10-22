@@ -1,0 +1,24 @@
+{
+"id":"1oxeQcOFzBXpmr-8-53iZ4E7z8Iq8Vpqn",
+"name":"24V.jpg",
+"path":"SmartByte/工业非管理/STI-PA-120W-UP/24V.jpg",
+"type":"图片",
+"bytes":264015,
+"sha256":"5a41ca4b09da9b48cadb8e8b6afef5ae0018847dfabc9badfebeecc31fece62b",
+"extracted_at":"2026-10-22T02:04:47Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":1883,
+"height":728,
+"mode":"RGB",
+"datetime":"2024:08:29 19:35:55",
+"software":"Adobe Photoshop CS6 (Windows)",
+"thumb_bytes":5914
+},
+"ocr":{
+"text":"Input DC24V and output IEEE802.3af/at 30W POE, popular in IP intercom, access control and wireless transmission systems\nSTI-PA-120W- UE\nDC 24V Input\nSTI-O54GP",
+"conf":93.9
+},
+"text":"Input DC24V and output IEEE802.3af/at 30W POE, popular in IP intercom, access control and wireless transmission systems\nSTI-PA-120W- UE\nDC 24V Input\nSTI-O54GP"
+}

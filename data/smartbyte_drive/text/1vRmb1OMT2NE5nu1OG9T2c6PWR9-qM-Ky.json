@@ -1,0 +1,22 @@
+{
+"id":"1vRmb1OMT2NE5nu1OG9T2c6PWR9-qM-Ky",
+"name":"1.png",
+"path":"SmartByte/工业非管理/STI-PA-120W-UP/1.png",
+"type":"图片",
+"bytes":881583,
+"sha256":"d4bc51623e9c6c8f2b742b57bc1c90295d77a9f9866103b5111346dfd89ca35f",
+"extracted_at":"2026-10-22T02:04:46Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":905,
+"height":1260,
+"mode":"RGBA",
+"thumb_bytes":10611
+},
+"ocr":{
+"text":"PWR®\n+\nAt'zsDa3ndlno TuMd\nAv-ZS DG: 1NdINO ZAMd\n|",
+"conf":53.1
+},
+"text":"PWR®\n+\nAt'zsDa3ndlno TuMd\nAv-ZS DG: 1NdINO ZAMd\n|"
+}

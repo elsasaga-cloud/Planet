@@ -1,0 +1,22 @@
+{
+"id":"142jdKiz-r5FbnAw4iiEBTZbXbtgKDooS",
+"name":"2.jpg",
+"path":"SmartByte/工业非管理/STI-PA-120W-UP/actual photos/2.jpg",
+"type":"图片",
+"bytes":2147746,
+"sha256":"5f50380d032cafb740998dbb656a5ebf18677fbd6107fb62e27030f61818c9e9",
+"extracted_at":"2026-10-22T02:04:53Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":3072,
+"height":4096,
+"mode":"RGB",
+"thumb_bytes":3822
+},
+"ocr":{
+"text":"+ =\nPWRA Sutput OC sz2.av",
+"conf":57.4
+},
+"text":"+ =\nPWRA Sutput OC sz2.av"
+}

@@ -1,0 +1,24 @@
+{
+"id":"1XBJBITsR1PsCd67dxvBNygWZXSgQVDnO",
+"name":"12V_2.jpg",
+"path":"SmartByte/工业非管理/STI-PA-120W-UP/12V_2.jpg",
+"type":"图片",
+"bytes":189253,
+"sha256":"06844a48c1e8252f7edd2530b1b56a32b86c0a8f7ce6604dc444794f14bad687",
+"extracted_at":"2026-10-22T02:04:47Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":1347,
+"height":673,
+"mode":"RGB",
+"datetime":"2024:08:29 19:41:47",
+"software":"Adobe Photoshop CS6 (Windows)",
+"thumb_bytes":9391
+},
+"ocr":{
+"text":"Input DC12V and output IEEE802.3af/at 30W POE\nssf 吧\nPower Supply for Vehicle POE Devices DC T2V-Inpit\nSTI-O54GP\nSTI-PA-120W-UP",
+"conf":83.6
+},
+"text":"Input DC12V and output IEEE802.3af/at 30W POE\nssf 吧\nPower Supply for Vehicle POE Devices DC T2V-Inpit\nSTI-O54GP\nSTI-PA-120W-UP"
+}
