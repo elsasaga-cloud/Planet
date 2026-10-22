@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__外箱箱标__label_1.png__0fde9861",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/2nd order/发货图片/外箱箱标/label 1.png",
+"name":"label 1.png",
+"ext":".png",
+"bytes":26494,
+"sha256":"0fde986191de0d5c997ff87e5de9ba160b6dbfabf48ddb93701fd3fe63b5b957",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":610,
+"height":587,
+"mode":"RGBA",
+"thumb_bytes":13631
+},
+"warnings":[],
+"chars":128,
+"text":"Product name: Industrial Switch\nModel: STI-42424DGGPM\nQty.:1 PCS II INIT\n1\nSN: 几 册 出\n202S0214001\nWeight: 2.5 KG\nCarton No.: 1 /2",
+"extracted_at":"2026-10-22T07:52:28Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__外箱箱标__label_1.png__0fde9861.jpg"
+}

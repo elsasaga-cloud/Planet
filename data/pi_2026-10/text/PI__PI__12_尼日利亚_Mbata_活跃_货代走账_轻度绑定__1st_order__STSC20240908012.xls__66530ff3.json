@@ -1,0 +1,264 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__1st_order__STSC20240908012.xls__66530ff3",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/1st order/STSC20240908012.xls",
+"name":"STSC20240908012.xls",
+"ext":".xls",
+"bytes":578048,
+"sha256":"66530ff37ac2e6a868684134c37da6e57051bd6c056c75bbf8fb2631d841dfe2",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Proforma Invoice"
+],
+"rows_total":48
+},
+"warnings":[],
+"chars":3352,
+"text":"--- Sheet: Proforma Invoice ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nAddress: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob/WhatsApp/WeChat: 86 15237149683                      www.sagatelecom.com.cn                    Email: s.sagatelecom@gmail.com\n*********************************************************************************************************************\nProforma  Invoice\nPO No.\t\t\tInvoice No.:\tSTSC20240908012\nBuyer:\tBiz - Ethics Ltd.\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t234-07029186461\t\tIssued By:\tSimon Cheng\nEmail:\tinfo@belnetworks.com\t\tInvoice Date:\t8th, Sept, 2024\nContact Person:\tValentine Mbata\t\tPayment Term:\tT/T in advance\nShipping Address\tSuite E 2/3, lfesanya Shopping Complex,7, Otigba Street, PM.B. 15 M/M International Airport\nModel\tPhoto\tSpecification\t\tQuantity \n(pcs)\tUnit Price\n(RMB)\tAmount \n(RMB)\tRemark\nSeller: STC-28GPM\n\nBuyer: Null\t\tCommercial PoE Managed Switch\n\n2*Gigabit SFP+8*10/100/1000M RJ45 +1*Console Port, POE af/at, 120W budget\nL2 managed, support PoE management, PoE watchdog, AC input, Rack compatible\nWith mounting hanger/Power Cord\t\t25\t385\t9625\tSample Testing\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 268*181*44mm\nGross Weight: 1.62Kg\nSeller: STC-228GP\n\nBuyer: Null\t\tCommercial PoE Switch\n\n2*Gigabit SFP+2*10/100/1000M RJ45 Uplink+8*10/100/1000M POE Downlink\nPOE af/at, 120W budget, Support Extend mode, unmanaged, PoE Watchdog, AC input, Rack compatible, With mounting hanger/Power Cord\t\t5\t230\t1150\tSample Testing\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 220*161*44.5mm\nGross Weight: 1.22Kg\nSeller: STC-424DGGPM\n\nBuyer: Null\t\tCommercial PoE Managed Switch\n\n4*1G/2.5G SFP+24*10/100/1000M RJ45+1*Console Port, L2+ managed, PoE af/at, 280W budget, Support PoE management, PoE watchdog, AC input, Rack compatible\nWith mounting hanger/Power Cord\t\t12\t860\t10320\tSample Testing\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 440*180*44mm\nGross Weight: 4Kg\nCustomized Packing Box\t3 types of packing boxes, MoQ 300pcs each, 3.5RMB/each\t\t\t\t\t3150\nFreight Cost\t1000RMB for about 100Kg volume weight to Guangzhou\nDoor-to-door service\t\t\t\t\t1000\nTOTAL\t\t\t\t42\t\t25245\nSAY TOTAL IN RMB TWENTY FIVE THOUSAND TWO HUNDRED AND FORTY FIVE ONLY\nRemark\nPlease do make sure client side could handle import customs clearance.\n1. Payment: Full payment to the below bank account before shipment.\nBank Information\nBank Name\tBANK OF CHINA HENAN BRANCH\nBank Address\tHUANYUAN ROAD 40TH ZHENGZHOU CITY HENAN CHINA\nBeneficiary\tZhengzhou Saga Telecom Co., Ltd.\nAccount No.(USD)\t255987045839\nSWIFT CODE\tBKCHCNBJ530\n2. NOTE: Saga Telecom will not pay for any bank charge.\nPlease make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice.\n3. Leadtime: 7~10 working days\n4. Country of origin: China\n5. Customized packing\nPackage Marks: None\nPacking list is available upon request\n6. Warranty: 1 year, lifetime technical support\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" for more information.\nBuyer: Biz - Ethics Ltd.\t\t\tSeller: Zhengzhou Saga Telecom Co., Ltd.\nValentine Mbata\t\t\tSimon Cheng\nAuthorized Signature\t\t\tAuthorized Signature",
+"sheets":{
+"Proforma Invoice":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob/WhatsApp/WeChat: 86 15237149683                      www.sagatelecom.com.cn                    Email: s.sagatelecom@gmail.com"
+],
+[
+"*********************************************************************************************************************"
+],
+[
+"Proforma  Invoice"
+],
+[
+"PO No.",
+"",
+"",
+"Invoice No.:",
+"STSC20240908012"
+],
+[
+"Buyer:",
+"Biz - Ethics Ltd.",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"234-07029186461",
+"",
+"Issued By:",
+"Simon Cheng"
+],
+[
+"Email:",
+"info@belnetworks.com",
+"",
+"Invoice Date:",
+"8th, Sept, 2024"
+],
+[
+"Contact Person:",
+"Valentine Mbata",
+"",
+"Payment Term:",
+"T/T in advance"
+],
+[
+"Shipping Address",
+"Suite E 2/3, lfesanya Shopping Complex,7, Otigba Street, PM.B. 15 M/M International Airport"
+],
+[
+"Model",
+"Photo",
+"Specification",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(RMB)",
+"Amount \n(RMB)",
+"Remark"
+],
+[
+"Seller: STC-28GPM\n\nBuyer: Null",
+"",
+"Commercial PoE Managed Switch\n\n2*Gigabit SFP+8*10/100/1000M RJ45 +1*Console Port, POE af/at, 120W budget\nL2 managed, support PoE management, PoE watchdog, AC input, Rack compatible\nWith mounting hanger/Power Cord",
+"",
+"25",
+"385",
+"9625",
+"Sample Testing"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 268*181*44mm\nGross Weight: 1.62Kg"
+],
+[
+"Seller: STC-228GP\n\nBuyer: Null",
+"",
+"Commercial PoE Switch\n\n2*Gigabit SFP+2*10/100/1000M RJ45 Uplink+8*10/100/1000M POE Downlink\nPOE af/at, 120W budget, Support Extend mode, unmanaged, PoE Watchdog, AC input, Rack compatible, With mounting hanger/Power Cord",
+"",
+"5",
+"230",
+"1150",
+"Sample Testing"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 220*161*44.5mm\nGross Weight: 1.22Kg"
+],
+[
+"Seller: STC-424DGGPM\n\nBuyer: Null",
+"",
+"Commercial PoE Managed Switch\n\n4*1G/2.5G SFP+24*10/100/1000M RJ45+1*Console Port, L2+ managed, PoE af/at, 280W budget, Support PoE management, PoE watchdog, AC input, Rack compatible\nWith mounting hanger/Power Cord",
+"",
+"12",
+"860",
+"10320",
+"Sample Testing"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 440*180*44mm\nGross Weight: 4Kg"
+],
+[
+"Customized Packing Box",
+"3 types of packing boxes, MoQ 300pcs each, 3.5RMB/each",
+"",
+"",
+"",
+"",
+"3150"
+],
+[
+"Freight Cost",
+"1000RMB for about 100Kg volume weight to Guangzhou\nDoor-to-door service",
+"",
+"",
+"",
+"",
+"1000"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"42",
+"",
+"25245"
+],
+[
+"SAY TOTAL IN RMB TWENTY FIVE THOUSAND TWO HUNDRED AND FORTY FIVE ONLY"
+],
+[
+"Remark"
+],
+[
+"Please do make sure client side could handle import customs clearance."
+],
+[
+"1. Payment: Full payment to the below bank account before shipment."
+],
+[
+"Bank Information"
+],
+[
+"Bank Name",
+"BANK OF CHINA HENAN BRANCH"
+],
+[
+"Bank Address",
+"HUANYUAN ROAD 40TH ZHENGZHOU CITY HENAN CHINA"
+],
+[
+"Beneficiary",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Account No.(USD)",
+"255987045839"
+],
+[
+"SWIFT CODE",
+"BKCHCNBJ530"
+],
+[
+"2. NOTE: Saga Telecom will not pay for any bank charge."
+],
+[
+"Please make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice."
+],
+[
+"3. Leadtime: 7~10 working days"
+],
+[
+"4. Country of origin: China"
+],
+[
+"5. Customized packing"
+],
+[
+"Package Marks: None"
+],
+[
+"Packing list is available upon request"
+],
+[
+"6. Warranty: 1 year, lifetime technical support"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" for more information."
+],
+[
+"Buyer: Biz - Ethics Ltd.",
+"",
+"",
+"Seller: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Valentine Mbata",
+"",
+"",
+"Simon Cheng"
+],
+[
+"Authorized Signature",
+"",
+"",
+"Authorized Signature"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T08:04:28Z"
+}

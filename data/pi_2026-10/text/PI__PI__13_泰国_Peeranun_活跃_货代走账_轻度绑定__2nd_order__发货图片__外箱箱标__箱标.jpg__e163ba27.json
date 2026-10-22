@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__外箱箱标__箱标.jpg__e163ba27",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/2nd order/发货图片/外箱箱标/箱标.jpg",
+"name":"箱标.jpg",
+"ext":".jpg",
+"bytes":758573,
+"sha256":"e163ba270d13c4a506d1e3a267b15210288fe541596ffe3072c4b3e3aad635bd",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1920,
+"height":1080,
+"mode":"RGB",
+"thumb_bytes":8333
+},
+"warnings":[],
+"chars":278,
+"text":"Mader, STH\narcs AS\nert\n=\nAe\nTo\now\nWeng 28 KE\nCarson SAU\nProduct names Indus ja Seite!\naden STITH DEC yo\na < pl\ns savant\nov 202502\nweight 25 KG\nIeacion Boa! /2\nIndustrial Switch\nProduct nam\nModel: STI-A2424DGGPM-U\nOW. Ss mien\nSNe mnie ae\n20250214001\nWeight: $.7 KG\nCarton Nor 2/2",
+"extracted_at":"2026-10-22T07:52:47Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__外箱箱标__箱标.jpg__e163ba27.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__2_印度_Rishi_gg__1st_order__收款码_Ningbo_Supplier.jpg__e9609b97",
+"path":"PI/PI/2 印度 Rishi gg/1st order/收款码_Ningbo Supplier.jpg",
+"name":"收款码_Ningbo Supplier.jpg",
+"ext":".jpg",
+"bytes":178670,
+"sha256":"e9609b9778fdc5b638d02a14abd6626aa95e0d3e9b3a7e434e922fb3b23d1665",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1193,
+"height":1855,
+"mode":"RGB",
+"thumb_bytes":16327
+},
+"warnings":[],
+"chars":4,
+"text":"支付 至",
+"extracted_at":"2026-10-22T07:31:30Z",
+"thumb":"thumbs/PI__PI__2_印度_Rishi_gg__1st_order__收款码_Ningbo_Supplier.jpg__e9609b97.jpg"
+}

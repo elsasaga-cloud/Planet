@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__1st_order__PVC.jpg__0b78a934",
+"path":"PI/PI/6 美国 Thu 可发展/1st order/PVC.jpg",
+"name":"PVC.jpg",
+"ext":".jpg",
+"bytes":180834,
+"sha256":"0b78a934f3c37960834e005d1439af3e95a0243df8e79d25ede4f725ca709c56",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":5185,
+"height":531,
+"mode":"RGB",
+"thumb_bytes":2609
+},
+"warnings":[],
+"chars":108,
+"text":"‘Yellow: Speed Gen Unioact\nM.PV.Fm.049 了 Vi-Link\nPV-Fm-S28T8-Vi\n24 Ports Fiber Ethernet Switch\nModel: EN2440",
+"extracted_at":"2026-10-22T07:33:03Z",
+"thumb":"thumbs/PI__PI__6_美国_Thu_可发展__1st_order__PVC.jpg__0b78a934.jpg"
+}

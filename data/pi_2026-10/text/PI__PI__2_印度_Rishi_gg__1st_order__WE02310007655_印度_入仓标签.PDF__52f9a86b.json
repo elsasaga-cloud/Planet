@@ -1,0 +1,25 @@
+{
+"id":"PI__PI__2_印度_Rishi_gg__1st_order__WE02310007655_印度_入仓标签.PDF__52f9a86b",
+"path":"PI/PI/2 印度 Rishi gg/1st order/WE02310007655 印度 入仓标签.PDF",
+"name":"WE02310007655 印度 入仓标签.PDF",
+"ext":".pdf",
+"bytes":30262,
+"sha256":"52f9a86bb58b459de2e1a261c7f44a3060ec060861935715eddd5fd2281675b4",
+"source":"PI.zip",
+"method":"pdfplumber",
+"status":"ok",
+"meta":{
+"pages":1,
+"creator":"PDFsharp 1.50.5147 (www.pdfsharp.com)",
+"producer":"PDFsharp 1.50.5147 (www.pdfsharp.com)",
+"creationdate":"D:20231014141628+08'00'",
+"ocr_pages":0
+},
+"warnings":[],
+"chars":146,
+"text":"[p1]\nBSA00002 SE2310013057\nZ-13 大大陆陆联联邦邦代代理理\n国国际际快快递递\nSZF01IE\n→\n深深圳圳市市 IN,印印度度\n货物类型 普普货货\n服 务\n收货地址：深圳市宝安区福永镇翠岗西路津村药\n业B区百运网分拨中心\n1-1\nSTSC202310090\n02",
+"pages":[
+"BSA00002 SE2310013057\nZ-13 大大陆陆联联邦邦代代理理\n国国际际快快递递\nSZF01IE\n→\n深深圳圳市市 IN,印印度度\n货物类型 普普货货\n服 务\n收货地址：深圳市宝安区福永镇翠岗西路津村药\n业B区百运网分拨中心\n1-1\nSTSC202310090\n02"
+],
+"extracted_at":"2026-10-22T07:31:24Z"
+}

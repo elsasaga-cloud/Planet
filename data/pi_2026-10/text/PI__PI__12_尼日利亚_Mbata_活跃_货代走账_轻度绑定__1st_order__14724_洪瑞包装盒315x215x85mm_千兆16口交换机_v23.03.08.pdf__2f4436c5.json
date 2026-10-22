@@ -1,0 +1,28 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__1st_order__14724_洪瑞包装盒315x215x85mm_千兆16口交换机_v23.03.08.pdf__2f4436c5",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/1st order/14724 洪瑞包装盒315x215x85mm 千兆16口交换机 v23.03.08.pdf",
+"name":"14724 洪瑞包装盒315x215x85mm 千兆16口交换机 v23.03.08.pdf",
+"ext":".pdf",
+"bytes":312424,
+"sha256":"2f4436c52ad4d5ab155996e47dc296f678867dd21aaea8762e24cd3807a70b78",
+"source":"PI.zip",
+"method":"pdfplumber+OCR(1p)",
+"status":"ok",
+"meta":{
+"pages":1,
+"title":"中性包装盒312x262x84mm 千兆16口24口交换机 v20.9.17",
+"author":"Administrator",
+"creator":"Adobe Illustrator CC 23.0 (Windows)",
+"producer":"Adobe PDF library 15.00",
+"creationdate":"D:20220624134500+08'00'",
+"moddate":"D:20230308154751+08'00'",
+"ocr_pages":1
+},
+"warnings":[],
+"chars":426,
+"text":"[p1]\nMEAS:315*215*85MM\nC J 7)\nVm :\nre}\n—\n由 1\n之\nlu\n[e)\n全\nL 工 UJ\na a\n| 一\nI 1 引申\nSYIOMION 3od\nSv3WN\nWWIG8xGLZXGLE\n— 319VIDA53 圖 euld] '3uop3ueno ‘uayzuays\nae 山 oo\"d5a3linJd'mmm : 83 从 350sldq ue,ogg 3aaS aulfeus\ne ~ 2008-0945 80L2 SSZ 98+ :Xyd ‘peoy uendIX ‘AyD Isnpul ntfntf\nme 0925 8022 SS/ 98+: 141 ‘ed leuasnpul 3uol3ue soolj puz :qqV\np311“o] A3olouu591 1e3I1dO InHauoH usuzuaus\nHRUI\nPoE Networks\nFE CE RoHS\nHRUI\nPoE Networks",
+"pages":[
+"MEAS:315*215*85MM\nC J 7)\nVm :\nre}\n—\n由 1\n之\nlu\n[e)\n全\nL 工 UJ\na a\n| 一\nI 1 引申\nSYIOMION 3od\nSv3WN\nWWIG8xGLZXGLE\n— 319VIDA53 圖 euld] '3uop3ueno ‘uayzuays\nae 山 oo\"d5a3linJd'mmm : 83 从 350sldq ue,ogg 3aaS aulfeus\ne ~ 2008-0945 80L2 SSZ 98+ :Xyd ‘peoy uendIX ‘AyD Isnpul ntfntf\nme 0925 8022 SS/ 98+: 141 ‘ed leuasnpul 3uol3ue soolj puz :qqV\np311“o] A3olouu591 1e3I1dO InHauoH usuzuaus\nHRUI\nPoE Networks\nFE CE RoHS\nHRUI\nPoE Networks"
+],
+"extracted_at":"2026-10-22T08:04:47Z"
+}

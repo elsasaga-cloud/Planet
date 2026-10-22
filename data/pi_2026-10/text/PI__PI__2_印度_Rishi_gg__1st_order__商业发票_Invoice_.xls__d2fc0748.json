@@ -1,0 +1,135 @@
+{
+"id":"PI__PI__2_印度_Rishi_gg__1st_order__商业发票_Invoice_.xls__d2fc0748",
+"path":"PI/PI/2 印度 Rishi gg/1st order/商业发票（Invoice）.xls",
+"name":"商业发票（Invoice）.xls",
+"ext":".xls",
+"bytes":21504,
+"sha256":"d2fc0748bc52fe2ec3fc5506bf32003e5dc2ab8040c719f53875a8ef4811f229",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Sheet1"
+],
+"rows_total":17
+},
+"warnings":[],
+"chars":941,
+"text":"--- Sheet: Sheet1 ---\nCOMMERCIAL INVOICE\nOrder No.\t\t\t\tDate of Exportation\t\t2023-10-14 00:00:00\nCoutry of Origin\tCHINA\nShipper Information（寄件人）\nCompany     \n公司\tZhengzhou Saga Telecom Co., Ltd.\nContact          联系人\tSimon Cheng\t\t\tTEL电话：\t\t86-15237149683\nAddress        详细地址\tRoom 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nConsignee Information(收货人)\nCompany     \n公司\tFastball\t\t\tContact 联系人：\t\tRishi Kumar Bansal\nZip Code      邮编\t110093\t\t\tTEL 电话：\t\t91 98717 53979\nCountry     \n目的国\tIndia\nAddress       \n详细地址\tA47, STREET NO. 4, ASHOK NAGAR, NEAR SHUKRA BAZAR, DELHI\nNO.\tDESCRIPTION OF GOODS品名\tMaterial材质\tUse用途\tHS Code  \n海关编码\tQty (pcs)   数量\tUnit Price(usd)   单价\tTotal （Usd） 总价\n1\tCleaner Pen\tMetal\tClean fiber optic device connectors\t8517799000\t40\t2.6\t104\n\tCleaner Pen\tMetal\tClean fiber optic device connectors\t8517799000\t40\t2.6\t104\nTotal:\t\t\t\t\t\t\t208\nSHIPPER’S SIGNATURE & STAMP: Simon Cheng",
+"sheets":{
+"Sheet1":{
+"rows":[
+[
+"COMMERCIAL INVOICE"
+],
+[
+"Order No.",
+"",
+"",
+"",
+"Date of Exportation",
+"",
+"2023-10-14 00:00:00"
+],
+[
+"Coutry of Origin",
+"CHINA"
+],
+[
+"Shipper Information（寄件人）"
+],
+[
+"Company     \n公司",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Contact          联系人",
+"Simon Cheng",
+"",
+"",
+"TEL电话：",
+"",
+"86-15237149683"
+],
+[
+"Address        详细地址",
+"Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Consignee Information(收货人)"
+],
+[
+"Company     \n公司",
+"Fastball",
+"",
+"",
+"Contact 联系人：",
+"",
+"Rishi Kumar Bansal"
+],
+[
+"Zip Code      邮编",
+"110093",
+"",
+"",
+"TEL 电话：",
+"",
+"91 98717 53979"
+],
+[
+"Country     \n目的国",
+"India"
+],
+[
+"Address       \n详细地址",
+"A47, STREET NO. 4, ASHOK NAGAR, NEAR SHUKRA BAZAR, DELHI"
+],
+[
+"NO.",
+"DESCRIPTION OF GOODS品名",
+"Material材质",
+"Use用途",
+"HS Code  \n海关编码",
+"Qty (pcs)   数量",
+"Unit Price(usd)   单价",
+"Total （Usd） 总价"
+],
+[
+"1",
+"Cleaner Pen",
+"Metal",
+"Clean fiber optic device connectors",
+"8517799000",
+"40",
+"2.6",
+"104"
+],
+[
+"",
+"Cleaner Pen",
+"Metal",
+"Clean fiber optic device connectors",
+"8517799000",
+"40",
+"2.6",
+"104"
+],
+[
+"Total:",
+"",
+"",
+"",
+"",
+"",
+"",
+"208"
+],
+[
+"SHIPPER’S SIGNATURE & STAMP: Simon Cheng"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:31:28Z"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__1st_order_sample_3层10G_24口_48口__出货__ANW-3124-PX__8.jpg__a58ead64",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/1st order sample  3层10G 24口 48口/出货/ANW-3124-PX/8.jpg",
+"name":"8.jpg",
+"ext":".jpg",
+"bytes":237780,
+"sha256":"a58ead6403838508dc69fce433ab85ba2069a723861e791812de1c8d7aa031fb",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1065,
+"height":813,
+"mode":"RGB",
+"thumb_bytes":9221
+},
+"warnings":[],
+"chars":12,
+"text":"Saga Telecom",
+"extracted_at":"2026-10-22T07:39:09Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__1st_order_sample_3层10G_24口_48口__出货__ANW-3124-PX__8.jpg__a58ead64.jpg"
+}

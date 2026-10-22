@@ -1,0 +1,25 @@
+{
+"id":"PI__PI__3_赞比亚_Pythias_gg__老化及温度测试.mp4__9a4c0b88",
+"path":"PI/PI/3  赞比亚 Pythias gg/老化及温度测试.mp4",
+"name":"老化及温度测试.mp4",
+"ext":".mp4",
+"bytes":6524090,
+"sha256":"9a4c0b8811fa26de86fba29364b8901d62cc76c9db061c94e032cf186acf9622",
+"source":"PI.zip",
+"method":"ffprobe+ffmpeg",
+"status":"meta",
+"meta":{
+"duration_s":60.3,
+"acodec":"aac",
+"width":568,
+"height":320,
+"vcodec":"h264",
+"creation_time":"2023-12-19T09:23:33.000000Z",
+"thumb_bytes":18250
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:47:58Z",
+"thumb":"thumbs/PI__PI__3_赞比亚_Pythias_gg__老化及温度测试.mp4__9a4c0b88.jpg"
+}

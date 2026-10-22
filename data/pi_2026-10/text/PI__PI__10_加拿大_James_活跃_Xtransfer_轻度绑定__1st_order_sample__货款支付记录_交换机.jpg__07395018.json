@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__1st_order_sample__货款支付记录_交换机.jpg__07395018",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/1st order sample/货款支付记录_交换机.jpg",
+"name":"货款支付记录_交换机.jpg",
+"ext":".jpg",
+"bytes":116027,
+"sha256":"0739501821c05f496cd21e7fa354e27aaf3e50356217be630ca4d5e4ccb4c6db",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":3896
+},
+"warnings":[],
+"chars":219,
+"text":"10:18\n< Die\n东莞 银行 (7588)\n一 网 通 所 有 银行 卡\n輸入 附 言 搜索\n轉 出 記錄\nPiz 〈 尾 号 7588)\n今天 10:18\n說 明 :\nall 全 GD\nn ®\n#0\n近 3 個 月 ~\n- 半 4,936.00\n已 汇 出\n1. 您 可 选择 指定 一 卡通 及 交易 时 间 ， 算 选 该 卡 的 自助 转账 记录 。\n2. 若 需 查 看 与 该 账户 完整 往来 记录 请 点 击 此 处",
+"extracted_at":"2026-10-22T07:57:53Z",
+"thumb":"thumbs/PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__1st_order_sample__货款支付记录_交换机.jpg__07395018.jpg"
+}

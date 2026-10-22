@@ -1,0 +1,26 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__3rd_order_176台2光16电_L2_PoE__Shipment_Info__Certificate_of_Warranty.pdf__ace42fd1",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/3rd order 176台2光16电 L2 PoE/Shipment Info/Certificate of Warranty.pdf",
+"name":"Certificate of Warranty.pdf",
+"ext":".pdf",
+"bytes":1056419,
+"sha256":"ace42fd17ce57f86858c9a9a6cd4175a5d6d33bb5b64acf82f686d50ce17b914",
+"source":"PI.zip",
+"method":"pdfplumber+OCR(1p)",
+"status":"ok",
+"meta":{
+"pages":1,
+"creator":"Adobe Photoshop CS6 (Windows)",
+"producer":"Adobe Photoshop for Windows -- Image Conversion Plug-in",
+"creationdate":"D:20240403155009+08'00'",
+"moddate":"D:20250317174720+08'00'",
+"ocr_pages":1
+},
+"warnings":[],
+"chars":1216,
+"text":"[p1]\ns.sagatelecom@gmail.com\nSaga Telecom\nwww.sagatelecom.com.cn\nCertificate of Warranty\nDate: 2025.3.17\nSaga Telecom warrants that Industrial Ethernet Switch STI-21616DGGPM(L2+)\nANW-2116-PG purchased by ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S\nCamlica Mah. Anadolu Bulvari, TiMko-1 Sokak No:20 Z-1, YeniMahalle 06200 Ankara\nTurkey shall be free from defects in material, workmanship and manufacturing\nfor a period of three (3) years from the date of delivery.\nTracking Number: UPS/1ZB600960435009531\nWarranty Period: 17th, March, 2025-17th, March, 2028\nSaga Telecom also warrants that all products meet the specifications requirement\naccordance to the mandatory and normative requirements as described in the specifications.\nAll warranties shall be subject to the installation, operation and maintenance practices\nand testing environment described in the standards.\nSerial Reference Number\nBox 1~22: STI-21616DGGPM, 2501211600103~2501211617603\nBox 23(RMA): STI-21616DGGPM, 2501211617703~2501211617803\nTotal Quantity: 178 pieces only, 23 boxes only\nContract Reference Number\nPI Number: STSC20250117007\nPO Number: Null\n. Connecting, Converting, Creating .\nTailored Marvell Managed Networking Solutions Provider",
+"pages":[
+"s.sagatelecom@gmail.com\nSaga Telecom\nwww.sagatelecom.com.cn\nCertificate of Warranty\nDate: 2025.3.17\nSaga Telecom warrants that Industrial Ethernet Switch STI-21616DGGPM(L2+)\nANW-2116-PG purchased by ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S\nCamlica Mah. Anadolu Bulvari, TiMko-1 Sokak No:20 Z-1, YeniMahalle 06200 Ankara\nTurkey shall be free from defects in material, workmanship and manufacturing\nfor a period of three (3) years from the date of delivery.\nTracking Number: UPS/1ZB600960435009531\nWarranty Period: 17th, March, 2025-17th, March, 2028\nSaga Telecom also warrants that all products meet the specifications requirement\naccordance to the mandatory and normative requirements as described in the specifications.\nAll warranties shall be subject to the installation, operation and maintenance practices\nand testing environment described in the standards.\nSerial Reference Number\nBox 1~22: STI-21616DGGPM, 2501211600103~2501211617603\nBox 23(RMA): STI-21616DGGPM, 2501211617703~2501211617803\nTotal Quantity: 178 pieces only, 23 boxes only\nContract Reference Number\nPI Number: STSC20250117007\nPO Number: Null\n. Connecting, Converting, Creating .\nTailored Marvell Managed Networking Solutions Provider"
+],
+"extracted_at":"2026-10-22T07:41:15Z"
+}

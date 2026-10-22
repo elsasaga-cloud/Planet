@@ -1,0 +1,24 @@
+{
+"id":"PI__PI__20_土耳其_Burak_活跃_Xtransfer_轻度绑定__Shipment_Info__4.jpg__b04e9063",
+"path":"PI/PI/20 土耳其 Burak 活跃 Xtransfer 轻度绑定/Shipment Info/4.jpg",
+"name":"4.jpg",
+"ext":".jpg",
+"bytes":5127792,
+"sha256":"b04e9063cdb229a9539b56e58e389c7925ef893232d4b53da07d86304be6a0c6",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":3072,
+"height":4096,
+"mode":"RGB",
+"software":"ADT-AN00 8.0.0.213(C00E212R3P2)",
+"thumb_bytes":14277
+},
+"warnings":[],
+"chars":217,
+"text":"Industrial Switch\nModel: STI-488DGGPM-2BT\nPorts: 8*10/100/1000M RJ45 PoE + 4*1G/2.5G SFP\n1-2 ports PoE++\nlm 圖 Ke\nSN: 202601140003\nIP Address: 192.168.56,166 MAC: FC-CD-2F-D0-51-F2 ROHS\nUser name: admin Password: admin",
+"extracted_at":"2026-10-22T07:47:22Z",
+"thumb":"thumbs/PI__PI__20_土耳其_Burak_活跃_Xtransfer_轻度绑定__Shipment_Info__4.jpg__b04e9063.jpg"
+}

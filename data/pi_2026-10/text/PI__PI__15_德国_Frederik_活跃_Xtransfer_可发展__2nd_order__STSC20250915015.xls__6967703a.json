@@ -1,0 +1,251 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__STSC20250915015.xls__6967703a",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/2nd order/STSC20250915015.xls",
+"name":"STSC20250915015.xls",
+"ext":".xls",
+"bytes":853504,
+"sha256":"6967703a41b363fd5a333bb262679caf316bffc7b2d89cec14e38b400446a94c",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Proforma Invoice"
+],
+"rows_total":50
+},
+"warnings":[],
+"chars":3207,
+"text":"--- Sheet: Proforma Invoice ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 15237149683                                           www.sagatelecom.com.cn                                 Email: s.sagatelecom@gmail.com\n***********************************************************************************************************************\nProforma Invoice\nPO No.\t\t\tInvoice No.:\tSTSC20250915015\nBuyer:\tNYNEX satellite OHG\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t49 6151 500 74 - 119\t\tIssued By:\tSimon\nEmail:\tf.kriewitz@nynex.de\t\tInvoice Date:\t15th, Sept, 2025\nContact Person:\tFrederik Kriewitz\t\tPayment Term:\tT/T in advance, DAP but without customs clearance\nShipping Address\tRobert-Bosch-Str. 20, 64293 Darmstadt, Germany\nModel\tSpecification\t\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSeller\nSTC-4168XGGCM\n\nBuyer\nNull\tCommercial Fiber Switch\n\n4*1G/2.5G/10G SFP+16*1G SFP+8*1G SFP/RJ45 Combo+1*Console Port+1*USB Port, Support fan monitoring/dual PSU status monitoring\nL2+ managed, Non-PoE, DUAL AC input, Rack compatible\nWith EU power cable, without optical module, Marvell based\t\t\t1\t265\t265\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 440*245*44mm\nNet Weight: 3.2Kg\nGross Weight: 4Kg\nFreight Cost\t130USD for about 5Kg volume weight to Germany by UPS\nair, door-to-door service\n4~6 calendar days to reach at local customs for clearance\t\t\t\t\t130\nBank Cost\tStandard Charge in EACH Order\t\t\t\t\t25\nTOTAL\t\t\t\t1\t\t420\nSAY TOTAL IN USD FOUR HUNDRED AND TWENTY DOLLARS\nRemark\nPlease do make sure client side could handle import customs clearance\nIf there is any problem with the shipment or clearance\n1, please let us know ASAP\n2, please call DHL/FedEx/UPS official number for information\n1. Payment: Full payment to the below bank account before shipment\nBank Information\nSWIFT/BIC code\tCHASHKHH (CHASHKHHXXX * if 11 characters are required)\nAccount Number\t63003662406\nAccount Name\tZhengzhou Saga Telecom Co., Ltd.\nBank Name\tJPMorgan Chase Bank N.A., Hong Kong Branch\nBank Address\t18/F, 20/F, 22-29/F, CHATER HOUSE, 8 CONNAUGHT ROAD CENTRAL, HONG KONG\nCountry/Region\tHong Kong\nType of Account\tBusiness Account\nBank Code\t007\nBranch Code\t863\n2. NOTE: Saga Telecom will not pay for any bank charge\nPlease make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice\n3. Production time: 15~20 working days(NOT including shipping time)\nIncoterms: DAP, excluding destination customs clearance & import duties, but including on-carriage delivery after customs release\n4. Country of origin: China\n5. Non-brand packing, without Chinese letters or logo\nPacking list is available\n6. Warranty: 1 year, lifetime technical support\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery\nPlease refer to \"warranty policy\" for more information\nBuyer: NYNEX satellite OHG\t\t\tSeller: Zhengzhou Saga Telecom Co., Ltd.\nFrederik Kriewitz\t\t\tSimon\nAuthorized Signature\t\t\tAuthorized Signature",
+"sheets":{
+"Proforma Invoice":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Tailored Marvell Managed Networking Solutions Provider"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 15237149683                                           www.sagatelecom.com.cn                                 Email: s.sagatelecom@gmail.com"
+],
+[
+"***********************************************************************************************************************"
+],
+[
+"Proforma Invoice"
+],
+[
+"PO No.",
+"",
+"",
+"Invoice No.:",
+"STSC20250915015"
+],
+[
+"Buyer:",
+"NYNEX satellite OHG",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"49 6151 500 74 - 119",
+"",
+"Issued By:",
+"Simon"
+],
+[
+"Email:",
+"f.kriewitz@nynex.de",
+"",
+"Invoice Date:",
+"15th, Sept, 2025"
+],
+[
+"Contact Person:",
+"Frederik Kriewitz",
+"",
+"Payment Term:",
+"T/T in advance, DAP but without customs clearance"
+],
+[
+"Shipping Address",
+"Robert-Bosch-Str. 20, 64293 Darmstadt, Germany"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"Seller\nSTC-4168XGGCM\n\nBuyer\nNull",
+"Commercial Fiber Switch\n\n4*1G/2.5G/10G SFP+16*1G SFP+8*1G SFP/RJ45 Combo+1*Console Port+1*USB Port, Support fan monitoring/dual PSU status monitoring\nL2+ managed, Non-PoE, DUAL AC input, Rack compatible\nWith EU power cable, without optical module, Marvell based",
+"",
+"",
+"1",
+"265",
+"265"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 440*245*44mm\nNet Weight: 3.2Kg\nGross Weight: 4Kg"
+],
+[
+"Freight Cost",
+"130USD for about 5Kg volume weight to Germany by UPS\nair, door-to-door service\n4~6 calendar days to reach at local customs for clearance",
+"",
+"",
+"",
+"",
+"130"
+],
+[
+"Bank Cost",
+"Standard Charge in EACH Order",
+"",
+"",
+"",
+"",
+"25"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"1",
+"",
+"420"
+],
+[
+"SAY TOTAL IN USD FOUR HUNDRED AND TWENTY DOLLARS"
+],
+[
+"Remark"
+],
+[
+"Please do make sure client side could handle import customs clearance"
+],
+[
+"If there is any problem with the shipment or clearance"
+],
+[
+"1, please let us know ASAP"
+],
+[
+"2, please call DHL/FedEx/UPS official number for information"
+],
+[
+"1. Payment: Full payment to the below bank account before shipment"
+],
+[
+"Bank Information"
+],
+[
+"SWIFT/BIC code",
+"CHASHKHH (CHASHKHHXXX * if 11 characters are required)"
+],
+[
+"Account Number",
+"63003662406"
+],
+[
+"Account Name",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Bank Name",
+"JPMorgan Chase Bank N.A., Hong Kong Branch"
+],
+[
+"Bank Address",
+"18/F, 20/F, 22-29/F, CHATER HOUSE, 8 CONNAUGHT ROAD CENTRAL, HONG KONG"
+],
+[
+"Country/Region",
+"Hong Kong"
+],
+[
+"Type of Account",
+"Business Account"
+],
+[
+"Bank Code",
+"007"
+],
+[
+"Branch Code",
+"863"
+],
+[
+"2. NOTE: Saga Telecom will not pay for any bank charge"
+],
+[
+"Please make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice"
+],
+[
+"3. Production time: 15~20 working days(NOT including shipping time)"
+],
+[
+"Incoterms: DAP, excluding destination customs clearance & import duties, but including on-carriage delivery after customs release"
+],
+[
+"4. Country of origin: China"
+],
+[
+"5. Non-brand packing, without Chinese letters or logo"
+],
+[
+"Packing list is available"
+],
+[
+"6. Warranty: 1 year, lifetime technical support"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery"
+],
+[
+"Please refer to \"warranty policy\" for more information"
+],
+[
+"Buyer: NYNEX satellite OHG",
+"",
+"",
+"Seller: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Frederik Kriewitz",
+"",
+"",
+"Simon"
+],
+[
+"Authorized Signature",
+"",
+"",
+"Authorized Signature"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:33:27Z"
+}

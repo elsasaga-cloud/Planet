@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__1_格鲁吉亚_George_gg__出货图__IMG_6434.JPG__31d1fe68",
+"path":"PI/PI/1 格鲁吉亚 George gg/出货图/IMG_6434.JPG",
+"name":"IMG_6434.JPG",
+"ext":".jpg",
+"bytes":1455545,
+"sha256":"31d1fe68e81a7447e0b1533396c3717fd8d00c4bdea08bf972d0b9bd192ac981",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":3024,
+"height":4032,
+"mode":"RGB",
+"thumb_bytes":10683
+},
+"warnings":[],
+"chars":257,
+"text":"\\\nFull Name: GT32937 DELTA CONSULTING LLC GT32937\nAddress: 广州 市 荔湾 区 站 前 路 34 号 711 庫房\n(Warehouse 711, No.34 Zhanqian Road)\nMARK: GT32937\nDistrict: Liwan ( 荔 灣 )\nCity: Guangzhou (广州 )\nProvice: Guangdong (广东 )\nip/Postal code: 510010\nphone number: 13318855278",
+"extracted_at":"2026-10-22T07:29:09Z",
+"thumb":"thumbs/PI__PI__1_格鲁吉亚_George_gg__出货图__IMG_6434.JPG__31d1fe68.jpg"
+}

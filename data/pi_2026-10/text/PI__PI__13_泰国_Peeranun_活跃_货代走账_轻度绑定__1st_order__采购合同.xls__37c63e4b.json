@@ -1,0 +1,310 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__1st_order__采购合同.xls__37c63e4b",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/1st order/采购合同.xls",
+"name":"采购合同.xls",
+"ext":".xls",
+"bytes":217600,
+"sha256":"37c63e4bab223773a1707a28e87498de6ec54eee09951a320b8887aaa85f55a0",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"采购合同"
+],
+"rows_total":57
+},
+"warnings":[],
+"chars":2489,
+"text":"--- Sheet: 采购合同 ---\n郑州仨戛通讯器材有限公司\n地址: 郑州市管城区航海路中州大道富田太阳城57号楼22层316\n电话: 86 15237149683                                                       www.sagatelecom.com.cn                                              Email: s.sagatelecom@gmail.com\n*************************************************************************************************************************\n采购合同\n买方:\t郑州仨戛通讯器材有限公司\nZhengzhou Saga Telecom Co., Ltd.\n地址：\t郑州市管城区航海路中州大道富田太阳城57号楼22层316\nRoom 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\n采购订单编号\tSTSC20241014013\n电话:\t86 15237149683\n邮箱\ts.sagatelecom@gmail.com\n联系人:\t程天龙(Simon Cheng)\n卖方:\t深圳洪瑞光祥电子技术有限公司\nShenzhen HongRui Optical Technology Co.,Ltd\n地址：\t深圳市宝安区沙井街道西环路九九工业城旺荣电子工业园二楼\n2nd Floor, Wangrong Industrial Park, Jiujiu Industrial City, Xihuan Road, Shajing Street, Baoan District, Shenzhen\n联系人:\t刘长桂/18820293198/sales101@hruitech.com\n订单日期:\t28th, Oct, 2024\n付款条款\t工厂直发，款到生产，包邮\n发货地址\t经双方协商后，直接发给货代处理\n卖方型号\t买方型号\t品名规格\t\t数量 \n(台)\t单价\n(RMB)\t小计\n(Sub-total)\nZX-SWTG015AS\tP04509\t说明书: Ethernet Switch_STSC20241014013\n标签写左边型号\n美规插头\t\t3\t200\t600\nZX-SWTG018AS\tP04510\t说明书: Ethernet Switch_STSC20241014013\n标签写左边型号\n美规插头\t\t3\t270\t810\nZX-SWTG1216AS\tP04511\t说明书: Ethernet Switch_STSC20241014013\n标签写左边型号\n美规插头\t\t1\t980\t980\nZX-SWTG1224AS\tP04512\t说明书: Ethernet Switch_STSC20241014013\n标签写左边型号\n美规插头\t\t1\t1100\t1100\nZX-SWTG1C8F\tP04513\t说明书: Ethernet Switch_STSC20241014013\n标签写左边型号\n美规插头\t\t2\t450\t900\nZX900-AFG-SWTG015ANS\tP04514\t说明书: PoE Switch_STSC20241014013\n标签写左边型号\n美规插头\t\t3\t240\t720\nZX900-AFG-SWTG018ANS\tP04515\t说明书: PoE Switch_STSC20241014013\n标签写左边型号\n美规插头\t\t2\t345\t690\nZX510S-5T\tP04516\t说明书: Managed Switch_STSC20241014013\n管理界面和标签写左边型号\n美规插头\t\t2\t750\t1500\nZX-SWTGW2C80N\tP04517\t说明书: Managed Switch_STSC20241014013\n管理界面和标签写左边型号\n美规插头\t\t1\t1040\t1040\nZX-SWTGW2216AS\tP04518\t说明书: Managed Switch_STSC20241014013\n管理界面和标签写左边型号\n美规插头\t\t1\t1020\t1020\nZX-SWTGW2224AS\tP04519\t说明书: Managed Switch_STSC20241014013\n管理界面和标签写左边型号\n美规插头\t\t1\t1140\t1140\nZX-AFGW-SWTG218ANS-100\tP04520\t说明书: Managed Switch_STSC20241014013\n管理界面和标签写左边型号\n美规插头\t\t1\t350\t350\nTOTAL\t\t\t\t21\t\t10850\n备注\n不放保修卡，非必要的都不放，QC贴纸不要贴，送货单等不要放\n管理界面型号\t写上方的买方型号\nIP地址\t默认\n管理线\t默认\n挂耳\t放\n说明书请使用发的3个版本\nEthernet Switch用于不带PoE，不带管理的型号\nPoE Switch用于带PoE，不带管理的型号\nManaged Switch用于带WEB管理的型号\n标签\t如右图\n标签字体\tTimes New Roman，大小无要求，看着合适就行\n箱标\t需要，SEA2000-PERN，打印在A4纸上贴在外箱上，字体打印大一些\n防水膜\t打，尽量平整一些\n电源（线）\t含，美规电源\n运费\t卖方支付\n拍照拍视频\t需要，拍清楚一些\n包装盒\t常规\n交期\t越快越好\n装箱单\t不需要，有也行\n发货地址\t广州市白云区白云湖街朗兴路7号, 李慧, 13416307791\n发货单号\t需要，发货后把单号给我，客户需要这个\n买方: 郑州仨戛通讯器材有限公司\n签字代表：程天龙(Simon Cheng)\n买方盖章\n2024.10.28",
+"sheets":{
+"采购合同":{
+"rows":[
+[
+"郑州仨戛通讯器材有限公司"
+],
+[
+"地址: 郑州市管城区航海路中州大道富田太阳城57号楼22层316"
+],
+[
+"电话: 86 15237149683                                                       www.sagatelecom.com.cn                                              Email: s.sagatelecom@gmail.com"
+],
+[
+"*************************************************************************************************************************"
+],
+[
+"采购合同"
+],
+[
+"买方:",
+"郑州仨戛通讯器材有限公司\nZhengzhou Saga Telecom Co., Ltd."
+],
+[
+"地址：",
+"郑州市管城区航海路中州大道富田太阳城57号楼22层316\nRoom 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"采购订单编号",
+"STSC20241014013"
+],
+[
+"电话:",
+"86 15237149683"
+],
+[
+"邮箱",
+"s.sagatelecom@gmail.com"
+],
+[
+"联系人:",
+"程天龙(Simon Cheng)"
+],
+[
+"卖方:",
+"深圳洪瑞光祥电子技术有限公司\nShenzhen HongRui Optical Technology Co.,Ltd"
+],
+[
+"地址：",
+"深圳市宝安区沙井街道西环路九九工业城旺荣电子工业园二楼\n2nd Floor, Wangrong Industrial Park, Jiujiu Industrial City, Xihuan Road, Shajing Street, Baoan District, Shenzhen"
+],
+[
+"联系人:",
+"刘长桂/18820293198/sales101@hruitech.com"
+],
+[
+"订单日期:",
+"28th, Oct, 2024"
+],
+[
+"付款条款",
+"工厂直发，款到生产，包邮"
+],
+[
+"发货地址",
+"经双方协商后，直接发给货代处理"
+],
+[
+"卖方型号",
+"买方型号",
+"品名规格",
+"",
+"数量 \n(台)",
+"单价\n(RMB)",
+"小计\n(Sub-total)"
+],
+[
+"ZX-SWTG015AS",
+"P04509",
+"说明书: Ethernet Switch_STSC20241014013\n标签写左边型号\n美规插头",
+"",
+"3",
+"200",
+"600"
+],
+[
+"ZX-SWTG018AS",
+"P04510",
+"说明书: Ethernet Switch_STSC20241014013\n标签写左边型号\n美规插头",
+"",
+"3",
+"270",
+"810"
+],
+[
+"ZX-SWTG1216AS",
+"P04511",
+"说明书: Ethernet Switch_STSC20241014013\n标签写左边型号\n美规插头",
+"",
+"1",
+"980",
+"980"
+],
+[
+"ZX-SWTG1224AS",
+"P04512",
+"说明书: Ethernet Switch_STSC20241014013\n标签写左边型号\n美规插头",
+"",
+"1",
+"1100",
+"1100"
+],
+[
+"ZX-SWTG1C8F",
+"P04513",
+"说明书: Ethernet Switch_STSC20241014013\n标签写左边型号\n美规插头",
+"",
+"2",
+"450",
+"900"
+],
+[
+"ZX900-AFG-SWTG015ANS",
+"P04514",
+"说明书: PoE Switch_STSC20241014013\n标签写左边型号\n美规插头",
+"",
+"3",
+"240",
+"720"
+],
+[
+"ZX900-AFG-SWTG018ANS",
+"P04515",
+"说明书: PoE Switch_STSC20241014013\n标签写左边型号\n美规插头",
+"",
+"2",
+"345",
+"690"
+],
+[
+"ZX510S-5T",
+"P04516",
+"说明书: Managed Switch_STSC20241014013\n管理界面和标签写左边型号\n美规插头",
+"",
+"2",
+"750",
+"1500"
+],
+[
+"ZX-SWTGW2C80N",
+"P04517",
+"说明书: Managed Switch_STSC20241014013\n管理界面和标签写左边型号\n美规插头",
+"",
+"1",
+"1040",
+"1040"
+],
+[
+"ZX-SWTGW2216AS",
+"P04518",
+"说明书: Managed Switch_STSC20241014013\n管理界面和标签写左边型号\n美规插头",
+"",
+"1",
+"1020",
+"1020"
+],
+[
+"ZX-SWTGW2224AS",
+"P04519",
+"说明书: Managed Switch_STSC20241014013\n管理界面和标签写左边型号\n美规插头",
+"",
+"1",
+"1140",
+"1140"
+],
+[
+"ZX-AFGW-SWTG218ANS-100",
+"P04520",
+"说明书: Managed Switch_STSC20241014013\n管理界面和标签写左边型号\n美规插头",
+"",
+"1",
+"350",
+"350"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"21",
+"",
+"10850"
+],
+[
+"备注"
+],
+[
+"不放保修卡，非必要的都不放，QC贴纸不要贴，送货单等不要放"
+],
+[
+"管理界面型号",
+"写上方的买方型号"
+],
+[
+"IP地址",
+"默认"
+],
+[
+"管理线",
+"默认"
+],
+[
+"挂耳",
+"放"
+],
+[
+"说明书请使用发的3个版本"
+],
+[
+"Ethernet Switch用于不带PoE，不带管理的型号"
+],
+[
+"PoE Switch用于带PoE，不带管理的型号"
+],
+[
+"Managed Switch用于带WEB管理的型号"
+],
+[
+"标签",
+"如右图"
+],
+[
+"标签字体",
+"Times New Roman，大小无要求，看着合适就行"
+],
+[
+"箱标",
+"需要，SEA2000-PERN，打印在A4纸上贴在外箱上，字体打印大一些"
+],
+[
+"防水膜",
+"打，尽量平整一些"
+],
+[
+"电源（线）",
+"含，美规电源"
+],
+[
+"运费",
+"卖方支付"
+],
+[
+"拍照拍视频",
+"需要，拍清楚一些"
+],
+[
+"包装盒",
+"常规"
+],
+[
+"交期",
+"越快越好"
+],
+[
+"装箱单",
+"不需要，有也行"
+],
+[
+"发货地址",
+"广州市白云区白云湖街朗兴路7号, 李慧, 13416307791"
+],
+[
+"发货单号",
+"需要，发货后把单号给我，客户需要这个"
+],
+[
+"买方: 郑州仨戛通讯器材有限公司"
+],
+[
+"签字代表：程天龙(Simon Cheng)"
+],
+[
+"买方盖章"
+],
+[
+"2024.10.28"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:55:24Z"
+}

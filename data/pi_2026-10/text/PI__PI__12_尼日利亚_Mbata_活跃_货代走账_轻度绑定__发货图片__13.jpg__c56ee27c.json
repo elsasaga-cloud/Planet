@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__发货图片__13.jpg__c56ee27c",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/发货图片/13.jpg",
+"name":"13.jpg",
+"ext":".jpg",
+"bytes":1121921,
+"sha256":"c56ee27c43e97cf312ff37980445452cee833d61fe2f301dfa6a2cd023263c48",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1920,
+"height":1080,
+"mode":"RGB",
+"thumb_bytes":12102
+},
+"warnings":[],
+"chars":192,
+"text":"陳 靜 怡 Serena\n43316225849\nTON A HE AB DK TE Un BAR A AK\nzal Ethernet Switch\n‘/1Pieces\n重量 : 4Kg\n海关 编码 :8517622990\n品 牌 : 無\n沒 有 內 置 電池 , 普 貨 , 不 帶 電 不 帶\nAE BASE\n客户 信息 3\nVALENTINE, (LAGOS-NIGERIA),",
+"extracted_at":"2026-10-22T08:01:55Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__发货图片__13.jpg__c56ee27c.jpg"
+}

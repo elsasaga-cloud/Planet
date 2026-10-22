@@ -1,0 +1,145 @@
+{
+"id":"PI__PI__20_土耳其_Burak_活跃_Xtransfer_轻度绑定__Netas_Info_Filled_2025.12.03__Netas_-_DRAFT_Supplier_Export_Classification_Reque__a2c367c7",
+"path":"PI/PI/20 土耳其 Burak 活跃 Xtransfer 轻度绑定/Netas Info Filled_2025.12.03/Netas - DRAFT Supplier Export Classification Request Form.rev1.docx",
+"name":"Netas - DRAFT Supplier Export Classification Request Form.rev1.docx",
+"ext":".docx",
+"bytes":237782,
+"sha256":"a2c367c76371208d65213d37a69d77d7e89767f756df767917b89bf2a02e508c",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Export Classification Request Form",
+"author":"John Anderson",
+"last_modified_by":"Simon",
+"created":"2025-06-26T07:11:00+00:00",
+"modified":"2025-12-03T03:43:10+00:00",
+"paragraphs":19,
+"tables":1,
+"embedded_images":3
+},
+"warnings":[],
+"chars":1935,
+"text":"Supplier Export Classification Request Form\nIn accordance with Netas’ Export Compliance Policy, we ask our suppliers to provide the export classification data of their products (hardware and software).\nPlease fill out the Product Classification Table below for all products provided to Netas. You may attach an Excel spreadsheet to this form if there are numerous items.\nProduct Classification Table\nSupplier Part Number\tProduct Name and Description\tExport Classification (e.g. ECCN, EU Dual-Use Code, USML Number)\tLicense Exception / EU GEA (e.g. NLR, ENC(b)(1))\tCCATS\tTariff / HTS Code / GTİP (in Turkish)\tCountry of Origin\nSTI-488DGGPM-2BT\tIndustrial Ethernet Switch\tEAR99\tNLR (No License Required), per EAR §734\tNot applied / Not available\t8517622990\tChina\nU.S. Export Controls Regulations\nExport Administration Regulations (EAR)\nFor dual-use or less sensitive military items – administered by the U.S. Department of Commerce, Bureau of Industry and Security (BIS). http://www.bis.doc.gov/index.php/licensing/commerce-control-list-classification/export-control-classification-number-eccn\nInternational Traffic in Arms Regulations (ITAR)\nFor sensitive military items – administered by the U.S. Department of State, Directorate of Defense Trade Controls (DDTC). https://www.pmddtc.state.gov/\nEU Export Controls Regulations\nEuropean Union Dual-Use Regulation (EC) No 428/2009 (2017 consolidated version) governs the EU's export control regime.\nIf your items are military, then please refer to the national military list of each member state.\nI hereby certify that on behalf of (Company Name) JERA ELEKTRONİK TİC. SAN. LTD. ŞTİ. that the information given above accurately represents the export classification for the parts listed above as of the signature date of this submission.\nSignature: Zhengzhou Saga Telecom Co., Ltd.\nName: Alan\nTitle: Director of Sales\nDate: 12 / 03 / 2025\nPhone: 86-13048800964\nEmail: a.sagatelecom@gmail.com",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Supplier Export Classification Request Form"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"In accordance with Netas’ Export Compliance Policy, we ask our suppliers to provide the export classification data of their products (hardware and software)."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please fill out the Product Classification Table below for all products provided to Netas. You may attach an Excel spreadsheet to this form if there are numerous items."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product Classification Table"
+},
+{
+"t":"table",
+"rows":[
+[
+"Supplier Part Number",
+"Product Name and Description",
+"Export Classification (e.g. ECCN, EU Dual-Use Code, USML Number)",
+"License Exception / EU GEA (e.g. NLR, ENC(b)(1))",
+"CCATS",
+"Tariff / HTS Code / GTİP (in Turkish)",
+"Country of Origin"
+],
+[
+"STI-488DGGPM-2BT",
+"Industrial Ethernet Switch",
+"EAR99",
+"NLR (No License Required), per EAR §734",
+"Not applied / Not available",
+"8517622990",
+"China"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"U.S. Export Controls Regulations"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"Export Administration Regulations (EAR)"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"For dual-use or less sensitive military items – administered by the U.S. Department of Commerce, Bureau of Industry and Security (BIS). http://www.bis.doc.gov/index.php/licensing/commerce-control-list-classification/export-control-classification-number-eccn"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"International Traffic in Arms Regulations (ITAR)"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"For sensitive military items – administered by the U.S. Department of State, Directorate of Defense Trade Controls (DDTC). https://www.pmddtc.state.gov/"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"EU Export Controls Regulations"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"European Union Dual-Use Regulation (EC) No 428/2009 (2017 consolidated version) governs the EU's export control regime."
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"If your items are military, then please refer to the national military list of each member state."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"I hereby certify that on behalf of (Company Name) JERA ELEKTRONİK TİC. SAN. LTD. ŞTİ. that the information given above accurately represents the export classification for the parts listed above as of the signature date of this submission."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Signature: Zhengzhou Saga Telecom Co., Ltd."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Name: Alan"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Title: Director of Sales"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Date: 12 / 03 / 2025"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Phone: 86-13048800964"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Email: a.sagatelecom@gmail.com"
+}
+],
+"extracted_at":"2026-10-22T07:46:56Z"
+}

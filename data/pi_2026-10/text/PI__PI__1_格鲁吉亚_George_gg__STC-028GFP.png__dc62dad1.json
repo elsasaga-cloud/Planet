@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__1_格鲁吉亚_George_gg__STC-028GFP.png__dc62dad1",
+"path":"PI/PI/1 格鲁吉亚 George gg/STC-028GFP.png",
+"name":"STC-028GFP.png",
+"ext":".png",
+"bytes":47391,
+"sha256":"dc62dad1b9fab69f550759762dc967927f1d6fcca4410d9be547103d6a64b21f",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":907,
+"height":604,
+"mode":"RGBA",
+"thumb_bytes":16498
+},
+"warnings":[],
+"chars":207,
+"text":"Product: 10-port Hybrid rate POE switch\nModel: STC-028GFP\nFeatures: 8*10/100M POE Ports\n+ 2*10/100/1000M Ethernet Uplink Ports\nInternal Power, AC100~240V/120W, IEEE 8023af/at (12+,36-)\nS/N-10/100M20230731001",
+"extracted_at":"2026-10-22T07:27:31Z",
+"thumb":"thumbs/PI__PI__1_格鲁吉亚_George_gg__STC-028GFP.png__dc62dad1.jpg"
+}

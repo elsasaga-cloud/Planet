@@ -1,0 +1,25 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__WE0260900031259_STSC20260903006_DHL_运单标签.pdf__647d9568",
+"path":"PI/PI/6 美国 Thu 可发展/WE0260900031259_STSC20260903006_DHL_运单标签.pdf",
+"name":"WE0260900031259_STSC20260903006_DHL_运单标签.pdf",
+"ext":".pdf",
+"bytes":16829,
+"sha256":"647d95689e3c2ae4b70d17c8cc242392fa426a35ee58802b1cb9babb42925324",
+"source":"PI.zip",
+"method":"pdfplumber",
+"status":"ok",
+"meta":{
+"pages":1,
+"creator":"PDFsharp 1.50.4000-netstandard (https://github.com/ststeiger/PdfSharpCore)",
+"producer":"PDFsharp 1.50.4000-netstandard (https://github.com/ststeiger/PdfSharpCore)",
+"moddate":"D:20260928142948+08'00'",
+"ocr_pages":0
+},
+"warnings":[],
+"chars":476,
+"text":"[p1]\nEXPRESS WORLDWIDE WPX\n2026-09-26 MyDHL API 1.0 / *GLS certified label*\nTo : VI-LINK,INC. Contact:\nTHU PHAM\n5160 AVENIDA DE DESPACIO\nYORBA LINDA,CA 92887\n.\n92887 YORBA LINDA California\nUNITED STATES OF AMERICA\n. US-SEE-SEE SEED\nDay Time\nC-PLT\nPce/Shpt Weight Piece\nRef No: WE0260900031259 44..00 kkgg 11//11\nContent : Fiber Media Converter METAL DATA EXCHANGE AND OPTICAL TELECOMMUNICATION\nWAYBILL 86 0409 7423\n(2L)US92887+48000001\nRef Code:\nG\n(J) JD01 4600 0128 4536 6964",
+"pages":[
+"EXPRESS WORLDWIDE WPX\n2026-09-26 MyDHL API 1.0 / *GLS certified label*\nTo : VI-LINK,INC. Contact:\nTHU PHAM\n5160 AVENIDA DE DESPACIO\nYORBA LINDA,CA 92887\n.\n92887 YORBA LINDA California\nUNITED STATES OF AMERICA\n. US-SEE-SEE SEED\nDay Time\nC-PLT\nPce/Shpt Weight Piece\nRef No: WE0260900031259 44..00 kkgg 11//11\nContent : Fiber Media Converter METAL DATA EXCHANGE AND OPTICAL TELECOMMUNICATION\nWAYBILL 86 0409 7423\n(2L)US92887+48000001\nRef Code:\nG\n(J) JD01 4600 0128 4536 6964"
+],
+"extracted_at":"2026-10-22T07:32:12Z"
+}

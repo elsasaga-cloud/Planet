@@ -1,0 +1,77 @@
+{
+"id":"PI__PI__5_印度_Rajesh_gg__客户进口信息__shipment_related_information.docx__257f301d",
+"path":"PI/PI/5 印度 Rajesh gg/客户进口信息/shipment related information.docx",
+"name":"shipment related information.docx",
+"ext":".docx",
+"bytes":14045,
+"sha256":"257f301d73e2a21c3071245b99d53e08b0abf740d3c084835540aa1d3f29a65b",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"simon",
+"last_modified_by":"Simon",
+"created":"2022-09-01T14:02:00+00:00",
+"modified":"2024-04-27T07:25:01+00:00",
+"paragraphs":10,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"chars":316,
+"text":"Company Name\nUNITED CONTROL ENGINEERS INDIA PVT. LTD.\nGSTIN/UIN\n09AACCU4195M1ZP\n273802216228\nFedEx\nAfter getting the tracking number\nlog in https://kyc.fedex.com\nupload GSTIN code and KYC(Proof of identity and address recognized by the Government of India)\nupload POA information(customs clearance power of attorney)",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Company Name"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"UNITED CONTROL ENGINEERS INDIA PVT. LTD."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"GSTIN/UIN"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"09AACCU4195M1ZP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"273802216228"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"FedEx"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"After getting the tracking number"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"log in https://kyc.fedex.com"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"upload GSTIN code and KYC(Proof of identity and address recognized by the Government of India)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"upload POA information(customs clearance power of attorney)"
+}
+],
+"extracted_at":"2026-10-22T07:29:56Z"
+}

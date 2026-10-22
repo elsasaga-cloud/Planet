@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__20_土耳其_Burak_活跃_Xtransfer_轻度绑定__Shipment_Info__2.png__80c28ab5",
+"path":"PI/PI/20 土耳其 Burak 活跃 Xtransfer 轻度绑定/Shipment Info/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":73225,
+"sha256":"80c28ab5745156a895533d3c6a7005651f050d77830069eb4d76f33fb50ddadc",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1680,
+"height":1050,
+"mode":"RGB",
+"thumb_bytes":4061
+},
+"warnings":[],
+"chars":227,
+"text":"& Login - Switch x 十\nge ca 0 Q AR* http://192.168.56.166/#/login?redirect\n/monitor/dashboard\n人 @ 誠一 Cmisn Osun OFEES Onna O ERT\nManaged Ethernet Switch\nLogin\nOn @WH QZ BO\nClear\nAisc sz\n@a\nA @M A\n自\n一 x\nOm 由 =\n2xero\n16:03\nmame 5)",
+"extracted_at":"2026-10-22T07:47:17Z",
+"thumb":"thumbs/PI__PI__20_土耳其_Burak_活跃_Xtransfer_轻度绑定__Shipment_Info__2.png__80c28ab5.jpg"
+}

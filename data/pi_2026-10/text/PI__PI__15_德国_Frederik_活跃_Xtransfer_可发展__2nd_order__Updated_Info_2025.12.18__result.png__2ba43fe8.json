@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__Updated_Info_2025.12.18__result.png__2ba43fe8",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/2nd order/Updated Info_2025.12.18/result.png",
+"name":"result.png",
+"ext":".png",
+"bytes":17170,
+"sha256":"2ba43fe8fd7675982c484a4d847c21ea093aeaeb3a226524598bf6fbb4ca2963",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":743,
+"height":162,
+"mode":"RGB",
+"thumb_bytes":4203
+},
+"warnings":[],
+"chars":222,
+"text":"SWITCH#show ver\nSoftware Version: hotfix/7.4.7 (r1540 af525c9)\nRelease Date: 2025-12-11 17:09:22\nSystem MAC Address: 8c:ae:49:d1:21:73\nPID: STC-4168XGGCM, Hardware Version: 1.0, Serial Number: 111\nVendor oid: 56166\nSWITCH#",
+"extracted_at":"2026-10-22T07:34:04Z",
+"thumb":"thumbs/PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__Updated_Info_2025.12.18__result.png__2ba43fe8.jpg"
+}

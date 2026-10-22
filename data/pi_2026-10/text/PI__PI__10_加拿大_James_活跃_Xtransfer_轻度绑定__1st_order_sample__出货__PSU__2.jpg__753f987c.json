@@ -1,0 +1,24 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__1st_order_sample__出货__PSU__2.jpg__753f987c",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/1st order sample/出货/PSU/2.jpg",
+"name":"2.jpg",
+"ext":".jpg",
+"bytes":4548637,
+"sha256":"753f987c7e78c143f4f1571f11129274f1a0693f14ff72c9005d4fee889d0ace",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":3072,
+"height":3072,
+"mode":"RGB",
+"software":"FOA-AL00 4.0.0.113(C00E112R4P2)",
+"thumb_bytes":8481
+},
+"warnings":[],
+"chars":215,
+"text":"XX POU, AC Adapter/\nModel No (型 號 ): 1AA-520-0345-L\nAC Input (输入 ) : 100-240V~,2.2A,50-60Hz\nDC Output (輸出) : 52.0V 一 3.45A,180.0W iI\nFE CE © OB wu\nDongGuan DoubleX Electronics Industrial Ci 24 29\n莞 市 双向 电子 实业 有 限 公司",
+"extracted_at":"2026-10-22T07:58:24Z",
+"thumb":"thumbs/PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__1st_order_sample__出货__PSU__2.jpg__753f987c.jpg"
+}

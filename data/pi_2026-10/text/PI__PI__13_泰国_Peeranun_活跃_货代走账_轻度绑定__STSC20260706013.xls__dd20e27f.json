@@ -1,0 +1,222 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__STSC20260706013.xls__dd20e27f",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20260706013.xls",
+"name":"STSC20260706013.xls",
+"ext":".xls",
+"bytes":491520,
+"sha256":"dd20e27f59beaeb675c682e4354398d55cfd16729e985d0ab57886c4c5820f63",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Proforma Invoice"
+],
+"rows_total":44
+},
+"warnings":[],
+"chars":3082,
+"text":"--- Sheet: Proforma Invoice ---\nSaga Telecom, OEM Factory\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 15237149683                                          www.sagatelecom.com.cn                                Email: s.sagatelecom@gmail.com\n*********************************************************************************************************************\nProforma Invoice\nPO No.\t\t\tInvoice No.:\tSTSC20260706013\nBuyer:\tPBA Forever Technology CO., LTD.\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t66-98-265-6972\t\tIssued By:\tSimon\nEmail:\tpomnong9@gmail.com\t\tInvoice Date:\t6th, July, 2026\nContact Person:\tPeeranun Ratannabuajan, CEO\t\tPayment Term:\tT/T in advance, EXW\nShipping Address\t广州市白云区白云湖街朗兴路7号, 510000          13416307791, 020-87465324                  李慧\nNO. 334 GRAPHIC PLACE SOI 2 M.1 THEPHARAK ROAD BANGSAOTHONG, BANGSAOTHONG, SAMUTPRAKARN 10540\nModel\tSpecification\t\t\tQuantity \n(PCS)\tUnit Price\n(RMB)\tAmount \n(RMB)\tRemark\nSTI-21616GP\t\tIndustrial PoE Switch\n\n2*1G SFP+16*10/100/1000M PoE, Support DIP function\n1. Link aggregation; 2. 250m long distance; 3. QoS; 4. PoE watchdog\nPoE af/at, 240W budget, DC48V Output, -40℃ to 75℃\nDual DC44V~DC57V(Removable 6 PIN Industrial Terminal Block) \nDIN or Wall Mounted, Without optical module\nWithout power adapter, With Console cable\n\nExactly the same as last order STSC20250827013\t\t3\t1050\t3150\tUnmanaged\n\nMarvell Chip\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 158*115*54mm\nNet Weight: 1.2Kg\nGross Weight: 1.4Kg\nFreight Cost\tShipment to client's forwarder in China\nWith Shipping Mark on the outside box SEA2000-PERN\t\t\t\t\t0\nTOTAL\t\t\t\t3\t\t3150\nSAY TOTAL IN RMB THREE THOUSAND ONE HUNDRED AND FIFTY ONLY\nRemark\nPlease do make sure client side could handle import customs clearance\nIf there is any problem with the shipment or clearance\n1, please let us know ASAP\n2, please call DHL/FedEx/UPS official number for information\n1. Payment: Full payment to the below bank account before shipment.\nBank Information\nBank Name\t招商银行深圳西丽支行\nBeneficiary\t程天龙\nAccount No.(RMB)\t6214 8386 5934 1962\n2. NOTE: Saga Telecom will not pay for any bank charge\nPlease make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice\n3. Production time: 2~4 working days(NOT including shipping time)\n4. Country of origin: China\n5. Non-brand packing, without Chinese letters or logo\nPackage mark: None\nPacking list is available\n6. Warranty: 3 years, lifetime technical support\nPurchased items are deemed accepted upon initial inspection if no written notice of defects is received within two (2) months from the delivery date\nThis acceptance clause shall not affect the validity of the warranty period\nPlease refer to \"warranty policy\" for more information\nBuyer: PBA Forever Technology CO., LTD.\t\t\tSeller: Zhengzhou Saga Telecom Co., Ltd.\nPeeranun Ratannabuajan\t\t\tSimon\nAuthorized Signature\t\t\tAuthorized Signature",
+"sheets":{
+"Proforma Invoice":{
+"rows":[
+[
+"Saga Telecom, OEM Factory"
+],
+[
+"Tailored Managed Networking Solutions Provider"
+],
+[
+"Built to Last, Continuous Supply, Evolving Together"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 15237149683                                          www.sagatelecom.com.cn                                Email: s.sagatelecom@gmail.com"
+],
+[
+"*********************************************************************************************************************"
+],
+[
+"Proforma Invoice"
+],
+[
+"PO No.",
+"",
+"",
+"Invoice No.:",
+"STSC20260706013"
+],
+[
+"Buyer:",
+"PBA Forever Technology CO., LTD.",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"66-98-265-6972",
+"",
+"Issued By:",
+"Simon"
+],
+[
+"Email:",
+"pomnong9@gmail.com",
+"",
+"Invoice Date:",
+"6th, July, 2026"
+],
+[
+"Contact Person:",
+"Peeranun Ratannabuajan, CEO",
+"",
+"Payment Term:",
+"T/T in advance, EXW"
+],
+[
+"Shipping Address",
+"广州市白云区白云湖街朗兴路7号, 510000          13416307791, 020-87465324                  李慧\nNO. 334 GRAPHIC PLACE SOI 2 M.1 THEPHARAK ROAD BANGSAOTHONG, BANGSAOTHONG, SAMUTPRAKARN 10540"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(PCS)",
+"Unit Price\n(RMB)",
+"Amount \n(RMB)",
+"Remark"
+],
+[
+"STI-21616GP",
+"",
+"Industrial PoE Switch\n\n2*1G SFP+16*10/100/1000M PoE, Support DIP function\n1. Link aggregation; 2. 250m long distance; 3. QoS; 4. PoE watchdog\nPoE af/at, 240W budget, DC48V Output, -40℃ to 75℃\nDual DC44V~DC57V(Removable 6 PIN Industrial Terminal Block) \nDIN or Wall Mounted, Without optical module\nWithout power adapter, With Console cable\n\nExactly the same as last order STSC20250827013",
+"",
+"3",
+"1050",
+"3150",
+"Unmanaged\n\nMarvell Chip"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 158*115*54mm\nNet Weight: 1.2Kg\nGross Weight: 1.4Kg"
+],
+[
+"Freight Cost",
+"Shipment to client's forwarder in China\nWith Shipping Mark on the outside box SEA2000-PERN",
+"",
+"",
+"",
+"",
+"0"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"3",
+"",
+"3150"
+],
+[
+"SAY TOTAL IN RMB THREE THOUSAND ONE HUNDRED AND FIFTY ONLY"
+],
+[
+"Remark"
+],
+[
+"Please do make sure client side could handle import customs clearance"
+],
+[
+"If there is any problem with the shipment or clearance"
+],
+[
+"1, please let us know ASAP"
+],
+[
+"2, please call DHL/FedEx/UPS official number for information"
+],
+[
+"1. Payment: Full payment to the below bank account before shipment."
+],
+[
+"Bank Information"
+],
+[
+"Bank Name",
+"招商银行深圳西丽支行"
+],
+[
+"Beneficiary",
+"程天龙"
+],
+[
+"Account No.(RMB)",
+"6214 8386 5934 1962"
+],
+[
+"2. NOTE: Saga Telecom will not pay for any bank charge"
+],
+[
+"Please make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice"
+],
+[
+"3. Production time: 2~4 working days(NOT including shipping time)"
+],
+[
+"4. Country of origin: China"
+],
+[
+"5. Non-brand packing, without Chinese letters or logo"
+],
+[
+"Package mark: None"
+],
+[
+"Packing list is available"
+],
+[
+"6. Warranty: 3 years, lifetime technical support"
+],
+[
+"Purchased items are deemed accepted upon initial inspection if no written notice of defects is received within two (2) months from the delivery date"
+],
+[
+"This acceptance clause shall not affect the validity of the warranty period"
+],
+[
+"Please refer to \"warranty policy\" for more information"
+],
+[
+"Buyer: PBA Forever Technology CO., LTD.",
+"",
+"",
+"Seller: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Peeranun Ratannabuajan",
+"",
+"",
+"Simon"
+],
+[
+"Authorized Signature",
+"",
+"",
+"Authorized Signature"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:51:13Z"
+}

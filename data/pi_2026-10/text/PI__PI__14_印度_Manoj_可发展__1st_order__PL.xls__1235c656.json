@@ -1,0 +1,134 @@
+{
+"id":"PI__PI__14_印度_Manoj_可发展__1st_order__PL.xls__1235c656",
+"path":"PI/PI/14 印度 Manoj 可发展/1st order/PL.xls",
+"name":"PL.xls",
+"ext":".xls",
+"bytes":147456,
+"sha256":"1235c65697e49d5e6e310c7da98fab70d9d483a67d087e73500b529924a436cc",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Packing List"
+],
+"rows_total":16
+},
+"warnings":[],
+"chars":731,
+"text":"--- Sheet: Packing List ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nMob/WhatsApp/WeChat: 86 15237149683\nWeb:www.sagatelecom.com.cn\nEmail: s.sagatelecom@gmail.com\nPacking  List\nDate\t2024.11.12\t\t\t\t\t\t\t\tPO No.\nShip To\tSundar Techno Solutions\t\t\t\t\t\t\t\tC/I No.\tSTSC20241108014\nShipping Add.\t#24/106, 8th B main road, 11th cross, Ananthnagar phase 1, Electronic City phase 2, Bangalore 560100, India\t\t\t\t\t\t\t\tP/L No.\tPL20241112001\nC/No.:\tDESCRIPTION\tQTY/CTN\tQTY/PCS\tCTNS\tN.W/KGS\tG.W/KGS\tLENGTH/CM\tWIDTH/CM\tHEIGHT/CM\tMEAS/CM³\n1\tIndustrial Switch\t1\t1\t1\t1.2\t1.4\t23\t18\t7\t0.002898\nTOTAL\t\t\t1\t1\t1.2\t1.4\t\t\t\t0.002898\nSAY TOTAL: ONE(1)CARTONS ONLY\nQUANTITY: ONE PCS ONLY\nIssued by: Zhengzhou Saga Telecom Co., Ltd.\nSimon Cheng",
+"sheets":{
+"Packing List":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Mob/WhatsApp/WeChat: 86 15237149683"
+],
+[
+"Web:www.sagatelecom.com.cn"
+],
+[
+"Email: s.sagatelecom@gmail.com"
+],
+[
+"Packing  List"
+],
+[
+"Date",
+"2024.11.12",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"PO No."
+],
+[
+"Ship To",
+"Sundar Techno Solutions",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"C/I No.",
+"STSC20241108014"
+],
+[
+"Shipping Add.",
+"#24/106, 8th B main road, 11th cross, Ananthnagar phase 1, Electronic City phase 2, Bangalore 560100, India",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"P/L No.",
+"PL20241112001"
+],
+[
+"C/No.:",
+"DESCRIPTION",
+"QTY/CTN",
+"QTY/PCS",
+"CTNS",
+"N.W/KGS",
+"G.W/KGS",
+"LENGTH/CM",
+"WIDTH/CM",
+"HEIGHT/CM",
+"MEAS/CM³"
+],
+[
+"1",
+"Industrial Switch",
+"1",
+"1",
+"1",
+"1.2",
+"1.4",
+"23",
+"18",
+"7",
+"0.002898"
+],
+[
+"TOTAL",
+"",
+"",
+"1",
+"1",
+"1.2",
+"1.4",
+"",
+"",
+"",
+"0.002898"
+],
+[
+"SAY TOTAL: ONE(1)CARTONS ONLY"
+],
+[
+"QUANTITY: ONE PCS ONLY"
+],
+[
+"Issued by: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Simon Cheng"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:36:17Z"
+}

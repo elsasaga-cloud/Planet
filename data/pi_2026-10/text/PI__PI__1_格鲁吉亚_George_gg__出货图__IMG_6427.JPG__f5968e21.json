@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__1_格鲁吉亚_George_gg__出货图__IMG_6427.JPG__f5968e21",
+"path":"PI/PI/1 格鲁吉亚 George gg/出货图/IMG_6427.JPG",
+"name":"IMG_6427.JPG",
+"ext":".jpg",
+"bytes":1951272,
+"sha256":"f5968e213f1427bbbb901a9b2bdcc750d70034508f8cc0aa7f7d4812b3a73647",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":3024,
+"height":4032,
+"mode":"RGB",
+"thumb_bytes":15604
+},
+"warnings":[],
+"chars":672,
+"text":"Product\nModel: §\nFeatures:\n+ 2°10/10(\nnternal Pow\nad\nManufac\nProduct: 10-port Hybrid rate POE ewitcr\nModel: STC-028GFP\nFeatures: 8*10/100M POE Ports\n+ 2*10/100/1000M Ethernet Uplink Ports\nInternal Power, AC100~240V/120W, IEEE 8023af/at (12+ 36-)\nST IT\noe S/N-10/100M20230731002\nMade In China\nMe a\nReet,\nProduct: 10-port Hybrid rate POE switch\nModel: STC-028GFP\nFeatures: 8*10/100M POE Ports\n+ 2*40/100/1000M Ethernet Uplink Ports\ninternal Power, AC100~240V/120W, IEEE 8023af/at (12+,36-)\nWIEN\nS/N-10/100M202\nMade In China\nManufacturer\nProduct: 10-port Hybrid rate POE switch\nModel: STC-028GFP\nFeatures: 8°10/100M POE Ports\n+ 2*40/100/1000M Ethernet Uplink Ports\nteam tf »A",
+"extracted_at":"2026-10-22T07:29:14Z",
+"thumb":"thumbs/PI__PI__1_格鲁吉亚_George_gg__出货图__IMG_6427.JPG__f5968e21.jpg"
+}

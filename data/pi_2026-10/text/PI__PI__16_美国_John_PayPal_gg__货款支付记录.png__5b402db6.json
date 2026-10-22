@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__16_美国_John_PayPal_gg__货款支付记录.png__5b402db6",
+"path":"PI/PI/16 美国 John PayPal gg/货款支付记录.png",
+"name":"货款支付记录.png",
+"ext":".png",
+"bytes":94734,
+"sha256":"5b402db63f1582a2a06d21ecd3dc19dc529ac84869a65ef2d3b26d19f07f5d58",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":5666
+},
+"warnings":[],
+"chars":197,
+"text":"2:06\n收 款 账户\n付款 账户\n转账 附 言\n转账 渠 道\n转账 方式\n© 转账 完成\n=>\nall > 区\n转账 记录 查询 Oo ©\n转 给 罗 辉\n-¥ 1,084.00\n6214 3913 3000 0617 588\n6214********1962\n转账\n手机 银行\n电子 银行 转账\nae\nri\n(ot\na\n2025-07-23 14:06:46\n查看 和 TA 的 转账 记录",
+"extracted_at":"2026-10-22T07:29:20Z",
+"thumb":"thumbs/PI__PI__16_美国_John_PayPal_gg__货款支付记录.png__5b402db6.jpg"
+}

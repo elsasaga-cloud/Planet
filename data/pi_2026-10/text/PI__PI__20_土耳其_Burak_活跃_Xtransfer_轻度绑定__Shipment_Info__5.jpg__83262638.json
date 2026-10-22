@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__20_土耳其_Burak_活跃_Xtransfer_轻度绑定__Shipment_Info__5.jpg__83262638",
+"path":"PI/PI/20 土耳其 Burak 活跃 Xtransfer 轻度绑定/Shipment Info/5.jpg",
+"name":"5.jpg",
+"ext":".jpg",
+"bytes":3771253,
+"sha256":"8326263869120fee3912ff2254ff6a6bc9818ac7dbfc96688b512afd18665c3b",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":3053,
+"height":1694,
+"mode":"RGB",
+"thumb_bytes":13265
+},
+"warnings":[],
+"chars":53,
+"text":"See\n8\n多\nS\nSd\n0\n=\n=\nN\npc1256y\nNonPoF\nPoE;:PS44.57V\n2\n4",
+"extracted_at":"2026-10-22T07:47:26Z",
+"thumb":"thumbs/PI__PI__20_土耳其_Burak_活跃_Xtransfer_轻度绑定__Shipment_Info__5.jpg__83262638.jpg"
+}

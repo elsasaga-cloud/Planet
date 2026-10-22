@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__19_马来西亚_Raja_可发展__发货图片__STI-21616GP__2418eac8ee7858891183a7ca1a346ad9.jpg__ebf4a09d",
+"path":"PI/PI/19 马来西亚 Raja 可发展/发货图片/STI-21616GP/2418eac8ee7858891183a7ca1a346ad9.jpg",
+"name":"2418eac8ee7858891183a7ca1a346ad9.jpg",
+"ext":".jpg",
+"bytes":969519,
+"sha256":"ebf4a09dd8c0dc536d743c5b29212e3a7a4c95efe4d99ff30afcda16c0151ac4",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1279,
+"height":1315,
+"mode":"RGB",
+"thumb_bytes":16015
+},
+"warnings":[],
+"chars":94,
+"text":"an 1 Fs==\nUser Mai\nMany thank’ for your purchase.\nPlease (ig f\not use,\nal is ONT\nto the actuai",
+"extracted_at":"2026-10-22T07:50:42Z",
+"thumb":"thumbs/PI__PI__19_马来西亚_Raja_可发展__发货图片__STI-21616GP__2418eac8ee7858891183a7ca1a346ad9.jpg__ebf4a09d.jpg"
+}

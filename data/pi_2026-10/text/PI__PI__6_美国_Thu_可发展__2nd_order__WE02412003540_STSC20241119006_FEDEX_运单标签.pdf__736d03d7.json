@@ -1,0 +1,25 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__2nd_order__WE02412003540_STSC20241119006_FEDEX_运单标签.pdf__736d03d7",
+"path":"PI/PI/6 美国 Thu 可发展/2nd order/WE02412003540_STSC20241119006_FEDEX_运单标签.pdf",
+"name":"WE02412003540_STSC20241119006_FEDEX_运单标签.pdf",
+"ext":".pdf",
+"bytes":8761,
+"sha256":"736d03d7918dadef2c40181802a82017262b6f5387384113f3505e1569e0f7bc",
+"source":"PI.zip",
+"method":"pdfplumber",
+"status":"ok",
+"meta":{
+"pages":1,
+"creator":"PDFsharp 1.50.4000-netstandard (https://github.com/ststeiger/PdfSharpCore)",
+"producer":"PDFsharp 1.50.4000-netstandard (https://github.com/ststeiger/PdfSharpCore)",
+"moddate":"D:20260928143659+08'00'",
+"ocr_pages":0
+},
+"warnings":[],
+"chars":250,
+"text":"[p1]\nTOTHU PHAM\nVI-LINK, INC\n5160 AVENIDA DE DESPACIO\n.\nYORBA LINDA CA 92887 (US)\n17144719712 REF: WE02412003540\nINV:\nPO: DEPT:\n1 of 2\nTRK#\n0430\n## MASTER ##\nUC FULA\n4C6C/87BE/4JC85\nAA\n7706 2295 0576 INTL CONN PLUS\nETD\n92887\nSNA\nCA-US\nvu200190420442J",
+"pages":[
+"TOTHU PHAM\nVI-LINK, INC\n5160 AVENIDA DE DESPACIO\n.\nYORBA LINDA CA 92887 (US)\n17144719712 REF: WE02412003540\nINV:\nPO: DEPT:\n1 of 2\nTRK#\n0430\n## MASTER ##\nUC FULA\n4C6C/87BE/4JC85\nAA\n7706 2295 0576 INTL CONN PLUS\nETD\n92887\nSNA\nCA-US\nvu200190420442J"
+],
+"extracted_at":"2026-10-22T07:32:51Z"
+}

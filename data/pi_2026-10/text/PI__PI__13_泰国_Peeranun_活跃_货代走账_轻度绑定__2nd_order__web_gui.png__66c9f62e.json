@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__web_gui.png__66c9f62e",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/2nd order/web gui.png",
+"name":"web gui.png",
+"ext":".png",
+"bytes":22859,
+"sha256":"66c9f62e7ffb62d964c0572ed3ecfe8d9abba691028f6f3f7b3596f30714b9e6",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1643,
+"height":952,
+"mode":"RGBA",
+"thumb_bytes":2599
+},
+"warnings":[],
+"chars":59,
+"text":"上 veenuw\nSTI-21616DGGPM\nManaged Ethernet Switch\nLogin Clear",
+"extracted_at":"2026-10-22T07:51:39Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__web_gui.png__66c9f62e.jpg"
+}

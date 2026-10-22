@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__8_俄罗斯_Igor_gg__出货__STI-080GE__4.jpg__c6582306",
+"path":"PI/PI/8 俄罗斯 Igor gg/出货/STI-080GE/4.jpg",
+"name":"4.jpg",
+"ext":".jpg",
+"bytes":1095048,
+"sha256":"c65823061a186549c65d0280c9297d3d8afb7c5a5b4042d7145f891bfdb4441b",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1920,
+"height":1080,
+"mode":"RGB",
+"thumb_bytes":8085
+},
+"warnings":[],
+"chars":450,
+"text":"Saga Telecom\nConnecting, Converting, Creating\nMany thanks for your purchase.\nPlease read this user manual for safe and correct use.\n@ The information described in this manual is ONLY\nabout general information, please refer to the actual\nproduct purchased.\n@ It is advised to keep the user manual properly.\n@ Please let us know for any usage problem or query.\nPacking List\n1*Switch (See the product label for more details)\n1*User Manual (printed copy)",
+"extracted_at":"2026-10-22T07:35:12Z",
+"thumb":"thumbs/PI__PI__8_俄罗斯_Igor_gg__出货__STI-080GE__4.jpg__c6582306.jpg"
+}

@@ -1,0 +1,24 @@
+{
+"id":"PI__PI__3_赞比亚_Pythias_gg__发货__7_cartons.jpg__ef8e7b01",
+"path":"PI/PI/3  赞比亚 Pythias gg/发货/7 cartons.jpg",
+"name":"7 cartons.jpg",
+"ext":".jpg",
+"bytes":6118936,
+"sha256":"ef8e7b01163fcf0c4d58132e3e37351e0b56623b8a89adab8dd96543439ab959",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":3468,
+"height":4624,
+"mode":"RGB",
+"software":"MediaTek Camera Application\u0000\u0000\u0000\u0000",
+"thumb_bytes":14534
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:48:09Z",
+"thumb":"thumbs/PI__PI__3_赞比亚_Pythias_gg__发货__7_cartons.jpg__ef8e7b01.jpg"
+}

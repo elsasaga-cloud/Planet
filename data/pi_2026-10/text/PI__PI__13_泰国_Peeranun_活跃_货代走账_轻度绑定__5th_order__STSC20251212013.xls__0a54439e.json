@@ -1,0 +1,207 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__5th_order__STSC20251212013.xls__0a54439e",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/5th order/STSC20251212013.xls",
+"name":"STSC20251212013.xls",
+"ext":".xls",
+"bytes":6123520,
+"sha256":"0a54439e537dcbcec489104311301aa5c226b1091c7d787b6dee2228fc5d8580",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Proforma Invoice"
+],
+"rows_total":39
+},
+"warnings":[],
+"chars":2636,
+"text":"--- Sheet: Proforma Invoice ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob/WhatsApp/WeChat: 86 15237149683                                               www.sagatelecom.com.cn                                           Email: s.sagatelecom@gmail.com\n*************************************************************************************************************************************************\nProforma  Invoice\nPO No.\t\t\tInvoice No.:\tSTSC20251212013\nBuyer:\tPBA Forever Technology CO., LTD.\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t66-98-265-6972\t\tIssued By:\tSimon Cheng\nEmail:\tpomnong9@gmail.com\t\tInvoice Date:\t12th, Dec, 2025\nContact Person:\tPeeranun Ratannabuajan, CEO\t\tPayment Term:\tT/T in advance\nShipping Address\tNO. 334 GRAPHIC PLACE SOI 2 M.1 THEPHARAK ROAD BANGSAOTHONG, BANGSAOTHONG, SAMUTPRAKARN 10540\nModel\tPhoto\tSpecification\t\tQuantity \n(pcs)\tUnit Price\n(RMB)\tAmount \n(RMB)\tRemark\nSTI-42424DGGPM\t\tIndustrial PoE Managed Switch\n\n4*1G/2.5G Fiber+24*10/100M/1000M PoE\nPoE af/at, 240W/370W budget,  DC48V Output, -40℃ to 75℃\n L2+ Managed, Without Serial Port\nDual DC44V~DC57V(Removable 2 PIN Industrial Terminal Block)\nDIN or Wall Mounted, Without optical module\nWithout power adapter, With Console cable\t\t1\t2200\t2200\tMarvell Chip\n240W: Max 70℃\n370W: Max 60℃\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 158*115*110mm\nGross Weight: 2.4Kg\nFreight Cost\tShipment to client's forwarder in China\t\t\t\t\t0\nTOTAL\t\t\t\t1\t\t2200\nSAY TOTAL IN RMB NINE THOUSAND SIX HUNDRED AND TWENTY ONLY\nRemark\nPlease do make sure client side could handle import customs clearance.\n1. Payment: Full payment to the below bank account before shipment.\nBank Information\nBank Name\t招商银行深圳西丽支行\nBeneficiary\t程天龙\nAccount No.(RMB)\t6214 8386 5934 1962\n2. NOTE: Saga Telecom will not pay for any bank charge.\nPlease make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice.\n3. Production time: 7~10 working days(this is NOT including shipping time)\n4. Country of origin: China\n5. Customized packing\nPackage Marks: None\nPacking list is available upon request\n6. Warranty: 3 years, lifetime technical support\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" for more information.\nBuyer: PBA Forever Technology CO., LTD.\t\t\tSeller: Zhengzhou Saga Telecom Co., Ltd.\nPeeranun Ratannabuajan\t\t\tSimon Cheng\nAuthorized Signature\t\t\tAuthorized Signature",
+"sheets":{
+"Proforma Invoice":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob/WhatsApp/WeChat: 86 15237149683                                               www.sagatelecom.com.cn                                           Email: s.sagatelecom@gmail.com"
+],
+[
+"*************************************************************************************************************************************************"
+],
+[
+"Proforma  Invoice"
+],
+[
+"PO No.",
+"",
+"",
+"Invoice No.:",
+"STSC20251212013"
+],
+[
+"Buyer:",
+"PBA Forever Technology CO., LTD.",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"66-98-265-6972",
+"",
+"Issued By:",
+"Simon Cheng"
+],
+[
+"Email:",
+"pomnong9@gmail.com",
+"",
+"Invoice Date:",
+"12th, Dec, 2025"
+],
+[
+"Contact Person:",
+"Peeranun Ratannabuajan, CEO",
+"",
+"Payment Term:",
+"T/T in advance"
+],
+[
+"Shipping Address",
+"NO. 334 GRAPHIC PLACE SOI 2 M.1 THEPHARAK ROAD BANGSAOTHONG, BANGSAOTHONG, SAMUTPRAKARN 10540"
+],
+[
+"Model",
+"Photo",
+"Specification",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(RMB)",
+"Amount \n(RMB)",
+"Remark"
+],
+[
+"STI-42424DGGPM",
+"",
+"Industrial PoE Managed Switch\n\n4*1G/2.5G Fiber+24*10/100M/1000M PoE\nPoE af/at, 240W/370W budget,  DC48V Output, -40℃ to 75℃\n L2+ Managed, Without Serial Port\nDual DC44V~DC57V(Removable 2 PIN Industrial Terminal Block)\nDIN or Wall Mounted, Without optical module\nWithout power adapter, With Console cable",
+"",
+"1",
+"2200",
+"2200",
+"Marvell Chip\n240W: Max 70℃\n370W: Max 60℃"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 158*115*110mm\nGross Weight: 2.4Kg"
+],
+[
+"Freight Cost",
+"Shipment to client's forwarder in China",
+"",
+"",
+"",
+"",
+"0"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"1",
+"",
+"2200"
+],
+[
+"SAY TOTAL IN RMB NINE THOUSAND SIX HUNDRED AND TWENTY ONLY"
+],
+[
+"Remark"
+],
+[
+"Please do make sure client side could handle import customs clearance."
+],
+[
+"1. Payment: Full payment to the below bank account before shipment."
+],
+[
+"Bank Information"
+],
+[
+"Bank Name",
+"招商银行深圳西丽支行"
+],
+[
+"Beneficiary",
+"程天龙"
+],
+[
+"Account No.(RMB)",
+"6214 8386 5934 1962"
+],
+[
+"2. NOTE: Saga Telecom will not pay for any bank charge."
+],
+[
+"Please make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice."
+],
+[
+"3. Production time: 7~10 working days(this is NOT including shipping time)"
+],
+[
+"4. Country of origin: China"
+],
+[
+"5. Customized packing"
+],
+[
+"Package Marks: None"
+],
+[
+"Packing list is available upon request"
+],
+[
+"6. Warranty: 3 years, lifetime technical support"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" for more information."
+],
+[
+"Buyer: PBA Forever Technology CO., LTD.",
+"",
+"",
+"Seller: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Peeranun Ratannabuajan",
+"",
+"",
+"Simon Cheng"
+],
+[
+"Authorized Signature",
+"",
+"",
+"Authorized Signature"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:53:36Z"
+}

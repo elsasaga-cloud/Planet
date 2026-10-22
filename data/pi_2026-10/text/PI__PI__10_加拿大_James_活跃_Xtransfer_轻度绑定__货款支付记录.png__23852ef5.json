@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__货款支付记录.png__23852ef5",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/货款支付记录.png",
+"name":"货款支付记录.png",
+"ext":".png",
+"bytes":95692,
+"sha256":"23852ef539932be0f0f2734d70c5ad6685724b9ff1a99b9115fa03140e34cdcf",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":5727
+},
+"warnings":[],
+"chars":216,
+"text":"9:28 了 sil 4G EE\n< 轉 賬 記 錄 查 詢 © 全\nHOSE\n- ¥ 20,160.00\n收 款 账户 6214 3913 3000 0617 588\n收 款 銀 行 东莞 银行\n付款 账户 6214 **** **** 1962\n转账 附 言 转账\n转账 渠道 手机 银行\n转账 方式 电子 银行 转账\n© 转账 完\n转账 完成 进度 查询\n2026-09-07 09:27:59\n查看 和 TA 的 转账 记录",
+"extracted_at":"2026-10-22T07:55:45Z",
+"thumb":"thumbs/PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__货款支付记录.png__23852ef5.jpg"
+}

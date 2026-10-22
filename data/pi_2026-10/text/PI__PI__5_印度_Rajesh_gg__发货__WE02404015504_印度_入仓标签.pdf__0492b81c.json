@@ -1,0 +1,26 @@
+{
+"id":"PI__PI__5_印度_Rajesh_gg__发货__WE02404015504_印度_入仓标签.pdf__0492b81c",
+"path":"PI/PI/5 印度 Rajesh gg/发货/WE02404015504 印度 入仓标签.pdf",
+"name":"WE02404015504 印度 入仓标签.pdf",
+"ext":".pdf",
+"bytes":29459,
+"sha256":"0492b81cdf4dfaf790819f0602f84732f0ef84e8dc860b184a919cd10e831c23",
+"source":"PI.zip",
+"method":"pdfplumber",
+"status":"ok",
+"meta":{
+"pages":1,
+"creator":"PDFsharp 1.50.5147 (www.pdfsharp.com)",
+"producer":"PDFsharp 1.50.5147 (www.pdfsharp.com)",
+"creationdate":"D:20240422143057+08'00'",
+"moddate":"D:20240422143331+08'00'",
+"ocr_pages":0
+},
+"warnings":[],
+"chars":135,
+"text":"[p1]\nBSA00002 SE2404024115\n国国际际快快递递 F-09大大陆陆联联邦邦C价价IP\n→\n深深圳圳市市 IN,印印度度\n货物类型 普普货货\n服 务\n收货地址：深圳市宝安区凤塘大道141号大洋田工\n业区第8-9栋（导航中技物流百运网分拔中心）\n1-1",
+"pages":[
+"BSA00002 SE2404024115\n国国际际快快递递 F-09大大陆陆联联邦邦C价价IP\n→\n深深圳圳市市 IN,印印度度\n货物类型 普普货货\n服 务\n收货地址：深圳市宝安区凤塘大道141号大洋田工\n业区第8-9栋（导航中技物流百运网分拔中心）\n1-1"
+],
+"extracted_at":"2026-10-22T07:29:49Z"
+}

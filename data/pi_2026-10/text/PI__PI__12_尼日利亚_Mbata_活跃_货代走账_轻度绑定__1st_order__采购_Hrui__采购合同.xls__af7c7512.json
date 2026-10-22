@@ -1,0 +1,142 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__1st_order__采购_Hrui__采购合同.xls__af7c7512",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/1st order/采购_Hrui/采购合同.xls",
+"name":"采购合同.xls",
+"ext":".xls",
+"bytes":165376,
+"sha256":"af7c751226025803d44185a5aa38d6055f38953285aa8b936e51540d279fdda7",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"采购合同"
+],
+"rows_total":26
+},
+"warnings":[],
+"chars":1430,
+"text":"--- Sheet: 采购合同 ---\n郑州仨戛通讯器材有限公司\n地址: 郑州市管城区航海路中州大道富田太阳城57号楼22层316\n电话: 86 15237149683                                                     www.sagatelecom.com.cn                                              Email: s.sagatelecom@gmail.com\n************************************************************************************************************************\n采购合同\n买方:\t郑州仨戛通讯器材有限公司\nZhengzhou Saga Telecom Co., Ltd.\n地址：\t郑州市管城区航海路中州大道富田太阳城57号楼22层316\nRoom 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\n采购订单编号\tSTSC20240908012\n电话:\t86 15237149683\n邮箱\ts.sagatelecom@gmail.com\n联系人:\t程天龙(Simon Cheng)\n卖方:\t深圳洪瑞光祥电子技术有限公司\nShenzhen HongRui Optical Technology Co.,Ltd\n地址：\t深圳市宝安区沙井街道西环路九九工业城旺荣电子工业园二楼\n2nd Floor, Wangrong Industrial Park, Jiujiu Industrial City, Xihuan Road, Shajing Street, Baoan District, Shenzhen\n联系人:\t刘长桂/18820293198/sales101@hruitech.com\n订单日期:\t19th, Feb, 2024\n付款条款\t工厂直发，款到生产，包邮\n发货地址\t经双方协商后，直接发给货代处理\n产品编号\t品名规格\t\t\t数量 \n(个)\t单价\n(RMB)\t小计\n(Sub-total)\nZX900-AFG-82NS\t商业交换机\n2个千兆SFP光口+2个千兆上联电口+8个千兆PoE下联网口，PoE af/at, 120W功率，非管理\n支持拨码功能，支持PoE看门狗，英规电源\n不含模块，中性设备，1年质保，带挂耳\t\t\t5\t175\t875\nZX-AFGM-82NS\t商业交换机\n2个千兆SFP光口+8个千兆PoE下联网口，PoE af/at, 120W功率，2层管理\n支持PoE看门狗，英规电源\n不含模块，中性设备，1年质保，带挂耳\t\t\t25\t335\t8375\n备注\t1，中性标签，内容由买方确认\n2，使用买方提供的产品说明书（需双面打印，一共是2个说明书）\n3，不需要放保修卡\n4，中性PVC膜\n5，定制包装盒\n6，英规电源\n7，管理界面型号改为：STC-28GPM，不能出现卖方相关的型号\nTOTAL\t\t\t\t30\t\t9250\n买方: 郑州仨戛通讯器材有限公司\n签字代表：程天龙(Simon Cheng)\n买方盖章\n2024.9.08",
+"sheets":{
+"采购合同":{
+"rows":[
+[
+"郑州仨戛通讯器材有限公司"
+],
+[
+"地址: 郑州市管城区航海路中州大道富田太阳城57号楼22层316"
+],
+[
+"电话: 86 15237149683                                                     www.sagatelecom.com.cn                                              Email: s.sagatelecom@gmail.com"
+],
+[
+"************************************************************************************************************************"
+],
+[
+"采购合同"
+],
+[
+"买方:",
+"郑州仨戛通讯器材有限公司\nZhengzhou Saga Telecom Co., Ltd."
+],
+[
+"地址：",
+"郑州市管城区航海路中州大道富田太阳城57号楼22层316\nRoom 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"采购订单编号",
+"STSC20240908012"
+],
+[
+"电话:",
+"86 15237149683"
+],
+[
+"邮箱",
+"s.sagatelecom@gmail.com"
+],
+[
+"联系人:",
+"程天龙(Simon Cheng)"
+],
+[
+"卖方:",
+"深圳洪瑞光祥电子技术有限公司\nShenzhen HongRui Optical Technology Co.,Ltd"
+],
+[
+"地址：",
+"深圳市宝安区沙井街道西环路九九工业城旺荣电子工业园二楼\n2nd Floor, Wangrong Industrial Park, Jiujiu Industrial City, Xihuan Road, Shajing Street, Baoan District, Shenzhen"
+],
+[
+"联系人:",
+"刘长桂/18820293198/sales101@hruitech.com"
+],
+[
+"订单日期:",
+"19th, Feb, 2024"
+],
+[
+"付款条款",
+"工厂直发，款到生产，包邮"
+],
+[
+"发货地址",
+"经双方协商后，直接发给货代处理"
+],
+[
+"产品编号",
+"品名规格",
+"",
+"",
+"数量 \n(个)",
+"单价\n(RMB)",
+"小计\n(Sub-total)"
+],
+[
+"ZX900-AFG-82NS",
+"商业交换机\n2个千兆SFP光口+2个千兆上联电口+8个千兆PoE下联网口，PoE af/at, 120W功率，非管理\n支持拨码功能，支持PoE看门狗，英规电源\n不含模块，中性设备，1年质保，带挂耳",
+"",
+"",
+"5",
+"175",
+"875"
+],
+[
+"ZX-AFGM-82NS",
+"商业交换机\n2个千兆SFP光口+8个千兆PoE下联网口，PoE af/at, 120W功率，2层管理\n支持PoE看门狗，英规电源\n不含模块，中性设备，1年质保，带挂耳",
+"",
+"",
+"25",
+"335",
+"8375"
+],
+[
+"备注",
+"1，中性标签，内容由买方确认\n2，使用买方提供的产品说明书（需双面打印，一共是2个说明书）\n3，不需要放保修卡\n4，中性PVC膜\n5，定制包装盒\n6，英规电源\n7，管理界面型号改为：STC-28GPM，不能出现卖方相关的型号"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"30",
+"",
+"9250"
+],
+[
+"买方: 郑州仨戛通讯器材有限公司"
+],
+[
+"签字代表：程天龙(Simon Cheng)"
+],
+[
+"买方盖章"
+],
+[
+"2024.9.08"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T08:05:07Z"
+}

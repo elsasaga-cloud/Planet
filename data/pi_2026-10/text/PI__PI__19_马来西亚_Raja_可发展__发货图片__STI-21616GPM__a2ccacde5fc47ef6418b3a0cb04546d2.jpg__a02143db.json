@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__19_马来西亚_Raja_可发展__发货图片__STI-21616GPM__a2ccacde5fc47ef6418b3a0cb04546d2.jpg__a02143db",
+"path":"PI/PI/19 马来西亚 Raja 可发展/发货图片/STI-21616GPM/a2ccacde5fc47ef6418b3a0cb04546d2.jpg",
+"name":"a2ccacde5fc47ef6418b3a0cb04546d2.jpg",
+"ext":".jpg",
+"bytes":803522,
+"sha256":"a02143db3151fccf08411773931a327e14d413c87e9d41e042b3a1228d2dc8e3",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":2392,
+"height":1280,
+"mode":"RGB",
+"thumb_bytes":5404
+},
+"warnings":[],
+"chars":28,
+"text":"USB 转 console\n调试 线 ，1M\n3 PCS",
+"extracted_at":"2026-10-22T07:50:00Z",
+"thumb":"thumbs/PI__PI__19_马来西亚_Raja_可发展__发货图片__STI-21616GPM__a2ccacde5fc47ef6418b3a0cb04546d2.jpg__a02143db.jpg"
+}

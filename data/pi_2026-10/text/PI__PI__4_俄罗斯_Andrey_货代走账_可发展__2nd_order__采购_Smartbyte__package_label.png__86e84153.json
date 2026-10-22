@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__4_俄罗斯_Andrey_货代走账_可发展__2nd_order__采购_Smartbyte__package_label.png__86e84153",
+"path":"PI/PI/4 俄罗斯 Andrey 货代走账 可发展/2nd order/采购_Smartbyte/package label.png",
+"name":"package label.png",
+"ext":".png",
+"bytes":30039,
+"sha256":"86e8415324b1715daf5387f8bf99c0424123d204a31fe47c8945c640369a86e5",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":574,
+"height":584,
+"mode":"RGBA",
+"thumb_bytes":13993
+},
+"warnings":[],
+"chars":183,
+"text":"Product name: Industrial Switch\nModel: PRT-SG-1208PMI\nQty.:10 PCS IIIT\n10\nSN:\nFROM: ___[IDIIDMIIIIIIINNIM\n202508040001\nTO: UUUIAQAY ANU Ta\n202508040010\nWeight: 16.3 KG\nCarton No.: 1/1",
+"extracted_at":"2026-10-22T07:46:17Z",
+"thumb":"thumbs/PI__PI__4_俄罗斯_Andrey_货代走账_可发展__2nd_order__采购_Smartbyte__package_label.png__86e84153.jpg"
+}

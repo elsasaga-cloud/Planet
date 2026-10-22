@@ -1,0 +1,25 @@
+{
+"id":"PI__PI__17_英国_Chris_PayPal_可发展__WE02509001202_STAG20250823017_FEDEX_运单标签.pdf__9900eb70",
+"path":"PI/PI/17 英国 Chris PayPal 可发展/WE02509001202_STAG20250823017_FEDEX_运单标签.pdf",
+"name":"WE02509001202_STAG20250823017_FEDEX_运单标签.pdf",
+"ext":".pdf",
+"bytes":8482,
+"sha256":"9900eb700980c766a3c0f82516e8e518474cfaf040909c9a302578b4aa1962cb",
+"source":"PI.zip",
+"method":"pdfplumber",
+"status":"ok",
+"meta":{
+"pages":1,
+"creator":"PDFsharp 1.50.4000-netstandard (https://github.com/ststeiger/PdfSharpCore)",
+"producer":"PDFsharp 1.50.4000-netstandard (https://github.com/ststeiger/PdfSharpCore)",
+"moddate":"D:20260928143926+08'00'",
+"ocr_pages":0
+},
+"warnings":[],
+"chars":221,
+"text":"[p1]\nGOGREENIT\nTHE POPLARS,BURLEIGH DRIVE DERBY\nDERBY DE DE22 1AL (GB)\n447770916901 REF: 1102509001202\nINV:\nPO: DEPT:\nTRK#\n0430\nH1 QQXE\n2F95/E051/2JG85\nA1\n8840 0096 1870 INTL ECONOMY\nETD\nDE22 1AL\nEMA\nDE-GB\nvu203260520352J",
+"pages":[
+"GOGREENIT\nTHE POPLARS,BURLEIGH DRIVE DERBY\nDERBY DE DE22 1AL (GB)\n447770916901 REF: 1102509001202\nINV:\nPO: DEPT:\nTRK#\n0430\nH1 QQXE\n2F95/E051/2JG85\nA1\n8840 0096 1870 INTL ECONOMY\nETD\nDE22 1AL\nEMA\nDE-GB\nvu203260520352J"
+],
+"extracted_at":"2026-10-22T07:59:19Z"
+}

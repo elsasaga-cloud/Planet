@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__5th_order__入账记录_12.15.png__a5f765ff",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/5th order/入账记录 12.15.png",
+"name":"入账记录 12.15.png",
+"ext":".png",
+"bytes":109432,
+"sha256":"a5f765ffb02940bca1e98592039d07c57905bb5ea9cd59691c1b2f5226caab11",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":5384
+},
+"warnings":[],
+"chars":282,
+"text":"4:11 了 at! 4G ED\n< 交易 详情 oO 2\n@ #8\n+ ¥ 2,200.00\nRAM ¥ 38,759.98\n交易 卡号 一 卡通 6214********1962\n交易 时 间 2025-12-15 15:41:58\n付款 银行 广 东 华兴 银行 股份 有 限 公司 佛山 顺\n德 支行\n付款 账号 6231***********4950\n銀行 交易 類 型 汇 入 汇款\n免费 领 抽 盲 盒 ， 赢 好 礼\n分 类 El) 他 人 轉 入\n所 属 账本 请 选择\n电子 收据\n不 計 入 本 月 收 支\n給 TA 轉 賬 查看 往來 記錄",
+"extracted_at":"2026-10-22T07:53:47Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__5th_order__入账记录_12.15.png__a5f765ff.jpg"
+}

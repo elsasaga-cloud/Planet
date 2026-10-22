@@ -1,0 +1,163 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__1st_order_sample__出货__普通快递发票.xlsx__d6c3a393",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/1st order sample/出货/普通快递发票.xlsx",
+"name":"普通快递发票.xlsx",
+"ext":".xlsx",
+"bytes":11516,
+"sha256":"d6c3a393c03a4daf1251550a1ba55163c19990a93d05991364396ee2243fe797",
+"source":"PI.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"CI"
+],
+"embedded_images":0,
+"rows_total":15
+},
+"warnings":[],
+"chars":959,
+"text":"--- Sheet: CI ---\nCommercial Invoice\nInternatioal Air Waybill No\t\t\t\t\t\tDate of Exportation\n\t\t\t\t\t\t2024.07.17\nShipper/Exporter\t\t\t\t\t\tConsignee/Importer\nCompany Name:\tZhengzhou Saga Telecom Co., Ltd.\t\t\t\t\tCompany Name:\tJames Clendenan Systems Ltd.\nATTN:\tSimon Cheng\t\t\t\t\tATTN:\tJames Clendenan\nTel Number:\t86 15237149683\t\t\t\t\tTel Number:\t1-604-910-5745\nFAX:\t\t\t\t\t\tOrder ID:\tSTSC20240627010\n(Shipper )\nAddress:\tRoom 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\t\t\t\t\t(Delivery to)\nAddress:\tJames Clendenan systems Ltd. 1543 bowser ave North Vancouver, bc Canada V7P 2Y4\nCountry of Origin\t\t\t\t\tCoutry of Export\nChina\t\t\t\t\tChina\nDescription of Goods\t\tHS CODE\tmaterial\tapplication\tCarton \nQ'ty\tTotal Q'ty\n(pcs)\tUnit Value \n(US$)\tTotal Value \n(US$)\nIndustrial Switch\t\t8517622990\tMetal\tData exchange and optical telecommunication\t1\t4\t215\t860\nPower Supply\t\t8504401500\tMetal\tSupply stable DC voltage\t\t5\t12\t60\nTotal\t\t920",
+"sheets":{
+"CI":{
+"state":"visible",
+"rows":[
+[
+"Commercial Invoice"
+],
+[
+"Internatioal Air Waybill No",
+"",
+"",
+"",
+"",
+"",
+"Date of Exportation"
+],
+[
+"",
+"",
+"",
+"",
+"",
+"",
+"2024.07.17"
+],
+[
+"Shipper/Exporter",
+"",
+"",
+"",
+"",
+"",
+"Consignee/Importer"
+],
+[
+"Company Name:",
+"Zhengzhou Saga Telecom Co., Ltd.",
+"",
+"",
+"",
+"",
+"Company Name:",
+"James Clendenan Systems Ltd."
+],
+[
+"ATTN:",
+"Simon Cheng",
+"",
+"",
+"",
+"",
+"ATTN:",
+"James Clendenan"
+],
+[
+"Tel Number:",
+"86 15237149683",
+"",
+"",
+"",
+"",
+"Tel Number:",
+"1-604-910-5745"
+],
+[
+"FAX:",
+"",
+"",
+"",
+"",
+"",
+"Order ID:",
+"STSC20240627010"
+],
+[
+"(Shipper )\nAddress:",
+"Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009",
+"",
+"",
+"",
+"",
+"(Delivery to)\nAddress:",
+"James Clendenan systems Ltd. 1543 bowser ave North Vancouver, bc Canada V7P 2Y4"
+],
+[
+"Country of Origin",
+"",
+"",
+"",
+"",
+"Coutry of Export"
+],
+[
+"China",
+"",
+"",
+"",
+"",
+"China"
+],
+[
+"Description of Goods",
+"",
+"HS CODE",
+"material",
+"application",
+"Carton \nQ'ty",
+"Total Q'ty\n(pcs)",
+"Unit Value \n(US$)",
+"Total Value \n(US$)"
+],
+[
+"Industrial Switch",
+"",
+"8517622990",
+"Metal",
+"Data exchange and optical telecommunication",
+"1",
+"4",
+"215",
+"860"
+],
+[
+"Power Supply",
+"",
+"8504401500",
+"Metal",
+"Supply stable DC voltage",
+"",
+"5",
+"12",
+"60"
+],
+[
+"Total",
+"",
+"920"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:58:02Z"
+}

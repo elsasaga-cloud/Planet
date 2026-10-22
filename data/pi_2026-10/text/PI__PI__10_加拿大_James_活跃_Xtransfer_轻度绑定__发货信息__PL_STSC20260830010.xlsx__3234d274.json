@@ -1,0 +1,137 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__发货信息__PL_STSC20260830010.xlsx__3234d274",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/发货信息/PL_STSC20260830010.xlsx",
+"name":"PL_STSC20260830010.xlsx",
+"ext":".xlsx",
+"bytes":135069,
+"sha256":"3234d2747e95d5721385e49d40aa41f6bf1f7e0f26bf275c6b62d3dba101a86a",
+"source":"PI.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"Packing List"
+],
+"embedded_images":2,
+"rows_total":21
+},
+"warnings":[],
+"chars":784,
+"text":"--- Sheet: Packing List ---\nSaga Telecom\nAn Engineering & Supply-Chain-First Telecom Partner\nBuilt to Last, Continuous Supply, Evolving Together\nMob: 86 15237149683\nWeb: www.sagatele.com\nEmail: s.sagatelecom@gmail.com\nPacking List\nDate\t2026.09.07\nShip To\tJames Clendenan Systems Ltd.\nShipping Add.\tJames Clendenan systems Ltd. 1543 bowser ave North Vancouver, bc Canada V7P 2Y4\nP/O No.\t#\nP/I No.\tSTSC20260830010\nP/L No.\tPL20260907001\nC/No.:\tModel\tDESCRIPTION\tQTY/CTN\tQTY/PCS\tCTNS\tN.W/Kg\tG.W/Kg\tLENGTH/CM\tWIDTH/CM\tHEIGHT/CM\tV.W/Kg\tMEAS/CM³\n1\tSTI-21616XGGPM\tIndustrial Ethernet Switch\t12\t12\t1\t14.4\t16.8\t39\t37\t33\t9.5238\t0.047619\nTOTAL\t\t\t\t12\t1\t14.4\t16.8\t\t\t\t9.5238\t0.047619\nBillable Weight\tWhichever is greater between G.W/Kg and V.W/Kg\nCarton\tONE(1)\nQUANTITY\tTWELVE PCS\nSaga Telecom\nSimon",
+"sheets":{
+"Packing List":{
+"state":"visible",
+"rows":[
+[
+"Saga Telecom"
+],
+[
+"An Engineering & Supply-Chain-First Telecom Partner"
+],
+[
+"Built to Last, Continuous Supply, Evolving Together"
+],
+[
+"Mob: 86 15237149683"
+],
+[
+"Web: www.sagatele.com"
+],
+[
+"Email: s.sagatelecom@gmail.com"
+],
+[
+"Packing List"
+],
+[
+"Date",
+"2026.09.07"
+],
+[
+"Ship To",
+"James Clendenan Systems Ltd."
+],
+[
+"Shipping Add.",
+"James Clendenan systems Ltd. 1543 bowser ave North Vancouver, bc Canada V7P 2Y4"
+],
+[
+"P/O No.",
+"#"
+],
+[
+"P/I No.",
+"STSC20260830010"
+],
+[
+"P/L No.",
+"PL20260907001"
+],
+[
+"C/No.:",
+"Model",
+"DESCRIPTION",
+"QTY/CTN",
+"QTY/PCS",
+"CTNS",
+"N.W/Kg",
+"G.W/Kg",
+"LENGTH/CM",
+"WIDTH/CM",
+"HEIGHT/CM",
+"V.W/Kg",
+"MEAS/CM³"
+],
+[
+"1",
+"STI-21616XGGPM",
+"Industrial Ethernet Switch",
+"12",
+"12",
+"1",
+"14.4",
+"16.8",
+"39",
+"37",
+"33",
+"9.5238",
+"0.047619"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"12",
+"1",
+"14.4",
+"16.8",
+"",
+"",
+"",
+"9.5238",
+"0.047619"
+],
+[
+"Billable Weight",
+"Whichever is greater between G.W/Kg and V.W/Kg"
+],
+[
+"Carton",
+"ONE(1)"
+],
+[
+"QUANTITY",
+"TWELVE PCS"
+],
+[
+"Saga Telecom"
+],
+[
+"Simon"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:55:40Z"
+}

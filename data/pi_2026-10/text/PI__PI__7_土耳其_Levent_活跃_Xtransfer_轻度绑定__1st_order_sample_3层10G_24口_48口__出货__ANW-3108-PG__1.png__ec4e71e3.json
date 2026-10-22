@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__1st_order_sample_3层10G_24口_48口__出货__ANW-3108-PG__1.png__ec4e71e3",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/1st order sample  3层10G 24口 48口/出货/ANW-3108-PG/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":105996,
+"sha256":"ec4e71e30d33ebd7d95a07cb88f392454d7b0f87937b39d14c7f1baf85d97ae6",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1920,
+"height":1080,
+"mode":"RGBA",
+"thumb_bytes":3743
+},
+"warnings":[],
+"chars":164,
+"text":"& Login - Switch x +\nca 0 & 192.168.56.166/#/login?redirect=/monitor/dashboard os One\nANgera\nANW-3108-PG\nManaged Ethernet Switch\n[a\n[a\nLogin Clear\nLogin - Switch gE",
+"extracted_at":"2026-10-22T07:38:28Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__1st_order_sample_3层10G_24口_48口__出货__ANW-3108-PG__1.png__ec4e71e3.jpg"
+}

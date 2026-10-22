@@ -1,0 +1,24 @@
+{
+"id":"PI__PI__2_印度_Rishi_gg__1st_order__2.5_SC.mp4__d96c80ca",
+"path":"PI/PI/2 印度 Rishi gg/1st order/2.5 SC.mp4",
+"name":"2.5 SC.mp4",
+"ext":".mp4",
+"bytes":8881728,
+"sha256":"d96c80ca2760cf1efcf52d8b2fbe1b4769100349e3c4c6d0b80f84143ec37538",
+"source":"PI.zip",
+"method":"ffprobe+ffmpeg",
+"status":"meta",
+"meta":{
+"duration_s":40.0,
+"width":720,
+"height":1280,
+"vcodec":"h264",
+"acodec":"aac",
+"thumb_bytes":32617
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:31:18Z",
+"thumb":"thumbs/PI__PI__2_印度_Rishi_gg__1st_order__2.5_SC.mp4__d96c80ca.jpg"
+}

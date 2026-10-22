@@ -1,0 +1,240 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__CI.xls__4dd6e332",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/2nd order sample 2层10G 16口 2光8管理/CI.xls",
+"name":"CI.xls",
+"ext":".xls",
+"bytes":6083072,
+"sha256":"4dd6e33283f05b9a561f1e6c2846116dd355389b9183214f977975310e71d815",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Commercial Invoice"
+],
+"rows_total":47
+},
+"warnings":[],
+"chars":3327,
+"text":"--- Sheet: Commercial Invoice ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nAddress: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob/WhatsApp/WeChat: 86 15237149683                                 www.sagatelecom.com.cn                                   Email: s.sagatelecom@gmail.com\n**************************************************************************************************************************************\nCommercial Invoice\nTax Information\tID: 069 052 0220\nOffice: Yeni̇Mahalle Vd\t\tInvoice No.:\tSTSC20241021007\nBuyer:\tANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t90 (312) 241 77 47\t\tIssued By:\tSimon Cheng\nEmail:\tLevent.Kilic@AngoraNetworks.com\t\tInvoice Date:\t21st, Oct, 2024\nContact Person:\tLevent Kilic\t\tPayment Term:\tT/T in advance, CPT to Ankara, Turkey\nShipping Address:\tÇamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle  06200 Ankara Turkey\nModel\tPhoto\tSpecification\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSeller: STC-416DGGPM\n\nBuyer: ANW-2116-PG\t\tCommercial PoE Managed Switch\n\n4*1G/2.5G SFP+16*10/100/1000M RJ45+1*Console Port\nL2+ managed, PoE af/at, 280W budget\nSupport PoE management, PoE watchdog\nAC100V~240V input, Rack compatible, With mounting hanger\nWith Power Cord, Without Optical Module, Marvell Based\t\t8\t252\t2016\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 440*180*44mm\nGross Weight: 4Kg\nSeller: STI-280DGGM\n\nBuyer: ANW-1108-V\t\tIndustrial Ethernet Switch\n\n2*1G/2.5G SFP+8*10/100/1000M RJ45+1*Console Port\nL2+ Managed, Non-PoE, Without Serial Port\nDC12V~DC58V(Removable 4 PIN Industrial Terminal Block)\n-40℃ to 75℃, Din mounted, Without Power Supply\nWithout SFP Transciver, AC5 Chip\t\t2\t164.5\t329\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 158*115*54mm\nGross Weight: 1.4Kg\nTOTAL\t\t\t\t10\t\t2345\nSAY TOTAL IN USD TWO THOUSAND THREE HUNDRED AND FORTY FIVE DOLLARS ONLY\nRemark\nPlease do make sure client side could handle import customs clearance.\n1. Payment: Full payment to the below bank account before shipment.\nBank Information\nSWIFT/BIC code\tCHASHKHH (CHASHKHHXXX * if 11 characters are required)\nAccount Number\t63003662406\nAccount Name\tZhengzhou Saga Telecom Co., Ltd.\nBank Name\tJPMorgan Chase Bank N.A., Hong Kong Branch\nBank Address\t18/F, 20/F, 22-29/F, CHATER HOUSE, 8 CONNAUGHT ROAD CENTRAL, HONG KONG\nCountry/Region\tHong Kong\nType of Account\tBusiness Account\nBank Code\t007\nBranch Code\t863\n2. NOTE: Saga Telecom will not pay for any bank charge.\nPlease make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice.\n3. Leadtime: 6~10 working days\n4. Country of origin: China\n5. Non-brand packing, without Chinese letters or logo\nPackage Marks: None\nPacking list is available upon request\n6. Warranty: 1 year for commercial models and 3 years for industrial models, lifetime technical support\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" for more information.\nBuyer: ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.\t\t\tSeller: Zhengzhou Saga Telecom Co., Ltd.\nLevent Kilic\t\t\tSimon Cheng\nAuthorized Signature\t\t\tAuthorized Signature",
+"sheets":{
+"Commercial Invoice":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob/WhatsApp/WeChat: 86 15237149683                                 www.sagatelecom.com.cn                                   Email: s.sagatelecom@gmail.com"
+],
+[
+"**************************************************************************************************************************************"
+],
+[
+"Commercial Invoice"
+],
+[
+"Tax Information",
+"ID: 069 052 0220\nOffice: Yeni̇Mahalle Vd",
+"",
+"Invoice No.:",
+"STSC20241021007"
+],
+[
+"Buyer:",
+"ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"90 (312) 241 77 47",
+"",
+"Issued By:",
+"Simon Cheng"
+],
+[
+"Email:",
+"Levent.Kilic@AngoraNetworks.com",
+"",
+"Invoice Date:",
+"21st, Oct, 2024"
+],
+[
+"Contact Person:",
+"Levent Kilic",
+"",
+"Payment Term:",
+"T/T in advance, CPT to Ankara, Turkey"
+],
+[
+"Shipping Address:",
+"Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle  06200 Ankara Turkey"
+],
+[
+"Model",
+"Photo",
+"Specification",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"Seller: STC-416DGGPM\n\nBuyer: ANW-2116-PG",
+"",
+"Commercial PoE Managed Switch\n\n4*1G/2.5G SFP+16*10/100/1000M RJ45+1*Console Port\nL2+ managed, PoE af/at, 280W budget\nSupport PoE management, PoE watchdog\nAC100V~240V input, Rack compatible, With mounting hanger\nWith Power Cord, Without Optical Module, Marvell Based",
+"",
+"8",
+"252",
+"2016"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 440*180*44mm\nGross Weight: 4Kg"
+],
+[
+"Seller: STI-280DGGM\n\nBuyer: ANW-1108-V",
+"",
+"Industrial Ethernet Switch\n\n2*1G/2.5G SFP+8*10/100/1000M RJ45+1*Console Port\nL2+ Managed, Non-PoE, Without Serial Port\nDC12V~DC58V(Removable 4 PIN Industrial Terminal Block)\n-40℃ to 75℃, Din mounted, Without Power Supply\nWithout SFP Transciver, AC5 Chip",
+"",
+"2",
+"164.5",
+"329"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 158*115*54mm\nGross Weight: 1.4Kg"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"10",
+"",
+"2345"
+],
+[
+"SAY TOTAL IN USD TWO THOUSAND THREE HUNDRED AND FORTY FIVE DOLLARS ONLY"
+],
+[
+"Remark"
+],
+[
+"Please do make sure client side could handle import customs clearance."
+],
+[
+"1. Payment: Full payment to the below bank account before shipment."
+],
+[
+"Bank Information"
+],
+[
+"SWIFT/BIC code",
+"CHASHKHH (CHASHKHHXXX * if 11 characters are required)"
+],
+[
+"Account Number",
+"63003662406"
+],
+[
+"Account Name",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Bank Name",
+"JPMorgan Chase Bank N.A., Hong Kong Branch"
+],
+[
+"Bank Address",
+"18/F, 20/F, 22-29/F, CHATER HOUSE, 8 CONNAUGHT ROAD CENTRAL, HONG KONG"
+],
+[
+"Country/Region",
+"Hong Kong"
+],
+[
+"Type of Account",
+"Business Account"
+],
+[
+"Bank Code",
+"007"
+],
+[
+"Branch Code",
+"863"
+],
+[
+"2. NOTE: Saga Telecom will not pay for any bank charge."
+],
+[
+"Please make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice."
+],
+[
+"3. Leadtime: 6~10 working days"
+],
+[
+"4. Country of origin: China"
+],
+[
+"5. Non-brand packing, without Chinese letters or logo"
+],
+[
+"Package Marks: None"
+],
+[
+"Packing list is available upon request"
+],
+[
+"6. Warranty: 1 year for commercial models and 3 years for industrial models, lifetime technical support"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" for more information."
+],
+[
+"Buyer: ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+"",
+"",
+"Seller: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Levent Kilic",
+"",
+"",
+"Simon Cheng"
+],
+[
+"Authorized Signature",
+"",
+"",
+"Authorized Signature"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:41:30Z"
+}

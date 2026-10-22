@@ -1,0 +1,24 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__payment_receipt_2026.08.31.jpg__05d1ef4e",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/payment receipt_2026.08.31.jpg",
+"name":"payment receipt_2026.08.31.jpg",
+"ext":".jpg",
+"bytes":567660,
+"sha256":"05d1ef4e67447a505ec2a058d012078d7185cefa81503edb18e61245e3018d57",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":2016,
+"height":1512,
+"mode":"RGB",
+"software":"Picasa",
+"thumb_bytes":10772
+},
+"warnings":[],
+"chars":26,
+"text":"sunt To Be Sent\n313.00 USD",
+"extracted_at":"2026-10-22T07:55:44Z",
+"thumb":"thumbs/PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__payment_receipt_2026.08.31.jpg__05d1ef4e.jpg"
+}

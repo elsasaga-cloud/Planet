@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__19_马来西亚_Raja_可发展__发货图片__STI-21616GPM__72112e82749cbf76a0e0fbc456696b2e.jpg__22367f0e",
+"path":"PI/PI/19 马来西亚 Raja 可发展/发货图片/STI-21616GPM/72112e82749cbf76a0e0fbc456696b2e.jpg",
+"name":"72112e82749cbf76a0e0fbc456696b2e.jpg",
+"ext":".jpg",
+"bytes":2943776,
+"sha256":"22367f0ef090c082ef047ddaf53540f1080f3232f3cf40734be4e22cd022f356",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1848,
+"height":2132,
+"mode":"RGB",
+"thumb_bytes":17692
+},
+"warnings":[],
+"chars":226,
+"text":"Industrial Switch\n1616GPM\n5\nSTI\nPoE + 2*1G/2.5G SFP\n5\n/1000M RJ4\nPorts: 16*10/10!\n-57V\nPower input: DC 44\nF-D0-58-6F\nCr\nPassword: admin\nMAC FC-CD-\n56 166\n2 168\n9\ner name: admin\nIP Address. 1\nU\nS\nWARRANTY\nVOID IF re\nREMOVED\ncay",
+"extracted_at":"2026-10-22T07:50:01Z",
+"thumb":"thumbs/PI__PI__19_马来西亚_Raja_可发展__发货图片__STI-21616GPM__72112e82749cbf76a0e0fbc456696b2e.jpg__22367f0e.jpg"
+}

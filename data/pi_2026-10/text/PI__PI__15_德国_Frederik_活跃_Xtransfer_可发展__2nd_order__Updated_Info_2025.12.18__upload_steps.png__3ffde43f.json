@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__Updated_Info_2025.12.18__upload_steps.png__3ffde43f",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/2nd order/Updated Info_2025.12.18/upload steps.png",
+"name":"upload steps.png",
+"ext":".png",
+"bytes":41600,
+"sha256":"3ffde43fdaea032777985d5ae8408f5abe0f44049639918a5178cb8c043bbd45",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1466,
+"height":685,
+"mode":"RGB",
+"thumb_bytes":4139
+},
+"warnings":[],
+"chars":251,
+"text":"Basic Information\nImage Management\nRoot ”ae 0/210780 KBy\nLog: em 48624 KBytes\nConfig: « 64/11924 KBytes\nClean: 器\nConfiguration Management Certificate Management Page Package Management Data Management\nUpgrade package |\nciceordragfietothisareato 作 ioad",
+"extracted_at":"2026-10-22T07:34:08Z",
+"thumb":"thumbs/PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__Updated_Info_2025.12.18__upload_steps.png__3ffde43f.jpg"
+}

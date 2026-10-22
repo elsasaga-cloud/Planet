@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__14_印度_Manoj_可发展__付款记录_2026.02.26.jpg__348a3127",
+"path":"PI/PI/14 印度 Manoj 可发展/付款记录_2026.02.26.jpg",
+"name":"付款记录_2026.02.26.jpg",
+"ext":".jpg",
+"bytes":78759,
+"sha256":"348a31271b4dab81a3e38a3720e529b961581c6d87cf66f26ee76f7c28ade29f",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1600,
+"height":769,
+"mode":"RGB",
+"thumb_bytes":4249
+},
+"warnings":[],
+"chars":272,
+"text":"Reference number\nOR0100057826\nula\n. -\nRequest submitted for approval\nRecord Status : Pending from Bank\nDate of Remittance Beneficiary Name Amount\n26-Feb-2026 ZHENGZHOU SAGA TELEC... USD 261.00\nSave As Template Raise New Request Go To Dashboard\nRate your Experience\nwweyewy",
+"extracted_at":"2026-10-22T07:35:19Z",
+"thumb":"thumbs/PI__PI__14_印度_Manoj_可发展__付款记录_2026.02.26.jpg__348a3127.jpg"
+}

@@ -1,0 +1,301 @@
+{
+"id":"PI__PI__4_俄罗斯_Andrey_货代走账_可发展__2nd_order__STSC20250731004.xls__6ddd665e",
+"path":"PI/PI/4 俄罗斯 Andrey 货代走账 可发展/2nd order/STSC20250731004.xls",
+"name":"STSC20250731004.xls",
+"ext":".xls",
+"bytes":178176,
+"sha256":"6ddd665e737979e9571aebfefc0981ad4c87a9e95a726ebfa48881d600f0c531",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Proforma Invoice"
+],
+"rows_total":55
+},
+"warnings":[],
+"chars":4010,
+"text":"--- Sheet: Proforma Invoice ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 15237149683                                            www.sagatelecom.com.cn                              Email: s.sagatelecom@gmail.com\n***********************************************************************************************************************\nProforma Invoice\nPO No.\t\t\tInvoice No.:\tSTSC20250731004\nBuyer:\tBitBook LLC\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t7 70099 91388\t\tIssued By:\tSimon Cheng\nEmail:\tinfo@bitbuk.ru\t\tDate:\t31st, July, 2025\nContact Person:\tAndrey Tatarnikov\t\tPrice Term:\tEXW\nShipping Address\t广州市白云区黄石西路472号 帝宝大厦468室/龚玉达收/13660886456\nModel\tSpecification\t\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\nSeller: STC-128GFP\n\nBuyer: PRT-SF-1110P\tCommercial PoE Switch\n\n1*Gigabit SFP+2*10/100/1000M RJ45 Uplink+8*10/100M PoE Downlink\nPoE af/at, 120W budget, Support Vlan/Extend mode\nAC input, With EU Power Cable, With Mounting Hanger(Rack Mountable)\n\nWith Priorat logo, no extra charge, included in the unit price\t\t\t100\t22\t2200\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 200*161*44.5mm\nGross Weight: 1.19KG\nSeller: STC-4424GCPM\n\nBuyer: PRT-SG-1428PM\tCommercial PoE Managed Switch\n\n4*Gigabit SFP/RJ45(Combo)+24*10/100/1000M PoE+1*Console Port\nL2 managed, PoE af/at, 300W budget, Support PoE management&watchdog\nAC input, With EU Power Cable, With Mounting Hanger(Rack Mountable)\n\nNeutral device, without OEM, testing purpose\t\t\t10\t130\t1300\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 440*280*44mm\nGross Weight: 4.18KG\nSeller: STC-424GM\n\nBuyer: PRT-SG-1424M\tCommercial Managed Switch\n\n4*Gigabit SFP/RJ45(Combo)+24*10/100/1000M RJ45+1*Console Port\nL2 managed, Non-PoE\nAC input, With EU Power Cable, With Mounting Hanger(Rack Mountable)\n\nNeutral device, without OEM, testing purpose\t\t\t10\t92\t920\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 440*204*44mm\nGross Weight: 3.06KG\nSeller: STI-288GPM\n\nBuyer: PRT-SG-1208PMI\tIndustrial PoE Managed Switch\n\n2*1G SFP+8*10/100/1000M PoE +1*Console Port\nL2 managed, PoE af/at, 240W budget\nWithout Serial Port, With Console Cable\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block)\n-40℃ to 75℃, Din mounted, Without Power Adapter, Without Optical Module\nWith Mounting Hanger\n\nNeutral device, without OEM, testing purpose\t\t\t10\t72\t720\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 130*98*48mm\nGross Weight: 0.9KG\nBank Cost\tStandard Charge in EACH Order\t\t\t\t\t25\nUSD TOTAL\t\t\t\t130\t\t5165\nExchange Rate\tBy the Date of Invoice/2025.7.31\t\t\t\t\t7.18\nRMB TOTAL\t\t\t\t\t\t37084.7\nRemark\nPlease do make sure client side could handle import customs clearance.\n1. Payment: Full payment to the below bank account before shipment.\nBank Information\nSWIFT/BIC code\tCHASHKHH (CHASHKHHXXX * if 11 characters are required)\nAccount Number\t63003662406\nAccount Name\tZhengzhou Saga Telecom Co., Ltd.\nBank Name\tJPMorgan Chase Bank N.A., Hong Kong Branch\nBank Address\t18/F, 20/F, 22-29/F, CHATER HOUSE, 8 CONNAUGHT ROAD CENTRAL, HONG KONG\nCountry/Region\tHong Kong\nType of Account\tBusiness Account\nBank Code\t007\nBranch Code\t863\n2. NOTE: Saga Telecom will not pay for any bank charge.\nPlease make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice.\n3. Leadtime: 10~15 working days(NOT including shipping time)\n4. Country of origin: China\n5. Non-brand packing, without Chinese letters or logo\nPackage Marks: None\nPacking list is available upon request\n6. Warranty: STC models 1 year, STI models 3 years, lifetime technical support\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" on our website for more information.\nBuyer: BitBook LLC\t\t\tSeller: Zhengzhou Saga Telecom Co., Ltd.\nAndrey Tatarnikov\t\t\tSimon Cheng\nAuthorized Signature\t\t\tAuthorized Signature",
+"sheets":{
+"Proforma Invoice":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 15237149683                                            www.sagatelecom.com.cn                              Email: s.sagatelecom@gmail.com"
+],
+[
+"***********************************************************************************************************************"
+],
+[
+"Proforma Invoice"
+],
+[
+"PO No.",
+"",
+"",
+"Invoice No.:",
+"STSC20250731004"
+],
+[
+"Buyer:",
+"BitBook LLC",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"7 70099 91388",
+"",
+"Issued By:",
+"Simon Cheng"
+],
+[
+"Email:",
+"info@bitbuk.ru",
+"",
+"Date:",
+"31st, July, 2025"
+],
+[
+"Contact Person:",
+"Andrey Tatarnikov",
+"",
+"Price Term:",
+"EXW"
+],
+[
+"Shipping Address",
+"广州市白云区黄石西路472号 帝宝大厦468室/龚玉达收/13660886456"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(USD)",
+"Amount \n(USD)"
+],
+[
+"Seller: STC-128GFP\n\nBuyer: PRT-SF-1110P",
+"Commercial PoE Switch\n\n1*Gigabit SFP+2*10/100/1000M RJ45 Uplink+8*10/100M PoE Downlink\nPoE af/at, 120W budget, Support Vlan/Extend mode\nAC input, With EU Power Cable, With Mounting Hanger(Rack Mountable)\n\nWith Priorat logo, no extra charge, included in the unit price",
+"",
+"",
+"100",
+"22",
+"2200"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 200*161*44.5mm\nGross Weight: 1.19KG"
+],
+[
+"Seller: STC-4424GCPM\n\nBuyer: PRT-SG-1428PM",
+"Commercial PoE Managed Switch\n\n4*Gigabit SFP/RJ45(Combo)+24*10/100/1000M PoE+1*Console Port\nL2 managed, PoE af/at, 300W budget, Support PoE management&watchdog\nAC input, With EU Power Cable, With Mounting Hanger(Rack Mountable)\n\nNeutral device, without OEM, testing purpose",
+"",
+"",
+"10",
+"130",
+"1300"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 440*280*44mm\nGross Weight: 4.18KG"
+],
+[
+"Seller: STC-424GM\n\nBuyer: PRT-SG-1424M",
+"Commercial Managed Switch\n\n4*Gigabit SFP/RJ45(Combo)+24*10/100/1000M RJ45+1*Console Port\nL2 managed, Non-PoE\nAC input, With EU Power Cable, With Mounting Hanger(Rack Mountable)\n\nNeutral device, without OEM, testing purpose",
+"",
+"",
+"10",
+"92",
+"920"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 440*204*44mm\nGross Weight: 3.06KG"
+],
+[
+"Seller: STI-288GPM\n\nBuyer: PRT-SG-1208PMI",
+"Industrial PoE Managed Switch\n\n2*1G SFP+8*10/100/1000M PoE +1*Console Port\nL2 managed, PoE af/at, 240W budget\nWithout Serial Port, With Console Cable\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block)\n-40℃ to 75℃, Din mounted, Without Power Adapter, Without Optical Module\nWith Mounting Hanger\n\nNeutral device, without OEM, testing purpose",
+"",
+"",
+"10",
+"72",
+"720"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 130*98*48mm\nGross Weight: 0.9KG"
+],
+[
+"Bank Cost",
+"Standard Charge in EACH Order",
+"",
+"",
+"",
+"",
+"25"
+],
+[
+"USD TOTAL",
+"",
+"",
+"",
+"130",
+"",
+"5165"
+],
+[
+"Exchange Rate",
+"By the Date of Invoice/2025.7.31",
+"",
+"",
+"",
+"",
+"7.18"
+],
+[
+"RMB TOTAL",
+"",
+"",
+"",
+"",
+"",
+"37084.7"
+],
+[
+"Remark"
+],
+[
+"Please do make sure client side could handle import customs clearance."
+],
+[
+"1. Payment: Full payment to the below bank account before shipment."
+],
+[
+"Bank Information"
+],
+[
+"SWIFT/BIC code",
+"CHASHKHH (CHASHKHHXXX * if 11 characters are required)"
+],
+[
+"Account Number",
+"63003662406"
+],
+[
+"Account Name",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Bank Name",
+"JPMorgan Chase Bank N.A., Hong Kong Branch"
+],
+[
+"Bank Address",
+"18/F, 20/F, 22-29/F, CHATER HOUSE, 8 CONNAUGHT ROAD CENTRAL, HONG KONG"
+],
+[
+"Country/Region",
+"Hong Kong"
+],
+[
+"Type of Account",
+"Business Account"
+],
+[
+"Bank Code",
+"007"
+],
+[
+"Branch Code",
+"863"
+],
+[
+"2. NOTE: Saga Telecom will not pay for any bank charge."
+],
+[
+"Please make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice."
+],
+[
+"3. Leadtime: 10~15 working days(NOT including shipping time)"
+],
+[
+"4. Country of origin: China"
+],
+[
+"5. Non-brand packing, without Chinese letters or logo"
+],
+[
+"Package Marks: None"
+],
+[
+"Packing list is available upon request"
+],
+[
+"6. Warranty: STC models 1 year, STI models 3 years, lifetime technical support"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" on our website for more information."
+],
+[
+"Buyer: BitBook LLC",
+"",
+"",
+"Seller: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Andrey Tatarnikov",
+"",
+"",
+"Simon Cheng"
+],
+[
+"Authorized Signature",
+"",
+"",
+"Authorized Signature"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:45:55Z"
+}

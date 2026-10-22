@@ -1,0 +1,27 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__6th_order_6台工业2光8__STI-288DGGPM_drawing.pdf__e3c6f18e",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/6th order 6台工业2光8/STI-288DGGPM drawing.pdf",
+"name":"STI-288DGGPM drawing.pdf",
+"ext":".pdf",
+"bytes":321874,
+"sha256":"e3c6f18e1cce8c594a69596f83952d544a42c8faf0d03ffb14f96fa329472c5c",
+"source":"PI.zip",
+"method":"pdfplumber",
+"status":"ok",
+"meta":{
+"pages":1,
+"title":"LT-IS6310GP-2GX8GT-D 线框图",
+"creator":"Adobe Illustrator 29.3 (Windows)",
+"producer":"Adobe PDF library 17.00",
+"creationdate":"D:20250620134600+09'00'",
+"moddate":"D:20250620134600+08'00'",
+"ocr_pages":0
+},
+"warnings":[],
+"chars":214,
+"text":"[p1]\nP 9 1 S 0 USBData\n10\n9\n７ ８\n５ ６\n3 4\n1 2\n115mm 54mm\n131mm\nmm851\nmm671\nmm15\nmm7.85\n44mm\nmm3.84 9mm\nmm3.84\nPWR1PWR2 Console\nNon-PoE：DC 12-58V; PoE:DC 44-57V Reset 115200，8，N，1\nVout Vo+\nVo-\nA\nB DI+\nDI-\nRS485DIRelay",
+"pages":[
+"P 9 1 S 0 USBData\n10\n9\n７ ８\n５ ６\n3 4\n1 2\n115mm 54mm\n131mm\nmm851\nmm671\nmm15\nmm7.85\n44mm\nmm3.84 9mm\nmm3.84\nPWR1PWR2 Console\nNon-PoE：DC 12-58V; PoE:DC 44-57V Reset 115200，8，N，1\nVout Vo+\nVo-\nA\nB DI+\nDI-\nRS485DIRelay"
+],
+"extracted_at":"2026-10-22T07:37:22Z"
+}

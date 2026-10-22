@@ -1,0 +1,47 @@
+{
+"id":"PI__PI__20_土耳其_Burak_活跃_Xtransfer_轻度绑定__Netas_Info_Filled_2025.12.03__1400-T-002_Annex_5_Defense_Business_Partners_Expor__03c80a60",
+"path":"PI/PI/20 土耳其 Burak 活跃 Xtransfer 轻度绑定/Netas Info Filled_2025.12.03/1400-T-002 Annex 5 Defense Business Partners Export Compliance Clauses (1).docx",
+"name":"1400-T-002 Annex 5 Defense Business Partners Export Compliance Clauses (1).docx",
+"ext":".docx",
+"bytes":48062,
+"sha256":"03c80a60bb57ad6dd52c8dd985919fd804bbed81cf5f3097bf95b87228331e88",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Defense Business Partners Export Compliance Clauses",
+"author":"Burcu KARAKURT DULGE",
+"last_modified_by":"Dilanur SENER",
+"created":"2023-07-20T13:37:00+00:00",
+"modified":"2023-07-21T06:13:00+00:00",
+"paragraphs":4,
+"tables":0,
+"embedded_images":1
+},
+"warnings":[],
+"chars":2438,
+"text":"Annex – 5\nDefense Business Field business partner contractual compliance provisions\nPARTY and Netas agree to comply with all applicable laws, including without limitation any applicable export control and sanctions laws and regulations (“Trade Control Laws”).  PARTY confirms that services and Items provided by each Party under this Agreement (collectively, hardware, software, source code, technical data, and technology) are NOT subject to the U.S. International Traffic in Arms Regulations (\"ITAR”). PARTY and Netas shall not, directly or indirectly through any third party/country, export, reexport, transfer or otherwise provide (by sale, loan, or gift) or dispose of any Items or services subject to this Agreement to or for use in or by any entity or person located in or headquartered in Luhansk, Donetsk, Crimea regions of the Ukraine, Cuba, Iran, North Korea, Syria (collectively, “Restricted Regions”) or designated as a restricted party on any list maintained by any government or country including the Specially Designated Nationals List and Foreign Sanctions Evaders List administered by OFAC; or the Denied Parties List, Unverified List or Entity List maintained by BIS under the Export Administration Regulations or owned or controlled by any Specially Designated National (collectively, “Restricted Parties”) or otherwise for any activity or end-use restricted under Trade Control Laws. PARTY represents that it is not an entity or person headquartered or located in a Restricted Region or an individual or entity identified as a Restricted Party or owned or controlled by a Restricted Party. PARTY will provide any relevant information reasonably requested by Netas, including end-use, end-user, and/or end-destination. PARTY agrees to indemnify Netas for all claims, actions, fines, or penalties arising from PARTY’s violation of any representations and warranties contained in this Agreement.\nFor all products, software and technologies (“Items”) to be delivered to NETAŞ under this contract and its purchase orders, PARTY shall submit, in writing, the export control laws to which these Items are subject such as EAR regulation of USA, and their classification numbers, such as ECCN if subject to EAR regulation (with proof documents), and other export control information or Partner/Supplier shall grant access to systems from which NETAŞ can obtain this information.\n[页眉页脚]\n1400-T-002 Annex 5 / Rev:03 / 21.07.2023",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Annex – 5"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Defense Business Field business partner contractual compliance provisions"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PARTY and Netas agree to comply with all applicable laws, including without limitation any applicable export control and sanctions laws and regulations (“Trade Control Laws”).  PARTY confirms that services and Items provided by each Party under this Agreement (collectively, hardware, software, source code, technical data, and technology) are NOT subject to the U.S. International Traffic in Arms Regulations (\"ITAR”). PARTY and Netas shall not, directly or indirectly through any third party/country, export, reexport, transfer or otherwise provide (by sale, loan, or gift) or dispose of any Items or services subject to this Agreement to or for use in or by any entity or person located in or headquartered in Luhansk, Donetsk, Crimea regions of the Ukraine, Cuba, Iran, North Korea, Syria (collectively, “Restricted Regions”) or designated as a restricted party on any list maintained by any government or country including the Specially Designated Nationals List and Foreign Sanctions Evaders List administered by OFAC; or the Denied Parties List, Unverified List or Entity List maintained by BIS under the Export Administration Regulations or owned or controlled by any Specially Designated National (collectively, “Restricted Parties”) or otherwise for any activity or end-use restricted under Trade Control Laws. PARTY represents that it is not an entity or person headquartered or located in a Restricted Region or an individual or entity identified as a Restricted Party or owned or controlled by a Restricted Party. PARTY will provide any relevant information reasonably requested by Netas, including end-use, end-user, and/or end-destination. PARTY agrees to indemnify Netas for all claims, actions, fines, or penalties arising from PARTY’s violation of any representations and warranties contained in this Agreement."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For all products, software and technologies (“Items”) to be delivered to NETAŞ under this contract and its purchase orders, PARTY shall submit, in writing, the export control laws to which these Items are subject such as EAR regulation of USA, and their classification numbers, such as ECCN if subject to EAR regulation (with proof documents), and other export control information or Partner/Supplier shall grant access to systems from which NETAŞ can obtain this information."
+}
+],
+"extracted_at":"2026-10-22T07:46:55Z"
+}

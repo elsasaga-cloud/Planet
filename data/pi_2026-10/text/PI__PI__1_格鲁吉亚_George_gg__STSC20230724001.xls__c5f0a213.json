@@ -1,0 +1,215 @@
+{
+"id":"PI__PI__1_格鲁吉亚_George_gg__STSC20230724001.xls__c5f0a213",
+"path":"PI/PI/1 格鲁吉亚 George gg/STSC20230724001.xls",
+"name":"STSC20230724001.xls",
+"ext":".xls",
+"bytes":50688,
+"sha256":"c5f0a213030b0c26f913aed376e96dd17eceb05c571571b8981ffbf60fb941b8",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Proforma Invoice"
+],
+"rows_total":37
+},
+"warnings":[],
+"chars":2537,
+"text":"--- Sheet: Proforma Invoice ---\nZhengzhou Saga Telecom Co., Ltd.\nAddress: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 15237149683                                                    www.sagatelecom.com.cn                                Email: s.sagatelecom@gmail.com\n**************************************************************************************************************************\nProforma  Invoice\nPO No.\t\t\tInvoice No.:\tSTSC20230724001\nBuyer:\tDELTA CONSULTING LLC\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t995 577 57 8811\t\tIssued By:\tSimon Cheng\nEmail:\tgeorge@dc.ge\t\tInvoice Date:\t24th, July, 2023\nContact Person:\tGeorge Jaliashvili\t\tPayment Term:\tT/T in advance, EXW\nShipping Address\t广州市荔湾区站前路34号711库房，邮编510010，电话13318855278\nModel\tSpecification\t\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSTC-028GFP\tCommercial POE Switch\n2*10/100/1000M RJ45 uplink + 8*10/100M POE downlink\nMetal case, POE af/at, 120W total budget\nsupport Vlan/Extend/POE watchdog, 1 year warranty\t\t\t2\t20\t40\t1pc AC220V input\n1pc DC24V input\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 200*120*45mm\nGross Weight: 0.6kg\nSTC-128GFP\tCommercial POE Switch\n1*Gigabit SFP uplink + 2*10/100/1000M RJ45 uplink + 8*10/100M POE downlink, Metal case, POE af/at, 120W total budget, support Vlan/Extend, 1 year warranty\t\t\t2\t25\t50\t1pc AC220V input\n1pc DC24V input\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 220*161*44.5mm\nGross Weight: 0.88kg\nPayPal Cost\t5Usd will be charged for EVERY 100Usd to our account\t\t\t\t\t5\nFreight Cost\t5usd for about 3.5kg weight to designated forwarder\t\t\t\t\t5\nTOTAL\t\t\t\t4\t\t100\nSAY TOTAL IN USD ONE HUNDRED  DOLLARS\n1. Payment: Full payment to the below PayPal account before shipment.\nPaypal account: s.sagatelecom@gmail.com\n2. NOTE: Saga Telecom will not pay for any PayPal charge.\nPlease make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice.\n3. Leadtime: 2~4 working days\n4. Country of origin: China\n5. Non-brand packing, without Chinese letters or logo\nPackage Marks: None\nPacking list is available upon request\n6. Warranty: 1 year\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" on our website for more information.\nBuyer: DELTA CONSULTING LLC\t\t\tSeller: Zhengzhou Saga Telecom Co., Ltd.\nGeorge Jaliashvili\t\t\tSimon Cheng\nAuthorized Signature\t\t\tAuthorized Signature",
+"sheets":{
+"Proforma Invoice":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 15237149683                                                    www.sagatelecom.com.cn                                Email: s.sagatelecom@gmail.com"
+],
+[
+"**************************************************************************************************************************"
+],
+[
+"Proforma  Invoice"
+],
+[
+"PO No.",
+"",
+"",
+"Invoice No.:",
+"STSC20230724001"
+],
+[
+"Buyer:",
+"DELTA CONSULTING LLC",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"995 577 57 8811",
+"",
+"Issued By:",
+"Simon Cheng"
+],
+[
+"Email:",
+"george@dc.ge",
+"",
+"Invoice Date:",
+"24th, July, 2023"
+],
+[
+"Contact Person:",
+"George Jaliashvili",
+"",
+"Payment Term:",
+"T/T in advance, EXW"
+],
+[
+"Shipping Address",
+"广州市荔湾区站前路34号711库房，邮编510010，电话13318855278"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"STC-028GFP",
+"Commercial POE Switch\n2*10/100/1000M RJ45 uplink + 8*10/100M POE downlink\nMetal case, POE af/at, 120W total budget\nsupport Vlan/Extend/POE watchdog, 1 year warranty",
+"",
+"",
+"2",
+"20",
+"40",
+"1pc AC220V input\n1pc DC24V input"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 200*120*45mm\nGross Weight: 0.6kg"
+],
+[
+"STC-128GFP",
+"Commercial POE Switch\n1*Gigabit SFP uplink + 2*10/100/1000M RJ45 uplink + 8*10/100M POE downlink, Metal case, POE af/at, 120W total budget, support Vlan/Extend, 1 year warranty",
+"",
+"",
+"2",
+"25",
+"50",
+"1pc AC220V input\n1pc DC24V input"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 220*161*44.5mm\nGross Weight: 0.88kg"
+],
+[
+"PayPal Cost",
+"5Usd will be charged for EVERY 100Usd to our account",
+"",
+"",
+"",
+"",
+"5"
+],
+[
+"Freight Cost",
+"5usd for about 3.5kg weight to designated forwarder",
+"",
+"",
+"",
+"",
+"5"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"4",
+"",
+"100"
+],
+[
+"SAY TOTAL IN USD ONE HUNDRED  DOLLARS"
+],
+[
+"1. Payment: Full payment to the below PayPal account before shipment."
+],
+[
+"Paypal account: s.sagatelecom@gmail.com"
+],
+[
+"2. NOTE: Saga Telecom will not pay for any PayPal charge."
+],
+[
+"Please make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice."
+],
+[
+"3. Leadtime: 2~4 working days"
+],
+[
+"4. Country of origin: China"
+],
+[
+"5. Non-brand packing, without Chinese letters or logo"
+],
+[
+"Package Marks: None"
+],
+[
+"Packing list is available upon request"
+],
+[
+"6. Warranty: 1 year"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" on our website for more information."
+],
+[
+"Buyer: DELTA CONSULTING LLC",
+"",
+"",
+"Seller: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"George Jaliashvili",
+"",
+"",
+"Simon Cheng"
+],
+[
+"Authorized Signature",
+"",
+"",
+"Authorized Signature"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:27:26Z"
+}

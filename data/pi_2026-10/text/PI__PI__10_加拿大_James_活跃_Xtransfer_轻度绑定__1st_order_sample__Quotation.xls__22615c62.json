@@ -1,0 +1,168 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__1st_order_sample__Quotation.xls__22615c62",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/1st order sample/Quotation.xls",
+"name":"Quotation.xls",
+"ext":".xls",
+"bytes":4346880,
+"sha256":"22615c6210e0529f31ca5a08c70ac505ea495f2d3647182b8c8b48708f9b75d5",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Quotation"
+],
+"rows_total":29
+},
+"warnings":[],
+"chars":1985,
+"text":"--- Sheet: Quotation ---\nZhengzhou Saga Telecom Co., Ltd.\nAddress: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob/Whatsapp/Wechat: 86 15237149683                       www.sagatelecom.com.cn                     Email: s.sagatelecom@gmail.com\n*********************************************************************************************************************\nQuotation\nBuyer:\tJames Clendenan Systems Ltd.\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t1-604-910-5745\t\tQuoted By:\tSimon Cheng\nEmail:\tjames@clendenan.ca\t\tDate:\t27th, June, 2024\nContact Person:\tJames Clendenan\t\tPrice Term:\tEXW\nDestination\tCanada\nModel\tSpecification\t\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSTI-21616DGGPM\t\tIndustrial PoE Managed Switch\n2*100M/1G/2.5G Fiber+16*100M/1000M Copper\nPoE af/at, 240W budget, L2 Managed\nMarvell Chip, DC12V~DC58V(Removable 6 PIN Industrial Terminal Block), -40℃ to 75℃\nDin mounted, Without SFP module, Without power supply\t\t4\t215\t860\tWithout Enclosure\nPCB ONLY\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 158*115*54mm\nGross Weight: 1.2kg\n\tDesktop Power Supply\nAC100V~240V input, DC52V 3A output, 150W budget\nUS type power cord, Class IV efficiency, CE compliant\t\t\t5\t12\t60\tWithout CSA/UL\nCertification\nFreight Cost\t150Usd for about 10Kg volume weight to Canada by DHL\nair, door-to-door service\t\t\t\t\t150\nTOTAL\t\t\t\t9\t\t1070\nSAY TOTAL IN USD ONE THOUSAND AND SENVENTY DOLLARS ONLY\nRemarks\nPlease do make sure client side could handle import customs clearance.\nPrice validity: 15 days\nSaga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply.\nNon-brand packing, without Chinese letters or logo\nNeutral device\nCountry of origin: China\nLeadtime: 4~7 working days\nWarranty: 3 years\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" for more information.",
+"sheets":{
+"Quotation":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob/Whatsapp/Wechat: 86 15237149683                       www.sagatelecom.com.cn                     Email: s.sagatelecom@gmail.com"
+],
+[
+"*********************************************************************************************************************"
+],
+[
+"Quotation"
+],
+[
+"Buyer:",
+"James Clendenan Systems Ltd.",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"1-604-910-5745",
+"",
+"Quoted By:",
+"Simon Cheng"
+],
+[
+"Email:",
+"james@clendenan.ca",
+"",
+"Date:",
+"27th, June, 2024"
+],
+[
+"Contact Person:",
+"James Clendenan",
+"",
+"Price Term:",
+"EXW"
+],
+[
+"Destination",
+"Canada"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"STI-21616DGGPM",
+"",
+"Industrial PoE Managed Switch\n2*100M/1G/2.5G Fiber+16*100M/1000M Copper\nPoE af/at, 240W budget, L2 Managed\nMarvell Chip, DC12V~DC58V(Removable 6 PIN Industrial Terminal Block), -40℃ to 75℃\nDin mounted, Without SFP module, Without power supply",
+"",
+"4",
+"215",
+"860",
+"Without Enclosure\nPCB ONLY"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 158*115*54mm\nGross Weight: 1.2kg"
+],
+[
+"",
+"Desktop Power Supply\nAC100V~240V input, DC52V 3A output, 150W budget\nUS type power cord, Class IV efficiency, CE compliant",
+"",
+"",
+"5",
+"12",
+"60",
+"Without CSA/UL\nCertification"
+],
+[
+"Freight Cost",
+"150Usd for about 10Kg volume weight to Canada by DHL\nair, door-to-door service",
+"",
+"",
+"",
+"",
+"150"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"9",
+"",
+"1070"
+],
+[
+"SAY TOTAL IN USD ONE THOUSAND AND SENVENTY DOLLARS ONLY"
+],
+[
+"Remarks"
+],
+[
+"Please do make sure client side could handle import customs clearance."
+],
+[
+"Price validity: 15 days"
+],
+[
+"Saga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply."
+],
+[
+"Non-brand packing, without Chinese letters or logo"
+],
+[
+"Neutral device"
+],
+[
+"Country of origin: China"
+],
+[
+"Leadtime: 4~7 working days"
+],
+[
+"Warranty: 3 years"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" for more information."
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:57:39Z"
+}

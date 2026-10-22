@@ -1,0 +1,135 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__5th_order__发货图片__PL_STSC20251212013.xls__6418bd21",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/5th order/发货图片/PL_STSC20251212013.xls",
+"name":"PL_STSC20251212013.xls",
+"ext":".xls",
+"bytes":147456,
+"sha256":"6418bd21f7c2880b9fa8e16fe344959347808c82ea6928c3745f16aca057b39e",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Packing List"
+],
+"rows_total":21
+},
+"warnings":[],
+"chars":794,
+"text":"--- Sheet: Packing List ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nMob: 86 15237149683\nWeb: www.sagatelecom.com.cn\nEmail: s.sagatelecom@gmail.com\nPacking List\nDate\t2025.12.17\nShip To\tPBA Forever Technology CO., LTD.\nShipping Add.\t广州市白云区白云湖街朗兴路7号, 510000 13416307791, 020-87465324 李慧\nP/O No.\nP/I No.\tSTSC20251212013\nP/L No.\tPL20251217001\nC/No.:\tModel\tDESCRIPTION\tQTY/CTN\tQTY/PCS\tCTNS\tN.W/Kg\tG.W/Kg\tLENGTH/CM\tWIDTH/CM\tHEIGHT/CM\tV.W/KG\tMEAS/CM³\n1\tSTI-42424DGGPM\tIndustrial Ethernet Switch\t1\t1\t1\t1.8\t2.5\t31\t23.5\t18.5\t2.69545\t0.013477\nTOTAL\t\t\t\t1\t1\t1.8\t2.5\t\t\t\t2.69545\t0.013477\nBillable Weight\tWhichever is greater between G.W/Kg and V.W/KG\nCarton\tONE(1)\nQUANTITY\tONE PC\nZhengzhou Saga Telecom Co., Ltd.\nIssued by\tSimon",
+"sheets":{
+"Packing List":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Tailored Marvell Managed Networking Solutions Provider"
+],
+[
+"Mob: 86 15237149683"
+],
+[
+"Web: www.sagatelecom.com.cn"
+],
+[
+"Email: s.sagatelecom@gmail.com"
+],
+[
+"Packing List"
+],
+[
+"Date",
+"2025.12.17"
+],
+[
+"Ship To",
+"PBA Forever Technology CO., LTD."
+],
+[
+"Shipping Add.",
+"广州市白云区白云湖街朗兴路7号, 510000 13416307791, 020-87465324 李慧"
+],
+[
+"P/O No."
+],
+[
+"P/I No.",
+"STSC20251212013"
+],
+[
+"P/L No.",
+"PL20251217001"
+],
+[
+"C/No.:",
+"Model",
+"DESCRIPTION",
+"QTY/CTN",
+"QTY/PCS",
+"CTNS",
+"N.W/Kg",
+"G.W/Kg",
+"LENGTH/CM",
+"WIDTH/CM",
+"HEIGHT/CM",
+"V.W/KG",
+"MEAS/CM³"
+],
+[
+"1",
+"STI-42424DGGPM",
+"Industrial Ethernet Switch",
+"1",
+"1",
+"1",
+"1.8",
+"2.5",
+"31",
+"23.5",
+"18.5",
+"2.69545",
+"0.013477"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"1",
+"1",
+"1.8",
+"2.5",
+"",
+"",
+"",
+"2.69545",
+"0.013477"
+],
+[
+"Billable Weight",
+"Whichever is greater between G.W/Kg and V.W/KG"
+],
+[
+"Carton",
+"ONE(1)"
+],
+[
+"QUANTITY",
+"ONE PC"
+],
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Issued by",
+"Simon"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:54:32Z"
+}

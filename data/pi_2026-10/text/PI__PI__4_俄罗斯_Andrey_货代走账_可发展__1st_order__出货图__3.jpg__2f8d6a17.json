@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__4_俄罗斯_Andrey_货代走账_可发展__1st_order__出货图__3.jpg__2f8d6a17",
+"path":"PI/PI/4 俄罗斯 Andrey 货代走账 可发展/1st order/出货图/3.jpg",
+"name":"3.jpg",
+"ext":".jpg",
+"bytes":207451,
+"sha256":"2f8d6a17e34bca340dd24586bbd44d5c4cd176fdafeaaaadcc2b4af823a905bb",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":837,
+"height":1280,
+"mode":"RGB",
+"thumb_bytes":9481
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:46:44Z",
+"thumb":"thumbs/PI__PI__4_俄罗斯_Andrey_货代走账_可发展__1st_order__出货图__3.jpg__2f8d6a17.jpg"
+}

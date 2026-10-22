@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__label.png__86962bc9",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/label.png",
+"name":"label.png",
+"ext":".png",
+"bytes":48553,
+"sha256":"86962bc929a71131ea86146dd8be103f7d731e5ef7dcb9f910759f10a7a32f3e",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1210,
+"height":597,
+"mode":"RGB",
+"thumb_bytes":12455
+},
+"warnings":[],
+"chars":255,
+"text":"Industrial Switch\nModel: SW-3200-16GP-2SX\nPorts: 16*10/100/1000M RJ45 PoE + 2*1G/2.5G/10G SFP+\nPower input: DC 44-57V\nPoE Budget: 240W\nHI 國 《:\nSN: 202608310001\nIP Address: 192.168.1.30 | MAC: FC-CD-2F-D0-58-A9 SA\nUser name: admin Password: admin = = “©\nFe",
+"extracted_at":"2026-10-22T07:55:38Z",
+"thumb":"thumbs/PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__label.png__86962bc9.jpg"
+}

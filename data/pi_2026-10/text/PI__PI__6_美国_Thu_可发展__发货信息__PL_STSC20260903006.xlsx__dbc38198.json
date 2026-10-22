@@ -1,0 +1,136 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__发货信息__PL_STSC20260903006.xlsx__dbc38198",
+"path":"PI/PI/6 美国 Thu 可发展/发货信息/PL_STSC20260903006.xlsx",
+"name":"PL_STSC20260903006.xlsx",
+"ext":".xlsx",
+"bytes":134989,
+"sha256":"dbc38198b066e4b86e1e4d673099cc359b9a52f1f5278081e0c4523888c009a8",
+"source":"PI.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"Packing List"
+],
+"embedded_images":2,
+"rows_total":21
+},
+"warnings":[],
+"chars":716,
+"text":"--- Sheet: Packing List ---\nSaga Telecom\nAn Engineering & Supply-Chain-First Telecom Partner\nBuilt to Last, Continuous Supply, Evolving Together\nMob: 86 15237149683\nWeb: www.sagatele.com\nEmail: s.sagatelecom@gmail.com\nPacking List\nDate\t2026.09.24\nShip To\tVi-Link, Inc.\nShipping Add.\t5160 Avenida De Despacio Yorba Linda, CA 92887\nP/O No.\nP/I No.\tSTSC20260903006\nP/L No.\tPL20260924001\nC/No.:\tModel\tDESCRIPTION\tQTY/CTN\tQTY/PCS\tCTNS\tN.W/Kg\tG.W/Kg\tLENGTH/CM\tWIDTH/CM\tHEIGHT/CM\tV.W/Kg\tMEAS/CM³\n1\tMC1000SC03\tFiber Media Converter\t10\t10\t1\t3\t4\t37\t31.5\t20.5\t4.77855\t0.023893\nTOTAL\t\t\t\t10\t1\t3\t4\t\t\t\t4.77855\t0.023893\nBillable Weight\tWhichever is greater between G.W/Kg and V.W/Kg\nCarton\tONE(1)\nQUANTITY\tTEN PCS\nSaga Telecom\nSimon",
+"sheets":{
+"Packing List":{
+"state":"visible",
+"rows":[
+[
+"Saga Telecom"
+],
+[
+"An Engineering & Supply-Chain-First Telecom Partner"
+],
+[
+"Built to Last, Continuous Supply, Evolving Together"
+],
+[
+"Mob: 86 15237149683"
+],
+[
+"Web: www.sagatele.com"
+],
+[
+"Email: s.sagatelecom@gmail.com"
+],
+[
+"Packing List"
+],
+[
+"Date",
+"2026.09.24"
+],
+[
+"Ship To",
+"Vi-Link, Inc."
+],
+[
+"Shipping Add.",
+"5160 Avenida De Despacio Yorba Linda, CA 92887"
+],
+[
+"P/O No."
+],
+[
+"P/I No.",
+"STSC20260903006"
+],
+[
+"P/L No.",
+"PL20260924001"
+],
+[
+"C/No.:",
+"Model",
+"DESCRIPTION",
+"QTY/CTN",
+"QTY/PCS",
+"CTNS",
+"N.W/Kg",
+"G.W/Kg",
+"LENGTH/CM",
+"WIDTH/CM",
+"HEIGHT/CM",
+"V.W/Kg",
+"MEAS/CM³"
+],
+[
+"1",
+"MC1000SC03",
+"Fiber Media Converter",
+"10",
+"10",
+"1",
+"3",
+"4",
+"37",
+"31.5",
+"20.5",
+"4.77855",
+"0.023893"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"10",
+"1",
+"3",
+"4",
+"",
+"",
+"",
+"4.77855",
+"0.023893"
+],
+[
+"Billable Weight",
+"Whichever is greater between G.W/Kg and V.W/Kg"
+],
+[
+"Carton",
+"ONE(1)"
+],
+[
+"QUANTITY",
+"TEN PCS"
+],
+[
+"Saga Telecom"
+],
+[
+"Simon"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:32:18Z"
+}

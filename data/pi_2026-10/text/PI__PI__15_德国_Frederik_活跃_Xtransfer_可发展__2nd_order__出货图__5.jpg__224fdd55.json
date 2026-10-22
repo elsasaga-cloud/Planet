@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__出货图__5.jpg__224fdd55",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/2nd order/出货图/5.jpg",
+"name":"5.jpg",
+"ext":".jpg",
+"bytes":3305022,
+"sha256":"224fdd55d4ea686eb4a329b1d0af6ffdd7de1852d0447a34c850afd6078f4162",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":3344,
+"height":2508,
+"mode":"RGB",
+"thumb_bytes":7672
+},
+"warnings":[],
+"chars":66,
+"text":"Commereial Switel\nModel: STC-4168XGG'\n*1001000M\nMAC:FC\nIP: 192.168",
+"extracted_at":"2026-10-22T07:33:58Z",
+"thumb":"thumbs/PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__出货图__5.jpg__224fdd55.jpg"
+}

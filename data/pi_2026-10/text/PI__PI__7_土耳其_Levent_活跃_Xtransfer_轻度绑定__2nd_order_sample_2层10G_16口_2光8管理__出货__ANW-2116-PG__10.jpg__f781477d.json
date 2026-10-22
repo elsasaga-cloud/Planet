@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__出货__ANW-2116-PG__10.jpg__f781477d",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/2nd order sample 2层10G 16口 2光8管理/出货/ANW-2116-PG/10.jpg",
+"name":"10.jpg",
+"ext":".jpg",
+"bytes":1214017,
+"sha256":"f781477d246adf38b403f82f475503b84a39962c540f6a465545349fe00e10ae",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1920,
+"height":1080,
+"mode":"RGB",
+"thumb_bytes":6250
+},
+"warnings":[],
+"chars":95,
+"text":"ee Se ee ee ee eee ee\nBSA01693\n国际 快递\nwom | TR, 士 耳 其\nRAR FR\nLakcde\nEUA35 深圳 UPS 红 单 促销\n价 5\nri\na",
+"extracted_at":"2026-10-22T07:42:27Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__出货__ANW-2116-PG__10.jpg__f781477d.jpg"
+}

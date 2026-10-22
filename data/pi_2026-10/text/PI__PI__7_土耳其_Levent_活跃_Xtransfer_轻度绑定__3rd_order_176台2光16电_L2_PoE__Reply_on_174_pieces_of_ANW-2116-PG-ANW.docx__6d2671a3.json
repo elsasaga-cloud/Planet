@@ -1,0 +1,367 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__3rd_order_176台2光16电_L2_PoE__Reply_on_174_pieces_of_ANW-2116-PG-ANW.docx__6d2671a3",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/3rd order 176台2光16电 L2 PoE/Reply on 174 pieces of ANW-2116-PG-ANW.docx",
+"name":"Reply on 174 pieces of ANW-2116-PG-ANW.docx",
+"ext":".docx",
+"bytes":24775,
+"sha256":"6d2671a3604725685b87e31c5ed2d4ff8af92f4a7680b006e52b6800c3727846",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2024-11-28T04:55:00+00:00",
+"modified":"2024-11-28T07:15:05+00:00",
+"paragraphs":68,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"chars":4422,
+"text":"After the short talk on WeChat, this is a formal confirmation about below points\n1, Enclosure\nlast time we used 24 port enclosure(port 17~port 24 holes are still there), we discussed a new casing(just port 1~16 for copper)\nCost is 10usd/pc\nLK- We are on a very tight margin, so we want to avoid any extra cost. We can skip this new casing for now.\nSimon 2024.11.28: OK, thanks\n2, PVC mask\nLast time we made 100pcs. Now there is 92pcs left, we need to make a new batch.\n100pcs: 2.3usd/pc\n300pcs: 1.5usd/pc\nWhich one do you prefer?\nLK- Let’s go with 100pcs ($230) please.\nSimon 2024.11.28: OK, thanks\n3, Please get ready the MAC address list\nAbout other information, user manual&label format...\nWe will keep it the same as last order if there is not a change at your side.\nLK- We will share the MAC address list. All else the same. Just one quick question: Is console cable extra cost ?\nSimon 2024.11.28: OK, thanks\nWe do not put a console cable in the packing box.\nAnd I noticed that there is a mistake in the datasheet, sorry for this.\nCost is 2usd/each, lets split it, 1usd/each on each side, OK?\nIts our fault. Sorry\n4, Deduction\n200usd software cost\nLK- had already transferred $200 in previous order. I thought this was a one time software change fee. Can you pls confrm.\nSimon 2024.11.28: Its a one-time charge, last time you made the transfer.\nWe promised to give it back or deduct it when you place the bulk order of this model.\nSo this is about deduction, not a second charge.\n2% RMA(plus last order, its totally 182pcs=174pcs+8pcs), so we will deduct 2 pieces from the total amount(chargeable quantity 172pcs)\nOr we still do 174pcs and send 2 extra spare pieces for immediate replacement or something(total 176pcs).\nThis is up to you.\nLK- Pls prepare 176 units for shipment. It is always better have more equipment.\nSimon 2024.11.28: OK, thanks\nDiscount: we are going to give you 5% discount for this order(this will be based on quantity and accumulative order volume)\nLK- A huge thank you\n5, Payment\nLast time we had a meeting and talked about this.\nIn our daily work, we do 50%-50% while you proposed 30%-70%\nConsidering this is the first bulk order, lets do 30%-20%-50%\n30% before production, 20% in production and 50% before shipment.\nIf it goes smooth, lets do 30%-70%\nBut please know that this is ONLY applicable to standard/non-customized models.\nAbout customized models, lets discuss.\nLK-Agreed thank you. 20% in production looks unnecessary because the time is too short. We will try transferring as much as we can somewhere close to 50% to reciprocate your support.\nSimon 2024.11.28: OK, thanks for your understanding.\nThis is the first bulk order, lets make it good.\nThen its much easier to offer more favorable terms.\n6, Shipping options\nIts 174pcs(or 176pcs), packing information is like this\n545*495*420mm, 5pcs in each carton, 21Kg each\n535*205*300mm, 2pcs in each carton, 8.5Kg each\nThat will be 32 cartons+2/3 cartons=around 700Kg\nUPS: 5~10 days to arrive, 7K usd\nThis is the best option, for DHL/FedEx, shipping time is similar, while cost is more.\nMaybe we should think about sea shipment or some other options, air service is too expensive.\nLK- We have 6-8 weeks to deliver to customer. Pls allow 1 week for (stupid) customs work in Turkey. So that leaves us 5-7 weeks for manufacturing and freight. I suggest we look for trucks (land) as an option too. Can you pls check with your forwarder about both ship and truck shipment times. Let’s see if we can fit into this 5-7 week timing.\n7, Leadtime\nI will check internally and put it in PI after everything is finalized.\nLK- Thank you.\nSimon 2024.11.28: Estimated production time for 176pcs: 4 weeks AFTER PAYMENT.\n6~8 weeks is what we have.\nOne week for the customs work.\nThat leaves us 1~3 weeks for shipment.\nI talked with the shipping agents we know well.\n7.1: the supplier for previous shipments: without sea/truck shipment services available for this order\n7.2: another supplier offered 35 days at least for sea shipment. Express is amost the same cost as the first supplier\nBecause the manufacturing will be completed in a few weeks, there are too many uncertain issues(usually the shipping cost increases as the year-end nears)\nSo we are kinda in a dilemma...\n[页眉页脚]\ns.sagatelecom@gmail.com\n\t\t\t\t\t\t\t                                                                       Saga Telecom\nwww.sagatelecom.com.cn\nConnecting, Converting, Creating",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"After the short talk on WeChat, this is a formal confirmation about below points"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1, Enclosure"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"last time we used 24 port enclosure(port 17~port 24 holes are still there), we discussed a new casing(just port 1~16 for copper)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Cost is 10usd/pc"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LK- We are on a very tight margin, so we want to avoid any extra cost. We can skip this new casing for now."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Simon 2024.11.28: OK, thanks"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2, PVC mask"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Last time we made 100pcs. Now there is 92pcs left, we need to make a new batch."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"100pcs: 2.3usd/pc"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"300pcs: 1.5usd/pc"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Which one do you prefer?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LK- Let’s go with 100pcs ($230) please."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Simon 2024.11.28: OK, thanks"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3, Please get ready the MAC address list"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"About other information, user manual&label format..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We will keep it the same as last order if there is not a change at your side."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LK- We will share the MAC address list. All else the same. Just one quick question: Is console cable extra cost ?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Simon 2024.11.28: OK, thanks"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We do not put a console cable in the packing box."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"And I noticed that there is a mistake in the datasheet, sorry for this."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Cost is 2usd/each, lets split it, 1usd/each on each side, OK?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Its our fault. Sorry"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4, Deduction"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"200usd software cost"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LK- had already transferred $200 in previous order. I thought this was a one time software change fee. Can you pls confrm."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Simon 2024.11.28: Its a one-time charge, last time you made the transfer."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We promised to give it back or deduct it when you place the bulk order of this model."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"So this is about deduction, not a second charge."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2% RMA(plus last order, its totally 182pcs=174pcs+8pcs), so we will deduct 2 pieces from the total amount(chargeable quantity 172pcs)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Or we still do 174pcs and send 2 extra spare pieces for immediate replacement or something(total 176pcs)."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is up to you."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LK- Pls prepare 176 units for shipment. It is always better have more equipment."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Simon 2024.11.28: OK, thanks"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Discount: we are going to give you 5% discount for this order(this will be based on quantity and accumulative order volume)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LK- A huge thank you"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"5, Payment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Last time we had a meeting and talked about this."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"In our daily work, we do 50%-50% while you proposed 30%-70%"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Considering this is the first bulk order, lets do 30%-20%-50%"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"30% before production, 20% in production and 50% before shipment."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If it goes smooth, lets do 30%-70%"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"But please know that this is ONLY applicable to standard/non-customized models."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"About customized models, lets discuss."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LK-Agreed thank you. 20% in production looks unnecessary because the time is too short. We will try transferring as much as we can somewhere close to 50% to reciprocate your support."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Simon 2024.11.28: OK, thanks for your understanding."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is the first bulk order, lets make it good."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Then its much easier to offer more favorable terms."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"6, Shipping options"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Its 174pcs(or 176pcs), packing information is like this"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"545*495*420mm, 5pcs in each carton, 21Kg each"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"535*205*300mm, 2pcs in each carton, 8.5Kg each"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"That will be 32 cartons+2/3 cartons=around 700Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"UPS: 5~10 days to arrive, 7K usd"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is the best option, for DHL/FedEx, shipping time is similar, while cost is more."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Maybe we should think about sea shipment or some other options, air service is too expensive."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LK- We have 6-8 weeks to deliver to customer. Pls allow 1 week for (stupid) customs work in Turkey. So that leaves us 5-7 weeks for manufacturing and freight. I suggest we look for trucks (land) as an option too. Can you pls check with your forwarder about both ship and truck shipment times. Let’s see if we can fit into this 5-7 week timing."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"7, Leadtime"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"I will check internally and put it in PI after everything is finalized."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LK- Thank you."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Simon 2024.11.28: Estimated production time for 176pcs: 4 weeks AFTER PAYMENT."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"6~8 weeks is what we have."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"One week for the customs work."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"That leaves us 1~3 weeks for shipment."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"I talked with the shipping agents we know well."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"7.1: the supplier for previous shipments: without sea/truck shipment services available for this order"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"7.2: another supplier offered 35 days at least for sea shipment. Express is amost the same cost as the first supplier"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Because the manufacturing will be completed in a few weeks, there are too many uncertain issues(usually the shipping cost increases as the year-end nears)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"So we are kinda in a dilemma..."
+}
+],
+"extracted_at":"2026-10-22T07:39:59Z"
+}

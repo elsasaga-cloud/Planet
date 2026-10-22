@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__出货__ANW-1108-V__TT-2208-TG__After_log-in.png__6b5c1f7f",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/After log-in.png",
+"name":"After log-in.png",
+"ext":".png",
+"bytes":77118,
+"sha256":"6b5c1f7ffba0532d20077875bbd5bace4aeee768d356a2eba4ae1c29f579d18e",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":2133,
+"height":1175,
+"mode":"RGBA",
+"thumb_bytes":5948
+},
+"warnings":[],
+"chars":557,
+"text":"Monitor Q 和 回 A admin\nerview Y 中\nMonitor s ，\nOverview\nSystem Information CPU Memory\nProduct ID : TT-2208-TG\nProduct SN : DTM1108DEMOA15\nMAC Address : 78-D0-64-66-9A-50\n67.1%\n99.61%\nHardware Version : 1.0\nSoftware Version : hotfix/7.3.1 (r1262 f365514) 2024-12-04 19:30:13\nUptime : 00:04\nTY] selected [1] AG Port PY Trunk Port P13 Port EY Up [LY] shutdown fly Error-down [) copper [1] Fiber\n16 15 14 13 8 6 4 2\n12 11 10 9 7 5 3 1\nTraffic。 digabitEthemet0/2 Kbps » Configuration\nOr- Tx Traffic Rx Traffic\nKops\n6\n5 °\n4\n3\n2\n1\n0 Time\n1041\" 1051\" wt wit wei\" 131\"",
+"extracted_at":"2026-10-22T07:43:21Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__出货__ANW-1108-V__TT-2208-TG__After_log-in.png__6b5c1f7f.jpg"
+}

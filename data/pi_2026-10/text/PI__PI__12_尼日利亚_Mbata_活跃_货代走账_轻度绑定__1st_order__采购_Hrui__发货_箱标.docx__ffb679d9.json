@@ -1,0 +1,172 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__1st_order__采购_Hrui__发货_箱标.docx__ffb679d9",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/1st order/采购_Hrui/发货&箱标.docx",
+"name":"发货&箱标.docx",
+"ext":".docx",
+"bytes":51062,
+"sha256":"ffb679d9317c4f6d7012d55dff7546921fa39b8e69a27df93b96fbce4b584b44",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2024-02-18T13:06:00+00:00",
+"modified":"2024-09-30T06:17:25+00:00",
+"paragraphs":29,
+"tables":0,
+"embedded_images":2
+},
+"warnings":[],
+"chars":667,
+"text":"Product: 12 Port Commercial PoE Switch\nModel: BNSC-228GP\nFeatures: 这部分按照你们的格式写就行\n8*10/100/1000M PoE ports + 2*1000M Ethernet ports + 2*1G SFP slots\nInternal....\t\t120W\nSN: 202409080001\n5台编号0001~0005\n管理型号\nProduct: 10 Port Commercial PoE Managed Switch\nBNSC-28GPM\n8*10/100/1000M PoE ports + 2*1G SFP slots, L2 Managed\nSN: 202409080001\n25台编号0001~0025\n注意事项\n结尾编号是0001（3个0）\n注意是PoE，不是POE，O需要小写\n文字格式：Times new roman\n发货地址\n广州市越秀区瑶台前进北街73号(瑶台二社创意园) B排B117\nJessica /管丹\n13544315510\n箱标（客户信息部分也要体现在箱标里，就是下方所有的信息都打印在A4纸上贴上去）\n每箱一W张A4纸，我们自己的箱标按照我们的处理就行，和这个互不干涉\n品名: 商业交换机/Commercial Network Switch\n数量: 30台/30 Pieces\n品牌: 无\n没有内置电池，普货，不带电不带磁不含粉末等\n客户信息\nVALENTINE, (LAGOS-NIGERIA), 0803388325",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Product: 12 Port Commercial PoE Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Model: BNSC-228GP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Features: 这部分按照你们的格式写就行"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8*10/100/1000M PoE ports + 2*1000M Ethernet ports + 2*1G SFP slots"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Internal....\t\t120W"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SN: 202409080001"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"5台编号0001~0005"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"管理型号"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product: 10 Port Commercial PoE Managed Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"BNSC-28GPM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8*10/100/1000M PoE ports + 2*1G SFP slots, L2 Managed"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SN: 202409080001"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"25台编号0001~0025"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"注意事项"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"结尾编号是0001（3个0）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"注意是PoE，不是POE，O需要小写"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"文字格式：Times new roman"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"发货地址"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"广州市越秀区瑶台前进北街73号(瑶台二社创意园) B排B117"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Jessica /管丹"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"13544315510"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"箱标（客户信息部分也要体现在箱标里，就是下方所有的信息都打印在A4纸上贴上去）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"每箱一W张A4纸，我们自己的箱标按照我们的处理就行，和这个互不干涉"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"品名: 商业交换机/Commercial Network Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"数量: 30台/30 Pieces"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"品牌: 无"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"没有内置电池，普货，不带电不带磁不含粉末等"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"客户信息"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"VALENTINE, (LAGOS-NIGERIA), 0803388325"
+}
+],
+"extracted_at":"2026-10-22T08:05:07Z"
+}

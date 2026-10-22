@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__1_格鲁吉亚_George_gg__出货图__IMG_6432.JPG__1f04e541",
+"path":"PI/PI/1 格鲁吉亚 George gg/出货图/IMG_6432.JPG",
+"name":"IMG_6432.JPG",
+"ext":".jpg",
+"bytes":1666036,
+"sha256":"1f04e541a97f16c76e5e144c701a5b3c5c7f3f586fed07189d091ed3098b68de",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":3024,
+"height":4032,
+"mode":"RGB",
+"thumb_bytes":11801
+},
+"warnings":[],
+"chars":81,
+"text":"Commercial POE Switch\nUser Manual\n(hlease do Not use until you read this Manual\n)",
+"extracted_at":"2026-10-22T07:28:59Z",
+"thumb":"thumbs/PI__PI__1_格鲁吉亚_George_gg__出货图__IMG_6432.JPG__1f04e541.jpg"
+}

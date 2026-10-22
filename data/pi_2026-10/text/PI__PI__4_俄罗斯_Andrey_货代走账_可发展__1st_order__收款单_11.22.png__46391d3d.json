@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__4_俄罗斯_Andrey_货代走账_可发展__1st_order__收款单_11.22.png__46391d3d",
+"path":"PI/PI/4 俄罗斯 Andrey 货代走账 可发展/1st order/收款单 11.22.png",
+"name":"收款单 11.22.png",
+"ext":".png",
+"bytes":107526,
+"sha256":"46391d3dd1eae4b0d3ef704ffd5266c517de0f507e829408e2163ac754242cc7",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":5033
+},
+"warnings":[],
+"chars":240,
+"text":"6:41 all 4c\nYou've accepted the transfer. The money\nhas been deposited to your Balance.\n¥ 898.38\nAmount in Balance\nTransfer Time 11/22/2023, 18:40:46\nReceipt Time 11/22/2023, 18:41:09\nes Mini Fund Yield 1.71%\nTransfer to Mini Fund for... Us",
+"extracted_at":"2026-10-22T07:46:40Z",
+"thumb":"thumbs/PI__PI__4_俄罗斯_Andrey_货代走账_可发展__1st_order__收款单_11.22.png__46391d3d.jpg"
+}

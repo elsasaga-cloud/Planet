@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__2_印度_Rishi_gg__1st_order__Payment_receipt_2.png__1541484e",
+"path":"PI/PI/2 印度 Rishi gg/1st order/Payment receipt 2.png",
+"name":"Payment receipt 2.png",
+"ext":".png",
+"bytes":166453,
+"sha256":"1541484eac9c68f471dafb00ff3e51d99ef60ab5718ef84ed65e21440605ee31",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":5930
+},
+"warnings":[],
+"chars":416,
+"text":"4:43 了 al Fea)\n《 Transaction Details View all\n@\nTAs\nBRe\n-1,595.05\nTransaction successful\nPayment time 2023-10-07 16:42:46\nPayment Yu'E Bao >\nmethod\nitem 收 錢 碼 收 款\ndescription\n寸 款 備注 貨 款 /STSC20230927002\nBonus 回 立即 領 18 積 分 , 去 兌 水 杯\nFull name of 志華 (個 人 )\npayee\nMore v\nBill Management\n%\n- ions Category Daily >\nTranslate\nLabels and Notes Add >\nIncluded in statistics 【 @)\n和 崗 Contact Payee 园 View transaction\nrecords",
+"extracted_at":"2026-10-22T07:31:36Z",
+"thumb":"thumbs/PI__PI__2_印度_Rishi_gg__1st_order__Payment_receipt_2.png__1541484e.jpg"
+}

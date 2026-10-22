@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__2nd_order__MC1400.jpg__38e01cbe",
+"path":"PI/PI/6 美国 Thu 可发展/2nd order/MC1400.jpg",
+"name":"MC1400.jpg",
+"ext":".jpg",
+"bytes":45529,
+"sha256":"38e01cbe0c05700de9efb49865a306093c5fe1e73f4595a18097f4bf9a85d595",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":742,
+"height":482,
+"mode":"RGBA",
+"thumb_bytes":14646
+},
+"warnings":[],
+"chars":159,
+"text":"14-slot Ethernet Media Converter Chassis\nModel: MC1400\nFunction: Housing and powering 14*MC10G\nPower Input: Dual Input AC100V~264V, typicall AC220V\nC€ FE\nIl sz",
+"extracted_at":"2026-10-22T07:32:42Z",
+"thumb":"thumbs/PI__PI__6_美国_Thu_可发展__2nd_order__MC1400.jpg__38e01cbe.jpg"
+}

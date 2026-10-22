@@ -1,0 +1,26 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__3rd_order_176台2光16电_L2_PoE__Shipment_Info__2.jpg__113eac5a",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/3rd order 176台2光16电 L2 PoE/Shipment Info/2.jpg",
+"name":"2.jpg",
+"ext":".jpg",
+"bytes":4056710,
+"sha256":"113eac5a30d8f46841b4f34e1b2b8893016dffac24b138d9e170f092de966db0",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"MPO",
+"width":3808,
+"height":2856,
+"mode":"RGB",
+"datetime":"2025:02:28 10:47:09",
+"make":"Apple",
+"software":"17.5.1",
+"thumb_bytes":12972
+},
+"warnings":[],
+"chars":128,
+"text":"ANGORA NETWORKS\nVERGE SERIES ETHERNET SWITCHES\nMODEL: ANW-2116-PG\nINPUT: DC44-57V\nA\n2501211603503\nMAC ADDRESS: 98:06:37:A1:00:22",
+"extracted_at":"2026-10-22T07:40:53Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__3rd_order_176台2光16电_L2_PoE__Shipment_Info__2.jpg__113eac5a.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__3_赞比亚_Pythias_gg__采购_Hrui__出货图__19.jpg__3986ce70",
+"path":"PI/PI/3  赞比亚 Pythias gg/采购_Hrui/出货图/19.jpg",
+"name":"19.jpg",
+"ext":".jpg",
+"bytes":122012,
+"sha256":"3986ce708d7627d0231a991f854b26d71cb940e35f1f9e337e385be165487d3c",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":1881,
+"height":1280,
+"mode":"RGB",
+"thumb_bytes":8567
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:48:48Z",
+"thumb":"thumbs/PI__PI__3_赞比亚_Pythias_gg__采购_Hrui__出货图__19.jpg__3986ce70.jpg"
+}

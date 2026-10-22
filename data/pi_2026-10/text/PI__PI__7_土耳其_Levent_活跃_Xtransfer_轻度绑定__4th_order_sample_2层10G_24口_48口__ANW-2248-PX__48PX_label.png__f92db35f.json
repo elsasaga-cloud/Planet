@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__4th_order_sample_2层10G_24口_48口__ANW-2248-PX__48PX_label.png__f92db35f",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/4th order sample  2层10G 24口 48口/ANW-2248-PX/48PX label.png",
+"name":"48PX label.png",
+"ext":".png",
+"bytes":111467,
+"sha256":"f92db35f5f8546ff090bcdc0f9982b53c255ab11cc6a5840010509fb4fda9efe",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":942,
+"height":594,
+"mode":"RGBA",
+"thumb_bytes":12403
+},
+"warnings":[],
+"chars":153,
+"text":"ANGORA NETWORKS\nVERGE SERIES ETHERNET SWITCHES\nMODEL: ANW-2248-PX\nPOWER: 440W\nINPUT: AC 100~240V\n25052248A0103\nMAC ADDRESS: 98:06:37:A5:00:03\nA\n©\n0\nme)\nO",
+"extracted_at":"2026-10-22T07:44:32Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__4th_order_sample_2层10G_24口_48口__ANW-2248-PX__48PX_label.png__f92db35f.jpg"
+}

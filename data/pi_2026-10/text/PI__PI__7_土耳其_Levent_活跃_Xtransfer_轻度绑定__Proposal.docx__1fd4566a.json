@@ -1,0 +1,312 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__Proposal.docx__1fd4566a",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/Proposal.docx",
+"name":"Proposal.docx",
+"ext":".docx",
+"bytes":410484,
+"sha256":"1fd4566ad4955a0415969cfcf638250b4130de67e6a4edafbef1d9744c322c9d",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2024-04-22T07:22:00+00:00",
+"modified":"2024-09-25T15:51:52+00:00",
+"paragraphs":57,
+"tables":0,
+"embedded_images":2
+},
+"warnings":[],
+"chars":4637,
+"text":"Before I start, I would like you to look at below photo\nAs I mentioned, I travelled to Germany some days ago, I got an interesting inspiration from my daily work and this trip, that is,\nWe are inviting you to be our distributor/agent in EU\nGeographically, Germany and Poland stand in the central part while Turkey is a little remote.\nHowever we still consider you as our first option for below reasons.\nOur products are mainly Marvell-based. You do know its market positioning and work on a big project with us(I mean the industrial switch project STI-280DDGM)\nThis is the VERY most important reason of all\nIn our daily work, we collect some feedback from EU clients\nShipping cost and VAT tax, it might be high sometimes\nNever buy anything from China before, most of them are individual buyers\nNot licensed to import, hesitant to move on\nJust want to save trouble, ask us if we have a local agent or online store(like Amazon)\nSmall order(like a few pieces), it is hard to win the order after including extra cost(shipping cost and tax), there are some local competitors anyway\nMaybe more in the future...\nWe now have a long list of EU clients, but it is not easy to make some progress with them\nThey already have some suppliers(local or from China)\nNot allowed to import from China, gotta be from another location like Taiwan/Singapore or has to import in a special format(SKD/CKD)\nIn some extreme cases, not even allowed to cooperate with China suppliers\nTrust and support, this is mainly about some big projects/tenders, they would rather choose some suppliers from EU countries(better in-sales and after-sales support)\nMaybe more in the future...\nBased on above information, I think you probably get our idea\nBluntly, we would like to use your strength to help increase sales in EU countries.\nWe notice that there is such information on your website\nhttps://www.angoranetworks.com/partners/\nThis actually inspired us to propose this idea to you, easy to know that you are also trying to include more connections in your system.\nSo please let us know your thoughts on below questions(please forget it if you are not interested, this is just a proposal)\nLets assume you are now our distributor/agent\nIf possible to stock some popular models(example: 4-port industrial unmanaged Gigabit PoE switch, perhaps we need a list of the popular specifications in your daily work) for any immediate needs locally(here we mean the whole EU)\nIf possible to supply services covering most countries(including UK or excluding UK, as we all know that it is now not a member of EU)\nIf there is a plan to set up an online store for selling and promote your brand(this may involve OEM/customization services)\nIf there is a plan to test more models for better understanding and promotion(as Taylan mentioned a few weeks ago, a testing depot is being built)\nIf those 4 points are all OK, then\nThere is a local online store that could solve\nSmall purchase from individual buyers(import related issues are gone)\nAfter customization(use the yellow PVC sticker as shown on your website, use your model name...), it is simply a local product/brand\nThis may help you win some projects in your country or even from a different EU country.\nTo assist you,\nWe will provide support as below\nNecessary discount\nA list of clients in Turkey to start with, later clients from different EU countries\nWe actually have a bigger idea if this proposal works out, that is\nONE TEAM\nWe help you with Chinese market issues\nTelecom products from China will be your resource bank(patchcords, H3C models, routers, cameras...), we will be assisting you with sourcing, negotiating with local suppliers\nSomething you need to know about some Chinese companies or market information\nYou help us with increase sales volume in EU countries\nThis saves time for both of us.\nFor us, it is easier to talk with China suppliers\nFor you, it is easier to talk with EU clients because you are based in Turkey\nI know your business is mainly project based.\nIt might be not easy to go towards this direction, because this involves a lot of issues, even a shift of work focus.\nBut we would like to propose this to you as a starter, we could have some discussions about this.\nFYI: We are now revising the datasheet of our models and going to update it quarterly.\nThere will be some small changes from the previous version.\nThe first version will be released out on the first day of year 2025.\nStill, all the information will be uploaded in the google drive for each assess.\nI will let you know when ready.\n[页眉页脚]\ns.sagatelecom@gmail.com\nSaga Telecom\nwww.sagatelecom.com.cn\nConnecting, Converting, Creating",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Before I start, I would like you to look at below photo"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"As I mentioned, I travelled to Germany some days ago, I got an interesting inspiration from my daily work and this trip, that is,"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We are inviting you to be our distributor/agent in EU"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Geographically, Germany and Poland stand in the central part while Turkey is a little remote."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"However we still consider you as our first option for below reasons."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Our products are mainly Marvell-based. You do know its market positioning and work on a big project with us(I mean the industrial switch project STI-280DDGM)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is the VERY most important reason of all"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"In our daily work, we collect some feedback from EU clients"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipping cost and VAT tax, it might be high sometimes"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Never buy anything from China before, most of them are individual buyers"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Not licensed to import, hesitant to move on"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Just want to save trouble, ask us if we have a local agent or online store(like Amazon)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Small order(like a few pieces), it is hard to win the order after including extra cost(shipping cost and tax), there are some local competitors anyway"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Maybe more in the future..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We now have a long list of EU clients, but it is not easy to make some progress with them"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"They already have some suppliers(local or from China)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Not allowed to import from China, gotta be from another location like Taiwan/Singapore or has to import in a special format(SKD/CKD)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"In some extreme cases, not even allowed to cooperate with China suppliers"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Trust and support, this is mainly about some big projects/tenders, they would rather choose some suppliers from EU countries(better in-sales and after-sales support)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Maybe more in the future..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Based on above information, I think you probably get our idea"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Bluntly, we would like to use your strength to help increase sales in EU countries."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We notice that there is such information on your website"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.angoranetworks.com/partners/"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This actually inspired us to propose this idea to you, easy to know that you are also trying to include more connections in your system."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"So please let us know your thoughts on below questions(please forget it if you are not interested, this is just a proposal)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Lets assume you are now our distributor/agent"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If possible to stock some popular models(example: 4-port industrial unmanaged Gigabit PoE switch, perhaps we need a list of the popular specifications in your daily work) for any immediate needs locally(here we mean the whole EU)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If possible to supply services covering most countries(including UK or excluding UK, as we all know that it is now not a member of EU)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If there is a plan to set up an online store for selling and promote your brand(this may involve OEM/customization services)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If there is a plan to test more models for better understanding and promotion(as Taylan mentioned a few weeks ago, a testing depot is being built)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If those 4 points are all OK, then"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"There is a local online store that could solve"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Small purchase from individual buyers(import related issues are gone)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"After customization(use the yellow PVC sticker as shown on your website, use your model name...), it is simply a local product/brand"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This may help you win some projects in your country or even from a different EU country."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"To assist you,"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We will provide support as below"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Necessary discount"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A list of clients in Turkey to start with, later clients from different EU countries"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We actually have a bigger idea if this proposal works out, that is"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"ONE TEAM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We help you with Chinese market issues"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Telecom products from China will be your resource bank(patchcords, H3C models, routers, cameras...), we will be assisting you with sourcing, negotiating with local suppliers"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Something you need to know about some Chinese companies or market information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"You help us with increase sales volume in EU countries"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This saves time for both of us."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For us, it is easier to talk with China suppliers"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For you, it is easier to talk with EU clients because you are based in Turkey"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"I know your business is mainly project based."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It might be not easy to go towards this direction, because this involves a lot of issues, even a shift of work focus."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"But we would like to propose this to you as a starter, we could have some discussions about this."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"FYI: We are now revising the datasheet of our models and going to update it quarterly."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"There will be some small changes from the previous version."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The first version will be released out on the first day of year 2025."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Still, all the information will be uploaded in the google drive for each assess."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"I will let you know when ready."
+}
+],
+"extracted_at":"2026-10-22T07:36:51Z"
+}

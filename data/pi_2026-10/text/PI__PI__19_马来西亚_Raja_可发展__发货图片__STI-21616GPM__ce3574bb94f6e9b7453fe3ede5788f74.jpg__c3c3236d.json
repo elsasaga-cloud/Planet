@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__19_马来西亚_Raja_可发展__发货图片__STI-21616GPM__ce3574bb94f6e9b7453fe3ede5788f74.jpg__c3c3236d",
+"path":"PI/PI/19 马来西亚 Raja 可发展/发货图片/STI-21616GPM/ce3574bb94f6e9b7453fe3ede5788f74.jpg",
+"name":"ce3574bb94f6e9b7453fe3ede5788f74.jpg",
+"ext":".jpg",
+"bytes":944016,
+"sha256":"c3c3236d680714f414e1c6c160d01e07d8b48fd1756ed8d6c8b7b0537d9d1976",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1895,
+"height":1279,
+"mode":"RGB",
+"thumb_bytes":14757
+},
+"warnings":[],
+"chars":54,
+"text":"STI- Se ME\n1.25G\n108210009\nSTI-G2 MD Se\n1.25G\n1 digi 山",
+"extracted_at":"2026-10-22T07:50:07Z",
+"thumb":"thumbs/PI__PI__19_马来西亚_Raja_可发展__发货图片__STI-21616GPM__ce3574bb94f6e9b7453fe3ede5788f74.jpg__c3c3236d.jpg"
+}

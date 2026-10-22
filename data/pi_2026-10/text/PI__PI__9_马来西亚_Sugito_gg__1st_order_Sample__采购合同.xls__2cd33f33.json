@@ -1,0 +1,194 @@
+{
+"id":"PI__PI__9_马来西亚_Sugito_gg__1st_order_Sample__采购合同.xls__2cd33f33",
+"path":"PI/PI/9 马来西亚 Sugito gg/1st order Sample/采购合同.xls",
+"name":"采购合同.xls",
+"ext":".xls",
+"bytes":2626048,
+"sha256":"2cd33f33fe4f0365672f3e38ac95a11b6ad991dd850379505174c101efeeffcc",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"采购合同",
+"附表"
+],
+"rows_total":34
+},
+"warnings":[],
+"chars":1628,
+"text":"--- Sheet: 采购合同 ---\n郑州仨戛通讯器材有限公司\n地址: 郑州市管城区航海路中州大道富田太阳城57号楼22层316\n电话: 86 15237149683                                                          www.sagatelecom.com.cn                                      Email: s.sagatelecom@gmail.com\n******************************************************************************************************************\n采购合同\n买方:\t郑州仨戛通讯器材有限公司\nZhengzhou Saga Telecom Co., Ltd.\n地址：\t郑州市管城区航海路中州大道富田太阳城57号楼22层316\nRoom 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\n采购订单编号\tSTSC20240618009\n电话:\t86 15237149683\n邮箱\ts.sagatelecom@gmail.com\n联系人:\t程天龙(Simon Cheng)\n卖方:\t四川海思视讯电子有限公司\nSichuan hasivo  Electronics Co., Ltd.\n地址：\t四川省眉山市东坡区经济开发新区安平街9号\nNo. 9, Anping Street, Dongpo new District,Meishan,620010, Sichuan,China\n联系人:\t师先生/18990365778\n订单日期:\t25th, June, 2024\n付款条款\t不含税，工厂直发，款到生产，包邮\n发货地址\t广东省深圳市宝安区凤塘大道141号大洋田工业区第8-9栋中技/百运网, 韦德晶, 19114693006\n产品编号\t品名规格\t\t\t数量 \n(个)\t单价\n(RMB)\t小计\n(Sub-total)\nS2800P-24F-2TS\n\nSTC-2224GFP-24V\t商业交换机\n2个千兆SFP光口+2个千兆上联电口+24个百兆PoE下联口，非标PoE,非管理，英规电源\n不含模块，中性设备，1年质保，带挂耳\t\t\t1\t500\t500\n备注\t1，标签（见附表）\n2，不放说明书，不放保修卡，不放QC小卡等\n3，中性PVC膜（如上图）\n4，标准包装盒，带挂耳，按照你们正常包装就可以\n5，英规电源（一定不要出错，客户反复强调了）\n6，出货前拍照或拍视频（会发给客户，也是产品素材，只在第一次出货拍，后续就不拍了）\nTOTAL\t\t\t\t1\t\t500\n买方: 郑州仨戛通讯器材有限公司\n签字代表：程天龙(Simon Cheng)\n买方盖章\n2024.06.25\n--- Sheet: 附表 ---\n\t\t\t该公司PoE Plus是你们的客户，按照这个格式处理就行\n\t\t\t以下是要求\n\t\t\t上边公司名改为\tSaga Telecom\n\t\t\tModel改为\tSTC-2224GFP-24V\n\t\t\t产品描述用下边的\n\t\t\t2*1 Gigabit SFP+2*Gigabit Copper uplink+24*100M PoE af/at Downlink, Unmanaged, 24V Passvie PoE, 300W budget, AC100~240V 1A input\n\t\t\tMade In China删去就行了\n\t\t\t条码内容为\tSN: 20240625001\n\t\t字体全部使用 Times New Roman，大小无要求，你们自己调整，看着OK就行",
+"sheets":{
+"采购合同":{
+"rows":[
+[
+"郑州仨戛通讯器材有限公司"
+],
+[
+"地址: 郑州市管城区航海路中州大道富田太阳城57号楼22层316"
+],
+[
+"电话: 86 15237149683                                                          www.sagatelecom.com.cn                                      Email: s.sagatelecom@gmail.com"
+],
+[
+"******************************************************************************************************************"
+],
+[
+"采购合同"
+],
+[
+"买方:",
+"郑州仨戛通讯器材有限公司\nZhengzhou Saga Telecom Co., Ltd."
+],
+[
+"地址：",
+"郑州市管城区航海路中州大道富田太阳城57号楼22层316\nRoom 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"采购订单编号",
+"STSC20240618009"
+],
+[
+"电话:",
+"86 15237149683"
+],
+[
+"邮箱",
+"s.sagatelecom@gmail.com"
+],
+[
+"联系人:",
+"程天龙(Simon Cheng)"
+],
+[
+"卖方:",
+"四川海思视讯电子有限公司\nSichuan hasivo  Electronics Co., Ltd."
+],
+[
+"地址：",
+"四川省眉山市东坡区经济开发新区安平街9号\nNo. 9, Anping Street, Dongpo new District,Meishan,620010, Sichuan,China"
+],
+[
+"联系人:",
+"师先生/18990365778"
+],
+[
+"订单日期:",
+"25th, June, 2024"
+],
+[
+"付款条款",
+"不含税，工厂直发，款到生产，包邮"
+],
+[
+"发货地址",
+"广东省深圳市宝安区凤塘大道141号大洋田工业区第8-9栋中技/百运网, 韦德晶, 19114693006"
+],
+[
+"产品编号",
+"品名规格",
+"",
+"",
+"数量 \n(个)",
+"单价\n(RMB)",
+"小计\n(Sub-total)"
+],
+[
+"S2800P-24F-2TS\n\nSTC-2224GFP-24V",
+"商业交换机\n2个千兆SFP光口+2个千兆上联电口+24个百兆PoE下联口，非标PoE,非管理，英规电源\n不含模块，中性设备，1年质保，带挂耳",
+"",
+"",
+"1",
+"500",
+"500"
+],
+[
+"备注",
+"1，标签（见附表）\n2，不放说明书，不放保修卡，不放QC小卡等\n3，中性PVC膜（如上图）\n4，标准包装盒，带挂耳，按照你们正常包装就可以\n5，英规电源（一定不要出错，客户反复强调了）\n6，出货前拍照或拍视频（会发给客户，也是产品素材，只在第一次出货拍，后续就不拍了）"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"1",
+"",
+"500"
+],
+[
+"买方: 郑州仨戛通讯器材有限公司"
+],
+[
+"签字代表：程天龙(Simon Cheng)"
+],
+[
+"买方盖章"
+],
+[
+"2024.06.25"
+]
+]
+},
+"附表":{
+"rows":[
+[
+"",
+"",
+"",
+"该公司PoE Plus是你们的客户，按照这个格式处理就行"
+],
+[
+"",
+"",
+"",
+"以下是要求"
+],
+[
+"",
+"",
+"",
+"上边公司名改为",
+"Saga Telecom"
+],
+[
+"",
+"",
+"",
+"Model改为",
+"STC-2224GFP-24V"
+],
+[
+"",
+"",
+"",
+"产品描述用下边的"
+],
+[
+"",
+"",
+"",
+"2*1 Gigabit SFP+2*Gigabit Copper uplink+24*100M PoE af/at Downlink, Unmanaged, 24V Passvie PoE, 300W budget, AC100~240V 1A input"
+],
+[
+"",
+"",
+"",
+"Made In China删去就行了"
+],
+[
+"",
+"",
+"",
+"条码内容为",
+"SN: 20240625001"
+],
+[
+"",
+"",
+"字体全部使用 Times New Roman，大小无要求，你们自己调整，看着OK就行"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:30:32Z"
+}

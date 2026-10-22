@@ -1,0 +1,24 @@
+{
+"id":"PI__PI__5_印度_Rajesh_gg__发货__3.jpg__67e3fb4b",
+"path":"PI/PI/5 印度 Rajesh gg/发货/3.jpg",
+"name":"3.jpg",
+"ext":".jpg",
+"bytes":4406319,
+"sha256":"67e3fb4b227fa2e2d5044022a0adb52698b6dd4a074149abb32169803b9bb659",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":4624,
+"height":3468,
+"mode":"RGB",
+"software":"MediaTek Camera Application\u0000\u0000\u0000\u0000",
+"thumb_bytes":8121
+},
+"warnings":[],
+"chars":67,
+"text":"BSAOQOO02 SE2404024115\nBa Oe\n深圳 市 、 IN, 印度\nes [CT\nWWW\nWEO2406015504",
+"extracted_at":"2026-10-22T07:29:56Z",
+"thumb":"thumbs/PI__PI__5_印度_Rajesh_gg__发货__3.jpg__67e3fb4b.jpg"
+}

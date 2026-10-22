@@ -1,0 +1,18 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__New_MIBs_Info_2025.4.1__lite-hotfix-7.3.3.bin__6e915a63",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/2nd order/New MIBs Info_2025.4.1/lite-hotfix-7.3.3.bin",
+"name":"lite-hotfix-7.3.3.bin",
+"ext":".bin",
+"bytes":64266320,
+"sha256":"6e915a633474ad20f22e47f1af751e85c0561c5364939e18a17fa1c6a3cfe511",
+"source":"PI.zip",
+"method":"none",
+"status":"meta",
+"meta":{},
+"warnings":[
+"no extractor for .bin"
+],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:34:08Z"
+}

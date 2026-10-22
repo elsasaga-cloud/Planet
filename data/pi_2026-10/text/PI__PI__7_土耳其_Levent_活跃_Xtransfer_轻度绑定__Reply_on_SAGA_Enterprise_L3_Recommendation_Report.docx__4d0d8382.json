@@ -1,0 +1,252 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__Reply_on_SAGA_Enterprise_L3_Recommendation_Report.docx__4d0d8382",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/Reply on SAGA Enterprise L3 Recommendation Report.docx",
+"name":"Reply on SAGA Enterprise L3 Recommendation Report.docx",
+"ext":".docx",
+"bytes":1080268,
+"sha256":"4d0d83826aa64e3473d6dcbca4bd02297c459bb897bb6501c266ff898cbc7228",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2026-08-17T08:37:00+00:00",
+"modified":"2026-08-17T09:21:03+00:00",
+"paragraphs":45,
+"tables":0,
+"embedded_images":2
+},
+"warnings":[],
+"chars":2813,
+"text":"Reply on “SAGA Enterprise L3 Recommendation Report”\nDate: 2026.08.17\nBackground\n1 After previous discussions, our Marvell solutions have fully shifted from AC3 series to AC5 series\nSaga will NOT update AC3 firmware and related R&D, and will only do technical supportive work for this series\nlite-hotfix-7.3.13 is the last version which I shared and believed that you have integrated it to your NMS system\n1 Our work is now and will be centered on AC5 series, covering R&D, marketing and stock etc.\nThis will be long-term chip category and guarantee continuous supply\nThe period is for at least 5 years\n2.1 Currently our technical resources are poured into L2+ switching solutions, including commercial and industrial level models.\nAs seen in the feature list: Saga Feature List_7.5.x_L2+, there are some new updates\nHowever quite few in Saga Feature List_7.5.x_L3\nOur positioning is clearly on Marvell L2+ solutions now and will keep investing to enrich the feature set\nIn other words, we basically adopt  a “let it be” attitude for most L3 models due to ROI, demand and after-sales support effort\n2.2 So based on 2.1, let us have a quick review of the requested features\nStacking\nUSB Port\nOOB Management\nDual PSU\nStatic routing\nOSPF\nVRRP\nECMP\nBGP\nIS-IS\nVRF\nMPLS\nSome features are already available on L3 models, but mostly unavailable\nIt takes too much to develop those features, we are not seeing a decent economic return based on our client pool though we clearly know Enterprise-Grade Layer 3 products are booming in demand\n2.3 In the last 6 months, we are suffering the soaring prices of RAM/DDR and PCB boards\nThis trend is spreading and impacting our operating cash inflows\nIt is more practical for us to make some progress on exiting L2+ switching features and client base\nCounter-Solution\n1 A quick test and promotion about our AC5 ready models\nThis will help understand new features and adjust marketing direction\n2 Review our updated L3 feature list and collect feedback from your client sides\nThough we know those features mentioned above are almost all in need\nWe are also collecting new feedback from our client pool and put the necessary features on the list\n3 Evaluate if CENTEC solution is acceptable: all features above are readily available\nThis might be a big move in your product and marketing planning\nTill now, Saga has already fixed its chipset solutions on Marvell L2+ and CENTEC L3, this is a strategic move\nAt Angora side, it is vital to view this chipset combo, if this contrasts with your current or planned business line\nOnce benchmarked, it will be a long journey\nOr preferably just keep CENTEC L3 as an option or for project use\nOur roadmap\n[页眉页脚]\nSaga Telecom\nwww.sagatele.com\nAn Engineering & Supply-Chain-First Telecom Partner\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Reply on “SAGA Enterprise L3 Recommendation Report”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Date: 2026.08.17"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Background"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1 After previous discussions, our Marvell solutions have fully shifted from AC3 series to AC5 series"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga will NOT update AC3 firmware and related R&D, and will only do technical supportive work for this series"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"lite-hotfix-7.3.13 is the last version which I shared and believed that you have integrated it to your NMS system"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1 Our work is now and will be centered on AC5 series, covering R&D, marketing and stock etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This will be long-term chip category and guarantee continuous supply"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The period is for at least 5 years"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2.1 Currently our technical resources are poured into L2+ switching solutions, including commercial and industrial level models."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"As seen in the feature list: Saga Feature List_7.5.x_L2+, there are some new updates"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"However quite few in Saga Feature List_7.5.x_L3"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Our positioning is clearly on Marvell L2+ solutions now and will keep investing to enrich the feature set"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"In other words, we basically adopt  a “let it be” attitude for most L3 models due to ROI, demand and after-sales support effort"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2.2 So based on 2.1, let us have a quick review of the requested features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Stacking"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"USB Port"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OOB Management"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Dual PSU"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Static routing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OSPF"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"VRRP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"ECMP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"BGP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IS-IS"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"VRF"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MPLS"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Some features are already available on L3 models, but mostly unavailable"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It takes too much to develop those features, we are not seeing a decent economic return based on our client pool though we clearly know Enterprise-Grade Layer 3 products are booming in demand"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2.3 In the last 6 months, we are suffering the soaring prices of RAM/DDR and PCB boards"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This trend is spreading and impacting our operating cash inflows"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is more practical for us to make some progress on exiting L2+ switching features and client base"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Counter-Solution"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1 A quick test and promotion about our AC5 ready models"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This will help understand new features and adjust marketing direction"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2 Review our updated L3 feature list and collect feedback from your client sides"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Though we know those features mentioned above are almost all in need"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We are also collecting new feedback from our client pool and put the necessary features on the list"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3 Evaluate if CENTEC solution is acceptable: all features above are readily available"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This might be a big move in your product and marketing planning"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Till now, Saga has already fixed its chipset solutions on Marvell L2+ and CENTEC L3, this is a strategic move"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"At Angora side, it is vital to view this chipset combo, if this contrasts with your current or planned business line"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Once benchmarked, it will be a long journey"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Or preferably just keep CENTEC L3 as an option or for project use"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Our roadmap"
+}
+],
+"extracted_at":"2026-10-22T07:36:51Z"
+}

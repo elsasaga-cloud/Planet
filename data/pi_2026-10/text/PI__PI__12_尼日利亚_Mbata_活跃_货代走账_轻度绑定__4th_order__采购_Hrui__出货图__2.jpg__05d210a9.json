@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__4th_order__采购_Hrui__出货图__2.jpg__05d210a9",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/4th order/采购_Hrui/出货图/2.jpg",
+"name":"2.jpg",
+"ext":".jpg",
+"bytes":769380,
+"sha256":"05d210a9010f5e1d7055f3b86684593a4afabd2ac4ac55c640aa1c7b9d1979a9",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":1920,
+"height":1080,
+"mode":"RGB",
+"thumb_bytes":7782
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T08:01:15Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__4th_order__采购_Hrui__出货图__2.jpg__05d210a9.jpg"
+}

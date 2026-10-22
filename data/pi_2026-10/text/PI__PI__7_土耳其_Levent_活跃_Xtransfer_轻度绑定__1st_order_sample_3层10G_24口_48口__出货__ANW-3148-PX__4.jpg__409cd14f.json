@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__1st_order_sample_3层10G_24口_48口__出货__ANW-3148-PX__4.jpg__409cd14f",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/1st order sample  3层10G 24口 48口/出货/ANW-3148-PX/4.jpg",
+"name":"4.jpg",
+"ext":".jpg",
+"bytes":255686,
+"sha256":"409cd14f658bcc4f7a77c74c5f7b56b17ce5eb664f627c513b615bfb7563ca2b",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1706,
+"height":1279,
+"mode":"RGB",
+"thumb_bytes":5613
+},
+"warnings":[],
+"chars":17,
+"text":"Commercial Switch",
+"extracted_at":"2026-10-22T07:39:18Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__1st_order_sample_3层10G_24口_48口__出货__ANW-3148-PX__4.jpg__409cd14f.jpg"
+}

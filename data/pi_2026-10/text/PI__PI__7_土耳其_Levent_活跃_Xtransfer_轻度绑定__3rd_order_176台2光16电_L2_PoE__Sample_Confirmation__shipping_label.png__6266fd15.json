@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__3rd_order_176台2光16电_L2_PoE__Sample_Confirmation__shipping_label.png__6266fd15",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/3rd order 176台2光16电 L2 PoE/Sample Confirmation/shipping label.png",
+"name":"shipping label.png",
+"ext":".png",
+"bytes":14068,
+"sha256":"6266fd156edd6660be52f75a19e367087193dd70aa6283cbd1621e781bf39bba",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":549,
+"height":548,
+"mode":"RGBA",
+"thumb_bytes":9146
+},
+"warnings":[],
+"chars":91,
+"text":"LA\nANGORA NETWORKS\nModel: ANW-2116-PG\nQty.: 8PCS Ill HUM\nWeight: 12.4 KG\nCarton No.: 1 / 23",
+"extracted_at":"2026-10-22T07:40:42Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__3rd_order_176台2光16电_L2_PoE__Sample_Confirmation__shipping_label.png__6266fd15.jpg"
+}

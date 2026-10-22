@@ -1,0 +1,24 @@
+{
+"id":"PI__PI__5_印度_Rajesh_gg__发货__1.jpg__17234616",
+"path":"PI/PI/5 印度 Rajesh gg/发货/1.jpg",
+"name":"1.jpg",
+"ext":".jpg",
+"bytes":5043345,
+"sha256":"172346163461a9c1a6ec4825d59ea79cb88d9d42b3e3e24bdc061ac0920158a9",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":4624,
+"height":3468,
+"mode":"RGB",
+"software":"MediaTek Camera Application\u0000\u0000\u0000\u0000",
+"thumb_bytes":10847
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:29:48Z",
+"thumb":"thumbs/PI__PI__5_印度_Rajesh_gg__发货__1.jpg__17234616.jpg"
+}

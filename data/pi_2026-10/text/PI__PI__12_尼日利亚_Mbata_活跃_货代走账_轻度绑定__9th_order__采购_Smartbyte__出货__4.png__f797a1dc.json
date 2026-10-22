@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__9th_order__采购_Smartbyte__出货__4.png__f797a1dc",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/9th order/采购_Smartbyte/出货/4.png",
+"name":"4.png",
+"ext":".png",
+"bytes":10347,
+"sha256":"f797a1dc27a219b46cb6040630f6877bf1b0a16d07d36d5a024c6e8f0208525e",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":874,
+"height":553,
+"mode":"RGB",
+"thumb_bytes":4638
+},
+"warnings":[],
+"chars":14,
+"text":"BNSC-4168XGGCM",
+"extracted_at":"2026-10-22T08:03:02Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__9th_order__采购_Smartbyte__出货__4.png__f797a1dc.jpg"
+}

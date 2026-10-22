@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__1st_order_sample__出货__8.jpg__149a89a3",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/1st order sample/出货/8.jpg",
+"name":"8.jpg",
+"ext":".jpg",
+"bytes":174177,
+"sha256":"149a89a378c76f3e2d5aaf9a6b25899bcd876ba47424ef741d08f5f0d165af81",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":1706,
+"height":1279,
+"mode":"RGB",
+"thumb_bytes":11496
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:58:00Z",
+"thumb":"thumbs/PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__1st_order_sample__出货__8.jpg__149a89a3.jpg"
+}

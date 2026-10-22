@@ -1,0 +1,25 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__2nd_order_sample__WE02412021287_加拿大_入仓标签.PDF__8b2cc41a",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/2nd order sample/WE02412021287 加拿大 入仓标签.PDF",
+"name":"WE02412021287 加拿大 入仓标签.PDF",
+"ext":".pdf",
+"bytes":29017,
+"sha256":"8b2cc41a5aafdd0dc03e882d0198d479116b8bf858b81cbf7cb6ffe6d2cd4f5a",
+"source":"PI.zip",
+"method":"pdfplumber",
+"status":"ok",
+"meta":{
+"pages":1,
+"creator":"PDFsharp 1.50.5147 (www.pdfsharp.com)",
+"producer":"PDFsharp 1.50.5147 (www.pdfsharp.com)",
+"creationdate":"D:20241230105133+08'00'",
+"ocr_pages":0
+},
+"warnings":[],
+"chars":129,
+"text":"[p1]\nBSA01907\nEUB19 大大陆陆UPS红红单单_B-1\n国国际际快快递递\n加加急急\n→\n深深圳圳市市 CA,加加拿拿大大\n货物类型 普普货货\n服 务\n收货地址：深圳市宝安区凤塘大道141号大洋田工业\n区第8-9栋（导航百运网分拔中心）\n1-1",
+"pages":[
+"BSA01907\nEUB19 大大陆陆UPS红红单单_B-1\n国国际际快快递递\n加加急急\n→\n深深圳圳市市 CA,加加拿拿大大\n货物类型 普普货货\n服 务\n收货地址：深圳市宝安区凤塘大道141号大洋田工业\n区第8-9栋（导航百运网分拔中心）\n1-1"
+],
+"extracted_at":"2026-10-22T07:56:38Z"
+}

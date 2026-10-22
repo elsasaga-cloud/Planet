@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__1st_order__货款支付记录.jpg__02733e9c",
+"path":"PI/PI/6 美国 Thu 可发展/1st order/货款支付记录.jpg",
+"name":"货款支付记录.jpg",
+"ext":".jpg",
+"bytes":69859,
+"sha256":"02733e9cd51cb0cb1c333f3e6b2fe8c065ba6b98f8a5ecc929ae7ed8f28dd3e3",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":5059
+},
+"warnings":[],
+"chars":286,
+"text":"5:48 atl 4G 上 2\n< 转账 记录 查询 Oo ©\n一 网 通 所 有 銀行 卡 ~ 本 月 ~\n以 输入 姓名 /卡号 /手机 号 / 附 言 搜索\n转 出 记录\nBite ( 尾 号 6004) - 半 2,496.00\n今天 17:47 已 汇 出\nSs\nSs Bie (56004) - ¥ 524.00\n04.22 14:37 已 汇 出\n1、 您 可 選擇 一 卡 通 、 交 易 時 間 , 查詢 該 卡 在 指定 交易 時 間 段 內\n的 自 助 轉 賬 記 錄 。\n2、 如 需 查询 距 今年 以 上 的 转账 记录 ， 请 前 往 收 支",
+"extracted_at":"2026-10-22T07:33:29Z",
+"thumb":"thumbs/PI__PI__6_美国_Thu_可发展__1st_order__货款支付记录.jpg__02733e9c.jpg"
+}

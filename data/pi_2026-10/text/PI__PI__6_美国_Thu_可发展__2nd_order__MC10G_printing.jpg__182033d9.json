@@ -1,0 +1,24 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__2nd_order__MC10G_printing.jpg__182033d9",
+"path":"PI/PI/6 美国 Thu 可发展/2nd order/MC10G printing.jpg",
+"name":"MC10G printing.jpg",
+"ext":".jpg",
+"bytes":4013272,
+"sha256":"182033d9af821f5c71616c9d9f1183a65dcb29b6a24384e661d2c80531d27a93",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":4096,
+"height":3072,
+"mode":"RGB",
+"software":"FOA-AL00 4.0.0.113(C00E112R4P2)",
+"thumb_bytes":10728
+},
+"warnings":[],
+"chars":80,
+"text":"Ethernet 10G Base-TX to Ethernet 10G SFP Conversion\n10G Ethernet Media Converter",
+"extracted_at":"2026-10-22T07:32:40Z",
+"thumb":"thumbs/PI__PI__6_美国_Thu_可发展__2nd_order__MC10G_printing.jpg__182033d9.jpg"
+}

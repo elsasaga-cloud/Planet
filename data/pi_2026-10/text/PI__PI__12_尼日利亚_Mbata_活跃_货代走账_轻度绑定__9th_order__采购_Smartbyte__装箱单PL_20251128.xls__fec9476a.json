@@ -1,0 +1,127 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__9th_order__采购_Smartbyte__装箱单PL_20251128.xls__fec9476a",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/9th order/采购_Smartbyte/装箱单PL 20251128.xls",
+"name":"装箱单PL 20251128.xls",
+"ext":".xls",
+"bytes":28672,
+"sha256":"fec9476a7c50822a01050abba2db34dcf00ff6e37a6154bc6c9b20a621796069",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Sheet1",
+"Sheet2",
+"Sheet3"
+],
+"rows_total":19
+},
+"warnings":[],
+"chars":1051,
+"text":"--- Sheet: Sheet1 ---\nHuizhou SmartByte Technology Co.,Ltd\nPACKING  LIST\nINVOICE NO.:\nConsigner: Huizhou SmartByte Technology Co.,Ltd\nAdd.:8th floor, Building 1, Liheyouke Innovation Base, Zhenlong Town, Huiyang District, Huizhou City\nTel:+ 86-137-1429-3521\nAttn: peter\nConsignee:郑州仨戛通讯器材有限公司\nAdd: 郑州市管城区航海路中州大道富田太阳城 57号楼22层316\nTel:  86 15237149683\nAttn: Simon\nGOODS DELIVER TO: Shenzhen\nCarton No.\tItem\tDescription\tQTY\n(pcs)\tN/W\n(kg)\tG/W\n(kg)\tDimension(CBM)\n#1\tNetstream- 42410G280W L2+\tL2+ managed ethernet switch, 24*10/100/1000Base-T PoE + 4*1G/2.5G/10G SFP\t5\t16.7\t17.7\t53.5*49.5*30=0.08\n#2\tNetstream- 42410G280W L2+\tL2+ managed ethernet switch, 24*10/100/1000Base-T PoE + 4*1G/2.5G/10G SFP\t2\t6.2\t7.2\t53.5*20.5*30=0.03\n#3\tNetstream- 42410G280W L2+\tL2+ managed ethernet switch, 24*10/100/1000Base-T PoE + 4*1G/2.5G/10G SFP\t1\t6.9\t7.9\t53.5*20.5*40.8=0.04\n\tBNSC-4168XGGCM\tL2+ managed ethernet switch, 8*1G SFP/RJ45 Combo + 16*1G SFP + 4*1G/2.5G/10G SFP\t1\nTOTAL\t\t3 Cartons\t9\t29.8\t32.8\t0.15CBM\n\t\tSign & Stamp:\n--- Sheet: Sheet2 ---\n--- Sheet: Sheet3 ---",
+"sheets":{
+"Sheet1":{
+"rows":[
+[
+"Huizhou SmartByte Technology Co.,Ltd"
+],
+[
+"PACKING  LIST"
+],
+[
+"INVOICE NO.:"
+],
+[
+"Consigner: Huizhou SmartByte Technology Co.,Ltd"
+],
+[
+"Add.:8th floor, Building 1, Liheyouke Innovation Base, Zhenlong Town, Huiyang District, Huizhou City"
+],
+[
+"Tel:+ 86-137-1429-3521"
+],
+[
+"Attn: peter"
+],
+[
+"Consignee:郑州仨戛通讯器材有限公司"
+],
+[
+"Add: 郑州市管城区航海路中州大道富田太阳城 57号楼22层316"
+],
+[
+"Tel:  86 15237149683"
+],
+[
+"Attn: Simon"
+],
+[
+"GOODS DELIVER TO: Shenzhen"
+],
+[
+"Carton No.",
+"Item",
+"Description",
+"QTY\n(pcs)",
+"N/W\n(kg)",
+"G/W\n(kg)",
+"Dimension(CBM)"
+],
+[
+"#1",
+"Netstream- 42410G280W L2+",
+"L2+ managed ethernet switch, 24*10/100/1000Base-T PoE + 4*1G/2.5G/10G SFP",
+"5",
+"16.7",
+"17.7",
+"53.5*49.5*30=0.08"
+],
+[
+"#2",
+"Netstream- 42410G280W L2+",
+"L2+ managed ethernet switch, 24*10/100/1000Base-T PoE + 4*1G/2.5G/10G SFP",
+"2",
+"6.2",
+"7.2",
+"53.5*20.5*30=0.03"
+],
+[
+"#3",
+"Netstream- 42410G280W L2+",
+"L2+ managed ethernet switch, 24*10/100/1000Base-T PoE + 4*1G/2.5G/10G SFP",
+"1",
+"6.9",
+"7.9",
+"53.5*20.5*40.8=0.04"
+],
+[
+"",
+"BNSC-4168XGGCM",
+"L2+ managed ethernet switch, 8*1G SFP/RJ45 Combo + 16*1G SFP + 4*1G/2.5G/10G SFP",
+"1"
+],
+[
+"TOTAL",
+"",
+"3 Cartons",
+"9",
+"29.8",
+"32.8",
+"0.15CBM"
+],
+[
+"",
+"",
+"Sign & Stamp:"
+]
+]
+},
+"Sheet2":{
+"rows":[]
+},
+"Sheet3":{
+"rows":[]
+}
+},
+"extracted_at":"2026-10-22T08:02:20Z"
+}

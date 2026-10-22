@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__货款支付记录.png__54469ef5",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/2nd order/货款支付记录.png",
+"name":"货款支付记录.png",
+"ext":".png",
+"bytes":97677,
+"sha256":"54469ef51a7bd0e72baa64a4c1520310f3395408a4b1b0c7b652f86ce8418005",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":5920
+},
+"warnings":[],
+"chars":227,
+"text":"9:40 all SE\n< 轉 賬 記 錄 查 詢 Oo ©\n轉 給 羅 泛\n-¥ 8,460.00\n收 款 账 户 6214 3913 3000 0617 588\n收 款 银行 东莞 银行\n付款 賬戶 6214********+1962\n转账 附 言 转账\n转账 渠道 手机 银行\n转账 方式 电子 银行 转账\n@ 转账 完成 进度 查询\n2025-02-20 09:40:38\n通知 收 款 人\n查看 和 TA 的 转账 记录\n再 转 一 笔\nTAA",
+"extracted_at":"2026-10-22T07:51:51Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__货款支付记录.png__54469ef5.jpg"
+}

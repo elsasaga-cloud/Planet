@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__4th_order_sample_2层10G_24口_48口__awb.png__2ed04ec1",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/4th order sample  2层10G 24口 48口/awb.png",
+"name":"awb.png",
+"ext":".png",
+"bytes":56187,
+"sha256":"2ed04ec1ce0b4fa85a55262d12a8a5c22785ec95b4525a9d71ba98bf452eeeba",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":465,
+"height":497,
+"mode":"RGBA",
+"thumb_bytes":27821
+},
+"warnings":[],
+"chars":245,
+"text":"SHIP TO:\n-TIC, SAN. A.S./LEVENT KILIC\n903122417747\nANGORA NETWORKS BILISIM TEKNOLOJI-\nID:STSC20250507007 06200\nNM A ea NO:20 Z- tu\nH. ANADOLU B'\n06200 YENIMAHALLE ANKARA TR\nTUR 210 9-88\nao\n2 MIMI\nOPS SAVER\nTRACKING #: 1Z 144 AW7 04 2736 8491 1 P",
+"extracted_at":"2026-10-22T07:44:21Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__4th_order_sample_2层10G_24口_48口__awb.png__2ed04ec1.jpg"
+}

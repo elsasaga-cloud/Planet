@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__16_美国_John_PayPal_gg__Shipment_Info__3.jpg__9d47fc94",
+"path":"PI/PI/16 美国 John PayPal gg/Shipment Info/3.jpg",
+"name":"3.jpg",
+"ext":".jpg",
+"bytes":195446,
+"sha256":"9d47fc9428b33a750799d8e1140234b6a0b17aab6cfbcc45d8a67389c2f4d452",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":1920,
+"height":1080,
+"mode":"RGB",
+"thumb_bytes":10911
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:29:23Z",
+"thumb":"thumbs/PI__PI__16_美国_John_PayPal_gg__Shipment_Info__3.jpg__9d47fc94.jpg"
+}

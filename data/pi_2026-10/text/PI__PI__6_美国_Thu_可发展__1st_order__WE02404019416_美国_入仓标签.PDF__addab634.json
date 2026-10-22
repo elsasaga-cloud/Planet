@@ -1,0 +1,25 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__1st_order__WE02404019416_美国_入仓标签.PDF__addab634",
+"path":"PI/PI/6 美国 Thu 可发展/1st order/WE02404019416 美国 入仓标签.PDF",
+"name":"WE02404019416 美国 入仓标签.PDF",
+"ext":".pdf",
+"bytes":29681,
+"sha256":"addab634d3a36806e280e478564a42a7bc23e396823acb7dbfe50f3fa042b2a5",
+"source":"PI.zip",
+"method":"pdfplumber",
+"status":"ok",
+"meta":{
+"pages":1,
+"creator":"PDFsharp 1.50.5147 (www.pdfsharp.com)",
+"producer":"PDFsharp 1.50.5147 (www.pdfsharp.com)",
+"creationdate":"D:20240426093058+08'00'",
+"ocr_pages":0
+},
+"warnings":[],
+"chars":143,
+"text":"[p1]\nBSA00002 SE2404030024\nH-17 深深圳圳UPS蓝蓝单单-欧欧美美\n国国际际快快递递\n亚亚6\n→\n深深圳圳市市 US,美美国国\n货物类型 普普货货\n服 务\n收货地址：深圳市宝安区凤塘大道141号大洋田工\n业区第8-9栋（导航中技物流百运网分拔中心）\n1-1",
+"pages":[
+"BSA00002 SE2404030024\nH-17 深深圳圳UPS蓝蓝单单-欧欧美美\n国国际际快快递递\n亚亚6\n→\n深深圳圳市市 US,美美国国\n货物类型 普普货货\n服 务\n收货地址：深圳市宝安区凤塘大道141号大洋田工\n业区第8-9栋（导航中技物流百运网分拔中心）\n1-1"
+],
+"extracted_at":"2026-10-22T07:33:05Z"
+}

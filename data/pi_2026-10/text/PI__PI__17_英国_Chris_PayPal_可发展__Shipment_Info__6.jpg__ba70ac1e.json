@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__17_英国_Chris_PayPal_可发展__Shipment_Info__6.jpg__ba70ac1e",
+"path":"PI/PI/17 英国 Chris PayPal 可发展/Shipment Info/6.jpg",
+"name":"6.jpg",
+"ext":".jpg",
+"bytes":229975,
+"sha256":"ba70ac1e0e1a65f7b020d58073174ec19f0f12aa20a7ffbfd1d2fe292698db67",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1920,
+"height":1080,
+"mode":"RGB",
+"thumb_bytes":9187
+},
+"warnings":[],
+"chars":517,
+"text":"SIOB5IPUL\npunpas O/OV\nfqpuaty-0d\nae e\n» yromjou Sv yons US S Ae 5\na 加 mo。 pur AIADoaUuC\nAUV @\nSuIZIIHn you /\nlop go aunyxilu @ oul\nuonvonddy\nK BIN 10S |\n(AdoD DsluUdDIenueW\n(ioyoauuoo Spr 91 区 同\nOSI g]oy SuUNOW paIEUS)I95UBH ITB/ kk\noo laqg[lonpold am 29S)YOUMS «1\n]SIT Supe\nApodord enueur iasn ad dsay 0} pestApe st I] e\n! “paseyoind jonpoid\n加 em 0 19J01 aseald “uoneuuiojur lelouoa lnoqe\nXINO St jenuew SI} Ul paquiosap WonetuioJul sul @\nBauoo pur ayes 40} lenueuu Isn sty peor 3Seeld\naseyoind InoA 104 syuey) Aueyy",
+"extracted_at":"2026-10-22T07:59:58Z",
+"thumb":"thumbs/PI__PI__17_英国_Chris_PayPal_可发展__Shipment_Info__6.jpg__ba70ac1e.jpg"
+}

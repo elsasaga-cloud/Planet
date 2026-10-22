@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__3rd_order__采购_Smartbyte__发货图片__6.jpg__c88bfe9f",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/3rd order/采购_Smartbyte/发货图片/6.jpg",
+"name":"6.jpg",
+"ext":".jpg",
+"bytes":770981,
+"sha256":"c88bfe9fe606c2caf409644e6933168dd11b9edcac677a4cfeb233d2133e897a",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1920,
+"height":1080,
+"mode":"RGB",
+"thumb_bytes":9992
+},
+"warnings":[],
+"chars":11,
+"text":"4 和 AhATRIX",
+"extracted_at":"2026-10-22T08:04:14Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__3rd_order__采购_Smartbyte__发货图片__6.jpg__c88bfe9f.jpg"
+}

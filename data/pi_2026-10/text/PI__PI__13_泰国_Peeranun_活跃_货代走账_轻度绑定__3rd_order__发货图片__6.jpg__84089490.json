@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__3rd_order__发货图片__6.jpg__84089490",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/3rd order/发货图片/6.jpg",
+"name":"6.jpg",
+"ext":".jpg",
+"bytes":37595,
+"sha256":"840894905712317b879242ca2aa6d1b4399efbe4201094dcca6550a4b0329079",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":572,
+"height":551,
+"mode":"RGB",
+"thumb_bytes":13818
+},
+"warnings":[],
+"chars":197,
+"text":"Product name: Industrial Switch\nModel: STI-21616GP\nQty.: 2 PCS Ill 間 M\nSN:\nFROM: ___|IIIIMMMIIIIIMIIIIU I\n202509050001\nTO: UUUIAQAUTA UU a\n202509050002\nWeight: 3.1 KG\n31*23.5*18.5CM\nCarton No.: 1/1",
+"extracted_at":"2026-10-22T07:55:04Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__3rd_order__发货图片__6.jpg__84089490.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__外箱箱标__label_4.png__744bd366",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/2nd order/发货图片/外箱箱标/label 4.png",
+"name":"label 4.png",
+"ext":".png",
+"bytes":26337,
+"sha256":"744bd366f4b25ff9432c449913bb23451b4b3f2cd341d5ee16f747ac5b48a82e",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":585,
+"height":598,
+"mode":"RGBA",
+"thumb_bytes":16450
+},
+"warnings":[],
+"chars":168,
+"text":"Product name: Industrial Switch\nModel: STI-21616DGGPM\nQty.:2 PCS IIIT\n2\nSN:\nFROM: | [I[IIIIIIINIMIMINIIIU\n20250214001\nTO: ENET\n20250214002\nWeight: 3 KG\nCarton No.: 1 /2",
+"extracted_at":"2026-10-22T07:52:37Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__外箱箱标__label_4.png__744bd366.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__label_format.jpg__a3952a3a",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/2nd order sample 2层10G 16口 2光8管理/label format.jpg",
+"name":"label format.jpg",
+"ext":".jpg",
+"bytes":2283119,
+"sha256":"a3952a3a27a2fa0de55ecf29361dc06fb7b573e89f2399c2aafd7f67033bbaab",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":2080,
+"height":4624,
+"mode":"RGB",
+"thumb_bytes":8949
+},
+"warnings":[],
+"chars":156,
+"text":"SORA NETWORKS\nSERIES ETHERNET SWITCHES\nVERGE\nMODEL: ANW-2116-PG\nPOWER: 240W\nINPUT: 220V\nNNN UN NQ00 0 0 MT\nAVYN241023123008AE\nMAC ADDRESS: 98:06:37:A0:57:03",
+"extracted_at":"2026-10-22T07:42:06Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__label_format.jpg__a3952a3a.jpg"
+}

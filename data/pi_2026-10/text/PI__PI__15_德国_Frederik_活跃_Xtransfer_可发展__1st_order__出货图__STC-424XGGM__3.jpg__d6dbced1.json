@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__1st_order__出货图__STC-424XGGM__3.jpg__d6dbced1",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/1st order/出货图/STC-424XGGM/3.jpg",
+"name":"3.jpg",
+"ext":".jpg",
+"bytes":887149,
+"sha256":"d6dbced1f806ac4e7c57f3370f703e9752791b63a54787fe8e640d9bb1da8331",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1920,
+"height":1080,
+"mode":"RGB",
+"thumb_bytes":9413
+},
+"warnings":[],
+"chars":258,
+"text":"Commercial Switch\nModel: STC-424XGGM\nPorts: 24*10/100/1000M RJ45 + 4*1G/2.5G/10G SFP+\nPower supply: Dual AC input. 100~240V\nChipset: Marvell Based\nTI\nSN: 20241202001 全\nHS\n|\nCOMPLIANY,\nMAC: FC-CD-2F-D0-45-9A User name: admin\nIP: 192.168.56.166\nPassword: admin",
+"extracted_at":"2026-10-22T07:34:27Z",
+"thumb":"thumbs/PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__1st_order__出货图__STC-424XGGM__3.jpg__d6dbced1.jpg"
+}

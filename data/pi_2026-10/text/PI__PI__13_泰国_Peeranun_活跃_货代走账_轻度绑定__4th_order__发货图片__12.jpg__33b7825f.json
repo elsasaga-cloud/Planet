@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__4th_order__发货图片__12.jpg__33b7825f",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/4th order/发货图片/12.jpg",
+"name":"12.jpg",
+"ext":".jpg",
+"bytes":141257,
+"sha256":"33b7825fe4671d803ba54a6cdd15d20a04cb45f61f5b8d73563096a824522c8d",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":807,
+"height":1280,
+"mode":"RGB",
+"thumb_bytes":7219
+},
+"warnings":[],
+"chars":100,
+"text":"On=tnk Flashing=ACT 1-8 Port: © 10/100/1000M @256 9port © 2.56 @10G\npilin\n10/100/1000M/2.56 PoE Port",
+"extracted_at":"2026-10-22T07:51:34Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__4th_order__发货图片__12.jpg__33b7825f.jpg"
+}

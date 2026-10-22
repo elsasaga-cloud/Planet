@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__9th_order__采购_Smartbyte__出货__2.png__84e51a06",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/9th order/采购_Smartbyte/出货/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":12521,
+"sha256":"84e51a06c915e52abfc743f21cb16b5ff89f549c746d1f086e925b583cbf9790",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":886,
+"height":555,
+"mode":"RGB",
+"thumb_bytes":4704
+},
+"warnings":[],
+"chars":24,
+"text":"Netstream-42410G280W L2+",
+"extracted_at":"2026-10-22T08:02:50Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__9th_order__采购_Smartbyte__出货__2.png__84e51a06.jpg"
+}

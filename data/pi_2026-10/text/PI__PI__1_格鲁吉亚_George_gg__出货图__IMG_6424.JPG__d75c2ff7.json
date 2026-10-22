@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__1_格鲁吉亚_George_gg__出货图__IMG_6424.JPG__d75c2ff7",
+"path":"PI/PI/1 格鲁吉亚 George gg/出货图/IMG_6424.JPG",
+"name":"IMG_6424.JPG",
+"ext":".jpg",
+"bytes":2086225,
+"sha256":"d75c2ff77c6bed6737a77be88cbe3af0f284125d446793ca825d7c57df83044b",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":4032,
+"height":3024,
+"mode":"RGB",
+"thumb_bytes":13485
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:28:48Z",
+"thumb":"thumbs/PI__PI__1_格鲁吉亚_George_gg__出货图__IMG_6424.JPG__d75c2ff7.jpg"
+}

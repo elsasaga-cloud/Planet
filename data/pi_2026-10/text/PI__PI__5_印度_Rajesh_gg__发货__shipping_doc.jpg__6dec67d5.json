@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__5_印度_Rajesh_gg__发货__shipping_doc.jpg__6dec67d5",
+"path":"PI/PI/5 印度 Rajesh gg/发货/shipping doc.jpg",
+"name":"shipping doc.jpg",
+"ext":".jpg",
+"bytes":25845,
+"sha256":"6dec67d5cc411bd1dab1fdf75224ef934d383dc1c9facb2671852f7957ff307b",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":399,
+"height":334,
+"mode":"RGB",
+"thumb_bytes":19281
+},
+"warnings":[],
+"chars":422,
+"text":"TO Rajesh GSTINIUIN : 09AACCU4195M1Z 919599195091\nUNITED CONTROL ENGINEERS INDIA PVT.\n4 Ecotech 3 Greater Uttar Pradesh ae\nOrder ID:STSC20240416005 中\nNOIDA, UP 201306 (IN) :\nYB NDCA\nPKG: YOUR PKG\nTRK# 2738 0221 6228 ae\nAA\nREF: 02404015504\nDESC1:Metal Industrial Switch /USE FOR-Data exchange and optical t\nLa Industrial Switch /USE FOR-Data exchange and optical t\n-LTD. | Plot No.218 Udyog Kendra * Fedxx\nAWB\nIP EOD\nDESC4:",
+"extracted_at":"2026-10-22T07:30:01Z",
+"thumb":"thumbs/PI__PI__5_印度_Rajesh_gg__发货__shipping_doc.jpg__6dec67d5.jpg"
+}

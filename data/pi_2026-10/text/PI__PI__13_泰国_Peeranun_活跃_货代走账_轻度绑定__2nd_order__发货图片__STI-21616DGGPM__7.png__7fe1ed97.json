@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__STI-21616DGGPM__7.png__7fe1ed97",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/2nd order/发货图片/STI-21616DGGPM/7.png",
+"name":"7.png",
+"ext":".png",
+"bytes":108671,
+"sha256":"7fe1ed97c98449ae5678140dc1725387f84dcee85eb480bda4d0cae8f5b278c5",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1920,
+"height":1080,
+"mode":"RGBA",
+"thumb_bytes":3969
+},
+"warnings":[],
+"chars":165,
+"text":"@_ | FZ togin- switch x | 十\n€ C 0 & 192.168.56.166/#/login?redirect=/monitor/dashboard mW @a =\nAA veerunk\nSTI-21616DGGPM\nManaged Ethernet Switch\n[ER\n[ se\nLogin Clear",
+"extracted_at":"2026-10-22T07:52:52Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__STI-21616DGGPM__7.png__7fe1ed97.jpg"
+}

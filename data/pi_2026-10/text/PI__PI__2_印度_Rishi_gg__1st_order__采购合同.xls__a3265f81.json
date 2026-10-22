@@ -1,0 +1,151 @@
+{
+"id":"PI__PI__2_印度_Rishi_gg__1st_order__采购合同.xls__a3265f81",
+"path":"PI/PI/2 印度 Rishi gg/1st order/采购合同.xls",
+"name":"采购合同.xls",
+"ext":".xls",
+"bytes":50176,
+"sha256":"a3265f81ab2f287c2d91fa3ae1372213d86ab7e9a2dbde88faddcb527805b8d8",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"采购合同"
+],
+"rows_total":27
+},
+"warnings":[],
+"chars":1107,
+"text":"--- Sheet: 采购合同 ---\n郑州仨戛通讯器材有限公司\n地址: 郑州市管城区航海路中州大道富田太阳城57号楼22层316\n电话: 86 15237149683                                          www.sagatelecom.com.cn                       Email: s.sagatelecom@gmail.com\n********************************************************************************************************************\n采购合同\n买方:\t郑州仨戛通讯器材有限公司\nZhengzhou Saga Telecom Co., Ltd.\n地址：\t郑州市管城区航海路中州大道富田太阳城57号楼22层316\nRoom 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\n采购订单编号\tSTSC20230927002\n电话:\t86 15237149683\n邮箱\ts.sagatelecom@gmail.com\n联系人:\tSimon\n卖方:\t宁波雪海光电科技有限公司\n地址：\tAdd.: Room 305, Building 9th, Zhong Chuang Science and Technology Park, No. 818, Jinyuan Road, Yinzhou District, Ningbo City, Zhejiang, China, 315105\n联系人:\tLeon/86 150 5888 9026\n订单日期:\t28th, Sept, 2023\n付款条款\t工厂直发，款到生产，不包邮\n发货地址\t广东省深圳市宝安区石岩街道石岩同富裕工业区7-4栋214\n产品编号\t品名规格\t\t\t数量 \n(个)\t单价\n(RMB)\t小计\n(Sub-total)\nSC\t光纤接头和光纤适配器清洁笔, 2.5mm\t\t\t40\t19.75\t790\nLC\t光纤接头和光纤适配器清洁笔, 1.25mm\t\t\t40\t19.75\t790\n运费\t\t\t\t\t\t15.05\n备注\t需提供测试或使用视频，确保产品质量OK\nTOTAL\t\t\t\t80\t\t1595.05\n买方: 郑州仨戛通讯器材有限公司\n签字代表：程天龙(Simon Cheng)\n买方盖章\n2023.9.28",
+"sheets":{
+"采购合同":{
+"rows":[
+[
+"郑州仨戛通讯器材有限公司"
+],
+[
+"地址: 郑州市管城区航海路中州大道富田太阳城57号楼22层316"
+],
+[
+"电话: 86 15237149683                                          www.sagatelecom.com.cn                       Email: s.sagatelecom@gmail.com"
+],
+[
+"********************************************************************************************************************"
+],
+[
+"采购合同"
+],
+[
+"买方:",
+"郑州仨戛通讯器材有限公司\nZhengzhou Saga Telecom Co., Ltd."
+],
+[
+"地址：",
+"郑州市管城区航海路中州大道富田太阳城57号楼22层316\nRoom 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"采购订单编号",
+"STSC20230927002"
+],
+[
+"电话:",
+"86 15237149683"
+],
+[
+"邮箱",
+"s.sagatelecom@gmail.com"
+],
+[
+"联系人:",
+"Simon"
+],
+[
+"卖方:",
+"宁波雪海光电科技有限公司"
+],
+[
+"地址：",
+"Add.: Room 305, Building 9th, Zhong Chuang Science and Technology Park, No. 818, Jinyuan Road, Yinzhou District, Ningbo City, Zhejiang, China, 315105"
+],
+[
+"联系人:",
+"Leon/86 150 5888 9026"
+],
+[
+"订单日期:",
+"28th, Sept, 2023"
+],
+[
+"付款条款",
+"工厂直发，款到生产，不包邮"
+],
+[
+"发货地址",
+"广东省深圳市宝安区石岩街道石岩同富裕工业区7-4栋214"
+],
+[
+"产品编号",
+"品名规格",
+"",
+"",
+"数量 \n(个)",
+"单价\n(RMB)",
+"小计\n(Sub-total)"
+],
+[
+"SC",
+"光纤接头和光纤适配器清洁笔, 2.5mm",
+"",
+"",
+"40",
+"19.75",
+"790"
+],
+[
+"LC",
+"光纤接头和光纤适配器清洁笔, 1.25mm",
+"",
+"",
+"40",
+"19.75",
+"790"
+],
+[
+"运费",
+"",
+"",
+"",
+"",
+"",
+"15.05"
+],
+[
+"备注",
+"需提供测试或使用视频，确保产品质量OK"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"80",
+"",
+"1595.05"
+],
+[
+"买方: 郑州仨戛通讯器材有限公司"
+],
+[
+"签字代表：程天龙(Simon Cheng)"
+],
+[
+"买方盖章"
+],
+[
+"2023.9.28"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:31:30Z"
+}

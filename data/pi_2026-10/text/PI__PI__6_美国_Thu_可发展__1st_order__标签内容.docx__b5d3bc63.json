@@ -1,0 +1,102 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__1st_order__标签内容.docx__b5d3bc63",
+"path":"PI/PI/6 美国 Thu 可发展/1st order/标签内容.docx",
+"name":"标签内容.docx",
+"ext":".docx",
+"bytes":84012,
+"sha256":"b5d3bc63eed964d843a6a4982509330553d3e2c55086c72319245e3822919d64",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2024-04-22T03:18:00+00:00",
+"modified":"2024-04-22T06:10:10+00:00",
+"paragraphs":15,
+"tables":0,
+"embedded_images":2
+},
+"warnings":[],
+"chars":395,
+"text":"产品标签\n全部Ariel字体，字体大小看着调整就行\n36 Port Commercial Managed Ethernet Switch\n4*1G/10G SFP slots + 16*1000M SFP slots+ 8*SFP/RJ45 Combo\nInternal Power, AC100~240V, Layer 3 Managed, Marvell Based（这个一定要写）\nIP Address:192.168.56.166\nUser Name/Password:Admin\n序列号：SN: 2024012900001\n箱标\n类目：Commercial Switch\n型号：STC-4168XGGCM\n其他的按照常规的来就行了，如下图，字体请使用Ariel\n另外，这个产品标签和箱标请改一下序列号 尾部3个0（0001，0002）\n默认尾部都是3个0\n如果已经贴好了，那就算了",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"产品标签"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"全部Ariel字体，字体大小看着调整就行"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"36 Port Commercial Managed Ethernet Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4*1G/10G SFP slots + 16*1000M SFP slots+ 8*SFP/RJ45 Combo"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Internal Power, AC100~240V, Layer 3 Managed, Marvell Based（这个一定要写）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IP Address:192.168.56.166"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"User Name/Password:Admin"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"序列号：SN: 2024012900001"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"箱标"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"类目：Commercial Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"型号：STC-4168XGGCM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"其他的按照常规的来就行了，如下图，字体请使用Ariel"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"另外，这个产品标签和箱标请改一下序列号 尾部3个0（0001，0002）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"默认尾部都是3个0"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"如果已经贴好了，那就算了"
+}
+],
+"extracted_at":"2026-10-22T07:33:18Z"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__2nd_order__Shipping_label.png__41e7822b",
+"path":"PI/PI/6 美国 Thu 可发展/2nd order/Shipping label.png",
+"name":"Shipping label.png",
+"ext":".png",
+"bytes":19099,
+"sha256":"41e7822b65f188a18b462af75274b24d40635676bc3eeec93d73d4cab621e480",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":581,
+"height":593,
+"mode":"RGBA",
+"thumb_bytes":11533
+},
+"warnings":[],
+"chars":159,
+"text":"ES\nProduct name: Ethernet Media Converter Chassis\nModel: MC1400\nQty.:1Pcs IIIT\n1\nSN: TUTITEIVE TIENT TANNA WH HH\n20241120001\nWeight: 2 KG\nCarton No.: 2 /2\n和 lS",
+"extracted_at":"2026-10-22T07:32:52Z",
+"thumb":"thumbs/PI__PI__6_美国_Thu_可发展__2nd_order__Shipping_label.png__41e7822b.jpg"
+}

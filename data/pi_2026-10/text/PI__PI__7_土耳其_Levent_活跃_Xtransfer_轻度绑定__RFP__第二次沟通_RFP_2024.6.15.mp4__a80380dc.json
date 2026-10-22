@@ -1,0 +1,25 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__RFP__第二次沟通_RFP_2024.6.15.mp4__a80380dc",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/RFP/第二次沟通_RFP_2024.6.15.mp4",
+"name":"第二次沟通_RFP_2024.6.15.mp4",
+"ext":".mp4",
+"bytes":32186757,
+"sha256":"a80380dc79195387594bb63f15c4afae2dcc33aa9a0f8be3b4ddd771dd9e50b9",
+"source":"PI.zip",
+"method":"ffprobe+ffmpeg",
+"status":"meta",
+"meta":{
+"duration_s":32.3,
+"width":1914,
+"height":1004,
+"vcodec":"h264",
+"acodec":"aac",
+"creation_time":"2024-07-10T14:19:36.000000Z",
+"thumb_bytes":6243
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:41:15Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__RFP__第二次沟通_RFP_2024.6.15.mp4__a80380dc.jpg"
+}

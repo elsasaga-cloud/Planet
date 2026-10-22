@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__2nd_order__收款记录.PNG__efd6ea8b",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/2nd order/收款记录.PNG",
+"name":"收款记录.PNG",
+"ext":".png",
+"bytes":127287,
+"sha256":"efd6ea8b384ab933fbed32875b4434cec12493a4af9ac3d458c4976a69f85ecb",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":5947
+},
+"warnings":[],
+"chars":469,
+"text":"5:59 了 all > &\n《 Transaction Details\nHS >\n+4,300.00\nTransaction successful\nOrder time 2024-12-05 08:49:11\nReason for WER\nreceived\npayment\nCounterparty HBF 183******07\naccount\nOrder No. 20241205200040011100050059864\n277\nBill Management\nThis transaction made it to the top of this months\nincome list. Check out the analysis.\nTransactions Category Trans\n% nd Notes\nTranslate\nIncluded in statistics\n器\n园 View transaction r Proof of Account\necords Transactions\nfers >\nAdd >\n©",
+"extracted_at":"2026-10-22T08:01:23Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__2nd_order__收款记录.PNG__efd6ea8b.jpg"
+}

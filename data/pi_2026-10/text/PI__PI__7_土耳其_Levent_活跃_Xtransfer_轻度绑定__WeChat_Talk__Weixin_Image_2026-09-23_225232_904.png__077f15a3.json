@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__WeChat_Talk__Weixin_Image_2026-09-23_225232_904.png__077f15a3",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/WeChat Talk/Weixin Image_2026-09-23_225232_904.png",
+"name":"Weixin Image_2026-09-23_225232_904.png",
+"ext":".png",
+"bytes":2428365,
+"sha256":"077f15a34b0c472465c761e379eeafac303d814b04e1da6a254deae438f3ec06",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1547,
+"height":19619,
+"mode":"RGBA",
+"thumb_bytes":2643
+},
+"warnings":[],
+"chars":35,
+"text":"ree oui te im!\n| |\n| 圖 | |\n1 |\n人 Ii",
+"extracted_at":"2026-10-22T07:39:58Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__WeChat_Talk__Weixin_Image_2026-09-23_225232_904.png__077f15a3.jpg"
+}

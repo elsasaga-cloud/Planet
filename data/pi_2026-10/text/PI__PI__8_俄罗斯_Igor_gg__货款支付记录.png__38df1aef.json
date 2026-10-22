@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__8_俄罗斯_Igor_gg__货款支付记录.png__38df1aef",
+"path":"PI/PI/8 俄罗斯 Igor gg/货款支付记录.png",
+"name":"货款支付记录.png",
+"ext":".png",
+"bytes":133760,
+"sha256":"38df1aef5bae0089002f837573bebb2dd714a885bc812cb8f308e421bbbd4fe1",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":5078
+},
+"warnings":[],
+"chars":294,
+"text":"2:32 all\n”)\n{100}\n< 转账 记录 查询 Oo ©\n一 网 通 所 有 银行 卡 ~ 本 月 ~\n以 输入 姓名 /卡号 /手机 号 / 附 言 搜索\n转 出 记录\n本 月\nS Bie (56004) - ¥ 626.00\nSR 14:32 已 汇 出\nS Site ( 尾 号 6004) - ¥ 6,000.00\n05.14 16:38 已 汇 出\n說 明 :\n1、 您 可 選擇 一 卡 通 、 交 易 時 間 , 查詢 該 卡 在 指定 交易 時 間 段 內\n的 自助 转账 记录 。\n2、 如 需 查 询 距 今年 以 上 的 转账 记录 ， 请 前 往 收 支",
+"extracted_at":"2026-10-22T07:35:03Z",
+"thumb":"thumbs/PI__PI__8_俄罗斯_Igor_gg__货款支付记录.png__38df1aef.jpg"
+}

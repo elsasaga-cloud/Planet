@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__出货__ANW-1108-V__TT-2208-TG__Turk_Telekom_Logo__bc410008",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip.unpacked/DEGERLI HISSETTIRIR LOGO/TT DEGERLI LOGO CMYK-02.jpg",
+"name":"TT DEGERLI LOGO CMYK-02.jpg",
+"ext":".jpg",
+"bytes":206939,
+"sha256":"bc41000898890959a210abda42c19f0b44e13631b174ccd32f7075071bf870e9",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":2371,
+"height":816,
+"mode":"RGB",
+"thumb_bytes":5567
+},
+"warnings":[],
+"chars":37,
+"text":"Turk Telekorn >\n>\nDegerli Hissettirir",
+"extracted_at":"2026-10-22T07:43:24Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__出货__ANW-1108-V__TT-2208-TG__Turk_Telekom_Logo__bc410008.jpg"
+}

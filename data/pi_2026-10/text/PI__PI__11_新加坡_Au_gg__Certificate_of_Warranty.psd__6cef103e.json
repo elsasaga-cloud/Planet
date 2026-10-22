@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__11_新加坡_Au_gg__Certificate_of_Warranty.psd__6cef103e",
+"path":"PI/PI/11 新加坡 Au gg/Certificate of Warranty.psd",
+"name":"Certificate of Warranty.psd",
+"ext":".psd",
+"bytes":4718459,
+"sha256":"6cef103e4eafafb3c634a3d297bd1dc7cd6e93289e2fec09428d62940a03b5ad",
+"source":"PI.zip",
+"method":"pillow(psd composite)",
+"status":"meta",
+"meta":{
+"format":"PSD",
+"width":2480,
+"height":3508,
+"mode":"RGB",
+"thumb_bytes":14100
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:50:48Z",
+"thumb":"thumbs/PI__PI__11_新加坡_Au_gg__Certificate_of_Warranty.psd__6cef103e.jpg"
+}

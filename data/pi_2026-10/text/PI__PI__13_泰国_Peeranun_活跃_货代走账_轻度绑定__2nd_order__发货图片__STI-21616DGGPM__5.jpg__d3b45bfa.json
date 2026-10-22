@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__STI-21616DGGPM__5.jpg__d3b45bfa",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/2nd order/发货图片/STI-21616DGGPM/5.jpg",
+"name":"5.jpg",
+"ext":".jpg",
+"bytes":291729,
+"sha256":"d3b45bfac59abe5a5adbf62a7206046db271a50930138643a76bc9e0184f10dd",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1920,
+"height":1080,
+"mode":"RGB",
+"thumb_bytes":6680
+},
+"warnings":[],
+"chars":157,
+"text":"Industrial Switch [Share\nDGGPM\n1 RUSS PoE + 4*1G/2.8G SFP\nModel: STI-4:\nPower input: DC 44-57V\nmm ce Fe\n001\nAMAC FCOD\nPaseword: admin\nPAdéres\nTer name: admin",
+"extracted_at":"2026-10-22T07:52:47Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__STI-21616DGGPM__5.jpg__d3b45bfa.jpg"
+}

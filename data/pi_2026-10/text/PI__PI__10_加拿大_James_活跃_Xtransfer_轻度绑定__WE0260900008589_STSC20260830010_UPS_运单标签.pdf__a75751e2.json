@@ -1,0 +1,25 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__WE0260900008589_STSC20260830010_UPS_运单标签.pdf__a75751e2",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/WE0260900008589_STSC20260830010_UPS_运单标签.pdf",
+"name":"WE0260900008589_STSC20260830010_UPS_运单标签.pdf",
+"ext":".pdf",
+"bytes":42289,
+"sha256":"a75751e20a10a7947e199152181ee18c27099c71bbac85b43e5edae2b21141e9",
+"source":"PI.zip",
+"method":"pdfplumber+OCR(1p)",
+"status":"ok",
+"meta":{
+"pages":1,
+"producer":"iText® 5.5.0 ©2000-2013 iText Group NV (AGPL-version)",
+"creationdate":"D:20260909162148+08'00'",
+"moddate":"D:20260909162148+08'00'",
+"ocr_pages":1
+},
+"warnings":[],
+"chars":353,
+"text":"[p1]\nSHIP TO:\nJAMES CLENDENAN\n16049105745\nAMES CLENDENAN SYSTEMS LTD.\nCV7P 2Y4\n1543 BOWSER AVE NORTH VANCOUVER\nNORTH VANCOUVER BC V7P2Y4\nCANADA\nee Eee CAN 209 9-01\nBey wn\n‘ He bee AA) ©); if vy\n: sees waite oe a :\nRENE Bid\nUPS SAVER\nTRACKING #: 1Z 011 4E1 049921 2117\nBILI\nDES EDI\nReference No.1: WE0260900008589 巨 采 站 |\nXOL 26.09.05 NV45 37.0A 09/2026*",
+"pages":[
+"SHIP TO:\nJAMES CLENDENAN\n16049105745\nAMES CLENDENAN SYSTEMS LTD.\nCV7P 2Y4\n1543 BOWSER AVE NORTH VANCOUVER\nNORTH VANCOUVER BC V7P2Y4\nCANADA\nee Eee CAN 209 9-01\nBey wn\n‘ He bee AA) ©); if vy\n: sees waite oe a :\nRENE Bid\nUPS SAVER\nTRACKING #: 1Z 011 4E1 049921 2117\nBILI\nDES EDI\nReference No.1: WE0260900008589 巨 采 站 |\nXOL 26.09.05 NV45 37.0A 09/2026*"
+],
+"extracted_at":"2026-10-22T07:55:45Z"
+}

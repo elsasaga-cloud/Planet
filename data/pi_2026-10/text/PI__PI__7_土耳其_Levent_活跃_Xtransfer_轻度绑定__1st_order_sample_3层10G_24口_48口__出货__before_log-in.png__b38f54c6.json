@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__1st_order_sample_3层10G_24口_48口__出货__before_log-in.png__b38f54c6",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/1st order sample  3层10G 24口 48口/出货/before log-in.png",
+"name":"before log-in.png",
+"ext":".png",
+"bytes":30502,
+"sha256":"b38f54c6ca59152604903c4af822189555efc61d2c6d90f7648805769eab02ca",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1815,
+"height":952,
+"mode":"RGBA",
+"thumb_bytes":2418
+},
+"warnings":[],
+"chars":96,
+"text":"英語 中 文 (简体 ) ix\nAng:\n3\nGoogle Translate 上\nAnvw-35124-PX\nManaged Ethernet Switch\n[s 名\nLogin Clear",
+"extracted_at":"2026-10-22T07:38:22Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__1st_order_sample_3层10G_24口_48口__出货__before_log-in.png__b38f54c6.jpg"
+}

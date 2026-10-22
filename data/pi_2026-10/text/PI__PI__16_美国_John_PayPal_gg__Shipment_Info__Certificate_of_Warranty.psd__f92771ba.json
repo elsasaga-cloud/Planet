@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__16_美国_John_PayPal_gg__Shipment_Info__Certificate_of_Warranty.psd__f92771ba",
+"path":"PI/PI/16 美国 John PayPal gg/Shipment Info/Certificate of Warranty.psd",
+"name":"Certificate of Warranty.psd",
+"ext":".psd",
+"bytes":5573013,
+"sha256":"f92771ba2aa84fde399146e5dc0a5a676a9f70d1a90401fbb7f201cfdc951296",
+"source":"PI.zip",
+"method":"pillow(psd composite)",
+"status":"meta",
+"meta":{
+"format":"PSD",
+"width":2480,
+"height":3508,
+"mode":"RGB",
+"thumb_bytes":14541
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:29:26Z",
+"thumb":"thumbs/PI__PI__16_美国_John_PayPal_gg__Shipment_Info__Certificate_of_Warranty.psd__f92771ba.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__5_印度_Rajesh_gg__货款支付记录.jpg__9d03edd4",
+"path":"PI/PI/5 印度 Rajesh gg/货款支付记录.jpg",
+"name":"货款支付记录.jpg",
+"ext":".jpg",
+"bytes":59368,
+"sha256":"9d03edd4e8e941ed7d1e48284ba1a94b3c2c06cd85e8804c558a0a4886de01c2",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":4286
+},
+"warnings":[],
+"chars":238,
+"text":"2:37 all > &)\n< ekirasq Oo ©\n一 网 通 所 有 银行 卡 ~ 本 月\n以 输入 姓名 /卡号 /手机 号 / 附 言 搜索\n转 出 记录\n本 月\nBie ( 尾 号 6004) - ¥ 524.00\nSF 14:37 已 汇 出\n说 明 :\n1、 您 可 選擇 一 卡 通 、 交 易 時 間 , 查詢 該 卡 在 指定 交易 時 間 段 內\n的 自助 转账 记录 。\n2、 如 需 查询 距 今年 以 上 的 转账 记录 ， 请 前 往 收 支",
+"extracted_at":"2026-10-22T07:29:44Z",
+"thumb":"thumbs/PI__PI__5_印度_Rajesh_gg__货款支付记录.jpg__9d03edd4.jpg"
+}

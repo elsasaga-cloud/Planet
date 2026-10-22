@@ -1,0 +1,25 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__6th_order_6台工业2光8__Shipment_Info__WE02506020141_土耳其_入仓标签.PDF__6938ff17",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/6th order 6台工业2光8/Shipment Info/WE02506020141 土耳其 入仓标签.PDF",
+"name":"WE02506020141 土耳其 入仓标签.PDF",
+"ext":".pdf",
+"bytes":26717,
+"sha256":"6938ff173b61a7bf2d66ffedf44e964c19f21719844d58d6affe94604f53f908",
+"source":"PI.zip",
+"method":"pdfplumber",
+"status":"ok",
+"meta":{
+"pages":1,
+"creator":"PDFsharp 1.50.5147 (www.pdfsharp.com)",
+"producer":"PDFsharp 1.50.5147 (www.pdfsharp.com)",
+"creationdate":"D:20250627091624+08'00'",
+"ocr_pages":0
+},
+"warnings":[],
+"chars":117,
+"text":"[p1]\nBSA01693\nEUA35 深深圳圳UPS红红单单小小货货\n国国际际快快递递\n5\n→\n深深圳圳市市 TR,土土耳耳其其\n货物类型 普普货货\n服 务\n收货地址：深圳市宝安区深圳市宝安区凤塘大道141\n号百运网分拔中心\n1-1",
+"pages":[
+"BSA01693\nEUA35 深深圳圳UPS红红单单小小货货\n国国际际快快递递\n5\n→\n深深圳圳市市 TR,土土耳耳其其\n货物类型 普普货货\n服 务\n收货地址：深圳市宝安区深圳市宝安区凤塘大道141\n号百运网分拔中心\n1-1"
+],
+"extracted_at":"2026-10-22T07:37:40Z"
+}

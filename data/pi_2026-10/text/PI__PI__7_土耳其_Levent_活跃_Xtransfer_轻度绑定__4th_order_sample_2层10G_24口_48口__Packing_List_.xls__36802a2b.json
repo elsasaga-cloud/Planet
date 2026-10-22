@@ -1,0 +1,115 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__4th_order_sample_2层10G_24口_48口__Packing_List_.xls__36802a2b",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/4th order sample  2层10G 24口 48口/Packing List .xls",
+"name":"Packing List .xls",
+"ext":".xls",
+"bytes":27136,
+"sha256":"36802a2b591d1082aac54b2a7e85288ae6215dfda66402a05bf07bf7d7281a07",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Sheet1",
+"Sheet2",
+"Sheet3"
+],
+"rows_total":17
+},
+"warnings":[],
+"chars":765,
+"text":"--- Sheet: Sheet1 ---\nPACKING  LIST\nINVOICE NO.:\nConsigner:郑州仨戛通讯器材有限公司\nAdd: 316, 22nd Floor, Building 57, Futian Sun City, Zhongzhou Avenue, Shanghai Road, Guancheng District, Zhengzhou City\nTel:  86 15237149683\nAttn: Simon\nConsignee:\nAdd:\nTel:\nAttn:\nGOODS DELIVER TO:\nCarton No.\tItem\tDescription\tQTY\n(pcs)\tN/W\n(kg)\tG/W\n(kg)\tDimension(CBM)\n#1\tANW-2224-PX\tIndustrial Ethernet Switch with 24*10/100/1000M RJ45 PoE + 4*1G/2.5G SEP\t3\t17\t18\t53.5*40*40.8=0.09CBM\n\tANW-2248-PX\tIndustrial Ethernet Switch with 48*10/100/1000M RJ45 POE + 4*1G/2.5G SEP\t1\n#2\tANW-2248-PX\tIndustrial Ethernet Switch with 48*10/100/1000M RJ45 PoE + 4*1G/2.5G SEP\t2\t10.3\t11.3\t53.5*20.5*40.8=0.04CBM\nTOTAL\t\t2 Cartons\t6\t27.3\t29.3\t0.13CBM\n\t\tSign & Stamp:\n--- Sheet: Sheet2 ---\n--- Sheet: Sheet3 ---",
+"sheets":{
+"Sheet1":{
+"rows":[
+[
+"PACKING  LIST"
+],
+[
+"INVOICE NO.:"
+],
+[
+"Consigner:郑州仨戛通讯器材有限公司"
+],
+[
+"Add: 316, 22nd Floor, Building 57, Futian Sun City, Zhongzhou Avenue, Shanghai Road, Guancheng District, Zhengzhou City"
+],
+[
+"Tel:  86 15237149683"
+],
+[
+"Attn: Simon"
+],
+[
+"Consignee:"
+],
+[
+"Add:"
+],
+[
+"Tel:"
+],
+[
+"Attn:"
+],
+[
+"GOODS DELIVER TO:"
+],
+[
+"Carton No.",
+"Item",
+"Description",
+"QTY\n(pcs)",
+"N/W\n(kg)",
+"G/W\n(kg)",
+"Dimension(CBM)"
+],
+[
+"#1",
+"ANW-2224-PX",
+"Industrial Ethernet Switch with 24*10/100/1000M RJ45 PoE + 4*1G/2.5G SEP",
+"3",
+"17",
+"18",
+"53.5*40*40.8=0.09CBM"
+],
+[
+"",
+"ANW-2248-PX",
+"Industrial Ethernet Switch with 48*10/100/1000M RJ45 POE + 4*1G/2.5G SEP",
+"1"
+],
+[
+"#2",
+"ANW-2248-PX",
+"Industrial Ethernet Switch with 48*10/100/1000M RJ45 PoE + 4*1G/2.5G SEP",
+"2",
+"10.3",
+"11.3",
+"53.5*20.5*40.8=0.04CBM"
+],
+[
+"TOTAL",
+"",
+"2 Cartons",
+"6",
+"27.3",
+"29.3",
+"0.13CBM"
+],
+[
+"",
+"",
+"Sign & Stamp:"
+]
+]
+},
+"Sheet2":{
+"rows":[]
+},
+"Sheet3":{
+"rows":[]
+}
+},
+"extracted_at":"2026-10-22T07:44:14Z"
+}

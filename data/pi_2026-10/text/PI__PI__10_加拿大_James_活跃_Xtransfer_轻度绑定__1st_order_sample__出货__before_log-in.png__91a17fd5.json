@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__1st_order_sample__出货__before_log-in.png__91a17fd5",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/1st order sample/出货/before log-in.png",
+"name":"before log-in.png",
+"ext":".png",
+"bytes":104681,
+"sha256":"91a17fd571b76b0137ff9212370d7626859cf1e0e4c820a4686cc8882121a5d0",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1920,
+"height":1080,
+"mode":"RGBA",
+"thumb_bytes":4067
+},
+"warnings":[],
+"chars":191,
+"text":"& Login - Switch x 十\n€ ca O & 192.168.1.30/#/login?redirect=/monitor/dashboard\nCogs OFFA © 京东 商城\nManaged Ethernet Switch\nx\n® a=\n口 移 动 设 备 上 的 书签\nLogin\nClear\nEN 调试 用 \\MAC 地 .\n19:01:58\n2024/7/4",
+"extracted_at":"2026-10-22T07:58:08Z",
+"thumb":"thumbs/PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__1st_order_sample__出货__before_log-in.png__91a17fd5.jpg"
+}

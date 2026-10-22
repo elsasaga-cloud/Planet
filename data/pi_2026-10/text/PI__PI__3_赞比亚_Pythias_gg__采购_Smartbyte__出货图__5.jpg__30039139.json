@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__3_赞比亚_Pythias_gg__采购_Smartbyte__出货图__5.jpg__30039139",
+"path":"PI/PI/3  赞比亚 Pythias gg/采购_Smartbyte/出货图/5.jpg",
+"name":"5.jpg",
+"ext":".jpg",
+"bytes":110609,
+"sha256":"30039139e9186643ccf68f10f8f078a08e8bad398c345132117861dabc9b5bd7",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1706,
+"height":1279,
+"mode":"RGB",
+"thumb_bytes":10131
+},
+"warnings":[],
+"chars":150,
+"text":"Unmanaged Industrial PoE Switeh\nModel: STI-244GP\nPower Input: DC 44-57V\nVMOU AMT\nSN: 202402180011 ’\nPorts: 4*10/100/1000M RJ45 PoE + 2*1G SFP\nCC FE\noz",
+"extracted_at":"2026-10-22T07:48:38Z",
+"thumb":"thumbs/PI__PI__3_赞比亚_Pythias_gg__采购_Smartbyte__出货图__5.jpg__30039139.jpg"
+}

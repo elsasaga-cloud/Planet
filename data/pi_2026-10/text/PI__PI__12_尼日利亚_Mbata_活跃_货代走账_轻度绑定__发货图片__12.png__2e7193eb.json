@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__发货图片__12.png__2e7193eb",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/发货图片/12.png",
+"name":"12.png",
+"ext":".png",
+"bytes":14011,
+"sha256":"2e7193eb6d56cca1ed9426fccfac22c6d8b44ecc906b3027fedf11b180b5a980",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":547,
+"height":594,
+"mode":"RGB",
+"thumb_bytes":11667
+},
+"warnings":[],
+"chars":127,
+"text":"Product name: Commercial Switch\nModel: BNSC-424DGGPM\nQty.: 1PC INIT\n1\nSN: 册 册 员 员 而\n202608310001\nWeight: 4.3 KG\nCarton No.: 1/1",
+"extracted_at":"2026-10-22T08:01:48Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__发货图片__12.png__2e7193eb.jpg"
+}

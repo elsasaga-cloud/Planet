@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__5th_order__货款支付记录.png__87e62daf",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/5th order/货款支付记录.png",
+"name":"货款支付记录.png",
+"ext":".png",
+"bytes":135006,
+"sha256":"87e62daf8294cfd0c7105220bc6a40f854e5c9fd169f528337cf9de77365272a",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":3484
+},
+"warnings":[],
+"chars":55,
+"text":"@ Payment successful\n永 丽 (** 丽 )\nY1925.00\nSB zz, ave\nOK",
+"extracted_at":"2026-10-22T07:54:04Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__5th_order__货款支付记录.png__87e62daf.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__3_赞比亚_Pythias_gg__采购_Hrui__出货图__20.jpg__0cd8f38d",
+"path":"PI/PI/3  赞比亚 Pythias gg/采购_Hrui/出货图/20.jpg",
+"name":"20.jpg",
+"ext":".jpg",
+"bytes":121262,
+"sha256":"0cd8f38da681629b87129753bff30c9c525bba756438e0674e4b0dd92f9a309d",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1881,
+"height":1280,
+"mode":"RGB",
+"thumb_bytes":4326
+},
+"warnings":[],
+"chars":52,
+"text":"240V. Layer3 Mar\n821\n| Name Password: Admin\nS )001\n上",
+"extracted_at":"2026-10-22T07:48:51Z",
+"thumb":"thumbs/PI__PI__3_赞比亚_Pythias_gg__采购_Hrui__出货图__20.jpg__0cd8f38d.jpg"
+}

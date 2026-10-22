@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__awb.png__69ef4e72",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/2nd order sample 2层10G 16口 2光8管理/awb.png",
+"name":"awb.png",
+"ext":".png",
+"bytes":126097,
+"sha256":"69ef4e72af9833c45427973440d689b9aa3c58d03c3c4b30a953451d6e301b18",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":546,
+"height":666,
+"mode":"RGBA",
+"thumb_bytes":23981
+},
+"warnings":[],
+"chars":258,
+"text":"SHIP tiv eae STSC20241021007\nTICORL 7747\nAN NETWORKS BILISIM Teor\nYENIMAMALLE 06200 ANKARA TURKEY\nBul iin [AD 13 Try ORAL ANAC\n06200 YENIMAHALLE ANKARA TR\n比 | TUR 210 9-88\nUPS SAVER 1 p\nTRACKING #: 1Z 144 AW7 04 2825 2078\nBILLING: P/P\nDESC: Commercial Switch",
+"extracted_at":"2026-10-22T07:42:02Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__awb.png__69ef4e72.jpg"
+}

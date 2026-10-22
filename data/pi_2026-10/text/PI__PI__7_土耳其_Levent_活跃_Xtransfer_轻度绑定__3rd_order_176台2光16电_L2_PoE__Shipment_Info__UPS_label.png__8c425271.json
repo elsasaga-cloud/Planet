@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__3rd_order_176台2光16电_L2_PoE__Shipment_Info__UPS_label.png__8c425271",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/3rd order 176台2光16电 L2 PoE/Shipment Info/UPS label.png",
+"name":"UPS label.png",
+"ext":".png",
+"bytes":36429,
+"sha256":"8c425271e411317ec5750151887f1230a455bcb3e7e2c963cca0ea906e721a71",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":426,
+"height":467,
+"mode":"RGBA",
+"thumb_bytes":26341
+},
+"warnings":[],
+"chars":258,
+"text":"SHIP TO:\nFic SAN A S /ATT:LEVENT KILIC\nAeon 人\nNETWORKS BS TEKNOLOJI-\nANG\nORDER tb: STSC2025011\nHis A pan NO:20 Z-1\nAH ANADOLU BULV\n06200 YENIMAHALLE ANKARA\nTURKYE\n| TUR 210 9-88\n對 | ow\nUPS SAVER\nTRACKING PTRACKING #:1ZB600960435009531 1Z B60 096 04 3500 9531",
+"extracted_at":"2026-10-22T07:41:01Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__3rd_order_176台2光16电_L2_PoE__Shipment_Info__UPS_label.png__8c425271.jpg"
+}

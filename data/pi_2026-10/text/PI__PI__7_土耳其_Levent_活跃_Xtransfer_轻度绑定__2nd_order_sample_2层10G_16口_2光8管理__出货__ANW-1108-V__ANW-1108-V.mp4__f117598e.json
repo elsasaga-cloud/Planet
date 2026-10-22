@@ -1,0 +1,24 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__出货__ANW-1108-V__ANW-1108-V.mp4__f117598e",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/ANW-1108-V.mp4",
+"name":"ANW-1108-V.mp4",
+"ext":".mp4",
+"bytes":2581989,
+"sha256":"f117598ee7e6e38683f93fc5c024ce84912d9eb723927da00a25a182351756ba",
+"source":"PI.zip",
+"method":"ffprobe+ffmpeg",
+"status":"meta",
+"meta":{
+"duration_s":9.2,
+"width":720,
+"height":1280,
+"vcodec":"h264",
+"acodec":"aac",
+"thumb_bytes":15734
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:43:01Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__出货__ANW-1108-V__ANW-1108-V.mp4__f117598e.jpg"
+}

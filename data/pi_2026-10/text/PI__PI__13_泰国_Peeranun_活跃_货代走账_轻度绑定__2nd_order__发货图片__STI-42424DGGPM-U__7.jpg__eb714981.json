@@ -1,0 +1,24 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__STI-42424DGGPM-U__7.jpg__eb714981",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/2nd order/发货图片/STI-42424DGGPM-U/7.jpg",
+"name":"7.jpg",
+"ext":".jpg",
+"bytes":5751211,
+"sha256":"eb71498116f9c8ab22b9a9fd1ea15ca208846e9895b12880a0aae198618f0f2c",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":4624,
+"height":3468,
+"mode":"RGB",
+"software":"MediaTek Camera Application\u0000\u0000\u0000\u0000",
+"thumb_bytes":8872
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:52:09Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__STI-42424DGGPM-U__7.jpg__eb714981.jpg"
+}

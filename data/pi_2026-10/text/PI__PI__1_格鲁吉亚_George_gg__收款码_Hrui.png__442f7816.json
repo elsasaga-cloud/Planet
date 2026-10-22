@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__1_格鲁吉亚_George_gg__收款码_Hrui.png__442f7816",
+"path":"PI/PI/1 格鲁吉亚 George gg/收款码_Hrui.png",
+"name":"收款码_Hrui.png",
+"ext":".png",
+"bytes":173513,
+"sha256":"442f7816bc939abfe4ec95af49e970ad8b6e8b59d4d255b513fef5ecc29e9ab3",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":576,
+"height":526,
+"mode":"RGBA",
+"thumb_bytes":15709
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:27:34Z",
+"thumb":"thumbs/PI__PI__1_格鲁吉亚_George_gg__收款码_Hrui.png__442f7816.jpg"
+}

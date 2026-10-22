@@ -1,0 +1,25 @@
+{
+"id":"PI__PI__16_美国_John_PayPal_gg__Shipment_Info__AWB.pdf__c7fa91e6",
+"path":"PI/PI/16 美国 John PayPal gg/Shipment Info/AWB.pdf",
+"name":"AWB.pdf",
+"ext":".pdf",
+"bytes":16796,
+"sha256":"c7fa91e6fb9cd2631ecbe0154348f46f430b758aba292fc2b4edc2942f34f243",
+"source":"PI.zip",
+"method":"pdfplumber",
+"status":"ok",
+"meta":{
+"pages":1,
+"creator":"PDFsharp 1.50.4000-netstandard (https://github.com/ststeiger/PdfSharpCore)",
+"producer":"PDFsharp 1.50.4000-netstandard (https://github.com/ststeiger/PdfSharpCore)",
+"moddate":"D:20250725160841+08'00'",
+"ocr_pages":0
+},
+"warnings":[],
+"chars":477,
+"text":"[p1]\nEXPRESS WORLDWIDE WPX\n2025-07-24 MyDHL API 1.0 / *GLS certified label*\nTo : 52 NETWORKS INC. Contact:\nJOHN DAVIS\n5142 MEETING PL WOODBRIDGE\nVA 22193 USA\n.\n22193 WOODBRIDGE Virginia\nUNITED STATES OF AMERICA\n. US-DCA-IAD FXF\nC-PLT Day Time\nPce/Shpt Weight Piece\nRef No: WE02507017943 33..00 kkgg 11 // 11\nContent : Industrial Ethernet Switch Metal Data exchange and optical telecommunication\nWAYBILL 15 9996 9523\n(2L)US22193+48000001\nRef Code:\nG\n(J) JD01 4600 0122 3187 5283",
+"pages":[
+"EXPRESS WORLDWIDE WPX\n2025-07-24 MyDHL API 1.0 / *GLS certified label*\nTo : 52 NETWORKS INC. Contact:\nJOHN DAVIS\n5142 MEETING PL WOODBRIDGE\nVA 22193 USA\n.\n22193 WOODBRIDGE Virginia\nUNITED STATES OF AMERICA\n. US-DCA-IAD FXF\nC-PLT Day Time\nPce/Shpt Weight Piece\nRef No: WE02507017943 33..00 kkgg 11 // 11\nContent : Industrial Ethernet Switch Metal Data exchange and optical telecommunication\nWAYBILL 15 9996 9523\n(2L)US22193+48000001\nRef Code:\nG\n(J) JD01 4600 0122 3187 5283"
+],
+"extracted_at":"2026-10-22T07:29:25Z"
+}

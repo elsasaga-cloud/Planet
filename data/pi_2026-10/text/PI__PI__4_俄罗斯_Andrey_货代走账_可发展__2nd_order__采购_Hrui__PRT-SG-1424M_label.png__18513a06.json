@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__4_俄罗斯_Andrey_货代走账_可发展__2nd_order__采购_Hrui__PRT-SG-1424M_label.png__18513a06",
+"path":"PI/PI/4 俄罗斯 Andrey 货代走账 可发展/2nd order/采购_Hrui/PRT-SG-1424M label.png",
+"name":"PRT-SG-1424M label.png",
+"ext":".png",
+"bytes":33575,
+"sha256":"18513a06cf9ee4197a58813073fda5e28340f9890bc9a206a9fb5eb375f84f84",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":701,
+"height":482,
+"mode":"RGBA",
+"thumb_bytes":16387
+},
+"warnings":[],
+"chars":251,
+"text":"Product: 28-Ports 1000M Managed Switch\nModel: PRT-SG-1424M\nFeatures: 24*Gigabit Ethemet Ports + 4*Gigabit SFP Ports\n+ 1*Console Port\n1P:192.168.2.1 Username: admin 。 Password: admin\nIntemal Power / AC100-240V\nSN-202508040001\nManufacturer Made In China",
+"extracted_at":"2026-10-22T07:46:28Z",
+"thumb":"thumbs/PI__PI__4_俄罗斯_Andrey_货代走账_可发展__2nd_order__采购_Hrui__PRT-SG-1424M_label.png__18513a06.jpg"
+}

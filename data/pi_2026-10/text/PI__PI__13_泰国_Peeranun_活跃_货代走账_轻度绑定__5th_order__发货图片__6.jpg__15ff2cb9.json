@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__5th_order__发货图片__6.jpg__15ff2cb9",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/5th order/发货图片/6.jpg",
+"name":"6.jpg",
+"ext":".jpg",
+"bytes":240568,
+"sha256":"15ff2cb9bcf66dc8c0c475d56b7fc29a8bcab136cedf488ea67a78e2d77ad846",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1920,
+"height":1080,
+"mode":"RGB",
+"thumb_bytes":9199
+},
+"warnings":[],
+"chars":225,
+"text":"Industrial Switch\nlagguwk\nModel: STI-42424DGGPM\nPorts: 24*10/100/1000M RJ45 PoE + 4*1G/2.SG SFP\nPower input: DC 44-57V\nLT CE 5\nSN: 202512150001\nIP Address: 192.168.56,166 MAC: FC-CD-2-D0-S1-9F\nUser name: admin Password: admin",
+"extracted_at":"2026-10-22T07:54:26Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__5th_order__发货图片__6.jpg__15ff2cb9.jpg"
+}

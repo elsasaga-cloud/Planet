@@ -1,0 +1,103 @@
+{
+"id":"PI__PI__2_印度_Rishi_gg__Bypass_client_list.xlsx__55fe60fa",
+"path":"PI/PI/2 印度 Rishi gg/Bypass client list.xlsx",
+"name":"Bypass client list.xlsx",
+"ext":".xlsx",
+"bytes":638826,
+"sha256":"55fe60fad3d06d6a7f9dce1b62b0d3f9a081ff1128baa92b4ce49c528fc9cca1",
+"source":"PI.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"list"
+],
+"embedded_images":5,
+"rows_total":9
+},
+"warnings":[],
+"chars":1179,
+"text":"--- Sheet: list ---\nNo.\tCompany\tCountry\tPerson\tProduct Category\tContact\tRemark\n1\thttps://mazenetdeck.com/index.php\tIndia\t\tbypass  switch  IOT\tinfo@mazenetdeck.com\n2\thttps://echola.com/\tIndia\t\tOptical switch WDM\tsales@echola.com\n3\thttps://www.indiamart.com/optitel-info-systems/products.html#5983307955\tIndia\n4\thttp://www.sirindhrananth.com/product-category/cubro/bypass-devices/\tIndia\t\tbypass MC\tsales@sirindhrananth.com\tUsing Curbo brand\n5\thttps://www.mahalasaent.com/our-products.htm\tIndia\tPrakash Vernekar\tBypass networking\tprakashv@mahalasaent.com\tImportant, they requested samples before, but now company distributor Surabhi Info is on it. SLIENT follow-up is required\n6\thttps://smartnetnetworks.net/industrialnetworking.php\tIndia\t\tbypass industrial switch\tsales@smartnetnetworks.net\n7\thttp://www.sundartechno.com/\tIndia\tManoj Kumar N\nCEO\t91-948208 1014\tsales@sundartechno.com\nsales@embeddedaautomation.org\tasked bypass 100pcs\n8\tAarya ITES Pvt. Ltd.\nwww.a-ites.com\nwww.ekawach.com\tIndia\tManan Bhavsar\tbypass  managed switch\tmanan@a-ites.com\n91 9825095206\tasked bypass and bypass managed switch, but now company distributor Surabhi Info is on it. SLIENT follow-up is required",
+"sheets":{
+"list":{
+"state":"visible",
+"rows":[
+[
+"No.",
+"Company",
+"Country",
+"Person",
+"Product Category",
+"Contact",
+"Remark"
+],
+[
+"1",
+"https://mazenetdeck.com/index.php",
+"India",
+"",
+"bypass  switch  IOT",
+"info@mazenetdeck.com"
+],
+[
+"2",
+"https://echola.com/",
+"India",
+"",
+"Optical switch WDM",
+"sales@echola.com"
+],
+[
+"3",
+"https://www.indiamart.com/optitel-info-systems/products.html#5983307955",
+"India"
+],
+[
+"4",
+"http://www.sirindhrananth.com/product-category/cubro/bypass-devices/",
+"India",
+"",
+"bypass MC",
+"sales@sirindhrananth.com",
+"Using Curbo brand"
+],
+[
+"5",
+"https://www.mahalasaent.com/our-products.htm",
+"India",
+"Prakash Vernekar",
+"Bypass networking",
+"prakashv@mahalasaent.com",
+"Important, they requested samples before, but now company distributor Surabhi Info is on it. SLIENT follow-up is required"
+],
+[
+"6",
+"https://smartnetnetworks.net/industrialnetworking.php",
+"India",
+"",
+"bypass industrial switch",
+"sales@smartnetnetworks.net"
+],
+[
+"7",
+"http://www.sundartechno.com/",
+"India",
+"Manoj Kumar N\nCEO",
+"91-948208 1014",
+"sales@sundartechno.com\nsales@embeddedaautomation.org",
+"asked bypass 100pcs"
+],
+[
+"8",
+"Aarya ITES Pvt. Ltd.\nwww.a-ites.com\nwww.ekawach.com",
+"India",
+"Manan Bhavsar",
+"bypass  managed switch",
+"manan@a-ites.com\n91 9825095206",
+"asked bypass and bypass managed switch, but now company distributor Surabhi Info is on it. SLIENT follow-up is required"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:30:56Z"
+}

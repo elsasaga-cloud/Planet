@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__18_阿联酋_Sanjay_可发展__发货__20.jpg__79c11a5c",
+"path":"PI/PI/18 阿联酋 Sanjay 可发展/发货/20.jpg",
+"name":"20.jpg",
+"ext":".jpg",
+"bytes":747144,
+"sha256":"79c11a5cdcc609ca991b1de9e6a104f50a224cdbbe17d173cdb41a4fa0c18d14",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1080,
+"height":1920,
+"mode":"RGB",
+"thumb_bytes":10890
+},
+"warnings":[],
+"chars":72,
+"text":"0 Astel-Dubal\n04-2523470\n050-6520753 — :\nShipment to 9\nDubai by AI —\n“oe",
+"extracted_at":"2026-10-22T07:59:00Z",
+"thumb":"thumbs/PI__PI__18_阿联酋_Sanjay_可发展__发货__20.jpg__79c11a5c.jpg"
+}

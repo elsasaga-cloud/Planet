@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__18_阿联酋_Sanjay_可发展__发货__4.png__7b135049",
+"path":"PI/PI/18 阿联酋 Sanjay 可发展/发货/4.png",
+"name":"4.png",
+"ext":".png",
+"bytes":16932,
+"sha256":"7b13504932ad9f1c63f237a49047a007183ea434c6800541487851a0d37a1b5f",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":543,
+"height":561,
+"mode":"RGB",
+"thumb_bytes":14226
+},
+"warnings":[],
+"chars":214,
+"text":"四 本\nProduct name: Industrial Media Converter and Switch\nModel: STI-140GE\nQty.: 2 PCS Ill Wa\nSN:\nFROM: _ ||| MIIUIDIUIONIUINIIN EN tl\nMMXXVI12010001\nTO: UL A OVUM OM\nMMXXVI12010002\nWeight: 1.7 KG\nCarton No.: 1/1\nccc",
+"extracted_at":"2026-10-22T07:59:14Z",
+"thumb":"thumbs/PI__PI__18_阿联酋_Sanjay_可发展__发货__4.png__7b135049.jpg"
+}

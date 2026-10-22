@@ -1,0 +1,18 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__3rd_order_176台2光16电_L2_PoE__TT-2116-PG__TT-2116-PG.zip.unpacked__startup.conf__a3c349e2",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/3rd order 176台2光16电 L2 PoE/TT-2116-PG/TT-2116-PG.zip.unpacked/startup.conf",
+"name":"startup.conf",
+"ext":".conf",
+"bytes":108,
+"sha256":"a3c349e20ddc8f601d6049e51c4acbfd80d35faae768e0fbf1b3c338d325ddec",
+"source":"PI.zip",
+"method":"none",
+"status":"meta",
+"meta":{},
+"warnings":[
+"no extractor for .conf"
+],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:40:24Z"
+}

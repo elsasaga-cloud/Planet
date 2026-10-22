@@ -1,0 +1,188 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__Quotation_5电口_工业MC.xls__a30960f3",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/Quotation_5电口 工业MC.xls",
+"name":"Quotation_5电口 工业MC.xls",
+"ext":".xls",
+"bytes":171520,
+"sha256":"a30960f3290fb11c1e195efa5e716219a9a0b8d83a3af15df33adb1116e50d3e",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Quotation"
+],
+"rows_total":29
+},
+"warnings":[],
+"chars":1925,
+"text":"--- Sheet: Quotation ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob/WhatsApp/WeChat: 86 15237149683                     www.sagatelecom.com.cn                  Email: s.sagatelecom@gmail.com\n************************************************************************************************************************************\nQuotation\nBuyer:\tAngora Networks\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t90 (312) 241 77 47\t\tQuoted By:\tSimon Cheng\nEmail:\tlkilic@angoranetworks.com\ntesen@angoranetworks.com\t\tDate:\t18th, Nov, 2024\nContact Person:\tLevent Kilic\nTaylan Esen\t\tPrice Term:\tEXW\nDestination\tTurkey\nModel\tSpecification\t\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSTI-050GE\tIndustrial Ethernet Switch\n\n5*10/100/1000M Ethernet, without Fiber port\nNon-PoE, unmanaged, support DIP function\nDC12V~DC58V(Removable 4 PIN Industrial Terminal Block)\n-40℃ to 75℃, Din mounted, Without Power Supply\t\t\t1\t30\t30\tReplacement for \nIGS-500T\n\t\t\t\t20\t29\t580\n\t\t\t\t50\t28\t1400\n\t\t\t\t100\t27\t2700\nSTI-110GE\tIndustrial Media Converter\n\n1*100/1000M Fiber+1*10/100/1000M Ethernet\nNon-PoE, unmanaged, support DIP function\nDC12V~DC58V(Removable 4 PIN Industrial Terminal Block)\n-40℃ to 75℃, Din mounted, Without Optical Module, Without Power Supply\t\t\t1\t26\t26\tReplacement for \nIGT-805AT\n\t\t\t\t20\t25\t500\n\t\t\t\t50\t24\t1200\n\t\t\t\t100\t23\t2300\nPrice validity: 30 days\nSaga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply.\nNon-brand packing, without Chinese letters or logo\nNeutral device\nCountry of origin: China\nLeadtime: 5~10 working days\nWarranty: 3 years, lifetime technical support\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" for more information.",
+"sheets":{
+"Quotation":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob/WhatsApp/WeChat: 86 15237149683                     www.sagatelecom.com.cn                  Email: s.sagatelecom@gmail.com"
+],
+[
+"************************************************************************************************************************************"
+],
+[
+"Quotation"
+],
+[
+"Buyer:",
+"Angora Networks",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"90 (312) 241 77 47",
+"",
+"Quoted By:",
+"Simon Cheng"
+],
+[
+"Email:",
+"lkilic@angoranetworks.com\ntesen@angoranetworks.com",
+"",
+"Date:",
+"18th, Nov, 2024"
+],
+[
+"Contact Person:",
+"Levent Kilic\nTaylan Esen",
+"",
+"Price Term:",
+"EXW"
+],
+[
+"Destination",
+"Turkey"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"STI-050GE",
+"Industrial Ethernet Switch\n\n5*10/100/1000M Ethernet, without Fiber port\nNon-PoE, unmanaged, support DIP function\nDC12V~DC58V(Removable 4 PIN Industrial Terminal Block)\n-40℃ to 75℃, Din mounted, Without Power Supply",
+"",
+"",
+"1",
+"30",
+"30",
+"Replacement for \nIGS-500T"
+],
+[
+"",
+"",
+"",
+"",
+"20",
+"29",
+"580"
+],
+[
+"",
+"",
+"",
+"",
+"50",
+"28",
+"1400"
+],
+[
+"",
+"",
+"",
+"",
+"100",
+"27",
+"2700"
+],
+[
+"STI-110GE",
+"Industrial Media Converter\n\n1*100/1000M Fiber+1*10/100/1000M Ethernet\nNon-PoE, unmanaged, support DIP function\nDC12V~DC58V(Removable 4 PIN Industrial Terminal Block)\n-40℃ to 75℃, Din mounted, Without Optical Module, Without Power Supply",
+"",
+"",
+"1",
+"26",
+"26",
+"Replacement for \nIGT-805AT"
+],
+[
+"",
+"",
+"",
+"",
+"20",
+"25",
+"500"
+],
+[
+"",
+"",
+"",
+"",
+"50",
+"24",
+"1200"
+],
+[
+"",
+"",
+"",
+"",
+"100",
+"23",
+"2300"
+],
+[
+"Price validity: 30 days"
+],
+[
+"Saga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply."
+],
+[
+"Non-brand packing, without Chinese letters or logo"
+],
+[
+"Neutral device"
+],
+[
+"Country of origin: China"
+],
+[
+"Leadtime: 5~10 working days"
+],
+[
+"Warranty: 3 years, lifetime technical support"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" for more information."
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:36:51Z"
+}

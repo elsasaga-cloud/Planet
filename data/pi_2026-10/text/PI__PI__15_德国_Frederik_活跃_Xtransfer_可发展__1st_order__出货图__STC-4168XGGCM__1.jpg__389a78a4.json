@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__1st_order__出货图__STC-4168XGGCM__1.jpg__389a78a4",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/1st order/出货图/STC-4168XGGCM/1.jpg",
+"name":"1.jpg",
+"ext":".jpg",
+"bytes":304099,
+"sha256":"389a78a4a874cb9f4ef134d2aef47687a59faeea8b689d2176fa0fa9293b3242",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":1492,
+"height":1120,
+"mode":"RGB",
+"thumb_bytes":7810
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:34:29Z",
+"thumb":"thumbs/PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__1st_order__出货图__STC-4168XGGCM__1.jpg__389a78a4.jpg"
+}

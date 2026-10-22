@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__1st_order__AWB.png__e3a98e38",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/1st order/AWB.png",
+"name":"AWB.png",
+"ext":".png",
+"bytes":23856,
+"sha256":"e3a98e38767cfc7f4a4eea924e4f02c591e272d9f6e5d7ca1e8cf30739417be1",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":774,
+"height":307,
+"mode":"RGBA",
+"thumb_bytes":2994
+},
+"warnings":[],
+"chars":27,
+"text":"hy] JYM800057590176\n了 2 件 货",
+"extracted_at":"2026-10-22T07:55:02Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__1st_order__AWB.png__e3a98e38.jpg"
+}

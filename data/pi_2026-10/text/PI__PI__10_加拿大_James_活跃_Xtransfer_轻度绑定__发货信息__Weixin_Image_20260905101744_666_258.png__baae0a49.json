@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__发货信息__Weixin_Image_20260905101744_666_258.png__baae0a49",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/发货信息/Weixin Image_20260905101744_666_258.png",
+"name":"Weixin Image_20260905101744_666_258.png",
+"ext":".png",
+"bytes":23841,
+"sha256":"baae0a492f288933ee95b6e5ed98f9f32489f4e5c1e95b170635d201eb208951",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":704,
+"height":714,
+"mode":"RGB",
+"thumb_bytes":16659
+},
+"warnings":[],
+"chars":166,
+"text":"Product name: Industrial Switch\nModel: SW-3200-16GP-2SX\nQty.: 12 PCS HI\n12\nFROM: HIHIHUHHIHIHII\n202608310001\nTO: SOUT LL\n202608310012\nWeight: 17.7 KG\nCarton No.: 1 /1",
+"extracted_at":"2026-10-22T07:56:05Z",
+"thumb":"thumbs/PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__发货信息__Weixin_Image_20260905101744_666_258.png__baae0a49.jpg"
+}

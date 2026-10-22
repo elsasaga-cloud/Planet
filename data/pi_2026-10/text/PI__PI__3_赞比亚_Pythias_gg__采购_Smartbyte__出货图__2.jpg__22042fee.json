@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__3_赞比亚_Pythias_gg__采购_Smartbyte__出货图__2.jpg__22042fee",
+"path":"PI/PI/3  赞比亚 Pythias gg/采购_Smartbyte/出货图/2.jpg",
+"name":"2.jpg",
+"ext":".jpg",
+"bytes":129052,
+"sha256":"22042fee1c9ef44b3ea40d907998c3afd448b24f9e9736e451bceece834e99f6",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":1279,
+"height":1706,
+"mode":"RGB",
+"thumb_bytes":8600
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:48:31Z",
+"thumb":"thumbs/PI__PI__3_赞比亚_Pythias_gg__采购_Smartbyte__出货图__2.jpg__22042fee.jpg"
+}

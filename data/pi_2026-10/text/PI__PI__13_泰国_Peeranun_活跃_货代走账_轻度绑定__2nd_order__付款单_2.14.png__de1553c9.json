@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__付款单_2.14.png__de1553c9",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/2nd order/付款单 2.14.png",
+"name":"付款单 2.14.png",
+"ext":".png",
+"bytes":114280,
+"sha256":"de1553c9c07fecb58858846b750f3233028b1978000f694b213bdf854f058fbd",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":629,
+"height":576,
+"mode":"RGBA",
+"thumb_bytes":13173
+},
+"warnings":[],
+"chars":601,
+"text":"Remittance Receipt\n处 理 时 间 Processed at，2025023441346\n唯一 请 求 号 / Request ID 189027645661 4985731\n收 款 人 名 稱 / Beneficiary BRE\n收 丈 人 账号 / Beneficiary Account | 621 4838659641962\n收 款 銀行 / Bank Name 如 行 广东 省 深圳 市 分 行营 业 部\n币 种 / Currency CNY\n金 額 / Amount 962000\n交易 附 言 /Transaction Details 付款\n付款 渠道 /Transaction Channel 易 寶 支付\nMRIGR: KSEE UT IER ET, THEA ATOR RES, RERFUENG ONGITA\nBMD.\nReminder: This receiptisonly a proofofpaymenthas been processed and CANNOT concludethe\nreceiptbybeneficiary. Thefinalresultshallbeconfirmedbyreceiving bank.\nBE- PULSE, LEEF\nThisisacomputerprintout. Nosignatureis required",
+"extracted_at":"2026-10-22T07:52:02Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__付款单_2.14.png__de1553c9.jpg"
+}

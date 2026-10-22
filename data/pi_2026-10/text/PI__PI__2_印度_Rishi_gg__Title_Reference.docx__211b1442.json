@@ -1,0 +1,262 @@
+{
+"id":"PI__PI__2_印度_Rishi_gg__Title_Reference.docx__211b1442",
+"path":"PI/PI/2 印度 Rishi gg/Title Reference.docx",
+"name":"Title Reference.docx",
+"ext":".docx",
+"bytes":12811,
+"sha256":"211b14421d46f06e504c36a5c3de54f5db0d235dee61737a5536658a8f7aa541",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2023-11-27T04:35:00+00:00",
+"modified":"2023-11-27T04:53:09+00:00",
+"paragraphs":47,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"chars":1441,
+"text":"5 port unmanaged Ethernet switch\n8 port 10/100M lan switch\n16 port Gigabit network switch\n24 port desktop Gigabit switch\n24 port Rack unmanaged switch\n26 port commercial network switch\n48 port rack Gigabit lan switch\n5 port 2.5G network switch\n8 port unmanaed 2.5G switch\n4 port 10/100M poe switch\n8 port unmanaged CCTV switch\n10 port network poe switch\n11 port Gigabit sfp poe switch\n16 port fast Ethernet poe switch\n24 port CCTV poe fiber switch\n27 port hybrid rate poe switch\n6 port full gigabit fiber switch\n6 port 10/100/1000Mbps POE switch\n6 port desktop CCTV poe switch\n8 port unmanaged POE switch\n12 port Gigabit Ethernet poe switch\n16 port Gigabit POE switch\n20 port Gigabit fiber optic switch\n24 port rack poe fiber switch\n28 port Vlan unmanaged lan switch\n8 port managed Ethernet switch\n24 port Gigabit rack switch\n28 port 10G rack switch\n28 port L3 managed network switch\n48 port L3 managed core switch\n12 port 10G core switch\n10 port Gigabit poe managed switch\n16 port L3 managed fiber switch\n24 port Gigabit combo managed switch\n28 port 10G managed lan switch\n48 port Vlan managed poe switch\n5 port 10/100M unmanaged switch\n10 port fast Ethernet industrial switch\n6 port Gigabit din network switch\n6 port Gigabit Ethernet switch\n10 port Industrial fiber switch\n5 port fast Ethernet poe switch\n10 port industrial CCTV poe switch\n4 port industrial poe switch\n4 port Gigabit fiber switch\n8 port poe Gigabit switch\nDate: 2023.11.27",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"5 port unmanaged Ethernet switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8 port 10/100M lan switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"16 port Gigabit network switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"24 port desktop Gigabit switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"24 port Rack unmanaged switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"26 port commercial network switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"48 port rack Gigabit lan switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"5 port 2.5G network switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8 port unmanaed 2.5G switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4 port 10/100M poe switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8 port unmanaged CCTV switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"10 port network poe switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"11 port Gigabit sfp poe switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"16 port fast Ethernet poe switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"24 port CCTV poe fiber switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"27 port hybrid rate poe switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"6 port full gigabit fiber switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"6 port 10/100/1000Mbps POE switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"6 port desktop CCTV poe switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8 port unmanaged POE switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"12 port Gigabit Ethernet poe switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"16 port Gigabit POE switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"20 port Gigabit fiber optic switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"24 port rack poe fiber switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"28 port Vlan unmanaged lan switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8 port managed Ethernet switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"24 port Gigabit rack switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"28 port 10G rack switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"28 port L3 managed network switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"48 port L3 managed core switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"12 port 10G core switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"10 port Gigabit poe managed switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"16 port L3 managed fiber switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"24 port Gigabit combo managed switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"28 port 10G managed lan switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"48 port Vlan managed poe switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"5 port 10/100M unmanaged switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"10 port fast Ethernet industrial switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"6 port Gigabit din network switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"6 port Gigabit Ethernet switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"10 port Industrial fiber switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"5 port fast Ethernet poe switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"10 port industrial CCTV poe switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4 port industrial poe switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4 port Gigabit fiber switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8 port poe Gigabit switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Date: 2023.11.27"
+}
+],
+"extracted_at":"2026-10-22T07:31:07Z"
+}

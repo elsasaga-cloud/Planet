@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__19_马来西亚_Raja_可发展__发货图片__STI-21616GPM__df1e307a06db3e4f828a782a5dfe5d8d.jpg__9de81eb3",
+"path":"PI/PI/19 马来西亚 Raja 可发展/发货图片/STI-21616GPM/df1e307a06db3e4f828a782a5dfe5d8d.jpg",
+"name":"df1e307a06db3e4f828a782a5dfe5d8d.jpg",
+"ext":".jpg",
+"bytes":994169,
+"sha256":"9de81eb387f93ed3ec03bf23c7954dfd73d5036a0d09fcbf83f604f2cb998796",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1944,
+"height":1279,
+"mode":"RGB",
+"thumb_bytes":13571
+},
+"warnings":[],
+"chars":119,
+"text":"ST)-ate-D\n. them Zn\nSTI-G20-SD\n1.25G 1310nm 20km\n踢 咽 呻 WII\nS/N: 2608210024\nSTI-G20-SD\n1.25G 1310nm 20km\nS/N: 2608210023",
+"extracted_at":"2026-10-22T07:50:10Z",
+"thumb":"thumbs/PI__PI__19_马来西亚_Raja_可发展__发货图片__STI-21616GPM__df1e307a06db3e4f828a782a5dfe5d8d.jpg__9de81eb3.jpg"
+}

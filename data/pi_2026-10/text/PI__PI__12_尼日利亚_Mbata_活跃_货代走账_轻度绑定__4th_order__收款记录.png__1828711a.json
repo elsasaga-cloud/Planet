@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__4th_order__收款记录.png__1828711a",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/4th order/收款记录.png",
+"name":"收款记录.png",
+"ext":".png",
+"bytes":136111,
+"sha256":"1828711a12369bf57134e7f348ae9db954a0641c3a6ccc2c18f57a17bc5e411c",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":6267
+},
+"warnings":[],
+"chars":493,
+"text":"12:11 了 all 全 天\n《 Transaction Details View all\n白茶 清 欢 >\n+9,986.00\nTransaction successful\nOrder time 2025-06-17 23:14:20\nReason for 收 款\nreceived\npayment\nCounterparty 白茶 清 欢 199******72\naccount\nOrder No. 202506172000400111004900074080\n66\nBill Management\nThis transaction made it to the top of this months\nincome list. Check out the analysis.\n5\n= A) ions Category Transfers >\nTranslate\nLapeis and Notes Add >\nIncluded in statistics 【 @)\n器\n园 View transaction r Proof of Account\necords Transactions",
+"extracted_at":"2026-10-22T08:00:55Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__4th_order__收款记录.png__1828711a.jpg"
+}

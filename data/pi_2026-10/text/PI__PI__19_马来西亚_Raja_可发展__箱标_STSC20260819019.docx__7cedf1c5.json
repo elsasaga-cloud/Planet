@@ -1,0 +1,102 @@
+{
+"id":"PI__PI__19_马来西亚_Raja_可发展__箱标_STSC20260819019.docx__7cedf1c5",
+"path":"PI/PI/19 马来西亚 Raja 可发展/箱标_STSC20260819019.docx",
+"name":"箱标_STSC20260819019.docx",
+"ext":".docx",
+"bytes":15293,
+"sha256":"7cedf1c5258dec866e780eede3381d6c40ca410ce8781ad30ad71314bab24d51",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2024-11-18T02:42:00+00:00",
+"modified":"2026-08-20T13:07:01+00:00",
+"paragraphs":15,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"chars":231,
+"text":"AIR ML/RAJA\n广州市世通行进出口有限公司\n广东省广州市白云区白云湖大道 200 号（鲁王面粉隔壁）\n邮政编码： 510450\n梁先生 +86 18529309778\nAIR ML/RAJA\n品名: 工业交换机\nIndustrial Ethernet Switch\n数量: 7台/7Pieces\n重量：约10Kg\n海关编码：8517622990\n品牌: 无\n无内置电池，普货，不带电不带磁不含粉末等\n另包含35个设备配件，约7Kg\nAIR ML/RAJA",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"AIR ML/RAJA"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"广州市世通行进出口有限公司"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"广东省广州市白云区白云湖大道 200 号（鲁王面粉隔壁）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"邮政编码： 510450"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"梁先生 +86 18529309778"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"AIR ML/RAJA"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"品名: 工业交换机"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Industrial Ethernet Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"数量: 7台/7Pieces"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"重量：约10Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"海关编码：8517622990"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"品牌: 无"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"无内置电池，普货，不带电不带磁不含粉末等"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"另包含35个设备配件，约7Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"AIR ML/RAJA"
+}
+],
+"extracted_at":"2026-10-22T07:49:06Z"
+}

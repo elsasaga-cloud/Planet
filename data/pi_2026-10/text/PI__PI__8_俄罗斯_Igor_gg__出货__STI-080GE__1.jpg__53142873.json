@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__8_俄罗斯_Igor_gg__出货__STI-080GE__1.jpg__53142873",
+"path":"PI/PI/8 俄罗斯 Igor gg/出货/STI-080GE/1.jpg",
+"name":"1.jpg",
+"ext":".jpg",
+"bytes":883618,
+"sha256":"5314287393975b8df8dfccd5df647d41b8e5254edae2f4cbf786429cc7caf72b",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":1920,
+"height":1080,
+"mode":"RGB",
+"thumb_bytes":7610
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:35:00Z",
+"thumb":"thumbs/PI__PI__8_俄罗斯_Igor_gg__出货__STI-080GE__1.jpg__53142873.jpg"
+}

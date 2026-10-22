@@ -1,0 +1,211 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__STSC20241028007.xls__34278eea",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/2nd order sample 2层10G 16口 2光8管理/STSC20241028007.xls",
+"name":"STSC20241028007.xls",
+"ext":".xls",
+"bytes":258560,
+"sha256":"34278eea338051c8f0d44e1d4b483a1fd15b8efbdd938ffbafd465e60254a7e4",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Proforma Invoice"
+],
+"rows_total":42
+},
+"warnings":[],
+"chars":2572,
+"text":"--- Sheet: Proforma Invoice ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nAddress: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob/WhatsApp/WeChat: 86 15237149683                                 www.sagatelecom.com.cn                                    Email: s.sagatelecom@gmail.com\n************************************************************************************************************************************\nProforma  Invoice\nTax Information\tID: 069 052 0220\nOffice: Yeni̇Mahalle Vd\t\tInvoice No.:\tSTSC20241028007\nBuyer:\tANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t90 (312) 241 77 47\t\tIssued By:\tSimon Cheng\nEmail:\tLevent.Kilic@AngoraNetworks.com\t\tInvoice Date:\t28th, Oct, 2024\nContact Person:\tLevent Kilic\t\tPayment Term:\tT/T in advance\nShipping Address\tÇamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle  06200 Ankara Turkey\nModel\tSpecification\t\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSeller: STC-416DGGPM\n\nBuyer: ANW-2116-PG\tSoftware Change\n\nRemove Copper Port 17~24, Re-number Fiber Port\nShow Client's LOGO/Model Name/Serial Code in WEB GUI\t\t\t1\t200\t200\nTOTAL\t\t\t\t1\t\t200\nSAY TOTAL IN USD TWO HUNDRED DOLLARS ONLY\nRemark\nPlease do make sure client side could handle import customs clearance.\n1. Payment: Full payment to the below bank account before shipment.\nBank Information\nSWIFT/BIC code\tCHASHKHH (CHASHKHHXXX * if 11 characters are required)\nAccount Number\t63003662406\nAccount Name\tZhengzhou Saga Telecom Co., Ltd.\nBank Name\tJPMorgan Chase Bank N.A., Hong Kong Branch\nBank Address\t18/F, 20/F, 22-29/F, CHATER HOUSE, 8 CONNAUGHT ROAD CENTRAL, HONG KONG\nCountry/Region\tHong Kong\nType of Account\tBusiness Account\nBank Code\t007\nBranch Code\t863\n2. NOTE: Saga Telecom will not pay for any bank charge.\nPlease make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice.\n3. Leadtime: 4~7 working days\n4. Country of origin: China\n5. Non-brand packing, without Chinese letters or logo\nPackage Marks: None\nPacking list is available upon request\n6. Warranty: Lifetime technical support\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" for more information.\nBuyer: ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.\t\t\tSeller: Zhengzhou Saga Telecom Co., Ltd.\nLevent Kilic\t\t\tSimon Cheng\nAuthorized Signature\t\t\tAuthorized Signature",
+"sheets":{
+"Proforma Invoice":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob/WhatsApp/WeChat: 86 15237149683                                 www.sagatelecom.com.cn                                    Email: s.sagatelecom@gmail.com"
+],
+[
+"************************************************************************************************************************************"
+],
+[
+"Proforma  Invoice"
+],
+[
+"Tax Information",
+"ID: 069 052 0220\nOffice: Yeni̇Mahalle Vd",
+"",
+"Invoice No.:",
+"STSC20241028007"
+],
+[
+"Buyer:",
+"ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"90 (312) 241 77 47",
+"",
+"Issued By:",
+"Simon Cheng"
+],
+[
+"Email:",
+"Levent.Kilic@AngoraNetworks.com",
+"",
+"Invoice Date:",
+"28th, Oct, 2024"
+],
+[
+"Contact Person:",
+"Levent Kilic",
+"",
+"Payment Term:",
+"T/T in advance"
+],
+[
+"Shipping Address",
+"Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle  06200 Ankara Turkey"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"Seller: STC-416DGGPM\n\nBuyer: ANW-2116-PG",
+"Software Change\n\nRemove Copper Port 17~24, Re-number Fiber Port\nShow Client's LOGO/Model Name/Serial Code in WEB GUI",
+"",
+"",
+"1",
+"200",
+"200"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"1",
+"",
+"200"
+],
+[
+"SAY TOTAL IN USD TWO HUNDRED DOLLARS ONLY"
+],
+[
+"Remark"
+],
+[
+"Please do make sure client side could handle import customs clearance."
+],
+[
+"1. Payment: Full payment to the below bank account before shipment."
+],
+[
+"Bank Information"
+],
+[
+"SWIFT/BIC code",
+"CHASHKHH (CHASHKHHXXX * if 11 characters are required)"
+],
+[
+"Account Number",
+"63003662406"
+],
+[
+"Account Name",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Bank Name",
+"JPMorgan Chase Bank N.A., Hong Kong Branch"
+],
+[
+"Bank Address",
+"18/F, 20/F, 22-29/F, CHATER HOUSE, 8 CONNAUGHT ROAD CENTRAL, HONG KONG"
+],
+[
+"Country/Region",
+"Hong Kong"
+],
+[
+"Type of Account",
+"Business Account"
+],
+[
+"Bank Code",
+"007"
+],
+[
+"Branch Code",
+"863"
+],
+[
+"2. NOTE: Saga Telecom will not pay for any bank charge."
+],
+[
+"Please make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice."
+],
+[
+"3. Leadtime: 4~7 working days"
+],
+[
+"4. Country of origin: China"
+],
+[
+"5. Non-brand packing, without Chinese letters or logo"
+],
+[
+"Package Marks: None"
+],
+[
+"Packing list is available upon request"
+],
+[
+"6. Warranty: Lifetime technical support"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" for more information."
+],
+[
+"Buyer: ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+"",
+"",
+"Seller: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Levent Kilic",
+"",
+"",
+"Simon Cheng"
+],
+[
+"Authorized Signature",
+"",
+"",
+"Authorized Signature"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:41:54Z"
+}

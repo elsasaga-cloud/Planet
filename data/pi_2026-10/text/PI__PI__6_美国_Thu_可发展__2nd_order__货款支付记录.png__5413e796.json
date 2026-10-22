@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__2nd_order__货款支付记录.png__5413e796",
+"path":"PI/PI/6 美国 Thu 可发展/2nd order/货款支付记录.png",
+"name":"货款支付记录.png",
+"ext":".png",
+"bytes":97577,
+"sha256":"5413e7960a60493e1d9db23904a45f8de42b13f43ca528624865abbc5179d4b8",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":5918
+},
+"warnings":[],
+"chars":230,
+"text":"9:30 all 全 81|\n< 轉 賬 記 錄 查 詢 Oo ©\n轉 給 羅 泛\n-¥ 1,965.00\n收 款 账 户 6214 3913 3000 0617 588\n收 款 银行 东莞 银行\n付款 賬戶 6214********+1962\n转账 附 言 转账\n转账 渠道 手机 银行\n转账 方式 电子 银行 转账\n@ 转账 完成 进度 查询\n2024-11-28 09:30:16\n通知 收 款 人\n查看 和 TA 的 转账 记录\n再 转 一 笔\nTAA",
+"extracted_at":"2026-10-22T07:33:05Z",
+"thumb":"thumbs/PI__PI__6_美国_Thu_可发展__2nd_order__货款支付记录.png__5413e796.jpg"
+}

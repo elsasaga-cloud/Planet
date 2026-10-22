@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__出货__ANW-1108-V__TT-2208-TG__Steps_for_upgradin__b8b0dff1",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Steps for upgrading.png",
+"name":"Steps for upgrading.png",
+"ext":".png",
+"bytes":33187,
+"sha256":"b8b0dff1b0ea4d038d55b2e9d550a2770eb6ab75a319bb1738964f60b51956ca",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1647,
+"height":635,
+"mode":"RGBA",
+"thumb_bytes":3546
+},
+"warnings":[],
+"chars":261,
+"text":"oeview File Management\nBasic Information\nLog:\nConfig: 144/11924 KByt\nRootfs: TS\n——_\n.\n區\nClean:\nImage Management Configuration Management Certificate Management Page Package Management Data Management 3\nUpgrade package\nClick or drag file to this area to upload 4",
+"extracted_at":"2026-10-22T07:43:18Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__出货__ANW-1108-V__TT-2208-TG__Steps_for_upgradin__b8b0dff1.jpg"
+}

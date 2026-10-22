@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__6th_order_6台工业2光8__Shipment_Info__7.png__9f099a2c",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/6th order 6台工业2光8/Shipment Info/7.png",
+"name":"7.png",
+"ext":".png",
+"bytes":42888,
+"sha256":"9f099a2c23435796b2d6c0669474a0061014af85002827d335c766811e00eed5",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":867,
+"height":429,
+"mode":"RGBA",
+"thumb_bytes":9384
+},
+"warnings":[],
+"chars":147,
+"text":"TURK TELEKOM\nTurk Telekorn >\nETHERNET SWITCHES Degerli Hissettirir >\nMODEL: TT-2208-PG\nINPUT: DC44-57V\n25052208C0103\nMAC ADDRESS: 98:06:37:A5:00:13",
+"extracted_at":"2026-10-22T07:37:38Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__6th_order_6台工业2光8__Shipment_Info__7.png__9f099a2c.jpg"
+}

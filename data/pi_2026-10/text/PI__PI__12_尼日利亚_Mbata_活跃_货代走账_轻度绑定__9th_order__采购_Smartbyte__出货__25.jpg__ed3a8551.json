@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__9th_order__采购_Smartbyte__出货__25.jpg__ed3a8551",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/9th order/采购_Smartbyte/出货/25.jpg",
+"name":"25.jpg",
+"ext":".jpg",
+"bytes":1606644,
+"sha256":"ed3a855171e02b4ff3e1fcb1fcb36288ce4cb384b7b2751d1a4b24d5c5c9fad4",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":3344,
+"height":2435,
+"mode":"RGB",
+"thumb_bytes":10532
+},
+"warnings":[],
+"chars":240,
+"text":"and corest\ndears in tis anual is ONLY.\nEon es please reer (0 the wctual\nfor your purchase\nPerea fr sal\nranual property\nve problem oF UE\noduct label\n“ross counts)\n{C7DC power inp\n3. Rich Led indi\n4, Resilient ESD. EM!\nCompliant with\nput with",
+"extracted_at":"2026-10-22T08:03:08Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__9th_order__采购_Smartbyte__出货__25.jpg__ed3a8551.jpg"
+}

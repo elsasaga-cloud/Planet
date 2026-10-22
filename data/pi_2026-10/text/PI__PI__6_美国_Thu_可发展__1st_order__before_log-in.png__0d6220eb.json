@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__1st_order__before_log-in.png__0d6220eb",
+"path":"PI/PI/6 美国 Thu 可发展/1st order/before log-in.png",
+"name":"before log-in.png",
+"ext":".png",
+"bytes":50948,
+"sha256":"0d6220ebaa2bc830b690b951327539fca34c0e12a7ce7336a7a1fc275f4e8394",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1786,
+"height":1399,
+"mode":"RGBA",
+"thumb_bytes":4652
+},
+"warnings":[],
+"chars":116,
+"text":"v 全 Login switeh x 二 - 品 x\n[e\n還\n< SC ARs 192.168.56.166/#/login & *\n@\nEN2440 |\nManaged Ethernet Switch\n»\nLogin Clear",
+"extracted_at":"2026-10-22T07:33:11Z",
+"thumb":"thumbs/PI__PI__6_美国_Thu_可发展__1st_order__before_log-in.png__0d6220eb.jpg"
+}

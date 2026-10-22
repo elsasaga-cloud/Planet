@@ -1,0 +1,227 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__New_MIBs_Info_2025.4.1__mib问题处理.docx__954455d7",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/2nd order/New MIBs Info_2025.4.1/mib问题处理.docx",
+"name":"mib问题处理.docx",
+"ext":".docx",
+"bytes":24511,
+"sha256":"954455d7908ef0b327929159394ed4a13faae573c49853f4136261ce319bc85c",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"h l",
+"last_modified_by":"陈 时淦",
+"created":"2025-03-31T01:58:00+00:00",
+"modified":"2025-04-01T09:33:00+00:00",
+"paragraphs":40,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"chars":2309,
+"text":"Question:\n1\\ Ok, the switch returns a few extra SNMP values which do not resolve with the provided MIB files, what are these values:\nSNMPv2-SMI::enterprises.56813.5.25.31.1.1.3.1.5.2 = INTEGER: -255\nSNMPv2-SMI::enterprises.56813.5.25.31.1.1.3.1.5.3 = INTEGER: -255\n……\nand\nSNMPv2-SMI::enterprises.171.12.58.1.1.1.8.2 = INTEGER: 0\nSNMPv2-SMI::enterprises.171.12.58.1.1.1.8.3 = INTEGER: 0\n……\nand\nNMS-SYS-MIB::sys.4.1.1.1 = INTEGER: 1\nNMS-SYS-MIB::sys.4.1.2.1 = INTEGER: 48\nPlease share these missing MIB files.\nReply: The 1.3.6.1.4.1.56813* and 1.3.6.1.4.1.171* SNMP values have been removed.\nUpdated NMS-SYS-MIB to provide definitions for NMS-SYS-MIB::sys.4.1.1 and NMS-SYS-MIB::sys.4.1.2.\n2\\ The MIB enterprise IDs (.1.3.6.1.4.1.57430.* and .1.3.6.1.4.1.56813.* and .1.3.6.1.4.1.171.*)) are registered to two other companies:\nDongguan Huarong Communication Technologies Co., Ltd.\nFuzhou Dockeer Technology Co., Ltd.\nD-Link Systems, Inc.\nHow is smart bytes/saga telecom related to these companies?\nReply:\n3\\ lldpV2RemPortDesc contains a trailing zero byte, e.g.:\nLLDP-V2-MIB::lldpV2RemPortDesc.0.27.1.3 = STRING: tengigabitEthernet0/28\\x00\nReply: The trailing zeros are removed in the new version.\n4\\ Our monitoring system is picking up an error\nOur monitoring system is picking up an error from this (This is probably just a misconfiguration):\nUCD-SNMP-MIB::memCached.0 = INTEGER: 30564 kB\nUCD-SNMP-MIB::memSwapError.0 = INTEGER: error(1)\nUCD-SNMP-MIB::memSwapErrorMsg.0 = STRING: Running out of swap space (0)\nReply: We will not support UCD-SNMP-MIB in the new version\nSuggestion:\nDid you just create the MIB files with the last software version?\nBecause with the current layout e.g. the optical MIB is not suitable for multi lane optics (e.g. most 40G, 100G transceivers) where DDM will provide data for each lane. If it’s newly designed I would suggest you update your design before it’s deployed to more customers.\nReply: not support 40G, 100G now\nUnique OID for each hardware series/model\nIt’s best practice to set SNMPv2-MIB::sysObjectID.0 to a unique OID for each hardware series/model, see e.g. the juniper product MIB here:\nhttps://mibs.observium.org/mib/JUNIPER-CHASSIS-DEFINES-MIB/\nCurrently it’s set to a fixed value:\nSNMPv2-MIB::sysObjectID.0 = OID: NMS::nms\nReply: not support, we are OEM factory",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 2",
+"text":"Question:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1\\ Ok, the switch returns a few extra SNMP values which do not resolve with the provided MIB files, what are these values:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SNMPv2-SMI::enterprises.56813.5.25.31.1.1.3.1.5.2 = INTEGER: -255"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SNMPv2-SMI::enterprises.56813.5.25.31.1.1.3.1.5.3 = INTEGER: -255"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"……"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"and"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SNMPv2-SMI::enterprises.171.12.58.1.1.1.8.2 = INTEGER: 0"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SNMPv2-SMI::enterprises.171.12.58.1.1.1.8.3 = INTEGER: 0"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"……"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"and"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"NMS-SYS-MIB::sys.4.1.1.1 = INTEGER: 1"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"NMS-SYS-MIB::sys.4.1.2.1 = INTEGER: 48"
+},
+{
+"t":"h",
+"s":"Heading 3",
+"text":"Please share these missing MIB files."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Reply: The 1.3.6.1.4.1.56813* and 1.3.6.1.4.1.171* SNMP values have been removed."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Updated NMS-SYS-MIB to provide definitions for NMS-SYS-MIB::sys.4.1.1 and NMS-SYS-MIB::sys.4.1.2."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2\\ The MIB enterprise IDs (.1.3.6.1.4.1.57430.* and .1.3.6.1.4.1.56813.* and .1.3.6.1.4.1.171.*)) are registered to two other companies:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Dongguan Huarong Communication Technologies Co., Ltd."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Fuzhou Dockeer Technology Co., Ltd."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"D-Link Systems, Inc."
+},
+{
+"t":"h",
+"s":"Heading 3",
+"text":"How is smart bytes/saga telecom related to these companies?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Reply:"
+},
+{
+"t":"h",
+"s":"Heading 3",
+"text":"3\\ lldpV2RemPortDesc contains a trailing zero byte, e.g.:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LLDP-V2-MIB::lldpV2RemPortDesc.0.27.1.3 = STRING: tengigabitEthernet0/28\\x00"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Reply: The trailing zeros are removed in the new version."
+},
+{
+"t":"h",
+"s":"Heading 3",
+"text":"4\\ Our monitoring system is picking up an error"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Our monitoring system is picking up an error from this (This is probably just a misconfiguration):"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"UCD-SNMP-MIB::memCached.0 = INTEGER: 30564 kB"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"UCD-SNMP-MIB::memSwapError.0 = INTEGER: error(1)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"UCD-SNMP-MIB::memSwapErrorMsg.0 = STRING: Running out of swap space (0)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Reply: We will not support UCD-SNMP-MIB in the new version"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"Suggestion:"
+},
+{
+"t":"h",
+"s":"Heading 3",
+"text":"Did you just create the MIB files with the last software version?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Because with the current layout e.g. the optical MIB is not suitable for multi lane optics (e.g. most 40G, 100G transceivers) where DDM will provide data for each lane. If it’s newly designed I would suggest you update your design before it’s deployed to more customers."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Reply: not support 40G, 100G now"
+},
+{
+"t":"h",
+"s":"Heading 3",
+"text":"Unique OID for each hardware series/model"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It’s best practice to set SNMPv2-MIB::sysObjectID.0 to a unique OID for each hardware series/model, see e.g. the juniper product MIB here:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://mibs.observium.org/mib/JUNIPER-CHASSIS-DEFINES-MIB/"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Currently it’s set to a fixed value:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SNMPv2-MIB::sysObjectID.0 = OID: NMS::nms"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Reply: not support, we are OEM factory"
+}
+],
+"extracted_at":"2026-10-22T07:34:08Z"
+}

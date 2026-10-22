@@ -1,0 +1,25 @@
+{
+"id":"PI__PI__20_土耳其_Burak_活跃_Xtransfer_轻度绑定__Shipment_Info__WE0260100019504_土耳其_入仓标签.PDF__283406a8",
+"path":"PI/PI/20 土耳其 Burak 活跃 Xtransfer 轻度绑定/Shipment Info/WE0260100019504 土耳其 入仓标签.PDF",
+"name":"WE0260100019504 土耳其 入仓标签.PDF",
+"ext":".pdf",
+"bytes":17928,
+"sha256":"283406a8dcc8216a86698002e517f2de65d286cd0dd6b967b494ec038704b362",
+"source":"PI.zip",
+"method":"pdfplumber",
+"status":"ok",
+"meta":{
+"pages":1,
+"creator":"PDFsharp 1.50.5147 (www.pdfsharp.com)",
+"producer":"PDFsharp 1.50.5147 (www.pdfsharp.com)",
+"creationdate":"D:20260122141226+08'00'",
+"ocr_pages":0
+},
+"warnings":[],
+"chars":65,
+"text":"[p1]\nBSA00002 SE2601028014\n→ TR\nHCN-17 UPS-CN\nWE0260100019504 1-1",
+"pages":[
+"BSA00002 SE2601028014\n→ TR\nHCN-17 UPS-CN\nWE0260100019504 1-1"
+],
+"extracted_at":"2026-10-22T07:47:34Z"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__2_印度_Rishi_gg__1st_order__银行报文.jpg__20463de2",
+"path":"PI/PI/2 印度 Rishi gg/1st order/银行报文.jpg",
+"name":"银行报文.jpg",
+"ext":".jpg",
+"bytes":674978,
+"sha256":"20463de2cadb4822d0c8e3c9ddc33e17af7813a0560d64d6f687e86d6b98ba7d",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":1080,
+"height":1920,
+"mode":"RGB",
+"thumb_bytes":8614
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:31:44Z",
+"thumb":"thumbs/PI__PI__2_印度_Rishi_gg__1st_order__银行报文.jpg__20463de2.jpg"
+}

@@ -1,0 +1,24 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__STI-21616GP__4.jpg__c8d67535",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/2nd order/发货图片/STI-21616GP/4.jpg",
+"name":"4.jpg",
+"ext":".jpg",
+"bytes":3283957,
+"sha256":"c8d67535013d1c80e58bd8876a18d2b72ec1d2d9ae5f43ab40ca95dd18a20cbb",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":4624,
+"height":3468,
+"mode":"RGB",
+"software":"MediaTek Camera Application\u0000\u0000\u0000\u0000",
+"thumb_bytes":9599
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:52:22Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__STI-21616GP__4.jpg__c8d67535.jpg"
+}

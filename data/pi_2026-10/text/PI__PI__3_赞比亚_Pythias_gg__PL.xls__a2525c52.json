@@ -1,0 +1,174 @@
+{
+"id":"PI__PI__3_赞比亚_Pythias_gg__PL.xls__a2525c52",
+"path":"PI/PI/3  赞比亚 Pythias gg/PL.xls",
+"name":"PL.xls",
+"ext":".xls",
+"bytes":148480,
+"sha256":"a2525c521647809b3c15572e622acc760144be96d869dde0d78a52b0c05ee0c0",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Packing list"
+],
+"rows_total":19
+},
+"warnings":[],
+"chars":847,
+"text":"--- Sheet: Packing list ---\nZhengzhou Saga Telecom Co., Ltd.\nMob/Whatsapp/Skype: 86 15237149683\nWeb:www.sagatelecom.com.cn\nEmail: s.sagatelecom@gmail.com\nPacking  List\nDate\t2024.03.04\t\t\t\t\t\t\t\tPO No.\nTracking No.\t\t\t\t\t\t\t\t\tC/I No.\tSTSC20240117003\nShip To\tObmac Systems\t\t\t\t\t\t\t\tP/L No.\tPL-20240304001\nShipping Add.\tPlot No. 3062/1 Corner Makishi/Great East Road, Lusaka, Zambia\nC/No.:\tDESCRIPTION\tQTY/CTN\tQTY/PCS\tCTNS\tN.W/KGS\tG.W/KGS\tLENGTH/CM\tWIDTH/CM\tHEIGHT/CM\tMEAS/CM³\n1~3\tCommercial Switch\t5\t15\t3\t48\t57\t52\t44.5\t31\t0.215202\n4~5\tIndustrial Switch\t24\t48\t2\t28.8\t33.6\t38.5\t33\t32\t0.081312\n6\tIndustrial Switch\t2\t2\t1\t1.2\t1.4\t24\t18.5\t14\t0.006216\n7\tSFP Module\t200\t200\t1\t4\t5\t33\t21\t22.5\t0.015593\nTOTAL\t\t\t265\t7\t82\t97\t\t\t\t0.318323\nSAY TOTAL: SEVEN(7)CARTONS ONLY\nQUANTITY: TWO HUNDRED AND SIXTY FIVE PCS ONLY\nIssued by: Zhengzhou Saga Telecom Co., Ltd.\nSimon Cheng",
+"sheets":{
+"Packing list":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Mob/Whatsapp/Skype: 86 15237149683"
+],
+[
+"Web:www.sagatelecom.com.cn"
+],
+[
+"Email: s.sagatelecom@gmail.com"
+],
+[
+"Packing  List"
+],
+[
+"Date",
+"2024.03.04",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"PO No."
+],
+[
+"Tracking No.",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"C/I No.",
+"STSC20240117003"
+],
+[
+"Ship To",
+"Obmac Systems",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"P/L No.",
+"PL-20240304001"
+],
+[
+"Shipping Add.",
+"Plot No. 3062/1 Corner Makishi/Great East Road, Lusaka, Zambia"
+],
+[
+"C/No.:",
+"DESCRIPTION",
+"QTY/CTN",
+"QTY/PCS",
+"CTNS",
+"N.W/KGS",
+"G.W/KGS",
+"LENGTH/CM",
+"WIDTH/CM",
+"HEIGHT/CM",
+"MEAS/CM³"
+],
+[
+"1~3",
+"Commercial Switch",
+"5",
+"15",
+"3",
+"48",
+"57",
+"52",
+"44.5",
+"31",
+"0.215202"
+],
+[
+"4~5",
+"Industrial Switch",
+"24",
+"48",
+"2",
+"28.8",
+"33.6",
+"38.5",
+"33",
+"32",
+"0.081312"
+],
+[
+"6",
+"Industrial Switch",
+"2",
+"2",
+"1",
+"1.2",
+"1.4",
+"24",
+"18.5",
+"14",
+"0.006216"
+],
+[
+"7",
+"SFP Module",
+"200",
+"200",
+"1",
+"4",
+"5",
+"33",
+"21",
+"22.5",
+"0.015593"
+],
+[
+"TOTAL",
+"",
+"",
+"265",
+"7",
+"82",
+"97",
+"",
+"",
+"",
+"0.318323"
+],
+[
+"SAY TOTAL: SEVEN(7)CARTONS ONLY"
+],
+[
+"QUANTITY: TWO HUNDRED AND SIXTY FIVE PCS ONLY"
+],
+[
+"Issued by: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Simon Cheng"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:47:39Z"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__发货图片__5.jpg__2e648f8d",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/发货图片/5.jpg",
+"name":"5.jpg",
+"ext":".jpg",
+"bytes":2378823,
+"sha256":"2e648f8ddab431a8ca263bef39e662e188472722977b70681e530804257681eb",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":2841,
+"height":1840,
+"mode":"RGB",
+"thumb_bytes":11267
+},
+"warnings":[],
+"chars":2574,
+"text":"4\nNg\nMany thanks for your purchase.\nPlease read this user manual for safe and correct use.\n@ The information described in this manual is ONLY\nabout general information, please refer to the actual\nproduct purchased.\n@ It is advised to keep the user manual properly.\nPacking List\n1*Switch (See the product label for more details)\n1*Wall Hanger (Shared mounting holes with DIN Rail Kit)\n1*User Manual (Printed copy)\nApplication\ne Any network utilizing a mixture of copper and fiber\ne@ IP connectivity and communication\n@ CCTV system such as network camera, access control\nKey Features\nWide port combination(2/3/4/5/6/8/9/10/12/16/18)\n100/1000M Speed for optical and copper\nRich fiber choices, SFP/SC/FC/ST\nSupport wide dual voltage input, DC12V~DC58V\nor DC44V~DC57V, with polarity reverse and over\nvoltage protection\nExpert design for better heat dissipation and EMI\ncapacity\nPowerful DIP functions, easy to operate\n. Support alarm output(some models)\n. Rich LED indicators to show working status\n時 Support watchdog, automatically rebooting frozen\ndevices to reduce maintenance cost\n10.Compliant with industrial testing standard\nWw SAY ig\n\\O 90 ND\nLED Indicator\nP: Power, Green Color\nOn: power status is normal\nOff: power off or power connection failure\nS: System, Red Color\nNon-PoE models(DC12V~DCS58V)\nOn: the chip read/write is abnormal\nOff: the chip is normally operating\nPoE models(DC44V~DCS57V)\nOn: PoE usage>90% rated budget\nBlinking: 50%<PoE usage<90% rated budget\nOff: PoE usage<50% rated budget\nCopper Status, Green Color\nOn: port link up\nBlinking: data is in normal transmission\nOff: port link down\nCopper Speed, Yellow Color\nNon-PoE models(DC12V~DCS8V)\ne 1000M models\nOn: port speed is 1000M\nOff: port speed is 10/100M\ne 10/100M models\nOn: port speed is 100M\nOff: port speed is 10/100M\nPoE models(DC44V~DCS57V)\nOn: PoE working\nOff: PoE not working\nFiber port, Green Color\nOn: port link up\nOff: port link down\nBlinking: data is in normal transmission\nDIP Switch\nThere are 4 options from the DIP(on the top panel).\nIt supports dialing one or many at the same time and\ncome in below functions.\nPort isolation\nLink aggregation\nFlow control\n250m long distance\nQoS\nBroadcast storm restrain\nPoE watchdog\nIL}\nFiber redundant\n10Kbytes jumbo frame\nFiber speed selection\nAforementioned functions are subject to specific models.\nPlease refer to the datasheet of actual product purchased\nor talk with us for more information.\nMechanical Drawing(Reference Only)\n130mm |\n-- wwog 4\nPer Ein Sp i ig SEE 上 -\nPWRI_PWRZ al:\nFamamaml =\n© Ress: tae 在\naa 8\ntonto eswse OC 48 74 |\nuuuuS6 4",
+"extracted_at":"2026-10-22T07:54:13Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__发货图片__5.jpg__2e648f8d.jpg"
+}

@@ -1,0 +1,37 @@
+{
+"id":"PI__PI__20_土耳其_Burak_活跃_Xtransfer_轻度绑定__Shipment_Info__AWB.docx__f9371c6a",
+"path":"PI/PI/20 土耳其 Burak 活跃 Xtransfer 轻度绑定/Shipment Info/AWB.docx",
+"name":"AWB.docx",
+"ext":".docx",
+"bytes":31088,
+"sha256":"f9371c6ac6b9a8cc0ca874b407800dee244cd0502862db2edd71b73651591cc8",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2026-01-22T06:29:00+00:00",
+"modified":"2026-01-23T06:20:33+00:00",
+"paragraphs":2,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"chars":164,
+"text":"UPS\n1Z0E64G86728428159\n[页眉页脚]\nSaga Telecom\nwww.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"UPS"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1Z0E64G86728428159"
+}
+],
+"extracted_at":"2026-10-22T07:47:34Z"
+}

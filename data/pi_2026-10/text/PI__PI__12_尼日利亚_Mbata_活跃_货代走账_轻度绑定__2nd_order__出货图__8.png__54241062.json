@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__2nd_order__出货图__8.png__54241062",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/2nd order/出货图/8.png",
+"name":"8.png",
+"ext":".png",
+"bytes":42298,
+"sha256":"542410624e19dcdcdd4a7087ae2f4224e25e21e93bb8f843746f6a5a0353f757",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1283,
+"height":865,
+"mode":"RGBA",
+"thumb_bytes":8049
+},
+"warnings":[],
+"chars":154,
+"text":"品 名 : 商业 交换 机 /Commercial Network Switch\n数量 : 5 台 /$ Pieces\n品牌 : 无\n沒 有 內 置 電 池 , 普 貨 , 不 帶 電 不 帶 磁 不 含 粉 末 等\n客戶 信息\nVALENTINE, (LAGOS-NIGERIA), 08033883255",
+"extracted_at":"2026-10-22T08:01:42Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__2nd_order__出货图__8.png__54241062.jpg"
+}

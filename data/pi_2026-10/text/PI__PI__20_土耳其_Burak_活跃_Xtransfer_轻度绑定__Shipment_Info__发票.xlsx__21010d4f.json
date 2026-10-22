@@ -1,0 +1,105 @@
+{
+"id":"PI__PI__20_土耳其_Burak_活跃_Xtransfer_轻度绑定__Shipment_Info__发票.xlsx__21010d4f",
+"path":"PI/PI/20 土耳其 Burak 活跃 Xtransfer 轻度绑定/Shipment Info/发票.xlsx",
+"name":"发票.xlsx",
+"ext":".xlsx",
+"bytes":16906,
+"sha256":"21010d4f4a8e1a366ad709e597d2166ca5532c18a1d59ea9e7bceb949f399966",
+"source":"PI.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"发票"
+],
+"embedded_images":0,
+"rows_total":8
+},
+"warnings":[],
+"chars":497,
+"text":"--- Sheet: 发票 ---\nCOMMERCIAL   INVOICE\nMESSRS\tNETAŞ Telekomünikasyon A.Ş.\t\t\t\t\tATT\t\tBurak Ozdemir\nADD\tOrhanlı Mahallesi, İrfanlı Caddesi No: 28, 34956 Orhanlı – Tuzla, Istanbul, Türkiye\t\t\t\t\tPOSTCODE\t\t34956\nTEL\t90 53486 02136\t\t\t\t\tINVOICE NO.\t\tSTAG20251224020\nEORI：\t\t\tvat\t\tMode of transaction\nS/N\tItem Name\tHS\tMaterial\tuse\tQTY(pcs)\tUnit Price  (USD)\tAmount (USD)\tRemark\n1\tIndustrial Ethernet Switch\t8517622990\tMetal\tData exchange and optical telecommunication\t3\t150\t450\t不带电不带磁\n普货\nTOTAL（合计）:\t\t\t\t\t\t\t450",
+"sheets":{
+"发票":{
+"state":"visible",
+"rows":[
+[
+"COMMERCIAL   INVOICE"
+],
+[
+"MESSRS",
+"NETAŞ Telekomünikasyon A.Ş.",
+"",
+"",
+"",
+"",
+"ATT",
+"",
+"Burak Ozdemir"
+],
+[
+"ADD",
+"Orhanlı Mahallesi, İrfanlı Caddesi No: 28, 34956 Orhanlı – Tuzla, Istanbul, Türkiye",
+"",
+"",
+"",
+"",
+"POSTCODE",
+"",
+"34956"
+],
+[
+"TEL",
+"90 53486 02136",
+"",
+"",
+"",
+"",
+"INVOICE NO.",
+"",
+"STAG20251224020"
+],
+[
+"EORI：",
+"",
+"",
+"vat",
+"",
+"Mode of transaction"
+],
+[
+"S/N",
+"Item Name",
+"HS",
+"Material",
+"use",
+"QTY(pcs)",
+"Unit Price  (USD)",
+"Amount (USD)",
+"Remark"
+],
+[
+"1",
+"Industrial Ethernet Switch",
+"8517622990",
+"Metal",
+"Data exchange and optical telecommunication",
+"3",
+"150",
+"450",
+"不带电不带磁\n普货"
+],
+[
+"TOTAL（合计）:",
+"",
+"",
+"",
+"",
+"",
+"",
+"450"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:47:39Z"
+}

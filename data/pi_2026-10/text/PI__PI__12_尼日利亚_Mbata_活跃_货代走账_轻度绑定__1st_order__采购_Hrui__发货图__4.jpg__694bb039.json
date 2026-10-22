@@ -1,0 +1,27 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__1st_order__采购_Hrui__发货图__4.jpg__694bb039",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/1st order/采购_Hrui/发货图/4.jpg",
+"name":"4.jpg",
+"ext":".jpg",
+"bytes":471734,
+"sha256":"694bb039c5897ba7c9c6c0c6511878939a3512f9be80eeba5ab5bf7d82373417",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":2560,
+"height":1920,
+"mode":"RGB",
+"datetime":"2024:10:10 14:52:55",
+"make":"HUAWEI",
+"model":"NOH-AN00",
+"software":"NOH-AN00 4.2.0.138(C00E100R8P6)",
+"thumb_bytes":10625
+},
+"warnings":[],
+"chars":11,
+"text":"aga Telecom",
+"extracted_at":"2026-10-22T08:05:17Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__1st_order__采购_Hrui__发货图__4.jpg__694bb039.jpg"
+}

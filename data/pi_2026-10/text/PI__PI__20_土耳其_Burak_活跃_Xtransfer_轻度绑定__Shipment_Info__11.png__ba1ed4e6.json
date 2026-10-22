@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__20_土耳其_Burak_活跃_Xtransfer_轻度绑定__Shipment_Info__11.png__ba1ed4e6",
+"path":"PI/PI/20 土耳其 Burak 活跃 Xtransfer 轻度绑定/Shipment Info/11.png",
+"name":"11.png",
+"ext":".png",
+"bytes":21120,
+"sha256":"ba1ed4e692f8ad7b4cde2bc232dab9f05388d7c439a2a8600691c3501b25781a",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":654,
+"height":659,
+"mode":"RGB",
+"thumb_bytes":14051
+},
+"warnings":[],
+"chars":166,
+"text":"Product name: Industrial Switch\nModel: STI-488DGGPM-2BT\nQty.: 3 PCS 蔬 划 了\n3\nSN:\nFROM: | 較 耳 是 是 喇 邁\n202601140001\nTO: 由 DEL\n202601140003\nWeight: 4.3 KG\nCarton No.: 1/1",
+"extracted_at":"2026-10-22T07:47:08Z",
+"thumb":"thumbs/PI__PI__20_土耳其_Burak_活跃_Xtransfer_轻度绑定__Shipment_Info__11.png__ba1ed4e6.jpg"
+}

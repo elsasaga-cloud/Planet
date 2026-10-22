@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__1st_order__采购_Hrui__发货图__label_1.png__14173966",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/1st order/采购_Hrui/发货图/label 1.png",
+"name":"label 1.png",
+"ext":".png",
+"bytes":41381,
+"sha256":"14173966cc4f46d32c931f17f433ca5d4f86fe5ef66a1ae5f90d18fd33a84b22",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":731,
+"height":500,
+"mode":"RGBA",
+"thumb_bytes":16082
+},
+"warnings":[],
+"chars":237,
+"text":"Product 12\nPort Commercial PoE Switch\nModel: BNSC-228GP\nFeatures: 8*1\n+2\"\nInternal Powe\n/100/1000M PoE ports + 2*1000M Ethernet ports\nG SFP slots\nr, AC 100-240V / 120W, IEEE 802.3af/at (12+36-)\nManufac\nSN-202409080001\nturer Made In China",
+"extracted_at":"2026-10-22T08:05:24Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__1st_order__采购_Hrui__发货图__label_1.png__14173966.jpg"
+}

@@ -1,0 +1,18 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__ac5-release-7.5.0.bin__86a7bf6e",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/ac5-release-7.5.0.bin",
+"name":"ac5-release-7.5.0.bin",
+"ext":".bin",
+"bytes":59095040,
+"sha256":"86a7bf6e7c87d24b5e772ddbdf070b3410483cef08f11af1f4b85addca52b2dc",
+"source":"PI.zip",
+"method":"none",
+"status":"meta",
+"meta":{},
+"warnings":[
+"no extractor for .bin"
+],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:55:31Z"
+}

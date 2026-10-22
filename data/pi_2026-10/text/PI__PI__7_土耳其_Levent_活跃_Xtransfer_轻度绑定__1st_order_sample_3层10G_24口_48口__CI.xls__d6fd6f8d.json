@@ -1,0 +1,246 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__1st_order_sample_3层10G_24口_48口__CI.xls__d6fd6f8d",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/1st order sample  3层10G 24口 48口/CI.xls",
+"name":"CI.xls",
+"ext":".xls",
+"bytes":176640,
+"sha256":"d6fd6f8ded41d2fd2607760c521a663bc4ed8a4d329a5c98a47cd3d0dd74e000",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Commercial Invoice"
+],
+"rows_total":46
+},
+"warnings":[],
+"chars":3233,
+"text":"--- Sheet: Commercial Invoice ---\nZhengzhou Saga Telecom Co., Ltd.\nAddress: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob/Whatsapp/Wechat: 86 15237149683                       www.sagatelecom.com.cn                     Email: s.sagatelecom@gmail.com\n************************************************************************************************************************\nCommercial Invoice\nTax Information\tID: 069 052 0220\nOffice: Yeni̇Mahalle Vd\t\tInvoice No.:\tSTSC20240508007\nBuyer:\tANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t90 (312) 241 77 47\t\tIssued By:\tSimon Cheng\nEmail:\tLevent.Kilic@AngoraNetworks.com\t\tInvoice Date:\t8th, May, 2024\nContact Person:\tLevent Kilic\t\tPayment Term:\tT/T in advance\nShipping Address\tÇamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle  06200 Ankara Turkey\nSTC-448XGGPM\tCommercial Ethernet Switch\n4*1G/2.5G/10G SFP+48*10/100/1000M RJ45+1*Console Port\nL3 managed, POE af/at, 400W budget, Support PoE management, PoE watchdog, AC input, Rack compatible, with power cable, without SFP transceiver\t\t\t1\t520\t520\tSample Unit\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 440*245*44mm\nGross Weight: 5kg\nSTC-424XGGPM\tCommercial Ethernet Switch\n4*1G/2.5G/10G SFP+24*10/100/1000M RJ45+1*Console Port\nL3 managed, POE af/at, 400W budget, Support PoE management, PoE watchdog, AC input, Rack compatible, with power cable, without SFP transceiver\t\t\t1\t340\t340\tSample Unit\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 440*245*44mm\nGross Weight: 4.2kg\nSTC-28DGGPM\tCommercial Ethernet Switch\n2*1G/2.5G SFP+8*10/100/1000M RJ45+1*Console Port\nPoE af/at, 240W budget, L2 managed, DC52V input, with power supply, without SFP transceiver\t\t\t2\t90\t180\tSample Units\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 152*115*44mm\nGross Weight: 1.4kg\nShipping Cost\t200usd for about 15Kg volume weight to Turkey by FedEx\nair, door-to-door service\t\t\t\t\t200\nBank Cost\tStandard Charge in EACH Order\t\t\t\t\t25\nTOTAL\t\t\t\t4\t\t1265\nSAY TOTAL IN USD ONE THOUSAND TWO HUNDRED AND SIXTY FIVE ONLY\nRemark\nPlease do make sure client side could handle import customs clearance.\n1. Payment: Full payment to the below bank account before shipment.\nBank Information\nBank Name: BANK OF CHINA HENAN BRANCH\nBank Address: HUANYUAN ROAD 40TH ZHENGZHOU CITY HENAN CHINA\nBeneficiary: Zhengzhou Saga Telecom Co., Ltd.\nCNY/USD Account No.: 255987045839\nSWIFT CODE: BKCHCNBJ530\n2. NOTE: Saga Telecom will not pay for any bank charge.\nPlease make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice.\n3. Leadtime: 4~7 working days\n4. Country of origin: China\n5. Non-brand packing, without Chinese letters or logo\nPackage Marks: None\nPacking list is available upon request\n6. Warranty: STC Series 1 year\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" for more information.\nBuyer: ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.\t\t\tSeller: Zhengzhou Saga Telecom Co., Ltd.\nLevent Kilic\t\t\tSimon Cheng\nAuthorized Signature\t\t\tAuthorized Signature",
+"sheets":{
+"Commercial Invoice":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob/Whatsapp/Wechat: 86 15237149683                       www.sagatelecom.com.cn                     Email: s.sagatelecom@gmail.com"
+],
+[
+"************************************************************************************************************************"
+],
+[
+"Commercial Invoice"
+],
+[
+"Tax Information",
+"ID: 069 052 0220\nOffice: Yeni̇Mahalle Vd",
+"",
+"Invoice No.:",
+"STSC20240508007"
+],
+[
+"Buyer:",
+"ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"90 (312) 241 77 47",
+"",
+"Issued By:",
+"Simon Cheng"
+],
+[
+"Email:",
+"Levent.Kilic@AngoraNetworks.com",
+"",
+"Invoice Date:",
+"8th, May, 2024"
+],
+[
+"Contact Person:",
+"Levent Kilic",
+"",
+"Payment Term:",
+"T/T in advance"
+],
+[
+"Shipping Address",
+"Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle  06200 Ankara Turkey"
+],
+[
+"STC-448XGGPM",
+"Commercial Ethernet Switch\n4*1G/2.5G/10G SFP+48*10/100/1000M RJ45+1*Console Port\nL3 managed, POE af/at, 400W budget, Support PoE management, PoE watchdog, AC input, Rack compatible, with power cable, without SFP transceiver",
+"",
+"",
+"1",
+"520",
+"520",
+"Sample Unit"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 440*245*44mm\nGross Weight: 5kg"
+],
+[
+"STC-424XGGPM",
+"Commercial Ethernet Switch\n4*1G/2.5G/10G SFP+24*10/100/1000M RJ45+1*Console Port\nL3 managed, POE af/at, 400W budget, Support PoE management, PoE watchdog, AC input, Rack compatible, with power cable, without SFP transceiver",
+"",
+"",
+"1",
+"340",
+"340",
+"Sample Unit"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 440*245*44mm\nGross Weight: 4.2kg"
+],
+[
+"STC-28DGGPM",
+"Commercial Ethernet Switch\n2*1G/2.5G SFP+8*10/100/1000M RJ45+1*Console Port\nPoE af/at, 240W budget, L2 managed, DC52V input, with power supply, without SFP transceiver",
+"",
+"",
+"2",
+"90",
+"180",
+"Sample Units"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 152*115*44mm\nGross Weight: 1.4kg"
+],
+[
+"Shipping Cost",
+"200usd for about 15Kg volume weight to Turkey by FedEx\nair, door-to-door service",
+"",
+"",
+"",
+"",
+"200"
+],
+[
+"Bank Cost",
+"Standard Charge in EACH Order",
+"",
+"",
+"",
+"",
+"25"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"4",
+"",
+"1265"
+],
+[
+"SAY TOTAL IN USD ONE THOUSAND TWO HUNDRED AND SIXTY FIVE ONLY"
+],
+[
+"Remark"
+],
+[
+"Please do make sure client side could handle import customs clearance."
+],
+[
+"1. Payment: Full payment to the below bank account before shipment."
+],
+[
+"Bank Information"
+],
+[
+"Bank Name: BANK OF CHINA HENAN BRANCH"
+],
+[
+"Bank Address: HUANYUAN ROAD 40TH ZHENGZHOU CITY HENAN CHINA"
+],
+[
+"Beneficiary: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"CNY/USD Account No.: 255987045839"
+],
+[
+"SWIFT CODE: BKCHCNBJ530"
+],
+[
+"2. NOTE: Saga Telecom will not pay for any bank charge."
+],
+[
+"Please make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice."
+],
+[
+"3. Leadtime: 4~7 working days"
+],
+[
+"4. Country of origin: China"
+],
+[
+"5. Non-brand packing, without Chinese letters or logo"
+],
+[
+"Package Marks: None"
+],
+[
+"Packing list is available upon request"
+],
+[
+"6. Warranty: STC Series 1 year"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" for more information."
+],
+[
+"Buyer: ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+"",
+"",
+"Seller: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Levent Kilic",
+"",
+"",
+"Simon Cheng"
+],
+[
+"Authorized Signature",
+"",
+"",
+"Authorized Signature"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:37:44Z"
+}

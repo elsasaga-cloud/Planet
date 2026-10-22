@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__STI-21616GP__5.png__c3b23dcc",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/2nd order/发货图片/STI-21616GP/5.png",
+"name":"5.png",
+"ext":".png",
+"bytes":24811,
+"sha256":"c3b23dcc04aca12ba9e966151b4109ba285b8793a6b839bbc8ffa8b24451cefa",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":576,
+"height":286,
+"mode":"RGBA",
+"thumb_bytes":10258
+},
+"warnings":[],
+"chars":138,
+"text":"Industrial Switch oa\nModel: STI-21616GP\nPorts: 16*10/100/1000M RJ45 PoE + 2*1G SFP\nPower input: DC 44-57V\nCC FE\nUMMM\nSN: 20250214001 cones",
+"extracted_at":"2026-10-22T07:52:25Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__STI-21616GP__5.png__c3b23dcc.jpg"
+}

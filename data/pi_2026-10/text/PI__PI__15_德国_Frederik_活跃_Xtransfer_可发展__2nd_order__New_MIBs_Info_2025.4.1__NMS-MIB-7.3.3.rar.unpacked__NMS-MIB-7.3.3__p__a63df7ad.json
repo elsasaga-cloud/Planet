@@ -1,0 +1,18 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__New_MIBs_Info_2025.4.1__NMS-MIB-7.3.3.rar.unpacked__NMS-MIB-7.3.3__p__a63df7ad",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/2nd order/New MIBs Info_2025.4.1/NMS-MIB-7.3.3.rar.unpacked/NMS-MIB-7.3.3/private/NMS-LDET-MIB.my",
+"name":"NMS-LDET-MIB.my",
+"ext":".my",
+"bytes":4017,
+"sha256":"a63df7ad0d8fdf974e537bd5970fa5045c4c358311b6304d38f8a15f6dcc6cb5",
+"source":"PI.zip",
+"method":"none",
+"status":"meta",
+"meta":{},
+"warnings":[
+"no extractor for .my"
+],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:34:08Z"
+}

@@ -1,0 +1,222 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__2nd_order__STSC20241201012.xls__71b52658",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/2nd order/STSC20241201012.xls",
+"name":"STSC20241201012.xls",
+"ext":".xls",
+"bytes":2138624,
+"sha256":"71b52658810c153fa78741552e8350bad410f23abf175f081adb291a1ccbf3d2",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Proforma Invoice"
+],
+"rows_total":42
+},
+"warnings":[],
+"chars":2670,
+"text":"--- Sheet: Proforma Invoice ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob/WhatsApp/WeChat: 86 15237149683                    www.sagatelecom.com.cn                   Email: s.sagatelecom@gmail.com\n****************************************************************************************************************************\nProforma  Invoice\nPO No.\t\t\tInvoice No.:\tSTSC20241201012\nBuyer:\tBiz - Ethics Ltd.\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t234-07029186461\t\tIssued By:\tSimon Cheng\nEmail:\tinfo@belnetworks.com\t\tInvoice Date:\t1st, Dec, 2024\nContact Person:\tValentine Mbata\t\tPayment Term:\tT/T in advance\nShipping Address\t广州市越秀区瑶台前进北街73号(瑶台二社创意园) B排B117, Jessica /管丹, 13544315510\nModel\tPhoto\tSpecification\t\tQuantity \n(pcs)\tUnit Price\n(RMB)\tAmount \n(RMB)\tRemark\nSeller: STC-424DGGPM\n\nBuyer: BNSC-424DGGPM\t\tCommercial PoE Managed Switch\n\n4*1G/2.5G SFP+24*10/100/1000M RJ45+1*Console Port, L2+ managed, PoE af/at, 280W budget, Support PoE management, PoE watchdog, AC input, Rack compatible\nWith mounting hanger/Power Cord\t\t5\t860\t4300\tSame as Last Order\nSTSC20240908012\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 440*180*44mm\nGross Weight: 4Kg\nFreight Cost\t200RMB for about 21Kg volume weight to Guangzhou\nDoor-to-door service\t\t\t\t\t200\nBalance Payment\tOrder Number: STSC20240908012\t\t\t\t\t4150\nTOTAL\t\t\t\t5\t\t8650\nSAY TOTAL IN RMB EIGHT THOUSAND SIX HUNDRED AND FIFTY ONLY\nRemark\nPlease do make sure client side could handle import customs clearance.\n1. Payment: Full payment to the below bank account before shipment.\nBank Information\nBank Name\t招商银行深圳西丽支行\nBeneficiary\t程天龙\nAccount No.(RMB)\t6214 8386 5934 1962\n2. NOTE: Saga Telecom will not pay for any bank charge.\nPlease make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice.\n3. Leadtime: 3~5 WORKING days(NOT calendar days)\nEvery 2% of invoice value will be deducted as a punitive damage once the purchased items are not delivered as per promised date.\nThis term comes into immediate effect AFTER FULL PAYMENT is collected.\n4. Country of origin: China\n5. Customized packing\nPackage Marks: None\nPacking list is available upon request\n6. Warranty: 1 year, lifetime technical support\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" for more information.\nBuyer: Biz - Ethics Ltd.\t\t\tSeller: Zhengzhou Saga Telecom Co., Ltd.\nValentine Mbata\t\t\tSimon Cheng\nAuthorized Signature\t\t\tAuthorized Signature",
+"sheets":{
+"Proforma Invoice":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob/WhatsApp/WeChat: 86 15237149683                    www.sagatelecom.com.cn                   Email: s.sagatelecom@gmail.com"
+],
+[
+"****************************************************************************************************************************"
+],
+[
+"Proforma  Invoice"
+],
+[
+"PO No.",
+"",
+"",
+"Invoice No.:",
+"STSC20241201012"
+],
+[
+"Buyer:",
+"Biz - Ethics Ltd.",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"234-07029186461",
+"",
+"Issued By:",
+"Simon Cheng"
+],
+[
+"Email:",
+"info@belnetworks.com",
+"",
+"Invoice Date:",
+"1st, Dec, 2024"
+],
+[
+"Contact Person:",
+"Valentine Mbata",
+"",
+"Payment Term:",
+"T/T in advance"
+],
+[
+"Shipping Address",
+"广州市越秀区瑶台前进北街73号(瑶台二社创意园) B排B117, Jessica /管丹, 13544315510"
+],
+[
+"Model",
+"Photo",
+"Specification",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(RMB)",
+"Amount \n(RMB)",
+"Remark"
+],
+[
+"Seller: STC-424DGGPM\n\nBuyer: BNSC-424DGGPM",
+"",
+"Commercial PoE Managed Switch\n\n4*1G/2.5G SFP+24*10/100/1000M RJ45+1*Console Port, L2+ managed, PoE af/at, 280W budget, Support PoE management, PoE watchdog, AC input, Rack compatible\nWith mounting hanger/Power Cord",
+"",
+"5",
+"860",
+"4300",
+"Same as Last Order\nSTSC20240908012"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 440*180*44mm\nGross Weight: 4Kg"
+],
+[
+"Freight Cost",
+"200RMB for about 21Kg volume weight to Guangzhou\nDoor-to-door service",
+"",
+"",
+"",
+"",
+"200"
+],
+[
+"Balance Payment",
+"Order Number: STSC20240908012",
+"",
+"",
+"",
+"",
+"4150"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"5",
+"",
+"8650"
+],
+[
+"SAY TOTAL IN RMB EIGHT THOUSAND SIX HUNDRED AND FIFTY ONLY"
+],
+[
+"Remark"
+],
+[
+"Please do make sure client side could handle import customs clearance."
+],
+[
+"1. Payment: Full payment to the below bank account before shipment."
+],
+[
+"Bank Information"
+],
+[
+"Bank Name",
+"招商银行深圳西丽支行"
+],
+[
+"Beneficiary",
+"程天龙"
+],
+[
+"Account No.(RMB)",
+"6214 8386 5934 1962"
+],
+[
+"2. NOTE: Saga Telecom will not pay for any bank charge."
+],
+[
+"Please make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice."
+],
+[
+"3. Leadtime: 3~5 WORKING days(NOT calendar days)"
+],
+[
+"Every 2% of invoice value will be deducted as a punitive damage once the purchased items are not delivered as per promised date."
+],
+[
+"This term comes into immediate effect AFTER FULL PAYMENT is collected."
+],
+[
+"4. Country of origin: China"
+],
+[
+"5. Customized packing"
+],
+[
+"Package Marks: None"
+],
+[
+"Packing list is available upon request"
+],
+[
+"6. Warranty: 1 year, lifetime technical support"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" for more information."
+],
+[
+"Buyer: Biz - Ethics Ltd.",
+"",
+"",
+"Seller: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Valentine Mbata",
+"",
+"",
+"Simon Cheng"
+],
+[
+"Authorized Signature",
+"",
+"",
+"Authorized Signature"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T08:01:14Z"
+}

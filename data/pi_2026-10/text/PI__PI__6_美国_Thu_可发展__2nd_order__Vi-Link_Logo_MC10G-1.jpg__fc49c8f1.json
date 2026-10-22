@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__2nd_order__Vi-Link_Logo_MC10G-1.jpg__fc49c8f1",
+"path":"PI/PI/6 美国 Thu 可发展/2nd order/Vi-Link Logo MC10G-1.jpg",
+"name":"Vi-Link Logo MC10G-1.jpg",
+"ext":".jpg",
+"bytes":492794,
+"sha256":"fc49c8f156dc0d1d3ccee6c48764535bbc32b85e3001058fb116afcef64c9faa",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":3408,
+"height":2501,
+"mode":"RGB",
+"thumb_bytes":7616
+},
+"warnings":[],
+"chars":91,
+"text":"Fiber Optic Communications\nModel: MC10G\nEthernet 10G Base-TX to Ethernet 10G SFP Conversion",
+"extracted_at":"2026-10-22T07:32:50Z",
+"thumb":"thumbs/PI__PI__6_美国_Thu_可发展__2nd_order__Vi-Link_Logo_MC10G-1.jpg__fc49c8f1.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__5th_order__发货图片__9.jpg__b10fd136",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/5th order/发货图片/9.jpg",
+"name":"9.jpg",
+"ext":".jpg",
+"bytes":141924,
+"sha256":"b10fd13682f69e922253d01b90de45bf7f671885570f2564ff37f4f307f09a22",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1920,
+"height":1080,
+"mode":"RGB",
+"thumb_bytes":8084
+},
+"warnings":[],
+"chars":64,
+"text":"Ce Fe\nar at MAC: PCCDFDSISF 的 2h\nUsername: admin Password: admin",
+"extracted_at":"2026-10-22T07:54:32Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__5th_order__发货图片__9.jpg__b10fd136.jpg"
+}

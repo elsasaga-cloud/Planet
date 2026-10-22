@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__9th_order__采购_Smartbyte__出货__8.png__8df6faf9",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/9th order/采购_Smartbyte/出货/8.png",
+"name":"8.png",
+"ext":".png",
+"bytes":129093,
+"sha256":"8df6faf991e9bc0a5a2acefb402ea7c1dee868054f49c22112d9b7a26a145e30",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1680,
+"height":1050,
+"mode":"RGB",
+"thumb_bytes":9536
+},
+"warnings":[],
+"chars":725,
+"text":"& Overview - Switch x +\no< ca O & 不 安全 http://192.168.56.166/#/monitor/dashboard & 家 Om 由 =\nOce-T Mais Oxsea OFERE ”人 @@ 京东 商城 ”人 RERT\nMonitor Q oa A admin\n品\n= QO vv 品\nG@\nwe .\nSystem Information CPU Memory\nProduct ID : BNSC-4168XGGCM\nProduct SN : 202511240001\nMAC Address : FC-CD-2F-D0-51-5E\n96.12% 81.57%\nHardware Version : V1.2\nSoftware Version : hotfix/7.3.8 (r1409 b3dbff3) 2025-09-19 00:10:02\nUptime : 00:01\n77 selected [T] AG Port PY trunk Port P13 Port BY Ue [2] shutdown fl Error-down [2 copper [J] Fiber\n1 3 5 7 1 3 5 7 9 1 1 15 17 19 21 23 25 27\n2 4 6 8 2 4 6 8 10 12 14 16 18 20 22 24 26 28\nTraffic gigabitétherneto/1 Kbps » Configuration\n~O- Tx Traffic -O- Rx Traffic\nKbps\n800\n700\ne 關 了 Ge\n16:46\nA @YF B aosie7 OD",
+"extracted_at":"2026-10-22T08:03:35Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__9th_order__采购_Smartbyte__出货__8.png__8df6faf9.jpg"
+}

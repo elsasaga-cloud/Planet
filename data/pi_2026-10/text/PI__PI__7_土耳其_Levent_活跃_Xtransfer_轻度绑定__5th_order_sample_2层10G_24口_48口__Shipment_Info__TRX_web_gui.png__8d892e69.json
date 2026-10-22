@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__5th_order_sample_2层10G_24口_48口__Shipment_Info__TRX_web_gui.png__8d892e69",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/5th order sample  2层10G 24口 48口/Shipment Info/TRX web gui.png",
+"name":"TRX web gui.png",
+"ext":".png",
+"bytes":40667,
+"sha256":"8d892e696728e6e0a51bd8f6ac0684573d11fe15e06c20fa4930bf010b2b4bdc",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1251,
+"height":546,
+"mode":"RGBA",
+"thumb_bytes":5586
+},
+"warnings":[],
+"chars":248,
+"text":"13\n= Monitor Q Ma 只 admin\nOverview\nSystem Information CPU Memory\nProduct ID : TRX-AS-24TP4X\nProduct SN : 111\n44.74%\nMAC Address : F0-78-60-00-6E-38\n98.41%\nHardware Version : 1.0\nSoftware Version : develop (r1378 4ecc8c3) 2025-\n03-30 23:56:57\nUptime",
+"extracted_at":"2026-10-22T07:45:24Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__5th_order_sample_2层10G_24口_48口__Shipment_Info__TRX_web_gui.png__8d892e69.jpg"
+}

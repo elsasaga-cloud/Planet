@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__6th_order_6台工业2光8__货款支付记录.png__609f2a0a",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/6th order 6台工业2光8/货款支付记录.png",
+"name":"货款支付记录.png",
+"ext":".png",
+"bytes":95084,
+"sha256":"609f2a0aee59b43ababd015376685d53055e04e471302da074c700cd9d7c7627",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":5638
+},
+"warnings":[],
+"chars":195,
+"text":"6:04\n收 款 账户\n付款 账户\n转账 附 言\n转账 渠 道\n转账 方式\n© 转账 完成\nal! 4G @\n转账 记录 查询 Oo ©\n转 给 罗 辉\n-¥ 4,302.00\n6214 3913 3000 0617 588\n6214********1962\n转账\n手机 银行\n电子 银行 转账\nae\nri\n(ot\na\n2025-06-26 18:04:31\n查看 和 TA 的 转账 记录",
+"extracted_at":"2026-10-22T07:37:24Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__6th_order_6台工业2光8__货款支付记录.png__609f2a0a.jpg"
+}

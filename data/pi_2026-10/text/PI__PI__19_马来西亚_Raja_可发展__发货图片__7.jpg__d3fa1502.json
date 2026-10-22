@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__19_马来西亚_Raja_可发展__发货图片__7.jpg__d3fa1502",
+"path":"PI/PI/19 马来西亚 Raja 可发展/发货图片/7.jpg",
+"name":"7.jpg",
+"ext":".jpg",
+"bytes":995270,
+"sha256":"d3fa1502a084cd0157ab400900cebaf6dd2f72a2735ecf7b1647c55dd77ef091",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1920,
+"height":1080,
+"mode":"RGB",
+"thumb_bytes":11976
+},
+"warnings":[],
+"chars":399,
+"text":"Product name: Industrial Switch\nModel: STI-288GPM\n2PCS IM\n2\nSN:\nFROM: WWW\n202608210001\nWTAE\n20:\nWeight: 1.6 Ki\nCarton No.:1 /1\nProduct name: Industrial Switch\nModel: STI-21616GP\nQi 4PCS WIMIM\n4\nSi\nFROM: 站 站 ME 生 用\n202608210001\nTO: WOU ERY UL FUOE N11 ANE\n202608210004\nWeig! cS\nCarton No.:1 /1\nProduct name: InGistrial Switch\nModel: ST1-21616G\nSN: WADE TET EA\n202608210001\nWemht: L4 KG\nCarton No. 1/1",
+"extracted_at":"2026-10-22T07:49:51Z",
+"thumb":"thumbs/PI__PI__19_马来西亚_Raja_可发展__发货图片__7.jpg__d3fa1502.jpg"
+}

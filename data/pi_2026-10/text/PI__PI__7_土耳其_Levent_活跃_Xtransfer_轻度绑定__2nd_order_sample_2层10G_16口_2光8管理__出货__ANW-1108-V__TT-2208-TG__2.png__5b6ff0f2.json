@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__出货__ANW-1108-V__TT-2208-TG__2.png__5b6ff0f2",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":55010,
+"sha256":"5b6ff0f2d5d98f7468e6dd2aef7c025bdbe5d6d934607bf483bd5bb6178c764c",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":559,
+"height":199,
+"mode":"RGBA",
+"thumb_bytes":8671
+},
+"warnings":[],
+"chars":443,
+"text":"本 7/2 Jan CL OULU s/s LIi-UVI-i AMAL-O: interface 919aD1tcrneIneto/D cnangeg :\nDebian GNU/Linux 7 SWITCH ttyS9\nSWITCH login: admin\nPassword:\n#1978 Jan 91 00:00:36 TT-DUT-1 %CLI-6: User admin login from console @.\nTT-DUT-i>en\nTT-DUT-1#show ver\nSoftware Version: hotfix/7.1.9 (11051 7b2213b)\nRelease Date: 2024-10-30 20:28:43\nSystem MAC Address: fc:cd:2f:d0:00:01\nPID: TT-2208-TG, Hardware Version: V1.1, Serial Number: DTM11@8DEMOA15\nTT-DuT-14]",
+"extracted_at":"2026-10-22T07:43:24Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__出货__ANW-1108-V__TT-2208-TG__2.png__5b6ff0f2.jpg"
+}

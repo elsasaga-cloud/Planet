@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__2nd_order__Vi-Link_Logo_MC10G_Green.jpg__1835fad9",
+"path":"PI/PI/6 美国 Thu 可发展/2nd order/Vi-Link Logo MC10G Green.jpg",
+"name":"Vi-Link Logo MC10G Green.jpg",
+"ext":".jpg",
+"bytes":145956,
+"sha256":"1835fad9a58ce3633f8ff40b82846558fa028c1c99d7b1b142dca4162051f77f",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1512,
+"height":435,
+"mode":"RGB",
+"thumb_bytes":7094
+},
+"warnings":[],
+"chars":39,
+"text":"Fiber Optic Communications\nModel: MC10G",
+"extracted_at":"2026-10-22T07:32:44Z",
+"thumb":"thumbs/PI__PI__6_美国_Thu_可发展__2nd_order__Vi-Link_Logo_MC10G_Green.jpg__1835fad9.jpg"
+}

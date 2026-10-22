@@ -1,0 +1,169 @@
+{
+"id":"PI__PI__8_俄罗斯_Igor_gg__Quotation.xls__002fd36b",
+"path":"PI/PI/8 俄罗斯 Igor gg/Quotation.xls",
+"name":"Quotation.xls",
+"ext":".xls",
+"bytes":172032,
+"sha256":"002fd36b40005d9c9d4a952ba358ef9be18f802303bf45d3d98dfad63e13a6b0",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Quotation"
+],
+"rows_total":30
+},
+"warnings":[],
+"chars":1983,
+"text":"--- Sheet: Quotation ---\nZhengzhou Saga Telecom Co., Ltd.\nAddress: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob/Whatsapp/Wechat: 86 15237149683                       www.sagatelecom.com.cn                     Email: s.sagatelecom@gmail.com\n*********************************************************************************************************************\nQuotation\nBuyer:\tООО \"РИО-ИМПОРТ\"\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t(391)290-63-15\t\tQuoted By:\tSimon Cheng\nEmail:\trio-popov@mail.ru\t\tDate:\t22nd, May, 2024\nContact Person:\tIgor Popov\t\tPrice Term:\tEXW\nDestination\tRussia\nModel\tSpecification\t\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSTI-050GE\tIndustrial Ethernet Switch\n5*10/100/1000M Ethernet, without fiber port, non-PoE, unmanaged\nSupport DIP function, DC12V~DC58V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted, without power supply\t\t\t2\t24\t48\tSample Testing\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 130*98*30mm\nGross Weight: 0.7kg\nSTI-080GE\tIndustrial Ethernet Switch\n8*10/100/1000M Ethernet, without fiber port, non-PoE, unmanaged\nSupport DIP function, DC12V~DC58V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted, without power supply\t\t\t2\t31\t62\tSample Testing\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 98*98*48mm\nGross Weight: 0.7kg\nTOTAL\t\t\t\t4\t\t110\nSAY TOTAL IN USD ONE HUNDRED AND TEN DOLLARS ONLY\nRemarks\nPlease do make sure client side could handle import customs clearance.\nPrice validity: 15 days\nSaga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply.\nNon-brand packing, without Chinese letters or logo\nNeutral device\nCountry of origin: China\nLeadtime: 4~7 working days\nWarranty: 3 years\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" for more information.",
+"sheets":{
+"Quotation":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob/Whatsapp/Wechat: 86 15237149683                       www.sagatelecom.com.cn                     Email: s.sagatelecom@gmail.com"
+],
+[
+"*********************************************************************************************************************"
+],
+[
+"Quotation"
+],
+[
+"Buyer:",
+"ООО \"РИО-ИМПОРТ\"",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"(391)290-63-15",
+"",
+"Quoted By:",
+"Simon Cheng"
+],
+[
+"Email:",
+"rio-popov@mail.ru",
+"",
+"Date:",
+"22nd, May, 2024"
+],
+[
+"Contact Person:",
+"Igor Popov",
+"",
+"Price Term:",
+"EXW"
+],
+[
+"Destination",
+"Russia"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"STI-050GE",
+"Industrial Ethernet Switch\n5*10/100/1000M Ethernet, without fiber port, non-PoE, unmanaged\nSupport DIP function, DC12V~DC58V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted, without power supply",
+"",
+"",
+"2",
+"24",
+"48",
+"Sample Testing"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 130*98*30mm\nGross Weight: 0.7kg"
+],
+[
+"STI-080GE",
+"Industrial Ethernet Switch\n8*10/100/1000M Ethernet, without fiber port, non-PoE, unmanaged\nSupport DIP function, DC12V~DC58V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted, without power supply",
+"",
+"",
+"2",
+"31",
+"62",
+"Sample Testing"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 98*98*48mm\nGross Weight: 0.7kg"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"4",
+"",
+"110"
+],
+[
+"SAY TOTAL IN USD ONE HUNDRED AND TEN DOLLARS ONLY"
+],
+[
+"Remarks"
+],
+[
+"Please do make sure client side could handle import customs clearance."
+],
+[
+"Price validity: 15 days"
+],
+[
+"Saga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply."
+],
+[
+"Non-brand packing, without Chinese letters or logo"
+],
+[
+"Neutral device"
+],
+[
+"Country of origin: China"
+],
+[
+"Leadtime: 4~7 working days"
+],
+[
+"Warranty: 3 years"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" for more information."
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:34:50Z"
+}

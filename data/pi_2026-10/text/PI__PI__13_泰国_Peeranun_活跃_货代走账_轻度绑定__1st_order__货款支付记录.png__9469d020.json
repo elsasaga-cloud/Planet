@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__1st_order__货款支付记录.png__9469d020",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/1st order/货款支付记录.png",
+"name":"货款支付记录.png",
+"ext":".png",
+"bytes":111466,
+"sha256":"9469d020a7c6d3e638988ade680d64e3798f39ccbc5ae22dc8b01f1e19b117f8",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":5978
+},
+"warnings":[],
+"chars":301,
+"text":"9:40 了 all 全 &\n《 账单 详情 全 部 账单\nHRUI\n-10,850.00\n交易 成 功\n支付 时 间 2024-11-19 09:39:57\n付款 方式 余额 宝 10,849.99 >\n网 商 银行 储蓄 卡 (2231) 0.01 >\n组 合 支付\n商品 说 明 收 錢 碼 收 款\n支付 奖励 已 领取 20 积 分 >\n收 款 方 全 稱 * 婷 (個 人 )\n更 多 ~\n账单 管理\n账单 分 类 其 他 >\n标签 和 备注 添加 》\n计 入 收 支 ©\n© 联系 收 款 方 园 查看 往來 記錄\n©) 往來 流水 證明 回 申请 电子 回音\nWtthi7T BA Sal",
+"extracted_at":"2026-10-22T07:55:29Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__1st_order__货款支付记录.png__9469d020.jpg"
+}

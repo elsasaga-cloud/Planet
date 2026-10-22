@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__8_俄罗斯_Igor_gg__出货__STI-050GE__3.jpg__18a833b4",
+"path":"PI/PI/8 俄罗斯 Igor gg/出货/STI-050GE/3.jpg",
+"name":"3.jpg",
+"ext":".jpg",
+"bytes":181672,
+"sha256":"18a833b438ee354e24346ea5fbd3c3888796e7a2f7e86b66664ceb55ccab343c",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1706,
+"height":1279,
+"mode":"RGB",
+"thumb_bytes":9262
+},
+"warnings":[],
+"chars":126,
+"text":"i\nIndustrial Switch\nModel: STI-050GE\nPorts: 5*10/100/1000M RJ45\nPower input: DC 12-58V C € Fe\nnt MAINT\n240523001 Made in China",
+"extracted_at":"2026-10-22T07:35:16Z",
+"thumb":"thumbs/PI__PI__8_俄罗斯_Igor_gg__出货__STI-050GE__3.jpg__18a833b4.jpg"
+}

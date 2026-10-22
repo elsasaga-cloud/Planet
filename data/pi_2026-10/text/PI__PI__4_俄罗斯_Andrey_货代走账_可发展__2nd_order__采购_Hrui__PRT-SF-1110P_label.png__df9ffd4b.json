@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__4_俄罗斯_Andrey_货代走账_可发展__2nd_order__采购_Hrui__PRT-SF-1110P_label.png__df9ffd4b",
+"path":"PI/PI/4 俄罗斯 Andrey 货代走账 可发展/2nd order/采购_Hrui/PRT-SF-1110P label.png",
+"name":"PRT-SF-1110P label.png",
+"ext":".png",
+"bytes":37186,
+"sha256":"df9ffd4b0418802d2181c314b79baf1c9544d7d05f03ee29d87513500cc56f6a",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":699,
+"height":481,
+"mode":"RGBA",
+"thumb_bytes":16728
+},
+"warnings":[],
+"chars":223,
+"text":"Product: 11-Ports 10/100M PoE Switch\nModel: PRT-SF-1110P\nFeatures: 8*10/100M PoE Ports +2*Gigabit Ethernet Uplink Ports\n+ 1*Gigabit SFP Uplink Port\nInternal Power/AC 100-240V /120W, IEEE 802.3af/at (12+,36-)\nSN-202508040001",
+"extracted_at":"2026-10-22T07:46:31Z",
+"thumb":"thumbs/PI__PI__4_俄罗斯_Andrey_货代走账_可发展__2nd_order__采购_Hrui__PRT-SF-1110P_label.png__df9ffd4b.jpg"
+}

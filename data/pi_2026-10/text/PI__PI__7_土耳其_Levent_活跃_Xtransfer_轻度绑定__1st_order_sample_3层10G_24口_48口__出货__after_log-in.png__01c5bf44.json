@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__1st_order_sample_3层10G_24口_48口__出货__after_log-in.png__01c5bf44",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/1st order sample  3层10G 24口 48口/出货/after log-in.png",
+"name":"after log-in.png",
+"ext":".png",
+"bytes":71741,
+"sha256":"01c5bf44da82295b27c01b305f5c4f527aedc7df536a342feade2b4b3f82e665",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1815,
+"height":952,
+"mode":"RGBA",
+"thumb_bytes":6532
+},
+"warnings":[],
+"chars":512,
+"text":"angg\nMonitor\nOverview\nSE RK EX admin\nGoogle Translate vie\nSystem Information CPU Memory\nProduct ID :ANW-3124-PX\nProduct SN : 202403250001\n47.86%\nMAC Address : 78-D0-44-66-32-08 加\nHardware Version : 1.0\nSoftware Version : release/7.1.0 (944 aa79b41) -29 14:08:55\nUptime : 00:00\nTY selected [T] AG Port PY Trunk Port P71] 13 Port EY Ue [LY shutdown fly error-down [] copper [[] Fiber\n8 6 4 2\n12 11 10 9 75 3 7\nTraffic — gigabitetherneto/12 Kbps Fort Configuration\n-O- Tx Traffic -Or- Re Traffic\nKbps\n0.08\n0.06\n0.04",
+"extracted_at":"2026-10-22T07:38:28Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__1st_order_sample_3层10G_24口_48口__出货__after_log-in.png__01c5bf44.jpg"
+}

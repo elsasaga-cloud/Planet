@@ -1,0 +1,152 @@
+{
+"id":"PI__PI__11_新加坡_Au_gg__普通快递发票.xlsx__c5217d90",
+"path":"PI/PI/11 新加坡 Au gg/普通快递发票.xlsx",
+"name":"普通快递发票.xlsx",
+"ext":".xlsx",
+"bytes":11438,
+"sha256":"c5217d904d7969762a8ad7dbc6373f55d4474676493d1852b1416343103104a5",
+"source":"PI.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"CI"
+],
+"embedded_images":0,
+"rows_total":14
+},
+"warnings":[],
+"chars":854,
+"text":"--- Sheet: CI ---\nCommercial Invoice\nInternatioal Air Waybill No\t\t\t\t\t\tDate of Exportation\n\t\t\t\t\t\t2024.09.06\nShipper/Exporter\t\t\t\t\t\tConsignee/Importer\nCompany Name:\tZhengzhou Saga Telecom Co., Ltd.\t\t\t\t\tCompany Name:\tResonant Networks Pte Ltd\nATTN:\tSimon Cheng\t\t\t\t\tATTN:\tAu Wai Choon\nTel Number:\t86 15237149683\t\t\t\t\tTel Number:\t65 9734 0606\nFAX:\t\t\t\t\t\tOrder ID:\tSTSC20240821011\n(Shipper )\nAddress:\tRoom 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\t\t\t\t\t(Delivery to)\nAddress:\t81 Ubi Avenue 4 #09-28 UB. One Singapore 408830\nCountry of Origin\t\t\t\t\tCoutry of Export\nChina\t\t\t\t\tChina\nDescription of Goods\t\tHS CODE\tmaterial\tapplication\tCarton \nQ'ty\tTotal Q'ty\n(pcs)\tUnit Value \n(US$)\tTotal Value \n(US$)\nCommercial Switch\t\t8517622990\tMetal\tData exchange and optical telecommunication\t1\t1\t185\t185\nTotal\t\t185",
+"sheets":{
+"CI":{
+"state":"visible",
+"rows":[
+[
+"Commercial Invoice"
+],
+[
+"Internatioal Air Waybill No",
+"",
+"",
+"",
+"",
+"",
+"Date of Exportation"
+],
+[
+"",
+"",
+"",
+"",
+"",
+"",
+"2024.09.06"
+],
+[
+"Shipper/Exporter",
+"",
+"",
+"",
+"",
+"",
+"Consignee/Importer"
+],
+[
+"Company Name:",
+"Zhengzhou Saga Telecom Co., Ltd.",
+"",
+"",
+"",
+"",
+"Company Name:",
+"Resonant Networks Pte Ltd"
+],
+[
+"ATTN:",
+"Simon Cheng",
+"",
+"",
+"",
+"",
+"ATTN:",
+"Au Wai Choon"
+],
+[
+"Tel Number:",
+"86 15237149683",
+"",
+"",
+"",
+"",
+"Tel Number:",
+"65 9734 0606"
+],
+[
+"FAX:",
+"",
+"",
+"",
+"",
+"",
+"Order ID:",
+"STSC20240821011"
+],
+[
+"(Shipper )\nAddress:",
+"Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009",
+"",
+"",
+"",
+"",
+"(Delivery to)\nAddress:",
+"81 Ubi Avenue 4 #09-28 UB. One Singapore 408830"
+],
+[
+"Country of Origin",
+"",
+"",
+"",
+"",
+"Coutry of Export"
+],
+[
+"China",
+"",
+"",
+"",
+"",
+"China"
+],
+[
+"Description of Goods",
+"",
+"HS CODE",
+"material",
+"application",
+"Carton \nQ'ty",
+"Total Q'ty\n(pcs)",
+"Unit Value \n(US$)",
+"Total Value \n(US$)"
+],
+[
+"Commercial Switch",
+"",
+"8517622990",
+"Metal",
+"Data exchange and optical telecommunication",
+"1",
+"1",
+"185",
+"185"
+],
+[
+"Total",
+"",
+"185"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:51:12Z"
+}

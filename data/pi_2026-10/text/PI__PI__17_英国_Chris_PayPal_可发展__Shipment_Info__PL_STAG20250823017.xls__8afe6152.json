@@ -1,0 +1,137 @@
+{
+"id":"PI__PI__17_英国_Chris_PayPal_可发展__Shipment_Info__PL_STAG20250823017.xls__8afe6152",
+"path":"PI/PI/17 英国 Chris PayPal 可发展/Shipment Info/PL_STAG20250823017.xls",
+"name":"PL_STAG20250823017.xls",
+"ext":".xls",
+"bytes":326656,
+"sha256":"8afe61523b0eabdd26b63ec6b9566fb02509fcba9d8de2e7430e578136b34ca0",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Packing List"
+],
+"rows_total":17
+},
+"warnings":[],
+"chars":690,
+"text":"--- Sheet: Packing List ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nMob: 86 13048800964\nWeb: www.sagatelecom.com.cn\nEmail: a.sagatelecom@gmail.com\nPacking  List\nDate\t2025.08.30\t\t\t\t\t\t\t\tP/O No.\nShip To\tGOGREENIT\t\t\t\t\t\t\t\tP/I No.\tSTAG20250823017\nShipping Add.\tThe Poplars, Burleigh Drive, Derby, DE22 1AL, UK\t\t\t\t\t\t\t\tP/L No.\tPL20250830001\nC/No.:\tDESCRIPTION\tQTY/CTN\tQTY/PCS\tCTNS\tN.W/Kg\tG.W/Kg\tLENGTH/CM\tWIDTH/CM\tHEIGHT/CM\tMEAS/CM³\n1\tIndustrial Switch\t1\t1\t1\t2\t2.9\t31\t23.5\t18.5\t0.013477\nTOTAL\t\t\t1\t1\t2\t2.9\t\t\t\t0.013477\nSAY TOTAL: ONE(1)CARTON ONLY\nQUANTITY: ONE PCS ONLY\nIssued by: Zhengzhou Saga Telecom Co., Ltd.\nAlan",
+"sheets":{
+"Packing List":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Tailored Marvell Managed Networking Solutions Provider"
+],
+[
+"Mob: 86 13048800964"
+],
+[
+"Web: www.sagatelecom.com.cn"
+],
+[
+"Email: a.sagatelecom@gmail.com"
+],
+[
+"Packing  List"
+],
+[
+"Date",
+"2025.08.30",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"P/O No."
+],
+[
+"Ship To",
+"GOGREENIT",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"P/I No.",
+"STAG20250823017"
+],
+[
+"Shipping Add.",
+"The Poplars, Burleigh Drive, Derby, DE22 1AL, UK",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"P/L No.",
+"PL20250830001"
+],
+[
+"C/No.:",
+"DESCRIPTION",
+"QTY/CTN",
+"QTY/PCS",
+"CTNS",
+"N.W/Kg",
+"G.W/Kg",
+"LENGTH/CM",
+"WIDTH/CM",
+"HEIGHT/CM",
+"MEAS/CM³"
+],
+[
+"1",
+"Industrial Switch",
+"1",
+"1",
+"1",
+"2",
+"2.9",
+"31",
+"23.5",
+"18.5",
+"0.013477"
+],
+[
+"TOTAL",
+"",
+"",
+"1",
+"1",
+"2",
+"2.9",
+"",
+"",
+"",
+"0.013477"
+],
+[
+"SAY TOTAL: ONE(1)CARTON ONLY"
+],
+[
+"QUANTITY: ONE PCS ONLY"
+],
+[
+"Issued by: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Alan"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:59:50Z"
+}

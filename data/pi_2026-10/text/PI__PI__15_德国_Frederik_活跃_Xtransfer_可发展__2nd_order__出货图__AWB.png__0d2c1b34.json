@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__出货图__AWB.png__0d2c1b34",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/2nd order/出货图/AWB.png",
+"name":"AWB.png",
+"ext":".png",
+"bytes":68863,
+"sha256":"0d2c1b34075f301e6ff1f33d03b06fae989f25e2d97b4465173dd8449c7cda33",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":636,
+"height":698,
+"mode":"RGBA",
+"thumb_bytes":23420
+},
+"warnings":[],
+"chars":223,
+"text":"SHIP TO:\nFREDERIK KRIEWITZ\n49615150074119\nNYNEX SATELLITE OHG\nvar DE215920034\nOBERT-BOSCH-STR. 2\n64293 DARMSTADT\nGERMANY\nate pas DEU 063 9-00\nAY ©).\n: V % Evy, ay\n625 Ill Ml\nUPS EXPEDITED\nTRACKING #: 1Z B60 W37 67 3506 4298",
+"extracted_at":"2026-10-22T07:34:05Z",
+"thumb":"thumbs/PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__出货图__AWB.png__0d2c1b34.jpg"
+}

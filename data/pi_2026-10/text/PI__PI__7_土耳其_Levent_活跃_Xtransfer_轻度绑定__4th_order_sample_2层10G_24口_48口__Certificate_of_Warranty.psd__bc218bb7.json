@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__4th_order_sample_2层10G_24口_48口__Certificate_of_Warranty.psd__bc218bb7",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/4th order sample  2层10G 24口 48口/Certificate of Warranty.psd",
+"name":"Certificate of Warranty.psd",
+"ext":".psd",
+"bytes":5386696,
+"sha256":"bc218bb7aff6961457bb82bfb14faeb4b53fff49ef8d144608f4e37f897338b9",
+"source":"PI.zip",
+"method":"pillow(psd composite)",
+"status":"meta",
+"meta":{
+"format":"PSD",
+"width":2480,
+"height":3508,
+"mode":"RGB",
+"thumb_bytes":17306
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:44:14Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__4th_order_sample_2层10G_24口_48口__Certificate_of_Warranty.psd__bc218bb7.jpg"
+}

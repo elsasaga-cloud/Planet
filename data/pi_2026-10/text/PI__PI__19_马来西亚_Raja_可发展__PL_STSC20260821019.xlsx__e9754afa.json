@@ -1,0 +1,187 @@
+{
+"id":"PI__PI__19_马来西亚_Raja_可发展__PL_STSC20260821019.xlsx__e9754afa",
+"path":"PI/PI/19 马来西亚 Raja 可发展/PL_STSC20260821019.xlsx",
+"name":"PL_STSC20260821019.xlsx",
+"ext":".xlsx",
+"bytes":135755,
+"sha256":"e9754afa2af204a5d1e6c795250fc5e42f578b110f66e01342132ff6dfb68001",
+"source":"PI.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"Packing List"
+],
+"embedded_images":2,
+"rows_total":26
+},
+"warnings":[],
+"chars":994,
+"text":"--- Sheet: Packing List ---\nSaga Telecom\nAn Engineering & Supply-Chain-First Telecom Partner\nBuilt to Last, Continuous Supply, Evolving Together\nMob: 86 15237149683\nWeb: www.sagatele.com\nEmail: s.sagatelecom@gmail.com\nPacking List\nDate\t2026.08.26\nShip To\tWIZARDSINC SDN BHD\nShipping Add.\tNo. 21, Jalan 1/18B, Taman Batu Permai, 51200 Kuala Lumpur Malaysia\nP/O No.\t#\nP/I No.\tSTSC20260821019\nP/L No.\tPL20260826001\nC/No.:\tModel\tDESCRIPTION\tQTY/CTN\tQTY/PCS\tCTNS\tN.W/Kg\tG.W/Kg\tLENGTH/CM\tWIDTH/CM\tHEIGHT/CM\tV.W/Kg\tMEAS/CM³\n1\tSTI-288GPM\tIndustrial Ethernet Switch\t2\t2\t1\t1.5\t1.8\t50\t33.5\t32\t10.72\t0.0536\n\tSTI-21616GP\tIndustrial Ethernet Switch\t4\t4\t\t4.8\t5.6\n\tSTI-21616GM\tIndustrial Ethernet Switch\t1\t1\t\t1.2\t1.4\n\tNDR-240-48\tIndustrial Power Supply\t7\t7\t\t4.2\t5.04\n\tSTI-G20-SD\tOptical Module\t14\t14\t\t0.7\t0.98\n\tSTI-G2-MD\tOptical Module\t14\t14\t\t0.7\t0.98\nTOTAL\t\t\t\t42\t1\t13.1\t15.8\t\t\t\t10.72\t0.0536\nBillable Weight\tWhichever is greater between G.W/Kg and V.W/Kg\nCarton\tONE(1)\nQUANTITY\tFORTY TWO PCS\nSaga Telecom\nSimon",
+"sheets":{
+"Packing List":{
+"state":"visible",
+"rows":[
+[
+"Saga Telecom"
+],
+[
+"An Engineering & Supply-Chain-First Telecom Partner"
+],
+[
+"Built to Last, Continuous Supply, Evolving Together"
+],
+[
+"Mob: 86 15237149683"
+],
+[
+"Web: www.sagatele.com"
+],
+[
+"Email: s.sagatelecom@gmail.com"
+],
+[
+"Packing List"
+],
+[
+"Date",
+"2026.08.26"
+],
+[
+"Ship To",
+"WIZARDSINC SDN BHD"
+],
+[
+"Shipping Add.",
+"No. 21, Jalan 1/18B, Taman Batu Permai, 51200 Kuala Lumpur Malaysia"
+],
+[
+"P/O No.",
+"#"
+],
+[
+"P/I No.",
+"STSC20260821019"
+],
+[
+"P/L No.",
+"PL20260826001"
+],
+[
+"C/No.:",
+"Model",
+"DESCRIPTION",
+"QTY/CTN",
+"QTY/PCS",
+"CTNS",
+"N.W/Kg",
+"G.W/Kg",
+"LENGTH/CM",
+"WIDTH/CM",
+"HEIGHT/CM",
+"V.W/Kg",
+"MEAS/CM³"
+],
+[
+"1",
+"STI-288GPM",
+"Industrial Ethernet Switch",
+"2",
+"2",
+"1",
+"1.5",
+"1.8",
+"50",
+"33.5",
+"32",
+"10.72",
+"0.0536"
+],
+[
+"",
+"STI-21616GP",
+"Industrial Ethernet Switch",
+"4",
+"4",
+"",
+"4.8",
+"5.6"
+],
+[
+"",
+"STI-21616GM",
+"Industrial Ethernet Switch",
+"1",
+"1",
+"",
+"1.2",
+"1.4"
+],
+[
+"",
+"NDR-240-48",
+"Industrial Power Supply",
+"7",
+"7",
+"",
+"4.2",
+"5.04"
+],
+[
+"",
+"STI-G20-SD",
+"Optical Module",
+"14",
+"14",
+"",
+"0.7",
+"0.98"
+],
+[
+"",
+"STI-G2-MD",
+"Optical Module",
+"14",
+"14",
+"",
+"0.7",
+"0.98"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"42",
+"1",
+"13.1",
+"15.8",
+"",
+"",
+"",
+"10.72",
+"0.0536"
+],
+[
+"Billable Weight",
+"Whichever is greater between G.W/Kg and V.W/Kg"
+],
+[
+"Carton",
+"ONE(1)"
+],
+[
+"QUANTITY",
+"FORTY TWO PCS"
+],
+[
+"Saga Telecom"
+],
+[
+"Simon"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:48:59Z"
+}

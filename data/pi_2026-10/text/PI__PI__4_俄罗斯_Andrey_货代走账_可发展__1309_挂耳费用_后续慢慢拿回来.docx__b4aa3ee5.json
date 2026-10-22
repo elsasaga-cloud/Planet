@@ -1,0 +1,47 @@
+{
+"id":"PI__PI__4_俄罗斯_Andrey_货代走账_可发展__1309_挂耳费用_后续慢慢拿回来.docx__b4aa3ee5",
+"path":"PI/PI/4 俄罗斯 Andrey 货代走账 可发展/1309 挂耳费用 后续慢慢拿回来.docx",
+"name":"1309 挂耳费用 后续慢慢拿回来.docx",
+"ext":".docx",
+"bytes":15196,
+"sha256":"b4aa3ee5c5910e801b90a144df0d03c4ec4c9582364cdb9e4b9073084e029d9e",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"simon",
+"last_modified_by":"Simon",
+"created":"2022-09-01T14:02:00+00:00",
+"modified":"2025-11-29T08:08:49+00:00",
+"paragraphs":4,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"chars":48,
+"text":"1309 挂耳费用 后续慢慢拿回来\n预计3个单子\n这样一次大概是440元左右\n不太多，基本能覆盖",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"1309 挂耳费用 后续慢慢拿回来"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"预计3个单子"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这样一次大概是440元左右"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不太多，基本能覆盖"
+}
+],
+"extracted_at":"2026-10-22T07:45:49Z"
+}

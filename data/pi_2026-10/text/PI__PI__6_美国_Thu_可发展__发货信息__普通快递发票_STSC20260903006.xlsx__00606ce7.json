@@ -1,0 +1,156 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__发货信息__普通快递发票_STSC20260903006.xlsx__00606ce7",
+"path":"PI/PI/6 美国 Thu 可发展/发货信息/普通快递发票_STSC20260903006.xlsx",
+"name":"普通快递发票_STSC20260903006.xlsx",
+"ext":".xlsx",
+"bytes":11864,
+"sha256":"00606ce713fe90af8cf9c9c819fe0c79a0b18070acf7df443b7af0bd1c227d77",
+"source":"PI.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"CI"
+],
+"embedded_images":0,
+"rows_total":14
+},
+"warnings":[],
+"chars":905,
+"text":"--- Sheet: CI ---\nCommercial Invoice\nInternatioal Air Waybill No\t\t\t\t\t\tDate of Exportation\n\t\t\t\t\t\t2026.09.24\nShipper/Exporter\t\t\t\t\t\tConsignee/Importer\nCompany Name:\tZhengzhou Saga Telecom Co., Ltd.\t\t\t\t\tCompany Name:\tVi-Link, Inc.\nATTN:\tSimon Cheng\t\t\t\t\tATTN:\tThu Pham\nTel Number:\t86 15237149683\t\t\t\t\tTel Number:\t1-714-471-9712\nEmail:\ts.sagatelecom@gmail.com\t\t\t\t\tEmail:\tthupvilink16@gmail.com\nFAX:\t\t\t\t\t\tOrder ID:\tSTSC20260903006\n(Shipper )\nAddress:\tRoom 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\t\t\t\t\t(Delivery to)\nAddress:\t5160 Avenida De Despacio\nYorba Linda, CA 92887\nCountry of Origin\t\t\tChina\t\tCoutry of Export\t\tChina\nDescription of Goods\t\tHS CODE\tmaterial\tapplication\tCarton \nQ'ty\tTotal Q'ty\n(pcs)\tUnit Value \n(US$)\tTotal Value \n(US$)\nFiber Media Converter\t\t8517622990\tMetal\tData exchange and optical telecommunication\t\t10\t16.5\t165\nTotal\t\t165",
+"sheets":{
+"CI":{
+"state":"visible",
+"rows":[
+[
+"Commercial Invoice"
+],
+[
+"Internatioal Air Waybill No",
+"",
+"",
+"",
+"",
+"",
+"Date of Exportation"
+],
+[
+"",
+"",
+"",
+"",
+"",
+"",
+"2026.09.24"
+],
+[
+"Shipper/Exporter",
+"",
+"",
+"",
+"",
+"",
+"Consignee/Importer"
+],
+[
+"Company Name:",
+"Zhengzhou Saga Telecom Co., Ltd.",
+"",
+"",
+"",
+"",
+"Company Name:",
+"Vi-Link, Inc."
+],
+[
+"ATTN:",
+"Simon Cheng",
+"",
+"",
+"",
+"",
+"ATTN:",
+"Thu Pham"
+],
+[
+"Tel Number:",
+"86 15237149683",
+"",
+"",
+"",
+"",
+"Tel Number:",
+"1-714-471-9712"
+],
+[
+"Email:",
+"s.sagatelecom@gmail.com",
+"",
+"",
+"",
+"",
+"Email:",
+"thupvilink16@gmail.com"
+],
+[
+"FAX:",
+"",
+"",
+"",
+"",
+"",
+"Order ID:",
+"STSC20260903006"
+],
+[
+"(Shipper )\nAddress:",
+"Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009",
+"",
+"",
+"",
+"",
+"(Delivery to)\nAddress:",
+"5160 Avenida De Despacio\nYorba Linda, CA 92887"
+],
+[
+"Country of Origin",
+"",
+"",
+"China",
+"",
+"Coutry of Export",
+"",
+"China"
+],
+[
+"Description of Goods",
+"",
+"HS CODE",
+"material",
+"application",
+"Carton \nQ'ty",
+"Total Q'ty\n(pcs)",
+"Unit Value \n(US$)",
+"Total Value \n(US$)"
+],
+[
+"Fiber Media Converter",
+"",
+"8517622990",
+"Metal",
+"Data exchange and optical telecommunication",
+"",
+"10",
+"16.5",
+"165"
+],
+[
+"Total",
+"",
+"165"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:32:27Z"
+}

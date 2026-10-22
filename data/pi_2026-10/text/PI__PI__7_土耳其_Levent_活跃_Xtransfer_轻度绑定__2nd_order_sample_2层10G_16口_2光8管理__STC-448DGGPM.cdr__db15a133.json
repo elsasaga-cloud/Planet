@@ -1,0 +1,27 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__STC-448DGGPM.cdr__db15a133",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/2nd order sample 2层10G 16口 2光8管理/STC-448DGGPM.cdr",
+"name":"STC-448DGGPM.cdr",
+"ext":".cdr",
+"bytes":489242,
+"sha256":"db15a133cc54f66e6932108ed0660a994d5824bae05b1a08eda37a5d7531e24d",
+"source":"PI.zip",
+"method":"soffice→pdf→pdfplumber",
+"status":"ok",
+"meta":{
+"pages":1,
+"creator":"Draw",
+"producer":"LibreOffice 24.2",
+"creationdate":"D:20261022074153Z'",
+"ocr_pages":0,
+"thumb_bytes":1233
+},
+"warnings":[],
+"chars":187,
+"text":"[p1]\nM.PV.FM.005 PV-FM-S4T48 SYS\nRst\nPWR\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52",
+"pages":[
+"M.PV.FM.005 PV-FM-S4T48 SYS\nRst\nPWR\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52"
+],
+"extracted_at":"2026-10-22T07:41:54Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__STC-448DGGPM.cdr__db15a133.jpg"
+}

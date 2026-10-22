@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__1_格鲁吉亚_George_gg__出货图__IMG_6426.JPG__17e302cc",
+"path":"PI/PI/1 格鲁吉亚 George gg/出货图/IMG_6426.JPG",
+"name":"IMG_6426.JPG",
+"ext":".jpg",
+"bytes":3161633,
+"sha256":"17e302cc555abe34fa2018def9648a0d89a42f8ebb6f38595ced19906e548d75",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":4032,
+"height":3024,
+"mode":"RGB",
+"thumb_bytes":8717
+},
+"warnings":[],
+"chars":209,
+"text":"10-port Hybrid rate POE switen\nSTC-028GFP\nFeatures: 8\"10/100M POE Ports\n+ 2*10/100/1000M Ethernet Uplink Ports\ninternal Power, AC100~240V/12 20W IEEE 8023afla\nDA\nS/N-10/100M202307310\nManufacturer Made In China",
+"extracted_at":"2026-10-22T07:28:57Z",
+"thumb":"thumbs/PI__PI__1_格鲁吉亚_George_gg__出货图__IMG_6426.JPG__17e302cc.jpg"
+}

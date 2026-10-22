@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__4_俄罗斯_Andrey_货代走账_可发展__2nd_order__采购_Smartbyte__货款支付记录.png__56b8c767",
+"path":"PI/PI/4 俄罗斯 Andrey 货代走账 可发展/2nd order/采购_Smartbyte/货款支付记录.png",
+"name":"货款支付记录.png",
+"ext":".png",
+"bytes":94084,
+"sha256":"56b8c7678c6d02ba977450226dfc0f3c76300ae5bc97af2346fba3e764a0c8f7",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":5640
+},
+"warnings":[],
+"chars":198,
+"text":"1:31\n收 款 账户\n付款 账户\n转账 附 言\n转账 渠 道\n转账 方式\n© 转账 完成\n=>\nall 全 四\n转账 记录 查询 站 . 俗\n转 给 罗 辉\n-¥ 4,520.00\n6214 3913 3000 0617 588\n6214********1962\n转账\n手机 银行\n电子 银行 转账\nae\nri\n(ot\na\n2025-08-08 13:31:17\n查看 和 TA 的 转账 记录",
+"extracted_at":"2026-10-22T07:46:23Z",
+"thumb":"thumbs/PI__PI__4_俄罗斯_Andrey_货代走账_可发展__2nd_order__采购_Smartbyte__货款支付记录.png__56b8c767.jpg"
+}

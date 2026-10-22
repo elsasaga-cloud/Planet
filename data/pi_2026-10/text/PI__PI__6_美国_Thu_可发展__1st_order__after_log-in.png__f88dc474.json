@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__1st_order__after_log-in.png__f88dc474",
+"path":"PI/PI/6 美国 Thu 可发展/1st order/after log-in.png",
+"name":"after log-in.png",
+"ext":".png",
+"bytes":97041,
+"sha256":"f88dc474abc4e3a1b20dba29a2377c200cd31b891fca5bcd08e2e4e202a966b7",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1786,
+"height":1399,
+"mode":"RGBA",
+"thumb_bytes":9595
+},
+"warnings":[],
+"chars":513,
+"text":"全 overview - Switch x 十\n€ > CG ASS 192.168.56.166/#/monitor/dashboard & *\na ao\n& Monitor\nOverview\nSystem Information\nProduct ID : EN2440\nProduct SN : 2024012900001\nMAC Address : 00-D0-F8-11-22-44\nHardware Version :\nSoftware Version : release/7.1.0 (r9\nUptime : 00:01\nTT] AG Port PY Trunk Port P13 Port EY Up [LY shutdown fly érror-down\n3\n5 7 9 1 13 15 17 19 21 23\n10 12 14 16 18 20 22 24 25 26 27 28\nTraffic。 jigabitEthemet0/28 Configuration\n-Or Te Traffic -O- RxTa\nKbps\n2,100\n1,800\n1,500\n1,200\n900\n600\n300\n0\n335\"",
+"extracted_at":"2026-10-22T07:33:21Z",
+"thumb":"thumbs/PI__PI__6_美国_Thu_可发展__1st_order__after_log-in.png__f88dc474.jpg"
+}

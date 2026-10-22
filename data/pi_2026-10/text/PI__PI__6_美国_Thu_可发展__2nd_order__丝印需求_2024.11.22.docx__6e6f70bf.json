@@ -1,0 +1,112 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__2nd_order__丝印需求_2024.11.22.docx__6e6f70bf",
+"path":"PI/PI/6 美国 Thu 可发展/2nd order/丝印需求_2024.11.22.docx",
+"name":"丝印需求_2024.11.22.docx",
+"ext":".docx",
+"bytes":1018232,
+"sha256":"6e6f70bfa863a51b8e459216785b5811ed060a90c8fa37d03e2f7965de29409e",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2024-11-15T14:29:00+00:00",
+"modified":"2024-11-22T05:47:04+00:00",
+"paragraphs":17,
+"tables":0,
+"embedded_images":5
+},
+"warnings":[],
+"chars":448,
+"text":"以下为此次具体需求\n在下图（图1）上圈中区域附近印刷上logo信息（图2）\n图1\n图2\n这个比较复杂一些，logo上方是没浅横线的\n上方Vi-Link这部分是Segoe UI Light字体，注意大小写\n上方Fiber Optic Communications这部分也是Segoe UI Light字体，斜体\n下方Model: MC10G是Calibri字体，正常字体\nEthernet... 这一行是Arial字体，下方一条横线，这部分放在Peter产品外壳\n10G Ethernet Media Converter上方\n在下图（图3）上圈中区域附近印刷上logo信息（图4）\n图3\n图4\n字体部分和上方MC10G是完全一样的，这里上方也是没那条浅横线的\n上方Vi-Link这部分是Segoe UI Light字体，注意大小写\n上方Fiber Optic Communications这部分也是Segoe UI Light字体，斜体\n下方Model: MC1400是Calibri字体，正常字体",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"以下为此次具体需求"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"在下图（图1）上圈中区域附近印刷上logo信息（图2）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"图1"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"图2"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这个比较复杂一些，logo上方是没浅横线的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"上方Vi-Link这部分是Segoe UI Light字体，注意大小写"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"上方Fiber Optic Communications这部分也是Segoe UI Light字体，斜体"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"下方Model: MC10G是Calibri字体，正常字体"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ethernet... 这一行是Arial字体，下方一条横线，这部分放在Peter产品外壳"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"10G Ethernet Media Converter上方"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"在下图（图3）上圈中区域附近印刷上logo信息（图4）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"图3"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"图4"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"字体部分和上方MC10G是完全一样的，这里上方也是没那条浅横线的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"上方Vi-Link这部分是Segoe UI Light字体，注意大小写"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"上方Fiber Optic Communications这部分也是Segoe UI Light字体，斜体"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"下方Model: MC1400是Calibri字体，正常字体"
+}
+],
+"extracted_at":"2026-10-22T07:32:54Z"
+}

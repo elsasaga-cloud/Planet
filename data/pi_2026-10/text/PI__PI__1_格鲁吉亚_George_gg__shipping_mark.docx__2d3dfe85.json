@@ -1,0 +1,117 @@
+{
+"id":"PI__PI__1_格鲁吉亚_George_gg__shipping_mark.docx__2d3dfe85",
+"path":"PI/PI/1 格鲁吉亚 George gg/shipping mark.docx",
+"name":"shipping mark.docx",
+"ext":".docx",
+"bytes":12483,
+"sha256":"2d3dfe85f62f1de7e7af7b396fbc622486dfc6a5657dd12be57a6a141f89c0b4",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2023-08-01T09:38:00+00:00",
+"modified":"2023-08-01T09:40:12+00:00",
+"paragraphs":18,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"chars":483,
+"text":"Full Name: GT32937 DELTA CONSULTING LLC GT32937\nAddress:\t广州市荔湾区站前路34号711库房\n(Warehouse 711, No.34 Zhanqian Road)\nMARK: GT32937\nDistrict: Liwan (荔湾)\nCity: Guangzhou (广州)\nProvice:\tGuangdong (广东)\nZip/Postal code: 510010\nPhone number: 13318855278\nFull Name: GT32937 DELTA CONSULTING LLC GT32937\nAddress:\t广州市荔湾区站前路34号711库房\n(Warehouse 711, No.34 Zhanqian Road)\nMARK: GT32937\nDistrict: Liwan (荔湾)\nCity: Guangzhou (广州)\nProvice:\tGuangdong (广东)\nZip/Postal code: 510010\nPhone number: 13318855278",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Full Name: GT32937 DELTA CONSULTING LLC GT32937"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Address:\t广州市荔湾区站前路34号711库房"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(Warehouse 711, No.34 Zhanqian Road)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MARK: GT32937"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"District: Liwan (荔湾)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"City: Guangzhou (广州)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Provice:\tGuangdong (广东)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Zip/Postal code: 510010"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Phone number: 13318855278"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Full Name: GT32937 DELTA CONSULTING LLC GT32937"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Address:\t广州市荔湾区站前路34号711库房"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(Warehouse 711, No.34 Zhanqian Road)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MARK: GT32937"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"District: Liwan (荔湾)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"City: Guangzhou (广州)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Provice:\tGuangdong (广东)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Zip/Postal code: 510010"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Phone number: 13318855278"
+}
+],
+"extracted_at":"2026-10-22T07:27:26Z"
+}

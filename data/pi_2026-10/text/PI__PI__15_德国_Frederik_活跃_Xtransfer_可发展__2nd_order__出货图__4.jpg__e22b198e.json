@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__出货图__4.jpg__e22b198e",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/2nd order/出货图/4.jpg",
+"name":"4.jpg",
+"ext":".jpg",
+"bytes":107982,
+"sha256":"e22b198e32d9b0b5e4352d424eb7c6edc5ff216de1e4e79e534afd9ae948b7da",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":1920,
+"height":885,
+"mode":"RGB",
+"thumb_bytes":6254
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:33:51Z",
+"thumb":"thumbs/PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__出货图__4.jpg__e22b198e.jpg"
+}

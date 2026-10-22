@@ -1,0 +1,250 @@
+{
+"id":"PI__PI__3_赞比亚_Pythias_gg__PI.xls__8cf537d9",
+"path":"PI/PI/3  赞比亚 Pythias gg/PI.xls",
+"name":"PI.xls",
+"ext":".xls",
+"bytes":176128,
+"sha256":"8cf537d9c70549fc122a8268ca888ad2a8e2c4d15fe96b31538838e08b27078e",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Proforma Invoice"
+],
+"rows_total":45
+},
+"warnings":[],
+"chars":3087,
+"text":"--- Sheet: Proforma Invoice ---\nZhengzhou Saga Telecom Co., Ltd.\nAddress: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 15237149683                                                    www.sagatelecom.com.cn                                Email: s.sagatelecom@gmail.com\n**************************************************************************************************************************\nProforma  Invoice\nPO No.\t\t\tInvoice No.:\tSTSC20240117003\nBuyer:\tObmac Systems\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t260 96 6828217\t\tIssued By:\tSimon Cheng\nEmail:\tpythiask@gmail.com\t\tInvoice Date:\t17th, Jan, 2024\nContact Person:\tPythias Kachepa\t\tPayment Term:\tT/T in advance, EXW\nShipping Address\tObmac Systems, Plot No. 3062/1 Corner Makishi/Great East Road, Lusaka, Zambia\nModel\tSpecification\t\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSTC-4248XGGCM\tCommercial Managed Ethernet Switch\n4*10 Gigabit SFP+16*Gigabit SFP+8*Gigabit SFP/RJ45(Combo ports)+1*Console Port, L3 managed, Non-POE\nAC input, 1U rack, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t15\t295\t4425\tSTC Series\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 440*205*44mm\nGross Weight: 3.63kg\nSTI-244GP\tIndustrial POE Ethernet Switch\n2*Gigabit SFP+4*10/100/1000M RJ45\nPOE af/at, 120W, Unmanaged\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block)\n -40℃ to 75℃, Din mounted, Without SFP Transceiver\t\t\t50\t36\t1800\tSTI Series\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 130*98*30 mm\nGross Weight: 0.56kg\nSTI-SFP1G-SMD20-1310LC\tIndustrial SFP Transceiver\nGigabit, Dual port, LC connector, 20KM, 1310nm, -40℃ to 75℃\t\t\t200\t7.5\t1500\tSTI Series\nCompatible with STI-244GP\n\tHS Code\t8517795000\n\tPacking Information\tGross Weight: 0.2kg\nBank Cost\tStandard Charge for EACH Order\t\t\t\t\t25\nFreight Cost\t1600Usd for about 120kg volume weight to Zambia by FedEx\nAir, door-to-door service\t\t\t\t\t1600\nTOTAL\t\t\t\t265\t\t9350\nSAY TOTAL IN USD NINE THOUSAND THREE HUNDRED AND FIFTY DOLLARS\n1. Payment: Full payment to the below bank account before shipment.\nBank Information\nBank Name: BANK OF CHINA HENAN BRANCH\nBank Address: HUANYUAN ROAD 40TH ZHENGZHOU CITY HENAN CHINA\nBeneficiary: Zhengzhou Saga Telecom Co., Ltd.\nCNY/USD Account No.: 255987045839\nSWIFT CODE: BKCHCNBJ530\n2. NOTE: Saga Telecom will not pay for any Bank charge.\nPlease make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice.\n3. Leadtime: 10~15 working days\n4. Country of origin: China\n5. Non-brand packing, without Chinese letters or logo\nPackage Marks: None\nPacking list is available upon request\n6. Warranty: 1 year(STC Series), 3 years(STI Series)\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" on our website for more information.\nBuyer: Obmac Systems\t\t\tSeller: Zhengzhou Saga Telecom Co., Ltd.\nPythias Kachepa\t\t\tSimon Cheng\nAuthorized Signature\t\t\tAuthorized Signature",
+"sheets":{
+"Proforma Invoice":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 15237149683                                                    www.sagatelecom.com.cn                                Email: s.sagatelecom@gmail.com"
+],
+[
+"**************************************************************************************************************************"
+],
+[
+"Proforma  Invoice"
+],
+[
+"PO No.",
+"",
+"",
+"Invoice No.:",
+"STSC20240117003"
+],
+[
+"Buyer:",
+"Obmac Systems",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"260 96 6828217",
+"",
+"Issued By:",
+"Simon Cheng"
+],
+[
+"Email:",
+"pythiask@gmail.com",
+"",
+"Invoice Date:",
+"17th, Jan, 2024"
+],
+[
+"Contact Person:",
+"Pythias Kachepa",
+"",
+"Payment Term:",
+"T/T in advance, EXW"
+],
+[
+"Shipping Address",
+"Obmac Systems, Plot No. 3062/1 Corner Makishi/Great East Road, Lusaka, Zambia"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"STC-4248XGGCM",
+"Commercial Managed Ethernet Switch\n4*10 Gigabit SFP+16*Gigabit SFP+8*Gigabit SFP/RJ45(Combo ports)+1*Console Port, L3 managed, Non-POE\nAC input, 1U rack, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"15",
+"295",
+"4425",
+"STC Series"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 440*205*44mm\nGross Weight: 3.63kg"
+],
+[
+"STI-244GP",
+"Industrial POE Ethernet Switch\n2*Gigabit SFP+4*10/100/1000M RJ45\nPOE af/at, 120W, Unmanaged\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block)\n -40℃ to 75℃, Din mounted, Without SFP Transceiver",
+"",
+"",
+"50",
+"36",
+"1800",
+"STI Series"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 130*98*30 mm\nGross Weight: 0.56kg"
+],
+[
+"STI-SFP1G-SMD20-1310LC",
+"Industrial SFP Transceiver\nGigabit, Dual port, LC connector, 20KM, 1310nm, -40℃ to 75℃",
+"",
+"",
+"200",
+"7.5",
+"1500",
+"STI Series\nCompatible with STI-244GP"
+],
+[
+"",
+"HS Code",
+"8517795000"
+],
+[
+"",
+"Packing Information",
+"Gross Weight: 0.2kg"
+],
+[
+"Bank Cost",
+"Standard Charge for EACH Order",
+"",
+"",
+"",
+"",
+"25"
+],
+[
+"Freight Cost",
+"1600Usd for about 120kg volume weight to Zambia by FedEx\nAir, door-to-door service",
+"",
+"",
+"",
+"",
+"1600"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"265",
+"",
+"9350"
+],
+[
+"SAY TOTAL IN USD NINE THOUSAND THREE HUNDRED AND FIFTY DOLLARS"
+],
+[
+"1. Payment: Full payment to the below bank account before shipment."
+],
+[
+"Bank Information"
+],
+[
+"Bank Name: BANK OF CHINA HENAN BRANCH"
+],
+[
+"Bank Address: HUANYUAN ROAD 40TH ZHENGZHOU CITY HENAN CHINA"
+],
+[
+"Beneficiary: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"CNY/USD Account No.: 255987045839"
+],
+[
+"SWIFT CODE: BKCHCNBJ530"
+],
+[
+"2. NOTE: Saga Telecom will not pay for any Bank charge."
+],
+[
+"Please make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice."
+],
+[
+"3. Leadtime: 10~15 working days"
+],
+[
+"4. Country of origin: China"
+],
+[
+"5. Non-brand packing, without Chinese letters or logo"
+],
+[
+"Package Marks: None"
+],
+[
+"Packing list is available upon request"
+],
+[
+"6. Warranty: 1 year(STC Series), 3 years(STI Series)"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" on our website for more information."
+],
+[
+"Buyer: Obmac Systems",
+"",
+"",
+"Seller: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Pythias Kachepa",
+"",
+"",
+"Simon Cheng"
+],
+[
+"Authorized Signature",
+"",
+"",
+"Authorized Signature"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:47:39Z"
+}

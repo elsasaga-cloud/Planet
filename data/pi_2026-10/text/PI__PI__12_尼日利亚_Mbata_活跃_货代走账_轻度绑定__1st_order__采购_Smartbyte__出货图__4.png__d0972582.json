@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__1st_order__采购_Smartbyte__出货图__4.png__d0972582",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/1st order/采购_Smartbyte/出货图/4.png",
+"name":"4.png",
+"ext":".png",
+"bytes":23343,
+"sha256":"d0972582b55ad155e3d21820a9fd2c92855eb4377991039fbf4fe9992facfbe7",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":537,
+"height":570,
+"mode":"RGBA",
+"thumb_bytes":15126
+},
+"warnings":[],
+"chars":197,
+"text":"Ex\nProduct name: Commercial Switch\nModel: BNSC-424DGGPM\nQty.: 5 Pcs IIIT\n5\nSN:\nFROM: __[IIDMIIIVIINIMINEI I\n20240908001\nTO: 是 症 咱 吧 還\n20240908005\nWeight: 16.4 KG\nCarton No.: 1/3 MADE IN CHINA\n—————",
+"extracted_at":"2026-10-22T08:05:05Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__1st_order__采购_Smartbyte__出货图__4.png__d0972582.jpg"
+}

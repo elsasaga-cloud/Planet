@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__20_土耳其_Burak_活跃_Xtransfer_轻度绑定__Shipment_Info__10.jpg__4527d6c9",
+"path":"PI/PI/20 土耳其 Burak 活跃 Xtransfer 轻度绑定/Shipment Info/10.jpg",
+"name":"10.jpg",
+"ext":".jpg",
+"bytes":3785951,
+"sha256":"4527d6c98d9c55e4dcbe53d68e120e4910a16e1b8c718175afa480f113a8ab69",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":3270,
+"height":1997,
+"mode":"RGB",
+"thumb_bytes":9347
+},
+"warnings":[],
+"chars":60,
+"text":"100/1000M RJ45 PoE\n1-2 ports PoE++\nPower input: DC 52-S7V.\n則",
+"extracted_at":"2026-10-22T07:47:04Z",
+"thumb":"thumbs/PI__PI__20_土耳其_Burak_活跃_Xtransfer_轻度绑定__Shipment_Info__10.jpg__4527d6c9.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__3_赞比亚_Pythias_gg__采购_Smartbyte__出货图__4.jpg__55fe2e82",
+"path":"PI/PI/3  赞比亚 Pythias gg/采购_Smartbyte/出货图/4.jpg",
+"name":"4.jpg",
+"ext":".jpg",
+"bytes":127238,
+"sha256":"55fe2e822e280320af3dbea30c073e7013e7ffe175d46a5284d13e4b1e338bc7",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1706,
+"height":1279,
+"mode":"RGB",
+"thumb_bytes":8045
+},
+"warnings":[],
+"chars":139,
+"text":"Saga Telecom\nConnecting, Converting, Creating\nPacking List\n|*Switch (See the product label for more details)\n1*User Manual (printed copy\nnr",
+"extracted_at":"2026-10-22T07:48:35Z",
+"thumb":"thumbs/PI__PI__3_赞比亚_Pythias_gg__采购_Smartbyte__出货图__4.jpg__55fe2e82.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__出货__ANW-1108-V__TT-2208-TG__3.png__8bf45ef1",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/3.png",
+"name":"3.png",
+"ext":".png",
+"bytes":104185,
+"sha256":"8bf45ef195ace0df7390e50ebb0d728af128317360a3d828e33d07a1e5523f72",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1182,
+"height":1020,
+"mode":"RGBA",
+"thumb_bytes":8458
+},
+"warnings":[],
+"chars":255,
+"text":"<= Monitor v / Overview\nSystem Configuration\nSystem Information\nProduct ID : TT-2208-TG\nProduct SN : DTM1108DEMOA15\nMAC Address : FC-CD-2F-D0-00-01\nHardware Version : V1.1\nSoftware Version : hotfix/7.1.9 (r1051 7b2213b) 2024-\n10-30 20:28:43\nUptime : 00:06",
+"extracted_at":"2026-10-22T07:43:12Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__出货__ANW-1108-V__TT-2208-TG__3.png__8bf45ef1.jpg"
+}

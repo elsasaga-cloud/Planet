@@ -1,0 +1,24 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__发货信息__WE0260900008589_加拿大_入仓标签.pdf__11f3e90a",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/发货信息/WE0260900008589 加拿大 入仓标签.pdf",
+"name":"WE0260900008589 加拿大 入仓标签.pdf",
+"ext":".pdf",
+"bytes":50875,
+"sha256":"11f3e90acd6566500ad3bac9ae36fe846c32d73405f9099e7ae30a3b28c0edd8",
+"source":"PI.zip",
+"method":"pdfplumber",
+"status":"ok",
+"meta":{
+"pages":1,
+"creationdate":"D:20260907112956+08'00'",
+"moddate":"D:20260907112956+08'00'",
+"ocr_pages":0
+},
+"warnings":[],
+"chars":81,
+"text":"[p1]\nBSA00002 SE2609010425\nH-18 FEDEX-HK → CA\nWE0260900008589 1-1\nSTSC20260830010",
+"pages":[
+"BSA00002 SE2609010425\nH-18 FEDEX-HK → CA\nWE0260900008589 1-1\nSTSC20260830010"
+],
+"extracted_at":"2026-10-22T07:55:40Z"
+}

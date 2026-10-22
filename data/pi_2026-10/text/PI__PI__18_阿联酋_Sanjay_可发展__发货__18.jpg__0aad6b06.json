@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__18_阿联酋_Sanjay_可发展__发货__18.jpg__0aad6b06",
+"path":"PI/PI/18 阿联酋 Sanjay 可发展/发货/18.jpg",
+"name":"18.jpg",
+"ext":".jpg",
+"bytes":648197,
+"sha256":"0aad6b06d0e0c9039c6246d2431a37d97f4fceefb9e5a3498bd7aeb83d4d881d",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1080,
+"height":1920,
+"mode":"RGB",
+"thumb_bytes":6006
+},
+"warnings":[],
+"chars":60,
+"text":"INPUT( 鑰 入 )/:\n100-240VAC\n).5A. 50/60Hz2\nOUTPUT. (\nV == O0.€",
+"extracted_at":"2026-10-22T07:58:51Z",
+"thumb":"thumbs/PI__PI__18_阿联酋_Sanjay_可发展__发货__18.jpg__0aad6b06.jpg"
+}

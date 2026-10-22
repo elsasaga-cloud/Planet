@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__19_马来西亚_Raja_可发展__发货图片__STI-21616GP__746a3f3b230bc4e8e4b4ce80012f4f46.jpg__5b400653",
+"path":"PI/PI/19 马来西亚 Raja 可发展/发货图片/STI-21616GP/746a3f3b230bc4e8e4b4ce80012f4f46.jpg",
+"name":"746a3f3b230bc4e8e4b4ce80012f4f46.jpg",
+"ext":".jpg",
+"bytes":2539678,
+"sha256":"5b400653af8ac808c850c24bf7cbd51178182d46bf377a99945ee6003225fd93",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1848,
+"height":2169,
+"mode":"RGB",
+"thumb_bytes":15321
+},
+"warnings":[],
+"chars":113,
+"text":"Industrial Switch\nModel: STI-21616GP\nPorts: 16*10/100/1000M RJ45 PoE + 2*1G SFP\nPower input: DC 44-57V\nCC\nHI\n0001",
+"extracted_at":"2026-10-22T07:50:47Z",
+"thumb":"thumbs/PI__PI__19_马来西亚_Raja_可发展__发货图片__STI-21616GP__746a3f3b230bc4e8e4b4ce80012f4f46.jpg__5b400653.jpg"
+}

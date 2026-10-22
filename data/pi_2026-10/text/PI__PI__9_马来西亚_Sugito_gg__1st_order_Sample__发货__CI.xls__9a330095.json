@@ -1,0 +1,205 @@
+{
+"id":"PI__PI__9_马来西亚_Sugito_gg__1st_order_Sample__发货__CI.xls__9a330095",
+"path":"PI/PI/9 马来西亚 Sugito gg/1st order Sample/发货/CI.xls",
+"name":"CI.xls",
+"ext":".xls",
+"bytes":173056,
+"sha256":"9a3300956cc1c38fcb57b5ba8f31d79f23e6f553b37849d1feab9381d09556ab",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"CI"
+],
+"rows_total":40
+},
+"warnings":[],
+"chars":2300,
+"text":"--- Sheet: CI ---\nZhengzhou Saga Telecom Co., Ltd.\nAddress: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 15237149683                                        www.sagatelecom.com.cn                                   Email: s.sagatelecom@gmail.com\n*********************************************************************************************************************\nCommercial  Invoice\nPO No.\t\t\tInvoice No.:\tSTSC20240618009\nBuyer:\tXSPec Hospitech Sdn Bhd\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t60129888 086\t\tIssued By:\tSimon Cheng\nEmail:\tsugito@xspec.com.my\t\tInvoice Date:\t18th, June, 2024\nContact Person:\tSugito WIBAWA\t\tPayment Term:\tT/T in advance\nShipping Address\tNo. 8 Jalan Industri USJ 1/8, Taman Perindustrian USJ 1, 47600 Subang Jaya, Selangor, Malaysia\nSpecification\t\t\t\tQuantity \n(PCS)\tUnit Price\n(USD)\tAmount \n(USD)\nTelephonic or telegraphic switching apparatus\t\t\t\t1\t90\t90\nHS Code\t\t8517 62 3000\nPacking Information\t\tDimension: 440*245*44mm\nGross Weight: 4kg\nShipping Cost\t40usd for about 4Kg volume weight to Malaysia by FedEx\nair, door-to-door service\t\t\t\t\t40\nTOTAL\t\t\t\t1\t\t130\nSAY TOTAL IN USD ONE HUNDRED AND THIRTY ONLY\nRemark\nPlease do make sure client side could handle import customs clearance.\n1. Payment: Full payment to the below bank account before shipment.\nBank Information\nBank Name: BANK OF CHINA HENAN BRANCH\nBank Address: HUANYUAN ROAD 40TH ZHENGZHOU CITY HENAN CHINA\nBeneficiary: Zhengzhou Saga Telecom Co., Ltd.\nCNY/USD Account No.: 255987045839\nSWIFT CODE: BKCHCNBJ530\n2. NOTE: Saga Telecom will not pay for any bank charge.\nPlease make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice.\n3. Leadtime: 2~3 working days\n4. Country of origin: China\n5. Non-brand packing, without Chinese letters or logo\nPackage Marks: None\nPacking list is available upon request\n6. Warranty: 1 year, lifetime technical support\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" for more information.\nBuyer: XSPec Hospitech Sdn Bhd\t\t\tSeller: Zhengzhou Saga Telecom Co., Ltd.\nSugito WIBAWA\t\t\tSimon Cheng\nAuthorized Signature\t\t\tAuthorized Signature",
+"sheets":{
+"CI":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 15237149683                                        www.sagatelecom.com.cn                                   Email: s.sagatelecom@gmail.com"
+],
+[
+"*********************************************************************************************************************"
+],
+[
+"Commercial  Invoice"
+],
+[
+"PO No.",
+"",
+"",
+"Invoice No.:",
+"STSC20240618009"
+],
+[
+"Buyer:",
+"XSPec Hospitech Sdn Bhd",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"60129888 086",
+"",
+"Issued By:",
+"Simon Cheng"
+],
+[
+"Email:",
+"sugito@xspec.com.my",
+"",
+"Invoice Date:",
+"18th, June, 2024"
+],
+[
+"Contact Person:",
+"Sugito WIBAWA",
+"",
+"Payment Term:",
+"T/T in advance"
+],
+[
+"Shipping Address",
+"No. 8 Jalan Industri USJ 1/8, Taman Perindustrian USJ 1, 47600 Subang Jaya, Selangor, Malaysia"
+],
+[
+"Specification",
+"",
+"",
+"",
+"Quantity \n(PCS)",
+"Unit Price\n(USD)",
+"Amount \n(USD)"
+],
+[
+"Telephonic or telegraphic switching apparatus",
+"",
+"",
+"",
+"1",
+"90",
+"90"
+],
+[
+"HS Code",
+"",
+"8517 62 3000"
+],
+[
+"Packing Information",
+"",
+"Dimension: 440*245*44mm\nGross Weight: 4kg"
+],
+[
+"Shipping Cost",
+"40usd for about 4Kg volume weight to Malaysia by FedEx\nair, door-to-door service",
+"",
+"",
+"",
+"",
+"40"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"1",
+"",
+"130"
+],
+[
+"SAY TOTAL IN USD ONE HUNDRED AND THIRTY ONLY"
+],
+[
+"Remark"
+],
+[
+"Please do make sure client side could handle import customs clearance."
+],
+[
+"1. Payment: Full payment to the below bank account before shipment."
+],
+[
+"Bank Information"
+],
+[
+"Bank Name: BANK OF CHINA HENAN BRANCH"
+],
+[
+"Bank Address: HUANYUAN ROAD 40TH ZHENGZHOU CITY HENAN CHINA"
+],
+[
+"Beneficiary: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"CNY/USD Account No.: 255987045839"
+],
+[
+"SWIFT CODE: BKCHCNBJ530"
+],
+[
+"2. NOTE: Saga Telecom will not pay for any bank charge."
+],
+[
+"Please make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice."
+],
+[
+"3. Leadtime: 2~3 working days"
+],
+[
+"4. Country of origin: China"
+],
+[
+"5. Non-brand packing, without Chinese letters or logo"
+],
+[
+"Package Marks: None"
+],
+[
+"Packing list is available upon request"
+],
+[
+"6. Warranty: 1 year, lifetime technical support"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" for more information."
+],
+[
+"Buyer: XSPec Hospitech Sdn Bhd",
+"",
+"",
+"Seller: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Sugito WIBAWA",
+"",
+"",
+"Simon Cheng"
+],
+[
+"Authorized Signature",
+"",
+"",
+"Authorized Signature"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:30:45Z"
+}

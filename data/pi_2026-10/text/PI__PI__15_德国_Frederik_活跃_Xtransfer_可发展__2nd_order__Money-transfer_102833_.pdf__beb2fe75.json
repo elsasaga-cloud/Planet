@@ -1,0 +1,27 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__Money-transfer_102833_.pdf__beb2fe75",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/2nd order/Money-transfer[102833].pdf",
+"name":"Money-transfer[102833].pdf",
+"ext":".pdf",
+"bytes":44712,
+"sha256":"beb2fe7552ea356559096fb0bf7892bbf9182d47b38efa713da5ce392b32abf0",
+"source":"PI.zip",
+"method":"pdfplumber",
+"status":"ok",
+"meta":{
+"pages":1,
+"title":"Journal",
+"creator":"StarMoney Business 12",
+"producer":"DynaPDF 4.0.87.250",
+"creationdate":"D:20250929131630+02'00'",
+"moddate":"D:20250929131630+02'00'",
+"ocr_pages":0
+},
+"warnings":[],
+"chars":487,
+"text":"[p1]\nStarMoney Business 12 29.09.2025 13:16:30\nJournal\nzum Konto 4710995012- Kontokorrent (USD) - VB, 4710995012\nvom 29.09.2025 um 13:06:19 Uhr\nGesendet von: Administrator\nEmpfänger/Zahlungspflichtiger Ende-zu-Ende-Referenz Betrag Währung Fälligkeit\nKontonummer/IBAN Mandatsreferenz Rechnungsbetrag Währung\nBankleitzahl/BIC Mandatsstatus Auftrag/Textschlüssel\nVerwendungszweck\n420,00 USD 29.09.25\n63003662406\nCHASHKHH SAÜ\nInvoice STSC20250915015\nAnzahl: 1\nSumme: 420,00 USD\nSeite 1 von 1",
+"pages":[
+"StarMoney Business 12 29.09.2025 13:16:30\nJournal\nzum Konto 4710995012- Kontokorrent (USD) - VB, 4710995012\nvom 29.09.2025 um 13:06:19 Uhr\nGesendet von: Administrator\nEmpfänger/Zahlungspflichtiger Ende-zu-Ende-Referenz Betrag Währung Fälligkeit\nKontonummer/IBAN Mandatsreferenz Rechnungsbetrag Währung\nBankleitzahl/BIC Mandatsstatus Auftrag/Textschlüssel\nVerwendungszweck\n420,00 USD 29.09.25\n63003662406\nCHASHKHH SAÜ\nInvoice STSC20250915015\nAnzahl: 1\nSumme: 420,00 USD\nSeite 1 von 1"
+],
+"extracted_at":"2026-10-22T07:33:27Z"
+}

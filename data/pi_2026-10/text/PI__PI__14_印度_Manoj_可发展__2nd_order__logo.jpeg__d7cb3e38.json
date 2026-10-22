@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__14_印度_Manoj_可发展__2nd_order__logo.jpeg__d7cb3e38",
+"path":"PI/PI/14 印度 Manoj 可发展/2nd order/logo.jpeg",
+"name":"logo.jpeg",
+"ext":".jpeg",
+"bytes":14803,
+"sha256":"d7cb3e38c08e0495919c0fbea33c54b8f7ab25a8ad0f57fab85d999d5d55b1c1",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":291,
+"height":210,
+"mode":"RGB",
+"thumb_bytes":7050
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:35:23Z",
+"thumb":"thumbs/PI__PI__14_印度_Manoj_可发展__2nd_order__logo.jpeg__d7cb3e38.jpg"
+}

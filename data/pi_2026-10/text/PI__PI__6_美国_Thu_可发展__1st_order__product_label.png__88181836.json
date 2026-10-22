@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__1st_order__product_label.png__88181836",
+"path":"PI/PI/6 美国 Thu 可发展/1st order/product label.png",
+"name":"product label.png",
+"ext":".png",
+"bytes":26630,
+"sha256":"88181836b6e0d5ae494cbd71956d797253ba2385ea5dd8d9e1999b78ca49f19f",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":480,
+"height":303,
+"mode":"RGBA",
+"thumb_bytes":17401
+},
+"warnings":[],
+"chars":285,
+"text":"36 Port Commercial Layer 3 Managed Ethernet Switch\nModel: EN2440\nPorts: 4*1G/10G SFP slots + 16*1000M SFP slots+ 8*SFP/RJ45 Combo\nInternal Power: AC100~240V\nChipset: Marvell Based\nSN: 202404230001\nMade in China\nMAC: FC-CD-2F-D0-3B-B8 User name: admin\nIP: 192.168.56.166 Password: admin",
+"extracted_at":"2026-10-22T07:33:12Z",
+"thumb":"thumbs/PI__PI__6_美国_Thu_可发展__1st_order__product_label.png__88181836.jpg"
+}

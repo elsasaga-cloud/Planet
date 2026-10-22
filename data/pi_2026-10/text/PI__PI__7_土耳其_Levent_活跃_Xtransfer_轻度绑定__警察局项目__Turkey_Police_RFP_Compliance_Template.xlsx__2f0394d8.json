@@ -1,0 +1,317 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__警察局项目__Turkey_Police_RFP_Compliance_Template.xlsx__2f0394d8",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/警察局项目/Turkey_Police_RFP_Compliance_Template.xlsx",
+"name":"Turkey_Police_RFP_Compliance_Template.xlsx",
+"ext":".xlsx",
+"bytes":12947,
+"sha256":"2f0394d8c555fa06c5aa0bcee84f9575cd3dff2d4f96b62e03d5d3044896834a",
+"source":"PI.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"Indoor_Switch_Compliance",
+"Field_Industrial_Switch"
+],
+"embedded_images":0,
+"rows_total":69
+},
+"warnings":[],
+"chars":2181,
+"text":"--- Sheet: Indoor_Switch_Compliance ---\nClause\tRequirement (Summary)\tComply (Yes/No)\tYour Model\tNotes / Evidence\n3.4.1\t≥24xGE RJ45 + ≥4x1G SFP, include 4×10km SFP\n3.4.2\tAuto-negotiation, full/half duplex support\n3.4.3\tAll ports support IEEE 802.3af/at PoE\n3.4.4\tOperating temp 0°C to +45°C\n3.4.5\tHumidity 10–85%\n3.4.6\tSwitching capacity ≥56Gbps\n3.4.7\tForwarding ≥41.7 Mpps\n3.4.8\tMAC table ≥16K\n3.4.9\tSTP IEEE 802.1d\n3.4.10\tBPDU Guard\n3.4.11\tIEEE 802.3x flow control\n3.4.12\tLACP 802.3ad\n3.4.13\t≥4 LAG groups, ≥8 ports each\n3.4.14\tVLAN 802.1Q, ≥4K VLAN ID, ≥1000 VLANs\n3.4.15\tJumbo frame ≥9000 bytes\n3.4.16\t802.1p QoS\n3.4.17\tQueuing based on L2/L3/L4\n3.4.18\tDSCP QoS\n3.4.19\tPort rate limiting\n3.4.20\t≥4 queues per port, WRR or equivalent\n3.4.21\tIGMP snooping v1/v2\n3.4.22\t≥255 multicast groups\n3.4.23\tACL based on MAC/IP/L4\n3.4.24\t≥200 ACL rules\n3.4.25\t802.1x + MAC authentication\n3.4.26\tDynamic VLAN + Guest VLAN\n3.4.27\tPort mirroring\n3.4.28\tIPv4 static routing\n3.4.29\tSSH\n3.4.30\tSNMP v1/v2/v3 + console + web\n3.4.31\tRMON 4 groups\n3.4.32\tDHCP relay, snooping, option 82\n3.4.33\tPort security\n3.4.34\tLLDP 802.1ab\n3.4.35\tSyslog\n3.4.36\tIPv6\n3.4.37\tRadius + TACACS+\n3.4.38\tLatest firmware\n3.4.39\t≥128MB RAM, ≥16MB Flash\n3.4.40\tMultiple config files, upgrade via TFTP\n3.4.41\tAll licenses included\n3.4.42\tInclude power cable, rack kit, CAT6 cables\n3.4.43\tSNTP/NTP support\n3.4.44\tAll units same brand/model\n--- Sheet: Field_Industrial_Switch ---\nClause\tRequirement (Summary)\tComply (Yes/No)\tYour Model\tNotes / Evidence\n3.3.1\tIndustrial type\n3.3.2\t≥8 GE copper + ≥2 SFP\n3.3.3\tOperating temp -40°C to +60°C\n3.3.4\tHumidity up to 95%\n3.3.5\tFanless cooling\n3.3.6\tIP20 minimum\n3.3.7\tAlarm relay output\n3.3.8\t1m fiber patch cable included\n3.3.9\tNon-blocking switching\n3.3.10\tMAC table ≥8000\n3.3.11\t≥4 priority queues\n3.3.12\tSNMP v1/v2/v3 + RMON, Telnet/Web/Console\n3.3.13\tICMP + IGMP snooping\n3.3.14\tVLAN 802.1Q + MSTP + ring\n3.3.15\t802.1p + ToS\n3.3.16\tMAC-based port security\n3.3.17\t802.1x authentication\n3.3.18\tPort mirroring\n3.3.19\tAll ports support PoE/PoE+\n3.3.20\tLACP 802.3ad\n3.3.21\tIPv6 support\n3.3.22\tDIN rail mountable + PSU included\n3.3.23\tEGM C-Type Edge Switch Test Report (SUCCESSFUL)",
+"sheets":{
+"Indoor_Switch_Compliance":{
+"state":"visible",
+"rows":[
+[
+"Clause",
+"Requirement (Summary)",
+"Comply (Yes/No)",
+"Your Model",
+"Notes / Evidence"
+],
+[
+"3.4.1",
+"≥24xGE RJ45 + ≥4x1G SFP, include 4×10km SFP"
+],
+[
+"3.4.2",
+"Auto-negotiation, full/half duplex support"
+],
+[
+"3.4.3",
+"All ports support IEEE 802.3af/at PoE"
+],
+[
+"3.4.4",
+"Operating temp 0°C to +45°C"
+],
+[
+"3.4.5",
+"Humidity 10–85%"
+],
+[
+"3.4.6",
+"Switching capacity ≥56Gbps"
+],
+[
+"3.4.7",
+"Forwarding ≥41.7 Mpps"
+],
+[
+"3.4.8",
+"MAC table ≥16K"
+],
+[
+"3.4.9",
+"STP IEEE 802.1d"
+],
+[
+"3.4.10",
+"BPDU Guard"
+],
+[
+"3.4.11",
+"IEEE 802.3x flow control"
+],
+[
+"3.4.12",
+"LACP 802.3ad"
+],
+[
+"3.4.13",
+"≥4 LAG groups, ≥8 ports each"
+],
+[
+"3.4.14",
+"VLAN 802.1Q, ≥4K VLAN ID, ≥1000 VLANs"
+],
+[
+"3.4.15",
+"Jumbo frame ≥9000 bytes"
+],
+[
+"3.4.16",
+"802.1p QoS"
+],
+[
+"3.4.17",
+"Queuing based on L2/L3/L4"
+],
+[
+"3.4.18",
+"DSCP QoS"
+],
+[
+"3.4.19",
+"Port rate limiting"
+],
+[
+"3.4.20",
+"≥4 queues per port, WRR or equivalent"
+],
+[
+"3.4.21",
+"IGMP snooping v1/v2"
+],
+[
+"3.4.22",
+"≥255 multicast groups"
+],
+[
+"3.4.23",
+"ACL based on MAC/IP/L4"
+],
+[
+"3.4.24",
+"≥200 ACL rules"
+],
+[
+"3.4.25",
+"802.1x + MAC authentication"
+],
+[
+"3.4.26",
+"Dynamic VLAN + Guest VLAN"
+],
+[
+"3.4.27",
+"Port mirroring"
+],
+[
+"3.4.28",
+"IPv4 static routing"
+],
+[
+"3.4.29",
+"SSH"
+],
+[
+"3.4.30",
+"SNMP v1/v2/v3 + console + web"
+],
+[
+"3.4.31",
+"RMON 4 groups"
+],
+[
+"3.4.32",
+"DHCP relay, snooping, option 82"
+],
+[
+"3.4.33",
+"Port security"
+],
+[
+"3.4.34",
+"LLDP 802.1ab"
+],
+[
+"3.4.35",
+"Syslog"
+],
+[
+"3.4.36",
+"IPv6"
+],
+[
+"3.4.37",
+"Radius + TACACS+"
+],
+[
+"3.4.38",
+"Latest firmware"
+],
+[
+"3.4.39",
+"≥128MB RAM, ≥16MB Flash"
+],
+[
+"3.4.40",
+"Multiple config files, upgrade via TFTP"
+],
+[
+"3.4.41",
+"All licenses included"
+],
+[
+"3.4.42",
+"Include power cable, rack kit, CAT6 cables"
+],
+[
+"3.4.43",
+"SNTP/NTP support"
+],
+[
+"3.4.44",
+"All units same brand/model"
+]
+]
+},
+"Field_Industrial_Switch":{
+"state":"visible",
+"rows":[
+[
+"Clause",
+"Requirement (Summary)",
+"Comply (Yes/No)",
+"Your Model",
+"Notes / Evidence"
+],
+[
+"3.3.1",
+"Industrial type"
+],
+[
+"3.3.2",
+"≥8 GE copper + ≥2 SFP"
+],
+[
+"3.3.3",
+"Operating temp -40°C to +60°C"
+],
+[
+"3.3.4",
+"Humidity up to 95%"
+],
+[
+"3.3.5",
+"Fanless cooling"
+],
+[
+"3.3.6",
+"IP20 minimum"
+],
+[
+"3.3.7",
+"Alarm relay output"
+],
+[
+"3.3.8",
+"1m fiber patch cable included"
+],
+[
+"3.3.9",
+"Non-blocking switching"
+],
+[
+"3.3.10",
+"MAC table ≥8000"
+],
+[
+"3.3.11",
+"≥4 priority queues"
+],
+[
+"3.3.12",
+"SNMP v1/v2/v3 + RMON, Telnet/Web/Console"
+],
+[
+"3.3.13",
+"ICMP + IGMP snooping"
+],
+[
+"3.3.14",
+"VLAN 802.1Q + MSTP + ring"
+],
+[
+"3.3.15",
+"802.1p + ToS"
+],
+[
+"3.3.16",
+"MAC-based port security"
+],
+[
+"3.3.17",
+"802.1x authentication"
+],
+[
+"3.3.18",
+"Port mirroring"
+],
+[
+"3.3.19",
+"All ports support PoE/PoE+"
+],
+[
+"3.3.20",
+"LACP 802.3ad"
+],
+[
+"3.3.21",
+"IPv6 support"
+],
+[
+"3.3.22",
+"DIN rail mountable + PSU included"
+],
+[
+"3.3.23",
+"EGM C-Type Edge Switch Test Report (SUCCESSFUL)"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:41:20Z"
+}

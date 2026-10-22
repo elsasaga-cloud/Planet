@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__1st_order_sample__货款支付记录_电源.jpg__8ca5a04c",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/1st order sample/货款支付记录_电源.jpg",
+"name":"货款支付记录_电源.jpg",
+"ext":".jpg",
+"bytes":59601,
+"sha256":"8ca5a04ccb188f4846d0859a3a3ce258ac18543d0427f2a00fe4aea9162d68b9",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":4112
+},
+"warnings":[],
+"chars":245,
+"text":"10:54 all > EX)\n< 转账 记录 查询 Oo ©\n一 网 通 所 有 银行 卡 本 月 >\n输入 姓名 /卡号 /手机 号 / 附 言 搜索 Q\n轉 出 記錄\n本 月\nS Bite (56004) -¥ 625.00\n>) SR 10:54 已 汇 出\n说 明 :\n1、 您 可 選擇 一 卡 通 、 交 易 時 間 , 查詢 該 卡 在 指定 交易 時 間 段 內\n的 自助 转账 记录 。\n2、 如 需 查询 距 今 1 年 以 上 的 转账 记录 ， 请 前 往 收 支",
+"extracted_at":"2026-10-22T07:57:53Z",
+"thumb":"thumbs/PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__1st_order_sample__货款支付记录_电源.jpg__8ca5a04c.jpg"
+}

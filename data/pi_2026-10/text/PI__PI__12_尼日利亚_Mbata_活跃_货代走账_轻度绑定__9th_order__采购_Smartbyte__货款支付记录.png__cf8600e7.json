@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__9th_order__采购_Smartbyte__货款支付记录.png__cf8600e7",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/9th order/采购_Smartbyte/货款支付记录.png",
+"name":"货款支付记录.png",
+"ext":".png",
+"bytes":96348,
+"sha256":"cf8600e71f7e8a5947a8003655e4f7db6b5db00e73517a461d15631ceaa9d15f",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":5677
+},
+"warnings":[],
+"chars":203,
+"text":"4:509 all > &\n< 转账 记录 查询 0 @&\n转 给 罗 辉\n-¥ 8,556.00\n收 款 账户 6214 3913 3000 0617 588\n收 款 银行 东莞 银行\n付款 账户 6214********1962\n转账 附 言 转账\n转账 渠道 手机 银行\n转账 方式 电子 银行 转账\n© 转账 完成 进度 查询\n2025-11-28 16:50:09\n查看 和 TA 的 转账 记录",
+"extracted_at":"2026-10-22T08:02:28Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__9th_order__采购_Smartbyte__货款支付记录.png__cf8600e7.jpg"
+}

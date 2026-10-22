@@ -1,0 +1,24 @@
+{
+"id":"PI__PI__14_印度_Manoj_可发展__1st_order__出货__4.jpg__bbeed559",
+"path":"PI/PI/14 印度 Manoj 可发展/1st order/出货/4.jpg",
+"name":"4.jpg",
+"ext":".jpg",
+"bytes":3327109,
+"sha256":"bbeed5593d153bd7ee1f29eb0059b5241c086d5f84300214d3dfa9037e635923",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":3072,
+"height":4096,
+"mode":"RGB",
+"software":"RMO-AN00 7.0.0.196(C00E182R8P5)",
+"thumb_bytes":9248
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:36:41Z",
+"thumb":"thumbs/PI__PI__14_印度_Manoj_可发展__1st_order__出货__4.jpg__bbeed559.jpg"
+}

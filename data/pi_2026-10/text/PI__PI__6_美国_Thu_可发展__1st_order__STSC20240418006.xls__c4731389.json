@@ -1,0 +1,195 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__1st_order__STSC20240418006.xls__c4731389",
+"path":"PI/PI/6 美国 Thu 可发展/1st order/STSC20240418006.xls",
+"name":"STSC20240418006.xls",
+"ext":".xls",
+"bytes":174080,
+"sha256":"c4731389fc2d4f81eb80742affbc03f232fee57ad83100f7e9abe9cb7feca973",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Proforma Invoice"
+],
+"rows_total":34
+},
+"warnings":[],
+"chars":2307,
+"text":"--- Sheet: Proforma Invoice ---\nZhengzhou Saga Telecom Co., Ltd.\nAddress: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 15237149683                                            www.sagatelecom.com.cn                              Email: s.sagatelecom@gmail.com\n**************************************************************************************************************************\nProforma  Invoice\nPO No.\t\t\tInvoice No.:\tSTSC20240418006\nBuyer:\tVi-Link, Inc.\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t1-714-471-9712\t\tIssued By:\tSimon Cheng\nEmail:\tthupvilink16@gmail.com\t\tInvoice Date:\t18th, Apr, 2024\nContact Person:\tThu Pham\t\tPayment Term:\tT/T in advance\nShipping Address\t5160 Avenida De Despacio Yorba Linda, CA 92887\nModel\tSpecification\t\t\tQuantity \n(PCS)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSTC-4168XGGCM\tCommercial Ethernet Switch\n4*10 Gigabit SFP+16*Gigabit SFP+8*Gigabit SFP/RJ45(Combo ports)+1*Console Port, Stanard L3 managed, Non-POE\nAC input, 1U rack, with internal AC-DC converter, metal case, with US-standard power cord, with mounting brackets\t\t\t1\t375\t375\tSample Unit\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 440*245*44mm\nGross Weight: 4kg\nShipping Cost\t55usd for about 4Kg volume weight to USA by UPS\nair, door-to-door service\t\t\t\t\t55\nPayPal Cost\t5Usd will be charged for EVERY 100usd to our account\t\t\t\t\t22\nTOTAL\t\t\t\t1\t\t452\nSAY TOTAL IN USD FOUR HUNDRED AND FIFTY TWO ONLY\n1. Payment: Full payment to the below PayPal account before shipment.\nPaypal account: s.sagatelecom@gmail.com\n2. NOTE: Saga Telecom will not pay for any PayPal charge.\nPlease make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice.\n3. Leadtime: 4~7 working days\n4. Country of origin: China\n5. Non-brand packing, without Chinese letters or logo\nPackage Marks: None\nPacking list is available upon request\n6. Warranty: 1 year, lifetime technical support\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" on our website for more information.\nBuyer: VI-Link\t\t\tSeller: Zhengzhou Saga Telecom Co., Ltd.\nThu Pham\t\t\tSimon Cheng\nAuthorized Signature\t\t\tAuthorized Signature",
+"sheets":{
+"Proforma Invoice":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 15237149683                                            www.sagatelecom.com.cn                              Email: s.sagatelecom@gmail.com"
+],
+[
+"**************************************************************************************************************************"
+],
+[
+"Proforma  Invoice"
+],
+[
+"PO No.",
+"",
+"",
+"Invoice No.:",
+"STSC20240418006"
+],
+[
+"Buyer:",
+"Vi-Link, Inc.",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"1-714-471-9712",
+"",
+"Issued By:",
+"Simon Cheng"
+],
+[
+"Email:",
+"thupvilink16@gmail.com",
+"",
+"Invoice Date:",
+"18th, Apr, 2024"
+],
+[
+"Contact Person:",
+"Thu Pham",
+"",
+"Payment Term:",
+"T/T in advance"
+],
+[
+"Shipping Address",
+"5160 Avenida De Despacio Yorba Linda, CA 92887"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(PCS)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"STC-4168XGGCM",
+"Commercial Ethernet Switch\n4*10 Gigabit SFP+16*Gigabit SFP+8*Gigabit SFP/RJ45(Combo ports)+1*Console Port, Stanard L3 managed, Non-POE\nAC input, 1U rack, with internal AC-DC converter, metal case, with US-standard power cord, with mounting brackets",
+"",
+"",
+"1",
+"375",
+"375",
+"Sample Unit"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 440*245*44mm\nGross Weight: 4kg"
+],
+[
+"Shipping Cost",
+"55usd for about 4Kg volume weight to USA by UPS\nair, door-to-door service",
+"",
+"",
+"",
+"",
+"55"
+],
+[
+"PayPal Cost",
+"5Usd will be charged for EVERY 100usd to our account",
+"",
+"",
+"",
+"",
+"22"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"1",
+"",
+"452"
+],
+[
+"SAY TOTAL IN USD FOUR HUNDRED AND FIFTY TWO ONLY"
+],
+[
+"1. Payment: Full payment to the below PayPal account before shipment."
+],
+[
+"Paypal account: s.sagatelecom@gmail.com"
+],
+[
+"2. NOTE: Saga Telecom will not pay for any PayPal charge."
+],
+[
+"Please make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice."
+],
+[
+"3. Leadtime: 4~7 working days"
+],
+[
+"4. Country of origin: China"
+],
+[
+"5. Non-brand packing, without Chinese letters or logo"
+],
+[
+"Package Marks: None"
+],
+[
+"Packing list is available upon request"
+],
+[
+"6. Warranty: 1 year, lifetime technical support"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" on our website for more information."
+],
+[
+"Buyer: VI-Link",
+"",
+"",
+"Seller: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Thu Pham",
+"",
+"",
+"Simon Cheng"
+],
+[
+"Authorized Signature",
+"",
+"",
+"Authorized Signature"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:33:04Z"
+}

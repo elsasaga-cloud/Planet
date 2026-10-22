@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__5th_order_sample_2层10G_24口_48口__Shipment_Info__ANW-2248-PX__48PX_web_gui.png__b42ac293",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/5th order sample  2层10G 24口 48口/Shipment Info/ANW-2248-PX/48PX web gui.png",
+"name":"48PX web gui.png",
+"ext":".png",
+"bytes":153622,
+"sha256":"b42ac293624479b2a4ad6725fd6e420555ccb52e21fcaa73fc9f7c46431fb6c6",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1680,
+"height":1050,
+"mode":"RGBA",
+"thumb_bytes":9450
+},
+"warnings":[],
+"chars":774,
+"text":"& Overview - Switch x 十 v 一 x\n< ca O 台 不 安全 192.168.56.166/#/monitor/dashboard mY ose\nOct Mash Oxzen OFERE ”人 @@ 京东 商城 ”人 mERT\nangela Monitor a Pm 2 sami\nBE Monitor =] ov\nOverview\nSystem Information CPU Memory\nProduct ID : ANW-2248-PX\n9\nProduct SN : 25052248B0103\nMAC Address : 98-06-37-A5-00-10\n91.51% 79.72%\nHardware Version : V1.1\nSoftware Version : hotfix/7.3.2 (r1275 382d3e1) 2025-01-21 16:16:10\nUptime : 00:01\n77 selected [T] AG Port PY trunk Port P13 Port BY Ue [2] shutdown fl Error-down [2 copper [J] Fiber\n1395 7 9 1 3 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 S152\n2 4 6 8 10 12 14 16\n18 20 22 24 26 28 30 32\n34 36 38 40 42 44 46 48\n49 50\nTraffic —gigabitétherneto/1 Kbps\nKbps\n4,000\n-O> Tx Traffic “O> Rx Traffic\n>» Configuration\nNS eee\n了 1454\nA @MA 日 2",
+"extracted_at":"2026-10-22T07:45:59Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__5th_order_sample_2层10G_24口_48口__Shipment_Info__ANW-2248-PX__48PX_web_gui.png__b42ac293.jpg"
+}

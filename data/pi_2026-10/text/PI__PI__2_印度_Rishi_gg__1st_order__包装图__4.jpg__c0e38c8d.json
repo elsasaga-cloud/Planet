@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__2_印度_Rishi_gg__1st_order__包装图__4.jpg__c0e38c8d",
+"path":"PI/PI/2 印度 Rishi gg/1st order/包装图/4.jpg",
+"name":"4.jpg",
+"ext":".jpg",
+"bytes":1096574,
+"sha256":"c0e38c8ded1b01f41761373b40c6bf447d194a370d1fc0cfd009b48eb43acdc9",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":3024,
+"height":4032,
+"mode":"RGB",
+"thumb_bytes":11166
+},
+"warnings":[],
+"chars":85,
+"text":"9S\nuaed JeuealO\n= 9S\nuaed J9ugs19\na oS\nuag Jeueal9\n3 3S\nued 4eueal9\n4 os\n_ Yad Juesl9",
+"extracted_at":"2026-10-22T07:32:11Z",
+"thumb":"thumbs/PI__PI__2_印度_Rishi_gg__1st_order__包装图__4.jpg__c0e38c8d.jpg"
+}

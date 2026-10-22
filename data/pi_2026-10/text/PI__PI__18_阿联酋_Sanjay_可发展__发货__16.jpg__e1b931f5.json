@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__18_阿联酋_Sanjay_可发展__发货__16.jpg__e1b931f5",
+"path":"PI/PI/18 阿联酋 Sanjay 可发展/发货/16.jpg",
+"name":"16.jpg",
+"ext":".jpg",
+"bytes":1041276,
+"sha256":"e1b931f5b41b2cabadb616607e03933048ac1a3034e29a27a40f641b7584a876",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":3344,
+"height":1614,
+"mode":"RGB",
+"thumb_bytes":9218
+},
+"warnings":[],
+"chars":158,
+"text":"Industrial Media Converter and Switch\nModel: AST-IMC-GB-4E2F-SM-20Km\nPorts: 4*10/100/1000M RJ45 + 1*1G SC/Duplex/20KM Fiber\nPower input: DC 12-58V\nKe\nIM 若 到 六",
+"extracted_at":"2026-10-22T07:58:54Z",
+"thumb":"thumbs/PI__PI__18_阿联酋_Sanjay_可发展__发货__16.jpg__e1b931f5.jpg"
+}

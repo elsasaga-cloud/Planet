@@ -1,0 +1,87 @@
+{
+"id":"PI__PI__3_赞比亚_Pythias_gg__采购_Hrui__交换机标签内容.docx__c9be3d7e",
+"path":"PI/PI/3  赞比亚 Pythias gg/采购_Hrui/交换机标签内容.docx",
+"name":"交换机标签内容.docx",
+"ext":".docx",
+"bytes":77219,
+"sha256":"c9be3d7eebaa19a92a5194ddb8337cd67bc036d0f8912ceee21f08108c9fabbe",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2024-02-18T13:06:00+00:00",
+"modified":"2024-02-19T01:36:47+00:00",
+"paragraphs":12,
+"tables":0,
+"embedded_images":2
+},
+"warnings":[],
+"chars":360,
+"text":"Product: 32 Port Commercial Managed Ethernet Switch\nModel: STC-4248XGGCM\nFeatures: 4*1G/10G SFP slots + 24*1000M SFP slots + 8*SFP/RJ45 Combo\nInternal Power, AC100~240V, Layer 3 Managed\nIP Address: 192.168.2.1（这里写出厂的默认地址就行）\nUser Name/Password: Admin\nSN: 202402190001\n15台编号0001~0015\n文字格式调整为：times new roman\n序列号的格式和上个单子不太一致，字体大小看着调整，打印出来看着OK就行\nSN:\n结尾编号是0001（3个0）",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Product: 32 Port Commercial Managed Ethernet Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Model: STC-4248XGGCM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Features: 4*1G/10G SFP slots + 24*1000M SFP slots + 8*SFP/RJ45 Combo"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Internal Power, AC100~240V, Layer 3 Managed"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IP Address: 192.168.2.1（这里写出厂的默认地址就行）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"User Name/Password: Admin"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SN: 202402190001"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"15台编号0001~0015"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"文字格式调整为：times new roman"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"序列号的格式和上个单子不太一致，字体大小看着调整，打印出来看着OK就行"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SN:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"结尾编号是0001（3个0）"
+}
+],
+"extracted_at":"2026-10-22T07:48:39Z"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__STI-42424DGGPM-U__1.png__4e1b4f9b",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/2nd order/发货图片/STI-42424DGGPM-U/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":160495,
+"sha256":"4e1b4f9bda53f4e77a9519b647c37876d93519e1289ed960b68a6ac3947b82f9",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1920,
+"height":1080,
+"mode":"RGBA",
+"thumb_bytes":8097
+},
+"warnings":[],
+"chars":727,
+"text":"(e)\n< C\nBlom\nMonitor\nOverview\nStatistics\nMaintenance\nOverview - Switch...\nx | + x\n0 & 192.168.56.166/#/monitor/dashboard mY\nMonitor v / 0\nSystem Information CPU Memory\nProduct ID : STI-42424DGGPM-U\nProduct SN : 20250214001\nMAC Address : FC-CD-2F-D0-46-10\n66.47%\n88.92%\nHardware Version : V1.1\nSoftware Version : hotfix/7.3.1 (r1262 365514) 2024-12-04 19:30:13\nUptime : 00:02\nA) selected (T] AG Port PT rank Pot PT] 3 Por GE] ue (shutdown ffl erordown (7) copper 品 as\n2 21 19 «17 15 13 11 9 7 5 3 1\nCd\n28 27 26 2 24 22 20 18 16 14 12 10 8 6 4 2\nTraffic gigabitétherneto/1 Kbps » Configuration\n-Or Te Traffic “O- Rx Traffic\nKbps\n25\n20\n1\nB eens Se ae. FB serial-come - Sec. 4) SH ts. 5B Megatops VaTFT. 字 党 信 x ® dx 四 ae\n2025/2/18",
+"extracted_at":"2026-10-22T07:52:10Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__STI-42424DGGPM-U__1.png__4e1b4f9b.jpg"
+}

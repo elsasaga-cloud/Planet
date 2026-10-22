@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__4_俄罗斯_Andrey_货代走账_可发展__2nd_order__采购_Hrui__PRT-SG-1428PM_label.png__298e2d77",
+"path":"PI/PI/4 俄罗斯 Andrey 货代走账 可发展/2nd order/采购_Hrui/PRT-SG-1428PM label.png",
+"name":"PRT-SG-1428PM label.png",
+"ext":".png",
+"bytes":37202,
+"sha256":"298e2d77c4813330d87817976d295d35e0dea4e0808da6537f98a1b8816cb136",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":695,
+"height":476,
+"mode":"RGBA",
+"thumb_bytes":18666
+},
+"warnings":[],
+"chars":302,
+"text":"Product: 32-Ports 1000M Managed PoE Switch\nModel: PRT-SG-1428PM\nFeatures: 24*Gigabit PoE Ports + 4*Gigabit Ethemet Uplink Ports\n+4*Gigabit SFP Uplink Ports + 1* Managed Port\nIP:192.168.2.1 Username: admin _—— Password: admin\nInternal Power / AC100-240V / 300W, IEEE 802.3af/at (12+,36-)\nSN-202508040001",
+"extracted_at":"2026-10-22T07:46:32Z",
+"thumb":"thumbs/PI__PI__4_俄罗斯_Andrey_货代走账_可发展__2nd_order__采购_Hrui__PRT-SG-1428PM_label.png__298e2d77.jpg"
+}

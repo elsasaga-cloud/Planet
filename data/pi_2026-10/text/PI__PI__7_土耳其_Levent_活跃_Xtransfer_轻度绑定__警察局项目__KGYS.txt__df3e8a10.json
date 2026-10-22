@@ -1,0 +1,16 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__警察局项目__KGYS.txt__df3e8a10",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/警察局项目/KGYS.txt",
+"name":"KGYS.txt",
+"ext":".txt",
+"bytes":2958,
+"sha256":"df3e8a1009ddc61acdd3838f1dbcce0ccfc7de6eea100ab7eaf50d4b6385d102",
+"source":"PI.zip",
+"method":"text",
+"status":"ok",
+"meta":{},
+"warnings":[],
+"chars":1461,
+"text":"一、 交付与包装要求 (3.3.1)\r\n电源适配器：每台交换机须附带一个工业级适配器和/或变压器，支持 DIN 导轨安装，符合土耳其电压标准及 IEEE 802.3at (PoE+) 功率要求 。\r\nSFP 模块：每台交换机须交付一个 1000 Base-LX SFP 光模块（支持 10 公里传输距离） 。模块可置于设备箱内或单独包装 。\r\n+1\r\n光纤跳线：每台交换机须交付一根 1 米长的 SC-LC 光纤跳线 。\r\n统一包装：上述所有配件（电源、SFP 模块、跳线）必须与交换机装在同一个箱子内交付 。\r\n组播支持：所有提供的交换机必须支持组播（Multicast）传输 。\r\n二、 硬件技术规格 (3.3.2)\r\n基本形态：必须为工业级 、无风扇（被动散热）设计 ，且支持 DIN 导轨安装 。\r\n+2\r\n端口配置：\r\n至少 8 个千兆电口（Gigabit Ethernet） 。\r\n至少 2 个千兆光口（Fibre Gigabit Ethernet） 。\r\n光口应支持 GBIC/SFP 模块，兼容 1000 BASE LX/SX/ZX 和 100 BASE-X 接口，支持高达 70 公里的传输距离 。\r\n性能要求：所有端口必须工作在非阻塞（Non-blocking）模式 。\r\n环境适应性：\r\n工作温度范围：−40C 至 +60C 。\r\n工作湿度：最高可达 95% 相对湿度 。\r\n防护等级：至少符合 IP20 标准 。\r\n告警功能：支持用于故障保护的关键告警继电器输出 。\r\n三、 软件与协议功能\r\n二层功能：\r\n支持 IEEE 802.1Q VLAN 。\r\n支持 MSTP (IEEE 802.1s)、x-ring 或同等协议 。\r\n支持 VLAN 标记（Tagging）与干道（Trunking）技术 。\r\n支持 ICMP 和二层 IGMP Snooping 。\r\n网络拓扑与链路：\r\n支持冗余环网（Redundant Ring）功能，可在环形和网状网络中运行 。\r\n支持链路聚合控制协议 (LACP IEEE 802.3ad) 。\r\nQoS 与流量管理：\r\n至少有 4 个优先级队列 。\r\n支持 IEEE 802.1p 优先级和 ToS 标准 。\r\nPoE 功能：每个端口均须具备 IEEE 802.3af (PoE) 和 IEEE 802.3at (PoE+) 功能 。\r\n地址容量：支持至少 8,000 个 MAC 地址 。\r\n网络标准：支持 IPv6、VLAN 接口 IP 地址分配及 IPv6 流量处理 。\r\n四、 管理、安全与认证\r\n管理方式：支持 RMON 以及 SNMP v1, v2, v3；可通过 Telnet、控制台端口 (Console) 和 Web 界面进行管理 。\r\n安全特性：\r\n支持基于 MAC 地址的端口安全 。\r\n支持 IEEE 802.1x 基于端口的网络访问控制 。\r\n支持端口镜像（Port Mirroring） 。\r\n许可要求：交付时必须已加载所有许可（License），执行指定功能无需额外授权 。\r\n强制认证：所有产品必须持有土耳其公安总局（EGM）信息技术与通讯部颁发的 “C型边缘交换机与流量整形测试报告”，结果需为 “成功（SUCCESSFUL）” 。该报告需在验收阶段提交 。\r\n+1\r\n五、 项目概况\r\n采购数量：共计 3,294 台 。\r\n文档有效期：该技术规范由一等警司 Mehmet ÇATAL 于 2026 年 2 月 12 日批准 ",
+"extracted_at":"2026-10-22T07:41:18Z"
+}

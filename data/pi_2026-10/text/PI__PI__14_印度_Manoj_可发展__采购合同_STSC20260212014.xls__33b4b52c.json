@@ -1,0 +1,195 @@
+{
+"id":"PI__PI__14_印度_Manoj_可发展__采购合同_STSC20260212014.xls__33b4b52c",
+"path":"PI/PI/14 印度 Manoj 可发展/采购合同_STSC20260212014.xls",
+"name":"采购合同_STSC20260212014.xls",
+"ext":".xls",
+"bytes":205312,
+"sha256":"33b4b52c55b5c84e58b7a08b54cfd4230d3db6cdbb42d557992ae136ad1119ed",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"采购合同"
+],
+"rows_total":42
+},
+"warnings":[],
+"chars":1494,
+"text":"--- Sheet: 采购合同 ---\n郑州仨戛通讯器材有限公司\n地址: 郑州市管城区航海路中州大道富田太阳城57号楼22层316\n电话: 86 15237149683                                                             www.sagatelecom.com.cn                                                        Email: s.sagatelecom@gmail.com\n**********************************************************************************************************************************\n采购合同\n买方:\t郑州仨戛通讯器材有限公司\nZhengzhou Saga Telecom Co., Ltd.\n地址：\t郑州市管城区航海路中州大道富田太阳城57号楼22层316\nRoom 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\n采购订单编号\tSTSC20260212014\n电话:\t86 15237149683\n邮箱\ts.sagatelecom@gmail.com\n联系人:\t程天龙(Simon Cheng)\n卖方:\t深圳凌特华盛科技有限公司\nShenzhen SmartByte Technology Co.,Ltd\n地址：\t广东省惠州市惠阳区镇隆镇力合优科创新基地1栋8楼  邮编：516227\n8th Floor, 1st Building, Lihe Youke Innovation Base, Zhenlong town, Huiyang district, Huizhou city, Guangdong Province, 516227\n联系人:\tPeter Hu/13714293521/peter@smartbyte.com.cn\n订单日期:\t26th, Feb, 2026\n付款条款\t工厂直发，款到生产，包邮\n发货地址\t客户上门取货（FedEx)\n卖方型号\t买方型号\t品名规格\t\t数量 \n(台)\t单价\n(RMB)\t小计\n(Sub-total)\nLT-IS6016G-16GT\tSTS-16UMES\t工业交换机\n16个千兆网口, 不带管理，不带PoE\n3年质保，不含电源，带挂耳\t\t3\t512\t1536\nTOTAL\t\t\t\t3\t\t1536\n常规备注\n中性设备\n不放保修卡，非必要的都不放，QC贴纸不要贴，送货单等不要放\n挂耳\t放\n说明书\t说明书_STSC20260212014\n标签\t右上图，之前采用上次订单的内容，只改序列号即可\n箱标\t右下图，之前采用上次订单的内容，只改序列号即可\n序列号\tSTS-16UM-202503234, 235, 236\n字体\tTimes New Roman\n装箱\t常规包装\n防水膜\t打\n电源\t不含\n运费\t客户上门取货（FedEx)\n拍照拍视频\t简单拍一下即可\n交期\tTill 2026.03.03\n特别需求\nFedEx上门取货，使用我的身份证信息发货，需要你们来预约取件时间\n需要装箱单\n买方: 郑州仨戛通讯器材有限公司\n签字代表:程天龙(Simon Cheng)\n买方盖章\n2026.02.26",
+"sheets":{
+"采购合同":{
+"rows":[
+[
+"郑州仨戛通讯器材有限公司"
+],
+[
+"地址: 郑州市管城区航海路中州大道富田太阳城57号楼22层316"
+],
+[
+"电话: 86 15237149683                                                             www.sagatelecom.com.cn                                                        Email: s.sagatelecom@gmail.com"
+],
+[
+"**********************************************************************************************************************************"
+],
+[
+"采购合同"
+],
+[
+"买方:",
+"郑州仨戛通讯器材有限公司\nZhengzhou Saga Telecom Co., Ltd."
+],
+[
+"地址：",
+"郑州市管城区航海路中州大道富田太阳城57号楼22层316\nRoom 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"采购订单编号",
+"STSC20260212014"
+],
+[
+"电话:",
+"86 15237149683"
+],
+[
+"邮箱",
+"s.sagatelecom@gmail.com"
+],
+[
+"联系人:",
+"程天龙(Simon Cheng)"
+],
+[
+"卖方:",
+"深圳凌特华盛科技有限公司\nShenzhen SmartByte Technology Co.,Ltd"
+],
+[
+"地址：",
+"广东省惠州市惠阳区镇隆镇力合优科创新基地1栋8楼  邮编：516227\n8th Floor, 1st Building, Lihe Youke Innovation Base, Zhenlong town, Huiyang district, Huizhou city, Guangdong Province, 516227"
+],
+[
+"联系人:",
+"Peter Hu/13714293521/peter@smartbyte.com.cn"
+],
+[
+"订单日期:",
+"26th, Feb, 2026"
+],
+[
+"付款条款",
+"工厂直发，款到生产，包邮"
+],
+[
+"发货地址",
+"客户上门取货（FedEx)"
+],
+[
+"卖方型号",
+"买方型号",
+"品名规格",
+"",
+"数量 \n(台)",
+"单价\n(RMB)",
+"小计\n(Sub-total)"
+],
+[
+"LT-IS6016G-16GT",
+"STS-16UMES",
+"工业交换机\n16个千兆网口, 不带管理，不带PoE\n3年质保，不含电源，带挂耳",
+"",
+"3",
+"512",
+"1536"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"3",
+"",
+"1536"
+],
+[
+"常规备注"
+],
+[
+"中性设备"
+],
+[
+"不放保修卡，非必要的都不放，QC贴纸不要贴，送货单等不要放"
+],
+[
+"挂耳",
+"放"
+],
+[
+"说明书",
+"说明书_STSC20260212014"
+],
+[
+"标签",
+"右上图，之前采用上次订单的内容，只改序列号即可"
+],
+[
+"箱标",
+"右下图，之前采用上次订单的内容，只改序列号即可"
+],
+[
+"序列号",
+"STS-16UM-202503234, 235, 236"
+],
+[
+"字体",
+"Times New Roman"
+],
+[
+"装箱",
+"常规包装"
+],
+[
+"防水膜",
+"打"
+],
+[
+"电源",
+"不含"
+],
+[
+"运费",
+"客户上门取货（FedEx)"
+],
+[
+"拍照拍视频",
+"简单拍一下即可"
+],
+[
+"交期",
+"Till 2026.03.03"
+],
+[
+"特别需求"
+],
+[
+"FedEx上门取货，使用我的身份证信息发货，需要你们来预约取件时间"
+],
+[
+"需要装箱单"
+],
+[
+"买方: 郑州仨戛通讯器材有限公司"
+],
+[
+"签字代表:程天龙(Simon Cheng)"
+],
+[
+"买方盖章"
+],
+[
+"2026.02.26"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:35:21Z"
+}

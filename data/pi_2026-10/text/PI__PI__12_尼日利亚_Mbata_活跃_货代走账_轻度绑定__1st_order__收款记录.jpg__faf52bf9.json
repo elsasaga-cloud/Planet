@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__1st_order__收款记录.jpg__faf52bf9",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/1st order/收款记录.jpg",
+"name":"收款记录.jpg",
+"ext":".jpg",
+"bytes":88646,
+"sha256":"faf52bf90f311513a20019fbf066a55584f930bec32b36e88586b8f9f9d18381",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":6395
+},
+"warnings":[],
+"chars":430,
+"text":"8:35 at 4G &\n< Transaction Details — View all\n古 记 商行 >\n+21,095.00\nTransaction successful\nOrder time 2024-09-08 20:34:39\nReason for 收 款\nreceived\npayment\nCounterparty 。 古 記 商 行 198******81\naccount\nOrder No. 20240908200040011100700023566\n271\nBill Management\nTransactions Category Transfers >\nand Notes Add >\nTranslate in statistics 【 @)\n国 View transaction r 回 Proof of Account\necords Transactions\n© Apply for e-receip @ Query Order\nt",
+"extracted_at":"2026-10-22T08:04:40Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__1st_order__收款记录.jpg__faf52bf9.jpg"
+}

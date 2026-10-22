@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__1_格鲁吉亚_George_gg__付款记录_2023.7.25.jpg__bd3d8856",
+"path":"PI/PI/1 格鲁吉亚 George gg/付款记录_2023.7.25.jpg",
+"name":"付款记录_2023.7.25.jpg",
+"ext":".jpg",
+"bytes":88160,
+"sha256":"bd3d885604250242df7a14bd18498dbcb444f07dd3d6eb1a892091019a9153ba",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":6265
+},
+"warnings":[],
+"chars":151,
+"text":"支付 有 福利\n四 +16 支付 宝 积分\n立即 领 16 和 去 竞 水 杯\n8 元 老 客 专 享 外 卖 红 包\nBTA |\nZK 陛 上\n1.5 元 話費 券\n淘宝 充值 中 心 ” 满 100 元 可 用\n10 元 平台 購物 券\n天 猫 超市 ” 实 付 满 一 定\n加\npa\n领\n免费 领",
+"extracted_at":"2026-10-22T07:27:33Z",
+"thumb":"thumbs/PI__PI__1_格鲁吉亚_George_gg__付款记录_2023.7.25.jpg__bd3d8856.jpg"
+}

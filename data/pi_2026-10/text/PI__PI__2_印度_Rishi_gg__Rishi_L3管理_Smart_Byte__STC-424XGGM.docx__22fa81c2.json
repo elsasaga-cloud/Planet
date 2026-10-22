@@ -1,0 +1,684 @@
+{
+"id":"PI__PI__2_印度_Rishi_gg__Rishi_L3管理_Smart_Byte__STC-424XGGM.docx__22fa81c2",
+"path":"PI/PI/2 印度 Rishi gg/Rishi L3管理 Smart Byte/STC-424XGGM.docx",
+"name":"STC-424XGGM.docx",
+"ext":".docx",
+"bytes":4441196,
+"sha256":"22fa81c28a43ca6a1aa75810cdbf990e5981822e120ebded14223ff62c51d063",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2023-07-22T16:14:00+00:00",
+"modified":"2023-12-25T10:42:28+00:00",
+"paragraphs":98,
+"tables":3,
+"embedded_images":4
+},
+"warnings":[],
+"chars":9163,
+"text":"Model Name\nSTC-424XGGM\nST: Saga Telecom\nC: Commercial grade\n4: 4 optical port\n24: 24 Ethernet ports\nXG: 10 Gigabit based for optical port\nG: Gigabit based for Ethernet port\nM: Managed\nIt is advised to read specific product description for more information.\nIntroduction\nSTC-424XGGM is a Layer 3 Managed Gigabit Switch that provides high-density performance, Layer 3 static and dynamic routing, RIP (Routing Information Protocol) and OSPF (Open Shortest Path First).\nWith 128 Gbps switching capacity and 4*1G/2.5G/10Gbps flexible and high performance uplink capability, it\nprovides comprehensive end to end QoS as well as flexible and rich management, security settings, which can meet the high speed, secure and smart requirement for small and medium-size enterprise networks based on cost effective price.\nThe powerful WRR (Weighted Round Robin) and network security features also make STC-424XGGM perform effective data traffic control for ISP and enterprise VoIP, video streaming, and multicast applications.\nSTC-424XGGM can be  used as core layer, distribution layer, and access layer switch for various business network applications.\nKey Features\n4*1G/2.5G/10G SFP+ ports uplink,  24*10/100/1000Base-T downlink, 1* RJ45 console interface for switch basic management and setup\nLayer 3 features: Supports static and dynamic routing, RIP, OSPF, BGP4,ECMP, VRRP\nPort aggregation: Supports GE ports, 2.5GE and 10GE port aggregation, static and dynamic aggregation\nVLAN : Supports access, truck , hybrid mode and VLAN classification, including the Mac based VLAN, IP based VLAN and protocol based VLAN\nQinQ: Supports port-based, VLAN-based and flow-based QinQ\nPort Mirroring: Many to one port mirroring\nLayer 2 ring network protocol: Supports STP, RSTP, MSTP, G.8032 ERPS protocol, single ring, sub ring\nMulticast: Supports IGMP snooping\nQoS: QoS class, remarking, Supports SP, WRR queue scheduling, Ingress/Engress port-based rate-limit and policy-based QoS\nSecurity: Support Dot1x, port authentication, mac authentication, RADIUS service; Support port-security, ip source guard, IP/Port/MAC binding, arp-check and ARP packet filtering for illegal users and port isolation\nManagement : Supports LLDP, user management and login authentication; SNMPV1/V2C/V3; web management, HTTP1.1, HTTPS; Syslog ; RMON （Remote Monitoring）alarm, event and history record; NTP, temperature monitoring; Ping, Tracert and optical transceiver DDM function; Supports TFTP Client, Telnet Server, SSH Server and IPv6 Management\nFirmware update, configure backup/restore through Web GUI, FTP and TFTP\nSpecification\nProduct Name\t28 port 10G Based Rack Type Managed Ethernet Switch\nPort\t24*10/100/1000M UTP RJ45 / 4*10G SFP+ Port / 1*RJ45 Console Port\nSwitching Capacity\t128Gbps\nThroughput\t190Mpps\nPackage Cache\t12Mbit\nMAC Address\t16K\nJumbo Frame\t12Kbytes\nPort aggregation\tSupport gigabit port, 2.5GE and 10GE port link aggregation / Support static and dynamic aggregation\nPort features\tSupport IEEE802.3x flow control, Port traffic statistics, port isolation / Support network storm suppression based on port bandwidth percentage\nVLAN\tSupport access, trunk and hybrid mode\nVLAN Classification\tMac Based VLAN / IP Based VLAN / Protocal Based VLAN\nQinQ\tBasic QinQ (Port-based QinQ) / Flexible Q in Q(VLAN-based QinQ) / QinQ(Flow-based QinQ)\nPort mirroring\tMany to one (Port Mirroring)\nLayer 2 ring network protocol\tSupport STP, RSTP, MSTP / Support G.8032 ERPS protocol, single ring, sub ring and other ring\nDHCP\tDHCP Client, DHCP Snooping\nMulticast\tIGMP snooping\nACL\tIP Standard ACL / MAC extend ACL / IP extend ACL\nQoS\tQoS Class, Remarking / Support SP, WRR queue scheduling / Ingress Port-based Rate-limit / Egress Port-based Rate-limit / Policy-based QoS\nSecurity\tSupport Dot1x, port authentication, mac authentication, RADIUS service / Support port-security / Support ip source guard, IP/Port/MAC binding / Support arp-check and ARP packet filtering for illegal users / Support port isolation\nManagement and maintenance\tSupport LLDP / Support user management and login authentication / Support SNMPV1/V2C/V3 / Support web management，HTTP1.1，HTTPS / Support Syslog / Support RMON （Remote Monitoring）alarm, event and history record / Support NTP / Support temperature monitoring / Support Ping, Tracert / Support optical transceiver DDM function / Support TFTP Client / Support Telnet Server / Support SSH Server / Support IPv6 Management / Support FTP，TFTP，WEB upgrading\nLayer 3 features\tDHCP server\tDHCP server\nLayer 3 features\tARP\tARP table aging\nLayer 3 features\tIPv4/IPv6\tStatic routing\nLayer 3 features\tECMP\tECMP; / Support the configuration of ECMP Max next-hop; / Support capacity balanced configuration;\nLayer 3 features\tRoute policy\tIPv4 prefix-list\nLayer 3 features\tVRRP\tvirtual router redundancy protocol\nLayer 3 features\tRouting entry\t13K\nLayer 3 features\tIP routing protocol\tRIPv1/v2;  OSPFv2;  BGP4; / BGP supports Routing recursive ECMP; / Support to view the number of neighbors and up/down state / IS-ISv4\nDimension(mm)\t440*245*44.5mm\nPower\tAC input / Rated voltage range: 100-240V / Frequency: 50/60Hz\nPower Consumption\t≤25W\nFan\tSupport fan speed control\nPower surge protection\t6KV, IEC 61000-4-5  Level X（8/20us）\nEthernet ports surge protection\t4KV, IEC 61000-4-5  Level 4（10/700us）\nWorking temperature\t0℃-50℃\nHumidity\tWorking humidity: 10%-90% RH / Storage humidity: 5%-95% RH\nDimension\nPacking list\n1pc switch\n1pc power cord\n1pc console cable\n1pc user manual\n1pair brackets\nFAQ\nLeadtime\nProduction time is usually 5~7 working days for standard(non-customized) models (no more than 50pcs).\nShipping time is usually 4~7 days by air\nIn total, it takes 10~15 days for a client to receive the order.\nShipment\nWe will send the goods by air(DHL, UPS or FEDEX) or by sea(for bulk order)\nIt is fine to ship purchased items via customer’s shipping account or forwarder.\nMOQ\n1 Pc/Pair(It is NOT free, Saga Telecom do NOT do FREE SAMPLES)\nIt is fine to have sample testing before bulk order, but 1 Pc/Pair is ONLY about sample testing.\nWhen testing proves fine, MOQ is 20pcs(discussion is required if it is about smaller quantity).\nWarranty\n1 year for commercial models(STC series) and 3 years for industrial models(STI series)\nPlease kindly refer to the “Warranty Policy” for more information.\nTechnical assistance is always available\nPayment\nT/T transfer and PayPal, FULL AMOUNT BEFORE SHIPMENT.\nIt is fine to pay 50% first and another 50% before shipment for bulk order.\nIt is fine to be paid via customer’s forwarder(this is usually about RMB payment).\nTransaction cost\nIt is standard charge 25usd for EACH T/T transfer whatever the invoice value is.\nIt is 5usd for every 100usd to PayPal a/c, this ratio is standard charge by PayPal\nRMA\nPlease contact us ASAP once there is any problem(package or usage)with the supplied products.\nFor every 100pcs, there will be 2 extra free units(2% RMA) against immediate warranty coverage.\nThis rule stands for all Saga Telecom models and even there is not an after-sales issue.\nIf it is about missing/faulty parts in the packing box.\nPlease simply use the extra units for the replacement and let us know this problem(we will improve).\nIf it is about usage problem.\nSaga Telecom will provide technical support and send new units when necessary.\nOEM\nSupported, but discussion is required if it is about complex requirements.\nBelow are usual OEM services available.\nShow client’s logo/model on the device/label/management interface...\nUse client’s packing box\nDesign client’s product PVC sticker\nCustomize some parts of a model like rear panel/power input terminal block...\nPlease know that there might be extra cost for OEM services.\nAfter-sales support\nWarranty comes in effect from the date of delivery.\nIf something is wrong with the package or usage, please let us know asap.\nCase 1, package problem\nAny faulty/missing parts in the packing box, Saga telecom will help do the replacement or refund.\nCase 2, usage problem\nThe standard and most effective procedures(get a feedback form from us) are as below\n1, describe what happened, examples as below\nWhen this problem occurred\nWhat you did to adjust it like restart the device or change new accessories\nHow you use this device like outdoor use for connecting some IP cameras\nWith this information, Saga telecom could quickly know what is going on and do trouble-shooting\n2, provide as many actual photos/video as possible\nWrong connection or improper use may occur.\nIn this case, photos and videos are helpful and efficient.\n3, prepare necessary and relevant accessories such as SFP module/network cable/patch-cord...\nAn example is, in a linear network connection, if one SFP module fails, the whole system might have a transmission problem.\nThe solution would be as simple as replacing a new workable SFP module.\nWith in-hand accessories, sometimes it is easy to fix the problem.\n4, get ready for online meeting\nSaga telecom might remotely control your PC to do trouble-shooting with the help of Teamviewer.\nFor more information, please talk with us or visit www.sagatelecom.com.cn\n[页眉页脚]\ns.sagatelecom@gmail.com\nSaga Telecom\nwww.sagatelecom.com.cn\nConnecting, Converting, Creating",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Model Name"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STC-424XGGM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"ST: Saga Telecom"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"C: Commercial grade"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4: 4 optical port"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"24: 24 Ethernet ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"XG: 10 Gigabit based for optical port"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"G: Gigabit based for Ethernet port"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"M: Managed"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is advised to read specific product description for more information."
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Introduction"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STC-424XGGM is a Layer 3 Managed Gigabit Switch that provides high-density performance, Layer 3 static and dynamic routing, RIP (Routing Information Protocol) and OSPF (Open Shortest Path First)."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"With 128 Gbps switching capacity and 4*1G/2.5G/10Gbps flexible and high performance uplink capability, it"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"provides comprehensive end to end QoS as well as flexible and rich management, security settings, which can meet the high speed, secure and smart requirement for small and medium-size enterprise networks based on cost effective price."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The powerful WRR (Weighted Round Robin) and network security features also make STC-424XGGM perform effective data traffic control for ISP and enterprise VoIP, video streaming, and multicast applications."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STC-424XGGM can be  used as core layer, distribution layer, and access layer switch for various business network applications."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Key Features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4*1G/2.5G/10G SFP+ ports uplink,  24*10/100/1000Base-T downlink, 1* RJ45 console interface for switch basic management and setup"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Layer 3 features: Supports static and dynamic routing, RIP, OSPF, BGP4,ECMP, VRRP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Port aggregation: Supports GE ports, 2.5GE and 10GE port aggregation, static and dynamic aggregation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"VLAN : Supports access, truck , hybrid mode and VLAN classification, including the Mac based VLAN, IP based VLAN and protocol based VLAN"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"QinQ: Supports port-based, VLAN-based and flow-based QinQ"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Port Mirroring: Many to one port mirroring"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Layer 2 ring network protocol: Supports STP, RSTP, MSTP, G.8032 ERPS protocol, single ring, sub ring"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Multicast: Supports IGMP snooping"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"QoS: QoS class, remarking, Supports SP, WRR queue scheduling, Ingress/Engress port-based rate-limit and policy-based QoS"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Security: Support Dot1x, port authentication, mac authentication, RADIUS service; Support port-security, ip source guard, IP/Port/MAC binding, arp-check and ARP packet filtering for illegal users and port isolation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Management : Supports LLDP, user management and login authentication; SNMPV1/V2C/V3; web management, HTTP1.1, HTTPS; Syslog ; RMON （Remote Monitoring）alarm, event and history record; NTP, temperature monitoring; Ping, Tracert and optical transceiver DDM function; Supports TFTP Client, Telnet Server, SSH Server and IPv6 Management"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Firmware update, configure backup/restore through Web GUI, FTP and TFTP"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"Product Name",
+"28 port 10G Based Rack Type Managed Ethernet Switch"
+],
+[
+"Port",
+"24*10/100/1000M UTP RJ45 / 4*10G SFP+ Port / 1*RJ45 Console Port"
+],
+[
+"Switching Capacity",
+"128Gbps"
+],
+[
+"Throughput",
+"190Mpps"
+],
+[
+"Package Cache",
+"12Mbit"
+],
+[
+"MAC Address",
+"16K"
+],
+[
+"Jumbo Frame",
+"12Kbytes"
+],
+[
+"Port aggregation",
+"Support gigabit port, 2.5GE and 10GE port link aggregation / Support static and dynamic aggregation"
+],
+[
+"Port features",
+"Support IEEE802.3x flow control, Port traffic statistics, port isolation / Support network storm suppression based on port bandwidth percentage"
+],
+[
+"VLAN",
+"Support access, trunk and hybrid mode"
+],
+[
+"VLAN Classification",
+"Mac Based VLAN / IP Based VLAN / Protocal Based VLAN"
+],
+[
+"QinQ",
+"Basic QinQ (Port-based QinQ) / Flexible Q in Q(VLAN-based QinQ) / QinQ(Flow-based QinQ)"
+],
+[
+"Port mirroring",
+"Many to one (Port Mirroring)"
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+"Layer 2 ring network protocol",
+"Support STP, RSTP, MSTP / Support G.8032 ERPS protocol, single ring, sub ring and other ring"
+],
+[
+"DHCP",
+"DHCP Client, DHCP Snooping"
+],
+[
+"Multicast",
+"IGMP snooping"
+],
+[
+"ACL",
+"IP Standard ACL / MAC extend ACL / IP extend ACL"
+],
+[
+"QoS",
+"QoS Class, Remarking / Support SP, WRR queue scheduling / Ingress Port-based Rate-limit / Egress Port-based Rate-limit / Policy-based QoS"
+],
+[
+"Security",
+"Support Dot1x, port authentication, mac authentication, RADIUS service / Support port-security / Support ip source guard, IP/Port/MAC binding / Support arp-check and ARP packet filtering for illegal users / Support port isolation"
+],
+[
+"Management and maintenance",
+"Support LLDP / Support user management and login authentication / Support SNMPV1/V2C/V3 / Support web management，HTTP1.1，HTTPS / Support Syslog / Support RMON （Remote Monitoring）alarm, event and history record / Support NTP / Support temperature monitoring / Support Ping, Tracert / Support optical transceiver DDM function / Support TFTP Client / Support Telnet Server / Support SSH Server / Support IPv6 Management / Support FTP，TFTP，WEB upgrading"
+],
+[
+"Layer 3 features",
+"DHCP server",
+"DHCP server"
+],
+[
+"Layer 3 features",
+"ARP",
+"ARP table aging"
+],
+[
+"Layer 3 features",
+"IPv4/IPv6",
+"Static routing"
+],
+[
+"Layer 3 features",
+"ECMP",
+"ECMP; / Support the configuration of ECMP Max next-hop; / Support capacity balanced configuration;"
+],
+[
+"Layer 3 features",
+"Route policy",
+"IPv4 prefix-list"
+],
+[
+"Layer 3 features",
+"VRRP",
+"virtual router redundancy protocol"
+],
+[
+"Layer 3 features",
+"Routing entry",
+"13K"
+],
+[
+"Layer 3 features",
+"IP routing protocol",
+"RIPv1/v2;  OSPFv2;  BGP4; / BGP supports Routing recursive ECMP; / Support to view the number of neighbors and up/down state / IS-ISv4"
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+"Dimension(mm)",
+"440*245*44.5mm"
+],
+[
+"Power",
+"AC input / Rated voltage range: 100-240V / Frequency: 50/60Hz"
+],
+[
+"Power Consumption",
+"≤25W"
+],
+[
+"Fan",
+"Support fan speed control"
+],
+[
+"Power surge protection",
+"6KV, IEC 61000-4-5  Level X（8/20us）"
+],
+[
+"Ethernet ports surge protection",
+"4KV, IEC 61000-4-5  Level 4（10/700us）"
+],
+[
+"Working temperature",
+"0℃-50℃"
+],
+[
+"Humidity",
+"Working humidity: 10%-90% RH / Storage humidity: 5%-95% RH"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Dimension"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Packing list"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc power cord"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc console cable"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc user manual"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pair brackets"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"FAQ"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Leadtime"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Production time is usually 5~7 working days for standard(non-customized) models (no more than 50pcs)."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipping time is usually 4~7 days by air"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"In total, it takes 10~15 days for a client to receive the order."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We will send the goods by air(DHL, UPS or FEDEX) or by sea(for bulk order)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to ship purchased items via customer’s shipping account or forwarder."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MOQ"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1 Pc/Pair(It is NOT free, Saga Telecom do NOT do FREE SAMPLES)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to have sample testing before bulk order, but 1 Pc/Pair is ONLY about sample testing."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"When testing proves fine, MOQ is 20pcs(discussion is required if it is about smaller quantity)."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Warranty"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1 year for commercial models(STC series) and 3 years for industrial models(STI series)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please kindly refer to the “Warranty Policy” for more information."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Technical assistance is always available"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Payment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"T/T transfer and PayPal, FULL AMOUNT BEFORE SHIPMENT."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to pay 50% first and another 50% before shipment for bulk order."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to be paid via customer’s forwarder(this is usually about RMB payment)."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Transaction cost"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is standard charge 25usd for EACH T/T transfer whatever the invoice value is."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is 5usd for every 100usd to PayPal a/c, this ratio is standard charge by PayPal"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"RMA"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please contact us ASAP once there is any problem(package or usage)with the supplied products."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For every 100pcs, there will be 2 extra free units(2% RMA) against immediate warranty coverage."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This rule stands for all Saga Telecom models and even there is not an after-sales issue."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If it is about missing/faulty parts in the packing box."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please simply use the extra units for the replacement and let us know this problem(we will improve)."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If it is about usage problem."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom will provide technical support and send new units when necessary."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OEM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Supported, but discussion is required if it is about complex requirements."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Below are usual OEM services available."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Show client’s logo/model on the device/label/management interface..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Use client’s packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Design client’s product PVC sticker"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Customize some parts of a model like rear panel/power input terminal block..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that there might be extra cost for OEM services."
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"After-sales support"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Warranty comes in effect from the date of delivery."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If something is wrong with the package or usage, please let us know asap."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Case 1, package problem"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Any faulty/missing parts in the packing box, Saga telecom will help do the replacement or refund."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Case 2, usage problem"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The standard and most effective procedures(get a feedback form from us) are as below"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1, describe what happened, examples as below"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"When this problem occurred"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"What you did to adjust it like restart the device or change new accessories"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"How you use this device like outdoor use for connecting some IP cameras"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"With this information, Saga telecom could quickly know what is going on and do trouble-shooting"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2, provide as many actual photos/video as possible"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Wrong connection or improper use may occur."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"In this case, photos and videos are helpful and efficient."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3, prepare necessary and relevant accessories such as SFP module/network cable/patch-cord..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"An example is, in a linear network connection, if one SFP module fails, the whole system might have a transmission problem."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The solution would be as simple as replacing a new workable SFP module."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"With in-hand accessories, sometimes it is easy to fix the problem."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4, get ready for online meeting"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga telecom might remotely control your PC to do trouble-shooting with the help of Teamviewer."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For more information, please talk with us or visit www.sagatelecom.com.cn"
+}
+],
+"extracted_at":"2026-10-22T07:31:15Z"
+}

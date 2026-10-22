@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__IoT_Board__PCB.jpg__d004aaec",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/IoT Board/PCB.jpg",
+"name":"PCB.jpg",
+"ext":".jpg",
+"bytes":560170,
+"sha256":"d004aaec17be507d56e3401efce967363cf7903e444cf31b0ef99b39fa993ff7",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":1280,
+"height":1707,
+"mode":"RGB",
+"thumb_bytes":21738
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:43:40Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__IoT_Board__PCB.jpg__d004aaec.jpg"
+}

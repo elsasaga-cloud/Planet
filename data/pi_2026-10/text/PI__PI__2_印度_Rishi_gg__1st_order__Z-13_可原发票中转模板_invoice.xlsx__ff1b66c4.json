@@ -1,0 +1,182 @@
+{
+"id":"PI__PI__2_印度_Rishi_gg__1st_order__Z-13_可原发票中转模板_invoice.xlsx__ff1b66c4",
+"path":"PI/PI/2 印度 Rishi gg/1st order/Z-13 可原发票中转模板_invoice.xlsx",
+"name":"Z-13 可原发票中转模板_invoice.xlsx",
+"ext":".xlsx",
+"bytes":12637,
+"sha256":"ff1b66c48479e3f738c33a49ca8571be1da865b3a858d1492d583ff51c38b125",
+"source":"PI.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"Sheet1"
+],
+"embedded_images":0,
+"rows_total":18
+},
+"warnings":[],
+"chars":1569,
+"text":"--- Sheet: Sheet1 ---\nCOMMERCIAL INVOICE\nNote:   请用英文填写所有资料\t\t\t\t\t运单号：\tWE02310007655\nDATE OF EXPORTATION\n出口日期：\t\t\t\t\t发票号：\nSHIPPER 发货人\t\t\t\t\tCONSIGNEE 收货人\nCORP NAME（公司名称）：\t\tZhengzhou Saga Telecom Co., Ltd.\t\t\tCORP NAME（公司名称）：\tFastball\nADDRESS(地址)：\t\tRoom 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\t\t\tADDRESS(地址)：\tA47, STREET NO. 4, ASHOK NAGAR, NEAR SHUKRA BAZAR, DELHI, Pin Code 110093\nATTENTION(姓名):\t\tSimon Cheng\t\t\tATTENTION(姓名):\tRishi Kumar Bansal\nTEL NO(电话):\t\t86-15237149683\t\t\tTEL NO(电话):\t91 98717 53979\nEXPORT REFERENCES\n出口编号:\t\t\t\t\tVAT(税号）：\t\t\tEORI/企业号:\nCOUNTRY OF ORIGIN\t\tCHINA\t\t\tNOTIFY PARTY 清关商\n物品来源\t\t中国\t\t\tCORP NAME（公司名称）：\nCOUNTRY OF EXPORT\t\tCHINA\t\t\tADDRESS(地址)：\n出口国：\t\t中国\t\t\tATTENTION(姓名):\nCOUNTRY OF DESTINATION\n目的地：\t\t\t\t\tTEL NO(电话):\nPACKAGE NUMBER\t中文品名\tDESCRIPTION OF\nGOODS;Specifications\n货物描述及规格\tHS CODE\n海关编号 (HS)\tThe material\n材质\tUSE\n用途\tQTY(PCS)\n数量\tUNIT VALUE\n（USD）单价\tTOTAL VALUE\n（USD）总值\t品牌\t型号\n1\t光纤清洁笔\tCleaner Pen\t8517799000\tMetal\tClean fiber optic device connectors\t80\t2.6\t208\n\t\t\t\t\tTOTAL INVOICE VALUE:（USD)\t\t\t208\nSHIPPER'S SIGNATURE  Simon Cheng                                                      DATE  2023.10.14\n发货人签名                                                                                                  日期                                                                                              \nSpecial Statement:  I/We hereby declare the information on this invoice is true and correct, and that the contents of this shipment are as stated above. Samples Sent Of No Commercial Values",
+"sheets":{
+"Sheet1":{
+"state":"visible",
+"rows":[
+[
+"COMMERCIAL INVOICE"
+],
+[
+"Note:   请用英文填写所有资料",
+"",
+"",
+"",
+"",
+"运单号：",
+"WE02310007655"
+],
+[
+"DATE OF EXPORTATION\n出口日期：",
+"",
+"",
+"",
+"",
+"发票号："
+],
+[
+"SHIPPER 发货人",
+"",
+"",
+"",
+"",
+"CONSIGNEE 收货人"
+],
+[
+"CORP NAME（公司名称）：",
+"",
+"Zhengzhou Saga Telecom Co., Ltd.",
+"",
+"",
+"CORP NAME（公司名称）：",
+"Fastball"
+],
+[
+"ADDRESS(地址)：",
+"",
+"Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009",
+"",
+"",
+"ADDRESS(地址)：",
+"A47, STREET NO. 4, ASHOK NAGAR, NEAR SHUKRA BAZAR, DELHI, Pin Code 110093"
+],
+[
+"ATTENTION(姓名):",
+"",
+"Simon Cheng",
+"",
+"",
+"ATTENTION(姓名):",
+"Rishi Kumar Bansal"
+],
+[
+"TEL NO(电话):",
+"",
+"86-15237149683",
+"",
+"",
+"TEL NO(电话):",
+"91 98717 53979"
+],
+[
+"EXPORT REFERENCES\n出口编号:",
+"",
+"",
+"",
+"",
+"VAT(税号）：",
+"",
+"",
+"EORI/企业号:"
+],
+[
+"COUNTRY OF ORIGIN",
+"",
+"CHINA",
+"",
+"",
+"NOTIFY PARTY 清关商"
+],
+[
+"物品来源",
+"",
+"中国",
+"",
+"",
+"CORP NAME（公司名称）："
+],
+[
+"COUNTRY OF EXPORT",
+"",
+"CHINA",
+"",
+"",
+"ADDRESS(地址)："
+],
+[
+"出口国：",
+"",
+"中国",
+"",
+"",
+"ATTENTION(姓名):"
+],
+[
+"COUNTRY OF DESTINATION\n目的地：",
+"",
+"",
+"",
+"",
+"TEL NO(电话):"
+],
+[
+"PACKAGE NUMBER",
+"中文品名",
+"DESCRIPTION OF\nGOODS;Specifications\n货物描述及规格",
+"HS CODE\n海关编号 (HS)",
+"The material\n材质",
+"USE\n用途",
+"QTY(PCS)\n数量",
+"UNIT VALUE\n（USD）单价",
+"TOTAL VALUE\n（USD）总值",
+"品牌",
+"型号"
+],
+[
+"1",
+"光纤清洁笔",
+"Cleaner Pen",
+"8517799000",
+"Metal",
+"Clean fiber optic device connectors",
+"80",
+"2.6",
+"208"
+],
+[
+"",
+"",
+"",
+"",
+"",
+"TOTAL INVOICE VALUE:（USD)",
+"",
+"",
+"208"
+],
+[
+"SHIPPER'S SIGNATURE  Simon Cheng                                                      DATE  2023.10.14\n发货人签名                                                                                                  日期                                                                                              \nSpecial Statement:  I/We hereby declare the information on this invoice is true and correct, and that the contents of this shipment are as stated above. Samples Sent Of No Commercial Values"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:31:28Z"
+}

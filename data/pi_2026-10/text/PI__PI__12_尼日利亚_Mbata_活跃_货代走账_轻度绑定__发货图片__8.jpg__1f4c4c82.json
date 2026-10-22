@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__发货图片__8.jpg__1f4c4c82",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/发货图片/8.jpg",
+"name":"8.jpg",
+"ext":".jpg",
+"bytes":2056066,
+"sha256":"1f4c4c82169b13cfc6e76c24eec2dd46527f13f153760044de2ffa66d340f71d",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":2880,
+"height":1843,
+"mode":"RGB",
+"thumb_bytes":11237
+},
+"warnings":[],
+"chars":2474,
+"text":"Usage Guide\nAll in all, there are usually 3 types of installation\nmethods for Ethernet switches\nDesktop, Wall-mounted and Rack-mounted\nEither way, there are some precautions\n@ Please make sure the switch is working under a\ncorrect and stable voltage. 1\n@ Before using the switch, be sure to ground it via\nthe ground screw.\n@ Before cleaning the switch, the power plug of the\nswitch should be pulled out first.\n@ Please do not wipe the switch with a wet cloth, and\ndo not use liquid to clean the switch.\n@ Please do not open the case when the switch is\nworking.\nType 1: Desktop Use\nDirectly place the device on the platform or desktop,\nthen do the correct power and cable connection.\nType 2: Wall-mounted Use\nPlace the switch at the location to be installed, and use a\nscrewdriver to tighten the mounting ear screws on both\nsides.\nType 3: Rack-mounted Use\nWhen installing the switch on the rack, there must be a\nbracket (fixed on the cabinet) under the Ethernet\nswitch to prop up it.\n1. Please make sure the 19”’rack on good grounding.\n2s Fixing the mounting ears on the both side of the\nSwitch.\n3. Place the switch on a bracket of the rack and move the\nswitch along the guide rails of the rack to a proper\nposition.\n4. Use screws to install the Ethernet switch on the rack.\n@ Configuration Cable Connection\nThe standalone and rack switches are sharing the same\nconfiguration cable connection method. :\nPlease follow below steps to complete the connection.\n1. Connect the USB plug of the configuration cable to the\nSB port of the computer. ;\n2, Combet the RJ45 end of the configuration cable to the\nConsole port of the Ethernet switch.\nConnecting the AC power cord\n。 Connect one end of the power cord to the AC power\nlug of the device accurately and in place.\nCnet the other end of the power cord to an external\nAC power outlet.\ne@ Connecting the DC power cord\n1\nDs\nPlease know th\nDes. at the\n. Make sure that the device is disconnected from the\nincoming power.\nConnect one end of the protective grounding cable to\nthe grounding screw of the equipment, and the other\nend is well grounded\n. Insert the DC end of the DC terminal of the power\nadapter into the DC socket of the device, and connect\nthe other end to the mains supply.\nTurn on the power supply and check the power light\non the front panel of the device. If the indicator light\nis on, it indicates that the power supply is normal.\ni desktop Ethernet switch device supports\n6V (non-PoE) and 44-57V (PoE) power supply.",
+"extracted_at":"2026-10-22T08:02:29Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__发货图片__8.jpg__1f4c4c82.jpg"
+}

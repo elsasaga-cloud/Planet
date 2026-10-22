@@ -1,0 +1,155 @@
+{
+"id":"PI__PI__18_阿联酋_Sanjay_可发展__PL_STAG20251127018.xls__0ffe9ea5",
+"path":"PI/PI/18 阿联酋 Sanjay 可发展/PL_STAG20251127018.xls",
+"name":"PL_STAG20251127018.xls",
+"ext":".xls",
+"bytes":327168,
+"sha256":"0ffe9ea54e4aec43a3e7489c5dfffc4fd66498ce107326edc7acb51c419bee35",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Packing List"
+],
+"rows_total":23
+},
+"warnings":[],
+"chars":903,
+"text":"--- Sheet: Packing List ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nMob: 86 13048800964\nWeb: www.sagatelecom.com.cn\nEmail: a.sagatelecom@gmail.com\nPacking List\nDate\t2025.12.05\nShip To\tASTEL DIGICOM Electronics LLC\nShipping Add.\t广州市荔湾区杉木栏路156号首层  联系人: May唐美青  18890088162\nP/O No.\nP/I No.\tSTAG20251127018\nP/L No.\tPL20251205001\nC/No.:\tModel\tDESCRIPTION\tQTY/CTN\tQTY/PCS\tCTNS\tN.W/Kg\tG.W/Kg\tLENGTH/CM\tWIDTH/CM\tHEIGHT/CM\tV.W/Kg\tMEAS/CM³\n1\tAST-IMC-GB-1E2F-SM-20KM\tIndustrial Ethernet Switch\t2\t2\t1\t0.6\t0.8\t31\t23.5\t18.5\t2.69545\t0.013477\n\tAST-IMC-GB-4E2F-SM-20Km\tIndustrial Ethernet Switch\t2\t2\t\t1.1\t1.4\n\tHDR-15-24\tIndustrial Power Supply\t4\t4\t\t0.6\t0.8\nTOTAL\t\t\t\t8\t1\t2.3\t3\t\t\t\t2.69545\t0.013477\nBillable Weight\tWhichever is greater between G.W/Kg and V.W/Kg\nCarton\tONE(1)\nQUANTITY\tEIGHT PCS\nZhengzhou Saga Telecom Co., Ltd.\nIssued by\tAlan",
+"sheets":{
+"Packing List":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Tailored Marvell Managed Networking Solutions Provider"
+],
+[
+"Mob: 86 13048800964"
+],
+[
+"Web: www.sagatelecom.com.cn"
+],
+[
+"Email: a.sagatelecom@gmail.com"
+],
+[
+"Packing List"
+],
+[
+"Date",
+"2025.12.05"
+],
+[
+"Ship To",
+"ASTEL DIGICOM Electronics LLC"
+],
+[
+"Shipping Add.",
+"广州市荔湾区杉木栏路156号首层  联系人: May唐美青  18890088162"
+],
+[
+"P/O No."
+],
+[
+"P/I No.",
+"STAG20251127018"
+],
+[
+"P/L No.",
+"PL20251205001"
+],
+[
+"C/No.:",
+"Model",
+"DESCRIPTION",
+"QTY/CTN",
+"QTY/PCS",
+"CTNS",
+"N.W/Kg",
+"G.W/Kg",
+"LENGTH/CM",
+"WIDTH/CM",
+"HEIGHT/CM",
+"V.W/Kg",
+"MEAS/CM³"
+],
+[
+"1",
+"AST-IMC-GB-1E2F-SM-20KM",
+"Industrial Ethernet Switch",
+"2",
+"2",
+"1",
+"0.6",
+"0.8",
+"31",
+"23.5",
+"18.5",
+"2.69545",
+"0.013477"
+],
+[
+"",
+"AST-IMC-GB-4E2F-SM-20Km",
+"Industrial Ethernet Switch",
+"2",
+"2",
+"",
+"1.1",
+"1.4"
+],
+[
+"",
+"HDR-15-24",
+"Industrial Power Supply",
+"4",
+"4",
+"",
+"0.6",
+"0.8"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"8",
+"1",
+"2.3",
+"3",
+"",
+"",
+"",
+"2.69545",
+"0.013477"
+],
+[
+"Billable Weight",
+"Whichever is greater between G.W/Kg and V.W/Kg"
+],
+[
+"Carton",
+"ONE(1)"
+],
+[
+"QUANTITY",
+"EIGHT PCS"
+],
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Issued by",
+"Alan"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:58:19Z"
+}

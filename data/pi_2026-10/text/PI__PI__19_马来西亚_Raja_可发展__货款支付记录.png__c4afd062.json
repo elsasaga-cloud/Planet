@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__19_马来西亚_Raja_可发展__货款支付记录.png__c4afd062",
+"path":"PI/PI/19 马来西亚 Raja 可发展/货款支付记录.png",
+"name":"货款支付记录.png",
+"ext":".png",
+"bytes":95720,
+"sha256":"c4afd062fdecfe1c342bfdaed484bf0959b7a07c641cbe07b6c385199102814a",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":5690
+},
+"warnings":[],
+"chars":197,
+"text":"3:13 了\n收 款 账户\n付款 账户\n转账 附 言\n转账 渠 道\n转账 方式\n© 转账 完成\n3 4G\n转账 记录 查询 站 , 锡\n转 给 罗 辉\n-¥ 8,525.00\n6214 3913 3000 0617 588\n6214 **** **** 1962\n转账\n手机 银行\n电子 银行 转账\nae\nri\n(ot\na\n2026-08-21 15:13:43\n查看 和 TA 的 转账 记录",
+"extracted_at":"2026-10-22T07:49:11Z",
+"thumb":"thumbs/PI__PI__19_马来西亚_Raja_可发展__货款支付记录.png__c4afd062.jpg"
+}

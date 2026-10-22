@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__3_赞比亚_Pythias_gg__采购_Smartbyte__货拉拉费用.jpg__6f209763",
+"path":"PI/PI/3  赞比亚 Pythias gg/采购_Smartbyte/货拉拉费用.jpg",
+"name":"货拉拉费用.jpg",
+"ext":".jpg",
+"bytes":223319,
+"sha256":"6f209763e827f520d2c2aa64d14da8b588d556efdd2c237499ad47feaea9db67",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1080,
+"height":2400,
+"mode":"RGB",
+"thumb_bytes":4078
+},
+"warnings":[],
+"chars":185,
+"text":"下 午 5:27 2 ©\n《 费用 明细\n181:\nsll G3\nse ©\n若 产生 高 速 路 桥 费 、 搬 运费 、 停 车 费 、 等 候 费 ， 请\n雙方 協商 一 致 後 , 客戶 另行 支付 。\n已 支付\n一 口 價\n共 77 公 里 ， 含 起 步 里 程 5 公 里\n高 速 路 橋 費\n本 单 仅 可 开具 电子 普 票 ( 僅 線 上 支付 部 分",
+"extracted_at":"2026-10-22T07:48:22Z",
+"thumb":"thumbs/PI__PI__3_赞比亚_Pythias_gg__采购_Smartbyte__货拉拉费用.jpg__6f209763.jpg"
+}

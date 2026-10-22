@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__ANW-2116-PG_label.png__9a3207fc",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/2nd order sample 2层10G 16口 2光8管理/ANW-2116-PG label.png",
+"name":"ANW-2116-PG label.png",
+"ext":".png",
+"bytes":51703,
+"sha256":"9a3207fccb4a75c98280e1b33a4e41c23b441c25e4f5cb3369dd2a81ae1fda1d",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":875,
+"height":541,
+"mode":"RGBA",
+"thumb_bytes":12509
+},
+"warnings":[],
+"chars":169,
+"text":"ANGORA NETWORKS\nVERGE SERIES ETHERNET SWITCHES\nMODEL: ANW-2116-PG\nPOWER: 240W\nINPUT: 220V\nie)\nUTM AMINA\nAWN241023123008AE\n=)\n©\n50\n当\nO\n5\nMAC ADDRESS: 98:06:37:A0:57:00 SR",
+"extracted_at":"2026-10-22T07:41:35Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__ANW-2116-PG_label.png__9a3207fc.jpg"
+}

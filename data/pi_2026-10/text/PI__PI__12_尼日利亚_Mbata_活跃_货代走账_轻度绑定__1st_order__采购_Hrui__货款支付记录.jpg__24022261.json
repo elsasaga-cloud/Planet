@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__1st_order__采购_Hrui__货款支付记录.jpg__24022261",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/1st order/采购_Hrui/货款支付记录.jpg",
+"name":"货款支付记录.jpg",
+"ext":".jpg",
+"bytes":43839,
+"sha256":"240222610aa92180873efe1d0377e15eda8b0c31d3c8d3522bf8a049b5ccd24e",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":3260
+},
+"warnings":[],
+"chars":80,
+"text":"11:12 al FE\n@ Payment successful\nHRUI\n洪 瑞光 祥 〈* 婷 )\n¥ 9250.00\n% 為 鄉村 兒童 送 愛 心包 裏",
+"extracted_at":"2026-10-22T08:05:11Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__1st_order__采购_Hrui__货款支付记录.jpg__24022261.jpg"
+}

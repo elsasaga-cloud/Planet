@@ -1,0 +1,116 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__1st_order__发票.xlsx__97a36e86",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/1st order/发票.xlsx",
+"name":"发票.xlsx",
+"ext":".xlsx",
+"bytes":17063,
+"sha256":"97a36e864a74d7eb82e69793690968d2da3f5dd3fdf8d99912b0aad0eb070933",
+"source":"PI.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"发票"
+],
+"embedded_images":0,
+"rows_total":9
+},
+"warnings":[],
+"chars":572,
+"text":"--- Sheet: 发票 ---\nCOMMERCIAL   INVOICE\nMESSRS\tNYNEX satellite OHG\t\t\t\t\tATT\t\tFrederik Kriewitz\nADD\tRobert-Bosch-Str. 20, 64293 Darmstadt, Germany\t\t\t\t\tPOSTCODE\t\t64293\nTEL\t49 6151 500 74 - 119\t\t\t\t\tINVOICE NO.\t\tSTSC20241121015\nEORI：\t\t\tvat\t\tMode of transaction\nS/N\tItem Name\tHS\tMaterial\tuse\tQTY(pcs)\tUnit Price  (USD)\tAmount (USD)\tRemark\n1\tCommercial Ethernet Switch\t8517622990\tMetal\tData exchange and optical telecommunication\t1\t185\t185\t不带电不带磁\n普货\n2\tCommercial Ethernet Switch\t8517622990\tMetal\tData exchange and optical telecommunication\t1\t265\t265\t不带电不带磁\n普货\nTOTAL（合计）:\t\t\t\t\t\t\t450",
+"sheets":{
+"发票":{
+"state":"visible",
+"rows":[
+[
+"COMMERCIAL   INVOICE"
+],
+[
+"MESSRS",
+"NYNEX satellite OHG",
+"",
+"",
+"",
+"",
+"ATT",
+"",
+"Frederik Kriewitz"
+],
+[
+"ADD",
+"Robert-Bosch-Str. 20, 64293 Darmstadt, Germany",
+"",
+"",
+"",
+"",
+"POSTCODE",
+"",
+"64293"
+],
+[
+"TEL",
+"49 6151 500 74 - 119",
+"",
+"",
+"",
+"",
+"INVOICE NO.",
+"",
+"STSC20241121015"
+],
+[
+"EORI：",
+"",
+"",
+"vat",
+"",
+"Mode of transaction"
+],
+[
+"S/N",
+"Item Name",
+"HS",
+"Material",
+"use",
+"QTY(pcs)",
+"Unit Price  (USD)",
+"Amount (USD)",
+"Remark"
+],
+[
+"1",
+"Commercial Ethernet Switch",
+"8517622990",
+"Metal",
+"Data exchange and optical telecommunication",
+"1",
+"185",
+"185",
+"不带电不带磁\n普货"
+],
+[
+"2",
+"Commercial Ethernet Switch",
+"8517622990",
+"Metal",
+"Data exchange and optical telecommunication",
+"1",
+"265",
+"265",
+"不带电不带磁\n普货"
+],
+[
+"TOTAL（合计）:",
+"",
+"",
+"",
+"",
+"",
+"",
+"450"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:34:12Z"
+}

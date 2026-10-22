@@ -1,0 +1,167 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__RFP__Sftp_reply_2024.7.11.docx__1bd90a47",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/RFP/Sftp reply_2024.7.11.docx",
+"name":"Sftp reply_2024.7.11.docx",
+"ext":".docx",
+"bytes":104672,
+"sha256":"1bd90a47f7eaf425d4d3674c4f6a2e90fc9bcea927e487eade85501de4b5c97d",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2024-04-22T07:22:00+00:00",
+"modified":"2024-07-11T03:17:47+00:00",
+"paragraphs":28,
+"tables":0,
+"embedded_images":3
+},
+"warnings":[],
+"chars":1405,
+"text":"Acl, Sflow, https and sftp\nAcl and sflow are OK.\nHttps will be realized by another Marvell chip function as we discussed before.\nNow we need to focus on Sftp.\nAbout one month ago, we first talked about this function.\nHere you mentioned image upgrading and security.\nThe ready solution is FTP.\nFTP is about directly transmitting source files, not very secure as Sftp.\nWhile Sftp first encrypts local data and transmit it, more secure.\nAccording to our engineers, Sftp involves some points.\nConfiguration import, export\nsyslog export\nversion upgrade\nSome other possible functions\nWe need to understand EXACTLY your application scenarios to know the workload of R&D.\nIt would be best if you have some references like below\nA specific model with Sftp from any brand\nSome projects you did before\nAny information that helps\nThen we will evaluate the R&D workload and leadtime.\nFYI, I would like you to see this\nThis is from our technical group.\nIt means the software requirements we receive but not done yet.\nAs I said before, if this order is CONFIRMED and a deposit is done, it will be easier to prioritize Sftp.\nThat is why we need to know the exact applications of Sftp.\nAnd thanks for your efforts at your side.\nWe will give our best offer(prices, prioritized R&D and leadtime) after evaluation.\nThank you.\n[页眉页脚]\ns.sagatelecom@gmail.com\nSaga Telecom\nwww.sagatelecom.com.cn\nConnecting, Converting, Creating",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Acl, Sflow, https and sftp"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Acl and sflow are OK."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Https will be realized by another Marvell chip function as we discussed before."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Now we need to focus on Sftp."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"About one month ago, we first talked about this function."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Here you mentioned image upgrading and security."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The ready solution is FTP."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"FTP is about directly transmitting source files, not very secure as Sftp."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"While Sftp first encrypts local data and transmit it, more secure."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"According to our engineers, Sftp involves some points."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Configuration import, export"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"syslog export"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"version upgrade"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Some other possible functions"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We need to understand EXACTLY your application scenarios to know the workload of R&D."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It would be best if you have some references like below"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A specific model with Sftp from any brand"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Some projects you did before"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Any information that helps"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Then we will evaluate the R&D workload and leadtime."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"FYI, I would like you to see this"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is from our technical group."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It means the software requirements we receive but not done yet."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"As I said before, if this order is CONFIRMED and a deposit is done, it will be easier to prioritize Sftp."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"That is why we need to know the exact applications of Sftp."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"And thanks for your efforts at your side."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We will give our best offer(prices, prioritized R&D and leadtime) after evaluation."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Thank you."
+}
+],
+"extracted_at":"2026-10-22T07:41:13Z"
+}

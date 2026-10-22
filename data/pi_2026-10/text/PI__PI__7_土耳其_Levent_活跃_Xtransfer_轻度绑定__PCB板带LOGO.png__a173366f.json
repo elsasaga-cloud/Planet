@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__PCB板带LOGO.png__a173366f",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/PCB板带LOGO.png",
+"name":"PCB板带LOGO.png",
+"ext":".png",
+"bytes":789861,
+"sha256":"a173366f32e7a46ea0a184895ef9aa1836a313cbeef15d314632009e7d4175b9",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1350,
+"height":906,
+"mode":"RGB",
+"thumb_bytes":11343
+},
+"warnings":[],
+"chars":86,
+"text":"Junipe “_ £4500 §\neee 5\nil it 叫 HI\n99zz9zzlz02 引\n@\nPUNE) 1/0100 ir\nSYYOMLIAN\n© Yedlunr",
+"extracted_at":"2026-10-22T07:36:57Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__PCB板带LOGO.png__a173366f.jpg"
+}

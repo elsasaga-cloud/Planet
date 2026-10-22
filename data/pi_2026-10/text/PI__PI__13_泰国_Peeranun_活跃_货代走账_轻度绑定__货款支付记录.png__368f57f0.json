@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__货款支付记录.png__368f57f0",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/货款支付记录.png",
+"name":"货款支付记录.png",
+"ext":".png",
+"bytes":97122,
+"sha256":"368f57f02b487aa3221bd79950e66005ab3f60a07400c6b06f8b6db015014de2",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":5691
+},
+"warnings":[],
+"chars":201,
+"text":"10:19 了 HS\n< 转账 记录 查询 =\n转 给 罗 辉\n- ¥ 2,884.00\n收 款 账户 6214 3913 3000 0617 588\n收 款 银行 东莞 银行\n付款 账户 6214 **** **** 1962\n转账 附 言 转账\n转账 渠道 手机 银行\n转账 方式 电子 银行 转账\n© 转账 完成 进度 查询\n2026-07-23 10:19:36\n查看 和 TA 的 转账 记录",
+"extracted_at":"2026-10-22T07:51:21Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__货款支付记录.png__368f57f0.jpg"
+}

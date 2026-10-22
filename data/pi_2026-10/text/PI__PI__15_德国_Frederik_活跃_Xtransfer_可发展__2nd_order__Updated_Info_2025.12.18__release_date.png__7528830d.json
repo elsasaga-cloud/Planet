@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__Updated_Info_2025.12.18__release_date.png__7528830d",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/2nd order/Updated Info_2025.12.18/release date.png",
+"name":"release date.png",
+"ext":".png",
+"bytes":32441,
+"sha256":"7528830de2b628e6ba7f5f84814d216cb03256ee3415d1f610923ed36ddc3463",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1167,
+"height":683,
+"mode":"RGB",
+"thumb_bytes":4210
+},
+"warnings":[],
+"chars":412,
+"text":"Basic Information\nImage Management\nRoot ”ae\nLog: em\nConfig: «\nClean: 器\nConfiguration Management Certificate Management Page Package Management\nImages:\nName Version\nactive hotfix/7.4.7 (r1540 af525c9) 2025-12-11 17:09:22\nstandby —_hotfix/7.4.7 (r1539 8f5d005) 2025-11-27 00:26:56\nUpgrade:\n+\nClick or drag file to this area to upload\n163260/210780 KBytes\n3976/48624 KBytes\n64/11924 KBytes\nData Management\nAction\nwr",
+"extracted_at":"2026-10-22T07:34:08Z",
+"thumb":"thumbs/PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__Updated_Info_2025.12.18__release_date.png__7528830d.jpg"
+}

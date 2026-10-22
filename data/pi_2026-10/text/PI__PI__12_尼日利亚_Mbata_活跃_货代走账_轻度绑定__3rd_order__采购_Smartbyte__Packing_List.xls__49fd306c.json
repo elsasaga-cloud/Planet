@@ -1,0 +1,109 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__3rd_order__采购_Smartbyte__Packing_List.xls__49fd306c",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/3rd order/采购_Smartbyte/Packing List.xls",
+"name":"Packing List.xls",
+"ext":".xls",
+"bytes":26112,
+"sha256":"49fd306c838800dc86a526149912bdafaf39ae71206826ec1afe1a668cf2dbfd",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Sheet1",
+"Sheet2",
+"Sheet3"
+],
+"rows_total":16
+},
+"warnings":[],
+"chars":661,
+"text":"--- Sheet: Sheet1 ---\nPACKING  LIST\nINVOICE NO.:\nConsigner:郑州仨戛通讯器材有限公司\nAdd: 316, 22nd Floor, Building 57, Futian Sun City, Zhongzhou Avenue, Shanghai Road, Guancheng District, Zhengzhou City\nTel:  86 15237149683\nAttn: Simon\nConsignee:\nAdd:\nTel:\nAttn:\nGOODS DELIVER TO:\nCarton No.\tItem\tDescription\tQTY\n(pcs)\tN/W\n(kg)\tG/W\n(kg)\tDimension(CBM)\n#1\tBNSC-424DGGPM\tEthernet Switch with 24*10/100/1000M RJ45 PoE + 4*1G/2.5G SEP\t5\t17.2\t18.2\t53.5*49.5*30.5=0.08CBM\n#2\tBNSC-424DGGPM\tEthernet Switch with 24*10/100/1000M RJ45 PoE + 4*1G/2.5G SEP\t1\t3.4\t4.4\t53.5*20.5*30=0.03CBM\nTOTAL\t\t2 Cartons\t6\t20.6\t22.6\t0.11CBM\n\t\tSign & Stamp:\n--- Sheet: Sheet2 ---\n--- Sheet: Sheet3 ---",
+"sheets":{
+"Sheet1":{
+"rows":[
+[
+"PACKING  LIST"
+],
+[
+"INVOICE NO.:"
+],
+[
+"Consigner:郑州仨戛通讯器材有限公司"
+],
+[
+"Add: 316, 22nd Floor, Building 57, Futian Sun City, Zhongzhou Avenue, Shanghai Road, Guancheng District, Zhengzhou City"
+],
+[
+"Tel:  86 15237149683"
+],
+[
+"Attn: Simon"
+],
+[
+"Consignee:"
+],
+[
+"Add:"
+],
+[
+"Tel:"
+],
+[
+"Attn:"
+],
+[
+"GOODS DELIVER TO:"
+],
+[
+"Carton No.",
+"Item",
+"Description",
+"QTY\n(pcs)",
+"N/W\n(kg)",
+"G/W\n(kg)",
+"Dimension(CBM)"
+],
+[
+"#1",
+"BNSC-424DGGPM",
+"Ethernet Switch with 24*10/100/1000M RJ45 PoE + 4*1G/2.5G SEP",
+"5",
+"17.2",
+"18.2",
+"53.5*49.5*30.5=0.08CBM"
+],
+[
+"#2",
+"BNSC-424DGGPM",
+"Ethernet Switch with 24*10/100/1000M RJ45 PoE + 4*1G/2.5G SEP",
+"1",
+"3.4",
+"4.4",
+"53.5*20.5*30=0.03CBM"
+],
+[
+"TOTAL",
+"",
+"2 Cartons",
+"6",
+"20.6",
+"22.6",
+"0.11CBM"
+],
+[
+"",
+"",
+"Sign & Stamp:"
+]
+]
+},
+"Sheet2":{
+"rows":[]
+},
+"Sheet3":{
+"rows":[]
+}
+},
+"extracted_at":"2026-10-22T08:03:48Z"
+}

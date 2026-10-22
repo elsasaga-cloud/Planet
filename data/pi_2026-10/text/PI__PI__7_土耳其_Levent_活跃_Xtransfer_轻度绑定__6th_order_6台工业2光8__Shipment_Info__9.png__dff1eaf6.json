@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__6th_order_6台工业2光8__Shipment_Info__9.png__dff1eaf6",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/6th order 6台工业2光8/Shipment Info/9.png",
+"name":"9.png",
+"ext":".png",
+"bytes":150804,
+"sha256":"dff1eaf6775c15d2aff344df47fe45b4a19d193c10265e98da56a1837efedc26",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1680,
+"height":1050,
+"mode":"RGBA",
+"thumb_bytes":8730
+},
+"warnings":[],
+"chars":655,
+"text":"& Overview - Switch x 十 v 一 x\n< ca O 台 不 安全 192.168.56.166/#/monitor/dashboard mY ose\nOct Mash Oxzen OFERE ”人 @@ 京东 商城 ”人 mERT\nTank teleost Monitor a ne 2 sami\nBE Monitor . a ov\nOverview\nSystem Information CPU Memory\nProduct ID : TT-2208-PG\nProduct SN : 25052208C0103\n46.62%\nMAC Address : 98-06-37-AS-00-13\n96.02%\nHardware Version : V1.0\nSoftware Version : hotfix/7.3.2 (r1275 382d3e1) 2025-01-21 16:16:10\nUptime : 00:01\nA) selected (T] AG Port PT rank Pot PT] 3 Por GE] ue (shutdown ffl erordown (7) copper 品 as\n8 6 4 2\n10 9 7 5 3 1\n》Configuration\nTraffic。 digabitEthemet0/8 Kbps\n~O- Ix Traffic Rx Traffic\nKbps\n1,500\nZ A 15:18\n圖 全 嗎 和 质 明 及 目 區\n2025/6/24",
+"extracted_at":"2026-10-22T07:38:04Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__6th_order_6台工业2光8__Shipment_Info__9.png__dff1eaf6.jpg"
+}

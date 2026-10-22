@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__3_赞比亚_Pythias_gg__银行报文.jpg__c09b039e",
+"path":"PI/PI/3  赞比亚 Pythias gg/银行报文.jpg",
+"name":"银行报文.jpg",
+"ext":".jpg",
+"bytes":475342,
+"sha256":"c09b039eb15240e2c690efe931761a3ff7d0c22d465504d8b59e28508c1a3038",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1080,
+"height":1920,
+"mode":"RGB",
+"thumb_bytes":8523
+},
+"warnings":[],
+"chars":297,
+"text":"2-01030841240123FIRNZMLXAXXX57741004142401231441N}\n'3:{108: NSWIFT0007897059}{121:9daed42e-9928-4ca6-S2 1-OadcOdeb8s7f}\nics\n0:FNB0378786508204\nt23B:CRED\n32A:240123USD9350,0\n33B:USD9350,0\n50K/62806258233\nOBMAC SYSTEMS\nPLOT E2 VITANDA STREET TOWN CENTRE\n| OWN CENTER NDOLA MAIN COPPERBELT P\nA-FIRNZA",
+"extracted_at":"2026-10-22T07:48:09Z",
+"thumb":"thumbs/PI__PI__3_赞比亚_Pythias_gg__银行报文.jpg__c09b039e.jpg"
+}

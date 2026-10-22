@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__3_赞比亚_Pythias_gg__采购_Smartbyte__出货图__1.jpg__cf9ca5df",
+"path":"PI/PI/3  赞比亚 Pythias gg/采购_Smartbyte/出货图/1.jpg",
+"name":"1.jpg",
+"ext":".jpg",
+"bytes":156201,
+"sha256":"cf9ca5df1ec849c9c953c036a3f17e04952d1fbe6633c80639e582c1c2de0caf",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1706,
+"height":1279,
+"mode":"RGB",
+"thumb_bytes":9059
+},
+"warnings":[],
+"chars":134,
+"text":"ged Industrial PoE Switch\n1-244GP\n4*10/100/1000M RJ45 PoE + 2*1G SFP\nPower Input: DC 44-57V CE FE\nIM %) #\n: 202402180011\nMade in China",
+"extracted_at":"2026-10-22T07:48:33Z",
+"thumb":"thumbs/PI__PI__3_赞比亚_Pythias_gg__采购_Smartbyte__出货图__1.jpg__cf9ca5df.jpg"
+}

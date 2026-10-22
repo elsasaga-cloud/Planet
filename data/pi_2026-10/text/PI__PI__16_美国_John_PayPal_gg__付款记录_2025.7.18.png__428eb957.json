@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__16_美国_John_PayPal_gg__付款记录_2025.7.18.png__428eb957",
+"path":"PI/PI/16 美国 John PayPal gg/付款记录_2025.7.18.png",
+"name":"付款记录_2025.7.18.png",
+"ext":".png",
+"bytes":57311,
+"sha256":"428eb957dad6f45fc60634a655516178850cf7db13d5b022281eb9fec1177092",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1094,
+"height":674,
+"mode":"RGBA",
+"thumb_bytes":9201
+},
+"warnings":[],
+"chars":203,
+"text":"52networks 给 您 发 送 了\n交易 详情\n交易 号\n47722708M4080963U\n已 收 金 额\n52networks 的 留言\n$285.00 USD\n交易 日 期\n2025 年 7 月 18 日\n$285.00 USD\nCost for samples(2*switches and 2*power supplie\nOrder reference: STSC2025071 ki6 )",
+"extracted_at":"2026-10-22T07:29:13Z",
+"thumb":"thumbs/PI__PI__16_美国_John_PayPal_gg__付款记录_2025.7.18.png__428eb957.jpg"
+}

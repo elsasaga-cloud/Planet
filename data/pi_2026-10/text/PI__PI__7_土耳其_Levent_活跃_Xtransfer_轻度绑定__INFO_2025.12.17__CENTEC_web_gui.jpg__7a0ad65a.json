@@ -1,0 +1,25 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__INFO_2025.12.17__CENTEC_web_gui.jpg__7a0ad65a",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/INFO_2025.12.17/CENTEC web gui.jpg",
+"name":"CENTEC web gui.jpg",
+"ext":".jpg",
+"bytes":548089,
+"sha256":"7a0ad65a72780e59197edc1397f2eb221c66d0475a50563e85b11b794e3368b5",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":2048,
+"height":1150,
+"mode":"RGB",
+"datetime":"2024:11:20 21:13:50",
+"software":"Adobe Photoshop CS6 (Windows)",
+"thumb_bytes":6549
+},
+"warnings":[],
+"chars":783,
+"text":"Monitor B save A admin © Logout\n£3 Monitor Device Information a\nProduct ID: Software : Hardware Version: 11 Uptime: O days, 6 hours, 42 minutes\na Location : 7 Image Name : ulmage.s1023a.e680d EPlDversion: 02 os Customer Model Name\n= Maintenance\nWebimage Name : Serial Number: Contact : ~ BootRom Version: v1.0.2\n® Network MAC Address: D8:5B:22:00:02:02\nInterface Panel\nmi Active 圖 Inactive 圖 Shutdown\n1A v2 SAv4 SK¥6 TAYE 9AVIO S1AVI2 DAVE 1SAVI6 S7AVIE 194.920 21422 234.924\n254 ¥26 DAVIS MAYO WAVS WAV AVIS WAV AVA MAYA? AVM 15 7A VAE\nWs Copper MMM Filber MB 40/100Gb\nUsage Temperature Fan 圖 OK 圖 Failed\nCPU Usage 7.53% °C %\n— 60 40\n50\nto 30\n30 oo\nMemory Usage 36.94% 加\n10 10\n°\nARouNp SWITCH 9\n“Gao SCHIP 1 12 13 14\nAuto refresh Manual ~ © Refresh\nCopyright ©. All Rights Reserved.",
+"extracted_at":"2026-10-22T07:43:51Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__INFO_2025.12.17__CENTEC_web_gui.jpg__7a0ad65a.jpg"
+}

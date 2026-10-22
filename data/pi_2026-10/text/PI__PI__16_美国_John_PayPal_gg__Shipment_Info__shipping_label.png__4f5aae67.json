@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__16_美国_John_PayPal_gg__Shipment_Info__shipping_label.png__4f5aae67",
+"path":"PI/PI/16 美国 John PayPal gg/Shipment Info/shipping label.png",
+"name":"shipping label.png",
+"ext":".png",
+"bytes":20019,
+"sha256":"4f5aae671319c7727092d1be9e3f5cedbbc90ee8068515b1d3995795928fba87",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":550,
+"height":532,
+"mode":"RGBA",
+"thumb_bytes":12901
+},
+"warnings":[],
+"chars":168,
+"text":"Product name: Industrial Switch\nModel: STI-288GP\nQty.: 2 PCS Ill Wa\nSN:\nFROM: _ [III ING\n202507180001\nTO: UUUIOQ TV AMAUY0 0 A\n202507180002\nWeight: 3 KG\nCarton No.: 1/1",
+"extracted_at":"2026-10-22T07:29:36Z",
+"thumb":"thumbs/PI__PI__16_美国_John_PayPal_gg__Shipment_Info__shipping_label.png__4f5aae67.jpg"
+}

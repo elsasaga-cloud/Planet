@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__14_印度_Manoj_可发展__出货__9.png__2eb1acee",
+"path":"PI/PI/14 印度 Manoj 可发展/出货/9.png",
+"name":"9.png",
+"ext":".png",
+"bytes":25824,
+"sha256":"2eb1aceed3fe3b3ed8db18c2e63fd9fa313ae0f6ca6018e22dd7247d0bff9371",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":805,
+"height":770,
+"mode":"RGB",
+"thumb_bytes":14128
+},
+"warnings":[],
+"chars":103,
+"text":"Qty.: 3 PCS mane\nFROM: Am\nSTS-16UM-202503234\nTO: TUL\nSTS-16UM-202503236\nWeight: 4.3 KG\nCarton No.: 1 /1",
+"extracted_at":"2026-10-22T07:35:53Z",
+"thumb":"thumbs/PI__PI__14_印度_Manoj_可发展__出货__9.png__2eb1acee.jpg"
+}

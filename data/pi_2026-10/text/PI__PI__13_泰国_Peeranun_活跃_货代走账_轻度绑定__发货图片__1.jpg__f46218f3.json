@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__发货图片__1.jpg__f46218f3",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/发货图片/1.jpg",
+"name":"1.jpg",
+"ext":".jpg",
+"bytes":2761383,
+"sha256":"f46218f35f39badeb5450009b40b0e6fccb48c9023663256673cee0bb43b7443",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1762,
+"height":2069,
+"mode":"RGB",
+"thumb_bytes":17190
+},
+"warnings":[],
+"chars":122,
+"text":"4\nSerum\nIndustrial Switch\nModel: STI-21616GP\nPorts: 16*10/100/10\nSPOEEE\n1 RJ4\nPower input: DC 44-57V\nll\n2607200001\n0\nSN: 2",
+"extracted_at":"2026-10-22T07:53:24Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__发货图片__1.jpg__f46218f3.jpg"
+}

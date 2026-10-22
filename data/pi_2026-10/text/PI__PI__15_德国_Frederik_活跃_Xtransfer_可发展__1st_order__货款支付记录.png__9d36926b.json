@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__1st_order__货款支付记录.png__9d36926b",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/1st order/货款支付记录.png",
+"name":"货款支付记录.png",
+"ext":".png",
+"bytes":96350,
+"sha256":"9d36926b1e7ed8a2786a9ca7ff3fd307ec370ef5fa7adbe611e2a0d9bfba3ff0",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":5926
+},
+"warnings":[],
+"chars":225,
+"text":"5:37 a >\n< 轉 賬 記 錄 查 詢 Oo ©\n轉 給 羅 泛\n- 羊 1,245.00\n收 款 账 户 6214 3913 3000 0617 588\n收 款 银行 东莞 银行\n付款 賬戶 6214********+1962\n转账 附 言 转账\n转账 渠道 手机 银行\n转账 方式 电子 银行 转账\n@ 转账 完成 进度 查询\n2024-12-27 17:37:20\n通知 收 款 人\n查看 和 TA 的 转账 记录\n再 转 一 笔\nTAA",
+"extracted_at":"2026-10-22T07:34:20Z",
+"thumb":"thumbs/PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__1st_order__货款支付记录.png__9d36926b.jpg"
+}

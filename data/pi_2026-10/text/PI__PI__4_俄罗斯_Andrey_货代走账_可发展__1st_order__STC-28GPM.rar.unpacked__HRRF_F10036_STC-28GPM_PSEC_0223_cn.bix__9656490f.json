@@ -1,0 +1,18 @@
+{
+"id":"PI__PI__4_俄罗斯_Andrey_货代走账_可发展__1st_order__STC-28GPM.rar.unpacked__HRRF_F10036_STC-28GPM_PSEC_0223_cn.bix__9656490f",
+"path":"PI/PI/4 俄罗斯 Andrey 货代走账 可发展/1st order/STC-28GPM.rar.unpacked/HRRF_F10036_STC-28GPM_PSEC_0223_cn.bix",
+"name":"HRRF_F10036_STC-28GPM_PSEC_0223_cn.bix",
+"ext":".bix",
+"bytes":8106504,
+"sha256":"9656490ff68dfcef1cad99b35b02df27a6486d57223e2807918414c902a47aca",
+"source":"PI.zip",
+"method":"none",
+"status":"meta",
+"meta":{},
+"warnings":[
+"no extractor for .bix"
+],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:46:39Z"
+}

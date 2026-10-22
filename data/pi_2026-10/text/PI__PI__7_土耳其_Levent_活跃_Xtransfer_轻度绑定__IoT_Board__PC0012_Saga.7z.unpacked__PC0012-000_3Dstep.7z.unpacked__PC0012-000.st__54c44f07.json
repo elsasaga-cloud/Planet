@@ -1,0 +1,18 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__IoT_Board__PC0012_Saga.7z.unpacked__PC0012-000_3Dstep.7z.unpacked__PC0012-000.st__54c44f07",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/IoT Board/PC0012_Saga.7z.unpacked/PC0012-000_3Dstep.7z.unpacked/PC0012-000.step",
+"name":"PC0012-000.step",
+"ext":".step",
+"bytes":89837796,
+"sha256":"54c44f0775f5a1388986416340cbe3cecf7be2c10e8734670c33f1ee258dc47c",
+"source":"PI.zip",
+"method":"none",
+"status":"meta",
+"meta":{},
+"warnings":[
+"no extractor for .step"
+],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:43:33Z"
+}

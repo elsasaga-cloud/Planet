@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__2nd_order__MC10G.jpg__0277a028",
+"path":"PI/PI/6 美国 Thu 可发展/2nd order/MC10G.jpg",
+"name":"MC10G.jpg",
+"ext":".jpg",
+"bytes":36145,
+"sha256":"0277a02896877ae85edafa688005f6ffb6af71cd72a2afc7c793564704a5c196",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":705,
+"height":473,
+"mode":"RGBA",
+"thumb_bytes":14861
+},
+"warnings":[],
+"chars":163,
+"text":"10G Ethernet Media Converter\nModel: MC10G\nPorts: 1*10G SFP + 1*100M/1G/2.5G/5G/10G Ethernet\nPower Input: DCSV or powered in MC1400\nC€ FE\nLOCOMIA oe\nSN: 20241120001",
+"extracted_at":"2026-10-22T07:32:38Z",
+"thumb":"thumbs/PI__PI__6_美国_Thu_可发展__2nd_order__MC10G.jpg__0277a028.jpg"
+}

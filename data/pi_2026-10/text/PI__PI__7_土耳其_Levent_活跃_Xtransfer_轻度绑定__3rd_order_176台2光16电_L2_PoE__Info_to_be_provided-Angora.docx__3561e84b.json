@@ -1,0 +1,207 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__3rd_order_176台2光16电_L2_PoE__Info_to_be_provided-Angora.docx__3561e84b",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/3rd order 176台2光16电 L2 PoE/Info to be provided-Angora.docx",
+"name":"Info to be provided-Angora.docx",
+"ext":".docx",
+"bytes":2978882,
+"sha256":"3561e84b6f07f68b3aec23f4d4eb792f1cda88bfbd0673d8469680bf00ffa90d",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Angora Networks",
+"created":"2025-01-16T09:39:00+00:00",
+"modified":"2025-01-16T11:31:00+00:00",
+"paragraphs":36,
+"tables":0,
+"embedded_images":5
+},
+"warnings":[],
+"chars":1866,
+"text":"Switch\nLogo: do we use previous logo?\nYes we ll use previous Angora Logo\nSerial number: its your info in last order(please see below photos)\nSerial number format would be : 25012116XXX03 where xxx will be unique for each device from 001 to 176\nModel would be ANW-2116-PG\nMAC list:\nYou can use following\n98:06:37:A1:00:00. to 98:06:37:A4:FF:FF\nLabel: this is from last order(8 port industrial switch)\nBelow label is OK, with corrected product code\nWeb GUI: this is from last order(8 port industrial switch)\nIts your product SN, its EXACTLY shown in the label as you can see from above photo\nWeb Gui is OK with updated product number\nPower Supply\nPlease let me know your design\nFront\nColor would be orange if possible\nYou can use Angora Logo\nModel Name is ANW-PWR-48-240\nAbove info is the typical design, just for your info\nPlease remove the Made in China port. Other informations are ok, you can keep them\nPacking Box\nOne switch and one power supply\nThere will be a console cable, a pair of device, a user manual and a mounting hanger.\nAll good\nFor the inside, we will make it good for above content\nNow its about the outside.\nDo you need some kind of design or make it neutral?\nSuggestion: neutral\nBecause this packing box is also for different models(8 port and 16 port)\nMaybe its for different clients or projects.\nSafe if we make it neutral.\nWould be good if we can only print the logo on the box. If not neutral is better.\nThe design is about putting some client info on the outside, please see below example\nJust Angora Logo is enough. No other info needed\n[页眉页脚]\n2025/Q1\t                                                                                                                       s.sagatelecom@gmail.com\n\t\t\t\t\t\t\t                                                                       Saga Telecom\nwww.sagatelecom.com.cn\nConnecting, Converting, Creating",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Logo: do we use previous logo?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Yes we ll use previous Angora Logo"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Serial number: its your info in last order(please see below photos)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Serial number format would be : 25012116XXX03 where xxx will be unique for each device from 001 to 176"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Model would be ANW-2116-PG"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MAC list:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"You can use following"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"98:06:37:A1:00:00. to 98:06:37:A4:FF:FF"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Label: this is from last order(8 port industrial switch)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Below label is OK, with corrected product code"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Web GUI: this is from last order(8 port industrial switch)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Its your product SN, its EXACTLY shown in the label as you can see from above photo"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Web Gui is OK with updated product number"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Power Supply"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please let me know your design"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Front"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Color would be orange if possible"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"You can use Angora Logo"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Model Name is ANW-PWR-48-240"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Above info is the typical design, just for your info"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please remove the Made in China port. Other informations are ok, you can keep them"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Packing Box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"One switch and one power supply"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"There will be a console cable, a pair of device, a user manual and a mounting hanger."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"All good"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For the inside, we will make it good for above content"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Now its about the outside."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Do you need some kind of design or make it neutral?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Suggestion: neutral"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Because this packing box is also for different models(8 port and 16 port)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Maybe its for different clients or projects."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Safe if we make it neutral."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Would be good if we can only print the logo on the box. If not neutral is better."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The design is about putting some client info on the outside, please see below example"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Just Angora Logo is enough. No other info needed"
+}
+],
+"extracted_at":"2026-10-22T07:39:58Z"
+}

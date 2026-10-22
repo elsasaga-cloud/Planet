@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__4_俄罗斯_Andrey_货代走账_可发展__2nd_order__采购_Smartbyte__2.jpg__f3c95eab",
+"path":"PI/PI/4 俄罗斯 Andrey 货代走账 可发展/2nd order/采购_Smartbyte/2.jpg",
+"name":"2.jpg",
+"ext":".jpg",
+"bytes":680247,
+"sha256":"f3c95eab5c78672c61916b2913d324d49165fd8b5b6cf2aa69bd96deb14e7295",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1920,
+"height":1080,
+"mode":"RGB",
+"thumb_bytes":7691
+},
+"warnings":[],
+"chars":45,
+"text":"Non-PoE: DC12-58V; PoE: DC44-57V 115200,8,N,1",
+"extracted_at":"2026-10-22T07:46:08Z",
+"thumb":"thumbs/PI__PI__4_俄罗斯_Andrey_货代走账_可发展__2nd_order__采购_Smartbyte__2.jpg__f3c95eab.jpg"
+}

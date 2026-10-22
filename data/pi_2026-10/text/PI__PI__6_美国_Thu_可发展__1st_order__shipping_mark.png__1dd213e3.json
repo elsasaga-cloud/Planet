@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__1st_order__shipping_mark.png__1dd213e3",
+"path":"PI/PI/6 美国 Thu 可发展/1st order/shipping mark.png",
+"name":"shipping mark.png",
+"ext":".png",
+"bytes":19252,
+"sha256":"1dd213e3fb5efd569d186876be8339ddf23a2230ecd08d02e2162f8d322e3c96",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":421,
+"height":421,
+"mode":"RGBA",
+"thumb_bytes":16225
+},
+"warnings":[],
+"chars":125,
+"text":"Product name: Commercial Switch\nModel: EN2440\nQty.: 1 PCS ve\nsN: |\n202404230001\nWeight: 1.6KG\nCarton No.: 1 / 1\nMade in China",
+"extracted_at":"2026-10-22T07:33:18Z",
+"thumb":"thumbs/PI__PI__6_美国_Thu_可发展__1st_order__shipping_mark.png__1dd213e3.jpg"
+}

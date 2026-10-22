@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__19_马来西亚_Raja_可发展__发货图片__STI-21616GPM__12853bd4cc3c40e9d9557aec03e8f301.jpg__2ef2b3c0",
+"path":"PI/PI/19 马来西亚 Raja 可发展/发货图片/STI-21616GPM/12853bd4cc3c40e9d9557aec03e8f301.jpg",
+"name":"12853bd4cc3c40e9d9557aec03e8f301.jpg",
+"ext":".jpg",
+"bytes":862334,
+"sha256":"2ef2b3c0a4a8771247dcfbfdfd00bb651bdfdb65431093bb718cbf6bf940ec85",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1282,
+"height":1279,
+"mode":"RGB",
+"thumb_bytes":16817
+},
+"warnings":[],
+"chars":147,
+"text":"Many thanks;\nPlease read 1\n1*User Mat\nApplicatil\ncopper\n@ Anyle\n@ IP co.aectivity\n@ CCTV system such as network camera, access control\nKey Features",
+"extracted_at":"2026-10-22T07:49:45Z",
+"thumb":"thumbs/PI__PI__19_马来西亚_Raja_可发展__发货图片__STI-21616GPM__12853bd4cc3c40e9d9557aec03e8f301.jpg__2ef2b3c0.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__3rd_order__采购_Smartbyte__发货图片__2.jpg__b92a4329",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/3rd order/采购_Smartbyte/发货图片/2.jpg",
+"name":"2.jpg",
+"ext":".jpg",
+"bytes":590982,
+"sha256":"b92a4329d50ea7cb632795ae6303b63c22fc0914f09a2694b349defa443e250e",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":1920,
+"height":1080,
+"mode":"RGB",
+"thumb_bytes":6555
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T08:04:02Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__3rd_order__采购_Smartbyte__发货图片__2.jpg__b92a4329.jpg"
+}

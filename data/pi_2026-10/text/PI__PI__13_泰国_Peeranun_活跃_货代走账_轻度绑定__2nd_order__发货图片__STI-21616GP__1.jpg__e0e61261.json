@@ -1,0 +1,24 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__STI-21616GP__1.jpg__e0e61261",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/2nd order/发货图片/STI-21616GP/1.jpg",
+"name":"1.jpg",
+"ext":".jpg",
+"bytes":4673325,
+"sha256":"e0e612612bde7d0997c33fe803f218e831f8721a21d75acf0f2b4b976efc7393",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":4624,
+"height":3468,
+"mode":"RGB",
+"software":"MediaTek Camera Application\u0000\u0000\u0000\u0000",
+"thumb_bytes":9917
+},
+"warnings":[],
+"chars":147,
+"text":"See the product label for more details)\nnger (Shared mounting holes with DIN Rail Kit)\nmixture of copper and fiber\nKey Features\nC/ST\npu DC12V~DCsgy",
+"extracted_at":"2026-10-22T07:52:20Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__STI-21616GP__1.jpg__e0e61261.jpg"
+}

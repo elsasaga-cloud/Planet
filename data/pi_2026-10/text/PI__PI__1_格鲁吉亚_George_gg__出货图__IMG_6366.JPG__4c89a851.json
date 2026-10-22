@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__1_格鲁吉亚_George_gg__出货图__IMG_6366.JPG__4c89a851",
+"path":"PI/PI/1 格鲁吉亚 George gg/出货图/IMG_6366.JPG",
+"name":"IMG_6366.JPG",
+"ext":".jpg",
+"bytes":1323988,
+"sha256":"4c89a8510bd4db692e1823faff6bdcdfd0359074e1d2171acf4e9b4e492b7cfd",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":3024,
+"height":4032,
+"mode":"RGB",
+"thumb_bytes":8255
+},
+"warnings":[],
+"chars":17,
+"text":"AC INPUT 100-240V",
+"extracted_at":"2026-10-22T07:28:36Z",
+"thumb":"thumbs/PI__PI__1_格鲁吉亚_George_gg__出货图__IMG_6366.JPG__4c89a851.jpg"
+}

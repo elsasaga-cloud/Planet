@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__1st_order__发货图片__4.jpg__41d75c89",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/1st order/发货图片/4.jpg",
+"name":"4.jpg",
+"ext":".jpg",
+"bytes":822070,
+"sha256":"41d75c8996c708869a0269d238d91a4dc38f5784ce2b65a6000b4383f083600c",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":1440,
+"height":1080,
+"mode":"RGB",
+"thumb_bytes":7518
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:55:31Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__1st_order__发货图片__4.jpg__41d75c89.jpg"
+}

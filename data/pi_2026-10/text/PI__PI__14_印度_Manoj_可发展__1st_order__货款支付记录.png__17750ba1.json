@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__14_印度_Manoj_可发展__1st_order__货款支付记录.png__17750ba1",
+"path":"PI/PI/14 印度 Manoj 可发展/1st order/货款支付记录.png",
+"name":"货款支付记录.png",
+"ext":".png",
+"bytes":96075,
+"sha256":"17750ba13a58862069c49d6518755851ba999a79f3fbec4910d4edb81deb7c90",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":5996
+},
+"warnings":[],
+"chars":217,
+"text":"9:01 al 全 |\n< 轉 賬 記 錄 查 詢 Oo ©\nASE\n-¥ 512.00\n收 款 账 户 6214 3913 3000 0617 588\n收 款 银行 东莞 银行\n付款 賬戶 6214********+1962\n转账 附 言 转账\n转账 渠道 手机 银行\n转账 方式 电子 银行 转账\n@ 转账 完成 进度 查询\n2024-11-11 09:01:20\n通知 收 款 人\n查看 和 TA 的 转账 记录\n再 转 一 笔",
+"extracted_at":"2026-10-22T07:36:32Z",
+"thumb":"thumbs/PI__PI__14_印度_Manoj_可发展__1st_order__货款支付记录.png__17750ba1.jpg"
+}

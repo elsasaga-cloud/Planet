@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__14_印度_Manoj_可发展__货款支付记录_2026.03.03.png__4efddfa2",
+"path":"PI/PI/14 印度 Manoj 可发展/货款支付记录_2026.03.03.png",
+"name":"货款支付记录_2026.03.03.png",
+"ext":".png",
+"bytes":133450,
+"sha256":"4efddfa2cb8b8a6c277ae88c2e4fd6065f2f640ec6b2c5a01f8afbd12ffaa51f",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":3467
+},
+"warnings":[],
+"chars":69,
+"text":"1:41 al 4G EZ\n@ Payment successful\n永 丽 (** 丽 )\nY1536.00\nSB zz, ave\nOK",
+"extracted_at":"2026-10-22T07:35:22Z",
+"thumb":"thumbs/PI__PI__14_印度_Manoj_可发展__货款支付记录_2026.03.03.png__4efddfa2.jpg"
+}

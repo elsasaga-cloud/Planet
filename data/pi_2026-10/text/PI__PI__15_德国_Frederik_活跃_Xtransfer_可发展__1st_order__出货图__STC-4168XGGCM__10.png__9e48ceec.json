@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__1st_order__出货图__STC-4168XGGCM__10.png__9e48ceec",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/1st order/出货图/STC-4168XGGCM/10.png",
+"name":"10.png",
+"ext":".png",
+"bytes":99129,
+"sha256":"9e48ceec45b28444103b811961e8b050eec63e7f93555f210ad8bcaf8dfaffe8",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1920,
+"height":1080,
+"mode":"RGBA",
+"thumb_bytes":3575
+},
+"warnings":[],
+"chars":119,
+"text":"回忆 Login - switch x | 十\n€ Cc O & 192.168.56.166/#/login?redirect=/monitor/dashboard\nManaged Ethernet Switch\nLogin Clear",
+"extracted_at":"2026-10-22T07:34:31Z",
+"thumb":"thumbs/PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__1st_order__出货图__STC-4168XGGCM__10.png__9e48ceec.jpg"
+}

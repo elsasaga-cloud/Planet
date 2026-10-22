@@ -1,0 +1,25 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__ANGORA_TICARET_SICIL_11_MART_2024_.pdf__a4cace55",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/ANGORA TICARET SICIL 11 MART 2024 .pdf",
+"name":"ANGORA TICARET SICIL 11 MART 2024 .pdf",
+"ext":".pdf",
+"bytes":39879,
+"sha256":"a4cace5519c9eb6c56222ce8a8e9216e206a58003ca37359caf3d9fa80089858",
+"source":"PI.zip",
+"method":"pdfplumber+OCR(0p)",
+"status":"meta",
+"meta":{
+"pages":1,
+"producer":"SetaPDF-Merger Component v2.32.0.1371 ©Setasign 2005-2024 (www.setasign.com)",
+"creationdate":"D:20240312102453+03'00'",
+"moddate":"D:20240521151717+08'00'",
+"ocr_pages":0
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"pages":[
+""
+],
+"extracted_at":"2026-10-22T07:39:51Z"
+}

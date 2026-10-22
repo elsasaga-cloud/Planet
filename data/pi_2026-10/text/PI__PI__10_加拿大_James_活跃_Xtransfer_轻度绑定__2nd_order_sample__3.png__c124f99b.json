@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__2nd_order_sample__3.png__c124f99b",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/2nd order sample/3.png",
+"name":"3.png",
+"ext":".png",
+"bytes":155756,
+"sha256":"c124f99b247dbcbf47f1719c0e8f98ed1895617c5fafb7a927a44262649df3a1",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1920,
+"height":1080,
+"mode":"RGBA",
+"thumb_bytes":7844
+},
+"warnings":[],
+"chars":726,
+"text":"x | 十 ~ 一 X\n€ Cc 0 & 192.168.1.30/#/monitor/dashboard ne\nMonitor 人 Monitor\n| veiw | o|v |e\nOverview\nSystem Information CPU Memory\nProduct ID : SW-3200-16GP-2SM.\nProduct SN : 20241225001\nMAC Address : FC-CD-2F-D0-45-93, 63.56%\n96.52%\nHardware Version : V1.1\nSoftware Version : hotfix/7.1.9 (1051 7b2213b) 2024-10-30 20:26:43\nUptime : 00:05\nQinQ Information\nTY selected [T] ac port PT] trunk Port PT] 13 Port (HEM up [LY shutdown lf ervor-down [J copper [5 Fiber\n18 16 14 12 10 @ 6 4 2\na\na tt)\n17 15 13 11 9 7 5 3 1\nTraffic jigabitEthemet0/2 Kbps » Fort Configuration\n-Or Te Traffic “O- Rx Traffic\nKbps\nOverview - Switch... [FB serial-com2-Sec.. Aj ean in.. A) reamanz i. (fh Megatops YaTFT. 工业 豚 产 品 面板 ME ° dx 四 eee\n2024/12/28",
+"extracted_at":"2026-10-22T07:56:49Z",
+"thumb":"thumbs/PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__2nd_order_sample__3.png__c124f99b.jpg"
+}

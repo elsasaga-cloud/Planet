@@ -1,0 +1,24 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__STI-42424DGGPM__5.jpg__8a1930d0",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/2nd order/发货图片/STI-42424DGGPM/5.jpg",
+"name":"5.jpg",
+"ext":".jpg",
+"bytes":5034621,
+"sha256":"8a1930d03353c4f277d5d80ab05ed567d8ce59aae163dd94ad323708b8c87613",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":4624,
+"height":3468,
+"mode":"RGB",
+"software":"MediaTek Camera Application\u0000\u0000\u0000\u0000",
+"thumb_bytes":9907
+},
+"warnings":[],
+"chars":422,
+"text":"@ The to the actual\npout general nforma\nroduct purchased.\n@ It is advised to keep the user manual roperly.\n» Jet us know for any usage problem or quer)\nor more details\ne the product i\nh holes with DIN Rail Kit)\n1*Wall H Sh\n*Cons\n*User Manual(Printed Copy)\nApplication\n@ Any network utilizing a mixture of copper\n@ IP connectivity and communication\n@ CCTV system such as network camera, access control\nKey Features\nECMP,\nVL",
+"extracted_at":"2026-10-22T07:53:15Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__STI-42424DGGPM__5.jpg__8a1930d0.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__发货图片__10.png__9692523a",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/发货图片/10.png",
+"name":"10.png",
+"ext":".png",
+"bytes":35941,
+"sha256":"9692523adef22abd687a25e5ea10e379eaea18bc685724aa21db62cbe8eae632",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":914,
+"height":461,
+"mode":"RGB",
+"thumb_bytes":10667
+},
+"warnings":[],
+"chars":137,
+"text":"Industrial Switch\nModel: STL21616GP\nPorts: 16*10/100/1000M RJ45 PoE + 2*1G SFP\nPower input: DC 44-57V\nSN: 202607200001\n4\nA vecruink\nCC fe",
+"extracted_at":"2026-10-22T07:53:20Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__发货图片__10.png__9692523a.jpg"
+}

@@ -1,0 +1,116 @@
+{
+"id":"PI__PI__16_美国_John_PayPal_gg__发票.xlsx__2993682d",
+"path":"PI/PI/16 美国 John PayPal gg/发票.xlsx",
+"name":"发票.xlsx",
+"ext":".xlsx",
+"bytes":17035,
+"sha256":"2993682d2bb93aea4ba0ef7f9dbaeb8710644e4d0e156c6ec4da1da1318fb7fe",
+"source":"PI.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"发票"
+],
+"embedded_images":0,
+"rows_total":9
+},
+"warnings":[],
+"chars":522,
+"text":"--- Sheet: 发票 ---\nCOMMERCIAL   INVOICE\nMESSRS\t52 Networks Inc.\t\t\t\t\tATT\t\tJohn Davis\nADD\t5142 Meeting pl woodbridge VA 22193 USA\t\t\t\t\tPOSTCODE\t\t22193\nTEL\t1 571 402 8369\t\t\t\t\tINVOICE NO.\t\tSTAG20250718016\nEORI：\t\t\tvat\t\tMode of transaction\nS/N\tItem Name\tHS\tMaterial\tuse\tQTY(pcs)\tUnit Price  (USD)\tAmount (USD)\tRemark\n1\tIndustrial Ethernet Switch\t8517622990\tMetal\tData exchange and optical telecommunication\t2\t58\t116\t不带电不带磁\n普货\n2\tIndustrial Power Supply\t8504401500\tMetal\tProvide current output\t2\t40\t80\t不带电不带磁\n普货\nTOTAL（合计）:\t\t\t\t\t\t\t196",
+"sheets":{
+"发票":{
+"state":"visible",
+"rows":[
+[
+"COMMERCIAL   INVOICE"
+],
+[
+"MESSRS",
+"52 Networks Inc.",
+"",
+"",
+"",
+"",
+"ATT",
+"",
+"John Davis"
+],
+[
+"ADD",
+"5142 Meeting pl woodbridge VA 22193 USA",
+"",
+"",
+"",
+"",
+"POSTCODE",
+"",
+"22193"
+],
+[
+"TEL",
+"1 571 402 8369",
+"",
+"",
+"",
+"",
+"INVOICE NO.",
+"",
+"STAG20250718016"
+],
+[
+"EORI：",
+"",
+"",
+"vat",
+"",
+"Mode of transaction"
+],
+[
+"S/N",
+"Item Name",
+"HS",
+"Material",
+"use",
+"QTY(pcs)",
+"Unit Price  (USD)",
+"Amount (USD)",
+"Remark"
+],
+[
+"1",
+"Industrial Ethernet Switch",
+"8517622990",
+"Metal",
+"Data exchange and optical telecommunication",
+"2",
+"58",
+"116",
+"不带电不带磁\n普货"
+],
+[
+"2",
+"Industrial Power Supply",
+"8504401500",
+"Metal",
+"Provide current output",
+"2",
+"40",
+"80",
+"不带电不带磁\n普货"
+],
+[
+"TOTAL（合计）:",
+"",
+"",
+"",
+"",
+"",
+"",
+"196"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:29:09Z"
+}

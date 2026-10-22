@@ -1,0 +1,27 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__ANGORA_LOGO2.ai__1b278797",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/ANGORA LOGO2.ai",
+"name":"ANGORA LOGO2.ai",
+"ext":".ai",
+"bytes":1131472,
+"sha256":"1b278797e0bf17e4bbf4205e06cfc06f2148eb5b4640437631b66f5c5a0167ac",
+"source":"PI.zip",
+"method":"ai-as-pdf→pdfplumber+OCR(0p)",
+"status":"meta",
+"meta":{
+"pages":1,
+"title":"ANGORA LOGO2",
+"creator":"Adobe Illustrator CS6 (Macintosh)",
+"producer":"Adobe PDF library 10.01",
+"creationdate":"D:20161220110027+03'00'",
+"moddate":"D:20161221093705+03'00'",
+"ocr_pages":0
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"pages":[
+""
+],
+"extracted_at":"2026-10-22T07:36:48Z"
+}

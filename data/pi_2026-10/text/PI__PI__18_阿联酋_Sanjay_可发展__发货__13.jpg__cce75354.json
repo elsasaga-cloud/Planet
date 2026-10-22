@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__18_阿联酋_Sanjay_可发展__发货__13.jpg__cce75354",
+"path":"PI/PI/18 阿联酋 Sanjay 可发展/发货/13.jpg",
+"name":"13.jpg",
+"ext":".jpg",
+"bytes":994442,
+"sha256":"cce753545c42862afd6de17d4a8ff4c0a4d7eeae469ae4aa0c18c4f293cfb1a8",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":3344,
+"height":1429,
+"mode":"RGB",
+"thumb_bytes":7974
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:58:38Z",
+"thumb":"thumbs/PI__PI__18_阿联酋_Sanjay_可发展__发货__13.jpg__cce75354.jpg"
+}

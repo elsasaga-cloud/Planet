@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__2nd_order__Vi-LinkLogo_MC1400.jpg__a5548f2d",
+"path":"PI/PI/6 美国 Thu 可发展/2nd order/Vi-LinkLogo MC1400.jpg",
+"name":"Vi-LinkLogo MC1400.jpg",
+"ext":".jpg",
+"bytes":284236,
+"sha256":"a5548f2dc01ff05264d1dfc96c9b2faf032729d2095e0e0e6196d5b8b2d1f7b4",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":3128,
+"height":1384,
+"mode":"RGB",
+"thumb_bytes":7314
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:32:56Z",
+"thumb":"thumbs/PI__PI__6_美国_Thu_可发展__2nd_order__Vi-LinkLogo_MC1400.jpg__a5548f2d.jpg"
+}

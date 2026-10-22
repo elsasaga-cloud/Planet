@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__4_俄罗斯_Andrey_货代走账_可发展__1st_order__售后问题_1.png__d22e0b45",
+"path":"PI/PI/4 俄罗斯 Andrey 货代走账 可发展/1st order/售后问题 1.png",
+"name":"售后问题 1.png",
+"ext":".png",
+"bytes":48726,
+"sha256":"d22e0b455fa43e94dfb2e3f7aafe30719a9d301f3e495c3836a17cccff8714c1",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":597,
+"height":220,
+"mode":"RGBA",
+"thumb_bytes":6602
+},
+"warnings":[],
+"chars":95,
+"text":"| need New firmware for managed switch , 2/11/2024\nOld one is not work correct with snmp 5.5 pM",
+"extracted_at":"2026-10-22T07:46:36Z",
+"thumb":"thumbs/PI__PI__4_俄罗斯_Andrey_货代走账_可发展__1st_order__售后问题_1.png__d22e0b45.jpg"
+}

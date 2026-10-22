@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__19_马来西亚_Raja_可发展__发货图片__STI-288GPM__30bb927e7325c9a33d0d412fe2fbe7e0.jpg__97cc6f87",
+"path":"PI/PI/19 马来西亚 Raja 可发展/发货图片/STI-288GPM/30bb927e7325c9a33d0d412fe2fbe7e0.jpg",
+"name":"30bb927e7325c9a33d0d412fe2fbe7e0.jpg",
+"ext":".jpg",
+"bytes":1051660,
+"sha256":"97cc6f875412ca7debb16f84e1f89109adcf4719f0bcb1321c73109aa54a1b05",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":1289,
+"height":1279,
+"mode":"RGB",
+"thumb_bytes":16606
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:50:10Z",
+"thumb":"thumbs/PI__PI__19_马来西亚_Raja_可发展__发货图片__STI-288GPM__30bb927e7325c9a33d0d412fe2fbe7e0.jpg__97cc6f87.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__tronx.png__f33557de",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/tronx.png",
+"name":"tronx.png",
+"ext":".png",
+"bytes":116370,
+"sha256":"f33557de5963e2ccadf8ea252b3b9c60c201e4a4b5d4acb951a91b7770b24274",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":2363,
+"height":2363,
+"mode":"RGBA",
+"thumb_bytes":2243
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:36:59Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__tronx.png__f33557de.jpg"
+}

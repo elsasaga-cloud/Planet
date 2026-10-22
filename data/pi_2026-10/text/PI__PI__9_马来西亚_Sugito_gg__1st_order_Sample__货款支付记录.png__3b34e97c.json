@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__9_马来西亚_Sugito_gg__1st_order_Sample__货款支付记录.png__3b34e97c",
+"path":"PI/PI/9 马来西亚 Sugito gg/1st order Sample/货款支付记录.png",
+"name":"货款支付记录.png",
+"ext":".png",
+"bytes":114313,
+"sha256":"3b34e97c4a1f89c98a75984ef363a66b9cde5b59b49833c2958f967b081b2748",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":3195
+},
+"warnings":[],
+"chars":75,
+"text":"5:52 了 al 全 &\nWeixin Pay\n¥500.00 paid\n海 思 视讯\nY500.00\n% 为 乡村 孩子 送 素 养 课\nDone",
+"extracted_at":"2026-10-22T07:30:32Z",
+"thumb":"thumbs/PI__PI__9_马来西亚_Sugito_gg__1st_order_Sample__货款支付记录.png__3b34e97c.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__发货图片__7.jpg__fa6bccae",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/发货图片/7.jpg",
+"name":"7.jpg",
+"ext":".jpg",
+"bytes":2076954,
+"sha256":"fa6bccae9e6c00eb4233466ba8516fc8174642d38ad24c318ed1fb0778c6e992",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":2783,
+"height":1844,
+"mode":"RGB",
+"thumb_bytes":11948
+},
+"warnings":[],
+"chars":2978,
+"text":"NETSTREAM\nMany thanks for your purchase.\nPlease read this user manual for safe and correct use.\n@ The information described in this manual is ONLY\nabout general information, please refer to the actual\nproduct purchased.\n@ It is advised to keep the user manual properly.\n@ Please let us know for any usage problem or query.\nPacking List\nSwitch (See the product label for more details)\nPower Cord (Standards vary across countries)\nConsole Cable (USB to RJ45 Connector)\nBrackets, Screws (Rack Mountable)\nUser Manual (Printed Copy)\nww\nApplication\n@ Any network utilizing a mixture of copper and fiber\n@ IP connectivity and communication\n@ CCTV system such as network camera, access control\nKey Features\nEco-friendly metal case, plug-and-play\nAC/DC power input, with internal AC-DC converter\nRich Led indicators for real-time Monitoring\nResilient to ESD, EMI, and power surges\nCompliant with industrial testing standard\nLayer 2/Layer 3 covering static and dynamic Touting, ARP,\nECMP, IPV4/IPV6, VRRP, RIP, OSPF, BGP4, JS_IS\nVLAN, STP/RSTP/MSTP, QoS, Ring, SNMP vlA2e/3.\nMAC address, IPV4/IPV6, Web/T ejnet/CLISSH, Standard\nMIB...\n7. Wide port combination(10/1 2/20/28/52)\n8. Rich speed choices 100M/1000M/2.5G/10G\ndistribution layer, and access layer applicatio\nAYWARYWN SE\nfor core layer,\nns\nLED Indicator\nP: Power, Green Color\nOn: power status is normal\nOff: power off or Power connection failure\nS: System indicator, Green Color\nOn: Normal operation\nOff: Connection failure\nBlinking: Device initialization\nCopper Status, Green Color\nOn: port link up\nBlinking: data is in normal transmission\nOff: port link down\nCopper Speed, Yellow Color\n@ PoE Models\nOn: PoE working; Off: PoE not working\n@ Non-PoE Models\nOn: port speed is 1000M\nOff: port speed is 10/100M.\nFiber port, Green Color\nOn: port link up\nOff: port link down :\nBlinking: data is in normal transmission\nReset Button\nRestore factory settings, long press > 8 seconds\nMechanical Drawing (Reference Only)\n經 we 二\nme\nLogin Interface\nIP address login\n1. Open browser and enter 192.168.x.xxx in the address\nbar. (Google browser is recommended)\n2. Default IP Address: 192.168.56.166\n3. Username/Password: Both are “admin”\nConsole port login\nCommon serial port software includes SecureCRT and\nputty. Take SecureCRT for an example.\n1. Open the SecureCRT, select “New session”.\n2. Select “Serial”, click “Next”.\n3. Select relative COM port, baud rate 115200, flow\ncontrol and delete the \"V\" on the RTS/CTS selection\nbar, click “Next”, then click “Ok”\n4. Click “Enter”, put in user name/password “admin”.\nBi seviat-comio - SecurechT i eo ex\n(Fle (2 View Optiont Tranter Serot Too Nel\nki BS St oe . 一 一 一 一 一 一 人\nrenalcemlg uo\nDebian cu/tinox 7 swrrcn ttyso\nSates login: adain\nPassword:\n}3¥-2000-52024-16¢-158-o1~ - see oy.\nBeane S8-01-0C owed (F313 7159edd) 2022-08-01 14:46:41 +0800\nee —\n1 ee 人 ww\nThis is only a Simple introduction to the login method,\nPlease refer to the Web manual/CLI manual or talk with us\nfor more information,",
+"extracted_at":"2026-10-22T08:02:45Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__发货图片__7.jpg__fa6bccae.jpg"
+}

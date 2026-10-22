@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__18_阿联酋_Sanjay_可发展__付款记录_2025.12.1.png__37f2d835",
+"path":"PI/PI/18 阿联酋 Sanjay 可发展/付款记录_2025.12.1.png",
+"name":"付款记录_2025.12.1.png",
+"ext":".png",
+"bytes":35154,
+"sha256":"37f2d835d960c12a0491a61da7d7c331cf67499152e5da832bac30b41ee7cb71",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":690,
+"height":663,
+"mode":"RGBA",
+"thumb_bytes":13398
+},
+"warnings":[],
+"chars":370,
+"text":"ELECTRONICS LLC 给 您 发\n送 了 $166.00 USD\n交易 详情\n交易 号 交易 日 期\n58W71564U8121832U 2025 年 12 月 1 日\n已 收 金 额 $166.00 USD\nPayment for your PI for 4 pcs of IMC and 4 pcs of\nASTEL DIGICOM ELECTRONICS LLCBY _ -\nPSU. Payment from AStel Digicom Electronics LLC,\n留言\n言\nDubai, UAE\n费用 $7.60 USD\n总 计 $158.40 USD\n收 货 地 址\nASTEL DIGICOM ELECTRONICS\nShop no 22, Baghlaf Building, Naif Road,\nDubai",
+"extracted_at":"2026-10-22T07:58:33Z",
+"thumb":"thumbs/PI__PI__18_阿联酋_Sanjay_可发展__付款记录_2025.12.1.png__37f2d835.jpg"
+}

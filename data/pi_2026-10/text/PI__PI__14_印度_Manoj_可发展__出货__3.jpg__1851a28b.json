@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__14_印度_Manoj_可发展__出货__3.jpg__1851a28b",
+"path":"PI/PI/14 印度 Manoj 可发展/出货/3.jpg",
+"name":"3.jpg",
+"ext":".jpg",
+"bytes":4365824,
+"sha256":"1851a28b76e41723300969d744d8b3366d615b219698bde3284f50b912ac8df5",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":3043,
+"height":1934,
+"mode":"RGB",
+"thumb_bytes":14847
+},
+"warnings":[],
+"chars":25,
+"text":"AA\nPo\n:DC12-58V\nNon-PoE\n和",
+"extracted_at":"2026-10-22T07:35:39Z",
+"thumb":"thumbs/PI__PI__14_印度_Manoj_可发展__出货__3.jpg__1851a28b.jpg"
+}

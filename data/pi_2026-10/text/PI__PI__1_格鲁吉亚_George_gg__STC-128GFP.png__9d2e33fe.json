@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__1_格鲁吉亚_George_gg__STC-128GFP.png__9d2e33fe",
+"path":"PI/PI/1 格鲁吉亚 George gg/STC-128GFP.png",
+"name":"STC-128GFP.png",
+"ext":".png",
+"bytes":51425,
+"sha256":"9d2e33fe3b7899778373dd581c7fcc6854dfbc17a7c44f2ae411c45f5247edb9",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":906,
+"height":604,
+"mode":"RGBA",
+"thumb_bytes":17866
+},
+"warnings":[],
+"chars":260,
+"text":"Product: 11-port Hybrid rate POE switch\nModel: STC-128GFP\nFeatures: 8*10/100M POE Ports\n+ 2*10/100/1000M Ethernet Uplink Ports + 1*Gigabit SFP Uplink\nInternal Power, AC100~240V/120W, IEEE 8023af/at (12+,36-)\nS/N-1 1/Hybrid20230731001\nManufacturer Made In China",
+"extracted_at":"2026-10-22T07:27:32Z",
+"thumb":"thumbs/PI__PI__1_格鲁吉亚_George_gg__STC-128GFP.png__9d2e33fe.jpg"
+}

@@ -1,0 +1,137 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__PL_STSC-20260929-001.xlsx__4796593b",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/PL_STSC-20260929-001.xlsx",
+"name":"PL_STSC-20260929-001.xlsx",
+"ext":".xlsx",
+"bytes":135060,
+"sha256":"4796593b3615111350ddaf25dbc27e3d419091d51f33331a8a94b11ab90e605c",
+"source":"PI.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"Packing List"
+],
+"embedded_images":2,
+"rows_total":21
+},
+"warnings":[],
+"chars":737,
+"text":"--- Sheet: Packing List ---\nSaga Telecom\nAn Engineering & Supply-Chain-First Telecom Partner\nBuilt to Last, Continuous Supply, Evolving Together\nMob: 86 15237149683\nWeb: www.sagatele.com\nEmail: s.sagatelecom@gmail.com\nPacking List\nDate\t2026.09.29\nShip To\tNYNEX satellite OHG\nShipping Add.\tRobert-Bosch-Str. 20, 64293 Darmstadt, Germany\nP/O No.\t#\nQuotation No.\tSTSC-20260929-001\nP/L No.\t#\nC/No.:\tModel\tDESCRIPTION\tQTY/CTN\tQTY/PCS\tCTNS\tN.W/Kg\tG.W/Kg\tLENGTH/CM\tWIDTH/CM\tHEIGHT/CM\tV.W/Kg\tMEAS/CM³\n1~4\tSTC-4168XGGCM\tCommercial Ethernet Switch\t5\t20\t4\t70\t88\t54.5\t49.5\t32\t69.0624\t0.345312\nTOTAL\t\t\t\t20\t4\t70\t88\t\t\t\t69.0624\t0.345312\nBillable Weight\tWhichever is greater between G.W/Kg and V.W/Kg\nCarton\tFOUR(4)\nQUANTITY\tTWENTY PCS\nSaga Telecom\nSimon",
+"sheets":{
+"Packing List":{
+"state":"visible",
+"rows":[
+[
+"Saga Telecom"
+],
+[
+"An Engineering & Supply-Chain-First Telecom Partner"
+],
+[
+"Built to Last, Continuous Supply, Evolving Together"
+],
+[
+"Mob: 86 15237149683"
+],
+[
+"Web: www.sagatele.com"
+],
+[
+"Email: s.sagatelecom@gmail.com"
+],
+[
+"Packing List"
+],
+[
+"Date",
+"2026.09.29"
+],
+[
+"Ship To",
+"NYNEX satellite OHG"
+],
+[
+"Shipping Add.",
+"Robert-Bosch-Str. 20, 64293 Darmstadt, Germany"
+],
+[
+"P/O No.",
+"#"
+],
+[
+"Quotation No.",
+"STSC-20260929-001"
+],
+[
+"P/L No.",
+"#"
+],
+[
+"C/No.:",
+"Model",
+"DESCRIPTION",
+"QTY/CTN",
+"QTY/PCS",
+"CTNS",
+"N.W/Kg",
+"G.W/Kg",
+"LENGTH/CM",
+"WIDTH/CM",
+"HEIGHT/CM",
+"V.W/Kg",
+"MEAS/CM³"
+],
+[
+"1~4",
+"STC-4168XGGCM",
+"Commercial Ethernet Switch",
+"5",
+"20",
+"4",
+"70",
+"88",
+"54.5",
+"49.5",
+"32",
+"69.0624",
+"0.345312"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"20",
+"4",
+"70",
+"88",
+"",
+"",
+"",
+"69.0624",
+"0.345312"
+],
+[
+"Billable Weight",
+"Whichever is greater between G.W/Kg and V.W/Kg"
+],
+[
+"Carton",
+"FOUR(4)"
+],
+[
+"QUANTITY",
+"TWENTY PCS"
+],
+[
+"Saga Telecom"
+],
+[
+"Simon"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:33:22Z"
+}

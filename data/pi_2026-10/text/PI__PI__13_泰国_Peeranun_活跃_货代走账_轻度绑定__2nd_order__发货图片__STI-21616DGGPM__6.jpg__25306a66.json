@@ -1,0 +1,24 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__STI-21616DGGPM__6.jpg__25306a66",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/2nd order/发货图片/STI-21616DGGPM/6.jpg",
+"name":"6.jpg",
+"ext":".jpg",
+"bytes":4017124,
+"sha256":"25306a66fac74a4132859511da57e56b49a6196fee57641fe8250f38dc23c169",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":4624,
+"height":3468,
+"mode":"RGB",
+"software":"MediaTek Camera Application",
+"thumb_bytes":10596
+},
+"warnings":[],
+"chars":228,
+"text":"人 LS-tt9qQ : 習 gd\nIndustrial Switch 上\nModel: STI-42424DGGPMN\nPorts: 24*10/100/1000M RJ45 PoE + 4*1G/\nPower input: DC 44-57V\n4.) 0\nSN: 20250214001\nIP Address: 192,168,56,166 MAC: FC-CD-2P-D0-46-0F\nUser name: admin Password: admin",
+"extracted_at":"2026-10-22T07:52:56Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__STI-21616DGGPM__6.jpg__25306a66.jpg"
+}

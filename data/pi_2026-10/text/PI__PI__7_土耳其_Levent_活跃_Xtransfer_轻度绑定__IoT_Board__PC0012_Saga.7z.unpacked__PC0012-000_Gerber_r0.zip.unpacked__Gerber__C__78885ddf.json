@@ -1,0 +1,18 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__IoT_Board__PC0012_Saga.7z.unpacked__PC0012-000_Gerber_r0.zip.unpacked__Gerber__C__78885ddf",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/IoT Board/PC0012_Saga.7z.unpacked/PC0012-000_Gerber_r0.zip.unpacked/Gerber/Con_Cm4Io-Telekom-F_Silkscreen.gbr",
+"name":"Con_Cm4Io-Telekom-F_Silkscreen.gbr",
+"ext":".gbr",
+"bytes":162536,
+"sha256":"78885ddf9aaebc6592ca5d16130299393ef3f9cdb7813ee656cc9cde5647d466",
+"source":"PI.zip",
+"method":"none",
+"status":"meta",
+"meta":{},
+"warnings":[
+"no extractor for .gbr"
+],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:43:33Z"
+}

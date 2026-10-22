@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__3_赞比亚_Pythias_gg__采购_Smartbyte__label.png__459f936f",
+"path":"PI/PI/3  赞比亚 Pythias gg/采购_Smartbyte/label.png",
+"name":"label.png",
+"ext":".png",
+"bytes":39421,
+"sha256":"459f936feec8ebc2cecc635138d8640b7159382793c981074ebfd9643e9f670f",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":827,
+"height":530,
+"mode":"RGBA",
+"thumb_bytes":13776
+},
+"warnings":[],
+"chars":156,
+"text":"Unmanaged Industrial PoE Switch\nModel:\nPorts: 4*10/100/1000M RJ45 PoE + 2*1G SFP\nPower Input: DC 44-57V C € FE\nUU ANTAL w\nSN: 202402180001 —\nMade in China\n人",
+"extracted_at":"2026-10-22T07:48:19Z",
+"thumb":"thumbs/PI__PI__3_赞比亚_Pythias_gg__采购_Smartbyte__label.png__459f936f.jpg"
+}

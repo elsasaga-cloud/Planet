@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__2nd_order__awb.png__be3cc844",
+"path":"PI/PI/6 美国 Thu 可发展/2nd order/awb.png",
+"name":"awb.png",
+"ext":".png",
+"bytes":60477,
+"sha256":"be3cc844a2f1c166f3f8d3fa7f7da83bb7e9ea62edb3e4587e19dc20e4b06868",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":382,
+"height":508,
+"mode":"RGBA",
+"thumb_bytes":20719
+},
+"warnings":[],
+"chars":166,
+"text":"roTHU PHAM\nVI-LINK, INC 3\n5160 AVENIDA DE DESPACIO 自\nYORBALINDACA 92887 (US)\nWE02412003540\n人 約 全 條\n3\n10f2 AA\n7706 2295 0576 INTL CONN PLUS\n## MASTER #4 ETD\nUCFULA 22”",
+"extracted_at":"2026-10-22T07:32:56Z",
+"thumb":"thumbs/PI__PI__6_美国_Thu_可发展__2nd_order__awb.png__be3cc844.jpg"
+}

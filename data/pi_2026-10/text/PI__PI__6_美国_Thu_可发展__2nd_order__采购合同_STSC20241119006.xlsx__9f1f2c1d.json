@@ -1,0 +1,213 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__2nd_order__采购合同_STSC20241119006.xlsx__9f1f2c1d",
+"path":"PI/PI/6 美国 Thu 可发展/2nd order/采购合同_STSC20241119006.xlsx",
+"name":"采购合同_STSC20241119006.xlsx",
+"ext":".xlsx",
+"bytes":857089,
+"sha256":"9f1f2c1dc5824db713b5a717de0090d0be898a751ddca0c17bd1263bfe1b8522",
+"source":"PI.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"采购合同"
+],
+"embedded_images":5,
+"rows_total":45
+},
+"warnings":[],
+"chars":1805,
+"text":"--- Sheet: 采购合同 ---\n郑州仨戛通讯器材有限公司\n地址: 郑州市管城区航海路中州大道富田太阳城57号楼22层316\n电话: 86 15237149683                                                                 www.sagatelecom.com.cn                                                        Email: s.sagatelecom@gmail.com\n**********************************************************************************************************************************\n采购合同\n买方:\t郑州仨戛通讯器材有限公司\nZhengzhou Saga Telecom Co., Ltd.\n地址：\t郑州市管城区航海路中州大道富田太阳城57号楼22层316\nRoom 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\n采购订单编号\tSTSC20241119006\n电话:\t86 15237149683\n邮箱\ts.sagatelecom@gmail.com\n联系人:\t程天龙(Simon Cheng)\n卖方:\t深圳凌特华盛科技有限公司\nShenzhen SmartByte Technology Co.,Ltd\n地址：\t广东省惠州市惠阳区镇隆镇力合优科创新基地1栋8楼  邮编：516227\n8th Floor, 1st Building, Lihe Youke Innovation Base, Zhenlong town, Huiyang district, Huizhou city, Guangdong Province, 516227\n联系人:\tPeter Hu/13714293521/peter@smartbyte.com.cn\n订单日期:\t20th, Nov, 2024\n付款条款\t工厂直发，款到生产，包邮\n发货地址\t经双方协商后，直接发给货代处理\n卖方型号\t买方型号\t品名规格\t\t数量 \n(台)\t单价\n(RMB)\t小计\n(Sub-total)\nLT-MC80X\tMC10G\tEthernet Media Converter\n1*10G光口+1*100M/1G/2.5G/5G/10G自适应以太网, 非管理不带PoE\nDC5V美规电源线，质保1年\t\t4\t350\t1400\nLT-W14T-2A\tMC1400\tEthernet Media Converter Chassis\n14槽收发器机架，可统一容纳供电14台独立式收发器\nAC85~265V Dual Input, typically AC220V\n2条美规电源线，质保1年\t\t1\t350\t350\nTOTAL\t\t\t\t5\t\t1750\n常规备注\n中性设备\n不放保修卡，非必要的都不放，QC贴纸不要贴，送货单等不要放\n挂耳\t默认\n说明书\t收发器说明书_2025Q1\n标签/箱标产品类目\tEthernet Media Converter(Ethernet Media Converter Chassis)\n标签\t右上图\n箱标\t右下图\n序列号\t20241120001~20241120004(收发器), 20241120001(机架)\n装箱\t常规包装，能混装就混装(每个类目各贴一个箱标)\n防水膜\t打\n电源\t美规\n运费\t卖方支付\n拍照拍视频\t只需拍标签和刷的丝印，之前已经发过实物图了\n字体\tTimes New Roman\n交期\t无强制交期，正常处理即可\n特别需求\n需要你们把4台收发器寄送到机架供应商处统一刷标，来回运费买方支付\n上述标签仅供参考，暂时不打，我再和客户确认，只处理生产就行\n需要10G收发器外壳上10G Ethernet Media Converter丝印字体格式\n买方: 郑州仨戛通讯器材有限公司\n签字代表：程天龙(Simon Cheng)\n买方盖章\n2024.11.20",
+"sheets":{
+"采购合同":{
+"state":"visible",
+"rows":[
+[
+"郑州仨戛通讯器材有限公司"
+],
+[
+"地址: 郑州市管城区航海路中州大道富田太阳城57号楼22层316"
+],
+[
+"电话: 86 15237149683                                                                 www.sagatelecom.com.cn                                                        Email: s.sagatelecom@gmail.com"
+],
+[
+"**********************************************************************************************************************************"
+],
+[
+"采购合同"
+],
+[
+"买方:",
+"郑州仨戛通讯器材有限公司\nZhengzhou Saga Telecom Co., Ltd."
+],
+[
+"地址：",
+"郑州市管城区航海路中州大道富田太阳城57号楼22层316\nRoom 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"采购订单编号",
+"STSC20241119006"
+],
+[
+"电话:",
+"86 15237149683"
+],
+[
+"邮箱",
+"s.sagatelecom@gmail.com"
+],
+[
+"联系人:",
+"程天龙(Simon Cheng)"
+],
+[
+"卖方:",
+"深圳凌特华盛科技有限公司\nShenzhen SmartByte Technology Co.,Ltd"
+],
+[
+"地址：",
+"广东省惠州市惠阳区镇隆镇力合优科创新基地1栋8楼  邮编：516227\n8th Floor, 1st Building, Lihe Youke Innovation Base, Zhenlong town, Huiyang district, Huizhou city, Guangdong Province, 516227"
+],
+[
+"联系人:",
+"Peter Hu/13714293521/peter@smartbyte.com.cn"
+],
+[
+"订单日期:",
+"20th, Nov, 2024"
+],
+[
+"付款条款",
+"工厂直发，款到生产，包邮"
+],
+[
+"发货地址",
+"经双方协商后，直接发给货代处理"
+],
+[
+"卖方型号",
+"买方型号",
+"品名规格",
+"",
+"数量 \n(台)",
+"单价\n(RMB)",
+"小计\n(Sub-total)"
+],
+[
+"LT-MC80X",
+"MC10G",
+"Ethernet Media Converter\n1*10G光口+1*100M/1G/2.5G/5G/10G自适应以太网, 非管理不带PoE\nDC5V美规电源线，质保1年",
+"",
+"4",
+"350",
+"1400"
+],
+[
+"LT-W14T-2A",
+"MC1400",
+"Ethernet Media Converter Chassis\n14槽收发器机架，可统一容纳供电14台独立式收发器\nAC85~265V Dual Input, typically AC220V\n2条美规电源线，质保1年",
+"",
+"1",
+"350",
+"350"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"5",
+"",
+"1750"
+],
+[
+"常规备注"
+],
+[
+"中性设备"
+],
+[
+"不放保修卡，非必要的都不放，QC贴纸不要贴，送货单等不要放"
+],
+[
+"挂耳",
+"默认"
+],
+[
+"说明书",
+"收发器说明书_2025Q1"
+],
+[
+"标签/箱标产品类目",
+"Ethernet Media Converter(Ethernet Media Converter Chassis)"
+],
+[
+"标签",
+"右上图"
+],
+[
+"箱标",
+"右下图"
+],
+[
+"序列号",
+"20241120001~20241120004(收发器), 20241120001(机架)"
+],
+[
+"装箱",
+"常规包装，能混装就混装(每个类目各贴一个箱标)"
+],
+[
+"防水膜",
+"打"
+],
+[
+"电源",
+"美规"
+],
+[
+"运费",
+"卖方支付"
+],
+[
+"拍照拍视频",
+"只需拍标签和刷的丝印，之前已经发过实物图了"
+],
+[
+"字体",
+"Times New Roman"
+],
+[
+"交期",
+"无强制交期，正常处理即可"
+],
+[
+"特别需求"
+],
+[
+"需要你们把4台收发器寄送到机架供应商处统一刷标，来回运费买方支付"
+],
+[
+"上述标签仅供参考，暂时不打，我再和客户确认，只处理生产就行"
+],
+[
+"需要10G收发器外壳上10G Ethernet Media Converter丝印字体格式"
+],
+[
+"买方: 郑州仨戛通讯器材有限公司"
+],
+[
+"签字代表：程天龙(Simon Cheng)"
+],
+[
+"买方盖章"
+],
+[
+"2024.11.20"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:32:57Z"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__19_马来西亚_Raja_可发展__发货图片__STI-288GPM__3437dd05f265b63ad470d9bc72255b24.jpg__60a44ded",
+"path":"PI/PI/19 马来西亚 Raja 可发展/发货图片/STI-288GPM/3437dd05f265b63ad470d9bc72255b24.jpg",
+"name":"3437dd05f265b63ad470d9bc72255b24.jpg",
+"ext":".jpg",
+"bytes":896738,
+"sha256":"60a44ded3b0be9071befb5745e842efa19b85baf038dfffbbf7331f8f53ba6d9",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1279,
+"height":1375,
+"mode":"RGB",
+"thumb_bytes":16694
+},
+"warnings":[],
+"chars":21,
+"text":"erand fiber\ns control",
+"extracted_at":"2026-10-22T07:50:13Z",
+"thumb":"thumbs/PI__PI__19_马来西亚_Raja_可发展__发货图片__STI-288GPM__3437dd05f265b63ad470d9bc72255b24.jpg__60a44ded.jpg"
+}

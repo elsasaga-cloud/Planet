@@ -1,0 +1,25 @@
+{
+"id":"PI__PI__3_赞比亚_Pythias_gg__产线.MP4__4440eed6",
+"path":"PI/PI/3  赞比亚 Pythias gg/产线.MP4",
+"name":"产线.MP4",
+"ext":".mp4",
+"bytes":42964378,
+"sha256":"4440eed6807a87a66dfa00da56b07194996dcf580ff653682920230be079fbdf",
+"source":"PI.zip",
+"method":"ffprobe+ffmpeg",
+"status":"meta",
+"meta":{
+"duration_s":43.4,
+"width":1920,
+"height":1080,
+"vcodec":"hevc",
+"acodec":"aac",
+"creation_time":"2024-02-01T03:48:13.000000Z",
+"thumb_bytes":11286
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:47:42Z",
+"thumb":"thumbs/PI__PI__3_赞比亚_Pythias_gg__产线.MP4__4440eed6.jpg"
+}

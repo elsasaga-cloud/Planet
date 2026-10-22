@@ -1,0 +1,25 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__1st_order_sample_3层10G_24口_48口__WE02405009117_STSC20240508007_FEDEX_运单标签.pdf__f0724d50",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/1st order sample  3层10G 24口 48口/WE02405009117_STSC20240508007_FEDEX_运单标签.pdf",
+"name":"WE02405009117_STSC20240508007_FEDEX_运单标签.pdf",
+"ext":".pdf",
+"bytes":45678,
+"sha256":"f0724d50edfb1e94c61281995e36365cca30f334f33a07059b50a7cb6f2e4a18",
+"source":"PI.zip",
+"method":"pdfplumber+OCR(1p)",
+"status":"ok",
+"meta":{
+"pages":1,
+"creator":"PDFsharp 1.50.4000-netstandard (https://github.com/ststeiger/PdfSharpCore)",
+"producer":"PDFsharp 1.50.4000-netstandard (https://github.com/ststeiger/PdfSharpCore)",
+"moddate":"D:20260928143418+08'00'",
+"ocr_pages":1
+},
+"warnings":[],
+"chars":830,
+"text":"[p1]\n“LEVENT KILIC/ANGORA NETWORKS-\n-BILISIM TEKNOLOuI TIC.SAN.A.S.\nCAMLICA MAH.ANADOLU BULVARI TIIMKO\n+1 SOKAK NO:20 Z-1 YENIMAHALLE\nANKARA TURKEY\nYENIMAHALLE, 06200\nTR\n(TR)\n903122417747\nFedxx.\nExpress.\nAWB\nTae 7763 8768 68 4390\nof2\nPM\nIPEOD\nREE:WE02405009117\nDESC1Commercial Switch material: Metal use forDala exchange and 0\nDESC2:Commercial Switch material: Metal use for-Data exchange and 0\npeees Commercial Switch material:MetalC use for:Data exchange and\nFT ANKT8\nETD\nPKG:YOUR PKG\nCTRY/TEAR MFR: CN CN CN ‘SIGN: SHOUHAN XU\nCARRIAGE VALUE: TiC: § 202794401\nCUSTOMS VALUE: 1040.00 USD OT:R\nRE\nneed States, this was dane in accordane 人\nrg bsn of hase ms Comay 0 US. law\numys sw profrbed.\nThe Marten or Warsa\nZanes I Peli ot edb apes 0S\nSerage'D py shpmect. Suerte he coc ote\nFEDEX AWB COPY - PLEASE PLACE IN POUCH\n20240G2t20m\n7",
+"pages":[
+"“LEVENT KILIC/ANGORA NETWORKS-\n-BILISIM TEKNOLOuI TIC.SAN.A.S.\nCAMLICA MAH.ANADOLU BULVARI TIIMKO\n+1 SOKAK NO:20 Z-1 YENIMAHALLE\nANKARA TURKEY\nYENIMAHALLE, 06200\nTR\n(TR)\n903122417747\nFedxx.\nExpress.\nAWB\nTae 7763 8768 68 4390\nof2\nPM\nIPEOD\nREE:WE02405009117\nDESC1Commercial Switch material: Metal use forDala exchange and 0\nDESC2:Commercial Switch material: Metal use for-Data exchange and 0\npeees Commercial Switch material:MetalC use for:Data exchange and\nFT ANKT8\nETD\nPKG:YOUR PKG\nCTRY/TEAR MFR: CN CN CN ‘SIGN: SHOUHAN XU\nCARRIAGE VALUE: TiC: § 202794401\nCUSTOMS VALUE: 1040.00 USD OT:R\nRE\nneed States, this was dane in accordane 人\nrg bsn of hase ms Comay 0 US. law\numys sw profrbed.\nThe Marten or Warsa\nZanes I Peli ot edb apes 0S\nSerage'D py shpmect. Suerte he coc ote\nFEDEX AWB COPY - PLEASE PLACE IN POUCH\n20240G2t20m\n7"
+],
+"extracted_at":"2026-10-22T07:38:10Z"
+}

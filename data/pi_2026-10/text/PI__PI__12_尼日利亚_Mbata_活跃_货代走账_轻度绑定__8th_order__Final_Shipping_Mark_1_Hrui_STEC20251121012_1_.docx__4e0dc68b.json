@@ -1,0 +1,97 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__8th_order__Final_Shipping_Mark_1_Hrui_STEC20251121012_1_.docx__4e0dc68b",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/8th order/Final Shipping Mark 1_Hrui_STEC20251121012 (1).docx",
+"name":"Final Shipping Mark 1_Hrui_STEC20251121012 (1).docx",
+"ext":".docx",
+"bytes":764790,
+"sha256":"4e0dc68bf78c5f55822f23ad74251bfe227fda8c73d81d6017f280eaa4c3101e",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2025-02-14T01:03:00+00:00",
+"modified":"2025-12-03T01:12:26+00:00",
+"paragraphs":14,
+"tables":0,
+"embedded_images":2
+},
+"warnings":[],
+"chars":198,
+"text":"申娟\n15811851420\n广州市越秀区广园西路83号宇航通讯大厦负二楼227挡（添越中心)\n第一箱\n品名: 商业交换机\nCommercial Ethernet Switch\n数量: 3台/3Pieces\n重量：5Kg\n海关编码：8517622990\n品牌: 无\n没有内置电池，普货，不带电不带磁不含粉末等\n客户信息\nVALENTINE, (LAGOS-NIGERIA),\n0803388325",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"申娟"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"15811851420"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"广州市越秀区广园西路83号宇航通讯大厦负二楼227挡（添越中心)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"第一箱"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"品名: 商业交换机"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Commercial Ethernet Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"数量: 3台/3Pieces"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"重量：5Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"海关编码：8517622990"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"品牌: 无"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"没有内置电池，普货，不带电不带磁不含粉末等"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"客户信息"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"VALENTINE, (LAGOS-NIGERIA),"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"0803388325"
+}
+],
+"extracted_at":"2026-10-22T08:03:35Z"
+}

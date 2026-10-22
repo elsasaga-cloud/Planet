@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__19_马来西亚_Raja_可发展__发货图片__8.jpg__e2453a6e",
+"path":"PI/PI/19 马来西亚 Raja 可发展/发货图片/8.jpg",
+"name":"8.jpg",
+"ext":".jpg",
+"bytes":967522,
+"sha256":"e2453a6e1d68f0934d188a1768d3a98f172bdfa39774e56733421edfc80d3065",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1920,
+"height":1080,
+"mode":"RGB",
+"thumb_bytes":10913
+},
+"warnings":[],
+"chars":258,
+"text":"月 大 和 Sega 200 =e\n王 面 隔壁 ) ay -\n郵政 編碼 : 510450 >\n梁 先 生 +86 18529309778 Z\nAIR ML/RAJA\n品名 : TAL ZEAL\nIndustrial Ethernet Switch 一 —\nwi. 7 台 /7Pieces 品\n重量 : 約 0 =\n海關 編碼 : 85176229\n品 牌 : 無 oles\n无 内 置 电池 ， 普 货 ， 不 带电 不 带 磁 不 含 粉 未 等\nTYG 35 ERLE, 約 7Kg\nAIR ML/RAJA",
+"extracted_at":"2026-10-22T07:49:52Z",
+"thumb":"thumbs/PI__PI__19_马来西亚_Raja_可发展__发货图片__8.jpg__e2453a6e.jpg"
+}

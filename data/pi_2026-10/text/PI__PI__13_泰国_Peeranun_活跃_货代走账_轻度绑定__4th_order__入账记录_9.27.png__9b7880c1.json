@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__4th_order__入账记录_9.27.png__9b7880c1",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/4th order/入账记录 9.27.png",
+"name":"入账记录 9.27.png",
+"ext":".png",
+"bytes":112800,
+"sha256":"9b7880c19c1dbcdbca17b93a1c5df9b56e7d5e0c977e22110db63014519968f7",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":5419
+},
+"warnings":[],
+"chars":270,
+"text":"11:52 al) 4G\n交易 详情 QO “时\n@ 齐 贵 长\n+ ¥ 7,336.00\nSRB ¥ 34,995.59\n交易 卡号 一 卡通 6214********1962\n交易 时 间 2025-09-26 15:18:38\n付款 银行 华夏 银行 股份 有 限 公司\n付款 账号 6230********5783\n银行 交易 类 型 汇 入 汇款\n达标 领 2 元 现金 红包 ， 达 标 即 可 领取\n分 类 园 他 人 轉 入\n所 属 账本 请 选择\n电子 收据\n不 计 入 本 月 收 支\n给 TA 转 账 查看 往来 记录",
+"extracted_at":"2026-10-22T07:51:27Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__4th_order__入账记录_9.27.png__9b7880c1.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__发货信息__Weixin_Image_20260904182140_654_258.jpg__e8b635ed",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/发货信息/Weixin Image_20260904182140_654_258.jpg",
+"name":"Weixin Image_20260904182140_654_258.jpg",
+"ext":".jpg",
+"bytes":2765137,
+"sha256":"e8b635edfa25ae0ebd04e09a70d0954bfa22e09e60b1cea9ad8f64678f9698ee",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1714,
+"height":2151,
+"mode":"RGB",
+"thumb_bytes":15290
+},
+"warnings":[],
+"chars":239,
+"text":"Industrial Switch\nModel: SW-3200-16GP-2SX\nPorts: 16*10/100/1000M RJ45 PoE + 2*1G/2.5G/10G SFP+\nPower input: DC 44-57V\nPoE Budget: 240W\nUATE\n202608310002\nTP Address: 192.168.1.30 MAC:\nUser name min Password: admin\nWARRANTY \\\nVOID IF\nREMOVED",
+"extracted_at":"2026-10-22T07:55:53Z",
+"thumb":"thumbs/PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__发货信息__Weixin_Image_20260904182140_654_258.jpg__e8b635ed.jpg"
+}

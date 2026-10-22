@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__fan_dual_PSU_status_monitoring_2.png__a548e6ed",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/2nd order/fan dual PSU status monitoring 2.png",
+"name":"fan dual PSU status monitoring 2.png",
+"ext":".png",
+"bytes":29778,
+"sha256":"a548e6ed042af7a030df40f6fa07bb76faafba19d3932a753b5af428511ff39d",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1100,
+"height":531,
+"mode":"RGBA",
+"thumb_bytes":6405
+},
+"warnings":[],
+"chars":426,
+"text":"SWITCH#*1970 Jan 01 00:01:\n: FAN# 1 status changed to failure\nSWITCH#show fan\nCurrent temperature: 45.0 C\nHigh ctrl level:\nTrigger: 90.0 C\nClear : 85.0 C\nFan ID Fan Speed Fan Status\n1 Failure\n2 low Normal\nSWITCH#*1970 Jan 01 00:02:07 SWITCH %HAL-6: FAN# 1 status changed to normal\nSWITCH#show fan\nCurrent temperature: 46.0 C\nHigh ctrl level:\nTrigger: 90.0 C\nClear : 85.0 C\nFan ID Fan Speed Fan Status\n1 low Normal\n2 low Normal",
+"extracted_at":"2026-10-22T07:33:41Z",
+"thumb":"thumbs/PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__fan_dual_PSU_status_monitoring_2.png__a548e6ed.jpg"
+}

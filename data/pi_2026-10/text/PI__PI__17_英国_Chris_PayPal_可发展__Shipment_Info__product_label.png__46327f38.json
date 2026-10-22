@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__17_英国_Chris_PayPal_可发展__Shipment_Info__product_label.png__46327f38",
+"path":"PI/PI/17 英国 Chris PayPal 可发展/Shipment Info/product label.png",
+"name":"product label.png",
+"ext":".png",
+"bytes":60483,
+"sha256":"46327f38ccd820a42d9b38b0b2f798ba345880e66af6ff9a718dc2e19a19f70f",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1021,
+"height":654,
+"mode":"RGB",
+"thumb_bytes":17276
+},
+"warnings":[],
+"chars":292,
+"text":"Industrial Switch\nModel: STI-42424XGGPM-4BT\nPorts: 24*10/100/1000M RJ45 PoE + 4*1G/2.5G/10G SFP+\n1-4 ports PoE++\nPower input: DC 52-57V\nL3 Managed, Marvell Based\nSN: 202508270001 \"|\nTP Address: 192.168.536.166 MAC: FC-CD-2F-D0-4F-BD 【Re\nCOMPLIANT,\nTT en SC\nus\nUser name: admin Password: admin",
+"extracted_at":"2026-10-22T07:59:58Z",
+"thumb":"thumbs/PI__PI__17_英国_Chris_PayPal_可发展__Shipment_Info__product_label.png__46327f38.jpg"
+}

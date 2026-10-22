@@ -1,0 +1,217 @@
+{
+"id":"PI__PI__8_俄罗斯_Igor_gg__STSC20240523008.xls__ddd62b24",
+"path":"PI/PI/8 俄罗斯 Igor gg/STSC20240523008.xls",
+"name":"STSC20240523008.xls",
+"ext":".xls",
+"bytes":175104,
+"sha256":"ddd62b24cc334d99fb5abb50b1ed8d6b8e4f58cce11fa22973a34d4270912420",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Proforma Invoice"
+],
+"rows_total":42
+},
+"warnings":[],
+"chars":2708,
+"text":"--- Sheet: Proforma Invoice ---\nZhengzhou Saga Telecom Co., Ltd.\nAddress: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob/Whatsapp/Wechat: 86 15237149683                       www.sagatelecom.com.cn                     Email: s.sagatelecom@gmail.com\n*********************************************************************************************************************\nProforma Invoice\nPO No.:\t\t\tInvoice No.:\tSTSC20240523008\nBuyer:\t«Rio-Import» LLC\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t7(391)2906-315, 2911-424\t\tIssued By:\tSimon Cheng\nEmail:\trio-popov@mail.ru\t\tInvoice Date:\t23rd, May, 2024\nContact Person:\tIgor Popov\t\tPayment Term:\tT/T in advance\nShipping Address\t660075, Russian Federation, Krasnoyarsk, st. Red Guard, 21 of. 314\nSTI-050GE\tIndustrial Ethernet Switch\n5*10/100/1000M Ethernet, without fiber port, non-PoE, unmanaged\nSupport DIP function, DC12V~DC58V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted, without power supply\t\t\t2\t165\t330\tSample Testing\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 130*98*30mm\nGross Weight: 0.7kg\nSTI-080GE\tIndustrial Ethernet Switch\n8*10/100/1000M Ethernet, without fiber port, non-PoE, unmanaged\nSupport DIP function, DC12V~DC58V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted, without power supply\t\t\t2\t225\t450\tSample Testing\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 98*98*48mm\nGross Weight: 0.7kg\nShipping Cost\t360RMB for about 4Kg volume weight to Russia by Express\ndoor-to-door service\t\t\t\t\t360\nTOTAL\t\t\t\t4\t\t1140\nSAY TOTAL IN RMB ONE THOUSAND ONE HUNDRED AND FORTY ONLY\nRemark\nPlease do make sure client side could handle import customs clearance.\n1. Payment: Full payment to the below bank account before shipment.\nBank Information\nBank Name: BANK OF CHINA HENAN BRANCH\nBank Address: HUANYUAN ROAD 40TH ZHENGZHOU CITY HENAN CHINA\nBeneficiary: Zhengzhou Saga Telecom Co., Ltd.\nCNY/USD Account No.: 255987045839\nSWIFT CODE: BKCHCNBJ530\n2. NOTE: Saga Telecom will not pay for any bank charge.\nPlease make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice.\n3. Leadtime: 2~3 working days\n4. Country of origin: China\n5. Non-brand packing, without Chinese letters or logo\nPackage Marks: None\nPacking list is available upon request\n6. Warranty: 3 years\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" for more information.\nBuyer: «Rio-Import» LLC\t\t\tSeller: Zhengzhou Saga Telecom Co., Ltd.\nIgor Popov\t\t\tSimon Cheng\nAuthorized Signature\t\t\tAuthorized Signature",
+"sheets":{
+"Proforma Invoice":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob/Whatsapp/Wechat: 86 15237149683                       www.sagatelecom.com.cn                     Email: s.sagatelecom@gmail.com"
+],
+[
+"*********************************************************************************************************************"
+],
+[
+"Proforma Invoice"
+],
+[
+"PO No.:",
+"",
+"",
+"Invoice No.:",
+"STSC20240523008"
+],
+[
+"Buyer:",
+"«Rio-Import» LLC",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"7(391)2906-315, 2911-424",
+"",
+"Issued By:",
+"Simon Cheng"
+],
+[
+"Email:",
+"rio-popov@mail.ru",
+"",
+"Invoice Date:",
+"23rd, May, 2024"
+],
+[
+"Contact Person:",
+"Igor Popov",
+"",
+"Payment Term:",
+"T/T in advance"
+],
+[
+"Shipping Address",
+"660075, Russian Federation, Krasnoyarsk, st. Red Guard, 21 of. 314"
+],
+[
+"STI-050GE",
+"Industrial Ethernet Switch\n5*10/100/1000M Ethernet, without fiber port, non-PoE, unmanaged\nSupport DIP function, DC12V~DC58V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted, without power supply",
+"",
+"",
+"2",
+"165",
+"330",
+"Sample Testing"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 130*98*30mm\nGross Weight: 0.7kg"
+],
+[
+"STI-080GE",
+"Industrial Ethernet Switch\n8*10/100/1000M Ethernet, without fiber port, non-PoE, unmanaged\nSupport DIP function, DC12V~DC58V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted, without power supply",
+"",
+"",
+"2",
+"225",
+"450",
+"Sample Testing"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 98*98*48mm\nGross Weight: 0.7kg"
+],
+[
+"Shipping Cost",
+"360RMB for about 4Kg volume weight to Russia by Express\ndoor-to-door service",
+"",
+"",
+"",
+"",
+"360"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"4",
+"",
+"1140"
+],
+[
+"SAY TOTAL IN RMB ONE THOUSAND ONE HUNDRED AND FORTY ONLY"
+],
+[
+"Remark"
+],
+[
+"Please do make sure client side could handle import customs clearance."
+],
+[
+"1. Payment: Full payment to the below bank account before shipment."
+],
+[
+"Bank Information"
+],
+[
+"Bank Name: BANK OF CHINA HENAN BRANCH"
+],
+[
+"Bank Address: HUANYUAN ROAD 40TH ZHENGZHOU CITY HENAN CHINA"
+],
+[
+"Beneficiary: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"CNY/USD Account No.: 255987045839"
+],
+[
+"SWIFT CODE: BKCHCNBJ530"
+],
+[
+"2. NOTE: Saga Telecom will not pay for any bank charge."
+],
+[
+"Please make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice."
+],
+[
+"3. Leadtime: 2~3 working days"
+],
+[
+"4. Country of origin: China"
+],
+[
+"5. Non-brand packing, without Chinese letters or logo"
+],
+[
+"Package Marks: None"
+],
+[
+"Packing list is available upon request"
+],
+[
+"6. Warranty: 3 years"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" for more information."
+],
+[
+"Buyer: «Rio-Import» LLC",
+"",
+"",
+"Seller: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Igor Popov",
+"",
+"",
+"Simon Cheng"
+],
+[
+"Authorized Signature",
+"",
+"",
+"Authorized Signature"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:34:50Z"
+}

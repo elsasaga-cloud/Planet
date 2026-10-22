@@ -1,0 +1,206 @@
+{
+"id":"PI__PI__2_印度_Rishi_gg__1st_order__CI.xls__e1fb073d",
+"path":"PI/PI/2 印度 Rishi gg/1st order/CI.xls",
+"name":"CI.xls",
+"ext":".xls",
+"bytes":50176,
+"sha256":"e1fb073da92149ed32f9db00c6da8bffccbc8b0267bc980c92cf493a6dfa2857",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Commercial Invoice"
+],
+"rows_total":39
+},
+"warnings":[],
+"chars":2232,
+"text":"--- Sheet: Commercial Invoice ---\nZhengzhou Saga Telecom Co., Ltd.\nAddress: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 15237149683                                                 www.sagatelecom.com.cn                         Email: s.sagatelecom@gmail.com\n**************************************************************************************************************************\nCommercial Invoice\nGSTIN\t07AJJPR5445G1ZX\t\tInvoice No.:\tSTSC20231009002\nBuyer:\tFastball\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t919810987870, 919871753979\t\tIssued By:\tSimon Cheng\nEmail:\toffice@fastball.in\t\tInvoice Date:\t9th, Oct, 2023\nContact Person:\tRishi Kumar Bansal\t\tPayment Term:\tT/T in advance, EXW\nShipping Address\tA47, STREET NO. 4, ASHOK NAGAR, NEAR SHUKRA BAZAR, DELHI, Pin Code 110093\nModel\tSpecification\t\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nNull\tCleaner Pen\n1.25mm LC Connector\t\t\t40\t2.6\t104\nNull\tCleaner Pen\n2.5mm SC Connector\t\t\t40\t2.6\t104\nAdditional Information\tHS Code/8517799000\nPacking Box/40*32*13cm\nGross Weight: 3.5Kg\nFreight Cost\t52Usd for about 3.5kg Weight to India by International Express\t\t\t\t\t52\nTOTAL\t\t\t\t80\t\t260\nSAY TOTAL IN USD TWO HUNDRED AND SIXTY DOLLARS\n1. Payment: Full payment to the below bank account before shipment.\nBank Information\nBank Name: BANK OF CHINA HENAN BRANCH\nBank Address: HUANYUAN ROAD 40TH ZHENGZHOU CITY HENAN CHINA\nBeneficiary: Zhengzhou Saga Telecom Co., Ltd.\nCNY/USD Account No.: 255987045839\nSWIFT CODE: BKCHCNBJ530\n2. NOTE: Saga Telecom will not pay for any bank charge.\nPlease make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice.\n3. Leadtime: 5~10 working days\n4. Country of origin: China\n5. Non-brand packing, without Chinese letters or logo\nPackage Marks: None\nPacking list is available upon request\n6. Warranty: 1 year\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\n7. HSN Code: 39199090\n8. IEC Code - AJJPR5445G\nBuyer: Fastball\t\t\tSeller: Zhengzhou Saga Telecom Co., Ltd.\nRishi Kumar Bansal\t\t\tSimon Cheng\nAuthorized Signature\t\t\tAuthorized Signature",
+"sheets":{
+"Commercial Invoice":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 15237149683                                                 www.sagatelecom.com.cn                         Email: s.sagatelecom@gmail.com"
+],
+[
+"**************************************************************************************************************************"
+],
+[
+"Commercial Invoice"
+],
+[
+"GSTIN",
+"07AJJPR5445G1ZX",
+"",
+"Invoice No.:",
+"STSC20231009002"
+],
+[
+"Buyer:",
+"Fastball",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"919810987870, 919871753979",
+"",
+"Issued By:",
+"Simon Cheng"
+],
+[
+"Email:",
+"office@fastball.in",
+"",
+"Invoice Date:",
+"9th, Oct, 2023"
+],
+[
+"Contact Person:",
+"Rishi Kumar Bansal",
+"",
+"Payment Term:",
+"T/T in advance, EXW"
+],
+[
+"Shipping Address",
+"A47, STREET NO. 4, ASHOK NAGAR, NEAR SHUKRA BAZAR, DELHI, Pin Code 110093"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"Null",
+"Cleaner Pen\n1.25mm LC Connector",
+"",
+"",
+"40",
+"2.6",
+"104"
+],
+[
+"Null",
+"Cleaner Pen\n2.5mm SC Connector",
+"",
+"",
+"40",
+"2.6",
+"104"
+],
+[
+"Additional Information",
+"HS Code/8517799000\nPacking Box/40*32*13cm\nGross Weight: 3.5Kg"
+],
+[
+"Freight Cost",
+"52Usd for about 3.5kg Weight to India by International Express",
+"",
+"",
+"",
+"",
+"52"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"80",
+"",
+"260"
+],
+[
+"SAY TOTAL IN USD TWO HUNDRED AND SIXTY DOLLARS"
+],
+[
+"1. Payment: Full payment to the below bank account before shipment."
+],
+[
+"Bank Information"
+],
+[
+"Bank Name: BANK OF CHINA HENAN BRANCH"
+],
+[
+"Bank Address: HUANYUAN ROAD 40TH ZHENGZHOU CITY HENAN CHINA"
+],
+[
+"Beneficiary: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"CNY/USD Account No.: 255987045839"
+],
+[
+"SWIFT CODE: BKCHCNBJ530"
+],
+[
+"2. NOTE: Saga Telecom will not pay for any bank charge."
+],
+[
+"Please make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice."
+],
+[
+"3. Leadtime: 5~10 working days"
+],
+[
+"4. Country of origin: China"
+],
+[
+"5. Non-brand packing, without Chinese letters or logo"
+],
+[
+"Package Marks: None"
+],
+[
+"Packing list is available upon request"
+],
+[
+"6. Warranty: 1 year"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"7. HSN Code: 39199090"
+],
+[
+"8. IEC Code - AJJPR5445G"
+],
+[
+"Buyer: Fastball",
+"",
+"",
+"Seller: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Rishi Kumar Bansal",
+"",
+"",
+"Simon Cheng"
+],
+[
+"Authorized Signature",
+"",
+"",
+"Authorized Signature"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:31:18Z"
+}

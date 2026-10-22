@@ -1,0 +1,37 @@
+{
+"id":"PI__PI__9_马来西亚_Sugito_gg__2nd_order__发货__AWB.docx__040b76f2",
+"path":"PI/PI/9 马来西亚 Sugito gg/2nd order/发货/AWB.docx",
+"name":"AWB.docx",
+"ext":".docx",
+"bytes":14865,
+"sha256":"040b76f26f7bb30d6e07685f9c0e526ce5055a75b8e94efb44167411a9dd539c",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"simon",
+"last_modified_by":"Simon",
+"created":"2022-09-01T14:02:00+00:00",
+"modified":"2025-10-11T07:50:58+00:00",
+"paragraphs":2,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"chars":26,
+"text":"SF Express\nSF1398737916878",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"SF Express"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SF1398737916878"
+}
+],
+"extracted_at":"2026-10-22T07:30:08Z"
+}

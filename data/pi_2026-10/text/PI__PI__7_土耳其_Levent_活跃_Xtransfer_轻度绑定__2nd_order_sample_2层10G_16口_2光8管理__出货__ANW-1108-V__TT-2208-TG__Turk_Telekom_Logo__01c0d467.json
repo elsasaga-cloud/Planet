@@ -1,0 +1,27 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__出货__ANW-1108-V__TT-2208-TG__Turk_Telekom_Logo__01c0d467",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip.unpacked/__MACOSX/DEGERLI HISSETTIRIR LOGO/._TT DEGERLI LOGO RGB.ai",
+"name":"._TT DEGERLI LOGO RGB.ai",
+"ext":".ai",
+"bytes":210,
+"sha256":"01c0d4676231d1aeffc6d5b3eb76626adffce4d3b79eb03a5ed525e6674f255d",
+"source":"PI.zip",
+"method":"soffice→pdf→pdfplumber+OCR(0p)",
+"status":"ok",
+"meta":{
+"pages":1,
+"creator":"Writer",
+"producer":"LibreOffice 24.2",
+"creationdate":"D:20261022074316Z'",
+"ocr_pages":0,
+"thumb_bytes":1611
+},
+"warnings":[],
+"chars":61,
+"text":"[p1]\nMac OS X\n2**$com.apple.metadata:_kMDItemUserTagsbplist00",
+"pages":[
+"Mac OS X\n2**$com.apple.metadata:_kMDItemUserTagsbplist00"
+],
+"extracted_at":"2026-10-22T07:43:21Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__出货__ANW-1108-V__TT-2208-TG__Turk_Telekom_Logo__01c0d467.jpg"
+}

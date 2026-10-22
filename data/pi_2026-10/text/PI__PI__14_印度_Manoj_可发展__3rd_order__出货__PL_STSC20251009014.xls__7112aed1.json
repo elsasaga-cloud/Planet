@@ -1,0 +1,156 @@
+{
+"id":"PI__PI__14_印度_Manoj_可发展__3rd_order__出货__PL_STSC20251009014.xls__7112aed1",
+"path":"PI/PI/14 印度 Manoj 可发展/3rd order/出货/PL_STSC20251009014.xls",
+"name":"PL_STSC20251009014.xls",
+"ext":".xls",
+"bytes":147968,
+"sha256":"7112aed185f70ce3e5ab56d38d42b0b4e25ef5a9212dd35d230e856bb10eca85",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Packing List"
+],
+"rows_total":18
+},
+"warnings":[],
+"chars":820,
+"text":"--- Sheet: Packing List ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nMob: 86 15237149683\nWeb: www.sagatelecom.com.cn\nEmail: s.sagatelecom@gmail.com\nPacking  List\nDate\t2025.10.21\t\t\t\t\t\t\t\t\tP/O No.\nShip To\tSundar Techno Solutions\t\t\t\t\t\t\t\t\tP/I No.\tSTSC20251009014\nShipping Add.\t#24/106, 8th B main road, 11th cross, Ananthnagar phase 1, Electronic City phase 2, Bangalore 560100, India\t\t\t\t\t\t\t\t\tP/L No.\tPL20251021001\nC/No.:\tDESCRIPTION\tQTY/CTN\tQTY/PCS\tCTNS\tN.W/Kg\tG.W/Kg\tLENGTH/CM\tWIDTH/CM\tHEIGHT/CM\tV.W/KG\tMEAS/CM³\n1\tIndustrial Switch\t2\t2\t1\t2.4\t2.8\t31\t23.5\t18.5\t2.69545\t0.013477\nTOTAL\t\t\t2\t1\t2.4\t2.8\t\t\t\t2.69545\t0.013477\n\t\t\t\t\t\t\t\t\t\tBillable Weight\nSAY TOTAL: ONE(1)CARTON ONLY\nQUANTITY: TWO PCS ONLY\nIssued by: Zhengzhou Saga Telecom Co., Ltd.\nSimon",
+"sheets":{
+"Packing List":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Tailored Marvell Managed Networking Solutions Provider"
+],
+[
+"Mob: 86 15237149683"
+],
+[
+"Web: www.sagatelecom.com.cn"
+],
+[
+"Email: s.sagatelecom@gmail.com"
+],
+[
+"Packing  List"
+],
+[
+"Date",
+"2025.10.21",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"P/O No."
+],
+[
+"Ship To",
+"Sundar Techno Solutions",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"P/I No.",
+"STSC20251009014"
+],
+[
+"Shipping Add.",
+"#24/106, 8th B main road, 11th cross, Ananthnagar phase 1, Electronic City phase 2, Bangalore 560100, India",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"P/L No.",
+"PL20251021001"
+],
+[
+"C/No.:",
+"DESCRIPTION",
+"QTY/CTN",
+"QTY/PCS",
+"CTNS",
+"N.W/Kg",
+"G.W/Kg",
+"LENGTH/CM",
+"WIDTH/CM",
+"HEIGHT/CM",
+"V.W/KG",
+"MEAS/CM³"
+],
+[
+"1",
+"Industrial Switch",
+"2",
+"2",
+"1",
+"2.4",
+"2.8",
+"31",
+"23.5",
+"18.5",
+"2.69545",
+"0.013477"
+],
+[
+"TOTAL",
+"",
+"",
+"2",
+"1",
+"2.4",
+"2.8",
+"",
+"",
+"",
+"2.69545",
+"0.013477"
+],
+[
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"Billable Weight"
+],
+[
+"SAY TOTAL: ONE(1)CARTON ONLY"
+],
+[
+"QUANTITY: TWO PCS ONLY"
+],
+[
+"Issued by: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Simon"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:36:15Z"
+}

@@ -1,0 +1,18 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__出货__ANW-1108-V__TT-2208-TG__Turk_Telekom_Logo__83ad4e95",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip.unpacked/__MACOSX/DEGERLI HISSETTIRIR LOGO/._TT DEGERLI LOGO CMYK.ai",
+"name":"._TT DEGERLI LOGO CMYK.ai",
+"ext":".ai",
+"bytes":120,
+"sha256":"83ad4e95a9a86848666f07433079298c40b1c653e8c6970c85444f0811853de2",
+"source":"PI.zip",
+"method":"soffice→pdf",
+"status":"meta",
+"meta":{},
+"warnings":[
+"soffice produced nothing: Warning: failed to launch javaldx - java may not function correctly\nError: source file could not be loaded\n"
+],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:43:14Z"
+}

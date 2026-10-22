@@ -1,0 +1,197 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__PVCs.xlsx__d763f592",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/PVCs.xlsx",
+"name":"PVCs.xlsx",
+"ext":".xlsx",
+"bytes":229100,
+"sha256":"d763f592d490ec2630d4b76672b4b400b4c8d26b6503dac8170744c195df1345",
+"source":"PI.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"ANW-2116-PG",
+"TRX-AS-24TP4X",
+"TRX-AS-48TP4X",
+"ANW-2224-PX",
+"ANW-2248-PX"
+],
+"embedded_images":2,
+"rows_total":36
+},
+"warnings":[],
+"chars":1003,
+"text":"--- Sheet: ANW-2116-PG ---\nOrder reference\tConsumed Quantity\nSTSC20241021007\t8\nSTSC20250526007\t20\nSub-toal(in pieces)\t28\nTotal(in pieces)\t100\nRemaining(in pieces)\t72\nUnit Cost(in USD)\t2.3\nTo Be Deducted(in USD)\t64.4\n--- Sheet: TRX-AS-24TP4X ---\nOrder reference\tConsumed Quantity\nSTSC20250526007\t20\nSub-toal(in pieces)\t20\nTotal(in pieces)\t100\nRemaining(in pieces)\t80\nUnit Cost(in USD)\t2.3\nTo Be Deducted(in USD)\t46\n--- Sheet: TRX-AS-48TP4X ---\nOrder reference\tConsumed Quantity\nSTSC20250526007\t20\nSub-toal(in pieces)\t20\nTotal(in pieces)\t100\nRemaining(in pieces)\t80\nUnit Cost(in USD)\t2.3\nTo Be Deducted(in USD)\t46\n--- Sheet: ANW-2224-PX ---\nOrder reference\tConsumed Quantity\nSTSC20250526007\t20\nSub-toal(in pieces)\t20\nTotal(in pieces)\t100\nRemaining(in pieces)\t80\nUnit Cost(in USD)\t2.3\nTo Be Deducted(in USD)\t46\n--- Sheet: ANW-2248-PX ---\nOrder reference\tConsumed Quantity\nSTSC20250526007\t20\nSub-toal(in pieces)\t20\nTotal(in pieces)\t100\nRemaining(in pieces)\t80\nUnit Cost(in USD)\t2.3\nTo Be Deducted(in USD)\t46",
+"sheets":{
+"ANW-2116-PG":{
+"state":"visible",
+"rows":[
+[
+"Order reference",
+"Consumed Quantity"
+],
+[
+"STSC20241021007",
+"8"
+],
+[
+"STSC20250526007",
+"20"
+],
+[
+"Sub-toal(in pieces)",
+"28"
+],
+[
+"Total(in pieces)",
+"100"
+],
+[
+"Remaining(in pieces)",
+"72"
+],
+[
+"Unit Cost(in USD)",
+"2.3"
+],
+[
+"To Be Deducted(in USD)",
+"64.4"
+]
+]
+},
+"TRX-AS-24TP4X":{
+"state":"visible",
+"rows":[
+[
+"Order reference",
+"Consumed Quantity"
+],
+[
+"STSC20250526007",
+"20"
+],
+[
+"Sub-toal(in pieces)",
+"20"
+],
+[
+"Total(in pieces)",
+"100"
+],
+[
+"Remaining(in pieces)",
+"80"
+],
+[
+"Unit Cost(in USD)",
+"2.3"
+],
+[
+"To Be Deducted(in USD)",
+"46"
+]
+]
+},
+"TRX-AS-48TP4X":{
+"state":"visible",
+"rows":[
+[
+"Order reference",
+"Consumed Quantity"
+],
+[
+"STSC20250526007",
+"20"
+],
+[
+"Sub-toal(in pieces)",
+"20"
+],
+[
+"Total(in pieces)",
+"100"
+],
+[
+"Remaining(in pieces)",
+"80"
+],
+[
+"Unit Cost(in USD)",
+"2.3"
+],
+[
+"To Be Deducted(in USD)",
+"46"
+]
+]
+},
+"ANW-2224-PX":{
+"state":"visible",
+"rows":[
+[
+"Order reference",
+"Consumed Quantity"
+],
+[
+"STSC20250526007",
+"20"
+],
+[
+"Sub-toal(in pieces)",
+"20"
+],
+[
+"Total(in pieces)",
+"100"
+],
+[
+"Remaining(in pieces)",
+"80"
+],
+[
+"Unit Cost(in USD)",
+"2.3"
+],
+[
+"To Be Deducted(in USD)",
+"46"
+]
+]
+},
+"ANW-2248-PX":{
+"state":"visible",
+"rows":[
+[
+"Order reference",
+"Consumed Quantity"
+],
+[
+"STSC20250526007",
+"20"
+],
+[
+"Sub-toal(in pieces)",
+"20"
+],
+[
+"Total(in pieces)",
+"100"
+],
+[
+"Remaining(in pieces)",
+"80"
+],
+[
+"Unit Cost(in USD)",
+"2.3"
+],
+[
+"To Be Deducted(in USD)",
+"46"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:36:51Z"
+}

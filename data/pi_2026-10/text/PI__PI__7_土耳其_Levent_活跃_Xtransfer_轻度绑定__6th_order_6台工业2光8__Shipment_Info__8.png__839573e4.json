@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__6th_order_6台工业2光8__Shipment_Info__8.png__839573e4",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/6th order 6台工业2光8/Shipment Info/8.png",
+"name":"8.png",
+"ext":".png",
+"bytes":107760,
+"sha256":"839573e4193d0dca60aabca4c380cd5cc19e3c09a157260b28e95fd6a8028555",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1680,
+"height":1050,
+"mode":"RGBA",
+"thumb_bytes":4269
+},
+"warnings":[],
+"chars":225,
+"text":"€\nLogin - Switch x\nca\n0 ARS 192.168.56.166/#/login?redirect\nOxse-k Mmiisn Osun OFEHS Onna O ERT\nTi\nirk Tetekor >\n= Om © W\n司 国人 號\n/monitor/dashboard\nManaged Ethernet Switch\nLogin Clear\n@a\nA aL\nTT-2208-PG\n2xero\nB87\n2025/6/24\noO",
+"extracted_at":"2026-10-22T07:37:44Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__6th_order_6台工业2光8__Shipment_Info__8.png__839573e4.jpg"
+}

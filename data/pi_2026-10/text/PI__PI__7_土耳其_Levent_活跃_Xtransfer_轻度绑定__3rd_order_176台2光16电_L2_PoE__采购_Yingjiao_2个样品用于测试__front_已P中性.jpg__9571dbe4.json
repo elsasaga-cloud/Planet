@@ -1,0 +1,25 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__3rd_order_176台2光16电_L2_PoE__采购_Yingjiao_2个样品用于测试__front_已P中性.jpg__9571dbe4",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/3rd order 176台2光16电 L2 PoE/采购_Yingjiao 2个样品用于测试/front_已P中性.jpg",
+"name":"front_已P中性.jpg",
+"ext":".jpg",
+"bytes":4146857,
+"sha256":"9571dbe43053805bffc209371f0f60df09d5c21f6e9bb632e39d863fdb699b60",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":3024,
+"height":4032,
+"mode":"RGB",
+"datetime":"2025:01:15 16:42:18",
+"software":"Adobe Photoshop CS6 (Windows)",
+"thumb_bytes":8669
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:40:44Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__3rd_order_176台2光16电_L2_PoE__采购_Yingjiao_2个样品用于测试__front_已P中性.jpg__9571dbe4.jpg"
+}

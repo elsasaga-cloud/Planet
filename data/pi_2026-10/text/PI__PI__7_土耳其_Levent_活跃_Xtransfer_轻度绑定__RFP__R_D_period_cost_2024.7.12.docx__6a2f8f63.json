@@ -1,0 +1,172 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__RFP__R_D_period_cost_2024.7.12.docx__6a2f8f63",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/RFP/R&D period&cost_2024.7.12.docx",
+"name":"R&D period&cost_2024.7.12.docx",
+"ext":".docx",
+"bytes":15978,
+"sha256":"6a2f8f6395077c1f1e8a4c06ed822a3f3e16e1a161aff8c76942447aa61b1c13",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2024-04-22T07:22:00+00:00",
+"modified":"2024-07-12T03:45:36+00:00",
+"paragraphs":29,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"chars":2042,
+"text":"After internal check, its OK to develop only software upgrade via sftp.\nBut still, it is not easy.\nAccording to our engineers, Sftp is based on SSH, we first need to support our SSH2 certificate uploading, then do some R&D.\nHere is our offer.\nLeadtime: 8~10 weeks, probably 9 weeks.\nThis includes production and R&D, a ready solution.\nUnit price: 110usd/pc\nBulk price: 105usd/pc, we will give a better discount if necessary.\nNo R&D cost, but 8K USD deposit is charged for start the R&D.\nThis is based on 25% of order value. 110usd/pc*300pcs*0.25=8250usd\nThis amount will be deducted in the bulk order invoice.\nInternally, we have 2 solutions to propose\nSolution 1\nProduction first, upgrade later\nThis means we first go about the production without sftp(about 40 days) and ship the materials to you(about 6~10 days).\nWhen this order arrives at your side, the R&D function is almost done, then do the upgrading at your office.\nThis involves some concerns\nTrust, this is not a small amount, plus shipping cost, roughly 35K USD.\nNot sure if you need to put the materials into use once you got it, maybe its urgent.\nTroublesome, you need to unpack for upgrading one by one.\nHonestly I personally do not suggest this.\nThis solution is usually for domestic clients, they sometimes have a strict period for receiving the materials and will put into use once arrived.\nSo the above points are not big issues(easy communication if something is wrong, its a domestic order anyway).\nSolution 2\nReady solution, with Sftp and every other requirement you may have\nPreviously we spent some time discussing other features, so far so good.\nWe are not sure about the leadtime you expect(not receiving your reply in yesterday’s email, point 2) and how urgent this order is(like, unpack and use the devices once you got it).\nIf it is not very urgent, I personally would recommend this.\n8~10 weeks for production and R&D as I wrote at the first lines of this reply.\n[页眉页脚]\ns.sagatelecom@gmail.com\nSaga Telecom\nwww.sagatelecom.com.cn\nConnecting, Converting, Creating",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"After internal check, its OK to develop only software upgrade via sftp."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"But still, it is not easy."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"According to our engineers, Sftp is based on SSH, we first need to support our SSH2 certificate uploading, then do some R&D."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Here is our offer."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Leadtime: 8~10 weeks, probably 9 weeks."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This includes production and R&D, a ready solution."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Unit price: 110usd/pc"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Bulk price: 105usd/pc, we will give a better discount if necessary."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"No R&D cost, but 8K USD deposit is charged for start the R&D."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is based on 25% of order value. 110usd/pc*300pcs*0.25=8250usd"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This amount will be deducted in the bulk order invoice."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Internally, we have 2 solutions to propose"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Solution 1"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Production first, upgrade later"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This means we first go about the production without sftp(about 40 days) and ship the materials to you(about 6~10 days)."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"When this order arrives at your side, the R&D function is almost done, then do the upgrading at your office."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This involves some concerns"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Trust, this is not a small amount, plus shipping cost, roughly 35K USD."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Not sure if you need to put the materials into use once you got it, maybe its urgent."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Troublesome, you need to unpack for upgrading one by one."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Honestly I personally do not suggest this."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This solution is usually for domestic clients, they sometimes have a strict period for receiving the materials and will put into use once arrived."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"So the above points are not big issues(easy communication if something is wrong, its a domestic order anyway)."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Solution 2"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ready solution, with Sftp and every other requirement you may have"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Previously we spent some time discussing other features, so far so good."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We are not sure about the leadtime you expect(not receiving your reply in yesterday’s email, point 2) and how urgent this order is(like, unpack and use the devices once you got it)."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If it is not very urgent, I personally would recommend this."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8~10 weeks for production and R&D as I wrote at the first lines of this reply."
+}
+],
+"extracted_at":"2026-10-22T07:41:13Z"
+}

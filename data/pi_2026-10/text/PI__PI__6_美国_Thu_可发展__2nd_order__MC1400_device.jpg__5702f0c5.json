@@ -1,0 +1,24 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__2nd_order__MC1400_device.jpg__5702f0c5",
+"path":"PI/PI/6 美国 Thu 可发展/2nd order/MC1400 device.jpg",
+"name":"MC1400 device.jpg",
+"ext":".jpg",
+"bytes":4908829,
+"sha256":"5702f0c53c34f00f3152af99607708859991d823344bc479e9aabbb60e42d7cf",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":4096,
+"height":3072,
+"mode":"RGB",
+"software":"FOA-AL00 4.0.0.113(C00E112R4P2)",
+"thumb_bytes":9019
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:32:39Z",
+"thumb":"thumbs/PI__PI__6_美国_Thu_可发展__2nd_order__MC1400_device.jpg__5702f0c5.jpg"
+}

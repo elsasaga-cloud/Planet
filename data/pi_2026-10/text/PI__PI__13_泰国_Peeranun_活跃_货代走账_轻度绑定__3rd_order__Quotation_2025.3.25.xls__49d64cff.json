@@ -1,0 +1,175 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__3rd_order__Quotation_2025.3.25.xls__49d64cff",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/3rd order/Quotation_2025.3.25.xls",
+"name":"Quotation_2025.3.25.xls",
+"ext":".xls",
+"bytes":6715392,
+"sha256":"49d64cff4616baae15e43eb0b2d4612c13075f4cb35ce8fa7df75a7c36595af2",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Saga Telecom"
+],
+"rows_total":24
+},
+"warnings":[],
+"chars":4345,
+"text":"--- Sheet: Saga Telecom ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nAddress: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob/Whatsapp/Wechat: 86 15237149683                       www.sagatelecom.com.cn                    Email: s.sagatelecom@gmail.com\nModel\tSpecification\t\t\t\tKey Words\tPrice\nSTI-050FE\t5*10/100M, Unmanaged, Non-PoE\nWith  DIP functions: 1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\nDC12V~DC58V Input(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃\nDin mounted, With Mounting Kit, Without Power Supply\t\t\t\t5 Port\n10/100M\nUnmanaged\nNon-PoE\t150\nSTI-050GE\t5*10/100/100M, Unmanaged, Non-PoE\nWith  DIP functions: 1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\nDC12V~DC58V Input(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃\nDin mounted, With Mounting Kit, Without Power Supply\t\t\t\t5 Port\n10/100/1000M\nUnmanaged\nNon-PoE\t170\nSTI-054FP\t4*10/100M Copper/PoE+1*10/100M Uplink\nUnmanaged, PoE af/at, 120W budget, Ative PoE(DC48V output)\nWith  DIP functions: 1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog\nDC44V~DC57V Input(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃\nDin mounted, With Mounting Kit, Without Power Supply\t\t\t\t5 Port\n10/100M\nUnmanaged\nPoE af/at, 120W\t195\nSTI-054GP\t4*10/100/1000M Copper/PoE+1*10/100/1000M Uplink\nUnmanaged, PoE af/at, 120W budget, Ative PoE(DC48V output)\nWith  DIP functions: 1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog\nDC44V~DC57V Input(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃\nDin mounted, With Mounting Kit, Without Power Supply\t\t\t\t5 Port\n10/100/1000M\nUnmanaged\nPoE af/at, 120W\t210\nSTI-080FE\t8*10/100M, Unmanaged, Non-PoE\nWith  DIP functions: 1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\nDC12V~DC58V Input(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃\nDin mounted, With Mounting Kit, Without Power Supply\t\t\t\t8 Port\n10/100M\nUnmanaged\nNon-PoE\t170\nSTI-080GE\t8*10/100/100M, Unmanaged, Non-PoE\nWith  DIP functions: 1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\nDC12V~DC58V Input(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃\nDin mounted, With Mounting Kit, Without Power Supply\t\t\t\t8 Port\n10/100/1000M\nUnmanaged\nNon-PoE\t210\nSTI-088FP\t8*10/100M Copper/PoE\nUnmanaged, PoE af/at, 240W budget, Ative PoE(DC48V output)\nWith  DIP functions: 1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog\nDC44V~DC57V Input(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃\nDin mounted, With Mounting Kit, Without Power Supply\t\t\t\t8 Port\n10/100M\nUnmanaged\nPoE af/at, 240W\t240\nSTI-088GP\t8*10/100/1000M Copper/PoE\nUnmanaged, PoE af/at, 240W budget, Ative PoE(DC48V output)\nWith  DIP functions: 1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog\nDC44V~DC57V Input(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃\nDin mounted, With Mounting Kit, Without Power Supply\t\t\t\t8 Port\n10/100/1000M\nUnmanaged\nPoE af/at, 240W\t285\nSTI-0160GE\t16*10/100/100M, Unmanaged, Non-PoE\nWith  DIP functions: 1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\nDC12V~DC58V Input(Removable 6 PIN Industrial Terminal Block), -40℃ to 75℃\nDin mounted, With Mounting Kit, Without Power Supply\t\t\t\t16 Port\n10/100/1000M\nUnmanaged\nNon-PoE\t650\nSTI-01616GP\t16*10/100/1000M Copper/PoE\nUnmanaged, PoE af/at, 240W budget, Ative PoE(DC48V output)\nWith  DIP functions: 1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\nDC44V~DC57V Input(Removable 6 PIN Industrial Terminal Block), -40℃ to 75℃\nDin mounted, With Mounting Kit, Without Power Supply\t\t\t\t16 Port\n10/100/1000M\nUnmanaged\nPoE af/at, 240W\t800\nSTI-0240GE\t24*10/100/100M, Unmanaged, Non-PoE\nWith  DIP functions: 1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\nDC12V~DC58V Input(Removable 6 PIN Industrial Terminal Block), -40℃ to 75℃\nDin mounted, With Mounting Kit, Without Power Supply\t\t\t\t24 Port\n10/100/1000M\nUnmanaged\nNon-PoE\t800\nRemarks\n1. Prices are valid for 15 days, all the prices are NOT including power supply\n2. Price term: EXW\n3. Warranty period: Three years\n4. Lead time for less than 50pcs: 5~7 working days\n5. Customization is available\n\t\t\t\tw",
+"sheets":{
+"Saga Telecom":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Tailored Marvell Managed Networking Solutions Provider"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob/Whatsapp/Wechat: 86 15237149683                       www.sagatelecom.com.cn                    Email: s.sagatelecom@gmail.com"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"",
+"Key Words",
+"Price"
+],
+[
+"STI-050FE",
+"5*10/100M, Unmanaged, Non-PoE\nWith  DIP functions: 1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\nDC12V~DC58V Input(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃\nDin mounted, With Mounting Kit, Without Power Supply",
+"",
+"",
+"",
+"5 Port\n10/100M\nUnmanaged\nNon-PoE",
+"150"
+],
+[
+"STI-050GE",
+"5*10/100/100M, Unmanaged, Non-PoE\nWith  DIP functions: 1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\nDC12V~DC58V Input(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃\nDin mounted, With Mounting Kit, Without Power Supply",
+"",
+"",
+"",
+"5 Port\n10/100/1000M\nUnmanaged\nNon-PoE",
+"170"
+],
+[
+"STI-054FP",
+"4*10/100M Copper/PoE+1*10/100M Uplink\nUnmanaged, PoE af/at, 120W budget, Ative PoE(DC48V output)\nWith  DIP functions: 1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog\nDC44V~DC57V Input(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃\nDin mounted, With Mounting Kit, Without Power Supply",
+"",
+"",
+"",
+"5 Port\n10/100M\nUnmanaged\nPoE af/at, 120W",
+"195"
+],
+[
+"STI-054GP",
+"4*10/100/1000M Copper/PoE+1*10/100/1000M Uplink\nUnmanaged, PoE af/at, 120W budget, Ative PoE(DC48V output)\nWith  DIP functions: 1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog\nDC44V~DC57V Input(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃\nDin mounted, With Mounting Kit, Without Power Supply",
+"",
+"",
+"",
+"5 Port\n10/100/1000M\nUnmanaged\nPoE af/at, 120W",
+"210"
+],
+[
+"STI-080FE",
+"8*10/100M, Unmanaged, Non-PoE\nWith  DIP functions: 1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\nDC12V~DC58V Input(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃\nDin mounted, With Mounting Kit, Without Power Supply",
+"",
+"",
+"",
+"8 Port\n10/100M\nUnmanaged\nNon-PoE",
+"170"
+],
+[
+"STI-080GE",
+"8*10/100/100M, Unmanaged, Non-PoE\nWith  DIP functions: 1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\nDC12V~DC58V Input(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃\nDin mounted, With Mounting Kit, Without Power Supply",
+"",
+"",
+"",
+"8 Port\n10/100/1000M\nUnmanaged\nNon-PoE",
+"210"
+],
+[
+"STI-088FP",
+"8*10/100M Copper/PoE\nUnmanaged, PoE af/at, 240W budget, Ative PoE(DC48V output)\nWith  DIP functions: 1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog\nDC44V~DC57V Input(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃\nDin mounted, With Mounting Kit, Without Power Supply",
+"",
+"",
+"",
+"8 Port\n10/100M\nUnmanaged\nPoE af/at, 240W",
+"240"
+],
+[
+"STI-088GP",
+"8*10/100/1000M Copper/PoE\nUnmanaged, PoE af/at, 240W budget, Ative PoE(DC48V output)\nWith  DIP functions: 1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog\nDC44V~DC57V Input(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃\nDin mounted, With Mounting Kit, Without Power Supply",
+"",
+"",
+"",
+"8 Port\n10/100/1000M\nUnmanaged\nPoE af/at, 240W",
+"285"
+],
+[
+"STI-0160GE",
+"16*10/100/100M, Unmanaged, Non-PoE\nWith  DIP functions: 1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\nDC12V~DC58V Input(Removable 6 PIN Industrial Terminal Block), -40℃ to 75℃\nDin mounted, With Mounting Kit, Without Power Supply",
+"",
+"",
+"",
+"16 Port\n10/100/1000M\nUnmanaged\nNon-PoE",
+"650"
+],
+[
+"STI-01616GP",
+"16*10/100/1000M Copper/PoE\nUnmanaged, PoE af/at, 240W budget, Ative PoE(DC48V output)\nWith  DIP functions: 1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\nDC44V~DC57V Input(Removable 6 PIN Industrial Terminal Block), -40℃ to 75℃\nDin mounted, With Mounting Kit, Without Power Supply",
+"",
+"",
+"",
+"16 Port\n10/100/1000M\nUnmanaged\nPoE af/at, 240W",
+"800"
+],
+[
+"STI-0240GE",
+"24*10/100/100M, Unmanaged, Non-PoE\nWith  DIP functions: 1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\nDC12V~DC58V Input(Removable 6 PIN Industrial Terminal Block), -40℃ to 75℃\nDin mounted, With Mounting Kit, Without Power Supply",
+"",
+"",
+"",
+"24 Port\n10/100/1000M\nUnmanaged\nNon-PoE",
+"800"
+],
+[
+"Remarks"
+],
+[
+"1. Prices are valid for 15 days, all the prices are NOT including power supply"
+],
+[
+"2. Price term: EXW"
+],
+[
+"3. Warranty period: Three years"
+],
+[
+"4. Lead time for less than 50pcs: 5~7 working days"
+],
+[
+"5. Customization is available"
+],
+[
+"",
+"",
+"",
+"",
+"w"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:54:32Z"
+}

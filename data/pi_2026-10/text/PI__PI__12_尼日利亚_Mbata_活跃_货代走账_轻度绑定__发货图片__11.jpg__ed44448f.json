@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__发货图片__11.jpg__ed44448f",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/发货图片/11.jpg",
+"name":"11.jpg",
+"ext":".jpg",
+"bytes":5657203,
+"sha256":"ed44448fbcea1388ca04d060a21036018b03d0c3b7c050e12652dcc821039470",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":6400,
+"height":3222,
+"mode":"RGB",
+"thumb_bytes":7388
+},
+"warnings":[],
+"chars":88,
+"text":"Netstream High Fidelity Switch\nBNSC-424DGGPM\nSE\nFor Extreme Network Environment and Swit",
+"extracted_at":"2026-10-22T08:01:48Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__发货图片__11.jpg__ed44448f.jpg"
+}

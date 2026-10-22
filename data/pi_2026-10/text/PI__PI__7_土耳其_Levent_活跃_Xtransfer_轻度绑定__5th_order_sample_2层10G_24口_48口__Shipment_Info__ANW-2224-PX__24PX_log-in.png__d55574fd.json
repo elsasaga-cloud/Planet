@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__5th_order_sample_2层10G_24口_48口__Shipment_Info__ANW-2224-PX__24PX_log-in.png__d55574fd",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/5th order sample  2层10G 24口 48口/Shipment Info/ANW-2224-PX/24PX log-in.png",
+"name":"24PX log-in.png",
+"ext":".png",
+"bytes":108016,
+"sha256":"d55574fd8a563bd4eb8d551054c7a5b267f9d6b07c9b581b52a7beb0b0592e36",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1680,
+"height":1050,
+"mode":"RGBA",
+"thumb_bytes":4287
+},
+"warnings":[],
+"chars":233,
+"text":"& Login - Switch x 十\nv 一\n€ ca 0 QAR 192.168.56.166/#/login?redirect=/monitor/dashboard ENA @ 由\n人 @ 牙 一 放 网 直 导 航 Ossun OFFERS Orcs O 排 程 旅行\nANGOLA\nANW-2224-PX\nManaged Ethernet Switch\n[8\nLogin Clear\nBa. zxara\nx 1510\nAa@%AB 2025/5/30 a",
+"extracted_at":"2026-10-22T07:45:49Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__5th_order_sample_2层10G_24口_48口__Shipment_Info__ANW-2224-PX__24PX_log-in.png__d55574fd.jpg"
+}

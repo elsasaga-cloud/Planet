@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__Karen工业模块测试结果__-40_degree.jpg__3f0462a6",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/Karen工业模块测试结果/-40 degree.jpg",
+"name":"-40 degree.jpg",
+"ext":".jpg",
+"bytes":186374,
+"sha256":"3f0462a60af69954aba6117153413f44cbe1c073cc178997ee0713c09454da8a",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1279,
+"height":1706,
+"mode":"RGB",
+"thumb_bytes":12723
+},
+"warnings":[],
+"chars":90,
+"text":"mre oo\nis 之 全\n控制 器\nCONTROLLER\n電源 指示 故障 報警\nPOWER LIGHT FAILURE\nPN\n全 Wo\nCo om — an sl sz “LT",
+"extracted_at":"2026-10-22T07:41:10Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__Karen工业模块测试结果__-40_degree.jpg__3f0462a6.jpg"
+}

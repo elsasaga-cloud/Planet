@@ -1,0 +1,225 @@
+{
+"id":"PI__PI__16_美国_John_PayPal_gg__Shipment_Info__CI.xls__0d8123c3",
+"path":"PI/PI/16 美国 John PayPal gg/Shipment Info/CI.xls",
+"name":"CI.xls",
+"ext":".xls",
+"bytes":557056,
+"sha256":"0d8123c39ca18c0b7d6a14e17153c9921a638a30f4134fd301cfcd9f6d607164",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Commercial Invoice"
+],
+"rows_total":42
+},
+"warnings":[],
+"chars":2738,
+"text":"--- Sheet: Commercial Invoice ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 13048800964                                          www.sagatelecom.com.cn                                Email: a.sagatelecom@gmail.com\n*********************************************************************************************************************\nCommercial Invoice\nPO No.\t\t\tInvoice No.:\tSTAG20250718016\nBuyer:\t52 Networks Inc.\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t1 571 402 8369\t\tIssued By:\tAlan\nEmail:\tsales@52networks.com\t\tInvoice Date:\t18th, July, 2025\nContact Person:\tJohn Davis\t\tPayment Term:\tT/T in advance, DAP\nShipping Address\t5142 Meeting pl woodbridge VA 22193\nModel\tSpecification\t\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSeller: STI-288GP\n\nBuyer: Null\t\tIndustrial PoE Switch\n\n2*1G SFP+8*10/100/1000M RJ45/PoE \n8*PoE af/at, 240W, Unmanaged\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din Mounted\nWith Mounting Hanger, Without Optical Module, Without Power Adapter\t\t2\t58\t116\tSample\nTesting\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 130*98*48mm\nGross Weight: 0.9Kg\nNDR-240-48\tOriginal Meanwell Unit\t\t\t2\t40\t80\nFreight Cost\t75usd for about 5Kg volume weight to USA by DHL\n\nAir, door-to-door service\nEstimated shipment time: 4~6 calendar days\t\t\t\t\t75\nPayPal Cost\t5Usd will be charged for EVERY 100Usd to our account\t\t\t\t\t14\nTOTAL\t\t\t\t4\t\t285\nSAY TOTAL IN USD TWO HUNDRED AND EIGHTY FIVE DOLLARS\nRemark\nPlease do make sure client side could handle import customs clearance\nIf there is any problem with the shipment or clearance\n1, please let us know ASAP\n2, please call DHL/FedEx/UPS official number for information\n1. Payment: Full payment to the below PayPal account before shipment\ns.sagatelecom@gmail.com\n2. NOTE: Saga Telecom will not pay for any PayPal charge\nPlease make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice\n3. Production time: 2~4 working days(this is NOT including shipping time)\n4. Country of origin: China\n5. Non-brand packing, without Chinese letters or logo\nPackage Marks: None\nPacking list is available upon request\n6. Warranty: 3 years, lifetime technical support\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery\nPlease refer to \"warranty policy\" for more information\nBuyer: 52 Networks Inc.\t\t\tSeller: Zhengzhou Saga Telecom Co., Ltd.\nJohn Davis\t\t\tAlan\nAuthorized Signature\t\t\tAuthorized Signature",
+"sheets":{
+"Commercial Invoice":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Tailored Marvell Managed Networking Solutions Provider"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 13048800964                                          www.sagatelecom.com.cn                                Email: a.sagatelecom@gmail.com"
+],
+[
+"*********************************************************************************************************************"
+],
+[
+"Commercial Invoice"
+],
+[
+"PO No.",
+"",
+"",
+"Invoice No.:",
+"STAG20250718016"
+],
+[
+"Buyer:",
+"52 Networks Inc.",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"1 571 402 8369",
+"",
+"Issued By:",
+"Alan"
+],
+[
+"Email:",
+"sales@52networks.com",
+"",
+"Invoice Date:",
+"18th, July, 2025"
+],
+[
+"Contact Person:",
+"John Davis",
+"",
+"Payment Term:",
+"T/T in advance, DAP"
+],
+[
+"Shipping Address",
+"5142 Meeting pl woodbridge VA 22193"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"Seller: STI-288GP\n\nBuyer: Null",
+"",
+"Industrial PoE Switch\n\n2*1G SFP+8*10/100/1000M RJ45/PoE \n8*PoE af/at, 240W, Unmanaged\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din Mounted\nWith Mounting Hanger, Without Optical Module, Without Power Adapter",
+"",
+"2",
+"58",
+"116",
+"Sample\nTesting"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 130*98*48mm\nGross Weight: 0.9Kg"
+],
+[
+"NDR-240-48",
+"Original Meanwell Unit",
+"",
+"",
+"2",
+"40",
+"80"
+],
+[
+"Freight Cost",
+"75usd for about 5Kg volume weight to USA by DHL\n\nAir, door-to-door service\nEstimated shipment time: 4~6 calendar days",
+"",
+"",
+"",
+"",
+"75"
+],
+[
+"PayPal Cost",
+"5Usd will be charged for EVERY 100Usd to our account",
+"",
+"",
+"",
+"",
+"14"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"4",
+"",
+"285"
+],
+[
+"SAY TOTAL IN USD TWO HUNDRED AND EIGHTY FIVE DOLLARS"
+],
+[
+"Remark"
+],
+[
+"Please do make sure client side could handle import customs clearance"
+],
+[
+"If there is any problem with the shipment or clearance"
+],
+[
+"1, please let us know ASAP"
+],
+[
+"2, please call DHL/FedEx/UPS official number for information"
+],
+[
+"1. Payment: Full payment to the below PayPal account before shipment"
+],
+[
+"s.sagatelecom@gmail.com"
+],
+[
+"2. NOTE: Saga Telecom will not pay for any PayPal charge"
+],
+[
+"Please make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice"
+],
+[
+"3. Production time: 2~4 working days(this is NOT including shipping time)"
+],
+[
+"4. Country of origin: China"
+],
+[
+"5. Non-brand packing, without Chinese letters or logo"
+],
+[
+"Package Marks: None"
+],
+[
+"Packing list is available upon request"
+],
+[
+"6. Warranty: 3 years, lifetime technical support"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery"
+],
+[
+"Please refer to \"warranty policy\" for more information"
+],
+[
+"Buyer: 52 Networks Inc.",
+"",
+"",
+"Seller: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"John Davis",
+"",
+"",
+"Alan"
+],
+[
+"Authorized Signature",
+"",
+"",
+"Authorized Signature"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:29:25Z"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__14_印度_Manoj_可发展__1st_order__出货__9.jpg__9a711ede",
+"path":"PI/PI/14 印度 Manoj 可发展/1st order/出货/9.jpg",
+"name":"9.jpg",
+"ext":".jpg",
+"bytes":18691,
+"sha256":"9a711edef7c044fc1a9bdbef5e040d9ddbe9a95cff5878424a79090069339ad9",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":499,
+"height":253,
+"mode":"RGBA",
+"thumb_bytes":10006
+},
+"warnings":[],
+"chars":141,
+"text":"Unmanaged Industrial Ethernet Switch\nModel: STI-0160GE\nPorts: 16*10/100/1000M RJ45\nPower input: DC 12-58V\nCE\nHI\nRoHS\nSN: 20241109001 son\nFe\n及",
+"extracted_at":"2026-10-22T07:36:47Z",
+"thumb":"thumbs/PI__PI__14_印度_Manoj_可发展__1st_order__出货__9.jpg__9a711ede.jpg"
+}

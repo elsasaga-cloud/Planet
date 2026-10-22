@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__工业标签优化.png__d858a5d3",
+"path":"PI/PI/工业标签优化.png",
+"name":"工业标签优化.png",
+"ext":".png",
+"bytes":531873,
+"sha256":"d858a5d393bb201fe788ef0a1c78830a97d3b192516726c52e857fb1078b922c",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":867,
+"height":859,
+"mode":"RGBA",
+"thumb_bytes":20368
+},
+"warnings":[],
+"chars":347,
+"text":"TURK TELEKOM\nETHERNET SWITCHES\n>\n>\nTurk Telekorn >\nDegerli Hissettirir > >\nMODEL: TT-2208-PG\nINPUT: DC44-57V\nFANNIN TOMA ce\nKE\n25052208C0103 AN ps\n—\n®\nBelts\nMAC ADDRESS: 98:06:37:A5:00:13\nTURK TELEKOM\nETHERNET SWITCHES\nMODEL: TT-2208-PG\nINPUT: DC44-57V\n25052208C0103\nMAC ADDRESS: 98:06:37:A5:00:13\n>) >\nTurk Telekorn >\nDegerli Hissettirir > >\net 6",
+"extracted_at":"2026-10-22T07:27:36Z",
+"thumb":"thumbs/PI__PI__工业标签优化.png__d858a5d3.jpg"
+}

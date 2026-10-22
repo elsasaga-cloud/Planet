@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__3rd_order__收款记录_1.png__3e9ad632",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/3rd order/收款记录 1.png",
+"name":"收款记录 1.png",
+"ext":".png",
+"bytes":245010,
+"sha256":"3e9ad63231df26ba08dc91ff962f3e26c7bbf3e308d8223d4ab6f517254de711",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1170,
+"height":2532,
+"mode":"RGB",
+"thumb_bytes":6077
+},
+"warnings":[],
+"chars":290,
+"text":"18:06 al 全 【\n《 账单 详情\n“hi\n+7,725.00\n交易 成 功\n關聯 記錄 查看 關聯 記錄\n創建 時 間 2025-03-05 18:03:49\n商 品 說 明 收 錢 碼 收 款\n服務 詳情\n盆 籽 支付寶 商 家 服務 - 收 款 記錄\n查看 詳情\nMO 0 | meme | eH\n订单 号 2025030522001437151410770779\n商家 订单 号 47411690288702037537156\n账单 管理\n本 笔 登 上 月 收入 榜 ， 看 看 分 析 吧 >\n账单 分 类 收入 >\n标签 和 备注 添加 >\n計 入 收 支 ©",
+"extracted_at":"2026-10-22T08:03:48Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__3rd_order__收款记录_1.png__3e9ad632.jpg"
+}

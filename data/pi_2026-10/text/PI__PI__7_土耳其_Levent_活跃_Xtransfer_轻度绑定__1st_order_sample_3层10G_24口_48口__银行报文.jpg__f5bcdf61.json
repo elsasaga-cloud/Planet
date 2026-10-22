@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__1st_order_sample_3层10G_24口_48口__银行报文.jpg__f5bcdf61",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/1st order sample  3层10G 24口 48口/银行报文.jpg",
+"name":"银行报文.jpg",
+"ext":".jpg",
+"bytes":443625,
+"sha256":"f5bcdf610500b988997e31f1fa769b657dd20c720cc560e94065f3b2c2478b97",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1080,
+"height":1920,
+"mode":"RGB",
+"thumb_bytes":7677
+},
+"warnings":[],
+"chars":431,
+"text":"~ ee\nR:055458 INT: 汇 入 报 文 原 报 明细 ,\n中 国 银行 国际 收 付款 报 文\nwees exes (TO)\n1SO 报 文 兴 型 議 到 并 標 識 [0771452\n‘FOIBKCHCNBJX5300000000000}\n#2-01030000991231 CHASUS33XXXX000000000099123 10000N}\n43:(111:001}{121:de77bc94-dfba-4588-a1ad-b4ca6b28a60c}}\nKa:\n20:0771452129FS\n:238:CRED\n2A-240508USD1265,\n(33B:USD1265,\n-S0F/1TR090001001989970378985002\nJANGORA NETWORKS BILISIM TEKNOL OJ\nSANAYI ANONIM SIRKE\nORA NETWORKS BILISIM TEKNOL\nRJ06810 ANKARA",
+"extracted_at":"2026-10-22T07:38:31Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__1st_order_sample_3层10G_24口_48口__银行报文.jpg__f5bcdf61.jpg"
+}

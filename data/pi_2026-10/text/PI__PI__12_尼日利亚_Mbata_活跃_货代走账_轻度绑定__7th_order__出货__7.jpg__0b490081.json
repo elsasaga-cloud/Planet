@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__7th_order__出货__7.jpg__0b490081",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/7th order/出货/7.jpg",
+"name":"7.jpg",
+"ext":".jpg",
+"bytes":5951637,
+"sha256":"0b4900817ca56e3b764fdeb4c1a276e377f574c7cb69734da0e3052c791d7826",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":4032,
+"height":3024,
+"mode":"RGB",
+"thumb_bytes":13969
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T08:00:45Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__7th_order__出货__7.jpg__0b490081.jpg"
+}

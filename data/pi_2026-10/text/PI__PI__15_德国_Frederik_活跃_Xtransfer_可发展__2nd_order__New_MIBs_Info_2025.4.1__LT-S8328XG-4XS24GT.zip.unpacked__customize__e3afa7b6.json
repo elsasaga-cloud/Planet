@@ -1,0 +1,18 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__New_MIBs_Info_2025.4.1__LT-S8328XG-4XS24GT.zip.unpacked__customize__e3afa7b6",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/2nd order/New MIBs Info_2025.4.1/LT-S8328XG-4XS24GT.zip.unpacked/customize/config",
+"name":"config",
+"ext":"",
+"bytes":97,
+"sha256":"e3afa7b6729b9418e100af7e6c2b361c3f52c352a6d07ff62d42eece84cb9e62",
+"source":"PI.zip",
+"method":"none",
+"status":"meta",
+"meta":{},
+"warnings":[
+"no extractor for "
+],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:34:09Z"
+}

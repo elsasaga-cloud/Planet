@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__9th_order__采购_Hohunet__出货__1.png__22a6a714",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/9th order/采购_Hohunet/出货/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":99592,
+"sha256":"22a6a7140ad08338e790ba4d53dc0cd9372d3976af4f4718e0571ea49a9d69e8",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1725,
+"height":1141,
+"mode":"RGB",
+"thumb_bytes":7631
+},
+"warnings":[],
+"chars":602,
+"text":"Monitor\n‘Auto refresh | Manual ”| Refresh\nInterface Panel\nCopyright © switch . ll Rights Reserved.\nih Electrical [J Optical | MlActive 国 Inactive I Disabled\nDevice Information\nProduct ID Netstream-24X100G-SFI Image Name 24X100G-v3.0.21.r1.bin\nLocation 一 Weblmage Name flash:/weblmage2-v3.0.21.en.bin Serial Number H241226N00024,\nDevice Name Switch BootRom Version vid MAC Address D8:5B:22:21:0C:DA\nContact 一 Hardware Version Ww Uptime 0 days, 0 hours, 8 minutes\nSoftware switch, 3.0.21.r1 EPLD Version 0.0\nUsage Temperature Fan\nwoo soos\nan. ye . 7 本\n5% 20% . 7\nNass! Nass! 加\n圖 temperature Mok Mi failed",
+"extracted_at":"2026-10-22T08:03:43Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__9th_order__采购_Hohunet__出货__1.png__22a6a714.jpg"
+}

@@ -1,0 +1,25 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__出货图__WE0251000003330_德国_入仓标签.PDF__2bbc1d51",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/2nd order/出货图/WE0251000003330 德国 入仓标签.PDF",
+"name":"WE0251000003330 德国 入仓标签.PDF",
+"ext":".pdf",
+"bytes":18373,
+"sha256":"2bbc1d516755a54a8df2cdaef6da167b51149b88fa941660effc5f0d481fb163",
+"source":"PI.zip",
+"method":"pdfplumber",
+"status":"ok",
+"meta":{
+"pages":1,
+"creator":"PDFsharp 1.50.5147 (www.pdfsharp.com)",
+"producer":"PDFsharp 1.50.5147 (www.pdfsharp.com)",
+"creationdate":"D:20251009091439+08'00'",
+"ocr_pages":0
+},
+"warnings":[],
+"chars":77,
+"text":"[p1]\nEUA35 SE2510003173\nEUA35 UPS-CN → DE\nWE0251000003330 1-1\nSTSC20250915015",
+"pages":[
+"EUA35 SE2510003173\nEUA35 UPS-CN → DE\nWE0251000003330 1-1\nSTSC20250915015"
+],
+"extracted_at":"2026-10-22T07:33:58Z"
+}

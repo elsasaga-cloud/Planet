@@ -1,0 +1,199 @@
+{
+"id":"PI__PI__4_俄罗斯_Andrey_货代走账_可发展__1st_order__STSC20231122004.xls__380429c7",
+"path":"PI/PI/4 俄罗斯 Andrey 货代走账 可发展/1st order/STSC20231122004.xls",
+"name":"STSC20231122004.xls",
+"ext":".xls",
+"bytes":50176,
+"sha256":"380429c7701695b8abb2856d12834624c132825fb9a53d83d177f4f02eddb603",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Proforma Invoice"
+],
+"rows_total":37
+},
+"warnings":[],
+"chars":2308,
+"text":"--- Sheet: Proforma Invoice ---\nZhengzhou Saga Telecom Co., Ltd.\nAddress: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 15237149683                                                    www.sagatelecom.com.cn                                Email: s.sagatelecom@gmail.com\n**************************************************************************************************************************\nProforma  Invoice\nPO No.\t\t\tInvoice No.:\tSTSC20231122004\nBuyer:\tBitBook LLC\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t770099 91388\t\tIssued By:\tSimon Cheng\nEmail:\tinfo@bitbuk.ru\t\tInvoice Date:\t22nd, Nov, 2023\nContact Person:\tAndrey Tatarnikov\t\tPayment Term:\tT/T in advance, EXW\nShipping Address\t广州市白云区黄石西路472号 帝宝大厦468室/龚玉达收/13660886456\nModel\tSpecification\t\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSTC-28GPM\t2*Gigabit SFP+8*10/100/1000M RJ45+1*Console Port\nL2 managed, Support Routing, VLAN, MAC address, QoS,  IPV4/IPV6, Ring, STP/RSTP/MSTP, Web/Telnet/CLI/SSH...\nAC input, with internal AC-DC converter, metal case\nwith power cord, with mounting brackets\t\t\t2\t63\t126\tSample Units\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 268*181*44mm\nGross Weight: 3.24kg\nExchange Rate\tBy the date of payment/2023.11.22\t\t\t\t\t\t7.13\nTOTAL\t\t\t\t2\t\t898.38\nSAY TOTAL IN RMB EIGHT HUNDRED NINTY EIGHT POINT THREE EIGHT\n1. Payment: Full payment to the below bank account before shipment.\nBank Information\nBank Name: BANK OF CHINA HENAN BRANCH\nBank Address: HUANYUAN ROAD 40TH ZHENGZHOU CITY HENAN CHINA\nBeneficiary: Zhengzhou Saga Telecom Co., Ltd.\nCNY/USD Account No.: 255987045839\nSWIFT CODE: BKCHCNBJ530\n2. NOTE: Saga Telecom will not pay for any bank charge.\nPlease make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice.\n3. Leadtime: 5~10 working days\n4. Country of origin: China\n5. Non-brand packing, without Chinese letters or logo\nPackage Marks: None\nPacking list is available upon request\n6. Warranty: 1 year\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nBuyer: BitBook LLC\t\t\tSeller: Zhengzhou Saga Telecom Co., Ltd.\nAndrey Tatarnikov\t\t\tSimon Cheng\nAuthorized Signature\t\t\tAuthorized Signature",
+"sheets":{
+"Proforma Invoice":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 15237149683                                                    www.sagatelecom.com.cn                                Email: s.sagatelecom@gmail.com"
+],
+[
+"**************************************************************************************************************************"
+],
+[
+"Proforma  Invoice"
+],
+[
+"PO No.",
+"",
+"",
+"Invoice No.:",
+"STSC20231122004"
+],
+[
+"Buyer:",
+"BitBook LLC",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"770099 91388",
+"",
+"Issued By:",
+"Simon Cheng"
+],
+[
+"Email:",
+"info@bitbuk.ru",
+"",
+"Invoice Date:",
+"22nd, Nov, 2023"
+],
+[
+"Contact Person:",
+"Andrey Tatarnikov",
+"",
+"Payment Term:",
+"T/T in advance, EXW"
+],
+[
+"Shipping Address",
+"广州市白云区黄石西路472号 帝宝大厦468室/龚玉达收/13660886456"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"STC-28GPM",
+"2*Gigabit SFP+8*10/100/1000M RJ45+1*Console Port\nL2 managed, Support Routing, VLAN, MAC address, QoS,  IPV4/IPV6, Ring, STP/RSTP/MSTP, Web/Telnet/CLI/SSH...\nAC input, with internal AC-DC converter, metal case\nwith power cord, with mounting brackets",
+"",
+"",
+"2",
+"63",
+"126",
+"Sample Units"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 268*181*44mm\nGross Weight: 3.24kg"
+],
+[
+"Exchange Rate",
+"By the date of payment/2023.11.22",
+"",
+"",
+"",
+"",
+"",
+"7.13"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"2",
+"",
+"898.38"
+],
+[
+"SAY TOTAL IN RMB EIGHT HUNDRED NINTY EIGHT POINT THREE EIGHT"
+],
+[
+"1. Payment: Full payment to the below bank account before shipment."
+],
+[
+"Bank Information"
+],
+[
+"Bank Name: BANK OF CHINA HENAN BRANCH"
+],
+[
+"Bank Address: HUANYUAN ROAD 40TH ZHENGZHOU CITY HENAN CHINA"
+],
+[
+"Beneficiary: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"CNY/USD Account No.: 255987045839"
+],
+[
+"SWIFT CODE: BKCHCNBJ530"
+],
+[
+"2. NOTE: Saga Telecom will not pay for any bank charge."
+],
+[
+"Please make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice."
+],
+[
+"3. Leadtime: 5~10 working days"
+],
+[
+"4. Country of origin: China"
+],
+[
+"5. Non-brand packing, without Chinese letters or logo"
+],
+[
+"Package Marks: None"
+],
+[
+"Packing list is available upon request"
+],
+[
+"6. Warranty: 1 year"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Buyer: BitBook LLC",
+"",
+"",
+"Seller: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Andrey Tatarnikov",
+"",
+"",
+"Simon Cheng"
+],
+[
+"Authorized Signature",
+"",
+"",
+"Authorized Signature"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:46:32Z"
+}

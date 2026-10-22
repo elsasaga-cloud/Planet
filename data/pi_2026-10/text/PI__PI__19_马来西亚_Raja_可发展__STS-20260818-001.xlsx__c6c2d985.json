@@ -1,0 +1,256 @@
+{
+"id":"PI__PI__19_马来西亚_Raja_可发展__STS-20260818-001.xlsx__c6c2d985",
+"path":"PI/PI/19 马来西亚 Raja 可发展/STS-20260818-001.xlsx",
+"name":"STS-20260818-001.xlsx",
+"ext":".xlsx",
+"bytes":664759,
+"sha256":"c6c2d985470209b0c19380e1f428ca218f981106a88cc24ae0c56de7dde339a7",
+"source":"PI.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"Quotation"
+],
+"embedded_images":4,
+"rows_total":49
+},
+"warnings":[],
+"chars":3552,
+"text":"--- Sheet: Quotation ---\nSaga Telecom\nAn Engineering & Supply-Chain-First Telecom Partner\nBuilt to Last, Continuous Supply, Evolving Together\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 15237149683                                                     https://sagatele.com/                              Email: s.sagatelecom@gmail.com\n**********************************************************************************************************************\nQuotation\nBuyer:\tRaja King\t\tSeller:\tSaga Telecom\nContact Person:\tRaja King\t\tQuotation No.\tSTS-20260818-001\nTel:\t60 12-203 6165\t\tQuoted By:\tSimon\nEmail:\t#\t\tDate:\t18th, Aug, 2026\nShipping Address:\t#\nIncoterm: EXW\nDefinition\tExcluding origin export clearance, international freight, destination customs clearance, import duties, and on-carriage delivery to the shipping address after customs release\nModel\tSpecification\t\t\tQuantity \n(UNIT)\tUnit Price\n(RMB)\tAmount \n(RMB)\tRemark\nSeller: STI-288GP\n\nBuyer: Null\t\tIndustrial PoE Switch\n\n2*1G SFP+8*10/100/1000M RJ45/PoE \n8*PoE af/at, 240W, Unmanaged\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din Mounted\nWith Mounting Hanger, Without Optical Module, Without Power Adapter\t\t2\t400\t800\tSample\nTesting\n\tHS Code\t8517622990\n\tPacking Information\tProduct size: 130*98*48mm\nInner box size: 184*150*70mm\nProduct weight: 0.75Kg\nPacking weight: 0.9Kg\nSeller: STI-288GP\n\nBuyer: Null\t\tIndustrial PoE Switch\n\n2*1G SFP+16*10/100/1000M RJ45/PoE \n16*PoE af/at, 240W, Unmanaged\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din Mounted\nWith Mounting Hanger, Without Optical Module, Without Power Adapter\t\t4\t1140\t4560\tSample\nTesting\n\tHS Code\t8517622990\n\tPacking Information\tProduct size: 158*115*54mm\nInner box size: 230*180*70mm\nProduct weight: 1.2Kg\nPacking weight: 1.4Kg\nNDR-240-48\tOriginal Meanwell Unit\nCompatibble with above 2 models\t\t\t6\t170\t1020\nSTI-G20-SD\tOptical Module\n\nGigabit(1000M), 20KM Single-mode, Dual Fiber, 1310nm, LC port\nIndustrial grade, -40℃ to 75℃, Compatibble with above 2 models\t\t\t12\t50\t600\nSTI-G2-MD\tOptical Module\n\nGigabit(1000M), 2KM Multi-mode, Dual Fiber, 1310nm, LC port\nIndustrial grade, -40℃ to 75℃, Compatibble with above 2 models\t\t\t12\t50\t600\nFreight Cost\tShip the materials to client's forwarder in China\t\t\t\t\t0\nTOTAL\t\t\t\t36\t\t7580\nSAY TOTAL: RMB SEVEN THOUSAND FIVE HUNDRED AND EIGHTY ONLY\nAbout Import\nPlease do make sure client side could handle import customs clearance\nIf there is any problem with the shipment or clearance\n1, please let us know ASAP\n2, please call DHL/FedEx/UPS official number for information\nBusiness Term\n1. Price validity: 15 days\n2. Payment term\tSample: Full Payment by PayPal or T/T Wire\n\tBatch: Full Payment by T/T Wire\n\tBulk: 50% T/T Wire in advance and 50% BEFORE shipment\n3. MoQ: 1 piece\nSample: available\nLabel: customizable\nPartial shipment: negotiable\n4. Non-brand packing, without Chinese letters or logo\nNeutral device\n5. Country of origin: China\nCertificate of Origin is available upon request, please inform us BEFORE shipment if required\n6. Production time: 4~7 days (Excluding shipping time)\n7. Warranty: 3 years, lifetime technical support\nPurchased items are deemed accepted upon initial inspection if no written notice of defects is received within two (2) months from the delivery date\nThis acceptance clause shall not affect the validity of the warranty period\nPlease refer to \"warranty policy\" for more information",
+"sheets":{
+"Quotation":{
+"state":"visible",
+"rows":[
+[
+"Saga Telecom"
+],
+[
+"An Engineering & Supply-Chain-First Telecom Partner"
+],
+[
+"Built to Last, Continuous Supply, Evolving Together"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 15237149683                                                     https://sagatele.com/                              Email: s.sagatelecom@gmail.com"
+],
+[
+"**********************************************************************************************************************"
+],
+[
+"Quotation"
+],
+[
+"Buyer:",
+"Raja King",
+"",
+"Seller:",
+"Saga Telecom"
+],
+[
+"Contact Person:",
+"Raja King",
+"",
+"Quotation No.",
+"STS-20260818-001"
+],
+[
+"Tel:",
+"60 12-203 6165",
+"",
+"Quoted By:",
+"Simon"
+],
+[
+"Email:",
+"#",
+"",
+"Date:",
+"18th, Aug, 2026"
+],
+[
+"Shipping Address:",
+"#"
+],
+[
+"Incoterm: EXW\nDefinition",
+"Excluding origin export clearance, international freight, destination customs clearance, import duties, and on-carriage delivery to the shipping address after customs release"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(UNIT)",
+"Unit Price\n(RMB)",
+"Amount \n(RMB)",
+"Remark"
+],
+[
+"Seller: STI-288GP\n\nBuyer: Null",
+"",
+"Industrial PoE Switch\n\n2*1G SFP+8*10/100/1000M RJ45/PoE \n8*PoE af/at, 240W, Unmanaged\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din Mounted\nWith Mounting Hanger, Without Optical Module, Without Power Adapter",
+"",
+"2",
+"400",
+"800",
+"Sample\nTesting"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Product size: 130*98*48mm\nInner box size: 184*150*70mm\nProduct weight: 0.75Kg\nPacking weight: 0.9Kg"
+],
+[
+"Seller: STI-288GP\n\nBuyer: Null",
+"",
+"Industrial PoE Switch\n\n2*1G SFP+16*10/100/1000M RJ45/PoE \n16*PoE af/at, 240W, Unmanaged\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din Mounted\nWith Mounting Hanger, Without Optical Module, Without Power Adapter",
+"",
+"4",
+"1140",
+"4560",
+"Sample\nTesting"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Product size: 158*115*54mm\nInner box size: 230*180*70mm\nProduct weight: 1.2Kg\nPacking weight: 1.4Kg"
+],
+[
+"NDR-240-48",
+"Original Meanwell Unit\nCompatibble with above 2 models",
+"",
+"",
+"6",
+"170",
+"1020"
+],
+[
+"STI-G20-SD",
+"Optical Module\n\nGigabit(1000M), 20KM Single-mode, Dual Fiber, 1310nm, LC port\nIndustrial grade, -40℃ to 75℃, Compatibble with above 2 models",
+"",
+"",
+"12",
+"50",
+"600"
+],
+[
+"STI-G2-MD",
+"Optical Module\n\nGigabit(1000M), 2KM Multi-mode, Dual Fiber, 1310nm, LC port\nIndustrial grade, -40℃ to 75℃, Compatibble with above 2 models",
+"",
+"",
+"12",
+"50",
+"600"
+],
+[
+"Freight Cost",
+"Ship the materials to client's forwarder in China",
+"",
+"",
+"",
+"",
+"0"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"36",
+"",
+"7580"
+],
+[
+"SAY TOTAL: RMB SEVEN THOUSAND FIVE HUNDRED AND EIGHTY ONLY"
+],
+[
+"About Import"
+],
+[
+"Please do make sure client side could handle import customs clearance"
+],
+[
+"If there is any problem with the shipment or clearance"
+],
+[
+"1, please let us know ASAP"
+],
+[
+"2, please call DHL/FedEx/UPS official number for information"
+],
+[
+"Business Term"
+],
+[
+"1. Price validity: 15 days"
+],
+[
+"2. Payment term",
+"Sample: Full Payment by PayPal or T/T Wire"
+],
+[
+"",
+"Batch: Full Payment by T/T Wire"
+],
+[
+"",
+"Bulk: 50% T/T Wire in advance and 50% BEFORE shipment"
+],
+[
+"3. MoQ: 1 piece"
+],
+[
+"Sample: available"
+],
+[
+"Label: customizable"
+],
+[
+"Partial shipment: negotiable"
+],
+[
+"4. Non-brand packing, without Chinese letters or logo"
+],
+[
+"Neutral device"
+],
+[
+"5. Country of origin: China"
+],
+[
+"Certificate of Origin is available upon request, please inform us BEFORE shipment if required"
+],
+[
+"6. Production time: 4~7 days (Excluding shipping time)"
+],
+[
+"7. Warranty: 3 years, lifetime technical support"
+],
+[
+"Purchased items are deemed accepted upon initial inspection if no written notice of defects is received within two (2) months from the delivery date"
+],
+[
+"This acceptance clause shall not affect the validity of the warranty period"
+],
+[
+"Please refer to \"warranty policy\" for more information"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:49:00Z"
+}

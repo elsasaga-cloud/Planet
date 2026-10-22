@@ -1,0 +1,135 @@
+{
+"id":"PI__PI__20_土耳其_Burak_活跃_Xtransfer_轻度绑定__Netas_Info_Filled_2025.12.03__Supplier_Entry_Form_English_.xlsx__0d6ab516",
+"path":"PI/PI/20 土耳其 Burak 活跃 Xtransfer 轻度绑定/Netas Info Filled_2025.12.03/Supplier Entry Form(English).xlsx",
+"name":"Supplier Entry Form(English).xlsx",
+"ext":".xlsx",
+"bytes":14258,
+"sha256":"0d6ab516d95edc81fa8faa12edd94eaf173cd79873e0d5564b7520eb6ffaf854",
+"source":"PI.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"Sheet1"
+],
+"embedded_images":0,
+"rows_total":27
+},
+"warnings":[],
+"chars":931,
+"text":"--- Sheet: Sheet1 ---\nSUPPLIER INFORMATION FORM\nNEW SUPPLIER\tEXISTING SUPPLIER - REVISION\nSUPPLIER CODE ( NETS,PRBL,NETRD )\nSUPPLIER NAME\tZhengzhou Saga Telecom Co., Ltd.\nADDRESS\tRoom 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nPOST CODE\t450009\nCITY / COUNTRY\tZhengzhou, China\nTAX NUMBER\t91410104MACLDHX21U\nTAX OFFICE\tX\nSALES REFERENCE\tX\nTELEPHONE\t86-13048800964\nFAX\tX\nE-MAIL\ta.sagatelecom@gmail.com\nCURRENCY\tUSD\nLANGUAGE\tEnglish\nCONTACT (PURCHASE)-NETAŞ\tX\nTERMS OF PAYMENT\tX\nTERMS OF DELIVERY\tX\nPAYMENT METHOD\tT/T Advance 100%\nBANK NAME / BRANCH\tJPMorgan Chase Bank N.A., Hong Kong Branch\nZIP CODE & ADDRESS OF BANK\t18/F, 20/F, 22-29/F, CHATER HOUSE, 8 CONNAUGHT ROAD CENTRAL, HONG KONG\nSWIFT CODE\tCHASHKHH (CHASHKHHXXX * if 11 characters are required)\nACCOUNT NUMBER ( IBAN NO )\t63003662406\nBank Code:\t007\nBranch Code:\t863\nDATE\t45994\nAPPROVAL\tAlan, Director of Sales",
+"sheets":{
+"Sheet1":{
+"state":"visible",
+"rows":[
+[
+"SUPPLIER INFORMATION FORM"
+],
+[
+"NEW SUPPLIER",
+"EXISTING SUPPLIER - REVISION"
+],
+[
+"SUPPLIER CODE ( NETS,PRBL,NETRD )"
+],
+[
+"SUPPLIER NAME",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"ADDRESS",
+"Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"POST CODE",
+"450009"
+],
+[
+"CITY / COUNTRY",
+"Zhengzhou, China"
+],
+[
+"TAX NUMBER",
+"91410104MACLDHX21U"
+],
+[
+"TAX OFFICE",
+"X"
+],
+[
+"SALES REFERENCE",
+"X"
+],
+[
+"TELEPHONE",
+"86-13048800964"
+],
+[
+"FAX",
+"X"
+],
+[
+"E-MAIL",
+"a.sagatelecom@gmail.com"
+],
+[
+"CURRENCY",
+"USD"
+],
+[
+"LANGUAGE",
+"English"
+],
+[
+"CONTACT (PURCHASE)-NETAŞ",
+"X"
+],
+[
+"TERMS OF PAYMENT",
+"X"
+],
+[
+"TERMS OF DELIVERY",
+"X"
+],
+[
+"PAYMENT METHOD",
+"T/T Advance 100%"
+],
+[
+"BANK NAME / BRANCH",
+"JPMorgan Chase Bank N.A., Hong Kong Branch"
+],
+[
+"ZIP CODE & ADDRESS OF BANK",
+"18/F, 20/F, 22-29/F, CHATER HOUSE, 8 CONNAUGHT ROAD CENTRAL, HONG KONG"
+],
+[
+"SWIFT CODE",
+"CHASHKHH (CHASHKHHXXX * if 11 characters are required)"
+],
+[
+"ACCOUNT NUMBER ( IBAN NO )",
+"63003662406"
+],
+[
+"Bank Code:",
+"007"
+],
+[
+"Branch Code:",
+"863"
+],
+[
+"DATE",
+"45994"
+],
+[
+"APPROVAL",
+"Alan, Director of Sales"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:46:56Z"
+}

@@ -1,0 +1,132 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__JCSL-Custom_power_pcb.docx__53a77545",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/JCSL-Custom power pcb.docx",
+"name":"JCSL-Custom power pcb.docx",
+"ext":".docx",
+"bytes":2622513,
+"sha256":"53a77545f1ef2fec56b0834ea3d81e9f4f9a9739bfeb85f3e01aefe245e9e0b9",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"James Clendenan",
+"last_modified_by":"James Clendenan",
+"created":"2025-09-25T04:16:00+00:00",
+"modified":"2025-09-25T05:54:00+00:00",
+"paragraphs":21,
+"tables":0,
+"embedded_images":2
+},
+"warnings":[],
+"chars":1794,
+"text":"Goal of project\nRequest 1\n– Modify the Power PSU circuit board to have power and alarm contacts exit the BACK of the module.\nBoard can be extend past the holes by up to 1” more if needed. PCB Mounting Holes to remain where they are\nKeep connector profile facing into the middle of the board as it currently is.  Could be changed to Molex MiniFit-JR style for  power, and JST or similar for alarm contacts.\nRequest 2:\nAdd thermal sensor to Power board to monitor heat dissipation to chassis\nAdding and programming an i2c or i3c temperature sensor to monitor the heat from the power board to the chassis  - if and only if facilities exist in the marvell software to monitor it.\nRequest 3:\nAdd 2 pcs of fan headers for 3 or 4 pin fan and controls to run a 40mm PC fan using PWM and TAC support in OS\n(use Noctua 4 pin PWM 5v fan specifications: https://noctua.at/pub/media/wysiwyg/Noctua_PWM_specifications_white_paper.pdf)\nHeaders to be placed on back of board facing away from port edge for easy connection and disconnection\nRequest 4:\nProvide additional power DC-DC buck convertor to provide 75w of 12v DC to a connector on the back of the board.\nWe are currently adding an additional power buck converter to power the PC.  It would be great to have one less component to power from the external power supply.\nHeader using Molex - Mini Fit JR type connector, 2x2 pin out.\nRequirements\nTotal height not to exceed existing size between boards.\nAll tall components to be placed facing towards network board\nFinal system must continue to meet or be better than the requirements FCC and noise emission regulations required\nMust meet FCC Part 15 Class B, CE, RoHS\n[文本框]\nRotate power block  and circuitry 90 degrees\nAdd Alarm IN contact     to match Alarm out\nMinifit JR  out\nDC DC 12v DC buck circuit",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Goal of project"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"Request 1"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"– Modify the Power PSU circuit board to have power and alarm contacts exit the BACK of the module."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Board can be extend past the holes by up to 1” more if needed. PCB Mounting Holes to remain where they are"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Keep connector profile facing into the middle of the board as it currently is.  Could be changed to Molex MiniFit-JR style for  power, and JST or similar for alarm contacts."
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"Request 2:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Add thermal sensor to Power board to monitor heat dissipation to chassis"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Adding and programming an i2c or i3c temperature sensor to monitor the heat from the power board to the chassis  - if and only if facilities exist in the marvell software to monitor it."
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"Request 3:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Add 2 pcs of fan headers for 3 or 4 pin fan and controls to run a 40mm PC fan using PWM and TAC support in OS"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(use Noctua 4 pin PWM 5v fan specifications: https://noctua.at/pub/media/wysiwyg/Noctua_PWM_specifications_white_paper.pdf)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Headers to be placed on back of board facing away from port edge for easy connection and disconnection"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"Request 4:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Provide additional power DC-DC buck convertor to provide 75w of 12v DC to a connector on the back of the board."
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"We are currently adding an additional power buck converter to power the PC.  It would be great to have one less component to power from the external power supply."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Header using Molex - Mini Fit JR type connector, 2x2 pin out."
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"Requirements"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Total height not to exceed existing size between boards."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"All tall components to be placed facing towards network board"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Final system must continue to meet or be better than the requirements FCC and noise emission regulations required"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Must meet FCC Part 15 Class B, CE, RoHS"
+}
+],
+"extracted_at":"2026-10-22T07:55:30Z"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__出货图__7.jpg__ecaa355d",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/2nd order/出货图/7.jpg",
+"name":"7.jpg",
+"ext":".jpg",
+"bytes":657640,
+"sha256":"ecaa355d255dba1d529cd6151c8446bf7cd5b9efea538d55b22cc9307ef78a92",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":3344,
+"height":1227,
+"mode":"RGB",
+"thumb_bytes":5363
+},
+"warnings":[],
+"chars":242,
+"text":"Commercial Switch\nModel; STC-4168XGGCM\nPorts: 16*100/1000M SFP+ 8*1G Combo + 4#1G/2, SG/10G SFP+\nPower supply: Dual AC input, 100-240V\nChipset: Marvell Based:\nIN SS\nMAC: FC-CD-2F-D0-4F-DB_\nUser name: admin,\nAP: 192.168.536.166\nPassword: admin",
+"extracted_at":"2026-10-22T07:34:01Z",
+"thumb":"thumbs/PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__出货图__7.jpg__ecaa355d.jpg"
+}

@@ -1,0 +1,188 @@
+{
+"id":"PI__PI__20_土耳其_Burak_活跃_Xtransfer_轻度绑定__Quotation_2025.12.09.xls__6c5ed4f1",
+"path":"PI/PI/20 土耳其 Burak 活跃 Xtransfer 轻度绑定/Quotation_2025.12.09.xls",
+"name":"Quotation_2025.12.09.xls",
+"ext":".xls",
+"bytes":5648384,
+"sha256":"6c5ed4f1d2d0230b09b3bb67fd8b7774ca04910855dd4bcc56733c2d465046e5",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Proforma Invoice"
+],
+"rows_total":36
+},
+"warnings":[],
+"chars":2642,
+"text":"--- Sheet: Proforma Invoice ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 13048800964                                          www.sagatelecom.com.cn                                Email: a.sagatelecom@gmail.com\n*********************************************************************************************************************\nQuotation\nBuyer:\tNetas\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t90 53486 02136\t\tQuoted By:\tAlan\nEmail:\tebulut@netas.com.tr\t\tDate:\t9th, Dec, 2025\nContact Person:\tEnder Bulut\t\tPrice Term:\tT/T in advance, DAP but without customs clearance\nDestination\tTurkey\nModel\tSpecification\t\t\tQuantity \n(PCS)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSeller\nSTI-488DGGPM-2BT\n\nBuyer\n#\t\tIndustrial PoE Managed Switch\n\n4*1G/2.5G SFP+8*10/100/1000M RJ45/PoE +1*Console Port\n6*PoE af/at+2*PoE af/at/bt\n240W, L2+ Managed\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), Din Mounted\nWith Mounting Hanger, Without Power Supply\nWithout Optical Module\n\n1, Without DI/DO/RS485 Function\n2, -40℃~+ 75℃@240W PoE Output\t\t3\t150\t450\tMarvell Chip\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 158*115*54mm\nNet Weight: 1.2Kg\nGross Weight: 1.4Kg\nFreight Cost\t70usd for about 5Kg volume weight to Turkey by UPS\nAir, door-to-door service\n4~6 calendar days to reach at local customs for clearance\t\t\t\t\t70\nBank Cost\tStandard Charge in EACH Order\t\t\t\t\t25\nTOTAL\t\t\t\t3\t\t545\nSAY TOTAL IN USD FIVE HUNDRED AND FORTY FIVE DOLLARS\nRemark\nPlease do make sure client side could handle import customs clearance\nIf there is any problem with the shipment or clearance\n1, please let us know ASAP\n2, please call DHL/FedEx/UPS official number for information\nPrice validity: 15 days\nSaga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply\nNon-brand packing, without Chinese letters or logo\nNeutral device\nCountry of origin: China\nProduction time: 5~7 working days(NOT including shipping time)\nPlease note that, according to our company policy, sample testing MUST last for 5 working days before shipment to ensure stable performance\nIncoterms: DAP, excluding destination customs clearance & import duties, but including on-carriage delivery after customs release\nWarranty: 3 years, lifetime technical support\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery\nPlease refer to \"warranty policy\" for more information",
+"sheets":{
+"Proforma Invoice":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Tailored Marvell Managed Networking Solutions Provider"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 13048800964                                          www.sagatelecom.com.cn                                Email: a.sagatelecom@gmail.com"
+],
+[
+"*********************************************************************************************************************"
+],
+[
+"Quotation"
+],
+[
+"Buyer:",
+"Netas",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"90 53486 02136",
+"",
+"Quoted By:",
+"Alan"
+],
+[
+"Email:",
+"ebulut@netas.com.tr",
+"",
+"Date:",
+"9th, Dec, 2025"
+],
+[
+"Contact Person:",
+"Ender Bulut",
+"",
+"Price Term:",
+"T/T in advance, DAP but without customs clearance"
+],
+[
+"Destination",
+"Turkey"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(PCS)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"Seller\nSTI-488DGGPM-2BT\n\nBuyer\n#",
+"",
+"Industrial PoE Managed Switch\n\n4*1G/2.5G SFP+8*10/100/1000M RJ45/PoE +1*Console Port\n6*PoE af/at+2*PoE af/at/bt\n240W, L2+ Managed\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), Din Mounted\nWith Mounting Hanger, Without Power Supply\nWithout Optical Module\n\n1, Without DI/DO/RS485 Function\n2, -40℃~+ 75℃@240W PoE Output",
+"",
+"3",
+"150",
+"450",
+"Marvell Chip"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 158*115*54mm\nNet Weight: 1.2Kg\nGross Weight: 1.4Kg"
+],
+[
+"Freight Cost",
+"70usd for about 5Kg volume weight to Turkey by UPS\nAir, door-to-door service\n4~6 calendar days to reach at local customs for clearance",
+"",
+"",
+"",
+"",
+"70"
+],
+[
+"Bank Cost",
+"Standard Charge in EACH Order",
+"",
+"",
+"",
+"",
+"25"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"3",
+"",
+"545"
+],
+[
+"SAY TOTAL IN USD FIVE HUNDRED AND FORTY FIVE DOLLARS"
+],
+[
+"Remark"
+],
+[
+"Please do make sure client side could handle import customs clearance"
+],
+[
+"If there is any problem with the shipment or clearance"
+],
+[
+"1, please let us know ASAP"
+],
+[
+"2, please call DHL/FedEx/UPS official number for information"
+],
+[
+"Price validity: 15 days"
+],
+[
+"Saga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply"
+],
+[
+"Non-brand packing, without Chinese letters or logo"
+],
+[
+"Neutral device"
+],
+[
+"Country of origin: China"
+],
+[
+"Production time: 5~7 working days(NOT including shipping time)"
+],
+[
+"Please note that, according to our company policy, sample testing MUST last for 5 working days before shipment to ensure stable performance"
+],
+[
+"Incoterms: DAP, excluding destination customs clearance & import duties, but including on-carriage delivery after customs release"
+],
+[
+"Warranty: 3 years, lifetime technical support"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery"
+],
+[
+"Please refer to \"warranty policy\" for more information"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:46:45Z"
+}

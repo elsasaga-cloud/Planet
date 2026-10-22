@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__2_印度_Rishi_gg__1st_order__Payment_receipt_1.png__4da642d0",
+"path":"PI/PI/2 印度 Rishi gg/1st order/Payment receipt 1.png",
+"name":"Payment receipt 1.png",
+"ext":".png",
+"bytes":116897,
+"sha256":"4da642d0ffc598e265372364cd7f66069e63a8924a2bfe6b32895399d8ce095c",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":4621
+},
+"warnings":[],
+"chars":52,
+"text":"¥ 1595.05\n货款 /STSC20230927002 Edit\n1 2 3\n4 5 6\n7 8 9",
+"extracted_at":"2026-10-22T07:31:23Z",
+"thumb":"thumbs/PI__PI__2_印度_Rishi_gg__1st_order__Payment_receipt_1.png__4da642d0.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__3_赞比亚_Pythias_gg__采购_Smartbyte__IPPC认证欧规免熏蒸的天然木托板.png__6567b4e8",
+"path":"PI/PI/3  赞比亚 Pythias gg/采购_Smartbyte/IPPC认证欧规免熏蒸的天然木托板.png",
+"name":"IPPC认证欧规免熏蒸的天然木托板.png",
+"ext":".png",
+"bytes":865532,
+"sha256":"6567b4e8b665139916f1344ffcb4d1ed0836d62c82483314ac9edef89e034dd0",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":903,
+"height":420,
+"mode":"RGBA",
+"thumb_bytes":10855
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:48:10Z",
+"thumb":"thumbs/PI__PI__3_赞比亚_Pythias_gg__采购_Smartbyte__IPPC认证欧规免熏蒸的天然木托板.png__6567b4e8.jpg"
+}

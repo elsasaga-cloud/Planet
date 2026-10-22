@@ -1,0 +1,72 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__5th_order_sample_2层10G_24口_48口__label_confirmation.docx__fe6ef33e",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/5th order sample  2层10G 24口 48口/label confirmation.docx",
+"name":"label confirmation.docx",
+"ext":".docx",
+"bytes":185632,
+"sha256":"fe6ef33e01c9130c8c6e2e7b4c0df9ea319294a06c281e40df3761ff0455fbc0",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2025-05-29T08:51:00+00:00",
+"modified":"2025-05-30T13:05:48+00:00",
+"paragraphs":9,
+"tables":0,
+"embedded_images":3
+},
+"warnings":[],
+"chars":496,
+"text":"按照这2个标打就行，和上个订单（STSC20250507007）一样的需求\n只需换一下MAC和Serial就行了（采购合同_STSC20250526007中写了）\n另外请准备1份新的标签 TronX版本\nMAC和Serial和上述Angora一样\n不同之处\nANGORA NETWORKS改为 TRONX(全部大写)\n第二行把VERGE SERIES去掉，只保留ETHERNET SWITCHES\nLOGO换为TronX的\n2份标签都不贴，装箱随货发出就行了\n[页眉页脚]\n2025/Q2\t\t\t \t                                                                             s.sagatelecom@gmail.com\n\t\t\t\t\t\t\t                                                                       Saga Telecom\nwww.sagatelecom.com.cn\nConnecting, Converting, Creating",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"按照这2个标打就行，和上个订单（STSC20250507007）一样的需求"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"只需换一下MAC和Serial就行了（采购合同_STSC20250526007中写了）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"另外请准备1份新的标签 TronX版本"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MAC和Serial和上述Angora一样"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不同之处"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"ANGORA NETWORKS改为 TRONX(全部大写)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"第二行把VERGE SERIES去掉，只保留ETHERNET SWITCHES"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LOGO换为TronX的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2份标签都不贴，装箱随货发出就行了"
+}
+],
+"extracted_at":"2026-10-22T07:45:10Z"
+}

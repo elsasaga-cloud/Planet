@@ -1,0 +1,87 @@
+{
+"id":"PI__PI__4_俄罗斯_Andrey_货代走账_可发展__1st_order__label_content.docx__12ff8c63",
+"path":"PI/PI/4 俄罗斯 Andrey 货代走账 可发展/1st order/label content.docx",
+"name":"label content.docx",
+"ext":".docx",
+"bytes":65612,
+"sha256":"12ff8c63aba0bddfb6d3c5b7faa5dd3f766394a595aee30c9634c30af5396264",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2023-11-22T11:28:00+00:00",
+"modified":"2023-11-22T11:32:59+00:00",
+"paragraphs":12,
+"tables":0,
+"embedded_images":2
+},
+"warnings":[],
+"chars":332,
+"text":"以上次出货标签为基础做以下更改\nport Hybrid rate POE switch改为\nport Gigabit POE Managed Switch\nSTC-128GFP改为\nSTC-28GPM\n8*10/100M POE Ports+ 2*10/100/1000M Ethernet Uplink Ports + 1*Gigabit SFP Uplink\n改为\n8*10/100/1000M POE Ports+ 2*Gigabit SFP Uplink, L2 Managed\nS/N-11/Hybrid20230731001改为\nS/N-10/1000M20231122001\n第二台就是S/N-10/1000M20231122002\n其他内容不做变动",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"以上次出货标签为基础做以下更改"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"port Hybrid rate POE switch改为"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"port Gigabit POE Managed Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STC-128GFP改为"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STC-28GPM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8*10/100M POE Ports+ 2*10/100/1000M Ethernet Uplink Ports + 1*Gigabit SFP Uplink"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"改为"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8*10/100/1000M POE Ports+ 2*Gigabit SFP Uplink, L2 Managed"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"S/N-11/Hybrid20230731001改为"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"S/N-10/1000M20231122001"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"第二台就是S/N-10/1000M20231122002"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"其他内容不做变动"
+}
+],
+"extracted_at":"2026-10-22T07:46:32Z"
+}

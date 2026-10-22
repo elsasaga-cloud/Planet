@@ -1,0 +1,26 @@
+{
+"id":"PI__PI__11_新加坡_Au_gg__Certificate_of_Warranty.pdf__dc907130",
+"path":"PI/PI/11 新加坡 Au gg/Certificate of Warranty.pdf",
+"name":"Certificate of Warranty.pdf",
+"ext":".pdf",
+"bytes":903943,
+"sha256":"dc9071307e2bbbb0dce6a5d74fbbd7686a33747e94903965368b8e585b021280",
+"source":"PI.zip",
+"method":"pdfplumber+OCR(1p)",
+"status":"ok",
+"meta":{
+"pages":1,
+"creator":"Adobe Photoshop CS6 (Windows)",
+"producer":"Adobe Photoshop for Windows -- Image Conversion Plug-in",
+"creationdate":"D:20240403155009+08'00'",
+"moddate":"D:20240909102642+08'00'",
+"ocr_pages":1
+},
+"warnings":[],
+"chars":1002,
+"text":"[p1]\ns.sagatelecom@gmail.com\nSaga Telecom\nwww.sagatelecom.com.cn\nCertificate of Warranty\nDate: 2024.9.9\nSaga Telecom warrants that commercial Ethernet switch STC-O8XGWE/R ~Nets 10U-MG\npurchased by Resonant Networks Pte Ltd with business address at 81 Ubi Avenue 4 #09-28\nUB. One Singapore 408830 shall be free from defects in material, workmanship and\nmanufacturing for a period of one (1) year from the date of delivery.\nWarranty Period: 9th, Sept, 2024-9th, Sept, 2025\nSaga Telecom also warrants that all products meet the specifications requirement\naccordance to the mandatory and normative requirements as described in the specifications.\nAll warranties shall be subject to the installation, operation and maintenance practices\nand testing environment described in the standards.\nSerial Reference Number\nBox 1: STC-O8XGWE/R ~Nets 10U-MG, 202408300001\nTotal Quantity: 1 piece only, 1 box only\nContract Reference Number\nPI Number: $TSC20240821011\nPO Number: SGP250051\nConnecting, Converting, Creating",
+"pages":[
+"s.sagatelecom@gmail.com\nSaga Telecom\nwww.sagatelecom.com.cn\nCertificate of Warranty\nDate: 2024.9.9\nSaga Telecom warrants that commercial Ethernet switch STC-O8XGWE/R ~Nets 10U-MG\npurchased by Resonant Networks Pte Ltd with business address at 81 Ubi Avenue 4 #09-28\nUB. One Singapore 408830 shall be free from defects in material, workmanship and\nmanufacturing for a period of one (1) year from the date of delivery.\nWarranty Period: 9th, Sept, 2024-9th, Sept, 2025\nSaga Telecom also warrants that all products meet the specifications requirement\naccordance to the mandatory and normative requirements as described in the specifications.\nAll warranties shall be subject to the installation, operation and maintenance practices\nand testing environment described in the standards.\nSerial Reference Number\nBox 1: STC-O8XGWE/R ~Nets 10U-MG, 202408300001\nTotal Quantity: 1 piece only, 1 box only\nContract Reference Number\nPI Number: $TSC20240821011\nPO Number: SGP250051\nConnecting, Converting, Creating"
+],
+"extracted_at":"2026-10-22T07:51:01Z"
+}

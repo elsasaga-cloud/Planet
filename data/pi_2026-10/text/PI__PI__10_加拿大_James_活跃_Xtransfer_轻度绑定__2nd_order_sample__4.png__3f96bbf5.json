@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__2nd_order_sample__4.png__3f96bbf5",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/2nd order sample/4.png",
+"name":"4.png",
+"ext":".png",
+"bytes":58463,
+"sha256":"3f96bbf5660f9a91e66b9cc2220c75b85a8fc003f89fd0e24f0937d05d684724",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1041,
+"height":521,
+"mode":"RGBA",
+"thumb_bytes":11411
+},
+"warnings":[],
+"chars":243,
+"text":"Industrial Switch\nModel: SW-3200-8GP-4S+\nPorts: 8*10/100/1000M RJ45 PoE + 4*1G/2.5G/10G SFP+\nPower input: DC 44-57V\nPoE Budget: 240W\nPU UU a=\nSN: 20241225001\nTP Address: 192.168.1.30 MAC: FC-CD-2F-D0-45-97 AN 及\nUser name: admin Password: admin",
+"extracted_at":"2026-10-22T07:56:38Z",
+"thumb":"thumbs/PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__2nd_order_sample__4.png__3f96bbf5.jpg"
+}

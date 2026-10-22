@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__1st_order__入账记录_10.25.PNG__75950841",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/1st order/入账记录 10.25.PNG",
+"name":"入账记录 10.25.PNG",
+"ext":".png",
+"bytes":113522,
+"sha256":"75950841a0f5496b433604c5c42f4da7e363d53df526f89c9feeca741adc3b8e",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":5608
+},
+"warnings":[],
+"chars":249,
+"text":"6:32\n=>\nall > @\n交易 详情 g .时\nQ 种 尽\n+ ¥ 13,083.00\n交易 卡号\n交易 时 间\n付款 账号\n转账 附 言\n4s\n刀\n=\n米\n大\n所 属 账本\n电子 收据\n给 TA 转 账\nRRM ¥ 13,918.05\n一 卡通 6214********1962\n2024-10-25 11:35:42\n中 國 民生 銀行 股份 有 限 公司 佛山\n禪 城 支 行\n6226********5261\n网 银 转账\n汇 入 汇款\n价值 约 1 元 黄金 红包\n查看 往来 记录",
+"extracted_at":"2026-10-22T07:55:23Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__1st_order__入账记录_10.25.PNG__75950841.jpg"
+}

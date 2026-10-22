@@ -1,0 +1,24 @@
+{
+"id":"PI__PI__11_新加坡_Au_gg__WE02409004687_STSC20240821011_UPS_运单标签.pdf__115e4bc0",
+"path":"PI/PI/11 新加坡 Au gg/WE02409004687_STSC20240821011_UPS_运单标签.pdf",
+"name":"WE02409004687_STSC20240821011_UPS_运单标签.pdf",
+"ext":".pdf",
+"bytes":42933,
+"sha256":"115e4bc0cd69bf0bc02bbaac0557cb1bb3fcadecf22ec10a2f1e0ee4c2d7b29b",
+"source":"PI.zip",
+"method":"pdfplumber+OCR(1p)",
+"status":"ok",
+"meta":{
+"pages":1,
+"producer":"PDFsharp 1.50.4000-netstandard (https://github.com/ststeiger/PdfSharpCore) (Original: iText® 5.5.0 ©2000-2013 iText Group NV (AGPL-version) (Cropped by pdfCropMargins.); modified using iText® 5.5.0 ©2",
+"moddate":"D:20260928143610+08'00'",
+"ocr_pages":1
+},
+"warnings":[],
+"chars":349,
+"text":"[p1]\n518103 SHENZHEN\nIADY GU.\neee counenceco 1 KE nel\n220 BUILDING A3 Ap THIRD: INDU SH eo 7oFH RD3\nDATE: 07 SEP 2024\nCHINA MAINLAND.\nSHIP TO:\nAI CHOON\n6597340606\nRESONANT NETWORKS PTE LTD\n81 UBI AVENUE 4 09-28 UB, ONE\nSINGAPORE 408830\nSINGAPORE\nSGP 256 2-00\nUPS SAVER\nTRACKING #: 1Z GO7 320 04 3843 9181\n人\nNT | P/P\nDESC: Commercial Switch\noo\nEDI\nnn",
+"pages":[
+"518103 SHENZHEN\nIADY GU.\neee counenceco 1 KE nel\n220 BUILDING A3 Ap THIRD: INDU SH eo 7oFH RD3\nDATE: 07 SEP 2024\nCHINA MAINLAND.\nSHIP TO:\nAI CHOON\n6597340606\nRESONANT NETWORKS PTE LTD\n81 UBI AVENUE 4 09-28 UB, ONE\nSINGAPORE 408830\nSINGAPORE\nSGP 256 2-00\nUPS SAVER\nTRACKING #: 1Z GO7 320 04 3843 9181\n人\nNT | P/P\nDESC: Commercial Switch\noo\nEDI\nnn"
+],
+"extracted_at":"2026-10-22T07:51:06Z"
+}

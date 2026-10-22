@@ -1,0 +1,25 @@
+{
+"id":"PI__PI__17_英国_Chris_PayPal_可发展__Shipment_Info__AWB.pdf__f075a1e6",
+"path":"PI/PI/17 英国 Chris PayPal 可发展/Shipment Info/AWB.pdf",
+"name":"AWB.pdf",
+"ext":".pdf",
+"bytes":8482,
+"sha256":"f075a1e681b9383506afc0c6eb182429c570bf8b841ec2f381c01f1981c83c54",
+"source":"PI.zip",
+"method":"pdfplumber",
+"status":"ok",
+"meta":{
+"pages":1,
+"creator":"PDFsharp 1.50.4000-netstandard (https://github.com/ststeiger/PdfSharpCore)",
+"producer":"PDFsharp 1.50.4000-netstandard (https://github.com/ststeiger/PdfSharpCore)",
+"moddate":"D:20250909090427+08'00'",
+"ocr_pages":0
+},
+"warnings":[],
+"chars":221,
+"text":"[p1]\nGOGREENIT\nTHE POPLARS,BURLEIGH DRIVE DERBY\nDERBY DE DE22 1AL (GB)\n447770916901 REF: 1102509001202\nINV:\nPO: DEPT:\nTRK#\n0430\nH1 QQXE\n2F95/E051/2JG85\nA1\n8840 0096 1870 INTL ECONOMY\nETD\nDE22 1AL\nEMA\nDE-GB\nvu203260520352J",
+"pages":[
+"GOGREENIT\nTHE POPLARS,BURLEIGH DRIVE DERBY\nDERBY DE DE22 1AL (GB)\n447770916901 REF: 1102509001202\nINV:\nPO: DEPT:\nTRK#\n0430\nH1 QQXE\n2F95/E051/2JG85\nA1\n8840 0096 1870 INTL ECONOMY\nETD\nDE22 1AL\nEMA\nDE-GB\nvu203260520352J"
+],
+"extracted_at":"2026-10-22T07:59:50Z"
+}

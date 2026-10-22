@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__出货图__9.png__f1e719f2",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/2nd order/出货图/9.png",
+"name":"9.png",
+"ext":".png",
+"bytes":15401,
+"sha256":"f1e719f2f41ac5db5de235c483b6ef8339b8d061bcb548dba84f15ccc57028cb",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":579,
+"height":571,
+"mode":"RGB",
+"thumb_bytes":13871
+},
+"warnings":[],
+"chars":135,
+"text":"Product name: Commercial Switch\nModel: STC-4168XGGCM\nQty: 1 PC 人 ID\n1\nSN: UETITENTTTTTT WT\n202509160001\nWeight: 5.5 KG\nCarton No.: 1 /1",
+"extracted_at":"2026-10-22T07:33:59Z",
+"thumb":"thumbs/PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__出货图__9.png__f1e719f2.jpg"
+}

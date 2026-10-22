@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__8_俄罗斯_Igor_gg__出货__STI-080GE__3.jpg__8320dadb",
+"path":"PI/PI/8 俄罗斯 Igor gg/出货/STI-080GE/3.jpg",
+"name":"3.jpg",
+"ext":".jpg",
+"bytes":148805,
+"sha256":"8320dadb5afb4ce20cd10037b3d2f9267fbd7726e01d5b536f8aa37f48ec5ef5",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1706,
+"height":1279,
+"mode":"RGB",
+"thumb_bytes":9808
+},
+"warnings":[],
+"chars":121,
+"text":"Industrial Switch\nModel: STI-080(\nPorts: 8*10/100/1000M RJ45\nPower input: DC 12-58V CC FE\n六\nSN: 20240523003\nMade in China",
+"extracted_at":"2026-10-22T07:35:06Z",
+"thumb":"thumbs/PI__PI__8_俄罗斯_Igor_gg__出货__STI-080GE__3.jpg__8320dadb.jpg"
+}

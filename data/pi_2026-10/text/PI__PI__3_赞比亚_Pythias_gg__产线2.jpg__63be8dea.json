@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__3_赞比亚_Pythias_gg__产线2.jpg__63be8dea",
+"path":"PI/PI/3  赞比亚 Pythias gg/产线2.jpg",
+"name":"产线2.jpg",
+"ext":".jpg",
+"bytes":2245224,
+"sha256":"63be8deab576b4774a302caf654dad178705203e460df5c4dfaef4fdd1be29a7",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":4032,
+"height":3024,
+"mode":"RGB",
+"thumb_bytes":16856
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:47:55Z",
+"thumb":"thumbs/PI__PI__3_赞比亚_Pythias_gg__产线2.jpg__63be8dea.jpg"
+}

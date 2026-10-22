@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__3_赞比亚_Pythias_gg__采购_Hrui__出货图__11.jpg__8ff032ef",
+"path":"PI/PI/3  赞比亚 Pythias gg/采购_Hrui/出货图/11.jpg",
+"name":"11.jpg",
+"ext":".jpg",
+"bytes":140952,
+"sha256":"8ff032efe68e4038b6351c6329e9e11b01e272007aac5e027cc62c9da15726e8",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1280,
+"height":1881,
+"mode":"RGB",
+"thumb_bytes":5826
+},
+"warnings":[],
+"chars":83,
+"text":"Commercial Managed Switch\nUser Manual\n(Please do notuse until you read this manual)",
+"extracted_at":"2026-10-22T07:48:44Z",
+"thumb":"thumbs/PI__PI__3_赞比亚_Pythias_gg__采购_Hrui__出货图__11.jpg__8ff032ef.jpg"
+}

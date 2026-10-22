@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__18_阿联酋_Sanjay_可发展__货款支付记录.png__1ea12ead",
+"path":"PI/PI/18 阿联酋 Sanjay 可发展/货款支付记录.png",
+"name":"货款支付记录.png",
+"ext":".png",
+"bytes":94966,
+"sha256":"1ea12ead737aafd38511005814e9c86a2db00fd9df8c1f2656a2c14fc20710fe",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":5673
+},
+"warnings":[],
+"chars":197,
+"text":"3:23 了\n收 款 账户\n付款 账户\n转账 附 言\n转账 渠 道\n转账 方式\n© 转账 完成\n=>\nall > &G\n转账 记录 查询 =\n转 给 罗 辉\n-¥ 1,065.00\n6214 3913 3000 0617 588\n6214********1962\n转账\n手机 银行\n电子 银行 转账\nae\nri\n(ot\na\n2025-12-04 15:23:03\n查看 和 TA 的 转账 记录",
+"extracted_at":"2026-10-22T07:58:33Z",
+"thumb":"thumbs/PI__PI__18_阿联酋_Sanjay_可发展__货款支付记录.png__1ea12ead.jpg"
+}

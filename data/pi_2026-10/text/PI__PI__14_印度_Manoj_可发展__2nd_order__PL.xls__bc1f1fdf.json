@@ -1,0 +1,134 @@
+{
+"id":"PI__PI__14_印度_Manoj_可发展__2nd_order__PL.xls__bc1f1fdf",
+"path":"PI/PI/14 印度 Manoj 可发展/2nd order/PL.xls",
+"name":"PL.xls",
+"ext":".xls",
+"bytes":147456,
+"sha256":"bc1f1fdf4644d0f1423f6292b08fb28cb456ed1d963d31683ce5b44769a26cac",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Packing List"
+],
+"rows_total":16
+},
+"warnings":[],
+"chars":723,
+"text":"--- Sheet: Packing List ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nMob/WhatsApp/WeChat: 86 15237149683\nWeb:www.sagatelecom.com.cn\nEmail: s.sagatelecom@gmail.com\nPacking  List\nDate\t2025.1.13\t\t\t\t\t\t\t\tPO No.\nShip To\tSundar Techno Solutions\t\t\t\t\t\t\t\tC/I No.\tSTSC20250107014\nShipping Add.\t#24/106, 8th B main road, 11th cross, Ananthnagar phase 1, Electronic City phase 2, Bangalore 560100, India\t\t\t\t\t\t\t\tP/L No.\tPL20250113001\nC/No.:\tDESCRIPTION\tQTY/CTN\tQTY/PCS\tCTNS\tN.W/KGS\tG.W/KGS\tLENGTH/CM\tWIDTH/CM\tHEIGHT/CM\tMEAS/CM³\n1\tIndustrial Switch\t1\t5\t1\t6\t7\t44\t37.5\t13\t0.02145\nTOTAL\t\t\t5\t1\t6\t7\t\t\t\t0.02145\nSAY TOTAL: ONE(1)CARTONS ONLY\nQUANTITY: SIX PCS ONLY\nIssued by: Zhengzhou Saga Telecom Co., Ltd.\nSimon Cheng",
+"sheets":{
+"Packing List":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Mob/WhatsApp/WeChat: 86 15237149683"
+],
+[
+"Web:www.sagatelecom.com.cn"
+],
+[
+"Email: s.sagatelecom@gmail.com"
+],
+[
+"Packing  List"
+],
+[
+"Date",
+"2025.1.13",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"PO No."
+],
+[
+"Ship To",
+"Sundar Techno Solutions",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"C/I No.",
+"STSC20250107014"
+],
+[
+"Shipping Add.",
+"#24/106, 8th B main road, 11th cross, Ananthnagar phase 1, Electronic City phase 2, Bangalore 560100, India",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"P/L No.",
+"PL20250113001"
+],
+[
+"C/No.:",
+"DESCRIPTION",
+"QTY/CTN",
+"QTY/PCS",
+"CTNS",
+"N.W/KGS",
+"G.W/KGS",
+"LENGTH/CM",
+"WIDTH/CM",
+"HEIGHT/CM",
+"MEAS/CM³"
+],
+[
+"1",
+"Industrial Switch",
+"1",
+"5",
+"1",
+"6",
+"7",
+"44",
+"37.5",
+"13",
+"0.02145"
+],
+[
+"TOTAL",
+"",
+"",
+"5",
+"1",
+"6",
+"7",
+"",
+"",
+"",
+"0.02145"
+],
+[
+"SAY TOTAL: ONE(1)CARTONS ONLY"
+],
+[
+"QUANTITY: SIX PCS ONLY"
+],
+[
+"Issued by: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Simon Cheng"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:35:22Z"
+}

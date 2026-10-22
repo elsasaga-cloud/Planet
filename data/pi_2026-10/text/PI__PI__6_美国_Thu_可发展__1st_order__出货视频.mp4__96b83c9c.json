@@ -1,0 +1,24 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__1st_order__出货视频.mp4__96b83c9c",
+"path":"PI/PI/6 美国 Thu 可发展/1st order/出货视频.mp4",
+"name":"出货视频.mp4",
+"ext":".mp4",
+"bytes":7940669,
+"sha256":"96b83c9cf2929b5555b5167c8188fce4a48ae349d11142ce83a7e18f4b2fa65a",
+"source":"PI.zip",
+"method":"ffprobe+ffmpeg",
+"status":"meta",
+"meta":{
+"duration_s":46.3,
+"width":1280,
+"height":720,
+"vcodec":"h264",
+"acodec":"aac",
+"thumb_bytes":6875
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:33:18Z",
+"thumb":"thumbs/PI__PI__6_美国_Thu_可发展__1st_order__出货视频.mp4__96b83c9c.jpg"
+}

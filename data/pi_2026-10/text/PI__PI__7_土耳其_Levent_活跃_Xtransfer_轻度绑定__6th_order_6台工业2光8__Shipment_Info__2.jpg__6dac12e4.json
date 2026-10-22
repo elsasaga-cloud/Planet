@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__6th_order_6台工业2光8__Shipment_Info__2.jpg__6dac12e4",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/6th order 6台工业2光8/Shipment Info/2.jpg",
+"name":"2.jpg",
+"ext":".jpg",
+"bytes":120334,
+"sha256":"6dac12e49a912b929df1039195b572c3f0fa1f6dc3f540f534cbd8114028f5cf",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":883,
+"height":1080,
+"mode":"RGB",
+"thumb_bytes":11496
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:37:27Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__6th_order_6台工业2光8__Shipment_Info__2.jpg__6dac12e4.jpg"
+}

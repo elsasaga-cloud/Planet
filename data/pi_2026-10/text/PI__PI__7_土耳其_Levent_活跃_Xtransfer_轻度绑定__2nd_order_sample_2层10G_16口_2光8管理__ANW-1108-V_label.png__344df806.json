@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__ANW-1108-V_label.png__344df806",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/2nd order sample 2层10G 16口 2光8管理/ANW-1108-V label.png",
+"name":"ANW-1108-V label.png",
+"ext":".png",
+"bytes":60876,
+"sha256":"344df8061c08850e3e1a0b8643c24fbdf56134d58a5a34ce201a56fc171e52a3",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1045,
+"height":516,
+"mode":"RGBA",
+"thumb_bytes":11335
+},
+"warnings":[],
+"chars":163,
+"text":"ANGORA NETWORKS\nVERGE SERIES ETHERNET SWITCHES\nMODEL: ANW-1108-V\nINPUT: DC12-58V ——___\nANGELO\nMT nT ccfe\nAWN241023123013AE\n% x\nMAC ADDRESS: 98:06:37:A0:58:40 = $$“",
+"extracted_at":"2026-10-22T07:41:30Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__ANW-1108-V_label.png__344df806.jpg"
+}

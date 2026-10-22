@@ -1,0 +1,185 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__Quotation_48_port_switch_150pcs.xls__33e03188",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/Quotation_48 port switch 150pcs.xls",
+"name":"Quotation_48 port switch 150pcs.xls",
+"ext":".xls",
+"bytes":172544,
+"sha256":"33e03188923424013d3fa421d712f19780c6e7f67b130329bb55740443d85d46",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Quotation"
+],
+"rows_total":36
+},
+"warnings":[],
+"chars":2158,
+"text":"--- Sheet: Quotation ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob/WhatsApp/WeChat: 86 15237149683                     www.sagatelecom.com.cn                  Email: s.sagatelecom@gmail.com\n***********************************************************************************************************************************\nQuotation\nBuyer:\tAngora Networks\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t90 (312) 241 77 47\t\tQuoted By:\tSimon Cheng\nEmail:\tlkilic@angoranetworks.com\ntesen@angoranetworks.com\t\tDate:\t3rd, Dec, 2024\nContact Person:\tLevent Kilic\nTaylan Esen\t\tPrice Term:\tEXW\nDestination\tTurkey\nModel\tSpecification\t\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSTC-448XGGPM\tCommercial Ethernet Switch\n\n4*1G/2.5G/10G SFP+48*10/100/1000M RJ45+1*Console Port\nL2+ managed, PoE af/at, 850W budget, Support PoE management, PoE watchdog\nSingle AC input, Rack compatible, with power cable, without optical module\t\t\t1\t400\t400\tL2+\n\t\t\t\t150\t360\t54000\nSTC-448XGGPM\tCommercial Ethernet Switch\n\n4*1G/2.5G/10G SFP+48*10/100/1000M RJ45+1*Console Port\nL3 managed, PoE af/at, 850W budget, Support PoE management, PoE watchdog\nSingle AC input, Rack compatible, with power cable, without optical module\t\t\t1\t600\t600\tL3\n\t\t\t\t150\t560\t84000\nPacking Information\nInner box size: 525*390*95mm, 1pc each, 5Kg each\nMaster box size: 535*205*408mm, 2pcs each, 12Kg each\nThat will be, 75 cartons, 900Kg weight\nShipping Information\nBy Express\nShipping time: 8~12 calendar days\nCost: 10K USD by UPS(best option)\nBy Sea\nShipping time: 4~6 weeks\nCost: 1300 USD\nPrice validity: 30 days\nSaga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply.\nNon-brand packing, without Chinese letters or logo\nNeutral device\nCountry of origin: China\nProduction time: 40~60 calendar days\nWarranty: 1 year, lifetime technical support\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" for more information.",
+"sheets":{
+"Quotation":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob/WhatsApp/WeChat: 86 15237149683                     www.sagatelecom.com.cn                  Email: s.sagatelecom@gmail.com"
+],
+[
+"***********************************************************************************************************************************"
+],
+[
+"Quotation"
+],
+[
+"Buyer:",
+"Angora Networks",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"90 (312) 241 77 47",
+"",
+"Quoted By:",
+"Simon Cheng"
+],
+[
+"Email:",
+"lkilic@angoranetworks.com\ntesen@angoranetworks.com",
+"",
+"Date:",
+"3rd, Dec, 2024"
+],
+[
+"Contact Person:",
+"Levent Kilic\nTaylan Esen",
+"",
+"Price Term:",
+"EXW"
+],
+[
+"Destination",
+"Turkey"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"STC-448XGGPM",
+"Commercial Ethernet Switch\n\n4*1G/2.5G/10G SFP+48*10/100/1000M RJ45+1*Console Port\nL2+ managed, PoE af/at, 850W budget, Support PoE management, PoE watchdog\nSingle AC input, Rack compatible, with power cable, without optical module",
+"",
+"",
+"1",
+"400",
+"400",
+"L2+"
+],
+[
+"",
+"",
+"",
+"",
+"150",
+"360",
+"54000"
+],
+[
+"STC-448XGGPM",
+"Commercial Ethernet Switch\n\n4*1G/2.5G/10G SFP+48*10/100/1000M RJ45+1*Console Port\nL3 managed, PoE af/at, 850W budget, Support PoE management, PoE watchdog\nSingle AC input, Rack compatible, with power cable, without optical module",
+"",
+"",
+"1",
+"600",
+"600",
+"L3"
+],
+[
+"",
+"",
+"",
+"",
+"150",
+"560",
+"84000"
+],
+[
+"Packing Information"
+],
+[
+"Inner box size: 525*390*95mm, 1pc each, 5Kg each"
+],
+[
+"Master box size: 535*205*408mm, 2pcs each, 12Kg each"
+],
+[
+"That will be, 75 cartons, 900Kg weight"
+],
+[
+"Shipping Information"
+],
+[
+"By Express"
+],
+[
+"Shipping time: 8~12 calendar days"
+],
+[
+"Cost: 10K USD by UPS(best option)"
+],
+[
+"By Sea"
+],
+[
+"Shipping time: 4~6 weeks"
+],
+[
+"Cost: 1300 USD"
+],
+[
+"Price validity: 30 days"
+],
+[
+"Saga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply."
+],
+[
+"Non-brand packing, without Chinese letters or logo"
+],
+[
+"Neutral device"
+],
+[
+"Country of origin: China"
+],
+[
+"Production time: 40~60 calendar days"
+],
+[
+"Warranty: 1 year, lifetime technical support"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" for more information."
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:36:51Z"
+}

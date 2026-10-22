@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__3rd_order_176台2光16电_L2_PoE__Shipment_Info__Certificate_of_Warranty.psd__0a41ee72",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/3rd order 176台2光16电 L2 PoE/Shipment Info/Certificate of Warranty.psd",
+"name":"Certificate of Warranty.psd",
+"ext":".psd",
+"bytes":5248323,
+"sha256":"0a41ee729495470f50682abf25ca840ab14396c50ce635f0080d23f3fa3544dd",
+"source":"PI.zip",
+"method":"pillow(psd composite)",
+"status":"meta",
+"meta":{
+"format":"PSD",
+"width":2480,
+"height":3508,
+"mode":"RGB",
+"thumb_bytes":16570
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:40:52Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__3rd_order_176台2光16电_L2_PoE__Shipment_Info__Certificate_of_Warranty.psd__0a41ee72.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__1st_order__出货图__STC-424XGGM__7.png__b51959d8",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/1st order/出货图/STC-424XGGM/7.png",
+"name":"7.png",
+"ext":".png",
+"bytes":97797,
+"sha256":"b51959d82a05410a4d24bb98c7bc41804b4b3eeac240d66a511081e19d0608b3",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1920,
+"height":1080,
+"mode":"RGBA",
+"thumb_bytes":3549
+},
+"warnings":[],
+"chars":124,
+"text":"© | 己 Login -switch x | 十\n< C 0 & 192.168.56.166/#/login\nManaged Ethernet Switch\n| Radmin |\n[ se\nLogin Clear\nMegatops VaTFT.",
+"extracted_at":"2026-10-22T07:34:25Z",
+"thumb":"thumbs/PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__1st_order__出货图__STC-424XGGM__7.png__b51959d8.jpg"
+}

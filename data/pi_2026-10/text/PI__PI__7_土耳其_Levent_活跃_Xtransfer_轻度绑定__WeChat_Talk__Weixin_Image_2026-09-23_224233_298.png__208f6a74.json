@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__WeChat_Talk__Weixin_Image_2026-09-23_224233_298.png__208f6a74",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/WeChat Talk/Weixin Image_2026-09-23_224233_298.png",
+"name":"Weixin Image_2026-09-23_224233_298.png",
+"ext":".png",
+"bytes":2829177,
+"sha256":"208f6a749b4ac7aa7fb3ae429a10075c92049cc2782bb67c10cf7c6aa89759e6",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":1546,
+"height":24894,
+"mode":"RGBA",
+"thumb_bytes":2019
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:39:42Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__WeChat_Talk__Weixin_Image_2026-09-23_224233_298.png__208f6a74.jpg"
+}

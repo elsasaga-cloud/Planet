@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__2nd_order__Vi-Link_Logo_MC1400_Green.jpg__2191f303",
+"path":"PI/PI/6 美国 Thu 可发展/2nd order/Vi-Link Logo MC1400 Green.jpg",
+"name":"Vi-Link Logo MC1400 Green.jpg",
+"ext":".jpg",
+"bytes":146907,
+"sha256":"2191f303dacd21ce87d8e6f8f6abcd645dbf742ef73b679e5f04964ec3a41a90",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1512,
+"height":435,
+"mode":"RGB",
+"thumb_bytes":7118
+},
+"warnings":[],
+"chars":40,
+"text":"Fiber Optic Communications\nModel: MC1400",
+"extracted_at":"2026-10-22T07:32:50Z",
+"thumb":"thumbs/PI__PI__6_美国_Thu_可发展__2nd_order__Vi-Link_Logo_MC1400_Green.jpg__2191f303.jpg"
+}

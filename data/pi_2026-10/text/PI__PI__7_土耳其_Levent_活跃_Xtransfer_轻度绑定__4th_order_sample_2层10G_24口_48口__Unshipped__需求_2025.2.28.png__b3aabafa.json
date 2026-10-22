@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__4th_order_sample_2层10G_24口_48口__Unshipped__需求_2025.2.28.png__b3aabafa",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/4th order sample  2层10G 24口 48口/Unshipped/需求_2025.2.28.png",
+"name":"需求_2025.2.28.png",
+"ext":".png",
+"bytes":89526,
+"sha256":"b3aabafa8ac758977122d27c9599330b4bb0b43005d48ed0a28534d3f1ffe330",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":892,
+"height":818,
+"mode":"RGBA",
+"thumb_bytes":11333
+},
+"warnings":[],
+"chars":369,
+"text":"Levent KILIC\n曙\nfe,\nWill appreciate if you can share the PI for 4\npieces 24-PoE and 2 pieces of 48-PoE\nBy email please\nLevent KILIC : Will appreciate if you can share the\nPl for 4 pieces 24-PoE and 2 pieces of 48-PoE\nwd\nYep, work keeps me up at night these days (=)\nsimon : Good morning, Leventits early there, right?\nhaha\nYes correct\nSimon : 2.5G fiber, Commercial L2+?",
+"extracted_at":"2026-10-22T07:44:43Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__4th_order_sample_2层10G_24口_48口__Unshipped__需求_2025.2.28.png__b3aabafa.jpg"
+}

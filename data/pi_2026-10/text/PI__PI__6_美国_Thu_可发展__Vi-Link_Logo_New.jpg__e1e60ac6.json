@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__Vi-Link_Logo_New.jpg__e1e60ac6",
+"path":"PI/PI/6 美国 Thu 可发展/Vi-Link Logo New.jpg",
+"name":"Vi-Link Logo New.jpg",
+"ext":".jpg",
+"bytes":201307,
+"sha256":"e1e60ac6c0b250134e7773d9d0370ce677c40625bdc5cfa026f0882af7d833da",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":2304,
+"height":1536,
+"mode":"RGB",
+"thumb_bytes":7915
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:32:15Z",
+"thumb":"thumbs/PI__PI__6_美国_Thu_可发展__Vi-Link_Logo_New.jpg__e1e60ac6.jpg"
+}

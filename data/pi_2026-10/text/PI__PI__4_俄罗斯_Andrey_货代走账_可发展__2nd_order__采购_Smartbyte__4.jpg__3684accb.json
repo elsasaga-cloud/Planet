@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__4_俄罗斯_Andrey_货代走账_可发展__2nd_order__采购_Smartbyte__4.jpg__3684accb",
+"path":"PI/PI/4 俄罗斯 Andrey 货代走账 可发展/2nd order/采购_Smartbyte/4.jpg",
+"name":"4.jpg",
+"ext":".jpg",
+"bytes":818507,
+"sha256":"3684accbc3e2e4f0175873260c23918839f331617508125888ce6ffaba420dbf",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":1920,
+"height":1080,
+"mode":"RGB",
+"thumb_bytes":8965
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:46:10Z",
+"thumb":"thumbs/PI__PI__4_俄罗斯_Andrey_货代走账_可发展__2nd_order__采购_Smartbyte__4.jpg__3684accb.jpg"
+}

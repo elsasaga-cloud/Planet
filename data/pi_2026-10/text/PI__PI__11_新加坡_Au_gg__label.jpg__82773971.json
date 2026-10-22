@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__11_新加坡_Au_gg__label.jpg__82773971",
+"path":"PI/PI/11 新加坡 Au gg/label.jpg",
+"name":"label.jpg",
+"ext":".jpg",
+"bytes":74330,
+"sha256":"82773971110979be6162164477fa5db0180a07ef7ca3564f72c42638e5d383a7",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":739,
+"height":483,
+"mode":"RGB",
+"thumb_bytes":18129
+},
+"warnings":[],
+"chars":273,
+"text":"Product 10G MultiGig Switch\nModel: R ~Nets 10U-MG\nFeatures: 8*10G Ethernet Ports (10M/100M/1000M/\n2.5G/10G Self-adaptive) Non-PoE, With Fan\nIntemal Power: AC100~240V, Web Managed\nIP Address:192.168.2.1 User Name/Password: Admin\nSN-2\n02408300001\nResonant Networks (R ~Nets).",
+"extracted_at":"2026-10-22T07:51:12Z",
+"thumb":"thumbs/PI__PI__11_新加坡_Au_gg__label.jpg__82773971.jpg"
+}

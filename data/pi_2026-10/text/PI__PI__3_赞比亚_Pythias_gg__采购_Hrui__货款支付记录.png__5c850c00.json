@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__3_赞比亚_Pythias_gg__采购_Hrui__货款支付记录.png__5c850c00",
+"path":"PI/PI/3  赞比亚 Pythias gg/采购_Hrui/货款支付记录.png",
+"name":"货款支付记录.png",
+"ext":".png",
+"bytes":28555,
+"sha256":"5c850c003cba8c061fe18ef0e02de0faa6cd4ee41070b4e431619740da6b55c8",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":413,
+"height":302,
+"mode":"RGBA",
+"thumb_bytes":9192
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:48:40Z",
+"thumb":"thumbs/PI__PI__3_赞比亚_Pythias_gg__采购_Hrui__货款支付记录.png__5c850c00.jpg"
+}

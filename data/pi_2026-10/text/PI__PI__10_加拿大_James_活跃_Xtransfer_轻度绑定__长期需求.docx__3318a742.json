@@ -1,0 +1,62 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__长期需求.docx__3318a742",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/长期需求.docx",
+"name":"长期需求.docx",
+"ext":".docx",
+"bytes":31265,
+"sha256":"3318a742df4996a1f8e9472a38de611e02c1a9f0d9038524752186a7d84b6be9",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2026-07-22T03:59:00+00:00",
+"modified":"2026-07-22T03:59:49+00:00",
+"paragraphs":7,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"chars":349,
+"text":"Do you have any plans for a 2.5g or mgig poe+ switch?\nManaged\nL2 or L2+\nDual power would be great as well.\nI see it also in broadcast and outdoor cameras\nRack mount more common.\nBut needs pwm fan control too\n[页眉页脚]\nSaga Telecom\nwww.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Do you have any plans for a 2.5g or mgig poe+ switch?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Managed"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"L2 or L2+"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Dual power would be great as well."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"I see it also in broadcast and outdoor cameras"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Rack mount more common."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"But needs pwm fan control too"
+}
+],
+"extracted_at":"2026-10-22T07:55:40Z"
+}

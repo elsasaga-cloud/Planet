@@ -1,0 +1,246 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__9th_order__STEC20251123012.xls__6664c12e",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/9th order/STEC20251123012.xls",
+"name":"STEC20251123012.xls",
+"ext":".xls",
+"bytes":3527168,
+"sha256":"6664c12eeb4bb74a8025ea2bc2a77f40b6dfb04a229287577e55ca6193fd775c",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Proforma Invoice"
+],
+"rows_total":46
+},
+"warnings":[],
+"chars":3241,
+"text":"--- Sheet: Proforma Invoice ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nAddress: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 18838975947                                        www.sagatelecom.com.cn                                  Email: e.sagatelecom@gmail.com\n*********************************************************************************************************************\nProforma Invoice\nPO No.\t\t\tInvoice No.:\tSTEC20251123012\nBuyer:\tBiz - Ethics Ltd.\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t234-07029186461\t\tIssued By:\tElsa\nEmail:\tinfo@belnetworks.com\t\tInvoice Date:\t23rd, Nov, 2025\nContact Person:\tValentine Mbata\t\tPayment Term:\tT/T in advance, EXW\nShipping Address\t广州市越秀区瑶台西街89号(美泰城)A2038档 13503077498 亨瑞\nModel\tPhoto\tSpecification\t\tQuantity \n(pcs)\tUnit Price\n(RMB)\tAmount \n(RMB)\tRemark\nSeller\nSTC-424XGGPM-280W\n\nBuyer\nNetstream-42410G280W L2+\t\tCommercial PoE Managed Switch\n\n4*1G/2.5G/10G SFP+24*10/100/1000M RJ45 +1*Console Port, L2+ managed, PoE af/at, 280W budget, Support PoE watchdog PoE management\nSingle AC input, Rack compatible\nWith mounting hanger/Power Cord\t\t8\t1100\t8800\t10G \nFiber Uplink\n\nL2+ Managed\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 440*180*44mm\nNet Weight: 3.2Kg\nGross Weight: 4Kg\nSeller\nSTC-4168XGGCM\n\nBuyer\nBNSC-4168XGGCM\t\tCommercial Fiber Switch\n\n4*1G/2.5G/10G SFP+16*1G SFP+8*1G SFP/RJ45 Combo+1*Console Port+1*USB Port\nL3 managed, Non-PoE\nSingle AC input, Rack compatible\nWith mounting hanger/Power Cord\t\t1\t2250\t2250\t10G \nFiber Uplink\n\nL3\nManaged\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 440*245*44mm\nNet Weight: 3.2Kg\nGross Weight: 4Kg\nSeller\nSTH-2C24XF-SFI\n\nBuyer\nNetstream-24X100G-SFI\t\tCommercial Fiber Switch\n\n2*100G QSFP28 +24*10G SFP, 0.5U Size\nSupport VXLAN / EVPN / BGP / OSPF / MPLS  / MLAG / IPV6 etc., L3 managed, Non-PoE\nAC input, Rack compatible\n1*150W fixed power supply , 2*fixed fans\nWith mounting hanger/Power Cord\t\t2\t7500\t15000\tL3\nManaged\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 440*245*44mm\nNet Weight: 3.5Kg\nGross Weight: 4.5Kg\nTOTAL\t\t\t\t11\t\t26050\nSAY TOTAL IN RMB TWENTY SIX THOUSAND AND FIFTY ONLY\nRemark\nPlease do make sure client side could handle import customs clearance.\n1. Payment: Full payment to the below bank account before shipment.\nBank Information\nBank Name\tBANK OF CHINA HENAN BRANCH\nBank Address\tHUANYUAN ROAD 40TH ZHENGZHOU CITY HENAN CHINA\nBeneficiary\tZhengzhou Saga Telecom Co., Ltd.\nAccount No.(USD)\t255987045839\nSWIFT CODE\tBKCHCNBJ530\n2. NOTE: Saga Telecom will not pay for any bank charge.\nPlease make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice.\n3. Leadtime: 6~10 working days\n4. Country of origin: China\n5. Customized packing\nPackage Marks: None\nPacking list is available upon request\n6. Warranty: 1 year, lifetime technical support\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" for more information.\nBuyer: Biz - Ethics Ltd.\t\t\tSeller: Zhengzhou Saga Telecom Co., Ltd.\nValentine Mbata\t\t\tElsa\nAuthorized Signature\t\t\tAuthorized Signature",
+"sheets":{
+"Proforma Invoice":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 18838975947                                        www.sagatelecom.com.cn                                  Email: e.sagatelecom@gmail.com"
+],
+[
+"*********************************************************************************************************************"
+],
+[
+"Proforma Invoice"
+],
+[
+"PO No.",
+"",
+"",
+"Invoice No.:",
+"STEC20251123012"
+],
+[
+"Buyer:",
+"Biz - Ethics Ltd.",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"234-07029186461",
+"",
+"Issued By:",
+"Elsa"
+],
+[
+"Email:",
+"info@belnetworks.com",
+"",
+"Invoice Date:",
+"23rd, Nov, 2025"
+],
+[
+"Contact Person:",
+"Valentine Mbata",
+"",
+"Payment Term:",
+"T/T in advance, EXW"
+],
+[
+"Shipping Address",
+"广州市越秀区瑶台西街89号(美泰城)A2038档 13503077498 亨瑞"
+],
+[
+"Model",
+"Photo",
+"Specification",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(RMB)",
+"Amount \n(RMB)",
+"Remark"
+],
+[
+"Seller\nSTC-424XGGPM-280W\n\nBuyer\nNetstream-42410G280W L2+",
+"",
+"Commercial PoE Managed Switch\n\n4*1G/2.5G/10G SFP+24*10/100/1000M RJ45 +1*Console Port, L2+ managed, PoE af/at, 280W budget, Support PoE watchdog PoE management\nSingle AC input, Rack compatible\nWith mounting hanger/Power Cord",
+"",
+"8",
+"1100",
+"8800",
+"10G \nFiber Uplink\n\nL2+ Managed"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 440*180*44mm\nNet Weight: 3.2Kg\nGross Weight: 4Kg"
+],
+[
+"Seller\nSTC-4168XGGCM\n\nBuyer\nBNSC-4168XGGCM",
+"",
+"Commercial Fiber Switch\n\n4*1G/2.5G/10G SFP+16*1G SFP+8*1G SFP/RJ45 Combo+1*Console Port+1*USB Port\nL3 managed, Non-PoE\nSingle AC input, Rack compatible\nWith mounting hanger/Power Cord",
+"",
+"1",
+"2250",
+"2250",
+"10G \nFiber Uplink\n\nL3\nManaged"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 440*245*44mm\nNet Weight: 3.2Kg\nGross Weight: 4Kg"
+],
+[
+"Seller\nSTH-2C24XF-SFI\n\nBuyer\nNetstream-24X100G-SFI",
+"",
+"Commercial Fiber Switch\n\n2*100G QSFP28 +24*10G SFP, 0.5U Size\nSupport VXLAN / EVPN / BGP / OSPF / MPLS  / MLAG / IPV6 etc., L3 managed, Non-PoE\nAC input, Rack compatible\n1*150W fixed power supply , 2*fixed fans\nWith mounting hanger/Power Cord",
+"",
+"2",
+"7500",
+"15000",
+"L3\nManaged"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 440*245*44mm\nNet Weight: 3.5Kg\nGross Weight: 4.5Kg"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"11",
+"",
+"26050"
+],
+[
+"SAY TOTAL IN RMB TWENTY SIX THOUSAND AND FIFTY ONLY"
+],
+[
+"Remark"
+],
+[
+"Please do make sure client side could handle import customs clearance."
+],
+[
+"1. Payment: Full payment to the below bank account before shipment."
+],
+[
+"Bank Information"
+],
+[
+"Bank Name",
+"BANK OF CHINA HENAN BRANCH"
+],
+[
+"Bank Address",
+"HUANYUAN ROAD 40TH ZHENGZHOU CITY HENAN CHINA"
+],
+[
+"Beneficiary",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Account No.(USD)",
+"255987045839"
+],
+[
+"SWIFT CODE",
+"BKCHCNBJ530"
+],
+[
+"2. NOTE: Saga Telecom will not pay for any bank charge."
+],
+[
+"Please make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice."
+],
+[
+"3. Leadtime: 6~10 working days"
+],
+[
+"4. Country of origin: China"
+],
+[
+"5. Customized packing"
+],
+[
+"Package Marks: None"
+],
+[
+"Packing list is available upon request"
+],
+[
+"6. Warranty: 1 year, lifetime technical support"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" for more information."
+],
+[
+"Buyer: Biz - Ethics Ltd.",
+"",
+"",
+"Seller: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Valentine Mbata",
+"",
+"",
+"Elsa"
+],
+[
+"Authorized Signature",
+"",
+"",
+"Authorized Signature"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T08:02:20Z"
+}

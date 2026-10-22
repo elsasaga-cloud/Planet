@@ -1,0 +1,24 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__2nd_order_sample__SW-3200-8GP-4S___7.jpg__ef3bc5a0",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/2nd order sample/SW-3200-8GP-4S+/7.jpg",
+"name":"7.jpg",
+"ext":".jpg",
+"bytes":4673218,
+"sha256":"ef3bc5a047ec25d445c52b1235f106d22b17b138c8c30ef1e2f714dc0d16bdc4",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":3072,
+"height":3072,
+"mode":"RGB",
+"software":"FOA-AL00 4.0.0.113(C00E112R4P2)",
+"thumb_bytes":7865
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:57:12Z",
+"thumb":"thumbs/PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__2nd_order_sample__SW-3200-8GP-4S___7.jpg__ef3bc5a0.jpg"
+}

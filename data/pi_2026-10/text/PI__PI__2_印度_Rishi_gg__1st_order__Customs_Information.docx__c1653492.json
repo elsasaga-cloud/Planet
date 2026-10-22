@@ -1,0 +1,67 @@
+{
+"id":"PI__PI__2_印度_Rishi_gg__1st_order__Customs_Information.docx__c1653492",
+"path":"PI/PI/2 印度 Rishi gg/1st order/Customs Information.docx",
+"name":"Customs Information.docx",
+"ext":".docx",
+"bytes":12356,
+"sha256":"c1653492091b19b364e44a724f0de858cab75f31125802d53736460617d82c9d",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2023-10-14T06:13:00+00:00",
+"modified":"2023-10-14T06:16:01+00:00",
+"paragraphs":8,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"chars":153,
+"text":"Product: Cleaner Pen\nMaterial: Metal\nUsage: used to clean fiber optic device connectors\nHS code: 8517799000\n产品名：光纤清洁笔\n材料：铁\n用途：用于清洁光纤设备的接口\n海关编码：8517799000",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Product: Cleaner Pen"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Material: Metal"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Usage: used to clean fiber optic device connectors"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"HS code: 8517799000"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"产品名：光纤清洁笔"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"材料：铁"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"用途：用于清洁光纤设备的接口"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"海关编码：8517799000"
+}
+],
+"extracted_at":"2026-10-22T07:31:20Z"
+}

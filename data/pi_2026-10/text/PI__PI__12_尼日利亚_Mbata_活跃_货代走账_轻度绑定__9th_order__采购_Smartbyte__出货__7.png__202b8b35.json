@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__9th_order__采购_Smartbyte__出货__7.png__202b8b35",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/9th order/采购_Smartbyte/出货/7.png",
+"name":"7.png",
+"ext":".png",
+"bytes":72858,
+"sha256":"202b8b352118f12f064104f97aeb9b05ba281ffc453e9a2adfb6a53eb35f499a",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1680,
+"height":1050,
+"mode":"RGB",
+"thumb_bytes":4159
+},
+"warnings":[],
+"chars":224,
+"text":"& Login - switch x 十 v\no< ca 0 台 不 安全 http://192.168.56.166/#/login?redirect=/monitor/dashboard wm 家 Os 由 =\n人 @ 一 Cmisn Osun OFEHS One O ERT\n品\nManaged Ethernet Switch\n> @ 中\nLogin Clear\n16:45\n= On @©wWe FJ BOD A (208 12) cera",
+"extracted_at":"2026-10-22T08:03:18Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__9th_order__采购_Smartbyte__出货__7.png__202b8b35.jpg"
+}

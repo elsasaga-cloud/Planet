@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__4th_order__采购_Smartbyte__log-in.png__604b92af",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/4th order/采购_Smartbyte/log-in.png",
+"name":"log-in.png",
+"ext":".png",
+"bytes":73503,
+"sha256":"604b92affc7447ba0603e53676aa076258c89a49eae4ef4ce82f21a273ecc177",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1771,
+"height":1188,
+"mode":"RGBA",
+"thumb_bytes":4498
+},
+"warnings":[],
+"chars":119,
+"text":"加 ”三 taon-swten x 十\n全 Gs AFR 192.168.56.166/#/login\noe\n*AAATRIX\nManaged Ethernet Switch\n»\nLogin Clear\narr\nBNSC-424DGGPM",
+"extracted_at":"2026-10-22T08:00:58Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__4th_order__采购_Smartbyte__log-in.png__604b92af.jpg"
+}

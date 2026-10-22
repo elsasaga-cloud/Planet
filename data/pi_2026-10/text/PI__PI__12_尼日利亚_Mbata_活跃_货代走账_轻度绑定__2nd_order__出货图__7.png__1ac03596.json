@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__2nd_order__出货图__7.png__1ac03596",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/2nd order/出货图/7.png",
+"name":"7.png",
+"ext":".png",
+"bytes":94976,
+"sha256":"1ac035968780dca0c2737a0497f777e9ac55ed9ef851439b3c25bfb09fc47793",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1920,
+"height":1080,
+"mode":"RGBA",
+"thumb_bytes":3661
+},
+"warnings":[],
+"chars":108,
+"text":"GB | Abogin - switch x +\n< C 0 & 192.168.56.166/#/login\nManaged Ethernet Switch\n| 卻 admin |\n[ se\nLogin Clear",
+"extracted_at":"2026-10-22T08:01:36Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__2nd_order__出货图__7.png__1ac03596.jpg"
+}

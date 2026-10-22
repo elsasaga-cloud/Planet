@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__6th_order_6台工业2光8__Shipment_Info__1.jpg__58662521",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/6th order 6台工业2光8/Shipment Info/1.jpg",
+"name":"1.jpg",
+"ext":".jpg",
+"bytes":219358,
+"sha256":"58662521603ac74c32b4ac29d83ad0eba52f46dfffbaa234e1e9e839c3c78ab6",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1920,
+"height":1080,
+"mode":"RGB",
+"thumb_bytes":8651
+},
+"warnings":[],
+"chars":69,
+"text":"《 个. 合 . 合 .后 | |\nPig F 115200,8,N,1\nNon-PoE: DC12-58V; PoE: DC44-57V",
+"extracted_at":"2026-10-22T07:37:30Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__6th_order_6台工业2光8__Shipment_Info__1.jpg__58662521.jpg"
+}

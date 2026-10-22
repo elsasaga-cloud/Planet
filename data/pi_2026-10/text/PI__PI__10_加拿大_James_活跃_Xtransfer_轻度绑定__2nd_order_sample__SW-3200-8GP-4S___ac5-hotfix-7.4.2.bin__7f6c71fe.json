@@ -1,0 +1,18 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__2nd_order_sample__SW-3200-8GP-4S___ac5-hotfix-7.4.2.bin__7f6c71fe",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/2nd order sample/SW-3200-8GP-4S+/ac5-hotfix-7.4.2.bin",
+"name":"ac5-hotfix-7.4.2.bin",
+"ext":".bin",
+"bytes":60620800,
+"sha256":"7f6c71fe6d5db31ed3f1d6a78d1dc0ca9591d0898ece43d085368392bbcbb099",
+"source":"PI.zip",
+"method":"none",
+"status":"meta",
+"meta":{},
+"warnings":[
+"no extractor for .bin"
+],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:57:12Z"
+}

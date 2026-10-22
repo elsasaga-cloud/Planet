@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__9th_order__S2.png__3971cb04",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/9th order/S2.png",
+"name":"S2.png",
+"ext":".png",
+"bytes":77463,
+"sha256":"3971cb049d50f89e1679619f04176402f741c0b197b64fccc5ff53ebb662dd13",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":743,
+"height":472,
+"mode":"RGBA",
+"thumb_bytes":11201
+},
+"warnings":[],
+"chars":277,
+"text":"9/4/2025\n© Forwarded\n24port Poe switch with 4 10G uplink ports - 13 0:34 PM\nForwarded\n24 port 10G fiber ports with 10/256 uplinks -3 9.24 py\n© Forwarded\nPlease send matching configuration with good prices\n1\noh! 9:34 PM\nPlease send this prices fast, am coming on Tuesday\n9:35 PM",
+"extracted_at":"2026-10-22T08:02:16Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__9th_order__S2.png__3971cb04.jpg"
+}

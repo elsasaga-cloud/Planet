@@ -1,0 +1,259 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__6th_order_6台工业2光8__STSC20250619007_R1.xls__014b00f6",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/6th order 6台工业2光8/STSC20250619007_R1.xls",
+"name":"STSC20250619007_R1.xls",
+"ext":".xls",
+"bytes":5554176,
+"sha256":"014b00f61251e32fdfedbd5b4386e4c252c2e6f9b886006f0fb9bbb0bc1814ff",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Proforma Invoice"
+],
+"rows_total":52
+},
+"warnings":[],
+"chars":3647,
+"text":"--- Sheet: Proforma Invoice ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 15237149683                                       www.sagatelecom.com.cn                                   Email: s.sagatelecom@gmail.com\n*********************************************************************************************************************\nProforma  Invoice\nTax Information\tID: 069 052 0220\nOffice: Yeni̇Mahalle Vd\t\tInvoice No.:\tSTSC20250619007\nBuyer:\tANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t90 (312) 241 77 47\t\tIssued By:\tSimon Cheng\nEmail:\tLevent.Kilic@AngoraNetworks.com\t\tInvoice Date:\t19th, June, 2025\nContact Person:\tLevent Kilic\t\tPayment Term:\tT/T in advance, DAP\nShipping Address\tÇamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle  06200 Ankara Turkey\nModel\tPhoto\tSpecification\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSeller: STI-288DGGPM\n\nBuyer: TT-2208-PG\t\tIndustrial PoE Managed Switch\n\n2*1G/2.5G SFP+8*10/100/1000M RJ45 +1*Console Port\nL2+ Managed, PoE af/at, 240W budget\nWithout Serial Port, With Console Cable\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block)\n-40℃ to 75℃, Din mounted, Without Power Adapter, Without Optical Module\nWith Mounting Hanger\n\nRegular PVC Mask, Marvell AC5 Chip\t\t6\t125\t750\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 158*115*54mm\nGross Weight: 1.4Kg\nMAC&Serial Info\tMAC: 98:06:37:A5:00:13~98:06:37:A5:00:18\nSerial Info: 25052208C0103~25052208C0603\nAdditional Requirements\tShow Turk Telekom information on WEB GUI and Label\nFreight Cost\t130usd for about 10Kg volume weight to Turkey by UPS\nIncluding Insurance\nCompensation=cargo damage amount-DHL/FedEx/UPS standard compensation amount(USD100)-absolute deductible(USD200 or 5% of cargo damage, whichever is greater)\n\nAir, door-to-door service\nShipment time: 6~10 calendar days\t\t\t\t\t125\nBank Cost\tStandard Charge in EACH Order\t\t\t\t\t25\nTOTAL\t\t\t\t6\t\t900\nSAY TOTAL IN USD NINE HUNDRED DOLLARS ONLY\nRemark\nPlease do make sure client side could handle import customs clearance.\nIf there is any problem with the shipment or clearance\n1, please let us know ASAP\n2, please call DHL/FedEx/UPS official number for information\n1. Payment: Full payment to the below bank account before shipment.\nBank Information\nSWIFT/BIC code\tCHASHKHH (CHASHKHHXXX * if 11 characters are required)\nAccount Number\t63003662406\nAccount Name\tZhengzhou Saga Telecom Co., Ltd.\nBank Name\tJPMorgan Chase Bank N.A., Hong Kong Branch\nBank Address\t18/F, 20/F, 22-29/F, CHATER HOUSE, 8 CONNAUGHT ROAD CENTRAL, HONG KONG\nCountry/Region\tHong Kong\nType of Account\tBusiness Account\nBank Code\t007\nBranch Code\t863\n2. NOTE: Saga Telecom will not pay for any bank charge.\nPlease make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice.\n3. Production time: 3~5 working days(this is NOT including shipping time)\n4. Country of origin: China\n5. Non-brand packing, without Chinese letters or logo\nPackage Marks: None\nPacking list is available upon request\n6. Warranty: 3 years, lifetime technical support\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" for more information.\nBuyer: ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.\t\t\tSeller: Zhengzhou Saga Telecom Co., Ltd.\nLevent Kilic\t\t\tSimon Cheng\nAuthorized Signature\t\t\tAuthorized Signature",
+"sheets":{
+"Proforma Invoice":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Tailored Marvell Managed Networking Solutions Provider"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 15237149683                                       www.sagatelecom.com.cn                                   Email: s.sagatelecom@gmail.com"
+],
+[
+"*********************************************************************************************************************"
+],
+[
+"Proforma  Invoice"
+],
+[
+"Tax Information",
+"ID: 069 052 0220\nOffice: Yeni̇Mahalle Vd",
+"",
+"Invoice No.:",
+"STSC20250619007"
+],
+[
+"Buyer:",
+"ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"90 (312) 241 77 47",
+"",
+"Issued By:",
+"Simon Cheng"
+],
+[
+"Email:",
+"Levent.Kilic@AngoraNetworks.com",
+"",
+"Invoice Date:",
+"19th, June, 2025"
+],
+[
+"Contact Person:",
+"Levent Kilic",
+"",
+"Payment Term:",
+"T/T in advance, DAP"
+],
+[
+"Shipping Address",
+"Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle  06200 Ankara Turkey"
+],
+[
+"Model",
+"Photo",
+"Specification",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"Seller: STI-288DGGPM\n\nBuyer: TT-2208-PG",
+"",
+"Industrial PoE Managed Switch\n\n2*1G/2.5G SFP+8*10/100/1000M RJ45 +1*Console Port\nL2+ Managed, PoE af/at, 240W budget\nWithout Serial Port, With Console Cable\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block)\n-40℃ to 75℃, Din mounted, Without Power Adapter, Without Optical Module\nWith Mounting Hanger\n\nRegular PVC Mask, Marvell AC5 Chip",
+"",
+"6",
+"125",
+"750"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 158*115*54mm\nGross Weight: 1.4Kg"
+],
+[
+"MAC&Serial Info",
+"MAC: 98:06:37:A5:00:13~98:06:37:A5:00:18\nSerial Info: 25052208C0103~25052208C0603"
+],
+[
+"Additional Requirements",
+"Show Turk Telekom information on WEB GUI and Label"
+],
+[
+"Freight Cost",
+"130usd for about 10Kg volume weight to Turkey by UPS\nIncluding Insurance\nCompensation=cargo damage amount-DHL/FedEx/UPS standard compensation amount(USD100)-absolute deductible(USD200 or 5% of cargo damage, whichever is greater)\n\nAir, door-to-door service\nShipment time: 6~10 calendar days",
+"",
+"",
+"",
+"",
+"125"
+],
+[
+"Bank Cost",
+"Standard Charge in EACH Order",
+"",
+"",
+"",
+"",
+"25"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"6",
+"",
+"900"
+],
+[
+"SAY TOTAL IN USD NINE HUNDRED DOLLARS ONLY"
+],
+[
+"Remark"
+],
+[
+"Please do make sure client side could handle import customs clearance."
+],
+[
+"If there is any problem with the shipment or clearance"
+],
+[
+"1, please let us know ASAP"
+],
+[
+"2, please call DHL/FedEx/UPS official number for information"
+],
+[
+"1. Payment: Full payment to the below bank account before shipment."
+],
+[
+"Bank Information"
+],
+[
+"SWIFT/BIC code",
+"CHASHKHH (CHASHKHHXXX * if 11 characters are required)"
+],
+[
+"Account Number",
+"63003662406"
+],
+[
+"Account Name",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Bank Name",
+"JPMorgan Chase Bank N.A., Hong Kong Branch"
+],
+[
+"Bank Address",
+"18/F, 20/F, 22-29/F, CHATER HOUSE, 8 CONNAUGHT ROAD CENTRAL, HONG KONG"
+],
+[
+"Country/Region",
+"Hong Kong"
+],
+[
+"Type of Account",
+"Business Account"
+],
+[
+"Bank Code",
+"007"
+],
+[
+"Branch Code",
+"863"
+],
+[
+"2. NOTE: Saga Telecom will not pay for any bank charge."
+],
+[
+"Please make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice."
+],
+[
+"3. Production time: 3~5 working days(this is NOT including shipping time)"
+],
+[
+"4. Country of origin: China"
+],
+[
+"5. Non-brand packing, without Chinese letters or logo"
+],
+[
+"Package Marks: None"
+],
+[
+"Packing list is available upon request"
+],
+[
+"6. Warranty: 3 years, lifetime technical support"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" for more information."
+],
+[
+"Buyer: ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+"",
+"",
+"Seller: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Levent Kilic",
+"",
+"",
+"Simon Cheng"
+],
+[
+"Authorized Signature",
+"",
+"",
+"Authorized Signature"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:37:13Z"
+}

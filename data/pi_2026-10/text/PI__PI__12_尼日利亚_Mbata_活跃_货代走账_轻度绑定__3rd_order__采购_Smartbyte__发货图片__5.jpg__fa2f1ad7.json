@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__3rd_order__采购_Smartbyte__发货图片__5.jpg__fa2f1ad7",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/3rd order/采购_Smartbyte/发货图片/5.jpg",
+"name":"5.jpg",
+"ext":".jpg",
+"bytes":231161,
+"sha256":"fa2f1ad78cc4f5104aeaaa54017e3cbedd65cf6c387ac20eb5fad4cccbe3e337",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1440,
+"height":810,
+"mode":"RGB",
+"thumb_bytes":5707
+},
+"warnings":[],
+"chars":136,
+"text":"Netstre;\nie\n1m High Fidelity Switch\nBNSC.49,\nC-424DGGpy\nD Vi\nSS = :\n广 > ET\nNS (Sanaa rt\nFor Extreme Network Environment and Switching\n-一",
+"extracted_at":"2026-10-22T08:04:11Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__3rd_order__采购_Smartbyte__发货图片__5.jpg__fa2f1ad7.jpg"
+}

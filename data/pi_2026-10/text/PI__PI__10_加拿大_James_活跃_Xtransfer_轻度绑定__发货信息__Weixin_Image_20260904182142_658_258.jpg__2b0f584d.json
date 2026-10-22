@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__发货信息__Weixin_Image_20260904182142_658_258.jpg__2b0f584d",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/发货信息/Weixin Image_20260904182142_658_258.jpg",
+"name":"Weixin Image_20260904182142_658_258.jpg",
+"ext":".jpg",
+"bytes":1883734,
+"sha256":"2b0f584d3c88e376a403f9422938af3881b0bd66a2b9d3895430732434f5afd7",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":2780,
+"height":1840,
+"mode":"RGB",
+"thumb_bytes":11769
+},
+"warnings":[],
+"chars":2694,
+"text":"User Manual\nMany thanks for your purchase.\nPlease read this user manual for safe and correct use.\n@ The information described in this manual 1s ony\nabout general information, please refer to the actual\nproduct purchased.\n@ It is advised to keep the user manual properly.\n@ Please let us know for any usage problem or query.\nPacking List\n1*Switch(See the product label for more details)\n1*Wall Hanger(Shared mounting holes with DIN Rail Kit)\n1*Console Cable(USB to RJ45 Connector)\n1*User Manual(Printed Copy)\nApplication\n@ Any network utilizing a mixture of copper and fiber\n@ IP connectivity and communication\ne@ CCTV system such as network camera, access control\nKey Features\nEco-friendly metal case, plug-and-play\nAC/DC redundant power input\nRich Led indicators for real-time monitoring\nResilient to ESD, EMI, and power surges\nCompliant with industrial testing standard\nLayer 2/Layer 3 covering static and dynamic routing, ARP,\nECMP, IPV4/IPV6, VRRP, RIP, OSPF, BGP4, IS-Is\nVLAN, STP/RSTP/MSTP, QoS, Ring, SNMP vlA2e/v3,\nMAC address, IPV4/IPV6, Web/Telnet/CLISSH, Standard\nMIB...\n7. Wide port combination(2/4/5/6/8/9/10/1 2/16/20/28/52)\n8. Rich speed choices 100M/1000M/2.5G/10G for core layer,\ndistribution layer, and access layer applications .\n和 wm\nLED Indicator\nP: Power, Green Color\nOn: power status is normal\nOff: power off or power connection failure\nS: System indicator, Green Color\nOn: Normal operation\nOff: Connection failure\nBlinking: Device initialization\nCopper Status, Green Color\nOn: port link up\nBlinking: data is in normal transmission\nOff: port link down\nCopper Speed, Yellow Color\n@ PoE Models\nOn: PoE working; Off: PoE not working\n@ Non-PoE Models\nOn: port speed is 1000M\nOff: port speed is 10/100M\nFiber port, Green Color\nOn: port link up\nOff: port link down\nBlinking: data is in normal transmission\nReset Button\nRestore factory settings, long press>8 seconds\nMechanical Drawing\nidl\nIT\ne l| io 說\nLogin Interface\nIP address login\n1. Open browser and enter 192.168.x.xxx in the address\nbar.(Google browser is recommended)\n2. Default IP Address: 192.168.56.166\n3. Username/Password: Both are “admin”\nConsole port login\nCommon serial port software includes SecureCRT and\nputty. Take SecureCRT for an example.\nOpen the SecureCRT, select “New session”.\nSelect “Serial”, click “Next”.\nSelect relative COM port, baud rate 115200, flow\ncontrol and delete the \"V\" on the RTS/CTS selection\nbar, click “Next”, then click “Ok”\n4. Click “Enter”, put in user name/password “admin”.\nWN\n1G serakcomi0 Secret =n\nFie tat Wen Ootone Taner Set Tole eo\nao 659 351 @ 以 a\neet EE ET\nThis is only a simple introduction to the login method,\nplease refer to the Web manual/CLI manual or talk with us",
+"extracted_at":"2026-10-22T07:56:38Z",
+"thumb":"thumbs/PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__发货信息__Weixin_Image_20260904182142_658_258.jpg__2b0f584d.jpg"
+}

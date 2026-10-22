@@ -1,0 +1,47 @@
+{
+"id":"PI__PI__2_印度_Rishi_gg__1st_order__百运网发货平台规则.docx__b5fa6ffa",
+"path":"PI/PI/2 印度 Rishi gg/1st order/百运网发货平台规则.docx",
+"name":"百运网发货平台规则.docx",
+"ext":".docx",
+"bytes":12451,
+"sha256":"b5fa6ffa0bdf5829ff024924dbeec17b6a504c03183cdb45e7e096fffeb8a3c9",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2023-10-14T08:04:00+00:00",
+"modified":"2023-10-14T08:44:23+00:00",
+"paragraphs":4,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"chars":80,
+"text":"需提供\n发票(用你们的格式填写) 每次发货前要和业务确认, 每个的模板不一样\n装箱信息(尺寸，体积，重量和材料)\n产品信息(名称，海关编码，数量单价货值，用途)",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"需提供"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"发票(用你们的格式填写) 每次发货前要和业务确认, 每个的模板不一样"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"装箱信息(尺寸，体积，重量和材料)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"产品信息(名称，海关编码，数量单价货值，用途)"
+}
+],
+"extracted_at":"2026-10-22T07:31:30Z"
+}

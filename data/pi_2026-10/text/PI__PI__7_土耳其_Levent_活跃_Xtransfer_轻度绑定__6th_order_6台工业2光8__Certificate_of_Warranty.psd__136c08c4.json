@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__6th_order_6台工业2光8__Certificate_of_Warranty.psd__136c08c4",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/6th order 6台工业2光8/Certificate of Warranty.psd",
+"name":"Certificate of Warranty.psd",
+"ext":".psd",
+"bytes":5084854,
+"sha256":"136c08c48559a2c52df9323809aa7dc08dc9f6dce542cfdd96e61439da68a1dd",
+"source":"PI.zip",
+"method":"pillow(psd composite)",
+"status":"meta",
+"meta":{
+"format":"PSD",
+"width":2480,
+"height":3508,
+"mode":"RGB",
+"thumb_bytes":15799
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:36:58Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__6th_order_6台工业2光8__Certificate_of_Warranty.psd__136c08c4.jpg"
+}

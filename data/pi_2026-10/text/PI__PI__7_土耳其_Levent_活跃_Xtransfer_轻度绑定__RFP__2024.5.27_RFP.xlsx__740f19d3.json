@@ -1,0 +1,537 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__RFP__2024.5.27_RFP.xlsx__740f19d3",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/RFP/2024.5.27_RFP.xlsx",
+"name":"2024.5.27_RFP.xlsx",
+"ext":".xlsx",
+"bytes":86803,
+"sha256":"740f19d3e8826aa1e7b2de2771811f9ae43b70487192fd60644d377b49f7882c",
+"source":"PI.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"Product Requirements"
+],
+"embedded_images":0,
+"rows_total":76
+},
+"warnings":[],
+"chars":12539,
+"text":"--- Sheet: Product Requirements ---\n\tSWITCH  REQUIREMENT\n1.1\tHARDWARE / SOFTWARE SPECIFICATIONS\t\tExplanation\tResponse\n1.1.1\tLICENCE\tProduct licensing should be stated in detail. Software updates should be provided free of charge by the supplier, and information on which software will be provided for the products taken into stock should be stated.\t\tFULLY COMPLIANT\n1.1.2\tPERFORMANCE SPECIFICATIONS\n1.1.2.1\tMEMORY AND CPU PERFORMANCE\tEach network element must support enough CPU and memory performance to cover any loop incident. Please describe details.\t\tFULLY COMPLIANT\n1.1.2.2\tTHROUPUT CAPACITY\tEach network element must support 1:1 interface throuput with full duplex. Please describe details.\t\tFULLY COMPLIANT\n1.1.2.3\tBACKPLANE CAPACITY\tEach network element must support 1:1 backplane capacity support. Please describe details.\t\tFULLY COMPLIANT\n1.1.2.4\tPRODUCT LIFE CYCLE\tSpecify the life cycle and duration of the recommended product, and guarantee that the EoS product will be replaced with an equivalent product. Share the road map information of the product.\t\tFULLY COMPLIANT\n1.1.3\tINTERFACE SPECIFICATIONS\n1.1.3.1\tPHYSICAL INTERFACES\tThe equipment must support SFP+, BIDI, 1000BASE-T and PON SFP with speed 1 Gbps or 10 Gbps    Must be able to work with OEM SFP.                                                                                                                                                                                                         Minimum 24 x1G Cupper or SFP based ethernet interface, The equipment must also have a minimum of 4 x10G ethernet ports, and each port must be able to provide the speed it supports independently.\tPON SFP's are not supported\tPARTIALLY COMPLIANT\n1.1.3.2\tBUFFER SIZE\tPlease specify the equipment’s buffer size and if it can change manually\t\tFULLY COMPLIANT\n1.1.3.3\tCONSOLE INTERFACE\tThe equipment must have console port for connecting via PC for management and configuration.\t\tFULLY COMPLIANT\n1.1.3.4\tPOWER SPECIFICATIONS\tThe equipment must have pluggable and hot swap redundant AC or DC power supply.\tDual AC or DC power supplies available.\nNo hotpluggable power modules available.\tPARTIALLY COMPLIANT\n1.1.3.5\tOPERATING ENVIRONMENTAL SPECIFICATIONS\tOperating temperature must be –40 to 70ºC\tOperating temperature lies between -20 to 70C\tNON COMPLIANT\n1.1.3.6\tDIMENSIONS\tThe equipment must be 1U. Please specify dimensions of the equipment in detail.\t\tFULLY COMPLIANT\n1.1.3.7\tFLASH CAPACITY\tThe network element MUST be able to store two software in same time for next 3 year. Additional Notes: Minimum internal flash MUST be 128 Mbyte.\t\tFULLY COMPLIANT\n1.1.3.8\tUSB INTERFACE\tSpecify usb interface capacity for file transfer\t\tFULLY COMPLIANT\n1.2\tLAYER 2/3  SPECIFICATIONS\n1.2.1\tIEEE 802.1Q\tThe network element MUST support VLAN transport according IEEE 802.1Q. Full range of 4096 tags SHOULD be supported.\t4093 vlan tags are available\tPARTIALLY COMPLIANT\n1.2.2\tNATIVE VLAN\tTraffic on one particular VLAN MUST remain untagged (native VLAN described in IEEE 802.1Q). Any VLAN from supported range MUST be native eligible and different UNI ports can have different native VLAN.\t\tFULLY COMPLIANT\n1.2.3\t802.1Q TUNNELING\tThe network element MUST support 802.1q tunneling. Please describe vlan transport mechanism.\t\tFULLY COMPLIANT\n1.2.4\tSELECTIVE QinQ\tThe network element MUST support support Selective QinQ.\t\tFULLY COMPLIANT\n1.2.5\tQinQ\tThe network element MUST support QinQ configuration under sub-interfaces and virtual interfaces.\t\tFULLY COMPLIANT\n1.2.6\tVLAN TRANSLATION\tThe network element MUST support vlan translation.\t\tFULLY COMPLIANT\n1.2.7\tLAG (LACP)\tThe network element MUST support LACP (8 bit load-sharing).\t\tFULLY COMPLIANT\n1.2.8\tMC-LAG\tThe network element MUST support multi-chassis LAG.\t\tFULLY COMPLIANT\n1.2.9\tSTACK\t1 and 10Gb ports must include stack support. Provide product detail and support.\t\tFULLY COMPLIANT\n1.2.10\tLOOP PROTECTION\t\t\tFULLY COMPLIANT\n1.2.10.1\tIEEE 802.1D STP SUPPORT\tSTP (Spanning Tree Protocol) MUST be supported as defined in 802.1D.\t\tFULLY COMPLIANT\n1.2.10.2\tIEEE 802.1W RSTP SUPPORT\tRSTP (Rapid Spanning Tree Protocol) MUST be supported as defined in 802.1w.\t\tFULLY COMPLIANT\n1.2.10.3\tIEEE 802.1S MSTP SUPPORT\tMSTP (Multiple Spanning Tree Protocol) MUST be supported as defined in 802.1S.\t\tFULLY COMPLIANT\n1.2.10.4\tSTP ROOT-PROTECTION\tThe network element must stp root-protection feature. Please describe in details.\t\tFULLY COMPLIANT\n1.2.10.5\tSTP PROCESS SUPPORT\tThe network element must support stp process feature. Please describe in details.\t\tFULLY COMPLIANT\n1.2.10.6\tSTP LOOP PROTECTION\tLoop protection mechanisms MUST be included. MSTP (Multiple Spanning Tree Protocol) MUST be supported as defined in IEEE 802.1s.\t\tFULLY COMPLIANT\n1.2.11\tIEEE 802.3x\tThe network element MUST support IEEE 802.3x Flow Control.\t\tFULLY COMPLIANT\n1.2.12\tMAC-LEARNING PRIORITY\tThe network element must support mac-learning priority or equivalent feature. Please describe in details\t\tFULLY COMPLIANT\n1.2.13\tETHERNET HOLD TIMERS\tThe network element MUST be able detect link flaps and put the interface up and down timer to provide more stable L2 network.\t\tFULLY COMPLIANT\n1.2.14\tUNIDIRECTIONAL LINK DETECTION\tThe network elements MUST be able to detect unidirectional optical link (one optical fibre inactive from some reason in pair or cabling mismatch). Please describe detection algorithm in detail.\t\tFULLY COMPLIANT\n1.2.15\tMTU\tThe equipment must have jumbo frame support (9000).\t\tFULLY COMPLIANT\n1.2.16\tLLDP\tThe equipment must support Link Layer Discovery Protocol as defined in IEEE 802.1AB.\t\tFULLY COMPLIANT\n1.2.17\tIP LAYER SERVICES\tNetwork Address Translation (NAT)\nPort Address Translation (PAT)\nDynamic Host Configuration Protocol (DHCP) server, relay, client\nDHCP Option\nDynamic Domain Name System (DNS)\nDNS Proxy\nDNS Spoofing\nAccess control lists (ACLs , ACL  Group , vrf base ACL group )\nVirtual Route Forwarding (VRF) Lite\nBidirectional Forwarding Detection (BFD)\tVRF Lite is not supported\nBFD is not supported\nNAT is not supported\tPARTIALLY COMPLIANT\n1.2.18\tSTATIC ROUTING\tThe Router must support static routing with “tracking” extensions. VRF route must support\tTracking will be available in 2024 Q1\tPARTIALLY COMPLIANT\n1.3\tSECURITY SPECIFICATIONS\n1.3.1\tCONTROL PLANE  POLICY\tThe equipment must have control plane policy. Please describe in details.\tThe device software have built in cpp protection\n that prevents device to be broken under cpu targeted attacks\tPARTIALLY COMPLIANT\n1.3.2\tCPU DEFEND  POLICY\tThe equipment must have CPU defend policy. Please describe in details.\tThe device software have built in cpp protection\nthat prevents device to be broken under cpu targeted attacks\tPARTIALLY COMPLIANT\n1.3.3\tPORT SECURITY\tThe equipment must have port security features. Please describe in details.\t\tFULL COMPLIANT\n1.3.4\tSTORM CONTROL\tThe equipment must have broadcast and multicast storm control. Please describe in details\t\tFULL COMPLIANT\n1.3.5\tIEEE 802.1X SUPPORT\tThe equipment must have network access control as defined in 802.1X. Please describe in details.\t\tFULL COMPLIANT\n1.3.6\tTRAFFIC FILTERING\tThe equipment must have ingress and egress Layer 2 and Layer 3 traffic-filter and traffic-policy. Please describe in details.\t\tFULL COMPLIANT\n1.3.6.1\tIP ADDRESS FILTERING\tThe equipment must have IP access list support. Please describe in details.\t\tFULL COMPLIANT\n1.3.6.2\tMAC ADDRESS FILTERING\tThe equipment must have MAC access list support. Please describe in details.\t\tFULL COMPLIANT\n1.3.7\tPRIVATE VLAN\tThe equipment must have private vlan support. Please describe in details.\t\tFULL COMPLIANT\n1.3.8\tDHCP SNOOPING\tThe equipment must have DHCP snooping support. Please describe in details.\t\tFULL COMPLIANT\n1.3.9\tARP INSPECTION\tThe equipment must have ARP inspection support. Please describe in details.\t\tFULL COMPLIANT\n1.3.10\tDHCP OPTION\tThe equipment must have dhcp option support. Please describe in details.\t\tFULL COMPLIANT\n1.3.11\tBPDU GUARD / FILTERING\tThe equipment must have bpdu guard and filtering on UNI ports support. Please describe in details.\t\tFULL COMPLIANT\n1.4\tL2 / L3 QoS SPECIFICATIONS\n1.4.1\tPRIORITIZATION / QUEUING\tThe equipment must have packet prioritization in hardware. Minimum eight queues, scheduling, shaping, policing and queue mapping  must be supported. Assigning packet to the queue must be possible at least on one criteria CoS (802.1P), ToS, DSCP with marking. Please describe in details.\t\tFULL COMPLIANT\n1.4.2\tQoS TYPES\tThe equipment must support QoS types below. Please describe in details                                                                                                             Qos PQ on uplink  \nQos WRR on uplink  \nQos PQ on downlink  \nQos WRR on downlink  \nBoth multicast and unicast options shall support QoS marking capability per operator choice.\t\tFULL COMPLIANT\n1.5\tMULTICAST\n1.5.1\tSPECIFICATIONS\tThe equipment must support multicast features below. Please describe in details.                                                                                                                                                                                                                                          IGMPv2 snooping  \nIGMPv3 snooping  \nPIM SSM  \nPIM sparse mode  \nPIM sparse dense mode    \tPIM Convergence    \tIGMP Fast Leave ?  \nIGMP Proxy  \nMVR Multicast Vlan Registration                                                                                                                                                                                                                                                                                               Ethernet multicast option shall support both VLAN and untagged options. Using a VLAN for multicast shall be operator configurable  \nMulticast VPN\tL3 multicast protocols such as PIM are not supported\tPARTIALLY COMPLIANT\n1.6\tNETWORK MANAGEMENT\n1.6.1\tNMS\tSmart network management system including central service creation and operation and monitoring must be supported. Please describe in details.\t\tFULL COMPLIANT\n1.6.2\tOPENFLOW\tThe equipment must support  Netflow , OpenFlow. Please describe in details.\tSflow which provide necessary functions to cover netflow is supported. \nOpenflow is not supported in proposed hardware\tNON COMPLIANT\n1.6.3\tNETWORK PERFORMANCE AND SERVICE INVENTORY\tNetwork performance and service inventory must be provided and implemented by tenderer. Please describe in details.\t\tFULL COMPLIANT\n1.6.4\tIEEE 802.3ah - OAM\tThe equipment must support  IEEE 802.3ah standard for Operation, Administration, and Management (OAM). Please describe in details\t\tFULL COMPLIANT\n1.6.5\t802.1ag – CFM\tThe equipment must support  IEEE 802.1ag (also CFM). Please describe in details.\t\tFULL COMPLIANT\n1.6.6\tITU-T Y.1731\tThe equipment must support  ITU-T Y.1731 for performance management. Please describe in details.\t\tNON COMPLIANT\n1.6.7\tSNMP\tThe equipment must support SNMP-V2 / V3 MIBS , TRAPS and access-list. All of the MIBs must be given to Turkcell. Please describe in details.\t\tFULL COMPLIANT\n1.6.8\tTWAMP\tThe equipment must support  Two-Way Active Measurement Protocol (TWAMP).\t\tNON COMPLIANT\n1.6.9\tRTR Tracking\tThe equipment must support  RTR Tracking feature. Please describe details\t\tNON COMPLIANT\n1.6.10\tREMOTE ACCESS\tThe equipment must support Telnet, SSHv2, SSHv3 Web Interface for remote management. Please describe in details. Also privileged levels and source IP restriction must be supported. Please describe in details.\t\tFULL COMPLIANT\n1.6.11\tSYSLOG\tThe equipment must support syslog to send events to the syslog server. Please describe in details.\t\tFULL COMPLIANT\n1.6.12\tCLI\tThe equipment must have command line interface (SSH, Telnet).\t\tFULL COMPLIANT\n1.6.13\tPROOF OF CONCEPT\tPOC, Service HLD-LLD and FNI must be included to the project.\t\tFULL COMPLIANT\n1.6.14\tMANAGEMENT\tPerformance Monitoring Features (Jitter, Delay, MOS ..etc.)\nAAA\nRADIUS and TACACS+ (  RSA can be used for services such as digital signatures  )\nOut-of-band management \nRMON\nNetwork traffic monitoring (flow capture and record)\nNTP ( Network Time Protocol )\nLocal packet capturing (wireshark) on switch for debugging\nSNMP V2,V3 ,TR-069 , TR-064 , TR-098 ,TR-111 , TR-104 protocol support , \nNetconf  / Yang\nIPfix\nComparing SSH Keys - RSA hash must be support SHA 512\tNetconf and YANG is not supported. \nLocal packet capturing is not supported\nSflow is supported instead of IPFIX\nTR portocols are not supported. Angora own zero touch provisioning system can be used for remote deployments\tPARTIALLY COMPLIANT",
+"sheets":{
+"Product Requirements":{
+"state":"visible",
+"rows":[
+[
+"",
+"SWITCH  REQUIREMENT"
+],
+[
+"1.1",
+"HARDWARE / SOFTWARE SPECIFICATIONS",
+"",
+"Explanation",
+"Response"
+],
+[
+"1.1.1",
+"LICENCE",
+"Product licensing should be stated in detail. Software updates should be provided free of charge by the supplier, and information on which software will be provided for the products taken into stock should be stated.",
+"",
+"FULLY COMPLIANT"
+],
+[
+"1.1.2",
+"PERFORMANCE SPECIFICATIONS"
+],
+[
+"1.1.2.1",
+"MEMORY AND CPU PERFORMANCE",
+"Each network element must support enough CPU and memory performance to cover any loop incident. Please describe details.",
+"",
+"FULLY COMPLIANT"
+],
+[
+"1.1.2.2",
+"THROUPUT CAPACITY",
+"Each network element must support 1:1 interface throuput with full duplex. Please describe details.",
+"",
+"FULLY COMPLIANT"
+],
+[
+"1.1.2.3",
+"BACKPLANE CAPACITY",
+"Each network element must support 1:1 backplane capacity support. Please describe details.",
+"",
+"FULLY COMPLIANT"
+],
+[
+"1.1.2.4",
+"PRODUCT LIFE CYCLE",
+"Specify the life cycle and duration of the recommended product, and guarantee that the EoS product will be replaced with an equivalent product. Share the road map information of the product.",
+"",
+"FULLY COMPLIANT"
+],
+[
+"1.1.3",
+"INTERFACE SPECIFICATIONS"
+],
+[
+"1.1.3.1",
+"PHYSICAL INTERFACES",
+"The equipment must support SFP+, BIDI, 1000BASE-T and PON SFP with speed 1 Gbps or 10 Gbps    Must be able to work with OEM SFP.                                                                                                                                                                                                         Minimum 24 x1G Cupper or SFP based ethernet interface, The equipment must also have a minimum of 4 x10G ethernet ports, and each port must be able to provide the speed it supports independently.",
+"PON SFP's are not supported",
+"PARTIALLY COMPLIANT"
+],
+[
+"1.1.3.2",
+"BUFFER SIZE",
+"Please specify the equipment’s buffer size and if it can change manually",
+"",
+"FULLY COMPLIANT"
+],
+[
+"1.1.3.3",
+"CONSOLE INTERFACE",
+"The equipment must have console port for connecting via PC for management and configuration.",
+"",
+"FULLY COMPLIANT"
+],
+[
+"1.1.3.4",
+"POWER SPECIFICATIONS",
+"The equipment must have pluggable and hot swap redundant AC or DC power supply.",
+"Dual AC or DC power supplies available.\nNo hotpluggable power modules available.",
+"PARTIALLY COMPLIANT"
+],
+[
+"1.1.3.5",
+"OPERATING ENVIRONMENTAL SPECIFICATIONS",
+"Operating temperature must be –40 to 70ºC",
+"Operating temperature lies between -20 to 70C",
+"NON COMPLIANT"
+],
+[
+"1.1.3.6",
+"DIMENSIONS",
+"The equipment must be 1U. Please specify dimensions of the equipment in detail.",
+"",
+"FULLY COMPLIANT"
+],
+[
+"1.1.3.7",
+"FLASH CAPACITY",
+"The network element MUST be able to store two software in same time for next 3 year. Additional Notes: Minimum internal flash MUST be 128 Mbyte.",
+"",
+"FULLY COMPLIANT"
+],
+[
+"1.1.3.8",
+"USB INTERFACE",
+"Specify usb interface capacity for file transfer",
+"",
+"FULLY COMPLIANT"
+],
+[
+"1.2",
+"LAYER 2/3  SPECIFICATIONS"
+],
+[
+"1.2.1",
+"IEEE 802.1Q",
+"The network element MUST support VLAN transport according IEEE 802.1Q. Full range of 4096 tags SHOULD be supported.",
+"4093 vlan tags are available",
+"PARTIALLY COMPLIANT"
+],
+[
+"1.2.2",
+"NATIVE VLAN",
+"Traffic on one particular VLAN MUST remain untagged (native VLAN described in IEEE 802.1Q). Any VLAN from supported range MUST be native eligible and different UNI ports can have different native VLAN.",
+"",
+"FULLY COMPLIANT"
+],
+[
+"1.2.3",
+"802.1Q TUNNELING",
+"The network element MUST support 802.1q tunneling. Please describe vlan transport mechanism.",
+"",
+"FULLY COMPLIANT"
+],
+[
+"1.2.4",
+"SELECTIVE QinQ",
+"The network element MUST support support Selective QinQ.",
+"",
+"FULLY COMPLIANT"
+],
+[
+"1.2.5",
+"QinQ",
+"The network element MUST support QinQ configuration under sub-interfaces and virtual interfaces.",
+"",
+"FULLY COMPLIANT"
+],
+[
+"1.2.6",
+"VLAN TRANSLATION",
+"The network element MUST support vlan translation.",
+"",
+"FULLY COMPLIANT"
+],
+[
+"1.2.7",
+"LAG (LACP)",
+"The network element MUST support LACP (8 bit load-sharing).",
+"",
+"FULLY COMPLIANT"
+],
+[
+"1.2.8",
+"MC-LAG",
+"The network element MUST support multi-chassis LAG.",
+"",
+"FULLY COMPLIANT"
+],
+[
+"1.2.9",
+"STACK",
+"1 and 10Gb ports must include stack support. Provide product detail and support.",
+"",
+"FULLY COMPLIANT"
+],
+[
+"1.2.10",
+"LOOP PROTECTION",
+"",
+"",
+"FULLY COMPLIANT"
+],
+[
+"1.2.10.1",
+"IEEE 802.1D STP SUPPORT",
+"STP (Spanning Tree Protocol) MUST be supported as defined in 802.1D.",
+"",
+"FULLY COMPLIANT"
+],
+[
+"1.2.10.2",
+"IEEE 802.1W RSTP SUPPORT",
+"RSTP (Rapid Spanning Tree Protocol) MUST be supported as defined in 802.1w.",
+"",
+"FULLY COMPLIANT"
+],
+[
+"1.2.10.3",
+"IEEE 802.1S MSTP SUPPORT",
+"MSTP (Multiple Spanning Tree Protocol) MUST be supported as defined in 802.1S.",
+"",
+"FULLY COMPLIANT"
+],
+[
+"1.2.10.4",
+"STP ROOT-PROTECTION",
+"The network element must stp root-protection feature. Please describe in details.",
+"",
+"FULLY COMPLIANT"
+],
+[
+"1.2.10.5",
+"STP PROCESS SUPPORT",
+"The network element must support stp process feature. Please describe in details.",
+"",
+"FULLY COMPLIANT"
+],
+[
+"1.2.10.6",
+"STP LOOP PROTECTION",
+"Loop protection mechanisms MUST be included. MSTP (Multiple Spanning Tree Protocol) MUST be supported as defined in IEEE 802.1s.",
+"",
+"FULLY COMPLIANT"
+],
+[
+"1.2.11",
+"IEEE 802.3x",
+"The network element MUST support IEEE 802.3x Flow Control.",
+"",
+"FULLY COMPLIANT"
+],
+[
+"1.2.12",
+"MAC-LEARNING PRIORITY",
+"The network element must support mac-learning priority or equivalent feature. Please describe in details",
+"",
+"FULLY COMPLIANT"
+],
+[
+"1.2.13",
+"ETHERNET HOLD TIMERS",
+"The network element MUST be able detect link flaps and put the interface up and down timer to provide more stable L2 network.",
+"",
+"FULLY COMPLIANT"
+],
+[
+"1.2.14",
+"UNIDIRECTIONAL LINK DETECTION",
+"The network elements MUST be able to detect unidirectional optical link (one optical fibre inactive from some reason in pair or cabling mismatch). Please describe detection algorithm in detail.",
+"",
+"FULLY COMPLIANT"
+],
+[
+"1.2.15",
+"MTU",
+"The equipment must have jumbo frame support (9000).",
+"",
+"FULLY COMPLIANT"
+],
+[
+"1.2.16",
+"LLDP",
+"The equipment must support Link Layer Discovery Protocol as defined in IEEE 802.1AB.",
+"",
+"FULLY COMPLIANT"
+],
+[
+"1.2.17",
+"IP LAYER SERVICES",
+"Network Address Translation (NAT)\nPort Address Translation (PAT)\nDynamic Host Configuration Protocol (DHCP) server, relay, client\nDHCP Option\nDynamic Domain Name System (DNS)\nDNS Proxy\nDNS Spoofing\nAccess control lists (ACLs , ACL  Group , vrf base ACL group )\nVirtual Route Forwarding (VRF) Lite\nBidirectional Forwarding Detection (BFD)",
+"VRF Lite is not supported\nBFD is not supported\nNAT is not supported",
+"PARTIALLY COMPLIANT"
+],
+[
+"1.2.18",
+"STATIC ROUTING",
+"The Router must support static routing with “tracking” extensions. VRF route must support",
+"Tracking will be available in 2024 Q1",
+"PARTIALLY COMPLIANT"
+],
+[
+"1.3",
+"SECURITY SPECIFICATIONS"
+],
+[
+"1.3.1",
+"CONTROL PLANE  POLICY",
+"The equipment must have control plane policy. Please describe in details.",
+"The device software have built in cpp protection\n that prevents device to be broken under cpu targeted attacks",
+"PARTIALLY COMPLIANT"
+],
+[
+"1.3.2",
+"CPU DEFEND  POLICY",
+"The equipment must have CPU defend policy. Please describe in details.",
+"The device software have built in cpp protection\nthat prevents device to be broken under cpu targeted attacks",
+"PARTIALLY COMPLIANT"
+],
+[
+"1.3.3",
+"PORT SECURITY",
+"The equipment must have port security features. Please describe in details.",
+"",
+"FULL COMPLIANT"
+],
+[
+"1.3.4",
+"STORM CONTROL",
+"The equipment must have broadcast and multicast storm control. Please describe in details",
+"",
+"FULL COMPLIANT"
+],
+[
+"1.3.5",
+"IEEE 802.1X SUPPORT",
+"The equipment must have network access control as defined in 802.1X. Please describe in details.",
+"",
+"FULL COMPLIANT"
+],
+[
+"1.3.6",
+"TRAFFIC FILTERING",
+"The equipment must have ingress and egress Layer 2 and Layer 3 traffic-filter and traffic-policy. Please describe in details.",
+"",
+"FULL COMPLIANT"
+],
+[
+"1.3.6.1",
+"IP ADDRESS FILTERING",
+"The equipment must have IP access list support. Please describe in details.",
+"",
+"FULL COMPLIANT"
+],
+[
+"1.3.6.2",
+"MAC ADDRESS FILTERING",
+"The equipment must have MAC access list support. Please describe in details.",
+"",
+"FULL COMPLIANT"
+],
+[
+"1.3.7",
+"PRIVATE VLAN",
+"The equipment must have private vlan support. Please describe in details.",
+"",
+"FULL COMPLIANT"
+],
+[
+"1.3.8",
+"DHCP SNOOPING",
+"The equipment must have DHCP snooping support. Please describe in details.",
+"",
+"FULL COMPLIANT"
+],
+[
+"1.3.9",
+"ARP INSPECTION",
+"The equipment must have ARP inspection support. Please describe in details.",
+"",
+"FULL COMPLIANT"
+],
+[
+"1.3.10",
+"DHCP OPTION",
+"The equipment must have dhcp option support. Please describe in details.",
+"",
+"FULL COMPLIANT"
+],
+[
+"1.3.11",
+"BPDU GUARD / FILTERING",
+"The equipment must have bpdu guard and filtering on UNI ports support. Please describe in details.",
+"",
+"FULL COMPLIANT"
+],
+[
+"1.4",
+"L2 / L3 QoS SPECIFICATIONS"
+],
+[
+"1.4.1",
+"PRIORITIZATION / QUEUING",
+"The equipment must have packet prioritization in hardware. Minimum eight queues, scheduling, shaping, policing and queue mapping  must be supported. Assigning packet to the queue must be possible at least on one criteria CoS (802.1P), ToS, DSCP with marking. Please describe in details.",
+"",
+"FULL COMPLIANT"
+],
+[
+"1.4.2",
+"QoS TYPES",
+"The equipment must support QoS types below. Please describe in details                                                                                                             Qos PQ on uplink  \nQos WRR on uplink  \nQos PQ on downlink  \nQos WRR on downlink  \nBoth multicast and unicast options shall support QoS marking capability per operator choice.",
+"",
+"FULL COMPLIANT"
+],
+[
+"1.5",
+"MULTICAST"
+],
+[
+"1.5.1",
+"SPECIFICATIONS",
+"The equipment must support multicast features below. Please describe in details.                                                                                                                                                                                                                                          IGMPv2 snooping  \nIGMPv3 snooping  \nPIM SSM  \nPIM sparse mode  \nPIM sparse dense mode    \tPIM Convergence    \tIGMP Fast Leave ?  \nIGMP Proxy  \nMVR Multicast Vlan Registration                                                                                                                                                                                                                                                                                               Ethernet multicast option shall support both VLAN and untagged options. Using a VLAN for multicast shall be operator configurable  \nMulticast VPN",
+"L3 multicast protocols such as PIM are not supported",
+"PARTIALLY COMPLIANT"
+],
+[
+"1.6",
+"NETWORK MANAGEMENT"
+],
+[
+"1.6.1",
+"NMS",
+"Smart network management system including central service creation and operation and monitoring must be supported. Please describe in details.",
+"",
+"FULL COMPLIANT"
+],
+[
+"1.6.2",
+"OPENFLOW",
+"The equipment must support  Netflow , OpenFlow. Please describe in details.",
+"Sflow which provide necessary functions to cover netflow is supported. \nOpenflow is not supported in proposed hardware",
+"NON COMPLIANT"
+],
+[
+"1.6.3",
+"NETWORK PERFORMANCE AND SERVICE INVENTORY",
+"Network performance and service inventory must be provided and implemented by tenderer. Please describe in details.",
+"",
+"FULL COMPLIANT"
+],
+[
+"1.6.4",
+"IEEE 802.3ah - OAM",
+"The equipment must support  IEEE 802.3ah standard for Operation, Administration, and Management (OAM). Please describe in details",
+"",
+"FULL COMPLIANT"
+],
+[
+"1.6.5",
+"802.1ag – CFM",
+"The equipment must support  IEEE 802.1ag (also CFM). Please describe in details.",
+"",
+"FULL COMPLIANT"
+],
+[
+"1.6.6",
+"ITU-T Y.1731",
+"The equipment must support  ITU-T Y.1731 for performance management. Please describe in details.",
+"",
+"NON COMPLIANT"
+],
+[
+"1.6.7",
+"SNMP",
+"The equipment must support SNMP-V2 / V3 MIBS , TRAPS and access-list. All of the MIBs must be given to Turkcell. Please describe in details.",
+"",
+"FULL COMPLIANT"
+],
+[
+"1.6.8",
+"TWAMP",
+"The equipment must support  Two-Way Active Measurement Protocol (TWAMP).",
+"",
+"NON COMPLIANT"
+],
+[
+"1.6.9",
+"RTR Tracking",
+"The equipment must support  RTR Tracking feature. Please describe details",
+"",
+"NON COMPLIANT"
+],
+[
+"1.6.10",
+"REMOTE ACCESS",
+"The equipment must support Telnet, SSHv2, SSHv3 Web Interface for remote management. Please describe in details. Also privileged levels and source IP restriction must be supported. Please describe in details.",
+"",
+"FULL COMPLIANT"
+],
+[
+"1.6.11",
+"SYSLOG",
+"The equipment must support syslog to send events to the syslog server. Please describe in details.",
+"",
+"FULL COMPLIANT"
+],
+[
+"1.6.12",
+"CLI",
+"The equipment must have command line interface (SSH, Telnet).",
+"",
+"FULL COMPLIANT"
+],
+[
+"1.6.13",
+"PROOF OF CONCEPT",
+"POC, Service HLD-LLD and FNI must be included to the project.",
+"",
+"FULL COMPLIANT"
+],
+[
+"1.6.14",
+"MANAGEMENT",
+"Performance Monitoring Features (Jitter, Delay, MOS ..etc.)\nAAA\nRADIUS and TACACS+ (  RSA can be used for services such as digital signatures  )\nOut-of-band management \nRMON\nNetwork traffic monitoring (flow capture and record)\nNTP ( Network Time Protocol )\nLocal packet capturing (wireshark) on switch for debugging\nSNMP V2,V3 ,TR-069 , TR-064 , TR-098 ,TR-111 , TR-104 protocol support , \nNetconf  / Yang\nIPfix\nComparing SSH Keys - RSA hash must be support SHA 512",
+"Netconf and YANG is not supported. \nLocal packet capturing is not supported\nSflow is supported instead of IPFIX\nTR portocols are not supported. Angora own zero touch provisioning system can be used for remote deployments",
+"PARTIALLY COMPLIANT"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:41:11Z"
+}

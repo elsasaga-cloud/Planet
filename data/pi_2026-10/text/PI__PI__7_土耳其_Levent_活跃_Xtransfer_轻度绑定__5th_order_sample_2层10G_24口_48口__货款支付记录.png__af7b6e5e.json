@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__5th_order_sample_2层10G_24口_48口__货款支付记录.png__af7b6e5e",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/5th order sample  2层10G 24口 48口/货款支付记录.png",
+"name":"货款支付记录.png",
+"ext":".png",
+"bytes":97895,
+"sha256":"af7b6e5e24f8a5232ce29e090f69b0178853c257ce65202514893ad475558e09",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":5956
+},
+"warnings":[],
+"chars":227,
+"text":"5:39 al >\n< 轉 賬 記 錄 查 詢 Oo ©\n轉 給 羅 泛\n- 羊 14,630.00\n收 款 账 户 6214 3913 3000 0617 588\n收 款 银行 东莞 银行\n付款 賬戶 6214********+1962\n转账 附 言 转账\n转账 渠道 手机 银行\n转账 方式 电子 银行 转账\n@ 转账 完成 进度 查询\n2025-06-04 17:39:18\n通知 收 款 人\n查看 和 TA 的 转账 记录\n再 转 一 笔\nTAA",
+"extracted_at":"2026-10-22T07:45:16Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__5th_order_sample_2层10G_24口_48口__货款支付记录.png__af7b6e5e.jpg"
+}

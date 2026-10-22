@@ -1,0 +1,27 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__1st_order__INVOICE_STSC20241121015_Protokoll.pdf__06638572",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/1st order/INVOICE STSC20241121015 Protokoll.pdf",
+"name":"INVOICE STSC20241121015 Protokoll.pdf",
+"ext":".pdf",
+"bytes":190321,
+"sha256":"066385725feaf7ccb66ead82acb36364c61af727bcc4826b0bf16279663d26da",
+"source":"PI.zip",
+"method":"pdfplumber",
+"status":"ok",
+"meta":{
+"pages":1,
+"title":"Smoney Report",
+"author":"Matthias Adolph",
+"producer":"Microsoft: Print To PDF",
+"creationdate":"D:20241212100005+01'00'",
+"moddate":"D:20241212100005+01'00'",
+"ocr_pages":0
+},
+"warnings":[],
+"chars":509,
+"text":"[p1]\nStarMoney Business 11 12.12.2024 10:00:04\nJournal\nzum Konto NYNEX satellite OHG (USD), 023853501\nvom 28.11.2024 um 09:49:58 Uhr\nGesendet von: Administrator\nEmpfänger/Zahlungspflichtiger Ende-zu-Ende-Referenz Betrag Währung Fälligkeit\nKontonummer/IBAN Mandatsreferenz Rechnungsbetrag Währung\nBankleitzahl/BIC Mandatsstatus Auftrag/Textschlüssel\nVerwendungszweck\nZHENGZHOU SAGA TELECOM 600,00 USD 28.11.24\nCO., LTD.\n63003662406 SAÜ\nCHASHKHH\nINVOICE STSC20241121015\nAnzahl: 1\nSumme: 600,00 USD\nSeite 1 von 1",
+"pages":[
+"StarMoney Business 11 12.12.2024 10:00:04\nJournal\nzum Konto NYNEX satellite OHG (USD), 023853501\nvom 28.11.2024 um 09:49:58 Uhr\nGesendet von: Administrator\nEmpfänger/Zahlungspflichtiger Ende-zu-Ende-Referenz Betrag Währung Fälligkeit\nKontonummer/IBAN Mandatsreferenz Rechnungsbetrag Währung\nBankleitzahl/BIC Mandatsstatus Auftrag/Textschlüssel\nVerwendungszweck\nZHENGZHOU SAGA TELECOM 600,00 USD 28.11.24\nCO., LTD.\n63003662406 SAÜ\nCHASHKHH\nINVOICE STSC20241121015\nAnzahl: 1\nSumme: 600,00 USD\nSeite 1 von 1"
+],
+"extracted_at":"2026-10-22T07:34:09Z"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__4_俄罗斯_Andrey_货代走账_可发展__1st_order__售后问题_2.png__05528611",
+"path":"PI/PI/4 俄罗斯 Andrey 货代走账 可发展/1st order/售后问题 2.png",
+"name":"售后问题 2.png",
+"ext":".png",
+"bytes":81050,
+"sha256":"05528611eaec365dd1ced27e82945088b40325b1c87016c4ace1f5c9f5184693",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":736,
+"height":337,
+"mode":"RGBA",
+"thumb_bytes":10222
+},
+"warnings":[],
+"chars":355,
+"text":"Loader Version 3.2.0.33 Vv\nLoader Date Mar 09 2023 - 08:49:43\nFirmware Version 1.0.0.34\nFirmware Date Mar 09 2023 - 09:01:23 7.53 pyy\nCurrent 5.54 py\niso.3.6.1.2.1.17.4.3.1.1.8.90.17.155.171.252 = Hex-STRING: 08 5A 11 9B AB\nFC\nError: OID not increasing: iso.3.6.1.2.1.17.4.3.1.1.224.217.227.243.217.0\n>= is0.3.6.1.2.1.17.4.3.1.1.8.90.17.155.171.252 754 PM",
+"extracted_at":"2026-10-22T07:46:39Z",
+"thumb":"thumbs/PI__PI__4_俄罗斯_Andrey_货代走账_可发展__1st_order__售后问题_2.png__05528611.jpg"
+}

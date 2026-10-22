@@ -1,0 +1,109 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__3rd_order_176台2光16电_L2_PoE__Packing_List.xls__0e7dc29c",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/3rd order 176台2光16电 L2 PoE/Packing List.xls",
+"name":"Packing List.xls",
+"ext":".xls",
+"bytes":26624,
+"sha256":"0e7dc29c834e169beca1be2c429de2f94c3110732828f55a5b2736e00036737e",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Sheet1",
+"Sheet2",
+"Sheet3"
+],
+"rows_total":16
+},
+"warnings":[],
+"chars":695,
+"text":"--- Sheet: Sheet1 ---\nPACKING  LIST\nINVOICE NO.:\nConsigner:郑州仨戛通讯器材有限公司\nAdd: 316, 22nd Floor, Building 57, Futian Sun City, Zhongzhou Avenue, Shanghai Road, Guancheng District, Zhengzhou City\nTel:  86 15237149683\nAttn: Simon\nConsignee:\nAdd:\nTel:\nAttn:\nGOODS DELIVER TO:\nCarton No.\tItem\tDescription\tQTY\n(pcs)\tN/W\n(kg)\tG/W\n(kg)\tDimension(CBM)\n#1-22\tANW-2116-PG\tL2+ Managed Industrial switch: 16*10/100/1000Base-T+1G/2.5G SFP\t8*22=176\t20.2*22=444.4\t21.2*22=466.4\t53.5*40*40.8=0.09 CBM\n#23\tANW-2116-PG\tL2+ Managed Industrial switch: 16*10/100/1000Base-T+1G/2.5G SFP\t2\t4.5\t5.5\t37*31.5*20.5=0.02 CBM\nTOTAL\t\t23 Cartons\t178\t448.9\t471.9\t0.11CBM\n\t\tSign & Stamp:\n--- Sheet: Sheet2 ---\n--- Sheet: Sheet3 ---",
+"sheets":{
+"Sheet1":{
+"rows":[
+[
+"PACKING  LIST"
+],
+[
+"INVOICE NO.:"
+],
+[
+"Consigner:郑州仨戛通讯器材有限公司"
+],
+[
+"Add: 316, 22nd Floor, Building 57, Futian Sun City, Zhongzhou Avenue, Shanghai Road, Guancheng District, Zhengzhou City"
+],
+[
+"Tel:  86 15237149683"
+],
+[
+"Attn: Simon"
+],
+[
+"Consignee:"
+],
+[
+"Add:"
+],
+[
+"Tel:"
+],
+[
+"Attn:"
+],
+[
+"GOODS DELIVER TO:"
+],
+[
+"Carton No.",
+"Item",
+"Description",
+"QTY\n(pcs)",
+"N/W\n(kg)",
+"G/W\n(kg)",
+"Dimension(CBM)"
+],
+[
+"#1-22",
+"ANW-2116-PG",
+"L2+ Managed Industrial switch: 16*10/100/1000Base-T+1G/2.5G SFP",
+"8*22=176",
+"20.2*22=444.4",
+"21.2*22=466.4",
+"53.5*40*40.8=0.09 CBM"
+],
+[
+"#23",
+"ANW-2116-PG",
+"L2+ Managed Industrial switch: 16*10/100/1000Base-T+1G/2.5G SFP",
+"2",
+"4.5",
+"5.5",
+"37*31.5*20.5=0.02 CBM"
+],
+[
+"TOTAL",
+"",
+"23 Cartons",
+"178",
+"448.9",
+"471.9",
+"0.11CBM"
+],
+[
+"",
+"",
+"Sign & Stamp:"
+]
+]
+},
+"Sheet2":{
+"rows":[]
+},
+"Sheet3":{
+"rows":[]
+}
+},
+"extracted_at":"2026-10-22T07:39:58Z"
+}

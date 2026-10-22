@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__1st_order__发货图片__6.jpg__29b71f8e",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/1st order/发货图片/6.jpg",
+"name":"6.jpg",
+"ext":".jpg",
+"bytes":567238,
+"sha256":"29b71f8edb63818e0e1943fdeaccb110b9ebedd11430d5c5383170d250030936",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1080,
+"height":1440,
+"mode":"RGB",
+"thumb_bytes":9983
+},
+"warnings":[],
+"chars":130,
+"text":"SEA2000-PERN\n疡 州 市 自 去 区 和 白云 湖 街 朗 兴 路 7 號 , 510000\n13416307791, 020-87465324\nSEA2000-PERN\nSEA2000-PERN\nSEA2000-PERN\nSEA2000-PERN",
+"extracted_at":"2026-10-22T07:55:35Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__1st_order__发货图片__6.jpg__29b71f8e.jpg"
+}

@@ -1,0 +1,231 @@
+{
+"id":"PI__PI__11_新加坡_Au_gg__STSC20240821011.xls__8130862b",
+"path":"PI/PI/11 新加坡 Au gg/STSC20240821011.xls",
+"name":"STSC20240821011.xls",
+"ext":".xls",
+"bytes":1079296,
+"sha256":"8130862b78c152395f889fb2af07e31d69dbf5d35561b807c8c13897e66060e0",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Proforma Invoice"
+],
+"rows_total":45
+},
+"warnings":[],
+"chars":2704,
+"text":"--- Sheet: Proforma Invoice ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nAddress: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob/Whatsapp/Wechat: 86 15237149683                       www.sagatelecom.com.cn                     Email: s.sagatelecom@gmail.com\n*********************************************************************************************************************\nProforma  Invoice\nPO No.\tSGP250051\t\tInvoice No.:\tSTSC20240821011\nBuyer:\tResonant Networks Pte Ltd\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t65 9734 0606\t\tIssued By:\tSimon Cheng\nEmail:\tsales-inf@resonantnetworks.com\t\tInvoice Date:\t21st, Aug, 2024\nContact Person:\tAu Wai Choon\t\tPayment Term:\tT/T in advance\nShipping Address\t81 Ubi Avenue 4 #09-28 UB. One Singapore 408830\nModel\tSpecification\t\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSeller:  STC-08XGWE\n\nBuyer: Null\tCommercial Managed Ethernet Switch\n\n8*10 Gigabit RJ45, Downward compatible(5G/2.5G/1G/100M)\nWeb managed, Non-POE\nAC input, 1U rack, metal case\nwith internal AC-DC converter\nwith power cord, with mounting brackets\t\t\t1\t185\t185\tSample Testing\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 320*207*44.5mm\nGross Weight: 2.36kg\nFreight Cost\t25usd for about 3Kg volume weight to Singapore by UPS\nair, door-to-door service\t\t\t\t\t25\nTOTAL\t\t\t\t1\t\t210\nSAY TOTAL IN USD TWO HUNDRED AND TEN DOLLARS ONLY\nRemark\nPlease do make sure client side could handle import customs clearance.\n1. Payment: Full payment to the below bank account before shipment.\nBank Information\nSWIFT/BIC code\tCHASHKHH (CHASHKHHXXX * if 11 characters are required)\nAccount Number\t63003662406\nAccount Name\tZhengzhou Saga Telecom Co., Ltd.\nBank Name\tJPMorgan Chase Bank N.A., Hong Kong Branch\nBank Address\t18/F, 20/F, 22-29/F, CHATER HOUSE, 8 CONNAUGHT ROAD CENTRAL, HONG KONG\nCountry/Region\tHong Kong\nType of Account\tBusiness Account\nBank Code\t007\nBranch Code\t863\n2. NOTE: Saga Telecom will not pay for any bank charge.\nPlease make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice.\n3. Leadtime: 3~5 working days\n4. Country of origin: China\n5. Non-brand packing, without Chinese letters or logo\nPackage Marks: None\nPacking list is available upon request\n6. Warranty: 1 year, lifetime technical support\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" for more information.\nBuyer: Resonant Networks Pte Ltd\t\t\tSeller: Zhengzhou Saga Telecom Co., Ltd.\nAu Wai Choon\t\t\tSimon Cheng\nAuthorized Signature\t\t\tAuthorized Signature",
+"sheets":{
+"Proforma Invoice":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob/Whatsapp/Wechat: 86 15237149683                       www.sagatelecom.com.cn                     Email: s.sagatelecom@gmail.com"
+],
+[
+"*********************************************************************************************************************"
+],
+[
+"Proforma  Invoice"
+],
+[
+"PO No.",
+"SGP250051",
+"",
+"Invoice No.:",
+"STSC20240821011"
+],
+[
+"Buyer:",
+"Resonant Networks Pte Ltd",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"65 9734 0606",
+"",
+"Issued By:",
+"Simon Cheng"
+],
+[
+"Email:",
+"sales-inf@resonantnetworks.com",
+"",
+"Invoice Date:",
+"21st, Aug, 2024"
+],
+[
+"Contact Person:",
+"Au Wai Choon",
+"",
+"Payment Term:",
+"T/T in advance"
+],
+[
+"Shipping Address",
+"81 Ubi Avenue 4 #09-28 UB. One Singapore 408830"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"Seller:  STC-08XGWE\n\nBuyer: Null",
+"Commercial Managed Ethernet Switch\n\n8*10 Gigabit RJ45, Downward compatible(5G/2.5G/1G/100M)\nWeb managed, Non-POE\nAC input, 1U rack, metal case\nwith internal AC-DC converter\nwith power cord, with mounting brackets",
+"",
+"",
+"1",
+"185",
+"185",
+"Sample Testing"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 320*207*44.5mm\nGross Weight: 2.36kg"
+],
+[
+"Freight Cost",
+"25usd for about 3Kg volume weight to Singapore by UPS\nair, door-to-door service",
+"",
+"",
+"",
+"",
+"25"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"1",
+"",
+"210"
+],
+[
+"SAY TOTAL IN USD TWO HUNDRED AND TEN DOLLARS ONLY"
+],
+[
+"Remark"
+],
+[
+"Please do make sure client side could handle import customs clearance."
+],
+[
+"1. Payment: Full payment to the below bank account before shipment."
+],
+[
+"Bank Information"
+],
+[
+"SWIFT/BIC code",
+"CHASHKHH (CHASHKHHXXX * if 11 characters are required)"
+],
+[
+"Account Number",
+"63003662406"
+],
+[
+"Account Name",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Bank Name",
+"JPMorgan Chase Bank N.A., Hong Kong Branch"
+],
+[
+"Bank Address",
+"18/F, 20/F, 22-29/F, CHATER HOUSE, 8 CONNAUGHT ROAD CENTRAL, HONG KONG"
+],
+[
+"Country/Region",
+"Hong Kong"
+],
+[
+"Type of Account",
+"Business Account"
+],
+[
+"Bank Code",
+"007"
+],
+[
+"Branch Code",
+"863"
+],
+[
+"2. NOTE: Saga Telecom will not pay for any bank charge."
+],
+[
+"Please make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice."
+],
+[
+"3. Leadtime: 3~5 working days"
+],
+[
+"4. Country of origin: China"
+],
+[
+"5. Non-brand packing, without Chinese letters or logo"
+],
+[
+"Package Marks: None"
+],
+[
+"Packing list is available upon request"
+],
+[
+"6. Warranty: 1 year, lifetime technical support"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" for more information."
+],
+[
+"Buyer: Resonant Networks Pte Ltd",
+"",
+"",
+"Seller: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Au Wai Choon",
+"",
+"",
+"Simon Cheng"
+],
+[
+"Authorized Signature",
+"",
+"",
+"Authorized Signature"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:50:55Z"
+}

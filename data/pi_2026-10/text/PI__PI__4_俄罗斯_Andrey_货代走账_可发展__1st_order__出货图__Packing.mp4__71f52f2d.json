@@ -1,0 +1,25 @@
+{
+"id":"PI__PI__4_俄罗斯_Andrey_货代走账_可发展__1st_order__出货图__Packing.mp4__71f52f2d",
+"path":"PI/PI/4 俄罗斯 Andrey 货代走账 可发展/1st order/出货图/Packing.mp4",
+"name":"Packing.mp4",
+"ext":".mp4",
+"bytes":1299814,
+"sha256":"71f52f2db0c7f7c0a4021b34aa0376bd5b673141b9e5f94b99ac7a8b9c58d30f",
+"source":"PI.zip",
+"method":"ffprobe+ffmpeg",
+"status":"meta",
+"meta":{
+"duration_s":8.4,
+"width":540,
+"height":960,
+"vcodec":"h264",
+"acodec":"aac",
+"creation_time":"2023-11-28T02:52:05.000000Z",
+"thumb_bytes":17895
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:46:45Z",
+"thumb":"thumbs/PI__PI__4_俄罗斯_Andrey_货代走账_可发展__1st_order__出货图__Packing.mp4__71f52f2d.jpg"
+}

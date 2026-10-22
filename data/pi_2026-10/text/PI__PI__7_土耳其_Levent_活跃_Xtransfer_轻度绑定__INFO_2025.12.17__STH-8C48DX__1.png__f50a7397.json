@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__INFO_2025.12.17__STH-8C48DX__1.png__f50a7397",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/INFO_2025.12.17/STH-8C48DX/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":2268398,
+"sha256":"f50a73973cc8d9dea6ba81f5fcc5c37f86dad875c228b466818cabe6c4a90bb5",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":3840,
+"height":2160,
+"mode":"RGBA",
+"thumb_bytes":5209
+},
+"warnings":[],
+"chars":28,
+"text":"14 15 16\n-mh ER ee ee ee\n; 4",
+"extracted_at":"2026-10-22T07:44:04Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__INFO_2025.12.17__STH-8C48DX__1.png__f50a7397.jpg"
+}

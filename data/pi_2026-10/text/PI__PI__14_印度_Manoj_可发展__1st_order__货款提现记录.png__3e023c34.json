@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__14_印度_Manoj_可发展__1st_order__货款提现记录.png__3e023c34",
+"path":"PI/PI/14 印度 Manoj 可发展/1st order/货款提现记录.png",
+"name":"货款提现记录.png",
+"ext":".png",
+"bytes":50643,
+"sha256":"3e023c348e12babd8ed2e4edbc9fb17582f6df1cb761ecaf2b94a515e410c1f6",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":830,
+"height":735,
+"mode":"RGBA",
+"thumb_bytes":8851
+},
+"warnings":[],
+"chars":154,
+"text":":92.40。\n可 收 款 金 額 : s92.40 USD @\nUSD\n招商 银行\n@ 儲 花 卡 ‧*1962 修改\n收 款 金 額 $92.40 USD\n汇率 @ 1USD =7.2385 CNY\n人 民 币 金额 ¥668.84 CNY\n手续 费 -#3.54 CNY\nAEH ¥665.30 CNY",
+"extracted_at":"2026-10-22T07:36:26Z",
+"thumb":"thumbs/PI__PI__14_印度_Manoj_可发展__1st_order__货款提现记录.png__3e023c34.jpg"
+}

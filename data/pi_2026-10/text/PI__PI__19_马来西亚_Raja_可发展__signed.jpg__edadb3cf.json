@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__19_马来西亚_Raja_可发展__signed.jpg__edadb3cf",
+"path":"PI/PI/19 马来西亚 Raja 可发展/signed.jpg",
+"name":"signed.jpg",
+"ext":".jpg",
+"bytes":27291,
+"sha256":"edadb3cf84934f20743628d7be40ba7e2963000d3a5793320ad051d1da604fa6",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":594,
+"height":1080,
+"mode":"RGB",
+"thumb_bytes":3450
+},
+"warnings":[],
+"chars":35,
+"text":"2026-08-28 10:25:30\nSF1577818941941",
+"extracted_at":"2026-10-22T07:49:05Z",
+"thumb":"thumbs/PI__PI__19_马来西亚_Raja_可发展__signed.jpg__edadb3cf.jpg"
+}

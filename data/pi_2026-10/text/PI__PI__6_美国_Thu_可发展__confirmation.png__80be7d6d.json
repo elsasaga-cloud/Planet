@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__confirmation.png__80be7d6d",
+"path":"PI/PI/6 美国 Thu 可发展/confirmation.png",
+"name":"confirmation.png",
+"ext":".png",
+"bytes":53423,
+"sha256":"80be7d6dc574a21189b26cc1946f325f932d0914316039f94c988f001cb8aa00",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":981,
+"height":795,
+"mode":"RGB",
+"thumb_bytes":9243
+},
+"warnings":[],
+"chars":157,
+"text":"(人 Vi-Link\nFiber Optic Communications\nModel MC1000SC03\nFiber Optic Media Converter\n10/100/1000M Base-T To 1000M Base-LX SC Ethernet Conversion\n鸿 艺 -2026.9.20",
+"extracted_at":"2026-10-22T07:32:16Z",
+"thumb":"thumbs/PI__PI__6_美国_Thu_可发展__confirmation.png__80be7d6d.jpg"
+}

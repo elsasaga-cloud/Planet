@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__2nd_order__出货图__4.png__15da2982",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/2nd order/出货图/4.png",
+"name":"4.png",
+"ext":".png",
+"bytes":25947,
+"sha256":"15da2982c816ac0c63bccf2fba748b4cfda605196dce1d92d83fe87f54d83b4b",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":508,
+"height":319,
+"mode":"RGBA",
+"thumb_bytes":14939
+},
+"warnings":[],
+"chars":232,
+"text":"Commercial Switch\nModel: BNSC-424DGGPM\nPorts: 24*10/100/1000M RJ45 PoE + 4*1G/2.5G SFP\nPower supply: 230W\nChipset: Marvell Based\nCE FE\nLL eas\nSN: 20241205001\nMAC: FC-CD-2F-D0-44-87 User name: admin\nIP: 192.168.56.166 Password: admin",
+"extracted_at":"2026-10-22T08:01:32Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__2nd_order__出货图__4.png__15da2982.jpg"
+}

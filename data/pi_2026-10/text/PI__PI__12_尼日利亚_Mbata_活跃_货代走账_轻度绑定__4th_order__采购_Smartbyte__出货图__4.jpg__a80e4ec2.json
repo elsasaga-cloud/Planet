@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__4th_order__采购_Smartbyte__出货图__4.jpg__a80e4ec2",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/4th order/采购_Smartbyte/出货图/4.jpg",
+"name":"4.jpg",
+"ext":".jpg",
+"bytes":204091,
+"sha256":"a80e4ec2f566ac0c213a375c1d38a06ed98c7d43b5d91d8792371ccf0c0644a0",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1920,
+"height":1080,
+"mode":"RGB",
+"thumb_bytes":7947
+},
+"warnings":[],
+"chars":251,
+"text":"Commercial Switch\n令 多\n鄧\nModel: BNSC-424DGGPM Ah 有 ATRIX\nPorts: 24*10/100/1000M RJ45 PoE + 4*1G/2.5G SFP\nPower supply: 280W\nChipset: Marvell Based G €\n則 IM\nSN: 20250618001\nMAC: FC-CD-2F-D0-4D-C8 User name: admin\nIP: 192.168.56.166 Password: admin\nOHS /",
+"extracted_at":"2026-10-22T08:01:14Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__4th_order__采购_Smartbyte__出货图__4.jpg__a80e4ec2.jpg"
+}

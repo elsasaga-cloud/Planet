@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__GUI_after_change.png__f938062f",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/2nd order sample 2层10G 16口 2光8管理/GUI after change.png",
+"name":"GUI after change.png",
+"ext":".png",
+"bytes":39897,
+"sha256":"f938062fed36af9b6c5b996b78ab5eec8a77fececd5a45d9bc90b287ee5a897d",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1899,
+"height":396,
+"mode":"RGBA",
+"thumb_bytes":3588
+},
+"warnings":[],
+"chars":327,
+"text":"Uptime : 00:01\nDHCP\nRemoved\nTY selected [1] ac port PT] tunk Port PT] 13 Port HEM up [LY shutdown lf error-down [J copper [5 Fiber\n1 3 5 7 9 11 13 15 17 19 21 23\nQinQ Information\nARP Information\n2 4 6 8 10 12 14 16 18 20 22 24 25 26 27 28\nTraffic gigabitEthenet0/28 Kbps\n>» Port Configuration\n-O> Tx Traffic “O> Rx Traffic\nKbps",
+"extracted_at":"2026-10-22T07:41:45Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__GUI_after_change.png__f938062f.jpg"
+}

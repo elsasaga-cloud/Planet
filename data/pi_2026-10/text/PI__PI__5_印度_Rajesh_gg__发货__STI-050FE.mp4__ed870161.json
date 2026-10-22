@@ -1,0 +1,24 @@
+{
+"id":"PI__PI__5_印度_Rajesh_gg__发货__STI-050FE.mp4__ed870161",
+"path":"PI/PI/5 印度 Rajesh gg/发货/STI-050FE.mp4",
+"name":"STI-050FE.mp4",
+"ext":".mp4",
+"bytes":6130461,
+"sha256":"ed870161095f6a2b0b7ac033f789d758b4aa89a792b09f48bf36ccbddcfbd416",
+"source":"PI.zip",
+"method":"ffprobe+ffmpeg",
+"status":"meta",
+"meta":{
+"duration_s":33.0,
+"width":720,
+"height":1280,
+"vcodec":"h264",
+"acodec":"aac",
+"thumb_bytes":12683
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:29:49Z",
+"thumb":"thumbs/PI__PI__5_印度_Rajesh_gg__发货__STI-050FE.mp4__ed870161.jpg"
+}

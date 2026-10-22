@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__4th_order_sample_2层10G_24口_48口__ANW-2248-PX__2.jpg__eb5cb278",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/4th order sample  2层10G 24口 48口/ANW-2248-PX/2.jpg",
+"name":"2.jpg",
+"ext":".jpg",
+"bytes":379613,
+"sha256":"eb5cb2780c490919f83e72ddb63ea10df1d09ab03b1fd3b4fc559cd0ee09d5c8",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":1440,
+"height":810,
+"mode":"RGB",
+"thumb_bytes":7025
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:44:27Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__4th_order_sample_2层10G_24口_48口__ANW-2248-PX__2.jpg__eb5cb278.jpg"
+}

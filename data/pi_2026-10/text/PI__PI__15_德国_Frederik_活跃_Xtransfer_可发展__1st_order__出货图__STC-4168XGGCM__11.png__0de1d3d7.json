@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__1st_order__出货图__STC-4168XGGCM__11.png__0de1d3d7",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/1st order/出货图/STC-4168XGGCM/11.png",
+"name":"11.png",
+"ext":".png",
+"bytes":150341,
+"sha256":"0de1d3d72a3b7ad503cb4c9dc8c1b6692e16ff1f23a7457f77e32d783e9055e1",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1920,
+"height":1080,
+"mode":"RGBA",
+"thumb_bytes":7906
+},
+"warnings":[],
+"chars":726,
+"text":"x | 十 ~ 一 X\n€ CO 0 & 192.168.56.166/#/monitor/dashboard ENA\nMonitor . Monitor\n| veiw | o|v |e\nOverview\nSystem Information CPU Memory\nProduct ID : STC-4168XGGCM\nProduct SN : 20241202001\nMAC Address : FC-CD-2F-D0-45-98\n66.5%\n93.62%\nHardware Version : V1.2\nSoftware Version : hotfix/7.1.9 (1051 7b2213b) 2024-10-30 20:26:43\nUptime : 00:01\nQinQ Information\nAR\nTY selected [7] AG Port PY] trunk Port P13 Port BY ue [EE] shutdown lf ercor-down [J copper [] Fiber\n5 7 1 3 5 7 9 1 1 1 17 19 21 23 25 27\n[| | | |\n| ae\n6 8 24 6 8 10 12 14 16 18 20 22 24 26 28\nTraffic gigabitétherneto/1 Kbps » Fort Configuration\n-O> Tx Traffic “O> Rx Traffic\nKbps\n16:10:50\n2024/12/31\nOverview - Switch... [FB serial-com2 - Sec. Lens (fh Megatops YaTFT.",
+"extracted_at":"2026-10-22T07:34:50Z",
+"thumb":"thumbs/PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__1st_order__出货图__STC-4168XGGCM__11.png__0de1d3d7.jpg"
+}

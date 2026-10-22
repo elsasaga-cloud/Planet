@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__18_阿联酋_Sanjay_可发展__发货__17.jpg__57265c72",
+"path":"PI/PI/18 阿联酋 Sanjay 可发展/发货/17.jpg",
+"name":"17.jpg",
+"ext":".jpg",
+"bytes":443452,
+"sha256":"57265c7239b59adc663a62a81b69756e956034b3b952c5a5cf35255f01ea94a8",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1440,
+"height":810,
+"mode":"RGB",
+"thumb_bytes":9170
+},
+"warnings":[],
+"chars":247,
+"text":"“CAUTION :\nFOR USE IN A CONTROLLED ENVIRONMENT”\n“ATTENTION:\nPOUR UTILISATION EN ATMOSPHERE CONTROLEE”\n1-phase\nClass IT models For Class I models ~ For 3-phase models\nMinimum 5mm left and right, 40mm above and om below air :\ngap from power supply i",
+"extracted_at":"2026-10-22T07:58:50Z",
+"thumb":"thumbs/PI__PI__18_阿联酋_Sanjay_可发展__发货__17.jpg__57265c72.jpg"
+}

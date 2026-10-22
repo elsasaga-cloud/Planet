@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__2_印度_Rishi_gg__1st_order__包装图__1.jpg__d9a0cb58",
+"path":"PI/PI/2 印度 Rishi gg/1st order/包装图/1.jpg",
+"name":"1.jpg",
+"ext":".jpg",
+"bytes":537908,
+"sha256":"d9a0cb58619b7b63d95171689232ac5fb40236cc1de708ee8e7f9ef909078cb9",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":3024,
+"height":4032,
+"mode":"RGB",
+"thumb_bytes":6889
+},
+"warnings":[],
+"chars":55,
+"text":"“OPTIC FIBER CLEANER\n口 1.25mm LC/MU\n(\n[點 2.5mm FC/SC/ST",
+"extracted_at":"2026-10-22T07:31:51Z",
+"thumb":"thumbs/PI__PI__2_印度_Rishi_gg__1st_order__包装图__1.jpg__d9a0cb58.jpg"
+}

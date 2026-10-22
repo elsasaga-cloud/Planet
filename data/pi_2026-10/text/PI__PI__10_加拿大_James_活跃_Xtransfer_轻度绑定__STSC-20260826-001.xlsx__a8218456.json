@@ -1,0 +1,215 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__STSC-20260826-001.xlsx__a8218456",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/STSC-20260826-001.xlsx",
+"name":"STSC-20260826-001.xlsx",
+"ext":".xlsx",
+"bytes":1440924,
+"sha256":"a8218456eea7d5f2536982276569cee19d2f95c6ed852d4e0dc7a275ec14e56a",
+"source":"PI.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"Quotation"
+],
+"embedded_images":3,
+"rows_total":43
+},
+"warnings":[],
+"chars":2878,
+"text":"--- Sheet: Quotation ---\nSaga Telecom\nAn Engineering & Supply-Chain-First Telecom Partner\nBuilt to Last, Continuous Supply, Evolving Together\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 15237149683                                                     https://sagatele.com/                              Email: s.sagatelecom@gmail.com\nQuotation\nBuyer:\tJames Clendenan Systems Ltd.\t\tSeller:\tSaga Telecom\nContact Person:\t1-604-910-5745\t\tQuotation No.\tSTSC-20260826-001\nTel:\tjames@clendenan.ca\t\tQuoted By:\tSimon\nEmail:\tJames Clendenan\t\tDate:\t26th, Aug, 2026\nShipping Address:\tJames Clendenan systems Ltd. 1543 bowser ave North Vancouver, bc Canada V7P 2Y4\nIncoterm: DAP\nDefinition\tIncluding origin export clearance and international freight\nExcluding destination customs clearance and import duties.\nIncluding on-carriage delivery to the shipping address after customs release\nModel\tSpecification\t\t\tQuantity \n(UNIT)\tUnit Price\n(RMB)\tAmount \n(RMB)\tRemark\nSeller\nSTI-21616XGGPM\n\nBuyer\nSW-3200-16GP-2SX\t\tIndustrial PoE Managed Switch\n\n2*1G/2.5G/10G Fiber+16*100M/1000M Copper\nPoE af/at, 240W budget, L2+ Managed\nMarvell Chip, DC44V~DC57V(Removable 6 PIN Industrial Terminal Block), -40℃ to 75℃\nDin mounted, Without optical module\nWithout power adapter\nWith Enclosure, PCB ONLY\t\t12\t2250\t27000\tMarvell Chip\nAC5 Series\n\tHS Code\t8517622990\n\tPacking Information\tProduct size: 158*115*54mm\nInner box size: 230*180*70mm\nProduct weight: 1.2Kg\nPacking weight: 1.4Kg\nFreight Cost\t1800RMB for about 18Kg volume weight to Canada by UPS\nAir, door-to-door service\nShipment time: 5~8 calendar days\t\t\t\t\t1800\nBank Cost\tStandard Charge for EACH Order\t\t\t\t\t175\nTOTAL\t\t\t\t12\t\t28975\nSAY TOTAL: RMB TWENTY EIGHT THOUSAND NINE HUNDRED AND SEVENTY FIVE ONLY\nAbout Import\nPlease do make sure client side could handle import customs clearance\nIf there is any problem with the shipment or clearance\n1, please let us know ASAP\n2, please call DHL/FedEx/UPS official number for information\nBusiness Term\n1. Price validity: 15 days\n2. Payment term\tSample: Full Payment by PayPal or T/T Wire\n\tBatch: Full Payment by T/T Wire\n\tBulk: 50% T/T Wire in advance and 50% BEFORE shipment\n3. MoQ: 1 piece\nSample: available\nLabel: customizable\nPartial shipment: negotiable\n4. Non-brand packing, without Chinese letters or logo\nNeutral device\n5. Country of origin: China\nCertificate of Origin is available upon request, please inform us BEFORE shipment if required\n6. Production time: 4~7 days (Excluding shipping time)\n7. Warranty: 3 years, lifetime technical support\nPurchased items are deemed accepted upon initial inspection if no written notice of defects is received within two (2) months from the delivery date\nThis acceptance clause shall not affect the validity of the warranty period\nPlease refer to \"warranty policy\" for more information",
+"sheets":{
+"Quotation":{
+"state":"visible",
+"rows":[
+[
+"Saga Telecom"
+],
+[
+"An Engineering & Supply-Chain-First Telecom Partner"
+],
+[
+"Built to Last, Continuous Supply, Evolving Together"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 15237149683                                                     https://sagatele.com/                              Email: s.sagatelecom@gmail.com"
+],
+[
+"Quotation"
+],
+[
+"Buyer:",
+"James Clendenan Systems Ltd.",
+"",
+"Seller:",
+"Saga Telecom"
+],
+[
+"Contact Person:",
+"1-604-910-5745",
+"",
+"Quotation No.",
+"STSC-20260826-001"
+],
+[
+"Tel:",
+"james@clendenan.ca",
+"",
+"Quoted By:",
+"Simon"
+],
+[
+"Email:",
+"James Clendenan",
+"",
+"Date:",
+"26th, Aug, 2026"
+],
+[
+"Shipping Address:",
+"James Clendenan systems Ltd. 1543 bowser ave North Vancouver, bc Canada V7P 2Y4"
+],
+[
+"Incoterm: DAP\nDefinition",
+"Including origin export clearance and international freight\nExcluding destination customs clearance and import duties.\nIncluding on-carriage delivery to the shipping address after customs release"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(UNIT)",
+"Unit Price\n(RMB)",
+"Amount \n(RMB)",
+"Remark"
+],
+[
+"Seller\nSTI-21616XGGPM\n\nBuyer\nSW-3200-16GP-2SX",
+"",
+"Industrial PoE Managed Switch\n\n2*1G/2.5G/10G Fiber+16*100M/1000M Copper\nPoE af/at, 240W budget, L2+ Managed\nMarvell Chip, DC44V~DC57V(Removable 6 PIN Industrial Terminal Block), -40℃ to 75℃\nDin mounted, Without optical module\nWithout power adapter\nWith Enclosure, PCB ONLY",
+"",
+"12",
+"2250",
+"27000",
+"Marvell Chip\nAC5 Series"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Product size: 158*115*54mm\nInner box size: 230*180*70mm\nProduct weight: 1.2Kg\nPacking weight: 1.4Kg"
+],
+[
+"Freight Cost",
+"1800RMB for about 18Kg volume weight to Canada by UPS\nAir, door-to-door service\nShipment time: 5~8 calendar days",
+"",
+"",
+"",
+"",
+"1800"
+],
+[
+"Bank Cost",
+"Standard Charge for EACH Order",
+"",
+"",
+"",
+"",
+"175"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"12",
+"",
+"28975"
+],
+[
+"SAY TOTAL: RMB TWENTY EIGHT THOUSAND NINE HUNDRED AND SEVENTY FIVE ONLY"
+],
+[
+"About Import"
+],
+[
+"Please do make sure client side could handle import customs clearance"
+],
+[
+"If there is any problem with the shipment or clearance"
+],
+[
+"1, please let us know ASAP"
+],
+[
+"2, please call DHL/FedEx/UPS official number for information"
+],
+[
+"Business Term"
+],
+[
+"1. Price validity: 15 days"
+],
+[
+"2. Payment term",
+"Sample: Full Payment by PayPal or T/T Wire"
+],
+[
+"",
+"Batch: Full Payment by T/T Wire"
+],
+[
+"",
+"Bulk: 50% T/T Wire in advance and 50% BEFORE shipment"
+],
+[
+"3. MoQ: 1 piece"
+],
+[
+"Sample: available"
+],
+[
+"Label: customizable"
+],
+[
+"Partial shipment: negotiable"
+],
+[
+"4. Non-brand packing, without Chinese letters or logo"
+],
+[
+"Neutral device"
+],
+[
+"5. Country of origin: China"
+],
+[
+"Certificate of Origin is available upon request, please inform us BEFORE shipment if required"
+],
+[
+"6. Production time: 4~7 days (Excluding shipping time)"
+],
+[
+"7. Warranty: 3 years, lifetime technical support"
+],
+[
+"Purchased items are deemed accepted upon initial inspection if no written notice of defects is received within two (2) months from the delivery date"
+],
+[
+"This acceptance clause shall not affect the validity of the warranty period"
+],
+[
+"Please refer to \"warranty policy\" for more information"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:55:30Z"
+}

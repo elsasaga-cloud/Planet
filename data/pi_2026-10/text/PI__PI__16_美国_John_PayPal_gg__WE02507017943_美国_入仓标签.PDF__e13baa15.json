@@ -1,0 +1,25 @@
+{
+"id":"PI__PI__16_美国_John_PayPal_gg__WE02507017943_美国_入仓标签.PDF__e13baa15",
+"path":"PI/PI/16 美国 John PayPal gg/WE02507017943 美国 入仓标签.PDF",
+"name":"WE02507017943 美国 入仓标签.PDF",
+"ext":".pdf",
+"bytes":26931,
+"sha256":"e13baa15837b5b402c716155ffd46bd3520d1601daf67417b7911b957b15e30e",
+"source":"PI.zip",
+"method":"pdfplumber",
+"status":"ok",
+"meta":{
+"pages":1,
+"creator":"PDFsharp 1.50.5147 (www.pdfsharp.com)",
+"producer":"PDFsharp 1.50.5147 (www.pdfsharp.com)",
+"creationdate":"D:20250723141732+08'00'",
+"ocr_pages":0
+},
+"warnings":[],
+"chars":129,
+"text":"[p1]\nBSA00002 SE2507027292\nH-59 HKDHL代代理理价价(美美\n国国际际快快递递\n国国））\n→\n深深圳圳市市 US,美美国国\n货物类型 普普货货\n服 务\n收货地址：深圳市宝安区深圳市宝安区凤塘大道141\n号百运网分拔中心\n1-1",
+"pages":[
+"BSA00002 SE2507027292\nH-59 HKDHL代代理理价价(美美\n国国际际快快递递\n国国））\n→\n深深圳圳市市 US,美美国国\n货物类型 普普货货\n服 务\n收货地址：深圳市宝安区深圳市宝安区凤塘大道141\n号百运网分拔中心\n1-1"
+],
+"extracted_at":"2026-10-22T07:29:08Z"
+}

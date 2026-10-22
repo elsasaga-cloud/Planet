@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__3_赞比亚_Pythias_gg__采购_Hrui__出货图__label.png__e6fb0ad4",
+"path":"PI/PI/3  赞比亚 Pythias gg/采购_Hrui/出货图/label.png",
+"name":"label.png",
+"ext":".png",
+"bytes":32909,
+"sha256":"e6fb0ad4260e301610f065ba643819b1d8d89487450b08b73c9d41f0a431f1ae",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":764,
+"height":493,
+"mode":"RGBA",
+"thumb_bytes":16175
+},
+"warnings":[],
+"chars":251,
+"text":"Product 32 Port Commercial Managed Ethernet Switch\nModel: STC-4248XGGCM\nFeatures: 4*1G/10G SFP slots + 24*1000M SFP slots\n+ 8*SFP/RJ45 Combo\nInternal Power, AC100~240V, Layer 3 Managed\nIP Address:192.168.2.1\nUser Name/Password: Admin\nS/N-202402 190001",
+"extracted_at":"2026-10-22T07:49:05Z",
+"thumb":"thumbs/PI__PI__3_赞比亚_Pythias_gg__采购_Hrui__出货图__label.png__e6fb0ad4.jpg"
+}

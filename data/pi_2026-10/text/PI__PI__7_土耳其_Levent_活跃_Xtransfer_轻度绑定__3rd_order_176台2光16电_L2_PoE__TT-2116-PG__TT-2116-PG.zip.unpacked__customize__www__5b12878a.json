@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__3rd_order_176台2光16电_L2_PoE__TT-2116-PG__TT-2116-PG.zip.unpacked__customize__www__5b12878a",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/3rd order 176台2光16电 L2 PoE/TT-2116-PG/TT-2116-PG.zip.unpacked/customize/www/logo_dark.png",
+"name":"logo_dark.png",
+"ext":".png",
+"bytes":33045,
+"sha256":"5b12878a9681d00d37475c2d87f0b71917ab050c69d767991d24c654f2f9f1c9",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":969,
+"height":312,
+"mode":"RGBA",
+"thumb_bytes":7108
+},
+"warnings":[],
+"chars":37,
+"text":"Turk Telekorn >\nDegerli Hissettirir >",
+"extracted_at":"2026-10-22T07:40:26Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__3rd_order_176台2光16电_L2_PoE__TT-2116-PG__TT-2116-PG.zip.unpacked__customize__www__5b12878a.jpg"
+}

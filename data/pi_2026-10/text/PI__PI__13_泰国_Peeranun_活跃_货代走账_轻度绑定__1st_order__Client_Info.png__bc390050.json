@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__1st_order__Client_Info.png__bc390050",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/1st order/Client Info.png",
+"name":"Client Info.png",
+"ext":".png",
+"bytes":18517,
+"sha256":"bc39005098a80678af689d403383f2a038ddbfddde7de7fcfbe79256bf46f7f1",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":470,
+"height":364,
+"mode":"RGBA",
+"thumb_bytes":16997
+},
+"warnings":[],
+"chars":282,
+"text":"PBASUPPLY\nFIBER OPTOC / CCTV / TOOL NETWORK\nPBA Forever Technology CO., LTD.\nADDRESS: NO. 334 GRAPHIC PLACE SOI 2 M.1\nTHEPHARAK ROAD BANGSAOTHONG,\nBANGSAOTHONG, SAMUTPRAKARN 10540\nTel: +6698-265-6972\nEmail : pomnong9@gmail.com\nWechat : pee _pro83\nConatct: Peeranun ratannabuajan\nCEO",
+"extracted_at":"2026-10-22T07:55:09Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__1st_order__Client_Info.png__bc390050.jpg"
+}

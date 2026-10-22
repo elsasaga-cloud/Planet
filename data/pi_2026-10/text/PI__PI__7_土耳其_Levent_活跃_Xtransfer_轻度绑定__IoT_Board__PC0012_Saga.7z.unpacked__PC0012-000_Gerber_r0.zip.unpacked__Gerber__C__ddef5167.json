@@ -1,0 +1,18 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__IoT_Board__PC0012_Saga.7z.unpacked__PC0012-000_Gerber_r0.zip.unpacked__Gerber__C__ddef5167",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/IoT Board/PC0012_Saga.7z.unpacked/PC0012-000_Gerber_r0.zip.unpacked/Gerber/Con_Cm4Io-Telekom-L6_B.gbr",
+"name":"Con_Cm4Io-Telekom-L6_B.gbr",
+"ext":".gbr",
+"bytes":146333,
+"sha256":"ddef516704712841a1c9cd58c3949de78614a9c239bcbde81e6649380ac95ed0",
+"source":"PI.zip",
+"method":"none",
+"status":"meta",
+"meta":{},
+"warnings":[
+"no extractor for .gbr"
+],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:43:33Z"
+}

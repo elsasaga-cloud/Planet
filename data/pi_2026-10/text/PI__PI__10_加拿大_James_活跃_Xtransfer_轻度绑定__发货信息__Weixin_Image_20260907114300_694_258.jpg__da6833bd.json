@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__发货信息__Weixin_Image_20260907114300_694_258.jpg__da6833bd",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/发货信息/Weixin Image_20260907114300_694_258.jpg",
+"name":"Weixin Image_20260907114300_694_258.jpg",
+"ext":".jpg",
+"bytes":1073843,
+"sha256":"da6833bd353195e58acd12a6695e39eb93e44751f9c647354989384cdb2b4013",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1920,
+"height":1080,
+"mode":"RGB",
+"thumb_bytes":11931
+},
+"warnings":[],
+"chars":50,
+"text":"[Bs 400002\n| H-18 FEDEX-HK\nll HI\n| WE0260900008589",
+"extracted_at":"2026-10-22T07:56:11Z",
+"thumb":"thumbs/PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__发货信息__Weixin_Image_20260907114300_694_258.jpg__da6833bd.jpg"
+}

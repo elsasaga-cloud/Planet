@@ -1,0 +1,29 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__2nd_order_sample_2层10G_16口_2光8管理__出货__ANW-1108-V__TT-2208-TG__Turk_Telekom_Logo__065fd4cc",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip.unpacked/DEGERLI HISSETTIRIR LOGO/TT DEGERLI LOGO CMYK.pdf",
+"name":"TT DEGERLI LOGO CMYK.pdf",
+"ext":".pdf",
+"bytes":585508,
+"sha256":"065fd4ccb9ab43358cfdc1d06bc3e5f19af0146c4983eacf25cd41f52d8c5b3e",
+"source":"PI.zip",
+"method":"pdfplumber+OCR(3p)",
+"status":"ok",
+"meta":{
+"pages":3,
+"title":"TT DEGERLI LOGO CMYK",
+"creator":"Adobe Illustrator CC 23.1 (Macintosh)",
+"producer":"Adobe PDF library 15.00",
+"creationdate":"D:20200311143002+03'00'",
+"moddate":"D:20200311143002+03'00'",
+"ocr_pages":3
+},
+"warnings":[],
+"chars":128,
+"text":"[p1]\nTurk Telekorn >\nDegerli Hissettirir >\n\n[p2]\n>\nTurk Telekom\nDegerli Hissettirir >\n\n[p3]\n>\nTurk Telekom\nDegerli Hissettirir >",
+"pages":[
+"Turk Telekorn >\nDegerli Hissettirir >",
+">\nTurk Telekom\nDegerli Hissettirir >",
+">\nTurk Telekom\nDegerli Hissettirir >"
+],
+"extracted_at":"2026-10-22T07:43:39Z"
+}

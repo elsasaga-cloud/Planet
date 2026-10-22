@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__16_美国_John_PayPal_gg__提现记录_2025.7.18.png__aca07de4",
+"path":"PI/PI/16 美国 John PayPal gg/提现记录_2025.7.18.png",
+"name":"提现记录_2025.7.18.png",
+"ext":".png",
+"bytes":42170,
+"sha256":"aca07de48ab9b9355d7b591401940cc2ea0050d02f624a06af7a26aab3cb99c0",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":715,
+"height":796,
+"mode":"RGBA",
+"thumb_bytes":9309
+},
+"warnings":[],
+"chars":223,
+"text":"PayPal RB\nP 可 用 $ 272.16 USD\n到 :\nZABank Limited\nm\n{2B +0019\n预计 到 账 时 间 : 3-6 个 工作 日 @\n它 有 什么 作用 ? (FI)\n转账 金额 $ 2,080.87 HKD\n兑换 自 $ 272.16 USD\n汇率 : $1.00 USD = $ 7.645765 HKD\n费用 免费\n您 将 收 到 $ 2,080.87 HKD\n立即 转账 $ 2,080.87 HKD",
+"extracted_at":"2026-10-22T07:29:18Z",
+"thumb":"thumbs/PI__PI__16_美国_John_PayPal_gg__提现记录_2025.7.18.png__aca07de4.jpg"
+}

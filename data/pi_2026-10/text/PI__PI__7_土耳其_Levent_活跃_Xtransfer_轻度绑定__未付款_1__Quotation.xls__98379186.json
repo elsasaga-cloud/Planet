@@ -1,0 +1,243 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__未付款_1__Quotation.xls__98379186",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/未付款 1/Quotation.xls",
+"name":"Quotation.xls",
+"ext":".xls",
+"bytes":176128,
+"sha256":"98379186bbeb416f7e3064129d8b795deb1404119d67a503d504f77d5e8e26a9",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Quotation"
+],
+"rows_total":34
+},
+"warnings":[],
+"chars":4180,
+"text":"--- Sheet: Quotation ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob/WhatsApp/WeChat: 86 15237149683                      www.sagatelecom.com.cn                    Email: s.sagatelecom@gmail.com\n*****************************************************************************************************************************\nQuotation\nBuyer:\tAngora Networks\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t90 (312) 241 77 47\t\tQuoted By:\tSimon Cheng\nEmail:\tlkilic@angoranetworks.com\ntesen@angoranetworks.com\t\tDate:\t23rd, Nov, 2024\nContact Person:\tLevent Kilic\nTaylan Esen\t\tPrice Term:\tEXW\nDestination\tTurkey\nModel\tSpecification\t\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSeller: STC-28DGGPM\nBuyer: TRX-AS-8TP2G\tCommercial PoE Managed Switch\n\n2*1G/2.5G SFP+8*10/100/1000M RJ45+1*Console Port\nPoE af/at, 240W budget, L2+ managed, Marvell chip\nDC52V input, with power supply, without optical module\t\t\t1\t90\t90\tExactly the same as the piece in order STSC20240508007\n\nANGORA Logo in WEB GUI\nSeller: STC-424XGGPM-280W\nBuyer: TRX-AS-24TP4X\tCommercial PoE Managed Switch\n\n4*1G/2.5G/10G SFP+24*10/100/1000M RJ45+1*Console Port, L2+ managed, Marvell chip, PoE af/at, 280W budget\nSupport PoE management, PoE watchdog\nAC100V~240V input, Rack compatible, With mounting hanger, With Power Cord, Without Optical Module\t\t\t1\t180\t180\tFiber speed: 1G/2.5G/10G\n\nANGORA Logo in WEB GUI\nSeller: STC-448XGGPM\nBuyer: TRX-AS-48TP4X\tCommercial PoE Managed Switch\n\n4*1G/2.5G/10G SFP+48*10/100/1000M RJ45+1*Console Port, L2+ managed, Marvell chip, PoE af/at, 440W budget\nSupport PoE management, PoE watchdog\nAC100V~240V input, Rack compatible, With mounting hanger, With Power Cord, Without Optical Module\t\t\t1\t335\t335\tFiber speed: 1G/2.5G/10G\n\nANGORA Logo in WEB GUI\nSeller: STI-288DGGPM\nBuyer: TRX-IS-8TP2G\tIndustrial PoE Managed Switch\n\n2*1G/2.5G SFP+8*10/100/1000M RJ45+1*Console Port\nL2+ Managed, Marvell chip, PoE af/at, 240W budget\nSupport PoE management, PoE watchdog, Without Serial Port, DC44V~DC57V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted, Without Power Supply\nWithout optical module\t\t\t1\t125\t125\tFiber speed: 1G/2.5G\n\nANGORA Logo in WEB GUI\nSeller: STC-G0.5-MD\nBuyer: TRX-SFP-1G-SX\tCommercial Optical Module\n\nGigabit(1000M), 0.5KM Multi-mode, Dual Fiber, 850nm\nLC port, Support DDM\t\t\t5\t5\t25\tShow buyer model on the label\nSeller: STC-G20-SD\nBuyer: TRX-SFP-1G-LX\tCommercial Optical Module\n\nGigabit(1000M), 20KM Single-mode, Dual Fiber, 1310nm LC port, Support DDM\t\t\t5\t5\t25\tShow buyer model on the label\nSeller: STC-XG0.3-MD\nBuyer: TRX-SFP-10G-SR\tCommercial Optical Module\n\n10Gb/s, 0.3KM Multi-mode, Dual Fiber, 850nm\nLC port, Support DDM\t\t\t5\t8\t40\tShow buyer model on the label\nSeller: STC-XG10-SD\nBuyer: TRX-SFP-10G-LR\tCommercial Optical Module\n\n10Gb/s, 10KM Single-mode, Dual Fiber, 1310nm\nLC port, Support DDM\t\t\t5\t10\t50\tShow buyer model on the label\nSeller: STC-DX0.1-SD\nBuyer: TRX-SFP28-25G-SR\tCommercial Optical Module\n\n25Gb/s, 0.1KM Multi-mode, Dual Fiber, 850nm\nLC port, Support DDM\t\t\t5\t20\t100\tShow buyer model on the label\nSeller: STC-QX0.1-SD\nBuyer: TRX-QSFP-40G-SR4\tCommercial Optical Module\n\n40Gb/s, 0.1KM Multi-mode, Dual Fiber, 850nm\nLC port, Support DDM\t\t\t5\t33\t165\tShow buyer model on the label\nSeller: STC-C0.1-SD\nBuyer: TRX-QSFP28-100G-SR4\tCommercial Optical Module\n\n100Gb/s, 0.1KM Multi-mode, Dual Fiber, 850nm\nLC port, Support DDM\t\t\t5\t42\t210\tShow buyer model on the label\nSeller: Null\nBuyer: TRX-AP-612T\tThe same specification as TPLINK model EAP650\t\t\t2\t50\t100\tNeutral Device\n\t\t\t\t41\t\t1445\nPrice validity: 30 days\nSaga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply.\nNon-brand packing, without Chinese letters or logo\nNeutral device\nCountry of origin: China\nLeadtime: 4~7 working days\nWarranty: 1 year for commercial models, 3 years for industrial models, lifetime technical support\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" for more information.",
+"sheets":{
+"Quotation":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob/WhatsApp/WeChat: 86 15237149683                      www.sagatelecom.com.cn                    Email: s.sagatelecom@gmail.com"
+],
+[
+"*****************************************************************************************************************************"
+],
+[
+"Quotation"
+],
+[
+"Buyer:",
+"Angora Networks",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"90 (312) 241 77 47",
+"",
+"Quoted By:",
+"Simon Cheng"
+],
+[
+"Email:",
+"lkilic@angoranetworks.com\ntesen@angoranetworks.com",
+"",
+"Date:",
+"23rd, Nov, 2024"
+],
+[
+"Contact Person:",
+"Levent Kilic\nTaylan Esen",
+"",
+"Price Term:",
+"EXW"
+],
+[
+"Destination",
+"Turkey"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"Seller: STC-28DGGPM\nBuyer: TRX-AS-8TP2G",
+"Commercial PoE Managed Switch\n\n2*1G/2.5G SFP+8*10/100/1000M RJ45+1*Console Port\nPoE af/at, 240W budget, L2+ managed, Marvell chip\nDC52V input, with power supply, without optical module",
+"",
+"",
+"1",
+"90",
+"90",
+"Exactly the same as the piece in order STSC20240508007\n\nANGORA Logo in WEB GUI"
+],
+[
+"Seller: STC-424XGGPM-280W\nBuyer: TRX-AS-24TP4X",
+"Commercial PoE Managed Switch\n\n4*1G/2.5G/10G SFP+24*10/100/1000M RJ45+1*Console Port, L2+ managed, Marvell chip, PoE af/at, 280W budget\nSupport PoE management, PoE watchdog\nAC100V~240V input, Rack compatible, With mounting hanger, With Power Cord, Without Optical Module",
+"",
+"",
+"1",
+"180",
+"180",
+"Fiber speed: 1G/2.5G/10G\n\nANGORA Logo in WEB GUI"
+],
+[
+"Seller: STC-448XGGPM\nBuyer: TRX-AS-48TP4X",
+"Commercial PoE Managed Switch\n\n4*1G/2.5G/10G SFP+48*10/100/1000M RJ45+1*Console Port, L2+ managed, Marvell chip, PoE af/at, 440W budget\nSupport PoE management, PoE watchdog\nAC100V~240V input, Rack compatible, With mounting hanger, With Power Cord, Without Optical Module",
+"",
+"",
+"1",
+"335",
+"335",
+"Fiber speed: 1G/2.5G/10G\n\nANGORA Logo in WEB GUI"
+],
+[
+"Seller: STI-288DGGPM\nBuyer: TRX-IS-8TP2G",
+"Industrial PoE Managed Switch\n\n2*1G/2.5G SFP+8*10/100/1000M RJ45+1*Console Port\nL2+ Managed, Marvell chip, PoE af/at, 240W budget\nSupport PoE management, PoE watchdog, Without Serial Port, DC44V~DC57V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted, Without Power Supply\nWithout optical module",
+"",
+"",
+"1",
+"125",
+"125",
+"Fiber speed: 1G/2.5G\n\nANGORA Logo in WEB GUI"
+],
+[
+"Seller: STC-G0.5-MD\nBuyer: TRX-SFP-1G-SX",
+"Commercial Optical Module\n\nGigabit(1000M), 0.5KM Multi-mode, Dual Fiber, 850nm\nLC port, Support DDM",
+"",
+"",
+"5",
+"5",
+"25",
+"Show buyer model on the label"
+],
+[
+"Seller: STC-G20-SD\nBuyer: TRX-SFP-1G-LX",
+"Commercial Optical Module\n\nGigabit(1000M), 20KM Single-mode, Dual Fiber, 1310nm LC port, Support DDM",
+"",
+"",
+"5",
+"5",
+"25",
+"Show buyer model on the label"
+],
+[
+"Seller: STC-XG0.3-MD\nBuyer: TRX-SFP-10G-SR",
+"Commercial Optical Module\n\n10Gb/s, 0.3KM Multi-mode, Dual Fiber, 850nm\nLC port, Support DDM",
+"",
+"",
+"5",
+"8",
+"40",
+"Show buyer model on the label"
+],
+[
+"Seller: STC-XG10-SD\nBuyer: TRX-SFP-10G-LR",
+"Commercial Optical Module\n\n10Gb/s, 10KM Single-mode, Dual Fiber, 1310nm\nLC port, Support DDM",
+"",
+"",
+"5",
+"10",
+"50",
+"Show buyer model on the label"
+],
+[
+"Seller: STC-DX0.1-SD\nBuyer: TRX-SFP28-25G-SR",
+"Commercial Optical Module\n\n25Gb/s, 0.1KM Multi-mode, Dual Fiber, 850nm\nLC port, Support DDM",
+"",
+"",
+"5",
+"20",
+"100",
+"Show buyer model on the label"
+],
+[
+"Seller: STC-QX0.1-SD\nBuyer: TRX-QSFP-40G-SR4",
+"Commercial Optical Module\n\n40Gb/s, 0.1KM Multi-mode, Dual Fiber, 850nm\nLC port, Support DDM",
+"",
+"",
+"5",
+"33",
+"165",
+"Show buyer model on the label"
+],
+[
+"Seller: STC-C0.1-SD\nBuyer: TRX-QSFP28-100G-SR4",
+"Commercial Optical Module\n\n100Gb/s, 0.1KM Multi-mode, Dual Fiber, 850nm\nLC port, Support DDM",
+"",
+"",
+"5",
+"42",
+"210",
+"Show buyer model on the label"
+],
+[
+"Seller: Null\nBuyer: TRX-AP-612T",
+"The same specification as TPLINK model EAP650",
+"",
+"",
+"2",
+"50",
+"100",
+"Neutral Device"
+],
+[
+"",
+"",
+"",
+"",
+"41",
+"",
+"1445"
+],
+[
+"Price validity: 30 days"
+],
+[
+"Saga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply."
+],
+[
+"Non-brand packing, without Chinese letters or logo"
+],
+[
+"Neutral device"
+],
+[
+"Country of origin: China"
+],
+[
+"Leadtime: 4~7 working days"
+],
+[
+"Warranty: 1 year for commercial models, 3 years for industrial models, lifetime technical support"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" for more information."
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:36:57Z"
+}

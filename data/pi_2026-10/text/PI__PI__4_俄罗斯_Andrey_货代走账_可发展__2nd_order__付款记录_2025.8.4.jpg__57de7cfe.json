@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__4_俄罗斯_Andrey_货代走账_可发展__2nd_order__付款记录_2025.8.4.jpg__57de7cfe",
+"path":"PI/PI/4 俄罗斯 Andrey 货代走账 可发展/2nd order/付款记录_2025.8.4.jpg",
+"name":"付款记录_2025.8.4.jpg",
+"ext":".jpg",
+"bytes":188413,
+"sha256":"57de7cfe55004057fcf203c7157bf3fd83d9b41d0f61e2c8dc3d2ad7dc29d554",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1080,
+"height":1626,
+"mode":"RGB",
+"thumb_bytes":12628
+},
+"warnings":[],
+"chars":263,
+"text":"此 回 單 為 客戶 自 行 打 印 , 表示 汇款 申请\n转账 交易 成 功\n参考 。 资金 到 账 状态 以 收 款 方 账户 汐 淮 :\n转账 金额\n交易 时 间\n收 款 人 名 称\nWEARS:\n收 款 银行\n付款 人 名 称\n付款 账号\n交易 序号\n人 民 币 元 37,085.00\n2025/08/04 15:50:43\n程 天 龙\n6214 ****** 1962\n招商 銀行\nEIR\n6217 ****** 8690\n57983826140\n中 國 銀行 APP\n智能 賬戶 管理 隨身 財富 管家\nHil}",
+"extracted_at":"2026-10-22T07:46:04Z",
+"thumb":"thumbs/PI__PI__4_俄罗斯_Andrey_货代走账_可发展__2nd_order__付款记录_2025.8.4.jpg__57de7cfe.jpg"
+}

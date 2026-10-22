@@ -1,0 +1,18 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__3rd_order_176台2光16电_L2_PoE__lite-hotfix-7.3.13.bin__7fe48e24",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/3rd order 176台2光16电 L2 PoE/lite-hotfix-7.3.13.bin",
+"name":"lite-hotfix-7.3.13.bin",
+"ext":".bin",
+"bytes":62289840,
+"sha256":"7fe48e24a87cdd731f9f238f3607ae9b1d41cb46b20ba8b64fa6feb52e5a70d4",
+"source":"PI.zip",
+"method":"none",
+"status":"meta",
+"meta":{},
+"warnings":[
+"no extractor for .bin"
+],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:39:59Z"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__1st_order_sample__出货__2.jpg__2411a817",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/1st order sample/出货/2.jpg",
+"name":"2.jpg",
+"ext":".jpg",
+"bytes":167689,
+"sha256":"2411a817ddfdc0cc77f12cd6a93e5c1613444fe9f0e4a72f47c2fa6309c3d52e",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1706,
+"height":1279,
+"mode":"RGB",
+"thumb_bytes":10742
+},
+"warnings":[],
+"chars":231,
+"text":"In < 天\n圖 品 全\nSaga Telecom\nConnecting, Converting, Creating\nour purch\nnd ca\nin this manual is ONLY\nplease refer to the actual\npro\nroblem or query\noduct label for me s)\nShared mounting hol ith DIN Rail Kit)\nle (USB to RJ45 Connector)",
+"extracted_at":"2026-10-22T07:57:57Z",
+"thumb":"thumbs/PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__1st_order_sample__出货__2.jpg__2411a817.jpg"
+}

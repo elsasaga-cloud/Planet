@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__9th_order__采购_Hohunet__出货__2.png__e44f115f",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/9th order/采购_Hohunet/出货/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":1617983,
+"sha256":"e44f115fa9c911c0e14f34cc20fdb1f5d531f205e947918a7327ccb905231d58",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1229,
+"height":851,
+"mode":"RGBA",
+"thumb_bytes":13680
+},
+"warnings":[],
+"chars":532,
+"text":"Model: Netstream-24X100G-SF1\n一 一 一 息\nTALLMAN\nSN:H241226N00024\ntt\nP/W VER 1.0\nEEE ee\nMAC:D85B22210CD9\nThis product is confirmed to contain no\nrepaired companents, Any operation of openning\nhousing is likely to cause electric shock, If\nyou need more service. Please contact our\ntechnical supports or authorized agents,\nSamm\na\nIl |\nMode1: Netstream-24X1006-SF1\n各 圖 和\nSN:H241226N00075\nPW VER 1.0\n\\C:D85B2221139F\nINPUT 100VAC~240VAC, 50-60Hz\nThis product is confirmed to contain\nrepaired companents, Any operat\nhousing is likely to cause",
+"extracted_at":"2026-10-22T08:03:58Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__9th_order__采购_Hohunet__出货__2.png__e44f115f.jpg"
+}

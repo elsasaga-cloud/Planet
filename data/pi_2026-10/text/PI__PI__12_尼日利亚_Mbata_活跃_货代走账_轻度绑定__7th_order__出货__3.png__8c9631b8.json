@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__7th_order__出货__3.png__8c9631b8",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/7th order/出货/3.png",
+"name":"3.png",
+"ext":".png",
+"bytes":128033,
+"sha256":"8c9631b862e82080b65e114eec79780af03b93f3434da6c8c11d8ee45caa1457",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1680,
+"height":1050,
+"mode":"RGB",
+"thumb_bytes":9007
+},
+"warnings":[],
+"chars":758,
+"text":"& Overview - Switch x +\nv 一 x\no< ca O & 不 安全 http://192.168.56.166/#/monitor/dashboard & 家 Om 由 =\nOce-T Mais Oxsea OFERE ”人 @@ 京东 商城 ”人 RERT\nMonitor Q oa A admin\n品\n2 ovis\nG@\nwe .\n“ System Information CPU Memory\n密\nProduct ID : BNSC-424DGGPM\nProduct SN : 202510170001\n46.75%\nMAC Address : FC-CD-2F-D0-50-4C\n95.62%\nHardware Version : V1.1\nSoftware Version : hotfix/7.4.4 (r1511 3c4d09b) 2025-09-23 23:\nUptime : 00:01\nTemperature(*C) : 65\n‘Switch Chip : Marvell ACS Series\nTY selected [1] AG Port PY trunk Port P13 Port (EY up [LY shutdown fly error-down [\n1 3 5 7 9 1 13 15 17 19 21 23\n[\n] copper Fiber\n2 46 8 10 12 14 16 18 20 22 24 25 26 27 28\nTraffic agigabitEthemet0/1 Kbps >> Configuration\n“O- wmafic -O- hxTafic @a.cxars\n品 1009\n信 向 名 9 人 日 2\nPaeowam 3 &#O",
+"extracted_at":"2026-10-22T08:00:52Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__7th_order__出货__3.png__8c9631b8.jpg"
+}

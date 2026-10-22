@@ -1,0 +1,25 @@
+{
+"id":"PI__PI__11_新加坡_Au_gg__WE02409004687_新加坡_入仓标签.PDF__b1418474",
+"path":"PI/PI/11 新加坡 Au gg/WE02409004687 新加坡 入仓标签.PDF",
+"name":"WE02409004687 新加坡 入仓标签.PDF",
+"ext":".pdf",
+"bytes":30252,
+"sha256":"b14184740998fc116b6c025965af5c6d1afa5dd4068593b5ac2e1595d60fcaa6",
+"source":"PI.zip",
+"method":"pdfplumber",
+"status":"ok",
+"meta":{
+"pages":1,
+"creator":"PDFsharp 1.50.5147 (www.pdfsharp.com)",
+"producer":"PDFsharp 1.50.5147 (www.pdfsharp.com)",
+"creationdate":"D:20240906101608+08'00'",
+"ocr_pages":0
+},
+"warnings":[],
+"chars":142,
+"text":"[p1]\nBSA00002 SE2409007147\nHCN-01 大大陆陆UPS红红单单-东东\n国国际际快快递递\n南南亚亚\n→\n深深圳圳市市 SG,新新加加坡坡\n货物类型 普普货货\n服 务\n收货地址：深圳市宝安区凤塘大道141号大洋田工业\n区第8-9栋（导航百运网分拔中心）\n1-1",
+"pages":[
+"BSA00002 SE2409007147\nHCN-01 大大陆陆UPS红红单单-东东\n国国际际快快递递\n南南亚亚\n→\n深深圳圳市市 SG,新新加加坡坡\n货物类型 普普货货\n服 务\n收货地址：深圳市宝安区凤塘大道141号大洋田工业\n区第8-9栋（导航百运网分拔中心）\n1-1"
+],
+"extracted_at":"2026-10-22T07:50:55Z"
+}

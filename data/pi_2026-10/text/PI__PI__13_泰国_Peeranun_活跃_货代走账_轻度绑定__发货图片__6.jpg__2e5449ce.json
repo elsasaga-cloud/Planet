@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__发货图片__6.jpg__2e5449ce",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/发货图片/6.jpg",
+"name":"6.jpg",
+"ext":".jpg",
+"bytes":2204462,
+"sha256":"2e5449ce092fdd0b6e203799b35fd1ddbeadc0f046c83e16c7039f7792c7f783",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":2697,
+"height":1832,
+"mode":"RGB",
+"thumb_bytes":13328
+},
+"warnings":[],
+"chars":2891,
+"text":"Usage Guide\nStep 1: Installing the din switch\nPlease prepare\n@ Category Se or better cable for RJ45 ports\n@ Fiber cables(patchcords)and modules for fiber ports\n@ Installation tools(screwdrivers, ESD wrist strap, pliers\netc.)\n@ Wear an ESD wrist strap\nMake sure the wrist strap makes good skin contact and is\nreliably grounded\n@ Mount the switch\nMake sure the spring of the DIN rail mounting bracket\ncompresses against the upper edge of the DIN rail\n@ Secure the position\nRotate the switch down toward the DIN rail until the DIN\nrail mounting bracket clicks\nStep 2: Connecting the grounding cable\n@ Remove the grounding screw from the switch.\n@ Use the grounding screw to attach the ring terminal of\nthe grounding cable to the grounding screw hole,\n@ Fasten the screw\n© Connect the other end of the grounding cable to the\ngrounding system.\nGrounding screw hole\nRing terminal of the grounding cable\nGrounding screw\nGrounding cable\nbf 用\nThe power input end of the switch has a noise filter, whose\ncentral ground is directly connected to the chassis to form\nthe chassis ground.\nYou must securely connect this chassis ground to the earth\nso the faradism and leakage electricity can be released to\nthe earth to minimize EMI susceptibility of the switch.\nCorrectly connecting the grounding cable for the switch is\nvital to lightning protection and EMI protection.\nStep 3: Connecting power cords\n@ Make sure each power cord has a separate circuit\nbreaker.\n@ Before connecting a power cord, make sure the circuit\nbreaker for the power cord is turned off.\n@ Din-rail industrial Ethernet switches support redundant\ndual DC power supply. You can connect one or two DC\npower supply according to your requirement.\nTo avoid connection mistakes, identify the positive(+)\nand negative(-)marks above the DC power receptacle\nfor the terminal block connection.\nInstallation procedure as follows\n1. Make sure the switch power off\n2. Correctly connecting the grounding cable for the switch\n3. Connect the DC power to the positive(+)and negative(-)\nof the terminal block(red cord connect “+”, black cord\nconnect “-”), fasten the screws through the screw-driver\n4. Tum on and check the power indicator on the front panel\nof the device. If the power indicator is on, the power\nsupply is working normally.\nStep 4: Verifying the installation\nAfter you complete the installation, verify the following\ninformation:\n1. There is enough space around the switch for the heat\ndissipation.\nThe DIN rail/mounting ears are securely installed.\n3. The grounding cable is connected correctly.\nIf the power supply is properly applied as required\nby the switch.\n5. The power cords are correctly connected.\nIf an interface cable for a port is routed outdoors,\nverify that a network port lightning protector is used\nfor the port.\nIfa power line is routed from outdoors, verify that a\nSurge protected power strip is used for the switch.",
+"extracted_at":"2026-10-22T07:54:07Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__发货图片__6.jpg__2e5449ce.jpg"
+}

@@ -1,0 +1,28 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__3rd_order__logo_for_all_models.pdf__f66fdbe5",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/3rd order/logo for all models.pdf",
+"name":"logo for all models.pdf",
+"ext":".pdf",
+"bytes":390241,
+"sha256":"f66fdbe558ff6e09d81ab09061b6b86d078e27a82a6d1a9da51ca568bb1786f9",
+"source":"PI.zip",
+"method":"pdfplumber+OCR(0p)",
+"status":"ok",
+"meta":{
+"pages":1,
+"title":"Untitled-1",
+"author":"ARIDOH",
+"creator":"CorelDRAW X7",
+"producer":"Corel PDF Engine Version 17.0.0.491",
+"creationdate":"D:20240113131237+01'00'",
+"moddate":"D:20240113131237+01'00'",
+"ocr_pages":0
+},
+"warnings":[],
+"chars":16,
+"text":"[p1]\nATRIX\nATRIX",
+"pages":[
+"ATRIX\nATRIX"
+],
+"extracted_at":"2026-10-22T08:03:38Z"
+}

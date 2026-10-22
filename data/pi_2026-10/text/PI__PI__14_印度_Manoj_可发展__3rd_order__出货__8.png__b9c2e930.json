@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__14_印度_Manoj_可发展__3rd_order__出货__8.png__b9c2e930",
+"path":"PI/PI/14 印度 Manoj 可发展/3rd order/出货/8.png",
+"name":"8.png",
+"ext":".png",
+"bytes":18439,
+"sha256":"b9c2e930ee917eae2ee26bcd7bd1d35247074b72c7c2f2ca7f9239401c8e9059",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":585,
+"height":561,
+"mode":"RGB",
+"thumb_bytes":13339
+},
+"warnings":[],
+"chars":157,
+"text":"Qty.: 2PCS 人 |\n2\nFROM: IIIIIKINBETIKUTTUUIEEYTETIELELIIILTILE IMET\nSTS-16UM-202510175\nTO: UUM ATTA YT TARE\nSTS-16UM-202510176\nWeight: 2.7 KG\nCarton No.: 1 /1",
+"extracted_at":"2026-10-22T07:36:20Z",
+"thumb":"thumbs/PI__PI__14_印度_Manoj_可发展__3rd_order__出货__8.png__b9c2e930.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__2nd_order_sample__货款支付记录.png__3effb2a7",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/2nd order sample/货款支付记录.png",
+"name":"货款支付记录.png",
+"ext":".png",
+"bytes":97430,
+"sha256":"3effb2a7537a6fe5668d879aeb1b97e731914eb18fa98d5744d099924e413a12",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":5915
+},
+"warnings":[],
+"chars":227,
+"text":"3:42 all 4G\n< 轉 賬 記 錄 查 詢 Oo ©\n轉 給 羅 泛\n-¥ 7,684.00\n收 款 账 户 6214 3913 3000 0617 588\n收 款 银行 东莞 银行\n付款 賬戶 6214********+1962\n转账 附 言 转账\n转账 渠道 手机 银行\n转账 方式 电子 银行 转账\n@ 转账 完成 进度 查询\n2024-12-27 15:42:02\n通知 收 款 人\n查看 和 TA 的 转账 记录\n再 转 一 笔\nTAA",
+"extracted_at":"2026-10-22T07:56:48Z",
+"thumb":"thumbs/PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__2nd_order_sample__货款支付记录.png__3effb2a7.jpg"
+}

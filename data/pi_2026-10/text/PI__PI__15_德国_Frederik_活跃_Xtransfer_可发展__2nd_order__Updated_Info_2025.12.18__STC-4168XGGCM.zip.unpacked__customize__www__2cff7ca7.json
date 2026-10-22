@@ -1,0 +1,16 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__Updated_Info_2025.12.18__STC-4168XGGCM.zip.unpacked__customize__www__2cff7ca7",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/2nd order/Updated Info_2025.12.18/STC-4168XGGCM.zip.unpacked/customize/www/sysconf.json",
+"name":"sysconf.json",
+"ext":".json",
+"bytes":186,
+"sha256":"2cff7ca73c137fde02e3e4cd6ea369bcdfb39991428a3144e19f8b233b1039b1",
+"source":"PI.zip",
+"method":"text",
+"status":"ok",
+"meta":{},
+"warnings":[],
+"chars":186,
+"text":"{\n  \"login_page_help\": \"one of ['lt', 'logo', 'nologo']\",\n  \"login_page\": \"nologo\",\n  \"data_upgrade\":true,\n  \"langs\": [\n    {\n      \"name\": \"English\",\n      \"value\": \"en_US\"\n    }\n  ]\n}\n",
+"extracted_at":"2026-10-22T07:34:04Z"
+}

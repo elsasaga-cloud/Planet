@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__1st_order_sample__awb.png__d4cba34e",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/1st order sample/awb.png",
+"name":"awb.png",
+"ext":".png",
+"bytes":72397,
+"sha256":"d4cba34e6d752cb7ed5d87746613f6b9215701bc74c0b7c04972ad983e8b3cbb",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":447,
+"height":565,
+"mode":"RGBA",
+"thumb_bytes":22472
+},
+"warnings":[],
+"chars":248,
+"text":"SHIP TO:\nRs CLENDENAN\n1-604-910-5745\nat CLENDENAN SYSTEMS LTD.\nANADA V7P 2Y4\n1543 BOWSER AVE NORTH VANCOUVER\nNORTH VANCOUVER BC V7P2Y4\nCANADA\n5 A CAN 209 9-01\nUPS EXPRESS\nTRACKING #: 1Z ORO 335 66 0563 7604\nCN —\nDESC: industrial Switch*4Power Suppl",
+"extracted_at":"2026-10-22T07:57:46Z",
+"thumb":"thumbs/PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__1st_order_sample__awb.png__d4cba34e.jpg"
+}

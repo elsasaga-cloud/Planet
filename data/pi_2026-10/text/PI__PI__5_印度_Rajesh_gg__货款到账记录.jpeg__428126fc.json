@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__5_印度_Rajesh_gg__货款到账记录.jpeg__428126fc",
+"path":"PI/PI/5 印度 Rajesh gg/货款到账记录.jpeg",
+"name":"货款到账记录.jpeg",
+"ext":".jpeg",
+"bytes":66317,
+"sha256":"428126fca4faeb881ea10aafc4394829dde4e8c04e97984a60307e31ab640a60",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":922,
+"height":555,
+"mode":"RGB",
+"thumb_bytes":8870
+},
+"warnings":[],
+"chars":177,
+"text":"PayPal balance\n$952.65\nAvailable\nTransfer Funds\nRecent activity\nUNITE\nApr 19.\n\"FOR SAMPLE\nD CONTROL ENGINEERS INDIAPV... +$170.35\naney Received\nQODS AGST PI NO. STSC20240416005\"",
+"extracted_at":"2026-10-22T07:29:39Z",
+"thumb":"thumbs/PI__PI__5_印度_Rajesh_gg__货款到账记录.jpeg__428126fc.jpg"
+}

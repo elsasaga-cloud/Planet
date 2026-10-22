@@ -1,0 +1,163 @@
+{
+"id":"PI__PI__5_印度_Rajesh_gg__发货__普通快递发票.xlsx__2b956002",
+"path":"PI/PI/5 印度 Rajesh gg/发货/普通快递发票.xlsx",
+"name":"普通快递发票.xlsx",
+"ext":".xlsx",
+"bytes":11618,
+"sha256":"2b956002849b3534001571c813e30375d2327325039c404c0185353b9d2aad95",
+"source":"PI.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"CI"
+],
+"embedded_images":0,
+"rows_total":15
+},
+"warnings":[],
+"chars":994,
+"text":"--- Sheet: CI ---\nCommercial Invoice\nInternatioal Air Waybill No\t\t\t\t\t\tDate of Exportation\n\t\t\t\t\t\t2024.04.22\nShipper/Exporter\t\t\t\t\t\tConsignee/Importer\nCompany Name:\tZhengzhou Saga Telecom Co., Ltd.\t\t\t\t\tCompany Name:\tUNITED CONTROL ENGINEERS INDIA PRIVATE LIMITED\nATTN:\tSimon Cheng\t\t\t\t\tATTN:\tRajesh\nTel Number:\t86 15237149683\t\t\t\t\tTel Number:\t91 9599195091\nFAX:\t\t\t\t\t\tOrder ID:\tSTSC20240416005\n(Shipper )\nAddress:\tRoom 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\t\t\t\t\t(Delivery to)\nAddress:\tPlot No. 218, Udyog Kendra 1, Ecotech 3 Greater Noida - 201306, Uttar Pradesh, India\nCountry of Origin\t\t\t\t\tCoutry of Export\nChina\t\t\t\t\tChina\nDescription of Goods\t\tHS CODE\tmaterial\tapplication\tCarton \nQ'ty\tTotal Q'ty\n(pcs)\tUnit Value \n(US$)\tTotal Value \n(US$)\nIndustrial Switch\t\t8517622990\tMetal\tData exchange and optical telecommunication\t1\t2\t23\t46\nIndustrial Switch\t\t8517622990\tMetal\tData exchange and optical telecommunication\t\t2\t37\t74\nTotal\t\t120",
+"sheets":{
+"CI":{
+"state":"visible",
+"rows":[
+[
+"Commercial Invoice"
+],
+[
+"Internatioal Air Waybill No",
+"",
+"",
+"",
+"",
+"",
+"Date of Exportation"
+],
+[
+"",
+"",
+"",
+"",
+"",
+"",
+"2024.04.22"
+],
+[
+"Shipper/Exporter",
+"",
+"",
+"",
+"",
+"",
+"Consignee/Importer"
+],
+[
+"Company Name:",
+"Zhengzhou Saga Telecom Co., Ltd.",
+"",
+"",
+"",
+"",
+"Company Name:",
+"UNITED CONTROL ENGINEERS INDIA PRIVATE LIMITED"
+],
+[
+"ATTN:",
+"Simon Cheng",
+"",
+"",
+"",
+"",
+"ATTN:",
+"Rajesh"
+],
+[
+"Tel Number:",
+"86 15237149683",
+"",
+"",
+"",
+"",
+"Tel Number:",
+"91 9599195091"
+],
+[
+"FAX:",
+"",
+"",
+"",
+"",
+"",
+"Order ID:",
+"STSC20240416005"
+],
+[
+"(Shipper )\nAddress:",
+"Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009",
+"",
+"",
+"",
+"",
+"(Delivery to)\nAddress:",
+"Plot No. 218, Udyog Kendra 1, Ecotech 3 Greater Noida - 201306, Uttar Pradesh, India"
+],
+[
+"Country of Origin",
+"",
+"",
+"",
+"",
+"Coutry of Export"
+],
+[
+"China",
+"",
+"",
+"",
+"",
+"China"
+],
+[
+"Description of Goods",
+"",
+"HS CODE",
+"material",
+"application",
+"Carton \nQ'ty",
+"Total Q'ty\n(pcs)",
+"Unit Value \n(US$)",
+"Total Value \n(US$)"
+],
+[
+"Industrial Switch",
+"",
+"8517622990",
+"Metal",
+"Data exchange and optical telecommunication",
+"1",
+"2",
+"23",
+"46"
+],
+[
+"Industrial Switch",
+"",
+"8517622990",
+"Metal",
+"Data exchange and optical telecommunication",
+"",
+"2",
+"37",
+"74"
+],
+[
+"Total",
+"",
+"120"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:29:52Z"
+}

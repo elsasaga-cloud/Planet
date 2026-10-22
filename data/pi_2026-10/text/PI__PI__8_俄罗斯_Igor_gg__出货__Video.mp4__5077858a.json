@@ -1,0 +1,24 @@
+{
+"id":"PI__PI__8_俄罗斯_Igor_gg__出货__Video.mp4__5077858a",
+"path":"PI/PI/8 俄罗斯 Igor gg/出货/Video.mp4",
+"name":"Video.mp4",
+"ext":".mp4",
+"bytes":8082285,
+"sha256":"5077858a9ad226632c99143920bfd87a83d973701d1304a3760e4f2669299818",
+"source":"PI.zip",
+"method":"ffprobe+ffmpeg",
+"status":"meta",
+"meta":{
+"duration_s":43.4,
+"width":544,
+"height":960,
+"vcodec":"h264",
+"acodec":"aac",
+"thumb_bytes":14430
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:34:57Z",
+"thumb":"thumbs/PI__PI__8_俄罗斯_Igor_gg__出货__Video.mp4__5077858a.jpg"
+}

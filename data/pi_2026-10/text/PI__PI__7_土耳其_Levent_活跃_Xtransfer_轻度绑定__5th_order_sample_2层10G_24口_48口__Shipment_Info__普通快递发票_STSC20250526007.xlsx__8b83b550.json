@@ -1,0 +1,174 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__5th_order_sample_2层10G_24口_48口__Shipment_Info__普通快递发票_STSC20250526007.xlsx__8b83b550",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/5th order sample  2层10G 24口 48口/Shipment Info/普通快递发票_STSC20250526007.xlsx",
+"name":"普通快递发票_STSC20250526007.xlsx",
+"ext":".xlsx",
+"bytes":11795,
+"sha256":"8b83b55025ddc5cc82ad9bb322146d313ba634cbec5f56dc0e8af296bd3d35c7",
+"source":"PI.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"CI"
+],
+"embedded_images":0,
+"rows_total":16
+},
+"warnings":[],
+"chars":994,
+"text":"--- Sheet: CI ---\nCommercial Invoice\nInternatioal Air Waybill No\t\t\t\t\t\tDate of Exportation\n\t\t\t\t\t\t2025.6.9\nShipper/Exporter\t\t\t\t\t\tConsignee/Importer\nCompany Name:\tZhengzhou Saga Telecom Co., Ltd.\t\t\t\t\tCompany Name:\tANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.\nATTN:\tSimon Cheng\t\t\t\t\tATTN:\tLevent Kilic\nTel Number:\t86 15237149683\t\t\t\t\tTel Number:\t90 (312) 241 77 47\nFAX:\t\t\t\t\t\tOrder ID:\tSTSC20250526007\n(Shipper )\nAddress:\tRoom 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\t\t\t\t\t(Delivery to)\nAddress:\tÇamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle  06200 Ankara Turkey\nCountry of Origin\t\t\t\t\tCoutry of Export\nChina\t\t\t\t\tChina\nDescription of Goods\t\tHS CODE\tmaterial\tapplication\tCarton \nQ'ty\tTotal Q'ty\n(pcs)\tUnit Value \n(US$)\tTotal Value \n(US$)\nCommercial Switch\t\t8517622990\tMetal\tData exchange and optical telecommunication\t2\t5\t205\t1025\nCommercial Switch\t\t\t\t\t\t5\t205\t1025\nCommercial Switch\t\t\t\t\t1\t3\t335\t1005\nTotal\t\t3055",
+"sheets":{
+"CI":{
+"state":"visible",
+"rows":[
+[
+"Commercial Invoice"
+],
+[
+"Internatioal Air Waybill No",
+"",
+"",
+"",
+"",
+"",
+"Date of Exportation"
+],
+[
+"",
+"",
+"",
+"",
+"",
+"",
+"2025.6.9"
+],
+[
+"Shipper/Exporter",
+"",
+"",
+"",
+"",
+"",
+"Consignee/Importer"
+],
+[
+"Company Name:",
+"Zhengzhou Saga Telecom Co., Ltd.",
+"",
+"",
+"",
+"",
+"Company Name:",
+"ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S."
+],
+[
+"ATTN:",
+"Simon Cheng",
+"",
+"",
+"",
+"",
+"ATTN:",
+"Levent Kilic"
+],
+[
+"Tel Number:",
+"86 15237149683",
+"",
+"",
+"",
+"",
+"Tel Number:",
+"90 (312) 241 77 47"
+],
+[
+"FAX:",
+"",
+"",
+"",
+"",
+"",
+"Order ID:",
+"STSC20250526007"
+],
+[
+"(Shipper )\nAddress:",
+"Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009",
+"",
+"",
+"",
+"",
+"(Delivery to)\nAddress:",
+"Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle  06200 Ankara Turkey"
+],
+[
+"Country of Origin",
+"",
+"",
+"",
+"",
+"Coutry of Export"
+],
+[
+"China",
+"",
+"",
+"",
+"",
+"China"
+],
+[
+"Description of Goods",
+"",
+"HS CODE",
+"material",
+"application",
+"Carton \nQ'ty",
+"Total Q'ty\n(pcs)",
+"Unit Value \n(US$)",
+"Total Value \n(US$)"
+],
+[
+"Commercial Switch",
+"",
+"8517622990",
+"Metal",
+"Data exchange and optical telecommunication",
+"2",
+"5",
+"205",
+"1025"
+],
+[
+"Commercial Switch",
+"",
+"",
+"",
+"",
+"",
+"5",
+"205",
+"1025"
+],
+[
+"Commercial Switch",
+"",
+"",
+"",
+"",
+"1",
+"3",
+"335",
+"1005"
+],
+[
+"Total",
+"",
+"3055"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:45:24Z"
+}

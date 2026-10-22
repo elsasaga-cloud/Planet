@@ -1,0 +1,105 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__出货图__发票.xlsx__98716b4a",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/2nd order/出货图/发票.xlsx",
+"name":"发票.xlsx",
+"ext":".xlsx",
+"bytes":16723,
+"sha256":"98716b4adf21028231b4cd4c62e78e5c22389dff26db68bbec29723651e5ee82",
+"source":"PI.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"发票"
+],
+"embedded_images":0,
+"rows_total":8
+},
+"warnings":[],
+"chars":471,
+"text":"--- Sheet: 发票 ---\nCOMMERCIAL INVOICE\nMESSRS\tNYNEX satellite OHG\t\t\t\t\tATT\t\tFrederik Kriewitz\nADD\tRobert-Bosch-Str. 20, 64293 Darmstadt, Germany\t\t\t\t\tPOSTCODE\t\t64293\nTEL\t49 6151 500 74 - 119\t\t\t\t\tINVOICE NO.\t\tSTSC20250915015\nEORI：\t\t\tVAT\tDE215920034\tMode of transaction\nS/N\tItem Name\tHS\tMaterial\tuse\tQTY(pcs)\tUnit Price  (USD)\tAmount (USD)\tRemark\n1\tCommercial Ethernet Switch\t8517622990\tMetal\tData exchange and optical telecommunication\t1\t265\t265\t不带电不带磁\n普货\nTOTAL（合计）:\t\t\t\t\t\t\t265",
+"sheets":{
+"发票":{
+"state":"visible",
+"rows":[
+[
+"COMMERCIAL INVOICE"
+],
+[
+"MESSRS",
+"NYNEX satellite OHG",
+"",
+"",
+"",
+"",
+"ATT",
+"",
+"Frederik Kriewitz"
+],
+[
+"ADD",
+"Robert-Bosch-Str. 20, 64293 Darmstadt, Germany",
+"",
+"",
+"",
+"",
+"POSTCODE",
+"",
+"64293"
+],
+[
+"TEL",
+"49 6151 500 74 - 119",
+"",
+"",
+"",
+"",
+"INVOICE NO.",
+"",
+"STSC20250915015"
+],
+[
+"EORI：",
+"",
+"",
+"VAT",
+"DE215920034",
+"Mode of transaction"
+],
+[
+"S/N",
+"Item Name",
+"HS",
+"Material",
+"use",
+"QTY(pcs)",
+"Unit Price  (USD)",
+"Amount (USD)",
+"Remark"
+],
+[
+"1",
+"Commercial Ethernet Switch",
+"8517622990",
+"Metal",
+"Data exchange and optical telecommunication",
+"1",
+"265",
+"265",
+"不带电不带磁\n普货"
+],
+[
+"TOTAL（合计）:",
+"",
+"",
+"",
+"",
+"",
+"",
+"265"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:33:58Z"
+}

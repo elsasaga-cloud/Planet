@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__8_俄罗斯_Igor_gg__出货__STI-080GE__2.jpg__aa44a51c",
+"path":"PI/PI/8 俄罗斯 Igor gg/出货/STI-080GE/2.jpg",
+"name":"2.jpg",
+"ext":".jpg",
+"bytes":817793,
+"sha256":"aa44a51c6f3a0ab4adf0facc85f199c4f9dcb04d1168e09243280a4f6c8d44a8",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1920,
+"height":1080,
+"mode":"RGB",
+"thumb_bytes":7270
+},
+"warnings":[],
+"chars":32,
+"text":"Non-PoE:DC 12-58V; PoE:DC 44-57V",
+"extracted_at":"2026-10-22T07:35:02Z",
+"thumb":"thumbs/PI__PI__8_俄罗斯_Igor_gg__出货__STI-080GE__2.jpg__aa44a51c.jpg"
+}

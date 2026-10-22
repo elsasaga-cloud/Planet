@@ -1,0 +1,264 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__STSC20260830010.xlsx__65b7608d",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/STSC20260830010.xlsx",
+"name":"STSC20260830010.xlsx",
+"ext":".xlsx",
+"bytes":1441755,
+"sha256":"65b7608d8f32f29375cf297dedbb240df56d7acdd716d4aaac276081ea2575c5",
+"source":"PI.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"Proforma Invoice"
+],
+"embedded_images":3,
+"rows_total":53
+},
+"warnings":[],
+"chars":3484,
+"text":"--- Sheet: Proforma Invoice ---\nSaga Telecom\nAn Engineering & Supply-Chain-First Telecom Partner\nBuilt to Last, Continuous Supply, Evolving Together\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 15237149683                                                     https://sagatele.com/                              Email: s.sagatelecom@gmail.com\nProforma Invoice\nPO No.\t\t\tInvoice No.:\tSTSC20260830010\nBuyer:\tJames Clendenan Systems Ltd.\t\tSeller:\tSaga Telecom\nTel:\t1-604-910-5745\t\tIssued By:\tSimon\nEmail:\tjames@clendenan.ca\t\tInvoice Date:\t30th, Aug, 2026\nContact Person:\tJames Clendenan\t\tPayment Term:\tT/T in advance, Full Amount\nShipping Address:\tJames Clendenan systems Ltd. 1543 bowser ave North Vancouver, bc Canada V7P 2Y4\nIncoterm: DAP\nDefinition\tIncluding origin export clearance and international freight\nExcluding destination customs clearance and import duties.\nIncluding on-carriage delivery to the shipping address after customs release\nModel\tSpecification\t\t\tQuantity \n(UNIT)\tUnit Price\n(RMB)\tAmount \n(RMB)\tRemark\nSeller\nSTI-21616XGGPM\n\nBuyer\nSW-3200-16GP-2SX\t\tIndustrial PoE Managed Switch\n\n2*1G/2.5G/10G Fiber+16*100M/1000M Copper\nPoE af/at, 240W budget, L2+ Managed\nMarvell Chip, DC44V~DC57V(Removable 6 PIN Industrial Terminal Block), -40℃ to 75℃\nDin mounted, Without optical module\nWithout power adapter\nWith Enclosure, PCB ONLY\t\t12\t2250\t27000\tMarvell Chip\nAC5 Series\n\tHS Code\t8517622990\n\tPacking Information\tProduct size: 158*115*54mm\nInner box size: 230*180*70mm\nProduct weight: 1.2Kg\nPacking weight: 1.4Kg\nFreight Cost\t1800RMB for about 18Kg volume weight to Canada by UPS\nAir, door-to-door service\nShipment time: 5~8 calendar days\t\t\t\t\t1800\nBank Cost\tStandard Charge for EACH Order\t\t\t\t\t175\nTOTAL\t\t\t\t12\t\t28975\nSAY TOTAL: RMB TWENTY EIGHT THOUSAND NINE HUNDRED AND SEVENTY FIVE ONLY\nAbout Import\nPlease do make sure client side could handle import customs clearance\nIf there is any problem with the shipment or clearance\n1, please let us know ASAP\n2, please call DHL/FedEx/UPS official number for information\nBusiness Term\n1. Payment: Full payment to the below bank account before shipment\nBank Information\nSWIFT/BIC code\tCHASHKHH (CHASHKHHXXX * if 11 characters are required)\nAccount Number\t63003662406\nAccount Name\tZhengzhou Saga Telecom Co., Ltd.\nBank Name\tJPMorgan Chase Bank N.A., Hong Kong Branch\nBank Address\t18/F, 20/F, 22-29/F, CHATER HOUSE, 8 CONNAUGHT ROAD CENTRAL, HONG KONG\nCountry/Region\tHong Kong\nType of Account\tBusiness Account\nBank Code\t007\nBranch Code\t863\n2. NOTE: Saga Telecom will not pay for any bank charge\nPlease make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice\n3. Production time: 5~10 working days(Excluding shipping time)\n4. Country of origin: China\nCertificate of Origin is available upon request, please inform us BEFORE shipment if required\n5. Non-brand packing, without Chinese letters or logo\nNeutral device\nPacking list is available\n6. Warranty: 3 years, lifetime technical support\nPurchased items are deemed accepted upon initial inspection if no written notice of defects is received within two (2) months from the delivery date\nThis acceptance clause shall not affect the validity of the warranty period\nPlease refer to \"warranty policy\" for more information\nBuyer: James Clendenan Systems Ltd.\t\t\tSeller: Saga Telecom\nJames Clendenan\t\t\tSimon\nAuthorized Signature\t\t\tAuthorized Signature",
+"sheets":{
+"Proforma Invoice":{
+"state":"visible",
+"rows":[
+[
+"Saga Telecom"
+],
+[
+"An Engineering & Supply-Chain-First Telecom Partner"
+],
+[
+"Built to Last, Continuous Supply, Evolving Together"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 15237149683                                                     https://sagatele.com/                              Email: s.sagatelecom@gmail.com"
+],
+[
+"Proforma Invoice"
+],
+[
+"PO No.",
+"",
+"",
+"Invoice No.:",
+"STSC20260830010"
+],
+[
+"Buyer:",
+"James Clendenan Systems Ltd.",
+"",
+"Seller:",
+"Saga Telecom"
+],
+[
+"Tel:",
+"1-604-910-5745",
+"",
+"Issued By:",
+"Simon"
+],
+[
+"Email:",
+"james@clendenan.ca",
+"",
+"Invoice Date:",
+"30th, Aug, 2026"
+],
+[
+"Contact Person:",
+"James Clendenan",
+"",
+"Payment Term:",
+"T/T in advance, Full Amount"
+],
+[
+"Shipping Address:",
+"James Clendenan systems Ltd. 1543 bowser ave North Vancouver, bc Canada V7P 2Y4"
+],
+[
+"Incoterm: DAP\nDefinition",
+"Including origin export clearance and international freight\nExcluding destination customs clearance and import duties.\nIncluding on-carriage delivery to the shipping address after customs release"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(UNIT)",
+"Unit Price\n(RMB)",
+"Amount \n(RMB)",
+"Remark"
+],
+[
+"Seller\nSTI-21616XGGPM\n\nBuyer\nSW-3200-16GP-2SX",
+"",
+"Industrial PoE Managed Switch\n\n2*1G/2.5G/10G Fiber+16*100M/1000M Copper\nPoE af/at, 240W budget, L2+ Managed\nMarvell Chip, DC44V~DC57V(Removable 6 PIN Industrial Terminal Block), -40℃ to 75℃\nDin mounted, Without optical module\nWithout power adapter\nWith Enclosure, PCB ONLY",
+"",
+"12",
+"2250",
+"27000",
+"Marvell Chip\nAC5 Series"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Product size: 158*115*54mm\nInner box size: 230*180*70mm\nProduct weight: 1.2Kg\nPacking weight: 1.4Kg"
+],
+[
+"Freight Cost",
+"1800RMB for about 18Kg volume weight to Canada by UPS\nAir, door-to-door service\nShipment time: 5~8 calendar days",
+"",
+"",
+"",
+"",
+"1800"
+],
+[
+"Bank Cost",
+"Standard Charge for EACH Order",
+"",
+"",
+"",
+"",
+"175"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"12",
+"",
+"28975"
+],
+[
+"SAY TOTAL: RMB TWENTY EIGHT THOUSAND NINE HUNDRED AND SEVENTY FIVE ONLY"
+],
+[
+"About Import"
+],
+[
+"Please do make sure client side could handle import customs clearance"
+],
+[
+"If there is any problem with the shipment or clearance"
+],
+[
+"1, please let us know ASAP"
+],
+[
+"2, please call DHL/FedEx/UPS official number for information"
+],
+[
+"Business Term"
+],
+[
+"1. Payment: Full payment to the below bank account before shipment"
+],
+[
+"Bank Information"
+],
+[
+"SWIFT/BIC code",
+"CHASHKHH (CHASHKHHXXX * if 11 characters are required)"
+],
+[
+"Account Number",
+"63003662406"
+],
+[
+"Account Name",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Bank Name",
+"JPMorgan Chase Bank N.A., Hong Kong Branch"
+],
+[
+"Bank Address",
+"18/F, 20/F, 22-29/F, CHATER HOUSE, 8 CONNAUGHT ROAD CENTRAL, HONG KONG"
+],
+[
+"Country/Region",
+"Hong Kong"
+],
+[
+"Type of Account",
+"Business Account"
+],
+[
+"Bank Code",
+"007"
+],
+[
+"Branch Code",
+"863"
+],
+[
+"2. NOTE: Saga Telecom will not pay for any bank charge"
+],
+[
+"Please make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice"
+],
+[
+"3. Production time: 5~10 working days(Excluding shipping time)"
+],
+[
+"4. Country of origin: China"
+],
+[
+"Certificate of Origin is available upon request, please inform us BEFORE shipment if required"
+],
+[
+"5. Non-brand packing, without Chinese letters or logo"
+],
+[
+"Neutral device"
+],
+[
+"Packing list is available"
+],
+[
+"6. Warranty: 3 years, lifetime technical support"
+],
+[
+"Purchased items are deemed accepted upon initial inspection if no written notice of defects is received within two (2) months from the delivery date"
+],
+[
+"This acceptance clause shall not affect the validity of the warranty period"
+],
+[
+"Please refer to \"warranty policy\" for more information"
+],
+[
+"Buyer: James Clendenan Systems Ltd.",
+"",
+"",
+"Seller: Saga Telecom"
+],
+[
+"James Clendenan",
+"",
+"",
+"Simon"
+],
+[
+"Authorized Signature",
+"",
+"",
+"Authorized Signature"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:55:30Z"
+}

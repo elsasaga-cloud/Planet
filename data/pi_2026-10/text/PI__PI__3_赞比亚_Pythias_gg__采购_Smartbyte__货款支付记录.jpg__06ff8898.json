@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__3_赞比亚_Pythias_gg__采购_Smartbyte__货款支付记录.jpg__06ff8898",
+"path":"PI/PI/3  赞比亚 Pythias gg/采购_Smartbyte/货款支付记录.jpg",
+"name":"货款支付记录.jpg",
+"ext":".jpg",
+"bytes":79175,
+"sha256":"06ff889895558461d4b683419e32066923149626faf9acff09b1c1ae981760fa",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":6079
+},
+"warnings":[],
+"chars":243,
+"text":"8:48 all 全 &\n< 转账 记录 查询 站 , 人 @\n轉 給 羅 泛\n- ¥ 9,800.00\nKam 6226 2203 2153 6004\n收 款 银行 民生 银行\n寺 款 账户 6214**#*###*1962\n转账 附 言 货款 ，50 个 工业 POE 交 换 机\n转账 渠 道 手机 银行\n转账 方式 电子 银行 转账\n© 转账 完成 进度 查询\n2024-03-03 20:47:56\n通知 收 款 人\n查看 和 TA 的 转账 记录\n再 轉 一 第\n說 明 :",
+"extracted_at":"2026-10-22T07:48:29Z",
+"thumb":"thumbs/PI__PI__3_赞比亚_Pythias_gg__采购_Smartbyte__货款支付记录.jpg__06ff8898.jpg"
+}

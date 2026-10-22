@@ -1,0 +1,211 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__3rd_order_176台2光16电_L2_PoE__采购_Smartbyte__Quotation_176pcs_Industrial_switch_pow__421900a6",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/3rd order 176台2光16电 L2 PoE/采购_Smartbyte/Quotation_176pcs Industrial switch&power adapter.xls",
+"name":"Quotation_176pcs Industrial switch&power adapter.xls",
+"ext":".xls",
+"bytes":174592,
+"sha256":"421900a6d8ab5ddca0b4ff4676a5f9920d1fcaa427a4312fed3441ebbfdc43d9",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Quotation"
+],
+"rows_total":44
+},
+"warnings":[],
+"chars":2553,
+"text":"--- Sheet: Quotation ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob/WhatsApp/WeChat: 86 15237149683                     www.sagatelecom.com.cn                  Email: s.sagatelecom@gmail.com\n***********************************************************************************************************************************\nQuotation\nBuyer:\tAngora Networks\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t90 (312) 241 77 47\t\tQuoted By:\tSimon Cheng\nEmail:\tlkilic@angoranetworks.com\ntesen@angoranetworks.com\t\tDate:\t11th, Dec, 2024\nContact Person:\tLevent Kilic\nTaylan Esen\t\tPrice Term:\tEXW\nDestination\tTurkey\nModel\tSpecification\t\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSTI-21616DGGPM\tIndustrial Ethernet Switch\n\n2*1G/2.5G SFP+16*10/100/1000M RJ45+1*Console Port\nL2+ Managed, PoE af/at, 240W budget, Without Serial Port\nDC44V~DC57V(Removable 6 PIN Industrial Terminal Block)\n-40℃ to 75℃, Din mounted, Without Power Adapter, Without Optical Module\t\t\t1\t220\t220\tL2+\nNeutral Device\n\t\t\t\t176\t205\t36080\nGoogle Drive Link\thttps://drive.google.com/drive/folders/1mXt3EV_ozAJDRiudNhixoCQiorCnGXVC?usp=drive_link\nSTI-PA-240W-48V5A\tDIN Power Adapter\n\n90-264VAC Input, 48VDC Output, 5A, 240W, Metal Case, DIN Mounted\nGood match with STI-21616DGGPM\t\t\t1\t40\t40\tNeutral Device\n\t\t\t\t176\t35\t6160\nGoogle Drive Link\thttps://drive.google.com/drive/folders/1GrbLwGdg7DyNU5XOelNNeGYj4Cq6ImrN?usp=drive_link\nPacking Information\nIndustrial Ethernet Switch\nInner box size: 230*180*70mm, 1pc each, 1.4Kg each\nMaster box size: 440*375*250mm, 12pcs each, 18Kg each\nThat will be, 15 cartons, 270Kg weight\nDIN Power Adapter\nInner box size: 125*113.5*63mm, 1pc each, 1Kg each\nMaster box size: 525*330*175mm, 10pcs each, 10Kg each\nThat will be, 18 cartons, 180Kg weight\nShipping Information\nBy Express\nShipping time: 6~10 calendar days\nCost: 4500 USD by UPS/DHL(Similar Cost&Shipment Time)\nBy Sea\nUndefined\nTotal Cost(USD)\n46765\nPrice validity: 30 days\nSaga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply.\nNon-brand packing, without Chinese letters or logo\nNeutral device\nCountry of origin: China\nProduction time: Around 30 calendar days after payment is collected\nWarranty: 3 years, lifetime technical support\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" for more information.",
+"sheets":{
+"Quotation":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob/WhatsApp/WeChat: 86 15237149683                     www.sagatelecom.com.cn                  Email: s.sagatelecom@gmail.com"
+],
+[
+"***********************************************************************************************************************************"
+],
+[
+"Quotation"
+],
+[
+"Buyer:",
+"Angora Networks",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"90 (312) 241 77 47",
+"",
+"Quoted By:",
+"Simon Cheng"
+],
+[
+"Email:",
+"lkilic@angoranetworks.com\ntesen@angoranetworks.com",
+"",
+"Date:",
+"11th, Dec, 2024"
+],
+[
+"Contact Person:",
+"Levent Kilic\nTaylan Esen",
+"",
+"Price Term:",
+"EXW"
+],
+[
+"Destination",
+"Turkey"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"STI-21616DGGPM",
+"Industrial Ethernet Switch\n\n2*1G/2.5G SFP+16*10/100/1000M RJ45+1*Console Port\nL2+ Managed, PoE af/at, 240W budget, Without Serial Port\nDC44V~DC57V(Removable 6 PIN Industrial Terminal Block)\n-40℃ to 75℃, Din mounted, Without Power Adapter, Without Optical Module",
+"",
+"",
+"1",
+"220",
+"220",
+"L2+\nNeutral Device"
+],
+[
+"",
+"",
+"",
+"",
+"176",
+"205",
+"36080"
+],
+[
+"Google Drive Link",
+"https://drive.google.com/drive/folders/1mXt3EV_ozAJDRiudNhixoCQiorCnGXVC?usp=drive_link"
+],
+[
+"STI-PA-240W-48V5A",
+"DIN Power Adapter\n\n90-264VAC Input, 48VDC Output, 5A, 240W, Metal Case, DIN Mounted\nGood match with STI-21616DGGPM",
+"",
+"",
+"1",
+"40",
+"40",
+"Neutral Device"
+],
+[
+"",
+"",
+"",
+"",
+"176",
+"35",
+"6160"
+],
+[
+"Google Drive Link",
+"https://drive.google.com/drive/folders/1GrbLwGdg7DyNU5XOelNNeGYj4Cq6ImrN?usp=drive_link"
+],
+[
+"Packing Information"
+],
+[
+"Industrial Ethernet Switch"
+],
+[
+"Inner box size: 230*180*70mm, 1pc each, 1.4Kg each"
+],
+[
+"Master box size: 440*375*250mm, 12pcs each, 18Kg each"
+],
+[
+"That will be, 15 cartons, 270Kg weight"
+],
+[
+"DIN Power Adapter"
+],
+[
+"Inner box size: 125*113.5*63mm, 1pc each, 1Kg each"
+],
+[
+"Master box size: 525*330*175mm, 10pcs each, 10Kg each"
+],
+[
+"That will be, 18 cartons, 180Kg weight"
+],
+[
+"Shipping Information"
+],
+[
+"By Express"
+],
+[
+"Shipping time: 6~10 calendar days"
+],
+[
+"Cost: 4500 USD by UPS/DHL(Similar Cost&Shipment Time)"
+],
+[
+"By Sea"
+],
+[
+"Undefined"
+],
+[
+"Total Cost(USD)"
+],
+[
+"46765"
+],
+[
+"Price validity: 30 days"
+],
+[
+"Saga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply."
+],
+[
+"Non-brand packing, without Chinese letters or logo"
+],
+[
+"Neutral device"
+],
+[
+"Country of origin: China"
+],
+[
+"Production time: Around 30 calendar days after payment is collected"
+],
+[
+"Warranty: 3 years, lifetime technical support"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" for more information."
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:40:23Z"
+}

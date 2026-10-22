@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__1st_order__采购_Smartbyte__货款支付记录_1.png__b1838701",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/1st order/采购_Smartbyte/货款支付记录 1.png",
+"name":"货款支付记录 1.png",
+"ext":".png",
+"bytes":95323,
+"sha256":"b1838701997eabccf4cb404ea05968638126af86d85ef3bffdad3f2de955347a",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":5930
+},
+"warnings":[],
+"chars":222,
+"text":"1:03 a 7G\n< 轉 賬 記 錄 查 詢 Oo ©\n轉 給 羅 泛\n- 羊 4,000.00\n收 款 账 户 6214 3913 3000 0617 588\n收 款 银行 东莞 银行\n付款 賬戶 6214********+1962\n转账 附 言 转账\n转账 渠道 手机 银行\n转账 方式 电子 银行 转账\n@ 转账 完成 进度 查询\n2024-09-19 19:02:05\n通知 收 款 人\n查看 和 TA 的 转账 记录\n再 转 一 笔",
+"extracted_at":"2026-10-22T08:04:41Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__1st_order__采购_Smartbyte__货款支付记录_1.png__b1838701.jpg"
+}

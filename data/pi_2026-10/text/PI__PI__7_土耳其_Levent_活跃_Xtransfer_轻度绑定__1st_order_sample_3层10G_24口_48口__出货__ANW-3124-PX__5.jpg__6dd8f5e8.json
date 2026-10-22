@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__1st_order_sample_3层10G_24口_48口__出货__ANW-3124-PX__5.jpg__6dd8f5e8",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/1st order sample  3层10G 24口 48口/出货/ANW-3124-PX/5.jpg",
+"name":"5.jpg",
+"ext":".jpg",
+"bytes":236676,
+"sha256":"6dd8f5e8dbf6e60766a330761ee0fdab49c5187fd1d690014c9c402b203b738a",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":1030,
+"height":740,
+"mode":"RGB",
+"thumb_bytes":5868
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:39:07Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__1st_order_sample_3层10G_24口_48口__出货__ANW-3124-PX__5.jpg__6dd8f5e8.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__9_马来西亚_Sugito_gg__1st_order_Sample__发货__2.jpg__fc1bae14",
+"path":"PI/PI/9 马来西亚 Sugito gg/1st order Sample/发货/2.jpg",
+"name":"2.jpg",
+"ext":".jpg",
+"bytes":182906,
+"sha256":"fc1bae1461822ffb998043e6754144286b07b84dd2c88c08692afcaa415932ce",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":1702,
+"height":1276,
+"mode":"RGB",
+"thumb_bytes":9326
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:30:38Z",
+"thumb":"thumbs/PI__PI__9_马来西亚_Sugito_gg__1st_order_Sample__发货__2.jpg__fc1bae14.jpg"
+}

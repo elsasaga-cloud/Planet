@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__5th_order__发货图片__11.jpg__f14c01cb",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/5th order/发货图片/11.jpg",
+"name":"11.jpg",
+"ext":".jpg",
+"bytes":515555,
+"sha256":"f14c01cb152c6784043a939e12705acbc152fb1002180b6caeed50533116e4d6",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1706,
+"height":1279,
+"mode":"RGB",
+"thumb_bytes":14022
+},
+"warnings":[],
+"chars":66,
+"text":"Model: STI-4242\nQty. 1 PC DIT\n1\nSN: lm\n202512150001\nWeight: 2.5 KG",
+"extracted_at":"2026-10-22T07:54:14Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__5th_order__发货图片__11.jpg__f14c01cb.jpg"
+}

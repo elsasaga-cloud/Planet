@@ -1,0 +1,215 @@
+{
+"id":"PI__PI__5_印度_Rajesh_gg__STSC20240416005.xls__18b086e4",
+"path":"PI/PI/5 印度 Rajesh gg/STSC20240416005.xls",
+"name":"STSC20240416005.xls",
+"ext":".xls",
+"bytes":174592,
+"sha256":"18b086e49173d98f4533d1ca35b85228fd2c74cfe05c9e6e58beb81c655a0e8c",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Proforma Invoice"
+],
+"rows_total":37
+},
+"warnings":[],
+"chars":2642,
+"text":"--- Sheet: Proforma Invoice ---\nZhengzhou Saga Telecom Co., Ltd.\nAddress: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 15237149683                                            www.sagatelecom.com.cn                              Email: s.sagatelecom@gmail.com\n**************************************************************************************************************************\nProforma  Invoice\nPO No.\t\t\tInvoice No.:\tSTSC20240416005\nBuyer:\tUNITED CONTROL ENGINEERS INDIA PRIVATE LIMITED\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t91 9599195091\t\tIssued By:\tSimon Cheng\nEmail:\taccounts@unitedcontrolengg.com\t\tInvoice Date:\t16th, Apr, 2024\nContact Person:\tRajesh\t\tPayment Term:\tT/T in advance\nShipping Address\tPlot No. 218, Udyog Kendra 1, Ecotech 3 Greater Noida - 201306, Uttar Pradesh, India\nModel\tSpecification\t\t\tQuantity \n(PCS)\tUnit Price\n(RMB)\tAmount \n(RMB)\tRemark\nSTI-050FE\tIndustrial Ethernet Switch\n5*10/100M Ethernet, without Fiber port, non-PoE, unmanaged\nSupport DIP function, DC12V~DC58V(Removable 4 PIN Industrial Terminal Block) , -40℃ to 75℃, Din mounted\t\t\t2\t23\t46\tSample Units\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 130*98*30mm\nGross Weight: 0.7kg\nSTI-080FE\tIndustrial Ethernet Switch\n8*10/100M Ethernet, without Fiber port, non-PoE, unmanaged\nSupport DIP function, DC12V~DC58V(Removable 4 PIN Industrial Terminal Block) , -40℃ to 75℃, Din mounted\t\t\t2\t37\t74\tSample Units\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 98*98*48mm\nGross Weight: 0.7kg\nShipping Cost\t50usd for about 4Kg volume weight to India by FedEx\nair, door-to-door service\t\t\t\t\t50\nPayPal Cost\t5Usd will be charged for EVERY 100usd to our account\t\t\t\t\t8.5\nTOTAL\t\t\t\t4\t\t178.5\nSAY TOTAL IN USD ONE HUNDRED AND SEVENTY EIGHT POINT FIVE ONLY\n1. Payment: Full payment to the below PayPal account before shipment.\nPaypal account: s.sagatelecom@gmail.com\n2. NOTE: Saga Telecom will not pay for any PayPal charge.\nPlease make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice.\n3. Leadtime: 2~4 working days\n4. Country of origin: China\n5. Non-brand packing, without Chinese letters or logo\nPackage Marks: None\nPacking list is available upon request\n6. Warranty: 3 years\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" on our website for more information.\nBuyer: United Control Engineers\t\t\tSeller: Zhengzhou Saga Telecom Co., Ltd.\nSumit Agrawal\t\t\tSimon Cheng\nAuthorized Signature\t\t\tAuthorized Signature",
+"sheets":{
+"Proforma Invoice":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 15237149683                                            www.sagatelecom.com.cn                              Email: s.sagatelecom@gmail.com"
+],
+[
+"**************************************************************************************************************************"
+],
+[
+"Proforma  Invoice"
+],
+[
+"PO No.",
+"",
+"",
+"Invoice No.:",
+"STSC20240416005"
+],
+[
+"Buyer:",
+"UNITED CONTROL ENGINEERS INDIA PRIVATE LIMITED",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"91 9599195091",
+"",
+"Issued By:",
+"Simon Cheng"
+],
+[
+"Email:",
+"accounts@unitedcontrolengg.com",
+"",
+"Invoice Date:",
+"16th, Apr, 2024"
+],
+[
+"Contact Person:",
+"Rajesh",
+"",
+"Payment Term:",
+"T/T in advance"
+],
+[
+"Shipping Address",
+"Plot No. 218, Udyog Kendra 1, Ecotech 3 Greater Noida - 201306, Uttar Pradesh, India"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(PCS)",
+"Unit Price\n(RMB)",
+"Amount \n(RMB)",
+"Remark"
+],
+[
+"STI-050FE",
+"Industrial Ethernet Switch\n5*10/100M Ethernet, without Fiber port, non-PoE, unmanaged\nSupport DIP function, DC12V~DC58V(Removable 4 PIN Industrial Terminal Block) , -40℃ to 75℃, Din mounted",
+"",
+"",
+"2",
+"23",
+"46",
+"Sample Units"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 130*98*30mm\nGross Weight: 0.7kg"
+],
+[
+"STI-080FE",
+"Industrial Ethernet Switch\n8*10/100M Ethernet, without Fiber port, non-PoE, unmanaged\nSupport DIP function, DC12V~DC58V(Removable 4 PIN Industrial Terminal Block) , -40℃ to 75℃, Din mounted",
+"",
+"",
+"2",
+"37",
+"74",
+"Sample Units"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 98*98*48mm\nGross Weight: 0.7kg"
+],
+[
+"Shipping Cost",
+"50usd for about 4Kg volume weight to India by FedEx\nair, door-to-door service",
+"",
+"",
+"",
+"",
+"50"
+],
+[
+"PayPal Cost",
+"5Usd will be charged for EVERY 100usd to our account",
+"",
+"",
+"",
+"",
+"8.5"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"4",
+"",
+"178.5"
+],
+[
+"SAY TOTAL IN USD ONE HUNDRED AND SEVENTY EIGHT POINT FIVE ONLY"
+],
+[
+"1. Payment: Full payment to the below PayPal account before shipment."
+],
+[
+"Paypal account: s.sagatelecom@gmail.com"
+],
+[
+"2. NOTE: Saga Telecom will not pay for any PayPal charge."
+],
+[
+"Please make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice."
+],
+[
+"3. Leadtime: 2~4 working days"
+],
+[
+"4. Country of origin: China"
+],
+[
+"5. Non-brand packing, without Chinese letters or logo"
+],
+[
+"Package Marks: None"
+],
+[
+"Packing list is available upon request"
+],
+[
+"6. Warranty: 3 years"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" on our website for more information."
+],
+[
+"Buyer: United Control Engineers",
+"",
+"",
+"Seller: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Sumit Agrawal",
+"",
+"",
+"Simon Cheng"
+],
+[
+"Authorized Signature",
+"",
+"",
+"Authorized Signature"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:29:32Z"
+}

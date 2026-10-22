@@ -1,0 +1,27 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__1st_order__Vi-Link.vsd__ae72db3c",
+"path":"PI/PI/6 美国 Thu 可发展/1st order/Vi-Link.vsd",
+"name":"Vi-Link.vsd",
+"ext":".vsd",
+"bytes":60928,
+"sha256":"ae72db3c3c6cc0cb0c34295d81f9c187ae4f170370bf26ccf3d061f5241d91a1",
+"source":"PI.zip",
+"method":"soffice→pdf→pdfplumber",
+"status":"ok",
+"meta":{
+"pages":1,
+"creator":"Draw",
+"producer":"LibreOffice 24.2",
+"creationdate":"D:20261022073305Z'",
+"ocr_pages":0,
+"thumb_bytes":2005
+},
+"warnings":[],
+"chars":176,
+"text":"[p1]\nModel: EN2440\nVL Vi-Link\nFor Management\nFiber Optic Communications\nModel: EN2440\nVL Vi-Link\nFor PVC\nFiber Optic Communications\n24 Ports Fiber Ethernet\nSwitch\nModel: EN2440",
+"pages":[
+"Model: EN2440\nVL Vi-Link\nFor Management\nFiber Optic Communications\nModel: EN2440\nVL Vi-Link\nFor PVC\nFiber Optic Communications\n24 Ports Fiber Ethernet\nSwitch\nModel: EN2440"
+],
+"extracted_at":"2026-10-22T07:33:06Z",
+"thumb":"thumbs/PI__PI__6_美国_Thu_可发展__1st_order__Vi-Link.vsd__ae72db3c.jpg"
+}

@@ -1,0 +1,245 @@
+{
+"id":"PI__PI__18_阿联酋_Sanjay_可发展__STAG20251127018.xls__f3eacb36",
+"path":"PI/PI/18 阿联酋 Sanjay 可发展/STAG20251127018.xls",
+"name":"STAG20251127018.xls",
+"ext":".xls",
+"bytes":5011456,
+"sha256":"f3eacb36a7992f0ef89bf4574b841f784d26f7d3c22dd04e41daaa400c063613",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Proforma Invoice"
+],
+"rows_total":45
+},
+"warnings":[],
+"chars":3135,
+"text":"--- Sheet: Proforma Invoice ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 13048800964                                          www.sagatelecom.com.cn                                Email: a.sagatelecom@gmail.com\n*********************************************************************************************************************\nProforma Invoice\nPO No.\t\t\tInvoice No.:\tSTAG20251127018\nBuyer:\tASTEL DIGICOM Electronics LLC\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t971-50-652 0753\t\tIssued By:\tAlan\nEmail:\tnavsim@eim.ae, asteldigicom@eim.ae\t\tInvoice Date:\t27th, Nov, 2025\nContact Person:\tSanjay Singla, General Manager\t\tPayment Term:\tT/T in advance, EXW\nShipping Address\tClient's forwarder in Guangzhou\nModel\tSpecification\t\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSeller\nSTI-110GE\n\nBuyer\n##\t\tIndustrial Ethernet Switch\n\n1*Gigabit Duplex SC/PC Fiber(SM/20KM)\n+1*10/100/1000M RJ45, Non-PoE, Unmanaged\nSupport DIP function, -40℃ to 75℃\nDC12V~DC58V(Removable 4 PIN Industrial Terminal Block), Din Mounted\nWith Mounting Hanger, Without Power Supply\t\t2\t26.5\t53\tNeutral \nDevice\n\nMarvell\nChip\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 130*98*30mm\nNet Weight: 0.55Kg\nGross Weight: 0.7Kg\nSeller\nSTI-140GE\n\nBuyer\n##\t\tIndustrial Ethernet Switch\n\n1*1*Gigabit Duplex SC/PC Fiber(SM/20KM)\n+4*10/100/1000M RJ45, Non-PoE, Unmanaged\nSupport DIP function, -40℃ to 75℃\nDC12V~DC58V(Removable 4 PIN Industrial Terminal Block), Din Mounted\nWith Mounting Hanger, Without Power Supply\t\t2\t30\t60\tNeutral \nDevice\n\nMarvell\nChip\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 130*98*30mm\nNet Weight: 0.55Kg\nGross Weight: 0.7Kg\nHDR-15-24\tOriginal Meanwell Unit\t\t\t4\t10\t40\nFreight Cost\t3USD to Client's forwarder in Guangzhou\t\t\t\t\t5\nPayPal Cost\t5Usd will be charged for EVERY 100Usd to our account\t\t\t\t\t8\nTOTAL\t\t\t\t8\t\t166\nSAY TOTAL IN USD ONE HUNDRED AND SIXTY SIX DOLLARS\nRemark\nPlease do make sure client side could handle import customs clearance\nIf there is any problem with the shipment or clearance\n1, please let us know ASAP\n2, please call DHL/FedEx/UPS official number for information\n1. Payment: Full payment to the below PayPal account before shipment\ns.sagatelecom@gmail.com\n2. NOTE: Saga Telecom will not pay for any PayPal charge\nPlease make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice\n3. Production time: 2~4 working days(NOT including shipping time)\n4. Country of origin: China\n5. Non-brand packing, without Chinese letters or logo\nPackage mark: None\nPacking list is available\n6. Warranty: 3 years, lifetime technical support\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery\nPlease refer to \"warranty policy\" for more information\nBuyer: ASTEL DIGICOM Electronics LLC\t\t\tSeller: Zhengzhou Saga Telecom Co., Ltd.\nSanjay Singla\t\t\tAlan\nAuthorized Signature\t\t\tAuthorized Signature",
+"sheets":{
+"Proforma Invoice":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Tailored Marvell Managed Networking Solutions Provider"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 13048800964                                          www.sagatelecom.com.cn                                Email: a.sagatelecom@gmail.com"
+],
+[
+"*********************************************************************************************************************"
+],
+[
+"Proforma Invoice"
+],
+[
+"PO No.",
+"",
+"",
+"Invoice No.:",
+"STAG20251127018"
+],
+[
+"Buyer:",
+"ASTEL DIGICOM Electronics LLC",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"971-50-652 0753",
+"",
+"Issued By:",
+"Alan"
+],
+[
+"Email:",
+"navsim@eim.ae, asteldigicom@eim.ae",
+"",
+"Invoice Date:",
+"27th, Nov, 2025"
+],
+[
+"Contact Person:",
+"Sanjay Singla, General Manager",
+"",
+"Payment Term:",
+"T/T in advance, EXW"
+],
+[
+"Shipping Address",
+"Client's forwarder in Guangzhou"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"Seller\nSTI-110GE\n\nBuyer\n##",
+"",
+"Industrial Ethernet Switch\n\n1*Gigabit Duplex SC/PC Fiber(SM/20KM)\n+1*10/100/1000M RJ45, Non-PoE, Unmanaged\nSupport DIP function, -40℃ to 75℃\nDC12V~DC58V(Removable 4 PIN Industrial Terminal Block), Din Mounted\nWith Mounting Hanger, Without Power Supply",
+"",
+"2",
+"26.5",
+"53",
+"Neutral \nDevice\n\nMarvell\nChip"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 130*98*30mm\nNet Weight: 0.55Kg\nGross Weight: 0.7Kg"
+],
+[
+"Seller\nSTI-140GE\n\nBuyer\n##",
+"",
+"Industrial Ethernet Switch\n\n1*1*Gigabit Duplex SC/PC Fiber(SM/20KM)\n+4*10/100/1000M RJ45, Non-PoE, Unmanaged\nSupport DIP function, -40℃ to 75℃\nDC12V~DC58V(Removable 4 PIN Industrial Terminal Block), Din Mounted\nWith Mounting Hanger, Without Power Supply",
+"",
+"2",
+"30",
+"60",
+"Neutral \nDevice\n\nMarvell\nChip"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 130*98*30mm\nNet Weight: 0.55Kg\nGross Weight: 0.7Kg"
+],
+[
+"HDR-15-24",
+"Original Meanwell Unit",
+"",
+"",
+"4",
+"10",
+"40"
+],
+[
+"Freight Cost",
+"3USD to Client's forwarder in Guangzhou",
+"",
+"",
+"",
+"",
+"5"
+],
+[
+"PayPal Cost",
+"5Usd will be charged for EVERY 100Usd to our account",
+"",
+"",
+"",
+"",
+"8"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"8",
+"",
+"166"
+],
+[
+"SAY TOTAL IN USD ONE HUNDRED AND SIXTY SIX DOLLARS"
+],
+[
+"Remark"
+],
+[
+"Please do make sure client side could handle import customs clearance"
+],
+[
+"If there is any problem with the shipment or clearance"
+],
+[
+"1, please let us know ASAP"
+],
+[
+"2, please call DHL/FedEx/UPS official number for information"
+],
+[
+"1. Payment: Full payment to the below PayPal account before shipment"
+],
+[
+"s.sagatelecom@gmail.com"
+],
+[
+"2. NOTE: Saga Telecom will not pay for any PayPal charge"
+],
+[
+"Please make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice"
+],
+[
+"3. Production time: 2~4 working days(NOT including shipping time)"
+],
+[
+"4. Country of origin: China"
+],
+[
+"5. Non-brand packing, without Chinese letters or logo"
+],
+[
+"Package mark: None"
+],
+[
+"Packing list is available"
+],
+[
+"6. Warranty: 3 years, lifetime technical support"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery"
+],
+[
+"Please refer to \"warranty policy\" for more information"
+],
+[
+"Buyer: ASTEL DIGICOM Electronics LLC",
+"",
+"",
+"Seller: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Sanjay Singla",
+"",
+"",
+"Alan"
+],
+[
+"Authorized Signature",
+"",
+"",
+"Authorized Signature"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:58:21Z"
+}

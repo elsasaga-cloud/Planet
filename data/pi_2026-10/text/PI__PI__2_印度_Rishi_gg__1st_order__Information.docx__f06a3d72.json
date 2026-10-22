@@ -1,0 +1,112 @@
+{
+"id":"PI__PI__2_印度_Rishi_gg__1st_order__Information.docx__f06a3d72",
+"path":"PI/PI/2 印度 Rishi gg/1st order/Information.docx",
+"name":"Information.docx",
+"ext":".docx",
+"bytes":12540,
+"sha256":"f06a3d729754f021cb3369a3eea0c2098ec1a64b9cc352d888afd5f69df5bf77",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2023-09-27T06:12:00+00:00",
+"modified":"2023-09-27T06:24:34+00:00",
+"paragraphs":17,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"chars":347,
+"text":"Supplier\nLenon\n86 150 5888 9026\nAddress\nAdd.: Room 305, Building 9th, Zhong Chuang Science and Technology Park, No. 818, Jinyuan Road, Yinzhou District, Ningbo City, Zhejiang, China, 315105\nHS Code\n8517799000\nPacking Box\n40*32*13\nWeight\n3.4 kg\nCost\n2.7*80+46 (ship cost)=262USD\n40 pc for 1.25 mm (LC)\n40 pc for 2.5 mm (SC)\n采购成本\n2.7*80+2.5=218.5USD",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Supplier"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Lenon"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"86 150 5888 9026"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Address"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Add.: Room 305, Building 9th, Zhong Chuang Science and Technology Park, No. 818, Jinyuan Road, Yinzhou District, Ningbo City, Zhejiang, China, 315105"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"HS Code"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8517799000"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing Box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"40*32*13"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Weight"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3.4 kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Cost"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2.7*80+46 (ship cost)=262USD"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"40 pc for 1.25 mm (LC)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"40 pc for 2.5 mm (SC)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"采购成本"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2.7*80+2.5=218.5USD"
+}
+],
+"extracted_at":"2026-10-22T07:31:20Z"
+}

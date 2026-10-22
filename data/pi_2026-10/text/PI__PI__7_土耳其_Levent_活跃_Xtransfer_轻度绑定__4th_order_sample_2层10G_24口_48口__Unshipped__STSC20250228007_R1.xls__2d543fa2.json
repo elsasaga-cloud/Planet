@@ -1,0 +1,276 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__4th_order_sample_2层10G_24口_48口__Unshipped__STSC20250228007_R1.xls__2d543fa2",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/4th order sample  2层10G 24口 48口/Unshipped/STSC20250228007_R1.xls",
+"name":"STSC20250228007_R1.xls",
+"ext":".xls",
+"bytes":488448,
+"sha256":"2d543fa289b700ca93c1e0cedc576262474afb5c3aefe2cd765e7997eff5f833",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Proforma Invoice"
+],
+"rows_total":54
+},
+"warnings":[],
+"chars":4036,
+"text":"--- Sheet: Proforma Invoice ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob/WhatsApp/WeChat: 86 15237149683                      www.sagatelecom.com.cn                    Email: s.sagatelecom@gmail.com\n*********************************************************************************************************************\nProforma  Invoice\nTax Information\tID: 069 052 0220\nOffice: Yeni̇Mahalle Vd\t\tInvoice No.:\tSTSC20250228007\nBuyer:\tANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t90 (312) 241 77 47\t\tIssued By:\tSimon Cheng\nEmail:\tLevent.Kilic@AngoraNetworks.com\t\tInvoice Date:\t28th, Feb, 2025\nContact Person:\tLevent Kilic\t\tPayment Term:\tT/T in advance, DAP\nShipping Address\tÇamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle  06200 Ankara Turkey\nModel\tPhoto\tSpecification\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSeller: STC-424DGGPM\n\nBuyer: ANW-2224-PG\t\tCommercial PoE Managed Switch\n\n4*1G/2.5G SFP+24*10/100/1000M RJ45 1*Console Port, Marvell Based\nL2+ managed, PoE af/at, 280W budget\nSupport PoE management, PoE watchdog\nAC100V~240V input, Rack compatible\nWith mounting hanger, With Console Cable\nWith Power Cable, Without Optical Module\t\t4\t150\t600\tRegular \nPVC Mask\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 440*180*44mm\nGross Weight: 4Kg\nSeller: STC-448DGGPM\n\nBuyer: ANW-2248-PG\t\tCommercial PoE Managed Switch\n\n4*1G/2.5G SFP+48*10/100/1000M RJ45 1*Console Port, Marvell Based\nL2+ managed, PoE af/at, 440W budget\nSupport PoE management, PoE watchdog\nAC100V~240V input, Rack compatible\nWith mounting hanger, With Console Cable\nWith Power Cable, Without Optical Module\t\t2\t280\t560\tRegular \nPVC Mask\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 440*245*44mm\nGross Weight: 5Kg\nAdditional Requirements\t1. Web GUI\nShow client logo&model name&serial number&MAC address\n2. Label\nShow client logo&model name&serial number&MAC address\nFreight Cost\t330usd for about 30Kg volume weight to Turkey by UPS\nIncluding Insurance\nCompensation=cargo damage amount-DHL/FedEx/UPS standard compensation amount(USD100)-absolute deductible(USD200 or 5% of cargo damage, whichever is greater)\n\nAir, door-to-door service\nShipment time: 7~10 calendar days\t\t\t\t\t330\nBank Cost\tStandard Charge in EACH Order\t\t\t\t\t25\nTOTAL\t\t\t\t6\t\t1515\nSAY TOTAL IN USD ONE THOUSAND FIVE HUNDRED AND FIFTEEN DOLLARS ONLY\nRemark\nPlease do make sure client side could handle import customs clearance.\nIf there is any problem with the shipment or clearance\n1, please let us know ASAP\n2, please call DHL/FedEx/UPS official number for information\n1. Payment: Full payment to the below bank account before shipment.\nBank Information\nSWIFT/BIC code\tCHASHKHH (CHASHKHHXXX * if 11 characters are required)\nAccount Number\t63003662406\nAccount Name\tZhengzhou Saga Telecom Co., Ltd.\nBank Name\tJPMorgan Chase Bank N.A., Hong Kong Branch\nBank Address\t18/F, 20/F, 22-29/F, CHATER HOUSE, 8 CONNAUGHT ROAD CENTRAL, HONG KONG\nCountry/Region\tHong Kong\nType of Account\tBusiness Account\nBank Code\t007\nBranch Code\t863\n2. NOTE: Saga Telecom will not pay for any bank charge.\nPlease make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice.\n3. Production time: 3~5 working days(this is NOT including shipping time)\n4. Country of origin: China\n5. Non-brand packing, without Chinese letters or logo\nPackage Marks: None\nPacking list is available upon request\n6. Warranty: 1 year, lifetime technical support\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" for more information.\nBuyer: ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.\t\t\tSeller: Zhengzhou Saga Telecom Co., Ltd.\nLevent Kilic\t\t\tSimon Cheng\nAuthorized Signature\t\t\tAuthorized Signature",
+"sheets":{
+"Proforma Invoice":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Tailored Marvell Managed Networking Solutions Provider"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob/WhatsApp/WeChat: 86 15237149683                      www.sagatelecom.com.cn                    Email: s.sagatelecom@gmail.com"
+],
+[
+"*********************************************************************************************************************"
+],
+[
+"Proforma  Invoice"
+],
+[
+"Tax Information",
+"ID: 069 052 0220\nOffice: Yeni̇Mahalle Vd",
+"",
+"Invoice No.:",
+"STSC20250228007"
+],
+[
+"Buyer:",
+"ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"90 (312) 241 77 47",
+"",
+"Issued By:",
+"Simon Cheng"
+],
+[
+"Email:",
+"Levent.Kilic@AngoraNetworks.com",
+"",
+"Invoice Date:",
+"28th, Feb, 2025"
+],
+[
+"Contact Person:",
+"Levent Kilic",
+"",
+"Payment Term:",
+"T/T in advance, DAP"
+],
+[
+"Shipping Address",
+"Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle  06200 Ankara Turkey"
+],
+[
+"Model",
+"Photo",
+"Specification",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"Seller: STC-424DGGPM\n\nBuyer: ANW-2224-PG",
+"",
+"Commercial PoE Managed Switch\n\n4*1G/2.5G SFP+24*10/100/1000M RJ45 1*Console Port, Marvell Based\nL2+ managed, PoE af/at, 280W budget\nSupport PoE management, PoE watchdog\nAC100V~240V input, Rack compatible\nWith mounting hanger, With Console Cable\nWith Power Cable, Without Optical Module",
+"",
+"4",
+"150",
+"600",
+"Regular \nPVC Mask"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 440*180*44mm\nGross Weight: 4Kg"
+],
+[
+"Seller: STC-448DGGPM\n\nBuyer: ANW-2248-PG",
+"",
+"Commercial PoE Managed Switch\n\n4*1G/2.5G SFP+48*10/100/1000M RJ45 1*Console Port, Marvell Based\nL2+ managed, PoE af/at, 440W budget\nSupport PoE management, PoE watchdog\nAC100V~240V input, Rack compatible\nWith mounting hanger, With Console Cable\nWith Power Cable, Without Optical Module",
+"",
+"2",
+"280",
+"560",
+"Regular \nPVC Mask"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 440*245*44mm\nGross Weight: 5Kg"
+],
+[
+"Additional Requirements",
+"1. Web GUI\nShow client logo&model name&serial number&MAC address\n2. Label\nShow client logo&model name&serial number&MAC address"
+],
+[
+"Freight Cost",
+"330usd for about 30Kg volume weight to Turkey by UPS\nIncluding Insurance\nCompensation=cargo damage amount-DHL/FedEx/UPS standard compensation amount(USD100)-absolute deductible(USD200 or 5% of cargo damage, whichever is greater)\n\nAir, door-to-door service\nShipment time: 7~10 calendar days",
+"",
+"",
+"",
+"",
+"330"
+],
+[
+"Bank Cost",
+"Standard Charge in EACH Order",
+"",
+"",
+"",
+"",
+"25"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"6",
+"",
+"1515"
+],
+[
+"SAY TOTAL IN USD ONE THOUSAND FIVE HUNDRED AND FIFTEEN DOLLARS ONLY"
+],
+[
+"Remark"
+],
+[
+"Please do make sure client side could handle import customs clearance."
+],
+[
+"If there is any problem with the shipment or clearance"
+],
+[
+"1, please let us know ASAP"
+],
+[
+"2, please call DHL/FedEx/UPS official number for information"
+],
+[
+"1. Payment: Full payment to the below bank account before shipment."
+],
+[
+"Bank Information"
+],
+[
+"SWIFT/BIC code",
+"CHASHKHH (CHASHKHHXXX * if 11 characters are required)"
+],
+[
+"Account Number",
+"63003662406"
+],
+[
+"Account Name",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Bank Name",
+"JPMorgan Chase Bank N.A., Hong Kong Branch"
+],
+[
+"Bank Address",
+"18/F, 20/F, 22-29/F, CHATER HOUSE, 8 CONNAUGHT ROAD CENTRAL, HONG KONG"
+],
+[
+"Country/Region",
+"Hong Kong"
+],
+[
+"Type of Account",
+"Business Account"
+],
+[
+"Bank Code",
+"007"
+],
+[
+"Branch Code",
+"863"
+],
+[
+"2. NOTE: Saga Telecom will not pay for any bank charge."
+],
+[
+"Please make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice."
+],
+[
+"3. Production time: 3~5 working days(this is NOT including shipping time)"
+],
+[
+"4. Country of origin: China"
+],
+[
+"5. Non-brand packing, without Chinese letters or logo"
+],
+[
+"Package Marks: None"
+],
+[
+"Packing list is available upon request"
+],
+[
+"6. Warranty: 1 year, lifetime technical support"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" for more information."
+],
+[
+"Buyer: ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+"",
+"",
+"Seller: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Levent Kilic",
+"",
+"",
+"Simon Cheng"
+],
+[
+"Authorized Signature",
+"",
+"",
+"Authorized Signature"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:44:34Z"
+}

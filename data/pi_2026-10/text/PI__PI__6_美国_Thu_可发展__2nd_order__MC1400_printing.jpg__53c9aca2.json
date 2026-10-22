@@ -1,0 +1,24 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__2nd_order__MC1400_printing.jpg__53c9aca2",
+"path":"PI/PI/6 美国 Thu 可发展/2nd order/MC1400 printing.jpg",
+"name":"MC1400 printing.jpg",
+"ext":".jpg",
+"bytes":3331719,
+"sha256":"53c9aca24addcfb5443c3f1bd262e4c6288c989c061858704775eb7e066194e4",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":3653,
+"height":3072,
+"mode":"RGB",
+"software":"FOA-AL00 4.0.0.113(C00E112R4P2)",
+"thumb_bytes":8966
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:32:47Z",
+"thumb":"thumbs/PI__PI__6_美国_Thu_可发展__2nd_order__MC1400_printing.jpg__53c9aca2.jpg"
+}

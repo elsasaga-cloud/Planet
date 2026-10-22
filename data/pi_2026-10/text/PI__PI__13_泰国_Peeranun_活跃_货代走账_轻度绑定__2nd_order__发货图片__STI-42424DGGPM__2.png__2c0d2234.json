@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__STI-42424DGGPM__2.png__2c0d2234",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/2nd order/发货图片/STI-42424DGGPM/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":107294,
+"sha256":"2c0d22349202c1878be93bd25e228e26acb451ae2b9f5f768e82979f41fb3ae9",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1920,
+"height":1080,
+"mode":"RGBA",
+"thumb_bytes":3953
+},
+"warnings":[],
+"chars":164,
+"text":"G | E togin- switch x 十\n< C 0 & 192.168.56.166/#/login\nAA veerunk\nSTI-42424DGGPM\nManaged Ethernet Switch\n[Radmin\n[a\nLogin Clear\n13:55:10\n2025/2/\nIx 四\nLogin - Switch",
+"extracted_at":"2026-10-22T07:53:01Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__STI-42424DGGPM__2.png__2c0d2234.jpg"
+}

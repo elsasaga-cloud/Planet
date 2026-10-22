@@ -1,0 +1,24 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__STI-21616GP__3.jpg__0495eca7",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/2nd order/发货图片/STI-21616GP/3.jpg",
+"name":"3.jpg",
+"ext":".jpg",
+"bytes":4326329,
+"sha256":"0495eca7d7c8ab7c92e6d18a3373dd4c02ed0d4fe34dd4c23f18b3e30394e184",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":4624,
+"height":3468,
+"mode":"RGB",
+"software":"MediaTek Camera Application\u0000\u0000\u0000\u0000",
+"thumb_bytes":8665
+},
+"warnings":[],
+"chars":56,
+"text":"Relay “PWR2 “PWR1\n7 v\nNon-PoE:DC 12-58V; PoE:DC 44-57V\n©",
+"extracted_at":"2026-10-22T07:52:22Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__STI-21616GP__3.jpg__0495eca7.jpg"
+}

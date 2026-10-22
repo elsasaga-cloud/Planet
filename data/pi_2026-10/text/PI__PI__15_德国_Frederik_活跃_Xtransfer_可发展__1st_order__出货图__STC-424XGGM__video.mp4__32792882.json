@@ -1,0 +1,24 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__1st_order__出货图__STC-424XGGM__video.mp4__32792882",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/1st order/出货图/STC-424XGGM/video.mp4",
+"name":"video.mp4",
+"ext":".mp4",
+"bytes":5677240,
+"sha256":"3279288219a52c92090f969b7ef06bf0090fa05e96397777efa305c339a2bdaa",
+"source":"PI.zip",
+"method":"ffprobe+ffmpeg",
+"status":"meta",
+"meta":{
+"duration_s":30.8,
+"width":1280,
+"height":720,
+"vcodec":"h264",
+"acodec":"aac",
+"thumb_bytes":5788
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:34:26Z",
+"thumb":"thumbs/PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__1st_order__出货图__STC-424XGGM__video.mp4__32792882.jpg"
+}

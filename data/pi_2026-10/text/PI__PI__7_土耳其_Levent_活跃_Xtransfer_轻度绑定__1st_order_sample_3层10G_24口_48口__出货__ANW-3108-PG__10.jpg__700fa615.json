@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__1st_order_sample_3层10G_24口_48口__出货__ANW-3108-PG__10.jpg__700fa615",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/1st order sample  3层10G 24口 48口/出货/ANW-3108-PG/10.jpg",
+"name":"10.jpg",
+"ext":".jpg",
+"bytes":211863,
+"sha256":"700fa6158d1b9a62052a2fee00578febd871992128214bd96a13906234c19787",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1706,
+"height":1279,
+"mode":"RGB",
+"thumb_bytes":9559
+},
+"warnings":[],
+"chars":247,
+"text":"Commercial Switch\nModel: ANW-3108-PG\nPorts: 8*10/100/1000M RJ45 PoE + 2*1G/2.5G SFP\nPower supply: 120W.\nChipset: Marvell Based\nC€ FE\nTNL Ree\nSN: 20240509002 =\nMade in China\nMAC: FC-CD-2F-D0-3C-9E User name: admin\nIP: 192.168.56.166 Password: admin",
+"extracted_at":"2026-10-22T07:38:37Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__1st_order_sample_3层10G_24口_48口__出货__ANW-3108-PG__10.jpg__700fa615.jpg"
+}

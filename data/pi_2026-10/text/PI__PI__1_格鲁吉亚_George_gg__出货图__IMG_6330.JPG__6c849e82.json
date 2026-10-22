@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__1_格鲁吉亚_George_gg__出货图__IMG_6330.JPG__6c849e82",
+"path":"PI/PI/1 格鲁吉亚 George gg/出货图/IMG_6330.JPG",
+"name":"IMG_6330.JPG",
+"ext":".jpg",
+"bytes":1873749,
+"sha256":"6c849e82c8fbe37f7e90d7edfba49b0dc1555589cf2aa9ca31e42d1a30505b58",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":3024,
+"height":4032,
+"mode":"RGB",
+"thumb_bytes":9563
+},
+"warnings":[],
+"chars":50,
+"text":"Al PoE Switch\n-一 H10d3od WOOL/OL\nSW-1? 一 2 一 3 一 4",
+"extracted_at":"2026-10-22T07:27:41Z",
+"thumb":"thumbs/PI__PI__1_格鲁吉亚_George_gg__出货图__IMG_6330.JPG__6c849e82.jpg"
+}

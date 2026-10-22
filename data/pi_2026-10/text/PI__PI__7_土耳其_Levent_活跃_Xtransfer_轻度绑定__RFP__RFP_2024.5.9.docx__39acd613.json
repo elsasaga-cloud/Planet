@@ -1,0 +1,162 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__RFP__RFP_2024.5.9.docx__39acd613",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/RFP/RFP_2024.5.9.docx",
+"name":"RFP_2024.5.9.docx",
+"ext":".docx",
+"bytes":33263,
+"sha256":"39acd613c71c695031fb5facc1133496d9296f3d2e06fb191c03d39cb15d731c",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2024-04-22T07:22:00+00:00",
+"modified":"2024-05-09T09:27:17+00:00",
+"paragraphs":27,
+"tables":0,
+"embedded_images":3
+},
+"warnings":[],
+"chars":687,
+"text":"1. Dual power supply\n2. Hot swappable power units\n3. Multicast PIM protocol\n4. VRF Lite support\n5. 4096 VLAN support\n6. Extended temperatures (-40 +70)on non-industrial models\n7. BFD support\n8. NAT support\n9. Netflow protocol support\n10. Y1731 protocol support\n11. TWAMP protocol support\n12. Route Tracking\n客户又问了这些\n1 2 OK\n3 我在管理手册中找到了这个，请再确认一下是否支持 不支持 PIM protocol\n4 未找到相关记录 不支持\n5 OK\n6 用商业级外壳装工业级的板子是否OK?  不支持\n7 未找到相关记录  不支持\n8 前一阵确认了，不支持\n9 应该是指Sflow这个，请再确认一下是否支持\n如果是指Sflow这个功能，管理型产品是支持的\n10 未找到相关记录  不支持\n11 未找到相关记录   不支持\n12 不确定，能找到一些相关的信息，请确认一下是否支持  支持\n还有一些其他需求客户并未列出，客户发了再说\n问的这些和昨天问的4台无关\n[页眉页脚]\ns.sagatelecom@gmail.com\nSaga Telecom\nwww.sagatelecom.com.cn\nConnecting, Converting, Creating",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"1. Dual power supply"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2. Hot swappable power units"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3. Multicast PIM protocol"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4. VRF Lite support"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"5. 4096 VLAN support"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"6. Extended temperatures (-40 +70)on non-industrial models"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"7. BFD support"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8. NAT support"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"9. Netflow protocol support"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"10. Y1731 protocol support"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"11. TWAMP protocol support"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"12. Route Tracking"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"客户又问了这些"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1 2 OK"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3 我在管理手册中找到了这个，请再确认一下是否支持 不支持 PIM protocol"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4 未找到相关记录 不支持"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"5 OK"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"6 用商业级外壳装工业级的板子是否OK?  不支持"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"7 未找到相关记录  不支持"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8 前一阵确认了，不支持"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"9 应该是指Sflow这个，请再确认一下是否支持"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"如果是指Sflow这个功能，管理型产品是支持的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"10 未找到相关记录  不支持"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"11 未找到相关记录   不支持"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"12 不确定，能找到一些相关的信息，请确认一下是否支持  支持"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"还有一些其他需求客户并未列出，客户发了再说"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"问的这些和昨天问的4台无关"
+}
+],
+"extracted_at":"2026-10-22T07:41:13Z"
+}

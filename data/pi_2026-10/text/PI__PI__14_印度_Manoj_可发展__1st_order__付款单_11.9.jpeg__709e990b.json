@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__14_印度_Manoj_可发展__1st_order__付款单_11.9.jpeg__709e990b",
+"path":"PI/PI/14 印度 Manoj 可发展/1st order/付款单 11.9.jpeg",
+"name":"付款单 11.9.jpeg",
+"ext":".jpeg",
+"bytes":72868,
+"sha256":"709e990b1495f9de65ed89248a2fa43800af611a4b6ca0b552f80b58de1933fa",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":562,
+"height":754,
+"mode":"RGB",
+"thumb_bytes":11110
+},
+"warnings":[],
+"chars":424,
+"text":"戶\nSUNDAR TECHNO SOLUTIONS has\nsent you $92.40 USD\nNote from SUNDAR TECHNO SOLUTIONS:\n{purchase of Industrial ethernet switch py\nTransaction Details\nTransaction ID Transaction date\n64€58207206397213 November 9, 2024\n‘Amount received $92.40 USD\nFee $4.37 USD\nTotal $88.03 USD\nShipping Address\nSUNDAR TECHNO SOLUTIONS #24/106,88 MAIN ROAD\n11TH CROSS, ANANTHNAGAR PHASE 1, ELECTRONIC CITY PHASE 2\nBANGALORE\nKamataka\n560100\nIndia",
+"extracted_at":"2026-10-22T07:36:26Z",
+"thumb":"thumbs/PI__PI__14_印度_Manoj_可发展__1st_order__付款单_11.9.jpeg__709e990b.jpg"
+}

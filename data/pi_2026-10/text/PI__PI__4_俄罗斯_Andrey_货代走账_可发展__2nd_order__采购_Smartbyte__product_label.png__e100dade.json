@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__4_俄罗斯_Andrey_货代走账_可发展__2nd_order__采购_Smartbyte__product_label.png__e100dade",
+"path":"PI/PI/4 俄罗斯 Andrey 货代走账 可发展/2nd order/采购_Smartbyte/product label.png",
+"name":"product label.png",
+"ext":".png",
+"bytes":49817,
+"sha256":"e100dadeafdc4555dcd550a306b3bd646494deb731acd4bd0697ab459c2b6310",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":792,
+"height":523,
+"mode":"RGBA",
+"thumb_bytes":14050
+},
+"warnings":[],
+"chars":234,
+"text":"Jndustrial Switch\nModel: PRT-SG-1208PMI\nPorts: 8*10/100/1000M RJ45 PoE + 2*1G/2.5G SFP\nPower input: DC 44-57V\nHAUNT CE FC\nSN: 202508040001\nIP Address: 192.168.56.166 MAC: FC-CD-2F-D0-4F-2D 的 ae\nCONANT,\nUser name: admin Password: admin",
+"extracted_at":"2026-10-22T07:46:17Z",
+"thumb":"thumbs/PI__PI__4_俄罗斯_Andrey_货代走账_可发展__2nd_order__采购_Smartbyte__product_label.png__e100dade.jpg"
+}

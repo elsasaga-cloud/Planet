@@ -1,0 +1,25 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__1st_order__WE02501001062_德国_入仓标签.PDF__60e7b7db",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/1st order/WE02501001062 德国 入仓标签.PDF",
+"name":"WE02501001062 德国 入仓标签.PDF",
+"ext":".pdf",
+"bytes":29478,
+"sha256":"60e7b7dbd1594d5f6416f65e192bdfba175accdcf5ccadb15db9e0ef5a74513c",
+"source":"PI.zip",
+"method":"pdfplumber",
+"status":"ok",
+"meta":{
+"pages":1,
+"creator":"PDFsharp 1.50.5147 (www.pdfsharp.com)",
+"producer":"PDFsharp 1.50.5147 (www.pdfsharp.com)",
+"creationdate":"D:20250102091141+08'00'",
+"ocr_pages":0
+},
+"warnings":[],
+"chars":126,
+"text":"[p1]\nBSA01693\nEUA35 深深圳圳UPS红红单单促促销销\n国国际际快快递递\n价价5\n→\n深深圳圳市市 DE,德德国国\n货物类型 普普货货\n服 务\n收货地址：深圳市宝安区凤塘大道141号大洋田工业\n区第8-9栋（导航百运网分拔中心）\n1-1",
+"pages":[
+"BSA01693\nEUA35 深深圳圳UPS红红单单促促销销\n国国际际快快递递\n价价5\n→\n深深圳圳市市 DE,德德国国\n货物类型 普普货货\n服 务\n收货地址：深圳市宝安区凤塘大道141号大洋田工业\n区第8-9栋（导航百运网分拔中心）\n1-1"
+],
+"extracted_at":"2026-10-22T07:34:09Z"
+}

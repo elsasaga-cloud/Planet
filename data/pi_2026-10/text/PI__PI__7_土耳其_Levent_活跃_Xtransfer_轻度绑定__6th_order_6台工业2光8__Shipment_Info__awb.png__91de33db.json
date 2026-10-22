@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__6th_order_6台工业2光8__Shipment_Info__awb.png__91de33db",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/6th order 6台工业2光8/Shipment Info/awb.png",
+"name":"awb.png",
+"ext":".png",
+"bytes":53463,
+"sha256":"91de33db59048c5c86c24d3f593fb5b2f99e419190cafa0354fc1303a390731e",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":541,
+"height":578,
+"mode":"RGBA",
+"thumb_bytes":27605
+},
+"warnings":[],
+"chars":300,
+"text":"SHIP\nme ‘SAN. A.S./LEVENT KILIC\n903422417747\nANGORA NETWORKS BILISIM TEKNOLOJI\nANKARA ID:STSC20250619007\nan SOKAK NO 20 Z-1 YENIMAHALLE\nAH.ANADOLU BULVARI TIMKO\n06200 YENIMAHALLE ANKARA\nTURKIYE\n“seer! TUR 210 9-88\n人， 4 ©) a. 多\nORS \"ifs\nSane Toe\nBe Li\nUPS SAVER\nTRACKING #: 1Z ORO 139 04 0427 3719 1 P",
+"extracted_at":"2026-10-22T07:37:51Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__6th_order_6台工业2光8__Shipment_Info__awb.png__91de33db.jpg"
+}

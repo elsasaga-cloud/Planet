@@ -1,0 +1,174 @@
+{
+"id":"PI__PI__3_赞比亚_Pythias_gg__发货__普通快递发票.xlsx__490d31c6",
+"path":"PI/PI/3  赞比亚 Pythias gg/发货/普通快递发票.xlsx",
+"name":"普通快递发票.xlsx",
+"ext":".xlsx",
+"bytes":11646,
+"sha256":"490d31c6f8b1bb63e5532995bcc178c4ac25adaa152400404199734b436a3a1e",
+"source":"PI.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"CI"
+],
+"embedded_images":0,
+"rows_total":16
+},
+"warnings":[],
+"chars":1061,
+"text":"--- Sheet: CI ---\nCommercial Invoice\nInternatioal Air Waybill No\t\t\t\t\t\tDate of Exportation\n\t\t\t\t\t\t2024.03.04\nShipper/Exporter\t\t\t\t\t\tConsignee/Importer\nCompany Name:\tZhengzhou Saga Telecom Co., Ltd.\t\t\t\t\tCompany Name:\tObmac Systems\nATTN:\tSimon Cheng\t\t\t\t\tATTN:\tPythias Kachepa\nTel Number:\t86 15237149683\t\t\t\t\tTel Number:\t260 96 6828217\nFAX:\t\t\t\t\t\tOrder ID:\tSTSC20240117003\n(Shipper )\nAddress:\tRoom 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\t\t\t\t\t(Delivery to)\nAddress:\tObmac Systems, Plot No. 3062/1 Corner Makishi/Great East Road, Lusaka, Zambia\nCountry of Origin\t\t\t\t\tCoutry of Export\nChina\t\t\t\t\tChina\nDescription of Goods\t\tHS CODE\tmaterial\tapplication\tCarton \nQ'ty\tTotal Q'ty\n(pcs)\tUnit Value \n(US$)\tTotal Value \n(US$)\nIndustrial Switch\t\t8517622990\tMetal\tData exchange and optical telecommunication\t3\t50\t36\t1800\nCommercial Switch\t\t8517622990\tMetal\tData exchange and optical telecommunication\t3\t15\t295\t4425\nSFP Module\t\t8517795000\tMetal\tData exchange and optical telecommunication\t1\t200\t7.5\t1500\nTotal\t\t7725",
+"sheets":{
+"CI":{
+"state":"visible",
+"rows":[
+[
+"Commercial Invoice"
+],
+[
+"Internatioal Air Waybill No",
+"",
+"",
+"",
+"",
+"",
+"Date of Exportation"
+],
+[
+"",
+"",
+"",
+"",
+"",
+"",
+"2024.03.04"
+],
+[
+"Shipper/Exporter",
+"",
+"",
+"",
+"",
+"",
+"Consignee/Importer"
+],
+[
+"Company Name:",
+"Zhengzhou Saga Telecom Co., Ltd.",
+"",
+"",
+"",
+"",
+"Company Name:",
+"Obmac Systems"
+],
+[
+"ATTN:",
+"Simon Cheng",
+"",
+"",
+"",
+"",
+"ATTN:",
+"Pythias Kachepa"
+],
+[
+"Tel Number:",
+"86 15237149683",
+"",
+"",
+"",
+"",
+"Tel Number:",
+"260 96 6828217"
+],
+[
+"FAX:",
+"",
+"",
+"",
+"",
+"",
+"Order ID:",
+"STSC20240117003"
+],
+[
+"(Shipper )\nAddress:",
+"Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009",
+"",
+"",
+"",
+"",
+"(Delivery to)\nAddress:",
+"Obmac Systems, Plot No. 3062/1 Corner Makishi/Great East Road, Lusaka, Zambia"
+],
+[
+"Country of Origin",
+"",
+"",
+"",
+"",
+"Coutry of Export"
+],
+[
+"China",
+"",
+"",
+"",
+"",
+"China"
+],
+[
+"Description of Goods",
+"",
+"HS CODE",
+"material",
+"application",
+"Carton \nQ'ty",
+"Total Q'ty\n(pcs)",
+"Unit Value \n(US$)",
+"Total Value \n(US$)"
+],
+[
+"Industrial Switch",
+"",
+"8517622990",
+"Metal",
+"Data exchange and optical telecommunication",
+"3",
+"50",
+"36",
+"1800"
+],
+[
+"Commercial Switch",
+"",
+"8517622990",
+"Metal",
+"Data exchange and optical telecommunication",
+"3",
+"15",
+"295",
+"4425"
+],
+[
+"SFP Module",
+"",
+"8517795000",
+"Metal",
+"Data exchange and optical telecommunication",
+"1",
+"200",
+"7.5",
+"1500"
+],
+[
+"Total",
+"",
+"7725"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:48:09Z"
+}

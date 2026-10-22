@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__2nd_order_sample__2.png__3a122164",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/2nd order sample/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":102281,
+"sha256":"3a122164c6a966f6583257c5e4ea6ccac7b6f82b444c23f9e5d6d8bb44b65490",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1920,
+"height":1080,
+"mode":"RGBA",
+"thumb_bytes":3694
+},
+"warnings":[],
+"chars":134,
+"text":"回忆 Login - switch x +\n全 Cc O & 192.168.1.30/#/login?redirect=/monitor/dashboard\nManaged Ethernet Switch\nLogin Clear\n9:32.47\n2024/12/28",
+"extracted_at":"2026-10-22T07:56:24Z",
+"thumb":"thumbs/PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__2nd_order_sample__2.png__3a122164.jpg"
+}

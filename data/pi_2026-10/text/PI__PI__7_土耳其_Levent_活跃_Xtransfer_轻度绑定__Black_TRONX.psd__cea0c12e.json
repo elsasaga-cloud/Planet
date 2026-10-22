@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__Black_TRONX.psd__cea0c12e",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/Black TRONX.psd",
+"name":"Black TRONX.psd",
+"ext":".psd",
+"bytes":89340,
+"sha256":"cea0c12e8d51edec415a92d850e42d474d27648f65e6404e94eb95b031b2d0b2",
+"source":"PI.zip",
+"method":"pillow(psd composite)",
+"status":"meta",
+"meta":{
+"format":"PSD",
+"width":480,
+"height":480,
+"mode":"RGBA",
+"thumb_bytes":2020
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:36:48Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__Black_TRONX.psd__cea0c12e.jpg"
+}

@@ -1,0 +1,97 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__4th_order__采购_Smartbyte__发货信息_Smartbyte.docx__bea5b889",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/4th order/采购_Smartbyte/发货信息_Smartbyte.docx",
+"name":"发货信息_Smartbyte.docx",
+"ext":".docx",
+"bytes":15294,
+"sha256":"bea5b889e131139771cdfde8e65a8d44e8ec0a8c613b848abdbcf4496676a72f",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2025-02-14T01:03:00+00:00",
+"modified":"2025-06-19T06:22:59+00:00",
+"paragraphs":14,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"chars":210,
+"text":"Tony Uhutex\n13119574676\n广州市越秀区瑶台西街89号（美泰城）A2038档\nwww.uhutex.com\n品名: 商业交换机\nCommercial Ethernet Switch\n数量: 2台/2Pieces\n重量：8Kg\n海关编码：8517622990\n品牌: 无\n没有内置电池，普货，不带电不带磁不含粉末等\n客户信息\nVALENTINE, (LAGOS-NIGERIA),\n0803388325",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Tony Uhutex"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"13119574676"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"广州市越秀区瑶台西街89号（美泰城）A2038档"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"www.uhutex.com"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"品名: 商业交换机"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Commercial Ethernet Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"数量: 2台/2Pieces"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"重量：8Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"海关编码：8517622990"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"品牌: 无"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"没有内置电池，普货，不带电不带磁不含粉末等"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"客户信息"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"VALENTINE, (LAGOS-NIGERIA),"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"0803388325"
+}
+],
+"extracted_at":"2026-10-22T08:00:55Z"
+}

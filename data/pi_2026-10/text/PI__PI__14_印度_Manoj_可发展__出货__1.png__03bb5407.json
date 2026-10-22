@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__14_印度_Manoj_可发展__出货__1.png__03bb5407",
+"path":"PI/PI/14 印度 Manoj 可发展/出货/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":22691,
+"sha256":"03bb540711ed7cedfedcef595cb963ee2b172761c0cd86599c3897ee6c8aba8d",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":928,
+"height":471,
+"mode":"RGB",
+"thumb_bytes":9836
+},
+"warnings":[],
+"chars":136,
+"text":"Unmanaged Industrial Ethernet Switch\nModel: STS-16UMES\nPorts: 16*10/100/1000M RJ45\nPower input: DC 12-58V\nLS ee a\nSN: STS-16UM-202503234",
+"extracted_at":"2026-10-22T07:35:29Z",
+"thumb":"thumbs/PI__PI__14_印度_Manoj_可发展__出货__1.png__03bb5407.jpg"
+}

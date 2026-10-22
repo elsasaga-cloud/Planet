@@ -1,0 +1,135 @@
+{
+"id":"PI__PI__14_印度_Manoj_可发展__出货__PL_STSC20260212014.xls__f220c9b4",
+"path":"PI/PI/14 印度 Manoj 可发展/出货/PL_STSC20260212014.xls",
+"name":"PL_STSC20260212014.xls",
+"ext":".xls",
+"bytes":147456,
+"sha256":"f220c9b41b9ab3547e152c9e77bfb60ef1e7e0f1a1f4e5866fc7e220b7ae5a58",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Packing List"
+],
+"rows_total":21
+},
+"warnings":[],
+"chars":843,
+"text":"--- Sheet: Packing List ---\nSaga Telecom, OEM Factory\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together\nMob: 86 15237149683\nWeb: www.sagatelecom.com.cn\nEmail: s.sagatelecom@gmail.com\nPacking List\nDate\t2026.03.03\nShip To\tSundar Techno Solutions\nShipping Add.\t#24/106, 8th B main road, 11th cross, Ananthnagar phase 1, Electronic City phase 2, Bangalore 560100, India\nP/O No.\nP/I No.\tSTSC20260212014\nP/L No.\tPL20260303001\nC/No.:\tModel\tDESCRIPTION\tQTY/CTN\tQTY/PCS\tCTNS\tN.W/Kg\tG.W/Kg\tLENGTH/CM\tWIDTH/CM\tHEIGHT/CM\tV.W/KG\tMEAS/CM³\n1\tSTS-16UMES\tIndustrial Ethernet Switch\t3\t3\t1\t3.6\t4.2\t37\t31.5\t20.5\t4.77855\t0.023893\nTOTAL\t\t\t\t3\t1\t3.6\t4.2\t\t\t\t4.77855\t0.023893\nBillable Weight\tWhichever is greater between G.W/Kg and V.W/KG\nCarton\tONE(1)\nQUANTITY\tTHREE PCS\nZhengzhou Saga Telecom Co., Ltd.\nIssued by\tSimon",
+"sheets":{
+"Packing List":{
+"rows":[
+[
+"Saga Telecom, OEM Factory"
+],
+[
+"Tailored Managed Networking Solutions Provider"
+],
+[
+"Built to Last, Continuous Supply, Evolving Together"
+],
+[
+"Mob: 86 15237149683"
+],
+[
+"Web: www.sagatelecom.com.cn"
+],
+[
+"Email: s.sagatelecom@gmail.com"
+],
+[
+"Packing List"
+],
+[
+"Date",
+"2026.03.03"
+],
+[
+"Ship To",
+"Sundar Techno Solutions"
+],
+[
+"Shipping Add.",
+"#24/106, 8th B main road, 11th cross, Ananthnagar phase 1, Electronic City phase 2, Bangalore 560100, India"
+],
+[
+"P/O No."
+],
+[
+"P/I No.",
+"STSC20260212014"
+],
+[
+"P/L No.",
+"PL20260303001"
+],
+[
+"C/No.:",
+"Model",
+"DESCRIPTION",
+"QTY/CTN",
+"QTY/PCS",
+"CTNS",
+"N.W/Kg",
+"G.W/Kg",
+"LENGTH/CM",
+"WIDTH/CM",
+"HEIGHT/CM",
+"V.W/KG",
+"MEAS/CM³"
+],
+[
+"1",
+"STS-16UMES",
+"Industrial Ethernet Switch",
+"3",
+"3",
+"1",
+"3.6",
+"4.2",
+"37",
+"31.5",
+"20.5",
+"4.77855",
+"0.023893"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"3",
+"1",
+"3.6",
+"4.2",
+"",
+"",
+"",
+"4.77855",
+"0.023893"
+],
+[
+"Billable Weight",
+"Whichever is greater between G.W/Kg and V.W/KG"
+],
+[
+"Carton",
+"ONE(1)"
+],
+[
+"QUANTITY",
+"THREE PCS"
+],
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Issued by",
+"Simon"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:35:48Z"
+}

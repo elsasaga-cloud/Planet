@@ -1,0 +1,26 @@
+{
+"id":"PI__PI__3_赞比亚_Pythias_gg__水单_1.23.pdf__7b0d01f0",
+"path":"PI/PI/3  赞比亚 Pythias gg/水单 1.23.pdf",
+"name":"水单 1.23.pdf",
+"ext":".pdf",
+"bytes":37310,
+"sha256":"7b0d01f0389d70d9c025a38f4cb06d4509e2217c26ace06b72a3e7a8b6ae8b12",
+"source":"PI.zip",
+"method":"pdfplumber",
+"status":"ok",
+"meta":{
+"pages":1,
+"creator":"JasperReports (QPF0003)",
+"producer":"iText 2.1.7 by 1T3XT",
+"creationdate":"D:20240123064353Z",
+"moddate":"D:20240123064353Z",
+"ocr_pages":0
+},
+"warnings":[],
+"chars":1537,
+"text":"[p1]\nFIRST NATIONAL BANK ZAMBIA LIMITED\nCORNER GREAT EAST AND THABO MBEKI\nROAD LUSAKA ZAMBIA\nLUSAKA\nSWIFT BIC: FIRNZMLX\nEmail ID: null\nTelephone: null\nSettlement Receipt - Customer Copy\nADVICE - OUTWARD SWIFT\nCustomer : OBMAC SYSTEMS\nID: -\nPLOTE2 VITANDA STREET\nNDOLA MAIN\nNDOLA MAIN Zambia\nNDOLA MAIN\n10101\nZM\nContact Persons Details:\npythiask@obmacsystems.com\nBeneficiary Details: Zhengzhou Saga Telecom Co., Ltd.\nRoom 316, 22nd Floor, Building 57\nNo. 2 Hanghai East Road\nGuancheng Zhengzhou Henan CN 450009\nTransaction Date: 19-JAN-24\nValue Date : 23-JAN-24\nBoP Category : 10301\nBranch Name : 8204-IBC\nTeller :\nTransaction Ref. : 25-3787865-8204 Direct Deal Not Applicable\nDescription Transaction Amount Rate Fee Net Amount\nOutward Swift USD 9,350.00 1.000000 60-USD 9,410.00\nSettled By Account : 62806258233\nSwift Advice:\n{1:F01FIRNZMLXAXXX0000000000}{2:I103BKCHCNBJX530N}{3:{108:NSWIFT0007897059}{121:9daed42e-\n9928-4ca6-8f21-0adc0deb887f}}{4:\n:20:FNB0378786508204\n:23B:CRED\n:32A:240123USD9350,0\n:33B:USD9350,0\n:50K:/62806258233\nOBMAC SYSTEMS\nPLOT E2 VITANDA STREET TOWN CENTRE\nTOWN CENTER NDOLA MAIN COPPERBELT P\n:52A:FIRNZMLX\n:53A:/822838637\nCHASUS33\n:57A://104491062434\nBKCHCNBJ530\n:59:/255987045839\nZhengzhou Saga Telecom Co Ltd\nRoom 316 22nd Floor Building 57\nNo 2 Hanghai East Road\nGuancheng Zhengzhou Henan CN 450009\n:70:Proforma Invoice NoSTSC20240117003\n:71A:SHA\n-}\nDeclaration made by customer:\nI/We declare that the funds involved are not the proceeds of illegal transactions.\nCustomer Signature:.........................",
+"pages":[
+"FIRST NATIONAL BANK ZAMBIA LIMITED\nCORNER GREAT EAST AND THABO MBEKI\nROAD LUSAKA ZAMBIA\nLUSAKA\nSWIFT BIC: FIRNZMLX\nEmail ID: null\nTelephone: null\nSettlement Receipt - Customer Copy\nADVICE - OUTWARD SWIFT\nCustomer : OBMAC SYSTEMS\nID: -\nPLOTE2 VITANDA STREET\nNDOLA MAIN\nNDOLA MAIN Zambia\nNDOLA MAIN\n10101\nZM\nContact Persons Details:\npythiask@obmacsystems.com\nBeneficiary Details: Zhengzhou Saga Telecom Co., Ltd.\nRoom 316, 22nd Floor, Building 57\nNo. 2 Hanghai East Road\nGuancheng Zhengzhou Henan CN 450009\nTransaction Date: 19-JAN-24\nValue Date : 23-JAN-24\nBoP Category : 10301\nBranch Name : 8204-IBC\nTeller :\nTransaction Ref. : 25-3787865-8204 Direct Deal Not Applicable\nDescription Transaction Amount Rate Fee Net Amount\nOutward Swift USD 9,350.00 1.000000 60-USD 9,410.00\nSettled By Account : 62806258233\nSwift Advice:\n{1:F01FIRNZMLXAXXX0000000000}{2:I103BKCHCNBJX530N}{3:{108:NSWIFT0007897059}{121:9daed42e-\n9928-4ca6-8f21-0adc0deb887f}}{4:\n:20:FNB0378786508204\n:23B:CRED\n:32A:240123USD9350,0\n:33B:USD9350,0\n:50K:/62806258233\nOBMAC SYSTEMS\nPLOT E2 VITANDA STREET TOWN CENTRE\nTOWN CENTER NDOLA MAIN COPPERBELT P\n:52A:FIRNZMLX\n:53A:/822838637\nCHASUS33\n:57A://104491062434\nBKCHCNBJ530\n:59:/255987045839\nZhengzhou Saga Telecom Co Ltd\nRoom 316 22nd Floor Building 57\nNo 2 Hanghai East Road\nGuancheng Zhengzhou Henan CN 450009\n:70:Proforma Invoice NoSTSC20240117003\n:71A:SHA\n-}\nDeclaration made by customer:\nI/We declare that the funds involved are not the proceeds of illegal transactions.\nCustomer Signature:........................."
+],
+"extracted_at":"2026-10-22T07:47:57Z"
+}

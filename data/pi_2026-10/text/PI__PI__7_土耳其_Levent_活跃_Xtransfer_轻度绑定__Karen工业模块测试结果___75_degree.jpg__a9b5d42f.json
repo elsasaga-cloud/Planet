@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__Karen工业模块测试结果___75_degree.jpg__a9b5d42f",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/Karen工业模块测试结果/+75 degree.jpg",
+"name":"+75 degree.jpg",
+"ext":".jpg",
+"bytes":179055,
+"sha256":"a9b5d42fe2817d61eb0d7ff76904f152ccd0fad19c3210f3113f33e6a8535578",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1706,
+"height":1279,
+"mode":"RGB",
+"thumb_bytes":12789
+},
+"warnings":[],
+"chars":26,
+"text":"2006-01-01 19:32:48\nWRIEFT",
+"extracted_at":"2026-10-22T07:41:05Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__Karen工业模块测试结果___75_degree.jpg__a9b5d42f.jpg"
+}

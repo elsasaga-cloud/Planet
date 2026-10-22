@@ -1,0 +1,26 @@
+{
+"id":"PI__PI__5_印度_Rajesh_gg__客户进口信息__GST_RC.pdf__992a714f",
+"path":"PI/PI/5 印度 Rajesh gg/客户进口信息/GST RC.pdf",
+"name":"GST RC.pdf",
+"ext":".pdf",
+"bytes":388575,
+"sha256":"992a714f7f114bf1cbd8b0043d3f0684f4b2eecd01c05e37c17775c149245040",
+"source":"PI.zip",
+"method":"pdfplumber+OCR(1p)",
+"status":"ok",
+"meta":{
+"pages":1,
+"title":"GST RC.pdf",
+"producer":"Microsoft: Print To PDF",
+"creationdate":"D:20240423163608+05'30'",
+"moddate":"D:20240423190638+08'00'",
+"ocr_pages":1
+},
+"warnings":[],
+"chars":1019,
+"text":"[p1]\nGovernment of India\nForm GST REG-06\n[See Rule 10(1)]\nRegistration Certificate\nRegistration Number : 09AACCU4195M1ZP\n1. |Legal Name UNITED CONTROL ENGINEERS INDIA PRIVATE LIMITED\n2. Trade Name, if any UNITED CONTROL ENGINEERS INDIA PRIVATE LIMITED\n3. |Constitution of Business Private Limited Company\n4, Address of Principal Place of PLOT NO.218, UDYOG KENDRA-1, ECOTECH-3, GREATER\nBusiness NOIDA, Gautam Buddha Nagar, Uttar Pradesh, 201306\n5. Date of Liability\n6. Period of Validity From 12/06/2019 |To NA\n7. |Type of Registration Regular\n8. |Particulars of Approving Authority |Centre\nSignature\n‘Name Manmohan Pant\nDesignation Superintendent\nJurisdictional Office Sector-1,Gautambudha Nagar\n9. Date of issue of Certificate 12/06/2019\nNote: The registration certificate is required to be prominently displayed at all places of business in the State.\nThis\nthe jurisdictional authority.\na system generated digitally signed Registration Certificate issued based on the approval of application granted on 12/06/2019 by",
+"pages":[
+"Government of India\nForm GST REG-06\n[See Rule 10(1)]\nRegistration Certificate\nRegistration Number : 09AACCU4195M1ZP\n1. |Legal Name UNITED CONTROL ENGINEERS INDIA PRIVATE LIMITED\n2. Trade Name, if any UNITED CONTROL ENGINEERS INDIA PRIVATE LIMITED\n3. |Constitution of Business Private Limited Company\n4, Address of Principal Place of PLOT NO.218, UDYOG KENDRA-1, ECOTECH-3, GREATER\nBusiness NOIDA, Gautam Buddha Nagar, Uttar Pradesh, 201306\n5. Date of Liability\n6. Period of Validity From 12/06/2019 |To NA\n7. |Type of Registration Regular\n8. |Particulars of Approving Authority |Centre\nSignature\n‘Name Manmohan Pant\nDesignation Superintendent\nJurisdictional Office Sector-1,Gautambudha Nagar\n9. Date of issue of Certificate 12/06/2019\nNote: The registration certificate is required to be prominently displayed at all places of business in the State.\nThis\nthe jurisdictional authority.\na system generated digitally signed Registration Certificate issued based on the approval of application granted on 12/06/2019 by"
+],
+"extracted_at":"2026-10-22T07:30:14Z"
+}

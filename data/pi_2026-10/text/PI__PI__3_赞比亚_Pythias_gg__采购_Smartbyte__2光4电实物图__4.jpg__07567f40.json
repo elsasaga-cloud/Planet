@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__3_赞比亚_Pythias_gg__采购_Smartbyte__2光4电实物图__4.jpg__07567f40",
+"path":"PI/PI/3  赞比亚 Pythias gg/采购_Smartbyte/2光4电实物图/4.jpg",
+"name":"4.jpg",
+"ext":".jpg",
+"bytes":1171927,
+"sha256":"07567f40e8e91b29926e75fed73ec94c9f44b68df759f9d8b25ffbd1fdf05738",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":4032,
+"height":3024,
+"mode":"RGB",
+"thumb_bytes":8937
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:48:30Z",
+"thumb":"thumbs/PI__PI__3_赞比亚_Pythias_gg__采购_Smartbyte__2光4电实物图__4.jpg__07567f40.jpg"
+}

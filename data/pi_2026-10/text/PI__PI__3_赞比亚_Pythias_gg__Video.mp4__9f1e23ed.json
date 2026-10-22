@@ -1,0 +1,24 @@
+{
+"id":"PI__PI__3_赞比亚_Pythias_gg__Video.mp4__9f1e23ed",
+"path":"PI/PI/3  赞比亚 Pythias gg/Video.mp4",
+"name":"Video.mp4",
+"ext":".mp4",
+"bytes":12942153,
+"sha256":"9f1e23eded5d447cd6f570c183cc62679aaa2efd44155abb12cff2b58e8be8eb",
+"source":"PI.zip",
+"method":"ffprobe+ffmpeg",
+"status":"meta",
+"meta":{
+"duration_s":57.2,
+"width":1280,
+"height":720,
+"vcodec":"h264",
+"acodec":"aac",
+"thumb_bytes":9620
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:47:39Z",
+"thumb":"thumbs/PI__PI__3_赞比亚_Pythias_gg__Video.mp4__9f1e23ed.jpg"
+}

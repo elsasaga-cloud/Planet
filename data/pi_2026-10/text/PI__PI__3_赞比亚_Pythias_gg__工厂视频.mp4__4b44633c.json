@@ -1,0 +1,25 @@
+{
+"id":"PI__PI__3_赞比亚_Pythias_gg__工厂视频.mp4__4b44633c",
+"path":"PI/PI/3  赞比亚 Pythias gg/工厂视频.mp4",
+"name":"工厂视频.mp4",
+"ext":".mp4",
+"bytes":12190530,
+"sha256":"4b44633c76c40239eb1a59be3aae9eb093addc4118d68503429f69a1a74c1366",
+"source":"PI.zip",
+"method":"ffprobe+ffmpeg",
+"status":"meta",
+"meta":{
+"duration_s":112.9,
+"acodec":"aac",
+"width":568,
+"height":320,
+"vcodec":"h264",
+"creation_time":"2023-12-19T09:24:37.000000Z",
+"thumb_bytes":11199
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:47:57Z",
+"thumb":"thumbs/PI__PI__3_赞比亚_Pythias_gg__工厂视频.mp4__4b44633c.jpg"
+}

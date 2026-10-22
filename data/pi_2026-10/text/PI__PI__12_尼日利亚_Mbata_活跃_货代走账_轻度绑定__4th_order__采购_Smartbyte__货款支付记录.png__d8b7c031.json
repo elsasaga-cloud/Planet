@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__4th_order__采购_Smartbyte__货款支付记录.png__d8b7c031",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/4th order/采购_Smartbyte/货款支付记录.png",
+"name":"货款支付记录.png",
+"ext":".png",
+"bytes":93588,
+"sha256":"d8b7c0316fd6ca9f853e23a5c5ce06da2738dc85ad1b84c02b26a4904ed5b435",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":5650
+},
+"warnings":[],
+"chars":197,
+"text":"10:05\n收 款 账户\n付款 账户\n转账 附 言\n转账 渠 道\n转账 方式\n© 转账 完成\n=>\nall TE\n转账 记录 查询 Oo ©\n转 给 罗 辉\n-¥ 1,500.00\n6214 3913 3000 0617 588\n6214********1962\n转账\n手机 银行\n电子 银行 转账\nae\nri\n(ot\na\n2025-06-19 10:04:56\n查看 和 TA 的 转账 记录",
+"extracted_at":"2026-10-22T08:01:04Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__4th_order__采购_Smartbyte__货款支付记录.png__d8b7c031.jpg"
+}

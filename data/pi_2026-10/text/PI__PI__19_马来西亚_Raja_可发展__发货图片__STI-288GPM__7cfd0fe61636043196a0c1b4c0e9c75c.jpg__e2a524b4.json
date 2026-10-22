@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__19_马来西亚_Raja_可发展__发货图片__STI-288GPM__7cfd0fe61636043196a0c1b4c0e9c75c.jpg__e2a524b4",
+"path":"PI/PI/19 马来西亚 Raja 可发展/发货图片/STI-288GPM/7cfd0fe61636043196a0c1b4c0e9c75c.jpg",
+"name":"7cfd0fe61636043196a0c1b4c0e9c75c.jpg",
+"ext":".jpg",
+"bytes":2633418,
+"sha256":"e2a524b46b74a9919632062d49edb26fce9719922cf78617674fcfaccb29bc8b",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1848,
+"height":2152,
+"mode":"RGB",
+"thumb_bytes":16075
+},
+"warnings":[],
+"chars":197,
+"text":"Industrial Switch\nModel: STI-288GPM\nPorts: 8*10/100/1000M RJ45 PoE + 2*1G\nPower Input: DC 44-57V\nIVI\nSN: 202608210002\nIP Address 192.168.556.166 | MAC: FC-CD-2F-D0-\nUser name: admin Password: admin",
+"extracted_at":"2026-10-22T07:50:28Z",
+"thumb":"thumbs/PI__PI__19_马来西亚_Raja_可发展__发货图片__STI-288GPM__7cfd0fe61636043196a0c1b4c0e9c75c.jpg__e2a524b4.jpg"
+}

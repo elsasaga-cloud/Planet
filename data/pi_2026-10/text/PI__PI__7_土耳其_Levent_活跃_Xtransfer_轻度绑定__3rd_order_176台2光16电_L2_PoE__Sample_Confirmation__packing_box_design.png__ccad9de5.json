@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__3rd_order_176台2光16电_L2_PoE__Sample_Confirmation__packing_box_design.png__ccad9de5",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/3rd order 176台2光16电 L2 PoE/Sample Confirmation/packing box design.png",
+"name":"packing box design.png",
+"ext":".png",
+"bytes":35524,
+"sha256":"ccad9de509021c2bc64a3bd54ee20922752b777d970a2a8769d8d04a268ee69c",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1137,
+"height":974,
+"mode":"RGBA",
+"thumb_bytes":9111
+},
+"warnings":[],
+"chars":84,
+"text":"125.0\nHOA\n127.0\n256.0 交换 机\nBB, BZ. 03. 033 導軌 電源\n25.0\n|\n38.5\n|\n358.0\n45.0\n|\n92.0 64.",
+"extracted_at":"2026-10-22T07:40:40Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__3rd_order_176台2光16电_L2_PoE__Sample_Confirmation__packing_box_design.png__ccad9de5.jpg"
+}

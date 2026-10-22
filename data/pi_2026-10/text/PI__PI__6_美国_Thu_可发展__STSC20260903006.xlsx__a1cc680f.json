@@ -1,0 +1,273 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__STSC20260903006.xlsx__a1cc680f",
+"path":"PI/PI/6 美国 Thu 可发展/STSC20260903006.xlsx",
+"name":"STSC20260903006.xlsx",
+"ext":".xlsx",
+"bytes":185816,
+"sha256":"a1cc680f07d3192f4080b26e959db885f8e93ec5fdc956b0bfa398cd574f02a9",
+"source":"PI.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"Proforma Invoice"
+],
+"embedded_images":3,
+"rows_total":54
+},
+"warnings":[],
+"chars":3378,
+"text":"--- Sheet: Proforma Invoice ---\nSaga Telecom\nAn Engineering & Supply-Chain-First Telecom Partner\nBuilt to Last, Continuous Supply, Evolving Together\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 15237149683                                                     https://sagatele.com/                              Email: s.sagatelecom@gmail.com\nProforma  Invoice\nPO No.\t\t\tInvoice No.:\tSTSC20260903006\nBuyer:\tVi-Link, Inc.\t\tSeller:\tSaga Telecom\nTel:\t1-714-471-9712\t\tIssued By:\tSimon\nEmail:\tthupvilink16@gmail.com\t\tInvoice Date:\t3rd, Sept, 2026\nContact Person:\tThu Pham\t\tPayment Term:\tT/T in advance, Full Amount\nShipping Address:\t5160 Avenida De Despacio Yorba Linda, CA 92887\nIncoterm: DAP\nDefinition\tIncluding origin export clearance and international freight\nExcluding destination customs clearance and import duties.\nIncluding on-carriage delivery to the shipping address after customs release\nModel\tSpecification\t\t\tQuantity \n(UNIT)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSeller: STC-110GE\n\nBuyer: MC1000SC03\tEthernet Media Converter\n\n1*100M Fiber+1*10/100M Ethernet, SC Connector\nSinglemode 20Km, Non-PoE, Unmanaged, DC5V input\nWith fixed optical module, With power adapter\nWITHOUT DIP Function\t\t\t10\t16.5\t165\tWith \nClient \nLogo\n\tHS Code\t8517622990\n\tPacking Information\tProduct size: 95*71*27mm\nInner box size: 230*125*54.6mm\nProduct weight: 0.2Kg\nPacking weight: 0.35Kg\nShipping Cost\t100USD for about 5Kg volume weight to USA by UPS\nair, door-to-door service\n4~6 calendar days to reach at local customs for clearance\t\t\t\t\t100\nPrinting Cost\tFor making the printing template materials, one-time charge\t\t\t\t\t50\nBank Cost\tStandard Charge in EACH Order\t\t\t\t\t25\nTOTAL\t\t\t\t10\t\t340\nSAY TOTAL: USD THREE HUNDRED AND FORTY ONLY\nAbout Import\nPlease do make sure client side could handle import customs clearance\nIf there is any problem with the shipment or clearance\n1, please let us know ASAP\n2, please call DHL/FedEx/UPS official number for information\nBusiness Term\n1. Payment: Full payment to the below bank account before shipment\nBank Information\nSWIFT/BIC code\tCHASHKHH (CHASHKHHXXX * if 11 characters are required)\nAccount Number\t63003662406\nAccount Name\tZhengzhou Saga Telecom Co., Ltd.\nBank Name\tJPMorgan Chase Bank N.A., Hong Kong Branch\nBank Address\t18/F, 20/F, 22-29/F, CHATER HOUSE, 8 CONNAUGHT ROAD CENTRAL, HONG KONG\nCountry/Region\tHong Kong\nType of Account\tBusiness Account\nBank Code\t007\nBranch Code\t863\n2. NOTE: Saga Telecom will not pay for any bank charge\nPlease make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice\n3. Production time: 4~7 working days(Excluding shipping time)\n4. Country of origin: China\nCertificate of Origin is available upon request, please inform us BEFORE shipment if required\n5. Non-brand packing, without Chinese letters or logo\nNeutral device\nPacking list is available\n6. Warranty: 1 year, lifetime technical support\nPurchased items are deemed accepted upon initial inspection if no written notice of defects is received within two (2) months from the delivery date\nThis acceptance clause shall not affect the validity of the warranty period\nPlease refer to \"warranty policy\" for more information\nBuyer: Vi-Link, Inc.\t\t\tSeller: Saga Telecom\nThu Pham\t\t\tSimon\nAuthorized Signature\t\t\tAuthorized Signature",
+"sheets":{
+"Proforma Invoice":{
+"state":"visible",
+"rows":[
+[
+"Saga Telecom"
+],
+[
+"An Engineering & Supply-Chain-First Telecom Partner"
+],
+[
+"Built to Last, Continuous Supply, Evolving Together"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 15237149683                                                     https://sagatele.com/                              Email: s.sagatelecom@gmail.com"
+],
+[
+"Proforma  Invoice"
+],
+[
+"PO No.",
+"",
+"",
+"Invoice No.:",
+"STSC20260903006"
+],
+[
+"Buyer:",
+"Vi-Link, Inc.",
+"",
+"Seller:",
+"Saga Telecom"
+],
+[
+"Tel:",
+"1-714-471-9712",
+"",
+"Issued By:",
+"Simon"
+],
+[
+"Email:",
+"thupvilink16@gmail.com",
+"",
+"Invoice Date:",
+"3rd, Sept, 2026"
+],
+[
+"Contact Person:",
+"Thu Pham",
+"",
+"Payment Term:",
+"T/T in advance, Full Amount"
+],
+[
+"Shipping Address:",
+"5160 Avenida De Despacio Yorba Linda, CA 92887"
+],
+[
+"Incoterm: DAP\nDefinition",
+"Including origin export clearance and international freight\nExcluding destination customs clearance and import duties.\nIncluding on-carriage delivery to the shipping address after customs release"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(UNIT)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"Seller: STC-110GE\n\nBuyer: MC1000SC03",
+"Ethernet Media Converter\n\n1*100M Fiber+1*10/100M Ethernet, SC Connector\nSinglemode 20Km, Non-PoE, Unmanaged, DC5V input\nWith fixed optical module, With power adapter\nWITHOUT DIP Function",
+"",
+"",
+"10",
+"16.5",
+"165",
+"With \nClient \nLogo"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Product size: 95*71*27mm\nInner box size: 230*125*54.6mm\nProduct weight: 0.2Kg\nPacking weight: 0.35Kg"
+],
+[
+"Shipping Cost",
+"100USD for about 5Kg volume weight to USA by UPS\nair, door-to-door service\n4~6 calendar days to reach at local customs for clearance",
+"",
+"",
+"",
+"",
+"100"
+],
+[
+"Printing Cost",
+"For making the printing template materials, one-time charge",
+"",
+"",
+"",
+"",
+"50"
+],
+[
+"Bank Cost",
+"Standard Charge in EACH Order",
+"",
+"",
+"",
+"",
+"25"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"10",
+"",
+"340"
+],
+[
+"SAY TOTAL: USD THREE HUNDRED AND FORTY ONLY"
+],
+[
+"About Import"
+],
+[
+"Please do make sure client side could handle import customs clearance"
+],
+[
+"If there is any problem with the shipment or clearance"
+],
+[
+"1, please let us know ASAP"
+],
+[
+"2, please call DHL/FedEx/UPS official number for information"
+],
+[
+"Business Term"
+],
+[
+"1. Payment: Full payment to the below bank account before shipment"
+],
+[
+"Bank Information"
+],
+[
+"SWIFT/BIC code",
+"CHASHKHH (CHASHKHHXXX * if 11 characters are required)"
+],
+[
+"Account Number",
+"63003662406"
+],
+[
+"Account Name",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Bank Name",
+"JPMorgan Chase Bank N.A., Hong Kong Branch"
+],
+[
+"Bank Address",
+"18/F, 20/F, 22-29/F, CHATER HOUSE, 8 CONNAUGHT ROAD CENTRAL, HONG KONG"
+],
+[
+"Country/Region",
+"Hong Kong"
+],
+[
+"Type of Account",
+"Business Account"
+],
+[
+"Bank Code",
+"007"
+],
+[
+"Branch Code",
+"863"
+],
+[
+"2. NOTE: Saga Telecom will not pay for any bank charge"
+],
+[
+"Please make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice"
+],
+[
+"3. Production time: 4~7 working days(Excluding shipping time)"
+],
+[
+"4. Country of origin: China"
+],
+[
+"Certificate of Origin is available upon request, please inform us BEFORE shipment if required"
+],
+[
+"5. Non-brand packing, without Chinese letters or logo"
+],
+[
+"Neutral device"
+],
+[
+"Packing list is available"
+],
+[
+"6. Warranty: 1 year, lifetime technical support"
+],
+[
+"Purchased items are deemed accepted upon initial inspection if no written notice of defects is received within two (2) months from the delivery date"
+],
+[
+"This acceptance clause shall not affect the validity of the warranty period"
+],
+[
+"Please refer to \"warranty policy\" for more information"
+],
+[
+"Buyer: Vi-Link, Inc.",
+"",
+"",
+"Seller: Saga Telecom"
+],
+[
+"Thu Pham",
+"",
+"",
+"Simon"
+],
+[
+"Authorized Signature",
+"",
+"",
+"Authorized Signature"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:32:10Z"
+}

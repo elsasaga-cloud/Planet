@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__5th_order_sample_2层10G_24口_48口__Shipment_Info__TRX-AS-24TP4X.zip.unpacked__custo__56e7655a",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/5th order sample  2层10G 24口 48口/Shipment Info/TRX-AS-24TP4X.zip.unpacked/customize/www/logo_light.png",
+"name":"logo_light.png",
+"ext":".png",
+"bytes":60243,
+"sha256":"56e7655a510d41de2d619b4e6f35d12fe40681c2eeef72e52fc6c84b8444371a",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":2262,
+"height":768,
+"mode":"RGBA",
+"thumb_bytes":6140
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:45:28Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__5th_order_sample_2层10G_24口_48口__Shipment_Info__TRX-AS-24TP4X.zip.unpacked__custo__56e7655a.jpg"
+}

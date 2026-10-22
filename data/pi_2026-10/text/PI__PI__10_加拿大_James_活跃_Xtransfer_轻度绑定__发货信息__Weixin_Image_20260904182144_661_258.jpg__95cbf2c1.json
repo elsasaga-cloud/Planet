@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__发货信息__Weixin_Image_20260904182144_661_258.jpg__95cbf2c1",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/发货信息/Weixin Image_20260904182144_661_258.jpg",
+"name":"Weixin Image_20260904182144_661_258.jpg",
+"ext":".jpg",
+"bytes":1444968,
+"sha256":"95cbf2c16a05c6d2ace7ff42232ff11c84ae9d5acca587549425072c4b1f118b",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":2805,
+"height":1109,
+"mode":"RGB",
+"thumb_bytes":7456
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:55:58Z",
+"thumb":"thumbs/PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__发货信息__Weixin_Image_20260904182144_661_258.jpg__95cbf2c1.jpg"
+}

@@ -1,0 +1,122 @@
+{
+"id":"PI__PI__2_印度_Rishi_gg__FTTH需求.docx__4685be51",
+"path":"PI/PI/2 印度 Rishi gg/FTTH需求.docx",
+"name":"FTTH需求.docx",
+"ext":".docx",
+"bytes":225563,
+"sha256":"4685be51a8bd0aceff4fdc4bc8b7550ae5b705b8192812a9c872216ed527a052",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2023-08-12T07:29:00+00:00",
+"modified":"2023-12-13T13:52:54+00:00",
+"paragraphs":19,
+"tables":0,
+"embedded_images":2
+},
+"warnings":[],
+"chars":280,
+"text":"Patch cords\nPigtails\nFtth boxes\nHome distribution boxes\nWall mount metal LIU\nRack mount LIU\nSplitters\nSplitters LGX cassettes\nSplitters ABS boxes\nSleeves\nVFL\nPower meters\nFtth tool kit\nFiber cleaning cassettes and pens\nPoE extenders\nPoE injectors\nPoE adapters\nJoint enclosures\nEtc",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Patch cords"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Pigtails"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ftth boxes"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Home distribution boxes"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Wall mount metal LIU"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Rack mount LIU"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Splitters"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Splitters LGX cassettes"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Splitters ABS boxes"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Sleeves"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"VFL"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Power meters"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ftth tool kit"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Fiber cleaning cassettes and pens"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE extenders"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE injectors"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE adapters"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Joint enclosures"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Etc"
+}
+],
+"extracted_at":"2026-10-22T07:31:04Z"
+}

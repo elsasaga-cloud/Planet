@@ -1,0 +1,253 @@
+{
+"id":"PI__PI__14_印度_Manoj_可发展__STSC20260212014.xls__20cf03cf",
+"path":"PI/PI/14 印度 Manoj 可发展/STSC20260212014.xls",
+"name":"STSC20260212014.xls",
+"ext":".xls",
+"bytes":515584,
+"sha256":"20cf03cf85f97425a601eaae2dc462ca01af96a85e29f78128c38e6113403ebb",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Proforma Invoice"
+],
+"rows_total":52
+},
+"warnings":[],
+"chars":3212,
+"text":"--- Sheet: Proforma Invoice ---\nSaga Telecom, OEM Factory\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 15237149683                                          www.sagatelecom.com.cn                                Email: s.sagatelecom@gmail.com\n*********************************************************************************************************************\nProforma Invoice\nPO No.\t\t\tInvoice No.:\tSTSC20260212014\nBuyer:\tSundar Techno Solutions\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t91 9901092868/9482081014\t\tIssued By:\tSimon\nEmail:\tsales@sundartechno.com\t\tInvoice Date:\t12th, Feb, 2026\nContact Person:\tManoj Kumar, CEO\t\tPayment Term:\tT/T in advance, EXW\nShipping Address\t#24/106, 8th B main road, 11th cross, Ananthnagar phase 1, Electronic City phase 2, Bangalore 560100, India\nModel\tSpecification\t\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSeller\nSTI-0160GE\n\nBuyer\nSTS-16UMES\t\tIndustrial Ethernet Switch\n\n16*10/100/1000M Ethernet, without Fiber port\nNon-PoE, unmanaged, Support DIP function\nDC12V~DC58V(Removable 6 PIN Industrial Terminal Block) , -40℃ to 75℃, Din mounted\nWithout Power Adapter, With mounting Hanger\t\t3\t87\t261\tNeutral \nDevice\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 158*115*54mm\nNet Weight: 1.2Kg\nGross Weight: 1.4Kg\nAddtional Information\tSerial Number: STS-16UM-202503234, 235, 236\nFreight Cost\tSupport Pick-up Service\t\t\t\t\t0\nTOTAL\t\t\t\t3\t\t261\nSAY TOTAL IN USD TWO HUNDRED AND SIXTY ONE DOLLARS\nRemark\nPlease do make sure client side could handle import customs clearance\nIf there is any problem with the shipment or clearance\n1, please let us know ASAP\n2, please call DHL/FedEx/UPS official number for information\n1. Payment: Full payment to the below bank account before shipment\nBank Information\nSWIFT/BIC code\tCHASHKHH (CHASHKHHXXX * if 11 characters are required)\nAccount Number\t63003662406\nAccount Name\tZhengzhou Saga Telecom Co., Ltd.\nBank Name\tJPMorgan Chase Bank N.A., Hong Kong Branch\nBank Address\t18/F, 20/F, 22-29/F, CHATER HOUSE, 8 CONNAUGHT ROAD CENTRAL, HONG KONG\nCountry/Region\tHong Kong\nType of Account\tBusiness Account\nBank Code\t007\nBranch Code\t863\n2. NOTE: Saga Telecom will not pay for any bank charge\nPlease make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice\n3. Production time: 2~4 working days(NOT including shipping time)\nIncoterms: EXW, excluding destination customs clearance & import duties\n4. Country of origin: China\n5. Non-brand packing, without Chinese letters or logo\nPackage mark: None\nPacking list is available\n6. Warranty: 3 years, lifetime technical support\nPurchased items are deemed accepted upon initial inspection if no written notice of defects is received within two (2) months from the delivery date\nThis acceptance clause shall not affect the validity of the warranty period\nPlease refer to \"warranty policy\" for more information\nBuyer: Sundar Techno Solutions\t\t\tSeller: Zhengzhou Saga Telecom Co., Ltd.\nManoj Kumar\t\t\tSimon\nAuthorized Signature\t\t\tAuthorized Signature",
+"sheets":{
+"Proforma Invoice":{
+"rows":[
+[
+"Saga Telecom, OEM Factory"
+],
+[
+"Tailored Managed Networking Solutions Provider"
+],
+[
+"Built to Last, Continuous Supply, Evolving Together"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 15237149683                                          www.sagatelecom.com.cn                                Email: s.sagatelecom@gmail.com"
+],
+[
+"*********************************************************************************************************************"
+],
+[
+"Proforma Invoice"
+],
+[
+"PO No.",
+"",
+"",
+"Invoice No.:",
+"STSC20260212014"
+],
+[
+"Buyer:",
+"Sundar Techno Solutions",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"91 9901092868/9482081014",
+"",
+"Issued By:",
+"Simon"
+],
+[
+"Email:",
+"sales@sundartechno.com",
+"",
+"Invoice Date:",
+"12th, Feb, 2026"
+],
+[
+"Contact Person:",
+"Manoj Kumar, CEO",
+"",
+"Payment Term:",
+"T/T in advance, EXW"
+],
+[
+"Shipping Address",
+"#24/106, 8th B main road, 11th cross, Ananthnagar phase 1, Electronic City phase 2, Bangalore 560100, India"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"Seller\nSTI-0160GE\n\nBuyer\nSTS-16UMES",
+"",
+"Industrial Ethernet Switch\n\n16*10/100/1000M Ethernet, without Fiber port\nNon-PoE, unmanaged, Support DIP function\nDC12V~DC58V(Removable 6 PIN Industrial Terminal Block) , -40℃ to 75℃, Din mounted\nWithout Power Adapter, With mounting Hanger",
+"",
+"3",
+"87",
+"261",
+"Neutral \nDevice"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 158*115*54mm\nNet Weight: 1.2Kg\nGross Weight: 1.4Kg"
+],
+[
+"Addtional Information",
+"Serial Number: STS-16UM-202503234, 235, 236"
+],
+[
+"Freight Cost",
+"Support Pick-up Service",
+"",
+"",
+"",
+"",
+"0"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"3",
+"",
+"261"
+],
+[
+"SAY TOTAL IN USD TWO HUNDRED AND SIXTY ONE DOLLARS"
+],
+[
+"Remark"
+],
+[
+"Please do make sure client side could handle import customs clearance"
+],
+[
+"If there is any problem with the shipment or clearance"
+],
+[
+"1, please let us know ASAP"
+],
+[
+"2, please call DHL/FedEx/UPS official number for information"
+],
+[
+"1. Payment: Full payment to the below bank account before shipment"
+],
+[
+"Bank Information"
+],
+[
+"SWIFT/BIC code",
+"CHASHKHH (CHASHKHHXXX * if 11 characters are required)"
+],
+[
+"Account Number",
+"63003662406"
+],
+[
+"Account Name",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Bank Name",
+"JPMorgan Chase Bank N.A., Hong Kong Branch"
+],
+[
+"Bank Address",
+"18/F, 20/F, 22-29/F, CHATER HOUSE, 8 CONNAUGHT ROAD CENTRAL, HONG KONG"
+],
+[
+"Country/Region",
+"Hong Kong"
+],
+[
+"Type of Account",
+"Business Account"
+],
+[
+"Bank Code",
+"007"
+],
+[
+"Branch Code",
+"863"
+],
+[
+"2. NOTE: Saga Telecom will not pay for any bank charge"
+],
+[
+"Please make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice"
+],
+[
+"3. Production time: 2~4 working days(NOT including shipping time)"
+],
+[
+"Incoterms: EXW, excluding destination customs clearance & import duties"
+],
+[
+"4. Country of origin: China"
+],
+[
+"5. Non-brand packing, without Chinese letters or logo"
+],
+[
+"Package mark: None"
+],
+[
+"Packing list is available"
+],
+[
+"6. Warranty: 3 years, lifetime technical support"
+],
+[
+"Purchased items are deemed accepted upon initial inspection if no written notice of defects is received within two (2) months from the delivery date"
+],
+[
+"This acceptance clause shall not affect the validity of the warranty period"
+],
+[
+"Please refer to \"warranty policy\" for more information"
+],
+[
+"Buyer: Sundar Techno Solutions",
+"",
+"",
+"Seller: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Manoj Kumar",
+"",
+"",
+"Simon"
+],
+[
+"Authorized Signature",
+"",
+"",
+"Authorized Signature"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:35:13Z"
+}

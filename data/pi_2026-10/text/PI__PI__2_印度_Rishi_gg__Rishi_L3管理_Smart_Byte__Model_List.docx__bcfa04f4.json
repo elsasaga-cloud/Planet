@@ -1,0 +1,182 @@
+{
+"id":"PI__PI__2_印度_Rishi_gg__Rishi_L3管理_Smart_Byte__Model_List.docx__bcfa04f4",
+"path":"PI/PI/2 印度 Rishi gg/Rishi L3管理 Smart Byte/Model List.docx",
+"name":"Model List.docx",
+"ext":".docx",
+"bytes":12367,
+"sha256":"bcfa04f4f3e8e4d2aa13cce1898ffa213362de56829a0328c24bca1b81c11612",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2023-12-27T05:55:00+00:00",
+"modified":"2023-12-27T06:08:25+00:00",
+"paragraphs":31,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"chars":790,
+"text":"Commercial Rack\nSTC-4168XGGCM\n4*10G fiber+16*1G fiber+8*1G combo(SFP/Copper)\nSTC-4816XGCGM\n4*10G fiber+8*1G combo(SFP/Copper)+16*1G copper\nSTC-4816XGCGPM\n4*10G fiber+8*1G combo(SFP/Copper)+16*1G POE\nSTC-424XGGM\n4*10G fiber+24*1G copper\nSTC-424XGGPM\n4*10G fiber+24*1G POE\nSTC-448XGGM\n4*10G fiber+48*1G copper\nSTC-448XGGPM\n4*10G fiber+48*1G POE\nSTC-448XGGM-AF(AF means all fiber version)\n4*10G fiber+48*1G fiber\nIndustrial Rack\nSTI-448XGGM\n4*10G fiber+48*1G copper\nSTI-4168XGGCM\n4*10G fiber+16*1G fiber+8*1G combo(SFP/Copper)\nSTI-4816XGCGM\n4*10G fiber+8*1G combo(SFP/Copper)+16*1G copper\nSTI-4816XGCGPM\n4*10G fiber+8*1G combo(SFP/Copper)+16*1G POE\nSTI-424XGGM\n4*10G fiber+24*1G copper\nSTI-424XGGPM\n4*10G fiber+24*1G POE\nAll those models in this list are Marvel chip and Layer 3 managed based.",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Commercial Rack"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STC-4168XGGCM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4*10G fiber+16*1G fiber+8*1G combo(SFP/Copper)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STC-4816XGCGM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4*10G fiber+8*1G combo(SFP/Copper)+16*1G copper"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STC-4816XGCGPM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4*10G fiber+8*1G combo(SFP/Copper)+16*1G POE"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STC-424XGGM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4*10G fiber+24*1G copper"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STC-424XGGPM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4*10G fiber+24*1G POE"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STC-448XGGM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4*10G fiber+48*1G copper"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STC-448XGGPM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4*10G fiber+48*1G POE"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STC-448XGGM-AF(AF means all fiber version)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4*10G fiber+48*1G fiber"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Industrial Rack"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STI-448XGGM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4*10G fiber+48*1G copper"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STI-4168XGGCM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4*10G fiber+16*1G fiber+8*1G combo(SFP/Copper)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STI-4816XGCGM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4*10G fiber+8*1G combo(SFP/Copper)+16*1G copper"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STI-4816XGCGPM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4*10G fiber+8*1G combo(SFP/Copper)+16*1G POE"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STI-424XGGM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4*10G fiber+24*1G copper"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STI-424XGGPM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4*10G fiber+24*1G POE"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"All those models in this list are Marvel chip and Layer 3 managed based."
+}
+],
+"extracted_at":"2026-10-22T07:31:14Z"
+}

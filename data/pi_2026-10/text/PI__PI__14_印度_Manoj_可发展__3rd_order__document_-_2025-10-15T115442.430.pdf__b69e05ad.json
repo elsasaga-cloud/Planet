@@ -1,0 +1,26 @@
+{
+"id":"PI__PI__14_印度_Manoj_可发展__3rd_order__document_-_2025-10-15T115442.430.pdf__b69e05ad",
+"path":"PI/PI/14 印度 Manoj 可发展/3rd order/document - 2025-10-15T115442.430.pdf",
+"name":"document - 2025-10-15T115442.430.pdf",
+"ext":".pdf",
+"bytes":15511,
+"sha256":"b69e05ad62ddcebd49a74f9b8824361f1ab64a498f766ca292400bf752fb69d2",
+"source":"PI.zip",
+"method":"pdfplumber",
+"status":"ok",
+"meta":{
+"pages":2,
+"producer":"iText® 5.5.12 ©2000-2017 iText Group NV (AGPL-version); modified using iText® 5.5.12 ©2000-2017 iText Group NV (AGPL-version)",
+"creationdate":"D:20251014190609+05'30'",
+"moddate":"D:20251014190609+05'30'",
+"ocr_pages":0
+},
+"warnings":[],
+"chars":1576,
+"text":"[p1]\n------------------------- Instance Type and Transmission -------------------------\nNotification (Transmission) of Original sent to SWIFT (ACK)\nNetwork Delivery Status : Network Ack\nPriority/Delivery : Normal\n------------------------- Message Header -----------------------------------------\nSwift : FIN 103 Single Customer Credit Transfer\nSender : ICICINBBCTS\nICICI BANK LIMITED\nGLOBAL TRADE SERVICES UNIT-MUMBAI\nINDIA IN\nReceiver : ICICHKHHCLR\nICICI BANK LTD\nCLEARING SERVICES DEPT\nHONG KONG HK\nMUR : 5730430\n------------------------- Message Text -------------------------------------------\n20: Sender's Reference\n0078NSMI0055026\n23B: Bank Operation Code\nCRED\n32A: Value Date/Currency/Interbank Settled Amount\n251014\nCurrency: USD (US Dollar)\nAmount: 176,00\n33B: Currency/Instructed Amount\nCurrency: USD (US Dollar)\nAmount: 176,00\n50K: Ordering Customer\n167005000228\nSUNDAR TECHNO SOLUTIONS\n2ND FLR 24 106 11TH CRS ROAD\nBENGALURU\nINDIA\n57A: Account With Institution\nCHASHKHHXXX\nJPMORGAN CHASE BANK, N.A., HONG KONG BRANCH (ORGANIZED UNDER THE LAWS OF U.S.A. WITH\nLIMITED LIABILITY)\nHONG KONG HK\n59: Beneficiary Customer\n63003662406\nZHENGZHOU SAGA TELECOM CO LTD\nROOM 316 22FLOOR BUILDING 57 NO\nGUANCHENG DISTRICT ZHENGZHOU HENA\nCHINA\n70: Remittance Information\nADVANCE PAYMENT AGAINST IMPORT\n\n[p2]\n71A: Details of Charges\nSHA\n----------------------Interventions------------------------------------------\nCategory : Network Report\nCreation Time :14/10/2025 19:05:00\nApplication : SWIFT Interface\nText\n{1:F21ICICINBBAXXX0233810742}{4:{177:2510141905}{451:0}{108:5730430}}",
+"pages":[
+"------------------------- Instance Type and Transmission -------------------------\nNotification (Transmission) of Original sent to SWIFT (ACK)\nNetwork Delivery Status : Network Ack\nPriority/Delivery : Normal\n------------------------- Message Header -----------------------------------------\nSwift : FIN 103 Single Customer Credit Transfer\nSender : ICICINBBCTS\nICICI BANK LIMITED\nGLOBAL TRADE SERVICES UNIT-MUMBAI\nINDIA IN\nReceiver : ICICHKHHCLR\nICICI BANK LTD\nCLEARING SERVICES DEPT\nHONG KONG HK\nMUR : 5730430\n------------------------- Message Text -------------------------------------------\n20: Sender's Reference\n0078NSMI0055026\n23B: Bank Operation Code\nCRED\n32A: Value Date/Currency/Interbank Settled Amount\n251014\nCurrency: USD (US Dollar)\nAmount: 176,00\n33B: Currency/Instructed Amount\nCurrency: USD (US Dollar)\nAmount: 176,00\n50K: Ordering Customer\n167005000228\nSUNDAR TECHNO SOLUTIONS\n2ND FLR 24 106 11TH CRS ROAD\nBENGALURU\nINDIA\n57A: Account With Institution\nCHASHKHHXXX\nJPMORGAN CHASE BANK, N.A., HONG KONG BRANCH (ORGANIZED UNDER THE LAWS OF U.S.A. WITH\nLIMITED LIABILITY)\nHONG KONG HK\n59: Beneficiary Customer\n63003662406\nZHENGZHOU SAGA TELECOM CO LTD\nROOM 316 22FLOOR BUILDING 57 NO\nGUANCHENG DISTRICT ZHENGZHOU HENA\nCHINA\n70: Remittance Information\nADVANCE PAYMENT AGAINST IMPORT",
+"71A: Details of Charges\nSHA\n----------------------Interventions------------------------------------------\nCategory : Network Report\nCreation Time :14/10/2025 19:05:00\nApplication : SWIFT Interface\nText\n{1:F21ICICINBBAXXX0233810742}{4:{177:2510141905}{451:0}{108:5730430}}"
+],
+"extracted_at":"2026-10-22T07:35:50Z"
+}

@@ -1,0 +1,24 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__2nd_order__power_cable.jpg__6e0297d5",
+"path":"PI/PI/6 美国 Thu 可发展/2nd order/power cable.jpg",
+"name":"power cable.jpg",
+"ext":".jpg",
+"bytes":6393800,
+"sha256":"6e0297d5f457d42df72f1089dbf2eaa9383f78b9e2d39247f038153ccd95f300",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":3072,
+"height":4096,
+"mode":"RGB",
+"software":"FOA-AL00 4.0.0.113(C00E112R4P2)",
+"thumb_bytes":13352
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:32:59Z",
+"thumb":"thumbs/PI__PI__6_美国_Thu_可发展__2nd_order__power_cable.jpg__6e0297d5.jpg"
+}

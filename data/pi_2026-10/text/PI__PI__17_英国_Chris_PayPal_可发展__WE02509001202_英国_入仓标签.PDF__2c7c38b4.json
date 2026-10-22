@@ -1,0 +1,25 @@
+{
+"id":"PI__PI__17_英国_Chris_PayPal_可发展__WE02509001202_英国_入仓标签.PDF__2c7c38b4",
+"path":"PI/PI/17 英国 Chris PayPal 可发展/WE02509001202 英国 入仓标签.PDF",
+"name":"WE02509001202 英国 入仓标签.PDF",
+"ext":".pdf",
+"bytes":28443,
+"sha256":"2c7c38b4ed536185ae9f333f7c9783d1802a315f778d9959dd6b0816743aa3c0",
+"source":"PI.zip",
+"method":"pdfplumber",
+"status":"ok",
+"meta":{
+"pages":1,
+"creator":"PDFsharp 1.50.5147 (www.pdfsharp.com)",
+"producer":"PDFsharp 1.50.5147 (www.pdfsharp.com)",
+"creationdate":"D:20250901105411+08'00'",
+"ocr_pages":0
+},
+"warnings":[],
+"chars":144,
+"text":"[p1]\nBSA00002 SE2509000276\nH-116 HKFED-IE欧欧洲洲小小\n国国际际快快递递\n货货\n→\n深深圳圳市市 GB,英英国国\n货物类型 普普货货\n服 务\n收货地址：深圳市宝安区深圳市宝安区凤塘大道141\n号百运网分拔中心\n1-1\nSTAG20250823017",
+"pages":[
+"BSA00002 SE2509000276\nH-116 HKFED-IE欧欧洲洲小小\n国国际际快快递递\n货货\n→\n深深圳圳市市 GB,英英国国\n货物类型 普普货货\n服 务\n收货地址：深圳市宝安区深圳市宝安区凤塘大道141\n号百运网分拔中心\n1-1\nSTAG20250823017"
+],
+"extracted_at":"2026-10-22T07:59:19Z"
+}

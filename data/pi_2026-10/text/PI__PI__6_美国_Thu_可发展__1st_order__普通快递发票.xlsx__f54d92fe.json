@@ -1,0 +1,152 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__1st_order__普通快递发票.xlsx__f54d92fe",
+"path":"PI/PI/6 美国 Thu 可发展/1st order/普通快递发票.xlsx",
+"name":"普通快递发票.xlsx",
+"ext":".xlsx",
+"bytes":11424,
+"sha256":"f54d92fea85e4411588fd6209fd73d32f6aeb2e8e3c6bf5e0dbd1a20afcaca0b",
+"source":"PI.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"CI"
+],
+"embedded_images":0,
+"rows_total":14
+},
+"warnings":[],
+"chars":839,
+"text":"--- Sheet: CI ---\nCommercial Invoice\nInternatioal Air Waybill No\t\t\t\t\t\tDate of Exportation\n\t\t\t\t\t\t2024.04.26\nShipper/Exporter\t\t\t\t\t\tConsignee/Importer\nCompany Name:\tZhengzhou Saga Telecom Co., Ltd.\t\t\t\t\tCompany Name:\tVi-Link, Inc.\nATTN:\tSimon Cheng\t\t\t\t\tATTN:\tThu Pham\nTel Number:\t86 15237149683\t\t\t\t\tTel Number:\t1-714-471-9712\nFAX:\t\t\t\t\t\tOrder ID:\tSTSC20240418006\n(Shipper )\nAddress:\tRoom 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\t\t\t\t\t(Delivery to)\nAddress:\t5160 Avenida De Despacio\nYorba Linda, CA 92887\nCountry of Origin\t\t\t\t\tCoutry of Export\nChina\t\t\t\t\tChina\nDescription of Goods\t\tHS CODE\tmaterial\tapplication\tCarton \nQ'ty\tTotal Q'ty\n(pcs)\tUnit Value \n(US$)\tTotal Value \n(US$)\nCommercial Switch\t\t8517622990\tMetal\tData exchange and optical telecommunication\t1\t1\t375\t375\nTotal\t\t375",
+"sheets":{
+"CI":{
+"state":"visible",
+"rows":[
+[
+"Commercial Invoice"
+],
+[
+"Internatioal Air Waybill No",
+"",
+"",
+"",
+"",
+"",
+"Date of Exportation"
+],
+[
+"",
+"",
+"",
+"",
+"",
+"",
+"2024.04.26"
+],
+[
+"Shipper/Exporter",
+"",
+"",
+"",
+"",
+"",
+"Consignee/Importer"
+],
+[
+"Company Name:",
+"Zhengzhou Saga Telecom Co., Ltd.",
+"",
+"",
+"",
+"",
+"Company Name:",
+"Vi-Link, Inc."
+],
+[
+"ATTN:",
+"Simon Cheng",
+"",
+"",
+"",
+"",
+"ATTN:",
+"Thu Pham"
+],
+[
+"Tel Number:",
+"86 15237149683",
+"",
+"",
+"",
+"",
+"Tel Number:",
+"1-714-471-9712"
+],
+[
+"FAX:",
+"",
+"",
+"",
+"",
+"",
+"Order ID:",
+"STSC20240418006"
+],
+[
+"(Shipper )\nAddress:",
+"Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009",
+"",
+"",
+"",
+"",
+"(Delivery to)\nAddress:",
+"5160 Avenida De Despacio\nYorba Linda, CA 92887"
+],
+[
+"Country of Origin",
+"",
+"",
+"",
+"",
+"Coutry of Export"
+],
+[
+"China",
+"",
+"",
+"",
+"",
+"China"
+],
+[
+"Description of Goods",
+"",
+"HS CODE",
+"material",
+"application",
+"Carton \nQ'ty",
+"Total Q'ty\n(pcs)",
+"Unit Value \n(US$)",
+"Total Value \n(US$)"
+],
+[
+"Commercial Switch",
+"",
+"8517622990",
+"Metal",
+"Data exchange and optical telecommunication",
+"1",
+"1",
+"375",
+"375"
+],
+[
+"Total",
+"",
+"375"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:33:18Z"
+}

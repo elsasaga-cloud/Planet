@@ -1,0 +1,24 @@
+{
+"id":"PI__PI__5_印度_Rajesh_gg__发货__2.jpg__7729207f",
+"path":"PI/PI/5 印度 Rajesh gg/发货/2.jpg",
+"name":"2.jpg",
+"ext":".jpg",
+"bytes":4607697,
+"sha256":"7729207f8d7e7281013ad9ece06e02e5d2e8ac7ab2de636cb96b6a133cd5ad36",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":3468,
+"height":4624,
+"mode":"RGB",
+"software":"MediaTek Camera Application\u0000\u0000\u0000\u0000",
+"thumb_bytes":13182
+},
+"warnings":[],
+"chars":192,
+"text":"Product name: Industrial Switch\nModel: STI-050FE (2PCS)\nSTI-080FE (2PCS)\nQty.: 4 PCS CO\nSN:\nFROM: pai B ry -\n0240419\nTO: gnnian tee A A\n20240419002\nWeight: 3KG\nCarton No.: 1/ 1 MADE IN CHINA :",
+"extracted_at":"2026-10-22T07:29:56Z",
+"thumb":"thumbs/PI__PI__5_印度_Rajesh_gg__发货__2.jpg__7729207f.jpg"
+}

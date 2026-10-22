@@ -1,0 +1,24 @@
+{
+"id":"PI__PI__3_赞比亚_Pythias_gg__production_line_1.mp4__adef5ddf",
+"path":"PI/PI/3  赞比亚 Pythias gg/production line 1.mp4",
+"name":"production line 1.mp4",
+"ext":".mp4",
+"bytes":1976393,
+"sha256":"adef5ddff4631b3fac5ce85199c9837f64f2e2582ee0bad6cf5104bf7739eca1",
+"source":"PI.zip",
+"method":"ffprobe+ffmpeg",
+"status":"meta",
+"meta":{
+"duration_s":9.5,
+"width":720,
+"height":1280,
+"vcodec":"h264",
+"acodec":"aac",
+"thumb_bytes":23386
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:47:40Z",
+"thumb":"thumbs/PI__PI__3_赞比亚_Pythias_gg__production_line_1.mp4__adef5ddf.jpg"
+}

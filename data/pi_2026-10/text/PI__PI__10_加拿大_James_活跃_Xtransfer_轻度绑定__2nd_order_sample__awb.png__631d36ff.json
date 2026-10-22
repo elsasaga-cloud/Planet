@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__2nd_order_sample__awb.png__631d36ff",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/2nd order sample/awb.png",
+"name":"awb.png",
+"ext":".png",
+"bytes":117242,
+"sha256":"631d36ffce006a7cfb25d90ddf9f496c10f427ab595d55960fe7f16f36ad91ab",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":591,
+"height":716,
+"mode":"RGBA",
+"thumb_bytes":24141
+},
+"warnings":[],
+"chars":322,
+"text":"SHIP Tt\nTales CLENDENAN\n1-604-910-5745\nJAMES CLENDENAN SYSTEMS LTD.\n[ANCOUVER BC CANADA V7P 2Y4\n1543 BOWSER AVE NORTH\nNi S CLENDENAN SYSTE\nRTH VANCOUVER BC V7P2V4\nAa\nCAN 209 9-01\n人\nHI\nUps EXPRESS\nShikari ara\neRe\nTRACKING #: 1Z 770 Y8W 66 9839 1104\nSLUNG: TPS) 1o0X i, P/P TPS X2154X HK\nDESC: Industrial Ethernet Switch Met",
+"extracted_at":"2026-10-22T07:56:50Z",
+"thumb":"thumbs/PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__2nd_order_sample__awb.png__631d36ff.jpg"
+}

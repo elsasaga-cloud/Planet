@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__1st_order_sample__Label.png__61691fa5",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/1st order sample/Label.png",
+"name":"Label.png",
+"ext":".png",
+"bytes":62680,
+"sha256":"61691fa5f2658d225f135e11c84b448a1a140db68366d5ca3cadd75ede9adcd6",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1121,
+"height":580,
+"mode":"RGBA",
+"thumb_bytes":12701
+},
+"warnings":[],
+"chars":259,
+"text":"Industrial Switch\nModel: SW-3200-16GP-2SM\nPorts: 16*10/100/1000M RJ45 PoE + 2*1G/2.5G SFP\nPower input: DC 44-57V\nPoE Budget: 240W\nCTA SE FE\nSN: 20240703001 SA ase\nIP Address: 192.168.1.30 MAC: FC-CD-2F-D0-3E-7B 的\nUser name: admin Password: admin Made in China",
+"extracted_at":"2026-10-22T07:57:46Z",
+"thumb":"thumbs/PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__1st_order_sample__Label.png__61691fa5.jpg"
+}

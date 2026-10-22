@@ -1,0 +1,221 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__STSC-20260821-001.xlsx__5d3eb6e8",
+"path":"PI/PI/6 美国 Thu 可发展/STSC-20260821-001.xlsx",
+"name":"STSC-20260821-001.xlsx",
+"ext":".xlsx",
+"bytes":150921,
+"sha256":"5d3eb6e83ac0c0edfcaa44661b14128022d99deae29b000413acb4e605c3658f",
+"source":"PI.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"Quotation"
+],
+"embedded_images":2,
+"rows_total":43
+},
+"warnings":[],
+"chars":2797,
+"text":"--- Sheet: Quotation ---\nSaga Telecom\nAn Engineering & Supply-Chain-First Telecom Partner\nBuilt to Last, Continuous Supply, Evolving Together\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 15237149683                                                     https://sagatele.com/                              Email: s.sagatelecom@gmail.com\nQuotation\nBuyer:\tVi-Link, Inc.\t\tSeller:\tSaga Telecom\nContact Person:\t1-714-471-9712\t\tQuotation No.\tSTSC-20260821-001\nTel:\tthupvilink16@gmail.com\t\tQuoted By:\tSimon\nEmail:\tThu Pham\t\tDate:\t21st, Aug, 2026\nShipping Address:\t5160 Avenida De Despacio Yorba Linda, CA 92887\nIncoterm: DAP\nDefinition\tIncluding origin export clearance and international freight\nExcluding destination customs clearance and import duties.\nIncluding on-carriage delivery to the shipping address after customs release\nModel\tSpecification\t\t\tQuantity \n(UNIT)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSeller: STC-110FE\n\nBuyer: MC100SC03\tEthernet Media Converter\n\n1*100M Fiber+1*10/100M Ethernet, SC Connector\nSinglemode 20Km, Non-PoE, Unmanaged, DC5V input\nWith fixed optical module, With power adapter\nWith DIP Function(See our datasheet)\t\t\t10\t15\t150\tWith \nClient Logo\n\tHS Code\t8517622990\n\tPacking Information\tProduct size: 95*71*27mm\nInner box size: 230*125*54.6mm\nProduct weight: 0.2Kg\nPacking weight: 0.35Kg\nShipping Cost\t100USD for about 5Kg volume weight to USA by UPS\nair, door-to-door service\n4~6 calendar days to reach at local customs for clearance\t\t\t\t\t100\nPrinting Cost\tFor making the printing template materials, one-time charge\t\t\t\t\t50\nBank Cost\tStandard Charge in EACH Order\t\t\t\t\t25\nTOTAL\t\t\t\t10\t\t325\nSAY TOTAL: USD THREE HUNDRED AND TWENTY FIVE ONLY\nAbout Import\nPlease do make sure client side could handle import customs clearance\nIf there is any problem with the shipment or clearance\n1, please let us know ASAP\n2, please call DHL/FedEx/UPS official number for information\nBusiness Term\n1. Price validity: 15 days\n2. Payment term\tSample: Full Payment by PayPal or T/T Wire\n\tBatch: Full Payment by T/T Wire\n\tBulk: 50% T/T Wire in advance and 50% BEFORE shipment\n3. MoQ: 1 piece\nSample: available\nLabel: customizable\nPartial shipment: negotiable\n4. Non-brand packing, without Chinese letters or logo\n5. Country of origin: China\nCertificate of Origin is available upon request, please inform us BEFORE shipment if required\n6. Production time: 4~7 days (Excluding shipping time)\n7. Warranty: 1 year, lifetime technical support\nPurchased items are deemed accepted upon initial inspection if no written notice of defects is received within two (2) months from the delivery date\nThis acceptance clause shall not affect the validity of the warranty period\nPlease refer to \"warranty policy\" for more information",
+"sheets":{
+"Quotation":{
+"state":"visible",
+"rows":[
+[
+"Saga Telecom"
+],
+[
+"An Engineering & Supply-Chain-First Telecom Partner"
+],
+[
+"Built to Last, Continuous Supply, Evolving Together"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 15237149683                                                     https://sagatele.com/                              Email: s.sagatelecom@gmail.com"
+],
+[
+"Quotation"
+],
+[
+"Buyer:",
+"Vi-Link, Inc.",
+"",
+"Seller:",
+"Saga Telecom"
+],
+[
+"Contact Person:",
+"1-714-471-9712",
+"",
+"Quotation No.",
+"STSC-20260821-001"
+],
+[
+"Tel:",
+"thupvilink16@gmail.com",
+"",
+"Quoted By:",
+"Simon"
+],
+[
+"Email:",
+"Thu Pham",
+"",
+"Date:",
+"21st, Aug, 2026"
+],
+[
+"Shipping Address:",
+"5160 Avenida De Despacio Yorba Linda, CA 92887"
+],
+[
+"Incoterm: DAP\nDefinition",
+"Including origin export clearance and international freight\nExcluding destination customs clearance and import duties.\nIncluding on-carriage delivery to the shipping address after customs release"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(UNIT)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"Seller: STC-110FE\n\nBuyer: MC100SC03",
+"Ethernet Media Converter\n\n1*100M Fiber+1*10/100M Ethernet, SC Connector\nSinglemode 20Km, Non-PoE, Unmanaged, DC5V input\nWith fixed optical module, With power adapter\nWith DIP Function(See our datasheet)",
+"",
+"",
+"10",
+"15",
+"150",
+"With \nClient Logo"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Product size: 95*71*27mm\nInner box size: 230*125*54.6mm\nProduct weight: 0.2Kg\nPacking weight: 0.35Kg"
+],
+[
+"Shipping Cost",
+"100USD for about 5Kg volume weight to USA by UPS\nair, door-to-door service\n4~6 calendar days to reach at local customs for clearance",
+"",
+"",
+"",
+"",
+"100"
+],
+[
+"Printing Cost",
+"For making the printing template materials, one-time charge",
+"",
+"",
+"",
+"",
+"50"
+],
+[
+"Bank Cost",
+"Standard Charge in EACH Order",
+"",
+"",
+"",
+"",
+"25"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"10",
+"",
+"325"
+],
+[
+"SAY TOTAL: USD THREE HUNDRED AND TWENTY FIVE ONLY"
+],
+[
+"About Import"
+],
+[
+"Please do make sure client side could handle import customs clearance"
+],
+[
+"If there is any problem with the shipment or clearance"
+],
+[
+"1, please let us know ASAP"
+],
+[
+"2, please call DHL/FedEx/UPS official number for information"
+],
+[
+"Business Term"
+],
+[
+"1. Price validity: 15 days"
+],
+[
+"2. Payment term",
+"Sample: Full Payment by PayPal or T/T Wire"
+],
+[
+"",
+"Batch: Full Payment by T/T Wire"
+],
+[
+"",
+"Bulk: 50% T/T Wire in advance and 50% BEFORE shipment"
+],
+[
+"3. MoQ: 1 piece"
+],
+[
+"Sample: available"
+],
+[
+"Label: customizable"
+],
+[
+"Partial shipment: negotiable"
+],
+[
+"4. Non-brand packing, without Chinese letters or logo"
+],
+[
+"5. Country of origin: China"
+],
+[
+"Certificate of Origin is available upon request, please inform us BEFORE shipment if required"
+],
+[
+"6. Production time: 4~7 days (Excluding shipping time)"
+],
+[
+"7. Warranty: 1 year, lifetime technical support"
+],
+[
+"Purchased items are deemed accepted upon initial inspection if no written notice of defects is received within two (2) months from the delivery date"
+],
+[
+"This acceptance clause shall not affect the validity of the warranty period"
+],
+[
+"Please refer to \"warranty policy\" for more information"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:32:09Z"
+}

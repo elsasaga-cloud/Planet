@@ -1,0 +1,28 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__1st_order__16031_中性包装盒_312x262x84mm_千兆16口24口交换机_v23.07.01.pdf__d537f259",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/1st order/16031 中性包装盒 312x262x84mm 千兆16口24口交换机 v23.07.01.pdf",
+"name":"16031 中性包装盒 312x262x84mm 千兆16口24口交换机 v23.07.01.pdf",
+"ext":".pdf",
+"bytes":87414,
+"sha256":"d537f259836124ccc210fd922a2c279004a23315ec22d5a203bee1229a4d99c0",
+"source":"PI.zip",
+"method":"pdfplumber+OCR(1p)",
+"status":"ok",
+"meta":{
+"pages":1,
+"title":"HR901-AFG-82NS千兆内电包装盒  ZX 20.8.28.cdr",
+"author":"Administrator",
+"creator":"Adobe Illustrator CC 23.0 (Windows)",
+"producer":"Corel PDF Engine Version 20.1.0.708",
+"creationdate":"D:20230701155713+08'00'",
+"moddate":"D:20230701155728+08'00'",
+"ocr_pages":1
+},
+"warnings":[],
+"chars":49,
+"text":"[p1]\nMEAS:312 X 262 X 84mm\nWWiH78 xX ZOCXZLE\nsvaw",
+"pages":[
+"MEAS:312 X 262 X 84mm\nWWiH78 xX ZOCXZLE\nsvaw"
+],
+"extracted_at":"2026-10-22T08:04:31Z"
+}

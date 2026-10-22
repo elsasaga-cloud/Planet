@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__1st_order_sample_3层10G_24口_48口__货款支付记录.jpg__13923388",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/1st order sample  3层10G 24口 48口/货款支付记录.jpg",
+"name":"货款支付记录.jpg",
+"ext":".jpg",
+"bytes":59848,
+"sha256":"13923388aeae03205e52908dbd7cf4f1341c94ab93b9faeeb1927b5559e49986",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":4297
+},
+"warnings":[],
+"chars":242,
+"text":"4:38 all > Ge\n< 转账 记录 查询 Oo ©\n一 网 通 所 有 银行 卡 ~ 本 月\n以 输入 姓名 /卡号 /手机 号 / 附 言 搜索\n转 出 记录\n本 月\nBite ( 尾 号 6004) - ¥ 6,000.00\n今天 16:38 已 汇 出\n说 明 :\n1、 您 可 選擇 一 卡 通 、 交 易 時 間 , 查詢 該 卡 在 指定 交易 時 間 段 內\n的 自助 转账 记录 。\n2、 如 需 查询 距 今年 以 上 的 转账 记录 ， 请 前 往 收 支",
+"extracted_at":"2026-10-22T07:38:06Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__1st_order_sample_3层10G_24口_48口__货款支付记录.jpg__13923388.jpg"
+}

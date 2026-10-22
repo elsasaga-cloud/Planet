@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__16_美国_John_PayPal_gg__Shipment_Info__product_label.png__d69a94af",
+"path":"PI/PI/16 美国 John PayPal gg/Shipment Info/product label.png",
+"name":"product label.png",
+"ext":".png",
+"bytes":39332,
+"sha256":"d69a94afd80e1d504bb6051e377fecfdd33a83aa9d1223a18130e85520c6bdc1",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":660,
+"height":443,
+"mode":"RGBA",
+"thumb_bytes":13877
+},
+"warnings":[],
+"chars":134,
+"text":"Industrial Switch\nModel: STI-288GP\nPorts: 8*10/100/1000M RJ45 PoE + 2*1G SFP\nPower Input: DC 44-57V C € KC\nUMC OTA TT\nSN: 202507180001",
+"extracted_at":"2026-10-22T07:29:32Z",
+"thumb":"thumbs/PI__PI__16_美国_John_PayPal_gg__Shipment_Info__product_label.png__d69a94af.jpg"
+}

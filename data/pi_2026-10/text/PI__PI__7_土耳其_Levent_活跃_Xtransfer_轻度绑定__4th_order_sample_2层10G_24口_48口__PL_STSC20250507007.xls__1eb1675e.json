@@ -1,0 +1,156 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__4th_order_sample_2层10G_24口_48口__PL_STSC20250507007.xls__1eb1675e",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/4th order sample  2层10G 24口 48口/PL_STSC20250507007.xls",
+"name":"PL_STSC20250507007.xls",
+"ext":".xls",
+"bytes":148480,
+"sha256":"1eb1675e15c70f6d92a7e0e29a9d0f2c1e78e4c870dca29a8e33ba47b770c4bc",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Packing List"
+],
+"rows_total":19
+},
+"warnings":[],
+"chars":863,
+"text":"--- Sheet: Packing List ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nMob/WhatsApp/WeChat: 86 15237149683\nWeb: www.sagatelecom.com.cn\nEmail: s.sagatelecom@gmail.com\nPacking  List\nDate\t2025.05.12\t\t\t\t\t\t\t\tP/O No.\nShip To\tANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.\t\t\t\t\t\t\t\tP/I No.\tSTSC20250507007\nShipping Add.\tÇamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle  06200 Ankara Turkey\t\t\t\t\t\t\t\tP/L No.\tPL20250512001\nC/No.:\tDESCRIPTION\tQTY/CTN\tQTY/PCS\tCTNS\tN.W/Kg\tG.W/Kg\tLENGTH/CM\tWIDTH/CM\tHEIGHT/CM\tMEAS/CM³\n1\tANW-2224-PX\t3\t3\t1\t17\t18\t53.5\t40\t40.8\t0.087312\n\tANW-2248-PX\t1\t1\n2\tANW-2248-PX\t2\t2\t1\t10.3\t11.3\t53.5\t20.5\t40.8\t0.044747\nTOTAL\t\t\t6\t2\t27.3\t29.3\t\t\t\t0.132059\nSAY TOTAL: TWO(2)CARTONS ONLY\nQUANTITY: SIX PCS ONLY\nIssued by: Zhengzhou Saga Telecom Co., Ltd.\nSimon Cheng",
+"sheets":{
+"Packing List":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Tailored Marvell Managed Networking Solutions Provider"
+],
+[
+"Mob/WhatsApp/WeChat: 86 15237149683"
+],
+[
+"Web: www.sagatelecom.com.cn"
+],
+[
+"Email: s.sagatelecom@gmail.com"
+],
+[
+"Packing  List"
+],
+[
+"Date",
+"2025.05.12",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"P/O No."
+],
+[
+"Ship To",
+"ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"P/I No.",
+"STSC20250507007"
+],
+[
+"Shipping Add.",
+"Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle  06200 Ankara Turkey",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"P/L No.",
+"PL20250512001"
+],
+[
+"C/No.:",
+"DESCRIPTION",
+"QTY/CTN",
+"QTY/PCS",
+"CTNS",
+"N.W/Kg",
+"G.W/Kg",
+"LENGTH/CM",
+"WIDTH/CM",
+"HEIGHT/CM",
+"MEAS/CM³"
+],
+[
+"1",
+"ANW-2224-PX",
+"3",
+"3",
+"1",
+"17",
+"18",
+"53.5",
+"40",
+"40.8",
+"0.087312"
+],
+[
+"",
+"ANW-2248-PX",
+"1",
+"1"
+],
+[
+"2",
+"ANW-2248-PX",
+"2",
+"2",
+"1",
+"10.3",
+"11.3",
+"53.5",
+"20.5",
+"40.8",
+"0.044747"
+],
+[
+"TOTAL",
+"",
+"",
+"6",
+"2",
+"27.3",
+"29.3",
+"",
+"",
+"",
+"0.132059"
+],
+[
+"SAY TOTAL: TWO(2)CARTONS ONLY"
+],
+[
+"QUANTITY: SIX PCS ONLY"
+],
+[
+"Issued by: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Simon Cheng"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:44:14Z"
+}

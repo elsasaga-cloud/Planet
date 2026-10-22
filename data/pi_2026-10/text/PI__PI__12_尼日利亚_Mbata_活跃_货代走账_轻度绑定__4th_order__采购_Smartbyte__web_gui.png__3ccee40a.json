@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__4th_order__采购_Smartbyte__web_gui.png__3ccee40a",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/4th order/采购_Smartbyte/web gui.png",
+"name":"web gui.png",
+"ext":".png",
+"bytes":124292,
+"sha256":"3ccee40af7f1744b6c2e59b86b5cef623054f739ab971f9ff7e491bbc4b1cdd8",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1771,
+"height":1188,
+"mode":"RGBA",
+"thumb_bytes":8888
+},
+"warnings":[],
+"chars":495,
+"text":"a 从\n= Monitor Q\nOverview :\nSystem Information CPU Memory\nProduct ID : BNSC-424DGGPM\nProduct SN: 11111\n46.66%\nMAC Address : 60-66-36-62-D9-35\n72.46%\nHardware Version : V1.0\nSoftware Version : release/7.4.0 (r1441 3ccd17e) 2025-06-19 02:05:30\nUptime :\nTemperature(‘C) : |\n了\n(seleced [Acpon PY Trunk Port Papor EY up [LY] shutdown fly Error-down [] copper [5] Fiber\n18 16 14 12 10 8 6 4 2\n7 6 3 1 8 7 5 3 1\nTraffic tengigabitéthernet0/18 Kbps » Configuration\n-Or- Ix Traffic Rx Traffic\nKbps\n25\n2\n15",
+"extracted_at":"2026-10-22T08:01:04Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__4th_order__采购_Smartbyte__web_gui.png__3ccee40a.jpg"
+}

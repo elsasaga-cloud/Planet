@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__9_马来西亚_Sugito_gg__2nd_order__结汇__银行报文.jpg__0d4a887a",
+"path":"PI/PI/9 马来西亚 Sugito gg/2nd order/结汇/银行报文.jpg",
+"name":"银行报文.jpg",
+"ext":".jpg",
+"bytes":392582,
+"sha256":"0d4a887aece30069cdc3d4f456eb2ba79a268634de66587f63dcbd63a1825338",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1080,
+"height":1920,
+"mode":"RGB",
+"thumb_bytes":7164
+},
+"warnings":[],
+"chars":276,
+"text":"[2:0 1030000991231 CHASUS33KXXX000000000099123190008)\n3:(121focad 127 -0265-439-bd15-295dc 1918047)\n20:1008682194)S\n23B-CRED\n上 2A240715USD1356,，\n33B:USD1356，\nOF 121438900064273\nPAY TRANSFERS SDN_ BHD.\n- 13A01, LEVEL 13A\nBAMYITROPICANA GARDENS OFFICE TOWER\n3/.47810, SELANGOR\n4",
+"extracted_at":"2026-10-22T07:30:27Z",
+"thumb":"thumbs/PI__PI__9_马来西亚_Sugito_gg__2nd_order__结汇__银行报文.jpg__0d4a887a.jpg"
+}

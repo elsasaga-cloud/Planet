@@ -1,0 +1,25 @@
+{
+"id":"PI__PI__3_赞比亚_Pythias_gg__仓库.MP4__5812f8bd",
+"path":"PI/PI/3  赞比亚 Pythias gg/仓库.MP4",
+"name":"仓库.MP4",
+"ext":".mp4",
+"bytes":43520614,
+"sha256":"5812f8bdd4feb0366fbe5f1aa4e33a8125610aecfc97b3cf034ba797e1b55795",
+"source":"PI.zip",
+"method":"ffprobe+ffmpeg",
+"status":"meta",
+"meta":{
+"duration_s":29.8,
+"width":1920,
+"height":1080,
+"vcodec":"hevc",
+"acodec":"aac",
+"creation_time":"2024-02-01T03:46:16.000000Z",
+"thumb_bytes":11654
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:47:56Z",
+"thumb":"thumbs/PI__PI__3_赞比亚_Pythias_gg__仓库.MP4__5812f8bd.jpg"
+}

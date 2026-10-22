@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__1st_order_sample_3层10G_24口_48口__logo.png__37a9a8dc",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/1st order sample  3层10G 24口 48口/logo.png",
+"name":"logo.png",
+"ext":".png",
+"bytes":68835,
+"sha256":"37a9a8dccd82c2c7c0a3fc44c1786e8a61a783dd7349c14b2ea998af57e02a5c",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":481,
+"height":516,
+"mode":"RGBA",
+"thumb_bytes":13197
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:37:55Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__1st_order_sample_3层10G_24口_48口__logo.png__37a9a8dc.jpg"
+}

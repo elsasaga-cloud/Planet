@@ -1,0 +1,27 @@
+{
+"id":"PI__PI__11_新加坡_Au_gg__NEW_PVC_2025.3.17.jpg__59fd2b2a",
+"path":"PI/PI/11 新加坡 Au gg/NEW PVC 2025.3.17.jpg",
+"name":"NEW PVC 2025.3.17.jpg",
+"ext":".jpg",
+"bytes":1491374,
+"sha256":"59fd2b2aaccb53ae5da368114d3649d0f298d97e8ceb2da0ddb58311443b3427",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":4950,
+"height":3569,
+"mode":"RGB",
+"datetime":"2024:10:21 18:10:12",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":4125
+},
+"warnings":[],
+"chars":54,
+"text":"10G Link/Act\n16/2.5G Link/Act\n10G Web Managed Switch\n1",
+"extracted_at":"2026-10-22T07:50:54Z",
+"thumb":"thumbs/PI__PI__11_新加坡_Au_gg__NEW_PVC_2025.3.17.jpg__59fd2b2a.jpg"
+}

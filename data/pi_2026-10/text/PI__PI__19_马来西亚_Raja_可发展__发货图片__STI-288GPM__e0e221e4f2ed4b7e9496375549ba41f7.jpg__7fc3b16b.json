@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__19_马来西亚_Raja_可发展__发货图片__STI-288GPM__e0e221e4f2ed4b7e9496375549ba41f7.jpg__7fc3b16b",
+"path":"PI/PI/19 马来西亚 Raja 可发展/发货图片/STI-288GPM/e0e221e4f2ed4b7e9496375549ba41f7.jpg",
+"name":"e0e221e4f2ed4b7e9496375549ba41f7.jpg",
+"ext":".jpg",
+"bytes":942601,
+"sha256":"7fc3b16b548fb10b26ca0fa66e44d492171ab3e4482ded9dd73bdcfe97cd4d37",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1823,
+"height":1280,
+"mode":"RGB",
+"thumb_bytes":13265
+},
+"warnings":[],
+"chars":2764,
+"text":"User Manual\nMany thanks for your purchase.\nPlease read this user manual for safe and correct use.\n@ The information described in this manual is ONLY\nabout general information, please refer to the actual\nproduct purchased.\n@ It is advised to keep the user manual properly.\n@ Please let us know for any usage problem or query.\nPacking List\n1*Switch(See the product label for more details)\n1*Wall Hanger(Shared mounting holes with DIN Rail Kit)\n1*Console Cable(USB to RJ45 Connector)\n1*User Manual(Printed Copy)\nApplication\n@ Any network utilizing a mixture of copper and fiber\n@ IP connectivity and communication\n@ CCTV system such as network camera, access control\nKey Features\nEco-friendly metal case, plug-and-play\nAC/DC redundant power input\nRich Led indicators for real-time monitoring\nResilient to ESD, EML and power surges\nCompliant with industrial testing standard\nLayer 2/Layer 3 covering static and dynamic routing, ARP\nECMP, IPV4/IPV6, VRRP, RIP, OSPF, BGP4, IS-IS,\nVLAN, STP/RSTP/MSTP, QoS, Ring, SNMP viiv2ciy3,\nMAC address, IPV4/IPV6, Web/TeinevCLUSSH, Standard\nMIB...\n7. Wide port combination(2/4/5/6/8/9/1 0/12/16/20/28/52)\n8. Rich speed choices 100M/1000M/2.5G/10G for co\ndistribution layer, and access layer applications\nMA\nre layer,\nLED Indicator\nP: Power, Green Color\nOn: power status is normal\nOff: power off or power connection failure\nS: System indicator, Green Color\nOn: Normal operation\nOff: Connection failure\nBlinking: Device initialization\nCopper Status, Green Color\nOn: port link up\nBlinking: data is in normal transmission\nOff: port link down\nCopper Speed, Yellow Color\n@ PoE Models\nOn: PoE working; Off: PoE not working\n@ Non-PoE Models\nOn: port speed is 1000M\nOff: port speed is 10/100M\nFiber port, Green Color\nOn: port link up\nOff: port link down\nBlinking: data is in normal transmission\nReset Button\nRestore factory settings, long press>8 seconds\nMechanical Drawing(Reference Only)\ni\n!\n由\n|\nMAUUUUUWUUUUUUUUUI\n|\nNNT\ncy\nLogin Interface\nIP address login\n1. Open browser and enter 192.168.x.xxx in the address\nbar.(Google browser is recommended)\n2. Default IP Address: 192.168.56.166\n3. Username/Password: Both are “admin”\nConsole port login\nCommon serial port software includes SecureCRT and\nputty. Take SecureCRT for an example.\n1. Open the SecureCRT, select “New session”.\n2. Select “Serial”, click “Next”.\n3. Select relative COM port, baud rate 115200, flow\ncontrol and delete the \"V\" on the RTS/CTS selection\nbar, click “Next”, then click “Ok”\n4. Click “Enter”, put in user name/password “admin”.\n“TWh seria comto -SecurecR? 加\npan Taner sence Tools re -\nS8G28 58 355\n= cousin\nTBI 全\nee\nse\nms su ee ee de aa Ghent ee ae\nThis is only a simple introduction to the login method,\nplease refer to the Web manual/CLI manual or talk with us",
+"extracted_at":"2026-10-22T07:50:56Z",
+"thumb":"thumbs/PI__PI__19_马来西亚_Raja_可发展__发货图片__STI-288GPM__e0e221e4f2ed4b7e9496375549ba41f7.jpg__7fc3b16b.jpg"
+}

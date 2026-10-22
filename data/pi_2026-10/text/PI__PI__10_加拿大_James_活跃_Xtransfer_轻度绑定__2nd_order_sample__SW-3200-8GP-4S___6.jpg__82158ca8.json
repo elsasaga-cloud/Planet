@@ -1,0 +1,24 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__2nd_order_sample__SW-3200-8GP-4S___6.jpg__82158ca8",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/2nd order sample/SW-3200-8GP-4S+/6.jpg",
+"name":"6.jpg",
+"ext":".jpg",
+"bytes":4670225,
+"sha256":"82158ca8f634f70c4632d8945ae22b277ad767bf7fcaed91100cbc3ab76c6f87",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":3072,
+"height":3072,
+"mode":"RGB",
+"software":"FOA-AL00 4.0.0.113(C00E112R4P2)",
+"thumb_bytes":12801
+},
+"warnings":[],
+"chars":239,
+"text":"Industrial Switch\nModel: SW-3200-8GP-4S+\nPorts: 8*10/100/1000M RJ45 PoE + 4*1G/2.5G/10G SFP+\nPower input: DC 44-57V\nPoE Budget: 240W\nIM a a Fe\nSN: 20241225001\nIP Address: 192.168.1.30 MAC: FC-CD-2F-D0-45-97\nUser name: admin Password: admin",
+"extracted_at":"2026-10-22T07:57:17Z",
+"thumb":"thumbs/PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__2nd_order_sample__SW-3200-8GP-4S___6.jpg__82158ca8.jpg"
+}

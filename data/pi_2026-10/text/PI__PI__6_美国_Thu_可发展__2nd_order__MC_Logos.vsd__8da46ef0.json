@@ -1,0 +1,27 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__2nd_order__MC_Logos.vsd__8da46ef0",
+"path":"PI/PI/6 美国 Thu 可发展/2nd order/MC Logos.vsd",
+"name":"MC Logos.vsd",
+"ext":".vsd",
+"bytes":501248,
+"sha256":"8da46ef02ea5539e6c02b354800c6a094d34df9ea94c3bd74e2ca84ffba9463f",
+"source":"PI.zip",
+"method":"soffice→pdf→pdfplumber",
+"status":"ok",
+"meta":{
+"pages":1,
+"creator":"Draw",
+"producer":"LibreOffice 24.2",
+"creationdate":"D:20261022073231Z'",
+"ocr_pages":0,
+"thumb_bytes":11935
+},
+"warnings":[],
+"chars":191,
+"text":"[p1]\nV\nL\nFiber Optic 10G Media Converter\nEthernet 10G Base-TX to Ethernet 10G SFP\nConversion\nVi-\nFiber Optic\nLink\nMC140\nCommunications\nModel:\n0\nVi-\nFiber Optic\nLink\nCommunications\nModel:MC10G",
+"pages":[
+"V\nL\nFiber Optic 10G Media Converter\nEthernet 10G Base-TX to Ethernet 10G SFP\nConversion\nVi-\nFiber Optic\nLink\nMC140\nCommunications\nModel:\n0\nVi-\nFiber Optic\nLink\nCommunications\nModel:MC10G"
+],
+"extracted_at":"2026-10-22T07:32:32Z",
+"thumb":"thumbs/PI__PI__6_美国_Thu_可发展__2nd_order__MC_Logos.vsd__8da46ef0.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__1st_order_sample_3层10G_24口_48口__出货__ANW-3108-PG__2.png__01668efc",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/1st order sample  3层10G 24口 48口/出货/ANW-3108-PG/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":144393,
+"sha256":"01668efced3aa21d622b9b72d31828edc6a525844355e00db7893b366247a67d",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1920,
+"height":1080,
+"mode":"RGBA",
+"thumb_bytes":7372
+},
+"warnings":[],
+"chars":643,
+"text":"让)\n& Overview - Switch\nx) t+ v x\nca © & 192.168,56.166/#/monitor/dashboard 2\nangera Monitor v / ©\nress oo |\nOverview\nSystem Information\nolvig\nCPU Memory\nProduct ID : ANW-3108-PG\n20%\nProduct SN : 20240509001\nMAC Address : FC-CD-2F-D0-3C-9D 5a17%\n99.71%\nHardware Version : V1.3\nSoftware Version : release/7.1.0 (957 74ad5d5) 2024-04-23 18:47:10\nUptime : 00:01\nTY selected [7] AG Port P] trunk Port P] 3 Port (HB ue [EE] shutdown fll ercor-down [J copper [] Fiber\n5 7\n6 8 9 10\nTraffic gigabitEtherneto/1 Kbps » Port Configuration\n~O> Tx Traffic “O> Rx Traffic\nKops\n02\nFB serial-come - Sec.\n4 S858 ts.\n§f& Megatops VaTFT.\n134448\ne\n圖 ix © 2024/5/14",
+"extracted_at":"2026-10-22T07:38:48Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__1st_order_sample_3层10G_24口_48口__出货__ANW-3108-PG__2.png__01668efc.jpg"
+}

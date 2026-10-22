@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__入账记录_2.14.PNG__5c2ff778",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/2nd order/入账记录 2.14.PNG",
+"name":"入账记录 2.14.PNG",
+"ext":".png",
+"bytes":107024,
+"sha256":"5c2ff778fa37399d6e4cf9989c97ddfba972318541f0cff4f0a64c9b85b3bb1f",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":5247
+},
+"warnings":[],
+"chars":241,
+"text":"6:33 a 全 四\n交易 详情 g .时\n© 謠 寶 支付 CB\n+ ¥ 9,620.00\nRAM ¥ 28,668.15\n交易 卡号 一 卡通 6214********1962\n交易 时 间 2025-02-14 14:23:25\n付款 账号 10*****#**31\n付款 银行 中 国 银联 成 员 机 构\n银行 交易 类 型 银联 代 付\n免费 领 价值 约 1 元 黄金 红包\n分 类 El) 他 人 轉 入\n所 属 账本 请 选择\n不 计 入 本 月 收 支\n备注\n器",
+"extracted_at":"2026-10-22T07:51:46Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__入账记录_2.14.PNG__5c2ff778.jpg"
+}

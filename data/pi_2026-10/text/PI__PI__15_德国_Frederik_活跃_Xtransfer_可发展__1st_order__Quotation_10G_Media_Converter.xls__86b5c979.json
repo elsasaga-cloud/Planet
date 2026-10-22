@@ -1,0 +1,143 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__1st_order__Quotation_10G_Media_Converter.xls__86b5c979",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/1st order/Quotation_10G Media Converter.xls",
+"name":"Quotation_10G Media Converter.xls",
+"ext":".xls",
+"bytes":167424,
+"sha256":"86b5c979e61433a7a1812b3ef76cad8ee6109f44c7829a6c1825eb23c20cea00",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Quotation"
+],
+"rows_total":24
+},
+"warnings":[],
+"chars":1685,
+"text":"--- Sheet: Quotation ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob/WhatsApp/WeChat: 86 15237149683                     www.sagatelecom.com.cn                  Email: s.sagatelecom@gmail.com\n***********************************************************************************************************************************\nQuotation\nBuyer:\tNYNEX satellite OHG\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t49 6151 500 74 - 119\t\tQuoted By:\tSimon Cheng\nEmail:\tf.kriewitz@nynex.de\t\tDate:\t12th, Dec, 2024\nContact Person:\tFrederik Kriewitz\t\tPrice Term:\tEXW\nDestination\tRobert-Bosch-Str. 20, 64293 Darmstadt, Germany\nModel\tSpecification\t\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSTC-110XGE\tEthernet Media Converter\n\n1*10G SFP+ Fiber slot+1*100M/1G/2.5G/5G/10G Ethernet\nNon-PoE, Unmanaged, DC5V input, Marvell based\nWithout optical module, With power adapter\nEthernet speed is auto-adaptive\nFiber speed does NOT support 100M/1G/2.5G\t\t\t1\t75\t75\tNeutral Device\n\t\t\t\t100\t70\t7000\n\t\t\t\t500\t65\t32500\nGoogle Drive Link\thttps://drive.google.com/drive/folders/1qr3E3QhLxaHMiETWrjHaDQLlFOD6VLTA?usp=drive_link\nPrice validity: 30 days\nSaga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply.\nNon-brand packing, without Chinese letters or logo\nNeutral device\nCountry of origin: China\nWarranty: 1 year, lifetime technical support\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" for more information.",
+"sheets":{
+"Quotation":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob/WhatsApp/WeChat: 86 15237149683                     www.sagatelecom.com.cn                  Email: s.sagatelecom@gmail.com"
+],
+[
+"***********************************************************************************************************************************"
+],
+[
+"Quotation"
+],
+[
+"Buyer:",
+"NYNEX satellite OHG",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"49 6151 500 74 - 119",
+"",
+"Quoted By:",
+"Simon Cheng"
+],
+[
+"Email:",
+"f.kriewitz@nynex.de",
+"",
+"Date:",
+"12th, Dec, 2024"
+],
+[
+"Contact Person:",
+"Frederik Kriewitz",
+"",
+"Price Term:",
+"EXW"
+],
+[
+"Destination",
+"Robert-Bosch-Str. 20, 64293 Darmstadt, Germany"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"STC-110XGE",
+"Ethernet Media Converter\n\n1*10G SFP+ Fiber slot+1*100M/1G/2.5G/5G/10G Ethernet\nNon-PoE, Unmanaged, DC5V input, Marvell based\nWithout optical module, With power adapter\nEthernet speed is auto-adaptive\nFiber speed does NOT support 100M/1G/2.5G",
+"",
+"",
+"1",
+"75",
+"75",
+"Neutral Device"
+],
+[
+"",
+"",
+"",
+"",
+"100",
+"70",
+"7000"
+],
+[
+"",
+"",
+"",
+"",
+"500",
+"65",
+"32500"
+],
+[
+"Google Drive Link",
+"https://drive.google.com/drive/folders/1qr3E3QhLxaHMiETWrjHaDQLlFOD6VLTA?usp=drive_link"
+],
+[
+"Price validity: 30 days"
+],
+[
+"Saga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply."
+],
+[
+"Non-brand packing, without Chinese letters or logo"
+],
+[
+"Neutral device"
+],
+[
+"Country of origin: China"
+],
+[
+"Warranty: 1 year, lifetime technical support"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" for more information."
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:34:09Z"
+}

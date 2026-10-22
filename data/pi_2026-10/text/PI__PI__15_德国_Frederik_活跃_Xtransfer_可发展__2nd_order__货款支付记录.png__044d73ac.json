@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__货款支付记录.png__044d73ac",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/2nd order/货款支付记录.png",
+"name":"货款支付记录.png",
+"ext":".png",
+"bytes":94522,
+"sha256":"044d73ac8c602d4d7eb562a7befc969abb275db965be9b0a7106b07b356b0f88",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":5658
+},
+"warnings":[],
+"chars":192,
+"text":"6:51\n收 款 账户\n付款 账户\n转账 附 言\n转账 渠 道\n转账 方式\n© 转账 完成\nall 4G @\n转账 记录 查询 =\n转 给 罗 辉\n-¥ 1,520.00\n6214 3913 3000 0617 588\n6214********1962\n转账\n手机 银行\n电子 银行 转账\nae\nri\n(ot\na\n2025-09-22 18:51:14\n查看 和 TA 的 转账 记录",
+"extracted_at":"2026-10-22T07:33:49Z",
+"thumb":"thumbs/PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__货款支付记录.png__044d73ac.jpg"
+}

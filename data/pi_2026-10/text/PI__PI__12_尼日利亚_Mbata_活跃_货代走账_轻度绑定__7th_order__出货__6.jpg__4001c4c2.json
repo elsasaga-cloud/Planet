@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__7th_order__出货__6.jpg__4001c4c2",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/7th order/出货/6.jpg",
+"name":"6.jpg",
+"ext":".jpg",
+"bytes":1096490,
+"sha256":"4001c4c254dd721c080b11814bb355907fa869f8958663ff85e0cd936b1e1e75",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":3344,
+"height":1507,
+"mode":"RGB",
+"thumb_bytes":6051
+},
+"warnings":[],
+"chars":19,
+"text":"“1G/2.5G SFP\ni\nae\nU",
+"extracted_at":"2026-10-22T08:00:43Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__7th_order__出货__6.jpg__4001c4c2.jpg"
+}

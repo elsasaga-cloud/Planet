@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__17_英国_Chris_PayPal_可发展__Shipment_Info__shipping_label.png__c5aea77a",
+"path":"PI/PI/17 英国 Chris PayPal 可发展/Shipment Info/shipping label.png",
+"name":"shipping label.png",
+"ext":".png",
+"bytes":22333,
+"sha256":"c5aea77a41078aac084bacbea705941695e0eccabdc508713ab03b193c95758c",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":594,
+"height":586,
+"mode":"RGB",
+"thumb_bytes":14199
+},
+"warnings":[],
+"chars":156,
+"text":"Product name: Industrial Switch\nModel: STI-42424XGGPM-4BT\nQty.: 1PCS | 則 IM\n1\nSN: __ 呻 耳 間 昌 同 是\n202S08270001\nWeight: 2.9 KG 31*23.5*18.5CM\nCarton No.: 1 /1",
+"extracted_at":"2026-10-22T07:59:58Z",
+"thumb":"thumbs/PI__PI__17_英国_Chris_PayPal_可发展__Shipment_Info__shipping_label.png__c5aea77a.jpg"
+}

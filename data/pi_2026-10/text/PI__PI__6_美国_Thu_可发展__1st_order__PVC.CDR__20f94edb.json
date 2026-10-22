@@ -1,0 +1,27 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__1st_order__PVC.CDR__20f94edb",
+"path":"PI/PI/6 美国 Thu 可发展/1st order/PVC.CDR",
+"name":"PVC.CDR",
+"ext":".cdr",
+"bytes":76176,
+"sha256":"20f94edbf7958d2003c4a97ca0cb120fdf22de7d78ab1d1bab6de477e1cdbbf9",
+"source":"PI.zip",
+"method":"soffice→pdf→pdfplumber+OCR(0p)",
+"status":"meta",
+"meta":{
+"pages":1,
+"creator":"Draw",
+"producer":"LibreOffice 24.2",
+"creationdate":"D:20261022073259Z'",
+"ocr_pages":0,
+"thumb_bytes":835
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"pages":[
+""
+],
+"extracted_at":"2026-10-22T07:33:01Z",
+"thumb":"thumbs/PI__PI__6_美国_Thu_可发展__1st_order__PVC.CDR__20f94edb.jpg"
+}

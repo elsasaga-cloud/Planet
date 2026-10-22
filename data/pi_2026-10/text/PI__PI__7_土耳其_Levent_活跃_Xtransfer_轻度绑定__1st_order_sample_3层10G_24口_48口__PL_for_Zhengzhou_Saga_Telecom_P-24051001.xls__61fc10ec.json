@@ -1,0 +1,120 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__1st_order_sample_3层10G_24口_48口__PL_for_Zhengzhou_Saga_Telecom_P-24051001.xls__61fc10ec",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/1st order sample  3层10G 24口 48口/PL for Zhengzhou Saga Telecom P-24051001.xls",
+"name":"PL for Zhengzhou Saga Telecom P-24051001.xls",
+"ext":".xls",
+"bytes":273920,
+"sha256":"61fc10ec2f5523e35520fbb19365962d5e708422b7bcd4f8b4a7df2da0cb3127",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Sheet1",
+"Sheet2",
+"Sheet3"
+],
+"rows_total":18
+},
+"warnings":[],
+"chars":1062,
+"text":"--- Sheet: Sheet1 ---\nShenzhen SmartByte Technology Co.,Ltd\nPACKING  LIST\nINVOICE NO.: P-24051001\nConsigner: Shenzhen SmartByte Technology Co.,Ltd\nAdd.:Room 204, Phase 2, Xin Hongze Industrial Area, Kukeng Community, Guanlan, Longhua District, Shenzhen, China\nTel:+ 86-137-1429-3521\nAttn: peter\nConsignee: Zhengzhou Saga Telecom Co., Ltd.\nAdd: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nTel:  +86-1523714-9683\nAttn: Simon Cheng\nCarton No.\tItem\tDescription\tQTY\n(pcs)\tN/W\n(kg)\tG/W\n(kg)\tDimension(CBM)\n#1\tANW-3108-PG\tCommercial switch with 8*10/100/1000Base-T RJ45 PoE+2*1G/2.5GBase-X SFP\t2\t2.5\t3\t(31*23.5*18.5)cm=0.01\n#2\tANW-3124-PX\tCommercial switch with 24*10/100/1000Base-T RJ45 PoE+4*1G/2.5G/10GBase-X SFP+\t1\t9.6\t10.6\t(53.5*20.5*40.8)cm=0.04\n\tANW-3148-PX\tCommercial switch with 48*10/100/1000Base-T RJ45 PoE+4*1G/2.5G/10GBase-X SFP+\t1\nTOTAL\t\t2 Cartons\t4\t12.1\t13.6\t0.05 CBM\n\t\tSign & Stamp:\nTel: + 86-755-2868 7362\t\twebsite: www.smartbyte-switch.com\n--- Sheet: Sheet2 ---\n--- Sheet: Sheet3 ---",
+"sheets":{
+"Sheet1":{
+"rows":[
+[
+"Shenzhen SmartByte Technology Co.,Ltd"
+],
+[
+"PACKING  LIST"
+],
+[
+"INVOICE NO.: P-24051001"
+],
+[
+"Consigner: Shenzhen SmartByte Technology Co.,Ltd"
+],
+[
+"Add.:Room 204, Phase 2, Xin Hongze Industrial Area, Kukeng Community, Guanlan, Longhua District, Shenzhen, China"
+],
+[
+"Tel:+ 86-137-1429-3521"
+],
+[
+"Attn: peter"
+],
+[
+"Consignee: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Add: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Tel:  +86-1523714-9683"
+],
+[
+"Attn: Simon Cheng"
+],
+[
+"Carton No.",
+"Item",
+"Description",
+"QTY\n(pcs)",
+"N/W\n(kg)",
+"G/W\n(kg)",
+"Dimension(CBM)"
+],
+[
+"#1",
+"ANW-3108-PG",
+"Commercial switch with 8*10/100/1000Base-T RJ45 PoE+2*1G/2.5GBase-X SFP",
+"2",
+"2.5",
+"3",
+"(31*23.5*18.5)cm=0.01"
+],
+[
+"#2",
+"ANW-3124-PX",
+"Commercial switch with 24*10/100/1000Base-T RJ45 PoE+4*1G/2.5G/10GBase-X SFP+",
+"1",
+"9.6",
+"10.6",
+"(53.5*20.5*40.8)cm=0.04"
+],
+[
+"",
+"ANW-3148-PX",
+"Commercial switch with 48*10/100/1000Base-T RJ45 PoE+4*1G/2.5G/10GBase-X SFP+",
+"1"
+],
+[
+"TOTAL",
+"",
+"2 Cartons",
+"4",
+"12.1",
+"13.6",
+"0.05 CBM"
+],
+[
+"",
+"",
+"Sign & Stamp:"
+],
+[
+"Tel: + 86-755-2868 7362",
+"",
+"website: www.smartbyte-switch.com"
+]
+]
+},
+"Sheet2":{
+"rows":[]
+},
+"Sheet3":{
+"rows":[]
+}
+},
+"extracted_at":"2026-10-22T07:37:44Z"
+}

@@ -1,0 +1,247 @@
+{
+"id":"PI__PI__10_加拿大_James_活跃_Xtransfer_轻度绑定__1st_order_sample__STSC20240627010.xls__022d542e",
+"path":"PI/PI/10 加拿大 James 活跃 Xtransfer 轻度绑定/1st order sample/STSC20240627010.xls",
+"name":"STSC20240627010.xls",
+"ext":".xls",
+"bytes":4350464,
+"sha256":"022d542e3f1f4f3735e5b77924ad3a62c3091965347c19ade4543185c4c1046a",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Proforma Invoice"
+],
+"rows_total":46
+},
+"warnings":[],
+"chars":2915,
+"text":"--- Sheet: Proforma Invoice ---\nZhengzhou Saga Telecom Co., Ltd.\nAddress: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob/Whatsapp/Wechat: 86 15237149683                       www.sagatelecom.com.cn                     Email: s.sagatelecom@gmail.com\n********************************************************************************************************************\nProforma  Invoice\nPO No.\t\t\tInvoice No.:\tSTSC20240627010\nBuyer:\tJames Clendenan Systems Ltd.\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t1-604-910-5745\t\tIssued By:\tSimon Cheng\nEmail:\tjames@clendenan.ca\t\tInvoice Date:\t27th, June, 2024\nContact Person:\tJames Clendenan\t\tPayment Term:\tT/T in advance\nShipping Address\tJames Clendenan systems Ltd. 1543 bowser ave North Vancouver, bc Canada V7P 2Y4\nModel\tPhoto\tSpecification\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSTI-21616DGGPM\t\tIndustrial PoE Managed Switch\n2*100M/1G/2.5G Fiber+16*100M/1000M Copper\nPoE af/at, 240W budget, L2 Managed\nMarvell Chip, DC12V~DC58V(Removable 6 PIN Industrial Terminal Block), -40℃ to 75℃\nDin mounted, Without SFP module, Without power supply\t\t4\t215\t860\tWithout Enclosure\nPCB ONLY\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 158*115*54mm\nGross Weight: 1.4kg\n\tDesktop Power Supply\nAC100V~240V input, DC52V 3A output, 150W budget\nUS type power cord, Class IV efficiency, CE compliant\t\t\t5\t12\t60\tWithout CSA/UL\nCertification\nFreight Cost\t150Usd for about 10Kg volume weight to Canada by DHL\nair, door-to-door service\t\t\t\t\t150\nBank Cost\tStandard Charge for EACH Order\t\t\t\t\t25\nTOTAL\t\t\t\t9\t\t1095\nSAY TOTAL IN USD ONE THOUSAND AND NINTY FIVE DOLLARS ONLY\nRemark\nPlease do make sure client side could handle import customs clearance.\n1. Payment: Full payment to the below bank account before shipment.\nBank Information\nSWIFT/BIC code\tCHASHKHH (CHASHKHHXXX * if 11 characters are required)\nAccount Number\t63003662406\nAccount Name\tZhengzhou Saga Telecom Co., Ltd.\nBank Name\tJPMorgan Chase Bank N.A., Hong Kong Branch\nBank Address\t18/F, 20/F, 22-29/F, CHATER HOUSE, 8 CONNAUGHT ROAD CENTRAL, HONG KONG\nCountry/Region\tHong Kong\nType of Account\tBusiness Account\nBank Code\t007\nBranch Code\t863\n2. NOTE: Saga Telecom will not pay for any bank charge.\nPlease make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice.\n3. Leadtime: 3~5 working days\n4. Country of origin: China\n5. Non-brand packing, without Chinese letters or logo\nPackage Marks: None\nPacking list is available upon request\n6. Warranty: 3 years\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" for more information.\nBuyer: James Clendenan Systems Ltd.\t\t\tSeller: Zhengzhou Saga Telecom Co., Ltd.\nJames Clendenan\t\t\tSimon Cheng\nAuthorized Signature\t\t\tAuthorized Signature",
+"sheets":{
+"Proforma Invoice":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob/Whatsapp/Wechat: 86 15237149683                       www.sagatelecom.com.cn                     Email: s.sagatelecom@gmail.com"
+],
+[
+"********************************************************************************************************************"
+],
+[
+"Proforma  Invoice"
+],
+[
+"PO No.",
+"",
+"",
+"Invoice No.:",
+"STSC20240627010"
+],
+[
+"Buyer:",
+"James Clendenan Systems Ltd.",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"1-604-910-5745",
+"",
+"Issued By:",
+"Simon Cheng"
+],
+[
+"Email:",
+"james@clendenan.ca",
+"",
+"Invoice Date:",
+"27th, June, 2024"
+],
+[
+"Contact Person:",
+"James Clendenan",
+"",
+"Payment Term:",
+"T/T in advance"
+],
+[
+"Shipping Address",
+"James Clendenan systems Ltd. 1543 bowser ave North Vancouver, bc Canada V7P 2Y4"
+],
+[
+"Model",
+"Photo",
+"Specification",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"STI-21616DGGPM",
+"",
+"Industrial PoE Managed Switch\n2*100M/1G/2.5G Fiber+16*100M/1000M Copper\nPoE af/at, 240W budget, L2 Managed\nMarvell Chip, DC12V~DC58V(Removable 6 PIN Industrial Terminal Block), -40℃ to 75℃\nDin mounted, Without SFP module, Without power supply",
+"",
+"4",
+"215",
+"860",
+"Without Enclosure\nPCB ONLY"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 158*115*54mm\nGross Weight: 1.4kg"
+],
+[
+"",
+"Desktop Power Supply\nAC100V~240V input, DC52V 3A output, 150W budget\nUS type power cord, Class IV efficiency, CE compliant",
+"",
+"",
+"5",
+"12",
+"60",
+"Without CSA/UL\nCertification"
+],
+[
+"Freight Cost",
+"150Usd for about 10Kg volume weight to Canada by DHL\nair, door-to-door service",
+"",
+"",
+"",
+"",
+"150"
+],
+[
+"Bank Cost",
+"Standard Charge for EACH Order",
+"",
+"",
+"",
+"",
+"25"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"9",
+"",
+"1095"
+],
+[
+"SAY TOTAL IN USD ONE THOUSAND AND NINTY FIVE DOLLARS ONLY"
+],
+[
+"Remark"
+],
+[
+"Please do make sure client side could handle import customs clearance."
+],
+[
+"1. Payment: Full payment to the below bank account before shipment."
+],
+[
+"Bank Information"
+],
+[
+"SWIFT/BIC code",
+"CHASHKHH (CHASHKHHXXX * if 11 characters are required)"
+],
+[
+"Account Number",
+"63003662406"
+],
+[
+"Account Name",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Bank Name",
+"JPMorgan Chase Bank N.A., Hong Kong Branch"
+],
+[
+"Bank Address",
+"18/F, 20/F, 22-29/F, CHATER HOUSE, 8 CONNAUGHT ROAD CENTRAL, HONG KONG"
+],
+[
+"Country/Region",
+"Hong Kong"
+],
+[
+"Type of Account",
+"Business Account"
+],
+[
+"Bank Code",
+"007"
+],
+[
+"Branch Code",
+"863"
+],
+[
+"2. NOTE: Saga Telecom will not pay for any bank charge."
+],
+[
+"Please make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice."
+],
+[
+"3. Leadtime: 3~5 working days"
+],
+[
+"4. Country of origin: China"
+],
+[
+"5. Non-brand packing, without Chinese letters or logo"
+],
+[
+"Package Marks: None"
+],
+[
+"Packing list is available upon request"
+],
+[
+"6. Warranty: 3 years"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" for more information."
+],
+[
+"Buyer: James Clendenan Systems Ltd.",
+"",
+"",
+"Seller: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"James Clendenan",
+"",
+"",
+"Simon Cheng"
+],
+[
+"Authorized Signature",
+"",
+"",
+"Authorized Signature"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:57:39Z"
+}

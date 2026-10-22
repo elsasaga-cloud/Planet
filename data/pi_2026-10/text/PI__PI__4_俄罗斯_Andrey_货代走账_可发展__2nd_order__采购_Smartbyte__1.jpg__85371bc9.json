@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__4_俄罗斯_Andrey_货代走账_可发展__2nd_order__采购_Smartbyte__1.jpg__85371bc9",
+"path":"PI/PI/4 俄罗斯 Andrey 货代走账 可发展/2nd order/采购_Smartbyte/1.jpg",
+"name":"1.jpg",
+"ext":".jpg",
+"bytes":567044,
+"sha256":"85371bc94493803e9ab95451a6c1e1358bd6877557f1b552dd3bd5d4a402c1b0",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1432,
+"height":1075,
+"mode":"RGB",
+"thumb_bytes":8967
+},
+"warnings":[],
+"chars":198,
+"text":"Industrial Switch\nModel: PRT-SG-1208PMI\norts: 8*10/100/1000M RJ4S PoE + 2*1G12.5G SFP\nPower input: DC 44-S7V\nWINN CE FE\nSN: 202508040005\nP Address: IIS MAC: P Y) 六\nUser name: admin Password: admin >",
+"extracted_at":"2026-10-22T07:46:07Z",
+"thumb":"thumbs/PI__PI__4_俄罗斯_Andrey_货代走账_可发展__2nd_order__采购_Smartbyte__1.jpg__85371bc9.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__1st_order__Product_SN.jpg__b69c945a",
+"path":"PI/PI/6 美国 Thu 可发展/1st order/Product SN.jpg",
+"name":"Product SN.jpg",
+"ext":".jpg",
+"bytes":3667129,
+"sha256":"b69c945ae4110157346fddd213767eb1f37dfe4e6abedaa8e7c8718995ea27c8",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":4096,
+"height":3072,
+"mode":"RGB",
+"thumb_bytes":11437
+},
+"warnings":[],
+"chars":607,
+"text":"& Overview - Switch\nca 0 @ 192168.56.166/2/m\nPort Statistics\nProduct ID : EN2440\nLoop Protection\nProduct SN : 202404230001\nSecurity\nMAC Address : FC-CD-2F-D0-3C-SC\nLUDP State\nHardware Version : V1.2\nLoopDetect State\n‘Software Version\nIGMP Snooping State\nUptime: 1 min\nDHCP Snooping St\nQinQ Information\n目 Contiguration\n(CT selects\nAG Port PJ trunk Port Up [i shutdown i &\nrror-down\n5 7 9 1 13\n[21 copper [=] Fiber\n5 7 1 17 19 21 23\n圖 cvance aooo ss.\nB Maintenance 74 7 oe\npt AG\n18 20 22 24\nDiagnosis\ngigabitEthemnet0/1\nTe Traffic Rex Traffic\n生 Megatops YaTFT..\n加 162156\n国人 @@d 口 马 aya\n强 三 层 必须 要 求 DDR 为 512M",
+"extracted_at":"2026-10-22T07:33:27Z",
+"thumb":"thumbs/PI__PI__6_美国_Thu_可发展__1st_order__Product_SN.jpg__b69c945a.jpg"
+}

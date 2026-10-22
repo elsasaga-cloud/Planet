@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__9th_order__S1.png__7d50f809",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/9th order/S1.png",
+"name":"S1.png",
+"ext":".png",
+"bytes":102538,
+"sha256":"7d50f80924ad838287779601b3dbdb6ee574389e00b6db39f6d4d59d5c6d12a4",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":854,
+"height":457,
+"mode":"RGBA",
+"thumb_bytes":8872
+},
+"warnings":[],
+"chars":191,
+"text":"k\n10:18 PM\nSOON 1018PM 之\nmodel 1 v\n1100rmb/pc, L2+ managed\n2130rmb/pc, L3 managed\nBecause you did not mention the management level\n| shared 2 prices\nmodel 2\n7500rmb/pe, L3 managed 10:19 PM WY",
+"extracted_at":"2026-10-22T08:02:13Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__9th_order__S1.png__7d50f809.jpg"
+}

@@ -1,0 +1,24 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__汇款支付记录.png__ff8aeb2f",
+"path":"PI/PI/6 美国 Thu 可发展/汇款支付记录.png",
+"name":"汇款支付记录.png",
+"ext":".png",
+"bytes":211960,
+"sha256":"ff8aeb2f80087736e68788d9cca3285be1cdc1bf400633495b5b3e12f4f215a0",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1206,
+"height":2622,
+"mode":"RGB",
+"datetime":"2026:09:24 13:40:43",
+"thumb_bytes":5900
+},
+"warnings":[],
+"chars":306,
+"text":"1:40 al > @)\n< 转账 记录 查询 => .@\nFe 20 Se\n- ¥ 900.00\n收 款 账 户 6214 3913 3000 0617 588\n收 款 银行 东莞 银行\n付款 账户 6214 **** **#** 1962\n转账 附 言 转账\n转账 渠道 手机 银行\n转账 方式 电子 银行 转账\n@ 转账 完成 进度 查询\n2026-09-24 13:40:32\n通知 收 款 人\n查看 和 TA 的 转账 记录\n再 轉 一 第\n番\n說 明 :\n1、 您 可 選擇 一 卡 通 、 交 易 時 間 , 查詢 該 卡 在 指定 交易 時 間 段 內 的 自\nsem\n\\\nA\n本\n了 十\n=\n=",
+"extracted_at":"2026-10-22T07:32:24Z",
+"thumb":"thumbs/PI__PI__6_美国_Thu_可发展__汇款支付记录.png__ff8aeb2f.jpg"
+}

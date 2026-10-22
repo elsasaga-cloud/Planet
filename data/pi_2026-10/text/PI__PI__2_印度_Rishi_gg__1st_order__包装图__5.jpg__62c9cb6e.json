@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__2_印度_Rishi_gg__1st_order__包装图__5.jpg__62c9cb6e",
+"path":"PI/PI/2 印度 Rishi gg/1st order/包装图/5.jpg",
+"name":"5.jpg",
+"ext":".jpg",
+"bytes":1010423,
+"sha256":"62c9cb6e3eefac64cae69a6c42cc4257c00b92a8b7f73c6103771e3e4d333cf3",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":3024,
+"height":4032,
+"mode":"RGB",
+"thumb_bytes":9531
+},
+"warnings":[],
+"chars":63,
+"text":"Fiber Optic Cleaner\n5 Cleans SCISTIFG 2.5)\nwith over 800 cleans",
+"extracted_at":"2026-10-22T07:32:08Z",
+"thumb":"thumbs/PI__PI__2_印度_Rishi_gg__1st_order__包装图__5.jpg__62c9cb6e.jpg"
+}

@@ -1,0 +1,18 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__New_MIBs_Info_2025.4.1__NMS-MIB-7.3.3.rar.unpacked__NMS-MIB-7.3.3__p__de174cb7",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/2nd order/New MIBs Info_2025.4.1/NMS-MIB-7.3.3.rar.unpacked/NMS-MIB-7.3.3/private/NMS-IOCTL-MIB.my",
+"name":"NMS-IOCTL-MIB.my",
+"ext":".my",
+"bytes":3015,
+"sha256":"de174cb70a7458a823e4b6b5601d9b240a7a47a432de8d96ed638d9bb11e057c",
+"source":"PI.zip",
+"method":"none",
+"status":"meta",
+"meta":{},
+"warnings":[
+"no extractor for .my"
+],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:34:08Z"
+}

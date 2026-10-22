@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__9th_order__采购_Smartbyte__出货__3.png__a8d35a52",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/9th order/采购_Smartbyte/出货/3.png",
+"name":"3.png",
+"ext":".png",
+"bytes":47338,
+"sha256":"a8d35a527ee4edf286310eb4d637c4080933333bfb550440e7635e42fbd75a11",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":896,
+"height":562,
+"mode":"RGB",
+"thumb_bytes":15020
+},
+"warnings":[],
+"chars":238,
+"text":"Commercial Switch\nModel: BNSC-4168XGGCM\nPorts: 16*100/1000M SFP + 8*1G Combo + 4*1G/2.5G/10G SFP+\nPower supply: AC 100~240V\nChipset: Marvell Based\nSN: 202511240001\nMAC: FC-CD-2F-D0-51-5E User name: admin\nIP: 192.168.56.166 Password: admin",
+"extracted_at":"2026-10-22T08:03:05Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__9th_order__采购_Smartbyte__出货__3.png__a8d35a52.jpg"
+}

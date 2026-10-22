@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__New_MIBs_Info_2025.4.1__instruction.png__12c6afb6",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/2nd order/New MIBs Info_2025.4.1/instruction.png",
+"name":"instruction.png",
+"ext":".png",
+"bytes":48668,
+"sha256":"12c6afb6efaf8dfc2046dfae24eba50d2cdd794271550deb149230c91587180d",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1395,
+"height":832,
+"mode":"RGBA",
+"thumb_bytes":5851
+},
+"warnings":[],
+"chars":458,
+"text":"Maintenance\noeview File Management\nBasic Information\nlog\nConfig\n4/11924 KB)\nRootfs :ae\n—\n-\nfen}\nClean\nImage Management3 Configuration Management Certificate Management Page Package Management Data Management\nImages ;\nName _ Version Action\nhotfix/7.3.1 (r1262 f365514) 2024-12-04\nactive\n19:30:13,\nhotfin/7.1.4 (r995 e6a46de) 2024-06-24 二\nstandby 區\n2023:13\nUpgrade |\nick or drag file to this area to uploa\n4 Click or drag file to thi load\nlite-hotfix-7.3.3.bin",
+"extracted_at":"2026-10-22T07:34:17Z",
+"thumb":"thumbs/PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__2nd_order__New_MIBs_Info_2025.4.1__instruction.png__12c6afb6.jpg"
+}

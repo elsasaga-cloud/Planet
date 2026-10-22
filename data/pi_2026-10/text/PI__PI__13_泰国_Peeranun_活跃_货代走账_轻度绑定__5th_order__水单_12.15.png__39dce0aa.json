@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__5th_order__水单_12.15.png__39dce0aa",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/5th order/水单 12.15.png",
+"name":"水单 12.15.png",
+"ext":".png",
+"bytes":164911,
+"sha256":"39dce0aa02b397ecc1abcee638007b29165108e095554493517039d0f4c7e2e5",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":982,
+"height":555,
+"mode":"RGB",
+"thumb_bytes":9360
+},
+"warnings":[],
+"chars":429,
+"text":"电子 回 单\n回 单 编号 : 000190865331 个 人 网 上 银行 转账 客户 回 单\n交易 机 构 ; 803081 记 账 日 期 :2025-12-15 交易 流水 号 : SNCBS152512150000003235619 第 1 次 打印\nft | PR | se 收 | PR | 程 天 龙\n款\n”| 账号 “| ez31130000000344950 ”| 賬號 6214838659341962\n開 戶 行 广东 华兴 银行 股份 有 限 公司 佛山 顺德 支行 人 開 戶 行 招商 銀行 股份 有 限 公司\n现金 /转账 | 转账 币 种 / 汇 钞 | ARM 金额 (小 写 ) 「2.200.00\n金额 (大 写 ) | 式 什 起 全 元 束\n转账\n备注\n重要 提示 : 1、 已 在 銀行 柜 台 六 取 業務 回 只 的 單位 ,。 請 注意 核對 。 TEBE: 2、 本 回音 不 作为 收 方 发 依据;",
+"extracted_at":"2026-10-22T07:54:00Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__5th_order__水单_12.15.png__39dce0aa.jpg"
+}

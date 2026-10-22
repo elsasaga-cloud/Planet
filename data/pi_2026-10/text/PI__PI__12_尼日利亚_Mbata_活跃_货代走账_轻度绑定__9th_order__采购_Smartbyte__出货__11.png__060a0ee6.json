@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__9th_order__采购_Smartbyte__出货__11.png__060a0ee6",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/9th order/采购_Smartbyte/出货/11.png",
+"name":"11.png",
+"ext":".png",
+"bytes":19060,
+"sha256":"060a0ee69406ad74bec2873b31db2fb54dde6bf2c9434a6f7bd5d03acd635edd",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":676,
+"height":691,
+"mode":"RGB",
+"thumb_bytes":12021
+},
+"warnings":[],
+"chars":133,
+"text":"Product name: Commercial Switch\nModel: Netstream-42410G280W L2+\nQty.: PC IIIT\n1\nSN 划 划 ml\n202511240008\nWeight: 3.2 KG\nCarton No.: 3/3",
+"extracted_at":"2026-10-22T08:02:36Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__9th_order__采购_Smartbyte__出货__11.png__060a0ee6.jpg"
+}

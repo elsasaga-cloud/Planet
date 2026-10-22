@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__19_马来西亚_Raja_可发展__发货图片__STI-21616GPM__d26f6ff1b2d3e00a4a04c51eb9e98f84.jpg__a3062adb",
+"path":"PI/PI/19 马来西亚 Raja 可发展/发货图片/STI-21616GPM/d26f6ff1b2d3e00a4a04c51eb9e98f84.jpg",
+"name":"d26f6ff1b2d3e00a4a04c51eb9e98f84.jpg",
+"ext":".jpg",
+"bytes":631106,
+"sha256":"a3062adbb16e818171bdbd54f21580fff1829eb6be47efedac29ec6b1c78a9b6",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":2302,
+"height":826,
+"mode":"RGB",
+"thumb_bytes":7532
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:50:03Z",
+"thumb":"thumbs/PI__PI__19_马来西亚_Raja_可发展__发货图片__STI-21616GPM__d26f6ff1b2d3e00a4a04c51eb9e98f84.jpg__a3062adb.jpg"
+}

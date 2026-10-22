@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__3rd_order__货款支付记录.png__974b8dd3",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/3rd order/货款支付记录.png",
+"name":"货款支付记录.png",
+"ext":".png",
+"bytes":101306,
+"sha256":"974b8dd365f891d38eb5708878ff7610f7bdac6810fa49edc9bc30d3d0ea02d0",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":5912
+},
+"warnings":[],
+"chars":189,
+"text":"收 款 账户\n付款 账户\n转账 附 言\n转账 渠 道\n转账 方式\n© 转账 完成\n转账 记录 查询 8 © ©?\n转 给 罗 辉\n-¥ 1,904.00\n6214 3913 3000 0617 588\n6214********1962\n转账\n手机 银行\n电子 银行 转账\n洋\nri\n(ot\na\n2025-09-09 15:13:17\n查看 和 TA 的 转账 记录\nws\n_ i",
+"extracted_at":"2026-10-22T07:54:41Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__3rd_order__货款支付记录.png__974b8dd3.jpg"
+}

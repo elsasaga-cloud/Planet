@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__4_俄罗斯_Andrey_货代走账_可发展__1st_order__付款记录_2023.11.23.png__235f5542",
+"path":"PI/PI/4 俄罗斯 Andrey 货代走账 可发展/1st order/付款记录_2023.11.23.png",
+"name":"付款记录_2023.11.23.png",
+"ext":".png",
+"bytes":164709,
+"sha256":"235f5542618a5870e8e90680c66f2799d757dbf78eaa75921ca92541e5ede8db",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":6078
+},
+"warnings":[],
+"chars":371,
+"text":"9:27 wi Fl\n《 Transaction Details View all\n@\nHRUI\n-680.00\nTransaction successful\nPayment time 2023-11-23 09:26:31\nPayment CMB Debit Card(1962) >\nmethod\ntem description 收 錢 碼 收 款\nTREE 2 个 样品 款\nBonus 回 立即 領 20 積 分 , 去 兌 精選 好 物\nFull name of x 婷 (个 人 )\npayee\nMore v\n支付 福利\n. ¥ 支付 红包\n二 去 完成\n了 5 元 ai\nTranslate\nBill Management\nTransactions Category Other >\nLabels and Notes Add >",
+"extracted_at":"2026-10-22T07:46:43Z",
+"thumb":"thumbs/PI__PI__4_俄罗斯_Andrey_货代走账_可发展__1st_order__付款记录_2023.11.23.png__235f5542.jpg"
+}

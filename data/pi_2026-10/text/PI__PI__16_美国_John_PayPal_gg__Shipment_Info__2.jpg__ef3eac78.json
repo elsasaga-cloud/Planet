@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__16_美国_John_PayPal_gg__Shipment_Info__2.jpg__ef3eac78",
+"path":"PI/PI/16 美国 John PayPal gg/Shipment Info/2.jpg",
+"name":"2.jpg",
+"ext":".jpg",
+"bytes":225559,
+"sha256":"ef3eac786657703e4401cc5d999a4f44be6243b1b81f3a2c04a7f0303dd6e06d",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1920,
+"height":1080,
+"mode":"RGB",
+"thumb_bytes":8882
+},
+"warnings":[],
+"chars":32,
+"text":"Non-PoE: DC12-58V; PoE: DC44-57V",
+"extracted_at":"2026-10-22T07:29:23Z",
+"thumb":"thumbs/PI__PI__16_美国_John_PayPal_gg__Shipment_Info__2.jpg__ef3eac78.jpg"
+}

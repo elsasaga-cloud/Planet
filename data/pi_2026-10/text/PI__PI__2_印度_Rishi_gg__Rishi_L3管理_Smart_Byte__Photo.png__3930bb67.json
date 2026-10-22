@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__2_印度_Rishi_gg__Rishi_L3管理_Smart_Byte__Photo.png__3930bb67",
+"path":"PI/PI/2 印度 Rishi gg/Rishi L3管理 Smart Byte/Photo.png",
+"name":"Photo.png",
+"ext":".png",
+"bytes":603584,
+"sha256":"3930bb67dfae9bbd29f2c1163c1c343991159a0069f7452670d2771c90192e09",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":3840,
+"height":2663,
+"mode":"RGBA",
+"thumb_bytes":3530
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:31:17Z",
+"thumb":"thumbs/PI__PI__2_印度_Rishi_gg__Rishi_L3管理_Smart_Byte__Photo.png__3930bb67.jpg"
+}

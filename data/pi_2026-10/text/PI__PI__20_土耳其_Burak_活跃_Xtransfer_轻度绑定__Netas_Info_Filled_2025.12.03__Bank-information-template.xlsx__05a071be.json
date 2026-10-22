@@ -1,0 +1,102 @@
+{
+"id":"PI__PI__20_土耳其_Burak_活跃_Xtransfer_轻度绑定__Netas_Info_Filled_2025.12.03__Bank-information-template.xlsx__05a071be",
+"path":"PI/PI/20 土耳其 Burak 活跃 Xtransfer 轻度绑定/Netas Info Filled_2025.12.03/Bank-information-template.xlsx",
+"name":"Bank-information-template.xlsx",
+"ext":".xlsx",
+"bytes":219896,
+"sha256":"05a071be2bb0e1f508baf215a8f6d64884b1174b4fb0c1ea0b50cb8789bc5538",
+"source":"PI.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"Sheet1"
+],
+"embedded_images":3,
+"rows_total":17
+},
+"warnings":[],
+"chars":640,
+"text":"--- Sheet: Sheet1 ---\nSUPPLIER NAME (as registered officially)\tZhengzhou Saga Telecom Co., Ltd.\nBANK NAME (official name, as registered to authorities)\tJPMorgan Chase Bank N.A., Hong Kong Branch\nBRANCH\nBANK ADDRESS\tStreet Address 1\tStreet Address 2\tCity/Town\tState\tCountry\tZIP Code\n\t18/F, 20/F, 22-29/F, CHATER HOUSE, 8 CONNAUGHT ROAD CENTRAL, HONG KONG\nTRANSACTION CURRENCY\tUSD\nSWIFT/BIC CODE\tCHASHKHH (CHASHKHHXXX * if 11 characters are required)\nACCOUNT NUMBER\t63003662406\nBank Code\t007\nBranch Code\t863\nSORT CODE\nIBAN NUMBER\nABA ROUTING NUMBER\nEFT/ACH ROUTING NUMBER\nFILLED BY\nName\tPosition\t\tDate\t\tSignature\nAlan\tDirector of Sales\t\t45994",
+"sheets":{
+"Sheet1":{
+"state":"visible",
+"rows":[
+[
+"SUPPLIER NAME (as registered officially)",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"BANK NAME (official name, as registered to authorities)",
+"JPMorgan Chase Bank N.A., Hong Kong Branch"
+],
+[
+"BRANCH"
+],
+[
+"BANK ADDRESS",
+"Street Address 1",
+"Street Address 2",
+"City/Town",
+"State",
+"Country",
+"ZIP Code"
+],
+[
+"",
+"18/F, 20/F, 22-29/F, CHATER HOUSE, 8 CONNAUGHT ROAD CENTRAL, HONG KONG"
+],
+[
+"TRANSACTION CURRENCY",
+"USD"
+],
+[
+"SWIFT/BIC CODE",
+"CHASHKHH (CHASHKHHXXX * if 11 characters are required)"
+],
+[
+"ACCOUNT NUMBER",
+"63003662406"
+],
+[
+"Bank Code",
+"007"
+],
+[
+"Branch Code",
+"863"
+],
+[
+"SORT CODE"
+],
+[
+"IBAN NUMBER"
+],
+[
+"ABA ROUTING NUMBER"
+],
+[
+"EFT/ACH ROUTING NUMBER"
+],
+[
+"FILLED BY"
+],
+[
+"Name",
+"Position",
+"",
+"Date",
+"",
+"Signature"
+],
+[
+"Alan",
+"Director of Sales",
+"",
+"45994"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:46:56Z"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__18_阿联酋_Sanjay_可发展__发货__3.png__c126c03e",
+"path":"PI/PI/18 阿联酋 Sanjay 可发展/发货/3.png",
+"name":"3.png",
+"ext":".png",
+"bytes":19648,
+"sha256":"c126c03e3e8baeea065a500546b2d65993284ec88bb01f5a7f518beacb4e8746",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":576,
+"height":547,
+"mode":"RGB",
+"thumb_bytes":14581
+},
+"warnings":[],
+"chars":206,
+"text":"Product name: Industrial Media Converter and Switch\nModel: STI-110GE\nQty.: 2 PCS Ill Wa\nSN:\nFROM: _ ||| MIIUIDIUIONIUINIIN EN tl\nMMXXVI12010001\nTO: UL A OVUM OM\nMMXXVI12010002\nWeight: 1.2 KG\nCarton No.: 1/1",
+"extracted_at":"2026-10-22T07:59:10Z",
+"thumb":"thumbs/PI__PI__18_阿联酋_Sanjay_可发展__发货__3.png__c126c03e.jpg"
+}

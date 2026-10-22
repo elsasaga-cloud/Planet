@@ -1,0 +1,27 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__1st_order__采购_Hrui__发货图__1.jpg__3ca0e71f",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/1st order/采购_Hrui/发货图/1.jpg",
+"name":"1.jpg",
+"ext":".jpg",
+"bytes":360755,
+"sha256":"3ca0e71f4ec99a647209f2ab859997563721ffb2c41ffc559ebaf6e886512f42",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":2560,
+"height":1920,
+"mode":"RGB",
+"datetime":"2024:10:10 14:49:49",
+"make":"HUAWEI",
+"model":"NOH-AN00",
+"software":"NOH-AN00 4.2.0.138(C00E100R8P6)",
+"thumb_bytes":10623
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T08:05:14Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__1st_order__采购_Hrui__发货图__1.jpg__3ca0e71f.jpg"
+}

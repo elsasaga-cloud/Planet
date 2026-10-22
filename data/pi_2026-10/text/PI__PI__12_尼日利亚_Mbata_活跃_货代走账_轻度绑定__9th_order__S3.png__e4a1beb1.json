@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__9th_order__S3.png__e4a1beb1",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/9th order/S3.png",
+"name":"S3.png",
+"ext":".png",
+"bytes":116062,
+"sha256":"e4a1beb144de11c191a69315fd1a80141d09084f37fb9d10daf8518c6245f51a",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":939,
+"height":455,
+"mode":"RGBA",
+"thumb_bytes":7745
+},
+"warnings":[],
+"chars":213,
+"text":"MTOR MVS\nOk 10:18 PM\nmodel 1\n1100rmb/pc, L2+ managed\n2130rmb/pc, L3 managed\nBecause you did not mention the management level\n© | shared 2 prices\nmodel 2\n7500rmb/pe, L3 managed 10:19 PM W\nSend the datasheet ......,",
+"extracted_at":"2026-10-22T08:02:26Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__9th_order__S3.png__e4a1beb1.jpg"
+}

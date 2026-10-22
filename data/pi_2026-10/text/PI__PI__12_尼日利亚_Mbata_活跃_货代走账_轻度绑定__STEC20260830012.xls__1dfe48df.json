@@ -1,0 +1,230 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__STEC20260830012.xls__1dfe48df",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20260830012.xls",
+"name":"STEC20260830012.xls",
+"ext":".xls",
+"bytes":1198080,
+"sha256":"1dfe48df893426a3f3b2dbfd01ff074566388ceb4ca65bbd417d71d8f4896aa0",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Proforma Invoice"
+],
+"rows_total":44
+},
+"warnings":[],
+"chars":3102,
+"text":"--- Sheet: Proforma Invoice ---\nSaga Telecom\nAn Engineering & Supply-Chain-First Telecom Partner\nBuilt to Last, Continuous Supply, Evolving Together\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 18838975947                                                     https://sagatele.com/                              Email: e.sagatelecom@gmail.com\nProforma Invoice\nPO No.\t\t\tInvoice No.:\tSTEC20260830012\nBuyer:\tBiz - Ethics Ltd.\t\tSeller:\tSaga Telecom\nTel:\t234-07029186461\t\tIssued By:\tElsa\nEmail:\tinfo@belnetworks.com\t\tInvoice Date:\t30th, Aug, 2026\nContact Person:\tValentine Mbata\t\tPayment Term:\tT/T in advance, Full Amount\nShipping Address\t广州市越秀区瑶台西街89号(美泰城)A2038档 13503077498 亨瑞\nIncoterm: EXW\nDefinition\tExcluding origin export clearance and international freight\nExcluding destination customs clearance and import duties.\nExcluding on-carriage delivery to the shipping address after customs release\nModel\tPhoto\tSpecification\t\tQuantity \n(pcs)\tUnit Price\n(RMB)\tAmount \n(RMB)\tRemark\nSeller\nSTC-28GPM\n\nBuyer\nBNSC-28GPM\t\tCommercial PoE Managed Switch\n\n2*Gigabit SFP+8*10/100/1000M RJ45 +1*Console Port, POE af/at, 120W budget\nL2 managed, support PoE management, PoE watchdog, AC input, Rack compatible\nWith mounting hanger/Power Cord\nDefault IP Address: 192.168.2.1\nUsername/Password: Both are “admin”\t\t12\t408\t4896\tNetstream Brand\n\nCustomized\nPacking Box\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 268*181*44mm\nNet Weight: 1.08Kg\nGross Weight: 1.62Kg\nSeller\nSTC-424DGGPM\n\nBuyer\nBNSC-424DGDPM\t\tCommercial PoE Managed Switch\n\n4*1G/2.5G SFP+24*10/100/1000M RJ45+1*Console Port, L2+ managed, PoE af/at, 280W budget, Support PoE management\nPoE watchdog, AC input, Rack compatible\nWith mounting hanger/Power Cord\n\nIt should be NETSTREAM info\t\t1\t946\t946\tNetstream Brand\n\nCustomized\nPacking Box\n\tHS Code\t8517622990\n\tPacking Information\tProduct size: 440*180*44mm\nInner box size: 525*390*95mm\nGross Weight: 4Kg\nTOTAL\t\t\t\t13\t\t5842\nSAY TOTAL IN FIVE THOUSAND EIGTH HUNDRED AND FORTY TWO ONLY\nRemark\nPlease do make sure client side could handle import customs clearance.\n1. Payment: Full payment to the below bank account before shipment.\nBank Information\nBank Name\tBANK OF CHINA HENAN BRANCH\nBank Address\tHUANYUAN ROAD 40TH ZHENGZHOU CITY HENAN CHINA\nBeneficiary\tZhengzhou Saga Telecom Co., Ltd.\nAccount No.(USD)\t255987045839\nSWIFT CODE\tBKCHCNBJ530\n2. NOTE: Saga Telecom will not pay for any bank charge.\nPlease make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice.\n3. Production Time: 1 Month(Excluding Shipping Time)\n4. Country of origin: China\n5. Customized packing\nPackage Marks: None\nPacking list is available upon request\n6. Warranty: 1 year, lifetime technical support\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" for more information.\nBuyer: Biz - Ethics Ltd.\t\t\tSeller: Saga Telecom\nValentine Mbata\t\t\tElsa\nAuthorized Signature\t\t\tAuthorized Signature",
+"sheets":{
+"Proforma Invoice":{
+"rows":[
+[
+"Saga Telecom"
+],
+[
+"An Engineering & Supply-Chain-First Telecom Partner"
+],
+[
+"Built to Last, Continuous Supply, Evolving Together"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 18838975947                                                     https://sagatele.com/                              Email: e.sagatelecom@gmail.com"
+],
+[
+"Proforma Invoice"
+],
+[
+"PO No.",
+"",
+"",
+"Invoice No.:",
+"STEC20260830012"
+],
+[
+"Buyer:",
+"Biz - Ethics Ltd.",
+"",
+"Seller:",
+"Saga Telecom"
+],
+[
+"Tel:",
+"234-07029186461",
+"",
+"Issued By:",
+"Elsa"
+],
+[
+"Email:",
+"info@belnetworks.com",
+"",
+"Invoice Date:",
+"30th, Aug, 2026"
+],
+[
+"Contact Person:",
+"Valentine Mbata",
+"",
+"Payment Term:",
+"T/T in advance, Full Amount"
+],
+[
+"Shipping Address",
+"广州市越秀区瑶台西街89号(美泰城)A2038档 13503077498 亨瑞"
+],
+[
+"Incoterm: EXW\nDefinition",
+"Excluding origin export clearance and international freight\nExcluding destination customs clearance and import duties.\nExcluding on-carriage delivery to the shipping address after customs release"
+],
+[
+"Model",
+"Photo",
+"Specification",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(RMB)",
+"Amount \n(RMB)",
+"Remark"
+],
+[
+"Seller\nSTC-28GPM\n\nBuyer\nBNSC-28GPM",
+"",
+"Commercial PoE Managed Switch\n\n2*Gigabit SFP+8*10/100/1000M RJ45 +1*Console Port, POE af/at, 120W budget\nL2 managed, support PoE management, PoE watchdog, AC input, Rack compatible\nWith mounting hanger/Power Cord\nDefault IP Address: 192.168.2.1\nUsername/Password: Both are “admin”",
+"",
+"12",
+"408",
+"4896",
+"Netstream Brand\n\nCustomized\nPacking Box"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 268*181*44mm\nNet Weight: 1.08Kg\nGross Weight: 1.62Kg"
+],
+[
+"Seller\nSTC-424DGGPM\n\nBuyer\nBNSC-424DGDPM",
+"",
+"Commercial PoE Managed Switch\n\n4*1G/2.5G SFP+24*10/100/1000M RJ45+1*Console Port, L2+ managed, PoE af/at, 280W budget, Support PoE management\nPoE watchdog, AC input, Rack compatible\nWith mounting hanger/Power Cord\n\nIt should be NETSTREAM info",
+"",
+"1",
+"946",
+"946",
+"Netstream Brand\n\nCustomized\nPacking Box"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Product size: 440*180*44mm\nInner box size: 525*390*95mm\nGross Weight: 4Kg"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"13",
+"",
+"5842"
+],
+[
+"SAY TOTAL IN FIVE THOUSAND EIGTH HUNDRED AND FORTY TWO ONLY"
+],
+[
+"Remark"
+],
+[
+"Please do make sure client side could handle import customs clearance."
+],
+[
+"1. Payment: Full payment to the below bank account before shipment."
+],
+[
+"Bank Information"
+],
+[
+"Bank Name",
+"BANK OF CHINA HENAN BRANCH"
+],
+[
+"Bank Address",
+"HUANYUAN ROAD 40TH ZHENGZHOU CITY HENAN CHINA"
+],
+[
+"Beneficiary",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Account No.(USD)",
+"255987045839"
+],
+[
+"SWIFT CODE",
+"BKCHCNBJ530"
+],
+[
+"2. NOTE: Saga Telecom will not pay for any bank charge."
+],
+[
+"Please make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice."
+],
+[
+"3. Production Time: 1 Month(Excluding Shipping Time)"
+],
+[
+"4. Country of origin: China"
+],
+[
+"5. Customized packing"
+],
+[
+"Package Marks: None"
+],
+[
+"Packing list is available upon request"
+],
+[
+"6. Warranty: 1 year, lifetime technical support"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" for more information."
+],
+[
+"Buyer: Biz - Ethics Ltd.",
+"",
+"",
+"Seller: Saga Telecom"
+],
+[
+"Valentine Mbata",
+"",
+"",
+"Elsa"
+],
+[
+"Authorized Signature",
+"",
+"",
+"Authorized Signature"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:59:59Z"
+}

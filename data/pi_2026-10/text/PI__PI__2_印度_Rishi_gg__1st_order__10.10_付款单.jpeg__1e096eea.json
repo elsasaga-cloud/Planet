@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__2_印度_Rishi_gg__1st_order__10.10_付款单.jpeg__1e096eea",
+"path":"PI/PI/2 印度 Rishi gg/1st order/10.10 付款单.jpeg",
+"name":"10.10 付款单.jpeg",
+"ext":".jpeg",
+"bytes":114022,
+"sha256":"1e096eea54e3030174fa5aadc8305d24653bcd1b8e8aede41690c82de5237b46",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1366,
+"height":768,
+"mode":"RGB",
+"thumb_bytes":8334
+},
+"warnings":[],
+"chars":356,
+"text":"582652896 FASTBALL 只\nbrcrcr Bank USER1 BANSAL KUMAR RISHI ne\nYour request has been successfully submitted\ncs CA Trade Helpdesk: 040 30021717 0)\nRemittance of USD 260.00 to ZHENGZHOU SAGA TELECOM CO LTD\nRunning Serial Number : ORO9613023\nRecord Status : Pending from Bank\nwwwww\nRate your Experience\nNEW PAYMENT\nG c 32°C Zw 到 串\nec “ ¥ 人 @ 32°C Sunny FW) song",
+"extracted_at":"2026-10-22T07:31:27Z",
+"thumb":"thumbs/PI__PI__2_印度_Rishi_gg__1st_order__10.10_付款单.jpeg__1e096eea.jpg"
+}

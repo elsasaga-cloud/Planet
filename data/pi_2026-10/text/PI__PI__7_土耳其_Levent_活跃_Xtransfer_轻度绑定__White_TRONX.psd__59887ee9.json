@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__White_TRONX.psd__59887ee9",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/White TRONX.psd",
+"name":"White TRONX.psd",
+"ext":".psd",
+"bytes":166716,
+"sha256":"59887ee994061fd56b8d2fbf1ec8f0e8b9b1d5e14149f56681a1cba17b1a9d16",
+"source":"PI.zip",
+"method":"pillow(psd composite)",
+"status":"meta",
+"meta":{
+"format":"PSD",
+"width":480,
+"height":480,
+"mode":"RGBA",
+"thumb_bytes":6905
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:36:56Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__White_TRONX.psd__59887ee9.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__17_英国_Chris_PayPal_可发展__Shipment_Info__2.jpg__7b97488c",
+"path":"PI/PI/17 英国 Chris PayPal 可发展/Shipment Info/2.jpg",
+"name":"2.jpg",
+"ext":".jpg",
+"bytes":331401,
+"sha256":"7b97488c5cdd2ba258b8ae855491d8730a0abecc1955fd1b36cf678e22407cc6",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":1706,
+"height":1279,
+"mode":"RGB",
+"thumb_bytes":15093
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:59:28Z",
+"thumb":"thumbs/PI__PI__17_英国_Chris_PayPal_可发展__Shipment_Info__2.jpg__7b97488c.jpg"
+}

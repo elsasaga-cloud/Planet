@@ -1,0 +1,97 @@
+{
+"id":"PI__PI__1_格鲁吉亚_George_gg__label_content.docx__b567034c",
+"path":"PI/PI/1 格鲁吉亚 George gg/label content.docx",
+"name":"label content.docx",
+"ext":".docx",
+"bytes":106350,
+"sha256":"b567034c23e594e501ccadeca9968d67128c4d00acc085c9fa764520c93577ff",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2023-07-31T01:07:00+00:00",
+"modified":"2023-07-31T01:13:59+00:00",
+"paragraphs":14,
+"tables":0,
+"embedded_images":2
+},
+"warnings":[],
+"chars":452,
+"text":"Product: 10-port Hybrid rate POE switch\nModel: STC-028GFP\nFeatures: 8*10/100M POE Ports\n+ 2*10/100/1000M Ethernet Uplink Ports\nInternal Power, AC100~240V/120W, IEEE 8023af/at (12+,36-)\nS/N-10/100M20230731001\n2台002\nProduct: 11-port Hybrid rate POE switch\nModel: STC-128GFP\nFeatures: 8*10/100M POE Ports\n+ 2*10/100/1000M Ethernet Uplink Ports + 1*Gigabit SFP Uplink\nInternal Power, AC100~240V/120W, IEEE 8023af/at (12+,36-)\nS/N-11/Hybrid20230731001\n2台002",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Product: 10-port Hybrid rate POE switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Model: STC-028GFP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Features: 8*10/100M POE Ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"+ 2*10/100/1000M Ethernet Uplink Ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Internal Power, AC100~240V/120W, IEEE 8023af/at (12+,36-)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"S/N-10/100M20230731001"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2台002"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product: 11-port Hybrid rate POE switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Model: STC-128GFP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Features: 8*10/100M POE Ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"+ 2*10/100/1000M Ethernet Uplink Ports + 1*Gigabit SFP Uplink"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Internal Power, AC100~240V/120W, IEEE 8023af/at (12+,36-)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"S/N-11/Hybrid20230731001"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2台002"
+}
+],
+"extracted_at":"2026-10-22T07:27:26Z"
+}

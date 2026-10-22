@@ -1,0 +1,105 @@
+{
+"id":"PI__PI__17_英国_Chris_PayPal_可发展__发票.xlsx__12b120f4",
+"path":"PI/PI/17 英国 Chris PayPal 可发展/发票.xlsx",
+"name":"发票.xlsx",
+"ext":".xlsx",
+"bytes":16828,
+"sha256":"12b120f4ded4230353eb02f56e5caa483825af72f0003d8ecb90ed9958cd0b63",
+"source":"PI.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"发票"
+],
+"embedded_images":0,
+"rows_total":8
+},
+"warnings":[],
+"chars":447,
+"text":"--- Sheet: 发票 ---\nCOMMERCIAL   INVOICE\nMESSRS\tGOGREENIT\t\t\t\t\tATT\t\tChris Clemson\nADD\tThe Poplars, Burleigh Drive, Derby, DE22 1AL, UK\t\t\t\t\tPOSTCODE\t\tDE22 1AL\nTEL\t44 77709 16901\t\t\t\t\tINVOICE NO.\t\tSTAG20250823017\nEORI：\t\t\tvat\t\tMode of transaction\nS/N\tItem Name\tHS\tMaterial\tuse\tQTY(pcs)\tUnit Price  (USD)\tAmount (USD)\tRemark\n1\tIndustrial Ethernet Switch\t8517622990\tMetal\tData exchange and optical telecommunication\t1\t500\t500\t不带电不带磁\n普货\nTOTAL（合计）:\t\t\t\t\t\t\t500",
+"sheets":{
+"发票":{
+"state":"visible",
+"rows":[
+[
+"COMMERCIAL   INVOICE"
+],
+[
+"MESSRS",
+"GOGREENIT",
+"",
+"",
+"",
+"",
+"ATT",
+"",
+"Chris Clemson"
+],
+[
+"ADD",
+"The Poplars, Burleigh Drive, Derby, DE22 1AL, UK",
+"",
+"",
+"",
+"",
+"POSTCODE",
+"",
+"DE22 1AL"
+],
+[
+"TEL",
+"44 77709 16901",
+"",
+"",
+"",
+"",
+"INVOICE NO.",
+"",
+"STAG20250823017"
+],
+[
+"EORI：",
+"",
+"",
+"vat",
+"",
+"Mode of transaction"
+],
+[
+"S/N",
+"Item Name",
+"HS",
+"Material",
+"use",
+"QTY(pcs)",
+"Unit Price  (USD)",
+"Amount (USD)",
+"Remark"
+],
+[
+"1",
+"Industrial Ethernet Switch",
+"8517622990",
+"Metal",
+"Data exchange and optical telecommunication",
+"1",
+"500",
+"500",
+"不带电不带磁\n普货"
+],
+[
+"TOTAL（合计）:",
+"",
+"",
+"",
+"",
+"",
+"",
+"500"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:59:19Z"
+}

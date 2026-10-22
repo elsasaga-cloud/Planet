@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__2_印度_Rishi_gg__name_card.jpeg__3985bc39",
+"path":"PI/PI/2 印度 Rishi gg/name card.jpeg",
+"name":"name card.jpeg",
+"ext":".jpeg",
+"bytes":74237,
+"sha256":"3985bc3985f8ec30f85599e4cbed4dc961f27016666394ad3c1339c39563d50c",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1004,
+"height":590,
+"mode":"RGB",
+"thumb_bytes":10763
+},
+"warnings":[],
+"chars":155,
+"text":"FASTBALL\nRishi Bansal\nDirector-Business Development\nVm +91-9810987870\n><@} rishi@fastball.in\nQ www.fastball.in\nA-47, Street No-4, Ashok Nagar,\nDelhi-110093",
+"extracted_at":"2026-10-22T07:31:15Z",
+"thumb":"thumbs/PI__PI__2_印度_Rishi_gg__name_card.jpeg__3985bc39.jpg"
+}

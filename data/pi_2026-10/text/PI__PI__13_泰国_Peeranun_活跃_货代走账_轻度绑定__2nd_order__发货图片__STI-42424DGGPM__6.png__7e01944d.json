@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__STI-42424DGGPM__6.png__7e01944d",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/2nd order/发货图片/STI-42424DGGPM/6.png",
+"name":"6.png",
+"ext":".png",
+"bytes":35867,
+"sha256":"7e01944d4d9db8c0412847a1e8b972402443c761584798bfec2051027b3c82d3",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":698,
+"height":434,
+"mode":"RGBA",
+"thumb_bytes":12515
+},
+"warnings":[],
+"chars":251,
+"text":"區\nIndustrial Switch a PERLINK\nModel: STI-42424DGGPM\nPorts: 24*10/100/1000M RJ45 PoE + 4*1G/2.5G SFP\nPower input: DC 44-57V\nLM ge\nSN: 20250214001\nIP Address: 192.168.56.166 MAC: FC-CD-2F-D0-46-0F Sf,\nH\nCOMPLIANT,\na\nbt 6\nUser name: admin Password: admin",
+"extracted_at":"2026-10-22T07:53:11Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__STI-42424DGGPM__6.png__7e01944d.jpg"
+}

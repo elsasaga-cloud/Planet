@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__20_土耳其_Burak_活跃_Xtransfer_轻度绑定__货款支付记录.png__30cac685",
+"path":"PI/PI/20 土耳其 Burak 活跃 Xtransfer 轻度绑定/货款支付记录.png",
+"name":"货款支付记录.png",
+"ext":".png",
+"bytes":95639,
+"sha256":"30cac68563525e0c20c3fa195fc5f31ed183abe10363d9244924bbe080b0aada",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":5666
+},
+"warnings":[],
+"chars":191,
+"text":"2:14 了\n收 款 账户\n付款 账户\n转账 附 言\n转账 渠 道\n转账 方式\n© 转账 完成\nall >\n转账 记录 查询 =\n转 给 罗 辉\n-¥ 2,616.00\n6214 3913 3000 0617 588\n6214********1962\n转账\n手机 银行\n电子 银行 转账\nae\nri\n(ot\na\n2026-01-22 14:13:58\n查看 和 TA 的 转账 记录",
+"extracted_at":"2026-10-22T07:46:55Z",
+"thumb":"thumbs/PI__PI__20_土耳其_Burak_活跃_Xtransfer_轻度绑定__货款支付记录.png__30cac685.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__1st_order__采购_Smartbyte__货款支付记录_2.jpg__33409d4a",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/1st order/采购_Smartbyte/货款支付记录 2.jpg",
+"name":"货款支付记录 2.jpg",
+"ext":".jpg",
+"bytes":58925,
+"sha256":"33409d4a539e9606b60ee5fa9f357be9023069e30aee52c6417a20fe6d629633",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":750,
+"height":1624,
+"mode":"RGB",
+"thumb_bytes":4044
+},
+"warnings":[],
+"chars":248,
+"text":"3:40 all 4G G5)\n< 轉 賬 記 錄 查 詢 oO ©\n一 网 通 所 有 银行 卡 本 月\n輸入 姓名 / 卡 號 / 手 機 號 / 附 言 搜索 q\n转 出 记录\n本 月\nBie ( 尾 號 7588) - ¥ 8,713.00\n今天 15:39 已 汇 出\n说 明 :\n1、 您 可 選擇 一 卡 通 、 交 易 時 間 , 查詢 該 卡 在 指定 交易 時 間 段 內\n的 自助 转账 记录 。\n2、 如 需 查询 距 今年 以 上 的 转账 记录 ， 请 前 往 收 支",
+"extracted_at":"2026-10-22T08:04:51Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__1st_order__采购_Smartbyte__货款支付记录_2.jpg__33409d4a.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__19_马来西亚_Raja_可发展__发货图片__1.png__0263ce04",
+"path":"PI/PI/19 马来西亚 Raja 可发展/发货图片/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":97411,
+"sha256":"0263ce04ef5980cfd32342f00202e91bc153a5096d46a4ba75600616c1842807",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1920,
+"height":1080,
+"mode":"RGBA",
+"thumb_bytes":3534
+},
+"warnings":[],
+"chars":118,
+"text":"& Login - Switch x 十\no€¢ Cc 六 不 安全 http://192.168.56.166/#/login\nManaged Ethernet Switch\nLogin Clear\n8:18:48\n2026/8/26",
+"extracted_at":"2026-10-22T07:49:17Z",
+"thumb":"thumbs/PI__PI__19_马来西亚_Raja_可发展__发货图片__1.png__0263ce04.jpg"
+}

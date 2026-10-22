@@ -1,0 +1,122 @@
+{
+"id":"PI__PI__1_格鲁吉亚_George_gg__requirement_solution.docx__b6a3ec45",
+"path":"PI/PI/1 格鲁吉亚 George gg/requirement&solution.docx",
+"name":"requirement&solution.docx",
+"ext":".docx",
+"bytes":2363532,
+"sha256":"b6a3ec45788561512249f7d694c1f770d051a31bb04ceaca64f537d71020b577",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2023-07-22T05:25:00+00:00",
+"modified":"2023-07-24T01:47:58+00:00",
+"paragraphs":19,
+"tables":0,
+"embedded_images":7
+},
+"warnings":[],
+"chars":1221,
+"text":"8*10/100M POE+1*Gigabit SFP or higher standard\nOrder without power supply but requires step-up(DC24V voltage input and DC48V POE output)\nDin mount\nPOE watchdog\nAbout POE watchdog\nFor the samples, we will also send a new model with POE watchdog(2pcs), see below photo.\nand also the model we previously discussed without POE watchdog(2pcs), see below photo.\nAbout the voltage booster/DC converter/Step-up, it is fine, see below photo\nWe will not put in original/standard AC-DC converter, and send step-up instead\nTotally there are 4 pieces(2 with POE watchdog and 2 without POE watchdog)\nFor those 4 pieces, we will send\n1 piece with POE watchdog, with original/standard AC-DC converter\n1 piece with POE watchdog, with step-up instead\n1 piece without POE watchdog, with original/standard AC-DC converter\n1 piece without POE watchdog, with step-up instead\nBy doing this, you could fully test and understand the product features.\nAbout Din mounting kit\nIn this sample order, we will NOT change the rear panel and just send standard one, see below photo\nBut in bulk order, we could do din mounting kit(this involves opening a new molding, takes time and cost, best not to have it in this sample order), it will be roughly like",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"8*10/100M POE+1*Gigabit SFP or higher standard"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Order without power supply but requires step-up(DC24V voltage input and DC48V POE output)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Din mount"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"POE watchdog"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"About POE watchdog"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For the samples, we will also send a new model with POE watchdog(2pcs), see below photo."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"and also the model we previously discussed without POE watchdog(2pcs), see below photo."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"About the voltage booster/DC converter/Step-up, it is fine, see below photo"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We will not put in original/standard AC-DC converter, and send step-up instead"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Totally there are 4 pieces(2 with POE watchdog and 2 without POE watchdog)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For those 4 pieces, we will send"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1 piece with POE watchdog, with original/standard AC-DC converter"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1 piece with POE watchdog, with step-up instead"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1 piece without POE watchdog, with original/standard AC-DC converter"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1 piece without POE watchdog, with step-up instead"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"By doing this, you could fully test and understand the product features."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"About Din mounting kit"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"In this sample order, we will NOT change the rear panel and just send standard one, see below photo"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"But in bulk order, we could do din mounting kit(this involves opening a new molding, takes time and cost, best not to have it in this sample order), it will be roughly like"
+}
+],
+"extracted_at":"2026-10-22T07:27:26Z"
+}

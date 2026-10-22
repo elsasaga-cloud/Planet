@@ -1,0 +1,112 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__1st_order__Option_Explanation.docx__bf967193",
+"path":"PI/PI/6 美国 Thu 可发展/1st order/Option&Explanation.docx",
+"name":"Option&Explanation.docx",
+"ext":".docx",
+"bytes":2379255,
+"sha256":"bf967193e4735da97426806c250962226ca1c1ca177bd860977cf9ecca436e13",
+"source":"PI.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2024-04-19T03:34:00+00:00",
+"modified":"2024-04-19T07:14:47+00:00",
+"paragraphs":17,
+"tables":0,
+"embedded_images":5
+},
+"warnings":[],
+"chars":872,
+"text":"After check, we got 2 options for you.\nOption 1\nPrint logo and model name on the front chassis.\nAs I explained in last email, we first get a template, then print it.\nPleas do know that, all will be white color.\nIt is not about different color, and there might be some color or printing error(there is too much information on the photo).\nOption 2\nWe get a customized PVC mask.\nThis is not about a label/sticker, it is a PVC covering the whole front panel of this chassis.\nThis is more popular now, please see this example photo.\nThe fonts and colors are exactly copied and displayed.\nI know you are printing the logo and models on the case like MC100.\nWe can do this but this will be costly for a sample unit.\nOur advice is, take option 2 for testing and demonstration.\nIf all is OK, in next order, we can customize a batch of chassis for you.\nWhat do you think?\nThank you.",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"After check, we got 2 options for you."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Option 1"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Print logo and model name on the front chassis."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"As I explained in last email, we first get a template, then print it."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Pleas do know that, all will be white color."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is not about different color, and there might be some color or printing error(there is too much information on the photo)."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Option 2"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We get a customized PVC mask."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is not about a label/sticker, it is a PVC covering the whole front panel of this chassis."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is more popular now, please see this example photo."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The fonts and colors are exactly copied and displayed."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"I know you are printing the logo and models on the case like MC100."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We can do this but this will be costly for a sample unit."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Our advice is, take option 2 for testing and demonstration."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If all is OK, in next order, we can customize a batch of chassis for you."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"What do you think?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Thank you."
+}
+],
+"extracted_at":"2026-10-22T07:32:58Z"
+}

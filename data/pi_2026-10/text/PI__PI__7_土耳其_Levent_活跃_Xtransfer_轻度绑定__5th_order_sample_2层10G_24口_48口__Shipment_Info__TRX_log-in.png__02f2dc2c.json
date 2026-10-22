@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__5th_order_sample_2层10G_24口_48口__Shipment_Info__TRX_log-in.png__02f2dc2c",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/5th order sample  2层10G 24口 48口/Shipment Info/TRX log-in.png",
+"name":"TRX log-in.png",
+"ext":".png",
+"bytes":18837,
+"sha256":"02f2dc2ce0fd2e213eb94dd0985709776f158932a230219767cb2cc2a5cdc9af",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1257,
+"height":639,
+"mode":"RGBA",
+"thumb_bytes":3201
+},
+"warnings":[],
+"chars":49,
+"text":"TRX-AS-24TP4X\nManaged Ethernet Switch\nLogin Clear",
+"extracted_at":"2026-10-22T07:45:19Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__5th_order_sample_2层10G_24口_48口__Shipment_Info__TRX_log-in.png__02f2dc2c.jpg"
+}

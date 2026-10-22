@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__外箱箱标__箱唛.jpg__04c786fc",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/2nd order/发货图片/外箱箱标/箱唛.jpg",
+"name":"箱唛.jpg",
+"ext":".jpg",
+"bytes":887926,
+"sha256":"04c786fc31882dfdbd834a48235aa7df07c0f39d69eb804009cdb7aac716f1db",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1920,
+"height":1080,
+"mode":"RGB",
+"thumb_bytes":11143
+},
+"warnings":[],
+"chars":25,
+"text":"SEA2009-PERN\nSEA2000-PERN",
+"extracted_at":"2026-10-22T07:52:33Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__2nd_order__发货图片__外箱箱标__箱唛.jpg__04c786fc.jpg"
+}

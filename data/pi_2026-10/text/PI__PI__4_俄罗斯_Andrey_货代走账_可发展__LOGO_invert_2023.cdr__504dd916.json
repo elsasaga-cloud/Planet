@@ -1,0 +1,27 @@
+{
+"id":"PI__PI__4_俄罗斯_Andrey_货代走账_可发展__LOGO_invert_2023.cdr__504dd916",
+"path":"PI/PI/4 俄罗斯 Andrey 货代走账 可发展/LOGO invert 2023.cdr",
+"name":"LOGO invert 2023.cdr",
+"ext":".cdr",
+"bytes":18816,
+"sha256":"504dd916709f584e86ac4288477a166c48348697c20db4fa10de110236830584",
+"source":"PI.zip",
+"method":"soffice→pdf→pdfplumber+OCR(1p)",
+"status":"ok",
+"meta":{
+"pages":1,
+"creator":"Draw",
+"producer":"LibreOffice 24.2",
+"creationdate":"D:20261022074552Z'",
+"ocr_pages":1,
+"thumb_bytes":2855
+},
+"warnings":[],
+"chars":12,
+"text":"[p1]\nPRIORAT",
+"pages":[
+"PRIORAT"
+],
+"extracted_at":"2026-10-22T07:45:55Z",
+"thumb":"thumbs/PI__PI__4_俄罗斯_Andrey_货代走账_可发展__LOGO_invert_2023.cdr__504dd916.jpg"
+}

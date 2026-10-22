@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__14_印度_Manoj_可发展__1st_order__出货__6.jpg__0b276663",
+"path":"PI/PI/14 印度 Manoj 可发展/1st order/出货/6.jpg",
+"name":"6.jpg",
+"ext":".jpg",
+"bytes":19009,
+"sha256":"0b2766634ebcc262f14585da79d12b12ef37105991dfea783e93f77ed5a4db02",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":576,
+"height":581,
+"mode":"RGBA",
+"thumb_bytes":12097
+},
+"warnings":[],
+"chars":127,
+"text":"Product name: Industrial Switch\nModel: STI-0160GE\nQty.: 1PCS | 則 IM\n1\nSN: 咱 蔓 章 WMM\n20241109001\nWeight: 6.4 KG\nCarton No.: 1 /1",
+"extracted_at":"2026-10-22T07:36:44Z",
+"thumb":"thumbs/PI__PI__14_印度_Manoj_可发展__1st_order__出货__6.jpg__0b276663.jpg"
+}

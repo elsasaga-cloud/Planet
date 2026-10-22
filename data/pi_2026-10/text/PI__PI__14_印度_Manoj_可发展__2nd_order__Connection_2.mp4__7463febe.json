@@ -1,0 +1,25 @@
+{
+"id":"PI__PI__14_印度_Manoj_可发展__2nd_order__Connection_2.mp4__7463febe",
+"path":"PI/PI/14 印度 Manoj 可发展/2nd order/Connection 2.mp4",
+"name":"Connection 2.mp4",
+"ext":".mp4",
+"bytes":965125,
+"sha256":"7463febe6109066524608263a9487751850001792afd4f6d894bd10c7257c91f",
+"source":"PI.zip",
+"method":"ffprobe+ffmpeg",
+"status":"meta",
+"meta":{
+"duration_s":6.0,
+"width":720,
+"height":1280,
+"vcodec":"h264",
+"acodec":"aac",
+"creation_time":"2025-01-20T07:06:16.000000Z",
+"thumb_bytes":19990
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:35:22Z",
+"thumb":"thumbs/PI__PI__14_印度_Manoj_可发展__2nd_order__Connection_2.mp4__7463febe.jpg"
+}

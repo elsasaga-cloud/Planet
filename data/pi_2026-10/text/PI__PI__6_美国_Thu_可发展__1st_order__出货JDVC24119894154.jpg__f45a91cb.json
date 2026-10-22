@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__1st_order__出货JDVC24119894154.jpg__f45a91cb",
+"path":"PI/PI/6 美国 Thu 可发展/1st order/出货JDVC24119894154.jpg",
+"name":"出货JDVC24119894154.jpg",
+"ext":".jpg",
+"bytes":1377861,
+"sha256":"f45a91cbf265dc1dca118bc2c6b0e1635baeba6dd4fe73e6d1afbd378fbb31a2",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":1920,
+"height":1080,
+"mode":"RGB",
+"thumb_bytes":9203
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:33:18Z",
+"thumb":"thumbs/PI__PI__6_美国_Thu_可发展__1st_order__出货JDVC24119894154.jpg__f45a91cb.jpg"
+}

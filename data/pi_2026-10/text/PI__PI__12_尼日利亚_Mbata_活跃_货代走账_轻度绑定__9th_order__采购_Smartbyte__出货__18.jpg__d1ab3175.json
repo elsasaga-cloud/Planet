@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__9th_order__采购_Smartbyte__出货__18.jpg__d1ab3175",
+"path":"PI/PI/12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/9th order/采购_Smartbyte/出货/18.jpg",
+"name":"18.jpg",
+"ext":".jpg",
+"bytes":1444446,
+"sha256":"d1ab31756cbcb72b1a22b1a19afe34a86013876d234d8ec93875fb66f1adefb7",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":3344,
+"height":2014,
+"mode":"RGB",
+"thumb_bytes":9009
+},
+"warnings":[],
+"chars":1074,
+"text":"NETSTREAM\nMany thanks for your pure\nPlease read this user manual for safe and corr\n© The information described in this manual is ONLY\nabout general information, please refer to the actual\nproduct purchased\n@ Itis advised to keep the user manual properly\n@ Please let us know for any usage problem or que\nPacking List\nwitch (See the product label for more details)\nCord (Standards vary across countries)\n1\n3. Console Cable (USB to RJ45 Connector)\n4. Brackets, Screws (Rack Mountable)\nUser Manual (Printed Copy)\nApplication\n© Any network utilizing a mixture of copper and fib\n© IP connectivity and communicate\n© CCTV system such as network camera\nKey\nEco-friendly metal case,\n2. ACIDC power input, with intemal AC-DC\n3._ Rich Led indicators for real-time mon\n4. Resilient to ESD, EMI\nS. Compliant with industrial\nBGP4, IS.\n6. Layer 2/Layer3 covering static and dynamic\nECMP, IPV4/IPV6, VRRP, RIP, OSPI\nVLAN, STP/RSTP/MSTP, QoS, Ring, SNMP vl/v2chv3，\nMAC address, IPV4/IPV6, Web/TelneUCLUSSH, Standar\nMIB,\nWide port combination(10\n100M/1000M/2.5G/10G for\nribution layer, and ac",
+"extracted_at":"2026-10-22T08:03:04Z",
+"thumb":"thumbs/PI__PI__12_尼日利亚_Mbata_活跃_货代走账_轻度绑定__9th_order__采购_Smartbyte__出货__18.jpg__d1ab3175.jpg"
+}

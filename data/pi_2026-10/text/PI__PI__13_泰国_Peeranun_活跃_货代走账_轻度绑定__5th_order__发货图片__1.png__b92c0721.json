@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__5th_order__发货图片__1.png__b92c0721",
+"path":"PI/PI/13 泰国 Peeranun 活跃 货代走账 轻度绑定/5th order/发货图片/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":77589,
+"sha256":"b92c0721f62ca4ecc8c06808998ee7fde4c9659f54932df8173c667206793a8a",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1680,
+"height":1050,
+"mode":"RGB",
+"thumb_bytes":4357
+},
+"warnings":[],
+"chars":244,
+"text":"& Login - Switch x 十\nge ca 0 & Azz http://192.168.56.166/#/login?redirect=/monitor/dashboard\nOce-T Mash Oxzea OFERE Onxe O RET\nAA veerunk\n如\n分\n©\n則\ntl\nSTI-42424DGGPM\nManaged Ethernet Switch\nLogin Clear\n2xero\n938\n2025/12/17\n@a\nOn © we F&O\nA’CANA B",
+"extracted_at":"2026-10-22T07:54:17Z",
+"thumb":"thumbs/PI__PI__13_泰国_Peeranun_活跃_货代走账_轻度绑定__5th_order__发货图片__1.png__b92c0721.jpg"
+}

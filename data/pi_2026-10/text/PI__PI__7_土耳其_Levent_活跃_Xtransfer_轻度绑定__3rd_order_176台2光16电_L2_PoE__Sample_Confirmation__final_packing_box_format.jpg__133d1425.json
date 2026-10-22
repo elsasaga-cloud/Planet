@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__3rd_order_176台2光16电_L2_PoE__Sample_Confirmation__final_packing_box_format.jpg__133d1425",
+"path":"PI/PI/7 土耳其 Levent 活跃 Xtransfer 轻度绑定/3rd order 176台2光16电 L2 PoE/Sample Confirmation/final packing box format.jpg",
+"name":"final packing box format.jpg",
+"ext":".jpg",
+"bytes":378577,
+"sha256":"133d1425d32f85675673484ccb0040eab282d9816b06a82dee10abe2962ae75b",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":1440,
+"height":810,
+"mode":"RGB",
+"thumb_bytes":5273
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:40:33Z",
+"thumb":"thumbs/PI__PI__7_土耳其_Levent_活跃_Xtransfer_轻度绑定__3rd_order_176台2光16电_L2_PoE__Sample_Confirmation__final_packing_box_format.jpg__133d1425.jpg"
+}

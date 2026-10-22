@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__1st_order__awb.png__1d6f8881",
+"path":"PI/PI/15 德国 Frederik 活跃 Xtransfer 可发展/1st order/awb.png",
+"name":"awb.png",
+"ext":".png",
+"bytes":106765,
+"sha256":"1d6f88816e0a10f95589d6a632565d48eba8c1ad4a9820fc3e5e0193895cdd4f",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":554,
+"height":655,
+"mode":"RGBA",
+"thumb_bytes":22433
+},
+"warnings":[],
+"chars":189,
+"text":"SHIP TO:\nFREERIk KRIEWITZ\n49615150074119\nIN as aS one\n64293 DARMSTADT DE\nGERMANY\nDEU 063 9-00\nTRACKING #: 1Z 144 AW7 04 2508 7646\nBILLING: P/P\nDESC: Commercial Ethernet Switch EDI\nUPS SAVER",
+"extracted_at":"2026-10-22T07:34:15Z",
+"thumb":"thumbs/PI__PI__15_德国_Frederik_活跃_Xtransfer_可发展__1st_order__awb.png__1d6f8881.jpg"
+}

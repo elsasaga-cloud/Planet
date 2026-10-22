@@ -1,0 +1,469 @@
+{
+"id":"PI__PI__2_印度_Rishi_gg__Fastball_Price.xls__7df715d9",
+"path":"PI/PI/2 印度 Rishi gg/Fastball Price.xls",
+"name":"Fastball Price.xls",
+"ext":".xls",
+"bytes":7336960,
+"sha256":"7df715d9308de0525a1fba52a9e248dacfceb391773584937cb9ccbe6ebdc67b",
+"source":"PI.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Saga Telecom"
+],
+"rows_total":65
+},
+"warnings":[],
+"chars":11207,
+"text":"--- Sheet: Saga Telecom ---\nZhengzhou Saga Telecom Co., Ltd.\nAddress: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 15237149683                                          www.sagatelecom.com.cn                                 Email: s.sagatelecom@gmail.com\n************************************************************************************************************************************************************************\nCommercial Ethernet Switch(Unmanaged, Non-POE series)\nModel\tSpecification\t\t\t\tUnit Price \n(USD)\tPicture\nSTC-05GE\t5*10/100/1000M RJ45\nDC5V1A, metal case, with power adapter\t\t\t\t6\nSTC-08GE\t8*10/100/1000M RJ45\nDC5V2A, metal case, with power adapter\t\t\t\t10\nSTC-016GE\t16*10/100/1000M RJ45\nSupport vlan/extend mode, QoS, loop alarm\nAC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t33\nSTC-024GE-D\t24*10/100/1000M RJ45\nSupport vlan/extend mode, QoS, loop alarm \nAC input, Desktop type, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t41.5\nSTC-024GE-U\t24*10/100/1000M RJ45\nSupport vlan/extend mode, QoS, loop alarm \nAC input, 1U rack type, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t47.5\nSTC-224GE\t2*Gigabit SFP+24*10/100/1000M RJ45\nSupport vlan/extend mode, QoS\nAC input, 1U rack type, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t50\nSTC-248GE\t2*Gigabit SFP+48*10/100/1000M RJ45\nSupport vlan/extend mode, loop alarm \nAC input, 1U rack type, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t122\nSTC-15XGDGE\t1*10G SFP+5*2.5G RJ45, downward compatible\nDC12V1A, metal case, with power adapter\t\t\t\t38\nSTC-18XGDGE\t1*10G SFP+8*2.5G RJ45, downward compatible\nDC12V2A, metal case, with power adapter\t\t\t\t50\nCommercial POE Switch(Unmanaged series)\nModel\tSpecification\t\t\t\tUnit Price (USD)\tPhoto\nSTC-024FP\t2*10/100M RJ45 Uplink+4*10/100M POE Downlink\nPOE af/at, 55W budget, Support vlan/extend\nAC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t9\nSTC-028FP\t2*10/100M RJ45 Uplink+8*10/100M POE Downlink\nPOE af/at, 96W budget, Support vlan/extend\nAC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t12.5\nSTC-028GFP\t2*10/100/1000M RJ45 Uplink+8*10/100M POE Downlink\nPOE af/at, 96W budget, Support vlan/extend\nAC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t16.5\nSTC-128GFP\t1*Gigabit SFP+2*10/100/1000M RJ45 Uplink+8*10/100M POE Downlink\nPOE af/at, 120W budget, Support vlan/extend\nAC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t20\nSTC-0216GFP\t2*10/100/1000M RJ45 Uplink+16*10/100M POE Downlink\nPOE af/at, 300W budget, Support vlan/extend\nAC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t33\nSTC-1216GFP\t1*Gigabit SFP+2*10/100/1000M RJ45 Uplink+16*10/100M POE Downlink\nPOE af/at, 300W budget, Support vlan/extend\nAC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t40\nSTC-0224GFP\t2*10/100/1000M RJ45 Uplink+24*10/100M POE Downlink\nPOE af/at, 300W budget, Support vlan/extend\nAC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t48\nSTC-1224GFP\t1*Gigabit SFP+2*10/100/1000M RJ45 Uplink+24*10/100M POE Downlink\nPOE af/at, 300W budget, Support vlan/extend\nAC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t55\nSTC-114GP\t1*Gigabit SFP+1*10/100/1000M RJ45 Uplink+4*10/100/1000M POE Downlink\nPOE af/at, 60W budget, Support vlan/extend\nAC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t15\nSTC-024GP\t2*10/100/1000M RJ45 Uplink+4*10/100/1000M POE Downlink\nPOE af/at, 60W budget, Support vlan/extend\nAC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t16.5\nSTC-204GP\t2*Gigabit SFP+4*10/100/1000M POE Downlink\nPOE af/at, 60W budget, Support vlan/extend\nAC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t18\nSTC-028GP\t2*10/100/1000M RJ45 Uplink+8*10/100/1000M POE Downlink\nPOE af/at, 120W budget, Support vlan/extend, POE priority\nAC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t21.5\nSTC-228GP\t2*Gigabit SFP+2*10/100/1000M RJ45 Uplink+8*10/100/1000M POE Downlink\nPOE af/at, 120W budget, Support vlan/extend, POE priority\nAC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t26.5\nSTC-2016GP\t2*Gigabit SFP+16*10/100/1000M POE Downlink\nPOE af/at, 300W budget, Support vlan/extend\nAC input, 1U rack type, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t78\nSTC-2216GP\t2*Gigabit SFP+2*10/100/1000M RJ45 Uplink+16*10/100/1000M POE Downlink\nPOE af/at, 200W budget, Support vlan/extend, POE watchdog\nAC input, 1U rack type, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t80\nSTC-2024GP\t2*Gigabit SFP+24*10/100/1000M POE Downlink\nPOE af/at, 300W budget, Support vlan/extend, QoS\nAC input, 1U rack type, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t84\nSTC-2224GP\t2*Gigabit SFP+2*10/100/1000M RJ45 Uplink+24*10/100/1000M POE Downlink\nPOE af/at, 300W budget, Support vlan/extend, POE watchdog\nAC input, 1U rack type, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t88\nCommercial Managed Switch(Non-POE&POE series)\nSTC-28GM\t2*Gigabit SFP+8*10/100/1000M RJ45+1*Console Port\nL2 managed, Support Routing, VLAN, MAC address, QoS,  IPV4/IPV6, Ring, STP/RSTP/MSTP, Web/Telnet/CLI/SSH...\nAC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t45\nSTC-424GM\t4*Gigabit SFP+24*10/100/1000M RJ45+1*Console Port\nL2 managed, Support Routing, VLAN, MAC address, QoS,  IPV4/IPV6, Ring, STP/RSTP/MSTP, Web/Telnet/CLI/SSH...\nAC input, 1U rack, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t87.5\nSTC-424XGGM\t4*10 Gigabit SFP+24*10/100/1000M RJ45+1*USB Port+1*Console Port\nL3 managed, Support Routing, VLAN, MAC address, QoS,  IPV4/IPV6, Ring, STP/RSTP/MSTP, Web/Telnet/CLI/SSH...\nAC input, 1U rack, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t111\nSTC-4248XGGCM\t4*10 Gigabit SFP+16*Gigabit SFP+8*Gigabit SFP/RJ45(Combo ports)+1*Console Port\nL3 managed, Support Routing, VLAN, MAC address, QoS,  IPV4/IPV6, Ring, STP/RSTP/MSTP, Web/Telnet/CLI/SSH...\nAC input, 1U rack, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t265\nSTC-448XGGM\t4*10 Gigabit SFP+48*10/100/1000M RJ45+1*USB Port+1*Console Port\nL3 managed, Support Routing, VLAN, MAC address, QoS,  IPV4/IPV6, Ring, STP/RSTP/MSTP, Web/Telnet/CLI/SSH...\nAC input, 1U rack, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t223\nSTC-120XGM\t12*10 Gigabit SFP+1*Console Port\nL3 managed, Support Routing, VLAN, MAC address, QoS,  IPV4/IPV6, Ring, STP/RSTP/MSTP, Web/Telnet/CLI/SSH...\nAC input, 1U rack, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t150\nSTC-28GPM\t2*Gigabit SFP+8*10/100/1000M RJ45+1*Console Port\nL2 managed, Support Routing, VLAN, MAC address, QoS,  IPV4/IPV6, Ring, STP/RSTP/MSTP, Web/Telnet/CLI/SSH...\nPOE af/at, 120W budget, AC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t55\nSTC-2216GPM\t2*Gigabit SFP+2*10/100/1000M RJ45 Uplink+16*10/100/1000M POE Downlink+1*Console Port\nL2 managed, Support Routing, VLAN, MAC address, QoS,  IPV4/IPV6, Ring, STP/RSTP/MSTP, Web/Telnet/CLI/SSH...\nPOE af/at, 300W budget, AC input, 1U rack, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t130\nSTC-4424GCPM\t4*Gigabit SFP/RJ45(Combo ports)+24*10/100/1000M+1*Console Port\nL2 managed, Support Routing, VLAN, MAC address, QoS,  IPV4/IPV6, Ring, STP/RSTP/MSTP, Web/Telnet/CLI/SSH...\nPOE af/at, 300W budget, AC input, 1U rack, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t140\nSTC-424XGGPM\t4*10 Gigabit SFP+24*10/100/1000M RJ45+1*USB Port+1*Console Port\nL3 managed, Support Routing, VLAN, MAC address, QoS,  IPV4/IPV6, Ring, STP/RSTP/MSTP, Web/Telnet/CLI/SSH...\nPOE af/at, 300W budget, AC input, 1U rack, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t225\nSTC-448XGGPM\t4*10 Gigabit SFP+48*10/100/1000M RJ45+1*USB Port+1*Console Port\nL3 managed, Support Routing, VLAN, MAC address, QoS,  IPV4/IPV6, Ring, STP/RSTP/MSTP, Web/Telnet/CLI/SSH...\nPOE af/at/bt, 400W budget, AC input, 1U rack, with internal AC-DC converter, metal case, with power cord, with mounting brackets\t\t\t\t350\nIndustrial Ethernet Switch(Unmanaged, Non-POE series)\nSTI-014FE\t1*10/100M RJ45+4*10/100M RJ45\nSupport extend mode\nDC12V~DC55V(Dual Green Terminal and One DC Jack), -40℃ to 75℃, Din mounting\t\t\t\t12\nSTI-118GFE\t1*Gigabit SFP+1*10/100/1000M RJ45 Uplink+8*10/100M RJ45 Downlink\nSupport vlan/extend mode\nDC12V~DC55V(Dual Green Terminal and One DC Jack), -40℃ to 75℃, Din mounting, Without SFP Transceiver\t\t\t\t25\nSTI-114GE\t1*Gigabit SFP+1*10/100/1000M RJ45 Uplink+4*10/100/1000M RJ45 Downlink\nSupport vlan/extend mode\nDC12V~DC55V(Dual Green Terminal and One DC Jack), -40℃ to 75℃, Din mounting, Without SFP Transceiver\t\t\t\t16.5\nSTI-204GE\t2*Gigabit SFP+4*10/100/1000M RJ45\nSupport vlan/extend mode\nDC12V~DC55V(Dual Green Terminal and One DC Jack), -40℃ to 75℃, Din mounting, Without SFP Transceiver\t\t\t\t21\nSTI-208GE\t2*Gigabit SFP+8*10/100/1000M RJ45\nDC12V~DC55V(Dual Green Terminal), -40℃ to 75℃, Din mounting, Without SFP Transceiver\t\t\t\t45\nIndustrial Ethernet Switch(Unmanaged, POE series)\nSTI-014FP\t1*10/100M RJ45+4*10/100M RJ45\nPOE af/at, 120W, Support extend mode\nDC48V~DC55V(Dual Green Terminal and One DC Jack), -40℃ to 75℃, Din mounting\t\t\t\t17.5\nSTI-118GFP\t1*Gigabit SFP+1*10/100/1000M RJ45 Uplink+8*10/100M RJ45 Downlink\nPOE af/at, 240W, Support vlan/extend mode\nDC48V~DC55V(Dual Green Terminal and One DC Jack), -40℃ to 75℃, Din mounting, Without SFP Transceiver\t\t\t\t32.5\nSTI-114GP\t1*Gigabit SFP+1*10/100/1000M RJ45 Uplink+4*10/100/1000M RJ45 Downlink\nPOE af/at, 120W, Support vlan/extend mode\nDC48V~DC55V(Dual Green Terminal and One DC Jack), -40℃ to 75℃, Din mounting, Without SFP Transceiver\t\t\t\t24\nSTI-204GP\t2*Gigabit SFP+4*10/100/1000M RJ45\nPOE af/at, 120W, Support vlan/extend mode\nDC48V~DC55V(Dual Green Terminal and One DC Jack), -40℃ to 75℃, Din mounting, Without SFP Transceiver\t\t\t\t28\nSTI-208GP\t2*Gigabit SFP+8*10/100/1000M RJ45\nPOE af/at, 240W\nDC48V~DC55V(Dual Green Terminal), -40℃ to 75℃, Din mounting, Without SFP Transceiver\t\t\t\t54\nRemarks\n1. Prices are valid for 15 days\n2. STI FULL Series do NOT include power supply and SFP Transceiver\n3. Price term: EXW\n4. Warranty period: STC Series one year, STI Series three years\n5. Lead time for less than 50pcs: within 5 working days\n6. Customization is available",
+"sheets":{
+"Saga Telecom":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 15237149683                                          www.sagatelecom.com.cn                                 Email: s.sagatelecom@gmail.com"
+],
+[
+"************************************************************************************************************************************************************************"
+],
+[
+"Commercial Ethernet Switch(Unmanaged, Non-POE series)"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"",
+"Unit Price \n(USD)",
+"Picture"
+],
+[
+"STC-05GE",
+"5*10/100/1000M RJ45\nDC5V1A, metal case, with power adapter",
+"",
+"",
+"",
+"6"
+],
+[
+"STC-08GE",
+"8*10/100/1000M RJ45\nDC5V2A, metal case, with power adapter",
+"",
+"",
+"",
+"10"
+],
+[
+"STC-016GE",
+"16*10/100/1000M RJ45\nSupport vlan/extend mode, QoS, loop alarm\nAC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"33"
+],
+[
+"STC-024GE-D",
+"24*10/100/1000M RJ45\nSupport vlan/extend mode, QoS, loop alarm \nAC input, Desktop type, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"41.5"
+],
+[
+"STC-024GE-U",
+"24*10/100/1000M RJ45\nSupport vlan/extend mode, QoS, loop alarm \nAC input, 1U rack type, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"47.5"
+],
+[
+"STC-224GE",
+"2*Gigabit SFP+24*10/100/1000M RJ45\nSupport vlan/extend mode, QoS\nAC input, 1U rack type, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"50"
+],
+[
+"STC-248GE",
+"2*Gigabit SFP+48*10/100/1000M RJ45\nSupport vlan/extend mode, loop alarm \nAC input, 1U rack type, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"122"
+],
+[
+"STC-15XGDGE",
+"1*10G SFP+5*2.5G RJ45, downward compatible\nDC12V1A, metal case, with power adapter",
+"",
+"",
+"",
+"38"
+],
+[
+"STC-18XGDGE",
+"1*10G SFP+8*2.5G RJ45, downward compatible\nDC12V2A, metal case, with power adapter",
+"",
+"",
+"",
+"50"
+],
+[
+"Commercial POE Switch(Unmanaged series)"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"",
+"Unit Price (USD)",
+"Photo"
+],
+[
+"STC-024FP",
+"2*10/100M RJ45 Uplink+4*10/100M POE Downlink\nPOE af/at, 55W budget, Support vlan/extend\nAC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"9"
+],
+[
+"STC-028FP",
+"2*10/100M RJ45 Uplink+8*10/100M POE Downlink\nPOE af/at, 96W budget, Support vlan/extend\nAC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"12.5"
+],
+[
+"STC-028GFP",
+"2*10/100/1000M RJ45 Uplink+8*10/100M POE Downlink\nPOE af/at, 96W budget, Support vlan/extend\nAC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"16.5"
+],
+[
+"STC-128GFP",
+"1*Gigabit SFP+2*10/100/1000M RJ45 Uplink+8*10/100M POE Downlink\nPOE af/at, 120W budget, Support vlan/extend\nAC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"20"
+],
+[
+"STC-0216GFP",
+"2*10/100/1000M RJ45 Uplink+16*10/100M POE Downlink\nPOE af/at, 300W budget, Support vlan/extend\nAC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"33"
+],
+[
+"STC-1216GFP",
+"1*Gigabit SFP+2*10/100/1000M RJ45 Uplink+16*10/100M POE Downlink\nPOE af/at, 300W budget, Support vlan/extend\nAC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"40"
+],
+[
+"STC-0224GFP",
+"2*10/100/1000M RJ45 Uplink+24*10/100M POE Downlink\nPOE af/at, 300W budget, Support vlan/extend\nAC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"48"
+],
+[
+"STC-1224GFP",
+"1*Gigabit SFP+2*10/100/1000M RJ45 Uplink+24*10/100M POE Downlink\nPOE af/at, 300W budget, Support vlan/extend\nAC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"55"
+],
+[
+"STC-114GP",
+"1*Gigabit SFP+1*10/100/1000M RJ45 Uplink+4*10/100/1000M POE Downlink\nPOE af/at, 60W budget, Support vlan/extend\nAC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"15"
+],
+[
+"STC-024GP",
+"2*10/100/1000M RJ45 Uplink+4*10/100/1000M POE Downlink\nPOE af/at, 60W budget, Support vlan/extend\nAC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"16.5"
+],
+[
+"STC-204GP",
+"2*Gigabit SFP+4*10/100/1000M POE Downlink\nPOE af/at, 60W budget, Support vlan/extend\nAC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"18"
+],
+[
+"STC-028GP",
+"2*10/100/1000M RJ45 Uplink+8*10/100/1000M POE Downlink\nPOE af/at, 120W budget, Support vlan/extend, POE priority\nAC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"21.5"
+],
+[
+"STC-228GP",
+"2*Gigabit SFP+2*10/100/1000M RJ45 Uplink+8*10/100/1000M POE Downlink\nPOE af/at, 120W budget, Support vlan/extend, POE priority\nAC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"26.5"
+],
+[
+"STC-2016GP",
+"2*Gigabit SFP+16*10/100/1000M POE Downlink\nPOE af/at, 300W budget, Support vlan/extend\nAC input, 1U rack type, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"78"
+],
+[
+"STC-2216GP",
+"2*Gigabit SFP+2*10/100/1000M RJ45 Uplink+16*10/100/1000M POE Downlink\nPOE af/at, 200W budget, Support vlan/extend, POE watchdog\nAC input, 1U rack type, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"80"
+],
+[
+"STC-2024GP",
+"2*Gigabit SFP+24*10/100/1000M POE Downlink\nPOE af/at, 300W budget, Support vlan/extend, QoS\nAC input, 1U rack type, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"84"
+],
+[
+"STC-2224GP",
+"2*Gigabit SFP+2*10/100/1000M RJ45 Uplink+24*10/100/1000M POE Downlink\nPOE af/at, 300W budget, Support vlan/extend, POE watchdog\nAC input, 1U rack type, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"88"
+],
+[
+"Commercial Managed Switch(Non-POE&POE series)"
+],
+[
+"STC-28GM",
+"2*Gigabit SFP+8*10/100/1000M RJ45+1*Console Port\nL2 managed, Support Routing, VLAN, MAC address, QoS,  IPV4/IPV6, Ring, STP/RSTP/MSTP, Web/Telnet/CLI/SSH...\nAC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"45"
+],
+[
+"STC-424GM",
+"4*Gigabit SFP+24*10/100/1000M RJ45+1*Console Port\nL2 managed, Support Routing, VLAN, MAC address, QoS,  IPV4/IPV6, Ring, STP/RSTP/MSTP, Web/Telnet/CLI/SSH...\nAC input, 1U rack, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"87.5"
+],
+[
+"STC-424XGGM",
+"4*10 Gigabit SFP+24*10/100/1000M RJ45+1*USB Port+1*Console Port\nL3 managed, Support Routing, VLAN, MAC address, QoS,  IPV4/IPV6, Ring, STP/RSTP/MSTP, Web/Telnet/CLI/SSH...\nAC input, 1U rack, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"111"
+],
+[
+"STC-4248XGGCM",
+"4*10 Gigabit SFP+16*Gigabit SFP+8*Gigabit SFP/RJ45(Combo ports)+1*Console Port\nL3 managed, Support Routing, VLAN, MAC address, QoS,  IPV4/IPV6, Ring, STP/RSTP/MSTP, Web/Telnet/CLI/SSH...\nAC input, 1U rack, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"265"
+],
+[
+"STC-448XGGM",
+"4*10 Gigabit SFP+48*10/100/1000M RJ45+1*USB Port+1*Console Port\nL3 managed, Support Routing, VLAN, MAC address, QoS,  IPV4/IPV6, Ring, STP/RSTP/MSTP, Web/Telnet/CLI/SSH...\nAC input, 1U rack, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"223"
+],
+[
+"STC-120XGM",
+"12*10 Gigabit SFP+1*Console Port\nL3 managed, Support Routing, VLAN, MAC address, QoS,  IPV4/IPV6, Ring, STP/RSTP/MSTP, Web/Telnet/CLI/SSH...\nAC input, 1U rack, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"150"
+],
+[
+"STC-28GPM",
+"2*Gigabit SFP+8*10/100/1000M RJ45+1*Console Port\nL2 managed, Support Routing, VLAN, MAC address, QoS,  IPV4/IPV6, Ring, STP/RSTP/MSTP, Web/Telnet/CLI/SSH...\nPOE af/at, 120W budget, AC input, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"55"
+],
+[
+"STC-2216GPM",
+"2*Gigabit SFP+2*10/100/1000M RJ45 Uplink+16*10/100/1000M POE Downlink+1*Console Port\nL2 managed, Support Routing, VLAN, MAC address, QoS,  IPV4/IPV6, Ring, STP/RSTP/MSTP, Web/Telnet/CLI/SSH...\nPOE af/at, 300W budget, AC input, 1U rack, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"130"
+],
+[
+"STC-4424GCPM",
+"4*Gigabit SFP/RJ45(Combo ports)+24*10/100/1000M+1*Console Port\nL2 managed, Support Routing, VLAN, MAC address, QoS,  IPV4/IPV6, Ring, STP/RSTP/MSTP, Web/Telnet/CLI/SSH...\nPOE af/at, 300W budget, AC input, 1U rack, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"140"
+],
+[
+"STC-424XGGPM",
+"4*10 Gigabit SFP+24*10/100/1000M RJ45+1*USB Port+1*Console Port\nL3 managed, Support Routing, VLAN, MAC address, QoS,  IPV4/IPV6, Ring, STP/RSTP/MSTP, Web/Telnet/CLI/SSH...\nPOE af/at, 300W budget, AC input, 1U rack, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"225"
+],
+[
+"STC-448XGGPM",
+"4*10 Gigabit SFP+48*10/100/1000M RJ45+1*USB Port+1*Console Port\nL3 managed, Support Routing, VLAN, MAC address, QoS,  IPV4/IPV6, Ring, STP/RSTP/MSTP, Web/Telnet/CLI/SSH...\nPOE af/at/bt, 400W budget, AC input, 1U rack, with internal AC-DC converter, metal case, with power cord, with mounting brackets",
+"",
+"",
+"",
+"350"
+],
+[
+"Industrial Ethernet Switch(Unmanaged, Non-POE series)"
+],
+[
+"STI-014FE",
+"1*10/100M RJ45+4*10/100M RJ45\nSupport extend mode\nDC12V~DC55V(Dual Green Terminal and One DC Jack), -40℃ to 75℃, Din mounting",
+"",
+"",
+"",
+"12"
+],
+[
+"STI-118GFE",
+"1*Gigabit SFP+1*10/100/1000M RJ45 Uplink+8*10/100M RJ45 Downlink\nSupport vlan/extend mode\nDC12V~DC55V(Dual Green Terminal and One DC Jack), -40℃ to 75℃, Din mounting, Without SFP Transceiver",
+"",
+"",
+"",
+"25"
+],
+[
+"STI-114GE",
+"1*Gigabit SFP+1*10/100/1000M RJ45 Uplink+4*10/100/1000M RJ45 Downlink\nSupport vlan/extend mode\nDC12V~DC55V(Dual Green Terminal and One DC Jack), -40℃ to 75℃, Din mounting, Without SFP Transceiver",
+"",
+"",
+"",
+"16.5"
+],
+[
+"STI-204GE",
+"2*Gigabit SFP+4*10/100/1000M RJ45\nSupport vlan/extend mode\nDC12V~DC55V(Dual Green Terminal and One DC Jack), -40℃ to 75℃, Din mounting, Without SFP Transceiver",
+"",
+"",
+"",
+"21"
+],
+[
+"STI-208GE",
+"2*Gigabit SFP+8*10/100/1000M RJ45\nDC12V~DC55V(Dual Green Terminal), -40℃ to 75℃, Din mounting, Without SFP Transceiver",
+"",
+"",
+"",
+"45"
+],
+[
+"Industrial Ethernet Switch(Unmanaged, POE series)"
+],
+[
+"STI-014FP",
+"1*10/100M RJ45+4*10/100M RJ45\nPOE af/at, 120W, Support extend mode\nDC48V~DC55V(Dual Green Terminal and One DC Jack), -40℃ to 75℃, Din mounting",
+"",
+"",
+"",
+"17.5"
+],
+[
+"STI-118GFP",
+"1*Gigabit SFP+1*10/100/1000M RJ45 Uplink+8*10/100M RJ45 Downlink\nPOE af/at, 240W, Support vlan/extend mode\nDC48V~DC55V(Dual Green Terminal and One DC Jack), -40℃ to 75℃, Din mounting, Without SFP Transceiver",
+"",
+"",
+"",
+"32.5"
+],
+[
+"STI-114GP",
+"1*Gigabit SFP+1*10/100/1000M RJ45 Uplink+4*10/100/1000M RJ45 Downlink\nPOE af/at, 120W, Support vlan/extend mode\nDC48V~DC55V(Dual Green Terminal and One DC Jack), -40℃ to 75℃, Din mounting, Without SFP Transceiver",
+"",
+"",
+"",
+"24"
+],
+[
+"STI-204GP",
+"2*Gigabit SFP+4*10/100/1000M RJ45\nPOE af/at, 120W, Support vlan/extend mode\nDC48V~DC55V(Dual Green Terminal and One DC Jack), -40℃ to 75℃, Din mounting, Without SFP Transceiver",
+"",
+"",
+"",
+"28"
+],
+[
+"STI-208GP",
+"2*Gigabit SFP+8*10/100/1000M RJ45\nPOE af/at, 240W\nDC48V~DC55V(Dual Green Terminal), -40℃ to 75℃, Din mounting, Without SFP Transceiver",
+"",
+"",
+"",
+"54"
+],
+[
+"Remarks"
+],
+[
+"1. Prices are valid for 15 days"
+],
+[
+"2. STI FULL Series do NOT include power supply and SFP Transceiver"
+],
+[
+"3. Price term: EXW"
+],
+[
+"4. Warranty period: STC Series one year, STI Series three years"
+],
+[
+"5. Lead time for less than 50pcs: within 5 working days"
+],
+[
+"6. Customization is available"
+]
+]
+}
+},
+"extracted_at":"2026-10-22T07:31:04Z"
+}

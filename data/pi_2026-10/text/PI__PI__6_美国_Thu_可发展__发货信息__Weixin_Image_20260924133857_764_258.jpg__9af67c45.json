@@ -1,0 +1,23 @@
+{
+"id":"PI__PI__6_美国_Thu_可发展__发货信息__Weixin_Image_20260924133857_764_258.jpg__9af67c45",
+"path":"PI/PI/6 美国 Thu 可发展/发货信息/Weixin Image_20260924133857_764_258.jpg",
+"name":"Weixin Image_20260924133857_764_258.jpg",
+"ext":".jpg",
+"bytes":1181167,
+"sha256":"9af67c45c98e2b7c47742f4f74ed78833cc8dc6a603d9acc7e2fc04d8afd14d7",
+"source":"PI.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":2180,
+"height":678,
+"mode":"RGB",
+"thumb_bytes":6932
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T07:32:29Z",
+"thumb":"thumbs/PI__PI__6_美国_Thu_可发展__发货信息__Weixin_Image_20260924133857_764_258.jpg__9af67c45.jpg"
+}
