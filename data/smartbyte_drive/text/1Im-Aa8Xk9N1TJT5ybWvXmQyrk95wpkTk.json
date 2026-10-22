@@ -1,0 +1,22 @@
+{
+"id":"1Im-Aa8Xk9N1TJT5ybWvXmQyrk95wpkTk",
+"name":"10.png",
+"path":"SmartByte/管理界面图/10.png",
+"type":"图片",
+"bytes":32212,
+"sha256":"0ba97f8536c5f54200675f56f04117fd0ffcc40a09943a57ac100f554a70b0bb",
+"extracted_at":"2026-10-22T02:10:37Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":1920,
+"height":1035,
+"mode":"RGBA",
+"thumb_bytes":2358
+},
+"ocr":{
+"text":"& Login - Switch\nca\n0 & 192.168.56.166/#/login?redirect=/monitor/dashboard\n>\nManaged Ethernet Switch\nLogin Clear",
+"conf":87.8
+},
+"text":"& Login - Switch\nca\n0 & 192.168.56.166/#/login?redirect=/monitor/dashboard\n>\nManaged Ethernet Switch\nLogin Clear"
+}

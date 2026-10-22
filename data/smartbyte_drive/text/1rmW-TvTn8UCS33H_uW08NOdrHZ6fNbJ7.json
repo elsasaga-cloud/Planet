@@ -1,0 +1,22 @@
+{
+"id":"1rmW-TvTn8UCS33H_uW08NOdrHZ6fNbJ7",
+"name":"7.png",
+"path":"SmartByte/管理界面图/7.png",
+"type":"图片",
+"bytes":117117,
+"sha256":"af7689f811abb088dbc5c9b4aeee55b3c50205cb9f1297f396dee429db5d7a89",
+"extracted_at":"2026-10-22T02:10:44Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":1734,
+"height":1407,
+"mode":"RGBA",
+"thumb_bytes":6309
+},
+"ocr":{
+"text":"Port Security - Switch x 十\nC A Notsecure | 192.168.56.166/#/config/security/psec\nConfiguration v / Security\nPort Configuration\n2 Batch Edit\nName Max MAC Number\nMAC Configuration\n+ Add\nInterface MAC Address\nAging Time(min.)\nAging Static\nViolation Mode\n» Port State\nAction",
+"conf":84.5
+},
+"text":"Port Security - Switch x 十\nC A Notsecure | 192.168.56.166/#/config/security/psec\nConfiguration v / Security\nPort Configuration\n2 Batch Edit\nName Max MAC Number\nMAC Configuration\n+ Add\nInterface MAC Address\nAging Time(min.)\nAging Static\nViolation Mode\n» Port State\nAction"
+}

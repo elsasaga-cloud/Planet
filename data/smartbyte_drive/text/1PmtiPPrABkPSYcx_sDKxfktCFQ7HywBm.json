@@ -1,0 +1,22 @@
+{
+"id":"1PmtiPPrABkPSYcx_sDKxfktCFQ7HywBm",
+"name":"2.png",
+"path":"SmartByte/管理界面图/2.png",
+"type":"图片",
+"bytes":151693,
+"sha256":"3d14334e939e51b2ec5b76c9de7fb4446386ae2d617e613cdb89ebc8de8ce247",
+"extracted_at":"2026-10-22T02:10:46Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":1734,
+"height":1407,
+"mode":"RGBA",
+"thumb_bytes":8318
+},
+"ocr":{
+"text":"九 DHCP Snooping Configuratio x 十\n€ C A Notsecure | 192.168.56.166/#/advance/I2/dhcpsnp\nAdvan\nVLAN Port Configuration ERPS portsecuriy LDP Configuration 。 IGSp Configuration MAC Configuration ee\nGlobal Configuration\n* VLAN list: 1-4094 Verify mac-address:\nAdvance\nDB write-delay(second):\nv Apply Meera\n» DHCP Snooping State\nRatelimit(pps)\ngigabitEthernet0/1\ngigabitEthernet0/2\ngigabitEthernet0/3\ngigabitEthereto/4\ngigabitEthernet0/5\ngigabitEthernet0/6\ngigabitEthernet0/7\ngigabitEthernet0/8\ntengigabitEthernet0/9\ntengigabitEthernet0/10\ntengigabitEthernet0/11\ntengigabitEthernet0/12\ngigabitEthernet0/13\ngigabitEthernet0/14\ngigabitEthernet0/15\ngigabitEthernet0/16",
+"conf":64.9
+},
+"text":"九 DHCP Snooping Configuratio x 十\n€ C A Notsecure | 192.168.56.166/#/advance/I2/dhcpsnp\nAdvan\nVLAN Port Configuration ERPS portsecuriy LDP Configuration 。 IGSp Configuration MAC Configuration ee\nGlobal Configuration\n* VLAN list: 1-4094 Verify mac-address:\nAdvance\nDB write-delay(second):\nv Apply Meera\n» DHCP Snooping State\nRatelimit(pps)\ngigabitEthernet0/1\ngigabitEthernet0/2\ngigabitEthernet0/3\ngigabitEthereto/4\ngigabitEthernet0/5\ngigabitEthernet0/6\ngigabitEthernet0/7\ngigabitEthernet0/8\ntengigabitEthernet0/9\ntengigabitEthernet0/10\ntengigabitEthernet0/11\ntengigabitEthernet0/12\ngigabitEthernet0/13\ngigabitEthernet0/14\ngigabitEthernet0/15\ngigabitEthernet0/16"
+}

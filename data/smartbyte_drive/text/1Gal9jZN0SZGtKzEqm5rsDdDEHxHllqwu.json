@@ -1,0 +1,22 @@
+{
+"id":"1Gal9jZN0SZGtKzEqm5rsDdDEHxHllqwu",
+"name":"Customization before log-in.jpg",
+"path":"SmartByte/管理界面图/Customization before log-in.jpg",
+"type":"图片",
+"bytes":63925,
+"sha256":"c75a12aea5e4579c043bcf2bb258f0ea5fa1772e80ae8d76bbb7ef3f1cd2b4f8",
+"extracted_at":"2026-10-22T02:10:50Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":1920,
+"height":1032,
+"mode":"RGB",
+"thumb_bytes":2940
+},
+"ocr":{
+"text":"E toain- svc a Given IP Address\nca 0 & 192.168.56.166/#/login?redirect=/monitor/dashboard\nLogo\nModel Name\nManaged Ethernet Switch\n[a\nLogin Clear",
+"conf":78.6
+},
+"text":"E toain- svc a Given IP Address\nca 0 & 192.168.56.166/#/login?redirect=/monitor/dashboard\nLogo\nModel Name\nManaged Ethernet Switch\n[a\nLogin Clear"
+}

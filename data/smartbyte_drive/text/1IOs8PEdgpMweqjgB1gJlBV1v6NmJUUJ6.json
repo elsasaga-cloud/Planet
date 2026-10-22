@@ -1,0 +1,22 @@
+{
+"id":"1IOs8PEdgpMweqjgB1gJlBV1v6NmJUUJ6",
+"name":"3.png",
+"path":"SmartByte/管理界面图/3.png",
+"type":"图片",
+"bytes":110451,
+"sha256":"81726246de23652952e03f51b0ed47deade814a790c33134392e0dea1a88aaea",
+"extracted_at":"2026-10-22T02:10:38Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":1734,
+"height":1407,
+"mode":"RGBA",
+"thumb_bytes":6141
+},
+"ocr":{
+"text":"B\n€\nERPS - Switch\nCA Notsecure\nx 十\n192.168.56.166/#/config/erps\nConfiguration\nVLAN Port Configuration Ea\nRing Configura\nEast Interface\nInstance Configuration\n十 Add\nName RAPS VLAN\nWest Interface\n‘Owner Interface\nSubring Block Interface\nAttached Instance\n> ERPS State",
+"conf":85.8
+},
+"text":"B\n€\nERPS - Switch\nCA Notsecure\nx 十\n192.168.56.166/#/config/erps\nConfiguration\nVLAN Port Configuration Ea\nRing Configura\nEast Interface\nInstance Configuration\n十 Add\nName RAPS VLAN\nWest Interface\n‘Owner Interface\nSubring Block Interface\nAttached Instance\n> ERPS State"
+}

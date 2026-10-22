@@ -1,0 +1,22 @@
+{
+"id":"1MToAZKhucO133ZHniq4SCAsUBYLqkjSn",
+"name":"5.png",
+"path":"SmartByte/管理界面图/5.png",
+"type":"图片",
+"bytes":131330,
+"sha256":"3af40753836835ee832a86e4bab5ea0f36be1c1d0f691d4886f01041a43f6bc3",
+"extracted_at":"2026-10-22T02:10:39Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":1737,
+"height":1390,
+"mode":"RGB",
+"thumb_bytes":9408
+},
+"ocr":{
+"text":"B Dashboard - Switch x 十\n€ C A Notsecure | 192.168.56.166/#/monitor/dashboard\nMonitor\nDashboard\nDashboard .\nSystem Information\nProduct ID\nProduct SN: E10B6\nMAC Address: 78-D0-44-44-12-0A\nHardware Version\nSoftware Version: develop (r452 00b\nUptime\naG Port PJ trunk Port EBB ue [1] shutdown\n1 14 13 8 6 4 2\na\n同\n7 5 3\nTraffic。 digabitEthemet0/2 Configuration\n-Or Te Traffic 0 Ric Tra\nKbps\n300\n250\n200\n150\n100\n50\n0\n1848\" 1858\" 1915\" 19:25\"",
+"conf":76.0
+},
+"text":"B Dashboard - Switch x 十\n€ C A Notsecure | 192.168.56.166/#/monitor/dashboard\nMonitor\nDashboard\nDashboard .\nSystem Information\nProduct ID\nProduct SN: E10B6\nMAC Address: 78-D0-44-44-12-0A\nHardware Version\nSoftware Version: develop (r452 00b\nUptime\naG Port PJ trunk Port EBB ue [1] shutdown\n1 14 13 8 6 4 2\na\n同\n7 5 3\nTraffic。 digabitEthemet0/2 Configuration\n-Or Te Traffic 0 Ric Tra\nKbps\n300\n250\n200\n150\n100\n50\n0\n1848\" 1858\" 1915\" 19:25\""
+}

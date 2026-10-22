@@ -1,0 +1,22 @@
+{
+"id":"1c2F5jtFRjGnZc2LsnXFYHJw2XBGeVGp3",
+"name":"1.png",
+"path":"SmartByte/管理界面图/1.png",
+"type":"图片",
+"bytes":139326,
+"sha256":"ff2a6e9ae3edc5bda1dd813c9d46185b46624676835a40f7e1dfed8b4a018140",
+"extracted_at":"2026-10-22T02:10:49Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":1734,
+"height":1407,
+"mode":"RGBA",
+"thumb_bytes":7741
+},
+"ocr":{
+"text":"B Transceiver Information - Swit x 十\n€ C A Notsecure | 192.168.56.166/#/diag/transceiver eee Oe:\nDiagnose Q % Pa 2 admin\nState Transceiver Status Temperature(°C) Voltage(V) Current(mA) RX Power(dBm) TX Power(dBm)\ntengigabitEthernet0/9 40(OK) 3.3409(0K) 45.36(OK) -40(ALARM) -3.28(0K)\ntengigabitEthernet0/10 41(OK) 3.3683(OK) 44.55(ON -40(ALARM) -1.59(0K)\ntengigabitEthernet0/11 42(0K) 3.3273(OK) 39.15(0K) ~40(ALARM) -1.74(0K)\ntwork Utility tengigabitEthernet0/12 41(0k) 3.3136(0K) 40.23(0K) -40(ALARM) -1.4(0K)\ngigabitEthernet0/13 49(0K) 3.2104(OK) 17.16(0k) ~40(ALARM) -5.56(ON\ngigabitEthernet0/14 54(0K) 3.1976(OK) 18,304(OK) ~40(ALARM) -5.55(0K)\ngigabitEthernet0/15 47(0K) 3.2104(OK) 15.93(0K) ~40(ALARM) -5.64(ON\ngigabitEthernet0/16 55(0K) 3.1976(OK) 17.856(OK) ~40(ALARM) -5.53(0K)",
+"conf":71.1
+},
+"text":"B Transceiver Information - Swit x 十\n€ C A Notsecure | 192.168.56.166/#/diag/transceiver eee Oe:\nDiagnose Q % Pa 2 admin\nState Transceiver Status Temperature(°C) Voltage(V) Current(mA) RX Power(dBm) TX Power(dBm)\ntengigabitEthernet0/9 40(OK) 3.3409(0K) 45.36(OK) -40(ALARM) -3.28(0K)\ntengigabitEthernet0/10 41(OK) 3.3683(OK) 44.55(ON -40(ALARM) -1.59(0K)\ntengigabitEthernet0/11 42(0K) 3.3273(OK) 39.15(0K) ~40(ALARM) -1.74(0K)\ntwork Utility tengigabitEthernet0/12 41(0k) 3.3136(0K) 40.23(0K) -40(ALARM) -1.4(0K)\ngigabitEthernet0/13 49(0K) 3.2104(OK) 17.16(0k) ~40(ALARM) -5.56(ON\ngigabitEthernet0/14 54(0K) 3.1976(OK) 18,304(OK) ~40(ALARM) -5.55(0K)\ngigabitEthernet0/15 47(0K) 3.2104(OK) 15.93(0K) ~40(ALARM) -5.64(ON\ngigabitEthernet0/16 55(0K) 3.1976(OK) 17.856(OK) ~40(ALARM) -5.53(0K)"
+}

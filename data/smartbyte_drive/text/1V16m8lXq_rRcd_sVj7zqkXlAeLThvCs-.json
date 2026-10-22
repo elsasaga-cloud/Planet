@@ -1,0 +1,22 @@
+{
+"id":"1V16m8lXq_rRcd_sVj7zqkXlAeLThvCs-",
+"name":"4.png",
+"path":"SmartByte/管理界面图/4.png",
+"type":"图片",
+"bytes":122335,
+"sha256":"6b8e720d24c0080bbf8be6f74c484c24298cf9458e4be09466a95a0a00682a22",
+"extracted_at":"2026-10-22T02:10:43Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":1734,
+"height":1407,
+"mode":"RGBA",
+"thumb_bytes":6800
+},
+"ocr":{
+"text":"B File Management-switch xx 十\n€ C A Notsecure | 192.168.56.166/#/maintenance/file\nMaintenance\nVIAN | PortConfiguration ERPS Port Securty LLDP Configuration | IGSp Configuration MAC Configuration DHCP Snooping Configuration ACL Configuration 。 QoS Configuration\nBasic Informa’\n140160;\n48624 KBytes\n24/11924 KBytes\nImage Management Configuration Management Certificate Management Package Management\nImages: ;\nName Version\nhotfix/5.3.5 (r361 27126d4) 2022-06-01 19:15:56\n+0800\nstandby dkweb (r422 3960922) 2022-06-21 19:11:29 +0800\nFlash new firmware image:\nClick or drag file to this area to upload",
+"conf":77.8
+},
+"text":"B File Management-switch xx 十\n€ C A Notsecure | 192.168.56.166/#/maintenance/file\nMaintenance\nVIAN | PortConfiguration ERPS Port Securty LLDP Configuration | IGSp Configuration MAC Configuration DHCP Snooping Configuration ACL Configuration 。 QoS Configuration\nBasic Informa’\n140160;\n48624 KBytes\n24/11924 KBytes\nImage Management Configuration Management Certificate Management Package Management\nImages: ;\nName Version\nhotfix/5.3.5 (r361 27126d4) 2022-06-01 19:15:56\n+0800\nstandby dkweb (r422 3960922) 2022-06-21 19:11:29 +0800\nFlash new firmware image:\nClick or drag file to this area to upload"
+}

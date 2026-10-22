@@ -1,0 +1,22 @@
+{
+"id":"1b254S9KXlv8NhPLL2AgwAQPXdoc2AKbO",
+"name":"9.png",
+"path":"SmartByte/管理界面图/9.png",
+"type":"图片",
+"bytes":114753,
+"sha256":"6bdf748e6ff15ca5a04c4b1cc4b9b3e2289662201feca4b0883de9a0c47f54e6",
+"extracted_at":"2026-10-22T02:10:51Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":1734,
+"height":1407,
+"mode":"RGBA",
+"thumb_bytes":6268
+},
+"ocr":{
+"text":"VLAN - Switch x 十\nC A Notsecure | 192.168.56.166/#/config/vlan\nConfiguration\nVLAN Configuration\nType — Member\ngigabitEthemet0/1, gigabitEthernet0/2, gigabitEthernet0/3, gigabitEthernet0/4, gigabitEthernet0/S, gigabitEthemet0/6, gigabitEthernet0/7, gigabitEthernet0/8, tengigabitEthernet0/9,\ntengigabitEthernet0/10, tengigabitEthernet0/11, tengigabitEthenet0/12, gigabitEthernet0/13, gigabitEthemet0/14, gigabitEthernet0/15, gigabitEthernet0/16\ndefault Static\nTrunk Configuration\nNative VLAN Allow VLANs",
+"conf":79.1
+},
+"text":"VLAN - Switch x 十\nC A Notsecure | 192.168.56.166/#/config/vlan\nConfiguration\nVLAN Configuration\nType — Member\ngigabitEthemet0/1, gigabitEthernet0/2, gigabitEthernet0/3, gigabitEthernet0/4, gigabitEthernet0/S, gigabitEthemet0/6, gigabitEthernet0/7, gigabitEthernet0/8, tengigabitEthernet0/9,\ntengigabitEthernet0/10, tengigabitEthernet0/11, tengigabitEthenet0/12, gigabitEthernet0/13, gigabitEthemet0/14, gigabitEthernet0/15, gigabitEthernet0/16\ndefault Static\nTrunk Configuration\nNative VLAN Allow VLANs"
+}
