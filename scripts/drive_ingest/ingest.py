@@ -152,55 +152,122 @@ def download(rec, dest):
         return None
     os.makedirs(os.path.dirname(dest), exist_ok=True)
     import requests
-    last = ''
-    for attempt in range(6):
+    errs = []
+    expect = int(rec.get('bytes') or 0)
+    ua = {'User-Agent': 'Mozilla/5.0'}
+    sess = requests.Session()
+    if os.path.exists(dest):
+        os.remove(dest)
+    for attempt in range(8):
         for url in (DL_URL, DL_URL2):
-            try:
-                with requests.get(url.format(id=rec['id']), stream=True, timeout=(15, 120),
-                                  headers={'User-Agent': 'Mozilla/5.0'}) as r:
-                    ctype = r.headers.get('Content-Type', '')
-                    if r.status_code != 200:
-                        last = f'HTTP {r.status_code}'
-                        if r.status_code in (403, 429):
-                            time.sleep(8 + attempt * 10)
-                        continue
-                    if 'text/html' in ctype and rec['ext'] not in ('.html', '.htm'):
-                        body = r.content[:6000].decode('utf-8', 'ignore')
-                        if ('ServiceLogin' in body or 'accounts.google.com' in body or 'Request access' in body
-                                or 'You need access' in body or '需要访问权限' in body):
-                            return 'NOT_SHARED: Drive returned a sign-in / request-access page（文件夹未设为「知道链接者可查看」）'
-                        if 'confirm' in body or 'virus' in body.lower():
-                            m = re.search(r'confirm=([0-9A-Za-z_-]+)', body)
-                            if m:
-                                url2 = DL_URL.format(id=rec['id']).replace('confirm=t', 'confirm=' + m.group(1))
-                                with requests.get(url2, stream=True, timeout=(15, 120)) as r2:
-                                    if r2.status_code == 200 and 'text/html' not in r2.headers.get('Content-Type', ''):
-                                        with open(dest, 'wb') as f:
-                                            for chunk in r2.iter_content(1 << 20):
-                                                f.write(chunk)
-                                        return None
-                        last = 'HTML instead of file (not shared / quota / sign-in page)'
-                        continue
-                    with open(dest, 'wb') as f:
-                        for chunk in r.iter_content(1 << 20):
-                            f.write(chunk)
-                size = os.path.getsize(dest)
-                if rec.get('bytes') and abs(size - rec['bytes']) > max(64, rec['bytes'] * 0.02) and size < rec['bytes']:
-                    last = f'size mismatch {size} vs {rec["bytes"]}'
-                    continue
-                return None
-            except Exception as e:  # noqa
-                last = f'{type(e).__name__}: {e}'[:200]
+            url = url.format(id=rec['id'])
+            for hop in range(2):          # hop 1 = 解析「无法扫描病毒」确认页后的真正下载地址
+                try:
+                    got = os.path.getsize(dest) if os.path.exists(dest) else 0
+                    h = dict(ua)
+                    if got and (not expect or got < expect):
+                        h['Range'] = f'bytes={got}-'   # 断点续传（Drive 支持 Range）
+                    with sess.get(url, stream=True, timeout=(15, 120), headers=h) as r:
+                        ctype = r.headers.get('Content-Type', '')
+                        if r.status_code == 416 and got and expect and got >= expect:
+                            return None
+                        if r.status_code not in (200, 206):
+                            errs.append(f'HTTP {r.status_code} ({url.split("/")[2]})')
+                            if r.status_code in (403, 429, 500, 502, 503):
+                                time.sleep(8 + attempt * 10)
+                            break
+                        if 'text/html' in ctype and rec['ext'] not in ('.html', '.htm'):
+                            body = r.content[:300000].decode('utf-8', 'ignore')
+                            if ('ServiceLogin' in body or 'accounts.google.com' in body or 'Request access' in body
+                                    or 'You need access' in body or '需要访问权限' in body):
+                                return 'NOT_SHARED: Drive returned a sign-in / request-access page（文件夹未设为「知道链接者可查看」）'
+                            nxt = _drive_confirm_url(body, rec['id'])
+                            if nxt and hop == 0 and nxt != url:
+                                url = nxt
+                                continue
+                            errs.append('HTML instead of file (' + ('quota' if 'quota' in body.lower() else 'confirm/unknown') + ')')
+                            break
+                        if r.status_code == 206:
+                            mode = 'ab'
+                        else:
+                            mode = 'wb'
+                            got = 0
+                        total = int(r.headers.get('Content-Length') or 0) + (got if r.status_code == 206 else 0)
+                        if not expect and total:
+                            expect = total
+                        with open(dest, mode) as f:
+                            for chunk in r.iter_content(1 << 20):
+                                f.write(chunk)
+                    size = os.path.getsize(dest)
+                    if expect and size > expect:
+                        errs.append(f'size overflow {size} vs {expect}')
+                        os.remove(dest)
+                        break
+                    if expect and size < expect:
+                        errs.append(f'partial {size}/{expect}, resuming')
+                        continue          # 同一 URL 再来一次（带 Range）
+                    return None
+                except Exception as e:  # noqa
+                    errs.append(f'{type(e).__name__}: {str(e)[:120]}')
+                    break
         time.sleep(3 + attempt * 5)
     # 最后再试 gdown
     try:
         import gdown
-        out = gdown.download(id=rec['id'], output=dest, quiet=True, fuzzy=False)
+        if os.path.exists(dest):
+            os.remove(dest)
+        out = gdown.download(id=rec['id'], output=dest, quiet=True)
         if out and os.path.exists(dest) and os.path.getsize(dest) > 0:
             return None
     except Exception as e:  # noqa
-        last = f'gdown: {e}'[:200]
-    return last or 'download failed'
+        errs.append(f'gdown: {e}'[:160])
+    seen, uniq = set(), []
+    for e in errs:
+        if e not in seen:
+            seen.add(e)
+            uniq.append(e)
+    return ' | '.join(uniq[-6:]) or 'download failed'
+
+
+def _drive_confirm_url(body, fid):
+    """解析 Drive「文件过大无法扫描病毒」确认页里的下载表单（action + 隐藏字段 id/export/confirm/uuid）。"""
+    from html.parser import HTMLParser
+    from urllib.parse import urlencode
+
+    class P(HTMLParser):
+        def __init__(self):
+            super().__init__()
+            self.forms, self.cur = [], None
+
+        def handle_starttag(self, tag, attrs):
+            a = dict(attrs)
+            if tag == 'form':
+                self.cur = {'action': a.get('action') or '', 'fields': {}}
+                self.forms.append(self.cur)
+            elif tag == 'input' and self.cur is not None and a.get('name'):
+                self.cur['fields'][a['name']] = a.get('value') or ''
+
+        def handle_endtag(self, tag):
+            if tag == 'form':
+                self.cur = None
+
+    try:
+        p = P()
+        p.feed(body)
+    except Exception:  # noqa
+        return None
+    for f in p.forms:
+        act = f['action']
+        if 'download' in act or 'uc?' in act or 'usercontent' in act:
+            fields = dict(f['fields'])
+            fields.setdefault('id', fid)
+            fields.setdefault('export', 'download')
+            fields.setdefault('confirm', 't')
+            return act + ('&' if '?' in act else '?') + urlencode(fields)
+    m = re.search(r'href="(/uc\?export=download[^"]*confirm=[^"]*)"', body)
+    if m:
+        return 'https://drive.google.com' + m.group(1).replace('&amp;', '&')
+    return None
 
 
 # ---------------------------------------------------------------- 抽取：Word
