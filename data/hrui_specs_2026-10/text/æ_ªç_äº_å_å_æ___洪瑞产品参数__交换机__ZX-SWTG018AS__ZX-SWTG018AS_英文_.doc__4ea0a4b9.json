@@ -1,0 +1,242 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTG018AS__ZX-SWTG018AS_英文_.doc__4ea0a4b9",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/交换机/ZX-SWTG018AS/ZX-SWTG018AS (英文）.doc",
+"name":"ZX-SWTG018AS (英文）.doc",
+"ext":".doc",
+"bytes":673491,
+"sha256":"4ea0a4b90e38f5a7d113b875c389564388fd7ed74d24a3ee8c89dd9e383a59d2",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-22T06:10:16+00:00",
+"paragraphs":21,
+"tables":1,
+"embedded_images":3
+},
+"warnings":[],
+"chars":3788,
+"text":"9 Ports 10G Uplink 2.5G Ethernet Switch\n【Product overview】\nThe 9 port 10G uplink 2.5G Ethernet switch adopts the network chip solution of high quality and high speed. The product is designed to be fan-free and quiet, which completely solves the problem of loud noise of small switches deployed in the office environment. The switch has 8* 100/1000/2500M RJ45 ports and 1* 10G SFP port, providing seamless connection to 100/1000/2500M Ethernet for easy management and maintenance. The switch can be widely used in security network video surveillance, hotels, campuses, and network engineering of small and medium-sized enterprises。\n【Main Feature】\n8 * 100/1000/2500M RJ45 port +1* 10 G SFP ports\nSupport IEEE 802.3、 IEEE802.3u、 IEEE 802.3ab、 IEEE 802.3bz、 IEEE 802.3ae、 IEEE 802.3x\nEthernet port support 100/1000/2500M adaptive\nSupports automatic port rollover（Auto MDI/MDIX）\nPanel indicators monitor working status and assist in fault analysis\nSupports giant frame 12K\nSupports Cat Stick (Nokia G-010S-A; Alcatel G-010S-P; Huawei MA5671A) and more\nFlow control mode, full duplex adopts IEEE802.3x standard, half duplex adopts Backpressure standard\nSurge Protection: General 6KV, Differential 2KV, ESD 8KV air, 6KV contact\n【Application environment】\nMetropolitan area optical fiber broadband network: telecom, cable TV, network system integration, such as number, according to network operators\nBroadband private network: applicable to financial, government, oil, electric power, public security, education and other industries private network\nMultimedia transmission, image, voice and data integrated transmission, for remote teaching, meeting TV, video phone and other applications\nReal-time monitoring: real-time control signal, image and data transmission\n【Technical index】\nInput/output interface\nPower\tDC 2.1\nEthernet\t8*100/1000/2500M RJ45 ports / 1*10G SFP ports\nPerformance\nBackplane bandwidth\t60Gbps\nPacket forwarding rate\t44.64Mpps\nMAC address table\t4K\nForwarding mode\tStore forward\nNetwork parameter\nNetwork protocol\tIEEE802.3 (Ethernet) / IEEE802.3u (Fast Ethernet) / IEEE802.3ab(Gigabit Ethernet) / IEEE 802.3bz（5G Ethernet） / IEEE 802.3z（Gigabit Ethernet） / IEEE 802.3ae（10G Ethernet） / IEEE802.3x (Flow control)\nIndustry standard\tEMS: EN61000-4-2 (ESD)、 / EN61000-4-5(Surge)\nNetwork medium\t10Base-T: Cat3, 4, 5 or above UTP/STP(≤100m) / 100Base-TX: Cat5 or higher UTP/STP(≤100m) / 1000Base-TX: Cat5 or higher UTP/STP(≤100 M)\nOptical fiber medium\tMultimode optical fiber: 50/125, 62.5/125, 100/140um / Single-mode optical fiber: 8/125, 8.7/125, 9/125, 10/125um\nEnvironmental standard\nWorking environment\tOperating temperature: -10~50°C / Storage temperature: -40~70°C / Operating humidity: 10%~90%, no condensation / Storage humidity: 5%~95%, no condensation\nFunctional indication\nPWR（Power indicator）\tOn: Powered on / Off: Powered off\n1-8 Network port green indicator\tOn: 2.5G Link connect normal / Off: Link off / Flashing: data transmitting\n1-8 Network port  yellow indicator\tOn: 10/100/1000M Link connect normal / Off: Link off / Flashing: data transmitting\n9 Network port green indicator\tOn: 10G Link connect normal / Off: Link off / Flashing: data transmitting\nPhysical specification\nStructural dimension\tProduct size: 190*100*28mm / Package size: 245*190*60mm / Product weight: 0.49KG / Packing weight: 0.71KG\nPacking information\tOuter box size: 520*320*400mm / Packing quantity: 20 pcs / Packing weight: 15.2KG\nOperating voltage\tAdapter input voltage: AC 100-240 V / Switch input voltage: DC 12V1A\npower\tMain board power：11.29W\nPacking list\tSwitch 1pcs、 / Specification 1pcs、 / Certificate of qualification 1pcs、 / Power adapter 1pcs\nOrder Information\nZX-SWTG018AS\t9 Ports 10G Uplink 2.5G Ethernet Switch\n【Product renderings】\n【Product application diagram】\n[页眉页脚]\n3",
+"blocks":[
+{
+"t":"h",
+"s":"Heading",
+"text":"9 Ports 10G Uplink 2.5G Ethernet Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product overview】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The 9 port 10G uplink 2.5G Ethernet switch adopts the network chip solution of high quality and high speed. The product is designed to be fan-free and quiet, which completely solves the problem of loud noise of small switches deployed in the office environment. The switch has 8* 100/1000/2500M RJ45 ports and 1* 10G SFP port, providing seamless connection to 100/1000/2500M Ethernet for easy management and maintenance. The switch can be widely used in security network video surveillance, hotels, campuses, and network engineering of small and medium-sized enterprises。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Main Feature】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8 * 100/1000/2500M RJ45 port +1* 10 G SFP ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support IEEE 802.3、 IEEE802.3u、 IEEE 802.3ab、 IEEE 802.3bz、 IEEE 802.3ae、 IEEE 802.3x"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ethernet port support 100/1000/2500M adaptive"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Supports automatic port rollover（Auto MDI/MDIX）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Panel indicators monitor working status and assist in fault analysis"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Supports giant frame 12K"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Supports Cat Stick (Nokia G-010S-A; Alcatel G-010S-P; Huawei MA5671A) and more"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Flow control mode, full duplex adopts IEEE802.3x standard, half duplex adopts Backpressure standard"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Surge Protection: General 6KV, Differential 2KV, ESD 8KV air, 6KV contact"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Application environment】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Metropolitan area optical fiber broadband network: telecom, cable TV, network system integration, such as number, according to network operators"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Broadband private network: applicable to financial, government, oil, electric power, public security, education and other industries private network"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Multimedia transmission, image, voice and data integrated transmission, for remote teaching, meeting TV, video phone and other applications"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Real-time monitoring: real-time control signal, image and data transmission"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Technical index】"
+},
+{
+"t":"table",
+"rows":[
+[
+"Input/output interface"
+],
+[
+"Power",
+"DC 2.1"
+],
+[
+"Ethernet",
+"8*100/1000/2500M RJ45 ports / 1*10G SFP ports"
+],
+[
+"Performance"
+],
+[
+"Backplane bandwidth",
+"60Gbps"
+],
+[
+"Packet forwarding rate",
+"44.64Mpps"
+],
+[
+"MAC address table",
+"4K"
+],
+[
+"Forwarding mode",
+"Store forward"
+],
+[
+"Network parameter"
+],
+[
+"Network protocol",
+"IEEE802.3 (Ethernet) / IEEE802.3u (Fast Ethernet) / IEEE802.3ab(Gigabit Ethernet) / IEEE 802.3bz（5G Ethernet） / IEEE 802.3z（Gigabit Ethernet） / IEEE 802.3ae（10G Ethernet） / IEEE802.3x (Flow control)"
+],
+[
+"Industry standard",
+"EMS: EN61000-4-2 (ESD)、 / EN61000-4-5(Surge)"
+],
+[
+"Network medium",
+"10Base-T: Cat3, 4, 5 or above UTP/STP(≤100m) / 100Base-TX: Cat5 or higher UTP/STP(≤100m) / 1000Base-TX: Cat5 or higher UTP/STP(≤100 M)"
+],
+[
+"Optical fiber medium",
+"Multimode optical fiber: 50/125, 62.5/125, 100/140um / Single-mode optical fiber: 8/125, 8.7/125, 9/125, 10/125um"
+],
+[
+"Environmental standard"
+],
+[
+"Working environment",
+"Operating temperature: -10~50°C / Storage temperature: -40~70°C / Operating humidity: 10%~90%, no condensation / Storage humidity: 5%~95%, no condensation"
+],
+[
+"Functional indication"
+],
+[
+"PWR（Power indicator）",
+"On: Powered on / Off: Powered off"
+],
+[
+"1-8 Network port green indicator",
+"On: 2.5G Link connect normal / Off: Link off / Flashing: data transmitting"
+],
+[
+"1-8 Network port  yellow indicator",
+"On: 10/100/1000M Link connect normal / Off: Link off / Flashing: data transmitting"
+],
+[
+"9 Network port green indicator",
+"On: 10G Link connect normal / Off: Link off / Flashing: data transmitting"
+],
+[
+"Physical specification"
+],
+[
+"Structural dimension",
+"Product size: 190*100*28mm / Package size: 245*190*60mm / Product weight: 0.49KG / Packing weight: 0.71KG"
+],
+[
+"Packing information",
+"Outer box size: 520*320*400mm / Packing quantity: 20 pcs / Packing weight: 15.2KG"
+],
+[
+"Operating voltage",
+"Adapter input voltage: AC 100-240 V / Switch input voltage: DC 12V1A"
+],
+[
+"power",
+"Main board power：11.29W"
+],
+[
+"Packing list",
+"Switch 1pcs、 / Specification 1pcs、 / Certificate of qualification 1pcs、 / Power adapter 1pcs"
+],
+[
+"Order Information"
+],
+[
+"ZX-SWTG018AS",
+"9 Ports 10G Uplink 2.5G Ethernet Switch"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product renderings】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product application diagram】"
+}
+],
+"extracted_at":"2026-10-22T06:10:16Z"
+}

@@ -1,0 +1,27 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG0080__IMG_1150.jpg__43c6d2ee",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/交换机/ZX-SWG0080/IMG_1150.jpg",
+"name":"IMG_1150.jpg",
+"ext":".jpg",
+"bytes":2243504,
+"sha256":"43c6d2ee0465b4b7c2af1acfe9fb76fe4df8371556881483bd9657b734dde252",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":3456,
+"mode":"RGB",
+"datetime":"2022:09:23 16:16:27",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":3424
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T06:10:03Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG0080__IMG_1150.jpg__43c6d2ee.jpg"
+}

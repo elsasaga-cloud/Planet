@@ -1,0 +1,275 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AF-1621GS-300__ZX900-AF-1621GS_英文_.doc__866c9a74",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/900及管理型POE交换机/ZX900-AF-1621GS-300/ZX900-AF-1621GS （英文）.doc",
+"name":"ZX900-AF-1621GS （英文）.doc",
+"ext":".doc",
+"bytes":291424,
+"sha256":"866c9a74b09ce05cc736d3561479d3b6de8f05b509a5852defab4a7c3120e17a",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-22T06:12:38+00:00",
+"paragraphs":22,
+"tables":1,
+"embedded_images":3
+},
+"warnings":[],
+"chars":5612,
+"text":"19 port 100/1000M intelligent standard PoE switch\n【Introduction】\n19 port 100/1000M intelligent standard PoE switch，Adopting high-quality and high-speed network ICs and the most stable PoE chips, this series of PoE switches can provide seamless connection for 10/100/1000M Ethernet. The switches incorporate the latest AI functions, and the ports automatically turn on AI mode in Extend mode. The PoE power supply port can automatically detect and supply power to powered devices that comply with the IEEE802.3af or IEEE802.3at standards. Non PoE devices are not powered by intelligent detection and only transmit data. PoE technology (Power over Ethernet) is the power over Ethernet technology. It means that while transmitting data signals for some IP based terminals (such as IP phones, wireless access APs, network cameras, etc.), it also provides DC power supply technology for this device. These devices receiving DC power supply are called power receiving devices. This product has simple and convenient installation and maintenance methods, as well as rich business features, to help users create a safe and reliable high-performance network. Mainly positioned at the core or convergence layer of user networks such as industrial parks, buildings, factories and mines, government agencies, and residential broadband; It can be widely used in Ethernet access scenarios such as small and medium-sized enterprises, internet cafes, hotels, schools, etc.\n【Main Features】\n16*10/100M POE ports + 2* 1000M Ethernet Uplink ports +1*1000M SFP Port；\nComply with IEEE 802.3, IEEE802.3u,IEEE802.3ab, IEEE802.3z standards；\nEthernet port 10/100M rate auto adaptive；\nPoE port is in Extend mode, and ports 1-16 force 10M to automatically turn on AI mode；\nSupports POE priority, in order from 1 to 16 ports, enabled by default；\nFlow control method: IEEE 802.3x standard is used for full duplex, and Back pressure standard is used for half duplex；\nZero configuration feature, automatically supplied to adaptive devices；\nMonitor the working status of the panel indicator light and assist in fault analysis；\nIt is equipped with a three gear one key intelligent Dip switch, which supports VLAN, Default and Extend modes；\nSupport port lightning surge: common mode 4KV（level B）; Electrostatic ESD: air 8KV, contact 6KV（level B)；\n[Application Environment]\nMetro Optical Broadband Network: Data network operators such as telecommunications, cable TV, and network system integration,etc.\nBroadband private network: Suitable for financial, government, oil, railway, electric power, public security, transportation, education and other industries.\nMultimedia transmission: Integrated transmission of images, voice and data, suitable for remote teaching, conference TV, videophone and other applications.\nReal-time monitoring: Simultaneous transmission of real-time control signals, images and data.\n[Technical Parameter]\nI/O Interface\nPower\tAC100-240V  50/60Hz\nEthernet\t16 Port 10/100M PoE + 2 Port 1000M Ethernet Uplink+1 Port 1000M SFP\nChip Scheme\tRTL8367S+RTL8309N\nPerformance\nBandwidth\t9.2Gbps\nForwarding Rate\t6.84Mpps\nPacket Buffer\t3Mbit\nMAC Address\t2K\nTransfer Mode\tStore and forward\nStandard\nNetwork protocol\tIEEE802.3（Ethernet） / IEEE802.3u（Fast Ethernet） / IEEE802.3ab（Gigabit Ethernet） / IEEE802.3x（Flow control） / IEEE 802.3z （Gigabit Ethernet fiber optic standard）\nPoE Protocol\tIEEE802.3af(15.4W) / IEEE802.3at(30W) / POE port output voltage: DC 44-57V / POE power supply core: 1/2+; 3/6-\nIndustry Standard\tEMS: EN61000-4-2 (ESD)、 / EN61000-4-5 (Surge)\nNetwork Medium\t10BASE-T: Cat 3、4、5 UTP(≤100 meter) / 100BASE-TX: Cat5 or more UTP (≤100 meter) / 1000Base-TX : Cat5 or more UTP/STP(≤100 meter)\nOptical Media\tMultimode fiber : 50/125、62.5/125、100/140um / Single mode fiber : 8/125、8.7/125、9/125、10/125um\nEnvironment standards\nEnvironment\tWorking Temperature：-10~50°C / Storage Temperature：-40~70°C / Working Humidity ：10%~90%，non-condensing / Storage Temperature：5%~95%，non-condensing\nFunctional indication\nLED Indicators\tPWR（Power indication），Mode（Dial indicator），1-19Green（Link&Data），POE Max（Power display）\nPWR\tOn：Equipment powered on / Off：Equipment power off\nMode\tOn：VLAN / Flashing：Extend / Off：Default\n1-19Green\tOn：Link connectivity / Flashing：Data transmission / Off：Link abnormality\n1-16Yellow（POE）\tOn：POE power supply is normal / Off：POE not powered\nPOE Max（Green）\tOff：Indicates that PoE power usage is less than 90% / Flashing：Indicates PoE power usage of 90% ≤ P ≤ 95% / On：Indicates PoE power usage of 95%<P<100%\nPOE LED button\tDual color light selection: default green (link data), switch yellow light (POE)\nDip switch\tVLAN：1-16 ports are used to isolate the lower ports of the monitoring network from each other, communicate with the upper ports, and enable port AI mode; / Default：All interfaces can communicate with each other, with a transmission rate of 10M/100M adaptive and port AI mode turned off; / Extend：1-16 ports to extend the network cable transmission distance by 250 meters, increase the transmission rate to 10M, and enable port AI mode;\nPhysical Features\nDimension\tProduct Dimension：320*207*45mm / Package Dimension：370*290*85mm / N.W：1.61KG / G.W：2.14KG\nPacking Info\tCarton MEAS：445*310*390mm / Packing Qty：5 set / Packing Weight：11.7KG\nPower Voltage\tInput Voltage : AC 100-240 V  50-60Hz / Power supply：52V /5.76A\nPower\tNon POE board power：maximum 6W / POE power：maximum 270W\nPackage List\tSwitch 1 pcs, Power cord 1 pcs, User manual 1 pc, Certification 1 pc, Brackets 1 pair\nOrdering Info\nZX900-AF-1621GS-300\t19 port 100/1000M intelligent standard PoE switch\n【Front Panel】\n【Application 】",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 7",
+"text":"19 port 100/1000M intelligent standard PoE switch"
+},
+{
+"t":"h",
+"s":"Heading 7",
+"text":"【Introduction】"
+},
+{
+"t":"h",
+"s":"Heading 6",
+"text":"19 port 100/1000M intelligent standard PoE switch，Adopting high-quality and high-speed network ICs and the most stable PoE chips, this series of PoE switches can provide seamless connection for 10/100/1000M Ethernet. The switches incorporate the latest AI functions, and the ports automatically turn on AI mode in Extend mode. The PoE power supply port can automatically detect and supply power to powered devices that comply with the IEEE802.3af or IEEE802.3at standards. Non PoE devices are not powered by intelligent detection and only transmit data. PoE technology (Power over Ethernet) is the power over Ethernet technology. It means that while transmitting data signals for some IP based terminals (such as IP phones, wireless access APs, network cameras, etc.), it also provides DC power supply technology for this device. These devices receiving DC power supply are called power receiving devices. This product has simple and convenient installation and maintenance methods, as well as rich business features, to help users create a safe and reliable high-performance network. Mainly positioned at the core or convergence layer of user networks such as industrial parks, buildings, factories and mines, government agencies, and residential broadband; It can be widely used in Ethernet access scenarios such as small and medium-sized enterprises, internet cafes, hotels, schools, etc."
+},
+{
+"t":"h",
+"s":"Heading 6",
+"text":"【Main Features】"
+},
+{
+"t":"h",
+"s":"Heading 7",
+"text":"16*10/100M POE ports + 2* 1000M Ethernet Uplink ports +1*1000M SFP Port；"
+},
+{
+"t":"h",
+"s":"Heading 7",
+"text":"Comply with IEEE 802.3, IEEE802.3u,IEEE802.3ab, IEEE802.3z standards；"
+},
+{
+"t":"h",
+"s":"Heading 7",
+"text":"Ethernet port 10/100M rate auto adaptive；"
+},
+{
+"t":"h",
+"s":"Heading 7",
+"text":"PoE port is in Extend mode, and ports 1-16 force 10M to automatically turn on AI mode；"
+},
+{
+"t":"h",
+"s":"Heading 7",
+"text":"Supports POE priority, in order from 1 to 16 ports, enabled by default；"
+},
+{
+"t":"h",
+"s":"Heading 7",
+"text":"Flow control method: IEEE 802.3x standard is used for full duplex, and Back pressure standard is used for half duplex；"
+},
+{
+"t":"h",
+"s":"Heading 7",
+"text":"Zero configuration feature, automatically supplied to adaptive devices；"
+},
+{
+"t":"h",
+"s":"Heading 7",
+"text":"Monitor the working status of the panel indicator light and assist in fault analysis；"
+},
+{
+"t":"h",
+"s":"Heading 7",
+"text":"It is equipped with a three gear one key intelligent Dip switch, which supports VLAN, Default and Extend modes；"
+},
+{
+"t":"h",
+"s":"Heading 7",
+"text":"Support port lightning surge: common mode 4KV（level B）; Electrostatic ESD: air 8KV, contact 6KV（level B)；"
+},
+{
+"t":"h",
+"s":"Heading 7",
+"text":"[Application Environment]"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Metro Optical Broadband Network: Data network operators such as telecommunications, cable TV, and network system integration,etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Broadband private network: Suitable for financial, government, oil, railway, electric power, public security, transportation, education and other industries."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Multimedia transmission: Integrated transmission of images, voice and data, suitable for remote teaching, conference TV, videophone and other applications."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Real-time monitoring: Simultaneous transmission of real-time control signals, images and data."
+},
+{
+"t":"h",
+"s":"Heading 7",
+"text":"[Technical Parameter]"
+},
+{
+"t":"table",
+"rows":[
+[
+"I/O Interface"
+],
+[
+"Power",
+"AC100-240V  50/60Hz"
+],
+[
+"Ethernet",
+"16 Port 10/100M PoE + 2 Port 1000M Ethernet Uplink+1 Port 1000M SFP"
+],
+[
+"Chip Scheme",
+"RTL8367S+RTL8309N"
+],
+[
+"Performance"
+],
+[
+"Bandwidth",
+"9.2Gbps"
+],
+[
+"Forwarding Rate",
+"6.84Mpps"
+],
+[
+"Packet Buffer",
+"3Mbit"
+],
+[
+"MAC Address",
+"2K"
+],
+[
+"Transfer Mode",
+"Store and forward"
+],
+[
+"Standard"
+],
+[
+"Network protocol",
+"IEEE802.3（Ethernet） / IEEE802.3u（Fast Ethernet） / IEEE802.3ab（Gigabit Ethernet） / IEEE802.3x（Flow control） / IEEE 802.3z （Gigabit Ethernet fiber optic standard）"
+],
+[
+"PoE Protocol",
+"IEEE802.3af(15.4W) / IEEE802.3at(30W) / POE port output voltage: DC 44-57V / POE power supply core: 1/2+; 3/6-"
+],
+[
+"Industry Standard",
+"EMS: EN61000-4-2 (ESD)、 / EN61000-4-5 (Surge)"
+],
+[
+"Network Medium",
+"10BASE-T: Cat 3、4、5 UTP(≤100 meter) / 100BASE-TX: Cat5 or more UTP (≤100 meter) / 1000Base-TX : Cat5 or more UTP/STP(≤100 meter)"
+],
+[
+"Optical Media",
+"Multimode fiber : 50/125、62.5/125、100/140um / Single mode fiber : 8/125、8.7/125、9/125、10/125um"
+],
+[
+"Environment standards"
+],
+[
+"Environment",
+"Working Temperature：-10~50°C / Storage Temperature：-40~70°C / Working Humidity ：10%~90%，non-condensing / Storage Temperature：5%~95%，non-condensing"
+],
+[
+"Functional indication"
+],
+[
+"LED Indicators",
+"PWR（Power indication），Mode（Dial indicator），1-19Green（Link&Data），POE Max（Power display）"
+],
+[
+"PWR",
+"On：Equipment powered on / Off：Equipment power off"
+],
+[
+"Mode",
+"On：VLAN / Flashing：Extend / Off：Default"
+],
+[
+"1-19Green",
+"On：Link connectivity / Flashing：Data transmission / Off：Link abnormality"
+],
+[
+"1-16Yellow（POE）",
+"On：POE power supply is normal / Off：POE not powered"
+],
+[
+"POE Max（Green）",
+"Off：Indicates that PoE power usage is less than 90% / Flashing：Indicates PoE power usage of 90% ≤ P ≤ 95% / On：Indicates PoE power usage of 95%<P<100%"
+],
+[
+"POE LED button",
+"Dual color light selection: default green (link data), switch yellow light (POE)"
+],
+[
+"Dip switch",
+"VLAN：1-16 ports are used to isolate the lower ports of the monitoring network from each other, communicate with the upper ports, and enable port AI mode; / Default：All interfaces can communicate with each other, with a transmission rate of 10M/100M adaptive and port AI mode turned off; / Extend：1-16 ports to extend the network cable transmission distance by 250 meters, increase the transmission rate to 10M, and enable port AI mode;"
+],
+[
+"Physical Features"
+],
+[
+"Dimension",
+"Product Dimension：320*207*45mm / Package Dimension：370*290*85mm / N.W：1.61KG / G.W：2.14KG"
+],
+[
+"Packing Info",
+"Carton MEAS：445*310*390mm / Packing Qty：5 set / Packing Weight：11.7KG"
+],
+[
+"Power Voltage",
+"Input Voltage : AC 100-240 V  50-60Hz / Power supply：52V /5.76A"
+],
+[
+"Power",
+"Non POE board power：maximum 6W / POE power：maximum 270W"
+],
+[
+"Package List",
+"Switch 1 pcs, Power cord 1 pcs, User manual 1 pc, Certification 1 pc, Brackets 1 pair"
+],
+[
+"Ordering Info"
+],
+[
+"ZX900-AF-1621GS-300",
+"19 port 100/1000M intelligent standard PoE switch"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Front Panel】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Application 】"
+}
+],
+"extracted_at":"2026-10-22T06:12:38Z"
+}

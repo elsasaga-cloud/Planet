@@ -1,0 +1,27 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG10242S__后面.jpg__a39f4247",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/交换机/ZX-SWG10242S/后面.jpg",
+"name":"后面.jpg",
+"ext":".jpg",
+"bytes":2663100,
+"sha256":"a39f42477192a457cd0686c54bf710ebb781fc34666c26c41ade291a2de9b511",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":3456,
+"mode":"RGB",
+"datetime":"2022:03:28 16:14:04",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":2675
+},
+"warnings":[],
+"chars":19,
+"text":"© AC INPUT 100-240V",
+"extracted_at":"2026-10-22T06:09:44Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG10242S__后面.jpg__a39f4247.jpg"
+}

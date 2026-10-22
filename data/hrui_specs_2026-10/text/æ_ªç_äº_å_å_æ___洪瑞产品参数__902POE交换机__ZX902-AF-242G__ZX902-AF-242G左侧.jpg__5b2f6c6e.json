@@ -1,0 +1,27 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__902POE交换机__ZX902-AF-242G__ZX902-AF-242G左侧.jpg__5b2f6c6e",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/902POE交换机/ZX902-AF-242G/ZX902-AF-242G左侧.jpg",
+"name":"ZX902-AF-242G左侧.jpg",
+"ext":".jpg",
+"bytes":1630609,
+"sha256":"5b2f6c6e0d21f31f631aff83da528719aba50eb4ca189cfddceb83088b8e20c2",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":3456,
+"mode":"RGB",
+"datetime":"2022:10:11 17:35:12",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":4736
+},
+"warnings":[],
+"chars":10,
+"text":"POE Switch",
+"extracted_at":"2026-10-22T06:11:44Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__902POE交换机__ZX902-AF-242G__ZX902-AF-242G左侧.jpg__5b2f6c6e.jpg"
+}

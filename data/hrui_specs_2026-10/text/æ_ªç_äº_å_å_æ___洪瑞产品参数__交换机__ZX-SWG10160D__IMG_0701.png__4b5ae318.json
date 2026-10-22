@@ -1,0 +1,23 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG10160D__IMG_0701.png__4b5ae318",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/交换机/ZX-SWG10160D/IMG_0701.png",
+"name":"IMG_0701.png",
+"ext":".png",
+"bytes":2652990,
+"sha256":"4b5ae318d7cf73c4e7836a5a26b76c9f455f15f0cd1a0f44529fd1aa17075d1c",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":5156,
+"height":3437,
+"mode":"RGBA",
+"thumb_bytes":2553
+},
+"warnings":[],
+"chars":23,
+"text":"二\nA\n= AC INPUT 100-240V",
+"extracted_at":"2026-10-22T06:11:02Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG10160D__IMG_0701.png__4b5ae318.jpg"
+}

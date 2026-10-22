@@ -1,0 +1,464 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTGW224AS__ZX-SWTGW224AS_英文_.doc__aa19205c",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/交换机/ZX-SWTGW224AS/ZX-SWTGW224AS（英文）.doc",
+"name":"ZX-SWTGW224AS（英文）.doc",
+"ext":".doc",
+"bytes":704830,
+"sha256":"aa19205c2ffd739ecdc6450eb5c010f2f853ff0a4c21910ef94587841880c49c",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-22T06:10:00+00:00",
+"paragraphs":20,
+"tables":2,
+"embedded_images":3
+},
+"warnings":[],
+"chars":5482,
+"text":"6 Port 10G Uplink 2.5G Web Managed Ethernet Switch\n【Product overview】\n6 Port 10G Uplink 2.5G Web Managed Ethernet Switch, using high quality and high speed network chip solution. This switch has 4* 100/1000/2500M RJ45 ports and 2* 10G SFP+ ports, providing seamless connection to 10/100/1000/2500M Ethernet for easy management and maintenance. This switch can be widely used in security network video surveillance,  hotels, campuses, and network engineering of small and medium-sized enterprises.\n【Main Feature】\n4* 100/1000/2500M RJ45 port +2*10G SFP+ ports;\nSupport IEEE 802.3, IEEE802.3u, IEEE 802.3ab, IEEE 802.3bz, IEEE 802.3ae, IEEE 802.3x；\nEthernet port support 100/1000/2500M self-adaptive;\nSupports automatic port rollover(Auto MDI/MDIX);\nPanel indicators monitor working status and assist in fault analysis;\nFlow control mode, full duplex adopts IEEE802.3x standard, half duplex adopts Back pressure standard;\nSupport QoS data priority;\nSupport Surge protection: Common mode 4KV;Differential mode 2KV(Class C);ESD: Air 8KV, Contact 6KV(Class C)\n【Application environment】\nMetropolitan area optical fiber broadband network: Telecom, cable TV, network system integration, such as number, according to network operators.\nBroadband private network: applicable to financial, government, oil, electric power, public security, education and other industries private network.\nMultimedia transmission, image, voice and data integrated transmission, for remote teaching, meeting TV, video phone and other applications.\nReal-time monitoring: real-time control signal, image and data transmission.\n【Technical Parameter】\nI/O Interface\nPower\tDC 12V1A\nEthernet\t4*2.5G RJ45 ports / 2*10G SFP+ ports\nPerformance\nBandwidth\t60Gbps\nPacket forwarding rate\t44.64Mpps\nPackage cache\t8Mbit\nVlan\tVLAN range 1-4094, with a maximum active VLAN of 31\nMAC address table\t4K\nForwarding mode\tStore forward\nNetwork parameter\nNetwork protocol\tIEEE802.3 (Ethernet) / IEEE802.3u (Fast Ethernet) / IEEE802.3ab(Gigabit Ethernet) / IEEE 802.3bz(5G Ethernet) / IEEE 802.3z(Gigabit Ethernet) / IEEE 802.3ae(10G Ethernet) / IEEE802.3x (Flow control)\nIndustry standard\tEMS: EN61000-4-2 (ESD) / EN61000-4-5(Surge)\nNetwork medium\t10Base-T: Cat3,  4,  5 or above UTP/STP(≤100m) / 100Base-TX: Cat5 or above UTP/STP(≤100m) / 1000Base-TX: Cat5 or above UTP/STP(≤100m) / 2.5GBase-T: Cat5e or above UTP/STP(≤100m) / 5GBase-T: Cat6 or above UTP/STP(≤100m) / 10GBase-T: Cat6a or above UTP/STP(≤100m)\nSFP medium\t1000BASE-SX: 62.5μm MMF(multi mode)(Minimum range: 2m～275m) or 50μm MMF / 1000BASE-LX: 62.5μm/50μm MMF(Minimum range: 2m～550m)or 10μm SMF(Minimum range：2m～5km) / 2500BASE-X: G.652D SMF(Single mode)(Minimum range: 2m～500m or 2m～5km) / 10GBASE-SR: OM1/OM2/OM3 or above MMF(Operating range: 2m～300m) / 10GBASE-LR: IEC B1.1 and B1.3 SMF(Minimum range: 2m～10km)\nEnvironmental standard\nWorking environment\tOperating temperature: -10~50°C / Storage temperature: -40~70°C / Operating humidity: 10%~90%, non-condensing / Storage humidity: 5%~95%, non-condensing\nFunctional indication\nPWR(Power indicator)\tOn: Powered on / Off: Powered off\nSYS\tFlashing: System startup / Lighting: System Running\n1-4 Port\tGreen On: 2.5G Link connect normal / Yellow On: 10/100/1000M Link connect normal / Off: Link off / Flashing: data transmitting\n5~6 Port Green Light\tOn: 10G Link connect normal / Off: Link off / Flashing: data transmitting\nReset\tLong press for 6 seconds to Factory reset\nPhysical specification\nStructural dimension\tProduct size: 140*93*28mm / Package size: 203*160*55mm / Product weight: 0.33KG / Packing weight: 0.46KG\nPacking information\tOuter box size: 580*335*445mm / Packing quantity: 40 pcs / Packing weight: 19.5KG\nOperating voltage\tAdapter input voltage: AC 100-240 V / Switch input voltage: DC 12V1A\nPower\tMaximum 12W\nPacking list\tSwitch 1pcs, / Specification 1pcs, / Certificate of qualification 1pcs, / Power adapter 1pcs\nOrder Info\nZX-SWTGW224AS\t6 Port 10G Uplink 2.5G Web Managed Ethernet Switch\nL2 Function\nPort\tPort Switch Configuration\nPort\tPort Speed Configuration\nPort\tPort Duplex Configuration\nPort\tPort Flow Control Configuration\nPort\tJumbo\nPort\tEEE\nLink Aggregation\tStatic Group\nLink Aggregation\tUp to 2 groups\nLink Aggregation\tMax. 4 members per group\nLink Aggregation\tSupport dynamic LACP\nStorm Control\tBoard cast\nStorm Control\tUnknown Multicast\nStorm Control\tUnknown Uni-cast\nPort Mirroring\tSupport\nPort Security\tMAC Address Constraints\nPort Isolation\tSupport\nPort Rate-limit\tSupport\nLoop back Detection\tSupport\nVLAN\tAccess/Trunk/Hybrid\nVLAN\tConfigurable VID from 1 - 4094;\nMax. 31 static VLAN groups\nMAC Address\tDynamic Address\nMAC Address\tStatic Address\nSpanning Tree Protocol\tSTP/RSTP\nSpanning Tree Protocol\tEdge Port\nMulticast\tIGMP Snooping\nMulticast\tIGMP V1/V2\nMulticast\tRouter Port\nMulticast\tStatic IGMP Join\nQoS\tTraffic classification based, Strict priority and WRR\nQoS\tPort Priority\nQoS\tSupports up to 8 queues per port\nServices\nAccess Protocol\tHTTP\nDiagnostics\tPort Statistics\nManagement\nManager Access\tHTTP\nManager IP\tStatic Address\nManager IP\tDHCP Client\nUser\tSupport\nFirmware\tFirmware Upgrade\nConfiguration\tUpload and download\nSave\tSupport\nRestart\tSupport\nFactory Defaults\tSupport\nStandards Compliance\nIEEE 802.3x flow control and back pressure\nIEEE 802.1D Spanning Tree Protocol\nIEEE 802.1w Rapid Spanning Tree Protocol\nIEEE 802.1Q VLAN tagging\nRFC 768 UDP\nRFC 791 IP\nRFC 792 ICMP\nRFC 2068 HTTP\nRFC 1112 IGMP v1\nRFC 2236 IGMP v2\n【Product renderings】\n【Product application】\n[页眉页脚]\n5",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"6 Port 10G Uplink 2.5G Web Managed Ethernet Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product overview】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"6 Port 10G Uplink 2.5G Web Managed Ethernet Switch, using high quality and high speed network chip solution. This switch has 4* 100/1000/2500M RJ45 ports and 2* 10G SFP+ ports, providing seamless connection to 10/100/1000/2500M Ethernet for easy management and maintenance. This switch can be widely used in security network video surveillance,  hotels, campuses, and network engineering of small and medium-sized enterprises."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Main Feature】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4* 100/1000/2500M RJ45 port +2*10G SFP+ ports;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support IEEE 802.3, IEEE802.3u, IEEE 802.3ab, IEEE 802.3bz, IEEE 802.3ae, IEEE 802.3x；"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ethernet port support 100/1000/2500M self-adaptive;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Supports automatic port rollover(Auto MDI/MDIX);"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Panel indicators monitor working status and assist in fault analysis;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Flow control mode, full duplex adopts IEEE802.3x standard, half duplex adopts Back pressure standard;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support QoS data priority;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support Surge protection: Common mode 4KV;Differential mode 2KV(Class C);ESD: Air 8KV, Contact 6KV(Class C)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Application environment】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Metropolitan area optical fiber broadband network: Telecom, cable TV, network system integration, such as number, according to network operators."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Broadband private network: applicable to financial, government, oil, electric power, public security, education and other industries private network."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Multimedia transmission, image, voice and data integrated transmission, for remote teaching, meeting TV, video phone and other applications."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Real-time monitoring: real-time control signal, image and data transmission."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Technical Parameter】"
+},
+{
+"t":"table",
+"rows":[
+[
+"I/O Interface"
+],
+[
+"Power",
+"DC 12V1A"
+],
+[
+"Ethernet",
+"4*2.5G RJ45 ports / 2*10G SFP+ ports"
+],
+[
+"Performance"
+],
+[
+"Bandwidth",
+"60Gbps"
+],
+[
+"Packet forwarding rate",
+"44.64Mpps"
+],
+[
+"Package cache",
+"8Mbit"
+],
+[
+"Vlan",
+"VLAN range 1-4094, with a maximum active VLAN of 31"
+],
+[
+"MAC address table",
+"4K"
+],
+[
+"Forwarding mode",
+"Store forward"
+],
+[
+"Network parameter"
+],
+[
+"Network protocol",
+"IEEE802.3 (Ethernet) / IEEE802.3u (Fast Ethernet) / IEEE802.3ab(Gigabit Ethernet) / IEEE 802.3bz(5G Ethernet) / IEEE 802.3z(Gigabit Ethernet) / IEEE 802.3ae(10G Ethernet) / IEEE802.3x (Flow control)"
+],
+[
+"Industry standard",
+"EMS: EN61000-4-2 (ESD) / EN61000-4-5(Surge)"
+],
+[
+"Network medium",
+"10Base-T: Cat3,  4,  5 or above UTP/STP(≤100m) / 100Base-TX: Cat5 or above UTP/STP(≤100m) / 1000Base-TX: Cat5 or above UTP/STP(≤100m) / 2.5GBase-T: Cat5e or above UTP/STP(≤100m) / 5GBase-T: Cat6 or above UTP/STP(≤100m) / 10GBase-T: Cat6a or above UTP/STP(≤100m)"
+],
+[
+"SFP medium",
+"1000BASE-SX: 62.5μm MMF(multi mode)(Minimum range: 2m～275m) or 50μm MMF / 1000BASE-LX: 62.5μm/50μm MMF(Minimum range: 2m～550m)or 10μm SMF(Minimum range：2m～5km) / 2500BASE-X: G.652D SMF(Single mode)(Minimum range: 2m～500m or 2m～5km) / 10GBASE-SR: OM1/OM2/OM3 or above MMF(Operating range: 2m～300m) / 10GBASE-LR: IEC B1.1 and B1.3 SMF(Minimum range: 2m～10km)"
+],
+[
+"Environmental standard"
+],
+[
+"Working environment",
+"Operating temperature: -10~50°C / Storage temperature: -40~70°C / Operating humidity: 10%~90%, non-condensing / Storage humidity: 5%~95%, non-condensing"
+],
+[
+"Functional indication"
+],
+[
+"PWR(Power indicator)",
+"On: Powered on / Off: Powered off"
+],
+[
+"SYS",
+"Flashing: System startup / Lighting: System Running"
+],
+[
+"1-4 Port",
+"Green On: 2.5G Link connect normal / Yellow On: 10/100/1000M Link connect normal / Off: Link off / Flashing: data transmitting"
+],
+[
+"5~6 Port Green Light",
+"On: 10G Link connect normal / Off: Link off / Flashing: data transmitting"
+],
+[
+"Reset",
+"Long press for 6 seconds to Factory reset"
+],
+[
+"Physical specification"
+],
+[
+"Structural dimension",
+"Product size: 140*93*28mm / Package size: 203*160*55mm / Product weight: 0.33KG / Packing weight: 0.46KG"
+],
+[
+"Packing information",
+"Outer box size: 580*335*445mm / Packing quantity: 40 pcs / Packing weight: 19.5KG"
+],
+[
+"Operating voltage",
+"Adapter input voltage: AC 100-240 V / Switch input voltage: DC 12V1A"
+],
+[
+"Power",
+"Maximum 12W"
+],
+[
+"Packing list",
+"Switch 1pcs, / Specification 1pcs, / Certificate of qualification 1pcs, / Power adapter 1pcs"
+],
+[
+"Order Info"
+],
+[
+"ZX-SWTGW224AS",
+"6 Port 10G Uplink 2.5G Web Managed Ethernet Switch"
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+"L2 Function"
+],
+[
+"Port",
+"Port Switch Configuration"
+],
+[
+"Port",
+"Port Speed Configuration"
+],
+[
+"Port",
+"Port Duplex Configuration"
+],
+[
+"Port",
+"Port Flow Control Configuration"
+],
+[
+"Port",
+"Jumbo"
+],
+[
+"Port",
+"EEE"
+],
+[
+"Link Aggregation",
+"Static Group"
+],
+[
+"Link Aggregation",
+"Up to 2 groups"
+],
+[
+"Link Aggregation",
+"Max. 4 members per group"
+],
+[
+"Link Aggregation",
+"Support dynamic LACP"
+],
+[
+"Storm Control",
+"Board cast"
+],
+[
+"Storm Control",
+"Unknown Multicast"
+],
+[
+"Storm Control",
+"Unknown Uni-cast"
+],
+[
+"Port Mirroring",
+"Support"
+],
+[
+"Port Security",
+"MAC Address Constraints"
+],
+[
+"Port Isolation",
+"Support"
+],
+[
+"Port Rate-limit",
+"Support"
+],
+[
+"Loop back Detection",
+"Support"
+],
+[
+"VLAN",
+"Access/Trunk/Hybrid"
+],
+[
+"VLAN",
+"Configurable VID from 1 - 4094;\nMax. 31 static VLAN groups"
+],
+[
+"MAC Address",
+"Dynamic Address"
+],
+[
+"MAC Address",
+"Static Address"
+],
+[
+"Spanning Tree Protocol",
+"STP/RSTP"
+],
+[
+"Spanning Tree Protocol",
+"Edge Port"
+],
+[
+"Multicast",
+"IGMP Snooping"
+],
+[
+"Multicast",
+"IGMP V1/V2"
+],
+[
+"Multicast",
+"Router Port"
+],
+[
+"Multicast",
+"Static IGMP Join"
+],
+[
+"QoS",
+"Traffic classification based, Strict priority and WRR"
+],
+[
+"QoS",
+"Port Priority"
+],
+[
+"QoS",
+"Supports up to 8 queues per port"
+],
+[
+"Services"
+],
+[
+"Access Protocol",
+"HTTP"
+],
+[
+"Diagnostics",
+"Port Statistics"
+],
+[
+"Management"
+],
+[
+"Manager Access",
+"HTTP"
+],
+[
+"Manager IP",
+"Static Address"
+],
+[
+"Manager IP",
+"DHCP Client"
+],
+[
+"User",
+"Support"
+],
+[
+"Firmware",
+"Firmware Upgrade"
+],
+[
+"Configuration",
+"Upload and download"
+],
+[
+"Save",
+"Support"
+],
+[
+"Restart",
+"Support"
+],
+[
+"Factory Defaults",
+"Support"
+],
+[
+"Standards Compliance"
+],
+[
+"IEEE 802.3x flow control and back pressure"
+],
+[
+"IEEE 802.1D Spanning Tree Protocol"
+],
+[
+"IEEE 802.1w Rapid Spanning Tree Protocol"
+],
+[
+"IEEE 802.1Q VLAN tagging"
+],
+[
+"RFC 768 UDP"
+],
+[
+"RFC 791 IP"
+],
+[
+"RFC 792 ICMP"
+],
+[
+"RFC 2068 HTTP"
+],
+[
+"RFC 1112 IGMP v1"
+],
+[
+"RFC 2236 IGMP v2"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product renderings】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product application】"
+}
+],
+"extracted_at":"2026-10-22T06:10:00Z"
+}

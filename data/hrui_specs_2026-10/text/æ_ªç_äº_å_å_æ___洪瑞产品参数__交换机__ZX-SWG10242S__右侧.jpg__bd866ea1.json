@@ -1,0 +1,27 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG10242S__右侧.jpg__bd866ea1",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/交换机/ZX-SWG10242S/右侧.jpg",
+"name":"右侧.jpg",
+"ext":".jpg",
+"bytes":1851966,
+"sha256":"bd866ea1fed78bacf4667dd65e47a3039e3d6249800e4a8aa8aebaae50f10f11",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":3456,
+"mode":"RGB",
+"datetime":"2021:05:06 18:01:20",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":4869
+},
+"warnings":[],
+"chars":24,
+"text":"Gigabit Unmanaged Switch",
+"extracted_at":"2026-10-22T06:09:40Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG10242S__右侧.jpg__bd866ea1.jpg"
+}

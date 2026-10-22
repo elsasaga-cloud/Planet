@@ -1,0 +1,27 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTG024AS__IMG_0756-.jpg__1ee9a514",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/交换机/ZX-SWTG024AS/IMG_0756-.jpg",
+"name":"IMG_0756-.jpg",
+"ext":".jpg",
+"bytes":1610771,
+"sha256":"1ee9a514f5b1a5bfafdbbda271edec35c7fe1a51e3158c6db35467a6413c4afb",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":5178,
+"height":3452,
+"mode":"RGB",
+"datetime":"2023:09:28 17:21:30",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":3134
+},
+"warnings":[],
+"chars":84,
+"text":"Fr- 一 一 一 10c256016 一 一 一 一\n2.5G Link/Act 10/100/1000M Link/Act 2.5G Ethernet Switch",
+"extracted_at":"2026-10-22T06:09:41Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTG024AS__IMG_0756-.jpg__1ee9a514.jpg"
+}

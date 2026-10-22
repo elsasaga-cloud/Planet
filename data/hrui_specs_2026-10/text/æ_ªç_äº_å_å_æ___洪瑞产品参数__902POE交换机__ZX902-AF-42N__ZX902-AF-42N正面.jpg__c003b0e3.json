@@ -1,0 +1,27 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__902POE交换机__ZX902-AF-42N__ZX902-AF-42N正面.jpg__c003b0e3",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/902POE交换机/ZX902-AF-42N/ZX902-AF-42N正面.jpg",
+"name":"ZX902-AF-42N正面.jpg",
+"ext":".jpg",
+"bytes":817540,
+"sha256":"c003b0e3f3577becb156e9d4aa784d9ddce16758ef684e9a852e1e4ac9bd9435",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":3456,
+"height":2304,
+"mode":"RGB",
+"datetime":"2020:11:20 09:38:15",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC (Windows)",
+"thumb_bytes":3882
+},
+"warnings":[],
+"chars":37,
+"text":"OFF\nPoE Switch VLAN Extend\nPWR @ @ sw",
+"extracted_at":"2026-10-22T06:11:31Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__902POE交换机__ZX902-AF-42N__ZX902-AF-42N正面.jpg__c003b0e3.jpg"
+}

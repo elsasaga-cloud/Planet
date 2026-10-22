@@ -1,0 +1,27 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__902POE交换机__ZX902-AFG-42N-65__ZX902-AFG-42NS左侧.jpg__c4ce8100",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/902POE交换机/ZX902-AFG-42N-65/ZX902-AFG-42NS左侧.jpg",
+"name":"ZX902-AFG-42NS左侧.jpg",
+"ext":".jpg",
+"bytes":736928,
+"sha256":"c4ce810036fa79923400eee9b4c8d02f02fff3ff87c21668e94be3d8f641a0b7",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":3456,
+"height":2304,
+"mode":"RGB",
+"datetime":"2023:08:24 16:28:14",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":4177
+},
+"warnings":[],
+"chars":63,
+"text":"extend(3-4)\nDefault =\nyian(t-4)1\nGigabit POE switch\npwae 0 MO 由",
+"extracted_at":"2026-10-22T06:11:36Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__902POE交换机__ZX902-AFG-42N-65__ZX902-AFG-42NS左侧.jpg__c4ce8100.jpg"
+}

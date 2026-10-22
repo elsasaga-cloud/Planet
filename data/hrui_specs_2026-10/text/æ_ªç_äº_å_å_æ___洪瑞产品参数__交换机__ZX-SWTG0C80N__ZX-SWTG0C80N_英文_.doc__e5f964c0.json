@@ -1,0 +1,269 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTG0C80N__ZX-SWTG0C80N_英文_.doc__e5f964c0",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/交换机/ZX-SWTG0C80N/ZX-SWTG0C80N （英文）.doc",
+"name":"ZX-SWTG0C80N （英文）.doc",
+"ext":".doc",
+"bytes":175742,
+"sha256":"e5f964c0af8d799b998524e531837992908d694f5fbb671211a99ddbc3496808",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-22T06:10:23+00:00",
+"paragraphs":20,
+"tables":2,
+"embedded_images":2
+},
+"warnings":[],
+"chars":4027,
+"text":"Commercial 8-Port Full 10G Ethernet Switch\n【Product Description】\nThe switch adopts a high-quality and high-speed network chip solution with a full 10G network interface and smooth line speed forwarding. It is configured with 8* 10G Ethernet ports, which supports 100/1000M/2.5G/5G/10G adaptive rates. It adopts a storage and forwarding mechanism, and internally integrates a high capacity cache to ensure that all ports can achieve 10G non-blocking line speed forwarding, and adopt to more emergency situations. With a sturdy and durable and high strength fan steel shell design, the efficient heat dissipation ensures stable operation of the product. The switch can be widely used in security network video monitoring, hotels, campuses, large and medium-sized. enterprise network engineering, and other fields.\n【Main Feature】\n8* 10G Ethernet ports.\nSupports IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3 bz, IEEE 802.3 ae, IEEE 802.3. x, IEEE 802.3az.\nEthernet ports support 100/1000M/2.5G/5G/10G self-adaptive.\nSupport port automatic MDI/MDIX.\nPanel indicators monitor operating conditions and assist in fault analysis.\nFlow control mode, IEEE802.3x standard for full duplex, and back pressure standard for half duplex.\nSupports VLAN transparent transmission and giant frame function\nSupport surge protection: Common mode 6KV, class C; ESD: air 8KV, contact 6KV, class C.\n【Application Environment】\nMetropolitan fiber broadband network: Telecommunications, cable TV, network system integration, etc., according to network operators.\nBroadband private network: Suitable for special networks in industries such as finance, government, petroleum, railway, electric power, public security, transportation, education, etc.\nMultimedia transmission: Integrated transmission of images, voice, and data, suitable for applications such as distance education, conference television, and videophone.\nReal time monitoring: Simultaneous transmission of real-time control signals, images, and data.\n【Technical Specification】\nTechnical Specification\nI/O Interface\tAC100-240V 50/60Hz\nEthernet\t8* 10G Ethernet ports\nChip Scheme\tRTL9303+RTL8261N\nPerformance\nExchange capacity\t160Gbps\nPacket Forwarding Rate\t119.04Mpps\nRAM\t128 MByte\nFlash Memory\t16MByte\nMemory Cache\t12MBit\nMac Address Table\t16K\nJumbo frame\t12Kbyte\nVLANs\t4K\nMTBF\t100,000 hour\nStandard\nNetwork Protocol\tIEEE802.3 (Ethernet) / IEEE802.3u (Fast Ethernet) / IEEE 802.3ab (Gigabit Ethernet) / IEEE 802.3az (Efficient and energy-saving Ethernet） / IEEE 802.3ae (10G Ethernet） / IEEE802.3x (Flow control) / IEEE802.3 bz (2.5G/5G Ethernet standard)\nIndustry standards\tEMI: FCC 47 CFR Part 15 Subpart B (Class A) / EMS: EN61000-4-2 (ESD), / EN61000-4-5 (Surge)\nNetwork Medium\t100Base-TX : Cat5 or above UTP(≤100m) / 1000Base-TX : Cat5 or above UTP(≤100m) / 10000Base-TX : Cat7 or above UTP(≤100m)\nCertification\nSafety certification\tCE, FCC, RoHS\nEnvironment Standard\nWorking environment\tWorking temperature: - 10~50 ° C / Storage temperature: - 40~70 ° C / Working humidity: 10%~90%, non condensing / Storage humidity: 5%~95%, non condensing\nFunctional indication\nPower light\tPWR（Power indication）\nPWR (Power light)\tOn: Powered on / Off: Powered off\nPort LED light (green)\tOn: 5G/10G link connection is normal / Flashing: Data transmission is normal / Off:  Link not working\nPort LED (yellow)\tOn: 100/1000M link connection is normal / Flashing: Data transmission is normal / Off: Link not working\nPhysical specifications\nStructure size\tProduct size: 320* 207* 45mm / Package size: 370* 290* 85mm / Net weight of product: 1.72KG / Gross weight of product: 2.12KG\nPacking information\tOuter box size: 445* 310* 390mm / Packing quantity: 5 Pcs / Packing weight: 11.6KG\nSupply voltage\tWorking voltage: AC100-240 V, 50/60Hz / Power supply: 12V8A\nPower comsumption\tTotal Power：38.6W\nPacking list\t1 switch, 1 manual, 1 certificate of conformity, 1 power cord, 1 pair of rack ear\nOrder info\nZX-SWTG0C80N\tCommercial 8-Port Full 10G Ethernet Switch\n【Product Picture】\n【Product Structure】\n[页眉页脚]\n4",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Commercial 8-Port Full 10G Ethernet Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Description】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The switch adopts a high-quality and high-speed network chip solution with a full 10G network interface and smooth line speed forwarding. It is configured with 8* 10G Ethernet ports, which supports 100/1000M/2.5G/5G/10G adaptive rates. It adopts a storage and forwarding mechanism, and internally integrates a high capacity cache to ensure that all ports can achieve 10G non-blocking line speed forwarding, and adopt to more emergency situations. With a sturdy and durable and high strength fan steel shell design, the efficient heat dissipation ensures stable operation of the product. The switch can be widely used in security network video monitoring, hotels, campuses, large and medium-sized. enterprise network engineering, and other fields."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Main Feature】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8* 10G Ethernet ports."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Supports IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3 bz, IEEE 802.3 ae, IEEE 802.3. x, IEEE 802.3az."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ethernet ports support 100/1000M/2.5G/5G/10G self-adaptive."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support port automatic MDI/MDIX."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Panel indicators monitor operating conditions and assist in fault analysis."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Flow control mode, IEEE802.3x standard for full duplex, and back pressure standard for half duplex."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Supports VLAN transparent transmission and giant frame function"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support surge protection: Common mode 6KV, class C; ESD: air 8KV, contact 6KV, class C."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Application Environment】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Metropolitan fiber broadband network: Telecommunications, cable TV, network system integration, etc., according to network operators."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Broadband private network: Suitable for special networks in industries such as finance, government, petroleum, railway, electric power, public security, transportation, education, etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Multimedia transmission: Integrated transmission of images, voice, and data, suitable for applications such as distance education, conference television, and videophone."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Real time monitoring: Simultaneous transmission of real-time control signals, images, and data."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Technical Specification】"
+},
+{
+"t":"table",
+"rows":[
+[
+"Technical Specification"
+],
+[
+"I/O Interface",
+"AC100-240V 50/60Hz"
+],
+[
+"Ethernet",
+"8* 10G Ethernet ports"
+],
+[
+"Chip Scheme",
+"RTL9303+RTL8261N"
+],
+[
+"Performance"
+],
+[
+"Exchange capacity",
+"160Gbps"
+],
+[
+"Packet Forwarding Rate",
+"119.04Mpps"
+],
+[
+"RAM",
+"128 MByte"
+],
+[
+"Flash Memory",
+"16MByte"
+],
+[
+"Memory Cache",
+"12MBit"
+],
+[
+"Mac Address Table",
+"16K"
+],
+[
+"Jumbo frame",
+"12Kbyte"
+],
+[
+"VLANs",
+"4K"
+],
+[
+"MTBF",
+"100,000 hour"
+],
+[
+"Standard"
+],
+[
+"Network Protocol",
+"IEEE802.3 (Ethernet) / IEEE802.3u (Fast Ethernet) / IEEE 802.3ab (Gigabit Ethernet) / IEEE 802.3az (Efficient and energy-saving Ethernet） / IEEE 802.3ae (10G Ethernet） / IEEE802.3x (Flow control) / IEEE802.3 bz (2.5G/5G Ethernet standard)"
+],
+[
+"Industry standards",
+"EMI: FCC 47 CFR Part 15 Subpart B (Class A) / EMS: EN61000-4-2 (ESD), / EN61000-4-5 (Surge)"
+],
+[
+"Network Medium",
+"100Base-TX : Cat5 or above UTP(≤100m) / 1000Base-TX : Cat5 or above UTP(≤100m) / 10000Base-TX : Cat7 or above UTP(≤100m)"
+],
+[
+"Certification"
+],
+[
+"Safety certification",
+"CE, FCC, RoHS"
+],
+[
+"Environment Standard"
+],
+[
+"Working environment",
+"Working temperature: - 10~50 ° C / Storage temperature: - 40~70 ° C / Working humidity: 10%~90%, non condensing / Storage humidity: 5%~95%, non condensing"
+],
+[
+"Functional indication"
+],
+[
+"Power light",
+"PWR（Power indication）"
+],
+[
+"PWR (Power light)",
+"On: Powered on / Off: Powered off"
+],
+[
+"Port LED light (green)",
+"On: 5G/10G link connection is normal / Flashing: Data transmission is normal / Off:  Link not working"
+],
+[
+"Port LED (yellow)",
+"On: 100/1000M link connection is normal / Flashing: Data transmission is normal / Off: Link not working"
+],
+[
+"Physical specifications"
+],
+[
+"Structure size",
+"Product size: 320* 207* 45mm / Package size: 370* 290* 85mm / Net weight of product: 1.72KG / Gross weight of product: 2.12KG"
+],
+[
+"Packing information",
+"Outer box size: 445* 310* 390mm / Packing quantity: 5 Pcs / Packing weight: 11.6KG"
+],
+[
+"Supply voltage",
+"Working voltage: AC100-240 V, 50/60Hz / Power supply: 12V8A"
+],
+[
+"Power comsumption",
+"Total Power：38.6W"
+],
+[
+"Packing list",
+"1 switch, 1 manual, 1 certificate of conformity, 1 power cord, 1 pair of rack ear"
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+"Order info"
+],
+[
+"ZX-SWTG0C80N",
+"Commercial 8-Port Full 10G Ethernet Switch"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Picture】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Structure】"
+}
+],
+"extracted_at":"2026-10-22T06:10:23Z"
+}

@@ -1,0 +1,27 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AFG-2422S-400__正面.jpg__f781c5e1",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/900及管理型POE交换机/ZX900-AFG-2422S-400/正面.jpg",
+"name":"正面.jpg",
+"ext":".jpg",
+"bytes":775341,
+"sha256":"f781c5e11f4097f709979b50815419466c3b847aac1d9faab349a919e544ab44",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":5065,
+"height":3376,
+"mode":"RGB",
+"datetime":"2023:05:26 14:38:43",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":4577
+},
+"warnings":[],
+"chars":18,
+"text":"Gigabit PoE Switch",
+"extracted_at":"2026-10-22T06:12:44Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AFG-2422S-400__正面.jpg__f781c5e1.jpg"
+}

@@ -1,0 +1,289 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AFG-42N__ZX900-AFG-42N_英文_.doc__67347359",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/900及管理型POE交换机/ZX900-AFG-42N/ZX900-AFG-42N （英文）.doc",
+"name":"ZX900-AFG-42N （英文）.doc",
+"ext":".doc",
+"bytes":276584,
+"sha256":"67347359af55adf8c6e5dc9767985a18d63e0467b9768203543cfdc5e4914ca1",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-22T06:12:27+00:00",
+"paragraphs":25,
+"tables":1,
+"embedded_images":2
+},
+"warnings":[],
+"chars":4656,
+"text":"6-Port Gigabit Intelligent Standard PoE Switch\n【Product Overview】\nThe 6-port full gigabit intelligent standard PoE switch, using high-quality and high-speed network IC and the most stable PoE chip. The PoE port meets the 802.3af or 802.3at standards. This series of PoE switches can provide seamless connection for 10/100/1000M Ethernet, and the PoE power supply port can automatically detect and power powered devices that meet the IEEE802.3af or IEEE802.3at standards. Non PoE devices are not powered by intelligent detection and only transmit data.\nPoE technology (Power over Ethernet) is the power over Ethernet technology. It means that while transmitting data signals for some IP based terminals (such as IP phones, wireless access APs, network cameras, etc.), it also provides DC power supply technology for this device. These devices receiving DC power supply are called power receiving devices.\n【Main features】\n4* Gigabit PoE ports+2*Gigabit Ethernet ports.\nComply with IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, and IEEE 802.3x standards.\nEthernet ports support 10/100/1000M self-adaptive.\nFlow control method: IEEE 802.3x standard is adopted for full duplex, and Back pressure standard is adopted for half duplex.\nSupports automatic port rollover（Auto MDI/MDIX）.\nSupport for watchdog, default on\nUsing a store-and-forward switching mechanism.\nAll ports support line speed switching.\nZero configuration feature, automatically feeding to adaptive devices.\nPanel indicators monitor the working status and assist in fault analysis.\nThree speed one button intelligent dial switch, supporting VLAN, Default, and Extend modes.\nSupport Surge protection: Common mode 4KV; ESD: Air 8KV, Contact 6KV（level B）.\n【Application environment】\nMetropolitan fiber broadband network: Telecommunications, cable TV, network system integration, etc., according to network operators.\nBroadband private network: Suitable for special networks in industries such as finance, government, petroleum, railway, electric power, public security, transportation, education, etc.\nMultimedia transmission: Integrated transmission of images, voice, and data, suitable for applications such as distance education, conference television, and videophone.\nReal time monitoring: Simultaneous transmission of real-time control signals, images, and data.\n【Technical Specification】\nI/O Interface\nPower\tAC INPUT （100-240V） 50/60Hz\nEthernet\t4* Gigabit PoE ports / 2* Gigabit Ethernet ports\nChip\tRTL8367（5E19）\nHardware parameters\nBandwidth\t12Gbps\nPacket Forwarding Rate\t8.928Mpps\nPackage Cache\t1Mbit\nMac Address\t2K\nForwarding mode\tStore Forward\nProtocol standards\nNetwork Protocol\tIEEE 802.3 / IEEE 802.3u / IEEE 802.3ab / IEEE 802.3x\nPoE Protocol\tIEEE802.3af （15.4 W） / IEEE802.3at （30 W） / POE port output voltage: DC 44-57V / POE power supply core: 1/2+; 3/6-\nNetwork Media\t10Base-T : Cat3, 4, 5 or above UTP/STP(≤100m) / 100Base-TX : Cat5 or above UTP/STP(≤100m) / 1000Base-TX : Cat5 or above UTP/STP(≤100m)\nIndustry Standard\tEMS: EN61000-4-2 (ESD)、 / EN61000-4-5 (Surge)\nAttestation\nSafety certification\tCE、FCC、RoHS\nSafety certification\nWorking Environment\tWorking temperature: - 10~50 ℃ / Storage temperature: - 40~70 ℃ / Working humidity: 10%~90%, non-condensing / Storage humidity: 5%~95%, non-condensing\nFunctional indication\nPWR (Power light)\tPWR(Power indication), Mode(DIP indication), 1-6 Green light(Link&Data)\nPWR\tOn: Powered on / Off: Powered off\nMode\tOn：VLAN(Port isolation) / Off：Default(Normal mode) / Flashing：Extend(Link extension)\n1-6 Green light\tOn：Link connection is normal / Off：Link not working / Flashing：Data transmitting\nDIP switch\tVLAN、Default、Extend\nVLAN\tPort isolation: 1-4 ports realize isolation between the each port of the monitoring network and interworking with the uplink port to protect internet security.\nDefault\tNormal mode, all ports communicate with each other, transmission distance is within 100 meters, transmission rate is 10/100/1000M self-adaptive\nExtend\tIn the link extension mode, the 3-4 port PoE power supply and data transmission distance can be extended to 250 meters, and the transmission rate turns to 10 M\nPhysical Specification\nStructure size\tProduct size: 200* 118* 44mm / Package size: 245* 190* 60mm / Product net weight: 0.61Kg / Product gross weight: 0.91Kg\nPacking information\tOuter box size: 520* 320* 400mm / Packing quantity: 20 sets / Packing weight: 19.2KG\npower\tProduct power: maximum 5W / POE power: maximum 60W\nPacking list\tSwitch, 1 PCS / Power cord, 1PCS / Manual and certificate of conformity, 1 PCS\nOrder Info\nZX900-AFG-42N\t6-Port Gigabit Intelligent Standard PoE Switch\n【Product Picture】\n【Application topology】\n[页眉页脚]\n4",
+"blocks":[
+{
+"t":"h",
+"s":"Heading",
+"text":"6-Port Gigabit Intelligent Standard PoE Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Overview】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The 6-port full gigabit intelligent standard PoE switch, using high-quality and high-speed network IC and the most stable PoE chip. The PoE port meets the 802.3af or 802.3at standards. This series of PoE switches can provide seamless connection for 10/100/1000M Ethernet, and the PoE power supply port can automatically detect and power powered devices that meet the IEEE802.3af or IEEE802.3at standards. Non PoE devices are not powered by intelligent detection and only transmit data."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE technology (Power over Ethernet) is the power over Ethernet technology. It means that while transmitting data signals for some IP based terminals (such as IP phones, wireless access APs, network cameras, etc.), it also provides DC power supply technology for this device. These devices receiving DC power supply are called power receiving devices."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Main features】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4* Gigabit PoE ports+2*Gigabit Ethernet ports."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Comply with IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, and IEEE 802.3x standards."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ethernet ports support 10/100/1000M self-adaptive."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Flow control method: IEEE 802.3x standard is adopted for full duplex, and Back pressure standard is adopted for half duplex."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Supports automatic port rollover（Auto MDI/MDIX）."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support for watchdog, default on"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Using a store-and-forward switching mechanism."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"All ports support line speed switching."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Zero configuration feature, automatically feeding to adaptive devices."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Panel indicators monitor the working status and assist in fault analysis."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Three speed one button intelligent dial switch, supporting VLAN, Default, and Extend modes."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support Surge protection: Common mode 4KV; ESD: Air 8KV, Contact 6KV（level B）."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Application environment】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Metropolitan fiber broadband network: Telecommunications, cable TV, network system integration, etc., according to network operators."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Broadband private network: Suitable for special networks in industries such as finance, government, petroleum, railway, electric power, public security, transportation, education, etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Multimedia transmission: Integrated transmission of images, voice, and data, suitable for applications such as distance education, conference television, and videophone."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Real time monitoring: Simultaneous transmission of real-time control signals, images, and data."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Technical Specification】"
+},
+{
+"t":"table",
+"rows":[
+[
+"I/O Interface"
+],
+[
+"Power",
+"AC INPUT （100-240V） 50/60Hz"
+],
+[
+"Ethernet",
+"4* Gigabit PoE ports / 2* Gigabit Ethernet ports"
+],
+[
+"Chip",
+"RTL8367（5E19）"
+],
+[
+"Hardware parameters"
+],
+[
+"Bandwidth",
+"12Gbps"
+],
+[
+"Packet Forwarding Rate",
+"8.928Mpps"
+],
+[
+"Package Cache",
+"1Mbit"
+],
+[
+"Mac Address",
+"2K"
+],
+[
+"Forwarding mode",
+"Store Forward"
+],
+[
+"Protocol standards"
+],
+[
+"Network Protocol",
+"IEEE 802.3 / IEEE 802.3u / IEEE 802.3ab / IEEE 802.3x"
+],
+[
+"PoE Protocol",
+"IEEE802.3af （15.4 W） / IEEE802.3at （30 W） / POE port output voltage: DC 44-57V / POE power supply core: 1/2+; 3/6-"
+],
+[
+"Network Media",
+"10Base-T : Cat3, 4, 5 or above UTP/STP(≤100m) / 100Base-TX : Cat5 or above UTP/STP(≤100m) / 1000Base-TX : Cat5 or above UTP/STP(≤100m)"
+],
+[
+"Industry Standard",
+"EMS: EN61000-4-2 (ESD)、 / EN61000-4-5 (Surge)"
+],
+[
+"Attestation"
+],
+[
+"Safety certification",
+"CE、FCC、RoHS"
+],
+[
+"Safety certification"
+],
+[
+"Working Environment",
+"Working temperature: - 10~50 ℃ / Storage temperature: - 40~70 ℃ / Working humidity: 10%~90%, non-condensing / Storage humidity: 5%~95%, non-condensing"
+],
+[
+"Functional indication"
+],
+[
+"PWR (Power light)",
+"PWR(Power indication), Mode(DIP indication), 1-6 Green light(Link&Data)"
+],
+[
+"PWR",
+"On: Powered on / Off: Powered off"
+],
+[
+"Mode",
+"On：VLAN(Port isolation) / Off：Default(Normal mode) / Flashing：Extend(Link extension)"
+],
+[
+"1-6 Green light",
+"On：Link connection is normal / Off：Link not working / Flashing：Data transmitting"
+],
+[
+"DIP switch",
+"VLAN、Default、Extend"
+],
+[
+"VLAN",
+"Port isolation: 1-4 ports realize isolation between the each port of the monitoring network and interworking with the uplink port to protect internet security."
+],
+[
+"Default",
+"Normal mode, all ports communicate with each other, transmission distance is within 100 meters, transmission rate is 10/100/1000M self-adaptive"
+],
+[
+"Extend",
+"In the link extension mode, the 3-4 port PoE power supply and data transmission distance can be extended to 250 meters, and the transmission rate turns to 10 M"
+],
+[
+"Physical Specification"
+],
+[
+"Structure size",
+"Product size: 200* 118* 44mm / Package size: 245* 190* 60mm / Product net weight: 0.61Kg / Product gross weight: 0.91Kg"
+],
+[
+"Packing information",
+"Outer box size: 520* 320* 400mm / Packing quantity: 20 sets / Packing weight: 19.2KG"
+],
+[
+"power",
+"Product power: maximum 5W / POE power: maximum 60W"
+],
+[
+"Packing list",
+"Switch, 1 PCS / Power cord, 1PCS / Manual and certificate of conformity, 1 PCS"
+],
+[
+"Order Info"
+],
+[
+"ZX900-AFG-42N",
+"6-Port Gigabit Intelligent Standard PoE Switch"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Picture】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Application topology】"
+}
+],
+"extracted_at":"2026-10-22T06:12:27Z"
+}

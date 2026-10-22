@@ -1,0 +1,27 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AFG-SWTG018ANS__IMG_0706.jpg__c52801c8",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/900及管理型POE交换机/ZX900-AFG-SWTG018ANS/IMG_0706.jpg",
+"name":"IMG_0706.jpg",
+"ext":".jpg",
+"bytes":1661089,
+"sha256":"c52801c8b8086c20a21dfce89fc2921376b6cc01ed13ac469d613a53274bb474",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":3456,
+"mode":"RGB",
+"datetime":"2023:08:30 15:35:40",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":3985
+},
+"warnings":[],
+"chars":149,
+"text":"2.5G PoE Switch On=Link Flashing=ACT 1-8 Port: @ 10/100/1000M @ 2.5G 9 Port: @2.5G @10G\na __10/100/1000M/2.56 PoE pot $$ i$ a\n9(106)\n|\n|\nLink/Act PoE",
+"extracted_at":"2026-10-22T06:12:17Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AFG-SWTG018ANS__IMG_0706.jpg__c52801c8.jpg"
+}

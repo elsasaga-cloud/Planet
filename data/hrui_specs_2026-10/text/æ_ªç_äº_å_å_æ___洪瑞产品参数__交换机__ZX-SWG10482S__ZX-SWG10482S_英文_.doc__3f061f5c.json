@@ -1,0 +1,262 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG10482S__ZX-SWG10482S_英文_.doc__3f061f5c",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/交换机/ZX-SWG10482S/ZX-SWG10482S（英文）.doc",
+"name":"ZX-SWG10482S（英文）.doc",
+"ext":".doc",
+"bytes":629042,
+"sha256":"3f061f5cfe9a3a07f733ef2fd5cfde6a950e99fe52b127a8d1e90b7db7b54a6d",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-22T06:10:44+00:00",
+"paragraphs":21,
+"tables":2,
+"embedded_images":3
+},
+"warnings":[],
+"chars":3833,
+"text":"50 Port Gigabit Ethernet switch\n【Introduction】\n50 port Gigabit Ethernet switch，Provide 48* 10/100/1000M adaptive Ethernet ports+2* Gigabit SFP ports. Adopting high-quality and high-speed network ICS, this product thoroughly solves the problem of high noise when deploying small switches in office environments through a fan free silent design. This switch has 48* 10/100/1000M RJ45 ports and can provide seamless connection for 10/100/1000M Ethernet. It supports two working modes and is easy to manage and maintain with intelligent one click dialing. The product can be widely used in security network video monitoring, hotels, campuses, small and medium-sized enterprise network engineering, and other occasions.\n【Main Feature】\n48* 10/100/1000M RJ45 Ports+2* 10/100/1000M RJ45 SFP Ports.\nSupport IEEE802.3,IEEE802.3u,IEEE802.3ab standard.\nEthernet ports support 10/100/1000M adaptive.\nSupport automatic port flipping (Auto MDI/MDIX).\nPanel indicator monitoring the status and help failure analysis.\nSupport dial switch VLAN mode.\nFlow control mode, IEEE802.3x standard for full duplex and Backpressure standard for half duplex.\nSupport loop alarm.\nSurge Protection: General 6KV, Differential 2KV, ESD 15KV air, 8KV contact(level B)\n【Application Environment】\nMetro Optical Broadband Network: Data network operators such as telecommunications, cable TV, and network system integration, etc.\nBroadband private network: Suitable for financial, government, oil, railway, electric power, public security, transportation, education and other industries.\nMultimedia transmission: Integrated transmission of images, voice and data, suitable for remote teaching, conference TV, videophone and other applications.\nReal-time monitoring: Simultaneous transmission of real-time control signals, images and data.\n【Specification】\nI/O Interface\nPower\tAC100-240V/50-60Hz\nEthernet\t48* 10/100/1000 Mbps RJ45 Ports / 2* 10/100/1000 Mbps SFP Ports\nChip\tRTL8393M+RTL8218D\nPerformance\nBandwidth\t100Gbps\nPacket Forwarding / Rate\t74.4Mpps\nPackage Cache\t16Mbit\nMAC Address Table\t32K\nStandard\nNetwork Protocol\tIEEE802.3 (Ethernet) / IEEE802.3u (Fast Ethernet) / IEEE 802.3ab (Gigabit Ethernet) / IEEE802.3x (Flow Control)\nIndustry Standard\tEMS: EN61000-4-2 (ESD), / EN61000-4-5 (Surge)\nNetwork Medium\t10Base-T: Cat 3, 4, 5 or above UTP(≤100m) / 100Base-TX: Cat 5 or above UTP(≤100m) / 1000Base-TX: Cat 5 or above UTP(≤100m)\nOptical Medium\tMulti Mode fiber: 50/125, 62.5/125, 100/140um / Single Mode fiber: 8/125, 8.7/125, 9/125, 10/125um\nCertification\nSafety Certificate\tCE, FCC, RoHS\nEnvironment Standard\nWorking Environment\tWorking Temperature: -10~50°C / Storage Temperature: -40~70°C / Working Humidity: 10%~90%，non-condensing / Storage Temperature: 5%~95%，non-condensing\nFunction Indicator\nIndicator\tPWR(Power Indicator); SYS(System Light); Link/Act(Link & Data)\nPWR\tOn: Powered On / Off: Powered Off\nSYS\tOn: The system is normal / Flashing: System startup in progress / Off: System not started\nLink\tGreen On: 1000M Link Connection Normal / Yellow On: 10/100M Link Connection Normal / Flashing: Data Transmit / Off: Link Connection Blocked\nVLAN dialing\tVLAN OFF: Off, all ports are interconnected / VLAN ON: enabled, ports 1-46 are isolated from each other and interconnected with ports 47-50\nPhysical Specification\nStructure Size\tProduct Size: 440*205*44mm / Package Size: 500*290*85mm / Product N. W: 2.826KG / Product G. W: 3.371KG\nPacking Info\tMEAS: 520*445*310mm / Packing Qty: 5 PCS / Packing Weight: 17.85KG\nPower Voltage\tWorking Voltage: AC100-240 V,50/60Hz / Power supply: 12V4A 48W\nPower\tTotal Power: maximum 38W\nPackage List\tSwitch: 1PCS; / Instruction manual: 1PCS; / Certificate of quality: 1PCS; / Power cable: 1PCS; / Mounting ear: 1 Pair\nOrder Info\nZX-SWG10482S\t50 Port Gigabit Ethernet switch\n【Product Chart】\n【Product Structure】\n[页眉页脚]\n4",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"50 Port Gigabit Ethernet switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Introduction】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"50 port Gigabit Ethernet switch，Provide 48* 10/100/1000M adaptive Ethernet ports+2* Gigabit SFP ports. Adopting high-quality and high-speed network ICS, this product thoroughly solves the problem of high noise when deploying small switches in office environments through a fan free silent design. This switch has 48* 10/100/1000M RJ45 ports and can provide seamless connection for 10/100/1000M Ethernet. It supports two working modes and is easy to manage and maintain with intelligent one click dialing. The product can be widely used in security network video monitoring, hotels, campuses, small and medium-sized enterprise network engineering, and other occasions."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Main Feature】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"48* 10/100/1000M RJ45 Ports+2* 10/100/1000M RJ45 SFP Ports."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support IEEE802.3,IEEE802.3u,IEEE802.3ab standard."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ethernet ports support 10/100/1000M adaptive."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support automatic port flipping (Auto MDI/MDIX)."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Panel indicator monitoring the status and help failure analysis."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support dial switch VLAN mode."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Flow control mode, IEEE802.3x standard for full duplex and Backpressure standard for half duplex."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support loop alarm."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Surge Protection: General 6KV, Differential 2KV, ESD 15KV air, 8KV contact(level B)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Application Environment】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Metro Optical Broadband Network: Data network operators such as telecommunications, cable TV, and network system integration, etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Broadband private network: Suitable for financial, government, oil, railway, electric power, public security, transportation, education and other industries."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Multimedia transmission: Integrated transmission of images, voice and data, suitable for remote teaching, conference TV, videophone and other applications."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Real-time monitoring: Simultaneous transmission of real-time control signals, images and data."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Specification】"
+},
+{
+"t":"table",
+"rows":[
+[
+"I/O Interface"
+],
+[
+"Power",
+"AC100-240V/50-60Hz"
+],
+[
+"Ethernet",
+"48* 10/100/1000 Mbps RJ45 Ports / 2* 10/100/1000 Mbps SFP Ports"
+],
+[
+"Chip",
+"RTL8393M+RTL8218D"
+],
+[
+"Performance"
+],
+[
+"Bandwidth",
+"100Gbps"
+],
+[
+"Packet Forwarding / Rate",
+"74.4Mpps"
+],
+[
+"Package Cache",
+"16Mbit"
+],
+[
+"MAC Address Table",
+"32K"
+],
+[
+"Standard"
+],
+[
+"Network Protocol",
+"IEEE802.3 (Ethernet) / IEEE802.3u (Fast Ethernet) / IEEE 802.3ab (Gigabit Ethernet) / IEEE802.3x (Flow Control)"
+],
+[
+"Industry Standard",
+"EMS: EN61000-4-2 (ESD), / EN61000-4-5 (Surge)"
+],
+[
+"Network Medium",
+"10Base-T: Cat 3, 4, 5 or above UTP(≤100m) / 100Base-TX: Cat 5 or above UTP(≤100m) / 1000Base-TX: Cat 5 or above UTP(≤100m)"
+],
+[
+"Optical Medium",
+"Multi Mode fiber: 50/125, 62.5/125, 100/140um / Single Mode fiber: 8/125, 8.7/125, 9/125, 10/125um"
+],
+[
+"Certification"
+],
+[
+"Safety Certificate",
+"CE, FCC, RoHS"
+],
+[
+"Environment Standard"
+],
+[
+"Working Environment",
+"Working Temperature: -10~50°C / Storage Temperature: -40~70°C / Working Humidity: 10%~90%，non-condensing / Storage Temperature: 5%~95%，non-condensing"
+],
+[
+"Function Indicator"
+],
+[
+"Indicator",
+"PWR(Power Indicator); SYS(System Light); Link/Act(Link & Data)"
+],
+[
+"PWR",
+"On: Powered On / Off: Powered Off"
+],
+[
+"SYS",
+"On: The system is normal / Flashing: System startup in progress / Off: System not started"
+],
+[
+"Link",
+"Green On: 1000M Link Connection Normal / Yellow On: 10/100M Link Connection Normal / Flashing: Data Transmit / Off: Link Connection Blocked"
+],
+[
+"VLAN dialing",
+"VLAN OFF: Off, all ports are interconnected / VLAN ON: enabled, ports 1-46 are isolated from each other and interconnected with ports 47-50"
+],
+[
+"Physical Specification"
+],
+[
+"Structure Size",
+"Product Size: 440*205*44mm / Package Size: 500*290*85mm / Product N. W: 2.826KG / Product G. W: 3.371KG"
+],
+[
+"Packing Info",
+"MEAS: 520*445*310mm / Packing Qty: 5 PCS / Packing Weight: 17.85KG"
+],
+[
+"Power Voltage",
+"Working Voltage: AC100-240 V,50/60Hz / Power supply: 12V4A 48W"
+],
+[
+"Power",
+"Total Power: maximum 38W"
+],
+[
+"Package List",
+"Switch: 1PCS; / Instruction manual: 1PCS; / Certificate of quality: 1PCS; / Power cable: 1PCS; / Mounting ear: 1 Pair"
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+"Order Info"
+],
+[
+"ZX-SWG10482S",
+"50 Port Gigabit Ethernet switch"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Chart】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Structure】"
+}
+],
+"extracted_at":"2026-10-22T06:10:44Z"
+}

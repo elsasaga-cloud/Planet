@@ -1,0 +1,27 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AFG-411NS-65___MG_2743.jpg__dbeae571",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/900及管理型POE交换机/ZX900-AFG-411NS-65/_MG_2743.jpg",
+"name":"_MG_2743.jpg",
+"ext":".jpg",
+"bytes":759166,
+"sha256":"dbeae571e9c1f7a96c24e252684f2777f184c698381d9f251b0b63a3b137707e",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":3456,
+"height":2304,
+"mode":"RGB",
+"datetime":"2023:08:24 16:29:35",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":4247
+},
+"warnings":[],
+"chars":43,
+"text":"extend(3-4)\nDefault\nVLAN(-9)1\neo Mode i\npwR",
+"extracted_at":"2026-10-22T06:12:25Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AFG-411NS-65___MG_2743.jpg__dbeae571.jpg"
+}

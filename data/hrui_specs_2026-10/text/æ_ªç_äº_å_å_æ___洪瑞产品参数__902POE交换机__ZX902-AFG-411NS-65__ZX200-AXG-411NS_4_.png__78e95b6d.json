@@ -1,0 +1,23 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__902POE交换机__ZX902-AFG-411NS-65__ZX200-AXG-411NS_4_.png__78e95b6d",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/902POE交换机/ZX902-AFG-411NS-65/ZX200-AXG-411NS (4).png",
+"name":"ZX200-AXG-411NS (4).png",
+"ext":".png",
+"bytes":264069,
+"sha256":"78e95b6dffa756e6da1316c2e07614e98377828e22a936c24e8711e2a5a64119",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":3456,
+"height":2304,
+"mode":"RGBA",
+"thumb_bytes":2336
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-22T06:11:53Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__902POE交换机__ZX902-AFG-411NS-65__ZX200-AXG-411NS_4_.png__78e95b6d.jpg"
+}

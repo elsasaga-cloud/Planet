@@ -1,0 +1,23 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__902POE交换机__ZX902-AFG-411NS-65__ZX200-AXG-411NS_1_.png__e134570a",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/902POE交换机/ZX902-AFG-411NS-65/ZX200-AXG-411NS (1).png",
+"name":"ZX200-AXG-411NS (1).png",
+"ext":".png",
+"bytes":387273,
+"sha256":"e134570aeba64eb6048f8f539938f6ddc674243c95b4c11ad1f9da81798640f2",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":3456,
+"height":2304,
+"mode":"RGBA",
+"thumb_bytes":3841
+},
+"warnings":[],
+"chars":60,
+"text":"Extend(3-4) 3\nwaka | §\nGigabit PoE Switch SIP 3\nPWR @ @ Mode",
+"extracted_at":"2026-10-22T06:11:52Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__902POE交换机__ZX902-AFG-411NS-65__ZX200-AXG-411NS_1_.png__e134570a.jpg"
+}

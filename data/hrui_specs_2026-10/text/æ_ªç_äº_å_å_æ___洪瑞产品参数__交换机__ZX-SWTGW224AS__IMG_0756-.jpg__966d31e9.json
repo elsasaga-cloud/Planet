@@ -1,0 +1,27 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTGW224AS__IMG_0756-.jpg__966d31e9",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/交换机/ZX-SWTGW224AS/IMG_0756-.jpg",
+"name":"IMG_0756-.jpg",
+"ext":".jpg",
+"bytes":1621280,
+"sha256":"966d31e944e551fa521416d86d0a28b9c2c95ce47a188dad73b1ae32434575d6",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":5178,
+"height":3452,
+"mode":"RGB",
+"datetime":"2023:09:28 17:29:31",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":3196
+},
+"warnings":[],
+"chars":97,
+"text":"Web Managed 2.5G Ethernet Switch\n> 106/2.56/16 —————\n2.5G Link/Act 10/100/1000M Link/Act wo @ SYS",
+"extracted_at":"2026-10-22T06:10:02Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTGW224AS__IMG_0756-.jpg__966d31e9.jpg"
+}

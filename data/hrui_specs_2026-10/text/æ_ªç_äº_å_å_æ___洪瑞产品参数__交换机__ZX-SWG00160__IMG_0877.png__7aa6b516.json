@@ -1,0 +1,23 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG00160__IMG_0877.png__7aa6b516",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/交换机/ZX-SWG00160/IMG_0877.png",
+"name":"IMG_0877.png",
+"ext":".png",
+"bytes":1713135,
+"sha256":"7aa6b516cd2e23b85efeb809b7c06adf345fa045d08731037c2d05686814481a",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":5184,
+"height":3456,
+"mode":"RGBA",
+"thumb_bytes":2853
+},
+"warnings":[],
+"chars":23,
+"text":"Gigabit Ethernet Switch",
+"extracted_at":"2026-10-22T06:10:50Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG00160__IMG_0877.png__7aa6b516.jpg"
+}

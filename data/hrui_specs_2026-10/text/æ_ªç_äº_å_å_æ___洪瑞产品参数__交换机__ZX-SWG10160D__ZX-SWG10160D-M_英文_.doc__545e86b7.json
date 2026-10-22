@@ -1,0 +1,234 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG10160D__ZX-SWG10160D-M_英文_.doc__545e86b7",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/交换机/ZX-SWG10160D/ZX-SWG10160D-M（英文）.doc",
+"name":"ZX-SWG10160D-M（英文）.doc",
+"ext":".doc",
+"bytes":540160,
+"sha256":"545e86b78c69eb548c84e4035cbb51e805fbebbb0015327a27d297c754bffaed",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-22T06:11:01+00:00",
+"paragraphs":21,
+"tables":1,
+"embedded_images":3
+},
+"warnings":[],
+"chars":3361,
+"text":"16-Port Gigabit Intelligent Ethernet Switch\n【Introduction】\nThe 16-port Gigabit intelligent Ethernet switch adopts high-quality and high-speed network IC, and this product completely solves the problem of noise of small switches in the office environment through the fanless mute design. This switch has 16 Gigabit RJ45 ports, can provide seamless connection for 10/100/1000M Ethernet, supports three working modes, one-key smart simple switching working mode, easy to manage and maintain, the product can be widely used in Security network video surveillance, hotel, campus, small and medium-sized enterprise network engineering and other occasions.\n【Main Features】\n16*10/100/1000M RJ45 Ports\nApply to IEEE802.3、IEEE802.3u、IEEE802.3ab standard\nEthernet port supports 10/100/1000M adaptive\nSupport auto MDI/MDIX\nPanel indicators to monitor working status and help fault analysis\nOne-key smart switch, supports  VLAN, Default, Extend three modes\nFlow control, full duplex adopts IEEE802.3x standard, half duplex adopts Backpressure standard\nPort 1-8 supports Qos data priority\nSupport Loop alarm\n【Application Environment】\nMetro Optical Broadband Network: Data network operators such as telecommunications, cable TV, and network system integration, etc.\nBroadband private network: Suitable for financial, government, oil, railway, electric power, public security, transportation, education and other industries.\nMultimedia transmission: Integrated transmission of images, voice and data, suitable for remote teaching, conference TV, videophone and other applications.\nReal-time monitoring: Simultaneous transmission of real-time control signals, images and data.\n【Specifications】\nI/O Interface\nPower\tAC Input (100-240V)\nEthernet\t16* 10/100/1000M RJ45 Ports\nPerformance\nBandwidth\t32Gbps\nThroughput\t23.8Mpps\nPacket Buffer\t4Mbit\nMAC Address\t8K\nTransfer Mode\tStore and forward\nStandard\nNetwork protocol\tIEEE802.3 (10Base-T) / IEEE802.3u (100Base-TX) / IEEE802.3ab (1000Base-TX) / IEEE802.3x (Flow control)\nNetwork Medium\t10Base-T: Cat3, 4, 5 or above UTP(≤100m) / 100Base-TX: Cat5  or above UTP(≤100m) / 1000Base-TX: Cat5 or above UTP(≤100m)\nCertification\nSecurity Certificate\tCE, FCC, RoHS\nEnvironment\nWorking Environment\tWorking Temperature: -10~50°C / Storage Temperature: -40~70°C / Working Humidity: 10%~90%, non-condensing / Storage Temperature: 5%~95%, non-condensing\nPhysical Specification\nStructure Size\tProduct Size: 220*161*44mm / Package Size: 315*215*85mm / Product Net-Weight: 0.90kg / Product Gross-Weight: 1.42kg (With mount ear) 1.24kg (without mount ear)\nPacking Info\tMEAS: 445*455*335mm / Packing Qty: 10 unit / Packing weight：15.2KG (With mount ear) 13.4kg (without mount ear)\nPower Voltage\tPower Input Voltage ：AC 100-240 V   12V1A\nPower\tMaximum 12W\nPackage List\tSwitch 1 pcs, Power cord 1 pcs, User manual 1 pc, Warranty card 1 pc, Brackets 1 pair\nLED Indicators\tPWR (Power indicator), Link (Network Link), LOOP (Loop alarm), 1000M\nDIP Switch\tVLAN：Port Isolation, 1-14 ports are isolated each other, all communicate with uplink port 15/16; / Default：Default mode, Support loop alarm; / Extend：Monitor Mode, 1-14 ports support 100M speed reduction negotiation, support 250 meters in 10Mbps/s mode,  port 15 and port 16 as uplink port；\nOrdering Info\nZX-SWG10160D-M\t16-Port Gigabit Intelligent Ethernet Switch\n【Product Picture】\n【Product Application】",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 7",
+"text":"16-Port Gigabit Intelligent Ethernet Switch"
+},
+{
+"t":"h",
+"s":"Heading 7",
+"text":"【Introduction】"
+},
+{
+"t":"h",
+"s":"Heading 6",
+"text":"The 16-port Gigabit intelligent Ethernet switch adopts high-quality and high-speed network IC, and this product completely solves the problem of noise of small switches in the office environment through the fanless mute design. This switch has 16 Gigabit RJ45 ports, can provide seamless connection for 10/100/1000M Ethernet, supports three working modes, one-key smart simple switching working mode, easy to manage and maintain, the product can be widely used in Security network video surveillance, hotel, campus, small and medium-sized enterprise network engineering and other occasions."
+},
+{
+"t":"h",
+"s":"Heading 6",
+"text":"【Main Features】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"16*10/100/1000M RJ45 Ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Apply to IEEE802.3、IEEE802.3u、IEEE802.3ab standard"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ethernet port supports 10/100/1000M adaptive"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support auto MDI/MDIX"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Panel indicators to monitor working status and help fault analysis"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"One-key smart switch, supports  VLAN, Default, Extend three modes"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Flow control, full duplex adopts IEEE802.3x standard, half duplex adopts Backpressure standard"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Port 1-8 supports Qos data priority"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support Loop alarm"
+},
+{
+"t":"h",
+"s":"Heading 7",
+"text":"【Application Environment】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Metro Optical Broadband Network: Data network operators such as telecommunications, cable TV, and network system integration, etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Broadband private network: Suitable for financial, government, oil, railway, electric power, public security, transportation, education and other industries."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Multimedia transmission: Integrated transmission of images, voice and data, suitable for remote teaching, conference TV, videophone and other applications."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Real-time monitoring: Simultaneous transmission of real-time control signals, images and data."
+},
+{
+"t":"h",
+"s":"Heading 7",
+"text":"【Specifications】"
+},
+{
+"t":"table",
+"rows":[
+[
+"I/O Interface"
+],
+[
+"Power",
+"AC Input (100-240V)"
+],
+[
+"Ethernet",
+"16* 10/100/1000M RJ45 Ports"
+],
+[
+"Performance"
+],
+[
+"Bandwidth",
+"32Gbps"
+],
+[
+"Throughput",
+"23.8Mpps"
+],
+[
+"Packet Buffer",
+"4Mbit"
+],
+[
+"MAC Address",
+"8K"
+],
+[
+"Transfer Mode",
+"Store and forward"
+],
+[
+"Standard"
+],
+[
+"Network protocol",
+"IEEE802.3 (10Base-T) / IEEE802.3u (100Base-TX) / IEEE802.3ab (1000Base-TX) / IEEE802.3x (Flow control)"
+],
+[
+"Network Medium",
+"10Base-T: Cat3, 4, 5 or above UTP(≤100m) / 100Base-TX: Cat5  or above UTP(≤100m) / 1000Base-TX: Cat5 or above UTP(≤100m)"
+],
+[
+"Certification"
+],
+[
+"Security Certificate",
+"CE, FCC, RoHS"
+],
+[
+"Environment"
+],
+[
+"Working Environment",
+"Working Temperature: -10~50°C / Storage Temperature: -40~70°C / Working Humidity: 10%~90%, non-condensing / Storage Temperature: 5%~95%, non-condensing"
+],
+[
+"Physical Specification"
+],
+[
+"Structure Size",
+"Product Size: 220*161*44mm / Package Size: 315*215*85mm / Product Net-Weight: 0.90kg / Product Gross-Weight: 1.42kg (With mount ear) 1.24kg (without mount ear)"
+],
+[
+"Packing Info",
+"MEAS: 445*455*335mm / Packing Qty: 10 unit / Packing weight：15.2KG (With mount ear) 13.4kg (without mount ear)"
+],
+[
+"Power Voltage",
+"Power Input Voltage ：AC 100-240 V   12V1A"
+],
+[
+"Power",
+"Maximum 12W"
+],
+[
+"Package List",
+"Switch 1 pcs, Power cord 1 pcs, User manual 1 pc, Warranty card 1 pc, Brackets 1 pair"
+],
+[
+"LED Indicators",
+"PWR (Power indicator), Link (Network Link), LOOP (Loop alarm), 1000M"
+],
+[
+"DIP Switch",
+"VLAN：Port Isolation, 1-14 ports are isolated each other, all communicate with uplink port 15/16; / Default：Default mode, Support loop alarm; / Extend：Monitor Mode, 1-14 ports support 100M speed reduction negotiation, support 250 meters in 10Mbps/s mode,  port 15 and port 16 as uplink port；"
+],
+[
+"Ordering Info"
+],
+[
+"ZX-SWG10160D-M",
+"16-Port Gigabit Intelligent Ethernet Switch"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Picture】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Application】"
+}
+],
+"extracted_at":"2026-10-22T06:11:01Z"
+}

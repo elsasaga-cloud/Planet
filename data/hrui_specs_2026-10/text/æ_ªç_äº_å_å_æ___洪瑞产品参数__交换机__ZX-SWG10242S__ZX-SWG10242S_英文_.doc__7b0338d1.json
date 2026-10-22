@@ -1,0 +1,253 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG10242S__ZX-SWG10242S_英文_.doc__7b0338d1",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/交换机/ZX-SWG10242S/ZX-SWG10242S（英文）.doc",
+"name":"ZX-SWG10242S（英文）.doc",
+"ext":".doc",
+"bytes":1251437,
+"sha256":"7b0338d1d1d99928026f6a9ff6bcc8c0e1233802317570525bb483ea40607673",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-22T06:09:43+00:00",
+"paragraphs":21,
+"tables":1,
+"embedded_images":2
+},
+"warnings":[],
+"chars":3775,
+"text":"26-Port Gigabit Ethernet Switch\n【Introduction】\nThe 26-port Gigabit intelligent Ethernet switch adopts high-quality and high-speed network ICs, and this product completely solves the problem of noise of small switches in the office environment through the fanless mute design. This switch has 24 Gigabit RJ45 ports and  2 1000M SFP ports , can provide seamless connection for 10/100/1000M Ethernet, supports three working modes, one-key smart simple switching working mode, easy to manage and maintain, the product can be widely used in Security network video surveillance, hotel, campus, small and medium-sized enterprise network engineering and other occasions.\n【Main Features】\n24*10/100/1000M RJ45 Ports+2*1000M SFP Ports\nComply with IEEE 802.3, IEEE 802.3u,IEEE802.3ab,IEEE802.3z standards\nEthernet port 10/100/1000M rate auto adaptive\nFlow control mode: full-duplex adopts IEEE 802.3x standard, half-duplex adopts Back pressure standard\nSupport Port Auto-flip (Auto MDI/MDIX）\nPanel indicators to monitor working status and help fault analysis\nOne-key smart switch, supports  VLAN,Default , Extend\nPort 1-8 supports Qos data priority\nSurge Protection: General 4KV（level B）, ESD 8KV air, 6KV contact（level C）\n【Application Environment】\nMetro Optical Broadband Network: Data network operators such as telecommunications, cable TV, and network system integration,etc.\nBroadband private network: Suitable for financial, government, oil, railway, electric power, public security, transportation, education and other industries\nMultimedia transmission: Integrated transmission of images, voice and data, suitable for remote teaching, conference TV, videophone and other applications\nReal-time monitoring: Simultaneous transmission of real-time control signals, images and data\n【Specifications】\nI/O Interface\nPower\tInput: AC 100-240V, 50/60Hz\nEthernet\t24*10/100/1000Mbps RJ45 Ports / 2*1000M SFP Ports\nPerformance\nSwitching Capacity\t52Gbps\nThroughput\t38.68Mpps\nPacket Buffer\t4Mbit\nMAC Address\t8K\nTransfer Mode\tStore and forward\nStandard\nNetwork protocol\tIEEE802.3 (10Base-T) / IEEE802.3u (100Base-TX) / IEEE802.3ab(1000Base-TX) / IEEE802.3z(1000Base-FX) / IEEE802.3x (Flow control)\nIndustry Standard\tEMS: EN61000-4-2 (ESD) / EN61000-4-5 (Surge)\nNetwork Medium\t10Base-T : Cat3、4、5 or above UTP(≤100m) / 100Base-TX : Cat5 or above UTP(≤100m) / 1000Base-TX : Cat5 or above UTP(≤100m)\nOptical Media\tMultimode fiber : 50/125, 62.5/125, 100/140μm / Single mode fiber: 8/125, 8.7/125, 9/125, 10/125μm\nProtection\nSecurity Certificate\tCE、FCC、RoHS\nEnvironment\nWorking Environment\tWorking Temperature：-10~50°C / Storage Temperature：-40~70°C / Working Humidity ：10%~90%，non-condensing / Storage Temperature：5%~95%，non-condensing\nIndication\nPWR（power supply）\tLighting：Powered / Un-Light：No Power\nLink/Act(1-26)\tLighting：Connecting / Flashing：Data Transmit / Un-Light：Disconnect\n1000M(1-26)\tLighting：1000M Link Connecting / Un-Light：10/100M Link Connecting or Disconnect\nDIP Switch\tVLAN :  Port Isolation, 1-24 ports are isolated each other, all communicate with uplink port 25/26; / Default : Default mode, all port can communicate with each other; / Extend : Link extension mode, 17-24 ports supply data transmission distance can be extended to 250 meters, the transmission rate becomes 10M\nMechanical\nStructure Size\tProduct Dimension : 440*204*44mm / Package Dimension : 500*290*85mm / N.W：2.36kg / G.W：2.93kg\nPacking Info\tCarton MEAS：520*445*310mm / Packing Qty：5 units / Packing Weight：15.6KG\nPower Voltage\tInput Voltage ：AC 100-240 V / Power supply：12V2A\nPower\tMaximum 24W\nPackage List\tSwitch 1 pcs, Power cord 1 pcs, User manual 1 pc, Certification 1 pc, Brackets 1 pair\nOrdering Info\nZX-SWG10242S\t26-Port Gigabit Ethernet Switch\n【Product renderings】\n【Product structure drawing】\n[页眉页脚]\n3",
+"blocks":[
+{
+"t":"h",
+"s":"Heading",
+"text":"26-Port Gigabit Ethernet Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Introduction】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The 26-port Gigabit intelligent Ethernet switch adopts high-quality and high-speed network ICs, and this product completely solves the problem of noise of small switches in the office environment through the fanless mute design. This switch has 24 Gigabit RJ45 ports and  2 1000M SFP ports , can provide seamless connection for 10/100/1000M Ethernet, supports three working modes, one-key smart simple switching working mode, easy to manage and maintain, the product can be widely used in Security network video surveillance, hotel, campus, small and medium-sized enterprise network engineering and other occasions."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Main Features】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"24*10/100/1000M RJ45 Ports+2*1000M SFP Ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Comply with IEEE 802.3, IEEE 802.3u,IEEE802.3ab,IEEE802.3z standards"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ethernet port 10/100/1000M rate auto adaptive"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Flow control mode: full-duplex adopts IEEE 802.3x standard, half-duplex adopts Back pressure standard"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support Port Auto-flip (Auto MDI/MDIX）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Panel indicators to monitor working status and help fault analysis"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"One-key smart switch, supports  VLAN,Default , Extend"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Port 1-8 supports Qos data priority"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Surge Protection: General 4KV（level B）, ESD 8KV air, 6KV contact（level C）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Application Environment】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Metro Optical Broadband Network: Data network operators such as telecommunications, cable TV, and network system integration,etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Broadband private network: Suitable for financial, government, oil, railway, electric power, public security, transportation, education and other industries"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Multimedia transmission: Integrated transmission of images, voice and data, suitable for remote teaching, conference TV, videophone and other applications"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Real-time monitoring: Simultaneous transmission of real-time control signals, images and data"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Specifications】"
+},
+{
+"t":"table",
+"rows":[
+[
+"I/O Interface"
+],
+[
+"Power",
+"Input: AC 100-240V, 50/60Hz"
+],
+[
+"Ethernet",
+"24*10/100/1000Mbps RJ45 Ports / 2*1000M SFP Ports"
+],
+[
+"Performance"
+],
+[
+"Switching Capacity",
+"52Gbps"
+],
+[
+"Throughput",
+"38.68Mpps"
+],
+[
+"Packet Buffer",
+"4Mbit"
+],
+[
+"MAC Address",
+"8K"
+],
+[
+"Transfer Mode",
+"Store and forward"
+],
+[
+"Standard"
+],
+[
+"Network protocol",
+"IEEE802.3 (10Base-T) / IEEE802.3u (100Base-TX) / IEEE802.3ab(1000Base-TX) / IEEE802.3z(1000Base-FX) / IEEE802.3x (Flow control)"
+],
+[
+"Industry Standard",
+"EMS: EN61000-4-2 (ESD) / EN61000-4-5 (Surge)"
+],
+[
+"Network Medium",
+"10Base-T : Cat3、4、5 or above UTP(≤100m) / 100Base-TX : Cat5 or above UTP(≤100m) / 1000Base-TX : Cat5 or above UTP(≤100m)"
+],
+[
+"Optical Media",
+"Multimode fiber : 50/125, 62.5/125, 100/140μm / Single mode fiber: 8/125, 8.7/125, 9/125, 10/125μm"
+],
+[
+"Protection"
+],
+[
+"Security Certificate",
+"CE、FCC、RoHS"
+],
+[
+"Environment"
+],
+[
+"Working Environment",
+"Working Temperature：-10~50°C / Storage Temperature：-40~70°C / Working Humidity ：10%~90%，non-condensing / Storage Temperature：5%~95%，non-condensing"
+],
+[
+"Indication"
+],
+[
+"PWR（power supply）",
+"Lighting：Powered / Un-Light：No Power"
+],
+[
+"Link/Act(1-26)",
+"Lighting：Connecting / Flashing：Data Transmit / Un-Light：Disconnect"
+],
+[
+"1000M(1-26)",
+"Lighting：1000M Link Connecting / Un-Light：10/100M Link Connecting or Disconnect"
+],
+[
+"DIP Switch",
+"VLAN :  Port Isolation, 1-24 ports are isolated each other, all communicate with uplink port 25/26; / Default : Default mode, all port can communicate with each other; / Extend : Link extension mode, 17-24 ports supply data transmission distance can be extended to 250 meters, the transmission rate becomes 10M"
+],
+[
+"Mechanical"
+],
+[
+"Structure Size",
+"Product Dimension : 440*204*44mm / Package Dimension : 500*290*85mm / N.W：2.36kg / G.W：2.93kg"
+],
+[
+"Packing Info",
+"Carton MEAS：520*445*310mm / Packing Qty：5 units / Packing Weight：15.6KG"
+],
+[
+"Power Voltage",
+"Input Voltage ：AC 100-240 V / Power supply：12V2A"
+],
+[
+"Power",
+"Maximum 24W"
+],
+[
+"Package List",
+"Switch 1 pcs, Power cord 1 pcs, User manual 1 pc, Certification 1 pc, Brackets 1 pair"
+],
+[
+"Ordering Info"
+],
+[
+"ZX-SWG10242S",
+"26-Port Gigabit Ethernet Switch"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product renderings】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product structure drawing】"
+}
+],
+"extracted_at":"2026-10-22T06:09:43Z"
+}

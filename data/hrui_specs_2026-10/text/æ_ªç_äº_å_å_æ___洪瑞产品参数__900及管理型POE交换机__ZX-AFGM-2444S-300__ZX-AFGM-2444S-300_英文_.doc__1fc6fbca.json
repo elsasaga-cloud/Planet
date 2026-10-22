@@ -1,0 +1,908 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX-AFGM-2444S-300__ZX-AFGM-2444S-300_英文_.doc__1fc6fbca",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/900及管理型POE交换机/ZX-AFGM-2444S-300/ZX-AFGM-2444S-300（英文）.doc",
+"name":"ZX-AFGM-2444S-300（英文）.doc",
+"ext":".doc",
+"bytes":680054,
+"sha256":"1fc6fbcaf487b5a87a30a7f954fae8cd983bf1e20930658d42446b400ac275e0",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-22T06:12:45+00:00",
+"paragraphs":24,
+"tables":2,
+"embedded_images":3
+},
+"warnings":[],
+"chars":8163,
+"text":"32 Ports Managed POE Switch\n【Introduction】\nThe 28-ports Gigabit Managed POE Switch is a Green Energy-Saving POE Switch independently . It adopts High-Quality and High-Speed Network IC and the most stable POE Chip. The POE port meets the IEEE802.3af or IEEE802.3at standard. This model can provide seamless connection for 10/100/1000M Ethernet, and the POE power port can automatically detect and power the powered devices that comply with the IEEE802.3af or IEEE802.3at standards. The Non-POE devices are forcibly powered and only transmit data.\n【Main Features】\nCan transfer data for network surveillance cameras;\n24 x 10/100/1000Mbps auto-sensing POE Ports, 4 x 10/100/1000Mbps Combo Ports, 1 x Console Port;\nSupport IEEE802.3/IEEE802.3i/IEEE802.3uIEEE802.3ab/IEEE802.3z, IEEE802.3af/at, store-and-forward;\nCompatible with IEEE802.3at (30W) and IEEE802.3af (15.4w);\nEthernet port supports 10/100/1000M adaptive and POE functions;\nPanel indicator monitoring the status and help failure analysis;\nFanless design, Natural Cooling, 1U Rack Mount;\nSupport 802.1x port authentication, support AAA authentication, support TACACS+ authentication;\nSupport WEB, TELNET, CLI, SSH, SNMP, RMON management;\nSupport POE Power Management;\nSupport POE Watchdog\nSurge Protection: General 6KV, Differential 2KV(level B), ESD 8KV air, 6KV contact(level C)\n【Application Environment】\nMetro Optical Broadband Network: Data network operators such as telecommunications, cable TV, and network system integration,etc.\nBroadband private network: Suitable for financial, government, oil, railway, electric power, public security, transportation, education and other industries\nMultimedia transmission: Integrated transmission of images, voice and data, suitable for remote teaching, conference TV, videophone and other applications\nReal-time monitoring: Simultaneous transmission of real-time control signals, images and data\n【Specifications】\nI/O Interface\nPower\tInput: AC 100-240V, 50/60Hz\nEthernet\t24* 10/100/1000Mbps PoE Port / 4* 1000M RJ45 Port(Combo) / 4*1000M SFP Port (Combo) / 1 * RJ45 Console Port\nPerformance\nSwitching Capacity\t56Gbps\nThroughput\t41.66Mpps\nPacket Buffer\t4Mbit\nFlash Memory\t16MByte\nDDR SDRAM\t128MByte\nVLAN\tVLAN range 1-4094, with a maximum active VLAN of 256\nMAC Address\t8K\nJumbo Frame\t10Kbytes\nTransfer Mode\tStore and forward\nStandard\nNetwork protocol\tIEEE 802.3：Ethernet MAC Protocol / IEEE 802.3i：10BASE-T Ethernet / IEEE 802.3u：100BASE-TX Fast Ethernet / IEEE 802.3ab：1000BASE-T Gigabit Ethernet / IEEE 802.3z：1000BASE-X Gigabit Ethernet (optical fiber) / IEEE 802.3az：Energy Efficient Ethernet / IEEE 802.3ad：Standard method for performing link aggregation / IEEE 802.3x：Flow control / IEEE 802.1ab： LLDP/LLDP-MED (Link Layer Discovery Protocol) / IEEE 802.1p：LAN Layer QoS/CoS Protocol Traffic Prioritization(Multicast filtering function) / IEEE 802.1q：VLAN Bridge Operation / IEEE 802.1x：Client/Server Access Control and Authentication Protocol / IEEE 802.1d：STP / IEEE 802.1s：MSTP / IEEE 802.1w：RSTP\nPoE Protocol\tIEEE802.3af （15.4W） / IEEE802.3at （30W）\nIndustry Standard\tEMS: EN61000-4-2 (ESD)、 / EN61000-4-5 (Surge)\nNetwork Medium\t10Base-T : Cat3、4、5 or above UTP(≤100m) / 100Base-TX : Cat5  or above UTP(≤100m) / 1000Base-TX : Cat5  or above UTP(≤100m) / Multi-mode Fiber: 50/125、62.5/125、100/140um / Single-mode Fiber: 8/125、8.7/125、9/125、10/125um\nProtection\nSecurity Certificate\tCE、FCC、RoHS\nEnvironment\nWorking Environment\tWorking Temperature：-10~50°C / Storage Temperature：-40~70°C / Working Humidity ：10%~90%，non-condensing / Storage Temperature：5%~95%，non-condensing\nIndication\nLED Indicators\tPWR（power supply）,SYS（System）,1-24 PoE&ACT (PoE),1-24 Link&ACT（Link&Act），25-28 Link(Link),25-28 Act (Act)\nReset\tLong press for 6 seconds to restore factory settings\nMechanical\nStructure Size\tProduct Dimension : 440* 280*44mm / Package Dimension : 500*365*85mm / N.W：3.47kg / G.W：4.18kg\nPacking Info\tCarton MEAS：520*445*385mm / Packing Qty：5 units / Packing Weight：22.1KG\nPower Voltage\tInput Voltage ：AC 100-240 V / Power supply：52V5.76A 300W\npower\tProduct power: maximum 20W / POE power: maximum 280W\nPackage List\tSwitch 1 pcs, Power cord 1 pcs, User manual 1 pc, Warranty card 1 pc, Brackets 1 pair(Selectable)\nOrdering Info\nZX-AFGM-2444S-300\t32 Port Gigabit Managed PoE Switch\nL3 Function\nIPv4\tIPv4 VLAN Interface\nIPv4\tIPv4 Static Routes\nIPv4\tARP\nIPv6\tIPv6 VLAN Interface\nIPv6\tIPv6 Static Routes\nIPv6\tIPv6 ND\nL2 Function\nPort\tPort Switch\nPort\tPort Description\nPort\tPort Speed\nPort\tPort Duplex\nPort\tPort Flow Control\nPort\tJumbo, Up to 10K\nPort\tEEE\nPort\tFiber Module(DDM)\nLink Aggregation\tSupports load balance policy; \nBase on MAC and IP-MAC\nLink Aggregation\tStatic and Dynamic Group\nLink Aggregation\tSupports LACP\nLink Aggregation\tUp to 8 groups\nStorm Control\tBoardcast\nStorm Control\tUnknown Multicast\nStorm Control\tUnknown Unicast\nPort Mirroring\tOne to one monitor\nPort Mirroring\tMany to one monitor\nPort Mirroring\tIngress/Egress/Both\nPort Mirroring\tUp to 4 session groups\nPort Security\tMAC Address Constraints\nPort Security\tPort Security MAC Address\nPort Security\tProtect/Restrict/Shutdown\nPort Isolation\t\nPort Rate-limit\t\nLoopback Detection\t\nVLAN\tAccess/Trunk/Hybrid\nVLAN\tVLAN Tunnel （Q-in-Q Tunnel）\nVLAN\tCongurable VID from 1 - 4094;\nMax. 256 static VLAN groups\nVLAN\tVoice VLAN\nVLAN\tMAC VLAN\nVLAN\tSurveillance VLAN\nVLAN\tProtocol VLAN\nVLAN\tGVRP\nMAC Address\tDynamic Address\nMAC Address\tStatic Address\nMAC Address\tFiltering Address\nSpnning Tree Protocol\tSTP/RSTP/MSTP\nSpnning Tree Protocol\tBPDU Filter\nSpnning Tree Protocol\tBPDU Guard\nSpnning Tree Protocol\tEdge Port\nLLDP\tLLDP\nLLDP\tLLDP MED\nMulticast\tIGMP Snnoping\nMulticast\tIGMP V1/V2/V3\nMulticast\tRouter Port\nMulticast\tStatic IGMP group address\nMulticast\tIGMP groups filtering\nMulticast\tQuerier\nMulticast\tMLD Snooping\nMulticast\tMVR\nQoS\tTraffic classification based, Strict priority and WRR\nQoS\tPort Priority\nQoS\t802.1P Priority\nQoS\tIP TOS Priority\nQoS\tIP DSCP Priority\nQoS\tSupports up to 8 queues per port\nQoS\tPriority Remarking\nPoE\nPoE Configuration\tPoE Temperature\nPoE Configuration\tPoE Type/Level/Power/Voltage/Current\nPoE Configuration\tPoE Switch\nPoE Configuration\tPoE Watchdog\nPoE Configuration\tPoE power AF/AT adaptation\nPoE Schedule\t\nPoE Port Timer Reboot\t\nServices\nDHCP\tDHCP Server\nDHCP\tIP Pool\nDHCP\tStatic Binding\nDHCP\tDHCP Relay\nAccess Protocol\tHTTP\nAccess Protocol\tHTTPS\nAccess Protocol\tTelnet\nAccess Protocol\tSSHv2\nAccess Protocol\tManager ACL\nAccess Protocol\tSession Timeout\nAccess Protocol\tPassword Retry Count\nAccess Protocol\tSilent Time\nSecurity\nAAA\tRADIUS\nAAA\tTACACS+\nAAA\t802.1X\nAAA\tBase on port/MAC/local/WEB\nDHCP Snooping\tGlobal/VLAN\nDHCP Snooping\tOption 82\nDHCP Snooping\tCircuit ID\nIP Source Guard\t\nDynamic ARP Inspection\t\nDoS\t\nACL\tMAC ACL\nACL\tIPv4 ACL\nACL\tIPv6 ACL\nDiagnostics\nSyslog\tLogging Message\nSyslog\tRemote Server\nPing\t\nTraceroute\t\nCopper Test\t\nUDLD\t\nManagemnet\nManager Access\tConsole\nManager Access\tHTTP/HTTPS\nManager Access\tTelnet\nManager Access\tSSH\nManager Access\tSNMP\nManager IP\tStatic Address\nManager IP\tDHCP Client\nManager IP\tSupports IPv4 and IPv6 address\nManager IP\tManager VLAN\nManager IP\tDNS\nTime Synchronization\tSNTP\nTime Synchronization\tManual Time\nSNMP\tV1/V2C/V3\nSNMP\tCommunity\nSNMP\tV3 User\nSNMP\tGroup\nSNMP\tTrap Host\nSNMP MIB\tRFC 1213 MIB-II\nSNMP MIB\tRFC 1493 Bridge MIB\nSNMP MIB\tRFC 1643 Ethernet MIB\nSNMP MIB\tRFC 2819 RMON MIB (Groups 1, 2, 3 and 9)\nSNMP MIB\tRFC 2863 Interface MIB\nSNMP MIB\tLLDP\nSNMP MIB\tPrivate MIB\nRMON\tStatistics\nRMON\tHistory\nRMON\tEvent\nRMON\tAlarm\nUser\t\nFirmware\tFirmware Upgarde\nConfiguration\tUpload and download\nSave\t\nRestart\t\nFactory Defaults\t\nStandards Compliance\nIEEE 802.3x flow control and back pressure\nIEEE 802.3ad port trunk with LACP\nIEEE 802.1D Spanning Tree Protocol\nIEEE 802.1w Rapid Spanning Tree Protocol\nIEEE 802.1s Multiple Spanning Tree Protocol\nIEEE 802.1p Class of Service\nIEEE 802.1Q VLAN tagging\nIEEE 802.1x Port Authentication Network Control\nIEEE 802.1ab LLDP\nIEEE 802.3af Power over Ethernet\nIEEE 802.3at Power over Ethernet Plus\nRFC 768 UDP\nRFC 793 TFTP\nRFC 791 IP\nRFC 792 ICMP\nRFC 2068 HTTP\nRFC 1112 IGMP v1\nRFC 2236 IGMP v2\nRFC 3376 IGMP v3\nRFC 2710 MLD v1\nFRC 3810 MLD v2\n【Product Picture】\n【Product Structure】",
+"blocks":[
+{
+"t":"h",
+"s":"Heading",
+"text":"32 Ports Managed POE Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Introduction】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The 28-ports Gigabit Managed POE Switch is a Green Energy-Saving POE Switch independently . It adopts High-Quality and High-Speed Network IC and the most stable POE Chip. The POE port meets the IEEE802.3af or IEEE802.3at standard. This model can provide seamless connection for 10/100/1000M Ethernet, and the POE power port can automatically detect and power the powered devices that comply with the IEEE802.3af or IEEE802.3at standards. The Non-POE devices are forcibly powered and only transmit data."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Main Features】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Can transfer data for network surveillance cameras;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"24 x 10/100/1000Mbps auto-sensing POE Ports, 4 x 10/100/1000Mbps Combo Ports, 1 x Console Port;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support IEEE802.3/IEEE802.3i/IEEE802.3uIEEE802.3ab/IEEE802.3z, IEEE802.3af/at, store-and-forward;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Compatible with IEEE802.3at (30W) and IEEE802.3af (15.4w);"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ethernet port supports 10/100/1000M adaptive and POE functions;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Panel indicator monitoring the status and help failure analysis;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Fanless design, Natural Cooling, 1U Rack Mount;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support 802.1x port authentication, support AAA authentication, support TACACS+ authentication;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support WEB, TELNET, CLI, SSH, SNMP, RMON management;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support POE Power Management;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support POE Watchdog"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Surge Protection: General 6KV, Differential 2KV(level B), ESD 8KV air, 6KV contact(level C)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Application Environment】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Metro Optical Broadband Network: Data network operators such as telecommunications, cable TV, and network system integration,etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Broadband private network: Suitable for financial, government, oil, railway, electric power, public security, transportation, education and other industries"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Multimedia transmission: Integrated transmission of images, voice and data, suitable for remote teaching, conference TV, videophone and other applications"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Real-time monitoring: Simultaneous transmission of real-time control signals, images and data"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Specifications】"
+},
+{
+"t":"table",
+"rows":[
+[
+"I/O Interface"
+],
+[
+"Power",
+"Input: AC 100-240V, 50/60Hz"
+],
+[
+"Ethernet",
+"24* 10/100/1000Mbps PoE Port / 4* 1000M RJ45 Port(Combo) / 4*1000M SFP Port (Combo) / 1 * RJ45 Console Port"
+],
+[
+"Performance"
+],
+[
+"Switching Capacity",
+"56Gbps"
+],
+[
+"Throughput",
+"41.66Mpps"
+],
+[
+"Packet Buffer",
+"4Mbit"
+],
+[
+"Flash Memory",
+"16MByte"
+],
+[
+"DDR SDRAM",
+"128MByte"
+],
+[
+"VLAN",
+"VLAN range 1-4094, with a maximum active VLAN of 256"
+],
+[
+"MAC Address",
+"8K"
+],
+[
+"Jumbo Frame",
+"10Kbytes"
+],
+[
+"Transfer Mode",
+"Store and forward"
+],
+[
+"Standard"
+],
+[
+"Network protocol",
+"IEEE 802.3：Ethernet MAC Protocol / IEEE 802.3i：10BASE-T Ethernet / IEEE 802.3u：100BASE-TX Fast Ethernet / IEEE 802.3ab：1000BASE-T Gigabit Ethernet / IEEE 802.3z：1000BASE-X Gigabit Ethernet (optical fiber) / IEEE 802.3az：Energy Efficient Ethernet / IEEE 802.3ad：Standard method for performing link aggregation / IEEE 802.3x：Flow control / IEEE 802.1ab： LLDP/LLDP-MED (Link Layer Discovery Protocol) / IEEE 802.1p：LAN Layer QoS/CoS Protocol Traffic Prioritization(Multicast filtering function) / IEEE 802.1q：VLAN Bridge Operation / IEEE 802.1x：Client/Server Access Control and Authentication Protocol / IEEE 802.1d：STP / IEEE 802.1s：MSTP / IEEE 802.1w：RSTP"
+],
+[
+"PoE Protocol",
+"IEEE802.3af （15.4W） / IEEE802.3at （30W）"
+],
+[
+"Industry Standard",
+"EMS: EN61000-4-2 (ESD)、 / EN61000-4-5 (Surge)"
+],
+[
+"Network Medium",
+"10Base-T : Cat3、4、5 or above UTP(≤100m) / 100Base-TX : Cat5  or above UTP(≤100m) / 1000Base-TX : Cat5  or above UTP(≤100m) / Multi-mode Fiber: 50/125、62.5/125、100/140um / Single-mode Fiber: 8/125、8.7/125、9/125、10/125um"
+],
+[
+"Protection"
+],
+[
+"Security Certificate",
+"CE、FCC、RoHS"
+],
+[
+"Environment"
+],
+[
+"Working Environment",
+"Working Temperature：-10~50°C / Storage Temperature：-40~70°C / Working Humidity ：10%~90%，non-condensing / Storage Temperature：5%~95%，non-condensing"
+],
+[
+"Indication"
+],
+[
+"LED Indicators",
+"PWR（power supply）,SYS（System）,1-24 PoE&ACT (PoE),1-24 Link&ACT（Link&Act），25-28 Link(Link),25-28 Act (Act)"
+],
+[
+"Reset",
+"Long press for 6 seconds to restore factory settings"
+],
+[
+"Mechanical"
+],
+[
+"Structure Size",
+"Product Dimension : 440* 280*44mm / Package Dimension : 500*365*85mm / N.W：3.47kg / G.W：4.18kg"
+],
+[
+"Packing Info",
+"Carton MEAS：520*445*385mm / Packing Qty：5 units / Packing Weight：22.1KG"
+],
+[
+"Power Voltage",
+"Input Voltage ：AC 100-240 V / Power supply：52V5.76A 300W"
+],
+[
+"power",
+"Product power: maximum 20W / POE power: maximum 280W"
+],
+[
+"Package List",
+"Switch 1 pcs, Power cord 1 pcs, User manual 1 pc, Warranty card 1 pc, Brackets 1 pair(Selectable)"
+],
+[
+"Ordering Info"
+],
+[
+"ZX-AFGM-2444S-300",
+"32 Port Gigabit Managed PoE Switch"
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+"L3 Function"
+],
+[
+"IPv4",
+"IPv4 VLAN Interface"
+],
+[
+"IPv4",
+"IPv4 Static Routes"
+],
+[
+"IPv4",
+"ARP"
+],
+[
+"IPv6",
+"IPv6 VLAN Interface"
+],
+[
+"IPv6",
+"IPv6 Static Routes"
+],
+[
+"IPv6",
+"IPv6 ND"
+],
+[
+"L2 Function"
+],
+[
+"Port",
+"Port Switch"
+],
+[
+"Port",
+"Port Description"
+],
+[
+"Port",
+"Port Speed"
+],
+[
+"Port",
+"Port Duplex"
+],
+[
+"Port",
+"Port Flow Control"
+],
+[
+"Port",
+"Jumbo, Up to 10K"
+],
+[
+"Port",
+"EEE"
+],
+[
+"Port",
+"Fiber Module(DDM)"
+],
+[
+"Link Aggregation",
+"Supports load balance policy; \nBase on MAC and IP-MAC"
+],
+[
+"Link Aggregation",
+"Static and Dynamic Group"
+],
+[
+"Link Aggregation",
+"Supports LACP"
+],
+[
+"Link Aggregation",
+"Up to 8 groups"
+],
+[
+"Storm Control",
+"Boardcast"
+],
+[
+"Storm Control",
+"Unknown Multicast"
+],
+[
+"Storm Control",
+"Unknown Unicast"
+],
+[
+"Port Mirroring",
+"One to one monitor"
+],
+[
+"Port Mirroring",
+"Many to one monitor"
+],
+[
+"Port Mirroring",
+"Ingress/Egress/Both"
+],
+[
+"Port Mirroring",
+"Up to 4 session groups"
+],
+[
+"Port Security",
+"MAC Address Constraints"
+],
+[
+"Port Security",
+"Port Security MAC Address"
+],
+[
+"Port Security",
+"Protect/Restrict/Shutdown"
+],
+[
+"Port Isolation",
+""
+],
+[
+"Port Rate-limit",
+""
+],
+[
+"Loopback Detection",
+""
+],
+[
+"VLAN",
+"Access/Trunk/Hybrid"
+],
+[
+"VLAN",
+"VLAN Tunnel （Q-in-Q Tunnel）"
+],
+[
+"VLAN",
+"Congurable VID from 1 - 4094;\nMax. 256 static VLAN groups"
+],
+[
+"VLAN",
+"Voice VLAN"
+],
+[
+"VLAN",
+"MAC VLAN"
+],
+[
+"VLAN",
+"Surveillance VLAN"
+],
+[
+"VLAN",
+"Protocol VLAN"
+],
+[
+"VLAN",
+"GVRP"
+],
+[
+"MAC Address",
+"Dynamic Address"
+],
+[
+"MAC Address",
+"Static Address"
+],
+[
+"MAC Address",
+"Filtering Address"
+],
+[
+"Spnning Tree Protocol",
+"STP/RSTP/MSTP"
+],
+[
+"Spnning Tree Protocol",
+"BPDU Filter"
+],
+[
+"Spnning Tree Protocol",
+"BPDU Guard"
+],
+[
+"Spnning Tree Protocol",
+"Edge Port"
+],
+[
+"LLDP",
+"LLDP"
+],
+[
+"LLDP",
+"LLDP MED"
+],
+[
+"Multicast",
+"IGMP Snnoping"
+],
+[
+"Multicast",
+"IGMP V1/V2/V3"
+],
+[
+"Multicast",
+"Router Port"
+],
+[
+"Multicast",
+"Static IGMP group address"
+],
+[
+"Multicast",
+"IGMP groups filtering"
+],
+[
+"Multicast",
+"Querier"
+],
+[
+"Multicast",
+"MLD Snooping"
+],
+[
+"Multicast",
+"MVR"
+],
+[
+"QoS",
+"Traffic classification based, Strict priority and WRR"
+],
+[
+"QoS",
+"Port Priority"
+],
+[
+"QoS",
+"802.1P Priority"
+],
+[
+"QoS",
+"IP TOS Priority"
+],
+[
+"QoS",
+"IP DSCP Priority"
+],
+[
+"QoS",
+"Supports up to 8 queues per port"
+],
+[
+"QoS",
+"Priority Remarking"
+],
+[
+"PoE"
+],
+[
+"PoE Configuration",
+"PoE Temperature"
+],
+[
+"PoE Configuration",
+"PoE Type/Level/Power/Voltage/Current"
+],
+[
+"PoE Configuration",
+"PoE Switch"
+],
+[
+"PoE Configuration",
+"PoE Watchdog"
+],
+[
+"PoE Configuration",
+"PoE power AF/AT adaptation"
+],
+[
+"PoE Schedule",
+""
+],
+[
+"PoE Port Timer Reboot",
+""
+],
+[
+"Services"
+],
+[
+"DHCP",
+"DHCP Server"
+],
+[
+"DHCP",
+"IP Pool"
+],
+[
+"DHCP",
+"Static Binding"
+],
+[
+"DHCP",
+"DHCP Relay"
+],
+[
+"Access Protocol",
+"HTTP"
+],
+[
+"Access Protocol",
+"HTTPS"
+],
+[
+"Access Protocol",
+"Telnet"
+],
+[
+"Access Protocol",
+"SSHv2"
+],
+[
+"Access Protocol",
+"Manager ACL"
+],
+[
+"Access Protocol",
+"Session Timeout"
+],
+[
+"Access Protocol",
+"Password Retry Count"
+],
+[
+"Access Protocol",
+"Silent Time"
+],
+[
+"Security"
+],
+[
+"AAA",
+"RADIUS"
+],
+[
+"AAA",
+"TACACS+"
+],
+[
+"AAA",
+"802.1X"
+],
+[
+"AAA",
+"Base on port/MAC/local/WEB"
+],
+[
+"DHCP Snooping",
+"Global/VLAN"
+],
+[
+"DHCP Snooping",
+"Option 82"
+],
+[
+"DHCP Snooping",
+"Circuit ID"
+],
+[
+"IP Source Guard",
+""
+],
+[
+"Dynamic ARP Inspection",
+""
+],
+[
+"DoS",
+""
+],
+[
+"ACL",
+"MAC ACL"
+],
+[
+"ACL",
+"IPv4 ACL"
+],
+[
+"ACL",
+"IPv6 ACL"
+],
+[
+"Diagnostics"
+],
+[
+"Syslog",
+"Logging Message"
+],
+[
+"Syslog",
+"Remote Server"
+],
+[
+"Ping",
+""
+],
+[
+"Traceroute",
+""
+],
+[
+"Copper Test",
+""
+],
+[
+"UDLD",
+""
+],
+[
+"Managemnet"
+],
+[
+"Manager Access",
+"Console"
+],
+[
+"Manager Access",
+"HTTP/HTTPS"
+],
+[
+"Manager Access",
+"Telnet"
+],
+[
+"Manager Access",
+"SSH"
+],
+[
+"Manager Access",
+"SNMP"
+],
+[
+"Manager IP",
+"Static Address"
+],
+[
+"Manager IP",
+"DHCP Client"
+],
+[
+"Manager IP",
+"Supports IPv4 and IPv6 address"
+],
+[
+"Manager IP",
+"Manager VLAN"
+],
+[
+"Manager IP",
+"DNS"
+],
+[
+"Time Synchronization",
+"SNTP"
+],
+[
+"Time Synchronization",
+"Manual Time"
+],
+[
+"SNMP",
+"V1/V2C/V3"
+],
+[
+"SNMP",
+"Community"
+],
+[
+"SNMP",
+"V3 User"
+],
+[
+"SNMP",
+"Group"
+],
+[
+"SNMP",
+"Trap Host"
+],
+[
+"SNMP MIB",
+"RFC 1213 MIB-II"
+],
+[
+"SNMP MIB",
+"RFC 1493 Bridge MIB"
+],
+[
+"SNMP MIB",
+"RFC 1643 Ethernet MIB"
+],
+[
+"SNMP MIB",
+"RFC 2819 RMON MIB (Groups 1, 2, 3 and 9)"
+],
+[
+"SNMP MIB",
+"RFC 2863 Interface MIB"
+],
+[
+"SNMP MIB",
+"LLDP"
+],
+[
+"SNMP MIB",
+"Private MIB"
+],
+[
+"RMON",
+"Statistics"
+],
+[
+"RMON",
+"History"
+],
+[
+"RMON",
+"Event"
+],
+[
+"RMON",
+"Alarm"
+],
+[
+"User",
+""
+],
+[
+"Firmware",
+"Firmware Upgarde"
+],
+[
+"Configuration",
+"Upload and download"
+],
+[
+"Save",
+""
+],
+[
+"Restart",
+""
+],
+[
+"Factory Defaults",
+""
+],
+[
+"Standards Compliance"
+],
+[
+"IEEE 802.3x flow control and back pressure"
+],
+[
+"IEEE 802.3ad port trunk with LACP"
+],
+[
+"IEEE 802.1D Spanning Tree Protocol"
+],
+[
+"IEEE 802.1w Rapid Spanning Tree Protocol"
+],
+[
+"IEEE 802.1s Multiple Spanning Tree Protocol"
+],
+[
+"IEEE 802.1p Class of Service"
+],
+[
+"IEEE 802.1Q VLAN tagging"
+],
+[
+"IEEE 802.1x Port Authentication Network Control"
+],
+[
+"IEEE 802.1ab LLDP"
+],
+[
+"IEEE 802.3af Power over Ethernet"
+],
+[
+"IEEE 802.3at Power over Ethernet Plus"
+],
+[
+"RFC 768 UDP"
+],
+[
+"RFC 793 TFTP"
+],
+[
+"RFC 791 IP"
+],
+[
+"RFC 792 ICMP"
+],
+[
+"RFC 2068 HTTP"
+],
+[
+"RFC 1112 IGMP v1"
+],
+[
+"RFC 2236 IGMP v2"
+],
+[
+"RFC 3376 IGMP v3"
+],
+[
+"RFC 2710 MLD v1"
+],
+[
+"FRC 3810 MLD v2"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Picture】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Structure】"
+}
+],
+"extracted_at":"2026-10-22T06:12:45Z"
+}

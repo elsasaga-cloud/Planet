@@ -1,0 +1,236 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTG1216AS__ZX-SWTG1216AS_英文_.doc__a22becca",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/交换机/ZX-SWTG1216AS/ZX-SWTG1216AS（英文）.doc",
+"name":"ZX-SWTG1216AS（英文）.doc",
+"ext":".doc",
+"bytes":650291,
+"sha256":"a22becca1689e5904a5d4724210a6e418d0f40599e82c8e03bcd124de217b301",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-22T06:09:52+00:00",
+"paragraphs":19,
+"tables":1,
+"embedded_images":3
+},
+"warnings":[],
+"chars":4036,
+"text":"18 Port 10G Uplink 2.5G Ethernet Switch\n【Product Introduction】\n18 Port 10G Uplink 2.5G Ethernet Switch, adopting a high-quality and high-speed network chip solution. This switch has 16* 100/1000/2500M RJ45 ports and 2*10G SFP+ ports, providing seamless connection for 10/100/1000/2500M Ethernet, making it easy to manage and maintain. This product can be widely used in security network video monitoring, hotels, campuses, small and medium-sized enterprise network engineering, and other occasions.\n【Main Feature】\n16*100/1000/2500M RJ45 ports+2*10G SFP+ ports\nSupport IEEE 802.3, IEEE802.3u, IEEE 802.3ab, IEEE 802.3bz, IEEE 802.3ae, IEEE 802.3x\nEthernet ports support 10/100/1000/2500M adaptive\nSupport automatic port rollover(Auto MDI/MDIX)\nPanel indicators monitor working status and assist in fault analysis\nFlow control mode, full duplex adopts IEEE802.3x standard, half duplex adopts Backpressure standard\nSurge Protection: General 6KV, Differential 2KV(level C), ESD 8KV air, 6KV contact(level C)\n【Application environment】\nMetropolitan area optical fiber broadband network: telecommunication, cable TV, network system integration, such as number, according to network operators\nBroadband private network: applicable to financial, government, oil, electric power, public security, education and other industries private network\nMultimedia transmission, image, voice and data integrated transmission, for remote teaching, meeting TV, video phone and other applications\nReal-time monitoring: real-time control signal, image and data transmission\n【Technical Specification】\nI/O interface\nPower\tAC 100-240V 50/60Hz\nEthernet\t16*2.5G RJ45 port / 2* 10G SFP+ port\nPerformance\nBandwidth\t120Gbps\nPacket Forwarding Rate\t89.28Mpps\nMAC Address Table\t16K\nTransfer Method\tStore and forward\nNetwork Standard\nNetwork Protocol\tIEEE802.3 (Ethernet) / IEEE802.3u (Fast Ethernet) / IEEE802.3ab(Gigabit Ethernet) / IEEE 802.3bz(5G Ethernet) / IEEE 802.3z(Gigabit Ethernet) / IEEE 802.3ae(10G Ethernet) / IEEE802.3x (Flow control)\nIndustry Standard\tEMS: EN61000-4-2 (ESD) / EN61000-4-5(Surge)\nNetwork Medium\t10Base-T: Cat3, 4, 5 or above UTP/STP(≤100m) / 100Base-TX: Cat5 or above UTP/STP(≤100m) / 1000Base-TX: Cat5 or above UTP/STP(≤100m) / 2.5GBase-T: Cat5 or above UTP/STP(≤100m)\nOptical Fiber Medium\t1000BASE-SX: 62.5μm MMF(Multi mode optical fiber)(Minimum range:2m～275m) or 50μm MMF / 1000BASE-LX: 62.5μm/50μm MMF(Minimum range:2m～550m) or 0μm SMF(Minimum range:2m～5km) / 2500BASE-X: G.652D SMF(Single-mode optical fiber)(Minimum range:2m～500m or 2m～5Km) / 10GBASE-SR: OM1/OM2/OM3 or above MMF(Operating range:2m～300m) / 10GBASE-LR: IEC and B1.1 and B1.3 SMF(Minimum range:2m～10km)\nEnvironmental Standard\nWorking Environment\tOperating temperature: 0~40°C / Storage temperature: -40~70°C / Operating humidity: 10%~90%, no condensation / Storage humidity: 5%~95%, no condensation\nFunctional Indication\nPWR\tOn: Powered on / Off: Powered off\n1-16 Network Port\tGreen on: 2.5G Link connect normal / Yellow on: 10/100/1000M Link connect normal / Off: Link off / Flashing: data transmitting\n17-18\tBlue On: 10G Link connect normal / Green On: 2.5G Link connect normal / Off: Link off / Flashing: Data transmitting\nSM\tThe default speed of the optical port is 10G/2.5G, and after pressing and holding for 10 seconds to switch, it becomes 10G/1G\nDialing\tOn: Vlan mode is enabled (ports 1-14 are isolated and communicate with ports 15-18 of the uplink) / Off: Vlan mode is off (all ports communicate with each other)\nPhysical Specification\nStructural Dimension\tProduct size: 440*205*44mm / Package size: 500*290*85mm / Product weight: 2.21KG / Packing weight: 2.72KG\nPacking information\tOuter box size: 520*445*310mm / Packing quantity: 5 PCS / Packing weight: 14.6KG\nSupply Voltage\tPower input: AC 100-240V 50/60Hz / Power output: DC 12V 4A\nPower\tMaximum 36W\nPacking list\t1 switch, 1 adapter, 1 manual, 1 certificate，1 pair of hanging ears\nOrder info\nZX-SWTG1216AS\t18 Port 10G Uplink 2.5G Ethernet Switch\n【Product Rendering】\n【Product Structure】\n[页眉页脚]\n3",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"18 Port 10G Uplink 2.5G Ethernet Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Introduction】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"18 Port 10G Uplink 2.5G Ethernet Switch, adopting a high-quality and high-speed network chip solution. This switch has 16* 100/1000/2500M RJ45 ports and 2*10G SFP+ ports, providing seamless connection for 10/100/1000/2500M Ethernet, making it easy to manage and maintain. This product can be widely used in security network video monitoring, hotels, campuses, small and medium-sized enterprise network engineering, and other occasions."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Main Feature】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"16*100/1000/2500M RJ45 ports+2*10G SFP+ ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support IEEE 802.3, IEEE802.3u, IEEE 802.3ab, IEEE 802.3bz, IEEE 802.3ae, IEEE 802.3x"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ethernet ports support 10/100/1000/2500M adaptive"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support automatic port rollover(Auto MDI/MDIX)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Panel indicators monitor working status and assist in fault analysis"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Flow control mode, full duplex adopts IEEE802.3x standard, half duplex adopts Backpressure standard"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Surge Protection: General 6KV, Differential 2KV(level C), ESD 8KV air, 6KV contact(level C)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Application environment】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Metropolitan area optical fiber broadband network: telecommunication, cable TV, network system integration, such as number, according to network operators"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Broadband private network: applicable to financial, government, oil, electric power, public security, education and other industries private network"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Multimedia transmission, image, voice and data integrated transmission, for remote teaching, meeting TV, video phone and other applications"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Real-time monitoring: real-time control signal, image and data transmission"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Technical Specification】"
+},
+{
+"t":"table",
+"rows":[
+[
+"I/O interface"
+],
+[
+"Power",
+"AC 100-240V 50/60Hz"
+],
+[
+"Ethernet",
+"16*2.5G RJ45 port / 2* 10G SFP+ port"
+],
+[
+"Performance"
+],
+[
+"Bandwidth",
+"120Gbps"
+],
+[
+"Packet Forwarding Rate",
+"89.28Mpps"
+],
+[
+"MAC Address Table",
+"16K"
+],
+[
+"Transfer Method",
+"Store and forward"
+],
+[
+"Network Standard"
+],
+[
+"Network Protocol",
+"IEEE802.3 (Ethernet) / IEEE802.3u (Fast Ethernet) / IEEE802.3ab(Gigabit Ethernet) / IEEE 802.3bz(5G Ethernet) / IEEE 802.3z(Gigabit Ethernet) / IEEE 802.3ae(10G Ethernet) / IEEE802.3x (Flow control)"
+],
+[
+"Industry Standard",
+"EMS: EN61000-4-2 (ESD) / EN61000-4-5(Surge)"
+],
+[
+"Network Medium",
+"10Base-T: Cat3, 4, 5 or above UTP/STP(≤100m) / 100Base-TX: Cat5 or above UTP/STP(≤100m) / 1000Base-TX: Cat5 or above UTP/STP(≤100m) / 2.5GBase-T: Cat5 or above UTP/STP(≤100m)"
+],
+[
+"Optical Fiber Medium",
+"1000BASE-SX: 62.5μm MMF(Multi mode optical fiber)(Minimum range:2m～275m) or 50μm MMF / 1000BASE-LX: 62.5μm/50μm MMF(Minimum range:2m～550m) or 0μm SMF(Minimum range:2m～5km) / 2500BASE-X: G.652D SMF(Single-mode optical fiber)(Minimum range:2m～500m or 2m～5Km) / 10GBASE-SR: OM1/OM2/OM3 or above MMF(Operating range:2m～300m) / 10GBASE-LR: IEC and B1.1 and B1.3 SMF(Minimum range:2m～10km)"
+],
+[
+"Environmental Standard"
+],
+[
+"Working Environment",
+"Operating temperature: 0~40°C / Storage temperature: -40~70°C / Operating humidity: 10%~90%, no condensation / Storage humidity: 5%~95%, no condensation"
+],
+[
+"Functional Indication"
+],
+[
+"PWR",
+"On: Powered on / Off: Powered off"
+],
+[
+"1-16 Network Port",
+"Green on: 2.5G Link connect normal / Yellow on: 10/100/1000M Link connect normal / Off: Link off / Flashing: data transmitting"
+],
+[
+"17-18",
+"Blue On: 10G Link connect normal / Green On: 2.5G Link connect normal / Off: Link off / Flashing: Data transmitting"
+],
+[
+"SM",
+"The default speed of the optical port is 10G/2.5G, and after pressing and holding for 10 seconds to switch, it becomes 10G/1G"
+],
+[
+"Dialing",
+"On: Vlan mode is enabled (ports 1-14 are isolated and communicate with ports 15-18 of the uplink) / Off: Vlan mode is off (all ports communicate with each other)"
+],
+[
+"Physical Specification"
+],
+[
+"Structural Dimension",
+"Product size: 440*205*44mm / Package size: 500*290*85mm / Product weight: 2.21KG / Packing weight: 2.72KG"
+],
+[
+"Packing information",
+"Outer box size: 520*445*310mm / Packing quantity: 5 PCS / Packing weight: 14.6KG"
+],
+[
+"Supply Voltage",
+"Power input: AC 100-240V 50/60Hz / Power output: DC 12V 4A"
+],
+[
+"Power",
+"Maximum 36W"
+],
+[
+"Packing list",
+"1 switch, 1 adapter, 1 manual, 1 certificate，1 pair of hanging ears"
+],
+[
+"Order info"
+],
+[
+"ZX-SWTG1216AS",
+"18 Port 10G Uplink 2.5G Ethernet Switch"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Rendering】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Structure】"
+}
+],
+"extracted_at":"2026-10-22T06:09:52Z"
+}

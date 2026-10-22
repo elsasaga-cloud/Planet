@@ -1,0 +1,27 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__902POE交换机__ZX902-AF-42N__ZX902-AF-42N背面.jpg__a6829c85",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/902POE交换机/ZX902-AF-42N/ZX902-AF-42N背面.jpg",
+"name":"ZX902-AF-42N背面.jpg",
+"ext":".jpg",
+"bytes":616420,
+"sha256":"a6829c8505175d07654d0fc08161915ef01765b1cb487c68e41f4244f13df267",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":3456,
+"height":2304,
+"mode":"RGB",
+"datetime":"2021:01:19 14:06:46",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CS6 (Windows)",
+"thumb_bytes":2319
+},
+"warnings":[],
+"chars":17,
+"text":"AC INPUT\n100-240V",
+"extracted_at":"2026-10-22T06:11:31Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__902POE交换机__ZX902-AF-42N__ZX902-AF-42N背面.jpg__a6829c85.jpg"
+}

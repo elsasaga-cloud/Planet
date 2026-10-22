@@ -1,0 +1,242 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SW0080__ZX-SW0080_英文_.doc__69832ca6",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/交换机/ZX-SW0080/ZX-SW0080 （英文）.doc",
+"name":"ZX-SW0080 （英文）.doc",
+"ext":".doc",
+"bytes":219187,
+"sha256":"69832ca6ded5431e7f565111518a8d557f86f3e79b149e8ffc487e377706ea13",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-22T06:10:57+00:00",
+"paragraphs":19,
+"tables":1,
+"embedded_images":3
+},
+"warnings":[],
+"chars":2895,
+"text":"8 Ports 100M Ethernet Switch\n【Product Description】\nThe 8-port 100M intelligent Ethernet switch adopts high-quality and high-speed network ICs, and this product completely solves the problem of noise of small switches in the office environment through the fanless mute design. This switch has 8 100M RJ45 ports, can provide seamless connection for 10/100M Ethernet, the product can be widely used in Security network video surveillance, hotel, campus, small and medium-sized enterprise network engineering and other occasions.\n【Main Features】\n8*100M RJ45 Ports\nApply to IEEE802.3、IEEE802.3u standard\nEthernet ports support 10/100M adaptive\nSupport Auto MDI/MDIX\nPanel indicators to monitor working status and help fault analysis\nFlow control, full duplex adopts IEEE802.3x standard, half duplex adopts Backpressure standard\nPort lightning protection: common mode 2KV, differential mode 1KV Class A\n【Application Environment】\nMetro Optical Broadband Network: Data network operators such as telecommunications, cable TV, and network system integration,etc.\nBroadband private network: Suitable for financial, government, oil, railway, electric power, public security, transportation, education and other industries\nMultimedia transmission: Integrated transmission of images, voice and data, suitable for remote teaching, conference TV, videophone and other applications\nReal-time monitoring: Simultaneous transmission of real-time control signals, images and data\n【Specifications】\nI/O Interface\nPower\tDC 5V\nEthernet\t8*100M RJ45 Ports\nChip Solution\nMain Chip\tRTL8309N\nPerformance\nSwitching Capacity\t1.6Gbps\nThroughput\t1.190Mpps\nPackage cache\t2Mbit\nMAC Address\t1K\nTransfer Mode\tStore and forward\nNetwork Parameters\nNetwork Protocol\tIEEE802.3 (10Base-T) / IEEE802.3u (100Base-TX) / IEEE802.3x (Flow control)\nIndustry Standard\tEMS: EN61000-4-2 (ESD) / EN61000-4-5(Surge)\nNetwork Medium\t10Base-T : Cat3,4,5 or above UTP(≤100m) / 100Base-TX : Cat5  or above UTP(≤100m)\nCertification\nSafety certificate\tCE、FCC、RoHS\nEnvironmental Standards\nWorking Environment\tWorking Temperature：-10~50°C / Storage Temperature：-40~70°C / Working Humidity ：10%~90%，non-condensing / Storage Temperature：5%~95%，non-condensin\nIndication\nLED Indicators\tPWR（Power indicator）、Link（Network Link）\nPWR\tOn: power on / Off: no power\nLink\tOn: 10/100M link connection is normal / Blinking: Data transmission is normal / Off: link failure\nMechanical\nStructure Size\tProduct Size：138*78*25mm / Packing Size：175*120*63mm / Product Weight：0.24Kg / Packing Weight：0.37Kg\nPacking Info\tOuter box size: 520*335*380mm / Packing quantity: 40 PCS / Packing weight: 15.8KG\nOperating Voltage\tPower interface: DC2.1 / Switch input voltage: DC 5V2A\nTotal power\tMaximum 5W\nPacking list\tSwitch：1 PCS / User manual ：1PCS / Warranty ：1 PCS / Power Adapter：1 PCS\n订购信息\nZX-SW0080\t8 ports Ethernet 100M Switch\n【Product Picture】\n【Product Structure】\n[页眉页脚]\n3",
+"blocks":[
+{
+"t":"h",
+"s":"Heading",
+"text":"8 Ports 100M Ethernet Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Description】"
+},
+{
+"t":"h",
+"s":"Heading 6",
+"text":"The 8-port 100M intelligent Ethernet switch adopts high-quality and high-speed network ICs, and this product completely solves the problem of noise of small switches in the office environment through the fanless mute design. This switch has 8 100M RJ45 ports, can provide seamless connection for 10/100M Ethernet, the product can be widely used in Security network video surveillance, hotel, campus, small and medium-sized enterprise network engineering and other occasions."
+},
+{
+"t":"h",
+"s":"Heading 6",
+"text":"【Main Features】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8*100M RJ45 Ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Apply to IEEE802.3、IEEE802.3u standard"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ethernet ports support 10/100M adaptive"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support Auto MDI/MDIX"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Panel indicators to monitor working status and help fault analysis"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Flow control, full duplex adopts IEEE802.3x standard, half duplex adopts Backpressure standard"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Port lightning protection: common mode 2KV, differential mode 1KV Class A"
+},
+{
+"t":"h",
+"s":"Heading 7",
+"text":"【Application Environment】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Metro Optical Broadband Network: Data network operators such as telecommunications, cable TV, and network system integration,etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Broadband private network: Suitable for financial, government, oil, railway, electric power, public security, transportation, education and other industries"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Multimedia transmission: Integrated transmission of images, voice and data, suitable for remote teaching, conference TV, videophone and other applications"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Real-time monitoring: Simultaneous transmission of real-time control signals, images and data"
+},
+{
+"t":"h",
+"s":"Heading 7",
+"text":"【Specifications】"
+},
+{
+"t":"table",
+"rows":[
+[
+"I/O Interface"
+],
+[
+"Power",
+"DC 5V"
+],
+[
+"Ethernet",
+"8*100M RJ45 Ports"
+],
+[
+"Chip Solution"
+],
+[
+"Main Chip",
+"RTL8309N"
+],
+[
+"Performance"
+],
+[
+"Switching Capacity",
+"1.6Gbps"
+],
+[
+"Throughput",
+"1.190Mpps"
+],
+[
+"Package cache",
+"2Mbit"
+],
+[
+"MAC Address",
+"1K"
+],
+[
+"Transfer Mode",
+"Store and forward"
+],
+[
+"Network Parameters"
+],
+[
+"Network Protocol",
+"IEEE802.3 (10Base-T) / IEEE802.3u (100Base-TX) / IEEE802.3x (Flow control)"
+],
+[
+"Industry Standard",
+"EMS: EN61000-4-2 (ESD) / EN61000-4-5(Surge)"
+],
+[
+"Network Medium",
+"10Base-T : Cat3,4,5 or above UTP(≤100m) / 100Base-TX : Cat5  or above UTP(≤100m)"
+],
+[
+"Certification"
+],
+[
+"Safety certificate",
+"CE、FCC、RoHS"
+],
+[
+"Environmental Standards"
+],
+[
+"Working Environment",
+"Working Temperature：-10~50°C / Storage Temperature：-40~70°C / Working Humidity ：10%~90%，non-condensing / Storage Temperature：5%~95%，non-condensin"
+],
+[
+"Indication"
+],
+[
+"LED Indicators",
+"PWR（Power indicator）、Link（Network Link）"
+],
+[
+"PWR",
+"On: power on / Off: no power"
+],
+[
+"Link",
+"On: 10/100M link connection is normal / Blinking: Data transmission is normal / Off: link failure"
+],
+[
+"Mechanical"
+],
+[
+"Structure Size",
+"Product Size：138*78*25mm / Packing Size：175*120*63mm / Product Weight：0.24Kg / Packing Weight：0.37Kg"
+],
+[
+"Packing Info",
+"Outer box size: 520*335*380mm / Packing quantity: 40 PCS / Packing weight: 15.8KG"
+],
+[
+"Operating Voltage",
+"Power interface: DC2.1 / Switch input voltage: DC 5V2A"
+],
+[
+"Total power",
+"Maximum 5W"
+],
+[
+"Packing list",
+"Switch：1 PCS / User manual ：1PCS / Warranty ：1 PCS / Power Adapter：1 PCS"
+],
+[
+"订购信息"
+],
+[
+"ZX-SW0080",
+"8 ports Ethernet 100M Switch"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Picture】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Structure】"
+}
+],
+"extracted_at":"2026-10-22T06:10:57Z"
+}

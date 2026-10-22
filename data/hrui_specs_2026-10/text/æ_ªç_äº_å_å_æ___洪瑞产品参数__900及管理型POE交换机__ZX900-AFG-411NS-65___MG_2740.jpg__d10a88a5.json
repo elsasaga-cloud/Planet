@@ -1,0 +1,27 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AFG-411NS-65___MG_2740.jpg__d10a88a5",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/900及管理型POE交换机/ZX900-AFG-411NS-65/_MG_2740.jpg",
+"name":"_MG_2740.jpg",
+"ext":".jpg",
+"bytes":741821,
+"sha256":"d10a88a5abd4a02793de71b2f207691c98f2edd0b33fe3125a228b87c1827c91",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":3456,
+"height":2304,
+"mode":"RGB",
+"datetime":"2023:08:24 16:29:40",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":3852
+},
+"warnings":[],
+"chars":88,
+"text":"一 一 10/100/1000M PoE Port —\nExtend(3-4)\nDefault\nVLAN(\nGigabit PoE Switch\nPWR @ @ Mode 1@",
+"extracted_at":"2026-10-22T06:12:27Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AFG-411NS-65___MG_2740.jpg__d10a88a5.jpg"
+}

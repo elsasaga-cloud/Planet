@@ -1,0 +1,256 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AFG-SWTG018ANS__ZX900-AFG-SWTG018ANS_英文_.doc__fa40c902",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/900及管理型POE交换机/ZX900-AFG-SWTG018ANS/ZX900-AFG-SWTG018ANS（英文）.doc",
+"name":"ZX900-AFG-SWTG018ANS（英文）.doc",
+"ext":".doc",
+"bytes":435763,
+"sha256":"fa40c902c0f2e9d4f6ac2f884856f87fec6427dd8b21effd90cb5a1f2e55b5cb",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-22T06:12:12+00:00",
+"paragraphs":20,
+"tables":1,
+"embedded_images":3
+},
+"warnings":[],
+"chars":4152,
+"text":"9 Port 10 Gigabit Uplink 2.5G Ethernet POE Switch\n【Product overview】\n9 Port 10 Gigabit uplink 2.5G POE switch,Adopting a high-quality and high-speed network chip solution, this product thoroughly solves the problem of high noise when deploying small switches in office environments through a fanless and silent design. This switch has 8* 100/1000/2500M POE ports and 1*10G SFP port, providing seamless connection for 100/1000/2500M Ethernet, making it easy to manage and maintain. This product can be widely used in security network video monitoring, hotels, campuses, small and medium-sized enterprise network engineering, and other occasions.\n【Main Features】\n8*100/1000/2500M POE Port+1*10G SFP Port；\nSupport 802.3, IEEE802.3u, IEEE 802.3ab,  IEEE 802.3bz,  IEEE 802.3ae,  IEEE 802.3x standard；\nEthernet Ports support 100/1000/2500M self- adaptive；\nSupport PoE QoS Priority，priority ranges from 1 to 8. Enabled by default；\nSupports automatic port flipping（Auto MDI/MDIX）；\nPanel indicator monitoring status and help failure analysis；\nFlow control mode: IEEE 802.3X standard for full duplex, and Back Pressure standard for half duplex；\nSurge Protection: General 4KV, Differential 2KV(level B), ESD 12KV air, 6KV contact(level C)\n【Application Environment】\nSubway optical broadband network: telecommunication, cable TV, network system integration, etc.\nspecial broadband network: applicable to financial, government, oil, railways, electricity, public security, transportation, education and other industries.\nMultimedia transmission: integrated transmission of image, voice and data, suitable for remote teaching, conference TV, video telephone and other applications.\nReal-time monitoring: real-time control signal, image, data synchronous transmission.\n【Technical Specification】\nI/O Interface\nPower\tAC 100-240V\nEthernet\t8*100/1000/2500M POE port / 1*10G SFP port\nPerformance\nBandwidth\t60Gbps\nPacket Forward Rate\t44.64Mpps\nMAC Address\t4K\nForwarding Mode\tStorage & forward\nStandard\nNetwork Protocol\tIEEE802.3 (Ethernet) / IEEE802.3u (Fast Ethernet) / IEEE802.3ab (Gigabit Ethernet) / IEEE 802.3bz (5G Ethernet） / IEEE 802.3z (Gigabit Ethernet） / IEEE 802.3ae (10G Gigabit Ethernet） / IEEE802.3x (Flow Control)\nPoE protocol\tIEEE802.3af （15.4W） / IEEE802.3at （30W） / POE port output voltage: DC 44-57V / POE power supply core: 1/2+; 3/6-\nIndustry Standard\tEMS: EN61000-4-2 (ESD), / IEN61000-4-5 (Surge）\nNetwork medium\t10Base-T: Cat 3, 4, 5 Class or above UTP/STP (≤ 100m) / 100Base-TX: Cat 5 Class or above UTP/STP (≤ 100m) / 1000Base-TX: Cat 5 Class or above UTP/STP (≤ 100m)\nOptical Medium\tMultimode optical fiber：50/125, 62.5/125, 100/140um / Single-mode optical fiber：8/125, 8.7/125, 9/125, 10/125um\nCertification\nSafety Certificate\tCE, FCC, RoHS\nEnvironment Standard\nWorking Environment\tWorking temperature: -10~50°C / Storage temperature: -40~70°C / Working humidity: 10%~90%, non-condensing / Storage humidity: 5%~95%, non-condensing\nPower Voltage\tInput voltage : AC 100-240 V 50/60HZ / Supply power：DC 52V 1.92A\nPower\tProduct power：maximum 10W / POE power：maximum 90W\nFunction Indicator\nPWR(Power)\tOn: Powered on / Off: Powered off\n1-8 Port Green Light\tOn: 2.5G Link normal / Off: Link blocked / Flashing: Data transmitting\n1-8 Port Yellow Light\tOn: 10/100/1000M Link normal / Off: Link blocked / Flashing: Data transmitting\n9 Port Green Light Blue Light\tBlue on：10G link / Green on：1000/2500M link / Off：Link blocked / Flashing: Data transmitting\n1-8 PoE  Light\tOn：PoE power supply / Off：PoE not powered\nPOE Max Power light\tOff: indicates POE power usage is less than 90% / Flashing: indicates POE power usage of 90% ≤ P ≤ 95% / On: indicates that POE power is used at 95%<P<100%\nPhysical Specification\nStructure Size\tProduct Dimensions: 220*161*44mm / Package Dimensions: 315*215*85mm / Product N.W: 0.91KG / Product G.W: 1.23KG\nPacking Info\tCarton Dimensions: 445*445*335mm / Packing Quantity: 10 set / Packing Weight: 13.3KG\nPackaging List\tSwitch 1 pc; Power cord 1 pc; User manual 1 pc; Certification 1 pc\nOrder Info\nZX900-AFG-SWTG018ANS\t9 Port 10 Gigabit Uplink 2.5G Ethernet POE Switch\n【Product Rendering】\n【Product Structure】\n[页眉页脚]\n3",
+"blocks":[
+{
+"t":"h",
+"s":"Heading",
+"text":"9 Port 10 Gigabit Uplink 2.5G Ethernet POE Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product overview】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"9 Port 10 Gigabit uplink 2.5G POE switch,Adopting a high-quality and high-speed network chip solution, this product thoroughly solves the problem of high noise when deploying small switches in office environments through a fanless and silent design. This switch has 8* 100/1000/2500M POE ports and 1*10G SFP port, providing seamless connection for 100/1000/2500M Ethernet, making it easy to manage and maintain. This product can be widely used in security network video monitoring, hotels, campuses, small and medium-sized enterprise network engineering, and other occasions."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Main Features】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8*100/1000/2500M POE Port+1*10G SFP Port；"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support 802.3, IEEE802.3u, IEEE 802.3ab,  IEEE 802.3bz,  IEEE 802.3ae,  IEEE 802.3x standard；"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ethernet Ports support 100/1000/2500M self- adaptive；"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support PoE QoS Priority，priority ranges from 1 to 8. Enabled by default；"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Supports automatic port flipping（Auto MDI/MDIX）；"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Panel indicator monitoring status and help failure analysis；"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Flow control mode: IEEE 802.3X standard for full duplex, and Back Pressure standard for half duplex；"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Surge Protection: General 4KV, Differential 2KV(level B), ESD 12KV air, 6KV contact(level C)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Application Environment】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Subway optical broadband network: telecommunication, cable TV, network system integration, etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"special broadband network: applicable to financial, government, oil, railways, electricity, public security, transportation, education and other industries."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Multimedia transmission: integrated transmission of image, voice and data, suitable for remote teaching, conference TV, video telephone and other applications."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Real-time monitoring: real-time control signal, image, data synchronous transmission."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Technical Specification】"
+},
+{
+"t":"table",
+"rows":[
+[
+"I/O Interface"
+],
+[
+"Power",
+"AC 100-240V"
+],
+[
+"Ethernet",
+"8*100/1000/2500M POE port / 1*10G SFP port"
+],
+[
+"Performance"
+],
+[
+"Bandwidth",
+"60Gbps"
+],
+[
+"Packet Forward Rate",
+"44.64Mpps"
+],
+[
+"MAC Address",
+"4K"
+],
+[
+"Forwarding Mode",
+"Storage & forward"
+],
+[
+"Standard"
+],
+[
+"Network Protocol",
+"IEEE802.3 (Ethernet) / IEEE802.3u (Fast Ethernet) / IEEE802.3ab (Gigabit Ethernet) / IEEE 802.3bz (5G Ethernet） / IEEE 802.3z (Gigabit Ethernet） / IEEE 802.3ae (10G Gigabit Ethernet） / IEEE802.3x (Flow Control)"
+],
+[
+"PoE protocol",
+"IEEE802.3af （15.4W） / IEEE802.3at （30W） / POE port output voltage: DC 44-57V / POE power supply core: 1/2+; 3/6-"
+],
+[
+"Industry Standard",
+"EMS: EN61000-4-2 (ESD), / IEN61000-4-5 (Surge）"
+],
+[
+"Network medium",
+"10Base-T: Cat 3, 4, 5 Class or above UTP/STP (≤ 100m) / 100Base-TX: Cat 5 Class or above UTP/STP (≤ 100m) / 1000Base-TX: Cat 5 Class or above UTP/STP (≤ 100m)"
+],
+[
+"Optical Medium",
+"Multimode optical fiber：50/125, 62.5/125, 100/140um / Single-mode optical fiber：8/125, 8.7/125, 9/125, 10/125um"
+],
+[
+"Certification"
+],
+[
+"Safety Certificate",
+"CE, FCC, RoHS"
+],
+[
+"Environment Standard"
+],
+[
+"Working Environment",
+"Working temperature: -10~50°C / Storage temperature: -40~70°C / Working humidity: 10%~90%, non-condensing / Storage humidity: 5%~95%, non-condensing"
+],
+[
+"Power Voltage",
+"Input voltage : AC 100-240 V 50/60HZ / Supply power：DC 52V 1.92A"
+],
+[
+"Power",
+"Product power：maximum 10W / POE power：maximum 90W"
+],
+[
+"Function Indicator"
+],
+[
+"PWR(Power)",
+"On: Powered on / Off: Powered off"
+],
+[
+"1-8 Port Green Light",
+"On: 2.5G Link normal / Off: Link blocked / Flashing: Data transmitting"
+],
+[
+"1-8 Port Yellow Light",
+"On: 10/100/1000M Link normal / Off: Link blocked / Flashing: Data transmitting"
+],
+[
+"9 Port Green Light Blue Light",
+"Blue on：10G link / Green on：1000/2500M link / Off：Link blocked / Flashing: Data transmitting"
+],
+[
+"1-8 PoE  Light",
+"On：PoE power supply / Off：PoE not powered"
+],
+[
+"POE Max Power light",
+"Off: indicates POE power usage is less than 90% / Flashing: indicates POE power usage of 90% ≤ P ≤ 95% / On: indicates that POE power is used at 95%<P<100%"
+],
+[
+"Physical Specification"
+],
+[
+"Structure Size",
+"Product Dimensions: 220*161*44mm / Package Dimensions: 315*215*85mm / Product N.W: 0.91KG / Product G.W: 1.23KG"
+],
+[
+"Packing Info",
+"Carton Dimensions: 445*445*335mm / Packing Quantity: 10 set / Packing Weight: 13.3KG"
+],
+[
+"Packaging List",
+"Switch 1 pc; Power cord 1 pc; User manual 1 pc; Certification 1 pc"
+],
+[
+"Order Info"
+],
+[
+"ZX900-AFG-SWTG018ANS",
+"9 Port 10 Gigabit Uplink 2.5G Ethernet POE Switch"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Rendering】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Structure】"
+}
+],
+"extracted_at":"2026-10-22T06:12:12Z"
+}

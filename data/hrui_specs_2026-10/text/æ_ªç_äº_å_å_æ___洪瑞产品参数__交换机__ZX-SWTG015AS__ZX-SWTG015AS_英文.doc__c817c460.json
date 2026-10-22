@@ -1,0 +1,242 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTG015AS__ZX-SWTG015AS_英文.doc__c817c460",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/交换机/ZX-SWTG015AS/ZX-SWTG015AS 英文.doc",
+"name":"ZX-SWTG015AS 英文.doc",
+"ext":".doc",
+"bytes":501804,
+"sha256":"c817c460094b2fa70e54af2959498c65febd16a5057af3c8ccaeb8a52ad8d6b9",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-22T06:11:10+00:00",
+"paragraphs":21,
+"tables":1,
+"embedded_images":3
+},
+"warnings":[],
+"chars":3615,
+"text":"6 Port 10G Uplink 2.5G Ethernet Switch\n【Product Description】\n6 Port 10G Uplink 2.5G Ethernet Switch，using high quality and high speed network chip solution, this product completely solves the problem of loud noise of small switches deployed in the office environment through the fanless silent design. This switch has 5* 100/1000/2500M RJ45 ports and 1* 10G SFP  port, providing seamless connection to 100/1000/2500M Ethernet for easy management and maintenance. This switch can be widely used in security network video surveillance, hotels, campuses, and network engineering of small and medium-sized enterprises.\n【Main Features】\n5* 100/1000/2500M RJ45 ports+1* 10G SFP  port;\nComply with IEEE 802.3, IEEE802.3u, IEEE 802.3ab, IEEE 802.3bz,  IEEE 802.3ae, IEEE 802.3x;\nEthernet ports support 100/1000/2500M self-adaptive;\nSupport port Auto MDI/MDIX;\nPanel indicator lights monitor working status and help failure analysis;\nSupports giant frame 12K\nSupports Cat Stick (Nokia G-010S-A; Alcatel G-010S-P; Huawei MA5671A) and more\nFlow control mode, full duplex adopts IEEE802.3x standard, half duplex adopts Back pressure standard;\nSurge Protection: General 6KV, Differential 2KV, ESD 8KV air, 6KV contact\n【Application Environment】\nMetro Optical Broadband Network: Data network operators such as telecommunications, cable TV, and network system integration, etc.\nBroadband private network: Suitable for financial, government, oil, railway, electric power, public security, transportation, education and other industries.\nMultimedia transmission: Integrated transmission of images, voice and data, suitable for remote teaching, conference TV, videophone and other applications.\nReal-time monitoring: Simultaneous transmission of real-time control signals, images and data.\n【Technical Specification】\nI/O Interface\nPower\tDC 2.1\nEthernet\t5*100/1000/2500M RJ45 Ports / 1*10G SFP  Port\nPerformance\nBandwidth\t45Gbps\nPack forward rate\t33.48Mpps\nMAC address\t4K\nTransfer mode\tStorage & forward\nStandard\nNetwork protocol\tIEEE802.3 (Ethernet) / IEEE802.3u (Fast Ethernet) / IEEE802.3ab(Gigabit Ethernet) / IEEE 802.3bz (5G Ethernet) / IEEE 802.3z (Gigabit Ethernet) / IEEE 802.3ae (10G Ethernet) / IEEE802.3x (Flow control)\nIndustry standard\tEMS: EN61000-4-2 (ESD) / EN61000-4-5(Surge)\nNetwork Medium\t10Base-T: Cat3, 4, 5 or above UTP/STP(≤100m) / 100Base-TX: Cat5 or above UTP/STP(≤100m) / 1000Base-TX: Cat5 or above UTP/STP(≤100m)\nOptical Medium\tmulti mode: 50/125, 62.5/125, 100/140um / Single mode: 8/125, 8.7/125, 9/125, 10/125um\nEnvironment standard\nWorking environment\tWorking Temperature: -10~50°C / Storage Temperature: -40~70°C / Working Humidity: 10%~90%, non-condensing / Storage Temperature: 5%~95%, non-condensing\nIndicator\nPWR (Power)\tOn: Powered on / Off: Powered off\n1-5 Port green light\tOn: 2.5G Link connect normal / Off: Link off / Flashing: data transmitting\n1-5 Port yellow light\tOn: 10/100/1000M Link connect normal / Off: Link off / Flashing: data transmitting\n6 Port green light\tOn: 10G Link connect normal / Off: Link off / Flashing: data transmitting\nPhysical specification\nStructure size\tProduct Size: 140*93*28mm / Package Size: 203*160*55mm / Product Net-Weight: 0.33KG / Product Gross-Weight: 0.46KG\nPacking info\tCarton size: 580*335*445mm / Packing Qty: 40pcs / Packing weight: 19.5KG\nPower voltage\tAdapter input voltage: AC 100-240 V / switch input voltage: DC 12V1A\nPower\tMain board power：8.24W\nPackaging list\tSwitch 1pcs、 / User manual 1pcs、 / Certificate 1pcs、 / Power adapter 1pcs\nOrder Info\nZX-SWTG015AS\t6 Port 10G Uplink 2.5G Ethernet Switch\n【Product picture】\n【Product application】\n[页眉页脚]\n3",
+"blocks":[
+{
+"t":"h",
+"s":"Heading",
+"text":"6 Port 10G Uplink 2.5G Ethernet Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Description】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"6 Port 10G Uplink 2.5G Ethernet Switch，using high quality and high speed network chip solution, this product completely solves the problem of loud noise of small switches deployed in the office environment through the fanless silent design. This switch has 5* 100/1000/2500M RJ45 ports and 1* 10G SFP  port, providing seamless connection to 100/1000/2500M Ethernet for easy management and maintenance. This switch can be widely used in security network video surveillance, hotels, campuses, and network engineering of small and medium-sized enterprises."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Main Features】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"5* 100/1000/2500M RJ45 ports+1* 10G SFP  port;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Comply with IEEE 802.3, IEEE802.3u, IEEE 802.3ab, IEEE 802.3bz,  IEEE 802.3ae, IEEE 802.3x;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ethernet ports support 100/1000/2500M self-adaptive;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support port Auto MDI/MDIX;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Panel indicator lights monitor working status and help failure analysis;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Supports giant frame 12K"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Supports Cat Stick (Nokia G-010S-A; Alcatel G-010S-P; Huawei MA5671A) and more"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Flow control mode, full duplex adopts IEEE802.3x standard, half duplex adopts Back pressure standard;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Surge Protection: General 6KV, Differential 2KV, ESD 8KV air, 6KV contact"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Application Environment】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Metro Optical Broadband Network: Data network operators such as telecommunications, cable TV, and network system integration, etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Broadband private network: Suitable for financial, government, oil, railway, electric power, public security, transportation, education and other industries."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Multimedia transmission: Integrated transmission of images, voice and data, suitable for remote teaching, conference TV, videophone and other applications."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Real-time monitoring: Simultaneous transmission of real-time control signals, images and data."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Technical Specification】"
+},
+{
+"t":"table",
+"rows":[
+[
+"I/O Interface"
+],
+[
+"Power",
+"DC 2.1"
+],
+[
+"Ethernet",
+"5*100/1000/2500M RJ45 Ports / 1*10G SFP  Port"
+],
+[
+"Performance"
+],
+[
+"Bandwidth",
+"45Gbps"
+],
+[
+"Pack forward rate",
+"33.48Mpps"
+],
+[
+"MAC address",
+"4K"
+],
+[
+"Transfer mode",
+"Storage & forward"
+],
+[
+"Standard"
+],
+[
+"Network protocol",
+"IEEE802.3 (Ethernet) / IEEE802.3u (Fast Ethernet) / IEEE802.3ab(Gigabit Ethernet) / IEEE 802.3bz (5G Ethernet) / IEEE 802.3z (Gigabit Ethernet) / IEEE 802.3ae (10G Ethernet) / IEEE802.3x (Flow control)"
+],
+[
+"Industry standard",
+"EMS: EN61000-4-2 (ESD) / EN61000-4-5(Surge)"
+],
+[
+"Network Medium",
+"10Base-T: Cat3, 4, 5 or above UTP/STP(≤100m) / 100Base-TX: Cat5 or above UTP/STP(≤100m) / 1000Base-TX: Cat5 or above UTP/STP(≤100m)"
+],
+[
+"Optical Medium",
+"multi mode: 50/125, 62.5/125, 100/140um / Single mode: 8/125, 8.7/125, 9/125, 10/125um"
+],
+[
+"Environment standard"
+],
+[
+"Working environment",
+"Working Temperature: -10~50°C / Storage Temperature: -40~70°C / Working Humidity: 10%~90%, non-condensing / Storage Temperature: 5%~95%, non-condensing"
+],
+[
+"Indicator"
+],
+[
+"PWR (Power)",
+"On: Powered on / Off: Powered off"
+],
+[
+"1-5 Port green light",
+"On: 2.5G Link connect normal / Off: Link off / Flashing: data transmitting"
+],
+[
+"1-5 Port yellow light",
+"On: 10/100/1000M Link connect normal / Off: Link off / Flashing: data transmitting"
+],
+[
+"6 Port green light",
+"On: 10G Link connect normal / Off: Link off / Flashing: data transmitting"
+],
+[
+"Physical specification"
+],
+[
+"Structure size",
+"Product Size: 140*93*28mm / Package Size: 203*160*55mm / Product Net-Weight: 0.33KG / Product Gross-Weight: 0.46KG"
+],
+[
+"Packing info",
+"Carton size: 580*335*445mm / Packing Qty: 40pcs / Packing weight: 19.5KG"
+],
+[
+"Power voltage",
+"Adapter input voltage: AC 100-240 V / switch input voltage: DC 12V1A"
+],
+[
+"Power",
+"Main board power：8.24W"
+],
+[
+"Packaging list",
+"Switch 1pcs、 / User manual 1pcs、 / Certificate 1pcs、 / Power adapter 1pcs"
+],
+[
+"Order Info"
+],
+[
+"ZX-SWTG015AS",
+"6 Port 10G Uplink 2.5G Ethernet Switch"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product picture】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product application】"
+}
+],
+"extracted_at":"2026-10-22T06:11:10Z"
+}

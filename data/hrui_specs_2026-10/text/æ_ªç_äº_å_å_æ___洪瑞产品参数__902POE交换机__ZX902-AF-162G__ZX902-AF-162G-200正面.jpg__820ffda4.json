@@ -1,0 +1,27 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__902POE交换机__ZX902-AF-162G__ZX902-AF-162G-200正面.jpg__820ffda4",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/902POE交换机/ZX902-AF-162G/ZX902-AF-162G-200正面.jpg",
+"name":"ZX902-AF-162G-200正面.jpg",
+"ext":".jpg",
+"bytes":1646031,
+"sha256":"820ffda41844236008232e4360e61b4aade19bbf75f5b7a7ff1d90790c1002c8",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":3456,
+"mode":"RGB",
+"datetime":"2022:10:11 17:15:39",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":4380
+},
+"warnings":[],
+"chars":52,
+"text":"Hod 30d WOOL/OL\nPoE Switch\nVLAN(1-16)\n[pea\n| Fe\nMode",
+"extracted_at":"2026-10-22T06:11:41Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__902POE交换机__ZX902-AF-162G__ZX902-AF-162G-200正面.jpg__820ffda4.jpg"
+}

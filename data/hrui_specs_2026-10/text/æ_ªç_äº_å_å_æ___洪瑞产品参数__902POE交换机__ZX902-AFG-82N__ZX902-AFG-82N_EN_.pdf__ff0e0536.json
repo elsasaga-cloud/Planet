@@ -1,0 +1,29 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__902POE交换机__ZX902-AFG-82N__ZX902-AFG-82N_EN_.pdf__ff0e0536",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/902POE交换机/ZX902-AFG-82N/ZX902-AFG-82N(EN).pdf",
+"name":"ZX902-AFG-82N(EN).pdf",
+"ext":".pdf",
+"bytes":385184,
+"sha256":"ff0e0536e1db3bac06d40a598d2d9a6fcac0f47df247964a9c84782134982826",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pdfplumber",
+"status":"ok",
+"meta":{
+"pages":5,
+"creator":"WPS 演示",
+"creationdate":"D:20260521113041+08'00'",
+"moddate":"D:20260521113041+08'00'",
+"ocr_pages":0
+},
+"warnings":[],
+"chars":2490,
+"text":"[p1]\n10-Port Gigabit PoE Switch\nProduct Highlights\nn 8*1Gbps PoE ports+2*1Gbps uplink RJ45 ports\nn Comply with IEEE 802.3, IEEE 802.3u, and IEEE 802.3x standards\nn Ethernet Ports support 10/100/1000Mbps self-adaptive\nn Flow control method: Full duplex adopts IEEE 802.3x standard, while half duplex adopts Back\npressure standard\nn Support automatic port flipping (Auto MDI/MDIX)\nn Adopt a storage and forwarding switch system\nn All ports support line speed switching\nn The panel indicator LED will monitor the working status and assist in fault analysis\nn Support VLAN, Default, and Extend modes\n\n[p2]\nHardware Features\nDescription Specification\nModel ZX902-AFG-82N\n8*1Gbps PoE ports\nInterface\n2*1Gbps uplink RJ45 ports\nIEEE802.3 (Ethernet)\nIEEE802.3u (Fast Ethernet)\nPort Standard\nIEEE802.3ab (Gigabit Ethernet)\nIEEE802.3x (Flow Control)\nSwitching Bandwidth 20Gbps\n14.88Mpps\nPacket Forwarding Rate\n3Mbit\nPacket Buffer\nMAC Address Table 2K\nStore and Forward\nTransmission Method\nIEEE802.3af (15.4W)\nPoE Standard IEEE802.3at (30W)\nDC 44-57V\nPoE Port Output Voltage\nPorts 1-8 PoE power output <30W\nPoE Ports\n110W\nPoE Power Budget\nOperating Temperature 0~40°C\nStorage Temperature -40~70°C\nOperation Humidity 10%~90%, non condensing\nStorage Humidity 5%~95%, non condensing\nAC 100-240V 50/60Hz\nPower Supply\nDC 52V 2.3A\nMainboard Power Consumption 6.5W\nProduct Dimensions: 200*118*44mm\nPackaging Dimensions: 245*190*60mm\nStructure Information Product Net Weight: 0.69KG\nProduct Gross Weight: 0.97KG\nCarton Dimensions: 520*320*400mm\nPacking Quantity: 20PCS\nPacking Information\nPacking Weight: 20.4KG\n\n[p3]\nHardware Features\nDescription Specification\nPackage Contents Switch 1pcs, Power Cord 1pcs, Manual 1pcs, Certificate of Inspection 1pcs\nFan Quantity 0\nInstallation Desktop\nOn: Powered on\nPWR Green LED\nOff: Powered off\nOn: 10/100/1000Mbps Link normal\nOff: Link blocked\nPorts 1-10 Green LED\nFlashing: Data transmitting\nVLAN: VLAN mode, ports 1-8 are isolated from each other, communicating with\nports 9-10\nNormal: Normal mode, all ports can communicate with each other, transmission\nVLAN/Normal/Extend Modes Buttons\ndistance is within 100 meters, transmission rate is 10/100/1000Mbps adaptive\nExtend: Extend mode, when the PoE port is in Extend mode, ports 7-8 force 10Mbps\nto extend the transmission distance to 250meters\n\n[p4]\nProduct Structure Diagram\n\n[p5]\nMounting ear diagram (Optional, support customization, default no\nmounting ear)\n：\nUnit of size mm\nWall mounted ears\nRack mounting ears",
+"pages":[
+"10-Port Gigabit PoE Switch\nProduct Highlights\nn 8*1Gbps PoE ports+2*1Gbps uplink RJ45 ports\nn Comply with IEEE 802.3, IEEE 802.3u, and IEEE 802.3x standards\nn Ethernet Ports support 10/100/1000Mbps self-adaptive\nn Flow control method: Full duplex adopts IEEE 802.3x standard, while half duplex adopts Back\npressure standard\nn Support automatic port flipping (Auto MDI/MDIX)\nn Adopt a storage and forwarding switch system\nn All ports support line speed switching\nn The panel indicator LED will monitor the working status and assist in fault analysis\nn Support VLAN, Default, and Extend modes",
+"Hardware Features\nDescription Specification\nModel ZX902-AFG-82N\n8*1Gbps PoE ports\nInterface\n2*1Gbps uplink RJ45 ports\nIEEE802.3 (Ethernet)\nIEEE802.3u (Fast Ethernet)\nPort Standard\nIEEE802.3ab (Gigabit Ethernet)\nIEEE802.3x (Flow Control)\nSwitching Bandwidth 20Gbps\n14.88Mpps\nPacket Forwarding Rate\n3Mbit\nPacket Buffer\nMAC Address Table 2K\nStore and Forward\nTransmission Method\nIEEE802.3af (15.4W)\nPoE Standard IEEE802.3at (30W)\nDC 44-57V\nPoE Port Output Voltage\nPorts 1-8 PoE power output <30W\nPoE Ports\n110W\nPoE Power Budget\nOperating Temperature 0~40°C\nStorage Temperature -40~70°C\nOperation Humidity 10%~90%, non condensing\nStorage Humidity 5%~95%, non condensing\nAC 100-240V 50/60Hz\nPower Supply\nDC 52V 2.3A\nMainboard Power Consumption 6.5W\nProduct Dimensions: 200*118*44mm\nPackaging Dimensions: 245*190*60mm\nStructure Information Product Net Weight: 0.69KG\nProduct Gross Weight: 0.97KG\nCarton Dimensions: 520*320*400mm\nPacking Quantity: 20PCS\nPacking Information\nPacking Weight: 20.4KG",
+"Hardware Features\nDescription Specification\nPackage Contents Switch 1pcs, Power Cord 1pcs, Manual 1pcs, Certificate of Inspection 1pcs\nFan Quantity 0\nInstallation Desktop\nOn: Powered on\nPWR Green LED\nOff: Powered off\nOn: 10/100/1000Mbps Link normal\nOff: Link blocked\nPorts 1-10 Green LED\nFlashing: Data transmitting\nVLAN: VLAN mode, ports 1-8 are isolated from each other, communicating with\nports 9-10\nNormal: Normal mode, all ports can communicate with each other, transmission\nVLAN/Normal/Extend Modes Buttons\ndistance is within 100 meters, transmission rate is 10/100/1000Mbps adaptive\nExtend: Extend mode, when the PoE port is in Extend mode, ports 7-8 force 10Mbps\nto extend the transmission distance to 250meters",
+"Product Structure Diagram",
+"Mounting ear diagram (Optional, support customization, default no\nmounting ear)\n：\nUnit of size mm\nWall mounted ears\nRack mounting ears"
+],
+"extracted_at":"2026-10-22T06:11:34Z"
+}

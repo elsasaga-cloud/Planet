@@ -1,0 +1,272 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AFG-82N__ZX900-AFG-82N_英文_.docx__bbec18da",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/900及管理型POE交换机/ZX900-AFG-82N/ZX900-AFG-82N（英文）.docx",
+"name":"ZX900-AFG-82N（英文）.docx",
+"ext":".docx",
+"bytes":158866,
+"sha256":"bbec18da00b1b2dd240fc0b27ef0aa41f3e6e64772fc770e0e351de9a676c7bb",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"10 Port Gigabit PoE Switch",
+"author":"阿杜",
+"last_modified_by":"HR&2020",
+"created":"2020-05-26T08:45:00+00:00",
+"modified":"2023-08-29T07:00:25+00:00",
+"paragraphs":24,
+"tables":1,
+"embedded_images":3
+},
+"warnings":[],
+"chars":4706,
+"text":"10 Port Full Gigabit Intelligent Standard PoE Switch\n【Product Description】\n10 Port Full Gigabit Intelligent Standard PoE Switch, using high-quality high-speed network IC and the most stable POE chip, POE port meets 802.3af / 802.3at standard, this series of PoE Switch can be 10/100/1000M Ethernet. The network provides a seamless connection, and the PoE power port can automatically detect and power the powered devices that comply with the IEEE802.3af / IEEE802.3at standards. The non-POE device intelligently detects no power and only transmits data.\nPoE is Power over Ethernet, which refers to the transmission of data signals to some IP-based terminals (such as IP phones, wireless access AP, network cameras, etc.), but also provides DC power for the device. Technically, these devices that receive DC power are called powered devices.\nWith simple and convenient installation and maintenance methods and rich business features, it helps users to build a safe and reliable high-performance network. It is mainly located in the core or convergence layer of user networks such as industrial parks, buildings, factories and mines, government agencies, and residential broadband; it can be widely used in Ethernet access scenarios such as small and medium-sized enterprises, Internet cafes, hotels, and schools.\n【Main Features】\n8*10/100/1000M PoE Ports +2*1000M Ethernet Ports;\nSupport IEEE 802.3, IEEE 802.3u, IEEE 802.3u, IEEE802.3x standard;\nEthernet Ports support 10/100/1000M self-adaptive;\nThe AI mode is automatically enabled 10M speed for Ports 7-8 in Extend mode;\nPOE priority is supported, from port 1 to port 8, which is enabled by default；\nFlow control mode: full-duplex adopts IEEE 802.3x standard, half-duplex adopts Back pressure standard;\nZero configuration feature, automatically supplied to adaptive equipment;\nPanel indicator monitoring status and help failure analysis;\nWith DIP switch, support VLAN, Default and Extend modes;\nSupport Surge protection: Common mode 4KV; ESD: Air 8KV, Contact 6KV（level B）.\n【Application Environment】\nMetro Optical Broadband Network: Data network operators such as telecommunications, cable TV, and network system integration,etc.\nBroadband private network: Suitable for financial, government, oil, railway, electric power, public security, transportation, education and other industries\nMultimedia transmission: Integrated transmission of images, voice and data, suitable for remote teaching, conference TV, videophone and other applications\nReal-time monitoring: Simultaneous transmission of real-time control signals, images and data\n【Specifications】\nI/O Interface\nPower\tAC100-240V50/60Hz\nEthernet\t8* Gigabit PoE Ethernet Ports / 2* Gigabit Uplink Ethernet Port\nChipset\t2*RTL8367S / RTL8238B\nPerformance\nBandwidth\t20Gbps\nPack forward rate\t14.88Mpps\nMemory cache\t448Kbit\nMAC address\t2K\nTransfer mode\tStore and forward\nStandard\nNetwork Protocol\tIEEE802.3 (10Base-T) / IEEE802.3u (100Base-TX) / IEEE802.3ab (1000Base-TX) / IEEE802.3x (Flow control)\nPoE Protocol\tIEEE802.3af(15.4W) / IEEE802.3at(30W) / POE port output voltage: DC 44-57V / POE power supply core: 1/2+; 3/6-\nIndustry Standard\tEMS: EN61000-4-2 (ESD), / EN61000-4-5 (Surge)\nNetwork Medium\t10Base-T : Cat3, 4, 5 or above UTP(≤100m) / 100Base-TX : Cat5 or above UTP(≤100m) / 1000Base-TX : Cat5 or above UTP(≤100m)\nCertificate\nSafety Certification\tCE, FCC, RoHS\nEnvironment Standard\nWorking Environment\tWorking Temperature: -10~50°C / Storage Temperature: -40~70°C / Working Humidity: 10%~90%, non-condensing / Storage Temperature: 5%~95%, non-condensing\nIndicator\nLED Indicator\tPWR (Power)，1-10 Green Light (Link&Data)\nPWR\tOn: Powered on / Off: Powered off\n1-10 Green Light (Link&Data)\tOn: Link normal / Off: Link blocked / Flashing: Data transmitting\nDIP Switch\tVLAN: Isolation mode. Ports 1 to 8 are isolated and communicate with the upstream interface.(enable POE watchdog) / Default: common mode, all interfaces can communicate with each other, the transmission distance is less than 100 meters, the transmission rate is 10/100/1000M adaptive; The port AI mode is disabled / Extend: Link extension mode, 7-8 ports force 10M, link 250M (enable POE watchdog)\nPhysical Specification\nStructure Size\tProduct Dimension: 220*161*44mmm / Package Dimension: 315*215*85mm / N.W: 0.88kg / G.W: 1.38kg\nPackaging Info\tCarton MEAS: 445*445*335mm / Packing Qty: 10 units / Packing Weight: 14.8KG\nPower Voltage\tInput Voltage: AC 100-240 V 50-60Hz / Power Supply: 52V2.3A\nPower\tProduct power: maximum 10W / POE power: maximum 110W\nPackaging List\tSwitch 1 PC, Power cord 1 PC, User manual 1 PC, Certification 1 PC\nOrder Info\nZX900-AFG-82N\t10 Port Gigabit PoE Switch\n【 Product renderings】\n【Product Structure】",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 7",
+"text":"10 Port Full Gigabit Intelligent Standard PoE Switch"
+},
+{
+"t":"h",
+"s":"Heading 7",
+"text":"【Product Description】"
+},
+{
+"t":"h",
+"s":"Heading 6",
+"text":"10 Port Full Gigabit Intelligent Standard PoE Switch, using high-quality high-speed network IC and the most stable POE chip, POE port meets 802.3af / 802.3at standard, this series of PoE Switch can be 10/100/1000M Ethernet. The network provides a seamless connection, and the PoE power port can automatically detect and power the powered devices that comply with the IEEE802.3af / IEEE802.3at standards. The non-POE device intelligently detects no power and only transmits data."
+},
+{
+"t":"h",
+"s":"Heading 6",
+"text":"PoE is Power over Ethernet, which refers to the transmission of data signals to some IP-based terminals (such as IP phones, wireless access AP, network cameras, etc.), but also provides DC power for the device. Technically, these devices that receive DC power are called powered devices."
+},
+{
+"t":"h",
+"s":"Heading 6",
+"text":"With simple and convenient installation and maintenance methods and rich business features, it helps users to build a safe and reliable high-performance network. It is mainly located in the core or convergence layer of user networks such as industrial parks, buildings, factories and mines, government agencies, and residential broadband; it can be widely used in Ethernet access scenarios such as small and medium-sized enterprises, Internet cafes, hotels, and schools."
+},
+{
+"t":"h",
+"s":"Heading 6",
+"text":"【Main Features】"
+},
+{
+"t":"h",
+"s":"Heading 7",
+"text":"8*10/100/1000M PoE Ports +2*1000M Ethernet Ports;"
+},
+{
+"t":"h",
+"s":"Heading 7",
+"text":"Support IEEE 802.3, IEEE 802.3u, IEEE 802.3u, IEEE802.3x standard;"
+},
+{
+"t":"h",
+"s":"Heading 7",
+"text":"Ethernet Ports support 10/100/1000M self-adaptive;"
+},
+{
+"t":"h",
+"s":"Heading 7",
+"text":"The AI mode is automatically enabled 10M speed for Ports 7-8 in Extend mode;"
+},
+{
+"t":"h",
+"s":"Heading 7",
+"text":"POE priority is supported, from port 1 to port 8, which is enabled by default；"
+},
+{
+"t":"h",
+"s":"Heading 7",
+"text":"Flow control mode: full-duplex adopts IEEE 802.3x standard, half-duplex adopts Back pressure standard;"
+},
+{
+"t":"h",
+"s":"Heading 7",
+"text":"Zero configuration feature, automatically supplied to adaptive equipment;"
+},
+{
+"t":"h",
+"s":"Heading 7",
+"text":"Panel indicator monitoring status and help failure analysis;"
+},
+{
+"t":"h",
+"s":"Heading 7",
+"text":"With DIP switch, support VLAN, Default and Extend modes;"
+},
+{
+"t":"h",
+"s":"Heading 7",
+"text":"Support Surge protection: Common mode 4KV; ESD: Air 8KV, Contact 6KV（level B）."
+},
+{
+"t":"h",
+"s":"Heading 7",
+"text":"【Application Environment】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Metro Optical Broadband Network: Data network operators such as telecommunications, cable TV, and network system integration,etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Broadband private network: Suitable for financial, government, oil, railway, electric power, public security, transportation, education and other industries"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Multimedia transmission: Integrated transmission of images, voice and data, suitable for remote teaching, conference TV, videophone and other applications"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Real-time monitoring: Simultaneous transmission of real-time control signals, images and data"
+},
+{
+"t":"h",
+"s":"Heading 7",
+"text":"【Specifications】"
+},
+{
+"t":"table",
+"rows":[
+[
+"I/O Interface"
+],
+[
+"Power",
+"AC100-240V50/60Hz"
+],
+[
+"Ethernet",
+"8* Gigabit PoE Ethernet Ports / 2* Gigabit Uplink Ethernet Port"
+],
+[
+"Chipset",
+"2*RTL8367S / RTL8238B"
+],
+[
+"Performance"
+],
+[
+"Bandwidth",
+"20Gbps"
+],
+[
+"Pack forward rate",
+"14.88Mpps"
+],
+[
+"Memory cache",
+"448Kbit"
+],
+[
+"MAC address",
+"2K"
+],
+[
+"Transfer mode",
+"Store and forward"
+],
+[
+"Standard"
+],
+[
+"Network Protocol",
+"IEEE802.3 (10Base-T) / IEEE802.3u (100Base-TX) / IEEE802.3ab (1000Base-TX) / IEEE802.3x (Flow control)"
+],
+[
+"PoE Protocol",
+"IEEE802.3af(15.4W) / IEEE802.3at(30W) / POE port output voltage: DC 44-57V / POE power supply core: 1/2+; 3/6-"
+],
+[
+"Industry Standard",
+"EMS: EN61000-4-2 (ESD), / EN61000-4-5 (Surge)"
+],
+[
+"Network Medium",
+"10Base-T : Cat3, 4, 5 or above UTP(≤100m) / 100Base-TX : Cat5 or above UTP(≤100m) / 1000Base-TX : Cat5 or above UTP(≤100m)"
+],
+[
+"Certificate"
+],
+[
+"Safety Certification",
+"CE, FCC, RoHS"
+],
+[
+"Environment Standard"
+],
+[
+"Working Environment",
+"Working Temperature: -10~50°C / Storage Temperature: -40~70°C / Working Humidity: 10%~90%, non-condensing / Storage Temperature: 5%~95%, non-condensing"
+],
+[
+"Indicator"
+],
+[
+"LED Indicator",
+"PWR (Power)，1-10 Green Light (Link&Data)"
+],
+[
+"PWR",
+"On: Powered on / Off: Powered off"
+],
+[
+"1-10 Green Light (Link&Data)",
+"On: Link normal / Off: Link blocked / Flashing: Data transmitting"
+],
+[
+"DIP Switch",
+"VLAN: Isolation mode. Ports 1 to 8 are isolated and communicate with the upstream interface.(enable POE watchdog) / Default: common mode, all interfaces can communicate with each other, the transmission distance is less than 100 meters, the transmission rate is 10/100/1000M adaptive; The port AI mode is disabled / Extend: Link extension mode, 7-8 ports force 10M, link 250M (enable POE watchdog)"
+],
+[
+"Physical Specification"
+],
+[
+"Structure Size",
+"Product Dimension: 220*161*44mmm / Package Dimension: 315*215*85mm / N.W: 0.88kg / G.W: 1.38kg"
+],
+[
+"Packaging Info",
+"Carton MEAS: 445*445*335mm / Packing Qty: 10 units / Packing Weight: 14.8KG"
+],
+[
+"Power Voltage",
+"Input Voltage: AC 100-240 V 50-60Hz / Power Supply: 52V2.3A"
+],
+[
+"Power",
+"Product power: maximum 10W / POE power: maximum 110W"
+],
+[
+"Packaging List",
+"Switch 1 PC, Power cord 1 PC, User manual 1 PC, Certification 1 PC"
+],
+[
+"Order Info"
+],
+[
+"ZX900-AFG-82N",
+"10 Port Gigabit PoE Switch"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【 Product renderings】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Structure】"
+}
+],
+"extracted_at":"2026-10-22T06:13:19Z"
+}

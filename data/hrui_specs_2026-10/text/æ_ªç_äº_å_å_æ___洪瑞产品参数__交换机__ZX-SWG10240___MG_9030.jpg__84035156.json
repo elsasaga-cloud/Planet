@@ -1,0 +1,27 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG10240___MG_9030.jpg__84035156",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/交换机/ZX-SWG10240/_MG_9030.jpg",
+"name":"_MG_9030.jpg",
+"ext":".jpg",
+"bytes":2463901,
+"sha256":"840351568e8d679d509490712699dfc5a625a2066d7e184ebb88de79625a425c",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":3456,
+"mode":"RGB",
+"datetime":"2020:10:10 14:08:45",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CS6 (Windows)",
+"thumb_bytes":2423
+},
+"warnings":[],
+"chars":17,
+"text":"AC INPUT 100-240V",
+"extracted_at":"2026-10-22T06:10:31Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG10240___MG_9030.jpg__84035156.jpg"
+}

@@ -1,0 +1,27 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTGW215AS__IMG_0756-.jpg__ad35de0a",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/交换机/ZX-SWTGW215AS/IMG_0756-.jpg",
+"name":"IMG_0756-.jpg",
+"ext":".jpg",
+"bytes":1626131,
+"sha256":"ad35de0a640cf0d9493846a0c9318e23d87f6e9e855e4aa4659f7bd59c32f656",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":5178,
+"height":3452,
+"mode":"RGB",
+"datetime":"2023:06:28 18:03:15",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":3306
+},
+"warnings":[],
+"chars":81,
+"text":"6(10G)\n2.5G Link/Act 10/100/1000M Link/Act Web Managed 2.5G Ethernet Switch @ PWR",
+"extracted_at":"2026-10-22T06:11:21Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTGW215AS__IMG_0756-.jpg__ad35de0a.jpg"
+}

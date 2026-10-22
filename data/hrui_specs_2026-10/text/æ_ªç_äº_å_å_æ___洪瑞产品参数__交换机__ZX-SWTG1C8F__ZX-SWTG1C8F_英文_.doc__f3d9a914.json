@@ -1,0 +1,265 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTG1C8F__ZX-SWTG1C8F_英文_.doc__f3d9a914",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/交换机/ZX-SWTG1C8F/ZX-SWTG1C8F（英文）.doc",
+"name":"ZX-SWTG1C8F（英文）.doc",
+"ext":".doc",
+"bytes":236595,
+"sha256":"f3d9a9148b3918bcae71f6d5b7f32d8427e41fcad44a055695fc66ce1556faad",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-22T06:10:08+00:00",
+"paragraphs":20,
+"tables":2,
+"embedded_images":3
+},
+"warnings":[],
+"chars":3768,
+"text":"Port Full 10G SFP+ Ethernet Switch\n【Product Description】\nThis 8-port full 10G SFP Ethernet Switch adopts a high-quality and high-speed network chip solution with a full 10G network interface and smooth line speed forwarding. It is configured with 8* 10G SFP+ ports, which supports 1.25G/2.5G/10G rates. It adopts a storage and forwarding mechanism, and internally integrates a high capacity cache to ensure that all ports can achieve 10G non-blocking line speed forwarding, and adopt to more emergency situations. With a sturdy and durable and high strength steel shell design, the efficient heat dissipation ensures stable operation of the product. The switch can be widely used in security network video monitoring, hotels, campuses, large and medium-sized enterprise network engineering, and other fields.\n【Main Feature】\n8*10G SFP+ ports.\nSupport IEEE 802.3, IEEE802.3u, IEEE 802.3ab, IEEE802.3 bz, IEEE 802.3 ae, IEEE 802.3.x.\nSFP+ port support 1.25G/2.5G/10G .\nSupport Port Auto MDI/MDIX.\nPanel Indicators monitor working conditions and assist in fault analysis.\nFlow Control Mode, IEEE802.3x standard for full duplex, and back pressure standard for half duplex.\nSupports one click code dialing and three speed switching.\nSupport Purge Protection: ESD: air 8KV, Contact 6KV, Class B.\n【Application environment】\nMetropolitan fiber broadband network: Telecommunications, cable TV, network system integration and other data network operators.\nBroadband private network: Suitable for special networks in industries such as finance, government, petroleum, railway, electric power, public security, transportation, education, etc.\nMultimedia transmission: Integrated transmission of images, voice, and data, suitable for applications such as distance education, conference television, and videophone.\nReal time monitoring: Simultaneous transmission of real-time control signals, images, and data.\n【Technical Specification】\nI/O Interface\nPower input\tDC 12V\nEthernet\t8* 10G SFP+ ports\nChip Scheme\tRTL9303\nPerformance\nBandwidth\t160Gbps\nPacket Forwarding Rate\t119.04Mpps\nRAM\t128MByte\nFlash Memory\t16MByte\nMemory Cache\t12Mbit\nMac Address Table\t16K\nJumbo Frame\t12Kbytes\nStandard\nNetwork Protocol\tIEEE802.3 (Ethernet) / IEEE802.3u (Fast Ethernet) / IEEE 802.3ab (Gigabit Ethernet) / IEEE 802.3z (Gigabit Ethernet fiber standard) / IEEE 802.3ae (10G Ethernet) / IEEE802.3x (Flow control)\nIndustry Standard\tEMS: EN61000-4-2 (ESD) / EN61000-4-5 (Surge)\nOptical Media\tMultimode Fiber: 50/125, 62.5/125, 100/140um / Single mode Fiber: 8/125, 8.7/125, 9/125, 10/125um\nCertification\nSafety certification\tCE, FCC, RoHS\nEnvironment Standard\nWorking environment\tWorking temperature: - 10~50 ° C / Storage temperature: - 40~70 ° C / Working humidity: 10%~90%, non-condensing / Storage humidity: 5%~95%, non-condensing\nFunctional indication\nIndicator Light\tPWR (Power Indicator)\nPWR（Power Indicator）\tOn: Powered on / Off: Powered off\nSYS\tFlashing: System startup in progress / On: System startup completed\nSFP Port Light\tBlue on: 10G link / Green on: 1000M/2500M link / Flashing: Data transmitting / Off: Link not working\nDialing light\tLeft Side: 1 to 8 Ports have speeds of 10G/1G. / Middle: 1 to 8 Ports have speeds of 10G/2.5G. / Right Side: 1 to 4 Ports have speeds of 10G/1G, 5 to 8 Ports have speeds of 10G/2.5G.\nPhysical specifications\nStructure size\tProductsize:220*126*28mm / Packagesize:259*228*60mm / Netweight:0.62KG / Grossweight:0.86KG\nPacking information\tCartonsize:535*320*480mm / Packingquantity:20Pcs / Packingweight:18.2KG\nSupply voltage\tPower Adapter: 12V2A\nPower\tMaximum 18W\nPacking list\tSwitch 1PCS, manual 1PCS, certificate of conformity 1PCS, power cord 1PCS\nOrder Info\nHR-SWTG1C8F\t8-Port Full 10G SFP+ Ethernet Switch\n【Product Picture】\n【Product Structure】\n[页眉页脚]\n3",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Port Full 10G SFP+ Ethernet Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Description】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This 8-port full 10G SFP Ethernet Switch adopts a high-quality and high-speed network chip solution with a full 10G network interface and smooth line speed forwarding. It is configured with 8* 10G SFP+ ports, which supports 1.25G/2.5G/10G rates. It adopts a storage and forwarding mechanism, and internally integrates a high capacity cache to ensure that all ports can achieve 10G non-blocking line speed forwarding, and adopt to more emergency situations. With a sturdy and durable and high strength steel shell design, the efficient heat dissipation ensures stable operation of the product. The switch can be widely used in security network video monitoring, hotels, campuses, large and medium-sized enterprise network engineering, and other fields."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Main Feature】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8*10G SFP+ ports."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support IEEE 802.3, IEEE802.3u, IEEE 802.3ab, IEEE802.3 bz, IEEE 802.3 ae, IEEE 802.3.x."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SFP+ port support 1.25G/2.5G/10G ."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support Port Auto MDI/MDIX."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Panel Indicators monitor working conditions and assist in fault analysis."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Flow Control Mode, IEEE802.3x standard for full duplex, and back pressure standard for half duplex."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Supports one click code dialing and three speed switching."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support Purge Protection: ESD: air 8KV, Contact 6KV, Class B."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Application environment】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Metropolitan fiber broadband network: Telecommunications, cable TV, network system integration and other data network operators."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Broadband private network: Suitable for special networks in industries such as finance, government, petroleum, railway, electric power, public security, transportation, education, etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Multimedia transmission: Integrated transmission of images, voice, and data, suitable for applications such as distance education, conference television, and videophone."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Real time monitoring: Simultaneous transmission of real-time control signals, images, and data."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Technical Specification】"
+},
+{
+"t":"table",
+"rows":[
+[
+"I/O Interface"
+],
+[
+"Power input",
+"DC 12V"
+],
+[
+"Ethernet",
+"8* 10G SFP+ ports"
+],
+[
+"Chip Scheme",
+"RTL9303"
+],
+[
+"Performance"
+],
+[
+"Bandwidth",
+"160Gbps"
+],
+[
+"Packet Forwarding Rate",
+"119.04Mpps"
+],
+[
+"RAM",
+"128MByte"
+],
+[
+"Flash Memory",
+"16MByte"
+],
+[
+"Memory Cache",
+"12Mbit"
+],
+[
+"Mac Address Table",
+"16K"
+],
+[
+"Jumbo Frame",
+"12Kbytes"
+],
+[
+"Standard"
+],
+[
+"Network Protocol",
+"IEEE802.3 (Ethernet) / IEEE802.3u (Fast Ethernet) / IEEE 802.3ab (Gigabit Ethernet) / IEEE 802.3z (Gigabit Ethernet fiber standard) / IEEE 802.3ae (10G Ethernet) / IEEE802.3x (Flow control)"
+],
+[
+"Industry Standard",
+"EMS: EN61000-4-2 (ESD) / EN61000-4-5 (Surge)"
+],
+[
+"Optical Media",
+"Multimode Fiber: 50/125, 62.5/125, 100/140um / Single mode Fiber: 8/125, 8.7/125, 9/125, 10/125um"
+],
+[
+"Certification"
+],
+[
+"Safety certification",
+"CE, FCC, RoHS"
+],
+[
+"Environment Standard"
+],
+[
+"Working environment",
+"Working temperature: - 10~50 ° C / Storage temperature: - 40~70 ° C / Working humidity: 10%~90%, non-condensing / Storage humidity: 5%~95%, non-condensing"
+],
+[
+"Functional indication"
+],
+[
+"Indicator Light",
+"PWR (Power Indicator)"
+],
+[
+"PWR（Power Indicator）",
+"On: Powered on / Off: Powered off"
+],
+[
+"SYS",
+"Flashing: System startup in progress / On: System startup completed"
+],
+[
+"SFP Port Light",
+"Blue on: 10G link / Green on: 1000M/2500M link / Flashing: Data transmitting / Off: Link not working"
+],
+[
+"Dialing light",
+"Left Side: 1 to 8 Ports have speeds of 10G/1G. / Middle: 1 to 8 Ports have speeds of 10G/2.5G. / Right Side: 1 to 4 Ports have speeds of 10G/1G, 5 to 8 Ports have speeds of 10G/2.5G."
+],
+[
+"Physical specifications"
+],
+[
+"Structure size",
+"Productsize:220*126*28mm / Packagesize:259*228*60mm / Netweight:0.62KG / Grossweight:0.86KG"
+],
+[
+"Packing information",
+"Cartonsize:535*320*480mm / Packingquantity:20Pcs / Packingweight:18.2KG"
+],
+[
+"Supply voltage",
+"Power Adapter: 12V2A"
+],
+[
+"Power",
+"Maximum 18W"
+],
+[
+"Packing list",
+"Switch 1PCS, manual 1PCS, certificate of conformity 1PCS, power cord 1PCS"
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+"Order Info"
+],
+[
+"HR-SWTG1C8F",
+"8-Port Full 10G SFP+ Ethernet Switch"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Picture】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Structure】"
+}
+],
+"extracted_at":"2026-10-22T06:10:08Z"
+}

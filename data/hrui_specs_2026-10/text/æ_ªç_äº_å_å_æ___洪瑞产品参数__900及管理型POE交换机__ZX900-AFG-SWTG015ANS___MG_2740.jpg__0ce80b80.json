@@ -1,0 +1,27 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AFG-SWTG015ANS___MG_2740.jpg__0ce80b80",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/900及管理型POE交换机/ZX900-AFG-SWTG015ANS/_MG_2740.jpg",
+"name":"_MG_2740.jpg",
+"ext":".jpg",
+"bytes":722785,
+"sha256":"0ce80b80677c26006aae6aee3db45836c4419b39c6efbbc6e4a0abd1fdf0ddd4",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":3456,
+"height":2304,
+"mode":"RGB",
+"datetime":"2023:06:16 14:14:01",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":3795
+},
+"warnings":[],
+"chars":163,
+"text":"2.5G PoE Switch OnsLink Flashing=ACT 1-5 Port: @ 10/100/1000M @ 2.5G 6 Port: @2.5G @ 106\n一 一 一 一 10/100/1000M/2.5G PoE Port ———————_,\n1@ e 加 roc wiax®\nLink/Act PoE",
+"extracted_at":"2026-10-22T06:13:09Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AFG-SWTG015ANS___MG_2740.jpg__0ce80b80.jpg"
+}

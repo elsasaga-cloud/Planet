@@ -1,0 +1,27 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTG1216AS___MG_9161.jpg__9babc30b",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/交换机/ZX-SWTG1216AS/_MG_9161.jpg",
+"name":"_MG_9161.jpg",
+"ext":".jpg",
+"bytes":1499433,
+"sha256":"9babc30b05adda2613fea7e8668c470819e33551d829469319f710361deda3fa",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":3456,
+"mode":"RGB",
+"datetime":"2023:06:15 14:12:59",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":2395
+},
+"warnings":[],
+"chars":25,
+"text":"6 ail\n电\nAC INPUT 100-240V",
+"extracted_at":"2026-10-22T06:09:55Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTG1216AS___MG_9161.jpg__9babc30b.jpg"
+}

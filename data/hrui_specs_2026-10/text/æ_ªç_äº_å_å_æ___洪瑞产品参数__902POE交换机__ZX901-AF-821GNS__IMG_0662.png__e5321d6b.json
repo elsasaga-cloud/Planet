@@ -1,0 +1,23 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__902POE交换机__ZX901-AF-821GNS__IMG_0662.png__e5321d6b",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/902POE交换机/ZX901-AF-821GNS/IMG_0662.png",
+"name":"IMG_0662.png",
+"ext":".png",
+"bytes":1091348,
+"sha256":"e5321d6b4f878213eebf60f4e837e972dabefde67d29ef1c58d68ff49c7126d0",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":5184,
+"height":3456,
+"mode":"RGBA",
+"thumb_bytes":3742
+},
+"warnings":[],
+"chars":74,
+"text":"Od 30d INOOL/OL\n一 ,- 。\nfe\nPoE Switch VLAN HI esta\n@ Mode 1@2@3@4@5 6@7e8@e",
+"extracted_at":"2026-10-22T06:12:02Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__902POE交换机__ZX901-AF-821GNS__IMG_0662.png__e5321d6b.jpg"
+}

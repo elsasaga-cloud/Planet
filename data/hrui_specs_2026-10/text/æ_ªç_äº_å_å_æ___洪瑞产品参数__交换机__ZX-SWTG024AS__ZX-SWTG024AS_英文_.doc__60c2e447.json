@@ -1,0 +1,247 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTG024AS__ZX-SWTG024AS_英文_.doc__60c2e447",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/交换机/ZX-SWTG024AS/ZX-SWTG024AS（英文）.doc",
+"name":"ZX-SWTG024AS（英文）.doc",
+"ext":".doc",
+"bytes":651315,
+"sha256":"60c2e447f9f2c8eb6398bd5475dce6ac8964e1ee0ffd29a54c7808133cc9f0fc",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-22T06:09:41+00:00",
+"paragraphs":22,
+"tables":1,
+"embedded_images":3
+},
+"warnings":[],
+"chars":3863,
+"text":"6 Port 10G Uplink 2.5G Ethernet Switch\n【Product Description】\n6 Port 10G Uplink 2.5G Ethernet Switch, using high quality and high speed network chip solution. This switch has 4* 100/1000/2500M RJ45 ports and 2* 10G SFP+port,providing seamless connection to 10/100/1000/2500M Ethernet for easy management and maintenance. This switch can be widely used in security network video surveillance, hotels, campuses, and network engineering of small and medium-sized enterprises.\n【Main Features】\n4* 100/1000/2500M RJ45 ports+2* 10G SFP+ ports;\nComply with IEEE 802.3, IEEE802.3u, IEEE 802.3ab, IEEE 802.3bz, IEEE 802.3ae, IEEE 802.3x;\nEthernet ports support 10/100/1000M/2500M self-adaptive;\nSupport port Auto MDI/MDIX;\nPanel indicator lights monitor working status and help failure analysis;\nSupports giant frame 12K\nSupports Cat Stick (Nokia G-010S-A; Alcatel G-010S-P; Huawei MA5671A) and more\nFlow control mode, full duplex adopts IEEE802.3x standard, half duplex adopts Back pressure standard;\nSupport Port Surge Protection: Common Mode 4KV, Differential Mode 2KV (Class C); ESD air 8KV, Contact\n6KV (Class C).\n【Application Environment】\nMetro Optical Broadband Network: Data network operators such as telecommunication, cable TV, and network system integration, etc.\nBroadband private network: Suitable for financial, government, oil, railway, electric power, public security, transportation, education and other industries.\nMultimedia transmission: Integrated transmission of images, voice and data, suitable for remote teaching, conference TV, videophone and other applications.\nReal-time monitoring: Simultaneous transmission of real-time control signals, images and data.\n【Technical Specification】\nI/O Interface\nPower\tDC 12V1A\nEthernet\t4*100/1000/2500M RJ45 Ports / 2*10G SFP+ Ports\nPerformance\nBandwidth\t60Gbps\nPacket Forwarding Rate\t44.64Mpps\nPackage cache\t8Mbit\nMAC Address Table\t4K\nTransfer Method\tStorage and forward\nStandard\nNetwork Protocol\tIEEE802.3 (Ethernet) / IEEE802.3u (Fast Ethernet) / IEEE802.3ab(Gigabit Ethernet) / IEEE 802.3bz (5G Ethernet) / IEEE 802.3z (Gigabit Ethernet) / IEEE 802.3ae (10G Ethernet) / IEEE802.3x (Flow control)\nIndustry Standard\tEMS: EN61000-4-2 (ESD) / EN61000-4-5(Surge)\nNetwork Medium\t10Base-T: Cat3, 4, 5 or above UTP/STP(≤100m) / 100Base-TX: Cat5 or above UTP/STP(≤100m) / 1000Base-TX: Cat5 or above UTP/STP(≤100m) / 2.5GBase-T: Cat5e or above UTP/STP(≤100m) / 5GBase-T: Cat6 or above UTP/STP(≤100m) / 10GBase-T: Cat6a or above UTP/STP(≤100m)\nNetwork Medium\t1000BASE-SX: 62.5μm MMF(multi mode) (Minimum range：2m～275m) or 50μm MMF / 1000BASE-LX: 62.5μm/50μm MMF(Minimum range：2m～550m) or 10μm SMF(Minimum range：2m～5km) / 2500BASE-X: G.652D SMF(Single mode) (Minimum range：2m～500m or 2m～5km) / 10GBASE-SR: OM1/OM2/OM3 or above MMF(Operating range：2m～300m) / 10GBASE-LR: IEC B1.1 and B1.3 SMF(Minimum range：2m～10km)\nEnvironment standard\nWorking Environment\tWorking Temperature: 0~40°C / Storage Temperature: -40~70°C / Working Humidity: 10%~90%, non-condensing / Storage Temperature: 5%~95%, non-condensing\nIndicator\nPWR\tOn: Powered on / Off: Powered off\n1-4 ports\tGreen on: 2.5G Link connect normal / Yellow on: 10/100/1000M Link connect normal / Off: Link off / Flashing: Data transmitting\n5-6 Ports Green Light\tOn: 10G Link connect normal / Off: Link off / Flashing: Data transmitting\nPhysical Specification\nStructure Size\tProduct Size: 140*93*28mm / Package Size: 203*160*55mm / Product Net-Weight: 0.33KG / Product Gross-Weight: 0.46KG\nPacking Info\tCarton Size: 580*335*445mm / Packing Qty: 40 pcs / Packing Weight: 19.5KG\nPower Voltage\tAdapter Input Voltage: AC 100-240 V / Switch Input Voltage: DC 12V1A\nPower\tMaximum 12W\nPacking List\tSwitch 1PCS; Adaptor 1PCS; User Manual 1PCS, Certificate 1PCS\nOrder Info\nZX-SWTG024AS\t6 Port 10G Uplink 2.5G Ethernet Switch\n【Product Rendering】\n【Product Structure】\n[页眉页脚]\n3",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"6 Port 10G Uplink 2.5G Ethernet Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Description】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"6 Port 10G Uplink 2.5G Ethernet Switch, using high quality and high speed network chip solution. This switch has 4* 100/1000/2500M RJ45 ports and 2* 10G SFP+port,providing seamless connection to 10/100/1000/2500M Ethernet for easy management and maintenance. This switch can be widely used in security network video surveillance, hotels, campuses, and network engineering of small and medium-sized enterprises."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Main Features】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4* 100/1000/2500M RJ45 ports+2* 10G SFP+ ports;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Comply with IEEE 802.3, IEEE802.3u, IEEE 802.3ab, IEEE 802.3bz, IEEE 802.3ae, IEEE 802.3x;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ethernet ports support 10/100/1000M/2500M self-adaptive;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support port Auto MDI/MDIX;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Panel indicator lights monitor working status and help failure analysis;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Supports giant frame 12K"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Supports Cat Stick (Nokia G-010S-A; Alcatel G-010S-P; Huawei MA5671A) and more"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Flow control mode, full duplex adopts IEEE802.3x standard, half duplex adopts Back pressure standard;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support Port Surge Protection: Common Mode 4KV, Differential Mode 2KV (Class C); ESD air 8KV, Contact"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"6KV (Class C)."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Application Environment】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Metro Optical Broadband Network: Data network operators such as telecommunication, cable TV, and network system integration, etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Broadband private network: Suitable for financial, government, oil, railway, electric power, public security, transportation, education and other industries."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Multimedia transmission: Integrated transmission of images, voice and data, suitable for remote teaching, conference TV, videophone and other applications."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Real-time monitoring: Simultaneous transmission of real-time control signals, images and data."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Technical Specification】"
+},
+{
+"t":"table",
+"rows":[
+[
+"I/O Interface"
+],
+[
+"Power",
+"DC 12V1A"
+],
+[
+"Ethernet",
+"4*100/1000/2500M RJ45 Ports / 2*10G SFP+ Ports"
+],
+[
+"Performance"
+],
+[
+"Bandwidth",
+"60Gbps"
+],
+[
+"Packet Forwarding Rate",
+"44.64Mpps"
+],
+[
+"Package cache",
+"8Mbit"
+],
+[
+"MAC Address Table",
+"4K"
+],
+[
+"Transfer Method",
+"Storage and forward"
+],
+[
+"Standard"
+],
+[
+"Network Protocol",
+"IEEE802.3 (Ethernet) / IEEE802.3u (Fast Ethernet) / IEEE802.3ab(Gigabit Ethernet) / IEEE 802.3bz (5G Ethernet) / IEEE 802.3z (Gigabit Ethernet) / IEEE 802.3ae (10G Ethernet) / IEEE802.3x (Flow control)"
+],
+[
+"Industry Standard",
+"EMS: EN61000-4-2 (ESD) / EN61000-4-5(Surge)"
+],
+[
+"Network Medium",
+"10Base-T: Cat3, 4, 5 or above UTP/STP(≤100m) / 100Base-TX: Cat5 or above UTP/STP(≤100m) / 1000Base-TX: Cat5 or above UTP/STP(≤100m) / 2.5GBase-T: Cat5e or above UTP/STP(≤100m) / 5GBase-T: Cat6 or above UTP/STP(≤100m) / 10GBase-T: Cat6a or above UTP/STP(≤100m)"
+],
+[
+"Network Medium",
+"1000BASE-SX: 62.5μm MMF(multi mode) (Minimum range：2m～275m) or 50μm MMF / 1000BASE-LX: 62.5μm/50μm MMF(Minimum range：2m～550m) or 10μm SMF(Minimum range：2m～5km) / 2500BASE-X: G.652D SMF(Single mode) (Minimum range：2m～500m or 2m～5km) / 10GBASE-SR: OM1/OM2/OM3 or above MMF(Operating range：2m～300m) / 10GBASE-LR: IEC B1.1 and B1.3 SMF(Minimum range：2m～10km)"
+],
+[
+"Environment standard"
+],
+[
+"Working Environment",
+"Working Temperature: 0~40°C / Storage Temperature: -40~70°C / Working Humidity: 10%~90%, non-condensing / Storage Temperature: 5%~95%, non-condensing"
+],
+[
+"Indicator"
+],
+[
+"PWR",
+"On: Powered on / Off: Powered off"
+],
+[
+"1-4 ports",
+"Green on: 2.5G Link connect normal / Yellow on: 10/100/1000M Link connect normal / Off: Link off / Flashing: Data transmitting"
+],
+[
+"5-6 Ports Green Light",
+"On: 10G Link connect normal / Off: Link off / Flashing: Data transmitting"
+],
+[
+"Physical Specification"
+],
+[
+"Structure Size",
+"Product Size: 140*93*28mm / Package Size: 203*160*55mm / Product Net-Weight: 0.33KG / Product Gross-Weight: 0.46KG"
+],
+[
+"Packing Info",
+"Carton Size: 580*335*445mm / Packing Qty: 40 pcs / Packing Weight: 19.5KG"
+],
+[
+"Power Voltage",
+"Adapter Input Voltage: AC 100-240 V / Switch Input Voltage: DC 12V1A"
+],
+[
+"Power",
+"Maximum 12W"
+],
+[
+"Packing List",
+"Switch 1PCS; Adaptor 1PCS; User Manual 1PCS, Certificate 1PCS"
+],
+[
+"Order Info"
+],
+[
+"ZX-SWTG024AS",
+"6 Port 10G Uplink 2.5G Ethernet Switch"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Rendering】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Structure】"
+}
+],
+"extracted_at":"2026-10-22T06:09:41Z"
+}

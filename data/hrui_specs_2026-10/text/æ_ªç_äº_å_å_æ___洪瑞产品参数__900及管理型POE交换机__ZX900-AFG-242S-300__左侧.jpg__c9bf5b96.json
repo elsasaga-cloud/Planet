@@ -1,0 +1,27 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AFG-242S-300__左侧.jpg__c9bf5b96",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/900及管理型POE交换机/ZX900-AFG-242S-300/左侧.jpg",
+"name":"左侧.jpg",
+"ext":".jpg",
+"bytes":1807248,
+"sha256":"c9bf5b9663bea6b62dc7f595c94b4b54229c39f6243a1c141535ee17f7a83d98",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":3456,
+"mode":"RGB",
+"datetime":"2023:11:30 18:33:44",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":5504
+},
+"warnings":[],
+"chars":20,
+"text":"poEMax @ ©\n1 3\npwr @",
+"extracted_at":"2026-10-22T06:12:07Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AFG-242S-300__左侧.jpg__c9bf5b96.jpg"
+}

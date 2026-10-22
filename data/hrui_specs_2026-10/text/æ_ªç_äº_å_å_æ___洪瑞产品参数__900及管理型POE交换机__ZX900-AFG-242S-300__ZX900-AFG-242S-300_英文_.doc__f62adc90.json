@@ -1,0 +1,267 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AFG-242S-300__ZX900-AFG-242S-300_英文_.doc__f62adc90",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/900及管理型POE交换机/ZX900-AFG-242S-300/ZX900-AFG-242S-300（英文).doc",
+"name":"ZX900-AFG-242S-300（英文).doc",
+"ext":".doc",
+"bytes":283846,
+"sha256":"f62adc90afafa958527cbae4095dc61c694a2f4b7edf64242bcfda5b401334c7",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-22T06:12:06+00:00",
+"paragraphs":21,
+"tables":2,
+"embedded_images":3
+},
+"warnings":[],
+"chars":4623,
+"text":"26 Port Full Gigabit PoE Switch\n【Product Description】\n26 Port Gigabit Ethernet PoE Switch, adopting high-quality and high-speed network IC, this switch thoroughly solves the problem of high noise when deploying small switches in office environments through a fan free silent design. This switch has 24* Gigabit PoE network ports and 2* Gigabit SFP ports, providing seamless connection for 10/100/1000M Ethernet for easy management and maintenance. The PoE power supply port can automatically detect and supply power to powered devices that comply with the IEEE802.3af/at standard. Non-PoE devices will not be powered by intelligent detection and only transmit data. It can be widely used in security network video surveillance, hotels, campus, small and medium-sized enterprise network engineering and other occasions.\n【Main Features】\nSupport 24* 10/100/1000M PoE Ports++2* Gigabit SFP Ports.\nSupport IEEE802.3, IEEE802.3u，IEEE802.3x，IEEE802.3ab，IEEE802.3z.\nEthernet Ports support 10/100/1000M self- adaptive.\nSupports automatic port flipping (Auto MDI/MDIX).\nAdopting a storage and forwarding exchange mechanism.\nAll ports support line speed switching.\n1U rack installation.\nPanel indicator monitoring status and help failure analysis.\nEquipped with a three speed one button intelligent dial switch, supporting VLAN, Default, and Extend modes.\nSupport port surge protection: Common Mode 4KV, Differential Mode 2KV( Class B), ESD: Air 8KV,\nContact 6KV (Class C).\n【Application Environment】\nSecurity Monitoring Network:\nThis product is widely used in the field of network monitoring and can provide data connection and power supply for network cameras,  allowing them to be installed in any location without considering power supply connection.\nWLAN Wireless Network:\nThis product is widely used in park WLAN wireless networking projects. PoE switches can provide power and data transmission for wireless APs (wireless access points), and only one network cable needs to be deployed to meet power and data transmission needs, greatly saving wiring costs.\n【Specification】\nI/O Interface\nPower Input\tAC100-240V / 50-60Hz\nEthernet\t24* 10/100/1000M PoE Ports / 2* Gigabit SFP Ports\nPerformance\nBandwidth\t52Gbps\nPacket Forward Rate\t38.68Mpps\nPackage Cache\t4Mbit\nMAC Address\t8K\nForwarding Mode\tStore and forward\nStandard\nNetwork Protocol\tIEEE 802.3: Ethernet Media Access Control (MAC) Protocol / IEEE 802.3i: 10BASE-T Ethernet / IEEE 802.3u: 100BASE-TX Fast Ethernet / IEEE 802.3ab: 1000BASE-T Gigabit Ethernet / IEEE 802.3z: 1000BASE-X Gigabit Ethernet (Fiber Optic) / IEEE 802.3x: Flow Control\nIndustry Standard\tEMS: EN61000-4-2 (ESD) / EN61000-4-5 (Surge)\nNetwork medium\t10Base-T: Cat 3, 4, 5 Class or above UTP/STP (≤ 100m) / 100Base-TX: Cat 5 Class or above UTP/STP (≤ 100m) / 1000Base-TX: Cat 5 Class or above UTP/STP (≤ 100m)\nOptical Medium\tMulti mode optical fiber: 50/125, 62.5/125, 100/140um / Single-mode optical fiber: 8/125, 8.7/125, 9/125, 10/125um\nEnvironment Standard\nWorking Environment\tWorking temperature: -10~50°C / Storage temperature: -40~70°C / Working humidity: 10%~90%, non-condensing / Storage humidity: 5%~95%, non-condensing\nIndicator\nIndicator\tPWR (Power Indicator), 1000M (Link Light), Act（Link&Data Link）\nPWR\tOn: Powered on / Off: Powered off\n1-26 Green\tOn: Link normal / Flashing: Data transmitting / Off: Link blocked\n1-24 Yellow / （POE）\tOn：POE powered on / Off：POE powered off\nPOE Max（Green）\tOff: Indicates PoE power usage is less than 90% / Flashing: Indicates PoE power usage of 90% ≤ P ≤ 95% / On: Indicates that PoE power usage is at 95%<P<100%\nVLAN\tPort isolation, ports 1-22 achieve isolation of monitoring, can only communicate with the ports 23-26, to protect internal network security.\nDefault\tNormal mode,  all ports can communicate with each other, transmission distance is within 100m,  transmission rate is 10/100/1000M self-adaptive.\nExtend\tLink extend mode, PoE power supply and data transmission distance of ports 17-24 can be extended to 250m,  but the transmission rate will down to 10M.\nPhysical Specification\nStructure Size\tProduct Dimensions: 440*204*44mm / Package Dimensions: 500*290*85mm / Product N.W: 2.82KG / Product G.W: 3.38KG\nPacking Info\tCarton Dimensions: 520*445*310mm / Packing Quantity: 5 PCS / Packing Weight: 17.5KG\nPower Voltage\tInput Voltage: AC 100-240V  50/60Hz / Supply Power: 52V 5.76A 300W\nPower Consumption\tProduct power: 18.379W / POE power: 286.46W\nPackage List\tSwitch 1 pc; Power cord 1 pc; User manual 1 pc; Certification 1 pc; Rack ear 1 pair\nOrder Info\nZX900-AFG-242S\t26 Port Full Gigabit PoE Switch\n【Product Picture】\n【Product Structure】\n[页眉页脚]\n4",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"26 Port Full Gigabit PoE Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Description】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"26 Port Gigabit Ethernet PoE Switch, adopting high-quality and high-speed network IC, this switch thoroughly solves the problem of high noise when deploying small switches in office environments through a fan free silent design. This switch has 24* Gigabit PoE network ports and 2* Gigabit SFP ports, providing seamless connection for 10/100/1000M Ethernet for easy management and maintenance. The PoE power supply port can automatically detect and supply power to powered devices that comply with the IEEE802.3af/at standard. Non-PoE devices will not be powered by intelligent detection and only transmit data. It can be widely used in security network video surveillance, hotels, campus, small and medium-sized enterprise network engineering and other occasions."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Main Features】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support 24* 10/100/1000M PoE Ports++2* Gigabit SFP Ports."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support IEEE802.3, IEEE802.3u，IEEE802.3x，IEEE802.3ab，IEEE802.3z."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ethernet Ports support 10/100/1000M self- adaptive."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Supports automatic port flipping (Auto MDI/MDIX)."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Adopting a storage and forwarding exchange mechanism."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"All ports support line speed switching."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1U rack installation."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Panel indicator monitoring status and help failure analysis."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Equipped with a three speed one button intelligent dial switch, supporting VLAN, Default, and Extend modes."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support port surge protection: Common Mode 4KV, Differential Mode 2KV( Class B), ESD: Air 8KV,"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Contact 6KV (Class C)."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Application Environment】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Security Monitoring Network:\nThis product is widely used in the field of network monitoring and can provide data connection and power supply for network cameras,  allowing them to be installed in any location without considering power supply connection."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"WLAN Wireless Network:\nThis product is widely used in park WLAN wireless networking projects. PoE switches can provide power and data transmission for wireless APs (wireless access points), and only one network cable needs to be deployed to meet power and data transmission needs, greatly saving wiring costs."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Specification】"
+},
+{
+"t":"table",
+"rows":[
+[
+"I/O Interface"
+],
+[
+"Power Input",
+"AC100-240V / 50-60Hz"
+],
+[
+"Ethernet",
+"24* 10/100/1000M PoE Ports / 2* Gigabit SFP Ports"
+],
+[
+"Performance"
+],
+[
+"Bandwidth",
+"52Gbps"
+],
+[
+"Packet Forward Rate",
+"38.68Mpps"
+],
+[
+"Package Cache",
+"4Mbit"
+],
+[
+"MAC Address",
+"8K"
+],
+[
+"Forwarding Mode",
+"Store and forward"
+],
+[
+"Standard"
+],
+[
+"Network Protocol",
+"IEEE 802.3: Ethernet Media Access Control (MAC) Protocol / IEEE 802.3i: 10BASE-T Ethernet / IEEE 802.3u: 100BASE-TX Fast Ethernet / IEEE 802.3ab: 1000BASE-T Gigabit Ethernet / IEEE 802.3z: 1000BASE-X Gigabit Ethernet (Fiber Optic) / IEEE 802.3x: Flow Control"
+],
+[
+"Industry Standard",
+"EMS: EN61000-4-2 (ESD) / EN61000-4-5 (Surge)"
+],
+[
+"Network medium",
+"10Base-T: Cat 3, 4, 5 Class or above UTP/STP (≤ 100m) / 100Base-TX: Cat 5 Class or above UTP/STP (≤ 100m) / 1000Base-TX: Cat 5 Class or above UTP/STP (≤ 100m)"
+],
+[
+"Optical Medium",
+"Multi mode optical fiber: 50/125, 62.5/125, 100/140um / Single-mode optical fiber: 8/125, 8.7/125, 9/125, 10/125um"
+],
+[
+"Environment Standard"
+],
+[
+"Working Environment",
+"Working temperature: -10~50°C / Storage temperature: -40~70°C / Working humidity: 10%~90%, non-condensing / Storage humidity: 5%~95%, non-condensing"
+],
+[
+"Indicator"
+],
+[
+"Indicator",
+"PWR (Power Indicator), 1000M (Link Light), Act（Link&Data Link）"
+],
+[
+"PWR",
+"On: Powered on / Off: Powered off"
+],
+[
+"1-26 Green",
+"On: Link normal / Flashing: Data transmitting / Off: Link blocked"
+],
+[
+"1-24 Yellow / （POE）",
+"On：POE powered on / Off：POE powered off"
+],
+[
+"POE Max（Green）",
+"Off: Indicates PoE power usage is less than 90% / Flashing: Indicates PoE power usage of 90% ≤ P ≤ 95% / On: Indicates that PoE power usage is at 95%<P<100%"
+],
+[
+"VLAN",
+"Port isolation, ports 1-22 achieve isolation of monitoring, can only communicate with the ports 23-26, to protect internal network security."
+],
+[
+"Default",
+"Normal mode,  all ports can communicate with each other, transmission distance is within 100m,  transmission rate is 10/100/1000M self-adaptive."
+],
+[
+"Extend",
+"Link extend mode, PoE power supply and data transmission distance of ports 17-24 can be extended to 250m,  but the transmission rate will down to 10M."
+],
+[
+"Physical Specification"
+],
+[
+"Structure Size",
+"Product Dimensions: 440*204*44mm / Package Dimensions: 500*290*85mm / Product N.W: 2.82KG / Product G.W: 3.38KG"
+],
+[
+"Packing Info",
+"Carton Dimensions: 520*445*310mm / Packing Quantity: 5 PCS / Packing Weight: 17.5KG"
+],
+[
+"Power Voltage",
+"Input Voltage: AC 100-240V  50/60Hz / Supply Power: 52V 5.76A 300W"
+],
+[
+"Power Consumption",
+"Product power: 18.379W / POE power: 286.46W"
+],
+[
+"Package List",
+"Switch 1 pc; Power cord 1 pc; User manual 1 pc; Certification 1 pc; Rack ear 1 pair"
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+"Order Info"
+],
+[
+"ZX900-AFG-242S",
+"26 Port Full Gigabit PoE Switch"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Picture】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Structure】"
+}
+],
+"extracted_at":"2026-10-22T06:12:06Z"
+}

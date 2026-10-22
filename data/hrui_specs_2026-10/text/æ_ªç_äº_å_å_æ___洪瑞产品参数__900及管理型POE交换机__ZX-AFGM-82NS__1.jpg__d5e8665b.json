@@ -1,0 +1,27 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX-AFGM-82NS__1.jpg__d5e8665b",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/900及管理型POE交换机/ZX-AFGM-82NS/1.jpg",
+"name":"1.jpg",
+"ext":".jpg",
+"bytes":1532783,
+"sha256":"d5e8665bf9fd5b7d94bee26bef89fc848bce76b4ba424c1088233396024e2e2d",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":4950,
+"height":3569,
+"mode":"RGB",
+"datetime":"2022:04:27 17:01:52",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":4323
+},
+"warnings":[],
+"chars":69,
+"text":"PoE\nLink/Act\nGigabit Managed PoE Switch | Reset\nConsole 5 PwR@ ”SYSs@",
+"extracted_at":"2026-10-22T06:12:35Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX-AFGM-82NS__1.jpg__d5e8665b.jpg"
+}

@@ -1,0 +1,27 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG10240D___MG_8367.jpg__276d47c9",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/交换机/ZX-SWG10240D/_MG_8367.jpg",
+"name":"_MG_8367.jpg",
+"ext":".jpg",
+"bytes":641139,
+"sha256":"276d47c957c01a75a5c85b3cce9ee793a552f115d84dd153d655fe46a1f33ad8",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":3456,
+"height":2304,
+"mode":"RGB",
+"datetime":"2020:05:07 16:52:12",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC (Windows)",
+"thumb_bytes":2589
+},
+"warnings":[],
+"chars":16,
+"text":"ACINPUT\n100-240V",
+"extracted_at":"2026-10-22T06:09:49Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG10240D___MG_8367.jpg__276d47c9.jpg"
+}

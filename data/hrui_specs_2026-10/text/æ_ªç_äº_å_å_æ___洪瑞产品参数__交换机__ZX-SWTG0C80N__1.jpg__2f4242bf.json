@@ -1,0 +1,27 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTG0C80N__1.jpg__2f4242bf",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/交换机/ZX-SWTG0C80N/1.jpg",
+"name":"1.jpg",
+"ext":".jpg",
+"bytes":1541690,
+"sha256":"2f4242bf40a4ad17fe52f7ab77eac091ccb83b9d76804e25bb225b61d5df24fe",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":3456,
+"mode":"RGB",
+"datetime":"2023:04:04 16:25:53",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":4160
+},
+"warnings":[],
+"chars":63,
+"text":"m= 10G Link/Act\n四 100/1000M Link/Act\n10G Ethernet Switch\n10G/1G",
+"extracted_at":"2026-10-22T06:10:21Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTG0C80N__1.jpg__2f4242bf.jpg"
+}

@@ -1,0 +1,27 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTG3424S__正面.jpg__a4a225ca",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/交换机/ZX-SWTG3424S/正面.jpg",
+"name":"正面.jpg",
+"ext":".jpg",
+"bytes":1875130,
+"sha256":"a4a225ca6b013bacb74bba377bf5240a27e7a19f6e70976143f27238b798c71a",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":5065,
+"height":3376,
+"mode":"RGB",
+"datetime":"2021:03:05 11:49:27",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":5087
+},
+"warnings":[],
+"chars":23,
+"text":"Managed Ethernet Switch",
+"extracted_at":"2026-10-22T06:10:36Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTG3424S__正面.jpg__a4a225ca.jpg"
+}

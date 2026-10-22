@@ -1,0 +1,27 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__902POE交换机__ZX902-AFG-42N-65__ZX902-AFG-42N-65正面.jpg__3f52fc09",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/902POE交换机/ZX902-AFG-42N-65/ZX902-AFG-42N-65正面.jpg",
+"name":"ZX902-AFG-42N-65正面.jpg",
+"ext":".jpg",
+"bytes":353699,
+"sha256":"3f52fc0921b3d43823305713e0205246690e8f65c04985efbcd6d5f163eccf2e",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":3456,
+"height":2304,
+"mode":"RGB",
+"datetime":"2024:01:17 10:23:10",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":4050
+},
+"warnings":[],
+"chars":74,
+"text":"「 10/100/1000M PoE Port 一 一\nExtend(3-4)\nGigabit PoE Switch\nPWR @ @ Mode 1@",
+"extracted_at":"2026-10-22T06:11:35Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__902POE交换机__ZX902-AFG-42N-65__ZX902-AFG-42N-65正面.jpg__3f52fc09.jpg"
+}

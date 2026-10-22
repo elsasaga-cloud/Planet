@@ -1,0 +1,23 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG2082NS__3-1.jpg__759a1d06",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/交换机/ZX-SWG2082NS/3-1.jpg",
+"name":"3-1.jpg",
+"ext":".jpg",
+"bytes":641794,
+"sha256":"759a1d06f77f50cb4ae2696411f63438bbeff979b63b88322ab9eee8819d7fe4",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":4950,
+"height":3569,
+"mode":"RGB",
+"thumb_bytes":4355
+},
+"warnings":[],
+"chars":82,
+"text":"Link/Act\nioddl WO0OL/001/0}\nGigabit Managed Switch\nmom ate, | sit\nConsole 10@ PWRe",
+"extracted_at":"2026-10-22T06:10:55Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG2082NS__3-1.jpg__759a1d06.jpg"
+}

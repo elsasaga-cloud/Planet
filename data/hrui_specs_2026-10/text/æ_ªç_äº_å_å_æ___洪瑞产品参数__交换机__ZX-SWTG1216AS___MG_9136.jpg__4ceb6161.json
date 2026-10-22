@@ -1,0 +1,27 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTG1216AS___MG_9136.jpg__4ceb6161",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/交换机/ZX-SWTG1216AS/_MG_9136.jpg",
+"name":"_MG_9136.jpg",
+"ext":".jpg",
+"bytes":1147552,
+"sha256":"4ceb61616e8b6b98f16325f6822b2e93d1aa8e942d1d924cd4444966052dde9c",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":3456,
+"mode":"RGB",
+"datetime":"2023:06:15 15:01:49",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":3486
+},
+"warnings":[],
+"chars":20,
+"text":"2.5G Ethernet Switch",
+"extracted_at":"2026-10-22T06:09:52Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTG1216AS___MG_9136.jpg__4ceb6161.jpg"
+}

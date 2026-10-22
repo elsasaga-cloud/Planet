@@ -1,0 +1,27 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AF-42N___MG_2740.jpg__3fc3cde7",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/900及管理型POE交换机/ZX900-AF-42N/_MG_2740.jpg",
+"name":"_MG_2740.jpg",
+"ext":".jpg",
+"bytes":817401,
+"sha256":"3fc3cde7594045c3af5184ca828369639848958732ab4f70caa0f99e31a623ad",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":3456,
+"height":2304,
+"mode":"RGB",
+"datetime":"2020:11:20 09:27:32",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC (Windows)",
+"thumb_bytes":3884
+},
+"warnings":[],
+"chars":29,
+"text":"OFF\nAl PoE Switch VLAN Extend",
+"extracted_at":"2026-10-22T06:13:12Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__900及管理型POE交换机__ZX900-AF-42N___MG_2740.jpg__3fc3cde7.jpg"
+}

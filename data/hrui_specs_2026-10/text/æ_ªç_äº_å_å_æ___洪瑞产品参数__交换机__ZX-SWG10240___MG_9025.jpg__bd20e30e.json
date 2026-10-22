@@ -1,0 +1,27 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG10240___MG_9025.jpg__bd20e30e",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/交换机/ZX-SWG10240/_MG_9025.jpg",
+"name":"_MG_9025.jpg",
+"ext":".jpg",
+"bytes":1240308,
+"sha256":"bd20e30e31127881efc8e52d7fec70ef2c6d42d97f7e5ecaa174504beda2ff5d",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":3456,
+"mode":"RGB",
+"datetime":"2020:07:13 17:27:14",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC (Windows)",
+"thumb_bytes":4082
+},
+"warnings":[],
+"chars":57,
+"text":"23{Uplink)\nruR2 4 6 8 10\nGenius Gigabit Switch\n24(uplink)",
+"extracted_at":"2026-10-22T06:10:27Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG10240___MG_9025.jpg__bd20e30e.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTG342408F___MG_9161.png__9daaa0ab",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/交换机/ZX-SWTG342408F/_MG_9161.png",
+"name":"_MG_9161.png",
+"ext":".png",
+"bytes":2760101,
+"sha256":"9daaa0ab5fb498ec3d7e11c05d285ee1431b130a2bd2b0e1c950536254b803e1",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":5184,
+"height":3456,
+"mode":"RGBA",
+"thumb_bytes":2412
+},
+"warnings":[],
+"chars":25,
+"text":"全 ony\n@\nAC INPUT 100-240V",
+"extracted_at":"2026-10-22T06:10:21Z",
+"thumb":"thumbs/æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWTG342408F___MG_9161.png__9daaa0ab.jpg"
+}

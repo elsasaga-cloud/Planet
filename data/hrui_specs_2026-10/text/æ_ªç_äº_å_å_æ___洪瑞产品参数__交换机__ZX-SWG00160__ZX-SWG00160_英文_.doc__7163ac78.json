@@ -1,0 +1,220 @@
+{
+"id":"æ_ªç_äº_å_å_æ___洪瑞产品参数__交换机__ZX-SWG00160__ZX-SWG00160_英文_.doc__7163ac78",
+"path":"æ´ªçäº§ååæ°/洪瑞产品参数/交换机/ZX-SWG00160/ZX-SWG00160（英文）.doc",
+"name":"ZX-SWG00160（英文）.doc",
+"ext":".doc",
+"bytes":205312,
+"sha256":"7163ac783ee8e8278785669564cccfbf62a447067d2103f220c26fc5211ee9c1",
+"source":"æ´ªçäº§ååæ°.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-22T06:10:51+00:00",
+"paragraphs":19,
+"tables":1,
+"embedded_images":2
+},
+"warnings":[],
+"chars":2891,
+"text":"Port Gigabit Ethernet Switch\n【Product Description】\nThe 16-port Gigabit Ethernet switch adopts high-quality and high-speed network ICs, and this product completely solves the problem of noise of small switches in the office environment through the fanless mute design. This switch has 16 Gigabit RJ45 ports, can provide seamless connection for 10/100/1000M Ethernet, easy to manage and maintain, the product can be widely used in Security network video surveillance, hotel, campus, small and medium-sized enterprise network engineering and other occasions.\n【Main Features】\n16*10/100/1000M RJ45 Ports\nApply to IEEE802.3, IEEE802.3u, IEEE802.3ab standard\nEthernet port supports 10/100/1000M adaptive\nSupport auto MDI/MDIX\nPanel indicators to monitor working status and help fault analysis\nFlow control, full duplex adopts IEEE802.3x standard, half duplex adopts Backpressure standard\nSupport port lightning protection Surge: common mode 4KV, differential mode 2KV; Electrostatic ESD: Air 8KV, Contact 6KV\n【Application Environment】\nMetro Optical Broadband Network: Data network operators such as telecommunications, cable TV, and network system integration,etc.\nBroadband private network: Suitable for financial, government, oil, railway, electric power, public security, transportation, education and other industries\nMultimedia transmission: Integrated transmission of images, voice and data, suitable for remote teaching, conference TV, videophone and other applications\nReal-time monitoring: Simultaneous transmission of real-time control signals, images and data\n【Specifications】\nI/O Interface\nPower\tDC 12V\nEthernet\t16*10/100/1000Mbps RJ45 Ports\nPerformance\nBackplane bandwidth\t32Gbps\nPack Forwarding Rate\t23.8Mpps\nPack Cache\t4Mbit\nMAC Address\t8K\nTransfer Mode\tStorage & Forwarding\nStandard\nNetwork protocol\tIEEE802.3 (10Base-T) / IEEE802.3u (100Base-TX) / IEEE802.3ab (1000Base-TX) / IEEE802.3x (Flow control)\nNetwork Medium\t10Base-T: Cat3, 4, 5 or above UTP(≤100m) / 100Base-TX: Cat5  or above UTP(≤100m) / 1000Base-TX: Cat5 or aboveUTP(≤100m)\nEnvironment\nWorking Environment\tWorking Temperature：-0~40°C / Storage Temperature：-40~70°C / Working Humidity ：10%~90%，non-condensing / Storage Temperature：5%~95%，non-condensing\nPower Voltage\tPower adapter input voltage: AC 100-240V 50/60Hz / Power adapter output voltage: 12V 1A\nPower\tMaximum 24W\nIndication\nIndicator Light\tPort light\nPort light\tOn: Link connect normal / Off: Link off / Flash: Data transmission\nPhysical Specifications\nStructure size\tProduct Size: 240*102*30mm / Package Size: 255*125*65mm / Product Net-Weight: 0.59Kg / Product Gross-Weight: 0.74Kg\nPacking Info\tPacking Size: 505*370*257mm / Packing Quantity: 20PCS / Packing Weights: 15.8KG\nPackage List\tSwitch 1 pcs, Power cord 1 pcs, User manual 1 pc, Instructions 1 pc\nOrder Info\nZX-SWG00160\t16-Port Gigabit Ethernet Switch\n【Product Picture】\n【Product Structure】\n[页眉页脚]\n3",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Port Gigabit Ethernet Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Description】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The 16-port Gigabit Ethernet switch adopts high-quality and high-speed network ICs, and this product completely solves the problem of noise of small switches in the office environment through the fanless mute design. This switch has 16 Gigabit RJ45 ports, can provide seamless connection for 10/100/1000M Ethernet, easy to manage and maintain, the product can be widely used in Security network video surveillance, hotel, campus, small and medium-sized enterprise network engineering and other occasions."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Main Features】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"16*10/100/1000M RJ45 Ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Apply to IEEE802.3, IEEE802.3u, IEEE802.3ab standard"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ethernet port supports 10/100/1000M adaptive"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support auto MDI/MDIX"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Panel indicators to monitor working status and help fault analysis"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Flow control, full duplex adopts IEEE802.3x standard, half duplex adopts Backpressure standard"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support port lightning protection Surge: common mode 4KV, differential mode 2KV; Electrostatic ESD: Air 8KV, Contact 6KV"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Application Environment】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Metro Optical Broadband Network: Data network operators such as telecommunications, cable TV, and network system integration,etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Broadband private network: Suitable for financial, government, oil, railway, electric power, public security, transportation, education and other industries"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Multimedia transmission: Integrated transmission of images, voice and data, suitable for remote teaching, conference TV, videophone and other applications"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Real-time monitoring: Simultaneous transmission of real-time control signals, images and data"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Specifications】"
+},
+{
+"t":"table",
+"rows":[
+[
+"I/O Interface"
+],
+[
+"Power",
+"DC 12V"
+],
+[
+"Ethernet",
+"16*10/100/1000Mbps RJ45 Ports"
+],
+[
+"Performance"
+],
+[
+"Backplane bandwidth",
+"32Gbps"
+],
+[
+"Pack Forwarding Rate",
+"23.8Mpps"
+],
+[
+"Pack Cache",
+"4Mbit"
+],
+[
+"MAC Address",
+"8K"
+],
+[
+"Transfer Mode",
+"Storage & Forwarding"
+],
+[
+"Standard"
+],
+[
+"Network protocol",
+"IEEE802.3 (10Base-T) / IEEE802.3u (100Base-TX) / IEEE802.3ab (1000Base-TX) / IEEE802.3x (Flow control)"
+],
+[
+"Network Medium",
+"10Base-T: Cat3, 4, 5 or above UTP(≤100m) / 100Base-TX: Cat5  or above UTP(≤100m) / 1000Base-TX: Cat5 or aboveUTP(≤100m)"
+],
+[
+"Environment"
+],
+[
+"Working Environment",
+"Working Temperature：-0~40°C / Storage Temperature：-40~70°C / Working Humidity ：10%~90%，non-condensing / Storage Temperature：5%~95%，non-condensing"
+],
+[
+"Power Voltage",
+"Power adapter input voltage: AC 100-240V 50/60Hz / Power adapter output voltage: 12V 1A"
+],
+[
+"Power",
+"Maximum 24W"
+],
+[
+"Indication"
+],
+[
+"Indicator Light",
+"Port light"
+],
+[
+"Port light",
+"On: Link connect normal / Off: Link off / Flash: Data transmission"
+],
+[
+"Physical Specifications"
+],
+[
+"Structure size",
+"Product Size: 240*102*30mm / Package Size: 255*125*65mm / Product Net-Weight: 0.59Kg / Product Gross-Weight: 0.74Kg"
+],
+[
+"Packing Info",
+"Packing Size: 505*370*257mm / Packing Quantity: 20PCS / Packing Weights: 15.8KG"
+],
+[
+"Package List",
+"Switch 1 pcs, Power cord 1 pcs, User manual 1 pc, Instructions 1 pc"
+],
+[
+"Order Info"
+],
+[
+"ZX-SWG00160",
+"16-Port Gigabit Ethernet Switch"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Picture】"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"【Product Structure】"
+}
+],
+"extracted_at":"2026-10-22T06:10:51Z"
+}
