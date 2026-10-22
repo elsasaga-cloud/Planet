@@ -1,0 +1,1378 @@
+{
+"id":"1Det3utGaWwrSwDdplSiMU9K00HwRSl4e",
+"name":"Performance of SerdesX Platform_EN_V3.1.pptx",
+"path":"CENTEC Based High-Speed Network/Performance of SerdesX Platform_EN_V3.1.pptx",
+"type":"PPT",
+"ext":".pptx",
+"bytes":64211,
+"sha256":"cd040ac0f37e1d4caaf452d64497cdfbed2fd02397f18ce50790fae7f7c5cdee",
+"extracted_at":"2026-10-22T08:37:56Z",
+"method":"python-pptx",
+"status":"ok",
+"chars":8297,
+"meta":{
+"slides":10,
+"pictures":0
+},
+"warnings":[],
+"text":"[slide 1]\nSAGA TELECOM SERDESX PLATFORM PERFORMANCE\nHigh Performance Switching Hardware Platform\nPlatform Overview\nSerdesX platform a high-performance, high-density hardware switching platform that provides high-bandwidth network support for AI applications.\nSerdexX platform supports multiple port forms such as 100G/200G/400G/800G and can adapt to various network deployment requirements.\nKey Features of the SerdesX Platform\nRich network virtualization and intelligent lossless network features, support priority-based flow control (PFC), explicit congestion notification (ECN), MLAG (Multi-Chassis Link Aggregation) etc.\nFull set of Layer 2 and Layer 3 protocol\nIntelligent Ethernet OAM Security feature set\nTable 1: Performance of SerdesX Platform\nPerformance of the SerdesX Platform\nVersion: V3.1\u000bRelease Date: 2025/12/30\nType\tSpecification\tValue\nEthernet Basic\t\t\nJumbo Frame\tMaximum jumbo frame size\t9600\nUnicast MAC\tMAC address capacity\tDefault profile:122880\n\t\tIPv6 profile: 65536\n\t\tLayer3 profile: 65536\n\t\tMPLS profile: 131072\n\tMAC learning rate (SW)\t> 4000pps\n\tMAC learning rate (HW)\t> 10Gbps\n\tBlackhole MAC address capacity\t128\nMulticast MAC\tMAC address capacity\tDefault profile: 2048\n\t\tIPv6 profile: 1024\n\t\tLayer3 profile: 1024\n\t\tMPLS profile: 2048\n\n[slide 2]\nTable 1: Performance of SerdesX Platform (Continued)\nType\tSpecification\tValue\nEthernet Basic\t\t\nVLAN\tVLAN IDs\t4094\n\tVLAN instances\t4094\n\tVLANs to enable statistics\t256\nVLAN Mapping\tMaximum mapping table\t64\n\tMaximum rules number\t3072\nEVC\tMaximum EVC number\t4094\nLink Aggregation (Static & LACP)\tMaximum member number per group\tNo limitation\n\tMaximum Group Num\t64\n\tLoad balance key mode\tStatic/Dlb/RR/Resilient/Self-healing\n\tConvergence time\t< 50ms\nVLAN Classification\tMaximum rule number\t4096\n\tMaximum group number\t1\n\tBase MAC capacity\t512\n\tBase IPv4 capacity\t448\n\tBase IPv6 capacity\t32\n\tBase protocol capacity\t7\nEthernet Ring Protection\t\t\nSTP\tConvergence time\t< 30s\nRSTP\tConvergence time\t< 1s\nMSTP\tInstance number\t64\n\tConvergence time\t< 1s\nERPS\tDomain number\t16\n\tRing number\t1 Primary ring/domain\n\t\t2 Sub ring/domain\n\tProtection instance number per Ring\t64\n\tSwitchover time\t< 50 ms\n\n[slide 3]\nTable 1: Performance of SerdesX Platform (Continued)\nType\tSpecification\tValue\nEthernet OAM\t\t\nCFM (802.1ag)\tMaximum session number\t1024\n\tMaximum domain number\t8\n\tCCM interval types\t7\n\tCCM minimum interval\t3.3ms\n\tMaximum down MEP number\t1024\n\tMaximum up MEP number\t1024\n\tMaximum LMEP number\t1024\nIPv4 Unicast\t\t\nARP\tARP capacity\tDefault profile: 16384\n\t\tIPv6 profile: 16384\n\t\tLayer3 profile: 20480\n\t\tMPLS profile: 16384\nIPv4\tFIB\tDefault profile: 61440\n\t\tIPv6 profile: 32768\n\t\tLayer3 profile: 61440\n\t\tMPLS profile: 61440\nECMP\tECMP group\t240 (Share with IPv6)\nPBR\tPolicy route map\t64\n\tPolicy based routing ACE\t1024\nOSPF\tMaximum static neighbors\t256\n\tMaximum summary address\t2048\nIPv4 Multicast\t\t\nIPMC\tMulticast routing table\tDefault profile: 2048\n\t\tIPv6 profile: 1024\n\t\tLayer3 profile: 2048\n\t\tMPLS profile: 1024\n\tMulticast routing downstream interfaces\tDefault profile: 4096\n\n[slide 4]\nTable 1: Performance of SerdesX Platform (Continued)\nType\tSpecification\tValue\nIPv4 Multicast\t\t\nIPMC\tMulticast routing downstream interfaces\tIPv6 profile: 2048\n\t\tLayer3 profile: 5120\n\t\tMPLS profile: 2048\nIGMP Snooping\tMaximum groups number\t2048\n\tMaximum member number\tN/A\nMVR\tMaximum group number\tDefault profile: 2048\n\t\tIPv6 profile: 1024\n\t\tLayer3 Profile: 2048\n\t\tMPLS profile: 1024\n\tMaximum member number\tDefault profile: 4096\n\t\tIPv6 profile: 2048\n\t\tLayer3 profile: 5120\n\t\tMPLS profile: 2048\nIPv6 Unicast\t\t\nHost Route\tNDP capacity\tDefault profile: 2048\n\t\tIPv6 profile: 8192\n\t\tLayer3 Profile: 2048\n\t\tMPLS profile: 2048\nIPv6\tFIBv6\tDefault profile: 4096\n\t\tIPv6 profile: 16384\n\t\tLayer3 Profile: 4096\n\t\tMPLS profile: 2048\n\tECMP group\t240 (share with IPv4)\nIPv6 Multicast\t\t\nIPMC\tMulticast routing table\tDefault profile: 256\n\t\tIPv6 profile: 512\n\t\tLayer3 Profile: 0\n\t\tMPLS profile: 1024\n\n[slide 5]\nTable 1: Performance of SerdesX Platform (Continued)\nType\tSpecification\tValue\nIPv6 Multicast\t\t\nIPMC\tNumber of interfaces that support Multicast routing table\tDefault profile: 512\n\t\tIPv6 profile: 1024\n\t\tLayer3 Profile: 0\n\t\tMPLS profile: 2048\nMVR V6\tMaximum entry number\tDefault profile: 256\n\t\tIPv6 Profile: 512\n\t\tLayer3 Profile: 0\n\t\tMPLS profile: 0\n\tMaximum member number\tDefault profile: 512\n\t\tIPv6 profile: 1024\n\t\tLayer3 Profile: 0\n\t\tMPLS profile: 0\nIP tunnel\t\t\nIP Tunnel\tTunnel peer capacity\t8\nQoS\t\t\nPer-port Queue Number\tUnicast queue\t10\n\tMulticast queue\t10\n\tMonitor queue\t10\nPacket Buffer\tSystem packet buffer capacity\t128MByte\nGranularity\tPolicer granularity\t0~2M: 10K\n\t\t2M~100M: 40K\n\t\t100M~1G: 80K\n\t\t1G~2G: 120K\n\t\t2G~4G: 250K\n\tQueue shape granularity\t4G~10G: 500K\n\tPort shape granularity\t10k\nFlow Entry\tIngress port QoS ipv4 flow entries\t1532\n\n[slide 6]\nTable 1: Performance of SerdesX Platform (Continued)\nType\tSpecification\tValue\nQoS\t\t\nFlow Entry\tIngress port QoS ipv6 flow entries\t1532\n\tIngress port qos flow statistics entries\t511\nACL\t\t\nMAC ACL\tIngress Port ACL for MAC\tDefault Profile: 2877\n\t\tIPv6 Profile: 2877\n\t\tLayer3 Profile: 2880\n\t\tMPLS profile: 2880\n\tIngress VLAN ACL for MAC\tDefault Profile: 2877\n\t\tIPv6 Profile: 2877\n\t\tLayer3 Profile: 2880\n\t\tMPLS profile: 2880\n\tEgress Port ACL for MAC\tDefault Profile: 1389\n\t\tIPv6 Profile: 1389\n\t\tLayer3 Profile: 1440\n\t\tMPLS profile: 1440\n\tEgress VLAN ACL for MAC\tDefault Profile: 1389\n\t\tIPv6 Profile: 1389\n\t\tLayer3 Profile: 1440\n\t\tMPLS profile: 1440\nIPv4 ACL\tIngress port ACL for IPv4\tDefault Profile: 2877\n\t\tIPv6 Profile: 2877\n\t\tLayer3 Profile: 2880\n\t\tMPLS profile: 2880\n\tIngress VLAN ACL for IPv4\tDefault Profile: 2877\n\t\tIPv6 Profile: 2877\n\t\tLayer3 Profile: 2880\n\t\tMPLS profile: 2880\n\n[slide 7]\nTable 1: Performance of SerdesX Platform (Continued)\nType\tSpecification\tValue\nACL\t\t\nIPv4 ACL\tEgress port ACL for IPv4\tDefault Profile: 1389\n\t\tIPv6 Profile: 1389\n\t\tLayer3 Profile: 1440\n\t\tMPLS profile: 1440\n\tEgress VLAN ACL for IPv4\tDefault Profile: 1389\n\t\tIPv6 Profile: 1389\n\t\tLayer3 Profile: 1440\n\t\tMPLS profile: 1440\nIPv6 ACL\tIngress port ACL for IPv6\tDefault Profile: 2877\n\t\tIPv6 Profile: 2877\n\t\tLayer3 Profile: 2880\n\t\tMPLS profile: 2880\n\tIngress VLAN ACL for IPv6\tDefault Profile: 2877\n\t\tIPv6 Profile: 2877\n\t\tLayer3 Profile: 2880\n\t\tMPLS profile: 2880\n\tEgress port ACL for IPv6\tDefault Profile: 1389\n\t\tIPv6 Profile: 1389\n\t\tLayer3 Profile: 1440\n\t\tMPLS profile: 1440\n\tEgress VLAN ACL for IPv6\tDefault Profile: 1389\n\t\tIPv6 Profile: 1389\n\t\tLayer3 Profile: 1440\n\t\tMPLS profile: 1440\nACL Flow Statistics\tIngress ACL flow statistics entries\tDefault Profile: 2877\n\t\tIPv6 Profile: 2877\n\t\tLayer3 Profile: 2880\n\t\tMPLS profile: 2880\n\n[slide 8]\nTable 1: Performance of SerdesX Platform (Continued)\nType\tSpecification\tValue\nACL\t\t\nACL Flow Statistics\tEgress ACL flow statistics entries\tDefault Profile: 1389\n\t\tIPv6 Profile: 1389\n\t\tLayer3 Profile: 1440\n\t\tMPLS profile: 1440\nCoPP\tCoPP rules\t1500\n\tCoPP flow statistics entries\t1500\nUDF\tUDF rules\t512\n\tUDF flow stats entries\t1024\nSecurity\t\t\nIP Source Guard\tIPv4 maximum rules number\t2048\n\tIPv6 maximum rules number\t64\n802.1x Base MAC\tMaximum entries\t512\nDHCP Snooping\tMaximum bound entry\t4096\nIPFIX\t\t\nIPFIX\tIPFIX member\t4096\nReliability\t\t\nBFD\tMaximum session number\tShare 256\nS-BFD\tMaximum session number\tShare 256\nVRRP\tMaximum group number\t63\nSmart Link\tMaximum group number\t16\n\tMaximum instance number\t64\n\tSwitchover time\t<50ms\nMonitor Link\tMaximum group number\t16\n\tMaximum up-link number per group\t24\nData Center\t\t\nVARP\tVirtual IP number per port\t15\nVXLAN\tVXLAN tunnel\tDefault Profile: 16384\n\n[slide 9]\nTable 1: Performance of SerdesX Platform (Continued)\nType\tSpecification\tValue\nData Center\t\t\nVXLAN\tVXLAN tunnel\tIPv6 Profile: 16384\n\t\tLayer3 Profile: 16384\n\t\tMPLS profile: 4096\n\tVNI\tDefault Profile: 4092\n\t\tIPv6 Profile: 4092\n\t\tLayer3 Profile: 4092\n\t\tMPLS profile: 2000\n\tVTEP peer\tDefault Profile: 2048\n\t\tIPv6 Profile: 2048\n\t\tLayer3 Profile: 2048\n\t\tMPLS profile: 128\n\n[slide 10]\nProduct List Based on SerdesX Platform\nTable 2: Product List Based on SerdesX Platform\nSeries\tModel\tSpecification\nSTH800G\tSTH-32OC-HSI\t32*800G OSFP, 2U\n4*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules\nSTH400G\tSTH-64QC-HSI\t64*400G QSFP112, 2U\n4*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules\n\tSTH-32QC-HSI\t32*400G QSFP112\n6*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules",
+"slides":[
+{
+"n":1,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Specification",
+"Value"
+],
+[
+"Ethernet Basic",
+"",
+""
+],
+[
+"Jumbo Frame",
+"Maximum jumbo frame size",
+"9600"
+],
+[
+"Unicast MAC",
+"MAC address capacity",
+"Default profile:122880"
+],
+[
+"",
+"",
+"IPv6 profile: 65536"
+],
+[
+"",
+"",
+"Layer3 profile: 65536"
+],
+[
+"",
+"",
+"MPLS profile: 131072"
+],
+[
+"",
+"MAC learning rate (SW)",
+"> 4000pps"
+],
+[
+"",
+"MAC learning rate (HW)",
+"> 10Gbps"
+],
+[
+"",
+"Blackhole MAC address capacity",
+"128"
+],
+[
+"Multicast MAC",
+"MAC address capacity",
+"Default profile: 2048"
+],
+[
+"",
+"",
+"IPv6 profile: 1024"
+],
+[
+"",
+"",
+"Layer3 profile: 1024"
+],
+[
+"",
+"",
+"MPLS profile: 2048"
+]
+]
+},
+{
+"t":"p",
+"text":"SAGA TELECOM SERDESX PLATFORM PERFORMANCE\nHigh Performance Switching Hardware Platform"
+},
+{
+"t":"p",
+"text":"Platform Overview"
+},
+{
+"t":"p",
+"text":"SerdesX platform a high-performance, high-density hardware switching platform that provides high-bandwidth network support for AI applications.\nSerdexX platform supports multiple port forms such as 100G/200G/400G/800G and can adapt to various network deployment requirements."
+},
+{
+"t":"p",
+"text":"Key Features of the SerdesX Platform"
+},
+{
+"t":"p",
+"text":"Rich network virtualization and intelligent lossless network features, support priority-based flow control (PFC), explicit congestion notification (ECN), MLAG (Multi-Chassis Link Aggregation) etc.\nFull set of Layer 2 and Layer 3 protocol\nIntelligent Ethernet OAM Security feature set"
+},
+{
+"t":"p",
+"text":"Table 1: Performance of SerdesX Platform"
+},
+{
+"t":"p",
+"text":"Performance of the SerdesX Platform"
+},
+{
+"t":"p",
+"text":"Version: V3.1\u000bRelease Date: 2025/12/30"
+}
+],
+"notes":""
+},
+{
+"n":2,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Specification",
+"Value"
+],
+[
+"Ethernet Basic",
+"",
+""
+],
+[
+"VLAN",
+"VLAN IDs",
+"4094"
+],
+[
+"",
+"VLAN instances",
+"4094"
+],
+[
+"",
+"VLANs to enable statistics",
+"256"
+],
+[
+"VLAN Mapping",
+"Maximum mapping table",
+"64"
+],
+[
+"",
+"Maximum rules number",
+"3072"
+],
+[
+"EVC",
+"Maximum EVC number",
+"4094"
+],
+[
+"Link Aggregation (Static & LACP)",
+"Maximum member number per group",
+"No limitation"
+],
+[
+"",
+"Maximum Group Num",
+"64"
+],
+[
+"",
+"Load balance key mode",
+"Static/Dlb/RR/Resilient/Self-healing"
+],
+[
+"",
+"Convergence time",
+"< 50ms"
+],
+[
+"VLAN Classification",
+"Maximum rule number",
+"4096"
+],
+[
+"",
+"Maximum group number",
+"1"
+],
+[
+"",
+"Base MAC capacity",
+"512"
+],
+[
+"",
+"Base IPv4 capacity",
+"448"
+],
+[
+"",
+"Base IPv6 capacity",
+"32"
+],
+[
+"",
+"Base protocol capacity",
+"7"
+],
+[
+"Ethernet Ring Protection",
+"",
+""
+],
+[
+"STP",
+"Convergence time",
+"< 30s"
+],
+[
+"RSTP",
+"Convergence time",
+"< 1s"
+],
+[
+"MSTP",
+"Instance number",
+"64"
+],
+[
+"",
+"Convergence time",
+"< 1s"
+],
+[
+"ERPS",
+"Domain number",
+"16"
+],
+[
+"",
+"Ring number",
+"1 Primary ring/domain"
+],
+[
+"",
+"",
+"2 Sub ring/domain"
+],
+[
+"",
+"Protection instance number per Ring",
+"64"
+],
+[
+"",
+"Switchover time",
+"< 50 ms"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 1: Performance of SerdesX Platform (Continued)"
+}
+],
+"notes":""
+},
+{
+"n":3,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Specification",
+"Value"
+],
+[
+"Ethernet OAM",
+"",
+""
+],
+[
+"CFM (802.1ag)",
+"Maximum session number",
+"1024"
+],
+[
+"",
+"Maximum domain number",
+"8"
+],
+[
+"",
+"CCM interval types",
+"7"
+],
+[
+"",
+"CCM minimum interval",
+"3.3ms"
+],
+[
+"",
+"Maximum down MEP number",
+"1024"
+],
+[
+"",
+"Maximum up MEP number",
+"1024"
+],
+[
+"",
+"Maximum LMEP number",
+"1024"
+],
+[
+"IPv4 Unicast",
+"",
+""
+],
+[
+"ARP",
+"ARP capacity",
+"Default profile: 16384"
+],
+[
+"",
+"",
+"IPv6 profile: 16384"
+],
+[
+"",
+"",
+"Layer3 profile: 20480"
+],
+[
+"",
+"",
+"MPLS profile: 16384"
+],
+[
+"IPv4",
+"FIB",
+"Default profile: 61440"
+],
+[
+"",
+"",
+"IPv6 profile: 32768"
+],
+[
+"",
+"",
+"Layer3 profile: 61440"
+],
+[
+"",
+"",
+"MPLS profile: 61440"
+],
+[
+"ECMP",
+"ECMP group",
+"240 (Share with IPv6)"
+],
+[
+"PBR",
+"Policy route map",
+"64"
+],
+[
+"",
+"Policy based routing ACE",
+"1024"
+],
+[
+"OSPF",
+"Maximum static neighbors",
+"256"
+],
+[
+"",
+"Maximum summary address",
+"2048"
+],
+[
+"IPv4 Multicast",
+"",
+""
+],
+[
+"IPMC",
+"Multicast routing table",
+"Default profile: 2048"
+],
+[
+"",
+"",
+"IPv6 profile: 1024"
+],
+[
+"",
+"",
+"Layer3 profile: 2048"
+],
+[
+"",
+"",
+"MPLS profile: 1024"
+],
+[
+"",
+"Multicast routing downstream interfaces",
+"Default profile: 4096"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 1: Performance of SerdesX Platform (Continued)"
+}
+],
+"notes":""
+},
+{
+"n":4,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Specification",
+"Value"
+],
+[
+"IPv4 Multicast",
+"",
+""
+],
+[
+"IPMC",
+"Multicast routing downstream interfaces",
+"IPv6 profile: 2048"
+],
+[
+"",
+"",
+"Layer3 profile: 5120"
+],
+[
+"",
+"",
+"MPLS profile: 2048"
+],
+[
+"IGMP Snooping",
+"Maximum groups number",
+"2048"
+],
+[
+"",
+"Maximum member number",
+"N/A"
+],
+[
+"MVR",
+"Maximum group number",
+"Default profile: 2048"
+],
+[
+"",
+"",
+"IPv6 profile: 1024"
+],
+[
+"",
+"",
+"Layer3 Profile: 2048"
+],
+[
+"",
+"",
+"MPLS profile: 1024"
+],
+[
+"",
+"Maximum member number",
+"Default profile: 4096"
+],
+[
+"",
+"",
+"IPv6 profile: 2048"
+],
+[
+"",
+"",
+"Layer3 profile: 5120"
+],
+[
+"",
+"",
+"MPLS profile: 2048"
+],
+[
+"IPv6 Unicast",
+"",
+""
+],
+[
+"Host Route",
+"NDP capacity",
+"Default profile: 2048"
+],
+[
+"",
+"",
+"IPv6 profile: 8192"
+],
+[
+"",
+"",
+"Layer3 Profile: 2048"
+],
+[
+"",
+"",
+"MPLS profile: 2048"
+],
+[
+"IPv6",
+"FIBv6",
+"Default profile: 4096"
+],
+[
+"",
+"",
+"IPv6 profile: 16384"
+],
+[
+"",
+"",
+"Layer3 Profile: 4096"
+],
+[
+"",
+"",
+"MPLS profile: 2048"
+],
+[
+"",
+"ECMP group",
+"240 (share with IPv4)"
+],
+[
+"IPv6 Multicast",
+"",
+""
+],
+[
+"IPMC",
+"Multicast routing table",
+"Default profile: 256"
+],
+[
+"",
+"",
+"IPv6 profile: 512"
+],
+[
+"",
+"",
+"Layer3 Profile: 0"
+],
+[
+"",
+"",
+"MPLS profile: 1024"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 1: Performance of SerdesX Platform (Continued)"
+}
+],
+"notes":""
+},
+{
+"n":5,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Specification",
+"Value"
+],
+[
+"IPv6 Multicast",
+"",
+""
+],
+[
+"IPMC",
+"Number of interfaces that support Multicast routing table",
+"Default profile: 512"
+],
+[
+"",
+"",
+"IPv6 profile: 1024"
+],
+[
+"",
+"",
+"Layer3 Profile: 0"
+],
+[
+"",
+"",
+"MPLS profile: 2048"
+],
+[
+"MVR V6",
+"Maximum entry number",
+"Default profile: 256"
+],
+[
+"",
+"",
+"IPv6 Profile: 512"
+],
+[
+"",
+"",
+"Layer3 Profile: 0"
+],
+[
+"",
+"",
+"MPLS profile: 0"
+],
+[
+"",
+"Maximum member number",
+"Default profile: 512"
+],
+[
+"",
+"",
+"IPv6 profile: 1024"
+],
+[
+"",
+"",
+"Layer3 Profile: 0"
+],
+[
+"",
+"",
+"MPLS profile: 0"
+],
+[
+"IP tunnel",
+"",
+""
+],
+[
+"IP Tunnel",
+"Tunnel peer capacity",
+"8"
+],
+[
+"QoS",
+"",
+""
+],
+[
+"Per-port Queue Number",
+"Unicast queue",
+"10"
+],
+[
+"",
+"Multicast queue",
+"10"
+],
+[
+"",
+"Monitor queue",
+"10"
+],
+[
+"Packet Buffer",
+"System packet buffer capacity",
+"128MByte"
+],
+[
+"Granularity",
+"Policer granularity",
+"0~2M: 10K"
+],
+[
+"",
+"",
+"2M~100M: 40K"
+],
+[
+"",
+"",
+"100M~1G: 80K"
+],
+[
+"",
+"",
+"1G~2G: 120K"
+],
+[
+"",
+"",
+"2G~4G: 250K"
+],
+[
+"",
+"Queue shape granularity",
+"4G~10G: 500K"
+],
+[
+"",
+"Port shape granularity",
+"10k"
+],
+[
+"Flow Entry",
+"Ingress port QoS ipv4 flow entries",
+"1532"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 1: Performance of SerdesX Platform (Continued)"
+}
+],
+"notes":""
+},
+{
+"n":6,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Specification",
+"Value"
+],
+[
+"QoS",
+"",
+""
+],
+[
+"Flow Entry",
+"Ingress port QoS ipv6 flow entries",
+"1532"
+],
+[
+"",
+"Ingress port qos flow statistics entries",
+"511"
+],
+[
+"ACL",
+"",
+""
+],
+[
+"MAC ACL",
+"Ingress Port ACL for MAC",
+"Default Profile: 2877"
+],
+[
+"",
+"",
+"IPv6 Profile: 2877"
+],
+[
+"",
+"",
+"Layer3 Profile: 2880"
+],
+[
+"",
+"",
+"MPLS profile: 2880"
+],
+[
+"",
+"Ingress VLAN ACL for MAC",
+"Default Profile: 2877"
+],
+[
+"",
+"",
+"IPv6 Profile: 2877"
+],
+[
+"",
+"",
+"Layer3 Profile: 2880"
+],
+[
+"",
+"",
+"MPLS profile: 2880"
+],
+[
+"",
+"Egress Port ACL for MAC",
+"Default Profile: 1389"
+],
+[
+"",
+"",
+"IPv6 Profile: 1389"
+],
+[
+"",
+"",
+"Layer3 Profile: 1440"
+],
+[
+"",
+"",
+"MPLS profile: 1440"
+],
+[
+"",
+"Egress VLAN ACL for MAC",
+"Default Profile: 1389"
+],
+[
+"",
+"",
+"IPv6 Profile: 1389"
+],
+[
+"",
+"",
+"Layer3 Profile: 1440"
+],
+[
+"",
+"",
+"MPLS profile: 1440"
+],
+[
+"IPv4 ACL",
+"Ingress port ACL for IPv4",
+"Default Profile: 2877"
+],
+[
+"",
+"",
+"IPv6 Profile: 2877"
+],
+[
+"",
+"",
+"Layer3 Profile: 2880"
+],
+[
+"",
+"",
+"MPLS profile: 2880"
+],
+[
+"",
+"Ingress VLAN ACL for IPv4",
+"Default Profile: 2877"
+],
+[
+"",
+"",
+"IPv6 Profile: 2877"
+],
+[
+"",
+"",
+"Layer3 Profile: 2880"
+],
+[
+"",
+"",
+"MPLS profile: 2880"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 1: Performance of SerdesX Platform (Continued)"
+}
+],
+"notes":""
+},
+{
+"n":7,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Specification",
+"Value"
+],
+[
+"ACL",
+"",
+""
+],
+[
+"IPv4 ACL",
+"Egress port ACL for IPv4",
+"Default Profile: 1389"
+],
+[
+"",
+"",
+"IPv6 Profile: 1389"
+],
+[
+"",
+"",
+"Layer3 Profile: 1440"
+],
+[
+"",
+"",
+"MPLS profile: 1440"
+],
+[
+"",
+"Egress VLAN ACL for IPv4",
+"Default Profile: 1389"
+],
+[
+"",
+"",
+"IPv6 Profile: 1389"
+],
+[
+"",
+"",
+"Layer3 Profile: 1440"
+],
+[
+"",
+"",
+"MPLS profile: 1440"
+],
+[
+"IPv6 ACL",
+"Ingress port ACL for IPv6",
+"Default Profile: 2877"
+],
+[
+"",
+"",
+"IPv6 Profile: 2877"
+],
+[
+"",
+"",
+"Layer3 Profile: 2880"
+],
+[
+"",
+"",
+"MPLS profile: 2880"
+],
+[
+"",
+"Ingress VLAN ACL for IPv6",
+"Default Profile: 2877"
+],
+[
+"",
+"",
+"IPv6 Profile: 2877"
+],
+[
+"",
+"",
+"Layer3 Profile: 2880"
+],
+[
+"",
+"",
+"MPLS profile: 2880"
+],
+[
+"",
+"Egress port ACL for IPv6",
+"Default Profile: 1389"
+],
+[
+"",
+"",
+"IPv6 Profile: 1389"
+],
+[
+"",
+"",
+"Layer3 Profile: 1440"
+],
+[
+"",
+"",
+"MPLS profile: 1440"
+],
+[
+"",
+"Egress VLAN ACL for IPv6",
+"Default Profile: 1389"
+],
+[
+"",
+"",
+"IPv6 Profile: 1389"
+],
+[
+"",
+"",
+"Layer3 Profile: 1440"
+],
+[
+"",
+"",
+"MPLS profile: 1440"
+],
+[
+"ACL Flow Statistics",
+"Ingress ACL flow statistics entries",
+"Default Profile: 2877"
+],
+[
+"",
+"",
+"IPv6 Profile: 2877"
+],
+[
+"",
+"",
+"Layer3 Profile: 2880"
+],
+[
+"",
+"",
+"MPLS profile: 2880"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 1: Performance of SerdesX Platform (Continued)"
+}
+],
+"notes":""
+},
+{
+"n":8,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Specification",
+"Value"
+],
+[
+"ACL",
+"",
+""
+],
+[
+"ACL Flow Statistics",
+"Egress ACL flow statistics entries",
+"Default Profile: 1389"
+],
+[
+"",
+"",
+"IPv6 Profile: 1389"
+],
+[
+"",
+"",
+"Layer3 Profile: 1440"
+],
+[
+"",
+"",
+"MPLS profile: 1440"
+],
+[
+"CoPP",
+"CoPP rules",
+"1500"
+],
+[
+"",
+"CoPP flow statistics entries",
+"1500"
+],
+[
+"UDF",
+"UDF rules",
+"512"
+],
+[
+"",
+"UDF flow stats entries",
+"1024"
+],
+[
+"Security",
+"",
+""
+],
+[
+"IP Source Guard",
+"IPv4 maximum rules number",
+"2048"
+],
+[
+"",
+"IPv6 maximum rules number",
+"64"
+],
+[
+"802.1x Base MAC",
+"Maximum entries",
+"512"
+],
+[
+"DHCP Snooping",
+"Maximum bound entry",
+"4096"
+],
+[
+"IPFIX",
+"",
+""
+],
+[
+"IPFIX",
+"IPFIX member",
+"4096"
+],
+[
+"Reliability",
+"",
+""
+],
+[
+"BFD",
+"Maximum session number",
+"Share 256"
+],
+[
+"S-BFD",
+"Maximum session number",
+"Share 256"
+],
+[
+"VRRP",
+"Maximum group number",
+"63"
+],
+[
+"Smart Link",
+"Maximum group number",
+"16"
+],
+[
+"",
+"Maximum instance number",
+"64"
+],
+[
+"",
+"Switchover time",
+"<50ms"
+],
+[
+"Monitor Link",
+"Maximum group number",
+"16"
+],
+[
+"",
+"Maximum up-link number per group",
+"24"
+],
+[
+"Data Center",
+"",
+""
+],
+[
+"VARP",
+"Virtual IP number per port",
+"15"
+],
+[
+"VXLAN",
+"VXLAN tunnel",
+"Default Profile: 16384"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 1: Performance of SerdesX Platform (Continued)"
+}
+],
+"notes":""
+},
+{
+"n":9,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Specification",
+"Value"
+],
+[
+"Data Center",
+"",
+""
+],
+[
+"VXLAN",
+"VXLAN tunnel",
+"IPv6 Profile: 16384"
+],
+[
+"",
+"",
+"Layer3 Profile: 16384"
+],
+[
+"",
+"",
+"MPLS profile: 4096"
+],
+[
+"",
+"VNI",
+"Default Profile: 4092"
+],
+[
+"",
+"",
+"IPv6 Profile: 4092"
+],
+[
+"",
+"",
+"Layer3 Profile: 4092"
+],
+[
+"",
+"",
+"MPLS profile: 2000"
+],
+[
+"",
+"VTEP peer",
+"Default Profile: 2048"
+],
+[
+"",
+"",
+"IPv6 Profile: 2048"
+],
+[
+"",
+"",
+"Layer3 Profile: 2048"
+],
+[
+"",
+"",
+"MPLS profile: 128"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 1: Performance of SerdesX Platform (Continued)"
+}
+],
+"notes":""
+},
+{
+"n":10,
+"items":[
+{
+"t":"p",
+"text":"Product List Based on SerdesX Platform"
+},
+{
+"t":"table",
+"rows":[
+[
+"Series",
+"Model",
+"Specification"
+],
+[
+"STH800G",
+"STH-32OC-HSI",
+"32*800G OSFP, 2U\n4*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules"
+],
+[
+"STH400G",
+"STH-64QC-HSI",
+"64*400G QSFP112, 2U\n4*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules"
+],
+[
+"",
+"STH-32QC-HSI",
+"32*400G QSFP112\n6*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 2: Product List Based on SerdesX Platform"
+}
+],
+"notes":""
+}
+]
+}

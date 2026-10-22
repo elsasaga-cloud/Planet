@@ -1,0 +1,1817 @@
+{
+"id":"1QEzrYZIikoGBvlLyjmmFYfwlP-bnRfiy",
+"name":"Performance of VastLakes Platform_EN_3.1.pptx",
+"path":"CENTEC Based High-Speed Network/Performance of VastLakes Platform_EN_3.1.pptx",
+"type":"PPT",
+"ext":".pptx",
+"bytes":84282,
+"sha256":"bb334b5ef7e5a91e8bc61d196e01a4a7275db9566c8d67bc7092f917f6859f84",
+"extracted_at":"2026-10-22T08:37:56Z",
+"method":"python-pptx",
+"status":"ok",
+"chars":14377,
+"meta":{
+"slides":15,
+"pictures":0
+},
+"warnings":[],
+"text":"[slide 1]\nSAGA TELECOM VASTLAKES PLATFORM PERFORMANCE\nHigh Performance Switching Hardware Platform\nPlatform Overview\nVastLakes platform is a purpose built device to address the challenge in the recent network evolution.\nVastLakes platform combines a feature-rich switch core and an embedded ARM A53 CPU Core running at 800MHz/1.2GHz.\nPlatform supports a variety of port configurations, providing full-rate port capability from 100M to 100G.\nKey Features of the VastLakes Platform\nEthernet capabilities: MAC table, Vxlan, IPFIX, ACL, EVC etc.\nFull set of Layer 2 and Layer 3 protocols\nRich OAM\nSecurity feature set\nPrecision timing protocol\nTable 1: Performance of VastLakes Platform\nPerformance of the VastLakes Platform\nVersion: V3.1\u000bRelease Date: 2025/11/24\nType\tSpecification\tValue\nEthernet Basic\t\t\nJumbo Frame\tMaximum jumbo frame size\t9600\nUnicast MAC\tMAC address capacity\tDefault profile: 98304\n\t\tExtended-buffer: 12288\n\t\tIPv6 profile: 98304\n\t\tLayer3 profile: 98304\n\t\tMPLS profile: 98304\n\tMAC learning rate (SW)\t> 4000pps\n\tMAC learning rate (HW)\t> 10Gbps\n\tBlackhole MAC address capacity\t128\n\n[slide 2]\nTable 1: Performance of VastLakes Platform (Continued)\nType\tSpecification\tValue\nEthernet Basic\t\t\nMulticast MAC\tMAC address capacity\tDefault profile: 2048\n\t\tExtended-buffer: 1024\n\t\tIPv6 profile: 1024\n\t\tLayer3 profile: 1024\n\t\tMPLS profile: 2048\nVLAN\tVLAN IDs\t4094\n\tVLAN instances\t4094\n\tVLANs to enable statistics\t256\nVLAN Mapping\tMaximum mapping table\t64\n\tMaximum rules number\t1024\nEVC\tMaximum EVC number\t4094\nLink Aggregation (Static & LACP)\tMaximum member number per group\tNo limitation\n\tMaximum Group Num\t64\n\tLoad balance key mode\tStatic/Dlb/RR/Resilient/Self-healing\n\tConvergence time\t< 50ms\nVLAN Classification\tMaximum rule number\t4096\n\tMaximum group number\t1\n\tBase MAC capacity\t512\n\tBase IPv4 capacity\t448\n\tBase IPv6 capacity\t32\n\tBase protocol capacity\t7\nEthernet Ring Protection\t\t\nSTP\tConvergence time\t< 30s\nRSTP\tConvergence time\t< 1s\nMSTP\tInstance number\t64\n\tConvergence time\t< 1s\nERPS\tDomain number\t16\n\n[slide 3]\nTable 1: Performance of VastLakes Platform (Continued)\nType\tSpecification\tValue\nEthernet Ring Protection\t\t\nERPS\tRing number\t1 Primary ring/domain\n\t\t2 Sub ring/domain\n\tProtection instance number per Ring\t64\n\tSwitchover time\t< 50 ms\nEthernet OAM\t\t\nCFM (802.1ag)\tMaximum session number\t1024\n\tMaximum domain number\t8\n\tCCM interval types\t7\n\tCCM minimum interval\t3.3ms\n\tMaximum down MEP number\t1024\n\tMaximum up MEP number\t1024\n\tMaximum LMEP number\t1024\nIPv4 Unicast\t\t\nARP\tARP capacity\tDefault profile: 12288\n\t\tExtended-buffer: 4096\n\t\tIPv6 profile: 6144\n\t\tLayer3 profile: 16384\n\t\tMPLS profile: 12288\nIPv4\tFIB\tDefault profile: 57344\n\t\tExtended-buffer: 28672\n\t\tIPv6 profile: 12288\n\t\tLayer3 profile: 57344\n\t\tMPLS profile: 57344\nECMP\tECMP group\t240 (Share with IPv6)\nPBR\tPolicy route map\t64\n\tPolicy based routing ACE\t256\nOSPF\tMaximum static neighbors\t256\n\tMaximum summary address\t2048\n\n[slide 4]\nTable 1: Performance of VastLakes Platform (Continued)\nType\tSpecification\tValue\nIPv4 Multicast\t\t\nIPMC\tMulticast routing table\tDefault profile: 2048\n\t\tExtended-buffer: 512\n\t\tIPv6 profile: 1024\n\t\tLayer3 profile: 2048\n\t\tMPLS profile: 1024\n\tMulticast routing downstream interfaces\tDefault profile: 4096\n\t\tExtended-buffer: 2048\n\t\tIPv6 profile: 2048\n\t\tLayer3 profile: 5120\n\t\tMPLS profile: 2048\nIGMP Snooping\tMaximum groups number\t2048\n\tMaximum member number\tN/A\nMVR\tMaximum group number\tDefault profile: 2048\n\t\tExtended-buffer: 2048 (Share with IPv6)\n\t\tIPv6 profile: 1024\n\t\tLayer3 Profile: 2048\n\t\tMPLS profile: 1024\n\tMaximum member number\t4096\nIPv6 Unicast\t\t\nHost Route\tNDP capacity\tDefault profile: 2048\n\t\tExtended-buffer: 1024\n\t\tIPv6 profile: 4096\n\t\tLayer3 profile: 0\n\t\tMPLS profile: 2048\nIPv6\tFIBv6\tDefault profile: 4096\n\t\tExtended-buffer: 1024\n\t\tIPv6 profile: 6144\n\n[slide 5]\nTable 1: Performance of VastLakes Platform (Continued)\nType\tSpecification\tValue\nIPv6 Unicast\t\t\nIPv6\tFIBv6\tLayer3 profile: 0\n\t\tMPLS profile: 1024\n\tECMP group\t240 (share with IPv4)\nIPv6 Multicast\t\t\nIPMC\tMulticast routing table\tDefault profile: 256\n\t\tExtended-buffer: 256\n\t\tIPv6 profile: 512\n\t\tLayer3 profile: 0\n\t\tMPLS profile: 0\n\tNumber of interfaces that support Multicast routing table\tDefault profile: 512\n\t\tExtended-buffer: 1536\n\t\tIPv6 profile: 1024\n\t\tLayer3 profile: 0\n\t\tMPLS profile: 0\nMVR V6\tMaximum entry number\tDefault profile: 256\n\t\tExtended-buffer: 2048 (Share with IPv4)\n\t\tIPv6 profile: 512\n\t\tLayer3 profile: 0\n\t\tMPLS profile: 0\n\tMaximum member number\tDefault profile: 512\n\t\tExtended-buffer: 4096\n\t\tIPv6 profile: 1024\n\t\tLayer3 profile: 0\n\t\tMPLS profile: 0\nIP tunnel\t\t\nIP Tunnel\tTunnel peer capacity\t8\n\n[slide 6]\nTable 1: Performance of VastLakes Platform (Continued)\nType\tSpecification\tValue\nQoS\t\t\nPer-port Queue Number\tUnicast queue\t10\n\tMulticast queue\t10\n\tMonitor queue\t10\nPacket Buffer\tSystem packet buffer capacity\tDefault profile: 4.5MByte\n\t\tExtended-buffer: 9MByte\n\t\tIPv6 profile: 4.5MByte\n\t\tLayer3 profile: 4.5MByte\n\t\tMPLS profile: 4.5MByte\nGranularity\tPolicer granularity\t0~2M: 10K\n\t\t2M~100M: 40K\n\t\t100M~1G: 80K\n\t\t1G~2G: 120K\n\t\t2G~4G: 250K\n\tQueue shape granularity\t4G~10G: 500K\n\tPort shape granularity\t10k\nFlow Entry\tIngress port QoS ipv4 flow entries\t1532\n\tIngress port QoS ipv6 flow entries\t1532\n\tIngress port QoS flow statistics entries\t511\nACL\t\t\nMAC ACL\tIngress port ACL for MAC\tDefault profile: 2926\n\t\tExtended-buffer: 2926\n\t\tIPv6 profile: 2926\n\t\tLayer3 profile: 2976\n\t\tMPLS profile: 2976\n\tIngress VLAN ACL for MAC\tDefault profile: 2926\n\t\tExtended-buffer: 2926\n\n[slide 7]\nTable 1: Performance of VastLakes Platform (Continued)\nType\tSpecification\tValue\nACL\t\t\nMAC ACL\tIngress VLAN ACL for MAC\tIPv6 profile: 2926\n\t\tLayer3 profile: 2976\n\t\tMPLS profile: 2976\n\tEgress port ACL for MAC\tDefault profile: 878\n\t\tExtended-buffer: 878\n\t\tIPv6 profile: 878\n\t\tLayer3 profile: 928\n\t\tMPLS profile: 928\n\tEgress VLAN ACL for MAC\tDefault profile: 878\n\t\tExtended-buffer: 878\n\t\tIPv6 profile: 878\n\t\tLayer3 profile: 928\n\t\tMPLS profile: 928\nIPv4 ACL\tIngress Port ACL for IPv4\tDefault profile: 2926\n\t\tExtended-buffer: 2926\n\t\tIPv6 profile: 2926\n\t\tLayer3 profile: 2976\n\t\tMPLS profile: 2976\n\tIngress VLAN ACL for IPv4\tDefault profile: 2926\n\t\tExtended-buffer: 2926\n\t\tIPv6 profile: 2926\n\t\tLayer3 profile: 2976\n\t\tMPLS profile: 2976\n\tEgress Port ACL for IPv4\tDefault profile: 878\n\t\tExtended-buffer: 878\n\t\tIPv6 profile: 878\n\t\tLayer3 profile: 928\n\t\tMPLS profile: 928\n\n[slide 8]\nTable 1: Performance of VastLakes Platform (Continued)\nType\tSpecification\tValue\nACL\t\t\nIPv4 ACL\tEgress VLAN ACL for IPv4\tDefault profile: 878\n\t\tExtended-buffer: 878\n\t\tIPv6 profile: 878\n\t\tLayer3 profile: 928\n\t\tMPLS profile: 928\nIPv6 ACL\tIngress Port ACL for IPv6\tDefault profile: 2926\n\t\tExtended-buffer: 2926\n\t\tIPv6 profile: 2926\n\t\tLayer3 profile: 2976\n\t\tMPLS profile: 2976\n\tIngress VLAN ACL for IPv6\tDefault profile: 2926\n\t\tExtended-buffer: 2926\n\t\tIPv6 profile: 2926\n\t\tLayer3 profile: 2976\n\t\tMPLS profile: 2976\n\tEgress Port ACL for IPv6\tDefault profile: 878\n\t\tExtended-buffer: 878\n\t\tIPv6 profile: 878\n\t\tLayer3 profile: 928\n\t\tMPLS profile: 928\n\tEgress VLAN ACL for IPv6\tDefault profile: 878\n\t\tExtended-buffer: 878\n\t\tIPv6 profile: 878\n\t\tLayer3 profile: 928\n\t\tMPLS profile: 928\nACL Flow Statistics\tIngress ACL flow statistics entries\t1022\n\tEgress ACL flow statistics entries\t511\n\n[slide 9]\nTable 1: Performance of VastLakes Platform (Continued)\nType\tSpecification\tValue\nACL\t\t\nCoPP\tCoPP rules\t249\n\tCoPP flow statistics entries\t249\nUDF\tUDF rules\t256\n\tUDF flow stats entries\t128\nSecurity\t\t\nIP Source Guard\tIPv4 maximum rules number\t768\n\tIPv6 maximum rules number\t64\n802.1x Base MAC\tMaximum entries\tDefault profile: 512\n\t\tExtended-buffer: 256\n\t\tIPv6 profile: 256\n\t\tLayer3 profile: 256\n\t\tMPLS profile: 512\nDHCP Snooping\tMaximum bound entry\t4096\nIPFIX\t\t\nIPFIX\tIPFIX member\t4096\nReliability\t\t\nBFD\tMaximum session number\tShare 128\nS-BFD\tMaximum session number\tShare 128\nVRRP\tMaximum group number\t63\nSmart Link\tMaximum group number\t16\n\tMaximum instance number\t64\n\tSwitchover time\t<50ms\nMonitor Link\tMaximum group number\t16\n\tMaximum up-link number per group\t24\nData center\t\t\nVARP\tVirtual IP Num per Port\t15\nVXLAN\tVXLAN tunnel\tDefault profile: 6144\n\n[slide 10]\nTable 1: Performance of VastLakes Platform (Continued)\nType\tSpecification\tValue\nData center\t\t\nVXLAN\tVXLAN tunnel\tExtended-buffer: 6144\n\t\tIPv6 profile: 6144\n\t\tLayer3 profile: 6144\n\t\tMPLS profile: 2040\n\tVNI\tDefault profile: 2000\n\t\tExtended-buffer: 2000\n\t\tIPv6 profile: 2000\n\t\tLayer3 profile: 2000\n\t\tMPLS profile: 1000\n\tVTEP Peer\tDefault profile: 2048\n\t\tExtended-buffer: 2048\n\t\tIPv6 profile: 2048\n\t\tLayer3 profile: 2048\n\t\tMPLS profile: 256\n\n[slide 11]\nVersion Information\nProduct List Based on VastLakes Platform\nTable 2: Product List Based on VastLakes Platform\nVersion\tDescription\tDate\nV1.0.0\tInitial version\t12 September 2024\nSeries\tModel\tSpecification\nSTH10G\tSTH-2C4XF48XE-HSI\t48*100M/1G/2.5G/5G/10G Base-T+4*10G SFP+ 2*100G QSFP28\u000b2*350W Hot-swappable modules \u000b4*Hot-swappable modules\n\tSTH-2C4XF48XE-SFI\t48*100M/1G/2.5G/5G/10G Base-T+4*10G SFP+ \n2*100G QSFP28\u000b1*200W Fixed Power Supply\u000b4*Fixed Fan\n\tSTH-2C48XF-SFI\t48*10G SFP+ +2*100G QSFP28\n1*200W Fixed Power Supply\nFan: 4*Fixed Fan\n\tSTH-2C24XE-HSI\t24*100M/1G/2.5G/5G/10G Multi-Gigabit Base-T\n2*100G QSFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules\n\tSTH-2C24XE-SFI\t24*100M/1G/2.5G/5G/10G Multi-Gigabit Base-T\n2*100G QSFP28\n4*Fixed Fans\n1*Fixed Power Supply\n\tSTH-2C24XP-HSI\t24*100M/1G/2.5G/5G/10G Multi-Gigabit PoE++\n2*100G QSFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules\n\tSTH-2C24XF-HSI\t24*10G SFP+\n2*100G QSFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules\n\tSTH-2C24XF-SFI\t24*10G SFP+\n2*100G QSFP28\n4*Fixed Fans\n1*Fixed Power Supply\n\tSTH-8DX24XF-HSI\t24*10G SFP+\n8*25/10G SFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules\n\n[slide 12]\nTable 2: Product List Based on VastLakes Platform (Continued)\nSeries\tModel\tSpecification\nSTH10G\tSTH-8DX24XE-HSI\t24*100M/1G/2.5G/5G/10G Multi-Gigabit Base-T\n8*25/10G SFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules\n\tSTH-8DX24XP-HSI\t24*100M/1G/2.5G/5G/10G Multi-Gigabit PoE++, \n8*25/10G SFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules\n\tSTH-2QX8DX12XF8GF8GE-HSI\t12*10G SFP+\n8*100M/1000M Base-T\n8*1G SFP\n8*25G SFP28\n2*40G QSFP+\n2*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules\nSTH2.5G\tSTH-2QX4DX48DE-HSI\t48*100M/1G/2.5G Multi-Gigabit Base-T\n2*40G QSFP+, 4*25G/10G SFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules\n\tSTH-2QX4DX48DE-SFI\t48*100M/1G/2.5G Multi-Gigabit Base-T\n2*40G QSFP+, 4*25G/10G SFP28\n4*Fixed Fans, 1*Fixed Power Supply\n\tSTH-2QX4DX8XP40DP-HSI\t40*100M/1G/2.5G Multi-Gigabit Base-T(PoE++90W)\n8*100M/1G/2.5G/5G/10G Multi-Gigabit Base-T(PoE++90W)\n2*40G QSFP+, 4*25G/10G SFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules\n\tSTH-8DX16XP32DP-HSI\t32*100M/1G/2.5G Multi-Gigabit Base-T(PoE++90W)\n16*100M/1G/2.5G/5G/10G Multi-Gigabit Base-T(PoE++90W)\n8*25G/10G SFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules\n\tSTH-8DX8XP16DP-HSI\t16*100M/1G/2.5G Multi-Gigabit Base-T(PoE++90W)\n8*100M/1G/2.5G/5G/10G Multi-Gigabit Base-T(PoE++90W)\n8*25G/10G SFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules\n\n[slide 13]\nTable 2: Product List Based on VastLakes Platform (Continued)\nSeries\tModel\tSpecification\nSTH5G\tSTH-2C24VE-HSI\t24*100M/1G/2.5G/5G Multi-Gigabit Base-T\n2*100G QSFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules\n\tSTH-2C24VP-HSI\t24*100M/1G/2.5G/5G Multi-Gigabit Base-T, PoE++\n2*100G QSFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules\n\tSTH-8DX24VE-HSI\t24*100M/1G/2.5G/5G Multi-Gigabit Base-T\n8*25G/10G SFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules\n\tSTH-8DX24VP-HSI\t24*100M/1G/2.5G/5G Multi-Gigabit Base-T, PoE++\n8*25G/10G SFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules\n\tSTH-2C1XF34VE-SFI\t34*100M/1G/2.5G/5G Multi-Gigabit Base-T\n1*10GSFP+\n2*100G QSFP28\n4*Fixed Fans\n1*Fixed Power Supply\n\tSTH-4C48VE-HSI\t48*100M/1G/2.5G/5G Base-T+4*100G QSFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable PSU\n\tSTH-4C48VE-SFI\t48*100M/1G/2.5G/5G Base-T+4*100G QSFP28\n4*Fixed Fans\n1*Fixed Power Supply\n\n[slide 14]\nTable 2: Product List Based on VastLakes Platform (Continued)\nSeries\tModel\tSpecification\nXLite\tSTH-2C6QX-HSI\t6*40G QSFP+, 2*100G QSFP28\n1*Hot-swappable Fan Module\n1*Hot-swappable CRPS Module\n1*ATX(2*3pin) power connecter for redundancy\n\tSTH-2C6QX-SFI\t6*40G QSFP+, 2*100G QSFP28\n2*Fixed Fans, 1*Fixed Power Supply\n1*ATX(2*4pin) power connecter for redundancy\n\tSTH-2C24XF-HSI\t24*10G SFP+, 2*100G QSFP28\n1*Hot-swappable Fan Modules\n1*Hot-swappable CRPS Modules\n1*ATX(2*3pin) power connecter for redundancy\n\tSTH-2C24XF-SFI\t24*10G SFP+, 2*100G QSFP28\n2*Fixed Fans, 1*Fixed Power Supply\n1*ATX(2*4pin) power connecter for redundancy\n\tSTH-2C12XF12XE-HSI\t12*10G SFP+, 12*10G Base-T, 2*100G QSFP28\n1*Hot-swappable Fan Module 1*Hot-swappable PSU\n1*ATX(2*3pin) power connecter for redundancy\n\tSTH-2C12XF12XE-SFI\t12*10G SFP+, 12*10G Base-T, 2*100G QSFP28\n3*Fixed Fans, 1*Fixed Power Supply\n1*ATX(2*4pin) power connecter for redundancy\n\tSTH-2C24XE-HSI\t24*10G Multi-Gigabit Base-T, 2*100G QSFP28\n1*Hot-swappable  Fan Module\n1*Hot-swappable CRPS Modules\n1*ATX(2*3pin) power connecter for redundancy\n\tSTH-2C24XE-SFI\t24*10G Multi-Gigabit Base-T, 2*100G QSFP28\n3*Fixed Fans, 1*Fixed Power Supply\n1*ATX(2*4pin) power connecter for redundancy\n\n[slide 15]\nTable 2: Product List Based on VastLakes Platform(Continued)\nSeries\tModel\tSpecification\nSTH1G\tSTH-2QX4DX48GE-HSI\t48*10/100/1000M Base-T, 2*40G QSFP+\n4*25G/10G SFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable Power Modules\n\tSTH-2QX4DX48GE-SFI\t48*10/100/1000M Base-T, 2*40G QSFP+\n4*25G/10G SFP28\n4*Fixed Fans, 1*Fixed Power Supply\n\tSTH-2QX4DX48GP-HSI\t48*10/100/1000M Base-T, PoE++, 2*40G QSFP+, 4*25G/10G SFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable Power Modules\n\tSTH-2QX4DX48GP-SFI\t48*10/100/1000M Base-T PoE+, 2*40G QSFP+, 4*25G/10G SFP28\n4*Fixed Fans, 1*Fixed Power Supply\n\tSTH-2QX4DX24GE-HSI\t24*10/100/1000M Base-T\n2*40G QSFP+, 4*25G/10G SFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable Power Modules\n\tSTH-2QX4DX24GE-SFI\t24*10/100/1000M Base-T\n2*40G QSFP+, 4*25G/10G SFP28\n4*Fixed Fans, 1*Fixed Power Supply\n\tSTH-2QX4DX24GP-HSI\t24*10/100/1000M Base-T, PoE++\n2*40G QSFP+, 4*25G/10G SFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable Power Modules\n\tSTH-2QX4DX24GP-SFI\t24*10/100/1000M Base-T, PoE+\n2*40G QSFP+, 4*25G/10G SFP28\n4*Fixed Fans, 1*Fixed Power Supply",
+"slides":[
+{
+"n":1,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Specification",
+"Value"
+],
+[
+"Ethernet Basic",
+"",
+""
+],
+[
+"Jumbo Frame",
+"Maximum jumbo frame size",
+"9600"
+],
+[
+"Unicast MAC",
+"MAC address capacity",
+"Default profile: 98304"
+],
+[
+"",
+"",
+"Extended-buffer: 12288"
+],
+[
+"",
+"",
+"IPv6 profile: 98304"
+],
+[
+"",
+"",
+"Layer3 profile: 98304"
+],
+[
+"",
+"",
+"MPLS profile: 98304"
+],
+[
+"",
+"MAC learning rate (SW)",
+"> 4000pps"
+],
+[
+"",
+"MAC learning rate (HW)",
+"> 10Gbps"
+],
+[
+"",
+"Blackhole MAC address capacity",
+"128"
+]
+]
+},
+{
+"t":"p",
+"text":"SAGA TELECOM VASTLAKES PLATFORM PERFORMANCE\nHigh Performance Switching Hardware Platform"
+},
+{
+"t":"p",
+"text":"Platform Overview"
+},
+{
+"t":"p",
+"text":"VastLakes platform is a purpose built device to address the challenge in the recent network evolution.\nVastLakes platform combines a feature-rich switch core and an embedded ARM A53 CPU Core running at 800MHz/1.2GHz.\nPlatform supports a variety of port configurations, providing full-rate port capability from 100M to 100G."
+},
+{
+"t":"p",
+"text":"Key Features of the VastLakes Platform"
+},
+{
+"t":"p",
+"text":"Ethernet capabilities: MAC table, Vxlan, IPFIX, ACL, EVC etc.\nFull set of Layer 2 and Layer 3 protocols\nRich OAM\nSecurity feature set\nPrecision timing protocol"
+},
+{
+"t":"p",
+"text":"Table 1: Performance of VastLakes Platform"
+},
+{
+"t":"p",
+"text":"Performance of the VastLakes Platform"
+},
+{
+"t":"p",
+"text":"Version: V3.1\u000bRelease Date: 2025/11/24"
+}
+],
+"notes":""
+},
+{
+"n":2,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Specification",
+"Value"
+],
+[
+"Ethernet Basic",
+"",
+""
+],
+[
+"Multicast MAC",
+"MAC address capacity",
+"Default profile: 2048"
+],
+[
+"",
+"",
+"Extended-buffer: 1024"
+],
+[
+"",
+"",
+"IPv6 profile: 1024"
+],
+[
+"",
+"",
+"Layer3 profile: 1024"
+],
+[
+"",
+"",
+"MPLS profile: 2048"
+],
+[
+"VLAN",
+"VLAN IDs",
+"4094"
+],
+[
+"",
+"VLAN instances",
+"4094"
+],
+[
+"",
+"VLANs to enable statistics",
+"256"
+],
+[
+"VLAN Mapping",
+"Maximum mapping table",
+"64"
+],
+[
+"",
+"Maximum rules number",
+"1024"
+],
+[
+"EVC",
+"Maximum EVC number",
+"4094"
+],
+[
+"Link Aggregation (Static & LACP)",
+"Maximum member number per group",
+"No limitation"
+],
+[
+"",
+"Maximum Group Num",
+"64"
+],
+[
+"",
+"Load balance key mode",
+"Static/Dlb/RR/Resilient/Self-healing"
+],
+[
+"",
+"Convergence time",
+"< 50ms"
+],
+[
+"VLAN Classification",
+"Maximum rule number",
+"4096"
+],
+[
+"",
+"Maximum group number",
+"1"
+],
+[
+"",
+"Base MAC capacity",
+"512"
+],
+[
+"",
+"Base IPv4 capacity",
+"448"
+],
+[
+"",
+"Base IPv6 capacity",
+"32"
+],
+[
+"",
+"Base protocol capacity",
+"7"
+],
+[
+"Ethernet Ring Protection",
+"",
+""
+],
+[
+"STP",
+"Convergence time",
+"< 30s"
+],
+[
+"RSTP",
+"Convergence time",
+"< 1s"
+],
+[
+"MSTP",
+"Instance number",
+"64"
+],
+[
+"",
+"Convergence time",
+"< 1s"
+],
+[
+"ERPS",
+"Domain number",
+"16"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 1: Performance of VastLakes Platform (Continued)"
+}
+],
+"notes":""
+},
+{
+"n":3,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Specification",
+"Value"
+],
+[
+"Ethernet Ring Protection",
+"",
+""
+],
+[
+"ERPS",
+"Ring number",
+"1 Primary ring/domain"
+],
+[
+"",
+"",
+"2 Sub ring/domain"
+],
+[
+"",
+"Protection instance number per Ring",
+"64"
+],
+[
+"",
+"Switchover time",
+"< 50 ms"
+],
+[
+"Ethernet OAM",
+"",
+""
+],
+[
+"CFM (802.1ag)",
+"Maximum session number",
+"1024"
+],
+[
+"",
+"Maximum domain number",
+"8"
+],
+[
+"",
+"CCM interval types",
+"7"
+],
+[
+"",
+"CCM minimum interval",
+"3.3ms"
+],
+[
+"",
+"Maximum down MEP number",
+"1024"
+],
+[
+"",
+"Maximum up MEP number",
+"1024"
+],
+[
+"",
+"Maximum LMEP number",
+"1024"
+],
+[
+"IPv4 Unicast",
+"",
+""
+],
+[
+"ARP",
+"ARP capacity",
+"Default profile: 12288"
+],
+[
+"",
+"",
+"Extended-buffer: 4096"
+],
+[
+"",
+"",
+"IPv6 profile: 6144"
+],
+[
+"",
+"",
+"Layer3 profile: 16384"
+],
+[
+"",
+"",
+"MPLS profile: 12288"
+],
+[
+"IPv4",
+"FIB",
+"Default profile: 57344"
+],
+[
+"",
+"",
+"Extended-buffer: 28672"
+],
+[
+"",
+"",
+"IPv6 profile: 12288"
+],
+[
+"",
+"",
+"Layer3 profile: 57344"
+],
+[
+"",
+"",
+"MPLS profile: 57344"
+],
+[
+"ECMP",
+"ECMP group",
+"240 (Share with IPv6)"
+],
+[
+"PBR",
+"Policy route map",
+"64"
+],
+[
+"",
+"Policy based routing ACE",
+"256"
+],
+[
+"OSPF",
+"Maximum static neighbors",
+"256"
+],
+[
+"",
+"Maximum summary address",
+"2048"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 1: Performance of VastLakes Platform (Continued)"
+}
+],
+"notes":""
+},
+{
+"n":4,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Specification",
+"Value"
+],
+[
+"IPv4 Multicast",
+"",
+""
+],
+[
+"IPMC",
+"Multicast routing table",
+"Default profile: 2048"
+],
+[
+"",
+"",
+"Extended-buffer: 512"
+],
+[
+"",
+"",
+"IPv6 profile: 1024"
+],
+[
+"",
+"",
+"Layer3 profile: 2048"
+],
+[
+"",
+"",
+"MPLS profile: 1024"
+],
+[
+"",
+"Multicast routing downstream interfaces",
+"Default profile: 4096"
+],
+[
+"",
+"",
+"Extended-buffer: 2048"
+],
+[
+"",
+"",
+"IPv6 profile: 2048"
+],
+[
+"",
+"",
+"Layer3 profile: 5120"
+],
+[
+"",
+"",
+"MPLS profile: 2048"
+],
+[
+"IGMP Snooping",
+"Maximum groups number",
+"2048"
+],
+[
+"",
+"Maximum member number",
+"N/A"
+],
+[
+"MVR",
+"Maximum group number",
+"Default profile: 2048"
+],
+[
+"",
+"",
+"Extended-buffer: 2048 (Share with IPv6)"
+],
+[
+"",
+"",
+"IPv6 profile: 1024"
+],
+[
+"",
+"",
+"Layer3 Profile: 2048"
+],
+[
+"",
+"",
+"MPLS profile: 1024"
+],
+[
+"",
+"Maximum member number",
+"4096"
+],
+[
+"IPv6 Unicast",
+"",
+""
+],
+[
+"Host Route",
+"NDP capacity",
+"Default profile: 2048"
+],
+[
+"",
+"",
+"Extended-buffer: 1024"
+],
+[
+"",
+"",
+"IPv6 profile: 4096"
+],
+[
+"",
+"",
+"Layer3 profile: 0"
+],
+[
+"",
+"",
+"MPLS profile: 2048"
+],
+[
+"IPv6",
+"FIBv6",
+"Default profile: 4096"
+],
+[
+"",
+"",
+"Extended-buffer: 1024"
+],
+[
+"",
+"",
+"IPv6 profile: 6144"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 1: Performance of VastLakes Platform (Continued)"
+}
+],
+"notes":""
+},
+{
+"n":5,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Specification",
+"Value"
+],
+[
+"IPv6 Unicast",
+"",
+""
+],
+[
+"IPv6",
+"FIBv6",
+"Layer3 profile: 0"
+],
+[
+"",
+"",
+"MPLS profile: 1024"
+],
+[
+"",
+"ECMP group",
+"240 (share with IPv4)"
+],
+[
+"IPv6 Multicast",
+"",
+""
+],
+[
+"IPMC",
+"Multicast routing table",
+"Default profile: 256"
+],
+[
+"",
+"",
+"Extended-buffer: 256"
+],
+[
+"",
+"",
+"IPv6 profile: 512"
+],
+[
+"",
+"",
+"Layer3 profile: 0"
+],
+[
+"",
+"",
+"MPLS profile: 0"
+],
+[
+"",
+"Number of interfaces that support Multicast routing table",
+"Default profile: 512"
+],
+[
+"",
+"",
+"Extended-buffer: 1536"
+],
+[
+"",
+"",
+"IPv6 profile: 1024"
+],
+[
+"",
+"",
+"Layer3 profile: 0"
+],
+[
+"",
+"",
+"MPLS profile: 0"
+],
+[
+"MVR V6",
+"Maximum entry number",
+"Default profile: 256"
+],
+[
+"",
+"",
+"Extended-buffer: 2048 (Share with IPv4)"
+],
+[
+"",
+"",
+"IPv6 profile: 512"
+],
+[
+"",
+"",
+"Layer3 profile: 0"
+],
+[
+"",
+"",
+"MPLS profile: 0"
+],
+[
+"",
+"Maximum member number",
+"Default profile: 512"
+],
+[
+"",
+"",
+"Extended-buffer: 4096"
+],
+[
+"",
+"",
+"IPv6 profile: 1024"
+],
+[
+"",
+"",
+"Layer3 profile: 0"
+],
+[
+"",
+"",
+"MPLS profile: 0"
+],
+[
+"IP tunnel",
+"",
+""
+],
+[
+"IP Tunnel",
+"Tunnel peer capacity",
+"8"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 1: Performance of VastLakes Platform (Continued)"
+}
+],
+"notes":""
+},
+{
+"n":6,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Specification",
+"Value"
+],
+[
+"QoS",
+"",
+""
+],
+[
+"Per-port Queue Number",
+"Unicast queue",
+"10"
+],
+[
+"",
+"Multicast queue",
+"10"
+],
+[
+"",
+"Monitor queue",
+"10"
+],
+[
+"Packet Buffer",
+"System packet buffer capacity",
+"Default profile: 4.5MByte"
+],
+[
+"",
+"",
+"Extended-buffer: 9MByte"
+],
+[
+"",
+"",
+"IPv6 profile: 4.5MByte"
+],
+[
+"",
+"",
+"Layer3 profile: 4.5MByte"
+],
+[
+"",
+"",
+"MPLS profile: 4.5MByte"
+],
+[
+"Granularity",
+"Policer granularity",
+"0~2M: 10K"
+],
+[
+"",
+"",
+"2M~100M: 40K"
+],
+[
+"",
+"",
+"100M~1G: 80K"
+],
+[
+"",
+"",
+"1G~2G: 120K"
+],
+[
+"",
+"",
+"2G~4G: 250K"
+],
+[
+"",
+"Queue shape granularity",
+"4G~10G: 500K"
+],
+[
+"",
+"Port shape granularity",
+"10k"
+],
+[
+"Flow Entry",
+"Ingress port QoS ipv4 flow entries",
+"1532"
+],
+[
+"",
+"Ingress port QoS ipv6 flow entries",
+"1532"
+],
+[
+"",
+"Ingress port QoS flow statistics entries",
+"511"
+],
+[
+"ACL",
+"",
+""
+],
+[
+"MAC ACL",
+"Ingress port ACL for MAC",
+"Default profile: 2926"
+],
+[
+"",
+"",
+"Extended-buffer: 2926"
+],
+[
+"",
+"",
+"IPv6 profile: 2926"
+],
+[
+"",
+"",
+"Layer3 profile: 2976"
+],
+[
+"",
+"",
+"MPLS profile: 2976"
+],
+[
+"",
+"Ingress VLAN ACL for MAC",
+"Default profile: 2926"
+],
+[
+"",
+"",
+"Extended-buffer: 2926"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 1: Performance of VastLakes Platform (Continued)"
+}
+],
+"notes":""
+},
+{
+"n":7,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Specification",
+"Value"
+],
+[
+"ACL",
+"",
+""
+],
+[
+"MAC ACL",
+"Ingress VLAN ACL for MAC",
+"IPv6 profile: 2926"
+],
+[
+"",
+"",
+"Layer3 profile: 2976"
+],
+[
+"",
+"",
+"MPLS profile: 2976"
+],
+[
+"",
+"Egress port ACL for MAC",
+"Default profile: 878"
+],
+[
+"",
+"",
+"Extended-buffer: 878"
+],
+[
+"",
+"",
+"IPv6 profile: 878"
+],
+[
+"",
+"",
+"Layer3 profile: 928"
+],
+[
+"",
+"",
+"MPLS profile: 928"
+],
+[
+"",
+"Egress VLAN ACL for MAC",
+"Default profile: 878"
+],
+[
+"",
+"",
+"Extended-buffer: 878"
+],
+[
+"",
+"",
+"IPv6 profile: 878"
+],
+[
+"",
+"",
+"Layer3 profile: 928"
+],
+[
+"",
+"",
+"MPLS profile: 928"
+],
+[
+"IPv4 ACL",
+"Ingress Port ACL for IPv4",
+"Default profile: 2926"
+],
+[
+"",
+"",
+"Extended-buffer: 2926"
+],
+[
+"",
+"",
+"IPv6 profile: 2926"
+],
+[
+"",
+"",
+"Layer3 profile: 2976"
+],
+[
+"",
+"",
+"MPLS profile: 2976"
+],
+[
+"",
+"Ingress VLAN ACL for IPv4",
+"Default profile: 2926"
+],
+[
+"",
+"",
+"Extended-buffer: 2926"
+],
+[
+"",
+"",
+"IPv6 profile: 2926"
+],
+[
+"",
+"",
+"Layer3 profile: 2976"
+],
+[
+"",
+"",
+"MPLS profile: 2976"
+],
+[
+"",
+"Egress Port ACL for IPv4",
+"Default profile: 878"
+],
+[
+"",
+"",
+"Extended-buffer: 878"
+],
+[
+"",
+"",
+"IPv6 profile: 878"
+],
+[
+"",
+"",
+"Layer3 profile: 928"
+],
+[
+"",
+"",
+"MPLS profile: 928"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 1: Performance of VastLakes Platform (Continued)"
+}
+],
+"notes":""
+},
+{
+"n":8,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Specification",
+"Value"
+],
+[
+"ACL",
+"",
+""
+],
+[
+"IPv4 ACL",
+"Egress VLAN ACL for IPv4",
+"Default profile: 878"
+],
+[
+"",
+"",
+"Extended-buffer: 878"
+],
+[
+"",
+"",
+"IPv6 profile: 878"
+],
+[
+"",
+"",
+"Layer3 profile: 928"
+],
+[
+"",
+"",
+"MPLS profile: 928"
+],
+[
+"IPv6 ACL",
+"Ingress Port ACL for IPv6",
+"Default profile: 2926"
+],
+[
+"",
+"",
+"Extended-buffer: 2926"
+],
+[
+"",
+"",
+"IPv6 profile: 2926"
+],
+[
+"",
+"",
+"Layer3 profile: 2976"
+],
+[
+"",
+"",
+"MPLS profile: 2976"
+],
+[
+"",
+"Ingress VLAN ACL for IPv6",
+"Default profile: 2926"
+],
+[
+"",
+"",
+"Extended-buffer: 2926"
+],
+[
+"",
+"",
+"IPv6 profile: 2926"
+],
+[
+"",
+"",
+"Layer3 profile: 2976"
+],
+[
+"",
+"",
+"MPLS profile: 2976"
+],
+[
+"",
+"Egress Port ACL for IPv6",
+"Default profile: 878"
+],
+[
+"",
+"",
+"Extended-buffer: 878"
+],
+[
+"",
+"",
+"IPv6 profile: 878"
+],
+[
+"",
+"",
+"Layer3 profile: 928"
+],
+[
+"",
+"",
+"MPLS profile: 928"
+],
+[
+"",
+"Egress VLAN ACL for IPv6",
+"Default profile: 878"
+],
+[
+"",
+"",
+"Extended-buffer: 878"
+],
+[
+"",
+"",
+"IPv6 profile: 878"
+],
+[
+"",
+"",
+"Layer3 profile: 928"
+],
+[
+"",
+"",
+"MPLS profile: 928"
+],
+[
+"ACL Flow Statistics",
+"Ingress ACL flow statistics entries",
+"1022"
+],
+[
+"",
+"Egress ACL flow statistics entries",
+"511"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 1: Performance of VastLakes Platform (Continued)"
+}
+],
+"notes":""
+},
+{
+"n":9,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Specification",
+"Value"
+],
+[
+"ACL",
+"",
+""
+],
+[
+"CoPP",
+"CoPP rules",
+"249"
+],
+[
+"",
+"CoPP flow statistics entries",
+"249"
+],
+[
+"UDF",
+"UDF rules",
+"256"
+],
+[
+"",
+"UDF flow stats entries",
+"128"
+],
+[
+"Security",
+"",
+""
+],
+[
+"IP Source Guard",
+"IPv4 maximum rules number",
+"768"
+],
+[
+"",
+"IPv6 maximum rules number",
+"64"
+],
+[
+"802.1x Base MAC",
+"Maximum entries",
+"Default profile: 512"
+],
+[
+"",
+"",
+"Extended-buffer: 256"
+],
+[
+"",
+"",
+"IPv6 profile: 256"
+],
+[
+"",
+"",
+"Layer3 profile: 256"
+],
+[
+"",
+"",
+"MPLS profile: 512"
+],
+[
+"DHCP Snooping",
+"Maximum bound entry",
+"4096"
+],
+[
+"IPFIX",
+"",
+""
+],
+[
+"IPFIX",
+"IPFIX member",
+"4096"
+],
+[
+"Reliability",
+"",
+""
+],
+[
+"BFD",
+"Maximum session number",
+"Share 128"
+],
+[
+"S-BFD",
+"Maximum session number",
+"Share 128"
+],
+[
+"VRRP",
+"Maximum group number",
+"63"
+],
+[
+"Smart Link",
+"Maximum group number",
+"16"
+],
+[
+"",
+"Maximum instance number",
+"64"
+],
+[
+"",
+"Switchover time",
+"<50ms"
+],
+[
+"Monitor Link",
+"Maximum group number",
+"16"
+],
+[
+"",
+"Maximum up-link number per group",
+"24"
+],
+[
+"Data center",
+"",
+""
+],
+[
+"VARP",
+"Virtual IP Num per Port",
+"15"
+],
+[
+"VXLAN",
+"VXLAN tunnel",
+"Default profile: 6144"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 1: Performance of VastLakes Platform (Continued)"
+}
+],
+"notes":""
+},
+{
+"n":10,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Specification",
+"Value"
+],
+[
+"Data center",
+"",
+""
+],
+[
+"VXLAN",
+"VXLAN tunnel",
+"Extended-buffer: 6144"
+],
+[
+"",
+"",
+"IPv6 profile: 6144"
+],
+[
+"",
+"",
+"Layer3 profile: 6144"
+],
+[
+"",
+"",
+"MPLS profile: 2040"
+],
+[
+"",
+"VNI",
+"Default profile: 2000"
+],
+[
+"",
+"",
+"Extended-buffer: 2000"
+],
+[
+"",
+"",
+"IPv6 profile: 2000"
+],
+[
+"",
+"",
+"Layer3 profile: 2000"
+],
+[
+"",
+"",
+"MPLS profile: 1000"
+],
+[
+"",
+"VTEP Peer",
+"Default profile: 2048"
+],
+[
+"",
+"",
+"Extended-buffer: 2048"
+],
+[
+"",
+"",
+"IPv6 profile: 2048"
+],
+[
+"",
+"",
+"Layer3 profile: 2048"
+],
+[
+"",
+"",
+"MPLS profile: 256"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 1: Performance of VastLakes Platform (Continued)"
+}
+],
+"notes":""
+},
+{
+"n":11,
+"items":[
+{
+"t":"p",
+"text":"Version Information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Version",
+"Description",
+"Date"
+],
+[
+"V1.0.0",
+"Initial version",
+"12 September 2024"
+]
+]
+},
+{
+"t":"p",
+"text":"Product List Based on VastLakes Platform"
+},
+{
+"t":"table",
+"rows":[
+[
+"Series",
+"Model",
+"Specification"
+],
+[
+"STH10G",
+"STH-2C4XF48XE-HSI",
+"48*100M/1G/2.5G/5G/10G Base-T+4*10G SFP+ 2*100G QSFP28\u000b2*350W Hot-swappable modules \u000b4*Hot-swappable modules"
+],
+[
+"",
+"STH-2C4XF48XE-SFI",
+"48*100M/1G/2.5G/5G/10G Base-T+4*10G SFP+ \n2*100G QSFP28\u000b1*200W Fixed Power Supply\u000b4*Fixed Fan"
+],
+[
+"",
+"STH-2C48XF-SFI",
+"48*10G SFP+ +2*100G QSFP28\n1*200W Fixed Power Supply\nFan: 4*Fixed Fan"
+],
+[
+"",
+"STH-2C24XE-HSI",
+"24*100M/1G/2.5G/5G/10G Multi-Gigabit Base-T\n2*100G QSFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules"
+],
+[
+"",
+"STH-2C24XE-SFI",
+"24*100M/1G/2.5G/5G/10G Multi-Gigabit Base-T\n2*100G QSFP28\n4*Fixed Fans\n1*Fixed Power Supply"
+],
+[
+"",
+"STH-2C24XP-HSI",
+"24*100M/1G/2.5G/5G/10G Multi-Gigabit PoE++\n2*100G QSFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules"
+],
+[
+"",
+"STH-2C24XF-HSI",
+"24*10G SFP+\n2*100G QSFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules"
+],
+[
+"",
+"STH-2C24XF-SFI",
+"24*10G SFP+\n2*100G QSFP28\n4*Fixed Fans\n1*Fixed Power Supply"
+],
+[
+"",
+"STH-8DX24XF-HSI",
+"24*10G SFP+\n8*25/10G SFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 2: Product List Based on VastLakes Platform"
+}
+],
+"notes":""
+},
+{
+"n":12,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Series",
+"Model",
+"Specification"
+],
+[
+"STH10G",
+"STH-8DX24XE-HSI",
+"24*100M/1G/2.5G/5G/10G Multi-Gigabit Base-T\n8*25/10G SFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules"
+],
+[
+"",
+"STH-8DX24XP-HSI",
+"24*100M/1G/2.5G/5G/10G Multi-Gigabit PoE++, \n8*25/10G SFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules"
+],
+[
+"",
+"STH-2QX8DX12XF8GF8GE-HSI",
+"12*10G SFP+\n8*100M/1000M Base-T\n8*1G SFP\n8*25G SFP28\n2*40G QSFP+\n2*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules"
+],
+[
+"STH2.5G",
+"STH-2QX4DX48DE-HSI",
+"48*100M/1G/2.5G Multi-Gigabit Base-T\n2*40G QSFP+, 4*25G/10G SFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules"
+],
+[
+"",
+"STH-2QX4DX48DE-SFI",
+"48*100M/1G/2.5G Multi-Gigabit Base-T\n2*40G QSFP+, 4*25G/10G SFP28\n4*Fixed Fans, 1*Fixed Power Supply"
+],
+[
+"",
+"STH-2QX4DX8XP40DP-HSI",
+"40*100M/1G/2.5G Multi-Gigabit Base-T(PoE++90W)\n8*100M/1G/2.5G/5G/10G Multi-Gigabit Base-T(PoE++90W)\n2*40G QSFP+, 4*25G/10G SFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules"
+],
+[
+"",
+"STH-8DX16XP32DP-HSI",
+"32*100M/1G/2.5G Multi-Gigabit Base-T(PoE++90W)\n16*100M/1G/2.5G/5G/10G Multi-Gigabit Base-T(PoE++90W)\n8*25G/10G SFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules"
+],
+[
+"",
+"STH-8DX8XP16DP-HSI",
+"16*100M/1G/2.5G Multi-Gigabit Base-T(PoE++90W)\n8*100M/1G/2.5G/5G/10G Multi-Gigabit Base-T(PoE++90W)\n8*25G/10G SFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 2: Product List Based on VastLakes Platform (Continued)"
+}
+],
+"notes":""
+},
+{
+"n":13,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Series",
+"Model",
+"Specification"
+],
+[
+"STH5G",
+"STH-2C24VE-HSI",
+"24*100M/1G/2.5G/5G Multi-Gigabit Base-T\n2*100G QSFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules"
+],
+[
+"",
+"STH-2C24VP-HSI",
+"24*100M/1G/2.5G/5G Multi-Gigabit Base-T, PoE++\n2*100G QSFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules"
+],
+[
+"",
+"STH-8DX24VE-HSI",
+"24*100M/1G/2.5G/5G Multi-Gigabit Base-T\n8*25G/10G SFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules"
+],
+[
+"",
+"STH-8DX24VP-HSI",
+"24*100M/1G/2.5G/5G Multi-Gigabit Base-T, PoE++\n8*25G/10G SFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable CRPS Modules"
+],
+[
+"",
+"STH-2C1XF34VE-SFI",
+"34*100M/1G/2.5G/5G Multi-Gigabit Base-T\n1*10GSFP+\n2*100G QSFP28\n4*Fixed Fans\n1*Fixed Power Supply"
+],
+[
+"",
+"STH-4C48VE-HSI",
+"48*100M/1G/2.5G/5G Base-T+4*100G QSFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable PSU"
+],
+[
+"",
+"STH-4C48VE-SFI",
+"48*100M/1G/2.5G/5G Base-T+4*100G QSFP28\n4*Fixed Fans\n1*Fixed Power Supply"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 2: Product List Based on VastLakes Platform (Continued)"
+}
+],
+"notes":""
+},
+{
+"n":14,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Series",
+"Model",
+"Specification"
+],
+[
+"XLite",
+"STH-2C6QX-HSI",
+"6*40G QSFP+, 2*100G QSFP28\n1*Hot-swappable Fan Module\n1*Hot-swappable CRPS Module\n1*ATX(2*3pin) power connecter for redundancy"
+],
+[
+"",
+"STH-2C6QX-SFI",
+"6*40G QSFP+, 2*100G QSFP28\n2*Fixed Fans, 1*Fixed Power Supply\n1*ATX(2*4pin) power connecter for redundancy"
+],
+[
+"",
+"STH-2C24XF-HSI",
+"24*10G SFP+, 2*100G QSFP28\n1*Hot-swappable Fan Modules\n1*Hot-swappable CRPS Modules\n1*ATX(2*3pin) power connecter for redundancy"
+],
+[
+"",
+"STH-2C24XF-SFI",
+"24*10G SFP+, 2*100G QSFP28\n2*Fixed Fans, 1*Fixed Power Supply\n1*ATX(2*4pin) power connecter for redundancy"
+],
+[
+"",
+"STH-2C12XF12XE-HSI",
+"12*10G SFP+, 12*10G Base-T, 2*100G QSFP28\n1*Hot-swappable Fan Module 1*Hot-swappable PSU\n1*ATX(2*3pin) power connecter for redundancy"
+],
+[
+"",
+"STH-2C12XF12XE-SFI",
+"12*10G SFP+, 12*10G Base-T, 2*100G QSFP28\n3*Fixed Fans, 1*Fixed Power Supply\n1*ATX(2*4pin) power connecter for redundancy"
+],
+[
+"",
+"STH-2C24XE-HSI",
+"24*10G Multi-Gigabit Base-T, 2*100G QSFP28\n1*Hot-swappable  Fan Module\n1*Hot-swappable CRPS Modules\n1*ATX(2*3pin) power connecter for redundancy"
+],
+[
+"",
+"STH-2C24XE-SFI",
+"24*10G Multi-Gigabit Base-T, 2*100G QSFP28\n3*Fixed Fans, 1*Fixed Power Supply\n1*ATX(2*4pin) power connecter for redundancy"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 2: Product List Based on VastLakes Platform (Continued)"
+}
+],
+"notes":""
+},
+{
+"n":15,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Series",
+"Model",
+"Specification"
+],
+[
+"STH1G",
+"STH-2QX4DX48GE-HSI",
+"48*10/100/1000M Base-T, 2*40G QSFP+\n4*25G/10G SFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable Power Modules"
+],
+[
+"",
+"STH-2QX4DX48GE-SFI",
+"48*10/100/1000M Base-T, 2*40G QSFP+\n4*25G/10G SFP28\n4*Fixed Fans, 1*Fixed Power Supply"
+],
+[
+"",
+"STH-2QX4DX48GP-HSI",
+"48*10/100/1000M Base-T, PoE++, 2*40G QSFP+, 4*25G/10G SFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable Power Modules"
+],
+[
+"",
+"STH-2QX4DX48GP-SFI",
+"48*10/100/1000M Base-T PoE+, 2*40G QSFP+, 4*25G/10G SFP28\n4*Fixed Fans, 1*Fixed Power Supply"
+],
+[
+"",
+"STH-2QX4DX24GE-HSI",
+"24*10/100/1000M Base-T\n2*40G QSFP+, 4*25G/10G SFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable Power Modules"
+],
+[
+"",
+"STH-2QX4DX24GE-SFI",
+"24*10/100/1000M Base-T\n2*40G QSFP+, 4*25G/10G SFP28\n4*Fixed Fans, 1*Fixed Power Supply"
+],
+[
+"",
+"STH-2QX4DX24GP-HSI",
+"24*10/100/1000M Base-T, PoE++\n2*40G QSFP+, 4*25G/10G SFP28\n2*Hot-swappable Fan Modules\n2*Hot-swappable Power Modules"
+],
+[
+"",
+"STH-2QX4DX24GP-SFI",
+"24*10/100/1000M Base-T, PoE+\n2*40G QSFP+, 4*25G/10G SFP28\n4*Fixed Fans, 1*Fixed Power Supply"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 2: Product List Based on VastLakes Platform(Continued)"
+}
+],
+"notes":""
+}
+]
+}
