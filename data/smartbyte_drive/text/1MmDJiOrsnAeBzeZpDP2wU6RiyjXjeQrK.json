@@ -1,0 +1,140 @@
+{
+"id":"1MmDJiOrsnAeBzeZpDP2wU6RiyjXjeQrK",
+"name":"Variants_小壳系列.docx",
+"path":"SmartByte/Case/Variants_小壳系列.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":1852224,
+"sha256":"ca94b1bdda72ec05931281374b02f6d9bc58836d69037181e41a30902af2e4bc",
+"extracted_at":"2026-10-22T02:10:29Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":653,
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2023-07-22T16:14:00+00:00",
+"modified":"2024-11-10T12:10:03+00:00",
+"paragraphs":14,
+"tables":0,
+"embedded_images":9
+},
+"warnings":[],
+"text":"Dimension: 85*85*30mm\nGross Weight: 0.3KG\nThis enclosure has many models for options.\n100M models\n1000M models\nSFP fiber or 1*9 fixed fiber\nPoE or non-PoE\nBut all is unmanaged.\nDimension: 98*98*48mm\nGross Weight: 0.55KG\nThis enclosure has many models for options.\n4 port and 6 port model ONLY got 100M models(PoE and Non-PoE), without Gigabit models(Gigabit models will be about another enclosure)\n8 port model got 100M and 1000M models(PoE and Non-PoE)\nBut all is unmanaged.\n[页眉页脚]\ns.sagatelecom@gmail.com\n\t\t\t\t\t\t\t                                                                       Saga Telecom\nwww.sagatelecom.com.cn\nConnecting, Converting, Creating",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Dimension: 85*85*30mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Gross Weight: 0.3KG"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This enclosure has many models for options."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"100M models"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1000M models"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SFP fiber or 1*9 fixed fiber"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE or non-PoE"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"But all is unmanaged."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Dimension: 98*98*48mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Gross Weight: 0.55KG"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This enclosure has many models for options."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4 port and 6 port model ONLY got 100M models(PoE and Non-PoE), without Gigabit models(Gigabit models will be about another enclosure)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8 port model got 100M and 1000M models(PoE and Non-PoE)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"But all is unmanaged."
+}
+],
+"header_footer":[
+"s.sagatelecom@gmail.com\n\t\t\t\t\t\t\t                                                                       Saga Telecom",
+"www.sagatelecom.com.cn",
+"Connecting, Converting, Creating"
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":249450
+},
+{
+"name":"image2.png",
+"bytes":261129
+},
+{
+"name":"image3.png",
+"bytes":254942
+},
+{
+"name":"image4.png",
+"bytes":255626
+},
+{
+"name":"image5.png",
+"bytes":208692
+},
+{
+"name":"image6.png",
+"bytes":181894
+},
+{
+"name":"image7.png",
+"bytes":196731
+},
+{
+"name":"image8.png",
+"bytes":218634
+}
+]
+}

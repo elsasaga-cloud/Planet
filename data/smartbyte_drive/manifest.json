@@ -3692,6 +3692,28 @@
 "uploaded":true
 }
 ]
+},
+"Case":{
+"done":true,
+"at":"2026-10-22T02:10:31Z",
+"files":2,
+"bytes":2575048,
+"parts":[
+{
+"asset":"smartbyte_drive_case_part01.zip",
+"bytes":2575426,
+"sha256":"adbb8eebf5fdb341755b1f86a84b5c1039daed1d4dbf18356307bff3cec182e9",
+"files":[
+"1OimqnqBeHomv2ETCeLF0R9_sjQN5EQIh",
+"1MmDJiOrsnAeBzeZpDP2wU6RiyjXjeQrK"
+],
+"paths":[
+"SmartByte/Case/Case 1_工业L3管理--Smartbyte feedback.docx",
+"SmartByte/Case/Variants_小壳系列.docx"
+],
+"uploaded":true
+}
+]
 }
 },
 "runs":[
@@ -3705,10 +3727,10 @@
 ],
 "files_total_in_index":2385,
 "index_source":"Google Drive 文件夹《SmartByte》(id 1jI4rZhiG16A8ztB2LK-2YYlolxMbPLzQ)，Simon 于 2026-10-20 上传",
-"updated_at":"2026-10-22T02:10:25Z",
-"files_in_manifest":1751,
+"updated_at":"2026-10-22T02:10:31Z",
+"files_in_manifest":1753,
 "status_counts":{
-"ok":567,
+"ok":569,
 "dup":902,
 "meta":281,
 "fail":1
@@ -3989,6 +4011,50 @@
 "ocr_text":"S\nS\nrn\noO\nes\n©\nA.\n品\n下\n9\n<",
 "ocr_conf":48.3,
 "secs":3.4
+},
+"1OimqnqBeHomv2ETCeLF0R9_sjQN5EQIh":{
+"id":"1OimqnqBeHomv2ETCeLF0R9_sjQN5EQIh",
+"name":"Case 1_工业L3管理--Smartbyte feedback.docx",
+"path":"SmartByte/Case/Case 1_工业L3管理--Smartbyte feedback.docx",
+"folder":"SmartByte/Case",
+"top":"Case",
+"type":"Word",
+"ext":".docx",
+"bytes":722824,
+"sha256":"17ae9cbcc3d0de2d7fa6be61c255dcac841bf3aab35b0472fca39cf5a8594129",
+"status":"ok",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"chars":955,
+"same_as":"",
+"text_file":"text/1OimqnqBeHomv2ETCeLF0R9_sjQN5EQIh.json",
+"thumb":"",
+"error":"",
+"at":"2026-10-22T02:10:27Z",
+"index_summary":"Case 1 工业 L3 管理案例 — SmartByte 反馈（2024-02）",
+"bytes_actual":722824,
+"secs":2.0
+},
+"1MmDJiOrsnAeBzeZpDP2wU6RiyjXjeQrK":{
+"id":"1MmDJiOrsnAeBzeZpDP2wU6RiyjXjeQrK",
+"name":"Variants_小壳系列.docx",
+"path":"SmartByte/Case/Variants_小壳系列.docx",
+"folder":"SmartByte/Case",
+"top":"Case",
+"type":"Word",
+"ext":".docx",
+"bytes":1852224,
+"sha256":"ca94b1bdda72ec05931281374b02f6d9bc58836d69037181e41a30902af2e4bc",
+"status":"ok",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"chars":653,
+"same_as":"",
+"text_file":"text/1MmDJiOrsnAeBzeZpDP2wU6RiyjXjeQrK.json",
+"thumb":"",
+"error":"",
+"at":"2026-10-22T02:10:27Z",
+"index_summary":"小壳系列变体说明（Variants）：3 系小机壳可选配置",
+"bytes_actual":1852224,
+"secs":2.0
 },
 "1FBVqfUZ-ezFy92IjrmEH-m22bzeZT1oT":{
 "id":"1FBVqfUZ-ezFy92IjrmEH-m22bzeZT1oT",
