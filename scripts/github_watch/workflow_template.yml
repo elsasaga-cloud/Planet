@@ -1,0 +1,35 @@
+# 模板：定时 GitHub 监控（freddy36 / SmartByte 上游）。Agent 无权推送 .github/workflows/，
+# 如需无人值守，请用户自行把本文件复制为 .github/workflows/github-watch.yml（1 分钟）。
+# 每 6 小时跑一次；有变化就 commit 到当前分支；默认 GITHUB_TOKEN 够用（只读公开 API + 本仓库写）。
+name: github-watch
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: github-watch
+  cancel-in-progress: false
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: arena/3f35b9b3-planet
+          fetch-depth: 1
+      - name: run watcher
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/github_watch/watch.py
+      - name: commit
+        run: |
+          git config user.name "github-watch[bot]"
+          git config user.email "github-watch@users.noreply.github.com"
+          git add data/github_watch
+          git diff --cached --quiet && echo "no change" && exit 0
+          git commit -m "github_watch: $(date -u +%FT%H:%MZ) 自动快照"
+          git pull --rebase origin arena/3f35b9b3-planet
+          git push origin HEAD:arena/3f35b9b3-planet

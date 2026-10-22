@@ -1,0 +1,53 @@
+{
+  "_comment": "监控对象（T29-U16 宪法条款）。user = NYNEX/fiberONE 的 Frederik Kriewitz（SA-013）。forks = 他 fork 的网管项目（分支上会先出现未合并的新机型/新厂商工作）。upstream_repos = 上游仓库中 SmartByte 相关文件（任何人改动都是信号）。code_searches / repo_searches = 全站搜索 SmartByte / Saga 型号与名字（新命中 = 新 OEM 客户或新集成）。搜索词用 + 连接（URL 查询语法）。",
+  "user": "freddy36",
+  "forks": [
+    {
+      "repo": "librenms",
+      "upstream": "librenms/librenms",
+      "base": "master"
+    },
+    {
+      "repo": "oxidized",
+      "upstream": "ytti/oxidized",
+      "base": "master"
+    }
+  ],
+  "upstream_repos": [
+    {
+      "repo": "librenms/librenms",
+      "branch": "master",
+      "pattern": "smartbyte"
+    },
+    {
+      "repo": "ytti/oxidized",
+      "branch": "master",
+      "pattern": "smartbyte"
+    },
+    {
+      "repo": "netdata/netdata",
+      "branch": "master",
+      "pattern": "smartbyte"
+    },
+    {
+      "repo": "TencentBlueKing/bk-lite",
+      "branch": "master",
+      "pattern": "smartbyte"
+    }
+  ],
+  "code_searches": [
+    "smartbyte+snmp",
+    "%22SmartByte+OS%22",
+    "STC-4168XGGCM",
+    "1.3.6.1.4.1.56166",
+    "LT-S8528XG",
+    "smartbyte-switch.com",
+    "%22sagatele.com%22",
+    "%22Saga+Telecom%22+switch"
+  ],
+  "repo_searches": [
+    "smartbyte+switch",
+    "smartbyte+snmp",
+    "nynex"
+  ]
+}

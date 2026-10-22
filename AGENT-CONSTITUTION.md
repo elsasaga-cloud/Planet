@@ -60,3 +60,11 @@
 2. 档位默认：分销/走量/比价型 20%；集成商/项目型 25%；OEM/ODM 深度定制或小批量技术型 30%。每份档案写明所选档位与理由。
 3. 档案与邮件里写 **Saga 型号**（STC-/STI-）；Saga 无对应规格时写 SmartByte 型号（LT-）并**显式注明**「Saga 暂无对应型号，沿用 SmartByte 型号」。
 4. 汇率与价格快照日期写进每条报价；汇率来源记录在 `docs/rules/报价与型号规则.md`。
+
+## 第九条 · GitHub 监控：freddy36 / NYNEX（用户宪法级要求，2026-10-22 T29-U16）
+
+1. 监控对象：GitHub 用户 **freddy36 = Frederik Kriewitz**（成单客户 SA-013 NYNEX / fiberONE 的技术决策人；LibreNMS PR #18681 / Oxidized PR #3734 把 Saga 卖给他的 STC-4168XGGCM 与 SmartByte 写进了上游）。他的所有公开活动——仓库、分支、提交、PR、issue、评论、star、following、gist——以及上游仓库（librenms/librenms、ytti/oxidized、netdata/netdata、TencentBlueKing/bk-lite）里任何人对 SmartByte 相关文件的改动、全站对 SmartByte / Saga 型号与名字的新命中，都是**极为敏感**的信号。
+2. **每轮开工必跑** `python3 scripts/github_watch/watch.py`（约 1 分钟），变化自动追加到 `data/github_watch/变化日志.md`（append-only，无变化也记一行证明查过），快照存 `data/github_watch/snapshots/`，上游文件副本存 `data/github_watch/upstream_files/`。跑完必须 commit + push，提交信息带「github_watch」。
+3. 有变化时：当轮回复里**第一条**就向用户汇报（不等用户问），并把解读写进 `data/saga_clients/research/SA-013.json`（evidence/signals，带日期与 URL），`docs/成单客户_NYNEX_维护计划_2026-10-22.md` 追加一行。
+4. 监控范围只增不减；新增对象写进 `scripts/github_watch/targets.json` 并在本条款下补一行（带日期）。不得在 GitHub 上与他互动（不 star、不 follow、不评论、不 fork 他的仓库）——只读。
+5. Agent 无法向 `.github/workflows/` 推送；定时无人值守监控的模板放在 `scripts/github_watch/workflow_template.yml`，由用户自行决定是否安装。

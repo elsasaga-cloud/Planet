@@ -162,7 +162,7 @@
    "date": "2024-11-15"
   }
  ],
- "notes": "A 维持：运营商持续采购楼宇接入交换机（48 口/L2+/2.5G 上联）与贴牌 MC/SFP；P1 改 STC-448XGGPM 或 STC-424XGGPM-280W（10G 上联）。\n【2026-10-22 复盘补】NYNEX 2025-03 的 SNMP/MIB 合规追问是「工程型缓冲层」的真实考题：欧洲客户会用 snmpwalk 核 OID 归属。Saga 应自己申请一个 IANA PEN（免费、在线表单、约 1–2 周）并要求 SmartByte 在 Saga 版固件里只保留 Saga PEN 下的私有 MIB；给 NYNEX/德国客户的 OEM 说明要能回答「OEM 数据是固件内写死还是独立配置分区」。对应 Q-35。 ｜ 针对性加厚 2026-10-22（S 邮箱 2026-09/10 第 6 单，T29-U13 ②） ｜ 【Simon 2026-10-22 口径】NYNEX 由 Peter 技术跟进、只能在 Saga 下单；宣传 SmartByte 品牌是合作约定 → 之前「Saga 自申 PEN」建议作废。维护计划见 docs/成单客户_NYNEX_维护计划_2026-10-22.md",
+ "notes": "A 维持：运营商持续采购楼宇接入交换机（48 口/L2+/2.5G 上联）与贴牌 MC/SFP；P1 改 STC-448XGGPM 或 STC-424XGGPM-280W（10G 上联）。\n【2026-10-22 复盘补】NYNEX 2025-03 的 SNMP/MIB 合规追问是「工程型缓冲层」的真实考题：欧洲客户会用 snmpwalk 核 OID 归属。Saga 应自己申请一个 IANA PEN（免费、在线表单、约 1–2 周）并要求 SmartByte 在 Saga 版固件里只保留 Saga PEN 下的私有 MIB；给 NYNEX/德国客户的 OEM 说明要能回答「OEM 数据是固件内写死还是独立配置分区」。对应 Q-35。 ｜ 针对性加厚 2026-10-22（S 邮箱 2026-09/10 第 6 单，T29-U13 ②） ｜ 【Simon 2026-10-22 口径】NYNEX 由 Peter 技术跟进、只能在 Saga 下单；宣传 SmartByte 品牌是合作约定 → 之前「Saga 自申 PEN」建议作废。维护计划见 docs/成单客户_NYNEX_维护计划_2026-10-22.md ｜ 【2026-10-22T15:48Z】GitHub 监控上线（宪法第九条）：scripts/github_watch/watch.py，每轮必跑，变化见 data/github_watch/变化日志.md",
  "researched_at": "2026-10-22",
  "deep": {
   "done_at": "2026-10-21",
@@ -204,7 +204,11 @@
   "2025-08-31：Kriewitz/Frank 署名提交 TKG 修法意见书——Kriewitz 为公司决策层之一（https://bmds.bund.de/…/NYNEX_Stellungnahme_Eckpunktepapier_fiberONE_BMDS_31-August-2025.pdf）",
   "2026-10：公司 26 周年，上线 nynex.ai 自建 AI 基础设施，品牌族 nynex.de/fiberONE/nynex.ai 完整（https://nynex.de/geschichte.html）",
   "用户表：已成单（Frederik Kriewitz），要自有 logo",
-  "2026-01-11：Frederik Kriewitz 向 LibreNMS 提交并合并 SmartByte OS 支持（PR #18681），测试机为 Saga STC-4168XGGCM —— 客户在为供应商做上游生态适配，是深度绑定信号；跟进时可致谢并提供 MIB 更新 / 新机型 snmprec"
+  "2026-01-11：Frederik Kriewitz 向 LibreNMS 提交并合并 SmartByte OS 支持（PR #18681），测试机为 Saga STC-4168XGGCM —— 客户在为供应商做上游生态适配，是深度绑定信号；跟进时可致谢并提供 MIB 更新 / 新机型 snmprec",
+  "2026-10-22 GitHub 全量盘点（data/github_watch/）：freddy36 共 89 个 PR / 17 个 issue；网管相关 PR 揭示 NYNEX 在用/测过的设备：BDCOM（2024-04→2026-01，含 FS 贴牌 BDCOM）、FS 贴牌 Centec（LibreNMS #16175 2024-07）、Centec CNOS（Oxidized #2023 2020-01、#3892「CNOS: improve support」2026-08-19 合并 2026-09-22 → 2026 年仍在部署 Centec 设备）、Fiberstore S3900（2019/2024）、Edge-Core EdgeCOS（2019→2026-01）、GCOM BNPS（2017）、Mellanox（2020）、NUT/APC UPS、Checkmk（自有仓库 check_mk_extensions ★12）。SmartByte 相关：LibreNMS #18681（2025-12-19→2026-01-11）、#18856 fix opticalVoltage（2026-01-23）、Oxidized #3734（2026-01-23→02-13）。",
+  "2026-10-22：他在 LibreNMS #18955（FS S3410 = FS 贴牌 Ruijie，2026-01-30→02-24）里以审阅者身份指导别人 → 他是 LibreNMS 社区里 FS.com（Fiberstore）贴牌设备的权威；NYNEX 大量采购 FS.com（欧洲仓、现货）—— 2026-01「230 台因交期给了现有供应商」的现有供应商很可能就是 FS.com 系。",
+  "2026-10-22：GitHub star/following 画像：2024-09 star krusic22/SFP-Transceiver-Flashing（改写 SFP EEPROM/厂商锁 → 他们自己刷光模块兼容码，Saga 供 SFP 时要给可编码/不锁码的）；2026-03 star denog/denog-wg-access（DENOG 德国运营商社区成员）；star rtbrick/bngblaster、inex/IXP-Manager、snabb、trex；following bisdn（白盒 NOS 厂商）。近 90 天公开事件仅 1 条（2026-09-22 Oxidized PR 合并）。",
+  "Simon 2026-10-22（T29-U16）决定：CENTEC 线自己想办法；备货与 Peter 私下谈；7.5 固件出货前确认；备件 OK；授权书不主动提（客户提再说）；「欧洲代理」只是说辞，Saga 体量不是总代。"
  ],
  "risks": [
   "运营商自建网 → 对设备稳定性与固件（VLAN/QinQ/IGMP）要求高，需提供管理型固件说明",
