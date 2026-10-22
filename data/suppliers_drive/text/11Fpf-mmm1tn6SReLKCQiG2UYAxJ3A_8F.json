@@ -1,0 +1,26 @@
+{
+"id":"11Fpf-mmm1tn6SReLKCQiG2UYAxJ3A_8F",
+"name":"4.jpg",
+"path":"Realtek Based Commercial Switch/Commercial Managed Switch/STC-2216GPM/4.jpg",
+"type":"图片",
+"bytes":412838,
+"sha256":"fb90efcebacd50b5db083aceb3723a8d74290f6d71517b29bee25d09efd8bc5a",
+"extracted_at":"2026-10-22T08:45:47Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":5177,
+"height":3452,
+"mode":"RGB",
+"datetime":"2020:06:17 09:11:55",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CS6 (Windows)",
+"thumb_bytes":2512
+},
+"ocr":{
+"text":"AC INPUT 100-240V",
+"conf":90.9
+},
+"text":"AC INPUT 100-240V"
+}

@@ -1,0 +1,22 @@
+{
+"id":"1S8NaM3N_D7rDWv3_QBPZAva4L6yVoS74",
+"name":"1.jpg",
+"path":"Realtek Based Commercial Switch/Commercial Managed Switch/STC-28GM/1.jpg",
+"type":"图片",
+"bytes":641794,
+"sha256":"759a1d06f77f50cb4ae2696411f63438bbeff979b63b88322ab9eee8819d7fe4",
+"extracted_at":"2026-10-22T08:45:49Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":4950,
+"height":3569,
+"mode":"RGB",
+"thumb_bytes":4355
+},
+"ocr":{
+"text":"Link/Act\nioddl WO0OL/001/0}\nGigabit Managed Switch\nmom ate, | sit\nConsole 10@ PWRe",
+"conf":65.8
+},
+"text":"Link/Act\nioddl WO0OL/001/0}\nGigabit Managed Switch\nmom ate, | sit\nConsole 10@ PWRe"
+}

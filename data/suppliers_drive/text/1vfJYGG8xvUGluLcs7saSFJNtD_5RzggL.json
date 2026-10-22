@@ -1,0 +1,26 @@
+{
+"id":"1vfJYGG8xvUGluLcs7saSFJNtD_5RzggL",
+"name":"1.jpg",
+"path":"Realtek Based Commercial Switch/Commercial Managed Switch/STC-424GM/1.jpg",
+"type":"图片",
+"bytes":1837211,
+"sha256":"c97947bf63ed35fce9c4a521e6217669bd70bbfe74142cfdb2a316e620201dc9",
+"extracted_at":"2026-10-22T08:46:10Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":5050,
+"height":3366,
+"mode":"RGB",
+"datetime":"2019:11:07 14:48:24",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC (Windows)",
+"thumb_bytes":5354
+},
+"ocr":{
+"text":"a\n同\n器\n3\n名\n自\n8\n三\nea\n只\n品\nConsole -一 2 —— 4\n26 28\neeeAcT\n3 5 7 9 1113 15 17 19 21 23 25\n8 10 12 14 16 18 20 22\neeeee\neeeeeeeeeeeeeeLink\n1\neeeeeeeeeeeeeeAcT\n2 4 6\nsyse eeeeeeeeeeeeeeLink\nPWRe @ @",
+"conf":82.7
+},
+"text":"a\n同\n器\n3\n名\n自\n8\n三\nea\n只\n品\nConsole -一 2 —— 4\n26 28\neeeAcT\n3 5 7 9 1113 15 17 19 21 23 25\n8 10 12 14 16 18 20 22\neeeee\neeeeeeeeeeeeeeLink\n1\neeeeeeeeeeeeeeAcT\n2 4 6\nsyse eeeeeeeeeeeeeeLink\nPWRe @ @"
+}

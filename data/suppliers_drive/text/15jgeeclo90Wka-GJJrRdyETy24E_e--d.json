@@ -1,0 +1,26 @@
+{
+"id":"15jgeeclo90Wka-GJJrRdyETy24E_e--d",
+"name":"1.jpg",
+"path":"Realtek Based Commercial Switch/Commercial Managed Switch/STC-2216GPM/1.jpg",
+"type":"图片",
+"bytes":737092,
+"sha256":"ecb81b41fa034ffe72a62705f55a7807150dce231c48ecdfb9d9f1bbc20896b7",
+"extracted_at":"2026-10-22T08:45:44Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":1934,
+"mode":"RGB",
+"datetime":"2022:04:23 14:48:21",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":3707
+},
+"ocr":{
+"text":"Gigabit Managed PoE Switch",
+"conf":96.6
+},
+"text":"Gigabit Managed PoE Switch"
+}

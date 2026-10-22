@@ -1,0 +1,26 @@
+{
+"id":"1sO_TtWiApcZP0ktyEl9gxSnvfbOUVOFV",
+"name":"4.jpg",
+"path":"Realtek Based Commercial Switch/Commercial Managed Switch/STC-4424GCPM/4.jpg",
+"type":"图片",
+"bytes":2222944,
+"sha256":"eef5f44242340c9960c0072e88697ee51eccbb723d5af6dedd8e5329341ac5c0",
+"extracted_at":"2026-10-22T08:46:11Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":3456,
+"mode":"RGB",
+"datetime":"2020:11:20 14:02:17",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC (Windows)",
+"thumb_bytes":3702
+},
+"ocr":{
+"text":"AC INPUT | | i | |",
+"conf":78.5
+},
+"text":"AC INPUT | | i | |"
+}

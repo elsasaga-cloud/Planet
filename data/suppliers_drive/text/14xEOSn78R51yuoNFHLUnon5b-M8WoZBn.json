@@ -1,0 +1,26 @@
+{
+"id":"14xEOSn78R51yuoNFHLUnon5b-M8WoZBn",
+"name":"2.jpg",
+"path":"Realtek Based Commercial Switch/Commercial Managed Switch/STC-424XGGM/2.jpg",
+"type":"图片",
+"bytes":1997247,
+"sha256":"7c92be25c0a63df0309efc7dcb27cbe260f1a793e9b5fc0b7e6e95bce4b21176",
+"extracted_at":"2026-10-22T08:46:04Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":3456,
+"mode":"RGB",
+"datetime":"2021:03:05 11:49:19",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":5777
+},
+"ocr":{
+"text":"Managed Ethernet Switch\ni <I",
+"conf":71.0
+},
+"text":"Managed Ethernet Switch\ni <I"
+}

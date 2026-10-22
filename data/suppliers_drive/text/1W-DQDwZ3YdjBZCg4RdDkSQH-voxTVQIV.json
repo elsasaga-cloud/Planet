@@ -1,0 +1,26 @@
+{
+"id":"1W-DQDwZ3YdjBZCg4RdDkSQH-voxTVQIV",
+"name":"3.jpg",
+"path":"Realtek Based Commercial Switch/Commercial Managed Switch/STC-4424GCPM/3.jpg",
+"type":"图片",
+"bytes":1852090,
+"sha256":"7fc1f641cccdfdd3e60447a1aa32e866cfadbe13b5fcf2a1078c2e82efe67623",
+"extracted_at":"2026-10-22T08:46:12Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":3456,
+"mode":"RGB",
+"datetime":"2020:11:20 14:01:06",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC (Windows)",
+"thumb_bytes":4484
+},
+"ocr":{
+"text":"“一 + 一 一\nGigabit Managed PoE Switch\neset",
+"conf":69.1
+},
+"text":"“一 + 一 一\nGigabit Managed PoE Switch\neset"
+}

@@ -1,0 +1,22 @@
+{
+"id":"1x1GLWdLuRcnYgE94KqnXtYyem-E_p0rA",
+"name":"4.png",
+"path":"Realtek Based Commercial Switch/Commercial Managed Switch/STC-4248XGGCM/4.png",
+"type":"图片",
+"bytes":2760101,
+"sha256":"9daaa0ab5fb498ec3d7e11c05d285ee1431b130a2bd2b0e1c950536254b803e1",
+"extracted_at":"2026-10-22T08:45:57Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5184,
+"height":3456,
+"mode":"RGBA",
+"thumb_bytes":2412
+},
+"ocr":{
+"text":"全 ony\n@\nAC INPUT 100-240V",
+"conf":55.7
+},
+"text":"全 ony\n@\nAC INPUT 100-240V"
+}

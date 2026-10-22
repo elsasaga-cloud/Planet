@@ -1,0 +1,26 @@
+{
+"id":"1PkuYqGklDJ-3z5r1NAI2PoKP49bayJ5I",
+"name":"4.jpg",
+"path":"Realtek Based Commercial Switch/Commercial Managed Switch/STC-120XGM/4.jpg",
+"type":"图片",
+"bytes":2247086,
+"sha256":"6894cf703f9b051ba02fc02005c9fed772205726fe189724697dfcd4f9af14ae",
+"extracted_at":"2026-10-22T08:45:44Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":3456,
+"mode":"RGB",
+"datetime":"2022:06:21 10:27:20",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":2346
+},
+"ocr":{
+"text":"INPUT",
+"conf":88.4
+},
+"text":"INPUT"
+}

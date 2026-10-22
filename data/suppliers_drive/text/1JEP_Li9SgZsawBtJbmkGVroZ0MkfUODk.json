@@ -1,0 +1,24 @@
+{
+"id":"1JEP_Li9SgZsawBtJbmkGVroZ0MkfUODk",
+"name":"4.jpg",
+"path":"Realtek Based Commercial Switch/Commercial Managed Switch/STC-28GM/4.jpg",
+"type":"图片",
+"bytes":3030876,
+"sha256":"d9acd880923afbcbfba4c7e87ca04d71633e3a8513aefbd4d912dfa4c90348c7",
+"extracted_at":"2026-10-22T08:45:53Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":2305,
+"mode":"RGB",
+"datetime":"2020:06:17 08:56:17",
+"software":"Adobe Photoshop CS6 (Windows)",
+"thumb_bytes":2699
+},
+"ocr":{
+"text":"AC INPUT\n100-240V",
+"conf":91.0
+},
+"text":"AC INPUT\n100-240V"
+}

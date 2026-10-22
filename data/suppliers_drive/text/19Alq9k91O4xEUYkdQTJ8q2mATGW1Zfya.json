@@ -1,0 +1,26 @@
+{
+"id":"19Alq9k91O4xEUYkdQTJ8q2mATGW1Zfya",
+"name":"1.jpg",
+"path":"Realtek Based Commercial Switch/Commercial Managed Switch/STC-28GPM/1.jpg",
+"type":"图片",
+"bytes":1532783,
+"sha256":"d5e8665bf9fd5b7d94bee26bef89fc848bce76b4ba424c1088233396024e2e2d",
+"extracted_at":"2026-10-22T08:45:52Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":4950,
+"height":3569,
+"mode":"RGB",
+"datetime":"2022:04:27 17:01:52",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":4323
+},
+"ocr":{
+"text":"PoE\nLink/Act\nGigabit Managed PoE Switch | Reset\nConsole 5 PwR@ ”SYSs@",
+"conf":76.6
+},
+"text":"PoE\nLink/Act\nGigabit Managed PoE Switch | Reset\nConsole 5 PwR@ ”SYSs@"
+}

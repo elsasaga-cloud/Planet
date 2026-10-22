@@ -1,0 +1,26 @@
+{
+"id":"13_T6fZzOlE-sUFUyHSoAaHadkZqpl4kp",
+"name":"1.jpg",
+"path":"Realtek Based Commercial Switch/Commercial Managed Switch/STC-624XGDGM/1.jpg",
+"type":"图片",
+"bytes":1591058,
+"sha256":"4491d15cab13c76c14d55979bd192a64bf4a96a663283a69b6784e2a2ca0e2cb",
+"extracted_at":"2026-10-22T08:46:21Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":5035,
+"height":3357,
+"mode":"RGB",
+"datetime":"2023:06:16 15:57:17",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":4483
+},
+"ocr":{
+"text":"2.5G Managed Switch\n_—— |",
+"conf":68.1
+},
+"text":"2.5G Managed Switch\n_—— |"
+}

@@ -1,0 +1,22 @@
+{
+"id":"1O6e7csmKCPTr_OPKuhEDnylqySEjWfHk",
+"name":"2.jpg",
+"path":"Realtek Based Commercial Switch/Commercial Managed Switch/STC-120XGM/2.jpg",
+"type":"图片",
+"bytes":1585143,
+"sha256":"5818331d3213759906e45ca314ffa533048891a1766380b9ccd1c7ba2b622dcb",
+"extracted_at":"2026-10-22T08:45:43Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":4897,
+"height":3265,
+"mode":"RGB",
+"thumb_bytes":4287
+},
+"ocr":{
+"text":"ed switch\n106Manag",
+"conf":57.7
+},
+"text":"ed switch\n106Manag"
+}

@@ -1,0 +1,26 @@
+{
+"id":"1INYwbCQRzS1HG2qUygLq0o3vaaTG7t4N",
+"name":"1.jpg",
+"path":"Realtek Based Commercial Switch/Commercial Managed Switch/STC-624XGDGPM/1.jpg",
+"type":"图片",
+"bytes":1636395,
+"sha256":"fe73d13aa2c58206730beab0bce8ceed74c8d07ca8de063e06e1ddcf12ba2118",
+"extracted_at":"2026-10-22T08:46:24Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":5035,
+"height":3357,
+"mode":"RGB",
+"datetime":"2023:06:16 15:29:39",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":4575
+},
+"ocr":{
+"text":"2.5G Managed PoE Switch",
+"conf":92.0
+},
+"text":"2.5G Managed PoE Switch"
+}

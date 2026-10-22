@@ -1,0 +1,24 @@
+{
+"id":"1zhmSIgIZKTRM0FbSAfG0fF--ETsnlCH1",
+"name":"1.jpg",
+"path":"Realtek Based Commercial Switch/Commercial Managed Switch/STC-448XGGPM/1.jpg",
+"type":"图片",
+"bytes":2983118,
+"sha256":"76e765b9fbff8a28b36f04b5ff4da20f28cf7063b8bde7fe2d2490fd366aa1e3",
+"extracted_at":"2026-10-22T08:46:26Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":5905,
+"height":4111,
+"mode":"RGB",
+"datetime":"2021:05:08 18:07:24",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":5823
+},
+"ocr":{
+"text":"Ato vi an Vio At vis Ate wm As mi 20 mail a2 5 A26 V2? A2a 29 Aa0 Ya An va aa was Aa6 wa As mas Ab wo Ab Wao Aue Was Aus wo At\nReset\nL3 Managed Gigabit PoE Switch",
+"conf":49.0
+},
+"text":"Ato vi an Vio At vis Ate wm As mi 20 mail a2 5 A26 V2? A2a 29 Aa0 Ya An va aa was Aa6 wa As mas Ab wo Ab Wao Aue Was Aus wo At\nReset\nL3 Managed Gigabit PoE Switch"
+}
