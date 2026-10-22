@@ -1,0 +1,421 @@
+{
+"id":"14cXs4W9nA2VbOI2vjHvdW7KBaGhjCvak",
+"name":"STH800G Series.pptx",
+"path":"CENTEC Based High-Speed Network/STH800G/STH800G Series.pptx",
+"type":"PPT",
+"ext":".pptx",
+"bytes":1408408,
+"sha256":"076a5bf6645424b968847b3b1e023ab858e754e0602e35eaccf6c30b3d893e59",
+"extracted_at":"2026-10-22T08:38:59Z",
+"method":"python-pptx",
+"status":"ok",
+"chars":5101,
+"meta":{
+"slides":6,
+"pictures":3
+},
+"warnings":[],
+"text":"[slide 1]\nSTH800G SERIES SWITCHES\nDATASHEET\nHigh Performance Data Center Switch\nProduct Overview\nThe STH800G Series switches are designed on a domestic new generation switch Chip, which is called SerdesX Series Chip platform.\nWith 32 x 800G high speed ports and rich features, these switches will perfectly meet the requirements of supercomputing, Data Center, and AI/ML Networks.\nKey features of the STH800G Series switches\nHigh-density 800G switch, 32*800G OSFP\nRedundant hot-swappable power and fans ensure continuous stability\nMPLS (label-switching-based) integrates IP flexibility and connection-oriented reliability, enabling isolated multi-service bearing, precise traffic scheduling, fast fault self-healing, and lower networking costs to meet multi-scenario efficient needs\nSupport VXLAN/EVPN tunnel technology, unlimited data transmission\nRDMA end-to-end data forwarding, build a lossless network without packet loss\nSupport MLAG, cross-device link aggregation technology\nThe STH800G Series switches provide redundant hot-swappable power supplies (AC and DC are both available) and 4 bays with Field replaceable fan modules.\nGenerally, airflow of STH800G Series is front to rear (AFO), but a customization of rear to front (AFI) airflow is also acceptable.\nTable 1: Feasible PSU and airflow of STH-32OC\nVersion: V1.2\nRelease Date: 2025/12/20\nItems\tAC\tDC\tAFO\tAFI\tPower Input\tFAN\nSTH-32OC-HSI\t◯\t◯\t◯\t◯\t2\t4\n\n[slide 2]\nThe STH800G Series switches support varied management ways, include console port / in-band network ports / out-of-band network port. Support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, SSL, etc. to ensure security of management.\nMoreover, leveraging its profound technical expertise and in-depth understanding of campus and enterprise networking needs, Saga Telecom has launched the Da Hu Cloud Management System (DHCS).\nIt enhances network management and maintenance efficiency, reduces costs, elevates management intelligence, and delivers a faster, smarter, more secure and reliable network to better meet user requirements.\n\n[slide 3]\nTable 2: Family of the STH800G Series switches\nThe STH800G ports at a glance\nVisual WEB UI\nSTOS allows you to quickly configure common configuration items using a visual WEB UI, which lowers the application threshold for users.\nModels\tEthernet Ports\tManagement\tPSU 1/PSU 2\tCooling\nSTH-32OC-HSI\t32 x 800G OSFP\tConsole: RJ45 to RS232\u000bEthernet: 1G Port\t2 x CRPS\t4 x Fan Modules\u000b(front-to-back airflow)\n\n[slide 4]\nSTH800G Series Physical Specifications\nPacket Switch capacity (Tbps)\nSTH-32OC-HSI: 51.2 Tbps (bidirectional)\nLayer 2/Layer 3 Throughput (Gpps)\nSTH-32OC-HSI: 76.19 Gpps (bidirectional)\nCPU\nQuad-core processor, ARM A53\nMemory\neMMc: 8GB on all models\nDRAM: 4GB on all models\nWeight (Net weight/Gross weight)\nSTH-32OC-HSI: 11.8Kg/16Kg\nDimensions (W x H x D) without package\nSTH-32OC-HSI: 44.2 x 8.8 x 56cm\nMTBF\nSTH-32OC-HSI: ≥90000H\nEnvironmental ranges\nOperating temperature: 0ºC to 45ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90% (No condensation)\nStore Humidity: 5 to 95% (No condensation)\nTemperature alarm\nAlarm threshold: 50ºC\n\n[slide 5]\nSTH800G Software Specifications\nSaga Telecom implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘STOS Software features’ .\n* All Saga Telecom switches use a normalized software platform and image package file\n* Unified software version iteration plan\n* Unified user experience\nSTOS Network Platform\nLayer 2 switching\nIPv4/lPv6 Unicast Routing\nQoS\nIP Multicast Snooping/Proxy\nIPv4/lPv6 Multi cast Routing\nVRRP\nMultiprotocol Label Switching(MPLS)\nVirtual Private LAN Service(VPLS)\nVirtual Routing and Switching\nGeneralized Multiprotocol LabelSwitching(GMPLS)\nIPv6 Tunneling and TransitionTechnologies\nIP/MPLS OAM\nService management module\nFault Managemet (FM)\nHigh Availability (HA)\nIntegrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)\nHardware and platform abstraction layer\nAdvanced integration Suite\nCENTEC swtich chip  SDK\nSilicon in Pizza, Stacking or Chassis\nConfiguration\nOperating Systems TCP/IP Stacks\nLinux , IPv4/Pv6 Dual Stack\nHardware layer\nCENTEC Switch Chipset\nCPU Subsystem\nCooling SubSystem\nAC/DC DC/DC CLK\nEnvironmental Management Subsystem\nLogical Control Subunit\n\n[slide 6]\nOrdering Information\nSoftware Licenses\nAccessory of STH800G\nSTH800G Series Switches\nAC Power Supplies use for STH800G\nItems\tDescription\nSTH-32OC-HSI\t800G Data Center Switch, with 32*800G OSFP, Dual power supply modules(C13), 4 hot-swappable fan modules.\nItems\tDescription\nSoftware License\tMS, L3 enhance features software license key, Preinstalled\nSoftware License\tMA, MPLS features software license key\nSoftware License\tST, Stacking feature software license key\nItems\tFront Mounting\tRear Mounting\tScrew\tPower Cord\tConsole (RS232 to RJ45)\tGrounding Cable\nSTH-32OC-HSI\t2\t4\t14\t2\t1\t1\nItems\tDescription\nPSU-3200-AC-AFO\t3200W AC power supply (front-to-back airflow)",
+"slides":[
+{
+"n":1,
+"items":[
+{
+"t":"p",
+"text":"STH800G SERIES SWITCHES\nDATASHEET\nHigh Performance Data Center Switch"
+},
+{
+"t":"p",
+"text":"Product Overview"
+},
+{
+"t":"p",
+"text":"The STH800G Series switches are designed on a domestic new generation switch Chip, which is called SerdesX Series Chip platform.\nWith 32 x 800G high speed ports and rich features, these switches will perfectly meet the requirements of supercomputing, Data Center, and AI/ML Networks."
+},
+{
+"t":"p",
+"text":"Key features of the STH800G Series switches"
+},
+{
+"t":"p",
+"text":"High-density 800G switch, 32*800G OSFP\nRedundant hot-swappable power and fans ensure continuous stability\nMPLS (label-switching-based) integrates IP flexibility and connection-oriented reliability, enabling isolated multi-service bearing, precise traffic scheduling, fast fault self-healing, and lower networking costs to meet multi-scenario efficient needs\nSupport VXLAN/EVPN tunnel technology, unlimited data transmission\nRDMA end-to-end data forwarding, build a lossless network without packet loss\nSupport MLAG, cross-device link aggregation technology"
+},
+{
+"t":"p",
+"text":"The STH800G Series switches provide redundant hot-swappable power supplies (AC and DC are both available) and 4 bays with Field replaceable fan modules.\nGenerally, airflow of STH800G Series is front to rear (AFO), but a customization of rear to front (AFI) airflow is also acceptable."
+},
+{
+"t":"p",
+"text":"Table 1: Feasible PSU and airflow of STH-32OC"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"AC",
+"DC",
+"AFO",
+"AFI",
+"Power Input",
+"FAN"
+],
+[
+"STH-32OC-HSI",
+"◯",
+"◯",
+"◯",
+"◯",
+"2",
+"4"
+]
+]
+},
+{
+"t":"p",
+"text":"Version: V1.2\nRelease Date: 2025/12/20"
+},
+{
+"t":"picture",
+"name":"图片 5"
+}
+],
+"notes":""
+},
+{
+"n":2,
+"items":[
+{
+"t":"p",
+"text":"The STH800G Series switches support varied management ways, include console port / in-band network ports / out-of-band network port. Support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, SSL, etc. to ensure security of management.\nMoreover, leveraging its profound technical expertise and in-depth understanding of campus and enterprise networking needs, Saga Telecom has launched the Da Hu Cloud Management System (DHCS).\nIt enhances network management and maintenance efficiency, reduces costs, elevates management intelligence, and delivers a faster, smarter, more secure and reliable network to better meet user requirements."
+},
+{
+"t":"picture",
+"name":"图片 15"
+}
+],
+"notes":""
+},
+{
+"n":3,
+"items":[
+{
+"t":"p",
+"text":"Table 2: Family of the STH800G Series switches"
+},
+{
+"t":"table",
+"rows":[
+[
+"Models",
+"Ethernet Ports",
+"Management",
+"PSU 1/PSU 2",
+"Cooling"
+],
+[
+"STH-32OC-HSI",
+"32 x 800G OSFP",
+"Console: RJ45 to RS232\u000bEthernet: 1G Port",
+"2 x CRPS",
+"4 x Fan Modules\u000b(front-to-back airflow)"
+]
+]
+},
+{
+"t":"p",
+"text":"The STH800G ports at a glance"
+},
+{
+"t":"picture",
+"name":"图片 2"
+},
+{
+"t":"p",
+"text":"Visual WEB UI"
+},
+{
+"t":"p",
+"text":"STOS allows you to quickly configure common configuration items using a visual WEB UI, which lowers the application threshold for users."
+}
+],
+"notes":""
+},
+{
+"n":4,
+"items":[
+{
+"t":"p",
+"text":"STH800G Series Physical Specifications"
+},
+{
+"t":"p",
+"text":"Packet Switch capacity (Tbps)\nSTH-32OC-HSI: 51.2 Tbps (bidirectional)"
+},
+{
+"t":"p",
+"text":"Layer 2/Layer 3 Throughput (Gpps)\nSTH-32OC-HSI: 76.19 Gpps (bidirectional)"
+},
+{
+"t":"p",
+"text":"CPU\nQuad-core processor, ARM A53"
+},
+{
+"t":"p",
+"text":"Memory\neMMc: 8GB on all models\nDRAM: 4GB on all models"
+},
+{
+"t":"p",
+"text":"Weight (Net weight/Gross weight)\nSTH-32OC-HSI: 11.8Kg/16Kg"
+},
+{
+"t":"p",
+"text":"Dimensions (W x H x D) without package\nSTH-32OC-HSI: 44.2 x 8.8 x 56cm"
+},
+{
+"t":"p",
+"text":"MTBF\nSTH-32OC-HSI: ≥90000H"
+},
+{
+"t":"p",
+"text":"Environmental ranges\nOperating temperature: 0ºC to 45ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90% (No condensation)\nStore Humidity: 5 to 95% (No condensation)"
+},
+{
+"t":"p",
+"text":"Temperature alarm\nAlarm threshold: 50ºC"
+}
+],
+"notes":""
+},
+{
+"n":5,
+"items":[
+{
+"t":"p",
+"text":"STH800G Software Specifications\nSaga Telecom implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘STOS Software features’ ."
+},
+{
+"t":"p",
+"text":"* All Saga Telecom switches use a normalized software platform and image package file\n* Unified software version iteration plan\n* Unified user experience"
+},
+{
+"t":"p",
+"text":"STOS Network Platform"
+},
+{
+"t":"p",
+"text":"Layer 2 switching"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Unicast Routing"
+},
+{
+"t":"p",
+"text":"QoS"
+},
+{
+"t":"p",
+"text":"IP Multicast Snooping/Proxy"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Multi cast Routing"
+},
+{
+"t":"p",
+"text":"VRRP"
+},
+{
+"t":"p",
+"text":"Multiprotocol Label Switching(MPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Private LAN Service(VPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Routing and Switching"
+},
+{
+"t":"p",
+"text":"Generalized Multiprotocol LabelSwitching(GMPLS)"
+},
+{
+"t":"p",
+"text":"IPv6 Tunneling and TransitionTechnologies"
+},
+{
+"t":"p",
+"text":"IP/MPLS OAM"
+},
+{
+"t":"p",
+"text":"Service management module"
+},
+{
+"t":"p",
+"text":"Fault Managemet (FM)"
+},
+{
+"t":"p",
+"text":"High Availability (HA)"
+},
+{
+"t":"p",
+"text":"Integrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)"
+},
+{
+"t":"p",
+"text":"Hardware and platform abstraction layer"
+},
+{
+"t":"p",
+"text":"Advanced integration Suite"
+},
+{
+"t":"p",
+"text":"CENTEC swtich chip  SDK"
+},
+{
+"t":"p",
+"text":"Silicon in Pizza, Stacking or Chassis\nConfiguration"
+},
+{
+"t":"p",
+"text":"Operating Systems TCP/IP Stacks"
+},
+{
+"t":"p",
+"text":"Linux , IPv4/Pv6 Dual Stack"
+},
+{
+"t":"p",
+"text":"Hardware layer"
+},
+{
+"t":"p",
+"text":"CENTEC Switch Chipset"
+},
+{
+"t":"p",
+"text":"CPU Subsystem"
+},
+{
+"t":"p",
+"text":"Cooling SubSystem"
+},
+{
+"t":"p",
+"text":"AC/DC DC/DC CLK"
+},
+{
+"t":"p",
+"text":"Environmental Management Subsystem"
+},
+{
+"t":"p",
+"text":"Logical Control Subunit"
+}
+],
+"notes":""
+},
+{
+"n":6,
+"items":[
+{
+"t":"p",
+"text":"Ordering Information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"STH-32OC-HSI",
+"800G Data Center Switch, with 32*800G OSFP, Dual power supply modules(C13), 4 hot-swappable fan modules."
+]
+]
+},
+{
+"t":"p",
+"text":"Software Licenses"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"Software License",
+"MS, L3 enhance features software license key, Preinstalled"
+],
+[
+"Software License",
+"MA, MPLS features software license key"
+],
+[
+"Software License",
+"ST, Stacking feature software license key"
+]
+]
+},
+{
+"t":"p",
+"text":"Accessory of STH800G"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Front Mounting",
+"Rear Mounting",
+"Screw",
+"Power Cord",
+"Console (RS232 to RJ45)",
+"Grounding Cable"
+],
+[
+"STH-32OC-HSI",
+"2",
+"4",
+"14",
+"2",
+"1",
+"1"
+]
+]
+},
+{
+"t":"p",
+"text":"STH800G Series Switches"
+},
+{
+"t":"p",
+"text":"AC Power Supplies use for STH800G"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"PSU-3200-AC-AFO",
+"3200W AC power supply (front-to-back airflow)"
+]
+]
+}
+],
+"notes":""
+}
+]
+}
