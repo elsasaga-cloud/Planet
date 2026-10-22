@@ -1,14 +1,15 @@
 # westwardsales.com
 **官方名称（调研核实）**：Westward Sales, Inc.（Buena Vista / Aurora, Colorado）
 
-> **评级 A**　|　美国　|　档案编号 `SA-046`　|　优先级 ★★★　|　状态：有回复·跟进中
+> **评级 C**　|　美国　|　档案编号 `SA-046`　|　优先级 —　|　状态：有回复·跟进中
 >
 > **类型**：增值分销商/电商平台（工业）（推断）　|　**历史关系**：实质回复 1 次；推送 1 次（2025-10-12 → 2025-10-12）　|　**所在清单**：E已回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-046
-rating: A
+rating: C
 rating_auto: A
+rating_research: C  # c_sub=明确退订；2025-10-13 Dawn Gumtow 要求移出邮件列表（Please take us off your emailing list
 name_official: "Westward Sales, Inc.（Buena Vista / Aurora, Colorado）"
 score: 83
 country: 美国
@@ -26,18 +27,17 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：美国科罗拉多的工业电子增值分销商（2016 年由 Kelvin Aist 创立，2–10 人），线上平台销售工业以太网交换机（2–48 口、至 10G）、蜂窝路由器、MC、串口设备服务器、Starlink、工控机，代理 TRENDnet、Antaira、Lanner、Axiomtek、Black Box 等；客户为能源、公用事业、交通、自动化及政府项目。用户表：E 已回复 1 次且回复中有详细联系方式，兴趣工业 FS / 光猫 / PoE，主推 Antaira 的销售平台。（调研 2026-10-21；表内兴趣：工业FS 光猫 PoE Antaira牌子 销售平台）
-- **为什么是 A 级**：+22 实质回复 1 次；+10 谈到样品/测样；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
+- **是谁**：美国科罗拉多的工业电子增值分销商（2016 年由 Kelvin Aist 创立，2–10 人），线上平台销售工业以太网交换机（2–48 口、至 10G）、蜂窝路由器、MC、串口设备服务器、Starlink、工控机，代理 TRENDnet、Antaira、Lanner、Axiomtek、Black Box 等；客户为能源、公用事业、交通、自动化及政府项目。用户表：E 已回复 1 次且回复中有详细联系方式，兴趣工业 FS / 光猫 / PoE，主推 Antaira 的销售平台。 【2025-10-13 对方明确退订：Please take us off your emailing list → 改 C，不再触达。】（调研 2026-10-21；表内兴趣：工业FS 光猫 PoE Antaira牌子 销售平台）
+- **为什么是 C 级**：**调研后定级 C**（c_sub=明确退订；2025-10-13 Dawn Gumtow 要求移出邮件列表（Please take us off your emailing list），任何账号不再发；T29-U6 Elsa 邮箱核对发现）；自动分级 A：+22 实质回复 1 次；+10 谈到样品/测样；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）；C 级细分：明确退订
 - **历史互动**：实质回复 1 次；推送 1 次（2025-10-12 → 2025-10-12）；最近一次客户回复：2025-10-12：Sample
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：平台主销 Antaira LNP-0800G（8 GE PoE+ 工业非管理 $452）→ Saga STI-288DGGPM（管理型，EXW $139.9 @20%）可作「value line」上架；4+1 位 STI-144GP；分销 20% 档；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（深挖对位：平台主销 Antaira LNP-0800G（8 GE PoE+ 工业非管理 $452）→ Saga STI-288DGGPM（管理型，EXW $139.9 @20%）可作「value line」上架；4+1 位 STI-144GP；分销 20% 档）
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：不跟进；仅归档防重复开发
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -57,7 +57,7 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线
-- **是谁**：美国科罗拉多的工业电子增值分销商（2016 年由 Kelvin Aist 创立，2–10 人），线上平台销售工业以太网交换机（2–48 口、至 10G）、蜂窝路由器、MC、串口设备服务器、Starlink、工控机，代理 TRENDnet、Antaira、Lanner、Axiomtek、Black Box 等；客户为能源、公用事业、交通、自动化及政府项目。用户表：E 已回复 1 次且回复中有详细联系方式，兴趣工业 FS / 光猫 / PoE，主推 Antaira 的销售平台。
+- **是谁**：美国科罗拉多的工业电子增值分销商（2016 年由 Kelvin Aist 创立，2–10 人），线上平台销售工业以太网交换机（2–48 口、至 10G）、蜂窝路由器、MC、串口设备服务器、Starlink、工控机，代理 TRENDnet、Antaira、Lanner、Axiomtek、Black Box 等；客户为能源、公用事业、交通、自动化及政府项目。用户表：E 已回复 1 次且回复中有详细联系方式，兴趣工业 FS / 光猫 / PoE，主推 Antaira 的销售平台。 【2025-10-13 对方明确退订：Please take us off your emailing list → 改 C，不再触达。】
 - **类型**：增值分销商/电商平台（工业）
 - **规模**：2–10 人（LinkedIn）
 - **在卖/在用品牌**：Antaira, TRENDnet, Lanner, Axiomtek, Black Box
@@ -76,7 +76,11 @@ updated: 2026-10-21
 - **【官网】IP67 M12 版 $1,618（Saga 不做）**
   > Antaira LNP-0800G-M12-67-24 (-T) 8-Port PoE Unmanaged 1Gb Ethernet Switch, IP67 … $1,618.00
   > 来源：https://westwardsales.com/antaira-lnp-0800g-ethernet-switch（抓取 2026-10-21）
+- **【Gmail 回复（Elsa 邮箱）】明确退订**
+  > We are not interested in purchasing this product. Please take us off your emailing list. WestwardSales.com … Dawn Gumtow Sales Assistant o: 720.870.4500, x705
+  > 来源：gmail:e.sagatelecom thread 19980d2770e487b1（抓取 2025-10-13）
 - **KP**：Kelvin Aist（创始人/负责人）sales@westwardsales.com +1 720-870-4500〔https://www.crunchbase.com/organization/westward-sales〕
+- **调研后定级**：C（原自动 A）——c_sub=明确退订；2025-10-13 Dawn Gumtow 要求移出邮件列表（Please take us off your emailing list），任何账号不再发；T29-U6 Elsa 邮箱核对发现
 - 备注：A 维持（美国工业分销 + 已回复 + 名字明确）；它是品牌平台（Antaira 等）而非贴牌，切入点是「平台自有标签入门款 / 价格带补位」；P1 = STI-288DGGPM，20% 分销档；只报 CE/FCC，不承诺 UL/C1D2。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
@@ -159,32 +163,10 @@ updated: 2026-10-21
 |---|---|---|---|---|---|---|---|---|---|
 | E Replied 2026.08.04.xlsx#总表:19 | 18 | https://westwardsales.com/ | 美国 | Dawn Gumtow<br>不让跟了 | 谷歌 | 工业FS 光猫 PoE Antaira牌子<br>销售平台 | sales@westwardsales.com | 回复里有详细联系方式 | 1 条 |
 
-## 产品决策（Saga · 单一决策口径）
-
-| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
-|---|---|---|---|---|
-| **P1** | STI-288DGGPM | 深挖对位：平台主销 Antaira LNP-0800G（8 GE PoE+ 工业非管理 $452）→ Saga STI-288DGGPM（管理型，EXW $139.9 @20%）可作「value line」上架；4+1 位 STI-144GP；分销 20% 档 | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（增值分销商/电商平台（工业）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-
-- **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
-
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
-
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-288DGGPM 一条规格链接；只问一个问题。
-- **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
-- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
-- **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
-
-## SWOT
-
-- **S**：有 1 次实质回复（对方认识我们）；北美主攻区，复购与口碑可外溢
-- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-288DGGPM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 Antaira：涨价、断货或交期拉长时切入；规模（调研）：2–10 人（LinkedIn）
-- **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
+> C 级不主动跟进。保留档案的意义：① 不重复开发；② 若对方主动来询再升级。
+> 不跟进理由：明确退订。若用户不同意，在 `data/saga_clients/人工定级.csv` 写一行 `SA-046,B,理由` 后重跑即可。
 
 ## 触达与风险红线
 
@@ -203,7 +185,7 @@ updated: 2026-10-21
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ Antaira, FS |
 | 采购量/预算 | ❓ 未确认（有回复但未报量） |
-| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+| 商业资格结论 | **不合格（见 C 级细分）→ 不主动跟进** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -211,25 +193,7 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
-
-```text
-Hi Kelvin,
-
-Picking up our earlier exchange about PoE / industrial switches. Next to the Antaira LNP-0800G at 452 dollars with a 3–4 week lead time, a Marvell-based 8-port gigabit PoE+ managed DIN switch shipping in 10–15 days at EXW pricing gives you a value-line listing, so that is the unit I am quoting with a 5-port version as the second SKU.
-
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your Antaira LNP-0800G（-24 / -T） at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
-```
-
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> C 级不出邮件样板（不主动跟进）。
 
 ## 新跟进记录（仓库外发出后补）
 
@@ -241,12 +205,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-04**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- 不复核。对方主动来询 → 在 `data/saga_clients/人工定级.csv` 写一行升级后重跑。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 83）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 83）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
