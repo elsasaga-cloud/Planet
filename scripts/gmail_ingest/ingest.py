@@ -16,6 +16,8 @@
   BULK_MODE        headers | full（默认 headers：群发/通知类邮件只留头部 + 600 字摘要；与客户往来或本邮箱回过的线程一律全文）
   ATTACH / ATTACH_MAX_MB / ATTACH_WORKERS / OCR    附件正文抽取（复用 scripts/drive_ingest/ingest.py 的抽取器；默认 1 / 25 / 4 / 0）
   MORE_BATCHES     1 = 本批之后还有后续批次（导出件因 Drive 空间分几次上传时用）：批尾可能被切断的半封邮件存入 state/carry.bin，下一批自动接上
+  OCR_MIN_KB       图片附件送 OCR 的最小大小（默认 80；S 邮箱实跑用 8，只跳过图标级小图）
+  FORCE            1 = 全部重做（messages/ attachments/ state/ 清空重建；原件备份记录、Release 标签、settings/ 保留，不重传 Release）
   SHARD_MAX_MB     每个 JSONL 分片上限（默认 40，GitHub 单文件 100 MB 硬限）
   COMMIT_EVERY / CHECKPOINT_MIN / MAX_MINUTES      每 N 封 / 每 N 分钟检查点提交（默认 20000 / 15）；总时长上限（默认 330，超时优雅停止，下次续跑）
   GIT_COMMIT / GIT_REF / BACKUP / RELEASE_TAG / RELEASE_TARGET / PART_MAX_GB / RAW_DIR / LIMIT / FORCE   同 drive_ingest
@@ -114,8 +116,11 @@ FREEMAIL = {'gmail.com', 'googlemail.com', 'yahoo.com', 'yahoo.co.uk', 'yahoo.fr
             'uol.com.br', 'bol.com.br', 'hotmail.com.br', 'prodigy.net.mx', 'abv.bg', 'mail.bg', 'walla.co.il', 'yahoo.co.jp',
             'mail.ee', 'inbox.lv', 'centrum.cz', 'email.cz', 'azet.sk', 'citromail.hu', 'freemail.hu', 'eim.ae', 'emirates.net.ae'}
 DOC_EXT = {'.docx', '.doc', '.xlsx', '.xlsm', '.xls', '.csv', '.pdf', '.pptx', '.ppt', '.txt', '.rtf', '.odt', '.md', '.xml', '.json',
-           '.zip', '.rar', '.7z', '.dxf', '.xmind', '.pub', '.log', '.mib'}
-IMG_EXT = {'.png', '.jpg', '.jpeg', '.gif', '.bmp', '.webp', '.tif', '.tiff'}
+           '.zip', '.rar', '.7z', '.dxf', '.xmind', '.pub', '.log', '.mib', '.wps',
+           '.vsd', '.vsdx', '.vdx', '.cdr', '.ai', '.eps', '.psd',            # 图形/排版源文件：soffice→pdf / PDF 内核 / PSD 合成图
+           '.mp4', '.mov', '.avi', '.mkv', '.wmv'}                           # 视频：ffprobe 元数据 + 抽帧缩略图
+IMG_EXT = {'.png', '.jpg', '.jpeg', '.gif', '.bmp', '.webp', '.tif', '.tiff', '.heic', '.heif'}
+OCR_MIN_KB = float(os.environ.get('OCR_MIN_KB', '80'))   # 小于此大小的图片附件不送 OCR（邮件里多是签名 logo / 图标）
 BULK_LABELS = {'Category Promotions', 'Category Social', 'Category Forums', 'Category Updates', 'Spam'}
 BULK_LOCAL = re.compile(r'^(no-?reply|do-?not-?reply|notifications?|notify|newsletter|news|mailer-daemon|postmaster|bounce|alerts?|'
                         r'info-?noreply|support-?noreply|marketing|promo|updates?|digest|hello|team|billing|invoice|receipts?|'
@@ -737,7 +742,7 @@ class AttachStore:
             rec['x'] = 'skip:too_big'
             return rec['x']
         if ext in IMG_EXT:
-            if not OCR or len(data) < 80 * 1024:
+            if not OCR or len(data) < OCR_MIN_KB * 1024:
                 rec['x'] = 'skip:image'
                 return rec['x']
         elif ext not in DOC_EXT:
@@ -926,7 +931,7 @@ def backup_sources(paths, manifest):
     bk = manifest.setdefault('backup', {})
     for label, p in paths:
         key = os.path.basename(p)
-        if bk.get(key, {}).get('done') and not FORCE:
+        if bk.get(key, {}).get('done') and not os.environ.get('FORCE_BACKUP'):
             continue
         size = os.path.getsize(p)
         whole = sha256_file(p)
@@ -970,16 +975,33 @@ def backup_sources(paths, manifest):
 # ---------------------------------------------------------------- 主流程
 def load_manifest():
     p = os.path.join(OUT, 'manifest.json')
-    if os.path.exists(p) and not FORCE:
+    old = None
+    if os.path.exists(p):
         try:
-            return json.load(open(p, encoding='utf-8'))
+            old = json.load(open(p, encoding='utf-8'))
         except Exception:  # noqa
-            pass
+            old = None
+    if old is not None and not FORCE:
+        return old
+    fresh = {'meta': {'account': ACCOUNT, 'own_emails': sorted(OWN_EMAILS), 'created': now()}, 'sources': [], 'progress': {},
+             'shards': {}, 'backup': {}, 'runs': [], 'status': 'new'}
     if FORCE and os.path.isdir(OUT):
         import shutil
-        shutil.rmtree(OUT, ignore_errors=True)
-    return {'meta': {'account': ACCOUNT, 'own_emails': sorted(OWN_EMAILS), 'created': now()}, 'sources': [], 'progress': {},
-            'shards': {}, 'backup': {}, 'runs': [], 'status': 'new'}
+        for sub in ('messages', 'attachments', 'state'):       # 解析产物重建；settings/ 与备份记录保留
+            shutil.rmtree(os.path.join(OUT, sub), ignore_errors=True)
+        for fn in ('threads.json', 'contacts.csv', 'clients_link.json', '_coverage.md'):
+            try:
+                os.remove(os.path.join(OUT, fn))
+            except FileNotFoundError:
+                pass
+        if old is not None:
+            fresh['backup'] = old.get('backup', {})
+            fresh['sources'] = old.get('sources', [])
+            fresh['runs'] = old.get('runs', [])
+            fresh['meta']['release_tag'] = old.get('meta', {}).get('release_tag')
+            fresh['meta']['own_emails'] = sorted(set(fresh['meta']['own_emails']) | set(old.get('meta', {}).get('own_emails', [])))
+            fresh['meta']['force_rebuilt_at'] = now()
+    return fresh
 
 
 def classify_bulk(msg, labels, from_e):
@@ -1364,10 +1386,10 @@ def main():
         + ' '.join(f'{c}={"y" if have(c) else "n"}' for c in ('tesseract', 'soffice', 'pdftoppm', 'gh')))
     os.makedirs(OUT, exist_ok=True)
     state_dir = os.path.join(OUT, STATE_DIR_NAME)
+    manifest = load_manifest()          # FORCE 时会清掉 messages/ attachments/ state/
     os.makedirs(state_dir, exist_ok=True)
-    manifest = load_manifest()
-    if manifest['meta'].get('release_tag') and not os.environ.get('RELEASE_TAG') and not FORCE:
-        RELEASE_TAG = manifest['meta']['release_tag']       # 多批 / 续跑沿用同一个 Release
+    if manifest['meta'].get('release_tag') and not os.environ.get('RELEASE_TAG'):
+        RELEASE_TAG = manifest['meta']['release_tag']       # 多批 / 续跑 / FORCE 重建都沿用同一个 Release
     manifest['meta']['release_tag'] = RELEASE_TAG
     manifest['runs'].append({'started': now(), 'limit': LIMIT, 'bulk_mode': BULK_MODE, 'attach': ATTACH, 'ocr': OCR, 'more_batches': MORE_BATCHES})
     paths = resolve_sources()
@@ -1418,6 +1440,7 @@ def main():
         log('learned own addresses from Sent:', sorted(learned - own))
     own |= learned
     manifest['meta']['own_emails'] = sorted(own)
+    os.makedirs(state_dir, exist_ok=True)
     with open(thr_path, 'w', encoding='utf-8') as f:
         f.write('\n'.join(sorted(thr_keep)))
     log(f'pass1: {n1} messages scanned, threads to keep full: {len(thr_keep)} (incl. {len(thr_prev)} from previous batches)')

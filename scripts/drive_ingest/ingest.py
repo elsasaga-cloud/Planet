@@ -85,7 +85,12 @@ FOLDER_SLUG = {'(root)': 'root', '工业管理': 'industrial_managed', '工业�
                'Case': 'case', '管理界面图': 'ui_screenshots', '组合图': 'combo_images', '素材': 'assets',
                'Factory Information': 'factory_information', '暂时不用的': 'unused_for_now'}
 
-IMG_EXT = {'.png', '.jpg', '.jpeg', '.gif', '.bmp', '.webp', '.tif', '.tiff'}
+IMG_EXT = {'.png', '.jpg', '.jpeg', '.gif', '.bmp', '.webp', '.tif', '.tiff', '.heic', '.heif'}
+try:  # HEIC（iPhone 照片）：有 pillow-heif 就按普通图片处理
+    import pillow_heif  # noqa
+    pillow_heif.register_heif_opener()
+except Exception:  # noqa
+    pass
 VID_EXT = {'.mp4', '.mov', '.avi', '.mkv', '.wmv'}
 
 LOCK = threading.Lock()
@@ -391,6 +396,12 @@ def extract_excel_any(path, tmp):
             return extract_xlsx(path)
         except Exception as e:  # noqa
             errs.append(f'openpyxl: {e}'[:160])
+        try:  # 样式表损坏等 openpyxl/soffice 都打不开的 xlsx：直接读 zip 里的 sheet XML + sharedStrings
+            r = extract_xlsx_raw(path)
+            r.setdefault('warnings', []).extend(errs)
+            return r
+        except Exception as e:  # noqa
+            errs.append(f'raw-xml: {e}'[:160])
     if head[:8] == b'\xd0\xcf\x11\xe0\xa1\xb1\x1a\xe1':
         try:
             r = extract_xls(path)
@@ -433,6 +444,73 @@ def extract_excel_any(path, tmp):
         else:
             errs.append(err or 'soffice failed')
     raise RuntimeError('; '.join(errs) or f'unknown excel format (head {head.hex()})')
+
+
+def extract_xlsx_raw(path):
+    """不依赖 openpyxl：解析 xl/sharedStrings.xml + xl/worksheets/sheetN.xml（含内联字符串与公式缓存值）。"""
+    import xml.etree.ElementTree as ET
+    ns = {'m': 'http://schemas.openxmlformats.org/spreadsheetml/2006/main',
+          'r': 'http://schemas.openxmlformats.org/officeDocument/2006/relationships'}
+    zf = zipfile.ZipFile(path)
+    names = set(zf.namelist())
+    shared = []
+    if 'xl/sharedStrings.xml' in names:
+        root = ET.fromstring(zf.read('xl/sharedStrings.xml'))
+        for si in root.findall('m:si', ns):
+            shared.append(''.join(t.text or '' for t in si.iter('{%s}t' % ns['m'])))
+    # 表名 ↔ 文件
+    sheet_files = {}
+    try:
+        wb = ET.fromstring(zf.read('xl/workbook.xml'))
+        rels = ET.fromstring(zf.read('xl/_rels/workbook.xml.rels'))
+        rid2t = {r.get('Id'): r.get('Target') for r in rels}
+        for sh in wb.find('m:sheets', ns):
+            t = rid2t.get(sh.get('{%s}id' % ns['r']), '').lstrip('/')
+            t = t if t.startswith('xl/') else 'xl/' + t
+            sheet_files[sh.get('name')] = t
+    except Exception:  # noqa
+        pass
+    if not sheet_files or not any(fn in names for fn in sheet_files.values()):
+        sheet_files = {n.rsplit('/', 1)[-1][:-4]: n for n in sorted(names) if n.startswith('xl/worksheets/sheet') and n.endswith('.xml')}
+
+    def col_idx(ref):
+        c = 0
+        for ch in ref:
+            if ch.isalpha():
+                c = c * 26 + (ord(ch.upper()) - 64)
+            else:
+                break
+        return c
+
+    sheets, lines, total = {}, [], 0
+    for title, fn in sheet_files.items():
+        if fn not in names:
+            continue
+        rows = []
+        for row in ET.fromstring(zf.read(fn)).iter('{%s}row' % ns['m']):
+            cells = {}
+            for c in row.findall('m:c', ns):
+                t = c.get('t')
+                v = c.find('m:v', ns)
+                if t == 's' and v is not None and v.text is not None:
+                    val = shared[int(v.text)] if int(v.text) < len(shared) else ''
+                elif t == 'inlineStr':
+                    val = ''.join(x.text or '' for x in c.iter('{%s}t' % ns['m']))
+                else:
+                    val = (v.text or '') if v is not None else ''
+                if val != '':
+                    cells[col_idx(c.get('r', ''))] = val
+            if cells:
+                w = max(cells)
+                rows.append([cells.get(i, '') for i in range(1, w + 1)])
+        rows = [r for r in rows if any(x.strip() for x in r)]
+        sheets[title] = {'state': 'visible', 'rows': rows}
+        total += len(rows)
+        lines.append(f'=== 表：{title}（{len(rows)} 行）===')
+        lines += ['\t'.join(r) for r in rows]
+    text = '\n'.join(lines)
+    return {'method': 'xlsx-raw-xml', 'status': 'ok' if total else 'meta', 'meta': {'sheets': list(sheets), 'rows_total': total},
+            'text': text, 'sheets': sheets, 'warnings': ['openpyxl 无法打开（样式表损坏等），按 zip 内 XML 直接读取：无格式/合并单元格信息']}
 
 
 def _fmt(v):
@@ -957,7 +1035,14 @@ def extract_any(rec, local, tmp):
         return extract_archive(local, tmp), None
     if ext == '.dxf':
         return extract_dxf(local), None
-    if ext in ('.pub', '.cdr', '.odt', '.rtf', '.wps'):
+    if ext in ('.ai', '.eps'):
+        with open(local, 'rb') as f:
+            if f.read(5) == b'%PDF-':      # Illustrator 文件通常内嵌 PDF
+                r = extract_pdf(local, tmp)
+                r['method'] = 'ai-as-pdf→' + r['method']
+                return r, None
+        return extract_via_pdf(local, tmp, thumb), thumb
+    if ext in ('.pub', '.cdr', '.odt', '.rtf', '.wps', '.vsd', '.vsdx', '.vdx'):
         return extract_via_pdf(local, tmp, thumb), thumb
     if ext == '.psd':
         return extract_psd(local, thumb), thumb
