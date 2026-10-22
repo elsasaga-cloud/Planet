@@ -1,0 +1,22 @@
+{
+"id":"1_yxDFt10_DEdrUjhL96Q1-yDBMs9ub0m",
+"name":"2.png",
+"path":"CENTEC Based High-Speed Network/STH5G/STH-4C48VE-SFI/2.png",
+"type":"图片",
+"bytes":3559086,
+"sha256":"e84d8325bc2b33306674ab0770d9d256dc4d6f8f734a902a28ba9cd58555287d",
+"extracted_at":"2026-10-22T08:39:55Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5760,
+"height":3840,
+"mode":"RGBA",
+"thumb_bytes":4693
+},
+"ocr":{
+"text":"ee e 二 oe 【】\nEE 本 = err eee\nee = = 三 三 三 三 三 三 =\n人",
+"conf":54.9
+},
+"text":"ee e 二 oe 【】\nEE 本 = err eee\nee = = 三 三 三 三 三 三 =\n人"
+}

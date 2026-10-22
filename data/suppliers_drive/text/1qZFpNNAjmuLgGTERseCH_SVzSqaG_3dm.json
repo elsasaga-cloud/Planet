@@ -1,0 +1,22 @@
+{
+"id":"1qZFpNNAjmuLgGTERseCH_SVzSqaG_3dm",
+"name":"1.png",
+"path":"CENTEC Based High-Speed Network/STH5G/STH-2C24VE-HSI/1.png",
+"type":"图片",
+"bytes":3525019,
+"sha256":"127cd06e28e71986e490f1db00042e2056adb249390f92190b8dd6aa8f1a5d29",
+"extracted_at":"2026-10-22T08:39:41Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":3840,
+"height":2160,
+"mode":"RGBA",
+"thumb_bytes":4871
+},
+"ocr":{
+"text":"25 OO 2 OO 个\nwe ®",
+"conf":52.4
+},
+"text":"25 OO 2 OO 个\nwe ®"
+}
