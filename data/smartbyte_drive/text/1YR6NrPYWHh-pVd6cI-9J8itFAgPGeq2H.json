@@ -1,0 +1,223 @@
+{
+"id":"1YR6NrPYWHh-pVd6cI-9J8itFAgPGeq2H",
+"name":"SmartByte managed Ethernet switch pricelist for Simon-20240516 更新.xlsx",
+"path":"SmartByte/商业管理/SmartByte managed Ethernet switch pricelist for Simon-20240516 更新.xlsx",
+"type":"Excel",
+"ext":".xlsx",
+"bytes":1313524,
+"sha256":"a03b5d67072ba8b1fa1527c52f37ed9076b6ae87767480b76a4b7aadc9643414",
+"extracted_at":"2026-10-22T02:05:20Z",
+"method":"openpyxl(values)",
+"status":"ok",
+"chars":3742,
+"meta":{
+"sheets":[
+" Managed Ethernet Switch"
+],
+"embedded_images":11,
+"rows_total":27
+},
+"warnings":[],
+"text":"--- Sheet:  Managed Ethernet Switch ---\nShenzhen SmartByte Technology Co.,Ltd\n                                      Address.: 1602,  Huiqing Science & Technology Park, Dafu Industrial Area, Kukeng Community, Guanlan,  Longhua District, Shenzhen, China\nWeb: www.smartbyte-switch.com     E-mail: peter@smartbyte.com.cn\nMobile/Wechat/Whatsapp/Skype: +8618938064521\nPicture\tModel\tDescription\t未税价格/RMB\tPower supply  optional\tRemark\nLayer 3 Managed Ethernet Switches, 10G uplink series  (Supports static and dynamic routing, RIP, OSPF, BGP4,ECMP, VRRP…..)\t\t\t\t\t相比2024.1.9的价格降低了\n\tLT-S8528XG-4XS24GT\t4*10G/2.5G/1G SFP+ ports ，24*10/100/1000M RJ45 ports, without SFP module,  Layer 3 management\t1300\t1*AC               1*DC               2*AC             AC+DC\t200\n\tLT-S8528XGP-4XS24GT\t4*10G/2.5G/1G SFP+ ports ，24*10/100/1000M RJ45 ports, without SFP module,  Layer 3 management ,single AC power supply 440W, PoE power budget 400W\t1700\t1*AC                2*AC             AC+DC           850W optional\t200\n\tLT-IS8528XG-4XS16GT8GC\t4*10G/2.5G/1G SFP+ slots，16*10/100/1000M RJ45 ports，8*GE COMBO ports, without SFP module,  Layer 3 management\t1600\t1*AC               1*DC               2*AC             AC+DC\t200\n\tLT-IS8528XGP-4XS16GT8GC\t4*10G/2.5G/1G SFP+ slots，16*10/100/1000M RJ45 ports，8*GE COMBO ports, without SFP module,  Layer 3 management, single AC power supply 440W, PoE power budget 400W\t2000\t1*AC                2*AC             AC+DC           850W optional\t200\n\tLT-S8528XG-4XS16GX8GC\t4*10G/2.5G/1G SFP+ slots，16*1G SFP ports，8*GE COMBO ports, without SFP module,  Layer 3 management\t1900\t1*AC               1*DC               2*AC             AC+DC\t200\n\tLT-S8552XG-4XS48GT\t4*10G/2.5G/1G SFP+ ports ，48*10/100/1000M RJ45 ports, without SFP module,  Layer 3 management\t2400\t1*AC               1*DC               2*AC             AC+DC\t200\n\tLT-S8552XGP-4XS48GT\t4*10G/2.5G/1G SFP+ ports ，48*10/100/1000M RJ45 ports, without SFP module,  Layer 3 management , single AC power supply 440W, PoE power budget 400W\t2900\t1*AC                2*AC             AC+DC           850W optional\t200\n\tLT-S8552XG-4XS48GX\t4*1G/2.5G/10G SFP+ ports ，48*1G SFP ports, without SFP module,  Layer 3 management, single AC power supply\t3300\t1*AC               1*DC               2*AC             AC+DC\t200\nLayer 2+ Managed Ethernet Switch Non-PoE/PoE Series(Support DHCP server, IPv4/IPv6 static routing)\n\tLT-S8310G-2GX8GT\tL2+,  8*10/100/1000Base-T + 4*1G/2.5G SFP\t380\t\t50\n\tLT-S8310GP-2GX8GT\tL2+, 8*10/100/1000Base-T PoE + 4*1G/2.5G SFP, 120W  power supply\t450\t\t50\n之前的价格 未作更新\tLT-S8212G-4GX8GT\tL2 8*10/100/1000Base-T + 4*1G/2.5G SFP\t450\n之前的价格 未作更新\tLT-S8212GP-4GX8GT\tL2 8*10/100/1000Base-T PoE + 4*1G/2.5G SFP, 120W  power supply\t520\n\t\t\t\t\t和洪瑞的价格相比低了\n\tLT-S8328G-4GX24GT-S\tL2 +, 24*10/100/1000Base-T + 4*1G/2.5G SFP, AC5爆款\t460\t\t圣诞引流机型\n\tLT-S8328GP-4GX24GT-S\tL2 +, 24*10/100/1000Base-T PoE + 4*1G/2.5G SFP, AC5爆款,280W power supply\t750\t\t圣诞引流机型+PoE 280W\n\tLT-S8328GP-4GX24GT\tL2 +, 24*10/100/1000Base-T PoE + 4*1G/2.5G SFP, 440W power supply\t1120\t\t圣诞引流机型+PoE 440W\n\tLT-S8328XG-4XS24GT-S\tL2 +, 24*10/100/1000Base-T 4*1G/2.5G/10G SFP+, AC5 爆款\t610\t\t圣诞引流机型 变体\n440W的电源装不下\tLT-S8328XGP-4XS24GT-S\tL2 +, 24*10/100/1000Base-T PoE + 4*1G/2.5G/10G SFP+, AC5爆款, 280W power supply\t910\t\t圣诞引流机型+PoE 280W\n\tLT-S8328XGP-4XS24GT\tL2 +, 24*10/100/1000Base-T PoE + 4*1G/2.5G/10G SFP, 440W power supply\t1320\t\t圣诞引流机型+PoE 440W\n\tLT-S8352G-4GX48GT\tL2+, 48*10/100/1000Base-T + 4*1G/2.5G SFP\t1000\n\tLT-S8352GP-4GX48GT\tL2+, 48*10/100/1000Base-T PoE+ 4*1G/2.5G SFP, 440W power supply; 850W power supply optional\t1500\n\tLT-S8352XG-4XS48GT\tL2+, 48*10/100/1000Base-T + 4*1G/2.5G/10G SFP\t1300\n\tLT-S8352XGP-4XS48GT\tL2+, 48*10/100/1000Base-T PoE+ 4*1G/2.5G/10G SFP+, 440W power supply; 850W power supply optional\t1800",
+"sheets":{
+" Managed Ethernet Switch":{
+"state":"visible",
+"rows":[
+[
+"Shenzhen SmartByte Technology Co.,Ltd\n                                      Address.: 1602,  Huiqing Science & Technology Park, Dafu Industrial Area, Kukeng Community, Guanlan,  Longhua District, Shenzhen, China\nWeb: www.smartbyte-switch.com     E-mail: peter@smartbyte.com.cn\nMobile/Wechat/Whatsapp/Skype: +8618938064521"
+],
+[
+"Picture",
+"Model",
+"Description",
+"未税价格/RMB",
+"Power supply  optional",
+"Remark"
+],
+[
+"Layer 3 Managed Ethernet Switches, 10G uplink series  (Supports static and dynamic routing, RIP, OSPF, BGP4,ECMP, VRRP…..)",
+"",
+"",
+"",
+"",
+"相比2024.1.9的价格降低了"
+],
+[
+"",
+"LT-S8528XG-4XS24GT",
+"4*10G/2.5G/1G SFP+ ports ，24*10/100/1000M RJ45 ports, without SFP module,  Layer 3 management",
+"1300",
+"1*AC               1*DC               2*AC             AC+DC",
+"200"
+],
+[
+"",
+"LT-S8528XGP-4XS24GT",
+"4*10G/2.5G/1G SFP+ ports ，24*10/100/1000M RJ45 ports, without SFP module,  Layer 3 management ,single AC power supply 440W, PoE power budget 400W",
+"1700",
+"1*AC                2*AC             AC+DC           850W optional",
+"200"
+],
+[
+"",
+"LT-IS8528XG-4XS16GT8GC",
+"4*10G/2.5G/1G SFP+ slots，16*10/100/1000M RJ45 ports，8*GE COMBO ports, without SFP module,  Layer 3 management",
+"1600",
+"1*AC               1*DC               2*AC             AC+DC",
+"200"
+],
+[
+"",
+"LT-IS8528XGP-4XS16GT8GC",
+"4*10G/2.5G/1G SFP+ slots，16*10/100/1000M RJ45 ports，8*GE COMBO ports, without SFP module,  Layer 3 management, single AC power supply 440W, PoE power budget 400W",
+"2000",
+"1*AC                2*AC             AC+DC           850W optional",
+"200"
+],
+[
+"",
+"LT-S8528XG-4XS16GX8GC",
+"4*10G/2.5G/1G SFP+ slots，16*1G SFP ports，8*GE COMBO ports, without SFP module,  Layer 3 management",
+"1900",
+"1*AC               1*DC               2*AC             AC+DC",
+"200"
+],
+[
+"",
+"LT-S8552XG-4XS48GT",
+"4*10G/2.5G/1G SFP+ ports ，48*10/100/1000M RJ45 ports, without SFP module,  Layer 3 management",
+"2400",
+"1*AC               1*DC               2*AC             AC+DC",
+"200"
+],
+[
+"",
+"LT-S8552XGP-4XS48GT",
+"4*10G/2.5G/1G SFP+ ports ，48*10/100/1000M RJ45 ports, without SFP module,  Layer 3 management , single AC power supply 440W, PoE power budget 400W",
+"2900",
+"1*AC                2*AC             AC+DC           850W optional",
+"200"
+],
+[
+"",
+"LT-S8552XG-4XS48GX",
+"4*1G/2.5G/10G SFP+ ports ，48*1G SFP ports, without SFP module,  Layer 3 management, single AC power supply",
+"3300",
+"1*AC               1*DC               2*AC             AC+DC",
+"200"
+],
+[
+"Layer 2+ Managed Ethernet Switch Non-PoE/PoE Series(Support DHCP server, IPv4/IPv6 static routing)"
+],
+[
+"",
+"LT-S8310G-2GX8GT",
+"L2+,  8*10/100/1000Base-T + 4*1G/2.5G SFP",
+"380",
+"",
+"50"
+],
+[
+"",
+"LT-S8310GP-2GX8GT",
+"L2+, 8*10/100/1000Base-T PoE + 4*1G/2.5G SFP, 120W  power supply",
+"450",
+"",
+"50"
+],
+[
+"之前的价格 未作更新",
+"LT-S8212G-4GX8GT",
+"L2 8*10/100/1000Base-T + 4*1G/2.5G SFP",
+"450"
+],
+[
+"之前的价格 未作更新",
+"LT-S8212GP-4GX8GT",
+"L2 8*10/100/1000Base-T PoE + 4*1G/2.5G SFP, 120W  power supply",
+"520"
+],
+[
+"",
+"",
+"",
+"",
+"",
+"和洪瑞的价格相比低了"
+],
+[
+"",
+"LT-S8328G-4GX24GT-S",
+"L2 +, 24*10/100/1000Base-T + 4*1G/2.5G SFP, AC5爆款",
+"460",
+"",
+"圣诞引流机型"
+],
+[
+"",
+"LT-S8328GP-4GX24GT-S",
+"L2 +, 24*10/100/1000Base-T PoE + 4*1G/2.5G SFP, AC5爆款,280W power supply",
+"750",
+"",
+"圣诞引流机型+PoE 280W"
+],
+[
+"",
+"LT-S8328GP-4GX24GT",
+"L2 +, 24*10/100/1000Base-T PoE + 4*1G/2.5G SFP, 440W power supply",
+"1120",
+"",
+"圣诞引流机型+PoE 440W"
+],
+[
+"",
+"LT-S8328XG-4XS24GT-S",
+"L2 +, 24*10/100/1000Base-T 4*1G/2.5G/10G SFP+, AC5 爆款",
+"610",
+"",
+"圣诞引流机型 变体"
+],
+[
+"440W的电源装不下",
+"LT-S8328XGP-4XS24GT-S",
+"L2 +, 24*10/100/1000Base-T PoE + 4*1G/2.5G/10G SFP+, AC5爆款, 280W power supply",
+"910",
+"",
+"圣诞引流机型+PoE 280W"
+],
+[
+"",
+"LT-S8328XGP-4XS24GT",
+"L2 +, 24*10/100/1000Base-T PoE + 4*1G/2.5G/10G SFP, 440W power supply",
+"1320",
+"",
+"圣诞引流机型+PoE 440W"
+],
+[
+"",
+"LT-S8352G-4GX48GT",
+"L2+, 48*10/100/1000Base-T + 4*1G/2.5G SFP",
+"1000"
+],
+[
+"",
+"LT-S8352GP-4GX48GT",
+"L2+, 48*10/100/1000Base-T PoE+ 4*1G/2.5G SFP, 440W power supply; 850W power supply optional",
+"1500"
+],
+[
+"",
+"LT-S8352XG-4XS48GT",
+"L2+, 48*10/100/1000Base-T + 4*1G/2.5G/10G SFP",
+"1300"
+],
+[
+"",
+"LT-S8352XGP-4XS48GT",
+"L2+, 48*10/100/1000Base-T PoE+ 4*1G/2.5G/10G SFP+, 440W power supply; 850W power supply optional",
+"1800"
+]
+]
+}
+}
+}

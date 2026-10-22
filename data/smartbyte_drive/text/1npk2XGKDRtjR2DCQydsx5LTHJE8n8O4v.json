@@ -1,0 +1,24 @@
+{
+"id":"1npk2XGKDRtjR2DCQydsx5LTHJE8n8O4v",
+"name":"1.jpg",
+"path":"SmartByte/商业管理/2.5G L2+ with PoE/STC-48DGGPM/1.jpg",
+"type":"图片",
+"bytes":3635222,
+"sha256":"55ec05af78a915b6ea3c1ed389e096e591d08405c51b7fb050256d45e4360748",
+"extracted_at":"2026-10-22T02:05:46Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":5000,
+"height":3600,
+"mode":"RGB",
+"datetime":"2024:01:10 22:00:09",
+"software":"Adobe Photoshop CS6 (Windows)",
+"thumb_bytes":6939
+},
+"ocr":{
+"text":"Yellow:PoE/Speed Green:Link/act\na 縣\nmm =N .\nConsole",
+"conf":52.2
+},
+"text":"Yellow:PoE/Speed Green:Link/act\na 縣\nmm =N .\nConsole"
+}

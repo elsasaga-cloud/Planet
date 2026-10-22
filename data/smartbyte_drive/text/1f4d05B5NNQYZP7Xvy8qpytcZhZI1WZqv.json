@@ -1,0 +1,26 @@
+{
+"id":"1f4d05B5NNQYZP7Xvy8qpytcZhZI1WZqv",
+"name":"Actual Photo.jpeg",
+"path":"SmartByte/商业管理/10G L2+ without PoE/STC-4168XGGCM/Actual Photo.jpeg",
+"type":"图片",
+"bytes":1259974,
+"sha256":"5e5530ddb7b3db2c31fc88adb3882e76cc64f7ceef3628a9869b9c5acafd70dd",
+"extracted_at":"2026-10-22T02:05:29Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":3996,
+"height":2019,
+"mode":"RGB",
+"datetime":"2022:03:03 11:10:51",
+"make":"HUAWEI",
+"model":"YAL-AL50",
+"software":"YAL-AL50 10.1.0.119(C00E95R8P1)",
+"thumb_bytes":9635
+},
+"ocr":{
+"text":"Console\n(aay\n] sys\n|\nmt",
+"conf":60.4
+},
+"text":"Console\n(aay\n] sys\n|\nmt"
+}

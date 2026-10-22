@@ -1,0 +1,126 @@
+{
+"id":"17byWeBmee8ayS7Qi6nAdDKwP5khgXnuy",
+"name":"RFP on commerical access switch_2025.1.16.docx",
+"path":"SmartByte/商业管理/RFP on commerical access switch_2025.1.16.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":64804,
+"sha256":"b68ccc46de73196cd778a0e8e0ed2174105c7bcffeabd4ac90b8c2e452e7accf",
+"extracted_at":"2026-10-22T02:05:19Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":1905,
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2023-07-22T16:14:00+00:00",
+"modified":"2025-01-16T10:49:54+00:00",
+"paragraphs":16,
+"tables":0,
+"embedded_images":3
+},
+"warnings":[],
+"text":"Item 1 - Level 2 access switch 24 ports Gigabit PoE+ (10/100/1000 base T) + minimum 2 ports UpLink 10Gbps SFP+ / compatible with 802.3 af and 802.3at POE+ and 802.1q, LACP, IPv6, Voice VLAN, SNMPv3 and SSHv2, spanning tree, DHCP\n-------------------------------------------------------------\nItem 2 - Level 2 access switch 48 ports  Gigabit PoE+ (10/100/1000 base T) + minimum 2 ports UpLink 10Gbps SFP+/ compatible with 802.3 af and 802.3at POE+ and 802.1q, LACP, IPv6, Voice VLAN, SNMPv3 and SSHv2, spanning tree, DHCP\n上边是2层的, AC5方案基本OK, 请确认\n1, Voice Vlan是否已加进feature list\n2, SSH的V2版本是否支持，所有信息中之只找到了SSH\n未明确版本\n-------------------------------------------------------------\nItem 3 - Level 3 access switch 8 ports Gigabit PoE+(10/100/1000 base T) + minimum 2 ports UpLink 10Gbps SFP+  / compatible with 802.3 af and 802.3at POE+ and 802.1q, LACP, IPv6, Voice VLAN, SNMPv3 and SSHv2, spanning tree, DHCP, LLDP-MED\n这个规格之前谈过，如果要做的话能做吗？\n-------------------------------------------------------------\nItem 4 - Level 3 access switch 24 ports Gigabit PoE+(10/100/1000 base T) + minimum 2 ports UpLink 10Gbps SFP+  / compatible with 802.3 af and 802.3at POE+ and 802.1q, LACP, IPv6, Voice VLAN, SNMPv3 and SSHv2, spanning tree, DHCP, LLDP-MED\n------------------------------------------------------------\nItem 5 - Level 3 access switch 48 ports Gigabit PoE+(10/100/1000 base T) + minimum 2 ports UpLink 10Gbps SFP+ / compatible with 802.3 af and 802.3at POE+ and 802.1q, LACP, IPv6, Voice VLAN, SNMPv3 and SSHv2, spanning tree, DHCP, LLDP-MED\n这2个型号也是一样的问题，Voice Vlan是否加进去了，SSH版本未明确\n后续的规格书/web manal等是否会把功能版本明确列出来?\n[页眉页脚]\n2025/Q1\t                                                                                                                       s.sagatelecom@gmail.com\n\t\t\t\t\t\t\t                                                                       Saga Telecom\nwww.sagatelecom.com.cn\nConnecting, Converting, Creating",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Item 1 - Level 2 access switch 24 ports Gigabit PoE+ (10/100/1000 base T) + minimum 2 ports UpLink 10Gbps SFP+ / compatible with 802.3 af and 802.3at POE+ and 802.1q, LACP, IPv6, Voice VLAN, SNMPv3 and SSHv2, spanning tree, DHCP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"-------------------------------------------------------------"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Item 2 - Level 2 access switch 48 ports  Gigabit PoE+ (10/100/1000 base T) + minimum 2 ports UpLink 10Gbps SFP+/ compatible with 802.3 af and 802.3at POE+ and 802.1q, LACP, IPv6, Voice VLAN, SNMPv3 and SSHv2, spanning tree, DHCP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"上边是2层的, AC5方案基本OK, 请确认"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1, Voice Vlan是否已加进feature list"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2, SSH的V2版本是否支持，所有信息中之只找到了SSH"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"未明确版本"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"-------------------------------------------------------------"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Item 3 - Level 3 access switch 8 ports Gigabit PoE+(10/100/1000 base T) + minimum 2 ports UpLink 10Gbps SFP+  / compatible with 802.3 af and 802.3at POE+ and 802.1q, LACP, IPv6, Voice VLAN, SNMPv3 and SSHv2, spanning tree, DHCP, LLDP-MED"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这个规格之前谈过，如果要做的话能做吗？"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"-------------------------------------------------------------"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Item 4 - Level 3 access switch 24 ports Gigabit PoE+(10/100/1000 base T) + minimum 2 ports UpLink 10Gbps SFP+  / compatible with 802.3 af and 802.3at POE+ and 802.1q, LACP, IPv6, Voice VLAN, SNMPv3 and SSHv2, spanning tree, DHCP, LLDP-MED"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"------------------------------------------------------------"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Item 5 - Level 3 access switch 48 ports Gigabit PoE+(10/100/1000 base T) + minimum 2 ports UpLink 10Gbps SFP+ / compatible with 802.3 af and 802.3at POE+ and 802.1q, LACP, IPv6, Voice VLAN, SNMPv3 and SSHv2, spanning tree, DHCP, LLDP-MED"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这2个型号也是一样的问题，Voice Vlan是否加进去了，SSH版本未明确"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"后续的规格书/web manal等是否会把功能版本明确列出来?"
+}
+],
+"header_footer":[
+"2025/Q1\t                                                                                                                       s.sagatelecom@gmail.com\n\t\t\t\t\t\t\t                                                                       Saga Telecom",
+"www.sagatelecom.com.cn",
+"Connecting, Converting, Creating"
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":24050
+},
+{
+"name":"image2.png",
+"bytes":16842
+}
+]
+}
