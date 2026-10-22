@@ -4,11 +4,11 @@
 # - JOB=files / OUT_NAME=<目录名> / SOURCE_IDS=<Drive 文件 ID,…> → 转交 scripts/drive_ingest/files_job.py（单个文件/压缩包全保真抽取到 data/<OUT_NAME>/）；
 #   再跑 Drive 任务前要把 JOB 行删掉或注释掉。
 # - JOB=drive / INDEX=<索引 json> / OUT_DIR=<输出目录> / RELEASE_TAG=<Release 标签> / JOB_LABEL=<提交说明前缀> → 用别的索引跑同一套 Drive 任务（T29-U8 供应商文件夹第二轮）。
-# last trigger: 2026-10-22T09:37:19Z  purpose: T29-U9 / PR-02-29：Elsa Drive《Extra Info.zip》(4.36 GB, md5 41acb139…) 全保真入库 → data/extra_info_2026-10/（重试：09:13Z 首跑因下载失败中止，真实错误被 gdown 报错覆盖，download() 已于 02cb4551 加固；A 邮箱任务 09:34Z 因 Drive「下载次数过多」配额锁而中止，等新链接/配额恢复后再排）。
+# last trigger: 2026-10-22T09:59:22Z  purpose: T29-U10 / PR-02-29：Elsa Drive《Extra Info.zip》(4.36 GB, md5 41acb139…) 全保真入库 → data/extra_info_2026-10/（第 3 次：09:50Z 第 2 跑因原文件 ID 匿名下载配额锁「Too many users have viewed or downloaded」中止；本次改用 Drive 服务端副本 1lZnjbel0x3_vLcFuAGW604L440H9tViA（md5 相同），ingest.download() 遇配额页改为立即中止）。
 JOB=files
 OUT_NAME=extra_info_2026-10
 TITLE=Extra Info（Elsa Drive 压缩包，2026-10）
-SOURCE_IDS=1fDsDkyUEoBOXPFN8dgXQ9yu91HXTBTA4
+SOURCE_IDS=1lZnjbel0x3_vLcFuAGW604L440H9tViA
 SOURCE_MD5=41acb139a25ae2599b72b7b2522deb5e
 OCR=1
 OCR_MIN_KB=8

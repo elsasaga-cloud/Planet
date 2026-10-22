@@ -185,7 +185,13 @@ def download(rec, dest):
                             if nxt and hop == 0 and nxt != url:
                                 url = nxt
                                 continue
-                            errs.append('HTML instead of file (' + ('quota' if 'quota' in body.lower() else 'confirm/unknown') + ')')
+                            low = body.lower()
+                            kind = 'quota' if ('quota' in low or 'too many users' in low) else 'confirm/unknown'
+                            errs.append('HTML instead of file (' + kind + ')')
+                            if kind == 'quota':
+                                # 配额锁通常持续数小时～24h，重试无意义：立即返回，让任务带明确原因中止
+                                return ('QUOTA_LOCKED: Drive「Too many users have viewed or downloaded this file recently」'
+                                        '— 该文件 ID 的匿名下载配额已锁；等 ~24h 后用同一 ID 重跑，或用 copy_file 生成副本（新 ID）后重跑')
                             break
                         if r.status_code == 206:
                             mode = 'ab'
