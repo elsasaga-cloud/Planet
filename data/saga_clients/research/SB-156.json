@@ -35,6 +35,13 @@
    "quote": "工业FS 一些PoE配件 自己的logo",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "海关提单(ImportYeti)",
+   "claim": "Tycon Systems 是 HRUI（深圳洪瑞）美国海运直客：2022-08 至 2024-01 共 4 票 PoE 交换机（5–29 箱/票，PO:6456）",
+   "quote": "Tycon Systems Inc, Riverton … 4 shipments … Poe Switch … 01/31/2024 CHKMMZLMSA248500 570 kg 29ctn",
+   "url": "https://www.importyeti.com/supplier/shenzhen-hongrui-optical-technology",
+   "date": "2026-10-22"
   }
  ],
  "kp": [
@@ -62,7 +69,7 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4） ｜ 针对性加厚 2026-10-22（ImportYeti 海关提单，T29-U13）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -88,7 +95,8 @@
  ],
  "risks": [
   "自有产品已有稳定代工来源：需以 12–58 VDC 宽压 + 小批量灵活性切入",
-  "群发 9 次无回复：改向 Head of BD 具名首触"
+  "群发 9 次无回复：改向 Head of BD 具名首触",
+  "【2026-10-22 外网复抓】ImportYeti 证实其 2022–2024 直接从 HRUI 进口 PoE 交换机（4 票，小批量，最近一票 2024-01）→ 2024 年后无 HRUI 海运记录，可能换厂或改空运；Saga 跟进时问清现供应商，推工业 DIN 导轨 PoE（STI）而非 HRUI 同款。"
  ],
  "saga_fit": {
   "p1": "STI-054GP",

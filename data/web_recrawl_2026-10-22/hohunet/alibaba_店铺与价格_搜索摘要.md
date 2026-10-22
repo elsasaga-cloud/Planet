@@ -1,0 +1,16 @@
+# Hohunet 阿里巴巴国际站店铺（搜索引擎缓存摘要）+ SDVoE 联盟产品目录
+- 店铺 URL: https://hohunet.en.alibaba.com/ （店名 **Shenzhen haohu Network Technology Co.,Ltd** —— 「haohu」= 浩湖拼音）
+- fetch_page 直抓店铺首页（2026-10-22T13:03Z）→ 被 302 到 https://error.alibaba.com/error404.htm（店铺可能已关闭 / 过期，或对抓取器屏蔽；HRUI 店铺同样抓不到但显示 CAPTCHA，两者现象不同 → Hohunet 店铺**疑已下线**，以下价格为搜索引擎缓存，时间不详）
+- 发现途径：web_search `importyeti.com supplier "Smartbyte" OR "Hohunet" switch Shenzhen`（2026-10-22T13:03Z）、`alibaba.com product-detail Hohunet S5624XH OR S7606X …`（2026-10-22T13:04Z）
+
+## 店铺首页摘要（原样，两次缓存）
+- 缓存 A：Data Center Switches — 48*25G SFP28 and 8*100G QSFP28 MPLS Switches **$4,000.00**；S5624XH-2Z-EI Half-wide 10G Optical Enterprise L3 Switch with 24*10G SFP+ and 2*100G QSF28 for SDVoE **$850.00**；32*100G QSFP28 Data Center Switches **$5,000.00**（sdf 100 pieces）；24 10G SFP+, 2*100G uplink Enterprise Switch data center switches MPLS and TOR Deployment；Hohunet 100G S7606X-2Z IPv6 Optical Enterprise Network Switches 6x40G+2x100G **$920.00**；48 Ports 2.5g Multi gigabit Switches for Enterprise /Campus Networks **$1,230.00**；Powerful 880G capacity with 1G/10G/40G/25G Ports L3 Managed Switch **$980.00**；24 SFP+ and 2* 100G uplink L3 Managed Switch-MS **$1,050.00**；S5624XH-2Z-SI Half-wide 10GbE Ethernet Switch with 24*10G SFP+ and 2*100G QSF28 for SDVoE **$680.00**；32*100G QSFP28 Data Center Switches Chinese Chipset（Easy Return）
+- 缓存 B（?tracelog=product_detail_cp，标题 "Enterprise Switches, PoE Switches"）：S5624X-2Z 24*10G + 2*100G Enterprise Switches for Data Center Networks MPLS Switch TOR Switch **US$750.00 – 900.00/piece**；24 10G SFP+, 2*100G uplink Enterprise Switch … Managed Switch US$750.00 – 900.00/piece；40G/100G Data Center Switch with MPLS for TOR Network US$750.00 – 820.00/piece；Hohunet S7606X-2Z Physical dual hot-backup Network Switches 6x40G+2x100G **US$815.00/piece**；S7606X-2Z-SI Two in 1U Optical Network Switches 6x40G+2x100G for E-Sport US$790.00 – 850.00/piece（1 piece Min.）；Hohunet S7606X-2Z Ipran Vxlan Optical Network Switches 6x40G+2x100G for data center US$800.00 – 850.00/piece（1 piece Min.）；Hohunet 100G S7606X-2Z IPv6 Optical Enterprise Network Switches 6x40G+2x100G US$899.00/piece（100 pieces Min.）
+
+## SDVoE 联盟产品目录（原样）
+- https://products.sdvoe.org/avcat/ctl18883/index.cfm?manufacturer=shenzhen-hohunet-technology&product=s5624xh-2z-ei — Model S5624XH-2Z-EI：10G Optical SDVoE Switch，with 24*10G SFP+ and 2*100G QSF28，1*350W CRPS，1*Fan Module；OVERVIEW: S5600 Series routing switches, high-performance Layer 3 Ethernet switch with 100M/1G/10G/40G/25G Ports compact 1U form factor（页面日期 2019-09-05）→ Hohunet 是 **SDVoE Alliance 成员 / 认证产品制造商**（既有记载只提到 host.io 外链 sdvoe.org，本条坐实）
+- 官网英文产品页（已在 `data/hohunet_site_raw` 基线中，这里只记搜索摘要日期）：S7606X-2Z-EI（2024-08-23）、S5624XH-2Z-SI（2025-12-29：1×150W 固定电源、2 固定风扇、eMMC 8GB / DRAM 2GB、ARM A53 双核）、S7606X-2Z-SI（2026-01-16）；中文站 https://hohunet.cn/product/s5624xh-10g-sdvoe/ （2026-01-22：S5624XH-2Z-EI 1 x **550W** CRPS —— 与英文 SDVoE 目录写的 350W 冲突，原样保留）
+
+## 对 Saga 的含义（代理备注）
+- Hohunet 自己在阿里巴巴以 **$680–$1,230** 零售 S5624XH / S7606X / 48×2.5G 等机型（与 Saga `data/hohunet_STH对照表.csv` 的 STH 成本可直接对照：S5624XH-2Z-EI 阿里 $850 vs Saga 成本表），说明 Hohunet 直销价与给 Saga 的成本差距有限 —— Saga 卖 STH 线应强调 SDVoE / 电竞 / 方案整合而非裸价。
+- 店铺疑已下线（2026-10-22 抓取 404），若属实则 Hohunet 目前海外出口依赖 OEM 伙伴 + 官网询盘，对 Saga 是正面信号。

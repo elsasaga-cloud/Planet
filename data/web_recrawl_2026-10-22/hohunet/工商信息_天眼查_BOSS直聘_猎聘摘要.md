@@ -1,5 +1,5 @@
 # Hohunet 工商 / 招聘 / 高企公开信息（搜索摘要原样）
-- 发现途径：web_search `深圳市浩湖网络技术有限公司 法定代表人 注册资本 成立`（2026-10-22T13:02Z）；中文名来自 hohunet.cn 页面标题（见 `hohunet_cn_home.md`）
+- 发现途径：web_search `深圳市浩湖网络技术有限公司 法定代表人 注册资本 成立`（2026-10-22T12:58Z）；中文名来自 hohunet.cn 页面标题（见 `hohunet_cn_home.md`）
 
 ## 来源 1：网易订阅 / 搜狐（天眼查数据）「深圳市浩湖网络技术有限公司被认定为高新技术企业」（2025-01-16，原样）
 - URL: https://www.163.com/dy/article/JM1LTUOI0519QIKK.html ；https://m.sohu.com/a/849680296_114984

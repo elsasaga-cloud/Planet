@@ -80,7 +80,10 @@ updated: 2026-10-22
 - **【用户表】在用 HRUI 商业 PoE，CCTV 为主**
   > 用的洪瑞的 商业PoE CCTV产品为主
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- **【海关提单(ImportYeti)】GW Security 是 HRUI（深圳洪瑞）美国海运直客：2018-07 至 2026-10-14 共 14 票整柜 PoE 交换机（每票 100–225 箱，Yantian→Long Beach）**
+  > Gw Security Inc, South El Monte … 14 shipments … Poe Switch, Poe Switch Plts … 10/14/2026 PSEAZLGB26092040 2,240 kg 170ctn
+  > 来源：https://www.importyeti.com/supplier/shenzhen-hongrui-optical-technology（抓取 2026-10-22）
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4） ｜ 针对性加厚 2026-10-22（ImportYeti 海关提单，T29-U13）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
@@ -95,7 +98,7 @@ updated: 2026-10-22
   - 站内型号 GW42-4264NV8-2 / GW5037IP / GWCAT100 / GW4232N2（自有）
   - 博客 /2026/06/22/poe-vs-wifi-security-cameras-…（PoE 为主推）
   - 官网公开邮箱 info@gwsecurity.com / sales@gwsecurityusa.com
-- **风险/边界**：Q-33 口径：客户在用 HRUI（Saga 供应商）→ 不报 HRUI 同款，只推 SmartByte/Marvell 管理型；表内「像是国内平台」：公司背景可能为华人创办，决策链/供应链在深圳的可能性需核；38 次群发已有回复：下一封承接上次回复、只问一个问题
+- **风险/边界**：Q-33 口径：客户在用 HRUI（Saga 供应商）→ 不报 HRUI 同款，只推 SmartByte/Marvell 管理型；表内「像是国内平台」：公司背景可能为华人创办，决策链/供应链在深圳的可能性需核；38 次群发已有回复：下一封承接上次回复、只问一个问题；【2026-10-22 外网复抓】ImportYeti 证实其直接从 HRUI 工厂整柜进货（14 票至 2026-10）→ Saga 的 HRUI 底 STC 报价对其无价格意义；若跟进只能推 Marvell 线（SmartByte）或 PoE++/管理型差异化机型，否则维持 B 不主动触达。
 - **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——现用 HRUI 商业 PoE → Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 GW 标作「管理型套装」升级位；不报 HRUI 同款
 - **邮件切入句（英文）**：For the GW-branded NVR kits, we can add a Marvell-based managed 8-PoE + 2 SFP switch (PoE watchdog, extend mode for long camera runs) under your label from small lots — would a managed PoE option make sense for your 8- and 16-channel kits?
 

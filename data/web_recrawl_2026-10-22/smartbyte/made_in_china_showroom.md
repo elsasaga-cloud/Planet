@@ -1,6 +1,6 @@
 # Made-in-China 展厅页：Shenzhen SmartByte Technology Co.,Ltd
 - URL: https://www.made-in-china.com/showroom/f088cae426049bf0/
-- 抓取（fetch_page，chunk 0/3；其余 chunk 为平台推荐的其他供应商广告，无 SmartByte 内容）：2026-10-22T13:00Z
+- 抓取（fetch_page，chunk 0/3；其余 chunk 为平台推荐的其他供应商广告，无 SmartByte 内容）：2026-10-22T12:59Z
 - 发现途径：web_search `"Smartbyte" industrial switch alibaba.com supplier Huizhou OR Shenzhen`（2026-10-22T12:53Z）
 
 ## 页面事实（原样）

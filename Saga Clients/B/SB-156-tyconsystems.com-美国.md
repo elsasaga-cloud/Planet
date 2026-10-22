@@ -80,10 +80,13 @@ updated: 2026-10-22
 - **【用户表】工业 FS + PoE 配件 + 自有 logo**
   > 工业FS 一些PoE配件 自己的logo
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【海关提单(ImportYeti)】Tycon Systems 是 HRUI（深圳洪瑞）美国海运直客：2022-08 至 2024-01 共 4 票 PoE 交换机（5–29 箱/票，PO:6456）**
+  > Tycon Systems Inc, Riverton … 4 shipments … Poe Switch … 01/31/2024 CHKMMZLMSA248500 570 kg 29ctn
+  > 来源：https://www.importyeti.com/supplier/shenzhen-hongrui-optical-technology（抓取 2026-10-22）
 - **KP**：Andy Pierre（） 〔用户表〕
 - **KP**：Daimyn Duong（）daimyn@tyconsystems.com 〔用户表〕
 - **KP**：Scott Parsons（）scottp@tyconsystems.com 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4） ｜ 针对性加厚 2026-10-22（ImportYeti 海关提单，T29-U13）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
@@ -104,7 +107,7 @@ updated: 2026-10-22
   - 官网品类：/categories/poe-switches/、/managed-poe-switches/、/un-managed-poe-switches/、PoE extender
   - 站内型号 TP-SW5G-D、TP-DCDC-1224/1248、TPDIN-SC48-20
   - KP：Daimyn Duong、Scott Parsons、Andy Pierre（Head of BD，表内）
-- **风险/边界**：自有产品已有稳定代工来源：需以 12–58 VDC 宽压 + 小批量灵活性切入；群发 9 次无回复：改向 Head of BD 具名首触
+- **风险/边界**：自有产品已有稳定代工来源：需以 12–58 VDC 宽压 + 小批量灵活性切入；群发 9 次无回复：改向 Head of BD 具名首触；【2026-10-22 外网复抓】ImportYeti 证实其 2022–2024 直接从 HRUI 进口 PoE 交换机（4 票，小批量，最近一票 2024-01）→ 2024 年后无 HRUI 海运记录，可能换厂或改空运；Saga 跟进时问清现供应商，推工业 DIN 导轨 PoE（STI）而非 HRUI 同款。
 - **Saga 对位结论**：P1 STI-054GP（30% 档）——自有 TP-SW5G-D（DIN 5 口千兆 4 PoE）→ Saga STI-054GP（工业 4 PoE + 1 GE，$33.8 @30%）贴 Tycon 标；带 SFP 位 STI-154GP（$40.8）；管理型 STI-288GPM
 - **邮件切入句（英文）**：Andy, for the TP-SW5G-D class DIN-rail PoE switches in your off-grid kits, we build Marvell-based 5-port (4 PoE+) industrial units with 12–58 VDC input under your label from small lots (CE/RoHS/FCC) — do you want the SFP-uplink or the all-copper version first?
 

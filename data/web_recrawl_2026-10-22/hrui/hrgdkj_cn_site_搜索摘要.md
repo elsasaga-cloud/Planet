@@ -1,5 +1,5 @@
 # HRUI 中文官网 hrgdkj.com（深圳市洪瑞光祥电子技术有限公司）— 搜索摘要原样
-- 发现途径：web_search `hrgdkj.com 洪瑞光祥 PoE交换机 工业交换机 官网`（2026-10-22T13:04Z）；fetch_page 直接抓 https://www.hrgdkj.com/ 失败（Failed to fetch page，疑对抓取器封锁）→ 整站交 Actions 抓取（crawl.py v3.2 新增站点 `data/hrui_cn_site_raw/`）
+- 发现途径：web_search `hrgdkj.com 洪瑞光祥 PoE交换机 工业交换机 官网`（2026-10-22T12:59Z）；fetch_page 直接抓 https://www.hrgdkj.com/ 失败（Failed to fetch page，疑对抓取器封锁）→ 整站交 Actions 抓取（crawl.py v3.2 新增站点 `data/hrui_cn_site_raw/`）
 - 既有记载：`docs/suppliers/HRUI/00-画像与资料地图.md` §1 只提到「中文站 hrgdkj.com」，未入库内容；本条为首次入库其文字。
 
 ## 首页 https://www.hrgdkj.com/ （摘要原样）
