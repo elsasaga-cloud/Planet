@@ -1,0 +1,99 @@
+{
+  "crawled_at": "2026-10-22T14:01:30Z",
+  "host": "www.smartbyte-switch.com",
+  "complete": false,
+  "blocked": false,
+  "recrawl_base": "data/smartbyte_site_raw",
+  "diff": {
+    "pages": {
+      "new": 0,
+      "text_changed": 0,
+      "markup_only": 1,
+      "same": 347,
+      "gone": 0,
+      "not_reached": 0
+    },
+    "downloads": {
+      "new": 0,
+      "changed": 0,
+      "same": 245,
+      "gone": 0,
+      "not_reached": 0
+    },
+    "images": {
+      "new": 0,
+      "changed": 0,
+      "same": 1226,
+      "gone": 0,
+      "not_reached": 272
+    }
+  },
+  "same_as_base": {
+    "downloads": 245,
+    "images": 1226
+  },
+  "access": {
+    "mode": "requests",
+    "profile": "archiver",
+    "base": "https://www.smartbyte-switch.com/"
+  },
+  "refused": {
+    "pages": 0,
+    "downloads": 0,
+    "images": 0
+  },
+  "refused_sample": {
+    "pages": [],
+    "downloads": [],
+    "images": []
+  },
+  "pages_total": 350,
+  "pages_ok": 348,
+  "pages_failed": [
+    "https://www.smartbyte-switch.com/Unmanaged-Industrial-Switch",
+    "https://www.smartbyte-switch.com/Industrial-Boost-Power-Adaptor"
+  ],
+  "pages_stop": "complete (queue empty)",
+  "queue_left": 0,
+  "downloads_total": 245,
+  "downloads_ok": 245,
+  "downloads_left": 0,
+  "downloads_stop": "complete",
+  "downloads_bytes": 83004809,
+  "pdfs_committed": true,
+  "pdf_text_files": 0,
+  "images_bytes": 0,
+  "images_committed": true,
+  "images_total": 1226,
+  "images_ok": 1226,
+  "images_left": 272,
+  "images_stop": "time budget (272 left)",
+  "images_bytes_this_run": 236131192,
+  "external_hosts": {
+    "gcdn.meidianbang.cn": 348
+  },
+  "runs": [
+    {
+      "run": "13",
+      "started": "2026-10-22T12:54:30Z",
+      "resumed": false,
+      "budget_min": 67.0,
+      "max_pages": 1500,
+      "delay_s": 0.8,
+      "ended": "2026-10-22T14:01:30Z",
+      "elapsed_s": 4020,
+      "pages_new": 350,
+      "downloads_new": 245,
+      "images_new": 1226,
+      "pages_stop": "complete (queue empty)",
+      "downloads_stop": "complete",
+      "images_stop": "time budget (272 left)"
+    }
+  ],
+  "elapsed_s": 4020,
+  "user_agent": "Mozilla/5.0 (compatible; SagaTelecom-site-archiver/1.0; +https://sagatele.com)",
+  "delay_s": 0.8,
+  "time_budget_min": 67.0,
+  "how_to_continue": "未抓完（被拒 403/429/网络错误 0 个；页面阶段 complete (queue empty)；附件 complete；图片 time budget (272 left)）：在 GitHub Actions 页对 SmartByte site archive 点 Run workflow（或再推一次 crawl.py），会从 crawl_state.json 续抓并重试失败项",
+  "site": "smartbyte"
+}

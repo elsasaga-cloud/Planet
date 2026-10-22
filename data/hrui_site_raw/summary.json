@@ -1,8 +1,14 @@
 {
-  "crawled_at": "2026-10-21T04:51:11Z",
+  "crawled_at": "2026-10-22T12:54:29Z",
   "host": "www.hruitech.com",
   "complete": false,
   "blocked": false,
+  "recrawl_base": null,
+  "diff": null,
+  "same_as_base": {
+    "downloads": 0,
+    "images": 0
+  },
   "access": {
     "mode": "requests",
     "profile": "archiver",
@@ -156,7 +162,7 @@
   "images_ok": 1975,
   "images_left": 0,
   "images_stop": "complete",
-  "images_bytes_this_run": 98308977,
+  "images_bytes_this_run": 0,
   "external_hosts": {
     "at.alicdn.com": 536,
     "www.discoverisc.com": 2,
@@ -200,9 +206,25 @@
       "pages_stop": "complete (queue empty)",
       "downloads_stop": "complete",
       "images_stop": "complete"
+    },
+    {
+      "run": "13",
+      "started": "2026-10-22T12:53:32Z",
+      "resumed": true,
+      "budget_min": 55.0,
+      "max_pages": 1500,
+      "delay_s": 0.8,
+      "ended": "2026-10-22T12:54:29Z",
+      "elapsed_s": 57,
+      "pages_new": 0,
+      "downloads_new": 1,
+      "images_new": 1,
+      "pages_stop": "complete (queue empty)",
+      "downloads_stop": "complete",
+      "images_stop": "complete"
     }
   ],
-  "elapsed_s": 979,
+  "elapsed_s": 57,
   "user_agent": "Mozilla/5.0 (compatible; SagaTelecom-site-archiver/1.0; +https://sagatele.com)",
   "delay_s": 0.8,
   "time_budget_min": 55.0,

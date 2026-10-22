@@ -198,3 +198,18 @@
 [04:50:06] images 1000/1057 93 MB elapsed 15.2 min
 [04:51:10] images total 227.0 MB → committed to git: True (+1056 copied into data/hrui_site_raw/images)
 [04:51:10] images stop: complete; ok 1975/1976 (+1057 this run), 98.3 MB this run
+===== run 13 =====
+[12:53:32] checkout already at branch tip fb97fd9
+[12:53:32] run 13 start; resume=True; budget 55.0 min; max_pages 1500; delay 0.8s
+[12:53:33] probe archiver https://www.hruitech.com/ → 200
+[12:53:33] access mode = requests (archiver) base https://www.hruitech.com/
+[12:53:33] resume: pages_done=654 queue=0 (retry 0) downloads=209 images=1976
+[12:53:57] hrui api: 25 calls, 182 products listed, 0 new product pages queued
+[12:53:57] BFS stop: complete (queue empty); pages=654 (+0) downloads=209 images=1976
+[12:53:58] cdn images harvested from archived html: +0 (images total 1976)
+[12:53:58] DL FAIL https://www.hruitech.com/web/userfiles/productfile/Datasheet HR900-AF-42N.pdf: /www.hruitech.com/web/userfiles/productfile/Datasheet HR900-AF-42N.pdf: HTTP 404 text/html 1231B
+[12:53:58] downloads stop: complete; ok 208/209 (+1 this run), 189.1 MB
+[12:53:58] pdftotext: 207
+[12:53:58] downloads total 189.1 MB → committed to git: 208/208 files (189.1 MB; all=True)
+[12:54:29] images total 227.0 MB → committed to git: True (+0 copied into data/hrui_site_raw/images)
+[12:54:29] images stop: complete; ok 1975/1976 (+1 this run), 0.0 MB this run

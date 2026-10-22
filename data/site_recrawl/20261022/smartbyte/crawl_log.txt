@@ -1,0 +1,56 @@
+===== run 13 =====
+[12:54:30] checkout already at branch tip fb97fd9
+[12:54:30] v3.2 recrawl round: baseline data/smartbyte_site_raw (pages 350, downloads 245, images 1493, sha 993) → OUT data/site_recrawl/20261022/smartbyte
+[12:54:30] run 13 start; resume=False; budget 67.0 min; max_pages 1500; delay 0.8s
+[12:54:31] probe archiver https://www.smartbyte-switch.com/ → 200
+[12:54:31] access mode = requests (archiver) base https://www.smartbyte-switch.com/
+[12:54:31] sitemap: 303 loc, 299 new seeds
+[12:55:03] pages 25 (+25 this run) queue 285 downloads 0 images 2 elapsed 0.6 min
+[12:55:37] pages 50 (+50 this run) queue 279 downloads 6 images 2 elapsed 1.1 min
+[12:56:10] pages 75 (+75 this run) queue 254 downloads 31 images 2 elapsed 1.7 min
+[12:56:47] pages 100 (+100 this run) queue 229 downloads 56 images 2 elapsed 2.3 min
+[12:57:23] pages 125 (+125 this run) queue 204 downloads 80 images 2 elapsed 2.9 min
+[12:58:04] pages 150 (+150 this run) queue 179 downloads 105 images 2 elapsed 3.6 min
+[12:58:50] pages 175 (+175 this run) queue 154 downloads 130 images 2 elapsed 4.3 min
+[12:59:46] pages 200 (+200 this run) queue 129 downloads 155 images 2 elapsed 5.3 min
+[13:00:25] pages 225 (+225 this run) queue 104 downloads 180 images 2 elapsed 5.9 min
+[13:01:02] pages 250 (+250 this run) queue 79 downloads 205 images 2 elapsed 6.6 min
+[13:01:37] pages 275 (+275 this run) queue 54 downloads 230 images 2 elapsed 7.1 min
+[13:02:10] pages 300 (+300 this run) queue 29 downloads 245 images 2 elapsed 7.7 min
+[13:02:19] HTTP 404 https://www.smartbyte-switch.com/Unmanaged-Industrial-Switch
+[13:02:20] HTTP 404 https://www.smartbyte-switch.com/Industrial-Boost-Power-Adaptor
+[13:02:39] pages 325 (+325 this run) queue 16 downloads 245 images 2 elapsed 8.2 min
+[13:03:06] pages 350 (+350 this run) queue 0 downloads 245 images 2 elapsed 8.6 min
+[13:03:06] BFS stop: complete (queue empty); pages=350 (+350) downloads=245 images=2
+[13:03:11] cdn images harvested from archived html: +1496 (images total 1498)
+[13:03:30] downloads 20/245 elapsed 9.0 min
+[13:03:50] downloads 40/245 elapsed 9.3 min
+[13:04:10] downloads 60/245 elapsed 9.7 min
+[13:04:29] downloads 80/245 elapsed 10.0 min
+[13:04:49] downloads 100/245 elapsed 10.3 min
+[13:05:08] downloads 120/245 elapsed 10.7 min
+[13:05:28] downloads 140/245 elapsed 11.0 min
+[13:05:48] downloads 160/245 elapsed 11.3 min
+[13:06:07] downloads 180/245 elapsed 11.6 min
+[13:06:27] downloads 200/245 elapsed 12.0 min
+[13:06:46] downloads 220/245 elapsed 12.3 min
+[13:07:06] downloads 240/245 elapsed 12.6 min
+[13:07:11] downloads stop: complete; ok 245/245 (+245 this run), 83.0 MB
+[13:07:11] pdftotext: 0
+[13:07:11] downloads total 83.0 MB → committed to git: 0/0 files (0.0 MB; all=True)
+[13:11:31] images 100/1498 28 MB elapsed 17.0 min
+[13:16:50] images 200/1498 45 MB elapsed 22.3 min
+[13:20:11] images 300/1498 62 MB elapsed 25.7 min
+[13:23:49] images 400/1498 79 MB elapsed 29.3 min
+[13:28:13] images 500/1498 94 MB elapsed 33.7 min
+[13:31:23] images 600/1498 109 MB elapsed 36.9 min
+[13:37:51] images 700/1498 127 MB elapsed 43.4 min
+[13:42:04] images 800/1498 145 MB elapsed 47.6 min
+[13:45:54] images 900/1498 162 MB elapsed 51.4 min
+[13:48:23] images 1000/1498 179 MB elapsed 53.9 min
+[13:54:43] images 1100/1498 196 MB elapsed 60.2 min
+[13:58:43] images 1200/1498 214 MB elapsed 64.2 min
+[14:01:30] TIME BUDGET: phase 'images' cap 67 min reached at 67.0 min → graceful stop of this phase
+[14:01:30] images total 0.0 MB → committed to git: True (+0 copied into data/site_recrawl/20261022/smartbyte/images)
+[14:01:30] images stop: time budget (272 left); ok 1226/1226 (+1226 this run), 236.1 MB this run
+[14:01:30] diff: {"pages": {"new": 0, "text_changed": 0, "markup_only": 1, "same": 347, "gone": 0, "not_reached": 0}, "downloads": {"new": 0, "changed": 0, "same": 245, "gone": 0, "not_reached": 0}, "images": {"new": 0, "changed": 0, "same": 1226, "gone": 0, "not_reached": 272}}

@@ -1,0 +1,22 @@
+{
+  "probed_at": "2026-10-22T12:54:30Z",
+  "runner_ip": null,
+  "tried": [
+    {
+      "profile": "archiver",
+      "url": "https://www.smartbyte-switch.com/",
+      "status": 200,
+      "final_url": "https://www.smartbyte-switch.com/",
+      "content_type": "text/html;charset=utf-8",
+      "server": "Tengine",
+      "cf_ray": null,
+      "cf_mitigated": null,
+      "x_powered_by": null,
+      "via": null,
+      "body_head": "<!-- cache for / 2026-10-14 05:02:04--> <!DOCTYPE html> <html lang=\"en\"> <head> <title>SmartByte</title> <meta name=\"keywords\" content=\"SmartByte\" /> <meta name=\"description\" content=\"SmartByte\" /> <meta property=\"og:site_name\" content=\"SmartByte\" /> <meta property=\"og:title\" content=\"SmartByte\" /> <meta property=\"og:description\" content=\"SmartByte\" /> <meta property=\"og:url\" content=\"https://smartbyte-switch.com/\" /> <meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\" /> <meta name=\"renderer\" content=\"webkit\"> <meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge,chro"
+    }
+  ],
+  "mode": "requests",
+  "profile": "archiver",
+  "base": "https://www.smartbyte-switch.com/"
+}

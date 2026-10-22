@@ -1,0 +1,1822 @@
+[
+ {
+  "id": "342",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR200P-16T2MS-200",
+  "title2": "16-Port 10/100/1000T 802.3af/at PoE + 2-Port 2.5G SFP Ethernet Switch (200 Watts)",
+  "product_sn": "HR200P-16T2MS-200",
+  "url": "https://www.hruitech.com/poe-switch/342.html"
+ },
+ {
+  "id": "341",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR200P-16T2MS-280",
+  "title2": "16-Port 10/100/1000T 802.3af/at PoE + 2-Port 2.5G SFP Ethernet Switch (280 Watts)",
+  "product_sn": "HR200P-16T2MS-280",
+  "url": "https://www.hruitech.com/poe-switch/341.html"
+ },
+ {
+  "id": "340",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR200P-24T2MS-280",
+  "title2": "24-Port 10/100/1000T 802.3af/at PoE + 2-Port 2.5G SFP Ethernet Switch (280 Watts)",
+  "product_sn": "HR200P-24T2MS-280",
+  "url": "https://www.hruitech.com/poe-switch/340.html"
+ },
+ {
+  "id": "339",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR200P-24T2MS-400",
+  "title2": "24-Port 10/100/1000T 802.3af/at PoE + 2-Port 2.5G SFP Ethernet Switch (400 Watts)",
+  "product_sn": "HR200P-24T2MS-400",
+  "url": "https://www.hruitech.com/poe-switch/339.html"
+ },
+ {
+  "id": "307",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR903-AFG-41Y",
+  "title2": "4-Port 10/100/1000T 802.3af/at PoE + 1-Port 10/100/1000T Ethernet Switch (55 Watts) ",
+  "product_sn": "HR903-AFG-41Y",
+  "url": "https://www.hruitech.com/poe-switch/307.html"
+ },
+ {
+  "id": "306",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR903-AF-82Y-120",
+  "title2": "8-Port 10/100T 802.3af/at PoE + 2-Port 10/100/1000T Ethernet Switch (120 Watts)",
+  "product_sn": "8×PoE ports (802.3af/at, 120W total) and 2×uplink RJ45 ports",
+  "url": "https://www.hruitech.com/poe-switch/306.html"
+ },
+ {
+  "id": "305",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR903-AF-82Y-96",
+  "title2": "8-Port 10/100T 802.3af/at PoE + 2-Port 10/100/1000T Ethernet Switch (96 Watts)",
+  "product_sn": "HR903-AF-82Y-96",
+  "url": "https://www.hruitech.com/poe-switch/305.html"
+ },
+ {
+  "id": "304",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR903-AF-42Y",
+  "title2": "4-Port 10/100/1000T 802.3af/at PoE + 2-Port 10/100/1000T Ethernet Switch (55 Watts)",
+  "product_sn": "HR903-AF-42Y",
+  "url": "https://www.hruitech.com/poe-switch/304.html"
+ },
+ {
+  "id": "239",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR900-AFG-42NS-65",
+  "title2": "4-Port 10/100/1000T 802.3af/at PoE + 2-Port Gigabit SFP Ethernet Switch (65 Watts)",
+  "product_sn": "HR900-AFG-42NS-65",
+  "url": "https://www.hruitech.com/poe-switch/239.html"
+ },
+ {
+  "id": "238",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR900-AFG-42NS-120",
+  "title2": "4-Port 10/100/1000T 802.3af/at PoE + 2-Port Gigabit SFP Ethernet Switch (120 Watts)",
+  "product_sn": "HR900-AFG-42NS-120",
+  "url": "https://www.hruitech.com/poe-switch/238.html"
+ },
+ {
+  "id": "237",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR900-AFG-411NS-65",
+  "title2": "4-Port 10/100/1000T 802.3af/at PoE + 1-Port 10/100/1000T + 1-Port Gigabit SFP Ethernet Switch (65 Watts)",
+  "product_sn": "HR900-AFG-411NS-65",
+  "url": "https://www.hruitech.com/poe-switch/237.html"
+ },
+ {
+  "id": "236",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR900-AFG-411NS-120",
+  "title2": "4-Port 10/100/1000T 802.3af/at PoE + 1-Port 10/100/1000T + 1-Port Gigabit SFP Ethernet Switch (120 Watts)",
+  "product_sn": "HR900-AFG-411NS-120",
+  "url": "https://www.hruitech.com/poe-switch/236.html"
+ },
+ {
+  "id": "224",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR900-AFG-242S-300",
+  "title2": " 24-Port 10/100/1000T 802.3af/at PoE + 2-Port Gigabit SFP Ethernet Switch(300 Watts)",
+  "product_sn": "HR900-AFG-242S-300",
+  "url": "https://www.hruitech.com/poe-switch/224.html"
+ },
+ {
+  "id": "223",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR900-AFG-242S-400",
+  "title2": "24-Port 10/100/1000T 802.3af/at PoE+ 2-Port Gigabit SFP Ethernet Switch(400 Watts)",
+  "product_sn": "HR900-AFG-242S-400",
+  "url": "https://www.hruitech.com/poe-switch/223.html"
+ },
+ {
+  "id": "222",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR900-AFG-162S-300",
+  "title2": "16-Port 10/100/1000T 802.3af/at PoE + 2-Port Gigabit SFP Ethernet Switch(300 Watts)",
+  "product_sn": "HR900-AFG-162S-300",
+  "url": "https://www.hruitech.com/poe-switch/222.html"
+ },
+ {
+  "id": "221",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR900-AFG-162S-200",
+  "title2": "16-Port 10/100/1000T 802.3af/at PoE + 2-Port Gigabit SFP Ethernet Switch(200 Watts)",
+  "product_sn": "HR900-AFG-162S-200",
+  "url": "https://www.hruitech.com/poe-switch/221.html"
+ },
+ {
+  "id": "220",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR200-AXG-42NS-100",
+  "title2": "4-Port 10/100/1000T 802.3af/at PoE + 2-Port Gigabit SFP Ethernet Switch(100 Watts)",
+  "product_sn": "HR200-AXG-42NS-100",
+  "url": "https://www.hruitech.com/poe-switch/220.html"
+ },
+ {
+  "id": "214",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR200-AXG-411NS-65",
+  "title2": "4-Port 10/100/1000T 802.3af/at PoE+ 1-Port 10/100/1000T+1-Port Gigabit SFP Ethernet Switch (65 Watts)",
+  "product_sn": "HR200-AXG-411NS-65",
+  "url": "https://www.hruitech.com/poe-switch/214.html"
+ },
+ {
+  "id": "213",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR200-AXG-42NS-65",
+  "title2": "4-Port 10/100/1000T 802.3af/at PoE + 2-Port Gigabit SFP Ethernet Switch(65 Watts)",
+  "product_sn": "HR200-AXG-42NS-65",
+  "url": "https://www.hruitech.com/poe-switch/213.html"
+ },
+ {
+  "id": "212",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR200-AXG-411NS-100",
+  "title2": "4-Port 10/100/1000T 802.3af/at PoE+ 1-Port 10/100/1000T+1-Port Gigabit SFP Ethernet Switch (100 Watts)",
+  "product_sn": "HR200-AXG-411NS-100",
+  "url": "https://www.hruitech.com/poe-switch/212.html"
+ },
+ {
+  "id": "273",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR200-AFG-82NS-150",
+  "title2": "8-Port 10/100/1000T 802.3af/at PoE + 2-Port Gigabit SFP Ethernet Switch(150 Watts)",
+  "product_sn": "HR200-AFG-82NS-150",
+  "url": "https://www.hruitech.com/poe-switch/273.html"
+ },
+ {
+  "id": "277",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR200-AFG-82N-150 ",
+  "title2": "8-Port 10/100/1000T 802.3af/at PoE + 2-Port 10/100/1000T Ethernet Switch (150 Watts)",
+  "product_sn": "HR200-AFG-82N-150",
+  "url": "https://www.hruitech.com/poe-switch/277.html"
+ },
+ {
+  "id": "274",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR200-AFG-1622S-200",
+  "title2": "16-Port 10/100/1000T 802.3af/at PoE + 2-Port 10/100/1000T  + 2-Port Gigabit SFP Ethernet Switch (200 Watts)",
+  "product_sn": "HR200-AFG-1622S-200",
+  "url": "https://www.hruitech.com/poe-switch/274.html"
+ },
+ {
+  "id": "211",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR200-AFG-242S-400",
+  "title2": "24-Port 10/100/1000T 802.3af/at PoE + 2-Port Gigabit SFP Intelligent Ethernet Switch (400 Watts)",
+  "product_sn": "HR200-AFG-242S-400",
+  "url": "https://www.hruitech.com/poe-switch/211.html"
+ },
+ {
+  "id": "209",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR900-AFG-SWTG018ANS",
+  "title2": "8-Port 100/1000/2500T 802.3af/at PoE + 1-Port 10G SFP+  Ethemet Switch (100 Watts)",
+  "product_sn": "HR900-AFG-SWTG018ANS",
+  "url": "https://www.hruitech.com/poe-switch/209.html"
+ },
+ {
+  "id": "208",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR900-AFG-822NS",
+  "title2": "8-Port 10/100/1000T 802.3af/at PoE + 2-Port 10/100/1000T +2-Port Gigabit SFP Ethernet Switch (120 Watts)",
+  "product_sn": "HR900-AFG-822NS",
+  "url": "https://www.hruitech.com/poe-switch/208.html"
+ },
+ {
+  "id": "207",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR900-AFG-1622S-200",
+  "title2": "16-Port 10/100/1000T 802.3af/at PoE + 2-Port 10/100/1000T  + 2-Port Gigabit SFP Ethernet Switch (200 Watts)",
+  "product_sn": "HR900-AFG-1622S-200",
+  "url": "https://www.hruitech.com/poe-switch/207.html"
+ },
+ {
+  "id": "206",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR900-AFG-2422S-300D ",
+  "title2": " 24-10/100/1000T 802.3af/at PoE + 2-Port 10/100/1000T+2-Port Gigabit SFP Ports Ethernet Switch (300 Watts)",
+  "product_sn": "HR900-AFG-2422S-300D",
+  "url": "https://www.hruitech.com/poe-switch/206.html"
+ },
+ {
+  "id": "205",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR900-AFG-2422S-300 ",
+  "title2": " 24-10/100/1000T 802.3af/at PoE +2-Port 10/100/1000T + 2-Port Gigabit SFP Ports Ethernet Switch (300 Watts)",
+  "product_sn": "HR900-AFG-2422S-300",
+  "url": "https://www.hruitech.com/poe-switch/205.html"
+ },
+ {
+  "id": "199",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR900-AFG-82N",
+  "title2": "8-Port 10/100/1000T 802.3af/at PoE + 2-Port 10/100/1000T Ethernet Switch (120 Watts)",
+  "product_sn": "HR900-AFG-82N",
+  "url": "https://www.hruitech.com/poe-switch/199.html"
+ },
+ {
+  "id": "198",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR900-AFG-82NS ",
+  "title2": "8-Port 10/100/1000T 802.3af/at PoE + 2-Port Gigabit SFP Ports Ethernet Switch(120 Watts)",
+  "product_sn": "HR900-AFG-82NS",
+  "url": "https://www.hruitech.com/poe-switch/198.html"
+ },
+ {
+  "id": "197",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR900-AFG-42N",
+  "title2": "4-Port 10/100/1000T 802.3af/at PoE + 2-Port 10/100/1000T Ethernet Switch (65 Watts)",
+  "product_sn": "HR900-AFG-42N",
+  "url": "https://www.hruitech.com/poe-switch/197.html"
+ },
+ {
+  "id": "196",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR900-AF-2421GS-300",
+  "title2": " 24*10/100T 802.3af/at PoE ports + 2-Port 10/100/1000T + 1-Port Gigabit SFP Ethernet Switch (300 Watts)",
+  "product_sn": "HR900-AF-2421GS-300",
+  "url": "https://www.hruitech.com/poe-switch/196.html"
+ },
+ {
+  "id": "195",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR900-AF-1621GS-300",
+  "title2": "16*10/100T 802.3af/at PoE ports + 2-Port 10/100/1000T + 1-Port Gigabit SFP Ethernet Switch (300 Watts)",
+  "product_sn": "HR900-AF-1621GS-300",
+  "url": "https://www.hruitech.com/poe-switch/195.html"
+ },
+ {
+  "id": "194",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR900-AF-82GN",
+  "title2": "8-Port 10/100T 802.3af/at PoE + 2-Port 10/100/1000T Ethernet Switch (120 Watts)",
+  "product_sn": "HR900-AF-82GN",
+  "url": "https://www.hruitech.com/poe-switch/194.html"
+ },
+ {
+  "id": "191",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR900-AF-82N ",
+  "title2": "8-Port 10/100T 802.3af/at PoE + 2-Port 10/100T Ethernet Switch (120 Watts)",
+  "product_sn": "HR900-AF-82N",
+  "url": "https://www.hruitech.com/poe-switch/191.html"
+ },
+ {
+  "id": "178",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR900-AF-42N",
+  "title2": "4-Port 10/100T 802.3af/at PoE + 2-Port 10/100T Ethernet Switch (65 Watts)",
+  "product_sn": "HR900-AF-42N",
+  "url": "https://www.hruitech.com/poe-switch/178.html"
+ },
+ {
+  "id": "85",
+  "sortid": 64,
+  "classid": "64",
+  "category": "poe-switch",
+  "title": "HR-AFG-811NS",
+  "title2": "8-Port 10/100/1000T 802.3af/at PoE + 1-Port 10/100/1000T + 1-Port Gigabit SFP Ethernet Switch (150 Watts)",
+  "product_sn": "HR-AFG-811NS",
+  "url": "https://www.hruitech.com/poe-switch/85.html"
+ },
+ {
+  "id": "343",
+  "sortid": 76,
+  "classid": "76",
+  "category": "ethernet-switch",
+  "title": "HR300S-24T2XS",
+  "title2": "24-Port 10/100/1000/2500T + 2-Port 10G SFP+ Ethernet Switch",
+  "product_sn": "HR300S-24T2XS",
+  "url": "https://www.hruitech.com/ethernet-switch/343.html"
+ },
+ {
+  "id": "280",
+  "sortid": 76,
+  "classid": "76",
+  "category": "ethernet-switch",
+  "title": "HR903-SWTG024AS",
+  "title2": "4-Port 10/100/1000/2500T + 2-Port 10G SFP+ Ethernet Switch ",
+  "product_sn": "HR903-SWTG024AS",
+  "url": "https://www.hruitech.com/ethernet-switch/280.html"
+ },
+ {
+  "id": "279",
+  "sortid": 76,
+  "classid": "76",
+  "category": "ethernet-switch",
+  "title": "HR903-SWTG018AS",
+  "title2": "8-Port 10/100/1000/2500T + 1-Port 10G SFP+ Ethernet Switch ",
+  "product_sn": "HR903-SWTG018AS",
+  "url": "https://www.hruitech.com/ethernet-switch/279.html"
+ },
+ {
+  "id": "278",
+  "sortid": 76,
+  "classid": "76",
+  "category": "ethernet-switch",
+  "title": "HR903-SWTG015AS",
+  "title2": "5-Port 10/100/1000/2500T + 1-Port 10G SFP+ Ethernet Switch ",
+  "product_sn": "HR903-SWTG015AS",
+  "url": "https://www.hruitech.com/ethernet-switch/278.html"
+ },
+ {
+  "id": "137",
+  "sortid": 76,
+  "classid": "76",
+  "category": "ethernet-switch",
+  "title": "HR-SWG10482S",
+  "title2": "48-Port 10/100/1000T + 2-Port 1G SFP Ethernet Switch ",
+  "product_sn": "HR-SWG10482S",
+  "url": "https://www.hruitech.com/ethernet-switch/137.html"
+ },
+ {
+  "id": "193",
+  "sortid": 76,
+  "classid": "76",
+  "category": "ethernet-switch",
+  "title": "HR-SWG10242S",
+  "title2": "24-Port 10/100/1000T + 2-Port 1G SFP Ethernet Switch ",
+  "product_sn": "HR-SWG10242S",
+  "url": "https://www.hruitech.com/ethernet-switch/193.html"
+ },
+ {
+  "id": "192",
+  "sortid": 76,
+  "classid": "76",
+  "category": "ethernet-switch",
+  "title": "HR-SWG10240",
+  "title2": "24-Port 10/100/1000T Ethemet Switch ",
+  "product_sn": "HR-SWG10240",
+  "url": "https://www.hruitech.com/ethernet-switch/192.html"
+ },
+ {
+  "id": "139",
+  "sortid": 76,
+  "classid": "76",
+  "category": "ethernet-switch",
+  "title": "HR-SWTG1224AS",
+  "title2": "24-Port 10/100/1000/2500T + 2-Port 10G SFP+ Ethernet Switch",
+  "product_sn": "HR-SWTG1224AS",
+  "url": "https://www.hruitech.com/ethernet-switch/139.html"
+ },
+ {
+  "id": "190",
+  "sortid": 76,
+  "classid": "76",
+  "category": "ethernet-switch",
+  "title": "HR-SWG10240D",
+  "title2": "24-Port 10/100/1000T Ethernet Switch ",
+  "product_sn": "HR-SWG10240D",
+  "url": "https://www.hruitech.com/ethernet-switch/190.html"
+ },
+ {
+  "id": "138",
+  "sortid": 76,
+  "classid": "76",
+  "category": "ethernet-switch",
+  "title": "HR-SWTG1216AS",
+  "title2": "16-Port 10/100/1000/2500T + 2-Port 10G SFP+ Ethernet Switch ",
+  "product_sn": "HR-SWTG1216AS",
+  "url": "https://www.hruitech.com/ethernet-switch/138.html"
+ },
+ {
+  "id": "290",
+  "sortid": 76,
+  "classid": "76",
+  "category": "ethernet-switch",
+  "title": "HR300S-16T2XS",
+  "title2": "16-Port 10/100/1000/2500T + 2-Port 10G SFP+ Ethernet Switch",
+  "product_sn": "HR300S-16T2XS",
+  "url": "https://www.hruitech.com/ethernet-switch/290.html"
+ },
+ {
+  "id": "189",
+  "sortid": 76,
+  "classid": "76",
+  "category": "ethernet-switch",
+  "title": "HR-SWG10160D",
+  "title2": "16-Port 10/100/1000T Ethernet Switch ",
+  "product_sn": "HR-SWG10160D",
+  "url": "https://www.hruitech.com/ethernet-switch/189.html"
+ },
+ {
+  "id": "275",
+  "sortid": 76,
+  "classid": "76",
+  "category": "ethernet-switch",
+  "title": "HR-SWG10160D-M",
+  "title2": "16-Port 10/100/1000T Ethernet Switch ",
+  "product_sn": "HR-SWG10160D-M",
+  "url": "https://www.hruitech.com/ethernet-switch/275.html"
+ },
+ {
+  "id": "135",
+  "sortid": 76,
+  "classid": "76",
+  "category": "ethernet-switch",
+  "title": "HR500S-8T",
+  "title2": "8-Port 10GBASE-T Ethernet Switch ",
+  "product_sn": "HR500S-8T",
+  "url": "https://www.hruitech.com/ethernet-switch/135.html"
+ },
+ {
+  "id": "136",
+  "sortid": 76,
+  "classid": "76",
+  "category": "ethernet-switch",
+  "title": "HR-SWTG1C8F",
+  "title2": "8-Port 10G SFP+ Ethernet Switch",
+  "product_sn": "HR-SWTG1C8F",
+  "url": "https://www.hruitech.com/ethernet-switch/136.html"
+ },
+ {
+  "id": "286",
+  "sortid": 76,
+  "classid": "76",
+  "category": "ethernet-switch",
+  "title": "HR300S-8T1XS",
+  "title2": "8-Port 10/100/1000/2500T + 1-Port 10G SFP+ Ethernet Switch ",
+  "product_sn": "HR300S-8T1XS",
+  "url": "https://www.hruitech.com/ethernet-switch/286.html"
+ },
+ {
+  "id": "285",
+  "sortid": 76,
+  "classid": "76",
+  "category": "ethernet-switch",
+  "title": "HR300S-5T1XS",
+  "title2": "5-Port 10/100/1000/2500T + 1-Port 10G SFP+ Ethernet Switch",
+  "product_sn": "HR300S-5T1XS",
+  "url": "https://www.hruitech.com/ethernet-switch/285.html"
+ },
+ {
+  "id": "284",
+  "sortid": 76,
+  "classid": "76",
+  "category": "ethernet-switch",
+  "title": "HR300S-4T2XS",
+  "title2": "4-Port 10/100/1000/2500T + 2-Port 10G SFP+ Ethernet Switch",
+  "product_sn": "HR300S-4T2XS",
+  "url": "https://www.hruitech.com/ethernet-switch/284.html"
+ },
+ {
+  "id": "141",
+  "sortid": 76,
+  "classid": "76",
+  "category": "ethernet-switch",
+  "title": "HR-SWG0080+",
+  "title2": "8-Port 10/100/1000T Ethernet Switch",
+  "product_sn": "HR-SWG0080+",
+  "url": "https://www.hruitech.com/ethernet-switch/141.html"
+ },
+ {
+  "id": "134",
+  "sortid": 76,
+  "classid": "76",
+  "category": "ethernet-switch",
+  "title": "HR-SWG0080",
+  "title2": "8-Port 10/100/1000T Ethernet Switch",
+  "product_sn": "HR-SWG0080",
+  "url": "https://www.hruitech.com/ethernet-switch/134.html"
+ },
+ {
+  "id": "142",
+  "sortid": 76,
+  "classid": "76",
+  "category": "ethernet-switch",
+  "title": "HR-SWG0050+",
+  "title2": "5-Port 10/100/1000T Ethernet Switch ",
+  "product_sn": "HR-SWG0050+",
+  "url": "https://www.hruitech.com/ethernet-switch/142.html"
+ },
+ {
+  "id": "133",
+  "sortid": 76,
+  "classid": "76",
+  "category": "ethernet-switch",
+  "title": "HR-SWG0050-M",
+  "title2": "5-Port 10/100/1000T Ethernet Switch ",
+  "product_sn": "HR-SWG0050-M",
+  "url": "https://www.hruitech.com/ethernet-switch/133.html"
+ },
+ {
+  "id": "336",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR210P-16T2MS-200",
+  "title2": "16-Port 10/100/1000T 802.3af/at PoE + 2-Port 1G/2.5G SFP Web Managed Ethernet Switch (185 Watts)",
+  "product_sn": "HR210P-16T2MS-200",
+  "url": "https://www.hruitech.com/managed-switch/336.html"
+ },
+ {
+  "id": "333",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR210P-16T2MS-300",
+  "title2": "16-Port 10/100/1000T 802.3af/at PoE + 2-Port 1G/2.5G SFP Web Managed Ethernet Switch (285 Watts)",
+  "product_sn": "HR210P-16T2MS-300",
+  "url": "https://www.hruitech.com/managed-switch/333.html"
+ },
+ {
+  "id": "335",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR210P-24T2MS-280",
+  "title2": "24-Port 10/100/1000T 802.3af/at PoE + 2-Port 1G/2.5G SFP Web Managed Ethernet Switch (260 Watts)",
+  "product_sn": "HR210P-24T2MS-280",
+  "url": "https://www.hruitech.com/managed-switch/335.html"
+ },
+ {
+  "id": "334",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR210P-24T2MS-300",
+  "title2": "24-Port 10/100/1000T 802.3af/at PoE + 2-Port 1G/2.5G SFP Web Managed Ethernet Switch (280 Watts)",
+  "product_sn": "HR210P-24T2MS-300",
+  "url": "https://www.hruitech.com/managed-switch/334.html"
+ },
+ {
+  "id": "332",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR210P-24T2MS-400",
+  "title2": "24-Port 10/100/1000T 802.3af/at PoE + 2-Port 1G/2.5G SFP Web Managed Ethernet Switch (380 Watts)",
+  "product_sn": "HR210P-24T2MS-400",
+  "url": "https://www.hruitech.com/managed-switch/332.html"
+ },
+ {
+  "id": "318",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR210P-4T2GH-55",
+  "title2": "4-Port 10/100/1000T 802.3af/at PoE + 1-Port 10/100/1000T +1-Port 1000X SFP Easy Cloud Managed Ethernet Switch (48 Watts)",
+  "product_sn": "HR210P-4T2GH-55",
+  "url": "https://www.hruitech.com/managed-switch/318.html"
+ },
+ {
+  "id": "317",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR210P-4T2GT-55",
+  "title2": "4-Port 10/100/1000T 802.3af/at PoE + 2-Port 10/100/1000T Easy Cloud Managed Ethernet Switch (48 Watts)",
+  "product_sn": "HR210P-4T2GT-55",
+  "url": "https://www.hruitech.com/managed-switch/317.html"
+ },
+ {
+  "id": "311",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR510P-4T2XS-150",
+  "title2": "4-Port 10GBASE-T 802.3af/at/bt PoE + 2-Port 10GBASE-X SFP Web Smart Ethernet Switch",
+  "product_sn": "",
+  "url": "https://www.hruitech.com/managed-switch/311.html"
+ },
+ {
+  "id": "309",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR530S-24S2CQ",
+  "title2": "Layer3 24-Port 10G SFP+ and 2-Port 100G QSFP28 Managed Switch",
+  "product_sn": "HR530S-24S2CQ",
+  "url": "https://www.hruitech.com/managed-switch/309.html"
+ },
+ {
+  "id": "230",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR-SWTG3C12F",
+  "title2": "Layer3 12-Port 10G SFP+ Managed Switch",
+  "product_sn": "HR-SWTG3C12F",
+  "url": "https://www.hruitech.com/managed-switch/230.html"
+ },
+ {
+  "id": "229",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR-SWTGW2C48NS",
+  "title2": "Layer3 4-Port 10GBASE-T and 8-Port 10G SFP+ Managed Switch",
+  "product_sn": "HR-SWTGW2C48NS",
+  "url": "https://www.hruitech.com/managed-switch/229.html"
+ },
+ {
+  "id": "228",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR-SWTGW2C12F",
+  "title2": "12-Port 10G SFP+ Web Managed Switch",
+  "product_sn": "HR-SWTGW2C12F",
+  "url": "https://www.hruitech.com/managed-switch/228.html"
+ },
+ {
+  "id": "263",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR510P-8T4XS-260",
+  "title2": "Layer3 8-Port 10GBASE-T 802.3bt PoE and 4-Port 10G SFP+ Managed Switch",
+  "product_sn": "HR510P-8T4XS-260",
+  "url": "https://www.hruitech.com/managed-switch/263.html"
+ },
+ {
+  "id": "261",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR510S-8T4XS",
+  "title2": "Layer3 8-Port 10GBASE-T and 4-Port 10G SFP+ Managed Switch",
+  "product_sn": "HR510S-8T4XS",
+  "url": "https://www.hruitech.com/managed-switch/261.html"
+ },
+ {
+  "id": "283",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR530S-8T",
+  "title2": "Layer3 8-Port 10GBASE-T Managed Switch",
+  "product_sn": "HR530S-8T",
+  "url": "https://www.hruitech.com/managed-switch/283.html"
+ },
+ {
+  "id": "215",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR-SWTGW2C8F",
+  "title2": "8-Port 10G SFP+ Web Managed Switch",
+  "product_sn": "HR-SWTGW2C8F",
+  "url": "https://www.hruitech.com/managed-switch/215.html"
+ },
+ {
+  "id": "217",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR902-SWTGW2C80N",
+  "title2": "8-Port 10GBASE-T Web Managed Switch",
+  "product_sn": "HR902-SWTGW2C80N",
+  "url": "https://www.hruitech.com/managed-switch/217.html"
+ },
+ {
+  "id": "260",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR510S-8T",
+  "title2": "8-Port 10GBASE-T Web Managed Switch",
+  "product_sn": "HR510S-8T",
+  "url": "https://www.hruitech.com/managed-switch/260.html"
+ },
+ {
+  "id": "202",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR510S-4T2XS",
+  "title2": "4-Port 10GBASE-T and 2-Port 10G SFP+ Web Managed Switch",
+  "product_sn": "HR510S-4T2XS ",
+  "url": "https://www.hruitech.com/managed-switch/202.html"
+ },
+ {
+  "id": "81",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR510S-5T ",
+  "title2": "5-Port 10GBASE-T Web Managed Switch",
+  "product_sn": "HR510S-5T",
+  "url": "https://www.hruitech.com/managed-switch/81.html"
+ },
+ {
+  "id": "246",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR-SWTG3624AS",
+  "title2": "Layer3 24-Port 10/100/1000/2500T + 6-Port 10G SFP+ Managed Switch",
+  "product_sn": "HR-SWTG3624AS",
+  "url": "https://www.hruitech.com/managed-switch/246.html"
+ },
+ {
+  "id": "245",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR-AXGM-SWTG3624AS",
+  "title2": "Layer3 24-Port 10/100/1000/2500T 802.3af/at/bt PoE + 6-Port 10G SFP+ Managed Switch",
+  "product_sn": "HR-AXGM-SWTG3624AS",
+  "url": "https://www.hruitech.com/managed-switch/245.html"
+ },
+ {
+  "id": "232",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR-AXGW-SWTG2224AS",
+  "title2": "Layer3 24-Port 10/100/1000/2500T 802.3af/at/bt PoE + 2-Port 10G SFP+ Managed Switch",
+  "product_sn": "HR-AXGW-SWTG2224AS",
+  "url": "https://www.hruitech.com/managed-switch/232.html"
+ },
+ {
+  "id": "219",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR902-SWTGW218AS",
+  "title2": "9 Port 10G uplink 2.5G Web Managed Ethernet switch",
+  "product_sn": "HR902-SWTGW218AS",
+  "url": "https://www.hruitech.com/managed-switch/219.html"
+ },
+ {
+  "id": "218",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR-AFGW-SWTGW018ANS-100",
+  "title2": "8-Port 10/100/1000/2500T 802.3af/at PoE + 1-Port 10G SFP+ Web Managed Switch",
+  "product_sn": "HR-AFGW-SWTGW018ANS-100",
+  "url": "https://www.hruitech.com/managed-switch/218.html"
+ },
+ {
+  "id": "288",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR310S-8T1XS",
+  "title2": "8-Port 10/100/1000/2500T + 1-Port 10G SFP+ Web Managed Switch",
+  "product_sn": "HR310S-8T1XS",
+  "url": "https://www.hruitech.com/managed-switch/288.html"
+ },
+ {
+  "id": "201",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR-SWTGW215AS",
+  "title2": "6 Port 10G uplink 2.5G Web Managed Ethernet switch",
+  "product_sn": "HR-SWTGW215AS",
+  "url": "https://www.hruitech.com/managed-switch/201.html"
+ },
+ {
+  "id": "200",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR-SWTGW224AS ",
+  "title2": "6 Port 10G uplink 2.5G Web Managed Ethernet switch",
+  "product_sn": "HR-SWTGW224AS ",
+  "url": "https://www.hruitech.com/managed-switch/200.html"
+ },
+ {
+  "id": "79",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR310S-4T2XT",
+  "title2": "4-Port 10/100/1000/2500T + 2-Port 10GBASE-T Web Managed Switch",
+  "product_sn": "HR310S-4T2XT",
+  "url": "https://www.hruitech.com/managed-switch/79.html"
+ },
+ {
+  "id": "287",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR310S-4T2XS",
+  "title2": "4-Port 10/100/1000/2500T + 2-Port 10G SFP+ Web Managed Switch",
+  "product_sn": "HR310S-4T2XS",
+  "url": "https://www.hruitech.com/managed-switch/287.html"
+ },
+ {
+  "id": "289",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR310S-4T2XH",
+  "title2": "4-Port 10/100/1000/2500T + 1-Port 10GBASE-T + 1-Port 10G SFP+ Web Managed Switch",
+  "product_sn": "HR310S-4T2XH",
+  "url": "https://www.hruitech.com/managed-switch/289.html"
+ },
+ {
+  "id": "282",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR230S-48T6XS",
+  "title2": "Layer3 48-Port 10/100/1000T 802.3af/at PoE + 6-Port 10G SFP+ Managed Switch",
+  "product_sn": "HR230S-48T6XS",
+  "url": "https://www.hruitech.com/managed-switch/282.html"
+ },
+ {
+  "id": "247",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR-SWTG342408F",
+  "title2": "Layer3 16-Port 1G SFP + 8-Port 1G Combo + 4-Port 10G SFP+ Managed Switch",
+  "product_sn": "HR-SWTG342408F",
+  "url": "https://www.hruitech.com/managed-switch/247.html"
+ },
+ {
+  "id": "244",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR-SWTG3424S",
+  "title2": "Layer3 24-Port 10/100/1000T + 4-Port 10G SFP+ Managed Switch",
+  "product_sn": "HR-SWTG3424S",
+  "url": "https://www.hruitech.com/managed-switch/244.html"
+ },
+ {
+  "id": "242",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR200-AFGM-SWTG3424S-400",
+  "title2": "Layer3 24-Port 10/100/1000T 802.3af/at PoE + 4-Port 10G SFP+ Managed Switch",
+  "product_sn": "HR200-AFGM-SWTG3424S-400",
+  "url": "https://www.hruitech.com/managed-switch/242.html"
+ },
+ {
+  "id": "241",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR-SWG20244S",
+  "title2": "24-Port 10/100/1000T + 4-Port 1G SFP Managed Switch",
+  "product_sn": "HR-SWG20244S",
+  "url": "https://www.hruitech.com/managed-switch/241.html"
+ },
+ {
+  "id": "240",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR-AFGM-2444S-400",
+  "title2": "24-Port 10/100/1000T 802.3af/at PoE + 4-Port 1G SFP Managed Switch",
+  "product_sn": "HR-AFGM-2444S-400",
+  "url": "https://www.hruitech.com/managed-switch/240.html"
+ },
+ {
+  "id": "235",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR200-AFGM-2444S-400",
+  "title2": "24-Port 10/100/1000T 802.3af/at PoE + 4-Port 1G SFP Managed Switch",
+  "product_sn": "HR200-AFGM-2444S-400",
+  "url": "https://www.hruitech.com/managed-switch/235.html"
+ },
+ {
+  "id": "234",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR-SWGW20242S",
+  "title2": "24-Port 10/100/1000T + 2-Port 1G SFP Managed Switch",
+  "product_sn": "HR-SWGW20242S",
+  "url": "https://www.hruitech.com/managed-switch/234.html"
+ },
+ {
+  "id": "233",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR-AFGW-242S-400",
+  "title2": "24-Port 10/100/1000T 802.3af/at PoE + 2-Port 1G SFP Managed Switch",
+  "product_sn": "HR-AFGW-242S-400",
+  "url": "https://www.hruitech.com/managed-switch/233.html"
+ },
+ {
+  "id": "231",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR-AFGM-1622S-300",
+  "title2": "16-Port 10/100/1000T 802.3af/at PoE + 2-Port 10/100/1000T + 2-Port 1G SFP Managed Switch",
+  "product_sn": "HR-AFGM-1622S-300",
+  "url": "https://www.hruitech.com/managed-switch/231.html"
+ },
+ {
+  "id": "227",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR-SWG2082NS",
+  "title2": "8-Port 10/100/1000T + 2-Port 1G SFP Managed Switch",
+  "product_sn": "HR-SWG2082NS",
+  "url": "https://www.hruitech.com/managed-switch/227.html"
+ },
+ {
+  "id": "226",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR-AFGM-82NS",
+  "title2": "8-Port 10/100/1000T 802.3af/at PoE + 2-Port 1G SFP Managed Switch",
+  "product_sn": "HR-AFGM-82NS",
+  "url": "https://www.hruitech.com/managed-switch/226.html"
+ },
+ {
+  "id": "225",
+  "sortid": 182,
+  "classid": "182",
+  "category": "managed-switch",
+  "title": "HR200-AFGM-82NS-150",
+  "title2": "8-Port 10/100/1000T 802.3af/at PoE + 2-Port 1G SFP Managed Switch",
+  "product_sn": "HR200-AFGM-82NS-150",
+  "url": "https://www.hruitech.com/managed-switch/225.html"
+ },
+ {
+  "id": "344",
+  "sortid": 184,
+  "classid": "184",
+  "category": "industrial-poe-switch",
+  "title": "HR500-AF-811GS",
+  "title2": "Industrial 8-Port 10/100T 802.3af/at PoE + 1-Port 10/100/1000T + 1-Port 1000X SFP Ethernet Switch",
+  "product_sn": "HR500-AF-811GS",
+  "url": "https://www.hruitech.com/industrial-poe-switch/344.html"
+ },
+ {
+  "id": "331",
+  "sortid": 184,
+  "classid": "184",
+  "category": "industrial-poe-switch",
+  "title": "HR720P-8T",
+  "title2": "Industrial 8-Port 10/100/1000T 802.3af/at PoE Ethernet Switch",
+  "product_sn": "HR720P-8T",
+  "url": "https://www.hruitech.com/industrial-poe-switch/331.html"
+ },
+ {
+  "id": "316",
+  "sortid": 184,
+  "classid": "184",
+  "category": "industrial-poe-switch",
+  "title": "HR710P-8T",
+  "title2": "Industrial 8-Port 10/100T 802.3af/at PoE Ethernet Switch",
+  "product_sn": "HR710P-8T",
+  "url": "https://www.hruitech.com/industrial-poe-switch/316.html"
+ },
+ {
+  "id": "308",
+  "sortid": 184,
+  "classid": "184",
+  "category": "industrial-poe-switch",
+  "title": "HR720P-8T2GS",
+  "title2": "Industrial  8-Port 10/100/1000T 802.3af/at PoE + 2-Port 1000X SFP Ethernet Switch",
+  "product_sn": "HR720P-8T2GS",
+  "url": "https://www.hruitech.com/industrial-poe-switch/308.html"
+ },
+ {
+  "id": "302",
+  "sortid": 184,
+  "classid": "184",
+  "category": "industrial-poe-switch",
+  "title": "HR722P-16T2GS",
+  "title2": "Industrial L2+ 16-Port 10/100/1000T 802.3af/at PoE + 2-Port 1000X SFP Managed Ethernet Switch",
+  "product_sn": "HR722P-16T2GS",
+  "url": "https://www.hruitech.com/industrial-poe-switch/302.html"
+ },
+ {
+  "id": "132",
+  "sortid": 184,
+  "classid": "184",
+  "category": "industrial-poe-switch",
+  "title": "HR600-AXGM-SWG2086AS-BP",
+  "title2": "Industrial L2+ 8-Port 10/100/1000T 802.3af/at/bt PoE + 4-Port 1000X SFP + 2-Port 2.5G SFP Bypass Managed Ethernet Switch",
+  "product_sn": "HR600-AXGM-SWG2086AS-BP",
+  "url": "https://www.hruitech.com/industrial-poe-switch/132.html"
+ },
+ {
+  "id": "131",
+  "sortid": 184,
+  "classid": "184",
+  "category": "industrial-poe-switch",
+  "title": "HR600-AXGM-SWG2086S-BP",
+  "title2": "Industrial L2+ 8-Port 10/100/1000T 802.3af/at/bt PoE + 6-Port 1000X SFP Bypass Managed Ethernet Switch",
+  "product_sn": "HR600-AXGM-SWG2086S-BP",
+  "url": "https://www.hruitech.com/industrial-poe-switch/131.html"
+ },
+ {
+  "id": "130",
+  "sortid": 184,
+  "classid": "184",
+  "category": "industrial-poe-switch",
+  "title": "HR600-AXGM-SWG20104AS-BP",
+  "title2": "Industrial L2+ 10-Port 10/100/1000T 802.3af/at/bt PoE + 2-Port 1000X SFP + 2-Port 2.5G SFP Bypass Managed Ethernet Switch",
+  "product_sn": "HR600-AXGM-SWG20104AS-BP",
+  "url": "https://www.hruitech.com/industrial-poe-switch/130.html"
+ },
+ {
+  "id": "129",
+  "sortid": 184,
+  "classid": "184",
+  "category": "industrial-poe-switch",
+  "title": "HR600-AXGM-SWG20104S-BP ",
+  "title2": "Industrial L2+ 10-Port 10/100/1000T 802.3af/at/bt PoE + 4-Port 1000X SFP Bypass Managed Ethernet Switch",
+  "product_sn": "HR600-AXGM-SWG20104S-BP",
+  "url": "https://www.hruitech.com/industrial-poe-switch/129.html"
+ },
+ {
+  "id": "128",
+  "sortid": 184,
+  "classid": "184",
+  "category": "industrial-poe-switch",
+  "title": "HR600-AXGM-82AS-BP",
+  "title2": "Industrial L2+ 8-Port 10/100/1000T 802.3af/at/bt PoE + 2-Port 2.5G SFP Bypass Managed Ethernet Switch",
+  "product_sn": "HR600-AXGM-82AS-BP",
+  "url": "https://www.hruitech.com/industrial-poe-switch/128.html"
+ },
+ {
+  "id": "127",
+  "sortid": 184,
+  "classid": "184",
+  "category": "industrial-poe-switch",
+  "title": "HR600-AXGM-82S-BP",
+  "title2": "Industrial L2+ 8-Port 10/100/1000T 802.3af/at/bt PoE + 2-Port 1000X SFP Bypass Managed Ethernet Switch",
+  "product_sn": "HR600-AXGM-82S-BP",
+  "url": "https://www.hruitech.com/industrial-poe-switch/127.html"
+ },
+ {
+  "id": "126",
+  "sortid": 184,
+  "classid": "184",
+  "category": "industrial-poe-switch",
+  "title": "HR600-AFGM-82S-BP",
+  "title2": "Industrial L2+ 8-Port 10/100/1000T 802.3af/at PoE + 2-Port 1000X SFP Bypass Managed Ethernet Switch",
+  "product_sn": "HR600-AFGM-82S-BP",
+  "url": "https://www.hruitech.com/industrial-poe-switch/126.html"
+ },
+ {
+  "id": "125",
+  "sortid": 184,
+  "classid": "184",
+  "category": "industrial-poe-switch",
+  "title": "HR600-AFGM-82AS-BP",
+  "title2": "Industrial L2+ 8-Port 10/100/1000T 802.3af/at PoE + 2-Port 2.5G SFP Bypass Managed Ethernet Switch",
+  "product_sn": "HR600-AFGM-82AS-BP",
+  "url": "https://www.hruitech.com/industrial-poe-switch/125.html"
+ },
+ {
+  "id": "124",
+  "sortid": 184,
+  "classid": "184",
+  "category": "industrial-poe-switch",
+  "title": "HR600-AFGM-SWG2086S-BP",
+  "title2": "Industrial L2+ 8-Port 10/100/1000T 802.3af/at PoE + 6-Port 1000X SFP Bypass Managed Ethernet Switch",
+  "product_sn": "HR600-AFGM-SWG2086S-BP",
+  "url": "https://www.hruitech.com/industrial-poe-switch/124.html"
+ },
+ {
+  "id": "123",
+  "sortid": 184,
+  "classid": "184",
+  "category": "industrial-poe-switch",
+  "title": "HR600-AFGM-SWG2086AS-BP",
+  "title2": "Industrial L2+ 8-Port 10/100/1000T 802.3af/at PoE + 4-Port 1000X SFP + 2-Port 2.5G SFP Bypass Managed Ethernet Switch",
+  "product_sn": "HR600-AFGM-SWG2086AS-BP",
+  "url": "https://www.hruitech.com/industrial-poe-switch/123.html"
+ },
+ {
+  "id": "122",
+  "sortid": 184,
+  "classid": "184",
+  "category": "industrial-poe-switch",
+  "title": "HR600-AFGM-SWG20824AS-BP ",
+  "title2": "Industrial L2+ 8-Port 10/100/1000T 802.3af/at PoE + 2-Port 10/100/1000T + 2-Port 1000X SFP + 2-Port 2.5G SFP Bypass Managed Ethernet Switch",
+  "product_sn": "HR600-AFGM-SWG20824AS-BP",
+  "url": "https://www.hruitech.com/industrial-poe-switch/122.html"
+ },
+ {
+  "id": "121",
+  "sortid": 184,
+  "classid": "184",
+  "category": "industrial-poe-switch",
+  "title": "HR600-AFGM-SWG20824S-BP",
+  "title2": "Industrial L2+ 8-Port 10/100/1000T 802.3af/at PoE + 2-Port 10/100/1000T + 4-Port 1000X SFP Bypass Managed Ethernet Switch",
+  "product_sn": "HR600-AFGM-SWG20824S-BP",
+  "url": "https://www.hruitech.com/industrial-poe-switch/121.html"
+ },
+ {
+  "id": "120",
+  "sortid": 184,
+  "classid": "184",
+  "category": "industrial-poe-switch",
+  "title": "HR500-AFG-411S ",
+  "title2": "Industrial 4-Port 10/100/1000T 802.3af/at PoE + 1-Port 10/100/1000T + 1-Port 1000X SFP Ethernet Switch",
+  "product_sn": "HR500-AFG-411S",
+  "url": "https://www.hruitech.com/industrial-poe-switch/120.html"
+ },
+ {
+  "id": "117",
+  "sortid": 184,
+  "classid": "184",
+  "category": "industrial-poe-switch",
+  "title": "HR500-AF-41 ",
+  "title2": "Industrial 4-Port 10/100T 802.3af/at PoE + 1-Port 10/100T Ethernet Switch",
+  "product_sn": "HR500-AF-41",
+  "url": "https://www.hruitech.com/industrial-poe-switch/117.html"
+ },
+ {
+  "id": "115",
+  "sortid": 184,
+  "classid": "184",
+  "category": "industrial-poe-switch",
+  "title": "HR600-AFGM-42AS",
+  "title2": "Industrial L2+ 4-Port 10/100/1000T 802.3af/at PoE + 2-Port 2.5G SFP Managed Ethernet Switch",
+  "product_sn": "HR600-AFGM-42AS",
+  "url": "https://www.hruitech.com/industrial-poe-switch/115.html"
+ },
+ {
+  "id": "113",
+  "sortid": 184,
+  "classid": "184",
+  "category": "industrial-poe-switch",
+  "title": "HR600-AFGM-82AS ",
+  "title2": " Industrial L2+ 8-Port 10/100/1000T 802.3af/at PoE + 2-Port 2.5G SFP Managed Ethernet Switch",
+  "product_sn": "HR600-AFGM-82AS",
+  "url": "https://www.hruitech.com/industrial-poe-switch/113.html"
+ },
+ {
+  "id": "109",
+  "sortid": 184,
+  "classid": "184",
+  "category": "industrial-poe-switch",
+  "title": "HR600-AFGM-SWG20824AS",
+  "title2": "Industrial L2+ 8-Port 10/100/1000T 802.3af/at PoE+ 2-Port 10/100/1000T+2-Port 1000X SFP +2-Port 2.5G SFP Managed Ethernet Switch",
+  "product_sn": "HR600-AFGM-SWG20824AS",
+  "url": "https://www.hruitech.com/industrial-poe-switch/109.html"
+ },
+ {
+  "id": "104",
+  "sortid": 184,
+  "classid": "184",
+  "category": "industrial-poe-switch",
+  "title": "HR600-BTGM-42AS",
+  "title2": "Industrial L2+ 4-Port 10/100/1000T 802.3af/at/bt PoE + 2-Port 2.5G SFP Managed Ethernet Switch",
+  "product_sn": "HR600-BTGM-42AS",
+  "url": "https://www.hruitech.com/industrial-poe-switch/104.html"
+ },
+ {
+  "id": "102",
+  "sortid": 184,
+  "classid": "184",
+  "category": "industrial-poe-switch",
+  "title": "HR600-AXGM-82AS",
+  "title2": "Industrial L2+ 8-Port 10/100/1000T 802.3af/at/bt PoE + 2-Port 2.5G SFP Managed Ethernet Switch",
+  "product_sn": "HR600-AXGM-82AS",
+  "url": "https://www.hruitech.com/industrial-poe-switch/102.html"
+ },
+ {
+  "id": "100",
+  "sortid": 184,
+  "classid": "184",
+  "category": "industrial-poe-switch",
+  "title": "HR600-AXGM-SWG20104AS ",
+  "title2": "Industrial L2+ 10-Port 10/100/1000T 802.3af/at/bt PoE + 2-Port 1000X SFP + 2-Port 2.5G SFP Managed Ethernet Switch",
+  "product_sn": "HR600-AXGM-SWG20104AS",
+  "url": "https://www.hruitech.com/industrial-poe-switch/100.html"
+ },
+ {
+  "id": "89",
+  "sortid": 184,
+  "classid": "184",
+  "category": "industrial-poe-switch",
+  "title": "HR500-AFG-82S",
+  "title2": "Industrial 8-Port 10/100/1000T 802.3af/at PoE + 2-Port 1000X SFP Ethernet Switch",
+  "product_sn": "HR500-AFG-82S",
+  "url": "https://www.hruitech.com/industrial-poe-switch/89.html"
+ },
+ {
+  "id": "269",
+  "sortid": 184,
+  "classid": "184",
+  "category": "industrial-poe-switch",
+  "title": "HR722P-8T4GS-X",
+  "title2": " Industrial L2+ 8-Port 10/100/1000T 802.3af/at/bt PoE + 4-Port 1000X SFP Managed Ethernet Switch",
+  "product_sn": "HR722P-8T4GS-X",
+  "url": "https://www.hruitech.com/industrial-poe-switch/269.html"
+ },
+ {
+  "id": "268",
+  "sortid": 184,
+  "classid": "184",
+  "category": "industrial-poe-switch",
+  "title": "HR722P-8T4GS-A ",
+  "title2": " Industrial L2+ 8-Port 10/100/1000T 802.3af/at PoE + 4-Port 1000X SFP Managed Ethernet Switch",
+  "product_sn": "HR722P-8T4GS-A",
+  "url": "https://www.hruitech.com/industrial-poe-switch/268.html"
+ },
+ {
+  "id": "267",
+  "sortid": 184,
+  "classid": "184",
+  "category": "industrial-poe-switch",
+  "title": "HR722P-8T2GS-X",
+  "title2": "Industrial L2+ 8-Port 10/100/1000T 802.3af/at/bt PoE + 2-Port 1000X SFP Managed Ethernet Switch",
+  "product_sn": "HR722P-8T2GS-X",
+  "url": "https://www.hruitech.com/industrial-poe-switch/267.html"
+ },
+ {
+  "id": "266",
+  "sortid": 184,
+  "classid": "184",
+  "category": "industrial-poe-switch",
+  "title": "HR722P-8T2GS-A ",
+  "title2": "Industrial L2+ 8-Port 10/100/1000T 802.3af/at PoE + 2-Port 1000X SFP Managed Ethernet Switch",
+  "product_sn": "HR722P-8T2GS-A",
+  "url": "https://www.hruitech.com/industrial-poe-switch/266.html"
+ },
+ {
+  "id": "265",
+  "sortid": 184,
+  "classid": "184",
+  "category": "industrial-poe-switch",
+  "title": "HR722P-4T2GS-A",
+  "title2": "Industrial L2+ 4-Port 10/100/1000T 802.3af/at PoE + 2-Port 1000X SFP Managed Ethernet Switch",
+  "product_sn": "HR722P-4T2GS-A",
+  "url": "https://www.hruitech.com/industrial-poe-switch/265.html"
+ },
+ {
+  "id": "320",
+  "sortid": 186,
+  "classid": "186",
+  "category": "industrial-ethernet-switch",
+  "title": "HR722S-24T4GS",
+  "title2": "Industrial L2+ 24-Port 10/100/1000T + 4-Port 1000X SFP Managed Ethemet Switch",
+  "product_sn": "HR722S-24T4GS",
+  "url": "https://www.hruitech.com/industrial-ethernet-switch/320.html"
+ },
+ {
+  "id": "319",
+  "sortid": 186,
+  "classid": "186",
+  "category": "industrial-ethernet-switch",
+  "title": "HR722S-16T8GS",
+  "title2": "Industrial L2+ 16-Port 10/100/1000T + 8-Port 1000X SFP Managed Ethemet Switch",
+  "product_sn": "HR722S-16T8GS",
+  "url": "https://www.hruitech.com/industrial-ethernet-switch/319.html"
+ },
+ {
+  "id": "313",
+  "sortid": 186,
+  "classid": "186",
+  "category": "industrial-ethernet-switch",
+  "title": "HR722S-16T2GS",
+  "title2": "Industrial L2+ 16-Port 10/100/1000T + 2-Port 1000X SFP Managed Ethemet Switch",
+  "product_sn": "HR722S-16T2GS",
+  "url": "https://www.hruitech.com/industrial-ethernet-switch/313.html"
+ },
+ {
+  "id": "264",
+  "sortid": 186,
+  "classid": "186",
+  "category": "industrial-ethernet-switch",
+  "title": "HR500-SWG1042S",
+  "title2": "Industrial 4-Port 10/100/1000T + 2-Port 1000X SFP Ethernet Switch",
+  "product_sn": "HR500-SWG1042S",
+  "url": "https://www.hruitech.com/industrial-ethernet-switch/264.html"
+ },
+ {
+  "id": "187",
+  "sortid": 186,
+  "classid": "186",
+  "category": "industrial-ethernet-switch",
+  "title": "HR500-SWG10411S",
+  "title2": "Industrial 4-Port 10/100/1000T + 1-Port 10/100/1000T + 1-Port 1000X SFP Ethernet Switch",
+  "product_sn": "HR500-SWG10411S",
+  "url": "https://www.hruitech.com/industrial-ethernet-switch/187.html"
+ },
+ {
+  "id": "186",
+  "sortid": 186,
+  "classid": "186",
+  "category": "industrial-ethernet-switch",
+  "title": "HR500-SW1050",
+  "title2": "Industrial 5-Port 10/100T Ethernet Switch",
+  "product_sn": "HR500-SW1060",
+  "url": "https://www.hruitech.com/industrial-ethernet-switch/186.html"
+ },
+ {
+  "id": "183",
+  "sortid": 186,
+  "classid": "186",
+  "category": "industrial-ethernet-switch",
+  "title": "HR600-SWG2042AS",
+  "title2": "Industrial L2+ 4-Port 10/100/1000T + 2-Port 1G/2.5G SFP  Managed Ethernet Switch",
+  "product_sn": "HR600-SWG2042AS",
+  "url": "https://www.hruitech.com/industrial-ethernet-switch/183.html"
+ },
+ {
+  "id": "181",
+  "sortid": 186,
+  "classid": "186",
+  "category": "industrial-ethernet-switch",
+  "title": "HR600-SWG2082AS",
+  "title2": "Industrial L2+ 8-Port 10/100/1000T + 2-Port 1G/2.5G SFP Managed Ethernet Switch",
+  "product_sn": "HR600-SWG2082AS",
+  "url": "https://www.hruitech.com/industrial-ethernet-switch/181.html"
+ },
+ {
+  "id": "176",
+  "sortid": 186,
+  "classid": "186",
+  "category": "industrial-ethernet-switch",
+  "title": "HR600-SWG20824AS",
+  "title2": "Industrial L2+ 8-Port 10/100/1000T + 2-Port 10/100/1000T + 2-Port 1G/2.5G SFP Managed Ethernet Switch",
+  "product_sn": "HR600-SWG20824AS",
+  "url": "https://www.hruitech.com/industrial-ethernet-switch/176.html"
+ },
+ {
+  "id": "174",
+  "sortid": 186,
+  "classid": "186",
+  "category": "industrial-ethernet-switch",
+  "title": "HR600-SWG2082AS-BP ",
+  "title2": "Industrial L2+ 8-Port 10/100/1000T + 2-Port 1G/2.5G SFP Bypass Managed Ethernet Switch",
+  "product_sn": "HR600-SWG2082AS-BP",
+  "url": "https://www.hruitech.com/industrial-ethernet-switch/174.html"
+ },
+ {
+  "id": "172",
+  "sortid": 186,
+  "classid": "186",
+  "category": "industrial-ethernet-switch",
+  "title": "HR600-SWG2086AS-BP",
+  "title2": "Industrial L2+ 8-Port 10/100/1000T + 6-Port 1G/2.5G SFP Bypass Managed Ethernet Switch",
+  "product_sn": "HR600-SWG2086AS-BP",
+  "url": "https://www.hruitech.com/industrial-ethernet-switch/172.html"
+ },
+ {
+  "id": "170",
+  "sortid": 186,
+  "classid": "186",
+  "category": "industrial-ethernet-switch",
+  "title": "HR600-SWG20824AS-BP",
+  "title2": "Industrial L2+ 8-Port 10/100/1000T + 2-Port 10/100/1000T + 4-Port 1G/2.5G SFP Bypass Managed Ethernet Switch",
+  "product_sn": "HR600-SWG20824AS-BP",
+  "url": "https://www.hruitech.com/industrial-ethernet-switch/170.html"
+ },
+ {
+  "id": "272",
+  "sortid": 186,
+  "classid": "186",
+  "category": "industrial-ethernet-switch",
+  "title": "HR722S-8T4GS",
+  "title2": "Industrial L2+ 8-Port 10/100/1000T + 4-Port 1000X SFP Managed Ethemet Switch",
+  "product_sn": "HR722S-8T4GS",
+  "url": "https://www.hruitech.com/industrial-ethernet-switch/272.html"
+ },
+ {
+  "id": "271",
+  "sortid": 186,
+  "classid": "186",
+  "category": "industrial-ethernet-switch",
+  "title": "HR722S-8T2GS",
+  "title2": "Industrial L2+ 8-Port 10/100/1000T + 2-Port 1000X SFP Managed Ethemet Switch",
+  "product_sn": "HR722S-8T2GS",
+  "url": "https://www.hruitech.com/industrial-ethernet-switch/271.html"
+ },
+ {
+  "id": "270",
+  "sortid": 186,
+  "classid": "186",
+  "category": "industrial-ethernet-switch",
+  "title": "HR722S-4T2GS",
+  "title2": "Industrial L2+ 4-Port 10/100/1000T + 2-Port 1000X SFP Managed Ethemet Switch",
+  "product_sn": "HR722S-4T2GS",
+  "url": "https://www.hruitech.com/industrial-ethernet-switch/270.html"
+ },
+ {
+  "id": "155",
+  "sortid": 188,
+  "classid": "188",
+  "category": "optical-fiber-converter",
+  "title": "HR100W-FE-2 - 10/100M Multi-mode Dual Fiber Media Converter",
+  "title2": "",
+  "product_sn": "HR100W-FE-2",
+  "url": "https://www.hruitech.com/optical-fiber-converter/155.html"
+ },
+ {
+  "id": "154",
+  "sortid": 188,
+  "classid": "188",
+  "category": "optical-fiber-converter",
+  "title": "HR100W-FE-25-TR - 10/100M Single-mode Single Fiber Media Converter",
+  "title2": "",
+  "product_sn": "HR100W-FE-25-TR",
+  "url": "https://www.hruitech.com/optical-fiber-converter/154.html"
+ },
+ {
+  "id": "153",
+  "sortid": 188,
+  "classid": "188",
+  "category": "optical-fiber-converter",
+  "title": "HR100W-FE-25 - 10/100M Single-mode Dual Fiber Media Converter",
+  "title2": "",
+  "product_sn": "HR100W-FE-25",
+  "url": "https://www.hruitech.com/optical-fiber-converter/153.html"
+ },
+ {
+  "id": "152",
+  "sortid": 188,
+  "classid": "188",
+  "category": "optical-fiber-converter",
+  "title": "HR100W-GE-3-TR - Gigabit Single-mode Single Fiber Media Converter",
+  "title2": "",
+  "product_sn": "HR100W-GE-3-TR",
+  "url": "https://www.hruitech.com/optical-fiber-converter/152.html"
+ },
+ {
+  "id": "151",
+  "sortid": 188,
+  "classid": "188",
+  "category": "optical-fiber-converter",
+  "title": "HR100W-GE-25 - Gigabit Single-mode Dual Fiber Media Converter",
+  "title2": "",
+  "product_sn": "HR100W-GE-25",
+  "url": "https://www.hruitech.com/optical-fiber-converter/151.html"
+ },
+ {
+  "id": "150",
+  "sortid": 188,
+  "classid": "188",
+  "category": "optical-fiber-converter",
+  "title": "HR100W-GE-25-TR - Gigabit Single-mode Single Fiber Media Converter",
+  "title2": "",
+  "product_sn": "HR100W-GE-25-TR",
+  "url": "https://www.hruitech.com/optical-fiber-converter/150.html"
+ },
+ {
+  "id": "330",
+  "sortid": 190,
+  "classid": "190",
+  "category": "poe-accessory",
+  "title": "HR-AFR-31+",
+  "title2": "100Mpbs Ethernet PoE Extender",
+  "product_sn": "HR-AFR-31+",
+  "url": "https://www.hruitech.com/poe-accessory/330.html"
+ },
+ {
+  "id": "329",
+  "sortid": 190,
+  "classid": "190",
+  "category": "poe-accessory",
+  "title": "HR-AFR-41+",
+  "title2": "100Mbps Ethernet PoE Extender",
+  "product_sn": "HR-AFR-41+",
+  "url": "https://www.hruitech.com/poe-accessory/329.html"
+ },
+ {
+  "id": "328",
+  "sortid": 190,
+  "classid": "190",
+  "category": "poe-accessory",
+  "title": "HR-AFGR-31+",
+  "title2": "1000Mpbs Ethernet PoE Extender",
+  "product_sn": "HR-AFGR-31+",
+  "url": "https://www.hruitech.com/poe-accessory/328.html"
+ },
+ {
+  "id": "327",
+  "sortid": 190,
+  "classid": "190",
+  "category": "poe-accessory",
+  "title": "HR-AFGR-41+",
+  "title2": "1000Mpbs Ethernet PoE Extender",
+  "product_sn": "HR-AFGR-41+",
+  "url": "https://www.hruitech.com/poe-accessory/327.html"
+ },
+ {
+  "id": "326",
+  "sortid": 190,
+  "classid": "190",
+  "category": "poe-accessory",
+  "title": "HR-AFRW-31+",
+  "title2": "Weatherproof 100Mbps Ethernet PoE Extender",
+  "product_sn": "HR-AFRW-31+",
+  "url": "https://www.hruitech.com/poe-accessory/326.html"
+ },
+ {
+  "id": "325",
+  "sortid": 190,
+  "classid": "190",
+  "category": "poe-accessory",
+  "title": "HR-AFRW-41+",
+  "title2": "Weatherproof 100Mbps Ethernet PoE Extender",
+  "product_sn": "HR-AFRW-41+",
+  "url": "https://www.hruitech.com/poe-accessory/325.html"
+ },
+ {
+  "id": "324",
+  "sortid": 190,
+  "classid": "190",
+  "category": "poe-accessory",
+  "title": "HR-AFGRW-31+ ",
+  "title2": "Weatherproof 1000Mbps Ethernet PoE Extender",
+  "product_sn": "HR-AFGRW-31+ ",
+  "url": "https://www.hruitech.com/poe-accessory/324.html"
+ },
+ {
+  "id": "312",
+  "sortid": 190,
+  "classid": "190",
+  "category": "poe-accessory",
+  "title": "HR-AFGRW-41+ ",
+  "title2": "Weatherproof 1000Mbps Ethernet PoE Extender",
+  "product_sn": "HR-AFGRW-41+",
+  "url": "https://www.hruitech.com/poe-accessory/312.html"
+ },
+ {
+  "id": "297",
+  "sortid": 190,
+  "classid": "190",
+  "category": "poe-accessory",
+  "title": "HR-AFGRW-21",
+  "title2": "Gigabit Outdoor IP67 PoE Extender",
+  "product_sn": "HR-AFGRW-21",
+  "url": "https://www.hruitech.com/poe-accessory/297.html"
+ },
+ {
+  "id": "295",
+  "sortid": 190,
+  "classid": "190",
+  "category": "poe-accessory",
+  "title": "HR-BTGRW-21",
+  "title2": "Gigabit Outdoor IP67 PoE Extender",
+  "product_sn": "HR-BTGRW-21 ",
+  "url": "https://www.hruitech.com/poe-accessory/295.html"
+ },
+ {
+  "id": "321",
+  "sortid": 190,
+  "classid": "190",
+  "category": "poe-accessory",
+  "title": "HR200-BTG5-N901 ",
+  "title2": "90W 5G IEEE 802.3af/at/bt PoE Injector",
+  "product_sn": "HR200-BTG5-N901 ",
+  "url": "https://www.hruitech.com/poe-accessory/321.html"
+ },
+ {
+  "id": "168",
+  "sortid": 190,
+  "classid": "190",
+  "category": "poe-accessory",
+  "title": "HR-BTG-PD12F",
+  "title2": "Gigabit BT PoE Splitter",
+  "product_sn": "HR-BTG-PD12F",
+  "url": "https://www.hruitech.com/poe-accessory/168.html"
+ },
+ {
+  "id": "163",
+  "sortid": 190,
+  "classid": "190",
+  "category": "poe-accessory",
+  "title": "HR900-AFG-N301",
+  "title2": "Gigabit 30W IEEE 802.3af/at PoE Injector",
+  "product_sn": "HR900-AFG-N301",
+  "url": "https://www.hruitech.com/poe-accessory/163.html"
+ },
+ {
+  "id": "162",
+  "sortid": 190,
+  "classid": "190",
+  "category": "poe-accessory",
+  "title": "HR-BTG-N601 ",
+  "title2": "Gigabit BT60W PoE Injector",
+  "product_sn": "HR-BTG-N601",
+  "url": "https://www.hruitech.com/poe-accessory/162.html"
+ },
+ {
+  "id": "161",
+  "sortid": 190,
+  "classid": "190",
+  "category": "poe-accessory",
+  "title": "HR-BTG-N901",
+  "title2": " Gigabit BT90W PoE Injector",
+  "product_sn": "HR-BTG-N901",
+  "url": "https://www.hruitech.com/poe-accessory/161.html"
+ },
+ {
+  "id": "160",
+  "sortid": 190,
+  "classid": "190",
+  "category": "poe-accessory",
+  "title": "HR200-BTTG-N901",
+  "title2": "90W 10G PoE Injector",
+  "product_sn": "HR200-BTTG-N901",
+  "url": "https://www.hruitech.com/poe-accessory/160.html"
+ },
+ {
+  "id": "159",
+  "sortid": 190,
+  "classid": "190",
+  "category": "poe-accessory",
+  "title": "HR200-BTTG-N601",
+  "title2": "60W 10G PoE Injector",
+  "product_sn": "HR200-BTTG-N601",
+  "url": "https://www.hruitech.com/poe-accessory/159.html"
+ },
+ {
+  "id": "158",
+  "sortid": 190,
+  "classid": "190",
+  "category": "poe-accessory",
+  "title": "HR-AFR-21+",
+  "title2": "100Mbps Ethernet PoE Extender",
+  "product_sn": "HR-AFR-21+",
+  "url": "https://www.hruitech.com/poe-accessory/158.html"
+ },
+ {
+  "id": "157",
+  "sortid": 190,
+  "classid": "190",
+  "category": "poe-accessory",
+  "title": "HR-AFGR-21+",
+  "title2": " 1000Mbps Ethernet PoE Extender",
+  "product_sn": "HR-AFGR-21+",
+  "url": "https://www.hruitech.com/poe-accessory/157.html"
+ },
+ {
+  "id": "156",
+  "sortid": 190,
+  "classid": "190",
+  "category": "poe-accessory",
+  "title": "HR-PE08-SV+ & HR-PE08-IPC+",
+  "title2": "100Mbps Ethernet PoE Extender",
+  "product_sn": "HR-PE08-SV+ & HR-PE08-IPC+",
+  "url": "https://www.hruitech.com/poe-accessory/156.html"
+ },
+ {
+  "id": "322",
+  "sortid": 192,
+  "classid": "192",
+  "category": "wireless-bridge",
+  "title": "HR-CPE30B-05P",
+  "title2": "2.4G Outdoor 300M Wireless Bridge",
+  "product_sn": "HR-CPE30B-05P",
+  "url": "https://www.hruitech.com/wireless-bridge/322.html"
+ },
+ {
+  "id": "301",
+  "sortid": 192,
+  "classid": "192",
+  "category": "wireless-bridge",
+  "title": "HR-CPE300",
+  "title2": "4G Full Netcom 300M WiFi Wireless Router",
+  "product_sn": "HR-CPE300",
+  "url": "https://www.hruitech.com/wireless-bridge/301.html"
+ },
+ {
+  "id": "300",
+  "sortid": 192,
+  "classid": "192",
+  "category": "wireless-bridge",
+  "title": "HR-CPE300 outdoor",
+  "title2": "4G Full Netcom 300M WiFi Outdoor Wireless Router",
+  "product_sn": "HR-CPE300 outdoor",
+  "url": "https://www.hruitech.com/wireless-bridge/300.html"
+ },
+ {
+  "id": "106",
+  "sortid": 192,
+  "classid": "192",
+  "category": "wireless-bridge",
+  "title": "HR-CPE90B-5",
+  "title2": "900Mbps Outdoor Wireless Digital Bridge",
+  "product_sn": "HR-CPE90B-5",
+  "url": "https://www.hruitech.com/wireless-bridge/106.html"
+ },
+ {
+  "id": "107",
+  "sortid": 192,
+  "classid": "192",
+  "category": "wireless-bridge",
+  "title": "HR-CPE45A-1",
+  "title2": "450Mbps Outdoor Wireless Digital Bridge",
+  "product_sn": "HR-CPE45A-1",
+  "url": "https://www.hruitech.com/wireless-bridge/107.html"
+ },
+ {
+  "id": "108",
+  "sortid": 192,
+  "classid": "192",
+  "category": "wireless-bridge",
+  "title": "HR-CPE30A-1",
+  "title2": "300Mbps Outdoor Wireless Digital Bridge",
+  "product_sn": "HR-CPE30A-1",
+  "url": "https://www.hruitech.com/wireless-bridge/108.html"
+ }
+]

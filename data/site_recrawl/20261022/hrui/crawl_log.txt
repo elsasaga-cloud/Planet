@@ -1,0 +1,189 @@
+===== run 13 =====
+[14:01:31] synced checkout fb97fd9 → branch tip 0aeea5b (arena/3f35b9b3-planet)
+[14:01:31] v3.2 recrawl round: baseline data/hrui_site_raw (pages 654, downloads 209, images 1976, sha 2597) → OUT data/site_recrawl/20261022/hrui
+[14:01:31] run 13 start; resume=False; budget 52.0 min; max_pages 1500; delay 0.8s
+[14:01:32] probe archiver https://www.hruitech.com/ → 200
+[14:01:32] access mode = requests (archiver) base https://www.hruitech.com/
+[14:01:32] sitemap: 383 loc, 208 new seeds
+[14:01:55] hrui api: 25 calls, 182 products listed, 182 new product pages queued
+[14:01:57] HTTP 404 https://www.hruitech.com/qualifications/6.html
+[14:01:58] HTTP 404 https://www.hruitech.com/qualifications/5.html
+[14:01:59] HTTP 404 https://www.hruitech.com/qualifications/4.html
+[14:02:00] HTTP 404 https://www.hruitech.com/qualifications/3.html
+[14:02:01] HTTP 404 https://www.hruitech.com/qualifications/2.html
+[14:02:01] HTTP 404 https://www.hruitech.com/qualifications/1.html
+[14:02:02] HTTP 404 https://www.hruitech.com/odmoem/manufacturing-in-factory.html
+[14:02:03] HTTP 404 https://www.hruitech.com/odmoem/research-and-design.html
+[14:02:04] HTTP 404 https://www.hruitech.com/odmoem/new-project-inltation.html
+[14:02:05] HTTP 404 https://www.hruitech.com/odmoem/service-and-support.html
+[14:02:06] HTTP 404 https://www.hruitech.com/odmoem/quality-control.html
+[14:02:07] HTTP 404 https://www.hruitech.com/channel-agent/qualification-requirements-and-responsibilities-of-agents.html
+[14:02:08] HTTP 404 https://www.hruitech.com/channel-agent/sales-model.html
+[14:02:09] HTTP 404 https://www.hruitech.com/channel-agent/the-principle-of-cooperation.html
+[14:02:09] HTTP 404 https://www.hruitech.com/channel-agent/agent-s-commitment.html
+[14:02:10] HTTP 404 https://www.hruitech.com/channel-agent/guarantee-of-the-rights-and-interests-of-agents.html
+[14:02:11] HTTP 404 https://www.hruitech.com/channel-agent/agents-enjoy-rights.html
+[14:02:12] HTTP 404 https://www.hruitech.com/after-sales-support/support.html
+[14:02:13] HTTP 404 https://www.hruitech.com/after-sales-support/warranty.html
+[14:02:14] HTTP 404 https://www.hruitech.com/after-sales-support/rma.html
+[14:02:15] HTTP 404 https://www.hruitech.com/development-history/2023.html
+[14:02:16] HTTP 404 https://www.hruitech.com/founding-story/story-1.html
+[14:02:16] HTTP 404 https://www.hruitech.com/founding-story/story-2.html
+[14:02:17] HTTP 404 https://www.hruitech.com/founding-story/story-3.html
+[14:02:17] pages 25 (+25 this run) queue 377 downloads 0 images 60 elapsed 0.8 min
+[14:02:18] HTTP 404 https://www.hruitech.com/development-history/2019.html
+[14:02:19] HTTP 404 https://www.hruitech.com/development-history/2020.html
+[14:02:20] HTTP 404 https://www.hruitech.com/development-history/2021.html
+[14:02:21] HTTP 404 https://www.hruitech.com/development-history/2016.html
+[14:02:22] HTTP 404 https://www.hruitech.com/development-history/2017.html
+[14:02:23] HTTP 404 https://www.hruitech.com/development-history/2018.html
+[14:02:23] HTTP 404 https://www.hruitech.com/enterprise-culture/philosophy.html
+[14:02:24] HTTP 404 https://www.hruitech.com/development-history/2013.html
+[14:02:25] HTTP 404 https://www.hruitech.com/development-history/2014.html
+[14:02:26] HTTP 404 https://www.hruitech.com/development-history/2015.html
+[14:02:27] HTTP 404 https://www.hruitech.com/enterprise-culture/mission.html
+[14:02:28] HTTP 404 https://www.hruitech.com/enterprise-culture/vision.html
+[14:02:29] HTTP 404 https://www.hruitech.com/enterprise-culture/value.html
+[14:02:30] HTTP 404 https://www.hruitech.com/technology-sharing/hrui-long-reach-poe-technology-solution.html
+[14:02:30] HTTP 404 https://www.hruitech.com/technology-sharing/understanding-core-switch-what-it-is-and-how-to-choose-the-right-one-for-your-network.html
+[14:02:31] HTTP 404 https://www.hruitech.com/application/28-nm-beidou-multi-mode-chip-supports-the-global-signal.html
+[14:02:32] HTTP 404 https://www.hruitech.com/exhibition-news/looking-forward-to-seeing-you-at-security-thailand-2024!.html
+[14:02:33] HTTP 404 https://www.hruitech.com/exhibition-news/showcasing-innovation-hrui-unveils-advanced-poe-switch-solutions-at-security-china-2024.html
+[14:02:34] HTTP 404 https://www.hruitech.com/product-news/hrui-super-long-distance-poe-ethernet-extender.html
+[14:02:35] HTTP 404 https://www.hruitech.com/technology-sharing/web-smart-switch-vs-managed-switch-which-one-is-right-for-your-network-needs.html
+[14:02:36] HTTP 404 https://www.hruitech.com/technology-sharing/exploring-which-wires-in-100mbps-and-1000mbps-network-cables-are-using-to-transit-power-in-a-poe-system.html
+[14:02:37] HTTP 404 https://www.hruitech.com/intelligent-transportation/highway-industry-monitoring-solutions.html
+[14:02:37] HTTP 404 https://www.hruitech.com/intelligent-transportation/road-monitoring-bayonet-system-solution.html
+[14:02:38] HTTP 404 https://www.hruitech.com/building-intercom/intelligent-building-visual-intercom-system-solution.html
+[14:02:39] HTTP 404 https://www.hruitech.com/product-news/new--hrui-24-port-2-5g-smart-web-poe-switch.html
+[14:02:39] pages 50 (+50 this run) queue 352 downloads 0 images 60 elapsed 1.2 min
+[14:02:40] HTTP 404 https://www.hruitech.com/product-news/new-arrival-hrui-10g-smart-web-managed-switch.html
+[14:02:41] HTTP 404 https://www.hruitech.com/company-news/hrui-quarterly-birthday-party--2024-edition.html
+[14:02:42] HTTP 404 https://www.hruitech.com/application/household-appliances-tend-to-be-intelligent-young-people-is-the-main-consumer.html
+[14:02:43] HTTP 404 https://www.hruitech.com/company-news/hrui-holiday-arrangement-for-the-chinese-national-day.html
+[14:02:44] HTTP 404 https://www.hruitech.com/product-news/new-arrival--hrui-60w-90w-10g-poe-injector.html
+[14:02:44] HTTP 404 https://www.hruitech.com/company-news/mid-autumn-festival-with-exciting-activities-at-hrui.html
+[14:02:45] HTTP 404 https://www.hruitech.com/wireless-network/large-scale-wireless-networking-solution.html
+[14:02:46] HTTP 404 https://www.hruitech.com/community-security-130/community-comprehensive-security-system-solution.html
+[14:02:47] HTTP 404 https://www.hruitech.com/project/inflationary-pressures-worth-noting-in-2018-the-global-economy-will-be-the-strongest-in-seven-years.html
+[14:02:48] HTTP 404 https://www.hruitech.com/project/artificial-intelligence-into-the-astronomy-.html
+[14:02:49] HTTP 404 https://www.hruitech.com/video/test-video-01.html
+[14:02:50] HTTP 404 https://www.hruitech.com/video/test-video-02.html
+[14:02:51] HTTP 404 https://www.hruitech.com/video/test-video-03.html
+[14:02:51] HTTP 404 https://www.hruitech.com/video/test-video-04.html
+[14:02:52] HTTP 404 https://www.hruitech.com/video/test-video-05.html
+[14:02:53] HTTP 404 https://www.hruitech.com/video/test-video-06.html
+[14:02:54] HTTP 404 https://www.hruitech.com/video/test-video-07.html
+[14:02:55] HTTP 404 https://www.hruitech.com/video/test-video-08.html
+[14:02:56] HTTP 404 https://www.hruitech.com/project/promote-the-cultural-integration-of-guangdong-hong-kong-and-macau.html
+[14:02:57] HTTP 404 https://www.hruitech.com/project/building-a-globally-influential-international-science-and-technology-innovation-center.html
+[14:02:58] HTTP 404 https://www.hruitech.com/project/strive-to-be-the-creative-and-creative-capital-of-the-world-s-influence.html
+[14:02:58] HTTP 404 https://www.hruitech.com/digital-management/industry-experience.html
+[14:02:59] HTTP 404 https://www.hruitech.com/digital-management/technical-patents.html
+[14:03:00] HTTP 404 https://www.hruitech.com/digital-management/customer-case.html
+[14:03:01] HTTP 404 https://www.hruitech.com/digital-management/cooperative-partner.html
+[14:03:01] pages 75 (+75 this run) queue 327 downloads 0 images 60 elapsed 1.5 min
+[14:03:02] HTTP 404 https://www.hruitech.com/electric-energy/electricity-distribution-automation-system-solution.html
+[14:03:03] HTTP 404 https://www.hruitech.com/mine-industry/coal-mine-integrated-automation-system-solution.html
+[14:03:04] HTTP 404 https://www.hruitech.com/industrial-automation/industrial-automation-control-system-solution.html
+[14:03:05] HTTP 404 https://www.hruitech.com/public-works/urban-comprehensive-pipe-gallery-system-solution.html
+[14:03:05] HTTP 404 https://www.hruitech.com/public-works/urban-sewage-treatment-and-control-system-solution.html
+[14:03:06] HTTP 404 https://www.hruitech.com/product-news/hrui-long-range-transmission-outdoor-wireless-bridge.html
+[14:03:07] HTTP 404 https://www.hruitech.com/technology-sharing/discover-the-advantages-of-industrial-switch.html
+[14:03:08] HTTP 404 https://www.hruitech.com/technology-sharing/erps-ring-network-protection-protocol.html
+[14:03:09] HTTP 404 https://www.hruitech.com/development-history/2024.html
+[14:03:10] HTTP 404 https://www.hruitech.com/technology-sharing/the-key-differences-between-managed-vs-unmanaged-switches.html
+[14:03:11] HTTP 404 https://www.hruitech.com/technology-sharing/-hrui-industrial-redundant-ring-technology-and-solution.html
+[14:03:12] HTTP 404 https://www.hruitech.com/technology-sharing/innovative-technologies-make-hrui-poe-switches-more-stable-and-smarter.html
+[14:03:12] HTTP 404 https://www.hruitech.com/technology-sharing/-why-choose-hrui-poe-switches.html
+[14:03:13] HTTP 404 https://www.hruitech.com/technology-sharing/introduction-about-poe-switches-and-technolgies.html
+[14:03:14] HTTP 404 https://www.hruitech.com/technology-sharing/-poe-system-composition-and-working-process.html
+[14:03:15] HTTP 404 https://www.hruitech.com/technology-sharing/hrui-l2-l3-managed-switch-support-nms-stocking.html
+[14:03:16] HTTP 404 https://www.hruitech.com/exhibition-news/visit-hrui-during-security-china-2024.html
+[14:03:17] HTTP 404 https://www.hruitech.com/exhibition-news/hrui-showcases-groundbreaking-innovations-at-network-x-2024.html
+[14:03:18] HTTP 404 https://www.hruitech.com/company-news/exciting-developments-at-hrui-in-2024.html
+[14:03:19] HTTP 404 https://www.hruitech.com/exhibition-news/hrui-to-showcase-innovations-at-isaf-security-turkey-2024.html
+[14:03:20] HTTP 404 https://www.hruitech.com/exhibition-news/join-hrui-at-network-x-2024.html
+[14:03:21] HTTP 404 https://www.hruitech.com/exhibition-news/hrui-unveils-innovative-solutions-at-security-essen-2024.html
+[14:03:21] HTTP 404 https://www.hruitech.com/exhibition-news/-looking-forward-to-seeing-you-at-security-essen-2024!.html
+[14:03:22] HTTP 404 https://www.hruitech.com/exhibition-news/hrui-showcases-cutting-edge-solutions-at-secutech-vietnam-2024.html
+[14:03:23] HTTP 404 https://www.hruitech.com/exhibition-news/hrui-annual-event-agenda-in-2024.html
+[14:03:23] pages 100 (+100 this run) queue 302 downloads 0 images 60 elapsed 1.9 min
+[14:03:24] HTTP 404 https://www.hruitech.com/exhibition-news/experience-the-latest-hrui-developments-at-secutech-vietnam-2024.html
+[14:03:25] HTTP 404 https://www.hruitech.com/exhibition-news/2024-securex-poland-we-are-here-waiting-for-you!.html
+[14:03:26] HTTP 404 https://www.hruitech.com/exhibition-news/2024-expo-seguridad-mexico.html
+[14:03:27] HTTP 404 https://www.hruitech.com/exhibition-news/2024-isc-west-hrui-poe-switch-welcomes-you-to-visit!.html
+[14:03:28] HTTP 404 https://www.hruitech.com/exhibition-news/hrui-exhibition-review-in-cpse-2021.html
+[14:03:28] HTTP 404 https://www.hruitech.com/exhibition-news/visit-hrui-at-gitex-global-2021-online.html
+[14:03:29] HTTP 404 https://www.hruitech.com/exhibition-news/hrui-invitation-for-cpse-china-2021.html
+[14:03:30] HTTP 404 https://www.hruitech.com/product-news/hrui-bypass-series--industrial-poe-ethernet-switch.html
+[14:03:31] HTTP 404 https://www.hruitech.com/product-news/hrui-6-ports-gigabit-managed-industrial-poe-switch.html
+[14:03:32] HTTP 404 https://www.hruitech.com/product-news/hrui-2-ports-poe-extender-|-hrui-new-launch-products.html
+[14:03:33] HTTP 404 https://www.hruitech.com/company-news/hrui-holiday-notice-for-chinese-spring-festival-2025.html
+[14:03:34] HTTP 404 https://www.hruitech.com/exhibition-news/hrui-invites-you-to-explore-poe-innovation-at-mwc-barcelona-2025.html
+[14:03:35] HTTP 404 https://www.hruitech.com/product-news/hrui-10g-uplink-2-5g-ethernet-switch.html
+[14:03:36] HTTP 404 https://www.hruitech.com/technology-sharing/understanding-poe-switches-the-key-to-efficient-power-and-data-transmission-in-modern-network-devices.html
+[14:03:37] HTTP 404 https://www.hruitech.com/technology-sharing/do-you-really-need-cat6a-cables-four-key-considerations!.html
+[14:03:37] HTTP 404 https://www.hruitech.com/product-news/hrui-gigabit-managed-industrial-poe-switch.html
+[14:03:45] pages 125 (+125 this run) queue 288 downloads 8 images 80 elapsed 2.3 min
+[14:04:08] pages 150 (+150 this run) queue 302 downloads 19 images 109 elapsed 2.6 min
+[14:04:30] pages 175 (+175 this run) queue 277 downloads 19 images 123 elapsed 3.0 min
+[14:04:52] pages 200 (+200 this run) queue 252 downloads 19 images 123 elapsed 3.4 min
+[14:05:15] pages 225 (+225 this run) queue 227 downloads 35 images 263 elapsed 3.7 min
+[14:05:37] pages 250 (+250 this run) queue 202 downloads 60 images 544 elapsed 4.1 min
+[14:05:59] pages 275 (+275 this run) queue 177 downloads 85 images 736 elapsed 4.5 min
+[14:06:22] pages 300 (+300 this run) queue 152 downloads 110 images 1032 elapsed 4.9 min
+[14:06:45] pages 325 (+325 this run) queue 127 downloads 135 images 1228 elapsed 5.2 min
+[14:07:08] pages 350 (+350 this run) queue 102 downloads 160 images 1441 elapsed 5.6 min
+[14:07:30] pages 375 (+375 this run) queue 77 downloads 185 images 1667 elapsed 6.0 min
+[14:07:52] pages 400 (+400 this run) queue 52 downloads 201 images 1829 elapsed 6.4 min
+[14:07:54] HTTP 404 https://www.hruitech.com/cdn-cgi/l/email-protection
+[14:08:15] pages 425 (+425 this run) queue 35 downloads 201 images 1857 elapsed 6.8 min
+[14:08:37] pages 450 (+450 this run) queue 30 downloads 209 images 1898 elapsed 7.1 min
+[14:09:00] pages 475 (+475 this run) queue 46 downloads 209 images 1961 elapsed 7.5 min
+[14:09:30] pages 500 (+500 this run) queue 79 downloads 209 images 1975 elapsed 8.0 min
+[14:09:55] HTTP 404 https://www.hruitech.com/managed-switch/248.html
+[14:10:00] pages 525 (+525 this run) queue 113 downloads 209 images 1975 elapsed 8.5 min
+[14:10:32] pages 550 (+550 this run) queue 104 downloads 209 images 1975 elapsed 9.0 min
+[14:11:03] pages 575 (+575 this run) queue 79 downloads 209 images 1975 elapsed 9.6 min
+[14:11:34] pages 600 (+600 this run) queue 54 downloads 209 images 1975 elapsed 10.1 min
+[14:12:05] pages 625 (+625 this run) queue 29 downloads 209 images 1975 elapsed 10.6 min
+[14:12:37] pages 650 (+650 this run) queue 4 downloads 209 images 1975 elapsed 11.1 min
+[14:12:42] BFS stop: complete (queue empty); pages=654 (+654) downloads=209 images=1975
+[14:12:43] cdn images harvested from archived html: +0 (images total 1975)
+[14:13:11] downloads 20/209 elapsed 11.7 min
+[14:13:24] DL FAIL https://www.hruitech.com/web/userfiles/productfile/Datasheet HR900-AF-42N.pdf: /www.hruitech.com/web/userfiles/productfile/Datasheet HR900-AF-42N.pdf: HTTP 404 text/html 1231B
+[14:13:36] downloads 40/209 elapsed 12.1 min
+[14:13:59] downloads 60/209 elapsed 12.5 min
+[14:14:22] downloads 80/209 elapsed 12.9 min
+[14:14:45] downloads 100/209 elapsed 13.3 min
+[14:15:08] downloads 120/209 elapsed 13.6 min
+[14:15:30] downloads 140/209 elapsed 14.0 min
+[14:15:54] downloads 160/209 elapsed 14.4 min
+[14:16:15] downloads 180/209 elapsed 14.8 min
+[14:16:39] downloads 200/209 elapsed 15.2 min
+[14:16:50] downloads stop: complete; ok 208/209 (+209 this run), 189.1 MB
+[14:16:50] pdftotext: 0
+[14:16:50] downloads total 189.1 MB → committed to git: 0/0 files (0.0 MB; all=True)
+[14:17:59] images 100/1975 12 MB elapsed 16.5 min
+[14:19:25] images 200/1975 30 MB elapsed 17.9 min
+[14:20:38] images 300/1975 39 MB elapsed 19.1 min
+[14:21:50] images 400/1975 51 MB elapsed 20.3 min
+[14:23:04] images 500/1975 69 MB elapsed 21.6 min
+[14:24:18] images 600/1975 79 MB elapsed 22.8 min
+[14:25:30] images 700/1975 96 MB elapsed 24.0 min
+[14:26:43] images 800/1975 113 MB elapsed 25.2 min
+[14:27:53] images 900/1975 128 MB elapsed 26.4 min
+[14:28:56] images 1000/1975 129 MB elapsed 27.4 min
+[14:30:01] images 1100/1975 130 MB elapsed 28.5 min
+[14:31:10] images 1200/1975 132 MB elapsed 29.7 min
+[14:32:17] images 1300/1975 133 MB elapsed 30.8 min
+[14:33:24] images 1400/1975 138 MB elapsed 31.9 min
+[14:34:44] images 1500/1975 159 MB elapsed 33.2 min
+[14:35:58] images 1600/1975 176 MB elapsed 34.5 min
+[14:37:10] images 1700/1975 187 MB elapsed 35.7 min
+[14:38:25] images 1800/1975 204 MB elapsed 36.9 min
+[14:39:38] images 1900/1975 215 MB elapsed 38.1 min
+[14:40:34] images total 0.0 MB → committed to git: True (+1 copied into data/site_recrawl/20261022/hrui/images)
+[14:40:34] images stop: complete; ok 1975/1975 (+1975 this run), 227.0 MB this run
+[14:40:34] diff: {"pages": {"new": 0, "text_changed": 0, "markup_only": 536, "same": 1, "gone": 0, "not_reached": 0}, "downloads": {"new": 0, "changed": 0, "same": 208, "gone": 0, "not_reached": 0}, "images": {"new": 0, "changed": 1, "same": 1974, "gone": 0, "not_reached": 0}}

@@ -1,0 +1,2034 @@
+{
+ "pages": {
+  "new": [],
+  "text_changed": [
+   {
+    "url": "https://hohunet.com/product/s9532-data-center-switch-with-32-800g-osfp-data-center-switch/",
+    "title": "S9532-EI Data Center Switch, with 32*800G OSFP, Dual Power Modules, 4*Smart Fan Modules, 2U - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s9532-data-center-switch-with-32-800g-osfp-data-center-switch.html",
+    "old_sha8": "2526c51d",
+    "new_sha8": "4d398ec9",
+    "old_bytes": 175038,
+    "new_bytes": 174935,
+    "old_file": "data/hohunet_site_raw/html/product_s9532-data-center-switch-with-32-800g-osfp-data-center-switch.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s9532-data-center-switch-with-32-800g-osfp-dd800/",
+    "title": "S9532-EI Data Center Switch, with 32*800G OSFP, Dual Power Modules, 4*Smart Fan Modules, 2U - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s9532-data-center-switch-with-32-800g-osfp-dd800.html",
+    "old_sha8": "64ba9165",
+    "new_sha8": "e4556096",
+    "old_bytes": 174957,
+    "new_bytes": 175316,
+    "old_file": "data/hohunet_site_raw/html/product_s9532-data-center-switch-with-32-800g-osfp-dd800.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s7800-32z-data-center-switch-with32100g-qsf28-dual-power-smart-fan/",
+    "title": "S7832Z-EI Data Center Switch, with 32*100G QSFP28, Dual Power Modules, Smart Fan Modules, MPLS, EVPN, VxLAN - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s7800-32z-data-center-switch-with32100g-qsf28-dual-power-smart-fan.html",
+    "old_sha8": "0980ac68",
+    "new_sha8": "17ef6618",
+    "old_bytes": 176187,
+    "new_bytes": 175762,
+    "old_file": "data/hohunet_site_raw/html/product_s7800-32z-data-center-switch-with32100g-qsf28-dual-power-smart-fan.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s8564-ei-data-center-switch-data-center-computing-ai/",
+    "title": "64×400G QSFP112 High-Density L3 Managed Data Center Ethernet Switch with Dual Power Modules, 4*Smart Fan Modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s8564-ei-data-center-switch-data-center-computing-ai.html",
+    "old_sha8": "c9fe8696",
+    "new_sha8": "137ca380",
+    "old_bytes": 175641,
+    "new_bytes": 175594,
+    "old_file": "data/hohunet_site_raw/html/product_s8564-ei-data-center-switch-data-center-computing-ai.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s3748pb-6x-ei-48port-poe-gigabit-ethernet-l3-switch481g-baset-poe-90w610g-sfpdual-power-modules3hot-swappable-smart-fan-modules/",
+    "title": "S3748PB-6X-EI 48Port POE++ Gigabit Ethernet L3 Switch,48*1G BaseT (PoE++ 90W),6*10G SFP+,Dual Power Modules,3*Hot-Swappable Smart Fan Modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s3748pb-6x-ei-48port-poe-gigabit-ethernet-l3-switch481g-baset-poe-90w610g-sfpdual-power-modules3hot-swappable-smart-fan-modules.html",
+    "old_sha8": "eb88ceb7",
+    "new_sha8": "72133e5a",
+    "old_bytes": 177648,
+    "new_bytes": 177513,
+    "old_file": "data/hohunet_site_raw/html/product_s3748pb-6x-ei-48port-poe-gigabit-ethernet-l3-switch481g-baset-poe-90w610g-sfpdual-power-modules3hot-swappable-smart-fan-modules.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s8532-data-center-sdvoe-switch-with-24100g-qsf28-built-in-sdvoe-api-server-dual-power-modules/",
+    "title": "32×400G QSFP112 High-Density L3 Managed Data Center Ethernet Switch with Dual Power Modules, 6*Smart Fan Modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s8532-data-center-sdvoe-switch-with-24100g-qsf28-built-in-sdvoe-api-server-dual-power-modules.html",
+    "old_sha8": "d588f78d",
+    "new_sha8": "60ef8bc4",
+    "old_bytes": 174443,
+    "new_bytes": 174702,
+    "old_file": "data/hohunet_site_raw/html/product_s8532-data-center-sdvoe-switch-with-24100g-qsf28-built-in-sdvoe-api-server-dual-power-modules.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s3724pb-6x-ei-24port-poe-gigabit-ethernet-l3-switchwith-241g-baset-poe-90w610g-sfpdual-power-modules3hot-swappable-smart-fan-modules/",
+    "title": "S3724PB-6X-EI 24Port POE++ Gigabit Ethernet L3 Switch,With 24*1G BaseT (PoE++ 90W),6*10G SFP+,Dual Power Modules,3*Hot-Swappable Smart Fan Modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s3724pb-6x-ei-24port-poe-gigabit-ethernet-l3-switchwith-241g-baset-poe-90w610g-sfpdual-power-modules3hot-swappable-smart-fan-modules.html",
+    "old_sha8": "50f8c3e4",
+    "new_sha8": "adddb800",
+    "old_bytes": 177683,
+    "new_bytes": 177544,
+    "old_file": "data/hohunet_site_raw/html/product_s3724pb-6x-ei-24port-poe-gigabit-ethernet-l3-switchwith-241g-baset-poe-90w610g-sfpdual-power-modules3hot-swappable-smart-fan-modules.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s7832-2x-ei-plus-data-center-switch24-x-100g-qsfp28-8-x-200g-qsfp562x10g-sfp-dual-power-supply-module-4-hot-swappable-intelligent-fan-module/",
+    "title": "S7832-2X-EI-PLUS Data Center Switch,32 x 100G QSFP28/8 x 200G QSFP56,2x10G SFP+, Dual Power Supply Module, 4* Hot-Swappable Intelligent Fan Module - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s7832-2x-ei-plus-data-center-switch24-x-100g-qsfp28-8-x-200g-qsfp562x10g-sfp-dual-power-supply-module-_b7230e5f98.html",
+    "old_sha8": "59b0ec76",
+    "new_sha8": "ddbf6fed",
+    "old_bytes": 177238,
+    "new_bytes": 177658,
+    "old_file": "data/hohunet_site_raw/html/product_s7832-2x-ei-plus-data-center-switch24-x-100g-qsfp28-8-x-200g-qsfp562x10g-sfp-dual-power-supply-module-_b7230e5f98.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s3748-6x-ei-24port-gigabit-ethernet-l3-switchwith-481g-baset610g-sfpdual-power-supply-modules3hot-swappable-smart-fan-modules/",
+    "title": "S3748-6X-EI 48Port Gigabit Ethernet L3 Switch,With 48*1G BaseT,6*10G SFP+,Dual Power Supply Modules,3*Hot-Swappable Smart Fan Modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s3748-6x-ei-24port-gigabit-ethernet-l3-switchwith-481g-baset610g-sfpdual-power-supply-modules3hot-swappable-smart-fan-modules.html",
+    "old_sha8": "c1a85114",
+    "new_sha8": "c254a5ea",
+    "old_bytes": 177242,
+    "new_bytes": 177514,
+    "old_file": "data/hohunet_site_raw/html/product_s3748-6x-ei-24port-gigabit-ethernet-l3-switchwith-481g-baset610g-sfpdual-power-supply-modules3hot-swappable-smart-fan-modules.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s3748-6x-si-24port-gigabit-ethernet-l3-switchwith-481g-baset610g-sfpsingle-fixed-power-module3fixed-fan-modules/",
+    "title": "S3748-6X-SI 48Port Gigabit Ethernet L3 Switch,With 48*1G BaseT,6*10G SFP+,Single Fixed Power Module,3*Fixed Fan Modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s3748-6x-si-24port-gigabit-ethernet-l3-switchwith-481g-baset610g-sfpsingle-fixed-power-module3fixed-fan-modules.html",
+    "old_sha8": "78dbfc2b",
+    "new_sha8": "f3f061d9",
+    "old_bytes": 177104,
+    "new_bytes": 177210,
+    "old_file": "data/hohunet_site_raw/html/product_s3748-6x-si-24port-gigabit-ethernet-l3-switchwith-481g-baset610g-sfpsingle-fixed-power-module3fixed-fan-modules.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5732-16n4z-ei-10g-data-center-switch-with-32-x-10g-sfp-16x-10g-25g-sfp28-4-x-100g-qsfp28-2-x-power-supply-modules-4-x-hot-swap-fan-modules/",
+    "title": "S5732-16N4Z-EI 10G Data Center Switch with 32 x 10G SFP+, 16x 10G/25G SFP28, 4 x 100G QSFP28, 2 x power supply modules, 4 x hot-swap fan modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5732-16n4z-ei-10g-data-center-switch-with-32-x-10g-sfp-16x-10g-25g-sfp28-4-x-100g-qsfp28-2-x-power-su_21031d2c19.html",
+    "old_sha8": "eae2d171",
+    "new_sha8": "98eb2162",
+    "old_bytes": 175376,
+    "new_bytes": 175459,
+    "old_file": "data/hohunet_site_raw/html/product_s5732-16n4z-ei-10g-data-center-switch-with-32-x-10g-sfp-16x-10g-25g-sfp28-4-x-100g-qsfp28-2-x-power-su_21031d2c19.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s3724-6x-ei-24port-gigabit-ethernet-l3-switchwith-241g-baset610g-sfpdual-power-supply-modules2hot-swappable-smart-fan-modules/",
+    "title": "S3724-6X-EI 24Port Gigabit Ethernet L3 Switch,With 24*1G BaseT,6*10G SFP+,Dual Power Supply Modules,2*Fixed Fan Modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s3724-6x-ei-24port-gigabit-ethernet-l3-switchwith-241g-baset610g-sfpdual-power-supply-modules2hot-swappable-smart-fan-modules.html",
+    "old_sha8": "6c7d4f7d",
+    "new_sha8": "6d607f9b",
+    "old_bytes": 176563,
+    "new_bytes": 176450,
+    "old_file": "data/hohunet_site_raw/html/product_s3724-6x-ei-24port-gigabit-ethernet-l3-switchwith-241g-baset610g-sfpdual-power-supply-modules2hot-swappable-smart-fan-modules.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s3724-6x-si-24port-gigabit-ethernet-l3-switchwith-241g-baset610g-sfpsingle-fixed-power-module2fixed-fan-modules/",
+    "title": "S3724-6X-SI 24Port Gigabit Ethernet L3 Switch,With 24*1G BaseT,6*10G SFP+,Single Fixed Power Module,2*Fixed Fan Modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s3724-6x-si-24port-gigabit-ethernet-l3-switchwith-241g-baset610g-sfpsingle-fixed-power-module2fixed-fan-modules.html",
+    "old_sha8": "90043f20",
+    "new_sha8": "1468dfd8",
+    "old_bytes": 177320,
+    "new_bytes": 177174,
+    "old_file": "data/hohunet_site_raw/html/product_s3724-6x-si-24port-gigabit-ethernet-l3-switchwith-241g-baset610g-sfpsingle-fixed-power-module2fixed-fan-modules.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s3708-2g-si-8port-poe-gigabit-ethernet-l3-switchwith-81g-base-tpoe30w210g-sfpdual-fixed-power-modulessingle-fixed-fan-module/",
+    "title": "S3708-2G-SI 8Port PoE+ Gigabit Ethernet L3 Switch,With 8*1G Base-T(PoE+30W),2*10G SFP+,Dual Fixed Power Modules,Single Fixed Fan Module - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s3708-2g-si-8port-poe-gigabit-ethernet-l3-switchwith-81g-base-tpoe30w210g-sfpdual-fixed-power-modulessingle-fixed-fan-module.html",
+    "old_sha8": "35a5f7db",
+    "new_sha8": "438c92ed",
+    "old_bytes": 176387,
+    "new_bytes": 176390,
+    "old_file": "data/hohunet_site_raw/html/product_s3708-2g-si-8port-poe-gigabit-ethernet-l3-switchwith-81g-base-tpoe30w210g-sfpdual-fixed-power-modulessingle-fixed-fan-module.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s7548n-8z-ei-plus-data-center-switch48-x-25g-sfp288x100g-qsfp28-dual-power-supply-module-4-hot-swappable-intelligent-fan-module/",
+    "title": "S7548N-8Z-EI-PLUS Data Center Switch,48 x 25G SFP28,8x100G QSFP28, Dual Power Supply Module, 4* Hot-Swappable Smart Fan Module - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s7548n-8z-ei-plus-data-center-switch48-x-25g-sfp288x100g-qsfp28-dual-power-supply-module-4-hot-swappable-intelligent-fan-module.html",
+    "old_sha8": "86fa64a5",
+    "new_sha8": "1bcd66e9",
+    "old_bytes": 224933,
+    "new_bytes": 224936,
+    "old_file": "data/hohunet_site_raw/html/product_s7548n-8z-ei-plus-data-center-switch48-x-25g-sfp288x100g-qsfp28-dual-power-supply-module-4-hot-swappable-intelligent-fan-module.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s8232-2x-ei-data-center-switch48-x-25g-sfp288x100g-qsfp28-dual-power-supply-module-5-hot-swappable-smart-fan-module/",
+    "title": "S8232-2X-EI Data Center Switch,32 x 200G QSFP56, 2 x 10G SFP+,Dual Power Supply Module, 5* Hot-Swappable Smart Fan Module - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s8232-2x-ei-data-center-switch48-x-25g-sfp288x100g-qsfp28-dual-power-supply-module-5-hot-swappable-smart-fan-module.html",
+    "old_sha8": "856d3cc2",
+    "new_sha8": "e7052b6d",
+    "old_bytes": 176982,
+    "new_bytes": 176646,
+    "old_file": "data/hohunet_site_raw/html/product_s8232-2x-ei-data-center-switch48-x-25g-sfp288x100g-qsfp28-dual-power-supply-module-5-hot-swappable-smart-fan-module.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s3748p-6x-si-48port-poe-gigabit-ethernet-l3-switchwith-481g-baset1-4port-poe-90w5-48port-poe-30w610g-sfpsingle-fixed-power-module4fixed-fan-modules/",
+    "title": "S3748P-6X-SI 48Port POE+ Gigabit Ethernet L3 Switch,With 48*1G BaseT(1-4Port PoE++ 90W,5-48Port PoE+ 30W),6*10G SFP+,Single Fixed Power Module,4*Fixed Fan Modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s3748p-6x-si-48port-poe-gigabit-ethernet-l3-switchwith-481g-baset1-4port-poe-90w5-48port-poe-30w610g-s_22d3ac68f6.html",
+    "old_sha8": "f4f0ccf8",
+    "new_sha8": "ffb5bd1b",
+    "old_bytes": 177804,
+    "new_bytes": 177854,
+    "old_file": "data/hohunet_site_raw/html/product_s3748p-6x-si-48port-poe-gigabit-ethernet-l3-switchwith-481g-baset1-4port-poe-90w5-48port-poe-30w610g-s_22d3ac68f6.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s3724p-6x-si-24port-gigabit-ethernet-l3-switchwith-241g-baset-1-4port-poe5-24port-poe610g-sfpsingle-fixed-power-module4fixed-fan-modules/",
+    "title": "S3724P-6X-SI 24Port Gigabit Ethernet L3 Switch,With 24*1G BaseT (1-4Port PoE++,5-24Port PoE+),6*10G SFP+,Single Fixed Power Module,4*Fixed Fan Modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s3724p-6x-si-24port-gigabit-ethernet-l3-switchwith-241g-baset-1-4port-poe5-24port-poe610g-sfpsingle-fi_3084a25d51.html",
+    "old_sha8": "2eb02e6f",
+    "new_sha8": "01231a4c",
+    "old_bytes": 177800,
+    "new_bytes": 177603,
+    "old_file": "data/hohunet_site_raw/html/product_s3724p-6x-si-24port-gigabit-ethernet-l3-switchwith-241g-baset-1-4port-poe5-24port-poe610g-sfpsingle-fi_3084a25d51.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s3724s-8g6x-ei-24port-ethernet-l3-switch-with161g-sfp81g-baset81g-sfp-combo610g-sfpdual-power-modules3hot-swappable-smart-fan-modules/",
+    "title": "S3724S-8G6X-EI 24Port Ethernet L3 Switch With,16*1G SFP,8*1G BaseT,8*1G SFP Combo,6*10G SFP+,Dual Power Modules,3*Hot-Swappable Smart Fan Modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s3724s-8g6x-ei-24port-ethernet-l3-switch-with161g-sfp81g-baset81g-sfp-combo610g-sfpdual-power-modules3_4981726e83.html",
+    "old_sha8": "8827681a",
+    "new_sha8": "dbf8a636",
+    "old_bytes": 177636,
+    "new_bytes": 177747,
+    "old_file": "data/hohunet_site_raw/html/product_s3724s-8g6x-ei-24port-ethernet-l3-switch-with161g-sfp81g-baset81g-sfp-combo610g-sfpdual-power-modules3_4981726e83.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s3724s-8g6x-si-24port-ethernet-l3-switch-with161g-sfp81g-baset81g-sfp-combo610g-sfpsingle-fixed-power-module3fixed-fan-modules/",
+    "title": "S3724S-8G6X-SI 24Port Ethernet L3 Switch With,16*1G SFP,8*1G BaseT,8*1G SFP Combo,6*10G SFP+,Single Fixed Power Module,3*Fixed Fan Modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s3724s-8g6x-si-24port-ethernet-l3-switch-with161g-sfp81g-baset81g-sfp-combo610g-sfpsingle-fixed-power-module3fixed-fan-modules.html",
+    "old_sha8": "7fb00440",
+    "new_sha8": "4a49832e",
+    "old_bytes": 177632,
+    "new_bytes": 177692,
+    "old_file": "data/hohunet_site_raw/html/product_s3724s-8g6x-si-24port-ethernet-l3-switch-with161g-sfp81g-baset81g-sfp-combo610g-sfpsingle-fixed-power-module3fixed-fan-modules.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s7648-8b-ei-data-center-switch48-x-50g-sfp568x100g-qsfp28-dual-power-supply-module-4-hot-swappable-smart-fan-module/",
+    "title": "S7648-8B-EI Data Center Switch,48 x 50G SFP56,8x100G QSFP28, Dual Power Supply Module, 4* Hot-Swappable Smart Fan Module - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s7648-8b-ei-data-center-switch48-x-50g-sfp568x100g-qsfp28-dual-power-supply-module-4-hot-swappable-smart-fan-module.html",
+    "old_sha8": "653dbe73",
+    "new_sha8": "4aa061d0",
+    "old_bytes": 175855,
+    "new_bytes": 175598,
+    "old_file": "data/hohunet_site_raw/html/product_s7648-8b-ei-data-center-switch48-x-50g-sfp568x100g-qsfp28-dual-power-supply-module-4-hot-swappable-smart-fan-module.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s7814zh-4n-ei-40g-100g-optical-sdvoe-switch-physical-dual-hot-backup-in-1u/",
+    "title": "S7814ZH-4N-EI 14 x 40G/100G Optical SDVoE Switch-Physical dual hot-backup in 1U - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s7814zh-4n-ei-40g-100g-optical-sdvoe-switch-physical-dual-hot-backup-in-1u.html",
+    "old_sha8": "e4cb99f2",
+    "new_sha8": "bcc896ae",
+    "old_bytes": 178472,
+    "new_bytes": 178494,
+    "old_file": "data/hohunet_site_raw/html/product_s7814zh-4n-ei-40g-100g-optical-sdvoe-switch-physical-dual-hot-backup-in-1u.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5624x-8n-si-10g-optical-laryer-3-managed-switch%ef%bc%8cwith-2410g-sfp-and-825g-sfp28%ef%bc%8c196w-fixed-power-supply-4-fixed-fan/",
+    "title": "S5624X-8N-SI 10G Optical Laryer 3 Managed Switch，with 24*10G SFP+ and 8*25G SFP28，1*96W Fixed Power Supply, 4* Fixed Fan - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5624x-8n-si-10g-optical-laryer-3-managed-switch_with-2410g-sfp-and-825g-sfp28_196w-fixed-power-supply-4-fixed-fan.html",
+    "old_sha8": "805d0f8d",
+    "new_sha8": "8934d349",
+    "old_bytes": 173116,
+    "new_bytes": 173493,
+    "old_file": "data/hohunet_site_raw/html/product_s5624x-8n-si-10g-optical-laryer-3-managed-switch_with-2410g-sfp-and-825g-sfp28_196w-fixed-power-supply-4-fixed-fan.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5624x-2z-si-10g-optical-laryer-3-managed-switch%ef%bc%8cwith-2410g-sfp-and-2100g-qsfp28%ef%bc%8c196w-fixed-power-supply-4-fixed-fan/",
+    "title": "S5624X-2Z-SI 10G Optical Laryer 3 Managed Switch，with 24*10G SFP+ and 2*100G QSFP28，1*96W Fixed Power Supply, 4* Fixed Fan - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5624x-2z-si-10g-optical-laryer-3-managed-switch_with-2410g-sfp-and-2100g-qsfp28_196w-fixed-power-supply-4-fixed-fan.html",
+    "old_sha8": "cc710099",
+    "new_sha8": "5860aa14",
+    "old_bytes": 173151,
+    "new_bytes": 173403,
+    "old_file": "data/hohunet_site_raw/html/product_s5624x-2z-si-10g-optical-laryer-3-managed-switch_with-2410g-sfp-and-2100g-qsfp28_196w-fixed-power-supply-4-fixed-fan.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s7548n-4z-si-data-center-switch-with-4825g-sfp28-and-4100g-qsfp28-uplinks-1200w-fixed-power-4fixed-fans/",
+    "title": "S7548N-4Z-SI Data Center Switch, with 48*25G SFP28 and 4*100G QSFP28 Uplinks, 1*200W Fixed Power, 4*Fixed Fans - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s7548n-4z-si-data-center-switch-with-4825g-sfp28-and-4100g-qsfp28-uplinks-1200w-fixed-power-4fixed-fans.html",
+    "old_sha8": "5b0589b8",
+    "new_sha8": "76a1f2b8",
+    "old_bytes": 174042,
+    "new_bytes": 173958,
+    "old_file": "data/hohunet_site_raw/html/product_s7548n-4z-si-data-center-switch-with-4825g-sfp28-and-4100g-qsfp28-uplinks-1200w-fixed-power-4fixed-fans.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5748x-8z-si-10g-enterprise-switch-with-48-x-10g-sfp-8-x-100g-qsfp-28-fixed-power-and-fan/",
+    "title": "S5748X-8Z-SI, 10G Enterprise Switch with 48 x 10G SFP+, 8 x 100G QSFP 28, Fixed Power and Fan - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5748x-8z-si-10g-enterprise-switch-with-48-x-10g-sfp-8-x-100g-qsfp-28-fixed-power-and-fan.html",
+    "old_sha8": "b1947933",
+    "new_sha8": "2d576cab",
+    "old_bytes": 174780,
+    "new_bytes": 174369,
+    "old_file": "data/hohunet_site_raw/html/product_s5748x-8z-si-10g-enterprise-switch-with-48-x-10g-sfp-8-x-100g-qsfp-28-fixed-power-and-fan.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5732-16n4z-si-10g-data-center-switch-with-32-x-10g-sfp-16x-10g-25g-sfp28-4-x-100g-qsfp28-fixed-power-and-fan/",
+    "title": "S5732-16N4Z-SI 10G Data Center Switch with 32 x 10G SFP+, 16x 10G/25G SFP28, 4 x 100G QSFP28, Fixed power and fan - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5732-16n4z-si-10g-data-center-switch-with-32-x-10g-sfp-16x-10g-25g-sfp28-4-x-100g-qsfp28-fixed-power-and-fan.html",
+    "old_sha8": "cc5841e9",
+    "new_sha8": "6df26bb1",
+    "old_bytes": 174041,
+    "new_bytes": 173768,
+    "old_file": "data/hohunet_site_raw/html/product_s5732-16n4z-si-10g-data-center-switch-with-32-x-10g-sfp-16x-10g-25g-sfp28-4-x-100g-qsfp28-fixed-power-and-fan.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5748x-8z-ei-10g-data-center-switch-with-48-x-10g-sfp-8-x-100g-qsfp-28-2-x-power-supply-modules-4-x-hot-swap-fan-modules/",
+    "title": "S5748X-8Z-EI 10G Data Center Switch with 48 x 10G SFP+, 8 x 100G QSFP 28, 2 x power supply modules, 4 x hot-swap fan modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5748x-8z-ei-10g-data-center-switch-with-48-x-10g-sfp-8-x-100g-qsfp-28-2-x-power-supply-modules-4-x-hot-swap-fan-modules.html",
+    "old_sha8": "a9086e20",
+    "new_sha8": "ed70c30b",
+    "old_bytes": 176254,
+    "new_bytes": 175635,
+    "old_file": "data/hohunet_site_raw/html/product_s5748x-8z-ei-10g-data-center-switch-with-48-x-10g-sfp-8-x-100g-qsfp-28-2-x-power-supply-modules-4-x-hot-swap-fan-modules.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5724x-8z-ei-10g-data-center-switch-with-24-x-10g-sfp-8-x-100g-qsfp-28-2-x-350w-crps-2-x-fan-modules/",
+    "title": "S5724X-8Z-EI 10G Data Center Switch with 24 x 10G SFP+, 8 x 100G QSFP 28, 2 x 350W CRPS, 2 x Fan Modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5724x-8z-ei-10g-data-center-switch-with-24-x-10g-sfp-8-x-100g-qsfp-28-2-x-350w-crps-2-x-fan-modules.html",
+    "old_sha8": "4edebed6",
+    "new_sha8": "3296864f",
+    "old_bytes": 175617,
+    "new_bytes": 175554,
+    "old_file": "data/hohunet_site_raw/html/product_s5724x-8z-ei-10g-data-center-switch-with-24-x-10g-sfp-8-x-100g-qsfp-28-2-x-350w-crps-2-x-fan-modules.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5724x-8z-si-24x10g-sfp-8x100g-qsfp28-layer-3-switch-with-fixed-power-and-fans-for-enterprise-aggregation/",
+    "title": "S5724X-8Z-SI, 24×10G SFP+, 8×100G QSFP28 Layer 3 Switch with Fixed Power and Fans for Enterprise Aggregation - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5724x-8z-si-24x10g-sfp-8x100g-qsfp28-layer-3-switch-with-fixed-power-and-fans-for-enterprise-aggregation.html",
+    "old_sha8": "30e79b37",
+    "new_sha8": "bbce6c95",
+    "old_bytes": 174525,
+    "new_bytes": 174882,
+    "old_file": "data/hohunet_site_raw/html/product_s5724x-8z-si-24x10g-sfp-8x100g-qsfp28-layer-3-switch-with-fixed-power-and-fans-for-enterprise-aggregation.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5648t-4x2z-ei-10g-data-center-switch-with-48-x-10g-base-t-4-x-10g-sfp-2-x-100g-qsfp28-2-x-power-supply-modules-4-x-hot-swap-fan-modules/",
+    "title": "S5648T-4X2Z-EI 10G Data Center Switch with 48 x 10G Base-T, 4 x 10G SFP+, 2 x 100G QSFP28, 2 x power supply modules, 4 x hot-swap fan modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5648t-4x2z-ei-10g-data-center-switch-with-48-x-10g-base-t-4-x-10g-sfp-2-x-100g-qsfp28-2-x-power-suppl_2249b785c9.html",
+    "old_sha8": "688b77cf",
+    "new_sha8": "792bb8b9",
+    "old_bytes": 176041,
+    "new_bytes": 176190,
+    "old_file": "data/hohunet_site_raw/html/product_s5648t-4x2z-ei-10g-data-center-switch-with-48-x-10g-base-t-4-x-10g-sfp-2-x-100g-qsfp28-2-x-power-suppl_2249b785c9.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s7524n-8z-ei-data-center-switch-with-4825g-sfp28-and-8100g-qsfp28-uplinks-dual-power-smart-fan/",
+    "title": "S7524N-8Z-EI Data Center Switch, with 24*25G SFP28 and 8*100G QSFP28 Uplinks, Dual Power, Smart Fan - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s7524n-8z-ei-data-center-switch-with-4825g-sfp28-and-8100g-qsfp28-uplinks-dual-power-smart-fan.html",
+    "old_sha8": "a42758f9",
+    "new_sha8": "4cb13977",
+    "old_bytes": 175380,
+    "new_bytes": 175092,
+    "old_file": "data/hohunet_site_raw/html/product_s7524n-8z-ei-data-center-switch-with-4825g-sfp28-and-8100g-qsfp28-uplinks-dual-power-smart-fan.html"
+   },
+   {
+    "url": "https://hohunet.com/product/40g-optical-sdvoe-switch/",
+    "title": "S7606X-2Z-SI Two-star in 1U 40G Optical SDVoE Switch, Fixed Power and FANS, Built-in SDVoE API Server Controller - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_40g-optical-sdvoe-switch.html",
+    "old_sha8": "1fa70041",
+    "new_sha8": "9b541a07",
+    "old_bytes": 182783,
+    "new_bytes": 182382,
+    "old_file": "data/hohunet_site_raw/html/product_40g-optical-sdvoe-switch.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5648x-2z-si-10g-enterprise-and-campus-network-switch-with-48-x-10g-sfp-2-x-100g-qsfp28-fixed-single-power-supply-4-x-fixed-fans/",
+    "title": "S5648X-2Z-SI 10G Enterprise and Campus Network Switch with 48 x 10G SFP+, 2 x 100G QSFP28, Fixed single power supply, 4 x Fixed Fans - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5648x-2z-si-10g-enterprise-and-campus-network-switch-with-48-x-10g-sfp-2-x-100g-qsfp28-fixed-single-power-supply-4-x-fixed-fans.html",
+    "old_sha8": "d50de66d",
+    "new_sha8": "d8431892",
+    "old_bytes": 175246,
+    "new_bytes": 175359,
+    "old_file": "data/hohunet_site_raw/html/product_s5648x-2z-si-10g-enterprise-and-campus-network-switch-with-48-x-10g-sfp-2-x-100g-qsfp28-fixed-single-power-supply-4-x-fixed-fans.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5648x-4z-si-10g-optical-sdvoe-switch/",
+    "title": "S5648X-4Z-SI 10G Optical SDVoE Switch, with 48*10G SFP+ and 4*100G QSFP28, 2*150W Fixed Power Supply, 4*Fixed Fan - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5648x-4z-si-10g-optical-sdvoe-switch.html",
+    "old_sha8": "0e79e874",
+    "new_sha8": "72c944d8",
+    "old_bytes": 180949,
+    "new_bytes": 181044,
+    "old_file": "data/hohunet_site_raw/html/product_s5648x-4z-si-10g-optical-sdvoe-switch.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5624t-2z-si-l3-managed-optical-switch-with-2410g-base-t-2100g-qsfp28-uplinks-1fixed-power-4fixed-fans/",
+    "title": "S5624T-2Z-SI L3+ Managed Optical Switch, with 24*10G BASE-T, 2*100G QSFP28 Uplinks, 1*Fixed Power, 4*Fixed Fans - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5624t-2z-si-l3-managed-optical-switch-with-2410g-base-t-2100g-qsfp28-uplinks-1fixed-power-4fixed-fans.html",
+    "old_sha8": "94c66d6b",
+    "new_sha8": "8e820719",
+    "old_bytes": 175536,
+    "new_bytes": 176041,
+    "old_file": "data/hohunet_site_raw/html/product_s5624t-2z-si-l3-managed-optical-switch-with-2410g-base-t-2100g-qsfp28-uplinks-1fixed-power-4fixed-fans.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5648x-4z-ei-10g-optical-sdvoe-10g-swiitch/",
+    "title": "S5648X-4Z-EI 10G Optical SDVoE Switch，with 48*10G SFP+ and 4*100G QSFP28，2*350W CRPS，2*Fan Module - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5648x-4z-ei-10g-optical-sdvoe-10g-swiitch.html",
+    "old_sha8": "13ad464f",
+    "new_sha8": "b974ddc9",
+    "old_bytes": 180703,
+    "new_bytes": 181353,
+    "old_file": "data/hohunet_site_raw/html/product_s5648x-4z-ei-10g-optical-sdvoe-10g-swiitch.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5624xh-2z-10g-optical-sdvoe-switch/",
+    "title": "S5624XH-2Z-EI 10G Optical SDVoE Switch, with 24*10G SFP+ and 2*100G QSFP28, 1*350W CRPS, 1*Fan Module - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5624xh-2z-10g-optical-sdvoe-switch.html",
+    "old_sha8": "b70704e9",
+    "new_sha8": "dc0a6f4a",
+    "old_bytes": 181658,
+    "new_bytes": 182011,
+    "old_file": "data/hohunet_site_raw/html/product_s5624xh-2z-10g-optical-sdvoe-switch.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5624th-2z-si-10g-24-ports-sdvoe/",
+    "title": "S5624TH-2Z-SI 24*10G Base-T and 2*100G QSFP28 Half-width Switches, 1*300W Fixed Power, 3*Fixed Fan, support SDVoE - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5624th-2z-si-10g-24-ports-sdvoe.html",
+    "old_sha8": "62605a3a",
+    "new_sha8": "ab283667",
+    "old_bytes": 180310,
+    "new_bytes": 180256,
+    "old_file": "data/hohunet_site_raw/html/product_s5624th-2z-si-10g-24-ports-sdvoe.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5624th-2z-ei-10g-24-ports-sfp-100g-uplink-half-width-sdvoe/",
+    "title": "S5624TH-2Z-EI 24*10G Base-T and 2*100G QSFP28 Half-width Switches, 1*350W CRPS, 1*Fan Module, support SDVoE - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5624th-2z-ei-10g-24-ports-sfp-100g-uplink-half-width-sdvoe.html",
+    "old_sha8": "3ca783f0",
+    "new_sha8": "9a5880cd",
+    "old_bytes": 181762,
+    "new_bytes": 181562,
+    "old_file": "data/hohunet_site_raw/html/product_s5624th-2z-ei-10g-24-ports-sfp-100g-uplink-half-width-sdvoe.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5612x12t-2z-ei-10g-half-width-sdvoe-switch/",
+    "title": "S5612X12TH-2Z-EI 12*10G SFP+, 12*10G Base-T and 2*100G QSFP28 Half-width Switches, 1*350W CRPS，1*Fan Module, support SDVoE - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5612x12t-2z-ei-10g-half-width-sdvoe-switch.html",
+    "old_sha8": "bb00e16b",
+    "new_sha8": "ae3ca348",
+    "old_bytes": 182688,
+    "new_bytes": 182416,
+    "old_file": "data/hohunet_site_raw/html/product_s5612x12t-2z-ei-10g-half-width-sdvoe-switch.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5648t-4x2z-si-10g-data-center-switch-with-48-x-10g-base-t-4-x-10g-sfp-2-x-100g-qsfp28-1-x-fixed-power-supply-6-x-fixed-fans/",
+    "title": "S5648T-4X2Z-SI 10G Data Center Switch with 48 x 10G Base-T, 4 x 10G SFP+, 2 x 100G QSFP28, 1 x fixed power supply, 6 x fixed fans - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5648t-4x2z-si-10g-data-center-switch-with-48-x-10g-base-t-4-x-10g-sfp-2-x-100g-qsfp28-1-x-fixed-power-supply-6-x-fixed-fans.html",
+    "old_sha8": "658e7e77",
+    "new_sha8": "0da8878a",
+    "old_bytes": 175649,
+    "new_bytes": 175985,
+    "old_file": "data/hohunet_site_raw/html/product_s5648t-4x2z-si-10g-data-center-switch-with-48-x-10g-base-t-4-x-10g-sfp-2-x-100g-qsfp28-1-x-fixed-power-supply-6-x-fixed-fans.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5524p-2q4x-si-gigabit-poe-managed-switch-40g-25g-10g-uplinks/",
+    "title": "S5524P-2Q4X-SI 24 Port 10/100/1000M BASE-T PoE+ 30W L3 Managed Ethernet Switch with 2*40Gb QSFP And 4*25G/10G Uplink, 1* 96W fixed power, 4* Fixed Fan - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5524p-2q4x-si-gigabit-poe-managed-switch-40g-25g-10g-uplinks.html",
+    "old_sha8": "19459608",
+    "new_sha8": "979c2efb",
+    "old_bytes": 177611,
+    "new_bytes": 177052,
+    "old_file": "data/hohunet_site_raw/html/product_s5524p-2q4x-si-gigabit-poe-managed-switch-40g-25g-10g-uplinks.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5524-2q4x-si-24-port-10-100-1000m-base-t-l3-managed-ethernet-switch-with-240gb-qsfp-and-425g-10g-uplink-196w-fixed-power-4-fixed-fan/",
+    "title": "S5524-2Q4X-SI 24 Port 10/100/1000M BASE-T L3 Managed Ethernet Switch with 2*40Gb QSFP And 4*25G/10G Uplink, 1*96W fixed power, 4* Fixed Fan - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5524-2q4x-si-24-port-10-100-1000m-base-t-l3-managed-ethernet-switch-with-240gb-qsfp-and-425g-10g-upli_f916fc60ab.html",
+    "old_sha8": "293eea6e",
+    "new_sha8": "43889617",
+    "old_bytes": 177133,
+    "new_bytes": 177528,
+    "old_file": "data/hohunet_site_raw/html/product_s5524-2q4x-si-24-port-10-100-1000m-base-t-l3-managed-ethernet-switch-with-240gb-qsfp-and-425g-10g-upli_f916fc60ab.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5548-2q4x-ei-l3-managed-switch-with-481000m-base-t-240g-qsfp-425g-sfp28-dual-power-modules-dual-fan-modules/",
+    "title": "S5548-2Q4X-EI L3 Managed Switch with 48*1000M Base-T, 2*40G QSFP, 4*25G SFP28, Dual Power Modules, Dual Fan Modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5548-2q4x-ei-l3-managed-switch-with-481000m-base-t-240g-qsfp-425g-sfp28-dual-power-modules-dual-fan-modules.html",
+    "old_sha8": "b5692021",
+    "new_sha8": "8b4db603",
+    "old_bytes": 176490,
+    "new_bytes": 176549,
+    "old_file": "data/hohunet_site_raw/html/product_s5548-2q4x-ei-l3-managed-switch-with-481000m-base-t-240g-qsfp-425g-sfp28-dual-power-modules-dual-fan-modules.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5524pb-2q4x-ei-l3-managed-poe-switch-with-241000m-base-t-240g-qsfp-425g-sfp28-dual-power-modules-dual-fan-modules/",
+    "title": "S5524PB-2Q4X-EI L3 Managed POE++ Switch with 24*1000M Base-T, 2*40G QSFP, 4*25G SFP28, Dual Power Modules, Dual Fan Modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5524pb-2q4x-ei-l3-managed-poe-switch-with-241000m-base-t-240g-qsfp-425g-sfp28-dual-power-modules-dual-fan-modules.html",
+    "old_sha8": "7fccee3a",
+    "new_sha8": "555160e1",
+    "old_bytes": 176675,
+    "new_bytes": 176971,
+    "old_file": "data/hohunet_site_raw/html/product_s5524pb-2q4x-ei-l3-managed-poe-switch-with-241000m-base-t-240g-qsfp-425g-sfp28-dual-power-modules-dual-fan-modules.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5524-2q4x-l3-managed-switch/",
+    "title": "S5524-2Q4X-EI L3 Managed Switch with 24*1000M Base-T, 2*40G QSFP, 4*25G SFP28, Dual Power Modules, Dual Fan Modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5524-2q4x-l3-managed-switch.html",
+    "old_sha8": "31360746",
+    "new_sha8": "c6c7a40a",
+    "old_bytes": 175790,
+    "new_bytes": 175845,
+    "old_file": "data/hohunet_site_raw/html/product_s5524-2q4x-l3-managed-switch.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5548-2q4x-si-48-port-10-100-1000m-base-t-l3-managed-ethernet-switch-with-240gb-qsfp-and-425g-10g-uplink-1-96w-fixed-power-4-fixed-fan/",
+    "title": "S5548-2Q4X-SI 48 Port 10/100/1000M BASE-T L3 Managed Ethernet Switch with 2*40Gb QSFP And 4*25G/10G Uplink, 1* 96W fixed power, 4* Fixed Fan - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5548-2q4x-si-48-port-10-100-1000m-base-t-l3-managed-ethernet-switch-with-240gb-qsfp-and-425g-10g-upli_064a2e0e01.html",
+    "old_sha8": "2553af74",
+    "new_sha8": "9eba9f54",
+    "old_bytes": 177423,
+    "new_bytes": 177141,
+    "old_file": "data/hohunet_site_raw/html/product_s5548-2q4x-si-48-port-10-100-1000m-base-t-l3-managed-ethernet-switch-with-240gb-qsfp-and-425g-10g-upli_064a2e0e01.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5548p-2q4x-ei-l3-managed-switch-with-481000m-base-tpoe-30w-240g-qsfp-425g-sfp28-dual-power-modules-dual-fan-modules/",
+    "title": "S5548P-2Q4X-EI L3 Managed Switch with 48*1000M Base-T(PoE+ 30W), 2*40G QSFP, 4*25G SFP28, Dual Power Modules, Dual Fan Modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5548p-2q4x-ei-l3-managed-switch-with-481000m-base-tpoe-30w-240g-qsfp-425g-sfp28-dual-power-modules-dual-fan-modules.html",
+    "old_sha8": "71b932e8",
+    "new_sha8": "fe69bc41",
+    "old_bytes": 177357,
+    "new_bytes": 176969,
+    "old_file": "data/hohunet_site_raw/html/product_s5548p-2q4x-ei-l3-managed-switch-with-481000m-base-tpoe-30w-240g-qsfp-425g-sfp28-dual-power-modules-dual-fan-modules.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5548pb-2q4x-ei-l3-managed-switch-with-481000m-base-tpoe-90w-240g-qsfp-425g-sfp28-dual-power-modules-dual-fan-modules/",
+    "title": "S5548PB-2Q4X-EI L3 Managed Switch with 48*1000M Base-T(PoE++ 90W), 2*40G QSFP, 4*25G SFP28, Dual Power Modules, Dual Fan Modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5548pb-2q4x-ei-l3-managed-switch-with-481000m-base-tpoe-90w-240g-qsfp-425g-sfp28-dual-power-modules-dual-fan-modules.html",
+    "old_sha8": "9c2cdf39",
+    "new_sha8": "a0d3904c",
+    "old_bytes": 177357,
+    "new_bytes": 176685,
+    "old_file": "data/hohunet_site_raw/html/product_s5548pb-2q4x-ei-l3-managed-switch-with-481000m-base-tpoe-90w-240g-qsfp-425g-sfp28-dual-power-modules-dual-fan-modules.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5548p-2q4x-si-48-x-10-100-1000mb-basetpoe30w-4-x-25g-sfp28-2-x-40g-qsfp-1fixed-power-4-fixed-fan/",
+    "title": "S5548P-2Q4X-SI 48 x 10/100/1000Mb BaseT(PoE+30W), 4 x 25G SFP28, 2 x 40G QSFP+, 1*fixed power, 4* Fixed Fan - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5548p-2q4x-si-48-x-10-100-1000mb-basetpoe30w-4-x-25g-sfp28-2-x-40g-qsfp-1fixed-power-4-fixed-fan.html",
+    "old_sha8": "8b622465",
+    "new_sha8": "ccba86be",
+    "old_bytes": 176356,
+    "new_bytes": 176199,
+    "old_file": "data/hohunet_site_raw/html/product_s5548p-2q4x-si-48-x-10-100-1000mb-basetpoe30w-4-x-25g-sfp28-2-x-40g-qsfp-1fixed-power-4-fixed-fan.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5016p-8t8n-ei-l3-managed-switch-with-16-x-100m-1g-2-5g-base-tpoe90w-8-x-10g-base-tpoe90w-8-x-25g-10g-sfp28/",
+    "title": "S5016P-8T8N-EI L3+ Managed Switch, with 16 x 100M/1G/2.5G Base-T(PoE++90W), 8 x 10G Base-T(PoE++90W), 8 x 25G/10G SFP28 - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5016p-8t8n-ei-l3-managed-switch-with-16-x-100m-1g-2-5g-base-tpoe90w-8-x-10g-base-tpoe90w-8-x-25g-10g-sfp28.html",
+    "old_sha8": "9acc31d4",
+    "new_sha8": "70695804",
+    "old_bytes": 175452,
+    "new_bytes": 175269,
+    "old_file": "data/hohunet_site_raw/html/product_s5016p-8t8n-ei-l3-managed-switch-with-16-x-100m-1g-2-5g-base-tpoe90w-8-x-10g-base-tpoe90w-8-x-25g-10g-sfp28.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5032p-16t8n-ei-l3-managed-switch-with-32-x-100m-1g-2-5g-base-tpoe90w-16-x-10g-base-tpoe90w-8-x-25g-10g-sfp28/",
+    "title": "S5032P-16T8N-EI L3+ Managed Switch, with 32 x 100M/1G/2.5G Base-T(PoE++90W), 16 x 10G Base-T(PoE++90W), 8 x 25G/10G SFP28 - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5032p-16t8n-ei-l3-managed-switch-with-32-x-100m-1g-2-5g-base-tpoe90w-16-x-10g-base-tpoe90w-8-x-25g-10g-sfp28.html",
+    "old_sha8": "9c7d3ba3",
+    "new_sha8": "4556fc46",
+    "old_bytes": 175053,
+    "new_bytes": 174845,
+    "old_file": "data/hohunet_site_raw/html/product_s5032p-16t8n-ei-l3-managed-switch-with-32-x-100m-1g-2-5g-base-tpoe90w-16-x-10g-base-tpoe90w-8-x-25g-10g-sfp28.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5040p-8t2q4n-ei-l3-managed-switch-with-40-x-100m-1g-2-5g-base-tpoe90w-10-x-10g-base-tpoe90w-2-x-1200w-crps-2-x-fan-modules/",
+    "title": "S5040P-8T2Q4N-EI L3+ Managed Switch, with 40 x 100M/1G/2.5G Base-T(PoE++90W), 10 x 10G Base-T(PoE++90W), 2 x 1200W CRPS, 2 x Fan modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5040p-8t2q4n-ei-l3-managed-switch-with-40-x-100m-1g-2-5g-base-tpoe90w-10-x-10g-base-tpoe90w-2-x-1200w-crps-2-x-fan-modules.html",
+    "old_sha8": "3634830f",
+    "new_sha8": "0b896c74",
+    "old_bytes": 175784,
+    "new_bytes": 176093,
+    "old_file": "data/hohunet_site_raw/html/product_s5040p-8t2q4n-ei-l3-managed-switch-with-40-x-100m-1g-2-5g-base-tpoe90w-10-x-10g-base-tpoe90w-2-x-1200w-crps-2-x-fan-modules.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5048-4x-2q-ei-25g-40g/",
+    "title": "S5048-4X-2Q-EI L3+ Managed Switch, with 48*2.5G Base-T, 4*25G and 2*40G uplinks, Dual Power, Smart Fans - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5048-4x-2q-ei-25g-40g.html",
+    "old_sha8": "4ba06279",
+    "new_sha8": "de87d3f4",
+    "old_bytes": 175446,
+    "new_bytes": 176061,
+    "old_file": "data/hohunet_site_raw/html/product_s5048-4x-2q-ei-25g-40g.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5048-4x-2q-si-25g-40g/",
+    "title": "S5048-4X-2Q-SI L3+ Managed Switch, with 48*2.5G Base-T, 4*25G and 2*40G uplinks, Smart Fans - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5048-4x-2q-si-25g-40g.html",
+    "old_sha8": "6c1648d9",
+    "new_sha8": "651ab552",
+    "old_bytes": 175543,
+    "new_bytes": 176435,
+    "old_file": "data/hohunet_site_raw/html/product_s5048-4x-2q-si-25g-40g.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s4624p-8n-ei-l3-managed-poe-switch-with-245g-base-t-825g-uplinks-dual-power-smart-fan-modules/",
+    "title": "S4624P-8N-EI L3+ Managed PoE++ Switch, with 24*5G BASE-T, 8*25G Uplinks, Dual Power, Smart Fan Modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s4624p-8n-ei-l3-managed-poe-switch-with-245g-base-t-825g-uplinks-dual-power-smart-fan-modules.html",
+    "old_sha8": "c49539bb",
+    "new_sha8": "f089eb51",
+    "old_bytes": 176682,
+    "new_bytes": 176883,
+    "old_file": "data/hohunet_site_raw/html/product_s4624p-8n-ei-l3-managed-poe-switch-with-245g-base-t-825g-uplinks-dual-power-smart-fan-modules.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s4624-8n-5g-25g/",
+    "title": "S4624T-8N-EI L3+ Managed witch, with 24*5G BASE-T, 8*25G Uplinks, Dual Power, Smart Fans - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s4624-8n-5g-25g.html",
+    "old_sha8": "a9cff282",
+    "new_sha8": "5bcc84da",
+    "old_bytes": 175865,
+    "new_bytes": 175448,
+    "old_file": "data/hohunet_site_raw/html/product_s4624-8n-5g-25g.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s4624t-2z-5g-100g/",
+    "title": "S4624T-2Z-EI L3+ Managed witch, with 2*100G QSFP28 uplinks, Dual Power, Smart Fan Modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s4624t-2z-5g-100g.html",
+    "old_sha8": "fd037c4b",
+    "new_sha8": "f73b1dc8",
+    "old_bytes": 175855,
+    "new_bytes": 175613,
+    "old_file": "data/hohunet_site_raw/html/product_s4624t-2z-5g-100g.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s4648t-4z-si-l3-managed-switch-with-481g-2-5g-5g-base-t-4100g-qsfp28-1fixed-power-supply-6fixed-fan/",
+    "title": "S4648T-4Z-SI L3+ Managed Switch, with 48*1G/2.5G/5G BASE-T, 4*100G QSFP28, 1*Fixed Power Supply, 6*Fixed Fan - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s4648t-4z-si-l3-managed-switch-with-481g-2-5g-5g-base-t-4100g-qsfp28-1fixed-power-supply-6fixed-fan.html",
+    "old_sha8": "dc81bd33",
+    "new_sha8": "26f9bd70",
+    "old_bytes": 173441,
+    "new_bytes": 173917,
+    "old_file": "data/hohunet_site_raw/html/product_s4648t-4z-si-l3-managed-switch-with-481g-2-5g-5g-base-t-4100g-qsfp28-1fixed-power-supply-6fixed-fan.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s4648t-4n2z-si-l3-managed-switch-with-48-x-100m-1g-2-5g-5g-base-t-4-x-10g-25g-sfp28-2-x-100g-qsfp28-1-x-200w-fixed-power-supply-6-x-fixed-fan/",
+    "title": "S4648T-4N2Z-SI L3+ Managed Switch, with 48 x 100M/1G/2.5G/5G Base-T, 4 x 10G/25G SFP28, 2 x 100G QSFP28, 1 x 200W fixed power supply, 6 x Fixed Fan - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s4648t-4n2z-si-l3-managed-switch-with-48-x-100m-1g-2-5g-5g-base-t-4-x-10g-25g-sfp28-2-x-100g-qsfp28-1-_30e5396421.html",
+    "old_sha8": "c533cd37",
+    "new_sha8": "8a8d199c",
+    "old_bytes": 176009,
+    "new_bytes": 176389,
+    "old_file": "data/hohunet_site_raw/html/product_s4648t-4n2z-si-l3-managed-switch-with-48-x-100m-1g-2-5g-5g-base-t-4-x-10g-25g-sfp28-2-x-100g-qsfp28-1-_30e5396421.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s4634t-1x2z-si-l3-managed-switch-with-34-x-100m-1g-2-5g-5g-base-t-1-x-10g-sfp-2-x-100g-qsfp28-4fixed-power-supply/",
+    "title": "S4634T-1X2Z-SI L3+ Managed Switch, with 34 x 100M/1G/2.5G/5G Base-T, 1 x 10G SFP+, 2 x 100G QSFP28, 1 x Fixed Power Supply, 4 x Fixed Fan - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s4634t-1x2z-si-l3-managed-switch-with-34-x-100m-1g-2-5g-5g-base-t-1-x-10g-sfp-2-x-100g-qsfp28-4fixed-power-supply.html",
+    "old_sha8": "27ab4cbe",
+    "new_sha8": "95c2578b",
+    "old_bytes": 174885,
+    "new_bytes": 174817,
+    "old_file": "data/hohunet_site_raw/html/product_s4634t-1x2z-si-l3-managed-switch-with-34-x-100m-1g-2-5g-5g-base-t-1-x-10g-sfp-2-x-100g-qsfp28-4fixed-power-supply.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s4624p-2z-ei-l3-managed-poe-switch-with-2100g-qsfp28-uplinks-dual-power-supplies-dual-hot-swappable-fans/",
+    "title": "S4624P-2Z-EI L3+ Managed PoE++ Switch, with 2*100G QSFP28 Uplink, dual power supplies, dual hot-swappable fans - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s4624p-2z-ei-l3-managed-poe-switch-with-2100g-qsfp28-uplinks-dual-power-supplies-dual-hot-swappable-fans.html",
+    "old_sha8": "99a8092c",
+    "new_sha8": "15e37359",
+    "old_bytes": 177227,
+    "new_bytes": 176590,
+    "old_file": "data/hohunet_site_raw/html/product_s4624p-2z-ei-l3-managed-poe-switch-with-2100g-qsfp28-uplinks-dual-power-supplies-dual-hot-swappable-fans.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5612x-16g8n2q-ei-38-ports-1g-10g-25g-40g/",
+    "title": "S5612X-16G8N2Q-EI 10G Enterprise and Campus Network Switch with 12*10G SFP+, 8*1GBase-T, 8*1G SFP, 8*25G SFP28, 2*40G QSFP, Dual power supply modules, 2 Hot-swap fan modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5612x-16g8n2q-ei-38-ports-1g-10g-25g-40g.html",
+    "old_sha8": "4f946773",
+    "new_sha8": "fefb7a4d",
+    "old_bytes": 177676,
+    "new_bytes": 177924,
+    "old_file": "data/hohunet_site_raw/html/product_s5612x-16g8n2q-ei-38-ports-1g-10g-25g-40g.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5624x-8n-ei-10g-optical-laryer-3-managed-switch-with-2410g-sfp-and-825g-sfp28-dual-power-supply-modules-2hot-swap-fan-modules/",
+    "title": "S5624X-8N-EI 10G Optical Laryer 3 Managed Switch, with 24*10G SFP+ and 8*25G SFP28, Dual power supply modules, 2*hot-swap fan modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5624x-8n-ei-10g-optical-laryer-3-managed-switch-with-2410g-sfp-and-825g-sfp28-dual-power-supply-modules-2hot-swap-fan-modules.html",
+    "old_sha8": "94a59f61",
+    "new_sha8": "fc77c02f",
+    "old_bytes": 173614,
+    "new_bytes": 173883,
+    "old_file": "data/hohunet_site_raw/html/product_s5624x-8n-ei-10g-optical-laryer-3-managed-switch-with-2410g-sfp-and-825g-sfp28-dual-power-supply-modules-2hot-swap-fan-modules.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5624x-2z-ei-10g-sfp-and-100g-data-center-evpn-l3-switch/",
+    "title": "S5624X-2Z-EI 10G Optical Data Center Switch，with 24*10G SFP+ and 2*100G QSFP28，Dual hot-backup Power Modules，Dual Fan Modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5624x-2z-ei-10g-sfp-and-100g-data-center-evpn-l3-switch.html",
+    "old_sha8": "5ebb649e",
+    "new_sha8": "2171029a",
+    "old_bytes": 176173,
+    "new_bytes": 175577,
+    "old_file": "data/hohunet_site_raw/html/product_s5624x-2z-ei-10g-sfp-and-100g-data-center-evpn-l3-switch.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5624p-8n-poe/",
+    "title": "S5624P-8N-EI 10G Enterprise and Campus Network Switch with 24*10G Base-T (PoE++90W), 8*25G SFP28, Dual power supply modules, 2*hot-swap fan modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5624p-8n-poe.html",
+    "old_sha8": "82f24c00",
+    "new_sha8": "b763e6e6",
+    "old_bytes": 176593,
+    "new_bytes": 176214,
+    "old_file": "data/hohunet_site_raw/html/product_s5624p-8n-poe.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5624t-8n-10g-25g/",
+    "title": "S5624T-8N-EI 10G Enterprise and Campus Network Switch with 24*10G Base-T, 8*25G QSFP28, Dual power supply modules, 2*hot-swap fan modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5624t-8n-10g-25g.html",
+    "old_sha8": "ead8cf75",
+    "new_sha8": "ccc1714c",
+    "old_bytes": 176739,
+    "new_bytes": 176519,
+    "old_file": "data/hohunet_site_raw/html/product_s5624t-8n-10g-25g.html"
+   },
+   {
+    "url": "https://hohunet.com/product/5624p-2z-sdvoe-10g-poe-90w/",
+    "title": "S5624P-2Z-EI 10G Enterprise and Campus Network Switch with 24*10G Base-T (PoE++90W), 2*100G QSFP28, Dual power supply modules, 2*hot-swap fan modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_5624p-2z-sdvoe-10g-poe-90w.html",
+    "old_sha8": "c54b3613",
+    "new_sha8": "769aef01",
+    "old_bytes": 177079,
+    "new_bytes": 177253,
+    "old_file": "data/hohunet_site_raw/html/product_5624p-2z-sdvoe-10g-poe-90w.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5648t-8z-10g-48-ports-rj45-multi-gigabit-l3-data-center-switch/",
+    "title": "S5648T-8Z-EI 10G Multi-gigabit L3+ Managed Switch, with 48*10G Base-T, 8*100G QSFP28, 1+1 CRPS, 4 Smart Fan Modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5648t-8z-10g-48-ports-rj45-multi-gigabit-l3-data-center-switch.html",
+    "old_sha8": "67f7d324",
+    "new_sha8": "0251c3f0",
+    "old_bytes": 176998,
+    "new_bytes": 177330,
+    "old_file": "data/hohunet_site_raw/html/product_s5648t-8z-10g-48-ports-rj45-multi-gigabit-l3-data-center-switch.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5624t-2z-1g-2-5g-5g-10g-managed-gigabit-switch/",
+    "title": "S5624T-2Z-EI L3+ Managed Optical Switch, with 24*10G BASE-T, 2*100G QSFP28 Uplinks, Dual Power, Dual Hot Swap Fans - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5624t-2z-1g-2-5g-5g-10g-managed-gigabit-switch.html",
+    "old_sha8": "3e12122f",
+    "new_sha8": "5a97796a",
+    "old_bytes": 175185,
+    "new_bytes": 175285,
+    "old_file": "data/hohunet_site_raw/html/product_s5624t-2z-1g-2-5g-5g-10g-managed-gigabit-switch.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s7548n-4z-ei-data-center-switch-with-4825g-sfp28-and-8100g-qsfp28-uplinks-dual-power-smart-fan/",
+    "title": "S7548N-4Z-EI Data Center Switch, with 48*25G SFP28 and 4*100G QSFP28 Uplinks, Dual Power, Smart Fan - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s7548n-4z-ei-data-center-switch-with-4825g-sfp28-and-8100g-qsfp28-uplinks-dual-power-smart-fan.html",
+    "old_sha8": "a4f0c701",
+    "new_sha8": "97de8889",
+    "old_bytes": 175366,
+    "new_bytes": 175160,
+    "old_file": "data/hohunet_site_raw/html/product_s7548n-4z-ei-data-center-switch-with-4825g-sfp28-and-8100g-qsfp28-uplinks-dual-power-smart-fan.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s7606x-2z-40g-100g-optical-switch/",
+    "title": "S7606X-2Z-EI 40G/100G Optical SDVoE Switch-Physical dual hot-backup in 1U - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s7606x-2z-40g-100g-optical-switch.html",
+    "old_sha8": "e28cec84",
+    "new_sha8": "7ee08c07",
+    "old_bytes": 181674,
+    "new_bytes": 182333,
+    "old_file": "data/hohunet_site_raw/html/product_s7606x-2z-40g-100g-optical-switch.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s7548n-8z-48-port-25g-sfp28-100g-qsfp28-data-center-switch-evpn/",
+    "title": "S7548N-8Z-EI Data Center Switch, with 48*25G SFP28 and 8*100G QSFP28 Uplinks, Dual Power, Smart Fan - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s7548n-8z-48-port-25g-sfp28-100g-qsfp28-data-center-switch-evpn.html",
+    "old_sha8": "7bf68e3a",
+    "new_sha8": "f24a2756",
+    "old_bytes": 176710,
+    "new_bytes": 176785,
+    "old_file": "data/hohunet_site_raw/html/product_s7548n-8z-48-port-25g-sfp28-100g-qsfp28-data-center-switch-evpn.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s7824z-32-port-100g-data-center-switch/",
+    "title": "S7832Z-EI Data Center Switch, with 32*100G QSFP28, Dual Power Modules, Smart Fan Modules, MPLS, EVPN, VxLAN - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s7824z-32-port-100g-data-center-switch.html",
+    "old_sha8": "baba31e0",
+    "new_sha8": "39d29719",
+    "old_bytes": 176343,
+    "new_bytes": 175892,
+    "old_file": "data/hohunet_site_raw/html/product_s7824z-32-port-100g-data-center-switch.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s8532-ei-data-center-switch-data-center-computing-ai/",
+    "title": "32×400G QSFP112 High-Density L3 Managed Data Center Ethernet Switch with Dual Power Modules, 6*Smart Fan Modules - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s8532-ei-data-center-switch-data-center-computing-ai.html",
+    "old_sha8": "b5adeb92",
+    "new_sha8": "de42d805",
+    "old_bytes": 174211,
+    "new_bytes": 173913,
+    "old_file": "data/hohunet_site_raw/html/product_s8532-ei-data-center-switch-data-center-computing-ai.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s5624xh-2z-si-10g-sdvoe-switch/",
+    "title": "S5624XH-2Z-SI 10G Optical SDVoE Switch，with 24*10G SFP+ and 2*100G QSFP28，1*150W Power Supply，2* Fixed Fan - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s5624xh-2z-si-10g-sdvoe-switch.html",
+    "old_sha8": "ee7fee4c",
+    "new_sha8": "50e2201e",
+    "old_bytes": 180849,
+    "new_bytes": 180782,
+    "old_file": "data/hohunet_site_raw/html/product_s5624xh-2z-si-10g-sdvoe-switch.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s3524h-4x-2-5g-24-port-l3-switch/",
+    "title": "S3524H-4X 2.5G L3 managed switch 24*10/100/1000M/2.5G, 4*10GE SFP+Half-width, two-node deployment - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s3524h-4x-2-5g-24-port-l3-switch.html",
+    "old_sha8": "5bb0d49a",
+    "new_sha8": "19f9adb1",
+    "old_bytes": 135117,
+    "new_bytes": 134936,
+    "old_file": "data/hohunet_site_raw/html/product_s3524h-4x-2-5g-24-port-l3-switch.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s3508-4x-10g/",
+    "title": "S3508-4X L3 Managed Switch, with 8*2.5G BASE-T and 4*10G SFP+ Uplinks - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s3508-4x-10g.html",
+    "old_sha8": "2b3d9883",
+    "new_sha8": "5a923f17",
+    "old_bytes": 118548,
+    "new_bytes": 118534,
+    "old_file": "data/hohunet_site_raw/html/product_s3508-4x-10g.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s3524ph-4x-l3-switch-poe-30w/",
+    "title": "S3524PH-4X 2.5G PoE+ 30W switch 24*10/100/1000M/2.5G, 4*10GE SFP+Half-width, two-node deployment - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s3524ph-4x-l3-switch-poe-30w.html",
+    "old_sha8": "9dfe5297",
+    "new_sha8": "7320bc95",
+    "old_bytes": 135221,
+    "new_bytes": 135217,
+    "old_file": "data/hohunet_site_raw/html/product_s3524ph-4x-l3-switch-poe-30w.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s2624ph-4x-10gb-uplink-24-port-gigabit-l3-managed-ethernet-poe-switch/",
+    "title": "S2624H-4X 10Gb Uplink 24 Port Gigabit L3 Managed Ethernet Switch, Half-width, support two-node deployment - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s2624ph-4x-10gb-uplink-24-port-gigabit-l3-managed-ethernet-poe-switch.html",
+    "old_sha8": "9c735ae6",
+    "new_sha8": "33f382c6",
+    "old_bytes": 151558,
+    "new_bytes": 151718,
+    "old_file": "data/hohunet_site_raw/html/product_s2624ph-4x-10gb-uplink-24-port-gigabit-l3-managed-ethernet-poe-switch.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s2624ph-4x-10gb-uplink-24-port-gigabit-l3-managed-ethernet-switch-half-width/",
+    "title": "S2624PH-4X 10Gb Uplink 24G PoE+30W Port L3 Managed Switch, Half-width, support two-node deployment - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s2624ph-4x-10gb-uplink-24-port-gigabit-l3-managed-ethernet-switch-half-width.html",
+    "old_sha8": "a807a67f",
+    "new_sha8": "200630cd",
+    "old_bytes": 151507,
+    "new_bytes": 151359,
+    "old_file": "data/hohunet_site_raw/html/product_s2624ph-4x-10gb-uplink-24-port-gigabit-l3-managed-ethernet-switch-half-width.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s2624sh-4x-24-port-1000mbps-sfp-4-port-10ge-sfp/",
+    "title": "S2624SH-4X 24*1000M SFP, 4*10GE SFP+ L3 managed switch, half-width, support two-node deployment - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s2624sh-4x-24-port-1000mbps-sfp-4-port-10ge-sfp.html",
+    "old_sha8": "2d838e9d",
+    "new_sha8": "deddbf97",
+    "old_bytes": 154083,
+    "new_bytes": 154265,
+    "old_file": "data/hohunet_site_raw/html/product_s2624sh-4x-24-port-1000mbps-sfp-4-port-10ge-sfp.html"
+   },
+   {
+    "url": "https://hohunet.com/product/10g-uplinks-24-ports-ethernet-2-5g-multi-gigabit-switch-redundant-power/",
+    "title": "S3524-6X-D 10G uplinks 24 Ports Ethernet 2.5G Multi Gigabit Switch Redundant Power - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_10g-uplinks-24-ports-ethernet-2-5g-multi-gigabit-switch-redundant-power.html",
+    "old_sha8": "44f2ad79",
+    "new_sha8": "797d0950",
+    "old_bytes": 132000,
+    "new_bytes": 131891,
+    "old_file": "data/hohunet_site_raw/html/product_10g-uplinks-24-ports-ethernet-2-5g-multi-gigabit-switch-redundant-power.html"
+   },
+   {
+    "url": "https://hohunet.com/product/10g-uplinks-24-ports-2-5g-multi-gigabit-switch/",
+    "title": "S3524-6X 10G uplinks 24 Ports 2.5G Multi Gigabit Switch - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_10g-uplinks-24-ports-2-5g-multi-gigabit-switch.html",
+    "old_sha8": "59c4a40d",
+    "new_sha8": "7bc3ec59",
+    "old_bytes": 131383,
+    "new_bytes": 131315,
+    "old_file": "data/hohunet_site_raw/html/product_10g-uplinks-24-ports-2-5g-multi-gigabit-switch.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s2624-4x-1ge/",
+    "title": "S2624-4X L3 Managed switch, with 24*1GE Base-T，4*10GE uplinks, Smart Fan - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s2624-4x-1ge.html",
+    "old_sha8": "d3bcd4e3",
+    "new_sha8": "ab951e28",
+    "old_bytes": 151933,
+    "new_bytes": 152358,
+    "old_file": "data/hohunet_site_raw/html/product_s2624-4x-1ge.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s2648-6x-1g-10g/",
+    "title": "S2648-6X L3 Managed switch, with 48*1G Base-T，6*10GE uplink, Dual Power(fixed), Smart Fan - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s2648-6x-1g-10g.html",
+    "old_sha8": "5a1cb999",
+    "new_sha8": "694a3b7e",
+    "old_bytes": 153514,
+    "new_bytes": 153490,
+    "old_file": "data/hohunet_site_raw/html/product_s2648-6x-1g-10g.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s2624-4x-10gb-uplink-24-port-gigabit-managed-ethernet-switch/",
+    "title": "S2624-4X 10Gb Uplink 24 Port Gigabit Managed Ethernet Switch(24*Gb Base-T and 4*10Gb SFP+) - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s2624-4x-10gb-uplink-24-port-gigabit-managed-ethernet-switch.html",
+    "old_sha8": "3d3451c7",
+    "new_sha8": "896ff233",
+    "old_bytes": 128567,
+    "new_bytes": 128937,
+    "old_file": "data/hohunet_site_raw/html/product_s2624-4x-10gb-uplink-24-port-gigabit-managed-ethernet-switch.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s2624p-4x-10g-uplink-24-port-gigabit-l3-managed-ethernet-poe-switch/",
+    "title": "S2624P-4X 10Gb Uplink 24 Port Gigabit L3 Managed Ethernet POE Switch - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s2624p-4x-10g-uplink-24-port-gigabit-l3-managed-ethernet-poe-switch.html",
+    "old_sha8": "dea77dc1",
+    "new_sha8": "fe301ec2",
+    "old_bytes": 124692,
+    "new_bytes": 124503,
+    "old_file": "data/hohunet_site_raw/html/product_s2624p-4x-10g-uplink-24-port-gigabit-l3-managed-ethernet-poe-switch.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s2648-4x-10g-uplink-48-port-gigabit-layer-3-managed-ethernet-switch/",
+    "title": "S2648-4X 10G Uplink 48 Port Gigabit Layer 3 Managed Ethernet Switch - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s2648-4x-10g-uplink-48-port-gigabit-layer-3-managed-ethernet-switch.html",
+    "old_sha8": "d2cdc564",
+    "new_sha8": "35806e2d",
+    "old_bytes": 128726,
+    "new_bytes": 128410,
+    "old_file": "data/hohunet_site_raw/html/product_s2648-4x-10g-uplink-48-port-gigabit-layer-3-managed-ethernet-switch.html"
+   },
+   {
+    "url": "https://hohunet.com/product/s2648p-4x-10g-uplink-48-ports-gigabit-l3-management-ethernet-poe-switch/",
+    "title": "S2648P-4X 10G Uplink 48 Ports Gigabit L3 Management Ethernet POE switch - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_s2648p-4x-10g-uplink-48-ports-gigabit-l3-management-ethernet-poe-switch.html",
+    "old_sha8": "bf254382",
+    "new_sha8": "acf7ac61",
+    "old_bytes": 129694,
+    "new_bytes": 129542,
+    "old_file": "data/hohunet_site_raw/html/product_s2648p-4x-10g-uplink-48-ports-gigabit-l3-management-ethernet-poe-switch.html"
+   }
+  ],
+  "markup_only": [
+   {
+    "url": "https://hohunet.com/",
+    "title": "Shenzhen Hohunet Technology Co., Ltd - For better networking！",
+    "file": "html/index.html",
+    "old_sha8": "d65277ce",
+    "new_sha8": "8d0be506",
+    "old_bytes": 262571,
+    "new_bytes": 262571
+   },
+   {
+    "url": "https://hohunet.com/products/",
+    "title": "Products - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/products.html",
+    "old_sha8": "59201883",
+    "new_sha8": "cfa15c6b",
+    "old_bytes": 115190,
+    "new_bytes": 115190
+   },
+   {
+    "url": "https://hohunet.com/product-category/data-center-network/",
+    "title": "Data Center Network - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_data-center-network.html",
+    "old_sha8": "837e241b",
+    "new_sha8": "d88e4d77",
+    "old_bytes": 115729,
+    "new_bytes": 115729
+   },
+   {
+    "url": "https://hohunet.com/product-category/data-center-network/800g-data-center-switch/",
+    "title": "S9500 800G - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_data-center-network_800g-data-center-switch.html",
+    "old_sha8": "07342a8c",
+    "new_sha8": "d927837c",
+    "old_bytes": 102857,
+    "new_bytes": 102857
+   },
+   {
+    "url": "https://hohunet.com/product-category/data-center-network/400g-data-center-switch/",
+    "title": "S8500 400G - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_data-center-network_400g-data-center-switch.html",
+    "old_sha8": "030c6431",
+    "new_sha8": "2cae0d53",
+    "old_bytes": 105079,
+    "new_bytes": 105079
+   },
+   {
+    "url": "https://hohunet.com/product-category/data-center-network/s8200-200g/",
+    "title": "S8200 200G - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_data-center-network_s8200-200g.html",
+    "old_sha8": "6d26588e",
+    "new_sha8": "7bf5b530",
+    "old_bytes": 102995,
+    "new_bytes": 102995
+   },
+   {
+    "url": "https://hohunet.com/product-category/data-center-network/100g-data-center-switch/",
+    "title": "S7800 100G - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_data-center-network_100g-data-center-switch.html",
+    "old_sha8": "b1701bab",
+    "new_sha8": "e55a8637",
+    "old_bytes": 107640,
+    "new_bytes": 107640
+   },
+   {
+    "url": "https://hohunet.com/product-category/data-center-network/s7600-50gdownlink100guplink/",
+    "title": "S7600 50GDownlink100GUplink - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_data-center-network_s7600-50gdownlink100guplink.html",
+    "old_sha8": "597f0d07",
+    "new_sha8": "aa065d6a",
+    "old_bytes": 103261,
+    "new_bytes": 103261
+   },
+   {
+    "url": "https://hohunet.com/product-category/data-center-network/40g-downlink-100g-uplink/",
+    "title": "S7600 40G Downlink 100G Uplink - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_data-center-network_40g-downlink-100g-uplink.html",
+    "old_sha8": "0c81796c",
+    "new_sha8": "6a83c6cf",
+    "old_bytes": 102972,
+    "new_bytes": 102972
+   },
+   {
+    "url": "https://hohunet.com/product-category/data-center-network/25g-downlink-100g-uplink/",
+    "title": "S7500 25G Downlink 100G Uplink - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_data-center-network_25g-downlink-100g-uplink.html",
+    "old_sha8": "aba84120",
+    "new_sha8": "efc5b18a",
+    "old_bytes": 110286,
+    "new_bytes": 110286
+   },
+   {
+    "url": "https://hohunet.com/product-category/data-center-network/s5700-10g-downlink-100g-uplink/",
+    "title": "S5700 10G Downlink 100G Uplink - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_data-center-network_s5700-10g-downlink-100g-uplink.html",
+    "old_sha8": "43339c0f",
+    "new_sha8": "1b3439f2",
+    "old_bytes": 113338,
+    "new_bytes": 113338
+   },
+   {
+    "url": "https://hohunet.com/product-category/data-center-network/10g-downlink-100g-25g-uplink/",
+    "title": "S5600 10G Downlink 100G/25G Uplink - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_data-center-network_10g-downlink-100g-25g-uplink.html",
+    "old_sha8": "c93be7bf",
+    "new_sha8": "c8f27cc5",
+    "old_bytes": 110429,
+    "new_bytes": 110429
+   },
+   {
+    "url": "https://hohunet.com/product-category/enterprise-network-and-campus-network/",
+    "title": "Enterprise and Campus Network - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_enterprise-network-and-campus-network.html",
+    "old_sha8": "a967855d",
+    "new_sha8": "70fc3906",
+    "old_bytes": 115865,
+    "new_bytes": 115865
+   },
+   {
+    "url": "https://hohunet.com/product-category/enterprise-network-and-campus-network/enterprise-100g-switch/",
+    "title": "S7600 40G Downlink 100G Uplink - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_enterprise-network-and-campus-network_enterprise-100g-switch.html",
+    "old_sha8": "893a37fc",
+    "new_sha8": "2ac28acd",
+    "old_bytes": 103041,
+    "new_bytes": 103041
+   },
+   {
+    "url": "https://hohunet.com/product-category/enterprise-network-and-campus-network/s5700-10g-downlink-100g-uplink-enterprise-network-and-campus-network/",
+    "title": "S5700 10G Downlink 100G Uplink - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_enterprise-network-and-campus-network_s5700-10g-downlink-100g-uplink-enterprise-network-and-campus-network.html",
+    "old_sha8": "6b0b9c3d",
+    "new_sha8": "f1217e80",
+    "old_bytes": 108682,
+    "new_bytes": 108682
+   },
+   {
+    "url": "https://hohunet.com/product-category/enterprise-network-and-campus-network/10g-enterprise-switch/",
+    "title": "S5600 10G Downlink 100G/25G Uplink - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_enterprise-network-and-campus-network_10g-enterprise-switch.html",
+    "old_sha8": "254549e4",
+    "new_sha8": "dcdd678f",
+    "old_bytes": 115393,
+    "new_bytes": 115393
+   },
+   {
+    "url": "https://hohunet.com/product-category/enterprise-network-and-campus-network/gigabit-enterprise-switch/",
+    "title": "S5500 1G Downlink 25G/40G Uplink - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_enterprise-network-and-campus-network_gigabit-enterprise-switch.html",
+    "old_sha8": "13f065c0",
+    "new_sha8": "335debfb",
+    "old_bytes": 116119,
+    "new_bytes": 116119
+   },
+   {
+    "url": "https://hohunet.com/product-category/enterprise-network-and-campus-network/2-5g-enterprise-switch/",
+    "title": "S5000 2.5G Downlink 25G/40G Uplink - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_enterprise-network-and-campus-network_2-5g-enterprise-switch.html",
+    "old_sha8": "e8dc23c7",
+    "new_sha8": "0cccc001",
+    "old_bytes": 112845,
+    "new_bytes": 112845
+   },
+   {
+    "url": "https://hohunet.com/product-category/enterprise-network-and-campus-network/5g-enterprise-switch/",
+    "title": "S4600 5G Downlink 25G/100G Uplink - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_enterprise-network-and-campus-network_5g-enterprise-switch.html",
+    "old_sha8": "22a4efcc",
+    "new_sha8": "6ee4a348",
+    "old_bytes": 115747,
+    "new_bytes": 115747
+   },
+   {
+    "url": "https://hohunet.com/product-category/enterprise-network-and-campus-network/s3700-1g-downlink-10g-uplink/",
+    "title": "S3700 1G DOWNLINK 10G UPLINK - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_enterprise-network-and-campus-network_s3700-1g-downlink-10g-uplink.html",
+    "old_sha8": "aec53f91",
+    "new_sha8": "b37af28e",
+    "old_bytes": 116037,
+    "new_bytes": 116037
+   },
+   {
+    "url": "https://hohunet.com/product-category/smb-switches/",
+    "title": "SMB Network - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_smb-switches.html",
+    "old_sha8": "b189ae57",
+    "new_sha8": "3cceaa64",
+    "old_bytes": 113392,
+    "new_bytes": 113392
+   },
+   {
+    "url": "https://hohunet.com/product-category/smb-switches/2-5g-smb-switches/",
+    "title": "S3500 2.5G Downlink 10G Uplink - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_smb-switches_2-5g-smb-switches.html",
+    "old_sha8": "1aec75ea",
+    "new_sha8": "e990e4ff",
+    "old_bytes": 111045,
+    "new_bytes": 111045
+   },
+   {
+    "url": "https://hohunet.com/product-category/smb-switches/gigabit-smb-switch/",
+    "title": "S2600 Gigabit Downlink 10G Uplink - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_smb-switches_gigabit-smb-switch.html",
+    "old_sha8": "3fa6239f",
+    "new_sha8": "04b3dc98",
+    "old_bytes": 114407,
+    "new_bytes": 114407
+   },
+   {
+    "url": "https://hohunet.com/product-category/industrial-switch/",
+    "title": "Industrial Switch - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_industrial-switch.html",
+    "old_sha8": "b60ef62b",
+    "new_sha8": "a620afea",
+    "old_bytes": 102581,
+    "new_bytes": 102581
+   },
+   {
+    "url": "https://hohunet.com/product-category/hohunet-cloud-management/",
+    "title": "DHCS (Da Hu Cloud System) - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_hohunet-cloud-management.html",
+    "old_sha8": "94a0f260",
+    "new_sha8": "88d54de8",
+    "old_bytes": 103134,
+    "new_bytes": 103134
+   },
+   {
+    "url": "https://hohunet.com/product-category/sonic-ecosystem/",
+    "title": "SONiC Ecosystem - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_sonic-ecosystem.html",
+    "old_sha8": "60826d97",
+    "new_sha8": "66d3d2e2",
+    "old_bytes": 102671,
+    "new_bytes": 102671
+   },
+   {
+    "url": "https://hohunet.com/exclusive-customization/",
+    "title": "Exclusive customization - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/exclusive-customization.html",
+    "old_sha8": "fd2fb826",
+    "new_sha8": "4195fe41",
+    "old_bytes": 111375,
+    "new_bytes": 111375
+   },
+   {
+    "url": "https://hohunet.com/service/use-mlag-to-construct-two-active-stacking/",
+    "title": "Use MLAG to construct Two-active Stacking - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/service_use-mlag-to-construct-two-active-stacking.html",
+    "old_sha8": "87bdfd78",
+    "new_sha8": "ae0156c3",
+    "old_bytes": 136873,
+    "new_bytes": 136873
+   },
+   {
+    "url": "https://hohunet.com/service/solutions-for-e-sport-club/",
+    "title": "HOHUNET 2.5G and 10G to Desktop Network Solutions hit the E-sport Club Needs - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/service_solutions-for-e-sport-club.html",
+    "old_sha8": "8dc6872a",
+    "new_sha8": "de12dbea",
+    "old_bytes": 123350,
+    "new_bytes": 123350
+   },
+   {
+    "url": "https://hohunet.com/service/data-center-network/",
+    "title": "Data Center Network - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/service_data-center-network.html",
+    "old_sha8": "cf47b44e",
+    "new_sha8": "3bad2277",
+    "old_bytes": 126892,
+    "new_bytes": 126892
+   },
+   {
+    "url": "https://hohunet.com/service/next-generation-2-5g-network-solution/",
+    "title": "Next Generation 2.5G Network Solution - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/service_next-generation-2-5g-network-solution.html",
+    "old_sha8": "438b8281",
+    "new_sha8": "fcb1bf6a",
+    "old_bytes": 142877,
+    "new_bytes": 142877
+   },
+   {
+    "url": "https://hohunet.com/service/non-blocking-uplink-solution-for-wifi6-network/",
+    "title": "Non-blocking Uplink Solution for WIFI6 Network - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/service_non-blocking-uplink-solution-for-wifi6-network.html",
+    "old_sha8": "56771a56",
+    "new_sha8": "69362240",
+    "old_bytes": 140801,
+    "new_bytes": 140801
+   },
+   {
+    "url": "https://hohunet.com/service/high-density-apples-ios-device-deployment-scheme/",
+    "title": "High-density Apple&#039;s IOS Device Deployment Scheme - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/service_high-density-apples-ios-device-deployment-scheme.html",
+    "old_sha8": "8e7603ad",
+    "new_sha8": "55db6827",
+    "old_bytes": 119752,
+    "new_bytes": 119752
+   },
+   {
+    "url": "https://hohunet.com/news/",
+    "title": "Blog - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/news.html",
+    "old_sha8": "2304f4f3",
+    "new_sha8": "4d146913",
+    "old_bytes": 118269,
+    "new_bytes": 118269
+   },
+   {
+    "url": "https://hohunet.com/company-profile/",
+    "title": "Company Profile - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/company-profile.html",
+    "old_sha8": "0d231853",
+    "new_sha8": "39a144ff",
+    "old_bytes": 156377,
+    "new_bytes": 156377
+   },
+   {
+    "url": "https://hohunet.com/product-customization-service/",
+    "title": "Product customization service - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-customization-service.html",
+    "old_sha8": "d0df5b90",
+    "new_sha8": "5699dbde",
+    "old_bytes": 111628,
+    "new_bytes": 111628
+   },
+   {
+    "url": "https://hohunet.com/manufacturing-partner/",
+    "title": "Manufacturing Partner - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/manufacturing-partner.html",
+    "old_sha8": "24b766e5",
+    "new_sha8": "e144791b",
+    "old_bytes": 106423,
+    "new_bytes": 106423
+   },
+   {
+    "url": "https://hohunet.com/certificate",
+    "title": "Certificate - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/certificate.html",
+    "old_sha8": "b5530a63",
+    "new_sha8": "01b52ff5",
+    "old_bytes": 111894,
+    "new_bytes": 111894
+   },
+   {
+    "url": "https://hohunet.com/join-us/",
+    "title": "Join Us - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/join-us.html",
+    "old_sha8": "6fb243ce",
+    "new_sha8": "a7a80206",
+    "old_bytes": 95475,
+    "new_bytes": 95475
+   },
+   {
+    "url": "https://hohunet.com/contact-us/",
+    "title": "Contact Us - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/contact-us.html",
+    "old_sha8": "d5424dbd",
+    "new_sha8": "500bdafa",
+    "old_bytes": 113633,
+    "new_bytes": 113633
+   },
+   {
+    "url": "https://hohunet.com/product/hohunet-cloud-management-platform-dhcs-delivering-unified-network-visibility-simplified-operations-and-continuous-business-growth/",
+    "title": "HOHUNET Cloud Management Platform-DHCS, Delivering Unified Network Visibility, Simplified Operations, and Continuous Business Growth - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_hohunet-cloud-management-platform-dhcs-delivering-unified-network-visibility-simplified-operations-and-continuous-business-growth.html",
+    "old_sha8": "59f8caa7",
+    "new_sha8": "01f91d49",
+    "old_bytes": 135013,
+    "new_bytes": 135013
+   },
+   {
+    "url": "https://hohunet.com/hohunet-new-generation-10g-switches-s5700/",
+    "title": "HOHUNET New Generation 10G Switches—S5700 - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/hohunet-new-generation-10g-switches-s5700.html",
+    "old_sha8": "545ce551",
+    "new_sha8": "a151f1f3",
+    "old_bytes": 102462,
+    "new_bytes": 102462
+   },
+   {
+    "url": "https://hohunet.com/hohunet-stacking-test-version-will-release-in-q2/",
+    "title": "HOHUNET stacking test version will release in Q2 - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/hohunet-stacking-test-version-will-release-in-q2.html",
+    "old_sha8": "167c25c8",
+    "new_sha8": "ff2182d4",
+    "old_bytes": 103597,
+    "new_bytes": 103597
+   },
+   {
+    "url": "https://hohunet.com/hohunet-800g-data-center-switch-is-coming-soon/",
+    "title": "HOHUNET 800G Data Center Switch is Coming Soon - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/hohunet-800g-data-center-switch-is-coming-soon.html",
+    "old_sha8": "2bd66451",
+    "new_sha8": "92f54c02",
+    "old_bytes": 103379,
+    "new_bytes": 103379
+   },
+   {
+    "url": "https://hohunet.com/happy-chinese-new-year-2025/",
+    "title": "HAPPY CHINESE NEW YEAR 2025 - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/happy-chinese-new-year-2025.html",
+    "old_sha8": "466b4ea7",
+    "new_sha8": "88e2d214",
+    "old_bytes": 103012,
+    "new_bytes": 103012
+   },
+   {
+    "url": "https://hohunet.com/dear-friends-happy-new-year-2025/",
+    "title": "Dear friends, Happy New Year 2025! - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/dear-friends-happy-new-year-2025.html",
+    "old_sha8": "63b40f25",
+    "new_sha8": "cd250311",
+    "old_bytes": 103327,
+    "new_bytes": 103327
+   },
+   {
+    "url": "https://hohunet.com/hohunet-s8532-ei-data-center-switch-with-32400g-qsfp112-dual-power-modules-6smart-fan-modules/",
+    "title": "HOHUNET S8532-EI Data Center Switch, with 32*400G QSFP112 - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/hohunet-s8532-ei-data-center-switch-with-32400g-qsfp112-dual-power-modules-6smart-fan-modules.html",
+    "old_sha8": "c924ba2d",
+    "new_sha8": "96f3aa4c",
+    "old_bytes": 103820,
+    "new_bytes": 103820
+   },
+   {
+    "url": "https://hohunet.com/hohunet-launch-new-generation-5g-multi-gigabit-switch/",
+    "title": "HOHUNET Launch New Generation 5G Multi-Gigabit Switch - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/hohunet-launch-new-generation-5g-multi-gigabit-switch.html",
+    "old_sha8": "7ac51d38",
+    "new_sha8": "cb352d41",
+    "old_bytes": 103814,
+    "new_bytes": 103814
+   },
+   {
+    "url": "https://hohunet.com/hohunet-dm-network-switches/",
+    "title": "A letter to all HOHUNET partners: HOUHUNET will realease DM to support customers - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/hohunet-dm-network-switches.html",
+    "old_sha8": "7d865c90",
+    "new_sha8": "79282546",
+    "old_bytes": 104000,
+    "new_bytes": 104000
+   },
+   {
+    "url": "https://hohunet.com/5g-for-all-hohunet-joins-hands-with-shunwang-intel-maxsun-and-other-manufacturers-to-create-a-new-future-of-e-sports-ecology/",
+    "title": "5G for ALL, HOHUNET together with Shunwang, Intel, Maxsun to create a new future of E-sports ecology! - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/5g-for-all-hohunet-joins-hands-with-shunwang-intel-maxsun-and-other-manufacturers-to-create-a-new-future-of-e-sports-ecology.html",
+    "old_sha8": "1c1ac83d",
+    "new_sha8": "5dbee7ff",
+    "old_bytes": 109365,
+    "new_bytes": 109365
+   },
+   {
+    "url": "https://hohunet.com/hohunet-will-participate-in-the-uzbekistan-ict-week-2024-exhibition-share-full-series-switches-all-based-on-chinese-top1-switching-chip/",
+    "title": "HOHUNET will participate in the Uzbekistan ICT week 2024 exhibition - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/hohunet-will-participate-in-the-uzbekistan-ict-week-2024-exhibition-share-full-series-switches-all-based-on-chinese-top1-switching-chip.html",
+    "old_sha8": "5bcdf338",
+    "new_sha8": "681d66fb",
+    "old_bytes": 107335,
+    "new_bytes": 107335
+   },
+   {
+    "url": "https://hohunet.com/gitex-global-2024-grow-together-win-in-the-network-industrial/",
+    "title": "GITEX GLOBAL 2024: Grow Together, Win in the Network Industrial - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/gitex-global-2024-grow-together-win-in-the-network-industrial.html",
+    "old_sha8": "264ba45c",
+    "new_sha8": "848ab5ec",
+    "old_bytes": 105461,
+    "new_bytes": 105461
+   },
+   {
+    "url": "https://hohunet.com/hohunet-will-participate-in-the-gitex-global-2024/",
+    "title": "HOHUNET will participate in the GITEX GLOBAL 2024 - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/hohunet-will-participate-in-the-gitex-global-2024.html",
+    "old_sha8": "684fa2e0",
+    "new_sha8": "597c411c",
+    "old_bytes": 104823,
+    "new_bytes": 104823
+   },
+   {
+    "url": "https://hohunet.com/hohunet-opens-uzbekistan-market-in-ict-week-2024/",
+    "title": "HOHUNET Opens Uzbekistan market in ICT week 2024 - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/hohunet-opens-uzbekistan-market-in-ict-week-2024.html",
+    "old_sha8": "3c225f33",
+    "new_sha8": "0428290e",
+    "old_bytes": 107397,
+    "new_bytes": 107397
+   },
+   {
+    "url": "https://hohunet.com/hohunet-at-at-infocomm-china-2024-the-1280-node-sdvoe-solution-is-being-showcased/",
+    "title": "HOHUNET at at Infocomm China 2024, The 1280-node SDVoE solution is being showcased - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/hohunet-at-at-infocomm-china-2024-the-1280-node-sdvoe-solution-is-being-showcased.html",
+    "old_sha8": "a31518a1",
+    "new_sha8": "0909f51d",
+    "old_bytes": 105589,
+    "new_bytes": 105589
+   },
+   {
+    "url": "https://hohunet.com/hohunet-will-attend-the-infocomm-sdvoe-alliance-exhibition-in-beijing/",
+    "title": "HOHUNET will attend the InfoComm SDVoE Alliance exhibition in Beijing - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/hohunet-will-attend-the-infocomm-sdvoe-alliance-exhibition-in-beijing.html",
+    "old_sha8": "cbe21b6a",
+    "new_sha8": "a575e01e",
+    "old_bytes": 105390,
+    "new_bytes": 105390
+   },
+   {
+    "url": "https://hohunet.com/configure-gre-for-ipv4-network-communication/",
+    "title": "Configure GRE for IPv4 Network Communication - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/configure-gre-for-ipv4-network-communication.html",
+    "old_sha8": "7b828c6b",
+    "new_sha8": "e157202b",
+    "old_bytes": 108423,
+    "new_bytes": 108423
+   },
+   {
+    "url": "https://hohunet.com/example-of-the-test-configuration-for-the-smart-config/",
+    "title": "Example of the test configuration for the Smart-config - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/example-of-the-test-configuration-for-the-smart-config.html",
+    "old_sha8": "357362c0",
+    "new_sha8": "622aa918",
+    "old_bytes": 110036,
+    "new_bytes": 110036
+   },
+   {
+    "url": "https://hohunet.com/examples-of-active-active-connect-to-vxlan-network-and-distributed-gateway/",
+    "title": "Examples of Active-Active Connect to VXLAN - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/examples-of-active-active-connect-to-vxlan-network-and-distributed-gateway.html",
+    "old_sha8": "6a046c7c",
+    "new_sha8": "21739680",
+    "old_bytes": 118471,
+    "new_bytes": 118471
+   },
+   {
+    "url": "https://hohunet.com/hohunet-joined-the-sdvoe-alliance/",
+    "title": "HOHUNET Joined the SDVoE Alliance - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/hohunet-joined-the-sdvoe-alliance.html",
+    "old_sha8": "31ffd288",
+    "new_sha8": "01ad3d1c",
+    "old_bytes": 104972,
+    "new_bytes": 104972
+   },
+   {
+    "url": "https://hohunet.com/haohu-will-participate-in-the-2023-beijing-communication-exhibition/",
+    "title": "Haohu will participate in the 2023 Beijing Communication Exhibition - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/haohu-will-participate-in-the-2023-beijing-communication-exhibition.html",
+    "old_sha8": "837d5ce6",
+    "new_sha8": "eead18ce",
+    "old_bytes": 104746,
+    "new_bytes": 104746
+   },
+   {
+    "url": "https://hohunet.com/new-24-ports-2-5g-series-switches/",
+    "title": "New 24 Ports 2.5G Multi-gigabit Switches is coming - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/new-24-ports-2-5g-series-switches.html",
+    "old_sha8": "ed5e448a",
+    "new_sha8": "7cfc11f2",
+    "old_bytes": 107651,
+    "new_bytes": 107651
+   },
+   {
+    "url": "https://hohunet.com/the-magic-hot-backup-switch-in-1u-space/",
+    "title": "HOHUNET Released the Magic hot backup system in 1U space Switch - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/the-magic-hot-backup-switch-in-1u-space.html",
+    "old_sha8": "593097e0",
+    "new_sha8": "a2e5c194",
+    "old_bytes": 109155,
+    "new_bytes": 109155
+   },
+   {
+    "url": "https://hohunet.com/hohunet-2-5g-high-density-l3-switch-coming-to-ces/",
+    "title": "HOHUNET 2.5G High-density L3+ Switch coming to CES! - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/hohunet-2-5g-high-density-l3-switch-coming-to-ces.html",
+    "old_sha8": "89df46b5",
+    "new_sha8": "9f1c0273",
+    "old_bytes": 106508,
+    "new_bytes": 106508
+   },
+   {
+    "url": "https://hohunet.com/centec-networks-unveils-tsingma-ethernet-switching-silicon-for-5g-transport-and-edge-computing-networks/",
+    "title": "Centec Networks Unveils TsingMa™ Ethernet Switching Silicon for 5G Transport and Edge Computing Networks - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/centec-networks-unveils-tsingma-ethernet-switching-silicon-for-5g-transport-and-edge-computing-networks.html",
+    "old_sha8": "94ff337c",
+    "new_sha8": "6cc91c79",
+    "old_bytes": 111172,
+    "new_bytes": 111172
+   },
+   {
+    "url": "https://hohunet.com/the-new-celanese-chief-pushes-customer-facing-strategy/",
+    "title": "HOHUNET High-density 2.5g Ethernet Switch available! - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/the-new-celanese-chief-pushes-customer-facing-strategy.html",
+    "old_sha8": "1007c016",
+    "new_sha8": "cca1baf6",
+    "old_bytes": 109116,
+    "new_bytes": 109116
+   },
+   {
+    "url": "https://hohunet.com/centec-ctc8180-switch-chip-arrival/",
+    "title": "CENTEC CTC8180 switch chip arrival - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/centec-ctc8180-switch-chip-arrival.html",
+    "old_sha8": "f5cfa986",
+    "new_sha8": "1a1075ae",
+    "old_bytes": 107395,
+    "new_bytes": 107395
+   },
+   {
+    "url": "https://hohunet.com/hohunet-launched-all-in-one-core-switch-for-1000-persons-network/",
+    "title": "HOHUNET launched all-in-one core switch for 1000-persons network - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/hohunet-launched-all-in-one-core-switch-for-1000-persons-network.html",
+    "old_sha8": "600048ef",
+    "new_sha8": "f5a6bf27",
+    "old_bytes": 109714,
+    "new_bytes": 109714
+   },
+   {
+    "url": "https://hohunet.com/hohunet-s5624p-poe-switch-performed-well-in-the-joint-test-with-huawei-air-engine8760the-highest-performance-in-the-industry/",
+    "title": "HOHUNET S5624P POE++ Switch performed well in the joint test with HUAWEI Air Engine8760(the highest performance in the industry) - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/hohunet-s5624p-poe-switch-performed-well-in-the-joint-test-with-huawei-air-engine8760the-highest-performance-in-the-industry.html",
+    "old_sha8": "eebaee8e",
+    "new_sha8": "48e1ec94",
+    "old_bytes": 111443,
+    "new_bytes": 111443
+   },
+   {
+    "url": "https://hohunet.com/certificate/",
+    "title": "Certificate - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/certificate.html",
+    "old_sha8": "b5530a63",
+    "new_sha8": "01b52ff5",
+    "old_bytes": 111894,
+    "new_bytes": 111894
+   },
+   {
+    "url": "https://hohunet.com/company-history/",
+    "title": "Company History - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/company-history.html",
+    "old_sha8": "ad341fa0",
+    "new_sha8": "37be5265",
+    "old_bytes": 120071,
+    "new_bytes": 120071
+   },
+   {
+    "url": "https://hohunet.com/service/",
+    "title": "Service - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/service.html",
+    "old_sha8": "541a3fa1",
+    "new_sha8": "28513a85",
+    "old_bytes": 108120,
+    "new_bytes": 108120
+   },
+   {
+    "url": "https://hohunet.com/footer/",
+    "title": "Footers - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/footer.html",
+    "old_sha8": "ac6205b4",
+    "new_sha8": "06a7ff85",
+    "old_bytes": 97159,
+    "new_bytes": 97159
+   },
+   {
+    "url": "https://hohunet.com/footer/footer-main/",
+    "title": "Footer Main - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/footer_footer-main.html",
+    "old_sha8": "9ed8fc9c",
+    "new_sha8": "12197b90",
+    "old_bytes": 112713,
+    "new_bytes": 112713
+   },
+   {
+    "url": "https://hohunet.com/product/empowering-open-networking-accelerating-commercial-sonic-deployment-based-on-centec-chip/",
+    "title": "Empowering Open Networking: Accelerating Commercial SONiC Deployment Based on Centec Chip - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_empowering-open-networking-accelerating-commercial-sonic-deployment-based-on-centec-chip.html",
+    "old_sha8": "fa8fe48d",
+    "new_sha8": "b43ba726",
+    "old_bytes": 114326,
+    "new_bytes": 114326
+   },
+   {
+    "url": "https://hohunet.com/product/is2624-industrial-switch-gigabit/",
+    "title": "IS2624 Gigabit Transformer Substation Ethernet Industrial Switch, with 24*1G Base-T and 4*1G Base-X SFP - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product_is2624-industrial-switch-gigabit.html",
+    "old_sha8": "412bd6bd",
+    "new_sha8": "79b004b5",
+    "old_bytes": 112691,
+    "new_bytes": 112691
+   },
+   {
+    "url": "https://hohunet.com/category/news/",
+    "title": "News - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/category_news.html",
+    "old_sha8": "41495783",
+    "new_sha8": "5b21e7ea",
+    "old_bytes": 114874,
+    "new_bytes": 114874
+   },
+   {
+    "url": "https://hohunet.com/products/page/2/",
+    "title": "Products - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/products_page_2.html",
+    "old_sha8": "f457b2ca",
+    "new_sha8": "0670283f",
+    "old_bytes": 115990,
+    "new_bytes": 115990
+   },
+   {
+    "url": "https://hohunet.com/products/page/15/",
+    "title": "Products - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/products_page_15.html",
+    "old_sha8": "6b43e51b",
+    "new_sha8": "9cb9f361",
+    "old_bytes": 112055,
+    "new_bytes": 112055
+   },
+   {
+    "url": "https://hohunet.com/product-category/data-center-network/page/2/",
+    "title": "Data Center Network - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_data-center-network_page_2.html",
+    "old_sha8": "a84a65d4",
+    "new_sha8": "5fe5b577",
+    "old_bytes": 114661,
+    "new_bytes": 114661
+   },
+   {
+    "url": "https://hohunet.com/product-category/data-center-network/page/4/",
+    "title": "Data Center Network - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_data-center-network_page_4.html",
+    "old_sha8": "e2f1ad2c",
+    "new_sha8": "1cbb2d31",
+    "old_bytes": 110752,
+    "new_bytes": 110752
+   },
+   {
+    "url": "https://hohunet.com/product-category/enterprise-network-and-campus-network/page/2/",
+    "title": "Enterprise and Campus Network - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_enterprise-network-and-campus-network_page_2.html",
+    "old_sha8": "8dc5aad1",
+    "new_sha8": "1e892185",
+    "old_bytes": 116308,
+    "new_bytes": 116308
+   },
+   {
+    "url": "https://hohunet.com/product-category/enterprise-network-and-campus-network/page/9/",
+    "title": "Enterprise and Campus Network - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_enterprise-network-and-campus-network_page_9.html",
+    "old_sha8": "de3ffe9c",
+    "new_sha8": "2fe92e55",
+    "old_bytes": 115982,
+    "new_bytes": 115982
+   },
+   {
+    "url": "https://hohunet.com/product-category/enterprise-network-and-campus-network/10g-enterprise-switch/page/2/",
+    "title": "S5600 10G Downlink 100G/25G Uplink - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_enterprise-network-and-campus-network_10g-enterprise-switch_page_2.html",
+    "old_sha8": "4f625c55",
+    "new_sha8": "ee4377ee",
+    "old_bytes": 116733,
+    "new_bytes": 116733
+   },
+   {
+    "url": "https://hohunet.com/product-category/enterprise-network-and-campus-network/10g-enterprise-switch/page/3/",
+    "title": "S5600 10G Downlink 100G/25G Uplink - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_enterprise-network-and-campus-network_10g-enterprise-switch_page_3.html",
+    "old_sha8": "e35c9154",
+    "new_sha8": "fa84c73c",
+    "old_bytes": 113272,
+    "new_bytes": 113272
+   },
+   {
+    "url": "https://hohunet.com/product-category/enterprise-network-and-campus-network/gigabit-enterprise-switch/page/2/",
+    "title": "S5500 1G Downlink 25G/40G Uplink - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_enterprise-network-and-campus-network_gigabit-enterprise-switch_page_2.html",
+    "old_sha8": "95e1bbc4",
+    "new_sha8": "4a44256a",
+    "old_bytes": 108986,
+    "new_bytes": 108986
+   },
+   {
+    "url": "https://hohunet.com/product-category/enterprise-network-and-campus-network/5g-enterprise-switch/page/2/",
+    "title": "S4600 5G Downlink 25G/100G Uplink - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_enterprise-network-and-campus-network_5g-enterprise-switch_page_2.html",
+    "old_sha8": "042d0518",
+    "new_sha8": "cd7c83da",
+    "old_bytes": 104021,
+    "new_bytes": 104021
+   },
+   {
+    "url": "https://hohunet.com/product-category/enterprise-network-and-campus-network/s3700-1g-downlink-10g-uplink/page/2/",
+    "title": "S3700 1G DOWNLINK 10G UPLINK - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_enterprise-network-and-campus-network_s3700-1g-downlink-10g-uplink_page_2.html",
+    "old_sha8": "ede1dda2",
+    "new_sha8": "ade4fe03",
+    "old_bytes": 113729,
+    "new_bytes": 113729
+   },
+   {
+    "url": "https://hohunet.com/product-category/smb-switches/page/2/",
+    "title": "SMB Network - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_smb-switches_page_2.html",
+    "old_sha8": "7e86e21f",
+    "new_sha8": "92bf9e13",
+    "old_bytes": 113860,
+    "new_bytes": 113860
+   },
+   {
+    "url": "https://hohunet.com/product-category/smb-switches/gigabit-smb-switch/page/2/",
+    "title": "S2600 Gigabit Downlink 10G Uplink - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_smb-switches_gigabit-smb-switch_page_2.html",
+    "old_sha8": "2d189280",
+    "new_sha8": "d84438b2",
+    "old_bytes": 103446,
+    "new_bytes": 103446
+   },
+   {
+    "url": "https://hohunet.com/author/hohunet/",
+    "title": "hohunet - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/author_hohunet.html",
+    "old_sha8": "cdaabb11",
+    "new_sha8": "09cb4491",
+    "old_bytes": 114711,
+    "new_bytes": 114711
+   },
+   {
+    "url": "https://hohunet.com/category/news/page/2/",
+    "title": "News - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/category_news_page_2.html",
+    "old_sha8": "93652673",
+    "new_sha8": "8db055c1",
+    "old_bytes": 118863,
+    "new_bytes": 118863
+   },
+   {
+    "url": "https://hohunet.com/category/news/page/3/",
+    "title": "News - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/category_news_page_3.html",
+    "old_sha8": "b80a6087",
+    "new_sha8": "a0b6917e",
+    "old_bytes": 115620,
+    "new_bytes": 115620
+   },
+   {
+    "url": "https://hohunet.com/products/page/3/",
+    "title": "Products - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/products_page_3.html",
+    "old_sha8": "3c994407",
+    "new_sha8": "663be8ac",
+    "old_bytes": 116103,
+    "new_bytes": 116103
+   },
+   {
+    "url": "https://hohunet.com/products/page/1/",
+    "title": "Products - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/products_page_1.html",
+    "old_sha8": "59201883",
+    "new_sha8": "cfa15c6b",
+    "old_bytes": 115190,
+    "new_bytes": 115190
+   },
+   {
+    "url": "https://hohunet.com/products/page/14/",
+    "title": "Products - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/products_page_14.html",
+    "old_sha8": "bed98e3d",
+    "new_sha8": "86717249",
+    "old_bytes": 113967,
+    "new_bytes": 113967
+   },
+   {
+    "url": "https://hohunet.com/product-category/data-center-network/page/3/",
+    "title": "Data Center Network - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_data-center-network_page_3.html",
+    "old_sha8": "8f8edc8a",
+    "new_sha8": "5e650d9c",
+    "old_bytes": 116136,
+    "new_bytes": 116136
+   },
+   {
+    "url": "https://hohunet.com/product-category/data-center-network/page/1/",
+    "title": "Data Center Network - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_data-center-network_page_1.html",
+    "old_sha8": "837e241b",
+    "new_sha8": "d88e4d77",
+    "old_bytes": 115729,
+    "new_bytes": 115729
+   },
+   {
+    "url": "https://hohunet.com/product-category/enterprise-network-and-campus-network/page/3/",
+    "title": "Enterprise and Campus Network - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_enterprise-network-and-campus-network_page_3.html",
+    "old_sha8": "1f5f1517",
+    "new_sha8": "fc683c8b",
+    "old_bytes": 116440,
+    "new_bytes": 116440
+   },
+   {
+    "url": "https://hohunet.com/product-category/enterprise-network-and-campus-network/page/1/",
+    "title": "Enterprise and Campus Network - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_enterprise-network-and-campus-network_page_1.html",
+    "old_sha8": "a967855d",
+    "new_sha8": "70fc3906",
+    "old_bytes": 115865,
+    "new_bytes": 115865
+   },
+   {
+    "url": "https://hohunet.com/product-category/enterprise-network-and-campus-network/page/8/",
+    "title": "Enterprise and Campus Network - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_enterprise-network-and-campus-network_page_8.html",
+    "old_sha8": "de9b7a7d",
+    "new_sha8": "389339c4",
+    "old_bytes": 115806,
+    "new_bytes": 115806
+   },
+   {
+    "url": "https://hohunet.com/product-category/enterprise-network-and-campus-network/10g-enterprise-switch/page/1/",
+    "title": "S5600 10G Downlink 100G/25G Uplink - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_enterprise-network-and-campus-network_10g-enterprise-switch_page_1.html",
+    "old_sha8": "254549e4",
+    "new_sha8": "dcdd678f",
+    "old_bytes": 115393,
+    "new_bytes": 115393
+   },
+   {
+    "url": "https://hohunet.com/product-category/enterprise-network-and-campus-network/gigabit-enterprise-switch/page/1/",
+    "title": "S5500 1G Downlink 25G/40G Uplink - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_enterprise-network-and-campus-network_gigabit-enterprise-switch_page_1.html",
+    "old_sha8": "13f065c0",
+    "new_sha8": "335debfb",
+    "old_bytes": 116119,
+    "new_bytes": 116119
+   },
+   {
+    "url": "https://hohunet.com/product-category/enterprise-network-and-campus-network/5g-enterprise-switch/page/1/",
+    "title": "S4600 5G Downlink 25G/100G Uplink - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_enterprise-network-and-campus-network_5g-enterprise-switch_page_1.html",
+    "old_sha8": "22a4efcc",
+    "new_sha8": "6ee4a348",
+    "old_bytes": 115747,
+    "new_bytes": 115747
+   },
+   {
+    "url": "https://hohunet.com/product-category/enterprise-network-and-campus-network/s3700-1g-downlink-10g-uplink/page/1/",
+    "title": "S3700 1G DOWNLINK 10G UPLINK - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_enterprise-network-and-campus-network_s3700-1g-downlink-10g-uplink_page_1.html",
+    "old_sha8": "aec53f91",
+    "new_sha8": "b37af28e",
+    "old_bytes": 116037,
+    "new_bytes": 116037
+   },
+   {
+    "url": "https://hohunet.com/product-category/smb-switches/page/1/",
+    "title": "SMB Network - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_smb-switches_page_1.html",
+    "old_sha8": "b189ae57",
+    "new_sha8": "3cceaa64",
+    "old_bytes": 113392,
+    "new_bytes": 113392
+   },
+   {
+    "url": "https://hohunet.com/product-category/smb-switches/gigabit-smb-switch/page/1/",
+    "title": "S2600 Gigabit Downlink 10G Uplink - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_smb-switches_gigabit-smb-switch_page_1.html",
+    "old_sha8": "3fa6239f",
+    "new_sha8": "04b3dc98",
+    "old_bytes": 114407,
+    "new_bytes": 114407
+   },
+   {
+    "url": "https://hohunet.com/author/hohunet/page/2/",
+    "title": "hohunet - Shenzhen Hohunet Technology Co., Ltd - Page 2 of 2",
+    "file": "html/author_hohunet_page_2.html",
+    "old_sha8": "51185cc0",
+    "new_sha8": "e178bca2",
+    "old_bytes": 111708,
+    "new_bytes": 111708
+   },
+   {
+    "url": "https://hohunet.com/products/page/4/",
+    "title": "Products - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/products_page_4.html",
+    "old_sha8": "3834d8d5",
+    "new_sha8": "e2326732",
+    "old_bytes": 115056,
+    "new_bytes": 115056
+   },
+   {
+    "url": "https://hohunet.com/products/page/13/",
+    "title": "Products - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/products_page_13.html",
+    "old_sha8": "22b211b3",
+    "new_sha8": "ca7a8664",
+    "old_bytes": 116216,
+    "new_bytes": 116216
+   },
+   {
+    "url": "https://hohunet.com/product-category/enterprise-network-and-campus-network/page/4/",
+    "title": "Enterprise and Campus Network - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_enterprise-network-and-campus-network_page_4.html",
+    "old_sha8": "052a0676",
+    "new_sha8": "8f963b46",
+    "old_bytes": 115656,
+    "new_bytes": 115656
+   },
+   {
+    "url": "https://hohunet.com/product-category/enterprise-network-and-campus-network/page/7/",
+    "title": "Enterprise and Campus Network - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_enterprise-network-and-campus-network_page_7.html",
+    "old_sha8": "cc37702a",
+    "new_sha8": "7e465dc0",
+    "old_bytes": 115942,
+    "new_bytes": 115942
+   },
+   {
+    "url": "https://hohunet.com/products/page/5/",
+    "title": "Products - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/products_page_5.html",
+    "old_sha8": "0f109287",
+    "new_sha8": "0296bc91",
+    "old_bytes": 115623,
+    "new_bytes": 115623
+   },
+   {
+    "url": "https://hohunet.com/products/page/12/",
+    "title": "Products - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/products_page_12.html",
+    "old_sha8": "2017ae14",
+    "new_sha8": "c3edb509",
+    "old_bytes": 115457,
+    "new_bytes": 115457
+   },
+   {
+    "url": "https://hohunet.com/product-category/enterprise-network-and-campus-network/page/5/",
+    "title": "Enterprise and Campus Network - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_enterprise-network-and-campus-network_page_5.html",
+    "old_sha8": "5e94de2d",
+    "new_sha8": "d66f3347",
+    "old_bytes": 116491,
+    "new_bytes": 116491
+   },
+   {
+    "url": "https://hohunet.com/product-category/enterprise-network-and-campus-network/page/6/",
+    "title": "Enterprise and Campus Network - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/product-category_enterprise-network-and-campus-network_page_6.html",
+    "old_sha8": "71a933f1",
+    "new_sha8": "12377d59",
+    "old_bytes": 116802,
+    "new_bytes": 116802
+   },
+   {
+    "url": "https://hohunet.com/products/page/6/",
+    "title": "Products - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/products_page_6.html",
+    "old_sha8": "cbd5de97",
+    "new_sha8": "0f31f817",
+    "old_bytes": 116568,
+    "new_bytes": 116568
+   },
+   {
+    "url": "https://hohunet.com/products/page/11/",
+    "title": "Products - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/products_page_11.html",
+    "old_sha8": "9bec160c",
+    "new_sha8": "57a79e49",
+    "old_bytes": 115264,
+    "new_bytes": 115264
+   },
+   {
+    "url": "https://hohunet.com/products/page/7/",
+    "title": "Products - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/products_page_7.html",
+    "old_sha8": "89ff0c64",
+    "new_sha8": "ec1bebca",
+    "old_bytes": 114909,
+    "new_bytes": 114909
+   },
+   {
+    "url": "https://hohunet.com/products/page/10/",
+    "title": "Products - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/products_page_10.html",
+    "old_sha8": "2b0bc9c0",
+    "new_sha8": "a5acbb2b",
+    "old_bytes": 116150,
+    "new_bytes": 116150
+   },
+   {
+    "url": "https://hohunet.com/products/page/8/",
+    "title": "Products - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/products_page_8.html",
+    "old_sha8": "3c475602",
+    "new_sha8": "c13bb093",
+    "old_bytes": 116446,
+    "new_bytes": 116446
+   },
+   {
+    "url": "https://hohunet.com/products/page/9/",
+    "title": "Products - Shenzhen Hohunet Technology Co., Ltd",
+    "file": "html/products_page_9.html",
+    "old_sha8": "817dc86e",
+    "new_sha8": "8eb0e9b4",
+    "old_bytes": 115936,
+    "new_bytes": 115936
+   }
+  ],
+  "same": 10,
+  "gone": [],
+  "not_reached": []
+ },
+ "downloads": {
+  "new": [],
+  "changed": [],
+  "same": 34,
+  "gone": [],
+  "not_reached": []
+ },
+ "images": {
+  "new": [],
+  "changed": [],
+  "same": 1038,
+  "gone": [],
+  "not_reached": []
+ }
+}

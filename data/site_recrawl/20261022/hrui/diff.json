@@ -1,0 +1,4859 @@
+{
+ "pages": {
+  "new": [],
+  "text_changed": [],
+  "markup_only": [
+   {
+    "url": "https://www.hruitech.com/",
+    "title": "PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/index.html",
+    "old_sha8": "bed46d5e",
+    "new_sha8": "f3235d2b",
+    "old_bytes": 61656,
+    "new_bytes": 61656
+   },
+   {
+    "url": "https://www.hruitech.com/about-hrui/",
+    "title": "About HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/about-hrui.html",
+    "old_sha8": "ee6cbc29",
+    "new_sha8": "0f76fe9d",
+    "old_bytes": 30867,
+    "new_bytes": 30867
+   },
+   {
+    "url": "https://www.hruitech.com/company-profile/",
+    "title": "Company Profile-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/company-profile.html",
+    "old_sha8": "5a87e292",
+    "new_sha8": "5c6a74c2",
+    "old_bytes": 33652,
+    "new_bytes": 33652
+   },
+   {
+    "url": "https://www.hruitech.com/product-certification/",
+    "title": "Product Certification-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/product-certification.html",
+    "old_sha8": "79cc0183",
+    "new_sha8": "06f6c362",
+    "old_bytes": 34617,
+    "new_bytes": 34617
+   },
+   {
+    "url": "https://www.hruitech.com/ethernet-switch/",
+    "title": "Ethernet Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/ethernet-switch.html",
+    "old_sha8": "4226c512",
+    "new_sha8": "364165fb",
+    "old_bytes": 37747,
+    "new_bytes": 37747
+   },
+   {
+    "url": "https://www.hruitech.com/founding-story/",
+    "title": "Founding Story-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/founding-story.html",
+    "old_sha8": "014a882d",
+    "new_sha8": "38bd9535",
+    "old_bytes": 34144,
+    "new_bytes": 34144
+   },
+   {
+    "url": "https://www.hruitech.com/enterprise-culture/",
+    "title": "Enterprise Culture-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/enterprise-culture.html",
+    "old_sha8": "254ec1c6",
+    "new_sha8": "209a13bc",
+    "old_bytes": 31950,
+    "new_bytes": 31950
+   },
+   {
+    "url": "https://www.hruitech.com/exhibition-news/",
+    "title": "Exhibition News-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/exhibition-news.html",
+    "old_sha8": "64110e87",
+    "new_sha8": "30aa89b1",
+    "old_bytes": 38696,
+    "new_bytes": 38696
+   },
+   {
+    "url": "https://www.hruitech.com/industry-news/",
+    "title": "Industry News-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industry-news.html",
+    "old_sha8": "ade8683c",
+    "new_sha8": "cd15b014",
+    "old_bytes": 31075,
+    "new_bytes": 31075
+   },
+   {
+    "url": "https://www.hruitech.com/development-history/",
+    "title": "Development History-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/development-history.html",
+    "old_sha8": "887e7c6c",
+    "new_sha8": "3653723a",
+    "old_bytes": 37813,
+    "new_bytes": 37813
+   },
+   {
+    "url": "https://www.hruitech.com/organizational-structure/",
+    "title": "Organizational Structure-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/organizational-structure.html",
+    "old_sha8": "6a83d8cb",
+    "new_sha8": "0185202f",
+    "old_bytes": 30768,
+    "new_bytes": 30768
+   },
+   {
+    "url": "https://www.hruitech.com/company-news/",
+    "title": "Company News-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/company-news.html",
+    "old_sha8": "2ea31fab",
+    "new_sha8": "50e0dfbe",
+    "old_bytes": 38740,
+    "new_bytes": 38740
+   },
+   {
+    "url": "https://www.hruitech.com/product-news/",
+    "title": "Product News-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/product-news.html",
+    "old_sha8": "d6c7280a",
+    "new_sha8": "7a97936e",
+    "old_bytes": 38717,
+    "new_bytes": 38717
+   },
+   {
+    "url": "https://www.hruitech.com/products/",
+    "title": "Products-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/products.html",
+    "old_sha8": "56ed6f88",
+    "new_sha8": "53816aaf",
+    "old_bytes": 36183,
+    "new_bytes": 36183
+   },
+   {
+    "url": "https://www.hruitech.com/news/",
+    "title": "News-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/news.html",
+    "old_sha8": "f1b15acf",
+    "new_sha8": "d72d5877",
+    "old_bytes": 39242,
+    "new_bytes": 39242
+   },
+   {
+    "url": "https://www.hruitech.com/contact-us/",
+    "title": "Contact Us | HRUI - PoE switch & industrial switch factory-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/contact-us.html",
+    "old_sha8": "799afc78",
+    "new_sha8": "55be0b93",
+    "old_bytes": 33011,
+    "new_bytes": 33011
+   },
+   {
+    "url": "https://www.hruitech.com/process-considerations/",
+    "title": "Process Considerations-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/process-considerations.html",
+    "old_sha8": "0b96c495",
+    "new_sha8": "39cf0df3",
+    "old_bytes": 32124,
+    "new_bytes": 32124
+   },
+   {
+    "url": "https://www.hruitech.com/sitemap/",
+    "title": "Comprehensive Sitemap - Easily Navigate Our Website | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/sitemap.html",
+    "old_sha8": "abaa3007",
+    "new_sha8": "927c8ac0",
+    "old_bytes": 32913,
+    "new_bytes": 32913
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/",
+    "title": "PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch.html",
+    "old_sha8": "1603a47f",
+    "new_sha8": "6d8251dc",
+    "old_bytes": 38135,
+    "new_bytes": 38135
+   },
+   {
+    "url": "https://www.hruitech.com/solution/",
+    "title": "Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/solution.html",
+    "old_sha8": "b66e48bb",
+    "new_sha8": "a1df47e6",
+    "old_bytes": 40708,
+    "new_bytes": 40708
+   },
+   {
+    "url": "https://www.hruitech.com/service-support/",
+    "title": "Service Support-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/service-support.html",
+    "old_sha8": "d466750c",
+    "new_sha8": "6e9edc65",
+    "old_bytes": 30633,
+    "new_bytes": 30633
+   },
+   {
+    "url": "https://www.hruitech.com/web-manual/",
+    "title": "Web Manual-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web-manual.html",
+    "old_sha8": "c8ccdfad",
+    "new_sha8": "47506a6f",
+    "old_bytes": 34698,
+    "new_bytes": 34698
+   },
+   {
+    "url": "https://www.hruitech.com/download-the-supplier-information-survey-form/",
+    "title": "Download the Supplier Information Survey Form-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/download-the-supplier-information-survey-form.html",
+    "old_sha8": "cb572081",
+    "new_sha8": "c9a9317e",
+    "old_bytes": 32216,
+    "new_bytes": 32216
+   },
+   {
+    "url": "https://www.hruitech.com/supplier-self-recommended-process/",
+    "title": "Supplier self-recommended process-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/supplier-self-recommended-process.html",
+    "old_sha8": "8eee4a49",
+    "new_sha8": "ad229405",
+    "old_bytes": 32168,
+    "new_bytes": 32168
+   },
+   {
+    "url": "https://www.hruitech.com/legal-notice/",
+    "title": "Legal Notice | HRUI - Compliance & Transparency-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/legal-notice.html",
+    "old_sha8": "16ec6218",
+    "new_sha8": "4fd11131",
+    "old_bytes": 30291,
+    "new_bytes": 30291
+   },
+   {
+    "url": "https://www.hruitech.com/data-download/",
+    "title": "Data Download- PoE Switch | Industrial Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/data-download.html",
+    "old_sha8": "0faa76b2",
+    "new_sha8": "268e309e",
+    "old_bytes": 34493,
+    "new_bytes": 34493
+   },
+   {
+    "url": "https://www.hruitech.com/supplier-recommendation/",
+    "title": "Supplier Recommendation-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/supplier-recommendation.html",
+    "old_sha8": "f932b786",
+    "new_sha8": "c98b463e",
+    "old_bytes": 32391,
+    "new_bytes": 32391
+   },
+   {
+    "url": "https://www.hruitech.com/digital-management/",
+    "title": "Digital Management-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/digital-management.html",
+    "old_sha8": "0c2c21ea",
+    "new_sha8": "aa7e5732",
+    "old_bytes": 30257,
+    "new_bytes": 30257
+   },
+   {
+    "url": "https://www.hruitech.com/online-message/",
+    "title": "Online Message-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/online-message.html",
+    "old_sha8": "244726b5",
+    "new_sha8": "e8e86695",
+    "old_bytes": 32927,
+    "new_bytes": 32927
+   },
+   {
+    "url": "https://www.hruitech.com/community-security-130/",
+    "title": "Community Security-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/community-security-130.html",
+    "old_sha8": "a0f139bf",
+    "new_sha8": "d94811b8",
+    "old_bytes": 32571,
+    "new_bytes": 32571
+   },
+   {
+    "url": "https://www.hruitech.com/wireless-network/",
+    "title": "Wireless Network-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/wireless-network.html",
+    "old_sha8": "a045362b",
+    "new_sha8": "abc7d043",
+    "old_bytes": 32417,
+    "new_bytes": 32417
+   },
+   {
+    "url": "https://www.hruitech.com/intelligent-transportation/",
+    "title": "Intelligent Transportation-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/intelligent-transportation.html",
+    "old_sha8": "ca9b2451",
+    "new_sha8": "67e0b9a3",
+    "old_bytes": 33694,
+    "new_bytes": 33694
+   },
+   {
+    "url": "https://www.hruitech.com/building-intercom/",
+    "title": "Building Intercom-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/building-intercom.html",
+    "old_sha8": "82beb07a",
+    "new_sha8": "d2369c63",
+    "old_bytes": 32701,
+    "new_bytes": 32701
+   },
+   {
+    "url": "https://www.hruitech.com/technology-sharing/",
+    "title": "Technology Sharing-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/technology-sharing.html",
+    "old_sha8": "4b42524c",
+    "new_sha8": "d3f4d2fe",
+    "old_bytes": 39432,
+    "new_bytes": 39432
+   },
+   {
+    "url": "https://www.hruitech.com/odmoem/",
+    "title": "ODM/OEM Service-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/odmoem.html",
+    "old_sha8": "1d7f63b7",
+    "new_sha8": "e42a5f75",
+    "old_bytes": 35562,
+    "new_bytes": 35562
+   },
+   {
+    "url": "https://www.hruitech.com/channel-agent/",
+    "title": "Channel Agent-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/channel-agent.html",
+    "old_sha8": "e2dc41b9",
+    "new_sha8": "513b4ce7",
+    "old_bytes": 35573,
+    "new_bytes": 35573
+   },
+   {
+    "url": "https://www.hruitech.com/after-sales-support/",
+    "title": "After-Sales Support-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/after-sales-support.html",
+    "old_sha8": "b053b814",
+    "new_sha8": "e2e1a613",
+    "old_bytes": 32073,
+    "new_bytes": 32073
+   },
+   {
+    "url": "https://www.hruitech.com/product-category/",
+    "title": "Product Category-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/product-category.html",
+    "old_sha8": "76d92993",
+    "new_sha8": "79ffba68",
+    "old_bytes": 31599,
+    "new_bytes": 31599
+   },
+   {
+    "url": "https://www.hruitech.com/firmware-download/",
+    "title": "Firmware Download-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/firmware-download.html",
+    "old_sha8": "cd7061ca",
+    "new_sha8": "3fe85cd1",
+    "old_bytes": 31602,
+    "new_bytes": 31602
+   },
+   {
+    "url": "https://www.hruitech.com/electric-energy/",
+    "title": "Electric Energy-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/electric-energy.html",
+    "old_sha8": "2e5b4fd2",
+    "new_sha8": "3c4ab2e9",
+    "old_bytes": 32649,
+    "new_bytes": 32649
+   },
+   {
+    "url": "https://www.hruitech.com/mine-industry/",
+    "title": "Mine Industry-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/mine-industry.html",
+    "old_sha8": "e11a61c1",
+    "new_sha8": "1c470b10",
+    "old_bytes": 32529,
+    "new_bytes": 32529
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-automation/",
+    "title": "Industrial Automation-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-automation.html",
+    "old_sha8": "b8256247",
+    "new_sha8": "855b4a79",
+    "old_bytes": 32556,
+    "new_bytes": 32556
+   },
+   {
+    "url": "https://www.hruitech.com/public-works/",
+    "title": "Public Works-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/public-works.html",
+    "old_sha8": "876fa619",
+    "new_sha8": "c251654d",
+    "old_bytes": 33663,
+    "new_bytes": 33663
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/",
+    "title": "Managed Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch.html",
+    "old_sha8": "81fe9f28",
+    "new_sha8": "d0b0e160",
+    "old_bytes": 38366,
+    "new_bytes": 38366
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/",
+    "title": "Industrial PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch.html",
+    "old_sha8": "2046f6e4",
+    "new_sha8": "8af4c63c",
+    "old_bytes": 38685,
+    "new_bytes": 38685
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-ethernet-switch/",
+    "title": "Industrial Ethernet Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-ethernet-switch.html",
+    "old_sha8": "77b9b69d",
+    "new_sha8": "e480446d",
+    "old_bytes": 38333,
+    "new_bytes": 38333
+   },
+   {
+    "url": "https://www.hruitech.com/optical-fiber-converter/",
+    "title": "Optical Fiber Converter-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/optical-fiber-converter.html",
+    "old_sha8": "ce1163f5",
+    "new_sha8": "d5490cdb",
+    "old_bytes": 37163,
+    "new_bytes": 37163
+   },
+   {
+    "url": "https://www.hruitech.com/poe-accessory/",
+    "title": "PoE Accessory-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-accessory.html",
+    "old_sha8": "93a798c2",
+    "new_sha8": "c2741ef9",
+    "old_bytes": 37553,
+    "new_bytes": 37553
+   },
+   {
+    "url": "https://www.hruitech.com/wireless-bridge/",
+    "title": "Wireless Bridge-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/wireless-bridge.html",
+    "old_sha8": "d0999603",
+    "new_sha8": "81a86130",
+    "old_bytes": 36178,
+    "new_bytes": 36178
+   },
+   {
+    "url": "https://www.hruitech.com/qualifications/",
+    "title": "Qualifications-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/qualifications.html",
+    "old_sha8": "a89be872",
+    "new_sha8": "f57e3830",
+    "old_bytes": 33188,
+    "new_bytes": 33188
+   },
+   {
+    "url": "https://www.hruitech.com/product-attributes/",
+    "title": "Product Attributes-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/product-attributes.html",
+    "old_sha8": "57b5804e",
+    "new_sha8": "81417b45",
+    "old_bytes": 35987,
+    "new_bytes": 35987
+   },
+   {
+    "url": "https://www.hruitech.com/poe-standard/",
+    "title": "PoE Standard-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-standard.html",
+    "old_sha8": "1a99036b",
+    "new_sha8": "789a2d15",
+    "old_bytes": 35981,
+    "new_bytes": 35981
+   },
+   {
+    "url": "https://www.hruitech.com/classification/",
+    "title": "Classification-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/classification.html",
+    "old_sha8": "7b1bd787",
+    "new_sha8": "f809b7b4",
+    "old_bytes": 35985,
+    "new_bytes": 35985
+   },
+   {
+    "url": "https://www.hruitech.com/poe-port/",
+    "title": "PoE Port-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-port.html",
+    "old_sha8": "0065c7b0",
+    "new_sha8": "c6cebede",
+    "old_bytes": 35973,
+    "new_bytes": 35973
+   },
+   {
+    "url": "https://www.hruitech.com/port-rate/",
+    "title": "Port Rate-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/port-rate.html",
+    "old_sha8": "8b9e06a7",
+    "new_sha8": "e3ad4b5b",
+    "old_bytes": 35975,
+    "new_bytes": 35975
+   },
+   {
+    "url": "https://www.hruitech.com/installation/",
+    "title": "Installation-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/installation.html",
+    "old_sha8": "f1ec0358",
+    "new_sha8": "6812dc74",
+    "old_bytes": 35981,
+    "new_bytes": 35981
+   },
+   {
+    "url": "https://www.hruitech.com/ethernet-port/",
+    "title": "Ethernet Port-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/ethernet-port.html",
+    "old_sha8": "aefbc4d6",
+    "new_sha8": "77e1e033",
+    "old_bytes": 35983,
+    "new_bytes": 35983
+   },
+   {
+    "url": "https://www.hruitech.com/product-category228/",
+    "title": "Product Category-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/product-category228.html",
+    "old_sha8": "c4767904",
+    "new_sha8": "344588f2",
+    "old_bytes": 35989,
+    "new_bytes": 35989
+   },
+   {
+    "url": "https://www.hruitech.com/ieee-802.3af/at/",
+    "title": "IEEE 802.3af/at-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/ieee-802.3af_at.html",
+    "old_sha8": "fc92b7e3",
+    "new_sha8": "e45dfb38",
+    "old_bytes": 35987,
+    "new_bytes": 35987
+   },
+   {
+    "url": "https://www.hruitech.com/ieee-802.3af/at/bt/",
+    "title": "IEEE 802.3af/at/bt-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/ieee-802.3af_at_bt.html",
+    "old_sha8": "a26a0e44",
+    "new_sha8": "00b6f96b",
+    "old_bytes": 35993,
+    "new_bytes": 35993
+   },
+   {
+    "url": "https://www.hruitech.com/passive-poe/",
+    "title": "Passive PoE-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/passive-poe.html",
+    "old_sha8": "143a74be",
+    "new_sha8": "2c594e39",
+    "old_bytes": 35979,
+    "new_bytes": 35979
+   },
+   {
+    "url": "https://www.hruitech.com/1/",
+    "title": "1-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/1.html",
+    "old_sha8": "696f9f47",
+    "new_sha8": "afef10e0",
+    "old_bytes": 35959,
+    "new_bytes": 35959
+   },
+   {
+    "url": "https://www.hruitech.com/4/",
+    "title": "4-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/4.html",
+    "old_sha8": "508f0ee6",
+    "new_sha8": "f967bc43",
+    "old_bytes": 35959,
+    "new_bytes": 35959
+   },
+   {
+    "url": "https://www.hruitech.com/5/",
+    "title": "5-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/5.html",
+    "old_sha8": "77d3b7e4",
+    "new_sha8": "96e4f9d7",
+    "old_bytes": 35959,
+    "new_bytes": 35959
+   },
+   {
+    "url": "https://www.hruitech.com/8/",
+    "title": "8-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/8.html",
+    "old_sha8": "6a03a6df",
+    "new_sha8": "887fac3d",
+    "old_bytes": 35959,
+    "new_bytes": 35959
+   },
+   {
+    "url": "https://www.hruitech.com/10/",
+    "title": "10-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/10.html",
+    "old_sha8": "667c086b",
+    "new_sha8": "38062fef",
+    "old_bytes": 35961,
+    "new_bytes": 35961
+   },
+   {
+    "url": "https://www.hruitech.com/16/",
+    "title": "16-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/16.html",
+    "old_sha8": "153f24a1",
+    "new_sha8": "7e3df2ca",
+    "old_bytes": 35961,
+    "new_bytes": 35961
+   },
+   {
+    "url": "https://www.hruitech.com/24/",
+    "title": "24-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/24.html",
+    "old_sha8": "8def680c",
+    "new_sha8": "343cc92c",
+    "old_bytes": 35961,
+    "new_bytes": 35961
+   },
+   {
+    "url": "https://www.hruitech.com/48/",
+    "title": "48-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/48.html",
+    "old_sha8": "ff2c761d",
+    "new_sha8": "ea36cd3d",
+    "old_bytes": 35961,
+    "new_bytes": 35961
+   },
+   {
+    "url": "https://www.hruitech.com/10/100m/",
+    "title": "10/100M-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/10_100m.html",
+    "old_sha8": "e3bc054b",
+    "new_sha8": "e7eb5712",
+    "old_bytes": 35971,
+    "new_bytes": 35971
+   },
+   {
+    "url": "https://www.hruitech.com/10/100/1000m/",
+    "title": "10/100/1000M-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/10_100_1000m.html",
+    "old_sha8": "5560ea5c",
+    "new_sha8": "8b28f3b7",
+    "old_bytes": 35981,
+    "new_bytes": 35981
+   },
+   {
+    "url": "https://www.hruitech.com/1/2.5g/",
+    "title": "1/2.5G-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/1_2.5g.html",
+    "old_sha8": "cb65a324",
+    "new_sha8": "4c09aff0",
+    "old_bytes": 35969,
+    "new_bytes": 35969
+   },
+   {
+    "url": "https://www.hruitech.com/1/5g/",
+    "title": "1/5G-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/1_5g.html",
+    "old_sha8": "469ec851",
+    "new_sha8": "5e9df193",
+    "old_bytes": 35965,
+    "new_bytes": 35965
+   },
+   {
+    "url": "https://www.hruitech.com/1/10g/",
+    "title": "1/10G-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/1_10g.html",
+    "old_sha8": "c9ad7c86",
+    "new_sha8": "8a4d866b",
+    "old_bytes": 35967,
+    "new_bytes": 35967
+   },
+   {
+    "url": "https://www.hruitech.com/desktop/",
+    "title": "Desktop-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/desktop.html",
+    "old_sha8": "7ca725bf",
+    "new_sha8": "2c665382",
+    "old_bytes": 35971,
+    "new_bytes": 35971
+   },
+   {
+    "url": "https://www.hruitech.com/rack-mounted/",
+    "title": "Rack-mounted-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/rack-mounted.html",
+    "old_sha8": "8fbd158f",
+    "new_sha8": "528636ec",
+    "old_bytes": 35981,
+    "new_bytes": 35981
+   },
+   {
+    "url": "https://www.hruitech.com/din-rail/",
+    "title": "Din rail-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/din-rail.html",
+    "old_sha8": "32b4cafd",
+    "new_sha8": "564caaf1",
+    "old_bytes": 35973,
+    "new_bytes": 35973
+   },
+   {
+    "url": "https://www.hruitech.com/wall-mounted/",
+    "title": "Wall-mounted-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/wall-mounted.html",
+    "old_sha8": "33d41bde",
+    "new_sha8": "4c58d634",
+    "old_bytes": 35981,
+    "new_bytes": 35981
+   },
+   {
+    "url": "https://www.hruitech.com/4270/",
+    "title": "4-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/4270.html",
+    "old_sha8": "56e2e664",
+    "new_sha8": "2bad857a",
+    "old_bytes": 35959,
+    "new_bytes": 35959
+   },
+   {
+    "url": "https://www.hruitech.com/5272/",
+    "title": "5-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/5272.html",
+    "old_sha8": "51b8d1d1",
+    "new_sha8": "5c154ee5",
+    "old_bytes": 35959,
+    "new_bytes": 35959
+   },
+   {
+    "url": "https://www.hruitech.com/6/",
+    "title": "6-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/6.html",
+    "old_sha8": "9668c321",
+    "new_sha8": "2907d48e",
+    "old_bytes": 35959,
+    "new_bytes": 35959
+   },
+   {
+    "url": "https://www.hruitech.com/8276/",
+    "title": "8-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/8276.html",
+    "old_sha8": "8a92c6ea",
+    "new_sha8": "cdff1823",
+    "old_bytes": 35959,
+    "new_bytes": 35959
+   },
+   {
+    "url": "https://www.hruitech.com/10278/",
+    "title": "10-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/10278.html",
+    "old_sha8": "3dc331c1",
+    "new_sha8": "98a6b09d",
+    "old_bytes": 35961,
+    "new_bytes": 35961
+   },
+   {
+    "url": "https://www.hruitech.com/16280/",
+    "title": "16-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/16280.html",
+    "old_sha8": "04dfe00f",
+    "new_sha8": "7a1e5ed5",
+    "old_bytes": 35961,
+    "new_bytes": 35961
+   },
+   {
+    "url": "https://www.hruitech.com/24282/",
+    "title": "24-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/24282.html",
+    "old_sha8": "f15d8922",
+    "new_sha8": "57916d0c",
+    "old_bytes": 35961,
+    "new_bytes": 35961
+   },
+   {
+    "url": "https://www.hruitech.com/48284/",
+    "title": "48-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/48284.html",
+    "old_sha8": "e73b355d",
+    "new_sha8": "462aa075",
+    "old_bytes": 35961,
+    "new_bytes": 35961
+   },
+   {
+    "url": "https://www.hruitech.com/web-managed/",
+    "title": "Web Managed-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web-managed.html",
+    "old_sha8": "a5623d5b",
+    "new_sha8": "3073407c",
+    "old_bytes": 35979,
+    "new_bytes": 35979
+   },
+   {
+    "url": "https://www.hruitech.com/l2-managed/",
+    "title": "L2 Managed-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/l2-managed.html",
+    "old_sha8": "3a44da99",
+    "new_sha8": "1a694d21",
+    "old_bytes": 35977,
+    "new_bytes": 35977
+   },
+   {
+    "url": "https://www.hruitech.com/l3-managed/",
+    "title": "L3 Managed-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/l3-managed.html",
+    "old_sha8": "2495f244",
+    "new_sha8": "e610b18d",
+    "old_bytes": 35977,
+    "new_bytes": 35977
+   },
+   {
+    "url": "https://www.hruitech.com/poe-injector/",
+    "title": "PoE Injector-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-injector.html",
+    "old_sha8": "71a83146",
+    "new_sha8": "c63d8cf0",
+    "old_bytes": 35981,
+    "new_bytes": 35981
+   },
+   {
+    "url": "https://www.hruitech.com/poe-extender/",
+    "title": "PoE Extender-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-extender.html",
+    "old_sha8": "b2f030f9",
+    "new_sha8": "2cfdc0bf",
+    "old_bytes": 35981,
+    "new_bytes": 35981
+   },
+   {
+    "url": "https://www.hruitech.com/poe-splitter/",
+    "title": "PoE Splitter-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-splitter.html",
+    "old_sha8": "876fb184",
+    "new_sha8": "e44a87b4",
+    "old_bytes": 35981,
+    "new_bytes": 35981
+   },
+   {
+    "url": "https://www.hruitech.com/hi-poe/",
+    "title": "Hi-PoE-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/hi-poe.html",
+    "old_sha8": "61954bc1",
+    "new_sha8": "223d3b45",
+    "old_bytes": 35969,
+    "new_bytes": 35969
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/342.html",
+    "title": "16-Port 10/100/1000T 802.3af/at PoE + 2-Port 2.5G SFP Ethernet Switch (200 Watts)-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_342.html.html",
+    "old_sha8": "4db0d84e",
+    "new_sha8": "f7fff504",
+    "old_bytes": 51315,
+    "new_bytes": 51315
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/341.html",
+    "title": "16-Port 10/100/1000T 802.3af/at PoE + 2-Port 2.5G SFP Ethernet Switch (280 Watts)-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_341.html.html",
+    "old_sha8": "f0290614",
+    "new_sha8": "46fe84ca",
+    "old_bytes": 50334,
+    "new_bytes": 50334
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/340.html",
+    "title": "HR200P-24T2MS-280-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_340.html.html",
+    "old_sha8": "78bb536e",
+    "new_sha8": "908007fb",
+    "old_bytes": 50069,
+    "new_bytes": 50069
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/339.html",
+    "title": "HR200P-24T2MS-400-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_339.html.html",
+    "old_sha8": "530cf082",
+    "new_sha8": "d5a84465",
+    "old_bytes": 50999,
+    "new_bytes": 50999
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/307.html",
+    "title": "HR903-AFG-41Y- 5-Port Gigabit PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_307.html.html",
+    "old_sha8": "d7e6125c",
+    "new_sha8": "e5fc2640",
+    "old_bytes": 65573,
+    "new_bytes": 65573
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/306.html",
+    "title": "HR903-AF-82Y-120-10-Port 100Mbps PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_306.html.html",
+    "old_sha8": "ce349478",
+    "new_sha8": "51ec9954",
+    "old_bytes": 65340,
+    "new_bytes": 65340
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/305.html",
+    "title": "HR903-AF-82Y-96-10-Port 100Mbps PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_305.html.html",
+    "old_sha8": "eb48a2f6",
+    "new_sha8": "a631c0cc",
+    "old_bytes": 65433,
+    "new_bytes": 65433
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/304.html",
+    "title": "6-Port 100Mbps PoE Switch - HR903-AF-42Y | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_304.html.html",
+    "old_sha8": "66c3a044",
+    "new_sha8": "69fa8ac6",
+    "old_bytes": 65268,
+    "new_bytes": 65268
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/239.html",
+    "title": "6-Port Gigabit PoE Switch - HR900-AFG-42NS-65 | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_239.html.html",
+    "old_sha8": "bdc39457",
+    "new_sha8": "6b0b4eb7",
+    "old_bytes": 72479,
+    "new_bytes": 72479
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/238.html",
+    "title": "6-Port Gigabit PoE Switch - HR900-AFG-42NS-120 | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_238.html.html",
+    "old_sha8": "49fc4ae7",
+    "new_sha8": "b91758fc",
+    "old_bytes": 72482,
+    "new_bytes": 72482
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/237.html",
+    "title": "6-Port Gigabit PoE Switch - HR900-AFG-411NS-65 | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_237.html.html",
+    "old_sha8": "31ec6008",
+    "new_sha8": "05730b9a",
+    "old_bytes": 73696,
+    "new_bytes": 73696
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/236.html",
+    "title": "Intelligent 6-Port Gigabit PoE Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_236.html.html",
+    "old_sha8": "5d2f3cc5",
+    "new_sha8": "f1cf3840",
+    "old_bytes": 73659,
+    "new_bytes": 73659
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/224.html",
+    "title": "Intelligent 26-Port Gigabit PoE Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_224.html.html",
+    "old_sha8": "6d4e7182",
+    "new_sha8": "8b9c911e",
+    "old_bytes": 82708,
+    "new_bytes": 82708
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/223.html",
+    "title": "Gigabit Intelligent 26-Port PoE Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_223.html.html",
+    "old_sha8": "f50964e9",
+    "new_sha8": "cfca680b",
+    "old_bytes": 82385,
+    "new_bytes": 82385
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/222.html",
+    "title": "18-Port Gigabit PoE Switch - HR900-AFG-162S-300 | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_222.html.html",
+    "old_sha8": "01b0731b",
+    "new_sha8": "6dbee131",
+    "old_bytes": 75695,
+    "new_bytes": 75695
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/221.html",
+    "title": "18-Port Gigabit PoE Switch - HR900-AFG-162S-200 | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_221.html.html",
+    "old_sha8": "bb64481b",
+    "new_sha8": "04f114ad",
+    "old_bytes": 75728,
+    "new_bytes": 75728
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/220.html",
+    "title": "6-Port Gigabit Intelligent PoE Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_220.html.html",
+    "old_sha8": "7a5e946c",
+    "new_sha8": "d148cd86",
+    "old_bytes": 73722,
+    "new_bytes": 73722
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/214.html",
+    "title": "HRUI 6-Port Gigabit Intelligent PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_214.html.html",
+    "old_sha8": "dfe2c5df",
+    "new_sha8": "1278b491",
+    "old_bytes": 74310,
+    "new_bytes": 74310
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/213.html",
+    "title": "6-Port Gigabit Intelligent PoE Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_213.html.html",
+    "old_sha8": "f2a84f0a",
+    "new_sha8": "88167065",
+    "old_bytes": 73515,
+    "new_bytes": 73515
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/212.html",
+    "title": "6-Port Gigabit Intelligent PoE Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_212.html.html",
+    "old_sha8": "0c0d9a3e",
+    "new_sha8": "b2100d91",
+    "old_bytes": 74204,
+    "new_bytes": 74204
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/273.html",
+    "title": "10-Port Gigabit PoE Switch HR200-AFG-82NS-150-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_273.html.html",
+    "old_sha8": "2feab24d",
+    "new_sha8": "dce5b6b5",
+    "old_bytes": 70869,
+    "new_bytes": 70869
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/277.html",
+    "title": "HR200-AFG-82N-150 - 10-Port Gigabit PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_277.html.html",
+    "old_sha8": "9520c265",
+    "new_sha8": "654101ec",
+    "old_bytes": 70968,
+    "new_bytes": 70968
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/274.html",
+    "title": "HR200-AFG-1622S-200 - 20-Port Gigabit PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_274.html.html",
+    "old_sha8": "ea0a112a",
+    "new_sha8": "00e6770d",
+    "old_bytes": 76100,
+    "new_bytes": 76100
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/211.html",
+    "title": "26-Port Gigabit Intelligent PoE Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_211.html.html",
+    "old_sha8": "0282802a",
+    "new_sha8": "f3339412",
+    "old_bytes": 75215,
+    "new_bytes": 75215
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/209.html",
+    "title": "9 Port 10 Gigabit uplink 2.5G PoE switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_209.html.html",
+    "old_sha8": "f2c072e6",
+    "new_sha8": "ef30aa7c",
+    "old_bytes": 75187,
+    "new_bytes": 75187
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/208.html",
+    "title": "12 Port Gigabit Intelligent Standard PoE Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_208.html.html",
+    "old_sha8": "d3d6b741",
+    "new_sha8": "5f344887",
+    "old_bytes": 71293,
+    "new_bytes": 71293
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/207.html",
+    "title": "20 Port Gigabit Intelligent Standard PoE Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_207.html.html",
+    "old_sha8": "1215fd15",
+    "new_sha8": "02bfa50e",
+    "old_bytes": 84939,
+    "new_bytes": 84939
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/206.html",
+    "title": "28 Port Gigabit Intelligent PoE Switch - | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_206.html.html",
+    "old_sha8": "04c3af9b",
+    "new_sha8": "ca067cd4",
+    "old_bytes": 74649,
+    "new_bytes": 74649
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/205.html",
+    "title": "28 Port Gigabit Intelligent Standard PoE Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_205.html.html",
+    "old_sha8": "ce355db3",
+    "new_sha8": "76d906cc",
+    "old_bytes": 74608,
+    "new_bytes": 74608
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/199.html",
+    "title": "HRUI 10 Port Gigabit Intelligent Standard PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_199.html.html",
+    "old_sha8": "78a47f1f",
+    "new_sha8": "ee417bc5",
+    "old_bytes": 80247,
+    "new_bytes": 80247
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/198.html",
+    "title": "10 Port Gigabit Intelligent Standard PoE Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_198.html.html",
+    "old_sha8": "08287a01",
+    "new_sha8": "ca4275aa",
+    "old_bytes": 63534,
+    "new_bytes": 63534
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/197.html",
+    "title": "6 Port Gigabit Intelligent Standard PoE Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_197.html.html",
+    "old_sha8": "0119f8c3",
+    "new_sha8": "f57eef44",
+    "old_bytes": 65618,
+    "new_bytes": 65618
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/196.html",
+    "title": "27-Port 100/1000M Intelligent PoE Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_196.html.html",
+    "old_sha8": "5d89462a",
+    "new_sha8": "6bfe26d7",
+    "old_bytes": 85134,
+    "new_bytes": 85134
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/195.html",
+    "title": "19-Port 100/1000M Intelligent PoE Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_195.html.html",
+    "old_sha8": "f497fbe9",
+    "new_sha8": "811da08e",
+    "old_bytes": 70784,
+    "new_bytes": 70784
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/194.html",
+    "title": "10-Port 100/1000M AI PoE Switch - HR900-AF-82GN | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_194.html.html",
+    "old_sha8": "261abedf",
+    "new_sha8": "f1d29067",
+    "old_bytes": 65691,
+    "new_bytes": 65691
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/191.html",
+    "title": "10-Port 10/100M AI PoE Switch - HR900-AF-82N | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_191.html.html",
+    "old_sha8": "79caf74a",
+    "new_sha8": "42ba7aab",
+    "old_bytes": 78347,
+    "new_bytes": 78347
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/178.html",
+    "title": "6-Port 10/100M AI PoE Switch - HR900-AF-42N | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_178.html.html",
+    "old_sha8": "074777a3",
+    "new_sha8": "c5dd7c44",
+    "old_bytes": 78772,
+    "new_bytes": 78772
+   },
+   {
+    "url": "https://www.hruitech.com/poe-switch/85.html",
+    "title": "9-Port 1G and 1-Port 1G SFP PoE Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-switch_85.html.html",
+    "old_sha8": "9dfadc06",
+    "new_sha8": "cd4370da",
+    "old_bytes": 77930,
+    "new_bytes": 77930
+   },
+   {
+    "url": "https://www.hruitech.com/ethernet-switch/343.html",
+    "title": "HR300S-24T2XS-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/ethernet-switch_343.html.html",
+    "old_sha8": "8ea846b9",
+    "new_sha8": "0054eb81",
+    "old_bytes": 46014,
+    "new_bytes": 46014
+   },
+   {
+    "url": "https://www.hruitech.com/ethernet-switch/280.html",
+    "title": "HR903-SWTG024AS - 4-Port 2.5G and 2-Port 10G SFP+ Ethernet Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/ethernet-switch_280.html.html",
+    "old_sha8": "17a34670",
+    "new_sha8": "17c79816",
+    "old_bytes": 44064,
+    "new_bytes": 44064
+   },
+   {
+    "url": "https://www.hruitech.com/ethernet-switch/279.html",
+    "title": "HR903-SWTG018AS - 8-Port 2.5G and 1-Port 10G SFP+ Ethernet Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/ethernet-switch_279.html.html",
+    "old_sha8": "d0244864",
+    "new_sha8": "82e66d59",
+    "old_bytes": 72962,
+    "new_bytes": 72962
+   },
+   {
+    "url": "https://www.hruitech.com/ethernet-switch/278.html",
+    "title": "HR903-SWTG015AS - 5-Port 2.5G and 1-Port 10G SFP+ Ethernet Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/ethernet-switch_278.html.html",
+    "old_sha8": "efd57d06",
+    "new_sha8": "15c414da",
+    "old_bytes": 73454,
+    "new_bytes": 73454
+   },
+   {
+    "url": "https://www.hruitech.com/ethernet-switch/137.html",
+    "title": "HRUI 50 Port Gigabit Ethernet Switch - HR-SWG10482S-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/ethernet-switch_137.html.html",
+    "old_sha8": "c4ed98c8",
+    "new_sha8": "75cbae53",
+    "old_bytes": 64757,
+    "new_bytes": 64757
+   },
+   {
+    "url": "https://www.hruitech.com/ethernet-switch/193.html",
+    "title": "HRUI 26-Port Full Gigabit Intelligent Ethernet Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/ethernet-switch_193.html.html",
+    "old_sha8": "32aca425",
+    "new_sha8": "099a1b2c",
+    "old_bytes": 69045,
+    "new_bytes": 69045
+   },
+   {
+    "url": "https://www.hruitech.com/ethernet-switch/192.html",
+    "title": "24-Port Full Gigabit Intelligent Ethernet Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/ethernet-switch_192.html.html",
+    "old_sha8": "43436e38",
+    "new_sha8": "2fe8ee5d",
+    "old_bytes": 68967,
+    "new_bytes": 68967
+   },
+   {
+    "url": "https://www.hruitech.com/ethernet-switch/139.html",
+    "title": "26 Port 10G Uplink 2.5G Ethernet Switch HR-SWTG1224AS-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/ethernet-switch_139.html.html",
+    "old_sha8": "e3a1e4e3",
+    "new_sha8": "f5a59198",
+    "old_bytes": 65230,
+    "new_bytes": 65230
+   },
+   {
+    "url": "https://www.hruitech.com/ethernet-switch/190.html",
+    "title": "24-Port Full Gigabit Intelligent Ethernet Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/ethernet-switch_190.html.html",
+    "old_sha8": "19c7dec2",
+    "new_sha8": "2b7574a3",
+    "old_bytes": 69637,
+    "new_bytes": 69637
+   },
+   {
+    "url": "https://www.hruitech.com/ethernet-switch/138.html",
+    "title": "HRUI 18 Port 10G Uplink 2.5G Ethernet Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/ethernet-switch_138.html.html",
+    "old_sha8": "9b782b22",
+    "new_sha8": "e880c3ea",
+    "old_bytes": 65541,
+    "new_bytes": 65541
+   },
+   {
+    "url": "https://www.hruitech.com/ethernet-switch/290.html",
+    "title": "HR300S-16T2XS 16-Port 2.5G + 2-Port 10G SFP+ Ethernet Switch | High-Speed Networking Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/ethernet-switch_290.html.html",
+    "old_sha8": "121d1fb4",
+    "new_sha8": "9a649fd7",
+    "old_bytes": 68803,
+    "new_bytes": 68803
+   },
+   {
+    "url": "https://www.hruitech.com/ethernet-switch/189.html",
+    "title": "HRUI 16-Port Full Gigabit Intelligent Ethernet Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/ethernet-switch_189.html.html",
+    "old_sha8": "3f2021f4",
+    "new_sha8": "8d226894",
+    "old_bytes": 69409,
+    "new_bytes": 69409
+   },
+   {
+    "url": "https://www.hruitech.com/ethernet-switch/275.html",
+    "title": "HR-SWG10160D-M - 16-Port Gigabit Ethernet Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/ethernet-switch_275.html.html",
+    "old_sha8": "bc6c07d6",
+    "new_sha8": "cba46e1c",
+    "old_bytes": 68795,
+    "new_bytes": 68795
+   },
+   {
+    "url": "https://www.hruitech.com/ethernet-switch/135.html",
+    "title": "HR500S-8T - 8-Port 10G Ethernet Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/ethernet-switch_135.html.html",
+    "old_sha8": "808e65db",
+    "new_sha8": "494384c3",
+    "old_bytes": 69540,
+    "new_bytes": 69540
+   },
+   {
+    "url": "https://www.hruitech.com/ethernet-switch/136.html",
+    "title": "HRUI 8 Port Full 10G SFP+ Switch - HR-SWTG1C8F-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/ethernet-switch_136.html.html",
+    "old_sha8": "89c6512f",
+    "new_sha8": "861820a3",
+    "old_bytes": 63929,
+    "new_bytes": 63929
+   },
+   {
+    "url": "https://www.hruitech.com/ethernet-switch/286.html",
+    "title": "HR300S-8T1XS - 8-Port 2.5G and 1-Port 10G SFP+ Ethernet Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/ethernet-switch_286.html.html",
+    "old_sha8": "8bcb0272",
+    "new_sha8": "12df5082",
+    "old_bytes": 60867,
+    "new_bytes": 60867
+   },
+   {
+    "url": "https://www.hruitech.com/ethernet-switch/285.html",
+    "title": "HR300S-5T1XS - 5-Port 2.5G and 1-Port 10G SFP+ Ethernet Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/ethernet-switch_285.html.html",
+    "old_sha8": "d6743674",
+    "new_sha8": "6d0ed0e4",
+    "old_bytes": 60842,
+    "new_bytes": 60842
+   },
+   {
+    "url": "https://www.hruitech.com/ethernet-switch/284.html",
+    "title": "HR300S-4T2XS - 4-Port 2.5G and 2-Port 10G SFP+ Ethernet Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/ethernet-switch_284.html.html",
+    "old_sha8": "36bf3c36",
+    "new_sha8": "bbfd5b83",
+    "old_bytes": 60803,
+    "new_bytes": 60803
+   },
+   {
+    "url": "https://www.hruitech.com/ethernet-switch/141.html",
+    "title": "8 Ports Gigabit Ethernet Switch (Plastic shell) HR-SWG0080+-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/ethernet-switch_141.html.html",
+    "old_sha8": "3963b8af",
+    "new_sha8": "50cc1cb0",
+    "old_bytes": 58229,
+    "new_bytes": 58229
+   },
+   {
+    "url": "https://www.hruitech.com/ethernet-switch/134.html",
+    "title": "HRUI 8 Port Gigabit Ethernet Switch - HR-SWG0080-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/ethernet-switch_134.html.html",
+    "old_sha8": "f6fe3e16",
+    "new_sha8": "6009b371",
+    "old_bytes": 58898,
+    "new_bytes": 58898
+   },
+   {
+    "url": "https://www.hruitech.com/ethernet-switch/142.html",
+    "title": "5 Ports Gigabit Ethernet Switch (Plastic shell) HR-SWG0050+-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/ethernet-switch_142.html.html",
+    "old_sha8": "e3a43ad0",
+    "new_sha8": "32850afa",
+    "old_bytes": 58113,
+    "new_bytes": 58113
+   },
+   {
+    "url": "https://www.hruitech.com/ethernet-switch/133.html",
+    "title": "HRUI 5 Port Gigabit Ethernet Switch - HR-SWG0050-M | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/ethernet-switch_133.html.html",
+    "old_sha8": "41eb7de7",
+    "new_sha8": "a214f6cc",
+    "old_bytes": 58707,
+    "new_bytes": 58707
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/336.html",
+    "title": "HR210P-16T2MS-200-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_336.html.html",
+    "old_sha8": "9f54088f",
+    "new_sha8": "33affb56",
+    "old_bytes": 58240,
+    "new_bytes": 58240
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/333.html",
+    "title": "HR210P-16T2MS-300-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_333.html.html",
+    "old_sha8": "41ebcd68",
+    "new_sha8": "986296b4",
+    "old_bytes": 58176,
+    "new_bytes": 58176
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/335.html",
+    "title": "24-Port 10/100/1000T 802.3af/at PoE + 2-Port 1G/2.5G SFP Web Managed Ethernet Switch (260 Watts)-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_335.html.html",
+    "old_sha8": "0a3acdcd",
+    "new_sha8": "3f6dff3d",
+    "old_bytes": 57100,
+    "new_bytes": 57100
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/334.html",
+    "title": "24-Port 10/100/1000T 802.3af/at PoE + 2-Port 1G/2.5G SFP Web Managed Ethernet Switch (280 Watts)-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_334.html.html",
+    "old_sha8": "6bd3cf0d",
+    "new_sha8": "8afdcef8",
+    "old_bytes": 57697,
+    "new_bytes": 57697
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/332.html",
+    "title": "HR210P-24T2MS-400-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_332.html.html",
+    "old_sha8": "e745325d",
+    "new_sha8": "9aa824f4",
+    "old_bytes": 58558,
+    "new_bytes": 58558
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/318.html",
+    "title": "HR210P-4T2GH-55-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_318.html.html",
+    "old_sha8": "1c416f8d",
+    "new_sha8": "e392f8a2",
+    "old_bytes": 46774,
+    "new_bytes": 46774
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/317.html",
+    "title": "HR210P-4T2GT-55-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_317.html.html",
+    "old_sha8": "893e71e5",
+    "new_sha8": "7b9537f4",
+    "old_bytes": 47130,
+    "new_bytes": 47130
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/311.html",
+    "title": "HR510P-4T2XS-150 - 6-Port 10G Web Managed PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_311.html.html",
+    "old_sha8": "a9887146",
+    "new_sha8": "9577e11e",
+    "old_bytes": 68326,
+    "new_bytes": 68326
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/309.html",
+    "title": "Layer3 24-Port 10G SFP+ and 2-Port 100G QSFP28 Managed Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_309.html.html",
+    "old_sha8": "e86767f6",
+    "new_sha8": "b8f367ea",
+    "old_bytes": 71733,
+    "new_bytes": 71733
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/230.html",
+    "title": "12-Port 10G L3 Management Ethernet Switch - HR-SWTG3C12F-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_230.html.html",
+    "old_sha8": "572a1db8",
+    "new_sha8": "2eaad914",
+    "old_bytes": 90021,
+    "new_bytes": 90021
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/229.html",
+    "title": "12-Port 10G Web Management Ethernet Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_229.html.html",
+    "old_sha8": "cd42efa0",
+    "new_sha8": "73c3ceed",
+    "old_bytes": 86197,
+    "new_bytes": 86197
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/228.html",
+    "title": "HR-SWTGW2C12F | 12-Port 10G SFP+ Web Managed Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_228.html.html",
+    "old_sha8": "7b23b2e0",
+    "new_sha8": "d69fc7b1",
+    "old_bytes": 84496,
+    "new_bytes": 84496
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/263.html",
+    "title": "HR510P-8T4XS-260 - 12-Port 10G Web Managed Ethernet PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_263.html.html",
+    "old_sha8": "7be5fdcd",
+    "new_sha8": "9eb91f13",
+    "old_bytes": 81049,
+    "new_bytes": 81049
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/261.html",
+    "title": "HR510S-8T4XS -12-Port 10G Web Management Ethernet Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_261.html.html",
+    "old_sha8": "dc2d74c5",
+    "new_sha8": "39451813",
+    "old_bytes": 75192,
+    "new_bytes": 75192
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/283.html",
+    "title": "HR530S-8T - 8-Port 10G L3 Managed Ethernet Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_283.html.html",
+    "old_sha8": "1e6f0a52",
+    "new_sha8": "1acd04e8",
+    "old_bytes": 93328,
+    "new_bytes": 93328
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/215.html",
+    "title": "8-port 10G SFP+ Web Management Switch | HRUI - HR-SWTGW2C8F-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_215.html.html",
+    "old_sha8": "301bb470",
+    "new_sha8": "6d149540",
+    "old_bytes": 114367,
+    "new_bytes": 114367
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/217.html",
+    "title": "HR-SWTGW2C80N | 8-port 10G Web Management Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_217.html.html",
+    "old_sha8": "e11bf504",
+    "new_sha8": "ea59d20e",
+    "old_bytes": 114824,
+    "new_bytes": 114824
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/260.html",
+    "title": "HR510S-8T - 8-Port 10G Web Managed Ethernet Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_260.html.html",
+    "old_sha8": "4c5678ae",
+    "new_sha8": "a4f2c7bd",
+    "old_bytes": 74599,
+    "new_bytes": 74599
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/202.html",
+    "title": "6-port 10G Web Managed Ethernet Switch, HR510S-4T2XS | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_202.html.html",
+    "old_sha8": "be95228b",
+    "new_sha8": "b3e0c3da",
+    "old_bytes": 112083,
+    "new_bytes": 112083
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/81.html",
+    "title": "5-Port 10G Web Managed Ethernet Switch, HR510S-5T | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_81.html.html",
+    "old_sha8": "1c5ffb3b",
+    "new_sha8": "d41a65f3",
+    "old_bytes": 110311,
+    "new_bytes": 110311
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/246.html",
+    "title": "30 Port L3 Managed 10G Uplink 2.5G Ethernet Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_246.html.html",
+    "old_sha8": "89fa0dc6",
+    "new_sha8": "5cd10077",
+    "old_bytes": 92217,
+    "new_bytes": 92217
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/245.html",
+    "title": "10G Uplink 30 Port 2.5G L3 Managed PoE Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_245.html.html",
+    "old_sha8": "9f916173",
+    "new_sha8": "27f8fd6f",
+    "old_bytes": 95540,
+    "new_bytes": 95540
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/232.html",
+    "title": "HRUI 24-Port 2.5G and 2-Port 10G SFP+ Web Managed PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_232.html.html",
+    "old_sha8": "57bb7b58",
+    "new_sha8": "f5b9c6f2",
+    "old_bytes": 92042,
+    "new_bytes": 92042
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/219.html",
+    "title": "9 Port 10G uplink 2.5G Web Managed Ethernet switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_219.html.html",
+    "old_sha8": "e1ead0fd",
+    "new_sha8": "120f4600",
+    "old_bytes": 68380,
+    "new_bytes": 68380
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/218.html",
+    "title": "9-Port 10 Gigabit Uplink 2.5G Web Managed PoE Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_218.html.html",
+    "old_sha8": "e26f8ffd",
+    "new_sha8": "f3b9d9c6",
+    "old_bytes": 81359,
+    "new_bytes": 81359
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/288.html",
+    "title": "HR310S-8T1XS - 8-Port 2.5G and 1-Port 10G SFP+ Web Managed Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_288.html.html",
+    "old_sha8": "01e7096d",
+    "new_sha8": "34340a28",
+    "old_bytes": 94971,
+    "new_bytes": 94971
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/201.html",
+    "title": "6 Port 10G uplink 2.5G Web Managed switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_201.html.html",
+    "old_sha8": "6c632243",
+    "new_sha8": "98bc3407",
+    "old_bytes": 68892,
+    "new_bytes": 68892
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/200.html",
+    "title": "6 Port 10G uplink 2.5G Web Managed Ethernet switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_200.html.html",
+    "old_sha8": "01365235",
+    "new_sha8": "94eb2614",
+    "old_bytes": 68794,
+    "new_bytes": 68794
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/79.html",
+    "title": "4-Port 2.5G and 2-Port 10G Web Managed Ethernet Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_79.html.html",
+    "old_sha8": "e8ff3abb",
+    "new_sha8": "4f47d96f",
+    "old_bytes": 108959,
+    "new_bytes": 108959
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/287.html",
+    "title": "HR310S-4T2XS - 4-Port 2.5G and 2-Port 10G SFP+ Web Managed Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_287.html.html",
+    "old_sha8": "3d9c0096",
+    "new_sha8": "be8b68f7",
+    "old_bytes": 95286,
+    "new_bytes": 95286
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/289.html",
+    "title": "HR310S-4T2XH - 4-Port 2.5G + 2-Port 10G Web-Managed Ethernet Switch for High-Speed Networking-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_289.html.html",
+    "old_sha8": "367b2e73",
+    "new_sha8": "6964b37b",
+    "old_bytes": 77840,
+    "new_bytes": 77840
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/282.html",
+    "title": "HR230S-48T6XS - 48-Port Gigabit and 6-Port 10G SFP+ Managed Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_282.html.html",
+    "old_sha8": "1f27d14a",
+    "new_sha8": "99a27f64",
+    "old_bytes": 96584,
+    "new_bytes": 96584
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/247.html",
+    "title": "36-Port 10G SFP+ Uplink L3+ Managed Ethernet Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_247.html.html",
+    "old_sha8": "1fe6d6a7",
+    "new_sha8": "444aba59",
+    "old_bytes": 90562,
+    "new_bytes": 90562
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/244.html",
+    "title": "28-Port 10G L3 Managed Intelligent Ethernet Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_244.html.html",
+    "old_sha8": "32cd075d",
+    "new_sha8": "0d841e3f",
+    "old_bytes": 89736,
+    "new_bytes": 89736
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/242.html",
+    "title": "28-Port 10G SFP+ L3+ Managed Intelligent PoE Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_242.html.html",
+    "old_sha8": "6232487b",
+    "new_sha8": "e60e5202",
+    "old_bytes": 92750,
+    "new_bytes": 92750
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/241.html",
+    "title": "HRUI 28-Port Gigabit L2 Managed Intelligent Ethernet Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_241.html.html",
+    "old_sha8": "d86ab887",
+    "new_sha8": "e1a16b44",
+    "old_bytes": 87172,
+    "new_bytes": 87172
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/240.html",
+    "title": "32-Port Gigabit L2 Managed Intelligent PoE Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_240.html.html",
+    "old_sha8": "b052ee87",
+    "new_sha8": "afc42935",
+    "old_bytes": 91811,
+    "new_bytes": 91811
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/235.html",
+    "title": "28-Port Gigabit L2+ Managed PoE Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_235.html.html",
+    "old_sha8": "2cd3ccb8",
+    "new_sha8": "48a67d3f",
+    "old_bytes": 92041,
+    "new_bytes": 92041
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/234.html",
+    "title": "26 Port Gigabit Web Managed Ethernet Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_234.html.html",
+    "old_sha8": "cf2d8ea6",
+    "new_sha8": "f12fe91b",
+    "old_bytes": 68651,
+    "new_bytes": 68651
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/233.html",
+    "title": "26 Port Gigabit Web Managed Ethernet PoE Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_233.html.html",
+    "old_sha8": "7a288ff0",
+    "new_sha8": "ea3c91bb",
+    "old_bytes": 72344,
+    "new_bytes": 72344
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/231.html",
+    "title": "20-Port Gigabit L2 Managed Intelligent PoE Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_231.html.html",
+    "old_sha8": "2afc45f1",
+    "new_sha8": "d1170ddf",
+    "old_bytes": 91526,
+    "new_bytes": 91526
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/227.html",
+    "title": "HRUI 10-Port Gigabit L2 Managed Intelligent Ethernet Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_227.html.html",
+    "old_sha8": "be2d86b7",
+    "new_sha8": "cc69562d",
+    "old_bytes": 91974,
+    "new_bytes": 91974
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/226.html",
+    "title": "10-Port Gigabit L2 Managed Intelligent PoE Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_226.html.html",
+    "old_sha8": "15994932",
+    "new_sha8": "bb08b175",
+    "old_bytes": 96206,
+    "new_bytes": 96206
+   },
+   {
+    "url": "https://www.hruitech.com/managed-switch/225.html",
+    "title": "10-Port Gigabit L2+ Managed PoE Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/managed-switch_225.html.html",
+    "old_sha8": "ce67fae7",
+    "new_sha8": "4e6b31a1",
+    "old_bytes": 96507,
+    "new_bytes": 96507
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/344.html",
+    "title": "HR500-AF-811GS-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch_344.html.html",
+    "old_sha8": "dec40d39",
+    "new_sha8": "e0addf38",
+    "old_bytes": 48434,
+    "new_bytes": 48434
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/331.html",
+    "title": "HR720P-8T-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch_331.html.html",
+    "old_sha8": "be9ee44f",
+    "new_sha8": "b2c930d7",
+    "old_bytes": 54028,
+    "new_bytes": 54028
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/316.html",
+    "title": "HR710P-8T-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch_316.html.html",
+    "old_sha8": "67eb2351",
+    "new_sha8": "0f6918b5",
+    "old_bytes": 51981,
+    "new_bytes": 51981
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/308.html",
+    "title": "HR720P-8T2GS-10-Port Gigabit Industrial PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch_308.html.html",
+    "old_sha8": "0041642e",
+    "new_sha8": "a86ebc6b",
+    "old_bytes": 50750,
+    "new_bytes": 50750
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/302.html",
+    "title": "HR722P-16T2GS 18-Port Industrial Managed PoE Switch | 36Gbps | -40~55°C-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch_302.html.html",
+    "old_sha8": "1f1dda21",
+    "new_sha8": "c6602834",
+    "old_bytes": 77513,
+    "new_bytes": 77513
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/132.html",
+    "title": "14-Port Gigabit Industrial Bypass Managed PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch_132.html.html",
+    "old_sha8": "32c04b22",
+    "new_sha8": "319374e2",
+    "old_bytes": 91807,
+    "new_bytes": 91807
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/131.html",
+    "title": "14-Port Gigabit Industrial Bypass Managed BT90W PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch_131.html.html",
+    "old_sha8": "1a5c9996",
+    "new_sha8": "59bdd341",
+    "old_bytes": 91163,
+    "new_bytes": 91163
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/130.html",
+    "title": "14-Port Gigabit Industrial Bypass Managed BT90W PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch_130.html.html",
+    "old_sha8": "298ef883",
+    "new_sha8": "8cc5325a",
+    "old_bytes": 91538,
+    "new_bytes": 91538
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/129.html",
+    "title": "14-Port Gigabit Industrial Bypass Managed BT90W PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch_129.html.html",
+    "old_sha8": "77c469e6",
+    "new_sha8": "5ed6c04a",
+    "old_bytes": 91024,
+    "new_bytes": 91024
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/128.html",
+    "title": "10-Port Gigabit Industrial 2.5G SFP Managed BT90W PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch_128.html.html",
+    "old_sha8": "c13a6f5b",
+    "new_sha8": "eabe9c63",
+    "old_bytes": 92322,
+    "new_bytes": 92322
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/127.html",
+    "title": "10-Port Gigabit Industrial Bypass Managed BT90W PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch_127.html.html",
+    "old_sha8": "d5abd953",
+    "new_sha8": "feca62bc",
+    "old_bytes": 92117,
+    "new_bytes": 92117
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/126.html",
+    "title": "10-Port Gigabit Industrial Bypass Managed PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch_126.html.html",
+    "old_sha8": "91a4afc8",
+    "new_sha8": "a7b683c3",
+    "old_bytes": 91730,
+    "new_bytes": 91730
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/125.html",
+    "title": "10-Port Gigabit Industrial 2.5G SFP Bypass Managed PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch_125.html.html",
+    "old_sha8": "2238056e",
+    "new_sha8": "8cc28e41",
+    "old_bytes": 91916,
+    "new_bytes": 91916
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/124.html",
+    "title": "14-Port Gigabit Industrial Bypass Managed PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch_124.html.html",
+    "old_sha8": "a2a4fe05",
+    "new_sha8": "cc0cd30b",
+    "old_bytes": 86867,
+    "new_bytes": 86867
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/123.html",
+    "title": "14-Port Gigabit Industrial 2.5G SFP Managed PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch_123.html.html",
+    "old_sha8": "53b737a3",
+    "new_sha8": "d005d285",
+    "old_bytes": 87083,
+    "new_bytes": 87083
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/122.html",
+    "title": "HRUI Gigabit Industrial 2.5G SFP Bypass Managed PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch_122.html.html",
+    "old_sha8": "23f03b3f",
+    "new_sha8": "7d0d88ee",
+    "old_bytes": 86971,
+    "new_bytes": 86971
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/121.html",
+    "title": "14-Port Gigabit Industrial Bypass Managed PoE Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch_121.html.html",
+    "old_sha8": "25d63f7d",
+    "new_sha8": "790acafe",
+    "old_bytes": 86801,
+    "new_bytes": 86801
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/120.html",
+    "title": "6-Port Gigabit Intelligent Industrial PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch_120.html.html",
+    "old_sha8": "61a50a7f",
+    "new_sha8": "fd0ae9a1",
+    "old_bytes": 56311,
+    "new_bytes": 56311
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/117.html",
+    "title": "5-Port 10M/100M Intelligent Industrial PoE Switch-HR500-AF-4-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch_117.html.html",
+    "old_sha8": "69edd595",
+    "new_sha8": "fc9252b9",
+    "old_bytes": 55221,
+    "new_bytes": 55221
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/115.html",
+    "title": "6 ports industrial PoE switch HR600-AFGM-42AS-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch_115.html.html",
+    "old_sha8": "1d0ea129",
+    "new_sha8": "292aff81",
+    "old_bytes": 91144,
+    "new_bytes": 91144
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/113.html",
+    "title": "10-Port Gigabit Industrial 2.5G SFP Managed PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch_113.html.html",
+    "old_sha8": "d4aa918b",
+    "new_sha8": "9202087e",
+    "old_bytes": 90460,
+    "new_bytes": 90460
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/109.html",
+    "title": "HRUI Industrial 14-Port Gigabit 2.5G SFP Managed PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch_109.html.html",
+    "old_sha8": "020e454b",
+    "new_sha8": "a355d351",
+    "old_bytes": 95637,
+    "new_bytes": 95637
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/104.html",
+    "title": "6-Port Gigabit Industrial 2.5G SFP Managed BT90W PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch_104.html.html",
+    "old_sha8": "372e112f",
+    "new_sha8": "53bb0f34",
+    "old_bytes": 114241,
+    "new_bytes": 114241
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/102.html",
+    "title": "10-Port Gigabit Industrial Managed BT90W PoE Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch_102.html.html",
+    "old_sha8": "bf77aabf",
+    "new_sha8": "44b2f303",
+    "old_bytes": 95585,
+    "new_bytes": 95585
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/100.html",
+    "title": "HRUI Gigabit Industrial Managed BT90W PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch_100.html.html",
+    "old_sha8": "d0be0519",
+    "new_sha8": "594d0c3c",
+    "old_bytes": 96841,
+    "new_bytes": 96841
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/89.html",
+    "title": "10-Port Gigabit Industrial PoE Switch HR500-AFG-82S-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch_89.html.html",
+    "old_sha8": "b1049f25",
+    "new_sha8": "623b773f",
+    "old_bytes": 64055,
+    "new_bytes": 64055
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/269.html",
+    "title": "HR722P-8T4GS-X - 12-Port Gigabit Industrial Managed PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch_269.html.html",
+    "old_sha8": "9607c2db",
+    "new_sha8": "6584f764",
+    "old_bytes": 111178,
+    "new_bytes": 111178
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/268.html",
+    "title": "HR722P-8T4GS-A - 12-Port Gigabit Industrial Managed PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch_268.html.html",
+    "old_sha8": "fdf940fd",
+    "new_sha8": "c6b285a9",
+    "old_bytes": 109629,
+    "new_bytes": 109629
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/267.html",
+    "title": "HR722P-8T2GS-X - 10-Port Gigabit Industrial Managed PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch_267.html.html",
+    "old_sha8": "9edfd7de",
+    "new_sha8": "ee2effd2",
+    "old_bytes": 112581,
+    "new_bytes": 112581
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/266.html",
+    "title": "HR722P-8T2GS-A - 10-Port Gigabit Industrial Managed PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch_266.html.html",
+    "old_sha8": "42c6eb37",
+    "new_sha8": "b4c99a2d",
+    "old_bytes": 112793,
+    "new_bytes": 112793
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-poe-switch/265.html",
+    "title": "HR722P-4T2GS-A | 6-Port Gigabit Industrial Managed PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-poe-switch_265.html.html",
+    "old_sha8": "223200e7",
+    "new_sha8": "0cdbcae8",
+    "old_bytes": 112360,
+    "new_bytes": 112360
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-ethernet-switch/320.html",
+    "title": "HR722S-24T4GS-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-ethernet-switch_320.html.html",
+    "old_sha8": "0c4b34a5",
+    "new_sha8": "bbb44083",
+    "old_bytes": 70652,
+    "new_bytes": 70652
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-ethernet-switch/319.html",
+    "title": "HR722S-16T8GS-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-ethernet-switch_319.html.html",
+    "old_sha8": "6a4d99f0",
+    "new_sha8": "b74f7f9a",
+    "old_bytes": 70528,
+    "new_bytes": 70528
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-ethernet-switch/313.html",
+    "title": "HR722S-16T2GS- 18-port Gigabit L2+ Managed Industrial Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-ethernet-switch_313.html.html",
+    "old_sha8": "b698ba8b",
+    "new_sha8": "353e9828",
+    "old_bytes": 67162,
+    "new_bytes": 67162
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-ethernet-switch/264.html",
+    "title": "HR500-SWG1042S - 4-Port Gigabit and 2-Port Gigabit SFP Industrial Ethernet Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-ethernet-switch_264.html.html",
+    "old_sha8": "6ae8c70f",
+    "new_sha8": "04ffeba8",
+    "old_bytes": 52099,
+    "new_bytes": 52099
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-ethernet-switch/187.html",
+    "title": "6-Port Gigabit Intelligent Industrial Ethernet Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-ethernet-switch_187.html.html",
+    "old_sha8": "c38abbb8",
+    "new_sha8": "62dca247",
+    "old_bytes": 52037,
+    "new_bytes": 52037
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-ethernet-switch/186.html",
+    "title": "HR500-SW1050 - 5-Port 100Mbps Industrial Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-ethernet-switch_186.html.html",
+    "old_sha8": "a908a64d",
+    "new_sha8": "1e7a2a6d",
+    "old_bytes": 49194,
+    "new_bytes": 49194
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-ethernet-switch/183.html",
+    "title": "6-Port Gigabit Industrial Managed Ethernet Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-ethernet-switch_183.html.html",
+    "old_sha8": "31e7537f",
+    "new_sha8": "017d707c",
+    "old_bytes": 93225,
+    "new_bytes": 93225
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-ethernet-switch/181.html",
+    "title": "Industrial 2.5G SFP Managed 10-Port Ethernet Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-ethernet-switch_181.html.html",
+    "old_sha8": "3f27ec65",
+    "new_sha8": "7bbe08b7",
+    "old_bytes": 89464,
+    "new_bytes": 89464
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-ethernet-switch/176.html",
+    "title": "14-Port Gigabit Managed Industrial Ethernet Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-ethernet-switch_176.html.html",
+    "old_sha8": "ff059286",
+    "new_sha8": "300817cc",
+    "old_bytes": 80272,
+    "new_bytes": 80272
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-ethernet-switch/174.html",
+    "title": "Industrial 10-Port Gigabit 2.5G SFP Managed Ethernet Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-ethernet-switch_174.html.html",
+    "old_sha8": "501bb8ff",
+    "new_sha8": "e4e29070",
+    "old_bytes": 90332,
+    "new_bytes": 90332
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-ethernet-switch/172.html",
+    "title": "14-Port Gigabit Industrial Managed Ethernet Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-ethernet-switch_172.html.html",
+    "old_sha8": "37e8655a",
+    "new_sha8": "240a4b5a",
+    "old_bytes": 86834,
+    "new_bytes": 86834
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-ethernet-switch/170.html",
+    "title": "2.5G SFP Bypass Managed Industrial Ethernet Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-ethernet-switch_170.html.html",
+    "old_sha8": "b9d7f6df",
+    "new_sha8": "ecf061a0",
+    "old_bytes": 90020,
+    "new_bytes": 90020
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-ethernet-switch/272.html",
+    "title": "HR722S-8T4GS - 12-Port Gigabit Industrial Managed Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-ethernet-switch_272.html.html",
+    "old_sha8": "b7adf6f8",
+    "new_sha8": "b7479bc7",
+    "old_bytes": 100722,
+    "new_bytes": 100722
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-ethernet-switch/271.html",
+    "title": "HR722S-8T2GS - 10-Port Gigabit Industrial Managed Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-ethernet-switch_271.html.html",
+    "old_sha8": "f41c1f4f",
+    "new_sha8": "20d66530",
+    "old_bytes": 101871,
+    "new_bytes": 101871
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-ethernet-switch/270.html",
+    "title": "HR722S-4T2GS - 6-Port Gigabit Industrial Managed Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-ethernet-switch_270.html.html",
+    "old_sha8": "3c3b00d4",
+    "new_sha8": "fe161719",
+    "old_bytes": 101736,
+    "new_bytes": 101736
+   },
+   {
+    "url": "https://www.hruitech.com/optical-fiber-converter/155.html",
+    "title": "10/100M Multi-mode Dual Fiber Media Converter HR100W-FE-2-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/optical-fiber-converter_155.html.html",
+    "old_sha8": "9ee58f95",
+    "new_sha8": "0e1c757b",
+    "old_bytes": 68235,
+    "new_bytes": 68235
+   },
+   {
+    "url": "https://www.hruitech.com/optical-fiber-converter/154.html",
+    "title": "HRUI 10/100M Fiber Media Converter HR100W-FE-25-TR-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/optical-fiber-converter_154.html.html",
+    "old_sha8": "fb69bf67",
+    "new_sha8": "b380c982",
+    "old_bytes": 68248,
+    "new_bytes": 68248
+   },
+   {
+    "url": "https://www.hruitech.com/optical-fiber-converter/153.html",
+    "title": "10/100M Single-mode Dual Fiber Media Converter HR100W-FE-25-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/optical-fiber-converter_153.html.html",
+    "old_sha8": "15640dc3",
+    "new_sha8": "cc3f2187",
+    "old_bytes": 68196,
+    "new_bytes": 68196
+   },
+   {
+    "url": "https://www.hruitech.com/optical-fiber-converter/152.html",
+    "title": "Gigabit Single-mode Media Converter HR100W-GE-3-TR-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/optical-fiber-converter_152.html.html",
+    "old_sha8": "4843892f",
+    "new_sha8": "c31f2083",
+    "old_bytes": 70448,
+    "new_bytes": 70448
+   },
+   {
+    "url": "https://www.hruitech.com/optical-fiber-converter/151.html",
+    "title": "Gigabit Single-mode Dual Fiber Media Converter HR100W-GE-25-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/optical-fiber-converter_151.html.html",
+    "old_sha8": "f08bce03",
+    "new_sha8": "eedb7dc6",
+    "old_bytes": 70323,
+    "new_bytes": 70323
+   },
+   {
+    "url": "https://www.hruitech.com/optical-fiber-converter/150.html",
+    "title": "Gigabit Single-mode Single Fiber Media Converter | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/optical-fiber-converter_150.html.html",
+    "old_sha8": "92e7299f",
+    "new_sha8": "0a2eee9e",
+    "old_bytes": 70750,
+    "new_bytes": 70750
+   },
+   {
+    "url": "https://www.hruitech.com/poe-accessory/330.html",
+    "title": "HR-AFR-31+ 100Mpbs Ethernet PoE Extender-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-accessory_330.html.html",
+    "old_sha8": "6d3f17d0",
+    "new_sha8": "8d840eab",
+    "old_bytes": 45723,
+    "new_bytes": 45723
+   },
+   {
+    "url": "https://www.hruitech.com/poe-accessory/329.html",
+    "title": "HR-AFR-41+ 100Mbps Ethernet PoE Extender-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-accessory_329.html.html",
+    "old_sha8": "6e90a30c",
+    "new_sha8": "05e26ab1",
+    "old_bytes": 45834,
+    "new_bytes": 45834
+   },
+   {
+    "url": "https://www.hruitech.com/poe-accessory/328.html",
+    "title": "HR-AFGR-31+ 1000Mpbs Ethernet PoE Extender-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-accessory_328.html.html",
+    "old_sha8": "18e3160d",
+    "new_sha8": "617999ab",
+    "old_bytes": 45949,
+    "new_bytes": 45949
+   },
+   {
+    "url": "https://www.hruitech.com/poe-accessory/327.html",
+    "title": "HR-AFGR-41+ Gigabit Ethernet PoE Extender-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-accessory_327.html.html",
+    "old_sha8": "2d754302",
+    "new_sha8": "bea8fe20",
+    "old_bytes": 46312,
+    "new_bytes": 46312
+   },
+   {
+    "url": "https://www.hruitech.com/poe-accessory/326.html",
+    "title": "HR-AFRW-31+ Weatherproof 100M Ethernet PoE Extender-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-accessory_326.html.html",
+    "old_sha8": "4d3f4125",
+    "new_sha8": "1ede5b6e",
+    "old_bytes": 46478,
+    "new_bytes": 46478
+   },
+   {
+    "url": "https://www.hruitech.com/poe-accessory/325.html",
+    "title": "HR-AFRW-41+ Weatherproof 100Mbps Ethernet PoE Extender-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-accessory_325.html.html",
+    "old_sha8": "9ffada33",
+    "new_sha8": "67c7fa75",
+    "old_bytes": 46755,
+    "new_bytes": 46755
+   },
+   {
+    "url": "https://www.hruitech.com/poe-accessory/324.html",
+    "title": "HR-AFGRW-31+ - Weatherproof 1000Mbps Ethernet PoE Extender-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-accessory_324.html.html",
+    "old_sha8": "be492d54",
+    "new_sha8": "07888fa8",
+    "old_bytes": 48475,
+    "new_bytes": 48475
+   },
+   {
+    "url": "https://www.hruitech.com/poe-accessory/312.html",
+    "title": "HR-AFGRW-41+ - Weatherproof 1000Mbps Ethernet PoE Extender-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-accessory_312.html.html",
+    "old_sha8": "66fe9dff",
+    "new_sha8": "8b98b85e",
+    "old_bytes": 47028,
+    "new_bytes": 47028
+   },
+   {
+    "url": "https://www.hruitech.com/poe-accessory/297.html",
+    "title": "HR-AFGRW-21 Gigabit Outdoor IP67 PoE Extender-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-accessory_297.html.html",
+    "old_sha8": "d010e6eb",
+    "new_sha8": "a6d3302f",
+    "old_bytes": 48861,
+    "new_bytes": 48861
+   },
+   {
+    "url": "https://www.hruitech.com/poe-accessory/295.html",
+    "title": "HR-BTGRW-21 Gigabit Outdoor IP67 PoE Extender-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-accessory_295.html.html",
+    "old_sha8": "8201e416",
+    "new_sha8": "fada7bf8",
+    "old_bytes": 47412,
+    "new_bytes": 47412
+   },
+   {
+    "url": "https://www.hruitech.com/poe-accessory/321.html",
+    "title": "HR200-BTG5-N901 -PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-accessory_321.html.html",
+    "old_sha8": "9f5b0f25",
+    "new_sha8": "9606a0fe",
+    "old_bytes": 47565,
+    "new_bytes": 47565
+   },
+   {
+    "url": "https://www.hruitech.com/poe-accessory/168.html",
+    "title": "Gigabit BT PoE Splitter HR-BTG-PD12F-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-accessory_168.html.html",
+    "old_sha8": "e5da53b7",
+    "new_sha8": "a1afbd90",
+    "old_bytes": 58542,
+    "new_bytes": 58542
+   },
+   {
+    "url": "https://www.hruitech.com/poe-accessory/163.html",
+    "title": "Gigabit 30W IEEE 802.3af/at PoE Injector HR900-AFG-N301-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-accessory_163.html.html",
+    "old_sha8": "32e74609",
+    "new_sha8": "198be840",
+    "old_bytes": 59253,
+    "new_bytes": 59253
+   },
+   {
+    "url": "https://www.hruitech.com/poe-accessory/162.html",
+    "title": "Gigabit BT60W PoE Injector HR-BTG-N601-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-accessory_162.html.html",
+    "old_sha8": "71be67ac",
+    "new_sha8": "af865d8d",
+    "old_bytes": 57023,
+    "new_bytes": 57023
+   },
+   {
+    "url": "https://www.hruitech.com/poe-accessory/161.html",
+    "title": "Gigabit BT90W PoE Injector HR-BTG-N901-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-accessory_161.html.html",
+    "old_sha8": "8d338f45",
+    "new_sha8": "818bb65f",
+    "old_bytes": 56924,
+    "new_bytes": 56924
+   },
+   {
+    "url": "https://www.hruitech.com/poe-accessory/160.html",
+    "title": "HRUI 90W 10G PoE Injector | HR200-BTTG-N901-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-accessory_160.html.html",
+    "old_sha8": "0cd2b2d1",
+    "new_sha8": "6a99cc6a",
+    "old_bytes": 63975,
+    "new_bytes": 63975
+   },
+   {
+    "url": "https://www.hruitech.com/poe-accessory/159.html",
+    "title": "HRUI 60W 10G PoE Injector | HR200-BTTG-N601-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-accessory_159.html.html",
+    "old_sha8": "a802501c",
+    "new_sha8": "9e6a5a1f",
+    "old_bytes": 64042,
+    "new_bytes": 64042
+   },
+   {
+    "url": "https://www.hruitech.com/poe-accessory/158.html",
+    "title": "100Mbps Ethernet PoE Extender HR-AFR-21+ | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-accessory_158.html.html",
+    "old_sha8": "d09851fd",
+    "new_sha8": "4afcb412",
+    "old_bytes": 69518,
+    "new_bytes": 69518
+   },
+   {
+    "url": "https://www.hruitech.com/poe-accessory/157.html",
+    "title": "1000Mbps Ethernet PoE Extender HR-AFGR-21+ | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-accessory_157.html.html",
+    "old_sha8": "d1500052",
+    "new_sha8": "fa1d3597",
+    "old_bytes": 69774,
+    "new_bytes": 69774
+   },
+   {
+    "url": "https://www.hruitech.com/poe-accessory/156.html",
+    "title": "HRUI 100Mbps Ethernet PoE Extender | HR-PE08-SV+ HR-PE08-IPC-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/poe-accessory_156.html.html",
+    "old_sha8": "cecbf8ef",
+    "new_sha8": "482cc308",
+    "old_bytes": 65495,
+    "new_bytes": 65495
+   },
+   {
+    "url": "https://www.hruitech.com/wireless-bridge/322.html",
+    "title": "HR-CPE30B-05P-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/wireless-bridge_322.html.html",
+    "old_sha8": "fc75c563",
+    "new_sha8": "e87e67c7",
+    "old_bytes": 49149,
+    "new_bytes": 49149
+   },
+   {
+    "url": "https://www.hruitech.com/wireless-bridge/301.html",
+    "title": "4G LTE WiFi Router - 300Mbps, Dual-Chip, TR069 Managed | HR-CPE300-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/wireless-bridge_301.html.html",
+    "old_sha8": "d75f1c36",
+    "new_sha8": "e52b6db5",
+    "old_bytes": 48452,
+    "new_bytes": 48452
+   },
+   {
+    "url": "https://www.hruitech.com/wireless-bridge/300.html",
+    "title": "Industrial 4G LTE Outdoor WiFi Router - IP65, 300Mbps, TR069 Managed-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/wireless-bridge_300.html.html",
+    "old_sha8": "baef02ad",
+    "new_sha8": "e95f12aa",
+    "old_bytes": 50705,
+    "new_bytes": 50705
+   },
+   {
+    "url": "https://www.hruitech.com/wireless-bridge/106.html",
+    "title": "HR-CPE90B-5 - 900Mbps Outdoor Wireless Digital Bridge-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/wireless-bridge_106.html.html",
+    "old_sha8": "f4daca0d",
+    "new_sha8": "1f2ed63b",
+    "old_bytes": 67721,
+    "new_bytes": 67721
+   },
+   {
+    "url": "https://www.hruitech.com/wireless-bridge/107.html",
+    "title": "450Mbps Wireless Digital Bridge HR-CPE45A-1 | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/wireless-bridge_107.html.html",
+    "old_sha8": "15a7c6de",
+    "new_sha8": "33b2de94",
+    "old_bytes": 65184,
+    "new_bytes": 65184
+   },
+   {
+    "url": "https://www.hruitech.com/wireless-bridge/108.html",
+    "title": "300Mbps Wireless Digital Bridge HR-CPE30A-1 | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/wireless-bridge_108.html.html",
+    "old_sha8": "764c030e",
+    "new_sha8": "71bdc28a",
+    "old_bytes": 64734,
+    "new_bytes": 64734
+   },
+   {
+    "url": "https://www.hruitech.com/public-works/314.html",
+    "title": "Urban Sewage Treatment And Control System Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/public-works_314.html.html",
+    "old_sha8": "4a113455",
+    "new_sha8": "cb2e720e",
+    "old_bytes": 33992,
+    "new_bytes": 33992
+   },
+   {
+    "url": "https://www.hruitech.com/public-works/312.html",
+    "title": "Urban Comprehensive Pipe Gallery System Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/public-works_312.html.html",
+    "old_sha8": "f3c3cbc0",
+    "new_sha8": "8815ec76",
+    "old_bytes": 33651,
+    "new_bytes": 33651
+   },
+   {
+    "url": "https://www.hruitech.com/industrial-automation/310.html",
+    "title": "Industrial Automation Control System Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/industrial-automation_310.html.html",
+    "old_sha8": "cf504eae",
+    "new_sha8": "479c44dc",
+    "old_bytes": 34098,
+    "new_bytes": 34098
+   },
+   {
+    "url": "https://www.hruitech.com/mine-industry/308.html",
+    "title": "Coal Mine Integrated Automation System Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/mine-industry_308.html.html",
+    "old_sha8": "aa223dff",
+    "new_sha8": "afe7dba9",
+    "old_bytes": 33971,
+    "new_bytes": 33971
+   },
+   {
+    "url": "https://www.hruitech.com/electric-energy/306.html",
+    "title": "Electricity Distribution Automation System Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/electric-energy_306.html.html",
+    "old_sha8": "bb5da17e",
+    "new_sha8": "1a39d29f",
+    "old_bytes": 34094,
+    "new_bytes": 34094
+   },
+   {
+    "url": "https://www.hruitech.com/intelligent-transportation/304.html",
+    "title": "Highway Industry Monitoring Solutions-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/intelligent-transportation_304.html.html",
+    "old_sha8": "5524c642",
+    "new_sha8": "4061a915",
+    "old_bytes": 34099,
+    "new_bytes": 34099
+   },
+   {
+    "url": "https://www.hruitech.com/community-security-130/121.html",
+    "title": "Community Comprehensive Security System Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/community-security-130_121.html.html",
+    "old_sha8": "6378889e",
+    "new_sha8": "7fb6f690",
+    "old_bytes": 33908,
+    "new_bytes": 33908
+   },
+   {
+    "url": "https://www.hruitech.com/wireless-network/112.html",
+    "title": "Large-scale Wireless Networking Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/wireless-network_112.html.html",
+    "old_sha8": "e0a004f6",
+    "new_sha8": "75017285",
+    "old_bytes": 33569,
+    "new_bytes": 33569
+   },
+   {
+    "url": "https://www.hruitech.com/building-intercom/97.html",
+    "title": "Intelligent Building Visual Intercom System Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/building-intercom_97.html.html",
+    "old_sha8": "df67ab5a",
+    "new_sha8": "1584fffb",
+    "old_bytes": 33878,
+    "new_bytes": 33878
+   },
+   {
+    "url": "https://www.hruitech.com/intelligent-transportation/94.html",
+    "title": "Road Monitoring Bayonet System Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/intelligent-transportation_94.html.html",
+    "old_sha8": "4963cf45",
+    "new_sha8": "4faafaef",
+    "old_bytes": 33943,
+    "new_bytes": 33943
+   },
+   {
+    "url": "https://www.hruitech.com/product-certification/page1/",
+    "title": "Product Certification-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/product-certification_page1.html",
+    "old_sha8": "428ccb7d",
+    "new_sha8": "3b4747d8",
+    "old_bytes": 34617,
+    "new_bytes": 34617
+   },
+   {
+    "url": "https://www.hruitech.com/exhibition-news/445.html",
+    "title": "HRUI Showcases Industrial Communication Solutions at CEIC 2026-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/exhibition-news_445.html.html",
+    "old_sha8": "1c502c18",
+    "new_sha8": "d7adab66",
+    "old_bytes": 33720,
+    "new_bytes": 33720
+   },
+   {
+    "url": "https://www.hruitech.com/exhibition-news/444.html",
+    "title": "HRUI Showcases Industrial Networking at CDIIF 2026-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/exhibition-news_444.html.html",
+    "old_sha8": "bd29e37f",
+    "new_sha8": "5f32f69b",
+    "old_bytes": 33789,
+    "new_bytes": 33789
+   },
+   {
+    "url": "https://www.hruitech.com/exhibition-news/439.html",
+    "title": "Invitation to ISC West 2025 Exhibition-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/exhibition-news_439.html.html",
+    "old_sha8": "582d9729",
+    "new_sha8": "260188f8",
+    "old_bytes": 32330,
+    "new_bytes": 32330
+   },
+   {
+    "url": "https://www.hruitech.com/exhibition-news/433.html",
+    "title": "HRUI Invites You to Explore PoE Innovation at MWC Barcelona 2025-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/exhibition-news_433.html.html",
+    "old_sha8": "2b6e1427",
+    "new_sha8": "08dc823d",
+    "old_bytes": 32642,
+    "new_bytes": 32642
+   },
+   {
+    "url": "https://www.hruitech.com/exhibition-news/328.html",
+    "title": "Looking forward to seeing you at Security Thailand 2024!-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/exhibition-news_328.html.html",
+    "old_sha8": "2c9f3196",
+    "new_sha8": "ea16a763",
+    "old_bytes": 32478,
+    "new_bytes": 32478
+   },
+   {
+    "url": "https://www.hruitech.com/exhibition-news/413.html",
+    "title": "Visit HRUI During Security China 2024-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/exhibition-news_413.html.html",
+    "old_sha8": "d3e5cc1e",
+    "new_sha8": "34394820",
+    "old_bytes": 32169,
+    "new_bytes": 32169
+   },
+   {
+    "url": "https://www.hruitech.com/exhibition-news/414.html",
+    "title": "HRUI Showcases Groundbreaking Innovations at Network X 2024-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/exhibition-news_414.html.html",
+    "old_sha8": "dc7ffd3a",
+    "new_sha8": "5c9bc2db",
+    "old_bytes": 33593,
+    "new_bytes": 33593
+   },
+   {
+    "url": "https://www.hruitech.com/exhibition-news/416.html",
+    "title": "HRUI to Showcase Innovations at ISAF Security Turkey 2024-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/exhibition-news_416.html.html",
+    "old_sha8": "49b8b790",
+    "new_sha8": "1cd51c25",
+    "old_bytes": 32127,
+    "new_bytes": 32127
+   },
+   {
+    "url": "https://www.hruitech.com/exhibition-news/page2/",
+    "title": "Exhibition News-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/exhibition-news_page2.html",
+    "old_sha8": "3a648be4",
+    "new_sha8": "2fa0a85c",
+    "old_bytes": 39078,
+    "new_bytes": 39078
+   },
+   {
+    "url": "https://www.hruitech.com/exhibition-news/page1/",
+    "title": "Exhibition News-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/exhibition-news_page1.html",
+    "old_sha8": "1f63dfa0",
+    "new_sha8": "6ff3512a",
+    "old_bytes": 38696,
+    "new_bytes": 38696
+   },
+   {
+    "url": "https://www.hruitech.com/company-news/453.html",
+    "title": "HRUI Recognized as a 2026 Shenzhen Green Factory-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/company-news_453.html.html",
+    "old_sha8": "2639da6a",
+    "new_sha8": "c9ba2a8a",
+    "old_bytes": 36031,
+    "new_bytes": 36031
+   },
+   {
+    "url": "https://www.hruitech.com/company-news/443.html",
+    "title": "HRUI Approved as a Guangdong Provincial Engineering Technology R&D Center-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/company-news_443.html.html",
+    "old_sha8": "88eeb610",
+    "new_sha8": "5357bc2a",
+    "old_bytes": 33816,
+    "new_bytes": 33816
+   },
+   {
+    "url": "https://www.hruitech.com/company-news/442.html",
+    "title": "HRUI Holiday Notice for Chinese Spring Festival 2026-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/company-news_442.html.html",
+    "old_sha8": "76b3c340",
+    "new_sha8": "3556cf14",
+    "old_bytes": 32644,
+    "new_bytes": 32644
+   },
+   {
+    "url": "https://www.hruitech.com/company-news/432.html",
+    "title": "HRUI Holiday Notice for Chinese Spring Festival 2025-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/company-news_432.html.html",
+    "old_sha8": "06d11919",
+    "new_sha8": "a2fbe70d",
+    "old_bytes": 32525,
+    "new_bytes": 32525
+   },
+   {
+    "url": "https://www.hruitech.com/company-news/415.html",
+    "title": "Exciting Developments at HRUI in 2024-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/company-news_415.html.html",
+    "old_sha8": "5692ba7d",
+    "new_sha8": "b7cb34a6",
+    "old_bytes": 37097,
+    "new_bytes": 37097
+   },
+   {
+    "url": "https://www.hruitech.com/company-news/316.html",
+    "title": "HRUI Holiday Arrangement for the Chinese National Day-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/company-news_316.html.html",
+    "old_sha8": "30a72537",
+    "new_sha8": "76497bc4",
+    "old_bytes": 33402,
+    "new_bytes": 33402
+   },
+   {
+    "url": "https://www.hruitech.com/company-news/318.html",
+    "title": "Mid-Autumn Festival with Exciting Activities at HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/company-news_318.html.html",
+    "old_sha8": "5bba3557",
+    "new_sha8": "82bed58f",
+    "old_bytes": 35202,
+    "new_bytes": 35202
+   },
+   {
+    "url": "https://www.hruitech.com/company-news/320.html",
+    "title": "HRUI Quarterly Birthday Party - 2024 Edition-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/company-news_320.html.html",
+    "old_sha8": "9de331e4",
+    "new_sha8": "3010b288",
+    "old_bytes": 34099,
+    "new_bytes": 34099
+   },
+   {
+    "url": "https://www.hruitech.com/product-news/441.html",
+    "title": "HRUI 2.5G Web Managed Ethernet Switch | High-Speed Network Management Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/product-news_441.html.html",
+    "old_sha8": "3aefc9ab",
+    "new_sha8": "5bad54b5",
+    "old_bytes": 39713,
+    "new_bytes": 39713
+   },
+   {
+    "url": "https://www.hruitech.com/product-news/440.html",
+    "title": "HRUI Full Gigabit Managed Industrial Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/product-news_440.html.html",
+    "old_sha8": "0103082f",
+    "new_sha8": "39e0298e",
+    "old_bytes": 41323,
+    "new_bytes": 41323
+   },
+   {
+    "url": "https://www.hruitech.com/product-news/438.html",
+    "title": "HRUI Gigabit Managed Industrial PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/product-news_438.html.html",
+    "old_sha8": "79f9132a",
+    "new_sha8": "2b91d523",
+    "old_bytes": 45074,
+    "new_bytes": 45074
+   },
+   {
+    "url": "https://www.hruitech.com/product-news/434.html",
+    "title": "HRUI 10G Uplink 2.5G Ethernet Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/product-news_434.html.html",
+    "old_sha8": "b76ae701",
+    "new_sha8": "6a207c48",
+    "old_bytes": 36629,
+    "new_bytes": 36629
+   },
+   {
+    "url": "https://www.hruitech.com/product-news/429.html",
+    "title": "HRUI Bypass Series - Industrial PoE(Ethernet) Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/product-news_429.html.html",
+    "old_sha8": "bd134895",
+    "new_sha8": "92692518",
+    "old_bytes": 42657,
+    "new_bytes": 42657
+   },
+   {
+    "url": "https://www.hruitech.com/product-news/396.html",
+    "title": "New - HRUI 24 Port 2.5G Smart Web PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/product-news_396.html.html",
+    "old_sha8": "2bb39c74",
+    "new_sha8": "c9e38d6a",
+    "old_bytes": 42975,
+    "new_bytes": 42975
+   },
+   {
+    "url": "https://www.hruitech.com/product-news/397.html",
+    "title": "New Arrival, HRUI 10G Smart Web Managed Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/product-news_397.html.html",
+    "old_sha8": "30e15816",
+    "new_sha8": "d3396a1c",
+    "old_bytes": 44001,
+    "new_bytes": 44001
+   },
+   {
+    "url": "https://www.hruitech.com/product-news/400.html",
+    "title": "HRUI Super Long Distance PoE Ethernet Extender-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/product-news_400.html.html",
+    "old_sha8": "b6d40da4",
+    "new_sha8": "ca58e561",
+    "old_bytes": 40649,
+    "new_bytes": 40649
+   },
+   {
+    "url": "https://www.hruitech.com/product-news/page1/",
+    "title": "Product News-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/product-news_page1.html",
+    "old_sha8": "e5d68eab",
+    "new_sha8": "06e082f2",
+    "old_bytes": 38717,
+    "new_bytes": 38717
+   },
+   {
+    "url": "https://www.hruitech.com/technology-sharing/455.html",
+    "title": "Industrial Ethernet for AI-Powered Machine Vision | Network Requirements-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/technology-sharing_455.html.html",
+    "old_sha8": "e65b10fc",
+    "new_sha8": "efce16cc",
+    "old_bytes": 39690,
+    "new_bytes": 39690
+   },
+   {
+    "url": "https://www.hruitech.com/technology-sharing/454.html",
+    "title": "Wi-Fi 7 and Multi-Gigabit Ethernet: Why 2.5G PoE and 10G Uplinks Matter-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/technology-sharing_454.html.html",
+    "old_sha8": "95b127df",
+    "new_sha8": "b0913c42",
+    "old_bytes": 38345,
+    "new_bytes": 38345
+   },
+   {
+    "url": "https://www.hruitech.com/technology-sharing/452.html",
+    "title": "Why Does a PoE Switch Keep Rebooting? Common Causes and Fixes-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/technology-sharing_452.html.html",
+    "old_sha8": "75d55d6d",
+    "new_sha8": "01b13320",
+    "old_bytes": 54450,
+    "new_bytes": 54450
+   },
+   {
+    "url": "https://www.hruitech.com/technology-sharing/451.html",
+    "title": "What Is Access Point Mode? A Practical Guide to Wi-Fi Networks | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/technology-sharing_451.html.html",
+    "old_sha8": "20109501",
+    "new_sha8": "c5a79382",
+    "old_bytes": 67895,
+    "new_bytes": 67895
+   },
+   {
+    "url": "https://www.hruitech.com/technology-sharing/450.html",
+    "title": "PoE Switch for IP Cameras: How to Choose the Right CCTV Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/technology-sharing_450.html.html",
+    "old_sha8": "745bc12f",
+    "new_sha8": "2b2eefab",
+    "old_bytes": 43332,
+    "new_bytes": 43332
+   },
+   {
+    "url": "https://www.hruitech.com/technology-sharing/449.html",
+    "title": "Switch vs Hub vs Router: Key Differences Explained | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/technology-sharing_449.html.html",
+    "old_sha8": "7b28b18e",
+    "new_sha8": "178ff3af",
+    "old_bytes": 78898,
+    "new_bytes": 78898
+   },
+   {
+    "url": "https://www.hruitech.com/technology-sharing/448.html",
+    "title": "What Is a PoE Injector? How It Works, Benefits, and PoE Injector vs PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/technology-sharing_448.html.html",
+    "old_sha8": "5729a6dd",
+    "new_sha8": "b9cff958",
+    "old_bytes": 60144,
+    "new_bytes": 60144
+   },
+   {
+    "url": "https://www.hruitech.com/news/page7/",
+    "title": "News-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/news_page7.html",
+    "old_sha8": "4f7e0835",
+    "new_sha8": "020fc7aa",
+    "old_bytes": 39387,
+    "new_bytes": 39387
+   },
+   {
+    "url": "https://www.hruitech.com/news/page6/",
+    "title": "News-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/news_page6.html",
+    "old_sha8": "5e9cde14",
+    "new_sha8": "78fe1203",
+    "old_bytes": 38534,
+    "new_bytes": 38534
+   },
+   {
+    "url": "https://www.hruitech.com/news/page5/",
+    "title": "News-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/news_page5.html",
+    "old_sha8": "73c31c73",
+    "new_sha8": "dfe1c0d6",
+    "old_bytes": 39815,
+    "new_bytes": 39815
+   },
+   {
+    "url": "https://www.hruitech.com/news/page4/",
+    "title": "News-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/news_page4.html",
+    "old_sha8": "6e0e30f3",
+    "new_sha8": "f6a7d0b8",
+    "old_bytes": 38864,
+    "new_bytes": 38864
+   },
+   {
+    "url": "https://www.hruitech.com/news/page3/",
+    "title": "News-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/news_page3.html",
+    "old_sha8": "be40de2e",
+    "new_sha8": "e72abfb9",
+    "old_bytes": 40430,
+    "new_bytes": 40430
+   },
+   {
+    "url": "https://www.hruitech.com/news/page2/",
+    "title": "News-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/news_page2.html",
+    "old_sha8": "3468217a",
+    "new_sha8": "1557e8f0",
+    "old_bytes": 39518,
+    "new_bytes": 39518
+   },
+   {
+    "url": "https://www.hruitech.com/news/page1/",
+    "title": "News-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/news_page1.html",
+    "old_sha8": "e150e898",
+    "new_sha8": "57365fda",
+    "old_bytes": 39242,
+    "new_bytes": 39242
+   },
+   {
+    "url": "https://www.hruitech.com/solution/page1/",
+    "title": "Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/solution_page1.html",
+    "old_sha8": "08c79435",
+    "new_sha8": "d602e46b",
+    "old_bytes": 40708,
+    "new_bytes": 40708
+   },
+   {
+    "url": "https://www.hruitech.com/web-manual/page1/",
+    "title": "Web Manual-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web-manual_page1.html",
+    "old_sha8": "e65666c7",
+    "new_sha8": "c9808617",
+    "old_bytes": 34698,
+    "new_bytes": 34698
+   },
+   {
+    "url": "https://www.hruitech.com/data-download/page3/",
+    "title": "Data Download- PoE Switch | Industrial Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/data-download_page3.html",
+    "old_sha8": "5f63b5ee",
+    "new_sha8": "6b6dbe30",
+    "old_bytes": 34616,
+    "new_bytes": 34616
+   },
+   {
+    "url": "https://www.hruitech.com/data-download/page2/",
+    "title": "Data Download- PoE Switch | Industrial Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/data-download_page2.html",
+    "old_sha8": "39ab02bf",
+    "new_sha8": "f47a81f5",
+    "old_bytes": 34549,
+    "new_bytes": 34549
+   },
+   {
+    "url": "https://www.hruitech.com/data-download/page1/",
+    "title": "Data Download- PoE Switch | Industrial Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/data-download_page1.html",
+    "old_sha8": "360b2fcc",
+    "new_sha8": "68d374bf",
+    "old_bytes": 34493,
+    "new_bytes": 34493
+   },
+   {
+    "url": "https://www.hruitech.com/technology-sharing/447.html",
+    "title": "1Gbps vs 2.5Gbps vs 10Gbps Switch: How to Choose the Right Ethernet Switch?-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/technology-sharing_447.html.html",
+    "old_sha8": "758b943f",
+    "new_sha8": "c2180b02",
+    "old_bytes": 57195,
+    "new_bytes": 57195
+   },
+   {
+    "url": "https://www.hruitech.com/technology-sharing/page2/",
+    "title": "Technology Sharing-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/technology-sharing_page2.html",
+    "old_sha8": "e9ad03fe",
+    "new_sha8": "e24e3fc6",
+    "old_bytes": 40288,
+    "new_bytes": 40288
+   },
+   {
+    "url": "https://www.hruitech.com/technology-sharing/page1/",
+    "title": "Technology Sharing-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/technology-sharing_page1.html",
+    "old_sha8": "2536df5f",
+    "new_sha8": "2daff930",
+    "old_bytes": 39432,
+    "new_bytes": 39432
+   },
+   {
+    "url": "https://www.hruitech.com/exhibition-news/417.html",
+    "title": "Join HRUI at NETWORK X 2024-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/exhibition-news_417.html.html",
+    "old_sha8": "b37ac985",
+    "new_sha8": "8bbb9af0",
+    "old_bytes": 31938,
+    "new_bytes": 31938
+   },
+   {
+    "url": "https://www.hruitech.com/exhibition-news/418.html",
+    "title": "HRUI Unveils Innovative Solutions at Security Essen 2024-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/exhibition-news_418.html.html",
+    "old_sha8": "7c35b3a1",
+    "new_sha8": "78dc1e7b",
+    "old_bytes": 33549,
+    "new_bytes": 33549
+   },
+   {
+    "url": "https://www.hruitech.com/exhibition-news/419.html",
+    "title": "Looking forward to seeing you at Security Essen 2024!-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/exhibition-news_419.html.html",
+    "old_sha8": "cda52e6c",
+    "new_sha8": "40574167",
+    "old_bytes": 32521,
+    "new_bytes": 32521
+   },
+   {
+    "url": "https://www.hruitech.com/exhibition-news/326.html",
+    "title": "HRUI Unveils Advanced PoE Switch Solutions at Security China 2024-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/exhibition-news_326.html.html",
+    "old_sha8": "4e2599c0",
+    "new_sha8": "19e0a101",
+    "old_bytes": 38068,
+    "new_bytes": 38068
+   },
+   {
+    "url": "https://www.hruitech.com/exhibition-news/420.html",
+    "title": "HRUI Showcases Cutting-Edge Solutions at Secutech Vietnam 2024-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/exhibition-news_420.html.html",
+    "old_sha8": "bd563448",
+    "new_sha8": "333e579b",
+    "old_bytes": 33405,
+    "new_bytes": 33405
+   },
+   {
+    "url": "https://www.hruitech.com/exhibition-news/421.html",
+    "title": "HRUI Annual Event Agenda in 2024-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/exhibition-news_421.html.html",
+    "old_sha8": "2cea0688",
+    "new_sha8": "571deea8",
+    "old_bytes": 32421,
+    "new_bytes": 32421
+   },
+   {
+    "url": "https://www.hruitech.com/exhibition-news/422.html",
+    "title": "Experience the Latest HRUI Developments at Secutech Vietnam 2024-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/exhibition-news_422.html.html",
+    "old_sha8": "778e50b6",
+    "new_sha8": "75277e85",
+    "old_bytes": 32364,
+    "new_bytes": 32364
+   },
+   {
+    "url": "https://www.hruitech.com/exhibition-news/423.html",
+    "title": "2024 Securex Poland, we are here waiting for you!-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/exhibition-news_423.html.html",
+    "old_sha8": "713d9edf",
+    "new_sha8": "42af6edb",
+    "old_bytes": 32784,
+    "new_bytes": 32784
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=64&lanstr=en",
+    "title": "PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_64_lanstr_en.html",
+    "old_sha8": "673fce41",
+    "new_sha8": "a02864fb",
+    "old_bytes": 42381,
+    "new_bytes": 42381
+   },
+   {
+    "url": "https://www.hruitech.com/technology-sharing/408.html",
+    "title": "Innovative Technologies Make HRUI PoE Switches More Stable And Smarter-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/technology-sharing_408.html.html",
+    "old_sha8": "00ce9c14",
+    "new_sha8": "ea716548",
+    "old_bytes": 34251,
+    "new_bytes": 34251
+   },
+   {
+    "url": "https://www.hruitech.com/technology-sharing/409.html",
+    "title": "Why Choose HRUI PoE Switches-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/technology-sharing_409.html.html",
+    "old_sha8": "d2f9ed6e",
+    "new_sha8": "b64f1031",
+    "old_bytes": 33299,
+    "new_bytes": 33299
+   },
+   {
+    "url": "https://www.hruitech.com/technology-sharing/410.html",
+    "title": "Introduction About PoE Switches And Technolgies-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/technology-sharing_410.html.html",
+    "old_sha8": "a552467c",
+    "new_sha8": "cfced123",
+    "old_bytes": 33078,
+    "new_bytes": 33078
+   },
+   {
+    "url": "https://www.hruitech.com/technology-sharing/411.html",
+    "title": "PoE System Composition And Working Process-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/technology-sharing_411.html.html",
+    "old_sha8": "1aa09daf",
+    "new_sha8": "427e1678",
+    "old_bytes": 33314,
+    "new_bytes": 33314
+   },
+   {
+    "url": "https://www.hruitech.com/technology-sharing/412.html",
+    "title": "HRUI L2/L3 Managed Switch Support NMS Stocking-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/technology-sharing_412.html.html",
+    "old_sha8": "346d4594",
+    "new_sha8": "2dd22516",
+    "old_bytes": 31728,
+    "new_bytes": 31728
+   },
+   {
+    "url": "https://www.hruitech.com/technology-sharing/332.html",
+    "title": "HRUI Long Reach PoE Technology Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/technology-sharing_332.html.html",
+    "old_sha8": "b6ce4901",
+    "new_sha8": "a711609a",
+    "old_bytes": 38555,
+    "new_bytes": 38555
+   },
+   {
+    "url": "https://www.hruitech.com/technology-sharing/398.html",
+    "title": "Exploring Which Wires Are Using to Transit Power In a PoE System-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/technology-sharing_398.html.html",
+    "old_sha8": "b3ee30cc",
+    "new_sha8": "804cae3c",
+    "old_bytes": 39057,
+    "new_bytes": 39057
+   },
+   {
+    "url": "https://www.hruitech.com/technology-sharing/399.html",
+    "title": "Web Smart Switch vs. Managed Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/technology-sharing_399.html.html",
+    "old_sha8": "b92bf976",
+    "new_sha8": "c2d9f2c1",
+    "old_bytes": 51633,
+    "new_bytes": 51633
+   },
+   {
+    "url": "https://www.hruitech.com/technology-sharing/403.html",
+    "title": "Discover The Advantages Of Industrial Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/technology-sharing_403.html.html",
+    "old_sha8": "b2f973fe",
+    "new_sha8": "5bf5f5be",
+    "old_bytes": 39380,
+    "new_bytes": 39380
+   },
+   {
+    "url": "https://www.hruitech.com/technology-sharing/404.html",
+    "title": "ERPS Ring Network Protection Protocol-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/technology-sharing_404.html.html",
+    "old_sha8": "91f13981",
+    "new_sha8": "1d154a38",
+    "old_bytes": 34587,
+    "new_bytes": 34587
+   },
+   {
+    "url": "https://www.hruitech.com/technology-sharing/406.html",
+    "title": "The Key Differences Between Managed vs Unmanaged Switches-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/technology-sharing_406.html.html",
+    "old_sha8": "45949b42",
+    "new_sha8": "9d941320",
+    "old_bytes": 35823,
+    "new_bytes": 35823
+   },
+   {
+    "url": "https://www.hruitech.com/technology-sharing/407.html",
+    "title": "HRUI Industrial Redundant Ring Technology And Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/technology-sharing_407.html.html",
+    "old_sha8": "8a49325c",
+    "new_sha8": "c960428c",
+    "old_bytes": 33886,
+    "new_bytes": 33886
+   },
+   {
+    "url": "https://www.hruitech.com/product-news/401.html",
+    "title": "New Arrival - HRUI 60W/90W 10G PoE Injector-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/product-news_401.html.html",
+    "old_sha8": "2352ee52",
+    "new_sha8": "a1053de3",
+    "old_bytes": 39036,
+    "new_bytes": 39036
+   },
+   {
+    "url": "https://www.hruitech.com/product-news/402.html",
+    "title": "HRUI Long-range Transmission Outdoor Wireless Bridge-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/product-news_402.html.html",
+    "old_sha8": "d7ab3a30",
+    "new_sha8": "f1a01854",
+    "old_bytes": 39268,
+    "new_bytes": 39268
+   },
+   {
+    "url": "https://www.hruitech.com/product-news/430.html",
+    "title": "HRUI 6 Ports Gigabit Managed Industrial PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/product-news_430.html.html",
+    "old_sha8": "e6e6378d",
+    "new_sha8": "f5b5da8d",
+    "old_bytes": 53269,
+    "new_bytes": 53269
+   },
+   {
+    "url": "https://www.hruitech.com/product-news/431.html",
+    "title": "HRUI 2 Ports PoE Extender | HRUI New Launch Products-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/product-news_431.html.html",
+    "old_sha8": "9e5d1fe4",
+    "new_sha8": "f0a767ee",
+    "old_bytes": 42450,
+    "new_bytes": 42450
+   },
+   {
+    "url": "https://www.hruitech.com/technology-sharing/330.html",
+    "title": "Understanding Core Switch: What It Is and How to Choose the Right One for Your Network.-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/technology-sharing_330.html.html",
+    "old_sha8": "40bfe8c5",
+    "new_sha8": "f62bbfc1",
+    "old_bytes": 40347,
+    "new_bytes": 40347
+   },
+   {
+    "url": "https://www.hruitech.com/technology-sharing/437.html",
+    "title": "Do You Really Need CAT6A Cables? Four Key Considerations!-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/technology-sharing_437.html.html",
+    "old_sha8": "bbd80548",
+    "new_sha8": "6f605ba7",
+    "old_bytes": 44549,
+    "new_bytes": 44549
+   },
+   {
+    "url": "https://www.hruitech.com/technology-sharing/435.html",
+    "title": "The Key to Efficient Power and Data Transmission in Modern Network Devices-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/technology-sharing_435.html.html",
+    "old_sha8": "eeb5f4b9",
+    "new_sha8": "225a8c68",
+    "old_bytes": 41275,
+    "new_bytes": 41275
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=64&id=0&lanstr=en",
+    "title": "PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_64_id_0_lanstr_en.html",
+    "old_sha8": "d40ec4c1",
+    "new_sha8": "8db6b908",
+    "old_bytes": 42381,
+    "new_bytes": 42381
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=0&classid=0&lanstr=en",
+    "title": "PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_0_classid_0_lanstr_en.html",
+    "old_sha8": "ee4fe27a",
+    "new_sha8": "6a304960",
+    "old_bytes": 66244,
+    "new_bytes": 66244
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=76&lanstr=en",
+    "title": "Ethernet Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_76_lanstr_en.html",
+    "old_sha8": "ad441e79",
+    "new_sha8": "8fc2cf78",
+    "old_bytes": 41993,
+    "new_bytes": 41993
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=182&lanstr=en",
+    "title": "Managed Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_182_lanstr_en.html",
+    "old_sha8": "0f7c6b77",
+    "new_sha8": "5f3d1927",
+    "old_bytes": 42613,
+    "new_bytes": 42613
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=184&lanstr=en",
+    "title": "Industrial PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_184_lanstr_en.html",
+    "old_sha8": "9fb5552c",
+    "new_sha8": "13752e19",
+    "old_bytes": 42932,
+    "new_bytes": 42932
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=186&lanstr=en",
+    "title": "Industrial Ethernet Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_186_lanstr_en.html",
+    "old_sha8": "377ab9db",
+    "new_sha8": "4a7d4690",
+    "old_bytes": 42580,
+    "new_bytes": 42580
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=188&lanstr=en",
+    "title": "Optical Fiber Converter-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_188_lanstr_en.html",
+    "old_sha8": "b6376650",
+    "new_sha8": "7f854c15",
+    "old_bytes": 41410,
+    "new_bytes": 41410
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=190&lanstr=en",
+    "title": "PoE Accessory-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_190_lanstr_en.html",
+    "old_sha8": "fa88d1a3",
+    "new_sha8": "785a9037",
+    "old_bytes": 41800,
+    "new_bytes": 41800
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=192&lanstr=en",
+    "title": "Wireless Bridge-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_192_lanstr_en.html",
+    "old_sha8": "447c1580",
+    "new_sha8": "b8535a19",
+    "old_bytes": 40425,
+    "new_bytes": 40425
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=130&lanstr=en",
+    "title": "Community Security-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_130_lanstr_en.html",
+    "old_sha8": "4fa07a81",
+    "new_sha8": "34314eec",
+    "old_bytes": 36771,
+    "new_bytes": 36771
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=132&lanstr=en",
+    "title": "Wireless Network-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_132_lanstr_en.html",
+    "old_sha8": "cb5c763a",
+    "new_sha8": "8378694f",
+    "old_bytes": 36641,
+    "new_bytes": 36641
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=134&lanstr=en",
+    "title": "Building Intercom-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_134_lanstr_en.html",
+    "old_sha8": "f794fdbc",
+    "new_sha8": "cc2f639f",
+    "old_bytes": 36921,
+    "new_bytes": 36921
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=172&lanstr=en",
+    "title": "Intelligent Transportation-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_172_lanstr_en.html",
+    "old_sha8": "0768773f",
+    "new_sha8": "09b0f91a",
+    "old_bytes": 37899,
+    "new_bytes": 37899
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=174&lanstr=en",
+    "title": "Electric Energy-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_174_lanstr_en.html",
+    "old_sha8": "523e85fa",
+    "new_sha8": "b182e5d4",
+    "old_bytes": 36877,
+    "new_bytes": 36877
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=176&lanstr=en",
+    "title": "Mine Industry-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_176_lanstr_en.html",
+    "old_sha8": "9a1308b3",
+    "new_sha8": "ab8e1802",
+    "old_bytes": 36765,
+    "new_bytes": 36765
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=178&lanstr=en",
+    "title": "Industrial Automation-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_178_lanstr_en.html",
+    "old_sha8": "458b9df8",
+    "new_sha8": "127a36bc",
+    "old_bytes": 36760,
+    "new_bytes": 36760
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=180&lanstr=en",
+    "title": "Public Works-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_180_lanstr_en.html",
+    "old_sha8": "30f4eb2f",
+    "new_sha8": "28049ac5",
+    "old_bytes": 37966,
+    "new_bytes": 37966
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=96&classid=158&lanstr=en",
+    "title": "ODM/OEM Service-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_96_classid_158_lanstr_en.html",
+    "old_sha8": "d16e308b",
+    "new_sha8": "a8310522",
+    "old_bytes": 39702,
+    "new_bytes": 39702
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=96&classid=160&lanstr=en",
+    "title": "Channel Agent-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_96_classid_160_lanstr_en.html",
+    "old_sha8": "bbe81559",
+    "new_sha8": "dedbecdc",
+    "old_bytes": 39713,
+    "new_bytes": 39713
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=96&classid=162&lanstr=en",
+    "title": "After-Sales Support-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_96_classid_162_lanstr_en.html",
+    "old_sha8": "607e3c41",
+    "new_sha8": "a9db58db",
+    "old_bytes": 36213,
+    "new_bytes": 36213
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=96&classid=206&lanstr=en",
+    "title": "Product Category-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_96_classid_206_lanstr_en.html",
+    "old_sha8": "09e66993",
+    "new_sha8": "21652501",
+    "old_bytes": 35795,
+    "new_bytes": 35795
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=22&lanstr=en",
+    "title": "Company News-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_22_lanstr_en.html",
+    "old_sha8": "13a5ed19",
+    "new_sha8": "86c3c4a3",
+    "old_bytes": 43322,
+    "new_bytes": 43322
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=25&lanstr=en",
+    "title": "Product News-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_25_lanstr_en.html",
+    "old_sha8": "a7e8e0a3",
+    "new_sha8": "e93b7a2f",
+    "old_bytes": 43263,
+    "new_bytes": 43263
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=152&lanstr=en",
+    "title": "Exhibition News-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_152_lanstr_en.html",
+    "old_sha8": "95852210",
+    "new_sha8": "649e79b3",
+    "old_bytes": 43150,
+    "new_bytes": 43150
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=154&lanstr=en",
+    "title": "Industry News-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_154_lanstr_en.html",
+    "old_sha8": "d5e89742",
+    "new_sha8": "51f49bdb",
+    "old_bytes": 35177,
+    "new_bytes": 35177
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=156&lanstr=en",
+    "title": "Technology Sharing-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_156_lanstr_en.html",
+    "old_sha8": "ca7edbed",
+    "new_sha8": "2ccefe83",
+    "old_bytes": 43805,
+    "new_bytes": 43805
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=1&classid=4&lanstr=en",
+    "title": "Company Profile-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_1_classid_4_lanstr_en.html",
+    "old_sha8": "452ac020",
+    "new_sha8": "70022d06",
+    "old_bytes": 37823,
+    "new_bytes": 37823
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=1&classid=7&lanstr=en",
+    "title": "Founding Story-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_1_classid_7_lanstr_en.html",
+    "old_sha8": "9808d686",
+    "new_sha8": "ef4e50d9",
+    "old_bytes": 38316,
+    "new_bytes": 38316
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=1&classid=10&lanstr=en",
+    "title": "Development History-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_1_classid_10_lanstr_en.html",
+    "old_sha8": "d2c0e991",
+    "new_sha8": "997a44b0",
+    "old_bytes": 41986,
+    "new_bytes": 41986
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=1&classid=148&lanstr=en",
+    "title": "Organizational Structure-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_1_classid_148_lanstr_en.html",
+    "old_sha8": "cfe635a2",
+    "new_sha8": "1631b357",
+    "old_bytes": 34941,
+    "new_bytes": 34941
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=1&classid=150&lanstr=en",
+    "title": "Enterprise Culture-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_1_classid_150_lanstr_en.html",
+    "old_sha8": "ee9707c1",
+    "new_sha8": "77dcb0e1",
+    "old_bytes": 36124,
+    "new_bytes": 36124
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=1&classid=194&lanstr=en",
+    "title": "Qualifications-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_1_classid_194_lanstr_en.html",
+    "old_sha8": "cae13817",
+    "new_sha8": "e363ae2d",
+    "old_bytes": 37293,
+    "new_bytes": 37293
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=31&classid=31&lanstr=en",
+    "title": "Contact Us | HRUI - PoE switch & industrial switch factory-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_31_classid_31_lanstr_en.html",
+    "old_sha8": "9949bcbb",
+    "new_sha8": "13d3d5ea",
+    "old_bytes": 37074,
+    "new_bytes": 37074
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=96&classid=206",
+    "title": "Product Category-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_96_classid_206.html",
+    "old_sha8": "ac52577d",
+    "new_sha8": "a15bb117",
+    "old_bytes": 35795,
+    "new_bytes": 35795
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=96&classid=208",
+    "title": "Web Manual-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_96_classid_208.html",
+    "old_sha8": "488f7515",
+    "new_sha8": "d0541992",
+    "old_bytes": 38866,
+    "new_bytes": 38866
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=96&classid=210",
+    "title": "Product Certification-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_96_classid_210.html",
+    "old_sha8": "6014f603",
+    "new_sha8": "52bb7096",
+    "old_bytes": 38763,
+    "new_bytes": 38763
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=96&classid=212",
+    "title": "Firmware Download-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_96_classid_212.html",
+    "old_sha8": "6be0bc02",
+    "new_sha8": "6ed48cef",
+    "old_bytes": 35797,
+    "new_bytes": 35797
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=106&classid=106&lanstr=en",
+    "title": "Supplier Recommendation-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_106_classid_106_lanstr_en.html",
+    "old_sha8": "bd109a98",
+    "new_sha8": "85cb62c8",
+    "old_bytes": 36457,
+    "new_bytes": 36457
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=40&classid=40&lanstr=en",
+    "title": "Comprehensive Sitemap - Easily Navigate Our Website | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_40_classid_40_lanstr_en.html",
+    "old_sha8": "09709d56",
+    "new_sha8": "e0e2a484",
+    "old_bytes": 37779,
+    "new_bytes": 37779
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=198&classid=198&lanstr=en",
+    "title": "Legal Notice | HRUI - Compliance & Transparency-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_198_classid_198_lanstr_en.html",
+    "old_sha8": "0e51fdbe",
+    "new_sha8": "fdecea51",
+    "old_bytes": 34293,
+    "new_bytes": 34293
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=0&classid=0&id=&lanstr=en",
+    "title": "PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_0_classid_0_id_lanstr_en.html",
+    "old_sha8": "ea249412",
+    "new_sha8": "f2545be8",
+    "old_bytes": 66244,
+    "new_bytes": 66244
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=76&id=343",
+    "title": "HR300S-24T2XS-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_76_id_343.html",
+    "old_sha8": "07d426dd",
+    "new_sha8": "ac6d383c",
+    "old_bytes": 50262,
+    "new_bytes": 50262
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=64&id=341",
+    "title": "16-Port 10/100/1000T 802.3af/at PoE + 2-Port 2.5G SFP Ethernet Switch (280 Watts)-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_64_id_341.html",
+    "old_sha8": "199bf9ce",
+    "new_sha8": "1fa0caa9",
+    "old_bytes": 54582,
+    "new_bytes": 54582
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=64&id=339",
+    "title": "HR200P-24T2MS-400-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_64_id_339.html",
+    "old_sha8": "40c2b991",
+    "new_sha8": "ec8a47d6",
+    "old_bytes": 55247,
+    "new_bytes": 55247
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=182&id=333",
+    "title": "HR210P-16T2MS-300-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_182_id_333.html",
+    "old_sha8": "1dc25459",
+    "new_sha8": "b8d79531",
+    "old_bytes": 62425,
+    "new_bytes": 62425
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=182&id=332",
+    "title": "HR210P-24T2MS-400-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_182_id_332.html",
+    "old_sha8": "4358b67d",
+    "new_sha8": "0cb8b5b1",
+    "old_bytes": 62807,
+    "new_bytes": 62807
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=190&id=329",
+    "title": "HR-AFR-41+ 100Mbps Ethernet PoE Extender-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_190_id_329.html",
+    "old_sha8": "acd7e2d6",
+    "new_sha8": "32fbf8e3",
+    "old_bytes": 50083,
+    "new_bytes": 50083
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=190&id=327",
+    "title": "HR-AFGR-41+ Gigabit Ethernet PoE Extender-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_190_id_327.html",
+    "old_sha8": "92c08119",
+    "new_sha8": "c85845a6",
+    "old_bytes": 50561,
+    "new_bytes": 50561
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=190&id=325",
+    "title": "HR-AFRW-41+ Weatherproof 100Mbps Ethernet PoE Extender-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_190_id_325.html",
+    "old_sha8": "c5d5257e",
+    "new_sha8": "0c307482",
+    "old_bytes": 51004,
+    "new_bytes": 51004
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=192&id=322",
+    "title": "HR-CPE30B-05P-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_192_id_322.html",
+    "old_sha8": "44e95453",
+    "new_sha8": "39b9e9af",
+    "old_bytes": 53398,
+    "new_bytes": 53398
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=190&id=312",
+    "title": "HR-AFGRW-41+ - Weatherproof 1000Mbps Ethernet PoE Extender-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_190_id_312.html",
+    "old_sha8": "73a5dab3",
+    "new_sha8": "20abaaba",
+    "old_bytes": 51277,
+    "new_bytes": 51277
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=190&id=295",
+    "title": "HR-BTGRW-21 Gigabit Outdoor IP67 PoE Extender-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_190_id_295.html",
+    "old_sha8": "ada48174",
+    "new_sha8": "9fbbe447",
+    "old_bytes": 51661,
+    "new_bytes": 51661
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=190&id=321",
+    "title": "HR200-BTG5-N901 -PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_190_id_321.html",
+    "old_sha8": "aa1ec851",
+    "new_sha8": "6fcc639c",
+    "old_bytes": 51814,
+    "new_bytes": 51814
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=190&id=157",
+    "title": "1000Mbps Ethernet PoE Extender HR-AFGR-21+ | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_190_id_157.html",
+    "old_sha8": "b531a03a",
+    "new_sha8": "e241ace8",
+    "old_bytes": 74023,
+    "new_bytes": 74023
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=190&id=156",
+    "title": "HRUI 100Mbps Ethernet PoE Extender | HR-PE08-SV+ HR-PE08-IPC-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_190_id_156.html",
+    "old_sha8": "b330eca3",
+    "new_sha8": "d721bf3a",
+    "old_bytes": 69744,
+    "new_bytes": 69744
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=64&id=85",
+    "title": "9-Port 1G and 1-Port 1G SFP PoE Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_64_id_85.html",
+    "old_sha8": "fb437d3d",
+    "new_sha8": "6110bf55",
+    "old_bytes": 82177,
+    "new_bytes": 82177
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=184&id=104",
+    "title": "6-Port Gigabit Industrial 2.5G SFP Managed BT90W PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_184_id_104.html",
+    "old_sha8": "754995ac",
+    "new_sha8": "d3b3243a",
+    "old_bytes": 118490,
+    "new_bytes": 118490
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=184&id=268",
+    "title": "HR722P-8T4GS-A - 12-Port Gigabit Industrial Managed PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_184_id_268.html",
+    "old_sha8": "047e251a",
+    "new_sha8": "baae3d0b",
+    "old_bytes": 113878,
+    "new_bytes": 113878
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=184&id=266",
+    "title": "HR722P-8T2GS-A - 10-Port Gigabit Industrial Managed PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_184_id_266.html",
+    "old_sha8": "173c79c9",
+    "new_sha8": "c46ef6a5",
+    "old_bytes": 117042,
+    "new_bytes": 117042
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=184&id=265",
+    "title": "HR722P-4T2GS-A | 6-Port Gigabit Industrial Managed PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_184_id_265.html",
+    "old_sha8": "0c8e567f",
+    "new_sha8": "e9e144a0",
+    "old_bytes": 116609,
+    "new_bytes": 116609
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=180&id=314",
+    "title": "Urban Sewage Treatment And Control System Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_180_id_314.html",
+    "old_sha8": "93094aa4",
+    "new_sha8": "2344c0dc",
+    "old_bytes": 38238,
+    "new_bytes": 38238
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=180&id=312",
+    "title": "Urban Comprehensive Pipe Gallery System Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_180_id_312.html",
+    "old_sha8": "56f894c4",
+    "new_sha8": "b5a454e6",
+    "old_bytes": 37897,
+    "new_bytes": 37897
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=178&id=310",
+    "title": "Industrial Automation Control System Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_178_id_310.html",
+    "old_sha8": "56bed6c3",
+    "new_sha8": "872cad2b",
+    "old_bytes": 38344,
+    "new_bytes": 38344
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=176&id=308",
+    "title": "Coal Mine Integrated Automation System Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_176_id_308.html",
+    "old_sha8": "f43da92e",
+    "new_sha8": "15dc1f2c",
+    "old_bytes": 38217,
+    "new_bytes": 38217
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=174&id=306",
+    "title": "Electricity Distribution Automation System Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_174_id_306.html",
+    "old_sha8": "8391690a",
+    "new_sha8": "684087f6",
+    "old_bytes": 38340,
+    "new_bytes": 38340
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=172&id=304",
+    "title": "Highway Industry Monitoring Solutions-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_172_id_304.html",
+    "old_sha8": "12ef979a",
+    "new_sha8": "0d838fdc",
+    "old_bytes": 38345,
+    "new_bytes": 38345
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=130&id=121",
+    "title": "Community Comprehensive Security System Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_130_id_121.html",
+    "old_sha8": "0a6f1d82",
+    "new_sha8": "8399f50b",
+    "old_bytes": 38154,
+    "new_bytes": 38154
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=132&id=112",
+    "title": "Large-scale Wireless Networking Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_132_id_112.html",
+    "old_sha8": "0ea3e497",
+    "new_sha8": "064ef13c",
+    "old_bytes": 37815,
+    "new_bytes": 37815
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=134&id=97",
+    "title": "Intelligent Building Visual Intercom System Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_134_id_97.html",
+    "old_sha8": "ce8e04e6",
+    "new_sha8": "8b4cfd19",
+    "old_bytes": 38123,
+    "new_bytes": 38123
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=172&id=94",
+    "title": "Road Monitoring Bayonet System Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_172_id_94.html",
+    "old_sha8": "0ad2bf40",
+    "new_sha8": "e2273282",
+    "old_bytes": 38188,
+    "new_bytes": 38188
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=76&id=0&lanstr=en",
+    "title": "Ethernet Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_76_id_0_lanstr_en.html",
+    "old_sha8": "74a4b40e",
+    "new_sha8": "c29a2091",
+    "old_bytes": 41993,
+    "new_bytes": 41993
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=182&id=0&lanstr=en",
+    "title": "Managed Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_182_id_0_lanstr_en.html",
+    "old_sha8": "93a0d1c2",
+    "new_sha8": "5536a052",
+    "old_bytes": 42613,
+    "new_bytes": 42613
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=184&id=0&lanstr=en",
+    "title": "Industrial PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_184_id_0_lanstr_en.html",
+    "old_sha8": "dbddfff1",
+    "new_sha8": "b6717c10",
+    "old_bytes": 42932,
+    "new_bytes": 42932
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=186&id=0&lanstr=en",
+    "title": "Industrial Ethernet Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_186_id_0_lanstr_en.html",
+    "old_sha8": "ecb15525",
+    "new_sha8": "04c03799",
+    "old_bytes": 42580,
+    "new_bytes": 42580
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=188&id=0&lanstr=en",
+    "title": "Optical Fiber Converter-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_188_id_0_lanstr_en.html",
+    "old_sha8": "1905f7d6",
+    "new_sha8": "0821c268",
+    "old_bytes": 41410,
+    "new_bytes": 41410
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=190&id=0&lanstr=en",
+    "title": "PoE Accessory-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_190_id_0_lanstr_en.html",
+    "old_sha8": "8595b0d2",
+    "new_sha8": "31125f02",
+    "old_bytes": 41800,
+    "new_bytes": 41800
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=192&id=0&lanstr=en",
+    "title": "Wireless Bridge-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_192_id_0_lanstr_en.html",
+    "old_sha8": "cf767bab",
+    "new_sha8": "d9eb592a",
+    "old_bytes": 40425,
+    "new_bytes": 40425
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=130&id=0&lanstr=en",
+    "title": "Community Security-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_130_id_0_lanstr_en.html",
+    "old_sha8": "3db0d6b6",
+    "new_sha8": "e77c34c6",
+    "old_bytes": 36771,
+    "new_bytes": 36771
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=130&id=121&lanstr=en",
+    "title": "Community Comprehensive Security System Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_130_id_121_lanstr_en.html",
+    "old_sha8": "a4582baa",
+    "new_sha8": "9b4d7a57",
+    "old_bytes": 38154,
+    "new_bytes": 38154
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=132&id=0&lanstr=en",
+    "title": "Wireless Network-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_132_id_0_lanstr_en.html",
+    "old_sha8": "471f284e",
+    "new_sha8": "d9a7113f",
+    "old_bytes": 36641,
+    "new_bytes": 36641
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=132&id=112&lanstr=en",
+    "title": "Large-scale Wireless Networking Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_132_id_112_lanstr_en.html",
+    "old_sha8": "2ed33512",
+    "new_sha8": "caaace53",
+    "old_bytes": 37815,
+    "new_bytes": 37815
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=134&id=0&lanstr=en",
+    "title": "Building Intercom-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_134_id_0_lanstr_en.html",
+    "old_sha8": "7f2149d5",
+    "new_sha8": "259d93e6",
+    "old_bytes": 36921,
+    "new_bytes": 36921
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=134&id=97&lanstr=en",
+    "title": "Intelligent Building Visual Intercom System Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_134_id_97_lanstr_en.html",
+    "old_sha8": "fbb09c40",
+    "new_sha8": "54a4b158",
+    "old_bytes": 38123,
+    "new_bytes": 38123
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=172&id=0&lanstr=en",
+    "title": "Intelligent Transportation-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_172_id_0_lanstr_en.html",
+    "old_sha8": "95dd93ac",
+    "new_sha8": "08241dc5",
+    "old_bytes": 37899,
+    "new_bytes": 37899
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=172&id=304&lanstr=en",
+    "title": "Highway Industry Monitoring Solutions-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_172_id_304_lanstr_en.html",
+    "old_sha8": "9cfe8fb6",
+    "new_sha8": "09d11222",
+    "old_bytes": 38345,
+    "new_bytes": 38345
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=172&id=94&lanstr=en",
+    "title": "Road Monitoring Bayonet System Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_172_id_94_lanstr_en.html",
+    "old_sha8": "0a1c32ca",
+    "new_sha8": "a00fda95",
+    "old_bytes": 38188,
+    "new_bytes": 38188
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=174&id=0&lanstr=en",
+    "title": "Electric Energy-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_174_id_0_lanstr_en.html",
+    "old_sha8": "98179e54",
+    "new_sha8": "0c55661e",
+    "old_bytes": 36877,
+    "new_bytes": 36877
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=174&id=306&lanstr=en",
+    "title": "Electricity Distribution Automation System Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_174_id_306_lanstr_en.html",
+    "old_sha8": "74aed5cc",
+    "new_sha8": "938437ac",
+    "old_bytes": 38340,
+    "new_bytes": 38340
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=176&id=0&lanstr=en",
+    "title": "Mine Industry-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_176_id_0_lanstr_en.html",
+    "old_sha8": "86d48508",
+    "new_sha8": "21984ce5",
+    "old_bytes": 36765,
+    "new_bytes": 36765
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=176&id=308&lanstr=en",
+    "title": "Coal Mine Integrated Automation System Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_176_id_308_lanstr_en.html",
+    "old_sha8": "02800c76",
+    "new_sha8": "138906bb",
+    "old_bytes": 38217,
+    "new_bytes": 38217
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=178&id=0&lanstr=en",
+    "title": "Industrial Automation-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_178_id_0_lanstr_en.html",
+    "old_sha8": "c37d486e",
+    "new_sha8": "2bd572cf",
+    "old_bytes": 36760,
+    "new_bytes": 36760
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=178&id=310&lanstr=en",
+    "title": "Industrial Automation Control System Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_178_id_310_lanstr_en.html",
+    "old_sha8": "dc7a6ce6",
+    "new_sha8": "6b667ab1",
+    "old_bytes": 38344,
+    "new_bytes": 38344
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=180&id=0&lanstr=en",
+    "title": "Public Works-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_180_id_0_lanstr_en.html",
+    "old_sha8": "47486916",
+    "new_sha8": "39f2a3ca",
+    "old_bytes": 37966,
+    "new_bytes": 37966
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=180&id=314&lanstr=en",
+    "title": "Urban Sewage Treatment And Control System Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_180_id_314_lanstr_en.html",
+    "old_sha8": "ac2dcf1f",
+    "new_sha8": "ed26ea7d",
+    "old_bytes": 38238,
+    "new_bytes": 38238
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=94&classid=180&id=312&lanstr=en",
+    "title": "Urban Comprehensive Pipe Gallery System Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_94_classid_180_id_312_lanstr_en.html",
+    "old_sha8": "44f6f7a6",
+    "new_sha8": "cff5c56d",
+    "old_bytes": 37897,
+    "new_bytes": 37897
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=96&classid=158&id=0&lanstr=en",
+    "title": "ODM/OEM Service-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_96_classid_158_id_0_lanstr_en.html",
+    "old_sha8": "d546d043",
+    "new_sha8": "4e9b05a3",
+    "old_bytes": 39702,
+    "new_bytes": 39702
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=96&classid=160&id=0&lanstr=en",
+    "title": "Channel Agent-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_96_classid_160_id_0_lanstr_en.html",
+    "old_sha8": "7c19dfef",
+    "new_sha8": "3628bf3d",
+    "old_bytes": 39713,
+    "new_bytes": 39713
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=96&classid=162&id=0&lanstr=en",
+    "title": "After-Sales Support-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_96_classid_162_id_0_lanstr_en.html",
+    "old_sha8": "5405b220",
+    "new_sha8": "c9c9ce15",
+    "old_bytes": 36213,
+    "new_bytes": 36213
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=96&classid=206&id=&lanstr=en",
+    "title": "Product Category-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_96_classid_206_id_lanstr_en.html",
+    "old_sha8": "2b4cc1bf",
+    "new_sha8": "206e6764",
+    "old_bytes": 35795,
+    "new_bytes": 35795
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=96&classid=208&lanstr=en",
+    "title": "Web Manual-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_96_classid_208_lanstr_en.html",
+    "old_sha8": "0f4940a2",
+    "new_sha8": "68d4c5b9",
+    "old_bytes": 38866,
+    "new_bytes": 38866
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=96&classid=210&lanstr=en",
+    "title": "Product Certification-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_96_classid_210_lanstr_en.html",
+    "old_sha8": "2b65e536",
+    "new_sha8": "b90b785b",
+    "old_bytes": 38763,
+    "new_bytes": 38763
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=96&classid=212&lanstr=en",
+    "title": "Firmware Download-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_96_classid_212_lanstr_en.html",
+    "old_sha8": "8ffc420a",
+    "new_sha8": "5589945c",
+    "old_bytes": 35797,
+    "new_bytes": 35797
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=22&id=0&lanstr=en",
+    "title": "Company News-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_22_id_0_lanstr_en.html",
+    "old_sha8": "bed3bb29",
+    "new_sha8": "139337ff",
+    "old_bytes": 43322,
+    "new_bytes": 43322
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=22&id=453&lanstr=en",
+    "title": "HRUI Recognized as a 2026 Shenzhen Green Factory-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_22_id_453_lanstr_en.html",
+    "old_sha8": "dd76551f",
+    "new_sha8": "9c284a18",
+    "old_bytes": 40202,
+    "new_bytes": 40202
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=22&id=443&lanstr=en",
+    "title": "HRUI Approved as a Guangdong Provincial Engineering Technology R&D Center-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_22_id_443_lanstr_en.html",
+    "old_sha8": "4ba1ce72",
+    "new_sha8": "693c3c60",
+    "old_bytes": 37987,
+    "new_bytes": 37987
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=22&id=442&lanstr=en",
+    "title": "HRUI Holiday Notice for Chinese Spring Festival 2026-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_22_id_442_lanstr_en.html",
+    "old_sha8": "b41bfa6d",
+    "new_sha8": "b75ed91e",
+    "old_bytes": 36815,
+    "new_bytes": 36815
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=22&id=432&lanstr=en",
+    "title": "HRUI Holiday Notice for Chinese Spring Festival 2025-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_22_id_432_lanstr_en.html",
+    "old_sha8": "e4582609",
+    "new_sha8": "a255f24c",
+    "old_bytes": 36696,
+    "new_bytes": 36696
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=22&id=415&lanstr=en",
+    "title": "Exciting Developments at HRUI in 2024-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_22_id_415_lanstr_en.html",
+    "old_sha8": "ab734f60",
+    "new_sha8": "6ff1f2c0",
+    "old_bytes": 41268,
+    "new_bytes": 41268
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=22&id=316&lanstr=en",
+    "title": "HRUI Holiday Arrangement for the Chinese National Day-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_22_id_316_lanstr_en.html",
+    "old_sha8": "d17377da",
+    "new_sha8": "9224022e",
+    "old_bytes": 37573,
+    "new_bytes": 37573
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=22&id=318&lanstr=en",
+    "title": "Mid-Autumn Festival with Exciting Activities at HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_22_id_318_lanstr_en.html",
+    "old_sha8": "2f4f9cb6",
+    "new_sha8": "4bb750bf",
+    "old_bytes": 39373,
+    "new_bytes": 39373
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=22&id=320&lanstr=en",
+    "title": "HRUI Quarterly Birthday Party - 2024 Edition-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_22_id_320_lanstr_en.html",
+    "old_sha8": "cabc76c8",
+    "new_sha8": "eced1f53",
+    "old_bytes": 38270,
+    "new_bytes": 38270
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=25&id=0&lanstr=en",
+    "title": "Product News-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_25_id_0_lanstr_en.html",
+    "old_sha8": "80a97cb6",
+    "new_sha8": "002cd832",
+    "old_bytes": 43263,
+    "new_bytes": 43263
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=25&id=441&lanstr=en",
+    "title": "HRUI 2.5G Web Managed Ethernet Switch | High-Speed Network Management Solution-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_25_id_441_lanstr_en.html",
+    "old_sha8": "0ba13e19",
+    "new_sha8": "e225c3eb",
+    "old_bytes": 43884,
+    "new_bytes": 43884
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=25&id=440&lanstr=en",
+    "title": "HRUI Full Gigabit Managed Industrial Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_25_id_440_lanstr_en.html",
+    "old_sha8": "a5797a60",
+    "new_sha8": "1c0354a7",
+    "old_bytes": 45494,
+    "new_bytes": 45494
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=25&id=438&lanstr=en",
+    "title": "HRUI Gigabit Managed Industrial PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_25_id_438_lanstr_en.html",
+    "old_sha8": "142ee945",
+    "new_sha8": "d185598c",
+    "old_bytes": 49245,
+    "new_bytes": 49245
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=25&id=434&lanstr=en",
+    "title": "HRUI 10G Uplink 2.5G Ethernet Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_25_id_434_lanstr_en.html",
+    "old_sha8": "f59f5f99",
+    "new_sha8": "eec6fa5d",
+    "old_bytes": 40800,
+    "new_bytes": 40800
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=25&id=429&lanstr=en",
+    "title": "HRUI Bypass Series - Industrial PoE(Ethernet) Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_25_id_429_lanstr_en.html",
+    "old_sha8": "520a23be",
+    "new_sha8": "9d8df00a",
+    "old_bytes": 46828,
+    "new_bytes": 46828
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=25&id=396&lanstr=en",
+    "title": "New - HRUI 24 Port 2.5G Smart Web PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_25_id_396_lanstr_en.html",
+    "old_sha8": "17d020be",
+    "new_sha8": "dd0661a6",
+    "old_bytes": 47146,
+    "new_bytes": 47146
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=25&id=397&lanstr=en",
+    "title": "New Arrival, HRUI 10G Smart Web Managed Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_25_id_397_lanstr_en.html",
+    "old_sha8": "a1422beb",
+    "new_sha8": "cbb35b5f",
+    "old_bytes": 48172,
+    "new_bytes": 48172
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=25&id=400&lanstr=en",
+    "title": "HRUI Super Long Distance PoE Ethernet Extender-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_25_id_400_lanstr_en.html",
+    "old_sha8": "43f4d567",
+    "new_sha8": "af52a18a",
+    "old_bytes": 44820,
+    "new_bytes": 44820
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=152&id=0&lanstr=en",
+    "title": "Exhibition News-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_152_id_0_lanstr_en.html",
+    "old_sha8": "81ed7c42",
+    "new_sha8": "0bf6ae28",
+    "old_bytes": 43150,
+    "new_bytes": 43150
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=152&id=445&lanstr=en",
+    "title": "HRUI Showcases Industrial Communication Solutions at CEIC 2026-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_152_id_445_lanstr_en.html",
+    "old_sha8": "a30e3f11",
+    "new_sha8": "0e0bb16d",
+    "old_bytes": 37892,
+    "new_bytes": 37892
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=152&id=444&lanstr=en",
+    "title": "HRUI Showcases Industrial Networking at CDIIF 2026-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_152_id_444_lanstr_en.html",
+    "old_sha8": "47bf1d63",
+    "new_sha8": "d396b7a0",
+    "old_bytes": 37961,
+    "new_bytes": 37961
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=152&id=439&lanstr=en",
+    "title": "Invitation to ISC West 2025 Exhibition-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_152_id_439_lanstr_en.html",
+    "old_sha8": "f5df02f7",
+    "new_sha8": "951e756e",
+    "old_bytes": 36502,
+    "new_bytes": 36502
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=152&id=433&lanstr=en",
+    "title": "HRUI Invites You to Explore PoE Innovation at MWC Barcelona 2025-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_152_id_433_lanstr_en.html",
+    "old_sha8": "9a383db7",
+    "new_sha8": "3ac170a9",
+    "old_bytes": 36814,
+    "new_bytes": 36814
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=152&id=328&lanstr=en",
+    "title": "Looking forward to seeing you at Security Thailand 2024!-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_152_id_328_lanstr_en.html",
+    "old_sha8": "102ad155",
+    "new_sha8": "5889fb0c",
+    "old_bytes": 36650,
+    "new_bytes": 36650
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=152&id=413&lanstr=en",
+    "title": "Visit HRUI During Security China 2024-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_152_id_413_lanstr_en.html",
+    "old_sha8": "9c556797",
+    "new_sha8": "392f3f55",
+    "old_bytes": 36341,
+    "new_bytes": 36341
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=152&id=414&lanstr=en",
+    "title": "HRUI Showcases Groundbreaking Innovations at Network X 2024-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_152_id_414_lanstr_en.html",
+    "old_sha8": "a0472214",
+    "new_sha8": "bca4e25d",
+    "old_bytes": 37765,
+    "new_bytes": 37765
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=152&id=416&lanstr=en",
+    "title": "HRUI to Showcase Innovations at ISAF Security Turkey 2024-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_152_id_416_lanstr_en.html",
+    "old_sha8": "35d41090",
+    "new_sha8": "cdf381ad",
+    "old_bytes": 36299,
+    "new_bytes": 36299
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=154&id=0&lanstr=en",
+    "title": "Industry News-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_154_id_0_lanstr_en.html",
+    "old_sha8": "a0a45b04",
+    "new_sha8": "1e7ff0f1",
+    "old_bytes": 35177,
+    "new_bytes": 35177
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=156&id=0&lanstr=en",
+    "title": "Technology Sharing-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_156_id_0_lanstr_en.html",
+    "old_sha8": "461e1db6",
+    "new_sha8": "e12ea4ec",
+    "old_bytes": 43805,
+    "new_bytes": 43805
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=156&id=455&lanstr=en",
+    "title": "Industrial Ethernet for AI-Powered Machine Vision | Network Requirements-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_156_id_455_lanstr_en.html",
+    "old_sha8": "8dc950b7",
+    "new_sha8": "ef295f4c",
+    "old_bytes": 43862,
+    "new_bytes": 43862
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=156&id=454&lanstr=en",
+    "title": "Wi-Fi 7 and Multi-Gigabit Ethernet: Why 2.5G PoE and 10G Uplinks Matter-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_156_id_454_lanstr_en.html",
+    "old_sha8": "43566958",
+    "new_sha8": "0433dd58",
+    "old_bytes": 42517,
+    "new_bytes": 42517
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=156&id=452&lanstr=en",
+    "title": "Why Does a PoE Switch Keep Rebooting? Common Causes and Fixes-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_156_id_452_lanstr_en.html",
+    "old_sha8": "139844dc",
+    "new_sha8": "7be2dcc5",
+    "old_bytes": 58622,
+    "new_bytes": 58622
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=156&id=451&lanstr=en",
+    "title": "What Is Access Point Mode? A Practical Guide to Wi-Fi Networks | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_156_id_451_lanstr_en.html",
+    "old_sha8": "e3770b70",
+    "new_sha8": "ae6a4705",
+    "old_bytes": 72067,
+    "new_bytes": 72067
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=156&id=450&lanstr=en",
+    "title": "PoE Switch for IP Cameras: How to Choose the Right CCTV Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_156_id_450_lanstr_en.html",
+    "old_sha8": "f7b1830a",
+    "new_sha8": "004ed4bb",
+    "old_bytes": 47504,
+    "new_bytes": 47504
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=156&id=449&lanstr=en",
+    "title": "Switch vs Hub vs Router: Key Differences Explained | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_156_id_449_lanstr_en.html",
+    "old_sha8": "9cf8f711",
+    "new_sha8": "7ef6872f",
+    "old_bytes": 83070,
+    "new_bytes": 83070
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=156&id=448&lanstr=en",
+    "title": "What Is a PoE Injector? How It Works, Benefits, and PoE Injector vs PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_156_id_448_lanstr_en.html",
+    "old_sha8": "5ab4f181",
+    "new_sha8": "45014209",
+    "old_bytes": 64316,
+    "new_bytes": 64316
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=19&classid=156&id=447&lanstr=en",
+    "title": "1Gbps vs 2.5Gbps vs 10Gbps Switch: How to Choose the Right Ethernet Switch?-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_19_classid_156_id_447_lanstr_en.html",
+    "old_sha8": "e554d7a1",
+    "new_sha8": "1eaea218",
+    "old_bytes": 61367,
+    "new_bytes": 61367
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=1&classid=4&id=&lanstr=en",
+    "title": "Company Profile-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_1_classid_4_id_lanstr_en.html",
+    "old_sha8": "5c118637",
+    "new_sha8": "8d0cfc8c",
+    "old_bytes": 37823,
+    "new_bytes": 37823
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=1&classid=7&id=0&lanstr=en",
+    "title": "Founding Story-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_1_classid_7_id_0_lanstr_en.html",
+    "old_sha8": "999b3922",
+    "new_sha8": "5b139e9e",
+    "old_bytes": 38316,
+    "new_bytes": 38316
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=1&classid=10&id=0&lanstr=en",
+    "title": "Development History-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_1_classid_10_id_0_lanstr_en.html",
+    "old_sha8": "99b35c02",
+    "new_sha8": "7e178d61",
+    "old_bytes": 41986,
+    "new_bytes": 41986
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=1&classid=148&id=&lanstr=en",
+    "title": "Organizational Structure-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_1_classid_148_id_lanstr_en.html",
+    "old_sha8": "ee45651e",
+    "new_sha8": "dbf54be5",
+    "old_bytes": 34941,
+    "new_bytes": 34941
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=1&classid=150&id=0&lanstr=en",
+    "title": "Enterprise Culture-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_1_classid_150_id_0_lanstr_en.html",
+    "old_sha8": "0d152028",
+    "new_sha8": "74369c6d",
+    "old_bytes": 36124,
+    "new_bytes": 36124
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=1&classid=194&id=0&lanstr=en",
+    "title": "Qualifications-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_1_classid_194_id_0_lanstr_en.html",
+    "old_sha8": "c6a9e53c",
+    "new_sha8": "1df15180",
+    "old_bytes": 37293,
+    "new_bytes": 37293
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=31&classid=31&id=&lanstr=en",
+    "title": "Contact Us | HRUI - PoE switch & industrial switch factory-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_31_classid_31_id_lanstr_en.html",
+    "old_sha8": "08479373",
+    "new_sha8": "00e27e87",
+    "old_bytes": 37074,
+    "new_bytes": 37074
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=96&classid=208&id=&lanstr=en",
+    "title": "Web Manual-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_96_classid_208_id_lanstr_en.html",
+    "old_sha8": "caf4c02d",
+    "new_sha8": "27ddbf81",
+    "old_bytes": 38866,
+    "new_bytes": 38866
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=96&classid=210&id=&lanstr=en",
+    "title": "Product Certification-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_96_classid_210_id_lanstr_en.html",
+    "old_sha8": "6cfb99b3",
+    "new_sha8": "a0b3839f",
+    "old_bytes": 38763,
+    "new_bytes": 38763
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=96&classid=212&id=&lanstr=en",
+    "title": "Firmware Download-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_96_classid_212_id_lanstr_en.html",
+    "old_sha8": "ddf03586",
+    "new_sha8": "142253fe",
+    "old_bytes": 35797,
+    "new_bytes": 35797
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=106&classid=106&id=0&lanstr=en",
+    "title": "Supplier Recommendation-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_106_classid_106_id_0_lanstr_en.html",
+    "old_sha8": "eb9914c9",
+    "new_sha8": "626e38d2",
+    "old_bytes": 36457,
+    "new_bytes": 36457
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=40&classid=40&id=&lanstr=en",
+    "title": "Comprehensive Sitemap - Easily Navigate Our Website | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_40_classid_40_id_lanstr_en.html",
+    "old_sha8": "32771ecf",
+    "new_sha8": "51955ae8",
+    "old_bytes": 37779,
+    "new_bytes": 37779
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=0&classid=0",
+    "title": "PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_0_classid_0.html",
+    "old_sha8": "425e902a",
+    "new_sha8": "f9077439",
+    "old_bytes": 66244,
+    "new_bytes": 66244
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=40&classid=40",
+    "title": "Comprehensive Sitemap - Easily Navigate Our Website | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_40_classid_40.html",
+    "old_sha8": "87bad008",
+    "new_sha8": "e0a21c97",
+    "old_bytes": 37779,
+    "new_bytes": 37779
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=198&classid=198&id=&lanstr=en",
+    "title": "Legal Notice | HRUI - Compliance & Transparency-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_198_classid_198_id_lanstr_en.html",
+    "old_sha8": "5899469a",
+    "new_sha8": "9bb00942",
+    "old_bytes": 34293,
+    "new_bytes": 34293
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=76&id=343&lanstr=en",
+    "title": "HR300S-24T2XS-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_76_id_343_lanstr_en.html",
+    "old_sha8": "13b03876",
+    "new_sha8": "713a4324",
+    "old_bytes": 50262,
+    "new_bytes": 50262
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=64&id=341&lanstr=en",
+    "title": "16-Port 10/100/1000T 802.3af/at PoE + 2-Port 2.5G SFP Ethernet Switch (280 Watts)-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_64_id_341_lanstr_en.html",
+    "old_sha8": "bbad3efc",
+    "new_sha8": "1af55c29",
+    "old_bytes": 54582,
+    "new_bytes": 54582
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=64&id=339&lanstr=en",
+    "title": "HR200P-24T2MS-400-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_64_id_339_lanstr_en.html",
+    "old_sha8": "21236b13",
+    "new_sha8": "34828b12",
+    "old_bytes": 55247,
+    "new_bytes": 55247
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=182&id=333&lanstr=en",
+    "title": "HR210P-16T2MS-300-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_182_id_333_lanstr_en.html",
+    "old_sha8": "19769043",
+    "new_sha8": "dfc2ada7",
+    "old_bytes": 62425,
+    "new_bytes": 62425
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=182&id=332&lanstr=en",
+    "title": "HR210P-24T2MS-400-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_182_id_332_lanstr_en.html",
+    "old_sha8": "71f06e0e",
+    "new_sha8": "bd580359",
+    "old_bytes": 62807,
+    "new_bytes": 62807
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=190&id=329&lanstr=en",
+    "title": "HR-AFR-41+ 100Mbps Ethernet PoE Extender-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_190_id_329_lanstr_en.html",
+    "old_sha8": "e013b111",
+    "new_sha8": "5d63782c",
+    "old_bytes": 50083,
+    "new_bytes": 50083
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=190&id=327&lanstr=en",
+    "title": "HR-AFGR-41+ Gigabit Ethernet PoE Extender-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_190_id_327_lanstr_en.html",
+    "old_sha8": "c79ec6d6",
+    "new_sha8": "26c786b4",
+    "old_bytes": 50561,
+    "new_bytes": 50561
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=190&id=325&lanstr=en",
+    "title": "HR-AFRW-41+ Weatherproof 100Mbps Ethernet PoE Extender-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_190_id_325_lanstr_en.html",
+    "old_sha8": "13883b66",
+    "new_sha8": "4bbfde06",
+    "old_bytes": 51004,
+    "new_bytes": 51004
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=192&id=322&lanstr=en",
+    "title": "HR-CPE30B-05P-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_192_id_322_lanstr_en.html",
+    "old_sha8": "cb5314e3",
+    "new_sha8": "f3209198",
+    "old_bytes": 53398,
+    "new_bytes": 53398
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=190&id=312&lanstr=en",
+    "title": "HR-AFGRW-41+ - Weatherproof 1000Mbps Ethernet PoE Extender-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_190_id_312_lanstr_en.html",
+    "old_sha8": "552b0e02",
+    "new_sha8": "878f1445",
+    "old_bytes": 51277,
+    "new_bytes": 51277
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=190&id=295&lanstr=en",
+    "title": "HR-BTGRW-21 Gigabit Outdoor IP67 PoE Extender-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_190_id_295_lanstr_en.html",
+    "old_sha8": "6f34a09f",
+    "new_sha8": "eec30312",
+    "old_bytes": 51661,
+    "new_bytes": 51661
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=190&id=321&lanstr=en",
+    "title": "HR200-BTG5-N901 -PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_190_id_321_lanstr_en.html",
+    "old_sha8": "60b14305",
+    "new_sha8": "6ee8bc5e",
+    "old_bytes": 51814,
+    "new_bytes": 51814
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=190&id=157&lanstr=en",
+    "title": "1000Mbps Ethernet PoE Extender HR-AFGR-21+ | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_190_id_157_lanstr_en.html",
+    "old_sha8": "eee60a62",
+    "new_sha8": "48d83dc0",
+    "old_bytes": 74023,
+    "new_bytes": 74023
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=190&id=156&lanstr=en",
+    "title": "HRUI 100Mbps Ethernet PoE Extender | HR-PE08-SV+ HR-PE08-IPC-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_190_id_156_lanstr_en.html",
+    "old_sha8": "6b3917c3",
+    "new_sha8": "3d0159eb",
+    "old_bytes": 69744,
+    "new_bytes": 69744
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=64&id=85&lanstr=en",
+    "title": "9-Port 1G and 1-Port 1G SFP PoE Switch | HRUI-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_64_id_85_lanstr_en.html",
+    "old_sha8": "61f2111a",
+    "new_sha8": "dadde5ab",
+    "old_bytes": 82177,
+    "new_bytes": 82177
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=184&id=104&lanstr=en",
+    "title": "6-Port Gigabit Industrial 2.5G SFP Managed BT90W PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_184_id_104_lanstr_en.html",
+    "old_sha8": "00242c6c",
+    "new_sha8": "20e342ec",
+    "old_bytes": 118490,
+    "new_bytes": 118490
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=184&id=268&lanstr=en",
+    "title": "HR722P-8T4GS-A - 12-Port Gigabit Industrial Managed PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_184_id_268_lanstr_en.html",
+    "old_sha8": "aafa95e5",
+    "new_sha8": "a49ba582",
+    "old_bytes": 113878,
+    "new_bytes": 113878
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=184&id=266&lanstr=en",
+    "title": "HR722P-8T2GS-A - 10-Port Gigabit Industrial Managed PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_184_id_266_lanstr_en.html",
+    "old_sha8": "14caaad9",
+    "new_sha8": "69584187",
+    "old_bytes": 117042,
+    "new_bytes": 117042
+   },
+   {
+    "url": "https://www.hruitech.com/web/index.php?topclassid=16&classid=184&id=265&lanstr=en",
+    "title": "HR722P-4T2GS-A | 6-Port Gigabit Industrial Managed PoE Switch-PoE Switch and Industrial Switch Manufacturer | HRUI",
+    "file": "html/web_index.php__topclassid_16_classid_184_id_265_lanstr_en.html",
+    "old_sha8": "af25b358",
+    "new_sha8": "9e750efe",
+    "old_bytes": 116609,
+    "new_bytes": 116609
+   }
+  ],
+  "same": 1,
+  "gone": [],
+  "not_reached": []
+ },
+ "downloads": {
+  "new": [],
+  "changed": [],
+  "same": 208,
+  "gone": [],
+  "not_reached": []
+ },
+ "images": {
+  "new": [],
+  "changed": [
+   {
+    "url": "https://www.hruitech.com/web/vcode/get_vcode.php",
+    "title": null,
+    "file": "images/web_vcode_get_vcode.php",
+    "old_sha8": "7f261a47",
+    "new_sha8": "307e2601",
+    "old_bytes": 1993,
+    "new_bytes": 2015
+   }
+  ],
+  "same": 1974,
+  "gone": [],
+  "not_reached": []
+ }
+}

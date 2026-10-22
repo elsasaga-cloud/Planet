@@ -1,0 +1,8 @@
+===== run 13 2026-10-22T14:57:35Z =====
+[12:54:29] [recrawl] round 20261022: todo ['smartbyte', 'hrui', 'hohunet'] (skipped complete: [])
+[12:54:29] [recrawl] ===== smartbyte (www.smartbyte-switch.com) base data/smartbyte_site_raw → data/site_recrawl/20261022/smartbyte; budget 67 min =====
+[14:01:30] [recrawl] smartbyte: complete=False pages 348/350 downloads 245/245 images 1226/1226 diff {"pages": {"new": 0, "text_changed": 0, "markup_only": 1, "same": 347, "gone": 0, "not_reached": 0}, "downloads": {"new": 0, "changed": 0, "same": 245, "gone": 0, "not_reached": 0}, "images": {"new": 0, "changed": 0, "same": 1226, "gone": 0, "not_reached": 272}}
+[14:01:30] [recrawl] ===== hrui (www.hruitech.com) base data/hrui_site_raw → data/site_recrawl/20261022/hrui; budget 52 min =====
+[14:40:34] [recrawl] hrui: complete=False pages 537/654 downloads 208/209 images 1975/1975 diff {"pages": {"new": 0, "text_changed": 0, "markup_only": 536, "same": 1, "gone": 0, "not_reached": 0}, "downloads": {"new": 0, "changed": 0, "same": 208, "gone": 0, "not_reached": 0}, "images": {"new": 0, "changed": 1, "same": 1974, "gone": 0, "not_reached": 0}}
+[14:40:34] [recrawl] ===== hohunet (hohunet.com) base data/hohunet_site_raw → data/site_recrawl/20261022/hohunet; budget 43 min =====
+[14:57:35] [recrawl] hohunet: complete=True pages 223/226 downloads 34/34 images 1038/1039 diff {"pages": {"new": 0, "text_changed": 91, "markup_only": 122, "same": 10, "gone": 0, "not_reached": 0}, "downloads": {"new": 0, "changed": 0, "same": 34, "gone": 0, "not_reached": 0}, "images": {"new": 0, "changed": 0, "same": 1038, "gone": 0, "not_reached": 0}}

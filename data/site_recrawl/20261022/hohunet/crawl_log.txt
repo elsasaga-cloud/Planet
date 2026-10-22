@@ -1,0 +1,38 @@
+===== run 13 =====
+[14:40:35] checkout already at branch tip 0aeea5b
+[14:40:35] v3.2 recrawl round: baseline data/hohunet_site_raw (pages 226, downloads 34, images 1039, sha 1101) → OUT data/site_recrawl/20261022/hohunet
+[14:40:35] run 13 start; resume=False; budget 43.0 min; max_pages 1500; delay 0.8s
+[14:40:36] probe archiver https://hohunet.com/ → 200
+[14:40:36] access mode = requests (archiver) base https://hohunet.com/
+[14:40:36] sitemap: 6 loc, 6 new seeds
+[14:41:05] pages 25 (+25 this run) queue 161 downloads 0 images 498 elapsed 0.5 min
+[14:41:36] pages 50 (+50 this run) queue 140 downloads 8 images 547 elapsed 1.0 min
+[14:42:07] pages 75 (+75 this run) queue 119 downloads 13 images 638 elapsed 1.5 min
+[14:42:38] pages 100 (+100 this run) queue 95 downloads 19 images 703 elapsed 2.1 min
+[14:43:10] pages 125 (+125 this run) queue 70 downloads 24 images 823 elapsed 2.6 min
+[14:43:41] pages 150 (+150 this run) queue 45 downloads 27 images 928 elapsed 3.1 min
+[14:44:13] pages 175 (+175 this run) queue 20 downloads 34 images 1039 elapsed 3.6 min
+[14:44:34] HTTP 404 https://hohunet.com/{$itemURL}
+[14:44:36] HTTP 404 https://hohunet.com/{$sitemapURL}
+[14:44:37] HTTP 404 https://hohunet.com/product-category/2-5g-multi-gigabit-switches/
+[14:44:44] pages 200 (+200 this run) queue 14 downloads 34 images 1039 elapsed 4.2 min
+[14:45:15] pages 225 (+225 this run) queue 1 downloads 34 images 1039 elapsed 4.7 min
+[14:45:16] BFS stop: complete (queue empty); pages=226 (+226) downloads=34 images=1039
+[14:45:17] cdn images harvested from archived html: +0 (images total 1039)
+[14:45:48] downloads 20/34 elapsed 5.2 min
+[14:46:43] downloads stop: complete; ok 34/34 (+34 this run), 57.5 MB
+[14:46:43] pdftotext: 0
+[14:46:43] downloads total 57.5 MB → committed to git: 0/0 files (0.0 MB; all=True)
+[14:47:37] images 100/1039 10 MB elapsed 7.0 min
+[14:48:47] images 200/1039 33 MB elapsed 8.2 min
+[14:49:44] images 300/1039 48 MB elapsed 9.2 min
+[14:51:07] images 400/1039 91 MB elapsed 10.5 min
+[14:52:07] images 500/1039 107 MB elapsed 11.5 min
+[14:53:01] images 600/1039 119 MB elapsed 12.4 min
+[14:54:05] images 700/1039 140 MB elapsed 13.5 min
+[14:55:06] images 800/1039 160 MB elapsed 14.5 min
+[14:56:12] images 900/1039 183 MB elapsed 15.6 min
+[14:57:13] images 1000/1039 211 MB elapsed 16.6 min
+[14:57:35] images total 0.0 MB → committed to git: True (+0 copied into data/site_recrawl/20261022/hohunet/images)
+[14:57:35] images stop: complete; ok 1038/1039 (+1039 this run), 219.8 MB this run
+[14:57:35] diff: {"pages": {"new": 0, "text_changed": 91, "markup_only": 122, "same": 10, "gone": 0, "not_reached": 0}, "downloads": {"new": 0, "changed": 0, "same": 34, "gone": 0, "not_reached": 0}, "images": {"new": 0, "changed": 0, "same": 1038, "gone": 0, "not_reached": 0}}
