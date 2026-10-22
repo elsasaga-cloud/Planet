@@ -37,7 +37,7 @@
   ],
   "total_bytes": 6478214703,
   "starts_with_separator": true,
-  "ended": "2026-10-22T03:52:59Z"
+  "ended": "2026-10-22T04:05:32Z"
  },
  "shards": {
   "messages/2026/2026-10.jsonl": 1674988,
@@ -142,6 +142,17 @@
    "ended": "2026-10-22T03:53:00Z",
    "messages_this_run": 13583,
    "stopped_early": false
+  },
+  {
+   "started": "2026-10-22T04:02:09Z",
+   "limit": 0,
+   "bulk_mode": "full",
+   "attach": true,
+   "ocr": true,
+   "more_batches": false,
+   "ended": "2026-10-22T04:05:33Z",
+   "messages_this_run": 0,
+   "stopped_early": false
   }
  ],
  "status": "done",
@@ -162,7 +173,7 @@
    ],
    "total_bytes": 6478214703,
    "starts_with_separator": true,
-   "ended": "2026-10-22T03:52:59Z"
+   "ended": "2026-10-22T04:05:32Z"
   }
  ],
  "stats": {

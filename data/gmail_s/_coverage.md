@@ -1,6 +1,6 @@
 # Gmail（s 邮箱）Takeout 全量入库 · 覆盖率报告
 
-- 生成时间：2026-10-22T03:53:00Z；状态：**done**；本邮箱地址：s.sagatelecom@gmail.com
+- 生成时间：2026-10-22T04:05:33Z；状态：**done**；本邮箱地址：s.sagatelecom@gmail.com
 - 来源：2 个文件，合计 6.48 GB：`All_mail_Including_Spam_and_Trash-002.mbox` 6.48 GB；`takeout-20261021T123952Z-1-001.zip` 0.00 GB
 - 批次 1：2 个文件 / mbox 条目 1 个 / 流总长 6.48 GB，已处理到偏移 6.48 GB，13,583 封，✅ 完成
 - 规则：**full** = 全文（非群发 / 本邮箱发出 / 本邮箱回过的线程 / 对方是 Saga Clients 里的客户 / 加星 / 重要）；**snippet** = 群发与通知类只留头部 + 前 600 字；附件按 sha256 去重抽正文（≤25 MB，文档类；图片 OCR=开）
@@ -104,7 +104,7 @@
 | axis.com | 27 | SC-2199 |
 | texim-europe.com | 27 | SC-986 |
 | thorfiber.com | 26 | SB-003 |
-| triple-s.no | 26 | SC-726 |
+| antronix.com | 26 | SA-066 |
 
 ## 关联到 Saga Clients 的往来
 
@@ -158,3 +158,4 @@ This is  |
 ## 运行记录
 
 - {"started": "2026-10-22T03:32:17Z", "limit": 0, "bulk_mode": "full", "attach": true, "ocr": true, "more_batches": false, "ended": "2026-10-22T03:53:00Z", "messages_this_run": 13583, "stopped_early": false}
+- {"started": "2026-10-22T04:02:09Z", "limit": 0, "bulk_mode": "full", "attach": true, "ocr": true, "more_batches": false, "ended": "2026-10-22T04:05:33Z", "messages_this_run": 0, "stopped_early": false}
