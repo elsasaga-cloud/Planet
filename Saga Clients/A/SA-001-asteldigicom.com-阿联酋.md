@@ -36,10 +36,31 @@ updated: 2026-10-22
 - **是谁**：阿联酋线上/线下经销商，自称「House of all kinds of cables and connectors」，网店品类为线缆、连接器、网络产品；2026 年首页主推 Deye/Inverex 储能电池与太阳能产品，网络产品仍在目录内（用户备注的工业 MC/工业交换机页面）。GM Sanjay Singla 已成单。（调研 2026-10-22；表内兴趣：ONV的工业FS  有工业电源 https://asteldigicom.com/industrial-media-converters-unmanaged-full-gigabit-8-port-with-sfp-ports.-a.htm）
 - **为什么是 A 级**：**调研后定级 A**（PI 包成单客户，Simon 标签 可发展 → A）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+30 实质回复 2 次（问价/要资料/问型号等）；+25 在 Simon 的 S 重点名单；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：成交/下单过；实质回复 2 次；WhatsApp 已加；推送 36 次（2024-05-07 → 2025-11-27）；最近一次客户回复：2025-01-06：profile
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：其主力 AST-IMC-GB-POE-8E2U2S-PSE（8 GE PoE + 2 SFP 工业）与 STI-288DGGPM 同位，自有品牌贴牌 30% 档；千兆 MC 对位 STI-110GE；10G L3 工业机需 SmartByte 另核；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-22）**：STI-244DGGPM — 分销商 → 20% 档；他明确要 2 SFP 环网 + 管理口，6 系列管理型正好（ERPS 环网、独立 Console/管理）；首单已付说明信用 OK，第二单该上管理型；$129.1 USD EXW（CNY 720 ×1.2 ÷6.69）；同档 STI-288DGGPM $139.9、STI-21616DGGPM $240.4——按他 2025-04 的 4/8/12+ 三档一次报齐
+- **第一问（只问一个）**：Which of the three sizes (4 / 8 / 16 PoE ports) is the one your current project needs first?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：等 A 邮箱入库核对 2025-12 之后进展后再发；若 A 侧无动静，11 月第一周发 A 邮箱（Alan 主线）或 S 邮箱抄 Alan 回答他 2025-04-28 的原问题：三档管理型 PoE 价 + 质保 + 证书清单，一页纸
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-22）
+
+> 依据：S 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-001` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-22。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **现状一句话**：迪拜 ELV/安防分销商 ASTEL DIGICOM（总经理 Sanjay Singla）。S 邮箱 2024-06 → 2025-04 四次实质来信都在**问价、问 2 个 SFP 环网、问质保和测试证书**；2025-11-27 由 Alan 开 PI **STAG20251127018**（8 件：HDR-15-24 电源 + STI-110GE + STI-140GE，$166），12-01 Sanjay 付款并抄送 Simon「We have processed your payment… Shipping address and Shipping marks have been advised on WeChat」。**已成交、小额、由 A 邮箱 + 微信主导**。
+- **对方真实需求（有据）**：① 2024-06：工业 PoE 4 口 + **2×2.5G SFP 可环网**（「Need minimum 2 SFP so that we can loop the fiber connectivity」）+ 120W 电源，非管理；② 2025-04-28：要 4/8/12+ 口千兆 PoE + 2（或 4）SFP + **1 个独立 NMS 管理口 RJ45** 的最优价、质保年限、测试证书；③ 2025-11 实际买的是最便宜的入门件（MC + 4 口非 PoE + 电源）→ 先试水。
+- **断点 / 为什么停在这里**：S 邮箱侧 2025-04-28 那封三档 PoE 询价没有在 S 邮箱里看到 Simon 的逐项报价（可能在 A 邮箱/微信回了）；12-01 付款后的发货、到货反馈都在 Alan 那边。S 邮箱 2025-11-27 之后只有群发。
+- **Saga 现在该推什么**：P1 **STI-244DGGPM**（20% 档，$129.1 USD EXW（CNY 720 ×1.2 ÷6.69）；同档 STI-288DGGPM $139.9、STI-21616DGGPM $240.4——按他 2025-04 的 4/8/12+ 三档一次报齐）——分销商 → 20% 档；他明确要 2 SFP 环网 + 管理口，6 系列管理型正好（ERPS 环网、独立 Console/管理）；首单已付说明信用 OK，第二单该上管理型
+  - 复购/在买项：HDR-15-24 DIN 电源 + STI-110GE + STI-140GE（2025-11 首单件）
+  - 做不了 / 要先核的：「1 NMS Port RJ45」= 独立带外管理口：6 系列是 Console + 带内管理，发报价时写清 out-of-band 仅 Console；测试证书：只给 CE/RoHS/FCC/REACH（不提 UL）；质保 6 系列 5 年口径按 Q-22
+- **下一步（具体）**：等 A 邮箱入库核对 2025-12 之后进展后再发；若 A 侧无动静，11 月第一周发　A 邮箱（Alan 主线）或 S 邮箱抄 Alan　回答他 2025-04-28 的原问题：三档管理型 PoE 价 + 质保 + 证书清单，一页纸
+  - 第一问（只问一个）：Which of the three sizes (4 / 8 / 16 PoE ports) is the one your current project needs first?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-06-29 | 来 | Sanjay Singla, GM | Need minimum 2 SFP So that we can loop the fiber connectivity. sFP should be compatible with sFP 2.5G | 环网 + 2.5G SFP 是硬需求 | `4911955d4797da97` |
+| 2025-04-28 | 来 | Sanjay Singla | Please advise the best pricing for 4 Port GB x POE with 2 SFP Uplinks, and 1 NMS Port RJ45: 8 Port POE … 12 or higher port POE … How many years warranty … Do you have any testing certificate | 真正的询价单（三档 + 质保 + 证书） | `ca2fc1d1b52d5bb7` |
+| 2025-12-01 | 来 | Sanjay Singla → Alan, cc Simon | We have processed your payment. Screenshot attached. Pls process our PO and arrange the goods.（附 STAG20251127018.pdf） | 成交证据；主线在 Alan + 微信 | `0cc642cb3b5505fb` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：A 邮箱：2025-04 询价的回复、2025-12 发货与到货反馈、2026 年是否复购
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -46,5 +46,51 @@
   "why": "明确问 OEM 定制 → OEM/ODM 30% 档；若只是自用/项目则 25%"
  },
  "grade_override": "B",
- "override_reason": "具名 Owner 实质回复 + OEM 意向，但规模小、API 诉求未必能满足、追问未回 → B"
+ "override_reason": "具名 Owner 实质回复 + OEM 意向，但规模小、API 诉求未必能满足、追问未回 → B",
+ "mail_review": {
+  "as_of": "2026-10-22",
+  "situation": "德州 Fikes Media（业主 Christopher Fikes）2026-10-03 回群发：「This actually does have my interest. What levels of customization are offered? I would be interested if there was **api availability for controller integration**」；Simon 10-04 发完整 OEM 菜单 + 规格书 + MIB + CLI/Web 手册并反问 API 类型；10-19 追「arrange 2 samples?」无回应。",
+  "need": "可贴牌的 24 口 PoE 交换机 + **能被自家控制器集成的 API**（他是小型媒体/IT 服务商，想做自有品牌的可控网络）。",
+  "breakpoint": "Saga/SmartByte 线没有 REST API 和云控制器，只有 SNMP + CLI/SSH + Web；Simon 10-04 的回复把问题抛回去（REST / SNMP / NETCONF?），对方没接。真实答案应直接给：SNMP + SSH-CLI 可脚本化，无 REST。",
+  "saga_now": {
+   "p1": "STC-424XGGPM-280W",
+   "tier": 30,
+   "price": "$196.3 USD EXW（CNY 1010 ×1.3；Simon 群发价 $180 可作首单价）",
+   "why": "OEM 自有品牌 → 30% 档；控制器集成只能承诺 SNMP/CLI，先把这一点说死再谈样机",
+   "repeat": [],
+   "gaps": [
+    "无 REST API / 无云控制器（Q-19 口径）；SNMP 私有 MIB 应在 Saga 自己的 PEN 下（Q-35）",
+    "OEM 菜单里的「SNMP OID customization」措辞按 §9 改"
+   ]
+  },
+  "next_move": {
+   "when": "本周一封，之后不追",
+   "channel": "S 邮箱同线程",
+   "action": "直接回答 API 问题（有 SNMP v1/v2c/v3 + SSH CLI，可用脚本/Ansible 管理；无 REST / 云），附 MIB 文件已给；样机 2 台 $180 抵首单",
+   "one_question": "Which controller or NMS do you plan to integrate with - would SNMP + SSH-CLI automation cover it, or is a REST API a must?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-03",
+    "dir": "来",
+    "who": "Christopher Fikes, Owner",
+    "quote": "This actually does have my interest. What levels of customization are offered? I would be interested if there was api availability for controller integration.",
+    "why": "唯一来信：OEM + API",
+    "k": "af638fab0ab5ad29"
+   },
+   {
+    "date": "2026-10-19",
+    "dir": "去",
+    "who": "Simon → Christopher",
+    "quote": "Any feedback about our product information? Maybe arrange 2 samples for testing?",
+    "why": "追样无回",
+    "k": "4575b20b172d85a4"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "Re: 24 Port PoE Managed Switch - straight answer on API / controller integration",
+   "body": "Hi Christopher,\n\nA straight answer to your API question, so you can decide quickly:\n\n- Available today: SNMP v1/v2c/v3 (full private MIB supplied), SSH CLI and Telnet for scripted automation (Ansible / Python work fine), syslog, and a Web GUI that can carry your logo and model name.\n- Not available: a REST API or a cloud controller. If your controller needs REST, we are not the right fit and I would rather say so now.\n\nIf SNMP + CLI is enough, two evaluation units of the STC-424XGGPM-280W at USD 180 each (credited to your first order) can ship within a week.\n\nOne question: which controller or NMS are you integrating with?\n\nBest regards,\nSimon\nSaga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)\nhttps://sagatele.com/"
+  }
+ }
 }

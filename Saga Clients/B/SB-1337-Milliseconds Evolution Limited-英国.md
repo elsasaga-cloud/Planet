@@ -35,10 +35,29 @@ updated: 2026-10-22
 - **是谁**：英国伦敦新公司（MikroTik 认证顾问 Iyiola Folayan，20 年 MikroTik 经验），2026-09 群发回复后主动提出做 Saga 英国经销；2026-10-17 已开 2 台 STC-424XGGPM-280W 样品形式发票（$180/台，样品款抵首单），客户当日回复暂无项目、等有项目再付款。S 邮箱 9 封（2026-09-28 → 10-19）。（调研 2026-10-22；表内兴趣：STC-424XGGPM-280W 24 口 PoE L2+（$180/PC）；先 2 台样品测试，再谈英国经销/分销）
 - **为什么是 B 级**：**调研后定级 B**（有具名 KP + 真实意向 + 样品 PI 已开，但新公司、无项目、未付款 → B（等项目；若样品付款即升 A））；自动分级 B：+10 谈到样品/测样；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2026
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-424XGGPM-280W — 深挖对位：MikroTik 顾问做项目 + 拟经销：先按经销 20% 档（$180 已是 20% 档价），项目成交后再定；样品 2 台口径已定；$181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-22）**：STC-424XGGPM-280W — 转售伙伴 → 20% 档；PI 已开，维持价格到他有项目；$180 USD（Simon 已开 PI；仓内 20% 档 $181.2）
+- **第一问（只问一个）**：When a project comes up, will it most likely be a PoE access job (cameras / APs) or a small L3 core, so I prepare the right comparison against the MikroTik model you would normally use?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：4 周后（11 月中）一次轻触 S 邮箱同线程 不催款；发一页 MikroTik CRS328 对比 + 「项目来了告诉我，样机 3 天内发」
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-22）
+
+> 依据：S 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1337` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-22。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **现状一句话**：伦敦 Milliseconds Evolution（Iyiola Folayan，MikroTik 顾问 20 年、公司新成立）。2026-09-29 回群发问目录与「Can we work as your distributor in the UK?」；Simon 09-30 回「先合作再谈分销」+ 资料包；10-03 给样机政策；10-17 对方给地址，Simon 开 **2 台 STC-424XGGPM-280W 样品 PI STSC-20261017-001（$180/台）**；同日对方回「unable to make the payment now… only proceed when I have a project」；Simon 10-19「Let's wait then」。
+- **对方真实需求（有据）**：想做 Saga 英国转售伙伴，但没有现金/项目；真正需要的是**一个能用 Saga 机型投标的项目**和 MikroTik 用户听得懂的对比资料（CLI/功能/价格 vs CRS3xx）。
+- **断点 / 为什么停在这里**：卡在样机款 $360；他做项目制，没有项目就不会付。再催付款没有意义。
+- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（20% 档，$180 USD（Simon 已开 PI；仓内 20% 档 $181.2））——转售伙伴 → 20% 档；PI 已开，维持价格到他有项目
+  - 做不了 / 要先核的：英国 UKCA 标识 + 英标电源线（BS 1363）——发货前确认；他是 MikroTik 顾问：准备一页「STC-424XGGPM-280W vs MikroTik CRS328-24P-4S+」对比（端口/PoE 预算/L3 功能/价格），这是他最需要的弹药
+- **下一步（具体）**：4 周后（11 月中）一次轻触　S 邮箱同线程　不催款；发一页 MikroTik CRS328 对比 + 「项目来了告诉我，样机 3 天内发」
+  - 第一问（只问一个）：When a project comes up, will it most likely be a PoE access job (cameras / APs) or a small L3 core, so I prepare the right comparison against the MikroTik model you would normally use?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-09-29 | 来 | Iyiola Folayan | Do you have distributors in the UK? Can we work as your distributor in the UK? | 主动提分销 | `9dced38d1d03963a` |
+| 2026-09-30 | 来 | Iyiola Folayan | For now, I just work project by project. My plan is to start a reseller partner agreement… I have been working with mikrotik for over 20 years | 项目制 + MikroTik 背景 | `29898c900941a648` |
+| 2026-10-17 | 去 | Simon → Iyiola | PI STSC-20261017-001：2 台 STC-424XGGPM-280W，样机款抵后续订单 | 样品 PI 已开 | `5ca2dee1999bade7` |
+| 2026-10-17 | 来 | Iyiola Folayan | Unfortunately I am unable to make the payment now. I can only proceed when I have a project that can take care of the cost. | 断点：无项目不付款 | `d90558425d8bf645` |
 
 ## 基本事实（事实/推断/假设分层）
 

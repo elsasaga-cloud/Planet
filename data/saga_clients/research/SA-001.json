@@ -149,5 +149,60 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "PI 包成单客户，Simon 标签 可发展 → A"
+ "override_reason": "PI 包成单客户，Simon 标签 可发展 → A",
+ "mail_review": {
+  "as_of": "2026-10-22",
+  "situation": "迪拜 ELV/安防分销商 ASTEL DIGICOM（总经理 Sanjay Singla）。S 邮箱 2024-06 → 2025-04 四次实质来信都在**问价、问 2 个 SFP 环网、问质保和测试证书**；2025-11-27 由 Alan 开 PI **STAG20251127018**（8 件：HDR-15-24 电源 + STI-110GE + STI-140GE，$166），12-01 Sanjay 付款并抄送 Simon「We have processed your payment… Shipping address and Shipping marks have been advised on WeChat」。**已成交、小额、由 A 邮箱 + 微信主导**。",
+  "need": "① 2024-06：工业 PoE 4 口 + **2×2.5G SFP 可环网**（「Need minimum 2 SFP so that we can loop the fiber connectivity」）+ 120W 电源，非管理；② 2025-04-28：要 4/8/12+ 口千兆 PoE + 2（或 4）SFP + **1 个独立 NMS 管理口 RJ45** 的最优价、质保年限、测试证书；③ 2025-11 实际买的是最便宜的入门件（MC + 4 口非 PoE + 电源）→ 先试水。",
+  "breakpoint": "S 邮箱侧 2025-04-28 那封三档 PoE 询价没有在 S 邮箱里看到 Simon 的逐项报价（可能在 A 邮箱/微信回了）；12-01 付款后的发货、到货反馈都在 Alan 那边。S 邮箱 2025-11-27 之后只有群发。",
+  "saga_now": {
+   "p1": "STI-244DGGPM",
+   "tier": 20,
+   "price": "$129.1 USD EXW（CNY 720 ×1.2 ÷6.69）；同档 STI-288DGGPM $139.9、STI-21616DGGPM $240.4——按他 2025-04 的 4/8/12+ 三档一次报齐",
+   "why": "分销商 → 20% 档；他明确要 2 SFP 环网 + 管理口，6 系列管理型正好（ERPS 环网、独立 Console/管理）；首单已付说明信用 OK，第二单该上管理型",
+   "repeat": [
+    "HDR-15-24 DIN 电源 + STI-110GE + STI-140GE（2025-11 首单件）"
+   ],
+   "gaps": [
+    "「1 NMS Port RJ45」= 独立带外管理口：6 系列是 Console + 带内管理，发报价时写清 out-of-band 仅 Console",
+    "测试证书：只给 CE/RoHS/FCC/REACH（不提 UL）；质保 6 系列 5 年口径按 Q-22"
+   ]
+  },
+  "next_move": {
+   "when": "等 A 邮箱入库核对 2025-12 之后进展后再发；若 A 侧无动静，11 月第一周发",
+   "channel": "A 邮箱（Alan 主线）或 S 邮箱抄 Alan",
+   "action": "回答他 2025-04-28 的原问题：三档管理型 PoE 价 + 质保 + 证书清单，一页纸",
+   "one_question": "Which of the three sizes (4 / 8 / 16 PoE ports) is the one your current project needs first?"
+  },
+  "facts": [
+   {
+    "date": "2024-06-29",
+    "dir": "来",
+    "who": "Sanjay Singla, GM",
+    "quote": "Need minimum 2 SFP So that we can loop the fiber connectivity. sFP should be compatible with sFP 2.5G",
+    "why": "环网 + 2.5G SFP 是硬需求",
+    "k": "4911955d4797da97"
+   },
+   {
+    "date": "2025-04-28",
+    "dir": "来",
+    "who": "Sanjay Singla",
+    "quote": "Please advise the best pricing for 4 Port GB x POE with 2 SFP Uplinks, and 1 NMS Port RJ45: 8 Port POE … 12 or higher port POE … How many years warranty … Do you have any testing certificate",
+    "why": "真正的询价单（三档 + 质保 + 证书）",
+    "k": "ca2fc1d1b52d5bb7"
+   },
+   {
+    "date": "2025-12-01",
+    "dir": "来",
+    "who": "Sanjay Singla → Alan, cc Simon",
+    "quote": "We have processed your payment. Screenshot attached. Pls process our PO and arrange the goods.（附 STAG20251127018.pdf）",
+    "why": "成交证据；主线在 Alan + 微信",
+    "k": "0cc642cb3b5505fb"
+   }
+  ],
+  "proof_gaps": [
+   "A 邮箱：2025-04 询价的回复、2025-12 发货与到货反馈、2026 年是否复购"
+  ],
+  "draft_en": null
+ }
 }

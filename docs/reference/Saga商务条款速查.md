@@ -79,3 +79,18 @@
 | 签名 | "- Simon  https://sagatele.com/  An Engineering & Supply-Chain-First Telecom Partner  Built to Last, Continuous Supply, Evolving Together" | 全部 2026-09/10 群发 |
 
 - **SNMP 企业号（PEN）提醒**：NYNEX（SA-013）2025-03 测试时发现 SmartByte 通用 MIB 内含其他 OEM 客户的企业 OID（.57430 / .56813 / .171 D-Link），要求 Saga/SmartByte 申请自己的 IANA PEN 并说明 OEM 数据是固件写死还是独立分区。对欧洲系统集成商这是合规题 → Q-35（建议 Saga 自己免费申请 PEN，并要求 Saga 版固件只含 Saga 树）。
+
+## 9. Q-35 落地：Saga 自有 IANA PEN 与 OEM 固件边界（T29-U11 裁定「按默认」，2026-10-22）
+**为什么**：欧洲集成商/运营商验收时会 `snmpwalk` 看 `sysObjectID` 与私有 MIB 的企业号归属；NYNEX 2025-03 已经因为 SmartByte 通用 MIB 里混有别家 OEM 的企业 OID（.57430 东莞华容、.56813 福州 Dockeer、.171 D-Link）追问「Saga 与 SmartByte 什么关系、OEM 数据是不是写死在固件里」（证据：`data/saga_clients/research/SA-013.json` evidence #14）。
+
+**Simon 要做的（约 15 分钟，免费）**
+1. 打开 IANA PEN 申请表 `https://pen.iana.org/pen/PenApplication.page`，填：Organization = Zhengzhou Saga Telecom Equipment Co., Ltd.（与营业执照英文名一致）；地址；Contact = Simon（姓名 / 职务 / 电话 / 邮箱用 sagatele.com 域名邮箱，不要用 Gmail）。
+2. 提交后 IANA 通常 1–3 周内邮件回复分配的号码 `n`，Saga 的企业树即 `1.3.6.1.4.1.n`；把号码记到本节和 `README` 公司信息处。
+3. 拿到号码后，给 SmartByte（Peter / 研发窗口）发一封「Saga 版固件 MIB 规范」邮件，要求（可直接贴英文）：
+   - "Please build the Saga-branded firmware with `sysObjectID` and all private MIB objects under our enterprise tree `1.3.6.1.4.1.<n>`; remove every other OEM's enterprise OID from the MIB files shipped with our firmware."
+   - "Please confirm whether OEM data (logo, model name, default IP, SNMP OIDs, sysDescr/sysName defaults) is compiled into the firmware image or kept in a separate configuration partition, and whether it survives a firmware upgrade."
+   - "Please provide per-model `sysObjectID`/`sysDescr` values and a Saga-named MIB module (e.g. `SAGA-SWITCH-MIB`) so that our customers' NMS templates reference Saga, not SmartByte or third parties."
+4. 在拿到 Saga PEN 之前，OEM 菜单里的 "SNMP OID customization" 改写为：**"Private MIB under your own IANA PEN (please send us your PEN) or under Saga's enterprise tree"**，避免客户测试时发现第三方 OID。
+
+**对外一句话（客户问「你们和 SmartByte 什么关系」时）**：
+"SmartByte is our Marvell-platform manufacturing partner; Saga owns the product definition, firmware branding (including the private MIB under our own enterprise number) and after-sales. The firmware you receive is built for Saga and does not carry third-party OEM identifiers."

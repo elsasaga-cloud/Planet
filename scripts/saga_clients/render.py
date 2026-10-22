@@ -360,6 +360,45 @@ def fmt_deep(ent):
     return '\n'.join(L)
 
 
+def fmt_mail_review(ent):
+    """针对性复盘（T29-U11）：基于 S/A 邮箱 + PI + Drive 的真实往来写的现状判断，每条事实带日期/方向/原话/消息 key。
+    数据来自 research JSON 的 mail_review 块；缺失即不渲染。字段：as_of, situation, facts[{date,dir,who,quote,k,why}],
+    breakpoint, need, saga_now{p1,tier,price,why,repeat[],gaps[]}, next_move{when,channel,action,one_question}, proof_gaps[], draft_en{subject,body}."""
+    mr = (ent.get('research') or {}).get('mail_review')
+    if not mr:
+        return ''
+    L = [f"> 依据：S 邮箱全量往来（`scripts/saga_clients/mail_dump.py {ent['code']}` 可复现）+ PI 包 + Drive 资料；复盘日期 {mr.get('as_of', '')}。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**", '']
+    if mr.get('situation'):
+        L.append(f"- **现状一句话**：{mr['situation']}")
+    if mr.get('need'):
+        L.append(f"- **对方真实需求（有据）**：{mr['need']}")
+    if mr.get('breakpoint'):
+        L.append(f"- **断点 / 为什么停在这里**：{mr['breakpoint']}")
+    sn = mr.get('saga_now') or {}
+    if sn:
+        L.append(f"- **Saga 现在该推什么**：P1 **{sn.get('p1', '—')}**（{sn.get('tier', '')}% 档，{sn.get('price', '价见价格主表')}）——{sn.get('why', '')}")
+        if sn.get('repeat'):
+            L.append('  - 复购/在买项：' + '；'.join(sn['repeat']))
+        if sn.get('gaps'):
+            L.append('  - 做不了 / 要先核的：' + '；'.join(sn['gaps']))
+    nm = mr.get('next_move') or {}
+    if nm:
+        L.append(f"- **下一步（具体）**：{nm.get('when', '')}　{nm.get('channel', '')}　{nm.get('action', '')}")
+        if nm.get('one_question'):
+            L.append(f"  - 第一问（只问一个）：{nm['one_question']}")
+    facts = mr.get('facts') or []
+    if facts:
+        L.append('')
+        L.append('| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |')
+        L.append('|---|---|---|---|---|---|')
+        for f in facts:
+            L.append(f"| {f.get('date', '')} | {f.get('dir', '')} | {md_escape(f.get('who', ''))} | {md_escape(f.get('quote', ''))} | {md_escape(f.get('why', ''))} | `{f.get('k', '')}` |")
+    if mr.get('proof_gaps'):
+        L.append('')
+        L.append('- **还缺的证据（等 A 邮箱 / Extra Info）**：' + '；'.join(mr['proof_gaps']))
+    return '\n'.join(L)
+
+
 def fmt_pi(ent):
     """成交记录（PI 包 · 自动汇总）：来自 data/pi_orders/单号对照.csv + 客户编号映射.json（build 阶段挂到 ent['pi']）。"""
     pi = ent.get('pi') or {}
@@ -816,15 +855,29 @@ def render_one(ent):
     if last_reply:
         hist += f'；最近一次客户回复：{last_reply}'
     lines.append(f'- **历史互动**：{hist}')
-    if g != 'C':
+    mr = rs.get('mail_review') or {}
+    if g != 'C' and mr:
+        sn = mr.get('saga_now') or {}
+        nm = mr.get('next_move') or {}
+        lines.append(f"- **P1（下一步唯一主推 · 来自针对性复盘 {mr.get('as_of', '')}）**：{sn.get('p1') or p1 or '—'} — {sn.get('why', '')}；{sn.get('price', '')}")
+        lines.append(f"- **第一问（只问一个）**：{nm.get('one_question') or first_q}")
+    elif g != 'C':
         lines.append(f'- **P1（下一步唯一主推）**：{p1 or "—"} — {p1_why}；{p1_price}')
         lines.append(f'- **第一问（只问一个）**：{first_q}')
     else:
         lines.append(f'- **P1**：不推（C 级）；若对方主动来询，起手 {p1 or "STC-424DGGPM-280W"}（{p1_why}）')
     lines.append(f'- **最大未知**：{"；".join(unknown)}')
     nxt = {'A': '按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染', 'B': '放入慢跟队列（4–6 周一次）；有回复即重评', 'C': '不跟进；仅归档防重复开发'}[g]
+    if mr and (mr.get('next_move') or {}).get('action'):
+        nm = mr['next_move']
+        nxt = f"{nm.get('when', '')} {nm.get('channel', '')} {nm.get('action', '')}".strip()
     lines.append(f'- **下一步**：{nxt}')
     lines.append('')
+    if mr:
+        lines.append(f"## 针对性复盘（邮件 / PI / Drive 证据 · {mr.get('as_of', '')}）")
+        lines.append('')
+        lines.append(fmt_mail_review(ent))
+        lines.append('')
     lines.append('## 基本事实（事实/推断/假设分层）')
     lines.append('')
     lines.append('| 项 | 内容 | 层级 |')
@@ -971,7 +1024,11 @@ def render_one(ent):
     lines.append('')
     lines.append('## 英文跟进邮件（样板 · 可直接发送）')
     lines.append('')
-    lines.append(email_draft(ent, g, typ, p1, tier, brands, first_q))
+    dr = (rs.get('mail_review') or {}).get('draft_en') or {}
+    if dr.get('body'):
+        lines.append(f"**主题**：{dr.get('subject', '')}\n\n```text\n{dr['body'].strip()}\n```\n\n> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。")
+    else:
+        lines.append(email_draft(ent, g, typ, p1, tier, brands, first_q))
     lines.append('')
     lines.append('## 新跟进记录（仓库外发出后补）')
     lines.append('')

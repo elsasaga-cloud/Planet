@@ -115,5 +115,57 @@
   "tier": 30,
   "why": "询问 2.5G/10G 商业机 → STC-424XGGPM-280W（24 GE PoE + 4×10G SFP+）与 STC-448XGGM(L3) 为对位；若以 Antronix 品牌上市按 30% 档"
  },
- "email_hook": "On the 2.5G and 10G question from earlier, the 24-port PoE+ unit with four 10G SFP+ uplinks and the 48-port L3 version are the two Marvell-based platforms we can supply under the Antronix label, so I am sending both with EXW pricing."
+ "email_hook": "On the 2.5G and 10G question from earlier, the 24-port PoE+ unit with four 10G SFP+ uplinks and the 48-port L3 version are the two Marvell-based platforms we can supply under the Antronix label, so I am sending both with EXW pricing.",
+ "mail_review": {
+  "as_of": "2026-10-22",
+  "situation": "新泽西 CATV/宽带设备制造商 Antronix（Peter Tarquinio）。2024-01 要「交换机/路由器，>2 个 SFP 或 >2 个 SFP+，1G / 2.5G / 10G SFP」目录；2024-04-19 对 STC-4168XGGCM 问「Do you have any of the 4168 in USA? Can I get a sample」；Simon 04-24 追问时对方回了一句不相干的「Is that Jim Luciano?」——线程就此断掉；此后 Simon 发了 16 封推送，无回应（最后 2025-08-27）。",
+  "need": "24×SFP + 8 combo + 4×10G 的 L3 汇聚机（STC-4168XGGCM），**希望美国本地有样机可先看**。",
+  "breakpoint": "2024-04-19 的「美国有货吗/能给样机吗」没有得到直接回答（Simon 回的是 findlight 链接 + 「do we proceed」）；对方最后一封显然是误发。18 个月没有新的来信，热度已失。",
+  "saga_now": {
+   "p1": "STC-4168XGGCM",
+   "tier": 25,
+   "price": "$392.4 USD EXW（CNY 2100 ×1.25 ÷6.69；Saga 列表 $413）",
+   "why": "设备制造商做方案配套 → 25% 档；他只对这一款表过态；美国无库存只能 DHL 样机 5 天到",
+   "repeat": [],
+   "gaps": [
+    "美国本地样机：没有；只能样机价 + 抵首单"
+   ]
+  },
+  "next_move": {
+   "when": "低优先（一次性）",
+   "channel": "S 邮箱回 2024-04 原线程",
+   "action": "三行邮件：直接回答当年问题——US 无库存、样机 DHL 5 天、样机款抵首单；不附新产品",
+   "one_question": "Is the 24-SFP aggregation requirement from 2024 still open on your side?"
+  },
+  "facts": [
+   {
+    "date": "2024-01-20",
+    "dir": "来",
+    "who": "Peter Tarquinio",
+    "quote": "switches routers with more than 2 SFP ports. Or more than 2 sfp+ ports. I need 1G SFP and 2.5SFP+ and 10G SFP+",
+    "why": "需求定义：多光口",
+    "k": "113bf0edbaff9900"
+   },
+   {
+    "date": "2024-04-19",
+    "dir": "来",
+    "who": "Peter Tarquinio",
+    "quote": "Do you have any of the 4168 in USA? Can I get a sample or do you have one online for me to initially investigate?",
+    "why": "唯一的样机请求，未被直接回答",
+    "k": "320a0015fdc91397"
+   },
+   {
+    "date": "2024-04-24",
+    "dir": "来",
+    "who": "Peter Tarquinio",
+    "quote": "Is that Jim Luciano?",
+    "why": "误发/混淆，线程终止",
+    "k": "b8c0250afe43a2f7"
+   }
+  ],
+  "proof_gaps": [
+   "A 邮箱是否有后续"
+  ],
+  "draft_en": null
+ }
 }

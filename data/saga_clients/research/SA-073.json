@@ -140,5 +140,53 @@
   "tier": 20,
   "why": "走 Al Rajhi Distribution / ekhalas 自有品牌线：STC-424DGGPM-280W 与 STC-28DGGPM 为零售主力口型，自有品牌包装；分销 20% 档（若按自有品牌 OEM 则 30%）"
  },
- "email_hook": "With Al Rajhi Distribution and the ekhalas own-brand range now live, the Marvell-based 8- and 24-port PoE+ managed switches in your packing at EXW cost are the two SKUs I would start with; I can send the spec sheets and MOQ-1 samples."
+ "email_hook": "With Al Rajhi Distribution and the ekhalas own-brand range now live, the Marvell-based 8- and 24-port PoE+ managed switches in your packing at EXW cost are the two SKUs I would start with; I can send the spec sheets and MOQ-1 samples.",
+ "mail_review": {
+  "as_of": "2026-10-22",
+  "situation": "利雅得 Al Rajhi Telecom（数据中心部经理 Inam Ahmed）。ekhalas.com 地址全是自动回复；真人回复只有一封：2024-10-22 对 STI-154GP（1 SFP + 1 GE 上联 + 4 PoE，120W，看门狗）说「**Please send me a sample to test**」。Simon 当天回「NOT free samples, 36usd/pc … let me know if you are ready to order」，之后对方没再回；Simon 11-15、12-12、2025-01-03 又推了三款，无回应。",
+  "need": "户外/园区 IP 摄像机供电用的小型工业 PoE（4 口 + 光纤上联、看门狗、250 m PoE），先要一台测试。",
+  "breakpoint": "样机政策说得太硬（「NOT free samples… ready to order」），没有给「样机款抵首单」的台阶，也没问项目规模；沙特大型集成商测一台 $36 的机器本来是最低门槛的机会。",
+  "saga_now": {
+   "p1": "STI-154GP",
+   "tier": 25,
+   "price": "$39.2 USD EXW（CNY 210 ×1.25 ÷6.69；Saga 列表 $51.7）；可直接按 2024 年报的 $36 做样机价并声明抵首单",
+   "why": "他点名要测的就是这款；系统集成商 → 25% 档；用一台样机换项目信息",
+   "repeat": [],
+   "gaps": [
+    "沙特 SASO/认证要求：先不提，等他问",
+    "收款：样机可 PayPal（+5%）"
+   ]
+  },
+  "next_move": {
+   "when": "本周",
+   "channel": "S 邮箱回 inam@alrajhitel.com（不要发 info@ekhalas.com）",
+   "action": "重发样机方案：1 台 STI-154GP 样机 $36 + DHL，样机款抵首单；附 2026 规格书",
+   "one_question": "Is the test unit for a specific camera project (how many PoE ports in total), or for your standard product list?"
+  },
+  "facts": [
+   {
+    "date": "2024-10-22",
+    "dir": "来",
+    "who": "Inam Ahmed, Data Center Division Manager",
+    "quote": "Please send me a sample to test",
+    "why": "唯一真人回复，明确样机请求",
+    "k": "2291cc97643c8854"
+   },
+   {
+    "date": "2024-10-22",
+    "dir": "去",
+    "who": "Simon → Inam",
+    "quote": "It is NOT free samples. 36usd/pc STI-154GP … let me know if you are ready to order.",
+    "why": "断点：台阶给得太硬",
+    "k": "775f9ed585dd20d5"
+   }
+  ],
+  "proof_gaps": [
+   "A 邮箱 / 微信是否另有联系"
+  ],
+  "draft_en": {
+   "subject": "STI-154GP test unit - sample cost credited to your first order",
+   "body": "Hi Inam,\n\nYou asked for a test unit of the STI-154GP (1 x SFP + 1 x Gigabit uplink, 4 x Gigabit PoE+, 120 W, PoE watchdog, 250 m PoE mode) and I answered too briefly at the time. To put it properly:\n\n- One sample unit at USD 36 EXW plus DHL (about 5 days to Riyadh); the sample cost is credited to your first order.\n- Updated datasheet attached; CE / RoHS / FCC / REACH available on request.\n\nOne question: is the test unit for a specific camera project (roughly how many PoE ports in total), or for your standard product list?\n\nBest regards,\nSimon\nSaga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)\nhttps://sagatele.com/"
+  }
+ }
 }

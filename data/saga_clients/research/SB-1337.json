@@ -69,5 +69,64 @@
   "why": "MikroTik 顾问做项目 + 拟经销：先按经销 20% 档（$180 已是 20% 档价），项目成交后再定；样品 2 台口径已定"
  },
  "grade_override": "B",
- "override_reason": "有具名 KP + 真实意向 + 样品 PI 已开，但新公司、无项目、未付款 → B（等项目；若样品付款即升 A）"
+ "override_reason": "有具名 KP + 真实意向 + 样品 PI 已开，但新公司、无项目、未付款 → B（等项目；若样品付款即升 A）",
+ "mail_review": {
+  "as_of": "2026-10-22",
+  "situation": "伦敦 Milliseconds Evolution（Iyiola Folayan，MikroTik 顾问 20 年、公司新成立）。2026-09-29 回群发问目录与「Can we work as your distributor in the UK?」；Simon 09-30 回「先合作再谈分销」+ 资料包；10-03 给样机政策；10-17 对方给地址，Simon 开 **2 台 STC-424XGGPM-280W 样品 PI STSC-20261017-001（$180/台）**；同日对方回「unable to make the payment now… only proceed when I have a project」；Simon 10-19「Let's wait then」。",
+  "need": "想做 Saga 英国转售伙伴，但没有现金/项目；真正需要的是**一个能用 Saga 机型投标的项目**和 MikroTik 用户听得懂的对比资料（CLI/功能/价格 vs CRS3xx）。",
+  "breakpoint": "卡在样机款 $360；他做项目制，没有项目就不会付。再催付款没有意义。",
+  "saga_now": {
+   "p1": "STC-424XGGPM-280W",
+   "tier": 20,
+   "price": "$180 USD（Simon 已开 PI；仓内 20% 档 $181.2）",
+   "why": "转售伙伴 → 20% 档；PI 已开，维持价格到他有项目",
+   "repeat": [],
+   "gaps": [
+    "英国 UKCA 标识 + 英标电源线（BS 1363）——发货前确认",
+    "他是 MikroTik 顾问：准备一页「STC-424XGGPM-280W vs MikroTik CRS328-24P-4S+」对比（端口/PoE 预算/L3 功能/价格），这是他最需要的弹药"
+   ]
+  },
+  "next_move": {
+   "when": "4 周后（11 月中）一次轻触",
+   "channel": "S 邮箱同线程",
+   "action": "不催款；发一页 MikroTik CRS328 对比 + 「项目来了告诉我，样机 3 天内发」",
+   "one_question": "When a project comes up, will it most likely be a PoE access job (cameras / APs) or a small L3 core, so I prepare the right comparison against the MikroTik model you would normally use?"
+  },
+  "facts": [
+   {
+    "date": "2026-09-29",
+    "dir": "来",
+    "who": "Iyiola Folayan",
+    "quote": "Do you have distributors in the UK? Can we work as your distributor in the UK?",
+    "why": "主动提分销",
+    "k": "9dced38d1d03963a"
+   },
+   {
+    "date": "2026-09-30",
+    "dir": "来",
+    "who": "Iyiola Folayan",
+    "quote": "For now, I just work project by project. My plan is to start a reseller partner agreement… I have been working with mikrotik for over 20 years",
+    "why": "项目制 + MikroTik 背景",
+    "k": "29898c900941a648"
+   },
+   {
+    "date": "2026-10-17",
+    "dir": "去",
+    "who": "Simon → Iyiola",
+    "quote": "PI STSC-20261017-001：2 台 STC-424XGGPM-280W，样机款抵后续订单",
+    "why": "样品 PI 已开",
+    "k": "5ca2dee1999bade7"
+   },
+   {
+    "date": "2026-10-17",
+    "dir": "来",
+    "who": "Iyiola Folayan",
+    "quote": "Unfortunately I am unable to make the payment now. I can only proceed when I have a project that can take care of the cost.",
+    "why": "断点：无项目不付款",
+    "k": "d90558425d8bf645"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null
+ }
 }

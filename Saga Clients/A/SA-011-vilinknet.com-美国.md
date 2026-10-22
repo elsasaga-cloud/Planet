@@ -36,10 +36,37 @@ updated: 2026-10-22
 - **是谁**：美国加州光纤数字传输产品制造商（1993 年成立，1–10/11–50 人口径不一，营收约 $11–12M 口径），自有品牌 Vi-Link：视频光端机、光复用器、工业以太网交换机、工业光纤收发器（交通控制应用）。用户表：S 重点名单，兴趣 光猫/3G-SDI/VC/SFP/DAC/MC，1 次实质回复。（调研 2026-10-22；表内兴趣：光猫 3G SDI VC SFP模块 DAC MC）
 - **为什么是 A 级**：**调研后定级 A**（PI 包成单客户，Simon 标签 可发展 → A）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+2 兴趣仅 MC/SFP/配件（边缘品类）；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：成交/下单过；实质回复 1 次；推送 19 次（2023-12-09 → 2025-12-08）；最近一次客户回复：2024-11-13：下单了
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：自有品牌 IE/IEN 工业交换机系列（5–16 口）与 Saga STI 工业线一一对应：IE5→STI-144GP（4+1 PoE）/ IE8·IEN82·IEN84→STI-288DGGPM（8 PoE + 2 SFP 管理型）；MC 类目→STI-110GE；按 OEM 贴牌 30% 档报价；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-22）**：STC-424XGGPM-280W — 对方刚主动问价，且是能自己贴牌卖的美国品牌商 → 20% 档（经销/贴牌转售）；首单按 1–2 台样机 + OEM 丝印走，和他过去三单一样的节奏；Simon 已口头报 1300 RMB/台（≈$194 USD EXW @6.69）；仓内 20% 档为 $181.2（CNY 1010 ×1.2 ÷6.69，2026-10-17 快照）→ 以 Simon 口头价为准，邮件里写 USD $194 EXW 并注明 15 天有效
+- **第一问（只问一个）**：Is this 24-port PoE switch for your own Vi-Link label (same OEM printing as the converters), or for a specific end-customer project?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：立即（距 09-27 已 25 天） S 邮箱回复同一线程「Re: Fw: T/T Payment」或新主题 补一封完整的 STC-424XGGPM-280W 报价：USD $194 EXW、OEM 丝印免费、1 台样机即可、交期 7–10 天；顺带确认 MC1000SC03 到货反馈
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-22）
+
+> 依据：S 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-011` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-22。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **现状一句话**：Vi-Link 是 S 邮箱里最稳定的**美国 OEM 复购客户**：2024-04 一台 L3 光口交换机（STC-4168XGGCM，$452，印 Vi-Link logo）→ 2024-11 五台 10G/1G 媒体转换器 OEM（MC10G / MC1400，$530）→ 2026-09 十台千兆媒体转换器 OEM（MC1000SC03 = LT-MC80G-SC20，$165，T/T 已付、DHL 8604097423 已发）。联系人 Thu Pham 每次都亲自对丝印、字体、PI；单量小（1–10 台）但三次全部成交、零拖欠。2026-09-24 Simon 顺手推了 STC-424XGGPM-280W（1200 RMB/台），Thu 09-25 回「It looks good. I will take a look at the switch. What would be our cost?」，Simon 09-27 只回了「1300RMB/PC」——**一个正在等报价细节的商用 PoE 交换机机会，停在这里 25 天**。
+- **对方真实需求（有据）**：① 给自家 Vi-Link 品牌补齐 OEM 产品线：媒体转换器（10/100、千兆、10G）、机架（MC1400 14 槽）、光口交换机；② 终端客户不要 DIP 拨码（2026-09-01：『My customer didn't like the DIP switches』）→ 要**纯净外观 + 全白顶盖可丝印**；③ 刚表达对商用 24 口 PoE 交换机（STC-424XGGPM-280W）的兴趣，问的是「our cost」= 经销成本价。
+- **断点 / 为什么停在这里**：09-27 的回复只给了 RMB 单价，没有 USD、没有 MOQ/样品/交期、没有问用途；之后 S 邮箱无来往。另一个隐患：2026-09-08 新批次外壳顶盖带印刷字（『It will look like I use some one products, and it will be off the OEM purposed』）——下次下单前要先确认外壳是否仍为全白。
+- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（20% 档，Simon 已口头报 1300 RMB/台（≈$194 USD EXW @6.69）；仓内 20% 档为 $181.2（CNY 1010 ×1.2 ÷6.69，2026-10-17 快照）→ 以 Simon 口头价为准，邮件里写 USD $194 EXW 并注明 15 天有效）——对方刚主动问价，且是能自己贴牌卖的美国品牌商 → 20% 档（经销/贴牌转售）；首单按 1–2 台样机 + OEM 丝印走，和他过去三单一样的节奏
+  - 复购/在买项：STC-110GE（纯净版千兆 MC，Vi-Link 型号 MC1000SC03）：已成交 10 台，确认顶盖全白后可随时复购；STC-110XGE 10G MC + STC-14DUR 14 槽机架（Vi-Link MC10G / MC1400）：2024-11 成交 5 台；STC-110FE（MC100SC03，带 DIP）：2026-08 报过 $32.5/台，终端客户拒绝 DIP 版 → 只在客户明确接受 DIP 时再推
+  - 做不了 / 要先核的：外壳顶盖是否恢复全白（SmartByte 2026 新批次有印刷字）——下次 PI 前先向 SmartByte 确认；Vi-Link 要的『no DIP』纯净 MC 在 Saga 价格主表里没有商用 MC 条目 → 继续用 SmartByte LT-MC80G 系列报价并在 MD 标注
+- **下一步（具体）**：立即（距 09-27 已 25 天）　S 邮箱回复同一线程「Re: Fw: T/T Payment」或新主题　补一封完整的 STC-424XGGPM-280W 报价：USD $194 EXW、OEM 丝印免费、1 台样机即可、交期 7–10 天；顺带确认 MC1000SC03 到货反馈
+  - 第一问（只问一个）：Is this 24-port PoE switch for your own Vi-Link label (same OEM printing as the converters), or for a specific end-customer project?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-04-18 | 去 | Simon → Thu | PI STSC20240418006：1× STC-4168XGGCM $452，Vi-Link logo 丝印（Visio 源文件往返 6 轮） | 首单即 OEM，证明对方接受贴牌与中国货源 | `c99c94abd0c7eed6` |
+| 2024-11-19 | 去 | Simon → Thu | PI STSC20241119006：5 台 MC10G（STC-110XGE）+ MC1400 机架（STC-14DUR），$530 | 第二单，品类从交换机扩到 MC + 机架 | `5421b6cec88fe6fc` |
+| 2026-08-20 | 来 | Thu Pham | Yes, it is [a confirmed order]. Can you let me know the cost and time? | 2026 年第三单起点：10 台 10/100M SM SC MC（MC100SC03） | `ef4bc37cb17aebbf` |
+| 2026-09-01 | 来 | Thu Pham | My customer didn't like the DIP switches. Do you have 10/100/1000M converters without DIP switches? Our part number is MC1000SC03. | 终端客户偏好：纯净无拨码 → 以后 MC 一律先推无 DIP 版 | `8422e68589333f40` |
+| 2026-09-03 | 来 | Thu Pham | Here is the T/T payment. Can you send me the user manual? | PI STSC20260903006 当天付款，信用极好 | `32504609055f4294` |
+| 2026-09-08 | 来 | Thu Pham | This does not look good. It will look like I use some one products, and it will be off the OEM purposed. Can you fine the way to remove those letters. | OEM 红线：外壳不能带第三方印字；Simon 09-12 改为整面重新丝印解决 | `2b79994c6f5315f7` |
+| 2026-09-24 | 去 | Simon → Thu | Are you interested in commercial Ethernet switches? I am recommending a popular model. 1200 RMB/PC（附 STC-424XGGPM-280W.docx） | 交叉销售起点 | `6d28c798fba082a8` |
+| 2026-09-25 | 来 | Thu Pham | Thank you - It looks good. I will take a look at the switch. What would be our cost? | 明确的购买意向问句 | `0ff9007ca6a811e5` |
+| 2026-09-27 | 去 | Simon → Thu | DHL / 8604097423  1300RMB/PC | 最后一封：只给了 RMB 价（且比三天前高 100 RMB），无 USD / 条件 / 问题 → 断点 | `1da8981202e67e90` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：A 邮箱是否也在联系 Vi-Link（PI 包标签在 Simon 名下，推测没有）；MC1000SC03 到货后的使用反馈（10 月后无邮件）
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -275,25 +302,24 @@ updated: 2026-10-22
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-424XGGPM-280W for Vi-Link - price and sample option
 
 ```text
-Hi Robin,
+Hi Thu,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail. Your IE/IEN industrial series sits exactly on the port counts we build as OEM (4+1, 8+2 SFP, 16+2), so I can quote the 8-port DIN managed unit in Vi-Link neutral packing alongside the media converters Thu already ordered.
+Following up on the 24-port PoE switch I mentioned when the MC1000SC03 converters shipped (DHL 8604097423 - please let me know they arrived in good shape).
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your Vi-Link IEN10 / IEN21 / IEN41 / IEN42 / IEN81 / IEN82 / IEN84 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+STC-424XGGPM-280W: 24 x 10/100/1000 PoE+ (802.3af/at, 280 W budget) + 4 x 1G/2.5G/10G SFP+, L2+ managed (Web/CLI/SNMP), Marvell AC5. Price: $194 USD EXW per unit (snapshot 2026-10-22, valid 15 days). Vi-Link logo and front-panel printing are free, same as the converters, and a single sample unit is fine to start - sample cost is credited to your first order.
 
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is this switch for your own Vi-Link label, or for a specific end-customer project?
 
 Best regards,
+Simon
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
