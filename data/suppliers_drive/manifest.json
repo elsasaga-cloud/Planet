@@ -1148,12 +1148,14 @@
 "todo":453,
 "workers":6,
 "backup":true,
-"ocr":true
+"ocr":true,
+"finished":"2026-10-22T08:48:23Z",
+"processed":453
 }
 ],
 "files_total_in_index":453,
 "index_source":"Google Drive 文件夹《Realtek Based Commercial Switch》(id 17hEtGThaxugf-ngPfyNYYcuIzeEoT5p0) 与《CENTEC Based High-Speed Network》(id 1nKIZPptuYQhoUs0FbjyXYStrn2sl4iRU)，Simon 于 2026-10-20 上传；对应供应商 HRUI（hruitech.com，Realtek 芯片）与 Hohunet（hohunet.com，CENTEC 芯片）",
-"updated_at":"2026-10-22T08:48:21Z",
+"updated_at":"2026-10-22T08:48:23Z",
 "files_in_manifest":453,
 "status_counts":{
 "ok":183,

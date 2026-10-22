@@ -1,6 +1,6 @@
 # Drive《SmartByte》全量入库 · 覆盖率报告
 
-- 生成时间：2026-10-22T08:48:21Z；索引：453 个文件（1.2 GB），manifest：453 条
+- 生成时间：2026-10-22T08:48:23Z；索引：453 个文件（1.2 GB），manifest：453 条
 - 状态含义：**ok** = 抽到正文（Word 段落+表格 / Excel 逐行 / PDF 逐页(或 OCR) / PPT 逐页 / 图片 OCR 有字）；**meta** = 只有元数据+缩略图（无文字的图片/视频/设计源文件，或空文档）；**dup** = 与另一文件 sha256 完全相同，指向 same_as；**fail** = 下载或解析失败（见下表）；**pending** = 本次未处理
 - 原件备份：GitHub Release `drive-suppliers-20261022`（私有仓库，按顶层文件夹分卷 zip）
 
@@ -43,4 +43,4 @@
 ## 体量
 
 - 抽取正文合计 4,547,024 字符；图片 OCR 有字 98 张；缩略图 303 张
-- 运行记录：[{"started": "2026-10-22T08:37:54Z", "todo": 453, "workers": 6, "backup": true, "ocr": true}]
+- 运行记录：[{"started": "2026-10-22T08:37:54Z", "todo": 453, "workers": 6, "backup": true, "ocr": true, "finished": "2026-10-22T08:48:23Z", "processed": 453}]
