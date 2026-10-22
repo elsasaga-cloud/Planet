@@ -1,0 +1,26 @@
+{
+"id":"1eheBvv16j_iZPXijMYZ8o-Y5hdn8ZtWW",
+"name":"2.jpg",
+"path":"Realtek Based Commercial Switch/Commercial PoE Switch/STC-114GP/2.jpg",
+"type":"图片",
+"bytes":758979,
+"sha256":"7e36a87c55b6c2c2ae851ac708fd357be79a62328d51eef2d2f90ef6ea22265b",
+"extracted_at":"2026-10-22T08:47:14Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":3456,
+"height":2304,
+"mode":"RGB",
+"datetime":"2023:07:05 11:05:03",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":4249
+},
+"ocr":{
+"text":"extend(3-4)\nDefault\nVLAN(-9)1\neo Mode i\npwR",
+"conf":60.7
+},
+"text":"extend(3-4)\nDefault\nVLAN(-9)1\neo Mode i\npwR"
+}

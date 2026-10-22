@@ -1,0 +1,26 @@
+{
+"id":"1buikRJbHm0cORS8252pvB-9rz0v2Ajbk",
+"name":"1.jpg",
+"path":"Realtek Based Commercial Switch/Commercial PoE Switch/STC-028GP/1.jpg",
+"type":"图片",
+"bytes":1908154,
+"sha256":"33a602f0781cd1cda3fc7e0144e4d9ea14e6fad82060661f3babce2623e435d7",
+"extracted_at":"2026-10-22T08:47:08Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":6003,
+"height":3548,
+"mode":"RGB",
+"datetime":"2022:11:15 16:33:42",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":3859
+},
+"ocr":{
+"text":"=\n8\n3\n8\n3\n3\n自\n=\n圖\nExtend(7-8)\nDefault\nGigabit PoE Switch I,\n。 一 2。 一 3e— he — Se— 60 — 70— Be",
+"conf":77.1
+},
+"text":"=\n8\n3\n8\n3\n3\n自\n=\n圖\nExtend(7-8)\nDefault\nGigabit PoE Switch I,\n。 一 2。 一 3e— he — Se— 60 — 70— Be"
+}

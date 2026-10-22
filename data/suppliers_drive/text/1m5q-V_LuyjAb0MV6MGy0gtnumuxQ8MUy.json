@@ -1,0 +1,26 @@
+{
+"id":"1m5q-V_LuyjAb0MV6MGy0gtnumuxQ8MUy",
+"name":"1.jpg",
+"path":"Realtek Based Commercial Switch/Commercial PoE Switch/STC-114XGDGP/1.jpg",
+"type":"图片",
+"bytes":722785,
+"sha256":"0ce80b80677c26006aae6aee3db45836c4419b39c6efbbc6e4a0abd1fdf0ddd4",
+"extracted_at":"2026-10-22T08:47:23Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":3456,
+"height":2304,
+"mode":"RGB",
+"datetime":"2023:06:16 14:14:01",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":3795
+},
+"ocr":{
+"text":"2.5G PoE Switch OnsLink Flashing=ACT 1-5 Port: @ 10/100/1000M @ 2.5G 6 Port: @2.5G @ 106\n一 一 一 一 10/100/1000M/2.5G PoE Port ———————_,\n1@ e 加 roc wiax®\nLink/Act PoE",
+"conf":74.4
+},
+"text":"2.5G PoE Switch OnsLink Flashing=ACT 1-5 Port: @ 10/100/1000M @ 2.5G 6 Port: @2.5G @ 106\n一 一 一 一 10/100/1000M/2.5G PoE Port ———————_,\n1@ e 加 roc wiax®\nLink/Act PoE"
+}

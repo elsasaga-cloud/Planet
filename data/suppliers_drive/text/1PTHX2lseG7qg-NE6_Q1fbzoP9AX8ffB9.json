@@ -1,0 +1,24 @@
+{
+"id":"1PTHX2lseG7qg-NE6_Q1fbzoP9AX8ffB9",
+"name":"1.jpg",
+"path":"Realtek Based Commercial Switch/Commercial PoE Switch/STC-204GP/1.jpg",
+"type":"图片",
+"bytes":977310,
+"sha256":"87a24789e4a7cb01e844872df3bd2ef2a08ed89631a6dbeade87c932574aa353",
+"extracted_at":"2026-10-22T08:47:44Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":3543,
+"height":2362,
+"mode":"RGB",
+"datetime":"2023:06:28 16:22:56",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":3684
+},
+"ocr":{
+"text":"| 10/100/1000M PoE Port 一\nPort 1:802.3 bt 40W\nExtend(3-4)\nDefault\nVLAN(\nGigabit PoE Switch\nPWR @ @ Mode 1@",
+"conf":86.3
+},
+"text":"| 10/100/1000M PoE Port 一\nPort 1:802.3 bt 40W\nExtend(3-4)\nDefault\nVLAN(\nGigabit PoE Switch\nPWR @ @ Mode 1@"
+}

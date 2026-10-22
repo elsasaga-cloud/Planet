@@ -1,0 +1,26 @@
+{
+"id":"1Sw3bP3yYDren2wOy2BWYaXBzdXJ8cRDc",
+"name":"1.jpg",
+"path":"Realtek Based Commercial Switch/Commercial PoE Switch/STC-2216GP/1.jpg",
+"type":"图片",
+"bytes":667128,
+"sha256":"cb1f5efdfe4f52497e5864a9a705b81ea44a914491aef302ccf5b649c7f13fb5",
+"extracted_at":"2026-10-22T08:47:54Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":3456,
+"mode":"RGB",
+"datetime":"2023:05:25 18:23:49",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":5030
+},
+"ocr":{
+"text":"16。y ac wey PoE Max 。\n1 一 一 一 一 5 一 一 , 9 一 一 0 一 一 43 一 一 1\nGigabit PoE Switch\nExtend\n(9-16)\nOFF on _\nae 2e © 4e © 6e © Bev e108 6 120 ©\n17\nPWR ‧ Modes a 8",
+"conf":72.0
+},
+"text":"16。y ac wey PoE Max 。\n1 一 一 一 一 5 一 一 , 9 一 一 0 一 一 43 一 一 1\nGigabit PoE Switch\nExtend\n(9-16)\nOFF on _\nae 2e © 4e © 6e © Bev e108 6 120 ©\n17\nPWR ‧ Modes a 8"
+}

@@ -1,0 +1,418 @@
+{
+"id":"1GO23XKij6203IFQTZ4yA_mtWisntfZ3o",
+"name":"STC-2224GP.docx",
+"path":"Realtek Based Commercial Switch/Commercial PoE Switch/STC-2224GP.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":438167,
+"sha256":"b689469ed7cb48b99611ccd7263f1a981b881bd598f8c4f6fe9a68cb00fed186",
+"extracted_at":"2026-10-22T08:46:41Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":5348,
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2025-11-04T12:33:00+00:00",
+"modified":"2026-06-22T12:35:03+00:00",
+"paragraphs":54,
+"tables":1,
+"embedded_images":6
+},
+"warnings":[],
+"text":"Introduction\nIt adopts high-quality and high-speed network intelligent and PoE chip\nThis PoE switch has 24 port 10/100/1000M PoE + 2 Gigabit Ethernet Uplink + 2 Gigabit SFP enjoying\nseamless connection for 10/100/1000M Ethernet\nthree working modes\none-key smart simple switching working mode\neasy to manage and maintain\n802.3af and 802.3at standard for each PoE port\nintelligent detection of powered devices\npower the devices that comply with the IEEE802.3af or IEEE802.3at standards\ntransmit only data to non-PoE devices\nWith simple and convenient installation, maintenance methods and rich business features, it helps users build a safe and reliable high-performance network\nIt is mainly located in the core or convergence layer of user  networks such as industrial parks, buildings, factories and mines, government agencies, and residential broadband\nIt can be widely used in Ethernet  access scenarios such as small and medium-sized enterprises, Internet cafes, hotels, and schools\nKey Features\n24*10/100/1000M PoE Ports + 2*Gigabit Ethernet Uplink + 2*1000M SFP Port\nComply with IEEE 802.3, IEEE 802.3u, IEEE802.3ab, IEEE802.3z, IEEE802.3af/at standards\nEthernet port supports 10/100/1000M adaptive and PoE functions\nPoE priority is supported, from port 1 to port 24, which is enabled by default\nThe AI mode is automatically enabled 10M speed for Ports 17~24 in Extend mode\nFlow control mode: full-duplex adopts IEEE 802.3x standard, half-duplex adopts Back pressure standard\nSupport port auto flip (Auto MDI/MDIX)\nAutomatically supplied to adaptive devices\nPanel indicator monitoring status and help failure analysis\nSupport VLAN mode, OFF mode and Extend mode\nSupport PoE Watchdog\nSupport port lightning surge: common mode 4KV, differential mode 2KV; Electrostatic ESD: air 8KV, contact 6KV\n1U Rack installation\nSpecification\nProduct Name\t28 Port 10/100/1000Mbps Rack Type Ethernet PoE Switch\nPort\t24 Port 10/100/1000M PoE + 2 Gigabit Ethernet Uplink + 2 Gigabit SFP\nSwitching Capacity\t56Gbps\nThroughput\t41.644Mpps\nPacket Buffer\t6M\nMAC Address\t8K\nJumbo Frame\t9216Kbytes\nTransfer Mode\tStore and forward\nMTBF\t100000 hours\nNetwork protocol\tIEEE 802.3: Ethernet Media Access Control (MAC) protocol / IEEE 802.3i:10BASE-T Ethernet / IEEE 802.3u:100BASE-TX Fast Ethernet / IEEE 802.3ab:1000BASE-T Gigabit Ethernet / IEEE 802.3z:1000BASE-X Gigabit Ethernet (Optical Fiber) / IEEE 802.3x: Flow Control\nPoE Protocol\tIEEE802.3af(15.4W) / IEEE802.3at(30W)\nPoE Wiring\t1/2(+), 3/6(-)\nPoE Budget\t400W\nIndustry Standard\tEMI: FCC Part 15 CISPR (EN55032) class A / EMS: EN61000-4-2 (ESD) / EN61000-4-5 (Surge)\nNetwork Medium\t10Base-T: Cat3,4,5 or above UTP(≤100m) / 100Base-TX: Cat5 or above UTP(≤100m) / 1000Base-TX: Cat5 or above UTP(≤100m)\nOptical Media\tMulti mode fiber : 50/125, 62.5/125, 100/140μm / Single mode fiber: 8/125, 8.7/125, 9/125, 10/125μm\nCertification\tCE/FCC/RoHS\nWorking Environment\tWorking Temperature: -10℃~50℃ / Storage Temperature: -40℃~70℃ / Working Humidity: 10%~90%, non-condensing / Storage Temperature: 5%~95%, non-condensing\nPower\tPower Input Voltage: AC100-240V\nInternal AC-DC Converter: 52V7.69A\nLED Indicators\tPWR(Power indicator) / On: power on\nOff: no power / 1-28 ACT(Link&Data) / On: Connected / Off: Disconnected / Flashing: Data Transmitting / 1-24 1000M(Yellow Light) / On: PoE power supply is normal / Off: PoE not powered / PoE Max PoE power light / Off: PoE power usage is less than 90% / Flashing: PoE power usage of 90%≤ P≤ 95% / On: PoE power is used at 95%<P<100% / Mode DIP Switch light / On: Extend on / Off: Extend off / PoE Led Key / Dual color light selection / Default green (link data), Switch yellow light (PoE)\nExtend DIP Switch\tOFF: Normal mode, all interfaces can communicate with each other / The transmission distance is less than 100 meters, the transmission rate is 10/100/1000M adaptive; The port AI mode is disabled / ON: Link extension mode, 17-24 ports force 10M, link 250M (enable PoE watchdog), The port AI mode is enabled\nDimension\nRemark\nPlease contact us if the source file is needed\nPacking Information\n1pc switch(neutral device)\n1pc power cable(standards vary across countries)\n1pc user manual(including QIG information)\n1pair mounting brackets(rack mountable)\nPlease know that there is NOT a warranty card in the packing box\nA “Warranty Certificate” will be issued to indicate the order information and warranty coverage\nShipping box information(Below information is approximately accurate)\nProduct size: 440*205*44mm\nInner box size: 500*290*85mm\nProduct weight: 2.86Kg\nPacking weight: 3.39Kg\nMaster box size: 520*445*310mm\nPacking quantity: 5Pcs\nPacking weight: 17.95Kg\nRemark\nAccessories(optical module, patchcord etc.)are NOT included in the packing box\nPlease prepare it by yourself or purchase a whole set from us\nPower adapter is included in BOTH the packing box AND unit pricing\nProduct Picture\nRemark\nPlease let us know if you need to check the PCBs\n[页眉页脚]\nRealtek Commercial PoE Series                                                                                                                   Saga Telecom\n2026/Q3                                                                                                                                      www.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Introduction"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It adopts high-quality and high-speed network intelligent and PoE chip"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This PoE switch has 24 port 10/100/1000M PoE + 2 Gigabit Ethernet Uplink + 2 Gigabit SFP enjoying"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"seamless connection for 10/100/1000M Ethernet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"three working modes"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"one-key smart simple switching working mode"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"easy to manage and maintain"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"802.3af and 802.3at standard for each PoE port"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"intelligent detection of powered devices"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"power the devices that comply with the IEEE802.3af or IEEE802.3at standards"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"transmit only data to non-PoE devices"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"With simple and convenient installation, maintenance methods and rich business features, it helps users build a safe and reliable high-performance network"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is mainly located in the core or convergence layer of user  networks such as industrial parks, buildings, factories and mines, government agencies, and residential broadband"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It can be widely used in Ethernet  access scenarios such as small and medium-sized enterprises, Internet cafes, hotels, and schools"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Key Features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"24*10/100/1000M PoE Ports + 2*Gigabit Ethernet Uplink + 2*1000M SFP Port"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Comply with IEEE 802.3, IEEE 802.3u, IEEE802.3ab, IEEE802.3z, IEEE802.3af/at standards"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ethernet port supports 10/100/1000M adaptive and PoE functions"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE priority is supported, from port 1 to port 24, which is enabled by default"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The AI mode is automatically enabled 10M speed for Ports 17~24 in Extend mode"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Flow control mode: full-duplex adopts IEEE 802.3x standard, half-duplex adopts Back pressure standard"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support port auto flip (Auto MDI/MDIX)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Automatically supplied to adaptive devices"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Panel indicator monitoring status and help failure analysis"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support VLAN mode, OFF mode and Extend mode"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support PoE Watchdog"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support port lightning surge: common mode 4KV, differential mode 2KV; Electrostatic ESD: air 8KV, contact 6KV"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1U Rack installation"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"Product Name",
+"28 Port 10/100/1000Mbps Rack Type Ethernet PoE Switch"
+],
+[
+"Port",
+"24 Port 10/100/1000M PoE + 2 Gigabit Ethernet Uplink + 2 Gigabit SFP"
+],
+[
+"Switching Capacity",
+"56Gbps"
+],
+[
+"Throughput",
+"41.644Mpps"
+],
+[
+"Packet Buffer",
+"6M"
+],
+[
+"MAC Address",
+"8K"
+],
+[
+"Jumbo Frame",
+"9216Kbytes"
+],
+[
+"Transfer Mode",
+"Store and forward"
+],
+[
+"MTBF",
+"100000 hours"
+],
+[
+"Network protocol",
+"IEEE 802.3: Ethernet Media Access Control (MAC) protocol / IEEE 802.3i:10BASE-T Ethernet / IEEE 802.3u:100BASE-TX Fast Ethernet / IEEE 802.3ab:1000BASE-T Gigabit Ethernet / IEEE 802.3z:1000BASE-X Gigabit Ethernet (Optical Fiber) / IEEE 802.3x: Flow Control"
+],
+[
+"PoE Protocol",
+"IEEE802.3af(15.4W) / IEEE802.3at(30W)"
+],
+[
+"PoE Wiring",
+"1/2(+), 3/6(-)"
+],
+[
+"PoE Budget",
+"400W"
+],
+[
+"Industry Standard",
+"EMI: FCC Part 15 CISPR (EN55032) class A / EMS: EN61000-4-2 (ESD) / EN61000-4-5 (Surge)"
+],
+[
+"Network Medium",
+"10Base-T: Cat3,4,5 or above UTP(≤100m) / 100Base-TX: Cat5 or above UTP(≤100m) / 1000Base-TX: Cat5 or above UTP(≤100m)"
+],
+[
+"Optical Media",
+"Multi mode fiber : 50/125, 62.5/125, 100/140μm / Single mode fiber: 8/125, 8.7/125, 9/125, 10/125μm"
+],
+[
+"Certification",
+"CE/FCC/RoHS"
+],
+[
+"Working Environment",
+"Working Temperature: -10℃~50℃ / Storage Temperature: -40℃~70℃ / Working Humidity: 10%~90%, non-condensing / Storage Temperature: 5%~95%, non-condensing"
+],
+[
+"Power",
+"Power Input Voltage: AC100-240V\nInternal AC-DC Converter: 52V7.69A"
+],
+[
+"LED Indicators",
+"PWR(Power indicator) / On: power on\nOff: no power / 1-28 ACT(Link&Data) / On: Connected / Off: Disconnected / Flashing: Data Transmitting / 1-24 1000M(Yellow Light) / On: PoE power supply is normal / Off: PoE not powered / PoE Max PoE power light / Off: PoE power usage is less than 90% / Flashing: PoE power usage of 90%≤ P≤ 95% / On: PoE power is used at 95%<P<100% / Mode DIP Switch light / On: Extend on / Off: Extend off / PoE Led Key / Dual color light selection / Default green (link data), Switch yellow light (PoE)"
+],
+[
+"Extend DIP Switch",
+"OFF: Normal mode, all interfaces can communicate with each other / The transmission distance is less than 100 meters, the transmission rate is 10/100/1000M adaptive; The port AI mode is disabled / ON: Link extension mode, 17-24 ports force 10M, link 250M (enable PoE watchdog), The port AI mode is enabled"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Dimension"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please contact us if the source file is needed"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Packing Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc switch(neutral device)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc power cable(standards vary across countries)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc user manual(including QIG information)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pair mounting brackets(rack mountable)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that there is NOT a warranty card in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A “Warranty Certificate” will be issued to indicate the order information and warranty coverage"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipping box information(Below information is approximately accurate)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product size: 440*205*44mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Inner box size: 500*290*85mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product weight: 2.86Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 3.39Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Master box size: 520*445*310mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing quantity: 5Pcs"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 17.95Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Accessories(optical module, patchcord etc.)are NOT included in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please prepare it by yourself or purchase a whole set from us"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Power adapter is included in BOTH the packing box AND unit pricing"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Product Picture"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please let us know if you need to check the PCBs"
+}
+],
+"header_footer":[
+"Realtek Commercial PoE Series                                                                                                                   Saga Telecom",
+"2026/Q3                                                                                                                                      www.sagatelecom.com.cn",
+"Tailored Managed Networking Solutions Provider",
+"Built to Last, Continuous Supply, Evolving Together"
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":86903
+},
+{
+"name":"image2.png",
+"bytes":51167
+},
+{
+"name":"image3.png",
+"bytes":93348
+},
+{
+"name":"image4.png",
+"bytes":122034
+},
+{
+"name":"image5.jpeg",
+"bytes":41812
+}
+]
+}

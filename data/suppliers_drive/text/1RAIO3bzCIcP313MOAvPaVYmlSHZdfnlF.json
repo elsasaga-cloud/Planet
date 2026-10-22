@@ -1,0 +1,26 @@
+{
+"id":"1RAIO3bzCIcP313MOAvPaVYmlSHZdfnlF",
+"name":"1.jpg",
+"path":"Realtek Based Commercial Switch/Commercial PoE Switch/STC-0216GFP/1.jpg",
+"type":"图片",
+"bytes":1646031,
+"sha256":"820ffda41844236008232e4360e61b4aade19bbf75f5b7a7ff1d90790c1002c8",
+"extracted_at":"2026-10-22T08:46:44Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":3456,
+"mode":"RGB",
+"datetime":"2022:10:11 17:15:39",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":4380
+},
+"ocr":{
+"text":"Hod 30d WOOL/OL\nPoE Switch\nVLAN(1-16)\n[pea\n| Fe\nMode",
+"conf":68.4
+},
+"text":"Hod 30d WOOL/OL\nPoE Switch\nVLAN(1-16)\n[pea\n| Fe\nMode"
+}

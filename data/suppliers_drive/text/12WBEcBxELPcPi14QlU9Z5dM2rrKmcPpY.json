@@ -1,0 +1,26 @@
+{
+"id":"12WBEcBxELPcPi14QlU9Z5dM2rrKmcPpY",
+"name":"1.jpg",
+"path":"Realtek Based Commercial Switch/Commercial PoE Switch/STC-114GP/1.jpg",
+"type":"图片",
+"bytes":741512,
+"sha256":"be89744786355630b39231bbc14cdc193d26454449256abc2b75b9b08cd3093d",
+"extracted_at":"2026-10-22T08:47:13Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":3456,
+"height":2304,
+"mode":"RGB",
+"datetime":"2023:07:05 11:05:10",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":3860
+},
+"ocr":{
+"text":"一 一 10/100/1000M PoE Port 一\nExtend(3-4)\nDefault\nVLAN(\nGigabit PoE Switch\nPWR @ @ Mode 1@",
+"conf":82.5
+},
+"text":"一 一 10/100/1000M PoE Port 一\nExtend(3-4)\nDefault\nVLAN(\nGigabit PoE Switch\nPWR @ @ Mode 1@"
+}

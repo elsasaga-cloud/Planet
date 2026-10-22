@@ -1,0 +1,26 @@
+{
+"id":"11kjVx-7yNqH-2TR9gjZjJf7whOJC8fk2",
+"name":"3.jpg",
+"path":"Realtek Based Commercial Switch/Commercial PoE Switch/STC-1216GFP/3.jpg",
+"type":"图片",
+"bytes":3277725,
+"sha256":"12663a7198ac0d2101f3334a042ff1e71e7bf66123ff9279087d31ae645862b5",
+"extracted_at":"2026-10-22T08:47:20Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":3456,
+"mode":"RGB",
+"datetime":"2020:11:20 09:43:49",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC (Windows)",
+"thumb_bytes":4471
+},
+"ocr":{
+"text":"POE Switch",
+"conf":96.4
+},
+"text":"POE Switch"
+}

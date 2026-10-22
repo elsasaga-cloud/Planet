@@ -1,0 +1,379 @@
+{
+"id":"1UFvJJx4EqGGrcNCB3RrX-50vlW3rehl_",
+"name":"STC-028GP.docx",
+"path":"Realtek Based Commercial Switch/Commercial PoE Switch/STC-028GP.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":644954,
+"sha256":"7805148f799934a3aa3a9689b9fd600334fb96e039c26eb88be93fb2965eca95",
+"extracted_at":"2026-10-22T08:46:38Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":4333,
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2025-11-04T12:33:00+00:00",
+"modified":"2026-06-22T12:34:11+00:00",
+"paragraphs":47,
+"tables":1,
+"embedded_images":6
+},
+"warnings":[],
+"text":"Introduction\nIt adopts high-quality and high-speed network intelligent and PoE chip\nThis PoE switch has 8 port 10/100/1000M PoE + 2 port 1000M Ethernet uplink enjoying\nseamless connection for 10/100/1000M Ethernet\nthree working modes\none-key smart simple switching working mode\neasy to manage and maintain\n802.3af and 802.3at standard for each PoE port\nintelligent detection of powered devices\npower the devices that comply with the IEEE802.3af or IEEE802.3at standards\ntransmit only data to non-PoE devices\nWith simple and convenient installation, maintenance methods and rich business features, it helps users build a safe and reliable high-performance network\nIt is mainly located in the core or convergence layer of user  networks such as industrial parks, buildings, factories and mines, government agencies, and residential broadband\nIt can be widely used in Ethernet  access scenarios such as small and  medium-sized enterprises, Internet cafes, hotels, and schools\nKey Features\n8*10/100/1000M PoE Ports + 2*1000M RJ45 Port\nComply with IEEE 802.3, IEEE 802.3u, IEEE802.3ab, IEEE802.3x, IEEE802.3af/at standards\nEthernet port supports 10/100/1000M adaptive and PoE functions\nPoE priority is supported, from port 1 to port 8, which is enabled by default\nFlow control mode: full-duplex adopts IEEE 802.3x standard, half-duplex adopts Back pressure standard\nSupport port auto flip (Auto MDI/MDIX)\nAutomatically supplied to adaptive devices\nPanel indicator monitoring status and help failure analysis\nSupport VLAN mode, OFF mode and Extend mode\nSpecification\nProduct Name\t10 Port 10/100/1000Mbps Ethernet PoE Switch\nPort\t8 Port 10/100/1000M PoE + 2 Port 1000M Ethernet Uplink\nSwitching Capacity\t20Gbps\nThroughput\t14.88Mpps\nPacket Buffer\t448Kbit\nMAC Address\t2K\nJumbo Frame\t2048bytes\nTransfer Mode\tStore and forward\nMTBF\t100000 hours\nNetwork protocol\tIEEE802.3 (10Base-T) / IEEE802.3u (100Base-TX) / IEEE802.3ab(1000Base-TX) / IEEE802.3x (Flow control)\nPoE Protocol\tIEEE802.3af(15.4W) / IEEE802.3at(30W)\nPoE Wiring\t1/2(+), 3/6(-)\nPoE Budget\t120W\nIndustry Standard\tEMI: FCC Part 15 CISPR (EN55032) class A / EMS: EN61000-4-2 (ESD) / EN61000-4-5 (Surge)\nNetwork Medium\t10Base-T: Cat3,4,5 or above UTP(≤100m) / 100Base-TX: Cat5 or above UTP(≤100m) / 1000Base-TX: Cat5 or above UTP(≤100m)\nCertification\tCE/FCC/RoHS\nWorking Environment\tWorking Temperature: -10℃~50℃ / Storage Temperature: -40℃~70℃ / Working Humidity: 10%~90%, non-condensing / Storage Temperature: 5%~95%, non-condensing\nPower\tPower Input Voltage: AC100-240V\nInternal AC-DC Converter: 52V2.3A\nLED Indicators\tPWR(Power indicator) / On: power on\nOff: no power / 1-10 Green(Link&Data) / On: Connected / Off: Disconnected / Flashing: Data Transmitting\nDIP Switch\tVLAN: Port Isolation, 1-8 PoE ports are isolated each other and can only communicate with uplink port 9/10 / Default: Normal mode, all port can communicate with each other, the transmission distance is within 100 meters / Extend: Link Extension Mode,  7-8  ports  PoE and  data  transmission distance extended to 250 meters, the transmission rate becomes 10M/s\nApplication\nPacking Information\n1pc switch(neutral device)\n1pc power cable(standards vary across countries)\n1pc user manual(including QIG information)\n1pair mounting brackets(rack mountable)\nPlease know that there is NOT a warranty card in the packing box\nA “Warranty Certificate” will be issued to indicate the order information and warranty coverage\nShipping box information(Below information is approximately accurate)\nProduct size: 200mm*118mm*44.5mm\nInner box size: 245mm*190mm*60mm\nProduct weight: 0.71Kg\nPacking weight: 0.99Kg\nMaster box size: 520*320*400mm\nPacking quantity: 20Pcs\nPacking weight: 20.8Kg\nRemark\nAccessories(Network cable etc.)are NOT included in the packing box\nPower adapter is included in BOTH the packing box AND unit pricing\nProduct Picture\nRemark\nPlease let us know if you need to check the PCBs\n[页眉页脚]\nRealtek Commercial PoE Series                                                                                                                   Saga Telecom\n2026/Q3                                                                                                                                      www.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Introduction"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It adopts high-quality and high-speed network intelligent and PoE chip"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This PoE switch has 8 port 10/100/1000M PoE + 2 port 1000M Ethernet uplink enjoying"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"seamless connection for 10/100/1000M Ethernet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"three working modes"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"one-key smart simple switching working mode"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"easy to manage and maintain"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"802.3af and 802.3at standard for each PoE port"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"intelligent detection of powered devices"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"power the devices that comply with the IEEE802.3af or IEEE802.3at standards"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"transmit only data to non-PoE devices"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"With simple and convenient installation, maintenance methods and rich business features, it helps users build a safe and reliable high-performance network"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is mainly located in the core or convergence layer of user  networks such as industrial parks, buildings, factories and mines, government agencies, and residential broadband"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It can be widely used in Ethernet  access scenarios such as small and  medium-sized enterprises, Internet cafes, hotels, and schools"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Key Features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8*10/100/1000M PoE Ports + 2*1000M RJ45 Port"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Comply with IEEE 802.3, IEEE 802.3u, IEEE802.3ab, IEEE802.3x, IEEE802.3af/at standards"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ethernet port supports 10/100/1000M adaptive and PoE functions"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE priority is supported, from port 1 to port 8, which is enabled by default"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Flow control mode: full-duplex adopts IEEE 802.3x standard, half-duplex adopts Back pressure standard"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support port auto flip (Auto MDI/MDIX)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Automatically supplied to adaptive devices"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Panel indicator monitoring status and help failure analysis"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support VLAN mode, OFF mode and Extend mode"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"Product Name",
+"10 Port 10/100/1000Mbps Ethernet PoE Switch"
+],
+[
+"Port",
+"8 Port 10/100/1000M PoE + 2 Port 1000M Ethernet Uplink"
+],
+[
+"Switching Capacity",
+"20Gbps"
+],
+[
+"Throughput",
+"14.88Mpps"
+],
+[
+"Packet Buffer",
+"448Kbit"
+],
+[
+"MAC Address",
+"2K"
+],
+[
+"Jumbo Frame",
+"2048bytes"
+],
+[
+"Transfer Mode",
+"Store and forward"
+],
+[
+"MTBF",
+"100000 hours"
+],
+[
+"Network protocol",
+"IEEE802.3 (10Base-T) / IEEE802.3u (100Base-TX) / IEEE802.3ab(1000Base-TX) / IEEE802.3x (Flow control)"
+],
+[
+"PoE Protocol",
+"IEEE802.3af(15.4W) / IEEE802.3at(30W)"
+],
+[
+"PoE Wiring",
+"1/2(+), 3/6(-)"
+],
+[
+"PoE Budget",
+"120W"
+],
+[
+"Industry Standard",
+"EMI: FCC Part 15 CISPR (EN55032) class A / EMS: EN61000-4-2 (ESD) / EN61000-4-5 (Surge)"
+],
+[
+"Network Medium",
+"10Base-T: Cat3,4,5 or above UTP(≤100m) / 100Base-TX: Cat5 or above UTP(≤100m) / 1000Base-TX: Cat5 or above UTP(≤100m)"
+],
+[
+"Certification",
+"CE/FCC/RoHS"
+],
+[
+"Working Environment",
+"Working Temperature: -10℃~50℃ / Storage Temperature: -40℃~70℃ / Working Humidity: 10%~90%, non-condensing / Storage Temperature: 5%~95%, non-condensing"
+],
+[
+"Power",
+"Power Input Voltage: AC100-240V\nInternal AC-DC Converter: 52V2.3A"
+],
+[
+"LED Indicators",
+"PWR(Power indicator) / On: power on\nOff: no power / 1-10 Green(Link&Data) / On: Connected / Off: Disconnected / Flashing: Data Transmitting"
+],
+[
+"DIP Switch",
+"VLAN: Port Isolation, 1-8 PoE ports are isolated each other and can only communicate with uplink port 9/10 / Default: Normal mode, all port can communicate with each other, the transmission distance is within 100 meters / Extend: Link Extension Mode,  7-8  ports  PoE and  data  transmission distance extended to 250 meters, the transmission rate becomes 10M/s"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Application"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Packing Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc switch(neutral device)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc power cable(standards vary across countries)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc user manual(including QIG information)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pair mounting brackets(rack mountable)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that there is NOT a warranty card in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A “Warranty Certificate” will be issued to indicate the order information and warranty coverage"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipping box information(Below information is approximately accurate)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product size: 200mm*118mm*44.5mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Inner box size: 245mm*190mm*60mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product weight: 0.71Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 0.99Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Master box size: 520*320*400mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing quantity: 20Pcs"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 20.8Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Accessories(Network cable etc.)are NOT included in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Power adapter is included in BOTH the packing box AND unit pricing"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Product Picture"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please let us know if you need to check the PCBs"
+}
+],
+"header_footer":[
+"Realtek Commercial PoE Series                                                                                                                   Saga Telecom",
+"2026/Q3                                                                                                                                      www.sagatelecom.com.cn",
+"Tailored Managed Networking Solutions Provider",
+"Built to Last, Continuous Supply, Evolving Together"
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":176606
+},
+{
+"name":"image2.png",
+"bytes":76751
+},
+{
+"name":"image3.png",
+"bytes":93348
+},
+{
+"name":"image4.png",
+"bytes":196684
+},
+{
+"name":"image5.png",
+"bytes":60398
+}
+]
+}

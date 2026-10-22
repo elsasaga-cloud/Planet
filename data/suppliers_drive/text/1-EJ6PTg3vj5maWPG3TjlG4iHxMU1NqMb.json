@@ -1,0 +1,26 @@
+{
+"id":"1-EJ6PTg3vj5maWPG3TjlG4iHxMU1NqMb",
+"name":"1.jpg",
+"path":"Realtek Based Commercial Switch/Commercial PoE Switch/STC-024FP/1.jpg",
+"type":"图片",
+"bytes":817540,
+"sha256":"c003b0e3f3577becb156e9d4aa784d9ddce16758ef684e9a852e1e4ac9bd9435",
+"extracted_at":"2026-10-22T08:46:49Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":3456,
+"height":2304,
+"mode":"RGB",
+"datetime":"2020:11:20 09:38:15",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC (Windows)",
+"thumb_bytes":3882
+},
+"ocr":{
+"text":"OFF\nPoE Switch VLAN Extend\nPWR @ @ sw",
+"conf":68.6
+},
+"text":"OFF\nPoE Switch VLAN Extend\nPWR @ @ sw"
+}

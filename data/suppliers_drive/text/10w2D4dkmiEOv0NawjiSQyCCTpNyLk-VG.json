@@ -1,0 +1,24 @@
+{
+"id":"10w2D4dkmiEOv0NawjiSQyCCTpNyLk-VG",
+"name":"1.jpg",
+"path":"Realtek Based Commercial Switch/Commercial PoE Switch/STC-2016GP/1.jpg",
+"type":"图片",
+"bytes":618549,
+"sha256":"87d14589b5b6cd8e4d39cf59bd5360998d7cb819537b36ccf933829d83daf99d",
+"extracted_at":"2026-10-22T08:47:37Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":3456,
+"mode":"RGB",
+"datetime":"2020:12:22 17:05:36",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":4202
+},
+"ocr":{
+"text":"一 一 uw 一 一\ne@\neeeee\n10 12 14 16 18\neeeee\neeeee\n9 111315 17\nact\n1000\nExtend(9-16)\nact\n1000\nGigabit PoE Switch",
+"conf":72.0
+},
+"text":"一 一 uw 一 一\ne@\neeeee\n10 12 14 16 18\neeeee\neeeee\n9 111315 17\nact\n1000\nExtend(9-16)\nact\n1000\nGigabit PoE Switch"
+}

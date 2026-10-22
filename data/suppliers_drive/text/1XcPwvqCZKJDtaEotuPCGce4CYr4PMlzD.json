@@ -1,0 +1,26 @@
+{
+"id":"1XcPwvqCZKJDtaEotuPCGce4CYr4PMlzD",
+"name":"1.jpg",
+"path":"Realtek Based Commercial Switch/Commercial PoE Switch/STC-1224GFP/1.jpg",
+"type":"图片",
+"bytes":2061410,
+"sha256":"c08ece4de1bd9bfd602c5a5a7457bdd68383f614258aaa3c8cf5da229c8a49e2",
+"extracted_at":"2026-10-22T08:47:34Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":3456,
+"mode":"RGB",
+"datetime":"2020:11:20 09:45:28",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC (Windows)",
+"thumb_bytes":5934
+},
+"ocr":{
+"text":"$$ 1ooowpospor\n17 19 21 23 G25\n‘somal ‘anal nal ‘na St\nG27\nOFF\nVLAN g——— Extend\n(1-24) 一 一 (8-24)\n。 18e。 19。 200 210 22 23 20\n\" B 15\nQe We 110 120 136 te 15e 160 ‧ sw 17 epPWR ‧G26‧",
+"conf":61.7
+},
+"text":"$$ 1ooowpospor\n17 19 21 23 G25\n‘somal ‘anal nal ‘na St\nG27\nOFF\nVLAN g——— Extend\n(1-24) 一 一 (8-24)\n。 18e。 19。 200 210 22 23 20\n\" B 15\nQe We 110 120 136 te 15e 160 ‧ sw 17 epPWR ‧G26‧"
+}

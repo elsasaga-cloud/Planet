@@ -1,0 +1,22 @@
+{
+"id":"1E1uSxNMtDAx2EIpJJ7EhZBtdccPEh7Ey",
+"name":"1.png",
+"path":"Realtek Based Commercial Switch/Commercial PoE Switch/STC-208GP/1.png",
+"type":"图片",
+"bytes":1153858,
+"sha256":"6b734d35cecc32a45554dea951a39a3b6faafdbf2b9334e8af30fbdccdaa20d3",
+"extracted_at":"2026-10-22T08:47:42Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5184,
+"height":3456,
+"mode":"RGBA",
+"thumb_bytes":4025
+},
+"ocr":{
+"text":"Al Gigabit PoE Switch\nExtend(7-8)\nOFF ON",
+"conf":92.0
+},
+"text":"Al Gigabit PoE Switch\nExtend(7-8)\nOFF ON"
+}

@@ -1,0 +1,341 @@
+{
+"id":"1xVBx9MflGgPK68Pq7ko8YuLA9UWngXEj",
+"name":"STC-108XGDGP.docx",
+"path":"Realtek Based Commercial Switch/Commercial PoE Switch/STC-108XGDGP.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":626227,
+"sha256":"ced345859c6e3448b02d385d0600693cfd5ae74e11bd7aefd602be76133594be",
+"extracted_at":"2026-10-22T08:46:38Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":4298,
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2025-11-04T12:33:00+00:00",
+"modified":"2026-06-22T12:34:24+00:00",
+"paragraphs":41,
+"tables":1,
+"embedded_images":5
+},
+"warnings":[],
+"text":"Introduction\nIt adopts high-quality and high-speed network intelligent chip and completely solves the noise problem of small switches in the office environment through the fan-less mute design\nThis switch has 8*100/1000/2500M PoE ports and 1*10G SFP port enjoying\nseamless connection for 10/100/1000M/2.5G Ethernet\neasy to manage and maintain\nIt can be widely used in security network video surveillance, hotel, campus, small and medium-sized enterprise network engineering and other occasions\nKey Features\n8*100/1000/2500M PoE Port+1*10G SFP Port\nSupport 802.3, IEEE802.3u, IEEE 802.3ab,  IEEE 802.3bz,  IEEE 802.3ae,  IEEE 802.3x standard\nEthernet Ports support 100/1000/2500M self- adaptive\nSupport PoE QoS Priority，priority ranges from 1 to 8. Enabled by default\nSupports automatic port flipping(Auto MDI/MDIX)\nPanel indicator monitoring status and help failure analysis\nFlow control mode: IEEE 802.3X standard for full duplex, and Back Pressure standard for half duplex\nSurge Protection: General 4KV, Differential 2KV(level B), ESD 12KV air, 6KV contact(level C)\nSpecification\nProduct Name\t9 Port Hybrid Rate Ethernet PoE Switch\nPort\t8*100/1000/2500M PoE port(Support MDI/MDIX, auto-sensing) / 1*10G SFP Port\nSwitching Capacity\t60Gbps\nThroughput\t44.64Mpps\nMAC Address\t4K\nTransfer Mode\tStore and forward\nMTBF\t100000 hours\nNetwork protocol\tIEEE802.3 (Ethernet) / IEEE802.3u (Fast Ethernet) / IEEE802.3ab (Gigabit Ethernet) / IEEE 802.3bz (5G Ethernet） / IEEE 802.3z (Gigabit Ethernet） / IEEE 802.3ae (10G Gigabit Ethernet） / IEEE802.3x (Flow Control)\nPoE Protocol\tIEEE802.3af(15.4W) / IEEE802.3at(30W)\nPoE Wiring\t1/2(+), 3/6(-)\nPoE Output Voltage\tDC44-57V\nPoE Budget\t100W\nIndustry Standard\tEMI: FCC Part 15, CISPR (EN55032) class A / EMS: EN61000-4-2 (ESD) / EN61000-4-5(Surge)\nNetwork Medium\t10Base-T: Cat3,4,5 or above UTP(≤100m) / 100Base-TX: Cat5 or above UTP(≤100m) / 1000Base-TX: Cat5 or above UTP(≤100m)\nOptical Medium\tmulti mode: 50/125, 62.5/125, 100/140um / Single mode: 8/125, 8.7/125, 9/125, 10/125um\nCertification\tCE/FCC/RoHS\nWorking Environment\tWorking Temperature: -10℃~50℃ / Storage Temperature: -40℃~70℃ / Working Humidity: 10%~90%, non-condensing / Storage Temperature: 5%~95%, non-condensing\nPower\tPower Input Voltage: AC100-240V\nInternal AC-DC Converter: 52V1.92A\nLED Indicators\tPWR(Power indicator) / On: power on\nOff: no power / 1-8 Port green light / On: 2.5G Link connect normal / Off: Link off / Flashing: data transmitting / 1-8 Port yellow light / On: 10/100/1000M Link connect normal / Off: Link off / Flashing: data transmitting / 9 Port green light/Blue Light / Blue on:10G link / Green on: 1000/2500M link / Off: Link blocked / Flashing: Data transmitting / 1-8 PoE Light / On:PoE is working / Off:PoE is not working / PoE Max Power Light / On: indicates that PoE power is used at 95%<P<100% / Flashing: indicates PoE power usage of 90% ≤ P ≤ 95% / Off: indicates PoE power usage is less than 90%\nDimension\nRemark\nPlease contact us if the source file is needed\nPacking Information\n1pc switch(neutral device)\n1pc power cable(standards vary across countries)\n1pc user manual(including QIG information)\n1pair mounting brackets(rack mountable)\nPlease know that there is NOT a warranty card in the packing box\nA “Warranty Certificate” will be issued to indicate the order information and warranty coverage\nShipping box information(Below information is approximately accurate)\nProduct size: 220*161*44mm\nInner box size: 315*215*85mm\nProduct weight: 0.91Kg\nPacking weight: 1.23Kg\nMaster box size: 445*445*335mm\nPacking quantity: 10Pcs\nPacking weight: 13.3Kg\nRemark\nAccessories(optical module, patchcord etc.)are NOT included in the packing box\nPlease prepare it by yourself or purchase a whole set from us\nPower adapter is included in BOTH the packing box AND unit pricing\nProduct Picture\nRemark\nPlease let us know if you need to check the PCBs\n[页眉页脚]\nRealtek Commercial PoE Series                                                                                                                   Saga Telecom\n2026/Q3                                                                                                                                      www.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Introduction"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It adopts high-quality and high-speed network intelligent chip and completely solves the noise problem of small switches in the office environment through the fan-less mute design"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This switch has 8*100/1000/2500M PoE ports and 1*10G SFP port enjoying"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"seamless connection for 10/100/1000M/2.5G Ethernet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"easy to manage and maintain"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It can be widely used in security network video surveillance, hotel, campus, small and medium-sized enterprise network engineering and other occasions"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Key Features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8*100/1000/2500M PoE Port+1*10G SFP Port"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support 802.3, IEEE802.3u, IEEE 802.3ab,  IEEE 802.3bz,  IEEE 802.3ae,  IEEE 802.3x standard"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ethernet Ports support 100/1000/2500M self- adaptive"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support PoE QoS Priority，priority ranges from 1 to 8. Enabled by default"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Supports automatic port flipping(Auto MDI/MDIX)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Panel indicator monitoring status and help failure analysis"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Flow control mode: IEEE 802.3X standard for full duplex, and Back Pressure standard for half duplex"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Surge Protection: General 4KV, Differential 2KV(level B), ESD 12KV air, 6KV contact(level C)"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"Product Name",
+"9 Port Hybrid Rate Ethernet PoE Switch"
+],
+[
+"Port",
+"8*100/1000/2500M PoE port(Support MDI/MDIX, auto-sensing) / 1*10G SFP Port"
+],
+[
+"Switching Capacity",
+"60Gbps"
+],
+[
+"Throughput",
+"44.64Mpps"
+],
+[
+"MAC Address",
+"4K"
+],
+[
+"Transfer Mode",
+"Store and forward"
+],
+[
+"MTBF",
+"100000 hours"
+],
+[
+"Network protocol",
+"IEEE802.3 (Ethernet) / IEEE802.3u (Fast Ethernet) / IEEE802.3ab (Gigabit Ethernet) / IEEE 802.3bz (5G Ethernet） / IEEE 802.3z (Gigabit Ethernet） / IEEE 802.3ae (10G Gigabit Ethernet） / IEEE802.3x (Flow Control)"
+],
+[
+"PoE Protocol",
+"IEEE802.3af(15.4W) / IEEE802.3at(30W)"
+],
+[
+"PoE Wiring",
+"1/2(+), 3/6(-)"
+],
+[
+"PoE Output Voltage",
+"DC44-57V"
+],
+[
+"PoE Budget",
+"100W"
+],
+[
+"Industry Standard",
+"EMI: FCC Part 15, CISPR (EN55032) class A / EMS: EN61000-4-2 (ESD) / EN61000-4-5(Surge)"
+],
+[
+"Network Medium",
+"10Base-T: Cat3,4,5 or above UTP(≤100m) / 100Base-TX: Cat5 or above UTP(≤100m) / 1000Base-TX: Cat5 or above UTP(≤100m)"
+],
+[
+"Optical Medium",
+"multi mode: 50/125, 62.5/125, 100/140um / Single mode: 8/125, 8.7/125, 9/125, 10/125um"
+],
+[
+"Certification",
+"CE/FCC/RoHS"
+],
+[
+"Working Environment",
+"Working Temperature: -10℃~50℃ / Storage Temperature: -40℃~70℃ / Working Humidity: 10%~90%, non-condensing / Storage Temperature: 5%~95%, non-condensing"
+],
+[
+"Power",
+"Power Input Voltage: AC100-240V\nInternal AC-DC Converter: 52V1.92A"
+],
+[
+"LED Indicators",
+"PWR(Power indicator) / On: power on\nOff: no power / 1-8 Port green light / On: 2.5G Link connect normal / Off: Link off / Flashing: data transmitting / 1-8 Port yellow light / On: 10/100/1000M Link connect normal / Off: Link off / Flashing: data transmitting / 9 Port green light/Blue Light / Blue on:10G link / Green on: 1000/2500M link / Off: Link blocked / Flashing: Data transmitting / 1-8 PoE Light / On:PoE is working / Off:PoE is not working / PoE Max Power Light / On: indicates that PoE power is used at 95%<P<100% / Flashing: indicates PoE power usage of 90% ≤ P ≤ 95% / Off: indicates PoE power usage is less than 90%"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Dimension"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please contact us if the source file is needed"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Packing Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc switch(neutral device)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc power cable(standards vary across countries)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc user manual(including QIG information)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pair mounting brackets(rack mountable)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that there is NOT a warranty card in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A “Warranty Certificate” will be issued to indicate the order information and warranty coverage"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipping box information(Below information is approximately accurate)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product size: 220*161*44mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Inner box size: 315*215*85mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product weight: 0.91Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 1.23Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Master box size: 445*445*335mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing quantity: 10Pcs"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 13.3Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Accessories(optical module, patchcord etc.)are NOT included in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please prepare it by yourself or purchase a whole set from us"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Power adapter is included in BOTH the packing box AND unit pricing"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Product Picture"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please let us know if you need to check the PCBs"
+}
+],
+"header_footer":[
+"Realtek Commercial PoE Series                                                                                                                   Saga Telecom",
+"2026/Q3                                                                                                                                      www.sagatelecom.com.cn",
+"Tailored Managed Networking Solutions Provider",
+"Built to Last, Continuous Supply, Evolving Together"
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":147581
+},
+{
+"name":"image2.png",
+"bytes":32810
+},
+{
+"name":"image3.png",
+"bytes":175103
+},
+{
+"name":"image4.png",
+"bytes":230106
+}
+]
+}

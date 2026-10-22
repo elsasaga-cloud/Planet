@@ -1,0 +1,26 @@
+{
+"id":"1bhklgo-HKq7O5UYhj02_WfeQRlKwHV4d",
+"name":"1.jpg",
+"path":"Realtek Based Commercial Switch/Commercial PoE Switch/STC-028GFP/1.jpg",
+"type":"图片",
+"bytes":1728942,
+"sha256":"790aa87c0e9f806d85a166bdfbb77ceff8265925ea807e52c7c275077eb73338",
+"extracted_at":"2026-10-22T08:47:02Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":5159,
+"height":3439,
+"mode":"RGB",
+"datetime":"2020:11:20 10:07:00",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC (Windows)",
+"thumb_bytes":4341
+},
+"ocr":{
+"text":"PoE Switch\nExtend\nNormal |\nVLAN |\nPWRe ee。SW-1e 一 2e 一 3e 一 4e 一 5e 一 6e 一 7e 一 8e\n同\n全\n3\nSs\n=\n同\ney\n本\nES]\n上 1",
+"conf":68.3
+},
+"text":"PoE Switch\nExtend\nNormal |\nVLAN |\nPWRe ee。SW-1e 一 2e 一 3e 一 4e 一 5e 一 6e 一 7e 一 8e\n同\n全\n3\nSs\n=\n同\ney\n本\nES]\n上 1"
+}

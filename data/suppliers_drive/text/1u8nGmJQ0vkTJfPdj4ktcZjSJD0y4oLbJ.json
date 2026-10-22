@@ -1,0 +1,22 @@
+{
+"id":"1u8nGmJQ0vkTJfPdj4ktcZjSJD0y4oLbJ",
+"name":"1.png",
+"path":"Realtek Based Commercial Switch/Commercial PoE Switch/STC-128GFP/1.png",
+"type":"图片",
+"bytes":1120403,
+"sha256":"87ea1c83dec9e71c6b5d6114022ec767d5ef009c78100f5e0efd27fba41bf953",
+"extracted_at":"2026-10-22T08:47:28Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5184,
+"height":3456,
+"mode":"RGBA",
+"thumb_bytes":3626
+},
+"ocr":{
+"text":"3\n8\n2\nFd\nDefault\nPoE Switch vlan Extend\nMode",
+"conf":71.5
+},
+"text":"3\n8\n2\nFd\nDefault\nPoE Switch vlan Extend\nMode"
+}

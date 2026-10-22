@@ -1,0 +1,389 @@
+{
+"id":"1iHGtLuzh8Ak3DiC9ZFOWhgKNc77Y9_mK",
+"name":"STC-128GFP.docx",
+"path":"Realtek Based Commercial Switch/Commercial PoE Switch/STC-128GFP.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":499427,
+"sha256":"5212ee12bd2e75a0b2ff9a8793b8b3c1c28389447158f52ecb0170dc808700d2",
+"extracted_at":"2026-10-22T08:46:40Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":4551,
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2025-11-04T12:33:00+00:00",
+"modified":"2026-06-22T12:34:45+00:00",
+"paragraphs":49,
+"tables":1,
+"embedded_images":5
+},
+"warnings":[],
+"text":"Introduction\nIt adopts high-quality and high-speed network intelligent and PoE chip\nThis PoE switch has 8 port 10/100M PoE + 2 port 1000M Ethernet uplink + 1 Gigabit SFP enjoying\nseamless connection for 10/100M or 10/100/1000M Ethernet\nthree working modes\none-key smart simple switching working mode\neasy to manage and maintain\n802.3af and 802.3at standard for each PoE port\nintelligent detection of powered devices\npower the devices that comply with the IEEE802.3af or IEEE802.3at standards\ntransmit only data to non-PoE devices\nWith simple and convenient installation, maintenance methods and rich business features, it helps users build a safe and reliable high-performance network\nIt is mainly located in the core or convergence layer of user  networks such as industrial parks, buildings, factories and mines, government agencies, and residential broadband\nIt can be widely used in Ethernet  access scenarios such as small and medium-sized enterprises, Internet cafes, hotels, and schools\nKey Features\n8* 10/100M PoE Ports+2*Gigabit Ethernet Ports+1* Gigabit SFP Port\nComply with IEEE 802.3, IEEE 802.3u, IEEE802.3ab, IEEE 802.3z, IEEE802.3af/at standards\nEthernet port supports 10/100M adaptive and PoE functions\nFlow control mode: full-duplex adopts IEEE 802.3x standard, half-duplex adopts Back pressure standard\nSupport port auto flip (Auto MDI/MDIX)\nAutomatically supplied to adaptive devices\nPanel indicator monitoring status and help failure analysis\nSupport VLAN mode, OFF mode and Extend mode\nSpecification\nProduct Name\t11 Port 10/100&1000Mbps Ethernet PoE Switch\nPort\t8 Port 10/100M PoE + 2 Port 1000M Ethernet Uplink + 1 Gigabit SFP\nSwitching Capacity\t7.6Gbps\nThroughput\t5.6Mpps\nPacket Buffer\t1M\nMAC Address\t2K\nJumbo Frame\t4096bytes\nTransfer Mode\tStore and forward\nMTBF\t100000 hours\nNetwork protocol\tIEEE802.3 (10Base-T) / IEEE802.3u (100Base-TX) / IEEE802.3ab(1000Base-TX) / IEEE802.3z(1000Base-FX) / IEEE802.3x (Flow control)\nPoE Protocol\tIEEE802.3af(15.4W) / IEEE802.3at(30W)\nPoE Wiring\t1/2(+), 3/6(-)\nPoE Budget\t120W\nIndustry Standard\tEMI: FCC Part 15 CISPR (EN55032) class A / EMS: EN61000-4-2 (ESD) / EN61000-4-5 (Surge)\nNetwork Medium\t10Base-T: Cat3,4,5 or above UTP(≤100m) / 100Base-TX: Cat5 or above UTP(≤100m) / 1000Base-TX: Cat5 or above UTP(≤100m)\nOptical Media\tMulti mode fiber : 50/125, 62.5/125, 100/140μm / Single mode fiber: 8/125, 8.7/125, 9/125, 10/125μm\nCertification\tCE/FCC/RoHS\nWorking Environment\tWorking Temperature: -10℃~50℃ / Storage Temperature: -40℃~70℃ / Working Humidity: 10%~90%, non-condensing / Storage Temperature: 5%~95%, non-condensing\nPower\tPower Input Voltage: AC100-240V\nInternal AC-DC Converter: 52V2.3A\nLED Indicators\tPWR(power supply) / On: Power on / Off: Power off / SW(Dial Code) / OFF: OFF / On: VLAN / Flash: Extend / 1-10 Green(Link&Data) / On：Normal / Off：Failed / Flash：Data transfer\nDIP Switch\tVLAN: Port Isolation, 1-8 PoE ports are isolated each other and can only communicate with uplink port 9/10/11 / Default: Normal mode, all ports communicate with each other / Extend: Link Extension Mode,  1-8  ports  PoE and  data  transmission distance extended to 250 meters, the transmission rate becomes 10M/s\nDimension\nRemark\nPlease contact us if the source file is needed\nPacking Information\n1pc switch(neutral device)\n1pc power cable(standards vary across countries)\n1pc user manual(including QIG information)\n1pair mounting brackets(rack mountable)\nPlease know that there is NOT a warranty card in the packing box\nA “Warranty Certificate” will be issued to indicate the order information and warranty coverage\nShipping box information(Below information is approximately accurate)\nProduct size: 200mm*161mm*44.5mm\nInner box size: 315mm*215mm*85mm\nProduct weight: 0.88Kg\nPacking weight: 1.19Kg\nMaster box size: 445*445*335mm\nPacking quantity: 10Pcs\nPacking weight: 12.9Kg\nRemark\nAccessories(optical module, patchcord etc.)are NOT included in the packing box\nPlease prepare it by yourself or purchase a whole set from us\nPower adapter is included in BOTH the packing box AND unit pricing\nProduct Picture\nRemark\nPlease let us know if you need to check the PCBs\n[页眉页脚]\nRealtek Commercial PoE Series                                                                                                                   Saga Telecom\n2026/Q3                                                                                                                                      www.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Introduction"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It adopts high-quality and high-speed network intelligent and PoE chip"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This PoE switch has 8 port 10/100M PoE + 2 port 1000M Ethernet uplink + 1 Gigabit SFP enjoying"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"seamless connection for 10/100M or 10/100/1000M Ethernet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"three working modes"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"one-key smart simple switching working mode"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"easy to manage and maintain"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"802.3af and 802.3at standard for each PoE port"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"intelligent detection of powered devices"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"power the devices that comply with the IEEE802.3af or IEEE802.3at standards"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"transmit only data to non-PoE devices"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"With simple and convenient installation, maintenance methods and rich business features, it helps users build a safe and reliable high-performance network"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is mainly located in the core or convergence layer of user  networks such as industrial parks, buildings, factories and mines, government agencies, and residential broadband"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It can be widely used in Ethernet  access scenarios such as small and medium-sized enterprises, Internet cafes, hotels, and schools"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Key Features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8* 10/100M PoE Ports+2*Gigabit Ethernet Ports+1* Gigabit SFP Port"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Comply with IEEE 802.3, IEEE 802.3u, IEEE802.3ab, IEEE 802.3z, IEEE802.3af/at standards"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ethernet port supports 10/100M adaptive and PoE functions"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Flow control mode: full-duplex adopts IEEE 802.3x standard, half-duplex adopts Back pressure standard"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support port auto flip (Auto MDI/MDIX)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Automatically supplied to adaptive devices"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Panel indicator monitoring status and help failure analysis"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support VLAN mode, OFF mode and Extend mode"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"Product Name",
+"11 Port 10/100&1000Mbps Ethernet PoE Switch"
+],
+[
+"Port",
+"8 Port 10/100M PoE + 2 Port 1000M Ethernet Uplink + 1 Gigabit SFP"
+],
+[
+"Switching Capacity",
+"7.6Gbps"
+],
+[
+"Throughput",
+"5.6Mpps"
+],
+[
+"Packet Buffer",
+"1M"
+],
+[
+"MAC Address",
+"2K"
+],
+[
+"Jumbo Frame",
+"4096bytes"
+],
+[
+"Transfer Mode",
+"Store and forward"
+],
+[
+"MTBF",
+"100000 hours"
+],
+[
+"Network protocol",
+"IEEE802.3 (10Base-T) / IEEE802.3u (100Base-TX) / IEEE802.3ab(1000Base-TX) / IEEE802.3z(1000Base-FX) / IEEE802.3x (Flow control)"
+],
+[
+"PoE Protocol",
+"IEEE802.3af(15.4W) / IEEE802.3at(30W)"
+],
+[
+"PoE Wiring",
+"1/2(+), 3/6(-)"
+],
+[
+"PoE Budget",
+"120W"
+],
+[
+"Industry Standard",
+"EMI: FCC Part 15 CISPR (EN55032) class A / EMS: EN61000-4-2 (ESD) / EN61000-4-5 (Surge)"
+],
+[
+"Network Medium",
+"10Base-T: Cat3,4,5 or above UTP(≤100m) / 100Base-TX: Cat5 or above UTP(≤100m) / 1000Base-TX: Cat5 or above UTP(≤100m)"
+],
+[
+"Optical Media",
+"Multi mode fiber : 50/125, 62.5/125, 100/140μm / Single mode fiber: 8/125, 8.7/125, 9/125, 10/125μm"
+],
+[
+"Certification",
+"CE/FCC/RoHS"
+],
+[
+"Working Environment",
+"Working Temperature: -10℃~50℃ / Storage Temperature: -40℃~70℃ / Working Humidity: 10%~90%, non-condensing / Storage Temperature: 5%~95%, non-condensing"
+],
+[
+"Power",
+"Power Input Voltage: AC100-240V\nInternal AC-DC Converter: 52V2.3A"
+],
+[
+"LED Indicators",
+"PWR(power supply) / On: Power on / Off: Power off / SW(Dial Code) / OFF: OFF / On: VLAN / Flash: Extend / 1-10 Green(Link&Data) / On：Normal / Off：Failed / Flash：Data transfer"
+],
+[
+"DIP Switch",
+"VLAN: Port Isolation, 1-8 PoE ports are isolated each other and can only communicate with uplink port 9/10/11 / Default: Normal mode, all ports communicate with each other / Extend: Link Extension Mode,  1-8  ports  PoE and  data  transmission distance extended to 250 meters, the transmission rate becomes 10M/s"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Dimension"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please contact us if the source file is needed"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Packing Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc switch(neutral device)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc power cable(standards vary across countries)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc user manual(including QIG information)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pair mounting brackets(rack mountable)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that there is NOT a warranty card in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A “Warranty Certificate” will be issued to indicate the order information and warranty coverage"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipping box information(Below information is approximately accurate)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product size: 200mm*161mm*44.5mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Inner box size: 315mm*215mm*85mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product weight: 0.88Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 1.19Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Master box size: 445*445*335mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing quantity: 10Pcs"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 12.9Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Accessories(optical module, patchcord etc.)are NOT included in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please prepare it by yourself or purchase a whole set from us"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Power adapter is included in BOTH the packing box AND unit pricing"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Product Picture"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please let us know if you need to check the PCBs"
+}
+],
+"header_footer":[
+"Realtek Commercial PoE Series                                                                                                                   Saga Telecom",
+"2026/Q3                                                                                                                                      www.sagatelecom.com.cn",
+"Tailored Managed Networking Solutions Provider",
+"Built to Last, Continuous Supply, Evolving Together"
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":143566
+},
+{
+"name":"image2.png",
+"bytes":31244
+},
+{
+"name":"image3.png",
+"bytes":125411
+},
+{
+"name":"image4.png",
+"bytes":158698
+}
+]
+}

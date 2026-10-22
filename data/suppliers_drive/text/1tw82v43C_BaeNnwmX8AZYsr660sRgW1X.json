@@ -1,0 +1,26 @@
+{
+"id":"1tw82v43C_BaeNnwmX8AZYsr660sRgW1X",
+"name":"2.jpg",
+"path":"Realtek Based Commercial Switch/Commercial PoE Switch/STC-2024GP/2.jpg",
+"type":"图片",
+"bytes":970616,
+"sha256":"2680e10030d649bf404052aa6f00bf5ed8c2c378ef4b4b1f872e182c6bf94238",
+"extracted_at":"2026-10-22T08:47:36Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":3456,
+"mode":"RGB",
+"datetime":"2021:05:24 15:36:25",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":5725
+},
+"ocr":{
+"text":"Gigabit PoE Switch\nLink/Aet",
+"conf":81.9
+},
+"text":"Gigabit PoE Switch\nLink/Aet"
+}

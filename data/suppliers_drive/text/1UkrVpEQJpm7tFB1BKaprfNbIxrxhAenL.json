@@ -1,0 +1,26 @@
+{
+"id":"1UkrVpEQJpm7tFB1BKaprfNbIxrxhAenL",
+"name":"4.jpg",
+"path":"Realtek Based Commercial Switch/Commercial PoE Switch/STC-0224GFP/4.jpg",
+"type":"图片",
+"bytes":1357769,
+"sha256":"0fb019c53464147efecd9e298e6c6c6ae07d510c7cc029b59902860506fb51dd",
+"extracted_at":"2026-10-22T08:46:49Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":3456,
+"mode":"RGB",
+"datetime":"2022:10:11 17:34:57",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":2337
+},
+"ocr":{
+"text":"ACINPUT\n100-240V",
+"conf":89.4
+},
+"text":"ACINPUT\n100-240V"
+}

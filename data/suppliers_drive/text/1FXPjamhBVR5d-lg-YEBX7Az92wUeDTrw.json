@@ -1,0 +1,26 @@
+{
+"id":"1FXPjamhBVR5d-lg-YEBX7Az92wUeDTrw",
+"name":"1.jpg",
+"path":"Realtek Based Commercial Switch/Commercial PoE Switch/STC-228GP/1.jpg",
+"type":"图片",
+"bytes":1684126,
+"sha256":"e443f961b7776585757df20637a49f1d81fb94084e1bfebc684725e350c5a6e5",
+"extracted_at":"2026-10-22T08:47:56Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":5184,
+"height":3456,
+"mode":"RGB",
+"datetime":"2023:01:10 17:42:54",
+"make":"Canon",
+"model":"Canon EOS 700D",
+"software":"Adobe Photoshop CC 2019 (Windows)",
+"thumb_bytes":4110
+},
+"ocr":{
+"text":"Gigabit PoE Switch\nExtend(7-8)\nOFF ON\nS\n3\nS\n3\n8\n8\n=\n同\n回\ng",
+"conf":71.8
+},
+"text":"Gigabit PoE Switch\nExtend(7-8)\nOFF ON\nS\n3\nS\n3\n8\n8\n=\n同\n回\ng"
+}

@@ -1,0 +1,22 @@
+{
+"id":"1UbqbzyDZk_zc4PbXQ8jty6tI7X2N1C1J",
+"name":"2.jpg",
+"path":"Realtek Based Commercial Switch/Commercial PoE Switch/STC-024GP/2.jpg",
+"type":"图片",
+"bytes":369345,
+"sha256":"2c24184ba1a92df2f97c337aee9022fdceb19f2cf33adaa025571d30e861f6d0",
+"extracted_at":"2026-10-22T08:46:54Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":3456,
+"height":2304,
+"mode":"RGB",
+"thumb_bytes":4491
+},
+"ocr":{
+"text":"extend(-4\npefault\nyian(t-4)1\npwr @",
+"conf":71.2
+},
+"text":"extend(-4\npefault\nyian(t-4)1\npwr @"
+}

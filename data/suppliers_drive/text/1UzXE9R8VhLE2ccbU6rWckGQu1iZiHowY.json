@@ -1,0 +1,22 @@
+{
+"id":"1UzXE9R8VhLE2ccbU6rWckGQu1iZiHowY",
+"name":"1.jpg",
+"path":"Realtek Based Commercial Switch/Commercial PoE Switch/STC-024GP/1.jpg",
+"type":"图片",
+"bytes":351831,
+"sha256":"b5c1f1acd50c8b2721e01acdc22cf9c521e421344252bb1a0f67c70169d6dc89",
+"extracted_at":"2026-10-22T08:46:58Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":3456,
+"height":2304,
+"mode":"RGB",
+"thumb_bytes":4267
+},
+"ocr":{
+"text":"「 一 10/100/1000M PoE Port 一 一 瑟\nExtend(3-4)\nDefault\nVLAN(1-4)7,\nPWR @ @ Mode 1@\nGigabit PoE Switch",
+"conf":75.6
+},
+"text":"「 一 10/100/1000M PoE Port 一 一 瑟\nExtend(3-4)\nDefault\nVLAN(1-4)7,\nPWR @ @ Mode 1@\nGigabit PoE Switch"
+}
