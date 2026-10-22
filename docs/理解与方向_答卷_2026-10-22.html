@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>我对 Saga 的理解 · 方向判断 · 针对性加厚方案（答卷 v1，2026-10-22）</title>
+<style>
+  body{font-family:-apple-system,"PingFang SC","Microsoft YaHei","Noto Sans CJK SC",Segoe UI,Arial,sans-serif;max-width:1080px;margin:28px auto;padding:0 20px;color:#1d1d1f;line-height:1.62;font-size:15px;background:#fff}
+  h1{font-size:25px;margin:0 0 6px;letter-spacing:.3px}
+  h2{font-size:19px;margin:38px 0 10px;padding:6px 10px;border-left:5px solid #0b57d0;background:#f1f5ff}
+  h3{font-size:16px;margin:20px 0 6px;color:#0b57d0}
+  .sub{color:#666;font-size:13px;margin-bottom:18px}
+  .box{border:1px solid #dfe3ea;border-radius:8px;padding:12px 16px;margin:12px 0;background:#fafbfd}
+  .key{background:#fff8e1;border-color:#f1d27a}
+  .warn{background:#fff3f0;border-color:#f3b4a6}
+  .ok{background:#eefaf0;border-color:#a9dcb3}
+  table{border-collapse:collapse;width:100%;margin:10px 0 14px;font-size:13.5px}
+  th,td{border:1px solid #d9dde3;padding:6px 8px;vertical-align:top;text-align:left}
+  th{background:#eef1f6;font-weight:600;white-space:nowrap}
+  td.n{text-align:right;white-space:nowrap}
+  code{background:#f2f3f5;padding:1px 5px;border-radius:4px;font-size:12.5px}
+  .src{color:#7a7f87;font-size:12px}
+  .tag{display:inline-block;border-radius:10px;padding:0 8px;font-size:12px;margin-right:4px;background:#e8eefc;color:#0b57d0}
+  .tag.g{background:#e6f4ea;color:#137333}.tag.r{background:#fce8e6;color:#c5221f}.tag.y{background:#fef7e0;color:#9c6b00}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  .mail{font-family:Menlo,Consolas,monospace;font-size:12.5px;white-space:pre-wrap;background:#111;color:#e8e8e8;padding:12px 14px;border-radius:8px;line-height:1.5}
+  ol li,ul li{margin:3px 0}
+  .q td:first-child{width:46%}
+  .num{font-size:22px;font-weight:700;color:#0b57d0}
+  .muted{color:#666}
+  .toc a{margin-right:12px;font-size:13px;color:#0b57d0;text-decoration:none}
+</style>
+</head>
+<body>
+<h1>我对 Saga 的理解 · 方向判断 · 针对性加厚方案</h1>
+<div class="sub">答卷 v1 · 2026-10-22 UTC · 依据：SmartByte / HRUI / Hohunet 全站 + Drive《SmartByte》全量 + S 邮箱 13,583 封 + Elsa 邮箱 + Clients 表 4,641 家 + PI 包 20 家成单客户 62 个单号 + 你的 Netaş 两份策略笔记。<b>你说信息给了 80%，微信/领英上的没有——下面凡是推断都标了「推断」，请直接划掉错的。</b></div>
+<div class="toc"><a href="#s0">0 一句话</a><a href="#s1">1 Saga 是什么</a><a href="#s2">2 产品与边界</a><a href="#s3">3 客户与成交事实</a><a href="#s4">4 开发信与跟进打法</a><a href="#s5">5 方向判断</a><a href="#s6">6 针对性加厚怎么做</a><a href="#s7">7 请你纠正</a></div>
+
+<h2 id="s0">0 · 一句话 + 五个数字</h2>
+<div class="box key">
+<p><b>Saga 不是「卖交换机的贸易商」，而是海外中小集成商/自有品牌商与中国工厂之间的「工程型缓冲层」</b>：用 Marvell（SmartByte）为主、Realtek（HRUI）/CENTEC（Hohunet）为辅的三条产品线，做<b>中性 / 贴牌 / 裸板 / 小批量 / 配置可控</b>的交换机供应，靠「可预测、不折腾、永远在点上回应」把一个客户做成长期复购，再用这个客户去撬同一个国家的同类客户。</p>
+<div class="grid">
+<div>· 成单客户 <span class="num">20</span> 家 / 单号 <span class="num">62</span> 个（2023-07 → 2026-10）</div>
+<div>· 单据销售额 <span class="num">USD 110k</span> + <span class="num">RMB 158k</span>；你自己成本表的利润合计 <span class="num">RMB 127k</span></div>
+<div>· S 邮箱发过 <span class="num">1,672</span> 家，<span class="num">16%</span> 回过信；北美 28%、欧洲 18%、土耳其 5%——<b>但钱在土耳其</b></div>
+<div>· 2024 群发 8,714 封 → 2025 1,312 → 2026 935：<b>从撒网转向点对点和技术更新</b></div>
+<div>· 真正的量在 4 家：Angora（TR）、Biz-Ethics（NG）、NYNEX（DE）、PBA Forever（TH）= 单据销售的 <b>≈75%</b></div>
+<div>· 标签：活跃 6 / 可发展 7 / gg 8（你自己的分类，已原样进档案）</div>
+</div>
+</div>
+
+<h2 id="s1">1 · Saga 是什么（我看到的，不是官网说的）</h2>
+<table>
+<tr><th style="width:150px">维度</th><th>我的理解</th><th style="width:260px">证据</th></tr>
+<tr><td>角色</td><td>郑州仨戛通讯器材有限公司（Zhengzhou Saga Telecom，2023 起）：一人主导（Simon）+ 两个分身账号（<b>Alan = a.</b>，<b>Elsa = e.</b>），对客户呈现为「OEM Factory / Engineering partner」，对工厂是采购方。不囤货、不压料，工厂直发或集中到广州货代。</td><td class="src">PI 单号前缀 STSC/STAG/STEC；STAG 单据联系人 = Alan（52 Networks）、STEC 单据联系人 = Elsa（Mbata 第 10 单）；采购合同备注「工厂直发/发广州货代」</td></tr>
+<tr><td>定位的演变</td><td>2024「Connecting, Converting, Creating」→ 2025「Saga Telecom, OEM Factory · Tailored (Marvell) Managed Networking Solutions Provider」→ 2026-09「<b>An Engineering &amp; Supply-Chain-First Telecom Partner</b> · Built to Last, Continuous Supply, Evolving Together」，域名 sagatelecom.com.cn → sagatele.com。<b>推断：你在刻意从「卖货」转向「工程 + 供应链伙伴」。</b></td><td class="src">S 邮箱签名三代；2026 新版 PI/报价模板</td></tr>
+<tr><td>真正的价值点（你自己的话）</td><td>「你绑定 Netas 不是靠技术，而是靠风险缓冲」「可预测性 &gt; 便宜 &gt; 功能多」「不催、不 push、但永远在点上回应」「Configuration Control：BOM/PCB/SN/固件/UI 留档」「只有一个技术窗口，你是唯一外部出口」。这几句是整个打法的内核。</td><td class="src">PI 包 <code>20 土耳其 Burak/NETAS绑定.docx</code></td></tr>
+<tr><td>钱怎么收</td><td>T/T 为主；<b>Xtransfer</b>（TR/CA/DE 四家）、<b>货代走账 RMB</b>（NG/TH/RU 三家，走广州货代、单据直接开 RMB）、PayPal 只做小单（US/UK/IN 三家，「5 USD per every 100 USD」手续费直接写进 PI）。</td><td class="src">文件夹标签；PI「PayPal Cost」行；货代走账单据币种=RMB</td></tr>
+<tr><td>交付细节控</td><td>采购合同备注到「不放保修卡、QC 贴纸不要贴、字体 Times New Roman、序列号 20240703001~004、管理界面型号 SW-3200-16GP-2SM、割外包装箱省运费、拍照拍视频」——这是工厂做不到、客户感受得到的部分。</td><td class="src"><code>采购合同_STSC20240627010</code>、<code>_STSC20241201012</code></td></tr>
+<tr><td>团队与节奏</td><td>小团队、零广告、长周期。2024 用邮件撒网建名单（1,672 家），2025–26 收窄到技术更新 + 点对点 + 既有客户复购。</td><td class="src">S 邮箱年度出信量 8,714 / 1,312 / 935</td></tr>
+</table>
+
+<h2 id="s2">2 · 产品体系、主推与边界</h2>
+<div class="grid">
+<div class="box"><b>SmartByte（Marvell，主线，≈80% 的成交型号）</b><br>工业 PoE 管理 <code>STI-21616DGGPM</code>（Angora 176 台、James、PBA、Peeranun 的主力）、<code>STI-288DGGPM</code>、<code>STI-42424DGGPM</code>；商业管理 <code>STC-424DGGPM</code>/<code>424XGGPM</code>/<code>448XGGPM</code>/<code>4168XGGCM</code>（NYNEX 20 台、Mbata、Thu）；工业非管理 <code>STI-288GP</code>/<code>050GE</code>/<code>080GE</code>；MC <code>STI-110GE</code>/<code>140GE</code>。<br><span class="src">价格表 5 份：MC / Bypass / 工业非管理 没变；商业管理、工业管理 2026 更新（你刚说的，和主表一致）</span></div>
+<div class="box"><b>HRUI（Realtek，低价商用补位）</b><br>Mbata 的 <code>STC-28GPM</code>/<code>STC-228GP</code>（HRUI 采购），Peeranun 的 2.5G/10G 非管理 <code>STC-xxXGDGE/XGWE</code>、<code>STC-80XGO</code>。作用：价格敏感的经销商 + Marvell 没有的 2.5G/10G 非管理小盒子。<br><b>Hohunet（CENTEC，高速/数据中心）</b><br>目前只成交 1 台 <code>STH-2C24XF-SFI</code>（Mbata 第 9 单）；2026-01「OEM Core Switching Solution」群发 17 封；Netaş 笔记里是 Kron/Havelsan 的敲门砖。<b>推断：CENTEC 是撬集成商的「身份牌」，不是走量线。</b></div>
+</div>
+<div class="box">
+<b>边界（你定的，我照办）</b>：不做云管理、不做轨交 EN50155、不做 IP67、不做消费类；证书只 CE/RoHS/FCC/REACH/UKCA（无 UL）；中性包装、不提产地；公共部门/军警/乌克兰只经由当地集成商（Angora 的 Türk Telekom、土耳其警察 RfP 都是 Angora 出面）；EAR99、无敏感元器件（Netaş 供应商表格里填的）。<br>
+<b>报价逻辑</b>：SmartByte CNY ×1.20（经销/电商）/1.25（集成/项目）/1.30（OEM/ODM）÷ 汇率，EXW；但 S 邮箱里三次大群发（2024-06 48 口管理 $220 / 48 口 PoE $310，2026-09 24 口 PoE L2+ 10G 上联 $180）都踩在或低于 +20% 底线——<b>群发价是「钩子价」，真正利润来自后面的配置差异、PSU/SFP 搭售和 OEM 加价</b>（你的成本表按收款口径：Obmac 35%、James 26%、Netaş 24%、NYNEX 14%、BitBook 14%——小单毛利高、大单薄）。
+</div>
+
+<h2 id="s3">3 · 客户与成交事实（PI 包说了什么）</h2>
+<table>
+<tr><th>#</th><th>客户</th><th>国家</th><th>类型（推断）</th><th>买什么</th><th class="n">单号</th><th class="n">销售</th><th>你的标签</th><th>档案</th></tr>
+<tr><td>7</td><td>Angora Networks</td><td>TR</td><td>系统集成 + 自有品牌 ANW-/TronX</td><td>STI-21616DGGPM 176 台贴牌；商业 L2+/L3；演示机</td><td class="n">10</td><td class="n">USD 61.7k</td><td>活跃·Xtransfer·轻度绑定</td><td>SA-168 A</td></tr>
+<tr><td>12</td><td>Biz-Ethics（BEL Networks）</td><td>NG</td><td>经销 + 自有品牌 BNSC-</td><td>STC-28GPM/424DGGPM 反复补货；三家供应商都采过</td><td class="n">12</td><td class="n">RMB 101k</td><td>活跃·货代走账·轻度绑定</td><td>SA-170 A（本轮补录）</td></tr>
+<tr><td>15</td><td>NYNEX satellite</td><td>DE</td><td>卫星/网络集成</td><td>STC-4168XGGCM 20 台（2026-10）、424XGGM</td><td class="n">5</td><td class="n">USD 19.6k</td><td>活跃·Xtransfer·可发展</td><td>SA-013 A</td></tr>
+<tr><td>13</td><td>PBA Forever Technology</td><td>TH</td><td>工程/集成</td><td>工业 16/24 口 PoE 管理 + 2.5G/10G 小盒</td><td class="n">6</td><td class="n">RMB 37k</td><td>活跃·货代走账·轻度绑定</td><td>SA-171 A（本轮补录）</td></tr>
+<tr><td>10</td><td>James Clendenan Systems</td><td>CA</td><td>工程/集成（北温哥华）</td><td>STI-21616DGGPM 裸板→贴牌 SW-3200-16GP；12 台 @ $335</td><td class="n">4</td><td class="n">USD 6.7k</td><td>活跃·Xtransfer·轻度绑定</td><td>SA-169 A（本轮补录）</td></tr>
+<tr><td>4</td><td>BitBook LLC</td><td>RU</td><td>经销</td><td>商业管理 + 工业 PoE，2025-07 大单</td><td class="n">2</td><td class="n">USD 6.0k</td><td>货代走账·可发展</td><td>SA-026 A</td></tr>
+<tr><td>19</td><td>WIZARDSINC（Raja King）</td><td>MY</td><td>工程</td><td>工业 PoE + SFP + Meanwell PSU 整包</td><td class="n">3</td><td class="n">RMB 19.6k</td><td>可发展</td><td>SC-1006 → A</td></tr>
+<tr><td>20</td><td>Netaş</td><td>TR</td><td>Tier-1 集成商（上市）</td><td>首单 USD 545 样机；NDA/供应商入库已走完</td><td class="n">1</td><td class="n">USD 0.5k</td><td>活跃·Xtransfer·轻度绑定</td><td>SB-473 → A</td></tr>
+<tr><td>6/14/17/18</td><td>Vi-Link（US）、Sundar Techno（IN）、GoGreenIT（UK）、Astel（AE）</td><td>—</td><td>小集成/经销</td><td>MC、工业非管理小盒、4-BT 工业 24 口</td><td class="n">4/4/1/1</td><td class="n">USD 0.2–1.1k</td><td>可发展</td><td>A</td></tr>
+<tr><td>gg ×8</td><td>Obmac（ZM，一单 265 台！）、Delta（GE）、Fastball（IN）、Rajesh（IN）、Rio-Import（RU）、XSPec（MY）、Resonant（SG）、52 Networks（US）</td><td>—</td><td>一次性/样品买家</td><td>—</td><td class="n">1–2</td><td class="n">USD 0.1–9.4k</td><td>gg</td><td>→ B（成交过·慢慢跟进）</td></tr>
+</table>
+<div class="box">
+<b>从这 20 家我读到的规律</b>
+<ol>
+<li><b>成交的不是「大经销商」，是「有自己项目/自己品牌的中小集成商」</b>：Angora（TT 智慧站点）、James（给自己的客户装）、PBA、Mbata（BNSC 品牌）。他们要的是<b>裸板/贴牌/UI 改型号/序列号规则</b>，不是目录价。</li>
+<li><b>复购靠「同一型号反复买」</b>：Mbata 12 单基本是 28GPM + 424DGGPM；Angora 10 单围绕 21616DGGPM；这和你的「Configuration Control」是一回事——型号一旦被客户体系接纳，就别动。</li>
+<li><b>gg 的共性</b>：一次样品/一单后没下文的，多是南亚/俄语区/非洲的价格型买家，或 PayPal 小单。这解释了为什么你 2025 后不再撒网。</li>
+<li><b>地理上钱在 TR / NG / TH / DE / CA</b>，而邮件回复率最高的北美（28%）成交反而小（Vi-Link、52 Networks）——<b>北美人爱回信，但下单要 UL/本地库存；土耳其人不回群发，但点对点一旦进门就是项目</b>。</li>
+<li><b>搭售已经在发生</b>：Meanwell HDR/NDR 电源、SFP 模块（STI-G20-SD）、升压模块（George 的 requirement&amp;solution）——主表没有的配件你都在卖，这些应该进价格体系。</li>
+</ol>
+</div>
+
+<h2 id="s4">4 · 开发信与跟进打法（我看到的原样）</h2>
+<div class="grid">
+<div>
+<div class="mail">Hi, Iyiola,
+
+This is our Marvell AC5 based L2+ switch featuring
+
+1. 24 Port PoE af/at for multiple PDs
+2. 10G Fiber Uplinks help smooth traffic transport
+3. Support OEM and customizable Web GUI
+
+*Price: 180USD/PC*
+
+Do you need some samples for testing?
+
+Thank you.
+[image: 24 port.png]
+-
+Simon
+https://sagatele.com/
+An Engineering &amp; Supply-Chain-First Telecom Partner
+Built to Last, Continuous Supply, Evolving Together</div>
+<div class="src">S 邮箱 2026-09-28「24 Port PoE Managed Switch」，2026 年这一封发了 819 次</div>
+</div>
+<div class="box">
+<b>格式规律（2024 → 2026 没变过）</b>
+<ul>
+<li>称呼 + 一句 How are you + <b>一句话点明芯片平台</b>（Marvell / AC5 / 98DX2515 / CENTEC）</li>
+<li><b>三条卖点</b>，每条一行，不超过 12 个词</li>
+<li><b>价格直接写在信里</b>（$300 / $180 / 300usd/pc），不藏价</li>
+<li>固定收尾：<b>「Do you need some samples for testing?」</b>——卖的是测试权，不是货</li>
+<li>一张产品图、签名三行；无附件（技术更新那封才带 feature list）</li>
+<li>一个客户一个系列 7 封左右（中位数 7，p90 9）：48 口 PoE → 工业 PoE → 8 口工业 → Mini 工业 → 10G MC → 24 口光 → 16 口…按产品轮换，不是按客户定制</li>
+</ul>
+<b>2026 的变化</b>：出现「Firmware 7.5 L2+ Feature Update」（IPv6、PIM-SM）、「OEM Core Switching Solution」（CENTEC 10G~800G，对标 Cisco/华为）、「Updated Ethernet Switches Links」——<b>从卖型号转向卖平台能力和持续更新</b>。
+</div>
+</div>
+<div class="box">
+<b>一对一时的你（推断自 Angora 312 封、NYNEX、Netaş 的往来）</b>：工程师口吻，先给方案图和对比表再谈价；问题出现时（16 口工业的 PoE 问题）直接给 root cause 和固件；报价不反复；交期说保守；用 WhatsApp/微信收尾；不横向要更多联系人（Netaş 只对 Ender）。<b>性格标签：直、技术、耐心、怕麻烦别人也怕被麻烦、把「可预测」当产品卖。</b>
+<br><span class="src">我原来给 Planet 名单写的 129 封英文首信也是这个格式（单一 P1、一个问题、不提「我研究了你的网站」），方向没偏，但<b>比你的更长</b>——以后按你的 3 条卖点 + 价格 + 样品一句话来。</span>
+</div>
+
+<h2 id="s5">5 · 方向判断（我的看法，带证据）</h2>
+<table>
+<tr><th style="width:230px">方向</th><th>判断</th><th style="width:300px">依据</th></tr>
+<tr><td>① 复购客户深绑定（最高优先）</td><td>6 家活跃 + 7 家可发展是全部现金流来源。把「轻度绑定」做成「体系绑定」：配置档案（BOM/固件/UI/SN）、按季度技术更新信、MIB/SNMP 在客户问到时再给、备件/PSU/SFP 整包报价。每家一页「成交记录 + 下一个触发点」——这次已经自动进档案了。</td><td class="src">PI 包 20 家；NETAS绑定.docx；Mbata/Angora 的重复型号</td></tr>
+<tr><td>② 土耳其 = 样板国家</td><td>Angora（项目方）+ Netaş（Tier-1 背书）+ 你的 TR 重点 8 家（Kron/Karel/KoçSistem/…）已经构成「一个客户撬一个国家」的完整链条；Aselsan/Havelsan/运营商按你的笔记走渗透不主推。<b>建议：把 TR 的 A 级档案做成最厚的一组，并把 Netaş 的「已通过土耳其 Tier-1 评估」变成所有 TR 开发信的第一句。</b></td><td class="src">TR重点公司.xlsx；基于Netas的推广计划.docx；Angora RfP</td></tr>
+<tr><td>③ 北美/欧洲：点对点 A 级，不撒网</td><td>回复率高但成交小，卡在 UL/本地库存/品牌。Planet 渠道名单（129 家，已暂停）里真正值得的只有有自己项目的集成商；恢复时按「一家一信一型号」做，不做 7 封系列。</td><td class="src">S 邮箱分区回复率；Vi-Link/James 的成交路径都是集成商</td></tr>
+<tr><td>④ NG / TH / MY 这类「货代走账」市场</td><td>Mbata 和 PBA 证明：没有正式进口能力的国家，RMB 走货代 + 中性贴牌是可复制的模式；这类客户不看官网看 WhatsApp，档案里要记货代、币种、补货周期。</td><td class="src">RMB 单据 158k；成本表</td></tr>
+<tr><td>⑤ 产品缺口</td><td>主表缺 SFP/DAC、PoE 注入/分离、PSU、2.5G 商用 PoE、FE 商用 PoE、1 SFP+8GE 工业；成交里已反复出现 Meanwell PSU + SFP 搭售——建议把「配件价目」正式化，而不是每单临时报。CENTEC 继续当敲门砖。</td><td class="src">价格主表缺口清单；PI 单据里的 HDR/NDR/STI-G20-SD</td></tr>
+<tr><td>⑥ 风险</td><td>RU 两家（BitBook 活跃、Rio-Import gg）与制裁合规；公共部门只经由 Angora；对 SmartByte 单一依赖（HRUI/Hohunet 是备胎，但管理交换机只有 Marvell 线有 7.5 固件）；群发钩子价把 +20% 底线打穿后，老客户涨价很难。</td><td class="src">报价史 vs 主表；采购合同三家分布</td></tr>
+</table>
+
+<h2 id="s6">6 · 「针对性加厚」我打算怎么做（等你 OK 再动手）</h2>
+<div class="box ok">
+<b>原则</b>：不再往档案里堆「公司简介/网上查到的事实」；每一段加厚都必须回答四个问题并给出证据位置——<b>①他们已经证明了什么（成交/询价/回复原句）→ ②他们到底要什么（型号、配置、价位、付款、交期、贴牌）→ ③我们给什么（具体 Saga 型号 + 档位价 + 配件 + 交期）→ ④下一步动作与触发条件（谁、什么时候、因为什么）</b>。证据优先级：PI 包 &gt; S/A/Elsa 邮件原句 &gt; Clients 表跟进记录 &gt; 官网/搜索。
+</div>
+<table>
+<tr><th style="width:190px">分组</th><th>做法</th><th style="width:260px">例子（会写进 MD 的那种话）</th></tr>
+<tr><td>第一组：20 家成单客户</td><td>每家补「证据链 → 要什么 → 给什么 → 下一步」四节；把成交型号、单价、采购价、配件、贴牌要求、付款通道、货代写死；给出「下一个触发点」（固件 7.5、2.5G、BT90W、备件、季度回访）。</td><td class="src">NYNEX：2026-10-06 刚下 20 台 STC-4168XGGCM（第 5 单，往来 104 封、最近 2026-10-17）→ 下一步是 4248XGGCM / L3 10G 对比表，触发点=他们下一批站点；Angora：Türk Telekom 智慧站点首批 2,000 台 / 60 天（机型 STI-288DGGPM，曾报 5,000 台）+ 警察 RfP（首批 15 台、最低价机型）→ 用「配置档案 + 交期承诺」而不是降价去跟，最近往来 2026-07-08 已空 3 个月</td></tr>
+<tr><td>第二组：有邮件回复的 A（S 邮箱 in&gt;0）</td><td>把对方原句（问价/要资料/拒绝原因）摘进档案，按原句定 P1 和价位；拒绝过的写明拒绝原因和再触达条件，不再泛跟进。</td><td class="src">4Gon（Cadmus Distribution，UK）2025-01-27：「This is not an item we would find useful」→ 档案标明不再推 16 口 PoE 管理，只在他们目录里有的品类上再碰一次</td></tr>
+<tr><td>第三组：没回过信的 A</td><td>只做一件事：找出<b>一个</b>能证明他们有需求的事实（招标、项目、产品线、职位），没有就降 B，不硬写。</td><td class="src">宁可 A 变少，也不留「看起来像 A」的空档案</td></tr>
+<tr><td>B 级</td><td>一行：为什么是 B、什么事件会让它变 A（例如「买过一次 → 2026 固件更新信有回复」）。</td><td class="src">不做网页挖掘</td></tr>
+<tr><td>产出形式</td><td>仍由 research JSON 渲染（不手改 MD），新增字段 <code>proof[]</code> / <code>want{}</code> / <code>offer{}</code> / <code>next{}</code>；A 邮箱入库后同一套脚本再跑一遍把 A 账号的往来并进去。</td><td class="src">先做 TR 全部 + 20 家成单 + NA/EU 有回复的 A ≈ 40–50 家</td></tr>
+</table>
+
+<h2 id="s7">7 · 我拿不准、请你直接纠正的点</h2>
+<table class="q">
+<tr><th>我的假设</th><th>对 / 错 / 补充</th></tr>
+<tr><td>1. 文件夹里的 <b>gg</b> = 「凉了/挂了」，所以我把 8 家 gg 定为 B（成交过·慢慢跟进），活跃/可发展 12 家全部 A。</td><td></td></tr>
+<tr><td>2. <b>STAG = Alan（a. 账号）、STEC = Elsa（e. 账号）、STSC = 你</b>；三个账号是分身，不是三个人；A 邮箱 12 GB 是因为 Alan 账号做了更多一对一。</td><td></td></tr>
+<tr><td>3. <b>「轻度绑定」</b> = 对方已经用我们的型号/贴牌/配置做了自己的产品或项目，但还没到「换供应商要重写测试脚本」的程度。</td><td></td></tr>
+<tr><td>4. 2025 年后你<b>主动减少群发</b>，是因为 gg 型客户太多、维护成本高——还是因为邮箱送达/封号问题？</td><td></td></tr>
+<tr><td>5. CENTEC 线现阶段是「敲门砖/身份牌」，不指望走量；真正要做的量仍是 Marvell 工业 16 口 PoE 和商业 24/48 口 L2+。</td><td></td></tr>
+<tr><td>6. 微信/领英上谈的客户（没在 PI 包和邮箱里的）大概有几家、在哪些国家？哪怕只给名字和国家，我也能把它们先占个编号。</td><td></td></tr>
+<tr><td>7. 新客户开发的主战场：我理解你现在更想要「<b>TR / 中东 / 东南亚 / 非洲 的集成商 + 自有品牌商</b>」这类会复购的，而不是北美经销商——对吗？如果对，Planet 那 129 家的 US/CA 部分可以长期挂起。</td><td></td></tr>
+<tr><td>8. 价格：群发用钩子价（≤+20%），一对一按 +25/30 和配件补利润——这是有意为之，还是群发价就该往上调？</td><td></td></tr>
+<tr><td>9. 「针对性加厚」先做哪一组：我建议 <b>TR 全部 → 20 家成单 → 有回复的 NA/EU A 级</b>，约 40–50 家，A 邮箱到了再并一次。</td><td></td></tr>
+</table>
+<p class="muted src">文件位置：本答卷 <code>docs/理解与方向_答卷_2026-10-22.html</code>；成单复盘 <code>docs/成单客户_PI复盘_2026-10.md</code>；成交明细 <code>data/pi_orders/</code>；档案 <code>Saga Clients/A|B|C/</code>（A 91 / B 1,123 / C 3,427）；S 邮箱按客户汇总 <code>data/saga_clients/gmail_digest.json</code>。所有「推断」字样处均未写入客户档案。</p>
+</body>
+</html>
