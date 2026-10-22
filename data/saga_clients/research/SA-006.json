@@ -41,6 +41,20 @@
    "quote": "1-RU 48 channels C-band Mux-Demux - Variable Optical Attenuator in SFP form factor … DWDM Open Line Systems, DWDM with PQC and QKD - Ethernet-over-Copper (2-wire) Extender in SFP form factor",
    "url": "https://resonantnetworks.com/products/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20240821011（CI，2024-09-06）：Commercial Switch 共 1 台，USD 185.0；采购 HRUI RMB 1040.0；Simon 成本表利润 RMB 336.63",
+   "quote": "",
+   "url": "PI.zip:11 新加坡 Au gg/普通快递发票.xlsx",
+   "date": "2024-09-06"
+  },
+  {
+   "kind": "PI",
+   "claim": "PI 包文件夹「新加坡 Au gg」：Simon 标签 gg；单号 1 个，2024-09-06 → 2024-09-06，销售 USD 185.0 / RMB 0，Simon 成本统计利润合计 RMB 336.63",
+   "quote": "",
+   "url": "PI.zip:11 新加坡 Au gg",
+   "date": "2026-10-22"
   }
  ],
  "kp": [
@@ -50,10 +64,17 @@
    "email": "sales@resonantnetworks.com",
    "phone": "+65 6871 4128",
    "source": "https://www.crunchbase.com/organization/resonant-networks"
+  },
+  {
+   "name": "Au Wai Choon",
+   "role": "单据联系人",
+   "email": "sales-inf@resonantnetworks.com",
+   "phone": "",
+   "source": "PI.zip 单据"
   }
  ],
  "notes": "A 级确认（成单 + 数据中心网络集成）；对位 Hohunet/CENTEC 线 10G/25G（STH 系列）与 STC L3 48 口，而非 PoE 接入。",
- "researched_at": "2026-10-21",
+ "researched_at": "2026-10-22",
  "deep": {
   "done_at": "2026-10-21",
   "level": "深挖 v2（官网 + ACRA 注册核对）"
@@ -106,5 +127,19 @@
   "tier": 25,
   "why": "DC 项目的管理网/带外网与非关键 TOR：48 口千兆 + 10G 上联 L3（STC-448XGGM(L3)）与 24 口 10G 上联（STC-424XGGPM-280W）；MPO/光纤周边继续配套供货"
  },
- "email_hook": "For the out-of-band and management layer on data-centre jobs a 48-port L3 unit with 10G uplinks at EXW pricing is where we are usually slotted in, so I am sending that alongside the MPO assemblies Trevor ordered before."
+ "email_hook": "For the out-of-band and management layer on data-centre jobs a 48-port L3 unit with 10G uplinks at EXW pricing is where we are usually slotted in, so I am sending that alongside the MPO assemblies Trevor ordered before.",
+ "deal_pi": {
+  "folder": "11 新加坡 Au gg",
+  "simon_label": "gg",
+  "pay": "",
+  "bind": "",
+  "buyer": "Resonant Networks Pte Ltd",
+  "orders": 1,
+  "first": "2024-09-06",
+  "last": "2024-09-06",
+  "usd": 185.0,
+  "rmb": 0.0,
+  "profit_rmb": 336.63,
+  "models": "Commercial Switch"
+ }
 }

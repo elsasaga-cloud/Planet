@@ -1,5 +1,4 @@
 ﻿编号,等级,分批,公司,国家,区域,成交,实质回复,WA,ISAF,S重点,样品,互动备注,自有品牌,跟进次数,域名,邮箱数,已有调研,已加厚,加厚方式,快照状态,快照品牌,快照自动P1
-SA-012,B,T1,gogreenit.net,英国,欧洲,1,1,0,0,0,0,0,0,3,gogreenit.net,1,1,1,人工,ok,Saga（！）,STC-424DGGPM-280W
 SA-047,B,T1,"ITS, S.L.-S.B.T.",西班牙,欧洲,1,0,1,0,0,0,0,0,20,intecseg.com,1,1,1,人工,http_error,,
 SA-025,B,T1,sicurmax.com,意大利,欧洲,1,0,1,0,0,0,0,0,17,sicurmax.com,2,1,1,人工,ok,,
 SA-131,B,T1,SABMARtv,波兰,欧洲,1,0,1,0,0,1,0,0,0,,1,1,1,人工,,,
@@ -7,6 +6,7 @@ SA-060,B,T1,Securitytec,英国,欧洲,1,0,0,0,0,1,1,0,17,securitytec.co.uk,1,1,1
 SA-015,B,T1,rovez.sk,斯洛伐克,欧洲,1,0,0,0,0,1,0,0,13,rovez.sk,1,1,1,人工,ok,,
 SA-034,B,T1,xcam.cz,捷克,欧洲,1,0,0,0,0,0,0,1,9,xcam.cz,1,1,1,人工,ok,Axis,STI-288GP
 SA-117,B,T1,domoticalia.es,西班牙,欧洲,1,0,0,0,0,0,0,1,8,domoticalia.es,1,1,1,人工,ok,Ajax,STI-288GP
+SA-064,B,T1,52networks.com,美国,北美,1,0,0,0,0,0,0,0,7,52networks.com,1,1,1,人工,ok,,STC-424DGGPM-280W
 SA-095,B,T1,Medias-Com'S,瑞士,欧洲,1,0,0,0,0,1,0,0,0,medias-coms.ch,2,1,1,人工,ok,,
 SA-119,B,T1,Almaks Security SystemsGospodara,塞尔维亚,欧洲,1,0,0,0,0,0,0,0,0,almaks.rs,1,1,1,人工,ok,,
 SB-080,B,T1,JguyTech,法国,欧洲,1,0,0,0,0,1,0,0,0,,1,1,1,人工,,,
@@ -137,10 +137,13 @@ SB-794,B,T1,Fadi,土耳其,土耳其,0,0,0,1,0,0,1,0,0,,0,1,1,人工,,,
 SB-806,B,T1,UGUR IMRE,土耳其,土耳其,0,0,0,1,0,0,0,1,0,,0,1,1,人工,,,
 SB-807,B,T1,Ugur Simsek Netmax,土耳其,土耳其,0,0,0,1,0,0,1,0,0,,0,1,1,人工,,,
 SA-022,B,T2,Abdulaziz Al Jowasem,沙特阿拉伯,中东,1,1,1,0,0,0,0,0,20,,0,1,1,人工,,,
+SB-335,B,T2,Delta Consulting,格鲁吉亚,俄语区,1,1,1,0,0,0,1,0,14,dc.ge,1,1,1,人工,ok,,STC-28DGGPM
+SA-016,B,T2,unitedcontrolengg.com,印度,南亚,1,1,1,0,0,0,0,0,10,unitedcontrolengg.com,1,1,1,人工,ok,"Phoenix Contact,Schneider,Teltonika",STI-280GE
 SA-007,B,T2,Xspec Technology Sdn Bhd,马来西亚,亚太,1,1,1,0,0,0,1,0,3,xspectechnology.com;xspec.com.my,1,1,1,人工,ok,,STI-280GE
+SA-006,B,T2,resonantnetworks.com,新加坡,亚太,1,1,0,0,0,0,0,0,7,resonantnetworks.com,2,1,1,人工,ok,,STC-28DGGPM
 SB-1108,B,T2,dauren.boltaev@mail.ru,乌兹别克斯坦,俄语区,1,0,1,0,0,0,0,0,27,,1,1,1,人工,,,
 SA-035,B,T2,synchcom.com.pk,巴基斯坦,南亚,1,0,1,0,0,1,0,0,8,synchcom.com.pk,2,1,1,人工,ok,,STC-424DGGPM-280W
-SA-026,B,T2,BitBook LLC,俄罗斯,俄语区,1,0,1,0,0,0,0,0,0,bitbuk.ru;bitbook.ru,2,1,1,人工,ok,,STC-424DGGPM-280W
+SC-349,B,T2,Obmac systems 可以推一下,赞比亚,非洲,1,0,1,0,0,0,0,0,8,,1,1,0,,,,
 SA-032,B,T2,greentechme.net,阿联酋,中东,1,0,1,0,0,0,0,0,0,greentechme.net,1,1,1,人工,ok,,STC-424DGGPM-280W
 SB-272,B,T2,353311@mail.ru,俄罗斯,俄语区,1,0,1,0,0,0,0,0,0,,2,1,1,人工,,,
 SB-277,B,T2,Hamed electronics LLC,阿联酋,中东,1,0,1,0,0,0,0,0,0,,1,1,1,人工,,,
@@ -167,6 +170,8 @@ SA-148,B,T2,technosys.co.in,印度,南亚,1,0,0,0,0,0,0,0,0,technosys.co.in,1,1,
 SB-033,B,T2,regionprof.ru,俄罗斯,俄语区,1,0,0,0,0,0,0,0,0,regionprof.ru,1,1,1,人工,ok,,
 SB-046,B,T2,telconet.net,厄瓜多尔,拉美,1,0,0,0,0,0,0,0,0,telconet.net;telconet.ec,1,1,1,人工,ok,,
 SB-047,B,T2,"Anfiris, lda",安哥拉,非洲,1,0,0,0,0,1,0,0,0,,1,1,1,人工,,,
+SB-1334,B,T2,Fastball,印度,南亚,1,0,0,0,0,1,0,0,0,fastball.in,1,1,0,,,,
+SB-1335,B,T2,Rio-Import LLC（ООО «РИО-ИМПОРТ»）,俄罗斯,俄语区,1,0,0,0,0,0,0,0,0,,1,1,0,,,,
 SB-171,B,T2,congtyminhphuoc.vn,越南,亚太,1,0,0,0,0,0,0,0,0,congtyminhphuoc.vn,1,1,1,人工,ok,"Cisco,Dahua,Ruijie",STC-424DGGPM-280W
 SB-406,B,T2,pro-tek.pro,俄罗斯,俄语区,1,0,0,0,0,0,0,0,0,pro-tek.pro;module-ltd.ru,2,1,1,人工,ok,,STC-424DGGPM-280W
 SB-445,B,T2,Groupe Penda Telecoms,塞内加尔,非洲,1,0,0,0,0,1,0,0,0,,1,1,1,人工,,,
@@ -239,7 +244,6 @@ SB-092,B,T2,skeo.ru,俄罗斯,俄语区,0,1,1,0,0,0,0,0,14,skeo.ru,2,1,1,人工,
 SB-113,B,T2,NETBOWL PTY LTD,博茨瓦纳,非洲,0,1,1,0,0,0,0,0,14,,1,1,1,人工,,,
 SB-290,B,T2,Golden hub nepl pvt.ltd,尼泊尔,南亚,0,1,1,0,0,0,0,0,14,,1,1,1,人工,,,
 SB-293,B,T2,Kimberley telecommunications,肯尼亚,非洲,0,1,1,0,0,0,0,0,14,,1,1,1,人工,,,
-SB-335,B,T2,Delta Consulting,格鲁吉亚,俄语区,0,1,1,0,0,0,1,0,14,dc.ge,1,1,1,人工,ok,,STC-28DGGPM
 SA-114,B,T2,Win-Tech Alliance Ltd,印度,南亚,0,1,1,0,0,0,0,0,13,win-alliance.com,1,1,1,人工,parked_or_empty,,
 SB-031,B,T2,nivoxtech.com,印度,南亚,0,1,1,0,0,0,0,0,13,nivoxtech.com,1,1,1,人工,ok,,
 SB-289,B,T2,DG enterprises,尼泊尔,南亚,0,1,1,0,0,0,0,0,13,,1,1,1,人工,,,

@@ -1,9 +1,9 @@
 # Xspec Technology Sdn Bhd
 **官方名称（调研核实）**：XSPEC Technology Sdn. Bhd.（Subang Jaya, Malaysia）
 
-> **评级 B**　|　马来西亚　|　档案编号 `SA-007`　|　优先级 ★★　|　状态：成交过·维护
+> **评级 B**　|　马来西亚　|　档案编号 `SA-007`　|　优先级 ★★　|　状态：成交过·已凉（Simon: gg）
 >
-> **类型**：分销商/制造商代表（NDT·国防安防·医疗）（推断）　|　**历史关系**：成交/下单过；实质回复 2 次；WhatsApp 已加；推送 3 次（2024-06-14 → 2024-12-10）　|　**所在清单**：WA跟进　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：分销商/制造商代表（NDT·国防安防·医疗）（推断）　|　**历史关系**：成交/下单过；实质回复 2 次；WhatsApp 已加；推送 3 次（2024-06-14 → 2024-12-10）　|　**所在清单**：WA跟进、成交(PI)、Simon:gg　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-007
@@ -16,7 +16,7 @@ country: 马来西亚
 region: 亚太
 website: xspectechnology.com
 type: 分销商/制造商代表（NDT·国防安防·医疗）
-tier_tags: ["WA跟进"]
+tier_tags: ["WA跟进", "成交(PI)", "Simon:gg"]
 deal: yes
 replies: 2
 followups: 3
@@ -33,7 +33,7 @@ updated: 2026-10-22
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：马来西亚制造商代表/分销商（2005 年注册），代理 NDT 检测、军警安防、医疗、生物实验室设备，覆盖马/印尼/新加坡；联系人 Sugito Wibawa。用户表：对交换机/PoE 交换机有兴趣，WhatsApp 跟进，有成单记录。（调研 2026-10-21；表内兴趣：对交换机，POE交换机有兴趣 Skype: sugitowibawa 公司地址：No. 8, Jalan Industri USJ 1/8Taman Perindustrian USJ 147600 Subang Jaya, Selango）
+- **是谁**：马来西亚制造商代表/分销商（2005 年注册），代理 NDT 检测、军警安防、医疗、生物实验室设备，覆盖马/印尼/新加坡；联系人 Sugito Wibawa。用户表：对交换机/PoE 交换机有兴趣，WhatsApp 跟进，有成单记录。（调研 2026-10-22；表内兴趣：对交换机，POE交换机有兴趣 Skype: sugitowibawa 公司地址：No. 8, Jalan Industri USJ 1/8Taman Perindustrian USJ 147600 Subang Jaya, Selango）
 - **为什么是 B 级**：**调研后定级 B**（成单但核心业务是 NDT/国防/医疗设备代理，交换机为项目配套，复购逻辑弱（且含军警安防，INH 守界）；放 B 慢跟、被动响应。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/马来西亚；+2 最近活动 2024
 - **历史互动**：成交/下单过；实质回复 2 次；WhatsApp 已加；推送 3 次（2024-06-14 → 2024-12-10）；最近一次客户回复：2024-11-18：passive poe only
 - **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：项目 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+ 管理，$84.1）作安防/实验室项目配套；24 口 STC-424DGGPM-280W（$140.1）；工业 STI-288GP（$59.8）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
@@ -53,12 +53,12 @@ updated: 2026-10-22
 | 来源（From） | Mitec<br>2023 | 事实（用户表） |
 | 兴趣（Interested in） | 对交换机，POE交换机有兴趣 Skype: sugitowibawa 公司地址：No. 8, Jalan Industri USJ 1/8Taman Perindustrian USJ 147600 Subang Jaya, Selangor, Malaysia | 事实（用户表） |
 | 用户备注（Remark） | 60-1298 88086 手机 | 事实（用户表） |
-| 所在清单 | WA跟进 | 事实（文件路径） |
+| 所在清单 | WA跟进、成交(PI)、Simon:gg | 事实（文件路径） |
 | 在卖/在用品牌（备注所见） | — | 事实（用户备注）/ 推断 |
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：在线
+- **状态：已调研（2026-10-22）**　网站状态：在线
 - **是谁**：马来西亚制造商代表/分销商（2005 年注册），代理 NDT 检测、军警安防、医疗、生物实验室设备，覆盖马/印尼/新加坡；联系人 Sugito Wibawa。用户表：对交换机/PoE 交换机有兴趣，WhatsApp 跟进，有成单记录。
 - **类型**：分销商/制造商代表（NDT·国防安防·医疗）
 - **规模**：未见人数；经营 20+ 年
@@ -72,6 +72,12 @@ updated: 2026-10-22
 - **【用户表】CEO 对交换机/PoE 有兴趣；地址；Skype**
   > 对交换机，POE交换机有兴趣 Skype: sugitowibawa 公司地址：No. 8, Jalan Industri USJ 1/8 Taman Perindustrian USJ 1 47600 Subang Jaya, Selangor, Malaysia / Sugito Wibawa Chief Executive Officer
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【PI】成交单据 STSC20240618009（CI，2024-06-27）：Commercial Switch 共 1 台，USD 90.0；采购 四川海思视讯电子有限公司 RMB 500.0；Simon 成本表利润 RMB 209.61**
+  > 来源：PI.zip:9 马来西亚 Sugito gg/普通快递发票.xlsx（抓取 2024-06-27）
+- **【PI】成交单据 STSC20240711009（CI，2024-07-17）：Commercial Switch 共 12 台，USD 1056.0；采购 四川海思视讯电子有限公司 RMB 6000.0；Simon 成本表利润 RMB 2969.78**
+  > 来源：PI.zip:9 马来西亚 Sugito gg/普通快递发票.xlsx（抓取 2024-07-17）
+- **【PI】PI 包文件夹「马来西亚 Sugito gg」：Simon 标签 gg；单号 2 个，2024-06-27 → 2024-07-17，销售 USD 1146.0 / RMB 0，Simon 成本统计利润合计 RMB 3179.39**
+  > 来源：PI.zip:9 马来西亚 Sugito gg（抓取 2026-10-22）
 - **KP**：Sugito Wibawa（负责人（代理名录口径））sugito@xspec.com.my +60 3 8023 1161〔https://www.intron.ru/en/about-us/agents/〕
 - **调研后定级**：B（原自动 A）——成单但核心业务是 NDT/国防/医疗设备代理，交换机为项目配套，复购逻辑弱（且含军警安防，INH 守界）；放 B 慢跟、被动响应。
 
@@ -121,6 +127,18 @@ updated: 2026-10-22
 | 2024-06-14 | 2024.6.14 | 发了商业poE 228信息 | 24 port passive poe  后续成单 | Email |  | Whatsapp_S跟进 2026.08.04.xlsx#122 |
 | 2024-11-18 | 1118 | 引流机型 | passive poe only | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#122 |
 | 2024-12-10 | 1210 | 问需求 推了迷你 |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#122 |
+
+## 成交记录（PI 包 · 自动汇总）
+
+- **Simon 的标签**（PI 包文件夹名）：**gg**　|　买方抬头：XSPec Hospitech Sdn Bhd
+- **单号** 2 个（2024-06-27 → 2024-07-17）　|　**销售** USD 1,146　|　**Simon 成本表利润** RMB 3,179
+
+| 单号 | 日期 | 单据 | 型号 | 数量 | 金额 | 采购（卖方 / RMB） | Simon 成本表（成本 / 收款 / 利润 RMB） |
+|---|---|---|---|---|---|---|---|
+| STSC20240618009 | 2024-06-27 | CI | Commercial Switch | 1 | USD 90.0 | 四川海思视讯电子有限公司 / 500.0 | 733.97 / 943.58 / 209.61 |
+| STSC20240711009 | 2024-07-17 | CI | Commercial Switch | 12 | USD 1056.0 | 四川海思视讯电子有限公司 / 6000.0 | 6852 / 9821.78 / 2969.78 |
+
+> 口径：同一单号多份文件取 CI > PI（最新修订）> Quotation；Quotation 行不计入销售合计；明细见 `data/pi_orders/销售单据明细.csv`、采购价见 `采购合同明细.csv`；原件在 Release `files-pi_2026-10`。
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

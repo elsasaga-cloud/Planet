@@ -1,21 +1,22 @@
 # vilinknet.com
 **官方名称（调研核实）**：Vilink Communications, Inc.（Vi-Link, Irvine/Brea, CA）
 
-> **评级 A**　|　美国　|　档案编号 `SA-011`　|　优先级 ★★★　|　状态：成交过·维护
+> **评级 A**　|　美国　|　档案编号 `SA-011`　|　优先级 ★★★　|　状态：成交过·可发展（Simon）
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）——光传输+工业以太网自有品牌（推断）　|　**历史关系**：成交/下单过；实质回复 1 次；推送 19 次（2023-12-09 → 2025-12-08）　|　**所在清单**：S重点　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：品牌商/贴牌需求（OEM/ODM）——光传输+工业以太网自有品牌（推断）　|　**历史关系**：成交/下单过；实质回复 1 次；推送 19 次（2023-12-09 → 2025-12-08）　|　**所在清单**：S重点、成交(PI)、Simon:可发展　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-011
 rating: A
 rating_auto: A
+rating_research: A  # PI 包成单客户，Simon 标签 可发展 → A
 name_official: "Vilink Communications, Inc.（Vi-Link, Irvine/Brea, CA）"
 score: 117
 country: 美国
 region: 北美
 website: vilinknet.com
 type: 品牌商/贴牌需求（OEM/ODM）——光传输+工业以太网自有品牌
-tier_tags: ["S重点"]
+tier_tags: ["S重点", "成交(PI)", "Simon:可发展"]
 deal: yes
 replies: 1
 followups: 19
@@ -32,8 +33,8 @@ updated: 2026-10-22
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：美国加州光纤数字传输产品制造商（1993 年成立，1–10/11–50 人口径不一，营收约 $11–12M 口径），自有品牌 Vi-Link：视频光端机、光复用器、工业以太网交换机、工业光纤收发器（交通控制应用）。用户表：S 重点名单，兴趣 光猫/3G-SDI/VC/SFP/DAC/MC，1 次实质回复。（调研 2026-10-21；表内兴趣：光猫 3G SDI VC SFP模块 DAC MC）
-- **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+2 兴趣仅 MC/SFP/配件（边缘品类）；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；+5 跟进表最近平台标记 S
+- **是谁**：美国加州光纤数字传输产品制造商（1993 年成立，1–10/11–50 人口径不一，营收约 $11–12M 口径），自有品牌 Vi-Link：视频光端机、光复用器、工业以太网交换机、工业光纤收发器（交通控制应用）。用户表：S 重点名单，兴趣 光猫/3G-SDI/VC/SFP/DAC/MC，1 次实质回复。（调研 2026-10-22；表内兴趣：光猫 3G SDI VC SFP模块 DAC MC）
+- **为什么是 A 级**：**调研后定级 A**（PI 包成单客户，Simon 标签 可发展 → A）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+2 兴趣仅 MC/SFP/配件（边缘品类）；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：成交/下单过；实质回复 1 次；推送 19 次（2023-12-09 → 2025-12-08）；最近一次客户回复：2024-11-13：下单了
 - **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：自有品牌 IE/IEN 工业交换机系列（5–16 口）与 Saga STI 工业线一一对应：IE5→STI-144GP（4+1 PoE）/ IE8·IEN82·IEN84→STI-288DGGPM（8 PoE + 2 SFP 管理型）；MC 类目→STI-110GE；按 OEM 贴牌 30% 档报价；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -52,12 +53,12 @@ updated: 2026-10-22
 | 来源（From） | 公海 | 事实（用户表） |
 | 兴趣（Interested in） | 光猫 3G SDI VC SFP模块 DAC MC | 事实（用户表） |
 | 用户备注（Remark） | — | 事实（用户表） |
-| 所在清单 | S重点 | 事实（文件路径） |
+| 所在清单 | S重点、成交(PI)、Simon:可发展 | 事实（文件路径） |
 | 在卖/在用品牌（备注所见） | — | 事实（用户备注）/ 推断 |
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：在线
+- **状态：已调研（2026-10-22）**　网站状态：在线
 - **是谁**：美国加州光纤数字传输产品制造商（1993 年成立，1–10/11–50 人口径不一，营收约 $11–12M 口径），自有品牌 Vi-Link：视频光端机、光复用器、工业以太网交换机、工业光纤收发器（交通控制应用）。用户表：S 重点名单，兴趣 光猫/3G-SDI/VC/SFP/DAC/MC，1 次实质回复。
 - **类型**：品牌商/贴牌需求（OEM/ODM）——光传输+工业以太网自有品牌
 - **规模**：1–10 人（Crunchbase）/ 11–50（LinkedIn）；营收 $11.2M（ZoomInfo 口径，待核）
@@ -74,7 +75,19 @@ updated: 2026-10-22
 - **【官网】工业非管理交换机系列型号 IE5…IE216、IEN10…IEN84，定位智能交通控制**
   > Central to these systems are industrial Ethernet switches like the Vi-Link Industrial Unmanaged Ethernet Switches … IE5 IE8 IE10 IE12 IE14 IE18 IE24 IE28 IE216 IEN10 IEN21 IEN41 IEN42 IEN81 IEN82 IEN84
   > 来源：https://vilink.us/industrial-ethernet-switch/（抓取 2026-10-21）
+- **【PI】成交单据 STSC20240418006（CI，2024-04-18）：STC-4168XGGCM 共 1 台，USD 452.0；采购 SmartByte RMB 2100.0；Simon 成本表利润 RMB 120.16**
+  > 来源：PI.zip:6 美国 Thu 可发展/CI.xls（抓取 2024-04-18）
+- **【PI】成交单据 STSC20241119006（PI，2024-11-19）：STC-110XGE、STC-14DUR 共 5 台，USD 530.0；采购 SmartByte RMB 1750.0；Simon 成本表利润 RMB 437.12**
+  > 来源：PI.zip:6 美国 Thu 可发展/STSC20241119006.xls（抓取 2024-11-19）
+- **【PI】成交单据 STSC-20260821-001（Quotation，2026-08-21）：STC-110FE 共 10 台，USD 325.0**
+  > 来源：PI.zip:6 美国 Thu 可发展/STSC-20260821-001.xlsx（抓取 2026-08-21）
+- **【PI】成交单据 STSC20260903006（CI，2026-09-24）：Fiber Media Converter 共 10 台，USD 165.0；采购 SmartByte RMB 0；Simon 成本表利润 RMB 192.61**
+  > 来源：PI.zip:6 美国 Thu 可发展/普通快递发票_STSC20260903006.xlsx（抓取 2026-09-24）
+- **【PI】PI 包文件夹「美国 Thu 可发展」：Simon 标签 可发展；单号 4 个，2024-04-18 → 2026-09-24，销售 USD 1147.0 / RMB 0，Simon 成本统计利润合计 RMB 749.89**
+  > 来源：PI.zip:6 美国 Thu 可发展（抓取 2026-10-22）
 - **KP**：Robin Sun（联系人（ProcessRegister 名录口径））sales@vilinknet.com（产品 PDF 页脚公开） +1 714-312-0654〔https://www.processregister.com/Vilink_Communications_Inc/Supplier/sid161883.htm ; https://vilink.us/wp-content/uploads/2024/08/MC12.pdf〕
+- **KP**：Thu Pham（单据联系人）thupvilink16@gmail.com 〔PI.zip 单据〕
+- **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 可发展 → A
 - 备注：A 确认：美国自有品牌工业交换机/MC 厂商 = 最佳 OEM 对象；P1 应改为 STI 工业系列（非 PoE 商用）。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
@@ -147,6 +160,20 @@ updated: 2026-10-22
 | 2025-10-30 | 1030 | dac |  | S |  | S 09.08.xlsx#13 |
 | 2025-12-08 | 128 | solar |  | S |  | S 09.08.xlsx#13 |
 
+## 成交记录（PI 包 · 自动汇总）
+
+- **Simon 的标签**（PI 包文件夹名）：**可发展**　|　买方抬头：Vi-Link, Inc.
+- **单号** 4 个（2024-04-18 → 2026-09-24）　|　**销售** USD 1,147　|　**Simon 成本表利润** RMB 750
+
+| 单号 | 日期 | 单据 | 型号 | 数量 | 金额 | 采购（卖方 / RMB） | Simon 成本表（成本 / 收款 / 利润 RMB） |
+|---|---|---|---|---|---|---|---|
+| STSC20240418006 | 2024-04-18 | CI | STC-4168XGGCM | 1 | USD 452.0 | SmartByte / 2100.0 | 3043.84 / 452 / 120.16 |
+| STSC20241119006 | 2024-11-19 | PI | STC-110XGE、STC-14DUR | 5 | USD 530.0 | SmartByte / 1750.0 | 3382.98 / 3820.1 / 437.12 |
+| STSC-20260821-001 | 2026-08-21 | Quotation | STC-110FE | 10 | USD 325.0 | — | — |
+| STSC20260903006 | 2026-09-24 | CI | Fiber Media Converter | 10 | USD 165.0 | SmartByte / 0 | 2087.39 / 2280 / 192.61 |
+
+> 口径：同一单号多份文件取 CI > PI（最新修订）> Quotation；Quotation 行不计入销售合计；明细见 `data/pi_orders/销售单据明细.csv`、采购价见 `采购合同明细.csv`；原件在 Release `files-pi_2026-10`。
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom　|　**邮件**：36 封（去 25 / 来 11）　|　**期间**：2024-04-16 → 2026-07-20　|　**最后去信**：2026-07-20
@@ -184,7 +211,7 @@ updated: 2026-10-22
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Robin Sun | 联系人（ProcessRegister 名录口径） | sales@vilinknet.com（产品 PDF 页脚公开） / +1 714-312-0654 | 调研核实（公开页） | https://www.processregister.com/Vilink_Communications_Inc/Supplier/sid161883.htm ; https://vilink.us/wp-content/uploads/2024/08/MC12.pdf |
-| Thu Pham | — | sales@vi-link.net / thup@vilinknet.com | 用户表原值 | Clients/ 表 |
+| Thu Pham | 单据联系人 | thupvilink16@gmail.com | 调研核实（公开页） | PI.zip 单据 |
 
 - **通道建议**：企业邮箱可直发
 

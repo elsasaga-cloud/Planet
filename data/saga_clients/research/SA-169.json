@@ -1,0 +1,78 @@
+{
+ "code": "SA-169",
+ "name_official": "James Clendenan Systems Ltd.",
+ "website_status": "",
+ "summary": "已成单 4 次（2024-06 4 台 / 2024-12 6 台 / 2026-08-30 12 台 @ $335）；Simon 标签：活跃 · Xtransfer · 轻度绑定；详见 research/SA-169.json",
+ "type": "系统集成/工程（北温哥华）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20240627010（CI，2024-06-27）：STI-21616DGGPM 共 9 台，USD 1095.0；采购 SmartByte RMB 4908.0；Simon 成本表利润 RMB 1729.39",
+   "quote": "",
+   "url": "PI.zip:10 加拿大 James 活跃 Xtransfer 轻度绑定/CI.xls",
+   "date": "2024-06-27"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20241219010（PI，2024-12-19）：STC-424XGGM、STI-488XGGPM 共 6 台，USD 1625.0；采购 SmartByte RMB 7684.0；Simon 成本表利润 RMB 3472.13",
+   "quote": "",
+   "url": "PI.zip:10 加拿大 James 活跃 Xtransfer 轻度绑定/STSC20241219010.xls",
+   "date": "2024-12-19"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC-20260826-001（Quotation，2026-08-26）：STI-21616XGGPM、SW-3200-16GP-2SX 共 12 台，RMB 28975.0",
+   "quote": "",
+   "url": "PI.zip:10 加拿大 James 活跃 Xtransfer 轻度绑定/STSC-20260826-001.xlsx",
+   "date": "2026-08-26"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20260830010（CI，2026-09-07）：Industrial Switch 共 12 台，USD 4020.0；采购 SmartByte RMB 20160.0",
+   "quote": "",
+   "url": "PI.zip:10 加拿大 James 活跃 Xtransfer 轻度绑定/发票_STSC20260830010.xlsx",
+   "date": "2026-09-07"
+  },
+  {
+   "kind": "PI",
+   "claim": "PI 包文件夹「加拿大 James 活跃 Xtransfer 轻度绑定」：Simon 标签 活跃，收款 Xtransfer，轻度绑定；单号 4 个，2024-06-27 → 2026-09-07，销售 USD 6740.0 / RMB 0，Simon 成本统计利润合计 RMB 5201.52",
+   "quote": "",
+   "url": "PI.zip:10 加拿大 James 活跃 Xtransfer 轻度绑定",
+   "date": "2026-10-22"
+  }
+ ],
+ "kp": [
+  {
+   "name": "James Clendenan",
+   "role": "单据联系人",
+   "email": "james@clendenan.ca",
+   "phone": "",
+   "source": "PI.zip 单据"
+  }
+ ],
+ "notes": "",
+ "researched_at": "2026-10-22",
+ "deal_pi": {
+  "folder": "10 加拿大 James 活跃 Xtransfer 轻度绑定",
+  "simon_label": "活跃",
+  "pay": "Xtransfer",
+  "bind": "轻度绑定",
+  "buyer": "James Clendenan Systems Ltd.",
+  "orders": 4,
+  "first": "2024-06-27",
+  "last": "2026-09-07",
+  "usd": 6740.0,
+  "rmb": 0.0,
+  "profit_rmb": 5201.52,
+  "models": "Industrial Switch、STC-424XGGM、STI-21616DGGPM、STI-21616XGGPM、STI-488XGGPM、SW-3200-16GP-2SX"
+ },
+ "saga_fit": {
+  "p1": "",
+  "tier": 25,
+  "why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
+ },
+ "grade_override": "A",
+ "override_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）"
+}

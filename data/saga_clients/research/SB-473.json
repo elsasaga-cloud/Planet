@@ -1,7 +1,7 @@
 {
  "code": "SB-473",
  "name_official": "Netaş Telekomünikasyon A.Ş.（İstanbul, TR；netas.com.tr；BIST: NETAS）",
- "researched_at": "2026-10-21",
+ "researched_at": "2026-10-22",
  "website_status": "在线",
  "summary": "土耳其电信设备与系统集成上市公司 Netaş（1967 年成立，1993 年上市；2025 年末员工 1,264 人、年均 1,368 人；ZTE Cooperatief U.A. 持股 48.05%，Türk Silahlı Kuvvetleri Güçlendirme Vakfı 持股 15%，其余流通；总经理 Sinan Dumlu；业务：电信运营商网络产品、本土基站、系统集成）。Saga 自建站询盘：Ender Bulut 询 OM6X2424(2)-PSE-GW（型号疑为他牌 PoE 交换机/网关）；无跟进。按规则归 C（资料保留）。",
  "type": "",
@@ -28,6 +28,20 @@
    "quote": "OM6X2424(2)-PSE-GW / from: 自建站",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STAG20251224020（PI，2025-12-24）：STI-488DGGPM-2BT 共 3 台，USD 545.0；采购 SmartByte RMB 2616.0；Simon 成本表利润 RMB 903.53",
+   "quote": "",
+   "url": "PI.zip:20 土耳其 Burak 活跃 Xtransfer 轻度绑定/STAG20251224020.xls",
+   "date": "2025-12-24"
+  },
+  {
+   "kind": "PI",
+   "claim": "PI 包文件夹「土耳其 Burak 活跃 Xtransfer 轻度绑定」：Simon 标签 活跃，收款 Xtransfer，轻度绑定；单号 1 个，2025-12-24 → 2025-12-24，销售 USD 545.0 / RMB 0，Simon 成本统计利润合计 RMB 903.53",
+   "quote": "",
+   "url": "PI.zip:20 土耳其 Burak 活跃 Xtransfer 轻度绑定",
+   "date": "2026-10-22"
   }
  ],
  "kp": [
@@ -37,10 +51,17 @@
    "email": "ebulut@netas.com.tr（用户表）",
    "phone": "—",
    "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Burak Ozdemir",
+   "role": "单据联系人",
+   "email": "buozdemir@netas.com.tr",
+   "phone": "",
+   "source": "PI.zip 单据"
   }
  ],
- "grade_override": "C",
- "override_reason": "规模大 + 守界：BIST 上市电信设备/系统集成巨头（1967 年成立；约 1,264–1,403 名员工；ZTE 持股 48.05%、土耳其武装部队基金会持股 15%）——集团级采购、ZTE 供应链关联且军方基金会股东，超出 Saga 可赢范围",
+ "grade_override": "A",
+ "override_reason": "规模大 + 守界：BIST 上市电信设备/系统集成巨头（1967 年成立；约 1,264–1,403 名员工；ZTE 持股 48.05%、土耳其武装部队基金会持股 15%）——集团级采购、ZTE 供应链关联且军方基金会股东，超出 Saga 可赢范围；PI 包成单客户，Simon 标签 活跃 → A",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -71,5 +92,19 @@
   "tier": 25,
   "why": "不推进"
  },
- "email_hook": "（不主动发送）"
+ "email_hook": "（不主动发送）",
+ "deal_pi": {
+  "folder": "20 土耳其 Burak 活跃 Xtransfer 轻度绑定",
+  "simon_label": "活跃",
+  "pay": "Xtransfer",
+  "bind": "轻度绑定",
+  "buyer": "NETAŞ Telekomünikasyon A.Ş.",
+  "orders": 1,
+  "first": "2025-12-24",
+  "last": "2025-12-24",
+  "usd": 545.0,
+  "rmb": 0.0,
+  "profit_rmb": 903.53,
+  "models": "STI-488DGGPM-2BT"
+ }
 }

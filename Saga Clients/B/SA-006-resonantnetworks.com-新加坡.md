@@ -1,13 +1,13 @@
 # resonantnetworks.com
 **官方名称（调研核实）**：Resonant Networks Pte. Ltd.（Singapore）
 
-> **评级 A**　|　新加坡　|　档案编号 `SA-006`　|　优先级 ★★★　|　状态：成交过·维护
+> **评级 B**　|　新加坡　|　档案编号 `SA-006`　|　优先级 ★★　|　状态：成交过·已凉（Simon: gg）
 >
-> **类型**：系统集成/工程商（数据中心·光网络）（推断）　|　**历史关系**：成交/下单过；实质回复 3 次；推送 7 次（2024-03-11 → 2024-12-11）　|　**所在清单**：A优质名单(Singapore)、AI评估(SG)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：系统集成/工程商（数据中心·光网络）（推断）　|　**历史关系**：成交/下单过；实质回复 3 次；推送 7 次（2024-03-11 → 2024-12-11）　|　**所在清单**：A优质名单(Singapore)、AI评估(SG)·DONE、成交(PI)、Simon:gg　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-006
-rating: A
+rating: B
 rating_auto: A
 name_official: "Resonant Networks Pte. Ltd.（Singapore）"
 score: 130
@@ -15,7 +15,7 @@ country: 新加坡
 region: 亚太
 website: resonantnetworks.com
 type: 系统集成/工程商（数据中心·光网络）
-tier_tags: ["A优质名单(Singapore)", "AI评估(SG)·DONE"]
+tier_tags: ["A优质名单(Singapore)", "AI评估(SG)·DONE", "成交(PI)", "Simon:gg"]
 deal: yes
 replies: 3
 followups: 7
@@ -32,13 +32,13 @@ updated: 2026-10-22
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：新加坡光网络工程公司（2013 年起运营，现公司 2020 年注册，11–50 人，约 $3M 营收），为数据中心/电信/云运营商做光网络设计与部署（海缆 SLTE：ADC、AAE-1），2025 年主营业务代码改为「供应数据中心网络系统与专业服务」。用户表：买过光纤周边（MPO 等），也能用到交换机。（调研 2026-10-21；表内兴趣：光（多是周边的 如MPO等） 也能用到交换机）
-- **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+30 实质回复 3 次（问价/要资料/问型号等）；+10 谈到样品/测样；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+2 最近活动 2024
+- **是谁**：新加坡光网络工程公司（2013 年起运营，现公司 2020 年注册，11–50 人，约 $3M 营收），为数据中心/电信/云运营商做光网络设计与部署（海缆 SLTE：ADC、AAE-1），2025 年主营业务代码改为「供应数据中心网络系统与专业服务」。用户表：买过光纤周边（MPO 等），也能用到交换机。（调研 2026-10-22；表内兴趣：光（多是周边的 如MPO等） 也能用到交换机）
+- **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+30 实质回复 3 次（问价/要资料/问型号等）；+10 谈到样品/测样；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+2 最近活动 2024
 - **历史互动**：成交/下单过；实质回复 3 次；推送 7 次（2024-03-11 → 2024-12-11）；最近一次客户回复：2024-10-24：useful
 - **P1（下一步唯一主推）**：STC-448XGGM(L3) — 深挖对位：DC 项目的管理网/带外网与非关键 TOR：48 口千兆 + 10G 上联 L3（STC-448XGGM(L3)）与 24 口 10G 上联（STC-424XGGPM-280W）；MPO/光纤周边继续配套供货；$485.8 USD EXW（25% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -53,7 +53,7 @@ updated: 2026-10-22
 | 兴趣（Interested in） | 光（多是周边的 如MPO等）<br>也能用到交换机 | 事实（用户表） |
 | 用户备注（Remark） | — | 事实（用户表） |
 | 用户 AI 评估 | AI 45% B | 事实（用户表 AI评估结果/CALUDE评估结果列） |
-| 所在清单 | A优质名单(Singapore)、AI评估(SG)·DONE | 事实（文件路径） |
+| 所在清单 | A优质名单(Singapore)、AI评估(SG)·DONE、成交(PI)、Simon:gg | 事实（文件路径） |
 | 在卖/在用品牌（备注所见） | — | 事实（用户备注）/ 推断 |
 
 ### 用户 AI / Claude 评估原文
@@ -67,7 +67,7 @@ updated: 2026-10-22
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：在线
+- **状态：已调研（2026-10-22）**　网站状态：在线
 - **是谁**：新加坡光网络工程公司（2013 年起运营，现公司 2020 年注册，11–50 人，约 $3M 营收），为数据中心/电信/云运营商做光网络设计与部署（海缆 SLTE：ADC、AAE-1），2025 年主营业务代码改为「供应数据中心网络系统与专业服务」。用户表：买过光纤周边（MPO 等），也能用到交换机。
 - **类型**：系统集成/工程商（数据中心·光网络）
 - **规模**：11–50 人；约 $3M 营收（LinkedIn / RocketReach）
@@ -86,7 +86,12 @@ updated: 2026-10-22
 - **【官网】产品清单**
   > 1-RU 48 channels C-band Mux-Demux - Variable Optical Attenuator in SFP form factor … DWDM Open Line Systems, DWDM with PQC and QKD - Ethernet-over-Copper (2-wire) Extender in SFP form factor
   > 来源：https://resonantnetworks.com/products/（抓取 2026-10-21）
+- **【PI】成交单据 STSC20240821011（CI，2024-09-06）：Commercial Switch 共 1 台，USD 185.0；采购 HRUI RMB 1040.0；Simon 成本表利润 RMB 336.63**
+  > 来源：PI.zip:11 新加坡 Au gg/普通快递发票.xlsx（抓取 2024-09-06）
+- **【PI】PI 包文件夹「新加坡 Au gg」：Simon 标签 gg；单号 1 个，2024-09-06 → 2024-09-06，销售 USD 185.0 / RMB 0，Simon 成本统计利润合计 RMB 336.63**
+  > 来源：PI.zip:11 新加坡 Au gg（抓取 2026-10-22）
 - **KP**：—（销售邮箱（Crunchbase 公开））sales@resonantnetworks.com +65 6871 4128〔https://www.crunchbase.com/organization/resonant-networks〕
+- **KP**：Au Wai Choon（单据联系人）sales-inf@resonantnetworks.com 〔PI.zip 单据〕
 - 备注：A 级确认（成单 + 数据中心网络集成）；对位 Hohunet/CENTEC 线 10G/25G（STH 系列）与 STC L3 48 口，而非 PoE 接入。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + ACRA 注册核对））
@@ -151,6 +156,17 @@ updated: 2026-10-22
 | 2024-10-24 | 1024 | 154 | useful | Email |  | Singapore 3.3.xlsx#3 |
 | 2024-12-11 | 1211 | 48口 |  | Email |  | Singapore 3.3.xlsx#3 |
 
+## 成交记录（PI 包 · 自动汇总）
+
+- **Simon 的标签**（PI 包文件夹名）：**gg**　|　买方抬头：Resonant Networks Pte Ltd
+- **单号** 1 个（2024-09-06 → 2024-09-06）　|　**销售** USD 185　|　**Simon 成本表利润** RMB 337
+
+| 单号 | 日期 | 单据 | 型号 | 数量 | 金额 | 采购（卖方 / RMB） | Simon 成本表（成本 / 收款 / 利润 RMB） |
+|---|---|---|---|---|---|---|---|
+| STSC20240821011 | 2024-09-06 | CI | Commercial Switch | 1 | USD 185.0 | HRUI / 1040.0 | 1150.51 / 1487.14 / 336.63 |
+
+> 口径：同一单号多份文件取 CI > PI（最新修订）> Quotation；Quotation 行不计入销售合计；明细见 `data/pi_orders/销售单据明细.csv`、采购价见 `采购合同明细.csv`；原件在 Release `files-pi_2026-10`。
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom　|　**邮件**：79 封（去 43 / 来 36）　|　**期间**：2024-07-02 → 2026-09-21　|　**最后去信**：2026-09-21
@@ -184,6 +200,7 @@ updated: 2026-10-22
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | — | 销售邮箱（Crunchbase 公开） | sales@resonantnetworks.com / +65 6871 4128 | 调研核实（公开页） | https://www.crunchbase.com/organization/resonant-networks |
+| Au Wai Choon | 单据联系人 | sales-inf@resonantnetworks.com | 调研核实（公开页） | PI.zip 单据 |
 | Trevor Loi | — | sales@resonantnetworks.com / trevorloijt@resonantnetworks.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
@@ -215,7 +232,7 @@ updated: 2026-10-22
 - **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-448XGGM(L3)）；只问一个问题：当前在采购的主力型号与月量。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
-- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
@@ -242,7 +259,7 @@ updated: 2026-10-22
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ✅ 有成交史（量待确认） |
-| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -259,7 +276,7 @@ Thank you again for your earlier order with us - this is a short update rather t
 
 We supply a CENTEC-based 48-port Gigabit L3 switch with 10G uplinks - model STC-448XGGM(L3) - that fits the same slot as your （项目采购） MPO/光纤周边；数据中心机柜侧交换机 at a lower landed cost, and we can ship it with neutral packaging. Current price: $485.8 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
+One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 
 If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
@@ -280,11 +297,11 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-05**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 130）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 130）；人工/调研定级 → B
 
 ---
 

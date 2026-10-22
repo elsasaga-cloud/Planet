@@ -39,10 +39,24 @@
    "quote": "INDUSTRIAL SWITCH UNMANAGED 8 PORT POE WITH 2 UPLINK AND 2 FIBER PORTS AED575.00 In stock … Industrial PoE Switch 16 Port 10G L3 Managed AED1,375.00 In stock",
    "url": "https://asteldigicom.com/industrial-poe-switch-16-port-10g-l3-managed.-a.html",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STAG20251127018（PI，2025-11-27）：HDR-15-24、STI-110GE、STI-140GE 共 8 台，USD 166.0；采购 SmartByte RMB 934.0；Simon 成本表利润 RMB 267.75",
+   "quote": "",
+   "url": "PI.zip:18 阿联酋 Sanjay 可发展/STAG20251127018.xls",
+   "date": "2025-11-27"
+  },
+  {
+   "kind": "PI",
+   "claim": "PI 包文件夹「阿联酋 Sanjay 可发展」：Simon 标签 可发展；单号 1 个，2025-11-27 → 2025-11-27，销售 USD 166.0 / RMB 0，Simon 成本统计利润合计 RMB 267.75",
+   "quote": "",
+   "url": "PI.zip:18 阿联酋 Sanjay 可发展",
+   "date": "2026-10-22"
   }
  ],
  "notes": "成单客户，S 重点名单；下一步按老客户回访做，主推工业 PoE 整线（替代其在卖的 ONV）。",
- "researched_at": "2026-10-21",
+ "researched_at": "2026-10-22",
  "deep": {
   "done_at": "2026-10-21",
   "level": "深挖 v1"
@@ -110,5 +124,30 @@
   "tier": 30,
   "why": "其主力 AST-IMC-GB-POE-8E2U2S-PSE（8 GE PoE + 2 SFP 工业）与 STI-288DGGPM 同位，自有品牌贴牌 30% 档；千兆 MC 对位 STI-110GE；10G L3 工业机需 SmartByte 另核"
  },
- "email_hook": "The AST-IMC-GB-POE-8E2U2S class 8-port gigabit industrial PoE unit is the one we can supply with ASTEL packing on a Marvell platform, so I am quoting it with and without the 48 V 240 W DIN power supply you asked about last time."
+ "email_hook": "The AST-IMC-GB-POE-8E2U2S class 8-port gigabit industrial PoE unit is the one we can supply with ASTEL packing on a Marvell platform, so I am quoting it with and without the 48 V 240 W DIN power supply you asked about last time.",
+ "deal_pi": {
+  "folder": "18 阿联酋 Sanjay 可发展",
+  "simon_label": "可发展",
+  "pay": "",
+  "bind": "",
+  "buyer": "ASTEL DIGICOM Electronics LLC",
+  "orders": 1,
+  "first": "2025-11-27",
+  "last": "2025-11-27",
+  "usd": 166.0,
+  "rmb": 0.0,
+  "profit_rmb": 267.75,
+  "models": "HDR-15-24、STI-110GE、STI-140GE"
+ },
+ "kp": [
+  {
+   "name": "Sanjay Singla",
+   "role": "General Manager",
+   "email": "asteldigicom@eim.ae; navsim@eim.ae",
+   "phone": "",
+   "source": "PI.zip 单据"
+  }
+ ],
+ "grade_override": "A",
+ "override_reason": "PI 包成单客户，Simon 标签 可发展 → A"
 }

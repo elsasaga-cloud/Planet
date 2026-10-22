@@ -1,21 +1,22 @@
 # asteldigicom.com
 **官方名称（调研核实）**：Astel Digicom（asteldigicom.com，关联 AVSS Group）
 
-> **评级 A**　|　阿联酋　|　档案编号 `SA-001`　|　优先级 ★★★　|　状态：成交过·维护
+> **评级 A**　|　阿联酋　|　档案编号 `SA-001`　|　优先级 ★★★　|　状态：成交过·可发展（Simon）
 >
-> **类型**：分销商/网店（线缆·网络·太阳能）（推断）　|　**历史关系**：成交/下单过；实质回复 2 次；WhatsApp 已加；推送 36 次（2024-05-07 → 2025-11-27）　|　**所在清单**：A优质名单(阿联酋 沙特阿拉伯)、AI评估(阿联酋 沙特阿拉伯)·DONE、S重点　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：分销商/网店（线缆·网络·太阳能）（推断）　|　**历史关系**：成交/下单过；实质回复 2 次；WhatsApp 已加；推送 36 次（2024-05-07 → 2025-11-27）　|　**所在清单**：A优质名单(阿联酋 沙特阿拉伯)、AI评估(阿联酋 沙特阿拉伯)·DONE、S重点、成交(PI)、Simon:可发展　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-001
 rating: A
 rating_auto: A
+rating_research: A  # PI 包成单客户，Simon 标签 可发展 → A
 name_official: "Astel Digicom（asteldigicom.com，关联 AVSS Group）"
 score: 164
 country: 阿联酋
 region: 中东
 website: asteldigicom.com
 type: 分销商/网店（线缆·网络·太阳能）
-tier_tags: ["A优质名单(阿联酋 沙特阿拉伯)", "AI评估(阿联酋 沙特阿拉伯)·DONE", "S重点"]
+tier_tags: ["A优质名单(阿联酋 沙特阿拉伯)", "AI评估(阿联酋 沙特阿拉伯)·DONE", "S重点", "成交(PI)", "Simon:可发展"]
 deal: yes
 replies: 2
 followups: 36
@@ -32,8 +33,8 @@ updated: 2026-10-22
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：阿联酋线上/线下经销商，自称「House of all kinds of cables and connectors」，网店品类为线缆、连接器、网络产品；2026 年首页主推 Deye/Inverex 储能电池与太阳能产品，网络产品仍在目录内（用户备注的工业 MC/工业交换机页面）。GM Sanjay Singla 已成单。（调研 2026-10-21；表内兴趣：ONV的工业FS  有工业电源 https://asteldigicom.com/industrial-media-converters-unmanaged-full-gigabit-8-port-with-sfp-ports.-a.htm）
-- **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+30 实质回复 2 次（问价/要资料/问型号等）；+25 在 Simon 的 S 重点名单；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025；+5 跟进表最近平台标记 S
+- **是谁**：阿联酋线上/线下经销商，自称「House of all kinds of cables and connectors」，网店品类为线缆、连接器、网络产品；2026 年首页主推 Deye/Inverex 储能电池与太阳能产品，网络产品仍在目录内（用户备注的工业 MC/工业交换机页面）。GM Sanjay Singla 已成单。（调研 2026-10-22；表内兴趣：ONV的工业FS  有工业电源 https://asteldigicom.com/industrial-media-converters-unmanaged-full-gigabit-8-port-with-sfp-ports.-a.htm）
+- **为什么是 A 级**：**调研后定级 A**（PI 包成单客户，Simon 标签 可发展 → A）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+30 实质回复 2 次（问价/要资料/问型号等）；+25 在 Simon 的 S 重点名单；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：成交/下单过；实质回复 2 次；WhatsApp 已加；推送 36 次（2024-05-07 → 2025-11-27）；最近一次客户回复：2025-01-06：profile
 - **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：其主力 AST-IMC-GB-POE-8E2U2S-PSE（8 GE PoE + 2 SFP 工业）与 STI-288DGGPM 同位，自有品牌贴牌 30% 档；千兆 MC 对位 STI-110GE；10G L3 工业机需 SmartByte 另核；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -53,7 +54,7 @@ updated: 2026-10-22
 | 兴趣（Interested in） | ONV的工业FS  有工业电源<br>https://asteldigicom.com/industrial-media-converters-unmanaged-full-gigabit-8-port-with-sfp-ports.-a.html / VC<br>网站上有Whatsapp按钮 | 事实（用户表） |
 | 用户备注（Remark） | 971-50-652 0753 <br>网站上的 已加 / https://avssgroup.com/products.html | 事实（用户表） |
 | 用户 AI 评估 | AI 50% A | 事实（用户表 AI评估结果/CALUDE评估结果列） |
-| 所在清单 | A优质名单(阿联酋 沙特阿拉伯)、AI评估(阿联酋 沙特阿拉伯)·DONE、S重点 | 事实（文件路径） |
+| 所在清单 | A优质名单(阿联酋 沙特阿拉伯)、AI评估(阿联酋 沙特阿拉伯)·DONE、S重点、成交(PI)、Simon:可发展 | 事实（文件路径） |
 | 在卖/在用品牌（备注所见） | ONV, FS | 事实（用户备注）/ 推断 |
 
 ### 用户 AI / Claude 评估原文
@@ -67,7 +68,7 @@ updated: 2026-10-22
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：在线（Magento 网店）
+- **状态：已调研（2026-10-22）**　网站状态：在线（Magento 网店）
 - **是谁**：阿联酋线上/线下经销商，自称「House of all kinds of cables and connectors」，网店品类为线缆、连接器、网络产品；2026 年首页主推 Deye/Inverex 储能电池与太阳能产品，网络产品仍在目录内（用户备注的工业 MC/工业交换机页面）。GM Sanjay Singla 已成单。
 - **类型**：分销商/网店（线缆·网络·太阳能）
 - **规模**：未见规模数据（网店型中小经销商）
@@ -84,6 +85,12 @@ updated: 2026-10-22
 - **【官网】AST-IMC-POE-8E2U2S-PSE 网店价 AED 575 有库存；10G L3 工业 PoE AED 1,375**
   > INDUSTRIAL SWITCH UNMANAGED 8 PORT POE WITH 2 UPLINK AND 2 FIBER PORTS AED575.00 In stock … Industrial PoE Switch 16 Port 10G L3 Managed AED1,375.00 In stock
   > 来源：https://asteldigicom.com/industrial-poe-switch-16-port-10g-l3-managed.-a.html（抓取 2026-10-21）
+- **【PI】成交单据 STAG20251127018（PI，2025-11-27）：HDR-15-24、STI-110GE、STI-140GE 共 8 台，USD 166.0；采购 SmartByte RMB 934.0；Simon 成本表利润 RMB 267.75**
+  > 来源：PI.zip:18 阿联酋 Sanjay 可发展/STAG20251127018.xls（抓取 2025-11-27）
+- **【PI】PI 包文件夹「阿联酋 Sanjay 可发展」：Simon 标签 可发展；单号 1 个，2025-11-27 → 2025-11-27，销售 USD 166.0 / RMB 0，Simon 成本统计利润合计 RMB 267.75**
+  > 来源：PI.zip:18 阿联酋 Sanjay 可发展（抓取 2026-10-22）
+- **KP**：Sanjay Singla（General Manager）asteldigicom@eim.ae; navsim@eim.ae 〔PI.zip 单据〕
+- **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 可发展 → A
 - 备注：成单客户，S 重点名单；下一步按老客户回访做，主推工业 PoE 整线（替代其在卖的 ONV）。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
@@ -177,6 +184,17 @@ updated: 2026-10-22
 | 2025-10-29 | 1029 | dac |  | S |  | S 09.08.xlsx#3 |
 | 2025-11-27 | 1127 | solar |  | S |  | S 09.08.xlsx#3 |
 
+## 成交记录（PI 包 · 自动汇总）
+
+- **Simon 的标签**（PI 包文件夹名）：**可发展**　|　买方抬头：ASTEL DIGICOM Electronics LLC
+- **单号** 1 个（2025-11-27 → 2025-11-27）　|　**销售** USD 166　|　**Simon 成本表利润** RMB 268
+
+| 单号 | 日期 | 单据 | 型号 | 数量 | 金额 | 采购（卖方 / RMB） | Simon 成本表（成本 / 收款 / 利润 RMB） |
+|---|---|---|---|---|---|---|---|
+| STAG20251127018 | 2025-11-27 | PI | HDR-15-24、STI-110GE、STI-140GE | 8 | USD 166.0 | SmartByte / 934.0 | 934 / 1201.75 / 267.75 |
+
+> 口径：同一单号多份文件取 CI > PI（最新修订）> Quotation；Quotation 行不计入销售合计；明细见 `data/pi_orders/销售单据明细.csv`、采购价见 `采购合同明细.csv`；原件在 Release `files-pi_2026-10`。
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom　|　**邮件**：28 封（去 22 / 来 6）　|　**期间**：2024-06-29 → 2025-12-01　|　**最后去信**：2025-11-27
@@ -215,7 +233,7 @@ updated: 2026-10-22
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Sanjay Singla | — | asteldig@asteldigicom.ae / asteldigicom@eim.ae / +971506520753 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| Sanjay Singla | General Manager | asteldigicom@eim.ae; navsim@eim.ae | 调研核实（公开页） | PI.zip 单据 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

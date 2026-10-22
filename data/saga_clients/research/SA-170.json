@@ -1,0 +1,134 @@
+{
+ "code": "SA-170",
+ "name_official": "Biz - Ethics Ltd.",
+ "website_status": "",
+ "summary": "已成单 12 个单号（2024-09-08 → 2026-08-30，RMB 单据合计 ≈101k，货代走账）；SmartByte + HRUI + Hohunet 三家都采购过；Simon 标签：活跃 · 货代走账 · 轻度绑定；详见 research/SA-170.json",
+ "type": "网络设备经销/自有品牌 BNSC-（拉各斯）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20240908012（CI，2024-09-08）：STC-228GP、STC-28GPM、STC-424DGGPM 共 42 台，RMB 25245.0；采购 HRUI、SmartByte RMB 18250.0",
+   "quote": "",
+   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/CI.xls",
+   "date": "2024-09-08"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20241201012（PI，2024-12-01）：STC-424DGGPM 共 5 台，RMB 8650.0；采购 SmartByte RMB 3750.0",
+   "quote": "",
+   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STSC20241201012.xls",
+   "date": "2024-12-01"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STEC20250302012（PI，2025-03-02）：STC-28GPM、STC-424DGGPM 共 13 台，RMB 7725.0",
+   "quote": "",
+   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20250302012_R2.xls",
+   "date": "2025-03-02"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STEC20250609012（PI，2025-06-09）：STC-28GPM、STC-424DGGPM 共 7 台，RMB 5645.0；采购 SmartByte RMB 3175.0",
+   "quote": "",
+   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20250609012.xls",
+   "date": "2025-06-09"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STEC20250917012（PI，2025-09-17）：STC-28GPM 共 15 台，RMB 5775.0；采购 HRUI RMB 5025.0",
+   "quote": "",
+   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20250917012.xls",
+   "date": "2025-09-17"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STEC20250930012（PI，2025-09-30）：STC-4168XGGCM、STC-424XGGM 共 4 台，RMB 7700.0；采购 SmartByte RMB 6440.0",
+   "quote": "",
+   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20250930012.xls",
+   "date": "2025-09-30"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STEC20251016012（PI，2025-10-16）：BNSC-424DGDPM、STC-424DGGPM 共 1 台，RMB 860.0；采购 SmartByte RMB 760.0",
+   "quote": "",
+   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20251016012.xls",
+   "date": "2025-10-16"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STEC20251121012（PI，2025-11-21）：BNSC-28GPM、STC-28GPM 共 13 台，RMB 5005.0；采购 HRUI RMB 4355.0",
+   "quote": "",
+   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20251121012.xls",
+   "date": "2025-11-21"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STEC20251123012（PI，2025-11-23）：BNSC-4168XGGCM、STC-4168XGGCM、STC-424XGGPM-280W、STH-2C24XF-SFI 共 11 台，RMB 26050.0；采购 Hohunet、SmartByte RMB 17770.0",
+   "quote": "",
+   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20251123012.xls",
+   "date": "2025-11-23"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STEC20260618012（PI，2026-06-18）：BNSC-28GPM、STC-28GPM 共 5 台，RMB 2040.0；采购 HRUI RMB 1775.5",
+   "quote": "",
+   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20260618012.xls",
+   "date": "2026-06-18"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STEC20260718012（PI，2026-07-18）：BNSC-28GPM、STC-28GPM 共 2 台，RMB 816.0；采购 HRUI RMB 710.2",
+   "quote": "",
+   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20260718012.xls",
+   "date": "2026-07-18"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STEC20260830012（PI，2026-08-30）：BNSC-28GPM、BNSC-424DGDPM、STC-28GPM、STC-424DGGPM 共 13 台，RMB 5842.0；采购 SmartByte RMB 765.0",
+   "quote": "",
+   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20260830012.xls",
+   "date": "2026-08-30"
+  },
+  {
+   "kind": "PI",
+   "claim": "PI 包文件夹「尼日利亚 Mbata 活跃 货代走账 轻度绑定」：Simon 标签 活跃，收款 货代走账，轻度绑定；单号 12 个，2024-09-08 → 2026-08-30，销售 USD 0 / RMB 101353.0，Simon 成本统计利润合计 RMB 0",
+   "quote": "",
+   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定",
+   "date": "2026-10-22"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Valentine Mbata",
+   "role": "单据联系人",
+   "email": "info@belnetworks.com",
+   "phone": "",
+   "source": "PI.zip 单据"
+  }
+ ],
+ "notes": "",
+ "researched_at": "2026-10-22",
+ "deal_pi": {
+  "folder": "12 尼日利亚 Mbata 活跃 货代走账 轻度绑定",
+  "simon_label": "活跃",
+  "pay": "货代走账",
+  "bind": "轻度绑定",
+  "buyer": "Biz - Ethics Ltd.",
+  "orders": 12,
+  "first": "2024-09-08",
+  "last": "2026-08-30",
+  "usd": 0.0,
+  "rmb": 101353.0,
+  "profit_rmb": 0.0,
+  "models": "BNSC-28GPM、BNSC-4168XGGCM、BNSC-424DGDPM、STC-228GP、STC-28GPM、STC-4168XGGCM、STC-424DGGPM、STC-424XGGM、STC-424XGGPM-280W、STH-2C24XF-SFI"
+ },
+ "saga_fit": {
+  "p1": "",
+  "tier": 20,
+  "why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
+ },
+ "grade_override": "A",
+ "override_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）"
+}

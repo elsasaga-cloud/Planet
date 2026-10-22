@@ -1,13 +1,13 @@
 # 52networks.com
 **官方名称（调研核实）**：52 Networks, Inc.（Woodbridge, Virginia, USA）
 
-> **评级 A**　|　美国　|　档案编号 `SA-064`　|　优先级 ★★★　|　状态：成交过·维护
+> **评级 B**　|　美国　|　档案编号 `SA-064`　|　优先级 ★★　|　状态：成交过·已凉（Simon: gg）
 >
-> **类型**：经销商（政府/商业小单，已成交）（推断）　|　**历史关系**：成交/下单过；推送 7 次（2025-02-22 → 2025-09-17）　|　**所在清单**：A优质名单(US)、AI评估(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：经销商（政府/商业小单，已成交）（推断）　|　**历史关系**：成交/下单过；推送 7 次（2025-02-22 → 2025-09-17）　|　**所在清单**：A优质名单(US)、AI评估(US)、成交(PI)、Simon:gg、PayPal　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-064
-rating: A
+rating: B
 rating_auto: A
 name_official: "52 Networks, Inc.（Woodbridge, Virginia, USA）"
 score: 77
@@ -15,7 +15,7 @@ country: 美国
 region: 北美
 website: 52networks.com
 type: 经销商（政府/商业小单，已成交）
-tier_tags: ["A优质名单(US)", "AI评估(US)"]
+tier_tags: ["A优质名单(US)", "AI评估(US)", "成交(PI)", "Simon:gg", "PayPal"]
 deal: yes
 replies: 0
 followups: 7
@@ -32,13 +32,13 @@ updated: 2026-10-22
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：弗吉尼亚的小型网络线缆与配件经销商（2018 年成立，1–10 人，年收入 <$1M），SBA 认证小型弱势企业，持 GSA 合同（47QTCA22D00B3），代理 C2G、Tripp Lite、Transition、Perle、StarTech，供货商业与政府客户；类目含光纤跳线、MC、交换机。用户表：A 优质名单(US)，备注「已成单」；兴趣 MC / SFP / 无源产品。（调研 2026-10-21；表内兴趣：MC SFP 无源产品）
-- **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+2 兴趣仅 MC/SFP/配件（边缘品类）；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
+- **是谁**：弗吉尼亚的小型网络线缆与配件经销商（2018 年成立，1–10 人，年收入 <$1M），SBA 认证小型弱势企业，持 GSA 合同（47QTCA22D00B3），代理 C2G、Tripp Lite、Transition、Perle、StarTech，供货商业与政府客户；类目含光纤跳线、MC、交换机。用户表：A 优质名单(US)，备注「已成单」；兴趣 MC / SFP / 无源产品。（调研 2026-10-22；表内兴趣：MC SFP 无源产品）
+- **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+2 兴趣仅 MC/SFP/配件（边缘品类）；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：成交/下单过；推送 7 次（2025-02-22 → 2025-09-17）
 - **P1（下一步唯一主推）**：STI-110GE — 深挖对位：已成单 + 网店有 27 款 MC 类目 → 千兆 MC（STI-110GE）作为网店 SKU 补位；8 口 PoE（STC-28DGGPM）进 Network Hardware 类目；电商 20% 档；TAA 需求一律不报；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -53,7 +53,7 @@ updated: 2026-10-22
 | 兴趣（Interested in） | MC SFP 无源产品 | 事实（用户表） |
 | 用户备注（Remark） | — | 事实（用户表） |
 | 用户 AI 评估 | AI 20% B | 事实（用户表 AI评估结果/CALUDE评估结果列） |
-| 所在清单 | A优质名单(US)、AI评估(US) | 事实（文件路径） |
+| 所在清单 | A优质名单(US)、AI评估(US)、成交(PI)、Simon:gg、PayPal | 事实（文件路径） |
 | 在卖/在用品牌（备注所见） | — | 事实（用户备注）/ 推断 |
 
 ### 用户 AI / Claude 评估原文
@@ -67,7 +67,7 @@ updated: 2026-10-22
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：在线
+- **状态：已调研（2026-10-22）**　网站状态：在线
 - **是谁**：弗吉尼亚的小型网络线缆与配件经销商（2018 年成立，1–10 人，年收入 <$1M），SBA 认证小型弱势企业，持 GSA 合同（47QTCA22D00B3），代理 C2G、Tripp Lite、Transition、Perle、StarTech，供货商业与政府客户；类目含光纤跳线、MC、交换机。用户表：A 优质名单(US)，备注「已成单」；兴趣 MC / SFP / 无源产品。
 - **类型**：经销商（政府/商业小单，已成交）
 - **规模**：1–10 人；<$1M（govtribe）
@@ -81,8 +81,13 @@ updated: 2026-10-22
 - **【官网】网店类目：MC 27 款、网络硬件 20 款、光纤跳线 35 款、批量网线 91 款；2026-09-11 更新**
   > Bulk Ethernet Cables 91 products … Fiber Optics Patch Cords 35 products … Network Hardware 20 products … Media Converters 27 products … admin_52 2026-09-11
   > 来源：https://52networks.com/（抓取 2026-10-21）
+- **【PI】成交单据 STAG20250718016（CI，2025-07-18）：NDR-240-48、STI-288GP 共 4 台，USD 285.0；Simon 成本表利润 RMB 914.31**
+  > 来源：PI.zip:16 美国 John PayPal gg/CI.xls（抓取 2025-07-18）
+- **【PI】PI 包文件夹「美国 John PayPal gg」：Simon 标签 gg，收款 PayPal；单号 1 个，2025-07-18 → 2025-07-18，销售 USD 285.0 / RMB 0，Simon 成本统计利润合计 RMB 914.31**
+  > 来源：PI.zip:16 美国 John PayPal gg（抓取 2026-10-22）
 - **KP**：Uzair（GSA 登记联系人）（负责人）uzair@52networks.com +1 571-402-8369〔https://www.gsaelibrary.gsa.gov/ElibMain/home.do/contractorInfo.do?contractNumber=47QTCA22D00B3&contractorName=52+NETWORKS,+INC.&executeQuery=YES〕
 - **KP**：—（销售邮箱（用户表））sales@52networks.com +1 757-799-1359〔https://52networks.com/contact-us/〕
+- **KP**：John Davis（单据联系人）sales@52networks.com 〔PI.zip 单据〕
 - 备注：A 维持（已成交 + 美国 + 名字明确）但体量小；守界：其 GSA/联邦渠道受 TAA 约束——中国产品只报商业客户用途，不做 GSA 目录承诺；P1 = STI-110GE（MC）复购，20% 经销档。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
@@ -142,6 +147,17 @@ updated: 2026-10-22
 | ? | 1.18 | 24fiber |  | Email |  | US.xlsx#78 |
 | ? | 67 | PoE |  | A |  | US.xlsx#78 |
 
+## 成交记录（PI 包 · 自动汇总）
+
+- **Simon 的标签**（PI 包文件夹名）：**gg**　|　收款：PayPal　|　买方抬头：52 Networks Inc.
+- **单号** 1 个（2025-07-18 → 2025-07-18）　|　**销售** USD 285　|　**Simon 成本表利润** RMB 914
+
+| 单号 | 日期 | 单据 | 型号 | 数量 | 金额 | 采购（卖方 / RMB） | Simon 成本表（成本 / 收款 / 利润 RMB） |
+|---|---|---|---|---|---|---|---|
+| STAG20250718016 | 2025-07-18 | CI | NDR-240-48、STI-288GP | 4 | USD 285.0 | — | 995.69 / 1910 / 914.31 |
+
+> 口径：同一单号多份文件取 CI > PI（最新修订）> Quotation；Quotation 行不计入销售合计；明细见 `data/pi_orders/销售单据明细.csv`、采购价见 `采购合同明细.csv`；原件在 Release `files-pi_2026-10`。
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom　|　**邮件**：1 封（去 1 / 来 0）　|　**期间**：2025-01-17 → 2025-01-17　|　**最后去信**：2025-01-17
@@ -166,6 +182,7 @@ updated: 2026-10-22
 |---|---|---|---|---|
 | Uzair（GSA 登记联系人） | 负责人 | uzair@52networks.com / +1 571-402-8369 | 调研核实（公开页） | https://www.gsaelibrary.gsa.gov/ElibMain/home.do/contractorInfo.do?contractNumber=47QTCA22D00B3&contractorName=52+NETWORKS,+INC.&executeQuery=YES |
 | — | 销售邮箱（用户表） | sales@52networks.com / +1 757-799-1359 | 调研核实（公开页） | https://52networks.com/contact-us/ |
+| John Davis | 单据联系人 | sales@52networks.com | 调研核实（公开页） | PI.zip 单据 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -196,7 +213,7 @@ updated: 2026-10-22
 - **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STI-110GE）；只问一个问题：当前在采购的主力型号与月量。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
-- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
@@ -223,7 +240,7 @@ updated: 2026-10-22
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ✅ 有成交史（量待确认） |
-| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -240,7 +257,7 @@ Thank you again for your earlier order with us - this is a short update rather t
 
 We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as your 52Networks 店内（C2G/Tripp Lite/Transition/Perle/StarTech 代理） Media Converters 类目 27 款 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $22.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
+One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 
 If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
@@ -261,11 +278,11 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-05**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 77）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 77）；人工/调研定级 → B
 
 ---
 

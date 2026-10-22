@@ -1,0 +1,282 @@
+{
+ "说明": "PI 包 20 个客户文件夹 → 客户名单编号；keys = build.py 预分级前用来匹配实体的稳定键（d:域名 / e:邮箱）；new=True 的是补录客户（编号在 编号登记.json 预登记）；simon = Simon 文件夹名里的标签（活跃/可发展/gg）",
+ "map": {
+  "1": {
+   "code": "SB-335",
+   "keys": [
+    "d:dc.ge"
+   ],
+   "folder": "1 格鲁吉亚 George gg",
+   "label": "格鲁吉亚 George gg",
+   "simon": "gg",
+   "pay": "",
+   "bind": "",
+   "buyer": "DELTA CONSULTING LLC",
+   "country": "格鲁吉亚"
+  },
+  "2": {
+   "code": "SB-1334",
+   "keys": [
+    "d:fastball.in"
+   ],
+   "new": true,
+   "grade": "B",
+   "folder": "2 印度 Rishi gg",
+   "label": "印度 Rishi gg",
+   "simon": "gg",
+   "pay": "",
+   "bind": "",
+   "buyer": "Fastball",
+   "country": "印度"
+  },
+  "3": {
+   "code": "SC-349",
+   "keys": [
+    "e:pythiask@gmail.com"
+   ],
+   "folder": "3  赞比亚 Pythias gg",
+   "label": "赞比亚 Pythias gg",
+   "simon": "gg",
+   "pay": "",
+   "bind": "",
+   "buyer": "Obmac Systems",
+   "country": "赞比亚"
+  },
+  "4": {
+   "code": "SA-026",
+   "keys": [
+    "d:bitbuk.ru",
+    "d:bitbook.ru"
+   ],
+   "folder": "4 俄罗斯 Andrey 货代走账 可发展",
+   "label": "俄罗斯 Andrey 货代走账 可发展",
+   "simon": "可发展",
+   "pay": "货代走账",
+   "bind": "",
+   "buyer": "BitBook LLC",
+   "country": "俄罗斯"
+  },
+  "5": {
+   "code": "SA-016",
+   "keys": [
+    "d:unitedcontrolengg.com"
+   ],
+   "folder": "5 印度 Rajesh gg",
+   "label": "印度 Rajesh gg",
+   "simon": "gg",
+   "pay": "",
+   "bind": "",
+   "buyer": "UNITED CONTROL ENGINEERS INDIA PRIVATE LIMITED",
+   "country": "印度"
+  },
+  "6": {
+   "code": "SA-011",
+   "keys": [
+    "d:vilinknet.com",
+    "d:vi-link.net"
+   ],
+   "folder": "6 美国 Thu 可发展",
+   "label": "美国 Thu 可发展",
+   "simon": "可发展",
+   "pay": "",
+   "bind": "",
+   "buyer": "Vi-Link, Inc.",
+   "country": "美国"
+  },
+  "7": {
+   "code": "SA-168",
+   "keys": [
+    "d:angoranetworks.com"
+   ],
+   "folder": "7 土耳其 Levent 活跃 Xtransfer 轻度绑定",
+   "label": "土耳其 Levent 活跃 Xtransfer 轻度绑定",
+   "simon": "活跃",
+   "pay": "Xtransfer",
+   "bind": "轻度绑定",
+   "buyer": "ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+   "country": "土耳其"
+  },
+  "8": {
+   "code": "SB-1335",
+   "keys": [
+    "e:rio-popov@mail.ru"
+   ],
+   "new": true,
+   "grade": "B",
+   "folder": "8 俄罗斯 Igor gg",
+   "label": "俄罗斯 Igor gg",
+   "simon": "gg",
+   "pay": "",
+   "bind": "",
+   "buyer": "«Rio-Import» LLC",
+   "country": "俄罗斯"
+  },
+  "9": {
+   "code": "SA-007",
+   "keys": [
+    "d:xspec.com.my",
+    "d:xspectechnology.com"
+   ],
+   "folder": "9 马来西亚 Sugito gg",
+   "label": "马来西亚 Sugito gg",
+   "simon": "gg",
+   "pay": "",
+   "bind": "",
+   "buyer": "XSPec Hospitech Sdn Bhd",
+   "country": "马来西亚"
+  },
+  "10": {
+   "code": "SA-169",
+   "keys": [
+    "d:clendenan.ca"
+   ],
+   "new": true,
+   "grade": "A",
+   "folder": "10 加拿大 James 活跃 Xtransfer 轻度绑定",
+   "label": "加拿大 James 活跃 Xtransfer 轻度绑定",
+   "simon": "活跃",
+   "pay": "Xtransfer",
+   "bind": "轻度绑定",
+   "buyer": "James Clendenan Systems Ltd.",
+   "country": "加拿大"
+  },
+  "11": {
+   "code": "SA-006",
+   "keys": [
+    "d:resonantnetworks.com"
+   ],
+   "folder": "11 新加坡 Au gg",
+   "label": "新加坡 Au gg",
+   "simon": "gg",
+   "pay": "",
+   "bind": "",
+   "buyer": "Resonant Networks Pte Ltd",
+   "country": "新加坡"
+  },
+  "12": {
+   "code": "SA-170",
+   "keys": [
+    "d:belnetworks.com"
+   ],
+   "new": true,
+   "grade": "A",
+   "folder": "12 尼日利亚 Mbata 活跃 货代走账 轻度绑定",
+   "label": "尼日利亚 Mbata 活跃 货代走账 轻度绑定",
+   "simon": "活跃",
+   "pay": "货代走账",
+   "bind": "轻度绑定",
+   "buyer": "Biz - Ethics Ltd.",
+   "country": "尼日利亚"
+  },
+  "13": {
+   "code": "SA-171",
+   "keys": [
+    "e:pomnong9@gmail.com"
+   ],
+   "new": true,
+   "grade": "A",
+   "folder": "13 泰国 Peeranun 活跃 货代走账 轻度绑定",
+   "label": "泰国 Peeranun 活跃 货代走账 轻度绑定",
+   "simon": "活跃",
+   "pay": "货代走账",
+   "bind": "轻度绑定",
+   "buyer": "PBA Forever Technology CO., LTD.",
+   "country": "泰国"
+  },
+  "14": {
+   "code": "SA-049",
+   "keys": [
+    "d:sundartechno.com"
+   ],
+   "folder": "14 印度 Manoj 可发展",
+   "label": "印度 Manoj 可发展",
+   "simon": "可发展",
+   "pay": "",
+   "bind": "",
+   "buyer": "Sundar Techno Solutions",
+   "country": "印度"
+  },
+  "15": {
+   "code": "SA-013",
+   "keys": [
+    "d:nynex.de",
+    "d:fiberone.de"
+   ],
+   "folder": "15 德国 Frederik 活跃 Xtransfer 可发展",
+   "label": "德国 Frederik 活跃 Xtransfer 可发展",
+   "simon": "活跃",
+   "pay": "Xtransfer",
+   "bind": "",
+   "buyer": "NYNEX satellite OHG",
+   "country": "德国"
+  },
+  "16": {
+   "code": "SA-064",
+   "keys": [
+    "d:52networks.com"
+   ],
+   "folder": "16 美国 John PayPal gg",
+   "label": "美国 John PayPal gg",
+   "simon": "gg",
+   "pay": "PayPal",
+   "bind": "",
+   "buyer": "52 Networks Inc.",
+   "country": "美国"
+  },
+  "17": {
+   "code": "SA-012",
+   "keys": [
+    "d:gogreenit.net"
+   ],
+   "folder": "17 英国 Chris PayPal 可发展",
+   "label": "英国 Chris PayPal 可发展",
+   "simon": "可发展",
+   "pay": "PayPal",
+   "bind": "",
+   "buyer": "GOGREENIT",
+   "country": "英国"
+  },
+  "18": {
+   "code": "SA-001",
+   "keys": [
+    "d:asteldigicom.com",
+    "d:asteldigicom.ae"
+   ],
+   "folder": "18 阿联酋 Sanjay 可发展",
+   "label": "阿联酋 Sanjay 可发展",
+   "simon": "可发展",
+   "pay": "",
+   "bind": "",
+   "buyer": "ASTEL DIGICOM Electronics LLC",
+   "country": "阿联酋"
+  },
+  "19": {
+   "code": "SC-1006",
+   "keys": [
+    "d:live.com.my",
+    "e:rajaking@live.com.my",
+    "e:rajaking@outlook.com"
+   ],
+   "folder": "19 马来西亚 Raja 可发展",
+   "label": "马来西亚 Raja 可发展",
+   "simon": "可发展",
+   "pay": "",
+   "bind": "",
+   "buyer": "WIZARDSINC SDN BHD",
+   "country": "马来西亚"
+  },
+  "20": {
+   "code": "SB-473",
+   "keys": [
+    "d:netas.com.tr"
+   ],
+   "folder": "20 土耳其 Burak 活跃 Xtransfer 轻度绑定",
+   "label": "土耳其 Burak 活跃 Xtransfer 轻度绑定",
+   "simon": "活跃",
+   "pay": "Xtransfer",
+   "bind": "轻度绑定",
+   "buyer": "NETAŞ Telekomünikasyon A.Ş.",
+   "country": "土耳其"
+  }
+ }
+}

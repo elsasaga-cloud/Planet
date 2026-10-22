@@ -1,0 +1,57 @@
+{
+ "code": "SB-1334",
+ "name_official": "Fastball",
+ "website_status": "",
+ "summary": "已成单 1 次（STSC20231009002，2023-10-09）；Simon 文件夹标签 gg（已凉）；详见 research/SB-1334.json",
+ "type": "经销/贸易（德里）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20231009002（CI，2023-10-09）：型号见单据 共 80 台，USD 260.0；Simon 成本表利润 RMB 553.48",
+   "quote": "",
+   "url": "PI.zip:2 印度 Rishi gg/CI.xls",
+   "date": "2023-10-09"
+  },
+  {
+   "kind": "PI",
+   "claim": "PI 包文件夹「印度 Rishi gg」：Simon 标签 gg；单号 1 个，2023-10-09 → 2023-10-09，销售 USD 260.0 / RMB 0，Simon 成本统计利润合计 RMB 553.48",
+   "quote": "",
+   "url": "PI.zip:2 印度 Rishi gg",
+   "date": "2026-10-22"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Rishi Kumar Bansal",
+   "role": "单据联系人",
+   "email": "office@fastball.in",
+   "phone": "",
+   "source": "PI.zip 单据"
+  }
+ ],
+ "notes": "",
+ "researched_at": "2026-10-22",
+ "deal_pi": {
+  "folder": "2 印度 Rishi gg",
+  "simon_label": "gg",
+  "pay": "",
+  "bind": "",
+  "buyer": "Fastball",
+  "orders": 1,
+  "first": "2023-10-09",
+  "last": "2023-10-09",
+  "usd": 260.0,
+  "rmb": 0.0,
+  "profit_rmb": 553.48,
+  "models": ""
+ },
+ "saga_fit": {
+  "p1": "",
+  "tier": 20,
+  "why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
+ },
+ "grade_override": "B",
+ "override_reason": "PI 包成单客户，Simon 标签 gg：gg（已凉）→ B（成交过·慢慢跟进）"
+}

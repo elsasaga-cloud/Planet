@@ -37,12 +37,26 @@
    "quote": "Go Green IT offers an IT equipment disposal service, where we aim to refurbish and reuse as many components as possible … We will adhere to the WEEE T11 exemption for repairing and refurbishing items",
    "url": "http://www.gogreenit.net/index.php?page=EquipmentRecycling",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STAG20250823017（CI，2025-08-23）：STI-42424XGGPM-4BT 共 1 台，USD 588.0；采购 SmartByte RMB 2912.0；Simon 成本表利润 RMB 1125.94",
+   "quote": "",
+   "url": "PI.zip:17 英国 Chris PayPal 可发展/CI.xls",
+   "date": "2025-08-23"
+  },
+  {
+   "kind": "PI",
+   "claim": "PI 包文件夹「英国 Chris PayPal 可发展」：Simon 标签 可发展，收款 PayPal；单号 1 个，2025-08-23 → 2025-08-23，销售 USD 588.0 / RMB 0，Simon 成本统计利润合计 RMB 1125.94",
+   "quote": "",
+   "url": "PI.zip:17 英国 Chris PayPal 可发展",
+   "date": "2026-10-22"
   }
  ],
- "grade_override": "B",
- "override_reason": "小型 IT 服务公司，一次性项目需求（90W bt 工业 PoE），无渠道属性与复购逻辑；B 慢跟。",
+ "grade_override": "A",
+ "override_reason": "小型 IT 服务公司，一次性项目需求（90W bt 工业 PoE），无渠道属性与复购逻辑；B 慢跟。；PI 包成单客户，Simon 标签 可发展 → A",
  "notes": "",
- "researched_at": "2026-10-21",
+ "researched_at": "2026-10-22",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（官网公开评测核对）"
@@ -88,5 +102,28 @@
   "tier": 25,
   "why": "已购 STI-42424XGGPM-4BT 自用；后续仅可能补 STI-144GP / STI-288DGGPM 小机；主要动作是征得评测引用许可 + 回传固件反馈"
  },
- "email_hook": "Thank you for the write-up on the STI-42424XGGPM-4BT; I have passed the two points (line-count memory in the UI and SFP speed auto-detect) to our firmware team, and would like to ask whether we may quote your review when talking to other UK customers."
+ "email_hook": "Thank you for the write-up on the STI-42424XGGPM-4BT; I have passed the two points (line-count memory in the UI and SFP speed auto-detect) to our firmware team, and would like to ask whether we may quote your review when talking to other UK customers.",
+ "deal_pi": {
+  "folder": "17 英国 Chris PayPal 可发展",
+  "simon_label": "可发展",
+  "pay": "PayPal",
+  "bind": "",
+  "buyer": "GOGREENIT",
+  "orders": 1,
+  "first": "2025-08-23",
+  "last": "2025-08-23",
+  "usd": 588.0,
+  "rmb": 0.0,
+  "profit_rmb": 1125.94,
+  "models": "STI-42424XGGPM-4BT"
+ },
+ "kp": [
+  {
+   "name": "Chris Clemson",
+   "role": "单据联系人",
+   "email": "info@gogreenit.net",
+   "phone": "",
+   "source": "PI.zip 单据"
+  }
+ ]
 }

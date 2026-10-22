@@ -1,21 +1,22 @@
 # sundartechno.com
 **官方名称（调研核实）**：Sundar Techno Solutions（STS, Bangalore, India）
 
-> **评级 A**　|　印度　|　档案编号 `SA-049`　|　优先级 ★★★　|　状态：成交过·维护
+> **评级 A**　|　印度　|　档案编号 `SA-049`　|　优先级 ★★★　|　状态：成交过·可发展（Simon）
 >
-> **类型**：方案商/自有品牌贴牌（成交客户）（推断）　|　**历史关系**：成交/下单过；WhatsApp 已加　|　**所在清单**：WA跟进　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：方案商/自有品牌贴牌（成交客户）（推断）　|　**历史关系**：成交/下单过；WhatsApp 已加　|　**所在清单**：WA跟进、成交(PI)、Simon:可发展　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-049
 rating: A
 rating_auto: A
+rating_research: A  # PI 包成单客户，Simon 标签 可发展 → A
 name_official: "Sundar Techno Solutions（STS, Bangalore, India）"
 score: 82
 country: 印度
 region: 南亚
 website: sundartechno.com
 type: 方案商/自有品牌贴牌（成交客户）
-tier_tags: ["WA跟进"]
+tier_tags: ["WA跟进", "成交(PI)", "Simon:可发展"]
 deal: yes
 replies: 0
 followups: 0
@@ -32,8 +33,8 @@ updated: 2026-10-22
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：班加罗尔的工业自动化/嵌入式计算方案商与「Make in India」制造商（2019 年 GST 注册，独资，2–10/11–25 人，年营业额 5–25 千万卢比口径不一），自有 STS 品牌工业交换机（IndiaMART 列 STS-5000-UM-ES）、面板 PC、KVM；合作 IBASE、Volktek（台湾）；客户含国防、航天、铁路、智慧城市。用户表：CEO Manoj Kumar N 2023-06 成单（2×2 bypass 工业 FS 100 台需求），WhatsApp 已加；此后无跟进记录（陈旧）。（调研 2026-10-21；表内兴趣：工业FS 中科德能的；2*2 bypass 100个）
-- **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
+- **是谁**：班加罗尔的工业自动化/嵌入式计算方案商与「Make in India」制造商（2019 年 GST 注册，独资，2–10/11–25 人，年营业额 5–25 千万卢比口径不一），自有 STS 品牌工业交换机（IndiaMART 列 STS-5000-UM-ES）、面板 PC、KVM；合作 IBASE、Volktek（台湾）；客户含国防、航天、铁路、智慧城市。用户表：CEO Manoj Kumar N 2023-06 成单（2×2 bypass 工业 FS 100 台需求），WhatsApp 已加；此后无跟进记录（陈旧）。（调研 2026-10-22；表内兴趣：工业FS 中科德能的；2*2 bypass 100个）
+- **为什么是 A 级**：**调研后定级 A**（PI 包成单客户，Simon 标签 可发展 → A）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：成交/下单过；WhatsApp 已加
 - **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：STS 全线与 Saga STI 工业线逐一对位：STS-UM608GP / 8+2G SFP → STI-288DGGPM；STS05G/UM42POE → STI-144GP；16 口 → STI-21616GP；贴 STS 标 30% 档；10G L3 与 EN50155 不报；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -52,12 +53,12 @@ updated: 2026-10-22
 | 来源（From） | Mavink / 2023.6.3 | 事实（用户表） |
 | 兴趣（Interested in） | 工业FS 中科德能的 / 2*2 bypass 100个 | 事实（用户表） |
 | 用户备注（Remark） | Sundar Techno Solutions / 91-948208 1014<br>已加 | 事实（用户表） |
-| 所在清单 | WA跟进 | 事实（文件路径） |
+| 所在清单 | WA跟进、成交(PI)、Simon:可发展 | 事实（文件路径） |
 | 在卖/在用品牌（备注所见） | 中科德能, FS | 事实（用户备注）/ 推断 |
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：在线
+- **状态：已调研（2026-10-22）**　网站状态：在线
 - **是谁**：班加罗尔的工业自动化/嵌入式计算方案商与「Make in India」制造商（2019 年 GST 注册，独资，2–10/11–25 人，年营业额 5–25 千万卢比口径不一），自有 STS 品牌工业交换机（IndiaMART 列 STS-5000-UM-ES）、面板 PC、KVM；合作 IBASE、Volktek（台湾）；客户含国防、航天、铁路、智慧城市。用户表：CEO Manoj Kumar N 2023-06 成单（2×2 bypass 工业 FS 100 台需求），WhatsApp 已加；此后无跟进记录（陈旧）。
 - **类型**：方案商/自有品牌贴牌（成交客户）
 - **规模**：2–10 人（LinkedIn）/ 11–25 人（IndiaMART）
@@ -80,7 +81,19 @@ updated: 2026-10-22
 - **【电商/IndiaMART】16 口管理型 ST-IES-162G-SFP 与 STR016FP 16 口 PoE**
   > STS 16-Port 10/100BASE-TX+2G SFP Managed Industrial Switch (ST-IES-162G-SFP), STR016FP 16-port 10/100-TX Industrial PoE Switch
   > 来源：https://www.sundartechno.in/managed-switches.html（抓取 2026-10-21）
+- **【PI】成交单据 STSC20241108014（CI，日期待补）：型号见单据 共 ? 台，USD ；采购 SmartByte RMB 512.0；Simon 成本表利润 RMB 153.3**
+  > 来源：PI.zip:14 印度 Manoj 可发展/CI_Zhengzhou Saga Telecom Co., Ltd..pdf（抓取 2026-10-22）
+- **【PI】成交单据 STSC20250107014（CI，2025-01-07）：STI-0160GE 共 5 台，USD 440.0；采购 SmartByte RMB 2560.0；Simon 成本表利润 RMB 648.39**
+  > 来源：PI.zip:14 印度 Manoj 可发展/CI.xls（抓取 2025-01-07）
+- **【PI】成交单据 STSC20251009014（PI，2025-10-09）：STI-0160GE 共 2 台，USD 174.0；采购 SmartByte RMB 1024.0；Simon 成本表利润 RMB 201.49**
+  > 来源：PI.zip:14 印度 Manoj 可发展/STSC20251009014.xls（抓取 2025-10-09）
+- **【PI】成交单据 STSC20260212014（CI，2026-02-12）：STI-0160GE 共 3 台，USD 261.0；采购 SmartByte RMB 1536.0；Simon 成本表利润 RMB 224.42**
+  > 来源：PI.zip:14 印度 Manoj 可发展/CI_STSC20260212014.xls（抓取 2026-02-12）
+- **【PI】PI 包文件夹「印度 Manoj 可发展」：Simon 标签 可发展；单号 4 个，2025-01-07 → 2026-02-12，销售 USD 875.0 / RMB 0，Simon 成本统计利润合计 RMB 1227.6**
+  > 来源：PI.zip:14 印度 Manoj 可发展（抓取 2026-10-22）
 - **KP**：Manoj Kumar N（Founder & CEO（成单联系人））sales@sundartechno.com +91 94820 81014（WhatsApp 已加）〔https://sundartechno.com/〕
+- **KP**：Manoj Kumar（CEO）sales@sundartechno.com 〔PI.zip 单据〕
+- **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 可发展 → A
 - 备注：A 维持（已成交 + CEO 直联 + 自有品牌），但 2023 年后沉寂需重新激活；守界：其国防/铁路项目不报 EN50155/军规，仅供标准工业款；P1 = STI-288DGGPM（bypass 款需向 SmartByte 确认），30% OEM 档。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
@@ -138,6 +151,20 @@ updated: 2026-10-22
 
 （无跟进表记录）
 
+## 成交记录（PI 包 · 自动汇总）
+
+- **Simon 的标签**（PI 包文件夹名）：**可发展**　|　买方抬头：Sundar Techno Solutions
+- **单号** 4 个（2025-01-07 → 2026-02-12）　|　**销售** USD 875　|　**Simon 成本表利润** RMB 1,228
+
+| 单号 | 日期 | 单据 | 型号 | 数量 | 金额 | 采购（卖方 / RMB） | Simon 成本表（成本 / 收款 / 利润 RMB） |
+|---|---|---|---|---|---|---|---|
+| STSC20241108014 | ? | CI | — | ? | USD  | SmartByte / 512.0 | 512 / 665.3 / 153.3 |
+| STSC20250107014 | 2025-01-07 | CI | STI-0160GE | 5 | USD 440.0 | SmartByte / 2560.0 | 2560 / 3208.39 / 648.39 |
+| STSC20251009014 | 2025-10-09 | PI | STI-0160GE | 2 | USD 174.0 | SmartByte / 1024.0 | 1024 / 1225.49 / 201.49 |
+| STSC20260212014 | 2026-02-12 | CI | STI-0160GE | 3 | USD 261.0 | SmartByte / 1536.0 | 1536 / 1760.42 / 224.42 |
+
+> 口径：同一单号多份文件取 CI > PI（最新修订）> Quotation；Quotation 行不计入销售合计；明细见 `data/pi_orders/销售单据明细.csv`、采购价见 `采购合同明细.csv`；原件在 Release `files-pi_2026-10`。
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom　|　**邮件**：1 封（去 1 / 来 0）　|　**期间**：2024-06-27 → 2024-06-27　|　**最后去信**：2024-06-27
@@ -166,6 +193,7 @@ updated: 2026-10-22
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Manoj Kumar N | Founder & CEO（成单联系人） | sales@sundartechno.com / +91 94820 81014（WhatsApp 已加） | 调研核实（公开页） | https://sundartechno.com/ |
+| Manoj Kumar | CEO | sales@sundartechno.com | 调研核实（公开页） | PI.zip 单据 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

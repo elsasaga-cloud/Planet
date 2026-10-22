@@ -55,10 +55,52 @@
    "quote": "Mit freundlichen Grüßen aus Darmstadt, Frederik Kriewitz/Gunter Frank NYNEX satellite OHG/fiberONE Darmstadt, 31. August 2025",
    "url": "https://bmds.bund.de/fileadmin/BMDS/Dokumente/Gesetzesvorhaben/NYNEX_Stellungnahme_Eckpunktepapier_fiberONE_BMDS_31-August-2025.pdf",
    "date": "2025-08-31"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20241121015（PI，2024-11-21）：STC-4168XGGCM、STC-424XGGM 共 2 台，USD 600.0；采购 SmartByte RMB 2350.0；Simon 成本表利润 RMB 1284.06",
+   "quote": "",
+   "url": "PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展/STSC20241121015.xls",
+   "date": "2024-11-21"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20250915015（PI，2025-09-15）：STC-4168XGGCM 共 1 台，USD 420.0；采购 SmartByte RMB 1600.0；Simon 成本表利润 RMB 797.77",
+   "quote": "",
+   "url": "PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展/STSC20250915015.xls",
+   "date": "2025-09-15"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC-20260929-001（PI，2026-09-29）：STC-4168XGGCM 共 20 台，USD 6725.0",
+   "quote": "",
+   "url": "PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展/STSC-20260929-001.xlsx",
+   "date": "2026-09-29"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC-20260930-001（PI，2026-09-30）：STC-4168XGGCM 共 20 台，USD 5944.5",
+   "quote": "",
+   "url": "PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展/STSC-20260930-001.xlsx",
+   "date": "2026-09-30"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20261006015（PI，2026-10-06）：STC-4168XGGCM 共 20 台，USD 5944.5；采购 SmartByte RMB 34000.0；Simon 成本表利润 RMB 5000",
+   "quote": "",
+   "url": "PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展/STSC20261006015.xlsx",
+   "date": "2026-10-06"
+  },
+  {
+   "kind": "PI",
+   "claim": "PI 包文件夹「德国 Frederik 活跃 Xtransfer 可发展」：Simon 标签 活跃，收款 Xtransfer；单号 5 个，2024-11-21 → 2026-10-06，销售 USD 19634.0 / RMB 0，Simon 成本统计利润合计 RMB 7081.83",
+   "quote": "",
+   "url": "PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展",
+   "date": "2026-10-22"
   }
  ],
  "notes": "A 维持：运营商持续采购楼宇接入交换机（48 口/L2+/2.5G 上联）与贴牌 MC/SFP；P1 改 STC-448XGGPM 或 STC-424XGGPM-280W（10G 上联）。",
- "researched_at": "2026-10-21",
+ "researched_at": "2026-10-22",
  "deep": {
   "done_at": "2026-10-21",
   "level": "深挖 v1"
@@ -125,5 +167,21 @@
    "phone": "",
    "source": "https://nynex.de/company/"
   }
- ]
+ ],
+ "deal_pi": {
+  "folder": "15 德国 Frederik 活跃 Xtransfer 可发展",
+  "simon_label": "活跃",
+  "pay": "Xtransfer",
+  "bind": "",
+  "buyer": "NYNEX satellite OHG",
+  "orders": 5,
+  "first": "2024-11-21",
+  "last": "2026-10-06",
+  "usd": 19634.0,
+  "rmb": 0.0,
+  "profit_rmb": 7081.83,
+  "models": "STC-4168XGGCM、STC-424XGGM"
+ },
+ "grade_override": "A",
+ "override_reason": "PI 包成单客户，Simon 标签 活跃 → A"
 }

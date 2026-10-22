@@ -1,21 +1,22 @@
 # fiberone.de
 **官方名称（调研核实）**：fiberONE（NYNEX satellite OHG, Darmstadt）
 
-> **评级 A**　|　德国　|　档案编号 `SA-013`　|　优先级 ★★★　|　状态：成交过·维护
+> **评级 A**　|　德国　|　档案编号 `SA-013`　|　优先级 ★★★　|　状态：成交过·活跃（Simon）
 >
-> **类型**：运营商/ISP（终端 + 自有 logo 贴牌需求）（推断）　|　**历史关系**：成交/下单过；实质回复 1 次；推送 2 次（2024-11-09 → 2025-05-29）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：运营商/ISP（终端 + 自有 logo 贴牌需求）（推断）　|　**历史关系**：成交/下单过；实质回复 1 次；推送 2 次（2024-11-09 → 2025-05-29）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE、成交(PI)、Simon:活跃、Xtransfer　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-013
 rating: A
 rating_auto: A
+rating_research: A  # PI 包成单客户，Simon 标签 活跃 → A
 name_official: "fiberONE（NYNEX satellite OHG, Darmstadt）"
 score: 112
 country: 德国
 region: 欧洲
 website: fiberone.de
 type: 运营商/ISP（终端 + 自有 logo 贴牌需求）
-tier_tags: ["A优质名单(其他优质欧洲客户)", "AI评估(EU)·DONE"]
+tier_tags: ["A优质名单(其他优质欧洲客户)", "AI评估(EU)·DONE", "成交(PI)", "Simon:活跃", "Xtransfer"]
 deal: yes
 replies: 1
 followups: 2
@@ -32,8 +33,8 @@ updated: 2026-10-22
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：德国达姆施塔特的光纤接入运营商品牌（NYNEX satellite OHG 旗下，11–50 人，2015 年起），在法兰克福/莱茵美因地区自建 FTTB/FTTH 网络（10G 对称），为楼宇提供千兆接入；B2B 提供专线、波长、楼宇网络。用户表：兴趣 SFP/MC 周边并要「自己的 logo」（贴牌），1 次实质回复，邮件中有详细联系方式。（调研 2026-10-21；表内兴趣：SFP MC 周边产品 自己的logo）
-- **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；+5 跟进表最近平台标记 S
+- **是谁**：德国达姆施塔特的光纤接入运营商品牌（NYNEX satellite OHG 旗下，11–50 人，2015 年起），在法兰克福/莱茵美因地区自建 FTTB/FTTH 网络（10G 对称），为楼宇提供千兆接入；B2B 提供专线、波长、楼宇网络。用户表：兴趣 SFP/MC 周边并要「自己的 logo」（贴牌），1 次实质回复，邮件中有详细联系方式。（调研 2026-10-22；表内兴趣：SFP MC 周边产品 自己的logo）
+- **为什么是 A 级**：**调研后定级 A**（PI 包成单客户，Simon 标签 活跃 → A）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：成交/下单过；实质回复 1 次；推送 2 次（2024-11-09 → 2025-05-29）；最近一次客户回复：2024-11-09：非PoE, 全光，100G
 - **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：FTTB 楼宇接入：8 口千兆 + 2 SFP 管理型（可贴 fiberONE logo）是楼层/地下室接入的标准位；配 STI-110GE 千兆 MC 作单户光电转换；SFP 由 Saga 配套供货；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -53,7 +54,7 @@ updated: 2026-10-22
 | 兴趣（Interested in） | SFP MC 周边产品 自己的logo | 事实（用户表） |
 | 用户备注（Remark） | 邮件中有详细的联系方式 | 事实（用户表） |
 | 用户 AI 评估 | Claude 5% C；AI 35% B | 事实（用户表 AI评估结果/CALUDE评估结果列） |
-| 所在清单 | A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE | 事实（文件路径） |
+| 所在清单 | A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE、成交(PI)、Simon:活跃、Xtransfer | 事实（文件路径） |
 | 在卖/在用品牌（备注所见） | — | 事实（用户备注）/ 推断 |
 
 ### 用户 AI / Claude 评估原文
@@ -70,7 +71,7 @@ updated: 2026-10-22
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：在线
+- **状态：已调研（2026-10-22）**　网站状态：在线
 - **是谁**：德国达姆施塔特的光纤接入运营商品牌（NYNEX satellite OHG 旗下，11–50 人，2015 年起），在法兰克福/莱茵美因地区自建 FTTB/FTTH 网络（10G 对称），为楼宇提供千兆接入；B2B 提供专线、波长、楼宇网络。用户表：兴趣 SFP/MC 周边并要「自己的 logo」（贴牌），1 次实质回复，邮件中有详细联系方式。
 - **类型**：运营商/ISP（终端 + 自有 logo 贴牌需求）
 - **规模**：11–50 人（LinkedIn）
@@ -95,8 +96,21 @@ updated: 2026-10-22
 - **【公开文件】Kriewitz 与 Frank 代表 NYNEX/fiberONE 署名政策意见书（决策层）**
   > Mit freundlichen Grüßen aus Darmstadt, Frederik Kriewitz/Gunter Frank NYNEX satellite OHG/fiberONE Darmstadt, 31. August 2025
   > 来源：https://bmds.bund.de/fileadmin/BMDS/Dokumente/Gesetzesvorhaben/NYNEX_Stellungnahme_Eckpunktepapier_fiberONE_BMDS_31-August-2025.pdf（抓取 2025-08-31）
+- **【PI】成交单据 STSC20241121015（PI，2024-11-21）：STC-4168XGGCM、STC-424XGGM 共 2 台，USD 600.0；采购 SmartByte RMB 2350.0；Simon 成本表利润 RMB 1284.06**
+  > 来源：PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展/STSC20241121015.xls（抓取 2024-11-21）
+- **【PI】成交单据 STSC20250915015（PI，2025-09-15）：STC-4168XGGCM 共 1 台，USD 420.0；采购 SmartByte RMB 1600.0；Simon 成本表利润 RMB 797.77**
+  > 来源：PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展/STSC20250915015.xls（抓取 2025-09-15）
+- **【PI】成交单据 STSC-20260929-001（PI，2026-09-29）：STC-4168XGGCM 共 20 台，USD 6725.0**
+  > 来源：PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展/STSC-20260929-001.xlsx（抓取 2026-09-29）
+- **【PI】成交单据 STSC-20260930-001（PI，2026-09-30）：STC-4168XGGCM 共 20 台，USD 5944.5**
+  > 来源：PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展/STSC-20260930-001.xlsx（抓取 2026-09-30）
+- **【PI】成交单据 STSC20261006015（PI，2026-10-06）：STC-4168XGGCM 共 20 台，USD 5944.5；采购 SmartByte RMB 34000.0；Simon 成本表利润 RMB 5000**
+  > 来源：PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展/STSC20261006015.xlsx（抓取 2026-10-06）
+- **【PI】PI 包文件夹「德国 Frederik 活跃 Xtransfer 可发展」：Simon 标签 活跃，收款 Xtransfer；单号 5 个，2024-11-21 → 2026-10-06，销售 USD 19634.0 / RMB 0，Simon 成本统计利润合计 RMB 7081.83**
+  > 来源：PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展（抓取 2026-10-22）
 - **KP**：Frederik Kriewitz（Systems Engineer / 网络负责人（RIPE 联系人、政策文件署名人；成单联系人））f.kriewitz@nynex.de +49 6151 50074-009〔https://ipinfo.io/AS200519/178.17.236.0/23 + 用户表〕
 - **KP**：Gunter Frank（创始人/合伙人（1999/2000 创立）） 〔https://nynex.de/company/〕
+- **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 活跃 → A
 - 备注：A 维持：运营商持续采购楼宇接入交换机（48 口/L2+/2.5G 上联）与贴牌 MC/SFP；P1 改 STC-448XGGPM 或 STC-424XGGPM-280W（10G 上联）。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
@@ -152,6 +166,21 @@ updated: 2026-10-22
 |---|---|---|---|---|---|---|
 | 2024-11-09 | 2024.11.9 | 群发了48口引流管理 | 非PoE, 全光，100G | Email |  | 其他优质欧洲客户 2.26.xlsx#12 |
 | 2025-05-29 | 2025.5.29 | alarm |  | S |  | 其他优质欧洲客户 2.26.xlsx#12 |
+
+## 成交记录（PI 包 · 自动汇总）
+
+- **Simon 的标签**（PI 包文件夹名）：**活跃**　|　收款：Xtransfer　|　买方抬头：NYNEX satellite OHG
+- **单号** 5 个（2024-11-21 → 2026-10-06）　|　**销售** USD 19,634　|　**Simon 成本表利润** RMB 7,082
+
+| 单号 | 日期 | 单据 | 型号 | 数量 | 金额 | 采购（卖方 / RMB） | Simon 成本表（成本 / 收款 / 利润 RMB） |
+|---|---|---|---|---|---|---|---|
+| STSC20241121015 | 2024-11-21 | PI | STC-4168XGGCM、STC-424XGGM | 2 | USD 600.0 | SmartByte / 2350.0 | 3051.04 / 4335.1 / 1284.06 |
+| STSC20250915015 | 2025-09-15 | PI | STC-4168XGGCM | 1 | USD 420.0 | SmartByte / 1600.0 | 2172.38 / 2970.15 / 797.77 |
+| STSC-20260929-001 | 2026-09-29 | PI | STC-4168XGGCM | 20 | USD 6725.0 | — | — |
+| STSC-20260930-001 | 2026-09-30 | PI | STC-4168XGGCM | 20 | USD 5944.5 | — | — |
+| STSC20261006015 | 2026-10-06 | PI | STC-4168XGGCM | 20 | USD 5944.5 | SmartByte / 34000.0 | 39000 / 44000 / 5000 |
+
+> 口径：同一单号多份文件取 CI > PI（最新修订）> Quotation；Quotation 行不计入销售合计；明细见 `data/pi_orders/销售单据明细.csv`、采购价见 `采购合同明细.csv`；原件在 Release `files-pi_2026-10`。
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

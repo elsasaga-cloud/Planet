@@ -1,0 +1,73 @@
+{
+ "code": "SC-1006",
+ "name_official": "WIZARDSINC SDN BHD",
+ "website_status": "",
+ "summary": "",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "PI",
+   "claim": "成交单据 STS-20260818-001（Quotation，2026-08-18）：NDR-240-48、STI-288GP、STI-G2-MD、STI-G20-SD 共 36 台，RMB 7580.0",
+   "quote": "",
+   "url": "PI.zip:19 马来西亚 Raja 可发展/STS-20260818-001.xlsx",
+   "date": "2026-08-18"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20260819019（PI，2026-08-19）：NDR-240-48、STI-288GP、STI-G2-MD、STI-G20-SD 共 42 台，RMB 9090.0；采购 SmartByte RMB 5348.0",
+   "quote": "",
+   "url": "PI.zip:19 马来西亚 Raja 可发展/STSC20260819019.xlsx",
+   "date": "2026-08-19"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20260821019（PI，2026-08-21）：NDR-240-48、STI-21616GP、STI-21616GPM、STI-288GPM、STI-G2-MD、STI-G20-SD 共 42 台，RMB 10500.0",
+   "quote": "",
+   "url": "PI.zip:19 马来西亚 Raja 可发展/STSC20260821019.xlsx",
+   "date": "2026-08-21"
+  },
+  {
+   "kind": "PI",
+   "claim": "PI 包文件夹「马来西亚 Raja 可发展」：Simon 标签 可发展；单号 3 个，2026-08-18 → 2026-08-21，销售 USD 0 / RMB 19590.0，Simon 成本统计利润合计 RMB 0",
+   "quote": "",
+   "url": "PI.zip:19 马来西亚 Raja 可发展",
+   "date": "2026-10-22"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Raja King",
+   "role": "单据联系人",
+   "email": "",
+   "phone": "",
+   "source": "PI.zip 单据"
+  },
+  {
+   "name": "Raja Kumaran",
+   "role": "单据联系人",
+   "email": "rajaking@outlook.com",
+   "phone": "",
+   "source": "PI.zip 单据"
+  }
+ ],
+ "notes": "",
+ "researched_at": "2026-10-22",
+ "deal_pi": {
+  "folder": "19 马来西亚 Raja 可发展",
+  "simon_label": "可发展",
+  "pay": "",
+  "bind": "",
+  "buyer": "WIZARDSINC SDN BHD",
+  "orders": 3,
+  "first": "2026-08-18",
+  "last": "2026-08-21",
+  "usd": 0.0,
+  "rmb": 19590.0,
+  "profit_rmb": 0.0,
+  "models": "NDR-240-48、STI-21616GP、STI-21616GPM、STI-288GP、STI-288GPM、STI-G2-MD、STI-G20-SD"
+ },
+ "grade_override": "A",
+ "override_reason": "PI 包成单客户，Simon 标签 可发展 → A"
+}

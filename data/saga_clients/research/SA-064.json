@@ -33,6 +33,20 @@
    "quote": "Bulk Ethernet Cables 91 products … Fiber Optics Patch Cords 35 products … Network Hardware 20 products … Media Converters 27 products … admin_52 2026-09-11",
    "url": "https://52networks.com/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STAG20250718016（CI，2025-07-18）：NDR-240-48、STI-288GP 共 4 台，USD 285.0；Simon 成本表利润 RMB 914.31",
+   "quote": "",
+   "url": "PI.zip:16 美国 John PayPal gg/CI.xls",
+   "date": "2025-07-18"
+  },
+  {
+   "kind": "PI",
+   "claim": "PI 包文件夹「美国 John PayPal gg」：Simon 标签 gg，收款 PayPal；单号 1 个，2025-07-18 → 2025-07-18，销售 USD 285.0 / RMB 0，Simon 成本统计利润合计 RMB 914.31",
+   "quote": "",
+   "url": "PI.zip:16 美国 John PayPal gg",
+   "date": "2026-10-22"
   }
  ],
  "kp": [
@@ -49,10 +63,17 @@
    "email": "sales@52networks.com",
    "phone": "+1 757-799-1359",
    "source": "https://52networks.com/contact-us/"
+  },
+  {
+   "name": "John Davis",
+   "role": "单据联系人",
+   "email": "sales@52networks.com",
+   "phone": "",
+   "source": "PI.zip 单据"
   }
  ],
  "notes": "A 维持（已成交 + 美国 + 名字明确）但体量小；守界：其 GSA/联邦渠道受 TAA 约束——中国产品只报商业客户用途，不做 GSA 目录承诺；P1 = STI-110GE（MC）复购，20% 经销档。",
- "researched_at": "2026-10-21",
+ "researched_at": "2026-10-22",
  "deep": {
   "done_at": "2026-10-21",
   "level": "深挖 v1"
@@ -110,5 +131,19 @@
   "tier": 20,
   "why": "已成单 + 网店有 27 款 MC 类目 → 千兆 MC（STI-110GE）作为网店 SKU 补位；8 口 PoE（STC-28DGGPM）进 Network Hardware 类目；电商 20% 档；TAA 需求一律不报"
  },
- "email_hook": "For the media-converter category on 52networks.com the gigabit RJ45-to-SFP unit is the SKU where the EXW gap versus Transition or Perle is widest, so I am quoting it first with an 8-port PoE switch as the hardware-category add-on."
+ "email_hook": "For the media-converter category on 52networks.com the gigabit RJ45-to-SFP unit is the SKU where the EXW gap versus Transition or Perle is widest, so I am quoting it first with an 8-port PoE switch as the hardware-category add-on.",
+ "deal_pi": {
+  "folder": "16 美国 John PayPal gg",
+  "simon_label": "gg",
+  "pay": "PayPal",
+  "bind": "",
+  "buyer": "52 Networks Inc.",
+  "orders": 1,
+  "first": "2025-07-18",
+  "last": "2025-07-18",
+  "usd": 285.0,
+  "rmb": 0.0,
+  "profit_rmb": 914.31,
+  "models": "NDR-240-48、STI-288GP"
+ }
 }

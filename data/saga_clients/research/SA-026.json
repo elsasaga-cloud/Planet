@@ -29,6 +29,27 @@
    "quote": "商业2光8管理POE / FS 一些很杂的类目 / 7 908 906 7874 已加 / 成单客户",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20231122004（PI，2023-11-22）：STC-28GPM 共 2 台，USD 898.38；采购 HRUI RMB 680.0；Simon 成本表利润 RMB 218.38",
+   "quote": "",
+   "url": "PI.zip:4 俄罗斯 Andrey 货代走账 可发展/STSC20231122004.xls",
+   "date": "2023-11-22"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20250731004（PI，2025-07-31）：STC-128GFP、STC-424GM、STC-4424GCPM、STI-288GPM 共 130 台，USD 5140.0；采购 HRUI、SmartByte RMB 30020.0；Simon 成本表利润 RMB 5256",
+   "quote": "",
+   "url": "PI.zip:4 俄罗斯 Andrey 货代走账 可发展/STSC20250731004.xls",
+   "date": "2025-07-31"
+  },
+  {
+   "kind": "PI",
+   "claim": "PI 包文件夹「俄罗斯 Andrey 货代走账 可发展」：Simon 标签 可发展，收款 货代走账；单号 2 个，2023-11-22 → 2025-07-31，销售 USD 6038.38 / RMB 0，Simon 成本统计利润合计 RMB 5474.38",
+   "quote": "",
+   "url": "PI.zip:4 俄罗斯 Andrey 货代走账 可发展",
+   "date": "2026-10-22"
   }
  ],
  "kp": [
@@ -38,12 +59,19 @@
    "email": "info@bitbuk.ru",
    "phone": "+7 (3435) 37-87-87",
    "source": "https://bitbuk.ru/kontakty/"
+  },
+  {
+   "name": "Andrey Tatarnikov",
+   "role": "单据联系人",
+   "email": "info@bitbuk.ru",
+   "phone": "",
+   "source": "PI.zip 单据"
   }
  ],
- "grade_override": "B",
- "override_reason": "核心业务是条码设备，网络 PoE 只是配套类目；至今无任何回复/跟进记录（仅 WhatsApp 加上）。B 慢跟：按自有品牌贴牌切入（他们已在中国贴牌生产）。",
+ "grade_override": "A",
+ "override_reason": "核心业务是条码设备，网络 PoE 只是配套类目；至今无任何回复/跟进记录（仅 WhatsApp 加上）。B 慢跟：按自有品牌贴牌切入（他们已在中国贴牌生产）。；PI 包成单客户，Simon 标签 可发展 → A",
  "notes": "",
- "researched_at": "2026-10-21",
+ "researched_at": "2026-10-22",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
@@ -76,5 +104,19 @@
   "tier": 30,
   "why": "OEM 30% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，Saga Realtek 线列表 $62.2；贴牌加价另议）对应「商业 2 光 8 管理 PoE」；非管理 STC-228GP（$30.8）；工业 STI-288GPM（$85.5）"
  },
- "email_hook": "Андрей, по вашему запросу «2 SFP + 8 PoE управляемый»: готовы поставлять под маркой БитБук — L2 управляемый 62,2 USD EXW, неуправляемый 30,8 USD, расчёт в CNY/USD, нейтральная или ваша упаковка. Какой первый тираж для вашей дилерской сети?"
+ "email_hook": "Андрей, по вашему запросу «2 SFP + 8 PoE управляемый»: готовы поставлять под маркой БитБук — L2 управляемый 62,2 USD EXW, неуправляемый 30,8 USD, расчёт в CNY/USD, нейтральная или ваша упаковка. Какой первый тираж для вашей дилерской сети?",
+ "deal_pi": {
+  "folder": "4 俄罗斯 Andrey 货代走账 可发展",
+  "simon_label": "可发展",
+  "pay": "货代走账",
+  "bind": "",
+  "buyer": "BitBook LLC",
+  "orders": 2,
+  "first": "2023-11-22",
+  "last": "2025-07-31",
+  "usd": 6038.38,
+  "rmb": 0.0,
+  "profit_rmb": 5474.38,
+  "models": "STC-128GFP、STC-28GPM、STC-424GM、STC-4424GCPM、STI-288GPM"
+ }
 }

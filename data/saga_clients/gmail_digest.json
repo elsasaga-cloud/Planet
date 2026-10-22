@@ -45,6 +45,41 @@
 "quotes": [],
 "attachments": []
 },
+"SB-1334": {
+"pending_reply": false,
+"account": "s.sagatelecom",
+"messages": 1,
+"out": 0,
+"in": 1,
+"first": "2023-09-20",
+"last": "2023-09-20",
+"emails": [
+"office@fastball.in",
+"rishi@fastball.in"
+],
+"threads": [
+{
+"id": "1777549717887965524",
+"subject": "Authorised Distributorship - India",
+"first": "2023-09-20",
+"last": "2023-09-20",
+"in": 1,
+"out": 0,
+"atts": 0
+}
+],
+"last_in": {
+"date": "2023-09-20",
+"from": "rishi@fastball.in",
+"subject": "Authorised Distributorship - India",
+"snippet": "Hi, Greetings for the day ! Since our team underwent with your various products shared from your respective end, proceeding further, Please consider this mail as our official acknowledgement regarding Indian market capturing of Saga Telecom product range. To s",
+"thr": "1777549717887965524",
+"auto": false
+},
+"last_out": "",
+"quotes": [],
+"attachments": []
+},
 "SB-924": {
 "pending_reply": false,
 "account": "s.sagatelecom",
@@ -11344,6 +11379,76 @@
 "ctx": "Price is very competitive, 220usd/pc"
 }
 ],
+"attachments": []
+},
+"SA-169": {
+"pending_reply": false,
+"account": "s.sagatelecom",
+"messages": 19,
+"out": 13,
+"in": 6,
+"first": "2024-06-27",
+"last": "2026-08-31",
+"emails": [
+"james@clendenan.ca"
+],
+"threads": [
+{
+"id": "1874604382383889569",
+"subject": "Information",
+"first": "2026-08-26",
+"last": "2026-08-31",
+"in": 1,
+"out": 3,
+"atts": 4
+},
+{
+"id": "1871295224924580125",
+"subject": "Information",
+"first": "2026-07-21",
+"last": "2026-08-07",
+"in": 2,
+"out": 2,
+"atts": 0
+},
+{
+"id": "1849186670001295097",
+"subject": "MIBs Info",
+"first": "2025-11-19",
+"last": "2025-11-19",
+"in": 0,
+"out": 1,
+"atts": 2
+},
+{
+"id": "1818769367531996925",
+"subject": "4+8 PCB layout",
+"first": "2024-12-18",
+"last": "2025-08-28",
+"in": 1,
+"out": 3,
+"atts": 3
+},
+{
+"id": "1802998125553070011",
+"subject": "Invoice",
+"first": "2024-06-27",
+"last": "2024-07-18",
+"in": 2,
+"out": 4,
+"atts": 3
+}
+],
+"last_in": {
+"date": "2026-08-31",
+"from": "james@clendenan.ca",
+"subject": "Re: Information",
+"snippet": "[图:image0.jpeg]Sent James -- Sent from my phone. Mobile: 604-910-5745",
+"thr": "1874604382383889569",
+"auto": false
+},
+"last_out": "2026-08-31",
+"quotes": [],
 "attachments": []
 },
 "SB-326": {
@@ -66750,6 +66855,40 @@
 ],
 "attachments": []
 },
+"SC-2220": {
+"pending_reply": true,
+"account": "s.sagatelecom",
+"messages": 1,
+"out": 0,
+"in": 1,
+"first": "2024-06-17",
+"last": "2024-06-17",
+"emails": [
+"graybarsupport@graybar.com"
+],
+"threads": [
+{
+"id": "1802020509321986156",
+"subject": "10G media converter",
+"first": "2024-06-17",
+"last": "2024-06-17",
+"in": 1,
+"out": 1,
+"atts": 2
+}
+],
+"last_in": {
+"date": "2024-06-17",
+"from": "graybarsupport@graybar.com",
+"subject": "RE: 10G media converter",
+"snippet": "Please remove this email from your list. Graybar Support Corporate - Centerpoint, MO www.graybar.com<http://www.graybar.com>",
+"thr": "1802020509321986156",
+"auto": false
+},
+"last_out": "",
+"quotes": [],
+"attachments": []
+},
 "SC-2312": {
 "pending_reply": false,
 "account": "s.sagatelecom",
@@ -66789,40 +66928,6 @@
 "ctx": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE,"
 }
 ],
-"attachments": []
-},
-"SC-2220": {
-"pending_reply": true,
-"account": "s.sagatelecom",
-"messages": 1,
-"out": 0,
-"in": 1,
-"first": "2024-06-17",
-"last": "2024-06-17",
-"emails": [
-"graybarsupport@graybar.com"
-],
-"threads": [
-{
-"id": "1802020509321986156",
-"subject": "10G media converter",
-"first": "2024-06-17",
-"last": "2024-06-17",
-"in": 1,
-"out": 1,
-"atts": 2
-}
-],
-"last_in": {
-"date": "2024-06-17",
-"from": "graybarsupport@graybar.com",
-"subject": "RE: 10G media converter",
-"snippet": "Please remove this email from your list. Graybar Support Corporate - Centerpoint, MO www.graybar.com<http://www.graybar.com>",
-"thr": "1802020509321986156",
-"auto": false
-},
-"last_out": "",
-"quotes": [],
 "attachments": []
 },
 "SC-1558": {
@@ -131067,6 +131172,40 @@
 "quotes": [],
 "attachments": []
 },
+"SC-623": {
+"pending_reply": true,
+"account": "s.sagatelecom",
+"messages": 1,
+"out": 0,
+"in": 1,
+"first": "2025-01-27",
+"last": "2025-01-27",
+"emails": [
+"shop@murrelektronik.com"
+],
+"threads": [
+{
+"id": "1822008593065399821",
+"subject": "24 Port Fiber Switch",
+"first": "2025-01-26",
+"last": "2025-01-27",
+"in": 1,
+"out": 1,
+"atts": 6
+}
+],
+"last_in": {
+"date": "2025-01-27",
+"from": "shop@murrelektronik.com",
+"subject": "AW: 24 Port Fiber Switch",
+"snippet": "Dear Customer, Thank you for your interest in our products. We need you location please first to forward your request to the right person. Thank you. Your Shop - Team [cid:image002.png@01DB7098.7B5B4300]<https://www.murrelektronik.com/de/> [cid:image003.png@01",
+"thr": "1822008593065399821",
+"auto": false
+},
+"last_out": "",
+"quotes": [],
+"attachments": []
+},
 "SC-2008": {
 "pending_reply": true,
 "account": "s.sagatelecom",
@@ -131106,40 +131245,6 @@
 "ctx": "Price: 240usd/pc"
 }
 ],
-"attachments": []
-},
-"SC-623": {
-"pending_reply": true,
-"account": "s.sagatelecom",
-"messages": 1,
-"out": 0,
-"in": 1,
-"first": "2025-01-27",
-"last": "2025-01-27",
-"emails": [
-"shop@murrelektronik.com"
-],
-"threads": [
-{
-"id": "1822008593065399821",
-"subject": "24 Port Fiber Switch",
-"first": "2025-01-26",
-"last": "2025-01-27",
-"in": 1,
-"out": 1,
-"atts": 6
-}
-],
-"last_in": {
-"date": "2025-01-27",
-"from": "shop@murrelektronik.com",
-"subject": "AW: 24 Port Fiber Switch",
-"snippet": "Dear Customer, Thank you for your interest in our products. We need you location please first to forward your request to the right person. Thank you. Your Shop - Team [cid:image002.png@01DB7098.7B5B4300]<https://www.murrelektronik.com/de/> [cid:image003.png@01",
-"thr": "1822008593065399821",
-"auto": false
-},
-"last_out": "",
-"quotes": [],
 "attachments": []
 },
 "SB-259": {

@@ -1,0 +1,92 @@
+{
+ "code": "SA-171",
+ "name_official": "PBA Forever Technology CO., LTD.",
+ "website_status": "",
+ "summary": "已成单 6 个单号（2024-10-14 → 2026-07-06，RMB 单据合计 ≈37k，货代走账）；Simon 标签：活跃 · 货代走账 · 轻度绑定；详见 research/SA-171.json",
+ "type": "系统集成/工程",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20241014013（PI，2024-10-14）：STC-05XGWE、STC-08XGWE、STC-108XGDGP、STC-114XGDGP、STC-15XGDGE、STC-18XGDGE、STC-18XGDGPW、STC-216XGDGE、STC-216XGDGWE、STC-224XGDGE、STC-224XGDGWE、STC-80XGO 共 21 台，RMB 13083.0；采购 HRUI RMB 10850.0",
+   "quote": "",
+   "url": "PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20241014013.xls",
+   "date": "2024-10-14"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20250116013（PI，2025-01-16）：STI-21616DGGPM、STI-21616GP、STI-42424DGGPM、STI-42424DGGPM-U 共 6 台，RMB 9620.0；采购 SmartByte RMB 8460.0",
+   "quote": "",
+   "url": "PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20250116013.xls",
+   "date": "2025-01-16"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20250827013（PI，2025-08-27）：STI-21616GP 共 2 台，RMB 2100.0；采购 SmartByte RMB 1904.0",
+   "quote": "",
+   "url": "PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20250827013.xls",
+   "date": "2025-08-27"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20250924013（PI，2025-09-24）：STC-108XGDGP、STC-15XGDGE、STC-18XGDGPW、STC-80XGO 共 18 台，RMB 7336.0；采购 HRUI RMB 6025.0",
+   "quote": "",
+   "url": "PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20250924013.xls",
+   "date": "2025-09-24"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20251212013（PI，2025-12-12）：STI-42424DGGPM 共 1 台，RMB 2200.0；采购 SmartByte RMB 1912.0",
+   "quote": "",
+   "url": "PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20251212013.xls",
+   "date": "2025-12-12"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20260706013（PI，2026-07-06）：STI-21616GP 共 3 台，RMB 3150.0；采购 SmartByte RMB 2856.0",
+   "quote": "",
+   "url": "PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20260706013.xls",
+   "date": "2026-07-06"
+  },
+  {
+   "kind": "PI",
+   "claim": "PI 包文件夹「泰国 Peeranun 活跃 货代走账 轻度绑定」：Simon 标签 活跃，收款 货代走账，轻度绑定；单号 6 个，2024-10-14 → 2026-07-06，销售 USD 0 / RMB 37489.0，Simon 成本统计利润合计 RMB 0",
+   "quote": "",
+   "url": "PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定",
+   "date": "2026-10-22"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Peeranun Ratannabuajan",
+   "role": "CEO",
+   "email": "pomnong9@gmail.com",
+   "phone": "",
+   "source": "PI.zip 单据"
+  }
+ ],
+ "notes": "",
+ "researched_at": "2026-10-22",
+ "deal_pi": {
+  "folder": "13 泰国 Peeranun 活跃 货代走账 轻度绑定",
+  "simon_label": "活跃",
+  "pay": "货代走账",
+  "bind": "轻度绑定",
+  "buyer": "PBA Forever Technology CO., LTD.",
+  "orders": 6,
+  "first": "2024-10-14",
+  "last": "2026-07-06",
+  "usd": 0.0,
+  "rmb": 37489.0,
+  "profit_rmb": 0.0,
+  "models": "STC-05XGWE、STC-08XGWE、STC-108XGDGP、STC-114XGDGP、STC-15XGDGE、STC-18XGDGE、STC-18XGDGPW、STC-216XGDGE、STC-216XGDGWE、STC-224XGDGE、STC-224XGDGWE、STC-80XGO、STI-21616DGGPM、STI-21616GP、STI-42424DGGPM、STI-42424DGGPM-U"
+ },
+ "saga_fit": {
+  "p1": "",
+  "tier": 25,
+  "why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
+ },
+ "grade_override": "A",
+ "override_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）"
+}

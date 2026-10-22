@@ -633,9 +633,32 @@ def main():
         ent['merge_keys'] = sorted(k for k, v in shared_keys.items() if v & ids)
         entities.append(ent)
 
+    # PI 成单覆盖（data/pi_orders/客户编号映射.json：稳定键 → Simon 的 PI 文件夹标签）：分级前打 deal 标记 + Simon 标签
+    pi_keys = {}
+    pi_path = os.path.join(ROOT, 'data', 'pi_orders', '客户编号映射.json')
+    if os.path.exists(pi_path):
+        for n, v in json.load(open(pi_path, encoding='utf-8'))['map'].items():
+            for k in v.get('keys') or []:
+                pi_keys[k] = dict(v, folder_no=n)
+    for ent in entities:
+        hit = None
+        for k in ['d:' + d for d in ent['domains']] + ['e:' + e for e in ent['emails']]:
+            if k in pi_keys:
+                hit = pi_keys[k]
+                break
+        if hit:
+            ent['pi'] = hit
+            ent['flags']['deal'] = 1
+            for t in ['成交(PI)'] + (['Simon:' + hit['simon']] if hit.get('simon') else []) + ([hit['pay']] if hit.get('pay') else []):
+                if t not in ent['tags']:
+                    ent['tags'].append(t)
+
     # 分级
     for ent in entities:
         grade, score, reasons, c_sub, status = classify(ent)
+        if ent.get('pi'):
+            lab = ent['pi'].get('simon') or ''
+            status = {'活跃': '成交过·活跃（Simon）', '可发展': '成交过·可发展（Simon）', 'gg': '成交过·已凉（Simon: gg）'}.get(lab, '成交过·维护')
         ent['grade_auto'] = grade
         ent['score'] = score
         ent['reasons'] = reasons
@@ -705,6 +728,16 @@ def main():
                 if cf[1] != '??' and cf[0] != ent['country']:
                     ent['country_table'] = ent['country']
                     ent['country'], ent['iso'], ent['region'] = cf
+        # PI 成单客户：Simon 标签 活跃/可发展 → A；gg → 至少 B（人工定级.csv 仍优先）
+        if ent.get('pi') and not ov:
+            lab = ent['pi'].get('simon') or ''
+            if lab in ('活跃', '可发展'):
+                ent['grade'] = 'A'
+            elif lab == 'gg':
+                # Simon 已判「凉了」：成交过 → B（慢慢跟进），除非调研覆盖明确给 A
+                ent['grade'] = 'A' if (rs or {}).get('grade_override') == 'A' else 'B'
+            elif ent['grade'] == 'C':
+                ent['grade'] = 'B'
         # 覆盖后的 C 级细分：从理由里取 c_sub=…，否则统一标「调研/人工定级 C」；覆盖为非 C 则清空细分
         if ent['grade'] == 'C' and ent['grade_auto'] != 'C' and not ent.get('c_sub'):
             reason = (ov or {}).get('理由', '') if ov else (rs or {}).get('override_reason', '')

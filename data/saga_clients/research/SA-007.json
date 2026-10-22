@@ -29,6 +29,27 @@
    "quote": "对交换机，POE交换机有兴趣 Skype: sugitowibawa 公司地址：No. 8, Jalan Industri USJ 1/8 Taman Perindustrian USJ 1 47600 Subang Jaya, Selangor, Malaysia / Sugito Wibawa Chief Executive Officer",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20240618009（CI，2024-06-27）：Commercial Switch 共 1 台，USD 90.0；采购 四川海思视讯电子有限公司 RMB 500.0；Simon 成本表利润 RMB 209.61",
+   "quote": "",
+   "url": "PI.zip:9 马来西亚 Sugito gg/普通快递发票.xlsx",
+   "date": "2024-06-27"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20240711009（CI，2024-07-17）：Commercial Switch 共 12 台，USD 1056.0；采购 四川海思视讯电子有限公司 RMB 6000.0；Simon 成本表利润 RMB 2969.78",
+   "quote": "",
+   "url": "PI.zip:9 马来西亚 Sugito gg/普通快递发票.xlsx",
+   "date": "2024-07-17"
+  },
+  {
+   "kind": "PI",
+   "claim": "PI 包文件夹「马来西亚 Sugito gg」：Simon 标签 gg；单号 2 个，2024-06-27 → 2024-07-17，销售 USD 1146.0 / RMB 0，Simon 成本统计利润合计 RMB 3179.39",
+   "quote": "",
+   "url": "PI.zip:9 马来西亚 Sugito gg",
+   "date": "2026-10-22"
   }
  ],
  "kp": [
@@ -43,7 +64,7 @@
  "grade_override": "B",
  "override_reason": "成单但核心业务是 NDT/国防/医疗设备代理，交换机为项目配套，复购逻辑弱（且含军警安防，INH 守界）；放 B 慢跟、被动响应。",
  "notes": "",
- "researched_at": "2026-10-21",
+ "researched_at": "2026-10-22",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
@@ -76,5 +97,19 @@
   "tier": 25,
   "why": "项目 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+ 管理，$84.1）作安防/实验室项目配套；24 口 STC-424DGGPM-280W（$140.1）；工业 STI-288GP（$59.8）"
  },
- "email_hook": "Sugito, following our earlier exchange on PoE switches: for your security/lab projects, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW (24-port 280 W at $140.1), neutral packing — is there a current tender where I can quote a specific quantity?"
+ "email_hook": "Sugito, following our earlier exchange on PoE switches: for your security/lab projects, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW (24-port 280 W at $140.1), neutral packing — is there a current tender where I can quote a specific quantity?",
+ "deal_pi": {
+  "folder": "9 马来西亚 Sugito gg",
+  "simon_label": "gg",
+  "pay": "",
+  "bind": "",
+  "buyer": "XSPec Hospitech Sdn Bhd",
+  "orders": 2,
+  "first": "2024-06-27",
+  "last": "2024-07-17",
+  "usd": 1146.0,
+  "rmb": 0.0,
+  "profit_rmb": 3179.39,
+  "models": "Commercial Switch"
+ }
 }

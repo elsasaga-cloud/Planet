@@ -1,0 +1,52 @@
+{
+ "code": "SC-349",
+ "name_official": "Obmac Systems",
+ "website_status": "",
+ "summary": "",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20240117003（CI，2024-01-17）：STC-4248XGGCM、STI-244GP、STI-SFP1G-SMD20-1310LC 共 265 台，USD 9350.0；采购 HRUI、SmartByte RMB 33800.0；Simon 成本表利润 RMB 23118.35",
+   "quote": "",
+   "url": "PI.zip:3  赞比亚 Pythias gg/CI.xls",
+   "date": "2024-01-17"
+  },
+  {
+   "kind": "PI",
+   "claim": "PI 包文件夹「赞比亚 Pythias gg」：Simon 标签 gg；单号 1 个，2024-01-17 → 2024-01-17，销售 USD 9350.0 / RMB 0，Simon 成本统计利润合计 RMB 23118.35",
+   "quote": "",
+   "url": "PI.zip:3  赞比亚 Pythias gg",
+   "date": "2026-10-22"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Pythias Kachepa",
+   "role": "单据联系人",
+   "email": "pythiask@gmail.com",
+   "phone": "",
+   "source": "PI.zip 单据"
+  }
+ ],
+ "notes": "",
+ "researched_at": "2026-10-22",
+ "deal_pi": {
+  "folder": "3  赞比亚 Pythias gg",
+  "simon_label": "gg",
+  "pay": "",
+  "bind": "",
+  "buyer": "Obmac Systems",
+  "orders": 1,
+  "first": "2024-01-17",
+  "last": "2024-01-17",
+  "usd": 9350.0,
+  "rmb": 0.0,
+  "profit_rmb": 23118.35,
+  "models": "STC-4248XGGCM、STI-244GP、STI-SFP1G-SMD20-1310LC"
+ },
+ "grade_override": "B",
+ "override_reason": "PI 包成单客户（2024-01 一单 265 台 USD 9,350，Simon 成本表利润 RMB 23,118；Simon 标签 gg）→ 至少 B"
+}

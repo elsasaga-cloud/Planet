@@ -41,6 +41,20 @@
    "quote": "FL SWITCH SFNB 5TX This compact unmanaged switch … 5 RJ45 ports … FL SWITCH 1016N … 16 Ethernet ports … TSW100 A compact unmanaged Gigabit switch with PoE support for industrial applications … TSW200 A managed Industrial Ethernet Switch",
    "url": "https://unitedcontrolengg.com/ethernet-switch/",
    "date": "2026-05-23"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20240416005（CI，2024-04-22）：Industrial Switch 共 4 台，USD 120.0；采购 、SmartByte RMB 524.0；Simon 成本表利润 RMB 481.99",
+   "quote": "",
+   "url": "PI.zip:5 印度 Rajesh gg/普通快递发票.xlsx",
+   "date": "2024-04-22"
+  },
+  {
+   "kind": "PI",
+   "claim": "PI 包文件夹「印度 Rajesh gg」：Simon 标签 gg；单号 1 个，2024-04-22 → 2024-04-22，销售 USD 120.0 / RMB 0，Simon 成本统计利润合计 RMB 481.99",
+   "quote": "",
+   "url": "PI.zip:5 印度 Rajesh gg",
+   "date": "2026-10-22"
   }
  ],
  "kp": [
@@ -50,10 +64,17 @@
    "email": "marketing@unitedcontrolengg.com",
    "phone": "+91 93111 50492",
    "source": "https://unitedcontrolengg.com/"
+  },
+  {
+   "name": "Rajesh",
+   "role": "单据联系人",
+   "email": "accounts@unitedcontrolengg.com",
+   "phone": "",
+   "source": "PI.zip 单据"
   }
  ],
  "notes": "A 确认：工业自动化分销商是 STI 非管理工业交换机（STI-244GP/288GP）的天然渠道；印度区价格敏感，报 20% 分销档并给 MOQ 阶梯。",
- "researched_at": "2026-10-21",
+ "researched_at": "2026-10-22",
  "deep": {
   "done_at": "2026-10-21",
   "level": "深挖 v1"
@@ -116,5 +137,19 @@
   "tier": 20,
   "why": "其交换机页主推 5 口（SFNB 5TX / TSW100）与 8–16 口非管理工业机 → STI-144GP（4+1 PoE）/ STI-288DGGPM（8+2 管理）/ STI-21616GP（16 PoE）；分销 20% 档"
  },
- "email_hook": "Next to the FL SWITCH SFNB 5TX and TSW100 slots on your new Ethernet-switch page, a 4+1 gigabit PoE DIN unit at distributor EXW usually becomes the volume SKU, so that is the one I am pricing first with the 8-port managed version as the step-up."
+ "email_hook": "Next to the FL SWITCH SFNB 5TX and TSW100 slots on your new Ethernet-switch page, a 4+1 gigabit PoE DIN unit at distributor EXW usually becomes the volume SKU, so that is the one I am pricing first with the 8-port managed version as the step-up.",
+ "deal_pi": {
+  "folder": "5 印度 Rajesh gg",
+  "simon_label": "gg",
+  "pay": "",
+  "bind": "",
+  "buyer": "UNITED CONTROL ENGINEERS INDIA PRIVATE LIMITED",
+  "orders": 1,
+  "first": "2024-04-22",
+  "last": "2024-04-22",
+  "usd": 120.0,
+  "rmb": 0.0,
+  "profit_rmb": 481.99,
+  "models": "Industrial Switch"
+ }
 }

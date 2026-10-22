@@ -1,22 +1,22 @@
 # Delta Consulting
 **官方名称（调研核实）**：Delta Consulting LLC（დელტა კონსალტინგი）
 
-> **评级 B**　|　格鲁吉亚　|　档案编号 `SB-335`　|　优先级 ★★　|　状态：有回复·跟进中
+> **评级 B**　|　格鲁吉亚　|　档案编号 `SB-335`　|　优先级 ★★　|　状态：成交过·已凉（Simon: gg）
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：实质回复 1 次；WhatsApp 已加；推送 14 次（2024-03-01 → 2025-05-29）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：成交/下单过；实质回复 1 次；WhatsApp 已加；推送 14 次（2024-03-01 → 2025-05-29）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE、成交(PI)、Simon:gg　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-335
 rating: B
-rating_auto: B
+rating_auto: A
 name_official: "Delta Consulting LLC（დელტა კონსალტინგი）"
-score: 43
+score: 93
 country: 格鲁吉亚
 region: 俄语区
 website: dc.ge
 type: 经销/集成（类型待核）
-tier_tags: ["A优质名单(其他优质欧洲客户)", "AI评估(EU)·DONE"]
-deal: no
+tier_tags: ["A优质名单(其他优质欧洲客户)", "AI评估(EU)·DONE", "成交(PI)", "Simon:gg"]
+deal: yes
 replies: 1
 followups: 14
 first_contact: 2024-03-01
@@ -26,14 +26,14 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：第比利斯领先 IT 系统集成商（2014 年成立，约 30 人，营收约 $2M；CEO/合伙人 George Jaliashvili，商务总监 Daviti Giorgadze），伙伴 Cisco / Dell / Juniper / F5 / Cambium / Teltonika / Dahua / Ruckus，有 CCTV 业务线，服务企业与政府机构；表内：从新桥拿货（给看过 CI，价格约为 Saga 一半），懂 WDM，对 1 光 4 / 2 光 4 小壳有兴趣，2025-11 要「small 8 port high PoE」。（调研 2026-10-21；表内兴趣：从新桥拿货，给我看了一个CI，价格基本是对半砍的，懂WDM,问能分波多少路，对外壳质量不满意（基本是由于外边那层保护膜没撕的缘故） 对1光4 2光4小壳有兴趣，可能会需要1光8管理 另外说了24V PoE,不是很确定是不要是要非标PoE）
-- **为什么是 B 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/格鲁吉亚；+5 最近活动 2025
-- **历史互动**：实质回复 1 次；WhatsApp 已加；推送 14 次（2024-03-01 → 2025-05-29）；最近一次客户回复：2024-11-19：small 8 port high poe
+- **是谁**：第比利斯领先 IT 系统集成商（2014 年成立，约 30 人，营收约 $2M；CEO/合伙人 George Jaliashvili，商务总监 Daviti Giorgadze），伙伴 Cisco / Dell / Juniper / F5 / Cambium / Teltonika / Dahua / Ruckus，有 CCTV 业务线，服务企业与政府机构；表内：从新桥拿货（给看过 CI，价格约为 Saga 一半），懂 WDM，对 1 光 4 / 2 光 4 小壳有兴趣，2025-11 要「small 8 port high PoE」。（调研 2026-10-22；表内兴趣：从新桥拿货，给我看了一个CI，价格基本是对半砍的，懂WDM,问能分波多少路，对外壳质量不满意（基本是由于外边那层保护膜没撕的缘故） 对1光4 2光4小壳有兴趣，可能会需要1光8管理 另外说了24V PoE,不是很确定是不要是要非标PoE）
+- **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/格鲁吉亚；+5 最近活动 2025
+- **历史互动**：成交/下单过；实质回复 1 次；WhatsApp 已加；推送 14 次（2024-03-01 → 2025-05-29）；最近一次客户回复：2024-11-19：small 8 port high poe
 - **P1（下一步唯一主推）**：STI-288DGGPM-2BT — 深挖对位：其最新需求「small 8 port high PoE」→ Saga 工业 8 PoE（含 2×BT 90W）+ 2 SFP 管理 STI-288DGGPM-2BT（$157.8/164.4/171.0）；低价备选 STI-288GP；1 光 4 / 2 光 4 小壳 = STI-144GP / STI-244GP。；$164.4 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT-2BT 880 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
@@ -52,7 +52,7 @@ updated: 2026-10-21
 | 兴趣（Interested in） | 从新桥拿货，给我看了一个CI，价格基本是对半砍的，懂WDM,问能分波多少路，对外壳质量不满意（基本是由于外边那层保护膜没撕的缘故） 对1光4 2光4小壳有兴趣，可能会需要1光8管理<br>另外说了24V PoE,不是很确定是不要是要非标PoE | 事实（用户表） |
 | 用户备注（Remark） | 对价格比较敏感 | 事实（用户表） |
 | 用户 AI 评估 | Claude 5% C；AI 40% A | 事实（用户表 AI评估结果/CALUDE评估结果列） |
-| 所在清单 | A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE | 事实（文件路径） |
+| 所在清单 | A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE、成交(PI)、Simon:gg | 事实（文件路径） |
 | 在卖/在用品牌（备注所见） | — | 事实（用户备注）/ 推断 |
 
 ### 用户 AI / Claude 评估原文
@@ -69,7 +69,7 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：在线（dc.ge / delta-consulting.ge，快照 2026-10-21，格鲁吉亚语）
+- **状态：已调研（2026-10-22）**　网站状态：在线（dc.ge / delta-consulting.ge，快照 2026-10-21，格鲁吉亚语）
 - **是谁**：第比利斯领先 IT 系统集成商（2014 年成立，约 30 人，营收约 $2M；CEO/合伙人 George Jaliashvili，商务总监 Daviti Giorgadze），伙伴 Cisco / Dell / Juniper / F5 / Cambium / Teltonika / Dahua / Ruckus，有 CCTV 业务线，服务企业与政府机构；表内：从新桥拿货（给看过 CI，价格约为 Saga 一半），懂 WDM，对 1 光 4 / 2 光 4 小壳有兴趣，2025-11 要「small 8 port high PoE」。
 - **在卖/在用品牌**：Cisco, Dell, Juniper, Cambium, Teltonika, Dahua, Ruckus
 - **【D&B】注册与规模：Tbilisi，30 人，$2.05M，2014 年**
@@ -87,6 +87,10 @@ updated: 2026-10-21
 - **【用户表】从新桥拿货、CI 价格约对半；懂 WDM；对外壳保护膜误判质量；对 1 光 4 / 2 光 4 小壳有兴趣；2025-11 回复 small 8 port high poe**
   > 兴趣：从新桥拿货，给我看了一个CI，价格基本是对半砍的，懂WDM… 对1光4 2光4小壳有兴趣；回复：small 8 port high poe
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【PI】成交单据 STSC20230724001（CI，2023-07-24）：STC-028GFP、STC-128GFP 共 4 台，USD 100.0；采购 HRUI RMB 470.0；Simon 成本表利润 RMB 177.1**
+  > 来源：PI.zip:1 格鲁吉亚 George gg/CI.xls（抓取 2023-07-24）
+- **【PI】PI 包文件夹「格鲁吉亚 George gg」：Simon 标签 gg；单号 1 个，2023-07-24 → 2023-07-24，销售 USD 100.0 / RMB 0，Simon 成本统计利润合计 RMB 177.1**
+  > 来源：PI.zip:1 格鲁吉亚 George gg（抓取 2026-10-22）
 - **KP**：George Jaliashvili（）george@dc.ge +995 577 578 811〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Daviti Giorgadze（）sales@dc.ge +995 32 205 0055〔https://www.dnb.com/business-directory/company-profiles.delta_consulting_llc.7aa4533b0489d16fd5b3bd6748034f92.html〕
 - 备注：（无首轮调研；由 deepen.py 建档）
@@ -150,6 +154,17 @@ updated: 2026-10-21
 | 2025-05-13 | 513 | 4 8 16口工业PoE |  | Whatsapp |  | 其他优质欧洲客户 2.26.xlsx#6 |
 | 2025-05-29 | 529 | 洪瑞商业PoE |  | Whatsapp |  | 其他优质欧洲客户 2.26.xlsx#6 |
 
+## 成交记录（PI 包 · 自动汇总）
+
+- **Simon 的标签**（PI 包文件夹名）：**gg**　|　买方抬头：DELTA CONSULTING LLC
+- **单号** 1 个（2023-07-24 → 2023-07-24）　|　**销售** USD 100　|　**Simon 成本表利润** RMB 177
+
+| 单号 | 日期 | 单据 | 型号 | 数量 | 金额 | 采购（卖方 / RMB） | Simon 成本表（成本 / 收款 / 利润 RMB） |
+|---|---|---|---|---|---|---|---|
+| STSC20230724001 | 2023-07-24 | CI | STC-028GFP、STC-128GFP | 4 | USD 100.0 | HRUI / 470.0 | 490 / 95.3 / 177.1 |
+
+> 口径：同一单号多份文件取 CI > PI（最新修订）> Quotation；Quotation 行不计入销售合计；明细见 `data/pi_orders/销售单据明细.csv`、采购价见 `采购合同明细.csv`；原件在 Release `files-pi_2026-10`。
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`george@dc.ge`〔企业邮箱；来源：用户表原值〕
@@ -191,7 +206,7 @@ updated: 2026-10-21
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM-2BT），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-288DGGPM-2BT 一条规格链接；只问一个问题。
+- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STI-288DGGPM-2BT）；只问一个问题：当前在采购的主力型号与月量。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -199,7 +214,7 @@ updated: 2026-10-21
 
 ## SWOT
 
-- **S**：有 1 次实质回复（对方认识我们）；WhatsApp 直达
+- **S**：有成交史，信任与开户成本已付；有 1 次实质回复（对方认识我们）；WhatsApp 直达
 - **W**：俄语区：物流/收款/汇率摩擦高于主攻区
 - **O**：P1 STI-288DGGPM-2BT 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
@@ -220,7 +235,7 @@ updated: 2026-10-21
 | 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
-| 采购量/预算 | ❓ 未确认（有回复但未报量） |
+| 采购量/预算 | ✅ 有成交史（量待确认） |
 | 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
@@ -255,12 +270,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 93）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

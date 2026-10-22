@@ -36,6 +36,41 @@
    "quote": "Central to these systems are industrial Ethernet switches like the Vi-Link Industrial Unmanaged Ethernet Switches … IE5 IE8 IE10 IE12 IE14 IE18 IE24 IE28 IE216 IEN10 IEN21 IEN41 IEN42 IEN81 IEN82 IEN84",
    "url": "https://vilink.us/industrial-ethernet-switch/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20240418006（CI，2024-04-18）：STC-4168XGGCM 共 1 台，USD 452.0；采购 SmartByte RMB 2100.0；Simon 成本表利润 RMB 120.16",
+   "quote": "",
+   "url": "PI.zip:6 美国 Thu 可发展/CI.xls",
+   "date": "2024-04-18"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20241119006（PI，2024-11-19）：STC-110XGE、STC-14DUR 共 5 台，USD 530.0；采购 SmartByte RMB 1750.0；Simon 成本表利润 RMB 437.12",
+   "quote": "",
+   "url": "PI.zip:6 美国 Thu 可发展/STSC20241119006.xls",
+   "date": "2024-11-19"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC-20260821-001（Quotation，2026-08-21）：STC-110FE 共 10 台，USD 325.0",
+   "quote": "",
+   "url": "PI.zip:6 美国 Thu 可发展/STSC-20260821-001.xlsx",
+   "date": "2026-08-21"
+  },
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20260903006（CI，2026-09-24）：Fiber Media Converter 共 10 台，USD 165.0；采购 SmartByte RMB 0；Simon 成本表利润 RMB 192.61",
+   "quote": "",
+   "url": "PI.zip:6 美国 Thu 可发展/普通快递发票_STSC20260903006.xlsx",
+   "date": "2026-09-24"
+  },
+  {
+   "kind": "PI",
+   "claim": "PI 包文件夹「美国 Thu 可发展」：Simon 标签 可发展；单号 4 个，2024-04-18 → 2026-09-24，销售 USD 1147.0 / RMB 0，Simon 成本统计利润合计 RMB 749.89",
+   "quote": "",
+   "url": "PI.zip:6 美国 Thu 可发展",
+   "date": "2026-10-22"
   }
  ],
  "kp": [
@@ -45,10 +80,17 @@
    "email": "sales@vilinknet.com（产品 PDF 页脚公开）",
    "phone": "+1 714-312-0654",
    "source": "https://www.processregister.com/Vilink_Communications_Inc/Supplier/sid161883.htm ; https://vilink.us/wp-content/uploads/2024/08/MC12.pdf"
+  },
+  {
+   "name": "Thu Pham",
+   "role": "单据联系人",
+   "email": "thupvilink16@gmail.com",
+   "phone": "",
+   "source": "PI.zip 单据"
   }
  ],
  "notes": "A 确认：美国自有品牌工业交换机/MC 厂商 = 最佳 OEM 对象；P1 应改为 STI 工业系列（非 PoE 商用）。",
- "researched_at": "2026-10-21",
+ "researched_at": "2026-10-22",
  "deep": {
   "done_at": "2026-10-21",
   "level": "深挖 v1"
@@ -119,5 +161,21 @@
   "tier": 30,
   "why": "自有品牌 IE/IEN 工业交换机系列（5–16 口）与 Saga STI 工业线一一对应：IE5→STI-144GP（4+1 PoE）/ IE8·IEN82·IEN84→STI-288DGGPM（8 PoE + 2 SFP 管理型）；MC 类目→STI-110GE；按 OEM 贴牌 30% 档报价"
  },
- "email_hook": "Your IE/IEN industrial series sits exactly on the port counts we build as OEM (4+1, 8+2 SFP, 16+2), so I can quote the 8-port DIN managed unit in Vi-Link neutral packing alongside the media converters Thu already ordered."
+ "email_hook": "Your IE/IEN industrial series sits exactly on the port counts we build as OEM (4+1, 8+2 SFP, 16+2), so I can quote the 8-port DIN managed unit in Vi-Link neutral packing alongside the media converters Thu already ordered.",
+ "deal_pi": {
+  "folder": "6 美国 Thu 可发展",
+  "simon_label": "可发展",
+  "pay": "",
+  "bind": "",
+  "buyer": "Vi-Link, Inc.",
+  "orders": 4,
+  "first": "2024-04-18",
+  "last": "2026-09-24",
+  "usd": 1147.0,
+  "rmb": 0.0,
+  "profit_rmb": 749.89,
+  "models": "Fiber Media Converter、STC-110FE、STC-110XGE、STC-14DUR、STC-4168XGGCM"
+ },
+ "grade_override": "A",
+ "override_reason": "PI 包成单客户，Simon 标签 可发展 → A"
 }

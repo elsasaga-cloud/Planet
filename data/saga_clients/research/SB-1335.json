@@ -1,0 +1,57 @@
+{
+ "code": "SB-1335",
+ "name_official": "«Rio-Import» LLC",
+ "website_status": "",
+ "summary": "已成单 1 次（STSC20240523008，2024-05-23，USD 1,140）；Simon 文件夹标签 gg（已凉）；详见 research/SB-1335.json",
+ "type": "进口贸易（克拉斯诺亚尔斯克）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "PI",
+   "claim": "成交单据 STSC20240523008（PI，2024-05-23）：STI-050GE、STI-080GE 共 4 台，USD 1140.0；采购 SmartByte RMB 626.0；Simon 成本表利润 RMB 514",
+   "quote": "",
+   "url": "PI.zip:8 俄罗斯 Igor gg/STSC20240523008.xls",
+   "date": "2024-05-23"
+  },
+  {
+   "kind": "PI",
+   "claim": "PI 包文件夹「俄罗斯 Igor gg」：Simon 标签 gg；单号 1 个，2024-05-23 → 2024-05-23，销售 USD 1140.0 / RMB 0，Simon 成本统计利润合计 RMB 514.0",
+   "quote": "",
+   "url": "PI.zip:8 俄罗斯 Igor gg",
+   "date": "2026-10-22"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Igor Popov",
+   "role": "单据联系人",
+   "email": "rio-popov@mail.ru",
+   "phone": "",
+   "source": "PI.zip 单据"
+  }
+ ],
+ "notes": "",
+ "researched_at": "2026-10-22",
+ "deal_pi": {
+  "folder": "8 俄罗斯 Igor gg",
+  "simon_label": "gg",
+  "pay": "",
+  "bind": "",
+  "buyer": "«Rio-Import» LLC",
+  "orders": 1,
+  "first": "2024-05-23",
+  "last": "2024-05-23",
+  "usd": 1140.0,
+  "rmb": 0.0,
+  "profit_rmb": 514.0,
+  "models": "STI-050GE、STI-080GE"
+ },
+ "saga_fit": {
+  "p1": "",
+  "tier": 20,
+  "why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
+ },
+ "grade_override": "B",
+ "override_reason": "PI 包成单客户，Simon 标签 gg：gg（已凉）→ B（成交过·慢慢跟进）"
+}

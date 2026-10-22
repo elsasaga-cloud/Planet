@@ -20,6 +20,20 @@ PRICE_CSV = os.path.join(ROOT, 'data', '价格主表.csv')
 DIGEST_JSON = os.path.join(DATA, 'site_digest.json')   # snapshot_digest.py 产物（官网快照摘要），缺失则跳过
 GMAIL_DIGEST = os.path.join(DATA, 'gmail_digest.json')  # gmail_digest.py 产物（S 邮箱按客户汇总），缺失则跳过
 GMAIL = json.load(open(GMAIL_DIGEST, encoding='utf-8')) if os.path.exists(GMAIL_DIGEST) else {}
+PI_DIR = os.path.join(ROOT, 'data', 'pi_orders')  # parse_pi.py 产物（PI 包成交记录），缺失则跳过
+
+
+def _load_pi():
+    out = {}
+    p = os.path.join(PI_DIR, '单号对照.csv')
+    if not os.path.exists(p):
+        return out
+    for r in csv.DictReader(open(p, encoding='utf-8-sig')):
+        out.setdefault(r['客户文件夹'], []).append(r)
+    return out
+
+
+PI_ORDERS = _load_pi()
 
 
 def load_digest():
@@ -343,6 +357,34 @@ def fmt_deep(ent):
         L.append(f"- **Saga 对位结论**：P1 {sf.get('p1') or '待核型（无标准对应）'}（{sf.get('tier', '')}% 档）——{sf.get('why', '')}")
     if rs.get('email_hook'):
         L.append(f"- **邮件切入句（英文）**：{rs['email_hook']}")
+    return '\n'.join(L)
+
+
+def fmt_pi(ent):
+    """成交记录（PI 包 · 自动汇总）：来自 data/pi_orders/单号对照.csv + 客户编号映射.json（build 阶段挂到 ent['pi']）。"""
+    pi = ent.get('pi') or {}
+    rows = sorted(PI_ORDERS.get(pi.get('folder', ''), []), key=lambda r: r['日期'] or '')
+    L = []
+    lab = pi.get('simon') or '—'
+    L.append(f"- **Simon 的标签**（PI 包文件夹名）：**{lab}**" + (f"　|　收款：{pi['pay']}" if pi.get('pay') else '') + (f"　|　{pi['bind']}" if pi.get('bind') else '') + f"　|　买方抬头：{pi.get('buyer') or '—'}")
+    if rows:
+        usd = sum(float(r['销售合计'] or 0) for r in rows if r['币种'] == 'USD' and not r['取用单据'].startswith('Quotation'))
+        rmb = sum(float(r['销售合计'] or 0) for r in rows if r['币种'] == 'RMB' and not r['取用单据'].startswith('Quotation'))
+        prof = sum(float(r['利润RMB'] or 0) for r in rows if r['利润RMB'])
+        first = min(r['日期'] for r in rows if r['日期']) if any(r['日期'] for r in rows) else '?'
+        last = max(r['日期'] for r in rows if r['日期']) if any(r['日期'] for r in rows) else '?'
+        L.append(f"- **单号** {len(rows)} 个（{first} → {last}）　|　**销售** USD {usd:,.0f}" + (f" + RMB {rmb:,.0f}（货代走账）" if rmb else '') + (f"　|　**Simon 成本表利润** RMB {prof:,.0f}" if prof else ''))
+        L.append('')
+        L.append('| 单号 | 日期 | 单据 | 型号 | 数量 | 金额 | 采购（卖方 / RMB） | Simon 成本表（成本 / 收款 / 利润 RMB） |')
+        L.append('|---|---|---|---|---|---|---|---|')
+        for r in rows:
+            pur = (f"{r['采购卖方']} / {r['采购合计RMB']}" if r['采购合计RMB'] else '—')
+            cs = (f"{r['Simon成本统计:成本RMB']} / {r['总收款RMB']} / {r['利润RMB']}" if r['利润RMB'] else '—')
+            L.append(f"| {r['单号']} | {r['日期'] or '?'} | {r['取用单据'].split(' ')[0]} | {(r['型号'] or '—')[:60]} | {r['销售数量'] or '?'} | {r['币种']} {r['销售合计']} | {pur} | {cs} |")
+        L.append('')
+        L.append('> 口径：同一单号多份文件取 CI > PI（最新修订）> Quotation；Quotation 行不计入销售合计；明细见 `data/pi_orders/销售单据明细.csv`、采购价见 `采购合同明细.csv`；原件在 Release `files-pi_2026-10`。')
+    else:
+        L.append('- （PI 包里有此客户文件夹，但未解析出带单号的单据，见 `data/pi_orders/_parse_report.md`）')
     return '\n'.join(L)
 
 
@@ -850,6 +892,11 @@ def render_one(ent):
     lines.append('')
     lines.append(fmt_followups(ent))
     lines.append('')
+    if ent.get('pi'):
+        lines.append('## 成交记录（PI 包 · 自动汇总）')
+        lines.append('')
+        lines.append(fmt_pi(ent))
+        lines.append('')
     if g in ('A', 'B') and GMAIL.get(code):
         lines.append('## 邮箱往来（S 邮箱 · 自动汇总）')
         lines.append('')

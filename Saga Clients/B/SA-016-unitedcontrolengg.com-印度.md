@@ -1,13 +1,13 @@
 # unitedcontrolengg.com
 **官方名称（调研核实）**：United Control Engineers India Pvt. Ltd.（Greater Noida）
 
-> **评级 A**　|　印度　|　档案编号 `SA-016`　|　优先级 ★★★　|　状态：成交过·维护
+> **评级 B**　|　印度　|　档案编号 `SA-016`　|　优先级 ★★　|　状态：成交过·已凉（Simon: gg）
 >
-> **类型**：分销商 + 系统集成（工业自动化）（推断）　|　**历史关系**：成交/下单过；实质回复 3 次；WhatsApp 已加；推送 10 次（2023-12-09 → 2025-02-26）　|　**所在清单**：WA跟进　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：分销商 + 系统集成（工业自动化）（推断）　|　**历史关系**：成交/下单过；实质回复 3 次；WhatsApp 已加；推送 10 次（2023-12-09 → 2025-02-26）　|　**所在清单**：WA跟进、成交(PI)、Simon:gg　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-016
-rating: A
+rating: B
 rating_auto: A
 name_official: "United Control Engineers India Pvt. Ltd.（Greater Noida）"
 score: 107
@@ -15,7 +15,7 @@ country: 印度
 region: 南亚
 website: unitedcontrolengg.com
 type: 分销商 + 系统集成（工业自动化）
-tier_tags: ["WA跟进"]
+tier_tags: ["WA跟进", "成交(PI)", "Simon:gg"]
 deal: yes
 replies: 3
 followups: 10
@@ -26,18 +26,18 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：印度大诺伊达的工业自动化产品分销商/系统集成商（2001 年起，11–50 人，营收 $10–15M 口径），Delta/ABB/Phoenix Contact/nVent Hoffman/Schneider 等授权渠道，产品类目含工业路由器、SMPS、VFD。用户表：3 次实质回复，WhatsApp 已加，兴趣 5/8 口非管理工业 FS。（调研 2026-10-21；表内兴趣：5/8非管理工业FS）
-- **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+30 实质回复 3 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
+- **是谁**：印度大诺伊达的工业自动化产品分销商/系统集成商（2001 年起，11–50 人，营收 $10–15M 口径），Delta/ABB/Phoenix Contact/nVent Hoffman/Schneider 等授权渠道，产品类目含工业路由器、SMPS、VFD。用户表：3 次实质回复，WhatsApp 已加，兴趣 5/8 口非管理工业 FS。（调研 2026-10-22；表内兴趣：5/8非管理工业FS）
+- **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+30 实质回复 3 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
 - **历史互动**：成交/下单过；实质回复 3 次；WhatsApp 已加；推送 10 次（2023-12-09 → 2025-02-26）；最近一次客户回复：2024-08-13：基本只需要电口 不要光
 - **P1（下一步唯一主推）**：STI-144GP — 深挖对位：其交换机页主推 5 口（SFNB 5TX / TSW100）与 8–16 口非管理工业机 → STI-144GP（4+1 PoE）/ STI-288DGGPM（8+2 管理）/ STI-21616GP（16 PoE）；分销 20% 档；$34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -51,12 +51,12 @@ updated: 2026-10-21
 | 来源（From） | 领英 | 事实（用户表） |
 | 兴趣（Interested in） | 5/8非管理工业FS | 事实（用户表） |
 | 用户备注（Remark） | 919313 550492<br>已加 | 事实（用户表） |
-| 所在清单 | WA跟进 | 事实（文件路径） |
+| 所在清单 | WA跟进、成交(PI)、Simon:gg | 事实（文件路径） |
 | 在卖/在用品牌（备注所见） | FS | 事实（用户备注）/ 推断 |
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：在线
+- **状态：已调研（2026-10-22）**　网站状态：在线
 - **是谁**：印度大诺伊达的工业自动化产品分销商/系统集成商（2001 年起，11–50 人，营收 $10–15M 口径），Delta/ABB/Phoenix Contact/nVent Hoffman/Schneider 等授权渠道，产品类目含工业路由器、SMPS、VFD。用户表：3 次实质回复，WhatsApp 已加，兴趣 5/8 口非管理工业 FS。
 - **类型**：分销商 + 系统集成（工业自动化）
 - **规模**：11–50 人（LinkedIn）；$10–50M（SignalHire）/ $15.2M（ZoomInfo）
@@ -73,7 +73,12 @@ updated: 2026-10-21
 - **【官网】交换机落地页列 Phoenix Contact FL SWITCH SFNB 5TX / 1016N 与 Teltonika TSW 系列**
   > FL SWITCH SFNB 5TX This compact unmanaged switch … 5 RJ45 ports … FL SWITCH 1016N … 16 Ethernet ports … TSW100 A compact unmanaged Gigabit switch with PoE support for industrial applications … TSW200 A managed Industrial Ethernet Switch
   > 来源：https://unitedcontrolengg.com/ethernet-switch/（抓取 2026-05-23）
+- **【PI】成交单据 STSC20240416005（CI，2024-04-22）：Industrial Switch 共 4 台，USD 120.0；采购 、SmartByte RMB 524.0；Simon 成本表利润 RMB 481.99**
+  > 来源：PI.zip:5 印度 Rajesh gg/普通快递发票.xlsx（抓取 2024-04-22）
+- **【PI】PI 包文件夹「印度 Rajesh gg」：Simon 标签 gg；单号 1 个，2024-04-22 → 2024-04-22，销售 USD 120.0 / RMB 0，Simon 成本统计利润合计 RMB 481.99**
+  > 来源：PI.zip:5 印度 Rajesh gg（抓取 2026-10-22）
 - **KP**：—（市场部）marketing@unitedcontrolengg.com +91 93111 50492〔https://unitedcontrolengg.com/〕
+- **KP**：Rajesh（单据联系人）accounts@unitedcontrolengg.com 〔PI.zip 单据〕
 - 备注：A 确认：工业自动化分销商是 STI 非管理工业交换机（STI-244GP/288GP）的天然渠道；印度区价格敏感，报 20% 分销档并给 MOQ 阶梯。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
@@ -144,6 +149,17 @@ updated: 2026-10-21
 | 2024-11-11 | 1111 | 问需求 |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#73 |
 | 2025-02-26 | 2025.2.26 | 问需求 |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#73 |
 
+## 成交记录（PI 包 · 自动汇总）
+
+- **Simon 的标签**（PI 包文件夹名）：**gg**　|　买方抬头：UNITED CONTROL ENGINEERS INDIA PRIVATE LIMITED
+- **单号** 1 个（2024-04-22 → 2024-04-22）　|　**销售** USD 120　|　**Simon 成本表利润** RMB 482
+
+| 单号 | 日期 | 单据 | 型号 | 数量 | 金额 | 采购（卖方 / RMB） | Simon 成本表（成本 / 收款 / 利润 RMB） |
+|---|---|---|---|---|---|---|---|
+| STSC20240416005 | 2024-04-22 | CI | Industrial Switch | 4 | USD 120.0 | 、SmartByte / 524.0 | 733.93 / 170.35 / 481.99 |
+
+> 口径：同一单号多份文件取 CI > PI（最新修订）> Quotation；Quotation 行不计入销售合计；明细见 `data/pi_orders/销售单据明细.csv`、采购价见 `采购合同明细.csv`；原件在 Release `files-pi_2026-10`。
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`sumitagrwal@yahoo.com`〔免费邮箱；来源：用户表原值〕
@@ -157,6 +173,7 @@ updated: 2026-10-21
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | — | 市场部 | marketing@unitedcontrolengg.com / +91 93111 50492 | 调研核实（公开页） | https://unitedcontrolengg.com/ |
+| Rajesh | 单据联系人 | accounts@unitedcontrolengg.com | 调研核实（公开页） | PI.zip 单据 |
 | Sumit Agrawal | — | sumitagrwal@yahoo.com / +919313550492 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）
@@ -187,7 +204,7 @@ updated: 2026-10-21
 - **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STI-144GP）；只问一个问题：当前在采购的主力型号与月量。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
-- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
@@ -214,7 +231,7 @@ updated: 2026-10-21
 | 触达通道 | ✅ WhatsApp 已加 |
 | 现用/在卖交换品牌 | ✅ FS |
 | 采购量/预算 | ✅ 有成交史（量待确认） |
-| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -225,13 +242,13 @@ updated: 2026-10-21
 **主题**：STI-144GP - compact industrial switch (Marvell-based, neutral label)
 
 ```text
-Hi Sumit,
+Hi Rajesh,
 
 Thank you again for your earlier order with us - this is a short update rather than a cold mail. Next to the FL SWITCH SFNB 5TX and TSW100 slots on your new Ethernet-switch page, a 4+1 gigabit PoE DIN unit at distributor EXW usually becomes the volume SKU, so that is the one I am pricing first with the 8-port managed version as the step-up.
 
 We supply a Marvell-based compact industrial switch, 4x Gigabit PoE+ plus 1 SFP - model STI-144GP - that fits the same slot as your Phoenix Contact FL SWITCH SFNB 5TX at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $34.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
+One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 
 If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
@@ -252,12 +269,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-04**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 107）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 107）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

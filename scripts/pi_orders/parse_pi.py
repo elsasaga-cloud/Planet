@@ -261,6 +261,11 @@ def main():
             tot = round(sum(float(d['total']) for d in ds if d['total'] not in ('', None) and d['type'] != 'Quotation' and d.get('currency') == 'USD'), 2)
             tot_rmb = round(sum(float(d['total']) for d in ds if d['total'] not in ('', None) and d['type'] != 'Quotation' and d.get('currency') == 'RMB'), 2)
             codes = set()
+            mp = os.path.join(OUT, '客户编号映射.json')
+            if os.path.exists(mp):
+                mm = json.load(open(mp, encoding='utf-8'))['map'].get(re.match(r'\s*(\d+)', cust).group(1) if re.match(r'\s*(\d+)', cust) else '')
+                if mm:
+                    codes.add(mm['code'])
             for em in emails:
                 for one in re.split(r'[,;\s]+', em):
                     dmn = one.split('@')[-1].lower()

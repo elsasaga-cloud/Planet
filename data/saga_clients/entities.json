@@ -52,11 +52,13 @@
 "tags": [
 "A优质名单(阿联酋 沙特阿拉伯)",
 "AI评估(阿联酋 沙特阿拉伯)·DONE",
-"S重点"
+"S重点",
+"成交(PI)",
+"Simon:可发展"
 ],
 "flags": {
 "wa_added": 2,
-"deal": 3
+"deal": 1
 },
 "fit": {
 "switch": 2,
@@ -572,6 +574,21 @@
 "e:asteldig@asteldigicom.ae",
 "p:506520753"
 ],
+"pi": {
+"code": "SA-001",
+"keys": [
+"d:asteldigicom.com",
+"d:asteldigicom.ae"
+],
+"folder": "18 阿联酋 Sanjay 可发展",
+"label": "阿联酋 Sanjay 可发展",
+"simon": "可发展",
+"pay": "",
+"bind": "",
+"buyer": "ASTEL DIGICOM Electronics LLC",
+"country": "阿联酋",
+"folder_no": "18"
+},
 "grade_auto": "A",
 "score": 164,
 "reasons": [
@@ -589,7 +606,7 @@
 "+5 跟进表最近平台标记 S"
 ],
 "c_sub": "",
-"status": "成交过·维护",
+"status": "成交过·可发展（Simon）",
 "code": "SA-001",
 "grade": "A",
 "research": {
@@ -633,10 +650,24 @@
 "quote": "INDUSTRIAL SWITCH UNMANAGED 8 PORT POE WITH 2 UPLINK AND 2 FIBER PORTS AED575.00 In stock … Industrial PoE Switch 16 Port 10G L3 Managed AED1,375.00 In stock",
 "url": "https://asteldigicom.com/industrial-poe-switch-16-port-10g-l3-managed.-a.html",
 "date": "2026-10-21"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STAG20251127018（PI，2025-11-27）：HDR-15-24、STI-110GE、STI-140GE 共 8 台，USD 166.0；采购 SmartByte RMB 934.0；Simon 成本表利润 RMB 267.75",
+"quote": "",
+"url": "PI.zip:18 阿联酋 Sanjay 可发展/STAG20251127018.xls",
+"date": "2025-11-27"
+},
+{
+"kind": "PI",
+"claim": "PI 包文件夹「阿联酋 Sanjay 可发展」：Simon 标签 可发展；单号 1 个，2025-11-27 → 2025-11-27，销售 USD 166.0 / RMB 0，Simon 成本统计利润合计 RMB 267.75",
+"quote": "",
+"url": "PI.zip:18 阿联酋 Sanjay 可发展",
+"date": "2026-10-22"
 }
 ],
 "notes": "成单客户，S 重点名单；下一步按老客户回访做，主推工业 PoE 整线（替代其在卖的 ONV）。",
-"researched_at": "2026-10-21",
+"researched_at": "2026-10-22",
 "deep": {
 "done_at": "2026-10-21",
 "level": "深挖 v1"
@@ -704,7 +735,32 @@
 "tier": 30,
 "why": "其主力 AST-IMC-GB-POE-8E2U2S-PSE（8 GE PoE + 2 SFP 工业）与 STI-288DGGPM 同位，自有品牌贴牌 30% 档；千兆 MC 对位 STI-110GE；10G L3 工业机需 SmartByte 另核"
 },
-"email_hook": "The AST-IMC-GB-POE-8E2U2S class 8-port gigabit industrial PoE unit is the one we can supply with ASTEL packing on a Marvell platform, so I am quoting it with and without the 48 V 240 W DIN power supply you asked about last time."
+"email_hook": "The AST-IMC-GB-POE-8E2U2S class 8-port gigabit industrial PoE unit is the one we can supply with ASTEL packing on a Marvell platform, so I am quoting it with and without the 48 V 240 W DIN power supply you asked about last time.",
+"deal_pi": {
+"folder": "18 阿联酋 Sanjay 可发展",
+"simon_label": "可发展",
+"pay": "",
+"bind": "",
+"buyer": "ASTEL DIGICOM Electronics LLC",
+"orders": 1,
+"first": "2025-11-27",
+"last": "2025-11-27",
+"usd": 166.0,
+"rmb": 0.0,
+"profit_rmb": 267.75,
+"models": "HDR-15-24、STI-110GE、STI-140GE"
+},
+"kp": [
+{
+"name": "Sanjay Singla",
+"role": "General Manager",
+"email": "asteldigicom@eim.ae; navsim@eim.ae",
+"phone": "",
+"source": "PI.zip 单据"
+}
+],
+"grade_override": "A",
+"override_reason": "PI 包成单客户，Simon 标签 可发展 → A"
 }
 },
 {
@@ -2111,10 +2167,12 @@
 "categories": [],
 "tags": [
 "A优质名单(Singapore)",
-"AI评估(SG)·DONE"
+"AI评估(SG)·DONE",
+"成交(PI)",
+"Simon:gg"
 ],
 "flags": {
-"deal": 2
+"deal": 1
 },
 "fit": {
 "switch": 2
@@ -2282,6 +2340,20 @@
 "e:sales@resonantnetworks.com",
 "e:trevorloijt@resonantnetworks.com"
 ],
+"pi": {
+"code": "SA-006",
+"keys": [
+"d:resonantnetworks.com"
+],
+"folder": "11 新加坡 Au gg",
+"label": "新加坡 Au gg",
+"simon": "gg",
+"pay": "",
+"bind": "",
+"buyer": "Resonant Networks Pte Ltd",
+"country": "新加坡",
+"folder_no": "11"
+},
 "grade_auto": "A",
 "score": 130,
 "reasons": [
@@ -2298,9 +2370,9 @@
 "+2 最近活动 2024"
 ],
 "c_sub": "",
-"status": "成交过·维护",
+"status": "成交过·已凉（Simon: gg）",
 "code": "SA-006",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SA-006",
 "name_official": "Resonant Networks Pte. Ltd.（Singapore）",
@@ -2344,6 +2416,20 @@
 "quote": "1-RU 48 channels C-band Mux-Demux - Variable Optical Attenuator in SFP form factor … DWDM Open Line Systems, DWDM with PQC and QKD - Ethernet-over-Copper (2-wire) Extender in SFP form factor",
 "url": "https://resonantnetworks.com/products/",
 "date": "2026-10-21"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20240821011（CI，2024-09-06）：Commercial Switch 共 1 台，USD 185.0；采购 HRUI RMB 1040.0；Simon 成本表利润 RMB 336.63",
+"quote": "",
+"url": "PI.zip:11 新加坡 Au gg/普通快递发票.xlsx",
+"date": "2024-09-06"
+},
+{
+"kind": "PI",
+"claim": "PI 包文件夹「新加坡 Au gg」：Simon 标签 gg；单号 1 个，2024-09-06 → 2024-09-06，销售 USD 185.0 / RMB 0，Simon 成本统计利润合计 RMB 336.63",
+"quote": "",
+"url": "PI.zip:11 新加坡 Au gg",
+"date": "2026-10-22"
 }
 ],
 "kp": [
@@ -2353,10 +2439,17 @@
 "email": "sales@resonantnetworks.com",
 "phone": "+65 6871 4128",
 "source": "https://www.crunchbase.com/organization/resonant-networks"
+},
+{
+"name": "Au Wai Choon",
+"role": "单据联系人",
+"email": "sales-inf@resonantnetworks.com",
+"phone": "",
+"source": "PI.zip 单据"
 }
 ],
 "notes": "A 级确认（成单 + 数据中心网络集成）；对位 Hohunet/CENTEC 线 10G/25G（STH 系列）与 STC L3 48 口，而非 PoE 接入。",
-"researched_at": "2026-10-21",
+"researched_at": "2026-10-22",
 "deep": {
 "done_at": "2026-10-21",
 "level": "深挖 v2（官网 + ACRA 注册核对）"
@@ -2409,7 +2502,21 @@
 "tier": 25,
 "why": "DC 项目的管理网/带外网与非关键 TOR：48 口千兆 + 10G 上联 L3（STC-448XGGM(L3)）与 24 口 10G 上联（STC-424XGGPM-280W）；MPO/光纤周边继续配套供货"
 },
-"email_hook": "For the out-of-band and management layer on data-centre jobs a 48-port L3 unit with 10G uplinks at EXW pricing is where we are usually slotted in, so I am sending that alongside the MPO assemblies Trevor ordered before."
+"email_hook": "For the out-of-band and management layer on data-centre jobs a 48-port L3 unit with 10G uplinks at EXW pricing is where we are usually slotted in, so I am sending that alongside the MPO assemblies Trevor ordered before.",
+"deal_pi": {
+"folder": "11 新加坡 Au gg",
+"simon_label": "gg",
+"pay": "",
+"bind": "",
+"buyer": "Resonant Networks Pte Ltd",
+"orders": 1,
+"first": "2024-09-06",
+"last": "2024-09-06",
+"usd": 185.0,
+"rmb": 0.0,
+"profit_rmb": 336.63,
+"models": "Commercial Switch"
+}
 }
 },
 {
@@ -2454,10 +2561,13 @@
 ],
 "categories": [],
 "tags": [
-"WA跟进"
+"WA跟进",
+"成交(PI)",
+"Simon:gg"
 ],
 "flags": {
-"engaged_note": 1
+"engaged_note": 1,
+"deal": 1
 },
 "fit": {
 "switch": 1
@@ -2547,6 +2657,21 @@
 "fu_sample": false,
 "last_year": 2024,
 "merge_keys": [],
+"pi": {
+"code": "SA-007",
+"keys": [
+"d:xspec.com.my",
+"d:xspectechnology.com"
+],
+"folder": "9 马来西亚 Sugito gg",
+"label": "马来西亚 Sugito gg",
+"simon": "gg",
+"pay": "",
+"bind": "",
+"buyer": "XSPec Hospitech Sdn Bhd",
+"country": "马来西亚",
+"folder_no": "9"
+},
 "grade_auto": "A",
 "score": 123,
 "reasons": [
@@ -2560,7 +2685,7 @@
 "+2 最近活动 2024"
 ],
 "c_sub": "",
-"status": "成交过·维护",
+"status": "成交过·已凉（Simon: gg）",
 "code": "SA-007",
 "grade": "B",
 "research": {
@@ -2594,6 +2719,27 @@
 "quote": "对交换机，POE交换机有兴趣 Skype: sugitowibawa 公司地址：No. 8, Jalan Industri USJ 1/8 Taman Perindustrian USJ 1 47600 Subang Jaya, Selangor, Malaysia / Sugito Wibawa Chief Executive Officer",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20240618009（CI，2024-06-27）：Commercial Switch 共 1 台，USD 90.0；采购 四川海思视讯电子有限公司 RMB 500.0；Simon 成本表利润 RMB 209.61",
+"quote": "",
+"url": "PI.zip:9 马来西亚 Sugito gg/普通快递发票.xlsx",
+"date": "2024-06-27"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20240711009（CI，2024-07-17）：Commercial Switch 共 12 台，USD 1056.0；采购 四川海思视讯电子有限公司 RMB 6000.0；Simon 成本表利润 RMB 2969.78",
+"quote": "",
+"url": "PI.zip:9 马来西亚 Sugito gg/普通快递发票.xlsx",
+"date": "2024-07-17"
+},
+{
+"kind": "PI",
+"claim": "PI 包文件夹「马来西亚 Sugito gg」：Simon 标签 gg；单号 2 个，2024-06-27 → 2024-07-17，销售 USD 1146.0 / RMB 0，Simon 成本统计利润合计 RMB 3179.39",
+"quote": "",
+"url": "PI.zip:9 马来西亚 Sugito gg",
+"date": "2026-10-22"
 }
 ],
 "kp": [
@@ -2608,7 +2754,7 @@
 "grade_override": "B",
 "override_reason": "成单但核心业务是 NDT/国防/医疗设备代理，交换机为项目配套，复购逻辑弱（且含军警安防，INH 守界）；放 B 慢跟、被动响应。",
 "notes": "",
-"researched_at": "2026-10-21",
+"researched_at": "2026-10-22",
 "deep": {
 "done_at": "2026-10-21",
 "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
@@ -2641,7 +2787,21 @@
 "tier": 25,
 "why": "项目 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+ 管理，$84.1）作安防/实验室项目配套；24 口 STC-424DGGPM-280W（$140.1）；工业 STI-288GP（$59.8）"
 },
-"email_hook": "Sugito, following our earlier exchange on PoE switches: for your security/lab projects, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW (24-port 280 W at $140.1), neutral packing — is there a current tender where I can quote a specific quantity?"
+"email_hook": "Sugito, following our earlier exchange on PoE switches: for your security/lab projects, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW (24-port 280 W at $140.1), neutral packing — is there a current tender where I can quote a specific quantity?",
+"deal_pi": {
+"folder": "9 马来西亚 Sugito gg",
+"simon_label": "gg",
+"pay": "",
+"bind": "",
+"buyer": "XSPec Hospitech Sdn Bhd",
+"orders": 2,
+"first": "2024-06-27",
+"last": "2024-07-17",
+"usd": 1146.0,
+"rmb": 0.0,
+"profit_rmb": 3179.39,
+"models": "Commercial Switch"
+}
 }
 },
 {
@@ -3878,7 +4038,9 @@
 "remarks": [],
 "categories": [],
 "tags": [
-"S重点"
+"S重点",
+"成交(PI)",
+"Simon:可发展"
 ],
 "flags": {
 "deal": 1
@@ -4149,6 +4311,21 @@
 "fu_sample": false,
 "last_year": 2025,
 "merge_keys": [],
+"pi": {
+"code": "SA-011",
+"keys": [
+"d:vilinknet.com",
+"d:vi-link.net"
+],
+"folder": "6 美国 Thu 可发展",
+"label": "美国 Thu 可发展",
+"simon": "可发展",
+"pay": "",
+"bind": "",
+"buyer": "Vi-Link, Inc.",
+"country": "美国",
+"folder_no": "6"
+},
 "grade_auto": "A",
 "score": 117,
 "reasons": [
@@ -4164,7 +4341,7 @@
 "+5 跟进表最近平台标记 S"
 ],
 "c_sub": "",
-"status": "成交过·维护",
+"status": "成交过·可发展（Simon）",
 "code": "SA-011",
 "grade": "A",
 "research": {
@@ -4205,6 +4382,41 @@
 "quote": "Central to these systems are industrial Ethernet switches like the Vi-Link Industrial Unmanaged Ethernet Switches … IE5 IE8 IE10 IE12 IE14 IE18 IE24 IE28 IE216 IEN10 IEN21 IEN41 IEN42 IEN81 IEN82 IEN84",
 "url": "https://vilink.us/industrial-ethernet-switch/",
 "date": "2026-10-21"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20240418006（CI，2024-04-18）：STC-4168XGGCM 共 1 台，USD 452.0；采购 SmartByte RMB 2100.0；Simon 成本表利润 RMB 120.16",
+"quote": "",
+"url": "PI.zip:6 美国 Thu 可发展/CI.xls",
+"date": "2024-04-18"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20241119006（PI，2024-11-19）：STC-110XGE、STC-14DUR 共 5 台，USD 530.0；采购 SmartByte RMB 1750.0；Simon 成本表利润 RMB 437.12",
+"quote": "",
+"url": "PI.zip:6 美国 Thu 可发展/STSC20241119006.xls",
+"date": "2024-11-19"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC-20260821-001（Quotation，2026-08-21）：STC-110FE 共 10 台，USD 325.0",
+"quote": "",
+"url": "PI.zip:6 美国 Thu 可发展/STSC-20260821-001.xlsx",
+"date": "2026-08-21"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20260903006（CI，2026-09-24）：Fiber Media Converter 共 10 台，USD 165.0；采购 SmartByte RMB 0；Simon 成本表利润 RMB 192.61",
+"quote": "",
+"url": "PI.zip:6 美国 Thu 可发展/普通快递发票_STSC20260903006.xlsx",
+"date": "2026-09-24"
+},
+{
+"kind": "PI",
+"claim": "PI 包文件夹「美国 Thu 可发展」：Simon 标签 可发展；单号 4 个，2024-04-18 → 2026-09-24，销售 USD 1147.0 / RMB 0，Simon 成本统计利润合计 RMB 749.89",
+"quote": "",
+"url": "PI.zip:6 美国 Thu 可发展",
+"date": "2026-10-22"
 }
 ],
 "kp": [
@@ -4214,10 +4426,17 @@
 "email": "sales@vilinknet.com（产品 PDF 页脚公开）",
 "phone": "+1 714-312-0654",
 "source": "https://www.processregister.com/Vilink_Communications_Inc/Supplier/sid161883.htm ; https://vilink.us/wp-content/uploads/2024/08/MC12.pdf"
+},
+{
+"name": "Thu Pham",
+"role": "单据联系人",
+"email": "thupvilink16@gmail.com",
+"phone": "",
+"source": "PI.zip 单据"
 }
 ],
 "notes": "A 确认：美国自有品牌工业交换机/MC 厂商 = 最佳 OEM 对象；P1 应改为 STI 工业系列（非 PoE 商用）。",
-"researched_at": "2026-10-21",
+"researched_at": "2026-10-22",
 "deep": {
 "done_at": "2026-10-21",
 "level": "深挖 v1"
@@ -4288,7 +4507,23 @@
 "tier": 30,
 "why": "自有品牌 IE/IEN 工业交换机系列（5–16 口）与 Saga STI 工业线一一对应：IE5→STI-144GP（4+1 PoE）/ IE8·IEN82·IEN84→STI-288DGGPM（8 PoE + 2 SFP 管理型）；MC 类目→STI-110GE；按 OEM 贴牌 30% 档报价"
 },
-"email_hook": "Your IE/IEN industrial series sits exactly on the port counts we build as OEM (4+1, 8+2 SFP, 16+2), so I can quote the 8-port DIN managed unit in Vi-Link neutral packing alongside the media converters Thu already ordered."
+"email_hook": "Your IE/IEN industrial series sits exactly on the port counts we build as OEM (4+1, 8+2 SFP, 16+2), so I can quote the 8-port DIN managed unit in Vi-Link neutral packing alongside the media converters Thu already ordered.",
+"deal_pi": {
+"folder": "6 美国 Thu 可发展",
+"simon_label": "可发展",
+"pay": "",
+"bind": "",
+"buyer": "Vi-Link, Inc.",
+"orders": 4,
+"first": "2024-04-18",
+"last": "2026-09-24",
+"usd": 1147.0,
+"rmb": 0.0,
+"profit_rmb": 749.89,
+"models": "Fiber Media Converter、STC-110FE、STC-110XGE、STC-14DUR、STC-4168XGGCM"
+},
+"grade_override": "A",
+"override_reason": "PI 包成单客户，Simon 标签 可发展 → A"
 }
 },
 {
@@ -4328,7 +4563,10 @@
 "categories": [],
 "tags": [
 "A优质名单(UK)",
-"AI评估(UK)·DONE"
+"AI评估(UK)·DONE",
+"成交(PI)",
+"Simon:可发展",
+"PayPal"
 ],
 "flags": {
 "deal": 1
@@ -4454,6 +4692,20 @@
 "d:gogreenit.net",
 "e:info@gogreenit.net"
 ],
+"pi": {
+"code": "SA-012",
+"keys": [
+"d:gogreenit.net"
+],
+"folder": "17 英国 Chris PayPal 可发展",
+"label": "英国 Chris PayPal 可发展",
+"simon": "可发展",
+"pay": "PayPal",
+"bind": "",
+"buyer": "GOGREENIT",
+"country": "英国",
+"folder_no": "17"
+},
 "grade_auto": "A",
 "score": 116,
 "reasons": [
@@ -4468,9 +4720,9 @@
 "+5 最近活动 2025"
 ],
 "c_sub": "",
-"status": "成交过·维护",
+"status": "成交过·可发展（Simon）",
 "code": "SA-012",
-"grade": "B",
+"grade": "A",
 "research": {
 "code": "SA-012",
 "name_official": "Go Green IT Ltd（Derby, UK）",
@@ -4510,12 +4762,26 @@
 "quote": "Go Green IT offers an IT equipment disposal service, where we aim to refurbish and reuse as many components as possible … We will adhere to the WEEE T11 exemption for repairing and refurbishing items",
 "url": "http://www.gogreenit.net/index.php?page=EquipmentRecycling",
 "date": "2026-10-21"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STAG20250823017（CI，2025-08-23）：STI-42424XGGPM-4BT 共 1 台，USD 588.0；采购 SmartByte RMB 2912.0；Simon 成本表利润 RMB 1125.94",
+"quote": "",
+"url": "PI.zip:17 英国 Chris PayPal 可发展/CI.xls",
+"date": "2025-08-23"
+},
+{
+"kind": "PI",
+"claim": "PI 包文件夹「英国 Chris PayPal 可发展」：Simon 标签 可发展，收款 PayPal；单号 1 个，2025-08-23 → 2025-08-23，销售 USD 588.0 / RMB 0，Simon 成本统计利润合计 RMB 1125.94",
+"quote": "",
+"url": "PI.zip:17 英国 Chris PayPal 可发展",
+"date": "2026-10-22"
 }
 ],
-"grade_override": "B",
-"override_reason": "小型 IT 服务公司，一次性项目需求（90W bt 工业 PoE），无渠道属性与复购逻辑；B 慢跟。",
+"grade_override": "A",
+"override_reason": "小型 IT 服务公司，一次性项目需求（90W bt 工业 PoE），无渠道属性与复购逻辑；B 慢跟。；PI 包成单客户，Simon 标签 可发展 → A",
 "notes": "",
-"researched_at": "2026-10-21",
+"researched_at": "2026-10-22",
 "deep": {
 "done_at": "2026-10-21",
 "level": "B 级加厚 v1（官网公开评测核对）"
@@ -4561,7 +4827,30 @@
 "tier": 25,
 "why": "已购 STI-42424XGGPM-4BT 自用；后续仅可能补 STI-144GP / STI-288DGGPM 小机；主要动作是征得评测引用许可 + 回传固件反馈"
 },
-"email_hook": "Thank you for the write-up on the STI-42424XGGPM-4BT; I have passed the two points (line-count memory in the UI and SFP speed auto-detect) to our firmware team, and would like to ask whether we may quote your review when talking to other UK customers."
+"email_hook": "Thank you for the write-up on the STI-42424XGGPM-4BT; I have passed the two points (line-count memory in the UI and SFP speed auto-detect) to our firmware team, and would like to ask whether we may quote your review when talking to other UK customers.",
+"deal_pi": {
+"folder": "17 英国 Chris PayPal 可发展",
+"simon_label": "可发展",
+"pay": "PayPal",
+"bind": "",
+"buyer": "GOGREENIT",
+"orders": 1,
+"first": "2025-08-23",
+"last": "2025-08-23",
+"usd": 588.0,
+"rmb": 0.0,
+"profit_rmb": 1125.94,
+"models": "STI-42424XGGPM-4BT"
+},
+"kp": [
+{
+"name": "Chris Clemson",
+"role": "单据联系人",
+"email": "info@gogreenit.net",
+"phone": "",
+"source": "PI.zip 单据"
+}
+]
 }
 },
 {
@@ -4607,10 +4896,13 @@
 "categories": [],
 "tags": [
 "A优质名单(其他优质欧洲客户)",
-"AI评估(EU)·DONE"
+"AI评估(EU)·DONE",
+"成交(PI)",
+"Simon:活跃",
+"Xtransfer"
 ],
 "flags": {
-"deal": 2,
+"deal": 1,
 "own_brand": 2
 },
 "fit": {
@@ -4733,6 +5025,21 @@
 "e:m.kopp@nynex.de",
 "e:s.valaei@nynex.de"
 ],
+"pi": {
+"code": "SA-013",
+"keys": [
+"d:nynex.de",
+"d:fiberone.de"
+],
+"folder": "15 德国 Frederik 活跃 Xtransfer 可发展",
+"label": "德国 Frederik 活跃 Xtransfer 可发展",
+"simon": "活跃",
+"pay": "Xtransfer",
+"bind": "",
+"buyer": "NYNEX satellite OHG",
+"country": "德国",
+"folder_no": "15"
+},
 "grade_auto": "A",
 "score": 112,
 "reasons": [
@@ -4750,7 +5057,7 @@
 "+5 跟进表最近平台标记 S"
 ],
 "c_sub": "",
-"status": "成交过·维护",
+"status": "成交过·活跃（Simon）",
 "code": "SA-013",
 "grade": "A",
 "research": {
@@ -4810,10 +5117,52 @@
 "quote": "Mit freundlichen Grüßen aus Darmstadt, Frederik Kriewitz/Gunter Frank NYNEX satellite OHG/fiberONE Darmstadt, 31. August 2025",
 "url": "https://bmds.bund.de/fileadmin/BMDS/Dokumente/Gesetzesvorhaben/NYNEX_Stellungnahme_Eckpunktepapier_fiberONE_BMDS_31-August-2025.pdf",
 "date": "2025-08-31"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20241121015（PI，2024-11-21）：STC-4168XGGCM、STC-424XGGM 共 2 台，USD 600.0；采购 SmartByte RMB 2350.0；Simon 成本表利润 RMB 1284.06",
+"quote": "",
+"url": "PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展/STSC20241121015.xls",
+"date": "2024-11-21"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20250915015（PI，2025-09-15）：STC-4168XGGCM 共 1 台，USD 420.0；采购 SmartByte RMB 1600.0；Simon 成本表利润 RMB 797.77",
+"quote": "",
+"url": "PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展/STSC20250915015.xls",
+"date": "2025-09-15"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC-20260929-001（PI，2026-09-29）：STC-4168XGGCM 共 20 台，USD 6725.0",
+"quote": "",
+"url": "PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展/STSC-20260929-001.xlsx",
+"date": "2026-09-29"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC-20260930-001（PI，2026-09-30）：STC-4168XGGCM 共 20 台，USD 5944.5",
+"quote": "",
+"url": "PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展/STSC-20260930-001.xlsx",
+"date": "2026-09-30"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20261006015（PI，2026-10-06）：STC-4168XGGCM 共 20 台，USD 5944.5；采购 SmartByte RMB 34000.0；Simon 成本表利润 RMB 5000",
+"quote": "",
+"url": "PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展/STSC20261006015.xlsx",
+"date": "2026-10-06"
+},
+{
+"kind": "PI",
+"claim": "PI 包文件夹「德国 Frederik 活跃 Xtransfer 可发展」：Simon 标签 活跃，收款 Xtransfer；单号 5 个，2024-11-21 → 2026-10-06，销售 USD 19634.0 / RMB 0，Simon 成本统计利润合计 RMB 7081.83",
+"quote": "",
+"url": "PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展",
+"date": "2026-10-22"
 }
 ],
 "notes": "A 维持：运营商持续采购楼宇接入交换机（48 口/L2+/2.5G 上联）与贴牌 MC/SFP；P1 改 STC-448XGGPM 或 STC-424XGGPM-280W（10G 上联）。",
-"researched_at": "2026-10-21",
+"researched_at": "2026-10-22",
 "deep": {
 "done_at": "2026-10-21",
 "level": "深挖 v1"
@@ -4880,7 +5229,23 @@
 "phone": "",
 "source": "https://nynex.de/company/"
 }
-]
+],
+"deal_pi": {
+"folder": "15 德国 Frederik 活跃 Xtransfer 可发展",
+"simon_label": "活跃",
+"pay": "Xtransfer",
+"bind": "",
+"buyer": "NYNEX satellite OHG",
+"orders": 5,
+"first": "2024-11-21",
+"last": "2026-10-06",
+"usd": 19634.0,
+"rmb": 0.0,
+"profit_rmb": 7081.83,
+"models": "STC-4168XGGCM、STC-424XGGM"
+},
+"grade_override": "A",
+"override_reason": "PI 包成单客户，Simon 标签 活跃 → A"
 }
 },
 {
@@ -5642,7 +6007,9 @@
 ],
 "categories": [],
 "tags": [
-"WA跟进"
+"WA跟进",
+"成交(PI)",
+"Simon:gg"
 ],
 "flags": {
 "wa_added": 1,
@@ -5812,6 +6179,20 @@
 "fu_sample": false,
 "last_year": 2025,
 "merge_keys": [],
+"pi": {
+"code": "SA-016",
+"keys": [
+"d:unitedcontrolengg.com"
+],
+"folder": "5 印度 Rajesh gg",
+"label": "印度 Rajesh gg",
+"simon": "gg",
+"pay": "",
+"bind": "",
+"buyer": "UNITED CONTROL ENGINEERS INDIA PRIVATE LIMITED",
+"country": "印度",
+"folder_no": "5"
+},
 "grade_auto": "A",
 "score": 107,
 "reasons": [
@@ -5825,9 +6206,9 @@
 "+5 最近活动 2025"
 ],
 "c_sub": "",
-"status": "成交过·维护",
+"status": "成交过·已凉（Simon: gg）",
 "code": "SA-016",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SA-016",
 "name_official": "United Control Engineers India Pvt. Ltd.（Greater Noida）",
@@ -5871,6 +6252,20 @@
 "quote": "FL SWITCH SFNB 5TX This compact unmanaged switch … 5 RJ45 ports … FL SWITCH 1016N … 16 Ethernet ports … TSW100 A compact unmanaged Gigabit switch with PoE support for industrial applications … TSW200 A managed Industrial Ethernet Switch",
 "url": "https://unitedcontrolengg.com/ethernet-switch/",
 "date": "2026-05-23"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20240416005（CI，2024-04-22）：Industrial Switch 共 4 台，USD 120.0；采购 、SmartByte RMB 524.0；Simon 成本表利润 RMB 481.99",
+"quote": "",
+"url": "PI.zip:5 印度 Rajesh gg/普通快递发票.xlsx",
+"date": "2024-04-22"
+},
+{
+"kind": "PI",
+"claim": "PI 包文件夹「印度 Rajesh gg」：Simon 标签 gg；单号 1 个，2024-04-22 → 2024-04-22，销售 USD 120.0 / RMB 0，Simon 成本统计利润合计 RMB 481.99",
+"quote": "",
+"url": "PI.zip:5 印度 Rajesh gg",
+"date": "2026-10-22"
 }
 ],
 "kp": [
@@ -5880,10 +6275,17 @@
 "email": "marketing@unitedcontrolengg.com",
 "phone": "+91 93111 50492",
 "source": "https://unitedcontrolengg.com/"
+},
+{
+"name": "Rajesh",
+"role": "单据联系人",
+"email": "accounts@unitedcontrolengg.com",
+"phone": "",
+"source": "PI.zip 单据"
 }
 ],
 "notes": "A 确认：工业自动化分销商是 STI 非管理工业交换机（STI-244GP/288GP）的天然渠道；印度区价格敏感，报 20% 分销档并给 MOQ 阶梯。",
-"researched_at": "2026-10-21",
+"researched_at": "2026-10-22",
 "deep": {
 "done_at": "2026-10-21",
 "level": "深挖 v1"
@@ -5946,7 +6348,21 @@
 "tier": 20,
 "why": "其交换机页主推 5 口（SFNB 5TX / TSW100）与 8–16 口非管理工业机 → STI-144GP（4+1 PoE）/ STI-288DGGPM（8+2 管理）/ STI-21616GP（16 PoE）；分销 20% 档"
 },
-"email_hook": "Next to the FL SWITCH SFNB 5TX and TSW100 slots on your new Ethernet-switch page, a 4+1 gigabit PoE DIN unit at distributor EXW usually becomes the volume SKU, so that is the one I am pricing first with the 8-port managed version as the step-up."
+"email_hook": "Next to the FL SWITCH SFNB 5TX and TSW100 slots on your new Ethernet-switch page, a 4+1 gigabit PoE DIN unit at distributor EXW usually becomes the volume SKU, so that is the one I am pricing first with the 8-port managed version as the step-up.",
+"deal_pi": {
+"folder": "5 印度 Rajesh gg",
+"simon_label": "gg",
+"pay": "",
+"bind": "",
+"buyer": "UNITED CONTROL ENGINEERS INDIA PRIVATE LIMITED",
+"orders": 1,
+"first": "2024-04-22",
+"last": "2024-04-22",
+"usd": 120.0,
+"rmb": 0.0,
+"profit_rmb": 481.99,
+"models": "Industrial Switch"
+}
 }
 },
 {
@@ -10092,11 +10508,14 @@
 "tags": [
 "A优质名单(优质俄罗斯客户)",
 "AI评估(RU)",
-"群发(Russia)"
+"群发(Russia)",
+"成交(PI)",
+"Simon:可发展",
+"货代走账"
 ],
 "flags": {
 "wa_added": 2,
-"deal": 2
+"deal": 1
 },
 "fit": {
 "switch": 3
@@ -10207,6 +10626,21 @@
 "n:RU|bitbook",
 "p:089067874"
 ],
+"pi": {
+"code": "SA-026",
+"keys": [
+"d:bitbuk.ru",
+"d:bitbook.ru"
+],
+"folder": "4 俄罗斯 Andrey 货代走账 可发展",
+"label": "俄罗斯 Andrey 货代走账 可发展",
+"simon": "可发展",
+"pay": "货代走账",
+"bind": "",
+"buyer": "BitBook LLC",
+"country": "俄罗斯",
+"folder_no": "4"
+},
 "grade_auto": "A",
 "score": 90,
 "reasons": [
@@ -10221,9 +10655,9 @@
 "+0 区域 俄语区/俄罗斯"
 ],
 "c_sub": "",
-"status": "成交过·维护",
+"status": "成交过·可发展（Simon）",
 "code": "SA-026",
-"grade": "B",
+"grade": "A",
 "research": {
 "code": "SA-026",
 "name_official": "ООО «БитБук» / BitBook LLC（Нижний Тагил, Russia）",
@@ -10255,6 +10689,27 @@
 "quote": "商业2光8管理POE / FS 一些很杂的类目 / 7 908 906 7874 已加 / 成单客户",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20231122004（PI，2023-11-22）：STC-28GPM 共 2 台，USD 898.38；采购 HRUI RMB 680.0；Simon 成本表利润 RMB 218.38",
+"quote": "",
+"url": "PI.zip:4 俄罗斯 Andrey 货代走账 可发展/STSC20231122004.xls",
+"date": "2023-11-22"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20250731004（PI，2025-07-31）：STC-128GFP、STC-424GM、STC-4424GCPM、STI-288GPM 共 130 台，USD 5140.0；采购 HRUI、SmartByte RMB 30020.0；Simon 成本表利润 RMB 5256",
+"quote": "",
+"url": "PI.zip:4 俄罗斯 Andrey 货代走账 可发展/STSC20250731004.xls",
+"date": "2025-07-31"
+},
+{
+"kind": "PI",
+"claim": "PI 包文件夹「俄罗斯 Andrey 货代走账 可发展」：Simon 标签 可发展，收款 货代走账；单号 2 个，2023-11-22 → 2025-07-31，销售 USD 6038.38 / RMB 0，Simon 成本统计利润合计 RMB 5474.38",
+"quote": "",
+"url": "PI.zip:4 俄罗斯 Andrey 货代走账 可发展",
+"date": "2026-10-22"
 }
 ],
 "kp": [
@@ -10264,12 +10719,19 @@
 "email": "info@bitbuk.ru",
 "phone": "+7 (3435) 37-87-87",
 "source": "https://bitbuk.ru/kontakty/"
+},
+{
+"name": "Andrey Tatarnikov",
+"role": "单据联系人",
+"email": "info@bitbuk.ru",
+"phone": "",
+"source": "PI.zip 单据"
 }
 ],
-"grade_override": "B",
-"override_reason": "核心业务是条码设备，网络 PoE 只是配套类目；至今无任何回复/跟进记录（仅 WhatsApp 加上）。B 慢跟：按自有品牌贴牌切入（他们已在中国贴牌生产）。",
+"grade_override": "A",
+"override_reason": "核心业务是条码设备，网络 PoE 只是配套类目；至今无任何回复/跟进记录（仅 WhatsApp 加上）。B 慢跟：按自有品牌贴牌切入（他们已在中国贴牌生产）。；PI 包成单客户，Simon 标签 可发展 → A",
 "notes": "",
-"researched_at": "2026-10-21",
+"researched_at": "2026-10-22",
 "deep": {
 "done_at": "2026-10-21",
 "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
@@ -10302,7 +10764,21 @@
 "tier": 30,
 "why": "OEM 30% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，Saga Realtek 线列表 $62.2；贴牌加价另议）对应「商业 2 光 8 管理 PoE」；非管理 STC-228GP（$30.8）；工业 STI-288GPM（$85.5）"
 },
-"email_hook": "Андрей, по вашему запросу «2 SFP + 8 PoE управляемый»: готовы поставлять под маркой БитБук — L2 управляемый 62,2 USD EXW, неуправляемый 30,8 USD, расчёт в CNY/USD, нейтральная или ваша упаковка. Какой первый тираж для вашей дилерской сети?"
+"email_hook": "Андрей, по вашему запросу «2 SFP + 8 PoE управляемый»: готовы поставлять под маркой БитБук — L2 управляемый 62,2 USD EXW, неуправляемый 30,8 USD, расчёт в CNY/USD, нейтральная или ваша упаковка. Какой первый тираж для вашей дилерской сети?",
+"deal_pi": {
+"folder": "4 俄罗斯 Andrey 货代走账 可发展",
+"simon_label": "可发展",
+"pay": "货代走账",
+"bind": "",
+"buyer": "BitBook LLC",
+"orders": 2,
+"first": "2023-11-22",
+"last": "2025-07-31",
+"usd": 6038.38,
+"rmb": 0.0,
+"profit_rmb": 5474.38,
+"models": "STC-128GFP、STC-28GPM、STC-424GM、STC-4424GCPM、STI-288GPM"
+}
 }
 },
 {
@@ -18415,7 +18891,9 @@
 ],
 "categories": [],
 "tags": [
-"WA跟进"
+"WA跟进",
+"成交(PI)",
+"Simon:可发展"
 ],
 "flags": {
 "wa_added": 1,
@@ -18497,6 +18975,20 @@
 "d:sundartechno.com",
 "e:sales@sundartechno.com"
 ],
+"pi": {
+"code": "SA-049",
+"keys": [
+"d:sundartechno.com"
+],
+"folder": "14 印度 Manoj 可发展",
+"label": "印度 Manoj 可发展",
+"simon": "可发展",
+"pay": "",
+"bind": "",
+"buyer": "Sundar Techno Solutions",
+"country": "印度",
+"folder_no": "14"
+},
 "grade_auto": "A",
 "score": 82,
 "reasons": [
@@ -18508,7 +19000,7 @@
 "-6 区域 南亚/印度"
 ],
 "c_sub": "",
-"status": "成交过·维护",
+"status": "成交过·可发展（Simon）",
 "code": "SA-049",
 "grade": "A",
 "research": {
@@ -18566,6 +19058,41 @@
 "quote": "STS 16-Port 10/100BASE-TX+2G SFP Managed Industrial Switch (ST-IES-162G-SFP), STR016FP 16-port 10/100-TX Industrial PoE Switch",
 "url": "https://www.sundartechno.in/managed-switches.html",
 "date": "2026-10-21"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20241108014（CI，日期待补）：型号见单据 共 ? 台，USD ；采购 SmartByte RMB 512.0；Simon 成本表利润 RMB 153.3",
+"quote": "",
+"url": "PI.zip:14 印度 Manoj 可发展/CI_Zhengzhou Saga Telecom Co., Ltd..pdf",
+"date": "2026-10-22"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20250107014（CI，2025-01-07）：STI-0160GE 共 5 台，USD 440.0；采购 SmartByte RMB 2560.0；Simon 成本表利润 RMB 648.39",
+"quote": "",
+"url": "PI.zip:14 印度 Manoj 可发展/CI.xls",
+"date": "2025-01-07"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20251009014（PI，2025-10-09）：STI-0160GE 共 2 台，USD 174.0；采购 SmartByte RMB 1024.0；Simon 成本表利润 RMB 201.49",
+"quote": "",
+"url": "PI.zip:14 印度 Manoj 可发展/STSC20251009014.xls",
+"date": "2025-10-09"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20260212014（CI，2026-02-12）：STI-0160GE 共 3 台，USD 261.0；采购 SmartByte RMB 1536.0；Simon 成本表利润 RMB 224.42",
+"quote": "",
+"url": "PI.zip:14 印度 Manoj 可发展/CI_STSC20260212014.xls",
+"date": "2026-02-12"
+},
+{
+"kind": "PI",
+"claim": "PI 包文件夹「印度 Manoj 可发展」：Simon 标签 可发展；单号 4 个，2025-01-07 → 2026-02-12，销售 USD 875.0 / RMB 0，Simon 成本统计利润合计 RMB 1227.6",
+"quote": "",
+"url": "PI.zip:14 印度 Manoj 可发展",
+"date": "2026-10-22"
 }
 ],
 "kp": [
@@ -18575,10 +19102,17 @@
 "email": "sales@sundartechno.com",
 "phone": "+91 94820 81014（WhatsApp 已加）",
 "source": "https://sundartechno.com/"
+},
+{
+"name": "Manoj Kumar",
+"role": "CEO",
+"email": "sales@sundartechno.com",
+"phone": "",
+"source": "PI.zip 单据"
 }
 ],
 "notes": "A 维持（已成交 + CEO 直联 + 自有品牌），但 2023 年后沉寂需重新激活；守界：其国防/铁路项目不报 EN50155/军规，仅供标准工业款；P1 = STI-288DGGPM（bypass 款需向 SmartByte 确认），30% OEM 档。",
-"researched_at": "2026-10-21",
+"researched_at": "2026-10-22",
 "deep": {
 "done_at": "2026-10-21",
 "level": "深挖 v1"
@@ -18665,7 +19199,23 @@
 "tier": 30,
 "why": "STS 全线与 Saga STI 工业线逐一对位：STS-UM608GP / 8+2G SFP → STI-288DGGPM；STS05G/UM42POE → STI-144GP；16 口 → STI-21616GP；贴 STS 标 30% 档；10G L3 与 EN50155 不报"
 },
-"email_hook": "Looking at the STS-UM608GP and the 8-port + 2G SFP PoE models in your range, the Marvell-based 8-port DIN managed PoE switch is the one we can build in STS neutral packing, so I am restarting with that and the 4+1 compact unit rather than the bypass model from 2023."
+"email_hook": "Looking at the STS-UM608GP and the 8-port + 2G SFP PoE models in your range, the Marvell-based 8-port DIN managed PoE switch is the one we can build in STS neutral packing, so I am restarting with that and the 4+1 compact unit rather than the bypass model from 2023.",
+"deal_pi": {
+"folder": "14 印度 Manoj 可发展",
+"simon_label": "可发展",
+"pay": "",
+"bind": "",
+"buyer": "Sundar Techno Solutions",
+"orders": 4,
+"first": "2025-01-07",
+"last": "2026-02-12",
+"usd": 875.0,
+"rmb": 0.0,
+"profit_rmb": 1227.6,
+"models": "STI-0160GE"
+},
+"grade_override": "A",
+"override_reason": "PI 包成单客户，Simon 标签 可发展 → A"
 }
 },
 {
@@ -24442,10 +24992,13 @@
 "categories": [],
 "tags": [
 "A优质名单(US)",
-"AI评估(US)"
+"AI评估(US)",
+"成交(PI)",
+"Simon:gg",
+"PayPal"
 ],
 "flags": {
-"deal": 2
+"deal": 1
 },
 "fit": {
 "mc_sfp": 2,
@@ -24614,6 +25167,20 @@
 "d:52networks.com",
 "e:sales@52networks.com"
 ],
+"pi": {
+"code": "SA-064",
+"keys": [
+"d:52networks.com"
+],
+"folder": "16 美国 John PayPal gg",
+"label": "美国 John PayPal gg",
+"simon": "gg",
+"pay": "PayPal",
+"bind": "",
+"buyer": "52 Networks Inc.",
+"country": "美国",
+"folder_no": "16"
+},
 "grade_auto": "A",
 "score": 77,
 "reasons": [
@@ -24629,9 +25196,9 @@
 "+5 最近活动 2025"
 ],
 "c_sub": "",
-"status": "成交过·维护",
+"status": "成交过·已凉（Simon: gg）",
 "code": "SA-064",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SA-064",
 "name_official": "52 Networks, Inc.（Woodbridge, Virginia, USA）",
@@ -24667,6 +25234,20 @@
 "quote": "Bulk Ethernet Cables 91 products … Fiber Optics Patch Cords 35 products … Network Hardware 20 products … Media Converters 27 products … admin_52 2026-09-11",
 "url": "https://52networks.com/",
 "date": "2026-10-21"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STAG20250718016（CI，2025-07-18）：NDR-240-48、STI-288GP 共 4 台，USD 285.0；Simon 成本表利润 RMB 914.31",
+"quote": "",
+"url": "PI.zip:16 美国 John PayPal gg/CI.xls",
+"date": "2025-07-18"
+},
+{
+"kind": "PI",
+"claim": "PI 包文件夹「美国 John PayPal gg」：Simon 标签 gg，收款 PayPal；单号 1 个，2025-07-18 → 2025-07-18，销售 USD 285.0 / RMB 0，Simon 成本统计利润合计 RMB 914.31",
+"quote": "",
+"url": "PI.zip:16 美国 John PayPal gg",
+"date": "2026-10-22"
 }
 ],
 "kp": [
@@ -24683,10 +25264,17 @@
 "email": "sales@52networks.com",
 "phone": "+1 757-799-1359",
 "source": "https://52networks.com/contact-us/"
+},
+{
+"name": "John Davis",
+"role": "单据联系人",
+"email": "sales@52networks.com",
+"phone": "",
+"source": "PI.zip 单据"
 }
 ],
 "notes": "A 维持（已成交 + 美国 + 名字明确）但体量小；守界：其 GSA/联邦渠道受 TAA 约束——中国产品只报商业客户用途，不做 GSA 目录承诺；P1 = STI-110GE（MC）复购，20% 经销档。",
-"researched_at": "2026-10-21",
+"researched_at": "2026-10-22",
 "deep": {
 "done_at": "2026-10-21",
 "level": "深挖 v1"
@@ -24744,7 +25332,21 @@
 "tier": 20,
 "why": "已成单 + 网店有 27 款 MC 类目 → 千兆 MC（STI-110GE）作为网店 SKU 补位；8 口 PoE（STC-28DGGPM）进 Network Hardware 类目；电商 20% 档；TAA 需求一律不报"
 },
-"email_hook": "For the media-converter category on 52networks.com the gigabit RJ45-to-SFP unit is the SKU where the EXW gap versus Transition or Perle is widest, so I am quoting it first with an 8-port PoE switch as the hardware-category add-on."
+"email_hook": "For the media-converter category on 52networks.com the gigabit RJ45-to-SFP unit is the SKU where the EXW gap versus Transition or Perle is widest, so I am quoting it first with an 8-port PoE switch as the hardware-category add-on.",
+"deal_pi": {
+"folder": "16 美国 John PayPal gg",
+"simon_label": "gg",
+"pay": "PayPal",
+"bind": "",
+"buyer": "52 Networks Inc.",
+"orders": 1,
+"first": "2025-07-18",
+"last": "2025-07-18",
+"usd": 285.0,
+"rmb": 0.0,
+"profit_rmb": 914.31,
+"models": "NDR-240-48、STI-288GP"
+}
 }
 },
 {
@@ -60674,7 +61276,10 @@
 "tags": [
 "补录",
 "S成单",
-"已成单"
+"已成单",
+"成交(PI)",
+"Simon:活跃",
+"Xtransfer"
 ],
 "flags": {
 "deal": 1,
@@ -60702,7 +61307,7 @@
 "已成单"
 ],
 "company": "Angora Networks",
-"country": "Turkey",
+"country": "土耳其",
 "person": "Levent Kılıç; Taylan Esen",
 "from": "补录：S 邮箱成单客户（T29-U6，PI 包待入库）",
 "interest": "商用 L2+/L3 交换机（24/48 口 + 10G）、工业 PoE 交换机（8/16 口）、CENTEC 数据中心交换机、贴牌（ANW-/TronX/Turk Telekom）",
@@ -60734,6 +61339,20 @@
 "fu_sample": false,
 "last_year": 2026,
 "merge_keys": [],
+"pi": {
+"code": "SA-168",
+"keys": [
+"d:angoranetworks.com"
+],
+"folder": "7 土耳其 Levent 活跃 Xtransfer 轻度绑定",
+"label": "土耳其 Levent 活跃 Xtransfer 轻度绑定",
+"simon": "活跃",
+"pay": "Xtransfer",
+"bind": "轻度绑定",
+"buyer": "ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+"country": "土耳其",
+"folder_no": "7"
+},
 "grade_auto": "A",
 "score": 108,
 "reasons": [
@@ -60747,7 +61366,7 @@
 "+5 最近活动 2026"
 ],
 "c_sub": "",
-"status": "成交过·维护",
+"status": "成交过·活跃（Simon）",
 "code": "SA-168",
 "grade": "A",
 "research": {
@@ -60921,6 +61540,83 @@
 "quote": "Buyer: ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S. … Office: YeniMahalle Vd … Invoice No.: STSC20250117007 … Payment Term: T/T in advance",
 "url": "data/gmail_s/attachments/text/4fc777b174f43135.json",
 "date": "2025-01-17"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20240508007（CI，2024-05-08）：STC-28DGGPM、STC-424XGGPM、STC-448XGGPM 共 4 台，USD 1265.0；采购 SmartByte RMB 6000.0；Simon 成本表利润 RMB 2158.96",
+"quote": "",
+"url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/CI.xls",
+"date": "2024-05-08"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20241021007（CI，2024-10-21）：STC-416DGGPM、STI-280DGGM 共 10 台，USD 2345.0；采购 SmartByte RMB 4994.0",
+"quote": "",
+"url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/CI.xls",
+"date": "2024-10-21"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20241028007（PI，2024-10-28）：STC-416DGGPM 共 1 台，USD 200.0",
+"quote": "",
+"url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/STSC20241028007.xls",
+"date": "2024-10-28"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20241105007（PI，2024-11-05）：STC-416DGGPM 共 3 台，USD 600.0；采购 SmartByte RMB 2250.0",
+"quote": "",
+"url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/STSC20241105007.xls",
+"date": "2024-11-05"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20241129007（PI，2024-11-29）：TRX-AP-612T、TRX-AS-24TP4X、TRX-AS-48TP4X、TRX-IS-8TP2G、TRX-QSFP-40G-SR4、TRX-QSFP28-100G-SR4、TRX-SFP-10G-LR、TRX-SFP-10G-SR、TRX-SFP-1G-LX、TRX-SFP-1G-SX、TRX-SFP28-25G-SR 共 41 台，USD 1755.0",
+"quote": "",
+"url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/STSC20241129007.xls",
+"date": "2024-11-29"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20250117007（CI，2025-01-17）：STI-21616DGGPM 共 178 台，USD 47174.0；采购 SmartByte RMB 0.0；Simon 成本表利润 RMB 54296.26",
+"quote": "",
+"url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/Commercial Invoice_R1.xls",
+"date": "2025-01-17"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20250228007（PI，2025-02-28）：STC-424XGGPM、STC-448XGGPM 共 7 台，USD 2130.0；采购 SmartByte RMB 9110.0",
+"quote": "",
+"url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/STSC20250228007_R3.xls",
+"date": "2025-02-28"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20250507007（CI，2025-05-12）：Commercial Switch 共 3 台，USD 1545.0；采购 SmartByte RMB 8190.0；Simon 成本表利润 RMB 2227.08",
+"quote": "",
+"url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/普通快递发票_STSC20250507007.xlsx",
+"date": "2025-05-12"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20250526007（CI，2025-05-26）：ANW-2248-PX、STC-424XGGPM、STC-448XGGPM 共 13 台，USD 3755.0；采购 SmartByte RMB 14630.0；Simon 成本表利润 RMB 9250.8",
+"quote": "",
+"url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/CI.xls",
+"date": "2025-05-26"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20250619007（CI，2025-06-19）：STI-288DGGPM 共 6 台，USD 900.0；采购 SmartByte RMB 4272.0；Simon 成本表利润 RMB 2102.12",
+"quote": "",
+"url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/CI.xls",
+"date": "2025-06-19"
+},
+{
+"kind": "PI",
+"claim": "PI 包文件夹「土耳其 Levent 活跃 Xtransfer 轻度绑定」：Simon 标签 活跃，收款 Xtransfer，轻度绑定；单号 10 个，2024-05-08 → 2025-06-19，销售 USD 61669.0 / RMB 0，Simon 成本统计利润合计 RMB 75789.12",
+"quote": "",
+"url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定",
+"date": "2026-10-22"
 }
 ],
 "kp": [
@@ -60937,6 +61633,20 @@
 "email": "tesen@angoranetworks.com",
 "phone": "",
 "source": "gmail:s.sagatelecom thread 1797555182457944562"
+},
+{
+"name": "Levent Kilic",
+"role": "单据联系人",
+"email": "levent.kilic@angoranetworks.com; lkilic@angoranetworks.com",
+"phone": "",
+"source": "PI.zip 单据"
+},
+{
+"name": "Mr. Mustafa Calik",
+"role": "单据联系人",
+"email": "mustafa.calik@tronx.com.tr",
+"phone": "",
+"source": "PI.zip 单据"
 }
 ],
 "notes": "A 级（成单）。边界提示：其终端客户为土耳其警察、Turk Telekom、NATO 项目（2025-07 媒体转换器询价，合作方已放弃）——属公共部门/运营商，Saga 以 Angora 为客户、不直接对公共部门，沿用 Simon 既有做法。PI 包入库后用发票级数据补「订单明细」。",
@@ -61015,7 +61725,741 @@
 "tier": 30,
 "why": "TT 智能站点与警察 RFP 都落在 8 口工业 PoE L2+（STI-288DGGPM，AC5）；商用线 STC-424DGGPM-280W/424XGGPM/448XGGPM 已成单；OEM 贴牌按 30% 档，但历史成交价 $105–151 远低于主表 +20%（$134.5），复购需按量谈"
 },
-"email_hook": "For the 2026 Police RfP switch section you sent, the lowest-cost fully compliant unit is the AC5-based 8-port industrial PoE L2+ (STI-288DGGPM) in Angora packing, and I can hold a project price for 100+ pieces, so that is what I am quoting first."
+"email_hook": "For the 2026 Police RfP switch section you sent, the lowest-cost fully compliant unit is the AC5-based 8-port industrial PoE L2+ (STI-288DGGPM) in Angora packing, and I can hold a project price for 100+ pieces, so that is what I am quoting first.",
+"deal_pi": {
+"folder": "7 土耳其 Levent 活跃 Xtransfer 轻度绑定",
+"simon_label": "活跃",
+"pay": "Xtransfer",
+"bind": "轻度绑定",
+"buyer": "ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+"orders": 10,
+"first": "2024-05-08",
+"last": "2025-06-19",
+"usd": 61669.0,
+"rmb": 0.0,
+"profit_rmb": 75789.12,
+"models": "ANW-2248-PX、Commercial Switch、STC-28DGGPM、STC-416DGGPM、STC-424XGGPM、STC-448XGGPM、STI-21616DGGPM、STI-280DGGM、STI-288DGGPM、TRX-AP-612T、TRX-AS-24TP4X、TRX-AS-48TP4X、TRX-IS-8TP2G、TRX-QSFP-40G-SR4、TRX-QSFP28-100G-SR4、TRX-SFP-10G-LR、TRX-SFP-10G-SR、TRX-SFP-1G-LX、TRX-SFP-1G-SX、TRX-SFP28-25G-SR"
+}
+}
+},
+{
+"name": "James Clendenan Systems Ltd.",
+"name_src": "company",
+"names": [
+"James Clendenan Systems Ltd."
+],
+"country": "加拿大",
+"iso": "CA",
+"region": "北美",
+"other_countries": [],
+"domains": [
+"clendenan.ca"
+],
+"urls": [
+"https://clendenan.ca"
+],
+"platform_links": [],
+"emails": [
+"james@clendenan.ca"
+],
+"corp_emails": [
+"james@clendenan.ca"
+],
+"phones": [
+"16049105745",
+"2026083012"
+],
+"persons": [
+"James Clendenan"
+],
+"positions": [
+"Owner"
+],
+"froms": [
+"补录：PI 包成单客户（T29-U8）"
+],
+"interests": [
+"工业 PoE 管理交换机（STI-21616DGGPM 裸板贴牌 SW-3200-16GP-2SM/2SX）、商用 10G 管理（STC-424XGGM）、STI-488XGGPM"
+],
+"remarks": [
+"已成单 4 次（2024-06 4 台 / 2024-12 6 台 / 2026-08-30 12 台 @ $335）；Simon 标签：活跃 · Xtransfer · 轻度绑定；详见 research/SA-169.json"
+],
+"categories": [
+"系统集成/工程（北温哥华）"
+],
+"tags": [
+"补录",
+"已成单",
+"PI成单",
+"Simon:活跃",
+"Xtransfer",
+"成交(PI)"
+],
+"flags": {
+"deal": 1,
+"own_brand": 1
+},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [
+2024,
+2026
+],
+"sources": [
+{
+"file": "补录客户.jsonl",
+"sheet": "(补录)",
+"row": 5,
+"no": "PI-004",
+"tags": [
+"补录",
+"已成单",
+"PI成单",
+"Simon:活跃",
+"Xtransfer"
+],
+"company": "James Clendenan Systems Ltd.",
+"country": "加拿大",
+"person": "James Clendenan",
+"from": "补录：PI 包成单客户（T29-U8）",
+"interest": "工业 PoE 管理交换机（STI-21616DGGPM 裸板贴牌 SW-3200-16GP-2SM/2SX）、商用 10G 管理（STC-424XGGM）、STI-488XGGPM",
+"contact": "james@clendenan.ca",
+"mobile": "+1 604 910 5745",
+"website": "https://clendenan.ca",
+"remark": "已成单 4 次（2024-06 4 台 / 2024-12 6 台 / 2026-08-30 12 台 @ $335）；Simon 标签：活跃 · Xtransfer · 轻度绑定；详见 research/SA-169.json",
+"extra": "",
+"category": "系统集成/工程（北温哥华）",
+"position": "Owner",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 2026,
+"merge_keys": [],
+"pi": {
+"code": "SA-169",
+"keys": [
+"d:clendenan.ca"
+],
+"new": true,
+"grade": "A",
+"folder": "10 加拿大 James 活跃 Xtransfer 轻度绑定",
+"label": "加拿大 James 活跃 Xtransfer 轻度绑定",
+"simon": "活跃",
+"pay": "Xtransfer",
+"bind": "轻度绑定",
+"buyer": "James Clendenan Systems Ltd.",
+"country": "加拿大",
+"folder_no": "10"
+},
+"grade_auto": "A",
+"score": 98,
+"reasons": [
+"+50 有成单/下单/买过记录（用户备注或跟进表）",
+"+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+8 区域 北美/加拿大",
+"+5 最近活动 2026"
+],
+"c_sub": "",
+"status": "成交过·活跃（Simon）",
+"code": "SA-169",
+"grade": "A",
+"research": {
+"code": "SA-169",
+"name_official": "James Clendenan Systems Ltd.",
+"website_status": "",
+"summary": "已成单 4 次（2024-06 4 台 / 2024-12 6 台 / 2026-08-30 12 台 @ $335）；Simon 标签：活跃 · Xtransfer · 轻度绑定；详见 research/SA-169.json",
+"type": "系统集成/工程（北温哥华）",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "PI",
+"claim": "成交单据 STSC20240627010（CI，2024-06-27）：STI-21616DGGPM 共 9 台，USD 1095.0；采购 SmartByte RMB 4908.0；Simon 成本表利润 RMB 1729.39",
+"quote": "",
+"url": "PI.zip:10 加拿大 James 活跃 Xtransfer 轻度绑定/CI.xls",
+"date": "2024-06-27"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20241219010（PI，2024-12-19）：STC-424XGGM、STI-488XGGPM 共 6 台，USD 1625.0；采购 SmartByte RMB 7684.0；Simon 成本表利润 RMB 3472.13",
+"quote": "",
+"url": "PI.zip:10 加拿大 James 活跃 Xtransfer 轻度绑定/STSC20241219010.xls",
+"date": "2024-12-19"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC-20260826-001（Quotation，2026-08-26）：STI-21616XGGPM、SW-3200-16GP-2SX 共 12 台，RMB 28975.0",
+"quote": "",
+"url": "PI.zip:10 加拿大 James 活跃 Xtransfer 轻度绑定/STSC-20260826-001.xlsx",
+"date": "2026-08-26"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20260830010（CI，2026-09-07）：Industrial Switch 共 12 台，USD 4020.0；采购 SmartByte RMB 20160.0",
+"quote": "",
+"url": "PI.zip:10 加拿大 James 活跃 Xtransfer 轻度绑定/发票_STSC20260830010.xlsx",
+"date": "2026-09-07"
+},
+{
+"kind": "PI",
+"claim": "PI 包文件夹「加拿大 James 活跃 Xtransfer 轻度绑定」：Simon 标签 活跃，收款 Xtransfer，轻度绑定；单号 4 个，2024-06-27 → 2026-09-07，销售 USD 6740.0 / RMB 0，Simon 成本统计利润合计 RMB 5201.52",
+"quote": "",
+"url": "PI.zip:10 加拿大 James 活跃 Xtransfer 轻度绑定",
+"date": "2026-10-22"
+}
+],
+"kp": [
+{
+"name": "James Clendenan",
+"role": "单据联系人",
+"email": "james@clendenan.ca",
+"phone": "",
+"source": "PI.zip 单据"
+}
+],
+"notes": "",
+"researched_at": "2026-10-22",
+"deal_pi": {
+"folder": "10 加拿大 James 活跃 Xtransfer 轻度绑定",
+"simon_label": "活跃",
+"pay": "Xtransfer",
+"bind": "轻度绑定",
+"buyer": "James Clendenan Systems Ltd.",
+"orders": 4,
+"first": "2024-06-27",
+"last": "2026-09-07",
+"usd": 6740.0,
+"rmb": 0.0,
+"profit_rmb": 5201.52,
+"models": "Industrial Switch、STC-424XGGM、STI-21616DGGPM、STI-21616XGGPM、STI-488XGGPM、SW-3200-16GP-2SX"
+},
+"saga_fit": {
+"p1": "",
+"tier": 25,
+"why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
+},
+"grade_override": "A",
+"override_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）"
+}
+},
+{
+"name": "Biz-Ethics Ltd.（BEL Networks）",
+"name_src": "company",
+"names": [
+"Biz-Ethics Ltd.（BEL Networks）"
+],
+"country": "尼日利亚",
+"iso": "NG",
+"region": "非洲",
+"other_countries": [],
+"domains": [
+"belnetworks.com"
+],
+"urls": [
+"https://belnetworks.com"
+],
+"platform_links": [],
+"emails": [
+"info@belnetworks.com"
+],
+"corp_emails": [
+"info@belnetworks.com"
+],
+"phones": [
+"2347029186461"
+],
+"persons": [
+"Valentine Mbata"
+],
+"positions": [
+"负责人"
+],
+"froms": [
+"补录：PI 包成单客户（T29-U8）"
+],
+"interests": [
+"商用 PoE 管理交换机（STC-28GPM / STC-424DGGPM / STC-228GP）、10G 管理（STC-4168XGGCM / STC-424XGGM）、CENTEC 10G（STH-2C24XF-SFI）、贴牌 BNSC-"
+],
+"remarks": [
+"已成单 12 个单号（2024-09-08 → 2026-08-30，RMB 单据合计 ≈101k，货代走账）；SmartByte + HRUI + Hohunet 三家都采购过；Simon 标签：活跃 · 货代走账 · 轻度绑定；详见 research/SA-170.json"
+],
+"categories": [
+"网络设备经销/自有品牌 BNSC-（拉各斯）"
+],
+"tags": [
+"补录",
+"已成单",
+"PI成单",
+"Simon:活跃",
+"货代走账",
+"成交(PI)"
+],
+"flags": {
+"deal": 1,
+"own_brand": 1
+},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [
+2024,
+2026
+],
+"sources": [
+{
+"file": "补录客户.jsonl",
+"sheet": "(补录)",
+"row": 6,
+"no": "PI-005",
+"tags": [
+"补录",
+"已成单",
+"PI成单",
+"Simon:活跃",
+"货代走账"
+],
+"company": "Biz-Ethics Ltd.（BEL Networks）",
+"country": "尼日利亚",
+"person": "Valentine Mbata",
+"from": "补录：PI 包成单客户（T29-U8）",
+"interest": "商用 PoE 管理交换机（STC-28GPM / STC-424DGGPM / STC-228GP）、10G 管理（STC-4168XGGCM / STC-424XGGM）、CENTEC 10G（STH-2C24XF-SFI）、贴牌 BNSC-",
+"contact": "info@belnetworks.com",
+"mobile": "+234 702 918 6461",
+"website": "https://belnetworks.com",
+"remark": "已成单 12 个单号（2024-09-08 → 2026-08-30，RMB 单据合计 ≈101k，货代走账）；SmartByte + HRUI + Hohunet 三家都采购过；Simon 标签：活跃 · 货代走账 · 轻度绑定；详见 research/SA-170.json",
+"extra": "",
+"category": "网络设备经销/自有品牌 BNSC-（拉各斯）",
+"position": "负责人",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 2026,
+"merge_keys": [],
+"pi": {
+"code": "SA-170",
+"keys": [
+"d:belnetworks.com"
+],
+"new": true,
+"grade": "A",
+"folder": "12 尼日利亚 Mbata 活跃 货代走账 轻度绑定",
+"label": "尼日利亚 Mbata 活跃 货代走账 轻度绑定",
+"simon": "活跃",
+"pay": "货代走账",
+"bind": "轻度绑定",
+"buyer": "Biz - Ethics Ltd.",
+"country": "尼日利亚",
+"folder_no": "12"
+},
+"grade_auto": "A",
+"score": 84,
+"reasons": [
+"+50 有成单/下单/买过记录（用户备注或跟进表）",
+"+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"-6 区域 非洲/尼日利亚",
+"+5 最近活动 2026"
+],
+"c_sub": "",
+"status": "成交过·活跃（Simon）",
+"code": "SA-170",
+"grade": "A",
+"research": {
+"code": "SA-170",
+"name_official": "Biz - Ethics Ltd.",
+"website_status": "",
+"summary": "已成单 12 个单号（2024-09-08 → 2026-08-30，RMB 单据合计 ≈101k，货代走账）；SmartByte + HRUI + Hohunet 三家都采购过；Simon 标签：活跃 · 货代走账 · 轻度绑定；详见 research/SA-170.json",
+"type": "网络设备经销/自有品牌 BNSC-（拉各斯）",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "PI",
+"claim": "成交单据 STSC20240908012（CI，2024-09-08）：STC-228GP、STC-28GPM、STC-424DGGPM 共 42 台，RMB 25245.0；采购 HRUI、SmartByte RMB 18250.0",
+"quote": "",
+"url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/CI.xls",
+"date": "2024-09-08"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20241201012（PI，2024-12-01）：STC-424DGGPM 共 5 台，RMB 8650.0；采购 SmartByte RMB 3750.0",
+"quote": "",
+"url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STSC20241201012.xls",
+"date": "2024-12-01"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STEC20250302012（PI，2025-03-02）：STC-28GPM、STC-424DGGPM 共 13 台，RMB 7725.0",
+"quote": "",
+"url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20250302012_R2.xls",
+"date": "2025-03-02"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STEC20250609012（PI，2025-06-09）：STC-28GPM、STC-424DGGPM 共 7 台，RMB 5645.0；采购 SmartByte RMB 3175.0",
+"quote": "",
+"url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20250609012.xls",
+"date": "2025-06-09"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STEC20250917012（PI，2025-09-17）：STC-28GPM 共 15 台，RMB 5775.0；采购 HRUI RMB 5025.0",
+"quote": "",
+"url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20250917012.xls",
+"date": "2025-09-17"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STEC20250930012（PI，2025-09-30）：STC-4168XGGCM、STC-424XGGM 共 4 台，RMB 7700.0；采购 SmartByte RMB 6440.0",
+"quote": "",
+"url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20250930012.xls",
+"date": "2025-09-30"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STEC20251016012（PI，2025-10-16）：BNSC-424DGDPM、STC-424DGGPM 共 1 台，RMB 860.0；采购 SmartByte RMB 760.0",
+"quote": "",
+"url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20251016012.xls",
+"date": "2025-10-16"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STEC20251121012（PI，2025-11-21）：BNSC-28GPM、STC-28GPM 共 13 台，RMB 5005.0；采购 HRUI RMB 4355.0",
+"quote": "",
+"url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20251121012.xls",
+"date": "2025-11-21"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STEC20251123012（PI，2025-11-23）：BNSC-4168XGGCM、STC-4168XGGCM、STC-424XGGPM-280W、STH-2C24XF-SFI 共 11 台，RMB 26050.0；采购 Hohunet、SmartByte RMB 17770.0",
+"quote": "",
+"url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20251123012.xls",
+"date": "2025-11-23"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STEC20260618012（PI，2026-06-18）：BNSC-28GPM、STC-28GPM 共 5 台，RMB 2040.0；采购 HRUI RMB 1775.5",
+"quote": "",
+"url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20260618012.xls",
+"date": "2026-06-18"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STEC20260718012（PI，2026-07-18）：BNSC-28GPM、STC-28GPM 共 2 台，RMB 816.0；采购 HRUI RMB 710.2",
+"quote": "",
+"url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20260718012.xls",
+"date": "2026-07-18"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STEC20260830012（PI，2026-08-30）：BNSC-28GPM、BNSC-424DGDPM、STC-28GPM、STC-424DGGPM 共 13 台，RMB 5842.0；采购 SmartByte RMB 765.0",
+"quote": "",
+"url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20260830012.xls",
+"date": "2026-08-30"
+},
+{
+"kind": "PI",
+"claim": "PI 包文件夹「尼日利亚 Mbata 活跃 货代走账 轻度绑定」：Simon 标签 活跃，收款 货代走账，轻度绑定；单号 12 个，2024-09-08 → 2026-08-30，销售 USD 0 / RMB 101353.0，Simon 成本统计利润合计 RMB 0",
+"quote": "",
+"url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定",
+"date": "2026-10-22"
+}
+],
+"kp": [
+{
+"name": "Valentine Mbata",
+"role": "单据联系人",
+"email": "info@belnetworks.com",
+"phone": "",
+"source": "PI.zip 单据"
+}
+],
+"notes": "",
+"researched_at": "2026-10-22",
+"deal_pi": {
+"folder": "12 尼日利亚 Mbata 活跃 货代走账 轻度绑定",
+"simon_label": "活跃",
+"pay": "货代走账",
+"bind": "轻度绑定",
+"buyer": "Biz - Ethics Ltd.",
+"orders": 12,
+"first": "2024-09-08",
+"last": "2026-08-30",
+"usd": 0.0,
+"rmb": 101353.0,
+"profit_rmb": 0.0,
+"models": "BNSC-28GPM、BNSC-4168XGGCM、BNSC-424DGDPM、STC-228GP、STC-28GPM、STC-4168XGGCM、STC-424DGGPM、STC-424XGGM、STC-424XGGPM-280W、STH-2C24XF-SFI"
+},
+"saga_fit": {
+"p1": "",
+"tier": 20,
+"why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
+},
+"grade_override": "A",
+"override_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）"
+}
+},
+{
+"name": "PBA Forever Technology Co., Ltd.",
+"name_src": "company",
+"names": [
+"PBA Forever Technology Co., Ltd."
+],
+"country": "泰国",
+"iso": "TH",
+"region": "亚太",
+"other_countries": [],
+"domains": [],
+"urls": [],
+"platform_links": [],
+"emails": [
+"pomnong9@gmail.com"
+],
+"corp_emails": [],
+"phones": [],
+"persons": [
+"Peeranun Ratannabuajan"
+],
+"positions": [
+"CEO"
+],
+"froms": [
+"补录：PI 包成单客户（T29-U8）"
+],
+"interests": [
+"工业 PoE 管理交换机（STI-21616DGGPM / STI-21616GP / STI-42424DGGPM）、商用 2.5G/10G 非管理（STC-xxXGDGE/XGWE 系列）、STC-80XGO"
+],
+"remarks": [
+"已成单 6 个单号（2024-10-14 → 2026-07-06，RMB 单据合计 ≈37k，货代走账）；Simon 标签：活跃 · 货代走账 · 轻度绑定；详见 research/SA-171.json"
+],
+"categories": [
+"系统集成/工程"
+],
+"tags": [
+"补录",
+"已成单",
+"PI成单",
+"Simon:活跃",
+"货代走账",
+"成交(PI)"
+],
+"flags": {
+"deal": 1
+},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [
+2024,
+2026
+],
+"sources": [
+{
+"file": "补录客户.jsonl",
+"sheet": "(补录)",
+"row": 7,
+"no": "PI-006",
+"tags": [
+"补录",
+"已成单",
+"PI成单",
+"Simon:活跃",
+"货代走账"
+],
+"company": "PBA Forever Technology Co., Ltd.",
+"country": "泰国",
+"person": "Peeranun Ratannabuajan",
+"from": "补录：PI 包成单客户（T29-U8）",
+"interest": "工业 PoE 管理交换机（STI-21616DGGPM / STI-21616GP / STI-42424DGGPM）、商用 2.5G/10G 非管理（STC-xxXGDGE/XGWE 系列）、STC-80XGO",
+"contact": "pomnong9@gmail.com",
+"mobile": "",
+"website": "",
+"remark": "已成单 6 个单号（2024-10-14 → 2026-07-06，RMB 单据合计 ≈37k，货代走账）；Simon 标签：活跃 · 货代走账 · 轻度绑定；详见 research/SA-171.json",
+"extra": "",
+"category": "系统集成/工程",
+"position": "CEO",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 2026,
+"merge_keys": [],
+"pi": {
+"code": "SA-171",
+"keys": [
+"e:pomnong9@gmail.com"
+],
+"new": true,
+"grade": "A",
+"folder": "13 泰国 Peeranun 活跃 货代走账 轻度绑定",
+"label": "泰国 Peeranun 活跃 货代走账 轻度绑定",
+"simon": "活跃",
+"pay": "货代走账",
+"bind": "轻度绑定",
+"buyer": "PBA Forever Technology CO., LTD.",
+"country": "泰国",
+"folder_no": "13"
+},
+"grade_auto": "A",
+"score": 66,
+"reasons": [
+"+50 有成单/下单/买过记录（用户备注或跟进表）",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+0 仅免费邮箱",
+"+3 区域 亚太/泰国",
+"+5 最近活动 2026"
+],
+"c_sub": "",
+"status": "成交过·活跃（Simon）",
+"code": "SA-171",
+"grade": "A",
+"research": {
+"code": "SA-171",
+"name_official": "PBA Forever Technology CO., LTD.",
+"website_status": "",
+"summary": "已成单 6 个单号（2024-10-14 → 2026-07-06，RMB 单据合计 ≈37k，货代走账）；Simon 标签：活跃 · 货代走账 · 轻度绑定；详见 research/SA-171.json",
+"type": "系统集成/工程",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "PI",
+"claim": "成交单据 STSC20241014013（PI，2024-10-14）：STC-05XGWE、STC-08XGWE、STC-108XGDGP、STC-114XGDGP、STC-15XGDGE、STC-18XGDGE、STC-18XGDGPW、STC-216XGDGE、STC-216XGDGWE、STC-224XGDGE、STC-224XGDGWE、STC-80XGO 共 21 台，RMB 13083.0；采购 HRUI RMB 10850.0",
+"quote": "",
+"url": "PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20241014013.xls",
+"date": "2024-10-14"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20250116013（PI，2025-01-16）：STI-21616DGGPM、STI-21616GP、STI-42424DGGPM、STI-42424DGGPM-U 共 6 台，RMB 9620.0；采购 SmartByte RMB 8460.0",
+"quote": "",
+"url": "PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20250116013.xls",
+"date": "2025-01-16"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20250827013（PI，2025-08-27）：STI-21616GP 共 2 台，RMB 2100.0；采购 SmartByte RMB 1904.0",
+"quote": "",
+"url": "PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20250827013.xls",
+"date": "2025-08-27"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20250924013（PI，2025-09-24）：STC-108XGDGP、STC-15XGDGE、STC-18XGDGPW、STC-80XGO 共 18 台，RMB 7336.0；采购 HRUI RMB 6025.0",
+"quote": "",
+"url": "PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20250924013.xls",
+"date": "2025-09-24"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20251212013（PI，2025-12-12）：STI-42424DGGPM 共 1 台，RMB 2200.0；采购 SmartByte RMB 1912.0",
+"quote": "",
+"url": "PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20251212013.xls",
+"date": "2025-12-12"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20260706013（PI，2026-07-06）：STI-21616GP 共 3 台，RMB 3150.0；采购 SmartByte RMB 2856.0",
+"quote": "",
+"url": "PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20260706013.xls",
+"date": "2026-07-06"
+},
+{
+"kind": "PI",
+"claim": "PI 包文件夹「泰国 Peeranun 活跃 货代走账 轻度绑定」：Simon 标签 活跃，收款 货代走账，轻度绑定；单号 6 个，2024-10-14 → 2026-07-06，销售 USD 0 / RMB 37489.0，Simon 成本统计利润合计 RMB 0",
+"quote": "",
+"url": "PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定",
+"date": "2026-10-22"
+}
+],
+"kp": [
+{
+"name": "Peeranun Ratannabuajan",
+"role": "CEO",
+"email": "pomnong9@gmail.com",
+"phone": "",
+"source": "PI.zip 单据"
+}
+],
+"notes": "",
+"researched_at": "2026-10-22",
+"deal_pi": {
+"folder": "13 泰国 Peeranun 活跃 货代走账 轻度绑定",
+"simon_label": "活跃",
+"pay": "货代走账",
+"bind": "轻度绑定",
+"buyer": "PBA Forever Technology CO., LTD.",
+"orders": 6,
+"first": "2024-10-14",
+"last": "2026-07-06",
+"usd": 0.0,
+"rmb": 37489.0,
+"profit_rmb": 0.0,
+"models": "STC-05XGWE、STC-08XGWE、STC-108XGDGP、STC-114XGDGP、STC-15XGDGE、STC-18XGDGE、STC-18XGDGPW、STC-216XGDGE、STC-216XGDGWE、STC-224XGDGE、STC-224XGDGWE、STC-80XGO、STI-21616DGGPM、STI-21616GP、STI-42424DGGPM、STI-42424DGGPM-U"
+},
+"saga_fit": {
+"p1": "",
+"tier": 25,
+"why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
+},
+"grade_override": "A",
+"override_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）"
 }
 },
 {
@@ -174729,6 +176173,387 @@
 }
 },
 {
+"name": "Fastball",
+"name_src": "company",
+"names": [
+"Fastball"
+],
+"country": "印度",
+"iso": "IN",
+"region": "南亚",
+"other_countries": [],
+"domains": [
+"fastball.in"
+],
+"urls": [],
+"platform_links": [],
+"emails": [
+"office@fastball.in"
+],
+"corp_emails": [
+"office@fastball.in"
+],
+"phones": [
+"919871753979",
+"919810987870"
+],
+"persons": [
+"Rishi Kumar Bansal"
+],
+"positions": [
+"负责人"
+],
+"froms": [
+"补录：PI 包成单客户（T29-U8）"
+],
+"interests": [
+"商用 PoE 交换机（2023-10 一单 80 台，USD 260 样品级）"
+],
+"remarks": [
+"已成单 1 次（STSC20231009002，2023-10-09）；Simon 文件夹标签 gg（已凉）；详见 research/SB-1334.json"
+],
+"categories": [
+"经销/贸易（德里）"
+],
+"tags": [
+"补录",
+"已成单",
+"PI成单",
+"Simon:gg",
+"成交(PI)"
+],
+"flags": {
+"deal": 1,
+"sample": 1
+},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [
+2023
+],
+"sources": [
+{
+"file": "补录客户.jsonl",
+"sheet": "(补录)",
+"row": 3,
+"no": "PI-002",
+"tags": [
+"补录",
+"已成单",
+"PI成单",
+"Simon:gg"
+],
+"company": "Fastball",
+"country": "印度",
+"person": "Rishi Kumar Bansal",
+"from": "补录：PI 包成单客户（T29-U8）",
+"interest": "商用 PoE 交换机（2023-10 一单 80 台，USD 260 样品级）",
+"contact": "office@fastball.in",
+"mobile": "+91 98717 53979; +91 98109 87870",
+"website": "",
+"remark": "已成单 1 次（STSC20231009002，2023-10-09）；Simon 文件夹标签 gg（已凉）；详见 research/SB-1334.json",
+"extra": "",
+"category": "经销/贸易（德里）",
+"position": "负责人",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 2023,
+"merge_keys": [],
+"pi": {
+"code": "SB-1334",
+"keys": [
+"d:fastball.in"
+],
+"new": true,
+"grade": "B",
+"folder": "2 印度 Rishi gg",
+"label": "印度 Rishi gg",
+"simon": "gg",
+"pay": "",
+"bind": "",
+"buyer": "Fastball",
+"country": "印度",
+"folder_no": "2"
+},
+"grade_auto": "A",
+"score": 77,
+"reasons": [
+"+50 有成单/下单/买过记录（用户备注或跟进表）",
+"+10 谈到样品/测样",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"-6 区域 南亚/印度"
+],
+"c_sub": "",
+"status": "成交过·已凉（Simon: gg）",
+"code": "SB-1334",
+"grade": "B",
+"research": {
+"code": "SB-1334",
+"name_official": "Fastball",
+"website_status": "",
+"summary": "已成单 1 次（STSC20231009002，2023-10-09）；Simon 文件夹标签 gg（已凉）；详见 research/SB-1334.json",
+"type": "经销/贸易（德里）",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "PI",
+"claim": "成交单据 STSC20231009002（CI，2023-10-09）：型号见单据 共 80 台，USD 260.0；Simon 成本表利润 RMB 553.48",
+"quote": "",
+"url": "PI.zip:2 印度 Rishi gg/CI.xls",
+"date": "2023-10-09"
+},
+{
+"kind": "PI",
+"claim": "PI 包文件夹「印度 Rishi gg」：Simon 标签 gg；单号 1 个，2023-10-09 → 2023-10-09，销售 USD 260.0 / RMB 0，Simon 成本统计利润合计 RMB 553.48",
+"quote": "",
+"url": "PI.zip:2 印度 Rishi gg",
+"date": "2026-10-22"
+}
+],
+"kp": [
+{
+"name": "Rishi Kumar Bansal",
+"role": "单据联系人",
+"email": "office@fastball.in",
+"phone": "",
+"source": "PI.zip 单据"
+}
+],
+"notes": "",
+"researched_at": "2026-10-22",
+"deal_pi": {
+"folder": "2 印度 Rishi gg",
+"simon_label": "gg",
+"pay": "",
+"bind": "",
+"buyer": "Fastball",
+"orders": 1,
+"first": "2023-10-09",
+"last": "2023-10-09",
+"usd": 260.0,
+"rmb": 0.0,
+"profit_rmb": 553.48,
+"models": ""
+},
+"saga_fit": {
+"p1": "",
+"tier": 20,
+"why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
+},
+"grade_override": "B",
+"override_reason": "PI 包成单客户，Simon 标签 gg：gg（已凉）→ B（成交过·慢慢跟进）"
+}
+},
+{
+"name": "Rio-Import LLC（ООО «РИО-ИМПОРТ»）",
+"name_src": "company",
+"names": [
+"Rio-Import LLC（ООО «РИО-ИМПОРТ»）"
+],
+"country": "俄罗斯",
+"iso": "RU",
+"region": "俄语区",
+"other_countries": [],
+"domains": [],
+"urls": [],
+"platform_links": [],
+"emails": [
+"rio-popov@mail.ru"
+],
+"corp_emails": [],
+"phones": [
+"73912906315"
+],
+"persons": [
+"Igor Popov"
+],
+"positions": [
+"负责人"
+],
+"froms": [
+"补录：PI 包成单客户（T29-U8）"
+],
+"interests": [
+"工业非管理交换机（STI-050GE / STI-080GE 各 2 台）"
+],
+"remarks": [
+"已成单 1 次（STSC20240523008，2024-05-23，USD 1,140）；Simon 文件夹标签 gg（已凉）；详见 research/SB-1335.json"
+],
+"categories": [
+"进口贸易（克拉斯诺亚尔斯克）"
+],
+"tags": [
+"补录",
+"已成单",
+"PI成单",
+"Simon:gg",
+"成交(PI)"
+],
+"flags": {
+"deal": 1
+},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [
+2024
+],
+"sources": [
+{
+"file": "补录客户.jsonl",
+"sheet": "(补录)",
+"row": 4,
+"no": "PI-003",
+"tags": [
+"补录",
+"已成单",
+"PI成单",
+"Simon:gg"
+],
+"company": "Rio-Import LLC（ООО «РИО-ИМПОРТ»）",
+"country": "俄罗斯",
+"person": "Igor Popov",
+"from": "补录：PI 包成单客户（T29-U8）",
+"interest": "工业非管理交换机（STI-050GE / STI-080GE 各 2 台）",
+"contact": "rio-popov@mail.ru",
+"mobile": "+7 (391) 2906-315; 2911-424",
+"website": "",
+"remark": "已成单 1 次（STSC20240523008，2024-05-23，USD 1,140）；Simon 文件夹标签 gg（已凉）；详见 research/SB-1335.json",
+"extra": "",
+"category": "进口贸易（克拉斯诺亚尔斯克）",
+"position": "负责人",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 2024,
+"merge_keys": [],
+"pi": {
+"code": "SB-1335",
+"keys": [
+"e:rio-popov@mail.ru"
+],
+"new": true,
+"grade": "B",
+"folder": "8 俄罗斯 Igor gg",
+"label": "俄罗斯 Igor gg",
+"simon": "gg",
+"pay": "",
+"bind": "",
+"buyer": "«Rio-Import» LLC",
+"country": "俄罗斯",
+"folder_no": "8"
+},
+"grade_auto": "A",
+"score": 60,
+"reasons": [
+"+50 有成单/下单/买过记录（用户备注或跟进表）",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+0 仅免费邮箱",
+"+0 区域 俄语区/俄罗斯",
+"+2 最近活动 2024"
+],
+"c_sub": "",
+"status": "成交过·已凉（Simon: gg）",
+"code": "SB-1335",
+"grade": "B",
+"research": {
+"code": "SB-1335",
+"name_official": "«Rio-Import» LLC",
+"website_status": "",
+"summary": "已成单 1 次（STSC20240523008，2024-05-23，USD 1,140）；Simon 文件夹标签 gg（已凉）；详见 research/SB-1335.json",
+"type": "进口贸易（克拉斯诺亚尔斯克）",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "PI",
+"claim": "成交单据 STSC20240523008（PI，2024-05-23）：STI-050GE、STI-080GE 共 4 台，USD 1140.0；采购 SmartByte RMB 626.0；Simon 成本表利润 RMB 514",
+"quote": "",
+"url": "PI.zip:8 俄罗斯 Igor gg/STSC20240523008.xls",
+"date": "2024-05-23"
+},
+{
+"kind": "PI",
+"claim": "PI 包文件夹「俄罗斯 Igor gg」：Simon 标签 gg；单号 1 个，2024-05-23 → 2024-05-23，销售 USD 1140.0 / RMB 0，Simon 成本统计利润合计 RMB 514.0",
+"quote": "",
+"url": "PI.zip:8 俄罗斯 Igor gg",
+"date": "2026-10-22"
+}
+],
+"kp": [
+{
+"name": "Igor Popov",
+"role": "单据联系人",
+"email": "rio-popov@mail.ru",
+"phone": "",
+"source": "PI.zip 单据"
+}
+],
+"notes": "",
+"researched_at": "2026-10-22",
+"deal_pi": {
+"folder": "8 俄罗斯 Igor gg",
+"simon_label": "gg",
+"pay": "",
+"bind": "",
+"buyer": "«Rio-Import» LLC",
+"orders": 1,
+"first": "2024-05-23",
+"last": "2024-05-23",
+"usd": 1140.0,
+"rmb": 0.0,
+"profit_rmb": 514.0,
+"models": "STI-050GE、STI-080GE"
+},
+"saga_fit": {
+"p1": "",
+"tier": 20,
+"why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
+},
+"grade_override": "B",
+"override_reason": "PI 包成单客户，Simon 标签 gg：gg（已凉）→ B（成交过·慢慢跟进）"
+}
+},
+{
 "name": "Central Gospel School",
 "name_src": "company",
 "names": [
@@ -239088,11 +240913,14 @@
 "categories": [],
 "tags": [
 "A优质名单(其他优质欧洲客户)",
-"AI评估(EU)·DONE"
+"AI评估(EU)·DONE",
+"成交(PI)",
+"Simon:gg"
 ],
 "flags": {
 "wa_added": 2,
-"engaged_note": 2
+"engaged_note": 2,
+"deal": 1
 },
 "fit": {
 "switch": 2
@@ -239346,9 +241174,24 @@
 "n:GE|delta consulting",
 "p:577578811"
 ],
-"grade_auto": "B",
-"score": 43,
+"pi": {
+"code": "SB-335",
+"keys": [
+"d:dc.ge"
+],
+"folder": "1 格鲁吉亚 George gg",
+"label": "格鲁吉亚 George gg",
+"simon": "gg",
+"pay": "",
+"bind": "",
+"buyer": "DELTA CONSULTING LLC",
+"country": "格鲁吉亚",
+"folder_no": "1"
+},
+"grade_auto": "A",
+"score": 93,
 "reasons": [
+"+50 有成单/下单/买过记录（用户备注或跟进表）",
 "+22 实质回复 1 次",
 "+6 在 A/DONE 优质国家名单（已做过整轮推送）",
 "+2 在 AI 客户评估名单",
@@ -239360,13 +241203,13 @@
 "+5 最近活动 2025"
 ],
 "c_sub": "",
-"status": "有回复·跟进中",
+"status": "成交过·已凉（Simon: gg）",
 "code": "SB-335",
 "grade": "B",
 "research": {
 "code": "SB-335",
 "name_official": "Delta Consulting LLC（დელტა კონსალტინგი）",
-"researched_at": "2026-10-21",
+"researched_at": "2026-10-22",
 "website_status": "在线（dc.ge / delta-consulting.ge，快照 2026-10-21，格鲁吉亚语）",
 "summary": "第比利斯领先 IT 系统集成商（2014 年成立，约 30 人，营收约 $2M；CEO/合伙人 George Jaliashvili，商务总监 Daviti Giorgadze），伙伴 Cisco / Dell / Juniper / F5 / Cambium / Teltonika / Dahua / Ruckus，有 CCTV 业务线，服务企业与政府机构；表内：从新桥拿货（给看过 CI，价格约为 Saga 一半），懂 WDM，对 1 光 4 / 2 光 4 小壳有兴趣，2025-11 要「small 8 port high PoE」。",
 "type": "",
@@ -239415,6 +241258,20 @@
 "quote": "兴趣：从新桥拿货，给我看了一个CI，价格基本是对半砍的，懂WDM… 对1光4 2光4小壳有兴趣；回复：small 8 port high poe",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20230724001（CI，2023-07-24）：STC-028GFP、STC-128GFP 共 4 台，USD 100.0；采购 HRUI RMB 470.0；Simon 成本表利润 RMB 177.1",
+"quote": "",
+"url": "PI.zip:1 格鲁吉亚 George gg/CI.xls",
+"date": "2023-07-24"
+},
+{
+"kind": "PI",
+"claim": "PI 包文件夹「格鲁吉亚 George gg」：Simon 标签 gg；单号 1 个，2023-07-24 → 2023-07-24，销售 USD 100.0 / RMB 0，Simon 成本统计利润合计 RMB 177.1",
+"quote": "",
+"url": "PI.zip:1 格鲁吉亚 George gg",
+"date": "2026-10-22"
 }
 ],
 "kp": [
@@ -239471,7 +241328,21 @@
 "tier": 25,
 "why": "其最新需求「small 8 port high PoE」→ Saga 工业 8 PoE（含 2×BT 90W）+ 2 SFP 管理 STI-288DGGPM-2BT（$157.8/164.4/171.0）；低价备选 STI-288GP；1 光 4 / 2 光 4 小壳 = STI-144GP / STI-244GP。"
 },
-"email_hook": "George, you asked for a small 8-port high-power PoE unit — ours gives 2×90 W (802.3bt) + 6×30 W on a DIN-rail body with 2 SFP uplinks; shall I send the sheet with a 1-pc sample price so you can benchmark it against your current supplier?"
+"email_hook": "George, you asked for a small 8-port high-power PoE unit — ours gives 2×90 W (802.3bt) + 6×30 W on a DIN-rail body with 2 SFP uplinks; shall I send the sheet with a 1-pc sample price so you can benchmark it against your current supplier?",
+"deal_pi": {
+"folder": "1 格鲁吉亚 George gg",
+"simon_label": "gg",
+"pay": "",
+"bind": "",
+"buyer": "DELTA CONSULTING LLC",
+"orders": 1,
+"first": "2023-07-24",
+"last": "2023-07-24",
+"usd": 100.0,
+"rmb": 0.0,
+"profit_rmb": 177.1,
+"models": "STC-028GFP、STC-128GFP"
+}
 }
 },
 {
@@ -278709,10 +280580,14 @@
 ],
 "categories": [],
 "tags": [
-"询盘流水"
+"询盘流水",
+"成交(PI)",
+"Simon:活跃",
+"Xtransfer"
 ],
 "flags": {
-"wa_added": 1
+"wa_added": 1,
+"deal": 1
 },
 "fit": {},
 "ai_evals": [],
@@ -278761,23 +280636,38 @@
 "fu_sample": false,
 "last_year": 2025,
 "merge_keys": [],
-"grade_auto": "B",
-"score": 40,
+"pi": {
+"code": "SB-473",
+"keys": [
+"d:netas.com.tr"
+],
+"folder": "20 土耳其 Burak 活跃 Xtransfer 轻度绑定",
+"label": "土耳其 Burak 活跃 Xtransfer 轻度绑定",
+"simon": "活跃",
+"pay": "Xtransfer",
+"bind": "轻度绑定",
+"buyer": "NETAŞ Telekomünikasyon A.Ş.",
+"country": "土耳其",
+"folder_no": "20"
+},
+"grade_auto": "A",
+"score": 90,
 "reasons": [
+"+50 有成单/下单/买过记录（用户备注或跟进表）",
 "+12 主动询盘（阿里巴巴/自建站/转介）",
 "+10 有企业邮箱",
 "+5 有可核实的公司网站/域名",
 "+8 区域 土耳其/土耳其",
 "+5 最近活动 2025"
 ],
-"c_sub": "调研后定级 C",
-"status": "WhatsApp 已加·未回复",
+"c_sub": "",
+"status": "成交过·活跃（Simon）",
 "code": "SB-473",
-"grade": "C",
+"grade": "A",
 "research": {
 "code": "SB-473",
 "name_official": "Netaş Telekomünikasyon A.Ş.（İstanbul, TR；netas.com.tr；BIST: NETAS）",
-"researched_at": "2026-10-21",
+"researched_at": "2026-10-22",
 "website_status": "在线",
 "summary": "土耳其电信设备与系统集成上市公司 Netaş（1967 年成立，1993 年上市；2025 年末员工 1,264 人、年均 1,368 人；ZTE Cooperatief U.A. 持股 48.05%，Türk Silahlı Kuvvetleri Güçlendirme Vakfı 持股 15%，其余流通；总经理 Sinan Dumlu；业务：电信运营商网络产品、本土基站、系统集成）。Saga 自建站询盘：Ender Bulut 询 OM6X2424(2)-PSE-GW（型号疑为他牌 PoE 交换机/网关）；无跟进。按规则归 C（资料保留）。",
 "type": "",
@@ -278804,6 +280694,20 @@
 "quote": "OM6X2424(2)-PSE-GW / from: 自建站",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STAG20251224020（PI，2025-12-24）：STI-488DGGPM-2BT 共 3 台，USD 545.0；采购 SmartByte RMB 2616.0；Simon 成本表利润 RMB 903.53",
+"quote": "",
+"url": "PI.zip:20 土耳其 Burak 活跃 Xtransfer 轻度绑定/STAG20251224020.xls",
+"date": "2025-12-24"
+},
+{
+"kind": "PI",
+"claim": "PI 包文件夹「土耳其 Burak 活跃 Xtransfer 轻度绑定」：Simon 标签 活跃，收款 Xtransfer，轻度绑定；单号 1 个，2025-12-24 → 2025-12-24，销售 USD 545.0 / RMB 0，Simon 成本统计利润合计 RMB 903.53",
+"quote": "",
+"url": "PI.zip:20 土耳其 Burak 活跃 Xtransfer 轻度绑定",
+"date": "2026-10-22"
 }
 ],
 "kp": [
@@ -278813,10 +280717,17 @@
 "email": "ebulut@netas.com.tr（用户表）",
 "phone": "—",
 "source": "（本地 Clients/ 表格，无公开 URL）"
+},
+{
+"name": "Burak Ozdemir",
+"role": "单据联系人",
+"email": "buozdemir@netas.com.tr",
+"phone": "",
+"source": "PI.zip 单据"
 }
 ],
-"grade_override": "C",
-"override_reason": "规模大 + 守界：BIST 上市电信设备/系统集成巨头（1967 年成立；约 1,264–1,403 名员工；ZTE 持股 48.05%、土耳其武装部队基金会持股 15%）——集团级采购、ZTE 供应链关联且军方基金会股东，超出 Saga 可赢范围",
+"grade_override": "A",
+"override_reason": "规模大 + 守界：BIST 上市电信设备/系统集成巨头（1967 年成立；约 1,264–1,403 名员工；ZTE 持股 48.05%、土耳其武装部队基金会持股 15%）——集团级采购、ZTE 供应链关联且军方基金会股东，超出 Saga 可赢范围；PI 包成单客户，Simon 标签 活跃 → A",
 "notes": "（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -278847,7 +280758,21 @@
 "tier": 25,
 "why": "不推进"
 },
-"email_hook": "（不主动发送）"
+"email_hook": "（不主动发送）",
+"deal_pi": {
+"folder": "20 土耳其 Burak 活跃 Xtransfer 轻度绑定",
+"simon_label": "活跃",
+"pay": "Xtransfer",
+"bind": "轻度绑定",
+"buyer": "NETAŞ Telekomünikasyon A.Ş.",
+"orders": 1,
+"first": "2025-12-24",
+"last": "2025-12-24",
+"usd": 545.0,
+"rmb": 0.0,
+"profit_rmb": 903.53,
+"models": "STI-488DGGPM-2BT"
+}
 }
 },
 {
@@ -446285,10 +448210,13 @@
 "categories": [],
 "tags": [
 "群发(筛选后质量一般的_群发)",
-"表:马来西亚"
+"表:马来西亚",
+"成交(PI)",
+"Simon:可发展"
 ],
 "flags": {
-"wa_added": 1
+"wa_added": 1,
+"deal": 1
 },
 "fit": {},
 "ai_evals": [],
@@ -446336,18 +448264,108 @@
 "fu_sample": false,
 "last_year": 0,
 "merge_keys": [],
-"grade_auto": "C",
-"score": 12,
+"pi": {
+"code": "SC-1006",
+"keys": [
+"d:live.com.my",
+"e:rajaking@live.com.my",
+"e:rajaking@outlook.com"
+],
+"folder": "19 马来西亚 Raja 可发展",
+"label": "马来西亚 Raja 可发展",
+"simon": "可发展",
+"pay": "",
+"bind": "",
+"buyer": "WIZARDSINC SDN BHD",
+"country": "马来西亚",
+"folder_no": "19"
+},
+"grade_auto": "A",
+"score": 62,
 "reasons": [
+"+50 有成单/下单/买过记录（用户备注或跟进表）",
 "-6 群发批次名单",
 "+10 有企业邮箱",
 "+5 有可核实的公司网站/域名",
 "+3 区域 亚太/马来西亚"
 ],
-"c_sub": "群发冷名单无回应",
-"status": "WhatsApp 已加·未回复",
+"c_sub": "",
+"status": "成交过·可发展（Simon）",
 "code": "SC-1006",
-"grade": "C"
+"grade": "A",
+"research": {
+"code": "SC-1006",
+"name_official": "WIZARDSINC SDN BHD",
+"website_status": "",
+"summary": "",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "PI",
+"claim": "成交单据 STS-20260818-001（Quotation，2026-08-18）：NDR-240-48、STI-288GP、STI-G2-MD、STI-G20-SD 共 36 台，RMB 7580.0",
+"quote": "",
+"url": "PI.zip:19 马来西亚 Raja 可发展/STS-20260818-001.xlsx",
+"date": "2026-08-18"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20260819019（PI，2026-08-19）：NDR-240-48、STI-288GP、STI-G2-MD、STI-G20-SD 共 42 台，RMB 9090.0；采购 SmartByte RMB 5348.0",
+"quote": "",
+"url": "PI.zip:19 马来西亚 Raja 可发展/STSC20260819019.xlsx",
+"date": "2026-08-19"
+},
+{
+"kind": "PI",
+"claim": "成交单据 STSC20260821019（PI，2026-08-21）：NDR-240-48、STI-21616GP、STI-21616GPM、STI-288GPM、STI-G2-MD、STI-G20-SD 共 42 台，RMB 10500.0",
+"quote": "",
+"url": "PI.zip:19 马来西亚 Raja 可发展/STSC20260821019.xlsx",
+"date": "2026-08-21"
+},
+{
+"kind": "PI",
+"claim": "PI 包文件夹「马来西亚 Raja 可发展」：Simon 标签 可发展；单号 3 个，2026-08-18 → 2026-08-21，销售 USD 0 / RMB 19590.0，Simon 成本统计利润合计 RMB 0",
+"quote": "",
+"url": "PI.zip:19 马来西亚 Raja 可发展",
+"date": "2026-10-22"
+}
+],
+"kp": [
+{
+"name": "Raja King",
+"role": "单据联系人",
+"email": "",
+"phone": "",
+"source": "PI.zip 单据"
+},
+{
+"name": "Raja Kumaran",
+"role": "单据联系人",
+"email": "rajaking@outlook.com",
+"phone": "",
+"source": "PI.zip 单据"
+}
+],
+"notes": "",
+"researched_at": "2026-10-22",
+"deal_pi": {
+"folder": "19 马来西亚 Raja 可发展",
+"simon_label": "可发展",
+"pay": "",
+"bind": "",
+"buyer": "WIZARDSINC SDN BHD",
+"orders": 3,
+"first": "2026-08-18",
+"last": "2026-08-21",
+"usd": 0.0,
+"rmb": 19590.0,
+"profit_rmb": 0.0,
+"models": "NDR-240-48、STI-21616GP、STI-21616GPM、STI-288GP、STI-288GPM、STI-G2-MD、STI-G20-SD"
+},
+"grade_override": "A",
+"override_reason": "PI 包成单客户，Simon 标签 可发展 → A"
+}
 },
 {
 "name": "almamaas.com",
@@ -758544,7 +760562,9 @@
 ],
 "categories": [],
 "tags": [
-"E冷名单(赞比亚)"
+"E冷名单(赞比亚)",
+"成交(PI)",
+"Simon:gg"
 ],
 "flags": {
 "wa_added": 1,
@@ -758690,6 +760710,20 @@
 "fu_sample": false,
 "last_year": 2025,
 "merge_keys": [],
+"pi": {
+"code": "SC-349",
+"keys": [
+"e:pythiask@gmail.com"
+],
+"folder": "3  赞比亚 Pythias gg",
+"label": "赞比亚 Pythias gg",
+"simon": "gg",
+"pay": "",
+"bind": "",
+"buyer": "Obmac Systems",
+"country": "赞比亚",
+"folder_no": "3"
+},
 "grade_auto": "C",
 "score": 18,
 "reasons": [
@@ -758701,10 +760735,62 @@
 "+5 最近活动 2025",
 "-10 推送 8 次无任何回复（聋名单）"
 ],
-"c_sub": "品类不符（VC/DWDM/CCTV 等）",
-"status": "成交过·维护",
+"c_sub": "",
+"status": "成交过·已凉（Simon: gg）",
 "code": "SC-349",
-"grade": "C"
+"grade": "B",
+"research": {
+"code": "SC-349",
+"name_official": "Obmac Systems",
+"website_status": "",
+"summary": "",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "PI",
+"claim": "成交单据 STSC20240117003（CI，2024-01-17）：STC-4248XGGCM、STI-244GP、STI-SFP1G-SMD20-1310LC 共 265 台，USD 9350.0；采购 HRUI、SmartByte RMB 33800.0；Simon 成本表利润 RMB 23118.35",
+"quote": "",
+"url": "PI.zip:3  赞比亚 Pythias gg/CI.xls",
+"date": "2024-01-17"
+},
+{
+"kind": "PI",
+"claim": "PI 包文件夹「赞比亚 Pythias gg」：Simon 标签 gg；单号 1 个，2024-01-17 → 2024-01-17，销售 USD 9350.0 / RMB 0，Simon 成本统计利润合计 RMB 23118.35",
+"quote": "",
+"url": "PI.zip:3  赞比亚 Pythias gg",
+"date": "2026-10-22"
+}
+],
+"kp": [
+{
+"name": "Pythias Kachepa",
+"role": "单据联系人",
+"email": "pythiask@gmail.com",
+"phone": "",
+"source": "PI.zip 单据"
+}
+],
+"notes": "",
+"researched_at": "2026-10-22",
+"deal_pi": {
+"folder": "3  赞比亚 Pythias gg",
+"simon_label": "gg",
+"pay": "",
+"bind": "",
+"buyer": "Obmac Systems",
+"orders": 1,
+"first": "2024-01-17",
+"last": "2024-01-17",
+"usd": 9350.0,
+"rmb": 0.0,
+"profit_rmb": 23118.35,
+"models": "STC-4248XGGCM、STI-244GP、STI-SFP1G-SMD20-1310LC"
+},
+"grade_override": "B",
+"override_reason": "PI 包成单客户（2024-01 一单 265 台 USD 9,350，Simon 成本表利润 RMB 23,118；Simon 标签 gg）→ 至少 B"
+}
 },
 {
 "name": "Oringnet",

@@ -1,9 +1,9 @@
 # Angora Networks
 **官方名称（调研核实）**：Angora Networks Bilişim Teknoloji Tic. San. A.Ş.（安卡拉）
 
-> **评级 A**　|　土耳其　|　档案编号 `SA-168`　|　优先级 ★★★　|　状态：成交过·维护
+> **评级 A**　|　土耳其　|　档案编号 `SA-168`　|　优先级 ★★★　|　状态：成交过·活跃（Simon）
 >
-> **类型**：系统集成商 + 自有品牌贴牌（OEM）——公共部门/运营商投标型（推断）　|　**历史关系**：成交/下单过　|　**所在清单**：补录、S成单、已成单　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：系统集成商 + 自有品牌贴牌（OEM）——公共部门/运营商投标型（推断）　|　**历史关系**：成交/下单过　|　**所在清单**：补录、S成单、已成单、成交(PI)、Simon:活跃、Xtransfer　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-168
@@ -16,7 +16,7 @@ country: 土耳其
 region: 土耳其
 website: angoranetworks.com
 type: 系统集成商 + 自有品牌贴牌（OEM）——公共部门/运营商投标型
-tier_tags: ["补录", "S成单", "已成单"]
+tier_tags: ["补录", "S成单", "已成单", "成交(PI)", "Simon:活跃", "Xtransfer"]
 deal: yes
 replies: 0
 followups: 0
@@ -54,7 +54,7 @@ updated: 2026-10-22
 | 兴趣（Interested in） | 商用 L2+/L3 交换机（24/48 口 + 10G）、工业 PoE 交换机（8/16 口）、CENTEC 数据中心交换机、贴牌（ANW-/TronX/Turk Telekom） | 事实（用户表） |
 | 用户备注（Remark） | 已成单（2024-05 样品、2024-10 7 台、2025-03 176 台 ANW-2116-PG 大单、2025-05 7 台 + 13 台、2025-06 6 台演示机）；S 邮箱 33 线程 316 封（2024-04→2026-07）；详见 research JSON | 事实（用户表） |
 | 用户分档（Category） | 系统集成商/自有品牌（TronX） | 事实（用户表） |
-| 所在清单 | 补录、S成单、已成单 | 事实（文件路径） |
+| 所在清单 | 补录、S成单、已成单、成交(PI)、Simon:活跃、Xtransfer | 事实（文件路径） |
 | 在卖/在用品牌（备注所见） | — | 事实（用户备注）/ 推断 |
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
@@ -130,8 +130,32 @@ updated: 2026-10-22
 - **【附件（S 邮箱）】法定名称/地址：Commercial Invoice STSC20250117007 买方 ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.，税务所 Yenimahalle VD，电话 90 (312) 241 77 47，联系人 Levent Kilic，付款条件 T/T in advance**
   > Buyer: ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S. … Office: YeniMahalle Vd … Invoice No.: STSC20250117007 … Payment Term: T/T in advance
   > 来源：data/gmail_s/attachments/text/4fc777b174f43135.json（抓取 2025-01-17）
+- **【PI】成交单据 STSC20240508007（CI，2024-05-08）：STC-28DGGPM、STC-424XGGPM、STC-448XGGPM 共 4 台，USD 1265.0；采购 SmartByte RMB 6000.0；Simon 成本表利润 RMB 2158.96**
+  > 来源：PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/CI.xls（抓取 2024-05-08）
+- **【PI】成交单据 STSC20241021007（CI，2024-10-21）：STC-416DGGPM、STI-280DGGM 共 10 台，USD 2345.0；采购 SmartByte RMB 4994.0**
+  > 来源：PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/CI.xls（抓取 2024-10-21）
+- **【PI】成交单据 STSC20241028007（PI，2024-10-28）：STC-416DGGPM 共 1 台，USD 200.0**
+  > 来源：PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/STSC20241028007.xls（抓取 2024-10-28）
+- **【PI】成交单据 STSC20241105007（PI，2024-11-05）：STC-416DGGPM 共 3 台，USD 600.0；采购 SmartByte RMB 2250.0**
+  > 来源：PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/STSC20241105007.xls（抓取 2024-11-05）
+- **【PI】成交单据 STSC20241129007（PI，2024-11-29）：TRX-AP-612T、TRX-AS-24TP4X、TRX-AS-48TP4X、TRX-IS-8TP2G、TRX-QSFP-40G-SR4、TRX-QSFP28-100G-SR4、TRX-SFP-10G-LR、TRX-SFP-10G-SR、TRX-SFP-1G-LX、TRX-SFP-1G-SX、TRX-SFP28-25G-SR 共 41 台，USD 1755.0**
+  > 来源：PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/STSC20241129007.xls（抓取 2024-11-29）
+- **【PI】成交单据 STSC20250117007（CI，2025-01-17）：STI-21616DGGPM 共 178 台，USD 47174.0；采购 SmartByte RMB 0.0；Simon 成本表利润 RMB 54296.26**
+  > 来源：PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/Commercial Invoice_R1.xls（抓取 2025-01-17）
+- **【PI】成交单据 STSC20250228007（PI，2025-02-28）：STC-424XGGPM、STC-448XGGPM 共 7 台，USD 2130.0；采购 SmartByte RMB 9110.0**
+  > 来源：PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/STSC20250228007_R3.xls（抓取 2025-02-28）
+- **【PI】成交单据 STSC20250507007（CI，2025-05-12）：Commercial Switch 共 3 台，USD 1545.0；采购 SmartByte RMB 8190.0；Simon 成本表利润 RMB 2227.08**
+  > 来源：PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/普通快递发票_STSC20250507007.xlsx（抓取 2025-05-12）
+- **【PI】成交单据 STSC20250526007（CI，2025-05-26）：ANW-2248-PX、STC-424XGGPM、STC-448XGGPM 共 13 台，USD 3755.0；采购 SmartByte RMB 14630.0；Simon 成本表利润 RMB 9250.8**
+  > 来源：PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/CI.xls（抓取 2025-05-26）
+- **【PI】成交单据 STSC20250619007（CI，2025-06-19）：STI-288DGGPM 共 6 台，USD 900.0；采购 SmartByte RMB 4272.0；Simon 成本表利润 RMB 2102.12**
+  > 来源：PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/CI.xls（抓取 2025-06-19）
+- **【PI】PI 包文件夹「土耳其 Levent 活跃 Xtransfer 轻度绑定」：Simon 标签 活跃，收款 Xtransfer，轻度绑定；单号 10 个，2024-05-08 → 2025-06-19，销售 USD 61669.0 / RMB 0，Simon 成本统计利润合计 RMB 75789.12**
+  > 来源：PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定（抓取 2026-10-22）
 - **KP**：Levent Kılıç（负责人/商务（付款、合同、项目））lkilic@angoranetworks.com +90 532 476 1428（WeChat/WhatsApp，2024-05-02 本人提供）〔gmail:s.sagatelecom thread 1797555182457944562〕
 - **KP**：Taylan Esen（技术负责人（RFP 功能、SNMP/固件、MAC/SN、客户 NMS））tesen@angoranetworks.com 〔gmail:s.sagatelecom thread 1797555182457944562〕
+- **KP**：Levent Kilic（单据联系人）levent.kilic@angoranetworks.com; lkilic@angoranetworks.com 〔PI.zip 单据〕
+- **KP**：Mr. Mustafa Calik（单据联系人）mustafa.calik@tronx.com.tr 〔PI.zip 单据〕
 - **调研后定级**：A（原自动 A）——成单客户：S 邮箱可证 5 批订单（2024-05 → 2025-06），含 176 台大单；在谈 Turk Telekom 千台级项目与 TronX 常规订单；两名实名 KP 直接往来。
 - 备注：A 级（成单）。边界提示：其终端客户为土耳其警察、Turk Telekom、NATO 项目（2025-07 媒体转换器询价，合作方已放弃）——属公共部门/运营商，Saga 以 Angora 为客户、不直接对公共部门，沿用 Simon 既有做法。PI 包入库后用发票级数据补「订单明细」。
 
@@ -169,6 +193,26 @@ updated: 2026-10-22
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## 成交记录（PI 包 · 自动汇总）
+
+- **Simon 的标签**（PI 包文件夹名）：**活跃**　|　收款：Xtransfer　|　轻度绑定　|　买方抬头：ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.
+- **单号** 10 个（2024-05-08 → 2025-06-19）　|　**销售** USD 61,669　|　**Simon 成本表利润** RMB 70,035
+
+| 单号 | 日期 | 单据 | 型号 | 数量 | 金额 | 采购（卖方 / RMB） | Simon 成本表（成本 / 收款 / 利润 RMB） |
+|---|---|---|---|---|---|---|---|
+| STSC20240508007 | 2024-05-08 | CI | STC-28DGGPM、STC-424XGGPM、STC-448XGGPM | 4 | USD 1265.0 | SmartByte / 6000.0 | 6991.42 / 1265 / 2158.96 |
+| STSC20241021007 | 2024-10-21 | CI | STC-416DGGPM、STI-280DGGM | 10 | USD 2345.0 | SmartByte / 4994.0 | — |
+| STSC20241028007 | 2024-10-28 | PI | STC-416DGGPM | 1 | USD 200.0 | — | — |
+| STSC20241105007 | 2024-11-05 | PI | STC-416DGGPM | 3 | USD 600.0 | SmartByte / 2250.0 | — |
+| STSC20241129007 | 2024-11-29 | PI | TRX-AP-612T、TRX-AS-24TP4X、TRX-AS-48TP4X、TRX-IS-8TP2G、TRX-QSF | 41 | USD 1755.0 | — | — |
+| STSC20250117007 | 2025-01-17 | CI | STI-21616DGGPM | 178 | USD 47174.0 | SmartByte / 0.0 | 288123.96 / 10000 / 54296.26 |
+| STSC20250228007 | 2025-02-28 | PI | STC-424XGGPM、STC-448XGGPM | 7 | USD 2130.0 | SmartByte / 9110.0 | — |
+| STSC20250507007 | 2025-05-12 | CI | Commercial Switch | 3 | USD 1545.0 | SmartByte / 8190.0 | 9705.99 / 1665 / 2227.08 |
+| STSC20250526007 | 2025-05-26 | CI | ANW-2248-PX、STC-424XGGPM、STC-448XGGPM | 13 | USD 3755.0 | SmartByte / 14630.0 | 17577.19 / 3755 / 9250.8 |
+| STSC20250619007 | 2025-06-19 | CI | STI-288DGGPM | 6 | USD 900.0 | SmartByte / 4272.0 | 4948.45 / 990 / 2102.12 |
+
+> 口径：同一单号多份文件取 CI > PI（最新修订）> Quotation；Quotation 行不计入销售合计；明细见 `data/pi_orders/销售单据明细.csv`、采购价见 `采购合同明细.csv`；原件在 Release `files-pi_2026-10`。
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
@@ -212,6 +256,8 @@ updated: 2026-10-22
 |---|---|---|---|---|
 | Levent Kılıç | 负责人/商务（付款、合同、项目） | lkilic@angoranetworks.com / +90 532 476 1428（WeChat/WhatsApp，2024-05-02 本人提供） | 调研核实（公开页） | gmail:s.sagatelecom thread 1797555182457944562 |
 | Taylan Esen | 技术负责人（RFP 功能、SNMP/固件、MAC/SN、客户 NMS） | tesen@angoranetworks.com | 调研核实（公开页） | gmail:s.sagatelecom thread 1797555182457944562 |
+| Levent Kilic | 单据联系人 | levent.kilic@angoranetworks.com; lkilic@angoranetworks.com | 调研核实（公开页） | PI.zip 单据 |
+| Mr. Mustafa Calik | 单据联系人 | mustafa.calik@tronx.com.tr | 调研核实（公开页） | PI.zip 单据 |
 | Levent Kılıç; Taylan Esen | 负责人（商务/付款）; 技术负责人 | lkilic@angoranetworks.com / tesen@angoranetworks.com / +905324761428 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
@@ -222,7 +268,7 @@ updated: 2026-10-22
 
 | 文件#表:行 | No. | Company（原值） | Country | Person | From | Interested in | Contact | Remark | 跟进表 |
 |---|---|---|---|---|---|---|---|---|---|
-| 补录客户.jsonl#(补录):2 | PI-001 | Angora Networks | Turkey | Levent Kılıç; Taylan Esen | 补录：S 邮箱成单客户（T29-U6，PI 包待入库） | 商用 L2+/L3 交换机（24/48 口 + 10G）、工业 PoE 交换机（8/16 口）、CENTEC 数据中心交换机、贴牌（ANW-/TronX/Turk Telekom） | lkilic@angoranetworks.com; tesen@angoranetworks.com; contact@angoranetworks.com +90 532 476 1428（Levent，WeChat/WhatsApp）; +90 312 241 77 47（公司） https://www.angoranetworks.com | 已成单（2024-05 样品、2024-10 7 台、2025-03 176 台 ANW-2116-PG 大单、2025-05 7 台 + 13 台、2025-06 6 台演示机）；S 邮箱 33 线程 316 封（2024-04→2026-07）；详见 research JSON 负责人（商务/付款）; 技术负责人 | — |
+| 补录客户.jsonl#(补录):2 | PI-001 | Angora Networks | 土耳其 | Levent Kılıç; Taylan Esen | 补录：S 邮箱成单客户（T29-U6，PI 包待入库） | 商用 L2+/L3 交换机（24/48 口 + 10G）、工业 PoE 交换机（8/16 口）、CENTEC 数据中心交换机、贴牌（ANW-/TronX/Turk Telekom） | lkilic@angoranetworks.com; tesen@angoranetworks.com; contact@angoranetworks.com +90 532 476 1428（Levent，WeChat/WhatsApp）; +90 312 241 77 47（公司） https://www.angoranetworks.com | 已成单（2024-05 样品、2024-10 7 台、2025-03 176 台 ANW-2116-PG 大单、2025-05 7 台 + 13 台、2025-06 6 台演示机）；S 邮箱 33 线程 316 封（2024-04→2026-07）；详见 research JSON 负责人（商务/付款）; 技术负责人 | — |
 
 ## 产品决策（Saga · 单一决策口径）
 
