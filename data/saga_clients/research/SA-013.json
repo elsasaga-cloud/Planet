@@ -139,6 +139,13 @@
    "quote": "smartbyte: new model for SmartByte switches — Frderik Kriewitz, 2026-01-23；spec/model/data/smartbyte#STC-4168XGGCM_7.4.7#output.txt",
    "url": "https://github.com/ytti/oxidized/blob/master/lib/oxidized/model/smartbyte.rb",
    "date": "2026-10-22"
+  },
+  {
+   "kind": "S 邮箱原文 + GitHub 对齐",
+   "claim": "LibreNMS 支持的来龙去脉：2025-02-11 测试反馈（无 PSU/风扇/温度监控、SNMP 基础、缺 LLDP-V2-MIB/DDM，选 BDCOM S2900）→ 2025-12-10 指出固件企业号=0、旧固件为 57430（Fuzhou Dockeer）→ 2025-12-17 Simon 发修复固件 hotfix/7.4.7 r1540（OID=56166）→ 12-18 确认生效 → 12-19 Frederik 开 LibreNMS PR #18681（2026-01-11 合并，26.1.0 发布）。show version 显示 System MAC fc:cd:2f:d0:4f:db（SmartByte MA-M 块内）、PID STC-4168XGGCM V1.1、SN 202509160001",
+   "quote": "Vendor OID is still 0 … System MAC Address: fc:cd:2f:d0:4f:db PID: STC-4168XGGCM, Hardware Version: V1.1, Serial Number: 202509160001 … Thank you, with this data update the OID was updated, working as expected now.",
+   "url": "data/gmail_s/messages/2025/2025-12.jsonl（f.kriewitz@nynex.de 2025-12-10 / 12-17 / 12-18）+ https://github.com/librenms/librenms/pull/18681",
+   "date": "2026-10-22"
   }
  ],
  "notes": "A 维持：运营商持续采购楼宇接入交换机（48 口/L2+/2.5G 上联）与贴牌 MC/SFP；P1 改 STC-448XGGPM 或 STC-424XGGPM-280W（10G 上联）。\n【2026-10-22 复盘补】NYNEX 2025-03 的 SNMP/MIB 合规追问是「工程型缓冲层」的真实考题：欧洲客户会用 snmpwalk 核 OID 归属。Saga 应自己申请一个 IANA PEN（免费、在线表单、约 1–2 周）并要求 SmartByte 在 Saga 版固件里只保留 Saga PEN 下的私有 MIB；给 NYNEX/德国客户的 OEM 说明要能回答「OEM 数据是固件内写死还是独立配置分区」。对应 Q-35。 ｜ 针对性加厚 2026-10-22（S 邮箱 2026-09/10 第 6 单，T29-U13 ②）",
