@@ -1,6 +1,7 @@
 {
- "ts": "2026-10-22T15:44:03Z",
+ "ts": "2026-10-22T15:50:55Z",
  "user_login": "freddy36",
+ "_errors": [],
  "profile": {
   "login": "freddy36",
   "id": 1706402,
@@ -1889,6 +1890,186 @@
  },
  "involves_recent": [
   {
+   "repo": "librenms/librenms",
+   "number": 16163,
+   "title": "Fiberstore Switch add sensors for 52652 switches",
+   "kind": "pull-request",
+   "author": "murrant",
+   "updated": "2026-10-20T14:12:56Z",
+   "url": "https://github.com/librenms/librenms/pull/16163"
+  },
+  {
+   "repo": "librenms/librenms",
+   "number": 18955,
+   "title": "Add FS Switch Campus S3410 Series",
+   "kind": "pull-request",
+   "author": "glennmatth",
+   "updated": "2026-02-24T07:56:56Z",
+   "url": "https://github.com/librenms/librenms/pull/18955"
+  },
+  {
+   "repo": "freddy36/check_mk_extensions",
+   "number": 20,
+   "title": "agent_based: fix bounds variable update",
+   "kind": "pull-request",
+   "author": "PhilippKilian",
+   "updated": "2025-12-03T12:18:43Z",
+   "url": "https://github.com/freddy36/check_mk_extensions/pull/20"
+  },
+  {
+   "repo": "freddy36/check_mk_extensions",
+   "number": 15,
+   "title": "fix 2 parsing bugs",
+   "kind": "pull-request",
+   "author": "PhilippKilian",
+   "updated": "2025-12-03T09:22:19Z",
+   "url": "https://github.com/freddy36/check_mk_extensions/pull/15"
+  },
+  {
+   "repo": "esphome/esphome",
+   "number": 8439,
+   "title": "[esp32, logger] Add initial P4 support",
+   "kind": "pull-request",
+   "author": "swoboda1337",
+   "updated": "2025-07-02T14:51:16Z",
+   "url": "https://github.com/esphome/esphome/pull/8439"
+  },
+  {
+   "repo": "mitodl/edx-sga",
+   "number": 349,
+   "title": "feat: allow to configure upload file size",
+   "kind": "pull-request",
+   "author": "ErickMurillo",
+   "updated": "2025-06-13T06:54:24Z",
+   "url": "https://github.com/mitodl/edx-sga/pull/349"
+  },
+  {
+   "repo": "jo1gi/audiobook-dl",
+   "number": 140,
+   "title": "Updating device id to fix the new cloudflare block ",
+   "kind": "pull-request",
+   "author": "ssakkout",
+   "updated": "2025-01-14T14:03:58Z",
+   "url": "https://github.com/jo1gi/audiobook-dl/pull/140"
+  },
+  {
+   "repo": "jo1gi/audiobook-dl",
+   "number": 138,
+   "title": "fixing issue #137 \"the cloudflare block in storytel\"",
+   "kind": "pull-request",
+   "author": "ssakkout",
+   "updated": "2024-12-27T14:59:53Z",
+   "url": "https://github.com/jo1gi/audiobook-dl/pull/138"
+  },
+  {
+   "repo": "librenms/librenms",
+   "number": 16165,
+   "title": "Transceiver Support",
+   "kind": "pull-request",
+   "author": "murrant",
+   "updated": "2024-09-29T22:33:00Z",
+   "url": "https://github.com/librenms/librenms/pull/16165"
+  },
+  {
+   "repo": "gfto/mptsd",
+   "number": 38,
+   "title": "Fix counter output with RTP & file",
+   "kind": "pull-request",
+   "author": "lars18th",
+   "updated": "2024-03-14T06:29:38Z",
+   "url": "https://github.com/gfto/mptsd/pull/38"
+  },
+  {
+   "repo": "ytti/oxidized",
+   "number": 2395,
+   "title": "Add bdcom driver",
+   "kind": "pull-request",
+   "author": "candlerb",
+   "updated": "2022-05-13T19:00:46Z",
+   "url": "https://github.com/ytti/oxidized/pull/2395"
+  },
+  {
+   "repo": "ytti/oxidized",
+   "number": 1855,
+   "title": "Add support for FS switches",
+   "kind": "pull-request",
+   "author": "davidc",
+   "updated": "2022-05-13T18:56:48Z",
+   "url": "https://github.com/ytti/oxidized/pull/1855"
+  },
+  {
+   "repo": "freddy36/check_mk_extensions",
+   "number": 11,
+   "title": "bird for CMK 2.0",
+   "kind": "pull-request",
+   "author": "gurubert",
+   "updated": "2021-03-17T11:14:26Z",
+   "url": "https://github.com/freddy36/check_mk_extensions/pull/11"
+  },
+  {
+   "repo": "ytti/oxidized",
+   "number": 2097,
+   "title": "Fix EdgeCOS model",
+   "kind": "pull-request",
+   "author": "moisseev",
+   "updated": "2020-05-19T11:29:53Z",
+   "url": "https://github.com/ytti/oxidized/pull/2097"
+  },
+  {
+   "repo": "freddy36/check_mk_extensions",
+   "number": 8,
+   "title": "CMK 1.6 compatability",
+   "kind": "pull-request",
+   "author": "gurubert",
+   "updated": "2019-11-07T18:51:12Z",
+   "url": "https://github.com/freddy36/check_mk_extensions/pull/8"
+  },
+  {
+   "repo": "SynoCommunity/spksrc",
+   "number": 3001,
+   "title": "[Mono] Update to 5.4.1.6 (fixes #2808)",
+   "kind": "pull-request",
+   "author": "m4tt075",
+   "updated": "2018-01-15T14:30:37Z",
+   "url": "https://github.com/SynoCommunity/spksrc/pull/3001"
+  },
+  {
+   "repo": "freddy36/check_mk_extensions",
+   "number": 7,
+   "title": "new MKP",
+   "kind": "pull-request",
+   "author": "gurubert",
+   "updated": "2017-11-20T13:44:27Z",
+   "url": "https://github.com/freddy36/check_mk_extensions/pull/7"
+  },
+  {
+   "repo": "freddy36/check_mk_extensions",
+   "number": 6,
+   "title": "OSPF state 2-way should not trigger a warning.",
+   "kind": "pull-request",
+   "author": "liske",
+   "updated": "2017-11-12T22:02:49Z",
+   "url": "https://github.com/freddy36/check_mk_extensions/pull/6"
+  },
+  {
+   "repo": "freddy36/check_mk_extensions",
+   "number": 4,
+   "title": "awk count strings from 1 not 0. Couting from 0 broke mawk implementation",
+   "kind": "pull-request",
+   "author": "theundefined",
+   "updated": "2017-08-16T09:14:39Z",
+   "url": "https://github.com/freddy36/check_mk_extensions/pull/4"
+  },
+  {
+   "repo": "freddy36/check_mk_extensions",
+   "number": 3,
+   "title": "Global imports to not work any more with Check_MK 1.2.8",
+   "kind": "pull-request",
+   "author": "gurubert",
+   "updated": "2017-05-19T17:10:06Z",
+   "url": "https://github.com/freddy36/check_mk_extensions/pull/3"
+  },
+  {
    "repo": "chatwoot/chatwoot",
    "number": 1211,
    "title": "[CW-2856] Ability to set brand icon as staff/agent avatar",
@@ -2398,18 +2579,7 @@
      "last_commit": {}
     }
    },
-   "smartbyte_mentions": [
-    {
-     "number": 3734,
-     "title": "smartbyte: new model for SmartByte switches",
-     "author": "freddy36",
-     "state": "closed",
-     "created": "2026-01-23T11:04:27Z",
-     "updated": "2026-02-13T20:14:44Z",
-     "is_pr": true,
-     "url": "https://github.com/ytti/oxidized/pull/3734"
-    }
-   ],
+   "smartbyte_mentions": [],
    "tree_truncated": false
   },
   "netdata/netdata": {

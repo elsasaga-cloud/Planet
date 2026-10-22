@@ -23,6 +23,7 @@ import os
 import re
 import subprocess
 import sys
+import time
 import datetime as dt
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -46,6 +47,18 @@ def _gh_once(path, headers=None):
         return json.loads(txt)
     except json.JSONDecodeError:
         return {'_raw': txt[:2000]}
+
+
+def gh_search(path, prev_value=None, errors=None):
+    """搜索类端点：GitHub 限 30 次/分钟，调用间隔 2.2 s；失败时沿用上一快照的值并登记错误，
+    避免把「限流导致的空结果」误判成「消失/新增」。"""
+    time.sleep(2.2)
+    r = _gh_once(path)
+    if isinstance(r, dict) and '_error' in r:
+        if errors is not None:
+            errors.append({'path': path, 'error': r['_error'][:160]})
+        return prev_value if prev_value is not None else r
+    return r
 
 
 def gh(path, paginate=False, headers=None, max_pages=20):
@@ -73,9 +86,10 @@ def load_cfg():
         return json.load(f)
 
 
-def snapshot(cfg):
+def snapshot(cfg, prev=None):
     user = cfg['user']
-    snap = {'ts': TS, 'user_login': user}
+    prev = prev or {}
+    snap = {'ts': TS, 'user_login': user, '_errors': []}
     # 1 档案
     p = gh(f'users/{user}')
     snap['profile'] = {k: p.get(k) for k in ('login', 'id', 'name', 'company', 'blog', 'location', 'email', 'bio',
@@ -116,7 +130,12 @@ def snapshot(cfg):
     # 4 他发起的 PR / issue（全 GitHub）
     snap['authored'] = {}
     for kind in ('pull-request', 'issue'):
+        time.sleep(2.2)
         items = gh(f'search/issues?q=author:{user}+is:{kind}&sort=updated&order=desc&per_page=100', paginate=True)
+        if isinstance(items, dict) and '_error' in items:
+            snap['_errors'].append({'path': f'authored:{kind}', 'error': items['_error'][:160]})
+            snap['authored'][kind] = (prev.get('authored') or {}).get(kind, [])
+            continue
         lst = []
         for it in items if isinstance(items, list) else []:
             lst.append({'repo': it['repository_url'].rsplit('/repos/', 1)[-1], 'number': it['number'],
@@ -127,7 +146,12 @@ def snapshot(cfg):
     # 5 他参与（评论/被 @/审阅）的最近 issue/PR
     snap['involves_recent'] = []
     for kind in ('pull-request', 'issue'):
-        inv = gh(f'search/issues?q=involves:{user}+-author:{user}+is:{kind}&sort=updated&order=desc&per_page=50')
+        prev_inv = [x for x in prev.get('involves_recent', []) if x.get('kind') == kind]
+        inv = gh_search(f'search/issues?q=involves:{user}+-author:{user}+is:{kind}&sort=updated&order=desc&per_page=50',
+                        prev_value={'items': None}, errors=snap['_errors'])
+        if inv.get('items') is None:
+            snap['involves_recent'] += prev_inv
+            continue
         snap['involves_recent'] += [
             {'repo': it['repository_url'].rsplit('/repos/', 1)[-1], 'number': it['number'], 'title': it['title'],
              'kind': kind, 'author': it['user']['login'], 'updated': it['updated_at'], 'url': it['html_url']}
@@ -173,8 +197,13 @@ def snapshot(cfg):
                 files[t['path']] = {'blob': t['sha'][:12], 'size': t.get('size'), 'last_commit': lc}
         # 该仓库里提到 smartbyte 的 issue/PR（任何作者）
         mentions = []
+        prev_m = (prev.get('upstream', {}).get(repo) or {}).get('smartbyte_mentions', [])
         for kind in ('pull-request', 'issue'):
-            iss = gh(f'search/issues?q=smartbyte+repo:{repo}+is:{kind}&sort=updated&order=desc&per_page=50')
+            iss = gh_search(f'search/issues?q=smartbyte+repo:{repo}+is:{kind}&sort=updated&order=desc&per_page=50',
+                            prev_value={'items': None}, errors=snap['_errors'])
+            if iss.get('items') is None:
+                mentions += [m for m in prev_m if m.get('is_pr') == (kind == 'pull-request')]
+                continue
             mentions += [{'number': it['number'], 'title': it['title'], 'author': it['user']['login'],
                           'state': it['state'], 'created': it['created_at'], 'updated': it['updated_at'],
                           'is_pr': kind == 'pull-request', 'url': it['html_url']}
@@ -184,7 +213,10 @@ def snapshot(cfg):
     # 9 全站搜索（SmartByte / Saga 的型号与名字；新命中 = 新的 OEM 客户或新的集成）
     snap['searches'] = {}
     for q in cfg.get('code_searches', []):
-        r = gh(f'search/code?q={q}&per_page=50')
+        r = gh_search(f'search/code?q={q}&per_page=50', prev_value=prev.get('searches', {}).get('code:' + q), errors=snap['_errors'])
+        if isinstance(r, dict) and 'hits' in r:   # 沿用了上一快照
+            snap['searches']['code:' + q] = r
+            continue
         if isinstance(r, dict) and 'items' in r:
             snap['searches']['code:' + q] = {
                 'total': r.get('total_count'),
@@ -192,7 +224,10 @@ def snapshot(cfg):
         else:
             snap['searches']['code:' + q] = r
     for q in cfg.get('repo_searches', []):
-        r = gh(f'search/repositories?q={q}&per_page=50')
+        r = gh_search(f'search/repositories?q={q}&per_page=50', prev_value=prev.get('searches', {}).get('repo:' + q), errors=snap['_errors'])
+        if isinstance(r, dict) and 'hits' in r:
+            snap['searches']['repo:' + q] = r
+            continue
         if isinstance(r, dict) and 'items' in r:
             snap['searches']['repo:' + q] = {
                 'total': r.get('total_count'),
@@ -256,7 +291,7 @@ def diff(prev, cur):
     pi = {(x['repo'], x['number']) for x in prev.get('involves_recent', [])}
     for x in cur.get('involves_recent', []):
         if (x['repo'], x['number']) not in pi:
-            out.append(f'新参与（评论/被提及/审阅）{x["repo"]}#{x["number"]}「{x["title"]}」{x["url"]}')
+            out.append(f'新参与（评论/被提及/审阅）{x.get("kind")} {x["repo"]}#{x["number"]}「{x["title"]}」by {x.get("author")} 更新 {x["updated"][:10]} {x["url"]}')
     # 事件
     pe = {e['id'] for e in prev.get('events', [])}
     for e in cur.get('events', []):
@@ -394,7 +429,7 @@ def main():
     os.makedirs(os.path.join(OUT, 'snapshots'), exist_ok=True)
     latest = os.path.join(OUT, 'latest.json')
     prev = json.load(open(latest, encoding='utf-8')) if os.path.exists(latest) else None
-    cur = snapshot(cfg)
+    cur = snapshot(cfg, prev)
     changes = diff(prev, cur)
     saved = [] if NO_FILES else archive_files(cfg, cur, prev)
     with open(os.path.join(OUT, 'snapshots', TS.replace(':', '') + '.json'), 'w', encoding='utf-8') as f:
@@ -413,6 +448,8 @@ def main():
             f.write('- 无变化\n')
         if saved:
             f.write(f'- 本轮归档/更新文件 {len(saved)}：' + '；'.join(saved[:30]) + '\n')
+        if cur.get('_errors'):
+            f.write(f'- 本轮 API 失败 {len(cur["_errors"])}（已沿用上一快照对应数据）：' + '；'.join(e['path'][:80] for e in cur['_errors'][:10]) + '\n')
     write_status(cfg, cur, changes)
     print(f'{TS} changes={len(changes)} saved_files={len(saved)}')
     for c in changes:
