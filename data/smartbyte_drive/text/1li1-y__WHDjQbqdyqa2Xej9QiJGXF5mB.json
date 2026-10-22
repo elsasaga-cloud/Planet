@@ -1,0 +1,22 @@
+{
+"id":"1li1-y__WHDjQbqdyqa2Xej9QiJGXF5mB",
+"name":"WDM Connection.jpg",
+"path":"SmartByte/Bypass/WDM Connection.jpg",
+"type":"图片",
+"bytes":2231626,
+"sha256":"c28626f1579fb338142b869862772aa72fdfea57bb6d457ee7cb5a6162fd9a82",
+"extracted_at":"2026-10-22T02:08:04Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":1745,
+"height":842,
+"mode":"CMYK",
+"thumb_bytes":11147
+},
+"ocr":{
+"text":"S\nS\nrn\noO\nes\n©\nA.\n品\n下\n9\n<",
+"conf":48.3
+},
+"text":"S\nS\nrn\noO\nes\n©\nA.\n品\n下\n9\n<"
+}

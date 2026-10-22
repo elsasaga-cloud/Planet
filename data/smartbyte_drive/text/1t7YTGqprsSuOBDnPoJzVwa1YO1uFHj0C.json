@@ -1,0 +1,22 @@
+{
+"id":"1t7YTGqprsSuOBDnPoJzVwa1YO1uFHj0C",
+"name":"2B drawing.png",
+"path":"SmartByte/Bypass/2B drawing.png",
+"type":"图片",
+"bytes":119744,
+"sha256":"4f4e6b925a3e38cbd3c04fecf7875540bc9a98c5aaca526053b5ec0615f7da76",
+"extracted_at":"2026-10-22T02:08:03Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":1717,
+"height":772,
+"mode":"RGBA",
+"thumb_bytes":10169
+},
+"ocr":{
+"text":"48.3mm\n工\n3\n3\n115mm\n125mm\n158mm\n176mm\nSimm\n58.7mm\n48.3mm",
+"conf":86.6
+},
+"text":"48.3mm\n工\n3\n3\n115mm\n125mm\n158mm\n176mm\nSimm\n58.7mm\n48.3mm"
+}

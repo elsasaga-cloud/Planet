@@ -1,0 +1,22 @@
+{
+"id":"1jzlGmIACnsTtf70qcuSK6wQmMBdMbeNu",
+"name":"Duplex Connection.jpg",
+"path":"SmartByte/Bypass/Duplex Connection.jpg",
+"type":"图片",
+"bytes":1700135,
+"sha256":"224ff1f1ee647e4f8b07874d3fdf4896b99ead9d1ad6437138fcfb1b220842a9",
+"extracted_at":"2026-10-22T02:08:04Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":1563,
+"height":627,
+"mode":"CMYK",
+"thumb_bytes":11210
+},
+"ocr":{
+"text":"Power on\nA-C-D-B\nPower off\nA-B",
+"conf":94.5
+},
+"text":"Power on\nA-C-D-B\nPower off\nA-B"
+}

@@ -1,0 +1,22 @@
+{
+"id":"11qjptFFpjv1s1cdeUtU8nPJ5cO88MD2p",
+"name":"1B drawing.png",
+"path":"SmartByte/Bypass/1B drawing.png",
+"type":"图片",
+"bytes":115259,
+"sha256":"556f7250b239c4f47df6cd359da37c7adf323b8265a16dd38154a35dd468c3dc",
+"extracted_at":"2026-10-22T02:08:00Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":1717,
+"height":772,
+"mode":"RGBA",
+"thumb_bytes":10036
+},
+"ocr":{
+"text":"54mm\n115mm\n125mm",
+"conf":92.8
+},
+"text":"54mm\n115mm\n125mm"
+}

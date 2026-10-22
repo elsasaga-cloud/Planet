@@ -1,0 +1,26 @@
+{
+"id":"1jhfySr2OewFgAD_0AzVZbT0eAmsmIytX",
+"name":"WDM Connection.cdr",
+"path":"SmartByte/Bypass/WDM Connection.cdr",
+"type":"CorelDRAW 设计稿",
+"ext":".cdr",
+"bytes":3709322,
+"sha256":"a6ac4872080f21556e78fdd57a8a3ccefcd289de8c476efca692671b8d8e5565",
+"extracted_at":"2026-10-22T02:08:05Z",
+"method":"soffice→pdf→pdfplumber+OCR(0p)",
+"status":"ok",
+"chars":58,
+"meta":{
+"pages":1,
+"creator":"Draw",
+"producer":"LibreOffice 24.2",
+"creationdate":"D:20261022020803Z'",
+"ocr_pages":0,
+"thumb_bytes":3612
+},
+"warnings":[],
+"text":"[p1]\nOptical Path\nPower on\nA-C-D-B\nBIDI\nPower off\nA-B\nBIDI",
+"pages":[
+"Optical Path\nPower on\nA-C-D-B\nBIDI\nPower off\nA-B\nBIDI"
+]
+}

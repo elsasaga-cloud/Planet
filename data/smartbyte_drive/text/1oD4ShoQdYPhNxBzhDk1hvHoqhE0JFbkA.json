@@ -1,0 +1,22 @@
+{
+"id":"1oD4ShoQdYPhNxBzhDk1hvHoqhE0JFbkA",
+"name":"1B.jpg",
+"path":"SmartByte/Bypass/1B.jpg",
+"type":"图片",
+"bytes":275067,
+"sha256":"fc6aa288b520c0add752c739806415659f49101ca3c7b545e93a09ce5eda0fdd",
+"extracted_at":"2026-10-22T02:08:00Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":628,
+"height":1280,
+"mode":"RGB",
+"thumb_bytes":9691
+},
+"ocr":{
+"text":"Power off }-- @)--\nPower on |. 6)",
+"conf":73.6
+},
+"text":"Power off }-- @)--\nPower on |. 6)"
+}

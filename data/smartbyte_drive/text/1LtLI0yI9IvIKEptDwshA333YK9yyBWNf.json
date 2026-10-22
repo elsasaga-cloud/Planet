@@ -1,0 +1,26 @@
+{
+"id":"1LtLI0yI9IvIKEptDwshA333YK9yyBWNf",
+"name":"Data DI DO.cdr",
+"path":"SmartByte/Bypass/Data DI DO.cdr",
+"type":"CorelDRAW 设计稿",
+"ext":".cdr",
+"bytes":857940,
+"sha256":"54bb6e774ff95bc1ec02aa346d2fe18d1530f549c52527984cd1ce95c35a2e41",
+"extracted_at":"2026-10-22T02:08:04Z",
+"method":"soffice→pdf→pdfplumber+OCR(0p)",
+"status":"ok",
+"chars":44,
+"meta":{
+"pages":1,
+"creator":"Draw",
+"producer":"LibreOffice 24.2",
+"creationdate":"D:20261022020801Z'",
+"ocr_pages":0,
+"thumb_bytes":3861
+},
+"warnings":[],
+"text":"[p1]\nAlarm\nSmart Lighting Temperature Sensor",
+"pages":[
+"Alarm\nSmart Lighting Temperature Sensor"
+]
+}

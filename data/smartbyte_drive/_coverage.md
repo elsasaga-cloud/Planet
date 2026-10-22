@@ -1,6 +1,6 @@
 # Drive《SmartByte》全量入库 · 覆盖率报告
 
-- 生成时间：2026-10-22T02:07:57Z；索引：2385 个文件（5.73 GB），manifest：1688 条
+- 生成时间：2026-10-22T02:08:07Z；索引：2385 个文件（5.73 GB），manifest：1698 条
 - 状态含义：**ok** = 抽到正文（Word 段落+表格 / Excel 逐行 / PDF 逐页(或 OCR) / PPT 逐页 / 图片 OCR 有字）；**meta** = 只有元数据+缩略图（无文字的图片/视频/设计源文件，或空文档）；**dup** = 与另一文件 sha256 完全相同，指向 same_as；**fail** = 下载或解析失败（见下表）；**pending** = 本次未处理
 - 原件备份：GitHub Release `drive-smartbyte-20261022`（私有仓库，按顶层文件夹分卷 zip）
 
@@ -8,14 +8,14 @@
 
 | 类型 | ok | meta | dup | fail | pending | 合计 |
 |---|---|---|---|---|---|---|
-| 图片 | 83 | 260 | 898 | 0 | 484 | 1725 |
-| Word | 414 | 1 | 3 | 0 | 114 | 532 |
+| 图片 | 89 | 260 | 898 | 0 | 478 | 1725 |
+| Word | 415 | 1 | 3 | 0 | 113 | 532 |
 | PDF | 11 | 0 | 0 | 0 | 67 | 78 |
-| Excel | 13 | 0 | 1 | 1 | 12 | 27 |
+| Excel | 14 | 0 | 1 | 1 | 11 | 27 |
 | 视频 | 0 | 2 | 0 | 0 | 7 | 9 |
 | Publisher 排版源文件 | 0 | 0 | 0 | 0 | 4 | 4 |
 | PPT | 0 | 0 | 0 | 0 | 3 | 3 |
-| CorelDRAW 设计稿 | 0 | 0 | 0 | 0 | 2 | 2 |
+| CorelDRAW 设计稿 | 2 | 0 | 0 | 0 | 0 | 2 |
 | DXF 工程图 | 0 | 0 | 0 | 0 | 2 | 2 |
 | XMind 思维导图 | 1 | 0 | 0 | 0 | 0 | 1 |
 | 压缩包 | 0 | 0 | 0 | 0 | 1 | 1 |
@@ -31,7 +31,7 @@
 | 商业管理 | 30 | 27 | 59 | 0 | 0 | 116 | ✅ smartbyte_drive_commercial_managed_part01.zip |
 | MC | 30 | 41 | 0 | 1 | 0 | 72 | ✅ smartbyte_drive_media_converter_part01.zip |
 | Managed Industrial Ethernet Switch_最新资料 | 152 | 0 | 0 | 0 | 0 | 152 | ✅ smartbyte_drive_managed_industrial_latest_part01.zip |
-| Bypass | 0 | 0 | 0 | 0 | 10 | 10 | — |
+| Bypass | 10 | 0 | 0 | 0 | 0 | 10 | ✅ smartbyte_drive_bypass_part01.zip |
 | User Manual | 0 | 0 | 0 | 0 | 8 | 8 | — |
 | Certification | 0 | 0 | 0 | 0 | 23 | 23 | — |
 | PCB Information | 0 | 0 | 0 | 0 | 22 | 22 | — |
@@ -56,5 +56,5 @@
 
 ## 体量
 
-- 抽取正文合计 8,331,703 字符；图片 OCR 有字 83 张；缩略图 345 张
+- 抽取正文合计 8,379,824 字符；图片 OCR 有字 89 张；缩略图 353 张
 - 运行记录：[{"started": "2026-10-22T01:55:11Z", "todo": 2385, "workers": 6, "backup": true, "ocr": true}]

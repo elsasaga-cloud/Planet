@@ -1,0 +1,3463 @@
+{
+"id":"1onMbYDFPqK-LLCHhY0lqoHnH4_qE7E8s",
+"name":"STI-488XGGPM2B-2BT.docx",
+"path":"SmartByte/Bypass/STI-488XGGPM2B-2BT.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":7847150,
+"sha256":"85b4d4528d7db126484c80c607ef00c5bd5b63e2b853fcd7c9bc57117810d371",
+"extracted_at":"2026-10-22T02:08:01Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":44942,
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2023-07-22T16:14:00+00:00",
+"modified":"2025-12-08T13:29:16+00:00",
+"paragraphs":533,
+"tables":8,
+"embedded_images":45
+},
+"warnings":[],
+"text":"ContentModel Name2Key Features2Specification3Packing Information5Web UI8L3 Function9L2 Function9Application12Mechanical Drawing12Data & Alarm13Optical Bypass15Miscellaneous Fee16FAQ17Bullet Points 20Client Oriented23TTC26Commercial Contract27Order Procedure28After-sales Support29Warranty Policy30About Us31Easy and Transparent Business32How We Do Business33Please click the bookmarks for easier readingPlease pay attention to “remark” and “red text”Please use “Ctrl+F” to search what you need. For example, try “OEM” or “Warranty”Please know that this datasheet contains ALMOST ALL information that a client might need in a standard orderIf you are reading multiple datasheets, please just ignore the parts from “Downlink Link” to “How We Do Business”, it is ALMOST the same in EACH datasheetIf you are adapting this datasheet to your own version, please first delete the useless bookmarks and then modify,this is more efficientAn easy method is to delete information from “Downlink Link” to “How We Do Business”, then a little more slight modification will be good(change the model names, delete header and footer etc.)\nModel Name\nSTI-488XGGPM2B-2BT\nST: Saga Telecom\nI: Industrial grade\n4: 4 optical ports\n8: 8 copper ports\n8: 8 PoE ports\nXG: 10 Gigabit based for optical ports\nG: Gigabit based for copper ports\nP: Support PoE\nM: Managed\n2B: Support 2 Optical Bypass Sets\n2BT: Support 2 PoE BT Output\nIt is advised to read specific product descriptions for more information\nKey Features\n8*10/100/1000Base-T RJ45 PoE, 4*1G/2.5G/10GBase-X SFP+ slots, 2*Single LC Bypass or 1*dual LC Bypass\nFiber Bypass LC type, recovery time 10ms(max), maintain network continuity if power losses\nRedundant power 44-57V input with polarity reverse/over-current protection\nComply with IEEE802.3af PoE, IEEE802.3at PoE+ and IEEE802.3bt PoE++ standard\nDI/DO/RS485 and USB one key configuration & upgrading are optional\nLayer 3 features: Support IPv4/IPv6 static routing, DHCP server\nLayer 2 features: VLAN/VLAN Classification/QinQ/STP, RSTP, MSTP\nPort Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM\nIPV6 management/PoE management/Web/SNMP/Telnet/TFTP/Web upgrading\nSupport G.8032 ERPS protocol, recovery time≤20ms\nSupport 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\nIP40 fan-less and Din-rail hardware design\nOperation temperature: -40℃~+75℃\nWith above features, it is an ideal solution for IP Surveillance, wind, electricity, assembly automation, subway PIS, power SCADA, sewage treatment, metallurgy, intelligent transportation, rail transportation, military and other industries\nSpecification\nProduct Name\t12 Port Hybrid Rate Layer 2+ Managed Industrial Ethernet PoE++ Switch\nPort\t8*10/100/1000Base-T RJ45 PoE / 4*1G/2.5G/10G Base-X SFP+ / 1*RJ45 Console port(115200,8,N,1) / 1*USB2.0 for configuration and firmware update(Optional)\nData & Alarm Port / (Optional)\tRemovable 8-pin Terminal Block / Vout: VO+, VO- / 5V output(0.2A MAX) / 1 Port RS485: A, B / Work with temperature-humidity sensor to collect environmental data and trigger alarms / 1 Port Digital Input: DI+, DI- / Status “1”: 12V-30V / Status ”0”: -30V~3V / Max input current: 8 mA / 1 Port Digital Output / Normally open, Normally closed, Pulse / 2A@30V DC, 0.3A@125V AC\nOptical Bypass / (Optional)\t2 channels single LC or 1 channel dual LC / Optical Switching Time≤10ms, power failure<--->power normal / Insertion Loss: 1.2dB(max)\nNetwork Medium\t10BASE-T: Cat3, 4, 5 or above UTP(≤100 meters) / 100BASE-TX: Cat5 or above UTP(≤100 meters) / 1000BASE-TX: Cat5 or above UTP(≤100 meters)\nNetwork Protocol\tIEEE 802.3 10Base-T Ethernet / IEEE 802.3u 100Base-TX Ethernet / IEEE 802.3ab 1000Base-T Ethernet / IEEE 802.3z 1000Base-X Ethernet / IEEE802.3x Flow Control and Back Pressure / IEEE 802.1D Spanning Tree Protocol / IEEE 802.1w Rapid Spanning Tree Protocol / IEEE 802.1Q VLAN / ITU-T G.8032 ERPS / IEEE 802.1X Port Authentication Network Control / IEEE 802.1ab LLDP / IEEE 802.3ad LACP / IEEE802.3af PoE / IEEE802.3at PoE+ / IEEE 802.3bt PoE++\nFiber Option\tSFP Plug-able Module(LC), 1G , 2.5G or 10G based / Default speed is 10G, 1G or 2.5G speed needs to be manually configured in the Web UI / It is NOT supporting auto-detecting, manual configuration is required / It is NOT supporting 100M optical module nor configurable / SM: 1310nm/1550nm, 20Km; 1490nm/1550nm, 40~100Km / MM: 1310nm, 2Km; 850nm, 500-meter\nSwitching Capacity\t96Gbps\nThroughput\t142.8Mpps\nPacket Buffer\t12M\nMAC Address\t16K\nVLAN\t4K\nJumbo Frame\t10Kbytes\nCPU\tMarvell AC5 Series 1.2GHz\nRAM\t512MB\nFlash\t512MB\nTransfer Mode\tStore and forward, forwarding delay<5us\nMDX/MIDX\tSupport\nWatchdog\tSupport\nMTBF\t200,000 hours\nPoE Protocol\tIEEE802.3af(15.4W), IEEE802.3at(30W) / Remark: auto-sensing PD standard and supply compatible power\nPoE Distance\tmeter / Remark: A PoE extender is required for longer PoE transmission\nPoE Wiring\tMode A/End-span / 1/2(+), 3/6(-)\nPoE Budget\t240W / Max PoE output(1~2 port): 90W/port / Max PoE output(3~8 port): 30W/port\nInput Voltage\tDC44-57V(PoE af), DC52-57V(PoE at/bt) / Redundant Input, Removable 4-pin terminal block\nPoE Output\tDC48V, Active PoE / Remark: DC24V passive PoE is NOT supported / A PoE splitter is required if the powered device receives DC24V voltage\nInput Current\t5.8A Max\nTotal Power Consumption\tFull loading without PoE≤15W / T\nReverse Polarity Protection\tSupport\nOver-current Protection\tSupport\nIndustry Standard\tEMI: FCC Part 15B Class A\nSurge protection of power: IEC 61000-4-5  6KV/4KV(8/20us)\nSurge protection of Ethernet ports: IEC 61000-4-5  6KV/2KV(10/700us) / RS: IEC 61000-4-3 80 MHz-1 GHz: 10 V/m / EFT: IEC 61000-4-4  power interface: 4K；Ethernet ports: 2K\nCS: IEC 61000-4-6 10V / ESD: IEC 61000-4-2  Level 4(8K/15K)\nShock: IEC 60068-2-27 / Free fall: IEC 60068-2-32 / Vibration: IEC 60068-2-6\nProtection Level\tIP40(Currently IP66/IP67/IP68 rated models are NOT available)\nInstallation\tDin Rail or Wall Mounted(1pc mounting hanger is offered)\nCertification\tCE/FCC/RoHS/Reach/UKCA\nWorking Environment\tWorking Temperature: -40℃~75℃ / Storage Temperature: -40℃~85℃ / Relative Humidity: 5%~95%, non-condensing\nLED Indicator\tPWR(Power indicator), Green Color / On: power status is normal\nOff: power off or power connection failure / S(System indicator), Red Color / On: Normal operation / Off: Connection failure / Blinking: Device initialization / USB(USB status indicator), Green Color(Optional) / On: USB flash drive is detected by device / Blinking: the device is reading and writing the data from USB flash drive / Off: USB flash drive is not inserted or not detected by device / ALM(Fault status indicator), Red Color(Optional) / On: Fault alarm / Off: Device on normal working state / Ethernet Port / Green Indicator / On: port link up / Off: port link down / Blinking: data is in normal transmission / Yellow Indicator / PoE ports / On: PoE working / Off: PoE not working / Fiber Port, Green Color / On: port link up / Off: port link down / Blinking: data is in normal transmission\nPacking Information\n1pc switch(neutral device)\n1pc wall hanger(shared holes with DIN Rail Kit)\n1pc user manual(including QIG information)\n1pc console cable(USB2.0 to RJ45 connector)\nPlease know that there is NOT a warranty card in the packing box\nA “Certificate of Warranty” will be issued to indicate the order information and warranty coverage\nShipping box information(Below information is approximately accurate)\nProduct size: 158*115*54mm\nInner box size: 230*180*70mm\nProduct weight: 1.2Kg\nPacking weight: 1.4Kg\nMaster box size: 440*375*250mm\nPacking quantity: 12Pcs\nPacking weight: 18Kg\nRemark\nAccessories(DIN rail bracket, optical module, power supply, network cable, patchcord etc.)are NOT included in the packing box\nPlease prepare it by yourself or purchase a whole set from us\nInner Packing Box / Totally Neutral / Without ANY logo or description or pattern\tMaster Packing Box / Without Logo / With some descriptions and patterns from the outside\nProduct Label\tCertificate of Warranty\nShipping Label\t\nPlease know that this is for your reference only(roughly like this, but subject to final format)\nNeutral(write “User Manual”) or Customized(write “Client Information”)\nWeb UI\nAbove changes are free of cost(even for 1 piece only)\nDefault IP: 192.168.56.166\nUser Name/Password: admin/admin\nPlease contact us if you need to check\nWeb Manual\nCLI Manual\nFull Software Function List\nUnavailable features\nBelow features are not available for now, and we are NOT going to develop it in 2 or 3 years\nNAT\nStacking\nSD-WAN\nTSN\nMPLS\nCloud Management\nL3 Function\nStatic Route\tSupport VLAN interface and route port / IPv4 static routing table entry configuration / ARP dynamic learning and static configuration / IPv6 static routing table entry configuration / Neighbor discovery and static configuration / Routing prefix table size 4k for IPv4, for IPv6 divide by 4\nDHCPv4 Client\tDynamic host configuration protocol for IPv4\nDHCPv6 Client\tDynamic host configuration protocol for IPv6\nDHCPv4 Relay\tDHCP Relay for IPv4\nDHCPv4 Server\tDHCP Server for IPv4\nL2 Function\nPort Aggregation\tSupport GE port aggregation / Support 2.5GE aggregation / Support 10GE aggregation / Support static aggregation / Support LACP dynamic aggregation / Up to 64 aggregation groups and up to 8 ports per group\nPort Features\tSupport IEEE802.3x flow control / Support interface counters / Support port isolation / Port mirroring(One-to-One, Many-to-One) / Support loop detection(Port-based; VLAN-based) / Support broadcast storm suppression(broadcast; unknown multicast; unknown unicast)\nMac-address Table Management\tSupport static Mac-address management / Support dynamic Mac-address Management / Support filtering Mac-address / Support MAC limit based on port and VLAN / Support MAC flapping based on port and VLAN / 16K Mac-address table size\nVLAN\tIEEE802.1Q tagged VLAN / Mac based VLAN / IP based VLAN / Protocol based VLAN / Voice VLAN, specially divide VLAN for user voice data flow / Private VLAN, divide a VLAN broadcast domain into multiple subdomains to form a double-layer VLAN structure / VLAN range: 1-4094 / Support access mode/trunk mode/hybrid mode\nGVRP\tNormal mode / Fixed mode / Forbidden mode\nQinQ\tPort-based QinQ / VLAN-based QinQ / VLAN mapping / Flow-based QinQ\nLLDP\tLink Layer Discovery Protocol / Med\nSPAN\tNumber of Sessions: 7 / Many-to-one\nRSPAN\tRemote Switch Port Analyzer\nMSTP\t802.1D STP / 802.1W RSTP / 802.1S MSTP / BPDU Guard / Number of Single Ring Device Connections: 20\nERPS G.8032\tMajor ring / Sub ring / Recovery time ≤20ms(based on Marvell switching chipset under ring topology with Rapid Ring Protocol enabled) / Number of Single Ring Device Connections: No limit / Typical ring topologies: single ring, dual ring, tangent ring, intersecting ring, nested ring(ring-in-ring), chain-type and hybrid structures\nQoS\tQoS Class, Remarking / Support SP, WRR Queue Scheduling / Ingress Port-based Rate-limit / Egress Port-based Rate-limit / Egress port-queue shaper / Policy-based QoS / Port Queue Numbers: 8\nDHCPv4 Snooping\tDHCP snooping trust port / DHCP snooping option-82 / DHCP snooping circuit-id and remote-id customized\nL2 Multicast\nIGMP\tIGMP v1, v2, v3\nIGMP Snooping\tInternet Group Management Protocol Snooping / Fast Leave / Multicast Table Size: 1K\nPIM-SM\tProtocol Independent Multicast-Sparse Mode\nSecurity Function\nACL\tIP Standard ACL / IP Extended ACL / MAC extend ACL / IPv6 ACL / Time Range / ACL apply on VLAN / ACL Entrys, include input and output\n802.1x\tPort access control / Mac-address access control / RADIUS server\nPort-security\tPort-security\nIP Source Guard\tIP Source Guard, Port-based IP/Mac Binding Access\nARP-check\tSupport ARP-check and ARP packet filtering for illegal users\nDAI\tDynamic ARP Inspection\nAnti-gateway ARP Spoofing\tPrevent Gateway ARP Spoofing\nDdos\tDdos attack protection\nAccess control\tSupport Telnet/SSH/HTTP/HTTPS user access control\nAAA\tRADIUS authentication access switch / TACACS authentication access switch / Authorization\nReliability\nLoop Detect\tLoop detect, based on port or VLAN\nEFM\tThe Ethernet in the first mile, 802.3ah\nManagement & Maintenance Function\nDual Stack\tIPv4 and IPv6 Dual Stack Management\nSystem Log Management\tSyslog Level 7 to 0 / Corresponding Debug/Info/Notice/Warning/ Err/ Critical/ Alert / Support connecting up to 3 Servers / For IPv4 and IPv6\nUser Management\tSupport password protection, support MD5/SHA256/SHA512 algorithm / Local Management of User Privilege / Remote authorization by RADIUS or TARCAS / Enable privilege protection / User password complexity requirements / User login fail protection / User Privilege Level 0 to 15\nLogin Service Management\tUp to 8 users online simultaneously / Access control based on IPv4 or IPv6 ACL\nFirmware Management\tFirmware upgraded by WEB / Firmware upgraded by CLI / Dual partition\nWeb Management\tWeb Management / Support HTTP V1.1 / Support HTTPS / For IPv4 and IPv6\nCLI Management\tConsole/Telnet command line management\nFault Detection\tPing/Traceroute, For IPv4 and IPv6 / Dying gasp (Input voltage should be more than 18V) / Optical transceiver DDM / One click fault information collection / Cable detection\nDNS\tDomain Name System\nNTP\tNetwork Time Protocol, For IPv4 and IPv6\nConfiguration Import/Export\tSupport domain name configuration / FTP/TFTP based remote configuration import and export / USB flash drives based local configuration import and export\nsFlow\tSampled flow\nSNMP\tVersion SNMPV2C/V3\nMQTT\tMessage Queuing Telemetry Transport\nRMON\tSupport RMON (Remote Monitoring) alarm\nPoE Management\tSupport 802.3af/802.3at/802.3bt / Support PD watchdog / Support PoE priority management / Support Max PoE power configuration for each port / Support alarm threshold configuration / Support reserved power configuration / Support PoE schedule / Support PoE legacy mode\nDual partition management\tSupport dual partition switching\nApplication Protocol Function\nTelnet Server\tSupport telnet server for IPv4 and IPv6\nTelnet Client\tSupport telnet client for IPv4 and IPv6\nSCP(Secure Copy Protocol)\tSCP client/server for IPv4 and IPv6\nsFTP\tsFTP client/server for IPv4 and IPv6\nSSH Server\tSupport login based on user password-SSH2, support IPv4, IPv6 / Support public key-based login\nTACACS\tSupport TACACS (the terminal access controller accesses the control system)\nTFTP\tSupport TFTP Client\nApplication\nAny network utilizing a mixture of copper and fiber\nIP connectivity and communication\nCCTV system such as network camera, access control\nMechanical Drawing\nWithout Serial&Bypass Port\nWith Serial Port\nWith Bypass Port\nRemark\nPlease contact us if the source file is needed\nData & Alarm\nExplanation\nRS485 Data is a common serial communication protocol widely used to connect sensors, controllers etc.\nThe DI/DO(digital input/output)alarm system is used to detect changes in equipment status and issue an alarm\nDigital input(DI)can receive signals from external devices, such as equipment failure, sensor abnormality, etc.\nDigital output(DO)is used to control external devices, such as turning on or off alarm lights, ringing bells, etc.\nWhen detecting an abnormal state, the DI/DO system will trigger an alarm to notify the operator to take timely action\nApplication\nIndustrial Automation\nIntelligent Manufacturing\nMonitoring System\nConnection\n[Sensors/Devices]--(RS485)--[Industrial Ethernet Switch]--(DI/DO)--[Alarm Device]\nSensors/Devices\nSensors or devices are connected to the industrial switch through the RS485 bus for data transmission\nFor example, temperature sensors, pressure sensors, etc.\nIndustrial Ethernet Switch\nThe industrial switch is responsible for managing connected devices and receives data from sensors via the \tRS485 interface\nIt has built-in DI/DO interfaces for connecting alarm devices\nWhen abnormal sensor data is detected, it triggers the alarm device through the DO interface\nAlarm Device\nAlarm devices, such as warning lights or buzzers, are connected to the industrial switch via the DI interface\nWhen an alarm signal is received, the device generates a visual or audible alert to notify the operator\nMagnetic Door Closed: Alarm Not Triggered\tMagnetic Door Opened: Alarm Triggered\nRJ45/Fiber Connection Fault\tPower Failure\nAlarm Output & Notification Methods\nOptical Bypass\nExplanation\nIt serves as a protection mechanism to ensure continuous optical communication when a connected network device(such as a router, firewall, or switch)fails or loses power\nIt operates by automatically rerouting optical signals, either bypassing the faulty device or maintaining the link in case of power failure\nIt is commonly used in fail-safe systems to minimize downtime and maintain seamless data transmission, especially in critical applications like industrial automation, data centers, and telecommunications networks\nApplication\nOptical Path Protection\nPower Control\nNetwork Failover Redundancy\nConnection\n1, WDM(BIDI)\n2, Duplex\nMiscellaneous Fee\nThis covers most of small charges in an order\nPVC mask\nStandard MoQ: 300Pcs\nUnit price varies from model to model\nFewer quantity(20pcs/50pcs/100pcs...), higher unit price\nExamples are:\nAn order less than 300Pcs, lets say 50Pcs\n50Pcs will be consumed and 250Pcs are left at the moment(Either ship them together with the purchased items or keep them in our warehouse for next orders)\nPlease know that it is free of cost if kept in our warehouse for a year\nAn order over 300Pcs, lets say 350Pcs\nThen we could produce an exact amount 350Pcs for this order\nThere will be none left\nRemark\nIt is neutral device(without logo)in a standard order\nCOO(Certificate of Origin)\n15usd/EACH copy\nClient needs to go through the content, it is non-modifiable once confirmed\nThis has to be exercised AT LEAST 2 working days before shipment\nPlease let us know how we handle the copy(attach it on the outside or put it inside the box)\nTransaction Cost\nAs stated in General Query, it is standard charge in EACH order\nFAQ\nLeadtime\nProduction starts AFTER payment is received\nPlease know that it usually takes 1~2 working days for our bank to receive the payment\nProduction time is usually 4~7 working days for standard(non-customized)models(no more than 50Pcs)\nShipping time is usually 4~7 days by express(DHL/FedEx/UPS)\nIn total, it takes 10~15 calendar days to arrive at local customs for clearance\nThis is an estimated period, it usually does not take this long to receive the order\nShipment\nWe will send the goods by express(DHL, FEDEX or UPS)or by sea(for bulk orders)\nIt is fine to ship purchased items via client’s shipping account(DHL, FEDEX or UPS)or forwarders in China\nMoQ\n1 Pc/Pair(It is NOT free, Saga Telecom do NOT do FREE SAMPLES)\nHowever, the sample cost can be deducted from future bulk orders\nSamples take 5 working days to ship, we especially extend the testing time to ensure quality(COMPANY POLICY)\nIt is fine to have sample testing before bulk orders\nPlease know that we do NOT suggest 1pc/pair in sample testing, better make it at least 2 pieces/pairs in case of any possible dysfunction in production/transportation/misoperation(then all efforts are gone, a big waste of time)\nWarranty\n1 year for commercial models(STC series)and 3 years for industrial models(STI series)\nPlease kindly refer to the “Warranty Policy” for more information\nTechnical assistance is always available\nDiscount\nAvailable and it is usually based on quantity and AFTER sample testing\nThe price negotiation makes sense ONLY IF a client is satisfied with the quality\nFor distributorship, that we are now seeking, best prices will be provided\nPayment\nT/T transfer and PayPal\nIt is fine to pay 50% first and another 50% before shipment in a bulk order(this is about standard/non-customized models)\nFULL PAYMENT for a customization order BEFORE HARDWARE PRODUCTION(non-negotiated), a certain R&D cost will be collected BEFORE SOFTWARE CUSTOMIZATION\nIt is fine to be paid via client’s forwarder(this is usually about RMB payment on Alipay, WeChat or Bank)\nTransaction Cost\nIt is standard charge 25usd for EACH T/T transfer whatever the invoice value is\nIt is 5usd for every 100usd to PayPal a/c, this ratio is standard charge by PayPal\nUser Manual\nPlease know that there is a user manual(with necessary information for usage and installation)in the packing box Actually most of the necessary information is available in this datasheet\nWe can help print a copy of your version and put it in the packing box\nPacking Box\nWithout Chinese letters or logo, totally neutral\nHard carton, resilient to wrinkle, good for reselling even after shipment(there is protective foam inside to avoid possible damage)\nCustomized version is available(with your logo/model/slogan or remove the patterns), but there is MoQ and cost for this, discussion is required\nLabel\nThere is product information/model name/serial number/MAC info on the label\nIt is fine to write client’s version\nStandard language is English\nIf a different language is adopted like Russian, Italian, Korean...\nPlease share EXACT translations, we will simply copy and print\nBarcodes are scannable for inbound statistics\nAn example photo will be shared for confirmation before mass printing for any orders\nThere are 2 copies for each manufactured product. One is attached on the device, the other is on the packing box\nCertification\nCE/RoHS/FCC/Reach/UKCA\nPlease let us know if you need to check the certificates\nRMA\nPlease contact us ASAP once there is a problem of ANY KIND\nPlease also read below “after-sales support” information to understand how to proceed\nFor every 100Pcs, there will be 2 extra free units shipped(2% RMA)against immediate coverage\nThese 100 units must be of the same model, and quantities in different orders can be accumulated\nThis rule stands for all Saga Telecom models and even there is not an after-sales issue\nIt is an option to deduct the cost(2% RMA)from total amount(no need of extra free units)\nIf it is about missing/faulty parts in the packing box\nPlease simply use the extra units for replacement and let us know this problem(we will improve)\nIf it is about usage problem\nSaga Telecom will provide technical support and send new units when necessary(in this occasion, we will be responsible for both product cost and shipping cost, but the local customs clearance cost, if any, is on clients)\nSKD/CKD\nAvailable\nSKD is simple, please just let us know how you would like to have it\nCKD usually involves confidential information such as BOM list, schematic design, PCB layout etc.\nIt is based on solid cooperation AND bulk orders, thorough discussion is required to do CKD mode\nOEM\nAvailable\nDiscussion is required for complex changes, meanwhile an NDA(Non-disclosure Agreement)contract will be agreed upon and signed\nRelevant cooperation information will not be leaked to a third party without client’s permission\nIt is mainly about 2 categories\nIndustrial manufacturing\nShow client’s logo/model/serial number/MAC info on the device/label\nUse client’s packing box\nDesign client’s product PVC sticker\nCustomize some parts of a model like rear panel/power input terminal block/panels...\nPlease know that there might be an extra cost for such OEM services\nManagement features\nShow client’s logo/model/serial number/MAC info on the Web interface\nChange IP address\nSNMP, OID\nAbove changes are free of cost and please know that\nFont format  &  UI color are also changeable for the Web UI, but this requires a decent MoQ and extra cost\nWe can also help develop exact features/specifications based on given chips or PCB board designs, this is more complex, thorough discussion is required\nFor certain temporarily unavailable features, please confirm with us if we are able or going to develop them\nIncoterms\nDAP term is our focus\nWe will deliver the materials to certain places(client forwarder’s warehouse or local customs), but clearance and tax issues will ALWAYS be handled by clients\nSometimes we do DDP term, this depends on cases, please talk with us for more information\nCustoms Clearance\nPlease make sure that you are licensed to import or have relevant experience to handle clearance issues\nWe will provide necessary help and documentation details(CI, PL, CO etc.)\nPlease let us know if you need to do DDP term\nBtw: ALL the local customs costs will be on client’s side(tax, incidental charges etc.)\nOnline Store\nCurrently we do not have an online store(Amazon, Shopify, Aliexpress etc.)\nWe will add a store link in this datasheet when available\nBranch/Distribution\nCurrently we do not have ANY overseas branches or distributors\nWe are actively seeking good agents/resellers to promote our brand and products\nNecessary technical and pricing support will be provided\nPlease let us know if you are interested\nMaterial Preparation\n25% deposit will be collected beforehand for material preparation if there is a strict requirement of production time\nThis is to protect ourselves from the awkward situation where we have prepared the materials while the clients do not successfully place the order due to different reasons\nThis deposit will be deducted from total amount if this order is placed\nThis deposit will be returned after we consumed half of the prepared materials in other orders if this order is not placed\nPre-shipment Inspection\nAvailable\nThis is usually about bulk orders\nWe will inform our clients when this order is almost ready and then talk about the third-party inspection\nEnvironmental Compliance\nOur products and packaging comply with international environmental standards\nWe are certified with RoHS, REACH, and CE, ensuring that all materials used are environmentally safe and free from hazardous substances\nPackaging materials are recyclable and free from unnecessary plastics\nHS Code\nIt is available in each PI/CI for your quick review\nLanguage Support\nEnglish is most preferable in negotiations\nUser manual or packing box can be customized in multiple languages, please share EXACT translations if needed\nBullet Points\nThis helps you understand the unique features of our models and why choose us\nHardware Design\nGood EMI/EMC Compatibility\nGood Heat Dissipation\nChipset\nProgrammable ASIC Framework(Flexible Customization and Compatibility)\nAdvanced Network Security Features(MACsec, ACLs, SFTP, DPI)\nHigh Integration Capability(SONiC, SNMP, NETCONF/YANG)\nApplication\nHigh Throughput and Low Latency(Ideal in Massive Data Traffic and High-speed Real-time Communications)\nEfficient Low-power Operation(Green Energy and Longer Service Life)\nFlexible Network Topology(Ring, Star, Tree Configurations)\nHigh Reliability and Fault Tolerance(Link Aggregation, Self-healing Network, High MTBF)\nThese features ensure stable performance in the following high-end projects while providing future scalability\nIndustrial IoT(IIoT)\nSmart Grid  &  Energy Management\nIndustrial Automation  &  Remote Control Systems\nSmart City Infrastructure\nSurveillance  &  Security Systems\nSMBs and Enterprise-Level Networks\nBuilt on Marvell—Trusted by Industry Leaders\nCisco: Marvell Prestera® 98DX series powers models like the Cisco CBS350 and SG350X series, widely deployed in SMB and campus networks\nAllied Telesis: use Marvell switching silicon in its IE200 series for industrial Ethernet deployment\nBelden/Hirschmann: adopt Marvell chips in RSP and RSPE modular switch series for factory automation\nDelta Electronics: apply Marvell-based designs in industrial PoE switches for building automation and green energy systems\nSchneider Electric: integrate Marvell Prestera® DX1500 chips in new-gen OT/IT network platforms\nThose brands choose Marvell not for cost, but for stability, longevity and performance under real-world loads\nMarvell switching SoCs provide a cost-efficient, scalable, and performance-driven solution widely adopted across industrial and edge networking scenarios\nFeature\tMarvell / 98DX225S / 98DX226S / 98DX336S\tRealtek / RTL83xx / RTL93x6 / RTL93xx\tBroadcom / BCM56150 / BCM56160 / BCM56340\nTarget Market\tSMBs / Enterprise Network / Industrial Ethernet\tSMBs / Small Enterprise Networks\tEnterprise Network / Industrial Ethernet\nPerformance\tHigh Throughput / Low Latency / Strong Network Security EMI/EMC Compatibility\tBasic Throughput / Low Latency / Basic Security Features\tHigh Throughput / Low Latency / Strong Network Security / EMI/EMC Compatibility\nNetwork Security\tAdvanced Encryption and Security Protocols\tBasic Security Features\tAdvanced Security Features / Encryption, Traffic Control\nEMI/EMC Compatibility\tOptimized / Suitable for Industrial Environments\tAverage / Suitable for Home and Small Office Environments\tOptimized / Suitable for Industrial Environments\nPower Consumption\tLow Power Design\tLow Power\tHigher Power Consumption / Suitable for High-load Environments\nProgrammability\tProgrammable ASIC Framework\tNo Programmability\tProgrammable, but Focused on Enterprise-level Applications\nCost\tMid to High\tLow Cost\tHigh Cost / Suitable for High-end Markets\nClient Oriented\nCase 1\nReadily Available\nDual AC Input\nCase 2\nNewest Firmware\nIn the meantime, we have been collecting the feedback from client sides about\nAny features to be added\nAny dysfunctions in sample testing\nAny technical support required\nand trying to solve real problems\nCase 1\nI didn't realize that the SFP didn't auto-detect 1 or 10gbps, so that confused me for a few minutes before I saw the setting I needed to choose manually.\nI like that the backup file is an editable text file, which would be great if you have to configure a lot of them at once.\nIt would be nice if the web UI remembered the xx items per page setting. It seems to default to 20/page, even though I keep changing it to 50/page so I can see all my ports at once :(\nNow it is in place, I can do some more testing.\nCase 2\nPractically, there are certain requirements beyond our capacity, but there are some things we can do or try to improve\nWe are backing our clients and following the market trend\nLet's evolve together!!\nTTC\nTTC = Technology Transfer & Cooperation\nIt focuses on building deep, practical partnerships through staged technical collaboration covering\nOEM=Original Equipment Manufacturing\nODM=Original Design Manufacturing\nSKD=Semi-Knocked Down\nCKD=Completely Knocked Down\nSDK= Software Development Kit Integration\nSource Code Cooperation=Controlled Source Code / Joint Development\nLocalized manufacturing and controlled HW & SW design are trendy now, we are happy to cooperate with our clients in this regard\nBelow is our strategy to support our clients & partners\nOEM\nReadily available\nThis is our most common and capable practice\nWe support customization of branding on products, web UI, packing box, user manuals, labels etc.\nODM\nNegotiable\nR&D must be done on our PCB board, and this comes with certain terms such as MoQ and cost\nWe will integrate our supplier resources and technical strength\nCase 1\nA client requested us to help co-design a PCB board(IoT) with decent quantity and continuous demand\nIt failed because we just focus on Ethernet switches, IoT boards are not our category\nCase 2\nA client requested us to modify the power input(PINs, size etc.) to accommodate his chassis system\nIt failed though the samples are from us, MoQ problem\nSKD\nReadily available\nAs a manufacturer, this is easy for us\nPlease just let us know how we do the packing of parts for your import and assembling\nCKD\nNegotiable\nThis usually involves confidential information such as BOM list, schematic design, PCB layout etc.\nIt is based on solid cooperation AND bulk orders, and this comes with certain terms such as MoQ and cost\nSDK\nNegotiable\nWe focus on Marvell managed networking solutions\nMarvell's SDK(usually SDKLite or Prestera SDK/SDK-X) is a controlled license\nPreferably, end customers can apply directly to Marvell for more information\nAn NDA(Non-Disclosure Agreement) is usually required\nPlease visit https://www.marvell.com/contact-us.html and submit necessary info(project proof, design intent etc.)\nSource Code Cooperation\nUnavailable and Non-negotiable\nIt is NEVER an option in out business\nCommercial Contract\nA framework will be built and agreed upon to boost efficiency and transparency in daily business negotiations and transactions\nSaga Telecom has internal standards and policies(reviewed and renewed ON QUARTARLY BASIS)regarding the below topics, which will serve as a baseline for all cooperation\nIt covers, NOT LIMITED TO\nTerms of Payment\nDelivery and Logistics\nProduct Quality and Specifications\nWarranty Coverage\nReturn Merchandise Authorization(RMA)Procedures\nExport Compliance and Related Clauses\nOther General Rights and Obligations\n...\nThese details are open for discussion based on specific orders or business scenarios\nOnce the COMMERCIAL framework is mutually confirmed, it will serve as the guiding principle for all transactions, unless otherwise renegotiated\nOrder Procedure\nNegotiation\nOrdering\nPayment\nShipment\nNegotiation\nDiscuss specification, quantity, customized requirements...\nMove on to “Ordering” stage if every detail is finalized\nNo agreement is achieved due to pricing, unavailable offer...\nWait for next business opportunity\nOrdering\nBuyer sending PO\nThis is not necessarily required\nSeller drafting PI\nRequired\nContact information, pricing, quantity, shipping time etc. should be specified in this invoice\nBuyer checking\nMake payment if PI is approved\nNotify seller to revise the points in question\nPayment\nPayPal/Bank transfer ONLY\nPayPal is usually for sample orders, 5Usd will be charged for EVERY 100Usd into our A/C\nBank transfer is usually about repeat and bulk orders, standard charge in EACH order: 25Usd\nBuyer sending payment receipt\nMaterial preparation starts\nSeller receiving payment\nProduction starts\nShipping\nDispatch ready\nPhotos and videos of ordered units are available\nBuyer confirmation(product label format, shipping marks...)is required to release out the order\nShipping method\nVia buyer’s designated forwarder, this is usually about buyer's shipping agent, we will directly send purchased items to agent’s for further processing\nVia Saga Telecom’s shipping agent, we will quote based on total weight to buyer. It is usually air service by DHL/FedEx/UPS, cost will be included in PI after buyer approves\nVia buyer’s shipping A/C(DHL/FedEx/UPS)\nShipping number\nSeller should send shipping information to buyer once available\nAfter-sales Support\nWarranty comes in effect from the date of delivery(trackable by the AWB number)\nA “certificate of warranty” will be issued to indicate the warranty coverage and relevant information\nIf you have no idea how to install/configure/use the purchased devices, please contact us\nA detailed introduction will be shared\nIf something is faulty in usage(especially managed models)\n1, please describe what happened, examples as below\nWhen this problem occurred\nWhat you did to adjust it like restart the device or change new accessories\nHow you use this device like outdoor use for connecting some IP cameras\nWith this information, Saga Telecom could quickly know what is going on and do trouble-shooting\n2, please do your best to provide as many actual photos/videos as possible\nWrong connection or improper use may occur, photos and videos are helpful and efficient\nIt is NOT suggested to discuss after-sales issues ONLY by text, we find it difficult to understand the situation and find out the root reasons\nAt the same time, we know that it might not be easy to get some photos/videos due to different reasons\nPlease try your best(at least draw a sketch or something), this is the most efficient method based on many after-sales cases\nIt works best if you can describe the situation in the videos, it is like\nYou can try to say, LEDs are OK, Port 4 is not working, Ping works...\nThis helps quickly know and identify the problems\n3, please prepare necessary accessories such as new optical modules/other brand switches...\nAn example is, in a linear network connection, if one optical module fails, the whole system might have a transmission problem\nThe solution would be as simple as replacing a new workable optical module\nWith in-hand accessories, sometimes it is easy to fix the problem\n4, please get ready for online meeting\nIf early testing and communication fail to identify the problems, an online meeting will be held to better discuss the after-sales issues(usually on Zoom or Microsoft Teams)\nSaga Telecom might remotely control your PC to do trouble-shooting with the help of Teamviewer/Anydesk\n5, if all attempts fail to solve the problems, we will send new units for replacement and provide discounts in future orders(make up for this inconvenience)\nSaga Telecom will ONLY take care of both product cost and shipping cost, ALL the local customs cost will be on the clients\nSaga Telecom do NOT accept returned materials, our RMA(2%) policy is ONLY about immediate coverage\nPlease do NOT wire or test the devices casually without our knowing, just follow our instructions and our engineers will do next moves based on the feedback\nWarranty Policy\nSaga Telecom warrants that the supplied models will be free of defects in materials, workmanship, and comply with standard functions indicated in the product datasheet\nWarranty period is 1 year for commercial models(STC series)and 3 years for industrial models(STI series), for the product category that is not listed in below still follows the rule\nProduct Category\tProduct Line\tWarranty\nCommercial Ethernet\tCommercial Network Switch\t1 Year\nCommercial Ethernet\tCommercial PoE Switch\t1 Year\nCommercial Ethernet\tCommercial Managed Switch\t1 Year\nCommercial Ethernet\tCommercial PoE Managed Switch\t1 Year\nPoE Accessory\tPoE Injector\t1 Year\nPoE Accessory\tPoE Adapter\t1 Year\nPoE Accessory\tPoE Splitter\t1 Year\nPoE Accessory\tPoE Extender\t1 Year\nEthernet Media Converter\t100M/1G/10G\t1 Year\nIndustrial Networking\tIndustrial Ethernet Switch\t3 Years\nIndustrial Networking\tIndustrial Fiber Switch\t3 Years\nIndustrial Networking\tIndustrial PoE Switch\t3 Years\nIndustrial Networking\tIndustrial Managed Switch\t3 Years\nIndustrial Networking\tIndustrial PoE Managed Switch\t3 Years\nDIN Power Adapter\t20W/75W/120W/240W/480W Series/MEAN WELL Series\t3 Years\nSTH Series\tHigh-speed Network Switches\t1 Year\nWarranty comes in effect from the date of delivery(trackable by the AWB number)\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery\nWarranty is non-transferable and will be solely provided to the original buyer as per the invoice information\nImmediate contact is strongly advised once any problem occurs, Saga Telecom should be well informed all along before standard solution is provided\nPlease properly keep purchase-related information(purchase order, proforma invoice, packing list etc.)for any possible repair, replacement or after-sales issues\nPlease do not remove or ruin the product label(used to track the material batch in our warehouse)on the device\nPlease do not repair or replace components of purchased items without our knowing or authorization\nUnauthorized returns are not accepted without a valid confirmation from Saga Telecom, any risk or expenses involved are not covered in such cases\nAt Saga Telecom’s option, the disputed device will be preferably repaired or replaced\nDefective products within warranty but unable to be repaired or discontinued, 10%~20% discount will be offered when the customer purchases the alternative models with identical service features\nIf there are expenses during the repair, Saga Telecom will negotiate with the customer on how to split the cost, and generally give discounts in new orders to cover this cost\nSaga Telecom reserves final adjudication rights and sole discretion during the warranty period\nExclusive Liability\nOut of warranty period\nOrder of wrong models\nHuge defects due to improper use including but not limited to circuit burnout, PCB board deformation, water-soaked chip\nHardware and software compatibility failure\nConsumable materials and routine maintenance such as a fuse or bracket\nUnauthorized modification to important components\nAbout Us\nSaga Telecom is a reliable manufacturer and trader of good-quality fiber optic devices and transmission solutions, and focuses on industrial networking, CCTV surveillance, fiber optic transmission and featured telecom devices for secure data transport, fiber-based communication, and security monitoring\nBacked by diversified product portfolio and mature business system, Saga Telecom gains good feedback overseas particularly in European countries\nIn the meantime, Saga Telecom is actively seeking trustworthy partners and enhancing its presence in the network telecommunications field\nCore Value\nConnecting, Converting, Creating\nSaga Telecom connects talents and ideas that may drive itself forward\nSaga Telecom converts mature business system to all-round growth\nSaga Telecom creates betterness from expertise and solution package\nFactory Information\nOur production base is in Huizhou city, Guangdong Province\nProduction Area: 7,000 square meters\nProduction Capacity(Per Month): Around 3K for popular DIN-Rail models\nhttps://drive.google.com/drive/folders/1B-DHQaO29xaEhEGfVhdTen9Leo35sRoc?usp=drive_link\nMarket Positioning\nOEM Factory\nTailored Managed Networking Solutions Provider\nSaga Telecom focuses on customizing services regarding hardware & software based on Marvell/CENTEC chips\nAccess Level: Marvell AellyCat5 Series(AC5)\nhttps://www.marvell.com/content/dam/marvell/en/public-collateral/switching/marvell-prestera-98DX25xx-product-brief.pdf\nhttps://www.marvell.com/content/dam/marvell/en/public-collateral/switching/marvell-prestera-98DX35xx-product-brief.pdf\nAggregation & Core Level: CENTEC\nhttps://www.centec.com/silicon?category=Ethernet-Switch-Silicon\nContinuous Supply\nWe guarantee continuous supply for more than 5 years\nAll upcoming R&D, hardware optimization, and software development will remain fully aligned along the way\nThis is supported by:\nOur business strategy: a built-to-last approach ensuring continuous supply and collaborative evolution\nLong-term availability of Marvell AC5 and CENTEC switching chipsets\nThis ensures uninterrupted delivery and consistent performance for our clients of all types(SIs, ISPs, Telcos, OEMs and more)\nPersonnel Strength\nHW Engineer: 5\nSW Engineer: 10\nTest Engineer: 5\nNumber of SMT Line: 2\nNumber of DIP Line: 5\nNumber of Test Line: 4\nNumber of Assembly Line: 10\nEasy and Transparent Business\nA google drive folder under your country and your name will be created\nThe original editors will be the email(s)from the invoice\nPlease use the original email(s)to adjust the access availability\nThis folder usually includes below information of each order\nDatasheet\nUser Manual\nCertificate of Warranty\nWarranty Policy\nWeb Manual, CLI Manual(for managed models only)\nProduct Photos\nShipping Document\nDetails of This Order\nRemark\nA printed copy of user manual is included in the packing box\nWhen a client needs something urgently, but the salesperson cannot reply timely\nWhen a client needs to submit something internally\nWhen a client needs to look into the product details\n...\nThis google drive link will be very helpful\nHow We Do Business\nSaga Telecom is being digital and paperless to be efficient and eco-friendly #gogreen\nIt will ONLY be electronic information unless it is specifically requested\nWe are convinced that this will be the future of our industry and a key element of a responsible approach to business\nSimplified, Standard, Solution based\nThis is applicable to our before-, in- and after-sales services\nAll is about a s truly helpful solution\nIf what you need is NOT available on our list, we will help source it(it will be an add-on price)if acceptable\nSaga Telecom proposes a buffet-style business communication\nAll the information is available without asking\nA google link containing full information of each category(see Download Link above)is created accessible to anyone\nAnyone could read or download it anytime and anywhere\nBusiness details are being continuously updated\nWe have been absorbing useful information and will update it in the link(an overall update on quarterly basis)\nLike product query, application...\nSo latest information will be available all the time\nValue and growth manifest itself\nWe understand that a client may have a lot of choices/suppliers\nIn any case, we will do our best to support our client base with good expertise, good service and good solution\nMeanwhile, we are welcoming feedback from you\nCompare our products with existing or other suppliers\nLet us know where we could improve\nIt starts from the promise of professionalism and goes far beyond\nIt is not only about fiber optic connection, but also about human connection\n[页眉页脚]\nMarvell Industrial Managed Series\t                                                                                                  Saga Telecom\n2026/Q1 \t\t\t\t\t                                                                  www.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"p",
+"s":"sdt",
+"text":"ContentModel Name2Key Features2Specification3Packing Information5Web UI8L3 Function9L2 Function9Application12Mechanical Drawing12Data & Alarm13Optical Bypass15Miscellaneous Fee16FAQ17Bullet Points 20Client Oriented23TTC26Commercial Contract27Order Procedure28After-sales Support29Warranty Policy30About Us31Easy and Transparent Business32How We Do Business33Please click the bookmarks for easier readingPlease pay attention to “remark” and “red text”Please use “Ctrl+F” to search what you need. For example, try “OEM” or “Warranty”Please know that this datasheet contains ALMOST ALL information that a client might need in a standard orderIf you are reading multiple datasheets, please just ignore the parts from “Downlink Link” to “How We Do Business”, it is ALMOST the same in EACH datasheetIf you are adapting this datasheet to your own version, please first delete the useless bookmarks and then modify,this is more efficientAn easy method is to delete information from “Downlink Link” to “How We Do Business”, then a little more slight modification will be good(change the model names, delete header and footer etc.)"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Model Name"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STI-488XGGPM2B-2BT"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"ST: Saga Telecom"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"I: Industrial grade"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4: 4 optical ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8: 8 copper ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8: 8 PoE ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"XG: 10 Gigabit based for optical ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"G: Gigabit based for copper ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"P: Support PoE"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"M: Managed"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2B: Support 2 Optical Bypass Sets"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2BT: Support 2 PoE BT Output"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is advised to read specific product descriptions for more information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Key Features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8*10/100/1000Base-T RJ45 PoE, 4*1G/2.5G/10GBase-X SFP+ slots, 2*Single LC Bypass or 1*dual LC Bypass"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Fiber Bypass LC type, recovery time 10ms(max), maintain network continuity if power losses"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Redundant power 44-57V input with polarity reverse/over-current protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Comply with IEEE802.3af PoE, IEEE802.3at PoE+ and IEEE802.3bt PoE++ standard"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DI/DO/RS485 and USB one key configuration & upgrading are optional"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Layer 3 features: Support IPv4/IPv6 static routing, DHCP server"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Layer 2 features: VLAN/VLAN Classification/QinQ/STP, RSTP, MSTP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IPV6 management/PoE management/Web/SNMP/Telnet/TFTP/Web upgrading"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support G.8032 ERPS protocol, recovery time≤20ms"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IP40 fan-less and Din-rail hardware design"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Operation temperature: -40℃~+75℃"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"With above features, it is an ideal solution for IP Surveillance, wind, electricity, assembly automation, subway PIS, power SCADA, sewage treatment, metallurgy, intelligent transportation, rail transportation, military and other industries"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"Product Name",
+"12 Port Hybrid Rate Layer 2+ Managed Industrial Ethernet PoE++ Switch"
+],
+[
+"Port",
+"8*10/100/1000Base-T RJ45 PoE / 4*1G/2.5G/10G Base-X SFP+ / 1*RJ45 Console port(115200,8,N,1) / 1*USB2.0 for configuration and firmware update(Optional)"
+],
+[
+"Data & Alarm Port / (Optional)",
+"Removable 8-pin Terminal Block / Vout: VO+, VO- / 5V output(0.2A MAX) / 1 Port RS485: A, B / Work with temperature-humidity sensor to collect environmental data and trigger alarms / 1 Port Digital Input: DI+, DI- / Status “1”: 12V-30V / Status ”0”: -30V~3V / Max input current: 8 mA / 1 Port Digital Output / Normally open, Normally closed, Pulse / 2A@30V DC, 0.3A@125V AC"
+],
+[
+"Optical Bypass / (Optional)",
+"2 channels single LC or 1 channel dual LC / Optical Switching Time≤10ms, power failure<--->power normal / Insertion Loss: 1.2dB(max)"
+],
+[
+"Network Medium",
+"10BASE-T: Cat3, 4, 5 or above UTP(≤100 meters) / 100BASE-TX: Cat5 or above UTP(≤100 meters) / 1000BASE-TX: Cat5 or above UTP(≤100 meters)"
+],
+[
+"Network Protocol",
+"IEEE 802.3 10Base-T Ethernet / IEEE 802.3u 100Base-TX Ethernet / IEEE 802.3ab 1000Base-T Ethernet / IEEE 802.3z 1000Base-X Ethernet / IEEE802.3x Flow Control and Back Pressure / IEEE 802.1D Spanning Tree Protocol / IEEE 802.1w Rapid Spanning Tree Protocol / IEEE 802.1Q VLAN / ITU-T G.8032 ERPS / IEEE 802.1X Port Authentication Network Control / IEEE 802.1ab LLDP / IEEE 802.3ad LACP / IEEE802.3af PoE / IEEE802.3at PoE+ / IEEE 802.3bt PoE++"
+],
+[
+"Fiber Option",
+"SFP Plug-able Module(LC), 1G , 2.5G or 10G based / Default speed is 10G, 1G or 2.5G speed needs to be manually configured in the Web UI / It is NOT supporting auto-detecting, manual configuration is required / It is NOT supporting 100M optical module nor configurable / SM: 1310nm/1550nm, 20Km; 1490nm/1550nm, 40~100Km / MM: 1310nm, 2Km; 850nm, 500-meter"
+],
+[
+"Switching Capacity",
+"96Gbps"
+],
+[
+"Throughput",
+"142.8Mpps"
+],
+[
+"Packet Buffer",
+"12M"
+],
+[
+"MAC Address",
+"16K"
+],
+[
+"VLAN",
+"4K"
+],
+[
+"Jumbo Frame",
+"10Kbytes"
+],
+[
+"CPU",
+"Marvell AC5 Series 1.2GHz"
+],
+[
+"RAM",
+"512MB"
+],
+[
+"Flash",
+"512MB"
+],
+[
+"Transfer Mode",
+"Store and forward, forwarding delay<5us"
+],
+[
+"MDX/MIDX",
+"Support"
+],
+[
+"Watchdog",
+"Support"
+],
+[
+"MTBF",
+"200,000 hours"
+],
+[
+"PoE Protocol",
+"IEEE802.3af(15.4W), IEEE802.3at(30W) / Remark: auto-sensing PD standard and supply compatible power"
+],
+[
+"PoE Distance",
+"meter / Remark: A PoE extender is required for longer PoE transmission"
+],
+[
+"PoE Wiring",
+"Mode A/End-span / 1/2(+), 3/6(-)"
+],
+[
+"PoE Budget",
+"240W / Max PoE output(1~2 port): 90W/port / Max PoE output(3~8 port): 30W/port"
+],
+[
+"Input Voltage",
+"DC44-57V(PoE af), DC52-57V(PoE at/bt) / Redundant Input, Removable 4-pin terminal block"
+],
+[
+"PoE Output",
+"DC48V, Active PoE / Remark: DC24V passive PoE is NOT supported / A PoE splitter is required if the powered device receives DC24V voltage"
+],
+[
+"Input Current",
+"5.8A Max"
+],
+[
+"Total Power Consumption",
+"Full loading without PoE≤15W / T"
+],
+[
+"Reverse Polarity Protection",
+"Support"
+],
+[
+"Over-current Protection",
+"Support"
+],
+[
+"Industry Standard",
+"EMI: FCC Part 15B Class A\nSurge protection of power: IEC 61000-4-5  6KV/4KV(8/20us)\nSurge protection of Ethernet ports: IEC 61000-4-5  6KV/2KV(10/700us) / RS: IEC 61000-4-3 80 MHz-1 GHz: 10 V/m / EFT: IEC 61000-4-4  power interface: 4K；Ethernet ports: 2K\nCS: IEC 61000-4-6 10V / ESD: IEC 61000-4-2  Level 4(8K/15K)\nShock: IEC 60068-2-27 / Free fall: IEC 60068-2-32 / Vibration: IEC 60068-2-6"
+],
+[
+"Protection Level",
+"IP40(Currently IP66/IP67/IP68 rated models are NOT available)"
+],
+[
+"Installation",
+"Din Rail or Wall Mounted(1pc mounting hanger is offered)"
+],
+[
+"Certification",
+"CE/FCC/RoHS/Reach/UKCA"
+],
+[
+"Working Environment",
+"Working Temperature: -40℃~75℃ / Storage Temperature: -40℃~85℃ / Relative Humidity: 5%~95%, non-condensing"
+],
+[
+"LED Indicator",
+"PWR(Power indicator), Green Color / On: power status is normal\nOff: power off or power connection failure / S(System indicator), Red Color / On: Normal operation / Off: Connection failure / Blinking: Device initialization / USB(USB status indicator), Green Color(Optional) / On: USB flash drive is detected by device / Blinking: the device is reading and writing the data from USB flash drive / Off: USB flash drive is not inserted or not detected by device / ALM(Fault status indicator), Red Color(Optional) / On: Fault alarm / Off: Device on normal working state / Ethernet Port / Green Indicator / On: port link up / Off: port link down / Blinking: data is in normal transmission / Yellow Indicator / PoE ports / On: PoE working / Off: PoE not working / Fiber Port, Green Color / On: port link up / Off: port link down / Blinking: data is in normal transmission"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Packing Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc switch(neutral device)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc wall hanger(shared holes with DIN Rail Kit)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc user manual(including QIG information)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc console cable(USB2.0 to RJ45 connector)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that there is NOT a warranty card in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A “Certificate of Warranty” will be issued to indicate the order information and warranty coverage"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipping box information(Below information is approximately accurate)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product size: 158*115*54mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Inner box size: 230*180*70mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product weight: 1.2Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 1.4Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Master box size: 440*375*250mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing quantity: 12Pcs"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 18Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Accessories(DIN rail bracket, optical module, power supply, network cable, patchcord etc.)are NOT included in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please prepare it by yourself or purchase a whole set from us"
+},
+{
+"t":"table",
+"rows":[
+[
+"Inner Packing Box / Totally Neutral / Without ANY logo or description or pattern",
+"Master Packing Box / Without Logo / With some descriptions and patterns from the outside"
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+"Product Label",
+"Certificate of Warranty"
+],
+[
+"Shipping Label",
+""
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that this is for your reference only(roughly like this, but subject to final format)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Neutral(write “User Manual”) or Customized(write “Client Information”)"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Web UI"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Above changes are free of cost(even for 1 piece only)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Default IP: 192.168.56.166"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"User Name/Password: admin/admin"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please contact us if you need to check"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Web Manual"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CLI Manual"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Full Software Function List"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Unavailable features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Below features are not available for now, and we are NOT going to develop it in 2 or 3 years"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"NAT"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Stacking"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SD-WAN"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"TSN"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MPLS"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Cloud Management"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"L3 Function"
+},
+{
+"t":"table",
+"rows":[
+[
+"Static Route",
+"Support VLAN interface and route port / IPv4 static routing table entry configuration / ARP dynamic learning and static configuration / IPv6 static routing table entry configuration / Neighbor discovery and static configuration / Routing prefix table size 4k for IPv4, for IPv6 divide by 4"
+],
+[
+"DHCPv4 Client",
+"Dynamic host configuration protocol for IPv4"
+],
+[
+"DHCPv6 Client",
+"Dynamic host configuration protocol for IPv6"
+],
+[
+"DHCPv4 Relay",
+"DHCP Relay for IPv4"
+],
+[
+"DHCPv4 Server",
+"DHCP Server for IPv4"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"L2 Function"
+},
+{
+"t":"table",
+"rows":[
+[
+"Port Aggregation",
+"Support GE port aggregation / Support 2.5GE aggregation / Support 10GE aggregation / Support static aggregation / Support LACP dynamic aggregation / Up to 64 aggregation groups and up to 8 ports per group"
+],
+[
+"Port Features",
+"Support IEEE802.3x flow control / Support interface counters / Support port isolation / Port mirroring(One-to-One, Many-to-One) / Support loop detection(Port-based; VLAN-based) / Support broadcast storm suppression(broadcast; unknown multicast; unknown unicast)"
+],
+[
+"Mac-address Table Management",
+"Support static Mac-address management / Support dynamic Mac-address Management / Support filtering Mac-address / Support MAC limit based on port and VLAN / Support MAC flapping based on port and VLAN / 16K Mac-address table size"
+],
+[
+"VLAN",
+"IEEE802.1Q tagged VLAN / Mac based VLAN / IP based VLAN / Protocol based VLAN / Voice VLAN, specially divide VLAN for user voice data flow / Private VLAN, divide a VLAN broadcast domain into multiple subdomains to form a double-layer VLAN structure / VLAN range: 1-4094 / Support access mode/trunk mode/hybrid mode"
+],
+[
+"GVRP",
+"Normal mode / Fixed mode / Forbidden mode"
+],
+[
+"QinQ",
+"Port-based QinQ / VLAN-based QinQ / VLAN mapping / Flow-based QinQ"
+],
+[
+"LLDP",
+"Link Layer Discovery Protocol / Med"
+],
+[
+"SPAN",
+"Number of Sessions: 7 / Many-to-one"
+],
+[
+"RSPAN",
+"Remote Switch Port Analyzer"
+],
+[
+"MSTP",
+"802.1D STP / 802.1W RSTP / 802.1S MSTP / BPDU Guard / Number of Single Ring Device Connections: 20"
+],
+[
+"ERPS G.8032",
+"Major ring / Sub ring / Recovery time ≤20ms(based on Marvell switching chipset under ring topology with Rapid Ring Protocol enabled) / Number of Single Ring Device Connections: No limit / Typical ring topologies: single ring, dual ring, tangent ring, intersecting ring, nested ring(ring-in-ring), chain-type and hybrid structures"
+],
+[
+"QoS",
+"QoS Class, Remarking / Support SP, WRR Queue Scheduling / Ingress Port-based Rate-limit / Egress Port-based Rate-limit / Egress port-queue shaper / Policy-based QoS / Port Queue Numbers: 8"
+],
+[
+"DHCPv4 Snooping",
+"DHCP snooping trust port / DHCP snooping option-82 / DHCP snooping circuit-id and remote-id customized"
+],
+[
+"L2 Multicast"
+],
+[
+"IGMP",
+"IGMP v1, v2, v3"
+],
+[
+"IGMP Snooping",
+"Internet Group Management Protocol Snooping / Fast Leave / Multicast Table Size: 1K"
+],
+[
+"PIM-SM",
+"Protocol Independent Multicast-Sparse Mode"
+],
+[
+"Security Function"
+],
+[
+"ACL",
+"IP Standard ACL / IP Extended ACL / MAC extend ACL / IPv6 ACL / Time Range / ACL apply on VLAN / ACL Entrys, include input and output"
+],
+[
+"802.1x",
+"Port access control / Mac-address access control / RADIUS server"
+],
+[
+"Port-security",
+"Port-security"
+],
+[
+"IP Source Guard",
+"IP Source Guard, Port-based IP/Mac Binding Access"
+],
+[
+"ARP-check",
+"Support ARP-check and ARP packet filtering for illegal users"
+],
+[
+"DAI",
+"Dynamic ARP Inspection"
+],
+[
+"Anti-gateway ARP Spoofing",
+"Prevent Gateway ARP Spoofing"
+],
+[
+"Ddos",
+"Ddos attack protection"
+],
+[
+"Access control",
+"Support Telnet/SSH/HTTP/HTTPS user access control"
+],
+[
+"AAA",
+"RADIUS authentication access switch / TACACS authentication access switch / Authorization"
+],
+[
+"Reliability"
+],
+[
+"Loop Detect",
+"Loop detect, based on port or VLAN"
+],
+[
+"EFM",
+"The Ethernet in the first mile, 802.3ah"
+],
+[
+"Management & Maintenance Function"
+],
+[
+"Dual Stack",
+"IPv4 and IPv6 Dual Stack Management"
+],
+[
+"System Log Management",
+"Syslog Level 7 to 0 / Corresponding Debug/Info/Notice/Warning/ Err/ Critical/ Alert / Support connecting up to 3 Servers / For IPv4 and IPv6"
+],
+[
+"User Management",
+"Support password protection, support MD5/SHA256/SHA512 algorithm / Local Management of User Privilege / Remote authorization by RADIUS or TARCAS / Enable privilege protection / User password complexity requirements / User login fail protection / User Privilege Level 0 to 15"
+],
+[
+"Login Service Management",
+"Up to 8 users online simultaneously / Access control based on IPv4 or IPv6 ACL"
+],
+[
+"Firmware Management",
+"Firmware upgraded by WEB / Firmware upgraded by CLI / Dual partition"
+],
+[
+"Web Management",
+"Web Management / Support HTTP V1.1 / Support HTTPS / For IPv4 and IPv6"
+],
+[
+"CLI Management",
+"Console/Telnet command line management"
+],
+[
+"Fault Detection",
+"Ping/Traceroute, For IPv4 and IPv6 / Dying gasp (Input voltage should be more than 18V) / Optical transceiver DDM / One click fault information collection / Cable detection"
+],
+[
+"DNS",
+"Domain Name System"
+],
+[
+"NTP",
+"Network Time Protocol, For IPv4 and IPv6"
+],
+[
+"Configuration Import/Export",
+"Support domain name configuration / FTP/TFTP based remote configuration import and export / USB flash drives based local configuration import and export"
+],
+[
+"sFlow",
+"Sampled flow"
+],
+[
+"SNMP",
+"Version SNMPV2C/V3"
+],
+[
+"MQTT",
+"Message Queuing Telemetry Transport"
+],
+[
+"RMON",
+"Support RMON (Remote Monitoring) alarm"
+],
+[
+"PoE Management",
+"Support 802.3af/802.3at/802.3bt / Support PD watchdog / Support PoE priority management / Support Max PoE power configuration for each port / Support alarm threshold configuration / Support reserved power configuration / Support PoE schedule / Support PoE legacy mode"
+],
+[
+"Dual partition management",
+"Support dual partition switching"
+],
+[
+"Application Protocol Function"
+],
+[
+"Telnet Server",
+"Support telnet server for IPv4 and IPv6"
+],
+[
+"Telnet Client",
+"Support telnet client for IPv4 and IPv6"
+],
+[
+"SCP(Secure Copy Protocol)",
+"SCP client/server for IPv4 and IPv6"
+],
+[
+"sFTP",
+"sFTP client/server for IPv4 and IPv6"
+],
+[
+"SSH Server",
+"Support login based on user password-SSH2, support IPv4, IPv6 / Support public key-based login"
+],
+[
+"TACACS",
+"Support TACACS (the terminal access controller accesses the control system)"
+],
+[
+"TFTP",
+"Support TFTP Client"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Application"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Any network utilizing a mixture of copper and fiber"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IP connectivity and communication"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CCTV system such as network camera, access control"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Mechanical Drawing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Without Serial&Bypass Port"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"With Serial Port"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"With Bypass Port"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please contact us if the source file is needed"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Data & Alarm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Explanation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"RS485 Data is a common serial communication protocol widely used to connect sensors, controllers etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The DI/DO(digital input/output)alarm system is used to detect changes in equipment status and issue an alarm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Digital input(DI)can receive signals from external devices, such as equipment failure, sensor abnormality, etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Digital output(DO)is used to control external devices, such as turning on or off alarm lights, ringing bells, etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"When detecting an abnormal state, the DI/DO system will trigger an alarm to notify the operator to take timely action"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Application"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Industrial Automation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Intelligent Manufacturing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Monitoring System"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"[Sensors/Devices]--(RS485)--[Industrial Ethernet Switch]--(DI/DO)--[Alarm Device]"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Sensors/Devices"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Sensors or devices are connected to the industrial switch through the RS485 bus for data transmission"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For example, temperature sensors, pressure sensors, etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Industrial Ethernet Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The industrial switch is responsible for managing connected devices and receives data from sensors via the \tRS485 interface"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It has built-in DI/DO interfaces for connecting alarm devices"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"When abnormal sensor data is detected, it triggers the alarm device through the DO interface"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Alarm Device"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Alarm devices, such as warning lights or buzzers, are connected to the industrial switch via the DI interface"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"When an alarm signal is received, the device generates a visual or audible alert to notify the operator"
+},
+{
+"t":"table",
+"rows":[
+[
+"Magnetic Door Closed: Alarm Not Triggered",
+"Magnetic Door Opened: Alarm Triggered"
+],
+[
+"RJ45/Fiber Connection Fault",
+"Power Failure"
+],
+[
+"Alarm Output & Notification Methods"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Optical Bypass"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Explanation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It serves as a protection mechanism to ensure continuous optical communication when a connected network device(such as a router, firewall, or switch)fails or loses power"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It operates by automatically rerouting optical signals, either bypassing the faulty device or maintaining the link in case of power failure"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is commonly used in fail-safe systems to minimize downtime and maintain seamless data transmission, especially in critical applications like industrial automation, data centers, and telecommunications networks"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Application"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Optical Path Protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Power Control"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Network Failover Redundancy"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1, WDM(BIDI)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2, Duplex"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Miscellaneous Fee"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This covers most of small charges in an order"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PVC mask"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Standard MoQ: 300Pcs"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Unit price varies from model to model"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Fewer quantity(20pcs/50pcs/100pcs...), higher unit price"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Examples are:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"An order less than 300Pcs, lets say 50Pcs"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"50Pcs will be consumed and 250Pcs are left at the moment(Either ship them together with the purchased items or keep them in our warehouse for next orders)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that it is free of cost if kept in our warehouse for a year"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"An order over 300Pcs, lets say 350Pcs"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Then we could produce an exact amount 350Pcs for this order"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"There will be none left"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is neutral device(without logo)in a standard order"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"COO(Certificate of Origin)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"15usd/EACH copy"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Client needs to go through the content, it is non-modifiable once confirmed"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This has to be exercised AT LEAST 2 working days before shipment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please let us know how we handle the copy(attach it on the outside or put it inside the box)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Transaction Cost"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"As stated in General Query, it is standard charge in EACH order"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"FAQ"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Leadtime"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Production starts AFTER payment is received"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that it usually takes 1~2 working days for our bank to receive the payment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Production time is usually 4~7 working days for standard(non-customized)models(no more than 50Pcs)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipping time is usually 4~7 days by express(DHL/FedEx/UPS)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"In total, it takes 10~15 calendar days to arrive at local customs for clearance"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is an estimated period, it usually does not take this long to receive the order"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We will send the goods by express(DHL, FEDEX or UPS)or by sea(for bulk orders)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to ship purchased items via client’s shipping account(DHL, FEDEX or UPS)or forwarders in China"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MoQ"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1 Pc/Pair(It is NOT free, Saga Telecom do NOT do FREE SAMPLES)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"However, the sample cost can be deducted from future bulk orders"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Samples take 5 working days to ship, we especially extend the testing time to ensure quality(COMPANY POLICY)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to have sample testing before bulk orders"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that we do NOT suggest 1pc/pair in sample testing, better make it at least 2 pieces/pairs in case of any possible dysfunction in production/transportation/misoperation(then all efforts are gone, a big waste of time)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Warranty"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1 year for commercial models(STC series)and 3 years for industrial models(STI series)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please kindly refer to the “Warranty Policy” for more information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Technical assistance is always available"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Discount"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Available and it is usually based on quantity and AFTER sample testing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The price negotiation makes sense ONLY IF a client is satisfied with the quality"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For distributorship, that we are now seeking, best prices will be provided"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Payment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"T/T transfer and PayPal"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to pay 50% first and another 50% before shipment in a bulk order(this is about standard/non-customized models)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"FULL PAYMENT for a customization order BEFORE HARDWARE PRODUCTION(non-negotiated), a certain R&D cost will be collected BEFORE SOFTWARE CUSTOMIZATION"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to be paid via client’s forwarder(this is usually about RMB payment on Alipay, WeChat or Bank)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Transaction Cost"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is standard charge 25usd for EACH T/T transfer whatever the invoice value is"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is 5usd for every 100usd to PayPal a/c, this ratio is standard charge by PayPal"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"User Manual"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that there is a user manual(with necessary information for usage and installation)in the packing box Actually most of the necessary information is available in this datasheet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We can help print a copy of your version and put it in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing Box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Without Chinese letters or logo, totally neutral"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Hard carton, resilient to wrinkle, good for reselling even after shipment(there is protective foam inside to avoid possible damage)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Customized version is available(with your logo/model/slogan or remove the patterns), but there is MoQ and cost for this, discussion is required"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Label"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"There is product information/model name/serial number/MAC info on the label"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to write client’s version"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Standard language is English"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If a different language is adopted like Russian, Italian, Korean..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please share EXACT translations, we will simply copy and print"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Barcodes are scannable for inbound statistics"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"An example photo will be shared for confirmation before mass printing for any orders"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"There are 2 copies for each manufactured product. One is attached on the device, the other is on the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Certification"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CE/RoHS/FCC/Reach/UKCA"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please let us know if you need to check the certificates"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"RMA"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please contact us ASAP once there is a problem of ANY KIND"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please also read below “after-sales support” information to understand how to proceed"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For every 100Pcs, there will be 2 extra free units shipped(2% RMA)against immediate coverage"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"These 100 units must be of the same model, and quantities in different orders can be accumulated"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This rule stands for all Saga Telecom models and even there is not an after-sales issue"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is an option to deduct the cost(2% RMA)from total amount(no need of extra free units)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If it is about missing/faulty parts in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please simply use the extra units for replacement and let us know this problem(we will improve)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If it is about usage problem"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom will provide technical support and send new units when necessary(in this occasion, we will be responsible for both product cost and shipping cost, but the local customs clearance cost, if any, is on clients)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SKD/CKD"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Available"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SKD is simple, please just let us know how you would like to have it"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CKD usually involves confidential information such as BOM list, schematic design, PCB layout etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is based on solid cooperation AND bulk orders, thorough discussion is required to do CKD mode"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OEM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Available"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Discussion is required for complex changes, meanwhile an NDA(Non-disclosure Agreement)contract will be agreed upon and signed"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Relevant cooperation information will not be leaked to a third party without client’s permission"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is mainly about 2 categories"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Industrial manufacturing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Show client’s logo/model/serial number/MAC info on the device/label"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Use client’s packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Design client’s product PVC sticker"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Customize some parts of a model like rear panel/power input terminal block/panels..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that there might be an extra cost for such OEM services"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Management features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Show client’s logo/model/serial number/MAC info on the Web interface"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Change IP address"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SNMP, OID"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Above changes are free of cost and please know that"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Font format  &  UI color are also changeable for the Web UI, but this requires a decent MoQ and extra cost"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We can also help develop exact features/specifications based on given chips or PCB board designs, this is more complex, thorough discussion is required"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For certain temporarily unavailable features, please confirm with us if we are able or going to develop them"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Incoterms"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DAP term is our focus"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We will deliver the materials to certain places(client forwarder’s warehouse or local customs), but clearance and tax issues will ALWAYS be handled by clients"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Sometimes we do DDP term, this depends on cases, please talk with us for more information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Customs Clearance"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please make sure that you are licensed to import or have relevant experience to handle clearance issues"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We will provide necessary help and documentation details(CI, PL, CO etc.)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please let us know if you need to do DDP term"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Btw: ALL the local customs costs will be on client’s side(tax, incidental charges etc.)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Online Store"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Currently we do not have an online store(Amazon, Shopify, Aliexpress etc.)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We will add a store link in this datasheet when available"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Branch/Distribution"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Currently we do not have ANY overseas branches or distributors"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We are actively seeking good agents/resellers to promote our brand and products"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Necessary technical and pricing support will be provided"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please let us know if you are interested"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Material Preparation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"25% deposit will be collected beforehand for material preparation if there is a strict requirement of production time"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is to protect ourselves from the awkward situation where we have prepared the materials while the clients do not successfully place the order due to different reasons"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This deposit will be deducted from total amount if this order is placed"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This deposit will be returned after we consumed half of the prepared materials in other orders if this order is not placed"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Pre-shipment Inspection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Available"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is usually about bulk orders"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We will inform our clients when this order is almost ready and then talk about the third-party inspection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Environmental Compliance"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Our products and packaging comply with international environmental standards\nWe are certified with RoHS, REACH, and CE, ensuring that all materials used are environmentally safe and free from hazardous substances\nPackaging materials are recyclable and free from unnecessary plastics"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"HS Code"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is available in each PI/CI for your quick review"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Language Support"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"English is most preferable in negotiations"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"User manual or packing box can be customized in multiple languages, please share EXACT translations if needed"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Bullet Points"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This helps you understand the unique features of our models and why choose us"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Hardware Design"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Good EMI/EMC Compatibility"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Good Heat Dissipation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Chipset"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Programmable ASIC Framework(Flexible Customization and Compatibility)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Advanced Network Security Features(MACsec, ACLs, SFTP, DPI)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"High Integration Capability(SONiC, SNMP, NETCONF/YANG)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Application"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"High Throughput and Low Latency(Ideal in Massive Data Traffic and High-speed Real-time Communications)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Efficient Low-power Operation(Green Energy and Longer Service Life)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Flexible Network Topology(Ring, Star, Tree Configurations)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"High Reliability and Fault Tolerance(Link Aggregation, Self-healing Network, High MTBF)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"These features ensure stable performance in the following high-end projects while providing future scalability"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Industrial IoT(IIoT)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Smart Grid  &  Energy Management"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Industrial Automation  &  Remote Control Systems"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Smart City Infrastructure"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Surveillance  &  Security Systems"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SMBs and Enterprise-Level Networks"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Built on Marvell—Trusted by Industry Leaders"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Cisco: Marvell Prestera® 98DX series powers models like the Cisco CBS350 and SG350X series, widely deployed in SMB and campus networks"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Allied Telesis: use Marvell switching silicon in its IE200 series for industrial Ethernet deployment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Belden/Hirschmann: adopt Marvell chips in RSP and RSPE modular switch series for factory automation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Delta Electronics: apply Marvell-based designs in industrial PoE switches for building automation and green energy systems"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Schneider Electric: integrate Marvell Prestera® DX1500 chips in new-gen OT/IT network platforms"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Those brands choose Marvell not for cost, but for stability, longevity and performance under real-world loads"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Marvell switching SoCs provide a cost-efficient, scalable, and performance-driven solution widely adopted across industrial and edge networking scenarios"
+},
+{
+"t":"table",
+"rows":[
+[
+"Feature",
+"Marvell / 98DX225S / 98DX226S / 98DX336S",
+"Realtek / RTL83xx / RTL93x6 / RTL93xx",
+"Broadcom / BCM56150 / BCM56160 / BCM56340"
+],
+[
+"Target Market",
+"SMBs / Enterprise Network / Industrial Ethernet",
+"SMBs / Small Enterprise Networks",
+"Enterprise Network / Industrial Ethernet"
+],
+[
+"Performance",
+"High Throughput / Low Latency / Strong Network Security EMI/EMC Compatibility",
+"Basic Throughput / Low Latency / Basic Security Features",
+"High Throughput / Low Latency / Strong Network Security / EMI/EMC Compatibility"
+],
+[
+"Network Security",
+"Advanced Encryption and Security Protocols",
+"Basic Security Features",
+"Advanced Security Features / Encryption, Traffic Control"
+],
+[
+"EMI/EMC Compatibility",
+"Optimized / Suitable for Industrial Environments",
+"Average / Suitable for Home and Small Office Environments",
+"Optimized / Suitable for Industrial Environments"
+],
+[
+"Power Consumption",
+"Low Power Design",
+"Low Power",
+"Higher Power Consumption / Suitable for High-load Environments"
+],
+[
+"Programmability",
+"Programmable ASIC Framework",
+"No Programmability",
+"Programmable, but Focused on Enterprise-level Applications"
+],
+[
+"Cost",
+"Mid to High",
+"Low Cost",
+"High Cost / Suitable for High-end Markets"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Client Oriented"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Case 1"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Readily Available"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Dual AC Input"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Case 2"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Newest Firmware"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"In the meantime, we have been collecting the feedback from client sides about"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Any features to be added"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Any dysfunctions in sample testing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Any technical support required"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"and trying to solve real problems"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Case 1"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"I didn't realize that the SFP didn't auto-detect 1 or 10gbps, so that confused me for a few minutes before I saw the setting I needed to choose manually."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"I like that the backup file is an editable text file, which would be great if you have to configure a lot of them at once."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It would be nice if the web UI remembered the xx items per page setting. It seems to default to 20/page, even though I keep changing it to 50/page so I can see all my ports at once :("
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Now it is in place, I can do some more testing."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Case 2"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Practically, there are certain requirements beyond our capacity, but there are some things we can do or try to improve"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We are backing our clients and following the market trend"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Let's evolve together!!"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"TTC"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"TTC = Technology Transfer & Cooperation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It focuses on building deep, practical partnerships through staged technical collaboration covering"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OEM=Original Equipment Manufacturing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"ODM=Original Design Manufacturing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SKD=Semi-Knocked Down"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CKD=Completely Knocked Down"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SDK= Software Development Kit Integration"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Source Code Cooperation=Controlled Source Code / Joint Development"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Localized manufacturing and controlled HW & SW design are trendy now, we are happy to cooperate with our clients in this regard"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Below is our strategy to support our clients & partners"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OEM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Readily available"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is our most common and capable practice"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We support customization of branding on products, web UI, packing box, user manuals, labels etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"ODM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Negotiable"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"R&D must be done on our PCB board, and this comes with certain terms such as MoQ and cost"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We will integrate our supplier resources and technical strength"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Case 1"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A client requested us to help co-design a PCB board(IoT) with decent quantity and continuous demand"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It failed because we just focus on Ethernet switches, IoT boards are not our category"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Case 2"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A client requested us to modify the power input(PINs, size etc.) to accommodate his chassis system"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It failed though the samples are from us, MoQ problem"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SKD"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Readily available"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"As a manufacturer, this is easy for us"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please just let us know how we do the packing of parts for your import and assembling"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CKD"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Negotiable"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This usually involves confidential information such as BOM list, schematic design, PCB layout etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is based on solid cooperation AND bulk orders, and this comes with certain terms such as MoQ and cost"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SDK"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Negotiable"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We focus on Marvell managed networking solutions"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Marvell's SDK(usually SDKLite or Prestera SDK/SDK-X) is a controlled license"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Preferably, end customers can apply directly to Marvell for more information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"An NDA(Non-Disclosure Agreement) is usually required"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please visit https://www.marvell.com/contact-us.html and submit necessary info(project proof, design intent etc.)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Source Code Cooperation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Unavailable and Non-negotiable"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is NEVER an option in out business"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Commercial Contract"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A framework will be built and agreed upon to boost efficiency and transparency in daily business negotiations and transactions"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom has internal standards and policies(reviewed and renewed ON QUARTARLY BASIS)regarding the below topics, which will serve as a baseline for all cooperation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It covers, NOT LIMITED TO"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Terms of Payment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Delivery and Logistics"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product Quality and Specifications"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Warranty Coverage"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Return Merchandise Authorization(RMA)Procedures"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Export Compliance and Related Clauses"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Other General Rights and Obligations"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"These details are open for discussion based on specific orders or business scenarios"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Once the COMMERCIAL framework is mutually confirmed, it will serve as the guiding principle for all transactions, unless otherwise renegotiated"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Order Procedure"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Negotiation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ordering"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Payment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Negotiation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Discuss specification, quantity, customized requirements..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Move on to “Ordering” stage if every detail is finalized"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"No agreement is achieved due to pricing, unavailable offer..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Wait for next business opportunity"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ordering"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Buyer sending PO"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is not necessarily required"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Seller drafting PI"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Required"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Contact information, pricing, quantity, shipping time etc. should be specified in this invoice"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Buyer checking"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Make payment if PI is approved"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Notify seller to revise the points in question"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Payment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PayPal/Bank transfer ONLY"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PayPal is usually for sample orders, 5Usd will be charged for EVERY 100Usd into our A/C"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Bank transfer is usually about repeat and bulk orders, standard charge in EACH order: 25Usd"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Buyer sending payment receipt"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Material preparation starts"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Seller receiving payment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Production starts"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipping"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Dispatch ready"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Photos and videos of ordered units are available"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Buyer confirmation(product label format, shipping marks...)is required to release out the order"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipping method"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Via buyer’s designated forwarder, this is usually about buyer's shipping agent, we will directly send purchased items to agent’s for further processing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Via Saga Telecom’s shipping agent, we will quote based on total weight to buyer. It is usually air service by DHL/FedEx/UPS, cost will be included in PI after buyer approves"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Via buyer’s shipping A/C(DHL/FedEx/UPS)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipping number"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Seller should send shipping information to buyer once available"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"After-sales Support"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Warranty comes in effect from the date of delivery(trackable by the AWB number)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A “certificate of warranty” will be issued to indicate the warranty coverage and relevant information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If you have no idea how to install/configure/use the purchased devices, please contact us"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A detailed introduction will be shared"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If something is faulty in usage(especially managed models)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1, please describe what happened, examples as below"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"When this problem occurred"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"What you did to adjust it like restart the device or change new accessories"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"How you use this device like outdoor use for connecting some IP cameras"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"With this information, Saga Telecom could quickly know what is going on and do trouble-shooting"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2, please do your best to provide as many actual photos/videos as possible"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Wrong connection or improper use may occur, photos and videos are helpful and efficient"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is NOT suggested to discuss after-sales issues ONLY by text, we find it difficult to understand the situation and find out the root reasons"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"At the same time, we know that it might not be easy to get some photos/videos due to different reasons"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please try your best(at least draw a sketch or something), this is the most efficient method based on many after-sales cases"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It works best if you can describe the situation in the videos, it is like"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"You can try to say, LEDs are OK, Port 4 is not working, Ping works..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This helps quickly know and identify the problems"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3, please prepare necessary accessories such as new optical modules/other brand switches..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"An example is, in a linear network connection, if one optical module fails, the whole system might have a transmission problem"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The solution would be as simple as replacing a new workable optical module"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"With in-hand accessories, sometimes it is easy to fix the problem"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4, please get ready for online meeting"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If early testing and communication fail to identify the problems, an online meeting will be held to better discuss the after-sales issues(usually on Zoom or Microsoft Teams)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom might remotely control your PC to do trouble-shooting with the help of Teamviewer/Anydesk"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"5, if all attempts fail to solve the problems, we will send new units for replacement and provide discounts in future orders(make up for this inconvenience)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom will ONLY take care of both product cost and shipping cost, ALL the local customs cost will be on the clients"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom do NOT accept returned materials, our RMA(2%) policy is ONLY about immediate coverage"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please do NOT wire or test the devices casually without our knowing, just follow our instructions and our engineers will do next moves based on the feedback"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Warranty Policy"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom warrants that the supplied models will be free of defects in materials, workmanship, and comply with standard functions indicated in the product datasheet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Warranty period is 1 year for commercial models(STC series)and 3 years for industrial models(STI series), for the product category that is not listed in below still follows the rule"
+},
+{
+"t":"table",
+"rows":[
+[
+"Product Category",
+"Product Line",
+"Warranty"
+],
+[
+"Commercial Ethernet",
+"Commercial Network Switch",
+"1 Year"
+],
+[
+"Commercial Ethernet",
+"Commercial PoE Switch",
+"1 Year"
+],
+[
+"Commercial Ethernet",
+"Commercial Managed Switch",
+"1 Year"
+],
+[
+"Commercial Ethernet",
+"Commercial PoE Managed Switch",
+"1 Year"
+],
+[
+"PoE Accessory",
+"PoE Injector",
+"1 Year"
+],
+[
+"PoE Accessory",
+"PoE Adapter",
+"1 Year"
+],
+[
+"PoE Accessory",
+"PoE Splitter",
+"1 Year"
+],
+[
+"PoE Accessory",
+"PoE Extender",
+"1 Year"
+],
+[
+"Ethernet Media Converter",
+"100M/1G/10G",
+"1 Year"
+],
+[
+"Industrial Networking",
+"Industrial Ethernet Switch",
+"3 Years"
+],
+[
+"Industrial Networking",
+"Industrial Fiber Switch",
+"3 Years"
+],
+[
+"Industrial Networking",
+"Industrial PoE Switch",
+"3 Years"
+],
+[
+"Industrial Networking",
+"Industrial Managed Switch",
+"3 Years"
+],
+[
+"Industrial Networking",
+"Industrial PoE Managed Switch",
+"3 Years"
+],
+[
+"DIN Power Adapter",
+"20W/75W/120W/240W/480W Series/MEAN WELL Series",
+"3 Years"
+],
+[
+"STH Series",
+"High-speed Network Switches",
+"1 Year"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Warranty comes in effect from the date of delivery(trackable by the AWB number)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Warranty is non-transferable and will be solely provided to the original buyer as per the invoice information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Immediate contact is strongly advised once any problem occurs, Saga Telecom should be well informed all along before standard solution is provided"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please properly keep purchase-related information(purchase order, proforma invoice, packing list etc.)for any possible repair, replacement or after-sales issues"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please do not remove or ruin the product label(used to track the material batch in our warehouse)on the device"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please do not repair or replace components of purchased items without our knowing or authorization"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Unauthorized returns are not accepted without a valid confirmation from Saga Telecom, any risk or expenses involved are not covered in such cases"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"At Saga Telecom’s option, the disputed device will be preferably repaired or replaced"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Defective products within warranty but unable to be repaired or discontinued, 10%~20% discount will be offered when the customer purchases the alternative models with identical service features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If there are expenses during the repair, Saga Telecom will negotiate with the customer on how to split the cost, and generally give discounts in new orders to cover this cost"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom reserves final adjudication rights and sole discretion during the warranty period"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Exclusive Liability"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Out of warranty period"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Order of wrong models"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Huge defects due to improper use including but not limited to circuit burnout, PCB board deformation, water-soaked chip"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Hardware and software compatibility failure"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Consumable materials and routine maintenance such as a fuse or bracket"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Unauthorized modification to important components"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"About Us"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom is a reliable manufacturer and trader of good-quality fiber optic devices and transmission solutions, and focuses on industrial networking, CCTV surveillance, fiber optic transmission and featured telecom devices for secure data transport, fiber-based communication, and security monitoring"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Backed by diversified product portfolio and mature business system, Saga Telecom gains good feedback overseas particularly in European countries"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"In the meantime, Saga Telecom is actively seeking trustworthy partners and enhancing its presence in the network telecommunications field"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Core Value"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connecting, Converting, Creating"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom connects talents and ideas that may drive itself forward"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom converts mature business system to all-round growth"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom creates betterness from expertise and solution package"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Factory Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Our production base is in Huizhou city, Guangdong Province"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Production Area: 7,000 square meters"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Production Capacity(Per Month): Around 3K for popular DIN-Rail models"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://drive.google.com/drive/folders/1B-DHQaO29xaEhEGfVhdTen9Leo35sRoc?usp=drive_link"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Market Positioning"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OEM Factory"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Tailored Managed Networking Solutions Provider"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom focuses on customizing services regarding hardware & software based on Marvell/CENTEC chips"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Access Level: Marvell AellyCat5 Series(AC5)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.marvell.com/content/dam/marvell/en/public-collateral/switching/marvell-prestera-98DX25xx-product-brief.pdf"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.marvell.com/content/dam/marvell/en/public-collateral/switching/marvell-prestera-98DX35xx-product-brief.pdf"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Aggregation & Core Level: CENTEC"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.centec.com/silicon?category=Ethernet-Switch-Silicon"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Continuous Supply"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We guarantee continuous supply for more than 5 years"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"All upcoming R&D, hardware optimization, and software development will remain fully aligned along the way"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is supported by:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Our business strategy: a built-to-last approach ensuring continuous supply and collaborative evolution"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Long-term availability of Marvell AC5 and CENTEC switching chipsets"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This ensures uninterrupted delivery and consistent performance for our clients of all types(SIs, ISPs, Telcos, OEMs and more)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Personnel Strength"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"HW Engineer: 5"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SW Engineer: 10"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Test Engineer: 5"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Number of SMT Line: 2"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Number of DIP Line: 5"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Number of Test Line: 4"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Number of Assembly Line: 10"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Easy and Transparent Business"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A google drive folder under your country and your name will be created"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The original editors will be the email(s)from the invoice"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please use the original email(s)to adjust the access availability"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This folder usually includes below information of each order"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Datasheet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"User Manual"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Certificate of Warranty"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Warranty Policy"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Web Manual, CLI Manual(for managed models only)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product Photos"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipping Document"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Details of This Order"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A printed copy of user manual is included in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"When a client needs something urgently, but the salesperson cannot reply timely"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"When a client needs to submit something internally"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"When a client needs to look into the product details"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This google drive link will be very helpful"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"How We Do Business"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom is being digital and paperless to be efficient and eco-friendly #gogreen"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It will ONLY be electronic information unless it is specifically requested"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We are convinced that this will be the future of our industry and a key element of a responsible approach to business"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Simplified, Standard, Solution based"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is applicable to our before-, in- and after-sales services"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"All is about a s truly helpful solution"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If what you need is NOT available on our list, we will help source it(it will be an add-on price)if acceptable"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom proposes a buffet-style business communication"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"All the information is available without asking"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A google link containing full information of each category(see Download Link above)is created accessible to anyone"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Anyone could read or download it anytime and anywhere"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Business details are being continuously updated"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We have been absorbing useful information and will update it in the link(an overall update on quarterly basis)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Like product query, application..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"So latest information will be available all the time"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Value and growth manifest itself"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We understand that a client may have a lot of choices/suppliers"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"In any case, we will do our best to support our client base with good expertise, good service and good solution"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Meanwhile, we are welcoming feedback from you"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Compare our products with existing or other suppliers"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Let us know where we could improve"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It starts from the promise of professionalism and goes far beyond"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is not only about fiber optic connection, but also about human connection"
+}
+],
+"header_footer":[
+"Marvell Industrial Managed Series\t                                                                                                  Saga Telecom",
+"2026/Q1 \t\t\t\t\t                                                                  www.sagatelecom.com.cn",
+"Tailored Managed Networking Solutions Provider",
+"Built to Last, Continuous Supply, Evolving Together"
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":171550
+},
+{
+"name":"image10.jpeg",
+"bytes":30071
+},
+{
+"name":"image11.png",
+"bytes":247046
+},
+{
+"name":"image12.png",
+"bytes":252034
+},
+{
+"name":"image13.png",
+"bytes":49530
+},
+{
+"name":"image14.png",
+"bytes":163816
+},
+{
+"name":"image15.png",
+"bytes":66180
+},
+{
+"name":"image16.png",
+"bytes":75461
+},
+{
+"name":"image17.png",
+"bytes":72460
+},
+{
+"name":"image18.png",
+"bytes":1053769
+},
+{
+"name":"image19.png",
+"bytes":111273
+},
+{
+"name":"image2.png",
+"bytes":123303
+},
+{
+"name":"image20.png",
+"bytes":198547
+},
+{
+"name":"image21.jpeg",
+"bytes":23811
+},
+{
+"name":"image22.png",
+"bytes":190551
+},
+{
+"name":"image23.png",
+"bytes":145637
+},
+{
+"name":"image24.jpeg",
+"bytes":88015
+},
+{
+"name":"image25.jpeg",
+"bytes":85862
+},
+{
+"name":"image26.jpeg",
+"bytes":113917
+},
+{
+"name":"image27.jpeg",
+"bytes":121815
+},
+{
+"name":"image28.png",
+"bytes":531809
+},
+{
+"name":"image29.png",
+"bytes":624514
+},
+{
+"name":"image3.png",
+"bytes":132885
+},
+{
+"name":"image30.png",
+"bytes":329196
+},
+{
+"name":"image31.png",
+"bytes":662519
+},
+{
+"name":"image32.png",
+"bytes":52281
+},
+{
+"name":"image33.png",
+"bytes":62758
+},
+{
+"name":"image34.png",
+"bytes":277444
+},
+{
+"name":"image35.png",
+"bytes":25782
+},
+{
+"name":"image36.png",
+"bytes":82150
+},
+{
+"name":"image37.png",
+"bytes":2143
+},
+{
+"name":"image38.png",
+"bytes":81956
+},
+{
+"name":"image39.png",
+"bytes":59185
+},
+{
+"name":"image4.jpeg",
+"bytes":9156
+},
+{
+"name":"image40.png",
+"bytes":69802
+},
+{
+"name":"image41.png",
+"bytes":53541
+},
+{
+"name":"image42.png",
+"bytes":14763
+},
+{
+"name":"image43.png",
+"bytes":367714
+},
+{
+"name":"image44.png",
+"bytes":355701
+},
+{
+"name":"image5.png",
+"bytes":142721
+},
+{
+"name":"image6.jpeg",
+"bytes":29796
+},
+{
+"name":"image7.jpeg",
+"bytes":29449
+},
+{
+"name":"image8.png",
+"bytes":40515
+},
+{
+"name":"image9.jpeg",
+"bytes":128751
+}
+]
+}

@@ -1,0 +1,116 @@
+{
+"id":"10VCAevsJy3RjctutmmpixD9GBFA7tu-5",
+"name":"The pricelist of managed industrial bypass switch for Simon-20250312(1).xlsx",
+"path":"SmartByte/Bypass/The pricelist of managed industrial bypass switch for Simon-20250312(1).xlsx",
+"type":"Excel",
+"ext":".xlsx",
+"bytes":1285310,
+"sha256":"6e34358fdef68ea9dde16119c0fc5d1f2cc3450a68425c3d2a30d5e6cc2b6c3c",
+"extracted_at":"2026-10-22T02:08:01Z",
+"method":"openpyxl(values)",
+"status":"ok",
+"chars":2911,
+"meta":{
+"sheets":[
+"Sheet1"
+],
+"embedded_images":2,
+"rows_total":16
+},
+"warnings":[],
+"text":"--- Sheet: Sheet1 ---\nThe Pricelist of  Managed Industrial Bypass Switch\nPicture\tModel\tDescription\tUnit price/ RMB未税\n1 channel single fiber Bypass\n\tLT-IS6312G-4GX8GT-FBP\tL2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 ports, 4*1G/2.5GBase-X SFP slots and 1 channel single fiber bypass port, DC24-58V input\t960\n\tLT-IS6312GP-4GX8GT-FBP\tL2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 PoE ports, 4*1G/2.5GBase-X SFP slots and 1 channel single fiber bypass port, complies with IEEE802.3af, IEEE802.3at standard, DC44-57V input\t1040\n\tLT-IS6312GP-4GX8GT-2BT-FBP\tL2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 PoE ports, 1-2 ports support PoE++ 60-90W,  4*1G/2.5GBase-X SFP slots and 1 channel single fiber bypass port, DC44-57V input\t1140\n\tLT-IS6312XG-4XS8GT-FBP\tL2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 ports, 4*1G/2.5G/10GBase-X SFP+ slots and 1 channel single fiber Bypass port, DC24-58V input\t1160\n\tLT-IS6312XGP-4XS8GT-FBP\tL2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 PoE ports, 4*1G/2.5G/10GBase-X SFP+ slots and 1 channel single fiber bypass port,  DC44-57V input\t1240\n\tLT-IS6312XGP-4XS8GT-2BT-FBP\tL2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 PoE ports, 1-2 ports support PoE++ 60-90W,  4*1G/2.5G/10GBase-X SFP+ slots and 1 channel single fiber bypass port, DC44-57V input\t1340\n2 channels single fiber Bypass or 1 channel dual fiber Bypass\n\tLT-IS6312G-4GX8GT-2FBP\tL2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 ports, 4*1G/2.5GBase-X SFP slots and 2 channels single fiber bypass ports or 1 channel dual fiber Bypass port, DC24-58V input\t1260\n\tLT-IS6312GP-4GX8GT-2FBP\tL2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 PoE ports, 4*1G/2.5GBase-X SFP slots and 2 channels single fiber Bypass ports or 1 channel dual fiber Bypass port ,  DC44-57V input\t1340\n\tLT-IS6312GP-4GX8GT-2BT-2FBP\tL2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 PoE ports, 1-2 ports support PoE++ 60-90W, 4*1G/2.5GBase-X SFP slots and 2 channels single fiber Bypass ports or 1 channel dual fiber Bypass port, DC44-57V input\t1440\n\tLT-IS6312XG-4XS8GT-2FBP\tL2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 ports, 4*1G/2.5G/10GBase-X SFP+ slots and 2 channels single fiber bypass ports or 1 channel dual fiber Bypass port, DC24-58V input\t1460\n\tLT-IS6312XGP-4XS8GT-2FBP\tL2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 PoE ports, 4*1G/2.5G/10GBase-X SFP+ slots and 2 channels single fiber bypass ports or 1 channel dual fiber Bypass port, DC44-57V input\t1540\n\tLT-IS6312XGP-4XS8GT-2BT-2FBP\tL2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 PoE ports, 1-2 ports support PoE++ 60-90W, 4*1G/2.5G/10GBase-X SFP+ slots and 2 channels single fiber Bypass ports or 1 channel dual fiber Bypass port, DC44-57V input\t1640",
+"sheets":{
+"Sheet1":{
+"state":"visible",
+"rows":[
+[
+"The Pricelist of  Managed Industrial Bypass Switch"
+],
+[
+"Picture",
+"Model",
+"Description",
+"Unit price/ RMB未税"
+],
+[
+"1 channel single fiber Bypass"
+],
+[
+"",
+"LT-IS6312G-4GX8GT-FBP",
+"L2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 ports, 4*1G/2.5GBase-X SFP slots and 1 channel single fiber bypass port, DC24-58V input",
+"960"
+],
+[
+"",
+"LT-IS6312GP-4GX8GT-FBP",
+"L2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 PoE ports, 4*1G/2.5GBase-X SFP slots and 1 channel single fiber bypass port, complies with IEEE802.3af, IEEE802.3at standard, DC44-57V input",
+"1040"
+],
+[
+"",
+"LT-IS6312GP-4GX8GT-2BT-FBP",
+"L2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 PoE ports, 1-2 ports support PoE++ 60-90W,  4*1G/2.5GBase-X SFP slots and 1 channel single fiber bypass port, DC44-57V input",
+"1140"
+],
+[
+"",
+"LT-IS6312XG-4XS8GT-FBP",
+"L2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 ports, 4*1G/2.5G/10GBase-X SFP+ slots and 1 channel single fiber Bypass port, DC24-58V input",
+"1160"
+],
+[
+"",
+"LT-IS6312XGP-4XS8GT-FBP",
+"L2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 PoE ports, 4*1G/2.5G/10GBase-X SFP+ slots and 1 channel single fiber bypass port,  DC44-57V input",
+"1240"
+],
+[
+"",
+"LT-IS6312XGP-4XS8GT-2BT-FBP",
+"L2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 PoE ports, 1-2 ports support PoE++ 60-90W,  4*1G/2.5G/10GBase-X SFP+ slots and 1 channel single fiber bypass port, DC44-57V input",
+"1340"
+],
+[
+"2 channels single fiber Bypass or 1 channel dual fiber Bypass"
+],
+[
+"",
+"LT-IS6312G-4GX8GT-2FBP",
+"L2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 ports, 4*1G/2.5GBase-X SFP slots and 2 channels single fiber bypass ports or 1 channel dual fiber Bypass port, DC24-58V input",
+"1260"
+],
+[
+"",
+"LT-IS6312GP-4GX8GT-2FBP",
+"L2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 PoE ports, 4*1G/2.5GBase-X SFP slots and 2 channels single fiber Bypass ports or 1 channel dual fiber Bypass port ,  DC44-57V input",
+"1340"
+],
+[
+"",
+"LT-IS6312GP-4GX8GT-2BT-2FBP",
+"L2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 PoE ports, 1-2 ports support PoE++ 60-90W, 4*1G/2.5GBase-X SFP slots and 2 channels single fiber Bypass ports or 1 channel dual fiber Bypass port, DC44-57V input",
+"1440"
+],
+[
+"",
+"LT-IS6312XG-4XS8GT-2FBP",
+"L2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 ports, 4*1G/2.5G/10GBase-X SFP+ slots and 2 channels single fiber bypass ports or 1 channel dual fiber Bypass port, DC24-58V input",
+"1460"
+],
+[
+"",
+"LT-IS6312XGP-4XS8GT-2FBP",
+"L2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 PoE ports, 4*1G/2.5G/10GBase-X SFP+ slots and 2 channels single fiber bypass ports or 1 channel dual fiber Bypass port, DC44-57V input",
+"1540"
+],
+[
+"",
+"LT-IS6312XGP-4XS8GT-2BT-2FBP",
+"L2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 PoE ports, 1-2 ports support PoE++ 60-90W, 4*1G/2.5G/10GBase-X SFP+ slots and 2 channels single fiber Bypass ports or 1 channel dual fiber Bypass port, DC44-57V input",
+"1640"
+]
+]
+}
+}
+}
