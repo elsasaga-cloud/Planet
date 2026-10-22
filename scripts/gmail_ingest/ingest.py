@@ -9,6 +9,7 @@
 输入（环境变量，可由 RUN 文件的 KEY=VALUE 行覆盖）：
   ACCOUNT          s | a | e（决定输出目录 data/gmail_<ACCOUNT>/ 与 Release tag gmail-<ACCOUNT>-日期）
   SOURCE_IDS       Drive 文件 ID（逗号分隔）：Takeout 的 .zip / .tgz，或直接是 .mbox
+  SOURCE_MD5       可选，与 SOURCE_IDS 一一对应的 Drive md5Checksum（连接器 get_file 可见）；下载后校验，不符则重下一次，再不符即中止
   SOURCE_RELEASE   备选来源：Release tag（Simon 手工把导出件上传到 Release 时用；下载其全部资产）
   LOCAL_FILES      本地测试用：逗号分隔的 zip/mbox 路径
   OWN_EMAILS       本邮箱自己的地址（逗号分隔；默认 <ACCOUNT>.sagatelecom@gmail.com，另会自动从 Sent 标签学习）
@@ -63,6 +64,7 @@ ATT_TEXT_DIR = os.path.join(ATT_DIR, 'text')
 ATT_THUMB_DIR = os.path.join(ATT_DIR, 'thumbs')
 RAW_DIR = os.environ.get('RAW_DIR') or '/tmp/gmail_raw'
 SOURCE_IDS = [x.strip() for x in os.environ.get('SOURCE_IDS', '').split(',') if x.strip()]
+SOURCE_MD5 = [x.strip().lower() for x in os.environ.get('SOURCE_MD5', '').split(',')]   # 可选：与 SOURCE_IDS 对齐的 Drive md5Checksum，下载后校验
 SOURCE_RELEASE = os.environ.get('SOURCE_RELEASE', '').strip()
 LOCAL_FILES = [x.strip() for x in os.environ.get('LOCAL_FILES', '').split(',') if x.strip()]
 OWN_EMAILS = {x.strip().lower() for x in (os.environ.get('OWN_EMAILS') or f'{ACCOUNT}.sagatelecom@gmail.com').split(',') if x.strip()}
@@ -90,6 +92,7 @@ MAX_TEXT = int(os.environ.get('MAX_TEXT_CHARS', '400000'))  # 单封正文上限
 BLOCK = 8 << 20
 
 T0 = time.time()
+T0_ISO = time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime(T0))
 LOCK = threading.Lock()
 ENTITIES_PATH = os.path.join(ROOT, 'data', 'saga_clients', 'entities.json')
 
@@ -343,6 +346,19 @@ def iter_messages(chain, start_offset=0, tail_sink=None):
 
 
 # ---------------------------------------------------------------- 来源：下载 / 展开
+def abort(code, why):
+    """中止前把原因写进 OUT/_run_status.md 并提交（代理读不到 Actions 日志，只能看分支提交）。"""
+    log('ABORT:', why)
+    try:
+        os.makedirs(OUT, exist_ok=True)
+        with open(os.path.join(OUT, '_run_status.md'), 'w', encoding='utf-8') as f:
+            f.write(f'# Gmail({ACCOUNT}) 入库运行状态\n\n- {now()} **ABORT（exit {code}）**：{why}\n')
+        git_commit_push(f'T29: Gmail({ACCOUNT}) 入库中止：{why[:80]}')
+    except Exception as e:  # noqa
+        log('abort note failed', e)
+    sys.exit(code)
+
+
 def resolve_sources():
     """返回 [(label, path)]：本地 zip/tgz/mbox 文件列表（已下载）。"""
     os.makedirs(RAW_DIR, exist_ok=True)
@@ -354,8 +370,7 @@ def resolve_sources():
         os.makedirs(d, exist_ok=True)
         r = run(['gh', 'release', 'download', SOURCE_RELEASE, '-D', d, '--clobber'], timeout=7200)
         if r.returncode != 0:
-            log('release download failed:', (r.stderr or r.stdout)[-400:])
-            sys.exit(3)
+            abort(3, 'release download failed: ' + (r.stderr or r.stdout)[-300:])
         # 分卷 .partNN → 合并
         parts = defaultdict(list)
         for fn in sorted(os.listdir(d)):
@@ -373,36 +388,54 @@ def resolve_sources():
     elif SOURCE_IDS:
         dm = drive_mod()
         import requests
-        for fid in SOURCE_IDS:
+        for i, fid in enumerate(SOURCE_IDS):
             name = fid
-            try:  # 先探一下文件名（Content-Disposition）
+            expect = 0
+            want_md5 = SOURCE_MD5[i] if i < len(SOURCE_MD5) and re.fullmatch(r'[0-9a-f]{32}', SOURCE_MD5[i] or '') else ''
+            try:  # 先探一下文件名（Content-Disposition）和大小（Content-Length）
                 with requests.get(dm.DL_URL.format(id=fid), stream=True, timeout=(15, 60), headers={'User-Agent': 'Mozilla/5.0'}) as r:
                     cd = r.headers.get('Content-Disposition', '')
                     m = re.search(r"filename\*=UTF-8''([^;]+)", cd) or re.search(r'filename="?([^";]+)"?', cd)
                     if m:
                         from urllib.parse import unquote
                         name = unquote(m.group(1))
+                    if 'text/html' not in r.headers.get('Content-Type', ''):
+                        expect = int(r.headers.get('Content-Length') or 0)
                     if 'text/html' in r.headers.get('Content-Type', ''):
                         body = r.content[:6000].decode('utf-8', 'ignore')
                         if 'ServiceLogin' in body or 'accounts.google.com' in body or 'Request access' in body:
-                            log(f'ABORT: {fid} 未共享（返回登录页）；请把导出件设为「知道链接的任何人可查看」后重跑')
-                            sys.exit(2)
+                            abort(2, f'{fid} 未共享（返回登录页）；请把导出件设为「知道链接的任何人可查看」后重跑')
             except SystemExit:
                 raise
             except Exception as e:  # noqa
                 log('probe failed', fid, e)
             ext = os.path.splitext(name)[1].lower() or '.zip'
             dest = os.path.join(RAW_DIR, re.sub(r'[^\w.\-]+', '_', name) if name != fid else f'{fid}{ext}')
-            if os.path.exists(dest) and os.path.getsize(dest) > 0:
-                log('reuse downloaded', dest)
-            else:
-                log('download', fid, '→', dest)
-                err = dm.download({'id': fid, 'ext': ext, 'path': '', 'folder': '', 'name': name}, dest)
-                if err:
-                    log('download failed', fid, err)
-                    if err.startswith('NOT_SHARED'):
-                        sys.exit(2)
-                    sys.exit(3)
+            for attempt in (1, 2):
+                if os.path.exists(dest) and os.path.getsize(dest) > 0 and (not expect or os.path.getsize(dest) == expect):
+                    log('reuse downloaded' if attempt == 1 else 'downloaded', dest, os.path.getsize(dest), 'bytes')
+                else:
+                    if os.path.exists(dest):
+                        os.remove(dest)
+                    log('download', fid, '→', dest, f'(expect {expect} bytes)' if expect else '')
+                    err = dm.download({'id': fid, 'ext': ext, 'path': '', 'folder': '', 'name': name, 'bytes': expect}, dest)
+                    if err:
+                        abort(2 if err.startswith('NOT_SHARED') else 3, f'download failed {fid}: {err}')
+                got = os.path.getsize(dest)
+                ok = (not expect or got == expect)
+                if ok and want_md5:
+                    h = hashlib.md5()
+                    with open(dest, 'rb') as f:
+                        for chunk in iter(lambda: f.read(1 << 22), b''):
+                            h.update(chunk)
+                    ok = h.hexdigest() == want_md5
+                    log(f'md5 {dest}: {h.hexdigest()} {"== " if ok else "!= "}{want_md5}')
+                if ok:
+                    break
+                log(f'VERIFY FAILED (attempt {attempt}): {dest} size {got} expect {expect}')
+                if attempt == 2:
+                    abort(3, f'download verify failed twice: {dest} size {got} expect {expect} md5 {want_md5 or "-"}')
+                os.remove(dest)
             paths.append((os.path.basename(dest), dest))
     else:
         log('no source: set SOURCE_IDS / SOURCE_RELEASE / LOCAL_FILES')
@@ -424,11 +457,14 @@ def mbox_openers(paths):
                 log('WARN: no .mbox in', p, '→ entries:', zf.namelist()[:10])
             for n in names:
                 openers.append((f'{label}!{n}', (lambda zf=zf, n=n: zf.open(n)), zf.getinfo(n).file_size))
+            keep_side_files(label, [(zi.filename, zi.file_size, (lambda zi=zi: zf.open(zi))) for zi in zf.infolist() if not zi.is_dir()])
         elif low.endswith(('.tgz', '.tar.gz', '.tar')):
             d = os.path.join(RAW_DIR, 'untar_' + re.sub(r'\W+', '_', label))
             os.makedirs(d, exist_ok=True)
             with tarfile.open(p, 'r:*') as tf:
                 for ti in tf:
+                    if ti.isfile() and not ti.name.lower().endswith('.mbox') and ti.size <= 4 << 20:
+                        keep_side_files(label, [(ti.name, ti.size, (lambda tf=tf, ti=ti: tf.extractfile(ti)))])
                     if ti.isfile() and ti.name.lower().endswith('.mbox'):
                         out = os.path.join(d, os.path.basename(ti.name))
                         if not os.path.exists(out) or os.path.getsize(out) != ti.size:
@@ -445,6 +481,25 @@ def mbox_openers(paths):
 
 def natural_key(s):
     return [int(t) if t.isdigit() else t.lower() for t in re.split(r'(\d+)', s)]
+
+
+def keep_side_files(label, entries):
+    """Takeout 里 .mbox 之外的小文件（User Settings/*.json：签名、自动回复、屏蔽地址、过滤器；archive_browser.html 除外）
+    原样存到 OUT/settings/ ——「只要是信息都入库」。"""
+    d = os.path.join(OUT, 'settings')
+    for name, size, opener in entries:
+        low = name.lower()
+        if low.endswith('.mbox') or size > 4 << 20 or os.path.basename(low) in ('archive_browser.html',):
+            continue
+        rel = re.sub(r'^takeout/', '', name, flags=re.I)
+        dest = os.path.join(d, re.sub(r'[^\w.\-/ ]+', '_', rel))
+        os.makedirs(os.path.dirname(dest), exist_ok=True)
+        try:
+            with opener() as src, open(dest, 'wb') as w:
+                w.write(src.read())
+            log(f'side file kept: {label}!{name} → {os.path.relpath(dest, OUT)} ({size} B)')
+        except Exception as e:  # noqa
+            log('side file failed', name, e)
 
 
 # ---------------------------------------------------------------- 客户关联
@@ -1081,7 +1136,8 @@ def coverage_md(manifest, stats, clients):
     for b in manifest.get('batches', []):
         L.append(f'- 批次 {b.get("id")}：{len(b.get("files", []))} 个文件 / mbox 条目 {b.get("entries", "?")} 个 / 流总长 {b.get("total_bytes", 0) / 1e9:.2f} GB，'
                  f'已处理到偏移 {b.get("offset", 0) / 1e9:.2f} GB，{b.get("messages", 0):,} 封，{"✅ 完成" if b.get("done") else "⏳ 未完"}'
-                 + (f'，批尾 carry {b.get("carry_bytes")} B 交下一批' if b.get('carry_bytes') else ''))
+                 + (f'，批尾 carry {b.get("carry_bytes")} B 交下一批' if b.get('carry_bytes') else '')
+                 + ('' if b.get('starts_with_separator', True) else '，**⚠️ 流开头不是 `From ` 分隔行——前面可能缺一卷**'))
     L.append(f'- 规则：**full** = 全文（非群发 / 本邮箱发出 / 本邮箱回过的线程 / 对方是 Saga Clients 里的客户 / 加星 / 重要）；'
              f'**snippet** = 群发与通知类只留头部 + 前 {SNIPPET} 字；附件按 sha256 去重抽正文（≤{ATTACH_MAX // 1024 // 1024} MB，文档类；图片 OCR={"开" if OCR else "关"}）')
     bk = manifest.get('backup', {})
@@ -1341,6 +1397,11 @@ def main():
     prog = manifest['progress'] = batch          # 兼容旧字段：progress 指向当前批
     prog.update({'entries': len(openers), 'entry_names': [o[0] for o in openers][:50], 'total_bytes': total})
     start = 0 if FORCE else int(prog.get('offset', 0) or 0)
+    if start == 0 and total:
+        head = Chain([(o[0], o[1]) for o in openers]).read(5)
+        prog['starts_with_separator'] = (head == b'From ')
+        if head != b'From ':
+            log(f'WARN: stream does not start with a "From " separator (first bytes {head!r}) → 可能缺前一卷 / 前一批')
     if prog.get('done') and not FORCE:
         log(f'batch {bid} already done; rebuilding indexes only')
         start = total
@@ -1382,6 +1443,10 @@ def main():
         prog['messages'] = n_before + n
         manifest['status'] = 'done' if final else 'partial'
         write_json(os.path.join(OUT, 'manifest.json'), manifest)
+        with open(os.path.join(OUT, '_run_status.md'), 'w', encoding='utf-8') as f:   # 运行状态（代理读不到 Actions 日志，只看这里）
+            f.write(f'# Gmail({ACCOUNT}) 入库运行状态\n\n- {now()} 批次 {bid}：{"✅ 完成" if final else "⏳ 运行中/阶段提交"}，'
+                    f'偏移 {last_off:,}/{total:,}（{(last_off / total * 100) if total else 0:.1f}%），本批 {n_before + n:,} 封，'
+                    f'开跑 {T0_ISO}，已用 {(time.time() - T0) / 60:.0f} min\n')
 
     for off, body_off, raw in iter_messages(chain, start, tail_sink):
         if LIMIT and n >= LIMIT:

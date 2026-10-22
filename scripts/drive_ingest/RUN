@@ -2,4 +2,10 @@
 # - 默认（没有 JOB 行）= Drive《SmartByte》入库的续跑/补漏：只处理 fail / pending 的文件，备份已完成的文件夹不会被覆盖（新文件单独打 *_retry* 分卷）。
 # - 写入 KEY=VALUE 行 JOB=gmail / ACCOUNT=s / SOURCE_IDS=<Drive 文件 ID,…> 则转交 scripts/gmail_ingest/ingest.py（T29，见该目录 操作步骤.md）；
 #   再跑 Drive 任务前要把 JOB 行删掉或注释掉。
-# last trigger: 2026-10-22T02:22:20Z  purpose: 补漏重试 MC/Price List.xlsx（假 xlsx → extract_excel_any）
+# last trigger: 2026-10-22T03:30:40Z  purpose: T29 S 邮箱 Takeout 入库（All mail Including Spam and Trash-002.mbox 6.48 GB + takeout-…-1-001.zip 用户设置；全文模式、图片 OCR 开）
+JOB=gmail
+ACCOUNT=s
+SOURCE_IDS=1j6FshrtET737Za1-ABWvutOGa9zzpJy-,19kP3mrq-GEr40ri6h2WES2kttrFqQX-J
+SOURCE_MD5=5135bf1f5c277ccbf591ae300a8dfe4f,cd19534f42214ddd8049b6ed61e82b97
+BULK_MODE=full
+OCR=1
