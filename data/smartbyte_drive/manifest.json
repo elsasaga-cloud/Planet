@@ -5076,12 +5076,14 @@
 "todo":2385,
 "workers":6,
 "backup":true,
-"ocr":true
+"ocr":true,
+"finished":"2026-10-22T02:21:29Z",
+"processed":2385
 }
 ],
 "files_total_in_index":2385,
 "index_source":"Google Drive 文件夹《SmartByte》(id 1jI4rZhiG16A8ztB2LK-2YYlolxMbPLzQ)，Simon 于 2026-10-20 上传",
-"updated_at":"2026-10-22T02:21:27Z",
+"updated_at":"2026-10-22T02:21:29Z",
 "files_in_manifest":2385,
 "status_counts":{
 "ok":829,
