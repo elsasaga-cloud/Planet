@@ -1110,6 +1110,36 @@
 "uploaded":true
 }
 ]
+},
+"STH100G":{
+"done":true,
+"at":"2026-10-22T08:48:21Z",
+"files":6,
+"bytes":32214345,
+"parts":[
+{
+"asset":"smartbyte_drive_STH100G_part01.zip",
+"bytes":32215511,
+"sha256":"02643220035b3203675a84d83f044bfacd9f543d6c8eb5d05c654ee6c7a98cb1",
+"files":[
+"1eHfmY1khz85LvD2gF_wzms7ouA7E6FMr",
+"1VHdjw6a6sfZaS_KgUpO6FuCTULCt8rV7",
+"1PxVUYRbSBEqkcVVEVrZLVjQKcRjplyOi",
+"1fSvY5BgTFrLoFBcvkMSynAr_E1FbuGW2",
+"1QHnTnGWvdkENXVTlx-Wih1O3vV4ZXsMf",
+"1onWsKSqbTznaql0ETHsIALVo0pih7RR6"
+],
+"paths":[
+"CENTEC Based High-Speed Network/STH100G/STH100G Series.pptx",
+"CENTEC Based High-Speed Network/STH100G/STH-32C-HSI/1.png",
+"CENTEC Based High-Speed Network/STH100G/STH-32C-HSI/2.png",
+"CENTEC Based High-Speed Network/STH100G/STH-32C-HSI/3.png",
+"CENTEC Based High-Speed Network/STH100G/STH-32C-HSI/4.png",
+"CENTEC Based High-Speed Network/STH100G/STH-32C-HSI/5.png"
+],
+"uploaded":true
+}
+]
 }
 },
 "runs":[
@@ -1123,11 +1153,11 @@
 ],
 "files_total_in_index":453,
 "index_source":"Google Drive 文件夹《Realtek Based Commercial Switch》(id 17hEtGThaxugf-ngPfyNYYcuIzeEoT5p0) 与《CENTEC Based High-Speed Network》(id 1nKIZPptuYQhoUs0FbjyXYStrn2sl4iRU)，Simon 于 2026-10-20 上传；对应供应商 HRUI（hruitech.com，Realtek 芯片）与 Hohunet（hohunet.com，CENTEC 芯片）",
-"updated_at":"2026-10-22T08:48:03Z",
-"files_in_manifest":447,
+"updated_at":"2026-10-22T08:48:21Z",
+"files_in_manifest":453,
 "status_counts":{
-"ok":182,
-"meta":200,
+"ok":183,
+"meta":205,
 "dup":65
 },
 "release_tag":"drive-suppliers-20261022"
@@ -1242,6 +1272,173 @@
 "index_summary":"VastLakes 平台性能参数 PPT V3.1（未打开）",
 "bytes_actual":84282,
 "secs":2.2
+},
+"1VHdjw6a6sfZaS_KgUpO6FuCTULCt8rV7":{
+"id":"1VHdjw6a6sfZaS_KgUpO6FuCTULCt8rV7",
+"name":"1.png",
+"path":"CENTEC Based High-Speed Network/STH100G/STH-32C-HSI/1.png",
+"folder":"CENTEC Based High-Speed Network/STH100G/STH-32C-HSI",
+"top":"STH100G",
+"type":"图片",
+"ext":".png",
+"bytes":5834347,
+"sha256":"e018c7e908236d09aa5b5a994b151867d5bef19c38a84afd4b619429164bc388",
+"status":"meta",
+"method":"pillow+tesseract",
+"chars":0,
+"same_as":"",
+"text_file":"",
+"thumb":"thumbs/1VHdjw6a6sfZaS_KgUpO6FuCTULCt8rV7.jpg",
+"error":"",
+"at":"2026-10-22T08:48:05Z",
+"index_summary":"STH-32C-HSI 产品图 1/5（外观/端口/细节，未逐张查看）",
+"bytes_actual":5834347,
+"meta":{
+"format":"PNG",
+"width":3840,
+"height":2160,
+"mode":"RGBA",
+"thumb_bytes":5571
+},
+"secs":5.0
+},
+"1PxVUYRbSBEqkcVVEVrZLVjQKcRjplyOi":{
+"id":"1PxVUYRbSBEqkcVVEVrZLVjQKcRjplyOi",
+"name":"2.png",
+"path":"CENTEC Based High-Speed Network/STH100G/STH-32C-HSI/2.png",
+"folder":"CENTEC Based High-Speed Network/STH100G/STH-32C-HSI",
+"top":"STH100G",
+"type":"图片",
+"ext":".png",
+"bytes":4969193,
+"sha256":"52441a58550e8c8054256c3e60ec02c927c59ae5074420bad85c2b49a04c0bc9",
+"status":"meta",
+"method":"pillow+tesseract",
+"chars":0,
+"same_as":"",
+"text_file":"",
+"thumb":"thumbs/1PxVUYRbSBEqkcVVEVrZLVjQKcRjplyOi.jpg",
+"error":"",
+"at":"2026-10-22T08:48:05Z",
+"index_summary":"STH-32C-HSI 产品图 2/5（外观/端口/细节，未逐张查看）",
+"bytes_actual":4969193,
+"meta":{
+"format":"PNG",
+"width":3840,
+"height":2160,
+"mode":"RGBA",
+"thumb_bytes":4578
+},
+"secs":4.1
+},
+"1fSvY5BgTFrLoFBcvkMSynAr_E1FbuGW2":{
+"id":"1fSvY5BgTFrLoFBcvkMSynAr_E1FbuGW2",
+"name":"3.png",
+"path":"CENTEC Based High-Speed Network/STH100G/STH-32C-HSI/3.png",
+"folder":"CENTEC Based High-Speed Network/STH100G/STH-32C-HSI",
+"top":"STH100G",
+"type":"图片",
+"ext":".png",
+"bytes":5074447,
+"sha256":"987ee39802cf58db7b5cb8a07f88df3f098df68fc6626d0bb57ef09b9df45ad4",
+"status":"meta",
+"method":"pillow+tesseract",
+"chars":0,
+"same_as":"",
+"text_file":"",
+"thumb":"thumbs/1fSvY5BgTFrLoFBcvkMSynAr_E1FbuGW2.jpg",
+"error":"",
+"at":"2026-10-22T08:48:05Z",
+"index_summary":"STH-32C-HSI 产品图 3/5（外观/端口/细节，未逐张查看）",
+"bytes_actual":5074447,
+"meta":{
+"format":"PNG",
+"width":3840,
+"height":2160,
+"mode":"RGBA",
+"thumb_bytes":4633
+},
+"secs":4.3
+},
+"1QHnTnGWvdkENXVTlx-Wih1O3vV4ZXsMf":{
+"id":"1QHnTnGWvdkENXVTlx-Wih1O3vV4ZXsMf",
+"name":"4.png",
+"path":"CENTEC Based High-Speed Network/STH100G/STH-32C-HSI/4.png",
+"folder":"CENTEC Based High-Speed Network/STH100G/STH-32C-HSI",
+"top":"STH100G",
+"type":"图片",
+"ext":".png",
+"bytes":6578392,
+"sha256":"21d1bfac6b73c0616d0b855f954da9a485ee82095beebaec5a125b6aba796ab5",
+"status":"meta",
+"method":"pillow+tesseract",
+"chars":0,
+"same_as":"",
+"text_file":"",
+"thumb":"thumbs/1QHnTnGWvdkENXVTlx-Wih1O3vV4ZXsMf.jpg",
+"error":"",
+"at":"2026-10-22T08:48:05Z",
+"index_summary":"STH-32C-HSI 产品图 4/5（外观/端口/细节，未逐张查看）",
+"bytes_actual":6578392,
+"meta":{
+"format":"PNG",
+"width":3840,
+"height":2160,
+"mode":"RGBA",
+"thumb_bytes":5264
+},
+"secs":4.7
+},
+"1onWsKSqbTznaql0ETHsIALVo0pih7RR6":{
+"id":"1onWsKSqbTznaql0ETHsIALVo0pih7RR6",
+"name":"5.png",
+"path":"CENTEC Based High-Speed Network/STH100G/STH-32C-HSI/5.png",
+"folder":"CENTEC Based High-Speed Network/STH100G/STH-32C-HSI",
+"top":"STH100G",
+"type":"图片",
+"ext":".png",
+"bytes":3012067,
+"sha256":"3aa11167b6312f42926254002abed2474c76e934cc6f9ad29bf0c7be48700014",
+"status":"meta",
+"method":"pillow+tesseract",
+"chars":0,
+"same_as":"",
+"text_file":"",
+"thumb":"thumbs/1onWsKSqbTznaql0ETHsIALVo0pih7RR6.jpg",
+"error":"",
+"at":"2026-10-22T08:48:05Z",
+"index_summary":"STH-32C-HSI 产品图 5/5（外观/端口/细节，未逐张查看）",
+"bytes_actual":3012067,
+"meta":{
+"format":"PNG",
+"width":3840,
+"height":2160,
+"mode":"RGBA",
+"thumb_bytes":5607
+},
+"secs":11.9
+},
+"1eHfmY1khz85LvD2gF_wzms7ouA7E6FMr":{
+"id":"1eHfmY1khz85LvD2gF_wzms7ouA7E6FMr",
+"name":"STH100G Series.pptx",
+"path":"CENTEC Based High-Speed Network/STH100G/STH100G Series.pptx",
+"folder":"CENTEC Based High-Speed Network/STH100G",
+"top":"STH100G",
+"type":"PPT",
+"ext":".pptx",
+"bytes":6745899,
+"sha256":"eb9bd19c3e768434889e2834bae1804aec63eabb6141adbca226987a9a4c0a04",
+"status":"ok",
+"method":"python-pptx",
+"chars":5651,
+"same_as":"",
+"text_file":"text/1eHfmY1khz85LvD2gF_wzms7ouA7E6FMr.json",
+"thumb":"",
+"error":"",
+"at":"2026-10-22T08:48:05Z",
+"index_summary":"STH 100G 系列产品介绍 PPT（未打开）",
+"bytes_actual":6745899,
+"secs":1.9
 },
 "1XCEWLS8TXvFS01qMHaVwKfCv0Eaq61SY":{
 "id":"1XCEWLS8TXvFS01qMHaVwKfCv0Eaq61SY",
