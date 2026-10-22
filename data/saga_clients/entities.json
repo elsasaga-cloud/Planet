@@ -5372,9 +5372,23 @@
 "quote": "Vendor OID is still 0 … System MAC Address: fc:cd:2f:d0:4f:db PID: STC-4168XGGCM, Hardware Version: V1.1, Serial Number: 202509160001 … Thank you, with this data update the OID was updated, working as expected now.",
 "url": "data/gmail_s/messages/2025/2025-12.jsonl（f.kriewitz@nynex.de 2025-12-10 / 12-17 / 12-18）+ https://github.com/librenms/librenms/pull/18681",
 "date": "2026-10-22"
+},
+{
+"kind": "S 邮箱原文（三方线程）",
+"claim": "Peter（SmartByte）2025-03-26 书面向 NYNEX 说明关系：SmartByte 是 OEM/ODM 工厂，Saga 是其欧洲市场的代表伙伴，今后要买 SmartByte 产品「contact Simon directly」；Frederik 2025-03-25 称要向 compliance department 报备；2025-03-27 NYNEX 自有 PEN 44770 但选择用 SmartByte PEN 并要求用 SmartByte 标准型号",
+"quote": "Saga Telecom is our partner who represent SmartByte to promote SmartByte's products all over the Europe market. If you are interests in SmartByte's products in future, you can contact Simon directly.",
+"url": "data/gmail_s/messages/2025/2025-03.jsonl（peter@smartbyte.com.cn 2025-03-26；f.kriewitz@nynex.de 2025-03-25/27）",
+"date": "2025-03-26"
+},
+{
+"kind": "微信 OCR（Simon↔Peter 2024-11-15）",
+"claim": "NYNEX 首次询问时自述有 SONiC 移植经验（Broadcom），问 Marvell 芯片/CPU/内存与软件是否自研；Peter 答平台 Marvell 98DX336S / Flash 512M / DRAM 512M / ARM v7 800M、软件自研；100G 为 Aldrin2/Falcon 但系他客户 NDA 定制不卖；双 AC 样品机壳 +200 RMB",
+"quote": "We've some experience with porting the open source SONiC network operation system to Broadcom devices. As there's some basic marvel support it might be easy to add support for your hardware.",
+"url": "data/wechat_smartbyte_ocr/Weixin Image_2026-10-20_140337_791.txt",
+"date": "2024-11-15"
 }
 ],
-"notes": "A 维持：运营商持续采购楼宇接入交换机（48 口/L2+/2.5G 上联）与贴牌 MC/SFP；P1 改 STC-448XGGPM 或 STC-424XGGPM-280W（10G 上联）。\n【2026-10-22 复盘补】NYNEX 2025-03 的 SNMP/MIB 合规追问是「工程型缓冲层」的真实考题：欧洲客户会用 snmpwalk 核 OID 归属。Saga 应自己申请一个 IANA PEN（免费、在线表单、约 1–2 周）并要求 SmartByte 在 Saga 版固件里只保留 Saga PEN 下的私有 MIB；给 NYNEX/德国客户的 OEM 说明要能回答「OEM 数据是固件内写死还是独立配置分区」。对应 Q-35。 ｜ 针对性加厚 2026-10-22（S 邮箱 2026-09/10 第 6 单，T29-U13 ②）",
+"notes": "A 维持：运营商持续采购楼宇接入交换机（48 口/L2+/2.5G 上联）与贴牌 MC/SFP；P1 改 STC-448XGGPM 或 STC-424XGGPM-280W（10G 上联）。\n【2026-10-22 复盘补】NYNEX 2025-03 的 SNMP/MIB 合规追问是「工程型缓冲层」的真实考题：欧洲客户会用 snmpwalk 核 OID 归属。Saga 应自己申请一个 IANA PEN（免费、在线表单、约 1–2 周）并要求 SmartByte 在 Saga 版固件里只保留 Saga PEN 下的私有 MIB；给 NYNEX/德国客户的 OEM 说明要能回答「OEM 数据是固件内写死还是独立配置分区」。对应 Q-35。 ｜ 针对性加厚 2026-10-22（S 邮箱 2026-09/10 第 6 单，T29-U13 ②） ｜ 【Simon 2026-10-22 口径】NYNEX 由 Peter 技术跟进、只能在 Saga 下单；宣传 SmartByte 品牌是合作约定 → 之前「Saga 自申 PEN」建议作废。维护计划见 docs/成单客户_NYNEX_维护计划_2026-10-22.md",
 "researched_at": "2026-10-22",
 "deep": {
 "done_at": "2026-10-21",
@@ -5461,7 +5475,15 @@
 "mail_update_2026-10-22": "第 6 单：20 × STC-4168XGGCM @2,015 RMB（$300 / €265.2），EUR 付款 2026-10-15，投产 2026-10-17，客户要求 SmartByte 原名与 OID"
 },
 "grade_override": "A",
-"override_reason": "PI 包成单客户，Simon 标签 活跃 → A"
+"override_reason": "PI 包成单客户，Simon 标签 活跃 → A",
+"next_steps": [
+"本单闭环：固件版本/OID 56166/SmartByte 型号字符串确认 → SN+MAC 清单 → 测试报告 → 尺寸重量 → 追踪号 → 到货后问 LibreNMS 识别",
+"补 CENTEC 报价欠账（2026-01-20 他要的 datasheets + pricing）",
+"专属备货协议（dual-AC 常备 N 台 + 价格锁 6 个月）",
+"7.5 固件 MIB 包 + LLDP-V2-MIB 状态 + snmprec",
+"备件：PSU / 风扇模块",
+"让 Peter 出盖章授权函（compliance）"
+]
 }
 },
 {

@@ -129,11 +129,17 @@ updated: 2026-10-22
 - **【S 邮箱原文 + GitHub 对齐】LibreNMS 支持的来龙去脉：2025-02-11 测试反馈（无 PSU/风扇/温度监控、SNMP 基础、缺 LLDP-V2-MIB/DDM，选 BDCOM S2900）→ 2025-12-10 指出固件企业号=0、旧固件为 57430（Fuzhou Dockeer）→ 2025-12-17 Simon 发修复固件 hotfix/7.4.7 r1540（OID=56166）→ 12-18 确认生效 → 12-19 Frederik 开 LibreNMS PR #18681（2026-01-11 合并，26.1.0 发布）。show version 显示 System MAC fc:cd:2f:d0:4f:db（SmartByte MA-M 块内）、PID STC-4168XGGCM V1.1、SN 202509160001**
   > Vendor OID is still 0 … System MAC Address: fc:cd:2f:d0:4f:db PID: STC-4168XGGCM, Hardware Version: V1.1, Serial Number: 202509160001 … Thank you, with this data update the OID was updated, working as expected now.
   > 来源：data/gmail_s/messages/2025/2025-12.jsonl（f.kriewitz@nynex.de 2025-12-10 / 12-17 / 12-18）+ https://github.com/librenms/librenms/pull/18681（抓取 2026-10-22）
+- **【S 邮箱原文（三方线程）】Peter（SmartByte）2025-03-26 书面向 NYNEX 说明关系：SmartByte 是 OEM/ODM 工厂，Saga 是其欧洲市场的代表伙伴，今后要买 SmartByte 产品「contact Simon directly」；Frederik 2025-03-25 称要向 compliance department 报备；2025-03-27 NYNEX 自有 PEN 44770 但选择用 SmartByte PEN 并要求用 SmartByte 标准型号**
+  > Saga Telecom is our partner who represent SmartByte to promote SmartByte's products all over the Europe market. If you are interests in SmartByte's products in future, you can contact Simon directly.
+  > 来源：data/gmail_s/messages/2025/2025-03.jsonl（peter@smartbyte.com.cn 2025-03-26；f.kriewitz@nynex.de 2025-03-25/27）（抓取 2025-03-26）
+- **【微信 OCR（Simon↔Peter 2024-11-15）】NYNEX 首次询问时自述有 SONiC 移植经验（Broadcom），问 Marvell 芯片/CPU/内存与软件是否自研；Peter 答平台 Marvell 98DX336S / Flash 512M / DRAM 512M / ARM v7 800M、软件自研；100G 为 Aldrin2/Falcon 但系他客户 NDA 定制不卖；双 AC 样品机壳 +200 RMB**
+  > We've some experience with porting the open source SONiC network operation system to Broadcom devices. As there's some basic marvel support it might be easy to add support for your hardware.
+  > 来源：data/wechat_smartbyte_ocr/Weixin Image_2026-10-20_140337_791.txt（抓取 2024-11-15）
 - **KP**：Frederik Kriewitz（Systems Engineer / 网络负责人（RIPE 联系人、政策文件署名人；成单联系人））f.kriewitz@nynex.de +49 6151 50074-009〔https://ipinfo.io/AS200519/178.17.236.0/23 + 用户表〕
 - **KP**：Gunter Frank（创始人/合伙人（1999/2000 创立）） 〔https://nynex.de/company/〕
 - **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 活跃 → A
 - 备注：A 维持：运营商持续采购楼宇接入交换机（48 口/L2+/2.5G 上联）与贴牌 MC/SFP；P1 改 STC-448XGGPM 或 STC-424XGGPM-280W（10G 上联）。
-【2026-10-22 复盘补】NYNEX 2025-03 的 SNMP/MIB 合规追问是「工程型缓冲层」的真实考题：欧洲客户会用 snmpwalk 核 OID 归属。Saga 应自己申请一个 IANA PEN（免费、在线表单、约 1–2 周）并要求 SmartByte 在 Saga 版固件里只保留 Saga PEN 下的私有 MIB；给 NYNEX/德国客户的 OEM 说明要能回答「OEM 数据是固件内写死还是独立配置分区」。对应 Q-35。 ｜ 针对性加厚 2026-10-22（S 邮箱 2026-09/10 第 6 单，T29-U13 ②）
+【2026-10-22 复盘补】NYNEX 2025-03 的 SNMP/MIB 合规追问是「工程型缓冲层」的真实考题：欧洲客户会用 snmpwalk 核 OID 归属。Saga 应自己申请一个 IANA PEN（免费、在线表单、约 1–2 周）并要求 SmartByte 在 Saga 版固件里只保留 Saga PEN 下的私有 MIB；给 NYNEX/德国客户的 OEM 说明要能回答「OEM 数据是固件内写死还是独立配置分区」。对应 Q-35。 ｜ 针对性加厚 2026-10-22（S 邮箱 2026-09/10 第 6 单，T29-U13 ②） ｜ 【Simon 2026-10-22 口径】NYNEX 由 Peter 技术跟进、只能在 Saga 下单；宣传 SmartByte 品牌是合作约定 → 之前「Saga 自申 PEN」建议作废。维护计划见 docs/成单客户_NYNEX_维护计划_2026-10-22.md
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
 
