@@ -1,0 +1,396 @@
+{
+"id":"1DCt2QCSHLkk3TZsEEgXEJ2LiC_olF86v",
+"name":"LT-IS3206F-2FX4TX neutral datasheet.docx",
+"path":"SmartByte/Managed Industrial Ethernet Switch_最新资料/Managed industrial Ethernet Switches/Layer 2/100M/LT-IS3206F-2FX4TX neutral datasheet.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":290322,
+"sha256":"bc0cbfa8107667d829d6c5df48919af3bd289fd49578caae586e5b029d545201",
+"extracted_at":"2026-10-22T02:07:37Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":5446,
+"meta":{
+"title":"",
+"author":"雙燕飛",
+"last_modified_by":"Peter Hu",
+"created":"2021-12-06T02:50:00+00:00",
+"modified":"2026-03-03T08:51:00+00:00",
+"paragraphs":19,
+"tables":2,
+"embedded_images":2
+},
+"warnings":[],
+"text":"4*10/100Base-TX + 2*100Base-FX SFP\nManaged Industrial Ethernet Switch\nLT-IS3206F-2FX4TX\nFeatures:\n➢ 4*10/100Base-TX RJ45 ports, 2*100Base-FX SFP ports\n➢ DC 12~58V input, redundant power supply with polarity reverse protection\n➢  Support Layer 2 management function:\nVLAN/Port Mirroring/IGMP/QoS/LLDP/802.1X/Fiber transceiver DDM\n/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading\n➢ Support G.8032 ERPS protocol, recovery time ≤20ms\n➢ Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n➢ IP40 fan-less and Din-rail hardware design\n➢ Operation temperature: -40 ℃ ~+75℃\nOverview\nThe SmartByte LT-IS3206F-2FX4TX is a highly reliable industrial managed PoE Switch with 4-port 10/100Base-TX and 2-port 100Base-FX fiber optical interfaces. It supports ERPS redundant network and the self-recovery mechanism is less than 20ms on full load which allows you to scheme a reliable Ethernet network by building a redundant ring topology as your back-up solution. LT-IS3206F-2FX4TX supports Web/SNMP/Telnet management, the managed features are such as QoS, VLAN, IGMP, Port mirroring, 802.1X, LLDP, Fiber transceiver DDM, IPV6 management and so on.\nLT-IS3206F-2FX4TX is also a high cost-effective easy-to-use device, which provides essential industrial Ethernet networking function, including wide range power input 12-58VDC, redundant power design with polarity reverse protection, robust IP40 fan-less housing with Din-rail installation, wide operation temperature from -40°C to 75°C as well as high-level EMI/EMC capability. It is the best choice for heavy industrial factory, transportation, oil & gas, chemical, IP Surveillance and processing automation area where environmental conditions are harsh and crucial.\nTechnical specification\nModel No.\tLT-IS3206F-2FX4TX\nInterface\tFiber ports\tCopper RJ45 ports\nInterface\t2\t4\nEthernet\t4*10/100-TX RJ45 / 2*100Base-FX SFP\nManagement port\t1*RJ45 Console\nStandard\tIEEE 802.3 10Base-T / IEEE 802.3u 100Base-TX / IEEE 802.3x flow control and back pressure / IEEE 802.1D spanning tree protocol / IEEE 802.1w rapid spanning tree protocol / IEEE 802.1Q VLAN tagging / ITU-T G.8032 ERPS / IEEE 802.1X port authentication network control / IEEE 802.1ab LLDP / IEEE 802.3ad LACP\nLED Indicators\nP(Power indicator)\tOff: the device is power off or failed\tOff: the device is power off or failed\nS(System status indicator)\tBlinking: device initialization\tOn: device on normal operation\n1-4 (Copper ports）\tGreen\tYellow\n1-4 (Copper ports）\tOff：ports link down\tOff: port speed on 10M\n1-4 (Copper ports）\tOn: ports link up\tOn: port speed on 100M\n1-4 (Copper ports）\tBlinking: data on TX/RX\t\n5-6（fiber ports）Green\tOff: ports link down\n5-6（fiber ports）Green\tOn: ports link up\n5-6（fiber ports）Green\tBlinking: data on TX/RX\nPower parameter\nInput voltage\t12-58VDC, redundant power input\nInput current\t0.5A Max\nTotal consumption\tFull loading ≤5 W\nConnector\tRemovable 4-pin terminal block\nReverse polarity protection\tSupport\nLayer 2 function\nPort aggregation\tSupport static aggregation / Support dynamic aggregation\nPort features\tSupport IEEE802.3x flow control, / Support Port traffic statistics / Support port isolation / Support network storm suppression based on port bandwidth percentage\nVLAN\tSupport access mode / Support trunk mode / Support hybrid mode\nPort mirroring\tSupport many to one port mirroring\nRing network protocol\tSupport STP、RSTP / Support G.8032 ERPS protocol，single ring, sub Ring and associated sub ring / Recovery time ≤20ms\nMulticast\tIGMP snooping\nQoS\tIngress Port-based Rate-limit / Egress Port-based Rate-limit\nSecurity features\tSupport 802.1x，port authentication，MAC authentication，RADIUS service / Support port isolation\nManagement   and maintenance\tSupport LLDP / Support user management and login authentication / Support SNMPV1/V2C/V3 / Support web management, HTTP1.1, HTTPS / Support Syslog and alarm grading / Support RMON (Remote Monitoring) alarm / Support NTP / Support Ping, Traceroute / Support optical transceiver DDM function / Support TFTP Client / Support Telnet Server / Support SSH Server / Support IPv6 Management / Support TFTP, web upgrading\nSwitching features\nSwitching capacity\t1.2Gbps\nPacket forwarding rate\t1.78Mpps\nMAC address table\t8K\nVLAN\t4K\nBuffer\t1M bit\nForwarding delay\t<5us\nJumbo Frame\tSupport 10Kbytes\nMDX/MIDX\tSupport\nWatchdog\tSupport\nMechanical structure\nCase protection\tIP40\nInstallation method\tDin-rail\nDimension(W*D*H) mm\t30*98*130mm\nWeight\t0.56 kg\nOperating environment\nOperating temperature\t-40℃~+75℃\nStorage/transportation temperature)\t-40℃~+85℃\nRelative humidity\tOperation humidity: 10%-90%RH / Storage humidity: 5%-95%RH\nIndustrial Standard\tSurge protection of power: IEC 61000-4-5  Level 3 (4KV/2KV）（8/20us)\nIndustrial Standard\tSurge protection of Ethernet ports: IEC 61000-4-5  Level 3 (4KV/2KV）（10/700us)\nIndustrial Standard\tDIP: IEC 61000-4-11  Level 3（10V）\nIndustrial Standard\tESD: IEC 61000-4-2  Level 4（8K/15K）\nIndustrial Standard\tShock：IEC 60068-2-27\nIndustrial Standard\tFree fall：IEC 60068-2-32\nIndustrial Standard\tVibration：IEC 60068-2-6\nCertification\tCCC/CE/UKCA/RoHS/REACH/FCC\nMTBF\t＞200,000 hours\nWarranty\t5 years\nStructure diagram\nOrder information\nModel\tDescription\nLT-IS3206F-2FX4TX\tManaged industrial Ethernet switch with 4*10/100Base-TX RJ45 ports and 2*100Base-FX SFP slots, DC12-58V, redundant dual power supply, Din-rail installation. Fiber ports transmission distance depending on the SFP module; Operation temperature: -40℃～+75℃",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"4*10/100Base-TX + 2*100Base-FX SFP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Managed Industrial Ethernet Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LT-IS3206F-2FX4TX"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Features:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ 4*10/100Base-TX RJ45 ports, 2*100Base-FX SFP ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ DC 12~58V input, redundant power supply with polarity reverse protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  Support Layer 2 management function:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"VLAN/Port Mirroring/IGMP/QoS/LLDP/802.1X/Fiber transceiver DDM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Support G.8032 ERPS protocol, recovery time ≤20ms"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ IP40 fan-less and Din-rail hardware design"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Operation temperature: -40 ℃ ~+75℃"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Overview"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The SmartByte LT-IS3206F-2FX4TX is a highly reliable industrial managed PoE Switch with 4-port 10/100Base-TX and 2-port 100Base-FX fiber optical interfaces. It supports ERPS redundant network and the self-recovery mechanism is less than 20ms on full load which allows you to scheme a reliable Ethernet network by building a redundant ring topology as your back-up solution. LT-IS3206F-2FX4TX supports Web/SNMP/Telnet management, the managed features are such as QoS, VLAN, IGMP, Port mirroring, 802.1X, LLDP, Fiber transceiver DDM, IPV6 management and so on."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LT-IS3206F-2FX4TX is also a high cost-effective easy-to-use device, which provides essential industrial Ethernet networking function, including wide range power input 12-58VDC, redundant power design with polarity reverse protection, robust IP40 fan-less housing with Din-rail installation, wide operation temperature from -40°C to 75°C as well as high-level EMI/EMC capability. It is the best choice for heavy industrial factory, transportation, oil & gas, chemical, IP Surveillance and processing automation area where environmental conditions are harsh and crucial."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Technical specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model No.",
+"LT-IS3206F-2FX4TX"
+],
+[
+"Interface",
+"Fiber ports",
+"Copper RJ45 ports"
+],
+[
+"Interface",
+"2",
+"4"
+],
+[
+"Ethernet",
+"4*10/100-TX RJ45 / 2*100Base-FX SFP"
+],
+[
+"Management port",
+"1*RJ45 Console"
+],
+[
+"Standard",
+"IEEE 802.3 10Base-T / IEEE 802.3u 100Base-TX / IEEE 802.3x flow control and back pressure / IEEE 802.1D spanning tree protocol / IEEE 802.1w rapid spanning tree protocol / IEEE 802.1Q VLAN tagging / ITU-T G.8032 ERPS / IEEE 802.1X port authentication network control / IEEE 802.1ab LLDP / IEEE 802.3ad LACP"
+],
+[
+"LED Indicators"
+],
+[
+"P(Power indicator)",
+"Off: the device is power off or failed",
+"Off: the device is power off or failed"
+],
+[
+"S(System status indicator)",
+"Blinking: device initialization",
+"On: device on normal operation"
+],
+[
+"1-4 (Copper ports）",
+"Green",
+"Yellow"
+],
+[
+"1-4 (Copper ports）",
+"Off：ports link down",
+"Off: port speed on 10M"
+],
+[
+"1-4 (Copper ports）",
+"On: ports link up",
+"On: port speed on 100M"
+],
+[
+"1-4 (Copper ports）",
+"Blinking: data on TX/RX",
+""
+],
+[
+"5-6（fiber ports）Green",
+"Off: ports link down"
+],
+[
+"5-6（fiber ports）Green",
+"On: ports link up"
+],
+[
+"5-6（fiber ports）Green",
+"Blinking: data on TX/RX"
+],
+[
+"Power parameter"
+],
+[
+"Input voltage",
+"12-58VDC, redundant power input"
+],
+[
+"Input current",
+"0.5A Max"
+],
+[
+"Total consumption",
+"Full loading ≤5 W"
+],
+[
+"Connector",
+"Removable 4-pin terminal block"
+],
+[
+"Reverse polarity protection",
+"Support"
+],
+[
+"Layer 2 function"
+],
+[
+"Port aggregation",
+"Support static aggregation / Support dynamic aggregation"
+],
+[
+"Port features",
+"Support IEEE802.3x flow control, / Support Port traffic statistics / Support port isolation / Support network storm suppression based on port bandwidth percentage"
+],
+[
+"VLAN",
+"Support access mode / Support trunk mode / Support hybrid mode"
+],
+[
+"Port mirroring",
+"Support many to one port mirroring"
+],
+[
+"Ring network protocol",
+"Support STP、RSTP / Support G.8032 ERPS protocol，single ring, sub Ring and associated sub ring / Recovery time ≤20ms"
+],
+[
+"Multicast",
+"IGMP snooping"
+],
+[
+"QoS",
+"Ingress Port-based Rate-limit / Egress Port-based Rate-limit"
+],
+[
+"Security features",
+"Support 802.1x，port authentication，MAC authentication，RADIUS service / Support port isolation"
+],
+[
+"Management   and maintenance",
+"Support LLDP / Support user management and login authentication / Support SNMPV1/V2C/V3 / Support web management, HTTP1.1, HTTPS / Support Syslog and alarm grading / Support RMON (Remote Monitoring) alarm / Support NTP / Support Ping, Traceroute / Support optical transceiver DDM function / Support TFTP Client / Support Telnet Server / Support SSH Server / Support IPv6 Management / Support TFTP, web upgrading"
+],
+[
+"Switching features"
+],
+[
+"Switching capacity",
+"1.2Gbps"
+],
+[
+"Packet forwarding rate",
+"1.78Mpps"
+],
+[
+"MAC address table",
+"8K"
+],
+[
+"VLAN",
+"4K"
+],
+[
+"Buffer",
+"1M bit"
+],
+[
+"Forwarding delay",
+"<5us"
+],
+[
+"Jumbo Frame",
+"Support 10Kbytes"
+],
+[
+"MDX/MIDX",
+"Support"
+],
+[
+"Watchdog",
+"Support"
+],
+[
+"Mechanical structure"
+],
+[
+"Case protection",
+"IP40"
+],
+[
+"Installation method",
+"Din-rail"
+],
+[
+"Dimension(W*D*H) mm",
+"30*98*130mm"
+],
+[
+"Weight",
+"0.56 kg"
+],
+[
+"Operating environment"
+],
+[
+"Operating temperature",
+"-40℃~+75℃"
+],
+[
+"Storage/transportation temperature)",
+"-40℃~+85℃"
+],
+[
+"Relative humidity",
+"Operation humidity: 10%-90%RH / Storage humidity: 5%-95%RH"
+],
+[
+"Industrial Standard",
+"Surge protection of power: IEC 61000-4-5  Level 3 (4KV/2KV）（8/20us)"
+],
+[
+"Industrial Standard",
+"Surge protection of Ethernet ports: IEC 61000-4-5  Level 3 (4KV/2KV）（10/700us)"
+],
+[
+"Industrial Standard",
+"DIP: IEC 61000-4-11  Level 3（10V）"
+],
+[
+"Industrial Standard",
+"ESD: IEC 61000-4-2  Level 4（8K/15K）"
+],
+[
+"Industrial Standard",
+"Shock：IEC 60068-2-27"
+],
+[
+"Industrial Standard",
+"Free fall：IEC 60068-2-32"
+],
+[
+"Industrial Standard",
+"Vibration：IEC 60068-2-6"
+],
+[
+"Certification",
+"CCC/CE/UKCA/RoHS/REACH/FCC"
+],
+[
+"MTBF",
+"＞200,000 hours"
+],
+[
+"Warranty",
+"5 years"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Structure diagram"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Order information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"Description"
+],
+[
+"LT-IS3206F-2FX4TX",
+"Managed industrial Ethernet switch with 4*10/100Base-TX RJ45 ports and 2*100Base-FX SFP slots, DC12-58V, redundant dual power supply, Din-rail installation. Fiber ports transmission distance depending on the SFP module; Operation temperature: -40℃～+75℃"
+]
+]
+}
+],
+"embedded_media":[
+{
+"name":"image1.png",
+"bytes":213943
+},
+{
+"name":"image2.png",
+"bytes":45858
+}
+]
+}

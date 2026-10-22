@@ -1,0 +1,976 @@
+{
+"id":"1F--uMACOg9TFrvkXykN0m7sEfsawlOqc",
+"name":"LT-IS6310G-2GX8GT-SD neutral datasheet.docx",
+"path":"SmartByte/Managed Industrial Ethernet Switch_最新资料/Managed industrial Ethernet Switches/Layer 2+/Full Gigabit/8 GE RJ45 + 2 X 1G & 2.5G SFP/LT-IS6310G-2GX8GT-SD neutral datasheet.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":179949,
+"sha256":"561a5e985934418d68a43b13fcc37cb7e1a4e1bd7f052b184a9f71f6dde3b7e9",
+"extracted_at":"2026-10-22T02:07:29Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":11959,
+"meta":{
+"title":"",
+"author":"雙燕飛",
+"last_modified_by":"Peter Hu",
+"created":"2025-11-27T09:58:00+00:00",
+"modified":"2025-12-25T03:44:00+00:00",
+"paragraphs":21,
+"tables":2,
+"embedded_images":2
+},
+"warnings":[],
+"text":"8*10/100/1000Base-T + 2*1G/2.5GBase-X SFP\nL2+ Managed Industrial Ethernet Switch with Temp-humidity Sensor\nLT-IS6310G-2GX8GT-SD\nFeatures:\n➢ 8*10/100/1000Base-T RJ45, 2*1G/2.5GBase-X SFP\n➢ Redundant power 12-58V input with polarity reverse/over-current protection\n➢ Support DI/DO/RS485, work with temperature-humidity sensor to collect environment data and trigger alarms\n➢ Support USB one key configuration & upgrading\n➢ Layer 3 features: Support IPv4/IPv6 static routing, DHCP server, DHCP relay\n➢  Layer 2 features: VLAN/GVRP/QinQ/SPAN/RSPAN/STP, RSTP, MSTP/DHCP/Multicast/ACL\nQoS/LLDP/802.1X/AAA/Loop Detect/Dying Gasp/SFP DDM/IPV6 management/Dual Stack/ sFlow/Web/SNMP/MQTT/Telnet/TFTP/Web upgrading\n➢ Support G.8032 ERPS protocol, recovery time ≤20ms\n➢ Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n➢ IP40 fan-less and Din-rail hardware design\n➢ Operation temperature: -40 ℃ ~+75℃\nOverview\nThe SmartByte LT-IS6310G-2GX8GT-SD is the highly reliable managed industrial Ethernet switch with 8-port 10/100/1000-T and 2-port 1G/2.5GBase-X fiber optical interfaces. It also supports ERPS redundant network and the self-recovery mechanism is less than 20ms on full load which allows you to scheme a reliable Ethernet network by building a redundant ring topology as your back-up solution. LT-IS6310G-2GX8GT-SD supports DI/DO/RS485, it can work with temperature-humidity sensor to collect environmental data and trigger alarms, which is critical for the industrial application requiring the stable ambient conditions\nLT-IS6310G-2GX8GT-SD is the high cost-effective easy-to-use device, which provides essential industrial Ethernet networking function, including wide range power input 12-58VDC, redundant power design with polarity reverse protection, robust IP40 fan-less housing with Din-rail installation, wide operation temperature from -40°C to 75°C as well as high-level EMI/EMC capability. It is the best choice for heavy industrial factory, transportation, oil & gas, chemical, IP Surveillance and processing automation area where environmental conditions are harsh and critical.\nTechnical specification\nModel No.\tLT-IS6310G-2GX8GT-SD\nInterface\tFiber ports\tCopper RJ45 ports\nInterface\t2\t8\nEthernet\t8*10/100/1000Base-T RJ45 / 2*1G/2.5GBase-X SFP\nCPU\tMarvell AC5 series 1.2GHz\nSize of RAM\t512MB\nSize of Flash\t512MB\nSwitch chip model\tMarvell AC5 series\nManagement port\t1*RJ45 Console port (115200,8,N,1)，1*USB 2.0\nData & Alarm channel （Removable 8-pin terminal block)\tVout: VO＋, VO－\t5V output（0.2A MAX）\nData & Alarm channel （Removable 8-pin terminal block)\t1 channel RS485: A, B\tWork with temperature-humidity sensor to collect environmental data and trigger alarms\nData & Alarm channel （Removable 8-pin terminal block)\t1 channel digital input: DI+，DI-\tStatus “1”: 12V-30V / Status”0”: -30V~3V / Max input current: 8 mA\nData & Alarm channel （Removable 8-pin terminal block)\t1 channel digital output\tNormally open，Normally closed，Pulse / 2A@30V DC，0.3A@125V AC\nStandard\tIEEE 802.3 10Base-T Ethernet / IEEE 802.3u 100Base-TX Ethernet / IEEE 802.3ab 1000Base-T Ethernet / IEEE 802.3z 1000Base-X Ethernet / IEEE802.3x Flow Control and Back Pressure / IEEE 802.1D Spanning Tree Protocol / IEEE 802.1w Rapid Spanning Tree Protocol / IEEE 802.1Q VLAN / ITU-T G.8032 ERPS / IEEE 802.1X Port Authentication Network Control / IEEE 802.1ab LLDP / IEEE 802.3ad LACP\nLED Indicators\nP (Power indicator)\tOff: the device is power off or failed\tOn: the device power on is normal\nS (System status indicator)\tBlinking: device initialization\tOn: device on normal operation\nUSB (USB status indicator) Green\tOff: USB flash drive not insert or not detected by device\nUSB (USB status indicator) Green\tOn: USB flash drive is detected by device\nUSB (USB status indicator) Green\tBlinking: the device is reading and writing the data from USB flash drive\nData (RS485 status indicators)\tOff: No RS485 data on TX/RX\tOn: RS485 data on TX/RX\n1-8 (Copper ports indicators) Green\tOff: ports link down\n1-8 (Copper ports indicators) Green\tOn: ports link up\n1-8 (Copper ports indicators) Green\tBlinking: data on TX/RX\n1-8 (Port speed indicators)  Yellow\tOff: Port speed on 10/100M\n1-8 (Port speed indicators)  Yellow\tOn: Port speed on 1000M\n9-10 (Fiber ports indicators) Green\tOff: ports link down\n9-10 (Fiber ports indicators) Green\tOn: ports link up\n9-10 (Fiber ports indicators) Green\tBlinking: data on TX/RX\nPower parameter\nInput voltage\t12-58VDC redundant power input\nInput current\t0.9A Max\nPower consumption\tFull loading ≤10W\nConnector\tRemovable 4-pin terminal block\nReverse polarity protection\tSupport\nOver-current protection\tSupport\nLayer 2 switching\nPort aggregation\tSupport GE port aggregation\nPort aggregation\tSupport 2.5GE aggregation\nPort aggregation\tSupport static aggregation\nPort aggregation\tSupport LACP dynamic aggregation\nPort aggregation\tUp to 64 aggregation groups and up to 8 ports per group\nPort features\tSupport IEEE802.3x flow control\nPort features\tSupport interface counters\nPort features\tSupport port isolation\nPort features\tPort mirroring (One-to-One, Many-to-One)\nPort features\tSupport loop detection (Port-based; VLAN-based)\nPort features\tSupport broadcast storm suppression (broadcast; unknown multicast; unknown unicast)\nVLAN\tIEEE802.1Q tagged VLAN\nVLAN\tMac based VLAN\nVLAN\tIP based VLAN\nVLAN\tProtocol based VLAN\nVLAN\tVoice VLAN, specially divide VLAN for user voice data flow\nVLAN\tPrivate VLAN, divide a VLAN broadcast domain into multiple subdomains to form a double-layer VLAN structure\nVLAN\tVLAN range: 1-4094\nVLAN\tSupport access mode/trunk mode/hybrid mode\nMac-address table management\tSupport static Mac-address management\nMac-address table management\tSupport dynamic Mac-address Management\nMac-address table management\tSupport filtering Mac-address\nMac-address table management\tSupport MAC limit based on port and VLAN\nMac-address table management\tSupport MAC flapping based on port and VLAN\nMac-address table management\t16K Mac-address table size\nGVRP\tNormal mode\nGVRP\tFixed mode\nGVRP\tForbidden mode\nQinQ\tPort-based QinQ\nQinQ\tVLAN-based QinQ\nQinQ\tVLAN mapping\nQinQ\tFlow-based QinQ\nLLDP\tLink Layer Discovery Protocol\nLLDP\tMed\nSPAN\tNumber of Sessions: 7\nSPAN\tMany-to-one\nRSPAN\tRemote Switch Port Analyzer\nMSTP\t802.1D STP\nMSTP\t802.1W RSTP\nMSTP\t802.1S MSTP\nMSTP\tBPDU Guard\nMSTP\tNumber of Single Ring Device Connections: 20\nERPS G.8032\tMajor ring\nERPS G.8032\tSub ring\nERPS G.8032\tRecovery time ≤20ms\nERPS G.8032\tNumber of Single Ring Device Connections: No limit\nQoS\tQoS Class, Remarking\nQoS\tSupport SP, WRR Queue Scheduling\nQoS\tIngress Port-based Rate-limit\nQoS\tEgress Port-based Rate-limit\nQoS\tEgress port-queue shaper\nQoS\tPolicy-based QoS\nQoS\tPort Queue Numbers: 8\nDHCPv4 Snooping\tDHCP snooping trust port\nDHCPv4 Snooping\tDHCP snooping option-82\nDHCPv4 Snooping\tDHCP snooping circuit-id and remote-id customized\nL2 Multicast\nIGMP\tIGMP v1, v2, v3\nIGMP Snooping\tInternet Group Management Protocol Snooping\nIGMP Snooping\tFast Leave\nIGMP Snooping\tMulticast Table Size: 1K\nPIM-SM\tProtocol Independent Multicast-Sparse Mode\nSecurity features\nACL\tIP Standard ACL / IP Extended ACL / MAC extend ACL / IPv6 ACL / Time Range / ACL apply on VLAN / ACL Entrys, include input and output\n802.1x\tPort access control / Mac-address access control / RADIUS server\nPort-security\tPort-security\nIP source guard\tIP Source Guard, Port-based IP/Mac Binding Access\nARP-check\tSupport ARP-check and ARP packet filtering for illegal users\nDAI\tDynamic ARP Inspection\nAnti-gateway ARP Spoofing\tPrevent Gateway ARP Spoofing\nDdos\tDdos attack protection\nAccess control\tSupport Telnet/SSH/HTTP/HTTPS user access control\nAAA\tRADIUS authentication access switch\nAAA\tTACACS authentication access switch\nAAA\tAuthorization\nReliability\nLoop Detect\tLoop detect, based on port or VLAN\nEFM\tThe Ethernet in the first mile, 802.3ah\nManagement & Maintenance functions\nDual Stack\tIPv4 and IPv6 Dual Stack Management\nSystem Log Management\tSyslog Level 7 to 0 / Corresponding Debug/Info/Notice/Warning/ Err/ Critical/ Alert\nSystem Log Management\tSupport connecting up to 3 Servers\nSystem Log Management\tFor IPv4 and IPv6\nUser Management\tSupport password protection, support MD5/SHA256/SHA512 algorithm\nUser Management\tLocal Management of User Privilege\nUser Management\tRemote authorization by RADIUS or TARCAS\nUser Management\tEnable privilege protection\nUser Management\tUser password complexity requirements\nUser Management\tUser login fail protection\nUser Management\tUser Privilege Level 0 to 15\nLogin Service Management\tUp to 8 users online simultaneously\nLogin Service Management\tAccess control based on IPv4 or IPv6 ACL\nFirmware Management\tFirmware upgraded by WEB\nFirmware Management\tFirmware upgraded by CLI\nFirmware Management\tDual partition\nWeb Management\tWeb Management\nWeb Management\tSupport HTTP V1.1\nWeb Management\tSupport HTTPS\nWeb Management\tFor IPv4 and IPv6\nCLI management\tConsole/Telnet command line management\nFault Detection\tPing/Traceroute, For IPv4 and IPv6\nFault Detection\tDying gasp (the input voltage should be more than 18V)\nFault Detection\tOptical transceiver DDM\nFault Detection\tOne click fault information collection\nFault Detection\tCable detection\nDNS\tDomain Name System\nNTP\tNetwork Time Protocol, For IPv4 and IPv6\nNTP\tSupport domain name configuration\nConfiguration Import /Export\tFTP/TFTP based remote configuration import and export\nConfiguration Import /Export\tUSB flash drives based local configuration import and export\nsFlow\tSampled flow\nSNMP\tVersion SNMPV2C/V3\nMQTT\tMessage Queuing Telemetry Transport\nRMON\tSupport RMON (Remote Monitoring) alarm\nDual partition management\tSupport dual partition switching\nApplication Protocol Functions\nTelnet server\tSupport telnet server for IPv4 and IPv6\nTelnet client\tSupport telnet client for IPv4 and IPv6\nSCP (Secure Copy Protocol)\tSCP client/server for IPv4 and IPv6\nSFTP\tsftp client/server for IPv4 and IPv6\nSSH server\tSupport login based on user password-SSH2, support IPv4, IPv6\nSSH server\tSupport public key-based login\nTACACS\tSupport TACACS (the terminal access controller accesses the control system)\nTFTP\tSupport TFTP Client\nLayer 3 features\nStatic Route\tSupport VLAN interface and route port\nStatic Route\tIPv4 static routing table entry configuration\nStatic Route\tARP dynamic learning and static configuration\nStatic Route\tIPv6 static routing table entry configuration\nStatic Route\tNeighbor discovery and static configuration\nStatic Route\tRouting prefix table size 4k for IPv4, for IPv6 divide by 4\nDHCPv4 Client\tDynamic host configuration protocol for IPv4\nDHCPv6 Client\tDynamic host configuration protocol for IPv6\nDHCPv4 Relay\tDHCP Relay for IPv4\nDHCPv4 Server\tDHCP Server for IPv4\nSwitching features\nSwitching capacity\t26Gbps\nPacket forwarding rate\t38.6Mpps\nMAC address table\t16K\nVLAN\t4K\nBuffer\t12Mbit\nForwarding delay\t<5us\nJumbo Frame\tSupport 10Kbytes\nMDX/MIDX\tSupport\nWatchdog\tSupport\nMechanical structure\nCase protection\tIP40\nInstallation method\tDin-rail\nDimension(W*D*H)mm\t54*115*158mm\nWeight\t1.40 kg\nOperating environment\nOperating temperature\t-40℃~+75℃\nStorage/transportation temperature\t-40℃~+85℃\nRelative humidity\tOperation humidity: 10%-90%RH / Storage humidity: 5%-95%RH\nIndustrial Standard\nEMS\tSurge protection of power: IEC 61000-4-5  6KV/4KV（8/20us）\nEMS\tSurge protection of Ethernet ports: IEC 61000-4-5  6KV/2KV（10/700us）\nEMS\tRS：IEC 61000-4-3 80 MHz-1 GHz：10 V/m\nEMS\tEFT：IEC 61000-4-4 4K/2K\nEMS\tCS：IEC 61000-4-6 10V\nEMS\tESD：IEC 61000-4-2  Contact: 8K；Air: 15K\nEMI\tFCC Part 15B Class A\nShock\tIEC 60068-2-27\nFree fall\tIEC 60068-2-32\nVibration\tIEC 60068-2-6\nCertification\tCCC/CE/UKCA/RoHS/REACH/FCC\nMTBF\t＞200,000 hours\nWarranty\t5 years\nStructure diagram\nOrder information\nModel\tDescription\nLT-IS6310G-2GX8GT-SD\tL2+ Managed industrial Ethernet switch with 8*10/100/1000Base-T RJ45 ports and 4*1G/2.5GBase-X SFP slots, supports DI/DO/RS485 and temperature-humidity sensor on default, DC12-58V input, redundant dual power supply; Din-rail installation; Operation temperature: -40℃～+75℃",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"8*10/100/1000Base-T + 2*1G/2.5GBase-X SFP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"L2+ Managed Industrial Ethernet Switch with Temp-humidity Sensor"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LT-IS6310G-2GX8GT-SD"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Features:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ 8*10/100/1000Base-T RJ45, 2*1G/2.5GBase-X SFP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Redundant power 12-58V input with polarity reverse/over-current protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Support DI/DO/RS485, work with temperature-humidity sensor to collect environment data and trigger alarms"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Support USB one key configuration & upgrading"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Layer 3 features: Support IPv4/IPv6 static routing, DHCP server, DHCP relay"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  Layer 2 features: VLAN/GVRP/QinQ/SPAN/RSPAN/STP, RSTP, MSTP/DHCP/Multicast/ACL"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"QoS/LLDP/802.1X/AAA/Loop Detect/Dying Gasp/SFP DDM/IPV6 management/Dual Stack/ sFlow/Web/SNMP/MQTT/Telnet/TFTP/Web upgrading"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Support G.8032 ERPS protocol, recovery time ≤20ms"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ IP40 fan-less and Din-rail hardware design"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Operation temperature: -40 ℃ ~+75℃"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Overview"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The SmartByte LT-IS6310G-2GX8GT-SD is the highly reliable managed industrial Ethernet switch with 8-port 10/100/1000-T and 2-port 1G/2.5GBase-X fiber optical interfaces. It also supports ERPS redundant network and the self-recovery mechanism is less than 20ms on full load which allows you to scheme a reliable Ethernet network by building a redundant ring topology as your back-up solution. LT-IS6310G-2GX8GT-SD supports DI/DO/RS485, it can work with temperature-humidity sensor to collect environmental data and trigger alarms, which is critical for the industrial application requiring the stable ambient conditions"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LT-IS6310G-2GX8GT-SD is the high cost-effective easy-to-use device, which provides essential industrial Ethernet networking function, including wide range power input 12-58VDC, redundant power design with polarity reverse protection, robust IP40 fan-less housing with Din-rail installation, wide operation temperature from -40°C to 75°C as well as high-level EMI/EMC capability. It is the best choice for heavy industrial factory, transportation, oil & gas, chemical, IP Surveillance and processing automation area where environmental conditions are harsh and critical."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Technical specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model No.",
+"LT-IS6310G-2GX8GT-SD"
+],
+[
+"Interface",
+"Fiber ports",
+"Copper RJ45 ports"
+],
+[
+"Interface",
+"2",
+"8"
+],
+[
+"Ethernet",
+"8*10/100/1000Base-T RJ45 / 2*1G/2.5GBase-X SFP"
+],
+[
+"CPU",
+"Marvell AC5 series 1.2GHz"
+],
+[
+"Size of RAM",
+"512MB"
+],
+[
+"Size of Flash",
+"512MB"
+],
+[
+"Switch chip model",
+"Marvell AC5 series"
+],
+[
+"Management port",
+"1*RJ45 Console port (115200,8,N,1)，1*USB 2.0"
+],
+[
+"Data & Alarm channel （Removable 8-pin terminal block)",
+"Vout: VO＋, VO－",
+"5V output（0.2A MAX）"
+],
+[
+"Data & Alarm channel （Removable 8-pin terminal block)",
+"1 channel RS485: A, B",
+"Work with temperature-humidity sensor to collect environmental data and trigger alarms"
+],
+[
+"Data & Alarm channel （Removable 8-pin terminal block)",
+"1 channel digital input: DI+，DI-",
+"Status “1”: 12V-30V / Status”0”: -30V~3V / Max input current: 8 mA"
+],
+[
+"Data & Alarm channel （Removable 8-pin terminal block)",
+"1 channel digital output",
+"Normally open，Normally closed，Pulse / 2A@30V DC，0.3A@125V AC"
+],
+[
+"Standard",
+"IEEE 802.3 10Base-T Ethernet / IEEE 802.3u 100Base-TX Ethernet / IEEE 802.3ab 1000Base-T Ethernet / IEEE 802.3z 1000Base-X Ethernet / IEEE802.3x Flow Control and Back Pressure / IEEE 802.1D Spanning Tree Protocol / IEEE 802.1w Rapid Spanning Tree Protocol / IEEE 802.1Q VLAN / ITU-T G.8032 ERPS / IEEE 802.1X Port Authentication Network Control / IEEE 802.1ab LLDP / IEEE 802.3ad LACP"
+],
+[
+"LED Indicators"
+],
+[
+"P (Power indicator)",
+"Off: the device is power off or failed",
+"On: the device power on is normal"
+],
+[
+"S (System status indicator)",
+"Blinking: device initialization",
+"On: device on normal operation"
+],
+[
+"USB (USB status indicator) Green",
+"Off: USB flash drive not insert or not detected by device"
+],
+[
+"USB (USB status indicator) Green",
+"On: USB flash drive is detected by device"
+],
+[
+"USB (USB status indicator) Green",
+"Blinking: the device is reading and writing the data from USB flash drive"
+],
+[
+"Data (RS485 status indicators)",
+"Off: No RS485 data on TX/RX",
+"On: RS485 data on TX/RX"
+],
+[
+"1-8 (Copper ports indicators) Green",
+"Off: ports link down"
+],
+[
+"1-8 (Copper ports indicators) Green",
+"On: ports link up"
+],
+[
+"1-8 (Copper ports indicators) Green",
+"Blinking: data on TX/RX"
+],
+[
+"1-8 (Port speed indicators)  Yellow",
+"Off: Port speed on 10/100M"
+],
+[
+"1-8 (Port speed indicators)  Yellow",
+"On: Port speed on 1000M"
+],
+[
+"9-10 (Fiber ports indicators) Green",
+"Off: ports link down"
+],
+[
+"9-10 (Fiber ports indicators) Green",
+"On: ports link up"
+],
+[
+"9-10 (Fiber ports indicators) Green",
+"Blinking: data on TX/RX"
+],
+[
+"Power parameter"
+],
+[
+"Input voltage",
+"12-58VDC redundant power input"
+],
+[
+"Input current",
+"0.9A Max"
+],
+[
+"Power consumption",
+"Full loading ≤10W"
+],
+[
+"Connector",
+"Removable 4-pin terminal block"
+],
+[
+"Reverse polarity protection",
+"Support"
+],
+[
+"Over-current protection",
+"Support"
+],
+[
+"Layer 2 switching"
+],
+[
+"Port aggregation",
+"Support GE port aggregation"
+],
+[
+"Port aggregation",
+"Support 2.5GE aggregation"
+],
+[
+"Port aggregation",
+"Support static aggregation"
+],
+[
+"Port aggregation",
+"Support LACP dynamic aggregation"
+],
+[
+"Port aggregation",
+"Up to 64 aggregation groups and up to 8 ports per group"
+],
+[
+"Port features",
+"Support IEEE802.3x flow control"
+],
+[
+"Port features",
+"Support interface counters"
+],
+[
+"Port features",
+"Support port isolation"
+],
+[
+"Port features",
+"Port mirroring (One-to-One, Many-to-One)"
+],
+[
+"Port features",
+"Support loop detection (Port-based; VLAN-based)"
+],
+[
+"Port features",
+"Support broadcast storm suppression (broadcast; unknown multicast; unknown unicast)"
+],
+[
+"VLAN",
+"IEEE802.1Q tagged VLAN"
+],
+[
+"VLAN",
+"Mac based VLAN"
+],
+[
+"VLAN",
+"IP based VLAN"
+],
+[
+"VLAN",
+"Protocol based VLAN"
+],
+[
+"VLAN",
+"Voice VLAN, specially divide VLAN for user voice data flow"
+],
+[
+"VLAN",
+"Private VLAN, divide a VLAN broadcast domain into multiple subdomains to form a double-layer VLAN structure"
+],
+[
+"VLAN",
+"VLAN range: 1-4094"
+],
+[
+"VLAN",
+"Support access mode/trunk mode/hybrid mode"
+],
+[
+"Mac-address table management",
+"Support static Mac-address management"
+],
+[
+"Mac-address table management",
+"Support dynamic Mac-address Management"
+],
+[
+"Mac-address table management",
+"Support filtering Mac-address"
+],
+[
+"Mac-address table management",
+"Support MAC limit based on port and VLAN"
+],
+[
+"Mac-address table management",
+"Support MAC flapping based on port and VLAN"
+],
+[
+"Mac-address table management",
+"16K Mac-address table size"
+],
+[
+"GVRP",
+"Normal mode"
+],
+[
+"GVRP",
+"Fixed mode"
+],
+[
+"GVRP",
+"Forbidden mode"
+],
+[
+"QinQ",
+"Port-based QinQ"
+],
+[
+"QinQ",
+"VLAN-based QinQ"
+],
+[
+"QinQ",
+"VLAN mapping"
+],
+[
+"QinQ",
+"Flow-based QinQ"
+],
+[
+"LLDP",
+"Link Layer Discovery Protocol"
+],
+[
+"LLDP",
+"Med"
+],
+[
+"SPAN",
+"Number of Sessions: 7"
+],
+[
+"SPAN",
+"Many-to-one"
+],
+[
+"RSPAN",
+"Remote Switch Port Analyzer"
+],
+[
+"MSTP",
+"802.1D STP"
+],
+[
+"MSTP",
+"802.1W RSTP"
+],
+[
+"MSTP",
+"802.1S MSTP"
+],
+[
+"MSTP",
+"BPDU Guard"
+],
+[
+"MSTP",
+"Number of Single Ring Device Connections: 20"
+],
+[
+"ERPS G.8032",
+"Major ring"
+],
+[
+"ERPS G.8032",
+"Sub ring"
+],
+[
+"ERPS G.8032",
+"Recovery time ≤20ms"
+],
+[
+"ERPS G.8032",
+"Number of Single Ring Device Connections: No limit"
+],
+[
+"QoS",
+"QoS Class, Remarking"
+],
+[
+"QoS",
+"Support SP, WRR Queue Scheduling"
+],
+[
+"QoS",
+"Ingress Port-based Rate-limit"
+],
+[
+"QoS",
+"Egress Port-based Rate-limit"
+],
+[
+"QoS",
+"Egress port-queue shaper"
+],
+[
+"QoS",
+"Policy-based QoS"
+],
+[
+"QoS",
+"Port Queue Numbers: 8"
+],
+[
+"DHCPv4 Snooping",
+"DHCP snooping trust port"
+],
+[
+"DHCPv4 Snooping",
+"DHCP snooping option-82"
+],
+[
+"DHCPv4 Snooping",
+"DHCP snooping circuit-id and remote-id customized"
+],
+[
+"L2 Multicast"
+],
+[
+"IGMP",
+"IGMP v1, v2, v3"
+],
+[
+"IGMP Snooping",
+"Internet Group Management Protocol Snooping"
+],
+[
+"IGMP Snooping",
+"Fast Leave"
+],
+[
+"IGMP Snooping",
+"Multicast Table Size: 1K"
+],
+[
+"PIM-SM",
+"Protocol Independent Multicast-Sparse Mode"
+],
+[
+"Security features"
+],
+[
+"ACL",
+"IP Standard ACL / IP Extended ACL / MAC extend ACL / IPv6 ACL / Time Range / ACL apply on VLAN / ACL Entrys, include input and output"
+],
+[
+"802.1x",
+"Port access control / Mac-address access control / RADIUS server"
+],
+[
+"Port-security",
+"Port-security"
+],
+[
+"IP source guard",
+"IP Source Guard, Port-based IP/Mac Binding Access"
+],
+[
+"ARP-check",
+"Support ARP-check and ARP packet filtering for illegal users"
+],
+[
+"DAI",
+"Dynamic ARP Inspection"
+],
+[
+"Anti-gateway ARP Spoofing",
+"Prevent Gateway ARP Spoofing"
+],
+[
+"Ddos",
+"Ddos attack protection"
+],
+[
+"Access control",
+"Support Telnet/SSH/HTTP/HTTPS user access control"
+],
+[
+"AAA",
+"RADIUS authentication access switch"
+],
+[
+"AAA",
+"TACACS authentication access switch"
+],
+[
+"AAA",
+"Authorization"
+],
+[
+"Reliability"
+],
+[
+"Loop Detect",
+"Loop detect, based on port or VLAN"
+],
+[
+"EFM",
+"The Ethernet in the first mile, 802.3ah"
+],
+[
+"Management & Maintenance functions"
+],
+[
+"Dual Stack",
+"IPv4 and IPv6 Dual Stack Management"
+],
+[
+"System Log Management",
+"Syslog Level 7 to 0 / Corresponding Debug/Info/Notice/Warning/ Err/ Critical/ Alert"
+],
+[
+"System Log Management",
+"Support connecting up to 3 Servers"
+],
+[
+"System Log Management",
+"For IPv4 and IPv6"
+],
+[
+"User Management",
+"Support password protection, support MD5/SHA256/SHA512 algorithm"
+],
+[
+"User Management",
+"Local Management of User Privilege"
+],
+[
+"User Management",
+"Remote authorization by RADIUS or TARCAS"
+],
+[
+"User Management",
+"Enable privilege protection"
+],
+[
+"User Management",
+"User password complexity requirements"
+],
+[
+"User Management",
+"User login fail protection"
+],
+[
+"User Management",
+"User Privilege Level 0 to 15"
+],
+[
+"Login Service Management",
+"Up to 8 users online simultaneously"
+],
+[
+"Login Service Management",
+"Access control based on IPv4 or IPv6 ACL"
+],
+[
+"Firmware Management",
+"Firmware upgraded by WEB"
+],
+[
+"Firmware Management",
+"Firmware upgraded by CLI"
+],
+[
+"Firmware Management",
+"Dual partition"
+],
+[
+"Web Management",
+"Web Management"
+],
+[
+"Web Management",
+"Support HTTP V1.1"
+],
+[
+"Web Management",
+"Support HTTPS"
+],
+[
+"Web Management",
+"For IPv4 and IPv6"
+],
+[
+"CLI management",
+"Console/Telnet command line management"
+],
+[
+"Fault Detection",
+"Ping/Traceroute, For IPv4 and IPv6"
+],
+[
+"Fault Detection",
+"Dying gasp (the input voltage should be more than 18V)"
+],
+[
+"Fault Detection",
+"Optical transceiver DDM"
+],
+[
+"Fault Detection",
+"One click fault information collection"
+],
+[
+"Fault Detection",
+"Cable detection"
+],
+[
+"DNS",
+"Domain Name System"
+],
+[
+"NTP",
+"Network Time Protocol, For IPv4 and IPv6"
+],
+[
+"NTP",
+"Support domain name configuration"
+],
+[
+"Configuration Import /Export",
+"FTP/TFTP based remote configuration import and export"
+],
+[
+"Configuration Import /Export",
+"USB flash drives based local configuration import and export"
+],
+[
+"sFlow",
+"Sampled flow"
+],
+[
+"SNMP",
+"Version SNMPV2C/V3"
+],
+[
+"MQTT",
+"Message Queuing Telemetry Transport"
+],
+[
+"RMON",
+"Support RMON (Remote Monitoring) alarm"
+],
+[
+"Dual partition management",
+"Support dual partition switching"
+],
+[
+"Application Protocol Functions"
+],
+[
+"Telnet server",
+"Support telnet server for IPv4 and IPv6"
+],
+[
+"Telnet client",
+"Support telnet client for IPv4 and IPv6"
+],
+[
+"SCP (Secure Copy Protocol)",
+"SCP client/server for IPv4 and IPv6"
+],
+[
+"SFTP",
+"sftp client/server for IPv4 and IPv6"
+],
+[
+"SSH server",
+"Support login based on user password-SSH2, support IPv4, IPv6"
+],
+[
+"SSH server",
+"Support public key-based login"
+],
+[
+"TACACS",
+"Support TACACS (the terminal access controller accesses the control system)"
+],
+[
+"TFTP",
+"Support TFTP Client"
+],
+[
+"Layer 3 features"
+],
+[
+"Static Route",
+"Support VLAN interface and route port"
+],
+[
+"Static Route",
+"IPv4 static routing table entry configuration"
+],
+[
+"Static Route",
+"ARP dynamic learning and static configuration"
+],
+[
+"Static Route",
+"IPv6 static routing table entry configuration"
+],
+[
+"Static Route",
+"Neighbor discovery and static configuration"
+],
+[
+"Static Route",
+"Routing prefix table size 4k for IPv4, for IPv6 divide by 4"
+],
+[
+"DHCPv4 Client",
+"Dynamic host configuration protocol for IPv4"
+],
+[
+"DHCPv6 Client",
+"Dynamic host configuration protocol for IPv6"
+],
+[
+"DHCPv4 Relay",
+"DHCP Relay for IPv4"
+],
+[
+"DHCPv4 Server",
+"DHCP Server for IPv4"
+],
+[
+"Switching features"
+],
+[
+"Switching capacity",
+"26Gbps"
+],
+[
+"Packet forwarding rate",
+"38.6Mpps"
+],
+[
+"MAC address table",
+"16K"
+],
+[
+"VLAN",
+"4K"
+],
+[
+"Buffer",
+"12Mbit"
+],
+[
+"Forwarding delay",
+"<5us"
+],
+[
+"Jumbo Frame",
+"Support 10Kbytes"
+],
+[
+"MDX/MIDX",
+"Support"
+],
+[
+"Watchdog",
+"Support"
+],
+[
+"Mechanical structure"
+],
+[
+"Case protection",
+"IP40"
+],
+[
+"Installation method",
+"Din-rail"
+],
+[
+"Dimension(W*D*H)mm",
+"54*115*158mm"
+],
+[
+"Weight",
+"1.40 kg"
+],
+[
+"Operating environment"
+],
+[
+"Operating temperature",
+"-40℃~+75℃"
+],
+[
+"Storage/transportation temperature",
+"-40℃~+85℃"
+],
+[
+"Relative humidity",
+"Operation humidity: 10%-90%RH / Storage humidity: 5%-95%RH"
+],
+[
+"Industrial Standard"
+],
+[
+"EMS",
+"Surge protection of power: IEC 61000-4-5  6KV/4KV（8/20us）"
+],
+[
+"EMS",
+"Surge protection of Ethernet ports: IEC 61000-4-5  6KV/2KV（10/700us）"
+],
+[
+"EMS",
+"RS：IEC 61000-4-3 80 MHz-1 GHz：10 V/m"
+],
+[
+"EMS",
+"EFT：IEC 61000-4-4 4K/2K"
+],
+[
+"EMS",
+"CS：IEC 61000-4-6 10V"
+],
+[
+"EMS",
+"ESD：IEC 61000-4-2  Contact: 8K；Air: 15K"
+],
+[
+"EMI",
+"FCC Part 15B Class A"
+],
+[
+"Shock",
+"IEC 60068-2-27"
+],
+[
+"Free fall",
+"IEC 60068-2-32"
+],
+[
+"Vibration",
+"IEC 60068-2-6"
+],
+[
+"Certification",
+"CCC/CE/UKCA/RoHS/REACH/FCC"
+],
+[
+"MTBF",
+"＞200,000 hours"
+],
+[
+"Warranty",
+"5 years"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Structure diagram"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Order information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"Description"
+],
+[
+"LT-IS6310G-2GX8GT-SD",
+"L2+ Managed industrial Ethernet switch with 8*10/100/1000Base-T RJ45 ports and 4*1G/2.5GBase-X SFP slots, supports DI/DO/RS485 and temperature-humidity sensor on default, DC12-58V input, redundant dual power supply; Din-rail installation; Operation temperature: -40℃～+75℃"
+]
+]
+}
+],
+"embedded_media":[
+{
+"name":"image1.jpeg",
+"bytes":93054
+},
+{
+"name":"image2.png",
+"bytes":42668
+}
+]
+}
