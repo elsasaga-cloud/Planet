@@ -65,6 +65,8 @@ v3.2（2026-10-22，T29-U13：Simon 要求把 SmartByte / HRUI / Hohunet 官网�
   ② 编排：scripts/smartbyte_crawl/RECRAWL 里 ROUND=YYYYMMDD（可选 SITES=smartbyte,hrui,hohunet）→ 工作流固定命令跑完原逻辑后，
      三站各起一子进程写到 data/site_recrawl/<ROUND>/<site>/；未完成的站再推一次 crawl.py 即从该目录的 crawl_state.json 续抓；
      已 complete 的站跳过。预算按 45/35/20 分配剩余时间。
+  ③ 新增整站：hrgdkj.com（HRUI 中文站）、hohunet.cn（Hohunet 中文站）、smartbyte.com.cn（SmartByte 第二域名，可能已停用）进 EXTRA_SITES；
+     hrui_cn 有通用 CMS 列表 API 钩子（类目 id 从首页收集）。
 """
 import hashlib
 import json
@@ -91,6 +93,10 @@ SITE = os.environ.get("CRAWL_SITE") or ("smartbyte" if HOST.lower().endswith("sm
 EXTRA_SITES = [
     {"site": "hrui", "host": "www.hruitech.com", "out": "data/hrui_site_raw", "bin": "crawl_bin_hrui"},
     {"site": "hohunet", "host": "hohunet.com", "out": "data/hohunet_site_raw", "bin": "crawl_bin_hohunet"},
+    # v3.2（T29-U13）：三家的中文站 / 第二域名也整站入库（smartbyte.com.cn 2026-10-22 沙箱外抓取失败，可能已停用 → 交运行器探路，blocked 就只落诊断）
+    {"site": "hrui_cn", "host": "www.hrgdkj.com", "out": "data/hrui_cn_site_raw", "bin": "crawl_bin_hrui_cn"},
+    {"site": "hohunet_cn", "host": "hohunet.cn", "out": "data/hohunet_cn_site_raw", "bin": "crawl_bin_hohunet_cn"},
+    {"site": "smartbyte_cn", "host": "www.smartbyte.com.cn", "out": "data/smartbyte_cn_site_raw", "bin": "crawl_bin_smartbyte_cn"},
 ]
 # 不入队的垃圾 / 无限组合链接（WordPress、WooCommerce、建站 CMS 常见）
 JUNK_RE = re.compile(r"(/feed/?$|/feed/|/wp-json|xmlrpc\.php|wp-login|wp-admin|/wp-includes/|[?&](?:replytocom|p|share|add-to-cart|orderby|"
@@ -659,6 +665,62 @@ def hrui_api_seeds(queue, seen):
     return added
 
 
+def hrui_cn_api_seeds(queue, seen):
+    """v3.2：中文站 hrgdkj.com 与英文站同一套建站 CMS（/web/index.php?topclassid=&classid=&id=、/web/api.php?act=getdata）。
+    类目 id 未知 → 从首页 HTML 里收集 classid / sortid / topclassid 数字，逐个当 sortid 调列表 API（lanstr 试 cn / en / 空），
+    返回非空 JSON 列表的原样存 OUT/api/，条目里像 URL 的字段入队，否则按 CMS 详情页格式 web/index.php?topclassid=0&classid=<sortid>&id=<id> 入队。
+    全部失败也无妨（BFS 照常）。"""
+    os.makedirs(os.path.join(OUT, "api"), exist_ok=True)
+    r, err = get(BASE)
+    if r is None or r.status_code != 200:
+        log(f"hrui_cn api seeds: homepage {err if r is None else 'HTTP ' + str(r.status_code)} → skip")
+        return 0
+    ids = sorted({int(x) for x in re.findall(r"(?:classid|sortid|topclassid)=(\d{1,5})", r.text)} - {0})
+    log(f"hrui_cn api seeds: {len(ids)} candidate ids from homepage")
+    added, calls, items_all = 0, 0, []
+    for sid in ids[:80]:
+        for lan in ("cn", "en", ""):
+            p = 1
+            got = False
+            while p <= 40:
+                u = f"{BASE}web/api.php?act=getdata&p={p}&limit=8&sortid={sid}&tj=&lanstr={lan}"
+                rr, err = get(u)
+                calls += 1
+                time.sleep(min(DELAY, 0.6))
+                if rr is None or rr.status_code != 200:
+                    break
+                try:
+                    items = json.loads(rr.text)
+                except Exception:
+                    break
+                if not isinstance(items, list) or not items:
+                    break
+                got = True
+                with open(os.path.join(OUT, "api", f"getdata_sort{sid}_{lan or 'nolan'}_p{p}.json"), "w", encoding="utf-8") as f:
+                    f.write(rr.text)
+                for it in items:
+                    if not isinstance(it, dict):
+                        continue
+                    iid = str(it.get("id") or "").strip()
+                    link = next((str(it[k]) for k in ("url", "linkurl", "link", "href", "seourl") if it.get(k)), None)
+                    cand = link if link else (f"{BASE}web/index.php?topclassid=0&classid={sid}&id={iid}" if iid.isdigit() else None)
+                    items_all.append({"id": iid, "sortid": sid, "lanstr": lan, "title": it.get("title"), "product_sn": it.get("product_sn"), "url": cand})
+                    n = norm(cand, BASE) if cand else None
+                    if n and n not in seen:
+                        seen.add(n)
+                        queue.append(n)
+                        added += 1
+                if len(items) < 8:
+                    break
+                p += 1
+            if got:
+                break
+    with open(os.path.join(OUT, "api", "products_index.json"), "w", encoding="utf-8") as f:
+        json.dump(items_all, f, ensure_ascii=False, indent=1)
+    log(f"hrui_cn api: {calls} calls, {len(items_all)} items, {added} new pages queued")
+    return added
+
+
 def _load_baseline(out):
     """v3.2 基线：三张清单 url → 记录；外加全部 sha256 集合（同内容换了 URL 也算未变）。"""
     b = {"pages": {}, "downloads": {}, "images": {}, "sha": set()}
@@ -891,6 +953,11 @@ def main():
             hrui_api_seeds(queue, seen)
         except Exception as e:  # noqa: BLE001
             log(f"hrui api seeds failed: {e!r}")
+    if not blocked and SITE == "hrui_cn":
+        try:
+            hrui_cn_api_seeds(queue, seen)
+        except Exception as e:  # noqa: BLE001
+            log(f"hrui_cn api seeds failed: {e!r}")
 
     def checkpoint(phase):
         write_jsonl(p_pages, pages)
