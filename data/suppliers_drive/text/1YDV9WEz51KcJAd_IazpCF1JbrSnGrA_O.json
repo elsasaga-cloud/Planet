@@ -1,0 +1,22 @@
+{
+"id":"1YDV9WEz51KcJAd_IazpCF1JbrSnGrA_O",
+"name":"1.png",
+"path":"CENTEC Based High-Speed Network/STH400G/STH-64QC-HSI/1.png",
+"type":"图片",
+"bytes":6816784,
+"sha256":"d50849bd071d1627fb43999c4319b2f48089195b0ff4234f96c47cd2df455418",
+"extracted_at":"2026-10-22T08:43:48Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":4699,
+"height":1961,
+"mode":"RGBA",
+"thumb_bytes":6812
+},
+"ocr":{
+"text":"a 900i\nge\n|\n|",
+"conf":55.5
+},
+"text":"a 900i\nge\n|\n|"
+}
