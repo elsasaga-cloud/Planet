@@ -71,7 +71,7 @@
 1oIT6F6rJPPzQqV9TGK03-wHFA6yrN02-,SmartByte/MC/MC导轨.jpg,图片,.jpg,322197,85d43a1930a694ed56af4f4c5e0d1e32421b26f6eedc84cdeb53fc451baafa8a,meta,pillow+tesseract,0,,,thumbs/1oIT6F6rJPPzQqV9TGK03-wHFA6yrN02-.jpg,
 13cqBNBKnqFohYqwZf9wBnGTUbcFxR1sS,SmartByte/MC/MC挂耳.jpg,图片,.jpg,223332,cb832a7ed1d685702837688efeaab0ae6282592f767920923a3037860cb531d7,meta,pillow+tesseract,0,,,thumbs/13cqBNBKnqFohYqwZf9wBnGTUbcFxR1sS.jpg,
 1fVlo-ofhBf5PRnRturJKf3fS2t31CzR-,SmartByte/MC/MC系列问题及资料需求.docx,Word,.docx,309646,7642b170dfa72e3a747dd459fc5067612f6d51067f1cdfe6abfe7e6ecfb4976a,ok,python-docx(段落+表格+文本框+页眉页脚),1261,,text/1fVlo-ofhBf5PRnRturJKf3fS2t31CzR-.json,,
-1FJFxRS_bp3yS7cK1wtdKRdPnccZht4jB,SmartByte/MC/Price List.xlsx,Excel,.xlsx,2328576,c38de75e37ecc4f8eb36964ca5627ad8ad2eb8194512cf9cce1a28468fcd6da1,fail,,0,,,,BadZipFile: File is not a zip file
+1FJFxRS_bp3yS7cK1wtdKRdPnccZht4jB,SmartByte/MC/Price List.xlsx,Excel,.xlsx,2328576,c38de75e37ecc4f8eb36964ca5627ad8ad2eb8194512cf9cce1a28468fcd6da1,ok,xlrd,1921,,text/1FJFxRS_bp3yS7cK1wtdKRdPnccZht4jB.json,,
 1zREyMxaZ7ZttB2t1HOsMWtaudDZUqhSz,SmartByte/MC/Price List_Ethernet Media Converter.pdf,PDF,.pdf,282481,3f62e760d47e1e89bc0e927f033404ddcfc84cde716d6c49ed083dca3b77325d,ok,pdfplumber,1920,,text/1zREyMxaZ7ZttB2t1HOsMWtaudDZUqhSz.json,,
 1-SdoQgKtaI69mGk9d58FUUL-39aQRO9X,SmartByte/MC/STC-110FE/1.jpg,图片,.jpg,226690,3ba6cb243c643a106314dff6c86e02e5c35536d28bccb66a8dcf8e34e25e3a21,meta,pillow+tesseract,0,,,thumbs/1-SdoQgKtaI69mGk9d58FUUL-39aQRO9X.jpg,
 1E8c1avDLpp1ZAuCu8lUQCFzZaXmeLrbv,SmartByte/MC/STC-110FE/2.jpg,图片,.jpg,223460,381aafb8fa8037a75ae06f5431ceff36cc3d1801f66d3d7c9347463a2d7a2f69,meta,pillow+tesseract,0,,,thumbs/1E8c1avDLpp1ZAuCu8lUQCFzZaXmeLrbv.jpg,

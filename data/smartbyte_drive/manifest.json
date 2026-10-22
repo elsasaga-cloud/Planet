@@ -3013,9 +3013,9 @@
 },
 "MC":{
 "done":true,
-"at":"2026-10-22T02:07:03Z",
-"files":72,
-"bytes":98286416,
+"at":"2026-10-22T02:24:07Z",
+"files":73,
+"bytes":100614992,
 "parts":[
 {
 "asset":"smartbyte_drive_media_converter_part01.zip",
@@ -3170,8 +3170,21 @@
 "SmartByte/MC/STC-14DUR/Actual photos/9.png"
 ],
 "uploaded":true
+},
+{
+"asset":"smartbyte_drive_media_converter_retry202610220224_part01.zip",
+"bytes":2328730,
+"sha256":"64781e6e560228bc6732485dfc8daf5ca28dded888fdc0983de29d014cb5708a",
+"files":[
+"1FJFxRS_bp3yS7cK1wtdKRdPnccZht4jB"
+],
+"paths":[
+"SmartByte/MC/Price List.xlsx"
+],
+"uploaded":true
 }
-]
+],
+"retries":1
 },
 "Managed Industrial Ethernet Switch_最新资料":{
 "done":true,
@@ -5079,17 +5092,23 @@
 "ocr":true,
 "finished":"2026-10-22T02:21:29Z",
 "processed":2385
+},
+{
+"started":"2026-10-22T02:24:04Z",
+"todo":1,
+"workers":6,
+"backup":true,
+"ocr":true
 }
 ],
 "files_total_in_index":2385,
 "index_source":"Google Drive 文件夹《SmartByte》(id 1jI4rZhiG16A8ztB2LK-2YYlolxMbPLzQ)，Simon 于 2026-10-20 上传",
-"updated_at":"2026-10-22T02:21:29Z",
+"updated_at":"2026-10-22T02:24:07Z",
 "files_in_manifest":2385,
 "status_counts":{
-"ok":829,
-"dup":1076,
+"ok":830,
 "meta":479,
-"fail":1
+"dup":1076
 },
 "release_tag":"drive-smartbyte-20261022"
 },
@@ -7010,17 +7029,19 @@
 "ext":".xlsx",
 "bytes":2328576,
 "sha256":"c38de75e37ecc4f8eb36964ca5627ad8ad2eb8194512cf9cce1a28468fcd6da1",
-"status":"fail",
-"method":"",
-"chars":0,
+"status":"ok",
+"method":"xlrd",
+"chars":1921,
 "same_as":"",
-"text_file":"",
+"text_file":"text/1FJFxRS_bp3yS7cK1wtdKRdPnccZht4jB.json",
 "thumb":"",
-"error":"BadZipFile: File is not a zip file",
-"at":"2026-10-22T02:06:03Z",
+"error":"",
+"at":"2026-10-22T02:24:04Z",
 "index_summary":"SmartByte 价格表 ：Price List",
 "bytes_actual":2328576,
-"trace":"^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/openpyxl/reader/excel.py\", line 123, in __init__\n    self.archive = _validate_archive(fn)\n                   ^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/openpyxl/reader/excel.py\", line 95, in _validate_archive\n    archive = ZipFile(filename, 'r')\n              ^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/zipfile/__init__.py\", line 1396, in __init__\n    self._RealGetContents()\n  File \"/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/zipfile/__init__.py\", line 1463, in _RealGetContents\n    raise BadZipFile(\"File is not a zip file\")\nzipfile.BadZipFile: File is not a zip file\n",
+"warnings":[
+"扩展名为 xlsx 但实际是 OLE2 .xls（按内容识别）"
+],
 "secs":1.5
 },
 "1zREyMxaZ7ZttB2t1HOsMWtaudDZUqhSz":{
