@@ -1,0 +1,22 @@
+{
+"id":"1C1hh_zIUCe4-DSMtKK9QLTJa5EiYfWol",
+"name":"SFP Mechanical Drawing.png",
+"path":"SmartByte/工业管理/L2/STI-280GM/SFP Mechanical Drawing.png",
+"type":"图片",
+"bytes":125831,
+"sha256":"0f27647acae834167d760bd736800434bf7cf406b0f3cb69e7afbd5bd62ee0bf",
+"extracted_at":"2026-10-22T01:59:15Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":4254,
+"height":2010,
+"mode":"RGB",
+"thumb_bytes":4591
+},
+"ocr":{
+"text":"98mm\noo oo\n口 口 口 口\n98mm\nmm\nPWRI_PwR2\n人 品 console\nSOOOOS L J\n115200.N.8.1\n©®@\n| 48mm —_\n口\n下\n口\n中\n則,\n品\nqu),\n品\n48mm 一 一\nPo os\n90 O10\nE\n=\nSs\n人\n四",
+"conf":64.5
+},
+"text":"98mm\noo oo\n口 口 口 口\n98mm\nmm\nPWRI_PwR2\n人 品 console\nSOOOOS L J\n115200.N.8.1\n©®@\n| 48mm —_\n口\n下\n口\n中\n則,\n品\nqu),\n品\n48mm 一 一\nPo os\n90 O10\nE\n=\nSs\n人\n四"
+}

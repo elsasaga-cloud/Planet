@@ -1,0 +1,22 @@
+{
+"id":"1G0e1W-sIDjtnlSvIlJcAiNxrpce5mLTt",
+"name":"SC Mechanical Drawing.png",
+"path":"SmartByte/工业管理/L2/STI-280GM/SC Mechanical Drawing.png",
+"type":"图片",
+"bytes":130926,
+"sha256":"d593c4b6b3d1244c0b7fedb0b5462c89a040ed850d9b1fa45984e2be8c75f9d2",
+"extracted_at":"2026-10-22T01:59:16Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":4254,
+"height":2010,
+"mode":"RGB",
+"thumb_bytes":4636
+},
+"ocr":{
+"text":"98mm\noo oo\n口 口 口 口\n98mm\nmm\n© |\nPWR1_PWR2 E\n© fmensnsa Console E\noo\nQ S L J 了\nOODD |\nRS Tsao\n山 u86\nFr Uo Uo Uo Uo |\npojpo E\nE\noo\n中\nPo os\n90 O10\nE\n=\nSs\n人\n四",
+"conf":68.2
+},
+"text":"98mm\noo oo\n口 口 口 口\n98mm\nmm\n© |\nPWR1_PWR2 E\n© fmensnsa Console E\noo\nQ S L J 了\nOODD |\nRS Tsao\n山 u86\nFr Uo Uo Uo Uo |\npojpo E\nE\noo\n中\nPo os\n90 O10\nE\n=\nSs\n人\n四"
+}
