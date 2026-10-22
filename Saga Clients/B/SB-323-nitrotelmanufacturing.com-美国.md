@@ -19,12 +19,13 @@ replies: 0
 followups: 20
 first_contact: 2024-05-01
 last_contact: 2025-10-28
+s_mail: 13 msgs (out 10 / in 3), 2024-05-27 -> 2025-01-30
 p1: STI-288GPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -147,6 +148,29 @@ updated: 2026-10-21
 | 2025-10-08 | 108 | dac |  | A |  | US.xlsx#204 |
 | 2025-10-28 | 1028 | solar |  | A |  | US.xlsx#204 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：13 封（去 10 / 来 3）　|　**期间**：2024-05-27 → 2025-01-30　|　**最后去信**：2025-01-30
+- **对方邮箱**：sales@nitrotelmanufacturing.com
+- **最后一封来信**：2024-12-13 sales@nitrotelmanufacturing.com「Automatic reply: 24 Port Fiber Switch」：﻿ I'm currently away from the office until 12/17/24 and will respond to your email when I return. If you have an urgent request, please contact Joel Quesada / jquesada@nitrotelmanufacturing.com
+- **邮件里报过的价**：2024-12-13 $240；2024-08-15 $220；2024-06-26 $220
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 48 Port SFP Switch | 2025-01-30 | 2025-01-30 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-01-02 | 2025-01-02 | 0 | 1 | 1 |
+| 24 Port Fiber Switch | 2024-12-13 | 2024-12-13 | 0 | 1 | 1 |
+| Automatic reply: 24 Port Fiber Switch | 2024-12-13 | 2024-12-13 | 1 | 0 | 0 |
+| 90W PoE Managed Switch | 2024-11-21 | 2024-11-21 | 0 | 1 | 1 |
+| 24 Port Passive PoE Switch | 2024-10-22 | 2024-10-22 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2024-09-10 | 2024-09-10 | 0 | 1 | 1 |
+| 48 port managed switch | 2024-08-15 | 2024-08-15 | 0 | 1 | 1 |
+| 8 port poe switch | 2024-07-18 | 2024-07-18 | 0 | 1 | 1 |
+| Out of Office Re: 8 port poe switch | 2024-07-18 | 2024-07-18 | 1 | 0 | 0 |
+| 10G managed switch | 2024-06-26 | 2024-06-26 | 0 | 1 | 1 |
+| 8 port network switch | 2024-06-24 | 2024-06-24 | 0 | 1 | 1 |
+| …共 13 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`sales@nitrotelmanufacturing.com`〔企业邮箱；来源：用户表原值〕
@@ -252,12 +276,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

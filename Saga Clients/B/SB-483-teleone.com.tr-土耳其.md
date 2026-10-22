@@ -19,12 +19,13 @@ replies: 0
 followups: 2
 first_contact: 2025-09-26
 last_contact: 2025-10-24
+s_mail: 5 msgs (out 5 / in 0), 2024-06-19 -> 2024-11-18
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -132,6 +133,21 @@ updated: 2026-10-21
 | 2025-09-26 | 2025.9.26 | dac |  | A |  | 土耳其客户 3.10.xlsx#14 |
 | 2025-10-24 | 1024 | 24poe |  | A |  | 土耳其客户 3.10.xlsx#14 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：5 封（去 5 / 来 0）　|　**期间**：2024-06-19 → 2024-11-18　|　**最后去信**：2024-11-18
+- **对方邮箱**：info@teleone.com.tr
+- 对方从未回信（全部为我方去信）
+- **邮件里报过的价**：2024-06-19 $65
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 8 Port Ethernet Switch | 2024-11-18 | 2024-11-18 | 0 | 1 | 1 |
+| 2.5G Web Managed Switch | 2024-10-18 | 2024-10-18 | 0 | 1 | 1 |
+| Industrial poe media converter | 2024-08-13 | 2024-08-13 | 0 | 1 | 1 |
+| Passive poe switch | 2024-07-16 | 2024-07-16 | 0 | 1 | 1 |
+| 10G fiber media converter | 2024-06-19 | 2024-06-19 | 0 | 1 | 1 |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`info@teleone.com.tr`〔企业邮箱；来源：用户表原值〕
@@ -238,12 +254,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -21,12 +21,13 @@ replies: 1
 followups: 19
 first_contact: 2023-12-15
 last_contact: 2025-10-10
+s_mail: 1 msgs (out 1 / in 0), 2024-09-30 -> 2024-09-30
 p1: STI-288DGGPM
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -163,6 +164,16 @@ updated: 2026-10-21
 | ? | 73 | 16电 |  | A |  | PL 2.6.xlsx#13 |
 | ? | 85 | alarm |  | A |  | PL 2.6.xlsx#13 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：1 封（去 1 / 来 0）　|　**期间**：2024-09-30 → 2024-09-30　|　**最后去信**：2024-09-30
+- **对方邮箱**：bok@rfog.pl、tomasz.paszkowski@rfog.pl
+- 对方从未回信（全部为我方去信）
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Mini Industrial PoE Switch | 2024-09-30 | 2024-09-30 | 0 | 1 | 1 |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`bok@rfog.pl`〔企业邮箱；来源：用户表原值〕
@@ -273,12 +284,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-04**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-05**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 81）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 81）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

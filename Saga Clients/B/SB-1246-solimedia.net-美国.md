@@ -21,12 +21,13 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
+s_mail: 3 msgs (out 3 / in 0), 2025-01-20 -> 2026-10-19
 p1: STI-288GPM
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -135,6 +136,19 @@ updated: 2026-10-21
 
 （无跟进表记录）
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：3 封（去 3 / 来 0）　|　**期间**：2025-01-20 → 2026-10-19　|　**最后去信**：2026-10-19
+- **对方邮箱**：sales@solimedia.net
+- 对方从未回信（全部为我方去信）
+- **邮件里报过的价**：2026-10-19 $180；2026-10-05 $180
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 24 Port PoE Managed Switch | 2026-10-19 | 2026-10-19 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-10-05 | 2026-10-05 | 0 | 1 | 1 |
+| 8 Port Industrial PoE Switch | 2025-01-20 | 2025-01-21 | 1 | 1 | 3 |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`sales@solimedia.net`〔企业邮箱；来源：用户表原值〕
@@ -237,12 +251,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

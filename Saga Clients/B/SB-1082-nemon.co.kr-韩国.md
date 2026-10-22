@@ -19,12 +19,13 @@ replies: 0
 followups: 23
 first_contact: 2024-05-03
 last_contact: 2025-10-30
+s_mail: 9 msgs (out 9 / in 0), 2024-06-24 -> 2025-02-07
 p1: STC-424XGGM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -135,6 +136,25 @@ updated: 2026-10-21
 | 2025-10-30 | 1030 | solar |  | A |  | KR.xlsx#32 |
 | ? | 73 | 16电 |  | A |  | KR.xlsx#32 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：9 封（去 9 / 来 0）　|　**期间**：2024-06-24 → 2025-02-07　|　**最后去信**：2025-02-07
+- **对方邮箱**：support@nemon.co.kr
+- 对方从未回信（全部为我方去信）
+- **邮件里报过的价**：2024-12-23 $240；2024-07-24 $65
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 48 Port 10G Core Switch | 2025-02-07 | 2025-02-07 | 0 | 1 | 1 |
+| 48 Port SFP Switch | 2025-01-21 | 2025-01-21 | 0 | 1 | 1 |
+| 24 Port Fiber Switch | 2024-12-23 | 2024-12-23 | 0 | 1 | 1 |
+| 8 Port Industrial PoE Switch | 2024-11-25 | 2024-11-25 | 0 | 1 | 1 |
+| 10G Ethernet Web Managed Switch | 2024-10-24 | 2024-10-24 | 0 | 1 | 1 |
+| 100G Data Center Switch | 2024-09-25 | 2024-09-25 | 0 | 1 | 1 |
+| Mini industrial switch | 2024-08-22 | 2024-08-22 | 0 | 1 | 1 |
+| 10G fiber media converter | 2024-07-24 | 2024-07-24 | 0 | 1 | 1 |
+| PoE managed switch | 2024-06-24 | 2024-06-24 | 0 | 1 | 1 |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`support@nemon.co.kr`〔企业邮箱；来源：用户表原值〕
@@ -238,12 +258,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

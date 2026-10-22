@@ -19,12 +19,13 @@ replies: 0
 followups: 15
 first_contact: 2024-05-08
 last_contact: 2025-10-02
+s_mail: 7 msgs (out 6 / in 1), 2024-07-03 -> 2024-11-25
 p1: STI-110GE
 price_tier: 30%
 research: done
 site_snapshot: parked_or_empty  # 2026-10-21
 sources: 1
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -118,6 +119,23 @@ updated: 2026-10-21
 | 2025-10-02 | 102 | dac |  | A |  | Spain 2.9.xlsx#45 |
 | ? | 66 | 16电 |  | A |  | Spain 2.9.xlsx#45 |
 | ? | 95 | 24poe |  | A |  | Spain 2.9.xlsx#45 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：7 封（去 6 / 来 1）　|　**期间**：2024-07-03 → 2024-11-25　|　**最后去信**：2024-11-25
+- **对方邮箱**：compras@guilera.com、guilera@guilera.com、sales@guilera.com
+- **最后一封来信**：2024-08-05 sales@guilera.com「Resposta automàtica: 8 port Ethernet switch」：﻿ ﻿ Seré fora del 29 de juliol al 25 d'agost. Per qualsevol urgència a partir del 22/07, si us plau, contactin amb Eva Enríquez (customer_service@guilera.com) Estaré fuera del 29 de julio al 25 de agosto, Para cualquier urgencia a partir del 22/07, por favor c
+- **邮件里报过的价**：2024-11-25 $300；2024-07-03 $65
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 48 Port PoE Managed Switch | 2024-11-25 | 2024-11-25 | 0 | 1 | 1 |
+| 10G Ethernet Web Managed Switch | 2024-11-01 | 2024-11-01 | 0 | 1 | 1 |
+| 8 Port Industrial PoE Switch | 2024-09-25 | 2024-09-25 | 0 | 1 | 1 |
+| 2.5G Switch | 2024-08-23 | 2024-08-23 | 0 | 1 | 1 |
+| 8 port Ethernet switch | 2024-08-05 | 2024-08-05 | 0 | 1 | 1 |
+| Resposta automàtica: 8 port Ethernet switch | 2024-08-05 | 2024-08-05 | 1 | 0 | 0 |
+| 10G media converter | 2024-07-03 | 2024-07-03 | 0 | 1 | 1 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -229,12 +247,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -21,12 +21,13 @@ replies: 0
 followups: 17
 first_contact: 2024-06-13
 last_contact: 2025-10-24
+s_mail: 9 msgs (out 8 / in 1), 2024-06-13 -> 2024-12-24
 p1: STI-280DGGM
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -159,6 +160,25 @@ updated: 2026-10-21
 | 2025-10-24 | 1024 | 22mini |  | A |  | UK.xlsx#79 |
 | ? | 58 | network |  | A |  | UK.xlsx#79 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：9 封（去 8 / 来 1）　|　**期间**：2024-06-13 → 2024-12-24　|　**最后去信**：2024-12-24
+- **对方邮箱**：dan@switchtec.co.uk、dan@switchtec.com、sales@switchtec.co.uk
+- **最后一封来信**：2024-08-07 dan@switchtec.com「Automatic reply: 10G fiber media converter」：Thank you for your email. I'm currently on annual leave until the 12th August and will reply to any emails once available or on my return. Please contact sales@switchtec.com or 01785 818600 for any urgent enquiries, Best Regards Dan Switchtec Ltd
+- **邮件里报过的价**：2024-12-24 $300；2024-08-07 $65
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 48 Port PoE Managed Switch | 2024-12-24 | 2024-12-24 | 0 | 1 | 1 |
+| 90W PoE Managed Switch | 2024-12-10 | 2024-12-10 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2024-11-11 | 2024-11-11 | 0 | 1 | 1 |
+| 2.5G Web Managed Switch | 2024-10-14 | 2024-10-14 | 0 | 1 | 1 |
+| Passive poe switch | 2024-09-03 | 2024-09-03 | 0 | 1 | 1 |
+| 10G fiber media converter | 2024-08-07 | 2024-08-07 | 0 | 1 | 1 |
+| Automatic reply: 10G fiber media converter | 2024-08-07 | 2024-08-07 | 1 | 0 | 0 |
+| 8 port poe switch | 2024-07-09 | 2024-07-09 | 0 | 1 | 1 |
+| Industrial Ethernet Switch | 2024-06-13 | 2024-06-13 | 0 | 1 | 1 |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`dan@switchtec.co.uk`〔企业邮箱；来源：用户表原值〕
@@ -270,12 +290,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -19,12 +19,13 @@ replies: 0
 followups: 2
 first_contact: 2025-10-08
 last_contact: 2025-11-06
+s_mail: 7 msgs (out 7 / in 0), 2024-07-04 -> 2025-01-24
 p1: STI-110GE
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -124,6 +125,23 @@ updated: 2026-10-21
 |---|---|---|---|---|---|---|
 | 2025-10-08 | 2025.10.8 | dac |  | A |  | Japan 2.6.xlsx#5 |
 | 2025-11-06 | 116 | solar |  | A |  | Japan 2.6.xlsx#5 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：7 封（去 7 / 来 0）　|　**期间**：2024-07-04 → 2025-01-24　|　**最后去信**：2025-01-24
+- **对方邮箱**：support@solidcable.com
+- 对方从未回信（全部为我方去信）
+- **邮件里报过的价**：2024-12-31 $300
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| L3 Managed Switch | 2025-01-24 | 2025-01-24 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2024-12-31 | 2024-12-31 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2024-11-12 | 2024-11-12 | 0 | 1 | 1 |
+| 90W PoE Managed Switch | 2024-10-17 | 2024-10-17 | 0 | 1 | 1 |
+| 24 port poe switch | 2024-08-30 | 2024-08-30 | 0 | 1 | 1 |
+| 8 port poe switch | 2024-08-06 | 2024-08-06 | 0 | 1 | 1 |
+| 2.5G unmanaged switch | 2024-07-04 | 2024-07-04 | 0 | 1 | 1 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -233,12 +251,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 31）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 31）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

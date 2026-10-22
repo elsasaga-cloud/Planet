@@ -21,12 +21,13 @@ replies: 0
 followups: 1
 first_contact: 2025-10-08
 last_contact: 2025-10-08
+s_mail: 11 msgs (out 11 / in 0), 2024-06-16 -> 2024-12-04
 p1: STI-110GE
 price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -92,6 +93,25 @@ updated: 2026-10-21
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-10-08 | 2025.10.8 | dac |  | E |  | 巴林.xlsx#1 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：11 封（去 11 / 来 0）　|　**期间**：2024-06-16 → 2024-12-04　|　**最后去信**：2024-12-04
+- 对方从未回信（全部为我方去信）
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 8 Port Industrial PoE Switch | 2024-12-04 | 2024-12-04 | 0 | 1 | 1 |
+| 2.5G Web Managed Switch | 2024-11-06 | 2024-11-06 | 0 | 1 | 1 |
+| 24 Port Passive PoE Switch | 2024-10-18 | 2024-10-18 | 0 | 1 | 1 |
+| 8 Port Ethernet Switch | 2024-10-10 | 2024-10-10 | 0 | 1 | 1 |
+| industrial poe switch | 2024-09-08 | 2024-09-08 | 0 | 1 | 1 |
+| 8 port poe switch | 2024-08-30 | 2024-08-30 | 0 | 1 | 1 |
+| Industrial fiber switch | 2024-08-08 | 2024-08-08 | 0 | 1 | 1 |
+| 48 port managed switch | 2024-08-06 | 2024-08-06 | 0 | 1 | 1 |
+| industrial poe switch | 2024-07-08 | 2024-07-08 | 0 | 1 | 1 |
+| Commercial poe switch | 2024-07-06 | 2024-07-06 | 0 | 1 | 1 |
+| Din power adapter | 2024-06-16 | 2024-06-16 | 0 | 1 | 1 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -200,12 +220,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 51）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 51）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -21,12 +21,13 @@ replies: 1
 followups: 4
 first_contact: unknown
 last_contact: unknown
+s_mail: 6 msgs (out 5 / in 1), 2024-11-03 -> 2025-01-06
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -129,6 +130,17 @@ updated: 2026-10-21
 | ? | 1114 | 48口 |  | Email |  | VN.xlsx#160 |
 | ? | 1212 | 22mini |  | Email |  | VN.xlsx#160 |
 | ? | 1.6 | 16电 |  | Email |  | VN.xlsx#160 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：6 封（去 5 / 来 1）　|　**期间**：2024-11-03 → 2025-01-06　|　**最后去信**：2025-01-06
+- **最后一封来信**：2024-11-03 vienthonggiatotvn@gmail.com「Re: 8 Port Industrial PoE Switch」：What is the price? Vào 14:41 CN, 3 thg 11, 2024 Simon <s.sagatelecom@gmail.com> đã viết:
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 16 Port Ethernet Switch | 2025-01-06 | 2025-01-06 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2024-12-12 | 2024-12-12 | 0 | 1 | 1 |
+| 8 Port Industrial PoE Switch | 2024-11-03 | 2024-11-15 | 1 | 3 | 7 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -235,12 +247,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 21）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 21）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

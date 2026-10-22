@@ -19,12 +19,13 @@ replies: 0
 followups: 10
 first_contact: 2024-11-08
 last_contact: 2025-10-16
+s_mail: 1 msgs (out 1 / in 0), 2025-01-13 -> 2025-01-13
 p1: STI-110GE
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -133,6 +134,16 @@ updated: 2026-10-21
 | 2025-09-20 | 920 | alarm |  | A |  | Canada 3.5.xlsx#7 |
 | 2025-10-16 | 1016 | dac |  | A |  | Canada 3.5.xlsx#7 |
 | ? | 57 | 16电 |  | A |  | Canada 3.5.xlsx#7 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：1 封（去 1 / 来 0）　|　**期间**：2025-01-13 → 2025-01-13　|　**最后去信**：2025-01-13
+- **对方邮箱**：clindquist@wirewerks.com、info@wirewerks.com、sales@wirewerks.com
+- 对方从未回信（全部为我方去信）
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Industrial PoE Switch | 2025-01-13 | 2025-01-13 | 0 | 1 | 1 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -244,12 +255,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

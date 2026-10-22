@@ -21,12 +21,13 @@ replies: 1
 followups: 1
 first_contact: 2025-07-09
 last_contact: 2025-07-09
+s_mail: 8 msgs (out 6 / in 2), 2024-06-04 -> 2026-10-08
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -139,6 +140,24 @@ updated: 2026-10-21
 |---|---|---|---|---|---|---|
 | 2025-07-09 | 2025.7.9 | 16电 | 自己有型号了 | A |  | A Replied 09.04.xlsx#14 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：8 封（去 6 / 来 2）　|　**期间**：2024-06-04 → 2026-10-08　|　**最后去信**：2026-10-08
+- **对方邮箱**：sales@allnet.de、zerwes@allnet.de
+- **最后一封来信**：2024-08-05 zerwes@allnet.de「Automatische Antwort: 48 port managed switch」：Sehr geehrte Partner, vielen Dank f?r Ihre Email. Ich bin vom 26.07.2024 bis einschl. 09.08.24 im Urlaub. Ihre Email wird in der zwischenzeit nicht beantwortet. In dringenden F?llen k?nnen sie unseren Vertrieb unter Tel: 089/894222-22 erreichen. E-Mail: sales@
+- **邮件里报过的价**：2026-10-08 $180；2024-08-05 $220
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 24 Port PoE Managed Switch | 2026-10-08 | 2026-10-08 | 0 | 1 | 1 |
+| 90W PoE Managed Switch | 2024-11-28 | 2024-11-28 | 0 | 1 | 1 |
+| 10G Ethernet Web Managed Switch | 2024-10-14 | 2024-10-14 | 0 | 1 | 1 |
+| Mini industrial switch | 2024-08-26 | 2024-08-26 | 0 | 1 | 1 |
+| 48 port managed switch | 2024-08-05 | 2024-08-05 | 0 | 1 | 1 |
+| Automatische Antwort: 48 port managed switch | 2024-08-05 | 2024-08-05 | 1 | 0 | 0 |
+| 24 port managed switch | 2024-07-03 | 2024-07-03 | 0 | 1 | 1 |
+| Automatische Antwort: 10G media converter | 2024-06-04 | 2024-06-04 | 1 | 0 | 0 |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`zerwes@allnet.de`〔企业邮箱；来源：用户表原值〕
@@ -245,12 +264,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-04**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-05**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 88）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 88）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

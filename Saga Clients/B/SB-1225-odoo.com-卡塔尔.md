@@ -19,12 +19,13 @@ replies: 0
 followups: 4
 first_contact: 2025-06-19
 last_contact: 2025-09-19
+s_mail: 9 msgs (out 0 / in 9), 2024-05-22 -> 2025-01-20
 p1: STI-288GP
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -117,6 +118,23 @@ updated: 2026-10-21
 | 2025-07-15 | 715 | 16电 |  | A |  | 卡塔尔.xlsx#2 |
 | 2025-08-21 | 821 | 22迷你 |  | A |  | 卡塔尔.xlsx#2 |
 | 2025-09-19 | 919 | 24fiber |  | A |  | 卡塔尔.xlsx#2 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：9 封（去 0 / 来 9）　|　**期间**：2024-05-22 → 2025-01-20　|　**最后去信**：—
+- **最后一封来信**：2025-01-20 notifications@poewit-technologies-inc.odoo.com「16 Port PoE Managed Switch (#8756)」：Dear Simon, Your request 16 Port PoE Managed Switch has been received and is being reviewed by our Sales team. The reference of your ticket is 8756. View the ticket To add additional [...] ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 16 Port PoE Managed Switch (#8756) | 2025-01-20 | 2025-01-20 | 1 | 0 | 0 |
+| Mini Industrial PoE Switch (#8583) | 2024-12-25 | 2024-12-25 | 1 | 0 | 0 |
+| 90W PoE Managed Switch (#8327) | 2024-11-27 | 2024-11-27 | 1 | 0 | 0 |
+| 10G Media Converter (#8112) | 2024-10-31 | 2024-10-31 | 1 | 0 | 0 |
+| 2.5G Web Managed Switch (#7814) | 2024-09-29 | 2024-09-29 | 1 | 0 | 0 |
+| 2.5G Switch (#7479) | 2024-08-25 | 2024-08-25 | 1 | 0 | 0 |
+| 48 port managed switch (#7125) | 2024-07-21 | 2024-07-21 | 1 | 0 | 0 |
+| Industrial PoE Switch (#6772) | 2024-06-20 | 2024-06-20 | 1 | 0 | 0 |
+| Layer 3 managed switch (#6427) | 2024-05-22 | 2024-05-22 | 1 | 0 | 0 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -221,12 +239,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

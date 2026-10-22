@@ -19,12 +19,13 @@ replies: 0
 followups: 1
 first_contact: 2025-02-10
 last_contact: 2025-02-10
+s_mail: 2 msgs (out 0 / in 2), 2024-09-30 -> 2024-10-28
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
 site_snapshot: timeout  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -105,6 +106,17 @@ updated: 2026-10-21
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-02-10 | 2025.2.10 | 28poe |  | E |  | VN.xlsx#3 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：2 封（去 0 / 来 2）　|　**期间**：2024-09-30 → 2024-10-28　|　**最后去信**：—
+- **对方邮箱**：info@phuongdung.com
+- **最后一封来信**：2024-10-28 info@phuongdung.com「Reply to Phuong Dung Telecom Re: 10G Ethernet Web Managed Switch」：Chào Qúy Khách Phương Dung Telecom đã nhận được thông tin của Qúy Khách. Chúng tôi sẽ phản hồi lại trong thời gian sớm nhất có thể. Xin chân thành cảm ơn và rất mong sẽ luôn là đối tác cùng đồng hành trong sự phát triển của Qúy Khách. #Phuong Dung Telecom -- -
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Reply to Phuong Dung Telecom Re: 10G Ethernet Web Managed Switch | 2024-10-28 | 2024-10-28 | 1 | 0 | 0 |
+| Reply to Phuong Dung Telecom Re: Industrial PoE Switch | 2024-09-30 | 2024-09-30 | 1 | 0 | 0 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -214,12 +226,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

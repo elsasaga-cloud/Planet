@@ -21,12 +21,13 @@ replies: 1
 followups: 12
 first_contact: 2024-02-27
 last_contact: 2025-01-07
+s_mail: 12 msgs (out 11 / in 1), 2024-06-21 -> 2026-10-20
 p1: STI-280GE
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -116,6 +117,23 @@ updated: 2026-10-21
 | 2024-12-05 | 125 | 22Mini |  | Email |  | VN.xlsx#162 |
 | 2024-12-18 | 1218 | 48口 |  | Email |  | VN.xlsx#162 |
 | 2025-01-07 | 1.7 | 24 |  | Email |  | VN.xlsx#162 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：12 封（去 11 / 来 1）　|　**期间**：2024-06-21 → 2026-10-20　|　**最后去信**：2026-10-20
+- **对方邮箱**：hydraulics@vnn.vn
+- **最后一封来信**：2024-06-21 chuyengiathuykhi@gmail.com「Re: 8 port fiber switch」：Please quote me 10pcs. *Mr. Ly Thanh Ha (Lee Thanh Ha)* Project Manager MTS JSC VAT Code 0101892941 No. 166, Tuu Liet road, Tam Hiep Ward Thanh Tri District, Hanoi, VIET NAM Zip Code 134109 Phone: +84436416189 +84436416189 Mobile: +84912336758 for WeChat, What
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 24 Port PoE Managed Switch | 2026-10-20 | 2026-10-20 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2025-01-07 | 2025-01-07 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2024-12-19 | 2024-12-19 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2024-12-05 | 2024-12-05 | 0 | 1 | 1 |
+| 10G Media Converter | 2024-10-25 | 2024-10-25 | 0 | 1 | 1 |
+| 8 Port Ethernet Switch | 2024-09-16 | 2024-09-16 | 0 | 1 | 1 |
+| 8 port poe switch | 2024-08-15 | 2024-08-15 | 0 | 1 | 1 |
+| 8 port fiber switch | 2024-06-21 | 2024-07-18 | 1 | 4 | 9 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -223,12 +241,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 44）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 44）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

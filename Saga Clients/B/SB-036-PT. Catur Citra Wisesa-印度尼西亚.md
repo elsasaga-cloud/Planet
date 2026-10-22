@@ -21,12 +21,13 @@ replies: 2
 followups: 14
 first_contact: 2024-04-28
 last_contact: 2025-10-09
+s_mail: 2 msgs (out 2 / in 0), 2024-06-21 -> 2024-11-20
 p1: STI-054GP
 price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -103,6 +104,16 @@ updated: 2026-10-21
 | 2025-04-30 | 430 | marvell商业组合图 |  |  |  | Whatsapp_S跟进 2026.08.04.xlsx#16 |
 | 2025-06-21 | 621 | 工业非管理组合图 |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#16 |
 | 2025-10-09 | 109 | dac |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#16 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：2 封（去 2 / 来 0）　|　**期间**：2024-06-21 → 2024-11-20　|　**最后去信**：2024-11-20
+- 对方从未回信（全部为我方去信）
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 10G Media Converter | 2024-11-20 | 2024-11-20 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2024-06-21 | 2024-06-21 | 0 | 1 | 1 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -207,12 +218,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 58）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 58）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

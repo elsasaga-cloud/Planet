@@ -250,7 +250,7 @@
 2024-06-14,oreind@oreind.is,oreind.is,SC-919,C,48 port managed switch,,,220,单价,"Price is very competitive, 220usd/pc",2cc0cb3e1de614ac
 2024-06-14,pyrotech@pyrotechindia.com,pyrotechindia.com,SC-1144,C,48 port managed switch,,,220,单价,"Price is very competitive, 220usd/pc",2f19fd88e54c4ae4
 2024-06-14,info@eslife.com.tr,eslife.com.tr,,,10G fiber media converter,,,65,单价,"Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE,",51fbb9dcf31b9d61
-2024-06-14,contact@angoranetworks.com,angoranetworks.com,,,10G media converter,,,65,单价,"Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE,",5a7462bd6546e100
+2024-06-14,contact@angoranetworks.com,angoranetworks.com,SA-168,A,10G media converter,,,65,单价,"Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE,",5a7462bd6546e100
 2024-06-15,lohiarajesh@yahoo.co.in,yahoo.co.in,,,10G media converter,,,65,单价,"Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE,",ac17c3ad022619f9
 2024-06-14,sales@zelax.ru,zelax.ru,SA-106,B,48 port managed switch,,,220,单价,"Price is very competitive, 220usd/pc",d48f4c0bc83a65bb
 2024-06-14,cctvcamarageral@gmail.com,gmail.com,,,10G media converter,,,65,单价,"Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE,",5be19e87532d4d56
@@ -657,11 +657,11 @@
 2024-08-26,triplehris@triplenet.co.kr,triplenet.co.kr,SB-1091,B,10G media converter,,,65,单价,"Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE,",9b8cd47cb662b659
 2024-08-26,ali@starcom.net.pk,starcom.net.pk,SC-2933,C,10G media converter,,,65,单价,"Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE,",3797604a7a2cf482
 2024-08-23,info@voxplus.it,voxplus.it,SB-193,B,10G media converter,,,65,单价,"Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE,",73b64fd04213109a
-2024-08-26,tesen@angoranetworks.com,angoranetworks.com,,,Angora Demo Inventory Order,,,190,单价,190usd/pc,e98775424a793fd4
-2024-08-26,tesen@angoranetworks.com,angoranetworks.com,,,Angora Demo Inventory Order,,,215,单价,215usd/pc,e98775424a793fd4
-2024-08-26,tesen@angoranetworks.com,angoranetworks.com,,,Angora Demo Inventory Order,,STI-0160GE STI-01616GP,100,单价,100usd/pc,87a45c8bad0c32c1
-2024-08-26,tesen@angoranetworks.com,angoranetworks.com,,,Angora Demo Inventory Order,,STI-0160GE STI-01616GP,120,单价,120usd/pc,87a45c8bad0c32c1
-2024-08-26,tesen@angoranetworks.com,angoranetworks.com,,,Angora Demo Inventory Order,,STI-0160GE STI-01616GP,560,单价,560usd/pc,87a45c8bad0c32c1
+2024-08-26,tesen@angoranetworks.com,angoranetworks.com,SA-168,A,Angora Demo Inventory Order,,,190,单价,190usd/pc,e98775424a793fd4
+2024-08-26,tesen@angoranetworks.com,angoranetworks.com,SA-168,A,Angora Demo Inventory Order,,,215,单价,215usd/pc,e98775424a793fd4
+2024-08-26,tesen@angoranetworks.com,angoranetworks.com,SA-168,A,Angora Demo Inventory Order,,STI-0160GE STI-01616GP,100,单价,100usd/pc,87a45c8bad0c32c1
+2024-08-26,tesen@angoranetworks.com,angoranetworks.com,SA-168,A,Angora Demo Inventory Order,,STI-0160GE STI-01616GP,120,单价,120usd/pc,87a45c8bad0c32c1
+2024-08-26,tesen@angoranetworks.com,angoranetworks.com,SA-168,A,Angora Demo Inventory Order,,STI-0160GE STI-01616GP,560,单价,560usd/pc,87a45c8bad0c32c1
 2024-08-26,corporate@tejasnetworks.com,tejasnetworks.com,SC-785,C,48 port switch,,,300,单价,"Price is very competitive, 300usd/pc",ff08ae0abb9a44e4
 2024-08-26,sales@eurolan.net,eurolan.net,SC-2379,C,10G fiber media converter,,,65,单价,"Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE,",92534d525532a2ce
 2024-08-23,sale@entasource.co.th,entasource.co.th,SA-043,A,10G media converter,,,65,单价,"Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE,",9a7dd6d012ab5cf1
@@ -1038,8 +1038,8 @@
 2024-09-12,fred.bell@molex.com,molex.com,SB-1119,C,10G Media Converter,,,65,单价,"Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE,",86627a4682294739
 2024-09-12,sales@maintechconnect.com,maintechconnect.com,SB-321,B,48 Port PoE Managed Switch,,,300,单价,"Price is very competitive, 300usd/pc",469dd11f65f59e19
 2024-09-12,info@madalix.co.il,madalix.co.il,SB-775,B,10G Media Converter,,,65,单价,"Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE,",c07f735777d36310
-2024-09-17,lkilic@angoranetworks.com,angoranetworks.com,,,Angora Networks - 250 pieces potential order,,,10106.2,单价,"10K for the deposit is fine, 105*385*0.25=10106.25usd.",48e5683f5dca7956
-2024-09-17,lkilic@angoranetworks.com,angoranetworks.com,,,Angora Networks - 250 pieces potential order,,,5000,运费/其它,"By our shipping agent, it is roughly 5,000USD by FedEx(cheapest option),",48e5683f5dca7956
+2024-09-17,lkilic@angoranetworks.com,angoranetworks.com,SA-168,A,Angora Networks - 250 pieces potential order,,,10106.2,单价,"10K for the deposit is fine, 105*385*0.25=10106.25usd.",48e5683f5dca7956
+2024-09-17,lkilic@angoranetworks.com,angoranetworks.com,SA-168,A,Angora Networks - 250 pieces potential order,,,5000,运费/其它,"By our shipping agent, it is roughly 5,000USD by FedEx(cheapest option),",48e5683f5dca7956
 2024-09-13,sales@lightoptics.co.uk,lightoptics.co.uk,SC-374,C,10G Media Converter,,,65,单价,"Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE,",fd256e2a794087c0
 2024-09-13,info@ipvoiceshop.nl,ipvoiceshop.nl,SB-1116,B,10G Media Converter,,,65,单价,"Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE,",99f8334dfe921ecd
 2024-09-13,contact@inv-technology.com,inv-technology.com,SB-839,B,10G Media Converter,,,65,单价,"Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE,",4eee3f51647ecf7a
@@ -1178,10 +1178,10 @@
 2024-09-02,thanhbinhtechnology@gmail.com,gmail.com,,,48 port switch,,,300,单价,"Price is very competitive, 300usd/pc",e0943f5037daa9d6
 2024-09-02,worldcns@hanmail.net,hanmail.net,,,10G media converter,,,65,单价,"Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE,",7b2e58a2dc1bf983
 2024-09-02,info@jdktech.com.au,jdktech.com.au,SB-542,B,10G media converter,,,65,单价,"Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE,",d06aebb99acc3a29
-2024-10-25,tesen@angoranetworks.com,angoranetworks.com,,,Invoice_5pcs STC-424DGGPM-280W,,,200,单价,"After your confirmation, please made payment 200USD to the same bank a/c as",d961c5cd5dca7ab6
-2024-10-24,tesen@angoranetworks.com,angoranetworks.com,,,Invoice_5pcs STC-424DGGPM-280W,,,200,单价,"2, 200usd for this software change and this amount will be fully deducted",5b07861cfd7ab9c2
-2024-10-24,tesen@angoranetworks.com,angoranetworks.com,,,Invoice_5pcs STC-424DGGPM-280W,,,10,单价,cost is 10usd/each.,5b07861cfd7ab9c2
-2024-10-24,tesen@angoranetworks.com,angoranetworks.com,,,Invoice_5pcs STC-424DGGPM-280W,,,160,单价,Which means the unit price is 160usd/pc later(of course we will give a,5b07861cfd7ab9c2
+2024-10-25,tesen@angoranetworks.com,angoranetworks.com,SA-168,A,Invoice_5pcs STC-424DGGPM-280W,,,200,单价,"After your confirmation, please made payment 200USD to the same bank a/c as",d961c5cd5dca7ab6
+2024-10-24,tesen@angoranetworks.com,angoranetworks.com,SA-168,A,Invoice_5pcs STC-424DGGPM-280W,,,200,单价,"2, 200usd for this software change and this amount will be fully deducted",5b07861cfd7ab9c2
+2024-10-24,tesen@angoranetworks.com,angoranetworks.com,SA-168,A,Invoice_5pcs STC-424DGGPM-280W,,,10,单价,cost is 10usd/each.,5b07861cfd7ab9c2
+2024-10-24,tesen@angoranetworks.com,angoranetworks.com,SA-168,A,Invoice_5pcs STC-424DGGPM-280W,,,160,单价,Which means the unit price is 160usd/pc later(of course we will give a,5b07861cfd7ab9c2
 2024-10-16,info@southernelements.co.za,southernelements.co.za,SC-1388,C,Industrial PoE Switch,,STI-154GP,37,单价,*37usd/pc*,1e54f5394e19a0cc
 2024-10-22,inam@alrajhitel.com,alrajhitel.com,,,Industrial PoE Switch,,STI-154GP,36,单价,*36usd/pc*,775f9ed585dd20d5
 2024-10-15,saeed@e-saudi.net,e-saudi.net,SB-431,B,Industrial poe switch,,,50,单价,"50usd/pc, 2*1G/2.5G/10G SFP Fiber ports+4*100M/1G/2.5G Ethernet ports,",600c9221602d0b9d
@@ -1278,17 +1278,17 @@
 2024-10-01,sales@blake-uk.com,blake-uk.com,SC-2759,C,10G Media Converter,,,65,单价,"Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE,",89a8996e31aa7779
 2024-10-01,sh@motionfiber.de,motionfiber.de,SC-2506,C,10G Media Converter,,,65,单价,"Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE,",6d48a98d9f146c51
 2024-11-19,gmassott@versitron.com,versitron.com,SB-924,B,48 Port PoE Managed Switch,,,300,单价,"*Price is very competitive, 300usd/pc*",c9f08eec36ddb223
-2024-11-28,lkilic@angoranetworks.com,angoranetworks.com,,,Angora Networks - New order 2116-PG,,,150,单价,1. Unit price: 150usd(device)+1usd(console cable)=151usd/pc,00f9593232d28840
-2024-11-28,lkilic@angoranetworks.com,angoranetworks.com,,,Angora Networks - New order 2116-PG,,,151,单价,1. Unit price: 150usd(device)+1usd(console cable)=151usd/pc,00f9593232d28840
-2024-11-28,lkilic@angoranetworks.com,angoranetworks.com,,,Angora Networks - New order 2116-PG,,,143.45,单价,"That is, 151*0.95=143.45usd/pc as final unit price",00f9593232d28840
-2024-11-28,lkilic@angoranetworks.com,angoranetworks.com,,,Angora Networks - New order 2116-PG,,,230,单价,"100pcs PVC mask, 2.3usd/pc, that is 230usd",00f9593232d28840
-2024-11-28,lkilic@angoranetworks.com,angoranetworks.com,,,Angora Networks - New order 2116-PG,,,200,单价,Software cost deduction: 200usd,00f9593232d28840
-2024-11-28,lkilic@angoranetworks.com,angoranetworks.com,,,Angora Networks - New order 2116-PG,,,230,单价,This is about 230usd-200usd=30usd,00f9593232d28840
-2024-11-28,lkilic@angoranetworks.com,angoranetworks.com,,,Angora Networks - New order 2116-PG,,,200,单价,This is about 230usd-200usd=30usd,00f9593232d28840
-2024-11-28,lkilic@angoranetworks.com,angoranetworks.com,,,Angora Networks - New order 2116-PG,,,30,单价,This is about 230usd-200usd=30usd,00f9593232d28840
-2024-11-28,lkilic@angoranetworks.com,angoranetworks.com,,,Angora Networks - New order 2116-PG,,,30,运费/其它,"3, Total cost without shipping: 143.45*174+30usd=24990.3usd",00f9593232d28840
-2024-11-28,lkilic@angoranetworks.com,angoranetworks.com,,,Angora Networks - New order 2116-PG,,,24990.3,运费/其它,"3, Total cost without shipping: 143.45*174+30usd=24990.3usd",00f9593232d28840
-2024-11-28,lkilic@angoranetworks.com,angoranetworks.com,,,Angora Networks - New order 2116-PG,,,174,单价,"Btw: for the console cable cost, that is 174usd, we will try to deduct this",00f9593232d28840
+2024-11-28,lkilic@angoranetworks.com,angoranetworks.com,SA-168,A,Angora Networks - New order 2116-PG,,,150,单价,1. Unit price: 150usd(device)+1usd(console cable)=151usd/pc,00f9593232d28840
+2024-11-28,lkilic@angoranetworks.com,angoranetworks.com,SA-168,A,Angora Networks - New order 2116-PG,,,151,单价,1. Unit price: 150usd(device)+1usd(console cable)=151usd/pc,00f9593232d28840
+2024-11-28,lkilic@angoranetworks.com,angoranetworks.com,SA-168,A,Angora Networks - New order 2116-PG,,,143.45,单价,"That is, 151*0.95=143.45usd/pc as final unit price",00f9593232d28840
+2024-11-28,lkilic@angoranetworks.com,angoranetworks.com,SA-168,A,Angora Networks - New order 2116-PG,,,230,单价,"100pcs PVC mask, 2.3usd/pc, that is 230usd",00f9593232d28840
+2024-11-28,lkilic@angoranetworks.com,angoranetworks.com,SA-168,A,Angora Networks - New order 2116-PG,,,200,单价,Software cost deduction: 200usd,00f9593232d28840
+2024-11-28,lkilic@angoranetworks.com,angoranetworks.com,SA-168,A,Angora Networks - New order 2116-PG,,,230,单价,This is about 230usd-200usd=30usd,00f9593232d28840
+2024-11-28,lkilic@angoranetworks.com,angoranetworks.com,SA-168,A,Angora Networks - New order 2116-PG,,,200,单价,This is about 230usd-200usd=30usd,00f9593232d28840
+2024-11-28,lkilic@angoranetworks.com,angoranetworks.com,SA-168,A,Angora Networks - New order 2116-PG,,,30,单价,This is about 230usd-200usd=30usd,00f9593232d28840
+2024-11-28,lkilic@angoranetworks.com,angoranetworks.com,SA-168,A,Angora Networks - New order 2116-PG,,,30,运费/其它,"3, Total cost without shipping: 143.45*174+30usd=24990.3usd",00f9593232d28840
+2024-11-28,lkilic@angoranetworks.com,angoranetworks.com,SA-168,A,Angora Networks - New order 2116-PG,,,24990.3,运费/其它,"3, Total cost without shipping: 143.45*174+30usd=24990.3usd",00f9593232d28840
+2024-11-28,lkilic@angoranetworks.com,angoranetworks.com,SA-168,A,Angora Networks - New order 2116-PG,,,174,单价,"Btw: for the console cable cost, that is 174usd, we will try to deduct this",00f9593232d28840
 2024-11-21,f.kriewitz@nynex.de,nynex.de,SA-013,A,48 Port PoE Managed Switch,,,265,单价,Lets do 265usd/pc for dual AC input(an extra 35usd).,f2e1b29e2a1ebeae
 2024-11-21,f.kriewitz@nynex.de,nynex.de,SA-013,A,48 Port PoE Managed Switch,,,35,单价,Lets do 265usd/pc for dual AC input(an extra 35usd).,f2e1b29e2a1ebeae
 2024-11-20,f.kriewitz@nynex.de,nynex.de,SA-013,A,48 Port PoE Managed Switch,,,230,单价,"Yes, 230usd/pc, single AC input.",9a7e87c0eef923b1
@@ -1303,8 +1303,8 @@
 2024-11-13,thup@vilinknet.com,vilinknet.com,SA-011,A,10G Media Converter,,,65,单价,"*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",fc98289bea1ccdb9
 2024-11-29,info@linkupcomms.com,linkupcomms.com,SC-2981,C,10G Media Converter,,,65,单价,"*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",ad488d6c6b141fa5
 2024-11-29,rodo@eltrox.pl,eltrox.pl,SC-2286,C,48 Port PoE Managed Switch,,,300,单价,"*Price is very competitive, 300usd/pc*",b775010b49cde012
-2024-11-23,lkilic@angoranetworks.com,angoranetworks.com,,,New Quotation,,,300,运费/其它,"Option 1: FedEx, 4~6 days, 300usd",094b92c8cf2f12bc
-2024-11-23,lkilic@angoranetworks.com,angoranetworks.com,,,New Quotation,,,220,运费/其它,"Option 2: DHL, 7~10 days, 220usd",094b92c8cf2f12bc
+2024-11-23,lkilic@angoranetworks.com,angoranetworks.com,SA-168,A,New Quotation,,,300,运费/其它,"Option 1: FedEx, 4~6 days, 300usd",094b92c8cf2f12bc
+2024-11-23,lkilic@angoranetworks.com,angoranetworks.com,SA-168,A,New Quotation,,,220,运费/其它,"Option 2: DHL, 7~10 days, 220usd",094b92c8cf2f12bc
 2024-11-29,sales@logicbus.com,logicbus.com,SC-2385,C,48 Port PoE Managed Switch,,,300,单价,"*Price is very competitive, 300usd/pc*",1379c9c5eca75ba0
 2024-11-29,soporte@pagina.mx,pagina.mx,SC-2462,C,48 Port PoE Managed Switch,,,300,单价,"*Price is very competitive, 300usd/pc*",3e1fef3cd94333c6
 2024-11-29,info@extremecopper.com,extremecopper.com,SC-2727,C,48 Port PoE Managed Switch,,,300,单价,"*Price is very competitive, 300usd/pc*",2825c01fc73f04fa
@@ -2262,7 +2262,7 @@
 2024-12-02,dtc@datacomquocte.com,datacomquocte.com,SC-1020,C,48 Port PoE Managed Switch,,,300,单价,"*Price is very competitive, 300usd/pc*",2c3011f356a28d00
 2024-12-02,support@technologysolution.co.th,technologysolution.co.th,SC-2799,C,48 Port PoE Managed Switch,,,300,单价,"*Price is very competitive, 300usd/pc*",a552828e09984dbc
 2025-01-31,godinus@neowine.com,neowine.com,SA-145,B,48 Port PoE Managed Switch,,,300,单价,"*Price is very competitive, 300usd/pc*",ec3a49b86a072ec7
-2025-01-16,tesen@angoranetworks.com,angoranetworks.com,,,Angora Networks - New order 2116-PG,,,10000,单价,"1, We got your initial payment 10,000Usd.",caf84e7ec6848602
+2025-01-16,tesen@angoranetworks.com,angoranetworks.com,SA-168,A,Angora Networks - New order 2116-PG,,,10000,单价,"1, We got your initial payment 10,000Usd.",caf84e7ec6848602
 2025-01-30,sales@ogartechnology.com,ogartechnology.com,SC-2591,C,24 Port Fiber Switch,,,240,单价,Price: 240usd/pc,b01747be28fa863a
 2025-01-31,stefen.sidharta@yahoo.com,yahoo.com,,,48 Port PoE Managed Switch,,,300,单价,"*Price is very competitive, 300usd/pc*",a32ccd4b90bf7b63
 2025-01-31,sales@meridian-tech.com,meridian-tech.com,SB-322,B,10G Media Converter,,,65,单价,"*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",d58defe633e59a37
@@ -2485,20 +2485,20 @@
 2025-02-05,mdakhtar943.phusro@gmail.com,gmail.com,,,24 Port Fiber Switch,,,240,单价,Price: 240usd/pc,bf3de71074049bb2
 2025-02-05,sales.sg@alstron.com.sg,alstron.com.sg,SC-2632,C,10G Media Converter,,,65,单价,"*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,",442c8234dd66f45a
 2025-02-05,info@sejahteramandiri.com,sejahteramandiri.com,SC-1152,C,24 Port Fiber Switch,,,240,单价,Price: 240usd/pc,eabe45805147af07
-2025-03-12,lkilic@angoranetworks.com,angoranetworks.com,,,PI for New Order: 7 Units of Commercial L2+ Switches,,,100,单价,"Price for 2*1G/2.5G: 100usd/pc(DC type, 90usd/pc)",dc47c9508a0f57ba
-2025-03-12,lkilic@angoranetworks.com,angoranetworks.com,,,PI for New Order: 7 Units of Commercial L2+ Switches,,,90,单价,"Price for 2*1G/2.5G: 100usd/pc(DC type, 90usd/pc)",dc47c9508a0f57ba
-2025-03-12,lkilic@angoranetworks.com,angoranetworks.com,,,PI for New Order: 7 Units of Commercial L2+ Switches,,,105,单价,"Price for 4*1G/2.5G: 105usd/pc(DC type, 93usd/pc)",dc47c9508a0f57ba
-2025-03-12,lkilic@angoranetworks.com,angoranetworks.com,,,PI for New Order: 7 Units of Commercial L2+ Switches,,,93,单价,"Price for 4*1G/2.5G: 105usd/pc(DC type, 93usd/pc)",dc47c9508a0f57ba
-2025-03-19,lkilic@angoranetworks.com,angoranetworks.com,,,Data Center switches,,,4600,单价,The best we can do is 4600USD/pc for now.,4f38791bbfde04fc
-2025-03-18,lkilic@angoranetworks.com,angoranetworks.com,,,Data Center switches,,,4800,单价,4800USD/pc,208b7dcb8e3c1f8a
-2025-03-03,lkilic@angoranetworks.com,angoranetworks.com,,,Angora Networks - New order 2116-PG,,,37174,单价,*The balance amount is 37174 USD.*,4e7b89312cf4765e
+2025-03-12,lkilic@angoranetworks.com,angoranetworks.com,SA-168,A,PI for New Order: 7 Units of Commercial L2+ Switches,,,100,单价,"Price for 2*1G/2.5G: 100usd/pc(DC type, 90usd/pc)",dc47c9508a0f57ba
+2025-03-12,lkilic@angoranetworks.com,angoranetworks.com,SA-168,A,PI for New Order: 7 Units of Commercial L2+ Switches,,,90,单价,"Price for 2*1G/2.5G: 100usd/pc(DC type, 90usd/pc)",dc47c9508a0f57ba
+2025-03-12,lkilic@angoranetworks.com,angoranetworks.com,SA-168,A,PI for New Order: 7 Units of Commercial L2+ Switches,,,105,单价,"Price for 4*1G/2.5G: 105usd/pc(DC type, 93usd/pc)",dc47c9508a0f57ba
+2025-03-12,lkilic@angoranetworks.com,angoranetworks.com,SA-168,A,PI for New Order: 7 Units of Commercial L2+ Switches,,,93,单价,"Price for 4*1G/2.5G: 105usd/pc(DC type, 93usd/pc)",dc47c9508a0f57ba
+2025-03-19,lkilic@angoranetworks.com,angoranetworks.com,SA-168,A,Data Center switches,,,4600,单价,The best we can do is 4600USD/pc for now.,4f38791bbfde04fc
+2025-03-18,lkilic@angoranetworks.com,angoranetworks.com,SA-168,A,Data Center switches,,,4800,单价,4800USD/pc,208b7dcb8e3c1f8a
+2025-03-03,lkilic@angoranetworks.com,angoranetworks.com,SA-168,A,Angora Networks - New order 2116-PG,,,37174,单价,*The balance amount is 37174 USD.*,4e7b89312cf4765e
 2025-04-29,pchurley@actelis.com,actelis.com,SB-933,B,[External]L3 Managed Switch,,STI-42424XGGPM-4BT,500,单价,"500usd/pc, STI-42424XGGPM-4BT",d6394cf0f807b767
 2025-04-28,frank@simrex.com,simrex.com,SA-002,A,48 Port PoE Managed Switch,,,300,单价,"*Price is very competitive, 300usd/pc*",95cec6bd97cfe34e
 2025-04-28,asteldigicom@eim.ae,eim.ae,,,90W PoE Managed Switch,,STI-21616DGGPM STI-244DGGPM STI-288DGGPM,110,单价,"STI-244DGGPM, 110usd/pc",13c00bbc4cc5b9d8
 2025-04-28,asteldigicom@eim.ae,eim.ae,,,90W PoE Managed Switch,,STI-21616DGGPM STI-244DGGPM STI-288DGGPM,125,单价,"STI-288DGGPM, 125usd/pc",13c00bbc4cc5b9d8
 2025-04-28,asteldigicom@eim.ae,eim.ae,,,90W PoE Managed Switch,,STI-21616DGGPM STI-244DGGPM STI-288DGGPM,220,单价,"STI-21616DGGPM, 220usd/pc",13c00bbc4cc5b9d8
 2025-04-07,sergiy.khodun@gmail.com,gmail.com,,,48 Port PoE Managed Switch,,,300,单价,"*Price is very competitive, 300usd/pc*",c8272fb0fa5b3265
-2025-05-08,tesen@angoranetworks.com,angoranetworks.com,,,Confirmation about Unshipped Materials,,,255,单价,"2, the payment difference will be 255USD, lets add it in next order and now",bc5ffbb6d2fd04e9
+2025-05-08,tesen@angoranetworks.com,angoranetworks.com,SA-168,A,Confirmation about Unshipped Materials,,,255,单价,"2, the payment difference will be 255USD, lets add it in next order and now",bc5ffbb6d2fd04e9
 2025-06-25,anniepalatoni@gmail.com,gmail.com,,,48 Port PoE Managed Switch,,,300,单价,"*Price is very competitive, 300usd/pc*",ebabde8e41b4337d
 2025-06-25,zack@megatelindustries.com,megatelindustries.com,SA-135,B,48 Port PoE Managed Switch,,,300,单价,"*Price is very competitive, 300usd/pc*",54d7319eb2186b6d
 2025-06-25,petertarquinio@antronix.com,antronix.com,SA-066,A,48 Port PoE Managed Switch,,,300,单价,"*Price is very competitive, 300usd/pc*",356ffdec1064aec6

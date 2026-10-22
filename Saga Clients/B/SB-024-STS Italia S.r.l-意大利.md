@@ -21,12 +21,13 @@ replies: 1
 followups: 8
 first_contact: 2024-02-04
 last_contact: 2024-10-13
+s_mail: 3 msgs (out 2 / in 1), 2024-11-20 -> 2024-12-12
 p1: STC-424DGGPM-280W
 price_tier: 25%
 research: done
 site_snapshot: parked_or_empty  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -129,6 +130,17 @@ updated: 2026-10-21
 | ? | 1212 | 24poe |  | Email |  | Italy 3.2.xlsx#38 |
 | ? | 77 | 16电 |  | A |  | Italy 3.2.xlsx#38 |
 | ? | 88 | 22迷你 |  | A |  | Italy 3.2.xlsx#38 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：3 封（去 2 / 来 1）　|　**期间**：2024-11-20 → 2024-12-12　|　**最后去信**：2024-12-12
+- **对方邮箱**：eros.stefani@stsitalia.com
+- **最后一封来信**：2024-11-20 eros.stefani@stsitalia.com「R: 48 Port PoE Managed Switch」：€..? Eros Stefani STS Italia S.r.l. Web Site: www.stsitalia.com<http://www.stsitalia.com/> Le informazioni contenute in questo messaggio sono strettamente riservate e sono esclusivamente indirizzate al destinatario indicato od alla persona responsabile di rime
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Industrial PoE Switch | 2024-12-12 | 2024-12-12 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2024-11-20 | 2024-11-20 | 1 | 2 | 6 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -243,12 +255,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 59）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 59）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

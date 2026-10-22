@@ -22,12 +22,13 @@ replies: 2
 followups: 18
 first_contact: 2024-04-28
 last_contact: 2025-10-27
+s_mail: 1 msgs (out 1 / in 0), 2024-11-20 -> 2024-11-20
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
 site_snapshot: unreachable  # 2026-10-21
 sources: 1
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -149,6 +150,16 @@ updated: 2026-10-21
 | 2025-10-27 | 1027 | solar |  | Whatsapp |  | 阿联酋 沙特阿拉伯  2.3.xlsx#21 |
 | ? | 52 | 4 8 16口工业POE |  | Whatsapp |  | 阿联酋 沙特阿拉伯  2.3.xlsx#21 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：1 封（去 1 / 来 0）　|　**期间**：2024-11-20 → 2024-11-20　|　**最后去信**：2024-11-20
+- **对方邮箱**：procurement@4demand.co.uk
+- 对方从未回信（全部为我方去信）
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 8 Port Industrial PoE Switch | 2024-11-20 | 2024-11-20 | 0 | 1 | 1 |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`procurement@4demand.co.uk`〔企业邮箱；来源：用户表原值〕
@@ -257,12 +268,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 67）；人工/调研定级 → B
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 67）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

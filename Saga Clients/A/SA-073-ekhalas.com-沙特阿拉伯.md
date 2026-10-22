@@ -21,12 +21,13 @@ replies: 1
 followups: 17
 first_contact: 2024-06-05
 last_contact: 2025-10-23
+s_mail: 11 msgs (out 6 / in 5), 2024-06-05 -> 2025-01-03
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -171,6 +172,27 @@ updated: 2026-10-21
 | 2025-09-23 | 923 | dac |  | A |  | 阿联酋 沙特阿拉伯  2.3.xlsx#14 |
 | 2025-10-23 | 1023 | 2 16 |  | A |  | 阿联酋 沙特阿拉伯  2.3.xlsx#14 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：11 封（去 6 / 来 5）　|　**期间**：2024-06-05 → 2025-01-03　|　**最后去信**：2025-01-03
+- **对方邮箱**：info@ekhalas.com
+- **最后一封来信**：2024-10-22 info@ekhalas.com「Thank you for contacting us!Dear」：Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we want to assure you that we are working on finding the best solution for your needs. Our dedicated team members are currently reviewing your que
+- **邮件里报过的价**：2024-12-12 $300；2024-07-24 $65
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Mini Industrial PoE Switch | 2025-01-03 | 2025-01-03 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2024-12-12 | 2024-12-12 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2024-10-22 | 2024-11-15 | 1 | 3 | 36 |
+| Thank you for contacting us!Dear | 2024-10-22 | 2024-10-22 | 1 | 0 | 0 |
+| 90W poe switch | 2024-08-19 | 2024-08-19 | 0 | 1 | 1 |
+| Thank you for contacting us!Dear | 2024-08-19 | 2024-08-19 | 1 | 0 | 0 |
+| 10G media converter | 2024-07-24 | 2024-07-24 | 0 | 1 | 1 |
+| Thank you for contacting us!Dear | 2024-07-24 | 2024-07-24 | 1 | 0 | 0 |
+| Industrial PoE managed switch | 2024-06-27 | 2024-06-27 | 0 | 1 | 1 |
+| Thank you for contacting us!Dear | 2024-06-27 | 2024-06-27 | 1 | 0 | 0 |
+| Thank you for contacting us!Dear | 2024-06-05 | 2024-06-05 | 1 | 0 | 0 |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`info@ekhalas.com`〔企业邮箱；来源：用户表原值〕
@@ -278,12 +300,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-04**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-05**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 75）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 75）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

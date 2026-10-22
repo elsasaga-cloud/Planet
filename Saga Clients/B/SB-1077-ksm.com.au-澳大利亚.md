@@ -19,12 +19,13 @@ replies: 0
 followups: 22
 first_contact: 2024-04-30
 last_contact: 2025-10-20
+s_mail: 18 msgs (out 8 / in 10), 2024-04-29 -> 2025-01-09
 p1: STI-280GE
 price_tier: 20%
 research: done
 site_snapshot: unreachable  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -139,6 +140,29 @@ updated: 2026-10-21
 | ? | 77 | 4 24 |  | A |  | AU.xlsx#5 |
 | ? | 99 | 28poe |  | A |  | AU.xlsx#5 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：18 封（去 8 / 来 10）　|　**期间**：2024-04-29 → 2025-01-09　|　**最后去信**：2025-01-09
+- **对方邮箱**：kevin@ksm.com.au、sales@ksm.com.au
+- **最后一封来信**：2025-01-09 sales@ksm.com.au「Thank you for your email, please select from one of the options below?」：In order to best service your inquiry, please make a selection: For immediate attention please call reception: 02 8003 3372 to speak to someone. Alternatively we will respond as follows: Email Replies: By close of business day. Order Placement: Please place or
+- **邮件里报过的价**：2024-12-23 $240；2024-11-22 $300；2024-06-25 $65
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 16 Port Ethernet Switch | 2025-01-09 | 2025-01-09 | 0 | 1 | 1 |
+| Thank you for your email, please select from one of the options below? | 2025-01-09 | 2025-01-09 | 1 | 0 | 0 |
+| 24 Port Fiber Switch | 2024-12-23 | 2024-12-23 | 0 | 1 | 1 |
+| Thank you for your email, please select from one of the options below? | 2024-12-23 | 2024-12-23 | 1 | 0 | 0 |
+| 48 Port PoE Managed Switch | 2024-11-22 | 2024-11-22 | 0 | 1 | 1 |
+| Thank you for your email, please select from one of the options below? | 2024-11-22 | 2024-11-22 | 1 | 0 | 0 |
+| Industrial PoE Switch | 2024-10-23 | 2024-10-23 | 0 | 1 | 1 |
+| Thank you for your email, please select from one of the options below? | 2024-10-23 | 2024-10-23 | 1 | 0 | 0 |
+| 90W poe managed switch | 2024-09-10 | 2024-09-10 | 0 | 1 | 1 |
+| Thank you for your email, please select from one of the options below? | 2024-09-10 | 2024-09-10 | 1 | 0 | 0 |
+| 24 port poe switch | 2024-08-16 | 2024-08-16 | 0 | 1 | 1 |
+| Thank you for your email, please select from one of the options below? | 2024-08-16 | 2024-08-16 | 1 | 0 | 0 |
+| …共 18 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`sales@ksm.com.au`〔企业邮箱；来源：用户表原值〕
@@ -244,12 +268,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

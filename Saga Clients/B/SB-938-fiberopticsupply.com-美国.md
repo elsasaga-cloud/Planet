@@ -19,12 +19,13 @@ replies: 0
 followups: 2
 first_contact: 2025-09-22
 last_contact: 2025-10-23
+s_mail: 2 msgs (out 0 / in 2), 2023-12-20 -> 2024-09-27
 p1: STI-110GE
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -113,6 +114,17 @@ updated: 2026-10-21
 |---|---|---|---|---|---|---|
 | 2025-09-22 | 2025.9.22 | dac |  | A |  | US.xlsx#84 |
 | 2025-10-23 | 1023 | 24poe |  | A |  | US.xlsx#84 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：2 封（去 0 / 来 2）　|　**期间**：2023-12-20 → 2024-09-27　|　**最后去信**：—
+- **对方邮箱**：eholub@fiberopticsupply.com
+- **最后一封来信**：2024-09-27 eholub@fiberopticsupply.com「Automatic reply: Power Converter」：I will be out of the office Friday 9/27. My emails will be monitored, but if you need immediate assistance please email Ben Turner - bturner@fiberopticsupply.com or Greg Charlton - gcharlton@fiberopticsupply.com. Thank you for your business! Eddie Holub
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Automatic reply: Power Converter | 2024-09-27 | 2024-09-27 | 1 | 0 | 0 |
+| Automatic reply: Din power adapter | 2023-12-20 | 2023-12-20 | 1 | 0 | 0 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -221,12 +233,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 30）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 30）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

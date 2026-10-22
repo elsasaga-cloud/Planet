@@ -21,12 +21,13 @@ replies: 1
 followups: 13
 first_contact: 2025-02-19
 last_contact: 2025-12-29
+s_mail: 25 msgs (out 21 / in 4), 2024-12-23 -> 2026-09-08
 p1: STI-110GE
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -149,6 +150,29 @@ updated: 2026-10-21
 | ? | 1223 | 28poe |  | Email |  | S 09.08.xlsx#1 |
 | ? | 1.16 | 48口 | 5个商业24 48口 | S |  | S 09.08.xlsx#1 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：25 封（去 21 / 来 4）　|　**期间**：2024-12-23 → 2026-09-08　|　**最后去信**：2026-09-08
+- **对方邮箱**：becca@megnet.co.uk、jitendra@megnet.co.uk、nasim@megnet.co.uk、omar@megnet.co.uk、purchasing@megnet.co.uk、rajiv@megnet.co.uk
+- **最后一封来信**：2025-12-01 nasim@megnet.co.uk「Price and lead time」：Hi Team, Please share your best price, lead time, and warranty details for the following unit: HT2500-PSE-BT60 – 60W PoE++ Single-Port Injector This will be a test unit, and if it works on the customer’s end, we will proceed with a bulk order. Kindly advise at
+- **邮件里报过的价**：2026-09-08 $170；2026-07-20 $1500；2025-12-02 $15；2025-10-29 $280；2025-08-27 $240；2025-01-16 $300
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 24 Port PoE Managed Switch | 2026-09-08 | 2026-09-08 | 0 | 1 | 1 |
+| 24 Port 10G SFP+ Switch | 2026-07-20 | 2026-07-20 | 0 | 1 | 1 |
+| Firmware 7.5 L2+ Feature Update | 2026-06-22 | 2026-06-22 | 0 | 1 | 2 |
+| Updated Ethernet Switches Links | 2026-03-02 | 2026-03-02 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-29 | 2026-01-29 | 0 | 1 | 1 |
+| Optional Marvell Chipset Solutions | 2025-12-29 | 2025-12-29 | 0 | 1 | 1 |
+| Price and lead time | 2025-12-01 | 2025-12-02 | 2 | 2 | 16 |
+| Booster PoE Switch | 2025-11-27 | 2025-11-27 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-29 | 2025-10-29 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2025-09-29 | 2025-09-29 | 0 | 1 | 1 |
+| 24 Port Fiber Switch | 2025-08-27 | 2025-08-27 | 3 | 1 | 4 |
+| Mini Industrial PoE Switch | 2025-07-28 | 2025-07-28 | 0 | 1 | 1 |
+| …共 20 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`rajiv@megnet.co.uk`〔企业邮箱；来源：用户表原值〕
@@ -257,12 +281,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-04**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-05**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 94）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 94）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

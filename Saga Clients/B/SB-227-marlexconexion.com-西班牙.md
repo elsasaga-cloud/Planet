@@ -19,12 +19,13 @@ replies: 0
 followups: 7
 first_contact: 2025-01-30
 last_contact: 2025-10-02
+s_mail: 1 msgs (out 0 / in 1), 2024-08-11 -> 2024-08-11
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -112,6 +113,16 @@ updated: 2026-10-21
 | ? | 57 | network |  | A |  | Spain 2.9.xlsx#12 |
 | ? | 66 | 16电 |  | A |  | Spain 2.9.xlsx#12 |
 | ? | 95 | 22迷你 |  | A |  | Spain 2.9.xlsx#12 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：1 封（去 0 / 来 1）　|　**期间**：2024-08-11 → 2024-08-11　|　**最后去信**：—
+- **对方邮箱**：marlex@marlexconexion.com
+- **最后一封来信**：2024-08-11 marlex@marlexconexion.com「Respuesta automática: Mini Industrial Switch」：﻿﻿ Thanks for your e-mail. Marlex Conexion SL will be closed from August 12 to 16 (both included) -------------------------------------------------------------------------------------------------------------------- Gracias por su e-mail. Marlex Conexion SL per
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Respuesta automática: Mini Industrial Switch | 2024-08-11 | 2024-08-11 | 2 | 0 | 0 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -223,12 +234,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 48）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 48）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

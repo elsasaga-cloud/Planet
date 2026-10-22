@@ -19,12 +19,13 @@ replies: 0
 followups: 17
 first_contact: 2024-06-05
 last_contact: 2025-10-23
+s_mail: 11 msgs (out 10 / in 1), 2024-06-05 -> 2025-01-03
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
 site_snapshot: timeout  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -130,6 +131,22 @@ updated: 2026-10-21
 | 2025-08-25 | 825 | 22迷你 |  | A |  | 优质俄罗斯客户 2.9.xlsx#8 |
 | 2025-09-24 | 924 | dac |  | A |  | 优质俄罗斯客户 2.9.xlsx#8 |
 | 2025-10-23 | 1023 | 28bt |  | A |  | 优质俄罗斯客户 2.9.xlsx#8 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：11 封（去 10 / 来 1）　|　**期间**：2024-06-05 → 2025-01-03　|　**最后去信**：2025-01-03
+- **对方邮箱**：afonin@npotelecom.ru、sale@npotelecom.ru
+- **最后一封来信**：2024-06-05 afonin@npotelecom.ru「RE: Industrial fiber switch」：Hi Simon, What manufacturer is the chip inside your switch? С уважением, Михаил Афонин 8 /3412/ 57 30 31, 8 912 854 73 58 Kind regards, Mikhail Afonin
+- **邮件里报过的价**：2024-11-19 $300
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Industrial PoE Switch | 2025-01-03 | 2025-01-03 | 0 | 1 | 1 |
+| 8 Port Industrial PoE Switch | 2024-12-11 | 2024-12-11 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2024-11-19 | 2024-11-19 | 0 | 1 | 1 |
+| 8 Port Ethernet Switch | 2024-10-24 | 2024-10-24 | 0 | 1 | 1 |
+| Power Converter | 2024-09-16 | 2024-09-16 | 0 | 1 | 1 |
+| Industrial fiber switch | 2024-06-05 | 2024-08-21 | 1 | 5 | 9 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -241,12 +258,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -19,12 +19,13 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
+s_mail: 2 msgs (out 0 / in 2), 2024-11-02 -> 2025-01-21
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -110,6 +111,17 @@ updated: 2026-10-21
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：2 封（去 0 / 来 2）　|　**期间**：2024-11-02 → 2025-01-21　|　**最后去信**：—
+- **对方邮箱**：karen_kwek@prolink2u.com、shijie_leong@prolink2u.com
+- **最后一封来信**：2025-01-21 shijie_leong@prolink2u.com「Out of Office – 12Jan to 12Feb 2025」：Thank you for reaching out. I will be on paternity leave from January 12 to February 12, 2024. For any urgent matters, please feel free to send me a text message. Thank you for your understanding.
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Out of Office – 12Jan to 12Feb 2025 | 2025-01-21 | 2025-01-21 | 1 | 0 | 0 |
+| On Leave From 29 OCT 2024 PM ( TUE )  to 6 NOV 2024 ( WED ) . | 2024-11-02 | 2024-11-02 | 1 | 0 | 0 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -216,12 +228,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

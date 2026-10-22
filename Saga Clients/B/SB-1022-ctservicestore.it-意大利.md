@@ -19,12 +19,13 @@ replies: 0
 followups: 13
 first_contact: 2024-05-13
 last_contact: 2025-10-16
+s_mail: 6 msgs (out 6 / in 0), 2024-06-15 -> 2024-11-18
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -141,6 +142,20 @@ updated: 2026-10-21
 | 2025-10-16 | 1016 | dac |  | A |  | Italy 3.2.xlsx#64 |
 | ? | 78 | 16电 |  | A |  | Italy 3.2.xlsx#64 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：6 封（去 6 / 来 0）　|　**期间**：2024-06-15 → 2024-11-18　|　**最后去信**：2024-11-18
+- 对方从未回信（全部为我方去信）
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 8 Port Industrial PoE Switch | 2024-11-18 | 2024-11-18 | 0 | 1 | 1 |
+| 10G Ethernet Web Managed Switch | 2024-10-21 | 2024-10-21 | 0 | 1 | 1 |
+| passive poe switch | 2024-09-05 | 2024-09-05 | 0 | 1 | 1 |
+| 10G media converter | 2024-08-10 | 2024-08-10 | 0 | 1 | 1 |
+| Industrial poe switch | 2024-07-12 | 2024-07-12 | 0 | 1 | 1 |
+| Commercial PoE Switch | 2024-06-15 | 2024-06-15 | 0 | 1 | 1 |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`ctservicemolise@gmail.com`〔免费邮箱；来源：用户表原值〕
@@ -247,12 +262,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 28）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 28）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

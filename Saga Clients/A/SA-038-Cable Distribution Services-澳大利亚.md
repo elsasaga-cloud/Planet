@@ -21,12 +21,13 @@ replies: 2
 followups: 21
 first_contact: 2024-04-29
 last_contact: 2025-10-29
+s_mail: 5 msgs (out 5 / in 0), 2024-06-21 -> 2025-01-22
 p1: STI-144GP
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -165,6 +166,20 @@ updated: 2026-10-21
 | ? | 85 | 2 16 |  | A |  | AU.xlsx#29 |
 | ? | 91 | 28bt |  | A |  | AU.xlsx#29 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：5 封（去 5 / 来 0）　|　**期间**：2024-06-21 → 2025-01-22　|　**最后去信**：2025-01-22
+- **对方邮箱**：paul@cabledistribution.com.au
+- 对方从未回信（全部为我方去信）
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Mini Industrial PoE Switch | 2025-01-22 | 2025-01-22 | 0 | 1 | 1 |
+| 8 Port Industrial PoE Switch | 2024-12-31 | 2024-12-31 | 0 | 1 | 1 |
+| 8 Port Ethernet Switch | 2024-11-21 | 2024-11-21 | 0 | 1 | 1 |
+| Mini industrial switch | 2024-09-09 | 2024-09-09 | 0 | 1 | 1 |
+| CCTV poe switch | 2024-06-21 | 2024-06-21 | 0 | 1 | 1 |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`paul@cabledistribution.com.au`〔企业邮箱；来源：用户表原值〕
@@ -276,12 +291,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-04**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-05**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 84）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 84）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

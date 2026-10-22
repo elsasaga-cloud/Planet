@@ -21,12 +21,13 @@ replies: 0
 followups: 10
 first_contact: 2025-02-21
 last_contact: 2025-11-05
+s_mail: 1 msgs (out 1 / in 0), 2025-01-24 -> 2025-01-24
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -132,6 +133,16 @@ updated: 2026-10-21
 | 2025-11-05 | 115 | solar |  | A |  | UK.xlsx#28 |
 | ? | 1.24 | 28poe |  | Email |  | UK.xlsx#28 |
 | ? | 75 | 22mini |  | A |  | UK.xlsx#28 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：1 封（去 1 / 来 0）　|　**期间**：2025-01-24 → 2025-01-24　|　**最后去信**：2025-01-24
+- **对方邮箱**：sales@aceonline.co.uk
+- 对方从未回信（全部为我方去信）
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 8 Port Industrial PoE Switch | 2025-01-24 | 2025-01-24 | 0 | 1 | 1 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -242,12 +253,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

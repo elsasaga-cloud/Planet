@@ -22,12 +22,13 @@ replies: 1
 followups: 10
 first_contact: 2025-02-28
 last_contact: 2025-10-23
+s_mail: 3 msgs (out 2 / in 1), 2024-12-18 -> 2024-12-31
 p1: STI-050GE
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -132,6 +133,17 @@ updated: 2026-10-21
 | 2025-10-23 | 1023 | 28bt |  | A |  | 优质俄罗斯客户 2.9.xlsx#9 |
 | ? | 1218 | 群发了mini | interested | Email |  | 优质俄罗斯客户 2.9.xlsx#9 |
 | ? | 1231 | 是否要测样 |  | Email |  | 优质俄罗斯客户 2.9.xlsx#9 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：3 封（去 2 / 来 1）　|　**期间**：2024-12-18 → 2024-12-31　|　**最后去信**：2024-12-31
+- **对方邮箱**：ag@bargas.ru
+- **最后一封来信**：2024-12-18 ag@bargas.ru「Re: Mini Industrial PoE Switch」：Hello! How yes this is kruto ---------------- Кому: info@donvision.ru (info@donvision.ru); Тема: Mini Industrial PoE Switch; 18.12.2024, 12:00, "Simon" <s.sagatelecom@gmail.com>: Hi, How are you? This is about our MINI Din unmanaged switches for you. 1. 100/10
+- **邮件里报过的价**：2024-12-18 $33（STI-222GP）
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Mini Industrial PoE Switch | 2024-12-18 | 2024-12-31 | 1 | 3 | 2 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -238,12 +250,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 62）；人工/调研定级 → B
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 62）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

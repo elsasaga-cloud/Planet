@@ -21,12 +21,13 @@ replies: 0
 followups: 24
 first_contact: 2023-11-04
 last_contact: 2025-10-27
+s_mail: 3 msgs (out 0 / in 3), 2023-06-19 -> 2023-06-19
 p1: STI-244GP
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -137,6 +138,17 @@ updated: 2026-10-21
 | 2025-10-27 | 1027 | mini |  | Whatsapp |  | 阿联酋 沙特阿拉伯  2.3.xlsx#13 |
 | ? | 55 | 4 8 16口工业POE |  | Whatsapp |  | 阿联酋 沙特阿拉伯  2.3.xlsx#13 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：3 封（去 0 / 来 3）　|　**期间**：2023-06-19 → 2023-06-19　|　**最后去信**：—
+- **对方邮箱**：abdulaziz.almohsin@aamindustrial.com、ei-telcomlead@aamindustrial.com、integrationlead@aamindustrial.com、telecom@aamindustrial.com
+- **最后一封来信**：2023-06-19 ei-telcomlead@aamindustrial.com「RFQ for telecom items」：Dear sir, Greetings from AAM! Please provide your techno quotes for telecom materials ASAP. Please find the attached file & provide your best quotes. Best Regards, Wasi Akthar E&I- Telecom Lead AAM Industrial EST Mobile : 0572012594 Email : mailto:ei-telcomlea
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| RFQ FOR ELECTRICAL ITEMS MCB | 2023-06-19 | 2023-06-19 | 1 | 0 | 1 |
+| RFQ for telecom items | 2023-06-19 | 2023-06-19 | 2 | 0 | 2 |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`ei-telcomlead@aamindustrial.com`〔企业邮箱；来源：用户表原值〕
@@ -245,12 +257,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 53）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 53）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

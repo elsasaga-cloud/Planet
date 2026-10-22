@@ -19,12 +19,13 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
+s_mail: 11 msgs (out 10 / in 1), 2024-06-24 -> 2024-11-30
 p1: STI-110GE
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -109,6 +110,27 @@ updated: 2026-10-21
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：11 封（去 10 / 来 1）　|　**期间**：2024-06-24 → 2024-11-30　|　**最后去信**：2024-10-29
+- **对方邮箱**：sales@fibertronics.com
+- **最后一封来信**：2024-11-30 sales@fibertronics.com「Automatic reply: 8 Port Ethernet Switch」：Fibertronics will be closed for Thanksgiving 11/27 - 11/29 returning 12/02
+- **邮件里报过的价**：2024-07-19 $220
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Automatic reply: 8 Port Ethernet Switch | 2024-11-30 | 2024-11-30 | 1 | 0 | 0 |
+| 10G Ethernet Web Managed Switch | 2024-10-29 | 2024-10-29 | 0 | 1 | 1 |
+| 8 Port Ethernet Switch | 2024-10-23 | 2024-10-23 | 0 | 1 | 1 |
+| Power Converter | 2024-09-13 | 2024-09-13 | 0 | 1 | 1 |
+| 24 Port Passive PoE Switch | 2024-09-11 | 2024-09-11 | 0 | 1 | 1 |
+| Mini poe switch | 2024-08-19 | 2024-08-19 | 0 | 1 | 1 |
+| 2.5G network switch | 2024-08-15 | 2024-08-15 | 0 | 1 | 1 |
+| Industrial poe switch | 2024-07-22 | 2024-07-22 | 0 | 1 | 1 |
+| 48 port managed switch | 2024-07-19 | 2024-07-19 | 0 | 1 | 1 |
+| 24 port poe switch | 2024-06-27 | 2024-06-27 | 0 | 1 | 1 |
+| Industrial poe switch | 2024-06-24 | 2024-06-24 | 0 | 1 | 1 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -216,12 +238,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -22,12 +22,13 @@ replies: 4
 followups: 41
 first_contact: 2024-01-24
 last_contact: 2025-12-30
+s_mail: 13 msgs (out 11 / in 2), 2024-06-16 -> 2025-01-06
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 4
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -178,6 +179,23 @@ updated: 2026-10-21
 | 2025-12-30 | 1230 | 4 8 16口工业PoE |  |  |  | 阿联酋 沙特阿拉伯  2.3.xlsx#9 |
 | ? | 52 | 4 8 16口工业PoE |  | Whatsapp |  | 阿联酋 沙特阿拉伯  2.3.xlsx#9 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：13 封（去 11 / 来 2）　|　**期间**：2024-06-16 → 2025-01-06　|　**最后去信**：2025-01-06
+- **对方邮箱**：info@netontechnologies.com
+- **最后一封来信**：2024-08-14 info@netontechnologies.com「Re: 10G fiber media converter」：hi Whats the pricing.
+- **邮件里报过的价**：2024-11-20 $300；2024-08-14 $38（STI-154GP）；2024-07-07 $65
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 8 Port Industrial PoE Switch | 2025-01-06 | 2025-01-06 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2024-12-11 | 2024-12-11 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2024-11-20 | 2024-11-20 | 0 | 1 | 1 |
+| 24 Port Passive PoE Switch | 2024-10-24 | 2024-10-24 | 0 | 1 | 1 |
+| 2.5G Web Managed Switch | 2024-09-30 | 2024-09-30 | 0 | 1 | 1 |
+| 10G fiber media converter | 2024-07-07 | 2024-08-22 | 2 | 5 | 13 |
+| Industrial Ethernet Switch | 2024-06-16 | 2024-06-16 | 0 | 1 | 1 |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`m.maarouf@eurotechnology.ae`〔企业邮箱；来源：用户表原值〕
@@ -292,12 +310,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 A，分数 65）；人工/调研定级 → B
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 A，分数 65）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

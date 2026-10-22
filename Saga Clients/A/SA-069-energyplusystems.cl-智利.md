@@ -21,12 +21,13 @@ replies: 1
 followups: 18
 first_contact: 2024-05-30
 last_contact: 2025-12-29
+s_mail: 25 msgs (out 24 / in 1), 2024-06-26 -> 2026-09-08
 p1: STI-288DGGPM
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -153,6 +154,29 @@ updated: 2026-10-21
 | 2025-11-28 | 1128 | solar |  | S |  | S 09.08.xlsx#21 |
 | 2025-12-29 | 1229 | taiwan |  | S |  | S 09.08.xlsx#21 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：25 封（去 24 / 来 1）　|　**期间**：2024-06-26 → 2026-09-08　|　**最后去信**：2026-09-08
+- **对方邮箱**：ventas@energyplusystems.cl
+- **最后一封来信**：2024-09-27 ventas@energyplusystems.cl「Re: Industrial PoE Switch」：Hi Simon Can you please give me the price and minimum quantity? Thank you Ling Fuentes F. Ingeniero de Ventas ventas@energyplusystems.cl Cel +56992188218 El vie, 27 sept 2024 a las 12:00, Simon (<s.sagatelecom@gmail.com>) escribió:
+- **邮件里报过的价**：2026-09-08 $170；2026-07-20 $1500；2025-10-29 $280；2025-08-28 $240；2024-11-20 $300；2024-09-28 $38（STI-154GP）；2024-08-19 $65
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 24 Port PoE Managed Switch | 2026-09-08 | 2026-09-08 | 0 | 1 | 1 |
+| 24 Port 10G SFP+ Switch | 2026-07-20 | 2026-07-20 | 0 | 1 | 1 |
+| Firmware 7.5 L2+ Feature Update | 2026-06-22 | 2026-06-22 | 0 | 1 | 2 |
+| Updated Ethernet Switches Links | 2026-03-03 | 2026-03-03 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-29 | 2026-01-29 | 0 | 1 | 1 |
+| Optional Marvell Chipset Solutions | 2025-12-29 | 2025-12-29 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-27 | 2025-11-27 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-29 | 2025-10-29 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2025-09-30 | 2025-09-30 | 0 | 1 | 1 |
+| 24 Port Fiber Switch | 2025-08-28 | 2025-08-28 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2025-07-28 | 2025-07-28 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-06-25 | 2025-06-25 | 0 | 1 | 1 |
+| …共 21 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`ventas@energyplusystems.cl`〔企业邮箱；来源：用户表原值〕
@@ -259,12 +283,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-04**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-05**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 76）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 76）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

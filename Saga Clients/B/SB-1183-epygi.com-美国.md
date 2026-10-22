@@ -19,12 +19,13 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
+s_mail: 9 msgs (out 3 / in 6), 2024-11-06 -> 2024-12-05
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -115,6 +116,19 @@ updated: 2026-10-21
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：9 封（去 3 / 来 6）　|　**期间**：2024-11-06 → 2024-12-05　|　**最后去信**：2024-12-05
+- **对方邮箱**：sales@epygi.com
+- **最后一封来信**：2024-12-05 frank@simrex.com「RE: Industrial PoE Switch」：Simon: 1. Can you answer the questions in my email below? 2. Provide a link to data sheet?. 3. Link to your web page? 4. Pricing? Regards Fank Frank Neuperger Simrex Corporation, www.simrex.com Skype: neuperg 480-926-6069 AZ office 480-276-0693 mobile 305-675-
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Industrial PoE Switch | 2024-12-03 | 2025-02-07 | 5 | 9 | 5 |
+| We received your request and will get back to you soon! | 2024-12-03 | 2024-12-03 | 2 | 0 | 0 |
+| 2.5G Web Managed Switch | 2024-11-06 | 2024-11-09 | 6 | 1 | 12 |
+| We received your request and will get back to you soon! | 2024-11-06 | 2024-11-06 | 2 | 0 | 0 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -221,12 +235,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

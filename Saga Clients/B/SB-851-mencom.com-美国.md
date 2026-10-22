@@ -19,12 +19,13 @@ replies: 0
 followups: 19
 first_contact: 2024-05-08
 last_contact: 2025-10-24
+s_mail: 11 msgs (out 8 / in 3), 2023-12-28 -> 2025-01-23
 p1: STI-280GE
 price_tier: 30%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -134,6 +135,27 @@ updated: 2026-10-21
 | 2025-10-24 | 1024 | 2 16 |  | A |  | US.xlsx#148 |
 | ? | 98 | 28poe |  | A |  | US.xlsx#148 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：11 封（去 8 / 来 3）　|　**期间**：2023-12-28 → 2025-01-23　|　**最后去信**：2025-01-23
+- **对方邮箱**：john@mencom.com
+- **最后一封来信**：2024-08-23 john@mencom.com「Automatic reply: 8 port ethernet switch」：I will be out of the office starting August 16th, returning on Monday August 26th. Please email your alternate contact here at Mencom, or you can send a request directly to mark.dixon@mencom.com and Mark will assist. Please contact the factory directly for imm
+- **邮件里报过的价**：2024-11-25 $300；2024-09-23 $65
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| L3 Managed Switch | 2025-01-23 | 2025-01-23 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2024-12-17 | 2024-12-17 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2024-11-25 | 2024-11-25 | 0 | 1 | 2 |
+| 90W PoE Managed Switch | 2024-10-31 | 2024-10-31 | 0 | 1 | 1 |
+| 10G Media Converter | 2024-09-23 | 2024-09-23 | 0 | 1 | 1 |
+| 8 port ethernet switch | 2024-08-23 | 2024-08-23 | 0 | 1 | 1 |
+| Automatic reply: 8 port ethernet switch | 2024-08-23 | 2024-08-23 | 1 | 0 | 0 |
+| Industrial poe switch | 2024-07-29 | 2024-07-29 | 0 | 1 | 1 |
+| Din power adapter | 2024-07-01 | 2024-07-01 | 0 | 1 | 1 |
+| Automatic reply: Din power adapter | 2024-07-01 | 2024-07-01 | 1 | 0 | 0 |
+| Automatic reply: UL certified din power adpter | 2023-12-28 | 2023-12-28 | 1 | 0 | 0 |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`john@mencom.com`〔企业邮箱；来源：用户表原值〕
@@ -242,12 +264,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

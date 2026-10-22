@@ -19,12 +19,13 @@ replies: 0
 followups: 8
 first_contact: 2025-02-20
 last_contact: 2025-10-16
+s_mail: 5 msgs (out 1 / in 4), 2024-06-17 -> 2025-01-13
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -135,6 +136,20 @@ updated: 2026-10-21
 | 2025-10-16 | 1016 | dac |  | A |  | Canada 3.5.xlsx#5 |
 | ? | 1.13 | 52 |  | Email |  | Canada 3.5.xlsx#5 |
 | ? | 57 | 芯片 |  | A |  | Canada 3.5.xlsx#5 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：5 封（去 1 / 来 4）　|　**期间**：2024-06-17 → 2025-01-13　|　**最后去信**：2025-01-13
+- **对方邮箱**：sales@inaxsys.com、support@inaxsys.com
+- **最后一封来信**：2025-01-13 support@inaxsys.com「[Request received]」：##- Please type your reply above this line -## Your request (43828) has been received and is being reviewed by our support staff. To add additional comments, reply to this email. Please note that our Technical Support Department is opened Monday to Friday from
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 48 Port SFP Switch | 2025-01-13 | 2025-01-13 | 0 | 1 | 1 |
+| [Request received] | 2025-01-13 | 2025-01-13 | 1 | 0 | 0 |
+| [Request received] | 2024-11-11 | 2024-11-11 | 1 | 0 | 0 |
+| [Request received] | 2024-07-20 | 2024-07-20 | 1 | 0 | 0 |
+| [Request received] | 2024-06-17 | 2024-06-17 | 1 | 0 | 0 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -247,12 +262,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 53）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 53）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

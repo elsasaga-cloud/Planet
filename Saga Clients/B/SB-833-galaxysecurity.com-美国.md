@@ -19,12 +19,13 @@ replies: 0
 followups: 19
 first_contact: 2024-05-03
 last_contact: 2025-10-31
+s_mail: 9 msgs (out 7 / in 2), 2024-06-25 -> 2024-12-13
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -139,6 +140,25 @@ updated: 2026-10-21
 | 2025-10-31 | 1031 | solar |  | A |  | US.xlsx#226 |
 | ? | 72 | alarm |  | A |  | US.xlsx#226 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：9 封（去 7 / 来 2）　|　**期间**：2024-06-25 → 2024-12-13　|　**最后去信**：2024-12-13
+- **对方邮箱**：annie@galaxysecurity.com、info@galaxysecurity.com
+- **最后一封来信**：2024-12-13 annie@galaxysecurity.com「Vacation Notice Re: 16 Port Ethernet Switch」：Hi there, Thanks for your message. I am out of the office from Dec 10th and returning on Dec 18th and have limited access to email. If you need immediate assistance, please contact Andrew at andrew@galaxysecurity.com or contact our office directly at 905-946-8
+- **邮件里报过的价**：2024-11-22 $65；2024-06-25 $220
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 16 Port Ethernet Switch | 2024-12-13 | 2024-12-13 | 0 | 1 | 1 |
+| Vacation Notice Re: 16 Port Ethernet Switch | 2024-12-13 | 2024-12-13 | 1 | 0 | 0 |
+| 10G Media Converter | 2024-11-22 | 2024-11-22 | 0 | 1 | 1 |
+| 8 Port Industrial PoE Switch | 2024-10-30 | 2024-10-30 | 0 | 1 | 1 |
+| 24 Port Passive PoE Switch | 2024-09-11 | 2024-09-11 | 0 | 1 | 1 |
+| Industrial poe switch | 2024-08-15 | 2024-08-15 | 0 | 1 | 1 |
+| Vacation Notice Re: Industrial poe switch | 2024-08-15 | 2024-08-15 | 1 | 0 | 0 |
+| 24V poe switch | 2024-07-22 | 2024-07-22 | 0 | 1 | 1 |
+| 48 port switch | 2024-06-25 | 2024-06-25 | 0 | 1 | 1 |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`info@galaxysecurity.com`〔企业邮箱；来源：用户表原值〕
@@ -248,12 +268,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

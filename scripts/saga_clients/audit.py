@@ -48,7 +48,7 @@ def main():
     raw_locs = Counter(loc(r) for r in xlsx_rows)
     missing = [l for l in raw_locs if l not in assigned]
     dup_assigned = [l for l, n in assigned.items() if n > 1 and not l[0].endswith('.docx')]
-    ghost = [l for l in assigned if l not in raw_locs and not l[0].endswith('.docx')]
+    ghost = [l for l in assigned if l not in raw_locs and not l[0].endswith('.docx') and l[0] != '补录客户.jsonl']  # 补录客户不在 Clients/ 原始行里
     out.append('# Saga Clients · 完整性审计')
     out.append('')
     out.append(f'- 生成：{__import__("datetime").date.today().isoformat()}　脚本：`scripts/saga_clients/audit.py`')

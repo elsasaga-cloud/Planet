@@ -21,12 +21,13 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
+s_mail: 2 msgs (out 1 / in 1), 2024-06-21 -> 2024-06-21
 p1: STC-448XGGM
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -109,6 +110,17 @@ updated: 2026-10-21
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：2 封（去 1 / 来 1）　|　**期间**：2024-06-21 → 2024-06-21　|　**最后去信**：2024-06-21
+- **对方邮箱**：arunima@klasseducation.com、info@aptvelglobal.com、postmaster@aptvelglobal.com
+- **最后一封来信**：2024-06-21 postmaster@aptvelglobal.com「Undeliverable: 48 port managed switch」：[https://products.office.com/en-us/CMSImages/Office365Logo_Orange.png?version=b8d100a9-0a8b-8e6a-88e1-ef488fee0470] Your message to arunima@klasseducation.com couldn't be delivered. arunima wasn't found at klasseducation.com. s.sagatelecom Office 365 arunima A
+- **邮件里报过的价**：2024-06-21 $220
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 48 port managed switch | 2024-06-21 | 2024-06-21 | 1 | 1 | 2 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -217,12 +229,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

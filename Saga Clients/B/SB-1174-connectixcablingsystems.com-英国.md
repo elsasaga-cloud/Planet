@@ -19,12 +19,13 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
+s_mail: 1 msgs (out 0 / in 1), 2025-01-21 -> 2025-01-21
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 3
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -99,6 +100,16 @@ updated: 2026-10-21
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：1 封（去 0 / 来 1）　|　**期间**：2025-01-21 → 2025-01-21　|　**最后去信**：—
+- **对方邮箱**：matt.gill@connectix.co.uk
+- **最后一封来信**：2025-01-21 matt.gill@connectix.co.uk「Automatic reply: 16 Port PoE Managed Switch」：Thanks for your email. Please note, this mailbox is no longer monitored. Please e-mail sales@connectix.co.uk or call 01376346600 Many thanks Connectix Limited is a company registered in England with company number 2814569 VAT Registration Number GB 623 1064 83
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Automatic reply: 16 Port PoE Managed Switch | 2025-01-21 | 2025-01-21 | 1 | 0 | 0 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -213,12 +224,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

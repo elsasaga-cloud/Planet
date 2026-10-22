@@ -21,12 +21,13 @@ replies: 1
 followups: 19
 first_contact: 2023-12-09
 last_contact: 2025-12-08
+s_mail: 36 msgs (out 25 / in 11), 2024-04-16 -> 2026-07-20
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -146,6 +147,29 @@ updated: 2026-10-21
 | 2025-10-30 | 1030 | dac |  | S |  | S 09.08.xlsx#13 |
 | 2025-12-08 | 128 | solar |  | S |  | S 09.08.xlsx#13 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：36 封（去 25 / 来 11）　|　**期间**：2024-04-16 → 2026-07-20　|　**最后去信**：2026-07-20
+- **对方邮箱**：sales@vi-link.net、thup@vilinknet.com
+- **最后一封来信**：2025-05-09 thup@vilinknet.com「Re: 16 Port Ethernet Switch」：On 2025-03-27 08:00, Simon from Saga Telecom wrote: > Hi, Thu, > > How are you? > > There is a 16-port Din Gigabit Ethernet switch for you. > > It is good for vehicle network and industrial automation. > > Model choice > > 1. 5 Port/8 Port/24 Port > > 2. 10/10
+- **邮件里报过的价**：2026-07-20 $1500；2025-10-30 $280；2024-11-16 $50；2024-11-14 $65；2024-11-14 $75；2024-11-13 $65
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 24 Port Ethernet Switch | 2026-02-03 | 2026-09-03 | 7 | 8 | 11 |
+| 24 Port 10G SFP+ Switch | 2026-07-20 | 2026-07-20 | 0 | 1 | 1 |
+| Firmware 7.5 L2+ Feature Update | 2026-06-22 | 2026-06-22 | 0 | 1 | 2 |
+| OEM Core Switching Solution | 2026-01-29 | 2026-01-29 | 0 | 1 | 1 |
+| 24 Port Ethernet Switch | 2025-12-30 | 2025-12-30 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-27 | 2025-11-27 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-30 | 2025-10-30 | 0 | 1 | 1 |
+| 90W PoE Managed Switch | 2025-08-28 | 2025-08-28 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2025-07-29 | 2025-07-29 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-05-27 | 2025-05-27 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-03-27 | 2025-05-17 | 1 | 3 | 2 |
+| 8 Port Industrial PoE Switch | 2025-02-10 | 2025-02-10 | 0 | 1 | 1 |
+| …共 14 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`sales@vi-link.net`〔企业邮箱；来源：用户表原值〕
@@ -254,12 +278,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-04**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-05**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 117）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 117）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -22,12 +22,13 @@ replies: 1
 followups: 27
 first_contact: 2025-02-14
 last_contact: 2025-11-05
+s_mail: 6 msgs (out 5 / in 1), 2025-01-07 -> 2025-02-20
 p1: STC-448DGGPM
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -147,6 +148,18 @@ updated: 2026-10-21
 | ? | 64 | pcb |  | A |  | KR.xlsx#96 |
 | ? | 93 | 28bt |  | A |  | KR.xlsx#96 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：6 封（去 5 / 来 1）　|　**期间**：2025-01-07 → 2025-02-20　|　**最后去信**：2025-02-20
+- **对方邮箱**：dexter@neowine.com、godinus@neowine.com
+- **最后一封来信**：2025-01-31 godinus@neowine.com「Re: 48 Port PoE Managed Switch」：ok i need sample 2025년 1월 31일 (금) 10:01, Simon from Saga Telecom <s.sagatelecom@gmail.com>님이 작성:
+- **邮件里报过的价**：2025-02-01 $150（STC-424DGGPM-280W）；2025-01-31 $300
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 48 Port PoE Managed Switch | 2025-01-31 | 2025-02-20 | 1 | 4 | 9 |
+| Industrial PoE Switch | 2025-01-07 | 2025-01-07 | 0 | 1 | 1 |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`godinus@neowine.com`〔企业邮箱；来源：用户表原值〕
@@ -265,12 +278,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 61）；人工/调研定级 → B
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 61）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

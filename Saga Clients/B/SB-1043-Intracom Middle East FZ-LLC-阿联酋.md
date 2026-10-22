@@ -20,12 +20,13 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
+s_mail: 11 msgs (out 9 / in 2), 2024-07-10 -> 2025-01-06
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -122,6 +123,23 @@ updated: 2026-10-21
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：11 封（去 9 / 来 2）　|　**期间**：2024-07-10 → 2025-01-06　|　**最后去信**：2025-01-06
+- **对方邮箱**：mohammad.yaacoub@intracom-telecom.com、myaacoub@intracom-telecom.com
+- **最后一封来信**：2024-10-09 mohammad.yaacoub@intracom-telecom.com「RE: Mini Industrial PoE Switch」：Hello Simon, Before we request for a sample, I would like to understand from you what is the price level for the below kind of switch. Best Regards, Mohammad Yaacoub Wireless Network Systems
+- **邮件里报过的价**：2024-11-15 $300；2024-10-09 $34（STI-222GP）；2024-09-03 $65
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 16 Port Ethernet Switch | 2025-01-06 | 2025-01-06 | 0 | 1 | 1 |
+| 8 Port Industrial PoE Switch | 2024-12-12 | 2024-12-12 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2024-11-15 | 2024-11-15 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2024-10-09 | 2024-10-15 | 1 | 3 | 5 |
+| 10G media converter | 2024-09-03 | 2024-09-03 | 0 | 1 | 1 |
+| Industrial poe switch | 2024-08-07 | 2024-08-07 | 1 | 1 | 1 |
+| Passive PoE Switch | 2024-07-10 | 2024-07-10 | 0 | 1 | 1 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -236,12 +254,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

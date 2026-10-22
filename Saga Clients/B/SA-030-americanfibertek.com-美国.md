@@ -22,12 +22,13 @@ replies: 1
 followups: 21
 first_contact: 2024-04-30
 last_contact: 2025-12-30
+s_mail: 26 msgs (out 25 / in 1), 2024-06-25 -> 2026-09-08
 p1: STC-424XGGPM-280W
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -150,6 +151,29 @@ updated: 2026-10-21
 | 2025-11-28 | 1128 | solar |  | S |  | S 09.08.xlsx#9 |
 | 2025-12-30 | 1230 | taiwan |  | S |  | S 09.08.xlsx#9 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：26 封（去 25 / 来 1）　|　**期间**：2024-06-25 → 2026-09-08　|　**最后去信**：2026-09-08
+- **对方邮箱**：sales@americanfibertek.com、tim.orselli@americanfibertek.com
+- **最后一封来信**：2024-11-22 tim.orselli@americanfibertek.com「RE: 8 Port Industrial PoE Switch」：Do you have it in PoE++ as well? Send pricing for both.
+- **邮件里报过的价**：2026-09-08 $170；2026-07-20 $1500；2025-10-29 $280；2024-12-12 $300；2024-06-25 $65
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 24 Port PoE Managed Switch | 2026-09-08 | 2026-09-08 | 0 | 1 | 1 |
+| 24 Port 10G SFP+ Switch | 2026-07-20 | 2026-07-20 | 0 | 1 | 1 |
+| Firmware 7.5 L2+ Feature Update | 2026-06-22 | 2026-06-22 | 0 | 1 | 2 |
+| Updated Ethernet Switches Links | 2026-03-02 | 2026-03-02 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-29 | 2026-01-29 | 0 | 1 | 1 |
+| Optional Marvell Chipset Solutions | 2025-12-29 | 2025-12-29 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-28 | 2025-11-28 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-29 | 2025-10-29 | 0 | 1 | 1 |
+| 16 Port PoE Managed Switch | 2025-09-29 | 2025-09-29 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2025-08-27 | 2025-08-27 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2025-07-28 | 2025-07-28 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-06-25 | 2025-06-25 | 0 | 1 | 1 |
+| …共 24 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`tim.orselli@americanfibertek.com`〔企业邮箱；来源：用户表原值〕
@@ -256,12 +280,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 88）；人工/调研定级 → B
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 88）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

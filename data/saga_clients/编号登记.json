@@ -1,6 +1,6 @@
 {
 "next": {
-"A": 168,
+"A": 169,
 "B": 1334,
 "C": 5319
 },
@@ -16235,6 +16235,15 @@
 "s:Clients/不行及不太相关的.xlsx#总表:221": "SC-5315",
 "s:Clients/不行及不太相关的.xlsx#总表:547": "SC-5316",
 "s:Clients/不行及不太相关的.xlsx#总表:68": "SC-5317",
-"s:Clients/不行及不太相关的.xlsx#总表:84": "SC-5318"
+"s:Clients/不行及不太相关的.xlsx#总表:84": "SC-5318",
+"d:angoranetworks.com": "SA-168",
+"e:lkilic@angoranetworks.com": "SA-168",
+"e:tesen@angoranetworks.com": "SA-168",
+"e:contact@angoranetworks.com": "SA-168",
+"n:TR|angora networks": "SA-168",
+"p:324761428": "SA-168",
+"p:122417747": "SA-168",
+"p:202503176": "SA-168",
+"n:TR|angora networks bilişim teknoloji san": "SA-168"
 }
 }

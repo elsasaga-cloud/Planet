@@ -21,12 +21,13 @@ replies: 0
 followups: 14
 first_contact: 2024-05-09
 last_contact: 2025-10-02
+s_mail: 8 msgs (out 6 / in 2), 2024-07-05 -> 2025-02-05
 p1: STI-288GPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -129,6 +130,23 @@ updated: 2026-10-21
 | 2025-10-02 | 102 | dac |  | A |  | Spain 2.9.xlsx#35 |
 | ? | 66 | PoE |  | A |  | Spain 2.9.xlsx#35 |
 | ? | 95 | 24poe |  | A |  | Spain 2.9.xlsx#35 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：8 封（去 6 / 来 2）　|　**期间**：2024-07-05 → 2025-02-05　|　**最后去信**：2025-02-05
+- **对方邮箱**：derechos@davantel.com、info@davantel.com、jrsalvador@davantel.com
+- **最后一封来信**：2024-08-05 jrsalvador@davantel.com「Ausente - Out of office」：Estaré fuera de la oficina con acceso limitado al email hasta el 19 de Agosto. En caso de urgencia llamar al 933408712. Nuestro almacén permanecerá cerrado del 12 al 18 de Agosto. I'll be out of the office with limited access to my email untill August 19th. In
+- **邮件里报过的价**：2024-10-18 $300
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 8 Port Industrial PoE Switch | 2025-02-05 | 2025-02-05 | 0 | 1 | 1 |
+| 90W PoE Managed Switch | 2024-11-14 | 2024-11-14 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2024-10-18 | 2024-10-18 | 0 | 1 | 1 |
+| Unmanaged switch | 2024-08-23 | 2024-08-23 | 0 | 1 | 1 |
+| Unmanaged switch | 2024-08-05 | 2024-08-05 | 0 | 1 | 1 |
+| Ausente - Out of office | 2024-08-05 | 2024-08-05 | 2 | 0 | 0 |
+| 8 port 2.5G switch | 2024-07-05 | 2024-07-05 | 0 | 1 | 1 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -235,12 +253,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 34）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 34）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

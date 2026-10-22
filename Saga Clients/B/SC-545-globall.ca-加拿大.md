@@ -22,12 +22,13 @@ replies: 0
 followups: 8
 first_contact: 2025-02-28
 last_contact: 2025-10-17
+s_mail: 2 msgs (out 1 / in 1), 2023-11-27 -> 2025-01-16
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: done
 site_snapshot: none
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -132,6 +133,17 @@ updated: 2026-10-21
 | 2025-09-23 | 923 | dac |  | A |  | Canada 3.5.xlsx#14 |
 | 2025-10-17 | 1017 | 28bt |  | A |  | Canada 3.5.xlsx#14 |
 | ? | 1.16 | 16电 |  | Email |  | Canada 3.5.xlsx#14 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：2 封（去 1 / 来 1）　|　**期间**：2023-11-27 → 2025-01-16　|　**最后去信**：2025-01-16
+- **对方邮箱**：corinne@globall.ca、info@globall.ca、sales@globall.ca
+- **最后一封来信**：2023-11-27 corinne@globall.ca「Vacance/Vacation: "POE switch"」：Bonjour, Je suis actuellement en congé et serais de retour le 28 novembre. Pour toutes questions communiquez avec les ventes à ventes@globall.ca merci. I am currently on leave and will be back on November 28th . For any questions please contact the sales depar
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 16 Port Ethernet Switch | 2025-01-16 | 2025-01-16 | 0 | 1 | 1 |
+| Vacance/Vacation: "POE switch" | 2023-11-27 | 2023-11-27 | 1 | 0 | 0 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -241,12 +253,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 17）；人工/调研定级 → B
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 17）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

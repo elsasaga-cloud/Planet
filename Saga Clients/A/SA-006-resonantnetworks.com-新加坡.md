@@ -21,12 +21,13 @@ replies: 3
 followups: 7
 first_contact: 2024-03-11
 last_contact: 2024-12-11
+s_mail: 79 msgs (out 43 / in 36), 2024-07-02 -> 2026-09-21
 p1: STC-448XGGM(L3)
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -150,6 +151,25 @@ updated: 2026-10-21
 | 2024-10-24 | 1024 | 154 | useful | Email |  | Singapore 3.3.xlsx#3 |
 | 2024-12-11 | 1211 | 48口 |  | Email |  | Singapore 3.3.xlsx#3 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：79 封（去 43 / 来 36）　|　**期间**：2024-07-02 → 2026-09-21　|　**最后去信**：2026-09-21
+- **对方邮箱**：amandachojt@resonantnetworks.com、amirul@resonantnetworks.com、andreachewyy@resonantnetworks.com、auwc@resonantnetworks.com、bernardsongyw@resonantnetworks.com、finops@resonantnetworks.com
+- **最后一封来信**：2026-06-22 auwc@resonantnetworks.com「Re: Optional Marvell Chipset Solutions」：Hi Simon, Thank you for reaching out. Best regards, Wai Choon, Au Resonant Networks \| M: +65 9734 0606 \| W: www.resonantnetworks.com<http://www.resonantnetworks.com>
+- **邮件里报过的价**：2026-09-21 $180；2025-11-12 $100；2025-07-28 $360；2025-07-28 $185；2025-07-28 $182；2025-07-28 $178；2025-07-28 $172；2024-12-11 $300
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Re: Optional Marvell Chipset Solutions | 2026-06-22 | 2026-09-21 | 1 | 1 | 3 |
+| New Product Links | 2026-02-03 | 2026-02-03 | 0 | 1 | 1 |
+| 10G MultiGig Price | 2024-09-11 | 2025-11-12 | 10 | 12 | 72 |
+| 48 Port PoE Managed Switch | 2024-12-11 | 2024-12-25 | 1 | 3 | 3 |
+| Industrial PoE Switch | 2024-10-24 | 2024-10-28 | 1 | 2 | 4 |
+| PO \| SGP250051 10G MultiGig switch | 2024-08-21 | 2024-09-10 | 12 | 13 | 12 |
+| 10G MultiGig switch | 2024-07-03 | 2024-08-21 | 8 | 7 | 34 |
+| Re: 2.5G switch | 2024-07-02 | 2024-07-03 | 3 | 3 | 10 |
+| 2.5G switch | 2024-07-02 | 2024-07-02 | 0 | 1 | 1 |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`sales@resonantnetworks.com`〔企业邮箱；来源：用户表原值〕
@@ -260,12 +280,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-04**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-05**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 130）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 130）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

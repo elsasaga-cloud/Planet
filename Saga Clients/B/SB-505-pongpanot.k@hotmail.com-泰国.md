@@ -21,12 +21,13 @@ replies: 2
 followups: 19
 first_contact: 2024-02-26
 last_contact: 2025-10-09
+s_mail: 10 msgs (out 9 / in 1), 2024-06-22 -> 2025-01-30
 p1: STI-288GP
 price_tier: 25%
 research: done
 site_snapshot: none
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -111,6 +112,21 @@ updated: 2026-10-21
 | 2025-08-11 | 811 | 24poe |  | A |  | Thailand 2.27.xlsx#19 |
 | 2025-09-12 | 912 | 2 16 |  | A |  | Thailand 2.27.xlsx#19 |
 | 2025-10-09 | 109 | dac |  | A |  | Thailand 2.27.xlsx#19 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：10 封（去 9 / 来 1）　|　**期间**：2024-06-22 → 2025-01-30　|　**最后去信**：2025-01-30
+- **最后一封来信**：2024-07-04 pongpanot.k@hotmail.com「Re: 8 Port Network Switch」：Good morning Simon, Do you have any product to comply requirement as diagram attached ? I am looking for 16 sets for Tunnel project in Bangkok. Rdgs, Pongpanot
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 90W PoE Managed Switch | 2025-01-30 | 2025-01-30 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2024-12-11 | 2024-12-11 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2024-11-20 | 2024-11-20 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2024-10-24 | 2024-10-24 | 0 | 1 | 1 |
+| 24 Port Passive PoE Switch | 2024-09-30 | 2024-09-30 | 0 | 1 | 1 |
+| 8 Port Network Switch | 2024-05-23 | 2024-08-19 | 1 | 4 | 9 |
+| CCTV poe switch | 2024-06-22 | 2024-06-22 | 0 | 1 | 1 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -217,12 +233,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 39）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 39）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

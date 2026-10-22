@@ -21,12 +21,13 @@ replies: 1
 followups: 4
 first_contact: 2025-02-28
 last_contact: 2025-06-22
+s_mail: 10 msgs (out 9 / in 1), 2024-05-22 -> 2024-12-23
 p1: STI-220GE
 price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -91,6 +92,20 @@ updated: 2026-10-21
 | 2025-04-08 | 4.8 | 发了download link |  | E |  | E Replied 2026.08.04.xlsx#17 |
 | 2025-05-12 | 512 | 16电 |  | E |  | E Replied 2026.08.04.xlsx#17 |
 | 2025-06-22 | 622 | 28PoE |  | E |  | E Replied 2026.08.04.xlsx#17 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：10 封（去 9 / 来 1）　|　**期间**：2024-05-22 → 2024-12-23　|　**最后去信**：2024-12-23
+- **最后一封来信**：2024-05-24 powerlogic1965@gmail.com「Re: Industrial Ethernet Switch」：hello good morning thankyou for the email . please send me your website i want to see what product you are making very best regard waseem zafar
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 16 Port Ethernet Switch | 2024-12-23 | 2024-12-23 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2024-12-05 | 2024-12-05 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2024-11-05 | 2024-11-05 | 0 | 1 | 1 |
+| 10G Media Converter | 2024-09-30 | 2024-09-30 | 0 | 1 | 1 |
+| Web managed switch | 2024-08-27 | 2024-08-27 | 0 | 1 | 1 |
+| Industrial Ethernet Switch | 2024-05-22 | 2024-07-31 | 1 | 4 | 8 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -194,12 +209,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 21）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 21）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

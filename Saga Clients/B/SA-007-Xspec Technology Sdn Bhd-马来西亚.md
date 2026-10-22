@@ -22,12 +22,13 @@ replies: 2
 followups: 3
 first_contact: 2024-06-14
 last_contact: 2024-12-10
+s_mail: 10 msgs (out 6 / in 4), 2024-06-14 -> 2024-06-21
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -120,6 +121,17 @@ updated: 2026-10-21
 | 2024-06-14 | 2024.6.14 | 发了商业poE 228信息 | 24 port passive poe  后续成单 | Email |  | Whatsapp_S跟进 2026.08.04.xlsx#122 |
 | 2024-11-18 | 1118 | 引流机型 | passive poe only | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#122 |
 | 2024-12-10 | 1210 | 问需求 推了迷你 |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#122 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：10 封（去 6 / 来 4）　|　**期间**：2024-06-14 → 2024-06-21　|　**最后去信**：2024-06-21
+- **对方邮箱**：sugito@xspec.com.my
+- **最后一封来信**：2024-06-18 sugito@xspec.com.my「Re: Re: PoE Switch」：Hi Simon Can we order 1 unit for testing? Send us Invoice with delivery to: XSPec Hospitech Sdn Bhd No. 8 Jalan Industri USJ 1/8, Taman Perindustrian USJ 1, 47600 Subang Jaya, Selangor, Malaysia. Tel : +60 (3) 8023 1161 Sugito WIBAWA - C.E.O Mobile/ Whatsapp :
+- **邮件里报过的价**：2024-06-17 $90
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| PoE Switch | 2024-06-14 | 2024-06-21 | 4 | 6 | 12 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -228,12 +240,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 123）；人工/调研定级 → B
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 123）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

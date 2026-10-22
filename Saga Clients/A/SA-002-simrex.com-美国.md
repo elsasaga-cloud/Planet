@@ -21,12 +21,13 @@ replies: 1
 followups: 11
 first_contact: 2025-02-08
 last_contact: 2025-11-28
+s_mail: 32 msgs (out 25 / in 7), 2024-12-04 -> 2026-09-08
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -137,6 +138,29 @@ updated: 2026-10-21
 | 2025-11-28 | 1128 | solar |  | S |  | S 09.08.xlsx#10 |
 | ? | 1.3 | 24poe | L3管理 后续未下单 | Email |  | S 09.08.xlsx#10 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：32 封（去 25 / 来 7）　|　**期间**：2024-12-04 → 2026-09-08　|　**最后去信**：2026-09-08
+- **对方邮箱**：frank@simrex.com、maquilino@simrex.com、sales@simrex.com、sktona@simrex.com
+- **最后一封来信**：2026-07-20 frank@simrex.com「RE: 24 Port 10G SFP+ Switch」：Simon , we currently use Mikrotik. We like the scripting and the powerful features. Our value added is the custom scripting and product validity certificate. We have built a cloud NMS using the API. We use 6 and 12 port models. Our cost $90 to $120 including h
+- **邮件里报过的价**：2026-09-08 $170；2026-07-21 $130；2026-07-20 $1500；2025-10-30 $280；2025-08-27 $240；2025-04-28 $300；2024-12-05 $38（STI-154GP）
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 24 Port PoE Managed Switch | 2026-09-08 | 2026-09-08 | 0 | 1 | 1 |
+| 24 Port 10G SFP+ Switch | 2026-07-20 | 2026-07-21 | 1 | 2 | 6 |
+| Firmware 7.5 L2+ Feature Update | 2026-06-22 | 2026-06-22 | 0 | 1 | 2 |
+| Updated Ethernet Switches Links | 2026-03-02 | 2026-03-02 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-29 | 2026-01-29 | 0 | 1 | 1 |
+| Optional Marvell Chipset Solutions | 2025-12-29 | 2025-12-29 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-28 | 2025-11-28 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-30 | 2025-10-30 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2025-09-29 | 2025-09-29 | 0 | 1 | 1 |
+| 24 Port Fiber Switch | 2025-08-27 | 2025-08-27 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-07-29 | 2025-07-29 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-06-25 | 2025-06-25 | 0 | 1 | 1 |
+| …共 17 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`frank@simrex.com`〔企业邮箱；来源：用户表原值〕
@@ -243,12 +267,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-04**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-05**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 88）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 88）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

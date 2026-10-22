@@ -21,12 +21,13 @@ replies: 6
 followups: 13
 first_contact: 2024-05-11
 last_contact: 2025-10-09
+s_mail: 4 msgs (out 2 / in 2), 2024-07-03 -> 2024-07-04
 p1: STI-288DGGPM
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -145,6 +146,16 @@ updated: 2026-10-21
 | 2025-06-21 | 621 | 工业非管理组合图 |  | 微信 |  | Whatsapp_S跟进 2026.08.04.xlsx#7 |
 | 2025-10-09 | 109 | dac |  | 微信 |  | Whatsapp_S跟进 2026.08.04.xlsx#7 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：4 封（去 2 / 来 2）　|　**期间**：2024-07-03 → 2024-07-04　|　**最后去信**：2024-07-04
+- **对方邮箱**：info@divatel.co.id、ismed@divatel.co.id
+- **最后一封来信**：2024-07-04 ismed@divatel.co.id「Re: industrial poe switch」：Hello Simon, Kindly chat me on wechat ismedsitepu, WA +6285289404589. Please also send catalog and price list to ismed@divatel.co.id. Thanks & Best Regards, Ismed S PT DIVATEL PRATAMA
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| industrial poe switch | 2024-07-03 | 2024-07-04 | 2 | 2 | 4 |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`ismed@divatel.co.id`〔企业邮箱；来源：用户表原值〕
@@ -256,12 +267,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-04**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-05**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 73）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 73）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

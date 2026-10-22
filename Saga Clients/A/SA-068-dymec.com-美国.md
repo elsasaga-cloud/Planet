@@ -21,12 +21,13 @@ replies: 1
 followups: 1
 first_contact: 2025-09-23
 last_contact: 2025-09-23
+s_mail: 13 msgs (out 10 / in 3), 2024-07-01 -> 2025-02-06
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -135,6 +136,25 @@ updated: 2026-10-21
 |---|---|---|---|---|---|---|
 | 2025-09-23 | 2025.9.23 | Dual AC | Not out market | A |  | A Replied 09.04.xlsx#21 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：13 封（去 10 / 来 3）　|　**期间**：2024-07-01 → 2025-02-06　|　**最后去信**：2025-02-06
+- **对方邮箱**：sales@dymec.com、thom.sherer@dymec.com
+- **最后一封来信**：2025-02-06 sales@dymec.com「Tom West Out of Office / AI Conference Re: L3 Managed Switch」：Thank you for your email. RE: AI Conference in Hawaii I am currently out of the office starting on Thursday, January 30th, 2024 and returning on Monday February 10th, 2024. If you need assistance during this time, one of my team members will be able to help. T
+- **邮件里报过的价**：2025-01-06 $240；2024-11-19 $300；2024-09-30 $65
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| L3 Managed Switch | 2025-02-06 | 2025-02-06 | 0 | 1 | 1 |
+| Tom West Out of Office / AI Conference Re: L3 Managed Switch | 2025-02-06 | 2025-02-06 | 1 | 0 | 0 |
+| 24 Port Fiber Switch | 2025-01-06 | 2025-01-06 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2024-12-11 | 2024-12-11 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2024-11-19 | 2024-11-19 | 0 | 1 | 1 |
+| 90W PoE Managed Switch | 2024-10-23 | 2024-10-23 | 0 | 1 | 1 |
+| 10G Media Converter | 2024-09-30 | 2024-09-30 | 0 | 1 | 1 |
+| 24 port poe switch | 2024-07-30 | 2024-08-23 | 2 | 3 | 8 |
+| 2.5G unmanaged switch | 2024-07-01 | 2024-07-01 | 0 | 1 | 1 |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`sales@dymec.com`〔企业邮箱；来源：用户表原值〕
@@ -242,12 +262,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-04**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-05**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 76）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 76）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

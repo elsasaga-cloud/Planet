@@ -21,12 +21,13 @@ replies: 1
 followups: 14
 first_contact: 2025-02-08
 last_contact: 2025-10-31
+s_mail: 6 msgs (out 5 / in 1), 2024-10-30 -> 2025-02-07
 p1: STI-288GP
 price_tier: 25%
 research: done
 site_snapshot: none
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -102,6 +103,18 @@ updated: 2026-10-21
 | ? | 51 | poe |  | A |  | US.xlsx#245 |
 | ? | 77 | 24poe |  | A |  | US.xlsx#245 |
 | ? | 92 | 28bt |  | A |  | US.xlsx#245 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：6 封（去 5 / 来 1）　|　**期间**：2024-10-30 → 2025-02-07　|　**最后去信**：2025-02-07
+- **最后一封来信**：2024-10-30 chk999@outlook.com「Re: 10G Ethernet Web Managed Switch」：Hi, Does it have the https (not http, but https with s at the end http secure protocol) and can we store third party https certificates ? Best Regards. Chavan
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Industrial PoE Switch | 2025-02-07 | 2025-02-07 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2025-01-03 | 2025-01-03 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2024-12-11 | 2024-12-11 | 0 | 1 | 1 |
+| 10G Ethernet Web Managed Switch | 2024-10-30 | 2024-11-15 | 1 | 3 | 5 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -207,12 +220,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 33）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 33）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

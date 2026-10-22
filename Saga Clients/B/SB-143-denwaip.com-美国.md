@@ -19,12 +19,13 @@ replies: 0
 followups: 11
 first_contact: 2025-02-19
 last_contact: 2025-11-06
+s_mail: 2 msgs (out 1 / in 1), 2024-12-12 -> 2025-01-15
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -127,6 +128,17 @@ updated: 2026-10-21
 | ? | 63 | alarm |  | A |  | US.xlsx#11 |
 | ? | 85 | 24poe |  | A |  | US.xlsx#11 |
 | ? | 95 | 22mini |  | A |  | US.xlsx#11 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：2 封（去 1 / 来 1）　|　**期间**：2024-12-12 → 2025-01-15　|　**最后去信**：2025-01-15
+- **对方邮箱**：sales@denwaip.com、ventas@denwaip.com
+- **最后一封来信**：2024-12-12 ventas@denwaip.com「Re: Mini Industrial PoE Switch」：Estimado, Nos complace informarle que su caso número 3204 ha sido resuelto y se encuentra Completado. Esperamos que el problema haya sido solucionado a su satisfacción. Si tiene alguna otra consulta o necesita asistencia adicional, no dude en contactarnos. Sal
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 8 Port Industrial PoE Switch | 2025-01-15 | 2025-01-15 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2024-11-24 | 2024-12-12 | 2 | 1 | 2 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -236,12 +248,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -21,12 +21,13 @@ replies: 0
 followups: 2
 first_contact: 2025-09-30
 last_contact: 2025-10-29
+s_mail: 5 msgs (out 5 / in 0), 2024-07-01 -> 2024-10-31
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -142,6 +143,21 @@ updated: 2026-10-21
 | 2025-09-30 | 2025.9.30 | dac |  | A |  | 土耳其客户 3.10.xlsx#69 |
 | 2025-10-29 | 1029 | 24poe |  | A |  | 土耳其客户 3.10.xlsx#69 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：5 封（去 5 / 来 0）　|　**期间**：2024-07-01 → 2024-10-31　|　**最后去信**：2024-10-31
+- **对方邮箱**：eleman@bimel.com.tr、mustafa@bimel.com.tr
+- 对方从未回信（全部为我方去信）
+- **邮件里报过的价**：2024-08-21 $65；2024-07-24 $220
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Mini Industrial PoE Switch | 2024-10-31 | 2024-10-31 | 0 | 1 | 1 |
+| 24 Port Passive PoE Switch | 2024-09-24 | 2024-09-24 | 0 | 1 | 1 |
+| 10g media converter | 2024-08-21 | 2024-08-21 | 0 | 1 | 1 |
+| 48 port managed switch | 2024-07-24 | 2024-07-24 | 1 | 1 | 3 |
+| 90W poe managed switch | 2024-07-01 | 2024-07-01 | 0 | 1 | 1 |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`bimel@bimel.com.tr`〔企业邮箱；来源：用户表原值〕
@@ -249,12 +265,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

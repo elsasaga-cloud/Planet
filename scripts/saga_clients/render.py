@@ -18,6 +18,8 @@ from common import DATA, OUT_DIR, ROOT, slug
 TODAY = dt.date.today().isoformat()
 PRICE_CSV = os.path.join(ROOT, 'data', '价格主表.csv')
 DIGEST_JSON = os.path.join(DATA, 'site_digest.json')   # snapshot_digest.py 产物（官网快照摘要），缺失则跳过
+GMAIL_DIGEST = os.path.join(DATA, 'gmail_digest.json')  # gmail_digest.py 产物（S 邮箱按客户汇总），缺失则跳过
+GMAIL = json.load(open(GMAIL_DIGEST, encoding='utf-8')) if os.path.exists(GMAIL_DIGEST) else {}
 
 
 def load_digest():
@@ -341,6 +343,38 @@ def fmt_deep(ent):
         L.append(f"- **Saga 对位结论**：P1 {sf.get('p1') or '待核型（无标准对应）'}（{sf.get('tier', '')}% 档）——{sf.get('why', '')}")
     if rs.get('email_hook'):
         L.append(f"- **邮件切入句（英文）**：{rs['email_hook']}")
+    return '\n'.join(L)
+
+
+def fmt_gmail(ent):
+    """S 邮箱往来（自动汇总，来自 data/saga_clients/gmail_digest.json）；只对 A/B 档案输出。"""
+    g = GMAIL.get(ent['code'])
+    if not g:
+        return ''
+    L = []
+    L.append(f"- **账号**：{g['account']}　|　**邮件**：{g['messages']} 封（去 {g['out']} / 来 {g['in']}）　|　**期间**：{g['first']} → {g['last']}　|　**最后去信**：{g['last_out'] or '—'}")
+    if g.get('emails'):
+        L.append('- **对方邮箱**：' + '、'.join(g['emails'][:6]))
+    li = g.get('last_in')
+    if li:
+        L.append(f"- **最后一封来信**：{li['date']} {li['from']}「{md_escape(li['subject'])}」：{md_escape(li['snippet'])}")
+        if g.get('pending_reply'):
+            L.append('- ⚠️ **对方来信在我们最后一封之后（同一线程我方发过）——待回**')
+    elif g['in'] == 0:
+        L.append('- 对方从未回信（全部为我方去信）')
+    if g.get('quotes'):
+        L.append('- **邮件里报过的价**：' + '；'.join(f"{q['date']} ${q['usd']}{('（' + q['model'] + '）') if q['model'] else ''}" for q in g['quotes'][:8]))
+    if g.get('threads'):
+        L.append('')
+        L.append('| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |')
+        L.append('|---|---|---|---|---|---|')
+        for t in g['threads'][:12]:
+            L.append(f"| {md_escape(t['subject'])} | {t['first']} | {t['last']} | {t['in']} | {t['out']} | {t['atts']} |")
+        if len(g['threads']) > 12:
+            L.append(f"| …共 {len(g['threads'])} 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |")
+    if g.get('attachments'):
+        L.append('')
+        L.append('- **往来附件**：' + '、'.join(md_escape(a) for a in g['attachments'][:10]))
     return '\n'.join(L)
 
 
@@ -709,6 +743,9 @@ def render_one(ent):
     lines.append(f'followups: {ent["fu_count"]}')
     lines.append(f'first_contact: {ent["fu_first"] or "unknown"}')
     lines.append(f'last_contact: {ent["fu_last"] or "unknown"}')
+    gm = GMAIL.get(code)
+    if gm:
+        lines.append(f"s_mail: {gm['messages']} msgs (out {gm['out']} / in {gm['in']}), {gm['first']} -> {gm['last']}")
     lines.append(f'p1: {p1 or "none"}')
     lines.append(f'price_tier: {tier}%')
     lines.append(f'research: {"done" if ent.get("research") else "pending"}')
@@ -813,6 +850,11 @@ def render_one(ent):
     lines.append('')
     lines.append(fmt_followups(ent))
     lines.append('')
+    if g in ('A', 'B') and GMAIL.get(code):
+        lines.append('## 邮箱往来（S 邮箱 · 自动汇总）')
+        lines.append('')
+        lines.append(fmt_gmail(ent))
+        lines.append('')
     lines.append('## 联系方式（已有 · 原值照录）')
     lines.append('')
     lines.append(fmt_contacts(ent))

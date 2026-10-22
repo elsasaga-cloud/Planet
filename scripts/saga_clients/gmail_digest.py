@@ -1,0 +1,109 @@
+#!/usr/bin/env python3
+"""把 S 邮箱入库数据（data/gmail_s/）按客户编号压成档案可用的摘要 → data/saga_clients/gmail_digest.json。
+
+每个客户：线程表（主题 / 首末日期 / 来 / 去 / 附件数）、最后一封来信（日期 / 发件人 / 摘要）、最后一封去信日期、
+邮件里报过的价（来自 data/gmail_s/报价史.csv）、往来附件名。只做机械汇总，不做判断；render.py 对 A/B 档案加「邮箱往来」节。
+多账号：将来 A 邮箱入库后在 ACCOUNTS 里加 'a' 即可。
+"""
+import csv, glob, json, os, re
+from collections import defaultdict
+from common import DATA, ROOT
+
+ACCOUNTS = ['s']
+AUTO = re.compile(r'(out of (the )?office|automatic reply|auto-?reply|autoreply|delivery status|undeliver|mailer-daemon|postmaster|unsubscribe|no-?reply|noreply|newsletter|zendesk|ticket|thank you for contacting|we have received your (message|email|inquiry)|vacation|abwesen|poza biurem|отпуск|автоответ|réponse automatique|ferie|on leave|promo|%|sale!)', re.I)
+OUT = os.path.join(DATA, 'gmail_digest.json')
+
+
+def main():
+    digest = {}
+    for acct in ACCOUNTS:
+        base = os.path.join(ROOT, 'data', f'gmail_{acct}')
+        link_p = os.path.join(base, 'clients_link.json')
+        if not os.path.exists(link_p):
+            continue
+        threads = json.load(open(os.path.join(base, 'threads.json'), encoding='utf-8'))['threads']
+        # 当前 entities.json 的域名 → 编号（比入库时的 clients_link 新：补录客户也能对上）
+        ents = json.load(open(os.path.join(DATA, 'entities.json'), encoding='utf-8'))
+        dom2 = {}
+        for e in ents:
+            for d in e.get('domains') or []:
+                dom2[d.lower()] = e['code']
+        own = {'gmail.com', 'googlemail.com', 'sagatelecom.com', 'sagatelecom.com.cn', 'sagatele.com'}
+        stat = defaultdict(lambda: {'messages': 0, 'out': 0, 'in': 0, 'first': '9999', 'last': '0000', 'emails': set(), 'threads': set()})
+        last_in, last_out, atts = {}, {}, defaultdict(set)
+        for f in sorted(glob.glob(os.path.join(base, 'messages', '*', '*.jsonl'))):
+            for line in open(f, encoding='utf-8'):
+                m = json.loads(line)
+                people = [m['from']] + (m.get('to') or []) + (m.get('cc') or [])
+                codes = set(m.get('client') or [])
+                for x in people:
+                    dmn = x['e'].split('@')[-1].lower()
+                    if dmn in dom2 and dmn not in own:
+                        codes.add(dom2[dmn])
+                if not codes:
+                    continue
+                d = m['date'][:10]
+                for code in codes:
+                    st = stat[code]
+                    st['messages'] += 1
+                    st['out' if m.get('dir') == 'out' else 'in'] += 1
+                    st['first'] = min(st['first'], d)
+                    st['last'] = max(st['last'], d)
+                    st['threads'].add(m['thr'])
+                    for x in people:
+                        dmn = x['e'].split('@')[-1].lower()
+                        if dom2.get(dmn) == code:
+                            st['emails'].add(x['e'].lower())
+                    if m.get('dir') == 'in':
+                        t = (m.get('text') or '')
+                        qa = m.get('quote_at')
+                        t = t[:qa] if qa else t
+                        t = re.sub(r'\s+', ' ', t).strip()
+                        if code not in last_in or d >= last_in[code]['date']:
+                            last_in[code] = {'date': d, 'from': m['from']['e'], 'subject': m['subj'][:80], 'snippet': t[:260], 'thr': m['thr'],
+                                             'auto': bool(AUTO.search(m['subj']) or AUTO.search(t[:300]) or AUTO.search(m['from']['e']))}
+                    else:
+                        if d > last_out.get(code, ''):
+                            last_out[code] = d
+                    for a in m.get('att') or []:
+                        n = a.get('name') or ''
+                        if n and not re.search(r'\.(png|jpe?g|gif)$', n, re.I):
+                            atts[code].add(n[:60])
+        links = {code: {'messages': st['messages'], 'out': st['out'], 'in': st['in'], 'first': st['first'], 'last': st['last'],
+                        'emails': sorted(st['emails']), 'threads': sorted(st['threads'])} for code, st in stat.items()}
+        quotes = defaultdict(list)
+        qp = os.path.join(base, '报价史.csv')
+        if os.path.exists(qp):
+            for r in csv.DictReader(open(qp, encoding='utf-8-sig')):
+                if r['客户编号'] and r['类型'] == '单价' and r['群发?'] != 'Y':
+                    quotes[r['客户编号']].append({'date': r['日期'], 'usd': r['价格USD'], 'model': r['型号(正文出现)'], 'ctx': r['价格所在句'][:110]})
+        for code, v in links.items():
+            th = []
+            for tid in v.get('threads', []):
+                t = threads.get(tid)
+                if t:
+                    th.append({'id': tid, 'subject': t['subject'][:80], 'first': t['first'][:10], 'last': t['last'][:10], 'in': t['in'], 'out': t['out'], 'atts': t['atts']})
+            th.sort(key=lambda x: x['last'], reverse=True)
+            q = sorted(quotes.get(code, []), key=lambda x: x['date'], reverse=True)
+            # 同日同价去重
+            seen, qq = set(), []
+            for x in q:
+                k = (x['date'], x['usd'])
+                if k in seen:
+                    continue
+                seen.add(k)
+                qq.append(x)
+            li = last_in.get(code)
+            pending = False
+            if li and not li.get('auto') and li['date'] > (last_out.get(code, '') or ''):
+                t = threads.get(li.get('thr') or '')
+                pending = bool(t and t.get('out', 0) > 0)
+            digest[code] = {'pending_reply': pending, 'account': f'{acct}.sagatelecom', 'messages': v['messages'], 'out': v['out'], 'in': v['in'], 'first': v['first'][:10], 'last': v['last'][:10],
+                            'emails': v.get('emails', []), 'threads': th[:30], 'last_in': last_in.get(code), 'last_out': last_out.get(code, ''),
+                            'quotes': qq[:12], 'attachments': sorted(atts.get(code, []))[:12]}
+    json.dump(digest, open(OUT, 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
+    print('clients', len(digest), '→', os.path.relpath(OUT, ROOT))
+
+
+if __name__ == '__main__':
+    main()

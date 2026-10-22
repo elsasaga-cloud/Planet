@@ -22,12 +22,13 @@ replies: 0
 followups: 19
 first_contact: 2024-05-10
 last_contact: 2025-10-27
+s_mail: 8 msgs (out 8 / in 0), 2024-07-05 -> 2025-01-20
 p1: STI-288GPM
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -140,6 +141,24 @@ updated: 2026-10-21
 | 2025-09-24 | 924 | dac |  | Whatsapp |  | 阿联酋 沙特阿拉伯  2.3.xlsx#23 |
 | 2025-10-27 | 1027 | solar |  | Whatsapp |  | 阿联酋 沙特阿拉伯  2.3.xlsx#23 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：8 封（去 8 / 来 0）　|　**期间**：2024-07-05 → 2025-01-20　|　**最后去信**：2025-01-20
+- **对方邮箱**：egc@egc-lb.com
+- 对方从未回信（全部为我方去信）
+- **邮件里报过的价**：2024-09-02 $65
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| L3 Managed Switch | 2025-01-20 | 2025-01-20 | 0 | 1 | 1 |
+| 8 Port Industrial PoE Switch | 2024-12-24 | 2024-12-24 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2024-12-04 | 2024-12-04 | 0 | 1 | 1 |
+| 90W PoE Managed Switch | 2024-11-06 | 2024-11-06 | 0 | 1 | 1 |
+| 24 Port Passive PoE Switch | 2024-10-10 | 2024-10-10 | 0 | 1 | 1 |
+| 10G media converter | 2024-09-02 | 2024-09-02 | 0 | 1 | 1 |
+| Industrial poe switch | 2024-08-06 | 2024-08-06 | 0 | 1 | 1 |
+| PoE managed switch | 2024-07-05 | 2024-07-05 | 0 | 1 | 1 |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`egc@egc-lb.com`〔企业邮箱；来源：用户表原值〕
@@ -244,12 +263,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -19,12 +19,13 @@ replies: 0
 followups: 22
 first_contact: 2024-04-30
 last_contact: 2025-10-30
+s_mail: 7 msgs (out 7 / in 0), 2024-06-17 -> 2025-01-23
 p1: STI-288GPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -139,6 +140,23 @@ updated: 2026-10-21
 | ? | 74 | 48口 |  | A |  | KR.xlsx#45 |
 | ? | 91 | 28poe |  | A |  | KR.xlsx#45 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：7 封（去 7 / 来 0）　|　**期间**：2024-06-17 → 2025-01-23　|　**最后去信**：2025-01-23
+- **对方邮箱**：gotsales@gotinc.co.kr
+- 对方从未回信（全部为我方去信）
+- **邮件里报过的价**：2024-12-25 $240；2024-08-14 $65；2024-06-17 $220
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 16 Port PoE Managed Switch | 2025-01-23 | 2025-01-23 | 0 | 1 | 1 |
+| 24 Port Fiber Switch | 2024-12-25 | 2024-12-25 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2024-11-27 | 2024-11-27 | 0 | 1 | 1 |
+| 8 Port Ethernet Switch | 2024-10-14 | 2024-10-14 | 0 | 1 | 1 |
+| 10G media converter | 2024-08-14 | 2024-08-14 | 0 | 1 | 1 |
+| Industrial poe switch | 2024-07-17 | 2024-07-17 | 0 | 1 | 1 |
+| 48 port managed switch | 2024-06-17 | 2024-06-17 | 0 | 1 | 1 |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`gotsales@gotinc.co.kr`〔企业邮箱；来源：用户表原值〕
@@ -242,12 +260,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 39）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 39）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -21,12 +21,13 @@ replies: 1
 followups: 6
 first_contact: 2025-02-26
 last_contact: 2025-08-29
+s_mail: 2 msgs (out 1 / in 1), 2025-01-15 -> 2025-01-16
 p1: STI-220GE
 price_tier: 25%
 research: done
 site_snapshot: none
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -96,6 +97,15 @@ updated: 2026-10-21
 | 2025-07-22 | 722 | bypass |  | A |  | 其他优质欧洲客户 2.26.xlsx#5 |
 | 2025-08-29 | 829 | 24poe |  | A |  | 其他优质欧洲客户 2.26.xlsx#5 |
 | ? | 1.5 | 群发了22mini | sample? | Email |  | 其他优质欧洲客户 2.26.xlsx#5 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：2 封（去 1 / 来 1）　|　**期间**：2025-01-15 → 2025-01-16　|　**最后去信**：2025-01-16
+- **最后一封来信**：2025-01-15 joemar.baquiran@gmail.com「Re: Mini Industrial PoE Switch」：sir, can you possibly send me an item for testing? Looking forward to hearing from you. thanks
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Mini Industrial PoE Switch | 2025-01-05 | 2025-01-16 | 1 | 2 | 4 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -203,12 +213,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

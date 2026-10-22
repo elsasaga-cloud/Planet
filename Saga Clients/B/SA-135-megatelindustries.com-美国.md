@@ -22,12 +22,13 @@ replies: 0
 followups: 22
 first_contact: 2024-01-03
 last_contact: 2025-11-28
+s_mail: 25 msgs (out 24 / in 1), 2024-06-18 -> 2026-09-08
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -148,6 +149,29 @@ updated: 2026-10-21
 | 2025-10-30 | 1030 | dac |  | S |  | S 09.08.xlsx#12 |
 | 2025-11-28 | 1128 | solar |  | S |  | S 09.08.xlsx#12 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：25 封（去 24 / 来 1）　|　**期间**：2024-06-18 → 2026-09-08　|　**最后去信**：2026-09-08
+- **对方邮箱**：sales@megatelindustries.com、zack@megatelindustries.com
+- **最后一封来信**：2024-11-26 zack@megatelindustries.com「RE: 10G Media Converter」：Do you have a data sheet for this converter? Thanks for your business! Zack Yu – VP Sales Megatel Industries Corp. 664 Wagner Court North Wales, PA 19454, USA Tel: 1-610-239-8812 Fax: 1-215-699-3348 Zack@megatelindustries.com <mailto:Zack@megatelindustries.com
+- **邮件里报过的价**：2026-09-08 $170；2026-07-20 $1500；2025-10-30 $280；2025-09-29 $240；2025-06-25 $300；2024-11-19 $300；2024-08-14 $65
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 24 Port PoE Managed Switch | 2026-09-08 | 2026-09-08 | 0 | 1 | 1 |
+| 24 Port 10G SFP+ Switch | 2026-07-20 | 2026-07-20 | 0 | 1 | 1 |
+| Firmware 7.5 L2+ Feature Update | 2026-06-22 | 2026-06-22 | 0 | 1 | 2 |
+| Updated Ethernet Switches Links | 2026-03-02 | 2026-03-02 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-29 | 2026-01-29 | 0 | 1 | 1 |
+| Optional Marvell Chipset Solutions | 2025-12-30 | 2025-12-30 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-27 | 2025-11-27 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-30 | 2025-10-30 | 0 | 1 | 1 |
+| 24 Port Fiber Switch | 2025-09-29 | 2025-09-29 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2025-08-27 | 2025-08-27 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-07-29 | 2025-07-29 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2025-06-25 | 2025-06-25 | 0 | 1 | 1 |
+| …共 24 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`zack@megatelindustries.com`〔企业邮箱；来源：用户表原值〕
@@ -254,12 +278,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 62）；人工/调研定级 → B
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 62）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

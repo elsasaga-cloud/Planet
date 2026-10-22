@@ -19,12 +19,13 @@ replies: 0
 followups: 16
 first_contact: 2024-05-14
 last_contact: 2025-10-16
+s_mail: 7 msgs (out 5 / in 2), 2023-12-25 -> 2024-11-18
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -141,6 +142,23 @@ updated: 2026-10-21
 | 2025-10-16 | 1016 | 28bt |  | A |  | UK.xlsx#63 |
 | ? | 79 | 16电 |  | A |  | UK.xlsx#63 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：7 封（去 5 / 来 2）　|　**期间**：2023-12-25 → 2024-11-18　|　**最后去信**：2024-11-18
+- **对方邮箱**：info@securasound.co.uk
+- **最后一封来信**：2024-05-14 info@securasound.co.uk「Automatic reply: Industrial poe switch」：If you have sent us images of a product to identify we will generally respond to you within 1 working day. Please check that the images you have sent are clear and not low resolution. For other queries we will try and respond as promptly as we can.
+- **邮件里报过的价**：2024-08-09 $65；2024-07-11 $220
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 24 Port Passive PoE Switch | 2024-11-18 | 2024-11-18 | 0 | 1 | 1 |
+| 10G Ethernet Web Managed Switch | 2024-10-17 | 2024-10-17 | 0 | 1 | 1 |
+| Unmanaged poe switch | 2024-09-06 | 2024-09-06 | 0 | 1 | 1 |
+| 10G media converter | 2024-08-09 | 2024-08-09 | 0 | 1 | 1 |
+| 48 port managed switch | 2024-07-11 | 2024-07-11 | 0 | 1 | 1 |
+| Automatic reply: Industrial poe switch | 2024-05-14 | 2024-05-14 | 1 | 0 | 0 |
+| Automatic reply: Din Power Supply | 2023-12-25 | 2023-12-25 | 1 | 0 | 0 |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`info@securasound.co.uk`〔企业邮箱；来源：用户表原值〕
@@ -249,12 +267,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -19,12 +19,13 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
+s_mail: 6 msgs (out 0 / in 6), 2023-11-30 -> 2025-01-26
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -115,6 +116,21 @@ updated: 2026-10-21
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：6 封（去 0 / 来 6）　|　**期间**：2023-11-30 → 2025-01-26　|　**最后去信**：—
+- **对方邮箱**：info@hunter-cctv.ru
+- **最后一封来信**：2025-01-26 info@hunter-cctv.ru「Auto-reply: 24 Port Fiber Switch」：Здравствуйте! Ваше письмо успешно доставлено. Пожалуйста, ожидайте ответа. Если по какой-либо причине в течении 24 часов Вы не получите ответ, просьба продублировать письмо. -- С уважением, администрация сайта hunter-cctv.ru
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Auto-reply: 24 Port Fiber Switch | 2025-01-26 | 2025-01-26 | 1 | 0 | 0 |
+| Auto-reply: Mini Industrial PoE Switch | 2024-12-14 | 2024-12-14 | 1 | 0 | 0 |
+| Auto-reply: 90W PoE Managed Switch | 2024-11-17 | 2024-11-17 | 1 | 0 | 0 |
+| Auto-reply: 8 Port Ethernet Switch | 2024-10-13 | 2024-10-13 | 1 | 0 | 0 |
+| Auto-reply: 4 port PoE switch | 2023-12-26 | 2023-12-26 | 1 | 0 | 0 |
+| Auto-reply: CCTV poe switch | 2023-11-30 | 2023-11-30 | 1 | 0 | 0 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -221,12 +237,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 29）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 29）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

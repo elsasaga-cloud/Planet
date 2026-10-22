@@ -21,12 +21,13 @@ replies: 1
 followups: 1
 first_contact: 2025-09-27
 last_contact: 2025-09-27
+s_mail: 4 msgs (out 3 / in 1), 2024-08-24 -> 2024-09-30
 p1: STC-424DGGPM-280W
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -129,6 +130,16 @@ updated: 2026-10-21
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-09-27 | 2025.9.27 | Dual AC | Price | A |  | A Replied 09.04.xlsx#23 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：4 封（去 3 / 来 1）　|　**期间**：2024-08-24 → 2024-09-30　|　**最后去信**：2024-09-30
+- **对方邮箱**：nate.cline@alphanetcom.com
+- **最后一封来信**：2024-08-24 nate.cline@alphanetcom.com「RE: 10G media converter」：Hi Simon, Yes, I would like to learn more about your 10G media converter. Can you send me a price list and I want to ask if I can buy from you in Large Order and would you provide a discount on Large Orders? Thank you, Nate
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 10G media converter | 2024-08-24 | 2024-09-30 | 1 | 4 | 7 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -239,12 +250,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-04**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-05**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 70）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 70）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

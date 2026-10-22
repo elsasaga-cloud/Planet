@@ -21,12 +21,13 @@ replies: 0
 followups: 8
 first_contact: 2025-02-20
 last_contact: 2025-10-28
+s_mail: 10 msgs (out 0 / in 10), 2023-11-02 -> 2024-11-14
 p1: STI-288GPM
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -129,6 +130,25 @@ updated: 2026-10-21
 | 2025-10-28 | 1028 | 28poe |  | A |  | DE 1.22.xlsx#76 |
 | ? | 58 | bypass |  | A |  | DE 1.22.xlsx#76 |
 | ? | 64 | 16电 |  | A |  | DE 1.22.xlsx#76 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：10 封（去 0 / 来 10）　|　**期间**：2023-11-02 → 2024-11-14　|　**最后去信**：—
+- **对方邮箱**：info@lanopia.de
+- **最后一封来信**：2024-11-14 info@lanopia.de「Ihr email an Lanopia GmbH」：Vielen Dank fuer Ihr Email und das Interesse an unseren Lanopia Produkten und Dienstleistungen. Unser Kundendienst oder unser technisches Support Team wird Sie so schnell wie moeglich kontaktieren. Ihr Lanopia Team Thank you for your email and your interest in
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Ihr email an Lanopia GmbH | 2024-11-14 | 2024-11-14 | 1 | 0 | 0 |
+| Ihr email an Lanopia GmbH | 2024-10-11 | 2024-10-11 | 1 | 0 | 0 |
+| Ihr email an Lanopia GmbH | 2024-09-09 | 2024-09-09 | 1 | 0 | 0 |
+| Ihr email an Lanopia GmbH | 2024-08-14 | 2024-08-14 | 1 | 0 | 0 |
+| Ihr email an Lanopia GmbH | 2024-07-03 | 2024-07-03 | 1 | 0 | 0 |
+| Ihr email an Lanopia GmbH | 2024-05-17 | 2024-05-17 | 1 | 0 | 0 |
+| Ihr email an Lanopia GmbH | 2024-04-15 | 2024-04-15 | 1 | 0 | 0 |
+| Ihr email an Lanopia GmbH | 2024-03-11 | 2024-03-11 | 1 | 0 | 0 |
+| Ihr email an Lanopia GmbH | 2023-12-21 | 2023-12-21 | 1 | 0 | 0 |
+| Ihr email an Lanopia GmbH | 2023-11-02 | 2023-11-02 | 1 | 0 | 0 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -233,12 +253,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

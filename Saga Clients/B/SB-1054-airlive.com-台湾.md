@@ -19,12 +19,13 @@ replies: 0
 followups: 19
 first_contact: 2024-01-02
 last_contact: 2025-10-23
+s_mail: 12 msgs (out 11 / in 1), 2024-01-02 -> 2025-01-10
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -142,6 +143,24 @@ updated: 2026-10-21
 | 2025-09-17 | 917 | 22mini |  | A |  | Taiwan.xlsx#82 |
 | 2025-10-23 | 1023 | dac |  | A |  | Taiwan.xlsx#82 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：12 封（去 11 / 来 1）　|　**期间**：2024-01-02 → 2025-01-10　|　**最后去信**：2025-01-10
+- **对方邮箱**：john.lai@airlive.com
+- **最后一封来信**：2024-01-02 john.lai@airlive.com「RE: Industrial power adapter」：Whats you company url Is those ce certificate? J
+- **邮件里报过的价**：2025-01-10 $240；2024-11-01 $300；2024-08-26 $65
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 24 Port Fiber Switch | 2025-01-10 | 2025-01-10 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2024-12-19 | 2024-12-19 | 0 | 1 | 1 |
+| Power Converter | 2024-11-26 | 2024-11-26 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2024-11-01 | 2024-11-01 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2024-09-26 | 2024-09-26 | 0 | 1 | 1 |
+| 10G media converter | 2024-08-26 | 2024-08-26 | 0 | 1 | 1 |
+| Industrial fiber switch | 2024-08-02 | 2024-08-02 | 0 | 1 | 1 |
+| Industrial power adapter | 2024-01-02 | 2024-07-02 | 1 | 4 | 6 |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`john.lai@airlive.com`〔企业邮箱；来源：用户表原值〕
@@ -248,12 +267,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 27）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 27）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -22,12 +22,13 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
+s_mail: 6 msgs (out 6 / in 0), 2024-07-12 -> 2024-12-30
 p1: STC-424DGGPM-280W
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -123,6 +124,22 @@ updated: 2026-10-21
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：6 封（去 6 / 来 0）　|　**期间**：2024-07-12 → 2024-12-30　|　**最后去信**：2024-12-30
+- **对方邮箱**：apac@ict-integrators.com
+- 对方从未回信（全部为我方去信）
+- **邮件里报过的价**：2024-08-10 $220
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Mini Industrial PoE Switch | 2024-12-30 | 2024-12-30 | 0 | 1 | 1 |
+| 24 Port Passive PoE Switch | 2024-11-29 | 2024-11-29 | 0 | 1 | 1 |
+| 8 Port Ethernet Switch | 2024-10-18 | 2024-10-18 | 0 | 1 | 1 |
+| 8 port poe switch | 2024-09-06 | 2024-09-06 | 0 | 1 | 1 |
+| 48 port managed switch | 2024-08-10 | 2024-08-10 | 0 | 1 | 1 |
+| 2.5G Switch | 2024-07-12 | 2024-07-12 | 0 | 1 | 1 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -231,12 +248,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 61）；人工/调研定级 → B
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 61）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

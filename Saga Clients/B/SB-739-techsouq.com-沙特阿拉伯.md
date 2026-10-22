@@ -21,12 +21,13 @@ replies: 1
 followups: 15
 first_contact: 2024-09-08
 last_contact: 2025-10-22
+s_mail: 7 msgs (out 6 / in 1), 2024-09-08 -> 2025-01-03
 p1: STI-110GE
 price_tier: 20%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -135,6 +136,20 @@ updated: 2026-10-21
 | 2025-08-27 | 827 | 28bt |  | A |  | 阿联酋 沙特阿拉伯  2.3.xlsx#12 |
 | 2025-09-23 | 923 | dac |  | A |  | 阿联酋 沙特阿拉伯  2.3.xlsx#12 |
 | 2025-10-22 | 1022 | 2 16 |  | A |  | 阿联酋 沙特阿拉伯  2.3.xlsx#12 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：7 封（去 6 / 来 1）　|　**期间**：2024-09-08 → 2025-01-03　|　**最后去信**：2025-01-03
+- **对方邮箱**：info@techsouq.com
+- **最后一封来信**：2024-09-08 info@techsouq.com「Re: Power Converter」：Looks good. With best regards, Ahmad Pervez, Techsouq Computers L.L.C. Bayan Business Center, Dubai Investments Park First, Dubai, United Arab Emirates Tel. No. (Office) +9714 355 0600 Mobile/ whatsapp No. +97152 703 6860 E-mail : info@techsouq.com<mailto:info
+- **邮件里报过的价**：2024-12-11 $300；2024-09-09 $33.5
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Mini Industrial PoE Switch | 2025-01-03 | 2025-01-03 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2024-12-11 | 2024-12-11 | 0 | 1 | 1 |
+| 8 Port Industrial PoE Switch | 2024-11-20 | 2024-11-20 | 0 | 1 | 1 |
+| Power Converter | 2024-09-08 | 2024-10-24 | 1 | 4 | 9 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -248,12 +263,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 34）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 34）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

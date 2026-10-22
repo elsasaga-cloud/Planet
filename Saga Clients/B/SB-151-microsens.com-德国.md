@@ -21,12 +21,13 @@ replies: 0
 followups: 14
 first_contact: 2024-05-02
 last_contact: 2025-10-14
+s_mail: 6 msgs (out 6 / in 0), 2024-06-26 -> 2024-11-21
 p1: STI-288GPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -137,6 +138,22 @@ updated: 2026-10-21
 | ? | 62 | alarm |  | A |  | DE 1.22.xlsx#23 |
 | ? | 79 | 16电 |  | A |  | DE 1.22.xlsx#23 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：6 封（去 6 / 来 0）　|　**期间**：2024-06-26 → 2024-11-21　|　**最后去信**：2024-11-21
+- **对方邮箱**：adevries@microsens.de、nfaut@microsens.de
+- 对方从未回信（全部为我方去信）
+- **邮件里报过的价**：2024-07-19 $220
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 90W PoE Managed Switch | 2024-11-21 | 2024-11-21 | 0 | 1 | 1 |
+| 10G Ethernet Web Managed Switch | 2024-10-28 | 2024-10-28 | 0 | 1 | 1 |
+| 100G Data Center Switch | 2024-09-10 | 2024-09-10 | 0 | 1 | 1 |
+| Web managed switch | 2024-08-16 | 2024-08-16 | 0 | 1 | 1 |
+| 10G managed switch | 2024-07-19 | 2024-07-19 | 0 | 1 | 1 |
+| 8 port ethernet switch | 2024-06-26 | 2024-06-26 | 0 | 1 | 1 |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`adevries@microsens.de`〔企业邮箱；来源：用户表原值〕
@@ -245,12 +262,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

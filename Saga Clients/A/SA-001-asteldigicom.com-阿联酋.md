@@ -21,12 +21,13 @@ replies: 2
 followups: 36
 first_contact: 2024-05-07
 last_contact: 2025-11-27
+s_mail: 28 msgs (out 22 / in 6), 2024-06-29 -> 2025-12-01
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -176,6 +177,27 @@ updated: 2026-10-21
 | 2025-10-29 | 1029 | dac |  | S |  | S 09.08.xlsx#3 |
 | 2025-11-27 | 1127 | solar |  | S |  | S 09.08.xlsx#3 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：28 封（去 22 / 来 6）　|　**期间**：2024-06-29 → 2025-12-01　|　**最后去信**：2025-11-27
+- **最后一封来信**：2025-12-01 navsim@eim.ae「FW: 10G Enterprise SFP Switch」：Hi Alan, Hello Simon We have processed your payment. Screenshot attached. Pls process our PO and arrange the goods. Shipping address and Shipping marks have been advised on WeChat. Thanks and best regards Sanjay Singla General Manager ASTEL DIGICOM Electronics
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| FW: 10G Enterprise SFP Switch | 2025-12-01 | 2025-12-01 | 2 | 0 | 4 |
+| Booster PoE Switch | 2025-11-27 | 2025-11-27 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-29 | 2025-10-29 | 0 | 1 | 1 |
+| 8 Port Industrial PoE Switch | 2025-09-29 | 2025-09-29 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-08-27 | 2025-08-27 | 0 | 1 | 1 |
+| 24 Port Fiber Switch | 2025-07-28 | 2025-07-28 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2025-06-25 | 2025-06-25 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-05-28 | 2025-05-28 | 0 | 1 | 1 |
+| 90W PoE Managed Switch | 2025-04-28 | 2025-04-28 | 1 | 2 | 4 |
+| Marvell Software Function List | 2025-03-26 | 2025-03-26 | 0 | 1 | 2 |
+| 16 Port Ethernet Switch | 2025-02-14 | 2025-02-14 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2025-01-06 | 2025-01-06 | 1 | 2 | 4 |
+| …共 17 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`asteldig@asteldigicom.ae`〔企业邮箱；来源：用户表原值〕
@@ -289,12 +311,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-04**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-05**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 164）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 164）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

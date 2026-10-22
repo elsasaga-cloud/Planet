@@ -21,12 +21,13 @@ replies: 1
 followups: 2
 first_contact: 2024-11-09
 last_contact: 2025-05-29
+s_mail: 104 msgs (out 59 / in 45), 2024-11-09 -> 2026-10-17
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -152,6 +153,22 @@ updated: 2026-10-21
 | 2024-11-09 | 2024.11.9 | 群发了48口引流管理 | 非PoE, 全光，100G | Email |  | 其他优质欧洲客户 2.26.xlsx#12 |
 | 2025-05-29 | 2025.5.29 | alarm |  | S |  | 其他优质欧洲客户 2.26.xlsx#12 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：104 封（去 59 / 来 45）　|　**期间**：2024-11-09 → 2026-10-17　|　**最后去信**：2026-10-17
+- **对方邮箱**：f.kriewitz@nynex.de、info@fiberone.de
+- **最后一封来信**：2026-10-15 f.kriewitz@nynex.de「Re: Saga Marvell AC5 Series Fully Ready」：Hello Simon, payment has been made (see attachment). One additional note: We would pfeffere to have them with original SmartByte product names/IDs. Please make sure that the SmartByte and SNMP vendor OIDs are used. Best Regards Frederik Kriewitz NYNEX satellit
+- **邮件里报过的价**：2026-09-30 $300；2025-11-15 $265；2025-11-15 $300；2025-10-22 $25；2025-10-22 $35；2025-10-22 $30；2025-09-15 $265；2024-11-21 $265
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Saga Marvell AC5 Series Fully Ready | 2026-08-26 | 2026-10-17 | 4 | 6 | 12 |
+| Marvell Alleycat5 Solution | 2025-06-23 | 2026-06-22 | 16 | 25 | 50 |
+| Marvell Industrial Alert System | 2025-05-29 | 2025-05-29 | 0 | 1 | 1 |
+| Testing Feedback | 2025-02-06 | 2025-04-01 | 12 | 11 | 45 |
+| 48 Port PoE Managed Switch | 2024-11-09 | 2025-01-06 | 12 | 17 | 48 |
+| [NX#10565698] RE: 48 Port PoE Managed Swit [...] | 2024-11-09 | 2024-11-09 | 1 | 0 | 0 |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`f.kriewitz@nynex.de`〔企业邮箱；来源：用户表原值〕
@@ -262,12 +279,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-04**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-05**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 112）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 112）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -19,12 +19,13 @@ replies: 0
 followups: 15
 first_contact: 2024-06-03
 last_contact: 2025-10-14
+s_mail: 6 msgs (out 6 / in 0), 2024-06-28 -> 2024-12-09
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -144,6 +145,22 @@ updated: 2026-10-21
 | ? | 77 | 28bt |  | A |  | Singapore 3.3.xlsx#9 |
 | ? | 86 | 16电 |  | A |  | Singapore 3.3.xlsx#9 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：6 封（去 6 / 来 0）　|　**期间**：2024-06-28 → 2024-12-09　|　**最后去信**：2024-12-09
+- **对方邮箱**：sales@securevision.com.sg
+- 对方从未回信（全部为我方去信）
+- **邮件里报过的价**：2024-08-22 $300
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Mini Industrial PoE Switch | 2024-12-09 | 2024-12-09 | 0 | 1 | 1 |
+| 8 Port Ethernet Switch | 2024-11-05 | 2024-11-05 | 0 | 1 | 1 |
+| 8 Port Industrial PoE Switch | 2024-10-01 | 2024-10-01 | 0 | 1 | 1 |
+| 48 port switch | 2024-08-22 | 2024-08-22 | 0 | 1 | 1 |
+| 24V poe switch | 2024-07-25 | 2024-07-25 | 0 | 1 | 1 |
+| Industrial poe switch | 2024-06-28 | 2024-06-28 | 0 | 1 | 1 |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`sales@securevision.com.sg`〔企业邮箱；来源：用户表原值〕
@@ -254,12 +271,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

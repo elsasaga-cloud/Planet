@@ -21,12 +21,13 @@ replies: 1
 followups: 20
 first_contact: 2024-04-03
 last_contact: 2025-10-28
+s_mail: 15 msgs (out 12 / in 3), 2024-06-17 -> 2025-01-03
 p1: STI-288DGGPM
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -163,6 +164,24 @@ updated: 2026-10-21
 | 2025-10-08 | 108 | dac |  | A |  | US.xlsx#201 |
 | 2025-10-28 | 1028 | solar |  | A |  | US.xlsx#201 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：15 封（去 12 / 来 3）　|　**期间**：2024-06-17 → 2025-01-03　|　**最后去信**：2025-01-03
+- **对方邮箱**：info@fiberx.net、irivera@fiberx.net
+- **最后一封来信**：2025-01-03 irivera@fiberx.net「RE: 24 Port Fiber Switch」：Hi, Couple of questions to you. Do you have one of those small factors with at least 8 port SFP+ and 8 Port 1Giga Ethernet? DC Power – 48v? [cid:image001.png@01DB5D75.8D4BE640]
+- **邮件里报过的价**：2025-01-01 $240；2024-11-20 $300；2024-07-22 $65
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 24 Port Fiber Switch | 2025-01-01 | 2025-01-03 | 3 | 5 | 22 |
+| 8 Port Industrial PoE Switch | 2024-12-13 | 2024-12-13 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2024-11-20 | 2024-11-20 | 0 | 1 | 1 |
+| 8 Port Ethernet Switch | 2024-10-24 | 2024-10-24 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2024-09-16 | 2024-09-16 | 0 | 1 | 1 |
+| 2.5G switch | 2024-08-14 | 2024-08-14 | 0 | 1 | 1 |
+| 10G fiber media converter | 2024-07-22 | 2024-07-22 | 0 | 1 | 1 |
+| 90W poe switch | 2024-06-17 | 2024-06-17 | 0 | 1 | 1 |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`info@fiberx.net`〔企业邮箱；来源：用户表原值〕
@@ -273,12 +292,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-04**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-05**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 70）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 70）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

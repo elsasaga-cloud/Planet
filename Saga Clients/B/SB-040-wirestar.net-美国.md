@@ -21,12 +21,13 @@ replies: 1
 followups: 1
 first_contact: 2025-04-01
 last_contact: 2025-04-01
+s_mail: 11 msgs (out 9 / in 2), 2024-04-24 -> 2025-01-06
 p1: STC-424XGGPM-280W
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -109,6 +110,24 @@ updated: 2026-10-21
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-04-01 | 2025.4.1 | Marvell chip | XVLAN or MPLS? | A |  | DC Switches 08.10.xlsx#12 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：11 封（去 9 / 来 2）　|　**期间**：2024-04-24 → 2025-01-06　|　**最后去信**：2025-01-06
+- **对方邮箱**：kyle@wirestar.net
+- **最后一封来信**：2024-06-18 kyle@wirestar.net「Re: 48 port managed switch」：Is this Poe? Sincerely, Kyle Leissner President & Founder kyle@wirestar.net Direct: (979) 721-9100 Office: (979) 721-9000 WireStar Networks 1902 Pinon Dr STE E College Station, Texas 77845 www.wirestar.net
+- **邮件里报过的价**：2025-01-06 $240；2024-12-11 $300；2024-07-16 $65；2024-06-19 $310；2024-06-18 $220
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 24 Port Fiber Switch | 2025-01-06 | 2025-01-06 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2024-12-11 | 2024-12-11 | 0 | 1 | 1 |
+| 90W PoE Managed Switch | 2024-11-19 | 2024-11-19 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2024-10-23 | 2024-10-23 | 0 | 1 | 1 |
+| 2.5G Web Managed Switch | 2024-09-27 | 2024-09-27 | 0 | 1 | 1 |
+| PoE Managed Switch | 2024-08-14 | 2024-08-14 | 0 | 1 | 1 |
+| 48 port managed switch | 2024-06-18 | 2024-07-16 | 1 | 3 | 6 |
+| Out of Office Re: L3 managed switch | 2024-04-24 | 2024-04-24 | 1 | 0 | 0 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -215,12 +234,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 58）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 58）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

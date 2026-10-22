@@ -21,12 +21,13 @@ replies: 5
 followups: 12
 first_contact: 2023-12-15
 last_contact: 2025-12-07
+s_mail: 43 msgs (out 27 / in 16), 2023-12-15 -> 2026-02-03
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -153,6 +154,18 @@ updated: 2026-10-21
 | 2025-12-07 | 2025.12.7 | solar |  | S |  | 优质俄罗斯客户 2.9.xlsx#14 |
 | ? |  | 用的witek/hasivo的 基本不用跟了 |  |  |  | 优质俄罗斯客户 2.9.xlsx#14 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：43 封（去 27 / 来 16）　|　**期间**：2023-12-15 → 2026-02-03　|　**最后去信**：2026-02-03
+- **对方邮箱**：air@td-fe.ru、avn@td-fe.ru、ttv@td-fe.ru
+- **最后一封来信**：2025-01-03 air@td-fe.ru「RE: Din power supply」：Dear, Simon! Thank you, but your prices are too high. With the best wishes, Alexander Rudnev Executive director of TH Faraday Electronics Ltd. www.td-fe.com <http://www.td-fe.com/> Mob. +7 911 217-63-17 (Russia) Tel. +7 812 953-1-359 (Russia) Mob. +86 147 4350
+- **邮件里报过的价**：2024-05-21 $350；2024-05-21 $23；2024-05-20 $360；2024-05-20 $130；2024-04-18 $135；2024-02-27 $40（STI-244GP STI-488XGGPM）；2024-02-27 $310（STI-244GP STI-488XGGPM）
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Updated Ethernet Switches Links | 2026-02-03 | 2026-02-03 | 0 | 1 | 1 |
+| Din power supply | 2023-12-15 | 2025-12-07 | 16 | 27 | 345 |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`air@td-fe.ru`〔企业邮箱；来源：用户表原值〕
@@ -260,12 +273,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-04**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-05**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 81）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 81）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

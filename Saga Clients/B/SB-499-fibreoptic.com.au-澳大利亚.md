@@ -19,12 +19,13 @@ replies: 0
 followups: 22
 first_contact: 2024-05-02
 last_contact: 2025-10-20
+s_mail: 8 msgs (out 8 / in 0), 2024-06-24 -> 2025-01-10
 p1: STI-110GE
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -147,6 +148,24 @@ updated: 2026-10-21
 | ? | 77 | 16电 |  | A |  | AU.xlsx#6 |
 | ? | 99 | 28poe |  | A |  | AU.xlsx#6 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：8 封（去 8 / 来 0）　|　**期间**：2024-06-24 → 2025-01-10　|　**最后去信**：2025-01-10
+- **对方邮箱**：info@fibreoptic.com.au、sales@fibreoptic.com.au
+- 对方从未回信（全部为我方去信）
+- **邮件里报过的价**：2025-01-10 $240；2024-12-23 $300
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 24 Port Fiber Switch | 2025-01-10 | 2025-01-10 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2024-12-23 | 2024-12-23 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2024-11-26 | 2024-11-26 | 0 | 1 | 1 |
+| 10G Ethernet Web Managed Switch | 2024-10-22 | 2024-10-22 | 0 | 1 | 1 |
+| Industrial poe switch | 2024-09-09 | 2024-09-09 | 0 | 1 | 1 |
+| Passive PoE switch | 2024-08-13 | 2024-08-13 | 0 | 1 | 1 |
+| 2.5G switch | 2024-07-18 | 2024-07-18 | 0 | 1 | 1 |
+| Commercial poe managed switch | 2024-06-24 | 2024-06-24 | 0 | 1 | 1 |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`info@fibreoptic.com.au`〔企业邮箱；来源：用户表原值〕
@@ -257,12 +276,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 39）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 39）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

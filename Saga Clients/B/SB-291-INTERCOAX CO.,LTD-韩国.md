@@ -21,12 +21,13 @@ replies: 0
 followups: 44
 first_contact: 2024-05-01
 last_contact: 2025-10-29
+s_mail: 8 msgs (out 8 / in 0), 2024-06-26 -> 2025-01-17
 p1: STC-228GP
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 4
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -157,6 +158,24 @@ updated: 2026-10-21
 | ? | 59 | 16电 |  | A |  | KR.xlsx#23 |
 | ? | 72 | 4 24 |  | A |  | KR.xlsx#23 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：8 封（去 8 / 来 0）　|　**期间**：2024-06-26 → 2025-01-17　|　**最后去信**：2025-01-17
+- **对方邮箱**：byron@intercoax.com
+- 对方从未回信（全部为我方去信）
+- **邮件里报过的价**：2024-12-18 $300；2024-07-16 $65
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 16 Port PoE Managed Switch | 2025-01-17 | 2025-01-17 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2024-12-18 | 2024-12-18 | 0 | 1 | 1 |
+| 90W PoE Managed Switch | 2024-11-13 | 2024-11-13 | 0 | 1 | 1 |
+| 8 Port Industrial PoE Switch | 2024-10-15 | 2024-10-15 | 0 | 1 | 1 |
+| Passive poe switch | 2024-09-09 | 2024-09-09 | 0 | 1 | 1 |
+| Mini industrial switch | 2024-08-13 | 2024-08-13 | 0 | 1 | 1 |
+| 10G media converter | 2024-07-16 | 2024-07-16 | 0 | 1 | 1 |
+| Industrial poe switch | 2024-06-26 | 2024-06-26 | 0 | 1 | 1 |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`bkna@intercoax.com`〔企业邮箱；来源：用户表原值〕
@@ -274,12 +293,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 B，分数 44）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 B，分数 44）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

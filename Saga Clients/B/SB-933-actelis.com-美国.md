@@ -21,12 +21,13 @@ replies: 2
 followups: 15
 first_contact: 2025-02-08
 last_contact: 2025-12-30
+s_mail: 37 msgs (out 30 / in 7), 2024-06-21 -> 2026-09-08
 p1: none
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -140,6 +141,29 @@ updated: 2026-10-21
 | ? | 1212 | 48口 |  | Email |  | S 09.08.xlsx#8 |
 | ? | 1.4 | 24fiber | info | Email |  | S 09.08.xlsx#8 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：37 封（去 30 / 来 7）　|　**期间**：2024-06-21 → 2026-09-08　|　**最后去信**：2026-09-08
+- **对方邮箱**：info@actelis.com、michalw@actelis.com、pchurley@actelis.com
+- **最后一封来信**：2026-03-02 pchurley@actelis.com「RE: [External]Updated Ethernet Switches Links」：Thank you… Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732-477-1606 (O) Technical Support - 1-866-638-2544 Skype - casey_hurley
+- **邮件里报过的价**：2026-09-08 $170；2026-07-20 $1500；2025-10-29 $280；2025-04-29 $500（STI-42424XGGPM-4BT）；2025-01-03 $240；2024-12-12 $300；2024-11-25 $300；2024-08-19 $65
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 24 Port PoE Managed Switch | 2026-09-08 | 2026-09-08 | 0 | 1 | 1 |
+| 24 Port 10G SFP+ Switch | 2026-07-20 | 2026-07-20 | 0 | 1 | 1 |
+| Firmware 7.5 L2+ Feature Update | 2026-06-22 | 2026-06-22 | 0 | 1 | 2 |
+| Updated Ethernet Switches Links | 2026-03-02 | 2026-03-02 | 1 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-29 | 2026-01-29 | 0 | 1 | 1 |
+| Optional Marvell Chipset Solutions | 2025-12-29 | 2025-12-29 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-28 | 2025-11-28 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-29 | 2025-10-30 | 1 | 2 | 5 |
+| 90W PoE Managed Switch | 2025-08-27 | 2025-08-27 | 1 | 1 | 2 |
+| 16 Port Ethernet Switch | 2025-07-28 | 2025-07-28 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-06-25 | 2025-06-25 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-05-27 | 2025-05-27 | 0 | 1 | 1 |
+| …共 26 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`info@actelis.com`〔企业邮箱；来源：用户表原值〕
@@ -244,12 +268,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 30）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 30）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

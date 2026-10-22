@@ -22,12 +22,13 @@ replies: 1
 followups: 18
 first_contact: 2023-12-15
 last_contact: 2025-11-29
+s_mail: 17 msgs (out 17 / in 0), 2024-09-09 -> 2026-09-08
 p1: STI-050GE
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -127,6 +128,29 @@ updated: 2026-10-21
 | 2025-10-29 | 1029 | dac |  | S |  | S 09.08.xlsx#15 |
 | 2025-11-27 | 1127 | solar |  | S |  | S 09.08.xlsx#15 |
 | 2025-11-29 | 1129 | 24电 |  | S |  | S 09.08.xlsx#15 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：17 封（去 17 / 来 0）　|　**期间**：2024-09-09 → 2026-09-08　|　**最后去信**：2026-09-08
+- **对方邮箱**：info@suministros-industriales.es
+- 对方从未回信（全部为我方去信）
+- **邮件里报过的价**：2026-09-08 $170；2026-07-20 $1500；2025-10-29 $280；2025-08-27 $300
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 24 Port PoE Managed Switch | 2026-09-08 | 2026-09-08 | 0 | 1 | 1 |
+| 24 Port 10G SFP+ Switch | 2026-07-20 | 2026-07-20 | 0 | 1 | 1 |
+| Firmware 7.5 L2+ Feature Update | 2026-06-22 | 2026-06-22 | 0 | 1 | 2 |
+| Updated Ethernet Switches Links | 2026-03-02 | 2026-03-02 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-29 | 2026-01-29 | 0 | 1 | 1 |
+| 24 Port Ethernet Switch | 2025-12-29 | 2025-12-29 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-27 | 2025-11-27 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-29 | 2025-10-29 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2025-09-29 | 2025-09-29 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2025-08-27 | 2025-08-27 | 0 | 1 | 1 |
+| 8 Port Industrial PoE Switch | 2025-07-28 | 2025-07-28 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-06-25 | 2025-06-25 | 0 | 1 | 1 |
+| …共 17 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -230,12 +254,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 80）；人工/调研定级 → B
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 80）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

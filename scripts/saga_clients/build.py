@@ -502,6 +502,30 @@ def main():
                 all_emails_xlsx.add(e)
     parsed += docx_extra
 
+    # 补录客户：不在 Clients/ 表里、但有邮箱往来/PI 等一手证据的客户（data/saga_clients/补录客户.jsonl，每行一条，字段同 xlsx 行；
+    # 只增不改；来源写在 from/remark 里，详细证据放 research/<编号>.json）。编号通过 编号登记.json 预登记（如 d:域名 → SA-xxx）保持稳定。
+    extra_path = os.path.join(DATA, '补录客户.jsonl')
+    manual_rows = []
+    if os.path.exists(extra_path):
+        for i, line in enumerate(open(extra_path, encoding='utf-8')):
+            line = line.strip()
+            if not line or line.startswith('#'):
+                continue
+            d = json.loads(line)
+            nr = OrderedDict(file='补录客户.jsonl', sheet='(补录)', row=i + 1, no=str(d.get('no', '') or ''), company=d.get('company', ''), country=d.get('country', ''),
+                             category=d.get('category', ''), person=d.get('person', ''), position=d.get('position', ''), **{'from': d.get('from', '补录')},
+                             interest=d.get('interest', ''), contact=d.get('contact', ''), mobile=d.get('mobile', ''), website=d.get('website', ''),
+                             remark=d.get('remark', ''), ai_eval=d.get('ai_eval', ''), claude_eval=d.get('claude_eval', ''), extra=d.get('extra', ''))
+            pr = parse_row(nr)
+            nr['_p'] = pr
+            nr['_id'] = len(parsed) + len(manual_rows)
+            nr['_tags'] = ['补录'] + list(d.get('tags') or [])
+            nr['_country'] = norm_country(d.get('country', ''), '')
+            nr['_no'] = nr['no']
+            nr['_fu'] = []
+            manual_rows.append(nr)
+    parsed += manual_rows
+
     # 归并键
     dsu = DSU()
     key_owner = {}
@@ -698,7 +722,7 @@ def main():
     write_master(entities)
     write_merge_log(entities, merge_edges)
     stats = {
-        'rows_xlsx': len(rows), 'rows_docx_extra': len(docx_extra), 'docx_emails_total': docx_total, 'followups': len(fus),
+        'rows_xlsx': len(rows), 'rows_docx_extra': len(docx_extra), 'rows_manual_extra': len(manual_rows), 'docx_emails_total': docx_total, 'followups': len(fus),
         'followups_attached': sum(len(e['followups']) for e in entities),
         'entities': len(entities), 'grades': dict(Counter(e['grade'] for e in entities)),
         'grades_auto': dict(Counter(e['grade_auto'] for e in entities)),

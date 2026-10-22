@@ -19,12 +19,13 @@ replies: 0
 followups: 8
 first_contact: 2025-03-12
 last_contact: 2025-10-14
+s_mail: 9 msgs (out 6 / in 3), 2024-05-02 -> 2024-07-19
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -139,6 +140,18 @@ updated: 2026-10-21
 | 2025-09-18 | 918 | 22迷你 |  | A |  | DE 1.22.xlsx#20 |
 | 2025-10-14 | 1014 | dac |  | A |  | DE 1.22.xlsx#20 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：9 封（去 6 / 来 3）　|　**期间**：2024-05-02 → 2024-07-19　|　**最后去信**：2024-07-19
+- **对方邮箱**：info@barox.de、luis.coello@barox.de
+- **最后一封来信**：2024-05-03 luis.coello@barox.de「Re: Industrial Ethernet Switch」：None whatsoever! Kind regards Luis Coello Sales director Barox (META) +34 673836020 Sent from my mobile device
+- **邮件里报过的价**：2024-05-03 $25（STI-050GE）
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 2.5G switch | 2024-07-19 | 2024-07-19 | 1 | 1 | 3 |
+| Industrial Ethernet Switch | 2024-05-02 | 2024-06-26 | 4 | 5 | 8 |
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`mail@barox.de`〔企业邮箱；来源：用户表原值〕
@@ -249,12 +262,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

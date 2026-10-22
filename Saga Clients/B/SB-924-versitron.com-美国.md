@@ -21,12 +21,13 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
+s_mail: 50 msgs (out 29 / in 21), 2023-11-09 -> 2026-03-11
 p1: STI-110GE
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-21
+updated: 2026-10-22
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -108,6 +109,28 @@ updated: 2026-10-21
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：50 封（去 29 / 来 21）　|　**期间**：2023-11-09 → 2026-03-11　|　**最后去信**：2026-03-11
+- **对方邮箱**：gmassott@versitron.com
+- **最后一封来信**：2026-03-11 gmassott@versitron.com「Automatic reply: 10G Enterprise SFP Switch」：Hello: I hope all is well. I will be out of the office until 03/12/26, and will reply to any messages when I return. Should you require immediate assistance, please call our office at 302-894-0699, or contact R.W. Tull at rwtull@versitron.com.
+- **邮件里报过的价**：2025-10-30 $280；2025-08-28 $500；2025-01-03 $240；2024-11-19 $300；2024-06-18 $75；2024-05-16 $375；2024-05-16 $550
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 10G Enterprise SFP Switch | 2025-10-30 | 2026-03-11 | 2 | 3 | 24 |
+| Automatic reply: 10G Enterprise SFP Switch | 2026-03-11 | 2026-03-11 | 1 | 0 | 0 |
+| Booster PoE Switch | 2025-11-28 | 2025-11-28 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2024-11-19 | 2025-10-15 | 6 | 5 | 65 |
+| L3 Managed Switch | 2025-08-27 | 2025-08-28 | 2 | 2 | 18 |
+| Marvell Industrial Alert System | 2025-05-27 | 2025-05-27 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-03-28 | 2025-03-28 | 0 | 1 | 1 |
+| 24 Port Fiber Switch | 2025-01-03 | 2025-01-03 | 1 | 1 | 5 |
+| 16 Port Ethernet Switch | 2024-12-11 | 2024-12-11 | 0 | 1 | 1 |
+| 10G Ethernet Web Managed Switch | 2024-10-23 | 2024-10-23 | 0 | 1 | 1 |
+| Power Converter | 2024-09-16 | 2024-09-16 | 0 | 1 | 1 |
+| POE switch | 2023-11-09 | 2024-08-14 | 9 | 12 | 335 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -215,12 +238,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 31）
+- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 31）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
