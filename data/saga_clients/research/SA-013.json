@@ -125,6 +125,13 @@
    "quote": "payment has been made (see attachment). One additional note: We would pfeffere to have them with original SmartByte product names/IDs. Please make sure that the SmartByte and SNMP vendor OIDs are used.",
    "url": "（S 邮箱 key 60ac95de9259a792 / 81f8fe275f461480 / 95b7153bc20857f6，2026-10-15～17）",
    "date": "2026-10-22"
+  },
+  {
+   "kind": "GitHub 公开仓库",
+   "claim": "Frederik Kriewitz 本人是 LibreNMS 贡献者：PR #18681「Add support for SmartByte OS」2026-01-11 合并，sysObjectID .1.3.6.1.4.1.56166，测试夹具用 Saga 的 STC-4168XGGCM V1.1（序列号 202509160001 = 2025-09 那单）→ NYNEX 用 LibreNMS 纳管 Saga 交换机，并替 Saga/SmartByte 做了上游适配；其 2026-10-15「必须用 SmartByte OID」的技术原因即在此",
+   "quote": "@copyright 2025 Frederik Kriewitz / @author Frederik Kriewitz <frederik@kriewitz.eu> … sysDescr: Product STC-4168XGGCM V1.1 Version hotfix/7.4.7 (r1540 af525c9)",
+   "url": "https://github.com/librenms/librenms/pull/18681 ；LibreNMS/OS/Smartbyte.php；tests/data/smartbyte_stc-4168xggcm.json",
+   "date": "2026-10-22"
   }
  ],
  "notes": "A 维持：运营商持续采购楼宇接入交换机（48 口/L2+/2.5G 上联）与贴牌 MC/SFP；P1 改 STC-448XGGPM 或 STC-424XGGPM-280W（10G 上联）。\n【2026-10-22 复盘补】NYNEX 2025-03 的 SNMP/MIB 合规追问是「工程型缓冲层」的真实考题：欧洲客户会用 snmpwalk 核 OID 归属。Saga 应自己申请一个 IANA PEN（免费、在线表单、约 1–2 周）并要求 SmartByte 在 Saga 版固件里只保留 Saga PEN 下的私有 MIB；给 NYNEX/德国客户的 OEM 说明要能回答「OEM 数据是固件内写死还是独立配置分区」。对应 Q-35。 ｜ 针对性加厚 2026-10-22（S 邮箱 2026-09/10 第 6 单，T29-U13 ②）",
@@ -168,7 +175,8 @@
  "signals": [
   "2025-08-31：Kriewitz/Frank 署名提交 TKG 修法意见书——Kriewitz 为公司决策层之一（https://bmds.bund.de/…/NYNEX_Stellungnahme_Eckpunktepapier_fiberONE_BMDS_31-August-2025.pdf）",
   "2026-10：公司 26 周年，上线 nynex.ai 自建 AI 基础设施，品牌族 nynex.de/fiberONE/nynex.ai 完整（https://nynex.de/geschichte.html）",
-  "用户表：已成单（Frederik Kriewitz），要自有 logo"
+  "用户表：已成单（Frederik Kriewitz），要自有 logo",
+  "2026-01-11：Frederik Kriewitz 向 LibreNMS 提交并合并 SmartByte OS 支持（PR #18681），测试机为 Saga STC-4168XGGCM —— 客户在为供应商做上游生态适配，是深度绑定信号；跟进时可致谢并提供 MIB 更新 / 新机型 snmprec"
  ],
  "risks": [
   "运营商自建网 → 对设备稳定性与固件（VLAN/QinQ/IGMP）要求高，需提供管理型固件说明",

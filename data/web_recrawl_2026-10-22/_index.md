@@ -28,3 +28,5 @@
 - `data/site_recrawl/20261022/{smartbyte,hrui,hohunet}/diff.md`（三家官网 vs 10-20/10-21 基线）
 - `data/hrui_cn_site_raw/`、`data/hohunet_cn_site_raw/`、`data/smartbyte_cn_site_raw/`（v3.2 新增；smartbyte.com.cn 可能 blocked/dead）
 | hrui | GitHub（brennoo/terraform-provider-hrui、logicog/RTLPlayground、openwrt/openwrt DTS、up-n-atom/SWTG118AS） | `hrui/github_opensource_ecosystem.md` | HRUI ZX-/SWTG 硬件族 = Horaco/Sodola/XikeStor/MokerLink/AmpCom/keepLINK/Lianguo/TRENDnet 同板；OpenWrt 主线支持 RTL9303/9313 机型 | 13:31Z |
+| smartbyte | GitHub（librenms/librenms PR #18681、netdata trap profile、TencentBlueKing/bk-lite、IEEE MA-M 列表） | `smartbyte/github_nms_support_and_oui.md` | LibreNMS 原生支持 SmartByte OS（Frederik Kriewitz/NYNEX 2026-01-11，测试机 STC-4168XGGCM）；netdata/蓝鲸插件；MA-M FC:CD:2F:D + 观澜 D 栋 6 楼地址 | 13:34Z |
+| hohunet | GitHub OUI 列表（pg-oui、netpulse、systemd hwdb） | `smartbyte/github_nms_support_and_oui.md` §4 | Hohunet IEEE OUI D8:5B:22 | 13:34Z |
