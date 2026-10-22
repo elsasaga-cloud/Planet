@@ -1,0 +1,22 @@
+{
+"id":"1ejx3HuwzXkYbVRFf0DjnGdj4MporZc3c",
+"name":"IMG_20220518_160000 拷贝.png",
+"path":"SmartByte/暂时不用的/源图 源DS/非管理 源图/3系-LT-IS3006F-2FX4TX  LT-IS3006FP-2FX4TX/IMG_20220518_160000 拷贝.png",
+"type":"图片",
+"bytes":4240299,
+"sha256":"c235d4ff2e161da8cfcb9ae4275e53886bcb9786886fe9a3a3192808afc1ec8b",
+"extracted_at":"2026-10-22T02:19:14Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":4012,
+"height":3139,
+"mode":"RGBA",
+"thumb_bytes":5942
+},
+"ocr":{
+"text":"【人\n| 員\nag",
+"conf":54.6
+},
+"text":"【人\n| 員\nag"
+}

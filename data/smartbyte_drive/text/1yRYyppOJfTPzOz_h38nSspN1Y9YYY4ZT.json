@@ -1,0 +1,22 @@
+{
+"id":"1yRYyppOJfTPzOz_h38nSspN1Y9YYY4ZT",
+"name":"IMG_20220518_153538 拷贝.png",
+"path":"SmartByte/暂时不用的/管理型/6系-4光24电管理型-Din-rail/IMG_20220518_153538 拷贝.png",
+"type":"图片",
+"bytes":7441618,
+"sha256":"a4845ce2ff141344e0e79fadd6a29e2e4e76a3844da788a40ac15c3999671481",
+"extracted_at":"2026-10-22T02:20:22Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":4207,
+"height":2378,
+"mode":"RGBA",
+"thumb_bytes":8869
+},
+"ocr":{
+"text":"RST\nCon\nsole P2 USB Ring\n15\nLk\n115200.N.8.1\n门\n}\nIndustrial Managed Switch",
+"conf":86.5
+},
+"text":"RST\nCon\nsole P2 USB Ring\n15\nLk\n115200.N.8.1\n门\n}\nIndustrial Managed Switch"
+}

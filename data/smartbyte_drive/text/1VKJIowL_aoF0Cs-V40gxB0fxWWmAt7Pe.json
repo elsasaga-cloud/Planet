@@ -1,0 +1,22 @@
+{
+"id":"1VKJIowL_aoF0Cs-V40gxB0fxWWmAt7Pe",
+"name":"IMG_20220518_153510 拷贝.png",
+"path":"SmartByte/暂时不用的/管理型/6系-4光24电管理型-Din-rail/IMG_20220518_153510 拷贝.png",
+"type":"图片",
+"bytes":6138753,
+"sha256":"90045afa7c73ab1f74d3cf9f7f2ae6b6384baeaa6234ec6557abb216f4e6e84d",
+"extracted_at":"2026-10-22T02:20:21Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":2921,
+"height":2921,
+"mode":"RGBA",
+"thumb_bytes":13710
+},
+"ocr":{
+"text":"Pi SYS ALM\n由 RST\nConsole ae\n還\n28 ie |\n115200.N.8.1\nIndustr\nal Managed Swite h",
+"conf":69.9
+},
+"text":"Pi SYS ALM\n由 RST\nConsole ae\n還\n28 ie |\n115200.N.8.1\nIndustr\nal Managed Swite h"
+}

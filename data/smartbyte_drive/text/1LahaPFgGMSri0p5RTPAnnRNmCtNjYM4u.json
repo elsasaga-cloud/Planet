@@ -1,0 +1,22 @@
+{
+"id":"1LahaPFgGMSri0p5RTPAnnRNmCtNjYM4u",
+"name":"IMG_20220518_153518 拷贝.png",
+"path":"SmartByte/暂时不用的/管理型/6系-4光24电管理型-Din-rail/IMG_20220518_153518 拷贝.png",
+"type":"图片",
+"bytes":6799275,
+"sha256":"f2112f6e7f0343b7bf002311e614285cd14cac6b8814e7dcce6e4427dffbf6fd",
+"extracted_at":"2026-10-22T02:20:21Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":3034,
+"height":3053,
+"mode":"RGBA",
+"thumb_bytes":13009
+},
+"ocr":{
+"text":"Pi SYS ALM\np2 USB Ring\nConsole\na\n415200.N.8.1",
+"conf":81.0
+},
+"text":"Pi SYS ALM\np2 USB Ring\nConsole\na\n415200.N.8.1"
+}

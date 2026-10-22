@@ -1,0 +1,22 @@
+{
+"id":"13StI9PKHKJf0yr3s8Jg55yb4UBN8n-RF",
+"name":"IMG_20220518_160917 拷贝.png",
+"path":"SmartByte/暂时不用的/源图 源DS/非管理 源图/3系-LT-IS3008F-8TX  LT-IS3008FP-8TX   LT-IS3008G-8GT   LT-IS3008GP-8GT/IMG_20220518_160917 拷贝.png",
+"type":"图片",
+"bytes":4154216,
+"sha256":"b8b78e3e23aba97f33c0dcc07c53bb43bebb349f6af272350ff8cc73517a9070",
+"extracted_at":"2026-10-22T02:19:36Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":3979,
+"height":3105,
+"mode":"RGBA",
+"thumb_bytes":6873
+},
+"ocr":{
+"text":"uplink",
+"conf":91.7
+},
+"text":"uplink"
+}

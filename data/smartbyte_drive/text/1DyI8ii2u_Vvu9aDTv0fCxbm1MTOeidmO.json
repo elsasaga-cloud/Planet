@@ -1,0 +1,22 @@
+{
+"id":"1DyI8ii2u_Vvu9aDTv0fCxbm1MTOeidmO",
+"name":"IMG_20220518_150747 拷贝.png",
+"path":"SmartByte/暂时不用的/源图 源DS/非管理 源图/6系-LT-IS6018G-2GX16GT   LT-IS6018GP-2GX16GT/IMG_20220518_150747 拷贝.png",
+"type":"图片",
+"bytes":3648617,
+"sha256":"384d998a44d4bf47d98e747e366d31dce7dda625d6573fab69251cf4af366a93",
+"extracted_at":"2026-10-22T02:19:58Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":3060,
+"height":1989,
+"mode":"RGBA",
+"thumb_bytes":7254
+},
+"ocr":{
+"text":"Relay PWR2 PWR1\n(@) . . .\nea ee\nNon-PoE:DC 12-58V; PoE:DC 44-57V",
+"conf":65.2
+},
+"text":"Relay PWR2 PWR1\n(@) . . .\nea ee\nNon-PoE:DC 12-58V; PoE:DC 44-57V"
+}

@@ -1,0 +1,22 @@
+{
+"id":"1Ta5oFT93CQs13h2t1RHrcvjc95k_pPsZ",
+"name":"目前主要用到的芯片_2025.4.8.png",
+"path":"SmartByte/暂时不用的/目前主要用到的芯片_2025.4.8.png",
+"type":"图片",
+"bytes":18441,
+"sha256":"2039e00139d9005d9a1ed42c38391515a9269c38826249425766a1bb48a342af",
+"extracted_at":"2026-10-22T02:19:58Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":685,
+"height":130,
+"mode":"RGBA",
+"thumb_bytes":3546
+},
+"ocr":{
+"text":"Based on Marvell main chipsets:\nSalsa2 series, Alleycat 3 series, Alleycat 3 BXH series, Alleycat 5 series,\nAlleycat 5X series, Aldrin 2, Falcon series",
+"conf":94.2
+},
+"text":"Based on Marvell main chipsets:\nSalsa2 series, Alleycat 3 series, Alleycat 3 BXH series, Alleycat 5 series,\nAlleycat 5X series, Aldrin 2, Falcon series"
+}

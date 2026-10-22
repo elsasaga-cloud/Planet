@@ -1,0 +1,22 @@
+{
+"id":"1brkkGKsnnbEZ6Hp3KaoVSpZ0nfvAWRKX",
+"name":"IMG_20220518_152515 拷贝.png",
+"path":"SmartByte/暂时不用的/管理型/6系-4光8电-带数据端子/IMG_20220518_152515 拷贝.png",
+"type":"图片",
+"bytes":1663854,
+"sha256":"cd068ead241cdcd55a29cd1d77f5a8cdab55ca701b222130bc9d4598e868a480",
+"extracted_at":"2026-10-22T02:20:24Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":2258,
+"height":918,
+"mode":"RGBA",
+"thumb_bytes":5762
+},
+"ocr":{
+"text":"NTvgsn",
+"conf":58.1
+},
+"text":"NTvgsn"
+}

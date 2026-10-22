@@ -1,0 +1,22 @@
+{
+"id":"110b9TIhw19b-LNWFZuLPm--UKjHXIr0c",
+"name":"IMG_20220518_161621 拷贝.png",
+"path":"SmartByte/暂时不用的/源图 源DS/非管理 源图/3系-LT-IS3005F-1FX4TX   LT-IS3005G-1GX4GT/IMG_20220518_161621 拷贝.png",
+"type":"图片",
+"bytes":5316060,
+"sha256":"74ee4b787fbe8aee435651827e5e53ed967203aa255041cb5ed60bd287d39288",
+"extracted_at":"2026-10-22T02:19:06Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":4383,
+"height":2599,
+"mode":"RGBA",
+"thumb_bytes":5572
+},
+"ocr":{
+"text":"PWR1 PWR2\nNon-PoE:DC 12-58V: PoE:DC 44-57V",
+"conf":85.9
+},
+"text":"PWR1 PWR2\nNon-PoE:DC 12-58V: PoE:DC 44-57V"
+}

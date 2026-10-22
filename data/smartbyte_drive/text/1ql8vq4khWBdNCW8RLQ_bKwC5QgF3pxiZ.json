@@ -1,0 +1,22 @@
+{
+"id":"1ql8vq4khWBdNCW8RLQ_bKwC5QgF3pxiZ",
+"name":"1U  48+4 背面.png",
+"path":"SmartByte/暂时不用的/管理型/1U-48+4/1U  48+4 背面.png",
+"type":"图片",
+"bytes":1117236,
+"sha256":"0c9f0eee88dfb19b6a40d812a765cb58c532fda2c18f6b8a7b83e7eda2032ab5",
+"extracted_at":"2026-10-22T02:20:03Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":3060,
+"height":1186,
+"mode":"RGBA",
+"thumb_bytes":3529
+},
+"ocr":{
+"text":"一 bc3e-7sv 一\nPWR1 PWR2",
+"conf":78.5
+},
+"text":"一 bc3e-7sv 一\nPWR1 PWR2"
+}

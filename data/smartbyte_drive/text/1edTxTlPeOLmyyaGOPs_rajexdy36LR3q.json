@@ -1,0 +1,22 @@
+{
+"id":"1edTxTlPeOLmyyaGOPs_rajexdy36LR3q",
+"name":"IMG_20220518_161422 拷贝.png",
+"path":"SmartByte/暂时不用的/源图 源DS/非管理 源图/3系-LT-IS3005F-5TX-E   LT-IS3005FP-5TX-E   LT-IS3005G-5GT  LT-IS3005GP-5GT/IMG_20220518_161422 拷贝.png",
+"type":"图片",
+"bytes":4508292,
+"sha256":"29c333eac117c8e7b36ff3ab6834ab5743b53a8a44bbcc81c957b4ef556fccf4",
+"extracted_at":"2026-10-22T02:19:14Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":4262,
+"height":2663,
+"mode":"RGBA",
+"thumb_bytes":5418
+},
+"ocr":{
+"text":"J\na\nx\nSs",
+"conf":52.0
+},
+"text":"J\na\nx\nSs"
+}
