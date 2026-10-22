@@ -1,0 +1,298 @@
+{
+"id":"1TFvdvmLT1W7PlzxT5lkZDooQBR0_oDLi",
+"name":"DS Q3 优化项.docx",
+"path":"SmartByte/DS Q3 优化项.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":37867,
+"sha256":"225aea46597a05c61cd1ee944c375e04b6f2fcda4937e3b9b8c50eb7db480df2",
+"extracted_at":"2026-10-22T01:55:13Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":2445,
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2026-02-02T08:55:00+00:00",
+"modified":"2026-03-29T14:14:19+00:00",
+"paragraphs":45,
+"tables":1,
+"embedded_images":0
+},
+"warnings":[],
+"text":"保留2%的返修品选择，可以扣款也可以发出\n增加送样选择，让客户测一下新品啥的\n直接采用1+N模式\n把型号也拿掉\n只有文件名中有Model\n文件内容中只有页眉页脚\n基本客户1分钟内就可以改为自己的格式了\n相当于只保留极为有限但非常鲜明的Saga信息，其他的都抹去\n非必要只出中性，把东西都拿掉\n强化信息：Slogan，business mode等\n尽量内敛一些，只表现出一些必要的，重要的，鲜明特点的\n非常鲜明的Saga信息\n基本就是那几个点\nOEM Factory\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together\n3C, business mode等\n建议： 采用 “1+N” 模式。\n“1” 是核心规格页（前 4-5 页）： 包含型号定义 、产品简介 、核心卖点 、技术参数表 、机械尺寸图 和 LED 指示灯说明 。\n“N” 是通用商务附件（Page 12 之后的内容）： 将 Ordering Information 之后的商务条款、FAQ、订购流程等设为“通用附录” 。\n操作： 在首页提供两个清晰的跳转链接：“快速技术规格”和“完整商务指南”。\nDatasheet\nSaga Telecom Business Guide\n2. 内容表达优化：提升专业感与精确度\n2.1 清理内部指令： 首页中关于“如何修改、删除书签、忽略某部分”的说明（如 Source 86-88）属于内部操作建议 ，不应出现在发给客户的正式 PDF 中。建议将其移至内部的“规格书制作规范”文档中。\n2.2 术语标准化： 例如 “SFP didn't auto-detect” 的案例分享 ，可以转化为技术参数表中的一个备注：“Note: 1G/10G SFP+ ports require manual configuration in Web UI for specific rate synchronization.” 这样更显得专业。\n2.1的优化项在Q2可以拿掉\n因为会出一个简化版本的，或者说1+N给拆分开\n客户想看1就看1，想看N就看N\n也方便客户更改，客户读着也不复杂，更好处理一些\n3. 视觉设计建议：从“文档”向“活页”进化\n3.1 指示灯表格化： 目前 LED 指示灯说明（Page 3-4）混合了文字描述和列表 。建议统一做一个彩色表格，左边是灯的图标/颜色，右边是状态含义，一眼就能看明白\n这个台湾的一些厂家在做，可以借鉴一下\nLED Indicator\tStatus\tDescription\nPWR\tGreen On\tPower is normal\n\tOff\tPower is disconnected or fail\nSFP+ (1-8)\tBlue On\t10G Link established\n\tBlue Blinking\tData transmitting at 10G\n\tAmber On\t1G Link established\nSYS\tBlinking\tSystem is booting or upgrading\n3.2 增加应用拓扑图（Topology）： 既然它是一个 Layer 2+ 交换机，可以画一个简单的图，展示它如何连接摄像头、服务器、AP。视觉化的东西比文字更有说服力。\n3.3 增加实物细节图： 现在的 Product Picture 比较单一。建议增加一张接口面板的特写和一张内部 PCB（可选）或侧面散热孔的图，体现“Built to Last”的品质感\nVisible Quality\n内部图 (Internal Layout)：在照片上给 Marvell 芯片、散热片、防雷保护电路加个标注。\n意义：这不仅是给客户看，也是在“筛选客户”。\n懂行的看到 Marvell 芯片和扎实的 PCB 布局，就不会再跟你纠结那几美金的差价。\n敢展示 PCB 的厂家通常有底气。你可以拍一张高质量的照片，标注出 “Original Marvell Chipset” 和 “High-quality Capacitors”。这能瞬间拉开你和那些低端白牌厂家的差距。\n一些语言的表达\n1 关于“No Free Samples”： 你在 FAQ 里写得非常直接。\n微调建议： \"To ensure serious partnership, we provide samples at cost. However, 100% of the sample fee will be credited back to your first bulk order.\"\n理由： 意思没变，但给人的感觉从“不给白嫖”变成了“投资返还”，更符合商业心理。\n“To maintain a focused and efficient partnership, Saga Telecom follows a 'Sample-to-Credit' policy. Samples are provided at cost, and 100% of the sample value will be deducted from your first formal bulk order (reaching USD X,XXX). This ensures we grow together with truly committed partners.”\n[页眉页脚]\nSaga Telecom\nwww.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"保留2%的返修品选择，可以扣款也可以发出"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"增加送样选择，让客户测一下新品啥的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"直接采用1+N模式"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"把型号也拿掉"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"只有文件名中有Model"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"文件内容中只有页眉页脚"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"基本客户1分钟内就可以改为自己的格式了"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"相当于只保留极为有限但非常鲜明的Saga信息，其他的都抹去"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"非必要只出中性，把东西都拿掉"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"强化信息：Slogan，business mode等"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"尽量内敛一些，只表现出一些必要的，重要的，鲜明特点的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"非常鲜明的Saga信息"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"基本就是那几个点"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OEM Factory"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Tailored Managed Networking Solutions Provider"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Built to Last, Continuous Supply, Evolving Together"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3C, business mode等"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"建议： 采用 “1+N” 模式。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"“1” 是核心规格页（前 4-5 页）： 包含型号定义 、产品简介 、核心卖点 、技术参数表 、机械尺寸图 和 LED 指示灯说明 。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"“N” 是通用商务附件（Page 12 之后的内容）： 将 Ordering Information 之后的商务条款、FAQ、订购流程等设为“通用附录” 。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"操作： 在首页提供两个清晰的跳转链接：“快速技术规格”和“完整商务指南”。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Datasheet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom Business Guide"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2. 内容表达优化：提升专业感与精确度"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2.1 清理内部指令： 首页中关于“如何修改、删除书签、忽略某部分”的说明（如 Source 86-88）属于内部操作建议 ，不应出现在发给客户的正式 PDF 中。建议将其移至内部的“规格书制作规范”文档中。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2.2 术语标准化： 例如 “SFP didn't auto-detect” 的案例分享 ，可以转化为技术参数表中的一个备注：“Note: 1G/10G SFP+ ports require manual configuration in Web UI for specific rate synchronization.” 这样更显得专业。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2.1的优化项在Q2可以拿掉"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"因为会出一个简化版本的，或者说1+N给拆分开"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"客户想看1就看1，想看N就看N"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"也方便客户更改，客户读着也不复杂，更好处理一些"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3. 视觉设计建议：从“文档”向“活页”进化"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3.1 指示灯表格化： 目前 LED 指示灯说明（Page 3-4）混合了文字描述和列表 。建议统一做一个彩色表格，左边是灯的图标/颜色，右边是状态含义，一眼就能看明白"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这个台湾的一些厂家在做，可以借鉴一下"
+},
+{
+"t":"table",
+"rows":[
+[
+"LED Indicator",
+"Status",
+"Description"
+],
+[
+"PWR",
+"Green On",
+"Power is normal"
+],
+[
+"",
+"Off",
+"Power is disconnected or fail"
+],
+[
+"SFP+ (1-8)",
+"Blue On",
+"10G Link established"
+],
+[
+"",
+"Blue Blinking",
+"Data transmitting at 10G"
+],
+[
+"",
+"Amber On",
+"1G Link established"
+],
+[
+"SYS",
+"Blinking",
+"System is booting or upgrading"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3.2 增加应用拓扑图（Topology）： 既然它是一个 Layer 2+ 交换机，可以画一个简单的图，展示它如何连接摄像头、服务器、AP。视觉化的东西比文字更有说服力。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3.3 增加实物细节图： 现在的 Product Picture 比较单一。建议增加一张接口面板的特写和一张内部 PCB（可选）或侧面散热孔的图，体现“Built to Last”的品质感"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Visible Quality"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"内部图 (Internal Layout)：在照片上给 Marvell 芯片、散热片、防雷保护电路加个标注。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"意义：这不仅是给客户看，也是在“筛选客户”。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"懂行的看到 Marvell 芯片和扎实的 PCB 布局，就不会再跟你纠结那几美金的差价。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"敢展示 PCB 的厂家通常有底气。你可以拍一张高质量的照片，标注出 “Original Marvell Chipset” 和 “High-quality Capacitors”。这能瞬间拉开你和那些低端白牌厂家的差距。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一些语言的表达"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1 关于“No Free Samples”： 你在 FAQ 里写得非常直接。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"微调建议： \"To ensure serious partnership, we provide samples at cost. However, 100% of the sample fee will be credited back to your first bulk order.\""
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"理由： 意思没变，但给人的感觉从“不给白嫖”变成了“投资返还”，更符合商业心理。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"“To maintain a focused and efficient partnership, Saga Telecom follows a 'Sample-to-Credit' policy. Samples are provided at cost, and 100% of the sample value will be deducted from your first formal bulk order (reaching USD X,XXX). This ensures we grow together with truly committed partners.”"
+}
+],
+"header_footer":[
+"Saga Telecom",
+"www.sagatelecom.com.cn",
+"Tailored Managed Networking Solutions Provider",
+"Built to Last, Continuous Supply, Evolving Together"
+]
+}

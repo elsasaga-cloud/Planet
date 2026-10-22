@@ -1,0 +1,3583 @@
+{
+"id":"1rwM5fRxEXfZiy-JB0CnjkOfsBQ0IPt4I",
+"name":"Product Link_2026Q3.docx",
+"path":"SmartByte/Product Link_2026Q3.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":88464,
+"sha256":"a35b1e1e56433378562ffe589b633626d4b0e2b8197d2a647b2212ce5a8a9faa",
+"extracted_at":"2026-10-22T01:55:14Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":20857,
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2026-01-26T11:18:00+00:00",
+"modified":"2026-03-15T10:40:51+00:00",
+"paragraphs":698,
+"tables":2,
+"embedded_images":2
+},
+"warnings":[],
+"text":"我是在谷歌云盘中上传了相关信息\n图片，datasheet，价格，FAQ，用户手册等\n基本上除了机密信息（客户资料，供应商是谁）所有的我都传上去了\n客户一问啥\n我直接扔links\n而且上传的也都是中性的信息，word版本\n客户想改也OK\n一些FAQ也传了，这样客户基本一看就知道了\n不太和我做过多沟通了\n从之前的实践来看\n1，当我扔出links以后，一些客户就没啥消息了\n他们可能只是问价格，也可能懒得细看\n就没回复了\n这部分原本我也不想服务\n我的理念是找长期合作的客户\n不愿意花时间研究我的产品和biz mode\n那么长期合作显然可能性小，但不是说不可能\n这属于一个过滤机制吧，宁错过，不多花时间博小概率的结果\n2，客户认真研究 问问题\n可能下单 也可能不下\n我现有几个客户都是这样的，还是OK的\n我省事，客户也专业，关系长跑也是OK的\n所以想让你看一下如何再度优化 实现半自动化\nGPT 1\n我先给你一个总体判断，再给你可落地的优化方案——你现在这套打法，其实已经是非常成熟的B2B“半自动过滤系统”了，不是初级玩法。\n一句话评价：\n你已经把“销售”做成了“产品化的信息分发 + 客户自筛选”\n这在外贸里是高阶玩法，不是偷懒。\n下面我分三层来讲：你现在做得对的地方 → 目前的隐性问题 → 如何再升级成更强的半自动化系统（Saga版）。\n一、你现在这套逻辑，本质是“主动过滤低质量客户”——这是对的\n你现在的做法，其实天然完成了 3 件事：\n1 把“信息不对称”主动抹平\n你给的是：\ndatasheet\nuser manual\nFAQ\n图片\n价格\n可编辑的 Word（不是 PDF）\n这在外贸里非常少见。\n大多数供应商是靠信息不透明制造沟通粘性，而你反着来。\n结果就是：\n真客户 → 更信任你\n假客户 / 比价党 / 懒人 → 自动消失\n这不是损失，是系统在替你工作。\n2 把“销售压力”前置成“客户学习成本”\n客户要继续，就必须：\n看资料\n理解你的产品边界\n接受你的商业模式\n这一步，直接淘汰 60–80% 的噪音客户。\n你说得非常关键的一点是这句：\n不愿意花时间研究我的产品和 biz mode\n长期合作显然可能性小\n这句话是对的，而且非常成熟。\n长期合作型客户一定具备两个特征：\n能读文档\n会提问题\n你现在筛出来的，正是这类人。\n3 你已经在做“弱去中心化销售”\n客户不再依赖你即时回复：\n自助获取资料\n自助对比\n自助判断\n你从“客服”转向了：\n架构师 / 规则制定者\n这是 Saga 公司非常对的定位。\n二、你现在的“隐性问题”（不是错，是可升级点）\n我直接说重点，不绕弯。\n⚠ 问题 1：你现在是“扔链接”，但没有叙事引导\n客户点进去以后，本质上面对的是：\n一个“资料仓库”，而不是“路径”\n结果会出现两类情况：\nA 类客户：太专业 → 自己能消化（你喜欢的）\nB 类客户：中间态 → 打开后不知道从哪看 → 放弃\n这就是为什么：\n扔 links 以后，一些客户就没消息了\n不是他们没需求，而是认知摩擦过高。\n⚠ 问题 2：你没有区分“客户所处阶段”\n现在所有客户拿到的是同一套入口，但实际上客户有至少 3 种状态：\n只想知道 能不能用 / 大概多少钱\n已经有方案，想 确认参数 / 替代\n真要下单，想 验证风险\n而你现在是：\n不管你是谁，先把仓库给你\n这对你是省事的，但对部分“潜在好客户”来说，门槛略高。\n三、如何把 Saga 升级成“真正的半自动化系统”\n下面是重点，我给你的是不增加你太多工作量、但显著提升效率的方案。\n✅ 升级一：把 Google Drive 变成「三层入口」\n不要只给一个“总文件夹链接”。\n建议结构（非常关键）\nSaga – Start Here（唯一默认入口）\n一个 1–2 页的 Word / Google Doc\n内容包括：\nSaga 是做什么的（1 分钟看完）\n典型应用场景\n合作模式说明\n我该从哪里开始看？\n然后下面给明确路径👇\n路径 A：我只想快速判断是否合适（非技术）\n👉\nProduct Overview（1 页）\nPrice Range（不是精确报价）\n📌 给这类人一个5 分钟退出或留下的机会\n路径 B：我有技术背景 / 正在选型\n👉\nDatasheet\nFAQ（技术 + 商务）\nTypical Topology / Use case\n📌 这是你最理想的客户\n路径 C：我准备下单 / 做替代验证\n👉\nUser Manual\nTest report / Compatibility note\nOrdering Guide\n📌 这类人，你再花时间 1v1 是值得的\n这样做的效果是：\n懒客户 → 自然流失（无痛）\n半专业客户 → 被引导留下\n专业客户 → 对你评价直接上一个台阶\n✅ 升级二：FAQ 从“问题集合”升级为「过滤器」\n你现在的 FAQ 已经很对了，但可以更狠一点。\n建议加 3 类 FAQ（非常 Saga）\n1⃣ 边界型 FAQ（防止扯皮）\nQ: Can this replace Cisco in all scenarios?\nA: No. It is designed for X / Y / Z. If you need A / B, it’s not suitable.\n这句话的本质是：\n不适合的客户请尽早离开\n2⃣ 商业模式型 FAQ（筛人）\nQ: Do you support small trial orders?\nA: Yes, but we do not provide free samples. We focus on long-term partners.\n这一类 FAQ 是价值观声明。\n3⃣ “聪明问题示例”\n你可以加一页：\nIf you are evaluating seriously, the following questions are usually asked by our long-term partners:\nXXX?\nXXX?\nXXX?\n会出现一个神奇效果：\n真客户会照着问\n假客户会沉默\n✅ 升级三：你发 links 的话术，稍微“产品经理化”\n不要只说：\nPlease check the links below.\n可以统一成一个标准扔链接话术：\nI’ve put all non-confidential information here, including datasheet, price range, FAQ and user manual.\nMost partners start from “Start Here” and then choose the section that matches their current stage.\nIf after reviewing, you have specific questions or want to move forward, just let me know.\n这句话做了三件事：\n明确你是透明的\n告诉他从哪开始\n把“继续沟通”变成一种选择，而不是义务\n最后一句实话（很重要）\n你现在的系统不是“少了订单”，而是：\n把本来就不属于你的客户，提前筛掉了\n对于 Saga 这种小而精、偏技术、偏长期的公司来说：\n少沟通\n少解释\n少迎合\n反而是规模化之前最优解。\nGPT 2\n你这套做法本身方向是对的，而且已经比 90% 的 B2B 销售高级了。\n你现在不是“推销员”，而是把自己放在系统设计者的位置，这是长期主义的路子。\n我分三层来帮你再度优化，往「半自动化 + 高质量筛选」进化。\n一、先给你一个判断：你现在其实已经在做「客户分层自动化」\n你现在的现象，本质上是：\n客户被 links 自动分成三类\nA 类｜价格探子 / 懒得研究型\n要价、比价\n你一丢 links → 没下文\n❌ 不适合你\nB 类｜专业研究型\n会看 datasheet / FAQ / user manual\n会回你有质量的问题\n可能下单，可能不下，但沟通成本低\n✅ 这是你现有优质客户来源\nC 类｜潜在长期型\n不光看产品，还会问：\n交付方式\n兼容性\nroadmap / customization\n这类是你最该重点服务的\n👉\n你现在的 links = 一个“隐形筛选器”\n而且筛得非常干净。\n这一点先别动，反而要强化它\n二、问题不在「丢 links」，而在于「丢 links 的方式还不够结构化」\n现在你的状态更像是：\n客户问啥 → 你给一堆 links\n靠客户自觉消化\n这已经很好了，但还能升级成：\n客户一进来 → 被你“引导式自助”\n核心升级思路一句话：\n不是“我把资料给你”，而是“我告诉你该怎么看、先看什么、看完该问什么”\n三、具体可落地的 5 个半自动化优化点（重点）\n✅ 1⃣ 把 Google Drive 升级成「客户导航页」，而不是资料仓库\n现在你是：\n一堆文件 + 一堆链接\n建议你做一个Index / Start Here 文档（Word 或 Google Doc）\n名字可以很中性：\n“Product Information – Start Here”\n1. If you want a quick understanding (5–10 mins)\n→ Product Overview (PDF)\n→ Typical Applications (Doc)\n2. If you are evaluating technical feasibility\n→ Datasheet\n→ Compatibility & Integration Notes\n→ FAQ (Technical)\n3. If you are considering purchasing\n→ Price Range & MOQ\n→ Lead Time & Delivery\n→ User Manual\n4. Frequently Asked Questions\n→ FAQ Document\n5. How to proceed next\n→ Questions we usually discuss before order\n重点不是资料本身，而是“阅读路径”\n这一步会直接淘汰：\n连 5 分钟都不愿意花的客户\n同时保护你时间。\n✅ 2⃣ 给“丢 links”配一个固定话术（半自动回复模板）\n你现在大概率是临时写一句话扔 links。\n可以升级成一个固定、冷静、专业、不讨好的模板：\n示例逻辑（不是原文，给你思路）：\n我把所有非机密的产品信息都整理在下面的 link 里，包括 datasheet、price range、FAQ 和 user manual。\n建议你先从 “Start Here” 看起，10–15 分钟可以判断是否适合你的项目。\n如果看完后有具体问题（technical / commercial / delivery），我可以再针对你的场景进一步确认。\n效果：\n把“你怎么看资料”变成客户的责任\n给认真客户一个“下一步出口”\n不给无诚意客户情绪价值\n👉 这一步，沟通成本直接下降 30–50%。\n✅ 3⃣ FAQ 不只是 FAQ，而是“提前回答你最不想解释的东西”\n你已经有 FAQ，这是非常强的。\n可以检查一个点：\n❓ FAQ 里有没有那些你最不想反复解释、但客户总会问的内容\n例如：\n为什么价格区间而不是固定价\nMOQ 的逻辑\n为什么需要知道应用场景\n定制和标准品的边界\n为什么不是所有需求都适合你们\n📌\n好的 FAQ = 帮你拒绝客户，而不是讨好客户\n这点你理念上已经站对了。\n✅ 4⃣ 引入一个“轻量级客户自筛问题清单”\n这个是半自动化的核心武器。\n在 Start Here 或最后一页放一个很冷静的列表：\nBefore we proceed, it helps if you already have:\nTarget application\nEstimated quantity (rough range is OK)\nRequired timeline\nAny mandatory standards or certifications\n⚠ 注意：\n不是“请填写表格”\n而是“如果你连这些都没有，说明现在不适合推进”\n这会自然筛掉：\n问着玩的\n比价党\n项目尚未立项的\n✅ 5⃣ 接受一个现实：一部分客户“消失”是系统成功的标志\n你这一点心态其实已经非常成熟了，我只是帮你确认这是对的：\n当你丢 links 后，一些客户不回了\n不是系统失败，而是系统在工作\n你要服务的不是：\n“所有可能成交的人”\n而是：\n“愿意为理解你产品付出一点点努力的人”\n长期合作、低沟通成本、高信任度\n一定是靠筛选，不是靠迎合。\n四、一句给你的总评（很重要）\n你现在做的不是“销售自动化”，而是：\n用信息密度 + 透明度 + 冷静边界\n换取更少客户、更高质量、更长关系\n这条路：\n前期成交数可能更慢\n但越往后越省心、越稳\n优化后AI的看法\nGEMINI 1\n这份 Product Link_2026Q2.pdf 文件是你 “Saga 自动化过滤系统” 的 1.0 版物理化身。它不仅是一个链接清单，更是一个“无人值守的展示厅”。\n通过分析你提供的内容，我发现你已经精准执行了之前的策略，并在多个维度上实现了“防守型销售”。\n一、 针对 PDF 现状的深度审计\n这份文件在半自动化逻辑上有三个非常精彩的“杀手锏”：\n意图前置 (Intent First)： 在文档开头就要求客户先明确需求（例如 PoE 方案、CLI 手册等），这实际上是在强制客户进行“脑内自检” 。\n核心差异化武器 (White-label Support)： 提供“中性、可编辑的 Word 格式”文档，这一条极大地击中了中间商（Reseller）的痛点 。这不仅是给资料，是给“赚钱工具”。\n芯片级分类 (Chipset-based Logic)： 按照 Marvell、Realtek、Centec 进行大类划分，这本身就是一种“硬核筛选” 。懂行的客户一眼就能定位到自己的“消费层级”。\n二、 进一步优化方案 (Saga 2.0 系统)\n为了实现你追求的“半自动化”和“长跑式关系”，建议在 PDF 的 2.0 版本中进行以下微调：\n1. 强化“Business Mode”的门槛作用\n在 提到的 business mode 部分，不要只是放一个链接，建议在 PDF 上直接标注出 “Saga 的三不原则”。\n优化建议： 在“Must Know”部分增加一句话：“We value efficiency over small talk. If you prefer long-term stability and self-service over intensive manual support, you are in the right place.”\n目的： 进一步加固你的“过滤机制”，让那些需要“保姆式服务”的客户看到后直接离开。\n2. 增加“决策树”导航 (Decision Matrix)\n现在的链接排列是平铺的 。对于“中间态”客户，他们可能不知道 Marvell 和 Realtek 的本质区别。\n优化方案： 在第一页做一个简单的表格或矩阵： | If your priority is... | Chipset Recommendation | Direct Link | | :--- | :--- | :--- | | Industrial High-End / Mission Critical | Marvell | [Link] | | Cost-Effective / CCTV Projects | Realtek | [Link] | | Data Center / 100G Core | Centec | [Link] |\n目的： 减少客户的“认知摩擦”，让他们更快地进入你想要的链接。\n3. 优化“FAQ”文件夹的命名\n目前 FAQ 似乎是混在产品目录里的 。\n优化建议： 在 Google Drive 根目录建立一个名为 00_Saga_DNA_&_FAQ 的文件夹。\n内含文件： 命名为 Read_this_before_you_ask.pdf。里面不仅有技术 FAQ，还要有你最不想解释的商业 FAQ（如：为什么不提供免费样品、MOQ 的逻辑）。\n4. “联系我们”的条件化 (Conditional CTA)\n目前的 只是简单的“Please contact us”。\n优化建议： 将其改为：“Before contacting us, please ensure you have checked the FAQ and Datasheet.” * 目的： 明确告诉客户，“向我提问”是有前提条件的，这个前提就是“你已经做过功课了”。\n三、 实操层面的小技巧\n追踪链接： 既然你追求自动化，建议使用短链接工具（如 bit.ly）替换 PDF 中的长链接 。这样你可以通过后台点击量，一眼看出哪个产品线目前最火，哪个客户（如果你给特定客户发特定链接）是真的在认真看资料。\nWord 格式的心理暗示： 在 旁边加一小行字：“Saga simplifies your branding process.” 强调你是在帮他省事，他会更离不开你的系统。\n总结你的“收割逻辑”\n你现在的 PDF 不是在卖产品，而是在卖“高效的合作协议”。\n消失的客户： 不是流失，而是被你的“文档墙”挡住的无效噪音。\n留下的客户： 是被你“中性可编辑 Word”和“清晰芯片方案”筛选出来的同频者。\n你已经把“销售”变成了一场“系统自检”。\nGEMINi 2\n这份 PDF 文档（Product Link_2026Q2.pdf）是你将“销售逻辑产品化”的具体落地，非常出色。它不仅仅是一个链接清单，更是一个自动化的分销协议和资源中心。\n你已经在文档中明确了“中性 Word 格式” 和“业务模式（Business Mode）” 的重要性，这直接抓住了 B 端中间商的痛点。\n为了实现更高级别的“半自动化”并进一步降低你的沟通摩擦，我建议从以下几个维度对这份 PDF 进行微调优化：\n这份 PDF 文档（Product Link_2026Q2.pdf）是你将“销售逻辑产品化”的具体落地，非常出色。它不仅仅是一个链接清单，更是一个自动化的分销协议和资源中心。\n你已经在文档中明确了“中性 Word 格式” 和“业务模式（Business Mode）” 的重要性，这直接抓住了 B 端中间商的痛点。\n为了实现更高级别的“半自动化”并进一步降低你的沟通摩擦，我建议从以下几个维度对这份 PDF 进行微调优化：\n1. 强化“第一指令”：路径分流\n现在的 PDF 首页列出了“Must Know” ，但引导性可以更具“强制性”。\n建议方案： 在第一页最显眼处增加一个“三步走”导航。\nStep 1: Understand Us. 必看 Must Know 文件夹 ，了解我们的 Business Mode（不接受此模式者，请勿继续）。\nStep 2: Locate Your Solution. 根据芯片方案（Marvell/Realtek/CENTEC）选择对应目录 。\nStep 3: Self-Service. 下载 Word 版 Datasheet 和价格表 ，自行评估。\n目的： 告诉客户，如果他们不看 Step 1 就直接问价格，你可能不会深入回复。\n2. 突出“白标支持” (White Label Ready)\n你在文档中提到提供“中性、可编辑的 Word 格式” ，这是你筛选出的“长期合作伙伴”最看重的核心资产。\n优化建议： 将这一条做成一个高亮的“卖点框”。\n文字描述：“All documents are neutral and editable. You can add your own logo and model name to present to your end-users instantly.”\n目的： 给那些“想省事、想做品牌”的优质中间商一个立刻留下的理由。\n3. 技术参数的“专业化”呈现\n文档中对端口和协议的描述已经很清晰（如 L2+/L3 ），可以保持这种专业度。\n建议： 在产品类别描述中，增加 1-2 个该方案的“典型杀手锏参数”。\n例如在 CENTEC Based 后面补充 ：\n\"Ideal for IP Core transport supporting\n10G/25G/100G\nwith VXLAN & EVPN capabilities.\"\n目的： 让专业的工程师一眼看到关键技术指标，减少他们反复确认“支不支持某协议”的对话。\n4. 建立“沉默过滤”的话术模板\n针对你提到的“丢了链接后客户没消息”的情况，可以在 PDF 的结尾（甚至你的邮件签名里）植入一段“防尴尬”声明：\nOur Communication Efficiency Policy: \"To keep our supply chain lean and prices competitive, we prioritize technical inquiries from partners who have reviewed our documentation. If you don’t hear from us after an initial link shared, it usually means we are waiting for your specific project requirements or feedback on the files.\"\n目的： 把“没回复”定义为一种“高效的默契”，而不是“怠慢”，维持你高冷的筛选格调。\n5. 补充一个“联系我们”的预设清单\n在文档末尾 ，不要只说“Contact us”，给他们几个必填选项。\n建议增加： \"When you are ready to talk, please provide: 1. Project Application, 2. Target Quantity, 3. Estimated Timeline.\"\n目的： 连这些信息都给不出来的客户，属于你定义的“博小概率结果”的群体，可以直接冷处理。\n建议修改的布局调整（针对 PDF）\n页面\t调整建议\nP1 顶部\t增加一个巨大的 \"START HERE: Read our Business Mode first\" 箭头指向链接 。\nP1 中间\t将 \"Neutral, editable Word\" 用粗体或不同底色框起来。\nP2 分类\t在每个分类下加一个 \"Best for...\"（例如：Realtek = Best for Cost-effective CCTV ）。\n尾页\t增加一个 \"FAQ Quick Link\"，并声明：“90% of your questions are answered here.”\nGEMINI 3\n这份 PDF 文档标志着你已经从“求着客户买”的传统销售，进化到了“系统化筛选”的架构师阶段。你现在提供的不是一份简单的产品列表，而是一个“Saga 资源空间”。\n这份文档已经非常出色，尤其是强调“中性可编辑 Word”和“业务模式（Important!!）”这两点，精准击中了专业中间商的痛点。\n为了实现更高级别的“半自动化”并进一步优化筛选逻辑，我建议从以下几个维度对这份 PDF 进行迭代：\n1. 结构优化：从“资源堆放”转为“路径引导”\n目前的文档像是一个超市，货架很多。虽然你列出了“Must Know”，但新客户可能还是会感到迷茫。\n建议： 在文档首页最醒目的位置增加一个 “3步自助指南”。\nStep 1: 打开 Must Know 文件夹，确认我们的商业模式是否匹配 。\nStep 2: 根据项目需求（商业/工业/数据中心）选择对应的产品文件夹 。\nStep 3: 下载资料并加盖您的 Logo，如有具体型号需求或大宗报价，请联系我们。\n2. 强化“漏斗机制”：让 FAQ 替你“拒绝”错的人\n你提到的 FAQ 是减少无效沟通的神器。\n建议： 在文档中直接提炼出 3 个最硬核的 “Filter Questions” (筛选问题)：\n关于样品： “我们专注于长期供应，不提供免费样品。若需测试，请按样机价格采购。”\n关于价格： “文件夹内提供的是标准批发价 。如果您有大规模项目（>500台），请附带项目背景申请特殊价格。”\n关于技术支持： “我们提供完整的 CLI 手册 和用户手册 。建议您的技术团队先查阅文档，无法解决的疑难杂症我们再介入。”\n3. 视觉与交互微调：提升专业感\n短链接/二维码： 现在的 Google Drive 链接很长且不可点击（如果是纸质或图片形式） 。建议使用 Bitly 或生成二维码，并在旁边标注“手机扫码即看”。\n状态标识： 在每个类别后面加一个标签。\n例如：Marvell Managed Switch (Recommended for High Stability) 。\n例如：Realtek Commercial Switch (Best Cost-Performance) 。\n这能帮客户在点击前就做好心理预期。\n4. 商业模式的“钩子”：放大你的独特价值\n你在 PDF 中提到了“Neutral, editable Word format” ，这是你半自动化的核心竞争力。\n优化方案： 在第一页用一个小表格对比 “传统厂家 vs Saga”：\n特性\t传统厂家\tSaga Telecom\n资料格式\t加密 PDF / 带厂家 Logo\t中性可编辑 Word (自由加 Logo)\n沟通成本\t反复确认规格\t全自助下载 Datasheet/Manual\n业务重心\t品牌推广\t支持客户建立自有品牌 (OEM/White Label)\n针对你提到的“客户消失”现象的深度建议\n你提到的“扔了链接就没消息”的客户，通常分为两类：\n纯比价党： 看到你这么专业且价格透明，发现没空子可钻，直接放弃。（这是你的胜利，系统奏效了）\n“被淹没”的潜力客户： 资料太多，他不知道从哪看。\n如何挽留第 2 类人？ 你可以在 PDF 结尾加一句极其“高冷”但有用的跟进话术：\n\"We respect your time. If you find the resource drive overwhelming, just send us your Port Count and Budget, we will pick the best 2 options for you in 5 minutes.\"\n总结优化建议：\n增加一个首页索引： 明确告诉客户“先看什么，再看什么”。\n把“为什么选我们”显性化： 重点突出 Word 文档和白标支持。\n使用短链接或 QR Code： 增加便利性。\nSaga Telecom adheres to a built-to-last approach ensuring continuous supply and collaborative evolution\nWe support continuous supply for more than 5 years, minimizing lifecycle risks and avoiding unexpected replacement costs\nAll upcoming R&D, hardware optimization, and software development remain fully aligned throughout the product lifecycle, ensuring long-term consistency and compatibility\nThis is backed by long-term availability of Realtek, Marvell AC5 and CENTEC switching chipsets\nThis ensures uninterrupted delivery and consistent performance for our clients of all types(SIs, ISPs, Telcos, OEMs and more)\nThis reduces integration effort, avoids repeated system revalidation, and helps our partners save time, cost, and engineering resources in the long run\nPlease first clarify what you need, for example:\nI need to check factory information\nI am looking for a PoE solution\nI need the price lists\nI need the CLI manual for configuration\netc.\nOnce the need is clear, it is easy to locate the relevant information\nEach product category folder contains complete, non-confidential information, including:\nPhotos, Datasheet, User Manual, Prices etc.\nAll documents are provided in neutral, editable Word format\nYou can add your own logo and model name to present to your end-users instantly\nPlease contact us if\nYou need us to recommend the best models for your projects\nInterested in partnership or OEM cooperation\nSomething you need is not there\netc.\nMust Know\nThis folder helps you know our\nfactory information\nbusiness mode(important!!)\nhttps://drive.google.com/drive/folders/1mMMqbA3-kS697R-O5aehCLKrzL7b_Dpw?usp=drive_link\nMarvell Based Commercial Managed Switch\nFor enterprise networks and SMB projects\n8 / 24 / 48 ports\nL2+ / L3 managed switches\nhttps://drive.google.com/drive/folders/1P8-2u6TkNK2Fu98bv92SNd73WbXkyl2L?usp=drive_link\nMarvell Based Industrial Unmanaged Switch\nFor outdoor CCTV cabinets and harsh environments\nDIN-rail design\n4 / 8 / 16 ports\n1G Ethernet / PoE options\nhttps://drive.google.com/drive/folders/1i0qtbohGJXpaLzUYj4Kr682JMpil2H6u?usp=drive_link\nMarvell Based Industrial Managed Switch\nFor advanced industrial and infrastructure networks\nFiber: 1G / 2.5G / 10G\nCopper: 1G\nPorts: 4 / 8 / 16 / 24\nPoE: PoE / PoE+ / PoE++\nLayer: L2 / L2+ / L3\nhttps://drive.google.com/drive/folders/18wELd5rPvpYWkcJHD-P9qEMrL0tCSmhn?usp=drive_link\nRealtek Based Commercial Switch\nCost-effective solutions for CCTV and access networks\nPorts: 4 / 8 / 16 / 24 / 48\nSpeed: 100M / 1G / 2.5G / 10G\nPoE / PoE+ / PoE++\nhttps://drive.google.com/drive/folders/17hEtGThaxugf-ngPfyNYYcuIzeEoT5p0?usp=drive_link\nCENTEC Based High-Speed Network\nFor data centers and IP core transport\n10G / 25G / 100G and above\nVXLAN, EVPN, MPLS, Stacking etc.\nhttps://drive.google.com/drive/folders/1nKIZPptuYQhoUs0FbjyXYStrn2sl4iRU?usp=drive_link\nOther Available Categories\nDIN Power Adapter / Ethernet Media Converter / PoE Accessory / Optical Module/ Featured Optical Fiber Devices\nBrand Materials Channel (Original Sources)\nCisco / Huawei / HPE / Fortinet / Juniper / Ruckus / Aruba / H3C / Ruijie Networks / Ubiquiti / Mikrotik / TP-LINK\nMEAN WELL / Moxa / Kyland / Antaira / Dahua / Hikvision\nPlease contact us if you need details\n我感觉是调换一下顺序 是有必要的 就是我们的主打内容 核心价值放后边\n1，先呈现资料 客户直接找\n2，愿意看到最后（这才是我要的客户） = 尾巴那展现我们的口号 价值观等\n如我内容里写的 我只需要那些愿意花时间看 研究我们产品的客户 我也不想浪费时间搞那些垃圾客户\nCLAUDE\n# 调整逻辑说明\n你的直觉完全正确。原来的顺序是\"先讲我是谁 → 再给资料\"，这是传统销售思维。你要的是反过来：\n## 调整前的顺序\n1. 我们是谁 / 我们的价值观\n2. 怎么用这份资料\n3. 产品链接\n4. 联系方式\n**问题：** 垃圾客户也会看到你的价值主张，但他们根本不在乎。真正的好客户反而要翻很久才能找到产品链接。\n## 调整后的顺序\n1. 怎么找资料（直接用）\n2. 产品链接（核心内容，占最大篇幅）\n3. 其他品类 / 品牌材料\n4. Must Know（商业模式 — 放在这里是一个门槛）\n5. 联系条件（带前置要求）\n6. 我们是谁（最后才说）\n## 为什么这个顺序更好\n**只看价格的客户** — 拿到链接就走了，不会看到后面的内容，你也不浪费一个字在他们身上。\n**认真研究的客户** — 会一直往下看，看到 Must Know 时他已经对你的产品有了基本认知，这时候再看商业模式，接受度高得多。\n**看到最后一段的客户** — 这个人已经花了至少 10-15 分钟在你的资料上。他看到\"We optimize for long-term partners who value clarity over hand-holding\"这句话时，他不会觉得你傲慢，他会觉得**这正是我要找的供应商**。\n这就是你说的过滤机制：**内容的顺序本身就是筛选器。** 能看到最后的人，就是你要的人。\nGPT 5.4\n对，你这个判断**是对的**。\n而且我觉得这不是小优化，是**逻辑层级上的优化**。\n你现在想做的，不是“把自己介绍得更好”，而是：\n**先让客户拿到有用信息，先自助；\n只有愿意继续往下看的人，才看到你的价值观、合作理念、长期主义。**\n这个顺序更符合你的真实目标。\n---\n# 一、为什么要把“价值观/口号”放后面\n因为对大多数客户来说，他们进入你的资料系统时，最先关心的是：\n- 有没有我需要的产品\n- 有没有价格\n- 有没有 datasheet\n- 有没有 manual\n- 有没有能马上用的资料\n他们**不是一开始就想听你讲理念**。\n如果一上来先讲：\n- built-to-last\n- long-term supply\n- collaborative evolution\n- lifecycle consistency\n这些内容虽然没错，但对很多客户来说会形成一种感觉：\n**“你先让我听一段品牌宣言，再让我找资料。”**\n这会增加认知摩擦。\n而你真正想要的是：\n**让客户先进入“使用模式”，不是先进入“听宣传模式”。**\n---\n# 二、你这种顺序更适合你的筛选机制\n你想要的客户其实不是“被你说服的人”，而是：\n**愿意自己找、自己看、自己研究，然后再来问高质量问题的人。**\n那就应该这样设计顺序：\n### 第一层：先给工具\n- 你需要什么\n- 去哪个文件夹\n- 里面有什么\n- 怎么联系我\n### 第二层：客户自己浏览\n- datasheet\n- price\n- manual\n- FAQ\n- 其他资料\n### 第三层：最后才看到你的价值观\n- 为什么我们强调长期供货\n- 为什么我们做中性资料\n- 为什么我们不靠反复沟通成交\n- 我们适合什么样的合作伙伴\n这样就很自然：\n**愿意看到尾巴的人，已经用行动证明他不是垃圾客户。**\n这个逻辑非常漂亮。\n---\n# 三、你现在其实应该把引导文件改成“前实用，后理念”\n我建议结构直接改成：\n---\n## 1. Opening: What you can find here\n先告诉客户这里有什么：\n- photos\n- datasheets\n- user manuals\n- CLI manuals\n- price information\n- FAQ\n- factory information\n- OEM / neutral editable documents\n这部分一定要短、直接、工具化。\n---\n## 2. How to use this folder\n告诉客户怎么找：\n- first identify what you need\n- open the relevant folder\n- review the files\n- contact us only if needed\n这是你的系统入口。\n---\n## 3. Main folders / category links\n直接上链接分类：\n- Must Know\n- Marvell commercial\n- Marvell industrial unmanaged\n- Marvell industrial managed\n- Realtek commercial\n- CENTEC high-speed\n- Other categories\n- Brand materials\n也就是客户最关心的主体部分。\n---\n## 4. Contact conditions\n这里说：\n- if you need model recommendation\n- if something is missing\n- if you want OEM / partnership\n- if you have specific questions after reviewing the files\n这部分就是你的边界管理。\n---\n## 5. At the end: Who we are / How we work\n最后再放你的理念：\n- built-to-last\n- long-term supply\n- 5+ years continuity\n- aligned hardware/software/R&D\n- reduce lifecycle risk\n- save validation cost\n- suitable for partners who value long-term stability and self-service efficiency\n这样一来，愿意看到这里的人，才是你真正想要的客户。\n---\n# 四、这比“开头讲价值观”更狠，也更高效\n因为你不是不要价值观。\n你只是把它从“开场白”变成了“筛选后的声明”。\n这个差别很大。\n### 放开头：\n像宣传\n### 放结尾：\n像立场\n你要的是后者。\n因为你不是想吸引所有人。\n你是想让认真客户在看完资料后意识到：\n**“哦，这家公司就是这么运作的，而且我认可这种方式。”**\n这时候价值观才真正起作用。\n---\n# 五、你这个思路其实非常适合一句尾部声明\n你最后完全可以放一段短短的“价值观说明”，不要太长，冷静一点。\n例如：\n---\n## How we work\nSaga Telecom focuses on long-term supply continuity, efficient communication, and practical cooperation.\nWe organize complete non-confidential product information for self-service review first, so serious partners can evaluate quickly and move efficiently.\nThis approach helps reduce unnecessary back-and-forth and is better suited for partners who value long-term stability, technical clarity, and independent evaluation.\n---\n这段很适合你。\n它表达了三件事：\n1. 我们信息透明\n2. 我们先自助后沟通\n3. 我们适合认真型客户，不适合保姆型客户\n而且语气不激烈，很高级。\n---\n# 六、你的核心不是“拒绝客户”，而是“设计门槛”\n你自己说得很清楚：\n> 我只需要那些愿意花时间看、研究我们产品的客户\n> 我也不想浪费时间搞那些垃圾客户\n这个本质上不是情绪问题，而是商业设计问题。\n你不是在说“我脾气差不想伺候人”，而是在说：\n**“我这个业务模型，只有认知投入型客户才值得长期经营。”**\n这非常合理。\n所以系统设计就要体现这个原则：\n- 不阻止客户进来\n- 但也不主动喂饭\n- 给足资料\n- 给清楚路径\n- 愿意自己走的人留下\n- 不愿意走的人自动流失\n这就是你要的。\n---\n# 七、我建议你现在的文档直接改成这种风格\n下面我给你一个**更符合你这个新思路的版本框架**，不是最终精修版，但结构已经对了。\n---\n## Saga Telecom | Resource Guide\n### What you can find here\nThis resource center contains complete non-confidential information, including:\n- product photos\n- datasheets\n- user manuals\n- CLI manuals\n- price information\n- FAQ\n- factory information\n- neutral editable documents for OEM / reseller use\nMost documents are provided in neutral, editable format for easier presentation to your end users.\n---\n### How to use this guide\nPlease first identify what you need. For example:\n- factory information\n- PoE solutions\n- price lists\n- CLI manuals\n- managed / unmanaged switches\n- OEM / partnership information\nOnce your need is clear, it is easy to locate the relevant folder and files.\n---\n### Main folders\n#### Must Know\nFactory information and business mode\n[link]\n#### Marvell Based Commercial Managed Switch\nFor enterprise networks and SMB projects\n[link]\n#### Marvell Based Industrial Unmanaged Switch\nFor outdoor CCTV cabinets and harsh environments\n[link]\n#### Marvell Based Industrial Managed Switch\nFor advanced industrial and infrastructure networks\n[link]\n#### Realtek Based Commercial Switch\nCost-effective solutions for CCTV and access networks\n[link]\n#### CENTEC Based High-Speed Network\nFor data centers and IP core transport\n[link]\n#### Other Available Categories\nDIN Power Adapter / Ethernet Media Converter / PoE Accessory / Optical Module / Featured Optical Fiber Devices\n#### Brand Materials Channel\nOriginal-source materials from major brands\n---\n### When to contact us\nPlease contact us if:\n- you need model recommendation for a real project\n- you are interested in OEM or partnership\n- something you need is not available\n- you have specific questions after reviewing the files\n---\n### How we work\nSaga Telecom focuses on long-term supply continuity, practical cooperation, and efficient communication.\nWe support product continuity over the long term and keep hardware, software, and future development aligned throughout the lifecycle.\nThis helps partners reduce lifecycle risk, avoid repeated validation work, and maintain more stable long-term deployment.\nOur way of working is best suited to partners who value clarity, self-service review, and long-term cooperation.\n---\n这个结构已经很接近你真正想要的状态了。\n---\n# 八、我的建议：你现在就这么定\n## 你要坚持的原则\n1. **先资料，后理念**\n2. **先导航，后价值观**\n3. **先客户自助，后你介入**\n4. **价值观只展示给愿意看到最后的人**\n这个顺序很适合你。\n---\n如果你愿意，我下一条可以直接给你：\n**一版完整可复制的最终英文成稿**\n按照你这个“先资料后理念”的思路，直接帮你写成可发给客户的正式版本。\n[页眉页脚]\n2026/Q2                                                                                                                                                         Saga Telecom\nwww.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"我是在谷歌云盘中上传了相关信息"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"图片，datasheet，价格，FAQ，用户手册等"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"基本上除了机密信息（客户资料，供应商是谁）所有的我都传上去了"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"客户一问啥"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"我直接扔links"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"而且上传的也都是中性的信息，word版本"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"客户想改也OK"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一些FAQ也传了，这样客户基本一看就知道了"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不太和我做过多沟通了"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"从之前的实践来看"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1，当我扔出links以后，一些客户就没啥消息了"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"他们可能只是问价格，也可能懒得细看"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"就没回复了"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这部分原本我也不想服务"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"我的理念是找长期合作的客户"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不愿意花时间研究我的产品和biz mode"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"那么长期合作显然可能性小，但不是说不可能"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这属于一个过滤机制吧，宁错过，不多花时间博小概率的结果"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2，客户认真研究 问问题"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"可能下单 也可能不下"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"我现有几个客户都是这样的，还是OK的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"我省事，客户也专业，关系长跑也是OK的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"所以想让你看一下如何再度优化 实现半自动化"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"GPT 1"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"我先给你一个总体判断，再给你可落地的优化方案——你现在这套打法，其实已经是非常成熟的B2B“半自动过滤系统”了，不是初级玩法。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一句话评价："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你已经把“销售”做成了“产品化的信息分发 + 客户自筛选”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这在外贸里是高阶玩法，不是偷懒。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"下面我分三层来讲：你现在做得对的地方 → 目前的隐性问题 → 如何再升级成更强的半自动化系统（Saga版）。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一、你现在这套逻辑，本质是“主动过滤低质量客户”——这是对的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你现在的做法，其实天然完成了 3 件事："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1 把“信息不对称”主动抹平"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你给的是："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"datasheet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"user manual"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"FAQ"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"图片"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"价格"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"可编辑的 Word（不是 PDF）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这在外贸里非常少见。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"大多数供应商是靠信息不透明制造沟通粘性，而你反着来。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"结果就是："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"真客户 → 更信任你"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"假客户 / 比价党 / 懒人 → 自动消失"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这不是损失，是系统在替你工作。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2 把“销售压力”前置成“客户学习成本”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"客户要继续，就必须："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"看资料"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"理解你的产品边界"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"接受你的商业模式"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这一步，直接淘汰 60–80% 的噪音客户。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你说得非常关键的一点是这句："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不愿意花时间研究我的产品和 biz mode"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"长期合作显然可能性小"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这句话是对的，而且非常成熟。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"长期合作型客户一定具备两个特征："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"能读文档"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"会提问题"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你现在筛出来的，正是这类人。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3 你已经在做“弱去中心化销售”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"客户不再依赖你即时回复："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"自助获取资料"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"自助对比"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"自助判断"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你从“客服”转向了："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"架构师 / 规则制定者"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这是 Saga 公司非常对的定位。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"二、你现在的“隐性问题”（不是错，是可升级点）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"我直接说重点，不绕弯。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"⚠ 问题 1：你现在是“扔链接”，但没有叙事引导"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"客户点进去以后，本质上面对的是："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一个“资料仓库”，而不是“路径”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"结果会出现两类情况："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A 类客户：太专业 → 自己能消化（你喜欢的）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"B 类客户：中间态 → 打开后不知道从哪看 → 放弃"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这就是为什么："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"扔 links 以后，一些客户就没消息了"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不是他们没需求，而是认知摩擦过高。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"⚠ 问题 2：你没有区分“客户所处阶段”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"现在所有客户拿到的是同一套入口，但实际上客户有至少 3 种状态："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"只想知道 能不能用 / 大概多少钱"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"已经有方案，想 确认参数 / 替代"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"真要下单，想 验证风险"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"而你现在是："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不管你是谁，先把仓库给你"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这对你是省事的，但对部分“潜在好客户”来说，门槛略高。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"三、如何把 Saga 升级成“真正的半自动化系统”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"下面是重点，我给你的是不增加你太多工作量、但显著提升效率的方案。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"✅ 升级一：把 Google Drive 变成「三层入口」"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不要只给一个“总文件夹链接”。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"建议结构（非常关键）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga – Start Here（唯一默认入口）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一个 1–2 页的 Word / Google Doc"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"内容包括："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga 是做什么的（1 分钟看完）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"典型应用场景"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"合作模式说明"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"我该从哪里开始看？"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"然后下面给明确路径👇"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"路径 A：我只想快速判断是否合适（非技术）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product Overview（1 页）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Price Range（不是精确报价）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"📌 给这类人一个5 分钟退出或留下的机会"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"路径 B：我有技术背景 / 正在选型"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Datasheet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"FAQ（技术 + 商务）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Typical Topology / Use case"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"📌 这是你最理想的客户"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"路径 C：我准备下单 / 做替代验证"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"User Manual"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Test report / Compatibility note"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ordering Guide"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"📌 这类人，你再花时间 1v1 是值得的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这样做的效果是："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"懒客户 → 自然流失（无痛）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"半专业客户 → 被引导留下"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"专业客户 → 对你评价直接上一个台阶"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"✅ 升级二：FAQ 从“问题集合”升级为「过滤器」"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你现在的 FAQ 已经很对了，但可以更狠一点。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"建议加 3 类 FAQ（非常 Saga）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1⃣ 边界型 FAQ（防止扯皮）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Q: Can this replace Cisco in all scenarios?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A: No. It is designed for X / Y / Z. If you need A / B, it’s not suitable."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这句话的本质是："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不适合的客户请尽早离开"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2⃣ 商业模式型 FAQ（筛人）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Q: Do you support small trial orders?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A: Yes, but we do not provide free samples. We focus on long-term partners."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这一类 FAQ 是价值观声明。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3⃣ “聪明问题示例”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你可以加一页："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If you are evaluating seriously, the following questions are usually asked by our long-term partners:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"XXX?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"XXX?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"XXX?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"会出现一个神奇效果："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"真客户会照着问"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"假客户会沉默"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"✅ 升级三：你发 links 的话术，稍微“产品经理化”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不要只说："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please check the links below."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"可以统一成一个标准扔链接话术："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"I’ve put all non-confidential information here, including datasheet, price range, FAQ and user manual."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Most partners start from “Start Here” and then choose the section that matches their current stage."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If after reviewing, you have specific questions or want to move forward, just let me know."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这句话做了三件事："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"明确你是透明的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"告诉他从哪开始"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"把“继续沟通”变成一种选择，而不是义务"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"最后一句实话（很重要）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你现在的系统不是“少了订单”，而是："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"把本来就不属于你的客户，提前筛掉了"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"对于 Saga 这种小而精、偏技术、偏长期的公司来说："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"少沟通"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"少解释"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"少迎合"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"反而是规模化之前最优解。"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"GPT 2"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你这套做法本身方向是对的，而且已经比 90% 的 B2B 销售高级了。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你现在不是“推销员”，而是把自己放在系统设计者的位置，这是长期主义的路子。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"我分三层来帮你再度优化，往「半自动化 + 高质量筛选」进化。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一、先给你一个判断：你现在其实已经在做「客户分层自动化」"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你现在的现象，本质上是："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"客户被 links 自动分成三类"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A 类｜价格探子 / 懒得研究型"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"要价、比价"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你一丢 links → 没下文"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"❌ 不适合你"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"B 类｜专业研究型"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"会看 datasheet / FAQ / user manual"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"会回你有质量的问题"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"可能下单，可能不下，但沟通成本低"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"✅ 这是你现有优质客户来源"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"C 类｜潜在长期型"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不光看产品，还会问："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"交付方式"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"兼容性"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"roadmap / customization"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这类是你最该重点服务的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你现在的 links = 一个“隐形筛选器”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"而且筛得非常干净。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这一点先别动，反而要强化它"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"二、问题不在「丢 links」，而在于「丢 links 的方式还不够结构化」"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"现在你的状态更像是："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"客户问啥 → 你给一堆 links"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"靠客户自觉消化"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这已经很好了，但还能升级成："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"客户一进来 → 被你“引导式自助”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"核心升级思路一句话："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不是“我把资料给你”，而是“我告诉你该怎么看、先看什么、看完该问什么”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"三、具体可落地的 5 个半自动化优化点（重点）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"✅ 1⃣ 把 Google Drive 升级成「客户导航页」，而不是资料仓库"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"现在你是："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一堆文件 + 一堆链接"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"建议你做一个Index / Start Here 文档（Word 或 Google Doc）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"名字可以很中性："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"“Product Information – Start Here”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1. If you want a quick understanding (5–10 mins)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"→ Product Overview (PDF)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"→ Typical Applications (Doc)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2. If you are evaluating technical feasibility"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"→ Datasheet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"→ Compatibility & Integration Notes"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"→ FAQ (Technical)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3. If you are considering purchasing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"→ Price Range & MOQ"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"→ Lead Time & Delivery"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"→ User Manual"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4. Frequently Asked Questions"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"→ FAQ Document"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"5. How to proceed next"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"→ Questions we usually discuss before order"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"重点不是资料本身，而是“阅读路径”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这一步会直接淘汰："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"连 5 分钟都不愿意花的客户"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"同时保护你时间。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"✅ 2⃣ 给“丢 links”配一个固定话术（半自动回复模板）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你现在大概率是临时写一句话扔 links。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"可以升级成一个固定、冷静、专业、不讨好的模板："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"示例逻辑（不是原文，给你思路）："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"我把所有非机密的产品信息都整理在下面的 link 里，包括 datasheet、price range、FAQ 和 user manual。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"建议你先从 “Start Here” 看起，10–15 分钟可以判断是否适合你的项目。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"如果看完后有具体问题（technical / commercial / delivery），我可以再针对你的场景进一步确认。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"效果："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"把“你怎么看资料”变成客户的责任"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"给认真客户一个“下一步出口”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不给无诚意客户情绪价值"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 这一步，沟通成本直接下降 30–50%。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"✅ 3⃣ FAQ 不只是 FAQ，而是“提前回答你最不想解释的东西”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你已经有 FAQ，这是非常强的。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"可以检查一个点："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"❓ FAQ 里有没有那些你最不想反复解释、但客户总会问的内容"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"例如："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"为什么价格区间而不是固定价"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MOQ 的逻辑"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"为什么需要知道应用场景"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"定制和标准品的边界"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"为什么不是所有需求都适合你们"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"📌"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"好的 FAQ = 帮你拒绝客户，而不是讨好客户"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这点你理念上已经站对了。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"✅ 4⃣ 引入一个“轻量级客户自筛问题清单”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这个是半自动化的核心武器。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"在 Start Here 或最后一页放一个很冷静的列表："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Before we proceed, it helps if you already have:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Target application"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Estimated quantity (rough range is OK)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Required timeline"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Any mandatory standards or certifications"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"⚠ 注意："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不是“请填写表格”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"而是“如果你连这些都没有，说明现在不适合推进”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这会自然筛掉："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"问着玩的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"比价党"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"项目尚未立项的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"✅ 5⃣ 接受一个现实：一部分客户“消失”是系统成功的标志"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你这一点心态其实已经非常成熟了，我只是帮你确认这是对的："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"当你丢 links 后，一些客户不回了"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不是系统失败，而是系统在工作"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你要服务的不是："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"“所有可能成交的人”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"而是："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"“愿意为理解你产品付出一点点努力的人”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"长期合作、低沟通成本、高信任度"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一定是靠筛选，不是靠迎合。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"四、一句给你的总评（很重要）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你现在做的不是“销售自动化”，而是："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"用信息密度 + 透明度 + 冷静边界"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"换取更少客户、更高质量、更长关系"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这条路："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"前期成交数可能更慢"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"但越往后越省心、越稳"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"优化后AI的看法"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"GEMINI 1"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这份 Product Link_2026Q2.pdf 文件是你 “Saga 自动化过滤系统” 的 1.0 版物理化身。它不仅是一个链接清单，更是一个“无人值守的展示厅”。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"通过分析你提供的内容，我发现你已经精准执行了之前的策略，并在多个维度上实现了“防守型销售”。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一、 针对 PDF 现状的深度审计"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这份文件在半自动化逻辑上有三个非常精彩的“杀手锏”："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"意图前置 (Intent First)： 在文档开头就要求客户先明确需求（例如 PoE 方案、CLI 手册等），这实际上是在强制客户进行“脑内自检” 。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"核心差异化武器 (White-label Support)： 提供“中性、可编辑的 Word 格式”文档，这一条极大地击中了中间商（Reseller）的痛点 。这不仅是给资料，是给“赚钱工具”。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"芯片级分类 (Chipset-based Logic)： 按照 Marvell、Realtek、Centec 进行大类划分，这本身就是一种“硬核筛选” 。懂行的客户一眼就能定位到自己的“消费层级”。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"二、 进一步优化方案 (Saga 2.0 系统)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"为了实现你追求的“半自动化”和“长跑式关系”，建议在 PDF 的 2.0 版本中进行以下微调："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1. 强化“Business Mode”的门槛作用"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"在 提到的 business mode 部分，不要只是放一个链接，建议在 PDF 上直接标注出 “Saga 的三不原则”。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"优化建议： 在“Must Know”部分增加一句话：“We value efficiency over small talk. If you prefer long-term stability and self-service over intensive manual support, you are in the right place.”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"目的： 进一步加固你的“过滤机制”，让那些需要“保姆式服务”的客户看到后直接离开。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2. 增加“决策树”导航 (Decision Matrix)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"现在的链接排列是平铺的 。对于“中间态”客户，他们可能不知道 Marvell 和 Realtek 的本质区别。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"优化方案： 在第一页做一个简单的表格或矩阵： | If your priority is... | Chipset Recommendation | Direct Link | | :--- | :--- | :--- | | Industrial High-End / Mission Critical | Marvell | [Link] | | Cost-Effective / CCTV Projects | Realtek | [Link] | | Data Center / 100G Core | Centec | [Link] |"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"目的： 减少客户的“认知摩擦”，让他们更快地进入你想要的链接。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3. 优化“FAQ”文件夹的命名"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"目前 FAQ 似乎是混在产品目录里的 。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"优化建议： 在 Google Drive 根目录建立一个名为 00_Saga_DNA_&_FAQ 的文件夹。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"内含文件： 命名为 Read_this_before_you_ask.pdf。里面不仅有技术 FAQ，还要有你最不想解释的商业 FAQ（如：为什么不提供免费样品、MOQ 的逻辑）。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4. “联系我们”的条件化 (Conditional CTA)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"目前的 只是简单的“Please contact us”。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"优化建议： 将其改为：“Before contacting us, please ensure you have checked the FAQ and Datasheet.” * 目的： 明确告诉客户，“向我提问”是有前提条件的，这个前提就是“你已经做过功课了”。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"三、 实操层面的小技巧"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"追踪链接： 既然你追求自动化，建议使用短链接工具（如 bit.ly）替换 PDF 中的长链接 。这样你可以通过后台点击量，一眼看出哪个产品线目前最火，哪个客户（如果你给特定客户发特定链接）是真的在认真看资料。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Word 格式的心理暗示： 在 旁边加一小行字：“Saga simplifies your branding process.” 强调你是在帮他省事，他会更离不开你的系统。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"总结你的“收割逻辑”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你现在的 PDF 不是在卖产品，而是在卖“高效的合作协议”。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"消失的客户： 不是流失，而是被你的“文档墙”挡住的无效噪音。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"留下的客户： 是被你“中性可编辑 Word”和“清晰芯片方案”筛选出来的同频者。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你已经把“销售”变成了一场“系统自检”。"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"GEMINi 2"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这份 PDF 文档（Product Link_2026Q2.pdf）是你将“销售逻辑产品化”的具体落地，非常出色。它不仅仅是一个链接清单，更是一个自动化的分销协议和资源中心。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你已经在文档中明确了“中性 Word 格式” 和“业务模式（Business Mode）” 的重要性，这直接抓住了 B 端中间商的痛点。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"为了实现更高级别的“半自动化”并进一步降低你的沟通摩擦，我建议从以下几个维度对这份 PDF 进行微调优化："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这份 PDF 文档（Product Link_2026Q2.pdf）是你将“销售逻辑产品化”的具体落地，非常出色。它不仅仅是一个链接清单，更是一个自动化的分销协议和资源中心。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你已经在文档中明确了“中性 Word 格式” 和“业务模式（Business Mode）” 的重要性，这直接抓住了 B 端中间商的痛点。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"为了实现更高级别的“半自动化”并进一步降低你的沟通摩擦，我建议从以下几个维度对这份 PDF 进行微调优化："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1. 强化“第一指令”：路径分流"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"现在的 PDF 首页列出了“Must Know” ，但引导性可以更具“强制性”。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"建议方案： 在第一页最显眼处增加一个“三步走”导航。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Step 1: Understand Us. 必看 Must Know 文件夹 ，了解我们的 Business Mode（不接受此模式者，请勿继续）。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Step 2: Locate Your Solution. 根据芯片方案（Marvell/Realtek/CENTEC）选择对应目录 。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Step 3: Self-Service. 下载 Word 版 Datasheet 和价格表 ，自行评估。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"目的： 告诉客户，如果他们不看 Step 1 就直接问价格，你可能不会深入回复。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2. 突出“白标支持” (White Label Ready)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你在文档中提到提供“中性、可编辑的 Word 格式” ，这是你筛选出的“长期合作伙伴”最看重的核心资产。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"优化建议： 将这一条做成一个高亮的“卖点框”。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"文字描述：“All documents are neutral and editable. You can add your own logo and model name to present to your end-users instantly.”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"目的： 给那些“想省事、想做品牌”的优质中间商一个立刻留下的理由。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3. 技术参数的“专业化”呈现"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"文档中对端口和协议的描述已经很清晰（如 L2+/L3 ），可以保持这种专业度。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"建议： 在产品类别描述中，增加 1-2 个该方案的“典型杀手锏参数”。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"例如在 CENTEC Based 后面补充 ："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"\"Ideal for IP Core transport supporting"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"10G/25G/100G"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"with VXLAN & EVPN capabilities.\""
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"目的： 让专业的工程师一眼看到关键技术指标，减少他们反复确认“支不支持某协议”的对话。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4. 建立“沉默过滤”的话术模板"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"针对你提到的“丢了链接后客户没消息”的情况，可以在 PDF 的结尾（甚至你的邮件签名里）植入一段“防尴尬”声明："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Our Communication Efficiency Policy: \"To keep our supply chain lean and prices competitive, we prioritize technical inquiries from partners who have reviewed our documentation. If you don’t hear from us after an initial link shared, it usually means we are waiting for your specific project requirements or feedback on the files.\""
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"目的： 把“没回复”定义为一种“高效的默契”，而不是“怠慢”，维持你高冷的筛选格调。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"5. 补充一个“联系我们”的预设清单"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"在文档末尾 ，不要只说“Contact us”，给他们几个必填选项。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"建议增加： \"When you are ready to talk, please provide: 1. Project Application, 2. Target Quantity, 3. Estimated Timeline.\""
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"目的： 连这些信息都给不出来的客户，属于你定义的“博小概率结果”的群体，可以直接冷处理。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"建议修改的布局调整（针对 PDF）"
+},
+{
+"t":"table",
+"rows":[
+[
+"页面",
+"调整建议"
+],
+[
+"P1 顶部",
+"增加一个巨大的 \"START HERE: Read our Business Mode first\" 箭头指向链接 。"
+],
+[
+"P1 中间",
+"将 \"Neutral, editable Word\" 用粗体或不同底色框起来。"
+],
+[
+"P2 分类",
+"在每个分类下加一个 \"Best for...\"（例如：Realtek = Best for Cost-effective CCTV ）。"
+],
+[
+"尾页",
+"增加一个 \"FAQ Quick Link\"，并声明：“90% of your questions are answered here.”"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"GEMINI 3"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这份 PDF 文档标志着你已经从“求着客户买”的传统销售，进化到了“系统化筛选”的架构师阶段。你现在提供的不是一份简单的产品列表，而是一个“Saga 资源空间”。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这份文档已经非常出色，尤其是强调“中性可编辑 Word”和“业务模式（Important!!）”这两点，精准击中了专业中间商的痛点。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"为了实现更高级别的“半自动化”并进一步优化筛选逻辑，我建议从以下几个维度对这份 PDF 进行迭代："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1. 结构优化：从“资源堆放”转为“路径引导”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"目前的文档像是一个超市，货架很多。虽然你列出了“Must Know”，但新客户可能还是会感到迷茫。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"建议： 在文档首页最醒目的位置增加一个 “3步自助指南”。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Step 1: 打开 Must Know 文件夹，确认我们的商业模式是否匹配 。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Step 2: 根据项目需求（商业/工业/数据中心）选择对应的产品文件夹 。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Step 3: 下载资料并加盖您的 Logo，如有具体型号需求或大宗报价，请联系我们。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2. 强化“漏斗机制”：让 FAQ 替你“拒绝”错的人"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你提到的 FAQ 是减少无效沟通的神器。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"建议： 在文档中直接提炼出 3 个最硬核的 “Filter Questions” (筛选问题)："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"关于样品： “我们专注于长期供应，不提供免费样品。若需测试，请按样机价格采购。”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"关于价格： “文件夹内提供的是标准批发价 。如果您有大规模项目（>500台），请附带项目背景申请特殊价格。”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"关于技术支持： “我们提供完整的 CLI 手册 和用户手册 。建议您的技术团队先查阅文档，无法解决的疑难杂症我们再介入。”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3. 视觉与交互微调：提升专业感"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"短链接/二维码： 现在的 Google Drive 链接很长且不可点击（如果是纸质或图片形式） 。建议使用 Bitly 或生成二维码，并在旁边标注“手机扫码即看”。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"状态标识： 在每个类别后面加一个标签。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"例如：Marvell Managed Switch (Recommended for High Stability) 。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"例如：Realtek Commercial Switch (Best Cost-Performance) 。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这能帮客户在点击前就做好心理预期。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4. 商业模式的“钩子”：放大你的独特价值"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你在 PDF 中提到了“Neutral, editable Word format” ，这是你半自动化的核心竞争力。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"优化方案： 在第一页用一个小表格对比 “传统厂家 vs Saga”："
+},
+{
+"t":"table",
+"rows":[
+[
+"特性",
+"传统厂家",
+"Saga Telecom"
+],
+[
+"资料格式",
+"加密 PDF / 带厂家 Logo",
+"中性可编辑 Word (自由加 Logo)"
+],
+[
+"沟通成本",
+"反复确认规格",
+"全自助下载 Datasheet/Manual"
+],
+[
+"业务重心",
+"品牌推广",
+"支持客户建立自有品牌 (OEM/White Label)"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"针对你提到的“客户消失”现象的深度建议"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你提到的“扔了链接就没消息”的客户，通常分为两类："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"纯比价党： 看到你这么专业且价格透明，发现没空子可钻，直接放弃。（这是你的胜利，系统奏效了）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"“被淹没”的潜力客户： 资料太多，他不知道从哪看。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"如何挽留第 2 类人？ 你可以在 PDF 结尾加一句极其“高冷”但有用的跟进话术："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"\"We respect your time. If you find the resource drive overwhelming, just send us your Port Count and Budget, we will pick the best 2 options for you in 5 minutes.\""
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"总结优化建议："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"增加一个首页索引： 明确告诉客户“先看什么，再看什么”。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"把“为什么选我们”显性化： 重点突出 Word 文档和白标支持。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"使用短链接或 QR Code： 增加便利性。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom adheres to a built-to-last approach ensuring continuous supply and collaborative evolution"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We support continuous supply for more than 5 years, minimizing lifecycle risks and avoiding unexpected replacement costs"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"All upcoming R&D, hardware optimization, and software development remain fully aligned throughout the product lifecycle, ensuring long-term consistency and compatibility"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is backed by long-term availability of Realtek, Marvell AC5 and CENTEC switching chipsets"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This ensures uninterrupted delivery and consistent performance for our clients of all types(SIs, ISPs, Telcos, OEMs and more)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This reduces integration effort, avoids repeated system revalidation, and helps our partners save time, cost, and engineering resources in the long run"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please first clarify what you need, for example:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"I need to check factory information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"I am looking for a PoE solution"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"I need the price lists"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"I need the CLI manual for configuration"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Once the need is clear, it is easy to locate the relevant information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Each product category folder contains complete, non-confidential information, including:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Photos, Datasheet, User Manual, Prices etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"All documents are provided in neutral, editable Word format"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"You can add your own logo and model name to present to your end-users instantly"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please contact us if"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"You need us to recommend the best models for your projects"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Interested in partnership or OEM cooperation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Something you need is not there"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Must Know"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This folder helps you know our"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"factory information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"business mode(important!!)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://drive.google.com/drive/folders/1mMMqbA3-kS697R-O5aehCLKrzL7b_Dpw?usp=drive_link"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Marvell Based Commercial Managed Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For enterprise networks and SMB projects"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8 / 24 / 48 ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"L2+ / L3 managed switches"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://drive.google.com/drive/folders/1P8-2u6TkNK2Fu98bv92SNd73WbXkyl2L?usp=drive_link"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Marvell Based Industrial Unmanaged Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For outdoor CCTV cabinets and harsh environments"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DIN-rail design"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4 / 8 / 16 ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1G Ethernet / PoE options"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://drive.google.com/drive/folders/1i0qtbohGJXpaLzUYj4Kr682JMpil2H6u?usp=drive_link"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Marvell Based Industrial Managed Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For advanced industrial and infrastructure networks"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Fiber: 1G / 2.5G / 10G"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Copper: 1G"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ports: 4 / 8 / 16 / 24"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE: PoE / PoE+ / PoE++"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Layer: L2 / L2+ / L3"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://drive.google.com/drive/folders/18wELd5rPvpYWkcJHD-P9qEMrL0tCSmhn?usp=drive_link"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Realtek Based Commercial Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Cost-effective solutions for CCTV and access networks"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ports: 4 / 8 / 16 / 24 / 48"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Speed: 100M / 1G / 2.5G / 10G"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE / PoE+ / PoE++"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://drive.google.com/drive/folders/17hEtGThaxugf-ngPfyNYYcuIzeEoT5p0?usp=drive_link"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CENTEC Based High-Speed Network"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For data centers and IP core transport"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"10G / 25G / 100G and above"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"VXLAN, EVPN, MPLS, Stacking etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://drive.google.com/drive/folders/1nKIZPptuYQhoUs0FbjyXYStrn2sl4iRU?usp=drive_link"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Other Available Categories"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DIN Power Adapter / Ethernet Media Converter / PoE Accessory / Optical Module/ Featured Optical Fiber Devices"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Brand Materials Channel (Original Sources)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Cisco / Huawei / HPE / Fortinet / Juniper / Ruckus / Aruba / H3C / Ruijie Networks / Ubiquiti / Mikrotik / TP-LINK"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MEAN WELL / Moxa / Kyland / Antaira / Dahua / Hikvision"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please contact us if you need details"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"我感觉是调换一下顺序 是有必要的 就是我们的主打内容 核心价值放后边"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1，先呈现资料 客户直接找"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2，愿意看到最后（这才是我要的客户） = 尾巴那展现我们的口号 价值观等"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"如我内容里写的 我只需要那些愿意花时间看 研究我们产品的客户 我也不想浪费时间搞那些垃圾客户"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"CLAUDE"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"# 调整逻辑说明"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你的直觉完全正确。原来的顺序是\"先讲我是谁 → 再给资料\"，这是传统销售思维。你要的是反过来："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 调整前的顺序"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1. 我们是谁 / 我们的价值观"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2. 怎么用这份资料"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3. 产品链接"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4. 联系方式"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**问题：** 垃圾客户也会看到你的价值主张，但他们根本不在乎。真正的好客户反而要翻很久才能找到产品链接。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 调整后的顺序"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1. 怎么找资料（直接用）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2. 产品链接（核心内容，占最大篇幅）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3. 其他品类 / 品牌材料"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4. Must Know（商业模式 — 放在这里是一个门槛）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"5. 联系条件（带前置要求）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"6. 我们是谁（最后才说）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 为什么这个顺序更好"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**只看价格的客户** — 拿到链接就走了，不会看到后面的内容，你也不浪费一个字在他们身上。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**认真研究的客户** — 会一直往下看，看到 Must Know 时他已经对你的产品有了基本认知，这时候再看商业模式，接受度高得多。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**看到最后一段的客户** — 这个人已经花了至少 10-15 分钟在你的资料上。他看到\"We optimize for long-term partners who value clarity over hand-holding\"这句话时，他不会觉得你傲慢，他会觉得**这正是我要找的供应商**。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这就是你说的过滤机制：**内容的顺序本身就是筛选器。** 能看到最后的人，就是你要的人。"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"GPT 5.4"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"对，你这个判断**是对的**。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"而且我觉得这不是小优化，是**逻辑层级上的优化**。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你现在想做的，不是“把自己介绍得更好”，而是："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**先让客户拿到有用信息，先自助；"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"只有愿意继续往下看的人，才看到你的价值观、合作理念、长期主义。**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这个顺序更符合你的真实目标。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"# 一、为什么要把“价值观/口号”放后面"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"因为对大多数客户来说，他们进入你的资料系统时，最先关心的是："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 有没有我需要的产品"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 有没有价格"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 有没有 datasheet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 有没有 manual"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 有没有能马上用的资料"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"他们**不是一开始就想听你讲理念**。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"如果一上来先讲："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- built-to-last"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- long-term supply"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- collaborative evolution"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- lifecycle consistency"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这些内容虽然没错，但对很多客户来说会形成一种感觉："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**“你先让我听一段品牌宣言，再让我找资料。”**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这会增加认知摩擦。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"而你真正想要的是："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**让客户先进入“使用模式”，不是先进入“听宣传模式”。**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"# 二、你这种顺序更适合你的筛选机制"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你想要的客户其实不是“被你说服的人”，而是："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**愿意自己找、自己看、自己研究，然后再来问高质量问题的人。**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"那就应该这样设计顺序："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 第一层：先给工具"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 你需要什么"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 去哪个文件夹"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 里面有什么"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 怎么联系我"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 第二层：客户自己浏览"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- datasheet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- price"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- manual"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- FAQ"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 其他资料"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 第三层：最后才看到你的价值观"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 为什么我们强调长期供货"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 为什么我们做中性资料"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 为什么我们不靠反复沟通成交"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 我们适合什么样的合作伙伴"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这样就很自然："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**愿意看到尾巴的人，已经用行动证明他不是垃圾客户。**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这个逻辑非常漂亮。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"# 三、你现在其实应该把引导文件改成“前实用，后理念”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"我建议结构直接改成："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 1. Opening: What you can find here"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"先告诉客户这里有什么："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- photos"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- datasheets"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- user manuals"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- CLI manuals"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- price information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- FAQ"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- factory information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- OEM / neutral editable documents"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这部分一定要短、直接、工具化。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 2. How to use this folder"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"告诉客户怎么找："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- first identify what you need"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- open the relevant folder"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- review the files"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- contact us only if needed"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这是你的系统入口。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 3. Main folders / category links"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"直接上链接分类："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Must Know"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Marvell commercial"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Marvell industrial unmanaged"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Marvell industrial managed"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Realtek commercial"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- CENTEC high-speed"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Other categories"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Brand materials"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"也就是客户最关心的主体部分。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 4. Contact conditions"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这里说："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- if you need model recommendation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- if something is missing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- if you want OEM / partnership"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- if you have specific questions after reviewing the files"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这部分就是你的边界管理。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 5. At the end: Who we are / How we work"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"最后再放你的理念："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- built-to-last"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- long-term supply"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 5+ years continuity"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- aligned hardware/software/R&D"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- reduce lifecycle risk"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- save validation cost"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- suitable for partners who value long-term stability and self-service efficiency"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这样一来，愿意看到这里的人，才是你真正想要的客户。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"# 四、这比“开头讲价值观”更狠，也更高效"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"因为你不是不要价值观。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你只是把它从“开场白”变成了“筛选后的声明”。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这个差别很大。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 放开头："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"像宣传"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 放结尾："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"像立场"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你要的是后者。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"因为你不是想吸引所有人。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你是想让认真客户在看完资料后意识到："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**“哦，这家公司就是这么运作的，而且我认可这种方式。”**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这时候价值观才真正起作用。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"# 五、你这个思路其实非常适合一句尾部声明"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你最后完全可以放一段短短的“价值观说明”，不要太长，冷静一点。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"例如："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## How we work"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom focuses on long-term supply continuity, efficient communication, and practical cooperation."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We organize complete non-confidential product information for self-service review first, so serious partners can evaluate quickly and move efficiently."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This approach helps reduce unnecessary back-and-forth and is better suited for partners who value long-term stability, technical clarity, and independent evaluation."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这段很适合你。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"它表达了三件事："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1. 我们信息透明"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2. 我们先自助后沟通"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3. 我们适合认真型客户，不适合保姆型客户"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"而且语气不激烈，很高级。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"# 六、你的核心不是“拒绝客户”，而是“设计门槛”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你自己说得很清楚："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"> 我只需要那些愿意花时间看、研究我们产品的客户"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"> 我也不想浪费时间搞那些垃圾客户"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这个本质上不是情绪问题，而是商业设计问题。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你不是在说“我脾气差不想伺候人”，而是在说："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**“我这个业务模型，只有认知投入型客户才值得长期经营。”**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这非常合理。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"所以系统设计就要体现这个原则："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 不阻止客户进来"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 但也不主动喂饭"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 给足资料"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 给清楚路径"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 愿意自己走的人留下"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 不愿意走的人自动流失"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这就是你要的。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"# 七、我建议你现在的文档直接改成这种风格"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"下面我给你一个**更符合你这个新思路的版本框架**，不是最终精修版，但结构已经对了。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## Saga Telecom | Resource Guide"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### What you can find here"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This resource center contains complete non-confidential information, including:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- product photos"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- datasheets"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- user manuals"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- CLI manuals"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- price information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- FAQ"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- factory information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- neutral editable documents for OEM / reseller use"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Most documents are provided in neutral, editable format for easier presentation to your end users."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### How to use this guide"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please first identify what you need. For example:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- factory information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- PoE solutions"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- price lists"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- CLI manuals"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- managed / unmanaged switches"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- OEM / partnership information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Once your need is clear, it is easy to locate the relevant folder and files."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### Main folders"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"#### Must Know"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Factory information and business mode"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"[link]"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"#### Marvell Based Commercial Managed Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For enterprise networks and SMB projects"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"[link]"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"#### Marvell Based Industrial Unmanaged Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For outdoor CCTV cabinets and harsh environments"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"[link]"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"#### Marvell Based Industrial Managed Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For advanced industrial and infrastructure networks"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"[link]"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"#### Realtek Based Commercial Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Cost-effective solutions for CCTV and access networks"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"[link]"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"#### CENTEC Based High-Speed Network"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For data centers and IP core transport"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"[link]"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"#### Other Available Categories"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DIN Power Adapter / Ethernet Media Converter / PoE Accessory / Optical Module / Featured Optical Fiber Devices"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"#### Brand Materials Channel"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Original-source materials from major brands"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### When to contact us"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please contact us if:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- you need model recommendation for a real project"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- you are interested in OEM or partnership"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- something you need is not available"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- you have specific questions after reviewing the files"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### How we work"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom focuses on long-term supply continuity, practical cooperation, and efficient communication."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We support product continuity over the long term and keep hardware, software, and future development aligned throughout the lifecycle."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This helps partners reduce lifecycle risk, avoid repeated validation work, and maintain more stable long-term deployment."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Our way of working is best suited to partners who value clarity, self-service review, and long-term cooperation."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这个结构已经很接近你真正想要的状态了。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"# 八、我的建议：你现在就这么定"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 你要坚持的原则"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1. **先资料，后理念**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2. **先导航，后价值观**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3. **先客户自助，后你介入**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4. **价值观只展示给愿意看到最后的人**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这个顺序很适合你。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"如果你愿意，我下一条可以直接给你："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**一版完整可复制的最终英文成稿**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"按照你这个“先资料后理念”的思路，直接帮你写成可发给客户的正式版本。"
+}
+],
+"header_footer":[
+"2026/Q2                                                                                                                                                         Saga Telecom",
+"www.sagatelecom.com.cn",
+"Tailored Managed Networking Solutions Provider",
+"Built to Last, Continuous Supply, Evolving Together"
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":14763
+}
+]
+}

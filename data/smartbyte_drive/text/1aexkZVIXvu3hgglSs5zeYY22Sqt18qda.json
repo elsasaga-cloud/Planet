@@ -1,0 +1,348 @@
+{
+"id":"1aexkZVIXvu3hgglSs5zeYY22Sqt18qda",
+"name":"和Peter在深圳见面的讨论内容_2026.08.08.docx",
+"path":"SmartByte/和Peter在深圳见面的讨论内容_2026.08.08.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":36547,
+"sha256":"59527810b57f70c726319a5052907b13bab5f1e0c2cf6992b7fd570f76c38b6e",
+"extracted_at":"2026-10-22T01:55:18Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":1989,
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2026-08-08T10:54:00+00:00",
+"modified":"2026-08-08T11:19:09+00:00",
+"paragraphs":63,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"text":"1  Angora需求\n堆叠：多个客户反馈了\nUSB口：2个都没有 但全光口的那个L3型号有\nOOB Management：是否有计划\n双电源：基本OK，但是否有常规出货的外壳，还是case by case\nStatic routing\nOSPF\nVRRP\nECMP\nBGP\nIS-IS\n上述几个基本都支持，BGP  IS-IS 需要确认成熟度（版本）\nBGP\n哪些型号支持?\n当前版本是多少?\n是否量产客户使用?\n是否通过第三方测试?\n最大route scale?\nIS-IS\n是完整IS-IS还是basic support?\nIPv4 only?\n是否实际客户使用?\nVRF\tPASS?\nMPLS\tPASS, 超出了常规L3的需求范围了\n未来是否有Enterprise L3系列规划?\nFeedback: 这些功能硬件上基本都OK，但是软件上会非常麻烦，基于公司的技术实力以及功能维护（bug测试 售前售后支持 更新迭代等），整体上投资回报太低了\n这种需求确实在流行，但并不适合smartbyte\n客户是好客户，功能要求也算是正常，但不是right fit，适合的才是最好的，最省力 投入产出效率是最好的\n目前公司还是集中在L2+系列，需求大，售后支持和升级都相对OK\n可以看到，客户需求是没问题的，我们的发展方向也是没问题的，但就是不适配而已\n应该去找Hohunet或者BDCOM或者其他的公司，做适配，而不是强行去推广或者研发\n给我的启发就是：不管是公司内部流程还是产品线等，作为销售还是要进行调整适配\n这样会更省力，也容易成单，而不是强行去如何\n公司这里不行，那就跳过它，去找OK的，以Peter产品为例，那就是L2+系列，为何非要推L3的?\n否则，很容易投入了时间 金钱 资源等，结果没实际产出，白费力气了\nSaga也是要筛选客户，专注于少数几个适配的客户，一定是适配，去跟着公司资源和方向走\n而不是强行去做一个不知道回报概率有多大的东西\n2  AC5系列 BIN文件 规格书（我看网站上已经写了AC5以及Flash RAM等信息了）\nWEB / CLI Manual  L3 feature list \tMIB文件\tmechanical drawing源文件\n目前仍是不加topology?\nFeedback：目前已经完全推广AC5系列，网站上的信息基本OK，但也没太多精力去计较规格书是否完全正确了，还是因为精力有限，即使信息错一些又如何呢 真正用marvell的客户还是会来的\n不能太追求完美或者精确，这样会很累，而且大多数客户并不会看那么细致，真的有客户问了再谈也OK的\n3  热插拔电源是否长期供货了，网站上似乎没上传产品\nFeedback：问的客户有，但下单的基本是没有的\n还是像第一点和第二点，即使产品线很全，信息很精确，但这离成单有实际转化还很遥远的\n可以想象，公司花了力气搞这个系列，但是没啥单子，如果我是老板，我会如何想呢? 就是把自己带入老板的角色去想一下这个问题 可能会有不同的视角\n时间精力资源花了，但基本没啥产出，那倒不如开始直接专注于L2+，自己最擅长 需求做多的类目\n4  L2的8+2  8+4的10G光\n我看网站上已经宣传了，有挂耳孔吗?\t平时出吗 有库存吗\n商业PoE 我看也是有PoE++口了 正常出货了?\nFeedback: 都可以出了，看需求来谈即可\n5\t白盒系列是都可以出了（软硬件情况?） 还是宣传为主?\n尤其是这个型号 S8554QC-6QC48XS-W\nFeedback: 宣传为主，硬件OK，但软件还是不到位\n从上边可以看到，很多类目和产品都是投入产出很少的，作为精力 / 资源 / 时间有限的员工或者贸易商\n不应该去做 去搞不擅长的类目，投入产出不好的产品\n而是把所有精力放在更有实际转化的产品上，这样能成单 有钱赚，这才是实实在在的东西\n而不是说我们都能做 都能出货，但实际操作下来很麻烦 一团浆糊，大家都很累 结果也很一般\n对于Saga而言，本身就是贸易商，应该专注于手上几个好的客户，维护好，把产品功能理解透去推广\n去筛选合适的客户，然后努力成单，转化为实际的效益\n而不是停留在讨论 想象上，一切为了订单和客户的长期关系来服务\n补充信息：目前内存 PCB涨价非常厉害，商业级型号只能是case by case来报价了\n10G 4光8电可以出货，无挂耳孔，无法直接上机架，DC5V~16V输入，没有AC输入，可以做，但要有量\n[页眉页脚]\nSaga Telecom\nwww.sagatele.com\nAn Engineering & Supply-Chain-First Telecom Partner\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"1  Angora需求"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"堆叠：多个客户反馈了"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"USB口：2个都没有 但全光口的那个L3型号有"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OOB Management：是否有计划"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"双电源：基本OK，但是否有常规出货的外壳，还是case by case"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Static routing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OSPF"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"VRRP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"ECMP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"BGP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IS-IS"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"上述几个基本都支持，BGP  IS-IS 需要确认成熟度（版本）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"BGP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"哪些型号支持?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"当前版本是多少?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"是否量产客户使用?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"是否通过第三方测试?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"最大route scale?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IS-IS"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"是完整IS-IS还是basic support?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IPv4 only?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"是否实际客户使用?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"VRF\tPASS?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MPLS\tPASS, 超出了常规L3的需求范围了"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"未来是否有Enterprise L3系列规划?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Feedback: 这些功能硬件上基本都OK，但是软件上会非常麻烦，基于公司的技术实力以及功能维护（bug测试 售前售后支持 更新迭代等），整体上投资回报太低了"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这种需求确实在流行，但并不适合smartbyte"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"客户是好客户，功能要求也算是正常，但不是right fit，适合的才是最好的，最省力 投入产出效率是最好的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"目前公司还是集中在L2+系列，需求大，售后支持和升级都相对OK"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"可以看到，客户需求是没问题的，我们的发展方向也是没问题的，但就是不适配而已"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"应该去找Hohunet或者BDCOM或者其他的公司，做适配，而不是强行去推广或者研发"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"给我的启发就是：不管是公司内部流程还是产品线等，作为销售还是要进行调整适配"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这样会更省力，也容易成单，而不是强行去如何"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"公司这里不行，那就跳过它，去找OK的，以Peter产品为例，那就是L2+系列，为何非要推L3的?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"否则，很容易投入了时间 金钱 资源等，结果没实际产出，白费力气了"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga也是要筛选客户，专注于少数几个适配的客户，一定是适配，去跟着公司资源和方向走"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"而不是强行去做一个不知道回报概率有多大的东西"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2  AC5系列 BIN文件 规格书（我看网站上已经写了AC5以及Flash RAM等信息了）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"WEB / CLI Manual  L3 feature list \tMIB文件\tmechanical drawing源文件"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"目前仍是不加topology?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Feedback：目前已经完全推广AC5系列，网站上的信息基本OK，但也没太多精力去计较规格书是否完全正确了，还是因为精力有限，即使信息错一些又如何呢 真正用marvell的客户还是会来的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不能太追求完美或者精确，这样会很累，而且大多数客户并不会看那么细致，真的有客户问了再谈也OK的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3  热插拔电源是否长期供货了，网站上似乎没上传产品"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Feedback：问的客户有，但下单的基本是没有的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"还是像第一点和第二点，即使产品线很全，信息很精确，但这离成单有实际转化还很遥远的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"可以想象，公司花了力气搞这个系列，但是没啥单子，如果我是老板，我会如何想呢? 就是把自己带入老板的角色去想一下这个问题 可能会有不同的视角"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"时间精力资源花了，但基本没啥产出，那倒不如开始直接专注于L2+，自己最擅长 需求做多的类目"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4  L2的8+2  8+4的10G光"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"我看网站上已经宣传了，有挂耳孔吗?\t平时出吗 有库存吗"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"商业PoE 我看也是有PoE++口了 正常出货了?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Feedback: 都可以出了，看需求来谈即可"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"5\t白盒系列是都可以出了（软硬件情况?） 还是宣传为主?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"尤其是这个型号 S8554QC-6QC48XS-W"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Feedback: 宣传为主，硬件OK，但软件还是不到位"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"从上边可以看到，很多类目和产品都是投入产出很少的，作为精力 / 资源 / 时间有限的员工或者贸易商"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不应该去做 去搞不擅长的类目，投入产出不好的产品"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"而是把所有精力放在更有实际转化的产品上，这样能成单 有钱赚，这才是实实在在的东西"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"而不是说我们都能做 都能出货，但实际操作下来很麻烦 一团浆糊，大家都很累 结果也很一般"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"对于Saga而言，本身就是贸易商，应该专注于手上几个好的客户，维护好，把产品功能理解透去推广"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"去筛选合适的客户，然后努力成单，转化为实际的效益"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"而不是停留在讨论 想象上，一切为了订单和客户的长期关系来服务"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"补充信息：目前内存 PCB涨价非常厉害，商业级型号只能是case by case来报价了"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"10G 4光8电可以出货，无挂耳孔，无法直接上机架，DC5V~16V输入，没有AC输入，可以做，但要有量"
+}
+],
+"header_footer":[
+"Saga Telecom",
+"www.sagatele.com",
+"An Engineering & Supply-Chain-First Telecom Partner",
+"Built to Last, Continuous Supply, Evolving Together"
+]
+}

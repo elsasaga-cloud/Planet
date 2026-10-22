@@ -1,0 +1,975 @@
+{
+"id":"1RiVTUl9pi8wbBKRz_7SeXLoDoCfU5yS8",
+"name":"PROFILE_2025Q4.docx",
+"path":"SmartByte/PROFILE_2025Q4.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":8789939,
+"sha256":"a6ba117f73eb053feae429432ee4764abc2d83170821f693c073d08978936be3",
+"extracted_at":"2026-10-22T01:55:15Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":9537,
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2023-07-22T16:14:00+00:00",
+"modified":"2025-06-28T09:57:26+00:00",
+"paragraphs":143,
+"tables":2,
+"embedded_images":39
+},
+"warnings":[],
+"text":"Company Information\nSaga Telecom is a reliable manufacturer and trader of good-quality fiber optic devices and transmission solutions, and focuses on industrial networking, CCTV surveillance, fiber optic transmission and featured optical fiber devices for industrial automation, vehicle network, security monitoring etc.\nBacked by diversified product portfolio and mature business system, Saga Telecom gains good feedback overseas especially in USA and EU market\nIn the meantime, Saga Telecom is actively seeking trustworthy partners and enhancing its presence in the network telecommunications field\nCore Value\nConnecting, Converting, Creating\nSaga Telecom connects talents and ideas that may drive itself forward\nSaga Telecom converts mature business system to all-round growth\nSaga Telecom creates betterness from expertise and solution package\nFactory Information\nOur production base is in Huizhou city, Guangdong Province\nProduction Area: 7,000 square meters\nProduction Capacity(Per Month): Around 3K for popular DIN-RAIL models\nhttps://drive.google.com/drive/folders/13XV6vaQ6lvYGj0aVoKHj-_Rw6YKPVj3g?usp=drive_link\nMain Chip Solution: Marvell AellyCat5 Series(AC5)\nhttps://www.marvell.com/content/dam/marvell/en/public-collateral/switching/marvell-prestera-98DX25xx-product-brief.pdf\nhttps://www.marvell.com/content/dam/marvell/en/public-collateral/switching/marvell-prestera-98DX35xx-product-brief.pdf\nPersonnel Strength\nHW Engineer: 5\nSW Engineer: 10\nTest Engineer: 5\nNumber of SMT Line: 2\nNumber of DIP Line: 5\nNumber of Test Line: 4\nNumber of Assembly Line: 10\nProduction Equipment\nLightning Surge Generator\nTEMP & HUMI Test Chamber\nPerformance Test Rack\n...\nProduct Line\nCommercial Ethernet\nIndustrial Networking\nDin Power Adapter\nEthernet Media Converter\nPoE Accessory\nOptical Module\nFeatured Optical Fiber Devices\nHigh-Speed Network(STH Series)\nTransmission Solution(STT Series, to be released)\nProduction Step\nThe standard production mainly consists of 8 steps\nProcessing>Cleaning>Assembling>Testing>Aging>Performance Testing>QC Testing>Packing\nPCBA Processing: SMT welding and DIP insertion.\nWith professional equipment, this increase accuracy and efficiency.\nCleaning: To avoid any possible dysfunction due to dust or scraps on the PCB boards.\nConformal coatings will sometimes be used to protected the PCB boards.\nAssembling: Build up components of a product, like panels, screws, PCB boards.\nBasic Testing: To make sure the product, after assembling, is basically working fine such as LED indicator, voltage range...\nAging: This is a preparation step for comprehensive performance test.\nDevices will be put in the ageing chamber for 8 or 24 hours.\nPerformance Testing: This requires professional equipment to check if the device meets the standard such as lighting surge, data loss or working temperature range...\nTHIS IS THE MOST IMPORTANT STEP TO SECURE GOOD QUALITY.\nQC Testing: This is the third and also last check covering product appearance and ping testing.\nDevice outlook will be inspected to avoid improperly placed PVC mask or scratches on the casing.\nPing testing will be done to all the devices and then there will be another random testing.\nPacking: Labels will be attached on the device, accessories(user manual, mounting kit, power supply ...)will be placed in the box for sealing.\nWhen all above is done, the product will go to market.\nRemark\nAgeing Time: 8 to 24 hours(at least 8 hours)\n8 hours for frequently ordered models\n24 hours for customized models to ensure stable operation\nThe actual ageing time depends on complaint rate and order urgency\nIf we have not received negative feedback for a long time(like popular models STI-244GP and STI-050GE), we simply do the ageing time 8 hours for fast delivery\nProduct Category\nIndustrial Unmanaged Switch\nhttps://drive.google.com/drive/folders/16-Puvcm-k78ohw452vHUthWWr51Fkg1Y?usp=drive_link\nFull Copper\nFiber & Copper\nPoE/PoE+(WITHOUT PoE++)\nIndustrial Managed Switch\nhttps://drive.google.com/drive/folders/1agbuT_zU4gyWX2VpG7zlaTsAScMCYKbT?usp=drive_link\nL2\nL2+\nL3\nPoE/PoE+\nPoE/PoE+/PoE++\nCommercial Managed Switch\nhttps://drive.google.com/drive/folders/1514zri3WCqq_41jko8WBr-aOPYJNFwm0?usp=drive_link\nL2+\nL3\nPoE/PoE+(WITHOUT PoE++)\nEthernet Media Converter\nhttps://drive.google.com/drive/folders/1chVSOnPIH_7Y4eE4knwUNgwotdY6Zguk?usp=drive_link\n100M\n1G\n10G\nWITHOUT PoE Models\nChip Solution\nMarvell switching SoCs provide a cost-efficient, scalable, and performance-driven solution widely adopted across industrial and edge networking scenarios\nFeature\tMarvell / 98DX225S / 98DX226S / 98DX336S\tRealtek / RTL83xx / RTL93x6 / RTL93xx\tBroadcom / BCM56150 / BCM56160 / BCM56340\nTarget Market\tSMBs / Enterprise Network / Industrial Ethernet\tSMBs / Small Enterprise Networks\tEnterprise Network / Industrial Ethernet\nPerformance\tHigh Throughput / Low Latency / Strong Network Security EMI/EMC Compatibility\tBasic Throughput / Low Latency / Basic Security Features\tHigh Throughput / Low Latency / Strong Network Security / EMI/EMC Compatibility\nNetwork Security\tAdvanced Encryption and Security Protocols\tBasic Security Features\tAdvanced Security Features / Encryption, Traffic Control\nEMI/EMC Compatibility\tOptimized / Suitable for Industrial Environments\tAverage / Suitable for Home and Small Office Environments\tOptimized / Suitable for Industrial Environments\nPower Consumption\tLow Power Design\tLow Power\tHigher Power Consumption / Suitable for High-load Environments\nProgrammability\tProgrammable ASIC Framework\tNo Programmability\tProgrammable, but Focused on Enterprise-level Applications\nCost\tMid to High\tLow Cost\tHigh Cost / Suitable for High-end Markets\nBuilt on Marvell—Trusted by Industry Leaders\nCisco: Marvell Prestera® 98DX series powers models like the Cisco CBS350 and SG350X series, widely deployed in SMB and campus networks\nAllied Telesis: use Marvell switching silicon in its IE200 series for industrial Ethernet deployment\nBelden/Hirschmann: adopt Marvell chips in RSP and RSPE modular switch series for factory automation\nDelta Electronics: apply Marvell-based designs in industrial PoE switches for building automation and green energy systems\nSchneider Electric: integrate Marvell Prestera® DX1500 chips in new-gen OT/IT network platforms\nThose brands choose Marvell not for cost, but for stability, longevity and performance under real-world loads\nWe are working hard to be a Tailored Marvell Managed Networking Solutions Provider...\nHardware Design\nGood EMI/EMC Compatibility\nGood Heat Dissipation\nChipset\nProgrammable ASIC Framework(Flexible Customization and Compatibility)\nAdvanced Network Security Features(MACsec, ACLs, SFTP, DPI)\nHigh Integration Capability(SONiC, SNMP, NETCONF/YANG)\nApplication\nHigh Throughput and Low Latency(Ideal in Massive Data Traffic and High-speed Real-time Communications)\nEfficient Low-power Operation(Green Energy and Longer Service Life)\nFlexible Network Topology(Ring, Star, Tree Configurations)\nHigh Reliability and Fault Tolerance(Link Aggregation, Self-healing Network, High MTBF)\nThese features ensure stable performance in the following high-end projects while providing future scalability\nIndustrial IoT(IIoT)\nSmart Grid & Energy Management\nIndustrial Automation & Remote Control Systems\nSmart City Infrastructure\nSurveillance & Security Systems\nSMBs and Enterprise-Level Networks\nDI/DO/RS485: Smart Monitoring and Serial Communication\nOptical Bypass: Optical Path Protection and Network Failover Redundancy\nMagnetic Door Closed: Alarm Not Triggered\tMagnetic Door Opened: Alarm Triggered\nRJ45/Fiber Connection Fault\tPower Failure\nAlarm Output & Notification Methods\nBusiness Mode\nSaga Telecom is being digital and paperless to be efficient and eco-friendly #gogreen\nIt will ONLY be electronic information unless it is specifically requested\nWe are convinced that this will be the future of our industry and a key element of a responsible approach to business\nSimplified, Standard, Solution based\nThis is applicable to our before-, in- and after-sales services\nAll is about a s truly helpful solution\nIf what you need is not available on our list, we will help source it(it will be an add-on price)if acceptable\nSaga Telecom proposes a buffet-style business communication\nAll the information is available without asking\nA google link containing full information of each category(see links above)is created accessible to anyone\nAnyone could read or download it anytime and anywhere\nBusiness details are being continuously updated\nWe have been absorbing useful information and will update it in the link(an overall update on quarterly basis)\nLike product query, application...\nSo latest information will be available all the time\nValue and growth manifest itself\nWe understand that a client may have a lot of choices/suppliers\nIn any case, we will do our best to support our client base with good expertise, good service and good solution\nMeanwhile, we are welcoming feedback from you\nCompare our products with existing or other suppliers\nLet us know where we could improve\nIt starts from the promise of professionalism and goes far beyond\nIt is not only about fiber optic connection, but also about human connection\n[页眉页脚]\nProfile            \t\t\t \t                                                                             a.sagatelecom@gmail.com\n\t\t\t\t\t\t\t                                                                       Saga Telecom\n2025/Q4\t\t\t\t\t\t\t\t                         www.sagatelecom.com.cn\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Company Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom is a reliable manufacturer and trader of good-quality fiber optic devices and transmission solutions, and focuses on industrial networking, CCTV surveillance, fiber optic transmission and featured optical fiber devices for industrial automation, vehicle network, security monitoring etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Backed by diversified product portfolio and mature business system, Saga Telecom gains good feedback overseas especially in USA and EU market"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"In the meantime, Saga Telecom is actively seeking trustworthy partners and enhancing its presence in the network telecommunications field"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Core Value"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connecting, Converting, Creating"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom connects talents and ideas that may drive itself forward"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom converts mature business system to all-round growth"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom creates betterness from expertise and solution package"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Factory Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Our production base is in Huizhou city, Guangdong Province"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Production Area: 7,000 square meters"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Production Capacity(Per Month): Around 3K for popular DIN-RAIL models"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://drive.google.com/drive/folders/13XV6vaQ6lvYGj0aVoKHj-_Rw6YKPVj3g?usp=drive_link"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Main Chip Solution: Marvell AellyCat5 Series(AC5)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.marvell.com/content/dam/marvell/en/public-collateral/switching/marvell-prestera-98DX25xx-product-brief.pdf"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.marvell.com/content/dam/marvell/en/public-collateral/switching/marvell-prestera-98DX35xx-product-brief.pdf"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Personnel Strength"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"HW Engineer: 5"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SW Engineer: 10"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Test Engineer: 5"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Number of SMT Line: 2"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Number of DIP Line: 5"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Number of Test Line: 4"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Number of Assembly Line: 10"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Production Equipment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Lightning Surge Generator"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"TEMP & HUMI Test Chamber"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Performance Test Rack"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product Line"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Commercial Ethernet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Industrial Networking"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Din Power Adapter"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ethernet Media Converter"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE Accessory"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Optical Module"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Featured Optical Fiber Devices"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"High-Speed Network(STH Series)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Transmission Solution(STT Series, to be released)"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Production Step"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The standard production mainly consists of 8 steps"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Processing>Cleaning>Assembling>Testing>Aging>Performance Testing>QC Testing>Packing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PCBA Processing: SMT welding and DIP insertion."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"With professional equipment, this increase accuracy and efficiency."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Cleaning: To avoid any possible dysfunction due to dust or scraps on the PCB boards."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Conformal coatings will sometimes be used to protected the PCB boards."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Assembling: Build up components of a product, like panels, screws, PCB boards."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Basic Testing: To make sure the product, after assembling, is basically working fine such as LED indicator, voltage range..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Aging: This is a preparation step for comprehensive performance test."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Devices will be put in the ageing chamber for 8 or 24 hours."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Performance Testing: This requires professional equipment to check if the device meets the standard such as lighting surge, data loss or working temperature range..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"THIS IS THE MOST IMPORTANT STEP TO SECURE GOOD QUALITY."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"QC Testing: This is the third and also last check covering product appearance and ping testing."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Device outlook will be inspected to avoid improperly placed PVC mask or scratches on the casing."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ping testing will be done to all the devices and then there will be another random testing."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing: Labels will be attached on the device, accessories(user manual, mounting kit, power supply ...)will be placed in the box for sealing."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"When all above is done, the product will go to market."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ageing Time: 8 to 24 hours(at least 8 hours)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8 hours for frequently ordered models"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"24 hours for customized models to ensure stable operation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The actual ageing time depends on complaint rate and order urgency"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If we have not received negative feedback for a long time(like popular models STI-244GP and STI-050GE), we simply do the ageing time 8 hours for fast delivery"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Product Category"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Industrial Unmanaged Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://drive.google.com/drive/folders/16-Puvcm-k78ohw452vHUthWWr51Fkg1Y?usp=drive_link"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Full Copper"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Fiber & Copper"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE/PoE+(WITHOUT PoE++)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Industrial Managed Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://drive.google.com/drive/folders/1agbuT_zU4gyWX2VpG7zlaTsAScMCYKbT?usp=drive_link"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"L2"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"L2+"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"L3"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE/PoE+"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE/PoE+/PoE++"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Commercial Managed Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://drive.google.com/drive/folders/1514zri3WCqq_41jko8WBr-aOPYJNFwm0?usp=drive_link"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"L2+"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"L3"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE/PoE+(WITHOUT PoE++)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ethernet Media Converter"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://drive.google.com/drive/folders/1chVSOnPIH_7Y4eE4knwUNgwotdY6Zguk?usp=drive_link"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"100M"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1G"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"10G"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"WITHOUT PoE Models"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Chip Solution"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Marvell switching SoCs provide a cost-efficient, scalable, and performance-driven solution widely adopted across industrial and edge networking scenarios"
+},
+{
+"t":"table",
+"rows":[
+[
+"Feature",
+"Marvell / 98DX225S / 98DX226S / 98DX336S",
+"Realtek / RTL83xx / RTL93x6 / RTL93xx",
+"Broadcom / BCM56150 / BCM56160 / BCM56340"
+],
+[
+"Target Market",
+"SMBs / Enterprise Network / Industrial Ethernet",
+"SMBs / Small Enterprise Networks",
+"Enterprise Network / Industrial Ethernet"
+],
+[
+"Performance",
+"High Throughput / Low Latency / Strong Network Security EMI/EMC Compatibility",
+"Basic Throughput / Low Latency / Basic Security Features",
+"High Throughput / Low Latency / Strong Network Security / EMI/EMC Compatibility"
+],
+[
+"Network Security",
+"Advanced Encryption and Security Protocols",
+"Basic Security Features",
+"Advanced Security Features / Encryption, Traffic Control"
+],
+[
+"EMI/EMC Compatibility",
+"Optimized / Suitable for Industrial Environments",
+"Average / Suitable for Home and Small Office Environments",
+"Optimized / Suitable for Industrial Environments"
+],
+[
+"Power Consumption",
+"Low Power Design",
+"Low Power",
+"Higher Power Consumption / Suitable for High-load Environments"
+],
+[
+"Programmability",
+"Programmable ASIC Framework",
+"No Programmability",
+"Programmable, but Focused on Enterprise-level Applications"
+],
+[
+"Cost",
+"Mid to High",
+"Low Cost",
+"High Cost / Suitable for High-end Markets"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Built on Marvell—Trusted by Industry Leaders"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Cisco: Marvell Prestera® 98DX series powers models like the Cisco CBS350 and SG350X series, widely deployed in SMB and campus networks"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Allied Telesis: use Marvell switching silicon in its IE200 series for industrial Ethernet deployment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Belden/Hirschmann: adopt Marvell chips in RSP and RSPE modular switch series for factory automation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Delta Electronics: apply Marvell-based designs in industrial PoE switches for building automation and green energy systems"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Schneider Electric: integrate Marvell Prestera® DX1500 chips in new-gen OT/IT network platforms"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Those brands choose Marvell not for cost, but for stability, longevity and performance under real-world loads"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We are working hard to be a Tailored Marvell Managed Networking Solutions Provider..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Hardware Design"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Good EMI/EMC Compatibility"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Good Heat Dissipation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Chipset"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Programmable ASIC Framework(Flexible Customization and Compatibility)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Advanced Network Security Features(MACsec, ACLs, SFTP, DPI)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"High Integration Capability(SONiC, SNMP, NETCONF/YANG)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Application"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"High Throughput and Low Latency(Ideal in Massive Data Traffic and High-speed Real-time Communications)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Efficient Low-power Operation(Green Energy and Longer Service Life)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Flexible Network Topology(Ring, Star, Tree Configurations)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"High Reliability and Fault Tolerance(Link Aggregation, Self-healing Network, High MTBF)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"These features ensure stable performance in the following high-end projects while providing future scalability"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Industrial IoT(IIoT)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Smart Grid & Energy Management"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Industrial Automation & Remote Control Systems"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Smart City Infrastructure"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Surveillance & Security Systems"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SMBs and Enterprise-Level Networks"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DI/DO/RS485: Smart Monitoring and Serial Communication"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Optical Bypass: Optical Path Protection and Network Failover Redundancy"
+},
+{
+"t":"table",
+"rows":[
+[
+"Magnetic Door Closed: Alarm Not Triggered",
+"Magnetic Door Opened: Alarm Triggered"
+],
+[
+"RJ45/Fiber Connection Fault",
+"Power Failure"
+],
+[
+"Alarm Output & Notification Methods"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Business Mode"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom is being digital and paperless to be efficient and eco-friendly #gogreen"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It will ONLY be electronic information unless it is specifically requested"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We are convinced that this will be the future of our industry and a key element of a responsible approach to business"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Simplified, Standard, Solution based"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is applicable to our before-, in- and after-sales services"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"All is about a s truly helpful solution"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If what you need is not available on our list, we will help source it(it will be an add-on price)if acceptable"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom proposes a buffet-style business communication"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"All the information is available without asking"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A google link containing full information of each category(see links above)is created accessible to anyone"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Anyone could read or download it anytime and anywhere"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Business details are being continuously updated"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We have been absorbing useful information and will update it in the link(an overall update on quarterly basis)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Like product query, application..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"So latest information will be available all the time"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Value and growth manifest itself"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We understand that a client may have a lot of choices/suppliers"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"In any case, we will do our best to support our client base with good expertise, good service and good solution"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Meanwhile, we are welcoming feedback from you"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Compare our products with existing or other suppliers"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Let us know where we could improve"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It starts from the promise of professionalism and goes far beyond"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is not only about fiber optic connection, but also about human connection"
+}
+],
+"header_footer":[
+"Profile            \t\t\t \t                                                                             a.sagatelecom@gmail.com\n\t\t\t\t\t\t\t                                                                       Saga Telecom",
+"2025/Q4\t\t\t\t\t\t\t\t                         www.sagatelecom.com.cn",
+"Connecting, Converting, Creating",
+"Tailored Marvell Managed Networking Solutions Provider"
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.jpeg",
+"bytes":41023
+},
+{
+"name":"image10.jpeg",
+"bytes":40620
+},
+{
+"name":"image11.jpeg",
+"bytes":21807
+},
+{
+"name":"image12.jpeg",
+"bytes":27376
+},
+{
+"name":"image13.jpeg",
+"bytes":15392
+},
+{
+"name":"image14.jpeg",
+"bytes":17480
+},
+{
+"name":"image15.jpeg",
+"bytes":16583
+},
+{
+"name":"image16.jpeg",
+"bytes":18093
+},
+{
+"name":"image17.jpeg",
+"bytes":58993
+},
+{
+"name":"image18.jpeg",
+"bytes":53030
+},
+{
+"name":"image19.jpeg",
+"bytes":29796
+},
+{
+"name":"image2.jpeg",
+"bytes":41300
+},
+{
+"name":"image20.jpeg",
+"bytes":29449
+},
+{
+"name":"image21.png",
+"bytes":1566177
+},
+{
+"name":"image22.png",
+"bytes":1378404
+},
+{
+"name":"image23.png",
+"bytes":1228274
+},
+{
+"name":"image24.png",
+"bytes":531809
+},
+{
+"name":"image25.png",
+"bytes":624514
+},
+{
+"name":"image26.png",
+"bytes":329196
+},
+{
+"name":"image27.png",
+"bytes":662519
+},
+{
+"name":"image28.jpeg",
+"bytes":90027
+},
+{
+"name":"image29.jpeg",
+"bytes":51049
+},
+{
+"name":"image3.jpeg",
+"bytes":58908
+},
+{
+"name":"image30.jpeg",
+"bytes":58019
+},
+{
+"name":"image31.png",
+"bytes":111273
+},
+{
+"name":"image32.png",
+"bytes":198547
+},
+{
+"name":"image33.jpeg",
+"bytes":23811
+},
+{
+"name":"image34.png",
+"bytes":190551
+},
+{
+"name":"image35.png",
+"bytes":145637
+},
+{
+"name":"image36.png",
+"bytes":14763
+},
+{
+"name":"image37.png",
+"bytes":367714
+},
+{
+"name":"image38.png",
+"bytes":355701
+},
+{
+"name":"image4.jpeg",
+"bytes":51737
+},
+{
+"name":"image5.jpeg",
+"bytes":60477
+},
+{
+"name":"image6.jpeg",
+"bytes":62829
+},
+{
+"name":"image7.jpeg",
+"bytes":57310
+},
+{
+"name":"image8.jpeg",
+"bytes":55560
+},
+{
+"name":"image9.jpeg",
+"bytes":50558
+}
+]
+}

@@ -1,0 +1,2485 @@
+{
+"id":"1wFAb0yc5LU8jKylKf2KZxOvreVhmR-81",
+"name":"功能卖点.docx",
+"path":"SmartByte/功能卖点.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":52969,
+"sha256":"4d06706aa44c87321e8f73c01757481a0c44c6c3b395082ec31940540508e6c9",
+"extracted_at":"2026-10-22T01:55:17Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":9988,
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2026-02-02T09:36:00+00:00",
+"modified":"2026-04-30T07:24:03+00:00",
+"paragraphs":481,
+"tables":1,
+"embedded_images":0
+},
+"warnings":[],
+"text":"DI/DO/RS485: 马上全系列支持\n工业接口扩展（DI/DO/RS485）\n大多数交换机只提供网络端口，而你们提供 DI/DO（数字输入/输出）、RS485 串口\n这让交换机不仅是“通信设备”，还能直接融入 工控、安防报警、传感器/PLC 联动 系统\n卖点：“通信+控制一体化”，减少额外的 I/O 控制器设备\nSFTP\n新的Feature List\nBypass\n断电时自动保持链路连通，工业/电力/交通客户特别看重\n常见于高端工业交换机，低端品牌基本没有\n卖点：“关键链路 0 中断”，保证可靠性\n升压模块/Switch\n普通交换机如果 DC 输入不足（比如 24V），PoE 输出会受限；你们支持电压升压，让 PoE 在弱电环境依然稳定\n卖点：“低压环境也能稳定供电”（适合监控/轨交/新能源场景）\n双电源/风扇监控\n丰富的端口和功能选择（battery chargeable, 热插拔）\n双电源冗余本身常见，但你们还加了风扇监控、支持外接电池充电（Battery Chargeable）\n热插拔模块化设计（如风扇、电源）也提升了维护体验\n卖点：“全方位电源健康管理”，让设备更贴合工业/能源客户需求\n你们覆盖 1G / 2.5G / 10G，电口+光口组合灵活，PoE 功率可选\nManaged Networking + 多种功能选择，更容易满足定制需求\n卖点：为客户量身定制（Tailored Marvell Managed Networking）\nERPS < 20ms 快速环网保护（工业级可靠性）\n文件证据：\nERPS < 20ms（产品目录明确标注）\nERPS/MSTP/RSTP/STP redundancy technologies（核心功能）\n为什么独特：\n行业标准ERPS切换时间普遍为30-50ms（如华为S5700），超过20ms会导致PLC停机\nSaga <20ms切换，满足汽车工厂、电网调度等对网络零中断的严苛要求（如特斯拉工厂要求<25ms）\n竞品对比：Cisco工业交换机ERPS需配置额外模块，成本+40%\n排名\t功能\t为什么主推（客户痛点）\t推荐宣传话术（中英）\n1\t工业级硬核 + DI/DO/RS485 + USB一键\t工厂、轨道、能源最关心“能不能在恶劣环境活下来”\t“-40~+70℃ 无风扇 IP40 + 6KV防浪涌 + 原生 DI/DO/RS485 + USB一键配置升级，野外换设备 3 分钟搞定”\n2\tERPS G.8032 ≤20ms + Single Ring 无限制\t工业环网是刚需，20ms 是行业顶级\t“真·运营商级环网，断纤20ms内自愈，单环设备数量无限制，监控/PLC网络永不断网”\n3\tPoE++ 90W（1-4口）+ 双电源总370W\t高功率 PTZ、5G小基站、LED显示屏越来越常见\t“单口90W BT标准，双电源370W预算，彻底告别‘PoE不够用’的尴尬”\n4\tMQTT + sFLOW（你特别问的）\t这是2025年最时髦的“智能运维”卖点\t“支持 MQTT 主动推送 + sFLOW 采样流量分析，可直接对接阿里云/华为云/自建平台，实现交换机‘秒级心跳 + 流量可视化’，运维从被动变主动”\n5\t全功能 L3（BGP/IS-IS/OSPF/RIP + VRRP + ECMP + 13K路由表）\t让它从“接入”变成“轻核心”，单台顶多台\t“13K路由表 + BGP/IS-IS 完整支持，一台设备搞定园区汇聚 + 跨园区路由，性价比直接打爆竞品”\n6\t现代安全+运维套件（Dying Gasp / One-click / Optical adaptive / Private VLAN / ACL Time Range）\t政府/安防/等保项目必看\t“Dying Gasp断电最后一吼 + 一键故障打包 + 光模块自适应 + 32组端口隔离，运维和安全一次满足”\n推广策略建议（不同场景打法）\n智慧工厂 / 能源 / 化工：1+2+4+DI/DO/RS485（MQTT + 串口透明传输最香）\n视频监控 / 智慧城市：2+3+4+6（ERPS环网 + PoE++ + MQTT + sFLOW 流量看视频带宽）\n智能交通 / 轨道：1+2+5（工业级 + 环网 + L3动态路由 + VRRP 冗余）\n通用企业/园区：3+5+6（高功率PoE + 13K L3 + 现代管理）\n后期推广就死磕 “工业级 + 超快环网 + MQTT/sFLOW智能管理 + 高功率PoE + 全L3” 这五个组合拳，基本无敌。\n我\n这是之前总结的我们的产品卖点 我有几个问题\n1. 这个环网时间其实我并不确定 因为我问了技术 似乎是没正式测试过\n不知道为啥写了20ms\nAC5相关的芯片信息里啥的能支持这个数据吗？\n2. 4 5 6点的配置 运维相关的 是一个组合卖点吗 我看一些都有点偏技术了\n比如L3 13K等\nMAX\n可以，我直接按你的两个问题来讲，顺便把哪些说法适合对外、哪些最好先收一收也一起帮你理一下。\n---\n# 先说结论\n## 1）ERPS `<20ms` 这个说法\n如果没正式测试过，就不要对外写死 `<20ms`。\n原因很简单：\n- 芯片能力 ≠ 整机实测结果\n- ERPS恢复时间是“整机/软件/拓扑/配置/负载”共同决定的\n- 你们如果现在只是“文档里写了”，但没有测试报告，后面客户一追问测试条件，很容易被问住\n### 更稳妥的结论\n如果目前没有正式验证，建议先改成：\n- Supports ERPS G.8032 ring protection\n- Fast ring recovery for industrial networks\n- Supports ERPS/MSTP/RSTP/STP redundancy technologies\n中文可以写成：\n- 支持 ERPS G.8032 工业环网保护\n- 支持快速环网自愈\n- 支持 ERPS/MSTP/RSTP/STP 冗余机制\n先别写具体数字。\n---\n## 2）你说的 4 / 5 / 6 点\n不建议硬合成一个卖点。\n因为这三类东西其实不是同一层：\n### 4）MQTT + sFlow\n偏 智能运维 / 云平台对接 / 可视化监控\n### 5）Full L3 + 13K + BGP/OSPF/VRRP/ECMP\n偏 高级组网能力 / 汇聚与路由能力\n### 6）Dying Gasp / One-click / SFTP / Private VLAN / ACL Time Range\n偏 运维效率 + 安全控制\n所以更合理的分法是：\n---\n# 最合理的拆分方式\n## A. 智能运维与安全套件\n把这些放一起：\n- MQTT\n- sFlow\n- Dying Gasp\n- One-click diagnostics / USB一键配置/升级\n- SFTP\n- 风扇监控 / 电源监控\n- Private VLAN\n- ACL Time Range\n- Optical adaptive（如果这个确实是稳定性/兼容性功能）\n这是一个组合卖点，名称可以叫：\n### 中文\n- 智能运维与安全套件\n- 可视化运维与安全加固\n- 工业级智能管理能力\n### 英文\n- Smart O&M and Security Suite\n- Intelligent Management & Security\n- Advanced Operations and Security Features\n---\n## B. 高级三层组网能力\n把这些放一起：\n- Static Routing\n- RIP / OSPF / BGP / IS-IS\n- VRRP\n- ECMP\n- 13K Routing Table\n这是另一个卖点，名称可以叫：\n### 中文\n- 高级三层组网能力\n- 轻汇聚/边缘路由能力\n- 从接入到汇聚的一体化组网\n### 英文\n- Advanced Layer 3 Routing\n- Aggregation and Edge Routing Capability\n- Scalable Layer 3 Networking\n---\n# 回答你第一个问题：ERPS `<20ms` 到底能不能写\n---\n## 一、为什么不能只看 AC5 芯片就下结论\n如果你们用的是 Marvell AC5 / Prestera AC5 这类交换芯片，它确实说明：\n- 芯片本身有较强的二层/三层转发能力\n- 能支持工业/企业交换机常见的冗余、L2/L3、ACL、QoS 等功能\n- 从平台能力上，“支持ERPS”是合理的\n- 但 “ERPS恢复时间小于20ms”不是只靠芯片型号就能直接推出的\n因为恢复时间还取决于：\n1. ERPS实现方式\n是 SDK 自带？你们自己适配？CPU参与多少？\n2. 设备软件版本\n3. 环网节点数量\n4. 链路速率\n5. 是否有业务流量、流量大小\n6. 故障类型\n- 断纤\n- 某节点掉电\n- 某端口 flap\n7. 倒换模式\n- revertive / non-revertive\n8. FDB flush / MAC收敛处理\n9. 定时器配置\n所以：\n> AC5 可以支撑你们“支持ERPS、具备快速恢复能力”这个方向\n> 但 不能单独作为“<20ms”这个数字的证据。\n---\n## 二、行业里一般怎么写才稳\n### 如果没测试过\n对外建议写：\n- Supports ERPS G.8032 ring protection\n- Fast recovery ring redundancy\n- Industrial redundancy with ERPS / RSTP / MSTP / STP\n别写具体数字。\n---\n### 如果做过基本测试，但条件有限\n可以写得更谨慎一点：\n- Typical recovery time depends on network topology and configuration\n- Fast recovery in typical ring deployments\n- Recovery performance available upon validation request\n中文：\n- 实际恢复时间取决于网络拓扑与配置\n- 在典型环网部署下具备快速恢复能力\n- 可根据项目需求提供验证\n---\n### 如果以后你们真测出了结果\n那就要写完整条件，而不是只写裸数字：\n例如：\n> ERPS recovery time can be less than 20 ms in a single-ring topology under specified test conditions.\n中文：\n> 在特定测试条件下，单环拓扑ERPS恢复时间可低于20ms。\n注意这里有几个关键词必须有：\n- can be\n- under specified test conditions\n- single-ring topology\n这样才专业，也不容易被抓漏洞。\n---\n## 三、你们现在最好先查的三件事\n### 1. 这个 `<20ms` 最早是谁写的\n你先追一下来源：\n- 是旧产品目录沿用的？\n- 是 ODM/OEM 给的？\n- 是芯片原厂参考设计写的？\n- 是某个工程项目口头说过？\n- 是某次内部样机测过但没留报告？\n如果找不到来源，建议直接判定为不可对外承诺。\n---\n### 2. 看 SDK / 芯片资料里有没有明确提 ERPS performance\n你可以让技术或FAE去查：\n- Marvell SDK feature list\n- SDK release notes\n- reference design notes\n- Prestera 文档里是否有 ERPS/G.8032\n- 是否有 recovery benchmark / failover benchmark\n但即使芯片文档写了，也通常只能证明平台支持这类能力，不能100%替代你们整机实测。\n---\n### 3. 赶紧做一个最基础的内部测试\n如果这个卖点很重要，建议尽快补测试。\n---\n## 四、建议你们怎么测 ERPS，才好用于宣传\n最少要定义清楚下面这些条件：\n### 测试项\n- 单环拓扑\n- 节点数量：例如 4 / 8 / 16 / 32\n- 故障类型：\n- 单点断纤\n- 节点断电\n- 业务流：\n- 空载\n- 带流量\n- 测量方式：\n- 丢包时长\n- ping中断时间\n- 流量中断时间\n- 软件版本\n- 配置版本\n### 最终你们对外能拿来写的数据应该像这样：\n- <20 ms in 8-node single ring, fiber cut, under lab test conditions\n- <50 ms in 16-node ring, typical industrial traffic\n哪怕数字没那么激进，只要真实，也比“空写20ms”更能打。\n---\n## 五、顺手提醒：这些说法也有点危险\n你上面有几句宣传语，我建议也一起收敛一下。\n### 1. “关键链路 0 中断”\n这个非常危险。\n除非真的是硬件 bypass且你们定义的是特定链路直通，不然“0中断”太绝对。\n更稳妥写法：\n- Minimize network interruption\n- Maintain link continuity during power loss\n- Hardware bypass to preserve critical link connectivity\n---\n### 2. “单环设备数量无限制”\n这个也建议不要写“无限制”。\n任何产品实际上都会受限于：\n- 管理规模\n- MAC表项\n- CPU处理能力\n- 配置复杂度\n- 实际工程可维护性\n更稳妥写法：\n- Supports large-scale single-ring deployments\n- Supports flexible ring expansion\n- Designed for scalable ring topologies\n---\n### 3. “打爆竞品”“行业顶级”\n内部讨论可以，外部不要这么写。\n外部最好是：\n- Designed for demanding industrial applications\n- High-availability industrial networking\n- Advanced feature set for mission-critical environments\n---\n# 回答你第二个问题：4/5/6 到底是不是一个组合卖点\n---\n## 一、严格来说，不是一个组合\n因为它们分别对应三个不同价值：\n### 4）MQTT + sFlow\n客户获得的是：\n- 主动上报\n- 流量可视化\n- 云平台对接\n- 可观测性提升\n这叫 智能运维 / 可视化管理\n---\n### 5）L3 / 13K / BGP / OSPF / VRRP / ECMP\n客户获得的是：\n- 组网层级减少\n- 支持更复杂网络\n- 可做轻汇聚\n- 可做边缘路由\n- 网络扩展性更强\n这叫 高级组网能力\n它不是运维卖点。\n---\n### 6）Dying Gasp / SFTP / ACL / Private VLAN / One-click\n客户获得的是：\n- 更安全\n- 故障定位更快\n- 断电有告警\n- 配置维护更方便\n这叫 运维与安全增强\n---\n## 二、所以最好的做法是“2组来讲”，不是“1组全塞”\n---\n### 组合 1：智能运维与安全\n把这几个放一起：\n- MQTT\n- sFlow\n- Dying Gasp\n- One-click diagnostics\n- USB一键配置/升级\n- SFTP\n- 风扇/电源监控\n- Private VLAN\n- ACL Time Range\n### 可用话术\n#### 中文\n- 智能运维与安全加固\n- 从告警上报到流量可视化的一体化管理\n- 让工业网络从“能用”升级到“可管、可视、可追踪”\n#### 英文\n- Smart O&M and Security Suite\n- Proactive monitoring, traffic visibility, and secure management\n- From alarm reporting to traffic analytics, built for manageable industrial networks\n---\n### 组合 2：高级三层组网\n把这几个放一起：\n- Full L3\n- BGP / OSPF / RIP / IS-IS\n- VRRP\n- ECMP\n- 13K routing table\n### 可用话术\n#### 中文\n- 高级三层组网能力\n- 从接入延伸到汇聚的网络承载能力\n- 单设备覆盖更多组网角色，降低网络层级与部署成本\n#### 英文\n- Advanced Layer 3 Routing\n- From access to aggregation in a single platform\n- Simplify network architecture with dynamic routing and gateway redundancy\n---\n# 三、13K、BGP、IS-IS 这些是不是太技术了？\n## 是的，对很多客户来说太技术了\n尤其是你们如果主要卖：\n- 工厂\n- 轨交\n- 能源\n- 视频监控\n- 安防\n- 水务\n- 新能源\n这些客户里，真正会被 “13K route table” 打动的人，通常只有：\n- 网络工程师\n- 集成商技术负责人\n- 招投标写规格的人\n而老板、采购、项目经理，更关心的是：\n- 能不能稳定\n- 能不能少停机\n- 能不能省设备\n- 能不能方便维护\n- 能不能过安全要求\n所以：\n> 13K / BGP / IS-IS 这种内容适合放“第二层表达”\n> 不适合放在第一屏当核心 slogan\n---\n## 更好的表达方式\n### 不要直接写\n- 13K routing table\n- Full L3 with BGP/IS-IS/OSPF/RIP\n### 可以先写成\n- Advanced Layer 3 routing for scalable industrial and campus networks\n- Supports dynamic routing and gateway redundancy\n- Reduce upper-layer router dependency\n中文：\n- 支持动态路由与网关冗余\n- 满足更大规模网络扩展需求\n- 减少上层路由设备依赖\n- 从接入到汇聚更灵活\n然后在下面的小字/spec里再展开：\n- OSPF / RIP / BGP / IS-IS\n- VRRP / ECMP\n- 13K routing table\n这样更专业，也更利于销售。\n---\n# 我建议你们最终做成“2层卖点结构”\n这个非常重要。\n---\n## 第一层：面向市场/客户的卖点\n用客户听得懂的话\n### 1. 工业级可靠性\n-40~70°C、IP40、EMC、浪涌保护、无风扇、双电源、Bypass\n### 2. 工业接口融合\nDI/DO/RS485、USB一键配置、串口/控制联动\n### 3. 高可靠网络冗余\nERPS、RSTP、MSTP、VRRP、双电源、链路保护\n### 4. 智能运维与安全\nMQTT、sFlow、Dying Gasp、SFTP、告警、可视化\n### 5. 灵活供电与高功率PoE\nPoE++ 90W、升压、370W预算、电口/光口组合\n### 6. 高级组网与定制能力\nL3 routing、1G/2.5G/10G、Marvell managed networking、灵活SKU\n---\n## 第二层：面向工程师/规格书的技术点\n用参数说话\n- ERPS G.8032\n- MQTT / sFlow\n- BGP / OSPF / RIP / IS-IS\n- VRRP / ECMP\n- 13K routing table\n- SFTP\n- Dying Gasp\n- Private VLAN / ACL Time Range\n- fan monitoring\n- battery chargeable\n- hot-swappable modules\n---\n# 给你一个更实用的建议：你们主推时，4/5/6不要一股脑全推\n不同场景主推不同组合。\n---\n## 1）智慧工厂 / 能源 / 化工\n主推：\n- 工业级可靠性\n- ERPS / 冗余\n- DI/DO/RS485\n- MQTT\n- SFTP\n- Dying Gasp\n这类客户更关心“稳定、安全、能接控制系统”。\n### 不要太强调\n- BGP\n- IS-IS\n- 13K route table\n除非对方明确是做大型园区网/厂区汇聚。\n---\n## 2）视频监控 / 智慧城市\n主推：\n- ERPS\n- PoE++\n- 升压供电\n- sFlow\n- MQTT\n- 双电源\n因为他们关心：\n- 摄像头/云台供电\n- 视频业务不中断\n- 带宽监控\n- 环网恢复\n---\n## 3）轨道 / 交通\n主推：\n- 工业可靠性\n- Bypass\n- ERPS\n- 双电源\n- 部分L3能力\n- Dying Gasp\n---\n## 4）园区网 / 企业网络 / 汇聚场景\n主推：\n- Full L3\n- VRRP\n- ECMP\n- 13K route table\n- 1G/2.5G/10G\n- SFTP\n- 安全隔离\n这个时候 5 点就可以升到主卖点。\n---\n# 我给你的直接建议\n## 你现在就可以改的\n### 关于 ERPS\n把原来的：\n- ERPS < 20ms\n- 断纤20ms内自愈\n- 单环设备数量无限制\n先临时改成：\n- Supports ERPS G.8032 fast ring protection\n- Fast network recovery for industrial ring topologies\n- Designed for scalable industrial ring deployment\n中文：\n- 支持 ERPS G.8032 快速环网保护\n- 面向工业环网的快速故障恢复\n- 支持更灵活的环网部署\n---\n### 关于 4/5/6\n不要合并成一个标题。\n拆成下面两个：\n#### 标题1\n智能运维与安全套件\nMQTT / sFlow / Dying Gasp / SFTP / One-click / Fan & Power Monitoring / Private VLAN / ACL\n#### 标题2\n高级三层组网能力\nBGP / OSPF / RIP / IS-IS / VRRP / ECMP / 13K Routing Table\n---\n# 最后给你一个很实用的判断标准\n以后凡是你们要写到宣传页上的卖点，都问自己三个问题：\n### 1. 这个说法有没有测试/文档依据？\n没有就别写死数字。\n### 2. 这个词是客户语言，还是工程师语言？\n- 客户语言：稳定、快速恢复、易维护、安全、少停机\n- 工程师语言：ERPS、VRRP、13K、sFlow、BGP\n宣传页先用客户语言，规格书再用工程师语言。\n### 3. 这个点是“功能”，还是“价值”？\n- 功能：SFTP、MQTT、BGP\n- 价值：更安全、更易运维、可做汇聚、降低设备数量\n卖点要先讲价值，再讲功能。\n---\n[页眉页脚]\nSaga Telecom\nwww.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"DI/DO/RS485: 马上全系列支持"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"工业接口扩展（DI/DO/RS485）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"大多数交换机只提供网络端口，而你们提供 DI/DO（数字输入/输出）、RS485 串口"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这让交换机不仅是“通信设备”，还能直接融入 工控、安防报警、传感器/PLC 联动 系统"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"卖点：“通信+控制一体化”，减少额外的 I/O 控制器设备"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SFTP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"新的Feature List"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Bypass"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"断电时自动保持链路连通，工业/电力/交通客户特别看重"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"常见于高端工业交换机，低端品牌基本没有"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"卖点：“关键链路 0 中断”，保证可靠性"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"升压模块/Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"普通交换机如果 DC 输入不足（比如 24V），PoE 输出会受限；你们支持电压升压，让 PoE 在弱电环境依然稳定"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"卖点：“低压环境也能稳定供电”（适合监控/轨交/新能源场景）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"双电源/风扇监控"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"丰富的端口和功能选择（battery chargeable, 热插拔）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"双电源冗余本身常见，但你们还加了风扇监控、支持外接电池充电（Battery Chargeable）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"热插拔模块化设计（如风扇、电源）也提升了维护体验"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"卖点：“全方位电源健康管理”，让设备更贴合工业/能源客户需求"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你们覆盖 1G / 2.5G / 10G，电口+光口组合灵活，PoE 功率可选"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Managed Networking + 多种功能选择，更容易满足定制需求"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"卖点：为客户量身定制（Tailored Marvell Managed Networking）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"ERPS < 20ms 快速环网保护（工业级可靠性）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"文件证据："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"ERPS < 20ms（产品目录明确标注）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"ERPS/MSTP/RSTP/STP redundancy technologies（核心功能）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"为什么独特："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"行业标准ERPS切换时间普遍为30-50ms（如华为S5700），超过20ms会导致PLC停机"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga <20ms切换，满足汽车工厂、电网调度等对网络零中断的严苛要求（如特斯拉工厂要求<25ms）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"竞品对比：Cisco工业交换机ERPS需配置额外模块，成本+40%"
+},
+{
+"t":"table",
+"rows":[
+[
+"排名",
+"功能",
+"为什么主推（客户痛点）",
+"推荐宣传话术（中英）"
+],
+[
+"1",
+"工业级硬核 + DI/DO/RS485 + USB一键",
+"工厂、轨道、能源最关心“能不能在恶劣环境活下来”",
+"“-40~+70℃ 无风扇 IP40 + 6KV防浪涌 + 原生 DI/DO/RS485 + USB一键配置升级，野外换设备 3 分钟搞定”"
+],
+[
+"2",
+"ERPS G.8032 ≤20ms + Single Ring 无限制",
+"工业环网是刚需，20ms 是行业顶级",
+"“真·运营商级环网，断纤20ms内自愈，单环设备数量无限制，监控/PLC网络永不断网”"
+],
+[
+"3",
+"PoE++ 90W（1-4口）+ 双电源总370W",
+"高功率 PTZ、5G小基站、LED显示屏越来越常见",
+"“单口90W BT标准，双电源370W预算，彻底告别‘PoE不够用’的尴尬”"
+],
+[
+"4",
+"MQTT + sFLOW（你特别问的）",
+"这是2025年最时髦的“智能运维”卖点",
+"“支持 MQTT 主动推送 + sFLOW 采样流量分析，可直接对接阿里云/华为云/自建平台，实现交换机‘秒级心跳 + 流量可视化’，运维从被动变主动”"
+],
+[
+"5",
+"全功能 L3（BGP/IS-IS/OSPF/RIP + VRRP + ECMP + 13K路由表）",
+"让它从“接入”变成“轻核心”，单台顶多台",
+"“13K路由表 + BGP/IS-IS 完整支持，一台设备搞定园区汇聚 + 跨园区路由，性价比直接打爆竞品”"
+],
+[
+"6",
+"现代安全+运维套件（Dying Gasp / One-click / Optical adaptive / Private VLAN / ACL Time Range）",
+"政府/安防/等保项目必看",
+"“Dying Gasp断电最后一吼 + 一键故障打包 + 光模块自适应 + 32组端口隔离，运维和安全一次满足”"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"推广策略建议（不同场景打法）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"智慧工厂 / 能源 / 化工：1+2+4+DI/DO/RS485（MQTT + 串口透明传输最香）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"视频监控 / 智慧城市：2+3+4+6（ERPS环网 + PoE++ + MQTT + sFLOW 流量看视频带宽）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"智能交通 / 轨道：1+2+5（工业级 + 环网 + L3动态路由 + VRRP 冗余）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"通用企业/园区：3+5+6（高功率PoE + 13K L3 + 现代管理）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"后期推广就死磕 “工业级 + 超快环网 + MQTT/sFLOW智能管理 + 高功率PoE + 全L3” 这五个组合拳，基本无敌。"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"我"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这是之前总结的我们的产品卖点 我有几个问题"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1. 这个环网时间其实我并不确定 因为我问了技术 似乎是没正式测试过"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不知道为啥写了20ms"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"AC5相关的芯片信息里啥的能支持这个数据吗？"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2. 4 5 6点的配置 运维相关的 是一个组合卖点吗 我看一些都有点偏技术了"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"比如L3 13K等"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"MAX"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"可以，我直接按你的两个问题来讲，顺便把哪些说法适合对外、哪些最好先收一收也一起帮你理一下。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"# 先说结论"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 1）ERPS `<20ms` 这个说法"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"如果没正式测试过，就不要对外写死 `<20ms`。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"原因很简单："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 芯片能力 ≠ 整机实测结果"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- ERPS恢复时间是“整机/软件/拓扑/配置/负载”共同决定的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 你们如果现在只是“文档里写了”，但没有测试报告，后面客户一追问测试条件，很容易被问住"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 更稳妥的结论"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"如果目前没有正式验证，建议先改成："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Supports ERPS G.8032 ring protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Fast ring recovery for industrial networks"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Supports ERPS/MSTP/RSTP/STP redundancy technologies"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"中文可以写成："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 支持 ERPS G.8032 工业环网保护"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 支持快速环网自愈"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 支持 ERPS/MSTP/RSTP/STP 冗余机制"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"先别写具体数字。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 2）你说的 4 / 5 / 6 点"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不建议硬合成一个卖点。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"因为这三类东西其实不是同一层："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 4）MQTT + sFlow"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"偏 智能运维 / 云平台对接 / 可视化监控"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 5）Full L3 + 13K + BGP/OSPF/VRRP/ECMP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"偏 高级组网能力 / 汇聚与路由能力"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 6）Dying Gasp / One-click / SFTP / Private VLAN / ACL Time Range"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"偏 运维效率 + 安全控制"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"所以更合理的分法是："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"# 最合理的拆分方式"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## A. 智能运维与安全套件"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"把这些放一起："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- MQTT"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- sFlow"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Dying Gasp"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- One-click diagnostics / USB一键配置/升级"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- SFTP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 风扇监控 / 电源监控"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Private VLAN"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- ACL Time Range"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Optical adaptive（如果这个确实是稳定性/兼容性功能）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这是一个组合卖点，名称可以叫："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 中文"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 智能运维与安全套件"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 可视化运维与安全加固"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 工业级智能管理能力"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 英文"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Smart O&M and Security Suite"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Intelligent Management & Security"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Advanced Operations and Security Features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## B. 高级三层组网能力"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"把这些放一起："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Static Routing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- RIP / OSPF / BGP / IS-IS"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- VRRP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- ECMP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 13K Routing Table"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这是另一个卖点，名称可以叫："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 中文"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 高级三层组网能力"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 轻汇聚/边缘路由能力"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 从接入到汇聚的一体化组网"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 英文"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Advanced Layer 3 Routing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Aggregation and Edge Routing Capability"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Scalable Layer 3 Networking"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"# 回答你第一个问题：ERPS `<20ms` 到底能不能写"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 一、为什么不能只看 AC5 芯片就下结论"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"如果你们用的是 Marvell AC5 / Prestera AC5 这类交换芯片，它确实说明："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 芯片本身有较强的二层/三层转发能力"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 能支持工业/企业交换机常见的冗余、L2/L3、ACL、QoS 等功能"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 从平台能力上，“支持ERPS”是合理的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 但 “ERPS恢复时间小于20ms”不是只靠芯片型号就能直接推出的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"因为恢复时间还取决于："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1. ERPS实现方式"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"是 SDK 自带？你们自己适配？CPU参与多少？"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2. 设备软件版本"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3. 环网节点数量"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4. 链路速率"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"5. 是否有业务流量、流量大小"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"6. 故障类型"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 断纤"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 某节点掉电"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 某端口 flap"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"7. 倒换模式"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- revertive / non-revertive"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8. FDB flush / MAC收敛处理"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"9. 定时器配置"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"所以："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"> AC5 可以支撑你们“支持ERPS、具备快速恢复能力”这个方向"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"> 但 不能单独作为“<20ms”这个数字的证据。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 二、行业里一般怎么写才稳"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 如果没测试过"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"对外建议写："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Supports ERPS G.8032 ring protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Fast recovery ring redundancy"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Industrial redundancy with ERPS / RSTP / MSTP / STP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"别写具体数字。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 如果做过基本测试，但条件有限"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"可以写得更谨慎一点："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Typical recovery time depends on network topology and configuration"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Fast recovery in typical ring deployments"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Recovery performance available upon validation request"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"中文："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 实际恢复时间取决于网络拓扑与配置"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 在典型环网部署下具备快速恢复能力"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 可根据项目需求提供验证"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 如果以后你们真测出了结果"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"那就要写完整条件，而不是只写裸数字："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"例如："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"> ERPS recovery time can be less than 20 ms in a single-ring topology under specified test conditions."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"中文："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"> 在特定测试条件下，单环拓扑ERPS恢复时间可低于20ms。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"注意这里有几个关键词必须有："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- can be"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- under specified test conditions"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- single-ring topology"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这样才专业，也不容易被抓漏洞。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 三、你们现在最好先查的三件事"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 1. 这个 `<20ms` 最早是谁写的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你先追一下来源："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 是旧产品目录沿用的？"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 是 ODM/OEM 给的？"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 是芯片原厂参考设计写的？"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 是某个工程项目口头说过？"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 是某次内部样机测过但没留报告？"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"如果找不到来源，建议直接判定为不可对外承诺。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 2. 看 SDK / 芯片资料里有没有明确提 ERPS performance"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你可以让技术或FAE去查："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Marvell SDK feature list"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- SDK release notes"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- reference design notes"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Prestera 文档里是否有 ERPS/G.8032"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 是否有 recovery benchmark / failover benchmark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"但即使芯片文档写了，也通常只能证明平台支持这类能力，不能100%替代你们整机实测。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 3. 赶紧做一个最基础的内部测试"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"如果这个卖点很重要，建议尽快补测试。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 四、建议你们怎么测 ERPS，才好用于宣传"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"最少要定义清楚下面这些条件："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 测试项"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 单环拓扑"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 节点数量：例如 4 / 8 / 16 / 32"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 故障类型："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 单点断纤"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 节点断电"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 业务流："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 空载"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 带流量"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 测量方式："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 丢包时长"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- ping中断时间"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 流量中断时间"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 软件版本"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 配置版本"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 最终你们对外能拿来写的数据应该像这样："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- <20 ms in 8-node single ring, fiber cut, under lab test conditions"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- <50 ms in 16-node ring, typical industrial traffic"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"哪怕数字没那么激进，只要真实，也比“空写20ms”更能打。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 五、顺手提醒：这些说法也有点危险"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你上面有几句宣传语，我建议也一起收敛一下。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 1. “关键链路 0 中断”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这个非常危险。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"除非真的是硬件 bypass且你们定义的是特定链路直通，不然“0中断”太绝对。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"更稳妥写法："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Minimize network interruption"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Maintain link continuity during power loss"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Hardware bypass to preserve critical link connectivity"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 2. “单环设备数量无限制”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这个也建议不要写“无限制”。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"任何产品实际上都会受限于："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 管理规模"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- MAC表项"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- CPU处理能力"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 配置复杂度"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 实际工程可维护性"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"更稳妥写法："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Supports large-scale single-ring deployments"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Supports flexible ring expansion"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Designed for scalable ring topologies"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 3. “打爆竞品”“行业顶级”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"内部讨论可以，外部不要这么写。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"外部最好是："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Designed for demanding industrial applications"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- High-availability industrial networking"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Advanced feature set for mission-critical environments"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"# 回答你第二个问题：4/5/6 到底是不是一个组合卖点"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 一、严格来说，不是一个组合"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"因为它们分别对应三个不同价值："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 4）MQTT + sFlow"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"客户获得的是："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 主动上报"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 流量可视化"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 云平台对接"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 可观测性提升"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这叫 智能运维 / 可视化管理"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 5）L3 / 13K / BGP / OSPF / VRRP / ECMP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"客户获得的是："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 组网层级减少"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 支持更复杂网络"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 可做轻汇聚"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 可做边缘路由"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 网络扩展性更强"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这叫 高级组网能力"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"它不是运维卖点。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 6）Dying Gasp / SFTP / ACL / Private VLAN / One-click"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"客户获得的是："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 更安全"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 故障定位更快"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 断电有告警"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 配置维护更方便"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这叫 运维与安全增强"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 二、所以最好的做法是“2组来讲”，不是“1组全塞”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 组合 1：智能运维与安全"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"把这几个放一起："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- MQTT"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- sFlow"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Dying Gasp"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- One-click diagnostics"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- USB一键配置/升级"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- SFTP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 风扇/电源监控"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Private VLAN"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- ACL Time Range"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 可用话术"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"#### 中文"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 智能运维与安全加固"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 从告警上报到流量可视化的一体化管理"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 让工业网络从“能用”升级到“可管、可视、可追踪”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"#### 英文"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Smart O&M and Security Suite"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Proactive monitoring, traffic visibility, and secure management"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- From alarm reporting to traffic analytics, built for manageable industrial networks"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 组合 2：高级三层组网"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"把这几个放一起："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Full L3"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- BGP / OSPF / RIP / IS-IS"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- VRRP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- ECMP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 13K routing table"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 可用话术"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"#### 中文"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 高级三层组网能力"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 从接入延伸到汇聚的网络承载能力"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 单设备覆盖更多组网角色，降低网络层级与部署成本"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"#### 英文"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Advanced Layer 3 Routing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- From access to aggregation in a single platform"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Simplify network architecture with dynamic routing and gateway redundancy"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"# 三、13K、BGP、IS-IS 这些是不是太技术了？"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 是的，对很多客户来说太技术了"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"尤其是你们如果主要卖："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 工厂"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 轨交"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 能源"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 视频监控"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 安防"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 水务"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 新能源"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这些客户里，真正会被 “13K route table” 打动的人，通常只有："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 网络工程师"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 集成商技术负责人"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 招投标写规格的人"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"而老板、采购、项目经理，更关心的是："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 能不能稳定"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 能不能少停机"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 能不能省设备"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 能不能方便维护"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 能不能过安全要求"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"所以："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"> 13K / BGP / IS-IS 这种内容适合放“第二层表达”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"> 不适合放在第一屏当核心 slogan"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 更好的表达方式"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 不要直接写"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 13K routing table"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Full L3 with BGP/IS-IS/OSPF/RIP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 可以先写成"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Advanced Layer 3 routing for scalable industrial and campus networks"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Supports dynamic routing and gateway redundancy"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Reduce upper-layer router dependency"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"中文："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 支持动态路由与网关冗余"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 满足更大规模网络扩展需求"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 减少上层路由设备依赖"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 从接入到汇聚更灵活"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"然后在下面的小字/spec里再展开："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- OSPF / RIP / BGP / IS-IS"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- VRRP / ECMP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 13K routing table"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这样更专业，也更利于销售。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"# 我建议你们最终做成“2层卖点结构”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这个非常重要。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 第一层：面向市场/客户的卖点"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"用客户听得懂的话"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 1. 工业级可靠性"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"-40~70°C、IP40、EMC、浪涌保护、无风扇、双电源、Bypass"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 2. 工业接口融合"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DI/DO/RS485、USB一键配置、串口/控制联动"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 3. 高可靠网络冗余"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"ERPS、RSTP、MSTP、VRRP、双电源、链路保护"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 4. 智能运维与安全"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MQTT、sFlow、Dying Gasp、SFTP、告警、可视化"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 5. 灵活供电与高功率PoE"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE++ 90W、升压、370W预算、电口/光口组合"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 6. 高级组网与定制能力"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"L3 routing、1G/2.5G/10G、Marvell managed networking、灵活SKU"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 第二层：面向工程师/规格书的技术点"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"用参数说话"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- ERPS G.8032"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- MQTT / sFlow"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- BGP / OSPF / RIP / IS-IS"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- VRRP / ECMP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 13K routing table"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- SFTP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Dying Gasp"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Private VLAN / ACL Time Range"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- fan monitoring"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- battery chargeable"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- hot-swappable modules"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"# 给你一个更实用的建议：你们主推时，4/5/6不要一股脑全推"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不同场景主推不同组合。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 1）智慧工厂 / 能源 / 化工"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"主推："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 工业级可靠性"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- ERPS / 冗余"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- DI/DO/RS485"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- MQTT"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- SFTP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Dying Gasp"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这类客户更关心“稳定、安全、能接控制系统”。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 不要太强调"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- BGP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- IS-IS"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 13K route table"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"除非对方明确是做大型园区网/厂区汇聚。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 2）视频监控 / 智慧城市"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"主推："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- ERPS"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- PoE++"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 升压供电"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- sFlow"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- MQTT"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 双电源"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"因为他们关心："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 摄像头/云台供电"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 视频业务不中断"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 带宽监控"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 环网恢复"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 3）轨道 / 交通"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"主推："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 工业可靠性"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Bypass"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- ERPS"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 双电源"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 部分L3能力"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Dying Gasp"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 4）园区网 / 企业网络 / 汇聚场景"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"主推："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Full L3"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- VRRP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- ECMP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 13K route table"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 1G/2.5G/10G"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- SFTP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 安全隔离"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这个时候 5 点就可以升到主卖点。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"# 我给你的直接建议"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 你现在就可以改的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 关于 ERPS"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"把原来的："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- ERPS < 20ms"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 断纤20ms内自愈"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 单环设备数量无限制"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"先临时改成："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Supports ERPS G.8032 fast ring protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Fast network recovery for industrial ring topologies"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Designed for scalable industrial ring deployment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"中文："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 支持 ERPS G.8032 快速环网保护"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 面向工业环网的快速故障恢复"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 支持更灵活的环网部署"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 关于 4/5/6"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不要合并成一个标题。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"拆成下面两个："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"#### 标题1"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"智能运维与安全套件"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MQTT / sFlow / Dying Gasp / SFTP / One-click / Fan & Power Monitoring / Private VLAN / ACL"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"#### 标题2"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"高级三层组网能力"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"BGP / OSPF / RIP / IS-IS / VRRP / ECMP / 13K Routing Table"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"# 最后给你一个很实用的判断标准"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"以后凡是你们要写到宣传页上的卖点，都问自己三个问题："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 1. 这个说法有没有测试/文档依据？"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"没有就别写死数字。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 2. 这个词是客户语言，还是工程师语言？"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 客户语言：稳定、快速恢复、易维护、安全、少停机"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 工程师语言：ERPS、VRRP、13K、sFlow、BGP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"宣传页先用客户语言，规格书再用工程师语言。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 3. 这个点是“功能”，还是“价值”？"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 功能：SFTP、MQTT、BGP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 价值：更安全、更易运维、可做汇聚、降低设备数量"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"卖点要先讲价值，再讲功能。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+}
+],
+"header_footer":[
+"Saga Telecom",
+"www.sagatelecom.com.cn",
+"Tailored Managed Networking Solutions Provider",
+"Built to Last, Continuous Supply, Evolving Together"
+]
+}

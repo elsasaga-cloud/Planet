@@ -1,0 +1,429 @@
+{
+"id":"1ZFN2ehbaERUclIZx4yxUk-cF1K6Dgjud",
+"name":"PROFILE_2026Q2.docx",
+"path":"SmartByte/PROFILE_2026Q2.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":851191,
+"sha256":"eaa08cb18acce704ac3c584a95bdc6ac0536e4cc4afd4c2a46c7ea16fd68ebd0",
+"extracted_at":"2026-10-22T01:55:13Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":4619,
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2025-12-22T13:17:00+00:00",
+"modified":"2026-02-01T07:41:43+00:00",
+"paragraphs":62,
+"tables":0,
+"embedded_images":21
+},
+"warnings":[],
+"text":"About Us\nSaga Telecom is a reliable manufacturer and trader of good-quality fiber optic devices and transmission solutions, and focuses on industrial networking, CCTV surveillance, fiber optic transmission and featured telecom devices for secure data transport, fiber-based communication, and security monitoring\nBacked by diversified product portfolio and mature business system, Saga Telecom gains good feedback overseas particularly in European countries\nIn the meantime, Saga Telecom is actively seeking trustworthy partners and enhancing its presence in the network telecommunications field\nCore Value\nConnecting, Converting, Creating\nSaga Telecom connects talents and ideas that may drive itself forward\nSaga Telecom converts mature business system to all-round growth\nSaga Telecom creates betterness from expertise and solution package\nFactory Information\nOur production base is in Huizhou city, Guangdong Province\nProduction Area: 7,000 square meters\nProduction Capacity(Per Month): Around 3K for popular DIN-Rail models\nhttps://drive.google.com/drive/folders/1B-DHQaO29xaEhEGfVhdTen9Leo35sRoc?usp=drive_link\nMarket Positioning\nOEM Factory\nTailored Managed Networking Solutions Provider\nSaga Telecom focuses on customizing services regarding hardware & software based on Marvell/CENTEC chips\nAccess Layer: Marvell AellyCat5 Series(AC5)\nhttps://www.marvell.com/content/dam/marvell/en/public-collateral/switching/marvell-prestera-98DX25xx-product-brief.pdf\nhttps://www.marvell.com/content/dam/marvell/en/public-collateral/switching/marvell-prestera-98DX35xx-product-brief.pdf\nAggregation & Core Layer: CENTEC\nhttps://www.centec.com/silicon?category=Ethernet-Switch-Silicon\nContinuous Supply\nWe guarantee continuous supply for more than 5 years\nAll upcoming R&D, hardware optimization, and software development will remain fully aligned along the way\nThis is supported by:\nOur business strategy: a built-to-last approach ensuring continuous supply and collaborative evolution\nLong-term availability of Marvell AC5 and CENTEC switching chipsets\nThis ensures uninterrupted delivery and consistent performance for our clients of all types(SIs, ISPs, Telcos, OEMs and more)\nPersonnel Strength\nHW Engineer: 5\nSW Engineer: 10\nTest Engineer: 5\nNumber of SMT Line: 2\nNumber of DIP Line: 5\nNumber of Test Line: 4\nNumber of Assembly Line: 10\nProduction Step\nThe standard production mainly consists of 8 steps\nProcessing>Cleaning>Assembling>Testing>Aging>Performance Testing>QC Testing>Packing\nPCBA Processing: SMT welding and DIP insertion.\nWith professional equipment, this increase accuracy and efficiency.\nCleaning: To avoid any possible dysfunction due to dust or scraps on the PCB boards.\nConformal coatings will sometimes be used to protected the PCB boards.\nAssembling: Build up components of a product, like panels, screws, PCB boards.\nBasic Testing: To make sure the product, after assembling, is basically working fine such as LED indicator, voltage range...\nAging: This is a preparation step for comprehensive performance test.\nDevices will be put in the ageing chamber for 8 or 24 hours.\nPerformance Testing: This requires professional equipment to check if the device meets the standard such as lighting surge, data loss or working temperature range...\nTHIS IS THE MOST IMPORTANT STEP TO SECURE GOOD QUALITY.\nQC Testing: This is the third and also last check covering product appearance and ping testing.\nDevice outlook will be inspected to avoid improperly placed PVC mask or scratches on the casing.\nPing testing will be done to all the devices and then there will be another random testing.\nPacking: Labels will be attached on the device, accessories(user manual, mounting kit, power supply ...)will be placed in the box for sealing.\nWhen all above is done, the product will go to market.\nRemark\nAgeing Time: 8 to 24 hours(at least 8 hours)\n8 hours for frequently ordered models\n24 hours for customized models to ensure stable operation\nThe actual ageing time depends on complaint rate and order urgency\nIf we have not received negative feedback for a long time(like popular models STI-244GP and STI-050GE), we simply do the ageing time 8 hours for fast delivery\n[页眉页脚]\nProfile                                                                                                                                                            Saga Telecom\n2026/Q2                                                                                                                                      www.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"About Us"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom is a reliable manufacturer and trader of good-quality fiber optic devices and transmission solutions, and focuses on industrial networking, CCTV surveillance, fiber optic transmission and featured telecom devices for secure data transport, fiber-based communication, and security monitoring"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Backed by diversified product portfolio and mature business system, Saga Telecom gains good feedback overseas particularly in European countries"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"In the meantime, Saga Telecom is actively seeking trustworthy partners and enhancing its presence in the network telecommunications field"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Core Value"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connecting, Converting, Creating"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom connects talents and ideas that may drive itself forward"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom converts mature business system to all-round growth"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom creates betterness from expertise and solution package"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Factory Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Our production base is in Huizhou city, Guangdong Province"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Production Area: 7,000 square meters"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Production Capacity(Per Month): Around 3K for popular DIN-Rail models"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://drive.google.com/drive/folders/1B-DHQaO29xaEhEGfVhdTen9Leo35sRoc?usp=drive_link"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Market Positioning"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OEM Factory"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Tailored Managed Networking Solutions Provider"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom focuses on customizing services regarding hardware & software based on Marvell/CENTEC chips"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Access Layer: Marvell AellyCat5 Series(AC5)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.marvell.com/content/dam/marvell/en/public-collateral/switching/marvell-prestera-98DX25xx-product-brief.pdf"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.marvell.com/content/dam/marvell/en/public-collateral/switching/marvell-prestera-98DX35xx-product-brief.pdf"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Aggregation & Core Layer: CENTEC"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.centec.com/silicon?category=Ethernet-Switch-Silicon"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Continuous Supply"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We guarantee continuous supply for more than 5 years"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"All upcoming R&D, hardware optimization, and software development will remain fully aligned along the way"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is supported by:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Our business strategy: a built-to-last approach ensuring continuous supply and collaborative evolution"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Long-term availability of Marvell AC5 and CENTEC switching chipsets"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This ensures uninterrupted delivery and consistent performance for our clients of all types(SIs, ISPs, Telcos, OEMs and more)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Personnel Strength"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"HW Engineer: 5"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SW Engineer: 10"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Test Engineer: 5"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Number of SMT Line: 2"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Number of DIP Line: 5"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Number of Test Line: 4"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Number of Assembly Line: 10"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Production Step"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The standard production mainly consists of 8 steps"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Processing>Cleaning>Assembling>Testing>Aging>Performance Testing>QC Testing>Packing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PCBA Processing: SMT welding and DIP insertion."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"With professional equipment, this increase accuracy and efficiency."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Cleaning: To avoid any possible dysfunction due to dust or scraps on the PCB boards."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Conformal coatings will sometimes be used to protected the PCB boards."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Assembling: Build up components of a product, like panels, screws, PCB boards."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Basic Testing: To make sure the product, after assembling, is basically working fine such as LED indicator, voltage range..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Aging: This is a preparation step for comprehensive performance test."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Devices will be put in the ageing chamber for 8 or 24 hours."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Performance Testing: This requires professional equipment to check if the device meets the standard such as lighting surge, data loss or working temperature range..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"THIS IS THE MOST IMPORTANT STEP TO SECURE GOOD QUALITY."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"QC Testing: This is the third and also last check covering product appearance and ping testing."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Device outlook will be inspected to avoid improperly placed PVC mask or scratches on the casing."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ping testing will be done to all the devices and then there will be another random testing."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing: Labels will be attached on the device, accessories(user manual, mounting kit, power supply ...)will be placed in the box for sealing."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"When all above is done, the product will go to market."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ageing Time: 8 to 24 hours(at least 8 hours)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8 hours for frequently ordered models"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"24 hours for customized models to ensure stable operation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The actual ageing time depends on complaint rate and order urgency"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If we have not received negative feedback for a long time(like popular models STI-244GP and STI-050GE), we simply do the ageing time 8 hours for fast delivery"
+}
+],
+"header_footer":[
+"Profile                                                                                                                                                            Saga Telecom",
+"2026/Q2                                                                                                                                      www.sagatelecom.com.cn",
+"Tailored Managed Networking Solutions Provider",
+"Built to Last, Continuous Supply, Evolving Together"
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.jpeg",
+"bytes":41023
+},
+{
+"name":"image10.jpeg",
+"bytes":40620
+},
+{
+"name":"image11.jpeg",
+"bytes":19773
+},
+{
+"name":"image12.jpeg",
+"bytes":27376
+},
+{
+"name":"image13.jpeg",
+"bytes":15392
+},
+{
+"name":"image14.jpeg",
+"bytes":17480
+},
+{
+"name":"image15.jpeg",
+"bytes":16583
+},
+{
+"name":"image16.jpeg",
+"bytes":18093
+},
+{
+"name":"image17.jpeg",
+"bytes":58993
+},
+{
+"name":"image18.jpeg",
+"bytes":53030
+},
+{
+"name":"image19.jpeg",
+"bytes":29796
+},
+{
+"name":"image2.jpeg",
+"bytes":41300
+},
+{
+"name":"image20.jpeg",
+"bytes":29449
+},
+{
+"name":"image3.jpeg",
+"bytes":58908
+},
+{
+"name":"image4.jpeg",
+"bytes":51737
+},
+{
+"name":"image5.jpeg",
+"bytes":60477
+},
+{
+"name":"image6.jpeg",
+"bytes":62829
+},
+{
+"name":"image7.jpeg",
+"bytes":57310
+},
+{
+"name":"image8.jpeg",
+"bytes":55560
+},
+{
+"name":"image9.jpeg",
+"bytes":50558
+}
+]
+}
