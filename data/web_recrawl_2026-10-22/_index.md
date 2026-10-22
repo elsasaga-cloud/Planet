@@ -7,6 +7,7 @@
 | SmartByte | `smartbyte/computex_taipei_exhibitor.md` | computextaipei.com.tw 参展商页（Huizhou SmartByte）+ FOB 目录 + Peter Hu LinkedIn 摘要 | 12:53–12:59 | ✅ 正文 |
 | SmartByte | `smartbyte/made_in_china_showroom.md` | made-in-china.com 展厅（Shenzhen SmartByte，Miss Anna，2023 注册，无产品） | 12:59 | ✅ 正文 |
 | SmartByte | `smartbyte/sviaz_2024_moscow_exhibitor.md` | icatalog.expocentr.ru SVIAZ 2024 展商目录（21F38，No MOQ） | 13:05 | ✅ 正文 |
+| SmartByte | （旧页残留） | Google 快照 `smartbyte-switch.com/Contact-Us.html`（旧导航 IEC61850-3 / EN50155 / Bypass / IP67）在 2026-09 归档中不存在（`pages_manifest.jsonl` 350 页无此 URL，13:20 核）；RX 展会 PDF 链接（ISE/RX mediabox）访问被拒（13:21） | 13:20–13:21 | ⛔ 旧页 |
 | SmartByte | （负面结果，记录于本索引） | Alibaba 无店铺（`site:alibaba.com smartbyte switch`，12:54）；ImportYeti 无美国海运记录（`/supplier/shenzhen-smartbyte-technology` 404，13:03）；smartbyte.com.cn 抓取失败（12:53，疑已停用，交 Actions 探路）；中文工商名未查到（12:56–12:58） | — | ⛔ 负面 |
 | HRUI | `hrui/alibaba_product_1600095957148.md` | 阿里国际站产品页 + 店铺卡片（hrgx.en.alibaba.com，13 年金牌，价格） | 12:54–12:55 | ✅ 正文（店铺首页 CAPTCHA） |
 | HRUI | `hrui/工商与融资信息_36kr_天眼查摘要.md` | 36 氪创投 / 天眼查转载：**深圳市洪瑞光祥电子技术有限公司**，堵亚林，2013-06-25，520 万，USCC 9144030007175917XK | 12:58 | ✅ 摘要（与既有中文名冲突，已标） |
