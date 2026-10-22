@@ -1,0 +1,11 @@
+{
+"id":"1pMtulPJJSPBFpUweEFohSuCuYBbQTHTK",
+"name":"SmartByte Ethernet media converter user manual.doc",
+"path":"SmartByte/暂时不用的/QIG/SmartByte Ethernet media converter user manual.doc",
+"bytes":244935,
+"sha256":"a86877c729b14a9279aa0eb452588eafab48239bb6c2af46fc5159d478c1fb71",
+"same_as":"1mptvr5i_4R5ICHXS_rFU-9ScFjO4KI_q",
+"same_as_path":"SmartByte/MC/凌特中性收发器引文规格书/MC user manual.doc",
+"same_as_json":"text/1mptvr5i_4R5ICHXS_rFU-9ScFjO4KI_q.json",
+"note":"内容与 same_as 文件完全相同（sha256 一致），全文见该文件的 JSON"
+}

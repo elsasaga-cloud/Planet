@@ -1,0 +1,119 @@
+{
+"id":"10TvBswRPQPzuS4lIKNQY7zlxxsdYuiPW",
+"name":"修改MAC地址和SN.docx",
+"path":"SmartByte/暂时不用的/修改MAC地址和SN.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":41691,
+"sha256":"fddaafca35984c812b62d396c7a57aa94c95ef9a0cbfc200f1f304db8d3ce419",
+"extracted_at":"2026-10-22T02:14:39Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":340,
+"meta":{
+"title":"",
+"author":"陈 时淦",
+"last_modified_by":"Simon",
+"created":"2024-11-06T04:34:00+00:00",
+"modified":"2025-06-05T08:24:38+00:00",
+"paragraphs":14,
+"tables":0,
+"embedded_images":5
+},
+"warnings":[],
+"text":"设备插入串口线\n打开串口工具，如putty，secureCRT，波特率设置为115200\n启动设备\n输入空格键进入uboot\n执行“print_p”命令，将打印出设备MAC地址和SN，硬件版本号等信息\n执行烧录MAC命令\nproduct_set ID SN MAC VER，其中产品型号不能变，SN，MAC，VER根据需要来输入\nID：产品型号，内部使用，不能变\nMAC：MAC地址\nSN: 字母和数字组合，一般是12位\nVER：硬件版本，支持字母和数字组合\nproduct_set LTIE-MAC3L-8GT4XS4GS-6XRPC 202411060001 78:d0:64:66:9a:50 1.0\n执行完成后，再次执行print_p命令，检查是否正确\n8、修改MAC完成",
+"blocks":[
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"设备插入串口线"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"打开串口工具，如putty，secureCRT，波特率设置为115200"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"启动设备"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"输入空格键进入uboot"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"执行“print_p”命令，将打印出设备MAC地址和SN，硬件版本号等信息"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"执行烧录MAC命令"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"product_set ID SN MAC VER，其中产品型号不能变，SN，MAC，VER根据需要来输入"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"ID：产品型号，内部使用，不能变"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MAC：MAC地址"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SN: 字母和数字组合，一般是12位"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"VER：硬件版本，支持字母和数字组合"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"product_set LTIE-MAC3L-8GT4XS4GS-6XRPC 202411060001 78:d0:64:66:9a:50 1.0"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"执行完成后，再次执行print_p命令，检查是否正确"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8、修改MAC完成"
+}
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":9090
+},
+{
+"name":"image2.png",
+"bytes":6507
+},
+{
+"name":"image3.png",
+"bytes":8077
+},
+{
+"name":"image4.png",
+"bytes":4156
+}
+]
+}

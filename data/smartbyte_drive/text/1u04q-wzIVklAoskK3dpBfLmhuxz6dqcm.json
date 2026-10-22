@@ -1,0 +1,409 @@
+{
+"id":"1u04q-wzIVklAoskK3dpBfLmhuxz6dqcm",
+"name":"LT-IMC30G -E neutral datasheet.docx",
+"path":"SmartByte/暂时不用的/源图 源DS/1光1电/LT-IMC30G -E neutral datasheet.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":759312,
+"sha256":"4a65076309a959349dfde248ed75c4865bcd94373d2a1c21c76527fc9bc962ad",
+"extracted_at":"2026-10-22T02:14:47Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":5472,
+"meta":{
+"title":"",
+"author":"雙燕飛",
+"last_modified_by":"peter hu",
+"created":"2021-12-06T02:50:00+00:00",
+"modified":"2023-03-12T13:48:11+00:00",
+"paragraphs":18,
+"tables":2,
+"embedded_images":5
+},
+"warnings":[],
+"text":"10/100/1000Base-T to 100/1000Base-X\nCompact size Industrial Media Converter\nLT-IMC30G-E Series\nFeatures:\n➢ 1*10/100/1000Base-T RJ45 port, 1*100/1000Base-X SFP(/SC/ST/FC optional) fiber port\n➢ DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n➢  Powerful Dip switch function:\n1.LFP;  2. Flow control;  3. Broadcast storm restrain;  4.fiber port 100/1000M selection\n➢ Support 10K Bytes Jumbo frame and 1M large buffer\n➢ Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n➢ IP40 fan-less and Din-rail hardware design with compact size(30*85*85mm)\n➢  Operation temperature: -40 ℃ ~+75℃\nOverview\nThe SmartByte LT-IMC30G-E series are unmanaged industrial grade media converter with 1-port 10/100/1000-T RJ45 and 1-port 100/1000Base-X fiber optical interfaces. They are featuring with LFP, flow control, broadcast storm restrain and fiber port 100/1000M selection function, which all can be configured by the Dip switch on the top panel.\nLT-IMC30G-E series are also high cost-effective easy-to-use devices, which provide essential industrial Ethernet networking function, such as wide range power input 12-58VDC, redundant power design with polarity reverse/over-voltage protection, robust IP40 fan-less compact size housing with Din-rail installation, wide operation temperature from -40°C to 75°C as well as high-level EMI/EMC capability and so on. They are the best choice for heavy industrial factory, transportation, oil & gas, chemical, IP Surveillance and processing automation area where environmental conditions exceed commercial product specifications\nTechnical specification\nModel No.\tLT-IMC30G-E\nInterface\tFiber port\tCopper RJ45 port\nInterface\t1\t1\nEthernet\t1*10/100/1000Base-T RJ45 / 1*100/1000Base-X SFP (SC/ST/FC optional)\nStandard\tIEEE 802.3 10Base-T Ethernet / IEEE 802.3u Fast Ethernet / IEEE 802.3ab Gigabit Ethernet / IEEE 802.3x Full-Duplex Flow Control / IEEE 802.3az Energy Efficient Ethernet\nDip Switch\tLFP / Flow control / Broadcast storm restrain / Fiber port 100/1000M selection\nLED Indicators\tP(Power indicator) Green\tOff: the device is power off or failed\nLED Indicators\tP(Power indicator) Green\tOn: the device power on is normal\nLED Indicators\tS(System indicator) Red\tOff: the chip is normal\nLED Indicators\tS(System indicator) Red\tOn: the chip read/write is unnormal\nLED Indicators\t1 (Copper port)\tGreen indicators\tYellow indicators\nLED Indicators\t1 (Copper port)\tOff: ports link down\tOff: port speed is 10/100M\nLED Indicators\t1 (Copper port)\tOn: ports link up\tOn: port speed is 1000M\nLED Indicators\t1 (Copper port)\tBlinking: data on TX/RX\tOn: port speed is 1000M\nLED Indicators\t1 ( Fiber port) Green\tOff: ports link down\nLED Indicators\t1 ( Fiber port) Green\tOn: ports link up\nLED Indicators\t1 ( Fiber port) Green\tBlinking: data on TX/RX\nPower parameters\nInput voltage\t12-58VDC, redundant power input\nInput current\t0.2A Max\nTotal power consumption\tFull loading ≤2W\nConnector\tRemovable 4-pin terminal block\nReverse polarity protection\tSupport\nOver-voltage protection\tSupport\nSwitching features\nSwitching capacity\t2G\nPacket forwarding rate\t2.97pps\nMAC address table\t8K\nVLAN\t4K\nBuffer\t1M\nForwarding delay\t<5us\nJumbo Frame\tSupport 10Kbytes\nMDX/MIDX\tSupport\nWatchdog\tSupport\nNetwork Topology\nStar topology\tSupport\nBus topology\tSupport\nTree Topology\tSupport\nMechanical structure\nCase protection\tIP40\nInstallation method\tDin-rail\nDimension(W*D*H)mm\t30*85*85mm\nWeight\t0.2 kg\nOperating environment\nOperating temperature\t-40℃~+75℃\nStorage/transportation temperature\t-40℃~+85℃\nRelative humidity\t5%~95%（non-condensing）\nIndustrial Standard\tSurge protection of power: IEC 61000-4-5  Level 3 (4KV/2KV）（8/20us)\nIndustrial Standard\tSurge protection of Ethernet ports: IEC 61000-4-5  Level 3 (4KV/2KV）（10/700us)\nIndustrial Standard\tDIP: IEC 61000-4-11  Level 3（10V）\nIndustrial Standard\tESD: IEC 61000-4-2  Level 4（8K/15K）\nIndustrial Standard\tShock：IEC 60068-2-27\nIndustrial Standard\tFree fall：IEC 60068-2-32\nIndustrial Standard\tVibration：IEC 60068-2-6\nCertification\tCCC/CE/FCC/RoHS\nWarranty\t5 years\nStructure diagram\nOrder information\nModel\tDescription\nLT-IMC30G-E\t10/100/1000Base-T to 1000Base-X unmanaged compact size industrial media converter with 1*10/100/1000Base-X RJ45 port and 1*100/1000Base-X SFP slot, DC12-58V input, redundant dual power supply, Din-rail installation. Fiber port transmission distance depending on the SFP module;  Operation temperature: -40℃～+75℃\nLT-IMC30G-SC-E\t10/100/1000Base-T to 1000Base-X unmanaged compact size industrial media converter with 1*10/100/1000Base-X RJ45 port and 1*100/1000Base-X SC port, DC12-58V input, redundant dual power supply, Din-rail installation; Multi-mode/Single mode/ dual fiber/single fiber, 550m -100KM optional;  Operation temperature: -40℃～+75℃\nLT-IMC30G-FC-E\t10/100/1000Base-T to 1000Base-X unmanaged compact size industrial media converter with 1*10/100/1000Base-X RJ45 port and 1*100/1000Base-X FC port, DC12-58V input, redundant dual power supply, Din-rail installation; Multi-mode/Single mode/ dual fiber/single fiber, 550m -100KM optional;  Operation temperature: -40℃～+75℃\nLT-IMC30G-ST-E\t10/100/1000Base-T to 1000Base-X unmanaged compact size industrial media converter with 1*10/100/1000Base-X RJ45 port and 1*100/1000Base-X ST port, DC12-58V input, redundant dual power supply, Din-rail installation; Multi-mode/Single mode/ dual fiber/single fiber, 550m -100KM optional;  Operation temperature: -40℃～+75℃\n[文本框]\nSFP model\nSC/ST/FC model",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"10/100/1000Base-T to 100/1000Base-X"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Compact size Industrial Media Converter"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LT-IMC30G-E Series"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Features:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ 1*10/100/1000Base-T RJ45 port, 1*100/1000Base-X SFP(/SC/ST/FC optional) fiber port"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  Powerful Dip switch function:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1.LFP;  2. Flow control;  3. Broadcast storm restrain;  4.fiber port 100/1000M selection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Support 10K Bytes Jumbo frame and 1M large buffer"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ IP40 fan-less and Din-rail hardware design with compact size(30*85*85mm)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  Operation temperature: -40 ℃ ~+75℃"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Overview"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The SmartByte LT-IMC30G-E series are unmanaged industrial grade media converter with 1-port 10/100/1000-T RJ45 and 1-port 100/1000Base-X fiber optical interfaces. They are featuring with LFP, flow control, broadcast storm restrain and fiber port 100/1000M selection function, which all can be configured by the Dip switch on the top panel."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LT-IMC30G-E series are also high cost-effective easy-to-use devices, which provide essential industrial Ethernet networking function, such as wide range power input 12-58VDC, redundant power design with polarity reverse/over-voltage protection, robust IP40 fan-less compact size housing with Din-rail installation, wide operation temperature from -40°C to 75°C as well as high-level EMI/EMC capability and so on. They are the best choice for heavy industrial factory, transportation, oil & gas, chemical, IP Surveillance and processing automation area where environmental conditions exceed commercial product specifications"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Technical specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model No.",
+"LT-IMC30G-E"
+],
+[
+"Interface",
+"Fiber port",
+"Copper RJ45 port"
+],
+[
+"Interface",
+"1",
+"1"
+],
+[
+"Ethernet",
+"1*10/100/1000Base-T RJ45 / 1*100/1000Base-X SFP (SC/ST/FC optional)"
+],
+[
+"Standard",
+"IEEE 802.3 10Base-T Ethernet / IEEE 802.3u Fast Ethernet / IEEE 802.3ab Gigabit Ethernet / IEEE 802.3x Full-Duplex Flow Control / IEEE 802.3az Energy Efficient Ethernet"
+],
+[
+"Dip Switch",
+"LFP / Flow control / Broadcast storm restrain / Fiber port 100/1000M selection"
+],
+[
+"LED Indicators",
+"P(Power indicator) Green",
+"Off: the device is power off or failed"
+],
+[
+"LED Indicators",
+"P(Power indicator) Green",
+"On: the device power on is normal"
+],
+[
+"LED Indicators",
+"S(System indicator) Red",
+"Off: the chip is normal"
+],
+[
+"LED Indicators",
+"S(System indicator) Red",
+"On: the chip read/write is unnormal"
+],
+[
+"LED Indicators",
+"1 (Copper port)",
+"Green indicators",
+"Yellow indicators"
+],
+[
+"LED Indicators",
+"1 (Copper port)",
+"Off: ports link down",
+"Off: port speed is 10/100M"
+],
+[
+"LED Indicators",
+"1 (Copper port)",
+"On: ports link up",
+"On: port speed is 1000M"
+],
+[
+"LED Indicators",
+"1 (Copper port)",
+"Blinking: data on TX/RX",
+"On: port speed is 1000M"
+],
+[
+"LED Indicators",
+"1 ( Fiber port) Green",
+"Off: ports link down"
+],
+[
+"LED Indicators",
+"1 ( Fiber port) Green",
+"On: ports link up"
+],
+[
+"LED Indicators",
+"1 ( Fiber port) Green",
+"Blinking: data on TX/RX"
+],
+[
+"Power parameters"
+],
+[
+"Input voltage",
+"12-58VDC, redundant power input"
+],
+[
+"Input current",
+"0.2A Max"
+],
+[
+"Total power consumption",
+"Full loading ≤2W"
+],
+[
+"Connector",
+"Removable 4-pin terminal block"
+],
+[
+"Reverse polarity protection",
+"Support"
+],
+[
+"Over-voltage protection",
+"Support"
+],
+[
+"Switching features"
+],
+[
+"Switching capacity",
+"2G"
+],
+[
+"Packet forwarding rate",
+"2.97pps"
+],
+[
+"MAC address table",
+"8K"
+],
+[
+"VLAN",
+"4K"
+],
+[
+"Buffer",
+"1M"
+],
+[
+"Forwarding delay",
+"<5us"
+],
+[
+"Jumbo Frame",
+"Support 10Kbytes"
+],
+[
+"MDX/MIDX",
+"Support"
+],
+[
+"Watchdog",
+"Support"
+],
+[
+"Network Topology"
+],
+[
+"Star topology",
+"Support"
+],
+[
+"Bus topology",
+"Support"
+],
+[
+"Tree Topology",
+"Support"
+],
+[
+"Mechanical structure"
+],
+[
+"Case protection",
+"IP40"
+],
+[
+"Installation method",
+"Din-rail"
+],
+[
+"Dimension(W*D*H)mm",
+"30*85*85mm"
+],
+[
+"Weight",
+"0.2 kg"
+],
+[
+"Operating environment"
+],
+[
+"Operating temperature",
+"-40℃~+75℃"
+],
+[
+"Storage/transportation temperature",
+"-40℃~+85℃"
+],
+[
+"Relative humidity",
+"5%~95%（non-condensing）"
+],
+[
+"Industrial Standard",
+"Surge protection of power: IEC 61000-4-5  Level 3 (4KV/2KV）（8/20us)"
+],
+[
+"Industrial Standard",
+"Surge protection of Ethernet ports: IEC 61000-4-5  Level 3 (4KV/2KV）（10/700us)"
+],
+[
+"Industrial Standard",
+"DIP: IEC 61000-4-11  Level 3（10V）"
+],
+[
+"Industrial Standard",
+"ESD: IEC 61000-4-2  Level 4（8K/15K）"
+],
+[
+"Industrial Standard",
+"Shock：IEC 60068-2-27"
+],
+[
+"Industrial Standard",
+"Free fall：IEC 60068-2-32"
+],
+[
+"Industrial Standard",
+"Vibration：IEC 60068-2-6"
+],
+[
+"Certification",
+"CCC/CE/FCC/RoHS"
+],
+[
+"Warranty",
+"5 years"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Structure diagram"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Order information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"Description"
+],
+[
+"LT-IMC30G-E",
+"10/100/1000Base-T to 1000Base-X unmanaged compact size industrial media converter with 1*10/100/1000Base-X RJ45 port and 1*100/1000Base-X SFP slot, DC12-58V input, redundant dual power supply, Din-rail installation. Fiber port transmission distance depending on the SFP module;  Operation temperature: -40℃～+75℃"
+],
+[
+"LT-IMC30G-SC-E",
+"10/100/1000Base-T to 1000Base-X unmanaged compact size industrial media converter with 1*10/100/1000Base-X RJ45 port and 1*100/1000Base-X SC port, DC12-58V input, redundant dual power supply, Din-rail installation; Multi-mode/Single mode/ dual fiber/single fiber, 550m -100KM optional;  Operation temperature: -40℃～+75℃"
+],
+[
+"LT-IMC30G-FC-E",
+"10/100/1000Base-T to 1000Base-X unmanaged compact size industrial media converter with 1*10/100/1000Base-X RJ45 port and 1*100/1000Base-X FC port, DC12-58V input, redundant dual power supply, Din-rail installation; Multi-mode/Single mode/ dual fiber/single fiber, 550m -100KM optional;  Operation temperature: -40℃～+75℃"
+],
+[
+"LT-IMC30G-ST-E",
+"10/100/1000Base-T to 1000Base-X unmanaged compact size industrial media converter with 1*10/100/1000Base-X RJ45 port and 1*100/1000Base-X ST port, DC12-58V input, redundant dual power supply, Din-rail installation; Multi-mode/Single mode/ dual fiber/single fiber, 550m -100KM optional;  Operation temperature: -40℃～+75℃"
+]
+]
+}
+],
+"textboxes":[
+"SFP model",
+"SC/ST/FC model"
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":248101
+},
+{
+"name":"image2.png",
+"bytes":374604
+},
+{
+"name":"image3.png",
+"bytes":48356
+},
+{
+"name":"image4.png",
+"bytes":53329
+}
+]
+}

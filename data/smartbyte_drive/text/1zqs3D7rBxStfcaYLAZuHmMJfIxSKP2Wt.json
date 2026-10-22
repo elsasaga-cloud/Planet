@@ -1,0 +1,527 @@
+{
+"id":"1zqs3D7rBxStfcaYLAZuHmMJfIxSKP2Wt",
+"name":"LT-S8212GP-4GX8GT neutral datasheet .docx",
+"path":"SmartByte/暂时不用的/商业级管理 源DS/LT-S8212GP-4GX8GT neutral datasheet .docx",
+"type":"Word",
+"ext":".docx",
+"bytes":494498,
+"sha256":"a07357ab14a3632a252177e75a637c862494aca2f245f8dcd5f7f05d41410d2f",
+"extracted_at":"2026-10-22T02:14:40Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":8080,
+"meta":{
+"title":"",
+"author":"AChenk-King",
+"last_modified_by":"Rot",
+"created":"2021-03-19T02:57:00+00:00",
+"modified":"2024-01-04T07:40:30+00:00",
+"paragraphs":22,
+"tables":2,
+"embedded_images":3
+},
+"warnings":[],
+"text":"8*10/100/1000Base-T + 4*1G/2.5G SFP Layer 2 Managed PoE Switch\nLT-S8212GP-4GX8GT\nOverview\nSmartByte LT-S8212GP-4GX8GT is a Layer 2 full gigabit managed PoE switch, which features 8-port 10/100/1000Base-T RJ45 PoE ports and 4*1G/2.5G SFP ports. It supports powerful Layer 2 management with a high-performance switching architecture and offers wire-speed transportation capability for delivering a cost effective Gigabit Ethernet solution to meet the converged applications for enterprise customer's networks.  More and more corporations are adapting new IT technologies over the network such as voice over IP, video conference to improve productivity and save operation expenditure. The LT-S8212GP-4GX8GT series provide comprehensive end to end QoS as well as flexible and rich management , security settings, total power budget consumption up to 120 watts for different kinds of PoE applications, which provides a quick, safe and cost-effective Power over Ethernet network solution for small businesses and enterprises.\nPicture\nFeatures\n➢ 8 *10/100/1000BASE-T Gigabit Ethernet RJ45 PoE ports，4*1G/2.5G SFP slots, 1*RJ45 console interface for switch basic management and setup\n➢ Complies with IEEE 802.3at, IEEE802.3af standard. Max output power per port can reach 30W(PoE+)\n➢ Smart and standard PoE chipset to detect the PD equipments automatically, never burn the PD equipments\n➢ Port aggregation: Supports GE ports, 2.5GE port aggregation, static and dynamic aggregation\n➢ VLAN : Supports access, truck , hybrid mode and VLAN classification, including the Mac based VLAN, IP based VLAN and protocol based VLAN\n➢ QinQ:  Supports port-based, VLAN-based and flow-based QinQ\n➢ Port Mirroring: Many to one port mirroring\n➢ Layer 2 ring network protocol: Supports STP, RSTP, MSTP, G.8032 ERPS protocol, single ring, sub ring\n➢ Multicast: Supports IGMP snooping\n➢ QoS: QoS class, remarking, Supports SP, WRR queue scheduling, Ingress/Engress port-based rate-limit and policy-based QoS\n➢ Security: Support Dot1x，port authentication，mac authentication，RADIUS service; Support port-security, ip source guard，IP/Port/MAC binding, arp-check and ARP packet filtering for illegal users and port isolation\n➢ Management : Supports LLDP, user management and login authentication; SNMPV1/V2C/V3; web management，HTTP1.1，HTTPS; Syslog and alarm grading ; RMON （Remote Monitoring）alarm, event and history record; NTP, temperature monitoring; Ping、Tracert and optical transceiver DDM function; Supports TFTP Client, Telnet Server, SSH Server and IPv6 Management;  PoE management\n➢ Firmware update, configure backup/restore through Web GUI, FTP and TFTP\nTechnical specification\nModel No.\tLT-S8212GP-4GX8GT\nInterface\tFiber ports\tCopper RJ45 ports\nInterface\t4\t8\nEthernet\t8*10/100/1000Base-T RJ45 PoE / 4*1000/2500Base-X SFP\nManagement port\t1*RJ45 Console port (115200,8,N,1)\nStandard\tIEEE 802.3 10Base-T Ethernet / IEEE 802.3u 100Base-TX Ethernet / IEEE 802.3ab 1000Base-T Ethernet / IEEE 802.3z 1000Base-X Ethernet / IEEE802.3x Flow Control and Back Pressure / IEEE 802.1D Spanning Tree Protocol / IEEE 802.1w Rapid Spanning Tree Protocol / IEEE 802.1Q VLAN / ITU-T G.8032 ERPS / IEEE 802.1X Port Authentication Network Control / IEEE 802.1ab LLDP / IEEE 802.3ad LACP / IEEE 802.3af\nIEEE 802.3at\nLED Indicators\nP (Power indicator)\tOff: the device is power off or failed\tOn: the device power on is normal\nS (System status indicator)\tBlinking: device initialization\tOn: device on normal operation\n1-8 (Copper ports indicators) Green\tOff: ports link down\n1-8 (Copper ports indicators) Green\tOn: ports link up\n1-8 (Copper ports indicators) Green\tBlinking: data on TX/RX\n1-8 (PoE status indicators)  Yellow\tOff: PoE not working\n1-8 (PoE status indicators)  Yellow\tOn: PoE working\n9-12 (Fiber ports indicators) Green\tOff: ports link down\n9-12 (Fiber ports indicators) Green\tOn: ports link up\n9-12 (Fiber ports indicators) Green\tBlinking: data on TX/RX\nPower parameter\nInput voltage\tDC 52V\nTotal power consumption\tFull loading ≤120W\nOver-current protection\tSupport\nLayer 2 functions\nPort aggregation\tSupport GE port aggregation / Support 2.5GE aggregation / Support static aggregation / Support LACP dynamic aggregation / Up to 64 aggregation groups and up to 8 ports per group\nPort features\tSupport IEEE802.3x flow control / Support interface counters / Support port isolation / Port mirroring ( One-to-One, Many-to-One) / Support loop detection(Port-based; VLAN-based) / Support broadcast storm suppression(broadcast; unknown multicast; unknown unicast)\nMac-address table management\tSupport static Mac-address management / Support dynamic Mac-address Management / Support filtering Mac-address / Support MAC limit based on port and VLAN / Support MAC flapping based on port and VLAN\nVLAN\tSupport access mode / Support trunk mode / Support hybrid mode\nVLAN classification\tMac Based VLAN / IP Based VLAN / Protocol Based VLAN\nGVRP\tNormal mode / Fixed mode / Forbidden mode\nQinQ\tPort-based QinQ / VLAN-based QinQ (VLAN-stacking; VLAN-mapping) / Flow-based QinQ\nLLDP\tLLDP (Link Layer Discovery Protocol)\nRing network protocol\tSupport IEEE802.1D-STP / Support IEEE802.1W-RSTP / Support IEEE802.1S-MSTP\nRing network protocol\tSupport G.8032 ERPS protocol，single ring, sub Ring and major ring / Recovery time ≤20ms\nL2 Multicast\nIGMP snooping\tSupport IGMP snooping\nGroup address\tSupport group address\nSecurity functions\nACL\tIP Standard ACL / MAC extend ACL / IP extend ACL / IPv6 ACL\nQoS\tSupport QoS Class, remarking / Support SP, WRR queue scheduling / Ingress port-based rate-limit / Egress port-based rate-limit / Support policy-based QoS\n802.1x\tPort access control / Mac-address access control / RADIUS server\nPort-security\tPort-security\nIP source guard\tIP Port/MAC binding\nARP-check\tSupport ARP-check and ARP packet filtering for illegal users\nAccess control\tSupport Telnet/SSH/HTTP/HTTPS user access control\nManagement & Maintenance functions\nUser Management\tSupport password protection / Support user authorization management\nSNMP\tSupporting SNMP V1/V2C/V3 version\nWeb Management\tWeb Management / Support HTTP V1.1 / Support HTTPS\nCLI management\tConsole/Telnet command line management\nRMON\tSupport RMON(Remote Monitoring) alarm\nFirmware upgrade\tFirmware upgrade\nFault Detection\tPing/Tracerout / Dying gasp / Support optical transceiver DDM function\nCable detection\tSupport copper port cable detection\nPoE management\tSupport 802.3af/802.3at\nPoE management\tSupport PD watchdog\nPoE management\tSupport PoE priority management\nPoE management\tSupport Max PoE power configuration for each port\nPoE management\tSupport alarm waterline configuration\nPoE management\tSupport reserved power configuration\nNTP\tNetwork Time Protocol\nSyslog/Debug\tSyslog/Debug / Syslog send to two servers\nConfiguration import/export\tSupport FTP/TFTP remote import/export / Support USB import/export\nDual partition management\tSupport dual partition switching\nApplication Protocol Functions\nDHCP Snooping\tDHCP snooping trust port / Support remote-id/circuit-id configuration / DHCP option-82\nDHCP client\tSupport DHCP client\nTelnet server\tSupport telnet server\nTelnet client\tSupport telnet client\nSSH server\tSupport SSH server\nTACACS\tSupport TACACS(the terminal access controller accesses the control system)\nsflow\tSupport network traffic analysis\nTFTP\tSupport TFTP Client\nSwitching features\nSwitching capacity\t36Gbps\nPacket forwarding rate\t53.5Mpps\nMAC address table\t16K\nVLAN\t4K\nBuffer\t12Mbit\nForwarding delay\t<5us\nJumbo Frame\tSupport 10Kbytes\nMDX/MIDX\tSupport\nWatchdog\tSupport\nMechanical structure\nInstallation method\tDesktop; Rack-mount optional\nDimension(W*D*H)mm\t152*115*44mm\nWeight\t1.4kg (including the 120W power adaptor)\nOperating environment\nOperating temperature\t0℃~+50℃\nStorage/transportation temperature\t-10℃~+70℃\nRelative humidity\tOperation humidity: 10%-90%RH / Storage humidity: 5%-95%RH\nCertification\tCCC/CE/FCC/RoHS\nMTBF\t＞100,000 hours\nStructure diagram\nOrder information\nModel\tDescription\nLT-S8212GP-4GX8GT\tLayer 2 managed PoE switch with 4*1G/2.5G SFP slots + 8*10/100/1000M RJ45 PoE ports，DC52V, total power consumption 120W",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"8*10/100/1000Base-T + 4*1G/2.5G SFP Layer 2 Managed PoE Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LT-S8212GP-4GX8GT"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Overview"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SmartByte LT-S8212GP-4GX8GT is a Layer 2 full gigabit managed PoE switch, which features 8-port 10/100/1000Base-T RJ45 PoE ports and 4*1G/2.5G SFP ports. It supports powerful Layer 2 management with a high-performance switching architecture and offers wire-speed transportation capability for delivering a cost effective Gigabit Ethernet solution to meet the converged applications for enterprise customer's networks.  More and more corporations are adapting new IT technologies over the network such as voice over IP, video conference to improve productivity and save operation expenditure. The LT-S8212GP-4GX8GT series provide comprehensive end to end QoS as well as flexible and rich management , security settings, total power budget consumption up to 120 watts for different kinds of PoE applications, which provides a quick, safe and cost-effective Power over Ethernet network solution for small businesses and enterprises."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Picture"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ 8 *10/100/1000BASE-T Gigabit Ethernet RJ45 PoE ports，4*1G/2.5G SFP slots, 1*RJ45 console interface for switch basic management and setup"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Complies with IEEE 802.3at, IEEE802.3af standard. Max output power per port can reach 30W(PoE+)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Smart and standard PoE chipset to detect the PD equipments automatically, never burn the PD equipments"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Port aggregation: Supports GE ports, 2.5GE port aggregation, static and dynamic aggregation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ VLAN : Supports access, truck , hybrid mode and VLAN classification, including the Mac based VLAN, IP based VLAN and protocol based VLAN"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ QinQ:  Supports port-based, VLAN-based and flow-based QinQ"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Port Mirroring: Many to one port mirroring"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Layer 2 ring network protocol: Supports STP, RSTP, MSTP, G.8032 ERPS protocol, single ring, sub ring"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Multicast: Supports IGMP snooping"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ QoS: QoS class, remarking, Supports SP, WRR queue scheduling, Ingress/Engress port-based rate-limit and policy-based QoS"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Security: Support Dot1x，port authentication，mac authentication，RADIUS service; Support port-security, ip source guard，IP/Port/MAC binding, arp-check and ARP packet filtering for illegal users and port isolation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Management : Supports LLDP, user management and login authentication; SNMPV1/V2C/V3; web management，HTTP1.1，HTTPS; Syslog and alarm grading ; RMON （Remote Monitoring）alarm, event and history record; NTP, temperature monitoring; Ping、Tracert and optical transceiver DDM function; Supports TFTP Client, Telnet Server, SSH Server and IPv6 Management;  PoE management"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Firmware update, configure backup/restore through Web GUI, FTP and TFTP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Technical specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model No.",
+"LT-S8212GP-4GX8GT"
+],
+[
+"Interface",
+"Fiber ports",
+"Copper RJ45 ports"
+],
+[
+"Interface",
+"4",
+"8"
+],
+[
+"Ethernet",
+"8*10/100/1000Base-T RJ45 PoE / 4*1000/2500Base-X SFP"
+],
+[
+"Management port",
+"1*RJ45 Console port (115200,8,N,1)"
+],
+[
+"Standard",
+"IEEE 802.3 10Base-T Ethernet / IEEE 802.3u 100Base-TX Ethernet / IEEE 802.3ab 1000Base-T Ethernet / IEEE 802.3z 1000Base-X Ethernet / IEEE802.3x Flow Control and Back Pressure / IEEE 802.1D Spanning Tree Protocol / IEEE 802.1w Rapid Spanning Tree Protocol / IEEE 802.1Q VLAN / ITU-T G.8032 ERPS / IEEE 802.1X Port Authentication Network Control / IEEE 802.1ab LLDP / IEEE 802.3ad LACP / IEEE 802.3af\nIEEE 802.3at"
+],
+[
+"LED Indicators"
+],
+[
+"P (Power indicator)",
+"Off: the device is power off or failed",
+"On: the device power on is normal"
+],
+[
+"S (System status indicator)",
+"Blinking: device initialization",
+"On: device on normal operation"
+],
+[
+"1-8 (Copper ports indicators) Green",
+"Off: ports link down"
+],
+[
+"1-8 (Copper ports indicators) Green",
+"On: ports link up"
+],
+[
+"1-8 (Copper ports indicators) Green",
+"Blinking: data on TX/RX"
+],
+[
+"1-8 (PoE status indicators)  Yellow",
+"Off: PoE not working"
+],
+[
+"1-8 (PoE status indicators)  Yellow",
+"On: PoE working"
+],
+[
+"9-12 (Fiber ports indicators) Green",
+"Off: ports link down"
+],
+[
+"9-12 (Fiber ports indicators) Green",
+"On: ports link up"
+],
+[
+"9-12 (Fiber ports indicators) Green",
+"Blinking: data on TX/RX"
+],
+[
+"Power parameter"
+],
+[
+"Input voltage",
+"DC 52V"
+],
+[
+"Total power consumption",
+"Full loading ≤120W"
+],
+[
+"Over-current protection",
+"Support"
+],
+[
+"Layer 2 functions"
+],
+[
+"Port aggregation",
+"Support GE port aggregation / Support 2.5GE aggregation / Support static aggregation / Support LACP dynamic aggregation / Up to 64 aggregation groups and up to 8 ports per group"
+],
+[
+"Port features",
+"Support IEEE802.3x flow control / Support interface counters / Support port isolation / Port mirroring ( One-to-One, Many-to-One) / Support loop detection(Port-based; VLAN-based) / Support broadcast storm suppression(broadcast; unknown multicast; unknown unicast)"
+],
+[
+"Mac-address table management",
+"Support static Mac-address management / Support dynamic Mac-address Management / Support filtering Mac-address / Support MAC limit based on port and VLAN / Support MAC flapping based on port and VLAN"
+],
+[
+"VLAN",
+"Support access mode / Support trunk mode / Support hybrid mode"
+],
+[
+"VLAN classification",
+"Mac Based VLAN / IP Based VLAN / Protocol Based VLAN"
+],
+[
+"GVRP",
+"Normal mode / Fixed mode / Forbidden mode"
+],
+[
+"QinQ",
+"Port-based QinQ / VLAN-based QinQ (VLAN-stacking; VLAN-mapping) / Flow-based QinQ"
+],
+[
+"LLDP",
+"LLDP (Link Layer Discovery Protocol)"
+],
+[
+"Ring network protocol",
+"Support IEEE802.1D-STP / Support IEEE802.1W-RSTP / Support IEEE802.1S-MSTP"
+],
+[
+"Ring network protocol",
+"Support G.8032 ERPS protocol，single ring, sub Ring and major ring / Recovery time ≤20ms"
+],
+[
+"L2 Multicast"
+],
+[
+"IGMP snooping",
+"Support IGMP snooping"
+],
+[
+"Group address",
+"Support group address"
+],
+[
+"Security functions"
+],
+[
+"ACL",
+"IP Standard ACL / MAC extend ACL / IP extend ACL / IPv6 ACL"
+],
+[
+"QoS",
+"Support QoS Class, remarking / Support SP, WRR queue scheduling / Ingress port-based rate-limit / Egress port-based rate-limit / Support policy-based QoS"
+],
+[
+"802.1x",
+"Port access control / Mac-address access control / RADIUS server"
+],
+[
+"Port-security",
+"Port-security"
+],
+[
+"IP source guard",
+"IP Port/MAC binding"
+],
+[
+"ARP-check",
+"Support ARP-check and ARP packet filtering for illegal users"
+],
+[
+"Access control",
+"Support Telnet/SSH/HTTP/HTTPS user access control"
+],
+[
+"Management & Maintenance functions"
+],
+[
+"User Management",
+"Support password protection / Support user authorization management"
+],
+[
+"SNMP",
+"Supporting SNMP V1/V2C/V3 version"
+],
+[
+"Web Management",
+"Web Management / Support HTTP V1.1 / Support HTTPS"
+],
+[
+"CLI management",
+"Console/Telnet command line management"
+],
+[
+"RMON",
+"Support RMON(Remote Monitoring) alarm"
+],
+[
+"Firmware upgrade",
+"Firmware upgrade"
+],
+[
+"Fault Detection",
+"Ping/Tracerout / Dying gasp / Support optical transceiver DDM function"
+],
+[
+"Cable detection",
+"Support copper port cable detection"
+],
+[
+"PoE management",
+"Support 802.3af/802.3at"
+],
+[
+"PoE management",
+"Support PD watchdog"
+],
+[
+"PoE management",
+"Support PoE priority management"
+],
+[
+"PoE management",
+"Support Max PoE power configuration for each port"
+],
+[
+"PoE management",
+"Support alarm waterline configuration"
+],
+[
+"PoE management",
+"Support reserved power configuration"
+],
+[
+"NTP",
+"Network Time Protocol"
+],
+[
+"Syslog/Debug",
+"Syslog/Debug / Syslog send to two servers"
+],
+[
+"Configuration import/export",
+"Support FTP/TFTP remote import/export / Support USB import/export"
+],
+[
+"Dual partition management",
+"Support dual partition switching"
+],
+[
+"Application Protocol Functions"
+],
+[
+"DHCP Snooping",
+"DHCP snooping trust port / Support remote-id/circuit-id configuration / DHCP option-82"
+],
+[
+"DHCP client",
+"Support DHCP client"
+],
+[
+"Telnet server",
+"Support telnet server"
+],
+[
+"Telnet client",
+"Support telnet client"
+],
+[
+"SSH server",
+"Support SSH server"
+],
+[
+"TACACS",
+"Support TACACS(the terminal access controller accesses the control system)"
+],
+[
+"sflow",
+"Support network traffic analysis"
+],
+[
+"TFTP",
+"Support TFTP Client"
+],
+[
+"Switching features"
+],
+[
+"Switching capacity",
+"36Gbps"
+],
+[
+"Packet forwarding rate",
+"53.5Mpps"
+],
+[
+"MAC address table",
+"16K"
+],
+[
+"VLAN",
+"4K"
+],
+[
+"Buffer",
+"12Mbit"
+],
+[
+"Forwarding delay",
+"<5us"
+],
+[
+"Jumbo Frame",
+"Support 10Kbytes"
+],
+[
+"MDX/MIDX",
+"Support"
+],
+[
+"Watchdog",
+"Support"
+],
+[
+"Mechanical structure"
+],
+[
+"Installation method",
+"Desktop; Rack-mount optional"
+],
+[
+"Dimension(W*D*H)mm",
+"152*115*44mm"
+],
+[
+"Weight",
+"1.4kg (including the 120W power adaptor)"
+],
+[
+"Operating environment"
+],
+[
+"Operating temperature",
+"0℃~+50℃"
+],
+[
+"Storage/transportation temperature",
+"-10℃~+70℃"
+],
+[
+"Relative humidity",
+"Operation humidity: 10%-90%RH / Storage humidity: 5%-95%RH"
+],
+[
+"Certification",
+"CCC/CE/FCC/RoHS"
+],
+[
+"MTBF",
+"＞100,000 hours"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Structure diagram"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Order information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"Description"
+],
+[
+"LT-S8212GP-4GX8GT",
+"Layer 2 managed PoE switch with 4*1G/2.5G SFP slots + 8*10/100/1000M RJ45 PoE ports，DC52V, total power consumption 120W"
+]
+]
+}
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":426306
+},
+{
+"name":"image2.png",
+"bytes":38622
+}
+]
+}

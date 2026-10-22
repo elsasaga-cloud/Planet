@@ -1,0 +1,24 @@
+{
+"id":"1Ui1Gne2Wxv7SfmyNMZ_lS8uTQYWreCBz",
+"name":"5电口.pdf",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/3系5口（5电，1光4）/非管理/中性机械结构图/5电口.pdf",
+"type":"PDF",
+"ext":".pdf",
+"bytes":158180,
+"sha256":"cf72dc57de945ae9ee49cb433d4bcb742d0e3cdfbb0e0110fc2c39278665a268",
+"extracted_at":"2026-10-22T02:15:01Z",
+"method":"pdfplumber+OCR(1p)",
+"status":"ok",
+"chars":97,
+"meta":{
+"pages":1,
+"creationdate":"D:20230901172826+09'28'",
+"moddate":"D:20230901173026+08'00'",
+"ocr_pages":1
+},
+"warnings":[],
+"text":"[p1]\n130mm\nCae de cdc\nPO os\n~-30mm 4\n98mm\nMd Tad\nUowowow\n“30mm\n130mm\nmmmm\n=\noo oo\n130mm\n98mm\n98mm",
+"pages":[
+"130mm\nCae de cdc\nPO os\n~-30mm 4\n98mm\nMd Tad\nUowowow\n“30mm\n130mm\nmmmm\n=\noo oo\n130mm\n98mm\n98mm"
+]
+}

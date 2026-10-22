@@ -1,0 +1,5291 @@
+{
+"id":"1M1-l3SwXafPIDd4SWlwKsZNwhieJMkjb",
+"name":"2025.02.18 Marvell Software Features-7.3, 7.4, 7.5 version.xlsx",
+"path":"SmartByte/暂时不用的/2025.02.18 Marvell Software Features-7.3, 7.4, 7.5 version.xlsx",
+"type":"Excel",
+"ext":".xlsx",
+"bytes":130674,
+"sha256":"988a0c8504bee6118230d3a10305d9cb5dc5df6445cd35ff3e506c3ceba9f939",
+"extracted_at":"2026-10-22T02:12:08Z",
+"method":"openpyxl(values)",
+"status":"ok",
+"chars":26096,
+"meta":{
+"sheets":[
+"7.3.x",
+"7.4.x ",
+"7.5.x"
+],
+"embedded_images":1,
+"rows_total":527
+},
+"warnings":[],
+"text":"--- Sheet: 7.3.x ---\n\tMarvell   - Software Management Features L2+ and L3\n\tEthernet Switching\tChipset\tChipset\tMarvell 98DX223S/226S\n(AC3 Lite)\tMarvell 98DX2515/2518\n(AC5 Lite)\tMarvell 98DX336S\n(PC3)\tMarvell 98DX2538\n(AC5+)\n\t\tManagement\tManagement\tLayer 2+\tLayer 2+\tLayer 3\tLayer 3\n\t\tPort Features\tIEEE 802.3x Flow Control\t☑️\t☑️\t☑️\t☑️\n\t\t\tInterface Counters\t☑️\t☑️\t☑️\t☑️\n\t\t\tJumbo Frame(10222 Bytes)\t☑️\t☑️\t☑️\t☑️\n\t\tLink Aggregation\tGE Port Aggregaiton\t☑️\t☑️\t☑️\t☑️\n\t\t\t10GE Port Aggregation\t☑️\t☑️\t☑️\t☑️\n\t\t\tStatic Aggregation\t☑️\t☑️\t☑️\t☑️\n\t\t\tLACP Dynamic Aggragation\t☑️\t☑️\t☑️\t☑️\n\t\t\tAggregation Groups\t64\t64\t64\t64\n\t\t\tAggregation Group Members\t8\t8\t8\t8\n\t\tVLAN\tIEEE 802.1Q Tagged VLAN\t☑️\t☑️\t☑️\t☑️\n\t\t\tMac Based VLAN\t☑️\t☑️\t☑️\t☑️\n\t\t\tIP Based VLAN\t☑️\t☑️\t☑️\t☑️\n\t\t\tProtocal Based VLAN\t☑️\t☑️\t☑️\t☑️\n\t\t\tVLAN Range\t1-4094\t1-4094\t1-4094\t1-4094\n\t\tMAC Address Table\tStatic Mac-address Management\t☑️\t☑️\t☑️\t☑️\n\t\t\tDynamic Mac-address Management\t☑️\t☑️\t☑️\t☑️\n\t\t\tFiltering Mac-address\t☑️\t☑️\t☑️\t☑️\n\t\t\tPort/Vlan Based MAC Limit\t☑️\t☑️\t☑️\t☑️\n\t\t\tPort/Vlan Based MAC Flapping\t☑️\t☑️\t☑️\t☑️\n\t\t\tMac-address Table Size\t16K\t16K\t16K\t16K\n\t\tGVRP\tNormal Mode\t☑️\t☑️\t☑️\t☑️\n\t\t\tFixed Mode\t☑️\t☑️\t☑️\t☑️\n\t\t\tForbidden Mode\t☑️\t☑️\t☑️\t☑️\n\t\tGMRP\tGARP Multicast Registration Protocol\t✖️\t✖️\t✖️\t✖️\n\t\tQinQ\tPort-based QinQ\t☑️\t☑️\t☑️\t☑️\n\t\t\tVLAN-based QinQ\t☑️\t☑️\t☑️\t☑️\n\t\t\tVLAN-Mapping\t☑️\t☑️\t☑️\t☑️\n\t\t\tFlow-based QinQ\t☑️\t☑️\t☑️\t☑️\n\t\tMSTP\t802.1D STP\t☑️\t☑️\t☑️\t☑️\n\t\t\t802.1W RSTP\t☑️\t☑️\t☑️\t☑️\n\t\t\t802.1S MSTP\t☑️\t☑️\t☑️\t☑️\n\t\t\tBPDU Guard\t☑️\t☑️\t☑️\t☑️\n\t\t\tNumber of Single Ring Device Connections\t20\t20\t20\t20\n\t\tERPS G.8032\tMajor Ring\t☑️\t☑️\t☑️\t☑️\n\t\t\tSub Ring\t☑️\t☑️\t☑️\t☑️\n\t\t\tConvergence Time\t<20ms\t<20ms\t<20ms\t<20ms\n\t\t\tNumber of Single Ring Device Connections\t\\\t\\\t\\\t\\\n\t\tVoice  VLAN\tSpecially divide VLAN for user voice data flow\t✖️\t✖️\t✖️\t✖️\trelease in the next version\n\t\tPrivate VLAN\tDivide a VLAN broadcast domain into multiple subdomains to form a double-layer VLAN structure\t✖️\t✖️\t✖️\t✖️\trelease in the next version\n\t\tSuper VLAN\tAggregate multiple Sub VLANs into a Super VLAN with three-layer connectivity\t✖️\t✖️\t✖️\t✖️\trelease in the next version\n\t\tStorm Control\tBased on port bandwidth percentage\t☑️\t☑️\t☑️\t☑️\n\t\t\tBroadcast/unknown multicast/unknown unicast\t☑️\t☑️\t☑️\t☑️\n\t\tSPAN\tNumber of Sessions\t7\t7\t7\t7\n\t\t\tMany-to-one\t☑️\t☑️\t☑️\t☑️\n\t\tRSPAN\tRemote Switch Port Analyzer\t☑️\t☑️\t☑️\t✖️\trelease in the next version\n\t\tLLDP\tLink Layer Discovery Protocol\t☑️\t☑️\t☑️\t☑️\n\t\tPort Isolation\tIsolate Groups\t1\t1\n\tIP Route\tStatic Route\tSupport VLAN Interface and Route Port\t☑️\t☑️\t☑️\t☑️\n\t\t\tIPv4 Static Routing Table Entry Configuration\t☑️\t☑️\t☑️\t☑️\n\t\t\tARP Dynamic Learning and Static Configuration\t☑️\t☑️\t☑️\t☑️\n\t\t\tIPv6 Static Routing Table Entry Configuration\t☑️\t☑️\t☑️\t☑️\n\t\t\tNeighbor Discovery and Static Configuration\t☑️\t☑️\t☑️\t☑️\n\t\t\tRouting Prefix Table Size For IPv4, for IPv6 Divide by 4\t256\t768\n\t\tRIP\tRouting Information Protocol\t✖️\t✖️\t☑️\t☑️\n\t\tRIPng\tRIP Next Generation for IPv6\t✖️\t✖️\t✖️\t✖️\n\t\tOSPFv2\tOpen Shortest Path First\t✖️\t✖️\t☑️\t☑️\n\t\tOSPFv3\tOpen Shortest Path First Version 3 for IPv6\t✖️\t✖️\t✖️\t✖️\n\t\tIS-IS\tIntermediate System-to-Intermediate System\t✖️\t✖️\t☑️\t☑️\n\t\tBGP4\tBorder Gateway Protocol V4\t✖️\t✖️\t☑️\t☑️\n\t\tECMP\tEqual Cost Multi Path\t✖️\t✖️\t☑️\t☑️\n\t\tRouting Policy\tView Neighbor Numbers and Up/Down Status\t✖️\t✖️\t✖️\t✖️\n\t\tPolicy-Based Routing\tPolicy-Based Routing\t✖️\t✖️\t✖️\t✖️\n\tDHCP Service\tDHCPv4 Client\tDynamic Host Configuration Protocol, For IPv4\t☑️\t☑️\t☑️\t✖️\trelease in the next version\n\t\tDHCPv6 Client\tDynamic Host Configuration Protocol For IPv6\t☑️\t☑️\t☑️\t✖️\trelease in the next version\n\t\tDHCPv4 Relay\tDHCP Relay For IPv4\t✖️\t✖️\t✖️\t✖️\n\t\tDHCPv6 Relay\tDHCP Relay For IPv6\t✖️\t✖️\t✖️\t✖️\n\t\tDHCPv4 Snooping\tDHCP Snooping Trust Port\t☑️\t☑️\t☑️\t☑️\n\t\t\tDHCP Snooping Option-82\t☑️\t☑️\t☑️\t☑️\n\t\t\tDHCP Snooping Circuit-id and Remote-id Customized\t☑️\t☑️\t☑️\t☑️\n\t\tDHCPv6 Snooping\tDHCP Snooping For IPv6\t✖️\t✖️\t✖️\t✖️\n\t\tDHCPv4 Server\tDHCP Server,  For IPv4\t☑️\t☑️\t☑️\t☑️\n\t\tDHCPv6 Server\tDHCP Server,  For IPv6\t✖️\t✖️\t✖️\t✖️\n\t\tND Snooping\tND Snooping For IPv6\t✖️\t✖️\t✖️\t✖️\n\tQoS\tQoS\tQoS Class, Remarking\t☑️\t☑️\t☑️\t☑️\n\t\t\tSupport SP, WRR Queue Scheduling\t☑️\t☑️\t☑️\t☑️\n\t\t\tIngress Port-based Rate-limit\t☑️\t☑️\t☑️\t☑️\n\t\t\tEgress Port-based Rate-limit\t☑️\t☑️\t☑️\t☑️\n\t\t\tPolicy-based QoS\t☑️\t☑️\t☑️\t☑️\n\t\t\tRate-limit by Each Queues\t✖️\t✖️\t✖️\t✖️\n\t\t\tPort Queue Numbers\t8\t8\t8\t8\n\tMPLS\tMPLS\tMPLS L2vpn\t✖️\t✖️\t✖️\t✖️\n\t\t\tMPLS L3vpn\t✖️\t✖️\t✖️\t✖️\n\tMulticast Service\tIGMP\tIGMP v1, v2, v3\t✖️\t✖️\t✖️\t✖️\trelease in the next version\n\t\tIGMP Snooping\tInternet Group Management Protocol Snooping\t☑️\t☑️\t☑️\t☑️\n\t\t\tReport Suppression\t✖️\t✖️\t✖️\t✖️\n\t\t\tFast Leave\t☑️\t☑️\t☑️\t☑️\n\t\t\tPort Filtering\t✖️\t✖️\t✖️\t✖️\n\t\t\tMuiticast Table Size\t1K\t1K\t4K\t4K\n\t\tMLD\tMulticast Listener Discovery, For IPv6\t✖️\t✖️\t✖️\t✖️\n\t\tMLD Snooping\tMulticast Listener Discovery Snooping, For IPv6\t✖️\t✖️\t✖️\t✖️\n\t\tPIM-SM\tProtocol Independent Multicast-Sparse Mode\t✖️\t✖️\t✖️\t✖️\n\t\tPIM-DM\tProtocol Independent Multicast-Dense Mode\t✖️\t✖️\t✖️\t✖️\n\t\tPIM-SMv6\tProtocol Independent Multicast-Sparse Mode,  For  IPv6\t✖️\t✖️\t✖️\t✖️\n\t\tMSDP\tMulticast Source Discovery Protocol\t✖️\t✖️\t✖️\t✖️\n\tSecurity \nFeatures\tACL\tIP Standard ACL\t☑️\t☑️\t☑️\t☑️\n\t\t\tIP Extended ACL\t☑️\t☑️\t☑️\t☑️\n\t\t\tMAC ACL\t☑️\t☑️\t☑️\t☑️\n\t\t\tIPv6 ACL\t☑️\t☑️\t☑️\t☑️\n\t\t\tTime Range\t✖️\t✖️\t✖️\t✖️\n\t\t\tUser Defined ACL\t✖️\t✖️\t✖️\t✖️\n\t\t\tACL80\t✖️\t✖️\t✖️\t✖️\n\t\t\tACL apply on VLAN\t☑️\t☑️\t☑️\n\t\t\tACL Entrys, Include Input and Output\t240\t480\t1500\t1500\n\t\tPort-security\tPort Security\t☑️\t☑️\t☑️\t☑️\n\t\tIP Source Guard\tIP Source Guard, Port-based IP/Mac Binding Access\t☑️\t☑️\t☑️\t☑️\n\t\tIPv6 Source Guard\tIP Source Guard, Port-based IP/Mac Binding Access, For IPv6\t✖️\t✖️\t✖️\t✖️\n\t\tARP Check\tInvalid User ARP Packets Filter\t☑️\t☑️\t☑️\t☑️\n\t\tDAI\tDynamic ARP Inspection\t✖️\t✖️\t✖️\t✖️\trelease in the next version\n\t\tAnti-gateway ARP Spoofing\tPrevent Gateway ARP Spoofing\t✖️\t✖️\t✖️\t✖️\n\t\tDdos\tDdos Attack\t☑️\t☑️\t☑️\t✖️\trelease in the next version\n\t\tDot1x\tPort Access Control\t☑️\t☑️\t☑️\t☑️\n\t\t\tMac-address Access Control\t☑️\t☑️\t☑️\t☑️\n\t\t\tRADIUS Server\t☑️\t☑️\t☑️\t☑️\n\t\tAAA\tRADIUS Authentication Access Switch\t☑️\t☑️\t☑️\t☑️\n\t\t\tTACACS Authentication Access Switch\t☑️\t☑️\t☑️\t☑️\n\t\t\tAuthorization\t☑️\t☑️\t☑️\t✖️\n\t\t\tAccounting\t✖️\t✖️\t✖️\t✖️\n\tReliability\tLoop Detect\tLoop Detect, Based on Port or VLAN\t☑️\t☑️\t☑️\t☑️\n\t\tEFM\tThe Ethernet in the First Mile, 802.3ah\t✖️\t✖️\t✖️\t✖️\trelease in the next version\n\t\tDLDP\tData Link Detection Protocol\t✖️\t✖️\t✖️\t✖️\n\t\tVRRP\tVirtual Router Redundancy Protocol\t✖️\t✖️\t☑️\t☑️\n\t\tREUP\tRapid Ethernet Uplink Protection Protocol\t✖️\t✖️\t✖️\t✖️\n\t\tUDLD\tUniDirectional Link Detection\t✖️\t✖️\t✖️\t✖️\n\t\tCFM\tConnectivity Fault Management OAM, 802.3ag\t✖️\t✖️\t✖️\t✖️\n\tManagement Features\tDual Stack\tIPv4 and IPv6 Dual Stack Management\t☑️\t☑️\t☑️\t☑️\n\t\tSystem Log Management\tSyslog Level 7 to 0, Corresponding Debug, Info, Notice, Warning, Err, Critical, Alert\t☑️\t☑️\t☑️\t☑️\n\t\t\tSupports Connecting up to 3 Servers\t☑️\t☑️\t☑️\t☑️\n\t\t\tFor IPv4 and IPv6\t☑️\t☑️\t☑️\t☑️\n\t\tUser Management\tSupport Password Protection\t☑️\t☑️\t☑️\t☑️\n\t\t\tLocal Management of User Privilege\t☑️\t☑️\t☑️\t✖️\trelease in the next version\n\t\t\tRemote Authorization by RADIUS or TARCAS\t☑️\t☑️\t☑️\t✖️\trelease in the next version\n\t\t\tUser Privilege Level 0 to 15\t☑️\t☑️\t☑️\t✖️\trelease in the next version\n\t\tLogin Service Management\tUp to 8 Users Online Simultaneously\t☑️\t☑️\t☑️\t☑️\n\t\t\tAccess Control Based on IPv4 or IPv6 ACL\t☑️\t☑️\t☑️\t☑️\n\t\tFirmware Management\tFirmware Upgrade by WEB\t☑️\t☑️\t☑️\t☑️\n\t\t\tFirmware Upgrade by CLI\t☑️\t☑️\t☑️\t☑️\n\t\t\tDual Partition\t☑️\t☑️\t☑️\t☑️\n\t\tWeb Management\tWeb Management\t☑️\t☑️\t☑️\t☑️\n\t\t\tHTTP V1.1\t☑️\t☑️\t☑️\t☑️\n\t\t\tHTTPS\t✖️\t☑️\t✖️\t☑️\n\t\t\tFor IPv4 and IPv6\t☑️\t☑️\t☑️\t☑️\n\t\tFault Detection\tPing/Tracerout, For IPv4 and IPv6\t☑️\t☑️\t☑️\t☑️\n\t\t\tDying Gasp\t☑️\t☑️\t☑️\t☑️\n\t\t\tOptical Transceiver DDM\t☑️\t☑️\t☑️\t☑️\n\t\t\tOne Click Fault Information Collection\t☑️\t☑️\t☑️\t☑️\n\t\t\tCable Detect\t☑️\t☑️\t☑️\t☑️\n\t\tNTP\tNetwork Time Protocol, For IPv4 and IPv6\t☑️\t☑️\t☑️\t☑️\n\t\tConfigure Import /Export\tFTP/TFTP Based Remote Configuration Import and Export\t☑️\t☑️\t☑️\t☑️\n\t\t\tUSB Flash Drives Based Local Configuration Import and Export\t☑️\t☑️\t☑️\t☑️\n\t\tsFLOW\tSampled Flow\t☑️\t☑️\t☑️\t☑️\n\t\tSNMP\tVersion SNMPV2C/V3\t☑️\t☑️\t☑️\t☑️\n\t\tDevice Management\tStacking Management\t✖️\t✖️\t✖️\t✖️\n\t\t\tCluster Management\t✖️\t✖️\t✖️\t✖️\n\t\tLoop Back Interface\tLoop Back Interface\t✖️\t✖️\t✖️\t✖️\n\t\tRMON\tRMON\t☑️\t☑️\t☑️\t☑️\n\tApplication Protocol Features\tPoE\tPD Alive Detect\t☑️\t☑️\t☑️\t☑️\n\t\t\tPOE Port Power Feeding Priority\t☑️\t☑️\t☑️\t☑️\n\t\t\tPOE Port Power Limit\t☑️\t☑️\t☑️\t☑️\n\t\t\tPOE Power Alarm Level\t☑️\t☑️\t☑️\t☑️\n\t\t\tPOE Reseve Power\t☑️\t☑️\t☑️\t☑️\n\t\t\tTime Range\t✖️\t✖️\t✖️\t✖️\n\t\t\tPOE Legacy Mode\t☑️\t☑️\t☑️\t☑️\n\t\t\tIEEE 802.3af, IEEE 802.3at, IEEE 802.3bt\t☑️\t☑️\t☑️\t☑️\n\t\tTelnet Server\tTelnet Server, For IPv4 and IPv6\t☑️\t☑️\t☑️\t☑️\n\t\tTelnet Client\tTelnet Client, For IPv4 and IPv6\t☑️\t☑️\t☑️\t☑️\n\t\tZero Automatic Manager\tZero Automatic Manager\t✖️\t✖️\t✖️\t✖️\n\t\tSSH Server\tSupports login based on user password-SSH2, supports IPv4, IPv6\t☑️\t☑️\t☑️\t☑️\n\t\t\tSupport public key-based login\t✖️\t✖️\t✖️\t✖️\n--- Sheet: 7.4.x  ---\n\tMarvell   - Software Management Features L2+ and L3\n\tEthernet Switching\tChipset\tChipset\tMarvell 98DX223S/226S\n(AC3 Lite)\tMarvell 98DX2515/2518\n(AC5 Lite)\tMarvell 98DX336S\n(PC3)\tMarvell 98DX2538\n(AC5+)\n\t\tManagement\tManagement\tLayer 2+\tLayer 2+\tLayer 3\tLayer 3\n\t\tPort Features\tIEEE 802.3x Flow Control\t☑️\t☑️\t☑️\t☑️\n\t\t\tInterface Counters\t☑️\t☑️\t☑️\t☑️\n\t\t\tJumbo Frame(10222 Bytes)\t☑️\t☑️\t☑️\t☑️\n\t\tLink Aggregation\tGE Port Aggregaiton\t☑️\t☑️\t☑️\t☑️\n\t\t\t10GE Port Aggregation\t☑️\t☑️\t☑️\t☑️\n\t\t\tStatic Aggregation\t☑️\t☑️\t☑️\t☑️\n\t\t\tLACP Dynamic Aggragation\t☑️\t☑️\t☑️\t☑️\n\t\t\tAggregation Groups\t64\t64\t64\t64\n\t\t\tAggregation Group Members\t8\t8\t8\t8\n\t\tVLAN\tIEEE 802.1Q Tagged VLAN\t☑️\t☑️\t☑️\t☑️\n\t\t\tMac Based VLAN\t☑️\t☑️\t☑️\t☑️\n\t\t\tIP Based VLAN\t☑️\t☑️\t☑️\t☑️\n\t\t\tProtocal Based VLAN\t☑️\t☑️\t☑️\t☑️\n\t\t\tVLAN Range\t1-4094\t1-4094\t1-4094\t1-4094\n\t\tMAC Address Table\tStatic Mac-address Management\t☑️\t☑️\t☑️\t☑️\n\t\t\tDynamic Mac-address Management\t☑️\t☑️\t☑️\t☑️\n\t\t\tFiltering Mac-address\t☑️\t☑️\t☑️\t☑️\n\t\t\tPort/Vlan Based MAC Limit\t☑️\t☑️\t☑️\t☑️\n\t\t\tPort/Vlan Based MAC Flapping\t☑️\t☑️\t☑️\t☑️\n\t\t\tMac-address Table Size\t16K\t16K\t16K\t16K\n\t\tGVRP\tNormal Mode\t☑️\t☑️\t☑️\t☑️\n\t\t\tFixed Mode\t☑️\t☑️\t☑️\t☑️\n\t\t\tForbidden Mode\t☑️\t☑️\t☑️\t☑️\n\t\tGMRP\tGARP Multicast Registration Protocol\t✖️\t✖️\t✖️\t✖️\n\t\tQinQ\tPort-based QinQ\t☑️\t☑️\t☑️\t☑️\n\t\t\tVLAN-based QinQ\t☑️\t☑️\t☑️\t☑️\n\t\t\tVLAN-Mapping\t☑️\t☑️\t☑️\t☑️\n\t\t\tFlow-based QinQ\t☑️\t☑️\t☑️\t☑️\n\t\tMSTP\t802.1D STP\t☑️\t☑️\t☑️\t☑️\n\t\t\t802.1W RSTP\t☑️\t☑️\t☑️\t☑️\n\t\t\t802.1S MSTP\t☑️\t☑️\t☑️\t☑️\n\t\t\tBPDU Guard\t☑️\t☑️\t☑️\t☑️\n\t\t\tNumber of Single Ring Device Connections\t20\t20\t20\t20\n\t\tERPS G.8032\tMajor Ring\t☑️\t☑️\t☑️\t☑️\n\t\t\tSub Ring\t☑️\t☑️\t☑️\t☑️\n\t\t\tConvergence Time\t<20ms\t<20ms\t<20ms\t<20ms\n\t\t\tNumber of Single Ring Device Connections\t\\\t\\\t\\\t\\\n\t\tVoice  VLAN\tSpecially divide VLAN for user voice data flow\t✖️\t☑️\t✖️\t✖️\n\t\tPrivate VLAN\tDivide a VLAN broadcast domain into multiple subdomains to form a double-layer VLAN structure\t✖️\t✖️\t✖️\t✖️\n\t\tSuper VLAN\tAggregate multiple Sub VLANs into a Super VLAN with three-layer connectivity\t✖️\t✖️\t✖️\t✖️\n\t\tStorm Control\tBased on port bandwidth percentage\t☑️\t☑️\t☑️\t☑️\n\t\t\tBroadcast/unknown multicast/unknown unicast\t☑️\t☑️\t☑️\t☑️\n\t\tSPAN\tNumber of Sessions\t7\t7\t7\t7\n\t\t\tMany-to-one\t☑️\t☑️\t☑️\t☑️\n\t\tRSPAN\tRemote Switch Port Analyzer\t☑️\t☑️\t☑️\t✖️\n\t\tLLDP\tLink Layer Discovery Protocol\t☑️\t☑️\t☑️\t☑️\n\t\tPort Isolation\tIsolate Groups\t1\t1\n\tIP Route\tStatic Route\tSupport VLAN Interface and Route Port\t☑️\t☑️\t☑️\t☑️\n\t\t\tIPv4 Static Routing Table Entry Configuration\t☑️\t☑️\t☑️\t☑️\n\t\t\tARP Dynamic Learning and Static Configuration\t☑️\t☑️\t☑️\t☑️\n\t\t\tIPv6 Static Routing Table Entry Configuration\t☑️\t☑️\t☑️\t☑️\n\t\t\tNeighbor Discovery and Static Configuration\t☑️\t☑️\t☑️\t☑️\n\t\t\tRouting Prefix Table Size For IPv4, for IPv6 Divide by 4\t256\t768\n\t\tRIP\tRouting Information Protocol\t✖️\t✖️\t☑️\t☑️\n\t\tRIPng\tRIP Next Generation for IPv6\t✖️\t✖️\t✖️\t✖️\n\t\tOSPFv2\tOpen Shortest Path First\t✖️\t✖️\t☑️\t☑️\n\t\tOSPFv3\tOpen Shortest Path First Version 3 for IPv6\t✖️\t✖️\t✖️\t✖️\n\t\tIS-IS\tIntermediate System-to-Intermediate System\t✖️\t✖️\t☑️\t☑️\n\t\tBGP4\tBorder Gateway Protocol V4\t✖️\t✖️\t☑️\t☑️\n\t\tECMP\tEqual Cost Multi Path\t✖️\t✖️\t☑️\t☑️\n\t\tRouting Policy\tView Neighbor Numbers and Up/Down Status\t✖️\t✖️\t✖️\t✖️\n\t\tPolicy-Based Routing\tPolicy-Based Routing\t✖️\t✖️\t✖️\t✖️\n\tDHCP Service\tDHCPv4 Client\tDynamic Host Configuration Protocol, For IPv4\t☑️\t☑️\t☑️\t✖️\n\t\tDHCPv6 Client\tDynamic Host Configuration Protocol For IPv6\t☑️\t☑️\t☑️\t✖️\n\t\tDHCPv4 Relay\tDHCP Relay For IPv4\t✖️\t☑️\t✖️\t✖️\n\t\tDHCPv6 Relay\tDHCP Relay For IPv6\t✖️\t✖️\t✖️\t✖️\n\t\tDHCPv4 Snooping\tDHCP Snooping Trust Port\t☑️\t☑️\t☑️\t☑️\n\t\t\tDHCP Snooping Option-82\t☑️\t☑️\t☑️\t☑️\n\t\t\tDHCP Snooping Circuit-id and Remote-id Customized\t☑️\t☑️\t☑️\t☑️\n\t\tDHCPv6 Snooping\tDHCP Snooping For IPv6\t✖️\t✖️\t✖️\t✖️\n\t\tDHCPv4 Server\tDHCP Server,  For IPv4\t☑️\t☑️\t☑️\t☑️\n\t\tDHCPv6 Server\tDHCP Server,  For IPv6\t✖️\t✖️\t✖️\t✖️\n\t\tND Snooping\tND Snooping For IPv6\t✖️\t✖️\t✖️\t✖️\n\tQoS\tQoS\tQoS Class, Remarking\t☑️\t☑️\t☑️\t☑️\n\t\t\tSupport SP, WRR Queue Scheduling\t☑️\t☑️\t☑️\t☑️\n\t\t\tIngress Port-based Rate-limit\t☑️\t☑️\t☑️\t☑️\n\t\t\tEgress Port-based Rate-limit\t☑️\t☑️\t☑️\t☑️\n\t\t\tPolicy-based QoS\t☑️\t☑️\t☑️\t☑️\n\t\t\tRate-limit by Each Queues\t✖️\t✖️\t✖️\t✖️\n\t\t\tPort Queue Numbers\t8\t8\t8\t8\n\tMPLS\tMPLS\tMPLS L2vpn\t✖️\t✖️\t✖️\t✖️\n\t\t\tMPLS L3vpn\t✖️\t✖️\t✖️\t✖️\n\tMulticast Service\tIGMP\tIGMP v1, v2, v3\t✖️\t✖️\t✖️\t✖️\n\t\tIGMP Snooping\tInternet Group Management Protocol Snooping\t☑️\t☑️\t☑️\t☑️\n\t\t\tReport Suppression\t✖️\t✖️\t✖️\t✖️\n\t\t\tFast Leave\t☑️\t☑️\t☑️\t☑️\n\t\t\tPort Filtering\t✖️\t✖️\t✖️\t✖️\n\t\t\tMuiticast Table Size\t1K\t1K\t4K\t4K\n\t\tMLD\tMulticast Listener Discovery, For IPv6\t✖️\t✖️\t✖️\t✖️\n\t\tMLD Snooping\tMulticast Listener Discovery Snooping, For IPv6\t✖️\t✖️\t✖️\t✖️\n\t\tPIM-SM\tProtocol Independent Multicast-Sparse Mode\t✖️\t✖️\t✖️\t✖️\n\t\tPIM-DM\tProtocol Independent Multicast-Dense Mode\t✖️\t✖️\t✖️\t✖️\n\t\tPIM-SMv6\tProtocol Independent Multicast-Sparse Mode,  For  IPv6\t✖️\t✖️\t✖️\t✖️\n\t\tMSDP\tMulticast Source Discovery Protocol\t✖️\t✖️\t✖️\t✖️\n\tSecurity \nFeatures\tACL\tIP Standard ACL\t☑️\t☑️\t☑️\t☑️\n\t\t\tIP Extended ACL\t☑️\t☑️\t☑️\t☑️\n\t\t\tMAC ACL\t☑️\t☑️\t☑️\t☑️\n\t\t\tIPv6 ACL\t☑️\t☑️\t☑️\t☑️\n\t\t\tTime Range\t✖️\t✖️\t✖️\t✖️\n\t\t\tUser Defined ACL\t✖️\t✖️\t✖️\t✖️\n\t\t\tACL80\t✖️\t✖️\t✖️\t✖️\n\t\t\tACL apply on VLAN\t☑️\t☑️\t☑️\n\t\t\tACL Entrys, Include Input and Output\t240\t480\t1500\t1500\n\t\tPort-security\tPort Security\t☑️\t☑️\t☑️\t☑️\n\t\tIP Source Guard\tIP Source Guard, Port-based IP/Mac Binding Access\t☑️\t☑️\t☑️\t☑️\n\t\tIPv6 Source Guard\tIP Source Guard, Port-based IP/Mac Binding Access, For IPv6\t✖️\t✖️\t✖️\t✖️\n\t\tARP Check\tInvalid User ARP Packets Filter\t☑️\t☑️\t☑️\t☑️\n\t\tDAI\tDynamic ARP Inspection\t✖️\t☑️\t✖️\t✖️\n\t\tAnti-gateway ARP Spoofing\tPrevent Gateway ARP Spoofing\t✖️\t☑️\t✖️\t✖️\n\t\tDdos\tDdos Attack\t☑️\t☑️\t☑️\t✖️\n\t\tDot1x\tPort Access Control\t☑️\t☑️\t☑️\t☑️\n\t\t\tMac-address Access Control\t☑️\t☑️\t☑️\t☑️\n\t\t\tRADIUS Server\t☑️\t☑️\t☑️\t☑️\n\t\tAAA\tRADIUS Authentication Access Switch\t☑️\t☑️\t☑️\t☑️\n\t\t\tTACACS Authentication Access Switch\t☑️\t☑️\t☑️\t☑️\n\t\t\tAuthorization\t☑️\t☑️\t☑️\t✖️\n\t\t\tAccounting\t✖️\t✖️\t✖️\t✖️\n\tReliability\tLoop Detect\tLoop Detect, Based on Port or VLAN\t☑️\t☑️\t☑️\t☑️\n\t\tEFM\tThe Ethernet in the First Mile, 802.3ah\t✖️\t☑️\t✖️\t✖️\n\t\tDLDP\tData Link Detection Protocol\t✖️\t✖️\t✖️\t✖️\n\t\tVRRP\tVirtual Router Redundancy Protocol\t✖️\t✖️\t☑️\t☑️\n\t\tREUP\tRapid Ethernet Uplink Protection Protocol\t✖️\t✖️\t✖️\t✖️\n\t\tUDLD\tUniDirectional Link Detection\t✖️\t✖️\t✖️\t✖️\n\t\tCFM\tConnectivity Fault Management OAM, 802.3ag\t✖️\t✖️\t✖️\t✖️\n\tManagement Features\tDual Stack\tIPv4 and IPv6 Dual Stack Management\t☑️\t☑️\t☑️\t☑️\n\t\tSystem Log Management\tSyslog Level 7 to 0, Corresponding Debug, Info, Notice, Warning, Err, Critical, Alert\t☑️\t☑️\t☑️\t☑️\n\t\t\tSupports Connecting up to 3 Servers\t☑️\t☑️\t☑️\t☑️\n\t\t\tFor IPv4 and IPv6\t☑️\t☑️\t☑️\t☑️\n\t\tUser Management\tSupport Password Protection, support MD5/SHA256/SHA512 algorithm\t☑️\t☑️\t☑️\t☑️\n\t\t\tLocal Management of User Privilege\t☑️\t☑️\t☑️\t✖️\n\t\t\tRemote Authorization by RADIUS or TARCAS\t☑️\t☑️\t☑️\t✖️\n\t\t\tUser Privilege Level 0 to 15\t☑️\t☑️\t☑️\t✖️\n\t\tLogin Service Management\tUp to 8 Users Online Simultaneously\t☑️\t☑️\t☑️\t☑️\n\t\t\tAccess Control Based on IPv4 or IPv6 ACL\t☑️\t☑️\t☑️\t☑️\n\t\tFirmware Management\tFirmware Upgrade by WEB\t☑️\t☑️\t☑️\t☑️\n\t\t\tFirmware Upgrade by CLI\t☑️\t☑️\t☑️\t☑️\n\t\t\tDual Partition\t☑️\t☑️\t☑️\t☑️\n\t\tWeb Management\tWeb Management\t☑️\t☑️\t☑️\t☑️\n\t\t\tHTTP V1.1\t☑️\t☑️\t☑️\t☑️\n\t\t\tHTTPS\t✖️\t☑️\t✖️\t☑️\n\t\t\tFor IPv4 and IPv6\t☑️\t☑️\t☑️\t☑️\n\t\tFault Detection\tPing/Tracerout, For IPv4 and IPv6\t☑️\t☑️\t☑️\t☑️\n\t\t\tDying Gasp\t☑️\t☑️\t☑️\t☑️\n\t\t\tOptical Transceiver DDM\t☑️\t☑️\t☑️\t☑️\n\t\t\tOne Click Fault Information Collection\t☑️\t☑️\t☑️\t☑️\n\t\t\tCable Detect\t☑️\t☑️\t☑️\t☑️\n\t\tdns\tDomain Name System\t✖️\t☑️\t✖️\t✖️\n\t\tNTP\tNetwork Time Protocol, For IPv4 and IPv6\t☑️\t☑️\t☑️\t☑️\n\t\t\tSupport domain name configuration\t✖️\t☑️\t✖️\t✖️\n\t\tConfigure Import /Export\tFTP/TFTP Based Remote Configuration Import and Export\t☑️\t☑️\t☑️\t☑️\n\t\t\tUSB Flash Drives Based Local Configuration Import and Export\t☑️\t☑️\t☑️\t☑️\n\t\tsFLOW\tSampled Flow\t☑️\t☑️\t☑️\t☑️\n\t\tSNMP\tVersion SNMPV2C/V3\t☑️\t☑️\t☑️\t☑️\n\t\tDevice Management\tStacking Management\t✖️\t✖️\t✖️\t✖️\n\t\t\tCluster Management\t✖️\t✖️\t✖️\t✖️\n\t\tLoop Back Interface\tLoop Back Interface\t✖️\t✖️\t✖️\t✖️\n\t\tRMON\tRMON\t☑️\t☑️\t☑️\t☑️\n\tApplication Protocol Features\tPoE\tPD Alive Detect\t☑️\t☑️\t☑️\t☑️\n\t\t\tPOE Port Power Feeding Priority\t☑️\t☑️\t☑️\t☑️\n\t\t\tPOE Port Power Limit\t☑️\t☑️\t☑️\t☑️\n\t\t\tPOE Power Alarm Level\t☑️\t☑️\t☑️\t☑️\n\t\t\tPOE Reseve Power\t☑️\t☑️\t☑️\t☑️\n\t\t\tTime Range\t✖️\t✖️\t✖️\t✖️\n\t\t\tPOE Legacy Mode\t☑️\t☑️\t☑️\t☑️\n\t\t\tIEEE 802.3af, IEEE 802.3at, IEEE 802.3bt\t☑️\t☑️\t☑️\t☑️\n\t\tTelnet Server\tTelnet Server, For IPv4 and IPv6\t☑️\t☑️\t☑️\t☑️\n\t\tTelnet Client\tTelnet Client, For IPv4 and IPv6\t☑️\t☑️\t☑️\t☑️\n\t\tscp\tscp client、server, For IPv4 and IPv6\t✖️\t☑️\t✖️\t✖️\n\t\tsftp\tsftp client、server, For IPv4 and IPv6\t✖️\t☑️\t✖️\t✖️\n\t\tRelay warning\tRelay warning for IO ctrl\t✖️\t☑️\t✖️\t✖️\n\t\tZero Automatic Manager\tZero Automatic Manager\t✖️\t✖️\t✖️\t✖️\n\t\tSSH Server\tSupports login based on user password-SSH2, supports IPv4, IPv6\t☑️\t☑️\t☑️\t☑️\n\t\t\tSupport public key-based login\t✖️\t☑️\t✖️\t✖️\n--- Sheet: 7.5.x ---\n\tMarvell   - Software Management Features L2+ and L3\n\tEthernet Switching\tChipset\tChipset\tMarvell 98DX223S/226S\n(AC3 Lite)\tMarvell 98DX2515/2518\n(AC5 Lite)\tMarvell 98DX336S\n(PC3)\tMarvell 98DX2538\n(AC5+)\n\t\tManagement\tManagement\tLayer 2+\tLayer 2+\tLayer 3\tLayer 3\n\t\tPort Features\tIEEE 802.3x Flow Control\t☑️\t☑️\t☑️\t☑️\n\t\t\tInterface Counters\t☑️\t☑️\t☑️\t☑️\n\t\t\tOptical port adaptive\t✖️\t☑️\t✖️\t✖️\n\t\t\tJumbo Frame(10222 Bytes)\t☑️\t☑️\t☑️\t☑️\n\t\tLink Aggregation\tGE Port Aggregaiton\t☑️\t☑️\t☑️\t☑️\n\t\t\t10GE Port Aggregation\t☑️\t☑️\t☑️\t☑️\n\t\t\tStatic Aggregation\t☑️\t☑️\t☑️\t☑️\n\t\t\tLACP Dynamic Aggragation\t☑️\t☑️\t☑️\t☑️\n\t\t\tAggregation Groups\t64\t64\t64\t64\n\t\t\tAggregation Group Members\t8\t8\t8\t8\n\t\tVLAN\tIEEE 802.1Q Tagged VLAN\t☑️\t☑️\t☑️\t☑️\n\t\t\tMac Based VLAN\t☑️\t☑️\t☑️\t☑️\n\t\t\tIP Based VLAN\t☑️\t☑️\t☑️\t☑️\n\t\t\tProtocal Based VLAN\t☑️\t☑️\t☑️\t☑️\n\t\t\tVLAN Range\t1-4094\t1-4094\t1-4094\t1-4094\n\t\tMAC Address Table\tStatic Mac-address Management\t☑️\t☑️\t☑️\t☑️\n\t\t\tDynamic Mac-address Management\t☑️\t☑️\t☑️\t☑️\n\t\t\tFiltering Mac-address\t☑️\t☑️\t☑️\t☑️\n\t\t\tPort/Vlan Based MAC Limit\t☑️\t☑️\t☑️\t☑️\n\t\t\tPort/Vlan Based MAC Flapping\t☑️\t☑️\t☑️\t☑️\n\t\t\tMac-address Table Size\t16K\t16K\t16K\t16K\n\t\tGVRP\tNormal Mode\t☑️\t☑️\t☑️\t☑️\n\t\t\tFixed Mode\t☑️\t☑️\t☑️\t☑️\n\t\t\tForbidden Mode\t☑️\t☑️\t☑️\t☑️\n\t\tGMRP\tGARP Multicast Registration Protocol\t✖️\t✖️\t✖️\t✖️\n\t\tQinQ\tPort-based QinQ\t☑️\t☑️\t☑️\t☑️\n\t\t\tVLAN-based QinQ\t☑️\t☑️\t☑️\t☑️\n\t\t\tVLAN-Mapping\t☑️\t☑️\t☑️\t☑️\n\t\t\tFlow-based QinQ\t☑️\t☑️\t☑️\t☑️\n\t\tMSTP\t802.1D STP\t☑️\t☑️\t☑️\t☑️\n\t\t\t802.1W RSTP\t☑️\t☑️\t☑️\t☑️\n\t\t\t802.1S MSTP\t☑️\t☑️\t☑️\t☑️\n\t\t\tBPDU Guard\t☑️\t☑️\t☑️\t☑️\n\t\t\tNumber of Single Ring Device Connections\t20\t20\t20\t20\n\t\tERPS G.8032\tMajor Ring\t☑️\t☑️\t☑️\t☑️\n\t\t\tSub Ring\t☑️\t☑️\t☑️\t☑️\n\t\t\tConvergence Time\t<20ms\t<20ms\t<20ms\t<20ms\n\t\t\tNumber of Single Ring Device Connections\t\\\t\\\t\\\t\\\n\t\tVoice  VLAN\tSpecially divide VLAN for user voice data flow\t✖️\t☑️\t✖️\t✖️\n\t\tPrivate VLAN\tDivide a VLAN broadcast domain into multiple subdomains to form a double-layer VLAN structure\t✖️\t☑️\t✖️\t✖️\n\t\tSuper VLAN\tAggregate multiple Sub VLANs into a Super VLAN with three-layer connectivity\t✖️\t✖️\t✖️\t✖️\n\t\tStorm Control\tBased on port bandwidth percentage\t☑️\t☑️\t☑️\t☑️\n\t\t\tBroadcast/unknown multicast/unknown unicast\t☑️\t☑️\t☑️\t☑️\n\t\tSPAN\tNumber of Sessions\t7\t7\t7\t7\n\t\t\tMany-to-one\t☑️\t☑️\t☑️\t☑️\n\t\tRSPAN\tRemote Switch Port Analyzer\t☑️\t☑️\t☑️\t✖️\n\t\tLLDP\tLink Layer Discovery Protocol\t☑️\t☑️\t☑️\t☑️\n\t\t\tMed\t✖️\t☑️\t✖️\t✖️\n\t\tPort Isolation\tIsolate Groups\t1\t1\n\tIP Route\tStatic Route\tSupport VLAN Interface and Route Port\t☑️\t☑️\t☑️\t☑️\n\t\t\tIPv4 Static Routing Table Entry Configuration\t☑️\t☑️\t☑️\t☑️\n\t\t\tARP Dynamic Learning and Static Configuration\t☑️\t☑️\t☑️\t☑️\n\t\t\tIPv6 Static Routing Table Entry Configuration\t☑️\t☑️\t☑️\t☑️\n\t\t\tNeighbor Discovery and Static Configuration\t☑️\t☑️\t☑️\t☑️\n\t\t\tRouting Prefix Table Size For IPv4, for IPv6 Divide by 4\t256\t768\n\t\tRIP\tRouting Information Protocol\t✖️\t✖️\t☑️\t☑️\n\t\tRIPng\tRIP Next Generation for IPv6\t✖️\t✖️\t✖️\t✖️\n\t\tOSPFv2\tOpen Shortest Path First\t✖️\t✖️\t☑️\t☑️\n\t\tOSPFv3\tOpen Shortest Path First Version 3 for IPv6\t✖️\t✖️\t✖️\t✖️\n\t\tIS-IS\tIntermediate System-to-Intermediate System\t✖️\t✖️\t☑️\t☑️\n\t\tBGP4\tBorder Gateway Protocol V4\t✖️\t✖️\t☑️\t☑️\n\t\tECMP\tEqual Cost Multi Path\t✖️\t✖️\t☑️\t☑️\n\t\tRouting Policy\tView Neighbor Numbers and Up/Down Status\t✖️\t✖️\t✖️\t✖️\n\t\tPolicy-Based Routing\tPolicy-Based Routing\t✖️\t✖️\t✖️\t✖️\n\tDHCP Service\tDHCPv4 Client\tDynamic Host Configuration Protocol, For IPv4\t☑️\t☑️\t☑️\t✖️\n\t\tDHCPv6 Client\tDynamic Host Configuration Protocol For IPv6\t☑️\t☑️\t☑️\t✖️\n\t\tDHCPv4 Relay\tDHCP Relay For IPv4\t✖️\t☑️\t✖️\t✖️\n\t\tDHCPv6 Relay\tDHCP Relay For IPv6\t✖️\t☑️\t✖️\t✖️\n\t\tDHCPv4 Snooping\tDHCP Snooping Trust Port\t☑️\t☑️\t☑️\t☑️\n\t\t\tDHCP Snooping Option-82\t☑️\t☑️\t☑️\t☑️\n\t\t\tDHCP Snooping Circuit-id and Remote-id Customized\t☑️\t☑️\t☑️\t☑️\n\t\tDHCPv6 Snooping\tDHCP Snooping For IPv6\t✖️\t☑️\t✖️\t✖️\n\t\tDHCPv4 Server\tDHCP Server,  For IPv4\t☑️\t☑️\t☑️\t☑️\n\t\tDHCPv6 Server\tDHCP Server,  For IPv6\t✖️\t☑️\t✖️\t✖️\n\t\tND Snooping\tND Snooping For IPv6\t✖️\t✖️\t✖️\t✖️\n\tQoS\tQoS\tQoS Class, Remarking\t☑️\t☑️\t☑️\t☑️\n\t\t\tSupport SP, WRR Queue Scheduling\t☑️\t☑️\t☑️\t☑️\n\t\t\tIngress Port-based Rate-limit\t☑️\t☑️\t☑️\t☑️\n\t\t\tEgress Port-based Rate-limit\t☑️\t☑️\t☑️\t☑️\n\t\t\tPolicy-based QoS\t☑️\t☑️\t☑️\t☑️\n\t\t\tRate-limit by Each Queues\t✖️\t✖️\t✖️\t✖️\n\t\t\tPort Queue Numbers\t8\t8\t8\t8\n\tMPLS\tMPLS\tMPLS L2vpn\t✖️\t✖️\t✖️\t✖️\n\t\t\tMPLS L3vpn\t✖️\t✖️\t✖️\t✖️\n\tMulticast Service\tIGMP\tIGMP v1, v2, v3\t✖️\t☑️\t✖️\t✖️\n\t\tIGMP Snooping\tInternet Group Management Protocol Snooping\t☑️\t☑️\t☑️\t☑️\n\t\t\tReport Suppression\t✖️\t✖️\t✖️\t✖️\n\t\t\tFast Leave\t☑️\t☑️\t☑️\t☑️\n\t\t\tPort Filtering\t✖️\t✖️\t✖️\t✖️\n\t\t\tMuiticast Table Size\t1K\t1K\t4K\t4K\n\t\tMLD\tMulticast Listener Discovery, For IPv6\t✖️\t✖️\t✖️\t✖️\n\t\tMLD Snooping\tMulticast Listener Discovery Snooping, For IPv6\t✖️\t☑️\t✖️\t✖️\n\t\tPIM-SM\tProtocol Independent Multicast-Sparse Mode\t✖️\t☑️\t✖️\t✖️\n\t\tPIM-DM\tProtocol Independent Multicast-Dense Mode\t✖️\t✖️\t✖️\t✖️\n\t\tPIM-SMv6\tProtocol Independent Multicast-Sparse Mode,  For  IPv6\t✖️\t✖️\t✖️\t✖️\n\t\tMSDP\tMulticast Source Discovery Protocol\t✖️\t✖️\t✖️\t✖️\n\tSecurity \nFeatures\tACL\tIP Standard ACL\t☑️\t☑️\t☑️\t☑️\n\t\t\tIP Extended ACL\t☑️\t☑️\t☑️\t☑️\n\t\t\tMAC ACL\t☑️\t☑️\t☑️\t☑️\n\t\t\tIPv6 ACL\t☑️\t☑️\t☑️\t☑️\n\t\t\tTime Range\t✖️\t☑️\t✖️\t✖️\n\t\t\tUser Defined ACL\t✖️\t✖️\t✖️\t✖️\n\t\t\tACL80\t✖️\t✖️\t✖️\t✖️\n\t\t\tACL apply on VLAN\t☑️\t☑️\t☑️\n\t\t\tACL Entrys, Include Input and Output\t240\t480\t1500\t1500\n\t\tPort-security\tPort Security\t☑️\t☑️\t☑️\t☑️\n\t\tIP Source Guard\tIP Source Guard, Port-based IP/Mac Binding Access\t☑️\t☑️\t☑️\t☑️\n\t\tIPv6 Source Guard\tIP Source Guard, Port-based IP/Mac Binding Access, For IPv6\t✖️\t✖️\t✖️\t✖️\n\t\tARP Check\tInvalid User ARP Packets Filter\t☑️\t☑️\t☑️\t☑️\n\t\tDAI\tDynamic ARP Inspection\t✖️\t☑️\t✖️\t✖️\n\t\tAnti-gateway ARP Spoofing\tPrevent Gateway ARP Spoofing\t✖️\t☑️\t✖️\t✖️\n\t\tDdos\tDdos Attack\t☑️\t☑️\t☑️\t✖️\n\t\tDot1x\tPort Access Control\t☑️\t☑️\t☑️\t☑️\n\t\t\tMac-address Access Control\t☑️\t☑️\t☑️\t☑️\n\t\t\tRADIUS Server\t☑️\t☑️\t☑️\t☑️\n\t\tAAA\tRADIUS Authentication Access Switch\t☑️\t☑️\t☑️\t☑️\n\t\t\tTACACS Authentication Access Switch\t☑️\t☑️\t☑️\t☑️\n\t\t\tAuthorization\t☑️\t☑️\t☑️\t✖️\n\t\t\tAccounting\t✖️\t✖️\t✖️\t✖️\n\tReliability\tLoop Detect\tLoop Detect, Based on Port or VLAN\t☑️\t☑️\t☑️\t☑️\n\t\tEFM\tThe Ethernet in the First Mile, 802.3ah\t✖️\t☑️\t✖️\t✖️\n\t\tDLDP\tData Link Detection Protocol\t✖️\t✖️\t✖️\t✖️\n\t\tVRRP\tVirtual Router Redundancy Protocol\t✖️\t✖️\t☑️\t☑️\n\t\tREUP\tRapid Ethernet Uplink Protection Protocol\t✖️\t✖️\t✖️\t✖️\n\t\tUDLD\tUniDirectional Link Detection\t✖️\t✖️\t✖️\t✖️\n\t\tCPP\tCpu Protect Policy\t✖️\t☑️\t✖️\t✖️\n\t\tCFM\tConnectivity Fault Management OAM, 802.3ag\t✖️\t✖️\t✖️\t✖️\n\tManagement Features\tDual Stack\tIPv4 and IPv6 Dual Stack Management\t☑️\t☑️\t☑️\t☑️\n\t\tSystem Log Management\tSyslog Level 7 to 0, Corresponding Debug, Info, Notice, Warning, Err, Critical, Alert\t☑️\t☑️\t☑️\t☑️\n\t\t\tSupports Connecting up to 3 Servers\t☑️\t☑️\t☑️\t☑️\n\t\t\tFor IPv4 and IPv6\t☑️\t☑️\t☑️\t☑️\n\t\tUser Management\tSupport Password Protection, support MD5/SHA256/SHA512 algorithm\t☑️\t☑️\t☑️\t☑️\n\t\t\tLocal Management of User Privilege\t☑️\t☑️\t☑️\t✖️\n\t\t\tRemote Authorization by RADIUS or TARCAS\t☑️\t☑️\t☑️\t✖️\n\t\t\tUser Privilege Level 0 to 15\t☑️\t☑️\t☑️\t✖️\n\t\tLogin Service Management\tUp to 8 Users Online Simultaneously\t☑️\t☑️\t☑️\t☑️\n\t\t\tAccess Control Based on IPv4 or IPv6 ACL\t☑️\t☑️\t☑️\t☑️\n\t\tFirmware Management\tFirmware Upgrade by WEB\t☑️\t☑️\t☑️\t☑️\n\t\t\tFirmware Upgrade by CLI\t☑️\t☑️\t☑️\t☑️\n\t\t\tDual Partition\t☑️\t☑️\t☑️\t☑️\n\t\tWeb Management\tWeb Management\t☑️\t☑️\t☑️\t☑️\n\t\t\tHTTP V1.1\t☑️\t☑️\t☑️\t☑️\n\t\t\tHTTPS\t✖️\t☑️\t✖️\t☑️\n\t\t\tFor IPv4 and IPv6\t☑️\t☑️\t☑️\t☑️\n\t\tFault Detection\tPing/Tracerout, For IPv4 and IPv6\t☑️\t☑️\t☑️\t☑️\n\t\t\tDying Gasp\t☑️\t☑️\t☑️\t☑️\n\t\t\tOptical Transceiver DDM\t☑️\t☑️\t☑️\t☑️\n\t\t\tOne Click Fault Information Collection\t☑️\t☑️\t☑️\t☑️\n\t\t\tCable Detect\t☑️\t☑️\t☑️\t☑️\n\t\tdns\tDomain Name System\t✖️\t☑️\t✖️\t✖️\n\t\tNTP\tNetwork Time Protocol, For IPv4 and IPv6\t☑️\t☑️\t☑️\t☑️\n\t\t\tSupport domain name configuration\t✖️\t☑️\t✖️\t✖️\n\t\tConfigure Import /Export\tFTP/TFTP Based Remote Configuration Import and Export\t☑️\t☑️\t☑️\t☑️\n\t\t\tUSB Flash Drives Based Local Configuration Import and Export\t☑️\t☑️\t☑️\t☑️\n\t\tsFLOW\tSampled Flow\t☑️\t☑️\t☑️\t☑️\n\t\tSNMP\tVersion SNMPV2C/V3\t☑️\t☑️\t☑️\t☑️\n\t\tDevice Management\tStacking Management\t✖️\t✖️\t✖️\t✖️\n\t\t\tCluster Management\t✖️\t✖️\t✖️\t✖️\n\t\tLoop Back Interface\tLoop Back Interface\t✖️\t☑️\t✖️\t✖️\n\t\tManagement Interface\tManagement Interface\t✖️\t☑️\t✖️\t✖️\n\t\tRMON\tRMON\t☑️\t☑️\t☑️\t☑️\n\tApplication Protocol Features\tPoE\tPD Alive Detect\t☑️\t☑️\t☑️\t☑️\n\t\t\tPOE Port Power Feeding Priority\t☑️\t☑️\t☑️\t☑️\n\t\t\tPOE Port Power Limit\t☑️\t☑️\t☑️\t☑️\n\t\t\tPOE Power Alarm Level\t☑️\t☑️\t☑️\t☑️\n\t\t\tPOE Reseve Power\t☑️\t☑️\t☑️\t☑️\n\t\t\tTime Range\t✖️\t☑️\t✖️\t✖️\n\t\t\tPOE Legacy Mode\t☑️\t☑️\t☑️\t☑️\n\t\t\tIEEE 802.3af, IEEE 802.3at, IEEE 802.3bt\t☑️\t☑️\t☑️\t☑️\n\t\tTelnet Server\tTelnet Server, For IPv4 and IPv6\t☑️\t☑️\t☑️\t☑️\n\t\tTelnet Client\tTelnet Client, For IPv4 and IPv6\t☑️\t☑️\t☑️\t☑️\n\t\tscp\tscp client、server, For IPv4 and IPv6\t✖️\t☑️\t✖️\t✖️\n\t\tsftp\tsftp client、server, For IPv4 and IPv6\t✖️\t☑️\t✖️\t✖️\n\t\tRelay warning\tRelay warning for IO ctrl\t✖️\t☑️\t✖️\t✖️\n\t\tZero Automatic Manager\tZero Automatic Manager\t✖️\t✖️\t✖️\t✖️\n\t\tSSH Server\tSupports login based on user password-SSH2, supports IPv4, IPv6\t☑️\t☑️\t☑️\t☑️\n\t\t\tSupport public key-based login\t✖️\t☑️\t✖️\t✖️",
+"sheets":{
+"7.3.x":{
+"state":"visible",
+"rows":[
+[
+"",
+"Marvell   - Software Management Features L2+ and L3"
+],
+[
+"",
+"Ethernet Switching",
+"Chipset",
+"Chipset",
+"Marvell 98DX223S/226S\n(AC3 Lite)",
+"Marvell 98DX2515/2518\n(AC5 Lite)",
+"Marvell 98DX336S\n(PC3)",
+"Marvell 98DX2538\n(AC5+)"
+],
+[
+"",
+"",
+"Management",
+"Management",
+"Layer 2+",
+"Layer 2+",
+"Layer 3",
+"Layer 3"
+],
+[
+"",
+"",
+"Port Features",
+"IEEE 802.3x Flow Control",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Interface Counters",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Jumbo Frame(10222 Bytes)",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"Link Aggregation",
+"GE Port Aggregaiton",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"10GE Port Aggregation",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Static Aggregation",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"LACP Dynamic Aggragation",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Aggregation Groups",
+"64",
+"64",
+"64",
+"64"
+],
+[
+"",
+"",
+"",
+"Aggregation Group Members",
+"8",
+"8",
+"8",
+"8"
+],
+[
+"",
+"",
+"VLAN",
+"IEEE 802.1Q Tagged VLAN",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Mac Based VLAN",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"IP Based VLAN",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Protocal Based VLAN",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"VLAN Range",
+"1-4094",
+"1-4094",
+"1-4094",
+"1-4094"
+],
+[
+"",
+"",
+"MAC Address Table",
+"Static Mac-address Management",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Dynamic Mac-address Management",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Filtering Mac-address",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Port/Vlan Based MAC Limit",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Port/Vlan Based MAC Flapping",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Mac-address Table Size",
+"16K",
+"16K",
+"16K",
+"16K"
+],
+[
+"",
+"",
+"GVRP",
+"Normal Mode",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Fixed Mode",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Forbidden Mode",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"GMRP",
+"GARP Multicast Registration Protocol",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"QinQ",
+"Port-based QinQ",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"VLAN-based QinQ",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"VLAN-Mapping",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Flow-based QinQ",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"MSTP",
+"802.1D STP",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"802.1W RSTP",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"802.1S MSTP",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"BPDU Guard",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Number of Single Ring Device Connections",
+"20",
+"20",
+"20",
+"20"
+],
+[
+"",
+"",
+"ERPS G.8032",
+"Major Ring",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Sub Ring",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Convergence Time",
+"<20ms",
+"<20ms",
+"<20ms",
+"<20ms"
+],
+[
+"",
+"",
+"",
+"Number of Single Ring Device Connections",
+"\\",
+"\\",
+"\\",
+"\\"
+],
+[
+"",
+"",
+"Voice  VLAN",
+"Specially divide VLAN for user voice data flow",
+"✖️",
+"✖️",
+"✖️",
+"✖️",
+"release in the next version"
+],
+[
+"",
+"",
+"Private VLAN",
+"Divide a VLAN broadcast domain into multiple subdomains to form a double-layer VLAN structure",
+"✖️",
+"✖️",
+"✖️",
+"✖️",
+"release in the next version"
+],
+[
+"",
+"",
+"Super VLAN",
+"Aggregate multiple Sub VLANs into a Super VLAN with three-layer connectivity",
+"✖️",
+"✖️",
+"✖️",
+"✖️",
+"release in the next version"
+],
+[
+"",
+"",
+"Storm Control",
+"Based on port bandwidth percentage",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Broadcast/unknown multicast/unknown unicast",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"SPAN",
+"Number of Sessions",
+"7",
+"7",
+"7",
+"7"
+],
+[
+"",
+"",
+"",
+"Many-to-one",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"RSPAN",
+"Remote Switch Port Analyzer",
+"☑️",
+"☑️",
+"☑️",
+"✖️",
+"release in the next version"
+],
+[
+"",
+"",
+"LLDP",
+"Link Layer Discovery Protocol",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"Port Isolation",
+"Isolate Groups",
+"1",
+"1"
+],
+[
+"",
+"IP Route",
+"Static Route",
+"Support VLAN Interface and Route Port",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"IPv4 Static Routing Table Entry Configuration",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"ARP Dynamic Learning and Static Configuration",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"IPv6 Static Routing Table Entry Configuration",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Neighbor Discovery and Static Configuration",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Routing Prefix Table Size For IPv4, for IPv6 Divide by 4",
+"256",
+"768"
+],
+[
+"",
+"",
+"RIP",
+"Routing Information Protocol",
+"✖️",
+"✖️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"RIPng",
+"RIP Next Generation for IPv6",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"OSPFv2",
+"Open Shortest Path First",
+"✖️",
+"✖️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"OSPFv3",
+"Open Shortest Path First Version 3 for IPv6",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"IS-IS",
+"Intermediate System-to-Intermediate System",
+"✖️",
+"✖️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"BGP4",
+"Border Gateway Protocol V4",
+"✖️",
+"✖️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"ECMP",
+"Equal Cost Multi Path",
+"✖️",
+"✖️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"Routing Policy",
+"View Neighbor Numbers and Up/Down Status",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"Policy-Based Routing",
+"Policy-Based Routing",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"DHCP Service",
+"DHCPv4 Client",
+"Dynamic Host Configuration Protocol, For IPv4",
+"☑️",
+"☑️",
+"☑️",
+"✖️",
+"release in the next version"
+],
+[
+"",
+"",
+"DHCPv6 Client",
+"Dynamic Host Configuration Protocol For IPv6",
+"☑️",
+"☑️",
+"☑️",
+"✖️",
+"release in the next version"
+],
+[
+"",
+"",
+"DHCPv4 Relay",
+"DHCP Relay For IPv4",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"DHCPv6 Relay",
+"DHCP Relay For IPv6",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"DHCPv4 Snooping",
+"DHCP Snooping Trust Port",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"DHCP Snooping Option-82",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"DHCP Snooping Circuit-id and Remote-id Customized",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"DHCPv6 Snooping",
+"DHCP Snooping For IPv6",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"DHCPv4 Server",
+"DHCP Server,  For IPv4",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"DHCPv6 Server",
+"DHCP Server,  For IPv6",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"ND Snooping",
+"ND Snooping For IPv6",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"QoS",
+"QoS",
+"QoS Class, Remarking",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Support SP, WRR Queue Scheduling",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Ingress Port-based Rate-limit",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Egress Port-based Rate-limit",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Policy-based QoS",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Rate-limit by Each Queues",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"Port Queue Numbers",
+"8",
+"8",
+"8",
+"8"
+],
+[
+"",
+"MPLS",
+"MPLS",
+"MPLS L2vpn",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"MPLS L3vpn",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"Multicast Service",
+"IGMP",
+"IGMP v1, v2, v3",
+"✖️",
+"✖️",
+"✖️",
+"✖️",
+"release in the next version"
+],
+[
+"",
+"",
+"IGMP Snooping",
+"Internet Group Management Protocol Snooping",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Report Suppression",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"Fast Leave",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Port Filtering",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"Muiticast Table Size",
+"1K",
+"1K",
+"4K",
+"4K"
+],
+[
+"",
+"",
+"MLD",
+"Multicast Listener Discovery, For IPv6",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"MLD Snooping",
+"Multicast Listener Discovery Snooping, For IPv6",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"PIM-SM",
+"Protocol Independent Multicast-Sparse Mode",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"PIM-DM",
+"Protocol Independent Multicast-Dense Mode",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"PIM-SMv6",
+"Protocol Independent Multicast-Sparse Mode,  For  IPv6",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"MSDP",
+"Multicast Source Discovery Protocol",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"Security \nFeatures",
+"ACL",
+"IP Standard ACL",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"IP Extended ACL",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"MAC ACL",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"IPv6 ACL",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Time Range",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"User Defined ACL",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"ACL80",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"ACL apply on VLAN",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"ACL Entrys, Include Input and Output",
+"240",
+"480",
+"1500",
+"1500"
+],
+[
+"",
+"",
+"Port-security",
+"Port Security",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"IP Source Guard",
+"IP Source Guard, Port-based IP/Mac Binding Access",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"IPv6 Source Guard",
+"IP Source Guard, Port-based IP/Mac Binding Access, For IPv6",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"ARP Check",
+"Invalid User ARP Packets Filter",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"DAI",
+"Dynamic ARP Inspection",
+"✖️",
+"✖️",
+"✖️",
+"✖️",
+"release in the next version"
+],
+[
+"",
+"",
+"Anti-gateway ARP Spoofing",
+"Prevent Gateway ARP Spoofing",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"Ddos",
+"Ddos Attack",
+"☑️",
+"☑️",
+"☑️",
+"✖️",
+"release in the next version"
+],
+[
+"",
+"",
+"Dot1x",
+"Port Access Control",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Mac-address Access Control",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"RADIUS Server",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"AAA",
+"RADIUS Authentication Access Switch",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"TACACS Authentication Access Switch",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Authorization",
+"☑️",
+"☑️",
+"☑️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"Accounting",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"Reliability",
+"Loop Detect",
+"Loop Detect, Based on Port or VLAN",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"EFM",
+"The Ethernet in the First Mile, 802.3ah",
+"✖️",
+"✖️",
+"✖️",
+"✖️",
+"release in the next version"
+],
+[
+"",
+"",
+"DLDP",
+"Data Link Detection Protocol",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"VRRP",
+"Virtual Router Redundancy Protocol",
+"✖️",
+"✖️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"REUP",
+"Rapid Ethernet Uplink Protection Protocol",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"UDLD",
+"UniDirectional Link Detection",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"CFM",
+"Connectivity Fault Management OAM, 802.3ag",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"Management Features",
+"Dual Stack",
+"IPv4 and IPv6 Dual Stack Management",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"System Log Management",
+"Syslog Level 7 to 0, Corresponding Debug, Info, Notice, Warning, Err, Critical, Alert",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Supports Connecting up to 3 Servers",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"For IPv4 and IPv6",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"User Management",
+"Support Password Protection",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Local Management of User Privilege",
+"☑️",
+"☑️",
+"☑️",
+"✖️",
+"release in the next version"
+],
+[
+"",
+"",
+"",
+"Remote Authorization by RADIUS or TARCAS",
+"☑️",
+"☑️",
+"☑️",
+"✖️",
+"release in the next version"
+],
+[
+"",
+"",
+"",
+"User Privilege Level 0 to 15",
+"☑️",
+"☑️",
+"☑️",
+"✖️",
+"release in the next version"
+],
+[
+"",
+"",
+"Login Service Management",
+"Up to 8 Users Online Simultaneously",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Access Control Based on IPv4 or IPv6 ACL",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"Firmware Management",
+"Firmware Upgrade by WEB",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Firmware Upgrade by CLI",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Dual Partition",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"Web Management",
+"Web Management",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"HTTP V1.1",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"HTTPS",
+"✖️",
+"☑️",
+"✖️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"For IPv4 and IPv6",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"Fault Detection",
+"Ping/Tracerout, For IPv4 and IPv6",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Dying Gasp",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Optical Transceiver DDM",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"One Click Fault Information Collection",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Cable Detect",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"NTP",
+"Network Time Protocol, For IPv4 and IPv6",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"Configure Import /Export",
+"FTP/TFTP Based Remote Configuration Import and Export",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"USB Flash Drives Based Local Configuration Import and Export",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"sFLOW",
+"Sampled Flow",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"SNMP",
+"Version SNMPV2C/V3",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"Device Management",
+"Stacking Management",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"Cluster Management",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"Loop Back Interface",
+"Loop Back Interface",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"RMON",
+"RMON",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"Application Protocol Features",
+"PoE",
+"PD Alive Detect",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"POE Port Power Feeding Priority",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"POE Port Power Limit",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"POE Power Alarm Level",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"POE Reseve Power",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Time Range",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"POE Legacy Mode",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"IEEE 802.3af, IEEE 802.3at, IEEE 802.3bt",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"Telnet Server",
+"Telnet Server, For IPv4 and IPv6",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"Telnet Client",
+"Telnet Client, For IPv4 and IPv6",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"Zero Automatic Manager",
+"Zero Automatic Manager",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"SSH Server",
+"Supports login based on user password-SSH2, supports IPv4, IPv6",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Support public key-based login",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+]
+]
+},
+"7.4.x ":{
+"state":"visible",
+"rows":[
+[
+"",
+"Marvell   - Software Management Features L2+ and L3"
+],
+[
+"",
+"Ethernet Switching",
+"Chipset",
+"Chipset",
+"Marvell 98DX223S/226S\n(AC3 Lite)",
+"Marvell 98DX2515/2518\n(AC5 Lite)",
+"Marvell 98DX336S\n(PC3)",
+"Marvell 98DX2538\n(AC5+)"
+],
+[
+"",
+"",
+"Management",
+"Management",
+"Layer 2+",
+"Layer 2+",
+"Layer 3",
+"Layer 3"
+],
+[
+"",
+"",
+"Port Features",
+"IEEE 802.3x Flow Control",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Interface Counters",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Jumbo Frame(10222 Bytes)",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"Link Aggregation",
+"GE Port Aggregaiton",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"10GE Port Aggregation",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Static Aggregation",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"LACP Dynamic Aggragation",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Aggregation Groups",
+"64",
+"64",
+"64",
+"64"
+],
+[
+"",
+"",
+"",
+"Aggregation Group Members",
+"8",
+"8",
+"8",
+"8"
+],
+[
+"",
+"",
+"VLAN",
+"IEEE 802.1Q Tagged VLAN",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Mac Based VLAN",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"IP Based VLAN",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Protocal Based VLAN",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"VLAN Range",
+"1-4094",
+"1-4094",
+"1-4094",
+"1-4094"
+],
+[
+"",
+"",
+"MAC Address Table",
+"Static Mac-address Management",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Dynamic Mac-address Management",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Filtering Mac-address",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Port/Vlan Based MAC Limit",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Port/Vlan Based MAC Flapping",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Mac-address Table Size",
+"16K",
+"16K",
+"16K",
+"16K"
+],
+[
+"",
+"",
+"GVRP",
+"Normal Mode",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Fixed Mode",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Forbidden Mode",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"GMRP",
+"GARP Multicast Registration Protocol",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"QinQ",
+"Port-based QinQ",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"VLAN-based QinQ",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"VLAN-Mapping",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Flow-based QinQ",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"MSTP",
+"802.1D STP",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"802.1W RSTP",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"802.1S MSTP",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"BPDU Guard",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Number of Single Ring Device Connections",
+"20",
+"20",
+"20",
+"20"
+],
+[
+"",
+"",
+"ERPS G.8032",
+"Major Ring",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Sub Ring",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Convergence Time",
+"<20ms",
+"<20ms",
+"<20ms",
+"<20ms"
+],
+[
+"",
+"",
+"",
+"Number of Single Ring Device Connections",
+"\\",
+"\\",
+"\\",
+"\\"
+],
+[
+"",
+"",
+"Voice  VLAN",
+"Specially divide VLAN for user voice data flow",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"Private VLAN",
+"Divide a VLAN broadcast domain into multiple subdomains to form a double-layer VLAN structure",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"Super VLAN",
+"Aggregate multiple Sub VLANs into a Super VLAN with three-layer connectivity",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"Storm Control",
+"Based on port bandwidth percentage",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Broadcast/unknown multicast/unknown unicast",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"SPAN",
+"Number of Sessions",
+"7",
+"7",
+"7",
+"7"
+],
+[
+"",
+"",
+"",
+"Many-to-one",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"RSPAN",
+"Remote Switch Port Analyzer",
+"☑️",
+"☑️",
+"☑️",
+"✖️"
+],
+[
+"",
+"",
+"LLDP",
+"Link Layer Discovery Protocol",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"Port Isolation",
+"Isolate Groups",
+"1",
+"1"
+],
+[
+"",
+"IP Route",
+"Static Route",
+"Support VLAN Interface and Route Port",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"IPv4 Static Routing Table Entry Configuration",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"ARP Dynamic Learning and Static Configuration",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"IPv6 Static Routing Table Entry Configuration",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Neighbor Discovery and Static Configuration",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Routing Prefix Table Size For IPv4, for IPv6 Divide by 4",
+"256",
+"768"
+],
+[
+"",
+"",
+"RIP",
+"Routing Information Protocol",
+"✖️",
+"✖️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"RIPng",
+"RIP Next Generation for IPv6",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"OSPFv2",
+"Open Shortest Path First",
+"✖️",
+"✖️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"OSPFv3",
+"Open Shortest Path First Version 3 for IPv6",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"IS-IS",
+"Intermediate System-to-Intermediate System",
+"✖️",
+"✖️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"BGP4",
+"Border Gateway Protocol V4",
+"✖️",
+"✖️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"ECMP",
+"Equal Cost Multi Path",
+"✖️",
+"✖️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"Routing Policy",
+"View Neighbor Numbers and Up/Down Status",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"Policy-Based Routing",
+"Policy-Based Routing",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"DHCP Service",
+"DHCPv4 Client",
+"Dynamic Host Configuration Protocol, For IPv4",
+"☑️",
+"☑️",
+"☑️",
+"✖️"
+],
+[
+"",
+"",
+"DHCPv6 Client",
+"Dynamic Host Configuration Protocol For IPv6",
+"☑️",
+"☑️",
+"☑️",
+"✖️"
+],
+[
+"",
+"",
+"DHCPv4 Relay",
+"DHCP Relay For IPv4",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"DHCPv6 Relay",
+"DHCP Relay For IPv6",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"DHCPv4 Snooping",
+"DHCP Snooping Trust Port",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"DHCP Snooping Option-82",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"DHCP Snooping Circuit-id and Remote-id Customized",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"DHCPv6 Snooping",
+"DHCP Snooping For IPv6",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"DHCPv4 Server",
+"DHCP Server,  For IPv4",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"DHCPv6 Server",
+"DHCP Server,  For IPv6",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"ND Snooping",
+"ND Snooping For IPv6",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"QoS",
+"QoS",
+"QoS Class, Remarking",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Support SP, WRR Queue Scheduling",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Ingress Port-based Rate-limit",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Egress Port-based Rate-limit",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Policy-based QoS",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Rate-limit by Each Queues",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"Port Queue Numbers",
+"8",
+"8",
+"8",
+"8"
+],
+[
+"",
+"MPLS",
+"MPLS",
+"MPLS L2vpn",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"MPLS L3vpn",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"Multicast Service",
+"IGMP",
+"IGMP v1, v2, v3",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"IGMP Snooping",
+"Internet Group Management Protocol Snooping",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Report Suppression",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"Fast Leave",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Port Filtering",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"Muiticast Table Size",
+"1K",
+"1K",
+"4K",
+"4K"
+],
+[
+"",
+"",
+"MLD",
+"Multicast Listener Discovery, For IPv6",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"MLD Snooping",
+"Multicast Listener Discovery Snooping, For IPv6",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"PIM-SM",
+"Protocol Independent Multicast-Sparse Mode",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"PIM-DM",
+"Protocol Independent Multicast-Dense Mode",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"PIM-SMv6",
+"Protocol Independent Multicast-Sparse Mode,  For  IPv6",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"MSDP",
+"Multicast Source Discovery Protocol",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"Security \nFeatures",
+"ACL",
+"IP Standard ACL",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"IP Extended ACL",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"MAC ACL",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"IPv6 ACL",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Time Range",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"User Defined ACL",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"ACL80",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"ACL apply on VLAN",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"ACL Entrys, Include Input and Output",
+"240",
+"480",
+"1500",
+"1500"
+],
+[
+"",
+"",
+"Port-security",
+"Port Security",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"IP Source Guard",
+"IP Source Guard, Port-based IP/Mac Binding Access",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"IPv6 Source Guard",
+"IP Source Guard, Port-based IP/Mac Binding Access, For IPv6",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"ARP Check",
+"Invalid User ARP Packets Filter",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"DAI",
+"Dynamic ARP Inspection",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"Anti-gateway ARP Spoofing",
+"Prevent Gateway ARP Spoofing",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"Ddos",
+"Ddos Attack",
+"☑️",
+"☑️",
+"☑️",
+"✖️"
+],
+[
+"",
+"",
+"Dot1x",
+"Port Access Control",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Mac-address Access Control",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"RADIUS Server",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"AAA",
+"RADIUS Authentication Access Switch",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"TACACS Authentication Access Switch",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Authorization",
+"☑️",
+"☑️",
+"☑️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"Accounting",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"Reliability",
+"Loop Detect",
+"Loop Detect, Based on Port or VLAN",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"EFM",
+"The Ethernet in the First Mile, 802.3ah",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"DLDP",
+"Data Link Detection Protocol",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"VRRP",
+"Virtual Router Redundancy Protocol",
+"✖️",
+"✖️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"REUP",
+"Rapid Ethernet Uplink Protection Protocol",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"UDLD",
+"UniDirectional Link Detection",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"CFM",
+"Connectivity Fault Management OAM, 802.3ag",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"Management Features",
+"Dual Stack",
+"IPv4 and IPv6 Dual Stack Management",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"System Log Management",
+"Syslog Level 7 to 0, Corresponding Debug, Info, Notice, Warning, Err, Critical, Alert",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Supports Connecting up to 3 Servers",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"For IPv4 and IPv6",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"User Management",
+"Support Password Protection, support MD5/SHA256/SHA512 algorithm",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Local Management of User Privilege",
+"☑️",
+"☑️",
+"☑️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"Remote Authorization by RADIUS or TARCAS",
+"☑️",
+"☑️",
+"☑️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"User Privilege Level 0 to 15",
+"☑️",
+"☑️",
+"☑️",
+"✖️"
+],
+[
+"",
+"",
+"Login Service Management",
+"Up to 8 Users Online Simultaneously",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Access Control Based on IPv4 or IPv6 ACL",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"Firmware Management",
+"Firmware Upgrade by WEB",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Firmware Upgrade by CLI",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Dual Partition",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"Web Management",
+"Web Management",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"HTTP V1.1",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"HTTPS",
+"✖️",
+"☑️",
+"✖️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"For IPv4 and IPv6",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"Fault Detection",
+"Ping/Tracerout, For IPv4 and IPv6",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Dying Gasp",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Optical Transceiver DDM",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"One Click Fault Information Collection",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Cable Detect",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"dns",
+"Domain Name System",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"NTP",
+"Network Time Protocol, For IPv4 and IPv6",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Support domain name configuration",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"Configure Import /Export",
+"FTP/TFTP Based Remote Configuration Import and Export",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"USB Flash Drives Based Local Configuration Import and Export",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"sFLOW",
+"Sampled Flow",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"SNMP",
+"Version SNMPV2C/V3",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"Device Management",
+"Stacking Management",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"Cluster Management",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"Loop Back Interface",
+"Loop Back Interface",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"RMON",
+"RMON",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"Application Protocol Features",
+"PoE",
+"PD Alive Detect",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"POE Port Power Feeding Priority",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"POE Port Power Limit",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"POE Power Alarm Level",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"POE Reseve Power",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Time Range",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"POE Legacy Mode",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"IEEE 802.3af, IEEE 802.3at, IEEE 802.3bt",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"Telnet Server",
+"Telnet Server, For IPv4 and IPv6",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"Telnet Client",
+"Telnet Client, For IPv4 and IPv6",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"scp",
+"scp client、server, For IPv4 and IPv6",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"sftp",
+"sftp client、server, For IPv4 and IPv6",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"Relay warning",
+"Relay warning for IO ctrl",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"Zero Automatic Manager",
+"Zero Automatic Manager",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"SSH Server",
+"Supports login based on user password-SSH2, supports IPv4, IPv6",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Support public key-based login",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+]
+]
+},
+"7.5.x":{
+"state":"visible",
+"rows":[
+[
+"",
+"Marvell   - Software Management Features L2+ and L3"
+],
+[
+"",
+"Ethernet Switching",
+"Chipset",
+"Chipset",
+"Marvell 98DX223S/226S\n(AC3 Lite)",
+"Marvell 98DX2515/2518\n(AC5 Lite)",
+"Marvell 98DX336S\n(PC3)",
+"Marvell 98DX2538\n(AC5+)"
+],
+[
+"",
+"",
+"Management",
+"Management",
+"Layer 2+",
+"Layer 2+",
+"Layer 3",
+"Layer 3"
+],
+[
+"",
+"",
+"Port Features",
+"IEEE 802.3x Flow Control",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Interface Counters",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Optical port adaptive",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"Jumbo Frame(10222 Bytes)",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"Link Aggregation",
+"GE Port Aggregaiton",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"10GE Port Aggregation",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Static Aggregation",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"LACP Dynamic Aggragation",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Aggregation Groups",
+"64",
+"64",
+"64",
+"64"
+],
+[
+"",
+"",
+"",
+"Aggregation Group Members",
+"8",
+"8",
+"8",
+"8"
+],
+[
+"",
+"",
+"VLAN",
+"IEEE 802.1Q Tagged VLAN",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Mac Based VLAN",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"IP Based VLAN",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Protocal Based VLAN",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"VLAN Range",
+"1-4094",
+"1-4094",
+"1-4094",
+"1-4094"
+],
+[
+"",
+"",
+"MAC Address Table",
+"Static Mac-address Management",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Dynamic Mac-address Management",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Filtering Mac-address",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Port/Vlan Based MAC Limit",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Port/Vlan Based MAC Flapping",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Mac-address Table Size",
+"16K",
+"16K",
+"16K",
+"16K"
+],
+[
+"",
+"",
+"GVRP",
+"Normal Mode",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Fixed Mode",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Forbidden Mode",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"GMRP",
+"GARP Multicast Registration Protocol",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"QinQ",
+"Port-based QinQ",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"VLAN-based QinQ",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"VLAN-Mapping",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Flow-based QinQ",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"MSTP",
+"802.1D STP",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"802.1W RSTP",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"802.1S MSTP",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"BPDU Guard",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Number of Single Ring Device Connections",
+"20",
+"20",
+"20",
+"20"
+],
+[
+"",
+"",
+"ERPS G.8032",
+"Major Ring",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Sub Ring",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Convergence Time",
+"<20ms",
+"<20ms",
+"<20ms",
+"<20ms"
+],
+[
+"",
+"",
+"",
+"Number of Single Ring Device Connections",
+"\\",
+"\\",
+"\\",
+"\\"
+],
+[
+"",
+"",
+"Voice  VLAN",
+"Specially divide VLAN for user voice data flow",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"Private VLAN",
+"Divide a VLAN broadcast domain into multiple subdomains to form a double-layer VLAN structure",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"Super VLAN",
+"Aggregate multiple Sub VLANs into a Super VLAN with three-layer connectivity",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"Storm Control",
+"Based on port bandwidth percentage",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Broadcast/unknown multicast/unknown unicast",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"SPAN",
+"Number of Sessions",
+"7",
+"7",
+"7",
+"7"
+],
+[
+"",
+"",
+"",
+"Many-to-one",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"RSPAN",
+"Remote Switch Port Analyzer",
+"☑️",
+"☑️",
+"☑️",
+"✖️"
+],
+[
+"",
+"",
+"LLDP",
+"Link Layer Discovery Protocol",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Med",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"Port Isolation",
+"Isolate Groups",
+"1",
+"1"
+],
+[
+"",
+"IP Route",
+"Static Route",
+"Support VLAN Interface and Route Port",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"IPv4 Static Routing Table Entry Configuration",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"ARP Dynamic Learning and Static Configuration",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"IPv6 Static Routing Table Entry Configuration",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Neighbor Discovery and Static Configuration",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Routing Prefix Table Size For IPv4, for IPv6 Divide by 4",
+"256",
+"768"
+],
+[
+"",
+"",
+"RIP",
+"Routing Information Protocol",
+"✖️",
+"✖️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"RIPng",
+"RIP Next Generation for IPv6",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"OSPFv2",
+"Open Shortest Path First",
+"✖️",
+"✖️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"OSPFv3",
+"Open Shortest Path First Version 3 for IPv6",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"IS-IS",
+"Intermediate System-to-Intermediate System",
+"✖️",
+"✖️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"BGP4",
+"Border Gateway Protocol V4",
+"✖️",
+"✖️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"ECMP",
+"Equal Cost Multi Path",
+"✖️",
+"✖️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"Routing Policy",
+"View Neighbor Numbers and Up/Down Status",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"Policy-Based Routing",
+"Policy-Based Routing",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"DHCP Service",
+"DHCPv4 Client",
+"Dynamic Host Configuration Protocol, For IPv4",
+"☑️",
+"☑️",
+"☑️",
+"✖️"
+],
+[
+"",
+"",
+"DHCPv6 Client",
+"Dynamic Host Configuration Protocol For IPv6",
+"☑️",
+"☑️",
+"☑️",
+"✖️"
+],
+[
+"",
+"",
+"DHCPv4 Relay",
+"DHCP Relay For IPv4",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"DHCPv6 Relay",
+"DHCP Relay For IPv6",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"DHCPv4 Snooping",
+"DHCP Snooping Trust Port",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"DHCP Snooping Option-82",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"DHCP Snooping Circuit-id and Remote-id Customized",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"DHCPv6 Snooping",
+"DHCP Snooping For IPv6",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"DHCPv4 Server",
+"DHCP Server,  For IPv4",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"DHCPv6 Server",
+"DHCP Server,  For IPv6",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"ND Snooping",
+"ND Snooping For IPv6",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"QoS",
+"QoS",
+"QoS Class, Remarking",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Support SP, WRR Queue Scheduling",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Ingress Port-based Rate-limit",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Egress Port-based Rate-limit",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Policy-based QoS",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Rate-limit by Each Queues",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"Port Queue Numbers",
+"8",
+"8",
+"8",
+"8"
+],
+[
+"",
+"MPLS",
+"MPLS",
+"MPLS L2vpn",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"MPLS L3vpn",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"Multicast Service",
+"IGMP",
+"IGMP v1, v2, v3",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"IGMP Snooping",
+"Internet Group Management Protocol Snooping",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Report Suppression",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"Fast Leave",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Port Filtering",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"Muiticast Table Size",
+"1K",
+"1K",
+"4K",
+"4K"
+],
+[
+"",
+"",
+"MLD",
+"Multicast Listener Discovery, For IPv6",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"MLD Snooping",
+"Multicast Listener Discovery Snooping, For IPv6",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"PIM-SM",
+"Protocol Independent Multicast-Sparse Mode",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"PIM-DM",
+"Protocol Independent Multicast-Dense Mode",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"PIM-SMv6",
+"Protocol Independent Multicast-Sparse Mode,  For  IPv6",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"MSDP",
+"Multicast Source Discovery Protocol",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"Security \nFeatures",
+"ACL",
+"IP Standard ACL",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"IP Extended ACL",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"MAC ACL",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"IPv6 ACL",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Time Range",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"User Defined ACL",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"ACL80",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"ACL apply on VLAN",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"ACL Entrys, Include Input and Output",
+"240",
+"480",
+"1500",
+"1500"
+],
+[
+"",
+"",
+"Port-security",
+"Port Security",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"IP Source Guard",
+"IP Source Guard, Port-based IP/Mac Binding Access",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"IPv6 Source Guard",
+"IP Source Guard, Port-based IP/Mac Binding Access, For IPv6",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"ARP Check",
+"Invalid User ARP Packets Filter",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"DAI",
+"Dynamic ARP Inspection",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"Anti-gateway ARP Spoofing",
+"Prevent Gateway ARP Spoofing",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"Ddos",
+"Ddos Attack",
+"☑️",
+"☑️",
+"☑️",
+"✖️"
+],
+[
+"",
+"",
+"Dot1x",
+"Port Access Control",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Mac-address Access Control",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"RADIUS Server",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"AAA",
+"RADIUS Authentication Access Switch",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"TACACS Authentication Access Switch",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Authorization",
+"☑️",
+"☑️",
+"☑️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"Accounting",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"Reliability",
+"Loop Detect",
+"Loop Detect, Based on Port or VLAN",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"EFM",
+"The Ethernet in the First Mile, 802.3ah",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"DLDP",
+"Data Link Detection Protocol",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"VRRP",
+"Virtual Router Redundancy Protocol",
+"✖️",
+"✖️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"REUP",
+"Rapid Ethernet Uplink Protection Protocol",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"UDLD",
+"UniDirectional Link Detection",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"CPP",
+"Cpu Protect Policy",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"CFM",
+"Connectivity Fault Management OAM, 802.3ag",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"Management Features",
+"Dual Stack",
+"IPv4 and IPv6 Dual Stack Management",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"System Log Management",
+"Syslog Level 7 to 0, Corresponding Debug, Info, Notice, Warning, Err, Critical, Alert",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Supports Connecting up to 3 Servers",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"For IPv4 and IPv6",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"User Management",
+"Support Password Protection, support MD5/SHA256/SHA512 algorithm",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Local Management of User Privilege",
+"☑️",
+"☑️",
+"☑️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"Remote Authorization by RADIUS or TARCAS",
+"☑️",
+"☑️",
+"☑️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"User Privilege Level 0 to 15",
+"☑️",
+"☑️",
+"☑️",
+"✖️"
+],
+[
+"",
+"",
+"Login Service Management",
+"Up to 8 Users Online Simultaneously",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Access Control Based on IPv4 or IPv6 ACL",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"Firmware Management",
+"Firmware Upgrade by WEB",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Firmware Upgrade by CLI",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Dual Partition",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"Web Management",
+"Web Management",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"HTTP V1.1",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"HTTPS",
+"✖️",
+"☑️",
+"✖️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"For IPv4 and IPv6",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"Fault Detection",
+"Ping/Tracerout, For IPv4 and IPv6",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Dying Gasp",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Optical Transceiver DDM",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"One Click Fault Information Collection",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Cable Detect",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"dns",
+"Domain Name System",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"NTP",
+"Network Time Protocol, For IPv4 and IPv6",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Support domain name configuration",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"Configure Import /Export",
+"FTP/TFTP Based Remote Configuration Import and Export",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"USB Flash Drives Based Local Configuration Import and Export",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"sFLOW",
+"Sampled Flow",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"SNMP",
+"Version SNMPV2C/V3",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"Device Management",
+"Stacking Management",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"Cluster Management",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"Loop Back Interface",
+"Loop Back Interface",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"Management Interface",
+"Management Interface",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"RMON",
+"RMON",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"Application Protocol Features",
+"PoE",
+"PD Alive Detect",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"POE Port Power Feeding Priority",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"POE Port Power Limit",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"POE Power Alarm Level",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"POE Reseve Power",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Time Range",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"",
+"POE Legacy Mode",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"IEEE 802.3af, IEEE 802.3at, IEEE 802.3bt",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"Telnet Server",
+"Telnet Server, For IPv4 and IPv6",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"Telnet Client",
+"Telnet Client, For IPv4 and IPv6",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"scp",
+"scp client、server, For IPv4 and IPv6",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"sftp",
+"sftp client、server, For IPv4 and IPv6",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"Relay warning",
+"Relay warning for IO ctrl",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"Zero Automatic Manager",
+"Zero Automatic Manager",
+"✖️",
+"✖️",
+"✖️",
+"✖️"
+],
+[
+"",
+"",
+"SSH Server",
+"Supports login based on user password-SSH2, supports IPv4, IPv6",
+"☑️",
+"☑️",
+"☑️",
+"☑️"
+],
+[
+"",
+"",
+"",
+"Support public key-based login",
+"✖️",
+"☑️",
+"✖️",
+"✖️"
+]
+]
+}
+}
+}

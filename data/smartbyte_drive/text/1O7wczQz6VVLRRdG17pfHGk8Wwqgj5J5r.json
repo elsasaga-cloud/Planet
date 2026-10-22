@@ -1,0 +1,497 @@
+{
+"id":"1O7wczQz6VVLRRdG17pfHGk8Wwqgj5J5r",
+"name":"LT-S8328XG-4XS24GT-S neutral datasheet.docx",
+"path":"SmartByte/暂时不用的/商业级管理 源DS/LT-S8328XG-4XS24GT-S neutral datasheet.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":405978,
+"sha256":"51c8ba0ab28c105c8f6b05b97d042e678d150fcb18682fd4f3f336434c63f332",
+"extracted_at":"2026-10-22T02:14:42Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":6941,
+"meta":{
+"title":"",
+"author":"雙燕飛",
+"last_modified_by":"欧阳灿",
+"created":"2021-12-06T02:50:00+00:00",
+"modified":"2024-05-17T01:31:57+00:00",
+"paragraphs":18,
+"tables":2,
+"embedded_images":3
+},
+"warnings":[],
+"text":"24*10/100/1000Base-T + 4*1G/2.5G/10GBase-X SFP\nLayer 2+ Managed Ethernet Switch\nLT-S8328XG-4XS24GT-S\nFeatures:\n➢ 4*1G/2.5G/10G SFP+ slots uplink, 24*10/100/1000M RJ45 ports downlink, 1*RJ45 console port\n➢ Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n➢ Layer 2 features: VLAN; ERPS, STP/RSTP/MSTP; Link aggregation, IGMP snooping, port mirroring, QinQ, 802.1X, port isolation, RMON, NTP client, DHCP snooping/client, Ping/Tracert test, ACL, QoS and SFP DDM function\n➢ Management and maintenance: IPv4 and IPv6 management; Support Web, SNMP, CLI, Telnet/SSH management method; Support user management, system log, configuration upload/download through web interface, firmware upgrade via HTTP/TFTP/USB\n➢ Support G.8032 ERPS protocol, recovery time ≤20ms\n➢ Support 4KV Power surge protection, IEC 61000-4-5  Level X（8/20us）\n➢ Support 4KV Ethernet ports surge protection, IEC 61000-4-5  Level 4（10/700us）\n➢ Support fan speed control\n➢ Operation temperature: 0 ℃ ~+ 50℃\nOverview\nThe SmartByte LT-S8328XG-4XS24GT-S is the highly reliable Layer 2+ managed Ethernet switch with 24-port 10/100/1000Base-T RJ45 and 4-port 1G/2.5G/10GBase-X SFP. The LT-S8328XG-4XS24GT-S provides comprehensive end to end QoS as well as flexible and rich management , security settings, which can meet the high speed, secure and smart requirement for small and medium-size enterprise networks based on cost effective price. It supports G.8032 ERPS, MSTP/RSTP/STP redundancy technologies, IPv4/IPv6 static routing, DHCP server and robust Layer 2 management and secure function, which all making the LT-S8328XG-4XS24GT-S performs effective data traffic control for ISP and enterprise VoIP, video streaming, and multicast applications.\nTechnical specification\nModel No.\tLT-S8328XG-4XS24GT-S\nInterface\tFiber ports\tCopper RJ45 ports\nInterface\t4\t24\nEthernet\t24*10/100/1000Base-T RJ45 / 4*1000/2500/10GBase-X SFP+\nManagement port\t1*RJ45 Console port\nStandard\tIEEE 802.3 10Base-T Ethernet / IEEE 802.3u 100Base-TX Ethernet / IEEE 802.3ab 1000Base-T Ethernet / IEEE 802.3z 1000Base-X Ethernet / IEEE802.3x Flow Control and Back Pressure / IEEE 802.1D Spanning Tree Protocol / IEEE 802.1w Rapid Spanning Tree Protocol / IEEE 802.1Q VLAN / ITU-T G.8032 ERPS / IEEE 802.1X Port Authentication Network Control / IEEE 802.1ab LLDP / IEEE 802.3ad LACP\nLED Indicators\nPWR (Power indicator)\tOff: the device is power off or failed\tOn: the device power on is normal\nSYS (System status indicator)\tBlinking: device initialization\tOn: device on normal operation\n1-24 (Copper ports indicators) Green\tOff: ports link down\n1-24 (Copper ports indicators) Green\tOn: ports link up\n1-24 (Copper ports indicators) Green\tBlinking: data on TX/RX\n1-24 (Copper speed indicators) Yellow\tOff: ports on 10/100M\n1-24 (Copper speed indicators) Yellow\tOn: ports on 1000M\n25-28(Fiber ports indicators) Green\tOff: ports link down\n25-28(Fiber ports indicators) Green\tOn: ports link up\n25-28(Fiber ports indicators) Green\tBlinking: data on TX/RX\nPower parameter\nInput voltage\tVAC input / Rated voltage range：100-240V / Frequency：50/60Hz\nTotal power consumption\tFull loading ≤ 24W\nOver-current protection\tSupport\nLayer 2 functions\nPort aggregation\tSupport GE port aggregation / Support 2.5GE aggregation / Support 10 GE aggregation / Support static aggregation / Support LACP dynamic aggregation / Up to 64 aggregation groups and up to 8 ports per group\nPort features\tSupport IEEE802.3x flow control / Support interface counters / Support port isolation / Port mirroring ( One-to-One, Many-to-One) / Support loop detection(Port-based; VLAN-based) / Support broadcast storm suppression(broadcast; unknown multicast; unknown unicast)\nMac-address table management\tSupport static Mac-address management / Support dynamic Mac-address Management / Support filtering Mac-address / Support MAC limit based on port and VLAN / Support MAC flapping based on port and VLAN\nVLAN\tSupport access mode / Support trunk mode / Support hybrid mode\nVLAN classification\tMac Based VLAN / IP Based VLAN / Protocol Based VLAN\nGVRP\tNormal mode / Fixed mode / Forbidden mode\nQinQ\tPort-based QinQ / VLAN-based QinQ (VLAN-stacking; VLAN-mapping) / Flow-based QinQ\nLLDP\tLLDP (Link Layer Discovery Protocol)\nRing network protocol\tSupport IEEE802.1D-STP / Support IEEE802.1W-RSTP / Support IEEE802.1S-MSTP\nRing network protocol\tSupport G.8032 ERPS protocol，single ring, sub Ring and major ring / Recovery time ≤20ms\nL2 Multicast\nIGMP snooping\tSupport IGMP snooping\nGroup address\tSupport group address\nSecurity functions\nACL\tIP Standard ACL / MAC extend ACL / IP extend ACL / IPv6 ACL\nQoS\tSupport QoS Class, remarking / Support SP, WRR queue scheduling / Ingress port-based rate-limit / Egress port-based rate-limit / Support policy-based QoS\n802.1x\tPort access control / Mac-address access control / RADIUS server\nPort-security\tPort-security\nIP source guard\tIP Port/MAC binding\nARP-check\tSupport ARP-check and ARP packet filtering for illegal users\nAccess control\tSupport Telnet/SSH/HTTP/HTTPS user access control\nManagement & Maintenance functions\nUser Management\tSupport password protection / Support user authorization management\nSNMP\tSupporting SNMP V1/V2C/V3 version\nWeb Management\tWeb Management / Support HTTP V1.1 / Support HTTPS\nCLI management\tConsole/Telnet command line management\nRMON\tSupport RMON(Remote Monitoring) alarm\nFirmware upgrade\tFirmware upgrade\nFault Detection\tPing/Tracerout / Support optical transceiver DDM function\nCable detection\tSupport copper port cable detection\nNTP\tNetwork Time Protocol\nSyslog/Debug\tSyslog/Debug / Syslog send to three servers\nConfiguration import/export\tSupport FTP/TFTP remote import/export\nDual partition management\tSupport dual partition switching\nApplication Protocol Functions\nDHCP Snooping\tDHCP snooping trust port / Support remote-id/circuit-id configuration / DHCP option-82\nDHCP client\tSupport DHCP client\nTelnet server\tSupport telnet server\nTelnet client\tSupport telnet client\nSSH server\tSupport SSH server\nTACACS\tSupport TACACS(the terminal access controller accesses the control system)\nsflow\tSupport network traffic analysis\nTFTP\tSupport TFTP Client\nLayer 3 functions\nARP\tARP table aging\nDHCP server\nIPv4 / IPv6\tstatic routing\nSwitching features\nSwitching capacity\t128Gbps\nPacket forwarding rate\t190Mpps\nMAC address table\t16K\nVLAN\t4K\nBuffer\t12Mbit\nForwarding delay\t<5us\nJumbo Frame\tSupport 10Kbytes\nMDX/MIDX\tSupport\nWatchdog\tSupport\nMechanical structure\nInstallation method\tDesktop; Rack-mount\nDimension(W*D*H)mm\t440*180*45mm\nWeight\t2.77kg\nOperating environment\nOperating temperature\t0℃~+50℃\nStorage/transportation temperature\t0℃~+50℃\nRelative humidity\tOperation humidity: 10%-90%RH / Storage humidity: 5%-95%RH\nCertification\tCCC/CE/UKCA/RoHS/REACH/FCC\nMTBF\t＞100,000 hours\nStructure diagram\nOrder information\nModel\tDescription\nLT-S8328XG-4XS24GT-S\tLayer 2+ managed Ethernet switch with 4*1G/2.5G/10G SFP+ slots and 24*10/100/1000M RJ45 ports，AC 100-240V 50/60Hz",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"24*10/100/1000Base-T + 4*1G/2.5G/10GBase-X SFP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Layer 2+ Managed Ethernet Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LT-S8328XG-4XS24GT-S"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Features:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ 4*1G/2.5G/10G SFP+ slots uplink, 24*10/100/1000M RJ45 ports downlink, 1*RJ45 console port"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Layer 3 features: Support IPv4/IPv6 static routing, DHCP server"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Layer 2 features: VLAN; ERPS, STP/RSTP/MSTP; Link aggregation, IGMP snooping, port mirroring, QinQ, 802.1X, port isolation, RMON, NTP client, DHCP snooping/client, Ping/Tracert test, ACL, QoS and SFP DDM function"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Management and maintenance: IPv4 and IPv6 management; Support Web, SNMP, CLI, Telnet/SSH management method; Support user management, system log, configuration upload/download through web interface, firmware upgrade via HTTP/TFTP/USB"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Support G.8032 ERPS protocol, recovery time ≤20ms"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Support 4KV Power surge protection, IEC 61000-4-5  Level X（8/20us）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Support 4KV Ethernet ports surge protection, IEC 61000-4-5  Level 4（10/700us）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Support fan speed control"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Operation temperature: 0 ℃ ~+ 50℃"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Overview"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The SmartByte LT-S8328XG-4XS24GT-S is the highly reliable Layer 2+ managed Ethernet switch with 24-port 10/100/1000Base-T RJ45 and 4-port 1G/2.5G/10GBase-X SFP. The LT-S8328XG-4XS24GT-S provides comprehensive end to end QoS as well as flexible and rich management , security settings, which can meet the high speed, secure and smart requirement for small and medium-size enterprise networks based on cost effective price. It supports G.8032 ERPS, MSTP/RSTP/STP redundancy technologies, IPv4/IPv6 static routing, DHCP server and robust Layer 2 management and secure function, which all making the LT-S8328XG-4XS24GT-S performs effective data traffic control for ISP and enterprise VoIP, video streaming, and multicast applications."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Technical specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model No.",
+"LT-S8328XG-4XS24GT-S"
+],
+[
+"Interface",
+"Fiber ports",
+"Copper RJ45 ports"
+],
+[
+"Interface",
+"4",
+"24"
+],
+[
+"Ethernet",
+"24*10/100/1000Base-T RJ45 / 4*1000/2500/10GBase-X SFP+"
+],
+[
+"Management port",
+"1*RJ45 Console port"
+],
+[
+"Standard",
+"IEEE 802.3 10Base-T Ethernet / IEEE 802.3u 100Base-TX Ethernet / IEEE 802.3ab 1000Base-T Ethernet / IEEE 802.3z 1000Base-X Ethernet / IEEE802.3x Flow Control and Back Pressure / IEEE 802.1D Spanning Tree Protocol / IEEE 802.1w Rapid Spanning Tree Protocol / IEEE 802.1Q VLAN / ITU-T G.8032 ERPS / IEEE 802.1X Port Authentication Network Control / IEEE 802.1ab LLDP / IEEE 802.3ad LACP"
+],
+[
+"LED Indicators"
+],
+[
+"PWR (Power indicator)",
+"Off: the device is power off or failed",
+"On: the device power on is normal"
+],
+[
+"SYS (System status indicator)",
+"Blinking: device initialization",
+"On: device on normal operation"
+],
+[
+"1-24 (Copper ports indicators) Green",
+"Off: ports link down"
+],
+[
+"1-24 (Copper ports indicators) Green",
+"On: ports link up"
+],
+[
+"1-24 (Copper ports indicators) Green",
+"Blinking: data on TX/RX"
+],
+[
+"1-24 (Copper speed indicators) Yellow",
+"Off: ports on 10/100M"
+],
+[
+"1-24 (Copper speed indicators) Yellow",
+"On: ports on 1000M"
+],
+[
+"25-28(Fiber ports indicators) Green",
+"Off: ports link down"
+],
+[
+"25-28(Fiber ports indicators) Green",
+"On: ports link up"
+],
+[
+"25-28(Fiber ports indicators) Green",
+"Blinking: data on TX/RX"
+],
+[
+"Power parameter"
+],
+[
+"Input voltage",
+"VAC input / Rated voltage range：100-240V / Frequency：50/60Hz"
+],
+[
+"Total power consumption",
+"Full loading ≤ 24W"
+],
+[
+"Over-current protection",
+"Support"
+],
+[
+"Layer 2 functions"
+],
+[
+"Port aggregation",
+"Support GE port aggregation / Support 2.5GE aggregation / Support 10 GE aggregation / Support static aggregation / Support LACP dynamic aggregation / Up to 64 aggregation groups and up to 8 ports per group"
+],
+[
+"Port features",
+"Support IEEE802.3x flow control / Support interface counters / Support port isolation / Port mirroring ( One-to-One, Many-to-One) / Support loop detection(Port-based; VLAN-based) / Support broadcast storm suppression(broadcast; unknown multicast; unknown unicast)"
+],
+[
+"Mac-address table management",
+"Support static Mac-address management / Support dynamic Mac-address Management / Support filtering Mac-address / Support MAC limit based on port and VLAN / Support MAC flapping based on port and VLAN"
+],
+[
+"VLAN",
+"Support access mode / Support trunk mode / Support hybrid mode"
+],
+[
+"VLAN classification",
+"Mac Based VLAN / IP Based VLAN / Protocol Based VLAN"
+],
+[
+"GVRP",
+"Normal mode / Fixed mode / Forbidden mode"
+],
+[
+"QinQ",
+"Port-based QinQ / VLAN-based QinQ (VLAN-stacking; VLAN-mapping) / Flow-based QinQ"
+],
+[
+"LLDP",
+"LLDP (Link Layer Discovery Protocol)"
+],
+[
+"Ring network protocol",
+"Support IEEE802.1D-STP / Support IEEE802.1W-RSTP / Support IEEE802.1S-MSTP"
+],
+[
+"Ring network protocol",
+"Support G.8032 ERPS protocol，single ring, sub Ring and major ring / Recovery time ≤20ms"
+],
+[
+"L2 Multicast"
+],
+[
+"IGMP snooping",
+"Support IGMP snooping"
+],
+[
+"Group address",
+"Support group address"
+],
+[
+"Security functions"
+],
+[
+"ACL",
+"IP Standard ACL / MAC extend ACL / IP extend ACL / IPv6 ACL"
+],
+[
+"QoS",
+"Support QoS Class, remarking / Support SP, WRR queue scheduling / Ingress port-based rate-limit / Egress port-based rate-limit / Support policy-based QoS"
+],
+[
+"802.1x",
+"Port access control / Mac-address access control / RADIUS server"
+],
+[
+"Port-security",
+"Port-security"
+],
+[
+"IP source guard",
+"IP Port/MAC binding"
+],
+[
+"ARP-check",
+"Support ARP-check and ARP packet filtering for illegal users"
+],
+[
+"Access control",
+"Support Telnet/SSH/HTTP/HTTPS user access control"
+],
+[
+"Management & Maintenance functions"
+],
+[
+"User Management",
+"Support password protection / Support user authorization management"
+],
+[
+"SNMP",
+"Supporting SNMP V1/V2C/V3 version"
+],
+[
+"Web Management",
+"Web Management / Support HTTP V1.1 / Support HTTPS"
+],
+[
+"CLI management",
+"Console/Telnet command line management"
+],
+[
+"RMON",
+"Support RMON(Remote Monitoring) alarm"
+],
+[
+"Firmware upgrade",
+"Firmware upgrade"
+],
+[
+"Fault Detection",
+"Ping/Tracerout / Support optical transceiver DDM function"
+],
+[
+"Cable detection",
+"Support copper port cable detection"
+],
+[
+"NTP",
+"Network Time Protocol"
+],
+[
+"Syslog/Debug",
+"Syslog/Debug / Syslog send to three servers"
+],
+[
+"Configuration import/export",
+"Support FTP/TFTP remote import/export"
+],
+[
+"Dual partition management",
+"Support dual partition switching"
+],
+[
+"Application Protocol Functions"
+],
+[
+"DHCP Snooping",
+"DHCP snooping trust port / Support remote-id/circuit-id configuration / DHCP option-82"
+],
+[
+"DHCP client",
+"Support DHCP client"
+],
+[
+"Telnet server",
+"Support telnet server"
+],
+[
+"Telnet client",
+"Support telnet client"
+],
+[
+"SSH server",
+"Support SSH server"
+],
+[
+"TACACS",
+"Support TACACS(the terminal access controller accesses the control system)"
+],
+[
+"sflow",
+"Support network traffic analysis"
+],
+[
+"TFTP",
+"Support TFTP Client"
+],
+[
+"Layer 3 functions"
+],
+[
+"ARP",
+"ARP table aging"
+],
+[
+"DHCP server"
+],
+[
+"IPv4 / IPv6",
+"static routing"
+],
+[
+"Switching features"
+],
+[
+"Switching capacity",
+"128Gbps"
+],
+[
+"Packet forwarding rate",
+"190Mpps"
+],
+[
+"MAC address table",
+"16K"
+],
+[
+"VLAN",
+"4K"
+],
+[
+"Buffer",
+"12Mbit"
+],
+[
+"Forwarding delay",
+"<5us"
+],
+[
+"Jumbo Frame",
+"Support 10Kbytes"
+],
+[
+"MDX/MIDX",
+"Support"
+],
+[
+"Watchdog",
+"Support"
+],
+[
+"Mechanical structure"
+],
+[
+"Installation method",
+"Desktop; Rack-mount"
+],
+[
+"Dimension(W*D*H)mm",
+"440*180*45mm"
+],
+[
+"Weight",
+"2.77kg"
+],
+[
+"Operating environment"
+],
+[
+"Operating temperature",
+"0℃~+50℃"
+],
+[
+"Storage/transportation temperature",
+"0℃~+50℃"
+],
+[
+"Relative humidity",
+"Operation humidity: 10%-90%RH / Storage humidity: 5%-95%RH"
+],
+[
+"Certification",
+"CCC/CE/UKCA/RoHS/REACH/FCC"
+],
+[
+"MTBF",
+"＞100,000 hours"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Structure diagram"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Order information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"Description"
+],
+[
+"LT-S8328XG-4XS24GT-S",
+"Layer 2+ managed Ethernet switch with 4*1G/2.5G/10G SFP+ slots and 24*10/100/1000M RJ45 ports，AC 100-240V 50/60Hz"
+]
+]
+}
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":261078
+},
+{
+"name":"image2.png",
+"bytes":113490
+}
+]
+}

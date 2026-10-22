@@ -1,0 +1,936 @@
+{
+"id":"1nUanXLVakSb6-B7tPHjNiSzv_rzPtCA-",
+"name":"Managed Industrial  Ethernet Switches QIG-neutral.docx",
+"path":"SmartByte/暂时不用的/QIG/Managed Industrial  Ethernet Switches QIG-neutral.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":1960985,
+"sha256":"d19b5d77e5ac89233f8f247dedd79c8b4884b825015d155a97ab4db6172429b5",
+"extracted_at":"2026-10-22T02:14:36Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":10053,
+"meta":{
+"title":"",
+"author":"kphu",
+"last_modified_by":"peter hu",
+"created":"2022-04-12T11:48:00+00:00",
+"modified":"2023-11-21T03:17:14+00:00",
+"paragraphs":129,
+"tables":3,
+"embedded_images":26
+},
+"warnings":[],
+"text":"Table of Contents\n2\n3\n3\n4\n5\n2.4.\t6\n7\n7\n2.7.\t8\n2.8.\t9\n10\n10\n14\n15\n16\n4.1.The description of Managed industrial Ethernet switch indicators\t17\n4.2.The definition of managed industrial Ethernet switch silkscreen\t18\n17\nPreparing for installation\nThank you for purchasing the Managed industrial Ethernet switches, please open the box of managed industrial Ethernet switch, your package should include the following items:\n➢  managed industrial Ethernet switch\n➢  2 Mounting brackets (rack-mountable models)\n➢  Mounting screws (rack-mountable models)\nYou need to prepare :\n➢  Category 5e or better cable for RJ-45 ports\n➢  Appropriate fiber cables for fiber ports\n➢  Appropriate SFP cable and modules for SFP ports\n➢  Personal computer with a DB-9 male interface\n➢  Installation tools: No installation tools are provided with the switch. Prepare the following tools yourself\n•  Flat-head screwdriver\n•  Phillips screwdriver\n•  ESD wrist strap\n•  Needle-nose pliers\n•  Diagonal pliers\n•  Cable crimping tool\nInstalling the switch\nMounting the switch on a DIN rail or rack/cabinet\nInstalling the switch on a DIN rail\nWear an ESD wrist strap. Make sure the wrist strap makes good skin contact and is reliably grounded.\nRotate the switch down toward the DIN rail until the DIN rail mounting bracket clicks.\nAs shown in Figure 2-1 position the switch so that the spring of the DIN rail mounting bracket compresses against the upper edge of the DIN rail.\nFigure 2-1 Installing the switch on a DIN rail\nInstalling the switch on the rack/cabinet\nUse the enclosed screws and brackets to mount the switch in an open or enclosed 19’’rack.\nPlease make sure the 19’’rack on good grounding.\nFixing the mounting ears on the both side of the switch.\nFigure 2-2 Install the mounting ears\nPlace the switch on a bracket of the rack and move the switch along the guide rails of the rack to a proper position.\nUse screws to install the switch on the rack.\nFigure 2-3 Install the switch on the rack\nConnecting the grounding cable\nWARNING!\nCorrectly connecting the grounding cable for the switch is crucial to lightning protection and EMI\nprotection.\nThe power input end of the switch has a noise filter, whose central ground is directly connected to the chassis to form the chassis ground. You must securely connect this chassis ground to the earth so the faradism and leakage electricity can be safely released to the earth to minimize EMI susceptibility of the switch. To connect the grounding cable for the switch:\nRemove the grounding screw from the switch.\nUse the grounding screw to attach the ring terminal of the grounding cable to the grounding screw hole. Fasten the screw.\nConnect the other end of the grounding cable to the grounding system.\nFigure 2-4 Connecting the grounding cable for the switch\nGrounding screw hole                            (2) Ring terminal of the grounding cable\nGrounding screw                                 (4) Grounding cable\n(5) Grounding sign\nWiring external alarms (Some models support)\nCAUTION:\n• To avoid connection mistakes, identify the positive (+) and negative (-) marks above the (DI)  connector.\n• Before wiring external alarms, make sure the switch is reliably grounded and is powered off.\nThe switch comes with an (DI) connector installed on it. The (DI) connector is used for connecting alarm signals to the switch. Before connecting wires to the (DI) connector, remove the (DI) connector. No alarm input and alarm output wires are provided with the switch. Prepare compatible copper wires yourself as required.\nWiring external alarms for the switch which support DO（digital output)\nThe alarm output connection (DO) outputs alarms by closing or opening the relay contact. It has a current carrying capacity of 1 A/24 VDC and does not support power supply to the connected device.\nRemove the alarm connector.\nPosition the alarm connector upside up. Then insert the alarm input and output wires into the alarm connector as shown in Figure 2-5. If you orient the alarm connector upside down, you cannot install it on the switch.\nUse a flat-head screwdriver to fasten the screws at the top of the alarm connector to secure the wires to the connector, as shown in Figure 2-5.\nAttach the alarm connector to the switch, as shown in Figure 2-5.\nConnect the other ends of the input and output wires to an external device.\nFigure 2-5\nConnecting power cords\nWARNING!\n• Make sure each power cord has a separate circuit breaker.\n• Before connecting a power cord, make sure the circuit breaker for the power cord is turned off.\nConnecting an AC power cord for rack-mountable managed industrial Ethernet switch\nWARNING!\nBefore connecting or removing the AC power cord from the AC power receptacle, turn off the circuit\nbreaker for the power cord.\nInstallation procedure as follows:\nPlug the AC power to the switch AC socket.\nConnect the AC power cord to the AC power source.\nFigure 2-6 Connecting the AC power source\nConnecting a DC power cord\nCAUTION: To avoid connection mistakes, identify the positive (+) and negative (-) marks above\nthe DC power receptacle for the terminal block connection.\nInstallation procedure as follows：\nMake sure the switch power off.\nCorrectly connecting the grounding cable for the switch (please refer to Figure 2-4).\nConnect the DC power to the positive(+) and negative(-) of the terminal block(red cord connect “+”, black cord connect “-”), then fasten the screws through the screw-drive. Shown on the Figure 2-6.\nTurn on and check the power indicator on the front panel of the device. If the power indicator is on, the power supply is normal.\nRemark: Din-rail industrial Ethernet switches support redundant dual DC power supply. You can connect one or two DC power supply according to your requirement.\nFigure 2-7\nVerifying the installation\nAfter you complete the installation, verify the following information:\n• There is enough space around the switch for heat dissipation.\n• The DIN rail is securely installed.\n• The grounding cable is connected correctly.\n• The power source is as required by the switch.\n• The power cords are correctly connected.\n• If an interface cable for a port is routed outdoors, verify that a network port lightning protector is used for the port.\n• If a power line is routed from outdoors, verify that a surge protected power strip is used for the switch.\nAccessing the switch for the first time\nLogging the switch through console port.\nYou can connect the switch to a configuration terminal by using the serial console port.                     In Figure 3-1, the switch is connected to a configuration terminal (PC as an example) from the serial console port.\nFigure 3-1 Connecting the switch to a configuration terminal\nTwo types of console cables can be used for connecting the switch to a configuration terminal. No serial console cable is provided with the switch.\nConnection method\tConsole cable type\tConfiguration / terminal-side / connector\tSwitch-side / connector\nUsing the serial console port for connection\tDB9-to-RJ45 console cable\tDB-9 female connector\tRJ-45 connector\nUsing the serial console port for connection\tUSB-to-RJ45 console cable\tUSB connector\tRJ-45 connector\nCommon serial port software includes SecureCRT and putty. Take SecureCRT for an example.\nOpen the SecureCRT, select ”New session”.\nSelect”Serial”, click “Next”.\n(3) Select relative COM port, baud rate 115200, data bits: 8, parity: None, Stop bits: 1, flow control “RTS/CTS”, click “Next”, then click “Ok”.\n(4) Click” Enter”, input user name” admin”, password ”admin”.\nThe logging interface will show as follows:\nDetailed CLI function please refer to the CLI user manual.\nLogging the switch through web-based.\n(1) Open browser and enter 192.168.56.166 in the address bar.\n(2) Enter the password: admin,logging interface will be shown as follows:\n(3) The switch menu and switch sub-menu are as follows:\nNow You can configure and manage the switch through web-based interface, more details please refer to the Web-based user manual.\nUSB configuration through CLI.\nThe USB port can be used to save the running switch configuration to a (FAT32) USB storage device. You can refer to the USB configuration user manual for USB installation, removing, configuration copy and upgrading.\nIndicators and silkscreen of managed industrial Ethernet switch\nThe description of Managed industrial Ethernet switch indicators\nLED Indicators\nP/P1/P2 (Power indicator) Green\tOff: the device is power off or failed\tOn: the device power on is normal\nSYS (System status indicator) Green\tBlinking: device initialization\tOn: device on normal operation\nUSB (USB status indicator) Green\tOff: USB flash drive not insert or not detected by device\nUSB (USB status indicator) Green\tOn: USB flash drive is detected by device\nUSB (USB status indicator) Green\tBlinking: the device is reading and writing the data from USB flash drive\nALM(Fault status indicator) Red\tOff: Device on normal working state\tOn: Fault alarm\nRing(Ring network indicator)\tOff: Ring network disable\tOn: Ring network enable\nCopper ports indicators Green\tOff: ports link down\nCopper ports indicators Green\tOn: ports link up\nCopper ports indicators Green\tBlinking: data on TX/RX\nCopper speed/PoE state indicators   Yellow\tNon-PoE series\tPoE series\nCopper speed/PoE state indicators   Yellow\t1000M models\t10/100M models\tOff: PoE not working\nCopper speed/PoE state indicators   Yellow\tOff: ports on 10/100M\tOff: ports on 10M\tOff: PoE not working\nCopper speed/PoE state indicators   Yellow\tOn: ports on 1000M\tOn: ports on 100M\tOn: PoE working\nFiber ports indicators Green\tOff: ports link down\nFiber ports indicators Green\tOn: ports link up\nFiber ports indicators Green\tBlinking: data on TX/RX\nThe definition of managed industrial Ethernet switch silkscreen\nSilkscreen\tdefinition\nRS485\tA\tdata positive line\nRS485\tB\tdata negative line\nG\tG\tGrounding line\nDI\t+\tDigital input +（“1”：None or -30~+1V）Max input current：8mA\nDI\t-\tDigital input-（ “0”：+12V~+30V）\nRelay\t\tNormally open\nRelay\t\tNormally close\n[文本框]\nManaged Industrial Ethernet Switches\nQuick Installation Guide",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Table of Contents"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 1",
+"text":"2"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 1",
+"text":"3"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 2",
+"text":"3"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 2",
+"text":"4"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 2",
+"text":"5"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 2",
+"text":"2.4.\t6"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 2",
+"text":"7"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 2",
+"text":"7"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 2",
+"text":"2.7.\t8"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 2",
+"text":"2.8.\t9"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 1",
+"text":"10"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 2",
+"text":"10"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 2",
+"text":"14"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 2",
+"text":"15"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 1",
+"text":"16"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 2",
+"text":"4.1.The description of Managed industrial Ethernet switch indicators\t17"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 2",
+"text":"4.2.The definition of managed industrial Ethernet switch silkscreen\t18"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 1",
+"text":"17"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Preparing for installation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Thank you for purchasing the Managed industrial Ethernet switches, please open the box of managed industrial Ethernet switch, your package should include the following items:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  managed industrial Ethernet switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  2 Mounting brackets (rack-mountable models)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  Mounting screws (rack-mountable models)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"You need to prepare :"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  Category 5e or better cable for RJ-45 ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  Appropriate fiber cables for fiber ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  Appropriate SFP cable and modules for SFP ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  Personal computer with a DB-9 male interface"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  Installation tools: No installation tools are provided with the switch. Prepare the following tools yourself"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"•  Flat-head screwdriver"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"•  Phillips screwdriver"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"•  ESD wrist strap"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"•  Needle-nose pliers"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"•  Diagonal pliers"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"•  Cable crimping tool"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Installing the switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Mounting the switch on a DIN rail or rack/cabinet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Installing the switch on a DIN rail"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Wear an ESD wrist strap. Make sure the wrist strap makes good skin contact and is reliably grounded."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Rotate the switch down toward the DIN rail until the DIN rail mounting bracket clicks."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"As shown in Figure 2-1 position the switch so that the spring of the DIN rail mounting bracket compresses against the upper edge of the DIN rail."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Figure 2-1 Installing the switch on a DIN rail"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Installing the switch on the rack/cabinet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Use the enclosed screws and brackets to mount the switch in an open or enclosed 19’’rack."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please make sure the 19’’rack on good grounding."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Fixing the mounting ears on the both side of the switch."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Figure 2-2 Install the mounting ears"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Place the switch on a bracket of the rack and move the switch along the guide rails of the rack to a proper position."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Use screws to install the switch on the rack."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Figure 2-3 Install the switch on the rack"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connecting the grounding cable"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"WARNING!"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Correctly connecting the grounding cable for the switch is crucial to lightning protection and EMI"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"protection."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The power input end of the switch has a noise filter, whose central ground is directly connected to the chassis to form the chassis ground. You must securely connect this chassis ground to the earth so the faradism and leakage electricity can be safely released to the earth to minimize EMI susceptibility of the switch. To connect the grounding cable for the switch:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remove the grounding screw from the switch."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Use the grounding screw to attach the ring terminal of the grounding cable to the grounding screw hole. Fasten the screw."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connect the other end of the grounding cable to the grounding system."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Figure 2-4 Connecting the grounding cable for the switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Grounding screw hole                            (2) Ring terminal of the grounding cable"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Grounding screw                                 (4) Grounding cable"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(5) Grounding sign"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Wiring external alarms (Some models support)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CAUTION:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"• To avoid connection mistakes, identify the positive (+) and negative (-) marks above the (DI)  connector."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"• Before wiring external alarms, make sure the switch is reliably grounded and is powered off."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The switch comes with an (DI) connector installed on it. The (DI) connector is used for connecting alarm signals to the switch. Before connecting wires to the (DI) connector, remove the (DI) connector. No alarm input and alarm output wires are provided with the switch. Prepare compatible copper wires yourself as required."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Wiring external alarms for the switch which support DO（digital output)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The alarm output connection (DO) outputs alarms by closing or opening the relay contact. It has a current carrying capacity of 1 A/24 VDC and does not support power supply to the connected device."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remove the alarm connector."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Position the alarm connector upside up. Then insert the alarm input and output wires into the alarm connector as shown in Figure 2-5. If you orient the alarm connector upside down, you cannot install it on the switch."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Use a flat-head screwdriver to fasten the screws at the top of the alarm connector to secure the wires to the connector, as shown in Figure 2-5."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Attach the alarm connector to the switch, as shown in Figure 2-5."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connect the other ends of the input and output wires to an external device."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Figure 2-5"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connecting power cords"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"WARNING!"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"• Make sure each power cord has a separate circuit breaker."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"• Before connecting a power cord, make sure the circuit breaker for the power cord is turned off."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connecting an AC power cord for rack-mountable managed industrial Ethernet switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"WARNING!"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Before connecting or removing the AC power cord from the AC power receptacle, turn off the circuit"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"breaker for the power cord."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Installation procedure as follows:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Plug the AC power to the switch AC socket."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connect the AC power cord to the AC power source."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Figure 2-6 Connecting the AC power source"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connecting a DC power cord"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CAUTION: To avoid connection mistakes, identify the positive (+) and negative (-) marks above"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"the DC power receptacle for the terminal block connection."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Installation procedure as follows："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Make sure the switch power off."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Correctly connecting the grounding cable for the switch (please refer to Figure 2-4)."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connect the DC power to the positive(+) and negative(-) of the terminal block(red cord connect “+”, black cord connect “-”), then fasten the screws through the screw-drive. Shown on the Figure 2-6."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Turn on and check the power indicator on the front panel of the device. If the power indicator is on, the power supply is normal."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark: Din-rail industrial Ethernet switches support redundant dual DC power supply. You can connect one or two DC power supply according to your requirement."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Figure 2-7"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Verifying the installation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"After you complete the installation, verify the following information:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"• There is enough space around the switch for heat dissipation."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"• The DIN rail is securely installed."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"• The grounding cable is connected correctly."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"• The power source is as required by the switch."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"• The power cords are correctly connected."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"• If an interface cable for a port is routed outdoors, verify that a network port lightning protector is used for the port."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"• If a power line is routed from outdoors, verify that a surge protected power strip is used for the switch."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Accessing the switch for the first time"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Logging the switch through console port."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"You can connect the switch to a configuration terminal by using the serial console port.                     In Figure 3-1, the switch is connected to a configuration terminal (PC as an example) from the serial console port."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Figure 3-1 Connecting the switch to a configuration terminal"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Two types of console cables can be used for connecting the switch to a configuration terminal. No serial console cable is provided with the switch."
+},
+{
+"t":"table",
+"rows":[
+[
+"Connection method",
+"Console cable type",
+"Configuration / terminal-side / connector",
+"Switch-side / connector"
+],
+[
+"Using the serial console port for connection",
+"DB9-to-RJ45 console cable",
+"DB-9 female connector",
+"RJ-45 connector"
+],
+[
+"Using the serial console port for connection",
+"USB-to-RJ45 console cable",
+"USB connector",
+"RJ-45 connector"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Common serial port software includes SecureCRT and putty. Take SecureCRT for an example."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Open the SecureCRT, select ”New session”."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Select”Serial”, click “Next”."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(3) Select relative COM port, baud rate 115200, data bits: 8, parity: None, Stop bits: 1, flow control “RTS/CTS”, click “Next”, then click “Ok”."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(4) Click” Enter”, input user name” admin”, password ”admin”."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The logging interface will show as follows:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Detailed CLI function please refer to the CLI user manual."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Logging the switch through web-based."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(1) Open browser and enter 192.168.56.166 in the address bar."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(2) Enter the password: admin,logging interface will be shown as follows:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(3) The switch menu and switch sub-menu are as follows:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Now You can configure and manage the switch through web-based interface, more details please refer to the Web-based user manual."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"USB configuration through CLI."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The USB port can be used to save the running switch configuration to a (FAT32) USB storage device. You can refer to the USB configuration user manual for USB installation, removing, configuration copy and upgrading."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Indicators and silkscreen of managed industrial Ethernet switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The description of Managed industrial Ethernet switch indicators"
+},
+{
+"t":"table",
+"rows":[
+[
+"LED Indicators"
+],
+[
+"P/P1/P2 (Power indicator) Green",
+"Off: the device is power off or failed",
+"On: the device power on is normal"
+],
+[
+"SYS (System status indicator) Green",
+"Blinking: device initialization",
+"On: device on normal operation"
+],
+[
+"USB (USB status indicator) Green",
+"Off: USB flash drive not insert or not detected by device"
+],
+[
+"USB (USB status indicator) Green",
+"On: USB flash drive is detected by device"
+],
+[
+"USB (USB status indicator) Green",
+"Blinking: the device is reading and writing the data from USB flash drive"
+],
+[
+"ALM(Fault status indicator) Red",
+"Off: Device on normal working state",
+"On: Fault alarm"
+],
+[
+"Ring(Ring network indicator)",
+"Off: Ring network disable",
+"On: Ring network enable"
+],
+[
+"Copper ports indicators Green",
+"Off: ports link down"
+],
+[
+"Copper ports indicators Green",
+"On: ports link up"
+],
+[
+"Copper ports indicators Green",
+"Blinking: data on TX/RX"
+],
+[
+"Copper speed/PoE state indicators   Yellow",
+"Non-PoE series",
+"PoE series"
+],
+[
+"Copper speed/PoE state indicators   Yellow",
+"1000M models",
+"10/100M models",
+"Off: PoE not working"
+],
+[
+"Copper speed/PoE state indicators   Yellow",
+"Off: ports on 10/100M",
+"Off: ports on 10M",
+"Off: PoE not working"
+],
+[
+"Copper speed/PoE state indicators   Yellow",
+"On: ports on 1000M",
+"On: ports on 100M",
+"On: PoE working"
+],
+[
+"Fiber ports indicators Green",
+"Off: ports link down"
+],
+[
+"Fiber ports indicators Green",
+"On: ports link up"
+],
+[
+"Fiber ports indicators Green",
+"Blinking: data on TX/RX"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The definition of managed industrial Ethernet switch silkscreen"
+},
+{
+"t":"table",
+"rows":[
+[
+"Silkscreen",
+"definition"
+],
+[
+"RS485",
+"A",
+"data positive line"
+],
+[
+"RS485",
+"B",
+"data negative line"
+],
+[
+"G",
+"G",
+"Grounding line"
+],
+[
+"DI",
+"+",
+"Digital input +（“1”：None or -30~+1V）Max input current：8mA"
+],
+[
+"DI",
+"-",
+"Digital input-（ “0”：+12V~+30V）"
+],
+[
+"Relay",
+"",
+"Normally open"
+],
+[
+"Relay",
+"",
+"Normally close"
+]
+]
+}
+],
+"textboxes":[
+"Managed Industrial Ethernet Switches",
+"Quick Installation Guide"
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":135834
+},
+{
+"name":"image10.png",
+"bytes":2167
+},
+{
+"name":"image11.png",
+"bytes":81976
+},
+{
+"name":"image12.png",
+"bytes":299908
+},
+{
+"name":"image13.png",
+"bytes":79
+},
+{
+"name":"image14.png",
+"bytes":74
+},
+{
+"name":"image15.jpeg",
+"bytes":632
+},
+{
+"name":"image16.png",
+"bytes":65863
+},
+{
+"name":"image17.png",
+"bytes":70180
+},
+{
+"name":"image18.png",
+"bytes":61946
+},
+{
+"name":"image19.png",
+"bytes":69116
+},
+{
+"name":"image2.png",
+"bytes":107
+},
+{
+"name":"image20.png",
+"bytes":43812
+},
+{
+"name":"image21.png",
+"bytes":22779
+},
+{
+"name":"image22.png",
+"bytes":31447
+},
+{
+"name":"image23.jpeg",
+"bytes":78777
+},
+{
+"name":"image24.png",
+"bytes":566
+},
+{
+"name":"image25.png",
+"bytes":272
+},
+{
+"name":"image3.png",
+"bytes":263815
+},
+{
+"name":"image4.png",
+"bytes":270630
+},
+{
+"name":"image5.png",
+"bytes":1667
+},
+{
+"name":"image6.png",
+"bytes":2552
+},
+{
+"name":"image7.png",
+"bytes":94082
+},
+{
+"name":"image8.png",
+"bytes":57941
+},
+{
+"name":"image9.png",
+"bytes":244629
+}
+]
+}

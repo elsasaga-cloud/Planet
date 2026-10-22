@@ -1,0 +1,62 @@
+{
+"id":"1nFYbKgvMqLTr7Jqxp6andJEtWJQTr42U",
+"name":"客户信息报备.docx",
+"path":"SmartByte/暂时不用的/客户信息报备.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":14733,
+"sha256":"c434fdb0e3b856e651d3d82dc0f64a5e3f5a3806f5e664c9ecc62575aae81404",
+"extracted_at":"2026-10-22T02:14:46Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":268,
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2024-04-22T07:22:00+00:00",
+"modified":"2024-07-16T04:29:26+00:00",
+"paragraphs":6,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"text":"«Rio-Import» LLC\nWeb: www.rio-krsk.ru\nIgor Popov\nrio-popov@mail.ru\nTel: 7(391)2906-315, 2911-424\nAdd: 660075, Russian Federation, Krasnoyarsk, st. Red Guard, 21 of. 314\n[页眉页脚]\ns.sagatelecom@gmail.com\nSaga Telecom\nwww.sagatelecom.com.cn\nConnecting, Converting, Creating",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"«Rio-Import» LLC"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Web: www.rio-krsk.ru"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Igor Popov"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"rio-popov@mail.ru"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Tel: 7(391)2906-315, 2911-424"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Add: 660075, Russian Federation, Krasnoyarsk, st. Red Guard, 21 of. 314"
+}
+],
+"header_footer":[
+"s.sagatelecom@gmail.com\nSaga Telecom",
+"www.sagatelecom.com.cn",
+"Connecting, Converting, Creating"
+]
+}

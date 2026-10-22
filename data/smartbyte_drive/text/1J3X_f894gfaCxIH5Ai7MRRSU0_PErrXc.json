@@ -1,0 +1,365 @@
+{
+"id":"1J3X_f894gfaCxIH5Ai7MRRSU0_PErrXc",
+"name":"LT-IS30008G-8GT neutral datasheet.docx",
+"path":"SmartByte/暂时不用的/源图 源DS/千兆非POE 源DS/LT-IS30008G-8GT neutral datasheet.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":432147,
+"sha256":"7e6ec7fe25d357ce5d2fe75c1134ff9d37931e54d8393c05dab3ba245925754e",
+"extracted_at":"2026-10-22T02:14:54Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":3924,
+"meta":{
+"title":"",
+"author":"雙燕飛",
+"last_modified_by":"peter hu",
+"created":"2021-12-06T03:39:00+00:00",
+"modified":"2023-07-10T09:47:35+00:00",
+"paragraphs":17,
+"tables":2,
+"embedded_images":3
+},
+"warnings":[],
+"text":"8*10/100/1000Base-T Industrial Ethernet Switch\nLT-IS3008G-8GT\nFeatures:\n➢ 8*10/100/1000M RJ45 ports(No.8 is uplink port)\n➢ DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n➢  Dip switch function: 1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\n➢ Support 10K Bytes Jumbo frame\n➢ Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n➢ IP40 fan-less and Din-rail hardware design\n➢ Operation temperature: -40 ℃ ~+75℃\nOverview\nThe SmartByte LT-IS3008G-8GT is a unmanaged industrial grade Ethernet switch with 8-port 10/100/1000Base-T RJ45 ports (No.8 can be uplink port). It is featuring with port isolation, flow control, QoS(1-2 ports) and broadcast storm restrain, which all can be configured by the Dip switch on the top panel.\nLT-IS3008G-8GT is also a high cost-effective easy-to-use device, which provides essential industrial Ethernet networking function, such as wide range power input 12-58VDC, redundant power design with polarity reverse/over-voltage protection, robust IP40 fan-less housing with Din-rail installation, wide operation temperature from -40℃ ~+75℃ as well as high-level EMI/EMC capability and so on. It is the best choice for heavy industrial factory, transportation, oil & gas, chemical, IP Surveillance and processing automation area where environmental conditions exceed commercial product specifications.\nTechnical specification\n(Model No.\tLT-IS3008G-8GT\nInterface\tFiber ports\tCopper RJ45 ports\nInterface\t0\t8\nEthernet\t8*10/100/1000Base-T RJ45 ports\nStandard\tIEEE 802.3 Ethernet / IEEE 802.3u Fast Ethernet / IEEE 802.3ab Gigabit Ethernet / IEEE 802.3x Full-Duplex Flow Control / IEEE 802.3az Energy Efficient Ethernet\nDip Switch\tPort Isolation (No.8 is the uplink port) / Flow control / QoS (1-2 ports） / Broadcast storm restrain\nLED Indicators\tP(Power indicator) Green\tOff: the device is power off or failed\nLED Indicators\tP(Power indicator) Green\tOn: the device power on is normal\nLED Indicators\tS(System indicator) Red\tOff: the chip is normal\nLED Indicators\tS(System indicator) Red\tOn: the chip read/write is unnormal\nLED Indicators\t1-8 (Copper ports)\tGreen indicators\tYellow indicators\nLED Indicators\t1-8 (Copper ports)\tOff: ports link down\tOff: port speed is 10/100M\nLED Indicators\t1-8 (Copper ports)\tOn: ports link up\tOn: port speed is 1000M\nLED Indicators\t1-8 (Copper ports)\tBlinking: data on TX/RX\tOn: port speed is 1000M\nPower parameters\nInput voltage\t12-58 VDC, redundant power input\nInput current\t0.6A Max\nTotal consumption\tFull loading without PoE ≤5W\nConnector\tRemovable 4-pin terminal block\nReverse polarity protection\tSupport\nOver-voltage protection\tSupport\nSwitching features\nSwitching capacity\t16G\nPacket forwarding rate\t23.8 Mpps\nMAC address table\t16K\nVLAN\t4K\nBuffer\t2M\nForwarding delay\t<5us\nJumbo Frame\tSupport 10Kbytes\nMDX/MIDX\tSupport\nWatchdog\tSupport\nNetwork Topology\nStar topology\tSupport\nBus topology\tSupport\nTree Topology\tSupport\nMechanical structure\nCase protection\tIP40\nInstallation method\tDin-rail\nDimension(W*D*H)mm\t48*98*98mm\nWeight\t0.58 kg\nOperating environment\nOperating temperature\t-40℃~+75℃\nStorage/transportation temperature\t-40℃~+85℃\nRelative humidity\t5%~95% （non-condensing）\nIndustry standard\tSurge protection of power: IEC 61000-4-5  Level 3 (6KV/2KV）（8/20us)\nIndustry standard\tSurge protection of Ethernet ports: IEC 61000-4-5  Level 3 (6KV/2KV）（10/700us)\nIndustry standard\tDIP: IEC 61000-4-11  Level 3（10V）\nIndustry standard\tESD: IEC 61000-4-2  Level 4（8K/15K）\nIndustry standard\tShock: IEC 60068-2-27\nIndustry standard\tFree fall: IEC 60068-2-32\nIndustry standard\tVibration: IEC 60068-2-6\nCertification\tCCC/CE/FCC/RoHS\nWarranty\t5 years\nPRODUCT PARAMETERS\nStructure diagram\nOrder information\nModel\tDescription\nLT-IS3008G-8GT\t8-port 10/100/1000Base-T unmanaged industrial Ethernet switch, DC12-58V, redundant dual power supply, Din-rail installation. Operation temperature: -40℃～+75℃",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"8*10/100/1000Base-T Industrial Ethernet Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LT-IS3008G-8GT"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Features:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ 8*10/100/1000M RJ45 ports(No.8 is uplink port)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  Dip switch function: 1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Support 10K Bytes Jumbo frame"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ IP40 fan-less and Din-rail hardware design"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Operation temperature: -40 ℃ ~+75℃"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Overview"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The SmartByte LT-IS3008G-8GT is a unmanaged industrial grade Ethernet switch with 8-port 10/100/1000Base-T RJ45 ports (No.8 can be uplink port). It is featuring with port isolation, flow control, QoS(1-2 ports) and broadcast storm restrain, which all can be configured by the Dip switch on the top panel."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LT-IS3008G-8GT is also a high cost-effective easy-to-use device, which provides essential industrial Ethernet networking function, such as wide range power input 12-58VDC, redundant power design with polarity reverse/over-voltage protection, robust IP40 fan-less housing with Din-rail installation, wide operation temperature from -40℃ ~+75℃ as well as high-level EMI/EMC capability and so on. It is the best choice for heavy industrial factory, transportation, oil & gas, chemical, IP Surveillance and processing automation area where environmental conditions exceed commercial product specifications."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Technical specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"(Model No.",
+"LT-IS3008G-8GT"
+],
+[
+"Interface",
+"Fiber ports",
+"Copper RJ45 ports"
+],
+[
+"Interface",
+"0",
+"8"
+],
+[
+"Ethernet",
+"8*10/100/1000Base-T RJ45 ports"
+],
+[
+"Standard",
+"IEEE 802.3 Ethernet / IEEE 802.3u Fast Ethernet / IEEE 802.3ab Gigabit Ethernet / IEEE 802.3x Full-Duplex Flow Control / IEEE 802.3az Energy Efficient Ethernet"
+],
+[
+"Dip Switch",
+"Port Isolation (No.8 is the uplink port) / Flow control / QoS (1-2 ports） / Broadcast storm restrain"
+],
+[
+"LED Indicators",
+"P(Power indicator) Green",
+"Off: the device is power off or failed"
+],
+[
+"LED Indicators",
+"P(Power indicator) Green",
+"On: the device power on is normal"
+],
+[
+"LED Indicators",
+"S(System indicator) Red",
+"Off: the chip is normal"
+],
+[
+"LED Indicators",
+"S(System indicator) Red",
+"On: the chip read/write is unnormal"
+],
+[
+"LED Indicators",
+"1-8 (Copper ports)",
+"Green indicators",
+"Yellow indicators"
+],
+[
+"LED Indicators",
+"1-8 (Copper ports)",
+"Off: ports link down",
+"Off: port speed is 10/100M"
+],
+[
+"LED Indicators",
+"1-8 (Copper ports)",
+"On: ports link up",
+"On: port speed is 1000M"
+],
+[
+"LED Indicators",
+"1-8 (Copper ports)",
+"Blinking: data on TX/RX",
+"On: port speed is 1000M"
+],
+[
+"Power parameters"
+],
+[
+"Input voltage",
+"12-58 VDC, redundant power input"
+],
+[
+"Input current",
+"0.6A Max"
+],
+[
+"Total consumption",
+"Full loading without PoE ≤5W"
+],
+[
+"Connector",
+"Removable 4-pin terminal block"
+],
+[
+"Reverse polarity protection",
+"Support"
+],
+[
+"Over-voltage protection",
+"Support"
+],
+[
+"Switching features"
+],
+[
+"Switching capacity",
+"16G"
+],
+[
+"Packet forwarding rate",
+"23.8 Mpps"
+],
+[
+"MAC address table",
+"16K"
+],
+[
+"VLAN",
+"4K"
+],
+[
+"Buffer",
+"2M"
+],
+[
+"Forwarding delay",
+"<5us"
+],
+[
+"Jumbo Frame",
+"Support 10Kbytes"
+],
+[
+"MDX/MIDX",
+"Support"
+],
+[
+"Watchdog",
+"Support"
+],
+[
+"Network Topology"
+],
+[
+"Star topology",
+"Support"
+],
+[
+"Bus topology",
+"Support"
+],
+[
+"Tree Topology",
+"Support"
+],
+[
+"Mechanical structure"
+],
+[
+"Case protection",
+"IP40"
+],
+[
+"Installation method",
+"Din-rail"
+],
+[
+"Dimension(W*D*H)mm",
+"48*98*98mm"
+],
+[
+"Weight",
+"0.58 kg"
+],
+[
+"Operating environment"
+],
+[
+"Operating temperature",
+"-40℃~+75℃"
+],
+[
+"Storage/transportation temperature",
+"-40℃~+85℃"
+],
+[
+"Relative humidity",
+"5%~95% （non-condensing）"
+],
+[
+"Industry standard",
+"Surge protection of power: IEC 61000-4-5  Level 3 (6KV/2KV）（8/20us)"
+],
+[
+"Industry standard",
+"Surge protection of Ethernet ports: IEC 61000-4-5  Level 3 (6KV/2KV）（10/700us)"
+],
+[
+"Industry standard",
+"DIP: IEC 61000-4-11  Level 3（10V）"
+],
+[
+"Industry standard",
+"ESD: IEC 61000-4-2  Level 4（8K/15K）"
+],
+[
+"Industry standard",
+"Shock: IEC 60068-2-27"
+],
+[
+"Industry standard",
+"Free fall: IEC 60068-2-32"
+],
+[
+"Industry standard",
+"Vibration: IEC 60068-2-6"
+],
+[
+"Certification",
+"CCC/CE/FCC/RoHS"
+],
+[
+"Warranty",
+"5 years"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PRODUCT PARAMETERS"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Structure diagram"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Order information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"Description"
+],
+[
+"LT-IS3008G-8GT",
+"8-port 10/100/1000Base-T unmanaged industrial Ethernet switch, DC12-58V, redundant dual power supply, Din-rail installation. Operation temperature: -40℃～+75℃"
+]
+]
+}
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":359191
+},
+{
+"name":"image2.png",
+"bytes":46639
+}
+]
+}

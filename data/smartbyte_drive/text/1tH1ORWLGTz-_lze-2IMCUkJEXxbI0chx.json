@@ -1,0 +1,22 @@
+{
+"id":"1tH1ORWLGTz-_lze-2IMCUkJEXxbI0chx",
+"name":"7303619cf9ba5e53d1e2ada7e174229.png",
+"path":"SmartByte/暂时不用的/商业级管理 源图/4光 +24电/7303619cf9ba5e53d1e2ada7e174229.png",
+"type":"图片",
+"bytes":2389961,
+"sha256":"e0fea99d0e107c42f8d7bfca93005101a7e341c6de2e8c5b78cb25804208cf20",
+"extracted_at":"2026-10-22T02:15:48Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":4608,
+"height":3456,
+"mode":"RGB",
+"thumb_bytes":4622
+},
+"ocr":{
+"text":"HH Ah tt -二 上 一 十 HH ici it",
+"conf":47.8
+},
+"text":"HH Ah tt -二 上 一 十 HH ici it"
+}

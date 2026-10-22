@@ -1,0 +1,22 @@
+{
+"id":"1XalLHNt5PLT_dVSgeUPB12NTFLSdsN4E",
+"name":"2024.11.5 quote.png",
+"path":"SmartByte/暂时不用的/2024.11.5 quote.png",
+"type":"图片",
+"bytes":84204,
+"sha256":"ca9780bda590189a137942292471f0075bf04e4096c6b636492fe6649f3fd2c1",
+"extracted_at":"2026-10-22T02:15:09Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":1469,
+"height":773,
+"mode":"RGBA",
+"thumb_bytes":3845
+},
+"ocr":{
+"text":"Peter hu\n出 2+8 实 际 也 是 4+8\nPeter hu\n还 需要 单独 做 个 PVC\nPeter hu\n不 如 直接 推荐 4+8\nDora\n¥\n已 确认 收 到 会\nSimon :\nPeter hu\n560 RMB 未 税 ， 这 个 价格 你 推 分 销 商 不 一 定 有 竞争 力 ， 我 们 这 个 产品 是 帮 一 个 专门 做 政府 项\n目的 客户 定制 的 ， 他 的 要 求 很 高 ， 所 以 用 料 非常 扎实",
+"conf":92.5
+},
+"text":"Peter hu\n出 2+8 实 际 也 是 4+8\nPeter hu\n还 需要 单独 做 个 PVC\nPeter hu\n不 如 直接 推荐 4+8\nDora\n¥\n已 确认 收 到 会\nSimon :\nPeter hu\n560 RMB 未 税 ， 这 个 价格 你 推 分 销 商 不 一 定 有 竞争 力 ， 我 们 这 个 产品 是 帮 一 个 专门 做 政府 项\n目的 客户 定制 的 ， 他 的 要 求 很 高 ， 所 以 用 料 非常 扎实"
+}

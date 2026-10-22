@@ -1,0 +1,124 @@
+{
+"id":"1wkQM-rCYrfpt4ySm5IYpc22Ivot5q3U8",
+"name":"Modify MAC address and SN.docx",
+"path":"SmartByte/暂时不用的/Modify MAC address and SN.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":52322,
+"sha256":"b5b5460cbed0ade4a93de5b3f8dad052cd1dba43612785801bdb67ac0b5482e0",
+"extracted_at":"2026-10-22T02:12:13Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":1131,
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2023-07-22T16:14:00+00:00",
+"modified":"2025-02-06T03:11:18+00:00",
+"paragraphs":14,
+"tables":0,
+"embedded_images":5
+},
+"warnings":[],
+"text":"Plug the serial port cable into the device\nOpen the serial port tool, such as putty, secureCRT, and set the baud rate to 115200\nStart the device\nEnter the space bar to enter uboot\nExecute the \"print_p\" command to print out the device MAC address, SN, hardware version number and other information.\nExecute the burn MAC command\nproduct_set ID SN MAC VER, the product model cannot be changed, SN, MAC, VER can be entered as needed\nID: product model, internal use, cannot be changed\nMAC: MAC address\nSN: A combination of letters and numbers, usually 12 digits\nVER: Hardware version, supports letter and number combinations\nproduct_set LTIE-MAC3L-8GT4XS4GS-6XRPC 202411060001 78:d0:64:66:9a:50 1.0\nAfter the execution is completed, execute the print_p command again to check whether it is correct.\nModification of MAC is completed\n[页眉页脚]\n2025/Q1\t                                                                                                                       s.sagatelecom@gmail.com\n\t\t\t\t\t\t\t                                                                       Saga Telecom\nwww.sagatelecom.com.cn\nConnecting, Converting, Creating",
+"blocks":[
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"Plug the serial port cable into the device"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"Open the serial port tool, such as putty, secureCRT, and set the baud rate to 115200"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"Start the device"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"Enter the space bar to enter uboot"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"Execute the \"print_p\" command to print out the device MAC address, SN, hardware version number and other information."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Execute the burn MAC command"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"product_set ID SN MAC VER, the product model cannot be changed, SN, MAC, VER can be entered as needed"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"ID: product model, internal use, cannot be changed"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MAC: MAC address"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SN: A combination of letters and numbers, usually 12 digits"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"VER: Hardware version, supports letter and number combinations"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"product_set LTIE-MAC3L-8GT4XS4GS-6XRPC 202411060001 78:d0:64:66:9a:50 1.0"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"After the execution is completed, execute the print_p command again to check whether it is correct."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Modification of MAC is completed"
+}
+],
+"header_footer":[
+"2025/Q1\t                                                                                                                       s.sagatelecom@gmail.com\n\t\t\t\t\t\t\t                                                                       Saga Telecom",
+"www.sagatelecom.com.cn",
+"Connecting, Converting, Creating"
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":9090
+},
+{
+"name":"image2.png",
+"bytes":6507
+},
+{
+"name":"image3.png",
+"bytes":8077
+},
+{
+"name":"image4.png",
+"bytes":4156
+}
+]
+}

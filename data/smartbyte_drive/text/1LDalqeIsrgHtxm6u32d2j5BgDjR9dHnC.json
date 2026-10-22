@@ -1,0 +1,22 @@
+{
+"id":"1LDalqeIsrgHtxm6u32d2j5BgDjR9dHnC",
+"name":"Weixin Image_20250217213223.png",
+"path":"SmartByte/暂时不用的/2025 Q1验厂/Weixin Image_20250217213223.png",
+"type":"图片",
+"bytes":3845,
+"sha256":"389049b64e9835ad705ab6f00a494a7b30e420fc7581f2bf928760f47132b4d7",
+"extracted_at":"2026-10-22T02:15:08Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":736,
+"height":70,
+"mode":"RGBA",
+"thumb_bytes":1947
+},
+"ocr":{
+"text":"中 科 realtek 光路 realtek\n设备 型 号 : RTK9311 ISW9010G-2GF",
+"conf":88.7
+},
+"text":"中 科 realtek 光路 realtek\n设备 型 号 : RTK9311 ISW9010G-2GF"
+}

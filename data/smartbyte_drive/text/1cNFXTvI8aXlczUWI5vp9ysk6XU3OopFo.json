@@ -1,0 +1,22 @@
+{
+"id":"1cNFXTvI8aXlczUWI5vp9ysk6XU3OopFo",
+"name":"8.psd",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/3系8电口/8电口/中性机械结构图/8.psd",
+"type":"Photoshop 源文件",
+"ext":".psd",
+"bytes":9459559,
+"sha256":"30e40a95a575d17cd469ce7df867f3f288bcd57acace8cd06cafadcbb56dfc9c",
+"extracted_at":"2026-10-22T02:15:02Z",
+"method":"pillow(psd composite)",
+"status":"meta",
+"chars":0,
+"meta":{
+"format":"PSD",
+"width":4254,
+"height":2010,
+"mode":"RGB",
+"thumb_bytes":4017
+},
+"warnings":[],
+"text":""
+}

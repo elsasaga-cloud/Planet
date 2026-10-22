@@ -1,0 +1,948 @@
+{
+"id":"1CCcxMZu0QLDeXyUVEcUHALJeOWJZ0JzW",
+"name":"SmartByte unmanaged Industrial Ethernet Switches QIG-neutral.docx",
+"path":"SmartByte/暂时不用的/QIG/SmartByte unmanaged Industrial Ethernet Switches QIG-neutral.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":1243028,
+"sha256":"f663b934eea3f68182cb306d5f593199d4ad46d2564eb40edd72412858b5d6d5",
+"extracted_at":"2026-10-22T02:14:36Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":11004,
+"meta":{
+"title":"",
+"author":"kphu",
+"last_modified_by":"peter hu",
+"created":"2022-04-12T11:48:00+00:00",
+"modified":"2023-08-29T11:00:27+00:00",
+"paragraphs":107,
+"tables":5,
+"embedded_images":12
+},
+"warnings":[],
+"text":"Table of Contents\n2\n3\n3\n4\n5\n2.4.\t6\n7\n7\n2.7.\t8\n2.8.\t9\n10\n3.1.The LED Indicator description of unmanaged industrial Ethernet switch\t11\n3.2.The definition of unmanaged industrial Ethernet switch DIP switch\t12-13\n14\nPreparing for installation\nThank you for purchasing SmartByte unmanaged industrial Ethernet switches, please open the box of unmanaged industrial Ethernet switch, your package should include the following items:\n➢  unmanaged industrial Ethernet switch\n➢  2 Mounting brackets(rack-mountable models)\n➢  Mounting screws (rack-mountable models)\nYou need to prepare :\n➢  Category 5e or better cable for RJ-45 ports\n➢  Appropriate fiber cables for fiber ports\n➢  Appropriate SFP cable and modules for SFP ports\n➢  Installation tools: No installation tools are provided with the switch. Prepare the following tools yourself\n•  Flat-head screwdriver\n•  Phillips screwdriver\n•  ESD wrist strap\n•  Needle-nose pliers\n•  Diagonal pliers\n•  Cable crimping tool\nInstalling the switch\nMounting the switch on a DIN rail or rack/cabinet\nInstalling the switch on a DIN rail\nWear an ESD wrist strap. Make sure the wrist strap makes good skin contact and is reliably grounded.\nAs shown in Figure 2-1 position the switch so that the spring of the DIN rail mounting bracket compresses against the upper edge of the DIN rail.\nRotate the switch down toward the DIN rail until the DIN rail mounting bracket clicks.\nFigure 2-1 Installing the switch on a DIN rail\nInstalling the switch on the rack/cabinet\nUse the enclosed screws and brackets to mount the switch in an open or enclosed 19’’rack.\nPlease make sure the 19’’rack on good grounding.\nFixing the mounting ears on the both side of the switch.\nFigure 2-2 Install the mounting ears\n(3) Place the switch on a bracket of the rack and move the switch along the guide rails of the   rack to a proper position.\n(4) Use screws to install the switch on the rack.\nFigure 2-3 Install the switch on the rack\nConnecting the grounding cable\nWARNING!\nCorrectly connecting the grounding cable for the switch is crucial to lightning protection and EMI protection.\nThe power input end of the switch has a noise filter, whose central ground is directly connected to the chassis to form the chassis ground. You must securely connect this chassis ground to the earth so the faradism and leakage electricity can be safely released to the earth to minimize EMI susceptibility of the switch. To connect the grounding cable for the switch:\nRemove the grounding screw from the switch.\nUse the grounding screw to attach the ring terminal of the grounding cable to the grounding screw hole. Fasten the screw.\nConnect the other end of the grounding cable to the grounding system.\nFigure2-4 Connecting the grounding cable for the switch\nGrounding screw hole                            (2) Ring terminal of the grounding cable\nGrounding screw                                 (4) Grounding cable\n(5) Grounding sign\nWiring external alarms (Some models support)\nCAUTION:\n• To avoid connection mistakes, identify the positive (+) and negative (-) marks above the (DI) connector.\n• Before wiring external alarms, make sure the switch is reliably grounded and is powered off.\nThe switch comes with an (DI) connector installed on it. The (DI) connector is used for connecting alarm signals to the switch. Before connecting wires to the (DI) connector, remove the (DI) connector. No alarm input and alarm output wires are provided with the switch. Prepare compatible copper wires yourself as required.\nWiring external alarms for the switch which support DO（digital output)\nThe alarm output connection (DO) outputs alarms by closing or opening the relay contact. It has a current carrying capacity of 1 A/24 VDC and does not support power supply to the connected device.\nRemove the alarm connector.\nPosition the alarm connector upside up. Then insert the alarm input and output wires into the alarm connector as shown in Figure 2-5. If you orient the alarm connector upside down, you cannot install it on the switch.\nUse a flat-head screwdriver to fasten the screws at the top of the alarm connector to secure the wires to the connector, as shown in Figure 2-5.\nAttach the alarm connector to the switch, as shown in Figure 2-5.\nConnect the other ends of the input and output wires to an external device.\nFigure 2-5\nConnecting power cords\nWARNING!\n• Make sure each power cord has a separate circuit breaker.\n• Before connecting a power cord, make sure the circuit breaker for the power cord is turned off.\nConnecting an AC power cord for rack-mountable managed industrial Ethernet switch\nWARNING!\nBefore connecting or removing the AC power cord from the AC power receptacle, turn off the circuit breaker for the power cord.\nInstallation procedure as follows:\nPlug the AC power to the switch AC socket\nConnect the AC power cord to the AC power source\nFigure 2-6 Connecting the AC power source\nConnecting a DC power cord\nCAUTION: To avoid connection mistakes, identify the positive (+) and negative (-) marks above the DC power receptacle for the terminal block connection.\nInstallation procedure as follows：\nMake sure the switch power off.\nCorrectly connecting the grounding cable for the switch (please refer to Figure 2-4).\nConnect the DC power to the positive(+) and negative(-) of the terminal block(red cord connect “+”, black cord connect “-”), then fasten the screws through the screw-drive. Shown on the Figure 2-6.\nTurn on and check the power indicator on the front panel of the device. If the power indicator is on, the power supply is working normally.\nRemark: Din-rail industrial Ethernet switches support redundant dual DC power supply. You can connect one or two DC power supply according to your requirement.\nFigure 2-7\nVerifying the installation\nAfter you complete the installation, verify the following information:\n• There is enough space around the switch for heat dissipation.\n• The DIN rail/mounting ears are securely installed.\n• The grounding cable is connected correctly.\n• The power source is as required by the switch.\n• The power cords are correctly connected.\n• If an interface cable for a port is routed outdoors, verify that a network port lightning protector is used for the port.\n• If a power line is routed from outdoors, verify that a surge protected power strip is used for the switch.\nIndicators and silkscreen of unmanaged industrial Ethernet switch\nThe LED indicators description of unmanaged industrial Ethernet switch\nLED Indicators\nP (Power indicator) Green\tOff: the device is power off or failed\tOn: the device power on is normal\nS (System status indicator) Red\tNon-PoE series\tPoE series\nS (System status indicator) Red\tOff: the chip is normal\tOff: total PoE usage ＜rated 50%\nS (System status indicator) Red\tOff: the chip is normal\tBlinking: rated 50%＜total PoE usage＜rated 90%\nS (System status indicator) Red\tOn: the chip is unnormal\tNormal on: total PoE usage≥rated 90%\nCopper ports indicators Green\tOff: ports link down\nCopper ports indicators Green\tOn: ports link up\nCopper ports indicators Green\tBlinking: data on TX/RX\nCopper speed/PoE state indicators   Yellow\tNon-PoE series\tPoE series\nCopper speed/PoE state indicators   Yellow\t1000M models\t10/100M models\tOff: PoE not working\nCopper speed/PoE state indicators   Yellow\tOff: ports on 10/100M\tOff: ports on 10M\tOff: PoE not working\nCopper speed/PoE state indicators   Yellow\tOn: ports on 1000M\tOn: ports on 100M\tOn: PoE working\nFiber ports indicators Green\tOff: ports link down\nFiber ports indicators Green\tOn: ports link up\nFiber ports indicators Green\tBlinking: data on TX/RX\nThe definition of unmanaged industrial Ethernet switch DIP switch\n3.2.1 Unmanaged Industrial Ethernet Switch DIP Switch\n3.2.1-1 Unmanaged fast industrial Ethernet switch\nModels Type\tDIP 1\tDIP 2\tDIP 3\tDIP 4\nNon-PoE\tPort isolation\tFlow control\tQoS(1-2 ports)\tBroadcast storm restrain\nPoE\tPort isolation\t250m long distance mode (10M)\tQoS(1-2 ports)\tPoE watchdog\n3.2.1-2 Unmanaged gigabit industrial Ethernet switch\nModels type\tProduct models\tDIP 1\tDIP 2\tDIP 3\tDIP 4\nNon-PoE\tLT-IS3005G-1GX4GT / LT-IS3006G-2GX4GT / LT-IS6006G-2GX4GT\tPort isolation\tFlow control\tQoS (1-2 port)\tBroadcast storm restrain\nNon-PoE\tLT-IS3005G-5GT LT-IS6005G-5GT / LT-IS3008G-8GT LT-IS6008G-8GT\tPort isolation\tFlow control\tQoS (1-2 port)\tBroadcast storm restrain\nNon-PoE\tLT-IS3009G-1GX8GT / LT-IS6009G-1GX8GT / LT-IS3010G-2GX8GT / LT-IS6010G-2GX8GT\tPort isolation\tFlow control\tQoS (1-2 port)\tBroadcast storm restrain\nNon-PoE\tLT-IS6012G-4GX8GT\tLink aggregation\tFlow control\tQoS (1-2 port)\tBroadcast storm restrain\nNon-PoE\tLT-IS6016G-16GT\tLink aggregation\tFlow control\tQoS (1-2 port)\tBroadcast storm restrain\nNon-PoE\tLT-IS6018G-2GX16GT\tLink aggregation\tFlow control\tQoS (1-2 port)\tBroadcast storm restrain\nPoE\tLT-IS3005GP-1GX4GT / LT-IS3006GP-2GX4GT / LT-IS6006GP-2GX4GT\tPort isolation\t250m long distance （1-2 ports）\tQoS (1-2 port)\tPoE watchdog\nPoE\tLT-IS3005GP-5GT LT-IS6005GP-5GT\tPort isolation\t250m long distance （1-2 ports）\tQoS (1-2 port)\tPoE watchdog\nPoE\tLT-IS3008GP-8GT LT-IS6008GP-8GT\tPort isolation\t250m long distance（1-4 ports）\tQoS (1-2 port)\tPoE watchdog\nPoE\tLT-IS3009GP-1GX8GT LT-IS6009GP-1GX8GT / LT-IS3010GP-2GX8GT / LT-IS6010GP-2GX8GT\tPort isolation\t250m long distance（1-4 ports）\tQoS (1-2 port)\tPoE watchdog\nPoE\tLT-IS6012GP-4GX8GT\tLink aggregation\t250m long distance （1-4ports）\tQoS (1-2 port)\tPoE watchdog\nPoE\tLT-IS6016GP-16GT\tLink aggregation\t250m long distance （1-4ports）\tQoS (1-2 port)\tPoE watchdog\nPoE\tLT-IS6018G-2GX16GT\tLink aggregation\t250m long distance （1-4ports）\tQoS (1-2 port)\tPoE watchdog\n3.2.1-3 Unmanaged Industrial Media Converter\n\tDip 1\tDip 2\tDip 3\tDip 4\nLT-IMC30F-E\tLFP\tFlow control\tBroadcast storm restrain\t10Kbytes jumbo frame\nLT-IMC30F-1FX2TX-E\tPort isolation\tFlow control\tBroadcast storm restrain\t10Kbytes jumbo frame\nLT-IMC30F-2FX2TX-E\tFiber redundant\tFlow control\tBroadcast storm restrain\t10Kbytes jumbo frame\nLT-IMC30G-E\tLFP\tFlow control\tBroadcast storm restrain\t100/1000M fiber port selection(ON=100M, OFF=1000M)\nLT-IMC30G-1GX2GT-E\tPort isolation\tFlow control\tBroadcast storm restrain\t100/1000M fiber port selection(ON=100M, OFF=1000M)\nLT-IMC30G-2GX2GT-E\tFiber redundant\tFlow control\tBroadcast storm restrain\t100/1000M fiber port selection(ON=100/1000M adaptive, OFF=1000M)\n3.2.1-4 Unmanaged Industrial PoE Media Converter\n\tDip 1\tDip 2\tDip 3\tDip 4\nLT-IMC30FP-E\tLFP\tFlow control\t250m long distance\tPoE watchdog\nLT-IMC30FP-1FX2TX-E\tPort isolation\tFlow control\t250m long distance\tPoE watchdog\nLT-IMC30FP-2FX2TX-E\tFiber redundant\tFlow control\t250m long distance\tPoE watchdog\nLT-IMC30GP-E\tLFP\t100/1000M fiber port selection(ON=100M, OFF=1000M)\t250m long distance(port 1)\tPoE watchdog\nLT-IMC30GP-1GX2GT-E\tPort isolation\t100/1000M fiber port selection(ON=100M, OFF=1000M)\t250m long distance(port 1)\tPoE watchdog\nLT-IMC30GP-2GX2GT-E\tFiber redundant\t100/1000M fiber port selection(ON=100/1000M adaptive, OFF=1000M)\t250m long distance (port 1)\tPoE watchdog\n[文本框]\nUnmanaged Industrial\nEthernet Switches\nQuick Installation Guide",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Table of Contents"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 1",
+"text":"2"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 1",
+"text":"3"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 2",
+"text":"3"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 2",
+"text":"4"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 2",
+"text":"5"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 2",
+"text":"2.4.\t6"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 2",
+"text":"7"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 2",
+"text":"7"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 2",
+"text":"2.7.\t8"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 2",
+"text":"2.8.\t9"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 1",
+"text":"10"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 2",
+"text":"3.1.The LED Indicator description of unmanaged industrial Ethernet switch\t11"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 2",
+"text":"3.2.The definition of unmanaged industrial Ethernet switch DIP switch\t12-13"
+},
+{
+"t":"p",
+"s":"WPSOffice手动目录 1",
+"text":"14"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Preparing for installation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Thank you for purchasing SmartByte unmanaged industrial Ethernet switches, please open the box of unmanaged industrial Ethernet switch, your package should include the following items:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  unmanaged industrial Ethernet switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  2 Mounting brackets(rack-mountable models)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  Mounting screws (rack-mountable models)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"You need to prepare :"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  Category 5e or better cable for RJ-45 ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  Appropriate fiber cables for fiber ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  Appropriate SFP cable and modules for SFP ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  Installation tools: No installation tools are provided with the switch. Prepare the following tools yourself"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"•  Flat-head screwdriver"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"•  Phillips screwdriver"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"•  ESD wrist strap"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"•  Needle-nose pliers"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"•  Diagonal pliers"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"•  Cable crimping tool"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Installing the switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Mounting the switch on a DIN rail or rack/cabinet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Installing the switch on a DIN rail"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Wear an ESD wrist strap. Make sure the wrist strap makes good skin contact and is reliably grounded."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"As shown in Figure 2-1 position the switch so that the spring of the DIN rail mounting bracket compresses against the upper edge of the DIN rail."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Rotate the switch down toward the DIN rail until the DIN rail mounting bracket clicks."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Figure 2-1 Installing the switch on a DIN rail"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Installing the switch on the rack/cabinet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Use the enclosed screws and brackets to mount the switch in an open or enclosed 19’’rack."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please make sure the 19’’rack on good grounding."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Fixing the mounting ears on the both side of the switch."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Figure 2-2 Install the mounting ears"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(3) Place the switch on a bracket of the rack and move the switch along the guide rails of the   rack to a proper position."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(4) Use screws to install the switch on the rack."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Figure 2-3 Install the switch on the rack"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connecting the grounding cable"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"WARNING!"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Correctly connecting the grounding cable for the switch is crucial to lightning protection and EMI protection."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The power input end of the switch has a noise filter, whose central ground is directly connected to the chassis to form the chassis ground. You must securely connect this chassis ground to the earth so the faradism and leakage electricity can be safely released to the earth to minimize EMI susceptibility of the switch. To connect the grounding cable for the switch:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remove the grounding screw from the switch."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Use the grounding screw to attach the ring terminal of the grounding cable to the grounding screw hole. Fasten the screw."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connect the other end of the grounding cable to the grounding system."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Figure2-4 Connecting the grounding cable for the switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Grounding screw hole                            (2) Ring terminal of the grounding cable"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Grounding screw                                 (4) Grounding cable"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(5) Grounding sign"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Wiring external alarms (Some models support)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CAUTION:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"• To avoid connection mistakes, identify the positive (+) and negative (-) marks above the (DI) connector."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"• Before wiring external alarms, make sure the switch is reliably grounded and is powered off."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The switch comes with an (DI) connector installed on it. The (DI) connector is used for connecting alarm signals to the switch. Before connecting wires to the (DI) connector, remove the (DI) connector. No alarm input and alarm output wires are provided with the switch. Prepare compatible copper wires yourself as required."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Wiring external alarms for the switch which support DO（digital output)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The alarm output connection (DO) outputs alarms by closing or opening the relay contact. It has a current carrying capacity of 1 A/24 VDC and does not support power supply to the connected device."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remove the alarm connector."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Position the alarm connector upside up. Then insert the alarm input and output wires into the alarm connector as shown in Figure 2-5. If you orient the alarm connector upside down, you cannot install it on the switch."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Use a flat-head screwdriver to fasten the screws at the top of the alarm connector to secure the wires to the connector, as shown in Figure 2-5."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Attach the alarm connector to the switch, as shown in Figure 2-5."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connect the other ends of the input and output wires to an external device."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Figure 2-5"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connecting power cords"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"WARNING!"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"• Make sure each power cord has a separate circuit breaker."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"• Before connecting a power cord, make sure the circuit breaker for the power cord is turned off."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connecting an AC power cord for rack-mountable managed industrial Ethernet switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"WARNING!"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Before connecting or removing the AC power cord from the AC power receptacle, turn off the circuit breaker for the power cord."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Installation procedure as follows:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Plug the AC power to the switch AC socket"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connect the AC power cord to the AC power source"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Figure 2-6 Connecting the AC power source"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connecting a DC power cord"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CAUTION: To avoid connection mistakes, identify the positive (+) and negative (-) marks above the DC power receptacle for the terminal block connection."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Installation procedure as follows："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Make sure the switch power off."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Correctly connecting the grounding cable for the switch (please refer to Figure 2-4)."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connect the DC power to the positive(+) and negative(-) of the terminal block(red cord connect “+”, black cord connect “-”), then fasten the screws through the screw-drive. Shown on the Figure 2-6."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Turn on and check the power indicator on the front panel of the device. If the power indicator is on, the power supply is working normally."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark: Din-rail industrial Ethernet switches support redundant dual DC power supply. You can connect one or two DC power supply according to your requirement."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Figure 2-7"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Verifying the installation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"After you complete the installation, verify the following information:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"• There is enough space around the switch for heat dissipation."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"• The DIN rail/mounting ears are securely installed."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"• The grounding cable is connected correctly."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"• The power source is as required by the switch."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"• The power cords are correctly connected."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"• If an interface cable for a port is routed outdoors, verify that a network port lightning protector is used for the port."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"• If a power line is routed from outdoors, verify that a surge protected power strip is used for the switch."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Indicators and silkscreen of unmanaged industrial Ethernet switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The LED indicators description of unmanaged industrial Ethernet switch"
+},
+{
+"t":"table",
+"rows":[
+[
+"LED Indicators"
+],
+[
+"P (Power indicator) Green",
+"Off: the device is power off or failed",
+"On: the device power on is normal"
+],
+[
+"S (System status indicator) Red",
+"Non-PoE series",
+"PoE series"
+],
+[
+"S (System status indicator) Red",
+"Off: the chip is normal",
+"Off: total PoE usage ＜rated 50%"
+],
+[
+"S (System status indicator) Red",
+"Off: the chip is normal",
+"Blinking: rated 50%＜total PoE usage＜rated 90%"
+],
+[
+"S (System status indicator) Red",
+"On: the chip is unnormal",
+"Normal on: total PoE usage≥rated 90%"
+],
+[
+"Copper ports indicators Green",
+"Off: ports link down"
+],
+[
+"Copper ports indicators Green",
+"On: ports link up"
+],
+[
+"Copper ports indicators Green",
+"Blinking: data on TX/RX"
+],
+[
+"Copper speed/PoE state indicators   Yellow",
+"Non-PoE series",
+"PoE series"
+],
+[
+"Copper speed/PoE state indicators   Yellow",
+"1000M models",
+"10/100M models",
+"Off: PoE not working"
+],
+[
+"Copper speed/PoE state indicators   Yellow",
+"Off: ports on 10/100M",
+"Off: ports on 10M",
+"Off: PoE not working"
+],
+[
+"Copper speed/PoE state indicators   Yellow",
+"On: ports on 1000M",
+"On: ports on 100M",
+"On: PoE working"
+],
+[
+"Fiber ports indicators Green",
+"Off: ports link down"
+],
+[
+"Fiber ports indicators Green",
+"On: ports link up"
+],
+[
+"Fiber ports indicators Green",
+"Blinking: data on TX/RX"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The definition of unmanaged industrial Ethernet switch DIP switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3.2.1 Unmanaged Industrial Ethernet Switch DIP Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3.2.1-1 Unmanaged fast industrial Ethernet switch"
+},
+{
+"t":"table",
+"rows":[
+[
+"Models Type",
+"DIP 1",
+"DIP 2",
+"DIP 3",
+"DIP 4"
+],
+[
+"Non-PoE",
+"Port isolation",
+"Flow control",
+"QoS(1-2 ports)",
+"Broadcast storm restrain"
+],
+[
+"PoE",
+"Port isolation",
+"250m long distance mode (10M)",
+"QoS(1-2 ports)",
+"PoE watchdog"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3.2.1-2 Unmanaged gigabit industrial Ethernet switch"
+},
+{
+"t":"table",
+"rows":[
+[
+"Models type",
+"Product models",
+"DIP 1",
+"DIP 2",
+"DIP 3",
+"DIP 4"
+],
+[
+"Non-PoE",
+"LT-IS3005G-1GX4GT / LT-IS3006G-2GX4GT / LT-IS6006G-2GX4GT",
+"Port isolation",
+"Flow control",
+"QoS (1-2 port)",
+"Broadcast storm restrain"
+],
+[
+"Non-PoE",
+"LT-IS3005G-5GT LT-IS6005G-5GT / LT-IS3008G-8GT LT-IS6008G-8GT",
+"Port isolation",
+"Flow control",
+"QoS (1-2 port)",
+"Broadcast storm restrain"
+],
+[
+"Non-PoE",
+"LT-IS3009G-1GX8GT / LT-IS6009G-1GX8GT / LT-IS3010G-2GX8GT / LT-IS6010G-2GX8GT",
+"Port isolation",
+"Flow control",
+"QoS (1-2 port)",
+"Broadcast storm restrain"
+],
+[
+"Non-PoE",
+"LT-IS6012G-4GX8GT",
+"Link aggregation",
+"Flow control",
+"QoS (1-2 port)",
+"Broadcast storm restrain"
+],
+[
+"Non-PoE",
+"LT-IS6016G-16GT",
+"Link aggregation",
+"Flow control",
+"QoS (1-2 port)",
+"Broadcast storm restrain"
+],
+[
+"Non-PoE",
+"LT-IS6018G-2GX16GT",
+"Link aggregation",
+"Flow control",
+"QoS (1-2 port)",
+"Broadcast storm restrain"
+],
+[
+"PoE",
+"LT-IS3005GP-1GX4GT / LT-IS3006GP-2GX4GT / LT-IS6006GP-2GX4GT",
+"Port isolation",
+"250m long distance （1-2 ports）",
+"QoS (1-2 port)",
+"PoE watchdog"
+],
+[
+"PoE",
+"LT-IS3005GP-5GT LT-IS6005GP-5GT",
+"Port isolation",
+"250m long distance （1-2 ports）",
+"QoS (1-2 port)",
+"PoE watchdog"
+],
+[
+"PoE",
+"LT-IS3008GP-8GT LT-IS6008GP-8GT",
+"Port isolation",
+"250m long distance（1-4 ports）",
+"QoS (1-2 port)",
+"PoE watchdog"
+],
+[
+"PoE",
+"LT-IS3009GP-1GX8GT LT-IS6009GP-1GX8GT / LT-IS3010GP-2GX8GT / LT-IS6010GP-2GX8GT",
+"Port isolation",
+"250m long distance（1-4 ports）",
+"QoS (1-2 port)",
+"PoE watchdog"
+],
+[
+"PoE",
+"LT-IS6012GP-4GX8GT",
+"Link aggregation",
+"250m long distance （1-4ports）",
+"QoS (1-2 port)",
+"PoE watchdog"
+],
+[
+"PoE",
+"LT-IS6016GP-16GT",
+"Link aggregation",
+"250m long distance （1-4ports）",
+"QoS (1-2 port)",
+"PoE watchdog"
+],
+[
+"PoE",
+"LT-IS6018G-2GX16GT",
+"Link aggregation",
+"250m long distance （1-4ports）",
+"QoS (1-2 port)",
+"PoE watchdog"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3.2.1-3 Unmanaged Industrial Media Converter"
+},
+{
+"t":"table",
+"rows":[
+[
+"",
+"Dip 1",
+"Dip 2",
+"Dip 3",
+"Dip 4"
+],
+[
+"LT-IMC30F-E",
+"LFP",
+"Flow control",
+"Broadcast storm restrain",
+"10Kbytes jumbo frame"
+],
+[
+"LT-IMC30F-1FX2TX-E",
+"Port isolation",
+"Flow control",
+"Broadcast storm restrain",
+"10Kbytes jumbo frame"
+],
+[
+"LT-IMC30F-2FX2TX-E",
+"Fiber redundant",
+"Flow control",
+"Broadcast storm restrain",
+"10Kbytes jumbo frame"
+],
+[
+"LT-IMC30G-E",
+"LFP",
+"Flow control",
+"Broadcast storm restrain",
+"100/1000M fiber port selection(ON=100M, OFF=1000M)"
+],
+[
+"LT-IMC30G-1GX2GT-E",
+"Port isolation",
+"Flow control",
+"Broadcast storm restrain",
+"100/1000M fiber port selection(ON=100M, OFF=1000M)"
+],
+[
+"LT-IMC30G-2GX2GT-E",
+"Fiber redundant",
+"Flow control",
+"Broadcast storm restrain",
+"100/1000M fiber port selection(ON=100/1000M adaptive, OFF=1000M)"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3.2.1-4 Unmanaged Industrial PoE Media Converter"
+},
+{
+"t":"table",
+"rows":[
+[
+"",
+"Dip 1",
+"Dip 2",
+"Dip 3",
+"Dip 4"
+],
+[
+"LT-IMC30FP-E",
+"LFP",
+"Flow control",
+"250m long distance",
+"PoE watchdog"
+],
+[
+"LT-IMC30FP-1FX2TX-E",
+"Port isolation",
+"Flow control",
+"250m long distance",
+"PoE watchdog"
+],
+[
+"LT-IMC30FP-2FX2TX-E",
+"Fiber redundant",
+"Flow control",
+"250m long distance",
+"PoE watchdog"
+],
+[
+"LT-IMC30GP-E",
+"LFP",
+"100/1000M fiber port selection(ON=100M, OFF=1000M)",
+"250m long distance(port 1)",
+"PoE watchdog"
+],
+[
+"LT-IMC30GP-1GX2GT-E",
+"Port isolation",
+"100/1000M fiber port selection(ON=100M, OFF=1000M)",
+"250m long distance(port 1)",
+"PoE watchdog"
+],
+[
+"LT-IMC30GP-2GX2GT-E",
+"Fiber redundant",
+"100/1000M fiber port selection(ON=100/1000M adaptive, OFF=1000M)",
+"250m long distance (port 1)",
+"PoE watchdog"
+]
+]
+}
+],
+"textboxes":[
+"Unmanaged Industrial",
+"Ethernet Switches",
+"Quick Installation Guide"
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":135834
+},
+{
+"name":"image10.png",
+"bytes":2167
+},
+{
+"name":"image11.png",
+"bytes":82004
+},
+{
+"name":"image2.png",
+"bytes":107
+},
+{
+"name":"image3.png",
+"bytes":263815
+},
+{
+"name":"image4.png",
+"bytes":307936
+},
+{
+"name":"image5.png",
+"bytes":1667
+},
+{
+"name":"image6.png",
+"bytes":2552
+},
+{
+"name":"image7.png",
+"bytes":71182
+},
+{
+"name":"image8.png",
+"bytes":87840
+},
+{
+"name":"image9.png",
+"bytes":232292
+}
+]
+}

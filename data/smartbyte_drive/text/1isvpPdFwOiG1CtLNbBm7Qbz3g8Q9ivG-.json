@@ -1,0 +1,393 @@
+{
+"id":"1isvpPdFwOiG1CtLNbBm7Qbz3g8Q9ivG-",
+"name":"LT-IS6016GP-8GX8GT   neutral datasheet.docx",
+"path":"SmartByte/暂时不用的/源图 源DS/千兆POE 源DS/LT-IS6016GP-8GX8GT   neutral datasheet.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":688208,
+"sha256":"4b280268a28bff9a70340db186ff73da2874880a246016c85a55a35a155a5231",
+"extracted_at":"2026-10-22T02:14:54Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":4329,
+"meta":{
+"title":"",
+"author":"雙燕飛",
+"last_modified_by":"peter hu",
+"created":"2021-12-06T02:50:00+00:00",
+"modified":"2023-12-18T11:35:51+00:00",
+"paragraphs":18,
+"tables":2,
+"embedded_images":3
+},
+"warnings":[],
+"text":"8*10/100/1000Base-T PoE + 8*1000Base-X SFP\nIndustrial PoE Switch\nLT-IS6016GP-8GX8GT\nFeatures:\n➢ 8*10/100/1000Base-T RJ45 PoE ports, 8*1000Base-X SFP slots\n➢ DC 44-57V input, redundant power supply with polarity reverse/over-voltage/over-current protection\n➢ Support one channel output relay alarm(terminal block Pin 5/6)\n➢ Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n➢ Support 10K Bytes Jumbo frame\n➢ Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n➢ IP40 fan-less and Din-rail hardware design\n➢ Operation temperature: -40 ℃ ~+75℃\nOverview\nThe SmartByte LT-IS6016GP-8GX8GT is the highly reliable industrial PoE switch with 8-port 10/100/1000-T PoE and 8-port 1000Base-X SFP slots. It complies with IEEE802.3af, IEEE802.3at standard PoE protocol, the Max power consumption can reach 30W (PoE+) per port.\nLT-IS6016GP-8GX8GT is a high cost-effective easy-to-use device, which provides essential industrial Ethernet networking function, including wide range power input 44-57VDC, redundant power design with polarity reverse/over-voltage/over-current protection, robust IP40 fan-less housing with Din-rail installation, wide operation temperature from -40°C to 75°C as well as high-level EMI/EMC capability. It is the best choice for heavy industrial factory, transportation, oil & gas, chemical, IP Surveillance and processing automation area where environmental conditions are harsh and crucial\nTechnical specification\nModel No.\tLT-IS6016GP-8GX8GT\nInterface\tFiber ports\tCopper RJ45 ports\nInterface\t8\t8\nEthernet\t8*10/100/1000Base-T PoE / 8*1000Base-X SFP\nAlarm port\tOne relay output for power failure. Alarm relay current carry ability: 1A@24VDC\nStandard\tIEEE 802.3 10Base-T Ethernet / IEEE 802.3u Fast Ethernet / IEEE 802.3ab Gigabit Ethernet / IEEE 802.3x Full-Duplex Flow Control / IEEE 802.3az Energy Efficient Ethernet / IEEE 802.3af Power-Over-Ethernet / IEEE 802.3at Power Over Ethernet plus PSE\nLED Indicators\nP(Power indicator)\tOff: the device is power off or failed\nP(Power indicator)\tOn: the device power on is normal\nS(System status indicator)\tBlinking: device initialization\nS(System status indicator)\tOn: device on normal operation\n1-8 (Copper ports)\tGreen indicators\tYellow indicators\n1-8 (Copper ports)\tOff: ports link down\tOff: PoE not working\n1-8 (Copper ports)\tOn: ports link up\tOn: PoE working\n1-8 (Copper ports)\tBlinking: data on TX/RX\t\n9-16 (Fiber ports) Green\tOff: ports link down\n9-16 (Fiber ports) Green\tOn: ports link up\n9-16 (Fiber ports) Green\tBlinking: data on TX/RX\nPower parameters\nInput voltage\t44-57VDC, redundant power input\nInput current\t5.8A Max\nTotal power consumption\tFull loading without PoE ≤18W / PoE power budget ≤ 240w\nConnector\tRemovable 6-pin terminal block, Pin 5-6 for relay alarm\nReverse polarity protection\tSupport\nOver-voltage protection\tSupport\nOver-current protection\tSupport\nSwitching features\nSwitching capacity\t44Gbps\nPacket forwarding rate\t65.4Mpps\nMAC address table\t16K\nVLAN\t4K\nBuffer\t12M bit\nForwarding delay\t<5us\nJumbo Frame\tSupport 10Kbytes\nMDX/MIDX\tSupport\nWatchdog\tSupport\nNetwork Topology\nStar topology\tSupport\nBus topology\tSupport\nTree Topology\tSupport\nMechanical structure\nCase protection\tIP40\nInstallation method\tDin-rail\nDimension(W*D*H)mm\t54*115*158mm\nWeight\t1.40 kg\nOperating environment\nOperating temperature\t-40℃~+75℃\nStorage/transportation temperature\t-40℃~+85℃\nRelative humidity\t5%~95%（non-condensing）\nIndustry standard\tEMI：FCC Part 15B Class A\nIndustry standard\tSurge protection of power: IEC 61000-4-5  6KV/4KV（8/20us）\nIndustry standard\tSurge protection of Ethernet ports：IEC 61000-4-5  6KV/2KV（10/700us）\nIndustry standard\tRS: IEC 61000-4-3 80 MHz-1 GHz：10 V/m\nIndustry standard\tEFT: IEC 61000-4-4  power interface: 4K；Ethernet ports: 2K\nIndustry standard\tCS: IEC 61000-4-6 10V\nIndustry standard\tESD: IEC 61000-4-2  Level 4（8K/15K）\nIndustry standard\tShock: IEC 60068-2-27\nIndustry standard\tFree fall: IEC 60068-2-32\nIndustry standard\tVibration: IEC 60068-2-6\nCertification\tCCC/CE/FCC/RoHS\nWarranty\t5 years\nStructure diagram\nOrder information\nModel\tDescription\nLT-IS6016GP-8GX8GT\tIndustrial PoE switch with 8*10/100/1000Base-T RJ45 PoE ports and 8*1000Base-X SFP slots, complies with IEEE802.3af, IEEE802.3at standard, DC44-57V input, redundant dual power supply, Din-rail installation. Operation temperature: -40℃～+75℃",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"8*10/100/1000Base-T PoE + 8*1000Base-X SFP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Industrial PoE Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LT-IS6016GP-8GX8GT"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Features:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ 8*10/100/1000Base-T RJ45 PoE ports, 8*1000Base-X SFP slots"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ DC 44-57V input, redundant power supply with polarity reverse/over-voltage/over-current protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Support one channel output relay alarm(terminal block Pin 5/6)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Support 10K Bytes Jumbo frame"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ IP40 fan-less and Din-rail hardware design"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Operation temperature: -40 ℃ ~+75℃"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Overview"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The SmartByte LT-IS6016GP-8GX8GT is the highly reliable industrial PoE switch with 8-port 10/100/1000-T PoE and 8-port 1000Base-X SFP slots. It complies with IEEE802.3af, IEEE802.3at standard PoE protocol, the Max power consumption can reach 30W (PoE+) per port."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LT-IS6016GP-8GX8GT is a high cost-effective easy-to-use device, which provides essential industrial Ethernet networking function, including wide range power input 44-57VDC, redundant power design with polarity reverse/over-voltage/over-current protection, robust IP40 fan-less housing with Din-rail installation, wide operation temperature from -40°C to 75°C as well as high-level EMI/EMC capability. It is the best choice for heavy industrial factory, transportation, oil & gas, chemical, IP Surveillance and processing automation area where environmental conditions are harsh and crucial"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Technical specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model No.",
+"LT-IS6016GP-8GX8GT"
+],
+[
+"Interface",
+"Fiber ports",
+"Copper RJ45 ports"
+],
+[
+"Interface",
+"8",
+"8"
+],
+[
+"Ethernet",
+"8*10/100/1000Base-T PoE / 8*1000Base-X SFP"
+],
+[
+"Alarm port",
+"One relay output for power failure. Alarm relay current carry ability: 1A@24VDC"
+],
+[
+"Standard",
+"IEEE 802.3 10Base-T Ethernet / IEEE 802.3u Fast Ethernet / IEEE 802.3ab Gigabit Ethernet / IEEE 802.3x Full-Duplex Flow Control / IEEE 802.3az Energy Efficient Ethernet / IEEE 802.3af Power-Over-Ethernet / IEEE 802.3at Power Over Ethernet plus PSE"
+],
+[
+"LED Indicators"
+],
+[
+"P(Power indicator)",
+"Off: the device is power off or failed"
+],
+[
+"P(Power indicator)",
+"On: the device power on is normal"
+],
+[
+"S(System status indicator)",
+"Blinking: device initialization"
+],
+[
+"S(System status indicator)",
+"On: device on normal operation"
+],
+[
+"1-8 (Copper ports)",
+"Green indicators",
+"Yellow indicators"
+],
+[
+"1-8 (Copper ports)",
+"Off: ports link down",
+"Off: PoE not working"
+],
+[
+"1-8 (Copper ports)",
+"On: ports link up",
+"On: PoE working"
+],
+[
+"1-8 (Copper ports)",
+"Blinking: data on TX/RX",
+""
+],
+[
+"9-16 (Fiber ports) Green",
+"Off: ports link down"
+],
+[
+"9-16 (Fiber ports) Green",
+"On: ports link up"
+],
+[
+"9-16 (Fiber ports) Green",
+"Blinking: data on TX/RX"
+],
+[
+"Power parameters"
+],
+[
+"Input voltage",
+"44-57VDC, redundant power input"
+],
+[
+"Input current",
+"5.8A Max"
+],
+[
+"Total power consumption",
+"Full loading without PoE ≤18W / PoE power budget ≤ 240w"
+],
+[
+"Connector",
+"Removable 6-pin terminal block, Pin 5-6 for relay alarm"
+],
+[
+"Reverse polarity protection",
+"Support"
+],
+[
+"Over-voltage protection",
+"Support"
+],
+[
+"Over-current protection",
+"Support"
+],
+[
+"Switching features"
+],
+[
+"Switching capacity",
+"44Gbps"
+],
+[
+"Packet forwarding rate",
+"65.4Mpps"
+],
+[
+"MAC address table",
+"16K"
+],
+[
+"VLAN",
+"4K"
+],
+[
+"Buffer",
+"12M bit"
+],
+[
+"Forwarding delay",
+"<5us"
+],
+[
+"Jumbo Frame",
+"Support 10Kbytes"
+],
+[
+"MDX/MIDX",
+"Support"
+],
+[
+"Watchdog",
+"Support"
+],
+[
+"Network Topology"
+],
+[
+"Star topology",
+"Support"
+],
+[
+"Bus topology",
+"Support"
+],
+[
+"Tree Topology",
+"Support"
+],
+[
+"Mechanical structure"
+],
+[
+"Case protection",
+"IP40"
+],
+[
+"Installation method",
+"Din-rail"
+],
+[
+"Dimension(W*D*H)mm",
+"54*115*158mm"
+],
+[
+"Weight",
+"1.40 kg"
+],
+[
+"Operating environment"
+],
+[
+"Operating temperature",
+"-40℃~+75℃"
+],
+[
+"Storage/transportation temperature",
+"-40℃~+85℃"
+],
+[
+"Relative humidity",
+"5%~95%（non-condensing）"
+],
+[
+"Industry standard",
+"EMI：FCC Part 15B Class A"
+],
+[
+"Industry standard",
+"Surge protection of power: IEC 61000-4-5  6KV/4KV（8/20us）"
+],
+[
+"Industry standard",
+"Surge protection of Ethernet ports：IEC 61000-4-5  6KV/2KV（10/700us）"
+],
+[
+"Industry standard",
+"RS: IEC 61000-4-3 80 MHz-1 GHz：10 V/m"
+],
+[
+"Industry standard",
+"EFT: IEC 61000-4-4  power interface: 4K；Ethernet ports: 2K"
+],
+[
+"Industry standard",
+"CS: IEC 61000-4-6 10V"
+],
+[
+"Industry standard",
+"ESD: IEC 61000-4-2  Level 4（8K/15K）"
+],
+[
+"Industry standard",
+"Shock: IEC 60068-2-27"
+],
+[
+"Industry standard",
+"Free fall: IEC 60068-2-32"
+],
+[
+"Industry standard",
+"Vibration: IEC 60068-2-6"
+],
+[
+"Certification",
+"CCC/CE/FCC/RoHS"
+],
+[
+"Warranty",
+"5 years"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Structure diagram"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Order information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"Description"
+],
+[
+"LT-IS6016GP-8GX8GT",
+"Industrial PoE switch with 8*10/100/1000Base-T RJ45 PoE ports and 8*1000Base-X SFP slots, complies with IEEE802.3af, IEEE802.3at standard, DC44-57V input, redundant dual power supply, Din-rail installation. Operation temperature: -40℃～+75℃"
+]
+]
+}
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":612236
+},
+{
+"name":"image2.png",
+"bytes":50225
+}
+]
+}

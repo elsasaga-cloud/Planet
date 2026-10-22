@@ -1,0 +1,512 @@
+{
+"id":"1wHJosV_nwPUI0RflKDCB8Ray_SPnck3u",
+"name":"LT-S8310G-2GX8GT neutral datasheet.docx",
+"path":"SmartByte/暂时不用的/商业级管理 源DS/LT-S8310G-2GX8GT neutral datasheet.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":360090,
+"sha256":"b615bdc607ec382f7496063da936b98f446583fbca49e12094e1e660a715e322",
+"extracted_at":"2026-10-22T02:14:40Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":7457,
+"meta":{
+"title":"",
+"author":"AChenk-King",
+"last_modified_by":"欧阳灿",
+"created":"2021-03-19T02:57:00+00:00",
+"modified":"2024-05-17T01:23:08+00:00",
+"paragraphs":21,
+"tables":2,
+"embedded_images":3
+},
+"warnings":[],
+"text":"8*10/100/1000Base-T + 2*1G/2.5G SFP\nLayer 2+ Managed Ethernet Switch\nLT-S8310G-2GX8GT\nOverview\nSmartByte LT-S8310G-2GX8GT is a Layer 2+ full gigabit managed switch, which features 8-port 10/100/1000Base-T RJ45 and 2*1G/2.5G SFP ports. It supports Layer 3 static routing with a high-performance switching architecture and offers wire-speed transportation capability for delivering a cost effective Gigabit Ethernet solution to meet the converged applications for enterprise customer's networks.  More and more corporations are adapting new IT technologies over the network such as voice over IP, video conference to improve productivity and save operation expenditure. The  LT-S8310G-2GX8GT series provide comprehensive end to end QoS as well as flexible and rich management , security settings, which can meet the high speed, secure and smart requirement for small and medium-size enterprise networks based on cost effective price. .\nPicture\nFeatures\n➢ 2*1G/2.5G SFP slots uplink, 8 *10/100/1000BASE-T ports downlink, 1*RJ45 console interface for switch basic management and setup\n➢  Port aggregation: Supports GE ports, 2.5GE port aggregation, static and dynamic aggregation\n➢  VLAN : Supports access, truck , hybrid mode and VLAN classification, including the Mac based VLAN, IP based VLAN and protocol based VLAN\n➢  QinQ: Supports port-based, VLAN-based and flow-based QinQ\n➢  Port Mirroring: Many to one port mirroring\n➢  Layer 2 ring network protocol: Supports STP, RSTP, MSTP, G.8032 ERPS protocol, single ring, sub ring\n➢  Multicast:IGMP snooping\n➢  QoS: QoS class, remarking, Supports SP, WRR queue scheduling, Ingress/Engress port-based rate-limit and policy-based QoS\n➢  Security: Support Dot1x，port authentication，mac authentication，RADIUS service; Support port-security, ip source guard，IP/Port/MAC binding, arp-check and ARP packet filtering for illegal users and port isolation\n➢  Management : Supports LLDP, user management and login authentication; SNMPV1/V2C/V3; web management，HTTP1.1，HTTPS; Syslog and alarm grading ; RMON （Remote Monitoring）alarm, event and history record; NTP, temperature monitoring; Ping、Tracert and optical transceiver DDM function; Supports TFTP Client, Telnet Server, SSH Server and IPv6 Management\n➢  Firmware update, configure backup/restore through Web GUI, FTP and TFTP\nTechnical specification\nModel No.\tLT-S8310G-2GX8GT\nInterface\tFiber ports\tCopper RJ45 ports\nInterface\t2\t8\nEthernet\t8*10/100/1000Base-T RJ45 / 2*1000/2500Base-X SFP\nManagement port\t1*RJ45 Console port (115200,8,N,1)\nStandard\tIEEE 802.3 10Base-T Ethernet / IEEE 802.3u 100Base-TX Ethernet / IEEE 802.3ab 1000Base-T Ethernet / IEEE 802.3z 1000Base-X Ethernet / IEEE802.3x Flow Control and Back Pressure / IEEE 802.1D Spanning Tree Protocol / IEEE 802.1w Rapid Spanning Tree Protocol / IEEE 802.1Q VLAN / ITU-T G.8032 ERPS / IEEE 802.1X Port Authentication Network Control / IEEE 802.1ab LLDP / IEEE 802.3ad LACP\nLED Indicators\nP (Power indicator)\tOff: the device is power off or failed\tOn: the device power on is normal\nS (System status indicator)\tBlinking: device initialization\tOn: device on normal operation\n1-8 (Copper ports indicators) Green\tOff: ports link down\n1-8 (Copper ports indicators) Green\tOn: ports link up\n1-8 (Copper ports indicators) Green\tBlinking: data on TX/RX\n1-8 (Copper speed indicators)  Yellow\tOff: ports on 10/100M\n1-8 (Copper speed indicators)  Yellow\tOn: ports on 1000M\n9-10 (Fiber ports indicators) Green\tOff: ports link down\n9-10 (Fiber ports indicators) Green\tOn: ports link up\n9-10 (Fiber ports indicators) Green\tBlinking: data on TX/RX\nPower parameter\nInput voltage\tDC input 5-16V\nTotal power consumption\tFull loading ≤10W\nOver-current protection\tSupport\nLayer 2 functions\nPort aggregation\tSupport GE port aggregation / Support 2.5GE aggregation / Support static aggregation / Support LACP dynamic aggregation / Up to 64 aggregation groups and up to 8 ports per group\nPort features\tSupport IEEE802.3x flow control / Support interface counters / Support port isolation / Port mirroring ( One-to-One, Many-to-One) / Support loop detection(Port-based; VLAN-based) / Support broadcast storm suppression(broadcast; unknown multicast; unknown unicast)\nMac-address table management\tSupport static Mac-address management / Support dynamic Mac-address Management / Support filtering Mac-address / Support MAC limit based on port and VLAN / Support MAC flapping based on port and VLAN\nVLAN\tSupport access mode / Support trunk mode / Support hybrid mode\nVLAN classification\tMac Based VLAN / IP Based VLAN / Protocol Based VLAN\nGVRP\tNormal mode / Fixed mode / Forbidden mode\nQinQ\tPort-based QinQ / VLAN-based QinQ (VLAN-stacking; VLAN-mapping) / Flow-based QinQ\nLLDP\tLLDP (Link Layer Discovery Protocol)\nRing network protocol\tSupport IEEE802.1D-STP / Support IEEE802.1W-RSTP / Support IEEE802.1S-MSTP\nRing network protocol\tSupport G.8032 ERPS protocol，single ring, sub Ring and major ring / Recovery time ≤20ms\nL2 Multicast\nIGMP snooping\tSupport IGMP snooping\nGroup address\tSupport group address\nSecurity functions\nACL\tIP Standard ACL / MAC extend ACL / IP extend ACL / IPv6 ACL\nQoS\tSupport QoS Class, remarking / Support SP, WRR queue scheduling / Ingress port-based rate-limit / Egress port-based rate-limit / Support policy-based QoS\n802.1x\tPort access control / Mac-address access control / RADIUS server\nPort-security\tPort-security\nIP source guard\tIP Port/MAC binding\nARP-check\tSupport ARP-check and ARP packet filtering for illegal users\nAccess control\tSupport Telnet/SSH/HTTP/HTTPS user access control\nManagement & Maintenance functions\nUser Management\tSupport password protection / Support user authorization management\nSNMP\tSupporting SNMP V1/V2C/V3 version\nWeb Management\tWeb Management / Support HTTP V1.1 / Support HTTPS\nCLI management\tConsole/Telnet command line management\nRMON\tSupport RMON(Remote Monitoring) alarm\nFirmware upgrade\tFirmware upgrade\nFault Detection\tPing/Tracerout / Dying gasp / Support optical transceiver DDM function\nCable detection\tSupport copper port cable detection\nNTP\tNetwork Time Protocol\nSyslog/Debug\tSyslog/Debug / Syslog send to three servers\nConfiguration import/export\tSupport FTP/TFTP remote import/export\nDual partition management\tSupport dual partition switching\nApplication Protocol Functions\nDHCP Snooping\tDHCP snooping trust port / Support remote-id/circuit-id configuration / DHCP option-82\nDHCP client\tSupport DHCP client\nTelnet server\tSupport telnet server\nTelnet client\tSupport telnet client\nSSH server\tSupport SSH server\nTACACS\tSupport TACACS(the terminal access controller accesses the control system)\nsflow\tSupport network traffic analysis\nTFTP\tSupport TFTP Client\nLayer 3 functions\nARP\tARP table aging\nDHCP server\nIPv4 / IPv6\tstatic routing\nSwitching features\nSwitching capacity\t26Gbps\nPacket forwarding rate\t38.6Mpps\nMAC address table\t16K\nVLAN\t4K\nBuffer\t12Mbit\nForwarding delay\t<5us\nJumbo Frame\tSupport 10Kbytes\nMDX/MIDX\tSupport\nWatchdog\tSupport\nMechanical structure\nInstallation method\tDesktop; Rack-mount optional\nDimension(W*D*H)mm\t152*115*44mm\nWeight\t0.66kg\nOperating environment\nOperating temperature\t0℃~+50℃\nStorage/transportation temperature\t-10℃~+70℃\nRelative humidity\tOperation humidity: 10%-90%RH / Storage humidity: 5%-95%RH\nCertification\tCCC/CE/UKCA/RoHS/REACH/FCC\nMTBF\t＞100,000 hours\nStructure diagram\nOrder information\nModel\tDescription\nLT-S8310G-2GX8GT\tLayer 2+ managed Ethernet switch with 2*1G/2.5G SFP slots + 8*10/100/1000M RJ45 ports，DC 5-16V",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"8*10/100/1000Base-T + 2*1G/2.5G SFP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Layer 2+ Managed Ethernet Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LT-S8310G-2GX8GT"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Overview"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SmartByte LT-S8310G-2GX8GT is a Layer 2+ full gigabit managed switch, which features 8-port 10/100/1000Base-T RJ45 and 2*1G/2.5G SFP ports. It supports Layer 3 static routing with a high-performance switching architecture and offers wire-speed transportation capability for delivering a cost effective Gigabit Ethernet solution to meet the converged applications for enterprise customer's networks.  More and more corporations are adapting new IT technologies over the network such as voice over IP, video conference to improve productivity and save operation expenditure. The  LT-S8310G-2GX8GT series provide comprehensive end to end QoS as well as flexible and rich management , security settings, which can meet the high speed, secure and smart requirement for small and medium-size enterprise networks based on cost effective price. ."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Picture"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ 2*1G/2.5G SFP slots uplink, 8 *10/100/1000BASE-T ports downlink, 1*RJ45 console interface for switch basic management and setup"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  Port aggregation: Supports GE ports, 2.5GE port aggregation, static and dynamic aggregation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  VLAN : Supports access, truck , hybrid mode and VLAN classification, including the Mac based VLAN, IP based VLAN and protocol based VLAN"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  QinQ: Supports port-based, VLAN-based and flow-based QinQ"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  Port Mirroring: Many to one port mirroring"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  Layer 2 ring network protocol: Supports STP, RSTP, MSTP, G.8032 ERPS protocol, single ring, sub ring"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  Multicast:IGMP snooping"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  QoS: QoS class, remarking, Supports SP, WRR queue scheduling, Ingress/Engress port-based rate-limit and policy-based QoS"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  Security: Support Dot1x，port authentication，mac authentication，RADIUS service; Support port-security, ip source guard，IP/Port/MAC binding, arp-check and ARP packet filtering for illegal users and port isolation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  Management : Supports LLDP, user management and login authentication; SNMPV1/V2C/V3; web management，HTTP1.1，HTTPS; Syslog and alarm grading ; RMON （Remote Monitoring）alarm, event and history record; NTP, temperature monitoring; Ping、Tracert and optical transceiver DDM function; Supports TFTP Client, Telnet Server, SSH Server and IPv6 Management"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  Firmware update, configure backup/restore through Web GUI, FTP and TFTP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Technical specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model No.",
+"LT-S8310G-2GX8GT"
+],
+[
+"Interface",
+"Fiber ports",
+"Copper RJ45 ports"
+],
+[
+"Interface",
+"2",
+"8"
+],
+[
+"Ethernet",
+"8*10/100/1000Base-T RJ45 / 2*1000/2500Base-X SFP"
+],
+[
+"Management port",
+"1*RJ45 Console port (115200,8,N,1)"
+],
+[
+"Standard",
+"IEEE 802.3 10Base-T Ethernet / IEEE 802.3u 100Base-TX Ethernet / IEEE 802.3ab 1000Base-T Ethernet / IEEE 802.3z 1000Base-X Ethernet / IEEE802.3x Flow Control and Back Pressure / IEEE 802.1D Spanning Tree Protocol / IEEE 802.1w Rapid Spanning Tree Protocol / IEEE 802.1Q VLAN / ITU-T G.8032 ERPS / IEEE 802.1X Port Authentication Network Control / IEEE 802.1ab LLDP / IEEE 802.3ad LACP"
+],
+[
+"LED Indicators"
+],
+[
+"P (Power indicator)",
+"Off: the device is power off or failed",
+"On: the device power on is normal"
+],
+[
+"S (System status indicator)",
+"Blinking: device initialization",
+"On: device on normal operation"
+],
+[
+"1-8 (Copper ports indicators) Green",
+"Off: ports link down"
+],
+[
+"1-8 (Copper ports indicators) Green",
+"On: ports link up"
+],
+[
+"1-8 (Copper ports indicators) Green",
+"Blinking: data on TX/RX"
+],
+[
+"1-8 (Copper speed indicators)  Yellow",
+"Off: ports on 10/100M"
+],
+[
+"1-8 (Copper speed indicators)  Yellow",
+"On: ports on 1000M"
+],
+[
+"9-10 (Fiber ports indicators) Green",
+"Off: ports link down"
+],
+[
+"9-10 (Fiber ports indicators) Green",
+"On: ports link up"
+],
+[
+"9-10 (Fiber ports indicators) Green",
+"Blinking: data on TX/RX"
+],
+[
+"Power parameter"
+],
+[
+"Input voltage",
+"DC input 5-16V"
+],
+[
+"Total power consumption",
+"Full loading ≤10W"
+],
+[
+"Over-current protection",
+"Support"
+],
+[
+"Layer 2 functions"
+],
+[
+"Port aggregation",
+"Support GE port aggregation / Support 2.5GE aggregation / Support static aggregation / Support LACP dynamic aggregation / Up to 64 aggregation groups and up to 8 ports per group"
+],
+[
+"Port features",
+"Support IEEE802.3x flow control / Support interface counters / Support port isolation / Port mirroring ( One-to-One, Many-to-One) / Support loop detection(Port-based; VLAN-based) / Support broadcast storm suppression(broadcast; unknown multicast; unknown unicast)"
+],
+[
+"Mac-address table management",
+"Support static Mac-address management / Support dynamic Mac-address Management / Support filtering Mac-address / Support MAC limit based on port and VLAN / Support MAC flapping based on port and VLAN"
+],
+[
+"VLAN",
+"Support access mode / Support trunk mode / Support hybrid mode"
+],
+[
+"VLAN classification",
+"Mac Based VLAN / IP Based VLAN / Protocol Based VLAN"
+],
+[
+"GVRP",
+"Normal mode / Fixed mode / Forbidden mode"
+],
+[
+"QinQ",
+"Port-based QinQ / VLAN-based QinQ (VLAN-stacking; VLAN-mapping) / Flow-based QinQ"
+],
+[
+"LLDP",
+"LLDP (Link Layer Discovery Protocol)"
+],
+[
+"Ring network protocol",
+"Support IEEE802.1D-STP / Support IEEE802.1W-RSTP / Support IEEE802.1S-MSTP"
+],
+[
+"Ring network protocol",
+"Support G.8032 ERPS protocol，single ring, sub Ring and major ring / Recovery time ≤20ms"
+],
+[
+"L2 Multicast"
+],
+[
+"IGMP snooping",
+"Support IGMP snooping"
+],
+[
+"Group address",
+"Support group address"
+],
+[
+"Security functions"
+],
+[
+"ACL",
+"IP Standard ACL / MAC extend ACL / IP extend ACL / IPv6 ACL"
+],
+[
+"QoS",
+"Support QoS Class, remarking / Support SP, WRR queue scheduling / Ingress port-based rate-limit / Egress port-based rate-limit / Support policy-based QoS"
+],
+[
+"802.1x",
+"Port access control / Mac-address access control / RADIUS server"
+],
+[
+"Port-security",
+"Port-security"
+],
+[
+"IP source guard",
+"IP Port/MAC binding"
+],
+[
+"ARP-check",
+"Support ARP-check and ARP packet filtering for illegal users"
+],
+[
+"Access control",
+"Support Telnet/SSH/HTTP/HTTPS user access control"
+],
+[
+"Management & Maintenance functions"
+],
+[
+"User Management",
+"Support password protection / Support user authorization management"
+],
+[
+"SNMP",
+"Supporting SNMP V1/V2C/V3 version"
+],
+[
+"Web Management",
+"Web Management / Support HTTP V1.1 / Support HTTPS"
+],
+[
+"CLI management",
+"Console/Telnet command line management"
+],
+[
+"RMON",
+"Support RMON(Remote Monitoring) alarm"
+],
+[
+"Firmware upgrade",
+"Firmware upgrade"
+],
+[
+"Fault Detection",
+"Ping/Tracerout / Dying gasp / Support optical transceiver DDM function"
+],
+[
+"Cable detection",
+"Support copper port cable detection"
+],
+[
+"NTP",
+"Network Time Protocol"
+],
+[
+"Syslog/Debug",
+"Syslog/Debug / Syslog send to three servers"
+],
+[
+"Configuration import/export",
+"Support FTP/TFTP remote import/export"
+],
+[
+"Dual partition management",
+"Support dual partition switching"
+],
+[
+"Application Protocol Functions"
+],
+[
+"DHCP Snooping",
+"DHCP snooping trust port / Support remote-id/circuit-id configuration / DHCP option-82"
+],
+[
+"DHCP client",
+"Support DHCP client"
+],
+[
+"Telnet server",
+"Support telnet server"
+],
+[
+"Telnet client",
+"Support telnet client"
+],
+[
+"SSH server",
+"Support SSH server"
+],
+[
+"TACACS",
+"Support TACACS(the terminal access controller accesses the control system)"
+],
+[
+"sflow",
+"Support network traffic analysis"
+],
+[
+"TFTP",
+"Support TFTP Client"
+],
+[
+"Layer 3 functions"
+],
+[
+"ARP",
+"ARP table aging"
+],
+[
+"DHCP server"
+],
+[
+"IPv4 / IPv6",
+"static routing"
+],
+[
+"Switching features"
+],
+[
+"Switching capacity",
+"26Gbps"
+],
+[
+"Packet forwarding rate",
+"38.6Mpps"
+],
+[
+"MAC address table",
+"16K"
+],
+[
+"VLAN",
+"4K"
+],
+[
+"Buffer",
+"12Mbit"
+],
+[
+"Forwarding delay",
+"<5us"
+],
+[
+"Jumbo Frame",
+"Support 10Kbytes"
+],
+[
+"MDX/MIDX",
+"Support"
+],
+[
+"Watchdog",
+"Support"
+],
+[
+"Mechanical structure"
+],
+[
+"Installation method",
+"Desktop; Rack-mount optional"
+],
+[
+"Dimension(W*D*H)mm",
+"152*115*44mm"
+],
+[
+"Weight",
+"0.66kg"
+],
+[
+"Operating environment"
+],
+[
+"Operating temperature",
+"0℃~+50℃"
+],
+[
+"Storage/transportation temperature",
+"-10℃~+70℃"
+],
+[
+"Relative humidity",
+"Operation humidity: 10%-90%RH / Storage humidity: 5%-95%RH"
+],
+[
+"Certification",
+"CCC/CE/UKCA/RoHS/REACH/FCC"
+],
+[
+"MTBF",
+"＞100,000 hours"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Structure diagram"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Order information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"Description"
+],
+[
+"LT-S8310G-2GX8GT",
+"Layer 2+ managed Ethernet switch with 2*1G/2.5G SFP slots + 8*10/100/1000M RJ45 ports，DC 5-16V"
+]
+]
+}
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":299128
+},
+{
+"name":"image2.png",
+"bytes":32981
+}
+]
+}

@@ -1,0 +1,22 @@
+{
+"id":"1zdbusk-AMNAUMLyHRaixdLNsptIocDsQ",
+"name":"8+2 尺寸图.png",
+"path":"SmartByte/暂时不用的/商业级管理 源图/2光+8电/8+2 尺寸图.png",
+"type":"图片",
+"bytes":148469,
+"sha256":"484b28c6bdd8acdde4dda38bfe7a8b3a2dc977a5d369340b207c1bd24a26a60e",
+"extracted_at":"2026-10-22T02:15:37Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5350,
+"height":1517,
+"mode":"RGB",
+"thumb_bytes":2409
+},
+"ocr":{
+"text":"二 二 一 T\nForo 戰局 品\nE\n7 Console E\n5 se =\nae pe fe 號 | 7 [還 人 ©\nage as ve ab ve a v8 5 四 |\n2\n和 ®|\n— 44mm—_\n/— 44mm—_\n| | 152mm\n152mm",
+"conf":52.1
+},
+"text":"二 二 一 T\nForo 戰局 品\nE\n7 Console E\n5 se =\nae pe fe 號 | 7 [還 人 ©\nage as ve ab ve a v8 5 四 |\n2\n和 ®|\n— 44mm—_\n/— 44mm—_\n| | 152mm\n152mm"
+}

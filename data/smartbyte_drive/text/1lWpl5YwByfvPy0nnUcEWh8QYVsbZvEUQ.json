@@ -1,0 +1,400 @@
+{
+"id":"1lWpl5YwByfvPy0nnUcEWh8QYVsbZvEUQ",
+"name":"LT-IMC30GP-2GX2GT neutral datasheet.docx",
+"path":"SmartByte/暂时不用的/源图 源DS/2光2电/LT-IMC30GP-2GX2GT neutral datasheet.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":471292,
+"sha256":"fdee681698af7bfa1531767dd3d777700d1fdf808d5e98ea5bdc6e6f286f9cb4",
+"extracted_at":"2026-10-22T02:14:50Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":4927,
+"meta":{
+"title":"",
+"author":"雙燕飛",
+"last_modified_by":"peter hu",
+"created":"2021-12-06T02:50:00+00:00",
+"modified":"2023-05-09T06:24:54+00:00",
+"paragraphs":20,
+"tables":2,
+"embedded_images":3
+},
+"warnings":[],
+"text":"2*10/100/1000Base-T PoE to 2*100/1000Base-X\nCompact Industrial PoE Media Converter\nLT-IMC30GP-2GX2GT-E\nFeatures:\n➢ 2*10/100/1000Base-T RJ45 PoE ports, 2*100/1000Base-X SFP ports\n➢ DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n➢ Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n➢  Powerful Dip switch function:\n1.Fiber redundant;      2. Fiber ports 100/1000M selection;\n3.250m long distance;    4. PoE watchdog\n➢ Support 10K Bytes Jumbo frame and 1M large buffer\n➢ Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n➢ IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n➢  Operation temperature: -40 ℃ ~+75℃\nOverview\nThe SmartByte LT-IMC30GP-2GX2GT-E is the unmanaged industrial grade PoE media converter with 2-port 10/100/1000-T PoE and 2-port 100/1000Base-X fiber optical interfaces. It complies with IEEE802.3af, IEEE802.3at standard PoE protocol, the Max power consumption can reach 30W (PoE+) per port. Moreover, it is featuring with fiber redundant, fiber ports 100/1000M selection, 250m long distance transmission mode and PoE watchdog function, which all can be configured by the Dip switch on the top panel.\nLT-IS3004GP-2GX2GT-E is also a high cost-effective easy-to-use device, which provides essential industrial Ethernet networking function, such as wide range power input 44-57VDC, redundant power design with polarity reverse/over-voltage protection, robust IP40 fan-less compact housing with Din-rail installation, wide operation temperature from -40°C to 75°C as well as high-level EMI/EMC capability and so on. It is the best choice for heavy industrial factory, transportation, oil & gas, chemical, IP Surveillance and processing automation area where environmental conditions exceed commercial product specifications\nTechnical specification\nModel No.\tLT-IMC30GP-2GX2GT-E\nInterface\tFiber ports\tCopper RJ45 ports\nInterface\t2\t2\nEthernet\t2*10/100/1000Base-T PoE / 2*100/1000Base-X SFP\nStandard\tIEEE 802.3 10Base-T Ethernet / IEEE 802.3u Fast Ethernet / IEEE 802.3ab Gigabit Ethernet / IEEE 802.3x Full-Duplex Flow Control / IEEE 802.3az Energy Efficient Ethernet / IEEE 802.3af Power-Over-Ethernet / IEEE 802.3at Power Over Ethernet plus PSE\nDip Switch\tFiber redundant / Fiber port 100/1000M selection / 250m long distance mode(1-2 ports) / PoE watchdog\nLED Indicators\tP(Power indicator) Green\tOff: the device is power off or failed\nLED Indicators\tP(Power indicator) Green\tOn: the device power on is normal\nLED Indicators\tS(PoE usage indicator) Red\tOff: total PoE usage ＜rated 50%\nLED Indicators\tS(PoE usage indicator) Red\tBlinking: rated 50%＜total PoE usage＜rated 90%\nLED Indicators\tS(PoE usage indicator) Red\tOn: total PoE usage≥rated 90%\nLED Indicators\t1-2(Copper ports)\tGreen indicators\tYellow indicators\nLED Indicators\t1-2(Copper ports)\tOff: ports link down\tOff: PoE not working\nLED Indicators\t1-2(Copper ports)\tOn: ports link up\tOn: PoE working\nLED Indicators\t1-2(Copper ports)\tBlinking: data on TX/RX\tOn: PoE working\nLED Indicators\t3-4 ( Fiber ports) Green\tOff: ports link down\nLED Indicators\t3-4 ( Fiber ports) Green\tOn: ports link up\nLED Indicators\t3-4 ( Fiber ports) Green\tBlinking: data on TX/RX\nPower parameters\nInput voltage\t44-57VDC, redundant power input\nInput current\t1.5A Max\nTotal power consumption\tFull loading without PoE ≤ 3W / PoE power budget ≤60W\nConnector\tRemovable 4-pin terminal block\nReverse polarity protection\tSupport\nOver-voltage protection\tSupport\nSwitching features\nSwitching capacity\t8G\nPacket forwarding rate\t11.9 Mpps\nMAC address table\t8K\nVLAN\t4K\nBuffer\t1M\nForwarding delay\t<5us\nJumbo Frame\tSupport 10Kbytes\nMDX/MIDX\tSupport\nWatchdog\tSupport\nNetwork Topology\nStar topology\tSupport\nBus topology\tSupport\nTree Topology\tSupport\nMechanical structure\nCase protection\tIP40\nInstallation method\tDin-rail\nDimension(W*D*H)mm\t30*85*85mm\nWeight\t0.22 kg\nOperating environment\nOperating temperature\t-40℃~+75℃\nStorage/transportation temperature\t-40℃~+85℃\nRelative humidity\t5%~95%（non-condensing）\nIndustrial Standard\tSurge protection of power: IEC 61000-4-5  Level 3 (4KV/2KV）（8/20us)\nIndustrial Standard\tSurge protection of Ethernet ports: IEC 61000-4-5  Level 3 (4KV/2KV）（10/700us)\nIndustrial Standard\tDIP: IEC 61000-4-11  Level 3（10V）\nIndustrial Standard\tESD: IEC 61000-4-2  Level 4（8K/15K）\nIndustrial Standard\tShock：IEC 60068-2-27\nIndustrial Standard\tFree fall：IEC 60068-2-32\nIndustrial Standard\tVibration：IEC 60068-2-6\nCertification\tCCC/CE/FCC/RoHS\nWarranty\t5 years\nStructure diagram\nOrder information\nModel\tDescription\nLT-IMC30GP-2GX2GT-E\t10/100/1000Base-T to 1000Base-X unmanaged compact industrial PoE media converter with 2*10/100/1000Base-T PoE ports and 2*100/1000Base-X SFP slots, complies with IEEE802.3af, IEEE802.3at standard, DC44-57V, redundant dual power supply, Din-rail installation. Fiber port transmission distance depending on the SFP module;  Operation temperature: -40℃～+75℃",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"2*10/100/1000Base-T PoE to 2*100/1000Base-X"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Compact Industrial PoE Media Converter"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LT-IMC30GP-2GX2GT-E"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Features:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ 2*10/100/1000Base-T RJ45 PoE ports, 2*100/1000Base-X SFP ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  Powerful Dip switch function:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1.Fiber redundant;      2. Fiber ports 100/1000M selection;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3.250m long distance;    4. PoE watchdog"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Support 10K Bytes Jumbo frame and 1M large buffer"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  Operation temperature: -40 ℃ ~+75℃"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Overview"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The SmartByte LT-IMC30GP-2GX2GT-E is the unmanaged industrial grade PoE media converter with 2-port 10/100/1000-T PoE and 2-port 100/1000Base-X fiber optical interfaces. It complies with IEEE802.3af, IEEE802.3at standard PoE protocol, the Max power consumption can reach 30W (PoE+) per port. Moreover, it is featuring with fiber redundant, fiber ports 100/1000M selection, 250m long distance transmission mode and PoE watchdog function, which all can be configured by the Dip switch on the top panel."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LT-IS3004GP-2GX2GT-E is also a high cost-effective easy-to-use device, which provides essential industrial Ethernet networking function, such as wide range power input 44-57VDC, redundant power design with polarity reverse/over-voltage protection, robust IP40 fan-less compact housing with Din-rail installation, wide operation temperature from -40°C to 75°C as well as high-level EMI/EMC capability and so on. It is the best choice for heavy industrial factory, transportation, oil & gas, chemical, IP Surveillance and processing automation area where environmental conditions exceed commercial product specifications"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Technical specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model No.",
+"LT-IMC30GP-2GX2GT-E"
+],
+[
+"Interface",
+"Fiber ports",
+"Copper RJ45 ports"
+],
+[
+"Interface",
+"2",
+"2"
+],
+[
+"Ethernet",
+"2*10/100/1000Base-T PoE / 2*100/1000Base-X SFP"
+],
+[
+"Standard",
+"IEEE 802.3 10Base-T Ethernet / IEEE 802.3u Fast Ethernet / IEEE 802.3ab Gigabit Ethernet / IEEE 802.3x Full-Duplex Flow Control / IEEE 802.3az Energy Efficient Ethernet / IEEE 802.3af Power-Over-Ethernet / IEEE 802.3at Power Over Ethernet plus PSE"
+],
+[
+"Dip Switch",
+"Fiber redundant / Fiber port 100/1000M selection / 250m long distance mode(1-2 ports) / PoE watchdog"
+],
+[
+"LED Indicators",
+"P(Power indicator) Green",
+"Off: the device is power off or failed"
+],
+[
+"LED Indicators",
+"P(Power indicator) Green",
+"On: the device power on is normal"
+],
+[
+"LED Indicators",
+"S(PoE usage indicator) Red",
+"Off: total PoE usage ＜rated 50%"
+],
+[
+"LED Indicators",
+"S(PoE usage indicator) Red",
+"Blinking: rated 50%＜total PoE usage＜rated 90%"
+],
+[
+"LED Indicators",
+"S(PoE usage indicator) Red",
+"On: total PoE usage≥rated 90%"
+],
+[
+"LED Indicators",
+"1-2(Copper ports)",
+"Green indicators",
+"Yellow indicators"
+],
+[
+"LED Indicators",
+"1-2(Copper ports)",
+"Off: ports link down",
+"Off: PoE not working"
+],
+[
+"LED Indicators",
+"1-2(Copper ports)",
+"On: ports link up",
+"On: PoE working"
+],
+[
+"LED Indicators",
+"1-2(Copper ports)",
+"Blinking: data on TX/RX",
+"On: PoE working"
+],
+[
+"LED Indicators",
+"3-4 ( Fiber ports) Green",
+"Off: ports link down"
+],
+[
+"LED Indicators",
+"3-4 ( Fiber ports) Green",
+"On: ports link up"
+],
+[
+"LED Indicators",
+"3-4 ( Fiber ports) Green",
+"Blinking: data on TX/RX"
+],
+[
+"Power parameters"
+],
+[
+"Input voltage",
+"44-57VDC, redundant power input"
+],
+[
+"Input current",
+"1.5A Max"
+],
+[
+"Total power consumption",
+"Full loading without PoE ≤ 3W / PoE power budget ≤60W"
+],
+[
+"Connector",
+"Removable 4-pin terminal block"
+],
+[
+"Reverse polarity protection",
+"Support"
+],
+[
+"Over-voltage protection",
+"Support"
+],
+[
+"Switching features"
+],
+[
+"Switching capacity",
+"8G"
+],
+[
+"Packet forwarding rate",
+"11.9 Mpps"
+],
+[
+"MAC address table",
+"8K"
+],
+[
+"VLAN",
+"4K"
+],
+[
+"Buffer",
+"1M"
+],
+[
+"Forwarding delay",
+"<5us"
+],
+[
+"Jumbo Frame",
+"Support 10Kbytes"
+],
+[
+"MDX/MIDX",
+"Support"
+],
+[
+"Watchdog",
+"Support"
+],
+[
+"Network Topology"
+],
+[
+"Star topology",
+"Support"
+],
+[
+"Bus topology",
+"Support"
+],
+[
+"Tree Topology",
+"Support"
+],
+[
+"Mechanical structure"
+],
+[
+"Case protection",
+"IP40"
+],
+[
+"Installation method",
+"Din-rail"
+],
+[
+"Dimension(W*D*H)mm",
+"30*85*85mm"
+],
+[
+"Weight",
+"0.22 kg"
+],
+[
+"Operating environment"
+],
+[
+"Operating temperature",
+"-40℃~+75℃"
+],
+[
+"Storage/transportation temperature",
+"-40℃~+85℃"
+],
+[
+"Relative humidity",
+"5%~95%（non-condensing）"
+],
+[
+"Industrial Standard",
+"Surge protection of power: IEC 61000-4-5  Level 3 (4KV/2KV）（8/20us)"
+],
+[
+"Industrial Standard",
+"Surge protection of Ethernet ports: IEC 61000-4-5  Level 3 (4KV/2KV）（10/700us)"
+],
+[
+"Industrial Standard",
+"DIP: IEC 61000-4-11  Level 3（10V）"
+],
+[
+"Industrial Standard",
+"ESD: IEC 61000-4-2  Level 4（8K/15K）"
+],
+[
+"Industrial Standard",
+"Shock：IEC 60068-2-27"
+],
+[
+"Industrial Standard",
+"Free fall：IEC 60068-2-32"
+],
+[
+"Industrial Standard",
+"Vibration：IEC 60068-2-6"
+],
+[
+"Certification",
+"CCC/CE/FCC/RoHS"
+],
+[
+"Warranty",
+"5 years"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Structure diagram"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Order information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"Description"
+],
+[
+"LT-IMC30GP-2GX2GT-E",
+"10/100/1000Base-T to 1000Base-X unmanaged compact industrial PoE media converter with 2*10/100/1000Base-T PoE ports and 2*100/1000Base-X SFP slots, complies with IEEE802.3af, IEEE802.3at standard, DC44-57V, redundant dual power supply, Din-rail installation. Fiber port transmission distance depending on the SFP module;  Operation temperature: -40℃～+75℃"
+]
+]
+}
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":390262
+},
+{
+"name":"image2.png",
+"bytes":53957
+}
+]
+}

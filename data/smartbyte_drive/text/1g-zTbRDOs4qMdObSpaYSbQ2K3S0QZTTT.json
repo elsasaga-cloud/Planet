@@ -1,0 +1,3278 @@
+{
+"id":"1g-zTbRDOs4qMdObSpaYSbQ2K3S0QZTTT",
+"name":"SWITCH-MIBS-release-7.3.0.docx",
+"path":"SmartByte/暂时不用的/SWITCH-MIBS-release-7.3.0.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":132056,
+"sha256":"39851584526a2b82ce6f7b4ad04d44dc936ee4b8c1e022f6f4bebde4ea55f2f5",
+"extracted_at":"2026-10-22T02:14:36Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":61650,
+"meta":{
+"title":"",
+"author":"Smile like flower",
+"last_modified_by":"陈 时淦",
+"created":"2024-05-28T08:31:00+00:00",
+"modified":"2025-06-11T11:09:00+00:00",
+"paragraphs":69,
+"tables":38,
+"embedded_images":0
+},
+"warnings":[],
+"text":"MIBs for switches\n(Note: In the document, if there is an index after the Node name, it needs to be added to the OID and used together during operation;\n.1 of ifIndex .1 , the actual operation OID is .1.3.6.1.2.1.2.2.1.1.1 )\nTable of contentsMIBs for switches11Public Node Support31.1System Message31.2Port Information51.3VLAN Information91.4MAC Address Table101.5LLDP Configuration Information111.6LLDP Neighbor Information121.7STP Information141.8PoE Information171.9802.1X Information191.10IP Information221.11ARP Information241.12Route Information251.13TCP Information261.14UDP Information292Private Node Support312.1System Information312.2System Operation312.3IOCTL322.4PoE322.5Loop Detect342.6Power Information352.7Cable Detect362.8Port Control372.9Optical Information403Trap Notice44\nPublic Node Support\nSystem Message\n(SNMPv2-MIB.iso.org.dod.internet.mgmt.mib-2.system)\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\nsysDescr\t.1.3.6.1.2.1.1.1.0\tsystem descriptor\tOCTET STRING\tread-only / Implement consistency with mib file definition.\nsysObjectID\t.1.3.6.1.2.1.1.2.0\tVendor OID\tOBJECT IDENTIFIER\tread-only / Implement consistency with mib file definition.\nsysUpTime\t.1.3.6.1.2.1.1.3.0\tsystem startup time\tTimeTicks\tread-only / Implement consistency with mib file definition.\nsysContact\t.1.3.6.1.2.1.1.4.0\ttechnical contact\tOCTET STRING\tread-write / Implement consistency with mib file definition.\nsysName\t.1.3.6.1.2.1.1.5.0\tsystem name\tOCTET STRING\tread-write / Implement consistency with mib file definition.\nsysLocation\t.1.3.6.1.2.1.1.6.0\tSystem location information\tOCTET STRING\tread-write / Implement consistency with mib file definition.\n(ENTITY-MIB.iso.org.dod.internet.mgmt.mib-2.entityMIB.entityMIBObjects.entityPhysical)\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\nentPhysicalIndex.1\t.1.3.6.1.2.1.47.1.1.1.1.1.1\thardware entity index\tInteger32\tnot-accessible / Implement consistency with mib file definition.\nentPhysicalDescr.1\t.1.3.6.1.2.1.47.1.1.1.1.2.1\thardware entity descriptor\tOCTET STRING\tread-only / Implement consistency with mib file definition.\nentPhysicalVendorType.1\t.1.3.6.1.2.1.47.1.1.1.1.3.1\tVendor OID\tOBJECT IDENTIFIER\tread-only / Implement consistency with mib file definition.\nentPhysicalContainedIn.1\t.1.3.6.1.2.1.47.1.1.1.1.4.1\tbelongs to which entity\tInteger32\tread-only / Implement consistency with mib file definition.\nentPhysicalClass.1\t.1.3.6.1.2.1.47.1.1.1.1.5.1\thardware type\tINTEGER\tread-only / Implement consistency with mib file definition.\nentPhysicalParentRelPos.1\t.1.3.6.1.2.1.47.1.1.1.1.6.1\tprevious entity number\tInteger32\tread-only / Implement consistency with mib file definition.\nentPhysicalName.1\t.1.3.6.1.2.1.47.1.1.1.1.7.1\tentity name\tOCTET STRING\tread-only / Implement consistency with mib file definition.\nentPhysicalHardwareRev.1\t.1.3.6.1.2.1.47.1.1.1.1.8.1\thardware version number\tOCTET STRING\tread-only / Implement consistency with mib file definition.\nentPhysicalFirmwareRev.1\t.1.3.6.1.2.1.47.1.1.1.1.9.1\tFirmware version number\tOCTET STRING\tread-only / Implement consistency with mib file definition.\nentPhysicalSoftwareRev.1\t.1.3.6.1.2.1.47.1.1.1.1.10.1\tsoftware version number\tOCTET STRING\tread-only / Implement consistency with mib file definition.\nentPhysicalSerialNum.1\t.1.3.6.1.2.1.47.1.1.1.1.11.1\tserial number\tOCTET STRING\tread-write / Only read operations are supported.\nentPhysicalMfgName.1\t.1.3.6.1.2.1.47.1.1.1.1.12.1\tTrade Names\tOCTET STRING\tread-only / Implement consistency with mib file definition.\nentPhysicalModelName.1\t.1.3.6.1.2.1.47.1.1.1.1.13.1\tDevice model\tOCTET STRING\tread-only / Implement consistency with mib file definition.\nentPhysicalAlias.1\t.1.3.6.1.2.1.47.1.1.1.1.14.1\tentity alias\tOCTET STRING\tread-write / Only read operations are supported\nentPhysicalAssetID.1\t.1.3.6.1.2.1.47.1.1.1.1.15.1\tEntity ID\tOCTET STRING\tread-write / Only read operations are supported.\nentPhysicalIsFRU.1\t.1.3.6.1.2.1.47.1.1.1.1.16.1\tWhether to support FRU\tINTEGER\tread-only / Implement consistency with mib file definition.\nentPhysicalMfgDate.1\t.1.3.6.1.2.1.47.1.1.1.1.17.1\tProduction Date\tOCTET STRING\tread-only / Implement consistency with mib file definition.\nentPhysicalUris.1\t.1.3.6.1.2.1.47.1.1.1.1.18.1\tresource descriptor\tOCTET STRING\tread-write / Only read operations are supported.\nPort Information\n(IF-MIB.iso.org.dod.internet.mgmt.mib -2.interfaces.ifTable.ifEntry)\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\nifNumber\t.1.3.6.1.2.1.2.1.0\tNumber of ports\tInteger32\tread-only / Implement consistency with mib file definition.\nifIndex.1\t.1.3.6.1.2.1.2.2.1.1\tIndex value of interface 1\tInteger32\tread-only / Implement consistency with mib file definition.\nifDescr.1\t.1.3.6.1.2.1.2.2.1.2\tDescriptor for interface 1\tOCTET STRING\tread-only / Implement consistency with mib file definition.\nifType.1\t.1.3.6.1.2.1.2.2.1.3\tType of interface 1\tINTEGER\tread-only / Implement consistency with mib file definition.\nifMtu.1\t.1.3.6.1.2.1.2.2.1.4\tMTU of interface 1\tInteger32\tread-only / Implement consistency with mib file definition.\nifSpeed.1\t.1.3.6.1.2.1.2.2.1.5\tInterface 1 rate\tGauge32\tread-only / Implement consistency with mib file definition.\nifPhysAddress.1\t.1.3.6.1.2.1.2.2.1.6\tMAC address of interface 1\tOCTET STRING\tread-only / Implement consistency with mib file definition.\nifAdminStatus.1\t.1.3.6.1.2.1.2.2.1.7\tManagement state of interface 1\tINTEGER\tread-write / Implement consistency with mib file definition.\nifOperStatus.1\t.1.3.6.1.2.1.2.2.1.8\tActual state of interface 1\tINTEGER\tread-only / Implement consistency with mib file definition.\nifLastChange.1\t.1.3.6.1.2.1.2.2.1.9\tTime of the last status change of interface 1\tTimeTicks\tread-only / Implement consistency with mib file definition.\nifInOctets.1\t.1.3.6.1.2.1.2.2.1.10\tNumber of bytes received by interface 1\tCounter32\tread-only / Implement consistency with mib file definition.\nifInUcastPkts.1\t.1.3.6.1.2.1.2.2.1.11\tNumber of unicast packets received by interface 1\tCounter32\tread-only / Implement consistency with mib file definition.\nifInNUcastPkts.1\t.1.3.6.1.2.1.2.2.1.12\tNumber of non-unicast packets received by interface 1\tCounter32\tread-only / Implement consistency with mib file definition.\nifInDiscards.1\t.1.3.6.1.2.1.2.2.1.13\tNumber of discarded packets received by interface 1\tCounter32\tread-only / Implement consistency with mib file definition.\nifInErrors.1\t.1.3.6.1.2.1.2.2.1.14\tNumber of error packets received by interface 1\tCounter32\tread-only / Implement consistency with mib file definition.\nifInUnknownProtos.1\t.1.3.6.1.2.1.2.2.1.15\tNumber of unknown packets received by interface 1\tCounter32\tread-only / Implement consistency with mib file definition.\nifOutOctets.1\t.1.3.6.1.2.1.2.2.1.16\tNumber of bytes sent by interface 1\tCounter32\tread-only / Implement consistency with mib file definition.\nifOutUcastPkts.1\t.1.3.6.1.2.1.2.2.1.17\tNumber of unicast packets sent by interface 1\tCounter32\tread-only / Implement consistency with mib file definition.\nifOutNUcastPkts.1\t.1.3.6.1.2.1.2.2.1.18\tNumber of non-unicast packets sent by interface 1\tCounter32\tread-only / Implement consistency with mib file definition.\nifOutDiscards.1\t.1.3.6.1.2.1.2.2.1.19\tNumber of lost packets sent by interface 1\tCounter32\tread-only / Implement consistency with mib file definition.\nifOutErrors.1\t.1.3.6.1.2.1.2.2.1.20\terror packets sent by interface 1\tCounter32\tread-only / Implement consistency with mib file definition.\n(IF-MIB.iso.org.dod.internet.mgmt.mib -2.ifMIB.ifMIBObjects.ifXTable.ifXEntry)\nSupport 64-bit statistics to avoid data crossing or flipping; Note: SNMP V2 C version only supports 64-bit data .\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\nifName.1\t.1.3.6.1.2.1.31.1.1.1.1.1\tinterface name\tOCTET STRING\tread-only / Implement consistency with mib file definition.\nifInMulticastPkts.1\t.1.3.6.1.2.1.31.1.1.1.2.1\tNumber of received multicast packets\tCounter32\tread-only / Implement consistency with mib file definition.\nifInBroadcastPkts.1\t.1.3.6.1.2.1.31.1.1.1.3.1\tThe number of received broadcast packets\tCounter32\tread-only / Implement consistency with mib file definition.\nifOutMulticastPkts.1\t.1.3.6.1.2.1.31.1.1.1.4.1\tNumber of multicast packets sent\tCounter32\tread-only / Implement consistency with mib file definition.\nifOutBroadcastPkts.1\t.1.3.6.1.2.1.31.1.1.1.5.1\tNumber of broadcast packets sent\tCounter32\tread-only / Implement consistency with mib file definition.\nifHCInOctets.1\t.1.3.6.1.2.1.31.1.1.1.6.1\treceived bytes\tCounter64\tread-only / Implement consistency with mib file definition.\nifHCInUcastPkts.1\t.1.3.6.1.2.1.31.1.1.1.7.1\treceived unicast packets\tCounter64\tread-only / Implement consistency with mib file definition.\nifHCInMulticastPkts.1\t.1.3.6.1.2.1.31.1.1.1.8.1\tNumber of received multicast packets\tCounter64\tread-only / Implement consistency with mib file definition.\nifHCInBroadcastPkts.1\t.1.3.6.1.2.1.31.1.1.1.9.1\tThe number of received broadcast packets\tCounter64\tread-only / Implement consistency with mib file definition.\nifHCOutOctets.1\t.1.3.6.1.2.1.31.1.1.1.10.1\tsend bytes\tCounter64\tread-only / Implement consistency with mib file definition.\nifHCOutUcastPkts.1\t.1.3.6.1.2.1.31.1.1.1.11.1\tNumber of unicast packets sent\tCounter64\tread-only / Implement consistency with mib file definition.\nifHCOutMulticastPkts.1\t.1.3.6.1.2.1.31.1.1.1.12.1\tNumber of multicast packets sent\tCounter64\tread-only / Implement consistency with mib file definition.\nifHCOutBroadcastPkts.1\t.1.3.6.1.2.1.31.1.1.1.13.1\tNumber of broadcast packets sent\tCounter64\tread-only / Implement consistency with mib file definition.\nifLinkUpDownTrapEnable.1\t.1.3.6.1.2.1.31.1.1.1.14.1\tLink notification enable\tINTEGER\tread-write / Implement consistency with mib file definition.\nifHighSpeed.1\t.1.3.6.1.2.1.31.1.1.1.15.1\tport speed\tGauge32\tread-only / Implement consistency with mib file definition.\nifPromiscuousMode.1\t.1.3.6.1.2.1.31.1.1.1.16.1\tpromiscuous mode\tINTEGER\tread-write / Only read operations are supported.\nifConnectorPresent.1\t.1.3.6.1.2.1.31.1.1.1.17.1\tIs it connected\tINTEGER\tread-only / Implement consistency with mib file definition.\nifAlias.1\t.1.3.6.1.2.1.31.1.1.1.18.1\talias\tOCTET STRING\tread-write / Implement consistency with mib file definition.\nVLAN Information\n(Q-BRIDGE - MIB.iso.org.dod.internet.mgmt.mib -2.dot1dBridge.qBridgeMIB.qBridgeMIBObjects.dot1qVlan.dot1qVlanStaticTable.dot1qVlanStaticEntry)\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\ndot1qVlanStaticName.1\t.1.3.6.1.2.1.17.7.1.4.3.1.1\tName of VLAN 1\tOCTET STRING\tread-create / Read and write operations are supported.\ndot1qVlanStaticEgressPorts.1\t.1.3.6.1.2.1.17.7.1.4.3.1.2\tQuasi-outbound port of VLAN 1\tOCTET STRING\tread-create / Implement consistency with mib file definition.\ndot1qVlanForbiddenEgressPorts.1\t.1.3.6.1.2.1.17.7.1.4.3.1.3\tProhibited outgoing ports of VLAN 1\tOCTET STRING\tread-create / Implement consistency with mib file definition.\ndot1qVlanStaticUntaggedPorts.1\t.1.3.6.1.2.1.17.7.1.4.3.1.4\tUntagged port of VLAN 1\tOCTET STRING\tread-create / Implement consistency with mib file definition.\ndot1qVlanStaticRowStatus.1\t.1.3.6.1.2.1.17.7.1.4.3.1.5\tNode status for VLAN 1\tINTEGER\tread-create / Implement consistency with mib file definition.\nMAC Address Table\n(Name dot 1qTpFdbEntry!@#.iso.org.dod.internet.mgmt.mib-2.dot1dBridge.qBridgeMIB.qBridgeMIBObjects.dot1qTp.dot1qTpFdbTable.dot1qTpFdbEntry)\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\ndot1qTpFdbAddress\t.1.3.6.1.2.1.17.7.1.2.2.1.1\tTable index, the content is VLAN ID+MAC address\tOCTET STRING\tnot-accessible / Implement consistency with mib file definition.\ndot1qTpFdbPort\t.1.3.6.1.2.1.17.7.1.2.2.1.2\tIndex of the interface where the MAC address resides\tINTEGER\tread-only / Implement consistency with mib file definition.\ndot1qTpFdbStatus\t.1.3.6.1.2.1.17.7.1.2.2.1.3\tMAC address type\tINTEGER\tread-only / Implement consistency with mib file definition.\nLLDP Configuration Information\n(LLDP-V2-MIB-200906080000Z.iso.org.ieee.standards-association-numbers-series-standards.lan-man-stds.ieee802dot1.ieee802dot1-1.lldpV2MIB.lldpV2Objects.lldpV2Configuration.lldpV2PortConfigTable.lldpConfigV2Port)\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\nlldpV2PortConfigIfIndex\t1.3.111.2.802.1.1.13.1.1.8.1.1\tport index\tInteger32\tnot-accessible / Implement consistency with mib file definition.\nlldpV2PortConfigDestAddressIndex\t1.3.111.2.802.1.1.13.1.1.8.1.2\tPort destination mac index value\tUnsigned32\tnot-accessible / Implement consistency with mib file definition.\nlldpV2PortConfigAdminStatus\t1.3.111.2.802.1.1.13.1.1.8.1.3\tmanagement status\tINTEGER\tread-write / Implement consistency with mib file definition.\nlldpV2PortConfigNotificationEnable\t1.3.111.2.802.1.1.13.1.1.8.1.4\tnotification enable\tINTEGER\tread-write / Not currently supported.\nlldpV2PortConfigTLVsTxEnable\t1.3.111.2.802.1.1.13.1.1.8.1.5\tTLV sending type\tBITS\tread-write / Only supports is set to 0x00.\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\nlldpV2AddressTableIndex\t.1.3.111.2.802.1.1.13.1.1.9.1.1\ttable index\tUnsigned32\tnot-accessible / Implement consistency with mib file definition.\nlldpV2DestMacAddress\t.1.3.111.2.802.1.1.13.1.1.9.1.2\tMAC address | \tOCTET STRING\tread-only / Implement consistency with mib file definition.\nLLDP Neighbor Information\n(LLDP-V2-MIB-200906080000Z.iso.org.ieee.standards-association-numbers-series-standards.lan-man-stds.ieee802dot1.ieee802dot1-1.lldpV2MIB.lldpV2Objects.lldpV2LocalSystemData.lldpV2EntryPortTable.lldpV2Locorg .ieee.standards-association-numbers-series-standards.lan-man-stds.ieee802dot1.ieee802dot1-1.lldpV2MIB.lldpV2Objects.lldpV2RemoteSystemsData.lldpV2RemTable.lldpV2RemEntry)\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\nlldpV2LocPortIfIndex\t1.3.111.2.802.1.1.13.1.3.7.1.1\tport index\tInteger32\tnot-accessible / Implement consistency with mib file definition.\nlldpV2LocPortIdSubtype\t1.3.111.2.802.1.1.13.1.3.7.1.2\tport id type\tINTEGER\tread-only / Implement consistency with mib file definition.\nlldpV2LocPortId\t1.3.111.2.802.1.1.13.1.3.7.1.3\tport id\tOCTET STRING\tread-only / Implement consistency with mib file definition.\nlldpV2LocPortDesc\t1.3.111.2.802.1.1.13.1.3.7.1.4\tport description\tOCTET STRING\tread-only / Implement consistency with mib file definition.\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\nlldpV2RemTimeMark\t1.3.111.2.802.1.1.13.1.4.1.1.1\tlocal port index\tTimeTicks\tnot-accessible / Implement consistency with mib file definition.\nlldpV2RemLocalIfIndex\t1.3.111.2.802.1.1.13.1.4.1.1.2\tlocal port index\tInteger32\tnot-accessible / Implement consistency with mib file definition.\nlldpV2RemLocalDestMACAddress\t1.3.111.2.802.1.1.13.1.4.1.1.3\tLocal destination MAC type\tUnsigned32\tnot-accessible / Implement consistency with mib file definition.\nlldpV2RemIndex\t1.3.111.2.802.1.1.13.1.4.1.1.4 _\tneighbor index\tUnsigned32\tnot-accessible / Implement consistency with mib file definition.\nlldpV2RemChassisIdSubtype\t1.3.111.2.802.1.1.13.1.4.1.1.5\tNeighbor Chassis Type\tINTEGER\tread-only / Implement consistency with mib file definition.\nlldpV2RemChassisId\t1.3.111.2.802.1.1.13.1.4.1.1.6\tNeighbor Chassis Information\tOCTET STRING\tread-only / Implement consistency with mib file definition.\nlldpV2RemPortIdSubtype\t1.3.111.2.802.1.1.13.1.4.1.1.7\tNeighbor port ID type\tINTEGER\tread-only / Implement consistency with mib file definition.\nlldpV2RemPortId\t1.3.111.2.802.1.1.13.1.4.1.1.8\tneighbor port ID\tOCTET STRING\tread-only / Implement consistency with mib file definition.\nlldpV2RemPortDesc\t1.3.111.2.802.1.1.13.1.4.1.1.9\tNeighbor port description\tOCTET STRING\tread-only / Implement consistency with mib file definition.\nlldpV2RemSysName\t1.3.111.2.802.1.1.13.1.4.1.1.10\tneighbor system name\tOCTET STRING\tread-only / Implement consistency with mib file definition.\nlldpV2RemSysDesc\t1.3.111.2.802.1.1.13.1.4.1.1.11\tNeighborhood System Description\tOCTET STRING\tread-only / Implement consistency with mib file definition.\nlldpV2RemSysCapSupported\t1.3.111.2.802.1.1.13.1.4.1.1.12\tNeighboring System Capability Range\tBITS\tread-only / Implement consistency with mib file definition.\nlldpV2RemSysCapEnabled\t1.3.111.2.802.1.1.13.1.4.1.1.13\tEnabling neighbor system capabilities\tBITS\tread-only / Implement consistency with mib file definition.\nlldpV2RemRemoteChanges\t1.3.111.2.802.1.1.13.1.4.1.1.14\tNeighborhood Change ID\tINTEGER\tread-only / Implement consistency with mib file definition.\nlldpV2RemTooManyNeighbors\t1.3.111.2.802.1.1.13.1.4.1.1.15\tToo many neighbors flag\tINTEGER\tread-only / Implement consistency with mib file definition.\nSTP Information\n(RSTP-MIB iso.org.dod.internet.mgmt.mib-2.dot1dBridge.dot1dStp)\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\ndot1dStpProtocolSpecification.0\t1.3.6.1.2.1.17.2.1\t\tINTEGER\tread-only / Read result is fixed ieee8021d(3).\ndot1dStpPriority.0\t1.3.6.1.2.1.17.2.2\t\tINTEGER\tread-write / Implement consistency with mib file definition.\ndot1dStpTimeSinceTopologyChange.0\t1.3.6.1.2.1.17.2.3\t\tTimeTicks\tread-only / Implement consistency with mib file definition.\ndot1dStpTopChanges.0\t1.3.6.1.2.1.17.2.4\t\tCounter\tread-only / Implement consistency with mib file definition.\ndot1dStpDesignatedRoot.0\t1.3.6.1.2.1.17.2.5\t\tOCTET STRING\tread-only / Implement consistency with mib file definition.\ndot1dStpRootPort.0\t1.3.6.1.2.1.17.2.6\t\tINTEGER\tread-only / Implement consistency with mib file definition.\ndot1dStpRootPort.0\t1.3.6.1.2.1.17.2.7\t\tINTEGER\tread-only / Implement consistency with mib file definition.\ndot1dStpMaxAge.0\t1.3.6.1.2.1.17.2.8\t\tINTEGER\tread-only / Implement consistency with mib file definition.\ndot1dStpHelloTime.0\t1.3.6.1.2.1.17.2.9\t\tINTEGER\tread-only / Implement consistency with mib file definition.\ndot1dStpHoldTime.0\t1.3.6.1.2.1.17.2.10\t\tINTEGER\tread-only / Implement consistency with mib file definition.\ndot1dStpForwardDelay.0\t1.3.6.1.2.1.17.2.11\t\tINTEGER\tread-only / Implement consistency with mib file definition.\ndot1dStpBridgeMaxAge.0\t1.3.6.1.2.1.17.2.12\t\tINTEGER\tread-write / Implement consistency with mib file definition.\ndot1dStpBridgeHelloTime.0\t1.3.6.1.2.1.17.2.13\t\tINTEGER\tread-write / Implement consistency with mib file definition.\ndot1dStpBridgeForwardDelay.0\t1.3.6.1.2.1.17.2.14\t\tINTEGER\tread-write / Implement consistency with mib file definition.\ndot1dStpPort.1\t1.3.6.1.2.1.17.2.15.1.1\t\tINTEGER\tread-only / Implement consistency with mib file definition.\ndot1dStpPortPriority.1\t1.3.6.1.2.1.17.2.15.1.2\t\tINTEGER\tread-write / Implement consistency with mib file definition.\ndot1dStpPortState.1\t1.3.6.1.2.1.17.2.15.1.3\t\tINTEGER\tread-only / Implement consistency with mib file definition.\ndot1dStpPortEnable.1\t1.3.6.1.2.1.17.2.15.1.4\t\tINTEGER\tread-write / Implement consistency with mib file definition.\ndot1dStpPortPathCost.1\t1.3.6.1.2.1.17.2.15.1.5\t\tINTEGER\tread-write / Implement consistency with mib file definition.\ndot1dStpPortDesignatedRoot.1\t1.3.6.1.2.1.17.2.15.1.6\t\tOCTET STRING\tread-only / Implement consistency with mib file definition.\ndot1dStpPortDesignatedCost.1\t1.3.6.1.2.1.17.2.15.1.7\t\tINTEGER\tread-only / Implement consistency with mib file definition.\ndot1dStpPortDesignatedBridge.1\t1.3.6.1.2.1.17.2.15.1.8\t\tOCTET STRING\tread-only / Implement consistency with mib file definition.\ndot1dStpPortDesignatedPort.1\t1.3.6.1.2.1.17.2.15.1.9\t\tOCTET STRING\tread-only / Implement consistency with mib file definition.\ndot1dStpPortForwardTransitions.1\t1.3.6.1.2.1.17.2.15.1.10\t\tCounter\tread-only / Implement consistency with mib file definition.\ndot1dStpPortPathCost32.1\t1.3.6.1.2.1.17.2.15.1.11\t\tINTEGER\tread-only / Implement consistency with mib file definition.\ndot1dStpVersion.0\t1.3.6.1.2.1.17.2.16\t\tINTEGER\tread-write / Implement consistency with mib file definition.\ndot1dStpTxHoldCount.0\t1.3.6.1.2.1.17.2.17\t\tINTEGER\tread-write / Implement consistency with mib file definition.\ndot1dStpPortProtocolMigration.1\t1.3.6.1.2.1.17.2.19.1.1\t\tINTEGER\tread-write / Implement consistency with mib file definition.\ndot1dStpPortAdminEdgePort.1\t1.3.6.1.2.1.17.2.19.1.2\t\tINTEGER\tread-write / Implement consistency with mib file definition.\ndot1dStpPortOperEdgePort.1\t1.3.6.1.2.1.17.2.19.1.3\t\tINTEGER\tread-only / Implement consistency with mib file definition.\ndot1dStpPortAdminPointToPoint.1\t1.3.6.1.2.1.17.2.19.1.4\t\tINTEGER\tread-write / Implement consistency with mib file definition.\ndot1dStpPortOperPointToPoint.1\t1.3.6.1.2.1.17.2.19.1.5\t\tINTEGER\tread-only / Implement consistency with mib file definition.\ndot1dStpPortAdminPathCost.1\t1.3.6.1.2.1.17.2.19.1.6\t\tINTEGER\tread-write / Implement consistency with mib file definition.\nPoE Information\n(POWER-ETHERNET-MIB.iso.org.dod.internet.mgmt.mib-2.powerEthernetMIB.pethObjects)\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\npethPsePortGroupIndex.1.1\t.1.3.6.1.2.1.105.1.1.1.1.1.1\tgroup index\tInteger32\tnot-accessible / Implement consistency with mib file definition.\npethPsePortIndex.1.1\t.1.3.6.1.2.1.105.1.1.1.2.1.1\tport index\tInteger32\tnot-accessible / Implement consistency with mib file definition.\npethPsePortAdminEnable.1.1\t.1.3.6.1.2.1.105.1.1.1.3.1.1\tManagement Enabled Status\tINTEGER\tread-write / Implement consistency with mib file definition.\npethPsePortPowerPairsControlAbility.1.1\t.1.3.6.1.2.1.105.1.1.1.4.1.1\tPower supply capacity\tINTEGER\tread-only / Implement consistency with mib file definition.\npethPsePortPowerPairs.1.1\t.1.3.6.1.2.1.105.1.1.1.5.1.1\tPower supply\tINTEGER\tread-write / Only read operations are supported.\npethPsePortDetectionStatus.1.1\t.1.3.6.1.2.1.105.1.1.1.6.1.1\tPort Power Status\tINTEGER\tread-only / Implement consistency with mib file definition.\npethPsePortPowerPriority.1.1\t.1.3.6.1.2.1.105.1.1.1.7.1.1\tPower priority\tINTEGER\tread-only / Implement consistency with mib file definition.\npethPsePortMPSAbsentCounter.1.1\t.1.3.6.1.2.1.105.1.1.1.8.1.1\toff statistics\tCounter32\tread-only / Implement consistency with mib file definition.\npethPsePortType.1.1\t.1.3.6.1.2.1.105.1.1.1.9.1.1\tport descriptor\tOCTET STRING\tread-write / Implement consistency with mib file definition.\npethPsePortPowerClassifications.1.1\t.1.3.6.1.2.1.105.1.1.1.10.1.1\tPower supply type\tINTEGER\tread-only / Implement consistency with mib file definition.\npethPsePortInvalidSignatureCounter.1.1\t.1.3.6.1.2.1.105.1.1.1.11.1.1\tIllegal Signal Statistics\tCounter32\tread-only / Implement consistency with mib file definition.\npethPsePortPowerDeniedCounter.1.1\t.1.3.6.1.2.1.105.1.1.1.12.1.1\tDenial of Power Statistics\tCounter32\tread-only / Implement consistency with mib file definition.\npethPsePortOverLoadCounter r.1.1\t.1.3.6.1.2.1.105.1.1.1.13.1.1\tOverload Power Down Statistics\tCounter32\tread-only / Implement consistency with mib file definition.\npethPsePortShortCounter.1.1\t.1.3.6.1.2.1.105.1.1.1.14.1.1\tPort short circuit statistics\tCounter32\tread-only / Implement consistency with mib file definition.\n802.1X Information\n(IEEE8021-PAE- MIB.iso.std.iso8802.ieee802dot1.ieee802dot1mibs.ieee8021paeMIB)\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\ndot1xPaeSystemAuthControl.0\t.1.0.8802.1.1.1.1.1.1.0\tglobal authentication switch\tINTEGER\tread-write / Implement consistency with mib file definition.\n(dot1 xPaePortEntry!@#.iso.std.iso8802.ieee802dot1.ieee802dot1mibs.ieee8021paeMIB.paeMIBObjects.dot1xPaeSystem.dot1xPaePortTable.dot1xPaePortEntry )\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\ndot1xPaePortNumber.5\t.1.0.8802.1.1.1.1.1.2.1.1.5\tport number\tInteger32\tnot-accessible / Implement consistency with mib file definition.\ndot1xPaePortProtocolVersion.5\t.1.0.8802.1.1.1.1.1.2.1.2.5\tport protocol version\tUnsigned32\tread-only / Implement consistency with mib file definition.\ndot1xPaePortCapabilities.5\t.1.0.8802.1.1.1.1.1.2.1.3.5\tport capability\tBITS\tread-only / Implement consistency with mib file definition.\ndot1xPaePortInitialize.5\t.1.0.8802.1.1.1.1.1.2.1.4.5\tport initialization flag\tINTEGER\tread-write / Implement consistency with mib file definition.\ndot1xPaePortReauthenticate.5\t.1.0.8802.1.1.1.1.1.2.1.5.5\tPort re-authentication identifier\tINTEGER\tread-write / Implement consistency with mib file definition.\n( dot1 xAuthConfigEntry!@#.iso.std.iso8802.ieee802dot1.ieee802dot1mibs.ieee8021paeMIB.paeMIBObjects.dot1xPaeAuthenticator.dot1xAuthConfigTable.dot1xAuthConfigEntry )\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\ndot1xAuthPaeState.5\t.1.0.8802.1.1.1.1.2.1.1.1.5\tPAE certification status\tINTEGER\tread-only / Implement consistency with mib file definition.\ndot1xAuthBackendAuthState.5\t.1.0.8802.1.1.1.1.2.1.1.2.5\tBE certification status\tINTEGER\tread-only / Implement consistency with mib file definition.\ndot1xAuthAdminControlledDirections.5\t.1.0.8802.1.1.1.1.2.1.1.3.5\tPort Controlled Management Direction\tINTEGER\tread-write / Implement consistency with mib file definition.\ndot1xAuthOperControlledDirections.5\t.1.0.8802.1.1.1.1.2.1.1.4.5\tPort controlled current direction\tINTEGER\tread-only / Implement consistency with mib file definition.\ndot1xAuthAuthControlledPortStatus.5\t.1.0.8802.1.1.1.1.2.1.1.5.5\tPort controlled state\tINTEGER\tread-only / Implement consistency with mib file definition.\ndot1xAuthAuthControlledPortControl.5\t.1.0.8802.1.1.1.1.2.1.1.6.5\tport controlled mode\tINTEGER\tread-write / Implement consistency with mib file definition.\ndot1xAuthQuietPeriod.5\t.1.0.8802.1.1.1.1.2.1.1.7.5\tPort authentication silent period\tUnsigned32\tread-write / Only read operations are supported.\ndot1xAuthTxPeriod.5\t.1.0.8802.1.1.1.1.2.1.1.8.5\tsending cycle\tUnsigned32\tread-write / Implement consistency with mib file definition.\ndot1xAuthSuppTimeout.5\t.1.0.8802.1.1.1.1.2.1.1.9.5\tclient timeout\tUnsigned32\tread-write / Implement consistency with mib file definition.\ndot1xAuthServerTimeout.5\t.1.0.8802.1.1.1.1.2.1.1.10.5\tserver timeout\tUnsigned32\tread-write / Implement consistency with mib file definition.\ndot1xAuthReAuthPeriod.5\t.1.0.8802.1.1.1.1.2.1.1.12.5\tre-authentication cycle\tUnsigned32\tread-write / Implement consistency with mib file definition.\ndot1xAuthReAuthEnabled.5\t.1.0.8802.1.1.1.1.2.1.1.13.5\tEnable re-authentication\tINTEGER\tread-write / Implement consistency with mib file definition.\ndot1xAuthKeyTxEnabled.5\t.1.0.8802.1.1.1.1.2.1.1.14.5\tkey send enable\tINTEGER\tread-write / Implement consistency with mib file definition.\n(dot1 xAuthStatsEntry!@#.iso.std.iso8802.ieee802dot1.ieee802dot1mibs.ieee8021paeMIB.paeMIBObjects.dot1xPaeAuthenticator.dot1xAuthStatsTable.dot1xAuthStatsEntry )\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\ndot1xAuthEapolFramesRx.5\t.1.0.8802.1.1.1.1.2.2.1.1.5\tEapol received packets\tCounter32\tread-only / Implement consistency with mib file definition.\ndot1xAuthEapolFramesTx.5\t.1.0.8802.1.1.1.1.2.2.1.2.5\tThe number of packets sent by Eapol\tCounter32\tread-only / Implement consistency with mib file definition.\ndot1xAuthEapolStartFramesRx.5\t.1.0.8802.1.1.1.1.2.2.1.3.5\tThe number of packets received at the beginning of Eapol\tCounter32\tread-only / Implement consistency with mib file definition.\ndot1xAuthEapolLogoffFramesRx.5\t.1.0.8802.1.1.1.1.2.2.1.4.5\tEapol offline packets received\tCounter32\tread-only / Implement consistency with mib file definition.\ndot1xAuthEapolRespIdFramesRx.5\t.1.0.8802.1.1.1.1.2.2.1.5.5\tEapol response identification packets\tCounter32\tread-only / Implement consistency with mib file definition.\ndot1xAuthEapolRespFramesRx.5\t.1.0.8802.1.1.1.1.2.2.1.6.5\tEapol response packets received\tCounter32\tread-only / Implement consistency with mib file definition.\ndot1xAuthEapolReqIdFramesTx.5\t.1.0.8802.1.1.1.1.2.2.1.7.5\tEapol request identification packets sent\tCounter32\tread-only / Implement consistency with mib file definition.\ndot1xAuthEapolReqFramesTx.5\t.1.0.8802.1.1.1.1.2.2.1.8.5\tEapol request packet number\tCounter32\tread-only / Implement consistency with mib file definition.\ndot1xAuthInvalidEapolFramesRx.5\t.1.0.8802.1.1.1.1.2.2.1.9.5\tillegal Eapol packets received\tCounter32\tread-only / Implement consistency with mib file definition.\ndot1xAuthEapLengthErrorFramesRx.5\t.1.0.8802.1.1.1.1.2.2.1.10.5\tEapol length error packets\tCounter32\tread-only / Implement consistency with mib file definition.\ndot1xAuthLastEapolFrameVersion.5\t.1.0.8802.1.1.1.1.2.2.1.11.5\tThe latest Eapol message version\tUnsigned32\tread-only / Implement consistency with mib file definition.\ndot1xAuthLastEapolFrameSource.5\t.1.0.8802.1.1.1.1.2.2.1.12.5\tlatest Eapol message\tOCTET STRING\tread-only / Implement consistency with mib file definition.\nIP Information\n(IP-MIB.iso.org.dod.internet.mgmt.mib - 2.ip.ipAddressTable.ipAddressEntrys)\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\nipAddressAddrType.1.192.168.100.96\t.1.3.6.1.2.1.4.34.1.1.1.192.168.100.96\tIP address type\tINTEGER\tnot-accessible / Implement consistency with mib file definition.\nipAddressAddr.1.192.168.100.96\t.1.3.6.1.2.1.4.34.1.2.1.192.168.100.96\tIP address\tOCTET STRING\tnot-accessible / Implement consistency with mib file definition.\nipAddressIfIndex.1.192.168.100.96\t.1.3.6.1.2.1.4.34.1.3.1.192.168.100.96\tInterface internal index number\tINTEGER\tread-create / Only read operations are supported.\nipAddressType.1.192.168.100.96\t.1.3.6.1.2.1.4.34.1.4.1.192.168.100.96\taddress type\tINTEGER\tread-create / Only read operations are supported.\nipAddressPrefix.1.192.168.100.96\t.1.3.6.1.2.1.4.34.1.5.1.192.168.100.96\taddress mask, not supported here\tOID\tNot currently supported.\nipAddressOrigin.1.192.168.100.96\t.1.3.6.1.2.1.4.34.1.6.1.192.168.100.96\tsource of address\tINTEGER\tread-only / Implement consistency with mib file definition.\nipAddressStatus.1.192.168.100.96\t.1.3.6.1.2.1.4.34.1.7.1.192.168.100.96\taddress status\tINTEGER\tread-create / Only read operations are supported.\nipAddressCreated.1.192.168.100.96\t.1.3.6.1.2.1.4.34.1.8.1.192.168.100.96\tcreation time\tTimeTicks\tread-only / Implement consistency with mib file definition.\nipAddressLastChanged.1.192.168.100.96\t.1.3.6.1.2.1.4.34.1.9.1.192.168.100.96\tlast change time\tTimeTicks\tread-only / Implement consistency with mib file definition.\nipAddressRowStatus.1.192.168.100.96\t.1.3.6.1.2.1.4.34.1.10.1.192.168.100.96\tSNMP status\tINTEGER\tread-create / Read and write operations are supported, and only support set to destroy (6).\nipAddressStorageType.1.192.168.100.96\t.1.3.6.1.2.1.4.34.1.11.1.192.168.100.96\tstorage type\tINTEGER\tread-create / Only read operations are supported.\nNote: Since this MIB table does not support address mask configuration, the length of the IP address mask created through the MIB table is always 32. Care should be taken when using this MIB table to create IP addresses.\nARP Information\n(IP-MIB.iso.org.dod.internet.mgmt.mib - 2.ip.ipNetToPhysicalTable.ipNetToPhysicalEntry)\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\nipNetToPhysicalIfIndex.2100.1.192.168.100.106\t.1.3.6.1.2.1.4.35.1.1.2100.1.192.168.100.106\tPort index\tInteger32\tnot-accessible / Implement consistency with mib file definition.\nipNetToPhysicalAddressType.2100.1.192.168.100.106\t.1.3.6.1.2.1.4.35.1.2.2100.1.192.168.100.106\tIP address type\tINTEGER\tnot-accessible / Implement consistency with mib file definition.\nipNetToPhysicalAddress.2100.1.192.168.100.106\t.1.3.6.1.2.1.4.35.1.3.2100.1.192.168.100.106\tIP address\tOCTET STRING\tnot-accessible / Implement consistency with mib file definition.\nipNetToPhysicalPhysAddress.2100.1.192.168.100.106\t.1.3.6.1.2.1.4.35.1.4.2100.1.192.168.100.106\tMAC address\tOCTET STRING\tread-create / Only read operations are supported.\nipNetToPhysicalLastUpdated.2100.1.192.168.100.106\t.1.3.6.1.2.1.4.35.1.5.2100.1.192.168.100.106\tlast update timestamp\tTimeTicks\tread-only / Implement consistency with mib file definition.\nipNetToPhysicalType.2100.1.192.168.100.106\t.1.3.6.1.2.1.4.35.1.6.2100.1.192.168.100.106\tARP type\tINTEGER\tread-create / Only read operations are supported.\nipNetToPhysicalState.2100.1.192.168.100.106\t.1.3.6.1.2.1.4.35.1.7.2100.1.192.168.100.106\tARP status\tINTEGER\tread-only / Implement consistency with mib file definition.\nipNetToPhysicalRowStatus.2100.1.192.168.100.106\t.1.3.6.1.2.1.4.35.1.8.2100.1.192.168.100.106\tSNMP status\tINTEGER\tread-create / Only read operations are supported.\nRoute Information\n( IP- FORWARD - MIB.iso.org.dod.internet.mgmt.mib - 2.ip.ipForward.ipCidrRouteTable.ipCidrRouteEntry )\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\nipCidrRouteDest.2.0.2.0.255.255.255.0.0.1.1.1.4\t.1.3.6.1.2.1.4.24.4.1.1.2.0.2.0.255.255.255.0.0.1.1.1.4\ttarget address\tIpAddress\tread-only / Implement consistency with mib file definition.\nipCidrRouteMask.2.0.2.0.255.255.255.0.0.1.1.1.4\t.1.3.6.1.2.1.4.24.4.1.2.2.0.2.0.255.255.255.0.0.1.1.1.4\ttarget mask\tIpAddress\tread-only / Implement consistency with mib file definition.\nipCidrRouteNextHop.2.0.2.0.255.255.255.0.0.1.1.1.4\t.1.3.6.1.2.1.4.24.4.1.4.2.0.2.0.255.255.255.0.0.1.1.1.4\tnext hop address\tIpAddress\tread-only / Implement consistency with mib file definition.\nipCidrRouteIfIndex.2.0.2.0.255.255.255.0.0.1.1.1.4\t.1.3.6.1.2.1.4.24.4.1.5.2.0.2.0.255.255.255.0.0.1.1.1.4\tinterface index\tInteger32\tread-create / Only read operations are supported.\nipCidrRouteType.2.0.2.0.255.255.255.0.0.1.1.1.4\t.1.3.6.1.2.1.4.24.4.1.6.2.0.2.0.255.255.255.0.0.1.1.1.4\trouting type\tINTEGER\tread-create / Only read operations are supported.\nipCidrRouteProto.2.0.2.0.255.255.255.0.0.1.1.1.4\t.1.3.6.1.2.1.4.24.4.1.7.2.0.2.0.255.255.255.0.0.1.1.1.4\tRouting Protocol\tINTEGER\tread-only / Implement consistency with mib file definition.\nipCidrRouteAge.2.0.2.0.255.255.255.0.0.1.1.1.4\t.1.3.6.1.2.1.4.24.4.1.8.2.0.2.0.255.255.255.0.0.1.1.1.4\tTimestamp since last update\tInteger32\tread-only / Implement consistency with mib file definition.\nipCidrRouteInfo.2.0.2.0.255.255.255.0.0.1.1.1.4\t.1.3.6.1.2.1.4.24.4.1.9.2.0.2.0.255.255.255.0.0.1.1.1.4\tRouting protocol OID, not supported here\tOBJECT IDENTIFIER\tNot currently supported.\nipCidrRouteMetric1.2.0.2.0.255.255.255.0.0.1.1.1.4\t.1.3.6.1.2.1.4.24.4.1.11.2.0.2.0.255.255.255.0.0.1.1.1.4\tRouting metric value\tInteger32\tread-create / Only read operations are supported.\nipCidrRouteStatus.2.0.2.0.255.255.255.0.0.1.1.1.4\t.1.3.6.1.2.1.4.24.4.1.16.2.0.2.0.255.255.255.0.0.1.1.1.4 _\tSNMP status\tINTEGER\tread-create / Implement consistency with mib file definition.\nTCP Information\n(TCP-MIB. iso.org.dod.internet.mgmt.mib-2.tcp.tcpConnTable)\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\ntcpConnState\t1.3.6.1.2.1.6.13.1.1\tTCP connection status\tINTEGER\tread-write / Only read operations are supported.\ntcpConnLocalAddress\t1.3.6.1.2.1.6.13.1.2\tLocal IP address of the TCP connection\tIpAddress\tread-only / Implement consistency with mib file definition.\ntcpConnLocalPort\t1.3.6.1.2.1.6.13.1.3\tThe local port on which the TCP connection listens\tInteger32\tread-only / Implement consistency with mib file definition.\ntcpConnRemAddress\t1.3.6.1.2.1.6.13.1.4\tRemote IP address of the TCP connection\tIpAddress\tread-only / Implement consistency with mib file definition.\ntcpConnRemPort\t1.3.6.1.2.1.6.13.1.5\tRemote port number of the TCP connection\tInteger32\tread-only / Implement consistency with mib file definition.\n(IPV6-TCP-MIB. iso.org.dod.internet.mgmt.mib-2.tcp.ipv6TcpConnTable)\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\nipv6TcpConnLocalAddress\t1.3.6.1.2.1.6.16.1.1\tLocal IPv6 address of the TCP connection\tOCTET STRING\tnot-accessible / Implement consistency with mib file definition.\nipv6TcpConnLocalPort\t1.3.6.1.2.1.6.16.1.2\tLocal port number of the TCP connection\tINTEGER\tnot-accessible / Implement consistency with mib file definition.\nipv6TcpConnRemAddress\t1.3.6.1.2.1.6.16.1.3\tIPv6 address of the peer end of the TCP connection\tOCTET STRING\tnot-accessible / Implement consistency with mib file definition.\nipv6TcpConnRemPort\t1.3.6.1.2.1.6.16.1.4\tPort number of the peer end of the TCP connection\tINTEGER\tnot-accessible / Implement consistency with mib file definition.\nipv6TcpConnIfIndex\t1.3.6.1.2.1.6.16.1.5\tInterface index of the TCP connection\tInteger32\tnot-accessible / Implement consistency with mib file definition.\nipv6TcpConnState\t1.3.6.1.2.1.6.16.1.6\tStatus of the TCP connection\tINTEGER\tread-write / Only read operations are supported.\n(TCP-MIB. iso.org.dod.internet.mgmt.mib-2.tcp.tcpConnectionTable)\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\ntcpConnectionLocalAddressType\t1.3.6.1.2.1.6.19.1.1\tLocal IP address type of the TCP connection\tINTEGER\tnot-accessible / Implement consistency with mib file definition.\ntcpConnectionLocalAddress\t1.3.6.1.2.1.6.19.1.2\tLocal IP address of the TCP connection\tOCTET STRING\tnot-accessible / Implement consistency with mib file definition.\ntcpConnectionLocalPort\t1.3.6.1.2.1.6.19.1.3\tThe local port on which the TCP connection listens\tUnsigned32\tnot-accessible / Implement consistency with mib file definition.\ntcpConnectionRemAddressType\t1.3.6.1.2.1.6.19.1.4\tRemote IP address type of the TCP connection\tINTEGER\tnot-accessible / Implement consistency with mib file definition.\ntcpConnectionRemAddress\t1.3.6.1.2.1.6.19.1.5\tRemote IP address of the TCP connection\tOCTET STRING\tnot-accessible / Implement consistency with mib file definition.\ntcpConnectionRemPort\t1.3.6.1.2.1.6.19.1.6\tRemote port number of the TCP connection\tUnsigned32\tnot-accessible / Implement consistency with mib file definition.\ntcpConnectionState\t1.3.6.1.2.1.6.19.1.7\tTCP connection status\tINTEGER\tread-write / Only read operations are supported.\ntcpConnectionProcess\t1.3.6.1.2.1.6.19.1.8\tProcess the TASK ID of a TCP connection\tUnsigned32\tread-only / Implement consistency with mib file definition.\n(TCP-MIB. iso.org.dod.internet.mgmt.mib-2.tcp.tcpListenerTable)\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\ntcpListenerLocalAddressType\t1.3.6.1.2.1.6.20.1.1\tLocal IP address type of the TCP connection\tINTEGER\tnot-accessible / Implement consistency with mib file definition.\ntcpListenerLocalAddress\t1.3.6.1.2.1.6.20.1.2\tLocal IP address of the TCP connection\tOCTET STRING\tnot-accessible / Implement consistency with mib file definition.\ntcpListenerLocalPort\t1.3.6.1.2.1.6.20.1.3\tThe local port on which the TCP connection listens\tUnsigned32\tnot-accessible / Implement consistency with mib file definition.\ntcpListenerProcess\t1.3.6.1.2.1.6.20.1.4\tSystem process number\tUnsigned32\tread-only / Implement consistency with mib file definition.\nUDP Information\n(UDP-MIB. iso.org.dod.internet.mgmt.mib-2.udp.udpTable)\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\nudpLocalAddress\t1.3.6.1.2.1.7.5.1.1\tLocal IP address of a UDP listening endpoint\tIpAddress\tread-only / Implement consistency with mib file definition.\nudpLocalPort\t1.3.6.1.2.1.7.5.1.2\tLocal port number of the UDP listening endpoint\tInteger32\tread-only / Implement consistency with mib file definition.\n(IPV6-UDP-MIB. iso.org.dod.internet.mgmt.mib-2.udp.ipv6UdpTable)\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\nipv6UdpLocalAddress\t1.3.6.1.2.1.7.6.1.1\tLocal IPv6 address listened by UDP\tOCTET STRING\tnot-accessible / Implement consistency with mib file definition.\nipv6UdpLocalPort\t1.3.6.1.2.1.7.6.1.2\tNumber of the local port monitored by UDP\tINTEGER\tnot-accessible / Implement consistency with mib file definition.\nipv6UdpIfIndex\t1.3.6.1.2.1.7.6.1.3\tIndicates the index of the UDP listening interface\tInteger32\tread-only / Implement consistency with mib file definition.\n(UDP-MIB. iso.org.dod.internet.mgmt.mib-2.udp.udpEndpointTable)\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\nudpEndpointLocalAddressType\t1.3.6.1.2.1.7.7.1.1\tType of the local IP address monitored by UDP\tINTEGER\tnot-accessible / Implement consistency with mib file definition.\nudpEndpointLocalAddress\t1.3.6.1.2.1.7.7.1.2\tThe local IP address on which UDP listens\tOCTET STRING\tnot-accessible / Implement consistency with mib file definition.\nudpEndpointLocalPort\t1.3.6.1.2.1.7.7.1.3\tLocal port number of the UDP node\tUnsigned32\tnot-accessible / Implement consistency with mib file definition.\nudpEndpointRemoteAddressType\t1.3.6.1.2.1.7.7.1.4\tType of the remote IP address monitored by UDP\tINTEGER\tnot-accessible / Implement consistency with mib file definition.\nudpEndpointRemoteAddress\t1.3.6.1.2.1.7.7.1.5\tThe local address of UDP\tOCTET STRING\tnot-accessible / Implement consistency with mib file definition.\nudpEndpointRemotePort\t1.3.6.1.2.1.7.7.1.6\tRemote port number of the UDP node\tUnsigned32\tnot-accessible / Implement consistency with mib file definition.\nudpEndpointInstance\t1.3.6.1.2.1.7.7.1.7\tThe instance number field of the UDP connection\tUnsigned32\tnot-accessible / Implement consistency with mib file definition.\nudpEndpointProcess\t1.3.6.1.2.1.7.7.1.8\tSystem process number\tUnsigned32\tread-only / Implement consistency with mib file definition.\nPrivate Node Support\nSystem Information\n(NMS-SYS-MIB iso.org.dod.internet.private.enterprises.nms.nmsModule.sys.sysModule)\nNode name\tOID\tNode description\tValue type\tMaximum access rights and implementation specifications\ncpuUtilized.0\t.1.3.6.1.4.1.OID.1.2.1.1.0\tCPU utilization\tInteger32\tread-only / Implement consistency with mib file definition.\nmemUtilized.0\t.1.3.6.1.4.1.OID.1.2.1.2.0\tMemory utilization\tInteger32\tread-only / Implement consistency with mib file definition.\ncpuIdle.0\t.1.3.6.1.4.1.OID.1.2.1.3.0\tCPU idle ratio\tInteger32\tread-only / Implement consistency with mib file definition.\nmemTotalReal.0\t.1.3.6.1.4.1.OID.1.2.1.4.0\tTotal memory, in KB\tInteger32\tread-only / Implement consistency with mib file definition.\nmemAvailReal.0\t.1.3.6.1.4.1.OID.1.2.1.5.0\tAvailable memory, in KB\tInteger32\tread-only / Implement consistency with mib file definition.\nSystem Operation\n(NMS-SYS-MIB.iso.org.dod.internet.private.enterprises.nms.nmsModule.sys.operations)\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\nconfigurationOper.0\t.1.3.6.1.4.1.OID.1.2.2.1.0\tConfiguration operations\tINTEGER { / save (1), / Empty (2), / default (3)}\tread-write / Implement consistency with mib file definition.\npowerOper.0\t.1.3.6.1.4.1.OID.1.2.2.2.0\tPower operation\tINTEGER { / On (1), / Off (2), / Reset (3)}\tread-write / Only supports set to reset (3).\nIOCTL\n(NMS-IOCTL- MIB. .iso.org.dod.internet.private.enterprises.nms.nmsModule.ioctl.ioctlconfTable)\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\nconfid.1\t.1.3.6.1.4.1.OID.1.4.3.1.1.1\tnode index\tGauge32 (1..255)\tread-only / Implement consistency with mib file definition.\nconfdirection.1\t.1.3.6.1.4.1.OID.1.4.3.1.2.1\tdirection\tINTEGER {input(1), / output(2)}\tread-create / Only read operations are supported.\nconflevel.1\t.1.3.6.1.4.1.OID.1.4.3.1.3.1\tlevel\tINTEGER {low(1), / high(2)}\tread-create / Read and write operations are supported.\nconfdescription.1\t.1.3.6.1.4.1.OID.1.4.3.1.4.1\tdescribe\tOCTET STRING\tread-create / Read and write operations are supported.\nconfRowStatus.1\t.1.3.6.1.4.1.OID.1.4.3.1.5.1\tRowStatus value\tINTEGER {active(1), / notReady(3), / createandWait(5), / destroy(6)}\tread-create / Only read operations are supported.\nPoE\n(NMS-POE- MIB.iso.org.dod.internet.private.enterprises.nms.nmsModule.poe.pseStateTable)\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\npseStateGroupIndex.1\t.1.3.6.1.4.1.OID.1.5.3.1.1.1\tgroup index\tInteger32\tread-only / Implement consistency with mib file definition.\npseStatePowerConsume.1\t.1.3.6.1.4.1.OID.1.5.3.1.2.1\tPower consumption, the unit is 0.1 watts\tInteger32\tread-only / Implement consistency with mib file definition.\npseStatePoweredPorts.1\t.1.3.6.1.4.1.OID.1.5.3.1.3.1\tThe current number of power supply ports\tInteger32\tread-only / Implement consistency with mib file definition.\npseStateReservedPower.1\t.1.3.6.1.4.1.OID.1.5.3.1.4.1\tThe percentage of the system to retain power\tInteger32\tread-write / Implement consistency with mib file definition.\npseStateTotalAvailablePower.1\t.1.3.6.1.4.1.OID.1.5.3.1.5.1\tAvailable power system, the unit of 0.1 watts\tInteger32\tread-only / Implement consistency with mib file definition.\n(NMS-POE- MIB.iso.org.dod.internet.private.enterprises.nms.nmsModule.poe.portStateTable)\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\nportStateGroupIndex.1.1\t.1.3.6.1.4.1.OID.1.5.4.1.1.1.1\tgroup index\tInteger32\tread-only / Implement consistency with mib file definition.\nportStateIndex.1.1\t.1.3.6.1.4.1.OID.1.5.4.1.2.1.1\tport index\tInteger32\tread-only / Implement consistency with mib file definition.\nportStateDesc.1.1\t.1.3.6.1.4.1.OID.1.5.4.1.3.1.1\tport description\tOCTET STRING\tread-only / Implement consistency with mib file definition.\nportStateIcut.1.1\t.1.3.6.1.4.1.OID.1.5.4.1.4.1.1\tThe current current of the port, the unit is 0.1mA\tInteger32\tread-only / Implement consistency with mib file definition.\nportStatePower.1.1\t.1.3.6.1.4.1.OID.1.5.4.1.5.1.1\tCurrent power port, the unit of 0.1 watts\tInteger32\tread-only / Implement consistency with mib file definition.\nportStateVoltage.1.1\t.1.3.6.1.4.1.OID.1.5.4.1.6.1.1\tThe current voltage of the port, the unit is 0.1 volts\tInteger32\tread-only / Implement consistency with mib file definition.\nportStateMaximumPower.1.1\t.1.3.6.1.4.1.OID.1.5.4.1.7.1.1\tPort maximum power, the unit for watts\tInteger32\tread-write / Implement consistency with mib file definition.\nportStateLegacy.1.1\t.1.3.6.1.4.1.OID.1.5.4.1.8.1.1\tWhether the compatibility check is enabled\tINTEGER\tread-write / Implement consistency with mib file definition.\nportStatePowerSupplyMode.1.1\t.1.3.6.1.4.1.OID.1.5.4.1.9.1.1\tPort power supply mode\tINTEGER\tread-only / Implement consistency with mib file definition.\nLoop Detect\n(NMS-LDET-MIB ldetPortTable!@#.iso.org.dod.internet.private.enterprises.nms.nmsModule.ldet.ldetGlobalModule)\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\nldetGlobalEnabled.0\t.1.3.6.1.4.1.OID.1.6.1.1.0\tThe enable state of the global loop detection\tINTEGER {enabled(1), / disabled(2)}\tread-write / Implement consistency with mib file definition.\nldetGlobalInterval.0\t.1.3.6.1.4.1.OID.1.6.1.2.0\tThe interval between sending loop detection packets\tInteger32 (5..300)\tread-write / Implement consistency with mib file definition.\n(NMS-LDET-MIB ldetPortTable!@#.iso.org.dod.internet.private.enterprises.nms.nmsModule.ldet.ldetPortTable)\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\nldetPortifIndex.1\t.1.3.6.1.4.1.OID.1.6.4.1.1.1\tPort index\tInteger32\tnot-accessible / Implement consistency with mib file definition.\nldetPortEnabled.1\t.1.3.6.1.4.1.OID.1.6.4.1.2.1\tEnable state of port loop detection\tINTEGER {enabled(1), / disabled(2)}\tread-write / Implement consistency with mib file definition.\nldetPortAction.1\t.1.3.6.1.4.1.OID.1.6.4.1.4.1\tPort processing mode\tINTEGER {alarm (1), / down(2)}\tread-write / Implement consistency with mib file definition.\nldetPortStatus.1\t.1.3.6.1.4.1.OID.1.6.4.1.5.1\tPort status\tINTEGER {normal(0), / alarm(1), / down(2)}\tread-only / Implement consistency with mib file definition.\nPower Information\n(NMS-SYS-MIB powerTable!@#.iso.org.dod.internet.private.enterprises.nms.nmsModule.sys.powerTable)\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\npowerIndex.1\t.1.3.6.1.4.1.OID.1.2.3.1.1.1\tPower index\tGauge32 (1..100)\taccessible-for-notify / Implement consistency with mib file definition.\npowerType.1\t.1.3.6.1.4.1.OID.1.2.3.1.2.1\tPower type\tINTEGER {unknown(0), / ac(1), / dc(2)}\tread-only / Implement consistency with mib file definition.\npowerState.1\t.1.3.6.1.4.1.OID.1.2.3.1.3.1\tPower state\tINTEGER {on(1), / off(2)}\tread-create / Only read operations are supported.\npowerVoltage.1\t.1.3.6.1.4.1.OID.1.2.3.1.4.1\tPower voltage\tInteger32\tread-create / Only read operations are supported.\nCable Detect\n(NMS-CABLE-DIAG-\nMIB.iso.org.dod.internet.private.enterprises.nms.nmsModule.cableDiag.cableDiagTable)\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\ncableDiagPortIndex.1\t.1.3.6.1.4.1.OID.1.9.1.1.1.1\tIndex value of interface 1\tInteger (0..65535)\tread-only / Implement consistency with mib file definition.\ncableDiagPortType.1\t.1.3.6.1.4.1.OID.1.9.1.1.2.1\tThe port type of interface 1\tINTEGER { / fastEthernet (0), / gigaEthernet (1), / other (2)}\tread-only / Implement consistency with mib file definition.\ncableDiagLinkStatus.1\t.1.3.6.1.4.1.OID.1.9.1.1.3.1\tWorking status of interface 1\tINTEGER { / link-down (0), / link-up (1), / other (2)}\tread-only / Implement consistency with mib file definition.\ncableDiagPair1Status.1\t.1.3.6.1.4.1.OID.1.9.1.1.4.1\tPair 1 status of interface 1\tINTEGER { / Ok (0), / Open (1), / Short (2), / open-short (3), / crosstalk (4), / unknown (5), / count (6), / no-cable (7), / other (8)}\tread-only / Implement consistency with mib file definition.\ncableDiagPair2Status.1\t.1.3.6.1.4.1.OID.1.9.1.1.5.1\tPair 2 status of interface 1\tSame as cableDiagPair1Status\tread-only / Implement consistency with mib file definition.\ncableDiagPair3Status.1\t.1.3.6.1.4.1.OID.1.9.1.1.6.1\tPair 3 status of interface 1\tSame as cableDiagPair1Status\tread-only / Implement consistency with mib file definition.\ncableDiagPair4Status.1\t.1.3.6.1.4.1.OID.1.9.1.1.7.1\tPair 4 status of interface 1\tSame as cableDiagPair1Status\tread-only / Implement consistency with mib file definition.\ncableDiagPair1Length.1\t.1.3.6.1.4.1.OID.1.9.1.1.8.1\tPair 1 length of interface 1\tINTEGER\tread-only / Implement consistency with mib file definition.\ncableDiagPair2Length.1\t.1.3.6.1.4.1.OID.1.9.1.1.9.1\tPair 2 length of interface 1\tINTEGER\tread-only / Implement consistency with mib file definition.\ncableDiagPair3Length.1\t.1.3.6.1.4.1.OID.1.9.1.1.10.1\tPair 3 length of interface 1\tINTEGER\tread-only / Implement consistency with mib file definition.\ncableDiagPair4Length.1\t.1.3.6.1.4.1.OID.1.9.1.1.11.1\tPair 4 length of interface 1\tINTEGER\tread-only / Implement consistency with mib file definition.\ncableDiagAction.1\t.1.3.6.1.4.1.OID.1.9.1.1.12.1\tDetection status of interface 1\tINTEGER { / Action (1), / Processing (2), / Other (3)}\tread-write / Implement consistency with mib file definition.\ncableDiagStatus.1\t.1.3.6.1.4.1.OID.1.9.1.1.13.1\tDetection result for interface 1\tINTEGER { / not-run (1), / processing (2), / last-test-ok (3), / last-test-failed (4)}\tread-only / Implement consistency with mib file definition.\nPort Control\n(NMS-PORT-MIB .iso.org.dod.internet.private.enterprises.nms.nmsModule.pctrl.portControlTable)\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\nportControlIndex.1\t.1.3.6.1.4.1.OID.1.7.2.1.1.1\tIndex value of interface 1\tInteger32 (1..2147483647)\tread-only / Implement consistency with mib file definition.\nportControlAdminStatus.1\t.1.3.6.1.4.1.OID.1.7.2.1.2.1\tManagement status of interface 1\tINTEGER { / Up (1), / Down (2), / Testing (3)}\tread-write / Implement consistency with mib file definition.\nportControlOperStatus.1\t.1.3.6.1.4.1.OID.1.7.2.1.3.1\tActual status of interface 1\tINTEGER { / Up (1), / Down (2), / Testing (3), unknown (4), dormant (5), / Not Present (6), lowerLayerDown (7) }\tread-only / Implement consistency with mib file definition.\nportControlAdminSpeed.1\t.1.3.6.1.4.1.OID.1.7.2.1.4.1\tSet the speed of interface 1\tINTEGER { / Auto (0), / speed10Mb (1), / speed100Mb (2), / speed1000Mb (3), / unknown (4), / speed2500Mb (5), / speed10Gb (6), / speed25Gb (7), / speed40Gb (8), / speed100Gb (9)}\tread-write / Implement consistency with mib file definition.\nportControlAdminDuplex.1\t.1.3.6.1.4.1.OID.1.7.2.1.5.1\tSet the duplex of interface 1\tINTEGER { / Auto (0), / Full (1), / Half (2), / Unknown (3)}\tread-write / Implement consistency with mib file definition.\nportControlOperSpeed.1\t.1.3.6.1.4.1.OID.1.7.2.1.6.1\tActual speed of interface 1\tINTEGER { / Other (0), / speed10Mb (1), / speed100Mb (2), / speed1000Mb (3), / unknown (4), / speed2500Mb (5), / speed10Gb (6), / speed25Gb (7), / speed40Gb (8), / speed100Gb (9) }\tread-only / Implement consistency with mib file definition.\nportControlOperDuplex.1\t.1.3.6.1.4.1.OID.1.7.2.1.7.1\tActual duplex of interface 1\tINTEGER { / full(1), / half(2), / unknown(3)}\tread-only / Implement consistency with mib file definition.\nportControlNegotiation.1\t.1.3.6.1.4.1.OID.1.7.2.1.8.1\tAuto-negotiation of interface 1\tINTEGER { / enabled(1), disabled(2)}\tread-write / Implement consistency with mib file definition.\nportControlFlowControl.1\t.1.3.6.1.4.1.OID.1.7.2.1.9.1\tSet the flow control of interface 1\tINTEGER { / on(1), / off(2), / unknown(3)}\tread-write / Implement consistency with mib file definition.\nportControlMtu.1\t.1.3.6.1.4.1.OID.1.7.2.1.10.1\tSet the MTU of interface 1\tInteger32 (46..10222)\tread-write / Implement consistency with mib file definition.\nportControlComboType.1\t.1.3.6.1.4.1.OID.1.7.2.1.11.1\tSet the combo mode of interface 1\tINTEGER { / copper(1), / fiber(2), / other(3), / auto-copper(4), / auto-fiber(5)}\tread-write / Implement consistency with mib file definition.\nportControlPortMode.1\t.1.3.6.1.4.1.OID.1.7.2.1.12.1\tActual combo mode of interface 1\tINTEGER { / copper(1), / fiber(2), / other(3)}\tread-only / Implement consistency with mib file definition.\nOptical Information\n(NMS-OPTICAL-\nMIB.iso.org.dod.internet.private.enterprises.nms.nmsModule.optical.opticalModuleInfoTable)\nNode name\tOIDs\tNode description\tValue type\tMaximum access rights and implementation specifications\nopticalPortIndex.1\t.1.3.6.1.4.1.OID.1.8.2.1.1.1\tPort index\tINTEGER (0..65535)\tread-only / Implement consistency with mib file definition.\nopticalTransceiverType.1\t.1.3.6.1.4.1.OID.1.8.2.1.2.1\tOptical module type\tOCTET STRING (SIZE (0..32))\tread-only / Implement consistency with mib file definition.\nopticalConnectType.1\t.1.3.6.1.4.1.OID.1.8.2.1.3.1\tOptical module connector type\tOCTET STRING (SIZE (0..16))\tread-only / Implement consistency with mib file definition.\nopticalWaveLength.1\t.1.3.6.1.4.1.OID.1.8.2.1.4.1\tWavelength of the optical module, unit: nm\tInteger32\tread-only / Implement consistency with mib file definition.\nopticalVendorName.1\t.1.3.6.1.4.1.OID.1.8.2.1.5.1\tThe manufacturer name of the optical module\tOCTET STRING (SIZE (0..64))\tread-only / Implement consistency with mib file definition.\nopticalSerialNumber.1\t.1.3.6.1.4.1.OID.1.8.2.1.6.1\tSerial number of the optical module\tOCTET STRING (SIZE (0..32))\tread-only / Implement consistency with mib file definition.\nopticalPartNumber.1\t.1.3.6.1.4.1.OID.1.8.2.1.7.1\tManufacturer's part number\tOCTET STRING (SIZE (0..32))\tread-only / Implement consistency with mib file definition.\nopticalTransferDistance.1\t.1.3.6.1.4.1.OID.1.8.2.1.8.1\tTransmission distance of optical module, unit: km\tInteger32\tread-only / Implement consistency with mib file definition.\nopticalSupportDDM.1\t.1.3.6.1.4.1.OID.1.8.2.1.9.1\tWhether the optical module supports DDM\tINTEGER {support(1), / not Support (2)}\tread-only / Implement consistency with mib file definition.\nopticalTemperature.1\t.1.3.6.1.4.1.OID.1.8.2.1.10.1\tOptical module temperature, unit: °C\tInteger32\tread-only / Implement consistency with mib file definition.\nopticalVoltage.1\t.1.3.6.1.4.1.OID.1.8.2.1.11.1\tOptical module voltage, unit: 0.01V\tInteger32\tread-only / Implement consistency with mib file definition.\nopticalBiasCurrent.1\t.1.3.6.1.4.1.OID.1.8.2.1.12.1\tBias current of optical module, unit: 0.01mA\tInteger32\tread-only / Implement consistency with mib file definition.\nopticalRxPower.1\t.1.3.6.1.4.1.OID.1.8.2.1.13.1\tReceived power of optical module, unit: 0.01dBm\tInteger32\tread-only / Implement consistency with mib file definition.\nopticalTxPower.1\t.1.3.6.1.4.1.OID.1.8.2.1.14.1\tTransmission power of optical module, unit: 0.01dBm\tInteger32\tread-only / Implement consistency with mib file definition.\nopticalTempHiAlarm.1\t.1.3.6.1.4.1.OID.1.8.2.1.15.1\tAlarm threshold of high temperature of optical module\tInteger32 / (-255..255)\tread-write / Implement consistency with mib file definition.\nopticalTempHiWarn.1\t.1.3.6.1.4.1.OID.1.8.2.1.16.1\tWarning threshold of high temperature of optical module\tInteger32 / (-255..255)\tread-write / Implement consistency with mib file definition.\nopticalTempLoWarn.1\t.1.3.6.1.4.1.OID.1.8.2.1.17.1\tWarning threshold of low temperature of optical module\tInteger32 / (-255..255)\tread-write / Implement consistency with mib file definition.\nopticalTempLoAlarm.1\t.1.3.6.1.4.1.OID.1.8.2.1.18.1\tAlarm threshold of low temperature of optical module\tInteger32 / (-255..255)\tread-write / Implement consistency with mib file definition.\nopticalVoltHiAlarm.1\t.1.3.6.1.4.1.OID.1.8.2.1.19.1\tAlarm threshold of high voltage of optical module\tInteger32 / (0..500)\tread-write / Implement consistency with mib file definition.\nopticalVoltHiWarn.1\t.1.3.6.1.4.1.OID.1.8.2.1.20.1\tWarning threshold of high voltage of optical module\tInteger32 / (0..500)\tread-write / Implement consistency with mib file definition.\nopticalVoltLoWarn.1\t.1.3.6.1.4.1.OID.1.8.2.1.21.1\tWarning threshold of low voltage of optical module\tInteger32 / (0..500)\tread-write / Implement consistency with mib file definition.\nopticalVoltLoAlarm.1\t.1.3.6.1.4.1.OID.1.8.2.1.22.1\tAlarm threshold of low voltage of optical module\tInteger32 / (0..500)\tread-write / Implement consistency with mib file definition.\nopticalBiasHiAlarm.1\t.1.3.6.1.4.1.OID.1.8.2.1.23.1\tAlarm threshold of high current of optical module\tInteger32 / (0..50000)\tread-write / Implement consistency with mib file definition.\nopticalBiasHiWarn.1\t.1.3.6.1.4.1.OID.1.8.2.1.24.1\tWarning threshold of high current of optical module\tInteger32 / (0..50000)\tread-write / Implement consistency with mib file definition.\nopticalBiasLoWarn.1\t.1.3.6.1.4.1.OID.1.8.2.1.25.1\tWarning threshold of low current of optical module\tInteger32 / (0..50000)\tread-write / Implement consistency with mib file definition.\nopticalBiasLoAlarm.1\t.1.3.6.1.4.1.OID.1.8.2.1.26.1\tAlarm threshold of low current of optical module\tInteger32 / (0..50000)\tread-write / Implement consistency with mib file definition.\nopticalRxHiAlarm.1\t.1.3.6.1.4.1.OID.1.8.2.1.27.1\tAlarm threshold of high received power of optical module\tInteger32 / (-4000..1000)\tread-write / Implement consistency with mib file definition.\nopticalRxHiWarn.1\t.1.3.6.1.4.1.OID.1.8.2.1.28.1\tWarning threshold of high received power of optical module\tInteger32 / (-4000..1000)\tread-write / Implement consistency with mib file definition.\nopticalRxLoWarn.1\t.1.3.6.1.4.1.OID.1.8.2.1.29.1\tWarning threshold of low received power of optical module\tInteger32 / (-4000..1000)\tread-write / Implement consistency with mib file definition.\nopticalRxLoAlarm.1\t.1.3.6.1.4.1.OID.1.8.2.1.30.1\tAlarm threshold of low received power of optical module\tInteger32 / (-4000..1000)\tread-write / Implement consistency with mib file definition.\nopticalTxHiAlarm.1\t.1.3.6.1.4.1.OID.1.8.2.1.31.1\tAlarm threshold of high transmission power of optical module\tInteger32 / (-4000..1000)\tread-write / Implement consistency with mib file definition.\nopticalTxHiWarn.1\t.1.3.6.1.4.1.OID.1.8.2.1.32.1\tWarning threshold of high transmission power of optical module\tInteger32 / (-4000..1000)\tread-write / Implement consistency with mib file definition.\nopticalTxLoWarn.1\t.1.3.6.1.4.1.OID.1.8.2.1.33.1\tWarning threshold of low transmission power of optical module\tInteger32 / (-4000..1000)\tread-write / Implement consistency with mib file definition.\nopticalTxLoAlarm.1\t.1.3.6.1.4.1.OID.1.8.2.1.34.1\tAlarm threshold of low transmission power of optical module\tInteger32 / (-4000..1000)\tread-write / Implement consistency with mib file definition.\nTrap Notice\nNode name\tOIDs\tNode description\tfield\tMaximum access rights and implementation specifications\ncoldStart\t.1.3.6.1.6.3.1.1.5.1\tSystem cold start\tnone\t\nwarmStart\t.1.3.6.1.6.3.1.1.5.2\tSystem warm boot\tnone\t\nlinkDown\t.1.3.6.1.6.3.1.1.5.3\tport down\tifIndex, ifAdminStatus, ifOperStatus\t\nlinkUp\t.1.3.6.1.6.3.1.1.5.4\tport up\tifIndex, ifAdminStatus, ifOperStatus\t\ndot3OamNonThresholdEvent\t.1.3.6.1.2.1.158.0.2\tPower down alarm\tdot3OamEventLogTimestamp, dot3OamEventLogOui, dot3OamEventLogType, dot3OamEventLogLocation, dot3OamEventLogEventTotal\t\npethPsePortOnOffNotification\t.1.3.6.1.2.1.105.0.1\tPoE port power supply status changes\tpethPsePortDetectionStatus\t\npowerChange\t.1.3.6.1.4.1.OID.1.2.7.1\tPower state changes\tpowerIndex, powerType, powerState, powerVoltage\t\nbatteryLow\t.1.3.6.1.4.1.OID.1.2.7.2\tBattery low\tpowerIndex\t\nbatteryRecover\t.1.3.6.1.4.1.OID.1.2.7.3\tBattery recover\tpowerIndex\t\nloopDetect\t.1.3.6.1.4.1.OID.1.6.2.1\tLoop detected on a port\tifIndex\t\nloopRecover\t.1.3.6.1.4.1.OID.1.6.2.2\tLoop recovered on a port\tifIndex\t\nnewRoot\t.1.3.6.1.2.1.17.0.1\tNew root for stp\tnone\t\ntopologyChange\t.1.3.6.1.2.1.17.0.2\tTopology change for stp/rstp\tnone\t\nopticalModuleAlarmEvent\t.1.3.6.1.4.1.OID.1.8.7.1\tOptical module alarm\topticalAlarmIfIndex, / opticalAlarmInfo\t\nopticalModuleWarnEvent\t.1.3.6.1.4.1.OID.1.8.7.2\tOptical module warning\topticalAlarmIfIndex, / opticalAlarmInfo\t",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"MIBs for switches"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(Note: In the document, if there is an index after the Node name, it needs to be added to the OID and used together during operation;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":".1 of ifIndex .1 , the actual operation OID is .1.3.6.1.2.1.2.2.1.1.1 )"
+},
+{
+"t":"p",
+"s":"sdt",
+"text":"Table of contentsMIBs for switches11Public Node Support31.1System Message31.2Port Information51.3VLAN Information91.4MAC Address Table101.5LLDP Configuration Information111.6LLDP Neighbor Information121.7STP Information141.8PoE Information171.9802.1X Information191.10IP Information221.11ARP Information241.12Route Information251.13TCP Information261.14UDP Information292Private Node Support312.1System Information312.2System Operation312.3IOCTL322.4PoE322.5Loop Detect342.6Power Information352.7Cable Detect362.8Port Control372.9Optical Information403Trap Notice44"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"Public Node Support"
+},
+{
+"t":"h",
+"s":"Heading 3",
+"text":"System Message"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(SNMPv2-MIB.iso.org.dod.internet.mgmt.mib-2.system)"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"sysDescr",
+".1.3.6.1.2.1.1.1.0",
+"system descriptor",
+"OCTET STRING",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"sysObjectID",
+".1.3.6.1.2.1.1.2.0",
+"Vendor OID",
+"OBJECT IDENTIFIER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"sysUpTime",
+".1.3.6.1.2.1.1.3.0",
+"system startup time",
+"TimeTicks",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"sysContact",
+".1.3.6.1.2.1.1.4.0",
+"technical contact",
+"OCTET STRING",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"sysName",
+".1.3.6.1.2.1.1.5.0",
+"system name",
+"OCTET STRING",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"sysLocation",
+".1.3.6.1.2.1.1.6.0",
+"System location information",
+"OCTET STRING",
+"read-write / Implement consistency with mib file definition."
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(ENTITY-MIB.iso.org.dod.internet.mgmt.mib-2.entityMIB.entityMIBObjects.entityPhysical)"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"entPhysicalIndex.1",
+".1.3.6.1.2.1.47.1.1.1.1.1.1",
+"hardware entity index",
+"Integer32",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"entPhysicalDescr.1",
+".1.3.6.1.2.1.47.1.1.1.1.2.1",
+"hardware entity descriptor",
+"OCTET STRING",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"entPhysicalVendorType.1",
+".1.3.6.1.2.1.47.1.1.1.1.3.1",
+"Vendor OID",
+"OBJECT IDENTIFIER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"entPhysicalContainedIn.1",
+".1.3.6.1.2.1.47.1.1.1.1.4.1",
+"belongs to which entity",
+"Integer32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"entPhysicalClass.1",
+".1.3.6.1.2.1.47.1.1.1.1.5.1",
+"hardware type",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"entPhysicalParentRelPos.1",
+".1.3.6.1.2.1.47.1.1.1.1.6.1",
+"previous entity number",
+"Integer32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"entPhysicalName.1",
+".1.3.6.1.2.1.47.1.1.1.1.7.1",
+"entity name",
+"OCTET STRING",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"entPhysicalHardwareRev.1",
+".1.3.6.1.2.1.47.1.1.1.1.8.1",
+"hardware version number",
+"OCTET STRING",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"entPhysicalFirmwareRev.1",
+".1.3.6.1.2.1.47.1.1.1.1.9.1",
+"Firmware version number",
+"OCTET STRING",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"entPhysicalSoftwareRev.1",
+".1.3.6.1.2.1.47.1.1.1.1.10.1",
+"software version number",
+"OCTET STRING",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"entPhysicalSerialNum.1",
+".1.3.6.1.2.1.47.1.1.1.1.11.1",
+"serial number",
+"OCTET STRING",
+"read-write / Only read operations are supported."
+],
+[
+"entPhysicalMfgName.1",
+".1.3.6.1.2.1.47.1.1.1.1.12.1",
+"Trade Names",
+"OCTET STRING",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"entPhysicalModelName.1",
+".1.3.6.1.2.1.47.1.1.1.1.13.1",
+"Device model",
+"OCTET STRING",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"entPhysicalAlias.1",
+".1.3.6.1.2.1.47.1.1.1.1.14.1",
+"entity alias",
+"OCTET STRING",
+"read-write / Only read operations are supported"
+],
+[
+"entPhysicalAssetID.1",
+".1.3.6.1.2.1.47.1.1.1.1.15.1",
+"Entity ID",
+"OCTET STRING",
+"read-write / Only read operations are supported."
+],
+[
+"entPhysicalIsFRU.1",
+".1.3.6.1.2.1.47.1.1.1.1.16.1",
+"Whether to support FRU",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"entPhysicalMfgDate.1",
+".1.3.6.1.2.1.47.1.1.1.1.17.1",
+"Production Date",
+"OCTET STRING",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"entPhysicalUris.1",
+".1.3.6.1.2.1.47.1.1.1.1.18.1",
+"resource descriptor",
+"OCTET STRING",
+"read-write / Only read operations are supported."
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 3",
+"text":"Port Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(IF-MIB.iso.org.dod.internet.mgmt.mib -2.interfaces.ifTable.ifEntry)"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"ifNumber",
+".1.3.6.1.2.1.2.1.0",
+"Number of ports",
+"Integer32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifIndex.1",
+".1.3.6.1.2.1.2.2.1.1",
+"Index value of interface 1",
+"Integer32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifDescr.1",
+".1.3.6.1.2.1.2.2.1.2",
+"Descriptor for interface 1",
+"OCTET STRING",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifType.1",
+".1.3.6.1.2.1.2.2.1.3",
+"Type of interface 1",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifMtu.1",
+".1.3.6.1.2.1.2.2.1.4",
+"MTU of interface 1",
+"Integer32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifSpeed.1",
+".1.3.6.1.2.1.2.2.1.5",
+"Interface 1 rate",
+"Gauge32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifPhysAddress.1",
+".1.3.6.1.2.1.2.2.1.6",
+"MAC address of interface 1",
+"OCTET STRING",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifAdminStatus.1",
+".1.3.6.1.2.1.2.2.1.7",
+"Management state of interface 1",
+"INTEGER",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"ifOperStatus.1",
+".1.3.6.1.2.1.2.2.1.8",
+"Actual state of interface 1",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifLastChange.1",
+".1.3.6.1.2.1.2.2.1.9",
+"Time of the last status change of interface 1",
+"TimeTicks",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifInOctets.1",
+".1.3.6.1.2.1.2.2.1.10",
+"Number of bytes received by interface 1",
+"Counter32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifInUcastPkts.1",
+".1.3.6.1.2.1.2.2.1.11",
+"Number of unicast packets received by interface 1",
+"Counter32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifInNUcastPkts.1",
+".1.3.6.1.2.1.2.2.1.12",
+"Number of non-unicast packets received by interface 1",
+"Counter32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifInDiscards.1",
+".1.3.6.1.2.1.2.2.1.13",
+"Number of discarded packets received by interface 1",
+"Counter32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifInErrors.1",
+".1.3.6.1.2.1.2.2.1.14",
+"Number of error packets received by interface 1",
+"Counter32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifInUnknownProtos.1",
+".1.3.6.1.2.1.2.2.1.15",
+"Number of unknown packets received by interface 1",
+"Counter32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifOutOctets.1",
+".1.3.6.1.2.1.2.2.1.16",
+"Number of bytes sent by interface 1",
+"Counter32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifOutUcastPkts.1",
+".1.3.6.1.2.1.2.2.1.17",
+"Number of unicast packets sent by interface 1",
+"Counter32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifOutNUcastPkts.1",
+".1.3.6.1.2.1.2.2.1.18",
+"Number of non-unicast packets sent by interface 1",
+"Counter32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifOutDiscards.1",
+".1.3.6.1.2.1.2.2.1.19",
+"Number of lost packets sent by interface 1",
+"Counter32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifOutErrors.1",
+".1.3.6.1.2.1.2.2.1.20",
+"error packets sent by interface 1",
+"Counter32",
+"read-only / Implement consistency with mib file definition."
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(IF-MIB.iso.org.dod.internet.mgmt.mib -2.ifMIB.ifMIBObjects.ifXTable.ifXEntry)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support 64-bit statistics to avoid data crossing or flipping; Note: SNMP V2 C version only supports 64-bit data ."
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"ifName.1",
+".1.3.6.1.2.1.31.1.1.1.1.1",
+"interface name",
+"OCTET STRING",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifInMulticastPkts.1",
+".1.3.6.1.2.1.31.1.1.1.2.1",
+"Number of received multicast packets",
+"Counter32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifInBroadcastPkts.1",
+".1.3.6.1.2.1.31.1.1.1.3.1",
+"The number of received broadcast packets",
+"Counter32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifOutMulticastPkts.1",
+".1.3.6.1.2.1.31.1.1.1.4.1",
+"Number of multicast packets sent",
+"Counter32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifOutBroadcastPkts.1",
+".1.3.6.1.2.1.31.1.1.1.5.1",
+"Number of broadcast packets sent",
+"Counter32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifHCInOctets.1",
+".1.3.6.1.2.1.31.1.1.1.6.1",
+"received bytes",
+"Counter64",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifHCInUcastPkts.1",
+".1.3.6.1.2.1.31.1.1.1.7.1",
+"received unicast packets",
+"Counter64",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifHCInMulticastPkts.1",
+".1.3.6.1.2.1.31.1.1.1.8.1",
+"Number of received multicast packets",
+"Counter64",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifHCInBroadcastPkts.1",
+".1.3.6.1.2.1.31.1.1.1.9.1",
+"The number of received broadcast packets",
+"Counter64",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifHCOutOctets.1",
+".1.3.6.1.2.1.31.1.1.1.10.1",
+"send bytes",
+"Counter64",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifHCOutUcastPkts.1",
+".1.3.6.1.2.1.31.1.1.1.11.1",
+"Number of unicast packets sent",
+"Counter64",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifHCOutMulticastPkts.1",
+".1.3.6.1.2.1.31.1.1.1.12.1",
+"Number of multicast packets sent",
+"Counter64",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifHCOutBroadcastPkts.1",
+".1.3.6.1.2.1.31.1.1.1.13.1",
+"Number of broadcast packets sent",
+"Counter64",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifLinkUpDownTrapEnable.1",
+".1.3.6.1.2.1.31.1.1.1.14.1",
+"Link notification enable",
+"INTEGER",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"ifHighSpeed.1",
+".1.3.6.1.2.1.31.1.1.1.15.1",
+"port speed",
+"Gauge32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifPromiscuousMode.1",
+".1.3.6.1.2.1.31.1.1.1.16.1",
+"promiscuous mode",
+"INTEGER",
+"read-write / Only read operations are supported."
+],
+[
+"ifConnectorPresent.1",
+".1.3.6.1.2.1.31.1.1.1.17.1",
+"Is it connected",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ifAlias.1",
+".1.3.6.1.2.1.31.1.1.1.18.1",
+"alias",
+"OCTET STRING",
+"read-write / Implement consistency with mib file definition."
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 3",
+"text":"VLAN Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(Q-BRIDGE - MIB.iso.org.dod.internet.mgmt.mib -2.dot1dBridge.qBridgeMIB.qBridgeMIBObjects.dot1qVlan.dot1qVlanStaticTable.dot1qVlanStaticEntry)"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"dot1qVlanStaticName.1",
+".1.3.6.1.2.1.17.7.1.4.3.1.1",
+"Name of VLAN 1",
+"OCTET STRING",
+"read-create / Read and write operations are supported."
+],
+[
+"dot1qVlanStaticEgressPorts.1",
+".1.3.6.1.2.1.17.7.1.4.3.1.2",
+"Quasi-outbound port of VLAN 1",
+"OCTET STRING",
+"read-create / Implement consistency with mib file definition."
+],
+[
+"dot1qVlanForbiddenEgressPorts.1",
+".1.3.6.1.2.1.17.7.1.4.3.1.3",
+"Prohibited outgoing ports of VLAN 1",
+"OCTET STRING",
+"read-create / Implement consistency with mib file definition."
+],
+[
+"dot1qVlanStaticUntaggedPorts.1",
+".1.3.6.1.2.1.17.7.1.4.3.1.4",
+"Untagged port of VLAN 1",
+"OCTET STRING",
+"read-create / Implement consistency with mib file definition."
+],
+[
+"dot1qVlanStaticRowStatus.1",
+".1.3.6.1.2.1.17.7.1.4.3.1.5",
+"Node status for VLAN 1",
+"INTEGER",
+"read-create / Implement consistency with mib file definition."
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 3",
+"text":"MAC Address Table"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(Name dot 1qTpFdbEntry!@#.iso.org.dod.internet.mgmt.mib-2.dot1dBridge.qBridgeMIB.qBridgeMIBObjects.dot1qTp.dot1qTpFdbTable.dot1qTpFdbEntry)"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"dot1qTpFdbAddress",
+".1.3.6.1.2.1.17.7.1.2.2.1.1",
+"Table index, the content is VLAN ID+MAC address",
+"OCTET STRING",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"dot1qTpFdbPort",
+".1.3.6.1.2.1.17.7.1.2.2.1.2",
+"Index of the interface where the MAC address resides",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1qTpFdbStatus",
+".1.3.6.1.2.1.17.7.1.2.2.1.3",
+"MAC address type",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 3",
+"text":"LLDP Configuration Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(LLDP-V2-MIB-200906080000Z.iso.org.ieee.standards-association-numbers-series-standards.lan-man-stds.ieee802dot1.ieee802dot1-1.lldpV2MIB.lldpV2Objects.lldpV2Configuration.lldpV2PortConfigTable.lldpConfigV2Port)"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"lldpV2PortConfigIfIndex",
+"1.3.111.2.802.1.1.13.1.1.8.1.1",
+"port index",
+"Integer32",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"lldpV2PortConfigDestAddressIndex",
+"1.3.111.2.802.1.1.13.1.1.8.1.2",
+"Port destination mac index value",
+"Unsigned32",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"lldpV2PortConfigAdminStatus",
+"1.3.111.2.802.1.1.13.1.1.8.1.3",
+"management status",
+"INTEGER",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"lldpV2PortConfigNotificationEnable",
+"1.3.111.2.802.1.1.13.1.1.8.1.4",
+"notification enable",
+"INTEGER",
+"read-write / Not currently supported."
+],
+[
+"lldpV2PortConfigTLVsTxEnable",
+"1.3.111.2.802.1.1.13.1.1.8.1.5",
+"TLV sending type",
+"BITS",
+"read-write / Only supports is set to 0x00."
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"lldpV2AddressTableIndex",
+".1.3.111.2.802.1.1.13.1.1.9.1.1",
+"table index",
+"Unsigned32",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"lldpV2DestMacAddress",
+".1.3.111.2.802.1.1.13.1.1.9.1.2",
+"MAC address | ",
+"OCTET STRING",
+"read-only / Implement consistency with mib file definition."
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 3",
+"text":"LLDP Neighbor Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(LLDP-V2-MIB-200906080000Z.iso.org.ieee.standards-association-numbers-series-standards.lan-man-stds.ieee802dot1.ieee802dot1-1.lldpV2MIB.lldpV2Objects.lldpV2LocalSystemData.lldpV2EntryPortTable.lldpV2Locorg .ieee.standards-association-numbers-series-standards.lan-man-stds.ieee802dot1.ieee802dot1-1.lldpV2MIB.lldpV2Objects.lldpV2RemoteSystemsData.lldpV2RemTable.lldpV2RemEntry)"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"lldpV2LocPortIfIndex",
+"1.3.111.2.802.1.1.13.1.3.7.1.1",
+"port index",
+"Integer32",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"lldpV2LocPortIdSubtype",
+"1.3.111.2.802.1.1.13.1.3.7.1.2",
+"port id type",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"lldpV2LocPortId",
+"1.3.111.2.802.1.1.13.1.3.7.1.3",
+"port id",
+"OCTET STRING",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"lldpV2LocPortDesc",
+"1.3.111.2.802.1.1.13.1.3.7.1.4",
+"port description",
+"OCTET STRING",
+"read-only / Implement consistency with mib file definition."
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"lldpV2RemTimeMark",
+"1.3.111.2.802.1.1.13.1.4.1.1.1",
+"local port index",
+"TimeTicks",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"lldpV2RemLocalIfIndex",
+"1.3.111.2.802.1.1.13.1.4.1.1.2",
+"local port index",
+"Integer32",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"lldpV2RemLocalDestMACAddress",
+"1.3.111.2.802.1.1.13.1.4.1.1.3",
+"Local destination MAC type",
+"Unsigned32",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"lldpV2RemIndex",
+"1.3.111.2.802.1.1.13.1.4.1.1.4 _",
+"neighbor index",
+"Unsigned32",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"lldpV2RemChassisIdSubtype",
+"1.3.111.2.802.1.1.13.1.4.1.1.5",
+"Neighbor Chassis Type",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"lldpV2RemChassisId",
+"1.3.111.2.802.1.1.13.1.4.1.1.6",
+"Neighbor Chassis Information",
+"OCTET STRING",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"lldpV2RemPortIdSubtype",
+"1.3.111.2.802.1.1.13.1.4.1.1.7",
+"Neighbor port ID type",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"lldpV2RemPortId",
+"1.3.111.2.802.1.1.13.1.4.1.1.8",
+"neighbor port ID",
+"OCTET STRING",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"lldpV2RemPortDesc",
+"1.3.111.2.802.1.1.13.1.4.1.1.9",
+"Neighbor port description",
+"OCTET STRING",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"lldpV2RemSysName",
+"1.3.111.2.802.1.1.13.1.4.1.1.10",
+"neighbor system name",
+"OCTET STRING",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"lldpV2RemSysDesc",
+"1.3.111.2.802.1.1.13.1.4.1.1.11",
+"Neighborhood System Description",
+"OCTET STRING",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"lldpV2RemSysCapSupported",
+"1.3.111.2.802.1.1.13.1.4.1.1.12",
+"Neighboring System Capability Range",
+"BITS",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"lldpV2RemSysCapEnabled",
+"1.3.111.2.802.1.1.13.1.4.1.1.13",
+"Enabling neighbor system capabilities",
+"BITS",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"lldpV2RemRemoteChanges",
+"1.3.111.2.802.1.1.13.1.4.1.1.14",
+"Neighborhood Change ID",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"lldpV2RemTooManyNeighbors",
+"1.3.111.2.802.1.1.13.1.4.1.1.15",
+"Too many neighbors flag",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 3",
+"text":"STP Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(RSTP-MIB iso.org.dod.internet.mgmt.mib-2.dot1dBridge.dot1dStp)"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"dot1dStpProtocolSpecification.0",
+"1.3.6.1.2.1.17.2.1",
+"",
+"INTEGER",
+"read-only / Read result is fixed ieee8021d(3)."
+],
+[
+"dot1dStpPriority.0",
+"1.3.6.1.2.1.17.2.2",
+"",
+"INTEGER",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"dot1dStpTimeSinceTopologyChange.0",
+"1.3.6.1.2.1.17.2.3",
+"",
+"TimeTicks",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1dStpTopChanges.0",
+"1.3.6.1.2.1.17.2.4",
+"",
+"Counter",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1dStpDesignatedRoot.0",
+"1.3.6.1.2.1.17.2.5",
+"",
+"OCTET STRING",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1dStpRootPort.0",
+"1.3.6.1.2.1.17.2.6",
+"",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1dStpRootPort.0",
+"1.3.6.1.2.1.17.2.7",
+"",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1dStpMaxAge.0",
+"1.3.6.1.2.1.17.2.8",
+"",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1dStpHelloTime.0",
+"1.3.6.1.2.1.17.2.9",
+"",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1dStpHoldTime.0",
+"1.3.6.1.2.1.17.2.10",
+"",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1dStpForwardDelay.0",
+"1.3.6.1.2.1.17.2.11",
+"",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1dStpBridgeMaxAge.0",
+"1.3.6.1.2.1.17.2.12",
+"",
+"INTEGER",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"dot1dStpBridgeHelloTime.0",
+"1.3.6.1.2.1.17.2.13",
+"",
+"INTEGER",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"dot1dStpBridgeForwardDelay.0",
+"1.3.6.1.2.1.17.2.14",
+"",
+"INTEGER",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"dot1dStpPort.1",
+"1.3.6.1.2.1.17.2.15.1.1",
+"",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1dStpPortPriority.1",
+"1.3.6.1.2.1.17.2.15.1.2",
+"",
+"INTEGER",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"dot1dStpPortState.1",
+"1.3.6.1.2.1.17.2.15.1.3",
+"",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1dStpPortEnable.1",
+"1.3.6.1.2.1.17.2.15.1.4",
+"",
+"INTEGER",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"dot1dStpPortPathCost.1",
+"1.3.6.1.2.1.17.2.15.1.5",
+"",
+"INTEGER",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"dot1dStpPortDesignatedRoot.1",
+"1.3.6.1.2.1.17.2.15.1.6",
+"",
+"OCTET STRING",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1dStpPortDesignatedCost.1",
+"1.3.6.1.2.1.17.2.15.1.7",
+"",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1dStpPortDesignatedBridge.1",
+"1.3.6.1.2.1.17.2.15.1.8",
+"",
+"OCTET STRING",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1dStpPortDesignatedPort.1",
+"1.3.6.1.2.1.17.2.15.1.9",
+"",
+"OCTET STRING",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1dStpPortForwardTransitions.1",
+"1.3.6.1.2.1.17.2.15.1.10",
+"",
+"Counter",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1dStpPortPathCost32.1",
+"1.3.6.1.2.1.17.2.15.1.11",
+"",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1dStpVersion.0",
+"1.3.6.1.2.1.17.2.16",
+"",
+"INTEGER",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"dot1dStpTxHoldCount.0",
+"1.3.6.1.2.1.17.2.17",
+"",
+"INTEGER",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"dot1dStpPortProtocolMigration.1",
+"1.3.6.1.2.1.17.2.19.1.1",
+"",
+"INTEGER",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"dot1dStpPortAdminEdgePort.1",
+"1.3.6.1.2.1.17.2.19.1.2",
+"",
+"INTEGER",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"dot1dStpPortOperEdgePort.1",
+"1.3.6.1.2.1.17.2.19.1.3",
+"",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1dStpPortAdminPointToPoint.1",
+"1.3.6.1.2.1.17.2.19.1.4",
+"",
+"INTEGER",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"dot1dStpPortOperPointToPoint.1",
+"1.3.6.1.2.1.17.2.19.1.5",
+"",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1dStpPortAdminPathCost.1",
+"1.3.6.1.2.1.17.2.19.1.6",
+"",
+"INTEGER",
+"read-write / Implement consistency with mib file definition."
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 3",
+"text":"PoE Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(POWER-ETHERNET-MIB.iso.org.dod.internet.mgmt.mib-2.powerEthernetMIB.pethObjects)"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"pethPsePortGroupIndex.1.1",
+".1.3.6.1.2.1.105.1.1.1.1.1.1",
+"group index",
+"Integer32",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"pethPsePortIndex.1.1",
+".1.3.6.1.2.1.105.1.1.1.2.1.1",
+"port index",
+"Integer32",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"pethPsePortAdminEnable.1.1",
+".1.3.6.1.2.1.105.1.1.1.3.1.1",
+"Management Enabled Status",
+"INTEGER",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"pethPsePortPowerPairsControlAbility.1.1",
+".1.3.6.1.2.1.105.1.1.1.4.1.1",
+"Power supply capacity",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"pethPsePortPowerPairs.1.1",
+".1.3.6.1.2.1.105.1.1.1.5.1.1",
+"Power supply",
+"INTEGER",
+"read-write / Only read operations are supported."
+],
+[
+"pethPsePortDetectionStatus.1.1",
+".1.3.6.1.2.1.105.1.1.1.6.1.1",
+"Port Power Status",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"pethPsePortPowerPriority.1.1",
+".1.3.6.1.2.1.105.1.1.1.7.1.1",
+"Power priority",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"pethPsePortMPSAbsentCounter.1.1",
+".1.3.6.1.2.1.105.1.1.1.8.1.1",
+"off statistics",
+"Counter32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"pethPsePortType.1.1",
+".1.3.6.1.2.1.105.1.1.1.9.1.1",
+"port descriptor",
+"OCTET STRING",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"pethPsePortPowerClassifications.1.1",
+".1.3.6.1.2.1.105.1.1.1.10.1.1",
+"Power supply type",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"pethPsePortInvalidSignatureCounter.1.1",
+".1.3.6.1.2.1.105.1.1.1.11.1.1",
+"Illegal Signal Statistics",
+"Counter32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"pethPsePortPowerDeniedCounter.1.1",
+".1.3.6.1.2.1.105.1.1.1.12.1.1",
+"Denial of Power Statistics",
+"Counter32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"pethPsePortOverLoadCounter r.1.1",
+".1.3.6.1.2.1.105.1.1.1.13.1.1",
+"Overload Power Down Statistics",
+"Counter32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"pethPsePortShortCounter.1.1",
+".1.3.6.1.2.1.105.1.1.1.14.1.1",
+"Port short circuit statistics",
+"Counter32",
+"read-only / Implement consistency with mib file definition."
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 3",
+"text":"802.1X Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(IEEE8021-PAE- MIB.iso.std.iso8802.ieee802dot1.ieee802dot1mibs.ieee8021paeMIB)"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"dot1xPaeSystemAuthControl.0",
+".1.0.8802.1.1.1.1.1.1.0",
+"global authentication switch",
+"INTEGER",
+"read-write / Implement consistency with mib file definition."
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(dot1 xPaePortEntry!@#.iso.std.iso8802.ieee802dot1.ieee802dot1mibs.ieee8021paeMIB.paeMIBObjects.dot1xPaeSystem.dot1xPaePortTable.dot1xPaePortEntry )"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"dot1xPaePortNumber.5",
+".1.0.8802.1.1.1.1.1.2.1.1.5",
+"port number",
+"Integer32",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"dot1xPaePortProtocolVersion.5",
+".1.0.8802.1.1.1.1.1.2.1.2.5",
+"port protocol version",
+"Unsigned32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1xPaePortCapabilities.5",
+".1.0.8802.1.1.1.1.1.2.1.3.5",
+"port capability",
+"BITS",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1xPaePortInitialize.5",
+".1.0.8802.1.1.1.1.1.2.1.4.5",
+"port initialization flag",
+"INTEGER",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"dot1xPaePortReauthenticate.5",
+".1.0.8802.1.1.1.1.1.2.1.5.5",
+"Port re-authentication identifier",
+"INTEGER",
+"read-write / Implement consistency with mib file definition."
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"( dot1 xAuthConfigEntry!@#.iso.std.iso8802.ieee802dot1.ieee802dot1mibs.ieee8021paeMIB.paeMIBObjects.dot1xPaeAuthenticator.dot1xAuthConfigTable.dot1xAuthConfigEntry )"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"dot1xAuthPaeState.5",
+".1.0.8802.1.1.1.1.2.1.1.1.5",
+"PAE certification status",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1xAuthBackendAuthState.5",
+".1.0.8802.1.1.1.1.2.1.1.2.5",
+"BE certification status",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1xAuthAdminControlledDirections.5",
+".1.0.8802.1.1.1.1.2.1.1.3.5",
+"Port Controlled Management Direction",
+"INTEGER",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"dot1xAuthOperControlledDirections.5",
+".1.0.8802.1.1.1.1.2.1.1.4.5",
+"Port controlled current direction",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1xAuthAuthControlledPortStatus.5",
+".1.0.8802.1.1.1.1.2.1.1.5.5",
+"Port controlled state",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1xAuthAuthControlledPortControl.5",
+".1.0.8802.1.1.1.1.2.1.1.6.5",
+"port controlled mode",
+"INTEGER",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"dot1xAuthQuietPeriod.5",
+".1.0.8802.1.1.1.1.2.1.1.7.5",
+"Port authentication silent period",
+"Unsigned32",
+"read-write / Only read operations are supported."
+],
+[
+"dot1xAuthTxPeriod.5",
+".1.0.8802.1.1.1.1.2.1.1.8.5",
+"sending cycle",
+"Unsigned32",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"dot1xAuthSuppTimeout.5",
+".1.0.8802.1.1.1.1.2.1.1.9.5",
+"client timeout",
+"Unsigned32",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"dot1xAuthServerTimeout.5",
+".1.0.8802.1.1.1.1.2.1.1.10.5",
+"server timeout",
+"Unsigned32",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"dot1xAuthReAuthPeriod.5",
+".1.0.8802.1.1.1.1.2.1.1.12.5",
+"re-authentication cycle",
+"Unsigned32",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"dot1xAuthReAuthEnabled.5",
+".1.0.8802.1.1.1.1.2.1.1.13.5",
+"Enable re-authentication",
+"INTEGER",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"dot1xAuthKeyTxEnabled.5",
+".1.0.8802.1.1.1.1.2.1.1.14.5",
+"key send enable",
+"INTEGER",
+"read-write / Implement consistency with mib file definition."
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(dot1 xAuthStatsEntry!@#.iso.std.iso8802.ieee802dot1.ieee802dot1mibs.ieee8021paeMIB.paeMIBObjects.dot1xPaeAuthenticator.dot1xAuthStatsTable.dot1xAuthStatsEntry )"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"dot1xAuthEapolFramesRx.5",
+".1.0.8802.1.1.1.1.2.2.1.1.5",
+"Eapol received packets",
+"Counter32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1xAuthEapolFramesTx.5",
+".1.0.8802.1.1.1.1.2.2.1.2.5",
+"The number of packets sent by Eapol",
+"Counter32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1xAuthEapolStartFramesRx.5",
+".1.0.8802.1.1.1.1.2.2.1.3.5",
+"The number of packets received at the beginning of Eapol",
+"Counter32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1xAuthEapolLogoffFramesRx.5",
+".1.0.8802.1.1.1.1.2.2.1.4.5",
+"Eapol offline packets received",
+"Counter32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1xAuthEapolRespIdFramesRx.5",
+".1.0.8802.1.1.1.1.2.2.1.5.5",
+"Eapol response identification packets",
+"Counter32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1xAuthEapolRespFramesRx.5",
+".1.0.8802.1.1.1.1.2.2.1.6.5",
+"Eapol response packets received",
+"Counter32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1xAuthEapolReqIdFramesTx.5",
+".1.0.8802.1.1.1.1.2.2.1.7.5",
+"Eapol request identification packets sent",
+"Counter32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1xAuthEapolReqFramesTx.5",
+".1.0.8802.1.1.1.1.2.2.1.8.5",
+"Eapol request packet number",
+"Counter32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1xAuthInvalidEapolFramesRx.5",
+".1.0.8802.1.1.1.1.2.2.1.9.5",
+"illegal Eapol packets received",
+"Counter32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1xAuthEapLengthErrorFramesRx.5",
+".1.0.8802.1.1.1.1.2.2.1.10.5",
+"Eapol length error packets",
+"Counter32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1xAuthLastEapolFrameVersion.5",
+".1.0.8802.1.1.1.1.2.2.1.11.5",
+"The latest Eapol message version",
+"Unsigned32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"dot1xAuthLastEapolFrameSource.5",
+".1.0.8802.1.1.1.1.2.2.1.12.5",
+"latest Eapol message",
+"OCTET STRING",
+"read-only / Implement consistency with mib file definition."
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 3",
+"text":"IP Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(IP-MIB.iso.org.dod.internet.mgmt.mib - 2.ip.ipAddressTable.ipAddressEntrys)"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"ipAddressAddrType.1.192.168.100.96",
+".1.3.6.1.2.1.4.34.1.1.1.192.168.100.96",
+"IP address type",
+"INTEGER",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"ipAddressAddr.1.192.168.100.96",
+".1.3.6.1.2.1.4.34.1.2.1.192.168.100.96",
+"IP address",
+"OCTET STRING",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"ipAddressIfIndex.1.192.168.100.96",
+".1.3.6.1.2.1.4.34.1.3.1.192.168.100.96",
+"Interface internal index number",
+"INTEGER",
+"read-create / Only read operations are supported."
+],
+[
+"ipAddressType.1.192.168.100.96",
+".1.3.6.1.2.1.4.34.1.4.1.192.168.100.96",
+"address type",
+"INTEGER",
+"read-create / Only read operations are supported."
+],
+[
+"ipAddressPrefix.1.192.168.100.96",
+".1.3.6.1.2.1.4.34.1.5.1.192.168.100.96",
+"address mask, not supported here",
+"OID",
+"Not currently supported."
+],
+[
+"ipAddressOrigin.1.192.168.100.96",
+".1.3.6.1.2.1.4.34.1.6.1.192.168.100.96",
+"source of address",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ipAddressStatus.1.192.168.100.96",
+".1.3.6.1.2.1.4.34.1.7.1.192.168.100.96",
+"address status",
+"INTEGER",
+"read-create / Only read operations are supported."
+],
+[
+"ipAddressCreated.1.192.168.100.96",
+".1.3.6.1.2.1.4.34.1.8.1.192.168.100.96",
+"creation time",
+"TimeTicks",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ipAddressLastChanged.1.192.168.100.96",
+".1.3.6.1.2.1.4.34.1.9.1.192.168.100.96",
+"last change time",
+"TimeTicks",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ipAddressRowStatus.1.192.168.100.96",
+".1.3.6.1.2.1.4.34.1.10.1.192.168.100.96",
+"SNMP status",
+"INTEGER",
+"read-create / Read and write operations are supported, and only support set to destroy (6)."
+],
+[
+"ipAddressStorageType.1.192.168.100.96",
+".1.3.6.1.2.1.4.34.1.11.1.192.168.100.96",
+"storage type",
+"INTEGER",
+"read-create / Only read operations are supported."
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Note: Since this MIB table does not support address mask configuration, the length of the IP address mask created through the MIB table is always 32. Care should be taken when using this MIB table to create IP addresses."
+},
+{
+"t":"h",
+"s":"Heading 3",
+"text":"ARP Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(IP-MIB.iso.org.dod.internet.mgmt.mib - 2.ip.ipNetToPhysicalTable.ipNetToPhysicalEntry)"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"ipNetToPhysicalIfIndex.2100.1.192.168.100.106",
+".1.3.6.1.2.1.4.35.1.1.2100.1.192.168.100.106",
+"Port index",
+"Integer32",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"ipNetToPhysicalAddressType.2100.1.192.168.100.106",
+".1.3.6.1.2.1.4.35.1.2.2100.1.192.168.100.106",
+"IP address type",
+"INTEGER",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"ipNetToPhysicalAddress.2100.1.192.168.100.106",
+".1.3.6.1.2.1.4.35.1.3.2100.1.192.168.100.106",
+"IP address",
+"OCTET STRING",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"ipNetToPhysicalPhysAddress.2100.1.192.168.100.106",
+".1.3.6.1.2.1.4.35.1.4.2100.1.192.168.100.106",
+"MAC address",
+"OCTET STRING",
+"read-create / Only read operations are supported."
+],
+[
+"ipNetToPhysicalLastUpdated.2100.1.192.168.100.106",
+".1.3.6.1.2.1.4.35.1.5.2100.1.192.168.100.106",
+"last update timestamp",
+"TimeTicks",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ipNetToPhysicalType.2100.1.192.168.100.106",
+".1.3.6.1.2.1.4.35.1.6.2100.1.192.168.100.106",
+"ARP type",
+"INTEGER",
+"read-create / Only read operations are supported."
+],
+[
+"ipNetToPhysicalState.2100.1.192.168.100.106",
+".1.3.6.1.2.1.4.35.1.7.2100.1.192.168.100.106",
+"ARP status",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ipNetToPhysicalRowStatus.2100.1.192.168.100.106",
+".1.3.6.1.2.1.4.35.1.8.2100.1.192.168.100.106",
+"SNMP status",
+"INTEGER",
+"read-create / Only read operations are supported."
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 3",
+"text":"Route Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"( IP- FORWARD - MIB.iso.org.dod.internet.mgmt.mib - 2.ip.ipForward.ipCidrRouteTable.ipCidrRouteEntry )"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"ipCidrRouteDest.2.0.2.0.255.255.255.0.0.1.1.1.4",
+".1.3.6.1.2.1.4.24.4.1.1.2.0.2.0.255.255.255.0.0.1.1.1.4",
+"target address",
+"IpAddress",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ipCidrRouteMask.2.0.2.0.255.255.255.0.0.1.1.1.4",
+".1.3.6.1.2.1.4.24.4.1.2.2.0.2.0.255.255.255.0.0.1.1.1.4",
+"target mask",
+"IpAddress",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ipCidrRouteNextHop.2.0.2.0.255.255.255.0.0.1.1.1.4",
+".1.3.6.1.2.1.4.24.4.1.4.2.0.2.0.255.255.255.0.0.1.1.1.4",
+"next hop address",
+"IpAddress",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ipCidrRouteIfIndex.2.0.2.0.255.255.255.0.0.1.1.1.4",
+".1.3.6.1.2.1.4.24.4.1.5.2.0.2.0.255.255.255.0.0.1.1.1.4",
+"interface index",
+"Integer32",
+"read-create / Only read operations are supported."
+],
+[
+"ipCidrRouteType.2.0.2.0.255.255.255.0.0.1.1.1.4",
+".1.3.6.1.2.1.4.24.4.1.6.2.0.2.0.255.255.255.0.0.1.1.1.4",
+"routing type",
+"INTEGER",
+"read-create / Only read operations are supported."
+],
+[
+"ipCidrRouteProto.2.0.2.0.255.255.255.0.0.1.1.1.4",
+".1.3.6.1.2.1.4.24.4.1.7.2.0.2.0.255.255.255.0.0.1.1.1.4",
+"Routing Protocol",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ipCidrRouteAge.2.0.2.0.255.255.255.0.0.1.1.1.4",
+".1.3.6.1.2.1.4.24.4.1.8.2.0.2.0.255.255.255.0.0.1.1.1.4",
+"Timestamp since last update",
+"Integer32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"ipCidrRouteInfo.2.0.2.0.255.255.255.0.0.1.1.1.4",
+".1.3.6.1.2.1.4.24.4.1.9.2.0.2.0.255.255.255.0.0.1.1.1.4",
+"Routing protocol OID, not supported here",
+"OBJECT IDENTIFIER",
+"Not currently supported."
+],
+[
+"ipCidrRouteMetric1.2.0.2.0.255.255.255.0.0.1.1.1.4",
+".1.3.6.1.2.1.4.24.4.1.11.2.0.2.0.255.255.255.0.0.1.1.1.4",
+"Routing metric value",
+"Integer32",
+"read-create / Only read operations are supported."
+],
+[
+"ipCidrRouteStatus.2.0.2.0.255.255.255.0.0.1.1.1.4",
+".1.3.6.1.2.1.4.24.4.1.16.2.0.2.0.255.255.255.0.0.1.1.1.4 _",
+"SNMP status",
+"INTEGER",
+"read-create / Implement consistency with mib file definition."
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 3",
+"text":"TCP Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(TCP-MIB. iso.org.dod.internet.mgmt.mib-2.tcp.tcpConnTable)"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"tcpConnState",
+"1.3.6.1.2.1.6.13.1.1",
+"TCP connection status",
+"INTEGER",
+"read-write / Only read operations are supported."
+],
+[
+"tcpConnLocalAddress",
+"1.3.6.1.2.1.6.13.1.2",
+"Local IP address of the TCP connection",
+"IpAddress",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"tcpConnLocalPort",
+"1.3.6.1.2.1.6.13.1.3",
+"The local port on which the TCP connection listens",
+"Integer32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"tcpConnRemAddress",
+"1.3.6.1.2.1.6.13.1.4",
+"Remote IP address of the TCP connection",
+"IpAddress",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"tcpConnRemPort",
+"1.3.6.1.2.1.6.13.1.5",
+"Remote port number of the TCP connection",
+"Integer32",
+"read-only / Implement consistency with mib file definition."
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(IPV6-TCP-MIB. iso.org.dod.internet.mgmt.mib-2.tcp.ipv6TcpConnTable)"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"ipv6TcpConnLocalAddress",
+"1.3.6.1.2.1.6.16.1.1",
+"Local IPv6 address of the TCP connection",
+"OCTET STRING",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"ipv6TcpConnLocalPort",
+"1.3.6.1.2.1.6.16.1.2",
+"Local port number of the TCP connection",
+"INTEGER",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"ipv6TcpConnRemAddress",
+"1.3.6.1.2.1.6.16.1.3",
+"IPv6 address of the peer end of the TCP connection",
+"OCTET STRING",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"ipv6TcpConnRemPort",
+"1.3.6.1.2.1.6.16.1.4",
+"Port number of the peer end of the TCP connection",
+"INTEGER",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"ipv6TcpConnIfIndex",
+"1.3.6.1.2.1.6.16.1.5",
+"Interface index of the TCP connection",
+"Integer32",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"ipv6TcpConnState",
+"1.3.6.1.2.1.6.16.1.6",
+"Status of the TCP connection",
+"INTEGER",
+"read-write / Only read operations are supported."
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(TCP-MIB. iso.org.dod.internet.mgmt.mib-2.tcp.tcpConnectionTable)"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"tcpConnectionLocalAddressType",
+"1.3.6.1.2.1.6.19.1.1",
+"Local IP address type of the TCP connection",
+"INTEGER",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"tcpConnectionLocalAddress",
+"1.3.6.1.2.1.6.19.1.2",
+"Local IP address of the TCP connection",
+"OCTET STRING",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"tcpConnectionLocalPort",
+"1.3.6.1.2.1.6.19.1.3",
+"The local port on which the TCP connection listens",
+"Unsigned32",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"tcpConnectionRemAddressType",
+"1.3.6.1.2.1.6.19.1.4",
+"Remote IP address type of the TCP connection",
+"INTEGER",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"tcpConnectionRemAddress",
+"1.3.6.1.2.1.6.19.1.5",
+"Remote IP address of the TCP connection",
+"OCTET STRING",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"tcpConnectionRemPort",
+"1.3.6.1.2.1.6.19.1.6",
+"Remote port number of the TCP connection",
+"Unsigned32",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"tcpConnectionState",
+"1.3.6.1.2.1.6.19.1.7",
+"TCP connection status",
+"INTEGER",
+"read-write / Only read operations are supported."
+],
+[
+"tcpConnectionProcess",
+"1.3.6.1.2.1.6.19.1.8",
+"Process the TASK ID of a TCP connection",
+"Unsigned32",
+"read-only / Implement consistency with mib file definition."
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(TCP-MIB. iso.org.dod.internet.mgmt.mib-2.tcp.tcpListenerTable)"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"tcpListenerLocalAddressType",
+"1.3.6.1.2.1.6.20.1.1",
+"Local IP address type of the TCP connection",
+"INTEGER",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"tcpListenerLocalAddress",
+"1.3.6.1.2.1.6.20.1.2",
+"Local IP address of the TCP connection",
+"OCTET STRING",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"tcpListenerLocalPort",
+"1.3.6.1.2.1.6.20.1.3",
+"The local port on which the TCP connection listens",
+"Unsigned32",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"tcpListenerProcess",
+"1.3.6.1.2.1.6.20.1.4",
+"System process number",
+"Unsigned32",
+"read-only / Implement consistency with mib file definition."
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 3",
+"text":"UDP Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(UDP-MIB. iso.org.dod.internet.mgmt.mib-2.udp.udpTable)"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"udpLocalAddress",
+"1.3.6.1.2.1.7.5.1.1",
+"Local IP address of a UDP listening endpoint",
+"IpAddress",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"udpLocalPort",
+"1.3.6.1.2.1.7.5.1.2",
+"Local port number of the UDP listening endpoint",
+"Integer32",
+"read-only / Implement consistency with mib file definition."
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(IPV6-UDP-MIB. iso.org.dod.internet.mgmt.mib-2.udp.ipv6UdpTable)"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"ipv6UdpLocalAddress",
+"1.3.6.1.2.1.7.6.1.1",
+"Local IPv6 address listened by UDP",
+"OCTET STRING",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"ipv6UdpLocalPort",
+"1.3.6.1.2.1.7.6.1.2",
+"Number of the local port monitored by UDP",
+"INTEGER",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"ipv6UdpIfIndex",
+"1.3.6.1.2.1.7.6.1.3",
+"Indicates the index of the UDP listening interface",
+"Integer32",
+"read-only / Implement consistency with mib file definition."
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(UDP-MIB. iso.org.dod.internet.mgmt.mib-2.udp.udpEndpointTable)"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"udpEndpointLocalAddressType",
+"1.3.6.1.2.1.7.7.1.1",
+"Type of the local IP address monitored by UDP",
+"INTEGER",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"udpEndpointLocalAddress",
+"1.3.6.1.2.1.7.7.1.2",
+"The local IP address on which UDP listens",
+"OCTET STRING",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"udpEndpointLocalPort",
+"1.3.6.1.2.1.7.7.1.3",
+"Local port number of the UDP node",
+"Unsigned32",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"udpEndpointRemoteAddressType",
+"1.3.6.1.2.1.7.7.1.4",
+"Type of the remote IP address monitored by UDP",
+"INTEGER",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"udpEndpointRemoteAddress",
+"1.3.6.1.2.1.7.7.1.5",
+"The local address of UDP",
+"OCTET STRING",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"udpEndpointRemotePort",
+"1.3.6.1.2.1.7.7.1.6",
+"Remote port number of the UDP node",
+"Unsigned32",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"udpEndpointInstance",
+"1.3.6.1.2.1.7.7.1.7",
+"The instance number field of the UDP connection",
+"Unsigned32",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"udpEndpointProcess",
+"1.3.6.1.2.1.7.7.1.8",
+"System process number",
+"Unsigned32",
+"read-only / Implement consistency with mib file definition."
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"Private Node Support"
+},
+{
+"t":"h",
+"s":"Heading 3",
+"text":"System Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(NMS-SYS-MIB iso.org.dod.internet.private.enterprises.nms.nmsModule.sys.sysModule)"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OID",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"cpuUtilized.0",
+".1.3.6.1.4.1.OID.1.2.1.1.0",
+"CPU utilization",
+"Integer32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"memUtilized.0",
+".1.3.6.1.4.1.OID.1.2.1.2.0",
+"Memory utilization",
+"Integer32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"cpuIdle.0",
+".1.3.6.1.4.1.OID.1.2.1.3.0",
+"CPU idle ratio",
+"Integer32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"memTotalReal.0",
+".1.3.6.1.4.1.OID.1.2.1.4.0",
+"Total memory, in KB",
+"Integer32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"memAvailReal.0",
+".1.3.6.1.4.1.OID.1.2.1.5.0",
+"Available memory, in KB",
+"Integer32",
+"read-only / Implement consistency with mib file definition."
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 3",
+"text":"System Operation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(NMS-SYS-MIB.iso.org.dod.internet.private.enterprises.nms.nmsModule.sys.operations)"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"configurationOper.0",
+".1.3.6.1.4.1.OID.1.2.2.1.0",
+"Configuration operations",
+"INTEGER { / save (1), / Empty (2), / default (3)}",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"powerOper.0",
+".1.3.6.1.4.1.OID.1.2.2.2.0",
+"Power operation",
+"INTEGER { / On (1), / Off (2), / Reset (3)}",
+"read-write / Only supports set to reset (3)."
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 3",
+"text":"IOCTL"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(NMS-IOCTL- MIB. .iso.org.dod.internet.private.enterprises.nms.nmsModule.ioctl.ioctlconfTable)"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"confid.1",
+".1.3.6.1.4.1.OID.1.4.3.1.1.1",
+"node index",
+"Gauge32 (1..255)",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"confdirection.1",
+".1.3.6.1.4.1.OID.1.4.3.1.2.1",
+"direction",
+"INTEGER {input(1), / output(2)}",
+"read-create / Only read operations are supported."
+],
+[
+"conflevel.1",
+".1.3.6.1.4.1.OID.1.4.3.1.3.1",
+"level",
+"INTEGER {low(1), / high(2)}",
+"read-create / Read and write operations are supported."
+],
+[
+"confdescription.1",
+".1.3.6.1.4.1.OID.1.4.3.1.4.1",
+"describe",
+"OCTET STRING",
+"read-create / Read and write operations are supported."
+],
+[
+"confRowStatus.1",
+".1.3.6.1.4.1.OID.1.4.3.1.5.1",
+"RowStatus value",
+"INTEGER {active(1), / notReady(3), / createandWait(5), / destroy(6)}",
+"read-create / Only read operations are supported."
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 3",
+"text":"PoE"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(NMS-POE- MIB.iso.org.dod.internet.private.enterprises.nms.nmsModule.poe.pseStateTable)"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"pseStateGroupIndex.1",
+".1.3.6.1.4.1.OID.1.5.3.1.1.1",
+"group index",
+"Integer32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"pseStatePowerConsume.1",
+".1.3.6.1.4.1.OID.1.5.3.1.2.1",
+"Power consumption, the unit is 0.1 watts",
+"Integer32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"pseStatePoweredPorts.1",
+".1.3.6.1.4.1.OID.1.5.3.1.3.1",
+"The current number of power supply ports",
+"Integer32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"pseStateReservedPower.1",
+".1.3.6.1.4.1.OID.1.5.3.1.4.1",
+"The percentage of the system to retain power",
+"Integer32",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"pseStateTotalAvailablePower.1",
+".1.3.6.1.4.1.OID.1.5.3.1.5.1",
+"Available power system, the unit of 0.1 watts",
+"Integer32",
+"read-only / Implement consistency with mib file definition."
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(NMS-POE- MIB.iso.org.dod.internet.private.enterprises.nms.nmsModule.poe.portStateTable)"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"portStateGroupIndex.1.1",
+".1.3.6.1.4.1.OID.1.5.4.1.1.1.1",
+"group index",
+"Integer32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"portStateIndex.1.1",
+".1.3.6.1.4.1.OID.1.5.4.1.2.1.1",
+"port index",
+"Integer32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"portStateDesc.1.1",
+".1.3.6.1.4.1.OID.1.5.4.1.3.1.1",
+"port description",
+"OCTET STRING",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"portStateIcut.1.1",
+".1.3.6.1.4.1.OID.1.5.4.1.4.1.1",
+"The current current of the port, the unit is 0.1mA",
+"Integer32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"portStatePower.1.1",
+".1.3.6.1.4.1.OID.1.5.4.1.5.1.1",
+"Current power port, the unit of 0.1 watts",
+"Integer32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"portStateVoltage.1.1",
+".1.3.6.1.4.1.OID.1.5.4.1.6.1.1",
+"The current voltage of the port, the unit is 0.1 volts",
+"Integer32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"portStateMaximumPower.1.1",
+".1.3.6.1.4.1.OID.1.5.4.1.7.1.1",
+"Port maximum power, the unit for watts",
+"Integer32",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"portStateLegacy.1.1",
+".1.3.6.1.4.1.OID.1.5.4.1.8.1.1",
+"Whether the compatibility check is enabled",
+"INTEGER",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"portStatePowerSupplyMode.1.1",
+".1.3.6.1.4.1.OID.1.5.4.1.9.1.1",
+"Port power supply mode",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 3",
+"text":"Loop Detect"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(NMS-LDET-MIB ldetPortTable!@#.iso.org.dod.internet.private.enterprises.nms.nmsModule.ldet.ldetGlobalModule)"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"ldetGlobalEnabled.0",
+".1.3.6.1.4.1.OID.1.6.1.1.0",
+"The enable state of the global loop detection",
+"INTEGER {enabled(1), / disabled(2)}",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"ldetGlobalInterval.0",
+".1.3.6.1.4.1.OID.1.6.1.2.0",
+"The interval between sending loop detection packets",
+"Integer32 (5..300)",
+"read-write / Implement consistency with mib file definition."
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(NMS-LDET-MIB ldetPortTable!@#.iso.org.dod.internet.private.enterprises.nms.nmsModule.ldet.ldetPortTable)"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"ldetPortifIndex.1",
+".1.3.6.1.4.1.OID.1.6.4.1.1.1",
+"Port index",
+"Integer32",
+"not-accessible / Implement consistency with mib file definition."
+],
+[
+"ldetPortEnabled.1",
+".1.3.6.1.4.1.OID.1.6.4.1.2.1",
+"Enable state of port loop detection",
+"INTEGER {enabled(1), / disabled(2)}",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"ldetPortAction.1",
+".1.3.6.1.4.1.OID.1.6.4.1.4.1",
+"Port processing mode",
+"INTEGER {alarm (1), / down(2)}",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"ldetPortStatus.1",
+".1.3.6.1.4.1.OID.1.6.4.1.5.1",
+"Port status",
+"INTEGER {normal(0), / alarm(1), / down(2)}",
+"read-only / Implement consistency with mib file definition."
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 3",
+"text":"Power Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(NMS-SYS-MIB powerTable!@#.iso.org.dod.internet.private.enterprises.nms.nmsModule.sys.powerTable)"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"powerIndex.1",
+".1.3.6.1.4.1.OID.1.2.3.1.1.1",
+"Power index",
+"Gauge32 (1..100)",
+"accessible-for-notify / Implement consistency with mib file definition."
+],
+[
+"powerType.1",
+".1.3.6.1.4.1.OID.1.2.3.1.2.1",
+"Power type",
+"INTEGER {unknown(0), / ac(1), / dc(2)}",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"powerState.1",
+".1.3.6.1.4.1.OID.1.2.3.1.3.1",
+"Power state",
+"INTEGER {on(1), / off(2)}",
+"read-create / Only read operations are supported."
+],
+[
+"powerVoltage.1",
+".1.3.6.1.4.1.OID.1.2.3.1.4.1",
+"Power voltage",
+"Integer32",
+"read-create / Only read operations are supported."
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 3",
+"text":"Cable Detect"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(NMS-CABLE-DIAG-"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MIB.iso.org.dod.internet.private.enterprises.nms.nmsModule.cableDiag.cableDiagTable)"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"cableDiagPortIndex.1",
+".1.3.6.1.4.1.OID.1.9.1.1.1.1",
+"Index value of interface 1",
+"Integer (0..65535)",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"cableDiagPortType.1",
+".1.3.6.1.4.1.OID.1.9.1.1.2.1",
+"The port type of interface 1",
+"INTEGER { / fastEthernet (0), / gigaEthernet (1), / other (2)}",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"cableDiagLinkStatus.1",
+".1.3.6.1.4.1.OID.1.9.1.1.3.1",
+"Working status of interface 1",
+"INTEGER { / link-down (0), / link-up (1), / other (2)}",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"cableDiagPair1Status.1",
+".1.3.6.1.4.1.OID.1.9.1.1.4.1",
+"Pair 1 status of interface 1",
+"INTEGER { / Ok (0), / Open (1), / Short (2), / open-short (3), / crosstalk (4), / unknown (5), / count (6), / no-cable (7), / other (8)}",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"cableDiagPair2Status.1",
+".1.3.6.1.4.1.OID.1.9.1.1.5.1",
+"Pair 2 status of interface 1",
+"Same as cableDiagPair1Status",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"cableDiagPair3Status.1",
+".1.3.6.1.4.1.OID.1.9.1.1.6.1",
+"Pair 3 status of interface 1",
+"Same as cableDiagPair1Status",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"cableDiagPair4Status.1",
+".1.3.6.1.4.1.OID.1.9.1.1.7.1",
+"Pair 4 status of interface 1",
+"Same as cableDiagPair1Status",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"cableDiagPair1Length.1",
+".1.3.6.1.4.1.OID.1.9.1.1.8.1",
+"Pair 1 length of interface 1",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"cableDiagPair2Length.1",
+".1.3.6.1.4.1.OID.1.9.1.1.9.1",
+"Pair 2 length of interface 1",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"cableDiagPair3Length.1",
+".1.3.6.1.4.1.OID.1.9.1.1.10.1",
+"Pair 3 length of interface 1",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"cableDiagPair4Length.1",
+".1.3.6.1.4.1.OID.1.9.1.1.11.1",
+"Pair 4 length of interface 1",
+"INTEGER",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"cableDiagAction.1",
+".1.3.6.1.4.1.OID.1.9.1.1.12.1",
+"Detection status of interface 1",
+"INTEGER { / Action (1), / Processing (2), / Other (3)}",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"cableDiagStatus.1",
+".1.3.6.1.4.1.OID.1.9.1.1.13.1",
+"Detection result for interface 1",
+"INTEGER { / not-run (1), / processing (2), / last-test-ok (3), / last-test-failed (4)}",
+"read-only / Implement consistency with mib file definition."
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 3",
+"text":"Port Control"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(NMS-PORT-MIB .iso.org.dod.internet.private.enterprises.nms.nmsModule.pctrl.portControlTable)"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"portControlIndex.1",
+".1.3.6.1.4.1.OID.1.7.2.1.1.1",
+"Index value of interface 1",
+"Integer32 (1..2147483647)",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"portControlAdminStatus.1",
+".1.3.6.1.4.1.OID.1.7.2.1.2.1",
+"Management status of interface 1",
+"INTEGER { / Up (1), / Down (2), / Testing (3)}",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"portControlOperStatus.1",
+".1.3.6.1.4.1.OID.1.7.2.1.3.1",
+"Actual status of interface 1",
+"INTEGER { / Up (1), / Down (2), / Testing (3), unknown (4), dormant (5), / Not Present (6), lowerLayerDown (7) }",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"portControlAdminSpeed.1",
+".1.3.6.1.4.1.OID.1.7.2.1.4.1",
+"Set the speed of interface 1",
+"INTEGER { / Auto (0), / speed10Mb (1), / speed100Mb (2), / speed1000Mb (3), / unknown (4), / speed2500Mb (5), / speed10Gb (6), / speed25Gb (7), / speed40Gb (8), / speed100Gb (9)}",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"portControlAdminDuplex.1",
+".1.3.6.1.4.1.OID.1.7.2.1.5.1",
+"Set the duplex of interface 1",
+"INTEGER { / Auto (0), / Full (1), / Half (2), / Unknown (3)}",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"portControlOperSpeed.1",
+".1.3.6.1.4.1.OID.1.7.2.1.6.1",
+"Actual speed of interface 1",
+"INTEGER { / Other (0), / speed10Mb (1), / speed100Mb (2), / speed1000Mb (3), / unknown (4), / speed2500Mb (5), / speed10Gb (6), / speed25Gb (7), / speed40Gb (8), / speed100Gb (9) }",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"portControlOperDuplex.1",
+".1.3.6.1.4.1.OID.1.7.2.1.7.1",
+"Actual duplex of interface 1",
+"INTEGER { / full(1), / half(2), / unknown(3)}",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"portControlNegotiation.1",
+".1.3.6.1.4.1.OID.1.7.2.1.8.1",
+"Auto-negotiation of interface 1",
+"INTEGER { / enabled(1), disabled(2)}",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"portControlFlowControl.1",
+".1.3.6.1.4.1.OID.1.7.2.1.9.1",
+"Set the flow control of interface 1",
+"INTEGER { / on(1), / off(2), / unknown(3)}",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"portControlMtu.1",
+".1.3.6.1.4.1.OID.1.7.2.1.10.1",
+"Set the MTU of interface 1",
+"Integer32 (46..10222)",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"portControlComboType.1",
+".1.3.6.1.4.1.OID.1.7.2.1.11.1",
+"Set the combo mode of interface 1",
+"INTEGER { / copper(1), / fiber(2), / other(3), / auto-copper(4), / auto-fiber(5)}",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"portControlPortMode.1",
+".1.3.6.1.4.1.OID.1.7.2.1.12.1",
+"Actual combo mode of interface 1",
+"INTEGER { / copper(1), / fiber(2), / other(3)}",
+"read-only / Implement consistency with mib file definition."
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 3",
+"text":"Optical Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"(NMS-OPTICAL-"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MIB.iso.org.dod.internet.private.enterprises.nms.nmsModule.optical.opticalModuleInfoTable)"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"Value type",
+"Maximum access rights and implementation specifications"
+],
+[
+"opticalPortIndex.1",
+".1.3.6.1.4.1.OID.1.8.2.1.1.1",
+"Port index",
+"INTEGER (0..65535)",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"opticalTransceiverType.1",
+".1.3.6.1.4.1.OID.1.8.2.1.2.1",
+"Optical module type",
+"OCTET STRING (SIZE (0..32))",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"opticalConnectType.1",
+".1.3.6.1.4.1.OID.1.8.2.1.3.1",
+"Optical module connector type",
+"OCTET STRING (SIZE (0..16))",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"opticalWaveLength.1",
+".1.3.6.1.4.1.OID.1.8.2.1.4.1",
+"Wavelength of the optical module, unit: nm",
+"Integer32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"opticalVendorName.1",
+".1.3.6.1.4.1.OID.1.8.2.1.5.1",
+"The manufacturer name of the optical module",
+"OCTET STRING (SIZE (0..64))",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"opticalSerialNumber.1",
+".1.3.6.1.4.1.OID.1.8.2.1.6.1",
+"Serial number of the optical module",
+"OCTET STRING (SIZE (0..32))",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"opticalPartNumber.1",
+".1.3.6.1.4.1.OID.1.8.2.1.7.1",
+"Manufacturer's part number",
+"OCTET STRING (SIZE (0..32))",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"opticalTransferDistance.1",
+".1.3.6.1.4.1.OID.1.8.2.1.8.1",
+"Transmission distance of optical module, unit: km",
+"Integer32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"opticalSupportDDM.1",
+".1.3.6.1.4.1.OID.1.8.2.1.9.1",
+"Whether the optical module supports DDM",
+"INTEGER {support(1), / not Support (2)}",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"opticalTemperature.1",
+".1.3.6.1.4.1.OID.1.8.2.1.10.1",
+"Optical module temperature, unit: °C",
+"Integer32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"opticalVoltage.1",
+".1.3.6.1.4.1.OID.1.8.2.1.11.1",
+"Optical module voltage, unit: 0.01V",
+"Integer32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"opticalBiasCurrent.1",
+".1.3.6.1.4.1.OID.1.8.2.1.12.1",
+"Bias current of optical module, unit: 0.01mA",
+"Integer32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"opticalRxPower.1",
+".1.3.6.1.4.1.OID.1.8.2.1.13.1",
+"Received power of optical module, unit: 0.01dBm",
+"Integer32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"opticalTxPower.1",
+".1.3.6.1.4.1.OID.1.8.2.1.14.1",
+"Transmission power of optical module, unit: 0.01dBm",
+"Integer32",
+"read-only / Implement consistency with mib file definition."
+],
+[
+"opticalTempHiAlarm.1",
+".1.3.6.1.4.1.OID.1.8.2.1.15.1",
+"Alarm threshold of high temperature of optical module",
+"Integer32 / (-255..255)",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"opticalTempHiWarn.1",
+".1.3.6.1.4.1.OID.1.8.2.1.16.1",
+"Warning threshold of high temperature of optical module",
+"Integer32 / (-255..255)",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"opticalTempLoWarn.1",
+".1.3.6.1.4.1.OID.1.8.2.1.17.1",
+"Warning threshold of low temperature of optical module",
+"Integer32 / (-255..255)",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"opticalTempLoAlarm.1",
+".1.3.6.1.4.1.OID.1.8.2.1.18.1",
+"Alarm threshold of low temperature of optical module",
+"Integer32 / (-255..255)",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"opticalVoltHiAlarm.1",
+".1.3.6.1.4.1.OID.1.8.2.1.19.1",
+"Alarm threshold of high voltage of optical module",
+"Integer32 / (0..500)",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"opticalVoltHiWarn.1",
+".1.3.6.1.4.1.OID.1.8.2.1.20.1",
+"Warning threshold of high voltage of optical module",
+"Integer32 / (0..500)",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"opticalVoltLoWarn.1",
+".1.3.6.1.4.1.OID.1.8.2.1.21.1",
+"Warning threshold of low voltage of optical module",
+"Integer32 / (0..500)",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"opticalVoltLoAlarm.1",
+".1.3.6.1.4.1.OID.1.8.2.1.22.1",
+"Alarm threshold of low voltage of optical module",
+"Integer32 / (0..500)",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"opticalBiasHiAlarm.1",
+".1.3.6.1.4.1.OID.1.8.2.1.23.1",
+"Alarm threshold of high current of optical module",
+"Integer32 / (0..50000)",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"opticalBiasHiWarn.1",
+".1.3.6.1.4.1.OID.1.8.2.1.24.1",
+"Warning threshold of high current of optical module",
+"Integer32 / (0..50000)",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"opticalBiasLoWarn.1",
+".1.3.6.1.4.1.OID.1.8.2.1.25.1",
+"Warning threshold of low current of optical module",
+"Integer32 / (0..50000)",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"opticalBiasLoAlarm.1",
+".1.3.6.1.4.1.OID.1.8.2.1.26.1",
+"Alarm threshold of low current of optical module",
+"Integer32 / (0..50000)",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"opticalRxHiAlarm.1",
+".1.3.6.1.4.1.OID.1.8.2.1.27.1",
+"Alarm threshold of high received power of optical module",
+"Integer32 / (-4000..1000)",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"opticalRxHiWarn.1",
+".1.3.6.1.4.1.OID.1.8.2.1.28.1",
+"Warning threshold of high received power of optical module",
+"Integer32 / (-4000..1000)",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"opticalRxLoWarn.1",
+".1.3.6.1.4.1.OID.1.8.2.1.29.1",
+"Warning threshold of low received power of optical module",
+"Integer32 / (-4000..1000)",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"opticalRxLoAlarm.1",
+".1.3.6.1.4.1.OID.1.8.2.1.30.1",
+"Alarm threshold of low received power of optical module",
+"Integer32 / (-4000..1000)",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"opticalTxHiAlarm.1",
+".1.3.6.1.4.1.OID.1.8.2.1.31.1",
+"Alarm threshold of high transmission power of optical module",
+"Integer32 / (-4000..1000)",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"opticalTxHiWarn.1",
+".1.3.6.1.4.1.OID.1.8.2.1.32.1",
+"Warning threshold of high transmission power of optical module",
+"Integer32 / (-4000..1000)",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"opticalTxLoWarn.1",
+".1.3.6.1.4.1.OID.1.8.2.1.33.1",
+"Warning threshold of low transmission power of optical module",
+"Integer32 / (-4000..1000)",
+"read-write / Implement consistency with mib file definition."
+],
+[
+"opticalTxLoAlarm.1",
+".1.3.6.1.4.1.OID.1.8.2.1.34.1",
+"Alarm threshold of low transmission power of optical module",
+"Integer32 / (-4000..1000)",
+"read-write / Implement consistency with mib file definition."
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"Trap Notice"
+},
+{
+"t":"table",
+"rows":[
+[
+"Node name",
+"OIDs",
+"Node description",
+"field",
+"Maximum access rights and implementation specifications"
+],
+[
+"coldStart",
+".1.3.6.1.6.3.1.1.5.1",
+"System cold start",
+"none",
+""
+],
+[
+"warmStart",
+".1.3.6.1.6.3.1.1.5.2",
+"System warm boot",
+"none",
+""
+],
+[
+"linkDown",
+".1.3.6.1.6.3.1.1.5.3",
+"port down",
+"ifIndex, ifAdminStatus, ifOperStatus",
+""
+],
+[
+"linkUp",
+".1.3.6.1.6.3.1.1.5.4",
+"port up",
+"ifIndex, ifAdminStatus, ifOperStatus",
+""
+],
+[
+"dot3OamNonThresholdEvent",
+".1.3.6.1.2.1.158.0.2",
+"Power down alarm",
+"dot3OamEventLogTimestamp, dot3OamEventLogOui, dot3OamEventLogType, dot3OamEventLogLocation, dot3OamEventLogEventTotal",
+""
+],
+[
+"pethPsePortOnOffNotification",
+".1.3.6.1.2.1.105.0.1",
+"PoE port power supply status changes",
+"pethPsePortDetectionStatus",
+""
+],
+[
+"powerChange",
+".1.3.6.1.4.1.OID.1.2.7.1",
+"Power state changes",
+"powerIndex, powerType, powerState, powerVoltage",
+""
+],
+[
+"batteryLow",
+".1.3.6.1.4.1.OID.1.2.7.2",
+"Battery low",
+"powerIndex",
+""
+],
+[
+"batteryRecover",
+".1.3.6.1.4.1.OID.1.2.7.3",
+"Battery recover",
+"powerIndex",
+""
+],
+[
+"loopDetect",
+".1.3.6.1.4.1.OID.1.6.2.1",
+"Loop detected on a port",
+"ifIndex",
+""
+],
+[
+"loopRecover",
+".1.3.6.1.4.1.OID.1.6.2.2",
+"Loop recovered on a port",
+"ifIndex",
+""
+],
+[
+"newRoot",
+".1.3.6.1.2.1.17.0.1",
+"New root for stp",
+"none",
+""
+],
+[
+"topologyChange",
+".1.3.6.1.2.1.17.0.2",
+"Topology change for stp/rstp",
+"none",
+""
+],
+[
+"opticalModuleAlarmEvent",
+".1.3.6.1.4.1.OID.1.8.7.1",
+"Optical module alarm",
+"opticalAlarmIfIndex, / opticalAlarmInfo",
+""
+],
+[
+"opticalModuleWarnEvent",
+".1.3.6.1.4.1.OID.1.8.7.2",
+"Optical module warning",
+"opticalAlarmIfIndex, / opticalAlarmInfo",
+""
+]
+]
+}
+]
+}

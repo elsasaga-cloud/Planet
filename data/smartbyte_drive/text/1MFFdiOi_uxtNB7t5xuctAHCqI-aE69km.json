@@ -1,0 +1,211 @@
+{
+"id":"1MFFdiOi_uxtNB7t5xuctAHCqI-aE69km",
+"name":"JW-MC30F Series datasheet.docx",
+"path":"SmartByte/暂时不用的/MC 进为/JW-MC30F Series datasheet.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":48528,
+"sha256":"1529c8991843573c22d6f3b84aeb73ff66db5c5ff9d68de10892f12470cd4104",
+"extracted_at":"2026-10-22T02:12:11Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":1529,
+"meta":{
+"title":"",
+"author":"雙燕飛",
+"last_modified_by":"Dora",
+"created":"2017-12-26T00:34:00+00:00",
+"modified":"2024-08-15T06:38:36+00:00",
+"paragraphs":10,
+"tables":1,
+"embedded_images":4
+},
+"warnings":[],
+"text":"JW-MC30F\nMain property\nInput voltage：DC5V\nOperating temperature：-20℃ ~ 60℃\nOuter shell：Fanless design\nMTBF：100000 hours\nPRODUCT DESCRIPTION\nThe optical fiber transceiver realizes the conversion between Ethernet twisted pair and Ethernet optical signal, and the maximum network transmission distance can be increased to more than 100km. The product series supports link fault alarm, wide operating temperature range, port and power surge protection, and meets deployment requirements in outdoor monitoring environments such as rail transit, safe city, and intelligent transportation.\nPRODUCT SIZE\nPRODUCT PARAMETERS\nProvider Mode Ports\nFixed port\t1*100 Base-X， 1*10/100 Base－T\nPower interface\tDC stand\nLED Indicators\t\nPWR\tPower indicator\t\nFDX\tElectrical port working mode indicator\t\nLink/Act\tLink status indicator\t\nCopper 100M Link\tElectrical port speed indicator\t\nFiber 100M Link\tOptical port speed indicator\t\nCable type&Transmission distance\nTwisted-pair\t0-100m（CAT5e,CAT6）\nMonomode optical fiber\t20/40/60/80/100KM\nMultimode optical fibre\t550m\nElectrical Specifications\nInput voltage\tDC 5 V\nTotal Power consumption\tFull load ≤1W\nEnvironment\nOperating temperature\t-20℃~60℃\nStorage temperature\t-40℃~85℃\nRelative humidity\t5%~95% non-condensing\nThermal methods\tFanless design, natural heat dissipation\nMTBF\t100,000 hours\nMechanical Dimensions\nProduct size\t95*71*27mm\nInstallation Method\tDesktop, wall-mounted installation\nWeight\tAbout 0.2KG\nAccessories\nAccessories\tEquipment, dust plug, Certificate, manual, power adapter (optional)",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"JW-MC30F"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Main property"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Input voltage：DC5V"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Operating temperature：-20℃ ~ 60℃"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Outer shell：Fanless design"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MTBF：100000 hours"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PRODUCT DESCRIPTION"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The optical fiber transceiver realizes the conversion between Ethernet twisted pair and Ethernet optical signal, and the maximum network transmission distance can be increased to more than 100km. The product series supports link fault alarm, wide operating temperature range, port and power surge protection, and meets deployment requirements in outdoor monitoring environments such as rail transit, safe city, and intelligent transportation."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PRODUCT SIZE"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PRODUCT PARAMETERS"
+},
+{
+"t":"table",
+"rows":[
+[
+"Provider Mode Ports"
+],
+[
+"Fixed port",
+"1*100 Base-X， 1*10/100 Base－T"
+],
+[
+"Power interface",
+"DC stand"
+],
+[
+"LED Indicators",
+""
+],
+[
+"PWR",
+"Power indicator",
+""
+],
+[
+"FDX",
+"Electrical port working mode indicator",
+""
+],
+[
+"Link/Act",
+"Link status indicator",
+""
+],
+[
+"Copper 100M Link",
+"Electrical port speed indicator",
+""
+],
+[
+"Fiber 100M Link",
+"Optical port speed indicator",
+""
+],
+[
+"Cable type&Transmission distance"
+],
+[
+"Twisted-pair",
+"0-100m（CAT5e,CAT6）"
+],
+[
+"Monomode optical fiber",
+"20/40/60/80/100KM"
+],
+[
+"Multimode optical fibre",
+"550m"
+],
+[
+"Electrical Specifications"
+],
+[
+"Input voltage",
+"DC 5 V"
+],
+[
+"Total Power consumption",
+"Full load ≤1W"
+],
+[
+"Environment"
+],
+[
+"Operating temperature",
+"-20℃~60℃"
+],
+[
+"Storage temperature",
+"-40℃~85℃"
+],
+[
+"Relative humidity",
+"5%~95% non-condensing"
+],
+[
+"Thermal methods",
+"Fanless design, natural heat dissipation"
+],
+[
+"MTBF",
+"100,000 hours"
+],
+[
+"Mechanical Dimensions"
+],
+[
+"Product size",
+"95*71*27mm"
+],
+[
+"Installation Method",
+"Desktop, wall-mounted installation"
+],
+[
+"Weight",
+"About 0.2KG"
+],
+[
+"Accessories"
+],
+[
+"Accessories",
+"Equipment, dust plug, Certificate, manual, power adapter (optional)"
+]
+]
+}
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":3068
+},
+{
+"name":"image2.png",
+"bytes":13595
+},
+{
+"name":"image3.png",
+"bytes":10322
+}
+]
+}

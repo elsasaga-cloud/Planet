@@ -1,0 +1,751 @@
+{
+"id":"1Cmgm77JX9TF-9p9aPNr4piuzSFVYKXNV",
+"name":"Product design features.pptx",
+"path":"SmartByte/暂时不用的/Product design features.pptx",
+"type":"PPT",
+"ext":".pptx",
+"bytes":26814249,
+"sha256":"400eca3cdffffe09bcecc467737389527da703c656f1db189365d19b3c8e6352",
+"extracted_at":"2026-10-22T02:14:19Z",
+"method":"python-pptx",
+"status":"ok",
+"chars":2579,
+"meta":{
+"slides":16,
+"pictures":75
+},
+"warnings":[],
+"text":"[slide 1]\nTight control of differential impedance\neight-layer board design, high frequency board\nSenior Layout Engineers with years of Data Centre Switch design experience\nSeparate signal wire from source noise as much as possible\nSufficient consideration of EMC/EMI in circuits and design details\nMulti-layer reference board to ensure signal integrity\n\n[slide 2]\nSurge and static protection devices\nAir duct isolation design convects heat away from the source and reduces the impact of heat sources on the mainboard.\nHeat transfer silicon makes full use of the chassis to dissipate heat\nImprove EMC/EMI by using contact shrapnel in the contact part of the upper and lower cover of the chassis.\nHigh-quality source and fan ensure long-term stable and reliable operation\nMAC and PHY with Marvell solution\nPSE with Realtek solution\n\n[slide 3]\nHigh heat dissipation factor silicon and aluminium block to enhance heat dissipation performance\n\n[slide 4]\nPower module PCB's solder mask opening convenient for high-power devices on the inner PCB through the external aluminium profile to enhance conduction heat dissipation\n\n[slide 5]\nIron shell opening, direct conduction of high power devices to aluminium profiles helps to dissipate heat\n\n[slide 6]\nAluminium heatsinks on inner PCB core devices,\ndirectly conduct to outer profiles\n\n\n[slide 7]\nThe board interface fold ensures that the interface with metal shrapnel is in full contact with the chassis.\n\n[slide 8]\nConductive foam on the top and bottom of the chassis to improve EMC\n\n\n[slide 9]\nUnpainted at the combination of the upper and lower covers of the chassis to increase the conductivity.\n\n[slide 10]\nBoard mounted terminals design are useful for rapid discharge of electrostatic surges\n\n[slide 11]\nMarvell/Microchip      Chemi-con/Infineon\nSFP+ interface with heatsink\nElectroless Nickel / Immersion Gold\nUDE network port\n\n\n\n\n\n\n\n[slide 12]\nWarehouse\nconstant temperature and humidity\nfirst-in-first-out\nadequately stocked\n\n[slide 13]\nProduction\nfull quality control\nFirst Article Confirmation\nelectrostatic protection\nHigh temperature aging\nFirst Article Confirmation\n\n\n\n\n\n[slide 14]\nSample room\n(material sealing to ensure consistency of incoming material)\n\n\n\n[slide 15]\nLab\nTemperature, humidity and flow testing\nStatic Test\nSurge Test\n\n[slide 16]\nFile encryption for preservation\nProhibition of customer information on the production area\nSeparate warehouse for customised materials\nComputer lockout prevents use of external copy device\nControlling access to customised information\nConfidentiality\nProduction\nInformation\n",
+"slides":[
+{
+"n":1,
+"items":[
+{
+"t":"picture",
+"name":"picture 4"
+},
+{
+"t":"picture",
+"name":"picture 6"
+},
+{
+"t":"p",
+"text":"Tight control of differential impedance"
+},
+{
+"t":"picture",
+"name":"picture 10"
+},
+{
+"t":"p",
+"text":"eight-layer board design, high frequency board"
+},
+{
+"t":"picture",
+"name":"picture 14"
+},
+{
+"t":"picture",
+"name":"picture 16"
+},
+{
+"t":"picture",
+"name":"picture 18"
+},
+{
+"t":"p",
+"text":"Senior Layout Engineers with years of Data Centre Switch design experience"
+},
+{
+"t":"picture",
+"name":"picture 22"
+},
+{
+"t":"picture",
+"name":"picture 24"
+},
+{
+"t":"p",
+"text":"Separate signal wire from source noise as much as possible"
+},
+{
+"t":"p",
+"text":"Sufficient consideration of EMC/EMI in circuits and design details"
+},
+{
+"t":"picture",
+"name":"picture 34"
+},
+{
+"t":"picture",
+"name":"picture 36"
+},
+{
+"t":"picture",
+"name":"picture 38"
+},
+{
+"t":"p",
+"text":"Multi-layer reference board to ensure signal integrity"
+},
+{
+"t":"picture",
+"name":"picture 36"
+}
+],
+"notes":""
+},
+{
+"n":2,
+"items":[
+{
+"t":"picture",
+"name":"picture 44"
+},
+{
+"t":"picture",
+"name":"picture 46"
+},
+{
+"t":"picture",
+"name":"picture 48"
+},
+{
+"t":"picture",
+"name":"picture 50"
+},
+{
+"t":"picture",
+"name":"picture 52"
+},
+{
+"t":"p",
+"text":"Surge and static protection devices"
+},
+{
+"t":"picture",
+"name":"picture 56"
+},
+{
+"t":"picture",
+"name":"picture 58"
+},
+{
+"t":"picture",
+"name":"picture 60"
+},
+{
+"t":"picture",
+"name":"picture 62"
+},
+{
+"t":"p",
+"text":"Air duct isolation design convects heat away from the source and reduces the impact of heat sources on the mainboard."
+},
+{
+"t":"picture",
+"name":"picture 66"
+},
+{
+"t":"picture",
+"name":"picture 72"
+},
+{
+"t":"p",
+"text":"Heat transfer silicon makes full use of the chassis to dissipate heat"
+},
+{
+"t":"p",
+"text":"Improve EMC/EMI by using contact shrapnel in the contact part of the upper and lower cover of the chassis."
+},
+{
+"t":"picture",
+"name":"picture 78"
+},
+{
+"t":"picture",
+"name":"picture 80"
+},
+{
+"t":"picture",
+"name":"picture 82"
+},
+{
+"t":"p",
+"text":"High-quality source and fan ensure long-term stable and reliable operation"
+},
+{
+"t":"p",
+"text":"MAC and PHY with Marvell solution\nPSE with Realtek solution"
+}
+],
+"notes":""
+},
+{
+"n":3,
+"items":[
+{
+"t":"picture",
+"name":"picture 86"
+},
+{
+"t":"picture",
+"name":"picture 88"
+},
+{
+"t":"table",
+"rows":[
+[
+"High heat dissipation factor silicon and aluminium block to enhance heat dissipation performance"
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":4,
+"items":[
+{
+"t":"picture",
+"name":"picture 96"
+},
+{
+"t":"picture",
+"name":"picture 98"
+},
+{
+"t":"table",
+"rows":[
+[
+"Power module PCB's solder mask opening convenient for high-power devices on the inner PCB through the external aluminium profile to enhance conduction heat dissipation"
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":5,
+"items":[
+{
+"t":"picture",
+"name":"picture 106"
+},
+{
+"t":"picture",
+"name":"picture 110"
+},
+{
+"t":"table",
+"rows":[
+[
+"Iron shell opening, direct conduction of high power devices to aluminium profiles helps to dissipate heat"
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":6,
+"items":[
+{
+"t":"picture",
+"name":"picture 116"
+},
+{
+"t":"table",
+"rows":[
+[
+""
+]
+]
+},
+{
+"t":"picture",
+"name":"picture 120"
+},
+{
+"t":"p",
+"text":"Aluminium heatsinks on inner PCB core devices,\ndirectly conduct to outer profiles"
+}
+],
+"notes":""
+},
+{
+"n":7,
+"items":[
+{
+"t":"picture",
+"name":"picture 128"
+},
+{
+"t":"picture",
+"name":"picture 132"
+},
+{
+"t":"picture",
+"name":"picture 134"
+},
+{
+"t":"picture",
+"name":"picture 136"
+},
+{
+"t":"p",
+"text":"The board interface fold ensures that the interface with metal shrapnel is in full contact with the chassis."
+}
+],
+"notes":""
+},
+{
+"n":8,
+"items":[
+{
+"t":"picture",
+"name":"picture 142"
+},
+{
+"t":"table",
+"rows":[
+[
+""
+]
+]
+},
+{
+"t":"picture",
+"name":"picture 146"
+},
+{
+"t":"p",
+"text":"Conductive foam on the top and bottom of the chassis to improve EMC"
+}
+],
+"notes":""
+},
+{
+"n":9,
+"items":[
+{
+"t":"picture",
+"name":"picture 154"
+},
+{
+"t":"picture",
+"name":"picture 156"
+},
+{
+"t":"p",
+"text":"Unpainted at the combination of the upper and lower covers of the chassis to increase the conductivity."
+}
+],
+"notes":""
+},
+{
+"n":10,
+"items":[
+{
+"t":"picture",
+"name":"picture 164"
+},
+{
+"t":"picture",
+"name":"picture 166"
+},
+{
+"t":"p",
+"text":"Board mounted terminals design are useful for rapid discharge of electrostatic surges"
+}
+],
+"notes":""
+},
+{
+"n":11,
+"items":[
+{
+"t":"picture",
+"name":"picture 200"
+},
+{
+"t":"table",
+"rows":[
+[
+""
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+""
+],
+[
+""
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+""
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+""
+],
+[
+""
+]
+]
+},
+{
+"t":"picture",
+"name":"picture 210"
+},
+{
+"t":"picture",
+"name":"picture 212"
+},
+{
+"t":"picture",
+"name":"picture 214"
+},
+{
+"t":"picture",
+"name":"picture 216"
+},
+{
+"t":"picture",
+"name":"picture 218"
+},
+{
+"t":"p",
+"text":"Marvell/Microchip      Chemi-con/Infineon"
+},
+{
+"t":"picture",
+"name":"picture 222"
+},
+{
+"t":"picture",
+"name":"picture 226"
+},
+{
+"t":"picture",
+"name":"picture 228"
+},
+{
+"t":"picture",
+"name":"picture 230"
+},
+{
+"t":"p",
+"text":"SFP+ interface with heatsink"
+},
+{
+"t":"p",
+"text":"Electroless Nickel / Immersion Gold"
+},
+{
+"t":"p",
+"text":"UDE network port"
+}
+],
+"notes":""
+},
+{
+"n":12,
+"items":[
+{
+"t":"picture",
+"name":"picture 238"
+},
+{
+"t":"picture",
+"name":"picture 240"
+},
+{
+"t":"table",
+"rows":[
+[
+"constant temperature and humidity"
+]
+]
+},
+{
+"t":"picture",
+"name":"picture 244"
+},
+{
+"t":"table",
+"rows":[
+[
+"first-in-first-out"
+]
+]
+},
+{
+"t":"picture",
+"name":"picture 248"
+},
+{
+"t":"table",
+"rows":[
+[
+"adequately stocked"
+]
+]
+},
+{
+"t":"p",
+"text":"Warehouse"
+},
+{
+"t":"picture",
+"name":"picture 258"
+}
+],
+"notes":""
+},
+{
+"n":13,
+"items":[
+{
+"t":"picture",
+"name":"picture 260"
+},
+{
+"t":"table",
+"rows":[
+[
+""
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+""
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+""
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+""
+]
+]
+},
+{
+"t":"picture",
+"name":"picture 270"
+},
+{
+"t":"picture",
+"name":"picture 272"
+},
+{
+"t":"picture",
+"name":"picture 274"
+},
+{
+"t":"picture",
+"name":"picture 276"
+},
+{
+"t":"picture",
+"name":"picture 282"
+},
+{
+"t":"picture",
+"name":"picture 284"
+},
+{
+"t":"p",
+"text":"Production"
+},
+{
+"t":"p",
+"text":"full quality control"
+},
+{
+"t":"p",
+"text":"First Article Confirmation"
+},
+{
+"t":"p",
+"text":"electrostatic protection"
+},
+{
+"t":"p",
+"text":"High temperature aging"
+},
+{
+"t":"picture",
+"name":"picture 296"
+},
+{
+"t":"p",
+"text":"First Article Confirmation"
+}
+],
+"notes":""
+},
+{
+"n":14,
+"items":[
+{
+"t":"picture",
+"name":"picture 298"
+},
+{
+"t":"table",
+"rows":[
+[
+""
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+""
+]
+]
+},
+{
+"t":"picture",
+"name":"picture 304"
+},
+{
+"t":"p",
+"text":"Sample room\n(material sealing to ensure consistency of incoming material)"
+}
+],
+"notes":""
+},
+{
+"n":15,
+"items":[
+{
+"t":"picture",
+"name":"picture 314"
+},
+{
+"t":"picture",
+"name":"picture 316"
+},
+{
+"t":"table",
+"rows":[
+[
+"Temperature, humidity and flow testing"
+]
+]
+},
+{
+"t":"picture",
+"name":"picture 320"
+},
+{
+"t":"table",
+"rows":[
+[
+"Static Test"
+]
+]
+},
+{
+"t":"picture",
+"name":"picture 324"
+},
+{
+"t":"table",
+"rows":[
+[
+"Surge Test"
+]
+]
+},
+{
+"t":"p",
+"text":"Lab"
+}
+],
+"notes":""
+},
+{
+"n":16,
+"items":[
+{
+"t":"picture",
+"name":"picture 336"
+},
+{
+"t":"table",
+"rows":[
+[
+""
+]
+]
+},
+{
+"t":"picture",
+"name":"picture 342"
+},
+{
+"t":"p",
+"text":"File encryption for preservation"
+},
+{
+"t":"p",
+"text":"Prohibition of customer information on the production area"
+},
+{
+"t":"p",
+"text":"Separate warehouse for customised materials"
+},
+{
+"t":"p",
+"text":"Computer lockout prevents use of external copy device"
+},
+{
+"t":"p",
+"text":"Controlling access to customised information"
+},
+{
+"t":"p",
+"text":"Confidentiality"
+},
+{
+"t":"p",
+"text":"Production"
+},
+{
+"t":"p",
+"text":"Information"
+}
+],
+"notes":""
+}
+]
+}

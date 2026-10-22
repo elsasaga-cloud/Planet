@@ -1,0 +1,22 @@
+{
+"id":"1kd4hRxiOh9tdS4j8YIgNNFHAnkYnAXr5",
+"name":"详细 中性结构图 2光 4， 4光8.pdf",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/6系/2光4电/管理型/中性机械结构图/详细 中性结构图 2光 4， 4光8.pdf",
+"type":"PDF",
+"ext":".pdf",
+"bytes":85606,
+"sha256":"07d1f60a6ddcf5e0aa0636e13c5b167c9012a1f3b489a1949f81551feb29d898",
+"extracted_at":"2026-10-22T02:14:58Z",
+"method":"pdfplumber",
+"status":"ok",
+"chars":76,
+"meta":{
+"pages":1,
+"ocr_pages":0
+},
+"warnings":[],
+"text":"[p1]\n47\n44\n3.84\n20\n02\n3.01\n54\n47\n44\n3.84\n20\n02\n3.01\n54\n54 158\n115\n54 158\n115",
+"pages":[
+"47\n44\n3.84\n20\n02\n3.01\n54\n47\n44\n3.84\n20\n02\n3.01\n54\n54 158\n115\n54 158\n115"
+]
+}

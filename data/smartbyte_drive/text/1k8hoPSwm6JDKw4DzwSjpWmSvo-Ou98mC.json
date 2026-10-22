@@ -1,0 +1,22 @@
+{
+"id":"1k8hoPSwm6JDKw4DzwSjpWmSvo-Ou98mC",
+"name":"mounting kit.png",
+"path":"SmartByte/暂时不用的/mounting kit.png",
+"type":"图片",
+"bytes":1512113,
+"sha256":"aabc2e5b97170608ac95d11c0d7ea9b5c8f50074797a1bfc7133db69d22e2f9c",
+"extracted_at":"2026-10-22T02:15:11Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":1024,
+"height":1024,
+"mode":"RGB",
+"thumb_bytes":13463
+},
+"ocr":{
+"text":"Power Cord\nT T Installation Guide\n— Sa\nse\nLeft Rack Ear M6 Cage Nuts &Screws\nBlank Panel",
+"conf":83.7
+},
+"text":"Power Cord\nT T Installation Guide\n— Sa\nse\nLeft Rack Ear M6 Cage Nuts &Screws\nBlank Panel"
+}

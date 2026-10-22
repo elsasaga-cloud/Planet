@@ -1,0 +1,22 @@
+{
+"id":"1gri5ZofDnLR2r2alUcasKZy_CTVzuAfa",
+"name":"Media converter UKCA certification.jpg",
+"path":"SmartByte/暂时不用的/Product certification/Media converter UKCA certification.jpg",
+"type":"图片",
+"bytes":2611078,
+"sha256":"2ffc68d4ec7ed27e43c3a054953ba0c7284d2e7553efefb199512af91d785596",
+"extracted_at":"2026-10-22T02:15:35Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":1700,
+"height":2385,
+"mode":"RGB",
+"thumb_bytes":17548
+},
+"ocr":{
+"text":"Certificate of Conformity\nCertificate : HTT202210092EL\nApplicant : Shenzhen SmartByte Technology Co.,Ltd\n1602, Huiqing Technology Zone, No. 8 Dafu Industrial Area,\n: Kukeng Community, Guanlan, Longhua District, Shenzhen,\nChina\nManufacturer : Shenzhen SmartByte Technology Co.,Ltd\nApplicant\nAddress\n1602, Huiqing Technology Zone, No. 8 Dafu Industrial Area,\nWi Kukeng Community, Guanlan， Longhua District, Shenzhen,\nAddress\nChina\nProduct : Media Converters\nLT-MC80X, LT-MC30F, LT-MC30G, LT-IMC30F, LT-IMC30G,\nModel No. LT-MC60F, LT-MC60G, LT-IMC60F, LT-IMC60G, LT-MC82F,\n: LT-MC82G, LT-MC80F, LT-MC80G, LT-MC8003G-R,\nLT-MC8005XG-PI, LT-MC8009XG-PI\nTrademark : SmartByte\nThe products have been tested by us with listed standards.\nTest standards: Report(s) Number Issued By Issued Date\nBS EN 55032: 2015+AC:2016+A11:2020\n35: 2017+A11:2020\nBS EN IEC 61000-3-2: 2019 HTT202210092ER HTT Oct.17,2022\nBS EN 61000-3-3:2013+A1:2019\nBS EN IEC 62368-1: 2020+A11: 2020 HTT202210092LR HTT Oct.17,2022\nIt may therefore be presumed that the tested sample of the product is in conformity with the\ntechnical provisions of the following.\nUK Statutory Instrument:\nThe Electromagnetic Compatibility Regulations _(S1 2016 No.1091)\nThe Electrical Equipment (Safety) Regulations (SI. 2016 No. 1101)\nProvided that all other applicable UK Regulation requirements are satisfied,the manufacturer\nor authorised representative may draw up a UK Declaration of Conformity and 3\nUKCA marking to each conforming product.\n| 1 K Authorised Signatory:\nOct.17,2022\nShenzhen HTT Technology Co.,Ltd. Web: www.httprc.com\nTEL: 0755-23595200 FAX: 0755-23595201 Hotline: 400-6655-351 Mail: info@httprc.com\n1F, B Building, Huafeng International Robotics Industrial Park, Gushu, Xixiang Street, Bao'an District, Shenzhen, China",
+"conf":89.4
+},
+"text":"Certificate of Conformity\nCertificate : HTT202210092EL\nApplicant : Shenzhen SmartByte Technology Co.,Ltd\n1602, Huiqing Technology Zone, No. 8 Dafu Industrial Area,\n: Kukeng Community, Guanlan, Longhua District, Shenzhen,\nChina\nManufacturer : Shenzhen SmartByte Technology Co.,Ltd\nApplicant\nAddress\n1602, Huiqing Technology Zone, No. 8 Dafu Industrial Area,\nWi Kukeng Community, Guanlan， Longhua District, Shenzhen,\nAddress\nChina\nProduct : Media Converters\nLT-MC80X, LT-MC30F, LT-MC30G, LT-IMC30F, LT-IMC30G,\nModel No. LT-MC60F, LT-MC60G, LT-IMC60F, LT-IMC60G, LT-MC82F,\n: LT-MC82G, LT-MC80F, LT-MC80G, LT-MC8003G-R,\nLT-MC8005XG-PI, LT-MC8009XG-PI\nTrademark : SmartByte\nThe products have been tested by us with listed standards.\nTest standards: Report(s) Number Issued By Issued Date\nBS EN 55032: 2015+AC:2016+A11:2020\n35: 2017+A11:2020\nBS EN IEC 61000-3-2: 2019 HTT202210092ER HTT Oct.17,2022\nBS EN 61000-3-3:2013+A1:2019\nBS EN IEC 62368-1: 2020+A11: 2020 HTT202210092LR HTT Oct.17,2022\nIt may therefore be presumed that the tested sample of the product is in conformity with the\ntechnical provisions of the following.\nUK Statutory Instrument:\nThe Electromagnetic Compatibility Regulations _(S1 2016 No.1091)\nThe Electrical Equipment (Safety) Regulations (SI. 2016 No. 1101)\nProvided that all other applicable UK Regulation requirements are satisfied,the manufacturer\nor authorised representative may draw up a UK Declaration of Conformity and 3\nUKCA marking to each conforming product.\n| 1 K Authorised Signatory:\nOct.17,2022\nShenzhen HTT Technology Co.,Ltd. Web: www.httprc.com\nTEL: 0755-23595200 FAX: 0755-23595201 Hotline: 400-6655-351 Mail: info@httprc.com\n1F, B Building, Huafeng International Robotics Industrial Park, Gushu, Xixiang Street, Bao'an District, Shenzhen, China"
+}

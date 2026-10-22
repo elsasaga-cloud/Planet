@@ -1,0 +1,578 @@
+{
+"id":"177Ndjvtpb_gvp5BxeB2spnIoxVGasev0",
+"name":"release-7.1.0-spec 凌特软件规格.xlsx",
+"path":"SmartByte/暂时不用的/release-7.1.0-spec 凌特软件规格.xlsx",
+"type":"Excel",
+"ext":".xlsx",
+"bytes":21619,
+"sha256":"7559fafb059ee150eba5e62fc1e8bc72b355a617030c22b6d6dee16545a079b9",
+"extracted_at":"2026-10-22T02:14:38Z",
+"method":"openpyxl(values)",
+"status":"ok",
+"chars":2792,
+"meta":{
+"sheets":[
+"Marvell交换机软件规格"
+],
+"embedded_images":0,
+"rows_total":102
+},
+"warnings":[],
+"text":"--- Sheet: Marvell交换机软件规格 ---\n交换机规格\t\t\t\t版本依赖\n二层交换功能\nL2 Switch Features\t端口聚合\n(Link Aggregation)\t支持GE端口聚合 (GE Port Aggregaiton)\n\t\t支持10GE端口聚合 (10GE Port Aggregation)\n\t\t支持静态聚合 (Static Aggregation)\n\t\t支持动态聚合 (Dynamic Aggragation)\n\t端口特性\n(Port Features)\t支持IEEE802.3x 流量控制 (IEEE 802.3x flow control)\n\t\t支持端口流量统计 (Interface counters)\n\t\t端口隔离功能\n\t\t支持基于端口速率百分比的风暴抑制 (Storm control)\n\t\t支持光电复用口的自适应\t\t7.1.0\n\tMAC地址表\n (mac-address table management)\t静态地址 (Static mac-address management)\n\t\t动态地址 (Dynamic mac-address management)\n\t\t过滤地址 (Filtering mac-address)\n\t\t支持基于端口、vlan的mac limit功能\n\t\t支持基于端口、vlan的mac flapping功能\n\tVLAN\t支持access模式\n\t\t支持trunk模式\n\t\t支持hybrid模式\n\tGVRP\tnormal模式\t\t6.2.0\n\t\tfixed模式\n\t\tforbidden模式\n\tVLAN Classification\tMac Based VLAN\n\t\tIP Based VLAN\n\t\tProtocal Based VLAN\n\tQinQ\t基本QinQ (Port-based QinQ)\n\t\t灵活QinQ(VLAN-based QinQ)\n\t\t基于流的QinQ(Flow-based QinQ)\n\tLLDP\t链路层发现协议\n\tMirror\t多对一镜像 (Port Mirroring)\n\tIEEE802.1w RSTP\tSTP\n\t\tRSTP\n\t\tMSTP\n\t以太环保护协议（G.8032)\t单环 (Major ring)\n\t\t关联子环与其它环 (Sub ring)\n\tloop-detect\t基于端口环路检测\t\t6.2.0\n\t\t基于端口+vlan的环路检测\n三层功能\tARP\tARP表项老化\tL2+\n\t静态路由\tipv4静态路由\tL2+\n\t\tipv6静态路由\tL2+\n\t等价路由\t等价路由\tL3\n\t\t可配置ECMP的最大next-hop数目\tL3\n\t\t支持流量均衡配置\tL3\n\tRoute policy\tIPv4 prefix-list\tL3\n\tVRRP\t虚拟路由冗余协议\tL3\nmulticast\t二层组播\tIGMP snooping\nRouting Protocol Specification\tRIP\tRIPv1/v2\tL3\n\tOSPFv2\tOSPFv2\tL3\n\tBGP4\tBGP4\tL3\n\t\tBGP支持路由递归ECMP\tL3\n\t\t支持查看邻居数量以及up/down状态\tL3\n\tIS-IS\tIS-ISv4\tL3\nSecurity Features\tACL\tIP标准ACL (IP Standard ACL)\n\t\tMAC扩展ACL (MAC extend ACL)\n\t\tIP扩展ACL (IP extend ACL)\n\t\t支持L2、L3、L4匹配\t\t7.1.0\n\t\t支持ipv6 ACL\t\t7.1.0\n\tQoS\t支持QoS重标记，优先级映射 (QoS Class, Remarking)\n\t\t支持SP，WRR队列调度 (Support SP, WRR queue scheduling)\n\t\t入口限速 (Ingress Port-based Rate-limit)\n\t\t出口限速 (Egress Port-based Rate-limit)\n\t\t基于流的QoS (Policy-based QoS)\n\tDot1x\t端口认证(Port Access Control)\n\t\tmac认证(Mac-address Access Control)\n\t\tRADIUS服务(RADIUS Server)\n\tport-security\t端口安全\n\tip source guard\t基于端口的ip、mac用户准入\n\tarp-check\t非法用户arp报文过滤\n\t访问控制\t支持telnet、ssh、http、https的用户访问控制\t\t7.1.0\nManagement Features\t用户管理 (User management)\t登录认证(support password protection)\n\t\t用户权限管理\t\t7.1.0\n\tSNMP\tSupporting version(SNMPV2C/V3)\n\tWeb管理\n(Web management)\tWeb管理 (Web management)\n\t\t支持HTTP V1.1\n\t\t支持HTTPS\t\t7.1.0\n\tRMON\tRMON\n\t版本升级 (Firmware Upgrade)\t版本升级 (Firmware Upgrade)\n\t故障侦测\tping/tracerout\n\t\tdying gasp\n\t\t光模块信息检测\n\t线缆检测功能\t支持电口线缆检测\t\t6.2.0\n\tNTP\t系统时间同步功能\n\tSyslog/Debug\tSyslog/Debug\n\t配置导入/导出\t支持基于FTP/TFTP的远程配置导入导出\n\t\t支持基于U盘的本地配置导入导出\n\t双分区管理\t支持双分区切换\nApplication Protocol Features\tDHCP Snooping\t支持信任口的设置 (Dhcp snooping trust port)\n\t\t支持remote-id、circuit-id可配置\t\t7.1.0\n\t\t支持option-82\n\tDHCP Server\tDHCP Server\tL2+\n\tDHCP Client\tDHCP Client\n\tTelnet Server\t支持Telnet服务端 (Telnet Server)\n\tTelnet Client\t支持Telnet客户端 (Telnet Client)\n\tSSH Server\t支持SSH服务端(SSH2)\n\tTACACS\t终端访问控制器访问控制系统\n\tPOE\t支持PD detect功能\n\t\t支持优先级管理\n\t\t支持端口max power设置\n\t\t支持告警水线设置\n\t\t支持预留功率设置\n\t\t支持AF/AT/BT供电标准\n\tsflow\t支持网络流量分析\t\t7.1.0\n\tTFTP\tTFTP Client",
+"sheets":{
+"Marvell交换机软件规格":{
+"state":"visible",
+"rows":[
+[
+"交换机规格",
+"",
+"",
+"",
+"版本依赖"
+],
+[
+"二层交换功能\nL2 Switch Features",
+"端口聚合\n(Link Aggregation)",
+"支持GE端口聚合 (GE Port Aggregaiton)"
+],
+[
+"",
+"",
+"支持10GE端口聚合 (10GE Port Aggregation)"
+],
+[
+"",
+"",
+"支持静态聚合 (Static Aggregation)"
+],
+[
+"",
+"",
+"支持动态聚合 (Dynamic Aggragation)"
+],
+[
+"",
+"端口特性\n(Port Features)",
+"支持IEEE802.3x 流量控制 (IEEE 802.3x flow control)"
+],
+[
+"",
+"",
+"支持端口流量统计 (Interface counters)"
+],
+[
+"",
+"",
+"端口隔离功能"
+],
+[
+"",
+"",
+"支持基于端口速率百分比的风暴抑制 (Storm control)"
+],
+[
+"",
+"",
+"支持光电复用口的自适应",
+"",
+"7.1.0"
+],
+[
+"",
+"MAC地址表\n (mac-address table management)",
+"静态地址 (Static mac-address management)"
+],
+[
+"",
+"",
+"动态地址 (Dynamic mac-address management)"
+],
+[
+"",
+"",
+"过滤地址 (Filtering mac-address)"
+],
+[
+"",
+"",
+"支持基于端口、vlan的mac limit功能"
+],
+[
+"",
+"",
+"支持基于端口、vlan的mac flapping功能"
+],
+[
+"",
+"VLAN",
+"支持access模式"
+],
+[
+"",
+"",
+"支持trunk模式"
+],
+[
+"",
+"",
+"支持hybrid模式"
+],
+[
+"",
+"GVRP",
+"normal模式",
+"",
+"6.2.0"
+],
+[
+"",
+"",
+"fixed模式"
+],
+[
+"",
+"",
+"forbidden模式"
+],
+[
+"",
+"VLAN Classification",
+"Mac Based VLAN"
+],
+[
+"",
+"",
+"IP Based VLAN"
+],
+[
+"",
+"",
+"Protocal Based VLAN"
+],
+[
+"",
+"QinQ",
+"基本QinQ (Port-based QinQ)"
+],
+[
+"",
+"",
+"灵活QinQ(VLAN-based QinQ)"
+],
+[
+"",
+"",
+"基于流的QinQ(Flow-based QinQ)"
+],
+[
+"",
+"LLDP",
+"链路层发现协议"
+],
+[
+"",
+"Mirror",
+"多对一镜像 (Port Mirroring)"
+],
+[
+"",
+"IEEE802.1w RSTP",
+"STP"
+],
+[
+"",
+"",
+"RSTP"
+],
+[
+"",
+"",
+"MSTP"
+],
+[
+"",
+"以太环保护协议（G.8032)",
+"单环 (Major ring)"
+],
+[
+"",
+"",
+"关联子环与其它环 (Sub ring)"
+],
+[
+"",
+"loop-detect",
+"基于端口环路检测",
+"",
+"6.2.0"
+],
+[
+"",
+"",
+"基于端口+vlan的环路检测"
+],
+[
+"三层功能",
+"ARP",
+"ARP表项老化",
+"L2+"
+],
+[
+"",
+"静态路由",
+"ipv4静态路由",
+"L2+"
+],
+[
+"",
+"",
+"ipv6静态路由",
+"L2+"
+],
+[
+"",
+"等价路由",
+"等价路由",
+"L3"
+],
+[
+"",
+"",
+"可配置ECMP的最大next-hop数目",
+"L3"
+],
+[
+"",
+"",
+"支持流量均衡配置",
+"L3"
+],
+[
+"",
+"Route policy",
+"IPv4 prefix-list",
+"L3"
+],
+[
+"",
+"VRRP",
+"虚拟路由冗余协议",
+"L3"
+],
+[
+"multicast",
+"二层组播",
+"IGMP snooping"
+],
+[
+"Routing Protocol Specification",
+"RIP",
+"RIPv1/v2",
+"L3"
+],
+[
+"",
+"OSPFv2",
+"OSPFv2",
+"L3"
+],
+[
+"",
+"BGP4",
+"BGP4",
+"L3"
+],
+[
+"",
+"",
+"BGP支持路由递归ECMP",
+"L3"
+],
+[
+"",
+"",
+"支持查看邻居数量以及up/down状态",
+"L3"
+],
+[
+"",
+"IS-IS",
+"IS-ISv4",
+"L3"
+],
+[
+"Security Features",
+"ACL",
+"IP标准ACL (IP Standard ACL)"
+],
+[
+"",
+"",
+"MAC扩展ACL (MAC extend ACL)"
+],
+[
+"",
+"",
+"IP扩展ACL (IP extend ACL)"
+],
+[
+"",
+"",
+"支持L2、L3、L4匹配",
+"",
+"7.1.0"
+],
+[
+"",
+"",
+"支持ipv6 ACL",
+"",
+"7.1.0"
+],
+[
+"",
+"QoS",
+"支持QoS重标记，优先级映射 (QoS Class, Remarking)"
+],
+[
+"",
+"",
+"支持SP，WRR队列调度 (Support SP, WRR queue scheduling)"
+],
+[
+"",
+"",
+"入口限速 (Ingress Port-based Rate-limit)"
+],
+[
+"",
+"",
+"出口限速 (Egress Port-based Rate-limit)"
+],
+[
+"",
+"",
+"基于流的QoS (Policy-based QoS)"
+],
+[
+"",
+"Dot1x",
+"端口认证(Port Access Control)"
+],
+[
+"",
+"",
+"mac认证(Mac-address Access Control)"
+],
+[
+"",
+"",
+"RADIUS服务(RADIUS Server)"
+],
+[
+"",
+"port-security",
+"端口安全"
+],
+[
+"",
+"ip source guard",
+"基于端口的ip、mac用户准入"
+],
+[
+"",
+"arp-check",
+"非法用户arp报文过滤"
+],
+[
+"",
+"访问控制",
+"支持telnet、ssh、http、https的用户访问控制",
+"",
+"7.1.0"
+],
+[
+"Management Features",
+"用户管理 (User management)",
+"登录认证(support password protection)"
+],
+[
+"",
+"",
+"用户权限管理",
+"",
+"7.1.0"
+],
+[
+"",
+"SNMP",
+"Supporting version(SNMPV2C/V3)"
+],
+[
+"",
+"Web管理\n(Web management)",
+"Web管理 (Web management)"
+],
+[
+"",
+"",
+"支持HTTP V1.1"
+],
+[
+"",
+"",
+"支持HTTPS",
+"",
+"7.1.0"
+],
+[
+"",
+"RMON",
+"RMON"
+],
+[
+"",
+"版本升级 (Firmware Upgrade)",
+"版本升级 (Firmware Upgrade)"
+],
+[
+"",
+"故障侦测",
+"ping/tracerout"
+],
+[
+"",
+"",
+"dying gasp"
+],
+[
+"",
+"",
+"光模块信息检测"
+],
+[
+"",
+"线缆检测功能",
+"支持电口线缆检测",
+"",
+"6.2.0"
+],
+[
+"",
+"NTP",
+"系统时间同步功能"
+],
+[
+"",
+"Syslog/Debug",
+"Syslog/Debug"
+],
+[
+"",
+"配置导入/导出",
+"支持基于FTP/TFTP的远程配置导入导出"
+],
+[
+"",
+"",
+"支持基于U盘的本地配置导入导出"
+],
+[
+"",
+"双分区管理",
+"支持双分区切换"
+],
+[
+"Application Protocol Features",
+"DHCP Snooping",
+"支持信任口的设置 (Dhcp snooping trust port)"
+],
+[
+"",
+"",
+"支持remote-id、circuit-id可配置",
+"",
+"7.1.0"
+],
+[
+"",
+"",
+"支持option-82"
+],
+[
+"",
+"DHCP Server",
+"DHCP Server",
+"L2+"
+],
+[
+"",
+"DHCP Client",
+"DHCP Client"
+],
+[
+"",
+"Telnet Server",
+"支持Telnet服务端 (Telnet Server)"
+],
+[
+"",
+"Telnet Client",
+"支持Telnet客户端 (Telnet Client)"
+],
+[
+"",
+"SSH Server",
+"支持SSH服务端(SSH2)"
+],
+[
+"",
+"TACACS",
+"终端访问控制器访问控制系统"
+],
+[
+"",
+"POE",
+"支持PD detect功能"
+],
+[
+"",
+"",
+"支持优先级管理"
+],
+[
+"",
+"",
+"支持端口max power设置"
+],
+[
+"",
+"",
+"支持告警水线设置"
+],
+[
+"",
+"",
+"支持预留功率设置"
+],
+[
+"",
+"",
+"支持AF/AT/BT供电标准"
+],
+[
+"",
+"sflow",
+"支持网络流量分析",
+"",
+"7.1.0"
+],
+[
+"",
+"TFTP",
+"TFTP Client"
+]
+]
+}
+}
+}

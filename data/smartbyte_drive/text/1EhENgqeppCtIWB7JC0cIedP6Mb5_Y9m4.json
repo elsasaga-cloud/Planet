@@ -1,0 +1,22 @@
+{
+"id":"1EhENgqeppCtIWB7JC0cIedP6Mb5_Y9m4",
+"name":"2+4 尺寸图.png",
+"path":"SmartByte/暂时不用的/商业级管理 源图/2光+4电/2+4 尺寸图.png",
+"type":"图片",
+"bytes":140782,
+"sha256":"6a07d1274da105d746e64f1b62935b2c9ae1f2d581bd575ee4c85c4506a3e4f5",
+"extracted_at":"2026-10-22T02:15:24Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5350,
+"height":1517,
+"mode":"RGB",
+"thumb_bytes":2329
+},
+"ocr":{
+"text":"一 44mm 一 二\nratewpegsessd Gren:\noOo 戰 T I\nPOWER D C\nConsole E [全 | Se : :\n6\nao 品 a 點 + ©) + = — ——\n=e j [| 有 |\n图\n115mm\n152mm\n152mm",
+"conf":57.2
+},
+"text":"一 44mm 一 二\nratewpegsessd Gren:\noOo 戰 T I\nPOWER D C\nConsole E [全 | Se : :\n6\nao 品 a 點 + ©) + = — ——\n=e j [| 有 |\n图\n115mm\n152mm\n152mm"
+}

@@ -1,0 +1,2732 @@
+{
+"id":"1oB5Bl79_XM7SDV7RS9SP5wnbA0CV7Kl5",
+"name":"Marvell and Competitor Realtek -Switches Product Comparison.xlsx",
+"path":"SmartByte/暂时不用的/2025 Q1验厂/Marvell and Competitor Realtek -Switches Product Comparison.xlsx",
+"type":"Excel",
+"ext":".xlsx",
+"bytes":40103,
+"sha256":"84a7614f3bb9799e1261dd76c75d901444022ba827f1442c1aea8dec4c3793ae",
+"extracted_at":"2026-10-22T02:12:07Z",
+"method":"openpyxl(values)",
+"status":"ok",
+"chars":33367,
+"meta":{
+"sheets":[
+"Sheet1",
+"Sheet2",
+"Sheet3"
+],
+"embedded_images":1,
+"rows_total":334
+},
+"warnings":[],
+"text":"--- Sheet: Sheet1 ---\nComparison item type\tComparison item\tComparison sub - item\tTip：Grading based on effectiveness\nGreen represents fairly complete. Light green represents that the function will be supported soon. Yellow represents relatively complete. Red represents missing/imperfect. White represents that no conclusion can be drawn.\t\t\tSuggestion\n\t\t\tDPTEK Marvell（AC5 release-7.4.0）\tRealtek competitor 1\tRealtek competitor2\nSystem\tUser Management\tUser Privilege level\tSupport Level 0 to 15\tSupport admin/user only\tUser composition: \nid-name-pass-level-state\nSupport level 1 to 4\n\t\tSupport setting encrypted/unencrypted passwords \n（viewed through the \"show run\" command）\tSupport ciphertext only\tSupport\tNot Supported\tWe are considering adding this feature\n\t\tSupport for password-less users\tNot Supported\tSupport\tNot Supported\n\t\tConfigurable login methods for local login（console、http、https、ssh、telnet)\tSupport vty/console\tSupport\tSupport ssh/telnet/web\n\t\tSupport configuration of password retry count\trelease/7.4.0 support\tSupport\tNot Supported\n\t\tSupport configuration of session timeout\tSupport\tSupport\tSupport\n\t\tSupport configuration of the login lockout duration\trelease/7.4.0 support\tNot Supported\tNot Supported\n\t\tSupport password assignment based on RSA keys\trelease/7.4.0 support\tNot Supported\tNot Supported\n\tBanner\tSupport edit specific prompt messages in Login/Exec mode\tNot Supported\tNot Supported\tNot Supported\n\tSupport configuration of import/export\tcore\tSupport\tNot Supported\tNot Supported\n\t\tdata\tSupport\tNot Supported\tNot Supported\n\t\tdefault-config\tSupport\tNot Supported\tNot Supported\n\t\tempty-config\tSupport\tNot Supported\tNot Supported\n\t\tmgmt-if\tNot Supported\tNot Supported\tNot Supported\n\t\tlog\tSupport\tNot Supported\tNot Supported\n\t\trunning-config\tSupport\tSupport\tOnly web supports export/import\n\t\tstartup-config\tSupport\tSupport\tNot Supported\n\t\tsystem\tSupport\tNot Supported\tNot Supported\n\t\ttmp\tSupport\tNot Supported\tNot Supported\n\t\tbackup-config\tNot Supported\tSupport\tNot Supported\tWe're considering adding a backup configuration file. This would facilitate the preservation of device configuration information when the device is handed over. Additionally, it could be used to create user - specific configuration files tailored to the current user. Users could execute commands to overwrite the current configuration into this file, enhancing the depth of user management and enriching its content.\n\t\ttech-support\tNot Supported\tSupport\tNot Supported\n\t\tImport/export in cloud platform management\tNot Supported\tNot Supported\tNot Supported\n\tSupported method for file interaction\tFTP\tSupport\tSupport\tNot Supported\n\t\tSFTP\trelease/7.4.0 support\tNot Supported\tNot Supported\n\t\tSCP\trelease/7.4.0 support\tNot Supported\tNot Supported\n\t\tTFTP\tSupport\tSupport\tNot Supported\n\t\tUSB\tSupport\tNot Supported\tNot Supported\n\t\tUART\tNot Supported\tSupport\tNot Supported\n\t\tWEB import/export\tSupport\tOnly local file copying is supported\tSupport\n\tSystem Upgrade\tWEB Upgrade\tSupport\tSupport\tSupport\n\t\tTFTP-ipv4\tSupport\tSupport\tNot Supported\n\t\tTFTP-ipv6\tSupport\tSupport\tNot Supported\tThis feature will be supported after the development of IPv6 is completed.\n\t\tSupport online update\tNot Supported\tNot Supported\tNot Supported\n\t\tSupport\"Check for updates\"\tNot Supported\tNot Supported\tNot Supported\n\tSystem time\tLocal time\tSupport\tSupport\tSupport\n\t\tNTP and Synchronization\tSupport ipv4、ipv6\tSupport SNTP (but NTP effectively active)\tSupport (Claimed to use SNTP in the web application environment, but the NTP is actually in effect\tThe SNTP server is a simplified version of the NTP server. NTP offers higher precision, so supporting NTP suffices.\n\t\tSNTP and Synchronization\tNot Supported（but our NTP implementation is actually based on SNTP ）\tSupport\tSupport\n\t\tWEB Synchronization (with PC Synchronization)\tSupport\tSupport\tSupport\n\t\tSupport configuration of Messages/Packets/Datagrams types\tNot Supported\tNot Supported\tSupport broadcast, multicast, unicast, and their combined types\n\t\tSummer/Winter time\tNot Supported\tSupport\tSupport\n\tTELNET\tServer\tSupport ipv4、ipv6\tSupport ipv4、ipv6\tSupport\n\t\tClient\tSupport ipv4、ipv6\tNot Supported\tNot Supported\tThe fact that our device supports the Telnet client needs to be reflected in the configuration document.\n\tSSH\tSupport this feature\tSupport ipv4、ipv6\tSupport ipv4、ipv6\tSupport\n\t\tSupport configuration of encryption algorithms\trelease/7.4.0 support\tNot Supported\tNot Supported\n\t\tSupport configuration of SSH key\trelease/7.4.0 support\tNot Supported\tNot Supported\n\t\tMaximum number of supported SSH connections\t8，Exceeding the quantity will  login fail\t8，Exceeding the quantity will  login fail\t5，Exceeding the quantity will lead to login fail\n\tWEB\thttp\tSupportipv4、ipv6\tSupportipv4、ipv6\tSupport\n\t\thttps\tSupportipv4、ipv6\tSupportipv4、ipv6\tNot Supported\n\t\tconfigurable HTTPS encryption components\tSupport\tNot Supported\tNot Supported\n\t\tconfigurable HTTPS certificates and keys\tSupport\tNot Supported\tNot Supported\n\t\tMaximum number of connections supported by HTTP\tSupport\tNot Supported\tNot Supported\n\tRPC-API\tSupport RPC-API function\tNot Supported\tNot Supported\tNot Supported\n\tSyslog\tSupport syslog remote server\tSupport ipv4、ipv6\tSupport ipv4、ipv6\tNot Supported\n\t\tSupport encryption transmission\tNot Supported\tNot Supported\tNot Supported\n\tQuantity of remote login online\t\t8，Exceeding the quantity will  login fail\t8，Exceeding the quantity will  login fail\t5，Exceeding the quantity will lead to login fail\n\tSerial Interface\tConfigurable baud rate and other parameters\tNot Supported\tNot tested, treated as Not Supported\tNot tested, treated as Not Supported\ninterface\tRate\tRJ45 port：10/100/100M\tSupport\tSupport\tSupport\n\t\tSFP port：100M/1000M/2.5G/10G/100G\t100M SFP port not supported\tsupport 100M/1000M only\tsupport 1000M only\n\tDuplex\t10-1000M Full Duplex\tSupport\tSupport\tSupport\n\t\t1000M Half Duplex\tTemporarily not supported\tNot Supported\tNot Supported\tIf the chip supports it, 1000M Half Duplex can be developed in the future\n\tEEE\t\tNot Supported\tSupport\tSupport\n\tAuto-negotiation\tAuto-negotiation of Electrical Interface\tSupport\tSupport\tSupport\n\t\tAuto - negotiation of Optical Interface\tSupport\tNot Supported\tNot Supported\n\tFlow control\tFlow control is effective in the range of 1000 - 100 (Mbps)\tSupport\tSupport\tSupport\n\t\tFlow control is effective in the range of 1000 - 10 (Mbps)\tSupport\tSupport\tSupport\n\t\tFlow control is effective in the range of 100 - 10 (Mbps)\tSupport\tSupport\tSupport\n\tMTU\tbased on port\t64-10240\tNot Supported\tNot Supported, allowed packet length: 64 - 10240\n\t\tbased on global\tNot Supported\t64-12k\tNot Supported, allowed packet length: 64 - 10240\n\tBroadcast Storm\tSupport type all\tSupport\tNot Supported\tSupport\n\t\tSupport type broadcast\tSupport\tSupport\tSupport（Default to enable the limit of 64kbps）\n\t\tSupport type multicast\tSupport\tNot Supported\tNot Supported\n\t\tSupport unknown type multicast\tSupport\tSupport\tSupport\n\t\tSupport type multicast and broadcast\tSupport\tNot Supported\tNot Supported\n\t\tSupport for unknown type unicast\tSupport\tSupport\tSupport\n\t\tSupport for unknown type unicast and broadcast\tSupport\tNot Supported\tNot Supported\n\t\tSupport for suppression precision\t0.01% of the line speed\t1kbps/1pps\t16kbps\n\t\tStorm suppression granularity\t100pps\t1pps\t16kbps (25*64-byte packets)\n\t\tMinimum value of storm suppression\t100pps/64kbps\t16kbps/1pps\t16kbps\n\t\tStorm control action\tdrop\tshutdown/drop\tdrop\n\t\tOptional whether to include frame gap\tNot Supported，only support excluding frame gaps\tSupport\tNot Supported，only support excluding frame gaps\n\tInterface Counters\tInterface transceiver statistics\tPacket sending and receiving data based on ports\tOnly count the total number of packets sent and received\tPacket sending and receiving data based on ports\n\t\tClassification\tLoad Percentage、Jumbo Frame、Runt Frame、Faulty Packet、Number of Collision Packets\tNumber of Bytes、Number of Unknown Unicast Packets、Number of Unicast Packets Passed to Subnet via Upper Layer Protocol (ifInNUcastPkts)、Number of Dropped Packets、Number of Broadcast Packets、Number of Multicast Packets\tTransmit and Receive Byte Count、Number of Packets、Unicast、Multicast、Broadcast、Number of Drops、Pause Frame、Drop Event、FCS Error Packet、Packet Fragment\n\t\tEtherlink Transmit and Receive Statistics\tNot Supported\tSupport\tNot Supported\n\t\tRMON Transmit and Receive Statistics\tNot Supported\tSupport\tNot Supported\n\tOptoelectronic multiplexing\tSpecify the multiplexing type\tSupport\tNot Supported\tNot Supported\n\t\tPhotoelectric Adaptation\tSupport\tNot Supported\tNot Supported\n\tPort Mirroring\tSupported quantity of mirror groups\t7\t4\t1\n\t\tSource port supports the CPU interface\tNot Supported\tNot Supported\tNot Supported\n\t\tSupport ingress and egress classification\tSupport\tNot Supported\tSupport\n\t\tsupport many-to-many\tonly support many-to-one\tsupport many-to-many\tonly support many-to-one\n\t\tSource port supports VLAN\tSupport\tNot Supported\tNot Supported\n\t\tSupport RSPAN\tSupport\tNot Supported\tNot Supported\n\t\tSupport the enabling of switching function for destination ports\tSupport\tNot Supported\tNot Supported\n\tPort isolation\tIsolate Groups\t1 group\t1 group\t32 groups\tThe implementation of this feature in TP - LINK products is different from that of other manufacturers.\n\t\tIsolation supports multiple types\tNot Supported\tNot Supported\tNot Supported\n\tPort-based Rate-limit\tSupports ingress and egress rate limiting\tSupport\tSupport\tSupport\n\t\tMinimum speed limit value\t64kbps\t16kbps\t16kbps\tthe minimum speed limit of Realtek devices is relatively high\n\t\tSupports rate limiting for queues\tNot Supported\tSupport\tNot Supported\tWe don't have this feature, we can consider adding it\n\tCable testing\t\tSupport\tSupport\tSupport\n\tPort description\t\tSupport\tSupport\tSupport\n\tErrdisable\tSupport this feature\tSupport\nlag-mismatch、stp-bpdu-guard、intf-up-down、port-security-voilation、mac-table-flapping、loop-detect\tNot Supported\tNot Supported\n\t\tError recovery\tSupport\tSupport\tNot Supported\n\tDiagnostics\tCPU Utilization\tSupport\tSupport\tSupport\n\t\tMemory Utilization\tSupport\tSupport\tSupport\n\t\tPort Utilization\tSupport\tSupport\tSupport\nPoE\tMaximum power configuration\t\tSupport\tNot Supported\tEUT Not Supported\tWe have relatively complete functions in the PoE part\n\tSupports non - standard\t\tSupport\tNot Supported\tEUT Not Supported\n\tPD-Detect\t\tSupport\tNot Supported\tEUT Not Supported\n\tPoE Port Power Feeding Priority\t\tSupport\tNot Supported\tEUT Not Supported\n\tPoE Reseve Power\t\tSupport\tNot Supported\tEUT Not Supported\n\tAlarm\t\tSupport\tNot Supported\tEUT Not Supported\n\tSupport AF/AT/BT standard\t\tSupport\tEUT only support AT\tEUT Not Supported\n\tTimed Power Supply\t\tNot Supported\tSupport\tEUT Not Supported\nL2\tLACP\tStatic Aggregation\tSupport\tSupport\tSupport\n\t\tDynamic Aggragation\tSupport\tSupport\tSupport\n\t\tIP-based load balancing\tSupport\tNot Supported\tSupport\n\t\tMAC-based load balancing\tSupport\tSupport\tSupport\n\t\tIP-MAC based load balancing\tSupport\tSupport\tSupport\n\t\tPort-based load balancing\tSupport\tNot Supported\tSupport\n\t\tIP-port based load balancing\tNot Supported\tNot Supported\tSupport\n\t\tother load balancing\tNot Supported\tNot Supported\tNot Supported\n\t\tLink redundancy\tSupport\tSupport\tSupport\n\t\tsupport 10/100GE Port Aggregation\tSupport 10G Port Aggregation\tEUT Not Support 10G Aggregation\tEUT Not Support 10G Aggregation\n\t\tMaximum capacity of AP ports\t64\t64\t8\n\t\tMaximum number of member ports supported by a single AP port\t8\t8\tThere is no restriction on the maximum number of AP ports. At least more than 10 static member ports can be added (there are 10 ports in total on the device), but a maximum of 8 active ports are allowed.\n\t\tLACP Port Priority\tSupport\tSupport\tSupport\n\tSTP\tConvergence Time(when docking with our device)\t30s\t49s\t30s (actually, it's the docking of RSTP and STP)\n\tRSTP\tConvergence Time(when docking with our device)\t12ms（SFP port）\n0.4s（RJ45 port）\t23.5s（RJ45 port）\t0.3s（RJ45 port）\n\t\tSupport for edge ports\tEnable/Auto\tEnable/Auto\tNot Supported\n\tMSTP\tConvergence Time(when docking with our device)\t0.012s（SFP port）\n0.4s（SFP port）\t9s\tNot Supported\n\t\tNumber of supported instances\t63\t64\tNot Supported\n\tMLAG\tSupport this feature\tNot Supported\tNot Supported\tNot Supported\n\tBPDU protection\t\tSupport\tSupport\tNot Supported\n\tSTP Root Protection\t\tSupport\tSupport\tNot Supported\n\tERPS\tConfiguration of East/West interfaces\tEast/West interfaces\tport 0/1\tEast/West interfaces\n\t\tSupport Major/Sub ring\tSupport\tSupport\tSupport\n\t\tReversion\tSupport manual/auto mode\tReversible/Irreversible Mode\tSupport automatic reversion\n\t\tConvergence Time\t6ms\tA total of ten samples were taken, and the average value was 240 ms\n（218+27+98+217+350+370+186+117+500+317）/10=240\tAfter enabling the ERPS function, even if the peer end does not interact, the device will still send data outward.\nThere are more than 120 802.1a packets per second, which is quite unreasonable\tSummary: The ERPS function of the ISW9010 product has a significant difference in logic compared to ours, and it is not user - friendly.\n\t\twhether a protection VLAN needs to be created\tNo\tYes\tYes\n\tVLAN\tSupport access\tSupport the default setting as an access port\tSupport\tSupport\n\t\tSupport trunk\tSupport\tSupport the default setting as an trunk port\tSupport\n\t\tSupport hybrid\tSupport\tSupport\tSupport\n\t\tSupport allow vlan（trunk、hybrid）\tSupport\tCreating or deleting allow VLANs will generate a large number of logs, which affects the user experience.\tSupport\n\t\tSupport hybrid untag type\tSupport\tNot Supported\tSupport\n\t\tSupport the deletion of VLAN configuration and the quantity of stress testing (10 rounds)\tSupport VLAN Quantity: 4k\tSupport VLAN Quantity: 4k\t4094, occupying 0M, there will be an SNMP node dot1qVlanStaticTable error report.\tTest method: Sequentially run scripts to create and delete VLANs from 1 to 4000 (start the next round of loop when prompted that commands can be entered), continuously send and receive packets, repeat this process for ten rounds each. If the device remains operational, it is considered stable. Record the memory occupancy after the execution is completed.\nFor our device, when the stress - testing quantity reaches over 2000, high - frequency creation and deletion may cause problems such as the device getting stuck or processes being terminated. If this performance issue cannot be resolved, it is recommended to increase the time for the next command - line to jump out, and wait until the creation is completed before executing other commands.\n\t\tOther VLAN Types\tNot Supported\tSupport tunnel type\tNot Supported\n\tVlan Classification\tMAC-based VLAN\tSupport\tSupport\tNot Supported\n\t\tPort - based VLAN\tIEEE 802.1Q Tagged VLAN\tSupport\tNot Supported\n\t\tIP-based VLAN\trelease/7.4.0 support\tNot Supported\tNot Supported\n\t\tProtocol-based VLAN\tetherv2、snapllc、nosnapllc\nProtocol Value: 0 - 65535\tetherv2、IEEE802.3_LLC_OTHER、RFC1042\nProtocol Value 0x600-0xFFEE\tNot Supported\n\t\tVoice Vlan\trelease/7.4.0 support\tSupport\tNot Supported\tThis feature determines the manufacturer based on the first 24 bits of the MAC address. Once it identifies the data stream as a voice stream, it adjusts the priority values of CoS and DSCP.\n\t\tSurveillance VLAN\tThis function can be achieved through QoS\tSupport\tNot Supported\tThis feature is similar to voice VLAN.\n\tGVRP\tSupport Normal mode\tSupport\tSupport\tSupport\n\t\tSupport Fixed mode\tSupport\tSupport\tSupport\n\t\tSupport Forbidden Mode\tSupport\tSupport\tSupport\n\t\tSupport the registration and deregistration of 4094 dynamic VLANs\tIt's not possible to register 2 - 4094 VLANs all at once. There will be problems such as packet loss (cpp128), inability to learn all of them, slow display in the \"show\" command, and performance - related issues remain.\tDoes not support testing\tAfter enabling GVRP, creating 4094 VLANs may lead to system crashes, with issues like \"Internal Error, IPC return 1(line:398)\" and similar situations where the process seems to be terminated.\n\tGMRP\t\tNot Supported\tNot Supported\tSupport\n\tMAC Management\tSupport static MAC addresses and the corresponding attributes.\tportid -vlan -mac\tportid -vlan -mac\tFDB  portid -vlan -mac\n\t\tMac-address Table Size\t16k\t32K\t8.2K\n\t\tSupport Filtering MAC- address and the corresponding attributes\tvlan -mac\tvlan -mac\tNot Supported\n\t\tMac-address Limit by Port or VLAN\tSupport\tNot Supported\tSupport the configuration of port learning ability 1-8.2k\n\t\tRestriction on MAC Exceeding：Forward/Drop\tSupport\tNot Supported\tNot Supported\n\t\tAddress Migration Detection\tSupport\tNot Supported\tNot Supported\n\t\tThe default aging time\t5 min\t5 min\t5 min\n\tQinQ\tQinQ Based on Native VLAN (Basic QinQ)\tSupport\tSupport\tNot Supported\tQinQ function is relatively well - developed in our devices.\n\t\tC-vlan-based QinQ\tSupport\tNot Supported\tNot Supported\n\t\tVLAN-Mapping- based QinQ\tSupport\tNot Supported\tNot Supported\n\t\tFlow-based QinQ\tSupport\tNot Supported\tNot Supported\n\t\tspecial handling\tNot Supported\tNot Supported\tAdd an outer tag based on ports, and the tag/untag mode for the ingress/egress mode can be configured.\n\tLoop Detect\tSupport Loop Detect\tSupport\tNot Supported\tSupported and enabled by default. By default, the port will be shut down for 20 seconds when a loop is detected.\n\t\tSupported mode\tremind/errdown\tNot Supported\tshutdown/block\n\t\tLoop Detect based on Vlan\tSupport\tNot Supported\tNot Supported\n\tUDLD\tSupport the detection of unidirectional links.\tNot Supported\tSupport\tNot Supported\nL3\tStatic Routing\tSupport ipv4\tSupport\tSupport\tSupport\n\t\tSupport ipv6\tSupport\tSupport\tNot Supported\n\tRouting Table Entry\t\t250\t99\t64\n\tARP\tSupport static ARP\tSupport\tSupport\tNot Supported, Only the dynamic ARP  table can be viewed.\n\t\tARP aging time\t30s\t1200s(default)，configurable\t60s\n\t\tARP Table Capacity\t520\t512\t253\n\tARP proxy\tSupport normal ARP proxy\tNot Supported\tNot Supported\tNot Supported\n\t\tSupport local ARP proxy\tNot Supported\tNot Supported\tNot Supported\n\tDHCP\tSupport to act as DHCP Server\tSupport\tSupport\tSupport\n\t\tSupport to act as DHCP Client\tSupport IPv4/IPv6 as a DHCP  client (on management/ Layer 3/ routing ports)\tSupport IPv4/IPv6 as a DHCP client\tSupport\n\tDNS\tSupport the configuration of DNS servers\trelease/7.4.0 support\tSupport\tSupport\n\tNAT\tSupport NAT function\tNot Supported\tNot Supported\tNot Supported\tThis feature can be considered for addition\nL3 route\tOSPF\tOnly consider whether the function is supported\tSupport ospfv2\tNot Supported\tNot Supported\n\tRIP\tOnly consider whether the function is supported\tSupport\tNot Supported\tNot Supported\n\tBGP\tOnly consider whether the function is supported\tSupport\tNot Supported\tNot Supported\n\tVRRP\tOnly consider whether the function is supported\tSupport\tNot Supported\tNot Supported\n\tISIS\tOnly consider whether the function is supported\tSupport\tNot Supported\tNot Supported\nIP multicast\tIGMP Snooping\tSupport IGMP Snooping\tSupport\tSupport v1-v3\tSupport\n\t\tSupport static group function of IGMP Snooping\tSupport\tsupport，on this device, the static groups are shared by the multicast function and do not belong solely to IGMP Snooping\tNot Supported\n\tSupport multicast forwarding operations\t\tNot Supported\tFlooding / discarding / forwarding to the routing port, with support for IPv4 and IPv6\tNot Supported\n\tPort Limiting\t\tNot Supported\tSupported maximum number of groups: 256. Actions: discarding / replacing\tNot Supported\n\tMulticast Filtering.\t\tNot Supported\tSupport the implementation of permit/discard actions within the address range through custom rules\tNot Supported\n\tMLD Snooping\t\tNot Supported\tSupport V1/V2\tNot Supported\n\tMVR\t\tNot Supported\tSupport\tNot Supported\nQos\tQueue Scheduling\t\t0-7\t1-8\t0-7\n\tQueue granularity\t\t32 packets * weight\nSpecific manifestation: Queues with weight 1 and weight 2. The output form is: 32 * packets in the weight 2 queue + 32 * (1 * packets in the weight 1 queue + 1 * packets in the weight 2 queue)\t1 packet * weight.\nSpecific manifestation: Queues with weight 1 and weight 2. The outlet form is: 1 * packet in the weight 1 queue + 2 * packet in the weight 2 queue\t1 packet * weight.\nSpecific manifestation: Queues with weight 1 and weight 2. The output form is: 1 * packet in the weight 1 queue + 2 * packet in the weight 2 queue\n\tThe supported queue weights\t\t1-32\t128\t1-127（The weights are based on ports rather than queues）\n\tCOS:DSCP\t\t1-7:0-63\tCOS:DSCP:IP precedence=0-7:0-63:0-7\t1-7:0-63\n\tSupport wrr algorithm\t\tSupport\tSupport\tSupport\n\tSupport sp algorithm\t\tSupport\tSupport\tSupport\n\tSupport other algorithm\t\tNot Supported\tSupport WFQ algorithm、Support hybrid(WRR+SP or WFQ+SP)algorithm\tSupport WFQ algorithm\n\tSupported types of  packet discarding\t\tNot Supported\tNot Supported\tNot Supported\n\tSupport trusted COS\t\tSupport\tSupport\tSupport\n\tSupport trusted DSCP (the six bits within TOS)\t\tSupport\tSupport\tSupport\n\tSupport IP precedence (the 3 bits in TOS)\t\tNot Supported\tSupport\tNot Supported\n\tSupport other precedence type\t\tNot Supported\tNot Supported\tNot Supported\n\tSupport mapping relationships\t\tqueue-weight、COS-queue-DSCP、DSCP-queue-COS- new DSCP\tCOS-queue-COS、DSCP-queue-DSCP、IP precedence-queue-IP precedence\tCOS-local precedence，DSCP-local precedence，local precedence-queue\n\tSupported Classification\tFlow - based ACL\tSupport\tNot Supported\tNot Supported\tIn terms of the QoS classification strategy, our devices are relatively more feature - rich. The classification is relatively detailed, and we also have strategies to modify the priority parameters. In contrast, the devices of our competitors can only modify the priority parameters through mapping relationships, which is relatively less flexible.\n\t\tetype\tSupport\tNot Supported\tNot Supported\n\t\tdscp\tSupport\tNot Supported\tNot Supported\n\t\tcos\tSupport\tNot Supported\tNot Supported\n\t\tl4\tSupport\tNot Supported\tNot Supported\n\t\tvlan（range）\tSupport\tNot Supported\tNot Supported\n\tStrategy\tChange COS\tSupport\tNot Supported\tNot Supported\n\t\tChange DSCP\tSupport\tNot Supported\tNot Supported\n\t\tChange/Add vlan\tSupport\tNot Supported\tNot Supported\n\t\tChange TC\tNot Supported\tNot Supported\tNot Supported\n\t\tspeed limit\tSpeed limit range:32 - 1000000 (kbps)\tSupport speed - limit configuration for each queue of a specific port. Speed  limit range :16 - 10000000 (kbps)\tOnly support speed - limit configuration for a specific port , Speed  limit range :16-10000000（kbps）\n\t\tPort redirection\tNot Supported\tNot Supported\tNot Supported\n\t\tMirror\tNot Supported\tNot Supported\tNot Supported\nSecurity\tARP detection\tInterfaces that support this function\tOnly physical interfaces are supported to enable ARP detection, with restrictions on the forwarding plane\tSupport ARP detection based on VLAN interfaces. On physical interfaces, a trusted port can be configured, meaning that the ARP detection on this port will not take effect.\tNot Supported\n\t\tSupport speed limiting for ARP detection\tNot Supported\t1-50pps\tNot Supported\n\t\tOther Limiting\tNot Supported\tIt is possible to configure the verification of the source MAC, destination MAC, and IP addresses in the ARP fields and Ethernet fields of ARP packets. If there is any inconsistency, the packet will be discarded. For the IP address, an option allowing all - zero values can be configured.\tNot Supported\n\tARP spoofing\tPrevent Gateway ARP Spoofing\trelease/7.4.0 support\tNot Supported\tNot Supported\n\tDAI\tDynamic ARP detection\trelease/7.4.0 support\tNot Supported\tNot Supported\n\tPort Security\tMaximum number of MAC\t1024\t256\t3（There are at most three secure addresses. However, corresponding operations need to be manually clicked to execute. It's unclear what the point of doing this is）\n\t\tAction\tdiscarding\tdiscarding\ttrap / shutdown (with trap) / discard (with trap)\n\t\tsticky\tSupport\tSupport\tNot Supported\n\t\tSecurity Address Table Entry\t1024\t256\t3\n\tIP Source Guard\tIP - binding form\tIP-MAC-VLAN-PORT\tIP-MAC-VLAN-PORT/IP-VLAN-PORT\tNot Supported\n\t\tVerification Mode\tNot configurable，only support ip-mac\tConfigurable, support ip/ip-mac\tNot Supported\n\t\tLimiting maximum number of entrys\tNot Supported\t0-50\tNot Supported\n\t\tDatabase saving function\tNot Supported\tTimed automatic writing to the database, with writing methods of TFTP/FLASH\tNot Supported\n\tDOS/DDOS Anti - Attack\t\tSupported type: syn-flood、icmp-flood、arp-flood、null-scan、syn-fin、syn-sport|1024、fin-nocakk. All types support global configuration, and the first three types support port - level configuration.\tSupport anti-attack and packet discarding functions for types such as POD, LAND, packets with the same UDP port number for source and destination, packets with the same TCP port number for source and destination, packets with the same source and destination MAC, null scan, x-mas scan, tcp sys-fin, tcp syn-rst, icmp fragmentation, tcp, sys, and tcp fragmentation. It also supports configuring the maximum length of IPv4 and IPv6 ping packets, the maximum TCP header size, the minimum IPv6 fragmentation, and protection against smurf attacks.\tNot Supported\n\tBlack - Hole MAC\t\tSupport, the same as MAC Filtering\tSupport\tNot Supported\n\tCPU Protection Engine\t\tNot Supported\tSupport\tNot Supported\n\tAAA\tSupported type\tWEB、ssh、login\tSerial Port、telnet、ssh、http、https\tNot Supported\n\t\tSupported method\tnone、local、tacacs+、radius\tempty、none、local、enable、radius、tacacs+\tNot Supported\n\t\tSupport authentication\tSupport\tSupport\tNot Supported\n\t\tSupport authorization\tSupport\tNot Supported\tNot Supported\n\t\tSupport accounting\tNot Supported\tNot Supported\tNot Supported\n\tAccount Manager\tLocal Authenticatoin\tNot Supported\tSupport\tNot Supported\n\t\tMultiple User Account\tNot Supported\tSupport\tNot Supported\n\t\tMulti-Level Security\tNot Supported\tSupport\tNot Supported\n\t\tPassword Recovery Procedures\tNot Supported\tSupport\tNot Supported\n\t\tcommands\tNot Supported\tNot Supported\tNot Supported\n\t\texec\tNot Supported\tNot Supported\tNot Supported\n\tManagement Access\tManagement VLAN\tNot Supported\tSupport\tNot Supported\n\t\tManagement ACL\tNot Supported\tSupport\tNot Supported\n\t\tSSLv2\tNot Supported\tSupport\tNot Supported\n\tSSL\tSSL\tSupport upload of SSL certificates\tSupport SSLv3\tNot Supported\n\t\tTLSv1\tNot Supported\tSupport\tNot Supported\n\tDHCP Relay\tSupport DHCP Relay function\trelease/7.4.0 support\tSupport\tSupport\n\tDHCP Snooping\tSupport dhcp snooping\tSupport\tSupport\tSupport\n\t\tSupport binding of static entries\tNot Supported\tNot Supported\tNot Supported\n\t\tAllow untrusted ports to receive relay agent information\tNot Supported\tNot Supported\tNot Supported\n\t\toption43 function\tNot Supported\tSupport\tNot Supported\n\t\toption82 function\tSupport\tSupport\tSupport\n\t\tConfigurable Circuit ID\tSupport\tSupport\tNot Supported\n\t\tConfigurable remote ID\tSupport\tEUT does not support testing\tNot Supported\n\t\tSupport the verification of client addresses\tSupport\tSupport\tNot Supported\n\t\tSupport rate - limiting of packets\tSupport\tSupport\tNot Supported\n\t\tSupport timed writing to flash\tSupport\tNot Supported\tNot Supported\n\tRadius\tSupport connection to the RADIUS server\tSupport\tSupport 8\tSupport\n\tTacacs+\tSupport connection to the Tacacs+ server\tSupport\tSupport 8\tNot Supported\n\t802.1X\tSupport 1x authentication\tSupport\tSupport\tSupport\n\t\tSupport configuring authentication methods\tNot Supported\tNot Supported\tSupport configuration of EAP/CHAP/PAP\n\t\tSupport the configuration of guest - vlan\tNot Supported\tSupport\tNot Supported\n\tMAC - based Authentication\tSupport local MAC authentication\tNot Supported\tSupport\tNot Supported\n\t\tSupport MAC authentication via RADIUS\tSupport\tSupport\tNot Supported\n\tACL\tSupported number of ACL  rules\tSubject to the device entries\t2048\tEUT does not support testing\n\t\tBased on IPv4 standards\tSupport\t512\tOnly custom types are supported\n\t\tBased on IPv4 extension\tSupport\tSupport\tOnly custom types are supported\n\t\tBased on IPv6 standards\tSupport\tSupport\tTemporarily Not Supported\n\t\tBased on MAC standards\tSupport\tSupport\tOnly custom types are supported\n\t\tBased on MAC extension\tSupport\tSupport\tOnly custom types are supported\n\t\tCustom type\tTemporarily Not Supported\tNot Supported\tSupports custom rules (composable): source MAC, source IP port, Ethernet type, source IP, VLAN, IP protocol (ICMP, IGMP, TCP, UDP)\n\t\tSupport IN/OUT directions\tSupport\tunknown\tunknown\n\t\tSupport ACL restrictions for remote access\tSupport ACL based on remote access protocols\tNot Supported\tNot Supported\n\t\tSupport ACL on VLAN\tSupport\tNot Supported\tNot Supported\nManagement\tLLDP\tLocal - end information\tConfigurable\tNot Configurable\tNot Configurable\n\t\tSupport MED function\tNot Supported\tSupport\tNot Supported\n\t\tSupport TLV function(optional)\tSupport\tSupport\tSupport\n\t\tView local LLDP information\tNot Supported\tSupport\tSupport\n\tTemperature Management\tSet the high and low temperature thresholds of the device\tSupport, Support configuration and  searching for fan information\tNot Supported\tSupport\tAt present, we should only support the temperature detection of the optical module and alarm functions\n\tPower management\tSupport Power management\tSupport（Special devices support power supply access types of AC/DC and the switching log）\tNot Supported\tNot Supported\n\tCPU Alarm Management\t\tNot Supported\tNot Supported\tNot Supported\n\tMemory Alarm Management\t\tNot Supported\tNot Supported\tNot Supported\tWe need to support this feature\n\tSyslog Management\tApplication method\tconsole/monitor/Log server\tconsole/ram/flash\tconsole/cache/Remote log server\n\t\tLevel\t0-7，EMERG-ALERT-CRIT-ERR-WARNING-NOTIC-INFO-DEBUG\t0-7，Burst-Assert-CRIT-ERR-AlERT-NOTIC-INFO-DEBUG\t0-7，EMERG-ALERT-CRIT-ERR-WARNING-NOTIC-INFO-DEBUG\n\t\tSupport syslog\t支持Ipv4/IPv6\tunknown\tunknown\n\t\tSupported number of remote server groups\t3\tNot tested, treated as Not Supported\tunknown\n\t\tSupport log server encryption\tNot Supported\tNot tested, treated as Not Supported\tunknown\n\t\tConfigurable timestamp\tNot Supported\tNot tested, treated as Not Supported\tunknown\n\tSNMP\tSupport SNMPv1/2/3\tSupport\tSupport\tSupport\n\t\tSupport the configuration of the engine ID\tNot Supported\tSupport\tNot Supported\n\t\tMIB\tSupport\tSupport\tSupport\n\t\tTrap\tSubject to each function\tOnly authentication failures, port link up/down events, and cold/hot restarts are supported\tSubject to each function\n\tRmon\t\tSupport\tSupport\tNot Supported\n\tPing\tipv4\tSupport\tSupport\tSupport\n\t\tipv6\tSupport\tSupport\tNot Supported\n\t\tSupport a fixed number of pings\tNot Supported\tSupport\tNot Supported\n\tTraceroute\tipv4\tSupport\tSupport\tNot Supported\n\t\tipv6\tSupport\tSupport\tNot Supported\n\tSerial server\t\tSupport\tNot Supported\tNot Supported\n\tPower - off alarm\tSupport trap\tSupport\tNot Supported\tNot Supported\n\t\tAdvertise to neighbors\tSupport\tNot Supported\tNot Supported\n\tSFLOW\tSupport IPv4/IPv6 remote server\tSupport\tNot Supported\tNot Supported\n\t\tSupported Maximum number of collector\t2\tNot Supported\tNot Supported\n\t\tsupports two - way monitoring of flow at egress and ingress port\tSupport\tNot Supported\tNot Supported\n\tSWSCAN\tSupport searching and modifying IP information\tSupport\tNot Supported\tNot Supported\n\t\tSupport login authorization\tSupport\tNot Supported\tNot Supported\n\t\tSupport topology discovery\tSupport\tNot Supported\tNot Supported\n\t\tSupport batch upgrade\tSupport\tNot Supported\tNot Supported\n\t\tSupport log collection\tSupport\tNot Supported\tNot Supported\n\t\tSupports configuration import/export\tSupport\tNot Supported\tNot Supported\n\tDiagnostic\tSupport register viewing\tSupport\tNot Supported\tNot Supported\n\tSTM\tSupport switch table entry management\tNot Supported\tNot Supported\tNot Supported\n\tTimed restart\t\tNot Supported\tNot Supported\tNot Supported\nReliability features\tBHM\tSupport the function of monitoring business modules and handling related issues\tNot Supported\tNot tested, treated as Not Supported\tNot tested, treated as Not Supported\tThis feature can effectively prevent certain processes from hanging up and similar issues, and can restore normal operation through restarting.\n\tTRACK\tSupport this feature\tNot Supported\tNot tested, treated as Not Supported\tNot tested, treated as Not Supported\n\tCoPP\t\tOnly Support CPP\tNot tested, treated as Not Supported\tNot tested, treated as Not Supported\n\tG8032\t\tSupport，it is ERPS\tSupport，it is ERPS\tNot tested, treated as Not Supported\n\tEFM\t\trelease/7.4.0 support\tNot tested, treated as Not Supported\tNot tested, treated as Not Supported\n\tCFM\t\tNot Supported\tNot tested, treated as Not Supported\tNot tested, treated as Not Supported\nUser Experience\tStrict Distinction between uppercase and lowercase in commands\t\tWithout distinction\tWithout distinction\tstrict distinction\n\tStartup time\t\t38s\t52s\t26s\n\tSupport for configuring IP interfaces\t\tIP Management based on VLAN,\nSVI interface based on VLAN,\nIP interface based on Layer 3 interface\tSupport the configuration of IP under the VLAN interface\tOnly IP interface\n\tOverall performance of commands\tCompare with the configuration document\tThere are still some commands for which there is no corresponding documentation, and there are also some commands whose usability is unknown\tBasically, all commands have corresponding documentation\tThe commands are relatively concise. Essentially, all commands have corresponding documentation. You can use the \"list\" command to view all commands in the current mode (including the reference formats of multi - level commands). However, the \"show run\" command is overly detailed and doesn't seem very practical. The interface commands are quite distinctive. There is no need to enter the interface mode. You can directly use \"interface IFNAME\" followed by subsequent commands in the configuration mode, which has the same effect as configuring commands in the interface mode. They have placed some \"show\" commands directly in the config mode, making them inaccessible in the privileged mode. The command manual clearly indicates the user level corresponding to a certain command and the configurable modes.\n--- Sheet: Sheet2 ---\n--- Sheet: Sheet3 ---",
+"sheets":{
+"Sheet1":{
+"state":"visible",
+"rows":[
+[
+"Comparison item type",
+"Comparison item",
+"Comparison sub - item",
+"Tip：Grading based on effectiveness\nGreen represents fairly complete. Light green represents that the function will be supported soon. Yellow represents relatively complete. Red represents missing/imperfect. White represents that no conclusion can be drawn.",
+"",
+"",
+"Suggestion"
+],
+[
+"",
+"",
+"",
+"DPTEK Marvell（AC5 release-7.4.0）",
+"Realtek competitor 1",
+"Realtek competitor2"
+],
+[
+"System",
+"User Management",
+"User Privilege level",
+"Support Level 0 to 15",
+"Support admin/user only",
+"User composition: \nid-name-pass-level-state\nSupport level 1 to 4"
+],
+[
+"",
+"",
+"Support setting encrypted/unencrypted passwords \n（viewed through the \"show run\" command）",
+"Support ciphertext only",
+"Support",
+"Not Supported",
+"We are considering adding this feature"
+],
+[
+"",
+"",
+"Support for password-less users",
+"Not Supported",
+"Support",
+"Not Supported"
+],
+[
+"",
+"",
+"Configurable login methods for local login（console、http、https、ssh、telnet)",
+"Support vty/console",
+"Support",
+"Support ssh/telnet/web"
+],
+[
+"",
+"",
+"Support configuration of password retry count",
+"release/7.4.0 support",
+"Support",
+"Not Supported"
+],
+[
+"",
+"",
+"Support configuration of session timeout",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"Support configuration of the login lockout duration",
+"release/7.4.0 support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Support password assignment based on RSA keys",
+"release/7.4.0 support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"Banner",
+"Support edit specific prompt messages in Login/Exec mode",
+"Not Supported",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"Support configuration of import/export",
+"core",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"data",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"default-config",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"empty-config",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"mgmt-if",
+"Not Supported",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"log",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"running-config",
+"Support",
+"Support",
+"Only web supports export/import"
+],
+[
+"",
+"",
+"startup-config",
+"Support",
+"Support",
+"Not Supported"
+],
+[
+"",
+"",
+"system",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"tmp",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"backup-config",
+"Not Supported",
+"Support",
+"Not Supported",
+"We're considering adding a backup configuration file. This would facilitate the preservation of device configuration information when the device is handed over. Additionally, it could be used to create user - specific configuration files tailored to the current user. Users could execute commands to overwrite the current configuration into this file, enhancing the depth of user management and enriching its content."
+],
+[
+"",
+"",
+"tech-support",
+"Not Supported",
+"Support",
+"Not Supported"
+],
+[
+"",
+"",
+"Import/export in cloud platform management",
+"Not Supported",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"Supported method for file interaction",
+"FTP",
+"Support",
+"Support",
+"Not Supported"
+],
+[
+"",
+"",
+"SFTP",
+"release/7.4.0 support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"SCP",
+"release/7.4.0 support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"TFTP",
+"Support",
+"Support",
+"Not Supported"
+],
+[
+"",
+"",
+"USB",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"UART",
+"Not Supported",
+"Support",
+"Not Supported"
+],
+[
+"",
+"",
+"WEB import/export",
+"Support",
+"Only local file copying is supported",
+"Support"
+],
+[
+"",
+"System Upgrade",
+"WEB Upgrade",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"TFTP-ipv4",
+"Support",
+"Support",
+"Not Supported"
+],
+[
+"",
+"",
+"TFTP-ipv6",
+"Support",
+"Support",
+"Not Supported",
+"This feature will be supported after the development of IPv6 is completed."
+],
+[
+"",
+"",
+"Support online update",
+"Not Supported",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Support\"Check for updates\"",
+"Not Supported",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"System time",
+"Local time",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"NTP and Synchronization",
+"Support ipv4、ipv6",
+"Support SNTP (but NTP effectively active)",
+"Support (Claimed to use SNTP in the web application environment, but the NTP is actually in effect",
+"The SNTP server is a simplified version of the NTP server. NTP offers higher precision, so supporting NTP suffices."
+],
+[
+"",
+"",
+"SNTP and Synchronization",
+"Not Supported（but our NTP implementation is actually based on SNTP ）",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"WEB Synchronization (with PC Synchronization)",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"Support configuration of Messages/Packets/Datagrams types",
+"Not Supported",
+"Not Supported",
+"Support broadcast, multicast, unicast, and their combined types"
+],
+[
+"",
+"",
+"Summer/Winter time",
+"Not Supported",
+"Support",
+"Support"
+],
+[
+"",
+"TELNET",
+"Server",
+"Support ipv4、ipv6",
+"Support ipv4、ipv6",
+"Support"
+],
+[
+"",
+"",
+"Client",
+"Support ipv4、ipv6",
+"Not Supported",
+"Not Supported",
+"The fact that our device supports the Telnet client needs to be reflected in the configuration document."
+],
+[
+"",
+"SSH",
+"Support this feature",
+"Support ipv4、ipv6",
+"Support ipv4、ipv6",
+"Support"
+],
+[
+"",
+"",
+"Support configuration of encryption algorithms",
+"release/7.4.0 support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Support configuration of SSH key",
+"release/7.4.0 support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Maximum number of supported SSH connections",
+"8，Exceeding the quantity will  login fail",
+"8，Exceeding the quantity will  login fail",
+"5，Exceeding the quantity will lead to login fail"
+],
+[
+"",
+"WEB",
+"http",
+"Supportipv4、ipv6",
+"Supportipv4、ipv6",
+"Support"
+],
+[
+"",
+"",
+"https",
+"Supportipv4、ipv6",
+"Supportipv4、ipv6",
+"Not Supported"
+],
+[
+"",
+"",
+"configurable HTTPS encryption components",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"configurable HTTPS certificates and keys",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Maximum number of connections supported by HTTP",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"RPC-API",
+"Support RPC-API function",
+"Not Supported",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"Syslog",
+"Support syslog remote server",
+"Support ipv4、ipv6",
+"Support ipv4、ipv6",
+"Not Supported"
+],
+[
+"",
+"",
+"Support encryption transmission",
+"Not Supported",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"Quantity of remote login online",
+"",
+"8，Exceeding the quantity will  login fail",
+"8，Exceeding the quantity will  login fail",
+"5，Exceeding the quantity will lead to login fail"
+],
+[
+"",
+"Serial Interface",
+"Configurable baud rate and other parameters",
+"Not Supported",
+"Not tested, treated as Not Supported",
+"Not tested, treated as Not Supported"
+],
+[
+"interface",
+"Rate",
+"RJ45 port：10/100/100M",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"SFP port：100M/1000M/2.5G/10G/100G",
+"100M SFP port not supported",
+"support 100M/1000M only",
+"support 1000M only"
+],
+[
+"",
+"Duplex",
+"10-1000M Full Duplex",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"1000M Half Duplex",
+"Temporarily not supported",
+"Not Supported",
+"Not Supported",
+"If the chip supports it, 1000M Half Duplex can be developed in the future"
+],
+[
+"",
+"EEE",
+"",
+"Not Supported",
+"Support",
+"Support"
+],
+[
+"",
+"Auto-negotiation",
+"Auto-negotiation of Electrical Interface",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"Auto - negotiation of Optical Interface",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"Flow control",
+"Flow control is effective in the range of 1000 - 100 (Mbps)",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"Flow control is effective in the range of 1000 - 10 (Mbps)",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"Flow control is effective in the range of 100 - 10 (Mbps)",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"MTU",
+"based on port",
+"64-10240",
+"Not Supported",
+"Not Supported, allowed packet length: 64 - 10240"
+],
+[
+"",
+"",
+"based on global",
+"Not Supported",
+"64-12k",
+"Not Supported, allowed packet length: 64 - 10240"
+],
+[
+"",
+"Broadcast Storm",
+"Support type all",
+"Support",
+"Not Supported",
+"Support"
+],
+[
+"",
+"",
+"Support type broadcast",
+"Support",
+"Support",
+"Support（Default to enable the limit of 64kbps）"
+],
+[
+"",
+"",
+"Support type multicast",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Support unknown type multicast",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"Support type multicast and broadcast",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Support for unknown type unicast",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"Support for unknown type unicast and broadcast",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Support for suppression precision",
+"0.01% of the line speed",
+"1kbps/1pps",
+"16kbps"
+],
+[
+"",
+"",
+"Storm suppression granularity",
+"100pps",
+"1pps",
+"16kbps (25*64-byte packets)"
+],
+[
+"",
+"",
+"Minimum value of storm suppression",
+"100pps/64kbps",
+"16kbps/1pps",
+"16kbps"
+],
+[
+"",
+"",
+"Storm control action",
+"drop",
+"shutdown/drop",
+"drop"
+],
+[
+"",
+"",
+"Optional whether to include frame gap",
+"Not Supported，only support excluding frame gaps",
+"Support",
+"Not Supported，only support excluding frame gaps"
+],
+[
+"",
+"Interface Counters",
+"Interface transceiver statistics",
+"Packet sending and receiving data based on ports",
+"Only count the total number of packets sent and received",
+"Packet sending and receiving data based on ports"
+],
+[
+"",
+"",
+"Classification",
+"Load Percentage、Jumbo Frame、Runt Frame、Faulty Packet、Number of Collision Packets",
+"Number of Bytes、Number of Unknown Unicast Packets、Number of Unicast Packets Passed to Subnet via Upper Layer Protocol (ifInNUcastPkts)、Number of Dropped Packets、Number of Broadcast Packets、Number of Multicast Packets",
+"Transmit and Receive Byte Count、Number of Packets、Unicast、Multicast、Broadcast、Number of Drops、Pause Frame、Drop Event、FCS Error Packet、Packet Fragment"
+],
+[
+"",
+"",
+"Etherlink Transmit and Receive Statistics",
+"Not Supported",
+"Support",
+"Not Supported"
+],
+[
+"",
+"",
+"RMON Transmit and Receive Statistics",
+"Not Supported",
+"Support",
+"Not Supported"
+],
+[
+"",
+"Optoelectronic multiplexing",
+"Specify the multiplexing type",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Photoelectric Adaptation",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"Port Mirroring",
+"Supported quantity of mirror groups",
+"7",
+"4",
+"1"
+],
+[
+"",
+"",
+"Source port supports the CPU interface",
+"Not Supported",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Support ingress and egress classification",
+"Support",
+"Not Supported",
+"Support"
+],
+[
+"",
+"",
+"support many-to-many",
+"only support many-to-one",
+"support many-to-many",
+"only support many-to-one"
+],
+[
+"",
+"",
+"Source port supports VLAN",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Support RSPAN",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Support the enabling of switching function for destination ports",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"Port isolation",
+"Isolate Groups",
+"1 group",
+"1 group",
+"32 groups",
+"The implementation of this feature in TP - LINK products is different from that of other manufacturers."
+],
+[
+"",
+"",
+"Isolation supports multiple types",
+"Not Supported",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"Port-based Rate-limit",
+"Supports ingress and egress rate limiting",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"Minimum speed limit value",
+"64kbps",
+"16kbps",
+"16kbps",
+"the minimum speed limit of Realtek devices is relatively high"
+],
+[
+"",
+"",
+"Supports rate limiting for queues",
+"Not Supported",
+"Support",
+"Not Supported",
+"We don't have this feature, we can consider adding it"
+],
+[
+"",
+"Cable testing",
+"",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"Port description",
+"",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"Errdisable",
+"Support this feature",
+"Support\nlag-mismatch、stp-bpdu-guard、intf-up-down、port-security-voilation、mac-table-flapping、loop-detect",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Error recovery",
+"Support",
+"Support",
+"Not Supported"
+],
+[
+"",
+"Diagnostics",
+"CPU Utilization",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"Memory Utilization",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"Port Utilization",
+"Support",
+"Support",
+"Support"
+],
+[
+"PoE",
+"Maximum power configuration",
+"",
+"Support",
+"Not Supported",
+"EUT Not Supported",
+"We have relatively complete functions in the PoE part"
+],
+[
+"",
+"Supports non - standard",
+"",
+"Support",
+"Not Supported",
+"EUT Not Supported"
+],
+[
+"",
+"PD-Detect",
+"",
+"Support",
+"Not Supported",
+"EUT Not Supported"
+],
+[
+"",
+"PoE Port Power Feeding Priority",
+"",
+"Support",
+"Not Supported",
+"EUT Not Supported"
+],
+[
+"",
+"PoE Reseve Power",
+"",
+"Support",
+"Not Supported",
+"EUT Not Supported"
+],
+[
+"",
+"Alarm",
+"",
+"Support",
+"Not Supported",
+"EUT Not Supported"
+],
+[
+"",
+"Support AF/AT/BT standard",
+"",
+"Support",
+"EUT only support AT",
+"EUT Not Supported"
+],
+[
+"",
+"Timed Power Supply",
+"",
+"Not Supported",
+"Support",
+"EUT Not Supported"
+],
+[
+"L2",
+"LACP",
+"Static Aggregation",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"Dynamic Aggragation",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"IP-based load balancing",
+"Support",
+"Not Supported",
+"Support"
+],
+[
+"",
+"",
+"MAC-based load balancing",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"IP-MAC based load balancing",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"Port-based load balancing",
+"Support",
+"Not Supported",
+"Support"
+],
+[
+"",
+"",
+"IP-port based load balancing",
+"Not Supported",
+"Not Supported",
+"Support"
+],
+[
+"",
+"",
+"other load balancing",
+"Not Supported",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Link redundancy",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"support 10/100GE Port Aggregation",
+"Support 10G Port Aggregation",
+"EUT Not Support 10G Aggregation",
+"EUT Not Support 10G Aggregation"
+],
+[
+"",
+"",
+"Maximum capacity of AP ports",
+"64",
+"64",
+"8"
+],
+[
+"",
+"",
+"Maximum number of member ports supported by a single AP port",
+"8",
+"8",
+"There is no restriction on the maximum number of AP ports. At least more than 10 static member ports can be added (there are 10 ports in total on the device), but a maximum of 8 active ports are allowed."
+],
+[
+"",
+"",
+"LACP Port Priority",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"STP",
+"Convergence Time(when docking with our device)",
+"30s",
+"49s",
+"30s (actually, it's the docking of RSTP and STP)"
+],
+[
+"",
+"RSTP",
+"Convergence Time(when docking with our device)",
+"12ms（SFP port）\n0.4s（RJ45 port）",
+"23.5s（RJ45 port）",
+"0.3s（RJ45 port）"
+],
+[
+"",
+"",
+"Support for edge ports",
+"Enable/Auto",
+"Enable/Auto",
+"Not Supported"
+],
+[
+"",
+"MSTP",
+"Convergence Time(when docking with our device)",
+"0.012s（SFP port）\n0.4s（SFP port）",
+"9s",
+"Not Supported"
+],
+[
+"",
+"",
+"Number of supported instances",
+"63",
+"64",
+"Not Supported"
+],
+[
+"",
+"MLAG",
+"Support this feature",
+"Not Supported",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"BPDU protection",
+"",
+"Support",
+"Support",
+"Not Supported"
+],
+[
+"",
+"STP Root Protection",
+"",
+"Support",
+"Support",
+"Not Supported"
+],
+[
+"",
+"ERPS",
+"Configuration of East/West interfaces",
+"East/West interfaces",
+"port 0/1",
+"East/West interfaces"
+],
+[
+"",
+"",
+"Support Major/Sub ring",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"Reversion",
+"Support manual/auto mode",
+"Reversible/Irreversible Mode",
+"Support automatic reversion"
+],
+[
+"",
+"",
+"Convergence Time",
+"6ms",
+"A total of ten samples were taken, and the average value was 240 ms\n（218+27+98+217+350+370+186+117+500+317）/10=240",
+"After enabling the ERPS function, even if the peer end does not interact, the device will still send data outward.\nThere are more than 120 802.1a packets per second, which is quite unreasonable",
+"Summary: The ERPS function of the ISW9010 product has a significant difference in logic compared to ours, and it is not user - friendly."
+],
+[
+"",
+"",
+"whether a protection VLAN needs to be created",
+"No",
+"Yes",
+"Yes"
+],
+[
+"",
+"VLAN",
+"Support access",
+"Support the default setting as an access port",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"Support trunk",
+"Support",
+"Support the default setting as an trunk port",
+"Support"
+],
+[
+"",
+"",
+"Support hybrid",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"Support allow vlan（trunk、hybrid）",
+"Support",
+"Creating or deleting allow VLANs will generate a large number of logs, which affects the user experience.",
+"Support"
+],
+[
+"",
+"",
+"Support hybrid untag type",
+"Support",
+"Not Supported",
+"Support"
+],
+[
+"",
+"",
+"Support the deletion of VLAN configuration and the quantity of stress testing (10 rounds)",
+"Support VLAN Quantity: 4k",
+"Support VLAN Quantity: 4k",
+"4094, occupying 0M, there will be an SNMP node dot1qVlanStaticTable error report.",
+"Test method: Sequentially run scripts to create and delete VLANs from 1 to 4000 (start the next round of loop when prompted that commands can be entered), continuously send and receive packets, repeat this process for ten rounds each. If the device remains operational, it is considered stable. Record the memory occupancy after the execution is completed.\nFor our device, when the stress - testing quantity reaches over 2000, high - frequency creation and deletion may cause problems such as the device getting stuck or processes being terminated. If this performance issue cannot be resolved, it is recommended to increase the time for the next command - line to jump out, and wait until the creation is completed before executing other commands."
+],
+[
+"",
+"",
+"Other VLAN Types",
+"Not Supported",
+"Support tunnel type",
+"Not Supported"
+],
+[
+"",
+"Vlan Classification",
+"MAC-based VLAN",
+"Support",
+"Support",
+"Not Supported"
+],
+[
+"",
+"",
+"Port - based VLAN",
+"IEEE 802.1Q Tagged VLAN",
+"Support",
+"Not Supported"
+],
+[
+"",
+"",
+"IP-based VLAN",
+"release/7.4.0 support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Protocol-based VLAN",
+"etherv2、snapllc、nosnapllc\nProtocol Value: 0 - 65535",
+"etherv2、IEEE802.3_LLC_OTHER、RFC1042\nProtocol Value 0x600-0xFFEE",
+"Not Supported"
+],
+[
+"",
+"",
+"Voice Vlan",
+"release/7.4.0 support",
+"Support",
+"Not Supported",
+"This feature determines the manufacturer based on the first 24 bits of the MAC address. Once it identifies the data stream as a voice stream, it adjusts the priority values of CoS and DSCP."
+],
+[
+"",
+"",
+"Surveillance VLAN",
+"This function can be achieved through QoS",
+"Support",
+"Not Supported",
+"This feature is similar to voice VLAN."
+],
+[
+"",
+"GVRP",
+"Support Normal mode",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"Support Fixed mode",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"Support Forbidden Mode",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"Support the registration and deregistration of 4094 dynamic VLANs",
+"It's not possible to register 2 - 4094 VLANs all at once. There will be problems such as packet loss (cpp128), inability to learn all of them, slow display in the \"show\" command, and performance - related issues remain.",
+"Does not support testing",
+"After enabling GVRP, creating 4094 VLANs may lead to system crashes, with issues like \"Internal Error, IPC return 1(line:398)\" and similar situations where the process seems to be terminated."
+],
+[
+"",
+"GMRP",
+"",
+"Not Supported",
+"Not Supported",
+"Support"
+],
+[
+"",
+"MAC Management",
+"Support static MAC addresses and the corresponding attributes.",
+"portid -vlan -mac",
+"portid -vlan -mac",
+"FDB  portid -vlan -mac"
+],
+[
+"",
+"",
+"Mac-address Table Size",
+"16k",
+"32K",
+"8.2K"
+],
+[
+"",
+"",
+"Support Filtering MAC- address and the corresponding attributes",
+"vlan -mac",
+"vlan -mac",
+"Not Supported"
+],
+[
+"",
+"",
+"Mac-address Limit by Port or VLAN",
+"Support",
+"Not Supported",
+"Support the configuration of port learning ability 1-8.2k"
+],
+[
+"",
+"",
+"Restriction on MAC Exceeding：Forward/Drop",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Address Migration Detection",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"The default aging time",
+"5 min",
+"5 min",
+"5 min"
+],
+[
+"",
+"QinQ",
+"QinQ Based on Native VLAN (Basic QinQ)",
+"Support",
+"Support",
+"Not Supported",
+"QinQ function is relatively well - developed in our devices."
+],
+[
+"",
+"",
+"C-vlan-based QinQ",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"VLAN-Mapping- based QinQ",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Flow-based QinQ",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"special handling",
+"Not Supported",
+"Not Supported",
+"Add an outer tag based on ports, and the tag/untag mode for the ingress/egress mode can be configured."
+],
+[
+"",
+"Loop Detect",
+"Support Loop Detect",
+"Support",
+"Not Supported",
+"Supported and enabled by default. By default, the port will be shut down for 20 seconds when a loop is detected."
+],
+[
+"",
+"",
+"Supported mode",
+"remind/errdown",
+"Not Supported",
+"shutdown/block"
+],
+[
+"",
+"",
+"Loop Detect based on Vlan",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"UDLD",
+"Support the detection of unidirectional links.",
+"Not Supported",
+"Support",
+"Not Supported"
+],
+[
+"L3",
+"Static Routing",
+"Support ipv4",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"Support ipv6",
+"Support",
+"Support",
+"Not Supported"
+],
+[
+"",
+"Routing Table Entry",
+"",
+"250",
+"99",
+"64"
+],
+[
+"",
+"ARP",
+"Support static ARP",
+"Support",
+"Support",
+"Not Supported, Only the dynamic ARP  table can be viewed."
+],
+[
+"",
+"",
+"ARP aging time",
+"30s",
+"1200s(default)，configurable",
+"60s"
+],
+[
+"",
+"",
+"ARP Table Capacity",
+"520",
+"512",
+"253"
+],
+[
+"",
+"ARP proxy",
+"Support normal ARP proxy",
+"Not Supported",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Support local ARP proxy",
+"Not Supported",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"DHCP",
+"Support to act as DHCP Server",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"Support to act as DHCP Client",
+"Support IPv4/IPv6 as a DHCP  client (on management/ Layer 3/ routing ports)",
+"Support IPv4/IPv6 as a DHCP client",
+"Support"
+],
+[
+"",
+"DNS",
+"Support the configuration of DNS servers",
+"release/7.4.0 support",
+"Support",
+"Support"
+],
+[
+"",
+"NAT",
+"Support NAT function",
+"Not Supported",
+"Not Supported",
+"Not Supported",
+"This feature can be considered for addition"
+],
+[
+"L3 route",
+"OSPF",
+"Only consider whether the function is supported",
+"Support ospfv2",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"RIP",
+"Only consider whether the function is supported",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"BGP",
+"Only consider whether the function is supported",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"VRRP",
+"Only consider whether the function is supported",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"ISIS",
+"Only consider whether the function is supported",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"IP multicast",
+"IGMP Snooping",
+"Support IGMP Snooping",
+"Support",
+"Support v1-v3",
+"Support"
+],
+[
+"",
+"",
+"Support static group function of IGMP Snooping",
+"Support",
+"support，on this device, the static groups are shared by the multicast function and do not belong solely to IGMP Snooping",
+"Not Supported"
+],
+[
+"",
+"Support multicast forwarding operations",
+"",
+"Not Supported",
+"Flooding / discarding / forwarding to the routing port, with support for IPv4 and IPv6",
+"Not Supported"
+],
+[
+"",
+"Port Limiting",
+"",
+"Not Supported",
+"Supported maximum number of groups: 256. Actions: discarding / replacing",
+"Not Supported"
+],
+[
+"",
+"Multicast Filtering.",
+"",
+"Not Supported",
+"Support the implementation of permit/discard actions within the address range through custom rules",
+"Not Supported"
+],
+[
+"",
+"MLD Snooping",
+"",
+"Not Supported",
+"Support V1/V2",
+"Not Supported"
+],
+[
+"",
+"MVR",
+"",
+"Not Supported",
+"Support",
+"Not Supported"
+],
+[
+"Qos",
+"Queue Scheduling",
+"",
+"0-7",
+"1-8",
+"0-7"
+],
+[
+"",
+"Queue granularity",
+"",
+"32 packets * weight\nSpecific manifestation: Queues with weight 1 and weight 2. The output form is: 32 * packets in the weight 2 queue + 32 * (1 * packets in the weight 1 queue + 1 * packets in the weight 2 queue)",
+"1 packet * weight.\nSpecific manifestation: Queues with weight 1 and weight 2. The outlet form is: 1 * packet in the weight 1 queue + 2 * packet in the weight 2 queue",
+"1 packet * weight.\nSpecific manifestation: Queues with weight 1 and weight 2. The output form is: 1 * packet in the weight 1 queue + 2 * packet in the weight 2 queue"
+],
+[
+"",
+"The supported queue weights",
+"",
+"1-32",
+"128",
+"1-127（The weights are based on ports rather than queues）"
+],
+[
+"",
+"COS:DSCP",
+"",
+"1-7:0-63",
+"COS:DSCP:IP precedence=0-7:0-63:0-7",
+"1-7:0-63"
+],
+[
+"",
+"Support wrr algorithm",
+"",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"Support sp algorithm",
+"",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"Support other algorithm",
+"",
+"Not Supported",
+"Support WFQ algorithm、Support hybrid(WRR+SP or WFQ+SP)algorithm",
+"Support WFQ algorithm"
+],
+[
+"",
+"Supported types of  packet discarding",
+"",
+"Not Supported",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"Support trusted COS",
+"",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"Support trusted DSCP (the six bits within TOS)",
+"",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"Support IP precedence (the 3 bits in TOS)",
+"",
+"Not Supported",
+"Support",
+"Not Supported"
+],
+[
+"",
+"Support other precedence type",
+"",
+"Not Supported",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"Support mapping relationships",
+"",
+"queue-weight、COS-queue-DSCP、DSCP-queue-COS- new DSCP",
+"COS-queue-COS、DSCP-queue-DSCP、IP precedence-queue-IP precedence",
+"COS-local precedence，DSCP-local precedence，local precedence-queue"
+],
+[
+"",
+"Supported Classification",
+"Flow - based ACL",
+"Support",
+"Not Supported",
+"Not Supported",
+"In terms of the QoS classification strategy, our devices are relatively more feature - rich. The classification is relatively detailed, and we also have strategies to modify the priority parameters. In contrast, the devices of our competitors can only modify the priority parameters through mapping relationships, which is relatively less flexible."
+],
+[
+"",
+"",
+"etype",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"dscp",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"cos",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"l4",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"vlan（range）",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"Strategy",
+"Change COS",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Change DSCP",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Change/Add vlan",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Change TC",
+"Not Supported",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"speed limit",
+"Speed limit range:32 - 1000000 (kbps)",
+"Support speed - limit configuration for each queue of a specific port. Speed  limit range :16 - 10000000 (kbps)",
+"Only support speed - limit configuration for a specific port , Speed  limit range :16-10000000（kbps）"
+],
+[
+"",
+"",
+"Port redirection",
+"Not Supported",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Mirror",
+"Not Supported",
+"Not Supported",
+"Not Supported"
+],
+[
+"Security",
+"ARP detection",
+"Interfaces that support this function",
+"Only physical interfaces are supported to enable ARP detection, with restrictions on the forwarding plane",
+"Support ARP detection based on VLAN interfaces. On physical interfaces, a trusted port can be configured, meaning that the ARP detection on this port will not take effect.",
+"Not Supported"
+],
+[
+"",
+"",
+"Support speed limiting for ARP detection",
+"Not Supported",
+"1-50pps",
+"Not Supported"
+],
+[
+"",
+"",
+"Other Limiting",
+"Not Supported",
+"It is possible to configure the verification of the source MAC, destination MAC, and IP addresses in the ARP fields and Ethernet fields of ARP packets. If there is any inconsistency, the packet will be discarded. For the IP address, an option allowing all - zero values can be configured.",
+"Not Supported"
+],
+[
+"",
+"ARP spoofing",
+"Prevent Gateway ARP Spoofing",
+"release/7.4.0 support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"DAI",
+"Dynamic ARP detection",
+"release/7.4.0 support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"Port Security",
+"Maximum number of MAC",
+"1024",
+"256",
+"3（There are at most three secure addresses. However, corresponding operations need to be manually clicked to execute. It's unclear what the point of doing this is）"
+],
+[
+"",
+"",
+"Action",
+"discarding",
+"discarding",
+"trap / shutdown (with trap) / discard (with trap)"
+],
+[
+"",
+"",
+"sticky",
+"Support",
+"Support",
+"Not Supported"
+],
+[
+"",
+"",
+"Security Address Table Entry",
+"1024",
+"256",
+"3"
+],
+[
+"",
+"IP Source Guard",
+"IP - binding form",
+"IP-MAC-VLAN-PORT",
+"IP-MAC-VLAN-PORT/IP-VLAN-PORT",
+"Not Supported"
+],
+[
+"",
+"",
+"Verification Mode",
+"Not configurable，only support ip-mac",
+"Configurable, support ip/ip-mac",
+"Not Supported"
+],
+[
+"",
+"",
+"Limiting maximum number of entrys",
+"Not Supported",
+"0-50",
+"Not Supported"
+],
+[
+"",
+"",
+"Database saving function",
+"Not Supported",
+"Timed automatic writing to the database, with writing methods of TFTP/FLASH",
+"Not Supported"
+],
+[
+"",
+"DOS/DDOS Anti - Attack",
+"",
+"Supported type: syn-flood、icmp-flood、arp-flood、null-scan、syn-fin、syn-sport|1024、fin-nocakk. All types support global configuration, and the first three types support port - level configuration.",
+"Support anti-attack and packet discarding functions for types such as POD, LAND, packets with the same UDP port number for source and destination, packets with the same TCP port number for source and destination, packets with the same source and destination MAC, null scan, x-mas scan, tcp sys-fin, tcp syn-rst, icmp fragmentation, tcp, sys, and tcp fragmentation. It also supports configuring the maximum length of IPv4 and IPv6 ping packets, the maximum TCP header size, the minimum IPv6 fragmentation, and protection against smurf attacks.",
+"Not Supported"
+],
+[
+"",
+"Black - Hole MAC",
+"",
+"Support, the same as MAC Filtering",
+"Support",
+"Not Supported"
+],
+[
+"",
+"CPU Protection Engine",
+"",
+"Not Supported",
+"Support",
+"Not Supported"
+],
+[
+"",
+"AAA",
+"Supported type",
+"WEB、ssh、login",
+"Serial Port、telnet、ssh、http、https",
+"Not Supported"
+],
+[
+"",
+"",
+"Supported method",
+"none、local、tacacs+、radius",
+"empty、none、local、enable、radius、tacacs+",
+"Not Supported"
+],
+[
+"",
+"",
+"Support authentication",
+"Support",
+"Support",
+"Not Supported"
+],
+[
+"",
+"",
+"Support authorization",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Support accounting",
+"Not Supported",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"Account Manager",
+"Local Authenticatoin",
+"Not Supported",
+"Support",
+"Not Supported"
+],
+[
+"",
+"",
+"Multiple User Account",
+"Not Supported",
+"Support",
+"Not Supported"
+],
+[
+"",
+"",
+"Multi-Level Security",
+"Not Supported",
+"Support",
+"Not Supported"
+],
+[
+"",
+"",
+"Password Recovery Procedures",
+"Not Supported",
+"Support",
+"Not Supported"
+],
+[
+"",
+"",
+"commands",
+"Not Supported",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"exec",
+"Not Supported",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"Management Access",
+"Management VLAN",
+"Not Supported",
+"Support",
+"Not Supported"
+],
+[
+"",
+"",
+"Management ACL",
+"Not Supported",
+"Support",
+"Not Supported"
+],
+[
+"",
+"",
+"SSLv2",
+"Not Supported",
+"Support",
+"Not Supported"
+],
+[
+"",
+"SSL",
+"SSL",
+"Support upload of SSL certificates",
+"Support SSLv3",
+"Not Supported"
+],
+[
+"",
+"",
+"TLSv1",
+"Not Supported",
+"Support",
+"Not Supported"
+],
+[
+"",
+"DHCP Relay",
+"Support DHCP Relay function",
+"release/7.4.0 support",
+"Support",
+"Support"
+],
+[
+"",
+"DHCP Snooping",
+"Support dhcp snooping",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"Support binding of static entries",
+"Not Supported",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Allow untrusted ports to receive relay agent information",
+"Not Supported",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"option43 function",
+"Not Supported",
+"Support",
+"Not Supported"
+],
+[
+"",
+"",
+"option82 function",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"Configurable Circuit ID",
+"Support",
+"Support",
+"Not Supported"
+],
+[
+"",
+"",
+"Configurable remote ID",
+"Support",
+"EUT does not support testing",
+"Not Supported"
+],
+[
+"",
+"",
+"Support the verification of client addresses",
+"Support",
+"Support",
+"Not Supported"
+],
+[
+"",
+"",
+"Support rate - limiting of packets",
+"Support",
+"Support",
+"Not Supported"
+],
+[
+"",
+"",
+"Support timed writing to flash",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"Radius",
+"Support connection to the RADIUS server",
+"Support",
+"Support 8",
+"Support"
+],
+[
+"",
+"Tacacs+",
+"Support connection to the Tacacs+ server",
+"Support",
+"Support 8",
+"Not Supported"
+],
+[
+"",
+"802.1X",
+"Support 1x authentication",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"Support configuring authentication methods",
+"Not Supported",
+"Not Supported",
+"Support configuration of EAP/CHAP/PAP"
+],
+[
+"",
+"",
+"Support the configuration of guest - vlan",
+"Not Supported",
+"Support",
+"Not Supported"
+],
+[
+"",
+"MAC - based Authentication",
+"Support local MAC authentication",
+"Not Supported",
+"Support",
+"Not Supported"
+],
+[
+"",
+"",
+"Support MAC authentication via RADIUS",
+"Support",
+"Support",
+"Not Supported"
+],
+[
+"",
+"ACL",
+"Supported number of ACL  rules",
+"Subject to the device entries",
+"2048",
+"EUT does not support testing"
+],
+[
+"",
+"",
+"Based on IPv4 standards",
+"Support",
+"512",
+"Only custom types are supported"
+],
+[
+"",
+"",
+"Based on IPv4 extension",
+"Support",
+"Support",
+"Only custom types are supported"
+],
+[
+"",
+"",
+"Based on IPv6 standards",
+"Support",
+"Support",
+"Temporarily Not Supported"
+],
+[
+"",
+"",
+"Based on MAC standards",
+"Support",
+"Support",
+"Only custom types are supported"
+],
+[
+"",
+"",
+"Based on MAC extension",
+"Support",
+"Support",
+"Only custom types are supported"
+],
+[
+"",
+"",
+"Custom type",
+"Temporarily Not Supported",
+"Not Supported",
+"Supports custom rules (composable): source MAC, source IP port, Ethernet type, source IP, VLAN, IP protocol (ICMP, IGMP, TCP, UDP)"
+],
+[
+"",
+"",
+"Support IN/OUT directions",
+"Support",
+"unknown",
+"unknown"
+],
+[
+"",
+"",
+"Support ACL restrictions for remote access",
+"Support ACL based on remote access protocols",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Support ACL on VLAN",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"Management",
+"LLDP",
+"Local - end information",
+"Configurable",
+"Not Configurable",
+"Not Configurable"
+],
+[
+"",
+"",
+"Support MED function",
+"Not Supported",
+"Support",
+"Not Supported"
+],
+[
+"",
+"",
+"Support TLV function(optional)",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"View local LLDP information",
+"Not Supported",
+"Support",
+"Support"
+],
+[
+"",
+"Temperature Management",
+"Set the high and low temperature thresholds of the device",
+"Support, Support configuration and  searching for fan information",
+"Not Supported",
+"Support",
+"At present, we should only support the temperature detection of the optical module and alarm functions"
+],
+[
+"",
+"Power management",
+"Support Power management",
+"Support（Special devices support power supply access types of AC/DC and the switching log）",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"CPU Alarm Management",
+"",
+"Not Supported",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"Memory Alarm Management",
+"",
+"Not Supported",
+"Not Supported",
+"Not Supported",
+"We need to support this feature"
+],
+[
+"",
+"Syslog Management",
+"Application method",
+"console/monitor/Log server",
+"console/ram/flash",
+"console/cache/Remote log server"
+],
+[
+"",
+"",
+"Level",
+"0-7，EMERG-ALERT-CRIT-ERR-WARNING-NOTIC-INFO-DEBUG",
+"0-7，Burst-Assert-CRIT-ERR-AlERT-NOTIC-INFO-DEBUG",
+"0-7，EMERG-ALERT-CRIT-ERR-WARNING-NOTIC-INFO-DEBUG"
+],
+[
+"",
+"",
+"Support syslog",
+"支持Ipv4/IPv6",
+"unknown",
+"unknown"
+],
+[
+"",
+"",
+"Supported number of remote server groups",
+"3",
+"Not tested, treated as Not Supported",
+"unknown"
+],
+[
+"",
+"",
+"Support log server encryption",
+"Not Supported",
+"Not tested, treated as Not Supported",
+"unknown"
+],
+[
+"",
+"",
+"Configurable timestamp",
+"Not Supported",
+"Not tested, treated as Not Supported",
+"unknown"
+],
+[
+"",
+"SNMP",
+"Support SNMPv1/2/3",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"Support the configuration of the engine ID",
+"Not Supported",
+"Support",
+"Not Supported"
+],
+[
+"",
+"",
+"MIB",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"Trap",
+"Subject to each function",
+"Only authentication failures, port link up/down events, and cold/hot restarts are supported",
+"Subject to each function"
+],
+[
+"",
+"Rmon",
+"",
+"Support",
+"Support",
+"Not Supported"
+],
+[
+"",
+"Ping",
+"ipv4",
+"Support",
+"Support",
+"Support"
+],
+[
+"",
+"",
+"ipv6",
+"Support",
+"Support",
+"Not Supported"
+],
+[
+"",
+"",
+"Support a fixed number of pings",
+"Not Supported",
+"Support",
+"Not Supported"
+],
+[
+"",
+"Traceroute",
+"ipv4",
+"Support",
+"Support",
+"Not Supported"
+],
+[
+"",
+"",
+"ipv6",
+"Support",
+"Support",
+"Not Supported"
+],
+[
+"",
+"Serial server",
+"",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"Power - off alarm",
+"Support trap",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Advertise to neighbors",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"SFLOW",
+"Support IPv4/IPv6 remote server",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Supported Maximum number of collector",
+"2",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"supports two - way monitoring of flow at egress and ingress port",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"SWSCAN",
+"Support searching and modifying IP information",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Support login authorization",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Support topology discovery",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Support batch upgrade",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Support log collection",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"",
+"Supports configuration import/export",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"Diagnostic",
+"Support register viewing",
+"Support",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"STM",
+"Support switch table entry management",
+"Not Supported",
+"Not Supported",
+"Not Supported"
+],
+[
+"",
+"Timed restart",
+"",
+"Not Supported",
+"Not Supported",
+"Not Supported"
+],
+[
+"Reliability features",
+"BHM",
+"Support the function of monitoring business modules and handling related issues",
+"Not Supported",
+"Not tested, treated as Not Supported",
+"Not tested, treated as Not Supported",
+"This feature can effectively prevent certain processes from hanging up and similar issues, and can restore normal operation through restarting."
+],
+[
+"",
+"TRACK",
+"Support this feature",
+"Not Supported",
+"Not tested, treated as Not Supported",
+"Not tested, treated as Not Supported"
+],
+[
+"",
+"CoPP",
+"",
+"Only Support CPP",
+"Not tested, treated as Not Supported",
+"Not tested, treated as Not Supported"
+],
+[
+"",
+"G8032",
+"",
+"Support，it is ERPS",
+"Support，it is ERPS",
+"Not tested, treated as Not Supported"
+],
+[
+"",
+"EFM",
+"",
+"release/7.4.0 support",
+"Not tested, treated as Not Supported",
+"Not tested, treated as Not Supported"
+],
+[
+"",
+"CFM",
+"",
+"Not Supported",
+"Not tested, treated as Not Supported",
+"Not tested, treated as Not Supported"
+],
+[
+"User Experience",
+"Strict Distinction between uppercase and lowercase in commands",
+"",
+"Without distinction",
+"Without distinction",
+"strict distinction"
+],
+[
+"",
+"Startup time",
+"",
+"38s",
+"52s",
+"26s"
+],
+[
+"",
+"Support for configuring IP interfaces",
+"",
+"IP Management based on VLAN,\nSVI interface based on VLAN,\nIP interface based on Layer 3 interface",
+"Support the configuration of IP under the VLAN interface",
+"Only IP interface"
+],
+[
+"",
+"Overall performance of commands",
+"Compare with the configuration document",
+"There are still some commands for which there is no corresponding documentation, and there are also some commands whose usability is unknown",
+"Basically, all commands have corresponding documentation",
+"The commands are relatively concise. Essentially, all commands have corresponding documentation. You can use the \"list\" command to view all commands in the current mode (including the reference formats of multi - level commands). However, the \"show run\" command is overly detailed and doesn't seem very practical. The interface commands are quite distinctive. There is no need to enter the interface mode. You can directly use \"interface IFNAME\" followed by subsequent commands in the configuration mode, which has the same effect as configuring commands in the interface mode. They have placed some \"show\" commands directly in the config mode, making them inaccessible in the privileged mode. The command manual clearly indicates the user level corresponding to a certain command and the configurable modes."
+]
+]
+},
+"Sheet2":{
+"state":"visible",
+"rows":[]
+},
+"Sheet3":{
+"state":"visible",
+"rows":[]
+}
+}
+}

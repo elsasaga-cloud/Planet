@@ -1,0 +1,198 @@
+{
+"id":"1Qe-w3CGdxQen85HBBsvKz_XTkaBGpUwy",
+"name":"2025.9.11需确认为问题.docx",
+"path":"SmartByte/暂时不用的/2025.9.11需确认为问题.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":26327,
+"sha256":"d59589eabce0e1e0b6597ece43e0154fa711f11ad938508ba40fe6c3039bd15f",
+"extracted_at":"2026-10-22T02:12:08Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":1799,
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2025-09-08T10:50:00+00:00",
+"modified":"2025-09-20T10:27:09+00:00",
+"paragraphs":33,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"text":"目前光口CWDM和DWDM模块是否支持?\nWorking Temperature: -40℃~75℃\n类似胖导轨一样\nSingle power input: PoE power budget≤240W(-40℃~+ 70℃)\nDual power input: PoE power budget≤370W(-40℃~+ 60℃)\n这里写的是70度，说明是测试过了\n常规导轨的75度是否是在240W输出时也OK?还是70℃?\n1U机架工业PoE管理型号比如LT-IS6328GP-4GX24GT-U\n在规格书中写的是PoE power budget≤370W\n工作温度写的是-40℃~+ 75℃\n这个不像胖导轨一样有明确的240W和370W的温度区别\n这个75℃这个准确吗？能写370W输出时可达到75度吗?\nDI/DO/RS485这个在16   24口上可以出货了吗?\nCatalog_2025介绍了你们在引进Centec芯片，看是写了2026年用于工商业交换机，出这个系列的考量是?\n3.2T采用了Falcon 芯片，你们目前Marvell芯片的高速交换机还在继续研发吗?\n2026年TSN交换机, 也说了Industrial Protocol，在2025年年初验厂时沟通的是后续是要从工业级别产品往工业级产品研发，这个和falcon系列，centec系列产品的研发投入和方向是咋考量的?\n2027年写的是Teralynx 10系列的高速交换机，这个一般是超高速的，从头到尾并没有看到你们咋介绍常规的Marvell系列的核心交换机（10G/25G/100G等）\nhttps://cloudswit.ch/\nAsterfusion Data Technologies Co., Ltd.\n这个公司你们知道吗? 他们也是做各种速率的marvell交换机，主要是商业级的\n关于7.4.0   7.5.0   7.6.0版本的软件功能有没有大概的方向来增加哪些功能，比如上述的Industrial Protocol还是啥?\n从2025.02.18 Marvell Software Features-7.3, 7.4, 7.5 version里看到，7.4    7.5增加的功能并不是特别多\n你们平时会有关于Marvell芯片特点的培训吗?\n尤其是自动化集成接口方面的应用，所用芯片的优点和不足这类信息\n就是你们如何介绍  对接Marvell芯片及相关的功能应用?\n升压型号（power booster系列）目前算是成熟出货了吗?\n后续还有降本的可能性吗? 如同LT-IS6312GP-4GX8GT-2BT-2FBP等型号，直接采用了一个新的芯片，成本降低了很多\n关于环网相关的测试多吗? 比如Recovery time≤20ms，似乎Marvell芯片并未有相关表述，而自愈时间一般是软硬件联合实现的，有这类测试吗?\n最多支持多少台设备一起环网? 比如不同协议下（ERPS, RSTP等）不同的组环方式等\n是否有做2.5G网口产品的计划，如下\nhttps://cloudswit.ch/product/8-port-2-5g-l2-l3-access-switch-enterprise-sonic/\n通常是Marvell Prestera (AlleyCat 5X) + Marvell 88E2580 PHY方案来做\nhttps://hohunet.cn/service/next-generation-2-5g-network-solution/\n[页眉页脚]\n2025/Q4 \t\t\t \t                                                                              s.sagatelecom@gmail.com\n\t\t\t\t\t\t\t                                                                       Saga Telecom\nwww.sagatelecom.com.cn\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"目前光口CWDM和DWDM模块是否支持?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Working Temperature: -40℃~75℃"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"类似胖导轨一样"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Single power input: PoE power budget≤240W(-40℃~+ 70℃)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Dual power input: PoE power budget≤370W(-40℃~+ 60℃)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这里写的是70度，说明是测试过了"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"常规导轨的75度是否是在240W输出时也OK?还是70℃?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1U机架工业PoE管理型号比如LT-IS6328GP-4GX24GT-U"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"在规格书中写的是PoE power budget≤370W"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"工作温度写的是-40℃~+ 75℃"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这个不像胖导轨一样有明确的240W和370W的温度区别"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这个75℃这个准确吗？能写370W输出时可达到75度吗?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DI/DO/RS485这个在16   24口上可以出货了吗?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Catalog_2025介绍了你们在引进Centec芯片，看是写了2026年用于工商业交换机，出这个系列的考量是?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3.2T采用了Falcon 芯片，你们目前Marvell芯片的高速交换机还在继续研发吗?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2026年TSN交换机, 也说了Industrial Protocol，在2025年年初验厂时沟通的是后续是要从工业级别产品往工业级产品研发，这个和falcon系列，centec系列产品的研发投入和方向是咋考量的?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2027年写的是Teralynx 10系列的高速交换机，这个一般是超高速的，从头到尾并没有看到你们咋介绍常规的Marvell系列的核心交换机（10G/25G/100G等）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://cloudswit.ch/"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Asterfusion Data Technologies Co., Ltd."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这个公司你们知道吗? 他们也是做各种速率的marvell交换机，主要是商业级的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"关于7.4.0   7.5.0   7.6.0版本的软件功能有没有大概的方向来增加哪些功能，比如上述的Industrial Protocol还是啥?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"从2025.02.18 Marvell Software Features-7.3, 7.4, 7.5 version里看到，7.4    7.5增加的功能并不是特别多"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你们平时会有关于Marvell芯片特点的培训吗?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"尤其是自动化集成接口方面的应用，所用芯片的优点和不足这类信息"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"就是你们如何介绍  对接Marvell芯片及相关的功能应用?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"升压型号（power booster系列）目前算是成熟出货了吗?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"后续还有降本的可能性吗? 如同LT-IS6312GP-4GX8GT-2BT-2FBP等型号，直接采用了一个新的芯片，成本降低了很多"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"关于环网相关的测试多吗? 比如Recovery time≤20ms，似乎Marvell芯片并未有相关表述，而自愈时间一般是软硬件联合实现的，有这类测试吗?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"最多支持多少台设备一起环网? 比如不同协议下（ERPS, RSTP等）不同的组环方式等"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"是否有做2.5G网口产品的计划，如下"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://cloudswit.ch/product/8-port-2-5g-l2-l3-access-switch-enterprise-sonic/"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"通常是Marvell Prestera (AlleyCat 5X) + Marvell 88E2580 PHY方案来做"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://hohunet.cn/service/next-generation-2-5g-network-solution/"
+}
+],
+"header_footer":[
+"2025/Q4 \t\t\t \t                                                                              s.sagatelecom@gmail.com\n\t\t\t\t\t\t\t                                                                       Saga Telecom",
+"www.sagatelecom.com.cn",
+"Connecting, Converting, Creating",
+"Tailored Marvell Managed Networking Solutions Provider"
+]
+}

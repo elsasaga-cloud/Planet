@@ -1,0 +1,22 @@
+{
+"id":"1kNvgRFvSQctM_6jizuOiyOkR1KXOSqgz",
+"name":"16+8+4.png",
+"path":"SmartByte/暂时不用的/商业级管理 源图/16光+8Combo+4光/16+8+4.png",
+"type":"图片",
+"bytes":149515,
+"sha256":"b64918a19bde3de87bc8af0696ea94cd0cffc6d0432317245f20ee8f4291ca6e",
+"extracted_at":"2026-10-22T02:15:38Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":2889,
+"height":2097,
+"mode":"RGB",
+"thumb_bytes":6470
+},
+"ocr":{
+"text":"一 - 44mm —\nFe 44mm 一 下\nCOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO\nLIC || console\noe — a — r r\nVv __ Atv — Atv — atv — al jv — aw Am — Atv — at jv — anv — anv — aw al vr Al\nSand [一 1 £ i [一 1 oO +E\n口\npo = |\n3 4 9\n一 440mm 一\n67 8 TF 33 $s 7 8\nFront view\nLo reset\nbir be BR Fe bo AR SH BR FH\n-* 品\nsa\n@@\n一 440mm 一 一\nBack view\nJOooou Joooor @\nJoooooc OOOO OL\noooooo oooooo\n23oooooc 32oooooec ©\noooooo oooooo\nYooooor Yooooor »} @\n\"oooor Yoooor\n一 一 一 一 一 一 一 一 玫 玫 一 245mm 一\nSide view\n一 44mm —-",
+"conf":57.4
+},
+"text":"一 - 44mm —\nFe 44mm 一 下\nCOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO\nLIC || console\noe — a — r r\nVv __ Atv — Atv — atv — al jv — aw Am — Atv — at jv — anv — anv — aw al vr Al\nSand [一 1 £ i [一 1 oO +E\n口\npo = |\n3 4 9\n一 440mm 一\n67 8 TF 33 $s 7 8\nFront view\nLo reset\nbir be BR Fe bo AR SH BR FH\n-* 品\nsa\n@@\n一 440mm 一 一\nBack view\nJOooou Joooor @\nJoooooc OOOO OL\noooooo oooooo\n23oooooc 32oooooec ©\noooooo oooooo\nYooooor Yooooor »} @\n\"oooor Yoooor\n一 一 一 一 一 一 一 一 玫 玫 一 245mm 一\nSide view\n一 44mm —-"
+}

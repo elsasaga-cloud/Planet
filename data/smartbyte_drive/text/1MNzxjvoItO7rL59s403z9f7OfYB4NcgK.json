@@ -1,0 +1,575 @@
+{
+"id":"1MNzxjvoItO7rL59s403z9f7OfYB4NcgK",
+"name":"SmartByte 3,6 series industrial managed Ethernet switch function list.xlsx",
+"path":"SmartByte/暂时不用的/SmartByte 3,6 series industrial managed Ethernet switch function list.xlsx",
+"type":"Excel",
+"ext":".xlsx",
+"bytes":20141,
+"sha256":"c4d171ee122f03f5bf435fca12930f4f80e4d89007cfad08b70bf441da42f574",
+"extracted_at":"2026-10-22T02:14:38Z",
+"method":"openpyxl(values)",
+"status":"ok",
+"chars":2832,
+"meta":{
+"sheets":[
+"Industrial Managed function"
+],
+"embedded_images":0,
+"rows_total":78
+},
+"warnings":[],
+"text":"--- Sheet: Industrial Managed function ---\nSmartByte 3, 6 series managed Ethernet Switch function list\t\t\tLT-IS3206 , LT-IS3210 series\tLT-IS6206, LT-IS6210 series\nL2 Switch Features\tLink Aggregation\tSupport GE Port Aggregaiton\t√\t√\n\t\tSupport Static Aggregation\t√\t√\n\t\tSupport Dynamic Aggragation)\t√\t√\n\tPort Features\tSupport IEEE 802.3x Flow Control\t√\t√\n\t\tSupport Interface Counters\t√\t√\n\t\tSupport Port Isolation\t√\t√\n\t\tSupport Storm Control\t√\t√\n\tMac-address Table Management\tStatic Mac-address Management\t√\t√\n\t\tSupport Dynamic Mac-address Management\t√\t√\n\t\tSupport Filtering Mac-address\t√\t√\n\tVLAN\tSupport Access mode\t√\t√\n\t\tSupport Trunk mode\t√\t√\n\t\tSupport Hybrid mode\t√\t√\n\tVLAN Classification\tMac Based VLAN\t✕\t√\n\t\tIP Based VLAN\t✕\t√\n\t\tIP Based VLAN\t✕\t√\n\tGVRP\tNormal mode\t✕\t√\n\t\tFixed mode\t✕\t√\n\t\tforbidden mode\t✕\t√\n\tQinQ\tPort-based QinQ\t✕\t√\n\t\tVLAN-based QinQ\t✕\t√\n\t\tFlow-based QinQ\t✕\t√\n\tLLDP\tLLDP\t√\t√\n\tMirror\tPort Mirroring(Many to one)\t√\t√\n\tIEEE802.1w RSTP\tSTP\t√\t√\n\t\tRSTP\t√\t√\n\t\tMSTP\t✕\t√\n\tG.8032\tMajor Ring\t√\t√\n\t\tSub Ring\t√\t√\n\tLoop detect\tloop detect based on ports\t✕\t√\n\t\tloop detect based on ports and Vlan\t✕\t√\nMulticast Features\tIGMP Snooping\tIGMP Snooping\t√\t√\nSecurity Features\tACL\tIP Standard ACL\t✕\t√\n\t\tIP Standard ACL\t✕\t√\n\t\tIP extend ACL\t✕\t√\n\tQoS\tQoS Class, Remarking\t✕\t√\n\t\tSupport SP, WRR queue scheduling\t✕\t√\n\t\tIngress Port-based Rate-limit\t√\t√\n\t\tEgress Port-based Rate-limit\t√\t√\n\t\tPolicy-based QoS\t√\t√\n\t802.1x\tPort Access Control\t√\t√\n\t\tMac-address Access Control\t√\t√\n\t\tRADIUS Server\t√\t√\n\tPort-security\tPort-security\t✕\t√\n\tIP source guard\tIP Port/MAC binding\t✕\t√\n\tarp-check\tarp-check\t✕\t√\nManagement Features\tUser Management\tSupport Password Protection\t√\t√\n\tSNMP\tSupporting Version(SNMP V2C/V3)\t√\t√\n\tWeb Management\tWeb Management\t√\t√\n\t\tSupport HTTP V1.1\t√\t√\n\t\tSupport HTTPS\t√\t√\n\tRMON\tRMON\t√\t√\n\tFirmware Upgrade\tFirmware Upgrade\t√\t√\n\tFault Detection\tPing/Tracerout\t√\t√\n\t\tDying Gasp\t✕\t√\n\t\tSupport optical transceiver DDM function\t√\t√\n\tCable detection\tSupport copper port cable detection\t✕\t√\n\tPoE\tPoE management (af/at/bt)\t√\t√\n\tNTP\tNetwork Time Protocol\t√\t√\n\tSyslog/Debug\tSyslog/Debug\t√\t√\n\tConfiguration import/export\tSupport FTP/TFTP remote import/export\t√\t√\n\t\tSupport U disk import/export\t✕\t√\n\tDual partition management\tSupport dual partition switching\t✕\t√\nApplication Protocol Features\tDHCP Snooping\tDHCP snooping trust port\t✕\t√\n\t\tDHCP option-82\t✕\t√\n\tDHCP Client\tDHCP Client\t✕\t√\n\tTelnet Server\tSupport Telnet Server\t√\t√\n\tTelnet Client\tSupport Telnet Client\t√\t√\n\tSSH Server\tSupport SSH Server\t√\t√\n\tTACACS\tThe terminal access controller accesses the control system\t✕\t√\n\tPoE management\tSupport PoE watchdog\t√\t√\n\t\tSupport PoE priority management\t√\t√\n\t\tSupport Max PoE power configuration for each port\t√\t√\n\t\tSupport alarm waterline configuration\t√\t√\n\t\tSupport reserved power configuration\t√\t√\n\t\tSupport af/at/bt\taf/at\t√\n\tTFTP\tTFTP Client\t√\t√",
+"sheets":{
+"Industrial Managed function":{
+"state":"visible",
+"rows":[
+[
+"SmartByte 3, 6 series managed Ethernet Switch function list",
+"",
+"",
+"LT-IS3206 , LT-IS3210 series",
+"LT-IS6206, LT-IS6210 series"
+],
+[
+"L2 Switch Features",
+"Link Aggregation",
+"Support GE Port Aggregaiton",
+"√",
+"√"
+],
+[
+"",
+"",
+"Support Static Aggregation",
+"√",
+"√"
+],
+[
+"",
+"",
+"Support Dynamic Aggragation)",
+"√",
+"√"
+],
+[
+"",
+"Port Features",
+"Support IEEE 802.3x Flow Control",
+"√",
+"√"
+],
+[
+"",
+"",
+"Support Interface Counters",
+"√",
+"√"
+],
+[
+"",
+"",
+"Support Port Isolation",
+"√",
+"√"
+],
+[
+"",
+"",
+"Support Storm Control",
+"√",
+"√"
+],
+[
+"",
+"Mac-address Table Management",
+"Static Mac-address Management",
+"√",
+"√"
+],
+[
+"",
+"",
+"Support Dynamic Mac-address Management",
+"√",
+"√"
+],
+[
+"",
+"",
+"Support Filtering Mac-address",
+"√",
+"√"
+],
+[
+"",
+"VLAN",
+"Support Access mode",
+"√",
+"√"
+],
+[
+"",
+"",
+"Support Trunk mode",
+"√",
+"√"
+],
+[
+"",
+"",
+"Support Hybrid mode",
+"√",
+"√"
+],
+[
+"",
+"VLAN Classification",
+"Mac Based VLAN",
+"✕",
+"√"
+],
+[
+"",
+"",
+"IP Based VLAN",
+"✕",
+"√"
+],
+[
+"",
+"",
+"IP Based VLAN",
+"✕",
+"√"
+],
+[
+"",
+"GVRP",
+"Normal mode",
+"✕",
+"√"
+],
+[
+"",
+"",
+"Fixed mode",
+"✕",
+"√"
+],
+[
+"",
+"",
+"forbidden mode",
+"✕",
+"√"
+],
+[
+"",
+"QinQ",
+"Port-based QinQ",
+"✕",
+"√"
+],
+[
+"",
+"",
+"VLAN-based QinQ",
+"✕",
+"√"
+],
+[
+"",
+"",
+"Flow-based QinQ",
+"✕",
+"√"
+],
+[
+"",
+"LLDP",
+"LLDP",
+"√",
+"√"
+],
+[
+"",
+"Mirror",
+"Port Mirroring(Many to one)",
+"√",
+"√"
+],
+[
+"",
+"IEEE802.1w RSTP",
+"STP",
+"√",
+"√"
+],
+[
+"",
+"",
+"RSTP",
+"√",
+"√"
+],
+[
+"",
+"",
+"MSTP",
+"✕",
+"√"
+],
+[
+"",
+"G.8032",
+"Major Ring",
+"√",
+"√"
+],
+[
+"",
+"",
+"Sub Ring",
+"√",
+"√"
+],
+[
+"",
+"Loop detect",
+"loop detect based on ports",
+"✕",
+"√"
+],
+[
+"",
+"",
+"loop detect based on ports and Vlan",
+"✕",
+"√"
+],
+[
+"Multicast Features",
+"IGMP Snooping",
+"IGMP Snooping",
+"√",
+"√"
+],
+[
+"Security Features",
+"ACL",
+"IP Standard ACL",
+"✕",
+"√"
+],
+[
+"",
+"",
+"IP Standard ACL",
+"✕",
+"√"
+],
+[
+"",
+"",
+"IP extend ACL",
+"✕",
+"√"
+],
+[
+"",
+"QoS",
+"QoS Class, Remarking",
+"✕",
+"√"
+],
+[
+"",
+"",
+"Support SP, WRR queue scheduling",
+"✕",
+"√"
+],
+[
+"",
+"",
+"Ingress Port-based Rate-limit",
+"√",
+"√"
+],
+[
+"",
+"",
+"Egress Port-based Rate-limit",
+"√",
+"√"
+],
+[
+"",
+"",
+"Policy-based QoS",
+"√",
+"√"
+],
+[
+"",
+"802.1x",
+"Port Access Control",
+"√",
+"√"
+],
+[
+"",
+"",
+"Mac-address Access Control",
+"√",
+"√"
+],
+[
+"",
+"",
+"RADIUS Server",
+"√",
+"√"
+],
+[
+"",
+"Port-security",
+"Port-security",
+"✕",
+"√"
+],
+[
+"",
+"IP source guard",
+"IP Port/MAC binding",
+"✕",
+"√"
+],
+[
+"",
+"arp-check",
+"arp-check",
+"✕",
+"√"
+],
+[
+"Management Features",
+"User Management",
+"Support Password Protection",
+"√",
+"√"
+],
+[
+"",
+"SNMP",
+"Supporting Version(SNMP V2C/V3)",
+"√",
+"√"
+],
+[
+"",
+"Web Management",
+"Web Management",
+"√",
+"√"
+],
+[
+"",
+"",
+"Support HTTP V1.1",
+"√",
+"√"
+],
+[
+"",
+"",
+"Support HTTPS",
+"√",
+"√"
+],
+[
+"",
+"RMON",
+"RMON",
+"√",
+"√"
+],
+[
+"",
+"Firmware Upgrade",
+"Firmware Upgrade",
+"√",
+"√"
+],
+[
+"",
+"Fault Detection",
+"Ping/Tracerout",
+"√",
+"√"
+],
+[
+"",
+"",
+"Dying Gasp",
+"✕",
+"√"
+],
+[
+"",
+"",
+"Support optical transceiver DDM function",
+"√",
+"√"
+],
+[
+"",
+"Cable detection",
+"Support copper port cable detection",
+"✕",
+"√"
+],
+[
+"",
+"PoE",
+"PoE management (af/at/bt)",
+"√",
+"√"
+],
+[
+"",
+"NTP",
+"Network Time Protocol",
+"√",
+"√"
+],
+[
+"",
+"Syslog/Debug",
+"Syslog/Debug",
+"√",
+"√"
+],
+[
+"",
+"Configuration import/export",
+"Support FTP/TFTP remote import/export",
+"√",
+"√"
+],
+[
+"",
+"",
+"Support U disk import/export",
+"✕",
+"√"
+],
+[
+"",
+"Dual partition management",
+"Support dual partition switching",
+"✕",
+"√"
+],
+[
+"Application Protocol Features",
+"DHCP Snooping",
+"DHCP snooping trust port",
+"✕",
+"√"
+],
+[
+"",
+"",
+"DHCP option-82",
+"✕",
+"√"
+],
+[
+"",
+"DHCP Client",
+"DHCP Client",
+"✕",
+"√"
+],
+[
+"",
+"Telnet Server",
+"Support Telnet Server",
+"√",
+"√"
+],
+[
+"",
+"Telnet Client",
+"Support Telnet Client",
+"√",
+"√"
+],
+[
+"",
+"SSH Server",
+"Support SSH Server",
+"√",
+"√"
+],
+[
+"",
+"TACACS",
+"The terminal access controller accesses the control system",
+"✕",
+"√"
+],
+[
+"",
+"PoE management",
+"Support PoE watchdog",
+"√",
+"√"
+],
+[
+"",
+"",
+"Support PoE priority management",
+"√",
+"√"
+],
+[
+"",
+"",
+"Support Max PoE power configuration for each port",
+"√",
+"√"
+],
+[
+"",
+"",
+"Support alarm waterline configuration",
+"√",
+"√"
+],
+[
+"",
+"",
+"Support reserved power configuration",
+"√",
+"√"
+],
+[
+"",
+"",
+"Support af/at/bt",
+"af/at",
+"√"
+],
+[
+"",
+"TFTP",
+"TFTP Client",
+"√",
+"√"
+]
+]
+}
+}
+}

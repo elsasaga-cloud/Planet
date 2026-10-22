@@ -1,0 +1,22 @@
+{
+"id":"1bXbJFuHHICPnsS1Mh76PXo0bUzP1ZYHD",
+"name":"16+8 Combo +4.png",
+"path":"SmartByte/暂时不用的/商业级管理 源图/16电+8Combo+4光/16+8 Combo +4.png",
+"type":"图片",
+"bytes":179691,
+"sha256":"0543556ac6729c876c4089c22a6b51454b3d834e93f8c856f4ecbff839372c50",
+"extracted_at":"2026-10-22T02:15:29Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":2889,
+"height":2097,
+"mode":"RGB",
+"thumb_bytes":5904
+},
+"ocr":{
+"text":"| 一 44mm —J\nTaq\nCICS\nLICICI\nsrs |\n党 <\nie\nL- reset\nConsole\nee a, =\nVv Any — Atv — atv — al 4! |\nFe 圖 J\not 1 4\nLab dh IJ\n4 世\n,上\n同\n品\nEl\n品\nway\nwo fT\n‘o.\nbaba\nebb\n19 20 2 22 23 2\na\nfa\nye\n8\n9\n| 一 44mm 一 二\n440mn 一\nFront view\n| 一 44mm 一 下\n44mm 一 ”rr |\nBack view\nJ _ 300m |\nSide view",
+"conf":56.5
+},
+"text":"| 一 44mm —J\nTaq\nCICS\nLICICI\nsrs |\n党 <\nie\nL- reset\nConsole\nee a, =\nVv Any — Atv — atv — al 4! |\nFe 圖 J\not 1 4\nLab dh IJ\n4 世\n,上\n同\n品\nEl\n品\nway\nwo fT\n‘o.\nbaba\nebb\n19 20 2 22 23 2\na\nfa\nye\n8\n9\n| 一 44mm 一 二\n440mn 一\nFront view\n| 一 44mm 一 下\n44mm 一 ”rr |\nBack view\nJ _ 300m |\nSide view"
+}

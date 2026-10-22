@@ -1,0 +1,22 @@
+{
+"id":"1vwPVaTzmedg3IS5Hih60A9Qbfqk4uP3W",
+"name":"8+2正面.png",
+"path":"SmartByte/暂时不用的/商业级管理 源图/2光+8电/8+2正面.png",
+"type":"图片",
+"bytes":7923366,
+"sha256":"33fc37ce6787c376d454f5da63d8e171df8fffb7177ebd9a19bce87bec370aef",
+"extracted_at":"2026-10-22T02:15:41Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5000,
+"height":3583,
+"mode":"RGBA",
+"thumb_bytes":7117
+},
+"ocr":{
+"text":"Yellow:PoE/Speed Green:Link/act\nConsole",
+"conf":89.9
+},
+"text":"Yellow:PoE/Speed Green:Link/act\nConsole"
+}

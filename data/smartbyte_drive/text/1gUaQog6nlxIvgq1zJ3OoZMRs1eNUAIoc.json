@@ -1,0 +1,22 @@
+{
+"id":"1gUaQog6nlxIvgq1zJ3OoZMRs1eNUAIoc",
+"name":"24+4口poe.png",
+"path":"SmartByte/暂时不用的/商业级管理 源图/4光 +24电/24+4口poe.png",
+"type":"图片",
+"bytes":124214,
+"sha256":"d9cfc6a001d83056ba0fb10b3cc34de77ce6b0aa30a6ec3e3dd5a23225f16258",
+"extracted_at":"2026-10-22T02:15:52Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":2889,
+"height":2097,
+"mode":"RGB",
+"thumb_bytes":6025
+},
+"ocr":{
+"text":"一 - 44mm —\n一 - 44mm 一 下\nODO (SSRs: . . ely me\nBb dh db db db db dh Alb db dh db dle Lda,\n440mm 一\nFront view\n©\n440mm A A\nBack view\nT soooour 30000 © @\nE JOOOOOt )ooooout\nE JOSE JOSONC ©\n+ Oooooo Dooooo\nOoooor Yooooor 四 四\n上 Yoooor Yoooor\n一 245mnmn 一 一 1\nSide view",
+"conf":58.6
+},
+"text":"一 - 44mm —\n一 - 44mm 一 下\nODO (SSRs: . . ely me\nBb dh db db db db dh Alb db dh db dle Lda,\n440mm 一\nFront view\n©\n440mm A A\nBack view\nT soooour 30000 © @\nE JOOOOOt )ooooout\nE JOSE JOSONC ©\n+ Oooooo Dooooo\nOoooor Yooooor 四 四\n上 Yoooor Yoooor\n一 245mnmn 一 一 1\nSide view"
+}

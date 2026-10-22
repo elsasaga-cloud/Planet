@@ -1,0 +1,381 @@
+{
+"id":"12Kd41dGGXwm2of0vOnG-vyha9I4R3rTD",
+"name":"LT-IS6024G-24GT neutral datasheet.docx",
+"path":"SmartByte/暂时不用的/2025 Q1验厂/LT-IS6024G-24GT neutral datasheet.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":342851,
+"sha256":"9a5dd27d8ae785ebf1855c70efe5a81a64500ddda3fddf9cc714d0fc5e24cb46",
+"extracted_at":"2026-10-22T02:12:07Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":4105,
+"meta":{
+"title":"",
+"author":"雙燕飛",
+"last_modified_by":"Peter Hu",
+"created":"2021-12-06T02:50:00+00:00",
+"modified":"2024-05-06T08:37:00+00:00",
+"paragraphs":18,
+"tables":2,
+"embedded_images":2
+},
+"warnings":[],
+"text":"24*10/100/1000Base-T Industrial Ethernet Switch\nLT-IS6024G-24GT\nFeatures:\n➢ 24*10/100/1000Base-T RJ45 ports\n➢ Redundant power DC 12-58V input with polarity reverse/over-voltage/over-current protection\n➢ Support one output relay alarm(terminal block Pin 5/6) for DC power failure\n➢  Support powerful Dip switch function:\n1.Port isolation; 2. Flow control; 3. QoS(1-2 ports) ; 4.Broadcast storm restrain\n➢ Support 10K Bytes Jumbo frame\n➢ Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n➢ IP40 fan-less and Din-rail hardware design\n➢ Operation temperature: -40 ℃ ~+75℃\nOverview\nThe SmartByte LT-IS6024G-24GT is the highly reliable industrial Ethernet switch with 24-port 10/100/1000-T RJ45 . It is featuring with port isolation, flow control, QoS(1-2 ports) and broadcast storm restrain function, which all can be configured by the Dip switch on the top panel.\nLT-IS6024G-24GT is also a high cost-effective easy-to-use device, which provides essential industrial Ethernet networking function, including wide range power input 12-58VDC, redundant power design with polarity reverse/over-voltage/over-current protection, robust IP40 fan-less housing with Din-rail installation, wide operation temperature from -40°C to 75°C as well as high-level EMI/EMC capability. It is the best choice for heavy industrial factory, transportation, oil & gas, chemical, IP Surveillance and processing automation area where environmental conditions are harsh and critical.\nTechnical specification\nModel No.\tLT-IS6024G-24GT\nInterface\tFiber ports\tCopper RJ45 ports\nInterface\t0\t24\nEthernet\t24*10/100/1000Base-T\nAlarm port\tOne relay output for power failure. Alarm relay current carry ability: 1A@24VDC\nStandard\tIEEE 802.3 10Base-T Ethernet / IEEE 802.3u Fast Ethernet / IEEE 802.3ab Gigabit Ethernet / IEEE 802.3x Full-Duplex Flow Control / IEEE 802.3az Energy Efficient Ethernet\nDip Switch\tPort isolation / Flow control / QoS(1-2 ports） / Broadcast storm restrain\nLED Indicators\nP(Power indicator) Green\tOff: the device is power off or failed\nP(Power indicator) Green\tOn: the device power on is normal\nS(System indicator) Red\tOff: the chip is normal\nS(System indicator) Red\tOn: the chip read/write is unnormal\n1-24 (Copper ports)\tGreen indicators\tYellow indicators\n1-24 (Copper ports)\tOff: ports link down\tOff: port on 10/100M\n1-24 (Copper ports)\tOn: ports link up\tOn: port on 1000M\n1-24 (Copper ports)\tBlinking: data on TX/RX\t\nPower parameters\nInput voltage\t12-58VDC, redundant power input\nInput current\t2A Max\nTotal power consumption\tFull loading≤24W\nConnector\tRemovable 6-pin terminal block, Pin 5-6 for relay alarm output\nReverse polarity protection\tSupport\nOver-voltage protection\tSupport\nOver-current protection\tSupport\nSwitching features\nSwitching capacity\t48G\nPacket forwarding rate\t71.4Mpps\nMAC address table\t8K\nVLAN\t4K\nBuffer\t2M\nForwarding delay\t<5us\nJumbo Frame\tSupport 10Kbytes\nMDX/MIDX\tSupport\nWatchdog\tSupport\nNetwork Topology\nStar topology\tSupport\nBus topology\tSupport\nTree Topology\tSupport\nMechanical structure\nCase protection\tIP40\nInstallation method\tDin-rail\nDimension(W*D*H)mm\t76*115*158mm\nWeight\t1.60 Kg\nOperating environment\nOperating temperature\t-40℃~+75℃\nStorage/transportation temperature\t-40℃~+85℃\nRelative humidity\t5%~95%（non-condensing）\nIndustry standard\tEMI：FCC Part 15B Class A\nIndustry standard\tSurge protection of power: IEC 61000-4-5  6KV/4KV（8/20us）\nIndustry standard\tSurge protection of Ethernet ports：IEC 61000-4-5  6KV/2KV（10/700us）\nIndustry standard\tRS: IEC 61000-4-3 80 MHz-1 GHz：10 V/m\nIndustry standard\tEFT: IEC 61000-4-4  power interface: 4K；Ethernet ports: 2K\nIndustry standard\tCS: IEC 61000-4-6 10V\nIndustry standard\tESD: IEC 61000-4-2  Level 4（8K/15K）\nIndustry standard\tShock: IEC 60068-2-27\nIndustry standard\tFree fall: IEC 60068-2-32\nIndustry standard\tVibration: IEC 60068-2-6\nCertification\tCCC/CE/FCC/RoHS\nWarranty\t5 years\nStructure diagram\nOrder information\nModel\tDescription\nLT-IS6024G-24GT\tIndustrial Ethernet switch with 24*10/100/1000Base-T RJ45 ports, DC12-58V input, redundant dual power supply, Din-rail installation. Operation temperature: -40℃～+75℃",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"24*10/100/1000Base-T Industrial Ethernet Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LT-IS6024G-24GT"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Features:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ 24*10/100/1000Base-T RJ45 ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Redundant power DC 12-58V input with polarity reverse/over-voltage/over-current protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Support one output relay alarm(terminal block Pin 5/6) for DC power failure"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢  Support powerful Dip switch function:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1.Port isolation; 2. Flow control; 3. QoS(1-2 ports) ; 4.Broadcast storm restrain"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Support 10K Bytes Jumbo frame"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ IP40 fan-less and Din-rail hardware design"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"➢ Operation temperature: -40 ℃ ~+75℃"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Overview"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The SmartByte LT-IS6024G-24GT is the highly reliable industrial Ethernet switch with 24-port 10/100/1000-T RJ45 . It is featuring with port isolation, flow control, QoS(1-2 ports) and broadcast storm restrain function, which all can be configured by the Dip switch on the top panel."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LT-IS6024G-24GT is also a high cost-effective easy-to-use device, which provides essential industrial Ethernet networking function, including wide range power input 12-58VDC, redundant power design with polarity reverse/over-voltage/over-current protection, robust IP40 fan-less housing with Din-rail installation, wide operation temperature from -40°C to 75°C as well as high-level EMI/EMC capability. It is the best choice for heavy industrial factory, transportation, oil & gas, chemical, IP Surveillance and processing automation area where environmental conditions are harsh and critical."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Technical specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model No.",
+"LT-IS6024G-24GT"
+],
+[
+"Interface",
+"Fiber ports",
+"Copper RJ45 ports"
+],
+[
+"Interface",
+"0",
+"24"
+],
+[
+"Ethernet",
+"24*10/100/1000Base-T"
+],
+[
+"Alarm port",
+"One relay output for power failure. Alarm relay current carry ability: 1A@24VDC"
+],
+[
+"Standard",
+"IEEE 802.3 10Base-T Ethernet / IEEE 802.3u Fast Ethernet / IEEE 802.3ab Gigabit Ethernet / IEEE 802.3x Full-Duplex Flow Control / IEEE 802.3az Energy Efficient Ethernet"
+],
+[
+"Dip Switch",
+"Port isolation / Flow control / QoS(1-2 ports） / Broadcast storm restrain"
+],
+[
+"LED Indicators"
+],
+[
+"P(Power indicator) Green",
+"Off: the device is power off or failed"
+],
+[
+"P(Power indicator) Green",
+"On: the device power on is normal"
+],
+[
+"S(System indicator) Red",
+"Off: the chip is normal"
+],
+[
+"S(System indicator) Red",
+"On: the chip read/write is unnormal"
+],
+[
+"1-24 (Copper ports)",
+"Green indicators",
+"Yellow indicators"
+],
+[
+"1-24 (Copper ports)",
+"Off: ports link down",
+"Off: port on 10/100M"
+],
+[
+"1-24 (Copper ports)",
+"On: ports link up",
+"On: port on 1000M"
+],
+[
+"1-24 (Copper ports)",
+"Blinking: data on TX/RX",
+""
+],
+[
+"Power parameters"
+],
+[
+"Input voltage",
+"12-58VDC, redundant power input"
+],
+[
+"Input current",
+"2A Max"
+],
+[
+"Total power consumption",
+"Full loading≤24W"
+],
+[
+"Connector",
+"Removable 6-pin terminal block, Pin 5-6 for relay alarm output"
+],
+[
+"Reverse polarity protection",
+"Support"
+],
+[
+"Over-voltage protection",
+"Support"
+],
+[
+"Over-current protection",
+"Support"
+],
+[
+"Switching features"
+],
+[
+"Switching capacity",
+"48G"
+],
+[
+"Packet forwarding rate",
+"71.4Mpps"
+],
+[
+"MAC address table",
+"8K"
+],
+[
+"VLAN",
+"4K"
+],
+[
+"Buffer",
+"2M"
+],
+[
+"Forwarding delay",
+"<5us"
+],
+[
+"Jumbo Frame",
+"Support 10Kbytes"
+],
+[
+"MDX/MIDX",
+"Support"
+],
+[
+"Watchdog",
+"Support"
+],
+[
+"Network Topology"
+],
+[
+"Star topology",
+"Support"
+],
+[
+"Bus topology",
+"Support"
+],
+[
+"Tree Topology",
+"Support"
+],
+[
+"Mechanical structure"
+],
+[
+"Case protection",
+"IP40"
+],
+[
+"Installation method",
+"Din-rail"
+],
+[
+"Dimension(W*D*H)mm",
+"76*115*158mm"
+],
+[
+"Weight",
+"1.60 Kg"
+],
+[
+"Operating environment"
+],
+[
+"Operating temperature",
+"-40℃~+75℃"
+],
+[
+"Storage/transportation temperature",
+"-40℃~+85℃"
+],
+[
+"Relative humidity",
+"5%~95%（non-condensing）"
+],
+[
+"Industry standard",
+"EMI：FCC Part 15B Class A"
+],
+[
+"Industry standard",
+"Surge protection of power: IEC 61000-4-5  6KV/4KV（8/20us）"
+],
+[
+"Industry standard",
+"Surge protection of Ethernet ports：IEC 61000-4-5  6KV/2KV（10/700us）"
+],
+[
+"Industry standard",
+"RS: IEC 61000-4-3 80 MHz-1 GHz：10 V/m"
+],
+[
+"Industry standard",
+"EFT: IEC 61000-4-4  power interface: 4K；Ethernet ports: 2K"
+],
+[
+"Industry standard",
+"CS: IEC 61000-4-6 10V"
+],
+[
+"Industry standard",
+"ESD: IEC 61000-4-2  Level 4（8K/15K）"
+],
+[
+"Industry standard",
+"Shock: IEC 60068-2-27"
+],
+[
+"Industry standard",
+"Free fall: IEC 60068-2-32"
+],
+[
+"Industry standard",
+"Vibration: IEC 60068-2-6"
+],
+[
+"Certification",
+"CCC/CE/FCC/RoHS"
+],
+[
+"Warranty",
+"5 years"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Structure diagram"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Order information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"Description"
+],
+[
+"LT-IS6024G-24GT",
+"Industrial Ethernet switch with 24*10/100/1000Base-T RJ45 ports, DC12-58V input, redundant dual power supply, Din-rail installation. Operation temperature: -40℃～+75℃"
+]
+]
+}
+],
+"embedded_media":[
+{
+"name":"image1.png",
+"bytes":265714
+},
+{
+"name":"image2.png",
+"bytes":46786
+}
+]
+}

@@ -1,0 +1,24 @@
+{
+"id":"1h1bjM3sGLgmcy1CFFEf1SVB4j7p2JzAQ",
+"name":"8电口.pdf",
+"path":"SmartByte/暂时不用的/源图 源DS/工业级渲染图/3系8电口/8电口/中性机械结构图/8电口.pdf",
+"type":"PDF",
+"ext":".pdf",
+"bytes":145732,
+"sha256":"fda387e8dd860bfd1b992ba1775650da593c3389f1a205bbdf1c1296656427b6",
+"extracted_at":"2026-10-22T02:15:01Z",
+"method":"pdfplumber+OCR(1p)",
+"status":"ok",
+"chars":114,
+"meta":{
+"pages":1,
+"creationdate":"D:20230901172826+09'28'",
+"moddate":"D:20230901173050+08'00'",
+"ocr_pages":1
+},
+"warnings":[],
+"text":"[p1]\nmm mm\n還 = cece 還 點 加\n98mm\n©@ 是 2 ©\neink Pls\nDe\nEL 前\nE 日 E E\n日 日 |\n本 | 也 5 ole\n48mm | | 48mm | | 98mm | 上 98mm",
+"pages":[
+"mm mm\n還 = cece 還 點 加\n98mm\n©@ 是 2 ©\neink Pls\nDe\nEL 前\nE 日 E E\n日 日 |\n本 | 也 5 ole\n48mm | | 48mm | | 98mm | 上 98mm"
+]
+}

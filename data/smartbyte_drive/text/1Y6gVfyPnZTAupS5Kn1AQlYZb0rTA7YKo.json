@@ -1,0 +1,712 @@
+{
+"id":"1Y6gVfyPnZTAupS5Kn1AQlYZb0rTA7YKo",
+"name":"Commercial Ethernet Switches Quick Installation Guide.docx",
+"path":"SmartByte/暂时不用的/QIG/Commercial Ethernet Switches Quick Installation Guide.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":432369,
+"sha256":"1e30cf72f31ceb9fdd37ce55f7f04eba64c5df05791a1c5e861550c24ce82680",
+"extracted_at":"2026-10-22T02:14:25Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":8912,
+"meta":{
+"title":"",
+"author":"AChenk-King",
+"last_modified_by":"peter hu",
+"created":"2022-03-12T03:17:00+00:00",
+"modified":"2023-07-07T07:09:03+00:00",
+"paragraphs":83,
+"tables":3,
+"embedded_images":11
+},
+"warnings":[],
+"text":"Ethernet Switches Quick Installation Guide\nPlease read this instruction manual carefully before using the product and keep it properly.\n1 Ethernet switch installation guide\nCautions\nInstall the devices\nConnect the cables\nLogin the devices\nLED indication\nDIP switch indication\nNotes\nThis user manual are for different models and include the installation methods, connection methods, LED indications and interface descriptions involved in various commercial Ethernet switch product models at present. Different product may have a little difference . Please refer to the actual situation to choose.\nCautions\nIn order to avoid equipment damage or personal injury caused by improper use, please take care of the following cautions :\nPlease make sure the switch is working under a correct and stable voltage.\nBefore using the switch, be sure to ground it via the ground screw.\nBefore cleaning the switch, the power plug of the switch should be pulled out first. Please do not wipe the switch with a wet cloth, and do not use liquid to clean the switch.\nPlease do not open the case when the switch is working. Even in the case of no power, do not open the switch case\nNotes\nThis is a Class A equipment, in a domestic environment this product may cause radio interference. In such cases, the user may be required to take practicable measures against the interference.\nInstall the devices\nAccording to different installation methods, Ethernet switches can be divided into two types: rack-mounted switches and desktop switches. The rack-mount switch supports two installation methods: desktop installation and rack-mount installation. The desktop switch supports two installation methods: wall-mount installation and desktop installation. Please check the different installation method as below. Different products have different installation method, please choose the suitable method\nRack-mount installation\nIt should be noted that the mounting ear of the Ethernet switch is not used for load bearing, it is only used for fixing on the rack. When installing the equipment on the rack, there must be a bracket (fixed on the cabinet) under the Ethernet switch to prop up it\nThe installation process is as below:\nPlease make sure the 19’’rack on good grounding.\nFixing the mounting ears on the both side of the switch.\nFigure 1-1 Install the mounting ears\nPlace the switch on a bracket of the rack and move the switch along the guide rails of the rack to a proper position.\nUse screws to install the Ethernet switch on the rack.\nFigure 1-2: Install the Ethernet switch on the rack\nWall-mount installation\nTake the 2-optical and 8-electrical switch as an example, place the switch at the location to be installed, and use a screwdriver to tighten the mounting ear screws on both sides.\nFigure 1-3: Installation diagram\nDesktop installation\nDesktop installation directly place the device on the platform or desktop, and will not be described in detail here.\nConnect the cables\nConnect the configuration cable (only supported on managed switches)\nThe desktop switch and the rack-mount switch are connected to the configuration cable in the same way. Let’s take the rack-mount switch as an example. When configuring the switch through the terminal, the steps to connect the configuration cable are as follows:\nConnect the USB plug of the configuration cable to the USB port of the computer.\nConnect the RJ45 end of the configuration cable to the Console port of the Ethernet switch.\nFigure 1-4: Connecting the Configuration Cable\nConnecting the AC power cord\nThe installation process are as follows:\nConnect one end of the power cord to the AC power plug of the device accurately and in place.\nConnect the other end of the power cord to an external AC power outlet.\nFigure 1-5: Connecting the AC Power Cord\nConnecting the DC Power Cable\nThe installation process are as follows:\nMake sure that the device is disconnected from the incoming power.\nConnect one end of the protective grounding cable to the grounding screw of the equipment, and the other end is well grounded\nInsert the DC end of the DC terminal of the power adapter into the DC socket of the device, and connect the other end to the mains supply, as shown in Figure 1-6 below.\nTurn on the power supply and check the power indicator light on the front panel of the device. If the indicator light is on, it indicates that the power supply is normal.\nNotes\nThe desktop Ethernet switch device supports DC 5-16V (non-PoE) and 44-57V (PoE) power supply.\nFigure 1-6: DC socket power supply\nLogin the device（Accessing the switch for the first time）\nThere are two login methods for managed commercial Ethernet switch: WEB login management and Console login management.\nLogging the switch through web-based\nOpen browser and enter 192.168.x.xxx in the address bar. (Google browser is recommended)；\nEnter the use name: admin, password: admin, logging interface will be shown as Figure 1-7and Figure 1-8:\nFigure 1-7: Success logging WEB interface(old version)\nFigure 1-8: Success logging WEB interface(new version)\nLogging the switch through console port.\nCommon serial port software includes SecureCRT and putty. Take SecureCRT for an example.\nOpen the SecureCRT, select ”New session”.\nSelect”Serial”, click “Next”.\nSelect relative COM port, baud rate 115200, flow control and delete the \"√\" on the RTS/CTS selectionbar, click “Next”, then click “Ok”.\nClick” Enter”, input user name” admin”, password ”admin”. The logging interface will show as Figure 1-9\nFigure 1-9\nRecommendation/Suggestion\nThe configuration of managed switches is more complicated. It is recommended that users obtain configuration documents from the supplier before configuration. One is the Web configuration document and the other is the CLI configuration document.\nIndicators and silkscreen of managed commercial Ethernet switch\nThe description of managed commercial Ethernet switch indicators\nTable 1-1: Indicator status and silkscreen description\nLED Indicators/Silkscreen\tStatus\tDefinition\nP/PWR\tPower Status indicator\tNormal on\tThe device power on is normal\nP/PWR\tPower Status indicator\tOff\tThe device is power off or failed\nM/S\tUnmanagement / System warning light / (Red light)\tNormal on\tPoE : the load power exceeds 90% of the rated power / Non-PoE : Chipset recognizing aberrant\nM/S\tUnmanagement / System warning light / (Red light)\tOff\tDevices no alarm\nS/SYS\tManagement / System warning light / (Green light)\tNormal on\tThe device is working normally\nS/SYS\tManagement / System warning light / (Green light)\tBlinking\tThe device is initializing\nS/SYS\tManagement / System warning light / (Green light)\tOff\tThe device is not powered on or it is faulty\nUSB\tUSB status indicator\tNormal on\tUSB flash drive is detected by device\nUSB\tUSB status indicator\tBlinking\tthe device is reading and writing the data from USB flash drive\nUSB\tUSB status indicator\tOff\tUSB flash drive not insert or not detected by device\nRJ-45 1000M Port LEDs\tGreen light Link/act\tNormal on\tPorts link up\nRJ-45 1000M Port LEDs\tGreen light Link/act\tOff\tPorts link down\nRJ-45 1000M Port LEDs\tGreen light Link/act\tBlinking\tData on TX/RX\nRJ-45 1000M Port LEDs\tYellow light Link/act\tOn\tPorts on 1000M\nRJ-45 1000M Port LEDs\tYellow light Link/act\tOff\tPorts on 10/100M\nRJ-45 1000M Port LEDs\tYellow light PoE\tOn\tPoE working\nRJ-45 1000M Port LEDs\tYellow light PoE\tOff\tPoE not working\nRJ-45 100M port indication\tGreen light Link/act\tNormal on\tPorts link up\nRJ-45 100M port indication\tGreen light Link/act\tOff\tPorts link down\nRJ-45 100M port indication\tGreen light Link/act\tBlinking\tData on TX/RX\nRJ-45 100M port indication\tYellow light Link/act\tNormal on\tPorts on 100M\nRJ-45 100M port indication\tYellow light Link/act\tOff\tPorts on 10M\nRJ-45 100M port indication\tYellow light PoE\tNormal on\tPoE working\nRJ-45 100M port indication\tYellow light PoE\tOff\tPoE not working\nSFP port indicator\tGreen light\tNormal on\tPorts link up\nSFP port indicator\tGreen light\tOff\tPorts link down\nSFP port indicator\tGreen light\tBlinking\tData on TX/RX\nreset button\t\tReset\tRestore factory settings, long press ≥ 8 seconds\nThe definition of unmanaged commercial Ethernet switch DIP switch\nTable 1-2: Unmanaged commercial Ethernet switch DIP switch comparison\nModel Type / MMMmmmmModels TypeModels TypeModels Type / No\t1\t2\t3\t4\nNon-PoE\tV port (1-2) ①\tPort isolation\tVLAN\tPort mirroring\nPoE\tV port (1-2) ①②\tPort isolation\tRemotely restart the PD device\t250m long distance\nNote:\n① The packets of the V port are forwarded first when the network is congested,\n②The V port is given priority for power supply when the power supply load is overloaded.\nTable 1-3 Physical isolation media converter dip switch comparison\nStatus / No\t1\t2\t3\t4\nON\tForcing the copper port on 100M\nOFF\tCopper port 10/100/1000M adaptive\nNote:\nWhen the device are 8 channels isolated, there are two groups of DIP switches. The numbers of the two groups of DIP switches are 1,2,3,4.\nEthernet switch User Guide",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Ethernet Switches Quick Installation Guide"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please read this instruction manual carefully before using the product and keep it properly."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1 Ethernet switch installation guide"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Cautions"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Install the devices"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connect the cables"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Login the devices"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LED indication"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DIP switch indication"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Notes"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This user manual are for different models and include the installation methods, connection methods, LED indications and interface descriptions involved in various commercial Ethernet switch product models at present. Different product may have a little difference . Please refer to the actual situation to choose."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Cautions"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"In order to avoid equipment damage or personal injury caused by improper use, please take care of the following cautions :"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please make sure the switch is working under a correct and stable voltage."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Before using the switch, be sure to ground it via the ground screw."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Before cleaning the switch, the power plug of the switch should be pulled out first. Please do not wipe the switch with a wet cloth, and do not use liquid to clean the switch."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please do not open the case when the switch is working. Even in the case of no power, do not open the switch case"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Notes"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is a Class A equipment, in a domestic environment this product may cause radio interference. In such cases, the user may be required to take practicable measures against the interference."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Install the devices"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"According to different installation methods, Ethernet switches can be divided into two types: rack-mounted switches and desktop switches. The rack-mount switch supports two installation methods: desktop installation and rack-mount installation. The desktop switch supports two installation methods: wall-mount installation and desktop installation. Please check the different installation method as below. Different products have different installation method, please choose the suitable method"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Rack-mount installation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It should be noted that the mounting ear of the Ethernet switch is not used for load bearing, it is only used for fixing on the rack. When installing the equipment on the rack, there must be a bracket (fixed on the cabinet) under the Ethernet switch to prop up it"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The installation process is as below:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please make sure the 19’’rack on good grounding."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Fixing the mounting ears on the both side of the switch."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Figure 1-1 Install the mounting ears"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Place the switch on a bracket of the rack and move the switch along the guide rails of the rack to a proper position."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Use screws to install the Ethernet switch on the rack."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Figure 1-2: Install the Ethernet switch on the rack"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Wall-mount installation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Take the 2-optical and 8-electrical switch as an example, place the switch at the location to be installed, and use a screwdriver to tighten the mounting ear screws on both sides."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Figure 1-3: Installation diagram"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Desktop installation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Desktop installation directly place the device on the platform or desktop, and will not be described in detail here."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connect the cables"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connect the configuration cable (only supported on managed switches)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The desktop switch and the rack-mount switch are connected to the configuration cable in the same way. Let’s take the rack-mount switch as an example. When configuring the switch through the terminal, the steps to connect the configuration cable are as follows:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connect the USB plug of the configuration cable to the USB port of the computer."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connect the RJ45 end of the configuration cable to the Console port of the Ethernet switch."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Figure 1-4: Connecting the Configuration Cable"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connecting the AC power cord"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The installation process are as follows:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connect one end of the power cord to the AC power plug of the device accurately and in place."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connect the other end of the power cord to an external AC power outlet."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Figure 1-5: Connecting the AC Power Cord"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connecting the DC Power Cable"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The installation process are as follows:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Make sure that the device is disconnected from the incoming power."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connect one end of the protective grounding cable to the grounding screw of the equipment, and the other end is well grounded"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Insert the DC end of the DC terminal of the power adapter into the DC socket of the device, and connect the other end to the mains supply, as shown in Figure 1-6 below."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Turn on the power supply and check the power indicator light on the front panel of the device. If the indicator light is on, it indicates that the power supply is normal."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Notes"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The desktop Ethernet switch device supports DC 5-16V (non-PoE) and 44-57V (PoE) power supply."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Figure 1-6: DC socket power supply"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Login the device（Accessing the switch for the first time）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"There are two login methods for managed commercial Ethernet switch: WEB login management and Console login management."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Logging the switch through web-based"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Open browser and enter 192.168.x.xxx in the address bar. (Google browser is recommended)；"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Enter the use name: admin, password: admin, logging interface will be shown as Figure 1-7and Figure 1-8:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Figure 1-7: Success logging WEB interface(old version)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Figure 1-8: Success logging WEB interface(new version)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Logging the switch through console port."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Common serial port software includes SecureCRT and putty. Take SecureCRT for an example."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Open the SecureCRT, select ”New session”."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Select”Serial”, click “Next”."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Select relative COM port, baud rate 115200, flow control and delete the \"√\" on the RTS/CTS selectionbar, click “Next”, then click “Ok”."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Click” Enter”, input user name” admin”, password ”admin”. The logging interface will show as Figure 1-9"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Figure 1-9"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Recommendation/Suggestion"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The configuration of managed switches is more complicated. It is recommended that users obtain configuration documents from the supplier before configuration. One is the Web configuration document and the other is the CLI configuration document."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Indicators and silkscreen of managed commercial Ethernet switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The description of managed commercial Ethernet switch indicators"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Table 1-1: Indicator status and silkscreen description"
+},
+{
+"t":"table",
+"rows":[
+[
+"LED Indicators/Silkscreen",
+"Status",
+"Definition"
+],
+[
+"P/PWR",
+"Power Status indicator",
+"Normal on",
+"The device power on is normal"
+],
+[
+"P/PWR",
+"Power Status indicator",
+"Off",
+"The device is power off or failed"
+],
+[
+"M/S",
+"Unmanagement / System warning light / (Red light)",
+"Normal on",
+"PoE : the load power exceeds 90% of the rated power / Non-PoE : Chipset recognizing aberrant"
+],
+[
+"M/S",
+"Unmanagement / System warning light / (Red light)",
+"Off",
+"Devices no alarm"
+],
+[
+"S/SYS",
+"Management / System warning light / (Green light)",
+"Normal on",
+"The device is working normally"
+],
+[
+"S/SYS",
+"Management / System warning light / (Green light)",
+"Blinking",
+"The device is initializing"
+],
+[
+"S/SYS",
+"Management / System warning light / (Green light)",
+"Off",
+"The device is not powered on or it is faulty"
+],
+[
+"USB",
+"USB status indicator",
+"Normal on",
+"USB flash drive is detected by device"
+],
+[
+"USB",
+"USB status indicator",
+"Blinking",
+"the device is reading and writing the data from USB flash drive"
+],
+[
+"USB",
+"USB status indicator",
+"Off",
+"USB flash drive not insert or not detected by device"
+],
+[
+"RJ-45 1000M Port LEDs",
+"Green light Link/act",
+"Normal on",
+"Ports link up"
+],
+[
+"RJ-45 1000M Port LEDs",
+"Green light Link/act",
+"Off",
+"Ports link down"
+],
+[
+"RJ-45 1000M Port LEDs",
+"Green light Link/act",
+"Blinking",
+"Data on TX/RX"
+],
+[
+"RJ-45 1000M Port LEDs",
+"Yellow light Link/act",
+"On",
+"Ports on 1000M"
+],
+[
+"RJ-45 1000M Port LEDs",
+"Yellow light Link/act",
+"Off",
+"Ports on 10/100M"
+],
+[
+"RJ-45 1000M Port LEDs",
+"Yellow light PoE",
+"On",
+"PoE working"
+],
+[
+"RJ-45 1000M Port LEDs",
+"Yellow light PoE",
+"Off",
+"PoE not working"
+],
+[
+"RJ-45 100M port indication",
+"Green light Link/act",
+"Normal on",
+"Ports link up"
+],
+[
+"RJ-45 100M port indication",
+"Green light Link/act",
+"Off",
+"Ports link down"
+],
+[
+"RJ-45 100M port indication",
+"Green light Link/act",
+"Blinking",
+"Data on TX/RX"
+],
+[
+"RJ-45 100M port indication",
+"Yellow light Link/act",
+"Normal on",
+"Ports on 100M"
+],
+[
+"RJ-45 100M port indication",
+"Yellow light Link/act",
+"Off",
+"Ports on 10M"
+],
+[
+"RJ-45 100M port indication",
+"Yellow light PoE",
+"Normal on",
+"PoE working"
+],
+[
+"RJ-45 100M port indication",
+"Yellow light PoE",
+"Off",
+"PoE not working"
+],
+[
+"SFP port indicator",
+"Green light",
+"Normal on",
+"Ports link up"
+],
+[
+"SFP port indicator",
+"Green light",
+"Off",
+"Ports link down"
+],
+[
+"SFP port indicator",
+"Green light",
+"Blinking",
+"Data on TX/RX"
+],
+[
+"reset button",
+"",
+"Reset",
+"Restore factory settings, long press ≥ 8 seconds"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The definition of unmanaged commercial Ethernet switch DIP switch"
+},
+{
+"t":"h",
+"s":"Heading #3|1",
+"text":"Table 1-2: Unmanaged commercial Ethernet switch DIP switch comparison"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model Type / MMMmmmmModels TypeModels TypeModels Type / No",
+"1",
+"2",
+"3",
+"4"
+],
+[
+"Non-PoE",
+"V port (1-2) ①",
+"Port isolation",
+"VLAN",
+"Port mirroring"
+],
+[
+"PoE",
+"V port (1-2) ①②",
+"Port isolation",
+"Remotely restart the PD device",
+"250m long distance"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Note:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"① The packets of the V port are forwarded first when the network is congested,"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"②The V port is given priority for power supply when the power supply load is overloaded."
+},
+{
+"t":"h",
+"s":"Heading #3|1",
+"text":"Table 1-3 Physical isolation media converter dip switch comparison"
+},
+{
+"t":"table",
+"rows":[
+[
+"Status / No",
+"1",
+"2",
+"3",
+"4"
+],
+[
+"ON",
+"Forcing the copper port on 100M"
+],
+[
+"OFF",
+"Copper port 10/100/1000M adaptive"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Note:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"When the device are 8 channels isolated, there are two groups of DIP switches. The numbers of the two groups of DIP switches are 1,2,3,4."
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Ethernet switch User Guide"
+}
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":2167
+},
+{
+"name":"image10.png",
+"bytes":37158
+},
+{
+"name":"image2.jpeg",
+"bytes":32271
+},
+{
+"name":"image3.jpeg",
+"bytes":31431
+},
+{
+"name":"image4.png",
+"bytes":40920
+},
+{
+"name":"image5.jpeg",
+"bytes":30745
+},
+{
+"name":"image6.jpeg",
+"bytes":25852
+},
+{
+"name":"image7.jpeg",
+"bytes":18674
+},
+{
+"name":"image8.png",
+"bytes":65333
+},
+{
+"name":"image9.png",
+"bytes":89741
+}
+]
+}

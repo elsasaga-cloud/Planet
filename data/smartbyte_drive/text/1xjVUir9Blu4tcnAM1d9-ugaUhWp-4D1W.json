@@ -1,0 +1,360 @@
+{
+"id":"1xjVUir9Blu4tcnAM1d9-ugaUhWp-4D1W",
+"name":"A Guide to Manually Upgrading Web GUI.docx",
+"path":"SmartByte/暂时不用的/A Guide to Manually Upgrading Web GUI.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":632687,
+"sha256":"339e46ffc4e495dc47862059011913fd246176e34a863e1a233ec81659bd3392",
+"extracted_at":"2026-10-22T02:12:10Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":2898,
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2025-06-05T10:20:00+00:00",
+"modified":"2025-06-05T11:25:47+00:00",
+"paragraphs":53,
+"tables":0,
+"embedded_images":15
+},
+"warnings":[],
+"text":"Purpose\nThis manual is drafted for administrators to manually upgrade the WEB GUI(without our intervention)\nLog-in\nWEB GUI\nTypically, a simple WEB GUI change involves 5 parts:\nIP Address\nLogo\nProduct ID\nProduct SN\nMAC Address\nPlease talk with us if there are any unrespondings in your operation or you need more complex changes\nAfter a customized order, there will be a ZIP file including your customization information\nWe will usually not share it with clients, just keep it for future orders or tracking purpose\nPlease talk with us for this ZIP file before manual upgrade\nLogo\nIn this ZIP file, there will be logo_dark and logo_light photos\nLogo_dark is for log-in change while logo_light is for WEB GUI change\nprepare the new logo\ntake both screenshots in PNG format and name them EXACTLY logo_dark and logo_light\nPlease keep the new screenshots as closest as to old ones regarding size and pixels\nNo need to use large-size screenshots, this will reduce loading speed\nLogo_dark: just a regular screenshot\nLogo_light: a transparent background is required to properly display on the blue part as shown above\nreplace the old ones(logo_dark and logo_light)\nModel\nIn this ZIP file, there will be a config file as shown above\nchange it to new model name\nsave\nIP Address\nIn this ZIP file, there will be 2 files as shown above\nThe inner content is the same, just different file format\nchange the IP address and gateway information of both files\nsave\nAfter this, please upload this revised file via the following path\nMaintenance>File Management>Data Management>Upload\nThen the system will reboot without human intervention\nAfter rebooting, if the logo&model name keep unchanged, please refresh(CRTL+F5)\nSN&MAC\nPlug the serial port cable into the device\nOpen the serial port tool, such as putty, secureCRT, and set the baud rate to 115200\nStart the device\nEnter the space bar to enter uboot\nExecute the \"print_p\" command to print out the device MAC address, SN, hardware version number and other information.\nExecute the burn MAC command\nproduct_set ID SN MAC VER, the product model cannot be changed, SN, MAC, VER can be entered as needed\nID: product model, internal use, cannot be changed\nMAC: MAC address\nSN: A combination of letters and numbers, usually 12 digits\nVER: Hardware version, supports letter and number combinations\nproduct_set LTIE-MAC3L-8GT4XS4GS-6XRPC 202411060001 78:d0:64:66:9a:50 1.0\nAfter the execution is completed, execute the print_p command again to check whether it is correct.\nModification of MAC is completed\nThen please power off and restart the device\n[页眉页脚]\n2025/Q3\t\t\t \t                                                                             a.sagatelecom@gmail.com\n\t\t\t\t\t\t\t                                                                       Saga Telecom\nwww.sagatelecom.com.cn\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Purpose"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This manual is drafted for administrators to manually upgrade the WEB GUI(without our intervention)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Log-in"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"WEB GUI"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Typically, a simple WEB GUI change involves 5 parts:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IP Address"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Logo"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product ID"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product SN"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MAC Address"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please talk with us if there are any unrespondings in your operation or you need more complex changes"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"After a customized order, there will be a ZIP file including your customization information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We will usually not share it with clients, just keep it for future orders or tracking purpose"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please talk with us for this ZIP file before manual upgrade"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Logo"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"In this ZIP file, there will be logo_dark and logo_light photos"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Logo_dark is for log-in change while logo_light is for WEB GUI change"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"prepare the new logo"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"take both screenshots in PNG format and name them EXACTLY logo_dark and logo_light"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please keep the new screenshots as closest as to old ones regarding size and pixels"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"No need to use large-size screenshots, this will reduce loading speed"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Logo_dark: just a regular screenshot"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Logo_light: a transparent background is required to properly display on the blue part as shown above"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"replace the old ones(logo_dark and logo_light)"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Model"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"In this ZIP file, there will be a config file as shown above"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"change it to new model name"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"save"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"IP Address"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"In this ZIP file, there will be 2 files as shown above"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The inner content is the same, just different file format"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"change the IP address and gateway information of both files"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"save"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"After this, please upload this revised file via the following path"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Maintenance>File Management>Data Management>Upload"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Then the system will reboot without human intervention"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"After rebooting, if the logo&model name keep unchanged, please refresh(CRTL+F5)"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"SN&MAC"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"Plug the serial port cable into the device"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"Open the serial port tool, such as putty, secureCRT, and set the baud rate to 115200"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"Start the device"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"Enter the space bar to enter uboot"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"Execute the \"print_p\" command to print out the device MAC address, SN, hardware version number and other information."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Execute the burn MAC command"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"product_set ID SN MAC VER, the product model cannot be changed, SN, MAC, VER can be entered as needed"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"ID: product model, internal use, cannot be changed"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MAC: MAC address"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SN: A combination of letters and numbers, usually 12 digits"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"VER: Hardware version, supports letter and number combinations"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"product_set LTIE-MAC3L-8GT4XS4GS-6XRPC 202411060001 78:d0:64:66:9a:50 1.0"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"After the execution is completed, execute the print_p command again to check whether it is correct."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Modification of MAC is completed"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Then please power off and restart the device"
+}
+],
+"header_footer":[
+"2025/Q3\t\t\t \t                                                                             a.sagatelecom@gmail.com\n\t\t\t\t\t\t\t                                                                       Saga Telecom",
+"www.sagatelecom.com.cn",
+"Connecting, Converting, Creating",
+"Tailored Marvell Managed Networking Solutions Provider"
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.jpeg",
+"bytes":63925
+},
+{
+"name":"image10.png",
+"bytes":29809
+},
+{
+"name":"image11.png",
+"bytes":9090
+},
+{
+"name":"image12.png",
+"bytes":6507
+},
+{
+"name":"image13.png",
+"bytes":8077
+},
+{
+"name":"image14.png",
+"bytes":4156
+},
+{
+"name":"image2.jpeg",
+"bytes":138179
+},
+{
+"name":"image3.png",
+"bytes":13534
+},
+{
+"name":"image4.png",
+"bytes":64294
+},
+{
+"name":"image5.png",
+"bytes":218651
+},
+{
+"name":"image6.png",
+"bytes":3914
+},
+{
+"name":"image7.png",
+"bytes":26182
+},
+{
+"name":"image8.png",
+"bytes":2192
+},
+{
+"name":"image9.png",
+"bytes":12881
+}
+]
+}

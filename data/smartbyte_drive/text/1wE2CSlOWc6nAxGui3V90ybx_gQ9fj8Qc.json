@@ -1,0 +1,22 @@
+{
+"id":"1wE2CSlOWc6nAxGui3V90ybx_gQ9fj8Qc",
+"name":"1.png",
+"path":"SmartByte/暂时不用的/商业级管理 源图/4光+ 8电/1.png",
+"type":"图片",
+"bytes":7756894,
+"sha256":"b032be0cfc0ca7e8277023a3aa7198c26d15b8a25f3bcc6d3b672f50f28f7546",
+"extracted_at":"2026-10-22T02:15:48Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":5000,
+"height":3583,
+"mode":"RGBA",
+"thumb_bytes":7628
+},
+"ocr":{
+"text":"Yellow:PoE/Speed Green:Link/act\nConsole",
+"conf":89.9
+},
+"text":"Yellow:PoE/Speed Green:Link/act\nConsole"
+}

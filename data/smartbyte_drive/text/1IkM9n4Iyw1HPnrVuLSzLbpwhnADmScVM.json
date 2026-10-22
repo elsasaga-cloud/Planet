@@ -1,0 +1,22 @@
+{
+"id":"1IkM9n4Iyw1HPnrVuLSzLbpwhnADmScVM",
+"name":"16 PoE+8 Combo +4.png",
+"path":"SmartByte/暂时不用的/商业级管理 源图/16电+8Combo+4光/16 PoE+8 Combo +4.png",
+"type":"图片",
+"bytes":180494,
+"sha256":"9e1da9b56f8acabe3c346f29e6af1aba0ae26fad1c55150f1c7ce6eaa4f77799",
+"extracted_at":"2026-10-22T02:15:31Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":2889,
+"height":2097,
+"mode":"RGB",
+"thumb_bytes":6453
+},
+"ocr":{
+"text":"CaCI yee 全 三 机 =\nooops Cath\n品\nway\neo\nbila!\nBe\nrca\nme\n9 10 1 2 13 14 15 16\nEF 44mm —\n7 8\n440mm 一\n為 為 Ae Bm\nFront view\nFe 44mm 一 下\n440mm 一\nBack view\n[| ooooc oooor JO999L 图 @\ngl 12oooooc 1000001 Joooooxt\noooooo oooooo oooooo\nE| 2oooooc 2oooooc 2Oooooc\n了 | Dooooo Doooooa oooooo\nTOoooor Yooooor \"ooooor @ @\n|| cooo oooor Yoooor\n六 300mmn qx crf\nSide view",
+"conf":58.2
+},
+"text":"CaCI yee 全 三 机 =\nooops Cath\n品\nway\neo\nbila!\nBe\nrca\nme\n9 10 1 2 13 14 15 16\nEF 44mm —\n7 8\n440mm 一\n為 為 Ae Bm\nFront view\nFe 44mm 一 下\n440mm 一\nBack view\n[| ooooc oooor JO999L 图 @\ngl 12oooooc 1000001 Joooooxt\noooooo oooooo oooooo\nE| 2oooooc 2oooooc 2Oooooc\n了 | Dooooo Doooooa oooooo\nTOoooor Yooooor \"ooooor @ @\n|| cooo oooor Yoooor\n六 300mmn qx crf\nSide view"
+}
