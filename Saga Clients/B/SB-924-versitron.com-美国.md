@@ -66,8 +66,17 @@ updated: 2026-10-22
 - **【用户表】Stacking**
   > 兴趣：Stacking
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【S 邮箱原文】关系起点：2023-11-09 Simon 首信——Olycom 时期已与 Greg 谈过 HDMI 产品，自立门户后发 CCTV PoE 价表；Greg 祝贺并「keep on-hand」。此后 2023-11→2026-03 共 50 封、29 出 21 入，Greg 每信必回（典型 US 老派采购：礼貌、不下单、问价）**
+  > We discussed HDMI unit before(Olycom model), I set up my own office now.
+  > 来源：（S 邮箱 thr 1782055947356135738，2023-11-09）（抓取 2026-10-22）
+- **【S 邮箱原文】Saga 给 Versitron 的历史报价：2024-05 4×10G+16×1G SFP+8 Combo L3 商用 $375 / 工业 $550；2024-06 10G 光纤 MC $75；2025-08 24 口 L3 DIN PoE（af/at/bt 370W，DI/DO/RS485）$500「expensive because Marvell」；2025-10 24 口 SFP 汇聚双 AC $280**
+  > Commercial model, 375usd/pc Industrial model, 550usd/pc … It is 500usd/pc, it is expensive because we are doing Marvell chip. … price-competitive aggregation switch(280usd/pc)
+  > 来源：（S 邮箱 thr 1782055947356135738 / 1839339295413255932 / 1844786008444924799）（抓取 2026-10-22）
+- **【S 邮箱原文】Versitron 真正的需求 = **堆叠交换机（替代 Cisco Catalyst 9300）**：2025-06-11/18/23 三次催「stacking switches discussed below」（指 2024-11-19 48 口讨论），2025-10-15「Any news on this?」，2025-10-31「We are trying to offer stacking as an alternative to Cisco」；Simon 2025-10-31 称首版有严重问题、客户都买 H3C/华为/Cisco；**2026-03-11 Simon 宣布「stacking feature is available on all models」并给 CENTEC 资料 Drive 链接**（1nKIZPptuYQhoUs0FbjyXYStrn2sl4iRU）；Greg 自动回复后至今无回音**
+  > Finally, our "stacking" feature is available on all models. 1. We are trying to offer stacking as an alternative to Cisco. I guess you mean Cisco Catalyst 9300 Switches? This is fine.
+  > 来源：（S 邮箱 thr 1844786008444924799，2026-03-11T08:24Z；Versitron 最后一封 2025-10-31）（抓取 2026-10-22）
 - **KP**：Greg Massott（）gmassott@versitron.com 〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ 针对性加厚 2026-10-22（S 邮箱 50 封通读：三年关系、4 次报价、堆叠需求链，T29-U13 ②）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
@@ -81,7 +90,7 @@ updated: 2026-10-22
 - **触达通道（公开）**：role: 美国制造商（OEM 采购）；region: 美国
 - **近况信号**：
   - MC / 工业 PoE 为其核心品类 → 贴 Versitron 标
-- **风险/边界**：堆叠交换机 Saga 无；美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明
+- **风险/边界**：堆叠交换机 Saga 无；美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明；【2026-10-22 复盘冲突，原样保留】本档 email_hook / saga_fit 写「不做堆叠」，但 S 邮箱 2026-03-11 Simon 已向 Greg 宣布 stacking 全系列可用（CENTEC/Hohunet 线）；两种口径并存——若 Simon 确认 CENTEC 堆叠可卖，Versitron 是美国最对口的堆叠买家（Cisco 替代），hook 应改为「堆叠已就绪 + 价格」；否则维持。
 - **Saga 对位结论**：P1 STI-110GE（30% 档）——MC 为其主线 → STI-110GE（$24.3 @30%）贴 Versitron 标；工业 PoE STI-288GPM；堆叠不供。
 - **邮件切入句（英文）**：Greg, we don't do stacking — but for the Versitron media-converter and industrial PoE lines we build DIN gigabit MCs and 8-PoE + 2-SFP managed units under your label from small lots (FCC/CE); which SKU family is up for re-sourcing?
 
