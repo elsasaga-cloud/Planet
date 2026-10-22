@@ -1,0 +1,22 @@
+{
+"id":"15FPt-tbb15gChqrxTD4Qkg6K0mbFl0cd",
+"name":"产品特点.png",
+"path":"SmartByte/PCB Information/STI-488DGGPM-2BT  L2+/产品特点.png",
+"type":"图片",
+"bytes":49354,
+"sha256":"30be5886d1a5dbb2b5c1225be6c42baa9fb3fce456fbbbf60eee984a683b9f87",
+"extracted_at":"2026-10-22T02:10:14Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":854,
+"height":383,
+"mode":"RGBA",
+"thumb_bytes":5915
+},
+"ocr":{
+"text":"这 个 视频 你 可 以 看 到 我 们 机 器 的 散热 处 理 ， 芯 片上 都 贴 有 散热 片 ， 然 后 通过 机 壳 上 的 孔 贴 在\n最 外 面 那 层 铝板 上 ， 这 样 热量 就 可 以 最 大 限度 地 通过 铝板 散发 出 来\nRot :四 |\n这 就 是 为 什么 我 们 外 面 背 一 层 铝板 的 原因\n除了 散热 还 有 EM(C 的 考量",
+"conf":90.9
+},
+"text":"这 个 视频 你 可 以 看 到 我 们 机 器 的 散热 处 理 ， 芯 片上 都 贴 有 散热 片 ， 然 后 通过 机 壳 上 的 孔 贴 在\n最 外 面 那 层 铝板 上 ， 这 样 热量 就 可 以 最 大 限度 地 通过 铝板 散发 出 来\nRot :四 |\n这 就 是 为 什么 我 们 外 面 背 一 层 铝板 的 原因\n除了 散热 还 有 EM(C 的 考量"
+}

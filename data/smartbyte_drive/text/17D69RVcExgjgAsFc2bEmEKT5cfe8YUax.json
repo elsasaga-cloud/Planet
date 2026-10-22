@@ -1,0 +1,32 @@
+{
+"id":"17D69RVcExgjgAsFc2bEmEKT5cfe8YUax",
+"name":"4+8 PCB layout.dxf",
+"path":"SmartByte/PCB Information/4+8 PCB layout.dxf",
+"type":"DXF 工程图",
+"ext":".dxf",
+"bytes":2808647,
+"sha256":"f42aa92be7abfeb08c7e849631b9997e1535c6cc93d0b5b43a8d8a22e980f3bc",
+"extracted_at":"2026-10-22T02:09:54Z",
+"method":"ezdxf",
+"status":"ok",
+"chars":61,
+"meta":{
+"dxfversion":"AC1009",
+"layers":[
+"BG_OUTLINE",
+"PG_SILKSCREEN_BOTTOM",
+"PG_SILKSCREEN_TOP",
+"PIN_TOP",
+"PIN_BOTTOM",
+"0",
+"Defpoints"
+],
+"entities":{
+"POLYLINE":5859,
+"CIRCLE":1244,
+"TEXT":193
+}
+},
+"warnings":[],
+"text":"1\n4\n5\n8\n3\n2\n9\n16\nYJ\n24\n25\n48\nG\n38\n39\n64\n65\n102\n103\n128\n7\n14\n6"
+}

@@ -1,6 +1,6 @@
 # Drive《SmartByte》全量入库 · 覆盖率报告
 
-- 生成时间：2026-10-22T02:09:47Z；索引：2385 个文件（5.73 GB），manifest：1729 条
+- 生成时间：2026-10-22T02:10:25Z；索引：2385 个文件（5.73 GB），manifest：1751 条
 - 状态含义：**ok** = 抽到正文（Word 段落+表格 / Excel 逐行 / PDF 逐页(或 OCR) / PPT 逐页 / 图片 OCR 有字）；**meta** = 只有元数据+缩略图（无文字的图片/视频/设计源文件，或空文档）；**dup** = 与另一文件 sha256 完全相同，指向 same_as；**fail** = 下载或解析失败（见下表）；**pending** = 本次未处理
 - 原件备份：GitHub Release `drive-smartbyte-20261022`（私有仓库，按顶层文件夹分卷 zip）
 
@@ -8,15 +8,15 @@
 
 | 类型 | ok | meta | dup | fail | pending | 合计 |
 |---|---|---|---|---|---|---|
-| 图片 | 89 | 260 | 898 | 0 | 478 | 1725 |
+| 图片 | 92 | 276 | 898 | 0 | 459 | 1725 |
 | Word | 415 | 1 | 3 | 0 | 113 | 532 |
 | PDF | 38 | 0 | 0 | 0 | 40 | 78 |
 | Excel | 14 | 0 | 1 | 1 | 11 | 27 |
-| 视频 | 0 | 2 | 0 | 0 | 7 | 9 |
+| 视频 | 0 | 4 | 0 | 0 | 5 | 9 |
 | Publisher 排版源文件 | 4 | 0 | 0 | 0 | 0 | 4 |
 | PPT | 0 | 0 | 0 | 0 | 3 | 3 |
 | CorelDRAW 设计稿 | 2 | 0 | 0 | 0 | 0 | 2 |
-| DXF 工程图 | 0 | 0 | 0 | 0 | 2 | 2 |
+| DXF 工程图 | 1 | 0 | 0 | 0 | 1 | 2 |
 | XMind 思维导图 | 1 | 0 | 0 | 0 | 0 | 1 |
 | 压缩包 | 0 | 0 | 0 | 0 | 1 | 1 |
 | Photoshop 源文件 | 0 | 0 | 0 | 0 | 1 | 1 |
@@ -34,7 +34,7 @@
 | Bypass | 10 | 0 | 0 | 0 | 0 | 10 | ✅ smartbyte_drive_bypass_part01.zip |
 | User Manual | 8 | 0 | 0 | 0 | 0 | 8 | ✅ smartbyte_drive_user_manual_part01.zip |
 | Certification | 23 | 0 | 0 | 0 | 0 | 23 | ✅ smartbyte_drive_certification_part01.zip |
-| PCB Information | 0 | 0 | 0 | 0 | 22 | 22 | — |
+| PCB Information | 4 | 18 | 0 | 0 | 0 | 22 | ✅ smartbyte_drive_pcb_information_part01.zip |
 | Case | 0 | 0 | 0 | 0 | 2 | 2 | — |
 | 管理界面图 | 0 | 0 | 0 | 0 | 12 | 12 | — |
 | 组合图 | 0 | 0 | 0 | 0 | 7 | 7 | — |
@@ -56,5 +56,5 @@
 
 ## 体量
 
-- 抽取正文合计 9,198,812 字符；图片 OCR 有字 89 张；缩略图 357 张
+- 抽取正文合计 9,199,441 字符；图片 OCR 有字 92 张；缩略图 378 张
 - 运行记录：[{"started": "2026-10-22T01:55:11Z", "todo": 2385, "workers": 6, "backup": true, "ocr": true}]

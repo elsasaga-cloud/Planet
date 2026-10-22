@@ -1,0 +1,22 @@
+{
+"id":"1xWEqSRFZBxXGlot67lhLdVHRH35447K_",
+"name":"PCB front.jpg",
+"path":"SmartByte/PCB Information/STI-488DGGPM-2BT  L2+/PCB front.jpg",
+"type":"图片",
+"bytes":4472569,
+"sha256":"455369f1271741c7d407cbb6a710f45d729b38322475f84b887660a8ffa8ac5e",
+"extracted_at":"2026-10-22T02:10:17Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"MPO",
+"width":3885,
+"height":2914,
+"mode":"RGB",
+"thumb_bytes":20406
+},
+"ocr":{
+"text":"zio yio Sta ozg\nea] | 圖 | eelfec! -@.\n| Se ee = Sb eT\n“1-48@x6y-sez2zxp-7a5d-xo- 41\ner robs (¢ ‘$2. ey J 21° sz\nSSSSHSSASSLSESHSSESSSSSSSS DHORCOSo SEH eESEHSSSSdESS\nSLK 2226T | SLK 22267\n_e AC4805G\ni\nBlas\nTitthttt siete\nWas\nje\n同\n8328s33ss\n[ely been A ee os\nOn",
+"conf":47.4
+},
+"text":"zio yio Sta ozg\nea] | 圖 | eelfec! -@.\n| Se ee = Sb eT\n“1-48@x6y-sez2zxp-7a5d-xo- 41\ner robs (¢ ‘$2. ey J 21° sz\nSSSSHSSASSLSESHSSESSSSSSSS DHORCOSo SEH eESEHSSSSdESS\nSLK 2226T | SLK 22267\n_e AC4805G\ni\nBlas\nTitthttt siete\nWas\nje\n同\n8328s33ss\n[ely been A ee os\nOn"
+}

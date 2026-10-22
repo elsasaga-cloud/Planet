@@ -1,0 +1,22 @@
+{
+"id":"10GA0V8K_GM6jdxMYXG02wV1zAAvZbh3c",
+"name":"PCB rear.png",
+"path":"SmartByte/PCB Information/STI-448XGGGPM  L3/PCB rear.png",
+"type":"图片",
+"bytes":82631,
+"sha256":"178bb36e1cc26bb44e8494bbda3df33511516bed25091b33ee76af6b06700e74",
+"extracted_at":"2026-10-22T02:10:08Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":1034,
+"height":727,
+"mode":"RGBA",
+"thumb_bytes":13734
+},
+"ocr":{
+"text":"ey) =) 是 |_| ME\n加 ach\nop Gp aay Gp\nG\nyas\nae\neooooo 0000008600060 606086 6\n=. 加 6 6 6\n1\nRs 6 6 同 6 6\n6 ee © es 560 © 66.5",
+"conf":51.3
+},
+"text":"ey) =) 是 |_| ME\n加 ach\nop Gp aay Gp\nG\nyas\nae\neooooo 0000008600060 606086 6\n=. 加 6 6 6\n1\nRs 6 6 同 6 6\n6 ee © es 560 © 66.5"
+}
