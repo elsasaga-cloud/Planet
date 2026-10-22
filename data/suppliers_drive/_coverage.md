@@ -1,6 +1,6 @@
 # Drive《SmartByte》全量入库 · 覆盖率报告
 
-- 生成时间：2026-10-22T08:45:15Z；索引：453 个文件（1.2 GB），manifest：263 条
+- 生成时间：2026-10-22T08:45:31Z；索引：453 个文件（1.2 GB），manifest：280 条
 - 状态含义：**ok** = 抽到正文（Word 段落+表格 / Excel 逐行 / PDF 逐页(或 OCR) / PPT 逐页 / 图片 OCR 有字）；**meta** = 只有元数据+缩略图（无文字的图片/视频/设计源文件，或空文档）；**dup** = 与另一文件 sha256 完全相同，指向 same_as；**fail** = 下载或解析失败（见下表）；**pending** = 本次未处理
 - 原件备份：GitHub Release `drive-suppliers-20261022`（私有仓库，按顶层文件夹分卷 zip）
 
@@ -9,10 +9,10 @@
 | 类型 | ok | meta | dup | fail | pending | 合计 |
 |---|---|---|---|---|---|---|
 | 图片 | 33 | 147 | 52 | 0 | 135 | 367 |
-| Word | 16 | 0 | 0 | 0 | 50 | 66 |
+| Word | 31 | 0 | 0 | 0 | 35 | 66 |
 | PPT | 13 | 0 | 0 | 0 | 1 | 14 |
-| PDF | 2 | 0 | 0 | 0 | 3 | 5 |
-| 视频 | 0 | 0 | 0 | 0 | 1 | 1 |
+| PDF | 3 | 0 | 0 | 0 | 2 | 5 |
+| 视频 | 0 | 1 | 0 | 0 | 0 | 1 |
 
 ## 按顶层文件夹
 
@@ -30,7 +30,7 @@
 | Commercial Ethernet Switch | 36 | 29 | 1 | 0 | 0 | 66 | ✅ smartbyte_drive_Commercial_Ethernet_Switch_part01.zip |
 | Commercial Managed Switch | 0 | 0 | 0 | 0 | 66 | 66 | — |
 | Commercial PoE Switch | 0 | 0 | 0 | 0 | 101 | 101 | — |
-| Commercial Web Managed Switch | 0 | 0 | 0 | 0 | 17 | 17 | — |
+| Commercial Web Managed Switch | 16 | 1 | 0 | 0 | 0 | 17 | ✅ smartbyte_drive_Commercial_Web_Managed_Switch_part01.zip |
 
 ## 失败清单（0）
 
@@ -42,5 +42,5 @@
 
 ## 体量
 
-- 抽取正文合计 3,712,479 字符；图片 OCR 有字 33 张；缩略图 180 张
+- 抽取正文合计 3,809,319 字符；图片 OCR 有字 33 张；缩略图 181 张
 - 运行记录：[{"started": "2026-10-22T08:37:54Z", "todo": 453, "workers": 6, "backup": true, "ocr": true}]

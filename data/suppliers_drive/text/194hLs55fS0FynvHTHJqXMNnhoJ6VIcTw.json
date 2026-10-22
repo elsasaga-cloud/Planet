@@ -1,0 +1,562 @@
+{
+"id":"194hLs55fS0FynvHTHJqXMNnhoJ6VIcTw",
+"name":"STC-216GPW.docx",
+"path":"Realtek Based Commercial Switch/Commercial Web Managed Switch/STC-216GPW.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":583208,
+"sha256":"b9f1a93d227f56bde4bfa5a1ce4a32da633680b9b596de985cb939f956f35213",
+"extracted_at":"2026-10-22T08:45:21Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":6228,
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2025-11-04T12:33:00+00:00",
+"modified":"2026-06-22T12:36:49+00:00",
+"paragraphs":52,
+"tables":2,
+"embedded_images":7
+},
+"warnings":[],
+"text":"Introduction\nIt has 16*10/100/1000 adaptive electrical ports and 2*1G SFP ports enjoying\nblack iron shell design, internal AC-DC power supply, light weight\nhigh-quality Network and PoE Chip\nseamless connection for 10/100/1000M Ethernet\nwith LED indicators to display the connection and operation of equipment\neasy to manage and maintain\nwithout extra configuration\nsupport cloud management\n802.3af and 802.3at standard for each PoE port\nintelligent detection of powered devices\npower the devices that comply with the IEEE802.3af or IEEE802.3at standards\ntransmit only data to non-PoE devices\nIt can be widely used industrial parks, buildings, factories and mines, government agencies, community broadband, etc.\nKey Features\n16*1000Mbps PoE ports+2 *1000Mbps SFP ports\nComply with IEEE802.3, IEEE802.3u, IEEE802.3x, IEEE802.3ab, and IEEE802.3z standards\nRJ45 port supports 10/100/1000Mbps adaptation\nSupport automatic port flipping (Auto MDI/MDIX)\nAdopt a storage and forwarding exchange mechanism\nAll ports support line speed switching\nThe panel indicator lights will monitor the working status and assist in fault analysis\nSupport QoS data priority\nSupport Web Management\nSpecification\nProduct Name\t18 Port 10/100/1000Mbps Web Managed Ethernet PoE Switch\nPort\t16x10/100/1000M PoE UTP RJ45(Support MDI/MDIX, auto-sensing) / 2*1000Mbps SFP Port\nSwitching Capacity\t36Gbps\nThroughput\t26.78Mpps\nPacket Buffer\t4.1Mbit\nMAC Address\t8K\nJumbo Frame\tSupport\nVLAN\tVLAN range 1-4094, maximum active VLAN is 31\nTransfer Mode\tStore and forward\nMTBF\t100000 hours\nNetwork Protocol\tIEEE802.3 (10Base-T) / IEEE802.3u (100Base-TX) / IEEE802.3ab (1000Base-TX) / IEEE802.3x (Flow control)\nIndustry Standard\tEMI: FCC Part 15, CISPR (EN55032) class A / EMS: EN61000-4-2 (ESD) / EN61000-4-5(Surge)\nPoE Protocol\tIEEE802.3af(15.4 W) IEEE802.3at (30 W)\nPoE Wiring\t1/2(+), 3/6(-)\nPoE Port Output Voltage\tDC 44-57V\nPoE Budget\t185W\nNetwork Medium\t10Base-T: Cat3,4,5 or above UTP(≤100m) / 100Base-TX: Cat5 or above UTP(≤100m) / 1000Base-TX: Cat5 or above UTP(≤100m)\nCertification\tCE/FCC/RoHS\nWorking Environment\tWorking Temperature: -10℃~50℃ / Storage Temperature: -40℃~70℃ / Working Humidity: 10%~90%, non-condensing / Storage Temperature: 5%~95%, non-condensing\nSurge Protection\tSurge protection: common mode 6KV, differential mode 2KV / Electrostatic ESD: air 8KV, contact 6KV\nPower\tPower Input Voltage: AC100-240V, Internal Power Supply: 52V3.84A\nPower Consumption\t＜12W\nFan Quantity\t0\nInstallation\tDesktop, Rack mounting\nLED Indicators\tPWR(Power indicator) / On: power on\nOff: no power / SYS / On: The system is normal / Flashing: System startup in progress / Act / On: Link normal / Off: Link blocked / Blinking: Data transmitting / PoE / On: PoE powered on / Off: PoE powered off / Reset / Long press for 6 seconds to restore factory settings\nWeb Function\nPort\tPort Switch configuration / Port Speed configuration / Port Duplex configuration / Port Flow Control configuration / EEE / Jumbo Frame\nLink Aggregation\tSupports load balance policy; Base on MAC and IP-MAC / Static and Dynamic Group / LACP / Up to 8 groups\nStorm Control\tBroadcast suppression / Unknown Multicast / Unknown Unicast\nPort Mirroring\tOne to one monitor / Many to one monitor / Ingress/Egress/Both / Up to 4 session groups\nPort Security\tMAC Address Constraints / Protect/Restrict/Shutdown\nPort Isolation\tSupport\nPort Rate-limit\tSupport\nVLAN\tAccess/Trunk/Hybrid / VLAN Tunnel (Q-in-Q Tunnel) / VLAN range 1-4094, maximum active VLAN is 4K\nMAC Address\tFiltering MAC Address / Static MAC address\nSpanning Tree Protocol\tSTP/RSTP / BPDU Filter / BPDU Guard / Edge Port\nLLDP\tLLDP / LLDP MED\nMulticast\tIGMP Snooping / Router Port / Static IGMP Join / IGMP V1/V2\nPoE\tPoE used power / PoE Type/Level/Power/Voltage/Current / PoE Switch / PoE power AF/AT adaptation\nQoS\tTraffic classification, supporting SP and WRR scheduling / Port Priority / 802.1P Priority / IP DSCP Priority / Priority Remarking / Supports up to 8 queues per port\nERPS\tMain Ring\nServices\nAccess Protocol\tHTTP / Session Timeout\nSecurity\tDHCP Snooping\nDiagnostics\nCopper Test\tSupport\nPing\tSupport\nEquipment Management\nManager Access\tHTTP / SNMP\nManager IP\tStatic Address / Manager VLAN / DNS / DHCP Client\nSNMP\tV1/V2C / Community / Trap Host\nSNMP MIB\tRFC 1213 MIB-II / RFC 1643 Ethernet MIB / RFC 2863 Interface MIB\nUser Management\tSupport\nFirmware Management\tFirmware upgrade\nConfiguration Management\tUpload/Backup Configuration\nSave\tSupport\nRestart\tSupport\nFactory Defaults\tSupport\nStandard Compliance\tIEEE 802.3x flow control and back pressure / IEEE 802.3ad port trunk with LACP / IEEE 802.1D Spanning Tree Protocol / IEEE 802.1w Rapid Spanning Tree Protocol / IEEE 802.1p Class of Service / IEEE 802.1Q VLAN tagging / RFC 768 UDP / RFC 793 TFTP / RFC 791 IP / RFC 792 ICMP / RFC 2068 HTTP / RFC 1112 IGMP v1 / RFC 2236 IGMP v2 / RFC 3376 IGMP v3\nDimension\nRemark\nPlease contact us if the source file is needed\nApplication\nPacking Information\n1pc switch(neutral device)\n1pc power adapter(standards vary across countries)\n1pc user manual(including QIG information)\n1pair mounting brackets(rack mountable)\nPlease know that there is NOT a warranty card in the packing box\nA “Warranty Certificate” will be issued to indicate the order information and warranty coverage\nShipping box information(Below information is approximately accurate)\nProduct size: 440*204*44mm\nInner box size: 500*290*85mm\nProduct weight: 2.66Kg\nPacking weight: 3.24Kg\nMaster box size: 520*445*310mm\nPacking quantity: 5Pcs\nPacking weight: 17.2Kg\nRemark\nAccessories(optical module, patchcord etc.)are NOT included in the packing box\nPlease prepare it by yourself or purchase a whole set from us\nPower adapter is included in BOTH the packing box AND unit pricing\nProduct Picture\nRemark\nPlease let us know if you need to check the PCBs\n[页眉页脚]\nRealtek Commercial Web Managed Series                                                                                                   Saga Telecom\n2026/Q3                                                                                                                                      www.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Introduction"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It has 16*10/100/1000 adaptive electrical ports and 2*1G SFP ports enjoying"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"black iron shell design, internal AC-DC power supply, light weight"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"high-quality Network and PoE Chip"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"seamless connection for 10/100/1000M Ethernet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"with LED indicators to display the connection and operation of equipment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"easy to manage and maintain"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"without extra configuration"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"support cloud management"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"802.3af and 802.3at standard for each PoE port"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"intelligent detection of powered devices"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"power the devices that comply with the IEEE802.3af or IEEE802.3at standards"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"transmit only data to non-PoE devices"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It can be widely used industrial parks, buildings, factories and mines, government agencies, community broadband, etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Key Features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"16*1000Mbps PoE ports+2 *1000Mbps SFP ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Comply with IEEE802.3, IEEE802.3u, IEEE802.3x, IEEE802.3ab, and IEEE802.3z standards"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"RJ45 port supports 10/100/1000Mbps adaptation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support automatic port flipping (Auto MDI/MDIX)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Adopt a storage and forwarding exchange mechanism"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"All ports support line speed switching"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The panel indicator lights will monitor the working status and assist in fault analysis"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support QoS data priority"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support Web Management"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"Product Name",
+"18 Port 10/100/1000Mbps Web Managed Ethernet PoE Switch"
+],
+[
+"Port",
+"16x10/100/1000M PoE UTP RJ45(Support MDI/MDIX, auto-sensing) / 2*1000Mbps SFP Port"
+],
+[
+"Switching Capacity",
+"36Gbps"
+],
+[
+"Throughput",
+"26.78Mpps"
+],
+[
+"Packet Buffer",
+"4.1Mbit"
+],
+[
+"MAC Address",
+"8K"
+],
+[
+"Jumbo Frame",
+"Support"
+],
+[
+"VLAN",
+"VLAN range 1-4094, maximum active VLAN is 31"
+],
+[
+"Transfer Mode",
+"Store and forward"
+],
+[
+"MTBF",
+"100000 hours"
+],
+[
+"Network Protocol",
+"IEEE802.3 (10Base-T) / IEEE802.3u (100Base-TX) / IEEE802.3ab (1000Base-TX) / IEEE802.3x (Flow control)"
+],
+[
+"Industry Standard",
+"EMI: FCC Part 15, CISPR (EN55032) class A / EMS: EN61000-4-2 (ESD) / EN61000-4-5(Surge)"
+],
+[
+"PoE Protocol",
+"IEEE802.3af(15.4 W) IEEE802.3at (30 W)"
+],
+[
+"PoE Wiring",
+"1/2(+), 3/6(-)"
+],
+[
+"PoE Port Output Voltage",
+"DC 44-57V"
+],
+[
+"PoE Budget",
+"185W"
+],
+[
+"Network Medium",
+"10Base-T: Cat3,4,5 or above UTP(≤100m) / 100Base-TX: Cat5 or above UTP(≤100m) / 1000Base-TX: Cat5 or above UTP(≤100m)"
+],
+[
+"Certification",
+"CE/FCC/RoHS"
+],
+[
+"Working Environment",
+"Working Temperature: -10℃~50℃ / Storage Temperature: -40℃~70℃ / Working Humidity: 10%~90%, non-condensing / Storage Temperature: 5%~95%, non-condensing"
+],
+[
+"Surge Protection",
+"Surge protection: common mode 6KV, differential mode 2KV / Electrostatic ESD: air 8KV, contact 6KV"
+],
+[
+"Power",
+"Power Input Voltage: AC100-240V, Internal Power Supply: 52V3.84A"
+],
+[
+"Power Consumption",
+"＜12W"
+],
+[
+"Fan Quantity",
+"0"
+],
+[
+"Installation",
+"Desktop, Rack mounting"
+],
+[
+"LED Indicators",
+"PWR(Power indicator) / On: power on\nOff: no power / SYS / On: The system is normal / Flashing: System startup in progress / Act / On: Link normal / Off: Link blocked / Blinking: Data transmitting / PoE / On: PoE powered on / Off: PoE powered off / Reset / Long press for 6 seconds to restore factory settings"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Web Function"
+},
+{
+"t":"table",
+"rows":[
+[
+"Port",
+"Port Switch configuration / Port Speed configuration / Port Duplex configuration / Port Flow Control configuration / EEE / Jumbo Frame"
+],
+[
+"Link Aggregation",
+"Supports load balance policy; Base on MAC and IP-MAC / Static and Dynamic Group / LACP / Up to 8 groups"
+],
+[
+"Storm Control",
+"Broadcast suppression / Unknown Multicast / Unknown Unicast"
+],
+[
+"Port Mirroring",
+"One to one monitor / Many to one monitor / Ingress/Egress/Both / Up to 4 session groups"
+],
+[
+"Port Security",
+"MAC Address Constraints / Protect/Restrict/Shutdown"
+],
+[
+"Port Isolation",
+"Support"
+],
+[
+"Port Rate-limit",
+"Support"
+],
+[
+"VLAN",
+"Access/Trunk/Hybrid / VLAN Tunnel (Q-in-Q Tunnel) / VLAN range 1-4094, maximum active VLAN is 4K"
+],
+[
+"MAC Address",
+"Filtering MAC Address / Static MAC address"
+],
+[
+"Spanning Tree Protocol",
+"STP/RSTP / BPDU Filter / BPDU Guard / Edge Port"
+],
+[
+"LLDP",
+"LLDP / LLDP MED"
+],
+[
+"Multicast",
+"IGMP Snooping / Router Port / Static IGMP Join / IGMP V1/V2"
+],
+[
+"PoE",
+"PoE used power / PoE Type/Level/Power/Voltage/Current / PoE Switch / PoE power AF/AT adaptation"
+],
+[
+"QoS",
+"Traffic classification, supporting SP and WRR scheduling / Port Priority / 802.1P Priority / IP DSCP Priority / Priority Remarking / Supports up to 8 queues per port"
+],
+[
+"ERPS",
+"Main Ring"
+],
+[
+"Services"
+],
+[
+"Access Protocol",
+"HTTP / Session Timeout"
+],
+[
+"Security",
+"DHCP Snooping"
+],
+[
+"Diagnostics"
+],
+[
+"Copper Test",
+"Support"
+],
+[
+"Ping",
+"Support"
+],
+[
+"Equipment Management"
+],
+[
+"Manager Access",
+"HTTP / SNMP"
+],
+[
+"Manager IP",
+"Static Address / Manager VLAN / DNS / DHCP Client"
+],
+[
+"SNMP",
+"V1/V2C / Community / Trap Host"
+],
+[
+"SNMP MIB",
+"RFC 1213 MIB-II / RFC 1643 Ethernet MIB / RFC 2863 Interface MIB"
+],
+[
+"User Management",
+"Support"
+],
+[
+"Firmware Management",
+"Firmware upgrade"
+],
+[
+"Configuration Management",
+"Upload/Backup Configuration"
+],
+[
+"Save",
+"Support"
+],
+[
+"Restart",
+"Support"
+],
+[
+"Factory Defaults",
+"Support"
+],
+[
+"Standard Compliance",
+"IEEE 802.3x flow control and back pressure / IEEE 802.3ad port trunk with LACP / IEEE 802.1D Spanning Tree Protocol / IEEE 802.1w Rapid Spanning Tree Protocol / IEEE 802.1p Class of Service / IEEE 802.1Q VLAN tagging / RFC 768 UDP / RFC 793 TFTP / RFC 791 IP / RFC 792 ICMP / RFC 2068 HTTP / RFC 1112 IGMP v1 / RFC 2236 IGMP v2 / RFC 3376 IGMP v3"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Dimension"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please contact us if the source file is needed"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Application"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Packing Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc switch(neutral device)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc power adapter(standards vary across countries)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc user manual(including QIG information)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pair mounting brackets(rack mountable)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that there is NOT a warranty card in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A “Warranty Certificate” will be issued to indicate the order information and warranty coverage"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipping box information(Below information is approximately accurate)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product size: 440*204*44mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Inner box size: 500*290*85mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product weight: 2.66Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 3.24Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Master box size: 520*445*310mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing quantity: 5Pcs"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 17.2Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Accessories(optical module, patchcord etc.)are NOT included in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please prepare it by yourself or purchase a whole set from us"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Power adapter is included in BOTH the packing box AND unit pricing"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Product Picture"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please let us know if you need to check the PCBs"
+}
+],
+"header_footer":[
+"Realtek Commercial Web Managed Series                                                                                                   Saga Telecom",
+"2026/Q3                                                                                                                                      www.sagatelecom.com.cn",
+"Tailored Managed Networking Solutions Provider",
+"Built to Last, Continuous Supply, Evolving Together"
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":75618
+},
+{
+"name":"image2.png",
+"bytes":84945
+},
+{
+"name":"image3.png",
+"bytes":64014
+},
+{
+"name":"image4.png",
+"bytes":126825
+},
+{
+"name":"image5.png",
+"bytes":146543
+},
+{
+"name":"image6.jpeg",
+"bytes":38294
+}
+]
+}
