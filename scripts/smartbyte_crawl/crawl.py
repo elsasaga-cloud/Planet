@@ -58,6 +58,13 @@ v3.1（2026-10-21，运行 #11 之后：HRUI 411 页 / 83 附件 / 919 图落地
   ① HRUI 类目页的产品列表由前端 AJAX 拉取（/web/api.php?act=getdata&p=&limit=8&sortid=&tj=&lanstr=en，8 个类目 sortid 固定），
      静态 HTML 里没有产品链接 → 站点钩子：逐类目翻页调 API，原样存 OUT/api/*.json，产品页 /<类目>/<id>.html 入队；
   ② <img src> 指向目录（以 / 结尾，如 HRUI 的 /web/userfiles/banner/）不算图片，也不计入「被拒」——运行 #11 就卡在这 1 个 403 上 complete=false。
+v3.2（2026-10-22，T29-U13：Simon 要求把 SmartByte / HRUI / Hohunet 官网再抓一遍找新信息，且结果全部入库）：
+  ① 复抓轮次：CRAWL_BASE=<上一轮整站目录> 时，本轮写到新的 OUT（html 全量照存），逐 URL 与基线比对并写 diff.json / diff.md
+     （页面：新增 / 正文有变 / 仅标记变 / 未变 / 消失 / 未抓到；附件 & 图片：新增 / 变化 / 未变 / 消失）；
+     二进制内容与基线相同（sha256 一致）的附件 / 图片不再拷入 git（记 same_as_base），只有新增 / 变化的才入库，避免重复体积。
+  ② 编排：scripts/smartbyte_crawl/RECRAWL 里 ROUND=YYYYMMDD（可选 SITES=smartbyte,hrui,hohunet）→ 工作流固定命令跑完原逻辑后，
+     三站各起一子进程写到 data/site_recrawl/<ROUND>/<site>/；未完成的站再推一次 crawl.py 即从该目录的 crawl_state.json 续抓；
+     已 complete 的站跳过。预算按 45/35/20 分配剩余时间。
 """
 import hashlib
 import json
@@ -95,6 +102,10 @@ MAX_IMAGE_MB = float(os.environ.get("MAX_IMAGE_MB", "600"))
 PDF_COMMIT_MB = float(os.environ.get("PDF_COMMIT_MB", "120"))
 IMG_COMMIT_MB = float(os.environ.get("IMG_COMMIT_MB", "400"))  # 图片总量不超过它就拷进 OUT/images 入 git
 TIME_BUDGET_MIN = float(os.environ.get("TIME_BUDGET_MIN", "140"))
+# v3.2 复抓：CRAWL_BASE=上一轮整站归档目录（基线）；RECRAWL 文件驱动编排
+BASE_OUT = os.environ.get("CRAWL_BASE") or None
+RECRAWL_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "RECRAWL")
+RECRAWL_ROOT = "data/site_recrawl"
 UA = "Mozilla/5.0 (compatible; SagaTelecom-site-archiver/1.0; +https://sagatele.com)"
 
 ASSET_EXT = (".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg", ".ico", ".bmp", ".css", ".js", ".woff", ".woff2",
@@ -648,8 +659,151 @@ def hrui_api_seeds(queue, seen):
     return added
 
 
+def _load_baseline(out):
+    """v3.2 基线：三张清单 url → 记录；外加全部 sha256 集合（同内容换了 URL 也算未变）。"""
+    b = {"pages": {}, "downloads": {}, "images": {}, "sha": set()}
+    if not out:
+        return b
+    for key, fn in (("pages", "pages_manifest.jsonl"), ("downloads", "downloads_manifest.jsonl"), ("images", "images_manifest.jsonl")):
+        for d in read_jsonl(os.path.join(out, fn)):
+            if d.get("url"):
+                b[key][d["url"]] = d
+                if d.get("sha256"):
+                    b["sha"].add(d["sha256"])
+    return b
+
+
+BASELINE = _load_baseline(BASE_OUT)
+_TEXT_BLOCK_RE = re.compile(r"<(script|style|noscript)[^>]*>.*?</\1>", re.I | re.S)
+_TAG_RE = re.compile(r"<[^>]+>")
+
+
+def page_text_sig(html):
+    """正文签名：去脚本 / 样式 / 标签 / 空白后的 sha256（token、时间戳变了但文字没变 → 不算内容变化）。"""
+    t = _TEXT_BLOCK_RE.sub(" ", html or "")
+    t = _TAG_RE.sub(" ", t)
+    t = re.sub(r"\s+", " ", t).strip()
+    return sha256(t.encode("utf-8"))
+
+
+def _read_text(path):
+    try:
+        with open(path, encoding="utf-8", errors="replace") as f:
+            return f.read()
+    except Exception:
+        return ""
+
+
+def build_diff(base, pages, dl_rows, img_rows):
+    """v3.2：本轮 vs 基线。返回 {pages:{new,text_changed,markup_only,same,gone,not_reached}, downloads:{…}, images:{…}}。"""
+    def ent(d, old=None, extra=None):
+        e = {"url": d.get("url"), "title": d.get("title") or (old or {}).get("title"), "file": d.get("file"),
+             "old_sha8": ((old or {}).get("sha256") or "")[:8] or None, "new_sha8": (d.get("sha256") or "")[:8] or None,
+             "old_bytes": (old or {}).get("bytes"), "new_bytes": d.get("bytes")}
+        if extra:
+            e.update(extra)
+        return e
+    out = {}
+    # pages
+    bp = base["pages"]
+    res = {"new": [], "text_changed": [], "markup_only": [], "same": 0, "gone": [], "not_reached": []}
+    cur = {p["url"]: p for p in pages}
+    for u, p in cur.items():
+        old = bp.get(u)
+        if old is None:
+            if p.get("file"):
+                res["new"].append(ent(p))
+            continue
+        if not p.get("file"):
+            if old.get("file"):
+                res["gone"].append(ent(p, old, {"status": p.get("status"), "error": p.get("error")}))
+            continue
+        if not old.get("file"):
+            res["new"].append(ent(p, old, {"note": "基线那轮没抓到"}))
+            continue
+        if p.get("sha256") == old.get("sha256"):
+            res["same"] += 1
+            continue
+        new_html = _read_text(os.path.join(OUT, p["file"]))
+        old_html = _read_text(os.path.join(BASE_OUT, old["file"]))
+        if page_text_sig(new_html) == page_text_sig(old_html):
+            res["markup_only"].append(ent(p, old))
+        else:
+            res["text_changed"].append(ent(p, old, {"old_file": os.path.join(BASE_OUT, old["file"])}))
+    for u, old in bp.items():
+        if u not in cur and old.get("file"):
+            res["not_reached"].append(ent({"url": u}, old))
+    out["pages"] = res
+    # downloads / images
+    for key, rows in (("downloads", dl_rows), ("images", img_rows)):
+        bb = base[key]
+        r = {"new": [], "changed": [], "same": 0, "gone": [], "not_reached": []}
+        cur = {d["url"]: d for d in rows}
+        for u, d in cur.items():
+            old = bb.get(u)
+            if not d.get("file"):
+                if old and old.get("file"):
+                    r["gone"].append(ent(d, old, {"status": d.get("status"), "error": d.get("error")}))
+                continue
+            if d.get("same_as_base") or (old and old.get("sha256") == d.get("sha256")):
+                r["same"] += 1
+            elif old is None or not old.get("file"):
+                r["new"].append(ent(d, old))
+            else:
+                r["changed"].append(ent(d, old))
+        for u, old in bb.items():
+            if u not in cur and old.get("file"):
+                r["not_reached"].append(ent({"url": u}, old))
+        out[key] = r
+    return out
+
+
+def write_diff(diff):
+    with open(os.path.join(OUT, "diff.json"), "w", encoding="utf-8") as f:
+        json.dump(diff, f, ensure_ascii=False, indent=1)
+    L = [f"# 复抓对比：{HOST}（本轮 {now()}；基线 {BASE_OUT}）", ""]
+    L.append("| 对象 | 新增 | 正文有变 / 内容变化 | 仅标记变 | 未变 | 消失（本轮取不到） | 本轮未抓到 |")
+    L.append("|---|---|---|---|---|---|---|")
+    pg = diff["pages"]
+    L.append(f"| 页面 | {len(pg['new'])} | {len(pg['text_changed'])} | {len(pg['markup_only'])} | {pg['same']} | {len(pg['gone'])} | {len(pg['not_reached'])} |")
+    for key, name in (("downloads", "附件"), ("images", "图片")):
+        r = diff[key]
+        L.append(f"| {name} | {len(r['new'])} | {len(r['changed'])} | – | {r['same']} | {len(r['gone'])} | {len(r['not_reached'])} |")
+    L.append("")
+    L.append("说明：「仅标记变」= HTML 字节变了但去标签后的正文一字未变（token / 时间戳 / 计数器之类）；「消失」= 基线抓到过、本轮 404 / 拒绝 / 出错；"
+             "「本轮未抓到」= 本轮没有到达该 URL（预算 / 被封 / 站内不再链到）。附件与图片若内容 sha256 与基线一致则不再入 git（见 same_as_base）。")
+    def sec(title, rows, cols):
+        if not rows:
+            return
+        L.append("")
+        L.append(f"## {title}（{len(rows)}）")
+        L.append("")
+        L.append("| " + " | ".join(cols) + " |")
+        L.append("|" + "---|" * len(cols))
+        for e in rows[:400]:
+            L.append("| " + " | ".join(str(e.get(c) if e.get(c) is not None else "").replace("|", "\\|").replace("\n", " ") for c in cols) + " |")
+        if len(rows) > 400:
+            L.append(f"| …… 其余 {len(rows) - 400} 条见 diff.json | | | |")
+    sec("页面：新增", pg["new"], ["url", "title", "file"])
+    sec("页面：正文有变", pg["text_changed"], ["url", "title", "old_sha8", "new_sha8", "file", "old_file"])
+    sec("页面：消失", pg["gone"], ["url", "title", "status", "error"])
+    sec("页面：本轮未抓到", pg["not_reached"], ["url", "title"])
+    sec("页面：仅标记变", pg["markup_only"], ["url", "title", "old_sha8", "new_sha8"])
+    for key, name in (("downloads", "附件"), ("images", "图片")):
+        r = diff[key]
+        sec(f"{name}：新增", r["new"], ["url", "title", "file", "new_bytes"])
+        sec(f"{name}：内容变化", r["changed"], ["url", "title", "old_sha8", "new_sha8", "old_bytes", "new_bytes", "file"])
+        sec(f"{name}：消失", r["gone"], ["url", "title", "status", "error"])
+        sec(f"{name}：本轮未抓到", r["not_reached"], ["url", "title"])
+    with open(os.path.join(OUT, "diff.md"), "w", encoding="utf-8") as f:
+        f.write("\n".join(L) + "\n")
+
+
 def main():
     _sync_to_branch_tip()
+    if BASE_OUT:
+        log(f"v3.2 recrawl round: baseline {BASE_OUT} (pages {len(BASELINE['pages'])}, downloads {len(BASELINE['downloads'])}, "
+            f"images {len(BASELINE['images'])}, sha {len(BASELINE['sha'])}) → OUT {OUT}")
     for d in ("html", "datasheet_text", "datasheets", "images"):
         os.makedirs(os.path.join(OUT, d), exist_ok=True)
     for d in ("downloads", "images"):
@@ -900,6 +1054,8 @@ def main():
         with open(os.path.join(BIN, "downloads", fn), "wb") as f:
             f.write(data)
         rec.update(filename=fn, file=f"downloads/{fn}", bytes=len(data), sha256=h)
+        if BASE_OUT and h in BASELINE["sha"]:
+            rec["same_as_base"] = True  # v3.2：内容与基线一致 → 不抽文本、不入 git（基线目录里已有）
         dl_rows.append(rec)
         time.sleep(DELAY)
         if n_new_dl % 20 == 0:
@@ -914,7 +1070,7 @@ def main():
     # ---------- text extraction (pdftotext) ----------
     n_txt = 0
     for d in dl_rows:
-        if not d["file"] or not (d.get("filename") or "").lower().endswith(".pdf"):
+        if not d["file"] or not (d.get("filename") or "").lower().endswith(".pdf") or d.get("same_as_base"):
             continue
         dst = os.path.join(OUT, "datasheet_text", os.path.splitext(d["filename"])[0] + ".txt")
         if d.get("text_file") and os.path.exists(dst):
@@ -945,6 +1101,9 @@ def main():
     n_commit = 0
     n_ok_dl = 0
     for d in sorted((d for d in dl_rows if d["file"]), key=lambda d: d.get("bytes") or 0):
+        if d.get("same_as_base"):
+            d["committed"] = False
+            continue
         n_ok_dl += 1
         size = d.get("bytes") or 0
         dst = os.path.join(OUT, "datasheets", d["filename"])
@@ -1046,6 +1205,8 @@ def main():
             with open(os.path.join(BIN, "images", fn), "wb") as f:
                 f.write(data)
             rec.update(file=f"images/{fn}", bytes=len(data), sha256=sha256(data))
+            if BASE_OUT and rec["sha256"] in BASELINE["sha"]:
+                rec["same_as_base"] = True  # v3.2：与基线同内容 → 不入 git
             total += len(data)
         img_rows.append(rec)
         time.sleep(min(DELAY, 0.5))
@@ -1055,12 +1216,12 @@ def main():
     if img_stop is None:
         img_stop = "complete" if not skipped_site_img else f"blocked ({skipped_site_img} site-hosted left, CDN done) → resume later"
     # v2.6：图片入 git
-    img_bytes = sum(d.get("bytes") or 0 for d in img_rows if d.get("file"))
+    img_bytes = sum(d.get("bytes") or 0 for d in img_rows if d.get("file") and not d.get("same_as_base"))
     imgs_committed = img_bytes <= IMG_COMMIT_MB * 1e6
     n_copied = 0
     if imgs_committed:
         for d in img_rows:
-            if d.get("file") and (d.get("bytes") or 0) <= 95e6:
+            if d.get("file") and (d.get("bytes") or 0) <= 95e6 and not d.get("same_as_base"):
                 src = os.path.join(BIN, d["file"])
                 dst = os.path.join(OUT, "images", os.path.basename(d["file"]))
                 if os.path.exists(src) and not os.path.exists(dst):
@@ -1085,8 +1246,19 @@ def main():
                 and (pages_stop.startswith("complete") or (blocked and nothing_left)))
     runs[-1].update(ended=now(), elapsed_s=round(elapsed()), pages_new=n_new_pages, downloads_new=n_new_dl,
                     images_new=n_new_img, pages_stop=pages_stop, downloads_stop=dl_stop, images_stop=img_stop)
+    diff = None
+    if BASE_OUT:
+        try:
+            diff = build_diff(BASELINE, pages, dl_rows, img_rows)
+            write_diff(diff)
+            log("diff: " + json.dumps({k: {kk: (len(vv) if isinstance(vv, list) else vv) for kk, vv in v.items()} for k, v in diff.items()}, ensure_ascii=False))
+        except Exception as e:  # noqa: BLE001
+            log(f"diff failed: {e!r}")
     summary = {
         "crawled_at": now(), "host": HOST, "complete": complete, "blocked": blocked,
+        "recrawl_base": BASE_OUT,
+        "diff": ({k: {kk: (len(vv) if isinstance(vv, list) else vv) for kk, vv in v.items()} for k, v in diff.items()} if diff else None),
+        "same_as_base": {"downloads": sum(1 for d in dl_rows if d.get("same_as_base")), "images": sum(1 for d in img_rows if d.get("same_as_base"))},
         "access": {k: ACCESS.get(k) for k in ("mode", "profile", "base")},
         "refused": {k: len(v) for k, v in refused.items()}, "refused_sample": {k: v[:20] for k, v in refused.items()},
         "pages_total": len(pages), "pages_ok": sum(1 for p in pages if p["file"]),
@@ -1183,6 +1355,76 @@ def run_extra_sites():
             log(f"[extra] git add failed: {e!r}")
 
 
+def _read_kv(path):
+    kv = {}
+    try:
+        with open(path, encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line or line.startswith("#") or "=" not in line:
+                    continue
+                k, v = line.split("=", 1)
+                kv[k.strip()] = v.strip()
+    except Exception:
+        pass
+    return kv
+
+
+def run_recrawl_round():
+    """v3.2 复抓编排（仅 GitHub Actions、仅工作流固定命令那次调用）：RECRAWL 文件 ROUND=YYYYMMDD → 三站各起一子进程，
+    CRAWL_BASE=原整站目录做基线，写到 data/site_recrawl/<ROUND>/<site>/（html 全量 + 仅新增 / 变化的二进制 + diff.md）。
+    已 complete 的站跳过；未完成的站下次再推 crawl.py 从该目录的 crawl_state.json 续抓。"""
+    if os.environ.get("CRAWL_HOST") or not os.environ.get("GITHUB_ACTIONS"):
+        return
+    kv = _read_kv(RECRAWL_FILE)
+    rnd = (kv.get("ROUND") or "").strip()
+    if not rnd:
+        return
+    want = [x.strip() for x in (kv.get("SITES") or "smartbyte,hrui,hohunet").split(",") if x.strip()]
+    sites = [{"site": "smartbyte", "host": HOST, "scheme": SCHEME, "out": OUT}] + EXTRA_SITES
+    weights = {"smartbyte": 0.45, "hrui": 0.35, "hohunet": 0.20}
+    todo = [s for s in sites if s["site"] in want and not _already_complete(os.path.join(RECRAWL_ROOT, rnd, s["site"]))]
+    log(f"[recrawl] round {rnd}: todo {[s['site'] for s in todo]} (skipped complete: {[s['site'] for s in sites if s['site'] in want and s not in todo]})")
+    outs = []
+    for i, s in enumerate(todo):
+        left = 150 - elapsed() / 60
+        wsum = sum(weights.get(x["site"], 0.3) for x in todo[i:]) or 1
+        budget = max(8, left * weights.get(s["site"], 0.3) / wsum)
+        if left < 10:
+            log(f"[recrawl] {s['site']}: no time left ({left:.0f} min) → next run")
+            continue
+        out_r = os.path.join(RECRAWL_ROOT, rnd, s["site"])
+        bin_r = f"crawl_bin_r{rnd}_{s['site']}"
+        env = dict(os.environ, CRAWL_HOST=s["host"], CRAWL_SCHEME=s.get("scheme", "https"), CRAWL_SITE=s["site"], CRAWL_BASE=s["out"],
+                   TIME_BUDGET_MIN=f"{budget:.0f}", MAX_IMAGE_MB=os.environ.get("RECRAWL_MAX_IMAGE_MB", "600"),
+                   IMG_COMMIT_MB=os.environ.get("RECRAWL_IMG_COMMIT_MB", "250"), PDF_COMMIT_MB=os.environ.get("RECRAWL_PDF_COMMIT_MB", "250"))
+        log(f"[recrawl] ===== {s['site']} ({s['host']}) base {s['out']} → {out_r}; budget {budget:.0f} min =====")
+        try:
+            subprocess.run([sys.executable, os.path.abspath(__file__), out_r, bin_r], env=env, check=False, timeout=(budget + 12) * 60)
+        except subprocess.TimeoutExpired:
+            log(f"[recrawl] {s['site']}: child timed out (budget {budget:.0f} min + 12) → checkpoints on disk, resume next run")
+        except Exception as e:  # noqa: BLE001
+            log(f"[recrawl] {s['site']}: child failed to run: {e!r}")
+        if os.path.isdir(out_r):
+            outs.append(out_r)
+            try:
+                with open(os.path.join(out_r, "summary.json"), encoding="utf-8") as f:
+                    sm = json.load(f)
+                log(f"[recrawl] {s['site']}: complete={sm.get('complete')} pages {sm.get('pages_ok')}/{sm.get('pages_total')} "
+                    f"downloads {sm.get('downloads_ok')}/{sm.get('downloads_total')} images {sm.get('images_ok')}/{sm.get('images_total')} "
+                    f"diff {json.dumps(sm.get('diff'), ensure_ascii=False)}")
+            except Exception:
+                log(f"[recrawl] {s['site']}: no summary.json")
+    try:
+        os.makedirs(RECRAWL_ROOT, exist_ok=True)
+        with open(os.path.join(RECRAWL_ROOT, f"round_{rnd}_orchestrator_log.txt"), "a", encoding="utf-8") as f:
+            f.write(f"===== run {RUN_ID} {now()} =====\n" + "\n".join(x for x in LOG if "[recrawl]" in x) + "\n")
+        subprocess.run(["git", "add", "-A", RECRAWL_ROOT], check=True, timeout=600)
+        log(f"[recrawl] git add -A {RECRAWL_ROOT} → staged for the workflow's commit step")
+    except Exception as e:  # noqa: BLE001
+        log(f"[recrawl] git add failed: {e!r}")
+
+
 def _crash(exc):
     """主流程异常：日志 + summary 落盘（complete=false），以 0 退出，让工作流后续 zip / 上传 / 提交步骤照跑（检查点都在盘上）。"""
     import traceback
@@ -1230,4 +1472,8 @@ if __name__ == "__main__":
         run_extra_sites()
     except Exception as e:  # noqa: BLE001
         log(f"[extra] orchestrator failed: {e!r}")
+    try:
+        run_recrawl_round()
+    except Exception as e:  # noqa: BLE001
+        log(f"[recrawl] orchestrator failed: {e!r}")
     sys.exit(0)

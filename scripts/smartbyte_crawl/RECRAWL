@@ -1,0 +1,5 @@
+# v3.2 复抓轮次（T29-U13，2026-10-22）：工作流固定命令跑完原逻辑后，按本文件对三家供应商官网各起一轮复抓，
+# 以 data/<site>_site_raw 为基线写 data/site_recrawl/<ROUND>/<site>/（html 全量 + 仅新增/变化的二进制 + diff.md）。
+# ROUND 改成新日期 = 开新一轮；同一 ROUND 未完成的站（被封 / 超时）再推一次 crawl.py 即续抓；已 complete 的站跳过。
+ROUND=20261022
+SITES=smartbyte,hrui,hohunet
