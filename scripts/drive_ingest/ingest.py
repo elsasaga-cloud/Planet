@@ -328,6 +328,113 @@ def extract_doc(path, tmp):
 
 
 # ---------------------------------------------------------------- 抽取：Excel
+def _html_table_text(data):
+    """把伪装成 xls/xlsx 的 HTML 表格（常见于中文系统导出）转成按行 tab 分隔文本。"""
+    from html.parser import HTMLParser
+
+    class P(HTMLParser):
+        def __init__(self):
+            super().__init__(convert_charrefs=True)
+            self.rows, self.row, self.cell, self.in_cell = [], [], [], False
+
+        def handle_starttag(self, tag, attrs):
+            if tag == 'tr':
+                self.row = []
+            elif tag in ('td', 'th'):
+                self.in_cell, self.cell = True, []
+            elif tag == 'br' and self.in_cell:
+                self.cell.append(' ')
+
+        def handle_endtag(self, tag):
+            if tag in ('td', 'th') and self.in_cell:
+                self.row.append(''.join(self.cell).strip())
+                self.in_cell = False
+            elif tag == 'tr':
+                if any(self.row):
+                    self.rows.append(self.row)
+                self.row = []
+
+        def handle_data(self, d):
+            if self.in_cell:
+                self.cell.append(d)
+
+    for enc in ('utf-8', 'gb18030', 'latin-1'):
+        try:
+            html = data.decode(enc)
+            break
+        except Exception:  # noqa
+            continue
+    else:
+        html = data.decode('utf-8', 'ignore')
+    m = re.search(r'charset=["\']?([\w-]+)', html[:4000], re.I)
+    if m and m.group(1).lower() not in ('utf-8', 'utf8'):
+        try:
+            html = data.decode(m.group(1))
+        except Exception:  # noqa
+            pass
+    p = P()
+    try:
+        p.feed(html)
+        p.close()
+    except Exception:  # noqa
+        pass
+    return p.rows
+
+
+def extract_excel_any(path, tmp):
+    """按文件头识别真实格式：zip(xlsx) / OLE2(xls) / HTML 表格 / 其他 → soffice 转换；扩展名不可信。"""
+    with open(path, 'rb') as f:
+        head = f.read(8)
+    errs = []
+    if head[:4] == b'PK\x03\x04':
+        try:
+            return extract_xlsx(path)
+        except Exception as e:  # noqa
+            errs.append(f'openpyxl: {e}'[:160])
+    if head[:8] == b'\xd0\xcf\x11\xe0\xa1\xb1\x1a\xe1':
+        try:
+            r = extract_xls(path)
+            if not path.lower().endswith('.xls'):
+                r.setdefault('warnings', []).append('扩展名为 xlsx 但实际是 OLE2 .xls（按内容识别）')
+            return r
+        except Exception as e:  # noqa
+            errs.append(f'xlrd: {e}'[:160])
+    with open(path, 'rb') as f:
+        sample = f.read(4_000_000)
+    low = sample[:20000].lower()
+    if b'<table' in low or b'<html' in low or b'<?xml' in low and b'urn:schemas-microsoft-com:office:spreadsheet' in sample[:200000]:
+        if have('soffice'):
+            out, err = soffice_convert(path, 'xlsx', tmp)
+            if out:
+                try:
+                    r = extract_xlsx(out)
+                    r['method'] = 'soffice→xlsx→' + r['method']
+                    r.setdefault('warnings', []).append('扩展名为 Excel 但实际是 HTML/XML 表格（已经 soffice 转换）')
+                    return r
+                except Exception as e:  # noqa
+                    errs.append(f'soffice-xlsx: {e}'[:160])
+            else:
+                errs.append(err or 'soffice failed')
+        rows = _html_table_text(sample)
+        if rows:
+            text = '\n'.join('\t'.join(r) for r in rows)
+            return {'method': 'html-table', 'status': 'ok', 'meta': {'rows_total': len(rows), 'note': 'Excel 扩展名但内容为 HTML 表格'},
+                    'text': text, 'sheets': {'html': {'state': 'visible', 'rows': rows}}, 'warnings': errs}
+    if have('soffice'):
+        out, err = soffice_convert(path, 'xlsx', tmp)
+        if out:
+            try:
+                r = extract_xlsx(out)
+                r['method'] = 'soffice→xlsx→' + r['method']
+                r.setdefault('warnings', []).append('原文件无法直接解析，已经 soffice 转换（头部 %s）' % head.hex())
+                return r
+            except Exception as e:  # noqa
+                errs.append(f'soffice-xlsx: {e}'[:160])
+        else:
+            errs.append(err or 'soffice failed')
+    raise RuntimeError('; '.join(errs) or f'unknown excel format (head {head.hex()})')
+
+
 def _fmt(v):
     if v is None:
         return ''
@@ -832,10 +939,8 @@ def extract_any(rec, local, tmp):
         return extract_docx(local), None
     if ext == '.doc':
         return extract_doc(local, tmp), None
-    if ext in ('.xlsx', '.xlsm'):
-        return extract_xlsx(local), None
-    if ext == '.xls':
-        return extract_xls(local), None
+    if ext in ('.xlsx', '.xlsm', '.xls'):
+        return extract_excel_any(local, tmp), None
     if ext == '.pdf':
         return extract_pdf(local, tmp), None
     if ext in ('.pptx',):
@@ -1057,7 +1162,8 @@ def gh_release_ensure():
 
 
 def backup_folder(top, recs, state):
-    """把该顶层文件夹已下载的原件打成 ≤PART_MAX 的 zip 分卷并上传到 Release。"""
+    """把该顶层文件夹已下载的原件打成 ≤PART_MAX 的 zip 分卷并上传到 Release。
+    若该文件夹此前已备份完成（补漏 / 重试运行），新文件打成独立的 retry 分卷追加，绝不覆盖已有分卷。"""
     files = []
     for r in recs:
         p = os.path.join(RAW_DIR, r['path'])
@@ -1065,8 +1171,12 @@ def backup_folder(top, recs, state):
             files.append((r, p, os.path.getsize(p)))
     if not files:
         return []
+    prev = state.manifest['meta']['backup'].get(top) or {}
+    supplement = bool(prev.get('done')) and bool(prev.get('parts')) and not FORCE
     os.makedirs(ZIP_DIR, exist_ok=True)
     slug = FOLDER_SLUG.get(top) or re.sub(r'[^A-Za-z0-9._-]+', '_', top).strip('_') or 'folder'
+    if supplement:
+        slug += '_retry' + datetime.now(timezone.utc).strftime('%Y%m%d%H%M')
     parts, cur, cur_size, idx = [], [], 0, 1
 
     def flush():
@@ -1109,8 +1219,15 @@ def backup_folder(top, recs, state):
             part['uploaded'] = False
         ok_all = False
         log('gh not available / release failed; zips kept in', ZIP_DIR)
-    state.manifest['meta']['backup'][top] = {'done': ok_all, 'at': now(), 'files': len(files),
-                                              'bytes': sum(s for _, _, s in files), 'parts': parts}
+    if supplement:
+        merged = dict(prev)
+        merged.update({'done': bool(prev.get('done')) and ok_all, 'at': now(), 'files': prev.get('files', 0) + len(files),
+                       'bytes': prev.get('bytes', 0) + sum(s for _, _, s in files), 'parts': list(prev.get('parts', [])) + parts,
+                       'retries': prev.get('retries', 0) + 1})
+        state.manifest['meta']['backup'][top] = merged
+    else:
+        state.manifest['meta']['backup'][top] = {'done': ok_all, 'at': now(), 'files': len(files),
+                                                  'bytes': sum(s for _, _, s in files), 'parts': parts}
     if ok_all:
         for _, p, _ in files:
             try:
@@ -1219,11 +1336,15 @@ def fetch_source_release():
 
 
 def main():
-    global LOCAL_DIR
+    global LOCAL_DIR, RELEASE_TAG
     if SOURCE_RELEASE and not LOCAL_DIR:
         fetch_source_release()
     index_meta, recs = load_index()
     state = State()
+    # 续跑 / 补漏时沿用第一次备份用的 Release，避免按日期散落到多个 Release
+    prev_tag = state.manifest['meta'].get('release_tag')
+    if prev_tag and not os.environ.get('RELEASE_TAG') and not FORCE:
+        RELEASE_TAG = prev_tag
     state.recs_by_id = {r['id']: r for r in recs}
     state.manifest['meta']['files_total_in_index'] = len(recs)
     state.manifest['meta']['index_source'] = index_meta.get('来源', '')
@@ -1309,5 +1430,33 @@ def main():
     log('DONE', json.dumps(st, ensure_ascii=False))
 
 
+def maybe_dispatch_run_file():
+    """RUN 文件里若有 `JOB=gmail`（KEY=VALUE 行），把本次运行转交给 scripts/gmail_ingest/ingest.py（复用同一 workflow，
+    无需再另存新的 workflow 文件）。RUN 里的 KEY=VALUE 覆盖 workflow 传入的环境变量；Drive 专用变量不下传。"""
+    run_file = os.environ.get('RUN_FILE') or os.path.join(ROOT, 'scripts', 'drive_ingest', 'RUN')
+    try:
+        lines = open(run_file, encoding='utf-8').read().splitlines()
+    except Exception:  # noqa
+        return
+    kv = {}
+    for ln in lines:
+        ln = ln.strip()
+        if not ln or ln.startswith('#') or '=' not in ln:
+            continue
+        k, v = ln.split('=', 1)
+        kv[k.strip().upper()] = v.strip().strip('"').strip("'")
+    if kv.pop('JOB', '').lower() != 'gmail':
+        return
+    env = dict(os.environ)
+    for k in ('COMMIT_EVERY', 'ONLY_FOLDERS', 'ONLY_TYPES', 'WORKERS', 'INDEX', 'OUT_DIR', 'LOCAL_DIR', 'SOURCE_RELEASE', 'OCR', 'LIMIT', 'FORCE'):
+        env.pop(k, None)
+    env.update(kv)
+    script = os.path.join(ROOT, 'scripts', 'gmail_ingest', 'ingest.py')
+    log('RUN says JOB=gmail → dispatch to', script, json.dumps({k: (v if k != 'SOURCE_IDS' else v[:60]) for k, v in kv.items()}))
+    sys.stdout.flush()
+    os.execve(sys.executable, [sys.executable, script], env)
+
+
 if __name__ == '__main__':
+    maybe_dispatch_run_file()
     main()
