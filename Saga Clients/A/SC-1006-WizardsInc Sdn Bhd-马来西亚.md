@@ -107,6 +107,20 @@ updated: 2026-10-23
 
 > 口径：同一单号多份文件取 CI > PI（最新修订）> Quotation；Quotation 行不计入销售合计；明细见 `data/pi_orders/销售单据明细.csv`、采购价见 `采购合同明细.csv`；原件在 Release `files-pi_2026-10`。
 
+## 动态监控（自动 · 网站 / 社媒 / 代码库）
+
+- **监控层**：成单精选层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T03:05:43Z　|　**最近变化**：2026-10-23T02:54:23Z
+- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-1006/`；本节随档案重渲染刷新，实时看日志。
+
+| 源 | 类型 | 状态 | 最近变化 | 摘要 |
+|---|---|---|---|---|
+| [site_feed](http://wizardsinc.co/?feed=rss2) | rss | HTTP 500 | 2026-10-23T02:54:23Z | WordPress RSS |
+| [home](http://wizardsinc.co/) | html | HTTP 500 | 2026-10-23T02:54:23Z | 官网首页 |
+| [contact](http://wizardsinc.co/?page_id=40) | html | HTTP 500 | 2026-10-23T02:54:23Z | 联系页（info@/support@wizardsinc.co，热线 1-700-816-003） |
+| [auto_home](https://live.com.my/) | html | 待首轮 | — | 官网首页（T27 快照状态 unknown） |
+
+- **人工定期看（登录墙，不自动抓）**：10times：Raja Kumaran（CEO）参观 LED Light Malaysia 2026-07（标牌/LED 方向）；GitHub 用户 WizardsInc-Maintenance（2024-02 建，0 公开仓库，2026-10-19 有活动）归属未证实
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`rajaking@live.com.my`〔企业邮箱；来源：用户表原值〕

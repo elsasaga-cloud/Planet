@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-22
+updated: 2026-10-23
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -173,6 +173,18 @@ updated: 2026-10-22
 | Mini Industrial PoE Switch | 2025-07-28 | 2025-07-28 | 0 | 1 | 1 |
 | …共 20 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
+## 动态监控（自动 · 网站 / 社媒 / 代码库）
+
+- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-024/`；本节随档案重渲染刷新，实时看日志。
+
+| 源 | 类型 | 状态 | 最近变化 | 摘要 |
+|---|---|---|---|---|
+| [home](https://megnet.co.uk/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
+| [sitemap](https://megnet.co.uk/sitemap_index.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 1165 条） |
+
+- **人工定期看（登录墙，不自动抓）**：LinkedIn: https://www.linkedin.com/company/megnet-limited-specialist-global-supplier-of-compatible-network-solutions/；X/Twitter: https://twitter.com/MegnetLtd
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`rajiv@megnet.co.uk`〔企业邮箱；来源：用户表原值〕
@@ -281,12 +293,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-05**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-06**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 94）
+- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 94）
 
 ---
 
-*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

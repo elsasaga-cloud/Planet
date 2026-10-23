@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 4
-updated: 2026-10-22
+updated: 2026-10-23
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -134,6 +134,19 @@ updated: 2026-10-22
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
 | 24 Port Fiber Switch | 2025-01-01 | 2025-01-01 | 0 | 1 | 1 |
+
+## 动态监控（自动 · 网站 / 社媒 / 代码库）
+
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-957/`；本节随档案重渲染刷新，实时看日志。
+
+| 源 | 类型 | 状态 | 最近变化 | 摘要 |
+|---|---|---|---|---|
+| [home](https://www.tayle.ru/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
+| [sitemap](https://www.tayle.ru/sitemap.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 3623 条） |
+| [news_1](https://www.tayle.ru/pubs/) | html | 待首轮 | — | 导航「Новости」 |
+| [vk](https://vk.com/taylenews) | html | 待首轮 | — | VK 公开社区页 |
+| [telegram](https://t.me/s/taylenews) | html | 待首轮 | — | Telegram 公开频道预览页 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -245,12 +258,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 B，分数 30）
+- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 B，分数 30）
 
 ---
 
-*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

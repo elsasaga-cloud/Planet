@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
-"""成单客户「活跃平台」监控（T29-U18，2026-10-23）。只读，不发任何消息。
+"""客户动态监控（T29-U18 成单客户精选层 + T29-U19 A/B 级面监控层，2026-10-23）。只读，不发任何消息。
+
+两层清单合并执行：
+  精选层 scripts/web_watch/targets.json       20 家成单客户，人工挑的源（RSS / 整页 / JSON API / sitemap / GitHub / YouTube）
+  面层   scripts/web_watch/targets_auto.json  discover.py 离线从 entities.json + T27 官网快照生成的 A/B 级 1,100+ 家：首页 / sitemap / 新闻栏目 / YouTube / GitHub / Telegram / VK
+运行时还会从首页 HTML 的 <link rel=alternate type=rss/atom> 自动发现站点 feed（记在 state 的 _meta 里，下一轮起作为 feed_auto 源抓）。
 
 用法（GitHub Actions 运行器；Arena 沙箱无外网，只能跑 --selftest）：
     python scripts/web_watch/watch.py              # 抓全部源，写 data/customer_watch/，在 Actions 内自动提交推送
@@ -24,19 +29,24 @@ import subprocess
 import sys
 import time
 import xml.etree.ElementTree as ET
+from concurrent.futures import ThreadPoolExecutor
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.abspath(os.path.join(HERE, '..', '..'))
 CFG = os.path.join(HERE, 'targets.json')
+CFG_AUTO = os.path.join(HERE, 'targets_auto.json')
 OUT = os.path.join(ROOT, 'data', 'customer_watch')
 STATE = os.path.join(OUT, 'state.json')
 SNAP = os.path.join(OUT, 'snapshots')
+WORKERS = int(os.environ.get('WATCH_WORKERS', '12'))
 TS = _dt.datetime.now(_dt.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
 UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36 SagaWatch/1.0'
 BROWSER_UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36'
 TIMEOUT = 35
-MAX_TEXT = 60_000
+MAX_TEXT = 60_000          # 抓取时文本上限
+SNAP_TEXT = {'成单': 40_000, 'A': 16_000, 'B': 12_000}   # 落盘快照上限（面层小一点，控制仓库体积）
 MAX_ITEMS = 300
+STATE_ITEMS = 80           # state.json 里每个源最多保留的条目数（rss / sitemap / github）
 
 try:
     import requests  # noqa: E402
@@ -45,21 +55,22 @@ except Exception:  # pragma: no cover
 
 
 # ----------------------------------------------------------------------------- fetch
-def fetch(url, accept=None):
-    """返回 (status_code, text, final_url)。失败抛异常。"""
+def fetch(url, accept=None, attempts=3, timeout=None):
+    """返回 (status_code, text, final_url)。失败抛异常。面层（A/B）用 attempts=2、timeout 20 s，控制总时长。"""
     if requests is None:
         raise RuntimeError('requests not installed')
     h = {'User-Agent': UA, 'Accept-Language': 'en,tr;q=0.8,ru;q=0.7,th;q=0.6,zh;q=0.5'}
     if accept:
         h['Accept'] = accept
     last = None
-    for attempt in range(3):
+    timeout = timeout or TIMEOUT
+    for attempt in range(attempts):
         try:
             if attempt:   # 第 2 次起换成普通浏览器 UA（首轮基线：vilinknet.com 403 / sundartechno feed 429 / govtribe 403 都是反爬 UA 过滤）
                 h['User-Agent'] = BROWSER_UA
                 h['Accept'] = h.get('Accept') or 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
-            r = requests.get(url, headers=h, timeout=TIMEOUT, allow_redirects=True)
-            if (r.status_code >= 500 or r.status_code in (403, 429)) and attempt < 2:
+            r = requests.get(url, headers=h, timeout=timeout, allow_redirects=True)
+            if (r.status_code >= 500 or r.status_code in (403, 429)) and attempt < attempts - 1:
                 last = RuntimeError(f'HTTP {r.status_code}')
                 time.sleep(4 * (attempt + 1) if r.status_code != 429 else 15 * (attempt + 1))
                 continue
@@ -259,10 +270,41 @@ def youtube_channel_id(page):
 
 
 # ----------------------------------------------------------------------------- per-source
+_FEED_LINK = re.compile(r'(?is)<link\b[^>]*>')
+_ATTR = re.compile(r"(?is)([a-z:-]+)\s*=\s*(\"([^\"]*)\"|'([^']*)'|([^\s>]+))")
+
+
+def find_feeds(body, base_url):
+    """首页 HTML 里的 <link rel="alternate" type="application/rss+xml|atom+xml" href=…>，返回绝对 URL 列表（去重、排除评论 feed）。"""
+    out = []
+    for tag in _FEED_LINK.findall(body[:400_000]):
+        attrs = {m.group(1).lower(): (m.group(3) or m.group(4) or m.group(5) or '') for m in _ATTR.finditer(tag)}
+        if 'alternate' not in (attrs.get('rel') or '').lower():
+            continue
+        typ = (attrs.get('type') or '').lower()
+        if 'rss' not in typ and 'atom' not in typ:
+            continue
+        href = _html.unescape(attrs.get('href') or '').strip()
+        if not href or 'comments' in href.lower():
+            continue
+        if href.startswith('//'):
+            href = 'https:' + href
+        elif href.startswith('/'):
+            m = re.match(r'(https?://[^/]+)', base_url or '')
+            href = (m.group(1) if m else '') + href
+        elif not href.startswith('http'):
+            href = (base_url or '').rstrip('/') + '/' + href
+        if href not in out:
+            out.append(href)
+    return out
+
+
 def run_source(src):
     """返回 dict：status, hash, items(dict id→{title,date}), text(可选), fields(可选), error(可选), profile(可选)。"""
     kind = src['kind']
     res = {'kind': kind, 'fetched_at': TS}
+    lite = src.get('_lite')           # 面层：少重试、短超时
+    fo = {'attempts': 2, 'timeout': 20} if lite else {}
     try:
         if kind == 'github':
             profile, items = github_account(src['login'])
@@ -275,23 +317,25 @@ def run_source(src):
             return res
         url = src['url']
         if kind == 'youtube_handle':
-            code, page, _ = fetch(url, accept='text/html')
-            cid = youtube_channel_id(page)
+            cid = src.get('_cached_channel_id')
             if not cid:
-                raise RuntimeError(f'channelId not found (HTTP {code})')
+                code, page, _ = fetch(url, accept='text/html', **fo)
+                cid = youtube_channel_id(page)
+                if not cid:
+                    raise RuntimeError(f'channelId not found (HTTP {code})')
             res['channel_id'] = cid
             url = f'https://www.youtube.com/feeds/videos.xml?channel_id={cid}'
             kind = 'rss'
         acc = ('application/rss+xml, application/atom+xml, application/xml, application/json, text/html;q=0.8, */*;q=0.5'
                if kind in ('rss', 'sitemap', 'json') else 'text/html,application/xhtml+xml,*/*;q=0.8')
         try:
-            code, body, final = fetch(url, accept=acc)
+            code, body, final = fetch(url, accept=acc, **fo)
         except Exception:
             if not src.get('url_fallback'):
                 raise
             code = 599
         if code >= 400 and src.get('url_fallback'):
-            code, body, final = fetch(src['url_fallback'], accept=acc)
+            code, body, final = fetch(src['url_fallback'], accept=acc, **fo)
         res['status'] = code
         res['final_url'] = final
         if code >= 400:
@@ -335,6 +379,10 @@ def run_source(src):
             res['items'] = {}
             first = text.split('\n')[0] if text else ''
             res['summary'] = f'{len(text)} 字符；首行：{first[:80]}'
+            if src.get('id') == 'home':
+                feeds = find_feeds(body, final or url)
+                if feeds:
+                    res['feeds_found'] = feeds[:3]
         return res
     except Exception as e:  # noqa: BLE001
         res['error'] = f'{type(e).__name__}: {str(e)[:200]}'
@@ -418,28 +466,164 @@ def save_json(p, obj):
         json.dump(obj, f, ensure_ascii=False, indent=1)
 
 
-def write_status(cfg, state, run_changes):
+def load_config(layers):
+    """合并精选层 + 面层。返回 customers 列表，每个带 layer（成单 / A / B）与 label。"""
+    cur = load_json(CFG, {'customers': []})
+    auto = load_json(CFG_AUTO, {'customers': []})
+    out, by = [], {}
+    for c in cur.get('customers', []):
+        c = dict(c)
+        c['sources'] = [dict(x) for x in c['sources']]
+        c['manual'] = list(c.get('manual', []))
+        c['layer'] = '成单'
+        c.setdefault('label', '')
+        out.append(c)
+        by[c['code']] = c
+    for c in auto.get('customers', []):
+        if c['code'] in by:          # 精选客户：面层只补充源 / 人工链接
+            tgt = by[c['code']]
+            have = {s.get('url') or s.get('login') for s in tgt['sources']}
+            for sx in c['sources']:
+                if (sx.get('url') or sx.get('login')) not in have:
+                    sx = dict(sx)
+                    sx['id'] = 'auto_' + sx['id']
+                    tgt['sources'].append(sx)
+            for m in c.get('manual', []):
+                txt = f"{m.get('label')}: {m.get('url')}" if isinstance(m, dict) else m
+                if txt not in tgt['manual']:
+                    tgt['manual'].append(txt)
+            continue
+        c = dict(c)
+        c['layer'] = c.get('grade') or 'B'
+        c['label'] = f"{c['layer']} 级"
+        out.append(c)
+    return [c for c in out if c['layer'] in layers]
+
+
+def feed_auto_src(url):
+    return {'id': 'feed_auto', 'kind': 'rss', 'url': url, 'note': '首页 <link rel=alternate> 自动发现的 feed'}
+
+
+def process_customer(c, state):
+    """抓一个客户的全部源（同一客户内顺序、礼貌间隔）。返回 (code, [(src, prev, cur)])。"""
+    results = []
+    meta = (state.get('_meta') or {}).get(c['code']) or {}
+    srcs = list(c['sources'])
+    if meta.get('feed_auto') and not any(s['id'] == 'feed_auto' for s in srcs):
+        srcs.append(feed_auto_src(meta['feed_auto']))
+    has_feed = any(s['id'] == 'feed_auto' for s in srcs)
+    lite = c.get('layer') in ('A', 'B')
+    for s in list(srcs):
+        key = f"{c['code']}/{s['id']}"
+        prev = state.get(key)
+        s = dict(s)
+        if lite:
+            s['_lite'] = True
+        if s['kind'] == 'youtube_handle' and prev and prev.get('channel_id'):
+            s['_cached_channel_id'] = prev['channel_id']
+        cur = run_source(s)
+        results.append((s, prev, cur))
+        # 当轮就把新发现的 feed 抓一遍（只在还没有 feed_auto 时；首抓失败或 0 条则不采用）
+        if cur.get('feeds_found') and not has_feed:
+            has_feed = True
+            fsrc = feed_auto_src(cur['feeds_found'][0])
+            if lite:
+                fsrc['_lite'] = True
+            fcur = run_source(fsrc)
+            if not fcur.get('error') and fcur.get('items'):
+                results.append((fsrc, state.get(f"{c['code']}/feed_auto"), fcur))
+            else:
+                cur.pop('feeds_found', None)
+        time.sleep(0.6)
+    return c['code'], results
+
+
+def prev_text(code, sid):
+    p = os.path.join(SNAP, code, f'{sid}.txt')
+    if not os.path.exists(p):
+        return ''
+    with open(p, encoding='utf-8') as f:
+        lines = f.read().split('\n')
+    return '\n'.join(lines[1:]).rstrip('\n') if lines and lines[0].startswith('# ') else '\n'.join(lines)
+
+
+def trim_items(items):
+    if not items or len(items) <= STATE_ITEMS:
+        return items
+    ks = sorted(items, key=lambda k: (items[k].get('date') or ''), reverse=True)[:STATE_ITEMS]
+    return {k: items[k] for k in ks}
+
+
+def _meta_of(state, code):
+    return (state.get('_meta') or {}).get(code) or {}
+
+
+def write_status(customers, state, changes_by_layer):
+    # 精选层：逐源全表
+    deal = [c for c in customers if c['layer'] == '成单']
     lines = ['# 成单客户 · 活跃平台监控 · 当前状态（T29-U18）', '',
-             f'> 本轮 {TS}。监控清单 `scripts/web_watch/targets.json`；变化 append-only 见 `变化日志.md`；每个源的最新规范化文本在 `snapshots/<客户码>/<源 id>.txt`（历史用 `git log -p` 看）。'
-             f'LinkedIn / Facebook / X / Instagram 有登录墙不抓，链接列在各客户 manual 字段，由人工定期看。', '',
+             f'> 本轮 {TS}。监控清单 `scripts/web_watch/targets.json`（精选）+ `targets_auto.json`（面层，A/B 级见 `当前状态_AB.md`）；变化 append-only 见 `变化日志.md` / `变化日志_AB.md`；'
+             f'每个源的最新规范化文本在 `snapshots/<客户码>/<源 id>.txt`（历史用 `git log -p` 看）。LinkedIn / Facebook / X / Instagram 有登录墙不抓，链接列在 manual 字段，由人工定期看。', '',
              '| 客户 | 标签 | 源 | 类型 | HTTP/状态 | 最近变化 | 摘要 |', '|---|---|---|---|---|---|---|']
-    for c in cfg['customers']:
-        for s in c['sources']:
+    for c in deal:
+        srcs = c['sources'] + ([feed_auto_src(_meta_of(state, c['code'])['feed_auto'])] if _meta_of(state, c['code']).get('feed_auto') else [])
+        for s in srcs:
             key = f"{c['code']}/{s['id']}"
             st = state.get(key) or {}
             status = st.get('error') or (f"HTTP {st.get('status')}" if st.get('status') else '未抓')
-            lines.append(f"| {c['code']} {c['name'].split('（')[0]} | {c['label']} | [{s['id']}]({s.get('url') or 'https://github.com/' + s.get('login', '')}) | {s['kind']} | {status} | {st.get('last_change_at', '-')} | {(st.get('summary') or '').replace('|', '／')[:120]} |")
+            lines.append(f"| {c['code']} {c['name'].split('（')[0]} | {c.get('label', '')} | [{s['id']}]({s.get('url') or 'https://github.com/' + s.get('login', '')}) | {s['kind']} | {status} | {st.get('last_change_at', '-')} | {(st.get('summary') or '').replace('|', '／')[:120]} |")
     lines += ['', '## 人工查看链接（登录墙）']
-    for c in cfg['customers']:
+    for c in deal:
         for m in c.get('manual', []):
             lines.append(f"- {c['code']}：{m}")
-    lines += ['', '## 本轮变化']
-    lines += [f'- {x}' for x in run_changes] or ['- 无']
+    lines += ['', '## 本轮变化（成单层）']
+    lines += [(f'  - `{x.strip()}`' if x.startswith('    ') else f'- {x}') for x in changes_by_layer.get('成单', [])] or ['- 无']
     with open(os.path.join(OUT, '当前状态.md'), 'w', encoding='utf-8') as f:
         f.write('\n'.join(lines) + '\n')
+    # 面层：每客户一行
+    ab = [c for c in customers if c['layer'] in ('A', 'B')]
+    if ab:
+        n_src = sum(len(c['sources']) for c in ab)
+        L = ['# A/B 级客户 · 动态监控 · 当前状态（T29-U19）', '',
+             f'> 本轮 {TS}。客户 {len(ab)} 家 / 源 {n_src} 个。清单 `scripts/web_watch/targets_auto.json`（discover.py 离线生成：首页 / sitemap / 新闻栏目 / YouTube / GitHub / Telegram / VK + 运行时自动发现的 feed）。'
+             f'变化见 `变化日志_AB.md`；每客户文本快照在 `snapshots/<客户码>/`。「最近变化」= 任一源最近一次内容变化的时间（首轮 = 基线时间）；「人工看」= 有登录墙的社媒，链接在 targets_auto.json 的 manual 字段。', '',
+             '| 客户 | 级 | 源数 | 本轮可达/失败 | 最近变化 | 最近变化摘要 | 人工看 |', '|---|---|---|---|---|---|---|']
+        for c in sorted(ab, key=lambda x: (x['layer'], x['code'])):
+            srcs = c['sources'] + ([{'id': 'feed_auto'}] if _meta_of(state, c['code']).get('feed_auto') else [])
+            sts = [state.get(f"{c['code']}/{s['id']}") or {} for s in srcs]
+            ok = sum(1 for st in sts if st.get('status') and not st.get('error'))
+            bad = sum(1 for st in sts if st.get('error'))
+            lc = max((st.get('last_change_at') or '-' for st in sts), default='-')
+            summ = _meta_of(state, c['code']).get('last_change_note') or ''
+            man = '、'.join((m.get('label', '') if isinstance(m, dict) else str(m)) for m in c.get('manual', [])[:5])
+            L.append(f"| {c['code']} {c['name'][:28].replace('|', '／')} | {c['layer']} | {len(srcs)} | {ok}/{bad} | {lc} | {summ.replace('|', '／')[:100]} | {man} |")
+        with open(os.path.join(OUT, '当前状态_AB.md'), 'w', encoding='utf-8') as f:
+            f.write('\n'.join(L) + '\n')
 
 
-def git_commit(n_changes, n_err):
+def append_log(path, title, changes, errors, n_sources):
+    new = not os.path.exists(path)
+    if not new and os.path.getsize(path) > 3_000_000:      # 超 3 MB 归档一份，保持 append-only
+        os.replace(path, path.replace('.md', f'_至{TS[:10]}.md'))
+        new = True
+    with open(path, 'a', encoding='utf-8') as f:
+        if new:
+            f.write(f'# {title}（append-only；每轮一节，无变化也记）\n')
+        f.write(f'\n## {TS}（源 {n_sources}）\n')
+        for x in changes:
+            if x.startswith('### '):
+                f.write(f'\n{x}\n')
+            elif x.startswith('    '):
+                f.write(f'  - `{x.strip()}`\n')
+            else:
+                f.write(f'- {x}\n')
+        if not changes:
+            f.write('- 无变化\n')
+        if errors:
+            f.write(f'- 本轮抓取失败 {len(errors)}：' + '；'.join(errors[:40]) + ('…' if len(errors) > 40 else '') + '\n')
+
+
+def git_commit(msg):
     if not os.environ.get('GITHUB_ACTIONS'):
         print('not in GitHub Actions → skip commit')
         return
@@ -448,7 +632,7 @@ def git_commit(n_changes, n_err):
     sh('git', 'config', 'user.name', 'smartbyte-archiver[bot]')
     sh('git', 'config', 'user.email', '41898282+github-actions[bot]@users.noreply.github.com')
     sh('git', 'add', '-A', os.path.relpath(OUT, ROOT))
-    r = subprocess.run(['git', 'commit', '-q', '-m', f'监控：成单客户活跃平台 {TS}（变化 {n_changes} / 抓取失败 {n_err}）'], cwd=ROOT, check=False)
+    r = subprocess.run(['git', 'commit', '-q', '-m', msg], cwd=ROOT, check=False)
     if r.returncode != 0:
         print('nothing to commit')
         return
@@ -466,59 +650,87 @@ def git_commit(n_changes, n_err):
 def main(argv=None):
     ap = argparse.ArgumentParser()
     ap.add_argument('--only', nargs='*', help='只跑这些客户码')
+    ap.add_argument('--layer', default='all', help='all | 成单 | A | B（逗号分隔可多选；deal = 成单）')
+    ap.add_argument('--limit', type=int, default=0, help='最多跑多少个客户（测试用）')
+    ap.add_argument('--workers', type=int, default=WORKERS)
     ap.add_argument('--no-commit', action='store_true')
     ap.add_argument('--selftest', action='store_true')
     args = ap.parse_args(argv)
     if args.selftest:
         return selftest()
-    cfg = load_json(CFG, {'customers': []})
+    layers = {'成单', 'A', 'B'} if args.layer == 'all' else {x.strip() for x in args.layer.replace('deal', '成单').split(',')}
+    customers = load_config(layers)
+    if args.only:
+        customers = [c for c in customers if c['code'] in args.only]
+    if args.limit:
+        customers = customers[:args.limit]
     state = load_json(STATE, {})
+    state.setdefault('_meta', {})
     os.makedirs(SNAP, exist_ok=True)
-    run_changes, errors = [], []
-    for c in cfg['customers']:
-        if args.only and c['code'] not in args.only:
-            continue
-        for s in c['sources']:
-            key = f"{c['code']}/{s['id']}"
-            prev = state.get(key)
-            cur = run_source(s)
-            notes, changed = compare(prev, cur, s['kind'])
-            if cur.get('error'):
-                errors.append(f"{key}：{cur['error']}")
-            entry = {k: cur.get(k) for k in ('kind', 'fetched_at', 'status', 'hash', 'items', 'summary', 'error', 'profile', 'fields', 'channel_id', 'final_url')}
-            entry['text'] = (cur.get('text') or '')[:MAX_TEXT]
-            entry['last_change_at'] = TS if changed else (prev or {}).get('last_change_at', TS if not prev else '-')
-            entry['first_seen'] = (prev or {}).get('first_seen') or TS
-            state[key] = entry
-            if cur.get('text') is not None:
-                d = os.path.join(SNAP, c['code'])
-                os.makedirs(d, exist_ok=True)
-                with open(os.path.join(d, f"{s['id']}.txt"), 'w', encoding='utf-8') as f:
-                    f.write(f"# {c['code']} {c['name']} · {s['id']} · {s.get('url') or s.get('login')} · fetched {TS} · HTTP {cur.get('status')}\n")
-                    f.write(entry['text'] + '\n')
-            label = f"{c['code']} {c['name'].split('（')[0]} · {s['id']}（{s['kind']}）"
-            if notes and (changed or any(n.startswith(('抓取失败', '恢复可达', '状态变化')) for n in notes)):
-                run_changes.append(f'{label}：' + notes[0])
-                run_changes += [n for n in notes[1:]]
-            print(f"{key}: {cur.get('status')} {'CHANGED' if changed else 'same'} {cur.get('error') or ''} {(cur.get('summary') or '')[:100]}")
-            time.sleep(1.0)
+    changes_by_layer = {'成单': [], 'A': [], 'B': []}
+    errors_by_layer = {'成单': [], 'A': [], 'B': []}
+    n_sources = {'成单': 0, 'A': 0, 'B': 0}
+    t0 = time.time()
+    by_code = {c['code']: c for c in customers}
+    done = 0
+    with ThreadPoolExecutor(max_workers=max(1, args.workers)) as ex:
+        for code, results in ex.map(lambda c: process_customer(c, state), customers):
+            c = by_code[code]
+            layer = c['layer']
+            meta = state['_meta'].setdefault(code, {})
+            for s, prev, cur in results:
+                key = f"{code}/{s['id']}"
+                n_sources[layer] += 1
+                if s['kind'] in ('html', 'json') and prev is not None and 'text' not in prev:
+                    prev = dict(prev)
+                    prev['text'] = prev_text(code, s['id'])
+                notes, changed = compare(prev, cur, s['kind'])
+                if cur.get('error'):
+                    errors_by_layer[layer].append(f"{key}：{cur['error']}")
+                entry = {k: cur.get(k) for k in ('kind', 'fetched_at', 'status', 'hash', 'summary', 'error', 'profile', 'fields', 'channel_id', 'final_url')}
+                entry['items'] = trim_items(cur.get('items') or {})
+                entry['last_change_at'] = TS if changed else (prev or {}).get('last_change_at', '-' if (prev or cur.get('error')) else TS)
+                entry['first_seen'] = (prev or {}).get('first_seen') or TS
+                entry['url'] = s.get('url') or s.get('login')
+                state[key] = {k: v for k, v in entry.items() if v is not None}
+                if cur.get('feeds_found'):
+                    meta['feeds_found'] = cur['feeds_found']
+                    if s['id'] == 'home' and not meta.get('feed_auto'):
+                        meta['feed_auto'] = cur['feeds_found'][0]
+                if s['id'] == 'feed_auto' and cur.get('error') and prev is None:
+                    meta.pop('feed_auto', None)      # 自动 feed 首抓就失败 → 不采用
+                if cur.get('text') is not None:
+                    d = os.path.join(SNAP, code)
+                    os.makedirs(d, exist_ok=True)
+                    with open(os.path.join(d, f"{s['id']}.txt"), 'w', encoding='utf-8') as f:
+                        f.write(f"# {code} {c['name']} · {s['id']} · {s.get('url') or s.get('login')} · fetched {TS} · HTTP {cur.get('status')}\n")
+                        f.write((cur.get('text') or '')[:SNAP_TEXT.get(layer, 12_000)] + '\n')
+                label = f"{code} {c['name'].split('（')[0][:30]} · {s['id']}（{s['kind']}）"
+                if notes and (changed or any(n.startswith(('抓取失败', '恢复可达', '状态变化')) for n in notes)):
+                    changes_by_layer[layer].append(f'{label}：' + notes[0])
+                    if layer == '成单':
+                        changes_by_layer[layer] += list(notes[1:])
+                    else:
+                        changes_by_layer[layer] += [n for n in notes[1:] if not n.startswith('    ')][:2] + [n for n in notes[1:] if n.startswith('    ')][:6]
+                    if changed and notes[0] != '首轮基线':
+                        meta['last_change_note'] = f"{TS[:10]} {s['id']}：{notes[0][:90]}"
+                    elif notes[0] == '首轮基线' and not meta.get('last_change_note'):
+                        meta['last_change_note'] = f'{TS[:10]} 首轮基线'
+            done += 1
+            if done % 50 == 0:
+                print(f'… {done}/{len(customers)} customers, {time.time() - t0:.0f}s', flush=True)
     save_json(STATE, state)
-    logp = os.path.join(OUT, '变化日志.md')
-    new = not os.path.exists(logp)
-    with open(logp, 'a', encoding='utf-8') as f:
-        if new:
-            f.write('# 成单客户 · 活跃平台监控 · 变化日志（append-only；每轮一节，无变化也记）\n')
-        f.write(f'\n## {TS}\n')
-        for x in run_changes:
-            f.write(f'- {x}\n' if not x.startswith('    ') else f'  - `{x.strip()}`\n')
-        if not run_changes:
-            f.write('- 无变化\n')
-        if errors:
-            f.write(f'- 本轮抓取失败 {len(errors)}：' + '；'.join(errors[:20]) + '\n')
-    write_status(cfg, state, run_changes)
-    print(f'{TS} sources_changed_or_flagged={len(run_changes)} errors={len(errors)}')
+    tot_changes = sum(len(v) for v in changes_by_layer.values())
+    tot_err = sum(len(v) for v in errors_by_layer.values())
+    if '成单' in layers:
+        append_log(os.path.join(OUT, '变化日志.md'), '成单客户 · 活跃平台监控 · 变化日志', changes_by_layer['成单'], errors_by_layer['成单'], n_sources['成单'])
+    if layers & {'A', 'B'}:
+        ab_changes = (['### A 级'] + changes_by_layer['A'] if changes_by_layer['A'] else []) + (['### B 级'] + changes_by_layer['B'] if changes_by_layer['B'] else [])
+        append_log(os.path.join(OUT, '变化日志_AB.md'), 'A/B 级客户 · 动态监控 · 变化日志', ab_changes, errors_by_layer['A'] + errors_by_layer['B'], n_sources['A'] + n_sources['B'])
+    write_status(load_config({'成单', 'A', 'B'}), state, changes_by_layer)
+    print(f'{TS} customers={len(customers)} sources={sum(n_sources.values())} changed_or_flagged={tot_changes} errors={tot_err} elapsed={time.time() - t0:.0f}s')
     if not args.no_commit:
-        git_commit(len(run_changes), len(errors))
+        git_commit(f"监控：客户动态 {TS}（成单 {len(changes_by_layer['成单'])} / A {len(changes_by_layer['A'])} / B {len(changes_by_layer['B'])} 处变化；抓取失败 {tot_err}；源 {sum(n_sources.values())}）")
     return 0
 
 
@@ -550,17 +762,22 @@ def selftest():
     n, ch = compare(prev, {'error': 'HTTP 522', 'hash': None, 'items': {}}, 'html')
     assert not ch and n[0].startswith('抓取失败')
     assert dotted({'a': [{'b': 1}]}, 'a.0.b') == 1
+    ff = find_feeds('<html><head><link rel="alternate" type="application/rss+xml" title="x" href="/feed/"><link rel="alternate" type="application/rss+xml" href="https://a.b/comments/feed/"></head></html>', 'https://a.b/')
+    assert ff == ['https://a.b/feed/'], ff
     cfg = load_json(CFG, None)
     assert cfg and len(cfg['customers']) == 20, len(cfg['customers'])
+    merged = load_config({'成单', 'A', 'B'})
     ids = set()
-    for c in cfg['customers']:
+    layers = {}
+    for c in merged:
+        layers[c['layer']] = layers.get(c['layer'], 0) + 1
         for s in c['sources']:
             assert s['kind'] in ('rss', 'html', 'json', 'sitemap', 'github', 'youtube_handle'), s
             assert (s.get('url') or s.get('login')), s
             k = f"{c['code']}/{s['id']}"
             assert k not in ids, k
             ids.add(k)
-    print(f'selftest OK · customers={len(cfg["customers"])} sources={len(ids)}')
+    print(f'selftest OK · customers={len(merged)} layers={layers} sources={len(ids)}')
     return 0
 
 

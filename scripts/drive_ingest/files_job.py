@@ -447,6 +447,19 @@ def main():
     dm = drive_mod()
     paths = resolve_sources()
     manifest = {'meta': {'out_name': OUT_NAME, 'title': TITLE, 'created': now(), 'ocr': dm.OCR}, 'sources': [], 'files': [], 'unpack_warnings': []}
+    # 续跑（2026-10-23）：上次运行的 manifest 里已抽取成功（ok/meta，且 text/<id>.json 还在）的成员直接沿用，不再重抽；FORCE=1 则全部重来。
+    prev_done = {}
+    mp_prev = os.path.join(OUT, 'manifest.json')
+    if os.path.exists(mp_prev) and os.environ.get('FORCE', '0') != '1':
+        try:
+            prev = json.load(open(mp_prev, encoding='utf-8'))
+            for f0 in prev.get('files', []):
+                if f0.get('status') in ('ok', 'meta') and os.path.exists(os.path.join(OUT, 'text', f0['id'] + '.json')):
+                    prev_done[f0['id']] = f0
+            manifest['meta']['resumed_from'] = prev.get('meta', {}).get('checkpoint') or prev.get('meta', {}).get('finished') or '?'
+            log(f'resume: {len(prev_done)} members already extracted in previous run')
+        except Exception as e:  # noqa
+            log('previous manifest unreadable, full run', e)
     for name, p in paths:
         h = hashlib.md5()
         with open(p, 'rb') as f:
@@ -497,8 +510,11 @@ def main():
                                       'status': 'dup', 'same_as': it['dup_of']})
             continue
         seen[it['sha256']] = it['id']
+        if it['id'] in prev_done:
+            manifest['files'].append(prev_done[it['id']])
+            continue
         uniq.append(it)
-    log(f'members: {len(items)} ({len(uniq)} unique)')
+    log(f'members: {len(items)} ({len(uniq)} unique to extract, {len(prev_done)} reused)')
 
     # 抽取（每 CHECKPOINT_MIN 分钟提交一次进度：manifest 现状 + _run_status.md 一行，防止无声死亡后一无所有）
     def checkpoint(done_n, final=False):

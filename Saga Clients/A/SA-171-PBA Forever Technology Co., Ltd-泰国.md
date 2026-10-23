@@ -115,6 +115,19 @@ updated: 2026-10-23
 
 > 口径：同一单号多份文件取 CI > PI（最新修订）> Quotation；Quotation 行不计入销售合计；明细见 `data/pi_orders/销售单据明细.csv`、采购价见 `采购合同明细.csv`；原件在 Release `files-pi_2026-10`。
 
+## 动态监控（自动 · 网站 / 社媒 / 代码库）
+
+- **监控层**：成单精选层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T03:05:43Z　|　**最近变化**：2026-10-23T02:54:23Z
+- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-171/`；本节随档案重渲染刷新，实时看日志。
+
+| 源 | 类型 | 状态 | 最近变化 | 摘要 |
+|---|---|---|---|---|
+| [home](https://www.pbacctv.com/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 30232 字符；首行：PBACCTV.COM ออกแบบและติดตั้ง CCTV\|คีการ์ด\|ไม้กระดก\|เครื่องสแกนนิ้ว\|ประตูรี |
+| [promos](https://www.pbacctv.com/home/item/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 17695 字符；首行：PBACCTV.COM SETCCTV Promotion 2ตัว / 4ตัว / 6ตัว / 8ตัว ชุดโปรโมชั่นกล้องวงจรป |
+| [poe_products](https://www.pbacctv.com/home/product/?id=124) | html | HTTP 200 | 2026-10-23T02:54:23Z | 5364 字符；首行：POWER SUPPLY & ADAPTER |
+
+- **人工定期看（登录墙，不自动抓）**：LINE: peeranun8336；电话 098-265-6972 / 086-544-2684 / 02-050-0699（站内）；Facebook 页未检索到确切 URL（站内链接待在 Actions 抓到的首页快照里找）
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`pomnong9@gmail.com`〔免费邮箱；来源：用户表原值〕

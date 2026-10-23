@@ -131,6 +131,21 @@ updated: 2026-10-23
 | 4+8 PCB layout | 2024-12-18 | 2025-08-28 | 1 | 3 | 3 |
 | Invoice | 2024-06-27 | 2024-07-18 | 2 | 4 | 3 |
 
+## 动态监控（自动 · 网站 / 社媒 / 代码库）
+
+- **监控层**：成单精选层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T03:05:43Z　|　**最近变化**：2026-10-23T02:54:23Z
+- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-169/`；本节随档案重渲染刷新，实时看日志。
+
+| 源 | 类型 | 状态 | 最近变化 | 摘要 |
+|---|---|---|---|---|
+| [controlready_home](https://www.controlready.ca/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 2495 字符；首行：Control Ready |
+| [controlready_scout](https://www.controlready.ca/scout) | html | HTTP 200 | 2026-10-23T02:54:23Z | 1423 字符；首行：SCOUT: Smart Connection Operations United Toolkit — Control Ready |
+| [controlready_about](https://www.controlready.ca/about) | html | HTTP 200 | 2026-10-23T02:54:23Z | 2264 字符；首行：About — Control Ready |
+| [jcs_home](https://www.clendenan.ca/) | html | ConnectionError: HTTPConnectionPool(host='clendenan.ca', por | 2026-10-23T02:54:23Z | 老域名（2026-10-23 02:40Z 沙箱侧抓取失败，待运行器核实）；2026-10-23 首轮 https://clendenan.ca/ 连接失败，改 www + htt |
+| [auto_home](https://clendenan.ca/) | html | 待首轮 | — | 官网首页（T27 快照状态 unknown） |
+
+- **人工定期看（登录墙，不自动抓）**：LinkedIn 个人页：James Clendenan（Queen's 计算机工程；前 Pixar Canada / Sophos / HootSuite / OBS）；Alignable 商家页（反爬 429，人工看）: https://www.alignable.com/north-vancouver-bc/james-clendenan-systems-ltd
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`james@clendenan.ca`〔企业邮箱；来源：用户表原值〕

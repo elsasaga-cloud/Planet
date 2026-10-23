@@ -1,12 +1,18 @@
-# T29-U18：成单客户活跃平台监控 · 定时工作流模板。
+# T29-U18/U19：客户动态监控 · 定时工作流模板（成单精选层 20 家 + A/B 面层 1,100+ 家）。
 # 代理的 GitHub 连接没有 workflows 权限，无法推送 .github/workflows/；请 Simon 在 GitHub 网页上把本文件原样保存为
-# .github/workflows/customer-watch.yml（分支 arena/3f35b9b3-planet）。保存后每 12 小时跑一次，也可手动 Run workflow。
+# .github/workflows/customer-watch.yml（分支 arena/3f35b9b3-planet）。保存后每天跑一次（UTC 02:23 = 北京 10:23），也可手动 Run workflow（可填 layer）。
 # 在此之前，监控由 smartbyte-crawl 工作流的 WATCH_ONLY 开关（scripts/web_watch/RUN_ON_CRAWL）代跑：每次需要跑就推送一次触及 crawl.py 的提交。
-name: Customer watch (active platforms)
+# 用量：全层一轮约 10–15 分钟 ubuntu 运行器 → 每天一次 ≈ 300–450 分钟/月（私有仓库 Free 计划每月 2,000 分钟）。
+name: Customer watch (deal + A/B layers)
 on:
   schedule:
-    - cron: "41 */12 * * *"
+    - cron: "23 2 * * *"
   workflow_dispatch:
+    inputs:
+      layer:
+        description: "all | 成单 | A | B（逗号可多选）"
+        default: "all"
+        required: false
 permissions:
   contents: write
 concurrency:
@@ -15,7 +21,7 @@ concurrency:
 jobs:
   watch:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
         with:
@@ -27,4 +33,5 @@ jobs:
       - name: Watch
         env:
           GH_TOKEN: ${{ github.token }}
-        run: python scripts/web_watch/watch.py
+          WATCH_WORKERS: "12"
+        run: python scripts/web_watch/watch.py --layer "${{ github.event.inputs.layer || 'all' }}"

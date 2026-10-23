@@ -24,7 +24,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-21
+updated: 2026-10-23
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -110,6 +110,20 @@ updated: 2026-10-21
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-10-30 | 2025.10.30 | dac |  | A |  | 土耳其客户 3.10.xlsx#92 |
+
+## 动态监控（自动 · 网站 / 社媒 / 代码库）
+
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-686/`；本节随档案重渲染刷新，实时看日志。
+
+| 源 | 类型 | 状态 | 最近变化 | 摘要 |
+|---|---|---|---|---|
+| [home](https://atelekom.com.tr/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
+| [sitemap](https://atelekom.com.tr/sitemap_index.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 49 条） |
+| [news_1](https://atelekom.com.tr/category/blog/) | html | 待首轮 | — | 导航「Blog」 |
+| [youtube](https://www.youtube.com/@atelekom) | youtube_handle | 待首轮 | — | YouTube（运行器解析 channelId 后转 RSS） |
+
+- **人工定期看（登录墙，不自动抓）**：Instagram: https://www.instagram.com/reel/DNsvT1VUDw0/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==；Instagram: https://www.instagram.com/reel/DPbfP9GiMM7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==；Instagram: https://www.instagram.com/reel/DZwqw-mtura/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==；Facebook: https://www.facebook.com/atelekomunikasyon；Instagram: https://www.instagram.com/atelekomunikasyon/；LinkedIn: https://www.linkedin.com/company/atelekomunikasyon/mycompany/?viewAsMember=true；WhatsApp: https://wa.me/902122228844
 
 ## 联系方式（已有 · 原值照录）
 
@@ -217,12 +231,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
+- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

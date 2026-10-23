@@ -24,7 +24,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-23
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -125,6 +125,20 @@ updated: 2026-10-21
 | ? | 822 | 4 24 |  | A |  | Taiwan.xlsx#92 |
 | ? | 917 | 22mini |  | A |  | Taiwan.xlsx#92 |
 | ? | 1023 | dac |  | A |  | Taiwan.xlsx#92 |
+
+## 动态监控（自动 · 网站 / 社媒 / 代码库）
+
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-418/`；本节随档案重渲染刷新，实时看日志。
+
+| 源 | 类型 | 状态 | 最近变化 | 摘要 |
+|---|---|---|---|---|
+| [home](https://www.ctcu.com/zh-TW/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
+| [sitemap](https://www.ctcu.com/sitemap.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 71 条） |
+| [news_1](https://www.ctcu.com/zh-TW/news/index.html) | html | 待首轮 | — | 导航「新聞稿」 |
+| [news_2](https://www.ctcu.com/zh-TW/news/news-036.html) | html | 待首轮 | — | 导航「全面就緒，迎接歐盟 CRA 資安通報新規」 |
+
+- **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ctcu.com%2Fzh-TW%2F；X/Twitter: https://twitter.com/intent/tweet?text=%E4%B8%BB%E5%90%91%E4%BD%8D%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8+%7C+%E4%B8%BB%E5%90%91%E4%BD%8D%E7%A7%91%E6%8A%80%E6%98%AF%E5%8F%B0%E7%81%A3%E7%B6%B2%E8%B7%AF%E9%80%9A%E8%A8%8A%E7%94%A2%E5%93%81%E8%A3%BD%E9%80%A0%E5%95%86+%28%E5%8C%85%E5%90%AB%E7%AC%AC2%E5%B1%A4%E6%8F%9B%E6%A9%9F%2C+TDM%2C+%E8%BD%89%E7%99%BC%E5%99%A8%E3%80%81%E5%B7%A5%E6%A5%AD%E7%B4%9A%E4%B9%99%E5%A4%AA%E7%B6%B2%E8%B7%AF%E4%BA%A4%E6%8F%9B%E5%99%A8%E3%80%81%E8%BD%89%E6%8F%9B%E5%99%A8%E3%80%81%E4%BE%9B%E9%9B%BB%E5%99%A8%E7%AD%89%29%E3%80%82&url=https%3A%2F%2Fwww.ctcu.com%2Fzh-TW%2F；LinkedIn: https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.ctcu.com%2Fzh-TW%2F&title=%E4%B8%BB%E5%90%91%E4%BD%8D%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8+%7C+%E4%B8%BB%E5%90%91%E4%BD%8D%E7%A7%91%E6%8A%80%E6%98%AF%E5%8F%B0%E7%81%A3%E7%B6%B2%E8%B7%AF%E9%80%9A%E8%A8%8A%E7%94%A2%E5%93%81%E8%A3%BD%E9%80%A0%E5%95%86+%28%E5%8C%85%E5%90%AB%E7%AC%AC2%E5%B1%A4%E6%8F%9B%E6%A9%9F%2C+TDM%2C+%E8%BD%89%E7%99%BC%E5%99%A8%E3%80%81%E5%B7%A5%E6%A5%AD%E7%B4%9A%E4%B9%99%E5%A4%AA%E7%B6%B2%E8%B7%AF%E4%BA%A4%E6%8F%9B%E5%99%A8%E3%80%81%E8%BD%89%E6%8F%9B%E5%99%A8%E3%80%81%E4%BE%9B%E9%9B%BB%E5%99%A8%E7%AD%89%29%E3%80%82
 
 ## 联系方式（已有 · 原值照录）
 
@@ -234,12 +248,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 41）
+- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 41）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

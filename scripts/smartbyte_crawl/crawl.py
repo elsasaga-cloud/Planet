@@ -70,7 +70,8 @@ v3.2（2026-10-22，T29-U13：Simon 要求把 SmartByte / HRUI / Hohunet 官网�
 v3.3（2026-10-23，T29-U18：成单客户活跃平台监控）：
   scripts/web_watch/RUN_ON_CRAWL 含 WATCH_ONLY=1 时，本工作流的这次运行只执行 scripts/web_watch/watch.py（19 家成单客户 + NYNEX 的
   RSS / 网页 / sitemap / GitHub / JSON 源抓取 + 比对 + 提交 data/customer_watch/），不爬站、不动 data/smartbyte_site_raw。
-  改回 WATCH_ONLY=0 即恢复 v3.2 行为。监控触发序号 #1：2026-10-23 首轮基线（02:54Z，63 源 / 15 失败）；#2：2026-10-23T03:04:49Z 修正 15 个失败源后的第二轮。
+  改回 WATCH_ONLY=0 即恢复 v3.2 行为。监控触发序号 #1：2026-10-23 首轮基线（02:54Z，63 源 / 15 失败）；#2：2026-10-23T03:04:49Z 修正 15 个失败源后的第二轮；
+  #3：2026-10-23 U19 v3.4 —— watch.py 合并 A/B 面层（targets_auto.json，1,100+ 家 / 2,700 源，12 线程），RUN_ON_CRAWL 新增 LAYER=，首次全层运行 = A/B 基线。
 """
 import hashlib
 import json
@@ -1532,11 +1533,25 @@ def _watch_only_flag():
         return False
 
 
+def _watch_layer():
+    """RUN_ON_CRAWL 里的 LAYER=…（缺省 all）。v3.4（T29-U19）：面层 A/B 加入后用它控制本次跑哪几层。"""
+    flag = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "web_watch", "RUN_ON_CRAWL")
+    try:
+        with open(flag, encoding="utf-8") as f:
+            for ln in f:
+                if ln.strip().startswith("LAYER="):
+                    return ln.strip().split("=", 1)[1].strip() or "all"
+    except OSError:
+        pass
+    return "all"
+
+
 def _run_customer_watch():
     script = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "web_watch", "watch.py")
-    log("[watch] WATCH_ONLY=1 → python scripts/web_watch/watch.py（成单客户活跃平台监控），不爬站")
+    layer = _watch_layer()
+    log(f"[watch] WATCH_ONLY=1 → python scripts/web_watch/watch.py --layer {layer}（客户动态监控：成单精选层 + A/B 面层），不爬站")
     try:
-        r = subprocess.run([sys.executable, os.path.abspath(script)], check=False, timeout=3600)
+        r = subprocess.run([sys.executable, os.path.abspath(script), "--layer", layer], check=False, timeout=5400)
         log(f"[watch] exit {r.returncode}")
     except Exception as e:  # noqa: BLE001
         log(f"[watch] failed: {e!r}")

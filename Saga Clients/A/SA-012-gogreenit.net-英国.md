@@ -155,6 +155,20 @@ updated: 2026-10-23
 
 > 口径：同一单号多份文件取 CI > PI（最新修订）> Quotation；Quotation 行不计入销售合计；明细见 `data/pi_orders/销售单据明细.csv`、采购价见 `采购合同明细.csv`；原件在 Release `files-pi_2026-10`。
 
+## 动态监控（自动 · 网站 / 社媒 / 代码库）
+
+- **监控层**：成单精选层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T03:05:43Z　|　**最近变化**：2026-10-23T02:54:23Z
+- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-012/`；本节随档案重渲染刷新，实时看日志。
+
+| 源 | 类型 | 状态 | 最近变化 | 摘要 |
+|---|---|---|---|---|
+| [mastodon_instance](https://mammut.gogreenit.net/api/v1/instance) | json | HTTP 200 | 2026-10-23T02:54:23Z | version="4.7.3"; stats={"user_count": 9, "status_count": 16381, "domain_count": 285; conta |
+| [chewie_rss](https://mammut.gogreenit.net/@chewie.rss) | rss | HTTP 200 | 2026-10-23T02:54:23Z | 20 条；最新：Thu, 22 Oct 2026 18:04:59  |
+| [home](http://gogreenit.net/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 2569 字符；首行：Go Green IT - Home |
+| [auto_home](https://gogreenit.net/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
+
+- **人工定期看（登录墙，不自动抓）**：wiki.sogo.nu 署名 Chris.Clemson@GoGreenIT.Net（2017）；xmpp.org 2026-05 通讯提到 gogreenit.net；ytdl-patched 收录其 PeerTube 实例
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`info@gogreenit.net`〔企业邮箱；来源：用户表原值〕

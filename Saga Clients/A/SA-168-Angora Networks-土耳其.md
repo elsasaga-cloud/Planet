@@ -250,6 +250,22 @@ updated: 2026-10-23
 | Confidential :: Big Project on the way | 2025-05-09 | 2025-05-20 | 4 | 4 | 0 |
 | …共 30 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
+## 动态监控（自动 · 网站 / 社媒 / 代码库）
+
+- **监控层**：成单精选层　|　**自动源**：6 个　|　**数据截至**：2026-10-23T03:05:43Z　|　**最近变化**：2026-10-23T02:54:23Z
+- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-168/`；本节随档案重渲染刷新，实时看日志。
+
+| 源 | 类型 | 状态 | 最近变化 | 摘要 |
+|---|---|---|---|---|
+| [site_feed](https://www.angoranetworks.com/feed/) | rss | HTTP 200 | 2026-10-23T02:54:23Z | 10 条；最新：Wed, 06 Dec 2023 11:27:03 Angora Networks ® Veri Diyotu Çözümünde Ezber Bozan ModB |
+| [home_en](https://www.angoranetworks.com/?lang=en) | html | HTTP 200 | 2026-10-23T02:54:23Z | 2468 字符；首行：Mainpage - Angora Networks |
+| [verge_family](https://www.angoranetworks.com/verge-network-switch-family/?lang=en) | html | HTTP 200 | 2026-10-23T02:54:23Z | 3982 字符；首行：Verge Network Switch Family - Angora Networks |
+| [support_portal](https://support.angoranetworks.com/) | html | HTTP 522 | 2026-10-23T02:54:23Z | 在线文档/支持门户（2026-10-23 02:40Z Cloudflare 522 源站超时） |
+| [github_anwHub](https://github.com/anwHub) | github | HTTP 200 | 2026-10-23T02:54:23Z | Organization anwHub · 仓库 1 · 最近推送 2020-01-16T11:10:50Z |
+| [auto_home](https://angoranetworks.com/) | html | 待首轮 | — | 官网首页（T27 快照状态 unknown） |
+
+- **人工定期看（登录墙，不自动抓）**：https://www.linkedin.com/company/angora-networks（2,110 followers）；https://x.com/angoranetworks；https://www.instagram.com/angora_networks/；YouTube（频道 ID 待核：首轮 feed 404）: https://www.youtube.com/results?search_query=Angora+Networks
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`lkilic@angoranetworks.com`〔企业邮箱；来源：用户表原值〕

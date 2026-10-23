@@ -28,7 +28,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-22
+updated: 2026-10-23
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -135,6 +135,20 @@ updated: 2026-10-22
 | 10G Media Converter | 2024-09-12 | 2024-09-12 | 0 | 1 | 1 |
 | 24 port poe switch | 2024-08-12 | 2024-08-12 | 0 | 1 | 1 |
 | Commercial poe switch | 2024-07-16 | 2024-07-16 | 0 | 1 | 1 |
+
+## 动态监控（自动 · 网站 / 社媒 / 代码库）
+
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-119/`；本节随档案重渲染刷新，实时看日志。
+
+| 源 | 类型 | 状态 | 最近变化 | 摘要 |
+|---|---|---|---|---|
+| [home](https://www.almaks.rs/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
+| [sitemap](https://www.almaks.rs/sitemap_index.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 77 条） |
+| [news_1](https://www.almaks.rs/novosti/standard-list/) | html | 待首轮 | — | 导航「Novosti」 |
+| [news_2](https://www.almaks.rs/portfolio-category/alarmni-sistemi/) | html | 待首轮 | — | 导航「Alarmni sistemi」 |
+
+- **人工定期看（登录墙，不自动抓）**：Instagram: https://www.instagram.com/explore/locations/1019880223/almaks/；Facebook: https://www.facebook.com/Almaks-144280382426041；LinkedIn: https://www.linkedin.com/company/almaks-security-systems/
 
 ## 联系方式（已有 · 原值照录）
 
@@ -243,12 +257,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 64）；人工/调研定级 → B
+- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 64）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

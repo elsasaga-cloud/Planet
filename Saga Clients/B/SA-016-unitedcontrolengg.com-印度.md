@@ -164,6 +164,22 @@ updated: 2026-10-23
 
 > 口径：同一单号多份文件取 CI > PI（最新修订）> Quotation；Quotation 行不计入销售合计；明细见 `data/pi_orders/销售单据明细.csv`、采购价见 `采购合同明细.csv`；原件在 Release `files-pi_2026-10`。
 
+## 动态监控（自动 · 网站 / 社媒 / 代码库）
+
+- **监控层**：成单精选层　|　**自动源**：6 个　|　**数据截至**：2026-10-23T03:05:43Z　|　**最近变化**：2026-10-23T02:54:23Z
+- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-016/`；本节随档案重渲染刷新，实时看日志。
+
+| 源 | 类型 | 状态 | 最近变化 | 摘要 |
+|---|---|---|---|---|
+| [site_feed](https://unitedcontrolengg.com/feed/) | rss | HTTP 200 | 2026-10-23T02:54:23Z | 10 条；最新：Wed, 21 Oct 2026 06:50:05 IP, NEMA, CE, UL Ratings Explained |
+| [home](https://unitedcontrolengg.com/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 7511 字符；首行：Industrial Automation Company in Greater Noida \| UCEIPL |
+| [auto_sitemap](https://unitedcontrolengg.com/sitemap_index.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 783 条） |
+| [auto_news_1](https://unitedcontrolengg.com/blog/) | html | 待首轮 | — | 导航「Blog」 |
+| [auto_news_2](https://unitedcontrolengg.com/project/) | html | 待首轮 | — | 导航「Project」 |
+| [auto_youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCn-YzhIGfuNFKbOqk-45gaA) | rss | 待首轮 | — | YouTube 频道 https://www.youtube.com/channel/UCn-YzhIGfuNFKbOqk-45gaA |
+
+- **人工定期看（登录墙，不自动抓）**：https://in.linkedin.com/company/united-control-engineers-india-pvt-ltd（989 followers）；https://www.facebook.com/unitedcontrolengg/；Pramendra Chaudhary（Director，IndiaMART）；Facebook: https://www.facebook.com/unitedcontrolengg；LinkedIn: https://www.linkedin.com/company/u-c-e-i-p-l；Instagram: https://www.instagram.com/unitedcontrolengg/；LinkedIn: https://www.linkedin.com/company/u-c-e-i-p-l/；LinkedIn: https://www.linkedin.com/company/united-control-engineers-india-pvt-ltd/
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`sumitagrwal@yahoo.com`〔免费邮箱；来源：用户表原值〕

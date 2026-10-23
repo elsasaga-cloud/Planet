@@ -113,6 +113,18 @@ updated: 2026-10-23
 |---|---|---|---|---|---|
 | Authorised Distributorship - India | 2023-09-20 | 2023-09-20 | 1 | 0 | 0 |
 
+## 动态监控（自动 · 网站 / 社媒 / 代码库）
+
+- **监控层**：成单精选层　|　**自动源**：2 个　|　**数据截至**：2026-10-23T03:05:43Z　|　**最近变化**：2026-10-23T03:05:43Z
+- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1334/`；本节随档案重渲染刷新，实时看日志。
+
+| 源 | 类型 | 状态 | 最近变化 | 摘要 |
+|---|---|---|---|---|
+| [home](https://fastball.in/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 9609 字符；首行：Fastball |
+| [indiamart](https://www.indiamart.com/fastball/) | html | HTTP 429 | 2026-10-23T03:05:43Z | IndiaMART 店铺（有 FBC-204GP 4 口工业交换机 = 贴我方 STC-204GP 同款命名；20 口千兆光纤交换机） |
+
+- **人工定期看（登录墙，不自动抓）**：TradeIndia 店铺；GST 07AJJPR5445G1ZX，个体 proprietorship 2021；站点无 RSS（/feed/ 404、?feed=rss2 返回 HTML）: https://fastball.in/
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`office@fastball.in`〔企业邮箱；来源：用户表原值〕

@@ -161,6 +161,20 @@ updated: 2026-10-23
 |---|---|---|---|---|---|
 | PoE Switch | 2024-06-14 | 2024-06-21 | 4 | 6 | 12 |
 
+## 动态监控（自动 · 网站 / 社媒 / 代码库）
+
+- **监控层**：成单精选层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T03:05:43Z　|　**最近变化**：2026-10-23T02:54:23Z
+- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-007/`；本节随档案重渲染刷新，实时看日志。
+
+| 源 | 类型 | 状态 | 最近变化 | 摘要 |
+|---|---|---|---|---|
+| [home](https://xspectechnology.com/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 3772 字符；首行：XSPec Malaysia - Industrial Technology Catalog |
+| [security_cat](https://xspectechnology.com/category/military-defence-security) | html | HTTP 200 | 2026-10-23T02:54:23Z | 4198 字符；首行：Military, Defence & Security Brands - XSPec Malaysia |
+| [auto_sitemap](https://xspectechnology.com/sitemap.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 70 条） |
+| [auto_news_1](https://xspectechnology.com/news) | html | 待首轮 | — | 导航「News」 |
+
+- **人工定期看（登录墙，不自动抓）**：https://www.linkedin.com/in/sugitowibawa/（CEO，1K followers，2026-05 仍活跃）；MINDTCE 2026-11-17/18 参展商页 mindtce.com.my/companyprofile/B2611000001；LinkedIn: https://www.linkedin.com/company/xspec-technology/
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`sugito@xspec.com.my`〔企业邮箱；来源：用户表原值〕

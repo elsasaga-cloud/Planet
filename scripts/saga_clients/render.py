@@ -35,6 +35,78 @@ def _load_pi():
 
 PI_ORDERS = _load_pi()
 
+WATCH_DIR = os.path.join(ROOT, 'data', 'customer_watch')      # web_watch 产物（运行器上跑，state.json 每轮覆盖）
+WATCH_CFG = os.path.join(ROOT, 'scripts', 'web_watch')
+
+
+def _load_watch():
+    """T29-U19：把监控清单（targets.json 精选层 + targets_auto.json 面层）和最近状态（state.json）按客户码合并。"""
+    out = {}
+    def _j(p):
+        return json.load(open(p, encoding='utf-8')) if os.path.exists(p) else None
+    cur = _j(os.path.join(WATCH_CFG, 'targets.json')) or {'customers': []}
+    auto = _j(os.path.join(WATCH_CFG, 'targets_auto.json')) or {'customers': []}
+    state = _j(os.path.join(WATCH_DIR, 'state.json')) or {}
+    for c in cur['customers']:
+        o = out.setdefault(c['code'], {'layer': '成单精选层', 'sources': [], 'manual': []})
+        o['sources'] += [dict(x) for x in c['sources']]
+        o['manual'] += [m if isinstance(m, str) else f"{m.get('label')}: {m.get('url')}" for m in c.get('manual', [])]
+    for c in auto['customers']:
+        o = out.setdefault(c['code'], {'layer': f"{c.get('grade', 'B')} 级面层", 'sources': [], 'manual': []})
+        have = {x.get('url') or x.get('login') for x in o['sources']}
+        for x in c['sources']:
+            if (x.get('url') or x.get('login')) in have:
+                continue
+            x = dict(x)
+            if o['layer'] == '成单精选层':
+                x['id'] = 'auto_' + x['id']
+            o['sources'].append(x)
+        for m in c.get('manual', []):
+            t = m if isinstance(m, str) else f"{m.get('label')}: {m.get('url')}"
+            if t not in o['manual']:
+                o['manual'].append(t)
+    meta = state.get('_meta') or {}
+    for code, o in out.items():
+        if meta.get(code, {}).get('feed_auto'):
+            o['sources'].append({'id': 'feed_auto', 'kind': 'rss', 'url': meta[code]['feed_auto'], 'note': '首页自动发现的 feed'})
+        o['meta'] = meta.get(code) or {}
+        for x in o['sources']:
+            x['state'] = state.get(f"{code}/{x['id']}") or {}
+    return out
+
+
+WATCH = _load_watch()
+
+
+def fmt_watch(ent):
+    """动态监控（自动）：列出该客户被监控的源、最近状态、最近变化；只读事实，不做判断。"""
+    w = WATCH.get(ent['code'])
+    if not w:
+        return ''
+    L = []
+    fetched = [x['state'].get('fetched_at') for x in w['sources'] if x['state'].get('fetched_at')]
+    last_change = max([x['state'].get('last_change_at') or '' for x in w['sources']] + [''])
+    note = w['meta'].get('last_change_note') or ''
+    L.append(f"- **监控层**：{w['layer']}　|　**自动源**：{len(w['sources'])} 个　|　**数据截至**：{max(fetched) if fetched else '尚未跑过首轮（清单已就位，等运行器基线）'}"
+             + (f"　|　**最近变化**：{last_change}" if last_change and last_change != '-' else ''))
+    if note:
+        L.append(f"- **最近变化摘要**：{md_escape(note)}")
+    L.append('- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/' + ent['code'] + '/`；本节随档案重渲染刷新，实时看日志。')
+    L.append('')
+    L.append('| 源 | 类型 | 状态 | 最近变化 | 摘要 |')
+    L.append('|---|---|---|---|---|')
+    for x in w['sources'][:10]:
+        st = x['state']
+        status = st.get('error') or (f"HTTP {st.get('status')}" if st.get('status') else '待首轮')
+        url = x.get('url') or ('https://github.com/' + x.get('login', ''))
+        L.append(f"| [{x['id']}]({url}) | {x['kind']} | {md_escape(str(status))[:60]} | {st.get('last_change_at', '—')} | {md_escape(st.get('summary') or x.get('note') or '')[:90]} |")
+    if len(w['sources']) > 10:
+        L.append(f"| …共 {len(w['sources'])} 个源（全表见 `data/customer_watch/当前状态*.md`） | | | | |")
+    if w['manual']:
+        L.append('')
+        L.append('- **人工定期看（登录墙，不自动抓）**：' + '；'.join(md_escape(m) for m in w['manual'][:8]))
+    return '\n'.join(L)
+
 
 def load_digest():
     if not os.path.exists(DIGEST_JSON):
@@ -954,6 +1026,11 @@ def render_one(ent):
         lines.append('## 邮箱往来（S 邮箱 · 自动汇总）')
         lines.append('')
         lines.append(fmt_gmail(ent))
+        lines.append('')
+    if WATCH.get(code):
+        lines.append('## 动态监控（自动 · 网站 / 社媒 / 代码库）')
+        lines.append('')
+        lines.append(fmt_watch(ent))
         lines.append('')
     lines.append('## 联系方式（已有 · 原值照录）')
     lines.append('')

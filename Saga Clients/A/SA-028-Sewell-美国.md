@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-21
+updated: 2026-10-23
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -149,6 +149,19 @@ updated: 2026-10-21
 | ? | 78 | 48口 |  | A |  | US.xlsx#263 |
 | ? | 92 | 24poe |  | A |  | US.xlsx#263 |
 
+## 动态监控（自动 · 网站 / 社媒 / 代码库）
+
+- **监控层**：A 级面层　|　**自动源**：3 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-028/`；本节随档案重渲染刷新，实时看日志。
+
+| 源 | 类型 | 状态 | 最近变化 | 摘要 |
+|---|---|---|---|---|
+| [home](https://sewelldirect.com/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
+| [sitemap](https://sewelldirect.com/sitemap.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 121 条） |
+| [youtube](https://www.youtube.com/user/sewelldirect) | youtube_handle | 待首轮 | — | YouTube（运行器解析 channelId 后转 RSS） |
+
+- **人工定期看（登录墙，不自动抓）**：Facebook: https://facebook.com/sewelldirect；Instagram: https://instagram.com/sewelldirect；X/Twitter: https://x.com/sewelldirect
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`susan@sewelldev.com`〔企业邮箱；来源：用户表原值〕
@@ -263,12 +276,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-04**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-06**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 88）
+- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 88）
 
 ---
 
-*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

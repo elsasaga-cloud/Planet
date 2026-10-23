@@ -248,6 +248,20 @@ updated: 2026-10-23
 | Industrial PoE Switch | 2025-01-06 | 2025-01-06 | 1 | 2 | 4 |
 | …共 17 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
+## 动态监控（自动 · 网站 / 社媒 / 代码库）
+
+- **监控层**：成单精选层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T03:05:43Z　|　**最近变化**：2026-10-23T03:05:43Z
+- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-001/`；本节随档案重渲染刷新，实时看日志。
+
+| 源 | 类型 | 状态 | 最近变化 | 摘要 |
+|---|---|---|---|---|
+| [home](https://asteldigicom.com/) | html | HTTP 200 | 2026-10-23T03:05:43Z | 3630 字符；首行：Astel Digicom I House of all kinds of cables and connectors |
+| [contact](https://asteldigicom.com/contactu.html) | html | HTTP 200 | 2026-10-23T02:54:23Z | 6213 字符；首行：JOIN OUR NETWORK OF SUBSCRIBERS |
+| [auto_sitemap](https://asteldigicom.com/sitemap.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 500 条） |
+| [auto_news_1](https://asteldigicom.com/blog) | html | 待首轮 | — | 导航「Blog」 |
+
+- **人工定期看（登录墙，不自动抓）**：https://www.linkedin.com/company/astel-digicom-electronics-llc（112 followers；Sanjay Singla GM 332 followers；Yash Shahani / Rehman Rahim 销售）
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`asteldig@asteldigicom.ae`〔企业邮箱；来源：用户表原值〕
