@@ -1,0 +1,27 @@
+{
+ "id": "196ca1e02d95c29d",
+ "thread_id": "196b8fd04d036d17",
+ "message_id_header": "<02ad01dbc416$095cc180$1c164480$@softnetworks.net>",
+ "from": "<nealc@softnetworks.net>",
+ "to": "'Elsa from Saga Telecom' <e.sagatelecom@gmail.com>",
+ "cc": null,
+ "subject": "RE: 90W PoE Managed Switch",
+ "date": "Tue, 13 May 2025 10:48:06 -0400",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "What is the price for this one?\n\nThank you.\n\nNeal Cennamo\n\nSoftnetworks.net\n\n201-688-3750\n\nFrom: Elsa from Saga Telecom <e.sagatelecom@gmail.com>\nSent: Monday, May 12, 2025 9:58 AM\nTo: NealC@softnetworks.net\nSubject: 90W PoE Managed Switch\n\nHi, Neal,\n\nHow are you?\n\nThis is a Marvell based layer 2 managed PoE switch.\n\n1. Highly programmable GUI\n\n2. 2*PoE af/at/bt+6*PoE af/at, 240W budget\n\n3. Support PoE management\n\nIts mainly used in some high-end CCTV monitoring projects.\n\nIs it useful to you?\n\nThank you.\n\n--\n\nElsa\n\nSaga Telecom/OEM Factory\n\nConnecting, Converting, Creating\n\nTailored Marvell Managed Networking Solutions Provider",
+ "char_count": 701,
+ "attachments": [
+  {
+   "filename": "image001.jpg",
+   "mime_type": "image/jpeg",
+   "size": 25235
+  }
+ ],
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:53Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

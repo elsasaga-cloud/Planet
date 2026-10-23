@@ -1,0 +1,48 @@
+{
+ "id": "196aa876d0d17065",
+ "thread_id": "196aa876d0d17065",
+ "message_id_header": "<AM5PR03MB3108CE59B25436A72737A4B2D488A@AM5PR03MB3108.eurprd03.prod.outlook.com>",
+ "from": "Ismail Mohamed <ismail@3lines.com.sa>",
+ "to": "e.sagatelecom@gmail.com",
+ "cc": null,
+ "subject": "Req for Quote",
+ "date": "Wed, 7 May 2025 11:35:21 +0000",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Hello Team,\n\nI would like to request quotation for the following items:\n\nSerial No. / Category / Item / Unit / Item Description / Specifications / Quantity\n1 Spare Parts – Fiber optic transceiver to connect servers with data center switches – SFP (10G) Multi Mode – 20\n2 Spare Parts – same – SFP (10G) Single Mode – 20\n3 Spare Parts – same – SFP (10G) Single Mode – 8\n4 Spare Parts – same – SFP (10G) Multi Mode – 16\n5 Spare Parts – Stacking cable for network switches – STACK (10G) – 4\n6 Spare Parts – Stacking cable – STACK (40G) – 8\n7 Device – 48-port managed network switch, compatible with current environment, all accessories, manufacturer-approved warranty – Switch ICX7550 – 2\n8 Device – 48-port managed network switch (same) – Switch ICX7150 – 8\n9 Cables – UTP cable box, 0.2 cm gauge – 2000\n10 License – Wi-Fi device license, 1 x Platform License for MC-VA-1K – 1\n11 Cables – Long-distance fiber optic cable, 10 m Single Mode – 50\n12 Cables – Long-distance fiber optic cable, 15 m Single Mode – 50\n13 Cables – Network cable box, Roller Box UTP \"cat6\" – 10\n\nWe need specification sheet/data sheet and warranty details for each line item.\nPlease submit your offer on or before 13-May-25.\n\nRegards,\n\nEng. Mohamed Ismail\n\nProcurement Department\n\nTel: 011-2268022 Ext: 113\n Mob: +966 569747353\nismail@3lines.com.sa\nwww.3lines.com.sa\nOffice 203, 2nd floor Building no 2148, King Abdullah Branch Road, King Faisal Dist. Riyadh 13215, Saudi Arabia\n\n[CONFIDENTIALITY AND DISCLAIMER NOTICE — THREE LINES 标准免责声明，略]",
+ "char_count": 4395,
+ "attachments": [
+  {
+   "filename": "image001.png",
+   "mime_type": "image/png",
+   "size": 23225
+  },
+  {
+   "filename": "image002.png",
+   "mime_type": "image/png",
+   "size": 177
+  },
+  {
+   "filename": "image003.png",
+   "mime_type": "image/png",
+   "size": 170
+  },
+  {
+   "filename": "image004.png",
+   "mime_type": "image/png",
+   "size": 216
+  },
+  {
+   "filename": "image005.png",
+   "mime_type": "image/png",
+   "size": 352
+  }
+ ],
+ "note": "主动来询（非回复 Elsa 群发）；13 行表格已压成行式",
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:53Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

@@ -1,0 +1,32 @@
+{
+ "id": "1977c76bb25d0eb9",
+ "thread_id": "197264945973c64f",
+ "message_id_header": "<001d01dbdf4c$b230c210$16924630$@citsindia.com>",
+ "from": "<info@citsindia.com>",
+ "to": "'Elsa from Saga Telecom' <e.sagatelecom@gmail.com>, 'KD Brand Seeds' <sureshch1968@gmail.com>",
+ "cc": null,
+ "subject": "RE: 10G Media Converter",
+ "date": "Tue, 17 Jun 2025 11:27:23 +0530",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Price pls\n\nFrom: Elsa from Saga Telecom <e.sagatelecom@gmail.com>\nSent: 17 June 2025 10:50\nTo: KD Brand Seeds <sureshch1968@gmail.com>\nSubject: 10G Media Converter\n\nHi,\n\nHow are you?\n\nThis is a 10G Ethernet media converter for you.\n\nGood outlook and 14-slot rack mountable.\n\nPrice: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE, DC5~12V input, with power adapter.\n\nIs it useful to you?\n\nThank you.\n\n--\n\nElsa\n\nSaga Telecom/OEM Factory\n\nConnecting, Converting, Creating\n\nTailored Marvell Managed Networking Solutions Provider",
+ "char_count": 607,
+ "attachments": [
+  {
+   "filename": "image001.jpg",
+   "mime_type": "image/jpeg",
+   "size": 61538
+  },
+  {
+   "filename": "image002.jpg",
+   "mime_type": "image/jpeg",
+   "size": 21548
+  }
+ ],
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:53Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

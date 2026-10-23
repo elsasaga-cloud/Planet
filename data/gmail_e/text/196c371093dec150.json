@@ -1,0 +1,48 @@
+{
+ "id": "196c371093dec150",
+ "thread_id": "196aa876d0d17065",
+ "message_id_header": "<AM5PR03MB31085543BE3C4612A0BB0C79D497A@AM5PR03MB3108.eurprd03.prod.outlook.com>",
+ "from": "Ismail Mohamed <ismail@3lines.com.sa>",
+ "to": "e.sagatelecom@gmail.com",
+ "cc": null,
+ "subject": "RE: Req for Quote",
+ "date": "Mon, 12 May 2025 07:41:23 +0000",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Hello Team,\n\nKindly find the following details for your reference.\n\nSpecifications / Quantity\nSFP (10G) Multi Mode – 10G-SFPP-SR – 20\nSFP (10G) Single Mode – 10G-SFPP-LR – 20\nSFP (10G) Single Mode – 10G-SFPP-LR – 8\nSFP (10G) Multi Mode – 10G-SFPP-SR – 16\nSTACK (10G) – 10G-SFPP-TWX-P-0101 – 4\nSTACK (40G) – E40G-QSFP-C-0101 – 8\nSwitch ICX7550 – ICX7550-48P-E2 – 2\nSwitch ICX8100 – ICX8100-48P – 8\nUTP cable 0.2 cm gauge – CAT6 UTP cable – 2000m\n1 x Platform License for MC-VA-1K – 1\n10 m Single Mode – OC-SM-OS2-DUPX-LC/LC-10M – 50\n15 m Single Mode – OC-SM-OS2-DUPX-LC/LC-15M – 50\nRoller Box UTP \"cat6\" – CAT6 UTP cable 3M – 10\n\nPlease review and submit your offer at your earliest convenience.\n\nRegards,\n\nEng. Mohamed Ismail\n\nProcurement Department\n\nTel: 011-2268022 Ext: 113\n Mob: +966 569747353\nismail@3lines.com.sa\nwww.3lines.com.sa\nOffice 203, 2nd floor Building no 2148, King Abdullah Branch Road, King Faisal Dist. Riyadh 13215, Saudi Arabia\n\n[CONFIDENTIALITY AND DISCLAIMER NOTICE — THREE LINES 标准免责声明，略]\n\nFrom: Ismail Mohamed\nSent: Wednesday, May 7, 2025 2:35 PM\nTo: e.sagatelecom@gmail.com\nSubject: Req for Quote\n\n[原 RFQ 全文见 196aa876d0d17065]",
+ "char_count": 5736,
+ "attachments": [
+  {
+   "filename": "image006.png",
+   "mime_type": "image/png",
+   "size": 23225
+  },
+  {
+   "filename": "image007.png",
+   "mime_type": "image/png",
+   "size": 177
+  },
+  {
+   "filename": "image008.png",
+   "mime_type": "image/png",
+   "size": 170
+  },
+  {
+   "filename": "image009.png",
+   "mime_type": "image/png",
+   "size": 216
+  },
+  {
+   "filename": "image010.png",
+   "mime_type": "image/png",
+   "size": 352
+  }
+ ],
+ "note": "沙特 THREE LINES 采购：Ruckus ICX7550/ICX8100 + 光模块 + 线缆 + 许可证的整单 RFQ（原厂件，非 Saga 产品线）；表格已转为「规格 – 型号 – 数量」行",
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:53Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

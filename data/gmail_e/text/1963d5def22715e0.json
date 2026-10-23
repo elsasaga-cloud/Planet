@@ -1,0 +1,27 @@
+{
+ "id": "1963d5def22715e0",
+ "thread_id": "19574339b3e540df",
+ "message_id_header": "<CAOoVOZ9BRPcgM3EN0E616sxm2hS==jUMnk9O0D7rtsZfGpfU6g@mail.gmail.com>",
+ "from": "Musine Wafula <wafulamusine@gmail.com>",
+ "to": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "cc": "sibandaprofp@gmail.com",
+ "subject": "Re: Marvell Alleycat5 Solution",
+ "date": "Wed, 16 Apr 2025 09:51:13 +0300",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Am good ....\nAm interested\n\nOn Tue, Apr 15, 2025, 11:30 Elsa from Saga Telecom <e.sagatelecom@gmail.com>\nwrote:",
+ "char_count": 115,
+ "attachments": [
+  {
+   "filename": "Customization after log-in.jpg",
+   "mime_type": "image/jpeg",
+   "size": 138179
+  }
+ ],
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:53Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

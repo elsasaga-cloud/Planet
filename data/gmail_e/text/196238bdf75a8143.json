@@ -1,0 +1,28 @@
+{
+ "id": "196238bdf75a8143",
+ "thread_id": "195742db720d0cd4",
+ "message_id_header": "<00fe01dbaaab$5bb527d0$131f7770$@sinyu.com.tw>",
+ "from": "Amber <sales@sinyu.com.tw>",
+ "to": "'Elsa from Saga Telecom' <e.sagatelecom@gmail.com>, <info@baycom.com.tw>",
+ "cc": "'sy.trader' <trader@sinyu.com.tw>",
+ "subject": "RE: 90W PoE Managed Switch",
+ "date": "Fri, 11 Apr 2025 14:31:26 +0800",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Dear Elsa,\n\nHi, thank you so much for your latest RFQ. We will check and get back to you shortly.\n\nHave a nice day\n\nBest Regards\n\nAmber Hu\n\nC.C.  Josh Tsai\n\nSin Yu Technology Inc\n\nTEL: 886-6-5014093\n\nFAX: 886-6-5011442\n\n<https://www.sinyu.com.tw/> www.sinyu.com.tw\n\nFrom: Elsa from Saga Telecom [mailto:e.sagatelecom@gmail.com]\nSent: Friday, April 11, 2025 2:00 PM\nTo: info@baycom.com.tw\nSubject: 90W PoE Managed Switch\n\nHi,\n\nHow are you?\n\nThis is a Marvell based layer 2 managed PoE switch.\n\n1. Highly programmable GUI\n\n2. 2*PoE af/at/bt+6*PoE af/at, 240W budget\n\n3. Support PoE management\n\nIts mainly used in some high-end CCTV monitoring projects.\n\nIs it useful to you?\n\nThank you.\n\n--\n\nElsa\n\nSaga Telecom/OEM Factory\n\nConnecting, Converting, Creating\n\nTailored Marvell Managed Networking Solutions Provider",
+ "char_count": 914,
+ "attachments": [
+  {
+   "filename": "image001.jpg",
+   "mime_type": "image/jpeg",
+   "size": 25245
+  }
+ ],
+ "note": "台湾 Sin Yu（baycom.com.tw 关联）把推销当 RFQ",
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:53Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

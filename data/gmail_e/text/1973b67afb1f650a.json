@@ -1,0 +1,28 @@
+{
+ "id": "1973b67afb1f650a",
+ "thread_id": "197263472d0daf75",
+ "message_id_header": "<CAKL77h17931MdF-0GKC1kKQ6fp0Uc+na3WPCneRpeZn1EoEvJg@mail.gmail.com>",
+ "from": "Noman Asghar Microtech Inc <info@microtech.net.pk>",
+ "to": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "cc": "info@globalconnectsynergy.com",
+ "subject": "Re: 10G Media Converter",
+ "date": "Wed, 4 Jun 2025 19:45:25 +0500",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Dear Elsa,\n\nThese Product Are Not Available.\n\nRegards,\n\nOn Tue, 3 Jun 2025 at 12:57, Elsa from Saga Telecom <e.sagatelecom@gmail.com>\nwrote:",
+ "char_count": 155,
+ "attachments": [
+  {
+   "filename": "10G.jpg",
+   "mime_type": "image/jpeg",
+   "size": 36887
+  }
+ ],
+ "note": "Microtech（PK）把推销当成采购询价，回复「无货」",
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:53Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

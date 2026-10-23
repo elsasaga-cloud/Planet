@@ -1,0 +1,21 @@
+{
+ "id": "197367f9a4935b24",
+ "thread_id": "19727cfcb1e984cb",
+ "message_id_header": "<CADZZ-xa_gV3ervHNfs6imXxCkffxt-Rw8CTdemNLtiyaPyQYnQ@mail.gmail.com>",
+ "from": "dep. compras <depcomprascronte@gmail.com>",
+ "to": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "cc": null,
+ "subject": "Re: NEW SUPPLYER",
+ "date": "Tue, 3 Jun 2025 10:53:45 -0500",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Hi Elsa,\n\nThanks for your answer, I will check your quote.\n\nbest regards\n\nEdgar\n\nEl lun, 2 jun 2025 a la(s) 12:10 a.m., Elsa from Saga Telecom (\ne.sagatelecom@gmail.com) escribió:",
+ "char_count": 188,
+ "attachments": [],
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:53Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

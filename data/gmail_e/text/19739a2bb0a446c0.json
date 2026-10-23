@@ -1,0 +1,22 @@
+{
+ "id": "19739a2bb0a446c0",
+ "thread_id": "1972635d11a26f7d",
+ "message_id_header": "<CAHZ04TWzqd8n-3MC5QfjwnwBEX03Yj8GAtzgfCCT0hkEMTuiDQ@mail.gmail.com>",
+ "from": "sales eurotech <sales@eurotechindia.com>",
+ "to": "e.sagatelecom@gmail.com",
+ "cc": null,
+ "subject": "Re: Industrial PoE Switch",
+ "date": "Tue, 3 Jun 2025 23:30:54 -0700",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "",
+ "char_count": 0,
+ "attachments": [],
+ "note": "连接器返回空正文（text/html，char_count=0）；该发件人两封均为空，疑为自动回复/纯图片；待 Takeout 补全",
+ "text_source": "text/html",
+ "fetched": "2026-10-23T06:53Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

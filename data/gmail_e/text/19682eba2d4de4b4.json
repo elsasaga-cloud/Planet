@@ -1,0 +1,28 @@
+{
+ "id": "19682eba2d4de4b4",
+ "thread_id": "196579e2a8ae1bc0",
+ "message_id_header": "<01de01dbb938$e8f6ff10$bae4fd30$@softnetworks.net>",
+ "from": "<nealc@softnetworks.net>",
+ "to": "'Elsa from Saga Telecom' <e.sagatelecom@gmail.com>, <info@allisontecusa.com>",
+ "cc": null,
+ "subject": "RE: 8 Port Industrial PoE Switch",
+ "date": "Tue, 29 Apr 2025 15:00:01 -0400",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "I never buy Unmanaged.\n\nFrom: Elsa from Saga Telecom <e.sagatelecom@gmail.com>\nSent: Tuesday, April 29, 2025 2:12 PM\nTo: info@allisontecusa.com\nSubject: 8 Port Industrial PoE Switch\n\nHi,\n\nHow are you?\n\nThis is a Marvell based unmanaged 8 Port Gigabit PoE switch.\n\n1. 30W per port for outdoor IP cameras\n\n2. Support 250-meter PoE distance, PoE watchdog and DIP\n\n3. SFP/SC/FC/ST connector optional\n\nIs it useful to you?\n\nThank you.\n\n--\n\nElsa\n\nSaga Telecom/OEM Factory\n\nConnecting, Converting, Creating\n\nTailored Marvell Managed Networking Solutions Provider",
+ "char_count": 608,
+ "attachments": [
+  {
+   "filename": "image001.jpg",
+   "mime_type": "image/jpeg",
+   "size": 24536
+  }
+ ],
+ "note": "原信发往 info@allisontecusa.com，由 softnetworks.net 的 Neal Cennamo 回复（同一人/关联公司）",
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:53Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}
