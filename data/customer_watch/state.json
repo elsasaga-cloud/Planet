@@ -1,7 +1,7 @@
 {
  "SA-168/site_feed": {
   "kind": "rss",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "cb343e539b37f8d4f22e711dfa5b74c97f1fc30c",
   "items": {
@@ -58,7 +58,7 @@
  },
  "SA-168/home_en": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "4d71d56ccde510fc1dfbd48f490a955738381851",
   "items": {},
@@ -74,7 +74,7 @@
  },
  "SA-168/verge_family": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "1faac50b22f63f6a8ed298d29ab84437b5352217",
   "items": {},
@@ -90,7 +90,7 @@
  },
  "SA-168/support_portal": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 522,
   "hash": "c7107a93c265497755241be372b6162b7728bee8",
   "items": {},
@@ -100,7 +100,7 @@
   "fields": null,
   "channel_id": null,
   "final_url": "https://support.angoranetworks.com/",
-  "text": "angoranetworks.com | 522: Connection timed out\nConnection timed out\nError code 522\nVisit cloudflare.com for more information.\n2026-10-23 UTC\nYou\nBrowser\nWorking\nAshburn\nCloudflare\nWorking\nsupport.angoranetworks.com\nHost\nError\nWhat happened?\nThe initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed.\nWhat can I do?\nIf you're a visitor of this website:\nPlease try again in a few minutes.\nIf you're the owner of this website:\nContact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources. Additional troubleshooting information here.\nCloudflare\n•\nClick to reveal\n4.227.170.120\n•\nPerformance & security by Cloudflare",
+  "text": "angoranetworks.com | 522: Connection timed out\nConnection timed out\nError code 522\nVisit cloudflare.com for more information.\n2026-10-23 UTC\nYou\nBrowser\nWorking\nChicago\nCloudflare\nWorking\nsupport.angoranetworks.com\nHost\nError\nWhat happened?\nThe initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed.\nWhat can I do?\nIf you're a visitor of this website:\nPlease try again in a few minutes.\nIf you're the owner of this website:\nContact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources. Additional troubleshooting information here.\nCloudflare\n•\nClick to reveal\n64.236.140.177\n•\nPerformance & security by Cloudflare",
   "last_change_at": "2026-10-23T02:54:23Z",
   "first_seen": "2026-10-23T02:54:23Z"
  },
@@ -122,7 +122,7 @@
  },
  "SA-168/github_anwHub": {
   "kind": "github",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "0c94598cb249f691f50043b348cf5e26fc7f5bbf",
   "items": {
@@ -156,23 +156,23 @@
  },
  "SB-473/media_center": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
-  "hash": null,
+  "hash": "4bc1a498fd4f9fe680adab17b723eabae35e3686",
   "items": {},
-  "summary": null,
-  "error": "error: global flags not at the start of the expression at position 21",
+  "summary": "3241 字符；首行：Kariyer",
+  "error": null,
   "profile": null,
   "fields": null,
   "channel_id": null,
   "final_url": "https://netas.com.tr/medya-merkezi",
-  "text": "",
-  "last_change_at": "2026-10-23T02:54:23Z",
+  "text": "Kariyer\nİletişim\nMENU MENU\nÜrünler\nÜRÜN AİLEMİZLE SİZE ÖZEL ÇÖZÜMLER SUNUYORUZ.\nYerli Bulut Sunucu Serisi\nNetaş N3 Bulut Sunucu\nNetaş N4 Bulut Sunucu\nNetaş N4 NCS6712\nNetaş N4 NCS6712A\nNetaş N4 NCS6722\nNetaş N4 NCS6722A\nNetaş N4 NCS6742\nNetaş N4 NCS6742A\nNetaş N4 NCS6744\nNesnelerin İnterneti (IOT) ION\nServis Yönetimi Mobi-fi\nEtkinlik Yönetimi ve Bilet Satışı Akıllı Etkinlik Yönetimi\nYüksek Güvenlikli Medya Platformu NOVA S/COM\nEnerji Yönetimi NEOS Photon\nSu Sayaç Yönetimi NEOS Hydro\nSayaç Okuma Yönetimi NEOS Osos\nTest Yönetim Aracı VISIUM Manage\nYük Performans Testi VISIUM Load\nMobil Cihaz Parkuru VISIUM Farm\nBDD Tabanlı Test Otomasyonu VISIUM Go\nÇözümler & Hizmetler\nİHTİYACINIZA ÖZEL ÇÖZÜMLERİMİZ İLE SİZE DEĞER KATIYORUZ.\nÇözümler\nHizmetler\nSiber Güvenlik Çözümleri\nYeni Nesil Veri Merkezi\nYerlileştirme Çözümleri\nMobil Genişbant Çözümleri\nSAYEM Akıllı Şehir Konsorsiyumu\nKurumsal Çözümler\nKamu Çözümleri\nUluslararası Pazarlar\nTelekomünikasyon Çözümleri\nStratejik İletişim Çözümleri\nYönetilen Hizmetler\nSiber Güvenlik Operasyon Merkezi\nNetaş Ağ Operasyon Merkezi\nBilişim Destek Hizmetleri (BDH)\nÇevresel Test Hizmetleri\nBlog\nNetaş Academy\nTR\nEN\nFR\nMedya Merkezi\nLOGOLAR\nBÜLTENLER\nKURUMSAL FİLM\nKurumsal Logolar\nNetaş Kurumsal Logo\nİndir\nNetaş BT Logo\nİndir\nNetaş Platform\nİndir\nBDH Logo\nİndir\nBültenler\nNetaş, 2026’nın ilk yarısında gelirlerini ve kârlılığını artırdı\n2026'nın ilk yarısında siparişlerini yüzde 96 artışla 11 milyar TL'ye, satış gelirleri ise yüzde 55 artışla 8,6 milyar TL'ye çıkaran...\n15 Ağustos 2026\nNetaş’ta Üst Düzey Atama: Yönetim Kurulu Başkanlığı Görevine Zhi Ling Getirildi\nNetaş’ta Yönetim Kurulu Başkanlığı Görev Değişimi Türkiye’nin önde gelen teknoloji şirketlerinden Netaş’ta Yönetim Kurulu Başkanlığı görevinde değişim gerçekleşti. Şirketin Yönetim...\n3 Ağustos 2026\nTurkcell ve ZTE/Netaş’tan 5G ve Wi-Fi 7 Destekli Yeni Nesil Superbox İş Birliği\nTurkcell ve ZTE/Netaş, 5G ve Wi-Fi 7 destekli yeni nesil modem için güçlerini birleştirdi. İş birliği kapsamında geliştirilen 5G Superbox...\n2 Nisan 2026\nNetaş, 2025 Yıl Sonu Satış Gelirlerini Yüzde 31 Artırarak 12 Milyar TL’ye Ulaştırdı\nKüresel ölçekte yapay zekâ destekli ağ teknolojilerinin yaygınlaştığı, bulut altyapılarının ölçeklendiği ve 5G’ye hazırlık sürecinin hız kazandığı bir dönemde Netaş;...\n11 Mart 2026\nNetaş, 2025 Üçüncü Çeyrek Rakamlarını Açıkladı\nKöklü mühendislik kabiliyeti, stratejik iş birlikleri ve yerli üretim gücüyle öne çıkan Netaş, 2025 yılının dokuz aylık döneminde satış gelirlerini...\n7 Kasım 2025\nİkinci Çeyrek sonuçlarını açıklayan Netaş, 5G ve Yerli Üretim Odaklı Çalışmalarını Sürdürdü\nİkinci Çeyrek sonuçlarını açıklayan Netaş, 5G ve Yerli Üretim Odaklı Çalışmalarını Sürdürdü 2025 ikinci çeyreğinde satış gelirlerini yüzde 42 artıran...\n13 Ağustos 2025\n1\n2\n3\n…\n33\nSonraki »\nYenişehir Mahallesi Osmanlı Bulvarı Aeropark Sitesi B Blok No:11B İç Kapı No:40 PENDİK/İSTANBUL\nFacebook-f\nX-twitter\nLinkedin\nYoutube\nInstagram\nMenü\nÜrünler\nÇözümler & Hizmetler\nNetaş Academy\nBlog\nKURUMSAL\nNetaş Hakkında\nYatırımcı İlişkileri\nMedya Merkezi\nYayınlar\nİnsan Kaynakları\nBize Ulaşın\nTüm Hakları Saklıdır – © Netaş Telekomünikasyon A.Ş. 2020\nVeri Koruma Görevlisi\nKVKK Bilgilendirme\nBilgi Toplumu Hizmetleri\nNetaş Bildirim Hattı",
+  "last_change_at": "2026-10-23T03:05:43Z",
   "first_seen": "2026-10-23T02:54:23Z"
  },
  "SB-473/home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "bd12307c2275835bad758266c02801a7b0dbb3b3",
   "items": {},
@@ -188,7 +188,7 @@
  },
  "SB-473/kap_search": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "741597b07aaac14658fe41d70d8ad1ef8c603488",
   "items": {},
@@ -204,7 +204,7 @@
  },
  "SA-170/domain_home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "f2f8375668a4ce876af5c6f84113ff9755d4d878",
   "items": {},
@@ -220,9 +220,9 @@
  },
  "SA-170/domain_rdap": {
   "kind": "json",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
-  "hash": "b486749f07abac7ea53c46208a4bda1877282d3a",
+  "hash": "1545f8a53a5e04ae9139d30823f7c6b170a143ee",
   "items": {},
   "summary": "status=[\"active\"]; events=[{\"eventAction\": \"registration\", \"eventDate\": \"2024-08-16T06; nameservers=[{\"objectClassName\": \"nameserver\", \"ldhName\": \"NS1.1STDOMAIN",
   "error": null,
@@ -246,7 +246,7 @@
     },
     {
      "eventAction": "last update of RDAP database",
-     "eventDate": "2026-10-23T02:55:50Z"
+     "eventDate": "2026-10-23T03:07:05Z"
     }
    ],
    "nameservers": [
@@ -262,13 +262,13 @@
   },
   "channel_id": null,
   "final_url": "https://rdap.verisign.com/com/v1/domain/belnetworks.com",
-  "text": "{\n \"events\": [\n  {\n   \"eventAction\": \"registration\",\n   \"eventDate\": \"2024-08-16T06:09:14Z\"\n  },\n  {\n   \"eventAction\": \"expiration\",\n   \"eventDate\": \"2027-08-16T06:09:14Z\"\n  },\n  {\n   \"eventAction\": \"last changed\",\n   \"eventDate\": \"2026-07-19T23:10:30Z\"\n  },\n  {\n   \"eventAction\": \"last update of RDAP database\",\n   \"eventDate\": \"2026-10-23T02:55:50Z\"\n  }\n ],\n \"nameservers\": [\n  {\n   \"ldhName\": \"NS1.1STDOMAINS.NET.NZ\",\n   \"objectClassName\": \"nameserver\"\n  },\n  {\n   \"ldhName\": \"NS2.1STDOMAINS.NET.NZ\",\n   \"objectClassName\": \"nameserver\"\n  }\n ],\n \"status\": [\n  \"active\"\n ]\n}",
-  "last_change_at": "2026-10-23T02:54:23Z",
+  "text": "{\n \"events\": [\n  {\n   \"eventAction\": \"registration\",\n   \"eventDate\": \"2024-08-16T06:09:14Z\"\n  },\n  {\n   \"eventAction\": \"expiration\",\n   \"eventDate\": \"2027-08-16T06:09:14Z\"\n  },\n  {\n   \"eventAction\": \"last changed\",\n   \"eventDate\": \"2026-07-19T23:10:30Z\"\n  },\n  {\n   \"eventAction\": \"last update of RDAP database\",\n   \"eventDate\": \"2026-10-23T03:07:05Z\"\n  }\n ],\n \"nameservers\": [\n  {\n   \"ldhName\": \"NS1.1STDOMAINS.NET.NZ\",\n   \"objectClassName\": \"nameserver\"\n  },\n  {\n   \"ldhName\": \"NS2.1STDOMAINS.NET.NZ\",\n   \"objectClassName\": \"nameserver\"\n  }\n ],\n \"status\": [\n  \"active\"\n ]\n}",
+  "last_change_at": "2026-10-23T03:05:43Z",
   "first_seen": "2026-10-23T02:54:23Z"
  },
  "SA-171/home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "f6495572c77bc00cf11237d883c2003ee0e70012",
   "items": {},
@@ -284,7 +284,7 @@
  },
  "SA-171/promos": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "b126f882e06e87cecddde1f84e82bdf50e823704",
   "items": {},
@@ -300,7 +300,7 @@
  },
  "SA-171/poe_products": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "d3873bbf0818be550c9c3dc022e1023af825371a",
   "items": {},
@@ -316,7 +316,7 @@
  },
  "SA-169/controlready_home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "a18b7aad4a938b54d93314c54b124fb6e66e2ec0",
   "items": {},
@@ -332,7 +332,7 @@
  },
  "SA-169/controlready_scout": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "d82e2cddffe5e7d2c92389eeb5925a3bcce34e9f",
   "items": {},
@@ -348,7 +348,7 @@
  },
  "SA-169/controlready_about": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "326fab2588174acf397c871815c9bbca16bd9889",
   "items": {},
@@ -364,12 +364,12 @@
  },
  "SA-169/jcs_home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 0,
   "hash": null,
   "items": {},
   "summary": null,
-  "error": "ConnectionError: HTTPSConnectionPool(host='clendenan.ca', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='clendenan.ca', port=443): Failed to resolve 'clendenan.ca' ([",
+  "error": "ConnectionError: HTTPConnectionPool(host='clendenan.ca', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='clendenan.ca', port=80): Failed to resolve 'clendenan.ca' ([Errn",
   "profile": null,
   "fields": null,
   "channel_id": null,
@@ -396,9 +396,9 @@
  },
  "SA-026/blog": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
-  "hash": "1b20d6ffe6848ce7cb1dee9b0c4d57d86ec1a0be",
+  "hash": "53f4d0ffeadf184a087f9e875d4ede1ec8bbbd44",
   "items": {},
   "summary": "3310 字符；首行：Бит.Блог",
   "error": null,
@@ -406,15 +406,15 @@
   "fields": null,
   "channel_id": null,
   "final_url": "https://bitbuk.ru/blog/",
-  "text": "Бит.Блог\n6 июля 2026\nОборудование под Вашим брендом\nМы принимаем заявки на изготовление любого оборудования из нашего каталога под вашим собственным брендом или OEM. Возможно нанесение логотипа, фирменная упаковка, кастомизация прошивок.\nВозможные варианты сотрудничества:\nВыпуск продукции без опознавательных знаков (OEM)\nВыпуск продукции в вашей фирменной упаковке (ODM)\nПроектирование и выпуск продукции по индивидуальным чертежам и параметрам\nПо всем вопросам просим обращаться по телефону +7 (343) 2010444 или info@bitbuk.ru\nАндрей Татарников нет комментариев\n5 июля 2026\nСканеры БитБук прошли проверку \"Честный Знак\"\nCканеры БитБук прошли проверку Национальной системы цифровой маркировки Честный знак. В процессе тестирования сканеры получили высокие оценки комиссии.\nМодели были добавлены на сайт честный знак в перечень протестированного оборудования .\nАндрей Татарников нет комментариев\n5 июля 2026\n​Технологии сканирования штрих-кода\nС момента изобретения пригодного для широкого использования штрих-кода прошло, грубо говоря, 40 лет. Сканер штрих-кода, как устройство для его считывания, имеет такую же историю.\nНам, привыкшим к бурному развитию технологий в компьютерной сфере, привыкшим к постоянному устареванию одних и приходу на их место более совершенных технологий, вероятно покажется странным, что за все эти 40 лет реальной успешности достигли всего 4 технологии сканирования штрих-кода.\nЧитать далее → Андрей Татарников нет комментариев\n3 записи\n1\nБлог\n2026\nИюль\nВсе записи\nСравнение\nПерейти к сравнению\nЛидеры продаж\nСканер штриховых кодов БитБук SC-60AWU {2D, ручной, проводной, USB-HID+USB-VCOM}\n5 900 ₽\nКоммутатор PoE PRIORAT PRT-SF-1226P\n24 900 ₽\nIP камера уличная Priorat PRT-BM30-F2.8 BASE\n8 261 ₽\nКоммутатор PoE PRIORAT PRT-SG-1226P\n32 120 ₽\nСканер штриховых кодов БитБук SC-72ABU {2D, ручной, беспроводной, USB (HID+VCOM)}\n10 200 ₽\nСетевой видеорегистратор Priorat PRT-NVR-16N2-12M-IQ PRO\n12 900 ₽\nIP камера купольная антивандальная Priorat PRT-DM80-F2.8-CA PRO\n21 120 ₽\nСканер штриховых кодов БитБук SC-82AWU {2D, стационарный, проводной, USB-HID+USB-VCOM}\nЦена по запросу\nРекомендуем\nКоммутатор PoE промышленный PRIORAT PRT-SG-1208PI\n14 600 ₽\nСканер штриховых кодов Priorat XB-33AWU {2D, ручной, проводной, USB-HID+USB-VCOM}\n3 200 ₽\nСетевой видеорегистратор Priorat PRT-NVR-16N2-12M-IQ PRO\n12 900 ₽\nКоммутатор PoE уличный PRIORAT PRT-SF-1110PO IP65\n9 400 ₽\nКоммутатор управляемый PRIORAT PRT-SG-1424M\n14 300 ₽\nДоставка по всей России\nОсуществляется транспортными компаниями по всей России\nОплата по счету\nМы работаем только с Юридическими лицами!\nПроизводство под заказ\nЕсли необходимого Вам товара нет в наличии, то мы готовы изготовить или привезти его под заказ с частичной предоплатой и по сниженной цене\nНаши фото\nПодпишитесь на новости!\nЯ согласен(a) с политикой обработки персональных данных\nО компании\nБитБук® - российский разработчик, производитель и дистрибьютор оборудования штрихового кодирования.\nМагазин\nОформить заказ\nЛичный кабинет\nКонтакты\nНижний Тагил, ул. Юности, 47А, стр. 1\nПн—Пт —\n+7 (3435) 37-87-87\n+7 (3435) 37-90-80\ninfo@priorat.ru\n© 2006 - 2026 ООО «ПРИОРАТ» ИНН 6671257478\n× Контакты\nНаши телефоны:\n+7 (3435) 37-87-87\n+7 (3435) 37-90-80\nНаш адрес:\nНижний Тагил, ул. Юности, 47А, стр. 1\nПн—Пт —\n×\n0 Избранные 0 Сравнение 0  ₽ Товар добавлен в корзину!",
-  "last_change_at": "2026-10-23T02:54:23Z",
+  "text": "Бит.Блог\n6 июля 2026\nОборудование под Вашим брендом\nМы принимаем заявки на изготовление любого оборудования из нашего каталога под вашим собственным брендом или OEM. Возможно нанесение логотипа, фирменная упаковка, кастомизация прошивок.\nВозможные варианты сотрудничества:\nВыпуск продукции без опознавательных знаков (OEM)\nВыпуск продукции в вашей фирменной упаковке (ODM)\nПроектирование и выпуск продукции по индивидуальным чертежам и параметрам\nПо всем вопросам просим обращаться по телефону +7 (343) 2010444 или info@bitbuk.ru\nАндрей Татарников нет комментариев\n5 июля 2026\nСканеры БитБук прошли проверку \"Честный Знак\"\nCканеры БитБук прошли проверку Национальной системы цифровой маркировки Честный знак. В процессе тестирования сканеры получили высокие оценки комиссии.\nМодели были добавлены на сайт честный знак в перечень протестированного оборудования .\nАндрей Татарников нет комментариев\n5 июля 2026\n​Технологии сканирования штрих-кода\nС момента изобретения пригодного для широкого использования штрих-кода прошло, грубо говоря, 40 лет. Сканер штрих-кода, как устройство для его считывания, имеет такую же историю.\nНам, привыкшим к бурному развитию технологий в компьютерной сфере, привыкшим к постоянному устареванию одних и приходу на их место более совершенных технологий, вероятно покажется странным, что за все эти 40 лет реальной успешности достигли всего 4 технологии сканирования штрих-кода.\nЧитать далее → Андрей Татарников нет комментариев\n3 записи\n1\nБлог\n2026\nИюль\nВсе записи\nСравнение\nПерейти к сравнению\nЛидеры продаж\nСканер штриховых кодов БитБук SC-72ABU {2D, ручной, беспроводной, USB (HID+VCOM)}\n10 200 ₽\nКоммутатор PoE PRIORAT PRT-SG-1226P\n32 120 ₽\nIP камера купольная антивандальная Priorat PRT-DM80-F2.8-CA PRO\n21 120 ₽\nСканер штриховых кодов БитБук SC-60AWU {2D, ручной, проводной, USB-HID+USB-VCOM}\n5 900 ₽\nСетевой видеорегистратор Priorat PRT-NVR-16N2-12M-IQ PRO\n12 900 ₽\nКоммутатор PoE PRIORAT PRT-SF-1226P\n24 900 ₽\nСканер штриховых кодов БитБук SC-82AWU {2D, стационарный, проводной, USB-HID+USB-VCOM}\nЦена по запросу\nIP камера уличная Priorat PRT-BM30-F2.8 BASE\n8 261 ₽\nРекомендуем\nКоммутатор PoE промышленный PRIORAT PRT-SG-1208PI\n14 600 ₽\nСканер штриховых кодов Priorat XB-33AWU {2D, ручной, проводной, USB-HID+USB-VCOM}\n3 200 ₽\nСетевой видеорегистратор Priorat PRT-NVR-16N2-12M-IQ PRO\n12 900 ₽\nКоммутатор PoE уличный PRIORAT PRT-SF-1110PO IP65\n9 400 ₽\nКоммутатор управляемый PRIORAT PRT-SG-1424M\n14 300 ₽\nДоставка по всей России\nОсуществляется транспортными компаниями по всей России\nОплата по счету\nМы работаем только с Юридическими лицами!\nПроизводство под заказ\nЕсли необходимого Вам товара нет в наличии, то мы готовы изготовить или привезти его под заказ с частичной предоплатой и по сниженной цене\nНаши фото\nПодпишитесь на новости!\nЯ согласен(a) с политикой обработки персональных данных\nО компании\nБитБук® - российский разработчик, производитель и дистрибьютор оборудования штрихового кодирования.\nМагазин\nОформить заказ\nЛичный кабинет\nКонтакты\nНижний Тагил, ул. Юности, 47А, стр. 1\nПн—Пт —\n+7 (3435) 37-87-87\n+7 (3435) 37-90-80\ninfo@priorat.ru\n© 2006 - 2026 ООО «ПРИОРАТ» ИНН 6671257478\n× Контакты\nНаши телефоны:\n+7 (3435) 37-87-87\n+7 (3435) 37-90-80\nНаш адрес:\nНижний Тагил, ул. Юности, 47А, стр. 1\nПн—Пт —\n×\n0 Избранные 0 Сравнение 0  ₽ Товар добавлен в корзину!",
+  "last_change_at": "2026-10-23T03:05:43Z",
   "first_seen": "2026-10-23T02:54:23Z"
  },
  "SA-026/switch_catalog": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
-  "hash": "c299ff903c5687b41bd60ac971d886d197a9c84d",
+  "hash": "b5f91f85f0b8c36975b2da2fcf52cca2ece0b32b",
   "items": {},
   "summary": "7126 字符；首行：Системы видеонаблюдения Коммутаторы купить в интернет-магазине Priorat по цене о",
   "error": null,
@@ -422,15 +422,15 @@
   "fields": null,
   "channel_id": null,
   "final_url": "https://bitbuk.ru/category/sistemy-videonablyudeniya/kommutatory/",
-  "text": "Системы видеонаблюдения Коммутаторы купить в интернет-магазине Priorat по цене от 1 100 руб.\nНижний Тагил, ул. Юности, 47А, стр. 1 Пн—Пт —Вход / Регистрация\nКаталог\nБит.Блог\nТехподдержка\nF.A.Q.\n+7 (3435) 37-87-87 +7 (3435) 37-90-80\nКаталог товаров Автоматизация торговли Сканеры штриховых кодов БитБук\nПринтеры этикеток\nЧековые принтеры\nТерминалы сбора данных (ТСД)\nРасходные материалы Лента текстильная\nБраслеты для принтера\nЭтикетки для принтера\nЛента красящая (Риббон, Ribbon)\nПреобразователи интерфейсов\nСистемы видеонаблюдения IP видеорегистраторы\nУличные IP камеры\nКупольные IP камеры\nPTZ IP камеры\nКоммутаторы\nСетевое PoE оборудование\nБлоки питания\nКабель\nАксессуары\nЛицензии Macroscop\nКаталог\nБит.Блог\nТехподдержка\nF.A.Q.\nЕще\nАвтоматизация торговли\nСканеры штриховых кодов БитБук\nПринтеры этикеток\nЧековые принтеры\nТерминалы сбора данных (ТСД)\nРасходные материалы\nЛента текстильная\nБраслеты для принтера\nЭтикетки для принтера\nЛента красящая (Риббон, Ribbon)\nПреобразователи интерфейсов\nСистемы видеонаблюдения\nIP видеорегистраторы\nУличные IP камеры\nКупольные IP камеры\nPTZ IP камеры\nКоммутаторы\nСетевое PoE оборудование\nБлоки питания\nКабель\nАксессуары\nЛицензии\nMacroscop\nГлавная\n→ Системы видеонаблюдения IP видеорегистраторы Уличные IP камеры Купольные IP камеры PTZ IP камеры Коммутаторы Сетевое PoE оборудование Блоки питания Кабель Аксессуары Лицензии\n→ Коммутаторы\nКоммутаторы\nКоммутаторы представлены в интернет-магазине bitbuk.ru в ассортименте. К Вашим услугам доставка по всей России, низкие цены и специальные условия для партнеров. Купить коммутаторы вы можете у нас в наличии и под заказ.\nВ наличии Артикул - PRT-SF-1118P\nКоммутатор PoE PRIORAT PRT-SF-1118P\n16 500 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - PRT-SF-1226P\nКоммутатор PoE PRIORAT PRT-SF-1226P\n24 900 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - PRT-SG-1226P\nКоммутатор PoE PRIORAT PRT-SG-1226P\n32 120 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - PRT-SG-1428PM\nКоммутатор PoE управляемый PRIORAT PRT-SG-1428PM\n49 200 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - PRT-SF-1110P\nКоммутатор PoE PRIORAT PRT-SF-1110P\n8 030 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - PRT-SG-1208PMI\nКоммутатор PoE промышленный управляемый PRIORAT PRT-SG-1208PMI\n24 400 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - GNT-P1026G6\nКоммутатор PoE GNT-P1026G6\n2*1000Mbps SFP Port + 4*1000Mbps PoE ports(Compatible uplink) + 20*1000Mbps PoE ports\nPorts(1-22)Support IEEE 802.3af/at protocol\nPorts(23-24)Support IEEE 802.3af/at/bt protocol\nФункция PoE Watchdog AI: Автоматическое обнаружение PoE устройств, автоматическая перезагрузка в случае сбоя.\n29 800 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - PRT-SG-1208PI\nКоммутатор PoE промышленный PRIORAT PRT-SG-1208PI\n14 600 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - PRT-SF-1110PO\nКоммутатор PoE уличный PRIORAT PRT-SF-1110PO IP65\n1*1000Mbps SFP Port + 2*1000Mbps Uplink ports + 2*1000Mbps PoE port(Compatible uplink) + 6*100Mbps PoE ports\nPorts(1-6)Support IEEE 802.3af/at protocol\nPorts(7-8)Support IEEE 802.3af/at/bt protocol\nФункция PoE Watchdog AI: Автоматическое обнаружение PoE устройств, автоматическая перезагрузка в...\n9 400 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - PRT-SG-1424M\nКоммутатор управляемый PRIORAT PRT-SG-1424M\n14 300 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - GNT-P4813V6\nКоммутатор PoE GNT-P4813V6\n■1*1000Mbps SFP Port+2*1000Mbps Uplink ports +2*\n1000Mbps PoE port(Compatible uplink) + 14*100Mbps PoE\nports\n■Ports(1-14)Support IEEE 802.3af/at protocol\n■Ports(15-16)Support IEEE 802.3af/at/bt protocol\n■6KV Lightning protection,8KV electro-static protection,Short-\ncircuit...\n19 800 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - PRT-SG-1208PM\nКоммутатор PoE управляемый PRIORAT PRT-SG-1208PM\n14 800 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - M-PS4200-V2\nКоммутатор PoE MATRIX M-PS4200-V2\n2 490 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - GNT-P9206EA\nКоммутатор PoE GNT-P9206EA\n2*100Mbps Uplink ports + 4*100Mbps PoE port\nPorts(1-3)Support IEEE 802.3af/at protocol\nPorts(4)Support IEEE 802.3af/at/bt protocol\nФункция PoE Watchdog AI: Автоматическое обнаружение PoE устройств, автоматическая перезагрузка в случае сбоя.\n1 100 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nНет в наличии Артикул - PRT-SF-1006P\nКоммутатор PoE PRIORAT PRT-SF-1006P\n4 290 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nАвтоматизация торговли\nСканеры штриховых кодов БитБук\nПринтеры этикеток\nЧековые принтеры\nТерминалы сбора данных (ТСД)\nРасходные материалы\nЛента текстильная\nБраслеты для принтера\nЭтикетки для принтера\nЛента красящая (Риббон, Ribbon)\nПреобразователи интерфейсов\nСистемы видеонаблюдения\nIP видеорегистраторы\nУличные IP камеры\nКупольные IP камеры\nPTZ IP камеры\nКоммутаторы\nСетевое PoE оборудование\nБлоки питания\nКабель\nАксессуары\nЛицензии\nMacroscop\nСравнение\nПерейти к сравнению\nЛидеры продаж\nСканер штриховых кодов БитБук SC-60AWU {2D, ручной, проводной, USB-HID+USB-VCOM}\n5 900 ₽\nIP камера купольная антивандальная Priorat PRT-DM80-F2.8-CA PRO\n21 120 ₽\nIP камера уличная Priorat PRT-BM30-F2.8 BASE\n8 261 ₽\nКоммутатор PoE PRIORAT PRT-SG-1226P\n32 120 ₽\nСетевой видеорегистратор Priorat PRT-NVR-16N2-12M-IQ PRO\n12 900 ₽\nКоммутатор PoE PRIORAT PRT-SF-1226P\n24 900 ₽\nСканер штриховых кодов БитБук SC-72ABU {2D, ручной, беспроводной, USB (HID+VCOM)}\n10 200 ₽\nСканер штриховых кодов Priorat XB-33ABH {2D, ручной, беспроводной, USB-HID+USB-VCOM}\n4 400 ₽\nРекомендуем\nКоммутатор PoE промышленный PRIORAT PRT-SG-1208PI\n14 600 ₽\nКоммутатор управляемый PRIORAT PRT-SG-1424M\n14 300 ₽\nСетевой видеорегистратор Priorat PRT-NVR-16N2-12M-IQ PRO\n12 900 ₽\nСканер штриховых кодов Priorat XB-33AWU {2D, ручной, проводной, USB-HID+USB-VCOM}\n3 200 ₽\nКоммутатор PoE уличный PRIORAT PRT-SF-1110PO IP65\n9 400 ₽\nПодбор по параметрам\nЦена, руб.\nМонтаж в стойку 19\" RACKMOUNT\nНет Да\nУправляемый\nНет Да\nКоличество портов PoE\nКоличество портов 10\\100\\1000 Mb\\s\nКоличество портов 10\\100 Mb\\s\nКоличество портов SFP\nКлиматические условия\nофисный уличный/промышленный\nПоказать Очистить\nБренды\nPRIORAT\nXprinter\nБитБук\nПоказать еще Скрыть\nПоследние новости\n6 июля 2026\nОборудование под Вашим брендом\n5 июля 2026\nСканеры БитБук прошли проверку \"Честный Зна...\n5 июля 2026\n​Технологии сканирования штрих-кода\nВсе новости\nНаши фото\nПодпишитесь на новости!\nЯ согласен(a) с политикой обработки персональных данных\nО компании\nБитБук® - российский разработчик, производитель и дистрибьютор оборудования штрихового кодирования.\nМагазин\nОформить заказ\nЛичный кабинет\nКонтакты\nНижний Тагил, ул. Юности, 47А, стр. 1\nПн—Пт —\n+7 (3435) 37-87-87\n+7 (3435) 37-90-80\ninfo@priorat.ru\n© 2006 - 2026 ООО «ПРИОРАТ» ИНН 6671257478\n× Контакты\nНаши телефоны:\n+7 (3435) 37-87-87\n+7 (3435) 37-90-80\nНаш адрес:\nНижний Тагил, ул. Юности, 47А, стр. 1\nПн—Пт —\n×\n0 Избранные 0 Сравнение 0  ₽ Товар добавлен в корзину!",
-  "last_change_at": "2026-10-23T02:54:23Z",
+  "text": "Системы видеонаблюдения Коммутаторы купить в интернет-магазине Priorat по цене от 1 100 руб.\nНижний Тагил, ул. Юности, 47А, стр. 1 Пн—Пт —Вход / Регистрация\nКаталог\nБит.Блог\nТехподдержка\nF.A.Q.\n+7 (3435) 37-87-87 +7 (3435) 37-90-80\nКаталог товаров Автоматизация торговли Сканеры штриховых кодов БитБук\nПринтеры этикеток\nЧековые принтеры\nТерминалы сбора данных (ТСД)\nРасходные материалы Лента текстильная\nБраслеты для принтера\nЭтикетки для принтера\nЛента красящая (Риббон, Ribbon)\nПреобразователи интерфейсов\nСистемы видеонаблюдения IP видеорегистраторы\nУличные IP камеры\nКупольные IP камеры\nPTZ IP камеры\nКоммутаторы\nСетевое PoE оборудование\nБлоки питания\nКабель\nАксессуары\nЛицензии Macroscop\nКаталог\nБит.Блог\nТехподдержка\nF.A.Q.\nЕще\nАвтоматизация торговли\nСканеры штриховых кодов БитБук\nПринтеры этикеток\nЧековые принтеры\nТерминалы сбора данных (ТСД)\nРасходные материалы\nЛента текстильная\nБраслеты для принтера\nЭтикетки для принтера\nЛента красящая (Риббон, Ribbon)\nПреобразователи интерфейсов\nСистемы видеонаблюдения\nIP видеорегистраторы\nУличные IP камеры\nКупольные IP камеры\nPTZ IP камеры\nКоммутаторы\nСетевое PoE оборудование\nБлоки питания\nКабель\nАксессуары\nЛицензии\nMacroscop\nГлавная\n→ Системы видеонаблюдения IP видеорегистраторы Уличные IP камеры Купольные IP камеры PTZ IP камеры Коммутаторы Сетевое PoE оборудование Блоки питания Кабель Аксессуары Лицензии\n→ Коммутаторы\nКоммутаторы\nКоммутаторы представлены в интернет-магазине bitbuk.ru в ассортименте. К Вашим услугам доставка по всей России, низкие цены и специальные условия для партнеров. Купить коммутаторы вы можете у нас в наличии и под заказ.\nВ наличии Артикул - PRT-SF-1118P\nКоммутатор PoE PRIORAT PRT-SF-1118P\n16 500 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - PRT-SF-1226P\nКоммутатор PoE PRIORAT PRT-SF-1226P\n24 900 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - PRT-SG-1226P\nКоммутатор PoE PRIORAT PRT-SG-1226P\n32 120 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - PRT-SG-1428PM\nКоммутатор PoE управляемый PRIORAT PRT-SG-1428PM\n49 200 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - PRT-SF-1110P\nКоммутатор PoE PRIORAT PRT-SF-1110P\n8 030 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - PRT-SG-1208PMI\nКоммутатор PoE промышленный управляемый PRIORAT PRT-SG-1208PMI\n24 400 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - GNT-P1026G6\nКоммутатор PoE GNT-P1026G6\n2*1000Mbps SFP Port + 4*1000Mbps PoE ports(Compatible uplink) + 20*1000Mbps PoE ports\nPorts(1-22)Support IEEE 802.3af/at protocol\nPorts(23-24)Support IEEE 802.3af/at/bt protocol\nФункция PoE Watchdog AI: Автоматическое обнаружение PoE устройств, автоматическая перезагрузка в случае сбоя.\n29 800 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - PRT-SG-1208PI\nКоммутатор PoE промышленный PRIORAT PRT-SG-1208PI\n14 600 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - PRT-SF-1110PO\nКоммутатор PoE уличный PRIORAT PRT-SF-1110PO IP65\n1*1000Mbps SFP Port + 2*1000Mbps Uplink ports + 2*1000Mbps PoE port(Compatible uplink) + 6*100Mbps PoE ports\nPorts(1-6)Support IEEE 802.3af/at protocol\nPorts(7-8)Support IEEE 802.3af/at/bt protocol\nФункция PoE Watchdog AI: Автоматическое обнаружение PoE устройств, автоматическая перезагрузка в...\n9 400 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - PRT-SG-1424M\nКоммутатор управляемый PRIORAT PRT-SG-1424M\n14 300 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - GNT-P4813V6\nКоммутатор PoE GNT-P4813V6\n■1*1000Mbps SFP Port+2*1000Mbps Uplink ports +2*\n1000Mbps PoE port(Compatible uplink) + 14*100Mbps PoE\nports\n■Ports(1-14)Support IEEE 802.3af/at protocol\n■Ports(15-16)Support IEEE 802.3af/at/bt protocol\n■6KV Lightning protection,8KV electro-static protection,Short-\ncircuit...\n19 800 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - PRT-SG-1208PM\nКоммутатор PoE управляемый PRIORAT PRT-SG-1208PM\n14 800 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - M-PS4200-V2\nКоммутатор PoE MATRIX M-PS4200-V2\n2 490 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - GNT-P9206EA\nКоммутатор PoE GNT-P9206EA\n2*100Mbps Uplink ports + 4*100Mbps PoE port\nPorts(1-3)Support IEEE 802.3af/at protocol\nPorts(4)Support IEEE 802.3af/at/bt protocol\nФункция PoE Watchdog AI: Автоматическое обнаружение PoE устройств, автоматическая перезагрузка в случае сбоя.\n1 100 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nНет в наличии Артикул - PRT-SF-1006P\nКоммутатор PoE PRIORAT PRT-SF-1006P\n4 290 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nАвтоматизация торговли\nСканеры штриховых кодов БитБук\nПринтеры этикеток\nЧековые принтеры\nТерминалы сбора данных (ТСД)\nРасходные материалы\nЛента текстильная\nБраслеты для принтера\nЭтикетки для принтера\nЛента красящая (Риббон, Ribbon)\nПреобразователи интерфейсов\nСистемы видеонаблюдения\nIP видеорегистраторы\nУличные IP камеры\nКупольные IP камеры\nPTZ IP камеры\nКоммутаторы\nСетевое PoE оборудование\nБлоки питания\nКабель\nАксессуары\nЛицензии\nMacroscop\nСравнение\nПерейти к сравнению\nЛидеры продаж\nСканер штриховых кодов Priorat XB-33ABH {2D, ручной, беспроводной, USB-HID+USB-VCOM}\n4 400 ₽\nСканер штриховых кодов БитБук SC-60AWU {2D, ручной, проводной, USB-HID+USB-VCOM}\n5 900 ₽\nСетевой видеорегистратор Priorat PRT-NVR-16N2-12M-IQ PRO\n12 900 ₽\nКоммутатор PoE PRIORAT PRT-SF-1226P\n24 900 ₽\nСканер штриховых кодов БитБук SC-72ABU {2D, ручной, беспроводной, USB (HID+VCOM)}\n10 200 ₽\nIP камера купольная антивандальная Priorat PRT-DM80-F2.8-CA PRO\n21 120 ₽\nКоммутатор PoE PRIORAT PRT-SG-1226P\n32 120 ₽\nIP камера уличная Priorat PRT-BM30-F2.8 BASE\n8 261 ₽\nРекомендуем\nСетевой видеорегистратор Priorat PRT-NVR-16N2-12M-IQ PRO\n12 900 ₽\nКоммутатор PoE промышленный PRIORAT PRT-SG-1208PI\n14 600 ₽\nКоммутатор управляемый PRIORAT PRT-SG-1424M\n14 300 ₽\nСканер штриховых кодов Priorat XB-33AWU {2D, ручной, проводной, USB-HID+USB-VCOM}\n3 200 ₽\nКоммутатор PoE уличный PRIORAT PRT-SF-1110PO IP65\n9 400 ₽\nПодбор по параметрам\nЦена, руб.\nМонтаж в стойку 19\" RACKMOUNT\nНет Да\nУправляемый\nНет Да\nКоличество портов PoE\nКоличество портов 10\\100\\1000 Mb\\s\nКоличество портов 10\\100 Mb\\s\nКоличество портов SFP\nКлиматические условия\nофисный уличный/промышленный\nПоказать Очистить\nБренды\nPRIORAT\nXprinter\nБитБук\nПоказать еще Скрыть\nПоследние новости\n6 июля 2026\nОборудование под Вашим брендом\n5 июля 2026\nСканеры БитБук прошли проверку \"Честный Зна...\n5 июля 2026\n​Технологии сканирования штрих-кода\nВсе новости\nНаши фото\nПодпишитесь на новости!\nЯ согласен(a) с политикой обработки персональных данных\nО компании\nБитБук® - российский разработчик, производитель и дистрибьютор оборудования штрихового кодирования.\nМагазин\nОформить заказ\nЛичный кабинет\nКонтакты\nНижний Тагил, ул. Юности, 47А, стр. 1\nПн—Пт —\n+7 (3435) 37-87-87\n+7 (3435) 37-90-80\ninfo@priorat.ru\n© 2006 - 2026 ООО «ПРИОРАТ» ИНН 6671257478\n× Контакты\nНаши телефоны:\n+7 (3435) 37-87-87\n+7 (3435) 37-90-80\nНаш адрес:\nНижний Тагил, ул. Юности, 47А, стр. 1\nПн—Пт —\n×\n0 Избранные 0 Сравнение 0  ₽ Товар добавлен в корзину!",
+  "last_change_at": "2026-10-23T03:05:43Z",
   "first_seen": "2026-10-23T02:54:23Z"
  },
  "SA-026/poe_catalog": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
-  "hash": "b5320cf852ad6c85a6533b3d963c764489076423",
+  "hash": "09dc56397a0fca011ebdd31f27fbf760a8b09e04",
   "items": {},
   "summary": "5921 字符；首行：Системы видеонаблюдения Сетевое PoE оборудование купить в интернет-магазине Prio",
   "error": null,
@@ -438,15 +438,15 @@
   "fields": null,
   "channel_id": null,
   "final_url": "https://bitbuk.ru/category/sistemy-videonablyudeniya/setevoe-poe-oborudovanie/",
-  "text": "Системы видеонаблюдения Сетевое PoE оборудование купить в интернет-магазине Priorat по цене от 500 руб.\nНижний Тагил, ул. Юности, 47А, стр. 1 Пн—Пт —Вход / Регистрация\nКаталог\nБит.Блог\nТехподдержка\nF.A.Q.\n+7 (3435) 37-87-87 +7 (3435) 37-90-80\nКаталог товаров Автоматизация торговли Сканеры штриховых кодов БитБук\nПринтеры этикеток\nЧековые принтеры\nТерминалы сбора данных (ТСД)\nРасходные материалы Лента текстильная\nБраслеты для принтера\nЭтикетки для принтера\nЛента красящая (Риббон, Ribbon)\nПреобразователи интерфейсов\nСистемы видеонаблюдения IP видеорегистраторы\nУличные IP камеры\nКупольные IP камеры\nPTZ IP камеры\nКоммутаторы\nСетевое PoE оборудование\nБлоки питания\nКабель\nАксессуары\nЛицензии Macroscop\nКаталог\nБит.Блог\nТехподдержка\nF.A.Q.\nЕще\nАвтоматизация торговли\nСканеры штриховых кодов БитБук\nПринтеры этикеток\nЧековые принтеры\nТерминалы сбора данных (ТСД)\nРасходные материалы\nЛента текстильная\nБраслеты для принтера\nЭтикетки для принтера\nЛента красящая (Риббон, Ribbon)\nПреобразователи интерфейсов\nСистемы видеонаблюдения\nIP видеорегистраторы\nУличные IP камеры\nКупольные IP камеры\nPTZ IP камеры\nКоммутаторы\nСетевое PoE оборудование\nБлоки питания\nКабель\nАксессуары\nЛицензии\nMacroscop\nГлавная\n→ Системы видеонаблюдения IP видеорегистраторы Уличные IP камеры Купольные IP камеры PTZ IP камеры Коммутаторы Сетевое PoE оборудование Блоки питания Кабель Аксессуары Лицензии\n→ Сетевое PoE оборудование\nСетевое PoE оборудование\nСетевое PoE оборудование представлены в интернет-магазине bitbuk.ru в ассортименте. К Вашим услугам доставка по всей России, низкие цены и специальные условия для партнеров. Купить сетевое poe оборудование вы можете у нас в наличии и под заказ.\nВ наличии\nPoE сплиттер\nPoE Splitter (разделение сигнала и питания). Совместим с IEEE802.3af, IEEE802.3at. Поддержка использования PoE в Gigabit Ethernet. Скорость передачи данных 10/100/1000 Мб/с. Защита от перегрева. Защита от перенапряжения. Защита от короткого замыкания. Plug & Play\n500 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - GNT-69P31\nPoE удлинитель\nУдлинитель для увеличения расстояния передачи 10/100 Ethernet + PoE по кабелю витая пара. Совместим с IEEE802.3af, IEEE802.3at. Скорость передачи данных 10/100Мб/с. Расстояние передачи до 100 метров по UTP кабелю категорий 5, 5e. Возможность каскадного подключения нескольких устройств (увеличение...\n1 700 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - GNT-6FP31\nPoE удлинитель GNT-6FP31 IP65\nУдлинитель для увеличения расстояния передачи 10/100 Ethernet + PoE по кабелю витая пара. Совместим с IEEE802.3af, IEEE802.3at. Скорость передачи данных 10/100Мб/с. Расстояние передачи до 100 метров по UTP кабелю категорий 5, 5e. Возможность каскадного подключения нескольких устройств (увеличение...\n1 800 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - M-24W-48V\nPoE инжектор 24W 48V\nPoE injector - адаптер для питания сетевого оборудования по кабелю витая пара\nПорт Fast Ethernet 1 порт 10/100 Мбит/сек (сквозной PoE PSE)\nPoE поддерживается в соответствии с IEEE 802.3af (PoE)\nМаксимальная мощность на порт PoE 15.4W\nПотребление энергии 24W\nAC100-240W, 50/60Hz / DC48V 0.5A\n880 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nНет в наличии\nГрозозащита Ethernet SPD PoE1000E\nГрозозащита Ethernet PoE - защита оборудования от статического электричества\nPoЕ защита по напряжению: 0-58V\nСетевой сигнал: 5V\nНоминальный ток: 850mA\nСкорость передачи данных: 100Mb/1000Mb\nИмпульсное напряжение: 10/700μs; Data: 2KV; Power: 2KV\nНоминальный ток разряда – 10 KA\nЧастотный диапазон -...\n940 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nНет в наличии\nPoe - сплиттер 48В 12 DC\nЦена по запросу\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nАвтоматизация торговли\nСканеры штриховых кодов БитБук\nПринтеры этикеток\nЧековые принтеры\nТерминалы сбора данных (ТСД)\nРасходные материалы\nЛента текстильная\nБраслеты для принтера\nЭтикетки для принтера\nЛента красящая (Риббон, Ribbon)\nПреобразователи интерфейсов\nСистемы видеонаблюдения\nIP видеорегистраторы\nУличные IP камеры\nКупольные IP камеры\nPTZ IP камеры\nКоммутаторы\nСетевое PoE оборудование\nБлоки питания\nКабель\nАксессуары\nЛицензии\nMacroscop\nСравнение\nПерейти к сравнению\nЛидеры продаж\nСканер штриховых кодов БитБук SC-60AWU {2D, ручной, проводной, USB-HID+USB-VCOM}\n5 900 ₽\nIP камера купольная антивандальная Priorat PRT-DM80-F2.8-CA PRO\n21 120 ₽\nКоммутатор PoE PRIORAT PRT-SG-1226P\n32 120 ₽\nСканер штриховых кодов Priorat XB-33ABH {2D, ручной, беспроводной, USB-HID+USB-VCOM}\n4 400 ₽\nIP камера уличная Priorat PRT-BM30-F2.8 BASE\n8 261 ₽\nСетевой видеорегистратор Priorat PRT-NVR-16N2-12M-IQ PRO\n12 900 ₽\nКоммутатор PoE PRIORAT PRT-SF-1226P\n24 900 ₽\nСканер штриховых кодов БитБук SC-72ABU {2D, ручной, беспроводной, USB (HID+VCOM)}\n10 200 ₽\nРекомендуем\nСетевой видеорегистратор Priorat PRT-NVR-16N2-12M-IQ PRO\n12 900 ₽\nКоммутатор PoE промышленный PRIORAT PRT-SG-1208PI\n14 600 ₽\nКоммутатор PoE уличный PRIORAT PRT-SF-1110PO IP65\n9 400 ₽\nКоммутатор управляемый PRIORAT PRT-SG-1424M\n14 300 ₽\nСканер штриховых кодов Priorat XB-33AWU {2D, ручной, проводной, USB-HID+USB-VCOM}\n3 200 ₽\nБренды\nPRIORAT\nXprinter\nБитБук\nПоказать еще Скрыть\nПоследние новости\n6 июля 2026\nОборудование под Вашим брендом\n5 июля 2026\nСканеры БитБук прошли проверку \"Честный Зна...\n5 июля 2026\n​Технологии сканирования штрих-кода\nВсе новости\nНаши фото\nПодпишитесь на новости!\nЯ согласен(a) с политикой обработки персональных данных\nО компании\nБитБук® - российский разработчик, производитель и дистрибьютор оборудования штрихового кодирования.\nМагазин\nОформить заказ\nЛичный кабинет\nКонтакты\nНижний Тагил, ул. Юности, 47А, стр. 1\nПн—Пт —\n+7 (3435) 37-87-87\n+7 (3435) 37-90-80\ninfo@priorat.ru\n© 2006 - 2026 ООО «ПРИОРАТ» ИНН 6671257478\n× Контакты\nНаши телефоны:\n+7 (3435) 37-87-87\n+7 (3435) 37-90-80\nНаш адрес:\nНижний Тагил, ул. Юности, 47А, стр. 1\nПн—Пт —\n×\n0 Избранные 0 Сравнение 0  ₽ Товар добавлен в корзину!",
-  "last_change_at": "2026-10-23T02:54:23Z",
+  "text": "Системы видеонаблюдения Сетевое PoE оборудование купить в интернет-магазине Priorat по цене от 500 руб.\nНижний Тагил, ул. Юности, 47А, стр. 1 Пн—Пт —Вход / Регистрация\nКаталог\nБит.Блог\nТехподдержка\nF.A.Q.\n+7 (3435) 37-87-87 +7 (3435) 37-90-80\nКаталог товаров Автоматизация торговли Сканеры штриховых кодов БитБук\nПринтеры этикеток\nЧековые принтеры\nТерминалы сбора данных (ТСД)\nРасходные материалы Лента текстильная\nБраслеты для принтера\nЭтикетки для принтера\nЛента красящая (Риббон, Ribbon)\nПреобразователи интерфейсов\nСистемы видеонаблюдения IP видеорегистраторы\nУличные IP камеры\nКупольные IP камеры\nPTZ IP камеры\nКоммутаторы\nСетевое PoE оборудование\nБлоки питания\nКабель\nАксессуары\nЛицензии Macroscop\nКаталог\nБит.Блог\nТехподдержка\nF.A.Q.\nЕще\nАвтоматизация торговли\nСканеры штриховых кодов БитБук\nПринтеры этикеток\nЧековые принтеры\nТерминалы сбора данных (ТСД)\nРасходные материалы\nЛента текстильная\nБраслеты для принтера\nЭтикетки для принтера\nЛента красящая (Риббон, Ribbon)\nПреобразователи интерфейсов\nСистемы видеонаблюдения\nIP видеорегистраторы\nУличные IP камеры\nКупольные IP камеры\nPTZ IP камеры\nКоммутаторы\nСетевое PoE оборудование\nБлоки питания\nКабель\nАксессуары\nЛицензии\nMacroscop\nГлавная\n→ Системы видеонаблюдения IP видеорегистраторы Уличные IP камеры Купольные IP камеры PTZ IP камеры Коммутаторы Сетевое PoE оборудование Блоки питания Кабель Аксессуары Лицензии\n→ Сетевое PoE оборудование\nСетевое PoE оборудование\nСетевое PoE оборудование представлены в интернет-магазине bitbuk.ru в ассортименте. К Вашим услугам доставка по всей России, низкие цены и специальные условия для партнеров. Купить сетевое poe оборудование вы можете у нас в наличии и под заказ.\nВ наличии\nPoE сплиттер\nPoE Splitter (разделение сигнала и питания). Совместим с IEEE802.3af, IEEE802.3at. Поддержка использования PoE в Gigabit Ethernet. Скорость передачи данных 10/100/1000 Мб/с. Защита от перегрева. Защита от перенапряжения. Защита от короткого замыкания. Plug & Play\n500 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - GNT-69P31\nPoE удлинитель\nУдлинитель для увеличения расстояния передачи 10/100 Ethernet + PoE по кабелю витая пара. Совместим с IEEE802.3af, IEEE802.3at. Скорость передачи данных 10/100Мб/с. Расстояние передачи до 100 метров по UTP кабелю категорий 5, 5e. Возможность каскадного подключения нескольких устройств (увеличение...\n1 700 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - GNT-6FP31\nPoE удлинитель GNT-6FP31 IP65\nУдлинитель для увеличения расстояния передачи 10/100 Ethernet + PoE по кабелю витая пара. Совместим с IEEE802.3af, IEEE802.3at. Скорость передачи данных 10/100Мб/с. Расстояние передачи до 100 метров по UTP кабелю категорий 5, 5e. Возможность каскадного подключения нескольких устройств (увеличение...\n1 800 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - M-24W-48V\nPoE инжектор 24W 48V\nPoE injector - адаптер для питания сетевого оборудования по кабелю витая пара\nПорт Fast Ethernet 1 порт 10/100 Мбит/сек (сквозной PoE PSE)\nPoE поддерживается в соответствии с IEEE 802.3af (PoE)\nМаксимальная мощность на порт PoE 15.4W\nПотребление энергии 24W\nAC100-240W, 50/60Hz / DC48V 0.5A\n880 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nНет в наличии\nГрозозащита Ethernet SPD PoE1000E\nГрозозащита Ethernet PoE - защита оборудования от статического электричества\nPoЕ защита по напряжению: 0-58V\nСетевой сигнал: 5V\nНоминальный ток: 850mA\nСкорость передачи данных: 100Mb/1000Mb\nИмпульсное напряжение: 10/700μs; Data: 2KV; Power: 2KV\nНоминальный ток разряда – 10 KA\nЧастотный диапазон -...\n940 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nНет в наличии\nPoe - сплиттер 48В 12 DC\nЦена по запросу\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nАвтоматизация торговли\nСканеры штриховых кодов БитБук\nПринтеры этикеток\nЧековые принтеры\nТерминалы сбора данных (ТСД)\nРасходные материалы\nЛента текстильная\nБраслеты для принтера\nЭтикетки для принтера\nЛента красящая (Риббон, Ribbon)\nПреобразователи интерфейсов\nСистемы видеонаблюдения\nIP видеорегистраторы\nУличные IP камеры\nКупольные IP камеры\nPTZ IP камеры\nКоммутаторы\nСетевое PoE оборудование\nБлоки питания\nКабель\nАксессуары\nЛицензии\nMacroscop\nСравнение\nПерейти к сравнению\nЛидеры продаж\nIP камера уличная Priorat PRT-BM30-F2.8 BASE\n8 261 ₽\nСканер штриховых кодов Priorat XB-33ABH {2D, ручной, беспроводной, USB-HID+USB-VCOM}\n4 400 ₽\nКоммутатор PoE PRIORAT PRT-SF-1226P\n24 900 ₽\nСканер штриховых кодов БитБук SC-60AWU {2D, ручной, проводной, USB-HID+USB-VCOM}\n5 900 ₽\nКоммутатор PoE PRIORAT PRT-SG-1226P\n32 120 ₽\nСетевой видеорегистратор Priorat PRT-NVR-16N2-12M-IQ PRO\n12 900 ₽\nIP камера купольная антивандальная Priorat PRT-DM80-F2.8-CA PRO\n21 120 ₽\nСканер штриховых кодов БитБук SC-72ABU {2D, ручной, беспроводной, USB (HID+VCOM)}\n10 200 ₽\nРекомендуем\nКоммутатор управляемый PRIORAT PRT-SG-1424M\n14 300 ₽\nКоммутатор PoE уличный PRIORAT PRT-SF-1110PO IP65\n9 400 ₽\nСетевой видеорегистратор Priorat PRT-NVR-16N2-12M-IQ PRO\n12 900 ₽\nКоммутатор PoE промышленный PRIORAT PRT-SG-1208PI\n14 600 ₽\nСканер штриховых кодов Priorat XB-33AWU {2D, ручной, проводной, USB-HID+USB-VCOM}\n3 200 ₽\nБренды\nPRIORAT\nXprinter\nБитБук\nПоказать еще Скрыть\nПоследние новости\n6 июля 2026\nОборудование под Вашим брендом\n5 июля 2026\nСканеры БитБук прошли проверку \"Честный Зна...\n5 июля 2026\n​Технологии сканирования штрих-кода\nВсе новости\nНаши фото\nПодпишитесь на новости!\nЯ согласен(a) с политикой обработки персональных данных\nО компании\nБитБук® - российский разработчик, производитель и дистрибьютор оборудования штрихового кодирования.\nМагазин\nОформить заказ\nЛичный кабинет\nКонтакты\nНижний Тагил, ул. Юности, 47А, стр. 1\nПн—Пт —\n+7 (3435) 37-87-87\n+7 (3435) 37-90-80\ninfo@priorat.ru\n© 2006 - 2026 ООО «ПРИОРАТ» ИНН 6671257478\n× Контакты\nНаши телефоны:\n+7 (3435) 37-87-87\n+7 (3435) 37-90-80\nНаш адрес:\nНижний Тагил, ул. Юности, 47А, стр. 1\nПн—Пт —\n×\n0 Избранные 0 Сравнение 0  ₽ Товар добавлен в корзину!",
+  "last_change_at": "2026-10-23T03:05:43Z",
   "first_seen": "2026-10-23T02:54:23Z"
  },
  "SA-026/brand_page": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
-  "hash": "f42a68649929f1bb24125420e2a462c6ba7b9d82",
+  "hash": "27cb6cf4222d3c394c530dd251e1f70c77181f88",
   "items": {},
   "summary": "8617 字符；首行：БитБук",
   "error": null,
@@ -454,13 +454,13 @@
   "fields": null,
   "channel_id": null,
   "final_url": "https://bitbuk.ru/brand/bitbuk/",
-  "text": "БитБук\nНижний Тагил, ул. Юности, 47А, стр. 1 Пн—Пт —Вход / Регистрация\nКаталог\nБит.Блог\nТехподдержка\nF.A.Q.\n+7 (3435) 37-87-87 +7 (3435) 37-90-80\nКаталог товаров Автоматизация торговли Сканеры штриховых кодов БитБук\nПринтеры этикеток\nЧековые принтеры\nТерминалы сбора данных (ТСД)\nРасходные материалы Лента текстильная\nБраслеты для принтера\nЭтикетки для принтера\nЛента красящая (Риббон, Ribbon)\nПреобразователи интерфейсов\nСистемы видеонаблюдения IP видеорегистраторы\nУличные IP камеры\nКупольные IP камеры\nPTZ IP камеры\nКоммутаторы\nСетевое PoE оборудование\nБлоки питания\nКабель\nАксессуары\nЛицензии Macroscop\nКаталог\nБит.Блог\nТехподдержка\nF.A.Q.\nЕще\nАвтоматизация торговли\nСканеры штриховых кодов БитБук\nПринтеры этикеток\nЧековые принтеры\nТерминалы сбора данных (ТСД)\nРасходные материалы\nЛента текстильная\nБраслеты для принтера\nЭтикетки для принтера\nЛента красящая (Риббон, Ribbon)\nПреобразователи интерфейсов\nСистемы видеонаблюдения\nIP видеорегистраторы\nУличные IP камеры\nКупольные IP камеры\nPTZ IP камеры\nКоммутаторы\nСетевое PoE оборудование\nБлоки питания\nКабель\nАксессуары\nЛицензии\nMacroscop\nГлавная\n→ Бренды\n→ БитБук\nБитБук\nАвтоматизация торговли\nСканеры штриховых кодов БитБук\nТерминалы сбора данных (ТСД)\nРасходные материалы\nЛента текстильная\nБраслеты для принтера\nЭтикетки для принтера\nСортировать: Новые и популярные\nНовые и популярные Название Цена Хиты продаж Оценка покупателей Дата добавления В наличии\nВ наличии Артикул - SC-60AWU\nСканер штриховых кодов БитБук SC-60AWU {2D, ручной, проводной, USB-HID+USB-VCOM}\n5 900 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-84OWU\nСканер штриховых кодов БитБук SC-84OWU {1D, стационарный, проводной, USB-HID+USB-VCOM}\n7 900 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-85OWU\nСканер штриховых кодов БитБук SC-85OWU {1D, стационарный, проводной, USB-HID+USB-VCOM}\n9 900 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-20\nПодставка для сканеров серии 20XXX\n1 200 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-60\nПодставка для сканеров серии 60XXX и 20XXX\n1 200 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-50AWU\nСканер штриховых кодов БитБук SC-50AWU {2D, ручной, проводной, USB-HID+USB-VCOM}\n5 450 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-02ABH\nСканер штриховых кодов БитБук SC-02ABH {2D, ручной, беспроводной, USB-HID}\n8 300 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-31ABU\nСканер штриховых кодов БитБук SC-31ABU {2D, ручной, беспроводной, USB-HID+USB-VCOM}\nПарсеры GTIN <ESC>\n9 200 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-32ABU\nСканер штриховых кодов БитБук SC-32ABU {2D, ручной, беспроводной, пейджинг (поиск сканера), USB-HID+USB-VCOM}\n10 200 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-22AWU\nСканер штриховых кодов БитБук SC-22AWU {2D, ручной, проводной, USB-HID+USB-VCOM}\n4 100 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-50ABU\nСканер штриховых кодов БитБук SC-50ABU {2D, ручной, беспроводной, USB-HID+USB-VCOM}\n10 200 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-61AWU\nСканер штриховых кодов БитБук SC-61AWU {2D, ручной, проводной, USB-HID+USB-VCOM}\n6 100 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-83AWU\nСканер штриховых кодов БитБук SC-83AWU {2D, стационарный, проводной, USB-HID+USB-VCOM}\n9 900 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-86AWU\nСканер штриховых кодов БитБук SC-86AWU {2D, стационарный, проводной, USB-HID+USB-VCOM}\n37 000 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-70AWU\nСканер штриховых кодов БитБук SC-70AWU {2D, ручной, проводной, USB (HID+VCOM+POS)}\n6 200 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-72ABU\nСканер штриховых кодов БитБук SC-72ABU {2D, ручной, беспроводной, USB (HID+VCOM)}\n10 200 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-70\nПодставка для сканеров серии 70XXX\n1 200 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-62ABU\nСканер штриховых кодов БитБук SC-62ABU {2D, ручной, беспроводной, USB-HID+USB-VCOM}\n7 600 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - 58x30x900TТ\nЭтикетки 58x30 термотрансферные (900 шт, 40 мм)\n155 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-62AWU\nСканер штриховых кодов БитБук SC-62AWU {2D, ручной, проводной, USB-HID+USB-VCOM}\n6 100 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-72ABH\nСканер штриховых кодов БитБук SC-72ABH {2D, ручной, беспроводной, USB}\n7 900 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-62ABH\nСканер штриховых кодов БитБук SC-62ABH {2D, ручной, беспроводной, USB-HID+USB-VCOM}\n7 600 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-23AWU\nСканер штриховых кодов БитБук SC-23AWU {2D, ручной, проводной, USB-HID+USB-VCOM}\n4 100 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-30\nПодставка для сканеров серии 30XXX\n1 200 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - DC-9800\nТерминал сбора данных DC-9800 USB 1D\n1. Большой объем хранимой информации, максимум 100 000 штрих-кодов;\n2. Функция автоматической беспроводной передачи, автономной проверки, инвентаризации;\n3. Быстрая и точная 433Mhz беспроводная двусторонняя сертифицированная передача;\n4. Экран для просмотра данных, легкой и быстрой работы;\n5....\n1 100 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - BB-10015357K\nКартридж Zebra HC100/ZD510 Браслеты ультрамягкие 25,4мм x 177,8мм, 250шт, термопечать, белый\n3 490 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - 58x40x1000TTP\nЭтикетки 58х40 термотрансферные, полипропилен (1000 шт, 40 мм)\n159 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - 30x20x2000TT\nЭтикетки 30x20 термотрансферные (2000 шт, 40 мм)\n458 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - 30x20x1800T\nЭтикетки 30x20 термо (1800 шт, 40 мм)\n125 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - 43x25x1000TT\nЭтикетки 43x25 термотрансферные (1000 шт, 40 мм),\n126 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\n1\n2\n→\nАвтоматизация торговли\nСканеры штриховых кодов БитБук\nПринтеры этикеток\nЧековые принтеры\nТерминалы сбора данных (ТСД)\nРасходные материалы\nЛента текстильная\nБраслеты для принтера\nЭтикетки для принтера\nЛента красящая (Риббон, Ribbon)\nПреобразователи интерфейсов\nСистемы видеонаблюдения\nIP видеорегистраторы\nУличные IP камеры\nКупольные IP камеры\nPTZ IP камеры\nКоммутаторы\nСетевое PoE оборудование\nБлоки питания\nКабель\nАксессуары\nЛицензии\nMacroscop\nСравнение\nПерейти к сравнению\nЛидеры продаж\nСканер штриховых кодов Priorat XB-33ABH {2D, ручной, беспроводной, USB-HID+USB-VCOM}\n4 400 ₽\nIP камера купольная антивандальная Priorat PRT-DM80-F2.8-CA PRO\n21 120 ₽\nКоммутатор PoE PRIORAT PRT-SF-1226P\n24 900 ₽\nКоммутатор PoE PRIORAT PRT-SG-1226P\n32 120 ₽\nIP камера уличная Priorat PRT-BM30-F2.8 BASE\n8 261 ₽\nСетевой видеорегистратор Priorat PRT-NVR-16N2-12M-IQ PRO\n12 900 ₽\nСканер штриховых кодов БитБук SC-60AWU {2D, ручной, проводной, USB-HID+USB-VCOM}\n5 900 ₽\nСканер штриховых кодов БитБук SC-72ABU {2D, ручной, беспроводной, USB (HID+VCOM)}\n10 200 ₽\nРекомендуем\nКоммутатор PoE уличный PRIORAT PRT-SF-1110PO IP65\n9 400 ₽\nСетевой видеорегистратор Priorat PRT-NVR-16N2-12M-IQ PRO\n12 900 ₽\nКоммутатор PoE промышленный PRIORAT PRT-SG-1208PI\n14 600 ₽\nКоммутатор управляемый PRIORAT PRT-SG-1424M\n14 300 ₽\nСканер штриховых кодов Priorat XB-33AWU {2D, ручной, проводной, USB-HID+USB-VCOM}\n3 200 ₽\nБренды\nPRIORAT\nXprinter\nБитБук\nПоказать еще Скрыть\nПоследние новости\n6 июля 2026\nОборудование под Вашим брендом\n5 июля 2026\nСканеры БитБук прошли проверку \"Честный Зна...\n5 июля 2026\n​Технологии сканирования штрих-кода\nВсе новости\nНаши фото\nПодпишитесь на новости!\nЯ согласен(a) с политикой обработки персональных данных\nО компании\nБитБук® - российский разработчик, производитель и дистрибьютор оборудования штрихового кодирования.\nМагазин\nОформить заказ\nЛичный кабинет\nКонтакты\nНижний Тагил, ул. Юности, 47А, стр. 1\nПн—Пт —\n+7 (3435) 37-87-87\n+7 (3435) 37-90-80\ninfo@priorat.ru\n© 2006 - 2026 ООО «ПРИОРАТ» ИНН 6671257478\n× Контакты\nНаши телефоны:\n+7 (3435) 37-87-87\n+7 (3435) 37-90-80\nНаш адрес:\nНижний Тагил, ул. Юности, 47А, стр. 1\nПн—Пт —\n×\n0 Избранные 0 Сравнение 0  ₽ Товар добавлен в корзину!",
-  "last_change_at": "2026-10-23T02:54:23Z",
+  "text": "БитБук\nНижний Тагил, ул. Юности, 47А, стр. 1 Пн—Пт —Вход / Регистрация\nКаталог\nБит.Блог\nТехподдержка\nF.A.Q.\n+7 (3435) 37-87-87 +7 (3435) 37-90-80\nКаталог товаров Автоматизация торговли Сканеры штриховых кодов БитБук\nПринтеры этикеток\nЧековые принтеры\nТерминалы сбора данных (ТСД)\nРасходные материалы Лента текстильная\nБраслеты для принтера\nЭтикетки для принтера\nЛента красящая (Риббон, Ribbon)\nПреобразователи интерфейсов\nСистемы видеонаблюдения IP видеорегистраторы\nУличные IP камеры\nКупольные IP камеры\nPTZ IP камеры\nКоммутаторы\nСетевое PoE оборудование\nБлоки питания\nКабель\nАксессуары\nЛицензии Macroscop\nКаталог\nБит.Блог\nТехподдержка\nF.A.Q.\nЕще\nАвтоматизация торговли\nСканеры штриховых кодов БитБук\nПринтеры этикеток\nЧековые принтеры\nТерминалы сбора данных (ТСД)\nРасходные материалы\nЛента текстильная\nБраслеты для принтера\nЭтикетки для принтера\nЛента красящая (Риббон, Ribbon)\nПреобразователи интерфейсов\nСистемы видеонаблюдения\nIP видеорегистраторы\nУличные IP камеры\nКупольные IP камеры\nPTZ IP камеры\nКоммутаторы\nСетевое PoE оборудование\nБлоки питания\nКабель\nАксессуары\nЛицензии\nMacroscop\nГлавная\n→ Бренды\n→ БитБук\nБитБук\nАвтоматизация торговли\nСканеры штриховых кодов БитБук\nТерминалы сбора данных (ТСД)\nРасходные материалы\nЛента текстильная\nБраслеты для принтера\nЭтикетки для принтера\nСортировать: Новые и популярные\nНовые и популярные Название Цена Хиты продаж Оценка покупателей Дата добавления В наличии\nВ наличии Артикул - SC-60AWU\nСканер штриховых кодов БитБук SC-60AWU {2D, ручной, проводной, USB-HID+USB-VCOM}\n5 900 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-84OWU\nСканер штриховых кодов БитБук SC-84OWU {1D, стационарный, проводной, USB-HID+USB-VCOM}\n7 900 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-85OWU\nСканер штриховых кодов БитБук SC-85OWU {1D, стационарный, проводной, USB-HID+USB-VCOM}\n9 900 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-20\nПодставка для сканеров серии 20XXX\n1 200 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-60\nПодставка для сканеров серии 60XXX и 20XXX\n1 200 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-50AWU\nСканер штриховых кодов БитБук SC-50AWU {2D, ручной, проводной, USB-HID+USB-VCOM}\n5 450 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-02ABH\nСканер штриховых кодов БитБук SC-02ABH {2D, ручной, беспроводной, USB-HID}\n8 300 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-31ABU\nСканер штриховых кодов БитБук SC-31ABU {2D, ручной, беспроводной, USB-HID+USB-VCOM}\nПарсеры GTIN <ESC>\n9 200 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-32ABU\nСканер штриховых кодов БитБук SC-32ABU {2D, ручной, беспроводной, пейджинг (поиск сканера), USB-HID+USB-VCOM}\n10 200 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-22AWU\nСканер штриховых кодов БитБук SC-22AWU {2D, ручной, проводной, USB-HID+USB-VCOM}\n4 100 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-50ABU\nСканер штриховых кодов БитБук SC-50ABU {2D, ручной, беспроводной, USB-HID+USB-VCOM}\n10 200 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-61AWU\nСканер штриховых кодов БитБук SC-61AWU {2D, ручной, проводной, USB-HID+USB-VCOM}\n6 100 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-83AWU\nСканер штриховых кодов БитБук SC-83AWU {2D, стационарный, проводной, USB-HID+USB-VCOM}\n9 900 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-86AWU\nСканер штриховых кодов БитБук SC-86AWU {2D, стационарный, проводной, USB-HID+USB-VCOM}\n37 000 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-70AWU\nСканер штриховых кодов БитБук SC-70AWU {2D, ручной, проводной, USB (HID+VCOM+POS)}\n6 200 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-72ABU\nСканер штриховых кодов БитБук SC-72ABU {2D, ручной, беспроводной, USB (HID+VCOM)}\n10 200 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-70\nПодставка для сканеров серии 70XXX\n1 200 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-62ABU\nСканер штриховых кодов БитБук SC-62ABU {2D, ручной, беспроводной, USB-HID+USB-VCOM}\n7 600 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - 58x30x900TТ\nЭтикетки 58x30 термотрансферные (900 шт, 40 мм)\n155 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-62AWU\nСканер штриховых кодов БитБук SC-62AWU {2D, ручной, проводной, USB-HID+USB-VCOM}\n6 100 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-72ABH\nСканер штриховых кодов БитБук SC-72ABH {2D, ручной, беспроводной, USB}\n7 900 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-62ABH\nСканер штриховых кодов БитБук SC-62ABH {2D, ручной, беспроводной, USB-HID+USB-VCOM}\n7 600 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-23AWU\nСканер штриховых кодов БитБук SC-23AWU {2D, ручной, проводной, USB-HID+USB-VCOM}\n4 100 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - SC-30\nПодставка для сканеров серии 30XXX\n1 200 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - DC-9800\nТерминал сбора данных DC-9800 USB 1D\n1. Большой объем хранимой информации, максимум 100 000 штрих-кодов;\n2. Функция автоматической беспроводной передачи, автономной проверки, инвентаризации;\n3. Быстрая и точная 433Mhz беспроводная двусторонняя сертифицированная передача;\n4. Экран для просмотра данных, легкой и быстрой работы;\n5....\n1 100 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - BB-10015357K\nКартридж Zebra HC100/ZD510 Браслеты ультрамягкие 25,4мм x 177,8мм, 250шт, термопечать, белый\n3 490 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - 58x40x1000TTP\nЭтикетки 58х40 термотрансферные, полипропилен (1000 шт, 40 мм)\n159 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - 30x20x2000TT\nЭтикетки 30x20 термотрансферные (2000 шт, 40 мм)\n458 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - 30x20x1800T\nЭтикетки 30x20 термо (1800 шт, 40 мм)\n125 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\nВ наличии Артикул - 43x25x1000TT\nЭтикетки 43x25 термотрансферные (1000 шт, 40 мм),\n126 ₽\nВ корзину\nБыстрый просмотр\nСравнение\nВ избранное\n1\n2\n→\nАвтоматизация торговли\nСканеры штриховых кодов БитБук\nПринтеры этикеток\nЧековые принтеры\nТерминалы сбора данных (ТСД)\nРасходные материалы\nЛента текстильная\nБраслеты для принтера\nЭтикетки для принтера\nЛента красящая (Риббон, Ribbon)\nПреобразователи интерфейсов\nСистемы видеонаблюдения\nIP видеорегистраторы\nУличные IP камеры\nКупольные IP камеры\nPTZ IP камеры\nКоммутаторы\nСетевое PoE оборудование\nБлоки питания\nКабель\nАксессуары\nЛицензии\nMacroscop\nСравнение\nПерейти к сравнению\nЛидеры продаж\nСканер штриховых кодов БитБук SC-60AWU {2D, ручной, проводной, USB-HID+USB-VCOM}\n5 900 ₽\nСетевой видеорегистратор Priorat PRT-NVR-16N2-12M-IQ PRO\n12 900 ₽\nСканер штриховых кодов Priorat XB-33ABH {2D, ручной, беспроводной, USB-HID+USB-VCOM}\n4 400 ₽\nIP камера купольная антивандальная Priorat PRT-DM80-F2.8-CA PRO\n21 120 ₽\nIP камера уличная Priorat PRT-BM30-F2.8 BASE\n8 261 ₽\nКоммутатор PoE PRIORAT PRT-SF-1226P\n24 900 ₽\nСканер штриховых кодов БитБук SC-72ABU {2D, ручной, беспроводной, USB (HID+VCOM)}\n10 200 ₽\nКоммутатор PoE PRIORAT PRT-SG-1226P\n32 120 ₽\nРекомендуем\nКоммутатор PoE промышленный PRIORAT PRT-SG-1208PI\n14 600 ₽\nКоммутатор управляемый PRIORAT PRT-SG-1424M\n14 300 ₽\nКоммутатор PoE уличный PRIORAT PRT-SF-1110PO IP65\n9 400 ₽\nСканер штриховых кодов Priorat XB-33AWU {2D, ручной, проводной, USB-HID+USB-VCOM}\n3 200 ₽\nСетевой видеорегистратор Priorat PRT-NVR-16N2-12M-IQ PRO\n12 900 ₽\nБренды\nPRIORAT\nXprinter\nБитБук\nПоказать еще Скрыть\nПоследние новости\n6 июля 2026\nОборудование под Вашим брендом\n5 июля 2026\nСканеры БитБук прошли проверку \"Честный Зна...\n5 июля 2026\n​Технологии сканирования штрих-кода\nВсе новости\nНаши фото\nПодпишитесь на новости!\nЯ согласен(a) с политикой обработки персональных данных\nО компании\nБитБук® - российский разработчик, производитель и дистрибьютор оборудования штрихового кодирования.\nМагазин\nОформить заказ\nЛичный кабинет\nКонтакты\nНижний Тагил, ул. Юности, 47А, стр. 1\nПн—Пт —\n+7 (3435) 37-87-87\n+7 (3435) 37-90-80\ninfo@priorat.ru\n© 2006 - 2026 ООО «ПРИОРАТ» ИНН 6671257478\n× Контакты\nНаши телефоны:\n+7 (3435) 37-87-87\n+7 (3435) 37-90-80\nНаш адрес:\nНижний Тагил, ул. Юности, 47А, стр. 1\nПн—Пт —\n×\n0 Избранные 0 Сравнение 0  ₽ Товар добавлен в корзину!",
+  "last_change_at": "2026-10-23T03:05:43Z",
   "first_seen": "2026-10-23T02:54:23Z"
  },
  "SA-026/support": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "abc03a1095b772c4c2a6f78364d46ce3379b1d65",
   "items": {},
@@ -476,7 +476,7 @@
  },
  "SA-011/shop_sitemap": {
   "kind": "sitemap",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "5da621744111b1f4c51d268c93bb5c57fcac4e65",
   "items": {
@@ -1693,7 +1693,7 @@
  },
  "SA-011/shop_home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "8ba3d3191a5d2e5ab36f1f53bc73223159959cf3",
   "items": {},
@@ -1709,23 +1709,23 @@
  },
  "SA-011/product_im28": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
-  "hash": "4638060cf6618665e7cd9d6d84c88c78f433fbe1",
+  "hash": "ad6326830e2d418b71dad4807e490e72269d7c45",
   "items": {},
-  "summary": "3399 字符；首行：IM28 -",
+  "summary": "3392 字符；首行：IM28 -",
   "error": null,
   "profile": null,
   "fields": null,
   "channel_id": null,
   "final_url": "https://vilink.us/product/im28/",
-  "text": "IM28 -\nSkip to content\nAbout Vi-Link\nall Products\nSales\nVi-Link Solutions\n0\nHome / Managed Industrial Ethernet Switch / IM28\nIM28\n$ 395.00\nIndustrial Gigabits Managed Ethernet Switch, 8* 10/100/1000M TX RJ45, 2* 1000M SX SFP, DIN Rail 10~47 VDC\nIM28 quantity\nAdd to cart\nCategory: Industrial Ethernet Switch , Managed Industrial Ethernet Switch\nDescription\nReviews (0)\nThe IM28 is an Industrial Managed Gigabit Ethernet Switch. It has 2* 1000 Mbps fiber optic SFP ports and 8* 10/100/1000 Mbps electrical ports. The IM28 is designed to meet the various industrial application needs and provide a wide range of industrial Ethernet network communication solutions, including linking multiple remote traffic intersections to the Traffic Operation Center.\nThe IM28 also features powerful Web-based, CLI management capabilities, a wide input range dual power supply and its support for DIN rail and panel mounting for installation in the industrial environment.\nApplications include ITS Intelligent Traffic Control System, Homeland Security, Metro & Railroad Systems, Oil & Gas Monitoring System, Utility Management, Premise Networks, Military Hardened applications or anything requiring high quality Data Transmission performance.\n8 x 10/100/1000Mbps Auto-sensing RJ45 ports\n2 x 1000Mbps SFP fiber ports, 40 Km @ Single Mode\n4 KV Ethernet surge protection, adapt to a harsh outdoor environment\nSupport Auto MDI/MDIX\nFlow control mode: full duplex with IEEE 802.3x standard, half-duplex with Back pressure standard\nIEEE 802.3 10Base-T and IEEE 802.3u 1000Base-TX compliant\nA store-and-forward switching mechanism\nOperating environment temperature: -40 ° ~85 ° c\nIntelligent power consumption detection and classification\nSW-Ring ring network patent technology (Fault recovery time<20ms)\nIGMP Snooping, GMRP and static IGMP\nVLAN, PVLAN, Port trunking, rate control, control broadcast domain\nIEEE802.1p_QOS\nSNMP, Telnet, WEB\nSSH, SSL, ACL, automatic MAC address bounding\nIEEE 802.1d(STP), IEEE 802.1w(RSTP), IEEE 802.1s(MSTP)\nSupport port mirroring\nAlarming: support ARP listening, power down, and ring-alarm\nJumbo frames support up to 16kb\nSupport link monitoring\nReviews\nThere are no reviews yet.\nBe the first to review “IM28” Cancel reply Your email address will not be published. Required fields are marked *\nYour rating *\nRate…\nPerfect\nGood\nAverage\nNot that bad\nVery poor\nYour review *\nName *\nEmail *\nSave my name, email, and website in this browser for the next time I comment.\nΔ\nRelated products\nEN2400\n$ 1,495.00\nAdd to cart\nIM48\n$ 445.00\nAdd to cart\nIM24\n$ 345.00\nAdd to cart\n25G-AOC-1M\n$ 95.00\nAdd to cart\n25G-DAC-1M\n$ 45.00\nAdd to cart\nOur company\nAbout Vi-Link\nall Products\nSales\nVi-Link Solutions\nOur products\nAbout Vi-Link\nall Products\nSales\nVi-Link Solutions\nSpecial sales\nAbout Vi-Link\nall Products\nSales\nVi-Link Solutions\nCustomer service\nAbout Vi-Link\nall Products\nSales\nVi-Link Solutions\nStay connected\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sagittis tincidunt tortor in bibendum. Phasellus tellus elit, placerat et orci id, commodo finibus tortor.\nFacebook\nYouTube\nTikTok\nLinkedIn\nPinterest\nTwitter\nInstagram\nWonder – A WordPress Block theme by YITH\nYour cart\n(items: 0)\nProducts in cart\nProduct\nDetails\nTotal\n−\n+\nSave\nSubtotal\n$0.00\nShipping and discounts calculated at checkout.\nView cart\nGo to checkout\nYour shopping cart is empty\nReturn to shop\nNotifications",
-  "last_change_at": "2026-10-23T02:54:23Z",
+  "text": "IM28 -\nSkip to content\nAbout Vi-Link\nall Products\nSales\nVi-Link Solutions\n0\nHome / Managed Industrial Ethernet Switch / IM28\nIM28\n$ 395.00\nIndustrial Gigabits Managed Ethernet Switch, 8* 10/100/1000M TX RJ45, 2* 1000M SX SFP, DIN Rail 10~47 VDC\nIM28 quantity\nAdd to cart\nCategory: Industrial Ethernet Switch , Managed Industrial Ethernet Switch\nDescription\nReviews (0)\nThe IM28 is an Industrial Managed Gigabit Ethernet Switch. It has 2* 1000 Mbps fiber optic SFP ports and 8* 10/100/1000 Mbps electrical ports. The IM28 is designed to meet the various industrial application needs and provide a wide range of industrial Ethernet network communication solutions, including linking multiple remote traffic intersections to the Traffic Operation Center.\nThe IM28 also features powerful Web-based, CLI management capabilities, a wide input range dual power supply and its support for DIN rail and panel mounting for installation in the industrial environment.\nApplications include ITS Intelligent Traffic Control System, Homeland Security, Metro & Railroad Systems, Oil & Gas Monitoring System, Utility Management, Premise Networks, Military Hardened applications or anything requiring high quality Data Transmission performance.\n8 x 10/100/1000Mbps Auto-sensing RJ45 ports\n2 x 1000Mbps SFP fiber ports, 40 Km @ Single Mode\n4 KV Ethernet surge protection, adapt to a harsh outdoor environment\nSupport Auto MDI/MDIX\nFlow control mode: full duplex with IEEE 802.3x standard, half-duplex with Back pressure standard\nIEEE 802.3 10Base-T and IEEE 802.3u 1000Base-TX compliant\nA store-and-forward switching mechanism\nOperating environment temperature: -40 ° ~85 ° c\nIntelligent power consumption detection and classification\nSW-Ring ring network patent technology (Fault recovery time<20ms)\nIGMP Snooping, GMRP and static IGMP\nVLAN, PVLAN, Port trunking, rate control, control broadcast domain\nIEEE802.1p_QOS\nSNMP, Telnet, WEB\nSSH, SSL, ACL, automatic MAC address bounding\nIEEE 802.1d(STP), IEEE 802.1w(RSTP), IEEE 802.1s(MSTP)\nSupport port mirroring\nAlarming: support ARP listening, power down, and ring-alarm\nJumbo frames support up to 16kb\nSupport link monitoring\nReviews\nThere are no reviews yet.\nBe the first to review “IM28” Cancel reply Your email address will not be published. Required fields are marked *\nYour rating *\nRate…\nPerfect\nGood\nAverage\nNot that bad\nVery poor\nYour review *\nName *\nEmail *\nSave my name, email, and website in this browser for the next time I comment.\nΔ\nRelated products\nIM14\n$ 295.00\nAdd to cart\n40G4-AOC-1M\n$ 195.00\nAdd to cart\nEN48\n$ 385.00\nAdd to cart\nEN28\n$ 295.00\nAdd to cart\nEN22\n$ 255.00\nAdd to cart\nOur company\nAbout Vi-Link\nall Products\nSales\nVi-Link Solutions\nOur products\nAbout Vi-Link\nall Products\nSales\nVi-Link Solutions\nSpecial sales\nAbout Vi-Link\nall Products\nSales\nVi-Link Solutions\nCustomer service\nAbout Vi-Link\nall Products\nSales\nVi-Link Solutions\nStay connected\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sagittis tincidunt tortor in bibendum. Phasellus tellus elit, placerat et orci id, commodo finibus tortor.\nFacebook\nYouTube\nTikTok\nLinkedIn\nPinterest\nTwitter\nInstagram\nWonder – A WordPress Block theme by YITH\nYour cart\n(items: 0)\nProducts in cart\nProduct\nDetails\nTotal\n−\n+\nSave\nSubtotal\n$0.00\nShipping and discounts calculated at checkout.\nView cart\nGo to checkout\nYour shopping cart is empty\nReturn to shop\nNotifications",
+  "last_change_at": "2026-10-23T03:05:43Z",
   "first_seen": "2026-10-23T02:54:23Z"
  },
  "SA-011/old_site": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 403,
   "hash": "a4fd115ca121f210d7ad5c68adf594fc7c146a20",
   "items": {},
@@ -1741,23 +1741,64 @@
  },
  "SA-049/site_feed": {
   "kind": "rss",
-  "fetched_at": "2026-10-23T02:54:23Z",
-  "status": 429,
-  "hash": "6d5f48f26b62a30f4be692c83275ae98927f6927",
-  "items": {},
-  "summary": null,
-  "error": "HTTP 429",
+  "fetched_at": "2026-10-23T03:05:43Z",
+  "status": 200,
+  "hash": "70f5ca33d37699723bdddaeb36a1e525ba9829dd",
+  "items": {
+   "https://sundartechno.com/?p=12159": {
+    "title": "STAINLESS STEEL ATM & KIOSK USB KEYPAD",
+    "date": "Thu, 22 Oct 2026 11:01:10 +0000"
+   },
+   "https://sundartechno.com/?p=12154": {
+    "title": "GROUND APPLICATION PRODUCTS FOR THE INDIAN SPACE INDUSTRY – ROCKETS & SATELLITES",
+    "date": "Thu, 22 Oct 2026 10:25:46 +0000"
+   },
+   "https://sundartechno.com/?p=12148": {
+    "title": "BUILT TO PERFORM IN TOUGH CONDITIONS",
+    "date": "Thu, 22 Oct 2026 10:03:51 +0000"
+   },
+   "https://sundartechno.com/?p=12143": {
+    "title": "ARM ON WINDOWS (AOW) RUGGED TABLET",
+    "date": "Thu, 22 Oct 2026 09:44:05 +0000"
+   },
+   "https://sundartechno.com/?p=12138": {
+    "title": "IPFire INDUSTRIAL GRADE FIREWALL",
+    "date": "Thu, 22 Oct 2026 09:28:24 +0000"
+   },
+   "https://sundartechno.com/?p=12133": {
+    "title": "OPENWRT x86 INDUSTRIAL-GRADE FIREWALL",
+    "date": "Thu, 22 Oct 2026 09:10:50 +0000"
+   },
+   "https://sundartechno.com/?p=12128": {
+    "title": "15.6″ STS INDUSTRIAL PANEL PC FOR AVEVA EDGE HMI/SCADA APPLICATIONS",
+    "date": "Thu, 22 Oct 2026 08:03:42 +0000"
+   },
+   "https://sundartechno.com/?p=12122": {
+    "title": "MANY SCADAs. ONE STS INDUSTRIAL PANEL PC.",
+    "date": "Thu, 22 Oct 2026 07:44:35 +0000"
+   },
+   "https://sundartechno.com/?p=12117": {
+    "title": "MULTI-CONSTELLATION L1 • L2 • L5 GNSS ANTENNA",
+    "date": "Thu, 22 Oct 2026 07:30:06 +0000"
+   },
+   "https://sundartechno.com/?p=12112": {
+    "title": "WIDE-TEMPERATURE INDUSTRIAL RUGGED LAPTOP",
+    "date": "Thu, 22 Oct 2026 07:16:35 +0000"
+   }
+  },
+  "summary": "10 条；最新：Thu, 22 Oct 2026 11:01:10 STAINLESS STEEL ATM & KIOSK USB KEYPAD",
+  "error": null,
   "profile": null,
   "fields": null,
   "channel_id": null,
   "final_url": "https://sundartechno.com/feed/",
-  "text": "429 Too Many Requests\nYou have been rate-limited for making too many requests in a short time frame.\nWebsite owner? If you think you have reached this message in error, please contact support.",
-  "last_change_at": "2026-10-23T02:54:23Z",
+  "text": "Thu, 22 Oct 2026 11:01:10 +0000\tSTAINLESS STEEL ATM & KIOSK USB KEYPAD\thttps://sundartechno.com/2026/10/22/stainless-steel-kiosk-atm-usb-keypad/\nThu, 22 Oct 2026 10:25:46 +0000\tGROUND APPLICATION PRODUCTS FOR THE INDIAN SPACE INDUSTRY – ROCKETS & SATELLITES\thttps://sundartechno.com/2026/10/22/ground-application-products-indian-space-industry/\nThu, 22 Oct 2026 10:03:51 +0000\tBUILT TO PERFORM IN TOUGH CONDITIONS\thttps://sundartechno.com/2026/10/22/sts-r1412l-fully-rugged-laptop/\nThu, 22 Oct 2026 09:44:05 +0000\tARM ON WINDOWS (AOW) RUGGED TABLET\thttps://sundartechno.com/2026/10/22/arm-on-windows-rugged-tablet/\nThu, 22 Oct 2026 09:28:24 +0000\tIPFire INDUSTRIAL GRADE FIREWALL\thttps://sundartechno.com/2026/10/22/industrial-grade-firewall-ipfire/\nThu, 22 Oct 2026 09:10:50 +0000\tOPENWRT x86 INDUSTRIAL-GRADE FIREWALL\thttps://sundartechno.com/2026/10/22/openwrt-x86-industrial-grade-firewall/\nThu, 22 Oct 2026 08:03:42 +0000\t15.6″ STS INDUSTRIAL PANEL PC FOR AVEVA EDGE HMI/SCADA APPLICATIONS\thttps://sundartechno.com/2026/10/22/15-6-industrial-panel-pc-aveva-edge/\nThu, 22 Oct 2026 07:44:35 +0000\tMANY SCADAs. ONE STS INDUSTRIAL PANEL PC.\thttps://sundartechno.com/2026/10/22/21-5-industrial-panel-pc-scada/\nThu, 22 Oct 2026 07:30:06 +0000\tMULTI-CONSTELLATION L1 • L2 • L5 GNSS ANTENNA\thttps://sundartechno.com/2026/10/22/multi-constellation-gnss-antenna-navic-gps/\nThu, 22 Oct 2026 07:16:35 +0000\tWIDE-TEMPERATURE INDUSTRIAL RUGGED LAPTOP\thttps://sundartechno.com/2026/10/22/wide-temperature-industrial-laptop/",
+  "last_change_at": "2026-10-23T03:05:43Z",
   "first_seen": "2026-10-23T02:54:23Z"
  },
  "SA-049/home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "6ed412a66ba68a03bae10ef053c8f1e03c44cd70",
   "items": {},
@@ -1789,7 +1830,7 @@
  },
  "SA-049/indiamart_minisite": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "9bce10274699b1392b72e8b805ba4c568a50ce33",
   "items": {},
@@ -1805,7 +1846,7 @@
  },
  "SA-012/mastodon_instance": {
   "kind": "json",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "3f76808b13d6d201dca383a5563bc79cb364a67c",
   "items": {},
@@ -1831,7 +1872,7 @@
  },
  "SA-012/chewie_rss": {
   "kind": "rss",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "8dcc0d25495e85249792095bc3132e5bc9283e1e",
   "items": {
@@ -1928,7 +1969,7 @@
  },
  "SA-012/home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "439f45d461e5024a0431f94c93e535027e985ae1",
   "items": {},
@@ -1944,9 +1985,9 @@
  },
  "SA-001/home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
-  "hash": "f1c3adc5a9966447ded85766909fd35a3f0f283b",
+  "hash": "243e128ec8e3926066eec769240003a3cfea13e3",
   "items": {},
   "summary": "3630 字符；首行：Astel Digicom I House of all kinds of cables and connectors",
   "error": null,
@@ -1954,13 +1995,13 @@
   "fields": null,
   "channel_id": null,
   "final_url": "https://asteldigicom.com/",
-  "text": "Astel Digicom I House of all kinds of cables and connectors\nThe store will not work correctly when cookies are disabled.\nX\nTell us what you think\nName\nEmail\nMobile\nHow did you find us?\nPlease Select\nGoogle\nAstel Intro email\nFrom another dealer, friend\nExisting customer\nDid you buy anything from Astel?\nPlease Select\nYes\nNo\nCompany\nRate us\nFeedback\nSubmit\nSkip to Content\nSign In\nMy Wish List\nMy Cart\nToggle Nav\nSearch\nAdvanced Search\nSearch\nMenu\nHome\nCable TV All Products\nModulators\nAmplifiers\nCoaxial Cables for Cable and Satellite\nCable Pulling and Duct Rod\nFiber optic Transmitter, OLT, Node\nIndoor Tapoffs and Splitters\nOutdoor Passives\nCable TV Power Supply\nCable TV Testing Instruments\nAccessories\nIPTV & Digital HE Encoders and Modulators\nCables All products\nCable Pulling and Duct Rod\nCoaxial Cables RG59 Series\nCoaxial Cables RG6 Series\nCoaxial Cables RG11 and RG500 Series\nCoaxial Cables for GSM, Wireless & VSAT\nFlexible Feeder Cables 50 ohms\nFlat Elevator Cables\nSpeaker Cables\nControl Cables\nMicrophone Cables\nNetworking Cables\nTelephone Cables\nHDMI VGA AV Cables\nSolar Cables\nElectrical Cables All products\nBuilding and Panel Wires\nBare Conductor Cables\nAerial Bundle Cables\nMV Cables\nConnectors All Products\nRF Power Passives\nF type\n500 Series\nBNC Type\nN type\nTNC type\nSMA type\nUHF type\nDIN type\nFor RF Flex Feeder\nFiber Optic All products\nFiber optic Cables\nSplice Machine, OTDR and Testing\nFiber optic Transmitter, OLT, Node\nMedia Converters-Ethernet to Fiber- E2F\nMedia Converter Video to Fiber V2F\nFiber optic SFP Modules\nFiber optic Patch Cords and Pig Tails\nFiber optic Connectors Adapters Attenuators\nPatch Panels, ODF, Splice Enclosures\nFiber optic Cable Pulling and Installation\nNetworking & Telecom All products\nTelecom Cables\nNetworking Cables\nPoE Switches, Injectors, Extenders\nIndustrial Media Converters and Switch\nFace Plates and Key Stone Jacks\nPatch Panels\nConnectors\nPatch Cords\nTools\nTesting Instruments\nPower Supplies All products\nPSU Rack Mount\nTools Crimp Tools\nCompression Tools\nPunch Down Tools\nSolar Energy All Products\nSolar Panels\nSolar Invertors\nSolar Cables\nESS-Energy Storage Systems\nContact Us\nAccount\nWORLDWIDE DELIVERY\nONE STOP SHOP\nFREE TECHNICAL SUPPORT\nNew Products\nHOT\nInverex Global ESS Model SE-F12 LiFePO4 Battery 11.8 Kwh Wall Mount\nDeye BOS-B Pro-C&I ESS Solution HV 16.08kWh LiFePO4 Battery\nDeye SE-F12 ESS 12kWh LV LiFePO4 Battery\nDeye BOS-G PRO C&I ESS Solution HV 5.12kWh Battery\nDeye BOS-A C&I ESS Solution HV 7.68 kWh Battery\nInverex Solar Air Conditioner with Built-in Solar MPPT Inverter\nDeye SE-F5 Plus 5kWh LV LiFePO4 Battery\nDeye ESS 16kWh LV LiFePO4 Battery\nBest Sellers\nVideo to Fiber Converter 4V1D 5MP\nHOT\nU/FTP CAT6A Outdoor Individual Pair Shielded Pure Copper for 10G Data Networks\nHOT\nE2F-Ethernet to Fiber Media Converter GB Single Mode Single Fiber\n4/8 HDMI input to DVB-T/C Digital Encoder Modulator DHE-711X\nQuick Links\nAbout us\nContact Us\nBlog\nTestimonials\nSitemap\nInformation\nShipping Information\nOne Stop Shop\nFree Technical Support\nPrivacy Policy\nCookie Policy\nAddress\nAstel Digicom Electronics LLC\nShop no 22, Baghlaf Building, Naif Road, Deira, Dubai\nASTEL Digicom Electronics LLC\nNaif Road, Dubai, UAE\nContact Us\nasteldigicom@eim.ae\n+971-4-2523470\n+971-4 2523480\n+971-4-2523470\nSign In\nRegister\nEmail\nPassword\nSign In\nForgot Your Password?\nName\nFirst Name\nMiddle Name/Initial\nLast Name\nEmail\nSign Up for Newsletter\nPassword\nConfirm Password\nCreate an Account\nRegister with :\nPlease enter your email address below to receive a password reset link.\nEmail\nSubmit\nLogin with Google\nRegister with Google\n© 2024 Astel Digicom. All Rights Reserved.",
-  "last_change_at": "2026-10-23T02:54:23Z",
+  "text": "Astel Digicom I House of all kinds of cables and connectors\nThe store will not work correctly when cookies are disabled.\nX\nTell us what you think\nName\nEmail\nMobile\nHow did you find us?\nPlease Select\nGoogle\nAstel Intro email\nFrom another dealer, friend\nExisting customer\nDid you buy anything from Astel?\nPlease Select\nYes\nNo\nCompany\nRate us\nFeedback\nSubmit\nSkip to Content\nSign In\nMy Wish List\nMy Cart\nToggle Nav\nSearch\nAdvanced Search\nSearch\nMenu\nHome\nCable TV All Products\nModulators\nAmplifiers\nCoaxial Cables for Cable and Satellite\nCable Pulling and Duct Rod\nFiber optic Transmitter, OLT, Node\nIndoor Tapoffs and Splitters\nOutdoor Passives\nCable TV Power Supply\nCable TV Testing Instruments\nAccessories\nIPTV & Digital HE Encoders and Modulators\nCables All products\nCable Pulling and Duct Rod\nCoaxial Cables RG59 Series\nCoaxial Cables RG6 Series\nCoaxial Cables RG11 and RG500 Series\nCoaxial Cables for GSM, Wireless & VSAT\nFlexible Feeder Cables 50 ohms\nFlat Elevator Cables\nSpeaker Cables\nControl Cables\nMicrophone Cables\nNetworking Cables\nTelephone Cables\nHDMI VGA AV Cables\nSolar Cables\nElectrical Cables All products\nBuilding and Panel Wires\nBare Conductor Cables\nAerial Bundle Cables\nMV Cables\nConnectors All Products\nRF Power Passives\nF type\n500 Series\nBNC Type\nN type\nTNC type\nSMA type\nUHF type\nDIN type\nFor RF Flex Feeder\nFiber Optic All products\nFiber optic Cables\nSplice Machine, OTDR and Testing\nFiber optic Transmitter, OLT, Node\nMedia Converters-Ethernet to Fiber- E2F\nMedia Converter Video to Fiber V2F\nFiber optic SFP Modules\nFiber optic Patch Cords and Pig Tails\nFiber optic Connectors Adapters Attenuators\nPatch Panels, ODF, Splice Enclosures\nFiber optic Cable Pulling and Installation\nNetworking & Telecom All products\nTelecom Cables\nNetworking Cables\nPoE Switches, Injectors, Extenders\nIndustrial Media Converters and Switch\nFace Plates and Key Stone Jacks\nPatch Panels\nConnectors\nPatch Cords\nTools\nTesting Instruments\nPower Supplies All products\nPSU Rack Mount\nTools Crimp Tools\nCompression Tools\nPunch Down Tools\nSolar Energy All Products\nSolar Panels\nSolar Invertors\nSolar Cables\nESS-Energy Storage Systems\nContact Us\nAccount\nWORLDWIDE DELIVERY\nONE STOP SHOP\nFREE TECHNICAL SUPPORT\nNew Products\nDeye SE-F12 ESS 12kWh LV LiFePO4 Battery\nDeye BOS-G PRO C&I ESS Solution HV 5.12kWh Battery\nDeye BOS-A C&I ESS Solution HV 7.68 kWh Battery\nInverex Solar Air Conditioner with Built-in Solar MPPT Inverter\nDeye SE-F5 Plus 5kWh LV LiFePO4 Battery\nDeye ESS 16kWh LV LiFePO4 Battery\nHOT\nInverex Global ESS Model SE-F12 LiFePO4 Battery 11.8 Kwh Wall Mount\nDeye BOS-B Pro-C&I ESS Solution HV 16.08kWh LiFePO4 Battery\nBest Sellers\nVideo to Fiber Converter 4V1D 5MP\nHOT\nU/FTP CAT6A Outdoor Individual Pair Shielded Pure Copper for 10G Data Networks\nHOT\nE2F-Ethernet to Fiber Media Converter GB Single Mode Single Fiber\n4/8 HDMI input to DVB-T/C Digital Encoder Modulator DHE-711X\nQuick Links\nAbout us\nContact Us\nBlog\nTestimonials\nSitemap\nInformation\nShipping Information\nOne Stop Shop\nFree Technical Support\nPrivacy Policy\nCookie Policy\nAddress\nAstel Digicom Electronics LLC\nShop no 22, Baghlaf Building, Naif Road, Deira, Dubai\nASTEL Digicom Electronics LLC\nNaif Road, Dubai, UAE\nContact Us\nasteldigicom@eim.ae\n+971-4-2523470\n+971-4 2523480\n+971-4-2523470\nSign In\nRegister\nEmail\nPassword\nSign In\nForgot Your Password?\nName\nFirst Name\nMiddle Name/Initial\nLast Name\nEmail\nSign Up for Newsletter\nPassword\nConfirm Password\nCreate an Account\nRegister with :\nPlease enter your email address below to receive a password reset link.\nEmail\nSubmit\nLogin with Google\nRegister with Google\n© 2024 Astel Digicom. All Rights Reserved.",
+  "last_change_at": "2026-10-23T03:05:43Z",
   "first_seen": "2026-10-23T02:54:23Z"
  },
  "SA-001/contact": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "e6167d9ca0c2f7127fc31747eabbc6af23788f40",
   "items": {},
@@ -1976,7 +2017,7 @@
  },
  "SC-1006/site_feed": {
   "kind": "rss",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 500,
   "hash": "b14767c9fc969d94581add5cc6d33b3cb2ec8f26",
   "items": {},
@@ -1985,14 +2026,14 @@
   "profile": null,
   "fields": null,
   "channel_id": null,
-  "final_url": "http://wizardsinc.co/?feed=rss2",
+  "final_url": "https://wizardsinc.co/?feed=rss2",
   "text": "",
   "last_change_at": "2026-10-23T02:54:23Z",
   "first_seen": "2026-10-23T02:54:23Z"
  },
  "SC-1006/home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 500,
   "hash": "b14767c9fc969d94581add5cc6d33b3cb2ec8f26",
   "items": {},
@@ -2001,14 +2042,14 @@
   "profile": null,
   "fields": null,
   "channel_id": null,
-  "final_url": "http://wizardsinc.co/",
+  "final_url": "https://wizardsinc.co/",
   "text": "",
   "last_change_at": "2026-10-23T02:54:23Z",
   "first_seen": "2026-10-23T02:54:23Z"
  },
  "SC-1006/contact": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 500,
   "hash": "b14767c9fc969d94581add5cc6d33b3cb2ec8f26",
   "items": {},
@@ -2017,14 +2058,14 @@
   "profile": null,
   "fields": null,
   "channel_id": null,
-  "final_url": "http://wizardsinc.co/?page_id=40",
+  "final_url": "https://wizardsinc.co/?page_id=40",
   "text": "",
   "last_change_at": "2026-10-23T02:54:23Z",
   "first_seen": "2026-10-23T02:54:23Z"
  },
  "SA-006/github_org": {
   "kind": "github",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "4774c86f071b7515a8986d142b2efef0306b2f80",
   "items": {
@@ -2078,7 +2119,7 @@
  },
  "SA-006/github_committer": {
   "kind": "github",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "2c75c58bbc24de361aaf93c99c77d413edce81a3",
   "items": {
@@ -2148,7 +2189,7 @@
  },
  "SA-006/site_feed": {
   "kind": "rss",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "415dd0b24f86e99d30068b5673d7b28aa8e2deab",
   "items": {
@@ -2205,7 +2246,7 @@
  },
  "SA-006/home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "e15300d525b55ea76749d5d6e854b54e83fe521a",
   "items": {},
@@ -2221,7 +2262,7 @@
  },
  "SB-335/home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "2b2dfbaf8ca6e7da3f086ee1e93e23b6c0437fc7",
   "items": {},
@@ -2237,7 +2278,7 @@
  },
  "SB-335/home_alt": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "2b2dfbaf8ca6e7da3f086ee1e93e23b6c0437fc7",
   "items": {},
@@ -2253,7 +2294,7 @@
  },
  "SB-335/ripe_asn": {
   "kind": "json",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "9df095258fd262a49dedfc684f9ecf34260b4340",
   "items": {},
@@ -2284,23 +2325,23 @@
  },
  "SB-1334/site_feed": {
   "kind": "rss",
-  "fetched_at": "2026-10-23T02:54:23Z",
-  "status": 404,
-  "hash": "89c82188388a81f51a479ee7716636fb4e63730b",
+  "fetched_at": "2026-10-23T03:05:43Z",
+  "status": 200,
+  "hash": null,
   "items": {},
   "summary": null,
-  "error": "HTTP 404",
+  "error": "ParseError: mismatched tag: line 35, column 2",
   "profile": null,
   "fields": null,
   "channel_id": null,
-  "final_url": "https://fastball.in/feed/",
+  "final_url": "https://fastball.in/?feed=rss2",
   "text": "",
   "last_change_at": "2026-10-23T02:54:23Z",
   "first_seen": "2026-10-23T02:54:23Z"
  },
  "SB-1334/home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "5995dfce6912d6042ed3c17455990fa590f4d306",
   "items": {},
@@ -2316,23 +2357,23 @@
  },
  "SB-1334/indiamart": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
-  "status": 200,
-  "hash": "6c1d9a41c97a8d0f5e13f140a76ab25f4d08ab91",
+  "fetched_at": "2026-10-23T03:05:43Z",
+  "status": 429,
+  "hash": "6d5f48f26b62a30f4be692c83275ae98927f6927",
   "items": {},
-  "summary": "3790 字符；首行：Exporter & Trader - Retailer of Fiber Optic Splicing Machines Suppliers by Fastb",
-  "error": null,
+  "summary": null,
+  "error": "HTTP 429",
   "profile": null,
   "fields": null,
   "channel_id": null,
   "final_url": "https://www.indiamart.com/fastball/",
-  "text": "Exporter & Trader - Retailer of Fiber Optic Splicing Machines Suppliers by Fastball, New Delhi Fastball\nNew Delhi\nGST\nTrustSEAL\nPayment Protected\n5 yrs\n5.0 (120) 90% Response rate\nCall Now\nFastball\nHome\nOur Products\nAbout Us\nVideos\nPhotos\nContact Us\nSearch\nCall Now\nContact Supplier\n144 F Fiber Optic Joint Enclosure Get Best Quote\nFastball Fiber Fusion Splicer Get Best Quote\n12 Port Fixed Type Rack Mount fms Get Best Quote\n96 F Fiber Optic Joint Enclosure Get Best Quote\nFastball Optical Fiber Splicing Machine Get Best Quote\n12 Port Rack Mounted Liu Fully Loaded Get Best Quote\nSignal Fire AI-5 Get Best Quote\nFiber Optics Splicing Get Best Quote\nAbout Us\nEstablished in the year 2021 \" Fastball \" has made a well-recognized name as Manufacturing, Wholesaler Trader And Retailer of Fiber Optic Cable, PLC Splitter, Optical Power Meter, Fiber Optic Joint Enclosure etc.\n“Empowering Your Connectivity: Why Choose FastBall for Telecom and IT Solutions”\n1. Unparalleled Expertise:At FastBall, we possess a deep-rooted understanding of the telecom and IT landscape. Our extensive experience allows us to craft solutions that are not only technologically advanced but also aligned with your specific industry needs.\n+ Read More\nNature of Business\nTrader - Retailer\nLegal Status of Firm\nProprietorship\nTotal Number of Employees\nUpto 10 People\nGST Number\n07AJJPR5445G1ZX\nImport Export Code (IEC)\nAJJPR5445G\nGST Registration Date\n2021\nIndiaMART Certification\nTrust Seal Verified\nOur Products\nFastball Optical Fiber Splicing Machine\nFastball Signal Fire Optical Fiber Machine\nFastball Fiber Optic Splicing machine\nView Details ❯\n12/24 F Fiber Optic Joint Enclosure\n144 F Fiber Optic Joint Enclosure\n48 F JC Bamboo Fiber Optic Joint Enclosure\nView Details ❯\n12 Port Fiber Optic Patch Panel\n24 Port Rackmount Fiber Optic Patch Panel\n96 Port Rack Mount Liu\nView Details ❯\nFastball Fiber Fusion Splicer\nFastball Signal Fire Ai7C\nFastball Signal Fire Ai 5\nView Details ❯\nSignalfire AI 6A+\nAI-5 Pro Fusion Splicer\nOptical Fiber Fusion Splicers AI-20\nView Details ❯\nFiber Optic Cleaver\nS-10 Signal fire Cleaver\nOptical Fiber Cleaver\nView Details ❯\nFiber Distribution Management System Fdms\nWall Mount Liu 24 Port\nView Details ❯\nOptical Time Domain Reflectometer Otdr\nFastball Smart Otdr\nView Details ❯\nView Complete Range\nProduct Video\nFastball Optical Fiber Splicing Machine\nFastball Signal Fire Optical Fiber Machine\nFastball AI-9 Splicing machine\nFastball AI-7C Optical Fiber Fusion Splicer\nWatch more\nDeals in HSN Code\nHSN Code\nHSN Description\n8470\nCalculating machines and pocket-size data recording, reproducing and displaying machines with calculating functions; accounting machines, postage-franking machines, ticket-issuing machines and similar machines, incorporating a calculating device; cash registers\n8517\nTelephone sets, including telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data, including apparatus for communication in a wired or wireless network (such as a local or wide area network), other than transmission or reception apparatus of heading 8443, 8525, 8527 or 8528.\n9001\nOptical fibres and optical fibre bundles; optical fibre cables other than those of heading no 8544; sheets and plates of polarising material; lenses (including contact lenses), prisms, mirrors and other optical elements, of any material, unmounted, other than such elements of glass not optically worked\nGet in touch with us\nOur Company\nAbout Us\nOur Products\nContact Us\nVideos\nPhotos\nReach Us\nFastball New Delhi, Delhi\nRishi Kumar Bansal (CEO)\nCall Now\n90% Call Response Rate\nSend SMS\nSend Email\nShare us via\nAll Rights Reserved (Terms of Use) Developed and Managed by IndiaMART InterMESH Limited\n(Mobile Site) |",
-  "last_change_at": "2026-10-23T02:54:23Z",
+  "text": "429 429 Too Many Requests",
+  "last_change_at": "2026-10-23T03:05:43Z",
   "first_seen": "2026-10-23T02:54:23Z"
  },
  "SC-349/home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "3bc9c3474c543b43ed29f2da879137556ec2712a",
   "items": {},
@@ -2348,7 +2389,7 @@
  },
  "SA-016/site_feed": {
   "kind": "rss",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "23fa4855735ab4bfe4648a04736cb6bbbc1877db",
   "items": {
@@ -2405,7 +2446,7 @@
  },
  "SA-016/home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "3d77e08b840ee88623df4e77d16076ea28ef3cf2",
   "items": {},
@@ -2421,39 +2462,39 @@
  },
  "SB-1335/news": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
-  "status": 0,
-  "hash": null,
+  "fetched_at": "2026-10-23T03:05:43Z",
+  "status": 200,
+  "hash": "a3ee0327a73a2f97736d7e1359a867bf7e70ef88",
   "items": {},
-  "summary": null,
-  "error": "ConnectTimeout: HTTPConnectionPool(host='www.rio-krsk.ru', port=80): Max retries exceeded with url: /info/news/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.rio-krsk.ru', port=80) at 0x7f4aa60bc9e0>, 'Con",
+  "summary": "7054 字符；首行：Новости - ООО ”РИО-ИМПОРТ”",
+  "error": null,
   "profile": null,
   "fields": null,
   "channel_id": null,
-  "final_url": null,
-  "text": "",
-  "last_change_at": "2026-10-23T02:54:23Z",
+  "final_url": "http://www.rio-krsk.ru/info/news/",
+  "text": "Новости - ООО ”РИО-ИМПОРТ”\nПроблемы с поставками или заменой? Обратитесь к нам — мы решим!\n(391) 291-14-24\nЦентральный офис\nrio-import2003@mail.ru\nКомпания\nО компании\nЛицензии\nПартнеры\nОтзывы клиентов\nРеквизиты\nКаталог\nSUPU ELECTRONICS\nПром разъемы\nКлеммы и кнопки\nDINKLE ENTERPRISE\nКлеммы\nWAIN ELECTRICAL\nИнструменты для работы с разъёмами\nРазъёмы для автомобильной индустрии\nПромышленные круглые разъемы М8, М12, М17, М23, М40\nПромышленные прямоугольные разъемы\nПромышленные разъемы\nHONGFA\nРеле\nUPUN ELECTRIC\nПреобразователи сигналов\nРеле\nDELTA ELECTRONICS\nИсточники питания\nOPTIMUS DRIVE\nСервоситемы\nТК (температурные контроллеры)\nПЛК\nПанели оператора\nУПП\nПЧ\nПРОФЕССИОНАЛЬНЫЙ ИНСТРУМЕНТ ДЛЯ ЭЛЕКТРОТЕХНИЧЕСКОГО МОНТАЖА\nИнструмент для затягивания стяжек FSE HS-600A/ FSE HS-519\nИнструмент для опресовки наконечников, контактов HESO A-1560TX\nИнструмент для опресовки наконечников, контактов HESO HSС8\nИнструмент для снятия изоляции Delixi DWGR-3483\nИнструмент для снятия изоляции FSE FS-D6\nИнструмент для снятия изоляции HESO HS-700B\nИнструмент для снятия изоляции HESO HS-D4\nКлючи универсальные\nДлинногубцы\nПлоскогубцы\nКусачки\nМероприятия\nМаркировка\nДокументация\nКонтакты\nИнформация\nНовости\nСтатьи\n...\n(391) 291-14-24\nКомпания\nО компании\nЛицензии\nПартнеры\nОтзывы клиентов\nРеквизиты\nКаталог\nSUPU ELECTRONICS\nПром разъемы\nКлеммы и кнопки\nDINKLE ENTERPRISE\nКлеммы\nWAIN ELECTRICAL\nИнструменты для работы с разъёмами\nРазъёмы для автомобильной индустрии\nПромышленные круглые разъемы М8, М12, М17, М23, М40\nПромышленные прямоугольные разъемы\nПромышленные разъемы\nHONGFA\nРеле\nUPUN ELECTRIC\nПреобразователи сигналов\nРеле\nDELTA ELECTRONICS\nИсточники питания\nOPTIMUS DRIVE\nСервоситемы\nТК (температурные контроллеры)\nПЛК\nПанели оператора\nУПП\nПЧ\nПРОФЕССИОНАЛЬНЫЙ ИНСТРУМЕНТ ДЛЯ ЭЛЕКТРОТЕХНИЧЕСКОГО МОНТАЖА\nИнструмент для затягивания стяжек FSE HS-600A/ FSE HS-519\nИнструмент для опресовки наконечников, контактов HESO A-1560TX\nИнструмент для опресовки наконечников, контактов HESO HSС8\nИнструмент для снятия изоляции Delixi DWGR-3483\nИнструмент для снятия изоляции FSE FS-D6\nИнструмент для снятия изоляции HESO HS-700B\nИнструмент для снятия изоляции HESO HS-D4\nКлючи универсальные\nДлинногубцы\nПлоскогубцы\nКусачки\nМероприятия\nМаркировка\nДокументация\nКонтакты\nИнформация\nНовости\nСтатьи\nНайти\nНовости\nГлавная\nИнформация\nНовости\nСтатьи\nИспытываете затруднение в поставках, в подборе правильной замены - обращайтесь к нам и специалисты компании РИО квалифицированно решат Ваши проблемы.\nИнструмент для электромонтажных работ\n29 сентября 2025\n// Новости\nПоступление в ассортименте профессионального инструмента для электромонтажных работ на склад\nООО «РИО-ИМПОРТ» г. Красноярск.\nПодробнее\nРазъемы WAIN\n3 апреля 2024\n// Новости\nБольшое поступление разъемов производителя WAIN на склад\nООО «РИО-ИМПОРТ» г. Красноярск.\nПодробнее\nКлеммы SUPU\n11 января 2023\n// Новости\nПоступление клеммной продукции SUPU на склад\nООО «РИО-ИМПОРТ» г. Красноярск.\nПодробнее\nРеле Hongfa Elecktronics\n19 декабря 2022\n// Новости\nПоступление промежуточных реле HONGFA на склад ООО «РИО-ИМПОРТ» г. Красноярск.\nПодробнее\nИсточники питания Delta Electronics\n30 ноября 2022\n// Новости\nБольшое поступление источников питания Delta Electronics на склад ООО «РИО-ИМПОРТ» г. Красноярск.\nПодробнее\nРИО-ИМПОРТ дистрибьютер продукции FESTO\n21 октября 2020\n// Новости\nВ октябре текущего года РИО-ИМПОРТ заключило дистрибьюторский договор с ФЕСТО-РФ (Festo) на поставку продукции по Красноярскому краю и республике Хакасия. Склад в Красноярске\nПодробнее\nВертикальный разъем push-in для ограниченных монтажных условий\n16 апреля 2019\n// Новости\nКлеммные блоки серии PTV с боковым вводом провода являются новинкой Phoenix Contact. Боковой ввод обеспечивает улучшенный обзор разводки в ограниченных монтажных условиях и не создает изгибов проводов.\nСклад в Красноярске\nПодробнее\nМаркировка в виде треугольника, квадрата, круга\n16 апреля 2019\n// Новости\nPhoenix Contact расширяет ассортимент коммутаторов серии 2000 новыми тремя моделями с функцией NAT.\nСклад в Красноярске.\nПодробнее\nГибкая сегментация сетей\n18 декабря 2018\n// Новости\nPhoenix Contact расширяет ассортимент коммутаторов серии 2000 новыми тремя моделями с функцией NAT.\nСклад в Красноярске.\nПодробнее\nНовые PoE-инжекторы от Phoenix Contact!\n26 июля 2018\n// Новости\nНа объекте установлены коммутаторы без поддержки PoE, а перед Вами встала задача предусмотреть эту технологию? В проекте используется большое количество PoE-подключений и использовать коммутаторы не выгодно, да к тому же требуется полная мощность....\nСклад в Красноярске\nПодробнее\nОтводные клеммы для болтовых клемм с зажимами push-in\n24 июля 2018\n// Новости\nНовые отводные клеммы AGK для сильноточных болтовых клемм серии HV и RBO обеспечивают простую возможность распределения или объединения потенциалов.\nПодробнее\nВсего 6 мм для распределения потенциалов и селективного отключения неисправностей\n5 июля 2018\n// Новости\nОдноканальный электронный автоматический выключатель PTCB от Phoenix Contact с регулируемым номиналом от 1 до 8 А идеально подходит для задач, где требуется простое и компактное распределение потенциалов. Склад в Красноярске.\nПодробнее\nКомпактные потенциальные клеммные блоки с винтовым соединением и зажимом push-in\n2 июля 2018\n// Новости\nКомпактные потенциальные клеммные блоки PT и PTU предлагают множество вариантов использования. На складе в Красноярске.\nПодробнее\nИБП 24 В с Ethernet интерфейсом\n1 июня 2018\n// Новости\nС помощью Ethernet интерфейса можно интегрировать новые QUINT4-UPS в существующие системы управления, и получать всю информацию о состоянии ИБП и батареи. Склад в Красноярске.\nПодробнее\nПрочные коммутаторы PoE\n1 июня 2018\n// Новости\nPhoenix Contact дополняет свой ассортимент промышленных коммутаторов PoE новыми управляемыми и неуправляемыми коммутаторами. Склад в Красноярске.\nПодробнее\nБыстрое соединение и безопасное питание\n10 мая 2018\n// Новости\nВосемь новых устройств Phoenix Contact для установки на несущую рейку предлагают множество вариантов присоединения.\nПодробнее\nДоступен для заказа новый ручной принтер THERMOFOX RU\n16 апреля 2018\n// Новости\nПереносной термопечатающий принтер для рулонных материалов, версия с русифицированным микропрограммным обеспечением и клавиатурой с русской раскладкой\nПодробнее\nEssential Power\n10 апреля 2018\n// Новости\nEssential Power — это простые и надежные импульсные источники питания для систем автоматики обогрева, вентиляции и кондиционирования, для различных машин и станков, для светодиодного освещения, а также других применений массового рынка.\nПодробнее\nНовые QUINT4 мощностью менее 100 Вт!\n9 апреля 2018\n// Новости\nОбъявляется старт продаж новых QUINT4 мощностью менее 100 Вт. Склад в Красноярске!\nПодробнее\nФеникс Контакт в Красноярске\n8 февраля 2018\n// Новости\nНемецкий концерн Феникс Контакт в Красноярске (Феникс Контакт РУС в Красноярске). Официальный дистрибьютор ООО \"РИО-ИМПОРТ\"\nПодробнее\n1\n2\n3\n4\n5\n© 2026 ООО ”РИО-ИМПОРТ”.\nРазработка “Графикс”\nВсе права защищены.\nКаталог\nМероприятия\nНовости\nСтатьи\nВопросы и ответы\nКомпания\nКонтакты\n(391) 291-14-24\nrio-import2003@mail.ru",
+  "last_change_at": "2026-10-23T03:05:43Z",
   "first_seen": "2026-10-23T02:54:23Z"
  },
  "SB-1335/home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
-  "status": 0,
-  "hash": null,
+  "fetched_at": "2026-10-23T03:05:43Z",
+  "status": 200,
+  "hash": "d2ada21802493c911e601e8bcd590972e7da76bc",
   "items": {},
-  "summary": null,
-  "error": "ConnectTimeout: HTTPConnectionPool(host='www.rio-krsk.ru', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='www.rio-krsk.ru', port=80) at 0x7f4aa60bcbf0>, 'Connection to",
+  "summary": "4999 字符；首行：ООО ”РИО-ИМПОРТ” - Главная",
+  "error": null,
   "profile": null,
   "fields": null,
   "channel_id": null,
-  "final_url": null,
-  "text": "",
-  "last_change_at": "2026-10-23T02:54:23Z",
+  "final_url": "http://www.rio-krsk.ru/",
+  "text": "ООО ”РИО-ИМПОРТ” - Главная\nПроблемы с поставками или заменой? Обратитесь к нам — мы решим!\n(391) 291-14-24\nЦентральный офис\nrio-import2003@mail.ru\nКомпания\nО компании\nЛицензии\nПартнеры\nОтзывы клиентов\nРеквизиты\nКаталог\nSUPU ELECTRONICS\nПром разъемы\nКлеммы и кнопки\nDINKLE ENTERPRISE\nКлеммы\nWAIN ELECTRICAL\nИнструменты для работы с разъёмами\nРазъёмы для автомобильной индустрии\nПромышленные круглые разъемы М8, М12, М17, М23, М40\nПромышленные прямоугольные разъемы\nПромышленные разъемы\nHONGFA\nРеле\nUPUN ELECTRIC\nПреобразователи сигналов\nРеле\nDELTA ELECTRONICS\nИсточники питания\nOPTIMUS DRIVE\nСервоситемы\nТК (температурные контроллеры)\nПЛК\nПанели оператора\nУПП\nПЧ\nПРОФЕССИОНАЛЬНЫЙ ИНСТРУМЕНТ ДЛЯ ЭЛЕКТРОТЕХНИЧЕСКОГО МОНТАЖА\nИнструмент для затягивания стяжек FSE HS-600A/ FSE HS-519\nИнструмент для опресовки наконечников, контактов HESO A-1560TX\nИнструмент для опресовки наконечников, контактов HESO HSС8\nИнструмент для снятия изоляции Delixi DWGR-3483\nИнструмент для снятия изоляции FSE FS-D6\nИнструмент для снятия изоляции HESO HS-700B\nИнструмент для снятия изоляции HESO HS-D4\nКлючи универсальные\nДлинногубцы\nПлоскогубцы\nКусачки\nМероприятия\nМаркировка\nДокументация\nКонтакты\nИнформация\nНовости\nСтатьи\n...\n(391) 291-14-24\nКомпания\nО компании\nЛицензии\nПартнеры\nОтзывы клиентов\nРеквизиты\nКаталог\nSUPU ELECTRONICS\nПром разъемы\nКлеммы и кнопки\nDINKLE ENTERPRISE\nКлеммы\nWAIN ELECTRICAL\nИнструменты для работы с разъёмами\nРазъёмы для автомобильной индустрии\nПромышленные круглые разъемы М8, М12, М17, М23, М40\nПромышленные прямоугольные разъемы\nПромышленные разъемы\nHONGFA\nРеле\nUPUN ELECTRIC\nПреобразователи сигналов\nРеле\nDELTA ELECTRONICS\nИсточники питания\nOPTIMUS DRIVE\nСервоситемы\nТК (температурные контроллеры)\nПЛК\nПанели оператора\nУПП\nПЧ\nПРОФЕССИОНАЛЬНЫЙ ИНСТРУМЕНТ ДЛЯ ЭЛЕКТРОТЕХНИЧЕСКОГО МОНТАЖА\nИнструмент для затягивания стяжек FSE HS-600A/ FSE HS-519\nИнструмент для опресовки наконечников, контактов HESO A-1560TX\nИнструмент для опресовки наконечников, контактов HESO HSС8\nИнструмент для снятия изоляции Delixi DWGR-3483\nИнструмент для снятия изоляции FSE FS-D6\nИнструмент для снятия изоляции HESO HS-700B\nИнструмент для снятия изоляции HESO HS-D4\nКлючи универсальные\nДлинногубцы\nПлоскогубцы\nКусачки\nМероприятия\nМаркировка\nДокументация\nКонтакты\nИнформация\nНовости\nСтатьи\nНайти\nПрофессиональный инструмент для электротехнического монтажа\nПосмотреть каталог\nПромышленные источники питания\nУзнать больше\nНизкие цены и широкий ассортимент\nКонтакты\nВесь товар сертифицирован\nПредоставляемые услуги\nУслуги\nКомпания специализируется на оказании широкого спектра услуг как для корпоративных клиентов так и для частных лиц. Профессионализм и ответственность ключевые преимущества нашей компании.\nМаркировка\nДокументация\nКаталог товаров\nКаталог\nПоставка широкого спектра товаров и промышленного оборудования как для корпоративных клиентов так и для частных лиц. Профессионализм и ответственность ключевые преимущества нашей компании.\nDELTA ELECTRONICS\nSUPU ELECTRONICS\nDINKLE ENTERPRISE\nHONGFA\nOPTIMUS DRIVE\nUPUN ELECTRIC\nWAIN ELECTRICAL\nПРОФЕССИОНАЛЬНЫЙ ИНСТРУМЕНТ ДЛЯ ЭЛЕКТРОТЕХНИЧЕСКОГО МОНТАЖА\nНаши товары\nТовары\nКлеммы и кнопки\nВ наличии\nПром разъемы\nВ наличии\nКлеммы\nВ наличии\nПромышленные разъемы\nВ наличии\nПромышленные прямоугольные разъемы\nВ наличии\nПромышленные круглые разъемы М8, М12, М17, М23, М40\nВ наличии\nРазъёмы для автомобильной индустрии\nВ наличии\nИнструменты для работы с разъёмами\nВ наличии\nРеле\nВ наличии\nРеле\nВ наличии\nПреобразователи сигналов\nВ наличии\nИсточники питания\nВ наличии\nПЧ\nВ наличии\nУПП\nВ наличии\nПанели оператора\nВ наличии\nПЛК\nВ наличии\nТК (температурные контроллеры)\nВ наличии\nСервоситемы\nВ наличии\nКусачки\nВ наличии\nПлоскогубцы\nВ наличии\nДлинногубцы\nВ наличии\nКлючи универсальные\nВ наличии\nИнструмент для снятия изоляции HESO HS-D4\nВ наличии\nИнструмент для снятия изоляции HESO HS-700B\nВ наличии\nИнструмент для снятия изоляции FSE FS-D6\nВ наличии\nИнструмент для снятия изоляции Delixi DWGR-3483\nВ наличии\nИнструмент для опресовки наконечников, контактов HESO HSС8\nВ наличии\nИнструмент для опресовки наконечников, контактов HESO A-1560TX\nВ наличии\nИнструмент для затягивания стяжек FSE HS-600A/ FSE HS-519\nВ наличии\nО компании\nПримите наши самые искренние пожелания успешной работы Вам и Вашему предприятию!\nГруппа компаний РИО — одна из крупнейших поставщиков в Красноярском регионе полного спектра оборудования для АСУТП, шкафного оборудования электронных компонентов. Вся продукция, поставляемая нашими предприятиями, сертифицирована и соответствует стандартам качества РФ. Мы полностью несём ответственность по своим обязательствам, что является, пожалуй, самым главным аспектом в сотрудничестве поставщика и потребителя!\nВсе новости\nНовости\n29 сентября 2025\nИнструмент для электромонтажных работ\n3 апреля 2024\nРазъемы WAIN\n11 января 2023\nКлеммы SUPU\n19 декабря 2022\nРеле Hongfa Elecktronics\n© 2026 ООО ”РИО-ИМПОРТ”.\nРазработка “Графикс”\nВсе права защищены.\nКаталог\nМероприятия\nНовости\nСтатьи\nВопросы и ответы\nКомпания\nКонтакты\n(391) 291-14-24\nrio-import2003@mail.ru",
+  "last_change_at": "2026-10-23T03:05:43Z",
   "first_seen": "2026-10-23T02:54:23Z"
  },
  "SA-007/home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "730d07d43c15ea887f0f3bd905e2cfecaaaf0e07",
   "items": {},
@@ -2469,7 +2510,7 @@
  },
  "SA-007/security_cat": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "f3fddbf67222ccacabd7a598ffa66cab02117cae",
   "items": {},
@@ -2485,7 +2526,7 @@
  },
  "SA-064/home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "3fd5a93201d672b60b4ed008dcc5722e6f420a26",
   "items": {},
@@ -2501,7 +2542,7 @@
  },
  "SA-064/govtribe": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 403,
   "hash": "a4fd115ca121f210d7ad5c68adf594fc7c146a20",
   "items": {},
@@ -2517,7 +2558,7 @@
  },
  "SA-064/gsa_elibrary": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "e63dc24878fa360d1fa1cc8f2e2ef306a759bb54",
   "items": {},
@@ -2533,7 +2574,7 @@
  },
  "SA-013/nynex_home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "0af928bf6fb68ecb4324e7446c44b80e1b0522a3",
   "items": {},
@@ -2549,7 +2590,7 @@
  },
  "SA-013/fiberone_home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "fedad1add330940c6b94274666e0e0aeef987d81",
   "items": {},
@@ -2565,7 +2606,7 @@
  },
  "SA-013/peeringdb": {
   "kind": "json",
-  "fetched_at": "2026-10-23T02:54:23Z",
+  "fetched_at": "2026-10-23T03:05:43Z",
   "status": 200,
   "hash": "208da62b91394b1555b3c4422c1dc5687812c701",
   "items": {},
