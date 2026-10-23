@@ -69,6 +69,13 @@ def log(*a):
     print(f'[{time.time() - T0:7.1f}s]', *a, flush=True)
 
 
+def _free_gb(path):
+    try:
+        return round(shutil.disk_usage(path).free / 1024 ** 3, 1)
+    except Exception:  # noqa
+        return '?'
+
+
 def now():
     return datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
 
@@ -461,6 +468,13 @@ def main():
             manifest['unpack_warnings'] += [f'{name}: {w}' for w in warns]
             if not ok:
                 abort(3, f'cannot unpack {name}: {warns[-1] if warns else "?"}')
+            if not LOCAL_FILES and (SOURCE_RELEASE or (manifest.get('backup') or {}).get(name, {}).get('ok')):
+                # 原件已在 Release（本就来自 Release，或刚备份成功）→ 解包后立即删掉本地 zip，省出磁盘（4.36 GB 的 Extra Info 若落在根盘很容易撑满）
+                try:
+                    os.remove(p)
+                    log('freed source archive after unpack:', name, 'free', _free_gb(RAW_DIR), 'GB')
+                except Exception as e:  # noqa
+                    log('could not remove source archive', e)
             for dp, _, fns in os.walk(d):
                 for fn in sorted(fns):
                     fp = os.path.join(dp, fn)
@@ -492,7 +506,7 @@ def main():
         write_json(os.path.join(OUT, 'manifest.json'), manifest)
         st = Counter(f['status'] for f in manifest['files'])
         line = (f'- {now()} 进度：抽取 {done_n}/{len(uniq)}（ok {st.get("ok", 0)} / meta {st.get("meta", 0)} / fail {st.get("fail", 0)} / dup {st.get("dup", 0)}），'
-                f'用时 {(time.time() - T0) / 60:.1f} min\n')
+                f'用时 {(time.time() - T0) / 60:.1f} min，磁盘剩余 RAW {_free_gb(RAW_DIR)} GB / OUT {_free_gb(OUT)} GB\n')
         sp = os.path.join(OUT, '_run_status.md')
         head = f'# {TITLE} · 运行状态\n\n'
         prev = open(sp, encoding='utf-8').read() if os.path.exists(sp) else ''
