@@ -237,11 +237,49 @@ def snapshot(cfg, prev=None):
     return snap
 
 
-def diff(prev, cur):
-    """返回变化条目列表（中文、可直接写入日志）。"""
+SEEN_PATH = os.path.join(OUT, 'seen.json')
+
+
+def load_seen():
+    if os.path.exists(SEEN_PATH):
+        return {k: set(v) for k, v in json.load(open(SEEN_PATH, encoding='utf-8')).items()}
+    return {}
+
+
+def save_seen(seen):
+    with open(SEEN_PATH, 'w', encoding='utf-8') as f:
+        json.dump({k: sorted(v) for k, v in seen.items()}, f, ensure_ascii=False, indent=0)
+
+
+def diff(prev, cur, seen=None):
+    """返回变化条目列表（中文、可直接写入日志）。
+    seen = 历史累计已见键集合（跨所有快照）：GitHub 搜索索引偶尔漏返回旧条目，若只与上一快照比会反复误报「新」；
+    因此 PR/issue/参与/提及/搜索命中/事件 只有在**从未见过**时才算新。"""
     out = []
+    seen = seen if seen is not None else {}
+    def first_time(bucket, key):
+        b = seen.setdefault(bucket, set())
+        if key in b:
+            return False
+        b.add(key)
+        return True
     if not prev:
         out.append('首轮基线建立（无上一快照可比）')
+        # 仍要把当前所有键登记为已见
+        for kind in ('pull-request', 'issue'):
+            for x in cur.get('authored', {}).get(kind, []):
+                first_time('authored', f'{x["repo"]}#{x["number"]}')
+        for x in cur.get('involves_recent', []):
+            first_time('involves', f'{x["repo"]}#{x["number"]}')
+        for e in cur.get('events', []):
+            first_time('events', e['id'])
+        for repo, d in cur.get('upstream', {}).items():
+            for m in d.get('smartbyte_mentions', []):
+                first_time('mentions', f'{repo}#{m["number"]}')
+        for q, r in cur.get('searches', {}).items():
+            if isinstance(r, dict) and 'hits' in r:
+                for h in r['hits']:
+                    first_time('search:' + q, h)
         return out
     # 档案
     for k in ('name', 'company', 'blog', 'location', 'bio', 'public_repos', 'followers', 'following'):
@@ -280,7 +318,8 @@ def diff(prev, cur):
         ck = {(x['repo'], x['number']): x for x in cur.get('authored', {}).get(kind, [])}
         for key in sorted(set(ck) - set(pk)):
             x = ck[key]
-            out.append(f'新 {kind} {x["repo"]}#{x["number"]}「{x["title"]}」{x["created"][:10]} {x["url"]}')
+            if first_time('authored', f'{x["repo"]}#{x["number"]}'):
+                out.append(f'新 {kind} {x["repo"]}#{x["number"]}「{x["title"]}」{x["created"][:10]} {x["url"]}')
         for key in sorted(set(ck) & set(pk)):
             a, b = pk[key], ck[key]
             if (a['state'], a.get('merged'), a['updated']) != (b['state'], b.get('merged'), b['updated']):
@@ -290,12 +329,12 @@ def diff(prev, cur):
     # 参与
     pi = {(x['repo'], x['number']) for x in prev.get('involves_recent', [])}
     for x in cur.get('involves_recent', []):
-        if (x['repo'], x['number']) not in pi:
+        if (x['repo'], x['number']) not in pi and first_time('involves', f'{x["repo"]}#{x["number"]}'):
             out.append(f'新参与（评论/被提及/审阅）{x.get("kind")} {x["repo"]}#{x["number"]}「{x["title"]}」by {x.get("author")} 更新 {x["updated"][:10]} {x["url"]}')
     # 事件
     pe = {e['id'] for e in prev.get('events', [])}
     for e in cur.get('events', []):
-        if e['id'] not in pe:
+        if e['id'] not in pe and first_time('events', e['id']):
             out.append(f'新公开事件 {e["at"]} {e["type"]} {e["repo"]} {e.get("action") or ""} {e.get("ref") or ""} {e.get("title") or ""}'.strip())
     # star / following / gists
     ps = {s['repo'] for s in prev.get('starred', []) if isinstance(s, dict)}
@@ -325,7 +364,7 @@ def diff(prev, cur):
                 out.append(f'上游 {repo} 文件变更 {p}（{lc.get("date", "")[:10]} by {lc.get("author")}：{lc.get("msg")}）')
         pm = {m['number'] for m in (prev.get('upstream', {}).get(repo) or {}).get('smartbyte_mentions', [])}
         for m in d.get('smartbyte_mentions', []):
-            if m['number'] not in pm:
+            if m['number'] not in pm and first_time('mentions', f'{repo}#{m["number"]}'):
                 out.append(f'上游 {repo} 新的 SmartByte 相关 {"PR" if m["is_pr"] else "issue"} #{m["number"]}「{m["title"]}」by {m["author"]} {m["created"][:10]} {m["url"]}')
     # 搜索
     for q, r in cur.get('searches', {}).items():
@@ -334,7 +373,7 @@ def diff(prev, cur):
         pr_ = prev.get('searches', {}).get(q) or {}
         ph = set(pr_.get('hits', [])) if isinstance(pr_, dict) else set()
         for h in r['hits']:
-            if h not in ph:
+            if h not in ph and first_time('search:' + q, h):
                 out.append(f'搜索 {q} 新命中：{h}')
         if isinstance(pr_, dict) and pr_.get('total') != r.get('total'):
             out.append(f'搜索 {q} 总数：{pr_.get("total")} → {r.get("total")}')
@@ -429,8 +468,18 @@ def main():
     os.makedirs(os.path.join(OUT, 'snapshots'), exist_ok=True)
     latest = os.path.join(OUT, 'latest.json')
     prev = json.load(open(latest, encoding='utf-8')) if os.path.exists(latest) else None
+    seen = load_seen()
+    if not seen:
+        # 首次：用历史全部快照播种已见集合，避免把旧条目当新
+        import glob
+        for sp in sorted(glob.glob(os.path.join(OUT, 'snapshots', '*.json'))):
+            try:
+                diff(None, json.load(open(sp, encoding='utf-8')), seen)
+            except Exception:
+                pass
     cur = snapshot(cfg, prev)
-    changes = diff(prev, cur)
+    changes = diff(prev, cur, seen)
+    save_seen(seen)
     saved = [] if NO_FILES else archive_files(cfg, cur, prev)
     with open(os.path.join(OUT, 'snapshots', TS.replace(':', '') + '.json'), 'w', encoding='utf-8') as f:
         json.dump(cur, f, ensure_ascii=False, indent=1)
