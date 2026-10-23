@@ -1770,5 +1770,15 @@ def maybe_dispatch_run_file():
 
 
 if __name__ == '__main__':
+    # T29-U19b：先把运行器磁盘整理好（清预装大件、选大盘做 RAW_DIR/ZIP_DIR/TMPDIR），再分发/开跑；
+    # 子任务通过 execve 继承 env，故 RAW_DIR 等一并带过去；本进程（Drive 任务）同步更新模块常量。
+    try:
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+        import runner_disk
+        runner_disk.prepare('drive-ingest dispatcher')
+        RAW_DIR = os.environ.get('RAW_DIR') or RAW_DIR
+        ZIP_DIR = os.environ.get('ZIP_DIR') or ZIP_DIR
+    except Exception as _e:  # noqa
+        log('runner_disk skipped:', repr(_e)[:200])
     maybe_dispatch_run_file()
     main()

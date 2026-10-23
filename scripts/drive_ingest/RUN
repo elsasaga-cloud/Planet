@@ -4,7 +4,7 @@
 # - JOB=files / OUT_NAME=<目录名> / SOURCE_IDS=<Drive 文件 ID,…> → 转交 scripts/drive_ingest/files_job.py（单个文件/压缩包全保真抽取到 data/<OUT_NAME>/）；
 #   再跑 Drive 任务前要把 JOB 行删掉或注释掉。
 # - JOB=drive / INDEX=<索引 json> / OUT_DIR=<输出目录> / RELEASE_TAG=<Release 标签> / JOB_LABEL=<提交说明前缀> → 用别的索引跑同一套 Drive 任务（T29-U8 供应商文件夹第二轮）。
-# last trigger: 2026-10-23T03:18:02Z  purpose: 《Extra Info.zip》第 6 次 —— 第 5 次（02:58Z 起）下载+md5+Release 备份 3 卷全部成功（03:01:56Z），之后在解包/抽取阶段无声死亡（无任何提交；A 任务 03:12Z 能立即开跑说明它 ≤14 min 内已结束）。本次：原件直接取自 Release files-extra_info_2026-10（SOURCE_RELEASE，不再碰 Drive / 不占配额），WORKERS 4→2 降内存，抽取阶段每 10 min 提交进度，崩溃也提交 traceback。A 邮箱第 4 次 03:14:33Z 仍 QUOTA_LOCKED（02:21Z 起锁），≥15–24 h 后再触发。
+# last trigger: 2026-10-23T04:56Z  purpose: 《Extra Info.zip》第 7 次 —— 真因已查明（Simon 从 Actions 页拿到注解）：第 5/6 次都是运行器**根盘写满**（System.IO.IOException: No space left on device，Worker_20261023-031808），不是 Actions 停摆/配额。托管运行器根盘仅 ~14 GB 可用，4.36 GB zip + 解包（含内层压缩包）+ /tmp 抽取临时文件 就把它填满。本次：新增 scripts/drive_ingest/runner_disk.py —— 开跑先删预装大件（Android SDK / CodeQL / dotnet / swift / ghcup / docker 镜像…，预计腾 20–25 GB），按剩余容量选工作盘并把 RAW_DIR / ZIP_DIR / TMPDIR 都指过去，容量情况写进 _run_status.md；解包前先提交一条「来源就绪」阶段状态；内层压缩包解开后删原包；抽取循环低水位保护（<1.5 GB 跳过该文件而不是让运行器死掉）；断点续跑（manifest 里已 ok/meta 的成员下次复用）。来源仍为 Release files-extra_info_2026-10（不碰 Drive）。
 JOB=files
 OUT_NAME=extra_info_2026-10
 TITLE=Simon 补充资料《Extra Info.zip》（2026-10-22 上传到 Elsa 云盘，4.36 GB）

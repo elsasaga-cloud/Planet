@@ -42,6 +42,12 @@ from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import runner_disk  # noqa: E402  T29-U19b：运行器根盘只有 ~14 GB，先清理 + 选大盘（非 Actions 环境是空操作）
+
+runner_disk.prepare('files_job')
+DISK_NOTE = os.environ.get('RUNNER_DISK_NOTE', '')
+DELETE_INNER_ARCHIVES = os.environ.get('DELETE_INNER_ARCHIVES', '1') == '1'   # 内层压缩包解开后删原包（省盘；原件整包已在 Release）
 OUT_NAME = (os.environ.get('OUT_NAME') or '').strip()
 OUT = os.path.join(ROOT, 'data', OUT_NAME) if OUT_NAME else ''
 RAW_DIR = os.environ.get('RAW_DIR') or '/tmp/files_raw'
@@ -143,7 +149,8 @@ def abort(code, why):
     try:
         os.makedirs(OUT, exist_ok=True)
         with open(os.path.join(OUT, '_run_status.md'), 'w', encoding='utf-8') as f:
-            f.write(f'# {TITLE} · 运行状态\n\n- {now()} **ABORT（exit {code}）**：{why}\n')
+            f.write(f'# {TITLE} · 运行状态\n\n- {now()} **ABORT（exit {code}）**：{why}\n'
+                    + (f'- 磁盘：{DISK_NOTE}；此刻 {runner_disk.df_table(["/", "/mnt", RAW_DIR, OUT])}\n' if DISK_NOTE else ''))
         git_commit_push(f'files({OUT_NAME}) 入库中止：{why[:80]}')
     except Exception as e:  # noqa
         log('abort note failed', e)
@@ -314,6 +321,11 @@ def unpack(path, dest, depth=0):
                     if not os.path.exists(sub):
                         ok2, w2 = unpack(inner, sub, depth + 1)
                         warnings += [f'{fn}: {x}' for x in w2]
+                        if ok2 and DELETE_INNER_ARCHIVES:
+                            try:
+                                os.remove(inner)       # 省盘：内容已在 sub/，原包整体在 Release 备份里
+                            except OSError:
+                                pass
     return ok, warnings
 
 
@@ -325,6 +337,11 @@ def slug(rel, sha):
 
 def extract_one(item, dm):
     rel, local, ext, size, sha = item['path'], item['local'], item['ext'], item['bytes'], item['sha256']
+    try:
+        runner_disk.guard(tempfile.gettempdir(), min_gb=1.5)
+        runner_disk.guard(OUT, min_gb=1.0)
+    except runner_disk.DiskLow as e:
+        return {'status': 'fail', 'err': f'DiskLow: {e}'[:300], 'warnings': ['磁盘低水位，跳过（下次续跑会重做）']}
     tmp = tempfile.mkdtemp(prefix='fx_')
     try:
         if ext in dm.IMG_EXT and (not dm.OCR or size < OCR_MIN_KB * 1024):
@@ -472,6 +489,16 @@ def main():
     items, seen = [], {}
     work = os.path.join(RAW_DIR, 'unpacked')
     shutil.rmtree(work, ignore_errors=True)
+    # 解包前先提交一条阶段状态（第 5/6 次都死在这一步之后、首个进度提交之前，之前完全没有证据）
+    try:
+        os.makedirs(OUT, exist_ok=True)
+        sp0 = os.path.join(OUT, '_run_status.md')
+        with open(sp0, 'w', encoding='utf-8') as f:
+            f.write(f'# {TITLE} · 运行状态\n\n- {now()} 阶段：来源就绪（{", ".join(n for n, _ in paths)}），开始解包；'
+                    f'磁盘 {runner_disk.df_table(["/", "/mnt", RAW_DIR, OUT])}\n' + (f'- {DISK_NOTE}\n' if DISK_NOTE else ''))
+        git_commit_push(f'files({OUT_NAME}) 阶段：来源就绪，开始解包')
+    except Exception as e:  # noqa
+        log('stage note failed', e)
     for name, p in paths:
         ext = os.path.splitext(name)[1].lower()
         base = re.sub(r'[^\w.\-]+', '_', os.path.splitext(name)[0])
@@ -527,7 +554,8 @@ def main():
         head = f'# {TITLE} · 运行状态\n\n'
         prev = open(sp, encoding='utf-8').read() if os.path.exists(sp) else ''
         if not prev.startswith(head) or '**ABORT' in prev or '**CRASH' in prev or '✅' in prev:
-            prev = head + f'- {now()} 本次运行开始（成员 {len(items)}，唯一 {len(uniq)}，来源 {"Release " + SOURCE_RELEASE if SOURCE_RELEASE else "Drive"}，WORKERS={WORKERS}）\n'
+            prev = head + f'- {now()} 本次运行开始（成员 {len(items)}，唯一 {len(uniq)}，来源 {"Release " + SOURCE_RELEASE if SOURCE_RELEASE else "Drive"}，WORKERS={WORKERS}）\n' \
+                        + (f'- {DISK_NOTE}\n' if DISK_NOTE else '')
         with open(sp, 'w', encoding='utf-8') as f:
             f.write(prev + line)
         if not final:
@@ -556,7 +584,8 @@ def main():
     coverage(manifest)
     st = Counter(f['status'] for f in manifest['files'])
     with open(os.path.join(OUT, '_run_status.md'), 'w', encoding='utf-8') as f:
-        f.write(f'# {TITLE} · 运行状态\n\n- {now()} ✅ 完成：成员 {len(manifest["files"])}，ok {st.get("ok", 0)} / meta {st.get("meta", 0)} / fail {st.get("fail", 0)} / dup {st.get("dup", 0)}，用时 {(time.time() - T0) / 60:.1f} min\n')
+        f.write(f'# {TITLE} · 运行状态\n\n- {now()} ✅ 完成：成员 {len(manifest["files"])}，ok {st.get("ok", 0)} / meta {st.get("meta", 0)} / fail {st.get("fail", 0)} / dup {st.get("dup", 0)}，用时 {(time.time() - T0) / 60:.1f} min\n'
+                + (f'- {DISK_NOTE}\n' if DISK_NOTE else ''))
     log('DONE', dict(st))
     git_commit_push(f'files({OUT_NAME}) 入库完成：{len(manifest["files"])} 个成员，正文 {st.get("ok", 0)} / 元数据 {st.get("meta", 0)} / 失败 {st.get("fail", 0)} / 重复 {st.get("dup", 0)}')
 

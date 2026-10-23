@@ -64,6 +64,13 @@ MSG_DIR = os.path.join(OUT, 'messages')
 ATT_DIR = os.path.join(OUT, 'attachments')
 ATT_TEXT_DIR = os.path.join(ATT_DIR, 'text')
 ATT_THUMB_DIR = os.path.join(ATT_DIR, 'thumbs')
+sys.path.insert(0, os.path.join(ROOT, 'scripts', 'drive_ingest'))
+try:
+    import runner_disk  # noqa: E402  T29-U19b：运行器根盘只有 ~14 GB；A 邮箱 mbox 13.4 GB 必须先清理/选大盘
+    runner_disk.prepare('gmail_job')
+except Exception as _e:  # noqa
+    print('[disk] runner_disk skipped:', repr(_e)[:200], flush=True)
+DISK_NOTE = os.environ.get('RUNNER_DISK_NOTE', '')
 RAW_DIR = os.environ.get('RAW_DIR') or '/tmp/gmail_raw'
 SOURCE_IDS = [x.strip() for x in os.environ.get('SOURCE_IDS', '').split(',') if x.strip()]
 SOURCE_MD5 = [x.strip().lower() for x in os.environ.get('SOURCE_MD5', '').split(',')]   # 可选：与 SOURCE_IDS 对齐的 Drive md5Checksum，下载后校验
@@ -357,7 +364,7 @@ def abort(code, why):
     try:
         os.makedirs(OUT, exist_ok=True)
         with open(os.path.join(OUT, '_run_status.md'), 'w', encoding='utf-8') as f:
-            f.write(f'# Gmail({ACCOUNT}) 入库运行状态\n\n- {now()} **ABORT（exit {code}）**：{why}\n')
+            f.write(f'# Gmail({ACCOUNT}) 入库运行状态\n\n- {now()} **ABORT（exit {code}）**：{why}\n' + (f'- {DISK_NOTE}\n' if DISK_NOTE else ''))
         git_commit_push(f'T29: Gmail({ACCOUNT}) 入库中止：{why[:80]}')
     except Exception as e:  # noqa
         log('abort note failed', e)
@@ -1478,7 +1485,7 @@ def main():
         with open(os.path.join(OUT, '_run_status.md'), 'w', encoding='utf-8') as f:   # 运行状态（代理读不到 Actions 日志，只看这里）
             f.write(f'# Gmail({ACCOUNT}) 入库运行状态\n\n- {now()} 批次 {bid}：{"✅ 完成" if final else "⏳ 运行中/阶段提交"}，'
                     f'偏移 {last_off:,}/{total:,}（{(last_off / total * 100) if total else 0:.1f}%），本批 {n_before + n:,} 封，'
-                    f'开跑 {T0_ISO}，已用 {(time.time() - T0) / 60:.0f} min\n')
+                    f'开跑 {T0_ISO}，已用 {(time.time() - T0) / 60:.0f} min\n' + (f'- {DISK_NOTE}\n' if DISK_NOTE else ''))
 
     for off, body_off, raw in iter_messages(chain, start, tail_sink):
         if LIMIT and n >= LIMIT:
