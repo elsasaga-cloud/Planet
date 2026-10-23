@@ -1,4 +1,4 @@
-# SA-064 52 Networks, Inc.（弗吉尼亚 Woodbridge，GSA MAS 47QTCA22D00B3 联邦供应商） · feed_auto · https://52networks.com/feed · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SA-064 52 Networks, Inc.（弗吉尼亚 Woodbridge，GSA MAS 47QTCA22D00B3 联邦供应商） · feed_auto · https://52networks.com/feed · fetched 2026-10-23T04:57:18Z · HTTP 200
 Wed, 21 Oct 2026 03:43:11 +0000	What Is PoE? A Complete Guide to Power over Ethernet	https://52networks.com/archives/30955
 Wed, 21 Oct 2026 03:40:28 +0000	How Long Can an Ethernet Cable Run? Cat5e, Cat6 & Cat6A Maximum Distances	https://52networks.com/archives/30953
 Tue, 13 Oct 2026 14:44:00 +0000	Solid vs Stranded Ethernet Cable: Which One Should You Use?	https://52networks.com/archives/30918

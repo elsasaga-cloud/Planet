@@ -1,4 +1,4 @@
-# SA-168 Angora Networks（安卡拉，自有品牌 VERGE 交换机） · support_portal · https://support.angoranetworks.com/ · fetched 2026-10-23T04:20:51Z · HTTP 522
+# SA-168 Angora Networks（安卡拉，自有品牌 VERGE 交换机） · support_portal · https://support.angoranetworks.com/ · fetched 2026-10-23T04:57:18Z · HTTP 522
 angoranetworks.com | 522: Connection timed out
 Connection timed out
 Error code 522
@@ -7,7 +7,7 @@ Visit cloudflare.com for more information.
 You
 Browser
 Working
-Ashburn
+Minneapolis
 Cloudflare
 Working
 support.angoranetworks.com
@@ -23,6 +23,6 @@ Contact your hosting provider letting them know your web server is not completin
 Cloudflare
 •
 Click to reveal
-40.76.117.240
+20.98.142.198
 •
 Performance & security by Cloudflare
