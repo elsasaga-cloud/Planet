@@ -1,0 +1,28 @@
+{
+ "id": "197bd76f2e3a2c37",
+ "thread_id": "19726629b4a807dc",
+ "message_id_header": "<BN9PR14MB5034E1D4489457AC7AF7E518EE47A@BN9PR14MB5034.namprd14.prod.outlook.com>",
+ "from": "Support, Graybar <GraybarSupport@graybar.com>",
+ "to": "e.sagatelecom@gmail.com",
+ "cc": null,
+ "subject": "FW: 48 Port PoE Managed Switch",
+ "date": "Sun, 29 Jun 2025 20:52:33 +0000",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Hello,\n\nThis is something that will need to be quoted by your local Graybar branch.\n\nThey do not have a direct email so you will need to speak with them on the phone to obtain a local email address.\n\nPlease see our list of locations below:\nhttps://www.graybar.com/store-finder\n\nThank you,\n\nFrom: Elsa from Saga Telecom < >\nSent: Sunday, June 29, 2025 8:48 AM\nTo: sales@solimedia.net\nSubject: 48 Port PoE Managed Switch\n\nHi,\nHow are you?\nThere is a Marvell based 52 port Rack network switch for you.\n4*1G/2.5G/10G SFP+48*10/100/1000M Copper, L2+ Managed, PoE af/at, 400W budget\nSupport STP/RSTP/MSTP/ERPS, L3 static routing, ACL/QoS/QinQ...\nPrice is very competitive, 300usd/pc\nDo you need some samples for testing?\nThank you.\n[cid:ii_1972662bd577fed9b5d1]\n--\nElsa\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider",
+ "char_count": 944,
+ "attachments": [
+  {
+   "filename": "Marvell Series.jpg",
+   "mime_type": "image/jpeg",
+   "size": 686961
+  }
+ ],
+ "note": "Graybar 客服把推销当采购询价转发；原信发往 sales@solimedia.net（Solimedia 为 Graybar 子公司？待核）",
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:31Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

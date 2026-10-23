@@ -1,0 +1,27 @@
+{
+ "id": "19782e3a8694d01c",
+ "thread_id": "19781b3a1b191aff",
+ "message_id_header": "<74c256e8-7988-4cd8-8442-a6902f14c072@gmail.com>",
+ "from": "DIGIDIS <a.digidis@gmail.com>",
+ "to": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "cc": null,
+ "subject": "Re: Commercial PoE Switch",
+ "date": "Wed, 18 Jun 2025 12:54:03 +0100",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "hi dear\n\ncould you please send me your catalogue product\n\nthank you\n\nLe 18/06/2025 à 09:40, Elsa from Saga Telecom a écrit :",
+ "char_count": 130,
+ "attachments": [
+  {
+   "filename": "123.jpg",
+   "mime_type": "image/jpeg",
+   "size": 680344
+  }
+ ],
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:31Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

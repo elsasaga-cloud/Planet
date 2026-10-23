@@ -1,0 +1,27 @@
+{
+ "id": "197bbfb1102fcb9f",
+ "thread_id": "19726629b4a807dc",
+ "message_id_header": "<AC924240-EC40-47FE-8254-991F1BC6AD32@eminnovate.com>",
+ "from": "Michael Elsberry <michael@eminnovate.com>",
+ "to": "Saga Telecom Elsa from <e.sagatelecom@gmail.com>",
+ "cc": "sales@solimedia.net",
+ "subject": "Re: 48 Port PoE Managed Switch",
+ "date": "Sun, 29 Jun 2025 13:58:00 +0000",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Very interesting\n\nAny rear facing port switches?\n\nSent from my iPhone",
+ "char_count": 73,
+ "attachments": [
+  {
+   "filename": "Marvell Series.jpg",
+   "mime_type": "image/jpeg",
+   "size": 686961
+  }
+ ],
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:31Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

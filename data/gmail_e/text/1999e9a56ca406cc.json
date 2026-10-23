@@ -1,0 +1,27 @@
+{
+ "id": "1999e9a56ca406cc",
+ "thread_id": "19980b9281088811",
+ "message_id_header": "<300FAE96-12E3-5047-8C2D-2E08869B38C4@hxcore.ol>",
+ "from": "mmedad <samuisso@tescom.co.tz>",
+ "to": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>, sales@unilinkcommunication.com",
+ "cc": null,
+ "subject": "Re: 10G Enterprise SFP Switch",
+ "date": "Wed, 1 Oct 2025 10:08:47 +0300",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Hello team you have only 24 port and how many types of switch you have\n\nSent from Outlook for Android\n\nFrom: Elsa from Saga Telecom <e.sagatelecom@gmail.com>\nSent: Wednesday, October 1, 2025 9:00:35 am\nTo: sales@unilinkcommunication.com <sales@unilinkcommunication.com>\nSubject: 10G Enterprise SFP Switch\n\nHi,\nHow are you?\nThis is our 24-port Marvell-based managed SFP switch.\n1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+\n2, Dual AC input\n3, Support fan monitoring/dual PSU status monitoring\n4, Customizable Web GUI\nIt is a price-competitive aggregation switch(280usd/pc)\nIs it useful to you?\nThank you.\n\n--Elsa\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider",
+ "char_count": 735,
+ "attachments": [
+  {
+   "filename": "Dual AC.jpg",
+   "mime_type": "image/jpeg",
+   "size": 435914
+  }
+ ],
+ "text_source": "text/html",
+ "fetched": "2026-10-23T06:31Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

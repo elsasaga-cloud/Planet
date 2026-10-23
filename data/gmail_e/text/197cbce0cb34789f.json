@@ -1,0 +1,27 @@
+{
+ "id": "197cbce0cb34789f",
+ "thread_id": "197c0c49a89e5afa",
+ "message_id_header": "<007d01dbeb67$f52c94a0$df85bde0$@surlink-tech.com>",
+ "from": "<emiranda@surlink-tech.com>",
+ "to": "'Elsa from Saga Telecom' <e.sagatelecom@gmail.com>, <businesswise1@hotmail.com>",
+ "cc": null,
+ "subject": "RE: 16 Port Ethernet Switch",
+ "date": "Wed, 2 Jul 2025 11:42:46 -0400",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Dear friend\n\nCan you please let me know:\n\n*         Switch 10 100 non manageable poe\n\n*         Switch 10 100 100 non manageable poe\n\n5 ports\n\n8 ports\n\n16 ports\n\n24 ports\n\nMust be with your standart brand name and standart carton box. Need to have pictures\n\nregards\n\nIng. Eduardo Miranda | Gerente",
+ "char_count": 367,
+ "attachments": [
+  {
+   "filename": "image001.png",
+   "mime_type": "image/png",
+   "size": 146149
+  }
+ ],
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:31Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

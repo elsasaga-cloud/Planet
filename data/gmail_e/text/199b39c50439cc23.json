@@ -1,0 +1,27 @@
+{
+ "id": "199b39c50439cc23",
+ "thread_id": "19980c1d4676d657",
+ "message_id_header": "<AM7PPF161294C222193A7A7DF78D1915620C2E2A@AM7PPF161294C22.EURP189.PROD.OUTLOOK.COM>",
+ "from": "DBJ Contrad Ltd . <dbjcontrad@hotmail.com>",
+ "to": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "cc": null,
+ "subject": "RE: 10G Enterprise SFP Switch",
+ "date": "Sun, 5 Oct 2025 09:03:06 +0000",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Dear Elsa,\n\nThank you for reaching out and sharing information about the 24-port Marvell-based managed SFP switch. It sounds like an impressive piece of equipment, and we appreciate the details you provided.\n\nTo proceed further, could you kindly provide us with the datasheet for this switch? Additionally, we would like to inquire about the freight cost for shipping to Zambia. Lastly, could you inform us about the lead time for the delivery of this product?\n\nWe look forward to your response.\n\nBest regards,\nKennedy\n\n| Kennedy Bulaya| Director |DBJ Contrad (Z) Limited|Kitwe Copperbelt Zambia |\n| Office: +260974278658| Mobile: +260955779942 |dbjcontrad@zamnet.zm |kclcontrad@zamnet.zm\n|Email: dbjcontrad@zamtel.zm |Plot Number 8775A, Kalulushi Road, Kitwe West, Kitwe Zambia| P.O. Box 270069|\n\nFrom: Elsa from Saga Telecom <e.sagatelecom@gmail.com>\nSent: Sunday, October 5, 2025 10:39 AM\nTo: dbjcontrad@hotmail.com\nSubject: 10G Enterprise SFP Switch\n\nHi,\nHow are you?\nThis is our 24-port Marvell-based managed SFP switch.\n1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+\n2, Dual AC input\n3, Support fan monitoring/dual PSU status monitoring\n4, Customizable Web GUI\nIt is a price-competitive aggregation switch(280usd/pc)\nIs it useful to you?\nThank you.\n[cid:image001.jpg@01DC35E7.896509D0]\n--\nElsa\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider",
+ "char_count": 1547,
+ "attachments": [
+  {
+   "filename": "image001.jpg",
+   "mime_type": "image/jpeg",
+   "size": 435914
+  }
+ ],
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:31Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

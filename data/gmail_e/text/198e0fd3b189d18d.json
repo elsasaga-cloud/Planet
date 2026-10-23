@@ -1,0 +1,33 @@
+{
+ "id": "198e0fd3b189d18d",
+ "thread_id": "1986a947510da834",
+ "message_id_header": "<DB7P192MB0409FD087304F802780FAB70C73EA@DB7P192MB0409.EURP192.PROD.OUTLOOK.COM>",
+ "from": "Support Lanberg <support@lanberg.pl>",
+ "to": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "cc": null,
+ "subject": "RE: [EXTERNAL] 90W PoE Managed Switch",
+ "date": "Mon, 25 Aug 2025 11:29:01 +0000",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Hi !\nIts interesting, pls send me catalogue : lukasz.gasiewicz@impakt.com.pl\n\nW razie jakichkolwiek dodatkowych pytań pozostajemy do Państwa dyspozycji.\n\nPozdrawiamy,\nLanberg Team\n<https://lanberg.pl/en/>[cid:13_lanberg_...jpg]<https://lanberg.pl>\nFrom: Elsa from Saga Telecom <e.sagatelecom@gmail.com>\nSent: Monday, August 25, 2025 12:39 PM\nTo: info@axuse.com\nSubject: [EXTERNAL] 90W PoE Managed Switch\n\nExternal sender <e.sagatelecom@gmail.com>\nMake sure you trust this sender before taking any actions.\nHi,\nHow are you?\nThis is a Marvell based layer 2 managed PoE switch.\n1. Highly programmable GUI\n2. 2*PoE af/at/bt+6*PoE af/at, 240W budget\n3. Support PoE management\nIts mainly used in some high-end CCTV monitoring projects.\nIs it useful to you?\nThank you.\n[cid:image002.jpg@01DC15C4.36FCE930]\n--\nElsa\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\n\nWiadomość pochodzi spoza organizacji. Jeśli masz jakieś wątpliwości lub nie oczekiwałeś/aś tej wiadomości, przyjrzyj się uważnie adresowi źródłowemu, nie klikaj w linki i załączniki.",
+ "char_count": 1487,
+ "attachments": [
+  {
+   "filename": "image002.jpg",
+   "mime_type": "image/jpeg",
+   "size": 36654
+  },
+  {
+   "filename": "13_lanberg_7ff23ee5-d5d0-4b9a-8a6c-472a817f5390.jpg",
+   "mime_type": "image/jpeg",
+   "size": 34849
+  }
+ ],
+ "note": "原信发往 info@axuse.com（Axuse = Impakt 旗下），由 Lanberg（Impakt S.A. 品牌，波兰）支持邮箱回复，要求发目录至 lukasz.gasiewicz@impakt.com.pl",
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:31Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}
