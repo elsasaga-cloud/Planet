@@ -239,3 +239,4 @@ scripts/                         pricing.py / add_batch.py / render.py / audit.p
 65. **T29-U31（2026-10-23 08:20 UTC）— 续读 Saga 文档**：《客户国家选择》《品牌资产化》《计划》→ `docs/Saga理念摘读_2026-10-23.md` A9–A11（产品矩阵与状态码、两套利润口径、工作准则、玩法与红线、24V PoE 方案、光模块/PoE 配件命名、美国按 Simon 口径「重要做」）。队列剩 12 组，下轮继续。
 66. **T29-U32（2026-10-23 08:45 UTC）— 读完 Saga 相关文档并串联**：摘读 A12–A20 + **§D 串联理解 D1–D7**（`docs/Saga理念摘读_2026-10-23.md`）；勘误 §2-5 物流补第三条。剩余队列：Xmind 14 份（下一轮重点）、Template、SEO、Profile、PoE 笔记、个人类只分类。
 67. **T29-U33（2026-10-23 09:01 UTC）— Xmind / Template / Saga SEO 读完**：摘读 A21–A23 + §D D8–D10 + §C 14–16；商务条款、三个名字分工、供应商地图、平台足迹全部入 `docs/Saga理念摘读_2026-10-23.md`。Extra Info 的 Saga 相关内容至此读完，剩大文件抽样。
+68. **T29-U34（2026-10-23 09:24 UTC）— Extra Info 读完 + §E 疑惑点清单**：`docs/Saga理念摘读_2026-10-23.md` A24（PROFILE FAQ/合同条款）、A25（Saga.md 建站对话：双站定性/定量、口号史、「永远不要有中文」、欧洲美国绝对大头、LinkedIn 必须/YouTube·FB pass）、A26（产品描述门面机型、PoE 笔记、个人文档分类、NSGate 登记）、D11；新建 §E E1–E16 口径冲突登记（按 Simon「先吸收，V1 再写疑惑点」），V1 附录呈现，不逐条追问。
