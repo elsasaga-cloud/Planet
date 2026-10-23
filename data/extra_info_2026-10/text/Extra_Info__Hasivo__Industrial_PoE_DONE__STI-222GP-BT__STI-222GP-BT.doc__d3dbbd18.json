@@ -1,0 +1,120 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_PoE_DONE__STI-222GP-BT__STI-222GP-BT.doc__d3dbbd18",
+"path":"Extra_Info/Hasivo/Industrial PoE_DONE/STI-222GP-BT/STI-222GP-BT.doc",
+"name":"STI-222GP-BT.doc",
+"ext":".doc",
+"bytes":30208,
+"sha256":"d3dbbd1848ac2730dff7abff3f6691992522965548b0e3c59ba8b5ddd8ce1f3f",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:26:46+00:00",
+"paragraphs":0,
+"tables":1,
+"embedded_images":0
+},
+"warnings":[],
+"chars":1455,
+"text":"Model\tSTI-222GP-BT\nProduct Name\t4 port 10/100/1000Mbps Industrial PoE Switch\nFixed Port\t2*10/100/1000M RJ45 PoE port / 2*1000M SFP\nPoE Ports\t1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2 port supports IEEE802.3af/at, with a maximum single port power of 30W\nPoE Dog\tSupport\nPoE Pin\taf/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-\nBandwidth\t12Gbps\nPacket Forwarding\t5.95Mpps\nMAC\t2K\nBuffer\t2.5M\nTransmission Distance\t10BASE-T: Cat3,4,5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)\nOptical Media\tSFP: 1000M single and multimode optical module, Max distance≤100Km\nLED Indicator\tPW: power indicator (green) / PoE port: orange PoE indicator, green grid connection indicator. / 3-4: Optical fiber connection indicator (green) / V1: Main power indicator (green) / V2: slave power indicator (green) / V3: DC power indicator (green)\nPower\tThree groups of independent power input / POE: DC 37-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 100mm*86mm*30mm / Packing Box: 200mm*130mm*40mm\nN.W/G.W(Kg)\t0.4Kg/0.5Kg\nLightning / Protection Level\t6KV 8/20us；8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years",
+"blocks":[
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-222GP-BT"
+],
+[
+"Product Name",
+"4 port 10/100/1000Mbps Industrial PoE Switch"
+],
+[
+"Fixed Port",
+"2*10/100/1000M RJ45 PoE port / 2*1000M SFP"
+],
+[
+"PoE Ports",
+"1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2 port supports IEEE802.3af/at, with a maximum single port power of 30W"
+],
+[
+"PoE Dog",
+"Support"
+],
+[
+"PoE Pin",
+"af/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-"
+],
+[
+"Bandwidth",
+"12Gbps"
+],
+[
+"Packet Forwarding",
+"5.95Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3,4,5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multimode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PW: power indicator (green) / PoE port: orange PoE indicator, green grid connection indicator. / 3-4: Optical fiber connection indicator (green) / V1: Main power indicator (green) / V2: slave power indicator (green) / V3: DC power indicator (green)"
+],
+[
+"Power",
+"Three groups of independent power input / POE: DC 37-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 100mm*86mm*30mm / Packing Box: 200mm*130mm*40mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.4Kg/0.5Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us；8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:26:46Z"
+}

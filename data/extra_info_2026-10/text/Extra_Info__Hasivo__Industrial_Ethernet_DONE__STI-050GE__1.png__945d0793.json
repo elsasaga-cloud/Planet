@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-050GE__1.png__945d0793",
+"path":"Extra_Info/Hasivo/Industrial Ethernet_DONE/STI-050GE/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":668392,
+"sha256":"945d0793733523d36f3f6260eb357be79e440a287c91804df704fb22aa9f25e9",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1075,
+"height":612,
+"mode":"RGBA",
+"thumb_bytes":12542
+},
+"warnings":[],
+"chars":17,
+"text":"Industrial Switch",
+"extracted_at":"2026-10-23T05:25:32Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-050GE__1.png__945d0793.jpg"
+}

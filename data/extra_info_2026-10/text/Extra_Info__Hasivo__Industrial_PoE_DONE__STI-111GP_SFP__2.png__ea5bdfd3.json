@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_PoE_DONE__STI-111GP_SFP__2.png__ea5bdfd3",
+"path":"Extra_Info/Hasivo/Industrial PoE_DONE/STI-111GP_SFP/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":2756181,
+"sha256":"ea5bdfd3818d1d31bc36e39f02f8262b32aff4c463e0247ea54b5b3a36202e70",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":2036,
+"height":946,
+"mode":"RGBA",
+"thumb_bytes":7384
+},
+"warnings":[],
+"chars":33,
+"text":"Ex Link\nJelJeAUOD glpsW Iguisnpul",
+"extracted_at":"2026-10-23T05:26:52Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_PoE_DONE__STI-111GP_SFP__2.png__ea5bdfd3.jpg"
+}

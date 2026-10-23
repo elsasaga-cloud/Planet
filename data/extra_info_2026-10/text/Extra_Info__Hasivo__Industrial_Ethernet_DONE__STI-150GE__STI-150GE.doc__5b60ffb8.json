@@ -1,0 +1,108 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-150GE__STI-150GE.doc__5b60ffb8",
+"path":"Extra_Info/Hasivo/Industrial Ethernet_DONE/STI-150GE/STI-150GE.doc",
+"name":"STI-150GE.doc",
+"ext":".doc",
+"bytes":28672,
+"sha256":"5b60ffb8edbc872b38dd9e47f67b2a8a27608e006b5d425ed67c5370872db466",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:25:17+00:00",
+"paragraphs":0,
+"tables":1,
+"embedded_images":0
+},
+"warnings":[],
+"chars":1322,
+"text":"Model\tSTI-150GE\nProduct Name\t6 port 10/100/1000Mbps Industrial Ethernet Switch\nFixed Port\t4*10/100/1000M RJ45 port / 1*10/100/1000M Uplink RJ45 port / 1*1000M SFP\nBandwidth\t12Gbps\nPacket Forwarding\t8.93Mpps\nMAC\t2K\nBuffer\t2.5M\nTransmission Distance\t10BASE-T: Cat3,4,5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)\nOptical Media\tSFP: 1000M single and multimode optical module, Max distance≤100Km\nLED Indicator\tPWR: Power indicator (green) / Port: green _10/100M network connection indicator / green+orange _1000M network connection indicator. / 6: Optical fiber connection indicator (green) / GX: expansion indicator (green) / V1: Main power indicator (green) / V2: slave power indicator (green) / V3:DC power indicator (green)\nPower\tThree groups of independent power input / SW: DC 12-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 156mm*113mm*40mm / Packing Box: 235mm*165mm*78mm\nN.W/G.W(Kg)\t0.9Kg/1.1Kg\nLightning / Protection Level\t6KV 8/20us; 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years",
+"blocks":[
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-150GE"
+],
+[
+"Product Name",
+"6 port 10/100/1000Mbps Industrial Ethernet Switch"
+],
+[
+"Fixed Port",
+"4*10/100/1000M RJ45 port / 1*10/100/1000M Uplink RJ45 port / 1*1000M SFP"
+],
+[
+"Bandwidth",
+"12Gbps"
+],
+[
+"Packet Forwarding",
+"8.93Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3,4,5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multimode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PWR: Power indicator (green) / Port: green _10/100M network connection indicator / green+orange _1000M network connection indicator. / 6: Optical fiber connection indicator (green) / GX: expansion indicator (green) / V1: Main power indicator (green) / V2: slave power indicator (green) / V3:DC power indicator (green)"
+],
+[
+"Power",
+"Three groups of independent power input / SW: DC 12-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 156mm*113mm*40mm / Packing Box: 235mm*165mm*78mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.9Kg/1.1Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us; 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:25:17Z"
+}

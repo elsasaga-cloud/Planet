@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_PoE_DONE__STI-144FP-BT__3.png__f000d339",
+"path":"Extra_Info/Hasivo/Industrial PoE_DONE/STI-144FP-BT/3.png",
+"name":"3.png",
+"ext":".png",
+"bytes":3375346,
+"sha256":"f000d339027ae3a6aa8d8b7d09a39c6bfa0a4c14f0cd61aef8ccda2c0d7bb56f",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1084,
+"height":2413,
+"mode":"RGBA",
+"thumb_bytes":7900
+},
+"warnings":[],
+"chars":46,
+"text":"5 EXPWR\n®@@\n®©ee\nV1 V2 v3\nIndustial PoE Switch",
+"extracted_at":"2026-10-23T05:26:27Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_PoE_DONE__STI-144FP-BT__3.png__f000d339.jpg"
+}

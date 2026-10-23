@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_PoE_DONE__STI-2108GP-BT__2.png__cfdf0165",
+"path":"Extra_Info/Hasivo/Industrial PoE_DONE/STI-2108GP-BT/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":1619699,
+"sha256":"cfdf016555bd769ffb1cd3477a502f31c6c4bf1a68ccd0a0d2df2b4b94980c19",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1820,
+"height":763,
+"mode":"RGBA",
+"thumb_bytes":8000
+},
+"warnings":[],
+"chars":77,
+"text":"PoE Max @ @\nPWR\nP1@ @P2\n9@ @10\n| Extend |\n| WatchDog\n48V\n24V 48V\n8G+2COMBOSFP",
+"extracted_at":"2026-10-23T05:27:04Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_PoE_DONE__STI-2108GP-BT__2.png__cfdf0165.jpg"
+}

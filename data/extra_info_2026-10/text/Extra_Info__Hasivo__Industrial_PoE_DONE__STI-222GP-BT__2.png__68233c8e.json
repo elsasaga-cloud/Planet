@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_PoE_DONE__STI-222GP-BT__2.png__68233c8e",
+"path":"Extra_Info/Hasivo/Industrial PoE_DONE/STI-222GP-BT/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":2782204,
+"sha256":"68233c8eafd90bf8cd6b154e7e6b360084ed9b449ae63f42a578d9314efbfd25",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":2058,
+"height":861,
+"mode":"RGBA",
+"thumb_bytes":7824
+},
+"warnings":[],
+"chars":85,
+"text":"OEE! EE\nV2\n»\n»\nV3\n=\n=\nPW V1\n3\n=\n到\n4\nLink\nPoE\nIndustrial PoE Switch\nair (oo WIRE 有\na\n|",
+"extracted_at":"2026-10-23T05:26:46Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_PoE_DONE__STI-222GP-BT__2.png__68233c8e.jpg"
+}

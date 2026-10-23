@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-110GE_SFP__1.png__841d8d40",
+"path":"Extra_Info/Hasivo/Industrial Ethernet_DONE/STI-110GE_SFP/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":3610011,
+"sha256":"841d8d40eb3556d4bfb619d40cb1179daba0801b37fe336c7a665369f1ac47b6",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":2249,
+"height":956,
+"mode":"RGBA",
+"thumb_bytes":8172
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:25:18Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-110GE_SFP__1.png__841d8d40.jpg"
+}

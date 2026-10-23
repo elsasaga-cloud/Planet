@@ -1,0 +1,116 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_PoE_DONE__STI-088GP-BT__STI-088GP-BT.doc__56a68df8",
+"path":"Extra_Info/Hasivo/Industrial PoE_DONE/STI-088GP-BT/STI-088GP-BT.doc",
+"name":"STI-088GP-BT.doc",
+"ext":".doc",
+"bytes":30208,
+"sha256":"56a68df8178d525933ef08aa53d0680ab8dfafc09bfbed3aa27f0fa2ffe633f1",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:26:33+00:00",
+"paragraphs":0,
+"tables":1,
+"embedded_images":0
+},
+"warnings":[],
+"chars":1495,
+"text":"Model\tSTI-088GP-BT\nProduct Name\t8 port 10/100/1000Mbps Industrial PoE Switch\nFixed Port\t8*10/100/1000M RJ45 PoE port\nPoE Ports\t1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2-8 ports support IEEE802.3af/at, with a maximum single port power of 30W\nPoE Dog\tSupport\nPoE Pin\taf/at: 12+ 36- / af/at/poe++/bt: 12+ 45+  36- 78-\nBandwidth\t16Gbps\nPacket Forwarding\t11.9Mpps\nMAC\t2K\nBuffer\t2.5M\nTransmission Distance\t10BASE-T: Cat3,4,5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)\nLED Indicator\tPWR: Power indicator (green) / Uplink port: green 100M+ orange 1000M / PoE port: orange PoE indicator, green grid connection indicator. / V1: Main power indicator (green) / V2: slave power indicator (green) / V3: DC power indicator (green) / VLAN: Port isolation indicator (green) / S: ultra-far mode on indicator (green)\nPower\tThree groups of independent power input / POE: DC 37-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 156mm*119mm*35mm / Packing Box: 235mm*165mm*78mm\nN.W/G.W(Kg)\t0.9Kg/1.1Kg\nLightning / Protection level\t6KV 8/20us, 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation",
+"blocks":[
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-088GP-BT"
+],
+[
+"Product Name",
+"8 port 10/100/1000Mbps Industrial PoE Switch"
+],
+[
+"Fixed Port",
+"8*10/100/1000M RJ45 PoE port"
+],
+[
+"PoE Ports",
+"1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2-8 ports support IEEE802.3af/at, with a maximum single port power of 30W"
+],
+[
+"PoE Dog",
+"Support"
+],
+[
+"PoE Pin",
+"af/at: 12+ 36- / af/at/poe++/bt: 12+ 45+  36- 78-"
+],
+[
+"Bandwidth",
+"16Gbps"
+],
+[
+"Packet Forwarding",
+"11.9Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3,4,5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)"
+],
+[
+"LED Indicator",
+"PWR: Power indicator (green) / Uplink port: green 100M+ orange 1000M / PoE port: orange PoE indicator, green grid connection indicator. / V1: Main power indicator (green) / V2: slave power indicator (green) / V3: DC power indicator (green) / VLAN: Port isolation indicator (green) / S: ultra-far mode on indicator (green)"
+],
+[
+"Power",
+"Three groups of independent power input / POE: DC 37-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 156mm*119mm*35mm / Packing Box: 235mm*165mm*78mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.9Kg/1.1Kg"
+],
+[
+"Lightning / Protection level",
+"6KV 8/20us, 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:26:33Z"
+}

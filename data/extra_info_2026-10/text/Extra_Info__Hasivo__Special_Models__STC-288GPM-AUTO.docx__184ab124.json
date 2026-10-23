@@ -1,0 +1,604 @@
+{
+"id":"Extra_Info__Hasivo__Special_Models__STC-288GPM-AUTO.docx__184ab124",
+"path":"Extra_Info/Hasivo/Special Models/STC-288GPM-AUTO.docx",
+"name":"STC-288GPM-AUTO.docx",
+"ext":".docx",
+"bytes":1492801,
+"sha256":"184ab12416069e97ffba6b0951e52587850d0f6553e84b4329013b8e59e2450f",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2023-07-22T16:14:00+00:00",
+"modified":"2025-03-27T09:50:10+00:00",
+"paragraphs":0,
+"tables":3,
+"embedded_images":3
+},
+"warnings":[],
+"chars":8006,
+"text":"Model\tSTC-288GPM-AUTO\nProduct Name\t24V/48V automatic matching 2SFP+8GE Full Gigabit L2+ Managed PoE Switch\nFixed Port\t8*10/100/1000Base-TX PoE port(Data/Power) / 2*1000M SFP\nPoE Port\t8*24V/48V automatically identify the matching PoE port / 1-8 port support detection 24V power supply, max 30W/port / 1-8 port supports IEEE802.3af/at, max 30W/port, PoE out\nConsole Port\t1*console port\nReset Key\t1\nPoE Pin\t48V: 12+ 36- / 24V: 45+ 78-\nPoE Bridge\tMax 150W\nCPU\t500MHz\nDDR\t1G DDR3\nFLASH\t128MBytes\nRAM\t128MBytes\nBandwidth\t20Gbps\nPacket Forwarding\t14.88Mpps\nMAC\t8K\nBuffer\t4.1 Mbit SRAM Packet Buffer\nJumbo Frame\t10000Bytes\nVLAN Address\t4K\nTransmission Distance\t10BASE-T: Cat3,4,5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter) / SFP: 1000M single-mode and multi-mode optical module / maximum distance≤120km(depending on the optical module)\nLED Indicator\tPWR: Power LED / SYS: System LED / 9-10: SFP connection indicator / PoE: 48V ON: orange light is always on / 24V ON: orange light flashes / Link: 10/100/1000M(green)\nPower\tBuilt-in power AC: 100-240Vac 50-60Hz 2A max 150W\nOperating Temperature / Humidity\t-10°C～+55°C / 5%～90% RH Non coagulation\nStorage Temperature / Humidity\t-40°C～+75°C / 5%～95% RH Non coagulation\nProduct Size(L*W*H) / Packing Size(L*W*H)\t206mm*140mm*45mm / 265mm*220mm*68mm\nN.W/G.W(Kg)\t1.1Kg/1.3Kg\nLightning / Protection Level\t6KV 8/20us / IP30\nInstallation\tDesktop(optional wall+mounting hangers)\nCertification\tCE-EMC EN55032 / CE-LVD EN62368\nFCC Part 15 Class B / RoHS\nWarranty\tWhole device for 1 year(Accessories are not included)\nFeatures\tL2+ Switch\nSupported switch chips\tRTL838X\nPort\nNumber of 100M ports\tMaximum 48 ports\nNumber of Copper Gigabit ports\tMaximum 48 ports\nNumber of Fiber Gigabit ports\tMaximum 24 ports\nPort Shutdown\tSupport\nPort Speed\tSupport auto-negotiate / full-1000, full-100, half-100, full-10, half-10\nFlow Control\tsupport full-duplex IEEE 802.3x, half-duplex back pressure\nStorm Control\tSupports rate limit for broadcast, multicast, and DLF packets\nStorm Constrain\tSupport the detection of broadcast packets, multicast packets, or unicast packets on the port, shutdown the port if the rate is over the threshold\nPort Mirror\tSupport\nPort Rate Limit\tSupport port ingress and egress rate limit\nLink Aggregation\tSupport manual link aggregation / Support LACP dynamic link aggregation / Supports up to 8 aggregation groups, each group up to 8 ports / Support source MAC, destination MAC, source destination MAC, source IP, destination IP, source destination IP routing strategy\nPort Isolate\tSupport\nJumbo Frame\tSupport up to 16KB packet\nCable Distance Diag\tSupport\nRedundant Port\tSupport\nThe DDM of fiber ports\tSupport\nMAC\nMAC Table Capacity\t8K\nMAC Table Management\tSupport\nForwarding mode\tSupport IVL forwarding mode\nStatic MAC Address\tSupport\nMAC Address Binding\tSupport\nMAC Address Filtering\tSupport\nMAC Learning Control\tControl the MAC learning based on port\nVLAN\nNumber of VLANs\t4K\n802.1q-based VLAN\tSupport\nMAC-based VLAN\tSupport\nIP-based VLAN\tSupport\nProtocol-based VLAN\tSupport\nPVLAN\tSupport\nVoice VLAN\tSupport\nVLAN Mapping\tSupport 1:1 mapping\nQinQ\tSupport basic QinQ / Support flexible QinQ\nReliability\nSpanning Tree Protocol\tSupport STP/RSTP/MSTP\nPort Loop Detection\tSupport\nEAPS\tSupport RFC3619\nERPS\tSupport G.8032/Y.1344\nLLDP\tSupport LLDP & LLDP-MED\nUDLD\tFully compatible with CISCO's UDLD protocol\nIP\nARP\tSupport static and dynamic ARP\nIP Route\tSupport 0.0.0.0/0 route and other static route, but can’t support L3 forwarding\nVLAN Interface\tSupport 32 VLAN interfaces\nMulticast\nStatic Multicast MAC Address\tSupport\nIGMP SNOOPING\tSupport\nMLD SNOOPING\tSupport\nMVR\tSupport\nGMRP\tSupport\nACL\nStandard IP-based ACL\tSupport\nExtended IP based ACL\tSupport\nMAC IP-based ACL\tSupport\nMAC ARP-based ACL\tSupport\nIPv6-based ACL\tSupport\nACL Port Filtering\tSupport\nTime-based ACL\tSupport\nQoS\nPort Queue Number\t8\nPort Queue Scheduling Mode\tSupport WRR, SP, WFQ\nPort-based Classification\tSupport\n802.1p-based Classification\tSupport\nDSCP-based Classification\tSupport\nACL-based Classification\tSupport\nQoS Policy\tSupport packets mapping to queue / Support COS or DSCP Remarking / Support rate limits of data flow / Support data flow statistics / Support mirroring of data flow\nDHCP\nDHCPv4 Client\tSupport\nDHCPv6 Client\tSupport\nDHCP Snooping\tSupport\nDHCP Relay\tSupport\nDHCP Server\tSupport\nDHCP option 82\tSupport\nManagement\nCLI  Management\tSupport Console, TELNET and SSH / Support multiple TELNET connections based on IPv4 and IPv6 / Support multiple SSH connections based on IPv4 and IPv6 / Support running configuration rollback / Support ZTP (Zero Touch Configuration)\nWEB Management\tSupport\nSNMP Management\tSupport SNMP v1, v2c, v3 / Support SNMP TRAP / Support lots of standard and private MIBs / Support SNMP based on IPv4 and IPv6\nUser Management\tSupport multiple user management\nTACACS+\tsupport switch authentication via TACACS+ server remote username and password / Support password encryption in PAP and CHAP mode / Support TACACS+ server to authorize the switch’s commands / Support TACACS+ based on IPv4 and IPv6\nLog Management\tSupport local log management / Support SYSLOG based on IPv4 and IPv6\nRMON\tSupport RMON 1, 2, 3 and 9 groups\nCluster Management\tSupport NDP / Support NTDP / Support manual and automatic joining of cluster groups / Support cluster unified management\nOAM\tSupport 802.3ah / Support 802.1ag\nConfiguration File\tSupport TFTP transmission based IPv4 and IPv6 / Support SFTP transmission based IPv4 and IPv6 / Support SFTP Client and SFTP Server\nUpgrade software\tSupport TFTP transmission based IPv4 and IPv6 / Support SFTP transmission based IPv4 and IPv6 / Support SFTP Client and SFTP Server\nClock Management\tSupport local clock management / Support SNTP based IPv4 and IPv6\nSecurity\nSwitch Management Security\tSupport enabling and disabling TELNET, SSH, WEB and SNMP services / Support TELNET, SSH, WEB and SNMP services to bind to standard IP ACLs / Support for limiting the number of TELNET connections\nCPU Protection\tThe switch's own security protection prevents large data streams from attacking the switch itself.\nAAA\tSupport 802.1x / Support RADIUS / Supports authentication, authorization, and accounting through RADIUS server / Support port-based and MAC-based 802.1x / Support 802.1x guest VLAN\nIP MAC Binding\tSupport static configuration of IP, MAC and port binding\nDHCP SNOOPING\tSupport dynamic ARP binding to prevent ARP spoofing / Support dynamic IP, MAC and port binding / Support fixed port to connect to DHCP server to prevent private connection to DHCP server\nPrevent ARP Spoofing\tSupport manually configuring MAC ARP-based ACL rules to prevent ARP spoofing. / Support the DHCP SNOOPING function. During the process of obtaining an IP address by DHCP, the switch dynamically binds ARP to the port to prevent ARP spoofing.\nPoE\nSupported PoE Chips\tMAX5980, LTC4259, LTC4271, TPS23851, TPS23861 / TPS23880, TPS23881, IP808, PD69100/69108 / PD69200/69208, etc.\nSwitch Control\tSupport PoE powering of ports on and off\nPower Control\tSupport setting total power\nOther Advanced Features\tSupport PoE scheduling policy and PD online query, etc.\nIPv6\nIPv4/IPv6 Dual Protocol Stack\tSupport\nIPv6 Address\tSupport manual address configuration, stateless address auto-configuration and stateful address configuration obtained through DHCPv6 client\nIPv6 Neighbor Discovery\tSupport\nICMPv6\tSupport\nIPv6 Path MTU Discovery\tSupport\nDebugging\nPING\tSupport\nPING6\tSupport\nTRACEROUTE\tSupport\nTELNET Client\tSupport TELNET client based IPv4 and IPv6\nSSH Client\tSupport SSH client based IPv4 and IPv6\nTWAMP\tSupport TWAMP server and session-reflector\n[页眉页脚]\nRealtek Special Models Series\t                                                                                           a.sagatelecom@gmail.com\n\t\t\t\t\t\t\t                                                                       Saga Telecom\n2025/Q3\t\t\t\t\t\t\t                         \t           www.sagatelecom.com.cn\nConnecting, Converting, Creating",
+"blocks":[
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STC-288GPM-AUTO"
+],
+[
+"Product Name",
+"24V/48V automatic matching 2SFP+8GE Full Gigabit L2+ Managed PoE Switch"
+],
+[
+"Fixed Port",
+"8*10/100/1000Base-TX PoE port(Data/Power) / 2*1000M SFP"
+],
+[
+"PoE Port",
+"8*24V/48V automatically identify the matching PoE port / 1-8 port support detection 24V power supply, max 30W/port / 1-8 port supports IEEE802.3af/at, max 30W/port, PoE out"
+],
+[
+"Console Port",
+"1*console port"
+],
+[
+"Reset Key",
+"1"
+],
+[
+"PoE Pin",
+"48V: 12+ 36- / 24V: 45+ 78-"
+],
+[
+"PoE Bridge",
+"Max 150W"
+],
+[
+"CPU",
+"500MHz"
+],
+[
+"DDR",
+"1G DDR3"
+],
+[
+"FLASH",
+"128MBytes"
+],
+[
+"RAM",
+"128MBytes"
+],
+[
+"Bandwidth",
+"20Gbps"
+],
+[
+"Packet Forwarding",
+"14.88Mpps"
+],
+[
+"MAC",
+"8K"
+],
+[
+"Buffer",
+"4.1 Mbit SRAM Packet Buffer"
+],
+[
+"Jumbo Frame",
+"10000Bytes"
+],
+[
+"VLAN Address",
+"4K"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3,4,5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter) / SFP: 1000M single-mode and multi-mode optical module / maximum distance≤120km(depending on the optical module)"
+],
+[
+"LED Indicator",
+"PWR: Power LED / SYS: System LED / 9-10: SFP connection indicator / PoE: 48V ON: orange light is always on / 24V ON: orange light flashes / Link: 10/100/1000M(green)"
+],
+[
+"Power",
+"Built-in power AC: 100-240Vac 50-60Hz 2A max 150W"
+],
+[
+"Operating Temperature / Humidity",
+"-10°C～+55°C / 5%～90% RH Non coagulation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+75°C / 5%～95% RH Non coagulation"
+],
+[
+"Product Size(L*W*H) / Packing Size(L*W*H)",
+"206mm*140mm*45mm / 265mm*220mm*68mm"
+],
+[
+"N.W/G.W(Kg)",
+"1.1Kg/1.3Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us / IP30"
+],
+[
+"Installation",
+"Desktop(optional wall+mounting hangers)"
+],
+[
+"Certification",
+"CE-EMC EN55032 / CE-LVD EN62368\nFCC Part 15 Class B / RoHS"
+],
+[
+"Warranty",
+"Whole device for 1 year(Accessories are not included)"
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+"Features",
+"L2+ Switch"
+],
+[
+"Supported switch chips",
+"RTL838X"
+],
+[
+"Port"
+],
+[
+"Number of 100M ports",
+"Maximum 48 ports"
+],
+[
+"Number of Copper Gigabit ports",
+"Maximum 48 ports"
+],
+[
+"Number of Fiber Gigabit ports",
+"Maximum 24 ports"
+],
+[
+"Port Shutdown",
+"Support"
+],
+[
+"Port Speed",
+"Support auto-negotiate / full-1000, full-100, half-100, full-10, half-10"
+],
+[
+"Flow Control",
+"support full-duplex IEEE 802.3x, half-duplex back pressure"
+],
+[
+"Storm Control",
+"Supports rate limit for broadcast, multicast, and DLF packets"
+],
+[
+"Storm Constrain",
+"Support the detection of broadcast packets, multicast packets, or unicast packets on the port, shutdown the port if the rate is over the threshold"
+],
+[
+"Port Mirror",
+"Support"
+],
+[
+"Port Rate Limit",
+"Support port ingress and egress rate limit"
+],
+[
+"Link Aggregation",
+"Support manual link aggregation / Support LACP dynamic link aggregation / Supports up to 8 aggregation groups, each group up to 8 ports / Support source MAC, destination MAC, source destination MAC, source IP, destination IP, source destination IP routing strategy"
+],
+[
+"Port Isolate",
+"Support"
+],
+[
+"Jumbo Frame",
+"Support up to 16KB packet"
+],
+[
+"Cable Distance Diag",
+"Support"
+],
+[
+"Redundant Port",
+"Support"
+],
+[
+"The DDM of fiber ports",
+"Support"
+],
+[
+"MAC"
+],
+[
+"MAC Table Capacity",
+"8K"
+],
+[
+"MAC Table Management",
+"Support"
+],
+[
+"Forwarding mode",
+"Support IVL forwarding mode"
+],
+[
+"Static MAC Address",
+"Support"
+],
+[
+"MAC Address Binding",
+"Support"
+],
+[
+"MAC Address Filtering",
+"Support"
+],
+[
+"MAC Learning Control",
+"Control the MAC learning based on port"
+],
+[
+"VLAN"
+],
+[
+"Number of VLANs",
+"4K"
+],
+[
+"802.1q-based VLAN",
+"Support"
+],
+[
+"MAC-based VLAN",
+"Support"
+],
+[
+"IP-based VLAN",
+"Support"
+],
+[
+"Protocol-based VLAN",
+"Support"
+],
+[
+"PVLAN",
+"Support"
+],
+[
+"Voice VLAN",
+"Support"
+],
+[
+"VLAN Mapping",
+"Support 1:1 mapping"
+],
+[
+"QinQ",
+"Support basic QinQ / Support flexible QinQ"
+],
+[
+"Reliability"
+],
+[
+"Spanning Tree Protocol",
+"Support STP/RSTP/MSTP"
+],
+[
+"Port Loop Detection",
+"Support"
+],
+[
+"EAPS",
+"Support RFC3619"
+],
+[
+"ERPS",
+"Support G.8032/Y.1344"
+],
+[
+"LLDP",
+"Support LLDP & LLDP-MED"
+],
+[
+"UDLD",
+"Fully compatible with CISCO's UDLD protocol"
+],
+[
+"IP"
+],
+[
+"ARP",
+"Support static and dynamic ARP"
+],
+[
+"IP Route",
+"Support 0.0.0.0/0 route and other static route, but can’t support L3 forwarding"
+],
+[
+"VLAN Interface",
+"Support 32 VLAN interfaces"
+],
+[
+"Multicast"
+],
+[
+"Static Multicast MAC Address",
+"Support"
+],
+[
+"IGMP SNOOPING",
+"Support"
+],
+[
+"MLD SNOOPING",
+"Support"
+],
+[
+"MVR",
+"Support"
+],
+[
+"GMRP",
+"Support"
+],
+[
+"ACL"
+],
+[
+"Standard IP-based ACL",
+"Support"
+],
+[
+"Extended IP based ACL",
+"Support"
+],
+[
+"MAC IP-based ACL",
+"Support"
+],
+[
+"MAC ARP-based ACL",
+"Support"
+],
+[
+"IPv6-based ACL",
+"Support"
+],
+[
+"ACL Port Filtering",
+"Support"
+],
+[
+"Time-based ACL",
+"Support"
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+"QoS"
+],
+[
+"Port Queue Number",
+"8"
+],
+[
+"Port Queue Scheduling Mode",
+"Support WRR, SP, WFQ"
+],
+[
+"Port-based Classification",
+"Support"
+],
+[
+"802.1p-based Classification",
+"Support"
+],
+[
+"DSCP-based Classification",
+"Support"
+],
+[
+"ACL-based Classification",
+"Support"
+],
+[
+"QoS Policy",
+"Support packets mapping to queue / Support COS or DSCP Remarking / Support rate limits of data flow / Support data flow statistics / Support mirroring of data flow"
+],
+[
+"DHCP"
+],
+[
+"DHCPv4 Client",
+"Support"
+],
+[
+"DHCPv6 Client",
+"Support"
+],
+[
+"DHCP Snooping",
+"Support"
+],
+[
+"DHCP Relay",
+"Support"
+],
+[
+"DHCP Server",
+"Support"
+],
+[
+"DHCP option 82",
+"Support"
+],
+[
+"Management"
+],
+[
+"CLI  Management",
+"Support Console, TELNET and SSH / Support multiple TELNET connections based on IPv4 and IPv6 / Support multiple SSH connections based on IPv4 and IPv6 / Support running configuration rollback / Support ZTP (Zero Touch Configuration)"
+],
+[
+"WEB Management",
+"Support"
+],
+[
+"SNMP Management",
+"Support SNMP v1, v2c, v3 / Support SNMP TRAP / Support lots of standard and private MIBs / Support SNMP based on IPv4 and IPv6"
+],
+[
+"User Management",
+"Support multiple user management"
+],
+[
+"TACACS+",
+"support switch authentication via TACACS+ server remote username and password / Support password encryption in PAP and CHAP mode / Support TACACS+ server to authorize the switch’s commands / Support TACACS+ based on IPv4 and IPv6"
+],
+[
+"Log Management",
+"Support local log management / Support SYSLOG based on IPv4 and IPv6"
+],
+[
+"RMON",
+"Support RMON 1, 2, 3 and 9 groups"
+],
+[
+"Cluster Management",
+"Support NDP / Support NTDP / Support manual and automatic joining of cluster groups / Support cluster unified management"
+],
+[
+"OAM",
+"Support 802.3ah / Support 802.1ag"
+],
+[
+"Configuration File",
+"Support TFTP transmission based IPv4 and IPv6 / Support SFTP transmission based IPv4 and IPv6 / Support SFTP Client and SFTP Server"
+],
+[
+"Upgrade software",
+"Support TFTP transmission based IPv4 and IPv6 / Support SFTP transmission based IPv4 and IPv6 / Support SFTP Client and SFTP Server"
+],
+[
+"Clock Management",
+"Support local clock management / Support SNTP based IPv4 and IPv6"
+],
+[
+"Security"
+],
+[
+"Switch Management Security",
+"Support enabling and disabling TELNET, SSH, WEB and SNMP services / Support TELNET, SSH, WEB and SNMP services to bind to standard IP ACLs / Support for limiting the number of TELNET connections"
+],
+[
+"CPU Protection",
+"The switch's own security protection prevents large data streams from attacking the switch itself."
+],
+[
+"AAA",
+"Support 802.1x / Support RADIUS / Supports authentication, authorization, and accounting through RADIUS server / Support port-based and MAC-based 802.1x / Support 802.1x guest VLAN"
+],
+[
+"IP MAC Binding",
+"Support static configuration of IP, MAC and port binding"
+],
+[
+"DHCP SNOOPING",
+"Support dynamic ARP binding to prevent ARP spoofing / Support dynamic IP, MAC and port binding / Support fixed port to connect to DHCP server to prevent private connection to DHCP server"
+],
+[
+"Prevent ARP Spoofing",
+"Support manually configuring MAC ARP-based ACL rules to prevent ARP spoofing. / Support the DHCP SNOOPING function. During the process of obtaining an IP address by DHCP, the switch dynamically binds ARP to the port to prevent ARP spoofing."
+],
+[
+"PoE"
+],
+[
+"Supported PoE Chips",
+"MAX5980, LTC4259, LTC4271, TPS23851, TPS23861 / TPS23880, TPS23881, IP808, PD69100/69108 / PD69200/69208, etc."
+],
+[
+"Switch Control",
+"Support PoE powering of ports on and off"
+],
+[
+"Power Control",
+"Support setting total power"
+],
+[
+"Other Advanced Features",
+"Support PoE scheduling policy and PD online query, etc."
+],
+[
+"IPv6"
+],
+[
+"IPv4/IPv6 Dual Protocol Stack",
+"Support"
+],
+[
+"IPv6 Address",
+"Support manual address configuration, stateless address auto-configuration and stateful address configuration obtained through DHCPv6 client"
+],
+[
+"IPv6 Neighbor Discovery",
+"Support"
+],
+[
+"ICMPv6",
+"Support"
+],
+[
+"IPv6 Path MTU Discovery",
+"Support"
+],
+[
+"Debugging"
+],
+[
+"PING",
+"Support"
+],
+[
+"PING6",
+"Support"
+],
+[
+"TRACEROUTE",
+"Support"
+],
+[
+"TELNET Client",
+"Support TELNET client based IPv4 and IPv6"
+],
+[
+"SSH Client",
+"Support SSH client based IPv4 and IPv6"
+],
+[
+"TWAMP",
+"Support TWAMP server and session-reflector"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:25:41Z"
+}

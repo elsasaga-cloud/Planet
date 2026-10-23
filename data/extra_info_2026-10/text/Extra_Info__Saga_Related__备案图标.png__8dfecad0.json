@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_Related__备案图标.png__8dfecad0",
+"path":"Extra_Info/Saga Related/备案图标.png",
+"name":"备案图标.png",
+"ext":".png",
+"bytes":1403,
+"sha256":"8dfecad0dfcb3dc584f2c2447943eefb1fd65a058856eb0611e2c56ddc4c1fe1",
+"source":"Extra_Info.zip",
+"method":"pillow",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":36,
+"height":40,
+"mode":"RGBA",
+"thumb_bytes":1021
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:28:02Z",
+"thumb":"thumbs/Extra_Info__Saga_Related__备案图标.png__8dfecad0.jpg"
+}

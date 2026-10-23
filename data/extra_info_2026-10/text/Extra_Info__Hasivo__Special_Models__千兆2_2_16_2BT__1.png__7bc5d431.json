@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Special_Models__千兆2_2_16_2BT__1.png__7bc5d431",
+"path":"Extra_Info/Hasivo/Special Models/千兆2+2+16 2BT/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":3805168,
+"sha256":"7bc5d4314950f465f1a0ef8718b9015b89342f2aea1c213bf14c72bdc1b8a38f",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":4002,
+"height":890,
+"mode":"RGBA",
+"thumb_bytes":5217
+},
+"warnings":[],
+"chars":50,
+"text":"Giga 1 Link\nGigabit Switch\n16GE+2GE+2SFP Switch Sy",
+"extracted_at":"2026-10-23T05:26:12Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Special_Models__千兆2_2_16_2BT__1.png__7bc5d431.jpg"
+}

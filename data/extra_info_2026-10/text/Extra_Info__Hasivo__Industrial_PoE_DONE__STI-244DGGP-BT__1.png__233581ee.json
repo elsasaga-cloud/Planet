@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_PoE_DONE__STI-244DGGP-BT__1.png__233581ee",
+"path":"Extra_Info/Hasivo/Industrial PoE_DONE/STI-244DGGP-BT/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":1579222,
+"sha256":"233581ee15d38cd9827f5bd8851bb67a2e1c3de932e7ae079bbec95b3757b72c",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":2432,
+"height":916,
+"mode":"RGBA",
+"thumb_bytes":7449
+},
+"warnings":[],
+"chars":52,
+"text":"4GE PoE+2SFP\nLink PoE\n@o\n@» a ®\nIndustial POE Switch",
+"extracted_at":"2026-10-23T05:26:47Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_PoE_DONE__STI-244DGGP-BT__1.png__233581ee.jpg"
+}

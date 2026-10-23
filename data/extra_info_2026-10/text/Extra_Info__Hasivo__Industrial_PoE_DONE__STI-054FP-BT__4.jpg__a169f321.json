@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_PoE_DONE__STI-054FP-BT__4.jpg__a169f321",
+"path":"Extra_Info/Hasivo/Industrial PoE_DONE/STI-054FP-BT/4.jpg",
+"name":"4.jpg",
+"ext":".jpg",
+"bytes":77317,
+"sha256":"a169f321040395f9e936ea409bc309daab46c3b0e3b3c7f76682c700417f1244",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":650,
+"height":1742,
+"mode":"RGB",
+"thumb_bytes":4053
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:26:55Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_PoE_DONE__STI-054FP-BT__4.jpg__a169f321.jpg"
+}

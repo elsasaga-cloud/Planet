@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Special_Models__千兆4光8_COMBO__2.png__b0016817",
+"path":"Extra_Info/Hasivo/Special Models/千兆4光8 COMBO/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":5074973,
+"sha256":"b001681763ea7acd0e93c9075f3b1f4d2c7a870561d5b54969c4ac2effc46fd4",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":4136,
+"height":1204,
+"mode":"RGBA",
+"thumb_bytes":5777
+},
+"warnings":[],
+"chars":36,
+"text":"Gigabit PoE Switch\n8GE PoE+4GE Combo",
+"extracted_at":"2026-10-23T05:26:09Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Special_Models__千兆4光8_COMBO__2.png__b0016817.jpg"
+}

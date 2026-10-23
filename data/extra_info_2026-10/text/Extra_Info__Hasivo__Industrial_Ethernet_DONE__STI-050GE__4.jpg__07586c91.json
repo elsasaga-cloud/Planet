@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-050GE__4.jpg__07586c91",
+"path":"Extra_Info/Hasivo/Industrial Ethernet_DONE/STI-050GE/4.jpg",
+"name":"4.jpg",
+"ext":".jpg",
+"bytes":85343,
+"sha256":"07586c917fdfcc5873ce8399f3cb11506224e8c3ec2cdf5d411af21f6cbfd42f",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":667,
+"height":1937,
+"mode":"RGB",
+"thumb_bytes":3848
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:25:33Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-050GE__4.jpg__07586c91.jpg"
+}

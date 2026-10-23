@@ -1,0 +1,108 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_Ethernet__STI-210GE__STI-210GE.doc__eb17d90b",
+"path":"Extra_Info/Hasivo/Industrial Ethernet/STI-210GE/STI-210GE.doc",
+"name":"STI-210GE.doc",
+"ext":".doc",
+"bytes":30771,
+"sha256":"eb17d90b720f9de798aef1609041bdbc6e50afa3fde84510d5f0bbf5ab10353a",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:27:11+00:00",
+"paragraphs":0,
+"tables":1,
+"embedded_images":0
+},
+"warnings":[],
+"chars":1589,
+"text":"Model\tSTI-210GE\nProduct Name\t12 port 10/100/1000Mbps Industrial Ethernet Switch\nFixed Port\t8*10/100/1000M RJ45 port / 2*10/100/1000M Uplink RJ45 port / 2*1000M SFP\nBandwidth\t24Gbps\nPacket Forwarding\t17.86Mpps\nMAC\t2K\nBuffer\t2.5M\nTransmission Distance\t10BASE-T: Cat3,4,5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)\nOptical Media\tSFP: 1000M single and multimode optical module, Max distance≤100Km\nLED Indicator\tPWR: Power indicator (green) / EX Max: power overload indicator (green) / Port: green _10/100M network connection indicator / green+orange _1000M network connection indicator. / 9-10: Optical fiber connection indicator (green) / P1: Main power indicator (green) / P2: slave power indicator (green)\nPower\tThree groups of independent power input / SW: DC 12-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 160mm*130mm*45mm / Packing Box: 280mm*165mm*79mm\nN.W/G.W(Kg)\t1.3Kg/1.5Kg\nLightning / Protection Level\t6KV 8/20us; 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nWarranty\t3 Years\nPower\tThree groups of independent power input / SW: DC 12-57V\n[页眉页脚]\nRealtek Industrial Ethernet Series\t                                          a.sagatelecom@gmail.com\n\t\t\t\t\t                                                            Saga Telecom\n2025/Q3\t\t\t\t\t\t\t                         \t           www.sagatelecom.com.cn\nConnecting, Converting, Creating",
+"blocks":[
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-210GE"
+],
+[
+"Product Name",
+"12 port 10/100/1000Mbps Industrial Ethernet Switch"
+],
+[
+"Fixed Port",
+"8*10/100/1000M RJ45 port / 2*10/100/1000M Uplink RJ45 port / 2*1000M SFP"
+],
+[
+"Bandwidth",
+"24Gbps"
+],
+[
+"Packet Forwarding",
+"17.86Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3,4,5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multimode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PWR: Power indicator (green) / EX Max: power overload indicator (green) / Port: green _10/100M network connection indicator / green+orange _1000M network connection indicator. / 9-10: Optical fiber connection indicator (green) / P1: Main power indicator (green) / P2: slave power indicator (green)"
+],
+[
+"Power",
+"Three groups of independent power input / SW: DC 12-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 160mm*130mm*45mm / Packing Box: 280mm*165mm*79mm"
+],
+[
+"N.W/G.W(Kg)",
+"1.3Kg/1.5Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us; 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Warranty",
+"3 Years"
+],
+[
+"Power",
+"Three groups of independent power input / SW: DC 12-57V"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:27:11Z"
+}

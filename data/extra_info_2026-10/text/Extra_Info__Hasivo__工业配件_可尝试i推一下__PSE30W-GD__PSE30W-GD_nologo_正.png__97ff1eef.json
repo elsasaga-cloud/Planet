@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__工业配件_可尝试i推一下__PSE30W-GD__PSE30W-GD_nologo_正.png__97ff1eef",
+"path":"Extra_Info/Hasivo/工业配件_可尝试i推一下/PSE30W-GD/PSE30W-GD_nologo_正.png",
+"name":"PSE30W-GD_nologo_正.png",
+"ext":".png",
+"bytes":6226317,
+"sha256":"97ff1eef32e7797b62d64a8ba491b6525f10913d9a61d84bba98cbd3b055b5f3",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":3936,
+"height":1727,
+"mode":"RGB",
+"thumb_bytes":5441
+},
+"warnings":[],
+"chars":50,
+"text":"Joloeful 3od\n人 JSnpul\nLNO 30d\n%9Z %09\n%001 %9/\nx\n;",
+"extracted_at":"2026-10-23T05:27:21Z",
+"thumb":"thumbs/Extra_Info__Hasivo__工业配件_可尝试i推一下__PSE30W-GD__PSE30W-GD_nologo_正.png__97ff1eef.jpg"
+}

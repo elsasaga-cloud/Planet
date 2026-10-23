@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-220DGGE__2.png__96fc242e",
+"path":"Extra_Info/Hasivo/Industrial Ethernet_DONE/STI-220DGGE/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":2782232,
+"sha256":"96fc242e9b9fd6ecc133a006f2db819c43e10f6bdb147b2e0091156999f187c2",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":2058,
+"height":861,
+"mode":"RGBA",
+"thumb_bytes":7784
+},
+"warnings":[],
+"chars":81,
+"text":"OEE! EE\n2). @) 2\nSe ye) a\nceo Po Bs\nLink\nGiga\nIndustrial Switch\nair (oo owe |\na\n|",
+"extracted_at":"2026-10-23T05:25:39Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-220DGGE__2.png__96fc242e.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_PoE_DONE__STI-144FP-BT__2.png__955aa22e",
+"path":"Extra_Info/Hasivo/Industrial PoE_DONE/STI-144FP-BT/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":1670155,
+"sha256":"955aa22e80206d8d719f72313844fe0fc3040ddf09fe9bae1b5f03176ac9487a",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":2222,
+"height":825,
+"mode":"RGBA",
+"thumb_bytes":6210
+},
+"warnings":[],
+"chars":67,
+"text":"XA} + 30d 习 :\nfA ZA LA\n@ @ @\nMiwd X 9\nPoE\nLink\nIndustial PoE Switch",
+"extracted_at":"2026-10-23T05:26:26Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_PoE_DONE__STI-144FP-BT__2.png__955aa22e.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_PoE_DONE__STI-088GP-BT__1.png__056a5568",
+"path":"Extra_Info/Hasivo/Industrial PoE_DONE/STI-088GP-BT/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":759295,
+"sha256":"056a556832e2adca9f2dd00702b161532d7fb37e1c7ec41736282bbba05786aa",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":1248,
+"height":567,
+"mode":"RGBA",
+"thumb_bytes":10224
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:26:31Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_PoE_DONE__STI-088GP-BT__1.png__056a5568.jpg"
+}

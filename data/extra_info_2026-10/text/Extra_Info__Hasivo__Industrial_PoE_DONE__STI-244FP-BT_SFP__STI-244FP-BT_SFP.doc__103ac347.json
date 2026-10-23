@@ -1,0 +1,120 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_PoE_DONE__STI-244FP-BT_SFP__STI-244FP-BT_SFP.doc__103ac347",
+"path":"Extra_Info/Hasivo/Industrial PoE_DONE/STI-244FP-BT_SFP/STI-244FP-BT_SFP.doc",
+"name":"STI-244FP-BT_SFP.doc",
+"ext":".doc",
+"bytes":29747,
+"sha256":"103ac347db938bded3c41e13d7c95c2433d528eea9b54e1455109aaaa8376d96",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:27:00+00:00",
+"paragraphs":0,
+"tables":1,
+"embedded_images":0
+},
+"warnings":[],
+"chars":1490,
+"text":"Model\tSTI-244FP-BT_SFP\nProduct Name\t6 port 10/100Mbps Industrial PoE Switch\nFixed Port\t4*10/100M RJ45 PoE port / 2*100M SFP\nPoE Ports\t1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2-4 ports support IEEE802.3af/at, with a maximum single port power of 30W\nPoE Dog\tSupport\nPoE Pin\taf/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-\nBandwidth\t1.6Gbps\nPacket Forwarding\t0.89Mpps\nMAC\t1K\nBuffer\t768K\nTransmission Distance\t10BASE-T: Cat3,4,5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter)\nOptical Media\tSFP: 100M single and multimode optical module, Max distance≤100Km\nLED Indicator\tPWR: Power indicator (green) / Uplink port: 10/100M connection indicator light. / PoE port: orange PoE indicator, green grid connection indicator. / V1: Main power indicator (green) / V2: slave power indicator (green) / V3:DC power indicator (green) / VLAN: Port isolation indicator (green) / S: ultra-far mode on indicator (green)\nPower\tThree groups of independent power input / POE: DC 37-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 156mm*113mm*40mm / Packing Box: 235mm*105mm*78mm\nN.W/G.W(Kg)\t0.9Kg/1.1Kg\nLightning / Protection Level\t6KV 8/20us；8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years",
+"blocks":[
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-244FP-BT_SFP"
+],
+[
+"Product Name",
+"6 port 10/100Mbps Industrial PoE Switch"
+],
+[
+"Fixed Port",
+"4*10/100M RJ45 PoE port / 2*100M SFP"
+],
+[
+"PoE Ports",
+"1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2-4 ports support IEEE802.3af/at, with a maximum single port power of 30W"
+],
+[
+"PoE Dog",
+"Support"
+],
+[
+"PoE Pin",
+"af/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-"
+],
+[
+"Bandwidth",
+"1.6Gbps"
+],
+[
+"Packet Forwarding",
+"0.89Mpps"
+],
+[
+"MAC",
+"1K"
+],
+[
+"Buffer",
+"768K"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3,4,5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 100M single and multimode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PWR: Power indicator (green) / Uplink port: 10/100M connection indicator light. / PoE port: orange PoE indicator, green grid connection indicator. / V1: Main power indicator (green) / V2: slave power indicator (green) / V3:DC power indicator (green) / VLAN: Port isolation indicator (green) / S: ultra-far mode on indicator (green)"
+],
+[
+"Power",
+"Three groups of independent power input / POE: DC 37-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 156mm*113mm*40mm / Packing Box: 235mm*105mm*78mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.9Kg/1.1Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us；8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:27:00Z"
+}

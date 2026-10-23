@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Special_Models__千兆48电_4BT__1.png__866aa36e",
+"path":"Extra_Info/Hasivo/Special Models/千兆48电 4BT/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":3819923,
+"sha256":"866aa36e5fc6f856061072a01e66b0a01ae668e671a6a0cdc74fc57673a2964c",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":4906,
+"height":998,
+"mode":"RGBA",
+"thumb_bytes":4609
+},
+"warnings":[],
+"chars":151,
+"text":"esere\nReSecen\n48GE Full Gigabit Switch 2 2\n区 ss 澡\n人\n2 4 6 8 40 42 14 16 18 20 22 24 26 28 30 32 Eg of oe ay i 4 aS =\nee 9 @ @ 和\n34 36 38 40 42 44 46 48",
+"extracted_at":"2026-10-23T05:26:10Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Special_Models__千兆48电_4BT__1.png__866aa36e.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_PoE_DONE__STI-088GP-BT__3.jpg__ec88ff72",
+"path":"Extra_Info/Hasivo/Industrial PoE_DONE/STI-088GP-BT/3.jpg",
+"name":"3.jpg",
+"ext":".jpg",
+"bytes":184638,
+"sha256":"ec88ff72ab22e18cda2e121f00ab9083c3492fd9e55e12dd70d490cb98b22f01",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":964,
+"height":1663,
+"mode":"RGB",
+"thumb_bytes":10428
+},
+"warnings":[],
+"chars":34,
+"text":"a\n=\na\no\ney\n可\n2\n三\nIndustrial Switch",
+"extracted_at":"2026-10-23T05:26:33Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_PoE_DONE__STI-088GP-BT__3.jpg__ec88ff72.jpg"
+}

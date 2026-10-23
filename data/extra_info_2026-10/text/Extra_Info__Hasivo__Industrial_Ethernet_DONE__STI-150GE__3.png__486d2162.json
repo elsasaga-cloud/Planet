@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-150GE__3.png__486d2162",
+"path":"Extra_Info/Hasivo/Industrial Ethernet_DONE/STI-150GE/3.png",
+"name":"3.png",
+"ext":".png",
+"bytes":2867329,
+"sha256":"486d216234b411cb5a5306d84180f6922f421387eb952e012bcceb091f80a132",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1038,
+"height":2407,
+"mode":"RGBA",
+"thumb_bytes":8393
+},
+"warnings":[],
+"chars":66,
+"text":"@@ @\n6 GXPWR\n@ @ @\nV1 v2 v3\nYIM Jelsnpu]\nuly\ne615\n4GE+1G+1SFP\nri |",
+"extracted_at":"2026-10-23T05:25:17Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-150GE__3.png__486d2162.jpg"
+}

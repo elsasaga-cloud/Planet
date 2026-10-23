@@ -1,0 +1,116 @@
+{
+"id":"Extra_Info__Hasivo__Passive_PoE_DONE__S600P-4F-2F_24V_EN.doc__e2947298",
+"path":"Extra_Info/Hasivo/Passive PoE_DONE/S600P-4F-2F_24V EN.doc",
+"name":"S600P-4F-2F_24V EN.doc",
+"ext":".doc",
+"bytes":42496,
+"sha256":"e294729858fa223197ec8ca4a19ef7ea4c00b48a636a453bdce86ca988bb4fd1",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:26:22+00:00",
+"paragraphs":0,
+"tables":1,
+"embedded_images":0
+},
+"warnings":[],
+"chars":1098,
+"text":"Model\tS600P-4F-2F-24V\nProduct mame\t4Port 100M PoE Switch\nFixed Port\t4*10/100Base-TX  PoE port（Data/Power） / 2*10/100Base-TX  uplink RJ45 port (Data)\nPoE Ports\t1-4 port supports IEEE802.3, max 30W/port, PoE out  24V\nPoE Pin\taf/at 45+  78-\nPoE Bridge\tmax 65W\nBandwidth\t1.6Gbps\nPacket Forwarding\t1.15Mpps\nMAC\t1K\nBuffer\t768K\nTransmission Distance\t10BASE-T ： Cat3,4,5 UTP(≤250 meter) / 100BASE-TX ： Cat5 or later UTP(150 meter)\nLED Indicator\tP:Power LED(over-power LED) / Uplink:(LED=10/100M Link/Act LED） / Port:(Orange=PoE LED, Green=LAN Link LED） / V:(Port isolation LED) / S:( Super mode LED)\nPower\tBuilt-in power AC：100-240Vac 50-60Hz   max 65W\nOperating Temperature/Humidity\t-10～+55°C；5%～90% RH Non coagulation\nStorage Temperature/Humidity\t-40～+75°C；5%～95% RH Non coagulation\nProduct /Packing / size（L*W*H）\t190mm*130mm*35mm / 265mm*220mm*68mm\nN.W/G.W（kg）\t0.6kg/1.0kg\nLightning / Protection  level\t6KV 8/20us； / IP30\nInstallation\tDesktop (optional wall +machine hangers)\nCertificate\tCE-EMC EN55032；CE-LVD EN62368；\nFCC Part 15 Class B；RoHS；\nWarranty\tWhole device for 1 year(Accessories not included)",
+"blocks":[
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"S600P-4F-2F-24V"
+],
+[
+"Product mame",
+"4Port 100M PoE Switch"
+],
+[
+"Fixed Port",
+"4*10/100Base-TX  PoE port（Data/Power） / 2*10/100Base-TX  uplink RJ45 port (Data)"
+],
+[
+"PoE Ports",
+"1-4 port supports IEEE802.3, max 30W/port, PoE out  24V"
+],
+[
+"PoE Pin",
+"af/at 45+  78-"
+],
+[
+"PoE Bridge",
+"max 65W"
+],
+[
+"Bandwidth",
+"1.6Gbps"
+],
+[
+"Packet Forwarding",
+"1.15Mpps"
+],
+[
+"MAC",
+"1K"
+],
+[
+"Buffer",
+"768K"
+],
+[
+"Transmission Distance",
+"10BASE-T ： Cat3,4,5 UTP(≤250 meter) / 100BASE-TX ： Cat5 or later UTP(150 meter)"
+],
+[
+"LED Indicator",
+"P:Power LED(over-power LED) / Uplink:(LED=10/100M Link/Act LED） / Port:(Orange=PoE LED, Green=LAN Link LED） / V:(Port isolation LED) / S:( Super mode LED)"
+],
+[
+"Power",
+"Built-in power AC：100-240Vac 50-60Hz   max 65W"
+],
+[
+"Operating Temperature/Humidity",
+"-10～+55°C；5%～90% RH Non coagulation"
+],
+[
+"Storage Temperature/Humidity",
+"-40～+75°C；5%～95% RH Non coagulation"
+],
+[
+"Product /Packing / size（L*W*H）",
+"190mm*130mm*35mm / 265mm*220mm*68mm"
+],
+[
+"N.W/G.W（kg）",
+"0.6kg/1.0kg"
+],
+[
+"Lightning / Protection  level",
+"6KV 8/20us； / IP30"
+],
+[
+"Installation",
+"Desktop (optional wall +machine hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032；CE-LVD EN62368；\nFCC Part 15 Class B；RoHS；"
+],
+[
+"Warranty",
+"Whole device for 1 year(Accessories not included)"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:26:22Z"
+}

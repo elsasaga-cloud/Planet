@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_PoE_DONE__STI-288GP-BT__1.png__d6e3d539",
+"path":"Extra_Info/Hasivo/Industrial PoE_DONE/STI-288GP-BT/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":1451797,
+"sha256":"d6e3d53922fa3a561b3a96e401d8d870300d98d182d9a555c3b18b571e1ed32e",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1836,
+"height":822,
+"mode":"RGBA",
+"thumb_bytes":9470
+},
+"warnings":[],
+"chars":31,
+"text":"ddSszc +3od 498\n@e@ @\nXnd ZA TA",
+"extracted_at":"2026-10-23T05:26:39Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_PoE_DONE__STI-288GP-BT__1.png__d6e3d539.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Special_Models__千兆4光24_COMBO_2BT__2.png__ce9ed6e3",
+"path":"Extra_Info/Hasivo/Special Models/千兆4光24 COMBO 2BT/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":1356368,
+"sha256":"ce9ed6e361a3099345c93428e1df9bc0a70b6b8490a8044341f883a019ef054c",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":2470,
+"height":855,
+"mode":"RGBA",
+"thumb_bytes":5364
+},
+"warnings":[],
+"chars":13,
+"text":"MAN\nyon it eH",
+"extracted_at":"2026-10-23T05:25:56Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Special_Models__千兆4光24_COMBO_2BT__2.png__ce9ed6e3.jpg"
+}

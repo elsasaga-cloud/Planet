@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_PoE_DONE__STI-244FP-BT_SFP__1.png__5cd21417",
+"path":"Extra_Info/Hasivo/Industrial PoE_DONE/STI-244FP-BT_SFP/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":1586806,
+"sha256":"5cd2141730e49e5956365783a06c435f4cecd4b4c7bdce7b141d4af84f8155a0",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":2433,
+"height":916,
+"mode":"RGBA",
+"thumb_bytes":7413
+},
+"warnings":[],
+"chars":63,
+"text":"= id\nj\n4FE PoE + 2FE\nPe\n@S @:\nese\n- -\ne=e5\nIndustial POE Switch",
+"extracted_at":"2026-10-23T05:26:57Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_PoE_DONE__STI-244FP-BT_SFP__1.png__5cd21417.jpg"
+}

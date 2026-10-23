@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Special_Models__千兆4光24_COMBO_BT_AUTO__3.png__0037424c",
+"path":"Extra_Info/Hasivo/Special Models/千兆4光24 COMBO BT AUTO/3.png",
+"name":"3.png",
+"ext":".png",
+"bytes":1579848,
+"sha256":"0037424cd17505860ce6c0771cb6a6dd56d7d98ef73fdd3e9ecd0ed9a3a239d8",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":2464,
+"height":853,
+"mode":"RGBA",
+"thumb_bytes":5659
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:26:03Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Special_Models__千兆4光24_COMBO_BT_AUTO__3.png__0037424c.jpg"
+}

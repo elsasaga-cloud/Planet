@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Special_Models__千兆2_2_16_2BT__2.png__648cfb85",
+"path":"Extra_Info/Hasivo/Special Models/千兆2+2+16 2BT/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":4658954,
+"sha256":"648cfb855ef2822602614ae3ed824d3f82c631b8ad73e8bd47c6af863dfe631d",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":4136,
+"height":1204,
+"mode":"RGBA",
+"thumb_bytes":6240
+},
+"warnings":[],
+"chars":43,
+"text":"Gigabit PoE Switch\n16GE PoE+2GE+2SFP Switch",
+"extracted_at":"2026-10-23T05:26:13Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Special_Models__千兆2_2_16_2BT__2.png__648cfb85.jpg"
+}

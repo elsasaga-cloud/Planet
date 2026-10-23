@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_PoE_DONE__STI-244FP-BT__3.png__95a4f27c",
+"path":"Extra_Info/Hasivo/Industrial PoE_DONE/STI-244FP-BT/3.png",
+"name":"3.png",
+"ext":".png",
+"bytes":3381958,
+"sha256":"95a4f27c092e655e0cfaee6de4f0fcd4067e6e53f68baff20b69fc6abec98101",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1084,
+"height":2413,
+"mode":"RGBA",
+"thumb_bytes":8052
+},
+"warnings":[],
+"chars":36,
+"text":"6 PWR\nV1 V2 v3\noo @\nIndustial Switch",
+"extracted_at":"2026-10-23T05:26:37Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_PoE_DONE__STI-244FP-BT__3.png__95a4f27c.jpg"
+}

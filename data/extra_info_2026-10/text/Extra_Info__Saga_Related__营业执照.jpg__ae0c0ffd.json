@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_Related__营业执照.jpg__ae0c0ffd",
+"path":"Extra_Info/Saga Related/营业执照.jpg",
+"name":"营业执照.jpg",
+"ext":".jpg",
+"bytes":170507,
+"sha256":"ae0c0ffdcc308cf8e0567a97c14433221b0205b427bb709bb613974dca8e67dc",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1080,
+"height":1920,
+"mode":"RGB",
+"thumb_bytes":7607
+},
+"warnings":[],
+"chars":189,
+"text":"统一 社会 信用 代码\n《 91410104MACLDHX21U\n訊 器 材 有限 公 司 注册 资本\n类 型 ”有限 责任 公司 (自然 人 独资 ) 成 立 日 期\n法 定 代表 人 BRU\n+ 通信 设备\n; 配電 開 關\n7, BRERA ://www,gSxtgOv.c 和 年 1 月 1 日 至 6 月 30 日 通過\npew Be : a RARE AOE\nea",
+"extracted_at":"2026-10-23T05:32:18Z",
+"thumb":"thumbs/Extra_Info__Saga_Related__营业执照.jpg__ae0c0ffd.jpg"
+}

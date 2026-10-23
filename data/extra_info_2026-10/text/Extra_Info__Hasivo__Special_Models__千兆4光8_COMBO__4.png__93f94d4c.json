@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Special_Models__千兆4光8_COMBO__4.png__93f94d4c",
+"path":"Extra_Info/Hasivo/Special Models/千兆4光8 COMBO/4.png",
+"name":"4.png",
+"ext":".png",
+"bytes":14303807,
+"sha256":"93f94d4cd984e99a4c9e6cb14afd3143b45a2e79f17990c3cb1c348ce22a4e92",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":4001,
+"height":892,
+"mode":"RGBA",
+"thumb_bytes":3457
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:26:11Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Special_Models__千兆4光8_COMBO__4.png__93f94d4c.jpg"
+}

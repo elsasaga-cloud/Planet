@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_Related__外汇管理局行政许可.pdf__c0f6487a",
+"path":"Extra_Info/Saga Related/外汇管理局行政许可.pdf",
+"name":"外汇管理局行政许可.pdf",
+"ext":".pdf",
+"bytes":1058833,
+"sha256":"c0f6487a395f10f6683f2d2390671f21ff3d661edda4a69f22cba5e4b485a84e",
+"source":"Extra_Info.zip",
+"method":"pdfplumber",
+"status":"meta",
+"meta":{
+"pages":0,
+"creator":"Image Capture Plus",
+"creationdate":"D:20230714102059+08'00'",
+"moddate":"D:20230714112229+08'00'",
+"ocr_pages":0
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"pages":[],
+"extracted_at":"2026-10-23T05:28:02Z"
+}

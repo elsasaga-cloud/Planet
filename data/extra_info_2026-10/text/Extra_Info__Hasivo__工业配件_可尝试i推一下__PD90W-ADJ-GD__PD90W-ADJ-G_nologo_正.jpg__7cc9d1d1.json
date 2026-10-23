@@ -1,0 +1,27 @@
+{
+"id":"Extra_Info__Hasivo__工业配件_可尝试i推一下__PD90W-ADJ-GD__PD90W-ADJ-G_nologo_正.jpg__7cc9d1d1",
+"path":"Extra_Info/Hasivo/工业配件_可尝试i推一下/PD90W-ADJ-GD/PD90W-ADJ-G_nologo_正.jpg",
+"name":"PD90W-ADJ-G_nologo_正.jpg",
+"ext":".jpg",
+"bytes":604769,
+"sha256":"7cc9d1d1f05ec4caedbf068bc88c8ba3484c1ee641bd503cfceb6b4fe7ed3bf7",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1757,
+"height":1054,
+"mode":"RGB",
+"datetime":"2022:06:22 14:32:17",
+"make":"Apple",
+"model":"iPhone 13",
+"software":"Adobe Photoshop CC (Windows)",
+"thumb_bytes":7734
+},
+"warnings":[],
+"chars":87,
+"text":"BT MAX90W\nzac\nCOm-\n1 2\njoufore| ev\n24V\nDATA OUT\nPoE IN\nPoE Splitter\n802.3af/at/HiPoE/BT",
+"extracted_at":"2026-10-23T05:27:26Z",
+"thumb":"thumbs/Extra_Info__Hasivo__工业配件_可尝试i推一下__PD90W-ADJ-GD__PD90W-ADJ-G_nologo_正.jpg__7cc9d1d1.jpg"
+}

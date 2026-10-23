@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Special_Models__千兆2_2_24_2BT__2.png__0d792133",
+"path":"Extra_Info/Hasivo/Special Models/千兆2+2+24 2BT/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":1897373,
+"sha256":"0d7921339adee5291b5a8d3ce9fbffc83c7b57b9e19626fff08e2cd96239d24e",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":2887,
+"height":1111,
+"mode":"RGBA",
+"thumb_bytes":6837
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:25:48Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Special_Models__千兆2_2_24_2BT__2.png__0d792133.jpg"
+}

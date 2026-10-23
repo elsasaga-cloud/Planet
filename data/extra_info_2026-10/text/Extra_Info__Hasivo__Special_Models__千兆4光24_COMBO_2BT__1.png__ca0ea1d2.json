@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Special_Models__千兆4光24_COMBO_2BT__1.png__ca0ea1d2",
+"path":"Extra_Info/Hasivo/Special Models/千兆4光24 COMBO 2BT/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":1111594,
+"sha256":"ca0ea1d267a67b7e0e7e36935cfcef71ba62ae133ac1c4426a68712c8d2cce34",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":3284,
+"height":504,
+"mode":"RGBA",
+"thumb_bytes":4321
+},
+"warnings":[],
+"chars":302,
+"text":"Pe\n‘000m ‘\n5 9 na 0 7 9 2 2 25 2\n8 ee ee\nunk/Ast\nCC ee ee\nPWR2 4 6 8 1 12 4 16 18 20 22 24 26 28\ni 史 閃閃 MT\neee ee Po\nVLAN\nNOMI!\nSUPM\n25\n27\n1 5 7 9 則 13 15 17 19 21 23\n2 4 6 8 10 12 14 16 18 20 22 24\n26\n28\nGigabit Unmanaged PoE Switch\n24GE PoE+4GE Combo\na a a eS\n25-COMBO ”26-COMBO ”27-COMBO 。” 28-COMBO",
+"extracted_at":"2026-10-23T05:26:04Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Special_Models__千兆4光24_COMBO_2BT__1.png__ca0ea1d2.jpg"
+}

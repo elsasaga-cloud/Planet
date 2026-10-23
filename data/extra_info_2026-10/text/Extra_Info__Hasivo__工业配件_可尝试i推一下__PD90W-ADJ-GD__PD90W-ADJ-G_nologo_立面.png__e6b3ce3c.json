@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__工业配件_可尝试i推一下__PD90W-ADJ-GD__PD90W-ADJ-G_nologo_立面.png__e6b3ce3c",
+"path":"Extra_Info/Hasivo/工业配件_可尝试i推一下/PD90W-ADJ-GD/PD90W-ADJ-G_nologo_立面.png",
+"name":"PD90W-ADJ-G_nologo_立面.png",
+"ext":".png",
+"bytes":803962,
+"sha256":"e6b3ce3c37e28a0368128a42600763a08a1a8fa2f3f06be9575219744df1b3b3",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":850,
+"height":1680,
+"mode":"RGBA",
+"thumb_bytes":8132
+},
+"warnings":[],
+"chars":58,
+"text":"BT MAX90W\nDATA OUT\nPoE IN\nPoE Splitter\n802.3af/at/HiPoE/BT",
+"extracted_at":"2026-10-23T05:27:27Z",
+"thumb":"thumbs/Extra_Info__Hasivo__工业配件_可尝试i推一下__PD90W-ADJ-GD__PD90W-ADJ-G_nologo_立面.png__e6b3ce3c.jpg"
+}

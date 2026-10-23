@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Special_Models__千兆1_1_8_8BT__1.png__3e348d4b",
+"path":"Extra_Info/Hasivo/Special Models/千兆1+1+8 8BT/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":1578336,
+"sha256":"3e348d4b9402bb9322d342f7804492e0135ef3baf5388b30d083a31e7dd2ef48",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":3276,
+"height":502,
+"mode":"RGBA",
+"thumb_bytes":3448
+},
+"warnings":[],
+"chars":65,
+"text":"PoE Link/Act\nGigabit Fiber PoE Switch\n8GE BT_90W+1G+1SFP on\n@ Pwr",
+"extracted_at":"2026-10-23T05:25:46Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Special_Models__千兆1_1_8_8BT__1.png__3e348d4b.jpg"
+}

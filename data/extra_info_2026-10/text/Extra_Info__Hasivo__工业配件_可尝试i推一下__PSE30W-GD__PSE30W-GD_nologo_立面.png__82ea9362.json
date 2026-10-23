@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__工业配件_可尝试i推一下__PSE30W-GD__PSE30W-GD_nologo_立面.png__82ea9362",
+"path":"Extra_Info/Hasivo/工业配件_可尝试i推一下/PSE30W-GD/PSE30W-GD_nologo_立面.png",
+"name":"PSE30W-GD_nologo_立面.png",
+"ext":".png",
+"bytes":1385320,
+"sha256":"82ea936288c274d4aca17bdfa6bf7f911e891efc8a3a1b5a13a4e5f8a6bc6259",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":3936,
+"height":1727,
+"mode":"RGB",
+"thumb_bytes":2553
+},
+"warnings":[],
+"chars":30,
+"text":"75% 100%\n50% 25%\nDATAIN\nPoEOUT",
+"extracted_at":"2026-10-23T05:27:22Z",
+"thumb":"thumbs/Extra_Info__Hasivo__工业配件_可尝试i推一下__PSE30W-GD__PSE30W-GD_nologo_立面.png__82ea9362.jpg"
+}

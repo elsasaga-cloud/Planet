@@ -1,0 +1,112 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_PoE_DONE__STI-054FP-BT__STI-054FP-BT.doc__b3fff4e7",
+"path":"Extra_Info/Hasivo/Industrial PoE_DONE/STI-054FP-BT/STI-054FP-BT.doc",
+"name":"STI-054FP-BT.doc",
+"ext":".doc",
+"bytes":29747,
+"sha256":"b3fff4e7b8b535a774ecaa7b865d27f2ef8792be62aa52764a2fa97a05572a69",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:26:55+00:00",
+"paragraphs":0,
+"tables":1,
+"embedded_images":0
+},
+"warnings":[],
+"chars":1437,
+"text":"Model\tSTI-054FP-BT\nProduct Name\t5 port 10/100Mbps Industrial PoE Switch\nFixed Port\t4*10/100M RJ45 PoE port / 1*10/100M Uplink RJ45 port\nPoE Ports\t1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2-4 ports support IEEE802.3af/at, with a maximum single port power of 30W\nPoE Dog\tSupport\nPoE Pin\taf/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-\nBandwidth\t1Gbps\nPacket Forwarding\t0.74Mpps\nMAC\t1K\nBuffer\t768K\nLED Indicator\tPW: power indicator (green) / Uplink port: 10/100M connection indicator light / PoE port: orange PoE indicator, green grid connection indicator / V1: Main power indicator (green) / V2: slave power indicator (green)\nPower\tThree groups of independent power input / POE: DC 37-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 105mm*90mm*36mm / Packing Box: 200mm*130mm*40mm\nN.W/G.W(Kg)\t0.5Kg/0.6Kg\nLightning / Protection level\t6KV 8/20us, 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\n[页眉页脚]\nIndustrial PoE Series\t                                     a.sagatelecom@gmail.com\t                                              Saga Telecom\n2025/Q3\t \t   \t                                                www.sagatelecom.com.cn",
+"blocks":[
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-054FP-BT"
+],
+[
+"Product Name",
+"5 port 10/100Mbps Industrial PoE Switch"
+],
+[
+"Fixed Port",
+"4*10/100M RJ45 PoE port / 1*10/100M Uplink RJ45 port"
+],
+[
+"PoE Ports",
+"1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2-4 ports support IEEE802.3af/at, with a maximum single port power of 30W"
+],
+[
+"PoE Dog",
+"Support"
+],
+[
+"PoE Pin",
+"af/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-"
+],
+[
+"Bandwidth",
+"1Gbps"
+],
+[
+"Packet Forwarding",
+"0.74Mpps"
+],
+[
+"MAC",
+"1K"
+],
+[
+"Buffer",
+"768K"
+],
+[
+"LED Indicator",
+"PW: power indicator (green) / Uplink port: 10/100M connection indicator light / PoE port: orange PoE indicator, green grid connection indicator / V1: Main power indicator (green) / V2: slave power indicator (green)"
+],
+[
+"Power",
+"Three groups of independent power input / POE: DC 37-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 105mm*90mm*36mm / Packing Box: 200mm*130mm*40mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.5Kg/0.6Kg"
+],
+[
+"Lightning / Protection level",
+"6KV 8/20us, 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:26:55Z"
+}

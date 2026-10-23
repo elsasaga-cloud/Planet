@@ -1,0 +1,116 @@
+{
+"id":"Extra_Info__Hasivo__Passive_PoE_DONE__S1100P-8F-2F_24V_EN.doc__0ab6da75",
+"path":"Extra_Info/Hasivo/Passive PoE_DONE/S1100P-8F-2F_24V EN.doc",
+"name":"S1100P-8F-2F_24V EN.doc",
+"ext":".doc",
+"bytes":42496,
+"sha256":"0ab6da75d19635d7e006974fe0f047778eff83e6fcb1f97ab047f085217de5a9",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:26:18+00:00",
+"paragraphs":0,
+"tables":1,
+"embedded_images":0
+},
+"warnings":[],
+"chars":1054,
+"text":"Model\tS1100P-8F-2F-24V\nProduct mame\t8 Port 100M PoE Switch\nFixed Port\t8*10/100Base-TX  PoE port（Data/Power） / 2*10/100Base-TX  uplink RJ45 port (Data)\nPoE Ports\t1-8 port supports IEEE802.3, max 30W/port, PoE out  24V\nPoE Pin\taf/at: 45+  78-\nPoE Bridge\tmax 120W\nBandwidth\t2Gbps\nPacket Forwarding\t1.48Mpps\nMAC\t2K\nBuffer\t768K\nTransmission Distance\t10BASE-T ： Cat3,4,5 UTP(≤250 meter) / 100BASE-TX ： Cat5 or later UTP(150 meter)\nLED Indicator\tP:Power LED(over-power LED) / Uplink:(LED=10/100M Link/Act LED） / Port:(Orange=PoE LED, Green=LAN Link LED）\nPower\tBuilt-in power AC：100-240Vac 50-60Hz   max 120W\nOperating Temperature/Humidity\t-10～+55°C；5%～90% RH Non coagulation\nStorage Temperature/Humidity\t-40～+75°C；5%～95% RH Non coagulation\nProduct /Packing / size（L*W*H）\t210mm*150mm*35mm / 265*mm220mm*68mm\nN.W/G.W（kg）\t0.8kg/1.2kg\nLightning / Protection  level\t6KV 8/20us； / IP30\nInstallation\tDesktop (optional wall +machine hangers)\nCertificate\tCE-EMC EN55032；CE-LVD EN62368；\nFCC Part 15 Class B；RoHS；\nWarranty\tWhole device for 1 year(Accessories not included)",
+"blocks":[
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"S1100P-8F-2F-24V"
+],
+[
+"Product mame",
+"8 Port 100M PoE Switch"
+],
+[
+"Fixed Port",
+"8*10/100Base-TX  PoE port（Data/Power） / 2*10/100Base-TX  uplink RJ45 port (Data)"
+],
+[
+"PoE Ports",
+"1-8 port supports IEEE802.3, max 30W/port, PoE out  24V"
+],
+[
+"PoE Pin",
+"af/at: 45+  78-"
+],
+[
+"PoE Bridge",
+"max 120W"
+],
+[
+"Bandwidth",
+"2Gbps"
+],
+[
+"Packet Forwarding",
+"1.48Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"768K"
+],
+[
+"Transmission Distance",
+"10BASE-T ： Cat3,4,5 UTP(≤250 meter) / 100BASE-TX ： Cat5 or later UTP(150 meter)"
+],
+[
+"LED Indicator",
+"P:Power LED(over-power LED) / Uplink:(LED=10/100M Link/Act LED） / Port:(Orange=PoE LED, Green=LAN Link LED）"
+],
+[
+"Power",
+"Built-in power AC：100-240Vac 50-60Hz   max 120W"
+],
+[
+"Operating Temperature/Humidity",
+"-10～+55°C；5%～90% RH Non coagulation"
+],
+[
+"Storage Temperature/Humidity",
+"-40～+75°C；5%～95% RH Non coagulation"
+],
+[
+"Product /Packing / size（L*W*H）",
+"210mm*150mm*35mm / 265*mm220mm*68mm"
+],
+[
+"N.W/G.W（kg）",
+"0.8kg/1.2kg"
+],
+[
+"Lightning / Protection  level",
+"6KV 8/20us； / IP30"
+],
+[
+"Installation",
+"Desktop (optional wall +machine hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032；CE-LVD EN62368；\nFCC Part 15 Class B；RoHS；"
+],
+[
+"Warranty",
+"Whole device for 1 year(Accessories not included)"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:26:18Z"
+}

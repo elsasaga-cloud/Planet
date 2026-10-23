@@ -1,0 +1,104 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-280GE__STI-280GE.doc__54764f14",
+"path":"Extra_Info/Hasivo/Industrial Ethernet_DONE/STI-280GE/STI-280GE.doc",
+"name":"STI-280GE.doc",
+"ext":".doc",
+"bytes":27136,
+"sha256":"54764f142312b42f27fe59e4f68f7cc382b59eb31044e62c17008089f4c9d583",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:25:27+00:00",
+"paragraphs":0,
+"tables":1,
+"embedded_images":0
+},
+"warnings":[],
+"chars":1197,
+"text":"Model\tSTI-280GE\nProduct Name\t10 port 10/100/1000Mbps Industrial Ethernet Switch\nFixed Port\t8*10/100/1000M RJ45 port / 2*1000M SFP\nBandwidth\t24Gbps\nPacket Forwarding\t14.88Mpps\nMAC\t2K\nBuffer\t2.5M\nTransmission Distance\t10BASE-T: Cat3,4,5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)\nOptical Media\tSFP: 1000M single and multimode optical module, Max distance≤100Km\nLED Indicator\tPWR: Power indicator (green) / PMX: Power overload indicator (green) / Port: green _10/100M network connection indicator / green+orange _1000M network connection indicator. / 9-10: Optical fiber connection indicator (green) / V1: Main power indicator (green) / V2: slave power indicator (green)\nPower\tThree groups of independent power input / SW: DC 12-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 160mm*130mm*45mm / Packing Box: 280mm*165mm*79mm\nN.W/G.W(Kg)\t0.9Kg/1.1Kg\nLightning / Protection Level\t6KV 8/20us; 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nWarranty\t3 Years",
+"blocks":[
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-280GE"
+],
+[
+"Product Name",
+"10 port 10/100/1000Mbps Industrial Ethernet Switch"
+],
+[
+"Fixed Port",
+"8*10/100/1000M RJ45 port / 2*1000M SFP"
+],
+[
+"Bandwidth",
+"24Gbps"
+],
+[
+"Packet Forwarding",
+"14.88Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3,4,5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multimode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PWR: Power indicator (green) / PMX: Power overload indicator (green) / Port: green _10/100M network connection indicator / green+orange _1000M network connection indicator. / 9-10: Optical fiber connection indicator (green) / V1: Main power indicator (green) / V2: slave power indicator (green)"
+],
+[
+"Power",
+"Three groups of independent power input / SW: DC 12-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 160mm*130mm*45mm / Packing Box: 280mm*165mm*79mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.9Kg/1.1Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us; 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:25:27Z"
+}

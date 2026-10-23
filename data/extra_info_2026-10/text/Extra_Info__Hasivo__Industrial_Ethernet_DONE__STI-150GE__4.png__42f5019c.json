@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-150GE__4.png__42f5019c",
+"path":"Extra_Info/Hasivo/Industrial Ethernet_DONE/STI-150GE/4.png",
+"name":"4.png",
+"ext":".png",
+"bytes":1314555,
+"sha256":"42f5019cadf4556563852c95979f0d41691cd22ec4bb410d352acaa3faddf9b9",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":2277,
+"height":847,
+"mode":"RGBA",
+"thumb_bytes":5114
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:25:15Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-150GE__4.png__42f5019c.jpg"
+}

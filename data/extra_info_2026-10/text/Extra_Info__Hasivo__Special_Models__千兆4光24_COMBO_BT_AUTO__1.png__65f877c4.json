@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Special_Models__千兆4光24_COMBO_BT_AUTO__1.png__65f877c4",
+"path":"Extra_Info/Hasivo/Special Models/千兆4光24 COMBO BT AUTO/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":1873193,
+"sha256":"65f877c47e8c1ebb6c93d37f1f44bb1864635d5c2cbaf3ba26be165d232c211b",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":3276,
+"height":502,
+"mode":"RGBA",
+"thumb_bytes":4562
+},
+"warnings":[],
+"chars":159,
+"text":"en ASTER SC ee Gigabit Super PoE Switch\nBreow\nPo 678 TeARSD AGE AUTO+4GE BT_90W+16GE AT+4GE COMBO\n2463 8 enn nee ] ! |] ess\n25-COMBO 26-COMBO 27-COMBO 28-cowao",
+"extracted_at":"2026-10-23T05:26:02Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Special_Models__千兆4光24_COMBO_BT_AUTO__1.png__65f877c4.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_PoE_DONE__STI-288GP-BT__2.png__093c8e9b",
+"path":"Extra_Info/Hasivo/Industrial PoE_DONE/STI-288GP-BT/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":1518525,
+"sha256":"093c8e9bf6a9d0a0f185b1525536a2e3d37caf188f26eebebbb66782ba4030ee",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1820,
+"height":763,
+"mode":"RGBA",
+"thumb_bytes":8815
+},
+"warnings":[],
+"chars":86,
+"text":"3od 上 Mun w a N\no\nCo\ng leU3snpul\nrm\n了\nOo: | 二 人\n十\nN 5 @s 區\n0 ly 卫 忆\n= 三 =@\nme) x< a\nOL",
+"extracted_at":"2026-10-23T05:26:40Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_PoE_DONE__STI-288GP-BT__2.png__093c8e9b.jpg"
+}

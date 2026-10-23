@@ -1,0 +1,116 @@
+{
+"id":"Extra_Info__Hasivo__Passive_PoE_DONE__S5800P-24F-2G_24V_EN.doc__3928ab20",
+"path":"Extra_Info/Hasivo/Passive PoE_DONE/S5800P-24F-2G_24V EN.doc",
+"name":"S5800P-24F-2G_24V EN.doc",
+"ext":".doc",
+"bytes":42496,
+"sha256":"3928ab203af096ecbb54aead7f12c715cb8b773d6840f549633716940a06c9d6",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:26:21+00:00",
+"paragraphs":0,
+"tables":1,
+"embedded_images":0
+},
+"warnings":[],
+"chars":1180,
+"text":"Model\tS5800P-24F-2G-24V\nProduct mame\tGigabit uplink 24-port 100M POE switch\nFixed Port\t24*10/100Base-TX  PoE port（Data/Power） / 2*10/100/1000Base-TX uplink RJ45 port (Data)\nPoE Ports\t1-24 port supports IEEE802.3, max 30W/port, PoE out  24V\nPoE Pin\taf/at: 45+  78-\nPoE Bridge\tmax 300W\nBandwidth\t16Gbps\nPacket Forwarding\t6.55Mpps\nMAC\t8K\nBuffer\t4.1M\nTransmission Distance\t10BASE-T ： Cat3,4,5 UTP(≤250 meter) / 100BASE-TX ： Cat5 or later UTP(150 meter) / 1000BASE-TX ： Cat6 or later UTP(150 meter)\nLED Indicator\tPWR:Power LED(green) / 1-24:10/100M Network connection indicator(green) / 25-26:10/100、1000M Network connection indicator(green) / PoE:PoE indicator(orange)\nPower\tBuilt-in power AC：100-240Vac 50-60Hz   max 300W\nOperating Temperature/Humidity\t-10～+55°C；5%～90% RH Non coagulation\nStorage Temperature/Humidity\t-40～+75°C；5%～95% RH Non coagulation\nProduct /Packing / size（L*W*H）\t440mm*290mm*45mm / 515mm*375mm*95mm\nN.W/G.W（kg）\t3.3kg/4.1kg\nLightning / Protection  level\t6KV 8/20us； / IP30\nInstallation\tRack-mount (optional machine hanger spare parts)\nCertificate\tCE-EMC EN55032；CE-LVD EN62368；\nFCC Part 15 Class B；RoHS；\nWarranty\tWhole device for 1 year(Accessories not included)",
+"blocks":[
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"S5800P-24F-2G-24V"
+],
+[
+"Product mame",
+"Gigabit uplink 24-port 100M POE switch"
+],
+[
+"Fixed Port",
+"24*10/100Base-TX  PoE port（Data/Power） / 2*10/100/1000Base-TX uplink RJ45 port (Data)"
+],
+[
+"PoE Ports",
+"1-24 port supports IEEE802.3, max 30W/port, PoE out  24V"
+],
+[
+"PoE Pin",
+"af/at: 45+  78-"
+],
+[
+"PoE Bridge",
+"max 300W"
+],
+[
+"Bandwidth",
+"16Gbps"
+],
+[
+"Packet Forwarding",
+"6.55Mpps"
+],
+[
+"MAC",
+"8K"
+],
+[
+"Buffer",
+"4.1M"
+],
+[
+"Transmission Distance",
+"10BASE-T ： Cat3,4,5 UTP(≤250 meter) / 100BASE-TX ： Cat5 or later UTP(150 meter) / 1000BASE-TX ： Cat6 or later UTP(150 meter)"
+],
+[
+"LED Indicator",
+"PWR:Power LED(green) / 1-24:10/100M Network connection indicator(green) / 25-26:10/100、1000M Network connection indicator(green) / PoE:PoE indicator(orange)"
+],
+[
+"Power",
+"Built-in power AC：100-240Vac 50-60Hz   max 300W"
+],
+[
+"Operating Temperature/Humidity",
+"-10～+55°C；5%～90% RH Non coagulation"
+],
+[
+"Storage Temperature/Humidity",
+"-40～+75°C；5%～95% RH Non coagulation"
+],
+[
+"Product /Packing / size（L*W*H）",
+"440mm*290mm*45mm / 515mm*375mm*95mm"
+],
+[
+"N.W/G.W（kg）",
+"3.3kg/4.1kg"
+],
+[
+"Lightning / Protection  level",
+"6KV 8/20us； / IP30"
+],
+[
+"Installation",
+"Rack-mount (optional machine hanger spare parts)"
+],
+[
+"Certificate",
+"CE-EMC EN55032；CE-LVD EN62368；\nFCC Part 15 Class B；RoHS；"
+],
+[
+"Warranty",
+"Whole device for 1 year(Accessories not included)"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:26:21Z"
+}

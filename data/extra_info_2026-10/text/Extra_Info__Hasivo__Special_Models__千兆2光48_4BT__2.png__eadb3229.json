@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Special_Models__千兆2光48_4BT__2.png__eadb3229",
+"path":"Extra_Info/Hasivo/Special Models/千兆2光48 4BT/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":5896566,
+"sha256":"eadb32296496772de511118c7b8bad3ce3670b0fba0f9371c0bea0d41d53efc0",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":4662,
+"height":1413,
+"mode":"RGBA",
+"thumb_bytes":5470
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:25:53Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Special_Models__千兆2光48_4BT__2.png__eadb3229.jpg"
+}

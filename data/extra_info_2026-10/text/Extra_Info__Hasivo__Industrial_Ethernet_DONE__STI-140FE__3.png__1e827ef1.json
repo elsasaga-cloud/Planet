@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-140FE__3.png__1e827ef1",
+"path":"Extra_Info/Hasivo/Industrial Ethernet_DONE/STI-140FE/3.png",
+"name":"3.png",
+"ext":".png",
+"bytes":3436045,
+"sha256":"1e827ef154bfae0cbe38ec9f2ac3c910ee1e987d0e3fbe4fc154c7d643b41651",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1084,
+"height":2413,
+"mode":"RGBA",
+"thumb_bytes":7767
+},
+"warnings":[],
+"chars":35,
+"text":"ec\n@s\nIndustial Switch | 2\nEX PWR\n5",
+"extracted_at":"2026-10-23T05:25:40Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-140FE__3.png__1e827ef1.jpg"
+}

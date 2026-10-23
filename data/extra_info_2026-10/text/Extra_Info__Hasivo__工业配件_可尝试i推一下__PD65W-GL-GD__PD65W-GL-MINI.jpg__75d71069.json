@@ -1,0 +1,25 @@
+{
+"id":"Extra_Info__Hasivo__工业配件_可尝试i推一下__PD65W-GL-GD__PD65W-GL-MINI.jpg__75d71069",
+"path":"Extra_Info/Hasivo/工业配件_可尝试i推一下/PD65W-GL-GD/PD65W-GL-MINI.jpg",
+"name":"PD65W-GL-MINI.jpg",
+"ext":".jpg",
+"bytes":447737,
+"sha256":"75d710694d45d5fbbe6a936ed6e7ba6cf5f7bedc765b1df671b1e3a5d604e640",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":2500,
+"height":1900,
+"mode":"RGB",
+"datetime":"2021:10:08 17:23:38",
+"software":"Adobe Photoshop CC (Windows)",
+"thumb_bytes":3945
+},
+"warnings":[],
+"chars":15,
+"text":"PoE in Data out",
+"extracted_at":"2026-10-23T05:27:23Z",
+"thumb":"thumbs/Extra_Info__Hasivo__工业配件_可尝试i推一下__PD65W-GL-GD__PD65W-GL-MINI.jpg__75d71069.jpg"
+}

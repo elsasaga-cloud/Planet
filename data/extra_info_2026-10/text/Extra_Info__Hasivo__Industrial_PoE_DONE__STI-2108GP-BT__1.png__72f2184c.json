@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_PoE_DONE__STI-2108GP-BT__1.png__72f2184c",
+"path":"Extra_Info/Hasivo/Industrial PoE_DONE/STI-2108GP-BT/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":1473133,
+"sha256":"72f2184c4fc6778610af10ffd60e8d1ae2b7c83e6e0209d5977dbf036ae83e4a",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1836,
+"height":822,
+"mode":"RGBA",
+"thumb_bytes":9581
+},
+"warnings":[],
+"chars":69,
+"text":"PoE Max @\nPWR\nExtend\n[VLAN\nWatchDog) &\nFiber Dog | — al\n8G+2COMBOSFP.",
+"extracted_at":"2026-10-23T05:27:03Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_PoE_DONE__STI-2108GP-BT__1.png__72f2184c.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-080FE__2.jpg__6aee26ea",
+"path":"Extra_Info/Hasivo/Industrial Ethernet_DONE/STI-080FE/2.jpg",
+"name":"2.jpg",
+"ext":".jpg",
+"bytes":159142,
+"sha256":"6aee26ea3e6e3926c9eb7c1c18faae717f0941622010b43d3eefb5ac412cac8b",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1952,
+"height":681,
+"mode":"RGB",
+"thumb_bytes":7438
+},
+"warnings":[],
+"chars":49,
+"text":"oO\n> §\nN\n> 4\n一 «\n> 六\nVLAN S PWR\nIndustrial Switch",
+"extracted_at":"2026-10-23T05:25:23Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-080FE__2.jpg__6aee26ea.jpg"
+}

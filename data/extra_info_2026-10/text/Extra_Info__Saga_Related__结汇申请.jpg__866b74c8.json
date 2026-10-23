@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_Related__结汇申请.jpg__866b74c8",
+"path":"Extra_Info/Saga Related/结汇申请.jpg",
+"name":"结汇申请.jpg",
+"ext":".jpg",
+"bytes":385360,
+"sha256":"866b74c8abe29d5548f60073a1490d064558eaa86e867b59d547eb1178d41d34",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1080,
+"height":1920,
+"mode":"RGB",
+"thumb_bytes":3805
+},
+"warnings":[],
+"chars":168,
+"text":"SS ee\n结汇 申请\n中 國 銀行 光州 第 五 大 街 支行,\n業務 編號 : Tl\n現有 我 公司 (單位 名 稱 )\nWB) (款項 名 稱 ): HOC TALS. 入\n账 账号 (人 民 币 账号 ): ARAMA AE RE,\nSAAT RNC, 望 予 以 辦理 。\nag\nEF\nbe\nwis\nTH\na0\n七\n目 期 :",
+"extracted_at":"2026-10-23T05:32:15Z",
+"thumb":"thumbs/Extra_Info__Saga_Related__结汇申请.jpg__866b74c8.jpg"
+}

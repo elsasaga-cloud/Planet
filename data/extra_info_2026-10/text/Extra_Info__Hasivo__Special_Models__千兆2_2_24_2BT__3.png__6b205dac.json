@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Special_Models__千兆2_2_24_2BT__3.png__6b205dac",
+"path":"Extra_Info/Hasivo/Special Models/千兆2+2+24 2BT/3.png",
+"name":"3.png",
+"ext":".png",
+"bytes":1906228,
+"sha256":"6b205dac3a78e001aee9e74f3ce6ae4f443cbe9eae07e50731f0a868d6dfe74b",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":2887,
+"height":1111,
+"mode":"RGBA",
+"thumb_bytes":6780
+},
+"warnings":[],
+"chars":38,
+"text":"Gigabit\n24GE Por.\nPo Witch\n+26Es2srn\n=",
+"extracted_at":"2026-10-23T05:25:49Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Special_Models__千兆2_2_24_2BT__3.png__6b205dac.jpg"
+}

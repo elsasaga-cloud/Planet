@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__工业配件_可尝试i推一下__PSE30W-GD__PSE30W-GD_nologo_右.png__76c3d2f0",
+"path":"Extra_Info/Hasivo/工业配件_可尝试i推一下/PSE30W-GD/PSE30W-GD_nologo_右.png",
+"name":"PSE30W-GD_nologo_右.png",
+"ext":".png",
+"bytes":5064312,
+"sha256":"76c3d2f013212c06715b580294a5eb912e69599de89cdf2a6f453ae06d044c30",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":3936,
+"height":1727,
+"mode":"RGB",
+"thumb_bytes":5559
+},
+"warnings":[],
+"chars":76,
+"text":"Joloeful Jog\n/JJsnpul\nJLno 3°d\nNMVLVO\nMd 人 8\n® @\n%SZ %O0S\nae &\n%00L %9/\nee &",
+"extracted_at":"2026-10-23T05:27:21Z",
+"thumb":"thumbs/Extra_Info__Hasivo__工业配件_可尝试i推一下__PSE30W-GD__PSE30W-GD_nologo_右.png__76c3d2f0.jpg"
+}

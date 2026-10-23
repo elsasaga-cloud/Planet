@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_PoE_DONE__STI-154GP-BT__2.png__1a05fdb9",
+"path":"Extra_Info/Hasivo/Industrial PoE_DONE/STI-154GP-BT/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":447951,
+"sha256":"1a05fdb915fc2fe4d5949dc9afec0a595fa795a307b2d3cd6709b4a1d0d50e26",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1097,
+"height":377,
+"mode":"RGBA",
+"thumb_bytes":7852
+},
+"warnings":[],
+"chars":66,
+"text":"ele\nexe\nero @\nIndustrial PoE Switch ee\nV1 V2 V3\nen\n4GE PoE+1G+1SFP",
+"extracted_at":"2026-10-23T05:27:10Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_PoE_DONE__STI-154GP-BT__2.png__1a05fdb9.jpg"
+}

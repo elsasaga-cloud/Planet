@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_PoE_DONE__STI-222GP-BT__3.png__50a8389f",
+"path":"Extra_Info/Hasivo/Industrial PoE_DONE/STI-222GP-BT/3.png",
+"name":"3.png",
+"ext":".png",
+"bytes":3826903,
+"sha256":"50a8389fa50470e0c2c12fc173ca07a6b77ee46596af35efa7307ebdae187930",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1172,
+"height":2119,
+"mode":"RGBA",
+"thumb_bytes":8066
+},
+"warnings":[],
+"chars":56,
+"text":"V3 “ V2\n*» &\n*» &\n4 PW V1\n3\ns\n可\na\n™~\nN\n~\n=\nsa)\nLo\nLU\n0\n人",
+"extracted_at":"2026-10-23T05:26:45Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_PoE_DONE__STI-222GP-BT__3.png__50a8389f.jpg"
+}

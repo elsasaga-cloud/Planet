@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Special_Models__千兆2_2_24_2BT__1.png__99a9ac91",
+"path":"Extra_Info/Hasivo/Special Models/千兆2+2+24 2BT/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":2023251,
+"sha256":"99a9ac91b14f28cc8e6abaa6a2631fb5f652e78fdc1230746904cd9710dc29d8",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":3414,
+"height":657,
+"mode":"RGBA",
+"thumb_bytes":3909
+},
+"warnings":[],
+"chars":36,
+"text":"Gigabit PoE Switch\n24GE PoE+2GE+2SFP",
+"extracted_at":"2026-10-23T05:25:47Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Special_Models__千兆2_2_24_2BT__1.png__99a9ac91.jpg"
+}

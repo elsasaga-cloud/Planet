@@ -1,0 +1,219 @@
+{
+"id":"Extra_Info__Quotation__STSC-20261017-001.xlsx__bcc6ab36",
+"path":"Extra_Info/Quotation/STSC-20261017-001.xlsx",
+"name":"STSC-20261017-001.xlsx",
+"ext":".xlsx",
+"bytes":1267101,
+"sha256":"bcc6ab360e432dfd1644d04526444ad29a06bf7546c2924a8b3c4119bded6663",
+"source":"Extra_Info.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"Quotation"
+],
+"embedded_images":4,
+"rows_total":45
+},
+"warnings":[],
+"chars":2989,
+"text":"--- Sheet: Quotation ---\nSaga Telecom\nAn Engineering & Supply-Chain-First Telecom Partner\nBuilt to Last, Continuous Supply, Evolving Together\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 15237149683                                                  https://sagatele.com/                                 Email: s.sagatelecom@gmail.com\nQuotation\nBuyer:\tMilliseconds Evolution Limited.\t\tSeller:\tSaga Telecom\nContact Person:\tIyiola Folayan\t\tQuotation No.\tSTSC-20261017-001\nTel:\t\t\tQuoted By:\tSimon\nEmail:\tifolayan@millievolution.com\t\tDate:\t17th, Oct, 2026\nShipping Address\t128 City Road, London, United Kingdom, EC1V 2NX\nIncoterm: DAP\nDefinition\tIncluding origin export clearance and international freight\nExcluding destination customs clearance and import duties.\nIncluding on-carriage delivery to the shipping address after customs release\nModel\tSpecification\t\t\tQuantity \n(UNIT)\tUnit Price\n(USD)\tAmount \n(USD)\nSeller\nSTC-424XGGPM-280W\n\nBuyer\n#\tCommercial Ethernet Switch\n\n4*1G/2.5G/10G SFP+24*100/1G RJ45/PoE+1*Console Port\nL2+ managed, PoE af/at, 280W budget, Support PoE management\nSupport PoE watchdog, Single AC100V~240V input, Rack compatible\nWith mounting hanger, With Console Cable, With Power Cable\nWithout Optical Module, Marvell AC5 based\t\t\t2\t180\t360\n\tHS Code\t8517622990\n\tPacking Information\tProduct size: 440*180*44mm\nInner box size: 525*390*95mm\nProduct weight: 3.2Kg\nPacking weight: 4Kg\nFreight Cost\t150USD for about 10Kg volume weight to UK by FedEx\nair, door-to-door service\n4~6 calendar days to reach at local customs for clearance\t\t\t\t\t150\nBank Cost\tStandard Charge in EACH Order\t\t\t\t\t25\nTOTAL\t\t\t\t2\t\t535\nSAY US DOLLARS FIVE HUNDRED AND THIRTY FIVE ONLY\nAbout Import\nPlease do make sure client side could handle import customs clearance\nIf there is any problem with the shipment or clearance\n1, please let us know ASAP\n2, please call DHL/FedEx/UPS official number for information\nBusiness Term\n1. Price validity: 15 days\nAll prices are quoted in US Dollars (USD), excluding other currencies\nSaga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply\n2. Payment term\tSample: Full Payment by PayPal or T/T Wire\n\tBatch: Full Payment by T/T Wire\n\tBulk: 50% T/T Wire in advance and 50% BEFORE shipment\n3. MoQ: 1 piece\nSample: available\nLabel: customizable\nPartial shipment: negotiable\n4. Non-brand packing, without Chinese letters or logo\nNeutral device\n5. Country of origin: China\nCertificate of Origin is available upon request, please inform us BEFORE shipment if required\n6. Production time: 3~5 working days (Excluding shipping time)\n7. Warranty: 1 year, lifetime technical support\nPurchased items are deemed accepted upon initial inspection if no written notice of defects is received within two (2) months from the delivery date\nThis acceptance clause shall not affect the validity of the warranty period\nPlease refer to \"warranty policy\" for more information",
+"sheets":{
+"Quotation":{
+"state":"visible",
+"rows":[
+[
+"Saga Telecom"
+],
+[
+"An Engineering & Supply-Chain-First Telecom Partner"
+],
+[
+"Built to Last, Continuous Supply, Evolving Together"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 15237149683                                                  https://sagatele.com/                                 Email: s.sagatelecom@gmail.com"
+],
+[
+"Quotation"
+],
+[
+"Buyer:",
+"Milliseconds Evolution Limited.",
+"",
+"Seller:",
+"Saga Telecom"
+],
+[
+"Contact Person:",
+"Iyiola Folayan",
+"",
+"Quotation No.",
+"STSC-20261017-001"
+],
+[
+"Tel:",
+"",
+"",
+"Quoted By:",
+"Simon"
+],
+[
+"Email:",
+"ifolayan@millievolution.com",
+"",
+"Date:",
+"17th, Oct, 2026"
+],
+[
+"Shipping Address",
+"128 City Road, London, United Kingdom, EC1V 2NX"
+],
+[
+"Incoterm: DAP\nDefinition",
+"Including origin export clearance and international freight\nExcluding destination customs clearance and import duties.\nIncluding on-carriage delivery to the shipping address after customs release"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(UNIT)",
+"Unit Price\n(USD)",
+"Amount \n(USD)"
+],
+[
+"Seller\nSTC-424XGGPM-280W\n\nBuyer\n#",
+"Commercial Ethernet Switch\n\n4*1G/2.5G/10G SFP+24*100/1G RJ45/PoE+1*Console Port\nL2+ managed, PoE af/at, 280W budget, Support PoE management\nSupport PoE watchdog, Single AC100V~240V input, Rack compatible\nWith mounting hanger, With Console Cable, With Power Cable\nWithout Optical Module, Marvell AC5 based",
+"",
+"",
+"2",
+"180",
+"360"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Product size: 440*180*44mm\nInner box size: 525*390*95mm\nProduct weight: 3.2Kg\nPacking weight: 4Kg"
+],
+[
+"Freight Cost",
+"150USD for about 10Kg volume weight to UK by FedEx\nair, door-to-door service\n4~6 calendar days to reach at local customs for clearance",
+"",
+"",
+"",
+"",
+"150"
+],
+[
+"Bank Cost",
+"Standard Charge in EACH Order",
+"",
+"",
+"",
+"",
+"25"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"2",
+"",
+"535"
+],
+[
+"SAY US DOLLARS FIVE HUNDRED AND THIRTY FIVE ONLY"
+],
+[
+"About Import"
+],
+[
+"Please do make sure client side could handle import customs clearance"
+],
+[
+"If there is any problem with the shipment or clearance"
+],
+[
+"1, please let us know ASAP"
+],
+[
+"2, please call DHL/FedEx/UPS official number for information"
+],
+[
+"Business Term"
+],
+[
+"1. Price validity: 15 days"
+],
+[
+"All prices are quoted in US Dollars (USD), excluding other currencies"
+],
+[
+"Saga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply"
+],
+[
+"2. Payment term",
+"Sample: Full Payment by PayPal or T/T Wire"
+],
+[
+"",
+"Batch: Full Payment by T/T Wire"
+],
+[
+"",
+"Bulk: 50% T/T Wire in advance and 50% BEFORE shipment"
+],
+[
+"3. MoQ: 1 piece"
+],
+[
+"Sample: available"
+],
+[
+"Label: customizable"
+],
+[
+"Partial shipment: negotiable"
+],
+[
+"4. Non-brand packing, without Chinese letters or logo"
+],
+[
+"Neutral device"
+],
+[
+"5. Country of origin: China"
+],
+[
+"Certificate of Origin is available upon request, please inform us BEFORE shipment if required"
+],
+[
+"6. Production time: 3~5 working days (Excluding shipping time)"
+],
+[
+"7. Warranty: 1 year, lifetime technical support"
+],
+[
+"Purchased items are deemed accepted upon initial inspection if no written notice of defects is received within two (2) months from the delivery date"
+],
+[
+"This acceptance clause shall not affect the validity of the warranty period"
+],
+[
+"Please refer to \"warranty policy\" for more information"
+]
+]
+}
+},
+"extracted_at":"2026-10-23T05:32:53Z"
+}

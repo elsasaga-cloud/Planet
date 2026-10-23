@@ -1,0 +1,112 @@
+{
+"id":"Extra_Info__Saga_Related__授权_说明__授权书_Saga_程天龙.docx__03a31abc",
+"path":"Extra_Info/Saga Related/授权&说明/授权书_Saga_程天龙.docx",
+"name":"授权书_Saga_程天龙.docx",
+"ext":".docx",
+"bytes":25061,
+"sha256":"03a31abc03a925c8ca6e809eebe4f4ccb99b54248b85653899e0ffbe3f55e83e",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2025-06-07T08:51:00+00:00",
+"modified":"2025-06-07T09:10:08+00:00",
+"paragraphs":17,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"chars":1414,
+"text":"授权书\nLetter of Authorization\n兹授权程天龙，身份证号410225199711205519，作为本公司郑州仨戛通讯器材有限公司（以下简称“本公司”）的授权代表，负责本公司的对外业务联络、客户洽谈、出口贸易操作、合同签署及相关事务处理。\nHereby we authorize Cheng Tianlong/Simon Cheng, ID No. 410225199711205519, to act as an authorized representative of Zhengzhou Saga Telecom Co., Ltd. (\"the Company\"), to handle external business communications, client negotiations, export trade operations, contract signing, and related matters on behalf of the Company.\n被授权人在授权范围内开展的业务行为，其法律后果由本公司承担。\nThe Company will bear the legal consequences of all business activities carried out by the Authorized Person within the scope of this authorization.\n授权期限自2023年7月1日起至2028年6月30日止，共计5年。\n如授权期限尽结后需继续授权，则需由双方重新签订正式授权文件。\n本公司保留根据实际情况随时终止或调整授权内容的权利。\nThis authorization is valid from July 1, 2023 to June 30, 2028, for a total period of five years.\nUpon expiration, if continued authorization is required, both parties shall re-execute a formal authorization document.\nThe Company reserves the right to terminate or adjust the authorization at any time based on actual circumstances.\n特此授权！\nThis letter is hereby issued.\n公司名称（Company Name）：Zhengzhou Saga Telecom Co., Ltd./郑州仨戛通讯器材有限公司\n法人签字（Legal Representative）：程天娣\n被授权人签字（Authorized Person）： Cheng Tianlong/程天龙\n公司盖章（Company Seal）： \n日期（Date）： 2023.7.1\n[页眉页脚]\nZhengzhou Saga Telecom Co., Ltd.\t\t\t\t\t\t\t\t                                      www.sagatelecom.com.cn\nConnecting, Converting, Creating",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"授权书\nLetter of Authorization"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"兹授权程天龙，身份证号410225199711205519，作为本公司郑州仨戛通讯器材有限公司（以下简称“本公司”）的授权代表，负责本公司的对外业务联络、客户洽谈、出口贸易操作、合同签署及相关事务处理。"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Hereby we authorize Cheng Tianlong/Simon Cheng, ID No. 410225199711205519, to act as an authorized representative of Zhengzhou Saga Telecom Co., Ltd. (\"the Company\"), to handle external business communications, client negotiations, export trade operations, contract signing, and related matters on behalf of the Company."
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"被授权人在授权范围内开展的业务行为，其法律后果由本公司承担。"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"The Company will bear the legal consequences of all business activities carried out by the Authorized Person within the scope of this authorization."
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"授权期限自2023年7月1日起至2028年6月30日止，共计5年。"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"如授权期限尽结后需继续授权，则需由双方重新签订正式授权文件。"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"本公司保留根据实际情况随时终止或调整授权内容的权利。"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"This authorization is valid from July 1, 2023 to June 30, 2028, for a total period of five years."
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Upon expiration, if continued authorization is required, both parties shall re-execute a formal authorization document."
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"The Company reserves the right to terminate or adjust the authorization at any time based on actual circumstances."
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"特此授权！"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"This letter is hereby issued."
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"公司名称（Company Name）：Zhengzhou Saga Telecom Co., Ltd./郑州仨戛通讯器材有限公司"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"法人签字（Legal Representative）：程天娣"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"被授权人签字（Authorized Person）： Cheng Tianlong/程天龙"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"公司盖章（Company Seal）： \n日期（Date）： 2023.7.1"
+}
+],
+"extracted_at":"2026-10-23T05:32:52Z"
+}

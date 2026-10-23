@@ -1,0 +1,137 @@
+{
+"id":"Extra_Info__Quotation__PL_STSC-20261017-001.xlsx__97c3f145",
+"path":"Extra_Info/Quotation/PL_STSC-20261017-001.xlsx",
+"name":"PL_STSC-20261017-001.xlsx",
+"ext":".xlsx",
+"bytes":135092,
+"sha256":"97c3f145fa2c8a707aa839ada297b257aafe388df72ff2aca95fc3fa91e1bff6",
+"source":"Extra_Info.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"Packing List"
+],
+"embedded_images":2,
+"rows_total":21
+},
+"warnings":[],
+"chars":746,
+"text":"--- Sheet: Packing List ---\nSaga Telecom\nAn Engineering & Supply-Chain-First Telecom Partner\nBuilt to Last, Continuous Supply, Evolving Together\nMob: 86 15237149683\nWeb: www.sagatele.com\nEmail: s.sagatelecom@gmail.com\nPacking List\nDate\t2026.10.17\nShip To\tMilliseconds Evolution Limited.\nShipping Add.\t128 City Road, London, United Kingdom, EC1V 2NX\nP/O No.\t#\nQuotation No.\tSTSC-20261017-001\nP/L No.\t#\nC/No.:\tModel\tDESCRIPTION\tQTY/CTN\tQTY/PCS\tCTNS\tN.W/Kg\tG.W/Kg\tLENGTH/CM\tWIDTH/CM\tHEIGHT/CM\tV.W/Kg\tMEAS/CM³\n1\tSTC-424XGGPM-280W\tCommercial Ethernet Switch\t2\t2\t1\t8\t10\t53.5\t20.5\t40.8\t8.94948\t0.044747\nTOTAL\t\t\t\t2\t1\t8\t10\t\t\t\t8.94948\t0.044747\nBillable Weight\tWhichever is greater between G.W/Kg and V.W/Kg\nCarton\tONE(1)\nQUANTITY\tTWO PCS\nSaga Telecom\nSimon",
+"sheets":{
+"Packing List":{
+"state":"visible",
+"rows":[
+[
+"Saga Telecom"
+],
+[
+"An Engineering & Supply-Chain-First Telecom Partner"
+],
+[
+"Built to Last, Continuous Supply, Evolving Together"
+],
+[
+"Mob: 86 15237149683"
+],
+[
+"Web: www.sagatele.com"
+],
+[
+"Email: s.sagatelecom@gmail.com"
+],
+[
+"Packing List"
+],
+[
+"Date",
+"2026.10.17"
+],
+[
+"Ship To",
+"Milliseconds Evolution Limited."
+],
+[
+"Shipping Add.",
+"128 City Road, London, United Kingdom, EC1V 2NX"
+],
+[
+"P/O No.",
+"#"
+],
+[
+"Quotation No.",
+"STSC-20261017-001"
+],
+[
+"P/L No.",
+"#"
+],
+[
+"C/No.:",
+"Model",
+"DESCRIPTION",
+"QTY/CTN",
+"QTY/PCS",
+"CTNS",
+"N.W/Kg",
+"G.W/Kg",
+"LENGTH/CM",
+"WIDTH/CM",
+"HEIGHT/CM",
+"V.W/Kg",
+"MEAS/CM³"
+],
+[
+"1",
+"STC-424XGGPM-280W",
+"Commercial Ethernet Switch",
+"2",
+"2",
+"1",
+"8",
+"10",
+"53.5",
+"20.5",
+"40.8",
+"8.94948",
+"0.044747"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"2",
+"1",
+"8",
+"10",
+"",
+"",
+"",
+"8.94948",
+"0.044747"
+],
+[
+"Billable Weight",
+"Whichever is greater between G.W/Kg and V.W/Kg"
+],
+[
+"Carton",
+"ONE(1)"
+],
+[
+"QUANTITY",
+"TWO PCS"
+],
+[
+"Saga Telecom"
+],
+[
+"Simon"
+]
+]
+}
+},
+"extracted_at":"2026-10-23T05:32:53Z"
+}

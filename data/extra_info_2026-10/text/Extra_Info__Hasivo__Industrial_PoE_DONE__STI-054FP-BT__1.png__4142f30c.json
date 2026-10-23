@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_PoE_DONE__STI-054FP-BT__1.png__4142f30c",
+"path":"Extra_Info/Hasivo/Industrial PoE_DONE/STI-054FP-BT/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":643593,
+"sha256":"4142f30cc8f05ac6c19fac9834d33a0749b828682d68ec2c750207cb89edcfed",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1142,
+"height":632,
+"mode":"RGBA",
+"thumb_bytes":11763
+},
+"warnings":[],
+"chars":41,
+"text":"— 骨 生 SN\nWA SR\nIndustrial PoE Switch\nFREE",
+"extracted_at":"2026-10-23T05:26:54Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_PoE_DONE__STI-054FP-BT__1.png__4142f30c.jpg"
+}

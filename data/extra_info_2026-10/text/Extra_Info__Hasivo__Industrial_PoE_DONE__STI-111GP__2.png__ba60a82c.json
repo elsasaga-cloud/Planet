@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_PoE_DONE__STI-111GP__2.png__ba60a82c",
+"path":"Extra_Info/Hasivo/Industrial PoE_DONE/STI-111GP/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":3043195,
+"sha256":"ba60a82cc857893e906dcec1e8563336415a706ab428e89ad04aef22f146f61b",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":2036,
+"height":946,
+"mode":"RGBA",
+"thumb_bytes":7789
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:27:01Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_PoE_DONE__STI-111GP__2.png__ba60a82c.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_PoE_DONE__STI-144FP-BT__1.png__c8b04f54",
+"path":"Extra_Info/Hasivo/Industrial PoE_DONE/STI-144FP-BT/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":1479609,
+"sha256":"c8b04f54d84aa12b364ff48ea31f17a65e39d3236d571eb03a1f12bb66be2a1f",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":2432,
+"height":916,
+"mode":"RGBA",
+"thumb_bytes":7068
+},
+"warnings":[],
+"chars":40,
+"text":"y\na rEEE:\nstial PoE Switch\n4FE PoE + 1FX",
+"extracted_at":"2026-10-23T05:26:25Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_PoE_DONE__STI-144FP-BT__1.png__c8b04f54.jpg"
+}

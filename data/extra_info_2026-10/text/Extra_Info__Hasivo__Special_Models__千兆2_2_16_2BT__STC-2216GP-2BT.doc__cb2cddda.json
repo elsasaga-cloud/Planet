@@ -1,0 +1,124 @@
+{
+"id":"Extra_Info__Hasivo__Special_Models__千兆2_2_16_2BT__STC-2216GP-2BT.doc__cb2cddda",
+"path":"Extra_Info/Hasivo/Special Models/千兆2+2+16 2BT/STC-2216GP-2BT.doc",
+"name":"STC-2216GP-2BT.doc",
+"ext":".doc",
+"bytes":34816,
+"sha256":"cb2cddda96a4ac6171a50e7be8495549082e6e516c7f816ee8f716800b7a10d2",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:26:13+00:00",
+"paragraphs":0,
+"tables":1,
+"embedded_images":0
+},
+"warnings":[],
+"chars":1708,
+"text":"Model\tSTC-2216GP-2BT\nProduct Name\t20 port 10/100/1000Mbps Ethernet BT PoE Switch\nFixed Port\t16*10/100/1000Base-TX PoE port (Data/Power) / 2*10/100/1000Base-TX uplink RJ45 port (Data) / 2*1000M SFP\nPoE Ports\t1-2 port supports IEEE802.3af/at/poe++/bt, max 90W PoE out / 3-16 port supports IEEE802.3af/at, max 30W/port, PoE out\nPoE Pin\taf/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-\nFunction\tN: Standard normal / V: Port isolation / C: Flow control mode\nPoE Budget\tMax 300W\nBandwidth\t56Gbps\nPacket Forwarding\t41.67Mpps\nMAC\t8K\nBuffer\t4.1M\nTransmission Distance\t10BASE-T: Cat3,4,5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)\nOptical Media\tSFP: 1000M single and multimode optical module, Max distance≤100Km\nLED Indicator\tPOWER: Power LED / 19-20: SFP connection indicator / Uplink: 10/100M=Green Link, 1000M=Orange Link / Downlink: 10/100M=Green Link, 1000M=Orange Link\nPower\tBuilt-in power AC: 100-240VAC 50-60Hz\nOperating Temperature / Humidity\t-10°C～+55°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+75°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 293mm*190mm*45mm / Packing Box: 410mm*278mm*95mm\nN.W/G.W(Kg)\t1.7Kg/2.4Kg\nLightning / Protection Level\t6KV 8/20us / IP30\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t1 Year\n[页眉页脚]\nRealtek Special Models Series\t                                          a.sagatelecom@gmail.com\n\t\t                                                                        Saga Telecom\n2025/Q3\t\t\t\t\t\t\t                         \t           www.sagatelecom.com.cn\nConnecting, Converting, Creating",
+"blocks":[
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STC-2216GP-2BT"
+],
+[
+"Product Name",
+"20 port 10/100/1000Mbps Ethernet BT PoE Switch"
+],
+[
+"Fixed Port",
+"16*10/100/1000Base-TX PoE port (Data/Power) / 2*10/100/1000Base-TX uplink RJ45 port (Data) / 2*1000M SFP"
+],
+[
+"PoE Ports",
+"1-2 port supports IEEE802.3af/at/poe++/bt, max 90W PoE out / 3-16 port supports IEEE802.3af/at, max 30W/port, PoE out"
+],
+[
+"PoE Pin",
+"af/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-"
+],
+[
+"Function",
+"N: Standard normal / V: Port isolation / C: Flow control mode"
+],
+[
+"PoE Budget",
+"Max 300W"
+],
+[
+"Bandwidth",
+"56Gbps"
+],
+[
+"Packet Forwarding",
+"41.67Mpps"
+],
+[
+"MAC",
+"8K"
+],
+[
+"Buffer",
+"4.1M"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3,4,5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multimode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"POWER: Power LED / 19-20: SFP connection indicator / Uplink: 10/100M=Green Link, 1000M=Orange Link / Downlink: 10/100M=Green Link, 1000M=Orange Link"
+],
+[
+"Power",
+"Built-in power AC: 100-240VAC 50-60Hz"
+],
+[
+"Operating Temperature / Humidity",
+"-10°C～+55°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+75°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 293mm*190mm*45mm / Packing Box: 410mm*278mm*95mm"
+],
+[
+"N.W/G.W(Kg)",
+"1.7Kg/2.4Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us / IP30"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"1 Year"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:26:13Z"
+}

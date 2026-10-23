@@ -1,0 +1,26 @@
+{
+"id":"Extra_Info__Saga_Related__授权_说明__买单报关记录自查清单.docx__b2d4b3ed",
+"path":"Extra_Info/Saga Related/授权&说明/买单报关记录自查清单.docx",
+"name":"买单报关记录自查清单.docx",
+"ext":".docx",
+"bytes":110834,
+"sha256":"b2d4b3ed26045c3b90b161a9fbc2de63936b2aaece6a4a081f5f2db2e44b923e",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"meta",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2025-04-22T10:43:00+00:00",
+"modified":"2025-04-22T10:44:29+00:00",
+"paragraphs":0,
+"tables":0,
+"embedded_images":3
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"blocks":[],
+"extracted_at":"2026-10-23T05:32:52Z"
+}

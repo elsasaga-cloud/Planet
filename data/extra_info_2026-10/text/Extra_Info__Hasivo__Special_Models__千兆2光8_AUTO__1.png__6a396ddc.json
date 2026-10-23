@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Special_Models__千兆2光8_AUTO__1.png__6a396ddc",
+"path":"Extra_Info/Hasivo/Special Models/千兆2光8 AUTO/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":700379,
+"sha256":"6a396ddc8e1b321e020e28cd62e2e798fbfffa44870f5eb23a8b7a51cb22fece",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1827,
+"height":552,
+"mode":"RGBA",
+"thumb_bytes":5976
+},
+"warnings":[],
+"chars":112,
+"text":"PoE 生: 3 5 7\nPoE:Green-48V orange-24V\nLink:Green-10/100M orange-1000M\nGigabit Fiber PoE Switch\n8GE PoE+2SFP-AUTO",
+"extracted_at":"2026-10-23T05:25:43Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Special_Models__千兆2光8_AUTO__1.png__6a396ddc.jpg"
+}

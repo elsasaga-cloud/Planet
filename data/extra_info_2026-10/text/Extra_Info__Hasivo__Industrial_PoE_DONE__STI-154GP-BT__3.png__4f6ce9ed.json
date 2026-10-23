@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_PoE_DONE__STI-154GP-BT__3.png__4f6ce9ed",
+"path":"Extra_Info/Hasivo/Industrial PoE_DONE/STI-154GP-BT/3.png",
+"name":"3.png",
+"ext":".png",
+"bytes":790481,
+"sha256":"4f6ce9ed2e16e791e74b780d8f735c37fe806199504c101018cd0613eba5b463",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":630,
+"height":1238,
+"mode":"RGBA",
+"thumb_bytes":8748
+},
+"warnings":[],
+"chars":21,
+"text":"Industrial PoE Switch",
+"extracted_at":"2026-10-23T05:27:10Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_PoE_DONE__STI-154GP-BT__3.png__4f6ce9ed.jpg"
+}

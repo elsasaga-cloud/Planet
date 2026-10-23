@@ -1,0 +1,120 @@
+{
+"id":"Extra_Info__Hasivo__Special_Models_DONE__千兆1_1_8_8BT__STC-118GP-8BT.doc__171baef2",
+"path":"Extra_Info/Hasivo/Special Models_DONE/千兆1+1+8 8BT/STC-118GP-8BT.doc",
+"name":"STC-118GP-8BT.doc",
+"ext":".doc",
+"bytes":30208,
+"sha256":"171baef26dc99aa111148c7973d2a8e3e023b7af7f8467838c7a48875803ffe5",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:26:14+00:00",
+"paragraphs":0,
+"tables":1,
+"embedded_images":0
+},
+"warnings":[],
+"chars":1312,
+"text":"Model\tSTC-118GP-8BT\nProduct mame\t10 port 10/100/1000Mbps Ethernet BT PoE Switch\nFixed Port\t8*10/100/1000Base-TX PoE port (Data/Power) / 1*10/100/1000Base-TX uplink RJ45 port (Data) / 1*1000M SFP\nPoE Ports\t1-8 port supports IEEE802.3af/at/poe++/bt, max 90W PoE out\nPoE Pin\taf/at/poe++/bt: 12+ 45+ 36- 78-\nPoE Budget\tMax 800W\nBandwidth\t20Gbps\nPacket Forwarding\t14.88Mpps\nMAC\t8K\nBuffer\t2.5M\nTransmission Distance\t10BASE-T: Cat3,4,5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)\nOptical Media\tSFP: 1000M single and multimode optical module, Max distance≤100Km\nLED Indicator\tPW: Power LED(over-power LED) / 1-8: PoE_Work indicator; Link_Network connection indicator / 9: Network connection indicator / 10: SFP connection indicator / Port: Orange=PoE LED, Green=LAN Link LED\nPower\tBuilt-in power AC: 100-240VAC 50-60Hz\nOperating Temperature / Humidity\t-10°C～+55°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+75°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 440mm*240mm*45mm / Packing Box: 515mm*375mm*95mm\nN.W/G.W(Kg)\t1.1Kg/1.3Kg\nLightning / Protection Level\t6KV 8/20us / IP30\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t1 Year",
+"blocks":[
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STC-118GP-8BT"
+],
+[
+"Product mame",
+"10 port 10/100/1000Mbps Ethernet BT PoE Switch"
+],
+[
+"Fixed Port",
+"8*10/100/1000Base-TX PoE port (Data/Power) / 1*10/100/1000Base-TX uplink RJ45 port (Data) / 1*1000M SFP"
+],
+[
+"PoE Ports",
+"1-8 port supports IEEE802.3af/at/poe++/bt, max 90W PoE out"
+],
+[
+"PoE Pin",
+"af/at/poe++/bt: 12+ 45+ 36- 78-"
+],
+[
+"PoE Budget",
+"Max 800W"
+],
+[
+"Bandwidth",
+"20Gbps"
+],
+[
+"Packet Forwarding",
+"14.88Mpps"
+],
+[
+"MAC",
+"8K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3,4,5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multimode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PW: Power LED(over-power LED) / 1-8: PoE_Work indicator; Link_Network connection indicator / 9: Network connection indicator / 10: SFP connection indicator / Port: Orange=PoE LED, Green=LAN Link LED"
+],
+[
+"Power",
+"Built-in power AC: 100-240VAC 50-60Hz"
+],
+[
+"Operating Temperature / Humidity",
+"-10°C～+55°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+75°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 440mm*240mm*45mm / Packing Box: 515mm*375mm*95mm"
+],
+[
+"N.W/G.W(Kg)",
+"1.1Kg/1.3Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us / IP30"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"1 Year"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:26:14Z"
+}

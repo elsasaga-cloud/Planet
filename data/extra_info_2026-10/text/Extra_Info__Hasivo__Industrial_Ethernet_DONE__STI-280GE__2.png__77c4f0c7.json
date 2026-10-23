@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-280GE__2.png__77c4f0c7",
+"path":"Extra_Info/Hasivo/Industrial Ethernet_DONE/STI-280GE/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":1517173,
+"sha256":"77c4f0c77fcf666843d304521efdf0a11f6002b61099e212d2f9641d9b7d77de",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1820,
+"height":763,
+"mode":"RGBA",
+"thumb_bytes":8773
+},
+"warnings":[],
+"chars":61,
+"text":"d4SZ +498\nxq\nan\nyur]\nwW\nOni\nOL\njel4ysnpu|\nes °@\nOSs c@\nez 3 @",
+"extracted_at":"2026-10-23T05:25:26Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-280GE__2.png__77c4f0c7.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_PoE_DONE__STI-154GP-BT__4.png__a5cc9a21",
+"path":"Extra_Info/Hasivo/Industrial PoE_DONE/STI-154GP-BT/4.png",
+"name":"4.png",
+"ext":".png",
+"bytes":1346675,
+"sha256":"a5cc9a216d714b6d099fee7e63d88cb569a65f595966451ec3e757373d66548c",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":1937,
+"height":714,
+"mode":"RGBA",
+"thumb_bytes":5431
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:27:11Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_PoE_DONE__STI-154GP-BT__4.png__a5cc9a21.jpg"
+}

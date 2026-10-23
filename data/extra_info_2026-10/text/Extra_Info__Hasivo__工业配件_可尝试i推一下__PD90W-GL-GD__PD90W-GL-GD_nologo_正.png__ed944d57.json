@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__工业配件_可尝试i推一下__PD90W-GL-GD__PD90W-GL-GD_nologo_正.png__ed944d57",
+"path":"Extra_Info/Hasivo/工业配件_可尝试i推一下/PD90W-GL-GD/PD90W-GL-GD_nologo_正.png",
+"name":"PD90W-GL-GD_nologo_正.png",
+"ext":".png",
+"bytes":7523985,
+"sha256":"ed944d57d8f5682ef890d3e73a2000c3884fab5c3b383c7bc7470432c896a01b",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1727,
+"height":3936,
+"mode":"RGBA",
+"thumb_bytes":5524
+},
+"warnings":[],
+"chars":55,
+"text":"*\n75% 100%\n50% 25%\nDATAIN\nPoE OUT\nIndustry\nPoE Injector",
+"extracted_at":"2026-10-23T05:27:27Z",
+"thumb":"thumbs/Extra_Info__Hasivo__工业配件_可尝试i推一下__PD90W-GL-GD__PD90W-GL-GD_nologo_正.png__ed944d57.jpg"
+}

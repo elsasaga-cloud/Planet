@@ -1,0 +1,27 @@
+{
+"id":"Extra_Info__Hasivo__证书__CE_1_.pdf__7f2cadfe",
+"path":"Extra_Info/Hasivo/证书/CE(1).pdf",
+"name":"CE(1).pdf",
+"ext":".pdf",
+"bytes":182935,
+"sha256":"7f2cadfe4f717d1a685e5ee09eafede0a5edf8d1bc7da9c49652d7d7a8f072cd",
+"source":"Extra_Info.zip",
+"method":"pdfplumber",
+"status":"ok",
+"meta":{
+"pages":1,
+"title":"VERIFICATION OF CONFORMITY",
+"author":"SLG",
+"creator":"WPS 文字",
+"creationdate":"D:20231110192736+11'27'",
+"moddate":"D:20231110193254+08'00'",
+"ocr_pages":0
+},
+"warnings":[],
+"chars":2144,
+"text":"[p1]\nCERTIFICATE OF CONFORMITY\nCertificate No.:KEYS23103133001EM-02\nApplicant : Sichuan hasivoElectronicsCo., Ltd.\nAddress : No.9,Anping street ,New Economic Development Zone,Dongpo\nDistrict,MeishanCity,620010,Sichuan,China.\nManufacturer : Sichuan hasivoElectronicsCo., Ltd.\nAddress : No.9,Anping street ,New Economic Development Zone,Dongpo\nDistrict,MeishanCity,620010,Sichuan,China.\nTrademark : hasivo\nProduct : NetworkSwitch\nModelNo. : S2600P,S5800WP,S500,S500P,S500W,S500WP,S600,S600P,S600W,\nS600WP,S800,S800P,S800W,S800WP,S1100,S1100P,S1100W,\nS1100WP,S1200,S1200P,S1200W,S1200WP,S1300,S1300P,\nS1300W,S1300WP,S2600,S2600W,S2600WP,S2800,S2800P,\nS2800W,S2800WP,S5800,S5800P,S5800W,F1100,F1100W,F1200,\nF1200W,F5800,F5800W,G600,G600P,G600W,G600WP,G800,G800P,\nG800W,G800WP,G1200,G1200P,G1200W,G1200WP,G2600,G2600P,\nG2600W,G2600WP,G5800,G5800P,G5800W,G5800WP,PSE4805,\nPSE5265,PSE5248,PSE65GJ,PSE90GJ,GD90PSE,PSE102,PSE101,\nEX101,EX105,PD15W,PD30W,PD65W,PD90W,PW5222,PW7224,\nPW2472W,PW6015,PW5265W,PW5225W,120050C1,PW6012,\nPW52125,PW2405W,PW1560W\nEMC Directive -2014/30/EU\nThestandard(s)used for showingcompliancewith the essential requirements:\nApplicableStandard(s) EN 55032:2015AMD.1:2020+A11:2020\nEN55035:2017AMD.1:2020\nEN IEC 61000-3-2:2019/A1:2021\nEN 61000-3-3:2013AMD.1:2019+AMD.2:2021\nThis certificateis partofthe fulltestreport(s) and shouldbe readinconjunctionwith the test\nreport:KEYS23103133001EM-02.\nThis certificateis basedon an evaluation ofonesample ofabove mentioned product.Itdoes\nnotimplyassessmentofthe production ofthe product.Withoutthe writtenapprovalof\nGuangdongLegionTestingTechnologyCo.,Ltd.,thiscertificate isnot permittedto be\nreproduced,exceptinfull. Itis notpermitted tousethe testlab’slogo.TheCE markingmay\nonly beusedifallthe relevant and effectiveEuropean Directives areapplicable.\n..........................................\nJasonZhan\nManager\nDate:November 9,2023\nGuangdong KEYS Testing Technology Co., Ltd.\nAddress:Building1,No.18,ShihuanRoad,DongchengSubdistrict,Dongguan,Guangdong,China\n104,No.4,FuminStreet,Shilong,Dongguan,Guangdong,China\nTel:+86-0769-89798319 http://www.keys-lab.com E-mail:info@keys-lab.com",
+"pages":[
+"CERTIFICATE OF CONFORMITY\nCertificate No.:KEYS23103133001EM-02\nApplicant : Sichuan hasivoElectronicsCo., Ltd.\nAddress : No.9,Anping street ,New Economic Development Zone,Dongpo\nDistrict,MeishanCity,620010,Sichuan,China.\nManufacturer : Sichuan hasivoElectronicsCo., Ltd.\nAddress : No.9,Anping street ,New Economic Development Zone,Dongpo\nDistrict,MeishanCity,620010,Sichuan,China.\nTrademark : hasivo\nProduct : NetworkSwitch\nModelNo. : S2600P,S5800WP,S500,S500P,S500W,S500WP,S600,S600P,S600W,\nS600WP,S800,S800P,S800W,S800WP,S1100,S1100P,S1100W,\nS1100WP,S1200,S1200P,S1200W,S1200WP,S1300,S1300P,\nS1300W,S1300WP,S2600,S2600W,S2600WP,S2800,S2800P,\nS2800W,S2800WP,S5800,S5800P,S5800W,F1100,F1100W,F1200,\nF1200W,F5800,F5800W,G600,G600P,G600W,G600WP,G800,G800P,\nG800W,G800WP,G1200,G1200P,G1200W,G1200WP,G2600,G2600P,\nG2600W,G2600WP,G5800,G5800P,G5800W,G5800WP,PSE4805,\nPSE5265,PSE5248,PSE65GJ,PSE90GJ,GD90PSE,PSE102,PSE101,\nEX101,EX105,PD15W,PD30W,PD65W,PD90W,PW5222,PW7224,\nPW2472W,PW6015,PW5265W,PW5225W,120050C1,PW6012,\nPW52125,PW2405W,PW1560W\nEMC Directive -2014/30/EU\nThestandard(s)used for showingcompliancewith the essential requirements:\nApplicableStandard(s) EN 55032:2015AMD.1:2020+A11:2020\nEN55035:2017AMD.1:2020\nEN IEC 61000-3-2:2019/A1:2021\nEN 61000-3-3:2013AMD.1:2019+AMD.2:2021\nThis certificateis partofthe fulltestreport(s) and shouldbe readinconjunctionwith the test\nreport:KEYS23103133001EM-02.\nThis certificateis basedon an evaluation ofonesample ofabove mentioned product.Itdoes\nnotimplyassessmentofthe production ofthe product.Withoutthe writtenapprovalof\nGuangdongLegionTestingTechnologyCo.,Ltd.,thiscertificate isnot permittedto be\nreproduced,exceptinfull. Itis notpermitted tousethe testlab’slogo.TheCE markingmay\nonly beusedifallthe relevant and effectiveEuropean Directives areapplicable.\n..........................................\nJasonZhan\nManager\nDate:November 9,2023\nGuangdong KEYS Testing Technology Co., Ltd.\nAddress:Building1,No.18,ShihuanRoad,DongchengSubdistrict,Dongguan,Guangdong,China\n104,No.4,FuminStreet,Shilong,Dongguan,Guangdong,China\nTel:+86-0769-89798319 http://www.keys-lab.com E-mail:info@keys-lab.com"
+],
+"extracted_at":"2026-10-23T05:26:22Z"
+}

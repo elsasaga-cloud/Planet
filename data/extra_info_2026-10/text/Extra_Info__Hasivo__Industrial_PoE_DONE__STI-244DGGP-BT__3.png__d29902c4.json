@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_PoE_DONE__STI-244DGGP-BT__3.png__d29902c4",
+"path":"Extra_Info/Hasivo/Industrial PoE_DONE/STI-244DGGP-BT/3.png",
+"name":"3.png",
+"ext":".png",
+"bytes":2749992,
+"sha256":"d29902c4c0a7bbd3684ced52a3b82930bf48baef2db8732299a95a4b2423d53d",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1071,
+"height":2369,
+"mode":"RGBA",
+"thumb_bytes":8860
+},
+"warnings":[],
+"chars":43,
+"text":"[4\n@=\na\n@o\nx< f\n=@ |-\na 4]\na @\n4GE PoE+2SFP",
+"extracted_at":"2026-10-23T05:26:49Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_PoE_DONE__STI-244DGGP-BT__3.png__d29902c4.jpg"
+}

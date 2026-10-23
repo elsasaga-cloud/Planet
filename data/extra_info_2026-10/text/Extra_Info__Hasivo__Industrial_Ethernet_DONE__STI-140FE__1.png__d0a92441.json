@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-140FE__1.png__d0a92441",
+"path":"Extra_Info/Hasivo/Industrial Ethernet_DONE/STI-140FE/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":1581753,
+"sha256":"d0a924417d358c2084d7b3560aa8fbf763e22c758a0824c1888c88e963de424d",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":2432,
+"height":916,
+"mode":"RGBA",
+"thumb_bytes":6868
+},
+"warnings":[],
+"chars":14,
+"text":"a\nstial Switch",
+"extracted_at":"2026-10-23T05:25:38Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-140FE__1.png__d0a92441.jpg"
+}

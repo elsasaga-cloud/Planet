@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__工业配件_可尝试i推一下__PSE90W-GD_室外__PSE90W-GD__nologo_5.png__67da5611",
+"path":"Extra_Info/Hasivo/工业配件_可尝试i推一下/PSE90W-GD 室外/PSE90W-GD _nologo_5.png",
+"name":"PSE90W-GD _nologo_5.png",
+"ext":".png",
+"bytes":2079459,
+"sha256":"67da5611d6a2f6f02a42540d4c5f9b02beaf74b20aa9d40db4b876065fa95d0b",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":1638,
+"height":1662,
+"mode":"RGBA",
+"thumb_bytes":16671
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:27:24Z",
+"thumb":"thumbs/Extra_Info__Hasivo__工业配件_可尝试i推一下__PSE90W-GD_室外__PSE90W-GD__nologo_5.png__67da5611.jpg"
+}

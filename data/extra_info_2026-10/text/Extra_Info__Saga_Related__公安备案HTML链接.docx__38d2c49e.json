@@ -1,0 +1,32 @@
+{
+"id":"Extra_Info__Saga_Related__公安备案HTML链接.docx__38d2c49e",
+"path":"Extra_Info/Saga Related/公安备案HTML链接.docx",
+"name":"公安备案HTML链接.docx",
+"ext":".docx",
+"bytes":12049,
+"sha256":"38d2c49eb596553bba663583844a2e4c8e2ae8fc0149bec51dcfae3229ffae0d",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2024-03-10T12:20:00+00:00",
+"modified":"2024-03-10T12:52:56+00:00",
+"paragraphs":1,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"chars":134,
+"text":"a href=\\\"https://beian.mps.gov.cn/#/query/webSearch?code=41010402003040\\\" rel=\\\"noreferrer\\\" target=\\\"_blank\\\">豫公网安备41010402003040</a>",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"a href=\\\"https://beian.mps.gov.cn/#/query/webSearch?code=41010402003040\\\" rel=\\\"noreferrer\\\" target=\\\"_blank\\\">豫公网安备41010402003040</a>"
+}
+],
+"extracted_at":"2026-10-23T05:28:02Z"
+}

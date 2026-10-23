@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_PoE_DONE__STI-088FP-BT__2.jpg__1dd77862",
+"path":"Extra_Info/Hasivo/Industrial PoE_DONE/STI-088FP-BT/2.jpg",
+"name":"2.jpg",
+"ext":".jpg",
+"bytes":141726,
+"sha256":"1dd7786219e8cfc97388b41255a57f29213ab020b69586ab27942e5d7d111c5a",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1837,
+"height":630,
+"mode":"RGB",
+"thumb_bytes":7196
+},
+"warnings":[],
+"chars":48,
+"text":"m ©\n>>\nN\n>\n>\nVLAN S PWR\ni\nwe &\nIndustrial Switch",
+"extracted_at":"2026-10-23T05:27:08Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_PoE_DONE__STI-088FP-BT__2.jpg__1dd77862.jpg"
+}

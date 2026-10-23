@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_PoE_DONE__STI-244FP-BT_SFP__3.png__2d72ed71",
+"path":"Extra_Info/Hasivo/Industrial PoE_DONE/STI-244FP-BT_SFP/3.png",
+"name":"3.png",
+"ext":".png",
+"bytes":2968444,
+"sha256":"2d72ed716996c459b7ba43947c838bc269973c810052d51cdd18b73b89f523ff",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1038,
+"height":2407,
+"mode":"RGBA",
+"thumb_bytes":8508
+},
+"warnings":[],
+"chars":30,
+"text":"a\nece:\nese»\nese;\n4FE PoE + 2FE",
+"extracted_at":"2026-10-23T05:26:59Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_PoE_DONE__STI-244FP-BT_SFP__3.png__2d72ed71.jpg"
+}

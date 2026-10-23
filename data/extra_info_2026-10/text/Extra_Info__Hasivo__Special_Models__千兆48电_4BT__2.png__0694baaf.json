@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Special_Models__千兆48电_4BT__2.png__0694baaf",
+"path":"Extra_Info/Hasivo/Special Models/千兆48电 4BT/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":5793749,
+"sha256":"0694baafe4d28532b09807f673121de4c4fa850bb873cbfcbcaf993d8e60f1d9",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":4662,
+"height":1413,
+"mode":"RGBA",
+"thumb_bytes":5406
+},
+"warnings":[],
+"chars":17,
+"text":"13\n14\n29\n30\n45\n46",
+"extracted_at":"2026-10-23T05:26:05Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Special_Models__千兆48电_4BT__2.png__0694baaf.jpg"
+}

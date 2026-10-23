@@ -1,0 +1,116 @@
+{
+"id":"Extra_Info__Hasivo__Passive_PoE_DONE__S2600P-16F-1G-1TC-150W_24V_EN.doc__82f24fd5",
+"path":"Extra_Info/Hasivo/Passive PoE_DONE/S2600P-16F-1G-1TC-150W_24V EN.doc",
+"name":"S2600P-16F-1G-1TC-150W_24V EN.doc",
+"ext":".doc",
+"bytes":43008,
+"sha256":"82f24fd5e11800c7208727d89438668da3aa62e445f0bc95000a9589f5b8187b",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:26:20+00:00",
+"paragraphs":0,
+"tables":1,
+"embedded_images":0
+},
+"warnings":[],
+"chars":1342,
+"text":"Model\tS2600P-16F-1G-1TC-150W-24V\nProduct mame\tHybrid Gigabit uplink 16-port 100M POE switch\nFixed Port\t16*10/100Base-TX PoE port（Data/Power） / 1*10/100/1000Base-TX uplink RJ45 port (Data) / 1*1000M COMBO\nPoE Ports\t1-16 port supports IEEE802.3, max 30W/port, PoE out  24V\nPoE Pin\taf/at: 45+  78-\nPoE Bridge\tmax 150W\nBandwidth\t20Gbps\nPacket Forwarding\t6.55Mpps\nMAC\t8K\nBuffer\t4M\nTransmission Distance\t10BASE-T ： Cat3,4,5 UTP(≤250 meter) / 100BASE-TX ： Cat5 or later UTP(150 meter) / 1000BASE-TX ： Cat6 or later UTP(150 meter) / SFP: 1000M single and multimode optical module with maximum distance ≤ 120km (depending on the optical module)\nLED Indicator\tPOWER:Power LED(over-power LED) / 18:SFP connection indicator / S:Super mode LED / Uplink:(Link LED=10/100M Link、1000M=Gigabit Link） / Port:(Orange=PoE LED, Green=LAN Link LED）\nPower\tBuilt-in power AC：100-240Vac 50-60Hz   max 150W\nOperating Temperature/Humidity\t-10～+55°C；5%～90% RH Non coagulation\nStorage Temperature/Humidity\t-40～+75°C；5%～95% RH Non coagulation\nProduct /Packing / size（L*W*H）\t295mm*195mm*45mm / 410mm*278mm*95mm\nN.W/G.W（kg）\t1.6kg/2.4kg\nLightning / Protection  level\t6KV 8/20us； / IP30\nInstallation\tRack-mount (optional machine hanger spare parts)\nCertificate\tCE-EMC EN55032；CE-LVD EN62368；\nFCC Part 15 Class B；RoHS；\nWarranty\tWhole device for 1 year(Accessories not included)",
+"blocks":[
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"S2600P-16F-1G-1TC-150W-24V"
+],
+[
+"Product mame",
+"Hybrid Gigabit uplink 16-port 100M POE switch"
+],
+[
+"Fixed Port",
+"16*10/100Base-TX PoE port（Data/Power） / 1*10/100/1000Base-TX uplink RJ45 port (Data) / 1*1000M COMBO"
+],
+[
+"PoE Ports",
+"1-16 port supports IEEE802.3, max 30W/port, PoE out  24V"
+],
+[
+"PoE Pin",
+"af/at: 45+  78-"
+],
+[
+"PoE Bridge",
+"max 150W"
+],
+[
+"Bandwidth",
+"20Gbps"
+],
+[
+"Packet Forwarding",
+"6.55Mpps"
+],
+[
+"MAC",
+"8K"
+],
+[
+"Buffer",
+"4M"
+],
+[
+"Transmission Distance",
+"10BASE-T ： Cat3,4,5 UTP(≤250 meter) / 100BASE-TX ： Cat5 or later UTP(150 meter) / 1000BASE-TX ： Cat6 or later UTP(150 meter) / SFP: 1000M single and multimode optical module with maximum distance ≤ 120km (depending on the optical module)"
+],
+[
+"LED Indicator",
+"POWER:Power LED(over-power LED) / 18:SFP connection indicator / S:Super mode LED / Uplink:(Link LED=10/100M Link、1000M=Gigabit Link） / Port:(Orange=PoE LED, Green=LAN Link LED）"
+],
+[
+"Power",
+"Built-in power AC：100-240Vac 50-60Hz   max 150W"
+],
+[
+"Operating Temperature/Humidity",
+"-10～+55°C；5%～90% RH Non coagulation"
+],
+[
+"Storage Temperature/Humidity",
+"-40～+75°C；5%～95% RH Non coagulation"
+],
+[
+"Product /Packing / size（L*W*H）",
+"295mm*195mm*45mm / 410mm*278mm*95mm"
+],
+[
+"N.W/G.W（kg）",
+"1.6kg/2.4kg"
+],
+[
+"Lightning / Protection  level",
+"6KV 8/20us； / IP30"
+],
+[
+"Installation",
+"Rack-mount (optional machine hanger spare parts)"
+],
+[
+"Certificate",
+"CE-EMC EN55032；CE-LVD EN62368；\nFCC Part 15 Class B；RoHS；"
+],
+[
+"Warranty",
+"Whole device for 1 year(Accessories not included)"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:26:20Z"
+}
