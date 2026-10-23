@@ -240,3 +240,4 @@ scripts/                         pricing.py / add_batch.py / render.py / audit.p
 66. **T29-U32（2026-10-23 08:45 UTC）— 读完 Saga 相关文档并串联**：摘读 A12–A20 + **§D 串联理解 D1–D7**（`docs/Saga理念摘读_2026-10-23.md`）；勘误 §2-5 物流补第三条。剩余队列：Xmind 14 份（下一轮重点）、Template、SEO、Profile、PoE 笔记、个人类只分类。
 67. **T29-U33（2026-10-23 09:01 UTC）— Xmind / Template / Saga SEO 读完**：摘读 A21–A23 + §D D8–D10 + §C 14–16；商务条款、三个名字分工、供应商地图、平台足迹全部入 `docs/Saga理念摘读_2026-10-23.md`。Extra Info 的 Saga 相关内容至此读完，剩大文件抽样。
 68. **T29-U34（2026-10-23 09:24 UTC）— Extra Info 读完 + §E 疑惑点清单**：`docs/Saga理念摘读_2026-10-23.md` A24（PROFILE FAQ/合同条款）、A25（Saga.md 建站对话：双站定性/定量、口号史、「永远不要有中文」、欧洲美国绝对大头、LinkedIn 必须/YouTube·FB pass）、A26（产品描述门面机型、PoE 笔记、个人文档分类、NSGate 登记）、D11；新建 §E E1–E16 口径冲突登记（按 Simon「先吸收，V1 再写疑惑点」），V1 附录呈现，不逐条追问。
+69. **T29-U35（2026-10-23 10:05 UTC）— 重读 main 根目录《Saga公司背景信息.docx》**：摘读 A27（Simon 开工简报原话：贸易商 SOHO「给我 100 最多卖 130」、两层三供应商、四类客户排序、「不追求快速成单」）、§C 17、§D D12（该简报 = 总纲，V1 骨架用其四句）、§E E17/E18。Extra Info + main 根目录全部读完。
