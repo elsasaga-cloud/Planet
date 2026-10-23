@@ -33,6 +33,7 @@ STATE = os.path.join(OUT, 'state.json')
 SNAP = os.path.join(OUT, 'snapshots')
 TS = _dt.datetime.now(_dt.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
 UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36 SagaWatch/1.0'
+BROWSER_UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36'
 TIMEOUT = 35
 MAX_TEXT = 60_000
 MAX_ITEMS = 300
@@ -54,10 +55,13 @@ def fetch(url, accept=None):
     last = None
     for attempt in range(3):
         try:
+            if attempt:   # 第 2 次起换成普通浏览器 UA（首轮基线：vilinknet.com 403 / sundartechno feed 429 / govtribe 403 都是反爬 UA 过滤）
+                h['User-Agent'] = BROWSER_UA
+                h['Accept'] = h.get('Accept') or 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
             r = requests.get(url, headers=h, timeout=TIMEOUT, allow_redirects=True)
-            if r.status_code >= 500 and attempt < 2:
+            if (r.status_code >= 500 or r.status_code in (403, 429)) and attempt < 2:
                 last = RuntimeError(f'HTTP {r.status_code}')
-                time.sleep(4 * (attempt + 1))
+                time.sleep(4 * (attempt + 1) if r.status_code != 429 else 15 * (attempt + 1))
                 continue
             enc = r.encoding or 'utf-8'
             if enc.lower() in ('iso-8859-1', 'latin-1') and r.apparent_encoding:
@@ -278,10 +282,16 @@ def run_source(src):
             res['channel_id'] = cid
             url = f'https://www.youtube.com/feeds/videos.xml?channel_id={cid}'
             kind = 'rss'
-        code, body, final = fetch(url, accept='application/rss+xml, application/atom+xml, application/xml, application/json, text/html;q=0.8, */*;q=0.5'
-                                  if kind in ('rss', 'sitemap', 'json') else 'text/html,application/xhtml+xml,*/*;q=0.8')
+        acc = ('application/rss+xml, application/atom+xml, application/xml, application/json, text/html;q=0.8, */*;q=0.5'
+               if kind in ('rss', 'sitemap', 'json') else 'text/html,application/xhtml+xml,*/*;q=0.8')
+        try:
+            code, body, final = fetch(url, accept=acc)
+        except Exception:
+            if not src.get('url_fallback'):
+                raise
+            code = 599
         if code >= 400 and src.get('url_fallback'):
-            code, body, final = fetch(src['url_fallback'])
+            code, body, final = fetch(src['url_fallback'], accept=acc)
         res['status'] = code
         res['final_url'] = final
         if code >= 400:

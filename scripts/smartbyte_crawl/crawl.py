@@ -70,7 +70,7 @@ v3.2（2026-10-22，T29-U13：Simon 要求把 SmartByte / HRUI / Hohunet 官网�
 v3.3（2026-10-23，T29-U18：成单客户活跃平台监控）：
   scripts/web_watch/RUN_ON_CRAWL 含 WATCH_ONLY=1 时，本工作流的这次运行只执行 scripts/web_watch/watch.py（19 家成单客户 + NYNEX 的
   RSS / 网页 / sitemap / GitHub / JSON 源抓取 + 比对 + 提交 data/customer_watch/），不爬站、不动 data/smartbyte_site_raw。
-  改回 WATCH_ONLY=0 即恢复 v3.2 行为。监控触发序号 #1：2026-10-23 首轮基线。
+  改回 WATCH_ONLY=0 即恢复 v3.2 行为。监控触发序号 #1：2026-10-23 首轮基线（02:54Z，63 源 / 15 失败）；#2：2026-10-23T03:04:49Z 修正 15 个失败源后的第二轮。
 """
 import hashlib
 import json

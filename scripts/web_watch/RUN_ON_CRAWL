@@ -2,4 +2,4 @@
 # WATCH_ONLY=1 → 这次运行只跑 scripts/web_watch/watch.py（成单客户活跃平台监控），不重爬 SmartByte/HRUI/Hohunet 站。
 # WATCH_ONLY=0 → 恢复原爬站行为。改本文件不会触发工作流；要触发需同时改 crawl.py（例如改注释里的触发序号）或由 Simon 安装 workflow_template.yml 定时跑。
 WATCH_ONLY=1
-# 触发序号：1（2026-10-23 首轮基线）
+# 触发序号：2（2026-10-23T03:04:49Z 修正失败源后的第二轮；#1 = 2026-10-23T02:54Z 首轮基线）
