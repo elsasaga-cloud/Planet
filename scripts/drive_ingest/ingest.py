@@ -515,7 +515,31 @@ def extract_docx(path):
         text += '\n[文本框]\n' + '\n'.join(tb_texts)
     if hf:
         text += '\n[页眉页脚]\n' + '\n'.join(hf)
-    return {'method': 'python-docx(段落+表格+文本框+页眉页脚)', 'status': 'ok' if text.strip() else 'meta',
+    ocr_img = 0
+    if not text.strip() and media and OCR and have('tesseract'):
+        # 2026-10-23 补漏：纯图片 docx（扫描件/截图贴进 Word，如《买单报关记录自查清单.docx》）→ 取 word/media 里的位图 OCR（最多 20 张）
+        import tempfile
+        td = tempfile.mkdtemp(prefix='docxocr_')
+        try:
+            parts = []
+            with zipfile.ZipFile(path) as z:
+                names = [n for n in z.namelist() if n.startswith('word/media/') and z.getinfo(n).file_size >= 8 * 1024
+                         and os.path.splitext(n)[1].lower() in ('.png', '.jpg', '.jpeg', '.gif', '.bmp', '.tif', '.tiff')][:20]
+                for n in names:
+                    fp = os.path.join(td, os.path.basename(n))
+                    with open(fp, 'wb') as w:
+                        w.write(z.read(n))
+                    t, conf = ocr_image_file(fp)
+                    if t:
+                        parts.append(f'[图片 {os.path.basename(n)} OCR 置信度 {conf}]\n{t}')
+                        ocr_img += 1
+            if parts:
+                text = '[图片OCR]\n' + '\n\n'.join(parts)
+        except Exception as e:  # noqa
+            warnings.append(f'docx-ocr: {e}'[:160])
+        shutil.rmtree(td, ignore_errors=True)
+    meta['ocr_images'] = ocr_img
+    return {'method': 'python-docx(段落+表格+文本框+页眉页脚)' + (f'+OCR({ocr_img}img)' if ocr_img else ''), 'status': 'ok' if text.strip() else 'meta',
             'meta': meta, 'text': text, 'blocks': blocks, 'textboxes': tb_texts, 'header_footer': hf,
             'embedded_media': media[:400], 'warnings': warnings}
 
@@ -623,6 +647,12 @@ def extract_excel_any(path, tmp):
             return r
         except Exception as e:  # noqa
             errs.append(f'xlrd: {e}'[:160])
+        with open(path, 'rb') as f:
+            blob = f.read()
+        if 'EncryptedPackage'.encode('utf-16-le') in blob:
+            # 2026-10-23 补漏：Office 密码保护文件 = OLE2 外壳 + EncryptedPackage 流（如《销售额 & 利润.xlsx》）→ 记为 meta 并说明，而不是 fail
+            return {'method': 'ole2-encrypted', 'status': 'meta', 'meta': {'encrypted': True, 'bytes': len(blob)}, 'text': '',
+                    'warnings': ['文件已加密（Office 打开密码：OLE2 内含 EncryptedPackage 流），没有密码无法抽取；原件在 Release 里'] + errs}
     with open(path, 'rb') as f:
         sample = f.read(4_000_000)
     low = sample[:20000].lower()
@@ -900,6 +930,28 @@ def extract_pdf(path, tmp, allow_ocr=True):
                 warnings.append(f'OCR capped at {n} pages of {len(pages)}')
         except Exception as e:  # noqa
             warnings.append(f'ocr: {e}'[:160])
+        shutil.rmtree(od, ignore_errors=True)
+    if allow_ocr and OCR and not pages and have('pdftoppm') and have('tesseract'):
+        # 2026-10-23 补漏：pdfplumber / pypdf 都数到 0 页（页树损坏的扫描件，如 Image Capture Plus 产出的《外汇管理局行政许可.pdf》）
+        # → 直接用 pdftoppm 渲染后逐页 OCR
+        od = os.path.join(tmp, 'ocr0')
+        os.makedirs(od, exist_ok=True)
+        try:
+            run(['pdftoppm', '-r', '160', '-png', '-l', str(OCR_MAX_PAGES), path, os.path.join(od, 'p')], timeout=900)
+            imgs = sorted(f for f in os.listdir(od) if f.endswith('.png'))
+            for f in imgs:
+                t, conf = ocr_image_file(os.path.join(od, f))
+                pages.append(t or '')
+                if t:
+                    ocr_pages += 1
+            if imgs:
+                meta['pages'] = len(imgs)
+                method = f'pdftoppm+OCR({ocr_pages}p)'
+                warnings.append('pdfplumber/pypdf 读到 0 页，已改用 pdftoppm 渲染后 OCR')
+            else:
+                warnings.append('pdftoppm 也渲染不出任何页（文件可能损坏）')
+        except Exception as e:  # noqa
+            warnings.append(f'ocr0: {e}'[:160])
         shutil.rmtree(od, ignore_errors=True)
     text = '\n\n'.join(f'[p{i + 1}]\n{p}' for i, p in enumerate(pages) if p)
     meta['ocr_pages'] = ocr_pages
@@ -1223,6 +1275,94 @@ def extract_psd(path, thumb_path):
     return {'method': 'pillow(psd composite)', 'status': 'meta', 'meta': meta, 'text': '', 'warnings': warnings}
 
 
+# ---------------------------------------------------------------- 抽取：HTML（2026-10-23 T29-U22 交叉核对补漏）
+def extract_html(path):
+    """静态 HTML：标题 / meta / 标题层级 / 可见正文 / 图片 alt / 链接数。脚本、样式、noscript、svg 不计入正文。"""
+    from html.parser import HTMLParser
+    raw = open(path, 'rb').read()
+    enc = 'utf-8'
+    m = re.search(rb'charset=["\']?([\w-]+)', raw[:4000], re.I)
+    if m:
+        enc = m.group(1).decode('ascii', 'ignore') or 'utf-8'
+    try:
+        src = raw.decode(enc, 'ignore')
+    except LookupError:
+        src = raw.decode('utf-8', 'ignore')
+
+    class P(HTMLParser):
+        SKIP = {'script', 'style', 'noscript', 'template', 'svg'}
+        BLOCK = {'p', 'div', 'br', 'li', 'tr', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'section', 'article', 'header', 'footer', 'nav',
+                 'td', 'th', 'ul', 'ol', 'table', 'blockquote', 'pre', 'figure', 'figcaption', 'dd', 'dt', 'main', 'aside', 'option',
+                 'label', 'button', 'a', 'span', 'summary', 'details'}
+
+        def __init__(self):
+            super().__init__(convert_charrefs=True)
+            self.out, self.skip, self.title, self.in_title = [], 0, '', False
+            self.metas, self.heads, self.links, self.cur_h = {}, [], [], None
+
+        def handle_starttag(self, tag, attrs):
+            a = dict(attrs)
+            if tag in self.SKIP:
+                self.skip += 1
+            if tag == 'title':
+                self.in_title = True
+            if tag == 'meta':
+                k = (a.get('name') or a.get('property') or '').lower()
+                if k in ('description', 'keywords', 'og:title', 'og:description', 'og:site_name', 'og:url', 'twitter:title',
+                         'twitter:description', 'robots', 'author'):
+                    self.metas[k] = (a.get('content') or '')[:500]
+            if tag in ('h1', 'h2', 'h3', 'h4'):
+                self.cur_h = tag
+                self.heads.append([tag, ''])
+            if tag == 'a' and a.get('href'):
+                self.links.append(a['href'][:300])
+            if tag == 'img' and a.get('alt'):
+                self.out.append(f"\n[img:{a['alt'][:120]}]\n")
+            if tag in self.BLOCK:
+                self.out.append('\n' if tag != 'span' else ' ')
+
+        def handle_endtag(self, tag):
+            if tag in self.SKIP and self.skip:
+                self.skip -= 1
+            if tag == 'title':
+                self.in_title = False
+            if tag in ('h1', 'h2', 'h3', 'h4'):
+                self.cur_h = None
+            if tag in self.BLOCK:
+                self.out.append('\n' if tag != 'span' else ' ')
+
+        def handle_data(self, data):
+            if self.in_title:
+                self.title += data
+                return
+            if self.skip:
+                return
+            if self.cur_h and self.heads:
+                self.heads[-1][1] += data
+            self.out.append(data)
+
+    p = P()
+    warnings = []
+    try:
+        p.feed(src)
+        p.close()
+    except Exception as e:  # noqa
+        warnings.append(f'html.parser: {e}'[:160])
+    lines = [re.sub(r'[ \t\u00a0\r\f\v]+', ' ', ln).strip() for ln in ''.join(p.out).split('\n')]
+    body = []
+    for ln in lines:
+        if ln and (not body or body[-1] != ln):
+            body.append(ln)
+    title = re.sub(r'\s+', ' ', p.title).strip()
+    head_txt = ([f'[title] {title}'] if title else []) + [f'[meta {k}] {v}' for k, v in p.metas.items()]
+    text = '\n'.join(head_txt + ([''] if head_txt else []) + body)
+    heads = [{'t': 'h', 's': h, 'text': re.sub(r'\s+', ' ', t).strip()} for h, t in p.heads if t.strip()]
+    meta = {'title': title[:300], 'metas': p.metas, 'headings': [f"{b['s']}: {b['text'][:120]}" for b in heads][:80],
+            'links': len(p.links), 'html_bytes': len(raw), 'encoding': enc}
+    return {'method': 'html.parser', 'status': 'ok' if body or title else 'meta', 'meta': meta, 'text': text,
+            'blocks': heads, 'links': p.links[:400], 'warnings': warnings}
+
+
 def extract_any(rec, local, tmp):
     ext = rec['ext']
     thumb = os.path.join(THUMB_DIR, rec['id'] + '.jpg')
@@ -1255,8 +1395,14 @@ def extract_any(rec, local, tmp):
                 r['method'] = 'ai-as-pdf→' + r['method']
                 return r, None
         return extract_via_pdf(local, tmp, thumb), thumb
-    if ext in ('.pub', '.cdr', '.odt', '.rtf', '.wps', '.vsd', '.vsdx', '.vdx'):
+    if ext in ('.pub', '.cdr', '.odt', '.rtf', '.wps', '.vsd', '.vsdx', '.vdx', '.vst', '.vstx', '.vssx', '.vsdm'):
         return extract_via_pdf(local, tmp, thumb), thumb
+    if ext in ('.html', '.htm', '.xhtml'):          # 2026-10-23 交叉核对补漏：Extra Info 里 39 个 Saga 官网/SEO 草稿页以前没有抽取器
+        return extract_html(local), None
+    if ext in ('.dot', '.dotm'):                     # Word 模板：同 .doc 走 soffice
+        return extract_doc(local, tmp), None
+    if ext == '.dotx':
+        return extract_docx(local), None
     if ext == '.psd':
         return extract_psd(local, thumb), thumb
     if ext in ('.txt', '.csv', '.md', '.json', '.xml', '.mib', '.log'):

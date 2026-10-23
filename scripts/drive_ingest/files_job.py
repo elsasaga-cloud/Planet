@@ -65,6 +65,9 @@ GIT_COMMIT = os.environ.get('GIT_COMMIT', '1') == '1'
 GIT_REF = os.environ.get('GIT_REF', '')
 RELEASE_TARGET = os.environ.get('RELEASE_TARGET', '')
 RELEASE_TAG = os.environ.get('RELEASE_TAG') or f'files-{OUT_NAME}'
+# 定向重做（2026-10-23 交叉核对补漏）：续跑时这些扩展名 / 成员 id 不复用上次结果，重新抽取（上次 fail 的本来就会重做）
+REDO_EXT = {x.strip().lower() for x in os.environ.get('REDO_EXT', '').split(',') if x.strip()}
+REDO_IDS = {x.strip() for x in os.environ.get('REDO_IDS', '').split(',') if x.strip()}
 ARCHIVE_EXT = {'.zip', '.rar', '.7z', '.tgz', '.tar', '.gz'}
 SKIP_NAMES = {'thumbs.db', 'desktop.ini', '.ds_store'}
 T0 = time.time()
@@ -472,9 +475,11 @@ def main():
             prev = json.load(open(mp_prev, encoding='utf-8'))
             for f0 in prev.get('files', []):
                 if f0.get('status') in ('ok', 'meta') and os.path.exists(os.path.join(OUT, 'text', f0['id'] + '.json')):
+                    if (f0.get('ext') or '').lower() in REDO_EXT or f0['id'] in REDO_IDS:
+                        continue
                     prev_done[f0['id']] = f0
             manifest['meta']['resumed_from'] = prev.get('meta', {}).get('checkpoint') or prev.get('meta', {}).get('finished') or '?'
-            log(f'resume: {len(prev_done)} members already extracted in previous run')
+            log(f'resume: {len(prev_done)} members already extracted in previous run' + (f' (redo ext={sorted(REDO_EXT)} ids={len(REDO_IDS)})' if REDO_EXT or REDO_IDS else ''))
         except Exception as e:  # noqa
             log('previous manifest unreadable, full run', e)
     for name, p in paths:

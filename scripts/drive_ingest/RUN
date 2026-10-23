@@ -4,7 +4,12 @@
 # - JOB=files / OUT_NAME=<目录名> / SOURCE_IDS=<Drive 文件 ID,…> → 转交 scripts/drive_ingest/files_job.py（单个文件/压缩包全保真抽取到 data/<OUT_NAME>/）；
 #   再跑 Drive 任务前要把 JOB 行删掉或注释掉。
 # - JOB=drive / INDEX=<索引 json> / OUT_DIR=<输出目录> / RELEASE_TAG=<Release 标签> / JOB_LABEL=<提交说明前缀> → 用别的索引跑同一套 Drive 任务（T29-U8 供应商文件夹第二轮）。
-# last trigger: 2026-10-23T04:56Z  purpose: 《Extra Info.zip》第 7 次 —— 真因已查明（Simon 从 Actions 页拿到注解）：第 5/6 次都是运行器**根盘写满**（System.IO.IOException: No space left on device，Worker_20261023-031808），不是 Actions 停摆/配额。托管运行器根盘仅 ~14 GB 可用，4.36 GB zip + 解包（含内层压缩包）+ /tmp 抽取临时文件 就把它填满。本次：新增 scripts/drive_ingest/runner_disk.py —— 开跑先删预装大件（Android SDK / CodeQL / dotnet / swift / ghcup / docker 镜像…，预计腾 20–25 GB），按剩余容量选工作盘并把 RAW_DIR / ZIP_DIR / TMPDIR 都指过去，容量情况写进 _run_status.md；解包前先提交一条「来源就绪」阶段状态；内层压缩包解开后删原包；抽取循环低水位保护（<1.5 GB 跳过该文件而不是让运行器死掉）；断点续跑（manifest 里已 ok/meta 的成员下次复用）。来源仍为 Release files-extra_info_2026-10（不碰 Drive）。
+# last trigger: 2026-10-23T05:58Z  purpose: 《Extra Info.zip》第 8 次 = 定向补漏（T29-U22 交叉核对）。第 7 次 05:33Z 已完成（1551 成员：正文 913 / 元数据 352 / 失败 1 / 重复 285），核对发现 5 类遗漏：
+#   ① Saga SEO/ 下 39 个 .html（sagatele.com 官网/SEO 各版本草稿 2026-08→2026-12）以前没有 HTML 抽取器 → 新增 extract_html；
+#   ② 《销售额 & 利润.xlsx》fail —— 实为 Office 加密文件（OLE2 + EncryptedPackage）→ 识别为「需要密码」而非失败；
+#   ③ 《外汇管理局行政许可.pdf》pdfplumber 读到 0 页 → 没走 OCR → 新增 pdftoppm 直渲染 + OCR；
+#   ④ 《买单报关记录自查清单.docx》纯图片 0 字 → 新增 word/media 图片 OCR；
+#   ⑤ .dot / .vst 模板 → 走 soffice。其余 1,200+ 已抽取成员通过续跑直接复用（REDO_EXT / REDO_IDS 只重做上述对象），来源仍为 Release，不碰 Drive。
 JOB=files
 OUT_NAME=extra_info_2026-10
 TITLE=Simon 补充资料《Extra Info.zip》（2026-10-22 上传到 Elsa 云盘，4.36 GB）
@@ -14,3 +19,5 @@ OCR=1
 OCR_MIN_KB=8
 WORKERS=2
 CHECKPOINT_MIN=10
+REDO_EXT=.html,.htm,.dot,.vst
+REDO_IDS=Extra_Info__Saga_Related__外汇管理局行政许可.pdf__c0f6487a,Extra_Info__Saga_Related__授权_说明__买单报关记录自查清单.docx__b2d4b3ed
