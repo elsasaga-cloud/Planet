@@ -1,0 +1,118 @@
+# SA-011 Vi-Link / Vilink Communications（加州 Irvine，交通/工业光纤设备） · product_im28 · https://vilink.us/product/im28/ · fetched 2026-10-23T02:54:23Z · HTTP 200
+IM28 -
+Skip to content
+About Vi-Link
+all Products
+Sales
+Vi-Link Solutions
+0
+Home / Managed Industrial Ethernet Switch / IM28
+IM28
+$ 395.00
+Industrial Gigabits Managed Ethernet Switch, 8* 10/100/1000M TX RJ45, 2* 1000M SX SFP, DIN Rail 10~47 VDC
+IM28 quantity
+Add to cart
+Category: Industrial Ethernet Switch , Managed Industrial Ethernet Switch
+Description
+Reviews (0)
+The IM28 is an Industrial Managed Gigabit Ethernet Switch. It has 2* 1000 Mbps fiber optic SFP ports and 8* 10/100/1000 Mbps electrical ports. The IM28 is designed to meet the various industrial application needs and provide a wide range of industrial Ethernet network communication solutions, including linking multiple remote traffic intersections to the Traffic Operation Center.
+The IM28 also features powerful Web-based, CLI management capabilities, a wide input range dual power supply and its support for DIN rail and panel mounting for installation in the industrial environment.
+Applications include ITS Intelligent Traffic Control System, Homeland Security, Metro & Railroad Systems, Oil & Gas Monitoring System, Utility Management, Premise Networks, Military Hardened applications or anything requiring high quality Data Transmission performance.
+8 x 10/100/1000Mbps Auto-sensing RJ45 ports
+2 x 1000Mbps SFP fiber ports, 40 Km @ Single Mode
+4 KV Ethernet surge protection, adapt to a harsh outdoor environment
+Support Auto MDI/MDIX
+Flow control mode: full duplex with IEEE 802.3x standard, half-duplex with Back pressure standard
+IEEE 802.3 10Base-T and IEEE 802.3u 1000Base-TX compliant
+A store-and-forward switching mechanism
+Operating environment temperature: -40 ° ~85 ° c
+Intelligent power consumption detection and classification
+SW-Ring ring network patent technology (Fault recovery time<20ms)
+IGMP Snooping, GMRP and static IGMP
+VLAN, PVLAN, Port trunking, rate control, control broadcast domain
+IEEE802.1p_QOS
+SNMP, Telnet, WEB
+SSH, SSL, ACL, automatic MAC address bounding
+IEEE 802.1d(STP), IEEE 802.1w(RSTP), IEEE 802.1s(MSTP)
+Support port mirroring
+Alarming: support ARP listening, power down, and ring-alarm
+Jumbo frames support up to 16kb
+Support link monitoring
+Reviews
+There are no reviews yet.
+Be the first to review “IM28” Cancel reply Your email address will not be published. Required fields are marked *
+Your rating *
+Rate…
+Perfect
+Good
+Average
+Not that bad
+Very poor
+Your review *
+Name *
+Email *
+Save my name, email, and website in this browser for the next time I comment.
+Δ
+Related products
+EN2400
+$ 1,495.00
+Add to cart
+IM48
+$ 445.00
+Add to cart
+IM24
+$ 345.00
+Add to cart
+25G-AOC-1M
+$ 95.00
+Add to cart
+25G-DAC-1M
+$ 45.00
+Add to cart
+Our company
+About Vi-Link
+all Products
+Sales
+Vi-Link Solutions
+Our products
+About Vi-Link
+all Products
+Sales
+Vi-Link Solutions
+Special sales
+About Vi-Link
+all Products
+Sales
+Vi-Link Solutions
+Customer service
+About Vi-Link
+all Products
+Sales
+Vi-Link Solutions
+Stay connected
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sagittis tincidunt tortor in bibendum. Phasellus tellus elit, placerat et orci id, commodo finibus tortor.
+Facebook
+YouTube
+TikTok
+LinkedIn
+Pinterest
+Twitter
+Instagram
+Wonder – A WordPress Block theme by YITH
+Your cart
+(items: 0)
+Products in cart
+Product
+Details
+Total
+−
++
+Save
+Subtotal
+$0.00
+Shipping and discounts calculated at checkout.
+View cart
+Go to checkout
+Your shopping cart is empty
+Return to shop
+Notifications
