@@ -1,7 +1,7 @@
 {
  "SA-168/site_feed": {
   "kind": "rss",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "cb343e539b37f8d4f22e711dfa5b74c97f1fc30c",
   "summary": "10 条；最新：Wed, 06 Dec 2023 11:27:03 Angora Networks ® Veri Diyotu Çözümünde Ezber Bozan ModBUS ve OPC protokolü Dest",
@@ -54,7 +54,7 @@
  },
  "SA-168/home_en": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "4d71d56ccde510fc1dfbd48f490a955738381851",
   "summary": "2468 字符；首行：Mainpage - Angora Networks",
@@ -66,7 +66,7 @@
  },
  "SA-168/verge_family": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "1faac50b22f63f6a8ed298d29ab84437b5352217",
   "summary": "3982 字符；首行：Verge Network Switch Family - Angora Networks",
@@ -78,7 +78,7 @@
  },
  "SA-168/support_portal": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 522,
   "hash": "c7107a93c265497755241be372b6162b7728bee8",
   "error": "HTTP 522",
@@ -106,7 +106,7 @@
  },
  "SA-168/github_anwHub": {
   "kind": "github",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "0c94598cb249f691f50043b348cf5e26fc7f5bbf",
   "summary": "Organization anwHub · 仓库 1 · 最近推送 2020-01-16T11:10:50Z",
@@ -136,7 +136,7 @@
  },
  "SB-473/media_center": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "4bc1a498fd4f9fe680adab17b723eabae35e3686",
   "summary": "3241 字符；首行：Kariyer",
@@ -148,7 +148,7 @@
  },
  "SB-473/home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "bd12307c2275835bad758266c02801a7b0dbb3b3",
   "summary": "6603 字符；首行：NETAŞ - Bilgi ve İletişim Teknolojileri",
@@ -160,7 +160,7 @@
  },
  "SB-473/kap_search": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "741597b07aaac14658fe41d70d8ad1ef8c603488",
   "summary": "1980 字符；首行：KAP",
@@ -172,7 +172,7 @@
  },
  "SA-170/domain_home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "f2f8375668a4ce876af5c6f84113ff9755d4d878",
   "summary": "751 字符；首行：Your future website - 1st Domains",
@@ -184,9 +184,9 @@
  },
  "SA-170/domain_rdap": {
   "kind": "json",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
-  "hash": "64c69e8b3380da185b64c6c4bdc033c175c50235",
+  "hash": "d75dc3a11b93c79a635002c1594b445abdbc2fb9",
   "summary": "status=[\"active\"]; events=[{\"eventAction\": \"registration\", \"eventDate\": \"2024-08-16T06; nameservers=[{\"objectClassName\": \"nameserver\", \"ldhName\": \"NS1.1STDOMAIN",
   "fields": {
    "status": [
@@ -207,7 +207,7 @@
     },
     {
      "eventAction": "last update of RDAP database",
-     "eventDate": "2026-10-23T04:57:05Z"
+     "eventDate": "2026-10-23T06:50:50Z"
     }
    ],
    "nameservers": [
@@ -223,13 +223,13 @@
   },
   "final_url": "https://rdap.verisign.com/com/v1/domain/belnetworks.com",
   "items": {},
-  "last_change_at": "2026-10-23T04:57:18Z",
+  "last_change_at": "2026-10-23T06:51:07Z",
   "first_seen": "2026-10-23T02:54:23Z",
   "url": "https://rdap.verisign.com/com/v1/domain/belnetworks.com"
  },
  "SA-171/home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "f6495572c77bc00cf11237d883c2003ee0e70012",
   "summary": "30232 字符；首行：PBACCTV.COM ออกแบบและติดตั้ง CCTV|คีการ์ด|ไม้กระดก|เครื่องสแกนนิ้ว|ประตูรีโมท|Wi",
@@ -241,7 +241,7 @@
  },
  "SA-171/promos": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "b126f882e06e87cecddde1f84e82bdf50e823704",
   "summary": "17695 字符；首行：PBACCTV.COM SETCCTV Promotion 2ตัว / 4ตัว / 6ตัว / 8ตัว ชุดโปรโมชั่นกล้องวงจรปิด",
@@ -253,7 +253,7 @@
  },
  "SA-171/poe_products": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "d3873bbf0818be550c9c3dc022e1023af825371a",
   "summary": "5364 字符；首行：POWER SUPPLY & ADAPTER",
@@ -265,7 +265,7 @@
  },
  "SA-169/controlready_home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "a18b7aad4a938b54d93314c54b124fb6e66e2ec0",
   "summary": "2495 字符；首行：Control Ready",
@@ -277,7 +277,7 @@
  },
  "SA-169/controlready_scout": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "d82e2cddffe5e7d2c92389eeb5925a3bcce34e9f",
   "summary": "1423 字符；首行：SCOUT: Smart Connection Operations United Toolkit — Control Ready",
@@ -289,7 +289,7 @@
  },
  "SA-169/controlready_about": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "326fab2588174acf397c871815c9bbca16bd9889",
   "summary": "2264 字符；首行：About — Control Ready",
@@ -301,7 +301,7 @@
  },
  "SA-169/jcs_home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 0,
   "error": "ConnectionError: HTTPConnectionPool(host='clendenan.ca', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='clendenan.ca', port=80): Failed to resolve 'clendenan.ca' ([Errn",
   "items": {},
@@ -327,9 +327,9 @@
  },
  "SA-026/blog": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
-  "hash": "587836affcdd84c132cfcc4effc8746c953c7ec9",
+  "hash": "90a31590ae80d58462612e41cbe4acbb672232a0",
   "summary": "3310 字符；首行：Бит.Блог",
   "final_url": "https://bitbuk.ru/blog/",
   "items": {},
@@ -339,9 +339,9 @@
  },
  "SA-026/switch_catalog": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
-  "hash": "271c834ead8ccecd7a0276c623625fb32b850fef",
+  "hash": "93a04ca31daf0ac3139f1c97465e307db360a007",
   "summary": "7126 字符；首行：Системы видеонаблюдения Коммутаторы купить в интернет-магазине Priorat по цене о",
   "final_url": "https://bitbuk.ru/category/sistemy-videonablyudeniya/kommutatory/",
   "items": {},
@@ -351,9 +351,9 @@
  },
  "SA-026/poe_catalog": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
-  "hash": "9e63624524c410ddc9187ff40f270ffbf25ba002",
+  "hash": "5e026870740e293f31bfc428006b8ed86128c7c5",
   "summary": "5921 字符；首行：Системы видеонаблюдения Сетевое PoE оборудование купить в интернет-магазине Prio",
   "final_url": "https://bitbuk.ru/category/sistemy-videonablyudeniya/setevoe-poe-oborudovanie/",
   "items": {},
@@ -363,9 +363,9 @@
  },
  "SA-026/brand_page": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
-  "hash": "7779bee776f4ee73b8d1cfd2545dd3e3270aae95",
+  "hash": "6d31f43d2d6189bf763c9382f1782f85e736a09d",
   "summary": "8617 字符；首行：БитБук",
   "final_url": "https://bitbuk.ru/brand/bitbuk/",
   "items": {},
@@ -375,7 +375,7 @@
  },
  "SA-026/support": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "abc03a1095b772c4c2a6f78364d46ce3379b1d65",
   "summary": "29 字符；首行：Priorat® | Help Desk",
@@ -387,7 +387,7 @@
  },
  "SA-011/shop_sitemap": {
   "kind": "sitemap",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "5da621744111b1f4c51d268c93bb5c57fcac4e65",
   "summary": "300 个 URL；最新 lastmod 2026-08-06T03:32:25",
@@ -714,13 +714,13 @@
     "date": "2024-10-06T19:14:11+00:00"
    }
   },
-  "last_change_at": "2026-10-23T04:57:18Z",
+  "last_change_at": "2026-10-23T06:51:07Z",
   "first_seen": "2026-10-23T02:54:23Z",
   "url": "https://vilink.us/product-sitemap.xml"
  },
  "SA-011/shop_home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "8ba3d3191a5d2e5ab36f1f53bc73223159959cf3",
   "summary": "297 字符；首行：-",
@@ -732,19 +732,19 @@
  },
  "SA-011/product_im28": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
-  "hash": "0ecf6a7e1ae87917b57d2d56972d0cefc4022501",
-  "summary": "3397 字符；首行：IM28 -",
+  "hash": "eb92a8cb330e6cc14ac0afa758be865b05eb5929",
+  "summary": "3392 字符；首行：IM28 -",
   "final_url": "https://vilink.us/product/im28/",
   "items": {},
-  "last_change_at": "2026-10-23T04:57:18Z",
+  "last_change_at": "2026-10-23T06:51:07Z",
   "first_seen": "2026-10-23T02:54:23Z",
   "url": "https://vilink.us/product/im28/"
  },
  "SA-011/old_site": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 403,
   "hash": "a4fd115ca121f210d7ad5c68adf594fc7c146a20",
   "error": "HTTP 403",
@@ -756,7 +756,7 @@
  },
  "SA-049/site_feed": {
   "kind": "rss",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "70f5ca33d37699723bdddaeb36a1e525ba9829dd",
   "summary": "10 条；最新：Thu, 22 Oct 2026 11:01:10 STAINLESS STEEL ATM & KIOSK USB KEYPAD",
@@ -809,7 +809,7 @@
  },
  "SA-049/home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "6ed412a66ba68a03bae10ef053c8f1e03c44cd70",
   "summary": "3744 字符；首行：Sundar Techno Solutions - Sundar Techno Solutions",
@@ -837,7 +837,7 @@
  },
  "SA-049/indiamart_minisite": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "9bce10274699b1392b72e8b805ba4c568a50ce33",
   "summary": "5001 字符；首行：Sundar Techno Solutions - Exporter & Manufacturer of Industrial PC from Bengalur",
@@ -849,7 +849,7 @@
  },
  "SA-012/mastodon_instance": {
   "kind": "json",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "9d5932585d44b27f037651760534e5529009ee7b",
   "summary": "version=\"4.7.3\"; stats={\"user_count\": 9, \"status_count\": 16381, \"domain_count\": 285; contact_account.username=\"chewie\"; contact_account.statuses_count=15425; contact_account.last_status_at=\"2026-10-22\"",
@@ -872,7 +872,7 @@
  },
  "SA-012/chewie_rss": {
   "kind": "rss",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "8dcc0d25495e85249792095bc3132e5bc9283e1e",
   "summary": "20 条；最新：Thu, 22 Oct 2026 18:04:59 ",
@@ -965,7 +965,7 @@
  },
  "SA-012/home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "439f45d461e5024a0431f94c93e535027e985ae1",
   "summary": "2569 字符；首行：Go Green IT - Home",
@@ -977,9 +977,9 @@
  },
  "SA-001/home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
-  "hash": "5f502a16d9ecdb95a3d1a62fcb721d1f23f2a715",
+  "hash": "33534100ebc9f34cd7128259b40c9b2e0a90d31d",
   "summary": "3630 字符；首行：Astel Digicom I House of all kinds of cables and connectors",
   "final_url": "https://asteldigicom.com/",
   "items": {},
@@ -989,7 +989,7 @@
  },
  "SA-001/contact": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "e6167d9ca0c2f7127fc31747eabbc6af23788f40",
   "summary": "6213 字符；首行：JOIN OUR NETWORK OF SUBSCRIBERS",
@@ -1001,7 +1001,7 @@
  },
  "SC-1006/site_feed": {
   "kind": "rss",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 500,
   "hash": "b14767c9fc969d94581add5cc6d33b3cb2ec8f26",
   "error": "HTTP 500",
@@ -1013,7 +1013,7 @@
  },
  "SC-1006/home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 500,
   "hash": "b14767c9fc969d94581add5cc6d33b3cb2ec8f26",
   "error": "HTTP 500",
@@ -1025,7 +1025,7 @@
  },
  "SC-1006/contact": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 500,
   "hash": "b14767c9fc969d94581add5cc6d33b3cb2ec8f26",
   "error": "HTTP 500",
@@ -1037,7 +1037,7 @@
  },
  "SA-006/github_org": {
   "kind": "github",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "4774c86f071b7515a8986d142b2efef0306b2f80",
   "summary": "Organization Resonant-Networks · 仓库 6 · 最近推送 2026-10-09T06:55:28Z",
@@ -1087,7 +1087,7 @@
  },
  "SA-006/github_committer": {
   "kind": "github",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "2c75c58bbc24de361aaf93c99c77d413edce81a3",
   "summary": "User acestraxionweb · 仓库 0 · 最近推送 -",
@@ -1153,7 +1153,7 @@
  },
  "SA-006/site_feed": {
   "kind": "rss",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "415dd0b24f86e99d30068b5673d7b28aa8e2deab",
   "summary": "10 条；最新：Fri, 28 Mar 2025 08:41:21 Homepage Banner Slide 4",
@@ -1206,7 +1206,7 @@
  },
  "SA-006/home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "e15300d525b55ea76749d5d6e854b54e83fe521a",
   "summary": "6076 字符；首行：Resonant Networks | We Build the Earth's Digital Connectivity",
@@ -1218,7 +1218,7 @@
  },
  "SB-335/home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "2b2dfbaf8ca6e7da3f086ee1e93e23b6c0437fc7",
   "summary": "1501 字符；首行：დელტა კონსალტინგი-Delta Consulting",
@@ -1230,7 +1230,7 @@
  },
  "SB-335/home_alt": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "2b2dfbaf8ca6e7da3f086ee1e93e23b6c0437fc7",
   "summary": "1501 字符；首行：დელტა კონსალტინგი-Delta Consulting",
@@ -1242,7 +1242,7 @@
  },
  "SB-335/ripe_asn": {
   "kind": "json",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "9df095258fd262a49dedfc684f9ecf34260b4340",
   "summary": "name=\"DeltaConsulting\"; status=[\"active\"]; events=[{\"eventAction\": \"registration\", \"eventDate\": \"2018-12-04T08",
@@ -1286,20 +1286,22 @@
  },
  "SB-1334/home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
-  "status": 0,
-  "error": "ConnectTimeout: HTTPSConnectionPool(host='fastball.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='fastball.in', port=443) at 0x7f9841025460>, 'Connection to fas",
+  "fetched_at": "2026-10-23T06:51:07Z",
+  "status": 200,
+  "hash": "5995dfce6912d6042ed3c17455990fa590f4d306",
+  "summary": "9609 字符；首行：Fastball",
+  "final_url": "https://fastball.in/",
   "items": {},
-  "last_change_at": "2026-10-23T02:54:23Z",
+  "last_change_at": "2026-10-23T06:51:07Z",
   "first_seen": "2026-10-23T02:54:23Z",
   "url": "https://fastball.in/"
  },
  "SB-1334/indiamart": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
-  "status": 200,
-  "hash": "6c1d9a41c97a8d0f5e13f140a76ab25f4d08ab91",
-  "summary": "3790 字符；首行：Exporter & Trader - Retailer of Fiber Optic Splicing Machines Suppliers by Fastb",
+  "fetched_at": "2026-10-23T06:51:07Z",
+  "status": 429,
+  "hash": "6d5f48f26b62a30f4be692c83275ae98927f6927",
+  "error": "HTTP 429",
   "final_url": "https://www.indiamart.com/fastball/",
   "items": {},
   "last_change_at": "2026-10-23T03:05:43Z",
@@ -1308,7 +1310,7 @@
  },
  "SC-349/home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "3bc9c3474c543b43ed29f2da879137556ec2712a",
   "summary": "6971 字符；首行：Obmac Systems - Multipurpose Website & Business Management System",
@@ -1320,7 +1322,7 @@
  },
  "SA-016/site_feed": {
   "kind": "rss",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "23fa4855735ab4bfe4648a04736cb6bbbc1877db",
   "summary": "10 条；最新：Wed, 21 Oct 2026 06:50:05 IP, NEMA, CE, UL Ratings Explained",
@@ -1373,7 +1375,7 @@
  },
  "SA-016/home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "3d77e08b840ee88623df4e77d16076ea28ef3cf2",
   "summary": "7511 字符；首行：Industrial Automation Company in Greater Noida | UCEIPL",
@@ -1385,9 +1387,9 @@
  },
  "SB-1335/news": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 0,
-  "error": "ConnectTimeout: HTTPSConnectionPool(host='rio-krsk.ru', port=443): Max retries exceeded with url: /info/news/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='rio-krsk.ru', port=443) at 0x7f9841b19760>, 'Connect",
+  "error": "ConnectTimeout: HTTPSConnectionPool(host='rio-krsk.ru', port=443): Max retries exceeded with url: /info/news/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='rio-krsk.ru', port=443) at 0x7ff3cda55d60>, 'Connect",
   "items": {},
   "last_change_at": "2026-10-23T03:05:43Z",
   "first_seen": "2026-10-23T02:54:23Z",
@@ -1395,9 +1397,9 @@
  },
  "SB-1335/home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 0,
-  "error": "ConnectTimeout: HTTPSConnectionPool(host='rio-krsk.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='rio-krsk.ru', port=443) at 0x7f9841b18e60>, 'Connection to rio",
+  "error": "ConnectTimeout: HTTPSConnectionPool(host='rio-krsk.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='rio-krsk.ru', port=443) at 0x7ff3cd01a3c0>, 'Connection to rio",
   "items": {},
   "last_change_at": "2026-10-23T03:05:43Z",
   "first_seen": "2026-10-23T02:54:23Z",
@@ -1405,7 +1407,7 @@
  },
  "SA-007/home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "730d07d43c15ea887f0f3bd905e2cfecaaaf0e07",
   "summary": "3772 字符；首行：XSPec Malaysia - Industrial Technology Catalog",
@@ -1417,7 +1419,7 @@
  },
  "SA-007/security_cat": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "f3fddbf67222ccacabd7a598ffa66cab02117cae",
   "summary": "4198 字符；首行：Military, Defence & Security Brands - XSPec Malaysia",
@@ -1429,7 +1431,7 @@
  },
  "SA-064/home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "3fd5a93201d672b60b4ed008dcc5722e6f420a26",
   "summary": "9154 字符；首行：52Networks: Buy Bulk Ethernet Cables – Cat5e, Cat6, Cat6A Authorize partner With",
@@ -1441,7 +1443,7 @@
  },
  "SA-064/govtribe": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 403,
   "hash": "a4fd115ca121f210d7ad5c68adf594fc7c146a20",
   "error": "HTTP 403",
@@ -1453,7 +1455,7 @@
  },
  "SA-064/gsa_elibrary": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "e63dc24878fa360d1fa1cc8f2e2ef306a759bb54",
   "summary": "5341 字符；首行：Welcome to GSA eLibrary",
@@ -1465,7 +1467,7 @@
  },
  "SA-013/nynex_home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "0af928bf6fb68ecb4324e7446c44b80e1b0522a3",
   "summary": "6753 字符；首行：NYNEX – Expand your business. We connect it. · Satellit, Glasfaser & IP-Transit",
@@ -1477,19 +1479,19 @@
  },
  "SA-013/fiberone_home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
-  "hash": "fedad1add330940c6b94274666e0e0aeef987d81",
-  "summary": "22143 字符；首行：Internetanbieter Rhein-Main – Glasfaser bis 10 Gbit/s | fiberONE",
+  "hash": "688fe74bb71fac602a2e6262abf74efff741f23a",
+  "summary": "21974 字符；首行：Internetanbieter Rhein-Main – Glasfaser bis 10 Gbit/s | fiberONE",
   "final_url": "https://fiberone.de/",
   "items": {},
-  "last_change_at": "2026-10-23T02:54:23Z",
+  "last_change_at": "2026-10-23T06:51:07Z",
   "first_seen": "2026-10-23T02:54:23Z",
   "url": "https://www.fiberone.de/"
  },
  "SA-013/peeringdb": {
   "kind": "json",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "208da62b91394b1555b3c4422c1dc5687812c701",
   "summary": "data.0.name=\"fiberONE.de\"; data.0.info_prefixes4=0; data.0.info_prefixes6=0; data.0.updated=\"2022-07-27T05:35:51Z\"; data.0.netixlan_updated=null; data.0.netfac_updated=null",
@@ -1527,7 +1529,7 @@
    "last_change_note": "2026-10-23 首轮基线"
   },
   "SA-011": {
-   "last_change_note": "2026-10-23 product_im28：内容变化：+10 −10 行"
+   "last_change_note": "2026-10-23 product_im28：内容变化：+6 −6 行"
   },
   "SA-049": {
    "last_change_note": "2026-10-23 site_feed：恢复可达（上轮 HTTP 429）",
@@ -1553,7 +1555,9 @@
   "SB-335": {
    "last_change_note": "2026-10-23 首轮基线"
   },
-  "SB-1334": {},
+  "SB-1334": {
+   "last_change_note": "2026-10-23 首轮基线"
+  },
   "SC-349": {},
   "SA-016": {
    "feeds_found": [
@@ -1574,7 +1578,7 @@
    "last_change_note": "2026-10-23 首轮基线"
   },
   "SA-013": {
-   "last_change_note": "2026-10-23 首轮基线"
+   "last_change_note": "2026-10-23 auto_home：内容变化：+4 −23 行"
   },
   "SA-002": {
    "last_change_note": "2026-10-23 首轮基线"
@@ -5628,7 +5632,7 @@
  },
  "SA-168/auto_home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "d55214c53c88533f7a5aed4268d821929c8592db",
   "summary": "3087 字符；首行：Anasayfa - Angora Networks",
@@ -5640,7 +5644,7 @@
  },
  "SB-473/feed_auto": {
   "kind": "rss",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "05deaab2c5edde024827c6314ee37a0d092415ee",
   "summary": "10 条；最新：Sat, 15 Aug 2026 09:00:45 Netaş, 2026’nın ilk yarısında gelirlerini ve kârlılığını artırdı",
@@ -5693,7 +5697,7 @@
  },
  "SA-169/auto_home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 0,
   "error": "ConnectionError: HTTPSConnectionPool(host='clendenan.ca', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='clendenan.ca', port=443): Failed to resolve 'clendenan.ca' ([",
   "items": {},
@@ -5703,9 +5707,9 @@
  },
  "SA-026/auto_home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
-  "hash": "6fe904b3cf93699ee97ad2d10ee9a87632be2c6b",
+  "hash": "d3e76576b8502fdd93182e18a13721276a1faad5",
   "summary": "7198 字符；首行：bitbuk.ru — официальный сайт производителя и импортера торговой техники и копьют",
   "final_url": "https://bitbuk.ru/",
   "items": {},
@@ -5715,7 +5719,7 @@
  },
  "SA-026/auto_sitemap": {
   "kind": "sitemap",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "97d170e1550eee4afc0af065b78cda302a97674c",
   "summary": "0 个 URL；最新 lastmod -",
@@ -5727,7 +5731,7 @@
  },
  "SA-026/auto_vk": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "bda4bb44f01e94c290681c7180ec80325a84e595",
   "summary": "7 字符；首行：‌",
@@ -5739,10 +5743,10 @@
  },
  "SA-026/auto_youtube": {
   "kind": "rss",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 404,
   "hash": "89c82188388a81f51a479ee7716636fb4e63730b",
-  "error": "HTTP 404",
+  "error": "YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过）",
   "final_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTOihFJ_tskxJEpzfKbJ95A",
   "items": {},
   "last_change_at": "2026-10-23T04:20:51Z",
@@ -5751,7 +5755,7 @@
  },
  "SA-011/auto_sitemap": {
   "kind": "sitemap",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "97d170e1550eee4afc0af065b78cda302a97674c",
   "summary": "0 个 URL；最新 lastmod -",
@@ -5763,10 +5767,10 @@
  },
  "SA-049/auto_youtube": {
   "kind": "youtube_handle",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 404,
   "hash": "89c82188388a81f51a479ee7716636fb4e63730b",
-  "error": "HTTP 404",
+  "error": "YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过）",
   "channel_id": "UCjrD-7j8HAjLoqBUgfyLgFw",
   "final_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjrD-7j8HAjLoqBUgfyLgFw",
   "items": {},
@@ -5776,7 +5780,7 @@
  },
  "SA-012/auto_home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "439f45d461e5024a0431f94c93e535027e985ae1",
   "summary": "2569 字符；首行：Go Green IT - Home",
@@ -5788,7 +5792,7 @@
  },
  "SA-001/auto_sitemap": {
   "kind": "sitemap",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "9f65f9ceb7b36c338cc55f62f08dd3b0e7902f34",
   "summary": "500 个 URL；最新 lastmod 2026-04-05T13:31:11",
@@ -6115,13 +6119,13 @@
     "date": "2026-01-13T16:31:01+00:00"
    }
   },
-  "last_change_at": "2026-10-23T04:57:18Z",
+  "last_change_at": "2026-10-23T06:51:07Z",
   "first_seen": "2026-10-23T04:20:51Z",
   "url": "https://asteldigicom.com/sitemap.xml"
  },
  "SA-001/auto_news_1": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 404,
   "hash": "89c82188388a81f51a479ee7716636fb4e63730b",
   "error": "HTTP 404",
@@ -6133,9 +6137,9 @@
  },
  "SC-1006/auto_home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 0,
-  "error": "ConnectTimeout: HTTPSConnectionPool(host='live.com.my', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='live.com.my', port=443) at 0x7f983cf06ab0>, 'Connection to liv",
+  "error": "ConnectTimeout: HTTPSConnectionPool(host='live.com.my', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='live.com.my', port=443) at 0x7ff3cd0199d0>, 'Connection to liv",
   "items": {},
   "last_change_at": "-",
   "first_seen": "2026-10-23T04:20:51Z",
@@ -6143,7 +6147,7 @@
  },
  "SA-006/feed_auto": {
   "kind": "rss",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "415dd0b24f86e99d30068b5673d7b28aa8e2deab",
   "summary": "10 条；最新：Fri, 28 Mar 2025 08:41:21 Homepage Banner Slide 4",
@@ -6196,7 +6200,7 @@
  },
  "SA-006/auto_sitemap": {
   "kind": "sitemap",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "09bb68151101d75257708871329fcced07542333",
   "summary": "8 个 URL；最新 lastmod -",
@@ -6241,7 +6245,7 @@
  },
  "SB-335/auto_sitemap": {
   "kind": "sitemap",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "2eab08330aa2d61628afc80d892836998ce0bea3",
   "summary": "15 个 URL；最新 lastmod -",
@@ -6314,7 +6318,7 @@
  },
  "SB-335/auto_news_1": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "6ad252c90c81774a876fb03bf372b5abd799c667",
   "summary": "782 字符；首行：პარტნიორები",
@@ -6326,7 +6330,7 @@
  },
  "SA-016/feed_auto": {
   "kind": "rss",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "23fa4855735ab4bfe4648a04736cb6bbbc1877db",
   "summary": "10 条；最新：Wed, 21 Oct 2026 06:50:05 IP, NEMA, CE, UL Ratings Explained",
@@ -6379,7 +6383,7 @@
  },
  "SA-016/auto_sitemap": {
   "kind": "sitemap",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "97d170e1550eee4afc0af065b78cda302a97674c",
   "summary": "0 个 URL；最新 lastmod -",
@@ -6391,7 +6395,7 @@
  },
  "SA-016/auto_news_1": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "13629d71b61d16613c003ac09dce106f5655cf86",
   "summary": "7517 字符；首行：Industrial Automation Blog | United Control Engineers",
@@ -6403,7 +6407,7 @@
  },
  "SA-016/auto_news_2": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "3ae10373d53b6e239a1b5a8ff169f57c48710538",
   "summary": "1665 字符；首行：Project - United Control Engineers India Pvt. Ltd.",
@@ -6415,10 +6419,10 @@
  },
  "SA-016/auto_youtube": {
   "kind": "rss",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 404,
   "hash": "89c82188388a81f51a479ee7716636fb4e63730b",
-  "error": "HTTP 404",
+  "error": "YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过）",
   "final_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCn-YzhIGfuNFKbOqk-45gaA",
   "items": {},
   "last_change_at": "2026-10-23T04:20:51Z",
@@ -6427,7 +6431,7 @@
  },
  "SA-007/auto_sitemap": {
   "kind": "sitemap",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "4e2fbadefc94718ab637d2cdc3330455d4ba49ae",
   "summary": "70 个 URL；最新 lastmod 2026-10-23",
@@ -6720,7 +6724,7 @@
  },
  "SA-007/auto_news_1": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "cf7cbdfaed45cbbbadebf9db7269b555606a01d2",
   "summary": "3753 字符；首行：News & Insights - XSPec Malaysia",
@@ -6732,7 +6736,7 @@
  },
  "SA-064/feed_auto": {
   "kind": "rss",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "fa1e056312f06204e72de9844d5159e11c817b8e",
   "summary": "10 条；最新：Wed, 21 Oct 2026 03:43:11 What Is PoE? A Complete Guide to Power over Ethernet",
@@ -6785,7 +6789,7 @@
  },
  "SA-064/auto_news_1": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "067be2bf84b1fe068ea69a8f5981c6e26f65ec7b",
   "summary": "4469 字符；首行：Blog - 52Networks Authorize partner With C2G, Tripplite, Transition, Startech an",
@@ -6797,19 +6801,19 @@
  },
  "SA-013/auto_home": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
-  "hash": "fedad1add330940c6b94274666e0e0aeef987d81",
-  "summary": "22143 字符；首行：Internetanbieter Rhein-Main – Glasfaser bis 10 Gbit/s | fiberONE",
+  "hash": "688fe74bb71fac602a2e6262abf74efff741f23a",
+  "summary": "21974 字符；首行：Internetanbieter Rhein-Main – Glasfaser bis 10 Gbit/s | fiberONE",
   "final_url": "https://fiberone.de/",
   "items": {},
-  "last_change_at": "2026-10-23T04:20:51Z",
+  "last_change_at": "2026-10-23T06:51:07Z",
   "first_seen": "2026-10-23T04:20:51Z",
   "url": "https://fiberone.de/"
  },
  "SA-013/auto_sitemap": {
   "kind": "sitemap",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "868eaf0642f0e0b2b6bef76e15c2efd72853009b",
   "summary": "49 个 URL；最新 lastmod -",
@@ -7006,7 +7010,7 @@
  },
  "SA-013/auto_news_1": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "f1694095d9b91cee5f24c00d3c311a6c9fc0179a",
   "summary": "1513 字符；首行：News — fiberONE | Aktuelles aus dem Glasfaser-Ausbau",
@@ -7018,7 +7022,7 @@
  },
  "SA-013/auto_news_2": {
   "kind": "html",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "80ed3526d122914910b7e1c88f11873c2a44e6f4",
   "summary": "2169 字符；首行：Referenzen — fiberONE | Glasfaser in Frankfurts Türmen & Quartieren",
@@ -110488,7 +110492,7 @@
  },
  "SA-049/feed_auto": {
   "kind": "rss",
-  "fetched_at": "2026-10-23T04:57:18Z",
+  "fetched_at": "2026-10-23T06:51:07Z",
   "status": 200,
   "hash": "70f5ca33d37699723bdddaeb36a1e525ba9829dd",
   "summary": "10 条；最新：Thu, 22 Oct 2026 11:01:10 STAINLESS STEEL ATM & KIOSK USB KEYPAD",

@@ -1,8 +1,8 @@
 # A/B 级客户 · 动态监控 · 当前状态（T29-U19）
 
-> 失败分类（最近一次状态）：HTTP 404 ×222；HTTP 403 ×68；SSLError: HTTPSConnectionPool ×54；ConnectionError: HTTPSConnectionPool ×24；ConnectTimeout: HTTPSConnectionPool ×17；ReadTimeout: HTTPSConnectionPool ×9；HTTP 500 ×8；RuntimeError: channelId not found ×8；HTTP 429 ×3；HTTP 468 ×2。403 = 站点反爬（运行器 IP 被拦，人工看）；404 = 页面/频道不存在或 YouTube 拦截；SSL/连接/DNS 错误 = 站点本身问题，连续多轮失败再从清单摘掉。
+> 失败分类（最近一次状态）：HTTP 404 ×222；HTTP 403 ×68；SSLError: HTTPSConnectionPool ×54；ConnectionError: HTTPSConnectionPool ×24；ConnectTimeout: HTTPSConnectionPool ×17；ReadTimeout: HTTPSConnectionPool ×9；HTTP 500 ×8；RuntimeError: channelId not found ×8；HTTP 429 ×3；HTTP 468 ×2。403 = 站点反爬（运行器 IP 被拦，人工看）；YouTube 404 = YouTube 对数据中心 IP 的拦截（设仓库 secret YT_API_KEY 后走官方 API）；其它 404 = 页面不存在；SSL/连接/DNS 错误 = 站点本身问题，连续多轮失败再从清单摘掉。
 
-> 本轮 2026-10-23T04:57:18Z。客户 1108 家 / 源 2624 个。清单 `scripts/web_watch/targets_auto.json`（discover.py 离线生成：首页 / sitemap / 新闻栏目 / YouTube / GitHub / Telegram / VK + 运行时自动发现的 feed）。变化见 `变化日志_AB.md`；每客户文本快照在 `snapshots/<客户码>/`。「最近变化」= 任一源最近一次内容变化的时间（首轮 = 基线时间）；「人工看」= 有登录墙的社媒，链接在 targets_auto.json 的 manual 字段。
+> 本轮 2026-10-23T06:51:07Z。客户 1108 家 / 源 2624 个。清单 `scripts/web_watch/targets_auto.json`（discover.py 离线生成：首页 / sitemap / 新闻栏目 / YouTube / GitHub / Telegram / VK + 运行时自动发现的 feed）。变化见 `变化日志_AB.md`；每客户文本快照在 `snapshots/<客户码>/`。「最近变化」= 任一源最近一次内容变化的时间（首轮 = 基线时间）；「人工看」= 有登录墙的社媒，链接在 targets_auto.json 的 manual 字段。
 
 | 客户 | 级 | 源数 | 本轮可达/失败 | 最近变化 | 最近变化摘要 | 人工看 |
 |---|---|---|---|---|---|---|

@@ -1,4 +1,4 @@
-# SA-013 NYNEX satellite OHG / fiberONE（达姆施塔特）—— GitHub 部分见 scripts/github_watch · auto_home · https://fiberone.de/ · fetched 2026-10-23T04:57:18Z · HTTP 200
+# SA-013 NYNEX satellite OHG / fiberONE（达姆施塔特）—— GitHub 部分见 scripts/github_watch · auto_home · https://fiberone.de/ · fetched 2026-10-23T06:51:07Z · HTTP 200
 Internetanbieter Rhein-Main – Glasfaser bis 10 Gbit/s | fiberONE
 fiber ONE
 Tarife
@@ -14,7 +14,6 @@ Home Speed Home ®
 Lichtgeschwindigkeit,
 wo du zu Hause bist.
 Glasfaser-Internet bis 10 Gbit/s – deine eigene Faser, dein eigener Anschluss
-Maustaste gedrückt halten — und die Photonen in den Warp schicken
 In Frankfurt steht einer der größten Internetknoten der Welt — wir legen ihn dir bis vor den Router. Echte Glasfaser bis in die Wohnung, bis zu 10 Gbit/s, Upload so schnell wie der Download.
 Von einer KI-Empfehlung hierher? Prüf direkt, ob fiberONE-Glasfaser bei dir verfügbar ist.
 Tarife ansehen
@@ -23,9 +22,6 @@ Ort
 Straße und Hausnummer
 Hausnummer mit angeben
 Verfügbarkeit prüfen
-1 Gbit/s
-5 Gbit/s
-10 Gbit/s
 > 25 Jahre
 Erfahrung mit kritischer Netz-Infrastruktur
 10 Gbit/s
@@ -150,6 +146,9 @@ Dienstneutral & providerunabhängig — alle Provider nutzen dasselbe Netz paral
 Plug & Play ohne Spleißarbeiten — vorkonfektionierte, gepanzerte Leitungen und standardisierte Komponenten, professionell OTDR-gemessen.
 Wertsteigerung als Asset — ein zukunftsoffenes Netz ist ein Alleinstellungsmerkmal am Immobilienmarkt und ein Vermietungsargument, das bleibt.
 Klare Kosten ab 75 € je Wohneinheit — transparent kalkulierbar, keine versteckten Kosten, keine langfristigen Bindungen. Bewohner surfen ab 30 €/Monat * mit 1 Gbit/s symmetrisch.
+FOUR Frankfurt
+© OpenStreetMap-Mitwirkende
+Animiertes Laser-Hologramm des FOUR Frankfurt auf dem Lageplan aus OpenStreetMap: Vier Glasfaser-Zuleitungen aus Nord, Ost, Süd und West – zwei aus dem Netz der Stadt, zwei von einem zweiten Netzbetreiber – speisen an vier Punkten in einen Glasfaserring ein, der das ganze Ensemble umschließt. Jeder der vier Türme (T1 233 m, T2 173 m, T3 120 m, T4 100 m) hat einen eigenen Anschluss aus dem Ring und ist zusätzlich mit dem Zentralverteiler im Untergeschoss verbunden; im Turmkern führt die Glasfaser in jede Etage. Trassenführung schematisch.
 4 statt 1 Faser. Freiheit statt Monopol.
 Providerproprietäre Netze sind fast immer 1-Faser-Lösungen: ein Anbieter, dessen Maximaltempo, keine Wahlfreiheit. Unsere Antwort sind vier betriebsbereite Glasfasern pro Wohneinheit — jede unabhängig nutzbar.
 1
@@ -170,23 +169,6 @@ Direkte Datenleitung ins UG: Storage, Kellerdienste, Weinkühlschrank, Oldtimer-
 Faser 4
 Flexibel nutzbar
 Zweiter Provider, Verbindung zweier Apartments bei Zusammenlegung — oder Reserve für morgen.
-Die Architektur: zentral versorgbar, dezentral gedacht.
-Vorkonfektionierte Leitungen führen von jedem Multimediaverteiler ins Treppenhaus-Patchpanel, eine 48-Fasern-Stammleitung bündelt alles im Hausanschlussraum. Der Kniff: Dort sind alle vier Fasern jeder Wohnung zentral versorg- und verschaltbar.
-Wohneinheit
-4 Fasern
-→
-Patchpanel
-Treppenhaus · 19"
-→
-Stammleitung
-48 Fasern
-→
-HAR
-zentral · 12 × 4 Ports
-→
-Provider
-1, 2, 3 … & TV
-Nebenbei ermöglicht das Netz Ethernet-Technikraumverbindungen mit mindestens 85 % Einsparung gegenüber herkömmlicher Nachtragserrichtung — ein zusätzliches Asset für Eigentümer und Investoren.
 Referenzen aus dem Rhein-Main-Gebiet.
 Vom Stadtquartier bis zum 233-Meter-Turm: Auf fiberONE-Infrastruktur laufen bereits mehrere tausend Wohnungen — darunter einige der größten und ambitioniertesten Bauprojekte Europas. Als Bauherr oder Projektentwickler sind Sie damit in bester Gesellschaft: Wir realisieren die Netzebene 4 für Vorhaben, bei denen Zukunftssicherheit keine Option, sondern Voraussetzung ist.
 ‹
@@ -331,7 +313,6 @@ Referenzen
 Karriere
 News
 Presse
-Space Invaders
 Kontakt
 Support
 Speedtest
@@ -365,5 +346,5 @@ Anfrage absenden
 Im E-Mail-Programm öffnen →
 ✕
 Projekt ansehen →
-Wir verwenden ausschließlich technisch notwendige lokale Speicherung (z. B. für den Tag-/Nacht-Modus und das Arcade-Spiel) — keine Tracking- oder Werbe-Cookies . Mehr dazu in der Datenschutzerklärung .
+Wir verwenden ausschließlich technisch notwendige lokale Speicherung (z. B. für den Tag-/Nacht-Modus) — keine Tracking- oder Werbe-Cookies . Mehr dazu in der Datenschutzerklärung .
 Verstanden
