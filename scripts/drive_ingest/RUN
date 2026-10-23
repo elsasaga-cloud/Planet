@@ -4,10 +4,12 @@
 # - JOB=files / OUT_NAME=<目录名> / SOURCE_IDS=<Drive 文件 ID,…> → 转交 scripts/drive_ingest/files_job.py（单个文件/压缩包全保真抽取到 data/<OUT_NAME>/）；
 #   再跑 Drive 任务前要把 JOB 行删掉或注释掉。
 # - JOB=drive / INDEX=<索引 json> / OUT_DIR=<输出目录> / RELEASE_TAG=<Release 标签> / JOB_LABEL=<提交说明前缀> → 用别的索引跑同一套 Drive 任务（T29-U8 供应商文件夹第二轮）。
-# last trigger: 2026-10-23T01:09:35Z  purpose: T29-U17 / PR-02-29：A 邮箱（a.sagatelecom）Takeout 12 GB mbox 入库第 3 次触发（10-22 09:34Z 因 Drive 匿名下载配额锁中止；Simon 10-23 01:0x Z 指示「应该可以了 试试」）。Extra Info.zip 在本任务结束后再单独触发（避免并发队列取消）。Drive 第三轮 850 个配额锁文件之后再续跑（同 RUN 块，去掉 JOB=gmail）。
-JOB=gmail
-ACCOUNT=a
-SOURCE_IDS=1x28oQvGH12hJJ3CbbLmKy8xkgThyD_JH
-BULK_MODE=full
+# last trigger: 2026-10-23T01:22:53Z  purpose: T29-U17 / PR-02-29：排队《Extra Info.zip》(4.36 GB) 全保真入库第 4 次（10-22 三次均被 Drive 匿名下载配额锁中止；A 邮箱任务 01:09Z 触发、已在运行 >13 min 未中止，故现在排队，按并发组规则在其后自动执行）。若仍遇配额页则 ≥09:50Z 再重触发。
+JOB=files
+OUT_NAME=extra_info_2026-10
+TITLE=Simon 补充资料《Extra Info.zip》（2026-10-22 上传到 Elsa 云盘，4.36 GB）
+SOURCE_IDS=1fDsDkyUEoBOXPFN8dgXQ9yu91HXTBTA4
+SOURCE_MD5=41acb139a25ae2599b72b7b2522deb5e
 OCR=1
 OCR_MIN_KB=8
+WORKERS=4
