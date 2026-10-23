@@ -383,13 +383,19 @@ def compare(prev, cur, kind):
             if pp.get(k) != cp.get(k):
                 changed = True
                 notes.append(f'档案 {k}：{pp.get(k)!r} → {cp.get(k)!r}')
-    if kind in ('html', 'json') and prev.get('hash') != cur.get('hash') and cur.get('hash'):
-        changed = True
+    if kind in ('html', 'json') and prev.get('hash') != cur.get('hash') and cur.get('hash') \
+            and not cur.get('error') and not prev.get('error'):
+        # 只在「上轮 OK → 本轮 OK」之间比内容；进入/离开错误态的那一轮只记状态变化（第二轮 indiamart 429 曾被记成 −109 行）
         a = (prev.get('text') or '').split('\n')
         b = (cur.get('text') or '').split('\n')
         d = [ln for ln in difflib.unified_diff(a, b, lineterm='', n=0) if ln[:1] in '+-' and ln[:3] not in ('+++', '---')]
-        adds = sum(1 for x in d if x.startswith('+'))
-        dels = sum(1 for x in d if x.startswith('-'))
+        adds_l = sorted(x[1:] for x in d if x.startswith('+'))
+        dels_l = sorted(x[1:] for x in d if x.startswith('-'))
+        if adds_l == dels_l:
+            # 纯重排（轮播 / 随机推荐顺序）：不算变化，不写日志（第二轮 Astel 首页 HOT 轮播 +3 −3 同内容）
+            return notes, changed
+        changed = True
+        adds, dels = len(adds_l), len(dels_l)
         notes.append(f'内容变化：+{adds} −{dels} 行')
         for ln in d[:14]:
             notes.append('    ' + ln[:160])

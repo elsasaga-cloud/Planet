@@ -458,13 +458,6 @@
    "label": "gg",
    "sources": [
     {
-     "id": "site_feed",
-     "kind": "rss",
-     "url": "https://fastball.in/feed/",
-     "note": "WordPress RSS（2023 起 AI 话术改版）",
-     "url_fallback": "https://fastball.in/?feed=rss2"
-    },
-    {
      "id": "home",
      "kind": "html",
      "url": "https://fastball.in/",
@@ -478,7 +471,12 @@
     }
    ],
    "manual": [
-    "TradeIndia 店铺；GST 07AJJPR5445G1ZX，个体 proprietorship 2021"
+    "TradeIndia 店铺；GST 07AJJPR5445G1ZX，个体 proprietorship 2021",
+    {
+     "label": "站点无 RSS（/feed/ 404、?feed=rss2 返回 HTML）",
+     "url": "https://fastball.in/",
+     "note": "2026-10-23 第二轮确认无 feed，首页整页监控已覆盖"
+    }
    ]
   },
   {
