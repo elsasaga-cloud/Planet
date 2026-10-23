@@ -4,11 +4,13 @@
 # - JOB=files / OUT_NAME=<目录名> / SOURCE_IDS=<Drive 文件 ID,…> → 转交 scripts/drive_ingest/files_job.py（单个文件/压缩包全保真抽取到 data/<OUT_NAME>/）；
 #   再跑 Drive 任务前要把 JOB 行删掉或注释掉。
 # - JOB=drive / INDEX=<索引 json> / OUT_DIR=<输出目录> / RELEASE_TAG=<Release 标签> / JOB_LABEL=<提交说明前缀> → 用别的索引跑同一套 Drive 任务（T29-U8 供应商文件夹第二轮）。
-# last trigger: 2026-10-23T03:12:29Z  purpose: T29-U18 续：A 邮箱第 4 次（排在 Extra Info 第 5 次之后；Extra Info 02:58:41Z 开跑、03:01:56Z 原件 3 卷已上 Release files-extra_info_2026-10 = 下载通过，现处于解包/抽取/OCR）。A 文件（Simon 云盘，13,371,933,112 B）02:21Z 刚被 QUOTA_LOCKED，若轮到时仍锁会立即中止（无损失）；若已解锁则开始下载，被打断时自动把已下载部分暂存 Release partial-gmail-a，下次同参数重跑自动续传。SOURCE_MD5 来自 Drive 连接器 get_file。
-JOB=gmail
-ACCOUNT=a
-SOURCE_IDS=1x28oQvGH12hJJ3CbbLmKy8xkgThyD_JH
-SOURCE_MD5=9da2c3c6bc5be881aa52fc133a1c2cd2
-BULK_MODE=full
+# last trigger: 2026-10-23T03:18:02Z  purpose: 《Extra Info.zip》第 6 次 —— 第 5 次（02:58Z 起）下载+md5+Release 备份 3 卷全部成功（03:01:56Z），之后在解包/抽取阶段无声死亡（无任何提交；A 任务 03:12Z 能立即开跑说明它 ≤14 min 内已结束）。本次：原件直接取自 Release files-extra_info_2026-10（SOURCE_RELEASE，不再碰 Drive / 不占配额），WORKERS 4→2 降内存，抽取阶段每 10 min 提交进度，崩溃也提交 traceback。A 邮箱第 4 次 03:14:33Z 仍 QUOTA_LOCKED（02:21Z 起锁），≥15–24 h 后再触发。
+JOB=files
+OUT_NAME=extra_info_2026-10
+TITLE=Simon 补充资料《Extra Info.zip》（2026-10-22 上传到 Elsa 云盘，4.36 GB）
+SOURCE_RELEASE=files-extra_info_2026-10
+SOURCE_MD5=41acb139a25ae2599b72b7b2522deb5e
 OCR=1
 OCR_MIN_KB=8
+WORKERS=2
+CHECKPOINT_MIN=10

@@ -18,6 +18,12 @@ RUN 里的 KEY=VALUE（经 maybe_dispatch_run_file 传入环境）：
   WORKERS        抽取并发（默认 4）
   BACKUP         1 = 原件上传 Release files-<OUT_NAME>（默认 1）
   LOCAL_FILES    本地测试：逗号分隔的本地路径（代替 SOURCE_IDS）
+  SOURCE_RELEASE 备选来源：从本仓库 Release <tag> 下载原件（上次运行已备份到 files-<OUT_NAME> 时用，分卷 .partNN 自动合并；
+                 不再碰 Drive，不占 Drive 下载配额；仍按 SOURCE_MD5 校验）
+  CHECKPOINT_MIN 抽取阶段每隔多少分钟提交一次进度（默认 10；2026-10-23 Extra Info 第 5 次运行在抽取阶段无声死亡、无任何提交后加）
+
+崩溃处理（2026-10-23）：main() 外层捕获一切异常 → _run_status.md 写 CRASH + traceback 并提交；抽取阶段每 CHECKPOINT_MIN 分钟
+把已完成的 manifest / 进度提交一次（即便之后被 OOM 杀掉，也能看到走到哪）。
 """
 import hashlib
 import importlib.util
@@ -42,6 +48,8 @@ RAW_DIR = os.environ.get('RAW_DIR') or '/tmp/files_raw'
 SOURCE_IDS = [x.strip() for x in os.environ.get('SOURCE_IDS', '').split(',') if x.strip()]
 SOURCE_MD5 = [x.strip().lower() for x in os.environ.get('SOURCE_MD5', '').split(',')]
 LOCAL_FILES = [x.strip() for x in os.environ.get('LOCAL_FILES', '').split(',') if x.strip()]
+SOURCE_RELEASE = (os.environ.get('SOURCE_RELEASE') or '').strip()
+CHECKPOINT_MIN = float(os.environ.get('CHECKPOINT_MIN', '10'))
 TITLE = os.environ.get('TITLE') or f'Drive 文件入库：{OUT_NAME}'
 OCR = os.environ.get('OCR', '1') == '1'
 OCR_MIN_KB = float(os.environ.get('OCR_MIN_KB', '8'))
@@ -140,8 +148,42 @@ def resolve_sources():
     os.makedirs(RAW_DIR, exist_ok=True)
     if LOCAL_FILES:
         return [(os.path.basename(p), p) for p in LOCAL_FILES]
+    if SOURCE_RELEASE:
+        d = os.path.join(RAW_DIR, 'release')
+        shutil.rmtree(d, ignore_errors=True)
+        os.makedirs(d, exist_ok=True)
+        log('source: Release', SOURCE_RELEASE)
+        r = run(['gh', 'release', 'download', SOURCE_RELEASE, '-D', d, '--clobber'], timeout=7200)
+        if r.returncode != 0:
+            abort(3, f'release download failed ({SOURCE_RELEASE}): ' + (r.stderr or r.stdout)[-300:])
+        parts = defaultdict(list)
+        for fn in sorted(os.listdir(d)):
+            m = re.fullmatch(r'(.+)\.part(\d+)', fn)
+            if m:
+                parts[m.group(1)].append(fn)
+        for base, fns in parts.items():
+            with open(os.path.join(d, base), 'wb') as w:
+                for fn in sorted(fns):
+                    with open(os.path.join(d, fn), 'rb') as rf:
+                        shutil.copyfileobj(rf, w, 1 << 20)
+                    os.remove(os.path.join(d, fn))
+        paths = [(fn, os.path.join(d, fn)) for fn in sorted(os.listdir(d)) if not fn.endswith('.json')]
+        if not paths:
+            abort(3, f'Release {SOURCE_RELEASE} has no usable assets')
+        want = [x for x in SOURCE_MD5 if re.fullmatch(r'[0-9a-f]{32}', x or '')]
+        if want and len(paths) == 1:
+            h = hashlib.md5()
+            with open(paths[0][1], 'rb') as f:
+                for chunk in iter(lambda: f.read(1 << 22), b''):
+                    h.update(chunk)
+            log(f'md5 {paths[0][0]}: {h.hexdigest()} {"==" if h.hexdigest() == want[0] else "!="} {want[0]}')
+            if h.hexdigest() != want[0]:
+                abort(3, f'Release copy md5 mismatch: {h.hexdigest()} != {want[0]}（Release {SOURCE_RELEASE} 的分卷不完整？）')
+        for name, p in paths:
+            log('source', name, os.path.getsize(p), 'bytes (from Release)')
+        return paths
     if not SOURCE_IDS:
-        abort(1, 'no source: set SOURCE_IDS (or LOCAL_FILES)')
+        abort(1, 'no source: set SOURCE_IDS (or LOCAL_FILES / SOURCE_RELEASE)')
     dm = drive_mod()
     import requests
     paths = []
@@ -334,6 +376,10 @@ def coverage(manifest):
 
 
 def backup(paths, manifest):
+    if SOURCE_RELEASE and SOURCE_RELEASE == RELEASE_TAG:
+        manifest['backup'] = {name: {'release': RELEASE_TAG, 'ok': True, 'note': '原件本就来自该 Release（上次运行已备份），本次不再上传', 'at': now()} for name, _ in paths}
+        log('backup skipped: source is the backup release itself')
+        return
     if not BACKUP or not have('gh'):
         return
     r = run(['gh', 'release', 'view', RELEASE_TAG], timeout=120)
@@ -440,7 +486,25 @@ def main():
         uniq.append(it)
     log(f'members: {len(items)} ({len(uniq)} unique)')
 
-    # 抽取
+    # 抽取（每 CHECKPOINT_MIN 分钟提交一次进度：manifest 现状 + _run_status.md 一行，防止无声死亡后一无所有）
+    def checkpoint(done_n, final=False):
+        manifest['meta']['checkpoint'] = now()
+        write_json(os.path.join(OUT, 'manifest.json'), manifest)
+        st = Counter(f['status'] for f in manifest['files'])
+        line = (f'- {now()} 进度：抽取 {done_n}/{len(uniq)}（ok {st.get("ok", 0)} / meta {st.get("meta", 0)} / fail {st.get("fail", 0)} / dup {st.get("dup", 0)}），'
+                f'用时 {(time.time() - T0) / 60:.1f} min\n')
+        sp = os.path.join(OUT, '_run_status.md')
+        head = f'# {TITLE} · 运行状态\n\n'
+        prev = open(sp, encoding='utf-8').read() if os.path.exists(sp) else ''
+        if not prev.startswith(head) or '**ABORT' in prev or '**CRASH' in prev or '✅' in prev:
+            prev = head + f'- {now()} 本次运行开始（成员 {len(items)}，唯一 {len(uniq)}，来源 {"Release " + SOURCE_RELEASE if SOURCE_RELEASE else "Drive"}，WORKERS={WORKERS}）\n'
+        with open(sp, 'w', encoding='utf-8') as f:
+            f.write(prev + line)
+        if not final:
+            git_commit_push(f'files({OUT_NAME}) 进度 {done_n}/{len(uniq)}')
+
+    checkpoint(0)
+    last_ck = time.time()
     with ThreadPoolExecutor(max_workers=WORKERS) as pool:
         futs = {pool.submit(extract_one, it, dm): it for it in uniq}
         done = 0
@@ -453,6 +517,9 @@ def main():
             done += 1
             if done % 25 == 0:
                 log(f'extracted {done}/{len(uniq)}')
+            if time.time() - last_ck >= CHECKPOINT_MIN * 60:
+                checkpoint(done)
+                last_ck = time.time()
     manifest['files'].sort(key=lambda x: x['path'])
     manifest['meta']['finished'] = now()
     write_json(os.path.join(OUT, 'manifest.json'), manifest)
@@ -465,4 +532,21 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    try:
+        main()
+    except SystemExit:
+        raise
+    except BaseException as e:  # noqa
+        import traceback
+        tb = traceback.format_exc()[-1500:]
+        log('CRASH', tb)
+        try:
+            os.makedirs(OUT or os.path.join(ROOT, 'data', '_files_job'), exist_ok=True)
+            sp = os.path.join(OUT or os.path.join(ROOT, 'data', '_files_job'), '_run_status.md')
+            prev = open(sp, encoding='utf-8').read() if os.path.exists(sp) else f'# {TITLE} · 运行状态\n\n'
+            with open(sp, 'w', encoding='utf-8') as f:
+                f.write(prev + f'- {now()} **CRASH**：{type(e).__name__}: {str(e)[:300]}\n\n```\n{tb}\n```\n')
+            git_commit_push(f'files({OUT_NAME}) 崩溃：{type(e).__name__}: {str(e)[:60]}')
+        except Exception as e2:  # noqa
+            log('crash note failed', e2)
+        sys.exit(9)
