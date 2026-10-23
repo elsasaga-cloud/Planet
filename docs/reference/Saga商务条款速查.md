@@ -3,7 +3,7 @@
 > 依据：Google Drive `MUST KNOW/` 12 份 PDF（2026-02 版，英文原文见 `docs/drive/MUST-KNOW/`）+ `Certification/` 索引。本表是**给写邮件/回客户问题时查的中文摘要**，对外引用请以英文原文为准。  
 > 与仓库既有规则冲突处用 ⚠ 标出，并在 `docs/requirements/待统一处理问题清单.md` 立项，裁决前按仓库规则执行。  
 > 更新：2026-10-20（T13 建；T14 按 SmartByte 官网改写保修/DOA/OEM 条目）。  
-> **真源优先级（T14 用户裁定）**：SmartByte 官网（2026-09 改版） > SmartByte 2026-09 价格表 > Saga Drive（2026 Q3 旧版）。官网摘录见 `docs/smartbyte/公司与政策页_2026-10-20.md`。
+> **真源优先级（T14 用户裁定）**：SmartByte 官网（2026-09 改版） > SmartByte 2026-09 价格表 > Saga Drive（2026 Q3 旧版）。 **Realtek 线进价真源** = 《洪瑞报价-天龙2026930.xls》（2026-09-30，`docs/reference/价格表_HRUI_三档加价_USD.md`）> PI 包采购合同成交价 > 微信口径。官网摘录见 `docs/smartbyte/公司与政策页_2026-10-20.md`。
 
 ## 1. 交期与起订
 | 项目 | 口径 | 原文出处 |
