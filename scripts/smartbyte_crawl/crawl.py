@@ -1540,8 +1540,9 @@ def _run_customer_watch():
         log(f"[watch] exit {r.returncode}")
     except Exception as e:  # noqa: BLE001
         log(f"[watch] failed: {e!r}")
-    for d in ("downloads", "images"):
-        os.makedirs(os.path.join(BIN, d), exist_ok=True)  # 工作流的 zip 步骤要 cd 进 BIN
+    # 只建 BIN 本身、不建 downloads/images 子目录：工作流的 zip 步骤 `cd crawl_bin` 能过、`zip -qr … downloads || true` 产不出 zip，
+    # Release 步骤就按「no zips」跳过 —— 首轮（02:53Z）因建了空子目录而生成了只有 170/164 字节空 zip 的 smartbyte-site-20261023 发布，已删。
+    os.makedirs(BIN, exist_ok=True)
 
 
 if __name__ == "__main__":
