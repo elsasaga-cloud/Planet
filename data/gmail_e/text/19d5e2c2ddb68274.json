@@ -32,6 +32,6 @@
   }
  ],
  "text_source": "text/plain",
- "fetched": "2026-10-23T06:28Z",
+ "fetched": "2026-10-23T06:26Z",
  "method": "Arena Gmail connector get_message_text(include_quoted=false)"
 }

@@ -1,0 +1,27 @@
+{
+ "id": "19b9bedc8da5cc89",
+ "thread_id": "19b93785b92fcb0f",
+ "message_id_header": "<PN6P287MB4961F95BD3A060B66AEC17B7E085A@PN6P287MB4961.INDP287.PROD.OUTLOOK.COM>",
+ "from": "Shantanu Kumar <shantanu.kumar@hfcl.com>",
+ "to": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "cc": null,
+ "subject": "Re: OEM Core Switching Solution",
+ "date": "Thu, 8 Jan 2026 04:46:43 +0000",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Hi Team,\n\nHow we will handle MII 60 percent.\n\nThanks And Regards\n\nShantanu Rana\n\nDGM– Key Strategic Accounts\n\nContact No. +91 98211 96123",
+ "char_count": 149,
+ "attachments": [
+  {
+   "filename": "8C48XF.png",
+   "mime_type": "image/png",
+   "size": 191947
+  }
+ ],
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:29Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

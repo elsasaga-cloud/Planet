@@ -1,0 +1,27 @@
+{
+ "id": "19c5be3fd4a6af14",
+ "thread_id": "19c5175d83b1fafa",
+ "message_id_header": "<CAKzdG1=mM46TWea3=sQChujZTH9Tb=sjdJgKR6Z-pEjxbRi6jQ@mail.gmail.com>",
+ "from": "Dhaka Network <dhakanetworkltd@gmail.com>",
+ "to": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "cc": null,
+ "subject": "Re: DWDM Core Switching Solution",
+ "date": "Sat, 14 Feb 2026 17:16:44 +0600",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Where your contact number?\n\nOn Fri, Feb 13, 2026 at 10:33 AM Elsa from Saga Telecom <\ne.sagatelecom@gmail.com> wrote:",
+ "char_count": 120,
+ "attachments": [
+  {
+   "filename": "8C48XF.png",
+   "mime_type": "image/png",
+   "size": 191947
+  }
+ ],
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:28Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

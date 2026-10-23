@@ -1,0 +1,43 @@
+{
+ "id": "19a9b50c3281fb49",
+ "thread_id": "19a195674b1de4f8",
+ "message_id_header": "<TYZPR06MB431990E69B111330DD8082BEA8D7A@TYZPR06MB4319.apcprd06.prod.outlook.com>",
+ "from": "BluBoxx Communication Pvt. Ltd. <sales@bbcpl.in>",
+ "to": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>, support@sislinfotech.com",
+ "cc": null,
+ "subject": "Re: Industrial PoE Switch",
+ "date": "Wed, 19 Nov 2025 08:51:52 +0000",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Dear Sir,\nPlease check the attached datasheet and price. If the product matches your requirement, kindly share the quantity and basic details.\n\nModel :-IGS-5225-4P2S\nDescription :-IP40 Industrial L2+/L4 4-Port 1000T 802.3at PoE + 2-Port 100/1000X SFP Full Managed Switch (-40 to 75 C, dual redundant power input on 48~56VDC terminal block, ERPS Ring, 1588, Modbus TCP, ONVIF, supports CloudViewer app, MQTT and Cybersecurity features)\nPrice :- RS 40734/- + GST + Freight Extra (EACH)\nDelivery :- 3-5 Weeks From Date of PO\n\nDear Sir / Mam,\nPlease share following details to process further,\n\nCompany Name:\nCompany Address , pincode  :\nContact Persons Name:\nEmail:\nMobile No. :\nGST. No :\nfor quotation Purpose\n\nBest Regards,\nPooja Marlapalle\n\n[cid:8b4a8d37-7704-494b-a29c-f93ffe413f06]\n\nWe help you Connect !!\n\nBluBoxx Communication Pvt. Ltd.\nAn ISO 9001:2015 Certified Company\n102/B, Surekha Apartment, Pune Satara Road,\nPune- 411037. Maharashtra, India.\nMob: +91 7875432180 E-mail: sales@bbcpl.in<mailto:sales@bbcpl.in> Web: www.bbcpl.in<http://www.bbcpl.in/>\n[cid:013c6945-e2e3-4101-816a-1a429298529e]",
+ "char_count": 1139,
+ "attachments": [
+  {
+   "filename": "Outlook-u1maopbd.jpg",
+   "mime_type": "image/jpeg",
+   "size": 3895
+  },
+  {
+   "filename": "Outlook-5nocf0hr.png",
+   "mime_type": "image/png",
+   "size": 40013
+  },
+  {
+   "filename": "Outlook-DIN Rail U.jpg",
+   "mime_type": "image/jpeg",
+   "size": 199199
+  },
+  {
+   "filename": "C-IGS-5225-4P2Sv2_L.pdf",
+   "mime_type": "application/pdf",
+   "size": 6045220
+  }
+ ],
+ "note": "BluBoxx 是 PLANET 印度经销商，把 Elsa 的来信当成询价，反向报价 PLANET IGS-5225-4P2S（₹40,734 + GST）——可作 PLANET 印度渠道价格参考",
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:29Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

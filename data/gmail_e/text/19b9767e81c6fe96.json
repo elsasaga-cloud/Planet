@@ -1,0 +1,27 @@
+{
+ "id": "19b9767e81c6fe96",
+ "thread_id": "19b93745fa8f470d",
+ "message_id_header": "<SEZPR04MB8150483047DB9ABF1E1A1642FF84A@SEZPR04MB8150.apcprd04.prod.outlook.com>",
+ "from": "Amol Kumar <ak@impulsecctv.com>",
+ "to": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>, info@impulsecctv.com",
+ "cc": null,
+ "subject": "Re: OEM Core Switching Solution",
+ "date": "Wed, 7 Jan 2026 07:42:03 +0000",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "pls share your company website and your address...\n\nFrom: Elsa from Saga Telecom <e.sagatelecom@gmail.com>\nDate: Wednesday, 7 January 2026 at 12:51 PM\nTo: info@impulsecctv.com <info@impulsecctv.com>\nSubject: OEM Core Switching Solution\n\nHi,\nHow are you?\nI am introducing our CENTEC-based core and aggregation switches.\n1, A cost-effective alternative to Cisco or Huawei models\n2, Multiple models(10G~800G) available for various network scales\n3, Full L3 features(VXLAN, EVPN, MPLS, Stacking etc.) suitable for core and aggregation layers\n4, OEM/white-label support(branding, model name etc.)\n\nIf you are currently:\n1. Looking for an OEM-ready core switch\n2. Evaluating Cisco/Huawei alternatives\n3. Planning to build your own networking product line\nLet's talk.\nThank you.\n\n[8C48XF.png]\n--\nElsa\nSaga Telecom, OEM Factory\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+ "char_count": 957,
+ "attachments": [
+  {
+   "filename": "8C48XF.png",
+   "mime_type": "image/png",
+   "size": 191947
+  }
+ ],
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:29Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

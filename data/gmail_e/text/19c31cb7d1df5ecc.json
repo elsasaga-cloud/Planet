@@ -1,0 +1,22 @@
+{
+ "id": "19c31cb7d1df5ecc",
+ "thread_id": "19ba6888abde34c0",
+ "message_id_header": "<CAHZ04TXRBGbV6_aKuizL6EccxFHfv7Mg4JH3ewopVAyed4zqaw@mail.gmail.com>",
+ "from": "sales eurotech <sales@eurotechindia.com>",
+ "to": "e.sagatelecom@gmail.com",
+ "cc": null,
+ "subject": "Re: OEM Core Switching Solution",
+ "date": "Thu, 5 Feb 2026 23:12:24 -0800",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "",
+ "char_count": 0,
+ "attachments": [],
+ "note": "连接器返回空正文（text/html，char_count=0）——可能为纯 HTML/图片内容；待 Takeout 补全",
+ "text_source": "text/html",
+ "fetched": "2026-10-23T06:28Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

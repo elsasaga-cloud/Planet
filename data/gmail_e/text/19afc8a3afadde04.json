@@ -1,0 +1,27 @@
+{
+ "id": "19afc8a3afadde04",
+ "thread_id": "19ae974924d531e1",
+ "message_id_header": "<SEZPR06MB628746AF4C9B5CFD96549600A7A2A@SEZPR06MB6287.apcprd06.prod.outlook.com>",
+ "from": "Ravi Prakash <ravi@apolloinfoways.in>",
+ "to": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>, info@apolloinfoways.in",
+ "cc": null,
+ "subject": "Re: Booster PoE Switch",
+ "date": "Mon, 8 Dec 2025 05:58:20 +0000",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "How about Console port and management ports.\n\nRavi",
+ "char_count": 52,
+ "attachments": [
+  {
+   "filename": "Booster PoE Switch.png",
+   "mime_type": "image/png",
+   "size": 477992
+  }
+ ],
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:29Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

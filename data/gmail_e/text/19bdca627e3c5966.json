@@ -1,0 +1,27 @@
+{
+ "id": "19bdca627e3c5966",
+ "thread_id": "19b9374cc6812c33",
+ "message_id_header": "<01d201dc8a39$eb59eba0$c20dc2e0$@devray.in>",
+ "from": "Yogendra Rajput <yogendra.rajput@devray.in>",
+ "to": "'Elsa from Saga Telecom' <e.sagatelecom@gmail.com>, 'Yogendra Rajput' <yogendra.rajput@maplecloudtechnologies.com>",
+ "cc": null,
+ "subject": "RE: OEM Core Switching Solution",
+ "date": "Tue, 20 Jan 2026 23:53:42 +0530",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Dear Team,\n\nThank you.\n\nCould you please confirm whether you have an L3 Switch model with 8 GB RAM and 16 GB Flash available? If so, kindly share the detailed datasheet along with the pricing information.\n\nAdditionally, please let us know if it is possible to source or pick up the material from a manufacturing or supply location other than China.\n\nLooking forward to your response.\n\nRegards,\n\nYogendra Rajput\n\nFrom: Elsa from Saga Telecom <e.sagatelecom@gmail.com>\nSent: 20 January 2026 19:04\nTo: Yogendra Rajput <yogendra.rajput@maplecloudtechnologies.com>\nCc: sales@devray.in\nSubject: Re: OEM Core Switching Solution\n\nHi, Yogendra,\nPlease see attached information and let me know.\nWe are based in China.\nThank you.",
+ "char_count": 757,
+ "attachments": [
+  {
+   "filename": "image001.jpg",
+   "mime_type": "image/jpeg",
+   "size": 20606
+  }
+ ],
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:28Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

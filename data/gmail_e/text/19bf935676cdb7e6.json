@@ -1,0 +1,33 @@
+{
+ "id": "19bf935676cdb7e6",
+ "thread_id": "19ba33b134d2a930",
+ "message_id_header": "<042601dc8e95$88f82f70$9ae88e50$@ccs-msk.ru>",
+ "from": "Павел Карпов <pkarpov@ccs-msk.ru>",
+ "to": "'Elsa from Saga Telecom' <e.sagatelecom@gmail.com>",
+ "cc": null,
+ "subject": "RE: OEM Core Switching Solution",
+ "date": "Mon, 26 Jan 2026 10:29:40 +0300",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Hello!\n\nCan you provide Brocade switches?\n\nBest regards,\n\nPavel Karpov\n\n+7-495-926-86-95\n\n<mailto:pkarpov@ccs-msk.ru> pkarpov@ccs-msk.ru\n\n<http://www.ccs-msk.ru/>\n\n<http://www.ccs-msk.ru> www.ccs-msk.ru\n\nThis email transmission (and any of its attachments) may contain confidential, proprietary and/or privileged information. [...standard EN+RU confidentiality disclaimer omitted...]\n\nFrom: Elsa from Saga Telecom [mailto:e.sagatelecom@gmail.com]\nSent: Friday, January 23, 2026 10:49 AM\nTo: S.Markin@mip-sb.ru\nSubject: OEM Core Switching Solution\n\nHi,\n\nHow are you?\n\nI am introducing our CENTEC-based core and aggregation switches.\n\n1, A cost-effective alternative to Cisco or Huawei models\n\n2, Multiple models(10G~800G) available for various network scales\n\n3, Full L3 features(VXLAN, EVPN, MPLS, Stacking etc.) suitable for core and aggregation layers\n\n4, OEM/white-label support(branding, model name etc.)\n\nIf you are currently:\n\n1. Looking for an OEM-ready core switch\n\n2. Evaluating Cisco/Huawei alternatives\n\n3. Planning to build your own networking product line\n\nLet's talk.\n\nThank you.\n\n--\n\nElsa\n\nSaga Telecom, OEM Factory\n\nTailored Managed Networking Solutions Provider\n\nBuilt to Last, Continuous Supply, Evolving Together",
+ "char_count": 2390,
+ "attachments": [
+  {
+   "filename": "image003.jpg",
+   "mime_type": "image/jpeg",
+   "size": 3000
+  },
+  {
+   "filename": "image004.jpg",
+   "mime_type": "image/jpeg",
+   "size": 11430
+  }
+ ],
+ "note": "原邮件发往 S.Markin@mip-sb.ru，由 ccs-msk.ru 的 Pavel Karpov 回复；免责声明段落已省略",
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:28Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

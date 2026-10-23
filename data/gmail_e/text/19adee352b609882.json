@@ -1,0 +1,27 @@
+{
+ "id": "19adee352b609882",
+ "thread_id": "19acf68e729622e0",
+ "message_id_header": "<07cc01dc6381$5fbcc510$1f364f30$@maplecloudtechnologies.com>",
+ "from": "Yogendra Rajput <yogendra.rajput@maplecloudtechnologies.com>",
+ "to": "'Elsa from Saga Telecom' <e.sagatelecom@gmail.com>",
+ "cc": null,
+ "subject": "RE: Booster PoE Switch",
+ "date": "Tue, 2 Dec 2025 17:16:57 +0530",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Can you please share the complete product details also where are you based at?\n\nRegards,\n\nYogendra Rajput\n\nFrom: Elsa from Saga Telecom <e.sagatelecom@gmail.com>\nSent: 02 December 2025 12:50\nTo: sales@devray.in\nSubject: Booster PoE Switch\n\nHi,\n\nHow are you?\n\nThis is about our Marvell based managed switch with power boosting feature.\n\n1, Fiber: 4*100M/1G/2.5G/10G\n\n2, Copper: 8*1G RJ45/PoE, max 240W budget\n\n3, DC12-54V Booster to 54V\n\n4, Support DI/DO/RS485, USB, Alarm, fiber bypass\n\n5, Customizable Web GUI\n\nIs it useful to you?\n\nThank you.\n\n--\n\nElsa\n\nSaga Telecom/OEM Factory\n\nConnecting, Converting, Creating\n\nTailored Marvell Managed Networking Solutions Provider",
+ "char_count": 744,
+ "attachments": [
+  {
+   "filename": "image001.png",
+   "mime_type": "image/png",
+   "size": 379169
+  }
+ ],
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:29Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

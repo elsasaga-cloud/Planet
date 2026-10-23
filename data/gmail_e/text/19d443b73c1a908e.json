@@ -1,0 +1,27 @@
+{
+ "id": "19d443b73c1a908e",
+ "thread_id": "19d2e8790a06ebf5",
+ "message_id_header": "<01d101dcc118$2591cbc0$70b56340$@maplecloudtechnologies.com>",
+ "from": "Yogendra Rajput <yogendra.rajput@maplecloudtechnologies.com>",
+ "to": "'Elsa from Saga Telecom' <e.sagatelecom@gmail.com>, 'DevRay Sales' <sales@devray.in>",
+ "cc": null,
+ "subject": "RE: Marvell Managed Commercial Switches",
+ "date": "Tue, 31 Mar 2026 19:40:36 +0530",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Ok Great, can you share me the Data sheets along with the costing and we are interested in SKD.\n\nThanks & Regards\n\nYogendra Rajput\n\n+91-9739995151\n\nFrom: Elsa from Saga Telecom <e.sagatelecom@gmail.com>\nSent: 31 March 2026 19:25\nTo: DevRay Sales <sales@devray.in>\nCc: Yogendra Rajput <yogendra.rajput@maplecloudtechnologies.com>\nSubject: Re: Marvell Managed Commercial Switches\n\nHi, Yogendra,\n\nWe provide OEM/ODM services if this is what you meant.\n\nLet me know.\n\nThank you.",
+ "char_count": 511,
+ "attachments": [
+  {
+   "filename": "image001.jpg",
+   "mime_type": "image/jpeg",
+   "size": 57792
+  }
+ ],
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:28Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

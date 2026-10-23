@@ -1,0 +1,27 @@
+{
+ "id": "19d4289f62d8abda",
+ "thread_id": "19d2e8790a06ebf5",
+ "message_id_header": "<043d01dcc0d6$00cb4c90$0261e5b0$@devray.in>",
+ "from": "DevRay Sales <sales@devray.in>",
+ "to": "'Elsa from Saga Telecom' <e.sagatelecom@gmail.com>, 'Yogendra Rajput' <yogendra.rajput@maplecloudtechnologies.com>",
+ "cc": null,
+ "subject": "RE: Marvell Managed Commercial Switches",
+ "date": "Tue, 31 Mar 2026 11:47:07 +0530",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Are you ODM ?\n\nFrom: Elsa from Saga Telecom <e.sagatelecom@gmail.com>\nSent: 31 March 2026 08:50\nTo: sales@devray.in; Yogendra Rajput <yogendra.rajput@maplecloudtechnologies.com>\nSubject: Marvell Managed Commercial Switches\n\nHi, Yogendra,\n\nHow are you?\n\nThis is about our Marvell based commercial managed switches.\n\n1, Fiber: max 4*1G/2.5G/10G SFP\n\n2, RJ45: 8/16/24/48 1G Copper/PoE\n\n3, PoE budget: 120W/300W/740W\n\n4, Support STP/RSTP/MSTP/ERPS, L3 static routing, ACL/QoS/QinQ...\n\n5, Support OEM for reselling\n\nIs it useful to you?\n\nThank you.\n\n--\n\nElsa\n\nSaga Telecom, OEM Factory\n\nTailored Managed Networking Solutions Provider\n\nBuilt to Last, Continuous Supply, Evolving Together",
+ "char_count": 738,
+ "attachments": [
+  {
+   "filename": "image001.jpg",
+   "mime_type": "image/jpeg",
+   "size": 60972
+  }
+ ],
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:28Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

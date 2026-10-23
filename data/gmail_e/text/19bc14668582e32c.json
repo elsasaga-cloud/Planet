@@ -1,0 +1,21 @@
+{
+ "id": "19bc14668582e32c",
+ "thread_id": "19ba32827ee4e967",
+ "message_id_header": "<CAL3rmjT93QFqWpgTPLHBj4eHrx_-7x-P9jTgs3OqGi0vy5D9QQ@mail.gmail.com>",
+ "from": "Ildar Salimov <ildar.i.salimov@gmail.com>",
+ "to": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "cc": null,
+ "subject": "Re: OEM Core Switching Solution",
+ "date": "Thu, 15 Jan 2026 11:49:19 +0100",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Hello\nPlease tell about BGP\nBest wishes\nIldar Salimov\n\nOn Wed, Jan 14, 2026 at 9:28 AM Elsa from Saga Telecom <\ne.sagatelecom@gmail.com> wrote:",
+ "char_count": 151,
+ "attachments": [],
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:29Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

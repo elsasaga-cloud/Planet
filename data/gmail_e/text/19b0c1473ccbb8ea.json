@@ -1,0 +1,21 @@
+{
+ "id": "19b0c1473ccbb8ea",
+ "thread_id": "19af1e539af10f30",
+ "message_id_header": "<7a33935c-d1c4-4caf-b4ac-f6f9bb1b5c76@optimal.com.ph>",
+ "from": "Daniela Sencio <daniela.sencio@optimal.com.ph>",
+ "to": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "cc": null,
+ "subject": "Re: Booster PoE Switch",
+ "date": "Thu, 11 Dec 2025 14:23:37 +0800",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Good day!\n\nMay I ask if you use Viber or WhatsApp? It would be easier for us to\ndiscuss your requirements there.\n\nThank you.",
+ "char_count": 130,
+ "attachments": [],
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:29Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

@@ -1,0 +1,27 @@
+{
+ "id": "19a59e98bad85f15",
+ "thread_id": "19a107b80c725a48",
+ "message_id_header": "<CANFTrvGbrZEJ_bda8sWPUpiajX5GdZAOfn4Gfw+RNioVhnsFUA@mail.gmail.com>",
+ "from": "shajahan AZEEZ <shajahan007@gmail.com>",
+ "to": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "cc": null,
+ "subject": "Re: Industrial PoE Switch",
+ "date": "Thu, 6 Nov 2025 20:04:15 +0400",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Wr r u from dear\nyes i need 16 port\n\nSent from My iPhone\n\nOn Thu, 6 Nov 2025 at 10:22 AM Elsa from Saga Telecom <\ne.sagatelecom@gmail.com> wrote:",
+ "char_count": 153,
+ "attachments": [
+  {
+   "filename": "DIN Rail Unmanaged.jpg",
+   "mime_type": "image/jpeg",
+   "size": 277893
+  }
+ ],
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:29Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

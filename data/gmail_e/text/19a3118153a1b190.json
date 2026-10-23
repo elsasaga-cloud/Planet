@@ -1,0 +1,27 @@
+{
+ "id": "19a3118153a1b190",
+ "thread_id": "19a10564ab1a4368",
+ "message_id_header": "<CAK5qxsnYrKWR1wmxcDCRNt3qCOycJfAmn7Jqt5+wnSZ3gz+DVg@mail.gmail.com>",
+ "from": "topica info <info@topica.mn>",
+ "to": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "cc": null,
+ "subject": "Re: Industrial PoE Switch",
+ "date": "Thu, 30 Oct 2025 01:50:37 +0800",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Hello,\n\nThank you for your mail. May we have your price list, MOQ , Warranty\ninformation?\n\nBest regards,\n\nA.Bayar\nTopica LLC\nChingeltei district 1-r khoroo, Building 3A\nUlaanbaatar-15170, Mongolia\n\nOn Tue, Oct 28, 2025 at 1:11 PM Elsa from Saga Telecom <\ne.sagatelecom@gmail.com> wrote:",
+ "char_count": 301,
+ "attachments": [
+  {
+   "filename": "DIN Rail Unmanaged.jpg",
+   "mime_type": "image/jpeg",
+   "size": 277893
+  }
+ ],
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:29Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

@@ -1,0 +1,21 @@
+{
+ "id": "19ce0d4dea63ec85",
+ "thread_id": "19ca1e1d051cda80",
+ "message_id_header": "<ba7328cf-4c52-4b2c-ac0e-193b9bd822b6@quippro.kz>",
+ "from": "Vadim Rudenko <vr@quippro.kz>",
+ "to": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "cc": "momarov@quippro.kz",
+ "subject": "Re: Updated Ethernet Switches Links",
+ "date": "Thu, 12 Mar 2026 11:56:09 +0500",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Hi Elsa,\n\nthank you for your email.\n\nPlease share your models for 10Gbs / 25Gbs / 100Gbs / 400Gbs / 800Gbs\nswitches\n\nAnd also prices for MOQ and for a test samples.\n\nVadim Rudenko\n\nProject Manager\n------------------------------------\nQUIP PRO LLP.\nAlmaty, 050062, Auezov district\nmicrodistrict 1, building 77/3, 53\nResidential complex \"Jasmine\"\ntel: +7-(727)-232-13-81\n+7-(727)-232-13-82",
+ "char_count": 406,
+ "attachments": [],
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:28Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

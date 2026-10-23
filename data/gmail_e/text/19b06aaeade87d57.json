@@ -1,0 +1,27 @@
+{
+ "id": "19b06aaeade87d57",
+ "thread_id": "19af1ef7e30ef46a",
+ "message_id_header": "<004c01dc6993$46fda810$d4f8f830$@omnicom.co.id>",
+ "from": "Dewaris Pandapotan <pandapotan.siregar@omnicom.co.id>",
+ "to": "'Elsa from Saga Telecom' <e.sagatelecom@gmail.com>",
+ "cc": null,
+ "subject": "RE: Booster PoE Switch",
+ "date": "Wed, 10 Dec 2025 12:10:05 +0700",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Dear all,\n\nThank you for the product information you sent us.\n\nGood luck to you.\n\nBest regards,\n\nDewaris Pandapotan Siregar\n\nPT Omni Cakrawala Komunikasi\n\nRuko Golden Boulevard Blok P-7, Jl. Pahlawan Seribu, BSD City, Tangerang – Indonesia 15322\n\n<http://www.omnicom.co.id/> www.omnicom.co.id | +62 857 8088 9518 | +62 817 677 0228 | +62 21 5316 1366 | +62 21 5316 1367\n\nDelivering Business Values and Technical Competence\n\nFrom: Elsa from Saga Telecom <e.sagatelecom@gmail.com>\nSent: 10 December 2025 12:00\nTo: Pandapotan.Siregar@omnicom.co.id\nSubject: Booster PoE Switch\n\nHi,\n\nHow are you?\n\nThis is about our Marvell based managed switch with power boosting feature.\n\n1, Fiber: 4*100M/1G/2.5G/10G\n\n2, Copper: 8*1G RJ45/PoE, max 240W budget\n\n3, DC12-54V Booster to 54V\n\n4, Support DI/DO/RS485, USB, Alarm, fiber bypass\n\n5, Customizable Web GUI\n\nIs it useful to you?\n\nThank you.\n\n--\n\nElsa\n\nSaga Telecom/OEM Factory\n\nConnecting, Converting, Creating\n\nTailored Marvell Managed Networking Solutions Provider",
+ "char_count": 1138,
+ "attachments": [
+  {
+   "filename": "image001.png",
+   "mime_type": "image/png",
+   "size": 477992
+  }
+ ],
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:29Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}
