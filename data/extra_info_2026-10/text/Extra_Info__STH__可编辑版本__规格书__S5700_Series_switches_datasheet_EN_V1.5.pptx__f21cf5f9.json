@@ -1,0 +1,658 @@
+{
+"id":"Extra_Info__STH__可编辑版本__规格书__S5700_Series_switches_datasheet_EN_V1.5.pptx__f21cf5f9",
+"path":"Extra_Info/STH/可编辑版本/规格书/S5700 Series switches datasheet_EN_V1.5.pptx",
+"name":"S5700 Series switches datasheet_EN_V1.5.pptx",
+"ext":".pptx",
+"bytes":9825378,
+"sha256":"f21cf5f9e417cd89cb6130ce680f6052befc97695c1019655eb33515c511f40c",
+"source":"Extra_Info.zip",
+"method":"python-pptx",
+"status":"ok",
+"meta":{
+"slides":10,
+"pictures":7
+},
+"warnings":[],
+"chars":9041,
+"text":"[slide 1]\nS5700 SERIES SWITCHES\nDATASHEET\n10G Enterprise Switch\nProduct Overview\nThe S5700 Series switches are designed based on new generations of domestic Switch Chips platform —  BigFlow Series Chip platform with outstanding performance and cost effeciency, The S5700 Series switches have various port options and offer rich L2/L3 features, making them the perfect choice as aggregation or access switches for enterprise, government, specific industry networks.\nKey features of the S5700 Series Switches\nSupport MPLS features (L2/L3 VPN) to build a unified and converged network platform.\nMLAG which can build an Active-Active system to improve the reliability of the network links from single board grade to device grade.\nImplementing Vxlan and BGP protocols to build EVPN applications for data centers scenario.\nSwitch-to-switch encryption using MACsec (Media Access Control Security) AES-CMAC.\nPrecision Timing Protocol.\nRich L2/L3 features like IPv6, OSPF, BGP, PIM, etc.\nThe S5700 Series switches provide various power supply solutions for customers choosing, fixed single power supply, fixed redundant power supplies, and redundant hot-swappable power supplies (AC and DC are both available). The Fan solutions also have multiple bays with Field replaceable fan modules and build in fans. Generally, air flow of S5700 Series is front to rear (AFO), and some of models can do customization of rear to front (AFI) airflow.\n1\nVersion: V1.5\nRelease Date: 2025/12/12\n\n[slide 2]\n2\nTable 1: Feasible PSU and airflow of S5700 Series Switches\nThe S5700 Series switches support varied management ways, include console port / in-band network ports / out-of-band network port. Support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, SSL, etc. to ensure security of management.\nMoreover, leveraging its profound technical expertise and in-depth understanding of campus and enterprise networking needs, Hohunet has launched the Da Hu Cloud Management System (DHCS). It enhances network management and maintenance efficiency, reduces costs, elevates management intelligence, and delivers a faster, smarter, more secure and reliable network to better meet user requirements.\nItems\tAC\tDC\tAFO\tAFI\tPower Input\tFAN\nS5748X-8Z-EI\t◯\t◯\t◯\t◯\t2\t4\nS5748X-8Z-SI\t◯\tX\t◯\tX\t1\t4\nS5732-16N4Z-EI\t◯\t◯\t◯\t◯\t2\t4\nS5732-16N4Z-SI\t◯\tX\t◯\tX\t1\t4\nS5724X-8Z-EI\t◯\t◯\t◯\t◯\t2\t4\nS5724X-8Z-SI\t◯\tX\t◯\tX\t1\t4\n\n[slide 3]\n3\nVisual WEB GUI\nHOS allows you to quickly configure common configuration items using a visual WEB GUI, which lowers the application threshold for users.\n\n[slide 4]\n4\nTable 2: Family of the S5700 Series switches\nThe S5700 family of Ethernet switches consists of the following models\nModels\tEthernet Ports\tManagement\tPSU 1/PSU 2\tCooling\nS5748X-8Z-EI\t48 x 10G SFP+ + 8 x 100G QSFP 28\tConsole: RJ45 to RS232 \nEthernet: 1G Port Storage: USB\t550W / 550W CRPS\t4 x Fan Modules (front-to-back airflow)\nS5748X-8Z-SI\t48 x 10G SFP+ + 8 x 100G QSFP 28\tConsole: RJ45 to RS232 \nEthernet: 1G Port Storage: USB\tFixed single power supply\t4 x fixed fans (front-to-back airflow)\nS5732-16N4Z-EI\t32 x 10G SFP+ \n+16x 10G/25G SFP28, \n4 x 100G QSFP28\tConsole: RJ45 to  RS232 \nEthernet: 1G Port Storage: USB\t550W / 550W CRPS\t4 x Fan Modules (front-to-back airflow)\nS5732-16N4Z-SI\t32*10G SFP+ +16*10G/25G SFP28, 4*100G QSFP28\tConsole: RJ45 to  RS232 \nEthernet: 1G Port Storage: USB\tFixed single power supply\t4 x fixed fans (front-to-back airflow)\nS5724X-8Z-EI\t24 x 10G SFP+ + 8 x 100G QSFP 28\tConsole: RJ45 to RS232 \nEthernet: 1G Port Storage: USB\t350W / 350W CRPS\t2 x Fan Modules (front-to-back airflow)\nS5724X-8Z-SI\t24 x 10G SFP+ + 8 x 100G QSFP 28\tConsole: RJ45 to  RS232 \nEthernet: 1G Port Storage: USB\tFixed single power supply\t4 x fixed fans (front-to-back airflow)\n\n[slide 5]\n5\nS5700 Physical Specifications\nPacket Switch capacity (Gbps)\nS5748X-8Z-EI: 2560 Gbps (bidirectional)\nS5748X-8Z-SI: 2560 Gbps (bidirectional)\nS5732-16N4Z-EI: 2.24Tbps (bidirectional)\nS5732-16N4Z-SI: 2.24Tbps (bidirectional)\nS5724X-8Z-EI: 2080 Gbps (bidirectional)\nS5724X-8Z-SI: 2080 Gbps (bidirectional)\nWeight (Net weight/Gross weight)\nS5748X-8Z-EI: 7.9kg/10.1kg\nS5748X-8Z-SI: 5.9kg/8.1kg\nS5732-16N4Z-EI: 7.5kg/9.7kg\nS5732-16N4Z-SI: 5kg/7.2kg\nS5724X-8Z-EI: 6.6kg/8.8kg\nS5724X-8Z-SI: 4.1kg/6.3kg\nLayer 2/Layer 3 Throughput (Mpps)\nS5748X-8Z-EI: 3809.28Mpps (bidirectional)\nS5748X-8Z-SI: 3809.28Mpps (bidirectional)\nS5732-16N4Z-EI: 3.333Gpps (bidirectional)\nS5732-16N4Z-SI: 3.333Gpps (bidirectional)\nS5724X-8Z-EI: 3095.04Mpps (bidirectional)\nS5724X-8Z-SI: 3095.04Mpps (bidirectional)\nDimensions (W x H x D)  without package\nS5748X-8Z-EI: 44.2×4.4×42 cm\nS5748X-8Z-SI: 44.2×4.4×35.5 cm\nS5732-16N4Z-EI: 44.2×4.4×42 cm\nS5732-16N4Z-SI: 44.2×4.4×35.6 cm\nS5724X-8Z-EI: 44.2×4.4×41 cm\nS5724X-8Z-SI: 44.2×4.4×35.7 cm\nTemperature alarm\nAlarm threshold: 50ºC\nDimensions (W x H x D)  with package\nS5748X-8Z-EI: 66.5×15×56.5 cm\nS5748X-8Z-SI: 55.7×15×49.5 cm\nS5732-16N4Z-EI: 66.5×15×56.5 cm\nS5732-16N4Z-SI: 55.7×15×49.5 cm\nS5724X-8Z-EI: 55.7×15×49.5 cm\nS5724X-8Z-SI: 55.7×15×49.5 cm\nMTBF\nEI (Swapable PSU and FAN):≥ 90000h (~10.3 Years)\nSI  (Fixed PSU and FAN): ≥70000h\n(~8.0 Years)\nCPU\nDual-core processor, ARM A53(1.2GHz) on following models\nS5748X-8Z-EI\nS5748X-8Z-SI\nS5732-16N4Z-EI\nS5732-16N4Z-SI\nS5724X-8Z-EI\nS5724X-8Z-SI\nMemory\neMMc: 8GB on all models\nDRAM: 2GB on all models\n\n[slide 6]\n6\nPower consumption\nWorst case, all ports used, line-rate traffic\nS5748X-8Z-EI: 140.36W\nS5748X-8Z-SI: 138.38W\nS5732-16N4Z-EI: 122W\nS5732-16N4Z-SI: 119.68W\nS5724X-8Z-EI: 117W\nS5724X-8Z-SI: 98.7W\nTypical power consumption\nS5748X-8Z-EI: 129.14W\nS5748X-8Z-SI: 128.26W\nS5724X-8Z-EI: 105W\nS5724X-8Z-SI: 91.74W\nS5732-16N4Z-EI: 110W\nS5732-16N4Z-SI: 108.02W\nEnvironmental ranges\nOperating temperature: 0ºC to 45ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90% (No condensation)\nStore Humidity: 5% to 95% (No condensation)\nOperating altitude\nS5748X-8Z-EI: 0~5km\nS5748X-8Z-SI: 0~3km\nS5732-16N4Z-EI: 0~5km\nS5732-16N4Z-SI: 0~3km\nS5724X-8Z-EI: 0~5km\nS5724X-8Z-SI: 0~3km\n\n[slide 7]\nS5700 Software Specifications\nHOHUNET implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘HOS Software features’ .\nAll HOHUNET switches use a normalized software platform and image package file\nUnified software version iteration plan\nUnified user experience\n7\nHOS Network Platform\nLayer 2 switching\nIPv4/lPv6 Unicast Routing\nQoS\nIP Multicast Snooping/Proxy\nIPv4/lPv6 Multi cast Routing\nVRRP\nMultiprotocol Label Switching(MPLS)\nVirtual Private LAN Service(VPLS)\nVirtual Routing and Switching\nGeneralized Multiprotocol LabelSwitching(GMPLS)\nIPv6 Tunneling and TransitionTechnologies\nIP/MPLS OAM\nService management module\nFault Managemet (FM)\nHigh Availability (HA)\nIntegrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)\nHardware and platform abstraction layer\nAdvanced integration Suite\nCENTEC swtich chip  SDK\nSilicon in Pizza, Stacking or Chassis\nConfiguration\nOperating Systems TCP/IP Stacks\nLinux , IPv4/Pv6 Dual Stack\nH\nCENTEC Switch Chipset\nCPU Subsystem\nCooling SubSystem\nAC/DC DC/DC CLK\nEnvironmental Management Subsystem\nLogical Control Subunit\n\n[slide 8]\nOrdering Information\nS5700 Series Switches\n8\nAC/DC Power Supplies use for S5700 Series EI model\nItem\tDescription\nS5748X-8Z-EI\t10G Data Center Switch with 48*10G SFP+, 8*100G QSFP28, Dual power supply modules, 4 hot-swap fan modules\nS5748X-8Z-SI\t10G Enterprise and Campus Network Switch with 48*10G SFP+, 8*100G QSFP28, Fixed single power supply, 4 Fixed Fans\nS5732-16N4Z-EI\t10G Data Center Switch with 32*10G SFP+, 16*10G/25G SFP28, 4*100G QSFP28, Dual power supply modules, 2 hot-swap fan modules\nS5732-16N4Z-SI\t10G Data Center Switch with 32*10G SFP+, 16*10G/25G SFP28, 4*100G QSFP28,  Fixed single power supply, 4 Fixed Fans\nS5724X-8Z-EI\t10G Data Center Switch with 24*10G SFP+, 8*100G QSFP28, Dual power supply modules, 2 hot-swap fan modules\nS5724X-8Z-SI\t10G Enterprise and Campus Network Switch with 24*10G SFP+, 8*100G QSFP28, Fixed single power supply, 4 Fixed Fans\nItems\tDescription\nPSU-350-AC-AFO\tS5700 Series 350W AC power supply (front-to-back airflow)\nPSU-550-DC-AFO\tS5700 Series 550W DC power supply (front-to-back airflow)\nPSU-550-AC-AFO\tS5700 Series 550W AC POE power supply (front-to-back airflow)\nPSU-550-DC-AFO\tS5700 Series 550W DC POE power supply (front-to-back airflow)\n\n[slide 9]\n9\nSoftware Licenses\nAccessory of S5700 Series\nItems\tDescription\nSoftware License\tEB, Basic L3 software features, Preinstalled on SI models\nSoftware License\tMS, L3 enhance features software license key, Preinstalled on EI models\nSoftware License\tMA, MPLS features software license key\nSoftware License\tST, Stacking feature software license key\nItems\tFront Mounting\tRear Mounting\tScrew\tPower Cord\tConsole (RS232 to RJ45)\nS5748X-8Z-EI\t2\t2\t14\t2\t1\nS5748X-8Z-SI\t2\t/\t14\t1\t1\nS5732-16N4Z-EI\t2\t2\t14\t2\t1\nS5732-16N4Z-SI\t2\t/\t14\t1\t1\nS5724X-8Z-EI\t2\t2\t14\t2\t1\nS5724X-8Z-SI\t2\t/\t14\t1\t1\n\n[slide 10]\n",
+"slides":[
+{
+"n":1,
+"items":[
+{
+"t":"p",
+"text":"S5700 SERIES SWITCHES\nDATASHEET"
+},
+{
+"t":"p",
+"text":"10G Enterprise Switch"
+},
+{
+"t":"p",
+"text":"Product Overview"
+},
+{
+"t":"p",
+"text":"The S5700 Series switches are designed based on new generations of domestic Switch Chips platform —  BigFlow Series Chip platform with outstanding performance and cost effeciency, The S5700 Series switches have various port options and offer rich L2/L3 features, making them the perfect choice as aggregation or access switches for enterprise, government, specific industry networks."
+},
+{
+"t":"p",
+"text":"Key features of the S5700 Series Switches"
+},
+{
+"t":"p",
+"text":"Support MPLS features (L2/L3 VPN) to build a unified and converged network platform.\nMLAG which can build an Active-Active system to improve the reliability of the network links from single board grade to device grade.\nImplementing Vxlan and BGP protocols to build EVPN applications for data centers scenario.\nSwitch-to-switch encryption using MACsec (Media Access Control Security) AES-CMAC.\nPrecision Timing Protocol.\nRich L2/L3 features like IPv6, OSPF, BGP, PIM, etc."
+},
+{
+"t":"p",
+"text":"The S5700 Series switches provide various power supply solutions for customers choosing, fixed single power supply, fixed redundant power supplies, and redundant hot-swappable power supplies (AC and DC are both available). The Fan solutions also have multiple bays with Field replaceable fan modules and build in fans. Generally, air flow of S5700 Series is front to rear (AFO), and some of models can do customization of rear to front (AFI) airflow."
+},
+{
+"t":"p",
+"text":"1"
+},
+{
+"t":"p",
+"text":"Version: V1.5\nRelease Date: 2025/12/12"
+},
+{
+"t":"picture",
+"name":"图片 14"
+}
+],
+"notes":""
+},
+{
+"n":2,
+"items":[
+{
+"t":"picture",
+"name":"Picture 2"
+},
+{
+"t":"p",
+"text":"2"
+},
+{
+"t":"p",
+"text":"Table 1: Feasible PSU and airflow of S5700 Series Switches"
+},
+{
+"t":"p",
+"text":"The S5700 Series switches support varied management ways, include console port / in-band network ports / out-of-band network port. Support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, SSL, etc. to ensure security of management.\nMoreover, leveraging its profound technical expertise and in-depth understanding of campus and enterprise networking needs, Hohunet has launched the Da Hu Cloud Management System (DHCS). It enhances network management and maintenance efficiency, reduces costs, elevates management intelligence, and delivers a faster, smarter, more secure and reliable network to better meet user requirements."
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"AC",
+"DC",
+"AFO",
+"AFI",
+"Power Input",
+"FAN"
+],
+[
+"S5748X-8Z-EI",
+"◯",
+"◯",
+"◯",
+"◯",
+"2",
+"4"
+],
+[
+"S5748X-8Z-SI",
+"◯",
+"X",
+"◯",
+"X",
+"1",
+"4"
+],
+[
+"S5732-16N4Z-EI",
+"◯",
+"◯",
+"◯",
+"◯",
+"2",
+"4"
+],
+[
+"S5732-16N4Z-SI",
+"◯",
+"X",
+"◯",
+"X",
+"1",
+"4"
+],
+[
+"S5724X-8Z-EI",
+"◯",
+"◯",
+"◯",
+"◯",
+"2",
+"4"
+],
+[
+"S5724X-8Z-SI",
+"◯",
+"X",
+"◯",
+"X",
+"1",
+"4"
+]
+]
+},
+{
+"t":"picture",
+"name":"图片 10"
+}
+],
+"notes":""
+},
+{
+"n":3,
+"items":[
+{
+"t":"picture",
+"name":"Picture 2"
+},
+{
+"t":"p",
+"text":"3"
+},
+{
+"t":"p",
+"text":"Visual WEB GUI"
+},
+{
+"t":"p",
+"text":"HOS allows you to quickly configure common configuration items using a visual WEB GUI, which lowers the application threshold for users."
+},
+{
+"t":"picture",
+"name":"Picture 9"
+},
+{
+"t":"picture",
+"name":"Picture 10"
+}
+],
+"notes":""
+},
+{
+"n":4,
+"items":[
+{
+"t":"p",
+"text":"4"
+},
+{
+"t":"p",
+"text":"Table 2: Family of the S5700 Series switches"
+},
+{
+"t":"p",
+"text":"The S5700 family of Ethernet switches consists of the following models"
+},
+{
+"t":"picture",
+"name":"Picture 5"
+},
+{
+"t":"table",
+"rows":[
+[
+"Models",
+"Ethernet Ports",
+"Management",
+"PSU 1/PSU 2",
+"Cooling"
+],
+[
+"S5748X-8Z-EI",
+"48 x 10G SFP+ + 8 x 100G QSFP 28",
+"Console: RJ45 to RS232 \nEthernet: 1G Port Storage: USB",
+"550W / 550W CRPS",
+"4 x Fan Modules (front-to-back airflow)"
+],
+[
+"S5748X-8Z-SI",
+"48 x 10G SFP+ + 8 x 100G QSFP 28",
+"Console: RJ45 to RS232 \nEthernet: 1G Port Storage: USB",
+"Fixed single power supply",
+"4 x fixed fans (front-to-back airflow)"
+],
+[
+"S5732-16N4Z-EI",
+"32 x 10G SFP+ \n+16x 10G/25G SFP28, \n4 x 100G QSFP28",
+"Console: RJ45 to  RS232 \nEthernet: 1G Port Storage: USB",
+"550W / 550W CRPS",
+"4 x Fan Modules (front-to-back airflow)"
+],
+[
+"S5732-16N4Z-SI",
+"32*10G SFP+ +16*10G/25G SFP28, 4*100G QSFP28",
+"Console: RJ45 to  RS232 \nEthernet: 1G Port Storage: USB",
+"Fixed single power supply",
+"4 x fixed fans (front-to-back airflow)"
+],
+[
+"S5724X-8Z-EI",
+"24 x 10G SFP+ + 8 x 100G QSFP 28",
+"Console: RJ45 to RS232 \nEthernet: 1G Port Storage: USB",
+"350W / 350W CRPS",
+"2 x Fan Modules (front-to-back airflow)"
+],
+[
+"S5724X-8Z-SI",
+"24 x 10G SFP+ + 8 x 100G QSFP 28",
+"Console: RJ45 to  RS232 \nEthernet: 1G Port Storage: USB",
+"Fixed single power supply",
+"4 x fixed fans (front-to-back airflow)"
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":5,
+"items":[
+{
+"t":"p",
+"text":"5"
+},
+{
+"t":"p",
+"text":"S5700 Physical Specifications"
+},
+{
+"t":"p",
+"text":"Packet Switch capacity (Gbps)\nS5748X-8Z-EI: 2560 Gbps (bidirectional)\nS5748X-8Z-SI: 2560 Gbps (bidirectional)\nS5732-16N4Z-EI: 2.24Tbps (bidirectional)\nS5732-16N4Z-SI: 2.24Tbps (bidirectional)\nS5724X-8Z-EI: 2080 Gbps (bidirectional)\nS5724X-8Z-SI: 2080 Gbps (bidirectional)"
+},
+{
+"t":"p",
+"text":"Weight (Net weight/Gross weight)\nS5748X-8Z-EI: 7.9kg/10.1kg\nS5748X-8Z-SI: 5.9kg/8.1kg\nS5732-16N4Z-EI: 7.5kg/9.7kg\nS5732-16N4Z-SI: 5kg/7.2kg\nS5724X-8Z-EI: 6.6kg/8.8kg\nS5724X-8Z-SI: 4.1kg/6.3kg"
+},
+{
+"t":"p",
+"text":"Layer 2/Layer 3 Throughput (Mpps)\nS5748X-8Z-EI: 3809.28Mpps (bidirectional)\nS5748X-8Z-SI: 3809.28Mpps (bidirectional)\nS5732-16N4Z-EI: 3.333Gpps (bidirectional)\nS5732-16N4Z-SI: 3.333Gpps (bidirectional)\nS5724X-8Z-EI: 3095.04Mpps (bidirectional)\nS5724X-8Z-SI: 3095.04Mpps (bidirectional)"
+},
+{
+"t":"p",
+"text":"Dimensions (W x H x D)  without package\nS5748X-8Z-EI: 44.2×4.4×42 cm\nS5748X-8Z-SI: 44.2×4.4×35.5 cm\nS5732-16N4Z-EI: 44.2×4.4×42 cm\nS5732-16N4Z-SI: 44.2×4.4×35.6 cm\nS5724X-8Z-EI: 44.2×4.4×41 cm\nS5724X-8Z-SI: 44.2×4.4×35.7 cm"
+},
+{
+"t":"p",
+"text":"Temperature alarm\nAlarm threshold: 50ºC"
+},
+{
+"t":"p",
+"text":"Dimensions (W x H x D)  with package\nS5748X-8Z-EI: 66.5×15×56.5 cm\nS5748X-8Z-SI: 55.7×15×49.5 cm\nS5732-16N4Z-EI: 66.5×15×56.5 cm\nS5732-16N4Z-SI: 55.7×15×49.5 cm\nS5724X-8Z-EI: 55.7×15×49.5 cm\nS5724X-8Z-SI: 55.7×15×49.5 cm"
+},
+{
+"t":"p",
+"text":"MTBF\nEI (Swapable PSU and FAN):≥ 90000h (~10.3 Years)\nSI  (Fixed PSU and FAN): ≥70000h\n(~8.0 Years)"
+},
+{
+"t":"p",
+"text":"CPU\nDual-core processor, ARM A53(1.2GHz) on following models\nS5748X-8Z-EI\nS5748X-8Z-SI\nS5732-16N4Z-EI\nS5732-16N4Z-SI\nS5724X-8Z-EI\nS5724X-8Z-SI"
+},
+{
+"t":"p",
+"text":"Memory\neMMc: 8GB on all models\nDRAM: 2GB on all models"
+}
+],
+"notes":""
+},
+{
+"n":6,
+"items":[
+{
+"t":"p",
+"text":"6"
+},
+{
+"t":"p",
+"text":"Power consumption\nWorst case, all ports used, line-rate traffic\nS5748X-8Z-EI: 140.36W\nS5748X-8Z-SI: 138.38W\nS5732-16N4Z-EI: 122W\nS5732-16N4Z-SI: 119.68W\nS5724X-8Z-EI: 117W\nS5724X-8Z-SI: 98.7W\nTypical power consumption\nS5748X-8Z-EI: 129.14W\nS5748X-8Z-SI: 128.26W\nS5724X-8Z-EI: 105W\nS5724X-8Z-SI: 91.74W\nS5732-16N4Z-EI: 110W\nS5732-16N4Z-SI: 108.02W"
+},
+{
+"t":"p",
+"text":"Environmental ranges\nOperating temperature: 0ºC to 45ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90% (No condensation)\nStore Humidity: 5% to 95% (No condensation)\nOperating altitude\nS5748X-8Z-EI: 0~5km\nS5748X-8Z-SI: 0~3km\nS5732-16N4Z-EI: 0~5km\nS5732-16N4Z-SI: 0~3km\nS5724X-8Z-EI: 0~5km\nS5724X-8Z-SI: 0~3km"
+}
+],
+"notes":""
+},
+{
+"n":7,
+"items":[
+{
+"t":"p",
+"text":"S5700 Software Specifications\nHOHUNET implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘HOS Software features’ ."
+},
+{
+"t":"p",
+"text":"All HOHUNET switches use a normalized software platform and image package file\nUnified software version iteration plan\nUnified user experience"
+},
+{
+"t":"p",
+"text":"7"
+},
+{
+"t":"p",
+"text":"HOS Network Platform"
+},
+{
+"t":"p",
+"text":"Layer 2 switching"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Unicast Routing"
+},
+{
+"t":"p",
+"text":"QoS"
+},
+{
+"t":"p",
+"text":"IP Multicast Snooping/Proxy"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Multi cast Routing"
+},
+{
+"t":"p",
+"text":"VRRP"
+},
+{
+"t":"p",
+"text":"Multiprotocol Label Switching(MPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Private LAN Service(VPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Routing and Switching"
+},
+{
+"t":"p",
+"text":"Generalized Multiprotocol LabelSwitching(GMPLS)"
+},
+{
+"t":"p",
+"text":"IPv6 Tunneling and TransitionTechnologies"
+},
+{
+"t":"p",
+"text":"IP/MPLS OAM"
+},
+{
+"t":"p",
+"text":"Service management module"
+},
+{
+"t":"p",
+"text":"Fault Managemet (FM)"
+},
+{
+"t":"p",
+"text":"High Availability (HA)"
+},
+{
+"t":"p",
+"text":"Integrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)"
+},
+{
+"t":"p",
+"text":"Hardware and platform abstraction layer"
+},
+{
+"t":"p",
+"text":"Advanced integration Suite"
+},
+{
+"t":"p",
+"text":"CENTEC swtich chip  SDK"
+},
+{
+"t":"p",
+"text":"Silicon in Pizza, Stacking or Chassis\nConfiguration"
+},
+{
+"t":"p",
+"text":"Operating Systems TCP/IP Stacks"
+},
+{
+"t":"p",
+"text":"Linux , IPv4/Pv6 Dual Stack"
+},
+{
+"t":"p",
+"text":"H"
+},
+{
+"t":"p",
+"text":"CENTEC Switch Chipset"
+},
+{
+"t":"p",
+"text":"CPU Subsystem"
+},
+{
+"t":"p",
+"text":"Cooling SubSystem"
+},
+{
+"t":"p",
+"text":"AC/DC DC/DC CLK"
+},
+{
+"t":"p",
+"text":"Environmental Management Subsystem"
+},
+{
+"t":"p",
+"text":"Logical Control Subunit"
+}
+],
+"notes":""
+},
+{
+"n":8,
+"items":[
+{
+"t":"p",
+"text":"Ordering Information\nS5700 Series Switches"
+},
+{
+"t":"p",
+"text":"8"
+},
+{
+"t":"table",
+"rows":[
+[
+"Item",
+"Description"
+],
+[
+"S5748X-8Z-EI",
+"10G Data Center Switch with 48*10G SFP+, 8*100G QSFP28, Dual power supply modules, 4 hot-swap fan modules"
+],
+[
+"S5748X-8Z-SI",
+"10G Enterprise and Campus Network Switch with 48*10G SFP+, 8*100G QSFP28, Fixed single power supply, 4 Fixed Fans"
+],
+[
+"S5732-16N4Z-EI",
+"10G Data Center Switch with 32*10G SFP+, 16*10G/25G SFP28, 4*100G QSFP28, Dual power supply modules, 2 hot-swap fan modules"
+],
+[
+"S5732-16N4Z-SI",
+"10G Data Center Switch with 32*10G SFP+, 16*10G/25G SFP28, 4*100G QSFP28,  Fixed single power supply, 4 Fixed Fans"
+],
+[
+"S5724X-8Z-EI",
+"10G Data Center Switch with 24*10G SFP+, 8*100G QSFP28, Dual power supply modules, 2 hot-swap fan modules"
+],
+[
+"S5724X-8Z-SI",
+"10G Enterprise and Campus Network Switch with 24*10G SFP+, 8*100G QSFP28, Fixed single power supply, 4 Fixed Fans"
+]
+]
+},
+{
+"t":"p",
+"text":"AC/DC Power Supplies use for S5700 Series EI model"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"PSU-350-AC-AFO",
+"S5700 Series 350W AC power supply (front-to-back airflow)"
+],
+[
+"PSU-550-DC-AFO",
+"S5700 Series 550W DC power supply (front-to-back airflow)"
+],
+[
+"PSU-550-AC-AFO",
+"S5700 Series 550W AC POE power supply (front-to-back airflow)"
+],
+[
+"PSU-550-DC-AFO",
+"S5700 Series 550W DC POE power supply (front-to-back airflow)"
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":9,
+"items":[
+{
+"t":"p",
+"text":"9"
+},
+{
+"t":"p",
+"text":"Software Licenses"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"Software License",
+"EB, Basic L3 software features, Preinstalled on SI models"
+],
+[
+"Software License",
+"MS, L3 enhance features software license key, Preinstalled on EI models"
+],
+[
+"Software License",
+"MA, MPLS features software license key"
+],
+[
+"Software License",
+"ST, Stacking feature software license key"
+]
+]
+},
+{
+"t":"p",
+"text":"Accessory of S5700 Series"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Front Mounting",
+"Rear Mounting",
+"Screw",
+"Power Cord",
+"Console (RS232 to RJ45)"
+],
+[
+"S5748X-8Z-EI",
+"2",
+"2",
+"14",
+"2",
+"1"
+],
+[
+"S5748X-8Z-SI",
+"2",
+"/",
+"14",
+"1",
+"1"
+],
+[
+"S5732-16N4Z-EI",
+"2",
+"2",
+"14",
+"2",
+"1"
+],
+[
+"S5732-16N4Z-SI",
+"2",
+"/",
+"14",
+"1",
+"1"
+],
+[
+"S5724X-8Z-EI",
+"2",
+"2",
+"14",
+"2",
+"1"
+],
+[
+"S5724X-8Z-SI",
+"2",
+"/",
+"14",
+"1",
+"1"
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":10,
+"items":[],
+"notes":""
+}
+],
+"extracted_at":"2026-10-23T05:04:27Z"
+}

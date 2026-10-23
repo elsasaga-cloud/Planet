@@ -1,0 +1,25 @@
+{
+"id":"Extra_Info__Reference_Info__poc.mp4__b88fc225",
+"path":"Extra_Info/Reference Info/poc.mp4",
+"name":"poc.mp4",
+"ext":".mp4",
+"bytes":8741107,
+"sha256":"b88fc22547b5561abd24bd05cce637165f7d77e40876b1b98ad08cf458ab0108",
+"source":"Extra_Info.zip",
+"method":"ffprobe+ffmpeg",
+"status":"meta",
+"meta":{
+"duration_s":97.6,
+"width":1280,
+"height":720,
+"vcodec":"h264",
+"acodec":"aac",
+"creation_time":"2022-07-11T20:01:07.000000Z",
+"thumb_bytes":4226
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:08:42Z",
+"thumb":"thumbs/Extra_Info__Reference_Info__poc.mp4__b88fc225.jpg"
+}

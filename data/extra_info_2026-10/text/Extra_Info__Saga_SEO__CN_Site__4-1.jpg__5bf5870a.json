@@ -1,0 +1,25 @@
+{
+"id":"Extra_Info__Saga_SEO__CN_Site__4-1.jpg__5bf5870a",
+"path":"Extra_Info/Saga SEO/CN Site/4-1.jpg",
+"name":"4-1.jpg",
+"ext":".jpg",
+"bytes":2827115,
+"sha256":"5bf5870ae2964aeae4a6a9ad97056f86f4ed1dff8d78801d096178dec3ad3cad",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":5000,
+"height":3600,
+"mode":"RGB",
+"datetime":"2024:01:10 22:09:06",
+"software":"Adobe Photoshop CS6 (Windows)",
+"thumb_bytes":5144
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:02:11Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__CN_Site__4-1.jpg__5bf5870a.jpg"
+}

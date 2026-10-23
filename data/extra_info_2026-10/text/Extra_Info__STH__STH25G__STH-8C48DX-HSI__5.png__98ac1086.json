@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__STH__STH25G__STH-8C48DX-HSI__5.png__98ac1086",
+"path":"Extra_Info/STH/STH25G/STH-8C48DX-HSI/5.png",
+"name":"5.png",
+"ext":".png",
+"bytes":2426836,
+"sha256":"98ac1086197dd7848a1ef1dfebca015ad29c1a97265f18dc0878a8cd525e66bb",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":3840,
+"height":2160,
+"mode":"RGBA",
+"thumb_bytes":5209
+},
+"warnings":[],
+"chars":28,
+"text":"14 15 16\n-mh ER ee ee ee\n; 4",
+"extracted_at":"2026-10-23T05:03:26Z",
+"thumb":"thumbs/Extra_Info__STH__STH25G__STH-8C48DX-HSI__5.png__98ac1086.jpg"
+}

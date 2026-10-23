@@ -1,0 +1,18 @@
+{
+"id":"Extra_Info__Saga_SEO__favicon.ico__c066de34",
+"path":"Extra_Info/Saga SEO/favicon.ico",
+"name":"favicon.ico",
+"ext":".ico",
+"bytes":3536,
+"sha256":"c066de34c5fb4a95ed4eb883d82084ba031e2962e50e9278ae5641b79a0dcc39",
+"source":"Extra_Info.zip",
+"method":"none",
+"status":"meta",
+"meta":{},
+"warnings":[
+"no extractor for .ico"
+],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:01:45Z"
+}

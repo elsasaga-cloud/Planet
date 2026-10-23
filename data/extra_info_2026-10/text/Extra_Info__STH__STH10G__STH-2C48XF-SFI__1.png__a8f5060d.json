@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__STH__STH10G__STH-2C48XF-SFI__1.png__a8f5060d",
+"path":"Extra_Info/STH/STH10G/STH-2C48XF-SFI/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":4645371,
+"sha256":"a8f5060df9d5b711bc6870a3b88148e6801e9993983c0d63d2884f4f02520d04",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":5760,
+"height":3840,
+"mode":"RGBA",
+"thumb_bytes":4860
+},
+"warnings":[],
+"chars":64,
+"text":"aly v a 2 2 ail av Ai7 alv—alv Allvo Ally a\ni val i\nv Aiv al liv",
+"extracted_at":"2026-10-23T05:03:57Z",
+"thumb":"thumbs/Extra_Info__STH__STH10G__STH-2C48XF-SFI__1.png__a8f5060d.jpg"
+}

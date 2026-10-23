@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_SEO__Reddit__saga_reddit_banner_v2.png__2c03620c",
+"path":"Extra_Info/Saga SEO/Reddit/saga_reddit_banner_v2.png",
+"name":"saga_reddit_banner_v2.png",
+"ext":".png",
+"bytes":53431,
+"sha256":"2c03620c4c5a1557ea6d3e6bdec5505a25d766b92e947d67cd235ab50aef902b",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1920,
+"height":384,
+"mode":"RGB",
+"thumb_bytes":4090
+},
+"warnings":[],
+"chars":195,
+"text":"一 一 EnsmEERm6 & SUPPLY-CHAIN-FIRST\nSTI 一 mdustrial\nSAGA Managed switching a\naU Rack » PoE++ 99W ， ALl-fiber L3 + 749w Budget\nSTH — Core & Aggregation\ne 324006 - MPLS / VXLAN / EVPN - Hot-swap PSU",
+"extracted_at":"2026-10-23T05:01:53Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__Reddit__saga_reddit_banner_v2.png__2c03620c.jpg"
+}

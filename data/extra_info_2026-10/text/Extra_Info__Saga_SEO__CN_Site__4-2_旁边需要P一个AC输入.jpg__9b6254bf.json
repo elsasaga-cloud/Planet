@@ -1,0 +1,25 @@
+{
+"id":"Extra_Info__Saga_SEO__CN_Site__4-2_旁边需要P一个AC输入.jpg__9b6254bf",
+"path":"Extra_Info/Saga SEO/CN Site/4-2 旁边需要P一个AC输入.jpg",
+"name":"4-2 旁边需要P一个AC输入.jpg",
+"ext":".jpg",
+"bytes":2945924,
+"sha256":"9b6254bf47256a243bd8a9a8cc97d4f02d2111b107d03ebf42e0aa6347ae6294",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":5000,
+"height":3600,
+"mode":"RGB",
+"datetime":"2024:01:10 22:10:59",
+"software":"Adobe Photoshop CS6 (Windows)",
+"thumb_bytes":3098
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:02:12Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__CN_Site__4-2_旁边需要P一个AC输入.jpg__9b6254bf.jpg"
+}

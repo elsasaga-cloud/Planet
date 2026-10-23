@@ -1,0 +1,376 @@
+{
+"id":"Extra_Info__STH__General__浩湖在售产品名录_V8.11-0812.xls__114b2572",
+"path":"Extra_Info/STH/General/浩湖在售产品名录 V8.11-0812.xls",
+"name":"浩湖在售产品名录 V8.11-0812.xls",
+"ext":".xls",
+"bytes":3426816,
+"sha256":"114b25728d7676f034e444565700f6804d6ce655870f186746aadf66a0dace2e",
+"source":"Extra_Info.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"EN"
+],
+"rows_total":32
+},
+"warnings":[],
+"chars":7467,
+"text":"--- Sheet: EN ---\n浩湖在售产品名录\n内部型号\t前面板\t端口描述\t尺寸/重量\t最低起订量\t最低起订量\n（部件交付业务模式）\t最低起订量\n（原材料交付业务模式）\tHardware-TRUN KEY MOQ\t产品状态\t产品类型\t交付时间\n（首批订单）\t交换芯片\n数据中心网络\nS7800 100G\nS7832Z\t=DISPIMG(\"ID_D2E9084CD46B4CAF948389B79B499281\",1)\t32*100G QSFP28，三层管理型交换机\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPV6\n电源：2*CRPS550W-AC或2*CRPS550W-DC\n风扇：4*热插拔风扇模组\n风向：从前到后\n许可证：预安装HOS-MS\t产品尺寸（宽-深-高）: 442*442*44mm\n纸箱尺寸（宽-深-高）: 665*565*150mm\n净重. (KG)/台: 9.2\n毛重. (KG)/台: 11\t100\t\t\t\tMP\tR&D\t16 WEEKS\tCTC8180\nS7824Z\t=DISPIMG(\"ID_4891E437D6CB4EB29278D3FB6735203E\",1)\t24*100G QSFP28，三层管理型交换机\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPV6\n电源：2*CRPS550W-AC或2*CRPS550W-DC\n风扇：4*热插拔风扇模组\n风向：从前到后\n许可证：N/A\t产品尺寸（宽-深-高）: 442*442*44mm\n纸箱尺寸（宽-深-高）: 665*565*150mm\n净重. (KG)/台: 8.9\n毛重. (KG)/台: 11\t100\t\t\t\t\t\t\tCTC8180\nS7500 25G Downlink 100G Uplink\nS7548N-8Z\t=DISPIMG(\"ID_852AFB3298CE448E96A9A9489FF49074\",1)\t48*25G SFP28，8*100G QSFP28，三层管理型交换机\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPV6\n电源：2*CRPS550W-AC或2*CRPS550W-DC\n风扇：5*热插拔风扇模组\n风向：从前到后\t产品尺寸（宽-深-高）:  442*430*44mm\n纸箱尺寸（宽-深-高）:  665*565*150mm\n净重. (KG)/台: 9\n毛重. (KG)/台: 12.5\t100\t\t\t\tMP\tR&D\t16 WEEKS\tCTC8182\nS7600 40G Downlink 100G Uplink\nS7606X-2Z-EI\t=DISPIMG(\"ID_C42B89F86577440E83216DC42FB3C6FE\",1)\t6*40G QSFP+，2*100G QSFP28，三层管理型交换机，半宽尺寸，支持双节点部署，跨节点冗余电源\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPV6\n电源：1*CRPS350W-AC\n风扇：1*热插拔风扇模组\n风向：从前到后\n许可证：预安装HOS-EB\t产品尺寸（宽-深-高）: 215*356*44mm\n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 3.3\n毛重. (KG)/台: 6.2\t100\t\t\t\tMP\tR&D\t8 WEEKS\tCTC7132\nS5600 10G Downlink 100G/25G Uplink\nS5648T-8Z\t=DISPIMG(\"ID_E7D9C535E81447C5A1280A50E4333996\",1)\t48*100M/1G/2.5G/5G/10G Base-T，8*100G QSFP28，三层管理型交换机\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPV6\n电源：2*CRPS550W-AC或2*CRPS550W-DC\n风扇：2*热插拔风扇模组\n风向：从前到后\n许可证：预安装HOS-MS\t产品尺寸（宽-深-高）: 442*420*44mm\n纸箱尺寸（宽-深-高）: 665*565*150mm\n净重. (KG)/台: 7.2\n毛重. (KG)/台: 10.3\t100\t\t\t\tMP\tR&D\t16 WEEKS\tCTC8180\nS5624T-2Z-EI\t=DISPIMG(\"ID_FB3B6D1A399C4A069DC24226E3F85E5E\",1)\t24*100M/1G/2.5G/5G/10G Base-T，2*100G QSFP28，三层管理型交换机\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPV6\n电源：2*CRPS250W-AC或2*CRPS250W-DC\n风扇：2*热插拔风扇模组\n风向：从前到后\n许可证：预安装HOS-EB\t产品尺寸（宽-深-高）: 442*356.5*44mm\n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 3.5\n毛重. (KG)/台: 7.5\t100\t\t\t\tMP\tR&D\t6-8 WEEKS\tCTC7132\nS5624X-2Z-EI\t=DISPIMG(\"ID_D67B9AAAB55449579988BE2F547DA316\",1)\t24*10G SFP+，2*100G QSFP28，三层管理型交换机\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPV6\n电源：2*CRPS250W-AC或2*CRPS250W-DC\n风扇：2*热插拔风扇模组\n风向：从前到后\n许可证：预安装HOS-EB\t产品尺寸（宽-深-高）: 442*356.5*44mm\n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 5\n毛重. (KG)/台: 9\t100\t\t\t\tMP\tR&D\t16 WEEKS\tCTC7132\n企业网和园区网\nS7600 40G Downlink 100G Uplink\nS7606X-2Z-SI\t=DISPIMG(\"ID_C42B89F86577440E83216DC42FB3C6FE\",1)\t6*40G QSFP+，2*100G QSFP28，三层管理型交换机，半宽尺寸，支持双节点部署\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPV6\n电源：1*固定电源150W-AC\n风扇：2*固定风扇\n风向：从前到后\n许可证：预安装HOS-EB\t产品尺寸（宽-深-高）: 215*356*44mm\n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 3.3\n毛重. (KG)/台: 6.2\t\t\t\t\tDV\tR&D\t6-8 WEEKS\tCTC7132\nS5600 10G Downlink 100G/25G Uplink\nS5648X-8Z-SI\t=DISPIMG(\"ID_E517E582719244B5B204DD14C4C6CC4E\",1)\t48*10G SFP+，8*100G QSFP28，三层管理型交换机\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MLAG/IPV6\n电源：1*固定电源200W-AC\n风扇：4*固定风扇\n风向：从前到后\t产品尺寸（宽-深-高）: 442*356*44mm\n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: TBD\n毛重. (KG)/台: TBD\t100\t\t\t\tMP\tR&D\t6 WEEKS\tCTC8180\nS5624X-2Z-SI\t=DISPIMG(\"ID_44139B13C3C642768656ABDECBD9468F\",1)\t24*10G SFP+，2*100G QSFP28，三层管理型交换机\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPV6\n电源：1*固定电源96W-AC\n风扇：4*固定风扇\n风向：从前到后\n许可证：预安装HOS-EB\t产品尺寸（宽-深-高）: 442*291*44mm\n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 5\n毛重. (KG)/台: 8.5\t200\t\t\t\tMP\tR&D\t8 WEEKS\tCTC7132\nS5624T-2Z-EI\t=DISPIMG(\"ID_FB3B6D1A399C4A069DC24226E3F85E5E\",1)\t24*100M/1G/2.5G/5G/10G Base-T，2*100G QSFP28，三层管理型交换机\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MLAG/IPV6\n电源：2*CRPS250W-AC或2*CRPS250W-DC\n风扇：2*热插拔风扇模组\n风向：从前到后\n许可证：预安装HOS-EB\t产品尺寸（宽-深-高）: 442*356.5*44mm\n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 3.5\n毛重. (KG)/台: 7.5\t100\t\t\t\tMP\tR&D\t6-8 WEEKS\tCTC7132\nS5624T-2Z-SI\t=DISPIMG(\"ID_1935CC39C4F6444A9F4F7D065B8A63E0\",1)\t24*100M/1G/2.5G/5G/10G Base-T，2*100G QSFP28，三层管理型交换机\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MLAG/IPV6\n电源：1*固定电源\n风扇：4*固定风扇\n风向：从前到后\n许可证：预安装HOS-EB\t产品尺寸（宽-深-高）: 442*291*44mm\n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 6.96\n毛重. (KG)/台: 10\t100\t\t\t\tMP\tR&D\t8 WEEKS\tCTC7132\nS5624T-8N\t=DISPIMG(\"ID_A43E5BF483DC42A6A880993C974039CB\",1)\t24*100M/1G/2.5G/5G/10G Base-T，8*25G/10G SFP28，三层管理型交换机\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MLAG/IPV6\n电源：2*CRPS250W-AC或2*CRPS250W-DC\n风扇：2*热插拔风扇模组\n风向：从前到后\t产品尺寸（宽-深-高）: 442*356.5*44mm\n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 6.96\n毛重. (KG)/台: 10\t100\t\t\t\tMP\tR&D\t8 WEEKS\tCTC7132\nS5624P-2Z\t=DISPIMG(\"ID_9D900B71EED84CC38DB46C6D71F473D8\",1)\t24*100M/1G/2.5G/5G/10G Base-T（PoE++ 90W），2*100G QSFP28，三层管理型交换机\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MLAG/IPV6\n电源：\nCRPS600W-AC，CRPS600W-DC\nCRPS900W-AC，CRPS900W-DC\nCRPS1200W-AC，CRPS1200W-DC\nCRPS2000W-AC，CRPS2000W-DC\n风扇：2*热插拔风扇模组\n风向：从前到后\n许可证：预安装HOS-EB\t产品尺寸（宽-深-高）: 442*356.5*44mm\n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 6.96\n毛重. (KG)/台: 8.8\t100\t\t\t\tMP\tR&D\t8 WEEKS\tCTC7132\nS5624P-8N\t=DISPIMG(\"ID_D99A81B7F51A42328F106F598A072588\",1)\t24*100M/1G/2.5G/5G/10G Base-T（PoE++ 90W），8*25G/10G SFP28，三层管理型交换机\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MLAG/IPV6\n电源：\nCRPS600W-AC，CRPS600W-DC\nCRPS900W-AC，CRPS900W-DC\nCRPS1200W-AC，CRPS1200W-DC\nCRPS2000W-AC，CRPS2000W-DC\n风扇：2*热插拔风扇模组\n风向：从前到后\t产品尺寸（宽-深-高）: 442*356.5*44mm\n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 6.96\n毛重. (KG)/台: 10\t100\t\t\t\tMP\tR&D\t8 WEEKS\tCTC7132\nS5612X-16G8N2Q-EI\t=DISPIMG(\"ID_B9D2F536C235478B9482F9C650CC4A06\",1)\t12*10G SFP+，8*1G Base-T，8*1G SFP，8*25G SFP28，2*40G QSFP+，三层管理型交换机\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MLAG/IPV6\n电源：2*CRPS350W-AC\n风扇：2*热插拔风扇模组\n风向：从前到后\t产品尺寸（宽-深-高）: 442*356.5*44mm\n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 6.96\n毛重. (KG)/台: 9\t100\t\t\t\t\t\t\tCTC7132\nS5612X-16G8N2Q-SI\t=DISPIMG(\"ID_B9D2F536C235478B9482F9C650CC4A06\",1)\t12*10G SFP+，8*1G Base-T，8*1G SFP，8*25G SFP28，2*40G QSFP+，三层管理型交换机\n电源：1*固定电源150W-AC\n风扇：4*固定风扇\n风向：从前到后\t产品尺寸（宽-深-高）: 442*291*44mm\n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 6.96\n毛重. (KG)/台: 9\t100\t\t\t\t\t\t\tCTC7132\nS5624XH-2Z-EI\t=DISPIMG(\"ID_5F6A0F47B4984A398A4C263C1E873224\",1)\t24*10G SFP+，2*100G QSFP28，三层管理型交换机，半宽尺寸，支持双节点部署，跨节点冗余电源\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPV6\n电源：1*CRPS350W-AC\n风扇：1*热插拔风扇模组\n风向：从前到后\n许可证：预安装HOS-EB\t产品尺寸（宽-深-高）: 215*356*44mm \n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 3.5\n毛重. (KG)/台: 7.5\t100\t\t\t\tMP\tR&D\t8 WEEKS\tCTC7132\nS5624XH-2Z-SI\t=DISPIMG(\"ID_B526FB6F0664441EB02D87696B5FEFCD\",1)\t24*10G SFP+，2*100G QSFP28，三层管理型交换机，半宽尺寸，支持双节点部署，跨节点冗余电源\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPV6\n电源：1*固定电源150W-AC\n风扇：2*固定风扇\n风向：从前到后\n许可证：预安装HOS-EB\t产品尺寸（宽-深-高）: 215*356*44mm \n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 2.7\n毛重. (KG)/台: 5\t100\t\t\t\tMP\tR&D\t8 WEEKS\tCTC7132\nS5612X12TH-2Z-EI\t=DISPIMG(\"ID_FFAF9392312443C3B90822C7F1F9F39E\",1)\t12*10G SFP+，12*10G Base-T，2*100G QSFP28，三层管理型交换机，半宽尺寸，支持双节点部署，跨节点冗余电源\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MLAG/IPV6\n电源：1*CRPS350W-AC\n风扇：1*热插拔风扇模组\n风向：从前到后\n许可证：预安装HOS-EB\t产品尺寸（宽-深-高）: 215*356*44mm \n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 3.5\n毛重. (KG)/台: 5\t100\t\t\t\tMP\tR&D\t8 WEEKS\tCTC7132\nS5624TH-2Z-EI\t=DISPIMG(\"ID_661F04A35AA74E7FA63A17F85ED1D072\",1)\t24*10G Base-T，2*100G QSFP28，三层管理型交换机，半宽尺寸，支持双节点部署，跨节点冗余电源\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MLAG/IPV6\n电源：1*CRPS350W-AC\n风扇：1*热插拔风扇模组\n风向：从前到后\n许可证：预安装HOS-EB\t产品尺寸（宽-深-高）: 215*356*44mm \n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 3.5\n毛重. (KG)/台: 5\t100\t\t\t\tMP\tR&D\t8 WEEKS\tCTC7132\nS5624TH-2Z-SI\t=DISPIMG(\"ID_91E02FE2E6704AF88D60EA7C83AFEF90\",1)\t24*10G Base-T，2*100G QSFP28，三层管理型交换机，半宽尺寸，支持双节点部署，跨节点冗余电源\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MLAG/IPV6\n电源：1*300W固定电源\n风扇：2*固定风扇\n风向：从前到后\n许可证：预安装HOS-EB\t产品尺寸（宽-深-高）: 215*356*44mm \n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 3.0\n毛重. (KG)/台: 5\t100\t\t\t\tMP\tR&D\t8 WEEKS\tCTC7132",
+"sheets":{
+"EN":{
+"rows":[
+[
+"浩湖在售产品名录"
+],
+[
+"内部型号",
+"前面板",
+"端口描述",
+"尺寸/重量",
+"最低起订量",
+"最低起订量\n（部件交付业务模式）",
+"最低起订量\n（原材料交付业务模式）",
+"Hardware-TRUN KEY MOQ",
+"产品状态",
+"产品类型",
+"交付时间\n（首批订单）",
+"交换芯片"
+],
+[
+"数据中心网络"
+],
+[
+"S7800 100G"
+],
+[
+"S7832Z",
+"=DISPIMG(\"ID_D2E9084CD46B4CAF948389B79B499281\",1)",
+"32*100G QSFP28，三层管理型交换机\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPV6\n电源：2*CRPS550W-AC或2*CRPS550W-DC\n风扇：4*热插拔风扇模组\n风向：从前到后\n许可证：预安装HOS-MS",
+"产品尺寸（宽-深-高）: 442*442*44mm\n纸箱尺寸（宽-深-高）: 665*565*150mm\n净重. (KG)/台: 9.2\n毛重. (KG)/台: 11",
+"100",
+"",
+"",
+"",
+"MP",
+"R&D",
+"16 WEEKS",
+"CTC8180"
+],
+[
+"S7824Z",
+"=DISPIMG(\"ID_4891E437D6CB4EB29278D3FB6735203E\",1)",
+"24*100G QSFP28，三层管理型交换机\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPV6\n电源：2*CRPS550W-AC或2*CRPS550W-DC\n风扇：4*热插拔风扇模组\n风向：从前到后\n许可证：N/A",
+"产品尺寸（宽-深-高）: 442*442*44mm\n纸箱尺寸（宽-深-高）: 665*565*150mm\n净重. (KG)/台: 8.9\n毛重. (KG)/台: 11",
+"100",
+"",
+"",
+"",
+"",
+"",
+"",
+"CTC8180"
+],
+[
+"S7500 25G Downlink 100G Uplink"
+],
+[
+"S7548N-8Z",
+"=DISPIMG(\"ID_852AFB3298CE448E96A9A9489FF49074\",1)",
+"48*25G SFP28，8*100G QSFP28，三层管理型交换机\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPV6\n电源：2*CRPS550W-AC或2*CRPS550W-DC\n风扇：5*热插拔风扇模组\n风向：从前到后",
+"产品尺寸（宽-深-高）:  442*430*44mm\n纸箱尺寸（宽-深-高）:  665*565*150mm\n净重. (KG)/台: 9\n毛重. (KG)/台: 12.5",
+"100",
+"",
+"",
+"",
+"MP",
+"R&D",
+"16 WEEKS",
+"CTC8182"
+],
+[
+"S7600 40G Downlink 100G Uplink"
+],
+[
+"S7606X-2Z-EI",
+"=DISPIMG(\"ID_C42B89F86577440E83216DC42FB3C6FE\",1)",
+"6*40G QSFP+，2*100G QSFP28，三层管理型交换机，半宽尺寸，支持双节点部署，跨节点冗余电源\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPV6\n电源：1*CRPS350W-AC\n风扇：1*热插拔风扇模组\n风向：从前到后\n许可证：预安装HOS-EB",
+"产品尺寸（宽-深-高）: 215*356*44mm\n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 3.3\n毛重. (KG)/台: 6.2",
+"100",
+"",
+"",
+"",
+"MP",
+"R&D",
+"8 WEEKS",
+"CTC7132"
+],
+[
+"S5600 10G Downlink 100G/25G Uplink"
+],
+[
+"S5648T-8Z",
+"=DISPIMG(\"ID_E7D9C535E81447C5A1280A50E4333996\",1)",
+"48*100M/1G/2.5G/5G/10G Base-T，8*100G QSFP28，三层管理型交换机\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPV6\n电源：2*CRPS550W-AC或2*CRPS550W-DC\n风扇：2*热插拔风扇模组\n风向：从前到后\n许可证：预安装HOS-MS",
+"产品尺寸（宽-深-高）: 442*420*44mm\n纸箱尺寸（宽-深-高）: 665*565*150mm\n净重. (KG)/台: 7.2\n毛重. (KG)/台: 10.3",
+"100",
+"",
+"",
+"",
+"MP",
+"R&D",
+"16 WEEKS",
+"CTC8180"
+],
+[
+"S5624T-2Z-EI",
+"=DISPIMG(\"ID_FB3B6D1A399C4A069DC24226E3F85E5E\",1)",
+"24*100M/1G/2.5G/5G/10G Base-T，2*100G QSFP28，三层管理型交换机\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPV6\n电源：2*CRPS250W-AC或2*CRPS250W-DC\n风扇：2*热插拔风扇模组\n风向：从前到后\n许可证：预安装HOS-EB",
+"产品尺寸（宽-深-高）: 442*356.5*44mm\n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 3.5\n毛重. (KG)/台: 7.5",
+"100",
+"",
+"",
+"",
+"MP",
+"R&D",
+"6-8 WEEKS",
+"CTC7132"
+],
+[
+"S5624X-2Z-EI",
+"=DISPIMG(\"ID_D67B9AAAB55449579988BE2F547DA316\",1)",
+"24*10G SFP+，2*100G QSFP28，三层管理型交换机\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPV6\n电源：2*CRPS250W-AC或2*CRPS250W-DC\n风扇：2*热插拔风扇模组\n风向：从前到后\n许可证：预安装HOS-EB",
+"产品尺寸（宽-深-高）: 442*356.5*44mm\n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 5\n毛重. (KG)/台: 9",
+"100",
+"",
+"",
+"",
+"MP",
+"R&D",
+"16 WEEKS",
+"CTC7132"
+],
+[
+"企业网和园区网"
+],
+[
+"S7600 40G Downlink 100G Uplink"
+],
+[
+"S7606X-2Z-SI",
+"=DISPIMG(\"ID_C42B89F86577440E83216DC42FB3C6FE\",1)",
+"6*40G QSFP+，2*100G QSFP28，三层管理型交换机，半宽尺寸，支持双节点部署\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPV6\n电源：1*固定电源150W-AC\n风扇：2*固定风扇\n风向：从前到后\n许可证：预安装HOS-EB",
+"产品尺寸（宽-深-高）: 215*356*44mm\n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 3.3\n毛重. (KG)/台: 6.2",
+"",
+"",
+"",
+"",
+"DV",
+"R&D",
+"6-8 WEEKS",
+"CTC7132"
+],
+[
+"S5600 10G Downlink 100G/25G Uplink"
+],
+[
+"S5648X-8Z-SI",
+"=DISPIMG(\"ID_E517E582719244B5B204DD14C4C6CC4E\",1)",
+"48*10G SFP+，8*100G QSFP28，三层管理型交换机\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MLAG/IPV6\n电源：1*固定电源200W-AC\n风扇：4*固定风扇\n风向：从前到后",
+"产品尺寸（宽-深-高）: 442*356*44mm\n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: TBD\n毛重. (KG)/台: TBD",
+"100",
+"",
+"",
+"",
+"MP",
+"R&D",
+"6 WEEKS",
+"CTC8180"
+],
+[
+"S5624X-2Z-SI",
+"=DISPIMG(\"ID_44139B13C3C642768656ABDECBD9468F\",1)",
+"24*10G SFP+，2*100G QSFP28，三层管理型交换机\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPV6\n电源：1*固定电源96W-AC\n风扇：4*固定风扇\n风向：从前到后\n许可证：预安装HOS-EB",
+"产品尺寸（宽-深-高）: 442*291*44mm\n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 5\n毛重. (KG)/台: 8.5",
+"200",
+"",
+"",
+"",
+"MP",
+"R&D",
+"8 WEEKS",
+"CTC7132"
+],
+[
+"S5624T-2Z-EI",
+"=DISPIMG(\"ID_FB3B6D1A399C4A069DC24226E3F85E5E\",1)",
+"24*100M/1G/2.5G/5G/10G Base-T，2*100G QSFP28，三层管理型交换机\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MLAG/IPV6\n电源：2*CRPS250W-AC或2*CRPS250W-DC\n风扇：2*热插拔风扇模组\n风向：从前到后\n许可证：预安装HOS-EB",
+"产品尺寸（宽-深-高）: 442*356.5*44mm\n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 3.5\n毛重. (KG)/台: 7.5",
+"100",
+"",
+"",
+"",
+"MP",
+"R&D",
+"6-8 WEEKS",
+"CTC7132"
+],
+[
+"S5624T-2Z-SI",
+"=DISPIMG(\"ID_1935CC39C4F6444A9F4F7D065B8A63E0\",1)",
+"24*100M/1G/2.5G/5G/10G Base-T，2*100G QSFP28，三层管理型交换机\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MLAG/IPV6\n电源：1*固定电源\n风扇：4*固定风扇\n风向：从前到后\n许可证：预安装HOS-EB",
+"产品尺寸（宽-深-高）: 442*291*44mm\n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 6.96\n毛重. (KG)/台: 10",
+"100",
+"",
+"",
+"",
+"MP",
+"R&D",
+"8 WEEKS",
+"CTC7132"
+],
+[
+"S5624T-8N",
+"=DISPIMG(\"ID_A43E5BF483DC42A6A880993C974039CB\",1)",
+"24*100M/1G/2.5G/5G/10G Base-T，8*25G/10G SFP28，三层管理型交换机\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MLAG/IPV6\n电源：2*CRPS250W-AC或2*CRPS250W-DC\n风扇：2*热插拔风扇模组\n风向：从前到后",
+"产品尺寸（宽-深-高）: 442*356.5*44mm\n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 6.96\n毛重. (KG)/台: 10",
+"100",
+"",
+"",
+"",
+"MP",
+"R&D",
+"8 WEEKS",
+"CTC7132"
+],
+[
+"S5624P-2Z",
+"=DISPIMG(\"ID_9D900B71EED84CC38DB46C6D71F473D8\",1)",
+"24*100M/1G/2.5G/5G/10G Base-T（PoE++ 90W），2*100G QSFP28，三层管理型交换机\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MLAG/IPV6\n电源：\nCRPS600W-AC，CRPS600W-DC\nCRPS900W-AC，CRPS900W-DC\nCRPS1200W-AC，CRPS1200W-DC\nCRPS2000W-AC，CRPS2000W-DC\n风扇：2*热插拔风扇模组\n风向：从前到后\n许可证：预安装HOS-EB",
+"产品尺寸（宽-深-高）: 442*356.5*44mm\n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 6.96\n毛重. (KG)/台: 8.8",
+"100",
+"",
+"",
+"",
+"MP",
+"R&D",
+"8 WEEKS",
+"CTC7132"
+],
+[
+"S5624P-8N",
+"=DISPIMG(\"ID_D99A81B7F51A42328F106F598A072588\",1)",
+"24*100M/1G/2.5G/5G/10G Base-T（PoE++ 90W），8*25G/10G SFP28，三层管理型交换机\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MLAG/IPV6\n电源：\nCRPS600W-AC，CRPS600W-DC\nCRPS900W-AC，CRPS900W-DC\nCRPS1200W-AC，CRPS1200W-DC\nCRPS2000W-AC，CRPS2000W-DC\n风扇：2*热插拔风扇模组\n风向：从前到后",
+"产品尺寸（宽-深-高）: 442*356.5*44mm\n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 6.96\n毛重. (KG)/台: 10",
+"100",
+"",
+"",
+"",
+"MP",
+"R&D",
+"8 WEEKS",
+"CTC7132"
+],
+[
+"S5612X-16G8N2Q-EI",
+"=DISPIMG(\"ID_B9D2F536C235478B9482F9C650CC4A06\",1)",
+"12*10G SFP+，8*1G Base-T，8*1G SFP，8*25G SFP28，2*40G QSFP+，三层管理型交换机\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MLAG/IPV6\n电源：2*CRPS350W-AC\n风扇：2*热插拔风扇模组\n风向：从前到后",
+"产品尺寸（宽-深-高）: 442*356.5*44mm\n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 6.96\n毛重. (KG)/台: 9",
+"100",
+"",
+"",
+"",
+"",
+"",
+"",
+"CTC7132"
+],
+[
+"S5612X-16G8N2Q-SI",
+"=DISPIMG(\"ID_B9D2F536C235478B9482F9C650CC4A06\",1)",
+"12*10G SFP+，8*1G Base-T，8*1G SFP，8*25G SFP28，2*40G QSFP+，三层管理型交换机\n电源：1*固定电源150W-AC\n风扇：4*固定风扇\n风向：从前到后",
+"产品尺寸（宽-深-高）: 442*291*44mm\n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 6.96\n毛重. (KG)/台: 9",
+"100",
+"",
+"",
+"",
+"",
+"",
+"",
+"CTC7132"
+],
+[
+"S5624XH-2Z-EI",
+"=DISPIMG(\"ID_5F6A0F47B4984A398A4C263C1E873224\",1)",
+"24*10G SFP+，2*100G QSFP28，三层管理型交换机，半宽尺寸，支持双节点部署，跨节点冗余电源\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPV6\n电源：1*CRPS350W-AC\n风扇：1*热插拔风扇模组\n风向：从前到后\n许可证：预安装HOS-EB",
+"产品尺寸（宽-深-高）: 215*356*44mm \n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 3.5\n毛重. (KG)/台: 7.5",
+"100",
+"",
+"",
+"",
+"MP",
+"R&D",
+"8 WEEKS",
+"CTC7132"
+],
+[
+"S5624XH-2Z-SI",
+"=DISPIMG(\"ID_B526FB6F0664441EB02D87696B5FEFCD\",1)",
+"24*10G SFP+，2*100G QSFP28，三层管理型交换机，半宽尺寸，支持双节点部署，跨节点冗余电源\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPV6\n电源：1*固定电源150W-AC\n风扇：2*固定风扇\n风向：从前到后\n许可证：预安装HOS-EB",
+"产品尺寸（宽-深-高）: 215*356*44mm \n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 2.7\n毛重. (KG)/台: 5",
+"100",
+"",
+"",
+"",
+"MP",
+"R&D",
+"8 WEEKS",
+"CTC7132"
+],
+[
+"S5612X12TH-2Z-EI",
+"=DISPIMG(\"ID_FFAF9392312443C3B90822C7F1F9F39E\",1)",
+"12*10G SFP+，12*10G Base-T，2*100G QSFP28，三层管理型交换机，半宽尺寸，支持双节点部署，跨节点冗余电源\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MLAG/IPV6\n电源：1*CRPS350W-AC\n风扇：1*热插拔风扇模组\n风向：从前到后\n许可证：预安装HOS-EB",
+"产品尺寸（宽-深-高）: 215*356*44mm \n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 3.5\n毛重. (KG)/台: 5",
+"100",
+"",
+"",
+"",
+"MP",
+"R&D",
+"8 WEEKS",
+"CTC7132"
+],
+[
+"S5624TH-2Z-EI",
+"=DISPIMG(\"ID_661F04A35AA74E7FA63A17F85ED1D072\",1)",
+"24*10G Base-T，2*100G QSFP28，三层管理型交换机，半宽尺寸，支持双节点部署，跨节点冗余电源\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MLAG/IPV6\n电源：1*CRPS350W-AC\n风扇：1*热插拔风扇模组\n风向：从前到后\n许可证：预安装HOS-EB",
+"产品尺寸（宽-深-高）: 215*356*44mm \n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 3.5\n毛重. (KG)/台: 5",
+"100",
+"",
+"",
+"",
+"MP",
+"R&D",
+"8 WEEKS",
+"CTC7132"
+],
+[
+"S5624TH-2Z-SI",
+"=DISPIMG(\"ID_91E02FE2E6704AF88D60EA7C83AFEF90\",1)",
+"24*10G Base-T，2*100G QSFP28，三层管理型交换机，半宽尺寸，支持双节点部署，跨节点冗余电源\n主要软件特性：VXLAN/EVPN/BGP/OSPF/MLAG/IPV6\n电源：1*300W固定电源\n风扇：2*固定风扇\n风向：从前到后\n许可证：预安装HOS-EB",
+"产品尺寸（宽-深-高）: 215*356*44mm \n纸箱尺寸（宽-深-高）: 557*495*150mm\n净重. (KG)/台: 3.0\n毛重. (KG)/台: 5",
+"100",
+"",
+"",
+"",
+"MP",
+"R&D",
+"8 WEEKS",
+"CTC7132"
+]
+]
+}
+},
+"extracted_at":"2026-10-23T05:03:42Z"
+}

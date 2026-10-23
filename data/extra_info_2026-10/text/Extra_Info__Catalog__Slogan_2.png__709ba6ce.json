@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Catalog__Slogan_2.png__709ba6ce",
+"path":"Extra_Info/Catalog/Slogan 2.png",
+"name":"Slogan 2.png",
+"ext":".png",
+"bytes":2889099,
+"sha256":"709ba6cee99dc3c4c73823bce3c7553adb9c6b34801c3fc04a0b890cfea3dcb2",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":1919,
+"height":1079,
+"mode":"RGBA",
+"thumb_bytes":7244
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:01:42Z",
+"thumb":"thumbs/Extra_Info__Catalog__Slogan_2.png__709ba6ce.jpg"
+}

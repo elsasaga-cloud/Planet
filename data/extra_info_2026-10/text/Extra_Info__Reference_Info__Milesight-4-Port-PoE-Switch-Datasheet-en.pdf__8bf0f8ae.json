@@ -1,0 +1,28 @@
+{
+"id":"Extra_Info__Reference_Info__Milesight-4-Port-PoE-Switch-Datasheet-en.pdf__8bf0f8ae",
+"path":"Extra_Info/Reference Info/Milesight-4-Port-PoE-Switch-Datasheet-en.pdf",
+"name":"Milesight-4-Port-PoE-Switch-Datasheet-en.pdf",
+"ext":".pdf",
+"bytes":1248503,
+"sha256":"8bf0f8ae81a4282edd626222c7bffbfe6c0d3a0eb1d3c14ebb90c427c0cdb8c3",
+"source":"Extra_Info.zip",
+"method":"pdfplumber",
+"status":"ok",
+"meta":{
+"pages":3,
+"author":"admin",
+"creator":"WPS 文字",
+"creationdate":"D:20220309205421+12'54'",
+"moddate":"D:20220309205421+12'54'",
+"ocr_pages":0
+},
+"warnings":[],
+"chars":1114,
+"text":"[p2]\n6\nModel MS-S0204-EL\n4\n-\nPorts 4X10/100MbpsPoEports(RJ45)+2X100Mbpsuplinkports\nC\nIEEE802.310Base-T H\nIEEE802.3i10Base-T\nStandard\nIEEE802.3u100Base-TX\nIEEE802.3x\nSwitchingCapacity 1.6Gbps(non-blocking)\nPacketForwardingRate@64byte 0.89Mpps\nPacketForwardingCache 768K\nMAC 1K\nBuilt-inswitchingpowersupply\nPowerSupply\nAC100~240V,50-60Hz,1A\nPoEStandard IEEE802.3af/at\nMax.capacity:65W\nMax.PoEPower\nMax.capacityforsingleport:30W\nStandardMode:Port1~6:10/100Mbpsauto-sensing@100meters\nFunctionalSwitch ExtendMode:Port1~4:10Mbps@250meters&Port5~6:100Mbps@100meters\nNote:Whentheswitchstatuschanges,PoEswitchmustberestartedfortheswitchfunctiontotakeeffect.\nPowerIndicator:PWR(green)\nNetworkIndicator:Link(yellow)\nIndicator\nPoEWorkingIndicator:PoE(green)\nFunctionalSwitchIndicator:EXTEND(green)\nOperatingTemperature -20℃~55℃\nStorageTemperature -40℃~75℃\nOperating/StorageHumidity 10%~90%RH(non-condensing)\nPortlightningprotection:4KV8/20us\nLightningProtection/ProtectionLevel\nProtectionlevel:IP30\nDimensions 142.5mm(W)X115mm(D)X40mm(H)\nWeight 0.5kg\nInstallationMethod DesktopMountedType/WallMountedType\nWarranty 2Years\nV2.01",
+"pages":[
+"",
+"6\nModel MS-S0204-EL\n4\n-\nPorts 4X10/100MbpsPoEports(RJ45)+2X100Mbpsuplinkports\nC\nIEEE802.310Base-T H\nIEEE802.3i10Base-T\nStandard\nIEEE802.3u100Base-TX\nIEEE802.3x\nSwitchingCapacity 1.6Gbps(non-blocking)\nPacketForwardingRate@64byte 0.89Mpps\nPacketForwardingCache 768K\nMAC 1K\nBuilt-inswitchingpowersupply\nPowerSupply\nAC100~240V,50-60Hz,1A\nPoEStandard IEEE802.3af/at\nMax.capacity:65W\nMax.PoEPower\nMax.capacityforsingleport:30W\nStandardMode:Port1~6:10/100Mbpsauto-sensing@100meters\nFunctionalSwitch ExtendMode:Port1~4:10Mbps@250meters&Port5~6:100Mbps@100meters\nNote:Whentheswitchstatuschanges,PoEswitchmustberestartedfortheswitchfunctiontotakeeffect.\nPowerIndicator:PWR(green)\nNetworkIndicator:Link(yellow)\nIndicator\nPoEWorkingIndicator:PoE(green)\nFunctionalSwitchIndicator:EXTEND(green)\nOperatingTemperature -20℃~55℃\nStorageTemperature -40℃~75℃\nOperating/StorageHumidity 10%~90%RH(non-condensing)\nPortlightningprotection:4KV8/20us\nLightningProtection/ProtectionLevel\nProtectionlevel:IP30\nDimensions 142.5mm(W)X115mm(D)X40mm(H)\nWeight 0.5kg\nInstallationMethod DesktopMountedType/WallMountedType\nWarranty 2Years\nV2.01",
+""
+],
+"extracted_at":"2026-10-23T05:07:14Z"
+}

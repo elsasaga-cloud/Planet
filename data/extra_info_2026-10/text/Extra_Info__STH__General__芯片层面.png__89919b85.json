@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__STH__General__芯片层面.png__89919b85",
+"path":"Extra_Info/STH/General/芯片层面.png",
+"name":"芯片层面.png",
+"ext":".png",
+"bytes":94800,
+"sha256":"89919b8512146093c5d3468fef0f21eb4cf6b6b0a170dae5f8823466f334cea8",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1349,
+"height":749,
+"mode":"RGBA",
+"thumb_bytes":9434
+},
+"warnings":[],
+"chars":567,
+"text":"broadcom 博通 老大 全 域 供应 商 技术 领先 TH5 51.2T\n芯片 层面 的 marvell 美 薄 华人 创办 老 二 51.2\nMicrochip (VTS)- 工 业 以 太 网 SDK\n海外 供应 商\nbarefoot (intel) - roadmap stop --- 分 流 器 TAP --IDC GW\nNvadia-mellanox networks ---Al -- 训 练 推理\nmaxlinaer 迈 潜 ---SMB\ncentec 盛 科 -- 国 产 第 一 ” 缺 PHY 缺 CPU\n_ lanforward 楠 非 微 電 子 国防 科大 H 80% SMB-- 傳 統 IDC\n主 要 供應 商 (交換 ) 、 very\n国内 CLOUNIX 云 合 智 网 云 计算 场景 MTK 上 海 国资 委 腾讯\n裕 太 微 电 子 工业 PHY ，SMB\n儿 SEMI 景 略 SMB MarvelI 员 工 创 业\nREALTEK SMB+ENT ACCESS ,83xx 干 兆 , 930x-931x 干 + 万 , 933x 10G\n+25G/100G NEW G 没 量 产 / 跟随 策略 /成 本 导向\nTW MTK-DARFA/ECON SMB\nIC Plus SMB",
+"extracted_at":"2026-10-23T05:03:49Z",
+"thumb":"thumbs/Extra_Info__STH__General__芯片层面.png__89919b85.jpg"
+}

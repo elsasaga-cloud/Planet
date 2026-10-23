@@ -1,0 +1,1301 @@
+{
+"id":"Extra_Info__STH__XLite__XLite_Series.pptx__0bbab875",
+"path":"Extra_Info/STH/XLite/XLite Series.pptx",
+"name":"XLite Series.pptx",
+"ext":".pptx",
+"bytes":2125153,
+"sha256":"0bbab875318652f88e8386659bfe9b6e09462e295e62bc16e74a523315f5b786",
+"source":"Extra_Info.zip",
+"method":"python-pptx",
+"status":"ok",
+"meta":{
+"slides":12,
+"pictures":43
+},
+"warnings":[],
+"chars":13302,
+"text":"[slide 1]\nXLite SERIES SWITCHES\nDATASHEET\nFlexible Campus and Enterprise Switch\nProduct Overview\nThe XLite Series switches are designed on a domestic popular switch chip, which is called VastLakes and BigFlow Chip platform.\nWith 10G/25G/40G/100G high speed ports and rich features, these switches will perfectly meet the requirements of Campus, Enterprise, Data Center, and SDVoE  networks.\nKey features of the XLite Series Switches\nVersion: V1.4\u000bRelease Date: 2025/12/17\nBuilt-in SDVoE API Server simplifies user operation steps.\nSupports the implementation of physical dual-machine redundancy in 1U space, reducing the user's usage cost.\nMLAG which can build an Active-Active system to improve the reliability of the network links from single board grade to device grade.\nSupports Precision Timing Protocol.\nRich L2/L3 features like IPv6, OSPF, BGP, PIM, etc.\nThe XLite Series switches provide various power supply solutions for customers choosing, fixed single power supply, and redundant hot-swappable power supplies (AC and DC are both available).\nThe fan solutions also have 1 bay with field replaceable fan modules and build in fans. Generally, air flow of XLite Series is front to back (AFO), and some of models can do customization of back to front (AFI) airflow.\nTable 1: Feasible PSU and airflow of XLite Series\nItems\tAC\tDC\tAFO\tAFI\tPower Input\tFAN\nSTH-14C4DX-HSI\t◯\t◯\t◯\t◯\t2\t2\nSTH-2C6QX-HSI\t◯\t◯\t◯\t◯\t1\t1\nSTH-2C6QX-SFI\t◯\tX\t◯\tX\t1\t2\n\n[slide 2]\nSTOS allows users to quickly configure common configuration items using a visual WEB GUI, which lowers the application threshold for users.\nMoreover, SDVoE switches built-in SDVoE API Server, users no need to purchase additional SDVoE controller, simplifying the network architecture.\nThe web page is simple and easy to operate, without complicated steps, only the following three simple parts: SDVoE, Multicast, DHCP Server, you can complete the relevant configuration of SDVoE, and reduce the overall time cost and project cost of users.\nVisual WEB UI\nItems\tAC\tDC\tAFO\tAFI\tPower Input\tFAN\nSTH-2C24XF-HSI\t◯\t◯\t◯\t◯\t1\t1\nSTH-2C24XF-SFI\t◯\tX\t◯\tX\t1\t2\nSTH-2C12XF12XE-HSI\t◯\t◯\t◯\t◯\t1\t1\nSTH-2C12XF12XE-SFI\t◯\tX\t◯\tX\t1\t2\nSTH-2C24XE-HSI\t◯\t◯\t◯\t◯\t1\t1\nSTH-2C24XE-SFI\t◯\tX\t◯\tX\t1\t2\n\n[slide 3]\nOutstanding management features\nThe XLite Series switches support varied management ways, include console port / in-band network ports / out-of-band network port. Support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, etc. to ensure security of management.\nMoreover, leveraging its profound technical expertise and in-depth understanding of campus and enterprise networking needs, Saga Telecom has launched the Da Hu Cloud Management System (DHCS).\nIt enhances network management and maintenance efficiency, reduces costs, elevates management intelligence, and delivers a faster, smarter, more secure and reliable network to better meet user requirements.\n\n[slide 4]\nSupport MLAG (Multi-Chassis Link Aggregation) to aggregate links across different devices. MLAG can build an Active-Active system to improve the reliability of the network links from single board grade to device grade. MLAG use a peer link between to devices to aggregate two devices and make them as one device logically. Ports of two different devices join the aggregate ports together and all port can transmit the data traffic. MLAG need to management the device respectively, but the configurations are easier than stacking, reboot is NOT required after MLAG is configured. Forwarding and configuring are processing on local device, in normal condition the traffic do NOT transmit trough the peer link, the bandwidth of peer link is not the bottleneck of the network and the latency is low.\nSupport MLAG Active-active dual-system hot backup\nMLAG Active-active dual-system hot backup\nGateway\nAccess switch\nCore switch\nPC\nActive\nActive\nGateway\nAccess switch\nCore switch\nPC\nActive\nGateway\nAccess switch\nCore switch\nPC\nActive\nActive\nSupports Multiple Dual-system Physical Hot Backup\nDual Physical backup\nCore switch\n1\nSwitches links for server access in 1U\nAccess switch\n2\nDual-homing for access switches in 1U\nDual reduntant power supplies（support RPS）\n3\nRedundant backup cables for the dual power supplies\nAC Power Input\nCore switch\nAccess switch\nAccess switch\nAC Power Input\n\n[slide 5]\nFlexible and Diverse Deployment modes, with 1U for Dual Physical Redundancy\n1\nTwo-node Installation\n2\nFix screws\n3\nInstall stacking brackets\nTwo-node Installation without Cabinet\n5\nSingle-row stacking without cabinets\n4\n1\nInstall stack bracket\n2\nInstall front stack bracket\n1\nTwo-node Installation\n2\nFix screws\n3\nInstall mounting brackets\nTwo-node Installation in 1U Cabinet\n3\nSingle-cabinet Installation with 1U\n1\n1\nInstall the rear slide rail\n2\nMounting racks\n1U  Wall-mounted Installation\n2\n1\nWall-mounted Installation\n\n[slide 6]\nTable 2: Family of the XLite Series switches\nThe XLite family of Ethernet switches consist of the following models:\nModels\tEthernet Ports\tManagement\tPSU 1/PSU 2\tCooling\nSTH-14C4DX-HSI\t14 x 100G QSFP28, \n4 x 25G SFP28\tConsole: RJ45 RS232\u000bEthernet: 1G Port\u000bStorage: USB\t300W/300W CRPS\t2 x hot-swappable Fan Module\u000b(front-to-back airflow)\nSTH-2C6QX-HSI\t6 x 40G QSFP+, \n2 x 100G QSFP28\t\t350W CRPS\t1 x hot-swappable Fan Module\u000b(front-to-back airflow)\nSTH-2C6QX-SFI\t\t\t150W Fixed single power supply\t2 x fixed fans\u000b(front-to-back airflow)\nSTH-2C24XF-HSI\t24 x 10G SFP+, \n2 x 100G QSFP28\tConsole: RJ45 RS232\u000bEthernet: 1G Port\t550W CRPS\t1 x hot-swappable Fan Module\u000b(front-to-back airflow)\nSTH-2C24XF-SFI\t\t\t150W Fixed single power supply\t2 x fixed fans\u000b(front-to-back airflow)\nSTH-2C12XF12XE-HSI\t12 x 10G SFP+, \n12 x 10G Base-T, \n2 x 100G QSFP28\t\t550W CRPS\t1 x hot-swappable Fan Module\u000b(front-to-back airflow)\nSTH-2C12XF12XE-SFI\t\t\tFixed single power supply\t3 x fixed fans\u000b(front-to-back airflow)\nSTH-2C24XE-HSI\t24 x 10G Base-T, \n2 x 100G QSFP28\t\t550W CRPS\t1 x hot-swappable Fan Module\u000b(front-to-back airflow)\nSTH-2C24XE-SFI\t\t\t300W Fixed single power supply\t2 x fixed fans\u000b(front-to-back airflow)\n\n[slide 7]\nXLite Physical Specifications\nPacket Switch capacity (bidirectional)\nSTH-14C4DX-HSI: 3.0Tbps\nSTH-2C6QX-HSI: 880Gbps\nSTH-2C6QX-SFI: 880Gbps\nSTH-2C24XF-HSI: 880Gbps\nSTH-2C24XF-SFI: 880Gbps\nSTH-2C12XF12XE-HSI: 880Gbps\nSTH-2C12XF12XE-SFI: 880Gbps\nSTH-2C24XE-HSI: 880Gbps\nSTH-2C24XE-SFI: 880Gbps\nLayer 2/Layer 3 Throughput (bidirectional)\nSTH-14C4DX-HSI: 4464Mpps\nSTH-2C6QX-HSI: 1309.44Mpps\nSTH-2C6QX-SFI: 1309.44Mpps\nSTH-2C24XF-HSI: 1309.44Mpps\nSTH-2C24XF-SFI: 1309.44Mpps\nSTH-2C12XF12XE-HSI: 1309.44Mpps\nSTH-2C12XF12XE-SFI: 1309.44Mpps\nSTH-2C24XE-HSI: 1309.44Mpps\nSTH-2C24XE-SFI: 1309.44Mpps\nCooling [CFM]\nSTH-14C4DX-HSI: 21.61cfm\nSTH-2C6QX-HSI: 34.38cfm\nSTH-2C6QX-SFI: 23.24cfm\nSTH-2C24XF-HSI: 34.38cfm\nSTH-2C24XF-SFI: 23.24cfm\nSTH-2C12XF12XE-HSI: 38.49cfm\nSTH-2C12XF12XE-SFI:TBD\nSTH-2C24XE-HSI:  38.49cfm\nSTH-2C24XE-SFI: 41.43cfm\nAcoustic in dBA\nSTH-14C4DX-HSI: 62.67dB\nSTH-2C6QX-HSI: 43.67dB\nSTH-2C6QX-SFI: 47.1dB\nSTH-2C24XF-HSI: 39.1dB\nSTH-2C24XF-SFI: 46.87dB\nSTH-2C12XF12XE-HSI: 49.4dB\nSTH-2C12XF12XE-SFI: TBD\nSTH-2C24XE-HSI: 45.47dB\nSTH-2C24XE-SFI: 39.1dB\nEnvironmental ranges\nOperating temperature: 0ºC to 40ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90% (No condensation)\nStore Humidity: 0 to 95% (No condensation)\nTemperature alarm\nAlarm threshold: 50ºC\nMemory\neMMc: 8GB on all models\nDRAM: 2GB on all models\nCPU\nDual-core processor, ARM A53\nMTBF\nSTH-14C4DX-HSI: ≥90000H\nSTH-2C6QX-HSI: ≥90000H\nSTH-2C6QX-SFI: ≥70000H\nSTH-2C24XF-HSI: ≥90000H\nSTH-2C24XF-SFI: ≥70000H\nMTBF(continued)\nSTH-2C12XF12XE-HSI: ≥90000H\nSTH-2C12XF12XE-SFI: ≥70000H\nSTH-2C24XE-HSI: ≥90000H\nSTH-2C24XE-SFI: ≥70000H\n\n[slide 8]\nXLite Physical Specifications\nPower consumption\nWorst case, all ports used, line-rate traffic\nSTH-14C4DX-HSI: 133W\nSTH-2C6QX-HSI: 56W\nSTH-2C6QX-SFI: TBD\nSTH-2C24XF-HSI: 64W\nSTH-2C24XF-SFI: 38W\nSTH-2C12XF12XE-HSI: 81W\nSTH-2C12XF12XE-SFI: TBD\nSTH-2C24XE-HSI: 101W\nSTH-2C24XE-SFI: 98W\nTypical Power consumption\nSTH-14C4DX-HSI: 123W\nSTH-2C6QX-HSI: 55W\nSTH-2C6QX-SFI: TBD\nSTH-2C24XF-HSI: 39W\nSTH-2C24XF-SFI: 36W\nSTH-2C12XF12XE-HSI: 77W\nSTH-2C12XF12XE-SFI: TBD\nSTH-2C24XE-HSI: 100W\nSTH-2C24XE-SFI: 94W\nDimensions (W x H x D) without package\nSTH-14C4DX-HSI: 21.5x4.4x40.8cm\nSTH-2C6QX-HSI: 21.5x4.4x35.5cm\nSTH-2C6QX-SFI: 21.5x4.4x35.5cm\nSTH-2C24XF-HSI: 21.5x4.4x35.5cm\nSTH-2C24XF-SFI: 21.5x4.4x35.5cm\nSTH-2C12XF12XE-HSI: 21.5x4.4x35.6cm\nSTH-2C12XF12XE-SFI: 21.5x4.4x35.6cm\nSTH-2C24XE-HSI: 21.5x4.4x35.6cm\nSTH-2C24XE-SFI: 21.5x4.4x35.6cm\nDimensions (W x H x D) with package\nSTH-14C4DX-HSI: 55.7x15x49.5cm\nSTH-2C6QX-HSI: 48.5x12.5x34.3cm\nSTH-2C6QX-SFI: 48.5x12.5x34.3cm\nSTH-2C24XF-HSI: 48.5x12.5x34.3cm\nSTH-2C24XF-SFI: 48.5x12.5x34.3cm\nSTH-2C12XF12XE-HSI: 48.5x12.5x34.3cm\nSTH-2C12XF12XE-SFI: 48.5x12.5x34.3cm\nSTH-2C24XE-HSI: 48.5x12.5x34.3cm\nSTH-2C24XE-SFI: 48.5x12.5x34.3cm\nWeight  (Net Weight/Gross Weight)\nSTH-14C4DX-HSI: 4.5Kg/7Kg\nSTH-2C6QX-HSI: 3.3Kg/5.3Kg\nSTH-2C6QX-SFI: 3Kg/5Kg\nSTH-2C24XF-HSI: 3.5Kg/5.5Kg\nSTH-2C24XF-SFI: 2.7Kg/4.7Kg\nSTH-2C12XF12XE-HSI: 3.5Kg/5.5Kg\nSTH-2C12XF12XE-SFI: 3Kg/5Kg\nSTH-2C24XE-HSI: 3.5Kg/5.5Kg\nSTH-2C24XE-SFI: 3Kg/5Kg\nOperating altitude\nSTH-14C4DX-HSI: ≤5000m\nSTH-2C6QX-HSI: ≤5000m\nSTH-2C6QX-SFI: ≤3000m\nSTH-2C24XF-HSI: ≤5000m\nSTH-2C24XF-SFI: ≤3000m\nSTH-2C12XF12XE-HSI: ≤5000m\nSTH-2C12XF12XE-SFI: ≤5000m\nSTH-2C24XE-HSI: ≤5000m\nSTH-2C24XE-SFI: ≤5000m\n\n[slide 9]\nXLite Software Specifications\n* All Saga Telecom switches use a normalized software platform and image package file\n* Unified software version iteration plan\n* Unified user experience\nSTOS Network Platform\nLayer 2 switching\nIPv4/lPv6 Unicast Routing\nQoS\nIP Multicast Snooping/Proxy\nIPv4/lPv6 Multi cast Routing\nVRRP\nMultiprotocol Label Switching(MPLS)\nVirtual Private LAN Service(VPLS)\nVirtual Routing and Switching\nGeneralized Multiprotocol LabelSwitching(GMPLS)\nIPv6 Tunneling and TransitionTechnologies\nIP/MPLS OAM\nService management module\nFault Managemet (FM)\nHigh Availability (HA)\nIntegrated Management Interface (CLl, SNMP, WEB, RMON, RPC-API, Netconf, etc)\nHardware and platform abstraction layer\nAdvanced integration Suite\nCENTEC swtich chip  SDK\nSilicon in Pizza, Stacking or Chassis\nConfiguration\nOperating Systems TCP/IP Stacks\nLinux , IPv4/Pv6 Dual Stack\nHardware layer\nCENTEC Switch Chipset\nCPU Subsystem\nCooling SubSystem\nAC/DC DC/DC CLK\nEnvironmental Management Subsystem\nLogical Control Subunit\nSaga Telecom implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘STOS Software features’ .\n\n[slide 10]\nOrdering Information\nXLite Series Switches\nAC/DC Power Supplies use for STH-14C4DX-HSI, STH-2C6QX-HSI\nSTH-2C24XF-HSI, STH-2C12XF12XE-HSI, STH-2C24XE-HSI\nItems\tDescription\nSTH-14C4DX-HSI\t100G enterprise switch, with 14*100G QSFP28, 4*25G SFP28, \n2*hot-swap PSU modules(C13), 2*hot-swap fan modules.\nSTH-2C6QX-HSI\t40G enterprise switch, with 6*40G QSFP+, 2*100G QSFP28, 1*hot-swap PSU module(C13), 1*hot-swap fan module.\nSTH-2C6QX-SFI\t40G enterprise switch, with 6*40G QSFP+, 2*100G QSFP28, 1*fixed PSU(C13), 2 fixed Fans.\nSTH-2C24XF-HSI\t10G enterprise switch, with 24*10G SFP+, 2*100G QSFP28, 1*hot-swap PSU module(C13), 1*hot-swap fan module.\nSTH-2C24XF-SFI\t10G enterprise switch, with 24*10G SFP+, 2*100G QSFP28, 1*fixed PSU(C13), 2 fixed Fans.\nSTH-2C12XF12XE-HSI\t10G enterprise switch, with 12*10G SFP+, 12*10G Base-T, 2*100G QSFP28, 1*hot-swap PSU module(C13), 1*hot-swap fan module.\nSTH-2C12XF12XE-SFI\t10G enterprise switch, with 12*10G SFP+, 12*10G Base-T, 2*100G QSFP28, 1*fixed PSU(C13), 2 fixed Fans.\nSTH-2C24XE-HSI\t10G enterprise switch, with 24*10G Base-T, 2*100G QSFP28, 1*hot-swap PSU module(C13), 1*hot-swap fan module.\nSTH-2C24XE-SFI\t10G enterprise switch, with 24*10G Base-T, 2*100G QSFP28, 1*fixed PSU(C13), 2 fixed Fans.\nItems\tDescription\nPSU-300-AC-AFO\t300W AC power supply (front-to-back airflow)\nPSU-350-AC-AFO\t350W AC power supply (front-to-back airflow)\nPSU-550-AC-AFO\t550W AC power supply (front-to-back airflow)\nPSU-550-DC-AFO\t550W DC power supply (front-to-back airflow)\n\n[slide 11]\nAccessory of XLite Series\nItems\tFront Mounting Bracket- Short\tFront Mounting Bracket- Long\tRear Mounting Bracket\tSliding Rail\tWall-Mounting Bracket\tMiddle Mounts- Female\tMiddle Mounts-Male\nSTH-14C4DX-HSI\t1\t1\t1\t1\t2\t1\t1\nSTH-2C6QX-HSI\t1\t1\t1\t1\t2\t1\t1\nSTH-2C6QX-SFI\t1\t1\t0\t0\t0\t1\t1\nSTH-2C24XF-HSI\t1\t1\t1\t1\t2\t1\t1\nSTH-2C24XF-SFI\t1\t1\t0\t0\t0\t1\t1\nSTH-2C12XF12XE-HSI\t1\t1\t1\t1\t2\t1\t1\nSTH-2C12XF12XE-SFI\t1\t1\t0\t0\t0\t1\t1\nSTH-2C24XE-HSI\t1\t1\t1\t1\t2\t1\t1\nSTH-2C24XE-SFI\t1\t1\t0\t0\t0\t1\t1\nItems\tGrounding Cable\tPower Cord\tRPS Cord\tConsole Cable\tM4 Screws\tStack bracket Front\tStack bracket Back\nSTH-14C4DX-HSI\t1\t1\t1\t1\t12\t2\t2\nSTH-2C6QX-HSI\t1\t1\t1\t1\t12\t0\t0\nSTH-2C6QX-SFI\t1\t1\t1\t1\t12\t0\t0\nSTH-2C24XF-HSI\t1\t1\t1\t1\t12\t2\t2\nSTH-2C24XF-SFI\t1\t1\t1\t1\t12\t0\t0\nSTH-2C12XF12XE-HSI\t1\t1\t1\t1\t12\t2\t2\nSTH-2C12XF12XE-SFI\t1\t1\t1\t1\t12\t0\t0\nSTH-2C24XE-HSI\t1\t1\t1\t1\t12\t2\t2\nSTH-2C24XE-SFI\t1\t1\t1\t1\t12\t0\t0\n\n[slide 12]\nSoftware Licenses\nItems\tDescription\nSoftware License\tEB, L3  features software license key, preinstalled on SFI models.\nSoftware License\tMS, L3 enhance features software license key, preinstalled on HSI models.\nSoftware License\tMA, MPLS features software license key\nSoftware License\tST, Stacking feature software license key",
+"slides":[
+{
+"n":1,
+"items":[
+{
+"t":"p",
+"text":"XLite SERIES SWITCHES\nDATASHEET\nFlexible Campus and Enterprise Switch"
+},
+{
+"t":"p",
+"text":"Product Overview"
+},
+{
+"t":"p",
+"text":"The XLite Series switches are designed on a domestic popular switch chip, which is called VastLakes and BigFlow Chip platform.\nWith 10G/25G/40G/100G high speed ports and rich features, these switches will perfectly meet the requirements of Campus, Enterprise, Data Center, and SDVoE  networks."
+},
+{
+"t":"p",
+"text":"Key features of the XLite Series Switches"
+},
+{
+"t":"p",
+"text":"Version: V1.4\u000bRelease Date: 2025/12/17"
+},
+{
+"t":"picture",
+"name":"图片 9"
+},
+{
+"t":"p",
+"text":"Built-in SDVoE API Server simplifies user operation steps.\nSupports the implementation of physical dual-machine redundancy in 1U space, reducing the user's usage cost.\nMLAG which can build an Active-Active system to improve the reliability of the network links from single board grade to device grade.\nSupports Precision Timing Protocol.\nRich L2/L3 features like IPv6, OSPF, BGP, PIM, etc."
+},
+{
+"t":"p",
+"text":"The XLite Series switches provide various power supply solutions for customers choosing, fixed single power supply, and redundant hot-swappable power supplies (AC and DC are both available).\nThe fan solutions also have 1 bay with field replaceable fan modules and build in fans. Generally, air flow of XLite Series is front to back (AFO), and some of models can do customization of back to front (AFI) airflow."
+},
+{
+"t":"p",
+"text":"Table 1: Feasible PSU and airflow of XLite Series"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"AC",
+"DC",
+"AFO",
+"AFI",
+"Power Input",
+"FAN"
+],
+[
+"STH-14C4DX-HSI",
+"◯",
+"◯",
+"◯",
+"◯",
+"2",
+"2"
+],
+[
+"STH-2C6QX-HSI",
+"◯",
+"◯",
+"◯",
+"◯",
+"1",
+"1"
+],
+[
+"STH-2C6QX-SFI",
+"◯",
+"X",
+"◯",
+"X",
+"1",
+"2"
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":2,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"AC",
+"DC",
+"AFO",
+"AFI",
+"Power Input",
+"FAN"
+],
+[
+"STH-2C24XF-HSI",
+"◯",
+"◯",
+"◯",
+"◯",
+"1",
+"1"
+],
+[
+"STH-2C24XF-SFI",
+"◯",
+"X",
+"◯",
+"X",
+"1",
+"2"
+],
+[
+"STH-2C12XF12XE-HSI",
+"◯",
+"◯",
+"◯",
+"◯",
+"1",
+"1"
+],
+[
+"STH-2C12XF12XE-SFI",
+"◯",
+"X",
+"◯",
+"X",
+"1",
+"2"
+],
+[
+"STH-2C24XE-HSI",
+"◯",
+"◯",
+"◯",
+"◯",
+"1",
+"1"
+],
+[
+"STH-2C24XE-SFI",
+"◯",
+"X",
+"◯",
+"X",
+"1",
+"2"
+]
+]
+},
+{
+"t":"p",
+"text":"STOS allows users to quickly configure common configuration items using a visual WEB GUI, which lowers the application threshold for users.\nMoreover, SDVoE switches built-in SDVoE API Server, users no need to purchase additional SDVoE controller, simplifying the network architecture.\nThe web page is simple and easy to operate, without complicated steps, only the following three simple parts: SDVoE, Multicast, DHCP Server, you can complete the relevant configuration of SDVoE, and reduce the overall time cost and project cost of users."
+},
+{
+"t":"picture",
+"name":"Picture 3"
+},
+{
+"t":"p",
+"text":"Visual WEB UI"
+}
+],
+"notes":""
+},
+{
+"n":3,
+"items":[
+{
+"t":"p",
+"text":"Outstanding management features"
+},
+{
+"t":"p",
+"text":"The XLite Series switches support varied management ways, include console port / in-band network ports / out-of-band network port. Support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, etc. to ensure security of management.\nMoreover, leveraging its profound technical expertise and in-depth understanding of campus and enterprise networking needs, Saga Telecom has launched the Da Hu Cloud Management System (DHCS).\nIt enhances network management and maintenance efficiency, reduces costs, elevates management intelligence, and delivers a faster, smarter, more secure and reliable network to better meet user requirements."
+},
+{
+"t":"picture",
+"name":"图片 103"
+}
+],
+"notes":""
+},
+{
+"n":4,
+"items":[
+{
+"t":"p",
+"text":"Support MLAG (Multi-Chassis Link Aggregation) to aggregate links across different devices. MLAG can build an Active-Active system to improve the reliability of the network links from single board grade to device grade. MLAG use a peer link between to devices to aggregate two devices and make them as one device logically. Ports of two different devices join the aggregate ports together and all port can transmit the data traffic. MLAG need to management the device respectively, but the configurations are easier than stacking, reboot is NOT required after MLAG is configured. Forwarding and configuring are processing on local device, in normal condition the traffic do NOT transmit trough the peer link, the bandwidth of peer link is not the bottleneck of the network and the latency is low."
+},
+{
+"t":"p",
+"text":"Support MLAG Active-active dual-system hot backup"
+},
+{
+"t":"p",
+"text":"MLAG Active-active dual-system hot backup"
+},
+{
+"t":"picture",
+"name":"图片 64"
+},
+{
+"t":"picture",
+"name":"图片 65"
+},
+{
+"t":"picture",
+"name":"图片 66"
+},
+{
+"t":"p",
+"text":"Gateway"
+},
+{
+"t":"p",
+"text":"Access switch"
+},
+{
+"t":"p",
+"text":"Core switch"
+},
+{
+"t":"p",
+"text":"PC"
+},
+{
+"t":"p",
+"text":"Active"
+},
+{
+"t":"p",
+"text":"Active"
+},
+{
+"t":"picture",
+"name":"图片 87"
+},
+{
+"t":"picture",
+"name":"图片 88"
+},
+{
+"t":"picture",
+"name":"图片 89"
+},
+{
+"t":"p",
+"text":"Gateway"
+},
+{
+"t":"p",
+"text":"Access switch"
+},
+{
+"t":"p",
+"text":"Core switch"
+},
+{
+"t":"p",
+"text":"PC"
+},
+{
+"t":"p",
+"text":"Active"
+},
+{
+"t":"picture",
+"name":"图片 86"
+},
+{
+"t":"picture",
+"name":"图片 130"
+},
+{
+"t":"picture",
+"name":"图片 131"
+},
+{
+"t":"picture",
+"name":"图片 132"
+},
+{
+"t":"p",
+"text":"Gateway"
+},
+{
+"t":"p",
+"text":"Access switch"
+},
+{
+"t":"p",
+"text":"Core switch"
+},
+{
+"t":"p",
+"text":"PC"
+},
+{
+"t":"picture",
+"name":"图片 125"
+},
+{
+"t":"picture",
+"name":"图片 126"
+},
+{
+"t":"p",
+"text":"Active"
+},
+{
+"t":"p",
+"text":"Active"
+},
+{
+"t":"p",
+"text":"Supports Multiple Dual-system Physical Hot Backup"
+},
+{
+"t":"p",
+"text":"Dual Physical backup"
+},
+{
+"t":"picture",
+"name":"图片 109"
+},
+{
+"t":"picture",
+"name":"图片 110"
+},
+{
+"t":"picture",
+"name":"图片 111"
+},
+{
+"t":"picture",
+"name":"图片 124"
+},
+{
+"t":"p",
+"text":"Core switch"
+},
+{
+"t":"picture",
+"name":"图片 143"
+},
+{
+"t":"picture",
+"name":"图片 144"
+},
+{
+"t":"picture",
+"name":"图片 145"
+},
+{
+"t":"p",
+"text":"1"
+},
+{
+"t":"p",
+"text":"Switches links for server access in 1U"
+},
+{
+"t":"p",
+"text":"Access switch"
+},
+{
+"t":"p",
+"text":"2"
+},
+{
+"t":"p",
+"text":"Dual-homing for access switches in 1U"
+},
+{
+"t":"p",
+"text":"Dual reduntant power supplies（support RPS）"
+},
+{
+"t":"p",
+"text":"3"
+},
+{
+"t":"picture",
+"name":"图片 162"
+},
+{
+"t":"picture",
+"name":"图片 163"
+},
+{
+"t":"picture",
+"name":"图片 164"
+},
+{
+"t":"picture",
+"name":"图片 174"
+},
+{
+"t":"picture",
+"name":"图片 175"
+},
+{
+"t":"picture",
+"name":"图片 176"
+},
+{
+"t":"p",
+"text":"Redundant backup cables for the dual power supplies"
+},
+{
+"t":"p",
+"text":"AC Power Input"
+},
+{
+"t":"p",
+"text":"Core switch"
+},
+{
+"t":"p",
+"text":"Access switch"
+},
+{
+"t":"p",
+"text":"Access switch"
+},
+{
+"t":"p",
+"text":"AC Power Input"
+}
+],
+"notes":""
+},
+{
+"n":5,
+"items":[
+{
+"t":"p",
+"text":"Flexible and Diverse Deployment modes, with 1U for Dual Physical Redundancy"
+},
+{
+"t":"picture",
+"name":"图片 287"
+},
+{
+"t":"picture",
+"name":"图片 282"
+},
+{
+"t":"p",
+"text":"1"
+},
+{
+"t":"p",
+"text":"Two-node Installation"
+},
+{
+"t":"p",
+"text":"2"
+},
+{
+"t":"p",
+"text":"Fix screws"
+},
+{
+"t":"p",
+"text":"3"
+},
+{
+"t":"p",
+"text":"Install stacking brackets"
+},
+{
+"t":"p",
+"text":"Two-node Installation without Cabinet"
+},
+{
+"t":"p",
+"text":"5"
+},
+{
+"t":"p",
+"text":"Single-row stacking without cabinets"
+},
+{
+"t":"p",
+"text":"4"
+},
+{
+"t":"p",
+"text":"1"
+},
+{
+"t":"p",
+"text":"Install stack bracket"
+},
+{
+"t":"p",
+"text":"2"
+},
+{
+"t":"p",
+"text":"Install front stack bracket"
+},
+{
+"t":"picture",
+"name":"图片 19"
+},
+{
+"t":"picture",
+"name":"图片 20"
+},
+{
+"t":"picture",
+"name":"图片 21"
+},
+{
+"t":"picture",
+"name":"图片 32"
+},
+{
+"t":"picture",
+"name":"图片 33"
+},
+{
+"t":"picture",
+"name":"图片 303"
+},
+{
+"t":"picture",
+"name":"图片 314"
+},
+{
+"t":"picture",
+"name":"图片 320"
+},
+{
+"t":"p",
+"text":"1"
+},
+{
+"t":"p",
+"text":"Two-node Installation"
+},
+{
+"t":"p",
+"text":"2"
+},
+{
+"t":"p",
+"text":"Fix screws"
+},
+{
+"t":"p",
+"text":"3"
+},
+{
+"t":"p",
+"text":"Install mounting brackets"
+},
+{
+"t":"p",
+"text":"Two-node Installation in 1U Cabinet"
+},
+{
+"t":"p",
+"text":"3"
+},
+{
+"t":"p",
+"text":"Single-cabinet Installation with 1U"
+},
+{
+"t":"p",
+"text":"1"
+},
+{
+"t":"p",
+"text":"1"
+},
+{
+"t":"p",
+"text":"Install the rear slide rail"
+},
+{
+"t":"p",
+"text":"2"
+},
+{
+"t":"p",
+"text":"Mounting racks"
+},
+{
+"t":"picture",
+"name":"图片 344"
+},
+{
+"t":"picture",
+"name":"图片 352"
+},
+{
+"t":"picture",
+"name":"图片 359"
+},
+{
+"t":"picture",
+"name":"图片 362"
+},
+{
+"t":"p",
+"text":"1U  Wall-mounted Installation"
+},
+{
+"t":"p",
+"text":"2"
+},
+{
+"t":"p",
+"text":"1"
+},
+{
+"t":"p",
+"text":"Wall-mounted Installation"
+},
+{
+"t":"picture",
+"name":"图片 370"
+}
+],
+"notes":""
+},
+{
+"n":6,
+"items":[
+{
+"t":"p",
+"text":"Table 2: Family of the XLite Series switches"
+},
+{
+"t":"table",
+"rows":[
+[
+"Models",
+"Ethernet Ports",
+"Management",
+"PSU 1/PSU 2",
+"Cooling"
+],
+[
+"STH-14C4DX-HSI",
+"14 x 100G QSFP28, \n4 x 25G SFP28",
+"Console: RJ45 RS232\u000bEthernet: 1G Port\u000bStorage: USB",
+"300W/300W CRPS",
+"2 x hot-swappable Fan Module\u000b(front-to-back airflow)"
+],
+[
+"STH-2C6QX-HSI",
+"6 x 40G QSFP+, \n2 x 100G QSFP28",
+"",
+"350W CRPS",
+"1 x hot-swappable Fan Module\u000b(front-to-back airflow)"
+],
+[
+"STH-2C6QX-SFI",
+"",
+"",
+"150W Fixed single power supply",
+"2 x fixed fans\u000b(front-to-back airflow)"
+],
+[
+"STH-2C24XF-HSI",
+"24 x 10G SFP+, \n2 x 100G QSFP28",
+"Console: RJ45 RS232\u000bEthernet: 1G Port",
+"550W CRPS",
+"1 x hot-swappable Fan Module\u000b(front-to-back airflow)"
+],
+[
+"STH-2C24XF-SFI",
+"",
+"",
+"150W Fixed single power supply",
+"2 x fixed fans\u000b(front-to-back airflow)"
+],
+[
+"STH-2C12XF12XE-HSI",
+"12 x 10G SFP+, \n12 x 10G Base-T, \n2 x 100G QSFP28",
+"",
+"550W CRPS",
+"1 x hot-swappable Fan Module\u000b(front-to-back airflow)"
+],
+[
+"STH-2C12XF12XE-SFI",
+"",
+"",
+"Fixed single power supply",
+"3 x fixed fans\u000b(front-to-back airflow)"
+],
+[
+"STH-2C24XE-HSI",
+"24 x 10G Base-T, \n2 x 100G QSFP28",
+"",
+"550W CRPS",
+"1 x hot-swappable Fan Module\u000b(front-to-back airflow)"
+],
+[
+"STH-2C24XE-SFI",
+"",
+"",
+"300W Fixed single power supply",
+"2 x fixed fans\u000b(front-to-back airflow)"
+]
+]
+},
+{
+"t":"p",
+"text":"The XLite family of Ethernet switches consist of the following models:"
+}
+],
+"notes":""
+},
+{
+"n":7,
+"items":[
+{
+"t":"p",
+"text":"XLite Physical Specifications"
+},
+{
+"t":"p",
+"text":"Packet Switch capacity (bidirectional)\nSTH-14C4DX-HSI: 3.0Tbps\nSTH-2C6QX-HSI: 880Gbps\nSTH-2C6QX-SFI: 880Gbps\nSTH-2C24XF-HSI: 880Gbps\nSTH-2C24XF-SFI: 880Gbps\nSTH-2C12XF12XE-HSI: 880Gbps\nSTH-2C12XF12XE-SFI: 880Gbps\nSTH-2C24XE-HSI: 880Gbps\nSTH-2C24XE-SFI: 880Gbps"
+},
+{
+"t":"p",
+"text":"Layer 2/Layer 3 Throughput (bidirectional)\nSTH-14C4DX-HSI: 4464Mpps\nSTH-2C6QX-HSI: 1309.44Mpps\nSTH-2C6QX-SFI: 1309.44Mpps\nSTH-2C24XF-HSI: 1309.44Mpps\nSTH-2C24XF-SFI: 1309.44Mpps\nSTH-2C12XF12XE-HSI: 1309.44Mpps\nSTH-2C12XF12XE-SFI: 1309.44Mpps\nSTH-2C24XE-HSI: 1309.44Mpps\nSTH-2C24XE-SFI: 1309.44Mpps"
+},
+{
+"t":"p",
+"text":"Cooling [CFM]\nSTH-14C4DX-HSI: 21.61cfm\nSTH-2C6QX-HSI: 34.38cfm\nSTH-2C6QX-SFI: 23.24cfm\nSTH-2C24XF-HSI: 34.38cfm\nSTH-2C24XF-SFI: 23.24cfm\nSTH-2C12XF12XE-HSI: 38.49cfm\nSTH-2C12XF12XE-SFI:TBD\nSTH-2C24XE-HSI:  38.49cfm\nSTH-2C24XE-SFI: 41.43cfm"
+},
+{
+"t":"p",
+"text":"Acoustic in dBA\nSTH-14C4DX-HSI: 62.67dB\nSTH-2C6QX-HSI: 43.67dB\nSTH-2C6QX-SFI: 47.1dB\nSTH-2C24XF-HSI: 39.1dB\nSTH-2C24XF-SFI: 46.87dB\nSTH-2C12XF12XE-HSI: 49.4dB\nSTH-2C12XF12XE-SFI: TBD\nSTH-2C24XE-HSI: 45.47dB\nSTH-2C24XE-SFI: 39.1dB"
+},
+{
+"t":"p",
+"text":"Environmental ranges\nOperating temperature: 0ºC to 40ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90% (No condensation)\nStore Humidity: 0 to 95% (No condensation)"
+},
+{
+"t":"p",
+"text":"Temperature alarm\nAlarm threshold: 50ºC"
+},
+{
+"t":"p",
+"text":"Memory\neMMc: 8GB on all models\nDRAM: 2GB on all models"
+},
+{
+"t":"p",
+"text":"CPU\nDual-core processor, ARM A53"
+},
+{
+"t":"p",
+"text":"MTBF\nSTH-14C4DX-HSI: ≥90000H\nSTH-2C6QX-HSI: ≥90000H\nSTH-2C6QX-SFI: ≥70000H\nSTH-2C24XF-HSI: ≥90000H\nSTH-2C24XF-SFI: ≥70000H"
+},
+{
+"t":"p",
+"text":"MTBF(continued)\nSTH-2C12XF12XE-HSI: ≥90000H\nSTH-2C12XF12XE-SFI: ≥70000H\nSTH-2C24XE-HSI: ≥90000H\nSTH-2C24XE-SFI: ≥70000H"
+}
+],
+"notes":""
+},
+{
+"n":8,
+"items":[
+{
+"t":"p",
+"text":"XLite Physical Specifications"
+},
+{
+"t":"p",
+"text":"Power consumption\nWorst case, all ports used, line-rate traffic\nSTH-14C4DX-HSI: 133W\nSTH-2C6QX-HSI: 56W\nSTH-2C6QX-SFI: TBD\nSTH-2C24XF-HSI: 64W\nSTH-2C24XF-SFI: 38W\nSTH-2C12XF12XE-HSI: 81W\nSTH-2C12XF12XE-SFI: TBD\nSTH-2C24XE-HSI: 101W\nSTH-2C24XE-SFI: 98W"
+},
+{
+"t":"p",
+"text":"Typical Power consumption\nSTH-14C4DX-HSI: 123W\nSTH-2C6QX-HSI: 55W\nSTH-2C6QX-SFI: TBD\nSTH-2C24XF-HSI: 39W\nSTH-2C24XF-SFI: 36W\nSTH-2C12XF12XE-HSI: 77W\nSTH-2C12XF12XE-SFI: TBD\nSTH-2C24XE-HSI: 100W\nSTH-2C24XE-SFI: 94W"
+},
+{
+"t":"p",
+"text":"Dimensions (W x H x D) without package\nSTH-14C4DX-HSI: 21.5x4.4x40.8cm\nSTH-2C6QX-HSI: 21.5x4.4x35.5cm\nSTH-2C6QX-SFI: 21.5x4.4x35.5cm\nSTH-2C24XF-HSI: 21.5x4.4x35.5cm\nSTH-2C24XF-SFI: 21.5x4.4x35.5cm\nSTH-2C12XF12XE-HSI: 21.5x4.4x35.6cm\nSTH-2C12XF12XE-SFI: 21.5x4.4x35.6cm\nSTH-2C24XE-HSI: 21.5x4.4x35.6cm\nSTH-2C24XE-SFI: 21.5x4.4x35.6cm"
+},
+{
+"t":"p",
+"text":"Dimensions (W x H x D) with package\nSTH-14C4DX-HSI: 55.7x15x49.5cm\nSTH-2C6QX-HSI: 48.5x12.5x34.3cm\nSTH-2C6QX-SFI: 48.5x12.5x34.3cm\nSTH-2C24XF-HSI: 48.5x12.5x34.3cm\nSTH-2C24XF-SFI: 48.5x12.5x34.3cm\nSTH-2C12XF12XE-HSI: 48.5x12.5x34.3cm\nSTH-2C12XF12XE-SFI: 48.5x12.5x34.3cm\nSTH-2C24XE-HSI: 48.5x12.5x34.3cm\nSTH-2C24XE-SFI: 48.5x12.5x34.3cm"
+},
+{
+"t":"p",
+"text":"Weight  (Net Weight/Gross Weight)\nSTH-14C4DX-HSI: 4.5Kg/7Kg\nSTH-2C6QX-HSI: 3.3Kg/5.3Kg\nSTH-2C6QX-SFI: 3Kg/5Kg\nSTH-2C24XF-HSI: 3.5Kg/5.5Kg\nSTH-2C24XF-SFI: 2.7Kg/4.7Kg\nSTH-2C12XF12XE-HSI: 3.5Kg/5.5Kg\nSTH-2C12XF12XE-SFI: 3Kg/5Kg\nSTH-2C24XE-HSI: 3.5Kg/5.5Kg\nSTH-2C24XE-SFI: 3Kg/5Kg"
+},
+{
+"t":"p",
+"text":"Operating altitude\nSTH-14C4DX-HSI: ≤5000m\nSTH-2C6QX-HSI: ≤5000m\nSTH-2C6QX-SFI: ≤3000m\nSTH-2C24XF-HSI: ≤5000m\nSTH-2C24XF-SFI: ≤3000m\nSTH-2C12XF12XE-HSI: ≤5000m\nSTH-2C12XF12XE-SFI: ≤5000m\nSTH-2C24XE-HSI: ≤5000m\nSTH-2C24XE-SFI: ≤5000m"
+}
+],
+"notes":""
+},
+{
+"n":9,
+"items":[
+{
+"t":"p",
+"text":"XLite Software Specifications"
+},
+{
+"t":"p",
+"text":"* All Saga Telecom switches use a normalized software platform and image package file\n* Unified software version iteration plan\n* Unified user experience"
+},
+{
+"t":"p",
+"text":"STOS Network Platform"
+},
+{
+"t":"p",
+"text":"Layer 2 switching"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Unicast Routing"
+},
+{
+"t":"p",
+"text":"QoS"
+},
+{
+"t":"p",
+"text":"IP Multicast Snooping/Proxy"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Multi cast Routing"
+},
+{
+"t":"p",
+"text":"VRRP"
+},
+{
+"t":"p",
+"text":"Multiprotocol Label Switching(MPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Private LAN Service(VPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Routing and Switching"
+},
+{
+"t":"p",
+"text":"Generalized Multiprotocol LabelSwitching(GMPLS)"
+},
+{
+"t":"p",
+"text":"IPv6 Tunneling and TransitionTechnologies"
+},
+{
+"t":"p",
+"text":"IP/MPLS OAM"
+},
+{
+"t":"p",
+"text":"Service management module"
+},
+{
+"t":"p",
+"text":"Fault Managemet (FM)"
+},
+{
+"t":"p",
+"text":"High Availability (HA)"
+},
+{
+"t":"p",
+"text":"Integrated Management Interface (CLl, SNMP, WEB, RMON, RPC-API, Netconf, etc)"
+},
+{
+"t":"p",
+"text":"Hardware and platform abstraction layer"
+},
+{
+"t":"p",
+"text":"Advanced integration Suite"
+},
+{
+"t":"p",
+"text":"CENTEC swtich chip  SDK"
+},
+{
+"t":"p",
+"text":"Silicon in Pizza, Stacking or Chassis\nConfiguration"
+},
+{
+"t":"p",
+"text":"Operating Systems TCP/IP Stacks"
+},
+{
+"t":"p",
+"text":"Linux , IPv4/Pv6 Dual Stack"
+},
+{
+"t":"p",
+"text":"Hardware layer"
+},
+{
+"t":"p",
+"text":"CENTEC Switch Chipset"
+},
+{
+"t":"p",
+"text":"CPU Subsystem"
+},
+{
+"t":"p",
+"text":"Cooling SubSystem"
+},
+{
+"t":"p",
+"text":"AC/DC DC/DC CLK"
+},
+{
+"t":"p",
+"text":"Environmental Management Subsystem"
+},
+{
+"t":"p",
+"text":"Logical Control Subunit"
+},
+{
+"t":"p",
+"text":"Saga Telecom implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘STOS Software features’ ."
+}
+],
+"notes":""
+},
+{
+"n":10,
+"items":[
+{
+"t":"p",
+"text":"Ordering Information\nXLite Series Switches"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"STH-14C4DX-HSI",
+"100G enterprise switch, with 14*100G QSFP28, 4*25G SFP28, \n2*hot-swap PSU modules(C13), 2*hot-swap fan modules."
+],
+[
+"STH-2C6QX-HSI",
+"40G enterprise switch, with 6*40G QSFP+, 2*100G QSFP28, 1*hot-swap PSU module(C13), 1*hot-swap fan module."
+],
+[
+"STH-2C6QX-SFI",
+"40G enterprise switch, with 6*40G QSFP+, 2*100G QSFP28, 1*fixed PSU(C13), 2 fixed Fans."
+],
+[
+"STH-2C24XF-HSI",
+"10G enterprise switch, with 24*10G SFP+, 2*100G QSFP28, 1*hot-swap PSU module(C13), 1*hot-swap fan module."
+],
+[
+"STH-2C24XF-SFI",
+"10G enterprise switch, with 24*10G SFP+, 2*100G QSFP28, 1*fixed PSU(C13), 2 fixed Fans."
+],
+[
+"STH-2C12XF12XE-HSI",
+"10G enterprise switch, with 12*10G SFP+, 12*10G Base-T, 2*100G QSFP28, 1*hot-swap PSU module(C13), 1*hot-swap fan module."
+],
+[
+"STH-2C12XF12XE-SFI",
+"10G enterprise switch, with 12*10G SFP+, 12*10G Base-T, 2*100G QSFP28, 1*fixed PSU(C13), 2 fixed Fans."
+],
+[
+"STH-2C24XE-HSI",
+"10G enterprise switch, with 24*10G Base-T, 2*100G QSFP28, 1*hot-swap PSU module(C13), 1*hot-swap fan module."
+],
+[
+"STH-2C24XE-SFI",
+"10G enterprise switch, with 24*10G Base-T, 2*100G QSFP28, 1*fixed PSU(C13), 2 fixed Fans."
+]
+]
+},
+{
+"t":"p",
+"text":"AC/DC Power Supplies use for STH-14C4DX-HSI, STH-2C6QX-HSI\nSTH-2C24XF-HSI, STH-2C12XF12XE-HSI, STH-2C24XE-HSI"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"PSU-300-AC-AFO",
+"300W AC power supply (front-to-back airflow)"
+],
+[
+"PSU-350-AC-AFO",
+"350W AC power supply (front-to-back airflow)"
+],
+[
+"PSU-550-AC-AFO",
+"550W AC power supply (front-to-back airflow)"
+],
+[
+"PSU-550-DC-AFO",
+"550W DC power supply (front-to-back airflow)"
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":11,
+"items":[
+{
+"t":"p",
+"text":"Accessory of XLite Series"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Front Mounting Bracket- Short",
+"Front Mounting Bracket- Long",
+"Rear Mounting Bracket",
+"Sliding Rail",
+"Wall-Mounting Bracket",
+"Middle Mounts- Female",
+"Middle Mounts-Male"
+],
+[
+"STH-14C4DX-HSI",
+"1",
+"1",
+"1",
+"1",
+"2",
+"1",
+"1"
+],
+[
+"STH-2C6QX-HSI",
+"1",
+"1",
+"1",
+"1",
+"2",
+"1",
+"1"
+],
+[
+"STH-2C6QX-SFI",
+"1",
+"1",
+"0",
+"0",
+"0",
+"1",
+"1"
+],
+[
+"STH-2C24XF-HSI",
+"1",
+"1",
+"1",
+"1",
+"2",
+"1",
+"1"
+],
+[
+"STH-2C24XF-SFI",
+"1",
+"1",
+"0",
+"0",
+"0",
+"1",
+"1"
+],
+[
+"STH-2C12XF12XE-HSI",
+"1",
+"1",
+"1",
+"1",
+"2",
+"1",
+"1"
+],
+[
+"STH-2C12XF12XE-SFI",
+"1",
+"1",
+"0",
+"0",
+"0",
+"1",
+"1"
+],
+[
+"STH-2C24XE-HSI",
+"1",
+"1",
+"1",
+"1",
+"2",
+"1",
+"1"
+],
+[
+"STH-2C24XE-SFI",
+"1",
+"1",
+"0",
+"0",
+"0",
+"1",
+"1"
+],
+[
+"Items",
+"Grounding Cable",
+"Power Cord",
+"RPS Cord",
+"Console Cable",
+"M4 Screws",
+"Stack bracket Front",
+"Stack bracket Back"
+],
+[
+"STH-14C4DX-HSI",
+"1",
+"1",
+"1",
+"1",
+"12",
+"2",
+"2"
+],
+[
+"STH-2C6QX-HSI",
+"1",
+"1",
+"1",
+"1",
+"12",
+"0",
+"0"
+],
+[
+"STH-2C6QX-SFI",
+"1",
+"1",
+"1",
+"1",
+"12",
+"0",
+"0"
+],
+[
+"STH-2C24XF-HSI",
+"1",
+"1",
+"1",
+"1",
+"12",
+"2",
+"2"
+],
+[
+"STH-2C24XF-SFI",
+"1",
+"1",
+"1",
+"1",
+"12",
+"0",
+"0"
+],
+[
+"STH-2C12XF12XE-HSI",
+"1",
+"1",
+"1",
+"1",
+"12",
+"2",
+"2"
+],
+[
+"STH-2C12XF12XE-SFI",
+"1",
+"1",
+"1",
+"1",
+"12",
+"0",
+"0"
+],
+[
+"STH-2C24XE-HSI",
+"1",
+"1",
+"1",
+"1",
+"12",
+"2",
+"2"
+],
+[
+"STH-2C24XE-SFI",
+"1",
+"1",
+"1",
+"1",
+"12",
+"0",
+"0"
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":12,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"Software License",
+"EB, L3  features software license key, preinstalled on SFI models."
+],
+[
+"Software License",
+"MS, L3 enhance features software license key, preinstalled on HSI models."
+],
+[
+"Software License",
+"MA, MPLS features software license key"
+],
+[
+"Software License",
+"ST, Stacking feature software license key"
+]
+]
+},
+{
+"t":"p",
+"text":"Software Licenses"
+}
+],
+"notes":""
+}
+],
+"extracted_at":"2026-10-23T05:03:26Z"
+}

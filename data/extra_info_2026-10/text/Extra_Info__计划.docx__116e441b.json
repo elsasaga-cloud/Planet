@@ -1,0 +1,3778 @@
+{
+"id":"Extra_Info__计划.docx__116e441b",
+"path":"Extra_Info/计划.docx",
+"name":"计划.docx",
+"ext":".docx",
+"bytes":4397407,
+"sha256":"116e441b71b5785551870d8ca3889b876ebb05639ff5196ea859584e7aeb689c",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2026-09-01T06:13:00+00:00",
+"modified":"2026-09-17T13:15:11+00:00",
+"paragraphs":715,
+"tables":1,
+"embedded_images":32
+},
+"warnings":[],
+"chars":24954,
+"text":"DS\n每1年定一次大的格式，后续3个季度都在上边改就行了，基本不会每个季度都大改一次\n有想好的内容直接并入下一年的Q1即可\nSaxa\n光模块/DAC/AOC /跳线 https://www.fibertopsfp.com/\nSala  搭配未来的DWDM，这2个直接一起搞\n核心交换机  CENTEC\nSaga核心产品线之一\nM12交换机https://www.poeswitch.net/Product/30.html\nSaga补充产品线之一    IP67/配电箱等产品\n工业电源=直接MeanWell即可\nPON/WAPs类产品 https://en.focuscom.com.cn/product/ont-onu\nSafa Network    算是接入层\nSTP Series\nP=PON Series\n以上形成一个产品矩阵，命名矩阵，推广矩阵\nWeb=不同的产品图（多拍几组，组合，角度，大小等），宣传内容等\n线下=用一样的就行\n知名品牌/一些不太好归类的\nSava\n完全的trading\nStatus\nMS=Manufacture Stock\nMC=Manufacture Customize\nTS=Trade Stock\nTC=Trade Customize\n邮箱\n一些之前发的信息做替换（官网，平台等）\n把所有152和s的都尽量抹除掉=基本差不多了\n姐姐的公司，推荐给客户总是多了一个选择\n我基本不牵涉相关业务=只推荐而已，有兴趣由A对接\n每个季度的规格书提前半个月发布，单独给客户发就没太多讲究了\n把定位卡在品牌化那些内容上！\nMarvell市场\n主要是欧洲下边几个国家\n德国\nSmart Factory（工业 4.0）对 可编程、API 接口、定制管理的交换机有需求\n战略定位：主打工业级管理型交换机 + 定制化管理接口，比如 REST API、Ansible 集成\n法国​\n政府/公共事业（铁路、机场、港口）、能源行业需求较大\n网络安全法规严格，强调可控性与集中管理（NMS）\n战略定位：主打 公共基础设施、交通+能源管理型交换机\n英国\n金融+教育+安防市场大（CCTV 世界第一批普及国家），现在很多教育园区/校园网络要升级到可管理交换机\n英国客户喜欢“开箱即用+兼容 API”，很在意 Voice VLAN、自动化部署接口 这种 feature\n适配度：非常适合推广“带自动化 API 的 Managed Switch”，但竞争会偏激烈（很多本土/欧美品牌）\n战略定位：安防客户 → 继续吃 PoE 市场\n新拓展方向 → 教育、园区网络的 Managed Networking\nIntegration Capability: Management Integration\n- SNMP v1/v2/v3\n- Standard MIB\n- Syslog\n- LLDP\n- CLI automation\n- API customization available\n- NMS integration support\nOEM客户可以开发：\nREST API\nCloud management interface\nCustomized firmware\n高阶管理的三大核心\n1. 可编程（Programmability）\nCLI（命令行）/ SNMP（标准协议）只是基础\n更高阶的是 API/SDK 接口，比如 RESTful API、gRPC、NETCONF/YANG\n这些接口让客户能把交换机和自己的平台直接打通（如视频管理系统、楼宇控制系统、工业 SCADA 平台）\n2. API 接口（Integration & Automation）\n提供开放 API → 客户可以写自动化脚本（Python/Ansible），快速配置上百台交换机\n对一些欧洲大客户来说，这就是刚需：降低人工运维成本\n如果你的供货商能支持 API/SDK，这会是“国产低价RTL系”完全打不动的点\n3. 定制管理（Customized Management / NMS Integration）\n管理平台（NMS）不再是单机界面，而是 集中控制 + 报表 + 告警 + 安全策略\n典型卖点：\n多设备统一升级\n自动发现设备\nVLAN/ACL 策略一键下发\n异常自动告警（比如风扇故障、电源异常）\n高阶客户（医院、政府、工厂）最关心这一点：不是买硬件，而是买一个可控的网络环境\n高阶管理的延伸价值\n安全：可做端口认证（802.1X）、策略防御（DDoS 防御、ACL） → 很符合欧盟安全标准\n可视化：能导出流量分析/日志 → 方便客户做合规审计（尤其是法国政府、英国医疗）\n可扩展性：通过 SDK/插件，客户可以按需开发（比如铁路行业需要特殊的冗余协议）\n在交换机里，“高阶管理”通常对应的就是下面这几块核心能力：\n1. 可编程性（Programmability）\n能够通过 CLI、SNMP、RESTCONF、NETCONF 等多种接口灵活配置。\n甚至开放 SDK/开放 API，让客户能根据自己业务逻辑去“编程”管理交换机。\n2. API 接口 & 自动化集成\n支持标准化 API（RESTful API、gRPC 等），方便和第三方系统（比如 NMS、云平台、SDN 控制器）对接。\n对企业客户来说，可以用 Ansible、Python 脚本或者更高级的 orchestrator 来大规模自动化运维。\n3. 定制化管理（Tailored Management）\n这部分就是你说的“差异化价值”。比如：\n定制 VLAN、QoS 策略（工业 vs. 医疗 vs. 企业网络，需求完全不同）。\n针对不同行业（铁路、工厂自动化、能源）提供专门的 MIB 或 API。\n提供 模块化管理界面（Web/NMS 插件化），客户能在熟悉的系统里直接看到交换机的关键参数。\n4. 智能化/可视化运维（算是高阶管理的升级）\n集成 Telemetry（遥测），实时上报流量、丢包、延迟。\n用 ML/AI 辅助做异常检测、流量预测（这类功能欧洲客户很看重）。\n所以你说的对：高阶管理 = 可编程 + API 接口 + 定制化管理，这是 Marvell 这种定位的精髓\n在 工业/企业级交换机 里，“高阶管理”主要就包括你说的这些方向：\n1. 可编程（Programmability）\nMarvell 的优势在于 开放 SDK、灵活的 pipeline，可以根据客户需求做差异化\n比如：定制化的 QoS 策略、特殊的流量转发逻辑、协议优化（Modbus、PROFINET 等工业协议加速）\n在安防/CCTV 外，还能满足 工控、能源、交通、边缘计算 等高价值场景\n2. API 接口（Northbound / Southbound API）\n客户在欧洲尤其是德国、法国，非常看重 统一管理平台（NMS/SCADA/云平台）\n他们不想被某一家厂商完全绑死，所以会偏好有 标准 API 或 开放接口 的交换机\n典型需求：SNMP → RESTful API → gNMI（Google Network Management Interface） → Netconf/YANG\n3. 定制管理（Tailored Management）\n这是你未来的差异化武器，别人做不到的：\n定制化 Web 界面 / Dashboard（直接展示 PoE 消耗、链路拓扑、异常告警）\n行业专属模板（比如安防客户可以一键批量配置 VLAN + PoE 调度）\n远程升级 / 集中批量配置（减少客户运维人力成本）\nManaged Networking = 管理 + API/SDK + 可编程的价值\n一、管理功能基础（了解客户常见需求）：这是你在和客户沟通时，必须能随口解释的内容：\n1. 设备发现与接入\n支持 SNMP / LLDP / DHCP option 自动发现\nNMS 平台一键纳管\n支持批量配置\n2. 监控与可视化\nCPU、内存、端口状态\nPoE 电源分配情况\n流量监控、告警（风暴控制、链路中断）\n3. 远程升级与配置管理\n批量固件升级\n配置文件备份/恢复\n升级过程不中断业务（Hitless Upgrade, 视芯片支持）\n4. 安全与冗余\nVLAN / ACL / 用户分级权限\nSTP/RSTP/MSTP 环网冗余\n工业级告警（温度、电源、风扇）\n这一部分就是 “managed switch” 最基本的卖点\n二、高阶管理功能（你的差异化口号方向）：这是你要去重点学习并强调的部分：\n1. 可编程接口（Programmability）\nOpen API（RESTful API、NETCONF、gRPC）\n让用户二次开发管理界面或集成到自己的平台\n2. SDK/定制化\nMarvell Prestera SDK / Marvell NPU SDK（一般厂商才有）\n开放 CLI / SNMP MIB / YANG Model\n工厂可以基于 SDK 做深度定制：如定制 VLAN、QoS 策略、PoE 逻辑\n3. 自动化（Automation）\n批量脚本管理（Python/Ansible）\n客户一次写好脚本，就能自动开 VLAN、分配 PoE、电源管理\n对大型部署客户来说 = 大幅降低维护成本\n4. 可视化 & 北向接口\nNMS 不仅自己能管，还能对接客户的监控系统（SCADA、安防平台）\n开放北向接口（REST API） → 客户 IT 平台也能直接读取状态\n学习路径建议（适合贸易商的理解路线）\n入门（知道常见协议和客户语言）\nSNMP / CLI / REST API 是什么（只要概念，不必写代码）\nPoE 管理、批量升级、VLAN 配置 → 这是你和客户沟通的卖点\n进阶（能讲高阶管理优势）\n学习 Marvell 的 SDK/开放 API 文档（找工厂要）\n理解 API 如何和客户 IT 系统对接（例子：安防平台直接显示 PoE 状态）\n学习一些开放协议：NETCONF / YANG（设备自动配置的标准）\n应用层（包装成卖点）\n客户价值角度：\n降低运维成本（自动化）\n提高安全性（统一管控、可编程 ACL）\n提高扩展性（API 可以接入他们现有平台）\n你的销售口号：\n我们不仅提供交换机，更是提供可定制的网络管理能力，让客户未来运维更轻松\n高阶管理功能（Managed Networking）学习路径\n1. 基础理解：管理的四层\n基础管理\nSNMP（Simple Network Management Protocol）\nCLI（Command Line Interface）\nWeb GUI（常见于中低端设备）\n→ 基本状态监控、配置、端口信息\n中阶管理\nNMS 平台集中管理（如 SolarWinds、PRTG、开源的 OpenNMS、Zabbix）\n批量升级、统一告警、拓扑自动发现\n多设备/多站点集中控制\n高阶管理（你要重点关注）\n可编程接口：REST API / gNMI / NETCONF / YANG\nSDK 支持：厂商提供的二次开发接口，可做自定义功能\n开放平台对接：与客户现有 IT/OT 系统集成（如 SCADA、云平台）\n未来方向\n自动化 / Intent-based Networking (IBN) → 网络根据业务需求自动调配\nAI 运维 (AIOps) → 自动优化、预测性维护\n2. 学习重点（你需要掌握的）\nREST API 概念：通过 URL 方式远程下发配置、拉取状态\nYANG/NETCONF：电信和工业厂商常用的标准化建模和配置协议\nSDK（Software Development Kit）：Marvell 或 ODM 厂商提供的开发工具，可以把“交换机功能”以模块化方式开放出来\nPoE / QoS / VLAN / 安全策略 如何通过 API 实现 → 这会是你和廉价 PoE 设备最大的区别\n报价和利润\n报关费加保险，基本是再运费的基础上再多加250元，针对大货（150元报关费用+100元的保险费用）\n一般是加25%~30%\n算完以后换算过来一下，看看运费的利润是多少\n以下所指的利润包含了运费和杂费\n小单: 3成利润左右，根据型号，数量，客户国家等因素做相应调整\n不低于2.5成\n大单私账: 在沟通中可做一些较大优惠\n尽量保持在2成到2.5成之间\n这是为了让公账的单子更有操作空间\n大单公账: 在沟通中减少优惠率\n扣除10个点的税\n尽量保持在不低于15个点\n瑞昱\n不低于20个点的利润\n特殊客户或者量大可压低至15\nMarvell\n不低于25个点的利润\n特殊客户或者量大可压低至20\nCENTEC\n不低于35个点的利润\n必要时可加至50个点甚至更高的利润\n利润点来源 = 13+5（返点）+ 20个点价格（Mbata就是20个点，不能再低了）= 接近40个点\n品牌\n多收集一些带品牌的产品，这样推广方便，成不成单也没啥压力\n省事儿，不用怎么介绍，就是价格/交期/信任度\n单价少加也行，有利润，单子滚起来最重要\nCompany Color\n暂定\n3C\nConnecting Converting Creating\nSaga Telecom connects talents and ideas that may drive itself forward\nSaga Telecom converts mature business system to all-round growth\nSaga Telecom creates betterness from expertise and solution package\nName Card\n背面把Roadmap搞上去??\n常总产品命名\nFT 百兆电\nGT千兆电\nFS百兆光\nGS千兆光\nGC千兆combo\nDT 2.5G电\nDS 2.5G光\nXS万兆光\n工作准则\n把一个产品的所有资料都放在一个文件夹中 图，实物图，规格书，视频，客户问的问题等 当客户问该产品的资料时，直接打包发 比较简单\n另外一种是把所有的DS 图等放在一个文件夹中，如果需要批量修改比较方便一些\n工作1 / 工作2\n某产品第一次出货应过自己的手，进行研究拍照拍视频后续可以直接发给客户\n规格书等相关文件统一格式并进行记录\n一级标题，times new roman, 段前段后0磅，多倍行距，1.15倍，加粗\n正文，times new roman, 段前段后0磅，多倍行距，1.15倍\n注意搜集货代 证书 供应商等的信息 尤其是供应商\n通过展会来选品/供应商\n总结案例，优化流程\n比如OEM 如何售后（提供产品图和视频）\n资料整理\n主要是一些不是经常出货或者外购的，列一个表格（类似上边的）\n比如4光12电导轨式，光路RTL芯片，统一为featured products\n小文件图片，尤其是杂项中一些比较特别的应用（Woosy的那个小壳和电源的应用）以及常问的信息（工业导轨电源图）...  EMI测试报告，管理界面信息等\n收集信息\n一些比较好的网站，设计等 宇航的news 一些论坛信息 阿里巴巴的一些规则和操作技巧等\n客户积累问题 Daily Query Collection\n目前是先推着，积累一些经验和问题，汇总处理一下对于后续有帮助\n采购商这个平台多多少少还是可以用的\nhttps://www.52wmb.com/buyer\n网站思路\n禁止国内IP访问??\n统一字体，使用大小相同的图片格式等(类似Versitron，少产品多介绍)\n可放较多信息（参考etherwan）\nBanner主要还是图片，创建一个youtube频道, facebook等，数据更新要有记录，有相应的规范\n弄一个类似销售型的网站（官网），需要有\nVR\n专业的视频（搭配youtube频道，定期发布）\n完善的资料（之前写的，进行补充啥的）\n详尽的说明（PVC，定制，发货等）\nAbout us（business mode, idea等）\n上述搞完以后，基本就是每周抽出一定的时间（3~5小时更新完善信息即可）\n有询单就处理\n再弄一个Ecer式的网站（格式搞的简洁一些）\n上传产品，慢慢引流宣传即可\n公司介绍，全景工厂拍摄等\n如何生产（高低温测试等）\n销售实力展示（CKD，SKD，研发等）\n技术实例展示（SDK/API和NMS管理平台等）\nhttps://www.etherwan.com/us/support/eol-notice/product-change-notice-easypoe-lite-series\n宣传资料\nCatalog和Profile应该是2个不同的册子\nProfile\n公司介绍，工厂，相应的生产技术实力等\nCatalog\nProduct\n具体的型号，特点，产品roadmap，适用范围，可以解决的问题等\nBusiness Mode\nOne Link to ALL\nValue\n3C/那2个图，how we do business等\n应用图\n搞一个生态化的应用方案\n这个要借鉴一些台湾及知名厂商的\nPoE\n以一个或多个典型场景为例（小区监控，仓库监控等）来做说明\nhttps://www.etherwan.com/us/interactive-security-solutions\n非标PoE/90W/PoE配件等集成在一起\n标明线缆100米\n写上产品型号\n列明解决方案（线缆超过了100米怎么办）\n搭配说明信息（1 2 3 4）或注解\n慢慢地把新案例新内容加进去（Example: Cambium networks ePMP™ Force 300 Series）\n规格书\n完全从客户问题/订单角度出发\nKey Features/FAQ等\n直接是为了解决实际问题，for beginners\n另外搞一个统一的安装/QIG手册，不用每个user manual中都提到这个了\nhttps://www.leonton.com/img/file/Leonton_Quick-Installation-Guide.pdf\nhttps://www.leonton.com/img/file/LEONTON_MET2-0201-M_usermanual.pdf\n基本都是这个样子，非常多是共用的\n或者以系列（同一款外壳）为基础来写（1光1，1光2，2光2这个mini系列）\n着重推广2光2（参考Versitron的例子）\n因为1光1这些只有少数参数不一样，其他基本都是一样的（把相应规格书备好即可）\n把之前一些有意思的想法都集成在这个规格书中\n或者对之前的DS做改进补充，必要时单独成册，类似Vigitron\nFAQ增加实际的问题\n把general部分全部写进去，做一下补强\nPoE部分把温度，active/passive这些写进去\nDIP写的更仔细一些\n把相比于市场上其他产品更好的点写明\n一些不对不好的点改进一下（尤其是那个over-voltage）\n证书部分做补强\n争取把所有的信息集成进去，客户愿意看就看，嫌长就不看\n目前的user manual除了背面的QIG相关的信息，正面的东西基本上DS中都有，至少是非管理型号是这样\n1*Wall Hanger (Shared mounting holes with DIN Rail Kit)\nApplication\nAny network utilizing a mixture of copper and fiber\nIP connectivity and communication\nCCTV system such as network camera, access control\n然后Q1/Q2/Q3/Q4做更新\n尤其是实际的FAQ问题\nFor Pros\nVigitron的2光10电一样，直接列出重点信息\nhttps://vigitron.com/product/vi30210/\n比如PoE输入电压，PoE满载温度及满载功率，PoE距离\nAC/DC电源\n安装方式\nL2+还是L3\n啥独特的产品特点（非常小，带DIP）\n6KV还是8KV\n写一些类似DQC(daily query collection)的实质内容\n一些没啥营养的就不写了，比如Support Auto MDI/MDIX\n亚马逊启发\nInformative\n可以考虑6张白图另加几张非常详细的图（标示出产品尺寸等一些基本的信息）\nB端想分销的直接用白图\nC端买家直接看详情图\nIndicative\n一些指示灯 零件等都标记的很清楚\n应用图也标记出来了\n一些图中会附上一些解释性文字\n包装清单\n这个可以列为Must-Know中，每个类目放一个相应的图，也省事儿\n多合一\n多个维度的信息都放在一个图里了，特点 尺寸等\n就是用一个图，一个视频或一个模板等解决问题，包括FAQ列表，单个产品的FAQ等\n细节图\n产品细节的放大 解释和强调说明\n上边这些图都是公用的，基本搞定1 2个就能用于所有\n把图挨个替换一下出一组\n直接用一些说明文字啥的：这是一对多公用\n视频\ninformative，至少是看了有收获\n时长和内容的协调性\n多用图直观地表达信息，少用文字\n统一丰富格式，比如小壳导轨内容的丰富和包装 视频内容格式的统一\n要有不同的公司宣传视频\n要有不同时长的视频来适应不同的需求，很短的发给客户，中性的让客户宣传，比较长的说明产品，符合平台规则时长的视频等\n可以学习的网站\nhttps://howevision.com/what-is-a-2-5g-ethernet-switch/\nhttps://manuals.plus/_fs/ies3110-8tf-l2-managed-industrial-switch-manual#axzz8BO5Jkrmk\nhttps://www.advantech.com.cn/zh-cn/products/industrial-ethernet-switches/sub_1-2mljyv\nhttps://www.tp-link.com/us/business-networking/accessory/tl-PoE2412g/\nhttps://www.etherwan.com/us/easy-PoE-box-all-in-one-indoor-outdoor-networking-solution\nhttps://www.netwifiworks.com/FiberPoE.asp\nhttps://www.koontech.com/Solution1.html\nhttps://www.fibermall.com/es/blog/PoE-switch-13-questions-to-know.htm\n一些PoE的问题\nhttps://www.alphaelettronica.com/nsg1006pmv1.html\n关于PoE功能的解释\nhttps://baijiahao.baidu.com/s?id=1714594285256690519&wfr=spider&for=pc\n常见的IP摄像头问题\nhttps://www.logicbus.com/about-us\nhttps://www.proscend.com/en/page/transportation.html\nVehicle Network\nhttps://www.leonton.com/products-detail.aspx?seq=1173\n源文件案例\n一些排版布局也不错\nhttps://inc.avcomm.us/resources/video\n这个网站很不错\nhttps://www.rubytech.com.tw/rubytech/switch-overview-by-grade/\n注意看L3功能\nhttp://www.industrial.kr/index.php?targetPage=./download_list.php&topMenuNum=4&downloadIdx=32&cateNm=Industrial%20Managed\n可以借鉴以下\nhttps://test.sws.cz/digitus-industrial-PoE-splitter-din-rail-60-w-ieee802-3at-af_d644272.html\nhttps://www.netwifiworks.com/FiberPoE.asp\nIPC\n首先需要了解2个基本的概念\n视频帧率\n视频码流\nhttps://blog.csdn.net/sun007700/article/details/114279948\nhttps://blog.csdn.net/sinat_36458870/article/details/126068895#:~:text=%E9%AB%98%E6%B8%85720P%EF%BC%881280%C3%97720,%E5%A4%A9%EF%BC%89%C3%B71024%EF%BC%9D42GB%E3%80%82\n视频帧率（Frame rate）是指每秒钟刷新的图片的帧数\n我们看的视频都是一帧一帧地播放，帧是组成视频的基本单位\n视频文件本身是由很多连续的图片组成，简单的可以理解为帧率就是一秒内录下的图片数量\n由于人类眼睛的特殊生理结构，如果所看画面之帧率高于16的时候，就会认为是连贯的，此现象称之为视觉停留\n简单理解，帧率越高也就是每秒拍的图片数量也就越多，那占用的内存/带宽也就越高\n码流（Data Rate）是指视频文件在单位时间内使用的数据流量，也叫码率\n同样分辨率下，视频文件的码流越大，压缩比就越小，画面质量就越好\n简单理解，每秒/单位时间内要对图片数据进行取样/读取分析，读取的越多那对于图片数据的精度就越高，画质就更清晰，同时对于解码/播放设备的要求也就越高\n一般IP摄像机（H264）都有出厂默认的码流设置\n480P, 1.5M\n720P, 2M\n960P, 4M\n1080P, 4M\nAmazon Selling\n其实这个产品来来回回也就是这几个特点了\n管理设备另外加一些软件硬件特点\n5点要求思路\n基本特点：速率（百千兆），功能（是否带PoE和管理）\n物理外观：尺寸，重量，安装方式，电源输入\n卖点：DIP, 简单的指示灯，4KV，easy to use等\n用途：CCTV，fiber-Ethernet conversion\n包装及注意事项：不含光模块及电源，电源安装等\nSTI-050FE\n5 Port 10/100M Ethernet, Without PoE, Unmanaged, -40 ℃ ~+75℃ working temperature range, 130*98*30mm, 0.5Kg net weight, Din rail or wall mounting, 4-pin dual DC12~58V input\n4KV surge protection and ESD: Air-15kV, Contact-8kV Protection, 2K Bytes Jumbo frame, Support Dip switch function(on the top panel) 1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\nP: Power indicator, green color; S: System indicator, red color, Ethernet Port\n另需准备FAQ比如PoE型号客户只有24V的电源怎么处理\n基本就是从实际使用角度来解决问题\n应该是一个全新的user manual, 上边的内容要一一对应，比如尺寸图指示灯等，可以考虑在结尾写上email等\n需要单独设计user manual，里边放进去email方便线下联系\n基本就是copy规格书中的一些东西\nUser Manual\n第一页\n标题\nIndustrial Unmanaged Ethernet Switch\n2024 Q1(每季度更新一次)\nUser Manual\n该图（或多图）应包含该系列中所有产品\n第二页\nSafety Instructions\n这个要写，专业一些\n然后内容按照现有的搞就行\nProduct Photo(不同于封面)\nKey Features\nPacking List\nSpecification\nLED Indicator\nApplication\nMechanical Drawing\nInstallation\n加一个Ordering Information\n加一个After-sales Support\n加上页眉页脚（网站和联系方式）\n加上Packing List\n加上Q&A\nAbout Us也可以加\n一套下来估计可能需要一个小册子（见下图的）\n区别User Manual和DS，有很多相似但也稍有不同\n在任何情况下都让客户获得全面信息，减少与我们的沟通\n这个小册子应该是确保客户拿到产品后，能明白基础的产品信息和售后问题解决\n下边这部分是一个折叠的小册子，有足够的空间来补充信息\n放组合图\n放变体\n放trouble-shooting等\n参考LEONTON_CET2-0800_usermanual文件，所有信息都写出来了\n发展方向\nEasy information简单呈现\nVR链接，视频，文字图片信息\nGoogle Link，官网全部写上去\nSolution provider可视化\nhttps://www.etherwan.com/us/applications/intelligent-transportation-system-solutions\n以EtherWAN网站为例\n3D建模+工业设计把应用场景说明白了\n另外是case study将行业的一些应用背景展示出来了\n方向挖掘\n比如\n为啥我们要推出带bypass的产品\n如何拓展TSN的应用\n怎么将产品和应用方案智能集成\n谷歌搜索技巧\n把口语化的问题转化为关键词\n如：我想换新的手机如何备份旧手机的信息\n变为：新手机 信息备份\n使用正确的搜索指令\n关键词1 OR 关键词2\t\tOR一定是大写\t也可以是AND\nA -B\t\tA后空格\t\t-是英文输入法下的减号，表示搜索包含A但没有B的⽹⻚\nmedia converter -amazon -alibaba\n关键词 site:.in\t\tsite前空格\t:后直接.in或.us\t\t很实用\n关键词 site:网站\t\tsite前空格\t:后直接加网站\t\t一般\n关键词 filetype:pdf/PNG\tONV filetype:pdf\t\t这样可以找到一些他们的客户\n关键词 Intitle:90w PoE switch\t第二个关键词前不空格\nIntitle:关键词\tsite:www.facebook.com\t\tsite前空格\nallintext:关键词  可以与上边的组合\nallintext: 90w PoE switch site:.pl\nallinurl:关键词\t可以与上边的组合\nallinurl:PoE switch -amazon site:.pl\n限定关键词：加上双引号“”可减少谐音词/顺序颠倒/多一个字少一个字/词语分开等结果\n上述提到的关键词可以加“”或者搭配使用，精度更高\n行业展会\nCOMPUTEX Taipei\nSecon Fair Korea\nSVIAZ Fair Russia\nMIPS Fair Russia\nExposec Fair Brazil\nIntersec Fair Saudi Arabia\nEssen Fair Germany\n矿井类项目特点\n精度要求高，如出了问题要立即能响应，温度浓度超过设定阈值能马上报警\n外壳强度要求高，腐蚀性更高，一般安装后替换较为麻烦\n可能的需求有\nCAN总线 串口数据转以太网：监控温度，瓦斯浓度等\n90W PoE：接高精度IP摄像头（可以补光，高倍率更好监控矿井内场景）\nTSN：瞬时反应，尤其是接了CAN总线\n外壳喷漆及氧化级别更高\nPoE状态显示（可同步到LED屏上监控，似乎是通过MIB+交换机管理平台能实现）\n玩法\nOEM工厂为例（Smartbyte或Iseelink），他们对接的是\n运营商，贸易商等，少部分跟进客户\n自助式信息\n同行挖一下卖自己的产品（兼职跟进）\n让客户（分销商代理商）跟进客户（进行中）\n自建站/直接下单的网站（计划是Shopify）\n有2种用户手册, for beginners, for pros\n佣金式（不论订单金额多少，统一算10~20%的tip/profit）\n买手（给国外客户买东西，基本是和光纤设备相关的）已统计入最新版本的DS\n一些品牌的产品有渠道拿到，后续也是一个卖点\nhttps://www.amz123.com/t/mg54qAHz\n巴西\t目前来看这个是最麻烦的一个国家\n国内客户的单子只接受支付宝 微信 银行卡等私账，不能是公帐 否则不接这个单子\n就是宁可不接这个单子也不处理税相关的东西\n48V PD\nhttps://www.grandstream.com/products/networking-solutions/indoor-wifi-access-points/product/gwn7670\nhttps://techspecs.ui.com/unifi/wifi/u7-pro-outdoor-us?s=us\n24V PD\nWireless radio equipment\nCambium networks ePMP™ Force 300 Series\nReyee WIFI Antenna: RG-EST310 V2\nCamera\nHikvision DS-2DE5220IW-AE\n24V powered network system\nHospital Nurse Call System(Case Study)\nSolar Power System, In-vehicle Network\n太阳能/光伏发电（太阳能的直接输出一般都是12VDC、24VDC、48VDC）\n从太阳能光伏电池板收集到的直流电需要经过一个变频器(在太阳能发电系统中称为逆变器)进行转换。\n逆变器的作用是将直流电(DC)转换为交流电(AC)，以适应家庭、工业等用户的用电需求。逆变器通常还负责将多余的电能储存于电池中，以便晚上或阴天时使用。\nhttps://cn.made-in-china.com/gongying/huawei885-PeXmEWLuYdkt.html\nhttps://baijiahao.baidu.com/s?id=1802813035037209291&wfr=spider&for=pc\nhttps://www.tesla.com/solarpanels\nhttps://en.wikipedia.org/wiki/Solar_power\nhttps://www.se.com/ww/en/work/solutions/for-business/electric-utilities/power-generation/solar-power.jsp\nhttps://new.abb.com/solar\nhttps://info.hikvision.com/solar-powered-security-solutions\n很多是上边的结合应用，不单单只是一个24V PoE output或者支持24V input\nUbiquiti Networks\n该品牌较多24V的PD\nCase Study\nApplication\nHospital Nurse Call System\nPDs\nLED lights: provide light in corridors, wards and bathrooms\nCorridor touch panels: indicating time, diagnostic sequence, hospital information\nCameras: real-time monitoring\nSpeakers: play music, emergency communication, maintain order\nDoor contacts: added security for wards, authorized access\nCall points: efficient communication, emergency call\nAlarms: danger warning\nModel\nSTC-2224GFP-24V\nSpecification: 2*1G SFP+2*1G Copper uplink+24*10/100M PoE downlink, 24V PoE output\nUseful feature: 24V PoE output\nSTC-208GP-Auto\nSpecification: 2*1G SFP+8*10/100/1000M PoE, auto-adaptive 24V/48V PoE output\nUseful feature: auto-adaptive 24V/48V PoE output\nSTC-4424GCP-4BT-Auto\nSpecification: 4*1G SFP/RJ45 Combo+24*10/100/1000M PoE, 1~4 PoE ports auto-adaptive 24V/48V PoE output, 5~8 PoE ports support PoE af/at/bt output\nUseful feature: 4*1G Combo, auto-adaptive 24V/48V PoE output, PoE af/at/bt output\nFor above listed PDs, most receive 24V power input, some do 48V(like PoE cameras).\nThe recommended 3 models are well suited for such projects or similar.\n24V PoE output: for 24V power input PDs\nAuto-adaptive 24V/48V PoE output: for multiple PDs with both 24V and 48V power input\nCombo: for flexible port combination\nPoE af/at/bt: for some power-hungry devices like PTZ camera, digital signage\nConclusion\nAbove information explains a typical 24V passive PoE application project.\nBy analyzing the PDs and model features from Saga Telecom, a PoE solution package is provided and also applicable to similar projects.\nMoreover: Saga Telecom also offers active PoE switches or industrial PoE switches, please talk with us for more information.\nSFP\n目前不考虑高速的，只到10G搭配交换机使用\n高速率(25G 40G 100G的开一个新的命名体系)，基本是没工业级的了，主要是DCN， ECN这2个类目来使用\nSTI/STC\nM/Megabit\nG/Gigabit\nDG/2.5G\nXG/10G\nSD=Singlemode Dual port\nSS=Singlemode Single port\nMD=Multimode Dual Port\nT=Copper port\n0.03/0.1/0.5/2/3/10/20/40=Distance\nT/R=Transmitter/Receiver\nDefault is LC connector, SFP package, otherwise it will be specified.\n电口就写-T(Copper), 只买10/100/1000M的，不引入纯千兆的\n百兆电口\tSTI-M0.1-T\n千兆电口\tSTI-G0.1-T\n2.5G电口\tSTI-DG0.1-T\n万兆电口\tSTI-XG0.03-T\n以上是电口型号\n百兆单纤SC接口, 155Mb/s, SM, Simplex / TX1310nm/RX1550nm, 20KM\tSTI-M20-SS-SCT / STI-M20-SS-SCR\n千兆单纤SC接口, 1.25Gb/s, SM, Simplex / TX1310nm/RX1550nm, 20KM\tSTI-G20-SS-SCT / STI-G20-SS-SCR\n以上是SC接口光模块型号\n155Mb/s, MM, Duplex, 850nm, 500-meter\tSTI-M0.5-MD\n155Mb/s, MM, Duplex, 1310nm, 2KM\tSTI-M2-MD\n155Mb/s, SM, Duplex, 1310nm, 20KM\tSTI-M20-SD\n以上是百兆双纤光模块型号\n155Mb/s, SM, Simplex, 20Km / TX1310nm/RX1550nm\tSTI-M20-SST / STI-M20-SSR\n155Mb/s, SM, Simplex, 80Km / TX1550nm/RX1490nm\tSTI-M80-SST / STI-M80-SSR\n以上是百兆单纤光模块型号\t\n1.25Gb/s, MM, Duplex, 850nm, 500-meter\tSTI-G0.5-MD\n1.25Gb/s, MM, Duplex, 1310nm, 2KM\tSTI-G2-MD\n1.25Gb/s, SM, Duplex, 1310nm, 20KM\tSTI-G20-SD\n1.25Gb/s, SM, Duplex, 1310nm, 40KM\tSTI-G40-SD-1310\n1.25Gb/s, SM, Duplex, 1550nm, 40KM\tSTI-G40-SD-1550\n1.25Gb/s, SM, Duplex, 1550nm, 60KM\tSTI-G60-SD\n以上是千兆双纤光模块型号\n1.25Gb/s, SM, Simplex, 3KM / TX1310nm/RX1550nm\tSTI-G3-SST / STI-G3-SSR\n1.25Gb/s, SM, Simplex, 40KM / TX1310nm/RX1550nm\tSTI-G40-SST / STI-G40-SSR\n1.25Gb/s, SM, Simplex, 60KM / TX1490nm/RX1550nm\tSTI-G60-SST / STI-G60-SSR\n以上是千兆单纤光模块型号\n10Gb/s, MM, Duplex, 850nm, 300-meter\tSTI-XG0.3-MD\n10Gb/s, MM, Duplex, 1310nm, 2KM\tSTI-XG2-MD\n10Gb/s, SM, Duplex, 1310nm, 10KM\tSTI-XG10-SD\n10Gb/s, SM, Duplex, 1310nm, 40KM\tSTI-XG40-SD-1310\n10Gb/s, SM, Duplex, 1550nm, 40KM\tSTI-XG40-SD-1550\n10Gb/s, SM, Duplex, 1550nm, 80KM\tSTI-XG80-SD\n以上是万兆双纤光模块型号\n10Gb/s, SM, Simplex, 20KM / TX1270nm/RX1330nm\tSTI-XG20-SST / STI-XG20-SSR\n10Gb/s, SM, Simplex, 80KM / TX1490nm/RX1550nm\tSTI-XG80-SST / STI-XG80-SSR\n以上是万兆单纤光模块型号\n10Gb/s, MM, Duplex, 850nm, 300-meter, XFP\tSTI-XG0.3-MD-XFP\n10Gb/s, SM, Duplex, 1310nm, 10KM, XFP\tSTI-XG10-SD-XFP\n10Gb/s, SM, Duplex, 1310nm, 40KM, XFP\tSTI-XG40-SD-1310-XFP\n10Gb/s, SM, Duplex, 1550nm, 40KM, XFP\tSTI-XG40-SD-1550-XFP\n10Gb/s, SM, Duplex, 1550nm, 80KM, XFP\tSTI-XG80-SD-XFP\n以上是XFP接口万兆双纤光模块型号\n10Gb/s, SM, Simplex, 20KM, XFP / TX1270nm/RX1330nm\tSTI-XG20-SST-XFP / STI-XG20-SSR-XFP\n10Gb/s, SM, Simplex, 80KM, XFP / TX1490nm/RX1550nm\tSTI-XG80-SST-XFP / STI-XG80-SSR-XFP\n以上是XFP接口万兆单纤光模块型号\nPI\nSTI/STC\nPI/PoE Injector\nG90W/千兆速率和输出总功率，另外有DG/10G, 30W\n48V/输入电压\nUP: 升压\nExample\nSTI-PI-G90W-48V\nPS\nSTI/STC\nPS/PoE Splitter\nG90W/千兆速率和输入总功率，另外有DG/10G\n12V/输出电压\nDIP/支持拨码式，可调整输出电压\nExample\nSTI-PS-G90W-DIP\nPE\nSTI/STC\nPE/PoE Extender\nG90W/千兆速率和总功率（不提输出的速率）\tM是百兆 DG/XG（这是输入速率）\n1I4O: Input number and Output number\nhttps://www.fs.com/it/products/152485.html\n以飞速这个为例\nSTI-PE-G90W-1I4O\n1I2O\n还有2进2出，2进4出\n基本上就是这5种了\nIP67的话还是在后边加上-IP67\nExample\nSTI-PE-G90W-1I4O\n对标供应商\nhttps://www.redlion.net/products/industrial-networking/ethernet-solutions/PoE-switches-and-injectors\nhttp://www.e-linkchina.com.cn/products/115.html\nhttps://www.procetPoE.com/extender/\n参考链接\nPoE Extender\nhttp://www.e-linkchina.com.cn/products/115.html#gl\nhttps://www.procetPoE.com/extender/\nPoE Injector\nhttp://www.e-linkchina.com.cn/products/82.html\nhttps://www.procetPoE.com/din/\nPoE Splitter\nhttp://www.e-linkchina.com.cn/products/96.html\nhttps://www.procetPoE.com/splitter/\nPoE Accessory\nPoE(Power over Ethernet) helps users transmit data and power on one single network cable, which greatly facilitates installation and enriches Ethernet applications.\nSome special functions in a PoE device such as PoE watchdog, VLAN isolation, and Extend mode also help reduce manual intervention and make the entire system smarter.\nHowever, in short-distance cabling and network systems, the application scenarios are very complex, below are some examples\n12V/24V power input for PD\nLong distance of PD and PSE(more than 100-meter)\nTemporarily separate data and power\nToo many Non-PoE IP devices in existing project\nhigher power required after project upgrading\nUnder this background, Saga Telecom presents an ample quantity of indoor and outdoor application-based PoE devices covering\nPoE Splitter\nPoE repeater/extender\nPoE Injector/Midspan\nPopular IEEE 802.3af, IEEE 802.3at, IEEE 802.3bt standards are carried, power booster/step-up and passive PoE models are also introduced to help solve tricky problems in some projects.\nThose PoE-related accessories make available cost-efficient solution and complex installation.\nTypical Application\nLast-mile Ethernet transmission solution\nSmall area PoE-related cabling\n12V/24V/48V powered network system\nFeatures\nModel List\nTypical Models\nTypical Photos\n放商业级，工业级，IP67的几个图\n可参考案例\nVR链接\n典型案例\nhttps://vr.unipoe.net/\n3D案例演示\n典型案例\nhttps://www.etherwan.com/us/applications/ip-security-solutions\n工业建模展示\n主要是产品细节，一些有意思的特点\n典型案例\nPhoenix contact\n远程网管\n典型案例\nSmart Switch\nWeb: http://gtw4jkza29.switch.unipoe.com:8080/index.cgi\nAccount: admin\nPassword: Unipoe2024\n全系列非机密源文件\n典型案例\nhttps://www.leonton.com/products-detail.aspx?seq=1173\n高IP等级及宣传\nhttps://www.inscapedata.com/#gsc.tab=0\n供应商问询\n含税情况：是能否不含税付款? 还是到了特定金额就需要做含税付款了?\n能否给大概的价格册还是每次单独问?\n有具体的实物图吗？还是问具体型号时再拍?（有时客户会问）\n库存情况：是通过自己的渠道拿货（即时确认交期）还是有库存?\n应用场景分析\nPower Tower\nSubstation on-line monitoring system refers to the measurement, transmission and diagnosis system installed directly in the substation, which can record the characteristics of the equipment running status in real time, and is an important means to realize the substation status monitoring and maintenance.\nColliery\nUsing Ethernet as the backbone network transmission, the safety information, working condition information and control information of the coal mine can be transmitted on a single platform, and the reliability and transmission capability of the transmission platform can be improved. Monitoring and management can effectively improve the level of mine production safety and realize remote centralized monitoring and control of coal mine information.\nIndustrial Automation\nThe networking mode is used in industrial automation monitoring, which is directly connected with the automatic setting, and the information collected by the sensor is fed back to the control station, and the control information is thoroughly given to a number of automation equipment such as PLC, so as to realize the unified management and automation of automation equipment and sensing equipment.\nIntelligent Transportation\nUrban road traffic safety is an important branch of urban public traffic safety. The construction of automatic red light running record system to monitor and record the red light running behavior of motor vehicles, and to punish the red light running behavior of motor vehicles through legislation is an important means to curb the red light running behavior of motor vehicles.\nIntegrated Monitoring System\nIntelligent Transportation Systems(ITS) aim to provide all commuters with communication and technology to ensure they have a safe, convenient, comfortable, efficient and environmentally friendly journey. Many cities around the world are improving their transportation system infrastructure, and ZONTEC has focused on intelligent transportation solutions for many years, providing advanced product solutions for the high and medium highway and highway segments.Including highway entrance monitoring system,traffic information system, tunnel detection system, electronic no-stop toll system, vehicle counting & classification system and IP monitoring.\nSmart Energy\nThe information construction of the energy industry is developing from system integration to application integration, the original decentralized subsystems will develop in the direction of integrated application integration, and production control automation will also organically combine with management information.and the overall system will develop in the direction of management integration.\nhttps://www.utepo.net/article/energy.html\nhttps://www.modeshift.com/what-is-an-intelligent-transport-system-and-how-does-it-work/\nhttps://www.niubol.com/Data-Collector/\n视频\nDI DO RS485\nCLI\n自动化\n升压\n等等功能，利用动画 视频的动态样式来展现使用场景\n比较清晰，也容易吸引客户\n这要服务于推广\n总是要基于实际的使用来搞的！！\n[文本框]\nSaga Telecom\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together\nwww.sagatelecom.com.cn\nSimon(Technical Sales Engineer)\nMob/WhatsApp/WeChat: 86-15237149683\ns.sagatelecom@gmail.com\n[页眉页脚]\nSaga Telecom\nwww.sagatele.com\nAn Engineering & Supply-Chain-First Telecom Partner\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"DS"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"每1年定一次大的格式，后续3个季度都在上边改就行了，基本不会每个季度都大改一次"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"有想好的内容直接并入下一年的Q1即可"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Saxa"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"光模块/DAC/AOC /跳线 https://www.fibertopsfp.com/"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Sala  搭配未来的DWDM，这2个直接一起搞"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"核心交换机  CENTEC"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga核心产品线之一"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"M12交换机https://www.poeswitch.net/Product/30.html"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga补充产品线之一    IP67/配电箱等产品"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"工业电源=直接MeanWell即可"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PON/WAPs类产品 https://en.focuscom.com.cn/product/ont-onu"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Safa Network    算是接入层"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STP Series"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"P=PON Series"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"以上形成一个产品矩阵，命名矩阵，推广矩阵"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Web=不同的产品图（多拍几组，组合，角度，大小等），宣传内容等"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"线下=用一样的就行"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"知名品牌/一些不太好归类的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Sava"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"完全的trading"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Status"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MS=Manufacture Stock"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MC=Manufacture Customize"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"TS=Trade Stock"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"TC=Trade Customize"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"邮箱"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一些之前发的信息做替换（官网，平台等）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"把所有152和s的都尽量抹除掉=基本差不多了"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"姐姐的公司，推荐给客户总是多了一个选择"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"我基本不牵涉相关业务=只推荐而已，有兴趣由A对接"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"每个季度的规格书提前半个月发布，单独给客户发就没太多讲究了"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"把定位卡在品牌化那些内容上！"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Marvell市场"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"主要是欧洲下边几个国家"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"德国"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Smart Factory（工业 4.0）对 可编程、API 接口、定制管理的交换机有需求"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"战略定位：主打工业级管理型交换机 + 定制化管理接口，比如 REST API、Ansible 集成"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"法国​"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"政府/公共事业（铁路、机场、港口）、能源行业需求较大"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"网络安全法规严格，强调可控性与集中管理（NMS）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"战略定位：主打 公共基础设施、交通+能源管理型交换机"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"英国"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"金融+教育+安防市场大（CCTV 世界第一批普及国家），现在很多教育园区/校园网络要升级到可管理交换机"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"英国客户喜欢“开箱即用+兼容 API”，很在意 Voice VLAN、自动化部署接口 这种 feature"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"适配度：非常适合推广“带自动化 API 的 Managed Switch”，但竞争会偏激烈（很多本土/欧美品牌）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"战略定位：安防客户 → 继续吃 PoE 市场"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"新拓展方向 → 教育、园区网络的 Managed Networking"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Integration Capability: Management Integration"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- SNMP v1/v2/v3"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Standard MIB"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Syslog"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- LLDP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- CLI automation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- API customization available"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- NMS integration support"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OEM客户可以开发："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"REST API"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Cloud management interface"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Customized firmware"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"高阶管理的三大核心"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1. 可编程（Programmability）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CLI（命令行）/ SNMP（标准协议）只是基础"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"更高阶的是 API/SDK 接口，比如 RESTful API、gRPC、NETCONF/YANG"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这些接口让客户能把交换机和自己的平台直接打通（如视频管理系统、楼宇控制系统、工业 SCADA 平台）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2. API 接口（Integration & Automation）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"提供开放 API → 客户可以写自动化脚本（Python/Ansible），快速配置上百台交换机"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"对一些欧洲大客户来说，这就是刚需：降低人工运维成本"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"如果你的供货商能支持 API/SDK，这会是“国产低价RTL系”完全打不动的点"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3. 定制管理（Customized Management / NMS Integration）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"管理平台（NMS）不再是单机界面，而是 集中控制 + 报表 + 告警 + 安全策略"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"典型卖点："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"多设备统一升级"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"自动发现设备"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"VLAN/ACL 策略一键下发"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"异常自动告警（比如风扇故障、电源异常）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"高阶客户（医院、政府、工厂）最关心这一点：不是买硬件，而是买一个可控的网络环境"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"高阶管理的延伸价值"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"安全：可做端口认证（802.1X）、策略防御（DDoS 防御、ACL） → 很符合欧盟安全标准"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"可视化：能导出流量分析/日志 → 方便客户做合规审计（尤其是法国政府、英国医疗）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"可扩展性：通过 SDK/插件，客户可以按需开发（比如铁路行业需要特殊的冗余协议）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"在交换机里，“高阶管理”通常对应的就是下面这几块核心能力："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1. 可编程性（Programmability）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"能够通过 CLI、SNMP、RESTCONF、NETCONF 等多种接口灵活配置。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"甚至开放 SDK/开放 API，让客户能根据自己业务逻辑去“编程”管理交换机。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2. API 接口 & 自动化集成"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"支持标准化 API（RESTful API、gRPC 等），方便和第三方系统（比如 NMS、云平台、SDN 控制器）对接。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"对企业客户来说，可以用 Ansible、Python 脚本或者更高级的 orchestrator 来大规模自动化运维。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3. 定制化管理（Tailored Management）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这部分就是你说的“差异化价值”。比如："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"定制 VLAN、QoS 策略（工业 vs. 医疗 vs. 企业网络，需求完全不同）。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"针对不同行业（铁路、工厂自动化、能源）提供专门的 MIB 或 API。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"提供 模块化管理界面（Web/NMS 插件化），客户能在熟悉的系统里直接看到交换机的关键参数。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4. 智能化/可视化运维（算是高阶管理的升级）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"集成 Telemetry（遥测），实时上报流量、丢包、延迟。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"用 ML/AI 辅助做异常检测、流量预测（这类功能欧洲客户很看重）。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"所以你说的对：高阶管理 = 可编程 + API 接口 + 定制化管理，这是 Marvell 这种定位的精髓"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"在 工业/企业级交换机 里，“高阶管理”主要就包括你说的这些方向："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1. 可编程（Programmability）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Marvell 的优势在于 开放 SDK、灵活的 pipeline，可以根据客户需求做差异化"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"比如：定制化的 QoS 策略、特殊的流量转发逻辑、协议优化（Modbus、PROFINET 等工业协议加速）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"在安防/CCTV 外，还能满足 工控、能源、交通、边缘计算 等高价值场景"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2. API 接口（Northbound / Southbound API）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"客户在欧洲尤其是德国、法国，非常看重 统一管理平台（NMS/SCADA/云平台）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"他们不想被某一家厂商完全绑死，所以会偏好有 标准 API 或 开放接口 的交换机"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"典型需求：SNMP → RESTful API → gNMI（Google Network Management Interface） → Netconf/YANG"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3. 定制管理（Tailored Management）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这是你未来的差异化武器，别人做不到的："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"定制化 Web 界面 / Dashboard（直接展示 PoE 消耗、链路拓扑、异常告警）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"行业专属模板（比如安防客户可以一键批量配置 VLAN + PoE 调度）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"远程升级 / 集中批量配置（减少客户运维人力成本）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Managed Networking = 管理 + API/SDK + 可编程的价值"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一、管理功能基础（了解客户常见需求）：这是你在和客户沟通时，必须能随口解释的内容："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1. 设备发现与接入"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"支持 SNMP / LLDP / DHCP option 自动发现"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"NMS 平台一键纳管"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"支持批量配置"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2. 监控与可视化"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CPU、内存、端口状态"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE 电源分配情况"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"流量监控、告警（风暴控制、链路中断）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3. 远程升级与配置管理"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"批量固件升级"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"配置文件备份/恢复"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"升级过程不中断业务（Hitless Upgrade, 视芯片支持）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4. 安全与冗余"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"VLAN / ACL / 用户分级权限"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STP/RSTP/MSTP 环网冗余"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"工业级告警（温度、电源、风扇）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这一部分就是 “managed switch” 最基本的卖点"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"二、高阶管理功能（你的差异化口号方向）：这是你要去重点学习并强调的部分："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1. 可编程接口（Programmability）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Open API（RESTful API、NETCONF、gRPC）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"让用户二次开发管理界面或集成到自己的平台"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2. SDK/定制化"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Marvell Prestera SDK / Marvell NPU SDK（一般厂商才有）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"开放 CLI / SNMP MIB / YANG Model"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"工厂可以基于 SDK 做深度定制：如定制 VLAN、QoS 策略、PoE 逻辑"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3. 自动化（Automation）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"批量脚本管理（Python/Ansible）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"客户一次写好脚本，就能自动开 VLAN、分配 PoE、电源管理"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"对大型部署客户来说 = 大幅降低维护成本"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4. 可视化 & 北向接口"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"NMS 不仅自己能管，还能对接客户的监控系统（SCADA、安防平台）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"开放北向接口（REST API） → 客户 IT 平台也能直接读取状态"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"学习路径建议（适合贸易商的理解路线）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"入门（知道常见协议和客户语言）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SNMP / CLI / REST API 是什么（只要概念，不必写代码）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE 管理、批量升级、VLAN 配置 → 这是你和客户沟通的卖点"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"进阶（能讲高阶管理优势）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"学习 Marvell 的 SDK/开放 API 文档（找工厂要）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"理解 API 如何和客户 IT 系统对接（例子：安防平台直接显示 PoE 状态）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"学习一些开放协议：NETCONF / YANG（设备自动配置的标准）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"应用层（包装成卖点）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"客户价值角度："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"降低运维成本（自动化）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"提高安全性（统一管控、可编程 ACL）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"提高扩展性（API 可以接入他们现有平台）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你的销售口号："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"我们不仅提供交换机，更是提供可定制的网络管理能力，让客户未来运维更轻松"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"高阶管理功能（Managed Networking）学习路径"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1. 基础理解：管理的四层"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"基础管理"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SNMP（Simple Network Management Protocol）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CLI（Command Line Interface）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Web GUI（常见于中低端设备）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"→ 基本状态监控、配置、端口信息"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"中阶管理"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"NMS 平台集中管理（如 SolarWinds、PRTG、开源的 OpenNMS、Zabbix）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"批量升级、统一告警、拓扑自动发现"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"多设备/多站点集中控制"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"高阶管理（你要重点关注）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"可编程接口：REST API / gNMI / NETCONF / YANG"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SDK 支持：厂商提供的二次开发接口，可做自定义功能"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"开放平台对接：与客户现有 IT/OT 系统集成（如 SCADA、云平台）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"未来方向"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"自动化 / Intent-based Networking (IBN) → 网络根据业务需求自动调配"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"AI 运维 (AIOps) → 自动优化、预测性维护"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2. 学习重点（你需要掌握的）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"REST API 概念：通过 URL 方式远程下发配置、拉取状态"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"YANG/NETCONF：电信和工业厂商常用的标准化建模和配置协议"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SDK（Software Development Kit）：Marvell 或 ODM 厂商提供的开发工具，可以把“交换机功能”以模块化方式开放出来"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE / QoS / VLAN / 安全策略 如何通过 API 实现 → 这会是你和廉价 PoE 设备最大的区别"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"报价和利润"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"报关费加保险，基本是再运费的基础上再多加250元，针对大货（150元报关费用+100元的保险费用）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一般是加25%~30%"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"算完以后换算过来一下，看看运费的利润是多少"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"以下所指的利润包含了运费和杂费"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"小单: 3成利润左右，根据型号，数量，客户国家等因素做相应调整"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不低于2.5成"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"大单私账: 在沟通中可做一些较大优惠"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"尽量保持在2成到2.5成之间"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这是为了让公账的单子更有操作空间"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"大单公账: 在沟通中减少优惠率"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"扣除10个点的税"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"尽量保持在不低于15个点"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"瑞昱"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不低于20个点的利润"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"特殊客户或者量大可压低至15"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Marvell"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不低于25个点的利润"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"特殊客户或者量大可压低至20"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CENTEC"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不低于35个点的利润"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"必要时可加至50个点甚至更高的利润"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"利润点来源 = 13+5（返点）+ 20个点价格（Mbata就是20个点，不能再低了）= 接近40个点"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"品牌"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"多收集一些带品牌的产品，这样推广方便，成不成单也没啥压力"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"省事儿，不用怎么介绍，就是价格/交期/信任度"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"单价少加也行，有利润，单子滚起来最重要"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Company Color"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"暂定"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"3C"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connecting Converting Creating"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom connects talents and ideas that may drive itself forward"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom converts mature business system to all-round growth"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom creates betterness from expertise and solution package"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Name Card"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"背面把Roadmap搞上去??"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"常总产品命名"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"FT 百兆电"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"GT千兆电"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"FS百兆光"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"GS千兆光"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"GC千兆combo"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DT 2.5G电"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DS 2.5G光"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"XS万兆光"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"工作准则"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"把一个产品的所有资料都放在一个文件夹中 图，实物图，规格书，视频，客户问的问题等 当客户问该产品的资料时，直接打包发 比较简单"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"另外一种是把所有的DS 图等放在一个文件夹中，如果需要批量修改比较方便一些"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"工作1 / 工作2"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"某产品第一次出货应过自己的手，进行研究拍照拍视频后续可以直接发给客户"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"规格书等相关文件统一格式并进行记录"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一级标题，times new roman, 段前段后0磅，多倍行距，1.15倍，加粗"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"正文，times new roman, 段前段后0磅，多倍行距，1.15倍"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"注意搜集货代 证书 供应商等的信息 尤其是供应商"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"通过展会来选品/供应商"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"总结案例，优化流程"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"比如OEM 如何售后（提供产品图和视频）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"资料整理"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"主要是一些不是经常出货或者外购的，列一个表格（类似上边的）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"比如4光12电导轨式，光路RTL芯片，统一为featured products"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"小文件图片，尤其是杂项中一些比较特别的应用（Woosy的那个小壳和电源的应用）以及常问的信息（工业导轨电源图）...  EMI测试报告，管理界面信息等"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"收集信息"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一些比较好的网站，设计等 宇航的news 一些论坛信息 阿里巴巴的一些规则和操作技巧等"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"客户积累问题 Daily Query Collection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"目前是先推着，积累一些经验和问题，汇总处理一下对于后续有帮助"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"采购商这个平台多多少少还是可以用的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.52wmb.com/buyer"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"网站思路"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"禁止国内IP访问??"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"统一字体，使用大小相同的图片格式等(类似Versitron，少产品多介绍)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"可放较多信息（参考etherwan）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Banner主要还是图片，创建一个youtube频道, facebook等，数据更新要有记录，有相应的规范"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"弄一个类似销售型的网站（官网），需要有"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"VR"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"专业的视频（搭配youtube频道，定期发布）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"完善的资料（之前写的，进行补充啥的）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"详尽的说明（PVC，定制，发货等）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"About us（business mode, idea等）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"上述搞完以后，基本就是每周抽出一定的时间（3~5小时更新完善信息即可）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"有询单就处理"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"再弄一个Ecer式的网站（格式搞的简洁一些）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"上传产品，慢慢引流宣传即可"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"公司介绍，全景工厂拍摄等"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"如何生产（高低温测试等）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"销售实力展示（CKD，SKD，研发等）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"技术实例展示（SDK/API和NMS管理平台等）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.etherwan.com/us/support/eol-notice/product-change-notice-easypoe-lite-series"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"宣传资料"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Catalog和Profile应该是2个不同的册子"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Profile"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"公司介绍，工厂，相应的生产技术实力等"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Catalog"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"具体的型号，特点，产品roadmap，适用范围，可以解决的问题等"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Business Mode"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"One Link to ALL"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Value"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3C/那2个图，how we do business等"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"应用图"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"搞一个生态化的应用方案"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这个要借鉴一些台湾及知名厂商的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"以一个或多个典型场景为例（小区监控，仓库监控等）来做说明"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.etherwan.com/us/interactive-security-solutions"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"非标PoE/90W/PoE配件等集成在一起"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"标明线缆100米"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"写上产品型号"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"列明解决方案（线缆超过了100米怎么办）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"搭配说明信息（1 2 3 4）或注解"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"慢慢地把新案例新内容加进去（Example: Cambium networks ePMP™ Force 300 Series）"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"规格书"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"完全从客户问题/订单角度出发"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Key Features/FAQ等"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"直接是为了解决实际问题，for beginners"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"另外搞一个统一的安装/QIG手册，不用每个user manual中都提到这个了"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.leonton.com/img/file/Leonton_Quick-Installation-Guide.pdf"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.leonton.com/img/file/LEONTON_MET2-0201-M_usermanual.pdf"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"基本都是这个样子，非常多是共用的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"或者以系列（同一款外壳）为基础来写（1光1，1光2，2光2这个mini系列）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"着重推广2光2（参考Versitron的例子）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"因为1光1这些只有少数参数不一样，其他基本都是一样的（把相应规格书备好即可）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"把之前一些有意思的想法都集成在这个规格书中"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"或者对之前的DS做改进补充，必要时单独成册，类似Vigitron"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"FAQ增加实际的问题"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"把general部分全部写进去，做一下补强"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE部分把温度，active/passive这些写进去"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DIP写的更仔细一些"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"把相比于市场上其他产品更好的点写明"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一些不对不好的点改进一下（尤其是那个over-voltage）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"证书部分做补强"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"争取把所有的信息集成进去，客户愿意看就看，嫌长就不看"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"目前的user manual除了背面的QIG相关的信息，正面的东西基本上DS中都有，至少是非管理型号是这样"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1*Wall Hanger (Shared mounting holes with DIN Rail Kit)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Application"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Any network utilizing a mixture of copper and fiber"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IP connectivity and communication"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CCTV system such as network camera, access control"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"然后Q1/Q2/Q3/Q4做更新"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"尤其是实际的FAQ问题"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For Pros"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Vigitron的2光10电一样，直接列出重点信息"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://vigitron.com/product/vi30210/"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"比如PoE输入电压，PoE满载温度及满载功率，PoE距离"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"AC/DC电源"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"安装方式"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"L2+还是L3"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"啥独特的产品特点（非常小，带DIP）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"6KV还是8KV"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"写一些类似DQC(daily query collection)的实质内容"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一些没啥营养的就不写了，比如Support Auto MDI/MDIX"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"亚马逊启发"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Informative"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"可以考虑6张白图另加几张非常详细的图（标示出产品尺寸等一些基本的信息）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"B端想分销的直接用白图"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"C端买家直接看详情图"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Indicative"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一些指示灯 零件等都标记的很清楚"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"应用图也标记出来了"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一些图中会附上一些解释性文字"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"包装清单"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这个可以列为Must-Know中，每个类目放一个相应的图，也省事儿"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"多合一"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"多个维度的信息都放在一个图里了，特点 尺寸等"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"就是用一个图，一个视频或一个模板等解决问题，包括FAQ列表，单个产品的FAQ等"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"细节图"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"产品细节的放大 解释和强调说明"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"上边这些图都是公用的，基本搞定1 2个就能用于所有"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"把图挨个替换一下出一组"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"直接用一些说明文字啥的：这是一对多公用"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"视频"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"informative，至少是看了有收获"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"时长和内容的协调性"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"多用图直观地表达信息，少用文字"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"统一丰富格式，比如小壳导轨内容的丰富和包装 视频内容格式的统一"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"要有不同的公司宣传视频"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"要有不同时长的视频来适应不同的需求，很短的发给客户，中性的让客户宣传，比较长的说明产品，符合平台规则时长的视频等"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"可以学习的网站"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://howevision.com/what-is-a-2-5g-ethernet-switch/"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://manuals.plus/_fs/ies3110-8tf-l2-managed-industrial-switch-manual#axzz8BO5Jkrmk"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.advantech.com.cn/zh-cn/products/industrial-ethernet-switches/sub_1-2mljyv"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.tp-link.com/us/business-networking/accessory/tl-PoE2412g/"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.etherwan.com/us/easy-PoE-box-all-in-one-indoor-outdoor-networking-solution"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.netwifiworks.com/FiberPoE.asp"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.koontech.com/Solution1.html"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.fibermall.com/es/blog/PoE-switch-13-questions-to-know.htm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一些PoE的问题"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.alphaelettronica.com/nsg1006pmv1.html"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"关于PoE功能的解释"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://baijiahao.baidu.com/s?id=1714594285256690519&wfr=spider&for=pc"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"常见的IP摄像头问题"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.logicbus.com/about-us"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.proscend.com/en/page/transportation.html"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Vehicle Network"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.leonton.com/products-detail.aspx?seq=1173"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"源文件案例"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一些排版布局也不错"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://inc.avcomm.us/resources/video"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这个网站很不错"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.rubytech.com.tw/rubytech/switch-overview-by-grade/"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"注意看L3功能"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"http://www.industrial.kr/index.php?targetPage=./download_list.php&topMenuNum=4&downloadIdx=32&cateNm=Industrial%20Managed"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"可以借鉴以下"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://test.sws.cz/digitus-industrial-PoE-splitter-din-rail-60-w-ieee802-3at-af_d644272.html"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.netwifiworks.com/FiberPoE.asp"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"IPC"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"首先需要了解2个基本的概念"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"视频帧率"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"视频码流"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://blog.csdn.net/sun007700/article/details/114279948"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://blog.csdn.net/sinat_36458870/article/details/126068895#:~:text=%E9%AB%98%E6%B8%85720P%EF%BC%881280%C3%97720,%E5%A4%A9%EF%BC%89%C3%B71024%EF%BC%9D42GB%E3%80%82"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"视频帧率（Frame rate）是指每秒钟刷新的图片的帧数"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"我们看的视频都是一帧一帧地播放，帧是组成视频的基本单位"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"视频文件本身是由很多连续的图片组成，简单的可以理解为帧率就是一秒内录下的图片数量"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"由于人类眼睛的特殊生理结构，如果所看画面之帧率高于16的时候，就会认为是连贯的，此现象称之为视觉停留"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"简单理解，帧率越高也就是每秒拍的图片数量也就越多，那占用的内存/带宽也就越高"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"码流（Data Rate）是指视频文件在单位时间内使用的数据流量，也叫码率"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"同样分辨率下，视频文件的码流越大，压缩比就越小，画面质量就越好"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"简单理解，每秒/单位时间内要对图片数据进行取样/读取分析，读取的越多那对于图片数据的精度就越高，画质就更清晰，同时对于解码/播放设备的要求也就越高"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一般IP摄像机（H264）都有出厂默认的码流设置"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"480P, 1.5M"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"720P, 2M"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"960P, 4M"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1080P, 4M"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Amazon Selling"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"其实这个产品来来回回也就是这几个特点了"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"管理设备另外加一些软件硬件特点"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"5点要求思路"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"基本特点：速率（百千兆），功能（是否带PoE和管理）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"物理外观：尺寸，重量，安装方式，电源输入"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"卖点：DIP, 简单的指示灯，4KV，easy to use等"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"用途：CCTV，fiber-Ethernet conversion"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"包装及注意事项：不含光模块及电源，电源安装等"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STI-050FE"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"5 Port 10/100M Ethernet, Without PoE, Unmanaged, -40 ℃ ~+75℃ working temperature range, 130*98*30mm, 0.5Kg net weight, Din rail or wall mounting, 4-pin dual DC12~58V input"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4KV surge protection and ESD: Air-15kV, Contact-8kV Protection, 2K Bytes Jumbo frame, Support Dip switch function(on the top panel) 1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"P: Power indicator, green color; S: System indicator, red color, Ethernet Port"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"另需准备FAQ比如PoE型号客户只有24V的电源怎么处理"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"基本就是从实际使用角度来解决问题"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"应该是一个全新的user manual, 上边的内容要一一对应，比如尺寸图指示灯等，可以考虑在结尾写上email等"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"需要单独设计user manual，里边放进去email方便线下联系"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"基本就是copy规格书中的一些东西"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"User Manual"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"第一页"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"标题"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Industrial Unmanaged Ethernet Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2024 Q1(每季度更新一次)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"User Manual"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"该图（或多图）应包含该系列中所有产品"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"第二页"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Safety Instructions"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这个要写，专业一些"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"然后内容按照现有的搞就行"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product Photo(不同于封面)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Key Features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing List"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Specification"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LED Indicator"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Application"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Mechanical Drawing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Installation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"加一个Ordering Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"加一个After-sales Support"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"加上页眉页脚（网站和联系方式）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"加上Packing List"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"加上Q&A"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"About Us也可以加"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一套下来估计可能需要一个小册子（见下图的）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"区别User Manual和DS，有很多相似但也稍有不同"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"在任何情况下都让客户获得全面信息，减少与我们的沟通"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这个小册子应该是确保客户拿到产品后，能明白基础的产品信息和售后问题解决"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"下边这部分是一个折叠的小册子，有足够的空间来补充信息"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"放组合图"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"放变体"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"放trouble-shooting等"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"参考LEONTON_CET2-0800_usermanual文件，所有信息都写出来了"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"发展方向"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Easy information简单呈现"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"VR链接，视频，文字图片信息"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Google Link，官网全部写上去"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Solution provider可视化"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.etherwan.com/us/applications/intelligent-transportation-system-solutions"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"以EtherWAN网站为例"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3D建模+工业设计把应用场景说明白了"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"另外是case study将行业的一些应用背景展示出来了"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"方向挖掘"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"比如"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"为啥我们要推出带bypass的产品"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"如何拓展TSN的应用"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"怎么将产品和应用方案智能集成"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"谷歌搜索技巧"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"把口语化的问题转化为关键词"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"如：我想换新的手机如何备份旧手机的信息"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"变为：新手机 信息备份"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"使用正确的搜索指令"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"关键词1 OR 关键词2\t\tOR一定是大写\t也可以是AND"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A -B\t\tA后空格\t\t-是英文输入法下的减号，表示搜索包含A但没有B的⽹⻚"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"media converter -amazon -alibaba"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"关键词 site:.in\t\tsite前空格\t:后直接.in或.us\t\t很实用"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"关键词 site:网站\t\tsite前空格\t:后直接加网站\t\t一般"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"关键词 filetype:pdf/PNG\tONV filetype:pdf\t\t这样可以找到一些他们的客户"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"关键词 Intitle:90w PoE switch\t第二个关键词前不空格"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Intitle:关键词\tsite:www.facebook.com\t\tsite前空格"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"allintext:关键词  可以与上边的组合"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"allintext: 90w PoE switch site:.pl"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"allinurl:关键词\t可以与上边的组合"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"allinurl:PoE switch -amazon site:.pl"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"限定关键词：加上双引号“”可减少谐音词/顺序颠倒/多一个字少一个字/词语分开等结果"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"上述提到的关键词可以加“”或者搭配使用，精度更高"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"行业展会"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"COMPUTEX Taipei"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Secon Fair Korea"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SVIAZ Fair Russia"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MIPS Fair Russia"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Exposec Fair Brazil"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Intersec Fair Saudi Arabia"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Essen Fair Germany"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"矿井类项目特点"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"精度要求高，如出了问题要立即能响应，温度浓度超过设定阈值能马上报警"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"外壳强度要求高，腐蚀性更高，一般安装后替换较为麻烦"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"可能的需求有"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CAN总线 串口数据转以太网：监控温度，瓦斯浓度等"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"90W PoE：接高精度IP摄像头（可以补光，高倍率更好监控矿井内场景）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"TSN：瞬时反应，尤其是接了CAN总线"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"外壳喷漆及氧化级别更高"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE状态显示（可同步到LED屏上监控，似乎是通过MIB+交换机管理平台能实现）"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"玩法"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OEM工厂为例（Smartbyte或Iseelink），他们对接的是"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"运营商，贸易商等，少部分跟进客户"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"自助式信息"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"同行挖一下卖自己的产品（兼职跟进）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"让客户（分销商代理商）跟进客户（进行中）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"自建站/直接下单的网站（计划是Shopify）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"有2种用户手册, for beginners, for pros"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"佣金式（不论订单金额多少，统一算10~20%的tip/profit）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"买手（给国外客户买东西，基本是和光纤设备相关的）已统计入最新版本的DS"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一些品牌的产品有渠道拿到，后续也是一个卖点"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.amz123.com/t/mg54qAHz"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"巴西\t目前来看这个是最麻烦的一个国家"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"国内客户的单子只接受支付宝 微信 银行卡等私账，不能是公帐 否则不接这个单子"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"就是宁可不接这个单子也不处理税相关的东西"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"48V PD"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.grandstream.com/products/networking-solutions/indoor-wifi-access-points/product/gwn7670"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://techspecs.ui.com/unifi/wifi/u7-pro-outdoor-us?s=us"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"24V PD"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Wireless radio equipment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Cambium networks ePMP™ Force 300 Series"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Reyee WIFI Antenna: RG-EST310 V2"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Camera"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Hikvision DS-2DE5220IW-AE"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"24V powered network system"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Hospital Nurse Call System(Case Study)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Solar Power System, In-vehicle Network"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"太阳能/光伏发电（太阳能的直接输出一般都是12VDC、24VDC、48VDC）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"从太阳能光伏电池板收集到的直流电需要经过一个变频器(在太阳能发电系统中称为逆变器)进行转换。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"逆变器的作用是将直流电(DC)转换为交流电(AC)，以适应家庭、工业等用户的用电需求。逆变器通常还负责将多余的电能储存于电池中，以便晚上或阴天时使用。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://cn.made-in-china.com/gongying/huawei885-PeXmEWLuYdkt.html"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://baijiahao.baidu.com/s?id=1802813035037209291&wfr=spider&for=pc"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.tesla.com/solarpanels"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://en.wikipedia.org/wiki/Solar_power"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.se.com/ww/en/work/solutions/for-business/electric-utilities/power-generation/solar-power.jsp"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://new.abb.com/solar"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://info.hikvision.com/solar-powered-security-solutions"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"很多是上边的结合应用，不单单只是一个24V PoE output或者支持24V input"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ubiquiti Networks"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"该品牌较多24V的PD"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Case Study"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"Application"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Hospital Nurse Call System"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"PDs"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LED lights: provide light in corridors, wards and bathrooms"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Corridor touch panels: indicating time, diagnostic sequence, hospital information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Cameras: real-time monitoring"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Speakers: play music, emergency communication, maintain order"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Door contacts: added security for wards, authorized access"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Call points: efficient communication, emergency call"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Alarms: danger warning"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"Model"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STC-2224GFP-24V"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Specification: 2*1G SFP+2*1G Copper uplink+24*10/100M PoE downlink, 24V PoE output"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Useful feature: 24V PoE output"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STC-208GP-Auto"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Specification: 2*1G SFP+8*10/100/1000M PoE, auto-adaptive 24V/48V PoE output"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Useful feature: auto-adaptive 24V/48V PoE output"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STC-4424GCP-4BT-Auto"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Specification: 4*1G SFP/RJ45 Combo+24*10/100/1000M PoE, 1~4 PoE ports auto-adaptive 24V/48V PoE output, 5~8 PoE ports support PoE af/at/bt output"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Useful feature: 4*1G Combo, auto-adaptive 24V/48V PoE output, PoE af/at/bt output"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For above listed PDs, most receive 24V power input, some do 48V(like PoE cameras)."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The recommended 3 models are well suited for such projects or similar."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"24V PoE output: for 24V power input PDs"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Auto-adaptive 24V/48V PoE output: for multiple PDs with both 24V and 48V power input"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Combo: for flexible port combination"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE af/at/bt: for some power-hungry devices like PTZ camera, digital signage"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"Conclusion"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Above information explains a typical 24V passive PoE application project."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"By analyzing the PDs and model features from Saga Telecom, a PoE solution package is provided and also applicable to similar projects."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Moreover: Saga Telecom also offers active PoE switches or industrial PoE switches, please talk with us for more information."
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"SFP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"目前不考虑高速的，只到10G搭配交换机使用"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"高速率(25G 40G 100G的开一个新的命名体系)，基本是没工业级的了，主要是DCN， ECN这2个类目来使用"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STI/STC"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"M/Megabit"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"G/Gigabit"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DG/2.5G"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"XG/10G"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SD=Singlemode Dual port"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SS=Singlemode Single port"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MD=Multimode Dual Port"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"T=Copper port"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"0.03/0.1/0.5/2/3/10/20/40=Distance"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"T/R=Transmitter/Receiver"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Default is LC connector, SFP package, otherwise it will be specified."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"电口就写-T(Copper), 只买10/100/1000M的，不引入纯千兆的"
+},
+{
+"t":"table",
+"rows":[
+[
+"百兆电口",
+"STI-M0.1-T"
+],
+[
+"千兆电口",
+"STI-G0.1-T"
+],
+[
+"2.5G电口",
+"STI-DG0.1-T"
+],
+[
+"万兆电口",
+"STI-XG0.03-T"
+],
+[
+"以上是电口型号"
+],
+[
+"百兆单纤SC接口, 155Mb/s, SM, Simplex / TX1310nm/RX1550nm, 20KM",
+"STI-M20-SS-SCT / STI-M20-SS-SCR"
+],
+[
+"千兆单纤SC接口, 1.25Gb/s, SM, Simplex / TX1310nm/RX1550nm, 20KM",
+"STI-G20-SS-SCT / STI-G20-SS-SCR"
+],
+[
+"以上是SC接口光模块型号"
+],
+[
+"155Mb/s, MM, Duplex, 850nm, 500-meter",
+"STI-M0.5-MD"
+],
+[
+"155Mb/s, MM, Duplex, 1310nm, 2KM",
+"STI-M2-MD"
+],
+[
+"155Mb/s, SM, Duplex, 1310nm, 20KM",
+"STI-M20-SD"
+],
+[
+"以上是百兆双纤光模块型号"
+],
+[
+"155Mb/s, SM, Simplex, 20Km / TX1310nm/RX1550nm",
+"STI-M20-SST / STI-M20-SSR"
+],
+[
+"155Mb/s, SM, Simplex, 80Km / TX1550nm/RX1490nm",
+"STI-M80-SST / STI-M80-SSR"
+],
+[
+"以上是百兆单纤光模块型号",
+""
+],
+[
+"1.25Gb/s, MM, Duplex, 850nm, 500-meter",
+"STI-G0.5-MD"
+],
+[
+"1.25Gb/s, MM, Duplex, 1310nm, 2KM",
+"STI-G2-MD"
+],
+[
+"1.25Gb/s, SM, Duplex, 1310nm, 20KM",
+"STI-G20-SD"
+],
+[
+"1.25Gb/s, SM, Duplex, 1310nm, 40KM",
+"STI-G40-SD-1310"
+],
+[
+"1.25Gb/s, SM, Duplex, 1550nm, 40KM",
+"STI-G40-SD-1550"
+],
+[
+"1.25Gb/s, SM, Duplex, 1550nm, 60KM",
+"STI-G60-SD"
+],
+[
+"以上是千兆双纤光模块型号"
+],
+[
+"1.25Gb/s, SM, Simplex, 3KM / TX1310nm/RX1550nm",
+"STI-G3-SST / STI-G3-SSR"
+],
+[
+"1.25Gb/s, SM, Simplex, 40KM / TX1310nm/RX1550nm",
+"STI-G40-SST / STI-G40-SSR"
+],
+[
+"1.25Gb/s, SM, Simplex, 60KM / TX1490nm/RX1550nm",
+"STI-G60-SST / STI-G60-SSR"
+],
+[
+"以上是千兆单纤光模块型号"
+],
+[
+"10Gb/s, MM, Duplex, 850nm, 300-meter",
+"STI-XG0.3-MD"
+],
+[
+"10Gb/s, MM, Duplex, 1310nm, 2KM",
+"STI-XG2-MD"
+],
+[
+"10Gb/s, SM, Duplex, 1310nm, 10KM",
+"STI-XG10-SD"
+],
+[
+"10Gb/s, SM, Duplex, 1310nm, 40KM",
+"STI-XG40-SD-1310"
+],
+[
+"10Gb/s, SM, Duplex, 1550nm, 40KM",
+"STI-XG40-SD-1550"
+],
+[
+"10Gb/s, SM, Duplex, 1550nm, 80KM",
+"STI-XG80-SD"
+],
+[
+"以上是万兆双纤光模块型号"
+],
+[
+"10Gb/s, SM, Simplex, 20KM / TX1270nm/RX1330nm",
+"STI-XG20-SST / STI-XG20-SSR"
+],
+[
+"10Gb/s, SM, Simplex, 80KM / TX1490nm/RX1550nm",
+"STI-XG80-SST / STI-XG80-SSR"
+],
+[
+"以上是万兆单纤光模块型号"
+],
+[
+"10Gb/s, MM, Duplex, 850nm, 300-meter, XFP",
+"STI-XG0.3-MD-XFP"
+],
+[
+"10Gb/s, SM, Duplex, 1310nm, 10KM, XFP",
+"STI-XG10-SD-XFP"
+],
+[
+"10Gb/s, SM, Duplex, 1310nm, 40KM, XFP",
+"STI-XG40-SD-1310-XFP"
+],
+[
+"10Gb/s, SM, Duplex, 1550nm, 40KM, XFP",
+"STI-XG40-SD-1550-XFP"
+],
+[
+"10Gb/s, SM, Duplex, 1550nm, 80KM, XFP",
+"STI-XG80-SD-XFP"
+],
+[
+"以上是XFP接口万兆双纤光模块型号"
+],
+[
+"10Gb/s, SM, Simplex, 20KM, XFP / TX1270nm/RX1330nm",
+"STI-XG20-SST-XFP / STI-XG20-SSR-XFP"
+],
+[
+"10Gb/s, SM, Simplex, 80KM, XFP / TX1490nm/RX1550nm",
+"STI-XG80-SST-XFP / STI-XG80-SSR-XFP"
+],
+[
+"以上是XFP接口万兆单纤光模块型号"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"PI"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STI/STC"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PI/PoE Injector"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"G90W/千兆速率和输出总功率，另外有DG/10G, 30W"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"48V/输入电压"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"UP: 升压"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Example"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STI-PI-G90W-48V"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"PS"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STI/STC"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PS/PoE Splitter"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"G90W/千兆速率和输入总功率，另外有DG/10G"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"12V/输出电压"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DIP/支持拨码式，可调整输出电压"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Example"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STI-PS-G90W-DIP"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"PE"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STI/STC"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PE/PoE Extender"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"G90W/千兆速率和总功率（不提输出的速率）\tM是百兆 DG/XG（这是输入速率）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1I4O: Input number and Output number"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.fs.com/it/products/152485.html"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"以飞速这个为例"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STI-PE-G90W-1I4O"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1I2O"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"还有2进2出，2进4出"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"基本上就是这5种了"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IP67的话还是在后边加上-IP67"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Example"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STI-PE-G90W-1I4O"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"对标供应商"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.redlion.net/products/industrial-networking/ethernet-solutions/PoE-switches-and-injectors"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"http://www.e-linkchina.com.cn/products/115.html"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.procetPoE.com/extender/"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"参考链接"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE Extender"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"http://www.e-linkchina.com.cn/products/115.html#gl"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.procetPoE.com/extender/"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE Injector"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"http://www.e-linkchina.com.cn/products/82.html"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.procetPoE.com/din/"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE Splitter"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"http://www.e-linkchina.com.cn/products/96.html"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.procetPoE.com/splitter/"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"PoE Accessory"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE(Power over Ethernet) helps users transmit data and power on one single network cable, which greatly facilitates installation and enriches Ethernet applications."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Some special functions in a PoE device such as PoE watchdog, VLAN isolation, and Extend mode also help reduce manual intervention and make the entire system smarter."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"However, in short-distance cabling and network systems, the application scenarios are very complex, below are some examples"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"12V/24V power input for PD"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Long distance of PD and PSE(more than 100-meter)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Temporarily separate data and power"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Too many Non-PoE IP devices in existing project"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"higher power required after project upgrading"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Under this background, Saga Telecom presents an ample quantity of indoor and outdoor application-based PoE devices covering"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE Splitter"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE repeater/extender"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE Injector/Midspan"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Popular IEEE 802.3af, IEEE 802.3at, IEEE 802.3bt standards are carried, power booster/step-up and passive PoE models are also introduced to help solve tricky problems in some projects."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Those PoE-related accessories make available cost-efficient solution and complex installation."
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"Typical Application"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Last-mile Ethernet transmission solution"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Small area PoE-related cabling"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"12V/24V/48V powered network system"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"Features"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"Model List"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"Typical Models"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"Typical Photos"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"放商业级，工业级，IP67的几个图"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"可参考案例"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"VR链接"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"典型案例"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://vr.unipoe.net/"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3D案例演示"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"典型案例"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.etherwan.com/us/applications/ip-security-solutions"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"工业建模展示"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"主要是产品细节，一些有意思的特点"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"典型案例"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Phoenix contact"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"远程网管"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"典型案例"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Smart Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Web: http://gtw4jkza29.switch.unipoe.com:8080/index.cgi"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Account: admin"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Password: Unipoe2024"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"全系列非机密源文件"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"典型案例"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.leonton.com/products-detail.aspx?seq=1173"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"高IP等级及宣传"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.inscapedata.com/#gsc.tab=0"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"供应商问询"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"含税情况：是能否不含税付款? 还是到了特定金额就需要做含税付款了?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"能否给大概的价格册还是每次单独问?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"有具体的实物图吗？还是问具体型号时再拍?（有时客户会问）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"库存情况：是通过自己的渠道拿货（即时确认交期）还是有库存?"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"应用场景分析"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Power Tower"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Substation on-line monitoring system refers to the measurement, transmission and diagnosis system installed directly in the substation, which can record the characteristics of the equipment running status in real time, and is an important means to realize the substation status monitoring and maintenance."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Colliery"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Using Ethernet as the backbone network transmission, the safety information, working condition information and control information of the coal mine can be transmitted on a single platform, and the reliability and transmission capability of the transmission platform can be improved. Monitoring and management can effectively improve the level of mine production safety and realize remote centralized monitoring and control of coal mine information."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Industrial Automation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The networking mode is used in industrial automation monitoring, which is directly connected with the automatic setting, and the information collected by the sensor is fed back to the control station, and the control information is thoroughly given to a number of automation equipment such as PLC, so as to realize the unified management and automation of automation equipment and sensing equipment."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Intelligent Transportation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Urban road traffic safety is an important branch of urban public traffic safety. The construction of automatic red light running record system to monitor and record the red light running behavior of motor vehicles, and to punish the red light running behavior of motor vehicles through legislation is an important means to curb the red light running behavior of motor vehicles."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Integrated Monitoring System"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Intelligent Transportation Systems(ITS) aim to provide all commuters with communication and technology to ensure they have a safe, convenient, comfortable, efficient and environmentally friendly journey. Many cities around the world are improving their transportation system infrastructure, and ZONTEC has focused on intelligent transportation solutions for many years, providing advanced product solutions for the high and medium highway and highway segments.Including highway entrance monitoring system,traffic information system, tunnel detection system, electronic no-stop toll system, vehicle counting & classification system and IP monitoring."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Smart Energy"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The information construction of the energy industry is developing from system integration to application integration, the original decentralized subsystems will develop in the direction of integrated application integration, and production control automation will also organically combine with management information.and the overall system will develop in the direction of management integration."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.utepo.net/article/energy.html"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.modeshift.com/what-is-an-intelligent-transport-system-and-how-does-it-work/"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.niubol.com/Data-Collector/"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"视频"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DI DO RS485"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CLI"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"自动化"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"升压"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"等等功能，利用动画 视频的动态样式来展现使用场景"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"比较清晰，也容易吸引客户"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这要服务于推广"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"总是要基于实际的使用来搞的！！"
+}
+],
+"extracted_at":"2026-10-23T05:01:25Z"
+}

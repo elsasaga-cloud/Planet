@@ -1,0 +1,642 @@
+{
+"id":"Extra_Info__CENTEC客户指引.docx__2c3005fe",
+"path":"Extra_Info/CENTEC客户指引.docx",
+"name":"CENTEC客户指引.docx",
+"ext":".docx",
+"bytes":35224,
+"sha256":"2c3005fe7c46a561b79f590898f9d05e4d5b6b9ffbe486a2d9330f1150ac2867",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2026-09-20T13:39:00+00:00",
+"modified":"2026-09-20T13:39:14+00:00",
+"paragraphs":123,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"chars":2399,
+"text":"CENTEC 核心交换机 ≠ 普通贸易客户产品\n它只适合三类人：\nSI（System Integrator）\nISP / WISP / FNO\n大型项目工程商（校园 / 医疗 / 政府 / Community）\n不适合：纯贸易商、电商、询价型客户、价格党。\n第一优先渠道：LinkedIn（不是乱搜，是“工程级精搜”）\nLinkedIn 是找核心交换机客户的第一战场，但 90% 人用错方式。\n你要搜的不是“company”，而是“人”\n正确关键词组合（直接可用）\n1 System Integrator（最优）\nJob title:\n- Network Engineer\n- Network Architect\n- IT Infrastructure Manager\n- Technical Director\n- Head of Network\n- ICT Manager\nIndustry:\n- System Integration\n- ICT Solutions\n- Telecom Solutions\nLocation:\n- Saudi Arabia\n- UAE\n- Nigeria\n- Kenya\n为什么不搜采购？\n因为核心交换机是技术驱动采购，不是价格驱动。\n2 ISP / WISP（第二优先）\nJob title:\n- Network Operations Manager\n- IP Network Engineer\n- Backbone Engineer\n- NOC Manager\n- CTO\nCompany keywords:\n- ISP\n- Internet Service Provider\n- Telecom\n- Fiber\n- Broadband\n这类客户对：\n10G / 25G / 100G\nRouting / MPLS / VLAN\n非常敏感。\nLinkedIn 高质量客户筛选标准（你只要这6 条）\n一个人 至少满足 4 条，你才值得聊：\n✅ 公司10–200 人（太小没项目，太大进不去）\n✅ 标注 SI / ICT / ISP / Telecom\n✅ 员工里有 Network Engineer ≥ 2 人\n✅ 公司官网有 Projects / Solutions 页面\n✅ 不是 reseller-only（有工程能力）\n✅ 在沙特 / 尼日利亚 / 肯尼亚 / UAE\n第二优先：项目来源型客户（比 LinkedIn 更猛）\n1）弱电 / 安防 / 智慧城市工程商\n你现在的 PoE + Core switch = 完美适配\n去找：\nCCTV integrator\nSmart City contractor\nLow voltage system integrator\n他们特点：\n一定有核心交换机需求\n不会用 Cisco（太贵）\n很容易接受 Centec\n搜索方式（Google）：\n\"CCTV system integrator\" + Saudi\n\"low voltage contractor\" + Riyadh\n\"smart city integrator\" + Nigeria\n点进官网 → 找 Projects / Case Study → 联系人\n2）教育 / 医疗 / 政府项目集成商\n这类客户非常稳定，而且核心层一旦上，很难被替换。\n关键词：\n\"Campus network integrator\"\n\"Hospital IT infrastructure\"\n\"Education ICT solution\"\n第三优先：行业协会 & 本地生态（低竞争）\n这是 被 99% 外贸人忽略的渠道。\n你要关注的不是展会，是“成员名单”\n举例：\nSaudi ICT Association\nNigeria Internet Group\nKenya ICT Authority\nLocal Chamber of Commerce（Tech members）\n找 Members / Partners / Directory\n这些公司：\n已经在本地做项目\n更信任长期供应商\n不爱频繁换设备商\n第四优先：你已有客户 → 横向裂变（最容易成单）\n你已经有：\n尼日利亚长期客户\nUAE 新客户\n肯尼亚潜在客户\n你现在该做的是：\n❗ 不问“能不能介绍客户”\n而是问：\n“你们在项目里，\n是自己做核心网络，\n还是会配合其他 SI / ISP？”\n很多时候答案是：\n“我们有合作的网络公司。”\n这就是你真正的目标客户。\n第五优先：技术内容反向吸引（低频但极高质量）\n你不需要营销号内容，只要：\n可以做的最小动作：\n一篇《10G/25G Core Switch in Campus Network》\n一篇《Cost-effective Cisco Alternative for ISP Backbone》\n发到：\nLinkedIn\nPDF 发给客户\n放在你公司官网\nCentec + 核心架构 = 技术信任感\n哪些地方你可以直接忽略（节省时间）\n❌ Alibaba / Made-in-China\n❌ Facebook 群发\n❌ 纯 WhatsApp 开发\n❌ 只问价格的询盘\n❌ Reseller without engineer\n最后一句给你吃个定心丸：\nCENTEC 核心交换机不是快钱产品\n但一旦进项目，就是你未来 3–5 年最稳定的利润来源\n你现在已经站在正确的位置上了\n[页眉页脚]\nSaga Telecom\nwww.sagatele.com\nAn Engineering & Supply-Chain-First Telecom Partner\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"CENTEC 核心交换机 ≠ 普通贸易客户产品"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"它只适合三类人："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SI（System Integrator）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"ISP / WISP / FNO"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"大型项目工程商（校园 / 医疗 / 政府 / Community）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不适合：纯贸易商、电商、询价型客户、价格党。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"第一优先渠道：LinkedIn（不是乱搜，是“工程级精搜”）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LinkedIn 是找核心交换机客户的第一战场，但 90% 人用错方式。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你要搜的不是“company”，而是“人”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"正确关键词组合（直接可用）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1 System Integrator（最优）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Job title:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Network Engineer"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Network Architect"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- IT Infrastructure Manager"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Technical Director"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Head of Network"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- ICT Manager"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Industry:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- System Integration"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- ICT Solutions"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Telecom Solutions"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Location:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Saudi Arabia"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- UAE"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Nigeria"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Kenya"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"为什么不搜采购？"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"因为核心交换机是技术驱动采购，不是价格驱动。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2 ISP / WISP（第二优先）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Job title:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Network Operations Manager"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- IP Network Engineer"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Backbone Engineer"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- NOC Manager"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- CTO"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Company keywords:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- ISP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Internet Service Provider"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Telecom"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Fiber"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Broadband"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这类客户对："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"10G / 25G / 100G"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Routing / MPLS / VLAN"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"非常敏感。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LinkedIn 高质量客户筛选标准（你只要这6 条）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一个人 至少满足 4 条，你才值得聊："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"✅ 公司10–200 人（太小没项目，太大进不去）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"✅ 标注 SI / ICT / ISP / Telecom"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"✅ 员工里有 Network Engineer ≥ 2 人"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"✅ 公司官网有 Projects / Solutions 页面"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"✅ 不是 reseller-only（有工程能力）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"✅ 在沙特 / 尼日利亚 / 肯尼亚 / UAE"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"第二优先：项目来源型客户（比 LinkedIn 更猛）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1）弱电 / 安防 / 智慧城市工程商"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你现在的 PoE + Core switch = 完美适配"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"去找："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CCTV integrator"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Smart City contractor"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Low voltage system integrator"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"他们特点："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一定有核心交换机需求"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不会用 Cisco（太贵）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"很容易接受 Centec"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"搜索方式（Google）："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"\"CCTV system integrator\" + Saudi"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"\"low voltage contractor\" + Riyadh"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"\"smart city integrator\" + Nigeria"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"点进官网 → 找 Projects / Case Study → 联系人"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2）教育 / 医疗 / 政府项目集成商"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这类客户非常稳定，而且核心层一旦上，很难被替换。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"关键词："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"\"Campus network integrator\""
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"\"Hospital IT infrastructure\""
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"\"Education ICT solution\""
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"第三优先：行业协会 & 本地生态（低竞争）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这是 被 99% 外贸人忽略的渠道。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你要关注的不是展会，是“成员名单”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"举例："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saudi ICT Association"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Nigeria Internet Group"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Kenya ICT Authority"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Local Chamber of Commerce（Tech members）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"找 Members / Partners / Directory"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这些公司："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"已经在本地做项目"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"更信任长期供应商"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不爱频繁换设备商"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"第四优先：你已有客户 → 横向裂变（最容易成单）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你已经有："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"尼日利亚长期客户"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"UAE 新客户"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"肯尼亚潜在客户"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你现在该做的是："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"❗ 不问“能不能介绍客户”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"而是问："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"“你们在项目里，"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"是自己做核心网络，"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"还是会配合其他 SI / ISP？”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"很多时候答案是："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"“我们有合作的网络公司。”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这就是你真正的目标客户。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"第五优先：技术内容反向吸引（低频但极高质量）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你不需要营销号内容，只要："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"可以做的最小动作："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一篇《10G/25G Core Switch in Campus Network》"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一篇《Cost-effective Cisco Alternative for ISP Backbone》"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"发到："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LinkedIn"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PDF 发给客户"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"放在你公司官网"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Centec + 核心架构 = 技术信任感"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"哪些地方你可以直接忽略（节省时间）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"❌ Alibaba / Made-in-China"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"❌ Facebook 群发"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"❌ 纯 WhatsApp 开发"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"❌ 只问价格的询盘"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"❌ Reseller without engineer"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"最后一句给你吃个定心丸："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CENTEC 核心交换机不是快钱产品"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"但一旦进项目，就是你未来 3–5 年最稳定的利润来源"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你现在已经站在正确的位置上了"
+}
+],
+"extracted_at":"2026-10-23T05:01:24Z"
+}

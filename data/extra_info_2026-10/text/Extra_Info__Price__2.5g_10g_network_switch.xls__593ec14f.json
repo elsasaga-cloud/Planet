@@ -1,0 +1,283 @@
+{
+"id":"Extra_Info__Price__2.5g_10g_network_switch.xls__593ec14f",
+"path":"Extra_Info/Price/2.5g 10g network switch.xls",
+"name":"2.5g 10g network switch.xls",
+"ext":".xls",
+"bytes":4986368,
+"sha256":"593ec14fc1eb64b6d235ea9cc9c05472779a49e8c591180922f45a0779afc4a4",
+"source":"Extra_Info.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Saga Telecom"
+],
+"rows_total":37
+},
+"warnings":[],
+"chars":4487,
+"text":"--- Sheet: Saga Telecom ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nAddress: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob/Whatsapp/Wechat: 86 15237149683                                       www.sagatelecom.com.cn                                Email: s.sagatelecom@gmail.com\nCommercial Unmanaged Switch(Non-PoE Models)\nModel\tSpecification\t\t\t\tPrice\nUSD\tPrice\nRMB\tPicture\nSTC-15XGDGE\t1*10G SFP+5*100M/1G/2.5G RJ45, DC12V1A, Desktop Type\nRemark: Fiber port does NOT support 1G or 2.5G speed\t\t\t\t36\t252\nSTC-18XGDGE\t1*10G SFP+8*100M/1G/2.5G RJ45, DC12V2A, Desktop Type\nRemark: Fiber port does NOT support 1G or 2.5G speed\t\t\t\t48\t336\nSTC-216XGDGE\t2*1G/2.5G/10G SFP+16*100M/1G/2.5G RJ45, Support Vlan mode, AC input, Rack compatible\nRemark: default Fiber speed is 2.5G/10G, 1G needs to be configured by pressing the SM button\t\t\t\t175\t1225\nSTC-224XGDGE\t2*1G/2.5G/10G SFP+24*100M/1G/2.5G RJ45, Support Vlan mode, AC input, Rack compatible\nRemark: default Fiber speed is 2.5G/10G, 1G needs to be configured by pressing the SM button\t\t\t\t196\t1372\nSTC-08XGE\t8*100M/1G/2.5G/5G/10G RJ45, AC input, Rack compatible\t\t\t\t175\t1225\nSTC-80XGO\t8*1G/2.5G/10G SFP, DC12V2A, Desktop Type\nRemark: Fiber speed is auto-sensing, without extra configuration\t\t\t\t80\t560\nCommercial Unmanaged Switch(PoE Models)\nSTC-114XGDGP\t1*1G/2.5G/10G SFP+1*100M/1G/2.5G RJ45 Uplink+4*100M/1G/2.5G PoE Downlink\nPoE af/at, 60W budget, Support PoE priority, AC input, Rack compatible\nRemark: Fiber speed is auto-sensing, without extra configuration\t\t\t\t43\t301\nSTC-108XGDGP\t1*1G/2.5G/10G SFP+8*100M/1G/2.5G PoE Downlink\nPoE af/at, 100W budget, Support PoE priority, AC input, Rack compatible\nRemark: Fiber speed is auto-sensing, without extra configuration\t\t\t\t62\t434\nCommercial Web Managed Switch(Non-PoE Models)\nSTC-80XGWO\t8*1G/2.5G/10G SFP Fiber ports, Without Ethernet port, Fanless, DC12V2A\nRemark: Fiber speed is auto-sensing, without extra configuration\t\t\t\t95\t665\nSTC-120XGWO\t12*10G SFP Fiber ports, Without Ethernet port, With fan, AC100-240V, Rack compatible\nRemark: Fiber port does NOT support 1G or 2.5G speed\t\t\t\t145\t1015\nSTC-05XGWE\t5*100M/1G/2.5G/5G/10G Ethernet ports, Without optical port, With fan, AC100-240V, Rack compatible\t\t\t\t135\t945\nSTC-08XGWE\t8*100M/1G/2.5G/5G/10G Ethernet ports, Without optical port, With fan, AC100-240V, Rack compatible\t\t\t\t186\t1302\nSTC-15XGDGWE\t1*10G Fiber port+5*100M/1G/2.5G Ethernet ports, Fanless, DC12V1A\nRemark: Fiber port does NOT support 1G or 2.5G speed\t\t\t\t43\t301\nSTC-18XGDGWE\t1*10G Fiber port+8*100M/1G/2.5G Ethernet ports, Fanless, DC12V1A\nRemark: Fiber port does NOT support 1G or 2.5G speed\t\t\t\t55\t385\nSTC-24XGDGWE\t2*1G/2.5G/10G SFP Fiber ports+4*100M/1G/2.5G Ethernet ports, Fanless, DC12V1A\nRemark: Fiber speed is auto-sensing, without extra configuration\t\t\t\t45\t315\nSTC-224GWE\t2*1G Fiber ports+24*100M/1G Ethernet ports, Fanless, AC100-240V, Rack compatible\t\t\t\t60\t420\nSTC-216XGDGWE\t2*2.5G/10G Fiber ports+16*100M/1G/2.5G Ethernet ports, Fanless, AC100-240V, Rack compatible\nRemark: Fiber speed is auto-sensing, without extra configuration, but it does NOT support 1G speed\t\t\t\t180\t1260\nSTC-224XGDGWE\t2*2.5G/10G Fiber ports+24*100M/1G/2.5G Ethernet ports, Fanless, AC100-240V, Rack compatible\nRemark: Fiber speed is auto-sensing, without extra configuration, but it does NOT support 1G speed\t\t\t\t200\t1400\nSTC-84XGWE\t4*1G/2.5G/10G SFP Fiber ports+8*100M/1G/2.5G/10G Ethernet ports, Fanless, DC12V3A\nRemark: Fiber speed is auto-sensing, without extra configuration\t\t\t\t200\t1400\nCommercial Web Managed Switch(PoE Models)\nSTC-28GPW\t2*1G Fiber ports+8*100M/1G PoE ports, Fanless, AC100-240V, Rack compatible\nPoE af/at, 150W PoE budget, Internal 52V2.88A power converter\t\t\t\t43\t301\nSTC-216GPW\t2*1G Fiber ports+16*100M/1G PoE ports, Fanless, AC100-240V, Rack compatible\nPoE af/at, 200W PoE budget, Internal 52V3.84A power converter\t\t\t\t90\t630\nSTC-224GPW\t2*1G Fiber ports+24*100M/1G PoE ports, Fanless, AC100-240V, Rack compatible\nPoE af/at, 300W PoE budget, Internal 52V5.76A power converter\t\t\t\t100\t700\nSTC-18XGDGPW\t1*1G/2.5G/10G Fiber port+8*100M/1G/2.5G PoE ports, Fanless, AC100-240V, Rack compatible\nPoE af/at, 100W PoE budget, Internal 52V1.92A power converter\nRemark: Fiber speed is auto-sensing, without extra configuration\t\t\t\t70\t490\n1. Prices are valid for 15 days\n2. Price term: EXW\n3. Warranty period: One year\n4. Lead time for less than 50pcs: 5~7 working days\n5. Customization is available",
+"sheets":{
+"Saga Telecom":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob/Whatsapp/Wechat: 86 15237149683                                       www.sagatelecom.com.cn                                Email: s.sagatelecom@gmail.com"
+],
+[
+"Commercial Unmanaged Switch(Non-PoE Models)"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"",
+"Price\nUSD",
+"Price\nRMB",
+"Picture"
+],
+[
+"STC-15XGDGE",
+"1*10G SFP+5*100M/1G/2.5G RJ45, DC12V1A, Desktop Type\nRemark: Fiber port does NOT support 1G or 2.5G speed",
+"",
+"",
+"",
+"36",
+"252"
+],
+[
+"STC-18XGDGE",
+"1*10G SFP+8*100M/1G/2.5G RJ45, DC12V2A, Desktop Type\nRemark: Fiber port does NOT support 1G or 2.5G speed",
+"",
+"",
+"",
+"48",
+"336"
+],
+[
+"STC-216XGDGE",
+"2*1G/2.5G/10G SFP+16*100M/1G/2.5G RJ45, Support Vlan mode, AC input, Rack compatible\nRemark: default Fiber speed is 2.5G/10G, 1G needs to be configured by pressing the SM button",
+"",
+"",
+"",
+"175",
+"1225"
+],
+[
+"STC-224XGDGE",
+"2*1G/2.5G/10G SFP+24*100M/1G/2.5G RJ45, Support Vlan mode, AC input, Rack compatible\nRemark: default Fiber speed is 2.5G/10G, 1G needs to be configured by pressing the SM button",
+"",
+"",
+"",
+"196",
+"1372"
+],
+[
+"STC-08XGE",
+"8*100M/1G/2.5G/5G/10G RJ45, AC input, Rack compatible",
+"",
+"",
+"",
+"175",
+"1225"
+],
+[
+"STC-80XGO",
+"8*1G/2.5G/10G SFP, DC12V2A, Desktop Type\nRemark: Fiber speed is auto-sensing, without extra configuration",
+"",
+"",
+"",
+"80",
+"560"
+],
+[
+"Commercial Unmanaged Switch(PoE Models)"
+],
+[
+"STC-114XGDGP",
+"1*1G/2.5G/10G SFP+1*100M/1G/2.5G RJ45 Uplink+4*100M/1G/2.5G PoE Downlink\nPoE af/at, 60W budget, Support PoE priority, AC input, Rack compatible\nRemark: Fiber speed is auto-sensing, without extra configuration",
+"",
+"",
+"",
+"43",
+"301"
+],
+[
+"STC-108XGDGP",
+"1*1G/2.5G/10G SFP+8*100M/1G/2.5G PoE Downlink\nPoE af/at, 100W budget, Support PoE priority, AC input, Rack compatible\nRemark: Fiber speed is auto-sensing, without extra configuration",
+"",
+"",
+"",
+"62",
+"434"
+],
+[
+"Commercial Web Managed Switch(Non-PoE Models)"
+],
+[
+"STC-80XGWO",
+"8*1G/2.5G/10G SFP Fiber ports, Without Ethernet port, Fanless, DC12V2A\nRemark: Fiber speed is auto-sensing, without extra configuration",
+"",
+"",
+"",
+"95",
+"665"
+],
+[
+"STC-120XGWO",
+"12*10G SFP Fiber ports, Without Ethernet port, With fan, AC100-240V, Rack compatible\nRemark: Fiber port does NOT support 1G or 2.5G speed",
+"",
+"",
+"",
+"145",
+"1015"
+],
+[
+"STC-05XGWE",
+"5*100M/1G/2.5G/5G/10G Ethernet ports, Without optical port, With fan, AC100-240V, Rack compatible",
+"",
+"",
+"",
+"135",
+"945"
+],
+[
+"STC-08XGWE",
+"8*100M/1G/2.5G/5G/10G Ethernet ports, Without optical port, With fan, AC100-240V, Rack compatible",
+"",
+"",
+"",
+"186",
+"1302"
+],
+[
+"STC-15XGDGWE",
+"1*10G Fiber port+5*100M/1G/2.5G Ethernet ports, Fanless, DC12V1A\nRemark: Fiber port does NOT support 1G or 2.5G speed",
+"",
+"",
+"",
+"43",
+"301"
+],
+[
+"STC-18XGDGWE",
+"1*10G Fiber port+8*100M/1G/2.5G Ethernet ports, Fanless, DC12V1A\nRemark: Fiber port does NOT support 1G or 2.5G speed",
+"",
+"",
+"",
+"55",
+"385"
+],
+[
+"STC-24XGDGWE",
+"2*1G/2.5G/10G SFP Fiber ports+4*100M/1G/2.5G Ethernet ports, Fanless, DC12V1A\nRemark: Fiber speed is auto-sensing, without extra configuration",
+"",
+"",
+"",
+"45",
+"315"
+],
+[
+"STC-224GWE",
+"2*1G Fiber ports+24*100M/1G Ethernet ports, Fanless, AC100-240V, Rack compatible",
+"",
+"",
+"",
+"60",
+"420"
+],
+[
+"STC-216XGDGWE",
+"2*2.5G/10G Fiber ports+16*100M/1G/2.5G Ethernet ports, Fanless, AC100-240V, Rack compatible\nRemark: Fiber speed is auto-sensing, without extra configuration, but it does NOT support 1G speed",
+"",
+"",
+"",
+"180",
+"1260"
+],
+[
+"STC-224XGDGWE",
+"2*2.5G/10G Fiber ports+24*100M/1G/2.5G Ethernet ports, Fanless, AC100-240V, Rack compatible\nRemark: Fiber speed is auto-sensing, without extra configuration, but it does NOT support 1G speed",
+"",
+"",
+"",
+"200",
+"1400"
+],
+[
+"STC-84XGWE",
+"4*1G/2.5G/10G SFP Fiber ports+8*100M/1G/2.5G/10G Ethernet ports, Fanless, DC12V3A\nRemark: Fiber speed is auto-sensing, without extra configuration",
+"",
+"",
+"",
+"200",
+"1400"
+],
+[
+"Commercial Web Managed Switch(PoE Models)"
+],
+[
+"STC-28GPW",
+"2*1G Fiber ports+8*100M/1G PoE ports, Fanless, AC100-240V, Rack compatible\nPoE af/at, 150W PoE budget, Internal 52V2.88A power converter",
+"",
+"",
+"",
+"43",
+"301"
+],
+[
+"STC-216GPW",
+"2*1G Fiber ports+16*100M/1G PoE ports, Fanless, AC100-240V, Rack compatible\nPoE af/at, 200W PoE budget, Internal 52V3.84A power converter",
+"",
+"",
+"",
+"90",
+"630"
+],
+[
+"STC-224GPW",
+"2*1G Fiber ports+24*100M/1G PoE ports, Fanless, AC100-240V, Rack compatible\nPoE af/at, 300W PoE budget, Internal 52V5.76A power converter",
+"",
+"",
+"",
+"100",
+"700"
+],
+[
+"STC-18XGDGPW",
+"1*1G/2.5G/10G Fiber port+8*100M/1G/2.5G PoE ports, Fanless, AC100-240V, Rack compatible\nPoE af/at, 100W PoE budget, Internal 52V1.92A power converter\nRemark: Fiber speed is auto-sensing, without extra configuration",
+"",
+"",
+"",
+"70",
+"490"
+],
+[
+"1. Prices are valid for 15 days"
+],
+[
+"2. Price term: EXW"
+],
+[
+"3. Warranty period: One year"
+],
+[
+"4. Lead time for less than 50pcs: 5~7 working days"
+],
+[
+"5. Customization is available"
+]
+]
+}
+},
+"extracted_at":"2026-10-23T05:05:47Z"
+}

@@ -1,0 +1,1143 @@
+{
+"id":"Extra_Info__STH__可编辑版本__DHCS交付文档.zip.unpacked__DHCS_DATASHEET_EN_V1.0.0.0.pptx__5871aa84",
+"path":"Extra_Info/STH/可编辑版本/DHCS交付文档.zip.unpacked/DHCS DATASHEET_EN_V1.0.0.0.pptx",
+"name":"DHCS DATASHEET_EN_V1.0.0.0.pptx",
+"ext":".pptx",
+"bytes":9496911,
+"sha256":"5871aa843f8f88db348249d1ccee78c93c60ee3b1ef70f3ef5eead5509933078",
+"source":"Extra_Info.zip",
+"method":"python-pptx",
+"status":"ok",
+"meta":{
+"slides":10,
+"pictures":4
+},
+"warnings":[
+"shape: Shape instance of unrecognized shape type",
+"shape: Shape instance of unrecognized shape type",
+"shape: Shape instance of unrecognized shape type"
+],
+"chars":7418,
+"text":"[slide 1]\nDHCS (DA HU CLOUD  SYSTEM)    DATASHEET\nOverview\nDHCS is an independently developed solution by HOHUNET, designed for enterprise networks, campus networks, and SMB network environments. It provides comprehensive management functionalities—from ZTP (Zero Touch Provisioning) deployment to device onboarding, device monitoring, remote configuration and maintenance, OTA upgrades, panel simulation, configuration rollback, and template-based configuration.\nkeywords\nSupport public cloud deployment and internal local area network deploymentAn unified Software Platform.\nSupport ZTP management and launch\nAutomatic topo discovery and drawing\nSimulation panel control and monitoring\nSupport both multi-organization mode and single-organization mode simultaneously\nVersion: V1.0\u000bRelease Date: 2025/12/31\nGraphical simulation panel\nDHCS adopts a graphical simulation panel for operation, providing customers with an unparalleled operational experience.\n\n[slide 2]\nAutomatic TOPO discovery and drawing\nDHCS automatically discovers network nodes based on the neighbor discovery protocol and automatically generates a network topology map.\nMulti-network domain management\nDHCS supports multi-domain network management and assigns different management permissions to different network domains.\n\n[slide 3]\nIntelligent POE Network Energy Management and Control\nSupport the energy planning function and provide programmable capabilities for the POE energy network.\nDHCS installation package and  image\nDHCS installation host technical requirements\nRelease List\nDHCS for Ubuntu install package（ubuntu 20.04.6 LTS  /22.04.5 LTS /24.04.3 LTS)\nDHCS for VM and ESXi image\nDHCS for Podman image\nItem\trequirements\tRemark\t\t\nOS\tubuntu 20.04.6 LTS\u000bubuntu 22.04.5 LTS\u000bubuntu 24.04.3 LTS\tServer version, kernel ≥ 4.14\n (check with uname -r)\t\t\nCPU\tX86  4 cores with 8 threads, and frequency is over 2.8 GHz\t\t\t\nMemory\t>=4GB\tBased on 2000  devices\t\t\nHD\t>=500G\tBased on 2000  devices\t\t\nNIC\t>=100M\tBased on 2000  devices\t\t\nBandwidth\t>=3M\tBased on 2000  devices\t\t\n\n[slide 4]\nDHCS Features List table\nTips for reading：  \u000b◯-support     X- nonsupport\nType\tFeature\t\tsupport\tRemark\nDeployment mode\tPublic cloud deployment\tProvide device management services based on the public network\t◯\t\n\tLocal Area Network Deployment\tProvide device management services based on the local area network\t◯\t\nOperating model\tMulti-organization operation\tMultiple enterprises/groups/organizations share a management platform with isolated permissions.\t◯\t\n\tSingle organization operation\tA single organization uses a single management platform.\t◯\t\nMulti-network management\tMultiple \"networks\" can be created, and independent management permissions can be configured for each.\t\t◯\t\nBasic device management\tGraphical simulation panel\t\t◯\t\n\tPort connection status monitoring\t\t◯\t\n\tCPU utilization monitoring\t\t◯\t\n\tMemory utilization monitoring\t\t◯\t\n\tFlash utilization monitoring\t\t◯\t\n\tFAN utilization monitoring\t\t◯\t\n\tPSU utilization monitoring\t\t◯\t\nOptic Transceivers status monitoring\tVendor information discovered\t\t◯\t\n\tModule type information display\t\t◯\t\n\tTemperature monitoring\t\t◯\t\n\tVoltage(V) monitoring\t\t◯\t\n\tCurrent(mA)  monitoring\t\t◯\t\n\tTx /RxPower(dBm) monitoring\t\t◯\t\nPort Schedule\tCustom port enable/disable plan\tDaily /Weekly/ Specified Date\t◯\t\n\t\tMultiple plans\t◯\t\n\t\tCustom port range\t◯\t\n\n[slide 5]\nType\tFeature\t\tsupport\tRemark\nPort traffic monitoring\tUpstream Traffic monitoring\t\t◯\t\n\tDownstream Traffic monitoring\t\t◯\t\n\tUpstream Packet Rate\t\t◯\t\n\tDownstream Packet Rate\t\t◯\t\nConfiguration Management\tShowRunningConfig\t\t◯\t\n\tShowStartupConfig\t\t◯\t\n\tOne-click Configuration Rollback\t\t◯\t\n\tConfigure the switch based on the reference template\t\t◯\t\nPOE Management\tPOE Config\tEnable / Disable PoE\t◯\t\n\t\tPriority adjustment\t◯\t\n\t\tAlarm Threshold Config\t◯\t\n\t\tSystem Reserved Power Config\t◯\t\n\tPOE Monitoring\tPort Power Status\t◯\t\n\t\tPort Current(mA)/Voltage(V)\t◯\t\n\t\tPort PSE  Chip Temperature(℃)\t◯\t\n\t\tPort Priority\t◯\t\n\t\tPort Actual Power(W)\t◯\t\n\t\tSystem PoE Total Power budget\t◯\t\n\t\tSystem Total Used / Available Power\t◯\t\nLog and Diagnosis\tObtain device logs\t\t◯\t\n\tObtain the device diagnostic report\t\t◯\t\nRemote Maintenance\tRemote WEB access based on tunneling technology\t\t◯\t\n\tRemote SSH access based on tunneling technology\t\t◯\t\n\tRemote TELNET  access based on tunneling technology\t\t◯\t\n\n[slide 6]\nType\tFeature\t\tsupport\tRemark\nNetwork Topo discovery and mapping\tTopo drawing\tAutomatic drawing based on the neighbor discovery protocol\t◯\t\n\t\tManual drawing and editing\t◯\t\n\tManually add  Client device\tComputer\t◯\t\n\t\tSwitch\t◯\t\n\t\tPrinter\t◯\t\n\t\tRouter\t◯\t\n\t\tServer\t◯\t\n\t\tCustom\t◯\t\n\t\tAP\t◯\t\n\tTopo detail function\tPort number and connection relationship\t◯\t\n\t\tAlarm indication bubble\t◯\t\n\t\tAdjust the topo direction\t◯\t\n\t\tZom in/out\t◯\t\n\t\tTopo  Download\t◯\t\n\tRegistration to DHCS\tUSB disk ZTP method\t◯\t\n\t\tDHDP Automatic discovery protocol\t◯\t\nDevice registration and binding\t\tManual CLI registration\t◯\t\n\t\tWEB GUI interface registration\t◯\t\n\tBind a device to a network\tBinding code binding\t◯\t\n\t\tNetwork number binding\t◯\t\n\n[slide 7]\nType\tFeature\t\tsupport\tRemark\nAlarm\tNetwork Alram\tLoop Detection Alarm\t◯\t\n\t\tCRC Error Alarm\t◯\t\n\t\tLink Aggregation Group Alarm\t◯\t\n\tOptical Alarm\tOptical Power Degradation Alarm\t◯\t\n\t\tTemperature Alarm\t◯\t\n\t\tVoltage Alarm\t◯\t\n\t\tCurrent Alarm\t◯\t\n\tResource Alarm\tCpu Usage Alarm\t◯\t\n\t\tMemory Usage Alarm\t◯\t\n\t\tStorage Usage Alarm\t◯\t\n\t\tCritical Port Failure\t◯\t\n\t\tTemperature Alarm\t◯\t\n\t\tFan Alarm (Speed 100%)\t◯\t\n\t\tFan Alarm (Speed 0%)\t◯\t\n\t\tFan Alarm (Fail)\t◯\t\n\t\tDownlink Traffic\t◯\t\n\t\tUplink Traffic\t◯\t\n\t\tPOE Power Alarm (Threshold)\t◯\t\n\t\tPOE Power Alarm (Reserved)\t◯\t\n\tReboot Alarm\tManual Reboot\t◯\t\n\t\tPower Off Reboot\t◯\t\n\t\tOver Temperature Reboot\t◯\t\n\tAlarm message notification\tTop  bubble\t◯\t\n\t\tE-Mail\t◯\t\n\t\tMobile phone  message service\t◯\t\n\t\tWeChat\t◯\t\n\t\tCustomized other message channels\t◯\t\n\n[slide 8]\nType\tFeature\t\tSupport\tRemark\nOTA upgrade\tUpgrade package file management\t\t◯\t\n\tScheduled upgrade package delivery\t\t◯\t\n\tScheduled restart function (reducing the impact of network interruptions on business operations)\t\t◯\t\nConfiguration Template Management\tConfiguration template addition, edit, download, and deletion\t\t◯\t\nZTP template\tAutomatically generate ZTP templates\t\t◯\t\nSystem setting\tDHCS Host machine monitoring\tCPU/Memory/Disk/TCP Connection Status/System /Network Traffic\t◯\t\n\tPlatform Setting\tPlatform Owner Setting\t◯\t\n\t\tcloud service domain name or ip address Setting\t◯\t\n\t\tDefault Language Setting\t◯\t\n\t\tSystem Display Name Setting\t◯\t\n\t\tCopyright information Setting\t◯\t\n\t\tPrivacy Policy Setting\t◯\t\n\t\tUser Agreement Setting\t◯\t\n\t\tService Agreement Setting\t◯\t\n\t\tLogin Page Logo Setting\t◯\t\n\t\tBrowser Icon Setting\t◯\t\n\t\tTop-left Logo Setting\t◯\t\n\t\tSMTP  Server and ID Setting\t◯\t\n\t\tWeChat Setting\t◯\t\n\tOperate Log\tAutomatically record all user operation logs\t◯\t\n\tEmail Template\tCustomize Email Notification Message Template\t◯\t\nLicense\tPurchase license files flexibly based on the size of the network.\t\t◯\t\nAccount, Role, Authorization\tAccount\tAccount addition / edit / lock / deletion\t◯\t\n\tRole\tCustomized roles and role permissions\t◯\t\n\tAuthorization\tGranting authorization to accounts based on role definitions\t◯\t\n\n[slide 9]\nDHCS Order List\t\nDHCS V1.0\tDHCS Software V1.0 ，Includes 5 free nodes\nDHCS license 50\tDHCS 50-node license, with multiple licenses that can be cumulatively added.\nDHCS license 100\tDHCS 100-node license, with multiple licenses that can be cumulatively added.\n\n[slide 10]\n",
+"slides":[
+{
+"n":1,
+"items":[
+{
+"t":"p",
+"text":"DHCS (DA HU CLOUD  SYSTEM)    DATASHEET"
+},
+{
+"t":"p",
+"text":"Overview"
+},
+{
+"t":"p",
+"text":"DHCS is an independently developed solution by HOHUNET, designed for enterprise networks, campus networks, and SMB network environments. It provides comprehensive management functionalities—from ZTP (Zero Touch Provisioning) deployment to device onboarding, device monitoring, remote configuration and maintenance, OTA upgrades, panel simulation, configuration rollback, and template-based configuration."
+},
+{
+"t":"p",
+"text":"keywords"
+},
+{
+"t":"p",
+"text":"Support public cloud deployment and internal local area network deploymentAn unified Software Platform.\nSupport ZTP management and launch\nAutomatic topo discovery and drawing\nSimulation panel control and monitoring\nSupport both multi-organization mode and single-organization mode simultaneously"
+},
+{
+"t":"p",
+"text":"Version: V1.0\u000bRelease Date: 2025/12/31"
+},
+{
+"t":"p",
+"text":"Graphical simulation panel"
+},
+{
+"t":"p",
+"text":"DHCS adopts a graphical simulation panel for operation, providing customers with an unparalleled operational experience."
+},
+{
+"t":"picture",
+"name":"图片 13"
+}
+],
+"notes":""
+},
+{
+"n":2,
+"items":[
+{
+"t":"p",
+"text":"Automatic TOPO discovery and drawing"
+},
+{
+"t":"p",
+"text":"DHCS automatically discovers network nodes based on the neighbor discovery protocol and automatically generates a network topology map."
+},
+{
+"t":"picture",
+"name":"图片 3"
+},
+{
+"t":"p",
+"text":"Multi-network domain management"
+},
+{
+"t":"picture",
+"name":"图片 4"
+},
+{
+"t":"p",
+"text":"DHCS supports multi-domain network management and assigns different management permissions to different network domains."
+}
+],
+"notes":""
+},
+{
+"n":3,
+"items":[
+{
+"t":"p",
+"text":"Intelligent POE Network Energy Management and Control"
+},
+{
+"t":"p",
+"text":"Support the energy planning function and provide programmable capabilities for the POE energy network."
+},
+{
+"t":"picture",
+"name":"图片 2"
+},
+{
+"t":"table",
+"rows":[
+[
+"Release List"
+],
+[
+"DHCS for Ubuntu install package（ubuntu 20.04.6 LTS  /22.04.5 LTS /24.04.3 LTS)"
+],
+[
+"DHCS for VM and ESXi image"
+],
+[
+"DHCS for Podman image"
+]
+]
+},
+{
+"t":"p",
+"text":"DHCS installation package and  image"
+},
+{
+"t":"p",
+"text":"DHCS installation host technical requirements"
+},
+{
+"t":"table",
+"rows":[
+[
+"Item",
+"requirements",
+"Remark",
+"",
+""
+],
+[
+"OS",
+"ubuntu 20.04.6 LTS\u000bubuntu 22.04.5 LTS\u000bubuntu 24.04.3 LTS",
+"Server version, kernel ≥ 4.14\n (check with uname -r)",
+"",
+""
+],
+[
+"CPU",
+"X86  4 cores with 8 threads, and frequency is over 2.8 GHz",
+"",
+"",
+""
+],
+[
+"Memory",
+">=4GB",
+"Based on 2000  devices",
+"",
+""
+],
+[
+"HD",
+">=500G",
+"Based on 2000  devices",
+"",
+""
+],
+[
+"NIC",
+">=100M",
+"Based on 2000  devices",
+"",
+""
+],
+[
+"Bandwidth",
+">=3M",
+"Based on 2000  devices",
+"",
+""
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":4,
+"items":[
+{
+"t":"p",
+"text":"DHCS Features List table"
+},
+{
+"t":"p",
+"text":"Tips for reading：  \u000b◯-support     X- nonsupport"
+},
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Feature",
+"",
+"support",
+"Remark"
+],
+[
+"Deployment mode",
+"Public cloud deployment",
+"Provide device management services based on the public network",
+"◯",
+""
+],
+[
+"",
+"Local Area Network Deployment",
+"Provide device management services based on the local area network",
+"◯",
+""
+],
+[
+"Operating model",
+"Multi-organization operation",
+"Multiple enterprises/groups/organizations share a management platform with isolated permissions.",
+"◯",
+""
+],
+[
+"",
+"Single organization operation",
+"A single organization uses a single management platform.",
+"◯",
+""
+],
+[
+"Multi-network management",
+"Multiple \"networks\" can be created, and independent management permissions can be configured for each.",
+"",
+"◯",
+""
+],
+[
+"Basic device management",
+"Graphical simulation panel",
+"",
+"◯",
+""
+],
+[
+"",
+"Port connection status monitoring",
+"",
+"◯",
+""
+],
+[
+"",
+"CPU utilization monitoring",
+"",
+"◯",
+""
+],
+[
+"",
+"Memory utilization monitoring",
+"",
+"◯",
+""
+],
+[
+"",
+"Flash utilization monitoring",
+"",
+"◯",
+""
+],
+[
+"",
+"FAN utilization monitoring",
+"",
+"◯",
+""
+],
+[
+"",
+"PSU utilization monitoring",
+"",
+"◯",
+""
+],
+[
+"Optic Transceivers status monitoring",
+"Vendor information discovered",
+"",
+"◯",
+""
+],
+[
+"",
+"Module type information display",
+"",
+"◯",
+""
+],
+[
+"",
+"Temperature monitoring",
+"",
+"◯",
+""
+],
+[
+"",
+"Voltage(V) monitoring",
+"",
+"◯",
+""
+],
+[
+"",
+"Current(mA)  monitoring",
+"",
+"◯",
+""
+],
+[
+"",
+"Tx /RxPower(dBm) monitoring",
+"",
+"◯",
+""
+],
+[
+"Port Schedule",
+"Custom port enable/disable plan",
+"Daily /Weekly/ Specified Date",
+"◯",
+""
+],
+[
+"",
+"",
+"Multiple plans",
+"◯",
+""
+],
+[
+"",
+"",
+"Custom port range",
+"◯",
+""
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":5,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Feature",
+"",
+"support",
+"Remark"
+],
+[
+"Port traffic monitoring",
+"Upstream Traffic monitoring",
+"",
+"◯",
+""
+],
+[
+"",
+"Downstream Traffic monitoring",
+"",
+"◯",
+""
+],
+[
+"",
+"Upstream Packet Rate",
+"",
+"◯",
+""
+],
+[
+"",
+"Downstream Packet Rate",
+"",
+"◯",
+""
+],
+[
+"Configuration Management",
+"ShowRunningConfig",
+"",
+"◯",
+""
+],
+[
+"",
+"ShowStartupConfig",
+"",
+"◯",
+""
+],
+[
+"",
+"One-click Configuration Rollback",
+"",
+"◯",
+""
+],
+[
+"",
+"Configure the switch based on the reference template",
+"",
+"◯",
+""
+],
+[
+"POE Management",
+"POE Config",
+"Enable / Disable PoE",
+"◯",
+""
+],
+[
+"",
+"",
+"Priority adjustment",
+"◯",
+""
+],
+[
+"",
+"",
+"Alarm Threshold Config",
+"◯",
+""
+],
+[
+"",
+"",
+"System Reserved Power Config",
+"◯",
+""
+],
+[
+"",
+"POE Monitoring",
+"Port Power Status",
+"◯",
+""
+],
+[
+"",
+"",
+"Port Current(mA)/Voltage(V)",
+"◯",
+""
+],
+[
+"",
+"",
+"Port PSE  Chip Temperature(℃)",
+"◯",
+""
+],
+[
+"",
+"",
+"Port Priority",
+"◯",
+""
+],
+[
+"",
+"",
+"Port Actual Power(W)",
+"◯",
+""
+],
+[
+"",
+"",
+"System PoE Total Power budget",
+"◯",
+""
+],
+[
+"",
+"",
+"System Total Used / Available Power",
+"◯",
+""
+],
+[
+"Log and Diagnosis",
+"Obtain device logs",
+"",
+"◯",
+""
+],
+[
+"",
+"Obtain the device diagnostic report",
+"",
+"◯",
+""
+],
+[
+"Remote Maintenance",
+"Remote WEB access based on tunneling technology",
+"",
+"◯",
+""
+],
+[
+"",
+"Remote SSH access based on tunneling technology",
+"",
+"◯",
+""
+],
+[
+"",
+"Remote TELNET  access based on tunneling technology",
+"",
+"◯",
+""
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":6,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Feature",
+"",
+"support",
+"Remark"
+],
+[
+"Network Topo discovery and mapping",
+"Topo drawing",
+"Automatic drawing based on the neighbor discovery protocol",
+"◯",
+""
+],
+[
+"",
+"",
+"Manual drawing and editing",
+"◯",
+""
+],
+[
+"",
+"Manually add  Client device",
+"Computer",
+"◯",
+""
+],
+[
+"",
+"",
+"Switch",
+"◯",
+""
+],
+[
+"",
+"",
+"Printer",
+"◯",
+""
+],
+[
+"",
+"",
+"Router",
+"◯",
+""
+],
+[
+"",
+"",
+"Server",
+"◯",
+""
+],
+[
+"",
+"",
+"Custom",
+"◯",
+""
+],
+[
+"",
+"",
+"AP",
+"◯",
+""
+],
+[
+"",
+"Topo detail function",
+"Port number and connection relationship",
+"◯",
+""
+],
+[
+"",
+"",
+"Alarm indication bubble",
+"◯",
+""
+],
+[
+"",
+"",
+"Adjust the topo direction",
+"◯",
+""
+],
+[
+"",
+"",
+"Zom in/out",
+"◯",
+""
+],
+[
+"",
+"",
+"Topo  Download",
+"◯",
+""
+],
+[
+"",
+"Registration to DHCS",
+"USB disk ZTP method",
+"◯",
+""
+],
+[
+"",
+"",
+"DHDP Automatic discovery protocol",
+"◯",
+""
+],
+[
+"Device registration and binding",
+"",
+"Manual CLI registration",
+"◯",
+""
+],
+[
+"",
+"",
+"WEB GUI interface registration",
+"◯",
+""
+],
+[
+"",
+"Bind a device to a network",
+"Binding code binding",
+"◯",
+""
+],
+[
+"",
+"",
+"Network number binding",
+"◯",
+""
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":7,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Feature",
+"",
+"support",
+"Remark"
+],
+[
+"Alarm",
+"Network Alram",
+"Loop Detection Alarm",
+"◯",
+""
+],
+[
+"",
+"",
+"CRC Error Alarm",
+"◯",
+""
+],
+[
+"",
+"",
+"Link Aggregation Group Alarm",
+"◯",
+""
+],
+[
+"",
+"Optical Alarm",
+"Optical Power Degradation Alarm",
+"◯",
+""
+],
+[
+"",
+"",
+"Temperature Alarm",
+"◯",
+""
+],
+[
+"",
+"",
+"Voltage Alarm",
+"◯",
+""
+],
+[
+"",
+"",
+"Current Alarm",
+"◯",
+""
+],
+[
+"",
+"Resource Alarm",
+"Cpu Usage Alarm",
+"◯",
+""
+],
+[
+"",
+"",
+"Memory Usage Alarm",
+"◯",
+""
+],
+[
+"",
+"",
+"Storage Usage Alarm",
+"◯",
+""
+],
+[
+"",
+"",
+"Critical Port Failure",
+"◯",
+""
+],
+[
+"",
+"",
+"Temperature Alarm",
+"◯",
+""
+],
+[
+"",
+"",
+"Fan Alarm (Speed 100%)",
+"◯",
+""
+],
+[
+"",
+"",
+"Fan Alarm (Speed 0%)",
+"◯",
+""
+],
+[
+"",
+"",
+"Fan Alarm (Fail)",
+"◯",
+""
+],
+[
+"",
+"",
+"Downlink Traffic",
+"◯",
+""
+],
+[
+"",
+"",
+"Uplink Traffic",
+"◯",
+""
+],
+[
+"",
+"",
+"POE Power Alarm (Threshold)",
+"◯",
+""
+],
+[
+"",
+"",
+"POE Power Alarm (Reserved)",
+"◯",
+""
+],
+[
+"",
+"Reboot Alarm",
+"Manual Reboot",
+"◯",
+""
+],
+[
+"",
+"",
+"Power Off Reboot",
+"◯",
+""
+],
+[
+"",
+"",
+"Over Temperature Reboot",
+"◯",
+""
+],
+[
+"",
+"Alarm message notification",
+"Top  bubble",
+"◯",
+""
+],
+[
+"",
+"",
+"E-Mail",
+"◯",
+""
+],
+[
+"",
+"",
+"Mobile phone  message service",
+"◯",
+""
+],
+[
+"",
+"",
+"WeChat",
+"◯",
+""
+],
+[
+"",
+"",
+"Customized other message channels",
+"◯",
+""
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":8,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Feature",
+"",
+"Support",
+"Remark"
+],
+[
+"OTA upgrade",
+"Upgrade package file management",
+"",
+"◯",
+""
+],
+[
+"",
+"Scheduled upgrade package delivery",
+"",
+"◯",
+""
+],
+[
+"",
+"Scheduled restart function (reducing the impact of network interruptions on business operations)",
+"",
+"◯",
+""
+],
+[
+"Configuration Template Management",
+"Configuration template addition, edit, download, and deletion",
+"",
+"◯",
+""
+],
+[
+"ZTP template",
+"Automatically generate ZTP templates",
+"",
+"◯",
+""
+],
+[
+"System setting",
+"DHCS Host machine monitoring",
+"CPU/Memory/Disk/TCP Connection Status/System /Network Traffic",
+"◯",
+""
+],
+[
+"",
+"Platform Setting",
+"Platform Owner Setting",
+"◯",
+""
+],
+[
+"",
+"",
+"cloud service domain name or ip address Setting",
+"◯",
+""
+],
+[
+"",
+"",
+"Default Language Setting",
+"◯",
+""
+],
+[
+"",
+"",
+"System Display Name Setting",
+"◯",
+""
+],
+[
+"",
+"",
+"Copyright information Setting",
+"◯",
+""
+],
+[
+"",
+"",
+"Privacy Policy Setting",
+"◯",
+""
+],
+[
+"",
+"",
+"User Agreement Setting",
+"◯",
+""
+],
+[
+"",
+"",
+"Service Agreement Setting",
+"◯",
+""
+],
+[
+"",
+"",
+"Login Page Logo Setting",
+"◯",
+""
+],
+[
+"",
+"",
+"Browser Icon Setting",
+"◯",
+""
+],
+[
+"",
+"",
+"Top-left Logo Setting",
+"◯",
+""
+],
+[
+"",
+"",
+"SMTP  Server and ID Setting",
+"◯",
+""
+],
+[
+"",
+"",
+"WeChat Setting",
+"◯",
+""
+],
+[
+"",
+"Operate Log",
+"Automatically record all user operation logs",
+"◯",
+""
+],
+[
+"",
+"Email Template",
+"Customize Email Notification Message Template",
+"◯",
+""
+],
+[
+"License",
+"Purchase license files flexibly based on the size of the network.",
+"",
+"◯",
+""
+],
+[
+"Account, Role, Authorization",
+"Account",
+"Account addition / edit / lock / deletion",
+"◯",
+""
+],
+[
+"",
+"Role",
+"Customized roles and role permissions",
+"◯",
+""
+],
+[
+"",
+"Authorization",
+"Granting authorization to accounts based on role definitions",
+"◯",
+""
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":9,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"DHCS Order List",
+""
+],
+[
+"DHCS V1.0",
+"DHCS Software V1.0 ，Includes 5 free nodes"
+],
+[
+"DHCS license 50",
+"DHCS 50-node license, with multiple licenses that can be cumulatively added."
+],
+[
+"DHCS license 100",
+"DHCS 100-node license, with multiple licenses that can be cumulatively added."
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":10,
+"items":[],
+"notes":""
+}
+],
+"extracted_at":"2026-10-23T05:04:29Z"
+}

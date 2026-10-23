@@ -1,0 +1,16 @@
+{
+"id":"Extra_Info__Saga_SEO__Saga_3_Platform_Audit_2026-08-18__README.md__a546ef58",
+"path":"Extra_Info/Saga SEO/Saga_3_Platform_Audit_2026-08-18/README.md",
+"name":"README.md",
+"ext":".md",
+"bytes":2571,
+"sha256":"a546ef58209a3ba13f2b48cf7d5269278510ffa8fea8f5e4c81995f8774bf75f",
+"source":"Extra_Info.zip",
+"method":"text",
+"status":"ok",
+"meta":{},
+"warnings":[],
+"chars":1601,
+"text":"# Zhengzhou Saga Telecom：FindLight、EC21、Made-in-China 独立审核包\n\n审核日期：2026-08-18\n\n## 重要原则\n\n三个平台分别抓取、分别判断、分别生成结论。一个平台出现的链接、型号或问题，**不会作为另一个平台的通过证据**。\n\n“可点击”只在对应产品描述中存在真实超链接时通过；仅有纯文本网址、公司主页链接或其他平台链接都不能代替产品描述的 `<a href>`。\n\n本次只审核公开网页，不审核 PDF。Made-in-China 会员中心需要登录，因此后台产品状态不在公开页面结论内。\n\n## 文件结构\n\n### `01_FindLight/`\n\n- `findlight_products_link_audit.csv`：10 个公开产品逐项审核\n- `findlight_conclusion.md`：FindLight 独立结论\n- `findlight_audit_evidence.json`：结构化审核证据\n\nFindLight 结论：\n\n- 10 个产品：STI 5、STH 5\n- 产品描述官网文字：0/10\n- 产品描述可点击官网链接：0/10\n- 公司主页单独存在一个可点击的 `sagatele.com` 链接\n- 7/10 产品存在明显的旧 URL slug 与当前标题不一致\n\n### `02_EC21/`\n\n- `ec21_products_link_audit.csv`：15 个公开产品逐项审核\n- `ec21_conclusion.md`：EC21 独立结论\n- `ec21_audit_evidence.json`：结构化审核证据\n\nEC21 结论：\n\n- 15 个公开产品，均归入 EC21 的 Industrial Ethernet Switch 类目\n- 产品描述官网文字：0/15\n- 产品描述可点击官网链接：0/15\n- 店铺主页官网链接：无\n- 12/15 产品页面没有公开 STI/STC/STH 型号代码\n\n### `03_Made_in_China/`\n\n- `made_in_china_products_link_audit.csv`：20 个公开产品逐项审核\n- `made_in_china_conclusion.md`：Made-in-China 独立结论\n- `made_in_china_audit_evidence.json`：结构化审核证据\n\nMade-in-China 结论：\n\n- 20 个公开产品：STI 12、STC 8、STH 0\n- 产品描述官网文字：0/20\n- 产品描述可点击官网链接：0/20\n- 公开公司主页官网链接：无\n- 6 个 10G 标题与 Transmission Rate 属性不一致\n- 2 个产品的标题端口数与 Ports 属性不一致\n- 会员中心需要登录，本报告不将后台页面当作公开证据\n\n## CSV 关键字段\n\n- `series`、`series_evidence`、`series_confidence`\n- `model_number`\n- `product_name`、`price`、`moq`、`product_link`\n- `description_url_text_found`\n- `clickable_anchor_found`\n- `anchor_text`、`anchor_href`\n- `verification_status`、`audit_confidence`\n- `issues_found`\n- `optimization_recommendations`\n\n## 目标链接状态\n\n建议添加的官网目标为 <https://sagatele.com/>；审核日返回 HTTP 200。\n",
+"extracted_at":"2026-10-23T05:02:37Z"
+}

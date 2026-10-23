@@ -1,0 +1,657 @@
+{
+"id":"Extra_Info__Saga_SEO__CN_Site__产品描述.docx__61b139ba",
+"path":"Extra_Info/Saga SEO/CN Site/产品描述.docx",
+"name":"产品描述.docx",
+"ext":".docx",
+"bytes":34302,
+"sha256":"61b139bab27219a0b2cda592ab384cd0b4b5f3ffd2d6038f6e647c03c75dccad",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2026-08-07T13:00:00+00:00",
+"modified":"2026-08-21T14:31:57+00:00",
+"paragraphs":126,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"chars":14615,
+"text":"第1个产品\nhttps://www.smartbyte-switch.com/8-10-100-1000Base-T-2-1G-2-5GBase-X-SFP-L2-Managed-Industrial-PoE-Switch-with-DI-DO-RS485-PG12131031\n强调DI DO RS485  1G/2.5G 光口  8个PoE   L2+功能\nSaga的型号是\nSTI-288DGGPM\n8-port Gigabit L2+ managed industrial PoE switch with 2× 1G/2.5G SFP uplinks, integrated DI/DO/RS485 I/O channels, and 240W total PoE budget.\n1. DI/DO/RS485 Integration for Industrial I/O and Serial Device Connectivity\nNative DI/DO/RS485 interface via removable 8-pin terminal block, eliminating the need for an external serial gateway\n1-channel digital input (12V–30V) and 1-channel digital output (normally open/closed/pulse, 2A@30VDC) enable direct alarm triggering, relay control, and event-driven automation\nRS485 serial server supports Modbus RTU transparent transmission over TCP/IP, seamlessly connecting legacy PLCs, RTUs, meters, and field sensors to modern IP networks\nDedicated RS485 LED indicator provides real-time TX/RX status visibility for instant serial link diagnostics\n2. Dual 1G/2.5G SFP Uplinks for Cost-Effective Fiber Aggregation\nTwo multi-rate SFP slots support 1GBase-X and 2.5GBase-X, providing flexible fiber uplink options for medium-distance or EMI-sensitive environments where copper is unsuitable\nDual-rate flexibility allows the same hardware to adapt to both existing 1G fiber infrastructure and emerging 2.5G backbone upgrades without device replacement\nSFP DDM (Digital Diagnostic Monitoring) enables real-time optical transceiver health monitoring for proactive maintenance in unmanned field deployments\nG.8032 ERPS ring protection across SFP uplinks delivers ≤20ms automatic failover, ensuring continuous operation in redundant fiber ring topologies\n3. 8-Port PoE+ with Intelligent Power Management and Full L2+ Feature Set\nAll 8 RJ45 ports support IEEE 802.3af/at PoE+, delivering up to 30W per port with a 240W total power budget for cameras, APs, VoIP phones, and industrial sensors\nPer-port PoE priority, power scheduling, PD watchdog, and alarm threshold configuration ensure reliable power delivery and remote PD fault recovery without on-site intervention\nComprehensive L2+ management: VLAN/QinQ, IGMP v1/v2/v3, ACL, 8-queue QoS (SP/WRR), 802.1X, DHCP server/relay, SNMP v2c/v3, MQTT, sFlow, plus IPv4/IPv6 static routing\nHardened industrial design with IP40 fanless housing, Din-rail mounting, -40°C to +75°C operating range, 6KV surge protection, and redundant 44–57VDC power input\nApplication: IP surveillance networks, industrial automation edge nodes, smart transportation cabinets, oil & gas remote sites, utility substations, and any deployment requiring serial legacy device integration with fiber uplink redundancy in a compact DIN-rail form factor.\n第2个产品\nhttps://www.smartbyte-switch.com/24-10-100-1000Base-T-4-1G-2-5G-10GBase-X-SFP-L3-Managed-Industrial-Ethernet-Switch-with-Temp-humidit\n强调L3功能 \t\t24个网口 10G光  导轨式安装以及Temp-humidity Sensor\nSaga的型号是\nSTI-4240XGGM\n24-port Gigabit L3 managed industrial switch with 4× 1G/2.5G/10G SFP+ uplinks, integrated temperature-humidity sensor interface, Din-rail installation, and full dynamic routing protocol support.\n1. Advanced L3 Routing with Full Dynamic Protocol Suite\nTrue Layer 3 managed operation with 13K routing entries and 128Gbps switching capacity, purpose-built for complex multi-subnet industrial network architectures\nSupports OSPF v2, BGP4, IS-IS, and RIPv1/v2 for adaptive route convergence across large-scale topologies, plus ECMP for intelligent load distribution across redundant uplinks\nVRRP (Virtual Router Redundancy Protocol) provides seamless gateway failover without any manual intervention, keeping critical industrial processes uninterrupted\nIPv4/IPv6 dual-stack with static and dynamic routing, DHCP server/relay, and policy-based routing offer a future-proof foundation for converged OT/IT network designs\n2. Integrated Temperature-Humidity Sensor with Automatic Alarm Triggering\nRS485 port natively interfaces with an external temperature-humidity sensor via the removable 8-pin terminal block, collecting real-time cabinet or room-level environmental data without any additional gateway\nDI channel (12V–30V input) and DO channel (normally open/closed/pulse, 2A@30VDC) work in tandem with sensor readings to trigger physical relay alarms or automated shutdown signals when thresholds are exceeded\nSNMP, MQTT, and RMON alarm support push environmental alert notifications to upstream monitoring platforms and SCADA systems in real time\nCritical for enclosed industrial control cabinets, substations, tunnels, and data rooms where thermal or humidity excursions can damage equipment or invalidate compliance requirements\n3. 4× 10G SFP+ Uplinks with Din-Rail Hardened Design for High-Density Field Deployment\nFour multi-rate SFP+ slots support 1G/2.5G/10GBase-X, enabling flexible long-distance fiber uplinks to aggregate 24 downstream Gigabit access ports without creating a bottleneck\n190.4Mpps forwarding rate with sub-5µs forwarding delay ensures deterministic throughput for time-sensitive industrial protocols across all 28 ports simultaneously\nCompact Din-rail form factor (110×115×158mm, 2.0kg) with IP40 fanless housing installs directly in standard control cabinets alongside PLCs, RTUs, and power distribution equipment\nWide 12–75VDC redundant power input, -40°C to +75°C operating range, 6KV surge protection, and G.8032 ERPS ring recovery ≤20ms deliver the resilience demanded by unmanned field sites\nApplication: Power grid SCADA and substation automation, oil & gas pipeline monitoring, railway trackside cabinets, chemical processing plants, smart factory backbone aggregation, and any industrial deployment requiring L3 routing with built-in environmental compliance monitoring in a DIN-rail form factor.\n第3个产品\nhttps://www.smartbyte-switch.com/48-10-100-1000Base-T-4-1G-2-5G-10G-SFP-Layer-2-Managed-PoE-Switch-PG12146200\n强调48个PoE且 4个BT口   740W PoE budget\n10G光上联口  L2管理功能\n1U机架式和双AC输入\nSaga的型号是\nSTC-448XGGPM-4BT-740W\n48-port Gigabit L2+ managed PoE++ switch with 4× 1G/2.5G/10G SFP+ uplinks, 4-port IEEE 802.3bt PoE++ at 90W per port, 740W total PoE budget, 1U rack-mount form factor, and optional redundant dual AC input.\n1. 48-Port High-Density PoE++ with 740W Budget and 4-Port 90W BT Capability\nAll 48 RJ45 ports comply with IEEE 802.3af/at/bt full PoE standards; ports 1–4 deliver up to 90W per port (IEEE 802.3bt) for high-power devices such as PTZ cameras, Wi-Fi 6E APs, and video conferencing terminals\nRemaining 44 ports support standard PoE (15.4W) and PoE+ (30W), with a 740W total PoE budget enabling full-density deployment without external power injectors\nPer-port PoE priority management, power scheduling, PD watchdog, alarm threshold configuration, over-current protection, and legacy PoE mode ensure intelligent, safe, and uninterrupted power delivery across all 48 endpoints\nBuilt-in hardware watchdog and dual-partition firmware management guarantee automatic recovery from device or firmware faults in unmanned deployments\n2. 4× 10G SFP+ Uplinks for High-Bandwidth Aggregation with ERPS Ring Protection\nFour multi-rate SFP+ slots support 1G/2.5G/10GBase-X, providing flexible fiber uplink options to aggregate 48 downstream Gigabit PoE ports without creating a bottleneck at 336Gbps switching capacity and 499.9Mpps forwarding rate\nSub-5µs forwarding delay ensures deterministic throughput for latency-sensitive applications including HD video surveillance, VoIP, and real-time multicast streams\nG.8032 ERPS ring protection with ≤20ms automatic failover eliminates single points of failure in redundant fiber ring architectures, covering both major rings and sub-rings with no limit on connected devices\nSFP DDM (Digital Diagnostic Monitoring) provides real-time optical transceiver health data for proactive fault detection and preventive maintenance\n3. Rich L2+ Feature Set with Enterprise-Grade Security and Dual AC Redundant Power\nComprehensive L2+ management: IEEE 802.1Q VLAN/QinQ (port/VLAN/flow-based), IGMP v1/v2/v3 with PIM-SM multicast, 8-queue QoS (SP/WRR), GVRP, LLDP, SPAN/RSPAN, DHCP snooping, and IPv4/IPv6 static routing with 4K routing prefix table\nMulti-layered security covering ACL (IP/MAC/IPv6/time-range), 802.1X port authentication, IP source guard, DAI, anti-gateway ARP spoofing, DDoS protection, and AAA via RADIUS/TACACS, hardening the network against both internal and external threats\nFull management stack: Web GUI (HTTP/HTTPS), CLI (Console/Telnet/SSH), SNMP v2c/v3, MQTT, sFlow, RMON, NTP, dual-partition firmware, and one-click fault information collection simplify large-scale deployment and ongoing maintenance\nOptional redundant dual AC 100–240V input (available as LT-S8352XGP-4XS48GT-4BT-2AC850) provides power supply failover for zero-downtime operation in mission-critical network closets and data centers; standard 1U 440×300×45mm rack-mount chassis fits any 19-inch cabinet\nApplication: High-density IP surveillance systems, enterprise Wi-Fi 6/6E campus networks, hotel and smart building unified communication, data center access layer, education and healthcare LAN, and any deployment requiring high-port-count PoE++ with 10G fiber uplinks and power supply redundancy in a 1U rack form factor.\n第4个产品\nhttps://www.smartbyte-switch.com/48-100-1000M-SFP-4-1G-2-5G-10G-SFP-Layer-3-Managed-Full-Fiber-Switch-PG12130193\n强调L3功能   全光口  双AC输入\t 支持Console口以及USB口管理\nSaga的型号是\nSTC-448XGGMO\nport fiber Layer 3 managed switch with 13K dynamic routing entries, dual AC power, and USB/Console management.\n1. Layer 3 Dynamic Routing — Enterprise-Grade Intelligence with 13K Routing Entries\nFull IPv4/IPv6 static and dynamic routing with ECMP (Equal-Cost Multi-Path) for load balancing\nSupports OSPF, BGP4, RIP, IS-IS — enables complex network topologies and automatic failover\nVRRP for virtual router redundancy; DHCP server/relay/client for flexible IP management\n336 Gbps switching capacity + 499.9 Mpps forwarding rate — scales from branch to campus backhaul\n2. All-Fiber Port Architecture — Future-Proof, Noise-Free Deployment\n48× 100/1000M SFP downlinks + 4× 1G/2.5G/10G SFP+ uplinks — full optical fabric\nNo copper RJ45 ports = zero EMI/EMC noise in electrically harsh environments\nHot-swappable SFP/SFP+ transceivers — mix single-mode, multi-mode, and rates on demand\nIdeal for telecom backbone, outdoor fiber runs, and noise-sensitive industrial sites\n3. Redundant Dual AC Power (100-240V) + USB + Console Management\nTwo independent AC inputs switch seamlessly on mains loss — enterprise-grade power continuity\nConsole port (RJ45) + USB 2.0 for local configuration, firmware upgrade, and emergency recovery\nWeb management, CLI, Telnet/SSH, SNMP, MQTT support — remote or hands-on administration\nDual partition firmware — in-service OS upgrade without downtime\nApplication: Telecom backbone aggregation, dark-fiber WAN links, campus core networks, noise-sensitive industrial backhaul, carrier-grade carrier deployments.\n第5个产品\nhttps://hohunet.com/product/s8532-ei-data-center-switch-data-center-computing-ai/\n强调400G口32口（提一下64口也可以做）  强大的功能如MPLS VXLAN等  硬件设计如热插拔电源和风扇等\nSaga的型号是\nSTH-32QC-HSI\n32×400G data center switch with MPLS/VXLAN/EVPN, dual hot-swap power, intelligent fan control for hyperscale AI/HPC.\n1. Ultra-High-Density 400G Architecture — 32 Ports (Scalable to 64×400G)\n32× QSFP112 400G ports delivering 25.6 Tbps bidirectional switching capacity\n38.09 Gpps Layer 2/3 throughput — ideal for AI/ML clusters, HPC, and hyperscale data centers\nExpandable to 64×400G models for mega-scale topologies without re-architecture\nCompact 1U form factor maximizes rack efficiency in high-density deployments\n2. Enterprise-Grade L3 Overlay & Metro Features — MPLS, VXLAN, EVPN, BGP\nFull MPLS suite: LDP, L2VPN/VPWS/VPLS, L3VPN — unified transport for enterprise and carrier workloads\nVXLAN with distributed gateway, EVPN, BGP for multi-tenant cloud DC overlays and cross-datacenter interconnect\nMACsec (802.1AE) encryption, PFC/ECN/DCBX for lossless Ethernet in storage and HPC networks\nIPv6, OSPF, IS-IS, BFD, VRRP, MLAG for robust converged infrastructure\n3. Mission-Critical Reliability — Dual Hot-Swap Power, 6× Smart Fan Modules\n2× 1300W hot-swappable CRPS (Common Redundant Power Supply) — zero downtime power maintenance during full-load traffic\n6× intelligently-controlled fan modules with front-to-back airflow — adaptive thermal management at 25.6 Tbps\nMTBF ≥90,000 hours (~10.3 years), hardware watchdog, auto-recovery mechanisms\nCloud-managed (DHCS) for centralized visibility, automated operations, and cross-DC orchestration\nApplication: Hyperscale AI training clusters, HPC supercomputing centers, cloud data centers, enterprise multi-DC overlay networks, telecom carrier metro backhaul.\n第6个产品\nhttps://hohunet.com/product/s5648x-4z-ei-10g-optical-sdvoe-10g-swiitch/\n强调外观（半寸且可连接组成一个1U）\t 支持2个热插拔电源\n端口 2个100G 24个10G光\n强调L3功能\nSaga的型号是\nSTH-2C24XF-HSI\nHalf-width L3 managed switch with 24×10G SFP+ fiber and 2×100G uplinks — two units combine into one 1U slot.\n3 Core Highlights\n1. Half-Width Form Factor — Two Units, One 1U Rack Slot\nCompact 21.5×4.4cm half-width chassis fits two switches side-by-side in a single standard 1U rack space\nEach unit operates as a fully independent switch — or pair them via MLAG for Active-Active dual-node physical redundancy\nDelivers the reliability of two separate switches at the rack footprint of one — purpose-built for space-constrained AV and enterprise deployments\nBuilt-in SDVoE API Server on each unit eliminates the need for a separate SDVoE controller\n2. Dual Hot-Swap Power Modules + Hot-Swap Fan Modules\nTwo independent 550W CRPS hot-swappable power supplies switch seamlessly on mains loss — in-service power replacement with zero traffic interruption\nHot-swappable fan modules (front-to-back airflow) allow cooling maintenance under full-load traffic without pulling the unit from the rack\nMTBF ≥90,000 hours with hardware watchdog and process monitoring for continuous operation in mission-critical environments\n3. 24×10G SFP+ All-Fiber Access + 2×100G QSFP28 Uplinks\n24 optical SFP+ ports deliver low-latency 10G connectivity to servers, AV endpoints, and access layer devices — no copper interference\n2×100G QSFP28 uplinks provide non-blocking backhaul to aggregation or spine layer at 880 Gbps switching capacity\nHot-swappable SFP+/QSFP28 transceivers support mixed single-mode and multi-mode fiber on demand — no module changes needed when topology evolves\nApplication: SDVoE Pro AV broadcast networks, enterprise/campus aggregation, space-constrained data center edge, high-density fiber access deployments.\n[页眉页脚]\n菲利普·费雪说：我不想花时间在赚取微利上\n我想要非常，非常大的利润，并做好了为此等待的准备\n修炼内功",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"第1个产品"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.smartbyte-switch.com/8-10-100-1000Base-T-2-1G-2-5GBase-X-SFP-L2-Managed-Industrial-PoE-Switch-with-DI-DO-RS485-PG12131031"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"强调DI DO RS485  1G/2.5G 光口  8个PoE   L2+功能"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga的型号是"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STI-288DGGPM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8-port Gigabit L2+ managed industrial PoE switch with 2× 1G/2.5G SFP uplinks, integrated DI/DO/RS485 I/O channels, and 240W total PoE budget."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1. DI/DO/RS485 Integration for Industrial I/O and Serial Device Connectivity"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Native DI/DO/RS485 interface via removable 8-pin terminal block, eliminating the need for an external serial gateway"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1-channel digital input (12V–30V) and 1-channel digital output (normally open/closed/pulse, 2A@30VDC) enable direct alarm triggering, relay control, and event-driven automation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"RS485 serial server supports Modbus RTU transparent transmission over TCP/IP, seamlessly connecting legacy PLCs, RTUs, meters, and field sensors to modern IP networks"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Dedicated RS485 LED indicator provides real-time TX/RX status visibility for instant serial link diagnostics"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2. Dual 1G/2.5G SFP Uplinks for Cost-Effective Fiber Aggregation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Two multi-rate SFP slots support 1GBase-X and 2.5GBase-X, providing flexible fiber uplink options for medium-distance or EMI-sensitive environments where copper is unsuitable"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Dual-rate flexibility allows the same hardware to adapt to both existing 1G fiber infrastructure and emerging 2.5G backbone upgrades without device replacement"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SFP DDM (Digital Diagnostic Monitoring) enables real-time optical transceiver health monitoring for proactive maintenance in unmanned field deployments"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"G.8032 ERPS ring protection across SFP uplinks delivers ≤20ms automatic failover, ensuring continuous operation in redundant fiber ring topologies"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3. 8-Port PoE+ with Intelligent Power Management and Full L2+ Feature Set"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"All 8 RJ45 ports support IEEE 802.3af/at PoE+, delivering up to 30W per port with a 240W total power budget for cameras, APs, VoIP phones, and industrial sensors"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Per-port PoE priority, power scheduling, PD watchdog, and alarm threshold configuration ensure reliable power delivery and remote PD fault recovery without on-site intervention"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Comprehensive L2+ management: VLAN/QinQ, IGMP v1/v2/v3, ACL, 8-queue QoS (SP/WRR), 802.1X, DHCP server/relay, SNMP v2c/v3, MQTT, sFlow, plus IPv4/IPv6 static routing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Hardened industrial design with IP40 fanless housing, Din-rail mounting, -40°C to +75°C operating range, 6KV surge protection, and redundant 44–57VDC power input"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Application: IP surveillance networks, industrial automation edge nodes, smart transportation cabinets, oil & gas remote sites, utility substations, and any deployment requiring serial legacy device integration with fiber uplink redundancy in a compact DIN-rail form factor."
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"第2个产品"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.smartbyte-switch.com/24-10-100-1000Base-T-4-1G-2-5G-10GBase-X-SFP-L3-Managed-Industrial-Ethernet-Switch-with-Temp-humidit"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"强调L3功能 \t\t24个网口 10G光  导轨式安装以及Temp-humidity Sensor"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga的型号是"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STI-4240XGGM"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"24-port Gigabit L3 managed industrial switch with 4× 1G/2.5G/10G SFP+ uplinks, integrated temperature-humidity sensor interface, Din-rail installation, and full dynamic routing protocol support."
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"1. Advanced L3 Routing with Full Dynamic Protocol Suite"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"True Layer 3 managed operation with 13K routing entries and 128Gbps switching capacity, purpose-built for complex multi-subnet industrial network architectures\nSupports OSPF v2, BGP4, IS-IS, and RIPv1/v2 for adaptive route convergence across large-scale topologies, plus ECMP for intelligent load distribution across redundant uplinks\nVRRP (Virtual Router Redundancy Protocol) provides seamless gateway failover without any manual intervention, keeping critical industrial processes uninterrupted\nIPv4/IPv6 dual-stack with static and dynamic routing, DHCP server/relay, and policy-based routing offer a future-proof foundation for converged OT/IT network designs"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"2. Integrated Temperature-Humidity Sensor with Automatic Alarm Triggering"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"RS485 port natively interfaces with an external temperature-humidity sensor via the removable 8-pin terminal block, collecting real-time cabinet or room-level environmental data without any additional gateway\nDI channel (12V–30V input) and DO channel (normally open/closed/pulse, 2A@30VDC) work in tandem with sensor readings to trigger physical relay alarms or automated shutdown signals when thresholds are exceeded\nSNMP, MQTT, and RMON alarm support push environmental alert notifications to upstream monitoring platforms and SCADA systems in real time\nCritical for enclosed industrial control cabinets, substations, tunnels, and data rooms where thermal or humidity excursions can damage equipment or invalidate compliance requirements"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"3. 4× 10G SFP+ Uplinks with Din-Rail Hardened Design for High-Density Field Deployment"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Four multi-rate SFP+ slots support 1G/2.5G/10GBase-X, enabling flexible long-distance fiber uplinks to aggregate 24 downstream Gigabit access ports without creating a bottleneck\n190.4Mpps forwarding rate with sub-5µs forwarding delay ensures deterministic throughput for time-sensitive industrial protocols across all 28 ports simultaneously\nCompact Din-rail form factor (110×115×158mm, 2.0kg) with IP40 fanless housing installs directly in standard control cabinets alongside PLCs, RTUs, and power distribution equipment\nWide 12–75VDC redundant power input, -40°C to +75°C operating range, 6KV surge protection, and G.8032 ERPS ring recovery ≤20ms deliver the resilience demanded by unmanned field sites"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Application: Power grid SCADA and substation automation, oil & gas pipeline monitoring, railway trackside cabinets, chemical processing plants, smart factory backbone aggregation, and any industrial deployment requiring L3 routing with built-in environmental compliance monitoring in a DIN-rail form factor."
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"第3个产品"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"https://www.smartbyte-switch.com/48-10-100-1000Base-T-4-1G-2-5G-10G-SFP-Layer-2-Managed-PoE-Switch-PG12146200"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"强调48个PoE且 4个BT口   740W PoE budget"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"10G光上联口  L2管理功能"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"1U机架式和双AC输入"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga的型号是"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"STC-448XGGPM-4BT-740W"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"48-port Gigabit L2+ managed PoE++ switch with 4× 1G/2.5G/10G SFP+ uplinks, 4-port IEEE 802.3bt PoE++ at 90W per port, 740W total PoE budget, 1U rack-mount form factor, and optional redundant dual AC input."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1. 48-Port High-Density PoE++ with 740W Budget and 4-Port 90W BT Capability"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"All 48 RJ45 ports comply with IEEE 802.3af/at/bt full PoE standards; ports 1–4 deliver up to 90W per port (IEEE 802.3bt) for high-power devices such as PTZ cameras, Wi-Fi 6E APs, and video conferencing terminals"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remaining 44 ports support standard PoE (15.4W) and PoE+ (30W), with a 740W total PoE budget enabling full-density deployment without external power injectors"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Per-port PoE priority management, power scheduling, PD watchdog, alarm threshold configuration, over-current protection, and legacy PoE mode ensure intelligent, safe, and uninterrupted power delivery across all 48 endpoints"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Built-in hardware watchdog and dual-partition firmware management guarantee automatic recovery from device or firmware faults in unmanned deployments"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2. 4× 10G SFP+ Uplinks for High-Bandwidth Aggregation with ERPS Ring Protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Four multi-rate SFP+ slots support 1G/2.5G/10GBase-X, providing flexible fiber uplink options to aggregate 48 downstream Gigabit PoE ports without creating a bottleneck at 336Gbps switching capacity and 499.9Mpps forwarding rate"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Sub-5µs forwarding delay ensures deterministic throughput for latency-sensitive applications including HD video surveillance, VoIP, and real-time multicast streams"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"G.8032 ERPS ring protection with ≤20ms automatic failover eliminates single points of failure in redundant fiber ring architectures, covering both major rings and sub-rings with no limit on connected devices"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SFP DDM (Digital Diagnostic Monitoring) provides real-time optical transceiver health data for proactive fault detection and preventive maintenance"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3. Rich L2+ Feature Set with Enterprise-Grade Security and Dual AC Redundant Power"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Comprehensive L2+ management: IEEE 802.1Q VLAN/QinQ (port/VLAN/flow-based), IGMP v1/v2/v3 with PIM-SM multicast, 8-queue QoS (SP/WRR), GVRP, LLDP, SPAN/RSPAN, DHCP snooping, and IPv4/IPv6 static routing with 4K routing prefix table"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Multi-layered security covering ACL (IP/MAC/IPv6/time-range), 802.1X port authentication, IP source guard, DAI, anti-gateway ARP spoofing, DDoS protection, and AAA via RADIUS/TACACS, hardening the network against both internal and external threats"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Full management stack: Web GUI (HTTP/HTTPS), CLI (Console/Telnet/SSH), SNMP v2c/v3, MQTT, sFlow, RMON, NTP, dual-partition firmware, and one-click fault information collection simplify large-scale deployment and ongoing maintenance"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Optional redundant dual AC 100–240V input (available as LT-S8352XGP-4XS48GT-4BT-2AC850) provides power supply failover for zero-downtime operation in mission-critical network closets and data centers; standard 1U 440×300×45mm rack-mount chassis fits any 19-inch cabinet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Application: High-density IP surveillance systems, enterprise Wi-Fi 6/6E campus networks, hotel and smart building unified communication, data center access layer, education and healthcare LAN, and any deployment requiring high-port-count PoE++ with 10G fiber uplinks and power supply redundancy in a 1U rack form factor."
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"第4个产品"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"https://www.smartbyte-switch.com/48-100-1000M-SFP-4-1G-2-5G-10G-SFP-Layer-3-Managed-Full-Fiber-Switch-PG12130193"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"强调L3功能   全光口  双AC输入\t 支持Console口以及USB口管理"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga的型号是"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STC-448XGGMO"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"port fiber Layer 3 managed switch with 13K dynamic routing entries, dual AC power, and USB/Console management."
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"1. Layer 3 Dynamic Routing — Enterprise-Grade Intelligence with 13K Routing Entries"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Full IPv4/IPv6 static and dynamic routing with ECMP (Equal-Cost Multi-Path) for load balancing"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Supports OSPF, BGP4, RIP, IS-IS — enables complex network topologies and automatic failover"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"VRRP for virtual router redundancy; DHCP server/relay/client for flexible IP management"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"336 Gbps switching capacity + 499.9 Mpps forwarding rate — scales from branch to campus backhaul"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"2. All-Fiber Port Architecture — Future-Proof, Noise-Free Deployment"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"48× 100/1000M SFP downlinks + 4× 1G/2.5G/10G SFP+ uplinks — full optical fabric"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"No copper RJ45 ports = zero EMI/EMC noise in electrically harsh environments"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Hot-swappable SFP/SFP+ transceivers — mix single-mode, multi-mode, and rates on demand"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Ideal for telecom backbone, outdoor fiber runs, and noise-sensitive industrial sites"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"3. Redundant Dual AC Power (100-240V) + USB + Console Management"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Two independent AC inputs switch seamlessly on mains loss — enterprise-grade power continuity"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Console port (RJ45) + USB 2.0 for local configuration, firmware upgrade, and emergency recovery"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Web management, CLI, Telnet/SSH, SNMP, MQTT support — remote or hands-on administration"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Dual partition firmware — in-service OS upgrade without downtime"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Application: Telecom backbone aggregation, dark-fiber WAN links, campus core networks, noise-sensitive industrial backhaul, carrier-grade carrier deployments."
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"第5个产品"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"https://hohunet.com/product/s8532-ei-data-center-switch-data-center-computing-ai/"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"强调400G口32口（提一下64口也可以做）  强大的功能如MPLS VXLAN等  硬件设计如热插拔电源和风扇等"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga的型号是"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"STH-32QC-HSI"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"32×400G data center switch with MPLS/VXLAN/EVPN, dual hot-swap power, intelligent fan control for hyperscale AI/HPC."
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"1. Ultra-High-Density 400G Architecture — 32 Ports (Scalable to 64×400G)"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"32× QSFP112 400G ports delivering 25.6 Tbps bidirectional switching capacity"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"38.09 Gpps Layer 2/3 throughput — ideal for AI/ML clusters, HPC, and hyperscale data centers"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Expandable to 64×400G models for mega-scale topologies without re-architecture"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Compact 1U form factor maximizes rack efficiency in high-density deployments"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"2. Enterprise-Grade L3 Overlay & Metro Features — MPLS, VXLAN, EVPN, BGP"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Full MPLS suite: LDP, L2VPN/VPWS/VPLS, L3VPN — unified transport for enterprise and carrier workloads"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"VXLAN with distributed gateway, EVPN, BGP for multi-tenant cloud DC overlays and cross-datacenter interconnect"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"MACsec (802.1AE) encryption, PFC/ECN/DCBX for lossless Ethernet in storage and HPC networks"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"IPv6, OSPF, IS-IS, BFD, VRRP, MLAG for robust converged infrastructure"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"3. Mission-Critical Reliability — Dual Hot-Swap Power, 6× Smart Fan Modules"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"2× 1300W hot-swappable CRPS (Common Redundant Power Supply) — zero downtime power maintenance during full-load traffic"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"6× intelligently-controlled fan modules with front-to-back airflow — adaptive thermal management at 25.6 Tbps"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"MTBF ≥90,000 hours (~10.3 years), hardware watchdog, auto-recovery mechanisms"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Cloud-managed (DHCS) for centralized visibility, automated operations, and cross-DC orchestration"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Application: Hyperscale AI training clusters, HPC supercomputing centers, cloud data centers, enterprise multi-DC overlay networks, telecom carrier metro backhaul."
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"第6个产品"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"https://hohunet.com/product/s5648x-4z-ei-10g-optical-sdvoe-10g-swiitch/"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"强调外观（半寸且可连接组成一个1U）\t 支持2个热插拔电源"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"端口 2个100G 24个10G光"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"强调L3功能"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga的型号是"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STH-2C24XF-HSI"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Half-width L3 managed switch with 24×10G SFP+ fiber and 2×100G uplinks — two units combine into one 1U slot."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3 Core Highlights"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1. Half-Width Form Factor — Two Units, One 1U Rack Slot"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Compact 21.5×4.4cm half-width chassis fits two switches side-by-side in a single standard 1U rack space"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Each unit operates as a fully independent switch — or pair them via MLAG for Active-Active dual-node physical redundancy"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Delivers the reliability of two separate switches at the rack footprint of one — purpose-built for space-constrained AV and enterprise deployments"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Built-in SDVoE API Server on each unit eliminates the need for a separate SDVoE controller"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2. Dual Hot-Swap Power Modules + Hot-Swap Fan Modules"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Two independent 550W CRPS hot-swappable power supplies switch seamlessly on mains loss — in-service power replacement with zero traffic interruption"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Hot-swappable fan modules (front-to-back airflow) allow cooling maintenance under full-load traffic without pulling the unit from the rack"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MTBF ≥90,000 hours with hardware watchdog and process monitoring for continuous operation in mission-critical environments"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3. 24×10G SFP+ All-Fiber Access + 2×100G QSFP28 Uplinks"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"24 optical SFP+ ports deliver low-latency 10G connectivity to servers, AV endpoints, and access layer devices — no copper interference"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2×100G QSFP28 uplinks provide non-blocking backhaul to aggregation or spine layer at 880 Gbps switching capacity"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Hot-swappable SFP+/QSFP28 transceivers support mixed single-mode and multi-mode fiber on demand — no module changes needed when topology evolves"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Application: SDVoE Pro AV broadcast networks, enterprise/campus aggregation, space-constrained data center edge, high-density fiber access deployments."
+}
+],
+"extracted_at":"2026-10-23T05:02:17Z"
+}

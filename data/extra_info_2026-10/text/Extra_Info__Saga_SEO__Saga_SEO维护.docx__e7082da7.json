@@ -1,0 +1,212 @@
+{
+"id":"Extra_Info__Saga_SEO__Saga_SEO维护.docx__e7082da7",
+"path":"Extra_Info/Saga SEO/Saga SEO维护.docx",
+"name":"Saga SEO维护.docx",
+"ext":".docx",
+"bytes":25458,
+"sha256":"e7082da75c13319e5290a36d83050e6e2def79fe1f4deb3da8df0bd48c1d1f51",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2026-08-01T10:32:00+00:00",
+"modified":"2026-08-01T15:55:20+00:00",
+"paragraphs":37,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"chars":1644,
+"text":"SEO项\n1 Google Search Console 提交 sitemap\n验证完域名后，在 Search Console 里提交 `https://sagatele.com/sitemap.xml`。虽然你现在是单页面没有 sitemap 文件，但可以直接用 URL 检查工具提交首页，让 Google 主动爬取而不是等它自己发现。\nDONE\n2 LinkedIn 公司页\n品牌化文档里提到过这个，而且 B2B 客户在 Google 搜索公司名时，LinkedIn 页面经常排在第二第三位，直接加强品牌可信度。公司页的 About 里统一用你定好的标准表述，官网填 sagatele.com。\nTBD：用BING浏览器和ALAN的信息搞\n3 把 sagatele.com 加到你的邮件签名\n每封邮件都是一次品牌曝光，客户收到邮件好奇点进来，就是一次真实访问。\n想办法加到更多的地方，获取更多的点击和曝光\nDONE\n4 写 2-3 篇技术内容页\n不需要高频发，但哪怕加几个独立页面，比如\"Why strategic inventory matters in telecom procurement\"、\"Marvell vs generic access layer switches\"——这类内容会被 Google 长期收录，持续带来精准搜索流量，而且恰好命中你的目标客户在搜索的问题。\n定期更新：频率为3~4周一篇\n由CLAUDE来写文章，注意标注好日期（比如将于何时上传），我自己再COPY下来做保存（说不定能用到其他地方）\n由CLAUDE处理新的HTML，我上传至GITHUB，不用动XML文件\n5 Google Business Profile\n免费注册，填写公司信息、网址、业务描述，搜索 Saga Telecom 时右侧会出现公司卡片，专业感提升明显。\n无法处理，封禁状态\n6 外链积累\n让 hohunet.com、smartbyte-switch.com 这类供应商在他们网站的合作伙伴页加上你的链接。来自行业相关网站的外链是 Google 排名权重的核心因素，你和他们本来就有合作关系，开口成本低。\nTBD：看第3点\n7 robots.txt（豆包也提到了）— 一个小文件告诉爬虫如何抓取，锦上添花，我可以生成给你，上传到 GitHub 跟 sitemap.xml 放一起，一次性搞定。\nDONE\n8 sagatele.com 加到 LinkedIn 个人页 — 不是公司页，是你自己的个人 Profile，About 和 Contact Info 里填上网址，个人页权重高，搜 Saga Telecom 时更容易被找到。\nTBD：看第二点，注意区分公司账号和ALAN个人账号，问问区别以及咋搞\n9 .nojekyll — 值得加，一个空文件，防止 GitHub Pages 的 Jekyll 引擎误处理文件，上传一次永久生效。\nDONE\n10 favicon.ico — 值得做，浏览器标签页显示你的图标，专业感明显提升。我可以生成一个简单的 ST 图标。\nTBD：需要设计一个LOGO\n11 Google Analytics 4 — 值得加，能看到访客来自哪个国家、停留多久、看了哪些内容，对后续优化很有参考价值。\nDONE\n12 Bing Webmaster Tools — 值得提交，欧洲客户确实有用 Bing 的，多一条收录渠道，操作和 Google Search Console 一样简单。\nDONE：Yandex BING Google都搞了\n定期维护\nGoogle / Bing / Yandex 站长后台每月检查一次\n每次更新 HTML 后回 Google Search Console 用 URL inspection 请求重新收录\n[页眉页脚]\n菲利普·费雪说：我不想花时间在赚取微利上\n我想要非常，非常大的利润，并做好了为此等待的准备\n修炼内功",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"SEO项"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1 Google Search Console 提交 sitemap"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"验证完域名后，在 Search Console 里提交 `https://sagatele.com/sitemap.xml`。虽然你现在是单页面没有 sitemap 文件，但可以直接用 URL 检查工具提交首页，让 Google 主动爬取而不是等它自己发现。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DONE"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2 LinkedIn 公司页"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"品牌化文档里提到过这个，而且 B2B 客户在 Google 搜索公司名时，LinkedIn 页面经常排在第二第三位，直接加强品牌可信度。公司页的 About 里统一用你定好的标准表述，官网填 sagatele.com。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"TBD：用BING浏览器和ALAN的信息搞"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3 把 sagatele.com 加到你的邮件签名"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"每封邮件都是一次品牌曝光，客户收到邮件好奇点进来，就是一次真实访问。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"想办法加到更多的地方，获取更多的点击和曝光"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DONE"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4 写 2-3 篇技术内容页"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不需要高频发，但哪怕加几个独立页面，比如\"Why strategic inventory matters in telecom procurement\"、\"Marvell vs generic access layer switches\"——这类内容会被 Google 长期收录，持续带来精准搜索流量，而且恰好命中你的目标客户在搜索的问题。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"定期更新：频率为3~4周一篇"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"由CLAUDE来写文章，注意标注好日期（比如将于何时上传），我自己再COPY下来做保存（说不定能用到其他地方）"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"由CLAUDE处理新的HTML，我上传至GITHUB，不用动XML文件"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"5 Google Business Profile"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"免费注册，填写公司信息、网址、业务描述，搜索 Saga Telecom 时右侧会出现公司卡片，专业感提升明显。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"无法处理，封禁状态"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"6 外链积累"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"让 hohunet.com、smartbyte-switch.com 这类供应商在他们网站的合作伙伴页加上你的链接。来自行业相关网站的外链是 Google 排名权重的核心因素，你和他们本来就有合作关系，开口成本低。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"TBD：看第3点"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"7 robots.txt（豆包也提到了）— 一个小文件告诉爬虫如何抓取，锦上添花，我可以生成给你，上传到 GitHub 跟 sitemap.xml 放一起，一次性搞定。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DONE"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8 sagatele.com 加到 LinkedIn 个人页 — 不是公司页，是你自己的个人 Profile，About 和 Contact Info 里填上网址，个人页权重高，搜 Saga Telecom 时更容易被找到。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"TBD：看第二点，注意区分公司账号和ALAN个人账号，问问区别以及咋搞"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"9 .nojekyll — 值得加，一个空文件，防止 GitHub Pages 的 Jekyll 引擎误处理文件，上传一次永久生效。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DONE"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"10 favicon.ico — 值得做，浏览器标签页显示你的图标，专业感明显提升。我可以生成一个简单的 ST 图标。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"TBD：需要设计一个LOGO"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"11 Google Analytics 4 — 值得加，能看到访客来自哪个国家、停留多久、看了哪些内容，对后续优化很有参考价值。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DONE"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"12 Bing Webmaster Tools — 值得提交，欧洲客户确实有用 Bing 的，多一条收录渠道，操作和 Google Search Console 一样简单。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DONE：Yandex BING Google都搞了"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"定期维护"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Google / Bing / Yandex 站长后台每月检查一次"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"每次更新 HTML 后回 Google Search Console 用 URL inspection 请求重新收录"
+}
+],
+"extracted_at":"2026-10-23T05:01:44Z"
+}

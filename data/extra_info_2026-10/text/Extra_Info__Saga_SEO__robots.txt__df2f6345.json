@@ -1,0 +1,16 @@
+{
+"id":"Extra_Info__Saga_SEO__robots.txt__df2f6345",
+"path":"Extra_Info/Saga SEO/robots.txt",
+"name":"robots.txt",
+"ext":".txt",
+"bytes":66,
+"sha256":"df2f634588d46c867b1f713d4186f0270e1d1779a0ca94982e8be3bc4cd11dd1",
+"source":"Extra_Info.zip",
+"method":"text",
+"status":"ok",
+"meta":{},
+"warnings":[],
+"chars":66,
+"text":"User-agent: *\nAllow: /\n\nSitemap: https://sagatele.com/sitemap.xml\n",
+"extracted_at":"2026-10-23T05:01:46Z"
+}

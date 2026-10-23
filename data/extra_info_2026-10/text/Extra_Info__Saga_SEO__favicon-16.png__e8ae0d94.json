@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_SEO__favicon-16.png__e8ae0d94",
+"path":"Extra_Info/Saga SEO/favicon-16.png",
+"name":"favicon-16.png",
+"ext":".png",
+"bytes":464,
+"sha256":"e8ae0d943075358ea6b1d6396e49f9d0894e12b54634b8a905f6daca2bb0ec1a",
+"source":"Extra_Info.zip",
+"method":"pillow",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":16,
+"height":16,
+"mode":"RGBA",
+"thumb_bytes":381
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:01:44Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__favicon-16.png__e8ae0d94.jpg"
+}

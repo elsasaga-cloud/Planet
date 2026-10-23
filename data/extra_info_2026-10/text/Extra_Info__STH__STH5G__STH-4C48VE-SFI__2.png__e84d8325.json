@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__STH__STH5G__STH-4C48VE-SFI__2.png__e84d8325",
+"path":"Extra_Info/STH/STH5G/STH-4C48VE-SFI/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":3559086,
+"sha256":"e84d8325bc2b33306674ab0770d9d256dc4d6f8f734a902a28ba9cd58555287d",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":5760,
+"height":3840,
+"mode":"RGBA",
+"thumb_bytes":4693
+},
+"warnings":[],
+"chars":50,
+"text":"ee e 二 oe 【】\nEE 本 = err eee\nee = = 三 三 三 三 三 三 =\n人",
+"extracted_at":"2026-10-23T05:05:08Z",
+"thumb":"thumbs/Extra_Info__STH__STH5G__STH-4C48VE-SFI__2.png__e84d8325.jpg"
+}

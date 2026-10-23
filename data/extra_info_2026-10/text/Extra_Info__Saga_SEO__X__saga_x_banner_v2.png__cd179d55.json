@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_SEO__X__saga_x_banner_v2.png__cd179d55",
+"path":"Extra_Info/Saga SEO/X/saga_x_banner_v2.png",
+"name":"saga_x_banner_v2.png",
+"ext":".png",
+"bytes":69108,
+"sha256":"cd179d5563cf1ada1424463b60a9920ef78e160a7b3a8acda9264b4e7d05bdea",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1500,
+"height":500,
+"mode":"RGB",
+"thumb_bytes":4814
+},
+"warnings":[],
+"chars":326,
+"text":"STI 一 mdustrial\nDIN-rail ，-49*C to 75°C . 196 Fiber Uplinks\nPoE+ - ERPS - Fiber Bypass\nDI/DO/RS485 - Temp-Humidity Sensor\nManaged switching:\n一 ENGINEERING & SUPPLY-CHAIN-FIRST.\n1U Rack » PoE++ 99w - All-fiber 13\n196 SFP+ » Dual AC - 749W Budget\nforevery layer, er»\n32x400G - MPLS / VXLAN / EVPN\nHalf-width . Hot-swap PSU & Fan",
+"extracted_at":"2026-10-23T05:02:27Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__X__saga_x_banner_v2.png__cd179d55.jpg"
+}

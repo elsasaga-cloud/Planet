@@ -1,0 +1,438 @@
+{
+"id":"Extra_Info__STH__可编辑版本__规格书__S9500_Series_switches_datasheet_EN_V1.2.pptx__545c4b30",
+"path":"Extra_Info/STH/可编辑版本/规格书/S9500 Series switches datasheet_EN_V1.2.pptx",
+"name":"S9500 Series switches datasheet_EN_V1.2.pptx",
+"ext":".pptx",
+"bytes":9896196,
+"sha256":"545c4b30f1ce4218bb68249911444916ef06d00806a6ecb4fbabb3b051c390e4",
+"source":"Extra_Info.zip",
+"method":"python-pptx",
+"status":"ok",
+"meta":{
+"slides":7,
+"pictures":4
+},
+"warnings":[],
+"chars":5028,
+"text":"[slide 1]\nS9500 SERIES SWITCHES\nDATASHEET\nHigh Performance Data Center Switch\nProduct Overview\nThe S9500 Series switches designed on a domestic new generation switch Chip, which called SerdesX Series Chip platform. With 32 x 800G high speed ports and rich features, these switches will perfectly meets the requirements of supercomputing, Data Center, and AI/ML Networks.\nKey features of the S9500 Series switches\nHigh-density 800G switch, 32*800G OSFP\nRedundant hot-swappable power and fans ensure continuous stability\nMPLS (label-switching-based) integrates IP flexibility and connection-oriented reliability, enabling isolated multi-service bearing, precise traffic scheduling, fast fault self-healing, and lower networking costs to meet multi-scenario efficient needs\nSupport VXLAN/EVPN tunnel technology, unlimited data transmission\nRDMA end-to-end data forwarding, build a lossless network without packet loss\nSupport MLAG, cross-device link aggregation technology\nThe S9500 Series switches provide redundant hot-swappable power supplies (AC and DC are both available) and 4 bays with Field replaceable fan modules. Generally, airflow of S9500 Series is front to rear (AFO), but a customization of rear to front (AFI) airflow is also acceptable.\nTable 1: Feasible PSU and airflow of S9532\nVersion:V 1.2\nRelease Date:2025/12/20\nItems\tAC\tDC\tAFO\tAFI\tPower Input\tFAN\nS9532-EI\t◯\t◯\t◯\t◯\t2\t4\n\n[slide 2]\nThe S9500 Series switches support varied management ways, include console port / in-band network ports / out-of-band network port. Support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, etc. to ensure security of management.\nMoreover, leveraging its profound technical expertise and in-depth understanding of campus and enterprise networking needs, Hohunet has launched the Da Hu Cloud Management System (DHCS). It enhances network management and maintenance efficiency, reduces costs, elevates management intelligence, and delivers a faster, smarter, more secure and reliable network to better meet user requirements.\nVisual WEB GUI\nHOS allows you to quickly configure common configuration items using a visual WEB GUI, which lowers the application threshold for users.\n\n[slide 3]\nTable 2: Family of the S9500 Series switches\nThe S9500 ports at a glance\nModels\tEthernet Ports\tManagement\tPSU 1/PSU 2\tCooling\nS9532-EI\t32 x 800G OSFP\tConsole: RJ45 to RS232\u000bEthernet: 1G Port\t2 x CRPS\t4 x Fan Modules\u000b(front-to-back airflow)\n\n[slide 4]\nS9500 Series Physical Specifications\nPacket Switch capacity (Tbps)\nS9532-EI: 51.2 Tbps (bidirectional)\nLayer 2/Layer 3 Throughput (Gpps)\nS9532-EI: 76.19 Gpps (bidirectional)\nCPU\nQuad-core processor, ARM A53\nMemory\neMMc: 8GB on all models\nDRAM: 4GB on all models\nWeight (Net weight/Gross weight)\nS9532-EI: 11.8kg/16kg\nDimensions (W x H x D) without package\nS9532-EI: 44.2 x 8.8 x 56cm\nMTBF\nS9532-EI: ≥90000H\nEnvironmental ranges\nOperating temperature: 0ºC to 45ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90% (No condensation)\nStore Humidity: 5 to 95% (No condensation)\nTemperature alarm\nAlarm threshold: 50ºC\n\n[slide 5]\nS9500 Software Specifications\nHOHUNET implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘HOS Software features’ .\n* All HOHUNET switches use a normalized software platform and image package file\n* Unified software version iteration plan\n* Unified user experience\nHOS Network Platform\nLayer 2 switching\nIPv4/lPv6 Unicast Routing\nQoS\nIP Multicast Snooping/Proxy\nIPv4/lPv6 Multi cast Routing\nVRRP\nMultiprotocol Label Switching(MPLS)\nVirtual Private LAN Service(VPLS)\nVirtual Routing and Switching\nGeneralized Multiprotocol LabelSwitching(GMPLS)\nIPv6 Tunneling and TransitionTechnologies\nIP/MPLS OAM\nService management module\nFault Managemet (FM)\nHigh Availability (HA)\nIntegrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)\nHardware and platform abstraction layer\nAdvanced integration Suite\nCENTEC swtich chip  SDK\nSilicon in Pizza, Stacking or Chassis\nConfiguration\nOperating Systems TCP/IP Stacks\nLinux , IPv4/Pv6 Dual Stack\nHardware layer\nCENTEC Switch Chipset\nCPU Subsystem\nCooling SubSystem\nAC/DC DC/DC CLK\nEnvironmental Management Subsystem\nLogical Control Subunit\n\n[slide 6]\nOrdering Information\nSoftware Licenses\nAccessory of S9532-EI\nS9500 Series\nAC Power Supplies use for S9500\nItems\tDescription\nS9532-EI\t800G Data Center Switch, with 32*800G OSFP, Dual power supply modules(C13), 4 hot-swappable fan modules.\nItems\tDescription\nSoftware License\tMS, L3 enhance features software license key, Preinstalled\nSoftware License\tMA, MPLS features software license key\nSoftware License\tST, Stacking feature software license key\nItems\tFront Mounting\tRear Mounting\tScrew\tPower Cord\tConsole (RS232 to RJ45)\tGrounding Cable\nSS9532-EI\t2\t4\t14\t2\t1\t1\nItems\tDescription\nPSU-3200-AC-AFO\tS7600 Series 3200W AC power supply (front-to-back airflow)\n\n[slide 7]\n",
+"slides":[
+{
+"n":1,
+"items":[
+{
+"t":"p",
+"text":"S9500 SERIES SWITCHES\nDATASHEET"
+},
+{
+"t":"p",
+"text":"High Performance Data Center Switch"
+},
+{
+"t":"p",
+"text":"Product Overview"
+},
+{
+"t":"p",
+"text":"The S9500 Series switches designed on a domestic new generation switch Chip, which called SerdesX Series Chip platform. With 32 x 800G high speed ports and rich features, these switches will perfectly meets the requirements of supercomputing, Data Center, and AI/ML Networks."
+},
+{
+"t":"p",
+"text":"Key features of the S9500 Series switches"
+},
+{
+"t":"p",
+"text":"High-density 800G switch, 32*800G OSFP\nRedundant hot-swappable power and fans ensure continuous stability\nMPLS (label-switching-based) integrates IP flexibility and connection-oriented reliability, enabling isolated multi-service bearing, precise traffic scheduling, fast fault self-healing, and lower networking costs to meet multi-scenario efficient needs\nSupport VXLAN/EVPN tunnel technology, unlimited data transmission\nRDMA end-to-end data forwarding, build a lossless network without packet loss\nSupport MLAG, cross-device link aggregation technology"
+},
+{
+"t":"p",
+"text":"The S9500 Series switches provide redundant hot-swappable power supplies (AC and DC are both available) and 4 bays with Field replaceable fan modules. Generally, airflow of S9500 Series is front to rear (AFO), but a customization of rear to front (AFI) airflow is also acceptable."
+},
+{
+"t":"p",
+"text":"Table 1: Feasible PSU and airflow of S9532"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"AC",
+"DC",
+"AFO",
+"AFI",
+"Power Input",
+"FAN"
+],
+[
+"S9532-EI",
+"◯",
+"◯",
+"◯",
+"◯",
+"2",
+"4"
+]
+]
+},
+{
+"t":"p",
+"text":"Version:V 1.2\nRelease Date:2025/12/20"
+},
+{
+"t":"picture",
+"name":"图片 5"
+}
+],
+"notes":""
+},
+{
+"n":2,
+"items":[
+{
+"t":"p",
+"text":"The S9500 Series switches support varied management ways, include console port / in-band network ports / out-of-band network port. Support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, etc. to ensure security of management."
+},
+{
+"t":"picture",
+"name":"图片 15"
+},
+{
+"t":"p",
+"text":"Moreover, leveraging its profound technical expertise and in-depth understanding of campus and enterprise networking needs, Hohunet has launched the Da Hu Cloud Management System (DHCS). It enhances network management and maintenance efficiency, reduces costs, elevates management intelligence, and delivers a faster, smarter, more secure and reliable network to better meet user requirements."
+},
+{
+"t":"p",
+"text":"Visual WEB GUI"
+},
+{
+"t":"p",
+"text":"HOS allows you to quickly configure common configuration items using a visual WEB GUI, which lowers the application threshold for users."
+}
+],
+"notes":""
+},
+{
+"n":3,
+"items":[
+{
+"t":"picture",
+"name":"图片 6"
+},
+{
+"t":"picture",
+"name":"图片 7"
+},
+{
+"t":"p",
+"text":"Table 2: Family of the S9500 Series switches"
+},
+{
+"t":"table",
+"rows":[
+[
+"Models",
+"Ethernet Ports",
+"Management",
+"PSU 1/PSU 2",
+"Cooling"
+],
+[
+"S9532-EI",
+"32 x 800G OSFP",
+"Console: RJ45 to RS232\u000bEthernet: 1G Port",
+"2 x CRPS",
+"4 x Fan Modules\u000b(front-to-back airflow)"
+]
+]
+},
+{
+"t":"p",
+"text":"The S9500 ports at a glance"
+}
+],
+"notes":""
+},
+{
+"n":4,
+"items":[
+{
+"t":"p",
+"text":"S9500 Series Physical Specifications"
+},
+{
+"t":"p",
+"text":"Packet Switch capacity (Tbps)\nS9532-EI: 51.2 Tbps (bidirectional)"
+},
+{
+"t":"p",
+"text":"Layer 2/Layer 3 Throughput (Gpps)\nS9532-EI: 76.19 Gpps (bidirectional)"
+},
+{
+"t":"p",
+"text":"CPU\nQuad-core processor, ARM A53"
+},
+{
+"t":"p",
+"text":"Memory\neMMc: 8GB on all models\nDRAM: 4GB on all models"
+},
+{
+"t":"p",
+"text":"Weight (Net weight/Gross weight)\nS9532-EI: 11.8kg/16kg"
+},
+{
+"t":"p",
+"text":"Dimensions (W x H x D) without package\nS9532-EI: 44.2 x 8.8 x 56cm"
+},
+{
+"t":"p",
+"text":"MTBF\nS9532-EI: ≥90000H"
+},
+{
+"t":"p",
+"text":"Environmental ranges\nOperating temperature: 0ºC to 45ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90% (No condensation)\nStore Humidity: 5 to 95% (No condensation)"
+},
+{
+"t":"p",
+"text":"Temperature alarm\nAlarm threshold: 50ºC"
+}
+],
+"notes":""
+},
+{
+"n":5,
+"items":[
+{
+"t":"p",
+"text":"S9500 Software Specifications\nHOHUNET implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘HOS Software features’ ."
+},
+{
+"t":"p",
+"text":"* All HOHUNET switches use a normalized software platform and image package file\n* Unified software version iteration plan\n* Unified user experience"
+},
+{
+"t":"p",
+"text":"HOS Network Platform"
+},
+{
+"t":"p",
+"text":"Layer 2 switching"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Unicast Routing"
+},
+{
+"t":"p",
+"text":"QoS"
+},
+{
+"t":"p",
+"text":"IP Multicast Snooping/Proxy"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Multi cast Routing"
+},
+{
+"t":"p",
+"text":"VRRP"
+},
+{
+"t":"p",
+"text":"Multiprotocol Label Switching(MPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Private LAN Service(VPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Routing and Switching"
+},
+{
+"t":"p",
+"text":"Generalized Multiprotocol LabelSwitching(GMPLS)"
+},
+{
+"t":"p",
+"text":"IPv6 Tunneling and TransitionTechnologies"
+},
+{
+"t":"p",
+"text":"IP/MPLS OAM"
+},
+{
+"t":"p",
+"text":"Service management module"
+},
+{
+"t":"p",
+"text":"Fault Managemet (FM)"
+},
+{
+"t":"p",
+"text":"High Availability (HA)"
+},
+{
+"t":"p",
+"text":"Integrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)"
+},
+{
+"t":"p",
+"text":"Hardware and platform abstraction layer"
+},
+{
+"t":"p",
+"text":"Advanced integration Suite"
+},
+{
+"t":"p",
+"text":"CENTEC swtich chip  SDK"
+},
+{
+"t":"p",
+"text":"Silicon in Pizza, Stacking or Chassis\nConfiguration"
+},
+{
+"t":"p",
+"text":"Operating Systems TCP/IP Stacks"
+},
+{
+"t":"p",
+"text":"Linux , IPv4/Pv6 Dual Stack"
+},
+{
+"t":"p",
+"text":"Hardware layer"
+},
+{
+"t":"p",
+"text":"CENTEC Switch Chipset"
+},
+{
+"t":"p",
+"text":"CPU Subsystem"
+},
+{
+"t":"p",
+"text":"Cooling SubSystem"
+},
+{
+"t":"p",
+"text":"AC/DC DC/DC CLK"
+},
+{
+"t":"p",
+"text":"Environmental Management Subsystem"
+},
+{
+"t":"p",
+"text":"Logical Control Subunit"
+}
+],
+"notes":""
+},
+{
+"n":6,
+"items":[
+{
+"t":"p",
+"text":"Ordering Information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"S9532-EI",
+"800G Data Center Switch, with 32*800G OSFP, Dual power supply modules(C13), 4 hot-swappable fan modules."
+]
+]
+},
+{
+"t":"p",
+"text":"Software Licenses"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"Software License",
+"MS, L3 enhance features software license key, Preinstalled"
+],
+[
+"Software License",
+"MA, MPLS features software license key"
+],
+[
+"Software License",
+"ST, Stacking feature software license key"
+]
+]
+},
+{
+"t":"p",
+"text":"Accessory of S9532-EI"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Front Mounting",
+"Rear Mounting",
+"Screw",
+"Power Cord",
+"Console (RS232 to RJ45)",
+"Grounding Cable"
+],
+[
+"SS9532-EI",
+"2",
+"4",
+"14",
+"2",
+"1",
+"1"
+]
+]
+},
+{
+"t":"p",
+"text":"S9500 Series"
+},
+{
+"t":"p",
+"text":"AC Power Supplies use for S9500"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"PSU-3200-AC-AFO",
+"S7600 Series 3200W AC power supply (front-to-back airflow)"
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":7,
+"items":[],
+"notes":""
+}
+],
+"extracted_at":"2026-10-23T05:04:28Z"
+}

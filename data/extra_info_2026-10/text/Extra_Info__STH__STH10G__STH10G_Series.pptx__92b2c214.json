@@ -1,0 +1,613 @@
+{
+"id":"Extra_Info__STH__STH10G__STH10G_Series.pptx__92b2c214",
+"path":"Extra_Info/STH/STH10G/STH10G Series.pptx",
+"name":"STH10G Series.pptx",
+"ext":".pptx",
+"bytes":1318889,
+"sha256":"92b2c214f4199ed8bf390d477137dd8a09e2e0623c34c5c1193385590b8dacb7",
+"source":"Extra_Info.zip",
+"method":"python-pptx",
+"status":"ok",
+"meta":{
+"slides":9,
+"pictures":7
+},
+"warnings":[],
+"chars":9208,
+"text":"[slide 1]\nSTH10G SERIES SWITCHES\nDATASHEET\n10G Enterprise Switch\nProduct Overview\nThe STH10G Series switches are designed based on new generations of domestic Switch Chips platform — BigFlow Series Chip platform\nWith outstanding performance and cost efficiency, the STH10G Series switches have various port options and offer rich L2/L3 features, making them the perfect choice as aggregation or access switches for enterprise, government, specific industry networks.\nKey features of the STH10G Series Switches\nSupport MPLS features (L2/L3 VPN) to build a unified and converged network platform.\nMLAG which can build an Active-Active system to improve the reliability of the network links from single board grade to device grade.\nImplementing Vxlan and BGP protocols to build EVPN applications for data centers scenario.\nSwitch-to-switch encryption using MACsec (Media Access Control Security) AES-CMAC.\nPrecision Timing Protocol.\nRich L2/L3 features like IPv6, OSPF, BGP, PIM, etc.\nThe STH10G Series switches provide various power supply solutions for customers choosing, fixed single power supply, fixed redundant power supplies, and redundant hot-swappable power supplies (AC and DC are both available).\nThe Fan solutions also have multiple bays with Field replaceable fan modules and build in fans. Generally, air flow of STH10G Series is front to rear (AFO), and some of models can do a customization of rear to front (AFI) airflow.\nVersion: V1.5\nRelease Date: 2025/12/12\n\n[slide 2]\nTable 1: Feasible PSU and airflow of STH10G Series Switches\nThe STH10G Series switches support varied management ways, include console port / in-band network ports / out-of-band network port. Support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, SSL, etc. to ensure security of management.\nMoreover, leveraging its profound technical expertise and in-depth understanding of campus and enterprise networking needs, Saga Telecom has launched the Da Hu Cloud Management System (DHCS).\nIt enhances network management and maintenance efficiency, reduces costs, elevates management intelligence, and delivers a faster, smarter, more secure and reliable network to better meet user requirements.\nItems\tAC\tDC\tAFO\tAFI\tPower Input\tFAN\nSTH-8C48XF-HSI\t◯\t◯\t◯\t◯\t2\t4\nSTH-8C48XF-SFI\t◯\tX\t◯\tX\t1\t4\nSTH-4C16DX32XF-HSI\t◯\t◯\t◯\t◯\t2\t4\nSTH-4C16DX32XF-SFI\t◯\tX\t◯\tX\t1\t4\nSTH-8C24XF-HSI\t◯\t◯\t◯\t◯\t2\t4\nSTH-8C24XF-SFI\t◯\tX\t◯\tX\t1\t4\n\n[slide 3]\nVisual WEB UI\nSTOS allows you to quickly configure common configuration items using a visual WEB UI, which lowers the application threshold for users.\n\n[slide 4]\nTable 2: Family of the STH10G Series switches\nThe STH10G family of Ethernet switches consist of the following models\nModels\tEthernet Ports\tManagement\tPSU 1/PSU 2\tCooling\nSTH-8C48XF-HSI\t48 x 10G SFP+ + 8 x 100G QSFP 28\tConsole: RJ45 to RS232 \nEthernet: 1G Port Storage: USB\t550W / 550W CRPS\t4 x Fan Modules (front-to-back airflow)\nSTH-8C48XF-SFI\t48 x 10G SFP+ + 8 x 100G QSFP 28\tConsole: RJ45 to RS232 \nEthernet: 1G Port Storage: USB\tFixed single power supply\t4 x fixed fans (front-to-back airflow)\nSTH-4C16DX32XF-HSI\t32 x 10G SFP+ \n+16x 10G/25G SFP28, \n4 x 100G QSFP28\tConsole: RJ45 to  RS232 \nEthernet: 1G Port Storage: USB\t550W / 550W CRPS\t4 x Fan Modules (front-to-back airflow)\nSTH-4C16DX32XF-SFI\t32*10G SFP+ +16*10G/25G SFP28, 4*100G QSFP28\tConsole: RJ45 to  RS232 \nEthernet: 1G Port Storage: USB\tFixed single power supply\t4 x fixed fans (front-to-back airflow)\nSTH-8C24XF-HSI\t24 x 10G SFP+ + 8 x 100G QSFP 28\tConsole: RJ45 to RS232 \nEthernet: 1G Port Storage: USB\t350W / 350W CRPS\t2 x Fan Modules (front-to-back airflow)\nSTH-8C24XF-SFI\t24 x 10G SFP+ + 8 x 100G QSFP 28\tConsole: RJ45 to  RS232 \nEthernet: 1G Port Storage: USB\tFixed single power supply\t4 x fixed fans (front-to-back airflow)\n\n[slide 5]\nSTH10G Physical Specifications\nPacket Switch capacity (Gbps)\nSTH-8C48XF-HSI: 2560 Gbps (bidirectional)\nSTH-8C48XF-SFI: 2560 Gbps (bidirectional)\nSTH-4C16DX32XF-HSI: 2.24Tbps (bidirectional)\nSTH-4C16DX32XF-SFI: 2.24Tbps (bidirectional)\nSTH-8C24XF-HSI: 2080 Gbps (bidirectional)\nSTH-8C24XF-SFI: 2080 Gbps (bidirectional)\nWeight (Net weight/Gross weight)\nSTH-8C48XF-HSI: 7.9Kg/10.1Kg\nSTH-8C48XF-SFI: 5.9Kg/8.1Kg\nSTH-4C16DX32XF-HSI: 7.5Kg/9.7Kg\nSTH-4C16DX32XF-SFI: 5Kg/7.2Kg\nSTH-8C24XF-HSI: 6.6Kg/8.8Kg\nSTH-8C24XF-SFI: 4.1Kg/6.3Kg\nLayer 2/Layer 3 Throughput (Mpps)\nSTH-8C48XF-HSI: 3809.28Mpps (bidirectional)\nSTH-8C48XF-SFI: 3809.28Mpps (bidirectional)\nSTH-4C16DX32XF-HSI: 3.333Gpps (bidirectional)\nSTH-4C16DX32XF-SFI: 3.333Gpps (bidirectional)\nSTH-8C24XF-HSI: 3095.04Mpps (bidirectional)\nSTH-8C24XF-SFI: 3095.04Mpps (bidirectional)\nDimensions (W x H x D)  without package\nSTH-8C48XF-HSI: 44.2×4.4×42 cm\nSTH-8C48XF-SFI: 44.2×4.4×35.5 cm\nSTH-4C16DX32XF-HSI: 44.2×4.4×42 cm\nSTH-4C16DX32XF-SFI: 44.2×4.4×35.6 cm\nSTH-8C24XF-HSI: 44.2×4.4×41 cm\nSTH-8C24XF-SFI: 44.2×4.4×35.7 cm\nTemperature alarm\nAlarm threshold: 50ºC\nDimensions (W x H x D)  with package\nSTH-8C48XF-HSI: 66.5×15×56.5 cm\nSTH-8C48XF-SFI: 55.7×15×49.5 cm\nSTH-4C16DX32XF-HSI: 66.5×15×56.5 cm\nSTH-4C16DX32XF-SFI: 55.7×15×49.5 cm\nSTH-8C24XF-HSI: 55.7×15×49.5 cm\nSTH-8C24XF-SFI: 55.7×15×49.5 cm\nMTBF\nHSI (Swapable PSU and FAN):≥ 90000h (~10.3 Years)\nSFI (Fixed PSU and FAN): ≥70000h\n(~8.0 Years)\nCPU\nDual-core processor, ARM A53(1.2GHz) on following models\nSTH-8C48XF-HSI\nSTH-8C48XF-SFI\nSTH-4C16DX32XF-HSI\nSTH-4C16DX32XF-SFI\nSTH-8C24XF-HSI\nSTH-8C24XF-SFI\nMemory\neMMc: 8GB on all models\nDRAM: 2GB on all models\n\n[slide 6]\nPower consumption\nWorst case, all ports used, line-rate traffic\nSTH-8C48XF-HSI: 140.36W\nSTH-8C48XF-SFI: 138.38W\nSTH-4C16DX32XF-HSI: 122W\nSTH-4C16DX32XF-SFI: 119.68W\nSTH-8C24XF-HSI: 117W\nSTH-8C24XF-SFI: 98.7W\nTypical power consumption\nSTH-8C48XF-HSI: 129.14W\nSTH-8C48XF-SFI: 128.26W\nSTH-8C24XF-HSI: 105W\nSTH-8C24XF-SFI: 91.74W\nSTH-4C16DX32XF-HSI: 110W\nSTH-4C16DX32XF-SFI: 108.02W\nEnvironmental ranges\nOperating temperature: 0ºC to 45ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90% (No condensation)\nStore Humidity: 5% to 95% (No condensation)\nOperating altitude\nSTH-8C48XF-HSI: 0~5Km\nSTH-8C48XF-SFI: 0~3Km\nSTH-4C16DX32XF-HSI: 0~5Km\nSTH-4C16DX32XF-SFI: 0~3Km\nSTH-8C24XF-HSI: 0~5Km\nSTH-8C24XF-SFI: 0~3Km\n\n[slide 7]\nSTH10G Software Specifications\nSaga Telecom implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘STOS Software features’ .\n* All Saga Telecom switches use a normalized software platform and image package file\n* Unified software version iteration plan\n* Unified user experience\nSTOS Network Platform\nLayer 2 switching\nIPv4/lPv6 Unicast Routing\nQoS\nIP Multicast Snooping/Proxy\nIPv4/lPv6 Multi cast Routing\nVRRP\nMultiprotocol Label Switching(MPLS)\nVirtual Private LAN Service(VPLS)\nVirtual Routing and Switching\nGeneralized Multiprotocol LabelSwitching(GMPLS)\nIPv6 Tunneling and TransitionTechnologies\nIP/MPLS OAM\nService management module\nFault Managemet (FM)\nHigh Availability (HA)\nIntegrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)\nHardware and platform abstraction layer\nAdvanced integration Suite\nCENTEC swtich chip  SDK\nSilicon in Pizza, Stacking or Chassis\nConfiguration\nOperating Systems TCP/IP Stacks\nLinux , IPv4/Pv6 Dual Stack\nH\nCENTEC Switch Chipset\nCPU Subsystem\nCooling SubSystem\nAC/DC DC/DC CLK\nEnvironmental Management Subsystem\nLogical Control Subunit\n\n[slide 8]\nOrdering Information\nSTH10G Series Switches\nAC/DC Power Supplies use for STH10G Series HSI models\nItem\tDescription\nSTH-8C48XF-HSI\t10G Data Center Switch with 48*10G SFP+, 8*100G QSFP28, Dual power supply modules, 4 hot-swap fan modules\nSTH-8C48XF-SFI\t10G Enterprise and Campus Network Switch with 48*10G SFP+, 8*100G QSFP28, Fixed single power supply, 4 Fixed Fans\nSTH-4C16DX32XF-HSI\t10G Data Center Switch with 32*10G SFP+, 16*10G/25G SFP28, 4*100G QSFP28, Dual power supply modules, 2 hot-swap fan modules\nSTH-4C16DX32XF-SFI\t10G Data Center Switch with 32*10G SFP+, 16*10G/25G SFP28, 4*100G QSFP28,  Fixed single power supply, 4 Fixed Fans\nSTH-8C24XF-HSI\t10G Data Center Switch with 24*10G SFP+, 8*100G QSFP28, Dual power supply modules, 2 hot-swap fan modules\nSTH-8C24XF-SFI\t10G Enterprise and Campus Network Switch with 24*10G SFP+, 8*100G QSFP28, Fixed single power supply, 4 Fixed Fans\nItems\tDescription\nPSU-350-AC-AFO\t350W AC power supply (front-to-back airflow)\nPSU-550-DC-AFO\t550W DC power supply (front-to-back airflow)\nPSU-550-AC-AFO\t550W AC PoE power supply (front-to-back airflow)\nPSU-550-DC-AFO\t550W DC PoE power supply (front-to-back airflow)\n\n[slide 9]\nSoftware Licenses\nAccessory of STH10G Series\nItems\tDescription\nSoftware License\tEB, Basic L3 software features, Preinstalled on SFI models\nSoftware License\tMS, L3 enhance features software license key, Preinstalled on HSI models\nSoftware License\tMA, MPLS features software license key\nSoftware License\tST, Stacking feature software license key\nItems\tFront Mounting\tRear Mounting\tScrew\tPower Cord\tConsole (RS232 to RJ45)\nSTH-8C48XF-HSI\t2\t2\t14\t2\t1\nSTH-8C48XF-SFI\t2\t/\t14\t1\t1\nSTH-4C16DX32XF-HSI\t2\t2\t14\t2\t1\nSTH-4C16DX32XF-SFI\t2\t/\t14\t1\t1\nSTH-8C24XF-HSI\t2\t2\t14\t2\t1\nSTH-8C24XF-SFI\t2\t/\t14\t1\t1",
+"slides":[
+{
+"n":1,
+"items":[
+{
+"t":"p",
+"text":"STH10G SERIES SWITCHES\nDATASHEET\n10G Enterprise Switch"
+},
+{
+"t":"p",
+"text":"Product Overview"
+},
+{
+"t":"p",
+"text":"The STH10G Series switches are designed based on new generations of domestic Switch Chips platform — BigFlow Series Chip platform\nWith outstanding performance and cost efficiency, the STH10G Series switches have various port options and offer rich L2/L3 features, making them the perfect choice as aggregation or access switches for enterprise, government, specific industry networks."
+},
+{
+"t":"p",
+"text":"Key features of the STH10G Series Switches"
+},
+{
+"t":"p",
+"text":"Support MPLS features (L2/L3 VPN) to build a unified and converged network platform.\nMLAG which can build an Active-Active system to improve the reliability of the network links from single board grade to device grade.\nImplementing Vxlan and BGP protocols to build EVPN applications for data centers scenario.\nSwitch-to-switch encryption using MACsec (Media Access Control Security) AES-CMAC.\nPrecision Timing Protocol.\nRich L2/L3 features like IPv6, OSPF, BGP, PIM, etc."
+},
+{
+"t":"p",
+"text":"The STH10G Series switches provide various power supply solutions for customers choosing, fixed single power supply, fixed redundant power supplies, and redundant hot-swappable power supplies (AC and DC are both available).\nThe Fan solutions also have multiple bays with Field replaceable fan modules and build in fans. Generally, air flow of STH10G Series is front to rear (AFO), and some of models can do a customization of rear to front (AFI) airflow."
+},
+{
+"t":"p",
+"text":"Version: V1.5\nRelease Date: 2025/12/12"
+},
+{
+"t":"picture",
+"name":"图片 14"
+}
+],
+"notes":""
+},
+{
+"n":2,
+"items":[
+{
+"t":"picture",
+"name":"Picture 2"
+},
+{
+"t":"p",
+"text":"Table 1: Feasible PSU and airflow of STH10G Series Switches"
+},
+{
+"t":"p",
+"text":"The STH10G Series switches support varied management ways, include console port / in-band network ports / out-of-band network port. Support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, SSL, etc. to ensure security of management.\nMoreover, leveraging its profound technical expertise and in-depth understanding of campus and enterprise networking needs, Saga Telecom has launched the Da Hu Cloud Management System (DHCS).\nIt enhances network management and maintenance efficiency, reduces costs, elevates management intelligence, and delivers a faster, smarter, more secure and reliable network to better meet user requirements."
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"AC",
+"DC",
+"AFO",
+"AFI",
+"Power Input",
+"FAN"
+],
+[
+"STH-8C48XF-HSI",
+"◯",
+"◯",
+"◯",
+"◯",
+"2",
+"4"
+],
+[
+"STH-8C48XF-SFI",
+"◯",
+"X",
+"◯",
+"X",
+"1",
+"4"
+],
+[
+"STH-4C16DX32XF-HSI",
+"◯",
+"◯",
+"◯",
+"◯",
+"2",
+"4"
+],
+[
+"STH-4C16DX32XF-SFI",
+"◯",
+"X",
+"◯",
+"X",
+"1",
+"4"
+],
+[
+"STH-8C24XF-HSI",
+"◯",
+"◯",
+"◯",
+"◯",
+"2",
+"4"
+],
+[
+"STH-8C24XF-SFI",
+"◯",
+"X",
+"◯",
+"X",
+"1",
+"4"
+]
+]
+},
+{
+"t":"picture",
+"name":"图片 10"
+}
+],
+"notes":""
+},
+{
+"n":3,
+"items":[
+{
+"t":"picture",
+"name":"Picture 2"
+},
+{
+"t":"p",
+"text":"Visual WEB UI"
+},
+{
+"t":"p",
+"text":"STOS allows you to quickly configure common configuration items using a visual WEB UI, which lowers the application threshold for users."
+},
+{
+"t":"picture",
+"name":"Picture 10"
+},
+{
+"t":"picture",
+"name":"Picture 4"
+}
+],
+"notes":""
+},
+{
+"n":4,
+"items":[
+{
+"t":"p",
+"text":"Table 2: Family of the STH10G Series switches"
+},
+{
+"t":"p",
+"text":"The STH10G family of Ethernet switches consist of the following models"
+},
+{
+"t":"picture",
+"name":"Picture 5"
+},
+{
+"t":"table",
+"rows":[
+[
+"Models",
+"Ethernet Ports",
+"Management",
+"PSU 1/PSU 2",
+"Cooling"
+],
+[
+"STH-8C48XF-HSI",
+"48 x 10G SFP+ + 8 x 100G QSFP 28",
+"Console: RJ45 to RS232 \nEthernet: 1G Port Storage: USB",
+"550W / 550W CRPS",
+"4 x Fan Modules (front-to-back airflow)"
+],
+[
+"STH-8C48XF-SFI",
+"48 x 10G SFP+ + 8 x 100G QSFP 28",
+"Console: RJ45 to RS232 \nEthernet: 1G Port Storage: USB",
+"Fixed single power supply",
+"4 x fixed fans (front-to-back airflow)"
+],
+[
+"STH-4C16DX32XF-HSI",
+"32 x 10G SFP+ \n+16x 10G/25G SFP28, \n4 x 100G QSFP28",
+"Console: RJ45 to  RS232 \nEthernet: 1G Port Storage: USB",
+"550W / 550W CRPS",
+"4 x Fan Modules (front-to-back airflow)"
+],
+[
+"STH-4C16DX32XF-SFI",
+"32*10G SFP+ +16*10G/25G SFP28, 4*100G QSFP28",
+"Console: RJ45 to  RS232 \nEthernet: 1G Port Storage: USB",
+"Fixed single power supply",
+"4 x fixed fans (front-to-back airflow)"
+],
+[
+"STH-8C24XF-HSI",
+"24 x 10G SFP+ + 8 x 100G QSFP 28",
+"Console: RJ45 to RS232 \nEthernet: 1G Port Storage: USB",
+"350W / 350W CRPS",
+"2 x Fan Modules (front-to-back airflow)"
+],
+[
+"STH-8C24XF-SFI",
+"24 x 10G SFP+ + 8 x 100G QSFP 28",
+"Console: RJ45 to  RS232 \nEthernet: 1G Port Storage: USB",
+"Fixed single power supply",
+"4 x fixed fans (front-to-back airflow)"
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":5,
+"items":[
+{
+"t":"p",
+"text":"STH10G Physical Specifications"
+},
+{
+"t":"p",
+"text":"Packet Switch capacity (Gbps)\nSTH-8C48XF-HSI: 2560 Gbps (bidirectional)\nSTH-8C48XF-SFI: 2560 Gbps (bidirectional)\nSTH-4C16DX32XF-HSI: 2.24Tbps (bidirectional)\nSTH-4C16DX32XF-SFI: 2.24Tbps (bidirectional)\nSTH-8C24XF-HSI: 2080 Gbps (bidirectional)\nSTH-8C24XF-SFI: 2080 Gbps (bidirectional)"
+},
+{
+"t":"p",
+"text":"Weight (Net weight/Gross weight)\nSTH-8C48XF-HSI: 7.9Kg/10.1Kg\nSTH-8C48XF-SFI: 5.9Kg/8.1Kg\nSTH-4C16DX32XF-HSI: 7.5Kg/9.7Kg\nSTH-4C16DX32XF-SFI: 5Kg/7.2Kg\nSTH-8C24XF-HSI: 6.6Kg/8.8Kg\nSTH-8C24XF-SFI: 4.1Kg/6.3Kg"
+},
+{
+"t":"p",
+"text":"Layer 2/Layer 3 Throughput (Mpps)\nSTH-8C48XF-HSI: 3809.28Mpps (bidirectional)\nSTH-8C48XF-SFI: 3809.28Mpps (bidirectional)\nSTH-4C16DX32XF-HSI: 3.333Gpps (bidirectional)\nSTH-4C16DX32XF-SFI: 3.333Gpps (bidirectional)\nSTH-8C24XF-HSI: 3095.04Mpps (bidirectional)\nSTH-8C24XF-SFI: 3095.04Mpps (bidirectional)"
+},
+{
+"t":"p",
+"text":"Dimensions (W x H x D)  without package\nSTH-8C48XF-HSI: 44.2×4.4×42 cm\nSTH-8C48XF-SFI: 44.2×4.4×35.5 cm\nSTH-4C16DX32XF-HSI: 44.2×4.4×42 cm\nSTH-4C16DX32XF-SFI: 44.2×4.4×35.6 cm\nSTH-8C24XF-HSI: 44.2×4.4×41 cm\nSTH-8C24XF-SFI: 44.2×4.4×35.7 cm"
+},
+{
+"t":"p",
+"text":"Temperature alarm\nAlarm threshold: 50ºC"
+},
+{
+"t":"p",
+"text":"Dimensions (W x H x D)  with package\nSTH-8C48XF-HSI: 66.5×15×56.5 cm\nSTH-8C48XF-SFI: 55.7×15×49.5 cm\nSTH-4C16DX32XF-HSI: 66.5×15×56.5 cm\nSTH-4C16DX32XF-SFI: 55.7×15×49.5 cm\nSTH-8C24XF-HSI: 55.7×15×49.5 cm\nSTH-8C24XF-SFI: 55.7×15×49.5 cm"
+},
+{
+"t":"p",
+"text":"MTBF\nHSI (Swapable PSU and FAN):≥ 90000h (~10.3 Years)\nSFI (Fixed PSU and FAN): ≥70000h\n(~8.0 Years)"
+},
+{
+"t":"p",
+"text":"CPU\nDual-core processor, ARM A53(1.2GHz) on following models\nSTH-8C48XF-HSI\nSTH-8C48XF-SFI\nSTH-4C16DX32XF-HSI\nSTH-4C16DX32XF-SFI\nSTH-8C24XF-HSI\nSTH-8C24XF-SFI"
+},
+{
+"t":"p",
+"text":"Memory\neMMc: 8GB on all models\nDRAM: 2GB on all models"
+}
+],
+"notes":""
+},
+{
+"n":6,
+"items":[
+{
+"t":"p",
+"text":"Power consumption\nWorst case, all ports used, line-rate traffic\nSTH-8C48XF-HSI: 140.36W\nSTH-8C48XF-SFI: 138.38W\nSTH-4C16DX32XF-HSI: 122W\nSTH-4C16DX32XF-SFI: 119.68W\nSTH-8C24XF-HSI: 117W\nSTH-8C24XF-SFI: 98.7W\nTypical power consumption\nSTH-8C48XF-HSI: 129.14W\nSTH-8C48XF-SFI: 128.26W\nSTH-8C24XF-HSI: 105W\nSTH-8C24XF-SFI: 91.74W\nSTH-4C16DX32XF-HSI: 110W\nSTH-4C16DX32XF-SFI: 108.02W"
+},
+{
+"t":"p",
+"text":"Environmental ranges\nOperating temperature: 0ºC to 45ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90% (No condensation)\nStore Humidity: 5% to 95% (No condensation)\nOperating altitude\nSTH-8C48XF-HSI: 0~5Km\nSTH-8C48XF-SFI: 0~3Km\nSTH-4C16DX32XF-HSI: 0~5Km\nSTH-4C16DX32XF-SFI: 0~3Km\nSTH-8C24XF-HSI: 0~5Km\nSTH-8C24XF-SFI: 0~3Km"
+}
+],
+"notes":""
+},
+{
+"n":7,
+"items":[
+{
+"t":"p",
+"text":"STH10G Software Specifications\nSaga Telecom implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘STOS Software features’ ."
+},
+{
+"t":"p",
+"text":"* All Saga Telecom switches use a normalized software platform and image package file\n* Unified software version iteration plan\n* Unified user experience"
+},
+{
+"t":"p",
+"text":"STOS Network Platform"
+},
+{
+"t":"p",
+"text":"Layer 2 switching"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Unicast Routing"
+},
+{
+"t":"p",
+"text":"QoS"
+},
+{
+"t":"p",
+"text":"IP Multicast Snooping/Proxy"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Multi cast Routing"
+},
+{
+"t":"p",
+"text":"VRRP"
+},
+{
+"t":"p",
+"text":"Multiprotocol Label Switching(MPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Private LAN Service(VPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Routing and Switching"
+},
+{
+"t":"p",
+"text":"Generalized Multiprotocol LabelSwitching(GMPLS)"
+},
+{
+"t":"p",
+"text":"IPv6 Tunneling and TransitionTechnologies"
+},
+{
+"t":"p",
+"text":"IP/MPLS OAM"
+},
+{
+"t":"p",
+"text":"Service management module"
+},
+{
+"t":"p",
+"text":"Fault Managemet (FM)"
+},
+{
+"t":"p",
+"text":"High Availability (HA)"
+},
+{
+"t":"p",
+"text":"Integrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)"
+},
+{
+"t":"p",
+"text":"Hardware and platform abstraction layer"
+},
+{
+"t":"p",
+"text":"Advanced integration Suite"
+},
+{
+"t":"p",
+"text":"CENTEC swtich chip  SDK"
+},
+{
+"t":"p",
+"text":"Silicon in Pizza, Stacking or Chassis\nConfiguration"
+},
+{
+"t":"p",
+"text":"Operating Systems TCP/IP Stacks"
+},
+{
+"t":"p",
+"text":"Linux , IPv4/Pv6 Dual Stack"
+},
+{
+"t":"p",
+"text":"H"
+},
+{
+"t":"p",
+"text":"CENTEC Switch Chipset"
+},
+{
+"t":"p",
+"text":"CPU Subsystem"
+},
+{
+"t":"p",
+"text":"Cooling SubSystem"
+},
+{
+"t":"p",
+"text":"AC/DC DC/DC CLK"
+},
+{
+"t":"p",
+"text":"Environmental Management Subsystem"
+},
+{
+"t":"p",
+"text":"Logical Control Subunit"
+}
+],
+"notes":""
+},
+{
+"n":8,
+"items":[
+{
+"t":"p",
+"text":"Ordering Information\nSTH10G Series Switches"
+},
+{
+"t":"table",
+"rows":[
+[
+"Item",
+"Description"
+],
+[
+"STH-8C48XF-HSI",
+"10G Data Center Switch with 48*10G SFP+, 8*100G QSFP28, Dual power supply modules, 4 hot-swap fan modules"
+],
+[
+"STH-8C48XF-SFI",
+"10G Enterprise and Campus Network Switch with 48*10G SFP+, 8*100G QSFP28, Fixed single power supply, 4 Fixed Fans"
+],
+[
+"STH-4C16DX32XF-HSI",
+"10G Data Center Switch with 32*10G SFP+, 16*10G/25G SFP28, 4*100G QSFP28, Dual power supply modules, 2 hot-swap fan modules"
+],
+[
+"STH-4C16DX32XF-SFI",
+"10G Data Center Switch with 32*10G SFP+, 16*10G/25G SFP28, 4*100G QSFP28,  Fixed single power supply, 4 Fixed Fans"
+],
+[
+"STH-8C24XF-HSI",
+"10G Data Center Switch with 24*10G SFP+, 8*100G QSFP28, Dual power supply modules, 2 hot-swap fan modules"
+],
+[
+"STH-8C24XF-SFI",
+"10G Enterprise and Campus Network Switch with 24*10G SFP+, 8*100G QSFP28, Fixed single power supply, 4 Fixed Fans"
+]
+]
+},
+{
+"t":"p",
+"text":"AC/DC Power Supplies use for STH10G Series HSI models"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"PSU-350-AC-AFO",
+"350W AC power supply (front-to-back airflow)"
+],
+[
+"PSU-550-DC-AFO",
+"550W DC power supply (front-to-back airflow)"
+],
+[
+"PSU-550-AC-AFO",
+"550W AC PoE power supply (front-to-back airflow)"
+],
+[
+"PSU-550-DC-AFO",
+"550W DC PoE power supply (front-to-back airflow)"
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":9,
+"items":[
+{
+"t":"p",
+"text":"Software Licenses"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"Software License",
+"EB, Basic L3 software features, Preinstalled on SFI models"
+],
+[
+"Software License",
+"MS, L3 enhance features software license key, Preinstalled on HSI models"
+],
+[
+"Software License",
+"MA, MPLS features software license key"
+],
+[
+"Software License",
+"ST, Stacking feature software license key"
+]
+]
+},
+{
+"t":"p",
+"text":"Accessory of STH10G Series"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Front Mounting",
+"Rear Mounting",
+"Screw",
+"Power Cord",
+"Console (RS232 to RJ45)"
+],
+[
+"STH-8C48XF-HSI",
+"2",
+"2",
+"14",
+"2",
+"1"
+],
+[
+"STH-8C48XF-SFI",
+"2",
+"/",
+"14",
+"1",
+"1"
+],
+[
+"STH-4C16DX32XF-HSI",
+"2",
+"2",
+"14",
+"2",
+"1"
+],
+[
+"STH-4C16DX32XF-SFI",
+"2",
+"/",
+"14",
+"1",
+"1"
+],
+[
+"STH-8C24XF-HSI",
+"2",
+"2",
+"14",
+"2",
+"1"
+],
+[
+"STH-8C24XF-SFI",
+"2",
+"/",
+"14",
+"1",
+"1"
+]
+]
+}
+],
+"notes":""
+}
+],
+"extracted_at":"2026-10-23T05:03:47Z"
+}

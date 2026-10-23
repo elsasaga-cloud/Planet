@@ -1,0 +1,25 @@
+{
+"id":"Extra_Info__Reference_Info__seo_ecer.mp4__72444b2c",
+"path":"Extra_Info/Reference Info/seo_ecer.mp4",
+"name":"seo_ecer.mp4",
+"ext":".mp4",
+"bytes":65641673,
+"sha256":"72444b2cad123874cf6e8f05ad19bdc4596b3e2c3c5eb2e4558a239b2088770e",
+"source":"Extra_Info.zip",
+"method":"ffprobe+ffmpeg",
+"status":"meta",
+"meta":{
+"duration_s":1065.7,
+"width":1440,
+"height":900,
+"vcodec":"h264",
+"acodec":"aac",
+"creation_time":"2021-02-18T02:52:16.000000Z",
+"thumb_bytes":4748
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:08:45Z",
+"thumb":"thumbs/Extra_Info__Reference_Info__seo_ecer.mp4__72444b2c.jpg"
+}

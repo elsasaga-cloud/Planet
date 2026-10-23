@@ -1,0 +1,18 @@
+{
+"id":"Extra_Info__Saga_SEO__CN_Site__sagatelecom-cn-20260807.html__6e430c1f",
+"path":"Extra_Info/Saga SEO/CN Site/sagatelecom-cn-20260807.html",
+"name":"sagatelecom-cn-20260807.html",
+"ext":".html",
+"bytes":37172,
+"sha256":"6e430c1f06961c10a60ea3b666bee85ea7a15853df77dc9ed7d8b1aa77808fb0",
+"source":"Extra_Info.zip",
+"method":"none",
+"status":"meta",
+"meta":{},
+"warnings":[
+"no extractor for .html"
+],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:02:17Z"
+}

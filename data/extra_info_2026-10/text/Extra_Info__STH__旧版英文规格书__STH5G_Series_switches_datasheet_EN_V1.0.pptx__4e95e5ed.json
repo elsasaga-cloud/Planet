@@ -1,0 +1,422 @@
+{
+"id":"Extra_Info__STH__旧版英文规格书__STH5G_Series_switches_datasheet_EN_V1.0.pptx__4e95e5ed",
+"path":"Extra_Info/STH/旧版英文规格书/STH5G Series switches datasheet_EN_V1.0.pptx",
+"name":"STH5G Series switches datasheet_EN_V1.0.pptx",
+"ext":".pptx",
+"bytes":409891,
+"sha256":"4e95e5eda74f99d478c7528a3273d67bcea73b8ac8bb4fd08eb7fa73b31792bd",
+"source":"Extra_Info.zip",
+"method":"python-pptx",
+"status":"ok",
+"meta":{
+"slides":5,
+"pictures":2
+},
+"warnings":[],
+"chars":4934,
+"text":"[slide 1]\nSTH5G SERIESSTH5G SERIES SWITCHES\nDATASHEET\nFlexible Campus and Enterprise Switch\nVersion: V1.0\nRelease Date: 2024/10/08\nProduct Overview\nThe STH5G Series switches are designed a domestic new generation switch chip which is carried on VastLakes Platform.\nWith various ports and compact 1U form factor, STH5G series switches provide complete Layer 3 network features to meet the requirement of Metro/Enterprise/HCI networks.\nKey Features of the STH5G Series Switches\n2.5G downlink ports and various uplink ports to meet different network requirements.\nRich L2/L3 features such as IPv6, OSPF, BGP, PIM etc.\nSupport CLI/WEB/SNMP/SSH for flexible operation.\nThe STH5G series switches provide various power supply solutions for customers choosing. Generally, air flow of STH5G series is front to back (AFO), and some of models can do customization of back to front (AFI) airflow.\nTable 1: Feasible PSU and Airflow of STH5G Series\nItems\tAC\tDC\tPoE\tAFO\tAFI\tPower Input\tFAN\nS5048-4X2Q-EI\t◯\t◯\tNone\t◯\t◯\t2\t2\nS5048-4X2Q-SI\t◯\t×\tNone\t◯\t×\t1\t4\n\n[slide 2]\nThe STH5G series switches support varied management ways, include console, and support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, etc. to ensure security of management.\nVisual WEB GUI\nThe STH5G series allows you to quickly configure common configuration items using a visual WEB GUI, which lowers the application threshold for users.\nTable 2: Models of the STH5G Series switches\nThe STH5G family of Ethernet switches consists of the following models:\nModels\tEthernet Ports\tManagement\tPSU 1/PSU 2\tCooling\nS5048-4X2Q-EI\t48 x 100M/1G/2.5G Base-T, 4 x 25G/10G SFP28, 2 x 40G QSFP+\tConsole: RJ45 to RS232\u000bEthernet: 1G Port\t350W/350W\t2 x Fan modules\u000b(front-to-back airflow)\nS5048-4X2Q-SI\t48 x 100M/1G/2.5G Base-T, 4 x 25G/10G SFP28, 2 x 40G QSFP+\tConsole: RJ45 to RS232\u000bEthernet: 1G Port\tFixed single 96W power supply\t4 x Fixed fans\u000b(front-to-back airflow)\n\n[slide 3]\nSTH5G Physical Specifications\nPacket Switch Capacity\nS5048-4X2Q-EI: 600Gbps (bidirectional)\nS5048-4X2Q-SI: 600Gbps (bidirectional)\nLayer 2/Layer 3 Throughput (Mpps)\nS5048-4X2Q-EI: 892.8Mbps (bidirectional)\nS5048-4X2Q-SI: 892.8Mbps (bidirectional)\nCooling [CFM] - Total maximum airflow\nS5048-4X2Q-EI: 68.76\nS5048-4X2Q-SI: 46.48\nPower consumption\nWorst case, all ports used, line-rate traffic\nS5048-4X2Q-SI: 66W\nWeight (Net/Gross)\nS5048-4X2Q-EI: 7.2KG/10.3KG\nS5048-4X2Q-SI: 6KG/8.3KG\nTemperature alarm\nAlarm threshold: 50ºC\nDimensions (W x H x D) without Package\nS5048-4X2Q-EI: 442*44*357mm\nS5048-4X2Q-SI: 442*44*290mm\nMTBF (Hours)\nS5048-4X2Q-EI: ≥90000\nS5048-4X2Q-SI: ≥70000\nCPU\nDualcore, ARM A53(1.2GHz)\nMemory\neMMc: 8GB\nDRAM: 2GB\nEnvironmental ranges\nOperating temperature: 0ºC to 40ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90% (No condensation)\nStore Humidity: 5 to 95% (No condensation)\nOperating altitude: ≤5000m\nDimensions (W x H x D) with Package\nS5048-4X2Q-EI: 557*150*495mm\nS5048-4X2Q-SI: 557*150*495mm\n\n[slide 4]\nSTH5G Software Specifications\nSaga Telecom implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘STOS Software features’ .\nAll Saga Telecom high-speed switches use a normalized software platform and image package file\nUnified software version iteration plan\nUnified user experience\nSTOS Network Platform\nLayer 2 switching\nIPv4/lPv6 Unicast Routing\nQoS\nIP Multicast Snooping/Proxy\nIPv4/lPv6 Multi cast Routing\nVRRP\nMultiprotocol Label Switching(MPLS)\nVirtual Private LAN Service(VPLS)\nVirtual Routing and Switching\nGeneralized Multi protocol Label Switching(GMPLS)\nIPv6 Tunneling and TransitionTechnologies\nIP/MPLS OAM\nService management module\nFault Managemet (FM)\nHigh Availability (HA)\nIntegrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)\nHardware and platform abstraction layer\nAdvanced integration Suite\nCENTEC swtich chip SDK\nSilicon in Pizza, Stacking or Chassis\nConfiguration\nOperating Systems TCP/IP Stacks\nLinux , IPv4/Pv6 Dual Stack\nHardware layer\nCENTEC Switch Chipset\nCPU Subsystem\nCooling SubSystem\nAC/DC DC/DC CLK\nEnvironmental Management Subsystem\nLogical Control Subunit\n\n[slide 5]\nOrdering Information\nSTH5G Series Switches\nAC/DC Power Supplies use for STH5G Series Switches.\nAccessory of STH5G Series\nItems\tDescription\nS5048-4X2Q-EI\t2.5G enterprise switch, with 48 x 100M/1G/2.5G Base-T, 4 x 25G/10G SFP28, 2 x 40G QSFP+, Dual power supply modules, 2 Hot-swappable fan modules.\nS5048-4X2Q-SI\t2.5G enterprise switch, with 48 x 100M/1G/2.5G Base-T, 4 x 25G/10G SFP28, 2 x 40G QSFP+, Fixed single power supplies, 4 Fixed fans.\nItems\tDescription\nPSU-350-AC-AFO\tSTH5G  Series 350 W AC power supply (front-to-back airflow)\nItems\tFront Mounting\tRear Mounting\tScrew\tPower Cord\tConsole (DB9 to RJ45)\tPad\nS5048-4X2Q-EI\t2\t2\t14\t2\t1\t4\nS5048-4X2Q-SI\t2\t2\t14\t1\t1\t4",
+"slides":[
+{
+"n":1,
+"items":[
+{
+"t":"p",
+"text":"STH5G SERIESSTH5G SERIES SWITCHES\nDATASHEET\nFlexible Campus and Enterprise Switch\nVersion: V1.0\nRelease Date: 2024/10/08"
+},
+{
+"t":"p",
+"text":"Product Overview"
+},
+{
+"t":"p",
+"text":"The STH5G Series switches are designed a domestic new generation switch chip which is carried on VastLakes Platform.\nWith various ports and compact 1U form factor, STH5G series switches provide complete Layer 3 network features to meet the requirement of Metro/Enterprise/HCI networks."
+},
+{
+"t":"p",
+"text":"Key Features of the STH5G Series Switches"
+},
+{
+"t":"p",
+"text":"2.5G downlink ports and various uplink ports to meet different network requirements.\nRich L2/L3 features such as IPv6, OSPF, BGP, PIM etc.\nSupport CLI/WEB/SNMP/SSH for flexible operation."
+},
+{
+"t":"p",
+"text":"The STH5G series switches provide various power supply solutions for customers choosing. Generally, air flow of STH5G series is front to back (AFO), and some of models can do customization of back to front (AFI) airflow."
+},
+{
+"t":"p",
+"text":"Table 1: Feasible PSU and Airflow of STH5G Series"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"AC",
+"DC",
+"PoE",
+"AFO",
+"AFI",
+"Power Input",
+"FAN"
+],
+[
+"S5048-4X2Q-EI",
+"◯",
+"◯",
+"None",
+"◯",
+"◯",
+"2",
+"2"
+],
+[
+"S5048-4X2Q-SI",
+"◯",
+"×",
+"None",
+"◯",
+"×",
+"1",
+"4"
+]
+]
+},
+{
+"t":"picture",
+"name":"图片 10"
+}
+],
+"notes":""
+},
+{
+"n":2,
+"items":[
+{
+"t":"p",
+"text":"The STH5G series switches support varied management ways, include console, and support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, etc. to ensure security of management."
+},
+{
+"t":"p",
+"text":"Visual WEB GUI"
+},
+{
+"t":"p",
+"text":"The STH5G series allows you to quickly configure common configuration items using a visual WEB GUI, which lowers the application threshold for users."
+},
+{
+"t":"p",
+"text":"Table 2: Models of the STH5G Series switches"
+},
+{
+"t":"table",
+"rows":[
+[
+"Models",
+"Ethernet Ports",
+"Management",
+"PSU 1/PSU 2",
+"Cooling"
+],
+[
+"S5048-4X2Q-EI",
+"48 x 100M/1G/2.5G Base-T, 4 x 25G/10G SFP28, 2 x 40G QSFP+",
+"Console: RJ45 to RS232\u000bEthernet: 1G Port",
+"350W/350W",
+"2 x Fan modules\u000b(front-to-back airflow)"
+],
+[
+"S5048-4X2Q-SI",
+"48 x 100M/1G/2.5G Base-T, 4 x 25G/10G SFP28, 2 x 40G QSFP+",
+"Console: RJ45 to RS232\u000bEthernet: 1G Port",
+"Fixed single 96W power supply",
+"4 x Fixed fans\u000b(front-to-back airflow)"
+]
+]
+},
+{
+"t":"p",
+"text":"The STH5G family of Ethernet switches consists of the following models:"
+},
+{
+"t":"picture",
+"name":"图片 12"
+}
+],
+"notes":""
+},
+{
+"n":3,
+"items":[
+{
+"t":"p",
+"text":"STH5G Physical Specifications"
+},
+{
+"t":"p",
+"text":"Packet Switch Capacity\nS5048-4X2Q-EI: 600Gbps (bidirectional)\nS5048-4X2Q-SI: 600Gbps (bidirectional)"
+},
+{
+"t":"p",
+"text":"Layer 2/Layer 3 Throughput (Mpps)\nS5048-4X2Q-EI: 892.8Mbps (bidirectional)\nS5048-4X2Q-SI: 892.8Mbps (bidirectional)"
+},
+{
+"t":"p",
+"text":"Cooling [CFM] - Total maximum airflow\nS5048-4X2Q-EI: 68.76\nS5048-4X2Q-SI: 46.48"
+},
+{
+"t":"p",
+"text":"Power consumption\nWorst case, all ports used, line-rate traffic\nS5048-4X2Q-SI: 66W"
+},
+{
+"t":"p",
+"text":"Weight (Net/Gross)\nS5048-4X2Q-EI: 7.2KG/10.3KG\nS5048-4X2Q-SI: 6KG/8.3KG"
+},
+{
+"t":"p",
+"text":"Temperature alarm\nAlarm threshold: 50ºC"
+},
+{
+"t":"p",
+"text":"Dimensions (W x H x D) without Package\nS5048-4X2Q-EI: 442*44*357mm\nS5048-4X2Q-SI: 442*44*290mm"
+},
+{
+"t":"p",
+"text":"MTBF (Hours)\nS5048-4X2Q-EI: ≥90000\nS5048-4X2Q-SI: ≥70000"
+},
+{
+"t":"p",
+"text":"CPU\nDualcore, ARM A53(1.2GHz)"
+},
+{
+"t":"p",
+"text":"Memory\neMMc: 8GB\nDRAM: 2GB"
+},
+{
+"t":"p",
+"text":"Environmental ranges\nOperating temperature: 0ºC to 40ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90% (No condensation)\nStore Humidity: 5 to 95% (No condensation)\nOperating altitude: ≤5000m"
+},
+{
+"t":"p",
+"text":"Dimensions (W x H x D) with Package\nS5048-4X2Q-EI: 557*150*495mm\nS5048-4X2Q-SI: 557*150*495mm"
+}
+],
+"notes":""
+},
+{
+"n":4,
+"items":[
+{
+"t":"p",
+"text":"STH5G Software Specifications\nSaga Telecom implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘STOS Software features’ ."
+},
+{
+"t":"p",
+"text":"All Saga Telecom high-speed switches use a normalized software platform and image package file\nUnified software version iteration plan\nUnified user experience"
+},
+{
+"t":"p",
+"text":"STOS Network Platform"
+},
+{
+"t":"p",
+"text":"Layer 2 switching"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Unicast Routing"
+},
+{
+"t":"p",
+"text":"QoS"
+},
+{
+"t":"p",
+"text":"IP Multicast Snooping/Proxy"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Multi cast Routing"
+},
+{
+"t":"p",
+"text":"VRRP"
+},
+{
+"t":"p",
+"text":"Multiprotocol Label Switching(MPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Private LAN Service(VPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Routing and Switching"
+},
+{
+"t":"p",
+"text":"Generalized Multi protocol Label Switching(GMPLS)"
+},
+{
+"t":"p",
+"text":"IPv6 Tunneling and TransitionTechnologies"
+},
+{
+"t":"p",
+"text":"IP/MPLS OAM"
+},
+{
+"t":"p",
+"text":"Service management module"
+},
+{
+"t":"p",
+"text":"Fault Managemet (FM)"
+},
+{
+"t":"p",
+"text":"High Availability (HA)"
+},
+{
+"t":"p",
+"text":"Integrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)"
+},
+{
+"t":"p",
+"text":"Hardware and platform abstraction layer"
+},
+{
+"t":"p",
+"text":"Advanced integration Suite"
+},
+{
+"t":"p",
+"text":"CENTEC swtich chip SDK"
+},
+{
+"t":"p",
+"text":"Silicon in Pizza, Stacking or Chassis\nConfiguration"
+},
+{
+"t":"p",
+"text":"Operating Systems TCP/IP Stacks"
+},
+{
+"t":"p",
+"text":"Linux , IPv4/Pv6 Dual Stack"
+},
+{
+"t":"p",
+"text":"Hardware layer"
+},
+{
+"t":"p",
+"text":"CENTEC Switch Chipset"
+},
+{
+"t":"p",
+"text":"CPU Subsystem"
+},
+{
+"t":"p",
+"text":"Cooling SubSystem"
+},
+{
+"t":"p",
+"text":"AC/DC DC/DC CLK"
+},
+{
+"t":"p",
+"text":"Environmental Management Subsystem"
+},
+{
+"t":"p",
+"text":"Logical Control Subunit"
+}
+],
+"notes":""
+},
+{
+"n":5,
+"items":[
+{
+"t":"p",
+"text":"Ordering Information\nSTH5G Series Switches"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"S5048-4X2Q-EI",
+"2.5G enterprise switch, with 48 x 100M/1G/2.5G Base-T, 4 x 25G/10G SFP28, 2 x 40G QSFP+, Dual power supply modules, 2 Hot-swappable fan modules."
+],
+[
+"S5048-4X2Q-SI",
+"2.5G enterprise switch, with 48 x 100M/1G/2.5G Base-T, 4 x 25G/10G SFP28, 2 x 40G QSFP+, Fixed single power supplies, 4 Fixed fans."
+]
+]
+},
+{
+"t":"p",
+"text":"AC/DC Power Supplies use for STH5G Series Switches."
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"PSU-350-AC-AFO",
+"STH5G  Series 350 W AC power supply (front-to-back airflow)"
+]
+]
+},
+{
+"t":"p",
+"text":"Accessory of STH5G Series"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Front Mounting",
+"Rear Mounting",
+"Screw",
+"Power Cord",
+"Console (DB9 to RJ45)",
+"Pad"
+],
+[
+"S5048-4X2Q-EI",
+"2",
+"2",
+"14",
+"2",
+"1",
+"4"
+],
+[
+"S5048-4X2Q-SI",
+"2",
+"2",
+"14",
+"1",
+"1",
+"4"
+]
+]
+}
+],
+"notes":""
+}
+],
+"extracted_at":"2026-10-23T05:05:08Z"
+}

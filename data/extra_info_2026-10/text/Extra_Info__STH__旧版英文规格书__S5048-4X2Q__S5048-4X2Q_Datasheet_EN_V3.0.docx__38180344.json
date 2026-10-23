@@ -1,0 +1,3069 @@
+{
+"id":"Extra_Info__STH__旧版英文规格书__S5048-4X2Q__S5048-4X2Q_Datasheet_EN_V3.0.docx__38180344",
+"path":"Extra_Info/STH/旧版英文规格书/S5048-4X2Q/S5048-4X2Q Datasheet_EN_V3.0.docx",
+"name":"S5048-4X2Q Datasheet_EN_V3.0.docx",
+"ext":".docx",
+"bytes":2635601,
+"sha256":"3818034400e202dc6c7de5c7e65d2e77f73bb21ea53228631880ed455f4de847",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"刘 驰",
+"last_modified_by":"黄玉芳",
+"created":"2020-10-14T05:41:00+00:00",
+"modified":"2024-03-19T02:24:24+00:00",
+"paragraphs":42,
+"tables":3,
+"embedded_images":4
+},
+"warnings":[],
+"chars":30840,
+"text":"S5048-4X2Q Series L3 Managed Switches\n-  48 Port 2.5G Base-T, 2*40Gb QSFP+, 4*25G/10G uplink\n-  S5048-4X2Q-EI: 2*350W hot-swappable PSU Modules, 2*hot-swappable Fan Modules\n-  S5048-4X2Q-SI: 1*200W fixed PSU, 4* Fixed Smart Fans\nOVERVIEW\nBased on Carrier Grade High performance chip\nS5048 Series series routing switches are designed based on Carrier Grade high-performance chips which help the S5048 Series to meet the requirement of Metro/Enterprise/Data Center/HCI networks.\nVaried Port Types\nSupport 2.5G/10G/25G/40G ports to meet different network requirements.\nSystem Design for Green and Energy Saving\nIntelligent FAN adjustment and real-time power consumption monitoring technology are provided for the cost of maintenance redundancy and help to build a green and energy saving data center.\nCustomized Profile for Different Deployment Scenarios\nThe Flexible Table Management (FTM) technology offers multiple table size configuration profiles as optimized choices for different network scenarios. Support up to 96K MAC address tables. Support up to 56K IP routing tables.\nIntelligent ethernet OAM: completed network fault management and performance guaranty\nWith the IEEE802.1ag and ITU-T Y.1731 end-to-end OAM, Ethernet service providers can monitor the services, survey the end-to end performance and ensure the service quality match the agreement.\nThe fault management technique includes CCM, LTM and LBM. Performance targets include measure for latency and jitter.\nS5048 Series Support remote management,network monitoring,network fault indication,remote loopback and MIB parameter retrieval according to the standard 802.3ah EFM.\nData Center Features\nS5048 Series support leading edge Data Center features: Priority Flow Control (PFC),explicit Congestion Notification (ECN) and Data Center TCP, etc.\nSupport MLAG (Multi-Chassis Link Aggregation) to aggregate links across different devices. MLAG can build an Active-Active system to improve the reliability of the network links from single board grade to device grade. MLAG use a peer link between to devices to aggregate two devices and make them as one device logically. Ports of two different devices join the aggregate ports together and all port can transmit the data traffic. MLAG need to management the device respectively, but the configurations are easier than stacking, reboot is NOT required after MLAG is configured. Forwarding and configuring are processing on local device, in normal condition the traffic do NOT transmit trough the peer link, the bandwidth of peer link is not the bottleneck of the network and the latency is low.\nSupport overlay technology (include NVGRE/VXLAN/GENEVE etc.). Overlay can make layer2 packets across the layer3 networks by using NVGRE/VXLAN/GENEVE header to encapsulate the entire Ethernet packets. Overlay resolves the problem of MAC table size limitation in traditional layer2 networks, resolves the problem of VLAN id count limitation, and resolves the problem network dynamic adjustment which cannot achieve by VLAN/VPN. Use VXLAN for example, 24 bits VNI identifier can support at most 16777215 logic networks, layer2 networks built by VXLAN can keep the same IP/MAC etc. when move the virtue machine.\nMLAG and overlay features are also good candidates for switches in data center network.\nS5048 Series supports RPC-API for SDN(Software Defined Network). SDN is a new architecture of network which can substantially simplify the management and maintenance by separating the control plane and data plane of the network.\nHigh Reliability\nS5048 Series are powered by Hot-swappable power modules which supports AC/DC 1+1 redundancy；Fans support 1+1 redundancy；Support Real-time environment monitoring technology to detect the chipset temperature, status of fan and power, etc.\nSupport LACP / ECMP / VRRP / VARP / STP/RSTP/MSTP / Smart Link / BFD / ERPS / G.8031 / G.8032 / Load-Balancing, etc. to protect the network traffic all-around effectively.\nPatented technology “Sysmon” for CPU status monitoring can take action when system is error.\nOutstanding QoS Control\nS5048 Series provides 13 hardware queues per-port (8 unicast queues, 4 multicast queues, and 1 monitor queue).Support multi-stage scheduling technology such as WDRR (Weighted Deficit Round Robin) / SP (Strict Priority) and TD (Tail Drop) / WRED (Weighted Random Early Detection) to prevent congestion. Support flexible queue scheduling mechanism to do the shaping for queue or port traffic.\nIngress and egress policer provide intelligent bandwidth monitoring, which support to adjust the granularity according to the port speed. Both srTCM (Single Rate Three Color Marker) and trTCM (Two Rate Three Color Marker) can be supported.\nTriple-play Service Support with Bandwidth Guaranty for High Quality Application\nS5048 Series offers high bandwidth for Triple-Play services such as IPTV, video monitoring. The built-in QoS capabilities and flexible queuing technologies guarantee high quality of services.\nRich multicast protocol set (IGMP Snooping, IGMP v1/v2, PIM-SM) support up to 2K multicast groups and 4K logical replications per group. With system software, IPTV service and multicast latency control are fully supported.\nComprehensive Network Security Policy\nS5048 Series supports subscriber-class / switch-class / network-class security control.\nIPv4 / IPv6 / MAC ACL can filter IPv4 / IPv6 / Non-IP packet respectively. Besides that, extended IPv4/IPv6 ACL which can match Layer2 / layer3 / layer4 information in one rule is available. The ACLs can apply to physical ports / vlan / port group / vlan group. The members of port group or vlan group share a set of ACLs and save the TCAM resource.\nARP Inspection and IP Source Guard features prevent network from malicious ARP attack. Support CPU Traffic Protection, Storm Control and CPU load optimization features. Support centralized 802.1x authentication feature to forbidden illegal user accessing network.\nConvenient Management features\nSupport varied management interfaces, include console port / inband network ports / outband network port . Support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, SSL, etc. to ensure security of management.\nModel\tS5048-4X2Q-EI\tS5048-4X2Q-SI\nEthernet Ports\t48*2.5Gb RJ45 / 4*25Gb/10Gb SFP28 / 2*40Gb QSFP+\t48*2.5Gb RJ45 / 4*25Gb/10Gb SFP28 / 2*40Gb QSFP+\nManagement Ports\t1*Console Port (RJ45) / 1* Ethernet Management Port（RJ45）\nPower Supplies\t2*250W (1+1 Redundancy) Hot-swappable Power Supplies\t1*200W fixed power supply\nFans\t2*Hot-swappable Fan Module (2 Fans Per Module)\t4*fixed fan\nAirflow\tFront-to-Back\tFront-to-Back\nFlash Memory\t8GB EMMC （OS） / 4MB SPI Flash（Boot）\t8GB EMMC （OS） / 4MB SPI Flash (Boot)\nDRAM\t2GB\t2GB\nSwitching Capacity\t600Gbps\nPacket Forward\t446.40Mpps\t\nMAC address\t98304\nWeight (kg)\t6.96\t\nSize\t442mm*379mm*43.6mm\t442mm*290mm*43.6mm\nOperating Temperature\t0ºC to 45ºC\nStorage Temperature\t-40ºC to 70ºC\nOperating Humidity\t10% to 90% (Non-condensing)\nStorage Humidity\t0 to 95% (Non-condensing)\nTemperature Alarm\t50ºC\nCHARACTERISTICS\nSOFTWARE FEATURE LIST\nSoftware Features\t● Support\n○ Not Support\nFeature\tDescription\tEB License\tMS License\tMA License\nType\tSub Type\tFeature\tDescription\tEB License\tMS License\tMA License\nEthernet basic features\tInterface\tInterface\tEthernet interface operating modes(full duplex, half duplex, and auto-negotiation)\t●\t●\t●\nEthernet basic features\tInterface\tInterface\tEthernet interface operating rates\t●\t●\t●\nEthernet basic features\tInterface\tInterface\tJumbo Frame\t●\t●\t●\nEthernet basic features\tInterface\tInterface\tport-x connect\t●\t●\t●\nEthernet basic features\tInterface\tFlow-control\tFlow-control tx/rx\t●\t●\t●\nEthernet basic features\tInterface\tStorm-control\tPort based storm-control\t●\t●\t●\nEthernet basic features\tInterface\tStorm-control\tVLAN based storm-control\t○\t●\t●\nEthernet basic features\tInterface\tPort-block\tPort-block(know/unknown unicast; know/unknown multicast/broadcast)\t●\t●\t●\nEthernet basic features\tInterface\tPort-isolate\tL2/L3/All  Port-isolate\t●\t●\t●\nEthernet basic features\tInterface\tPort-isolate\tUni-direction isolate\t●\t●\t●\nEthernet basic features\tInterface\tL2 Protocol Tunnel\tL2 protocol tunnel (Support CDP/CFM/DOT1X/LLDP/SLOW-PROTO/STP/VTP)\t●\t●\t●\nEthernet basic features\tInterface\tForward mode\tStore-and-forward\t●\t●\t●\nEthernet basic features\tInterface\tForward mode\tCut-through\t●\t●\t●\nEthernet basic features\tVLAN\tVLAN Access mode\tAccess/Trunk\t●\t●\t●\nEthernet basic features\tVLAN\tVLAN Access mode\tDefault VLAN\t●\t●\t●\nEthernet basic features\tVLAN\tVLAN Classification\tVLAN Classification(port based/mac based/IP based/protocol based)\t●\t●\t●\nEthernet basic features\tVLAN\tQinQ\tBasic QinQ\t●\t●\t●\nEthernet basic features\tVLAN\tQinQ\tSelective QinQ\t●\t●\t●\nEthernet basic features\tVLAN\tQinQ\tVLAN Mapping(1:1 VLAN Translation)\t●\t●\t●\nEthernet basic features\tVLAN\tQinQ\tVLAN Mapping(N:1 VLAN Translation)\t●\t●\t●\nEthernet basic features\tVLAN\tVLAN Statistics\tVLAN Statistics\t●\t●\t●\nEthernet basic features\tVLAN\tPrivate VLAN\tPrivate VLANv\t●\t●\t●\nEthernet basic features\tVLAN\tVoice VLAN\tVoice VLAN\t●\t●\t●\nEthernet basic features\tVLAN\tGuest VLAN\tGuest VLAN\t●\t●\t●\nEthernet basic features\tMAC\tMAC Address Table\tAutomatic learning and aging of MAC addresses\t●\t●\t●\nEthernet basic features\tMAC\tMAC Address Table\tRefresh the FDB based on ports and vlans\t●\t●\t●\nEthernet basic features\tMAC\tMAC Address Table\tHardware Learning\t●\t●\t●\nEthernet basic features\tMAC\tMAC Address Table\tStatic and dynamic  MAC address entries\t●\t●\t●\nEthernet basic features\tMAC\tMAC Address Table\tBlackhole MAC\t●\t●\t●\nEthernet basic features\tMAC\tMAC Flapping detect\tMAC Flapping detect\t●\t●\t●\nEthernet basic features\tMAC\tPort bridge\tPort Bridge\t●\t●\t●\nEthernet basic features\tLAG\tLink aggregation\tStatic-LAG & LACP\t●\t●\t●\nEthernet basic features\tLAG\tLink aggregation\tLAG load balance(SLB)\t●\t●\t●\nEthernet basic features\tLAG\tLink aggregation\tLAG load balance(DLB)\t●\t●\t●\nEthernet basic features\tLAG\tLink aggregation\tLAG load balance(RR)\t●\t●\t●\nEthernet basic features\tLAG\tLink aggregation\tLAG Self-healing\t●\t●\t●\nEthernet basic features\tLAG\tLink aggregation\tLink aggregation weighting\t●\t●\t●\nEthernet Ring protection features\txSTP\tSTP\tSpanning-Tree Protocol\t●\t●\t●\nEthernet Ring protection features\txSTP\tRSTP\tRapid Spanning-Tree Protocol\t●\t●\t●\nEthernet Ring protection features\txSTP\tMSTP\tMulti-instance Spanning-Tree Protocol\t●\t●\t●\nEthernet Ring protection features\txSTP\tSpanning-Tree Protocol Protection\tBPDU Filter/Guard\t●\t●\t●\nEthernet Ring protection features\txSTP\tSpanning-Tree Protocol Protection\tRoot Guard\t●\t●\t●\nEthernet Ring protection features\txSTP\tSpanning-Tree Protocol Protection\tLoop Guard\t●\t●\t●\nEthernet Ring protection features\txSTP\tSpanning-Tree Protocol Protection\tAnti TC-BPDU attack\t●\t●\t●\nEthernet Ring protection features\tERPS\tERPS\tSingle ERPS ring\t●\t●\t●\nEthernet Ring protection features\tERPS\tERPS\ttangent ERPS rings\t●\t●\t●\nEthernet Ring protection features\tERPS\tERPS\tintersecting ERPS rings\t●\t●\t●\nEthernet Ring protection features\tERPS\tERPS\tcompatible with RRPP\t●\t●\t●\nEthernet Ring protection features\tG.8031\tG.8031\tG.8031(Ethernet Linear Network Protection)\t○\t●\t●\nEthernet Ring protection features\tG.8032\tG.8032\tG.8032 V1 & V2\t○\t●\t●\nEthernet Ring protection features\tG.8032\tG.8032\tSingle Ring\t○\t●\t●\nEthernet Ring protection features\tG.8032\tG.8032\tSub Ring\t○\t●\t●\nEthernet Ring protection features\tLoop back Detect\tLoop back Detect\tLoopback-detection\t●\t●\t●\nLayer2 Multicast\tLayer2 Multicast\tIGMP snooping\tIGMPv1/v2/v3 Snooping\t●\t●\t●\nLayer2 Multicast\tLayer2 Multicast\tIGMP snooping\tFast leave\t●\t●\t●\nLayer2 Multicast\tLayer2 Multicast\tIGMP snooping\tStatic IGMP snooping group\t●\t●\t●\nLayer2 Multicast\tLayer2 Multicast\tMVR\tMVR(Multicast VLAN Registration)\t●\t●\t●\nIPv4 Forwarding\tARP\tARP\tStatic and dynamic ARP entries\t●\t●\t●\nIPv4 Forwarding\tARP\tARP\tAging of ARP entries\t●\t●\t●\nIPv4 Forwarding\tARP\tARP\tGratuitous ARP\t●\t●\t●\nIPv4 Forwarding\tARP\tARP proxy\tbasic ARP-Proxy\t●\t●\t●\nIPv4 Forwarding\tARP\tARP proxy\tlocal ARP-Proxy\t●\t●\t●\nIPv4 Forwarding\tIPv4 Static Routes\tIPv4 Static Routes\tIPv4 Static Routes\t●\t●\t●\nIPv4 Forwarding\tIPv4 Static Routes\tIPv4 Static Routes\tBlack hole Routes\t●\t●\t●\nIPv4 Forwarding\tIPv4 Static Routes\tIPv4 Static Routes\tco-work with IP SLA\t●\t●\t●\nIPv4 Forwarding\tIPv4 Static Routes\tIPv4 Static Routes\tVRF(Virtual Routing and Forwarding)\t●\t●\t●\nIPv4 Forwarding\tIPv4 Static Routes\tIPv4 Static Routes\tuRPF check\t●\t●\t●\nIPv4 Forwarding\tIPv4 Static Routes\tRIP\tRIP v1/v2\t●\t●\t●\nIPv4 Forwarding\tIPv4 Static Routes\tOSPFv2\tOSPF v2\t○\t●\t●\nIPv4 Forwarding\tIPv4 Static Routes\tIS-IS\tIS-IS\t○\t●\t●\nIPv4 Forwarding\tIPv4 Static Routes\tIS-IS\tsegment-routing based on IS-IS protocol extension\t○\t○\t●\nIPv4 Forwarding\tIPv4 Static Routes\tBGP\tIBGP\t○\t●\t●\nIPv4 Forwarding\tIPv4 Static Routes\tBGP\tEBGP\t○\t●\t●\nIPv4 Forwarding\tIPv4 Static Routes\tBGP\tGraceful-Restart helper\t○\t●\t●\nIPv4 Forwarding\tIPv4 Static Routes\tRoute policy\tRoute-map\t●\t●\t●\nIPv4 Forwarding\tIPv4 Static Routes\tRoute policy\tIPv4 prefix-list\t●\t●\t●\nIPv4 Forwarding\tIPv4 Static Routes\tPBR\tPBR(Policy-based Routing)\t●\t●\t●\nIPv4 Forwarding\tIPv4 Static Routes\tICMP\tICMP redirect\t●\t●\t●\nIPv4 Forwarding\tIPv4 Static Routes\tICMP\tICMP unreachables\t●\t●\t●\nIPv4 Forwarding\tIPv4 Static Routes\tECMP\tECMP(SLB)\t●\t●\t●\nIPv4 Forwarding\tIPv4 Static Routes\tECMP\tECMP(DLB)\t●\t●\t●\nIPv4 Forwarding\tIPv4 Static Routes\tECMP\tECMP(RR)\t●\t●\t●\nIPv4 Forwarding\tIPv4 Static Routes\tECMP\tECMP Self-healing\t●\t●\t●\nIPv4 Forwarding\tIPv4 Static Routes\tIP unnumbered\tIP unnumbered\t●\t●\t●\nIPv4 Forwarding\tIPv4 Multicast Routing\tIGMP\tIGMP v1/v2/v3\t●\t●\t●\nIPv4 Forwarding\tIPv4 Multicast Routing\tIGMP\tIGMP-proxy\t●\t●\t●\nIPv4 Forwarding\tIPv4 Multicast Routing\tIGMP\tIGMP SSM mapping\t●\t●\t●\nIPv4 Forwarding\tIPv4 Multicast Routing\tPIM\tPIM-SM\t○\t●\t●\nIPv4 Forwarding\tIPv4 Multicast Routing\tPIM\tPIM-SSM\t○\t○\t●\nIPv4 Forwarding\tIPv4 Multicast Routing\tPIM\tPIM-DM\t○\t●\t●\nIPv6 Forwarding\tIPv6 Basic Protocol\tICMPv6\tICMPv6\t○\t●\t●\nIPv6 Forwarding\tIPv6 Basic Protocol\tNDP\tNDP\t○\t●\t●\nIPv6 Forwarding\tIPv6 Basic Protocol\tPMTU\tPMTU\t○\t●\t●\nIPv6 Forwarding\tIPv6 Unicast Routing\tIPv6 Static Routes\tIPv6 Static Routes\t○\t●\t●\nIPv6 Forwarding\tIPv6 Unicast Routing\tIPv6 Static Routes\tIPv6 Blackhole Routes\t●\t●\t●\nIPv6 Forwarding\tIPv6 Unicast Routing\tRIPng\tRIPng\t○\t●\t●\nIPv6 Forwarding\tIPv6 Unicast Routing\tBGP4+\tBGP4+\t○\t●\t●\nIPv6 Forwarding\tIPv6 Unicast Routing\tOSPFv3\tOSPF v3\t○\t●\t●\nIPv6 Forwarding\tIPv6 Unicast Routing\tIS-IS\tIS-IS\t○\t●\t●\nIPv6 Forwarding\tIPv6 Unicast Routing\tVRRP v3\tVRRP v3\t●\t●\t●\nIPv6 Forwarding\tPv6 Multicast Routing\tMLD v1/v2\tMLD v1/v2\t○\t●\t●\nIPv6 Forwarding\tPv6 Multicast Routing\tMLD v1/v2 snooping\tMLD v1/v2 snooping\t○\t●\t●\nIPv6 Forwarding\tPv6 Multicast Routing\tMVR6\tMVR6\t○\t●\t●\nIPv6 Forwarding\tPv6 Multicast Routing\tPIM-SM v6\tPIM-SM v6\t○\t●\t●\nIPv6 Forwarding\tIP Tunnel\tIPv6 over IPv4 Tunnel\tIPv6 over IPv4 tunnel\t○\t●\t●\nIPv6 Forwarding\tIP Tunnel\t6to4 Tunnel\t6to4 tunnel\t○\t●\t●\nIPv6 Forwarding\tIP Tunnel\tISATAP Tunnel\tISATAP tunnel\t○\t●\t●\nIPv6 Forwarding\tIPv6\tDHCPv6\tDHCPv6 Relay\t○\t●\t●\nIPv6 Forwarding\tIPv6\tDHCPv6\tDHCPv6 snooping\t○\t●\t●\nIPv6 Forwarding\tIPv6\tIPv6 Prefix List\tIPv6 Prefix-list\t○\t●\t●\nDevice reliability features\tBFD\tBFD\tDetecting BFD for static routes\t○\t●\t●\nDevice reliability features\tBFD\tBFD\tDetecting BFD for OSPFv2\t○\t●\t●\nDevice reliability features\tBFD\tBFD\tDetecting IS-IS BFD. Procedure\t○\t●\t●\nDevice reliability features\tBFD\tBFD\tDetecting BGP BFD\t○\t●\t●\nDevice reliability features\tBFD\tBFD\tDetecting BFD for VRRP/Track\t○\t●\t●\nDevice reliability features\tBFD\tBFD\tDetecting BFD for the PBR\t○\t●\t●\nDevice reliability features\tVRRP\tVRRP\tVRRP\t●\t●\t●\nDevice reliability features\tVRRP\tVRRP\tTrack for VRRP\t●\t●\t●\nDevice reliability features\tSmart link\tSmart link\tmulti-instance\t●\t●\t●\nDevice reliability features\tSmart link\tSmart link\tload balance\t●\t●\t●\nDevice reliability features\tSmart link\tSmart link\tMulti-Link\t●\t●\t●\nDevice reliability features\tSmart link\tSmart link\tMonitor-link\t●\t●\t●\nDevice reliability features\tMLAG\tMLAG\tMLAG basic\t●\t●\t●\nDevice reliability features\tMLAG\tMLAG\tMLAG orphan Port\t●\t●\t●\nEthernet OAM\tEFM\tEFM (802.3ah)\tAuto detection\t○\t●\t●\nEthernet OAM\tEFM\tEFM (802.3ah)\tNetwork fault detection\t○\t●\t●\nEthernet OAM\tEFM\tEFM (802.3ah)\tNetwork fault handle\t○\t●\t●\nEthernet OAM\tEFM\tEFM (802.3ah)\tremote loop back\t○\t●\t●\nEthernet OAM\tCFM\tCFM (802.1ag)\tHardware CCM detect\t○\t●\t●\nEthernet OAM\tCFM\tCFM (802.1ag)\tLinktrace\t○\t●\t●\nEthernet OAM\tCFM\tCFM (802.1ag)\tLoopback\t○\t●\t●\nEthernet OAM\tY.1731\tY.1731\tLatency and Jitter measure\t○\t●\t●\nQoS\tQoS\tTraffic classification\tTraffic classification based on COS/DSCP (simple classification)\t●\t●\t●\nQoS\tQoS\tTraffic classification\tTraffic classification based on ACL ( complex classification)\t●\t●\t●\nQoS\tQoS\tTraffic classification\tTraffic classification based on inner header of the tunnel packets\t●\t●\t●\nQoS\tQoS\tTraffic behaviors\tQueue scheduling\t●\t●\t●\nQoS\tQoS\tTraffic behaviors\tRemark the priority fields(COS/DSCP) of the packet based on ACL\t●\t●\t●\nQoS\tQoS\tTraffic behaviors\tRemark the priority fields(COS/DSCP) of the packet based on ACL\t●\t●\t●\nQoS\tQoS\tTraffic behaviors\tFlow redirection\t●\t●\t●\nQoS\tQoS\tTraffic behaviors\tFlow mirror\t●\t●\t●\nQoS\tQoS\tTraffic policing\tTraffic policing based on direction(in/out)  of Port\t●\t●\t●\nQoS\tQoS\tTraffic policing\tTraffic policing based on direction(in/out) of VLAN\t●\t●\t●\nQoS\tQoS\tTraffic policing\tTraffic policing based on direction(in/out) of flow\t●\t●\t●\nQoS\tQoS\tTraffic policing\tTraffic policing based on direction(in/out) of aggregated flow\t●\t●\t●\nQoS\tQoS\tTraffic shaping\tQueue based traffic shaping\t●\t●\t●\nQoS\tQoS\tTraffic shaping\tPort based traffic shaping\t●\t●\t●\nQoS\tQoS\tCongestion management\tSP(Strict Priority)scheduling\t●\t●\t●\nQoS\tQoS\tCongestion management\tWDRR(Weighted Deficit Round Robin)scheduling\t●\t●\t●\nQoS\tQoS\tCongestion management\tSP + WDRR mixed scheduling\t●\t●\t●\nQoS\tQoS\tCongestion avoidance\tTD(Tail Drop)\t●\t●\t●\nQoS\tQoS\tCongestion avoidance\tWRED(Weighted Random Early Detection)\t●\t●\t●\nQoS\tQoS\tTraffic statistics\tPacket counts and bytes statistics based on traffic classification\t●\t●\t●\nQoS\tQoS\tTraffic statistics\tPacket counts and bytes statistics based on the color after traffic policing\t●\t●\t●\nQoS\tQoS\tTraffic statistics\tForwarded and discarded packet counts and bytes statistics\t●\t●\t●\nQoS\tQoS\tECN (Explicit congestion)\tTail Drop-based ECN tag\t○\t●\t●\nQoS\tQoS\tECN (Explicit congestion)\tWRED based ECN tagx\t○\t●\t●\nQoS\tQoS\tECN (Explicit congestion)\tShape rate speed based ECN tagx\t○\t●\t●\nNetwork virtualization\tVARP\tVirtual gateway\tVARP（Virtual-ARP）\t●\t●\t●\nNetwork virtualization\tVARP\tVirtual gateway\tSupport IPv4\t●\t●\t●\nNetwork virtualization\tVARP\tVirtual gateway\tSupport IPv6\t●\t●\t●\nNetwork virtualization\tVARP\tVirtual gateway\tVARP support subnet\t●\t●\t●\nNetwork virtualization\tTunnel\tVxLAN\tManual configure VxLAN tunnel\t○\t●\t●\nNetwork virtualization\tTunnel\tVxLAN\tVxLAN distributed gateway\t○\t●\t●\nNetwork virtualization\tTunnel\tVxLAN\tVxLAN active-active access\t○\t●\t●\nNetwork virtualization\tTunnel\tVxLAN\tVxLAN realize Overlay network\t○\t●\t●\nNetwork virtualization\tTunnel\tVxLAN\tL2 Protocol packet pass through\t○\t●\t●\nNetwork virtualization\tTunnel\tVxLAN\tModify the DSCP of the outer VxLAN header\t○\t●\t●\nNetwork virtualization\tTunnel\tVxLAN\tEdit DSCP in VxLan outer header\t○\t●\t●\nNetwork virtualization\tTunnel\tVxLAN\tBGP EVPN\t○\t○\t●\nNetwork virtualization\tTunnel\tVxLAN\tSupport to enable/disable overlay split horizon per-VNI\t○\t●\t●\nNetwork virtualization\tTunnel\tVxLAN\tSupport IPv4\t○\t●\t●\nNetwork virtualization\tTunnel\tVxLAN\tSupport IPv6\t○\t●\t●\nNetwork virtualization\tTunnel\tGRE Tunnel\tGRE Tunnel\t○\t●\t●\nNetwork virtualization\tTunnel\tNVGRE Tunnel\tNVGRE Tunnel\t○\t●\t●\nNetwork virtualization\tTunnel\tGENEVE Tunnel\tGENEVE Tunnel\t○\t●\t●\nNetwork convergence\tDCB\tDCBX\tLLDP support DCBX TLV\t○\t●\t●\nNetwork convergence\tDCB\tPFC\tPFC\t○\t●\t●\nMetropolitan Network\tIPRAN\tLDP\tLDP\t○\t○\t●\nMetropolitan Network\tIPRAN\tMPLS Forwarding\tMPLS Forwarding\t○\t○\t●\nMetropolitan Network\tIPRAN\tVPWS\tVPWS\t○\t○\t●\nMetropolitan Network\tIPRAN\tVPLS\tVPLS\t○\t○\t●\nMetropolitan Network\tIPRAN\tMPLS OAM\tMPLS OAM\t○\t○\t●\nMetropolitan Network\tIPRAN\tMPLS Stats\tMPLS Stats\t○\t○\t●\nMetropolitan Network\tIPRAN\tL2VPN\tL2VPN\t○\t○\t●\nMetropolitan Network\tIPRAN\tL3VPN\tL3VPN\t○\t○\t●\nMetropolitan Network\tIPRAN\tACL\tMPLS ACL\t○\t○\t●\nMetropolitan Network\tIPRAN\tQoS\tMPLS QoS\t○\t○\t●\nMetropolitan Network\tIPRAN\tSR\tSegment-routing based on MPLS\t○\t○\t●\nSafety and management\tSystem Security\tSSH\tSSH v1/v2\t●\t●\t●\nSafety and management\tSystem Security\tSSH\tRSA Key generation\t●\t●\t●\nSafety and management\tSystem Security\tRADIUS\tRADIUS\t●\t●\t●\nSafety and management\tSystem Security\tTACAS+\tTACAS+\t●\t●\t●\nSafety and management\tSystem Security\tAAA\tAuthentication\t●\t●\t●\nSafety and management\tSystem Security\tAAA\tAuthorization\t●\t●\t●\nSafety and management\tSystem Security\tAAA\tAccounting\t●\t●\t●\nSafety and management\tSystem Security\tDot1x\tPort based dot1x\t●\t●\t●\nSafety and management\tSystem Security\tDot1x\tMAC based dot1x\t●\t●\t●\nSafety and management\tSystem Security\tDot1x\tGuest VLAN\t●\t●\t●\nSafety and management\tSystem Security\tACL\tMAC/IP ACL\t●\t●\t●\nSafety and management\tSystem Security\tACL\tBasic Mode ACL\t●\t●\t●\nSafety and management\tSystem Security\tACL\tPort-group ACL\t●\t●\t●\nSafety and management\tSystem Security\tACL\tVLAN-group ACL\t●\t●\t●\nSafety and management\tSystem Security\tACL\tIPv6 ACL\t●\t●\t●\nSafety and management\tSystem Security\tACL\tACL UDF\t●\t●\t●\nSafety and management\tSystem Security\tACL\tGlobal ACL\t●\t●\t●\nSafety and management\tSystem Security\tACL\tTime Range\t●\t●\t●\nSafety and management\tSystem Security\tARP inspection\tARP inspection\t●\t●\t●\nSafety and management\tSystem Security\tIP source guard\tIP source guard\t●\t●\t●\nSafety and management\tSystem Security\tPort Security\tLimitation on MAC address learning on interface\t●\t●\t●\nSafety and management\tSystem Security\tVLAN Security\tLimitation on MAC address learning on VLAN\t●\t●\t●\nSafety and management\tSystem Security\tControl Plane Policy (COPP)\tBlack list/wihte list\t●\t●\t●\nSafety and management\tSystem Security\tControl Plane Policy (COPP)\tRate limit\t●\t●\t●\nSafety and management\tSystem Security\tCPU Traffic Limit\tCPU Traffic Limit\t●\t●\t●\nSafety and management\tSystem Security\tPrevent DDOS attack\tPrevent DDOS attack (ICMP Flood/Smurf/Fraggle/LAND/SYN Flood)\t●\t●\t●\nSafety and management\tSystem Security\tLogin filter\tTelnet/SSH ACL filtering\t●\t●\t●\nSafety and management\tSystem Security\tLogin filter\tTelnet/SSH IPv6 ACL filtering\t●\t●\t●\nSafety and management\tSystem Security\tLink-Flapping detection\tLink-Flapping detection\t●\t●\t●\nSafety and management\tNetwork Management\tDHCP\tDHCP Server\t●\t●\t●\nSafety and management\tNetwork Management\tDHCP\tDHCP Relay\t●\t●\t●\nSafety and management\tNetwork Management\tDHCP\tDHCP snooping\t●\t●\t●\nSafety and management\tNetwork Management\tDHCP\tDHCP Client\t●\t●\t●\nSafety and management\tNetwork Management\tDHCP\tDHCP option 82\t●\t●\t●\nSafety and management\tNetwork Management\tDHCP\tDHCP option 252\t●\t●\t●\nSafety and management\tNetwork Management\tRMON\tRMON\t●\t●\t●\nSafety and management\tNetwork Management\tsFlow\tsFlow v4/v5\t●\t●\t●\nSafety and management\tNetwork Management\tIP SLA\tSupport IPv4\t●\t●\t●\nSafety and management\tNetwork Management\tIP SLA\tSupport IPv6\t●\t●\t●\nSafety and management\tNetwork Management\tIP SLA\tSupport Track\t●\t●\t●\nSafety and management\tNetwork Management\tIPFIX\tIPFIX\t○\t●\t●\nSafety and management\tNetwork Management\tLatency/Buffer monitor\tLatency monitor\t○\t●\t●\nSafety and management\tNetwork Management\tLatency/Buffer monitor\tBuffer monitor\t○\t●\t●\nSafety and management\tNetwork Management\tEFD\tElephant flow detection\t●\t●\t●\nSafety and management\tNetwork Management\tNTP\tNTP(Network Time Protocol)\t●\t●\t●\nSafety and management\tNetwork Management\tPTP（IEEE 1588 ）\tTransparent clock （TC）\t○\t○\t●\nSafety and management\tNetwork Management\tErrdisable\tErrdisable detection and recovery\t●\t●\t●\nSafety and management\tNetwork Management\tDNS\tStatic DNS Client\t●\t●\t●\nSafety and management\tNetwork Management\tLLDP\tLLDP\t●\t●\t●\nConfiguration and maintenance\tTerminal Services\tCommand Line Interface\tConfigurations through CLI (Command Line Interface)\t●\t●\t●\nConfiguration and maintenance\tTerminal Services\tHelp information\tBanner configuration\t●\t●\t●\nConfiguration and maintenance\tTerminal Services\tHelp information\tHelp information in English\t●\t●\t●\nConfiguration and maintenance\tTerminal Services\tTerminal Services\tVty Terminal service\t●\t●\t●\nConfiguration and maintenance\tTerminal Services\tTerminal Services\tConsole Terminal service\t●\t●\t●\nConfiguration and maintenance\tConfiguration Management\tManagement interface\tIn-band management interface and configuration\t●\t●\t●\nConfiguration and maintenance\tConfiguration Management\tManagement interface\tOut-band management interface and configuration\t●\t●\t●\nConfiguration and maintenance\tConfiguration Management\tUser privilege management\tprivileged user priority and privileged commands\t●\t●\t●\nConfiguration and maintenance\tConfiguration Management\tSNMP\tNetwork management based on SNMPv1/v2c/v3\t●\t●\t●\nConfiguration and maintenance\tConfiguration Management\tSNMP\tPublic and private MIB\t●\t●\t●\nConfiguration and maintenance\tConfiguration Management\tSNMP\tPublic and private Trap\t●\t●\t●\nConfiguration and maintenance\tConfiguration Management\tWEB\tConfiguration and management based on WEB UI\t●\t●\t●\nConfiguration and maintenance\tConfiguration Management\tRPC-API\tConfiguration and management based on RPC-API\t●\t●\t●\nConfiguration and maintenance\tConfiguration Management\tSmart config\tSmart Config(Automatically configuration when system start)\t●\t●\t●\nConfiguration and maintenance\tConfiguration Management\tOVSDB\tConfiguration and management based on OVSDB\t●\t●\t●\nConfiguration and maintenance\tConfiguration Management\tConfiguration and management based on RPC-API\tchange the system specifications by choose different STM Profiles\t●\t●\t●\nConfiguration and maintenance\tConfiguration Management\tLicense control\tFeature configuration based on License\t●\t●\t●\nConfiguration and maintenance\tConfiguration Management\tNetconf\tNetconf\t●\t●\t●\nConfiguration and maintenance\tConfiguration Management\tRestore factory default\tRestore factory default configuration\t●\t●\t●\nConfiguration and maintenance\tFile System\tFile system\tFile system(support directory and file management)\t●\t●\t●\nConfiguration and maintenance\tFile System\tUpload and download\tUpload and download files through FTP or TFTP\t●\t●\t●\nConfiguration and maintenance\tFile System\tUpload and download\tUpload and download files in SCP mode\t●\t●\t●\nConfiguration and maintenance\tFile System\tUpload and download\tFile transfer in Xmodem mode\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tDebug\tper-module Debug features\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tDebug\tICMP Debug\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tBHM\tSoftware process monitor: BHM(Beat Heart Monitor)\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tBHM\tHardware Watch Dog\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tVCT\tVCT(Virtual Cable Test)\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tSystem diagnostics\tDetailed Diagnostic-information collection\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tReboot\tManual reboot\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tReboot\tSchedule Reboot\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tReboot\tReboot Information logging\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tNetwork diagnostics\tPing\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tNetwork diagnostics\tIPv6 Ping\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tNetwork diagnostics\tTraceroute\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tNetwork diagnostics\tCPU usage display and  alarm\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tNetwork diagnostics\tMemory  usage display and  alarm\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tNetwork diagnostics\tSupports CPU/ memory historical display\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tNetwork diagnostics\tSupports CPU/ memory historical display\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tNetwork diagnostics\tUser operation logs\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tNetwork diagnostics\tManagement of logs, alarms, and debugging information\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tNetwork diagnostics\tSupport interface bandwidth usage alarms\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tNetwork diagnostics\tSupport Log servers with IPv4 addresses\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tNetwork diagnostics\tSupport Log servers with IPv6 addresses\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tMirror\tPort mirror\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tMirror\tFlow mirror\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tMirror\tRemote mirror\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tMirror\tMulti-destination mirror(m:n)\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tMirror\tUse CPU as mirror source\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tMirror\tUse CPU as mirror destination and analyze packet\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tMirror\tERSPAN\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tCPU statistics\tTo CPU/From CPU packets statistics\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tL2 Ping\tlayer2 network connectivity detection - L2Ping (MAC Ping/Trace)\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tUDLD\tUDLD(Unidirectional Link Detection)\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tUnidirectional\tUnidirectional forwarding of the fiber\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tLoop back\tport loop back\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tLoop back\thardware loop back(internal/external)\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tSystem time\tTime configuration\t●\t●\t●\nConfiguration and maintenance\tDiagnosis and Maintenance\tSystem time\tTimezone\t●\t●\t●\nConfiguration and maintenance\tVersion upgrade\tSystem software upgrade\tLocal upgrade\t●\t●\t●\nConfiguration and maintenance\tVersion upgrade\tSystem software upgrade\tUpgrade from TFTP\t●\t●\t●\nConfiguration and maintenance\tVersion upgrade\tUboot upgrade\tUpgrade the Uboot online\t●\t●\t●\nORDER INFORMATION\nProduct Name\tDescription\nS5048-4X2Q-EI\t48 Port 2.5GBase-T L3 Managed Ethernet Switch with 2*40Gb QSFP+ And 4*25G/10G Uplinks / 2*250W (1+1 Redundancy) Hot-swappable Power Supplies / 2*Hot-swappable Fan Module\nS5048-4X2Q-SI\t48 Port 2.5GBase-T L3 Managed Ethernet Switch with 2*40Gb QSFP+ And 4*25G/10G Uplinks / 1*200W Non pluggable Power Supply / 4*Non Pluggable Fans\nSoftware License\tHOS-EB, basic Layer3 software features,Pre installed\nSoftware License\tHOS-MS, Full layer3 software license key\nSoftware License\tHOS-MA, Metro features software license key\n[页眉页脚]\nS5048 SERIES L3 Managed Switches Datasheet",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"S5048-4X2Q Series L3 Managed Switches"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"-  48 Port 2.5G Base-T, 2*40Gb QSFP+, 4*25G/10G uplink"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"-  S5048-4X2Q-EI: 2*350W hot-swappable PSU Modules, 2*hot-swappable Fan Modules"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"-  S5048-4X2Q-SI: 1*200W fixed PSU, 4* Fixed Smart Fans"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OVERVIEW"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Based on Carrier Grade High performance chip"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"S5048 Series series routing switches are designed based on Carrier Grade high-performance chips which help the S5048 Series to meet the requirement of Metro/Enterprise/Data Center/HCI networks."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Varied Port Types"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support 2.5G/10G/25G/40G ports to meet different network requirements."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"System Design for Green and Energy Saving"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Intelligent FAN adjustment and real-time power consumption monitoring technology are provided for the cost of maintenance redundancy and help to build a green and energy saving data center."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Customized Profile for Different Deployment Scenarios"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The Flexible Table Management (FTM) technology offers multiple table size configuration profiles as optimized choices for different network scenarios. Support up to 96K MAC address tables. Support up to 56K IP routing tables."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Intelligent ethernet OAM: completed network fault management and performance guaranty"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"With the IEEE802.1ag and ITU-T Y.1731 end-to-end OAM, Ethernet service providers can monitor the services, survey the end-to end performance and ensure the service quality match the agreement."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The fault management technique includes CCM, LTM and LBM. Performance targets include measure for latency and jitter."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"S5048 Series Support remote management,network monitoring,network fault indication,remote loopback and MIB parameter retrieval according to the standard 802.3ah EFM."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Data Center Features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"S5048 Series support leading edge Data Center features: Priority Flow Control (PFC),explicit Congestion Notification (ECN) and Data Center TCP, etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support MLAG (Multi-Chassis Link Aggregation) to aggregate links across different devices. MLAG can build an Active-Active system to improve the reliability of the network links from single board grade to device grade. MLAG use a peer link between to devices to aggregate two devices and make them as one device logically. Ports of two different devices join the aggregate ports together and all port can transmit the data traffic. MLAG need to management the device respectively, but the configurations are easier than stacking, reboot is NOT required after MLAG is configured. Forwarding and configuring are processing on local device, in normal condition the traffic do NOT transmit trough the peer link, the bandwidth of peer link is not the bottleneck of the network and the latency is low."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support overlay technology (include NVGRE/VXLAN/GENEVE etc.). Overlay can make layer2 packets across the layer3 networks by using NVGRE/VXLAN/GENEVE header to encapsulate the entire Ethernet packets. Overlay resolves the problem of MAC table size limitation in traditional layer2 networks, resolves the problem of VLAN id count limitation, and resolves the problem network dynamic adjustment which cannot achieve by VLAN/VPN. Use VXLAN for example, 24 bits VNI identifier can support at most 16777215 logic networks, layer2 networks built by VXLAN can keep the same IP/MAC etc. when move the virtue machine."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MLAG and overlay features are also good candidates for switches in data center network."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"S5048 Series supports RPC-API for SDN(Software Defined Network). SDN is a new architecture of network which can substantially simplify the management and maintenance by separating the control plane and data plane of the network."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"High Reliability"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"S5048 Series are powered by Hot-swappable power modules which supports AC/DC 1+1 redundancy；Fans support 1+1 redundancy；Support Real-time environment monitoring technology to detect the chipset temperature, status of fan and power, etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support LACP / ECMP / VRRP / VARP / STP/RSTP/MSTP / Smart Link / BFD / ERPS / G.8031 / G.8032 / Load-Balancing, etc. to protect the network traffic all-around effectively."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Patented technology “Sysmon” for CPU status monitoring can take action when system is error."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Outstanding QoS Control"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"S5048 Series provides 13 hardware queues per-port (8 unicast queues, 4 multicast queues, and 1 monitor queue).Support multi-stage scheduling technology such as WDRR (Weighted Deficit Round Robin) / SP (Strict Priority) and TD (Tail Drop) / WRED (Weighted Random Early Detection) to prevent congestion. Support flexible queue scheduling mechanism to do the shaping for queue or port traffic."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ingress and egress policer provide intelligent bandwidth monitoring, which support to adjust the granularity according to the port speed. Both srTCM (Single Rate Three Color Marker) and trTCM (Two Rate Three Color Marker) can be supported."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Triple-play Service Support with Bandwidth Guaranty for High Quality Application"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"S5048 Series offers high bandwidth for Triple-Play services such as IPTV, video monitoring. The built-in QoS capabilities and flexible queuing technologies guarantee high quality of services."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Rich multicast protocol set (IGMP Snooping, IGMP v1/v2, PIM-SM) support up to 2K multicast groups and 4K logical replications per group. With system software, IPTV service and multicast latency control are fully supported."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Comprehensive Network Security Policy"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"S5048 Series supports subscriber-class / switch-class / network-class security control."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IPv4 / IPv6 / MAC ACL can filter IPv4 / IPv6 / Non-IP packet respectively. Besides that, extended IPv4/IPv6 ACL which can match Layer2 / layer3 / layer4 information in one rule is available. The ACLs can apply to physical ports / vlan / port group / vlan group. The members of port group or vlan group share a set of ACLs and save the TCAM resource."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"ARP Inspection and IP Source Guard features prevent network from malicious ARP attack. Support CPU Traffic Protection, Storm Control and CPU load optimization features. Support centralized 802.1x authentication feature to forbidden illegal user accessing network."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Convenient Management features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support varied management interfaces, include console port / inband network ports / outband network port . Support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, SSL, etc. to ensure security of management."
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"S5048-4X2Q-EI",
+"S5048-4X2Q-SI"
+],
+[
+"Ethernet Ports",
+"48*2.5Gb RJ45 / 4*25Gb/10Gb SFP28 / 2*40Gb QSFP+",
+"48*2.5Gb RJ45 / 4*25Gb/10Gb SFP28 / 2*40Gb QSFP+"
+],
+[
+"Management Ports",
+"1*Console Port (RJ45) / 1* Ethernet Management Port（RJ45）"
+],
+[
+"Power Supplies",
+"2*250W (1+1 Redundancy) Hot-swappable Power Supplies",
+"1*200W fixed power supply"
+],
+[
+"Fans",
+"2*Hot-swappable Fan Module (2 Fans Per Module)",
+"4*fixed fan"
+],
+[
+"Airflow",
+"Front-to-Back",
+"Front-to-Back"
+],
+[
+"Flash Memory",
+"8GB EMMC （OS） / 4MB SPI Flash（Boot）",
+"8GB EMMC （OS） / 4MB SPI Flash (Boot)"
+],
+[
+"DRAM",
+"2GB",
+"2GB"
+],
+[
+"Switching Capacity",
+"600Gbps"
+],
+[
+"Packet Forward",
+"446.40Mpps",
+""
+],
+[
+"MAC address",
+"98304"
+],
+[
+"Weight (kg)",
+"6.96",
+""
+],
+[
+"Size",
+"442mm*379mm*43.6mm",
+"442mm*290mm*43.6mm"
+],
+[
+"Operating Temperature",
+"0ºC to 45ºC"
+],
+[
+"Storage Temperature",
+"-40ºC to 70ºC"
+],
+[
+"Operating Humidity",
+"10% to 90% (Non-condensing)"
+],
+[
+"Storage Humidity",
+"0 to 95% (Non-condensing)"
+],
+[
+"Temperature Alarm",
+"50ºC"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CHARACTERISTICS"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SOFTWARE FEATURE LIST"
+},
+{
+"t":"table",
+"rows":[
+[
+"Software Features",
+"● Support\n○ Not Support"
+],
+[
+"Feature",
+"Description",
+"EB License",
+"MS License",
+"MA License"
+],
+[
+"Type",
+"Sub Type",
+"Feature",
+"Description",
+"EB License",
+"MS License",
+"MA License"
+],
+[
+"Ethernet basic features",
+"Interface",
+"Interface",
+"Ethernet interface operating modes(full duplex, half duplex, and auto-negotiation)",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"Interface",
+"Interface",
+"Ethernet interface operating rates",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"Interface",
+"Interface",
+"Jumbo Frame",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"Interface",
+"Interface",
+"port-x connect",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"Interface",
+"Flow-control",
+"Flow-control tx/rx",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"Interface",
+"Storm-control",
+"Port based storm-control",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"Interface",
+"Storm-control",
+"VLAN based storm-control",
+"○",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"Interface",
+"Port-block",
+"Port-block(know/unknown unicast; know/unknown multicast/broadcast)",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"Interface",
+"Port-isolate",
+"L2/L3/All  Port-isolate",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"Interface",
+"Port-isolate",
+"Uni-direction isolate",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"Interface",
+"L2 Protocol Tunnel",
+"L2 protocol tunnel (Support CDP/CFM/DOT1X/LLDP/SLOW-PROTO/STP/VTP)",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"Interface",
+"Forward mode",
+"Store-and-forward",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"Interface",
+"Forward mode",
+"Cut-through",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"VLAN",
+"VLAN Access mode",
+"Access/Trunk",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"VLAN",
+"VLAN Access mode",
+"Default VLAN",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"VLAN",
+"VLAN Classification",
+"VLAN Classification(port based/mac based/IP based/protocol based)",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"VLAN",
+"QinQ",
+"Basic QinQ",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"VLAN",
+"QinQ",
+"Selective QinQ",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"VLAN",
+"QinQ",
+"VLAN Mapping(1:1 VLAN Translation)",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"VLAN",
+"QinQ",
+"VLAN Mapping(N:1 VLAN Translation)",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"VLAN",
+"VLAN Statistics",
+"VLAN Statistics",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"VLAN",
+"Private VLAN",
+"Private VLANv",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"VLAN",
+"Voice VLAN",
+"Voice VLAN",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"VLAN",
+"Guest VLAN",
+"Guest VLAN",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"MAC",
+"MAC Address Table",
+"Automatic learning and aging of MAC addresses",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"MAC",
+"MAC Address Table",
+"Refresh the FDB based on ports and vlans",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"MAC",
+"MAC Address Table",
+"Hardware Learning",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"MAC",
+"MAC Address Table",
+"Static and dynamic  MAC address entries",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"MAC",
+"MAC Address Table",
+"Blackhole MAC",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"MAC",
+"MAC Flapping detect",
+"MAC Flapping detect",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"MAC",
+"Port bridge",
+"Port Bridge",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"LAG",
+"Link aggregation",
+"Static-LAG & LACP",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"LAG",
+"Link aggregation",
+"LAG load balance(SLB)",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"LAG",
+"Link aggregation",
+"LAG load balance(DLB)",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"LAG",
+"Link aggregation",
+"LAG load balance(RR)",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"LAG",
+"Link aggregation",
+"LAG Self-healing",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet basic features",
+"LAG",
+"Link aggregation",
+"Link aggregation weighting",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet Ring protection features",
+"xSTP",
+"STP",
+"Spanning-Tree Protocol",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet Ring protection features",
+"xSTP",
+"RSTP",
+"Rapid Spanning-Tree Protocol",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet Ring protection features",
+"xSTP",
+"MSTP",
+"Multi-instance Spanning-Tree Protocol",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet Ring protection features",
+"xSTP",
+"Spanning-Tree Protocol Protection",
+"BPDU Filter/Guard",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet Ring protection features",
+"xSTP",
+"Spanning-Tree Protocol Protection",
+"Root Guard",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet Ring protection features",
+"xSTP",
+"Spanning-Tree Protocol Protection",
+"Loop Guard",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet Ring protection features",
+"xSTP",
+"Spanning-Tree Protocol Protection",
+"Anti TC-BPDU attack",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet Ring protection features",
+"ERPS",
+"ERPS",
+"Single ERPS ring",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet Ring protection features",
+"ERPS",
+"ERPS",
+"tangent ERPS rings",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet Ring protection features",
+"ERPS",
+"ERPS",
+"intersecting ERPS rings",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet Ring protection features",
+"ERPS",
+"ERPS",
+"compatible with RRPP",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet Ring protection features",
+"G.8031",
+"G.8031",
+"G.8031(Ethernet Linear Network Protection)",
+"○",
+"●",
+"●"
+],
+[
+"Ethernet Ring protection features",
+"G.8032",
+"G.8032",
+"G.8032 V1 & V2",
+"○",
+"●",
+"●"
+],
+[
+"Ethernet Ring protection features",
+"G.8032",
+"G.8032",
+"Single Ring",
+"○",
+"●",
+"●"
+],
+[
+"Ethernet Ring protection features",
+"G.8032",
+"G.8032",
+"Sub Ring",
+"○",
+"●",
+"●"
+],
+[
+"Ethernet Ring protection features",
+"Loop back Detect",
+"Loop back Detect",
+"Loopback-detection",
+"●",
+"●",
+"●"
+],
+[
+"Layer2 Multicast",
+"Layer2 Multicast",
+"IGMP snooping",
+"IGMPv1/v2/v3 Snooping",
+"●",
+"●",
+"●"
+],
+[
+"Layer2 Multicast",
+"Layer2 Multicast",
+"IGMP snooping",
+"Fast leave",
+"●",
+"●",
+"●"
+],
+[
+"Layer2 Multicast",
+"Layer2 Multicast",
+"IGMP snooping",
+"Static IGMP snooping group",
+"●",
+"●",
+"●"
+],
+[
+"Layer2 Multicast",
+"Layer2 Multicast",
+"MVR",
+"MVR(Multicast VLAN Registration)",
+"●",
+"●",
+"●"
+],
+[
+"IPv4 Forwarding",
+"ARP",
+"ARP",
+"Static and dynamic ARP entries",
+"●",
+"●",
+"●"
+],
+[
+"IPv4 Forwarding",
+"ARP",
+"ARP",
+"Aging of ARP entries",
+"●",
+"●",
+"●"
+],
+[
+"IPv4 Forwarding",
+"ARP",
+"ARP",
+"Gratuitous ARP",
+"●",
+"●",
+"●"
+],
+[
+"IPv4 Forwarding",
+"ARP",
+"ARP proxy",
+"basic ARP-Proxy",
+"●",
+"●",
+"●"
+],
+[
+"IPv4 Forwarding",
+"ARP",
+"ARP proxy",
+"local ARP-Proxy",
+"●",
+"●",
+"●"
+],
+[
+"IPv4 Forwarding",
+"IPv4 Static Routes",
+"IPv4 Static Routes",
+"IPv4 Static Routes",
+"●",
+"●",
+"●"
+],
+[
+"IPv4 Forwarding",
+"IPv4 Static Routes",
+"IPv4 Static Routes",
+"Black hole Routes",
+"●",
+"●",
+"●"
+],
+[
+"IPv4 Forwarding",
+"IPv4 Static Routes",
+"IPv4 Static Routes",
+"co-work with IP SLA",
+"●",
+"●",
+"●"
+],
+[
+"IPv4 Forwarding",
+"IPv4 Static Routes",
+"IPv4 Static Routes",
+"VRF(Virtual Routing and Forwarding)",
+"●",
+"●",
+"●"
+],
+[
+"IPv4 Forwarding",
+"IPv4 Static Routes",
+"IPv4 Static Routes",
+"uRPF check",
+"●",
+"●",
+"●"
+],
+[
+"IPv4 Forwarding",
+"IPv4 Static Routes",
+"RIP",
+"RIP v1/v2",
+"●",
+"●",
+"●"
+],
+[
+"IPv4 Forwarding",
+"IPv4 Static Routes",
+"OSPFv2",
+"OSPF v2",
+"○",
+"●",
+"●"
+],
+[
+"IPv4 Forwarding",
+"IPv4 Static Routes",
+"IS-IS",
+"IS-IS",
+"○",
+"●",
+"●"
+],
+[
+"IPv4 Forwarding",
+"IPv4 Static Routes",
+"IS-IS",
+"segment-routing based on IS-IS protocol extension",
+"○",
+"○",
+"●"
+],
+[
+"IPv4 Forwarding",
+"IPv4 Static Routes",
+"BGP",
+"IBGP",
+"○",
+"●",
+"●"
+],
+[
+"IPv4 Forwarding",
+"IPv4 Static Routes",
+"BGP",
+"EBGP",
+"○",
+"●",
+"●"
+],
+[
+"IPv4 Forwarding",
+"IPv4 Static Routes",
+"BGP",
+"Graceful-Restart helper",
+"○",
+"●",
+"●"
+],
+[
+"IPv4 Forwarding",
+"IPv4 Static Routes",
+"Route policy",
+"Route-map",
+"●",
+"●",
+"●"
+],
+[
+"IPv4 Forwarding",
+"IPv4 Static Routes",
+"Route policy",
+"IPv4 prefix-list",
+"●",
+"●",
+"●"
+],
+[
+"IPv4 Forwarding",
+"IPv4 Static Routes",
+"PBR",
+"PBR(Policy-based Routing)",
+"●",
+"●",
+"●"
+],
+[
+"IPv4 Forwarding",
+"IPv4 Static Routes",
+"ICMP",
+"ICMP redirect",
+"●",
+"●",
+"●"
+],
+[
+"IPv4 Forwarding",
+"IPv4 Static Routes",
+"ICMP",
+"ICMP unreachables",
+"●",
+"●",
+"●"
+],
+[
+"IPv4 Forwarding",
+"IPv4 Static Routes",
+"ECMP",
+"ECMP(SLB)",
+"●",
+"●",
+"●"
+],
+[
+"IPv4 Forwarding",
+"IPv4 Static Routes",
+"ECMP",
+"ECMP(DLB)",
+"●",
+"●",
+"●"
+],
+[
+"IPv4 Forwarding",
+"IPv4 Static Routes",
+"ECMP",
+"ECMP(RR)",
+"●",
+"●",
+"●"
+],
+[
+"IPv4 Forwarding",
+"IPv4 Static Routes",
+"ECMP",
+"ECMP Self-healing",
+"●",
+"●",
+"●"
+],
+[
+"IPv4 Forwarding",
+"IPv4 Static Routes",
+"IP unnumbered",
+"IP unnumbered",
+"●",
+"●",
+"●"
+],
+[
+"IPv4 Forwarding",
+"IPv4 Multicast Routing",
+"IGMP",
+"IGMP v1/v2/v3",
+"●",
+"●",
+"●"
+],
+[
+"IPv4 Forwarding",
+"IPv4 Multicast Routing",
+"IGMP",
+"IGMP-proxy",
+"●",
+"●",
+"●"
+],
+[
+"IPv4 Forwarding",
+"IPv4 Multicast Routing",
+"IGMP",
+"IGMP SSM mapping",
+"●",
+"●",
+"●"
+],
+[
+"IPv4 Forwarding",
+"IPv4 Multicast Routing",
+"PIM",
+"PIM-SM",
+"○",
+"●",
+"●"
+],
+[
+"IPv4 Forwarding",
+"IPv4 Multicast Routing",
+"PIM",
+"PIM-SSM",
+"○",
+"○",
+"●"
+],
+[
+"IPv4 Forwarding",
+"IPv4 Multicast Routing",
+"PIM",
+"PIM-DM",
+"○",
+"●",
+"●"
+],
+[
+"IPv6 Forwarding",
+"IPv6 Basic Protocol",
+"ICMPv6",
+"ICMPv6",
+"○",
+"●",
+"●"
+],
+[
+"IPv6 Forwarding",
+"IPv6 Basic Protocol",
+"NDP",
+"NDP",
+"○",
+"●",
+"●"
+],
+[
+"IPv6 Forwarding",
+"IPv6 Basic Protocol",
+"PMTU",
+"PMTU",
+"○",
+"●",
+"●"
+],
+[
+"IPv6 Forwarding",
+"IPv6 Unicast Routing",
+"IPv6 Static Routes",
+"IPv6 Static Routes",
+"○",
+"●",
+"●"
+],
+[
+"IPv6 Forwarding",
+"IPv6 Unicast Routing",
+"IPv6 Static Routes",
+"IPv6 Blackhole Routes",
+"●",
+"●",
+"●"
+],
+[
+"IPv6 Forwarding",
+"IPv6 Unicast Routing",
+"RIPng",
+"RIPng",
+"○",
+"●",
+"●"
+],
+[
+"IPv6 Forwarding",
+"IPv6 Unicast Routing",
+"BGP4+",
+"BGP4+",
+"○",
+"●",
+"●"
+],
+[
+"IPv6 Forwarding",
+"IPv6 Unicast Routing",
+"OSPFv3",
+"OSPF v3",
+"○",
+"●",
+"●"
+],
+[
+"IPv6 Forwarding",
+"IPv6 Unicast Routing",
+"IS-IS",
+"IS-IS",
+"○",
+"●",
+"●"
+],
+[
+"IPv6 Forwarding",
+"IPv6 Unicast Routing",
+"VRRP v3",
+"VRRP v3",
+"●",
+"●",
+"●"
+],
+[
+"IPv6 Forwarding",
+"Pv6 Multicast Routing",
+"MLD v1/v2",
+"MLD v1/v2",
+"○",
+"●",
+"●"
+],
+[
+"IPv6 Forwarding",
+"Pv6 Multicast Routing",
+"MLD v1/v2 snooping",
+"MLD v1/v2 snooping",
+"○",
+"●",
+"●"
+],
+[
+"IPv6 Forwarding",
+"Pv6 Multicast Routing",
+"MVR6",
+"MVR6",
+"○",
+"●",
+"●"
+],
+[
+"IPv6 Forwarding",
+"Pv6 Multicast Routing",
+"PIM-SM v6",
+"PIM-SM v6",
+"○",
+"●",
+"●"
+],
+[
+"IPv6 Forwarding",
+"IP Tunnel",
+"IPv6 over IPv4 Tunnel",
+"IPv6 over IPv4 tunnel",
+"○",
+"●",
+"●"
+],
+[
+"IPv6 Forwarding",
+"IP Tunnel",
+"6to4 Tunnel",
+"6to4 tunnel",
+"○",
+"●",
+"●"
+],
+[
+"IPv6 Forwarding",
+"IP Tunnel",
+"ISATAP Tunnel",
+"ISATAP tunnel",
+"○",
+"●",
+"●"
+],
+[
+"IPv6 Forwarding",
+"IPv6",
+"DHCPv6",
+"DHCPv6 Relay",
+"○",
+"●",
+"●"
+],
+[
+"IPv6 Forwarding",
+"IPv6",
+"DHCPv6",
+"DHCPv6 snooping",
+"○",
+"●",
+"●"
+],
+[
+"IPv6 Forwarding",
+"IPv6",
+"IPv6 Prefix List",
+"IPv6 Prefix-list",
+"○",
+"●",
+"●"
+],
+[
+"Device reliability features",
+"BFD",
+"BFD",
+"Detecting BFD for static routes",
+"○",
+"●",
+"●"
+],
+[
+"Device reliability features",
+"BFD",
+"BFD",
+"Detecting BFD for OSPFv2",
+"○",
+"●",
+"●"
+],
+[
+"Device reliability features",
+"BFD",
+"BFD",
+"Detecting IS-IS BFD. Procedure",
+"○",
+"●",
+"●"
+],
+[
+"Device reliability features",
+"BFD",
+"BFD",
+"Detecting BGP BFD",
+"○",
+"●",
+"●"
+],
+[
+"Device reliability features",
+"BFD",
+"BFD",
+"Detecting BFD for VRRP/Track",
+"○",
+"●",
+"●"
+],
+[
+"Device reliability features",
+"BFD",
+"BFD",
+"Detecting BFD for the PBR",
+"○",
+"●",
+"●"
+],
+[
+"Device reliability features",
+"VRRP",
+"VRRP",
+"VRRP",
+"●",
+"●",
+"●"
+],
+[
+"Device reliability features",
+"VRRP",
+"VRRP",
+"Track for VRRP",
+"●",
+"●",
+"●"
+],
+[
+"Device reliability features",
+"Smart link",
+"Smart link",
+"multi-instance",
+"●",
+"●",
+"●"
+],
+[
+"Device reliability features",
+"Smart link",
+"Smart link",
+"load balance",
+"●",
+"●",
+"●"
+],
+[
+"Device reliability features",
+"Smart link",
+"Smart link",
+"Multi-Link",
+"●",
+"●",
+"●"
+],
+[
+"Device reliability features",
+"Smart link",
+"Smart link",
+"Monitor-link",
+"●",
+"●",
+"●"
+],
+[
+"Device reliability features",
+"MLAG",
+"MLAG",
+"MLAG basic",
+"●",
+"●",
+"●"
+],
+[
+"Device reliability features",
+"MLAG",
+"MLAG",
+"MLAG orphan Port",
+"●",
+"●",
+"●"
+],
+[
+"Ethernet OAM",
+"EFM",
+"EFM (802.3ah)",
+"Auto detection",
+"○",
+"●",
+"●"
+],
+[
+"Ethernet OAM",
+"EFM",
+"EFM (802.3ah)",
+"Network fault detection",
+"○",
+"●",
+"●"
+],
+[
+"Ethernet OAM",
+"EFM",
+"EFM (802.3ah)",
+"Network fault handle",
+"○",
+"●",
+"●"
+],
+[
+"Ethernet OAM",
+"EFM",
+"EFM (802.3ah)",
+"remote loop back",
+"○",
+"●",
+"●"
+],
+[
+"Ethernet OAM",
+"CFM",
+"CFM (802.1ag)",
+"Hardware CCM detect",
+"○",
+"●",
+"●"
+],
+[
+"Ethernet OAM",
+"CFM",
+"CFM (802.1ag)",
+"Linktrace",
+"○",
+"●",
+"●"
+],
+[
+"Ethernet OAM",
+"CFM",
+"CFM (802.1ag)",
+"Loopback",
+"○",
+"●",
+"●"
+],
+[
+"Ethernet OAM",
+"Y.1731",
+"Y.1731",
+"Latency and Jitter measure",
+"○",
+"●",
+"●"
+],
+[
+"QoS",
+"QoS",
+"Traffic classification",
+"Traffic classification based on COS/DSCP (simple classification)",
+"●",
+"●",
+"●"
+],
+[
+"QoS",
+"QoS",
+"Traffic classification",
+"Traffic classification based on ACL ( complex classification)",
+"●",
+"●",
+"●"
+],
+[
+"QoS",
+"QoS",
+"Traffic classification",
+"Traffic classification based on inner header of the tunnel packets",
+"●",
+"●",
+"●"
+],
+[
+"QoS",
+"QoS",
+"Traffic behaviors",
+"Queue scheduling",
+"●",
+"●",
+"●"
+],
+[
+"QoS",
+"QoS",
+"Traffic behaviors",
+"Remark the priority fields(COS/DSCP) of the packet based on ACL",
+"●",
+"●",
+"●"
+],
+[
+"QoS",
+"QoS",
+"Traffic behaviors",
+"Remark the priority fields(COS/DSCP) of the packet based on ACL",
+"●",
+"●",
+"●"
+],
+[
+"QoS",
+"QoS",
+"Traffic behaviors",
+"Flow redirection",
+"●",
+"●",
+"●"
+],
+[
+"QoS",
+"QoS",
+"Traffic behaviors",
+"Flow mirror",
+"●",
+"●",
+"●"
+],
+[
+"QoS",
+"QoS",
+"Traffic policing",
+"Traffic policing based on direction(in/out)  of Port",
+"●",
+"●",
+"●"
+],
+[
+"QoS",
+"QoS",
+"Traffic policing",
+"Traffic policing based on direction(in/out) of VLAN",
+"●",
+"●",
+"●"
+],
+[
+"QoS",
+"QoS",
+"Traffic policing",
+"Traffic policing based on direction(in/out) of flow",
+"●",
+"●",
+"●"
+],
+[
+"QoS",
+"QoS",
+"Traffic policing",
+"Traffic policing based on direction(in/out) of aggregated flow",
+"●",
+"●",
+"●"
+],
+[
+"QoS",
+"QoS",
+"Traffic shaping",
+"Queue based traffic shaping",
+"●",
+"●",
+"●"
+],
+[
+"QoS",
+"QoS",
+"Traffic shaping",
+"Port based traffic shaping",
+"●",
+"●",
+"●"
+],
+[
+"QoS",
+"QoS",
+"Congestion management",
+"SP(Strict Priority)scheduling",
+"●",
+"●",
+"●"
+],
+[
+"QoS",
+"QoS",
+"Congestion management",
+"WDRR(Weighted Deficit Round Robin)scheduling",
+"●",
+"●",
+"●"
+],
+[
+"QoS",
+"QoS",
+"Congestion management",
+"SP + WDRR mixed scheduling",
+"●",
+"●",
+"●"
+],
+[
+"QoS",
+"QoS",
+"Congestion avoidance",
+"TD(Tail Drop)",
+"●",
+"●",
+"●"
+],
+[
+"QoS",
+"QoS",
+"Congestion avoidance",
+"WRED(Weighted Random Early Detection)",
+"●",
+"●",
+"●"
+],
+[
+"QoS",
+"QoS",
+"Traffic statistics",
+"Packet counts and bytes statistics based on traffic classification",
+"●",
+"●",
+"●"
+],
+[
+"QoS",
+"QoS",
+"Traffic statistics",
+"Packet counts and bytes statistics based on the color after traffic policing",
+"●",
+"●",
+"●"
+],
+[
+"QoS",
+"QoS",
+"Traffic statistics",
+"Forwarded and discarded packet counts and bytes statistics",
+"●",
+"●",
+"●"
+],
+[
+"QoS",
+"QoS",
+"ECN (Explicit congestion)",
+"Tail Drop-based ECN tag",
+"○",
+"●",
+"●"
+],
+[
+"QoS",
+"QoS",
+"ECN (Explicit congestion)",
+"WRED based ECN tagx",
+"○",
+"●",
+"●"
+],
+[
+"QoS",
+"QoS",
+"ECN (Explicit congestion)",
+"Shape rate speed based ECN tagx",
+"○",
+"●",
+"●"
+],
+[
+"Network virtualization",
+"VARP",
+"Virtual gateway",
+"VARP（Virtual-ARP）",
+"●",
+"●",
+"●"
+],
+[
+"Network virtualization",
+"VARP",
+"Virtual gateway",
+"Support IPv4",
+"●",
+"●",
+"●"
+],
+[
+"Network virtualization",
+"VARP",
+"Virtual gateway",
+"Support IPv6",
+"●",
+"●",
+"●"
+],
+[
+"Network virtualization",
+"VARP",
+"Virtual gateway",
+"VARP support subnet",
+"●",
+"●",
+"●"
+],
+[
+"Network virtualization",
+"Tunnel",
+"VxLAN",
+"Manual configure VxLAN tunnel",
+"○",
+"●",
+"●"
+],
+[
+"Network virtualization",
+"Tunnel",
+"VxLAN",
+"VxLAN distributed gateway",
+"○",
+"●",
+"●"
+],
+[
+"Network virtualization",
+"Tunnel",
+"VxLAN",
+"VxLAN active-active access",
+"○",
+"●",
+"●"
+],
+[
+"Network virtualization",
+"Tunnel",
+"VxLAN",
+"VxLAN realize Overlay network",
+"○",
+"●",
+"●"
+],
+[
+"Network virtualization",
+"Tunnel",
+"VxLAN",
+"L2 Protocol packet pass through",
+"○",
+"●",
+"●"
+],
+[
+"Network virtualization",
+"Tunnel",
+"VxLAN",
+"Modify the DSCP of the outer VxLAN header",
+"○",
+"●",
+"●"
+],
+[
+"Network virtualization",
+"Tunnel",
+"VxLAN",
+"Edit DSCP in VxLan outer header",
+"○",
+"●",
+"●"
+],
+[
+"Network virtualization",
+"Tunnel",
+"VxLAN",
+"BGP EVPN",
+"○",
+"○",
+"●"
+],
+[
+"Network virtualization",
+"Tunnel",
+"VxLAN",
+"Support to enable/disable overlay split horizon per-VNI",
+"○",
+"●",
+"●"
+],
+[
+"Network virtualization",
+"Tunnel",
+"VxLAN",
+"Support IPv4",
+"○",
+"●",
+"●"
+],
+[
+"Network virtualization",
+"Tunnel",
+"VxLAN",
+"Support IPv6",
+"○",
+"●",
+"●"
+],
+[
+"Network virtualization",
+"Tunnel",
+"GRE Tunnel",
+"GRE Tunnel",
+"○",
+"●",
+"●"
+],
+[
+"Network virtualization",
+"Tunnel",
+"NVGRE Tunnel",
+"NVGRE Tunnel",
+"○",
+"●",
+"●"
+],
+[
+"Network virtualization",
+"Tunnel",
+"GENEVE Tunnel",
+"GENEVE Tunnel",
+"○",
+"●",
+"●"
+],
+[
+"Network convergence",
+"DCB",
+"DCBX",
+"LLDP support DCBX TLV",
+"○",
+"●",
+"●"
+],
+[
+"Network convergence",
+"DCB",
+"PFC",
+"PFC",
+"○",
+"●",
+"●"
+],
+[
+"Metropolitan Network",
+"IPRAN",
+"LDP",
+"LDP",
+"○",
+"○",
+"●"
+],
+[
+"Metropolitan Network",
+"IPRAN",
+"MPLS Forwarding",
+"MPLS Forwarding",
+"○",
+"○",
+"●"
+],
+[
+"Metropolitan Network",
+"IPRAN",
+"VPWS",
+"VPWS",
+"○",
+"○",
+"●"
+],
+[
+"Metropolitan Network",
+"IPRAN",
+"VPLS",
+"VPLS",
+"○",
+"○",
+"●"
+],
+[
+"Metropolitan Network",
+"IPRAN",
+"MPLS OAM",
+"MPLS OAM",
+"○",
+"○",
+"●"
+],
+[
+"Metropolitan Network",
+"IPRAN",
+"MPLS Stats",
+"MPLS Stats",
+"○",
+"○",
+"●"
+],
+[
+"Metropolitan Network",
+"IPRAN",
+"L2VPN",
+"L2VPN",
+"○",
+"○",
+"●"
+],
+[
+"Metropolitan Network",
+"IPRAN",
+"L3VPN",
+"L3VPN",
+"○",
+"○",
+"●"
+],
+[
+"Metropolitan Network",
+"IPRAN",
+"ACL",
+"MPLS ACL",
+"○",
+"○",
+"●"
+],
+[
+"Metropolitan Network",
+"IPRAN",
+"QoS",
+"MPLS QoS",
+"○",
+"○",
+"●"
+],
+[
+"Metropolitan Network",
+"IPRAN",
+"SR",
+"Segment-routing based on MPLS",
+"○",
+"○",
+"●"
+],
+[
+"Safety and management",
+"System Security",
+"SSH",
+"SSH v1/v2",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"System Security",
+"SSH",
+"RSA Key generation",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"System Security",
+"RADIUS",
+"RADIUS",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"System Security",
+"TACAS+",
+"TACAS+",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"System Security",
+"AAA",
+"Authentication",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"System Security",
+"AAA",
+"Authorization",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"System Security",
+"AAA",
+"Accounting",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"System Security",
+"Dot1x",
+"Port based dot1x",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"System Security",
+"Dot1x",
+"MAC based dot1x",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"System Security",
+"Dot1x",
+"Guest VLAN",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"System Security",
+"ACL",
+"MAC/IP ACL",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"System Security",
+"ACL",
+"Basic Mode ACL",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"System Security",
+"ACL",
+"Port-group ACL",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"System Security",
+"ACL",
+"VLAN-group ACL",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"System Security",
+"ACL",
+"IPv6 ACL",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"System Security",
+"ACL",
+"ACL UDF",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"System Security",
+"ACL",
+"Global ACL",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"System Security",
+"ACL",
+"Time Range",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"System Security",
+"ARP inspection",
+"ARP inspection",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"System Security",
+"IP source guard",
+"IP source guard",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"System Security",
+"Port Security",
+"Limitation on MAC address learning on interface",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"System Security",
+"VLAN Security",
+"Limitation on MAC address learning on VLAN",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"System Security",
+"Control Plane Policy (COPP)",
+"Black list/wihte list",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"System Security",
+"Control Plane Policy (COPP)",
+"Rate limit",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"System Security",
+"CPU Traffic Limit",
+"CPU Traffic Limit",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"System Security",
+"Prevent DDOS attack",
+"Prevent DDOS attack (ICMP Flood/Smurf/Fraggle/LAND/SYN Flood)",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"System Security",
+"Login filter",
+"Telnet/SSH ACL filtering",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"System Security",
+"Login filter",
+"Telnet/SSH IPv6 ACL filtering",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"System Security",
+"Link-Flapping detection",
+"Link-Flapping detection",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"Network Management",
+"DHCP",
+"DHCP Server",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"Network Management",
+"DHCP",
+"DHCP Relay",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"Network Management",
+"DHCP",
+"DHCP snooping",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"Network Management",
+"DHCP",
+"DHCP Client",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"Network Management",
+"DHCP",
+"DHCP option 82",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"Network Management",
+"DHCP",
+"DHCP option 252",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"Network Management",
+"RMON",
+"RMON",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"Network Management",
+"sFlow",
+"sFlow v4/v5",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"Network Management",
+"IP SLA",
+"Support IPv4",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"Network Management",
+"IP SLA",
+"Support IPv6",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"Network Management",
+"IP SLA",
+"Support Track",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"Network Management",
+"IPFIX",
+"IPFIX",
+"○",
+"●",
+"●"
+],
+[
+"Safety and management",
+"Network Management",
+"Latency/Buffer monitor",
+"Latency monitor",
+"○",
+"●",
+"●"
+],
+[
+"Safety and management",
+"Network Management",
+"Latency/Buffer monitor",
+"Buffer monitor",
+"○",
+"●",
+"●"
+],
+[
+"Safety and management",
+"Network Management",
+"EFD",
+"Elephant flow detection",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"Network Management",
+"NTP",
+"NTP(Network Time Protocol)",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"Network Management",
+"PTP（IEEE 1588 ）",
+"Transparent clock （TC）",
+"○",
+"○",
+"●"
+],
+[
+"Safety and management",
+"Network Management",
+"Errdisable",
+"Errdisable detection and recovery",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"Network Management",
+"DNS",
+"Static DNS Client",
+"●",
+"●",
+"●"
+],
+[
+"Safety and management",
+"Network Management",
+"LLDP",
+"LLDP",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Terminal Services",
+"Command Line Interface",
+"Configurations through CLI (Command Line Interface)",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Terminal Services",
+"Help information",
+"Banner configuration",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Terminal Services",
+"Help information",
+"Help information in English",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Terminal Services",
+"Terminal Services",
+"Vty Terminal service",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Terminal Services",
+"Terminal Services",
+"Console Terminal service",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Configuration Management",
+"Management interface",
+"In-band management interface and configuration",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Configuration Management",
+"Management interface",
+"Out-band management interface and configuration",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Configuration Management",
+"User privilege management",
+"privileged user priority and privileged commands",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Configuration Management",
+"SNMP",
+"Network management based on SNMPv1/v2c/v3",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Configuration Management",
+"SNMP",
+"Public and private MIB",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Configuration Management",
+"SNMP",
+"Public and private Trap",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Configuration Management",
+"WEB",
+"Configuration and management based on WEB UI",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Configuration Management",
+"RPC-API",
+"Configuration and management based on RPC-API",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Configuration Management",
+"Smart config",
+"Smart Config(Automatically configuration when system start)",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Configuration Management",
+"OVSDB",
+"Configuration and management based on OVSDB",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Configuration Management",
+"Configuration and management based on RPC-API",
+"change the system specifications by choose different STM Profiles",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Configuration Management",
+"License control",
+"Feature configuration based on License",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Configuration Management",
+"Netconf",
+"Netconf",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Configuration Management",
+"Restore factory default",
+"Restore factory default configuration",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"File System",
+"File system",
+"File system(support directory and file management)",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"File System",
+"Upload and download",
+"Upload and download files through FTP or TFTP",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"File System",
+"Upload and download",
+"Upload and download files in SCP mode",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"File System",
+"Upload and download",
+"File transfer in Xmodem mode",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"Debug",
+"per-module Debug features",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"Debug",
+"ICMP Debug",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"BHM",
+"Software process monitor: BHM(Beat Heart Monitor)",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"BHM",
+"Hardware Watch Dog",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"VCT",
+"VCT(Virtual Cable Test)",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"System diagnostics",
+"Detailed Diagnostic-information collection",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"Reboot",
+"Manual reboot",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"Reboot",
+"Schedule Reboot",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"Reboot",
+"Reboot Information logging",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"Network diagnostics",
+"Ping",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"Network diagnostics",
+"IPv6 Ping",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"Network diagnostics",
+"Traceroute",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"Network diagnostics",
+"CPU usage display and  alarm",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"Network diagnostics",
+"Memory  usage display and  alarm",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"Network diagnostics",
+"Supports CPU/ memory historical display",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"Network diagnostics",
+"Supports CPU/ memory historical display",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"Network diagnostics",
+"User operation logs",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"Network diagnostics",
+"Management of logs, alarms, and debugging information",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"Network diagnostics",
+"Support interface bandwidth usage alarms",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"Network diagnostics",
+"Support Log servers with IPv4 addresses",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"Network diagnostics",
+"Support Log servers with IPv6 addresses",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"Mirror",
+"Port mirror",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"Mirror",
+"Flow mirror",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"Mirror",
+"Remote mirror",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"Mirror",
+"Multi-destination mirror(m:n)",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"Mirror",
+"Use CPU as mirror source",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"Mirror",
+"Use CPU as mirror destination and analyze packet",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"Mirror",
+"ERSPAN",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"CPU statistics",
+"To CPU/From CPU packets statistics",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"L2 Ping",
+"layer2 network connectivity detection - L2Ping (MAC Ping/Trace)",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"UDLD",
+"UDLD(Unidirectional Link Detection)",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"Unidirectional",
+"Unidirectional forwarding of the fiber",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"Loop back",
+"port loop back",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"Loop back",
+"hardware loop back(internal/external)",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"System time",
+"Time configuration",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Diagnosis and Maintenance",
+"System time",
+"Timezone",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Version upgrade",
+"System software upgrade",
+"Local upgrade",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Version upgrade",
+"System software upgrade",
+"Upgrade from TFTP",
+"●",
+"●",
+"●"
+],
+[
+"Configuration and maintenance",
+"Version upgrade",
+"Uboot upgrade",
+"Upgrade the Uboot online",
+"●",
+"●",
+"●"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"ORDER INFORMATION"
+},
+{
+"t":"table",
+"rows":[
+[
+"Product Name",
+"Description"
+],
+[
+"S5048-4X2Q-EI",
+"48 Port 2.5GBase-T L3 Managed Ethernet Switch with 2*40Gb QSFP+ And 4*25G/10G Uplinks / 2*250W (1+1 Redundancy) Hot-swappable Power Supplies / 2*Hot-swappable Fan Module"
+],
+[
+"S5048-4X2Q-SI",
+"48 Port 2.5GBase-T L3 Managed Ethernet Switch with 2*40Gb QSFP+ And 4*25G/10G Uplinks / 1*200W Non pluggable Power Supply / 4*Non Pluggable Fans"
+],
+[
+"Software License",
+"HOS-EB, basic Layer3 software features,Pre installed"
+],
+[
+"Software License",
+"HOS-MS, Full layer3 software license key"
+],
+[
+"Software License",
+"HOS-MA, Metro features software license key"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:05:21Z"
+}

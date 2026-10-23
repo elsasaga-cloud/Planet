@@ -1,0 +1,464 @@
+{
+"id":"Extra_Info__Price__2026_Price_List_Realtek_Commercial_Switch.xls__43b80f45",
+"path":"Extra_Info/Price/2026 Price List_Realtek Commercial Switch.xls",
+"name":"2026 Price List_Realtek Commercial Switch.xls",
+"ext":".xls",
+"bytes":7638016,
+"sha256":"43b80f4578821ac1d4e33821807f8e2a52ecf43ef8f5352ece25a44c2e4c538f",
+"source":"Extra_Info.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Saga Telecom"
+],
+"rows_total":67
+},
+"warnings":[],
+"chars":7750,
+"text":"--- Sheet: Saga Telecom ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 13048800964                                        www.sagatelecom.com.cn                                 Email: a.sagatelecom@gmail.com\nDownload Link(information for full category)\nhttps://drive.google.com/drive/folders/1CEIsx5qow56zK_1FWmhvGyIrwgrbFgEC?usp=drive_link\nMust-Know\n1.Eco-friendly lead-free metal case\n2.Most PoE models are PoE af/at based, some support PoE BT 90W standard\n3.The power comes in AC and DC input. For AC type, it has internal AC-DC converter\n4.Power adapter is included in the price\nBut optical module is NOT included, need to purchase individually\nFor AC input models, there is a pair of mounting brackets in the packing box for rack mounting\nClick the model name, you will be directed to the product webpage for more information\nCommercial Ethernet Switch(Unmanaged, Non-PoE series)\nModel\tSpecification\t\t\t\tPrice\tPicture\nSTC-05GE\t5*10/100/1000M RJ45, DC5V1A, Desktop Type\t\t\t\t5.5\nSTC-08GE\t8*10/100/1000M RJ45, DC5V2A, Desktop Type\t\t\t\t9.5\nSTC-016GE\t16*10/100/1000M RJ45, Support Vlan/Extend mode, QoS, loop alarm, AC input, Rack compatible\t\t\t\t30\nSTC-024GE-D\t24*10/100/1000M RJ45, Support Vlan/Extend mode, QoS, loop alarm, AC input, Desktop Type\t\t\t\t39\nSTC-024GE-U\t24*10/100/1000M RJ45, Support Vlan/Extend mode, QoS, loop alarm, AC input, Rack compatible\t\t\t\t44\nSTC-224GE\t2*Gigabit SFP+24*10/100/1000M RJ45\nSupport Vlan/Extend mode, QoS, AC input, Rack compatible\t\t\t\t48\nSTC-248GE\t2*Gigabit SFP+48*10/100/1000M RJ45\nSupport Vlan mode, loop alarm, AC input, Rack compatible\t\t\t\t125\nSTC-15XGDGE\t1*10G SFP+5*2.5G RJ45, downward compatible, DC12V1A, Desktop Type\t\t\t\t35\nSTC-18XGDGE\t1*10G SFP+8*2.5G RJ45, downward compatible, DC12V2A, Desktop Type\t\t\t\t45.5\nSTC-216XGDGE\t2*10G SFP+16*2.5G RJ45, downward compatible, Support Vlan mode, AC input, Rack compatible\t\t\t\t165\nSTC-224XGDGE\t2*10G SFP+24*2.5G RJ45, downward compatible, Support Vlan mode, AC input, Rack compatible\t\t\t\t185\nSTC-08XGE\t8*10G RJ45, downward compatible, AC input, Rack compatible\t\t\t\t165\nSTC-80XGO\t8*10G SFP, downward compatible, DC12V2A, Desktop Type\t\t\t\t75\nCommercial PoE Switch(Unmanaged series)\nSTC-024FP\t2*10/100M RJ45 Uplink+4*10/100M PoE Downlink\nPoE af/at, 55W budget, Support Vlan/Extend mode, AC input, Rack compatible\t\t\t\t9\nSTC-028FP\t2*10/100M RJ45 Uplink+8*10/100M PoE Downlink\nPoE af/at, 96W budget, Support Vlan/Extend mode, AC input, Rack compatible\t\t\t\t12.5\nSTC-028GFP\t2*10/100/1000M RJ45 Uplink+8*10/100M PoE Downlink\nPoE af/at, 96W budget, Support Vlan/Extend mode, AC input, Rack compatible\t\t\t\t16\nSTC-0216GFP\t2*10/100/1000M RJ45 Uplink+16*10/100M PoE Downlink\nPoE af/at, 300W budget, Support Vlan/Extend mode, AC input, Rack compatible\t\t\t\t34\nSTC-0224GFP\t2*10/100/1000M RJ45 Uplink+24*10/100M PoE Downlink\nPoE af/at, 300W budget, Support Vlan/Extend mode, AC input, Rack compatible\t\t\t\t48\nSTC-128GFP\t1*Gigabit SFP+2*10/100/1000M RJ45 Uplink+8*10/100M PoE Downlink\nPoE af/at, 120W budget, Support Vlan/Extend mode, AC input, Rack compatible\t\t\t\t20.5\nSTC-1216GFP\t1*Gigabit SFP+2*10/100/1000M RJ45 Uplink+16*10/100M PoE Downlink\nPoE af/at, 300W budget, Support Vlan/Extend mode, AC input, Rack compatible\t\t\t\t40\nSTC-1224GFP\t1*Gigabit SFP+2*10/100/1000M RJ45 Uplink+24*10/100M PoE Downlink\nPoE af/at, 300W budget, Support Vlan/Extend mode, AC input, Rack compatible\t\t\t\t55\nSTC-024GP\t2*10/100/1000M RJ45 Uplink+4*10/100/1000M PoE Downlink\nPoE af/at, 60W budget, Support Vlan/Extend mode, AC input, Rack compatible\t\t\t\t17\nSTC-028GP\t2*10/100/1000M RJ45 Uplink+8*10/100/1000M PoE Downlink\nPoE af/at, 120W budget, Support Vlan/Extend mode, AC input, Rack compatible\t\t\t\t22\nSTC-114GP\t1*Gigabit SFP+1*10/100/1000M RJ45 Uplink+4*10/100/1000M PoE Downlink\nPoE af/at, 60W budget, Support Vlan/Extend mode, AC input, Rack compatible\t\t\t\t15\nSTC-204GP\t2*Gigabit SFP+4*10/100/1000M PoE Downlink\nPoE af/at, 60W budget, Support Vlan/Extend, AC input, Rack compatible\t\t\t\t18.5\nSTC-208GP\t2*10/100/1000M RJ45 Uplink+8*10/100/1000M PoE Downlink\nPoE af/at, 120W budget, Support Extend mode, AC input, Rack compatible\t\t\t\t24\nSTC-228GP\t2*Gigabit SFP+2*10/100/1000M RJ45 Uplink+8*10/100/1000M PoE Downlink\nPoE af/at, 120W budget, Support Extend mode, PoE priority, PoE Watchdog, AC input, Rack compatible\t\t\t\t28\nSTC-2016GP\t2*Gigabit SFP+16*10/100/1000M PoE Downlink\nPoE af/at, 300W budget, Support Vlan/Extend, AC input, Rack compatible\t\t\t\t80\nSTC-2216GP\t2*Gigabit SFP+2*10/100/1000M RJ45 Uplink+16*10/100/1000M PoE Downlink\nPoE af/at, 200W budget, Support Extend mode, PoE priority, PoE Watchdog, AC input, Rack compatible\t\t\t\t86\nSTC-2024GP\t2*Gigabit SFP+24*10/100/1000M PoE Downlink\nPoE af/at, 300W budget, Support Vlan/Extend, QoS, AC input, Rack compatible\t\t\t\t85\nSTC-2224GP\t2*Gigabit SFP+2*10/100/1000M RJ45 Uplink+24*10/100/1000M PoE Downlink\nPoE af/at, 300W budget, Support Extend mode, PoE priority, PoE Watchdog, AC input, Rack compatible\t\t\t\t90\nSTC-114XGDGP\t1*10 Gigabit SFP+1*2.5 RJ45 Uplink+4*2.5G PoE Downlink, downward compatible\nPoE af/at, 60W budget, Support PoE priority, AC input, Rack compatible\t\t\t\t40\nSTC-108XGDGP\t1*10 Gigabit SFP+8*2.5G PoE Downlink, downward compatible\nPoE af/at, 100W budget, Support PoE priority, AC input, Rack compatible\t\t\t\t58\nL2 Managed: VLAN, MAC address, QoS, Ring, STP/RSTP/MSTP, Web/Telnet/CLI/SSH...\nL3 Managed: ARP,  IPV4/IPV6, RIP, OSPF...\nCommercial Managed Switch(Non-PoE Series)\nSTC-28GM\t2*Gigabit SFP+8*10/100/1000M RJ45+1*Console Port\nL2 managed, AC input, Rack compatible\t\t\t\t46\nSTC-424GM\t4*Gigabit SFP+24*10/100/1000M RJ45+1*Console Port\nL2 managed, AC input, Rack compatible\t\t\t\t90\nSTC-424XGGM\t4*10 Gigabit SFP+24*10/100/1000M RJ45+1*USB Port+1*Console Port, downward compatible\nL3 managed, AC input, Rack compatible\t\t\t\t115\nSTC-4248XGGCM\t4*10 Gigabit SFP+16*Gigabit SFP+8*Gigabit SFP/RJ45(Combo ports)+1*Console Port\nDownward compatible, L3 managed, AC input, Rack compatible\t\t\t\t270\nSTC-448XGGM\t4*10 Gigabit SFP+48*10/100/1000M RJ45+1*USB Port+1*Console Port, downward compatible\nL3 managed, AC input, Rack compatible\t\t\t\t230\nSTC-624XGDGM\t6*10 Gigabit SFP+24*2.5G RJ45+1*Console Port, downward compatible\nL3 managed, AC input, Rack compatible\t\t\t\t300\nSTC-120XGM\t12*10 Gigabit SFP+1*Console Port, downward compatible\nL3 managed, AC input, Rack compatible\t\t\t\t145\nCommercial PoE Managed Switch\nSTC-28GPM\t2*Gigabit SFP+8*10/100/1000M RJ45+1*Console Port\nL2 managed, PoE af/at, 120W budget, Support PoE management, PoE watchdog, AC input, Rack compatible\t\t\t\t56.5\nSTC-2216GPM\t2*Gigabit SFP+2*10/100/1000M RJ45 Uplink+16*10/100/1000M PoE Downlink+1*Console Port\nL2 managed, PoE af/at, 120W budget, Support PoE management, PoE watchdog, AC input, Rack compatible\t\t\t\t125\nSTC-4424GCPM\t4*Gigabit SFP/RJ45(Combo ports)+24*10/100/1000M+1*Console Port\nL2 managed, PoE af/at, 120W budget, Support PoE management, PoE watchdog, AC input, Rack compatible\t\t\t\t135\nSTC-424XGGPM\t4*10 Gigabit SFP+24*10/100/1000M RJ45+1*USB Port+1*Console Port, downward compatible\nL3 managed, PoE af/at, 400W budget, Support PoE management, PoE watchdog, AC input, Rack compatible\t\t\t\t230\nSTC-448XGGPM\t4*10 Gigabit SFP+48*10/100/1000M RJ45+1*USB Port+1*Console Port, downward compatible\nL3 managed, PoE af/at/bt, 400W budget, Support PoE management, PoE watchdog, AC input, Rack compatible\t\t\t\t360\nSTC-624XGDGPM\t6*10 Gigabit SFP+24*2.5G RJ45+1*Console Port, downward compatible\nL3 managed, PoE af/at/bt, 400W budget, Support PoE management, PoE watchdog, AC input, Rack compatible\t\t\t\t360\nRemarks\n1. Prices are valid for 15 days\n2. Price term: EXW\n3. Warranty period: One year\n4. Lead time for less than 50pcs: 5~7 working days\n5. Customization is available",
+"sheets":{
+"Saga Telecom":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 13048800964                                        www.sagatelecom.com.cn                                 Email: a.sagatelecom@gmail.com"
+],
+[
+"Download Link(information for full category)"
+],
+[
+"https://drive.google.com/drive/folders/1CEIsx5qow56zK_1FWmhvGyIrwgrbFgEC?usp=drive_link"
+],
+[
+"Must-Know"
+],
+[
+"1.Eco-friendly lead-free metal case\n2.Most PoE models are PoE af/at based, some support PoE BT 90W standard\n3.The power comes in AC and DC input. For AC type, it has internal AC-DC converter\n4.Power adapter is included in the price\nBut optical module is NOT included, need to purchase individually\nFor AC input models, there is a pair of mounting brackets in the packing box for rack mounting"
+],
+[
+"Click the model name, you will be directed to the product webpage for more information"
+],
+[
+"Commercial Ethernet Switch(Unmanaged, Non-PoE series)"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"",
+"Price",
+"Picture"
+],
+[
+"STC-05GE",
+"5*10/100/1000M RJ45, DC5V1A, Desktop Type",
+"",
+"",
+"",
+"5.5"
+],
+[
+"STC-08GE",
+"8*10/100/1000M RJ45, DC5V2A, Desktop Type",
+"",
+"",
+"",
+"9.5"
+],
+[
+"STC-016GE",
+"16*10/100/1000M RJ45, Support Vlan/Extend mode, QoS, loop alarm, AC input, Rack compatible",
+"",
+"",
+"",
+"30"
+],
+[
+"STC-024GE-D",
+"24*10/100/1000M RJ45, Support Vlan/Extend mode, QoS, loop alarm, AC input, Desktop Type",
+"",
+"",
+"",
+"39"
+],
+[
+"STC-024GE-U",
+"24*10/100/1000M RJ45, Support Vlan/Extend mode, QoS, loop alarm, AC input, Rack compatible",
+"",
+"",
+"",
+"44"
+],
+[
+"STC-224GE",
+"2*Gigabit SFP+24*10/100/1000M RJ45\nSupport Vlan/Extend mode, QoS, AC input, Rack compatible",
+"",
+"",
+"",
+"48"
+],
+[
+"STC-248GE",
+"2*Gigabit SFP+48*10/100/1000M RJ45\nSupport Vlan mode, loop alarm, AC input, Rack compatible",
+"",
+"",
+"",
+"125"
+],
+[
+"STC-15XGDGE",
+"1*10G SFP+5*2.5G RJ45, downward compatible, DC12V1A, Desktop Type",
+"",
+"",
+"",
+"35"
+],
+[
+"STC-18XGDGE",
+"1*10G SFP+8*2.5G RJ45, downward compatible, DC12V2A, Desktop Type",
+"",
+"",
+"",
+"45.5"
+],
+[
+"STC-216XGDGE",
+"2*10G SFP+16*2.5G RJ45, downward compatible, Support Vlan mode, AC input, Rack compatible",
+"",
+"",
+"",
+"165"
+],
+[
+"STC-224XGDGE",
+"2*10G SFP+24*2.5G RJ45, downward compatible, Support Vlan mode, AC input, Rack compatible",
+"",
+"",
+"",
+"185"
+],
+[
+"STC-08XGE",
+"8*10G RJ45, downward compatible, AC input, Rack compatible",
+"",
+"",
+"",
+"165"
+],
+[
+"STC-80XGO",
+"8*10G SFP, downward compatible, DC12V2A, Desktop Type",
+"",
+"",
+"",
+"75"
+],
+[
+"Commercial PoE Switch(Unmanaged series)"
+],
+[
+"STC-024FP",
+"2*10/100M RJ45 Uplink+4*10/100M PoE Downlink\nPoE af/at, 55W budget, Support Vlan/Extend mode, AC input, Rack compatible",
+"",
+"",
+"",
+"9"
+],
+[
+"STC-028FP",
+"2*10/100M RJ45 Uplink+8*10/100M PoE Downlink\nPoE af/at, 96W budget, Support Vlan/Extend mode, AC input, Rack compatible",
+"",
+"",
+"",
+"12.5"
+],
+[
+"STC-028GFP",
+"2*10/100/1000M RJ45 Uplink+8*10/100M PoE Downlink\nPoE af/at, 96W budget, Support Vlan/Extend mode, AC input, Rack compatible",
+"",
+"",
+"",
+"16"
+],
+[
+"STC-0216GFP",
+"2*10/100/1000M RJ45 Uplink+16*10/100M PoE Downlink\nPoE af/at, 300W budget, Support Vlan/Extend mode, AC input, Rack compatible",
+"",
+"",
+"",
+"34"
+],
+[
+"STC-0224GFP",
+"2*10/100/1000M RJ45 Uplink+24*10/100M PoE Downlink\nPoE af/at, 300W budget, Support Vlan/Extend mode, AC input, Rack compatible",
+"",
+"",
+"",
+"48"
+],
+[
+"STC-128GFP",
+"1*Gigabit SFP+2*10/100/1000M RJ45 Uplink+8*10/100M PoE Downlink\nPoE af/at, 120W budget, Support Vlan/Extend mode, AC input, Rack compatible",
+"",
+"",
+"",
+"20.5"
+],
+[
+"STC-1216GFP",
+"1*Gigabit SFP+2*10/100/1000M RJ45 Uplink+16*10/100M PoE Downlink\nPoE af/at, 300W budget, Support Vlan/Extend mode, AC input, Rack compatible",
+"",
+"",
+"",
+"40"
+],
+[
+"STC-1224GFP",
+"1*Gigabit SFP+2*10/100/1000M RJ45 Uplink+24*10/100M PoE Downlink\nPoE af/at, 300W budget, Support Vlan/Extend mode, AC input, Rack compatible",
+"",
+"",
+"",
+"55"
+],
+[
+"STC-024GP",
+"2*10/100/1000M RJ45 Uplink+4*10/100/1000M PoE Downlink\nPoE af/at, 60W budget, Support Vlan/Extend mode, AC input, Rack compatible",
+"",
+"",
+"",
+"17"
+],
+[
+"STC-028GP",
+"2*10/100/1000M RJ45 Uplink+8*10/100/1000M PoE Downlink\nPoE af/at, 120W budget, Support Vlan/Extend mode, AC input, Rack compatible",
+"",
+"",
+"",
+"22"
+],
+[
+"STC-114GP",
+"1*Gigabit SFP+1*10/100/1000M RJ45 Uplink+4*10/100/1000M PoE Downlink\nPoE af/at, 60W budget, Support Vlan/Extend mode, AC input, Rack compatible",
+"",
+"",
+"",
+"15"
+],
+[
+"STC-204GP",
+"2*Gigabit SFP+4*10/100/1000M PoE Downlink\nPoE af/at, 60W budget, Support Vlan/Extend, AC input, Rack compatible",
+"",
+"",
+"",
+"18.5"
+],
+[
+"STC-208GP",
+"2*10/100/1000M RJ45 Uplink+8*10/100/1000M PoE Downlink\nPoE af/at, 120W budget, Support Extend mode, AC input, Rack compatible",
+"",
+"",
+"",
+"24"
+],
+[
+"STC-228GP",
+"2*Gigabit SFP+2*10/100/1000M RJ45 Uplink+8*10/100/1000M PoE Downlink\nPoE af/at, 120W budget, Support Extend mode, PoE priority, PoE Watchdog, AC input, Rack compatible",
+"",
+"",
+"",
+"28"
+],
+[
+"STC-2016GP",
+"2*Gigabit SFP+16*10/100/1000M PoE Downlink\nPoE af/at, 300W budget, Support Vlan/Extend, AC input, Rack compatible",
+"",
+"",
+"",
+"80"
+],
+[
+"STC-2216GP",
+"2*Gigabit SFP+2*10/100/1000M RJ45 Uplink+16*10/100/1000M PoE Downlink\nPoE af/at, 200W budget, Support Extend mode, PoE priority, PoE Watchdog, AC input, Rack compatible",
+"",
+"",
+"",
+"86"
+],
+[
+"STC-2024GP",
+"2*Gigabit SFP+24*10/100/1000M PoE Downlink\nPoE af/at, 300W budget, Support Vlan/Extend, QoS, AC input, Rack compatible",
+"",
+"",
+"",
+"85"
+],
+[
+"STC-2224GP",
+"2*Gigabit SFP+2*10/100/1000M RJ45 Uplink+24*10/100/1000M PoE Downlink\nPoE af/at, 300W budget, Support Extend mode, PoE priority, PoE Watchdog, AC input, Rack compatible",
+"",
+"",
+"",
+"90"
+],
+[
+"STC-114XGDGP",
+"1*10 Gigabit SFP+1*2.5 RJ45 Uplink+4*2.5G PoE Downlink, downward compatible\nPoE af/at, 60W budget, Support PoE priority, AC input, Rack compatible",
+"",
+"",
+"",
+"40"
+],
+[
+"STC-108XGDGP",
+"1*10 Gigabit SFP+8*2.5G PoE Downlink, downward compatible\nPoE af/at, 100W budget, Support PoE priority, AC input, Rack compatible",
+"",
+"",
+"",
+"58"
+],
+[
+"L2 Managed: VLAN, MAC address, QoS, Ring, STP/RSTP/MSTP, Web/Telnet/CLI/SSH...\nL3 Managed: ARP,  IPV4/IPV6, RIP, OSPF..."
+],
+[
+"Commercial Managed Switch(Non-PoE Series)"
+],
+[
+"STC-28GM",
+"2*Gigabit SFP+8*10/100/1000M RJ45+1*Console Port\nL2 managed, AC input, Rack compatible",
+"",
+"",
+"",
+"46"
+],
+[
+"STC-424GM",
+"4*Gigabit SFP+24*10/100/1000M RJ45+1*Console Port\nL2 managed, AC input, Rack compatible",
+"",
+"",
+"",
+"90"
+],
+[
+"STC-424XGGM",
+"4*10 Gigabit SFP+24*10/100/1000M RJ45+1*USB Port+1*Console Port, downward compatible\nL3 managed, AC input, Rack compatible",
+"",
+"",
+"",
+"115"
+],
+[
+"STC-4248XGGCM",
+"4*10 Gigabit SFP+16*Gigabit SFP+8*Gigabit SFP/RJ45(Combo ports)+1*Console Port\nDownward compatible, L3 managed, AC input, Rack compatible",
+"",
+"",
+"",
+"270"
+],
+[
+"STC-448XGGM",
+"4*10 Gigabit SFP+48*10/100/1000M RJ45+1*USB Port+1*Console Port, downward compatible\nL3 managed, AC input, Rack compatible",
+"",
+"",
+"",
+"230"
+],
+[
+"STC-624XGDGM",
+"6*10 Gigabit SFP+24*2.5G RJ45+1*Console Port, downward compatible\nL3 managed, AC input, Rack compatible",
+"",
+"",
+"",
+"300"
+],
+[
+"STC-120XGM",
+"12*10 Gigabit SFP+1*Console Port, downward compatible\nL3 managed, AC input, Rack compatible",
+"",
+"",
+"",
+"145"
+],
+[
+"Commercial PoE Managed Switch"
+],
+[
+"STC-28GPM",
+"2*Gigabit SFP+8*10/100/1000M RJ45+1*Console Port\nL2 managed, PoE af/at, 120W budget, Support PoE management, PoE watchdog, AC input, Rack compatible",
+"",
+"",
+"",
+"56.5"
+],
+[
+"STC-2216GPM",
+"2*Gigabit SFP+2*10/100/1000M RJ45 Uplink+16*10/100/1000M PoE Downlink+1*Console Port\nL2 managed, PoE af/at, 120W budget, Support PoE management, PoE watchdog, AC input, Rack compatible",
+"",
+"",
+"",
+"125"
+],
+[
+"STC-4424GCPM",
+"4*Gigabit SFP/RJ45(Combo ports)+24*10/100/1000M+1*Console Port\nL2 managed, PoE af/at, 120W budget, Support PoE management, PoE watchdog, AC input, Rack compatible",
+"",
+"",
+"",
+"135"
+],
+[
+"STC-424XGGPM",
+"4*10 Gigabit SFP+24*10/100/1000M RJ45+1*USB Port+1*Console Port, downward compatible\nL3 managed, PoE af/at, 400W budget, Support PoE management, PoE watchdog, AC input, Rack compatible",
+"",
+"",
+"",
+"230"
+],
+[
+"STC-448XGGPM",
+"4*10 Gigabit SFP+48*10/100/1000M RJ45+1*USB Port+1*Console Port, downward compatible\nL3 managed, PoE af/at/bt, 400W budget, Support PoE management, PoE watchdog, AC input, Rack compatible",
+"",
+"",
+"",
+"360"
+],
+[
+"STC-624XGDGPM",
+"6*10 Gigabit SFP+24*2.5G RJ45+1*Console Port, downward compatible\nL3 managed, PoE af/at/bt, 400W budget, Support PoE management, PoE watchdog, AC input, Rack compatible",
+"",
+"",
+"",
+"360"
+],
+[
+"Remarks"
+],
+[
+"1. Prices are valid for 15 days"
+],
+[
+"2. Price term: EXW"
+],
+[
+"3. Warranty period: One year"
+],
+[
+"4. Lead time for less than 50pcs: 5~7 working days"
+],
+[
+"5. Customization is available"
+]
+]
+}
+},
+"extracted_at":"2026-10-23T05:05:47Z"
+}

@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_SEO__X__saga_x_banner_v6.png__2bb7540e",
+"path":"Extra_Info/Saga SEO/X/saga_x_banner_v6.png",
+"name":"saga_x_banner_v6.png",
+"ext":".png",
+"bytes":72489,
+"sha256":"2bb7540ed64696fa5c1e750a7be2fd10bcd7081953f0ccdb4de4b58d4ff815d0",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1500,
+"height":500,
+"mode":"RGB",
+"thumb_bytes":4601
+},
+"warnings":[],
+"chars":436,
+"text":"SAGA\nTELECOM\n一 一 ENGINEERING & SUPPLY-CHAIN-FIRST\nManaged switching\nfor every layer.\navailable across all. Lines\nre & Aggregation\ncommercial\nSTI — Industrial\nDIN-rail + -49°C to 75°C - 196 Fiber Uplinks\nPoE+ - ERPS - Fiber Bypass\nDI/DO/RS485 - Temp-Humidity Sensor\nSTC — Commercial\n4U Rack - PoE++ 99w - All-fiber L3\n106 SFP+ - Dual AC - 740W Budget\nSTH — Core & Aggregation\n32x400G - MPLS / VXLAN / EVPN\nHalf-width - Hot-swap PSU & Fan",
+"extracted_at":"2026-10-23T05:02:34Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__X__saga_x_banner_v6.png__2bb7540e.jpg"
+}

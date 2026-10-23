@@ -1,0 +1,16 @@
+{
+"id":"Extra_Info__Saga_SEO__Saga_3_Platform_Audit_2026-08-18__01_FindLight__findlight_conclusion.md__1f68f8c2",
+"path":"Extra_Info/Saga SEO/Saga_3_Platform_Audit_2026-08-18/01_FindLight/findlight_conclusion.md",
+"name":"findlight_conclusion.md",
+"ext":".md",
+"bytes":2258,
+"sha256":"1f68f8c2fac83e80ae8f6c17d53c099c23637ff89887cce8bee09e1f7459bef2",
+"source":"Extra_Info.zip",
+"method":"text",
+"status":"ok",
+"meta":{},
+"warnings":[],
+"chars":1422,
+"text":"# FindLight 平台独立审核结论\n\n审核日期：2026-08-18  \n平台入口：<https://www.findlight.net/company/zhengzhou-saga-telecom-co-ltd>  \n产品目录：<https://www.findlight.net/company/zhengzhou-saga-telecom-co-ltd/fiber-optics/optical-networking>\n\n> 本结论只使用 FindLight 页面证据，不引用 EC21、Made-in-China 或 Global Sources 的链接状态。\n\n## 产品范围\n\n- 公开产品数：**10**\n- STI：**5**\n- STH：**5**\n- STC：**0**\n- 10 个产品均在规格表中显示了明确型号，因此系列判断置信度为高。\n\n## 产品描述链接结论\n\n- 描述中显示 `sagatele.com` 文字：**0/10**\n- 描述中存在可点击的 Saga 官网 `<a href>`：**0/10**\n- 结论：**FindLight 的每个产品描述目前都没有 Saga 官网文字或可点击官网链接。**\n\n公司主页与产品描述必须分开判断：\n\n- FindLight 公司主页显示 `sagatele.com`，并且是可点击链接，目标为 <https://sagatele.com/>。\n- 该公司主页链接不能代替 10 个产品描述各自的链接审核结果。\n\n## FindLight 特有问题\n\n1. **7/10 产品存在明显的旧 URL slug 与当前标题不一致问题。**例如：\n   - 32-Port 100G 产品仍使用包含 `24-port-25g-ethernet-poe` 的 URL。\n   - 48-Port 25G 数据中心交换机仍使用 `120w-industrial-din-power-adapter` URL。\n   - 100G/10G 管理型交换机仍使用 `8-port-fast-ethernet-cctv-poe` URL。\n   - 40G/100G 数据中心交换机仍使用 `media-converter` URL。\n2. `4 port PoE Industrial Gigabit Unamanged Network Switch` 中 `Unamanged` 拼写错误，应改为 `Unmanaged`。\n3. `Manageable` 建议统一为行业更常用的 `Managed`。\n4. 产品描述缺少能够把客户导向官网技术资料、OEM/ODM 能力或完整规格的外链。\n\n## FindLight 优化优先级\n\n1. 在每个产品描述中增加说明性可点击链接，例如：  \n   `Learn more about Saga Telecom engineering capabilities` → `https://sagatele.com/`\n2. 为 FindLight 外链增加独立 UTM 参数。\n3. 修复 7 个陈旧 slug，并为旧 URL 配置 301 跳转。\n4. 统一标题中的 Managed、PoE、10G、DIN-rail 等写法。\n5. 保留当前规格表中的明确 STI/STH 型号，这是 FindLight 相对另外两个平台的优势。\n",
+"extracted_at":"2026-10-23T05:02:37Z"
+}

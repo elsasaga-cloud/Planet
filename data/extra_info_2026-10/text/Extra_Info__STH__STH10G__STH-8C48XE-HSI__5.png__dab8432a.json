@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__STH__STH10G__STH-8C48XE-HSI__5.png__dab8432a",
+"path":"Extra_Info/STH/STH10G/STH-8C48XE-HSI/5.png",
+"name":"5.png",
+"ext":".png",
+"bytes":2908219,
+"sha256":"dab8432a3baaa4dc5634145547d7cd4cb73fe184cb4afe75894d60c11a1a58c6",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":3840,
+"height":2160,
+"mode":"RGBA",
+"thumb_bytes":5372
+},
+"warnings":[],
+"chars":31,
+"text":"TA YI8 19A Y20 21A v22 23A 了 24",
+"extracted_at":"2026-10-23T05:04:07Z",
+"thumb":"thumbs/Extra_Info__STH__STH10G__STH-8C48XE-HSI__5.png__dab8432a.jpg"
+}

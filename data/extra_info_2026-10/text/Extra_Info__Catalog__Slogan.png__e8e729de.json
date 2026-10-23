@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Catalog__Slogan.png__e8e729de",
+"path":"Extra_Info/Catalog/Slogan.png",
+"name":"Slogan.png",
+"ext":".png",
+"bytes":98405,
+"sha256":"e8e729dec815a0ffa9544ac88c2a66420d348f3f249ce36faa47ec2ea1ce1933",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1529,
+"height":438,
+"mode":"RGBA",
+"thumb_bytes":8000
+},
+"warnings":[],
+"chars":45,
+"text":"Saga Telecom\nConnecting, Converting, Creating",
+"extracted_at":"2026-10-23T05:01:42Z",
+"thumb":"thumbs/Extra_Info__Catalog__Slogan.png__e8e729de.jpg"
+}

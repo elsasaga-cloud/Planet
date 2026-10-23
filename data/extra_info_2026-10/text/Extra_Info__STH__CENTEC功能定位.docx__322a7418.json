@@ -1,0 +1,465 @@
+{
+"id":"Extra_Info__STH__CENTEC功能定位.docx__322a7418",
+"path":"Extra_Info/STH/CENTEC功能定位.docx",
+"name":"CENTEC功能定位.docx",
+"ext":".docx",
+"bytes":35717,
+"sha256":"322a7418cc45d58b7c6405579ddd324544fbe30fcc6fd71511846854c1640f32",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2026-01-27T12:05:00+00:00",
+"modified":"2026-01-27T12:15:40+00:00",
+"paragraphs":81,
+"tables":1,
+"embedded_images":0
+},
+"warnings":[],
+"chars":1823,
+"text":"CENTEC 核心交换机一般不会原生支持 SD-WAN NAT 或 TSN 特性\nSD-WAN NAT\n本质是 WAN Edge / CPE / uCPE 功能\n属于接入边缘，不是 Core / DC Switch 的职责\nTSN（Time Sensitive Networking）\n面向 工业以太网 / 确定性时延\n核心交换机追求的是 throughput / scale / ECMP / convergence\n不是“做不到”，而是“不该做”\n1\t核心交换机 ≠ 防火墙 / UTM\n通常不会原生支持：\nStateful Firewall\nNAT / PAT\nIPS / DPI\n应用层识别\n正确定位：\n高速转发 + L2/L3 控制面\n安全 = 独立安全设备 / 边界设备\n2\t不适合当 SD-WAN Hub / Overlay 控制器\n一般不会提供：\nSD-WAN 控制器\n隧道调度 / SLA 探测\n链路质量感知\n正确做法：\nCore：BGP / MPLS / EVPN\nSD-WAN：Overlay 设备跑在边缘\n3\t对「极端 AI RoCE 场景」不是第一选择（除非特别说明）\n通常情况：\n支持 PFC / ECN（基础）\n但 不会像 Broadcom Tomahawk5 / Jericho3 那样为 AI 极致调优\n你可以这么理解：\nCentec Core = 通用高性价比 DC / Metro Core\n不是“为 10 万卡 GPU Fabric 量身定制”的怪兽\n4\t不追求极致低延迟（ns 级）\nCore Switch 的设计目标是：\n高吞吐\n高端口密度\n稳定收敛\n而不是：\nHFT（高频交易）\n纳秒级抖动控制\n这类需求是 专用交换 / FPGA / 特种设备\n5\t通常不提供「光层可编程能力」\nCENTEC Core Switch 一般：\n管 IP / Ethernet\n不做 ROADM / 波道调度 / 光功率闭环控制\nDWDM = 独立光网络\nIP Core = 通过标准接口对接\n这对你反而是好事：\n责任边界清晰，不容易扯皮\n6\t不强调“单台设备即解决一切”\n你会发现 Centec 的哲学是：\n简单\n清晰\n可规模化\n而不是：\nAll-in-One\nFeature 堆到天花板\n这正好适合 DWDM + IP 的模块化方案\n反过来：哪些能力是必须有、而且 Centec 应该强调的\n维度\t必须强调\nIP Core\tBGP / IS-IS / MPLS / ECMP\nDC\tVXLAN / EVPN / Anycast GW\nDCI\t100G / 400G / 800G\n架构\tSpine-Leaf / Core-Aggregation\n可靠性\tStacking / 快速收敛\n成本\t高性价比 / 可 OEM\n当客户问一些“明显不该在 Core 上的功能”时，你可以用这句话：\nThat function is typically implemented at the edge or service layer.\nOur core switches focus on high-capacity forwarding, fast convergence, and long-term stability.\n这句话 非常工程师、非常专业、非常不销售\nCENTEC Core Switch 的五条底层哲学\n1 Core ≠ Edge\nNAT / SD-WAN / Firewall → 边缘\nCore → 高吞吐、稳定收敛、规模化\n2 不是 All-in-One，而是模块化\n光层是光层\nIP 层是 IP 层\n各司其职\n3 追求确定性，而不是“炫技”\nASIC forwarding\n可预测延迟\n长期稳定\n4 为“80%通用场景”优化\nDC / Metro / Aggregation\n不是为极端 HFT / 超大 GPU Fabric\n5 成本、供货、OEM 友好是核心竞争力\n不是 benchmark 怪兽\n是工程落地机器\n[页眉页脚]\nSaga Telecom\nwww.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"CENTEC 核心交换机一般不会原生支持 SD-WAN NAT 或 TSN 特性"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SD-WAN NAT"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"本质是 WAN Edge / CPE / uCPE 功能"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"属于接入边缘，不是 Core / DC Switch 的职责"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"TSN（Time Sensitive Networking）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"面向 工业以太网 / 确定性时延"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"核心交换机追求的是 throughput / scale / ECMP / convergence"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不是“做不到”，而是“不该做”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1\t核心交换机 ≠ 防火墙 / UTM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"通常不会原生支持："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Stateful Firewall"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"NAT / PAT"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IPS / DPI"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"应用层识别"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"正确定位："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"高速转发 + L2/L3 控制面"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"安全 = 独立安全设备 / 边界设备"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2\t不适合当 SD-WAN Hub / Overlay 控制器"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一般不会提供："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SD-WAN 控制器"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"隧道调度 / SLA 探测"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"链路质量感知"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"正确做法："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Core：BGP / MPLS / EVPN"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SD-WAN：Overlay 设备跑在边缘"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3\t对「极端 AI RoCE 场景」不是第一选择（除非特别说明）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"通常情况："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"支持 PFC / ECN（基础）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"但 不会像 Broadcom Tomahawk5 / Jericho3 那样为 AI 极致调优"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你可以这么理解："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Centec Core = 通用高性价比 DC / Metro Core"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不是“为 10 万卡 GPU Fabric 量身定制”的怪兽"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4\t不追求极致低延迟（ns 级）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Core Switch 的设计目标是："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"高吞吐"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"高端口密度"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"稳定收敛"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"而不是："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"HFT（高频交易）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"纳秒级抖动控制"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这类需求是 专用交换 / FPGA / 特种设备"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"5\t通常不提供「光层可编程能力」"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CENTEC Core Switch 一般："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"管 IP / Ethernet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不做 ROADM / 波道调度 / 光功率闭环控制"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DWDM = 独立光网络"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IP Core = 通过标准接口对接"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这对你反而是好事："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"责任边界清晰，不容易扯皮"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"6\t不强调“单台设备即解决一切”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你会发现 Centec 的哲学是："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"简单"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"清晰"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"可规模化"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"而不是："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"All-in-One"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Feature 堆到天花板"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这正好适合 DWDM + IP 的模块化方案"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"反过来：哪些能力是必须有、而且 Centec 应该强调的"
+},
+{
+"t":"table",
+"rows":[
+[
+"维度",
+"必须强调"
+],
+[
+"IP Core",
+"BGP / IS-IS / MPLS / ECMP"
+],
+[
+"DC",
+"VXLAN / EVPN / Anycast GW"
+],
+[
+"DCI",
+"100G / 400G / 800G"
+],
+[
+"架构",
+"Spine-Leaf / Core-Aggregation"
+],
+[
+"可靠性",
+"Stacking / 快速收敛"
+],
+[
+"成本",
+"高性价比 / 可 OEM"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"当客户问一些“明显不该在 Core 上的功能”时，你可以用这句话："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"That function is typically implemented at the edge or service layer."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Our core switches focus on high-capacity forwarding, fast convergence, and long-term stability."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这句话 非常工程师、非常专业、非常不销售"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CENTEC Core Switch 的五条底层哲学"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1 Core ≠ Edge"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"NAT / SD-WAN / Firewall → 边缘"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Core → 高吞吐、稳定收敛、规模化"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2 不是 All-in-One，而是模块化"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"光层是光层"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IP 层是 IP 层"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"各司其职"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3 追求确定性，而不是“炫技”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"ASIC forwarding"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"可预测延迟"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"长期稳定"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4 为“80%通用场景”优化"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DC / Metro / Aggregation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不是为极端 HFT / 超大 GPU Fabric"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"5 成本、供货、OEM 友好是核心竞争力"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不是 benchmark 怪兽"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"是工程落地机器"
+}
+],
+"extracted_at":"2026-10-23T05:02:37Z"
+}

@@ -1,0 +1,452 @@
+{
+"id":"Extra_Info__Saga_SEO__Saga_Summary.docx__ddd676d4",
+"path":"Extra_Info/Saga SEO/Saga Summary.docx",
+"name":"Saga Summary.docx",
+"ext":".docx",
+"bytes":27690,
+"sha256":"ddd676d4157de02c850cc761757f558ef69e01a1439b46a65aad1298f5aba69e",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2026-08-01T15:17:00+00:00",
+"modified":"2026-08-01T15:55:46+00:00",
+"paragraphs":85,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"chars":3895,
+"text":"2026.08.01\n# Saga Telecom — sagatele.com 完整项目总览\n---\n## 一、已完成 ✅\n### 域名与部署\n- sagatele.com 注册（阿里云，10年）— sagatele.com 拆开读是 saga + tele + com，.com 后缀天然成为 telecom 的结尾，品牌与域名高度契合，长期数字资产\n- GitHub Pages 静态托管 — 零服务器运维成本，海外访问稳定，免费无限流量，适合长期运营\n- 自定义域名绑定 — 访问 sagatele.com 直接打开网站，彻底脱离 github.io 二级域名\n- 全站 HTTPS 强制加密 — GitHub Pages 自动签发并续期 Let's Encrypt 证书，满足 Google 排名基础权重要求，无需手动维护\n---\n### 仓库文件（9个，全部到位）\n- index.html — 网站主体，方案A：所有内容在单一文件里，更新只需替换这一个文件，无需改动 sitemap\n- 404.html — 自定义错误页，访客访问不存在的链接时显示品牌页而非空白，降低跳出率\n- CNAME — 域名绑定配置，GitHub 自动生成\n- favicon.ico — 浏览器标签页图标，基于 SAGA logo 制作\n- apple-touch-icon.png — iOS 设备添加到桌面时显示的图标\n- og-image.png — 分享到 LinkedIn 等平台时显示的预览图，基于 SAGA logo 制作\n- robots.txt — 告知爬虫抓取规则，声明 sitemap 地址，引导搜索引擎正确索引\n- sitemap.xml — 站点地图，推送至四大搜索引擎，加速收录\n- .nojekyll — 屏蔽 GitHub Pages 的 Jekyll 引擎过滤机制，确保静态资源正常加载\n---\n### 网站内容（四个页面）\n- Home — 品牌定位句、三大价值支柱（Architectural Stability / Continuous Supply / Lifecycle Continuity）、目标客群四类、核心关键词展示\n- About — 品牌叙事、公司背景、业务边界（We Do / We Don't），帮助客户快速判断是否匹配，降低沟通成本\n- Capabilities — Marvell Prestera 十条规格、CENTEC 十条规格（视觉对齐）、定制能力三层（Hardware / Firmware / Management UI）、供应链四大保障\n- Contact — mailto 可点击邮箱、网址、响应时效承诺，最小化客户联系摩擦\n---\n### 转化功能\n- WhatsApp 悬浮按钮 — 右下角常驻绿色浮动按钮（+8615237149683），点击直接开启对话，欧洲 B 端客户高频使用\n- 邮箱 mailto 链接 — 邮箱地址可点击，自动唤起本地邮件客户端，无需复制粘贴\n---\n### SEO 技术层（全套无遗漏）\n- Meta Title — `Saga Telecom | Engineering & Supply-Chain-First`，简洁不截断，品牌名前置\n- Meta Description — `A telecom partner: Marvell Prestera and CENTEC-based managed switching with deep OEM/ODM customization, strategic chip inventory, and fast lead times — built for SIs, ISPs, and brand owners worldwide.`\n- Meta Keywords — 覆盖 Marvell Prestera、CENTEC、OEM ODM、PoE、L2+、industrial ethernet 等核心词\n- Open Graph 标签 — 控制分享到 LinkedIn 时的标题、描述、预览图展示，B2B 社媒引流必备\n- Canonical 链接 — 声明权威地址为 sagatele.com，防止重复收录被降权\n- Schema 结构化数据 — 帮助 Google 理解公司性质，有机会在搜索结果出现富摘要，提升点击率\n- Last Updated 时间戳 — Footer 显示更新月份，向搜索引擎传递站点活跃信号\n---\n### 四大搜索引擎全覆盖\n- Google Search Console — 域名验证、Sitemap 提交、首页收录请求已提交；网站当日即被收录，可监控索引状态与抓取异常\n- Bing Webmaster Tools — 验证完成，Sitemap 提交完成；DuckDuckGo 跟随 Bing 自动覆盖，一次配置覆盖两个平台\n- Yandex Webmaster — 验证完成，Sitemap 提交完成；俄罗斯及独联体市场专属入口\n- GA4 埋点（ID: G-SVPY2G7HWN）— 统计访客来源国家、停留时长、页面行为，为内容方向提供数据支撑\n---\n## 二、待执行\n### 内容更新（长期 SEO 核心）\n- 08.15 第一篇文章 — *Why Strategic Inventory Matters in Telecom Procurement*，已写好，告诉我直接处理 HTML，方案A无需改动 sitemap\n- 09月初第二篇 — *Marvell vs. Generic Access Layer Switches — What Procurement Teams Miss*，已写好备用\n- 每 3-4 周一篇 — 持续更新让搜索引擎判定网站活跃，排名稳步提升；每次更新后去 Google Search Console 用 URL Inspection 请求重新收录\n### 品牌资产\n- 正式 Logo — 设计完成后发给我，统一替换 favicon.ico / apple-touch-icon.png / og-image.png，同时将 header 里的 ST 方块替换为真实 Logo 图片\n- LinkedIn 公司页 — 建好后告诉我，在 footer 加 LinkedIn 外链；LinkedIn 页面在 Google 搜索结果里权重高，经常排在品牌词搜索的第二第三位\n### 外链积累\n- hohunet.com、smartbyte-switch.com — 联系供应商在其网站合作伙伴页加上 sagatele.com 链接；行业垂直外链是 Google 排名最强助推因子之一，与供应商本有合作关系，开口成本极低\n### 产品页\n- 3-5 款核心产品 — 筛选高利润低售后的典型产品，产品图 + 简短描述，加进 HTML 作为第五个页面 Products；准备好产品图和选品后告诉我来做\n---\n## 三、每月例行维护 （每次约 10 分钟）\n| 平台 | 操作内容 |\n|------|---------|\n| Google Search Console | 检查索引覆盖率、抓取错误、404 死链；每次更新 HTML 后用 URL Inspection 请求重新收录 |\n| Bing Webmaster | 检查抓取状态与收录量，跟进 DNS 缓存问题是否自动解决 |\n| Yandex Webmaster | 监控俄语区收录量与曝光数据 |\n| GA4 | 查看欧盟、波兰、俄语区访客占比与停留时长，指导后续文章选题 |\n---\n## 四、维护入口\n| 平台 | 地址 |\n|------|------|\n| GitHub 仓库 | github.com/SimonSaga-202306/sagatele-site |\n| Google Search Console | search.google.com/search-console |\n| Bing Webmaster | bing.com/webmasters |\n| Yandex Webmaster | webmaster.yandex.com |\n| Google Analytics | analytics.google.com |\n| 阿里云域名管理 | 阿里云控制台 → 域名与网站 → sagatele.com → 解析 |\n---\n## 五、永久跳过 ❌\n- Google Business Profile — 中国大陆主体无法注册，封禁状态，不再尝试\n- 国内服务器 / ICP 备案 — 纯海外 B 端客户，完全不需要，GitHub Pages 足够\n- Facebook / YouTube — B2B 采购客户触达效率极低，不投入精力\n- 付费广告 — 先跑 6 个月自然流量，根据 GA4 数据再评估是否投放\n- DWDM 等不相关关键词 — 不符合实际业务，不堆砌，坚持精准业务词\n---\n结论：技术架构、部署规则、SEO 基建、转化功能全部闭环完工。后续只需内容节奏输出 + 品牌外链积累 + 月度轻量巡检，没有任何技术遗留问题。\n[页眉页脚]\n菲利普·费雪说：我不想花时间在赚取微利上\n我想要非常，非常大的利润，并做好了为此等待的准备\n修炼内功",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"2026.08.01"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"# Saga Telecom — sagatele.com 完整项目总览"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 一、已完成 ✅"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 域名与部署"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- sagatele.com 注册（阿里云，10年）— sagatele.com 拆开读是 saga + tele + com，.com 后缀天然成为 telecom 的结尾，品牌与域名高度契合，长期数字资产"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- GitHub Pages 静态托管 — 零服务器运维成本，海外访问稳定，免费无限流量，适合长期运营"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 自定义域名绑定 — 访问 sagatele.com 直接打开网站，彻底脱离 github.io 二级域名"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 全站 HTTPS 强制加密 — GitHub Pages 自动签发并续期 Let's Encrypt 证书，满足 Google 排名基础权重要求，无需手动维护"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 仓库文件（9个，全部到位）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- index.html — 网站主体，方案A：所有内容在单一文件里，更新只需替换这一个文件，无需改动 sitemap"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 404.html — 自定义错误页，访客访问不存在的链接时显示品牌页而非空白，降低跳出率"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- CNAME — 域名绑定配置，GitHub 自动生成"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- favicon.ico — 浏览器标签页图标，基于 SAGA logo 制作"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- apple-touch-icon.png — iOS 设备添加到桌面时显示的图标"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- og-image.png — 分享到 LinkedIn 等平台时显示的预览图，基于 SAGA logo 制作"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- robots.txt — 告知爬虫抓取规则，声明 sitemap 地址，引导搜索引擎正确索引"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- sitemap.xml — 站点地图，推送至四大搜索引擎，加速收录"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- .nojekyll — 屏蔽 GitHub Pages 的 Jekyll 引擎过滤机制，确保静态资源正常加载"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 网站内容（四个页面）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Home — 品牌定位句、三大价值支柱（Architectural Stability / Continuous Supply / Lifecycle Continuity）、目标客群四类、核心关键词展示"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- About — 品牌叙事、公司背景、业务边界（We Do / We Don't），帮助客户快速判断是否匹配，降低沟通成本"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Capabilities — Marvell Prestera 十条规格、CENTEC 十条规格（视觉对齐）、定制能力三层（Hardware / Firmware / Management UI）、供应链四大保障"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Contact — mailto 可点击邮箱、网址、响应时效承诺，最小化客户联系摩擦"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 转化功能"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- WhatsApp 悬浮按钮 — 右下角常驻绿色浮动按钮（+8615237149683），点击直接开启对话，欧洲 B 端客户高频使用"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 邮箱 mailto 链接 — 邮箱地址可点击，自动唤起本地邮件客户端，无需复制粘贴"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### SEO 技术层（全套无遗漏）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Meta Title — `Saga Telecom | Engineering & Supply-Chain-First`，简洁不截断，品牌名前置"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Meta Description — `A telecom partner: Marvell Prestera and CENTEC-based managed switching with deep OEM/ODM customization, strategic chip inventory, and fast lead times — built for SIs, ISPs, and brand owners worldwide.`"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Meta Keywords — 覆盖 Marvell Prestera、CENTEC、OEM ODM、PoE、L2+、industrial ethernet 等核心词"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Open Graph 标签 — 控制分享到 LinkedIn 时的标题、描述、预览图展示，B2B 社媒引流必备"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Canonical 链接 — 声明权威地址为 sagatele.com，防止重复收录被降权"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Schema 结构化数据 — 帮助 Google 理解公司性质，有机会在搜索结果出现富摘要，提升点击率"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Last Updated 时间戳 — Footer 显示更新月份，向搜索引擎传递站点活跃信号"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 四大搜索引擎全覆盖"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Google Search Console — 域名验证、Sitemap 提交、首页收录请求已提交；网站当日即被收录，可监控索引状态与抓取异常"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Bing Webmaster Tools — 验证完成，Sitemap 提交完成；DuckDuckGo 跟随 Bing 自动覆盖，一次配置覆盖两个平台"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Yandex Webmaster — 验证完成，Sitemap 提交完成；俄罗斯及独联体市场专属入口"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- GA4 埋点（ID: G-SVPY2G7HWN）— 统计访客来源国家、停留时长、页面行为，为内容方向提供数据支撑"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 二、待执行"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 内容更新（长期 SEO 核心）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 08.15 第一篇文章 — *Why Strategic Inventory Matters in Telecom Procurement*，已写好，告诉我直接处理 HTML，方案A无需改动 sitemap"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 09月初第二篇 — *Marvell vs. Generic Access Layer Switches — What Procurement Teams Miss*，已写好备用"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 每 3-4 周一篇 — 持续更新让搜索引擎判定网站活跃，排名稳步提升；每次更新后去 Google Search Console 用 URL Inspection 请求重新收录"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 品牌资产"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 正式 Logo — 设计完成后发给我，统一替换 favicon.ico / apple-touch-icon.png / og-image.png，同时将 header 里的 ST 方块替换为真实 Logo 图片"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- LinkedIn 公司页 — 建好后告诉我，在 footer 加 LinkedIn 外链；LinkedIn 页面在 Google 搜索结果里权重高，经常排在品牌词搜索的第二第三位"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 外链积累"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- hohunet.com、smartbyte-switch.com — 联系供应商在其网站合作伙伴页加上 sagatele.com 链接；行业垂直外链是 Google 排名最强助推因子之一，与供应商本有合作关系，开口成本极低"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 产品页"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 3-5 款核心产品 — 筛选高利润低售后的典型产品，产品图 + 简短描述，加进 HTML 作为第五个页面 Products；准备好产品图和选品后告诉我来做"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 三、每月例行维护 （每次约 10 分钟）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"| 平台 | 操作内容 |"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"|------|---------|"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"| Google Search Console | 检查索引覆盖率、抓取错误、404 死链；每次更新 HTML 后用 URL Inspection 请求重新收录 |"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"| Bing Webmaster | 检查抓取状态与收录量，跟进 DNS 缓存问题是否自动解决 |"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"| Yandex Webmaster | 监控俄语区收录量与曝光数据 |"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"| GA4 | 查看欧盟、波兰、俄语区访客占比与停留时长，指导后续文章选题 |"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 四、维护入口"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"| 平台 | 地址 |"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"|------|------|"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"| GitHub 仓库 | github.com/SimonSaga-202306/sagatele-site |"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"| Google Search Console | search.google.com/search-console |"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"| Bing Webmaster | bing.com/webmasters |"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"| Yandex Webmaster | webmaster.yandex.com |"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"| Google Analytics | analytics.google.com |"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"| 阿里云域名管理 | 阿里云控制台 → 域名与网站 → sagatele.com → 解析 |"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 五、永久跳过 ❌"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Google Business Profile — 中国大陆主体无法注册，封禁状态，不再尝试"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 国内服务器 / ICP 备案 — 纯海外 B 端客户，完全不需要，GitHub Pages 足够"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- Facebook / YouTube — B2B 采购客户触达效率极低，不投入精力"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 付费广告 — 先跑 6 个月自然流量，根据 GA4 数据再评估是否投放"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- DWDM 等不相关关键词 — 不符合实际业务，不堆砌，坚持精准业务词"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"结论：技术架构、部署规则、SEO 基建、转化功能全部闭环完工。后续只需内容节奏输出 + 品牌外链积累 + 月度轻量巡检，没有任何技术遗留问题。"
+}
+],
+"extracted_at":"2026-10-23T05:01:44Z"
+}

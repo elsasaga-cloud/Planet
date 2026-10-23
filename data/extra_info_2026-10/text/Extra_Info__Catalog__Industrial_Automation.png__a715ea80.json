@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Catalog__Industrial_Automation.png__a715ea80",
+"path":"Extra_Info/Catalog/Industrial Automation.png",
+"name":"Industrial Automation.png",
+"ext":".png",
+"bytes":135195,
+"sha256":"a715ea80d3065ebd2a23974dc92e656c1352b3f819f524f6a750cf2f37c04abe",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":1000,
+"height":600,
+"mode":"RGBA",
+"thumb_bytes":12611
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:01:33Z",
+"thumb":"thumbs/Extra_Info__Catalog__Industrial_Automation.png__a715ea80.jpg"
+}

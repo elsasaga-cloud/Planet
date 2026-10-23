@@ -1,0 +1,628 @@
+{
+"id":"Extra_Info__Price__2026_Price_List_Marvell_Industrial_Managed_Switch.xls__93419275",
+"path":"Extra_Info/Price/2026 Price List_Marvell Industrial Managed Switch.xls",
+"name":"2026 Price List_Marvell Industrial Managed Switch.xls",
+"ext":".xls",
+"bytes":80428544,
+"sha256":"9341927526f1b0d8ebfe1c30ad05dad1b5fc43d54d4255a8702d1cbaaabc208d",
+"source":"Extra_Info.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Saga Telecom"
+],
+"rows_total":79
+},
+"warnings":[],
+"chars":12888,
+"text":"--- Sheet: Saga Telecom ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nAddress: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 13048800964                                         www.sagatelecom.com.cn                                 Email: a.sagatelecom@gmail.com\nDownload Link(information for full category)\nhttps://drive.google.com/drive/folders/1agbuT_zU4gyWX2VpG7zlaTsAScMCYKbT?usp=drive_link\nMust-Know\nThis category contains a wide variety of models based on\n1.Management features\n2.Port combination\n3.Optical speed\n4.PoE standard(PoE af/at or PoE af/at/bt)\nIt is STRONGLY suggested to read “order information” and “product datasheet” to avoid confusion or improper model selection.\nModel\tSpecification\t\t\t\tKey Words\tPrice\tPicture\nClick the model name, you will be directed to the product webpage for more information\nSTI-240FM\t2*100M SFP+4*10/100M RJ45\nL2 Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input\t\t\t\tL2 Managed\nNon-PoE\n100M SFP\t50\nSTI-240GM\t2*100M/1000M SFP+4*10/100/1000M RJ45\nL2 Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input\t\t\t\tL2 Managed\nNon-PoE\n1G SFP\t60\nSTI-280GM\t2*100M/1000M SFP+8*10/100/1000M RJ45\nL2 Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input\t\t\t\tL2 Managed\nNon-PoE\n1G SFP\t70\nSTI-244FPM\t2*100M SFP+4*10/100M PoE\nL2 Managed, PoE af/at, 120W budget, Din Rail, Redundant DC44V~57V Input\t\t\t\tL2 Managed\nPoE af/at, 120W\n100M SFP\t60\nSTI-244GPM\t2*100M/1000M SFP+4*10/100/1000M PoE\nL2 Managed, PoE af/at, 120W budget, Din Rail, Redundant DC44V~57V Input\t\t\t\tL2 Managed\nPoE af/at, 120W\n1G SFP\t70\nSTI-288GPM\t2*100M/1000M SFP+8*10/100/1000M PoE\nL2 Managed, PoE af/at, 240W budget, Din Rail, Redundant DC44V~57V Input\t\t\t\tL2 Managed\nPoE af/at, 240W\n1G SFP\t80\nRemarks\tThis L2 managed series supports limited but some useful functions like ERPS, VLAN, PoE management\nIt is good for some simple CCTV security projects which are low-demanding in management features\n\nIndustrial power adapter and optical module are NOT included in both the packing box and unit pricing\nSTI-240DGGM\t2*100M/1G/2.5G SFP+4*10/100/1000M RJ45\nL2+ Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input\t\t\t\tL2+ Managed\nNon-PoE\n1G/2.5G SFP\t100\nSTI-244DGGPM\t2*100M/1G/2.5G SFP+4*10/100/1000M PoE\nL2+ Managed, PoE af/at, 120W budget, Din Rail, Redundant DC44V~57V Input\t\t\t\tL2+ Managed\nPoE af/at, 120W\n1G/2.5G SFP\t110\nSTI-244DGGPM-2BT\t2*100M/1G/2.5G SFP+4*10/100/1000M PoE\nL2+ Managed, 2*PoE af/at+2*PoE af/at/bt, 240W budget\nDin Rail, Redundant DC44V~57V Input\t\t\t\tL2+ Managed\nPoE af/at/bt, 240W\n1G/2.5G SFP\t130\nSTI-280DGGM\t2*100M/1G/2.5G SFP+8*10/100/1000M RJ45\nL2+ Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input\t\t\t\tL2+ Managed\nNon-PoE\n1G/2.5G SFP\t110\nSTI-288DGGPM\t2*100M/1G/2.5G SFP+8*10/100/1000M PoE\nL2+ Managed, PoE af/at, 240W budget, Din Rail, Redundant DC44V~57V Input\t\t\t\tL2+ Managed\nPoE af/at, 240W\n1G/2.5G SFP\t125\nSTI-288DGGPM-2BT\t2*100M/1G/2.5G SFP+8*10/100/1000M PoE\nL2+ Managed, 6*PoE af/at+2*PoE af/at/bt, 240W budget\nDin Rail, Redundant DC44V~57V Input\t\t\t\tL2+ Managed\nPoE af/at/bt, 240W\n1G/2.5G SFP\t140\nSTI-480DGGM\t4*100M/1G/2.5G SFP+8*10/100/1000M RJ45\nL2+ Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input\t\t\t\tL2+ Managed\nNon-PoE\n1G/2.5G SFP\t120\nSTI-488DGGPM\t4*100M/1G/2.5G SFP+8*10/100/1000M PoE\nL2+ Managed, PoE af/at, 240W budget, Din Rail, Redundant DC44V~57V Input\t\t\t\tL2+ Managed\nPoE af/at, 240W\n1G/2.5G SFP\t135\nSTI-488DGGPM-2BT\t4*100M/1G/2.5G SFP+8*10/100/1000M PoE\nL2+ Managed, 6*PoE af/at+2*PoE af/at/bt, 240W budget\nDin Rail, Redundant DC44V~57V Input\t\t\t\tL2+ Managed\nPoE af/at/bt, 240W\n1G/2.5G SFP\t150\nSTI-480XGGM\t4*100M/1G/2.5G/10G SFP+8*10/100/1000M RJ45\nL2+ Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input\t\t\t\tL2+ Managed\nNon-PoE\n1G/2.5G/10G SFP\t230\nSTI-488XGGPM\t4*100M/1G/2.5G/10G SFP+8*10/100/1000M PoE\nL2+ Managed, PoE af/at, 240W budget, Din Rail, Redundant DC44V~57V Input\t\t\t\tL2+ Managed\nPoE af/at, 240W\n1G/2.5G/10G SFP\t245\nSTI-2160DGGM\t2*100M/1G/2.5G SFP+16*10/100/1000M RJ45\nL2+ Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input\t\t\t\tL2+ Managed\nNon-PoE\n1G/2.5G SFP\t200\nSTI-21616DGGPM\t2*100M/1G/2.5G SFP+16*10/100/1000M PoE\nL2+ Managed, PoE af/at, 240W budget, Din Rail, Redundant DC44V~57V Input\t\t\t\tL2+ Managed\nPoE af/at, 240W\n1G/2.5G SFP\t220\nSTI-2160XGGM\t2*100M/1G/2.5G/10G SFP+16*10/100/1000M RJ45\nL2+ Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input\t\t\t\tL2+ Managed\nNon-PoE\n1G/2.5G/10G SFP\t265\nSTI-21616XGGPM\t2*100M/1G/2.5G/10G SFP+16*10/100/1000M PoE\nL2+ Managed, PoE af/at, 240W budget, Din Rail, Redundant DC44V~57V Input\t\t\t\tL2+ Managed\nPoE af/at, 240W\n1G/2.5G/10G SFP\t295\nSTI-448DGGGM\t4*100M/1G/2.5G SFP+4*100M/1G SFP+8*10/100/1000M RJ45\nL2+ Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input\t\t\t\tL2+ Managed\nNon-PoE\n1G/2.5G SFP\t200\nSTI-448DGGGPM\t4*100M/1G/2.5G SFP+4*100M/1G SFP+8*10/100/1000M PoE\nL2+ Managed, PoE af/at, 240W budget, Din Rail, Redundant DC44V~57V Input\t\t\t\tL2+ Managed\nPoE af/at, 240W\n1G/2.5G SFP\t215\nSTI-448XGGGM\t4*100M/1G/2.5G/10G SFP+4*100M/1G SFP+8*10/100/1000M RJ45\nL2+ Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input\t\t\t\tL2+ Managed\nNon-PoE\n1G/2.5G/10G SFP\t250\nSTI-448XGGGPM\t4*100M/1G/2.5G/10G SFP+4*100M/1G SFP+8*10/100/1000M PoE\nL2+ Managed, PoE af/at, 240W budget, Din Rail, Redundant DC44V~57V Input\t\t\t\tL2+ Managed\nPoE af/at, 240W\n1G/2.5G/10G SFP\t270\nSTI-4240DGGM\t4*100M/1G/2.5G SFP+24*10/100/1000M RJ45\nL2+ Managed, Non-PoE, Din Rail, Redundant DC12V~75V Input\t\t\t\tL2+ Managed\nNon-PoE\n1G/2.5G SFP\t300\nSTI-42424DGGPM\t4*100M/1G/2.5G SFP+24*10/100/1000M PoE\nL2+ Managed, 24*PoE af/at, 240W/370W budget\nDin Rail, Redundant DC44V~57V Input\t\t\t\tL2+ Managed\nPoE af/at, 240W/370W\n1G/2.5G SFP\t330\nSTI-42424DGGPM-4BT\t4*100M/1G/2.5G SFP+24*10/100/1000M PoE\nL2+ Managed, 20*PoE af/at+4*PoE af/at/bt, 240W/370W budget\nDin Rail, Redundant DC44V~57V Input\t\t\t\tL2+ Managed\nPoE af/at/bt, 240W/370W\n1G/2.5G SFP\t370\nSTI-4240XGGM\t4*100M/1G/2.5G/10 SFP+24*10/100/1000M RJ45\nL2+ Managed, Non-PoE, Din Rail, Redundant DC12V~75V Input\t\t\t\tL2+ Managed\nNon-PoE\n1G/2.5G/10G SFP\t350\nSTI-42424XGGPM\t4*100M/1G/2.5G/10G SFP+24*10/100/1000M PoE\nL2+ Managed, 24*PoE af/at, 240W/370W budget\nDin Rail, Redundant DC44V~57V Input\t\t\t\tL2+ Managed\nPoE af/at, 240W/370W\n1G/2.5G/10G SFP\t385\nSTI-42424XGGPM-4BT\t4*100M/1G/2.5G/10G SFP+24*10/100/1000M PoE\nL2+ Managed, 20*PoE af/at+4*PoE af/at/bt, 240W/370W budget\nDin Rail, Redundant DC44V~57V Input\t\t\t\tL2+ Managed\nPoE af/at/bt, 240W/370W\n1G/2.5G/10G SFP\t415\nSTI-488DGGGM\t4*100M/1G/2.5G SFP+8*100M/1G SFP+8*10/100/1000M RJ45\nL2+ Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input\t\t\t\tL2+ Managed\nNon-PoE\n1G/2.5G SFP\t320\nSTI-4240DGGM-U\t4*100M/1G/2.5G SFP+24*10/100/1000M RJ45\nL2+ Managed, Non-PoE, 1U Rack, AC100V~240V Input\n(Dual AC, Dual DC, AC+DC Optional)\t\t\t\tL2+ Managed\nNon-PoE\n1G/2.5G SFP\t330\nSTI-42424DGGPM-U\t4*100M/1G/2.5G SFP+24*10/100/1000M PoE\nL2+ Managed, 24*PoE af/at, 370W budget\n1U Rack, AC100V~240V Input(Dual AC, Dual DC, AC+DC Optional)\t\t\t\tL2+ Managed\nPoE af/at, 370W\n1G/2.5G SFP\t370\nSTI-42424DGGPM-U-2BT\t4*100M/1G/2.5G SFP+24*10/100/1000M PoE\nL2+ Managed, 22*PoE af/at+2*PoE af/at/bt, 370W budget\n1U Rack, AC100V~240V Input(Dual AC, Dual DC, AC+DC Optional)\t\t\t\tL2+ Managed\nPoE af/at/bt, 370W\n1G/2.5G SFP\t400\nSTI-4240XGGM-U\t4*100M/1G/2.5G/10G SFP+24*10/100/1000M RJ45\nL2+ Managed, Non-PoE, 1U Rack, AC100V~240V Input\n(Dual AC, Dual DC, AC+DC Optional)\t\t\t\tL2+ Managed\nNon-PoE\n1G/2.5G/10G SFP\t375\nSTI-42424XGGPM-U\t4*100M/1G/2.5G/10G SFP+24*10/100/1000M PoE\nL2+ Managed, 24*PoE af/at, 370W budget\n1U Rack, AC100V~240V Input(Dual AC, Dual DC, AC+DC Optional)\t\t\t\tL2+ Managed\nPoE af/at, 370W\n1G/2.5G/10G SFP\t410\nSTI-42424XGGPM-U-2BT\t4*100M/1G/2.5G/10G SFP+24*10/100/1000M PoE\nL2+ Managed, 22*PoE af/at+2*PoE af/at/bt, 370W budget\n1U Rack, AC100V~240V Input(Dual AC, Dual DC, AC+DC Optional)\t\t\t\tL2+ Managed\nPoE af/at/bt, 370W\n1G/2.5G/10G SFP\t440\nSTI-4168DGGCM-U\t4*100M/1G/2.5G SFP+16*100M/1G SFP+8*1G SFP/RJ45 Combo\nL2+ Managed, Non-PoE, 1U Rack, AC100V~240V Input\n1U Rack, AC100V~240V Input(Dual AC, Dual DC, AC+DC Optional)\t\t\t\tL2+ Managed\nNon-PoE\n1G/2.5G SFP\t425\nSTI-4168XGGCM-U\t4*100M/1G/2.5G/10G SFP+16*100M/1G SFP+8*1G SFP/RJ45 Combo\nL2+ Managed, Non-PoE, 1U Rack, AC100V~240V Input\n1U Rack, AC100V~240V Input(Dual AC, Dual DC, AC+DC Optional)\t\t\t\tL2+ Managed\nNon-PoE\n1G/2.5G/10G SFP\t465\nRemarks\tThis series covers frequently used features like VLAN/QinQ/STP, RSTP, MSTP/ERPS/SFP DDM...\nIt basically meets the daily needs of management features in various projects\n\nIndustrial power adapter and optical module are NOT included in both the packing box and unit pricing\nSTI-448XGGGM\t4*100M/1G/2.5G/10G SFP+4*100M/1G SFP+8*10/100/1000M RJ45\nL3 Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input\t\t\t\tL3 Managed\nNon-PoE\n1G/2.5G/10G SFP\t330\nSTI-448XGGGPM\t4*100M/1G/2.5G/10G SFP+4*100M/1G SFP+8*10/100/1000M PoE\nL3 Managed, PoE af/at, 240W budget, Din Rail, Redundant DC44V~57V Input\t\t\t\tL3 Managed\nPoE af/at, 240W\n1G/2.5G/10G SFP\t350\nSTI-2160XGGM\t2*100M/1G/2.5G/10G SFP+16*10/100/1000M RJ45\nL3 Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input\t\t\t\tL3 Managed\nNon-PoE\n1G/2.5G/10G SFP\t350\nSTI-21616XGGPM\t2*100M/1G/2.5G/10G SFP+16*10/100/1000M PoE\nL3 Managed, PoE af/at, 240W budget, Din Rail, Redundant DC44V~57V Input\t\t\t\tL3 Managed\nPoE af/at, 240W\n1G/2.5G/10G SFP\t375\nSTI-488XGGGM\t4*100M/1G/2.5G/10G SFP+8*100M/1G SFP+8*10/100/1000M RJ45\nL3 Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input\t\t\t\tL3 Managed\nNon-PoE\n1G/2.5G/10G SFP\t410\nSTI-4160XGGM\t4*100M/1G/2.5G/10G SFP+16*10/100/1000M RJ45\nL3 Managed, Non-PoE, Din Rail, Redundant DC12V~75V Input\t\t\t\tL3 Managed\nNon-PoE\n1G/2.5G/10G SFP\t420\nSTI-41616XGGPM\t4*100M/1G/2.5G/10G SFP+16*10/100/1000M PoE\nL3 Managed, PoE af/at, 240W/370W budget, Din Rail, Redundant DC44V~57V Input\t\t\t\tL3 Managed\nPoE af/at, 240W\n1G/2.5G/10G SFP\t450\nSTI-41616XGGPM-4BT\t4*100M/1G/2.5G/10G SFP+16*10/100/1000M PoE\nL3 Managed, 12*PoE af/at+4*PoE af/at/bt, 370W budget\n1U Rack, AC100V~240V Input(Dual AC, Dual DC, AC+DC Optional)\t\t\t\tL3 Managed\nPoE af/at/bt, 370W\n1G/2.5G/10G SFP\t480\nSTI-4240XGGM\t4*100M/1G/2.5G/10G SFP+24*10/100/1000M RJ45\nL3 Managed, Non-PoE, Din Rail, Redundant DC12V~75V Input\t\t\t\tL3 Managed\nNon-PoE\n1G/2.5G/10G SFP\t435\nSTI-42424XGGPM\t4*100M/1G/2.5G/10G SFP+24*10/100/1000M PoE\nL3 Managed, PoE af/at, 240W/370W budget, Din Rail, Redundant DC44V~57V Input\t\t\t\tL3 Managed\nPoE af/at, 240W\n1G/2.5G/10G SFP\t470\nSTI-42424XGGPM-4BT\t4*100M/1G/2.5G/10G SFP+24*10/100/1000M PoE\nL3 Managed, 20*PoE af/at+4*PoE af/at/bt, 370W budget\n1U Rack, AC100V~240V Input(Dual AC, Dual DC, AC+DC Optional)\t\t\t\tL3 Managed\nPoE af/at/bt, 370W\n1G/2.5G/10G SFP\t500\nSTI-4240XGGM-U\t4*100M/1G/2.5G/10G SFP+24*10/100/1000M RJ45\nL3 Managed, Non-PoE, 1U Rack, AC100V~240V Input\n(Dual AC, Dual DC, AC+DC Optional)\t\t\t\tL3 Managed\nNon-PoE\n1G/2.5G/10G SFP\t460\nSTI-42424XGGPM-U\t4*100M/1G/2.5G/10G SFP+24*10/100/1000M PoE\nL3 Managed, 24*PoE af/at, 370W budget\n1U Rack, AC100V~240V Input(Dual AC, Dual DC, AC+DC Optional)\t\t\t\tL3 Managed\nPoE af/at, 370W\n1G/2.5G/10G SFP\t500\nSTI-42424XGGPM-U-2BT\t4*100M/1G/2.5G/10G SFP+24*10/100/1000M PoE\nL3 Managed, 22*PoE af/at+2*PoE af/at/bt, 370W budget\n1U Rack, AC100V~240V Input(Dual AC, Dual DC, AC+DC Optional)\t\t\t\tL3 Managed\nPoE af/at/bt, 370W\n1G/2.5G/10G SFP\t530\nSTI-4816XGCGM-U\t4*100M/1G/2.5G/10G SFP+8*1G SFP/RJ45 Combo+16*10/100/1000M RJ45\nL3 Managed, Non-PoE, 1U Rack, AC100V~240V Input\n(Dual AC, Dual DC, AC+DC Optional)\t\t\t\tL3 Managed\nNon-PoE\n1G/2.5G/10G SFP\t520\nSTI-4816XGCGPM-U\t4*100M/1G/2.5G/10G SFP+8*1G SFP/RJ45 Combo+16*10/100/1000M PoE\nL3 Managed, 16*PoE af/at, 370W budget\n1U Rack, AC100V~240V Input(Dual AC, Dual DC, AC+DC Optional)\t\t\t\tL3 Managed\nPoE af/at, 370W\n1G/2.5G/10G SFP\t550\nSTI-4816XGCGPM-U-2BT\t4*100M/1G/2.5G/10G SFP+8*1G SFP/RJ45 Combo+16*10/100/1000M PoE\nL3 Managed, 14*PoE af/at+2*PoE af/at/bt, 370W budget\n1U Rack, AC100V~240V Input(Dual AC, Dual DC, AC+DC Optional)\t\t\t\tL3 Managed\nPoE af/at/bt, 370W\n1G/2.5G/10G SFP\t580\nSTI-4168XGGCM-U\t4*100M/1G/2.5G/10G SFP+16*100M/1G SFP+8*1G SFP/RJ45 Combo\nL3 Managed, Non-PoE, 1U Rack, AC100V~240V Input\n1U Rack, AC100V~240V Input(Dual AC, Dual DC, AC+DC Optional)\t\t\t\tL3 Managed\nNon-PoE\n1G/2.5G/10G SFP\t550\nSTI-4480XGGM-U\t4*100M/1G/2.5G/10G SFP+48*10/100/1000M RJ45\nL3 Managed, Non-PoE, 1U Rack, AC100V~240V Input\n(Dual AC, Dual DC, AC+DC Optional)\t\t\t\tL3 Managed\nNon-PoE\n1G/2.5G/10G SFP\t770\nRemarks\tThis series, on the basis of ALL Layer 2+ features, provides some more powerful management features such as RIP, OSPF, BGP4, ECMP, VRRP...\nIt is suited for high-end fiber optic transmission solutions\n\nIndustrial power adapter and optical module are NOT included in both the packing box and unit pricing\nRemarks\n1. Prices are valid for 15 days, all the prices are NOT including power supply\n2. Price term: EXW\n3. Warranty period: Three years\n4. Lead time for less than 50pcs: 5~7 working days\n5. Customization is available",
+"sheets":{
+"Saga Telecom":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Tailored Marvell Managed Networking Solutions Provider"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 13048800964                                         www.sagatelecom.com.cn                                 Email: a.sagatelecom@gmail.com"
+],
+[
+"Download Link(information for full category)"
+],
+[
+"https://drive.google.com/drive/folders/1agbuT_zU4gyWX2VpG7zlaTsAScMCYKbT?usp=drive_link"
+],
+[
+"Must-Know"
+],
+[
+"This category contains a wide variety of models based on\n1.Management features\n2.Port combination\n3.Optical speed\n4.PoE standard(PoE af/at or PoE af/at/bt)\nIt is STRONGLY suggested to read “order information” and “product datasheet” to avoid confusion or improper model selection."
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"",
+"Key Words",
+"Price",
+"Picture"
+],
+[
+"Click the model name, you will be directed to the product webpage for more information"
+],
+[
+"STI-240FM",
+"2*100M SFP+4*10/100M RJ45\nL2 Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input",
+"",
+"",
+"",
+"L2 Managed\nNon-PoE\n100M SFP",
+"50"
+],
+[
+"STI-240GM",
+"2*100M/1000M SFP+4*10/100/1000M RJ45\nL2 Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input",
+"",
+"",
+"",
+"L2 Managed\nNon-PoE\n1G SFP",
+"60"
+],
+[
+"STI-280GM",
+"2*100M/1000M SFP+8*10/100/1000M RJ45\nL2 Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input",
+"",
+"",
+"",
+"L2 Managed\nNon-PoE\n1G SFP",
+"70"
+],
+[
+"STI-244FPM",
+"2*100M SFP+4*10/100M PoE\nL2 Managed, PoE af/at, 120W budget, Din Rail, Redundant DC44V~57V Input",
+"",
+"",
+"",
+"L2 Managed\nPoE af/at, 120W\n100M SFP",
+"60"
+],
+[
+"STI-244GPM",
+"2*100M/1000M SFP+4*10/100/1000M PoE\nL2 Managed, PoE af/at, 120W budget, Din Rail, Redundant DC44V~57V Input",
+"",
+"",
+"",
+"L2 Managed\nPoE af/at, 120W\n1G SFP",
+"70"
+],
+[
+"STI-288GPM",
+"2*100M/1000M SFP+8*10/100/1000M PoE\nL2 Managed, PoE af/at, 240W budget, Din Rail, Redundant DC44V~57V Input",
+"",
+"",
+"",
+"L2 Managed\nPoE af/at, 240W\n1G SFP",
+"80"
+],
+[
+"Remarks",
+"This L2 managed series supports limited but some useful functions like ERPS, VLAN, PoE management\nIt is good for some simple CCTV security projects which are low-demanding in management features\n\nIndustrial power adapter and optical module are NOT included in both the packing box and unit pricing"
+],
+[
+"STI-240DGGM",
+"2*100M/1G/2.5G SFP+4*10/100/1000M RJ45\nL2+ Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input",
+"",
+"",
+"",
+"L2+ Managed\nNon-PoE\n1G/2.5G SFP",
+"100"
+],
+[
+"STI-244DGGPM",
+"2*100M/1G/2.5G SFP+4*10/100/1000M PoE\nL2+ Managed, PoE af/at, 120W budget, Din Rail, Redundant DC44V~57V Input",
+"",
+"",
+"",
+"L2+ Managed\nPoE af/at, 120W\n1G/2.5G SFP",
+"110"
+],
+[
+"STI-244DGGPM-2BT",
+"2*100M/1G/2.5G SFP+4*10/100/1000M PoE\nL2+ Managed, 2*PoE af/at+2*PoE af/at/bt, 240W budget\nDin Rail, Redundant DC44V~57V Input",
+"",
+"",
+"",
+"L2+ Managed\nPoE af/at/bt, 240W\n1G/2.5G SFP",
+"130"
+],
+[
+"STI-280DGGM",
+"2*100M/1G/2.5G SFP+8*10/100/1000M RJ45\nL2+ Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input",
+"",
+"",
+"",
+"L2+ Managed\nNon-PoE\n1G/2.5G SFP",
+"110"
+],
+[
+"STI-288DGGPM",
+"2*100M/1G/2.5G SFP+8*10/100/1000M PoE\nL2+ Managed, PoE af/at, 240W budget, Din Rail, Redundant DC44V~57V Input",
+"",
+"",
+"",
+"L2+ Managed\nPoE af/at, 240W\n1G/2.5G SFP",
+"125"
+],
+[
+"STI-288DGGPM-2BT",
+"2*100M/1G/2.5G SFP+8*10/100/1000M PoE\nL2+ Managed, 6*PoE af/at+2*PoE af/at/bt, 240W budget\nDin Rail, Redundant DC44V~57V Input",
+"",
+"",
+"",
+"L2+ Managed\nPoE af/at/bt, 240W\n1G/2.5G SFP",
+"140"
+],
+[
+"STI-480DGGM",
+"4*100M/1G/2.5G SFP+8*10/100/1000M RJ45\nL2+ Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input",
+"",
+"",
+"",
+"L2+ Managed\nNon-PoE\n1G/2.5G SFP",
+"120"
+],
+[
+"STI-488DGGPM",
+"4*100M/1G/2.5G SFP+8*10/100/1000M PoE\nL2+ Managed, PoE af/at, 240W budget, Din Rail, Redundant DC44V~57V Input",
+"",
+"",
+"",
+"L2+ Managed\nPoE af/at, 240W\n1G/2.5G SFP",
+"135"
+],
+[
+"STI-488DGGPM-2BT",
+"4*100M/1G/2.5G SFP+8*10/100/1000M PoE\nL2+ Managed, 6*PoE af/at+2*PoE af/at/bt, 240W budget\nDin Rail, Redundant DC44V~57V Input",
+"",
+"",
+"",
+"L2+ Managed\nPoE af/at/bt, 240W\n1G/2.5G SFP",
+"150"
+],
+[
+"STI-480XGGM",
+"4*100M/1G/2.5G/10G SFP+8*10/100/1000M RJ45\nL2+ Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input",
+"",
+"",
+"",
+"L2+ Managed\nNon-PoE\n1G/2.5G/10G SFP",
+"230"
+],
+[
+"STI-488XGGPM",
+"4*100M/1G/2.5G/10G SFP+8*10/100/1000M PoE\nL2+ Managed, PoE af/at, 240W budget, Din Rail, Redundant DC44V~57V Input",
+"",
+"",
+"",
+"L2+ Managed\nPoE af/at, 240W\n1G/2.5G/10G SFP",
+"245"
+],
+[
+"STI-2160DGGM",
+"2*100M/1G/2.5G SFP+16*10/100/1000M RJ45\nL2+ Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input",
+"",
+"",
+"",
+"L2+ Managed\nNon-PoE\n1G/2.5G SFP",
+"200"
+],
+[
+"STI-21616DGGPM",
+"2*100M/1G/2.5G SFP+16*10/100/1000M PoE\nL2+ Managed, PoE af/at, 240W budget, Din Rail, Redundant DC44V~57V Input",
+"",
+"",
+"",
+"L2+ Managed\nPoE af/at, 240W\n1G/2.5G SFP",
+"220"
+],
+[
+"STI-2160XGGM",
+"2*100M/1G/2.5G/10G SFP+16*10/100/1000M RJ45\nL2+ Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input",
+"",
+"",
+"",
+"L2+ Managed\nNon-PoE\n1G/2.5G/10G SFP",
+"265"
+],
+[
+"STI-21616XGGPM",
+"2*100M/1G/2.5G/10G SFP+16*10/100/1000M PoE\nL2+ Managed, PoE af/at, 240W budget, Din Rail, Redundant DC44V~57V Input",
+"",
+"",
+"",
+"L2+ Managed\nPoE af/at, 240W\n1G/2.5G/10G SFP",
+"295"
+],
+[
+"STI-448DGGGM",
+"4*100M/1G/2.5G SFP+4*100M/1G SFP+8*10/100/1000M RJ45\nL2+ Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input",
+"",
+"",
+"",
+"L2+ Managed\nNon-PoE\n1G/2.5G SFP",
+"200"
+],
+[
+"STI-448DGGGPM",
+"4*100M/1G/2.5G SFP+4*100M/1G SFP+8*10/100/1000M PoE\nL2+ Managed, PoE af/at, 240W budget, Din Rail, Redundant DC44V~57V Input",
+"",
+"",
+"",
+"L2+ Managed\nPoE af/at, 240W\n1G/2.5G SFP",
+"215"
+],
+[
+"STI-448XGGGM",
+"4*100M/1G/2.5G/10G SFP+4*100M/1G SFP+8*10/100/1000M RJ45\nL2+ Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input",
+"",
+"",
+"",
+"L2+ Managed\nNon-PoE\n1G/2.5G/10G SFP",
+"250"
+],
+[
+"STI-448XGGGPM",
+"4*100M/1G/2.5G/10G SFP+4*100M/1G SFP+8*10/100/1000M PoE\nL2+ Managed, PoE af/at, 240W budget, Din Rail, Redundant DC44V~57V Input",
+"",
+"",
+"",
+"L2+ Managed\nPoE af/at, 240W\n1G/2.5G/10G SFP",
+"270"
+],
+[
+"STI-4240DGGM",
+"4*100M/1G/2.5G SFP+24*10/100/1000M RJ45\nL2+ Managed, Non-PoE, Din Rail, Redundant DC12V~75V Input",
+"",
+"",
+"",
+"L2+ Managed\nNon-PoE\n1G/2.5G SFP",
+"300"
+],
+[
+"STI-42424DGGPM",
+"4*100M/1G/2.5G SFP+24*10/100/1000M PoE\nL2+ Managed, 24*PoE af/at, 240W/370W budget\nDin Rail, Redundant DC44V~57V Input",
+"",
+"",
+"",
+"L2+ Managed\nPoE af/at, 240W/370W\n1G/2.5G SFP",
+"330"
+],
+[
+"STI-42424DGGPM-4BT",
+"4*100M/1G/2.5G SFP+24*10/100/1000M PoE\nL2+ Managed, 20*PoE af/at+4*PoE af/at/bt, 240W/370W budget\nDin Rail, Redundant DC44V~57V Input",
+"",
+"",
+"",
+"L2+ Managed\nPoE af/at/bt, 240W/370W\n1G/2.5G SFP",
+"370"
+],
+[
+"STI-4240XGGM",
+"4*100M/1G/2.5G/10 SFP+24*10/100/1000M RJ45\nL2+ Managed, Non-PoE, Din Rail, Redundant DC12V~75V Input",
+"",
+"",
+"",
+"L2+ Managed\nNon-PoE\n1G/2.5G/10G SFP",
+"350"
+],
+[
+"STI-42424XGGPM",
+"4*100M/1G/2.5G/10G SFP+24*10/100/1000M PoE\nL2+ Managed, 24*PoE af/at, 240W/370W budget\nDin Rail, Redundant DC44V~57V Input",
+"",
+"",
+"",
+"L2+ Managed\nPoE af/at, 240W/370W\n1G/2.5G/10G SFP",
+"385"
+],
+[
+"STI-42424XGGPM-4BT",
+"4*100M/1G/2.5G/10G SFP+24*10/100/1000M PoE\nL2+ Managed, 20*PoE af/at+4*PoE af/at/bt, 240W/370W budget\nDin Rail, Redundant DC44V~57V Input",
+"",
+"",
+"",
+"L2+ Managed\nPoE af/at/bt, 240W/370W\n1G/2.5G/10G SFP",
+"415"
+],
+[
+"STI-488DGGGM",
+"4*100M/1G/2.5G SFP+8*100M/1G SFP+8*10/100/1000M RJ45\nL2+ Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input",
+"",
+"",
+"",
+"L2+ Managed\nNon-PoE\n1G/2.5G SFP",
+"320"
+],
+[
+"STI-4240DGGM-U",
+"4*100M/1G/2.5G SFP+24*10/100/1000M RJ45\nL2+ Managed, Non-PoE, 1U Rack, AC100V~240V Input\n(Dual AC, Dual DC, AC+DC Optional)",
+"",
+"",
+"",
+"L2+ Managed\nNon-PoE\n1G/2.5G SFP",
+"330"
+],
+[
+"STI-42424DGGPM-U",
+"4*100M/1G/2.5G SFP+24*10/100/1000M PoE\nL2+ Managed, 24*PoE af/at, 370W budget\n1U Rack, AC100V~240V Input(Dual AC, Dual DC, AC+DC Optional)",
+"",
+"",
+"",
+"L2+ Managed\nPoE af/at, 370W\n1G/2.5G SFP",
+"370"
+],
+[
+"STI-42424DGGPM-U-2BT",
+"4*100M/1G/2.5G SFP+24*10/100/1000M PoE\nL2+ Managed, 22*PoE af/at+2*PoE af/at/bt, 370W budget\n1U Rack, AC100V~240V Input(Dual AC, Dual DC, AC+DC Optional)",
+"",
+"",
+"",
+"L2+ Managed\nPoE af/at/bt, 370W\n1G/2.5G SFP",
+"400"
+],
+[
+"STI-4240XGGM-U",
+"4*100M/1G/2.5G/10G SFP+24*10/100/1000M RJ45\nL2+ Managed, Non-PoE, 1U Rack, AC100V~240V Input\n(Dual AC, Dual DC, AC+DC Optional)",
+"",
+"",
+"",
+"L2+ Managed\nNon-PoE\n1G/2.5G/10G SFP",
+"375"
+],
+[
+"STI-42424XGGPM-U",
+"4*100M/1G/2.5G/10G SFP+24*10/100/1000M PoE\nL2+ Managed, 24*PoE af/at, 370W budget\n1U Rack, AC100V~240V Input(Dual AC, Dual DC, AC+DC Optional)",
+"",
+"",
+"",
+"L2+ Managed\nPoE af/at, 370W\n1G/2.5G/10G SFP",
+"410"
+],
+[
+"STI-42424XGGPM-U-2BT",
+"4*100M/1G/2.5G/10G SFP+24*10/100/1000M PoE\nL2+ Managed, 22*PoE af/at+2*PoE af/at/bt, 370W budget\n1U Rack, AC100V~240V Input(Dual AC, Dual DC, AC+DC Optional)",
+"",
+"",
+"",
+"L2+ Managed\nPoE af/at/bt, 370W\n1G/2.5G/10G SFP",
+"440"
+],
+[
+"STI-4168DGGCM-U",
+"4*100M/1G/2.5G SFP+16*100M/1G SFP+8*1G SFP/RJ45 Combo\nL2+ Managed, Non-PoE, 1U Rack, AC100V~240V Input\n1U Rack, AC100V~240V Input(Dual AC, Dual DC, AC+DC Optional)",
+"",
+"",
+"",
+"L2+ Managed\nNon-PoE\n1G/2.5G SFP",
+"425"
+],
+[
+"STI-4168XGGCM-U",
+"4*100M/1G/2.5G/10G SFP+16*100M/1G SFP+8*1G SFP/RJ45 Combo\nL2+ Managed, Non-PoE, 1U Rack, AC100V~240V Input\n1U Rack, AC100V~240V Input(Dual AC, Dual DC, AC+DC Optional)",
+"",
+"",
+"",
+"L2+ Managed\nNon-PoE\n1G/2.5G/10G SFP",
+"465"
+],
+[
+"Remarks",
+"This series covers frequently used features like VLAN/QinQ/STP, RSTP, MSTP/ERPS/SFP DDM...\nIt basically meets the daily needs of management features in various projects\n\nIndustrial power adapter and optical module are NOT included in both the packing box and unit pricing"
+],
+[
+"STI-448XGGGM",
+"4*100M/1G/2.5G/10G SFP+4*100M/1G SFP+8*10/100/1000M RJ45\nL3 Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input",
+"",
+"",
+"",
+"L3 Managed\nNon-PoE\n1G/2.5G/10G SFP",
+"330"
+],
+[
+"STI-448XGGGPM",
+"4*100M/1G/2.5G/10G SFP+4*100M/1G SFP+8*10/100/1000M PoE\nL3 Managed, PoE af/at, 240W budget, Din Rail, Redundant DC44V~57V Input",
+"",
+"",
+"",
+"L3 Managed\nPoE af/at, 240W\n1G/2.5G/10G SFP",
+"350"
+],
+[
+"STI-2160XGGM",
+"2*100M/1G/2.5G/10G SFP+16*10/100/1000M RJ45\nL3 Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input",
+"",
+"",
+"",
+"L3 Managed\nNon-PoE\n1G/2.5G/10G SFP",
+"350"
+],
+[
+"STI-21616XGGPM",
+"2*100M/1G/2.5G/10G SFP+16*10/100/1000M PoE\nL3 Managed, PoE af/at, 240W budget, Din Rail, Redundant DC44V~57V Input",
+"",
+"",
+"",
+"L3 Managed\nPoE af/at, 240W\n1G/2.5G/10G SFP",
+"375"
+],
+[
+"STI-488XGGGM",
+"4*100M/1G/2.5G/10G SFP+8*100M/1G SFP+8*10/100/1000M RJ45\nL3 Managed, Non-PoE, Din Rail, Redundant DC12V~58V Input",
+"",
+"",
+"",
+"L3 Managed\nNon-PoE\n1G/2.5G/10G SFP",
+"410"
+],
+[
+"STI-4160XGGM",
+"4*100M/1G/2.5G/10G SFP+16*10/100/1000M RJ45\nL3 Managed, Non-PoE, Din Rail, Redundant DC12V~75V Input",
+"",
+"",
+"",
+"L3 Managed\nNon-PoE\n1G/2.5G/10G SFP",
+"420"
+],
+[
+"STI-41616XGGPM",
+"4*100M/1G/2.5G/10G SFP+16*10/100/1000M PoE\nL3 Managed, PoE af/at, 240W/370W budget, Din Rail, Redundant DC44V~57V Input",
+"",
+"",
+"",
+"L3 Managed\nPoE af/at, 240W\n1G/2.5G/10G SFP",
+"450"
+],
+[
+"STI-41616XGGPM-4BT",
+"4*100M/1G/2.5G/10G SFP+16*10/100/1000M PoE\nL3 Managed, 12*PoE af/at+4*PoE af/at/bt, 370W budget\n1U Rack, AC100V~240V Input(Dual AC, Dual DC, AC+DC Optional)",
+"",
+"",
+"",
+"L3 Managed\nPoE af/at/bt, 370W\n1G/2.5G/10G SFP",
+"480"
+],
+[
+"STI-4240XGGM",
+"4*100M/1G/2.5G/10G SFP+24*10/100/1000M RJ45\nL3 Managed, Non-PoE, Din Rail, Redundant DC12V~75V Input",
+"",
+"",
+"",
+"L3 Managed\nNon-PoE\n1G/2.5G/10G SFP",
+"435"
+],
+[
+"STI-42424XGGPM",
+"4*100M/1G/2.5G/10G SFP+24*10/100/1000M PoE\nL3 Managed, PoE af/at, 240W/370W budget, Din Rail, Redundant DC44V~57V Input",
+"",
+"",
+"",
+"L3 Managed\nPoE af/at, 240W\n1G/2.5G/10G SFP",
+"470"
+],
+[
+"STI-42424XGGPM-4BT",
+"4*100M/1G/2.5G/10G SFP+24*10/100/1000M PoE\nL3 Managed, 20*PoE af/at+4*PoE af/at/bt, 370W budget\n1U Rack, AC100V~240V Input(Dual AC, Dual DC, AC+DC Optional)",
+"",
+"",
+"",
+"L3 Managed\nPoE af/at/bt, 370W\n1G/2.5G/10G SFP",
+"500"
+],
+[
+"STI-4240XGGM-U",
+"4*100M/1G/2.5G/10G SFP+24*10/100/1000M RJ45\nL3 Managed, Non-PoE, 1U Rack, AC100V~240V Input\n(Dual AC, Dual DC, AC+DC Optional)",
+"",
+"",
+"",
+"L3 Managed\nNon-PoE\n1G/2.5G/10G SFP",
+"460"
+],
+[
+"STI-42424XGGPM-U",
+"4*100M/1G/2.5G/10G SFP+24*10/100/1000M PoE\nL3 Managed, 24*PoE af/at, 370W budget\n1U Rack, AC100V~240V Input(Dual AC, Dual DC, AC+DC Optional)",
+"",
+"",
+"",
+"L3 Managed\nPoE af/at, 370W\n1G/2.5G/10G SFP",
+"500"
+],
+[
+"STI-42424XGGPM-U-2BT",
+"4*100M/1G/2.5G/10G SFP+24*10/100/1000M PoE\nL3 Managed, 22*PoE af/at+2*PoE af/at/bt, 370W budget\n1U Rack, AC100V~240V Input(Dual AC, Dual DC, AC+DC Optional)",
+"",
+"",
+"",
+"L3 Managed\nPoE af/at/bt, 370W\n1G/2.5G/10G SFP",
+"530"
+],
+[
+"STI-4816XGCGM-U",
+"4*100M/1G/2.5G/10G SFP+8*1G SFP/RJ45 Combo+16*10/100/1000M RJ45\nL3 Managed, Non-PoE, 1U Rack, AC100V~240V Input\n(Dual AC, Dual DC, AC+DC Optional)",
+"",
+"",
+"",
+"L3 Managed\nNon-PoE\n1G/2.5G/10G SFP",
+"520"
+],
+[
+"STI-4816XGCGPM-U",
+"4*100M/1G/2.5G/10G SFP+8*1G SFP/RJ45 Combo+16*10/100/1000M PoE\nL3 Managed, 16*PoE af/at, 370W budget\n1U Rack, AC100V~240V Input(Dual AC, Dual DC, AC+DC Optional)",
+"",
+"",
+"",
+"L3 Managed\nPoE af/at, 370W\n1G/2.5G/10G SFP",
+"550"
+],
+[
+"STI-4816XGCGPM-U-2BT",
+"4*100M/1G/2.5G/10G SFP+8*1G SFP/RJ45 Combo+16*10/100/1000M PoE\nL3 Managed, 14*PoE af/at+2*PoE af/at/bt, 370W budget\n1U Rack, AC100V~240V Input(Dual AC, Dual DC, AC+DC Optional)",
+"",
+"",
+"",
+"L3 Managed\nPoE af/at/bt, 370W\n1G/2.5G/10G SFP",
+"580"
+],
+[
+"STI-4168XGGCM-U",
+"4*100M/1G/2.5G/10G SFP+16*100M/1G SFP+8*1G SFP/RJ45 Combo\nL3 Managed, Non-PoE, 1U Rack, AC100V~240V Input\n1U Rack, AC100V~240V Input(Dual AC, Dual DC, AC+DC Optional)",
+"",
+"",
+"",
+"L3 Managed\nNon-PoE\n1G/2.5G/10G SFP",
+"550"
+],
+[
+"STI-4480XGGM-U",
+"4*100M/1G/2.5G/10G SFP+48*10/100/1000M RJ45\nL3 Managed, Non-PoE, 1U Rack, AC100V~240V Input\n(Dual AC, Dual DC, AC+DC Optional)",
+"",
+"",
+"",
+"L3 Managed\nNon-PoE\n1G/2.5G/10G SFP",
+"770"
+],
+[
+"Remarks",
+"This series, on the basis of ALL Layer 2+ features, provides some more powerful management features such as RIP, OSPF, BGP4, ECMP, VRRP...\nIt is suited for high-end fiber optic transmission solutions\n\nIndustrial power adapter and optical module are NOT included in both the packing box and unit pricing"
+],
+[
+"Remarks"
+],
+[
+"1. Prices are valid for 15 days, all the prices are NOT including power supply"
+],
+[
+"2. Price term: EXW"
+],
+[
+"3. Warranty period: Three years"
+],
+[
+"4. Lead time for less than 50pcs: 5~7 working days"
+],
+[
+"5. Customization is available"
+]
+]
+}
+},
+"extracted_at":"2026-10-23T05:05:47Z"
+}

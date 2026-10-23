@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_SEO__sti-21616gp-front.jpg__216a2e5a",
+"path":"Extra_Info/Saga SEO/sti-21616gp-front.jpg",
+"name":"sti-21616gp-front.jpg",
+"ext":".jpg",
+"bytes":81812,
+"sha256":"216a2e5aa89802bd80b0538766e87b880a33fc2b07b37aa2bc2b96228c1282ed",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":800,
+"height":800,
+"mode":"RGB",
+"thumb_bytes":8944
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:01:47Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__sti-21616gp-front.jpg__216a2e5a.jpg"
+}

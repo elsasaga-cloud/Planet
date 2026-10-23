@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Reference_Info__IPC_WIFI.png__26abff2b",
+"path":"Extra_Info/Reference Info/IPC&WIFI.png",
+"name":"IPC&WIFI.png",
+"ext":".png",
+"bytes":1736886,
+"sha256":"26abff2b11a08bc8090eb3705fb7db112ccf9d55479f44f1aa6cc305a56d7c07",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":1179,
+"height":885,
+"mode":"RGBA",
+"thumb_bytes":13171
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:06:56Z",
+"thumb":"thumbs/Extra_Info__Reference_Info__IPC_WIFI.png__26abff2b.jpg"
+}

@@ -1,0 +1,16 @@
+{
+"id":"Extra_Info__Saga_SEO__CN_Site__robots.txt__c6caf5ae",
+"path":"Extra_Info/Saga SEO/CN Site/robots.txt",
+"name":"robots.txt",
+"ext":".txt",
+"bytes":76,
+"sha256":"c6caf5ae02651ee3896faa075e1dd3193e164a11006774ed678890da58b5a455",
+"source":"Extra_Info.zip",
+"method":"text",
+"status":"ok",
+"meta":{},
+"warnings":[],
+"chars":76,
+"text":"User-agent: *\nAllow: /\n\nSitemap: https://www.sagatelecom.com.cn/sitemap.xml\n",
+"extracted_at":"2026-10-23T05:02:17Z"
+}

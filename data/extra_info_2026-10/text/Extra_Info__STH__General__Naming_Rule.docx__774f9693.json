@@ -1,0 +1,237 @@
+{
+"id":"Extra_Info__STH__General__Naming_Rule.docx__774f9693",
+"path":"Extra_Info/STH/General/Naming Rule.docx",
+"name":"Naming Rule.docx",
+"ext":".docx",
+"bytes":33001,
+"sha256":"774f9693c354f6d0b6362a60a0e04966001b2f33f7fe605e42f6a731062eae73",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2026-01-27T09:19:00+00:00",
+"modified":"2026-01-27T12:01:15+00:00",
+"paragraphs":42,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"chars":1046,
+"text":"STH=CENTEC High-Speed Network Series\nC=100G\nX=10G\nG=1G\nF=Fiber\nE=Ethernet\nP=PoE+(30W)\nPB = PoE++(90W)\nO=Octuple\nQ=Quadruple\nD=Double\nOC=800G\nQC=400G\nQX=40G\nDX=25G\nXF=10G Fiber\nXE=10G Ethernet\nXP = 10G Ethernet with PoE+(30W)\nXPB = 10G Ethernet with PoE++(90W)\nVE=5G Ethernet\nVP = 5G Ethernet with PoE+(30W)\nVPB = 5G Ethernet with PoE++(90W)\nDF=2.5G Fiber\nDE=2.5G Ethernet\nDP=2.5G Ethernet with PoE+(30W)\nDPB = 2.5G Ethernet with PoE++(90W)\nGF=1G SFP\nGE = 1G Ethernet\nGP = 1G Ethernet with PoE+(30W)\nGPB = 1G Ethernet with PoE++(90W)\nHSI=Hot Swappable Input\nFI=Fixed Input\nSFI=Single Fixed Input\nDFI=Dual Fixed Input\nExample\nSTH-32C-HSI, that is 32*100G fiber ports, hot-swappable input\nSTH-8C48XF-SFI, that is 8*100G fiber ports+48*10G fiber ports, single fixed input\nEB=Standard License\nMS=Advanced License\nMA=Specific License(Metropolitan Area Network)\nST=Stacking License\nTypically, MS license will do\n[页眉页脚]\nSaga Telecom\nwww.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"STH=CENTEC High-Speed Network Series"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"C=100G"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"X=10G"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"G=1G"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"F=Fiber"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"E=Ethernet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"P=PoE+(30W)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PB = PoE++(90W)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"O=Octuple"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Q=Quadruple"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"D=Double"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OC=800G"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"QC=400G"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"QX=40G"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DX=25G"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"XF=10G Fiber"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"XE=10G Ethernet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"XP = 10G Ethernet with PoE+(30W)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"XPB = 10G Ethernet with PoE++(90W)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"VE=5G Ethernet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"VP = 5G Ethernet with PoE+(30W)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"VPB = 5G Ethernet with PoE++(90W)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DF=2.5G Fiber"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DE=2.5G Ethernet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DP=2.5G Ethernet with PoE+(30W)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DPB = 2.5G Ethernet with PoE++(90W)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"GF=1G SFP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"GE = 1G Ethernet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"GP = 1G Ethernet with PoE+(30W)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"GPB = 1G Ethernet with PoE++(90W)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"HSI=Hot Swappable Input"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"FI=Fixed Input"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SFI=Single Fixed Input"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DFI=Dual Fixed Input"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Example"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STH-32C-HSI, that is 32*100G fiber ports, hot-swappable input"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STH-8C48XF-SFI, that is 8*100G fiber ports+48*10G fiber ports, single fixed input"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"EB=Standard License"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MS=Advanced License"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MA=Specific License(Metropolitan Area Network)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"ST=Stacking License"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Typically, MS license will do"
+}
+],
+"extracted_at":"2026-10-23T05:03:42Z"
+}

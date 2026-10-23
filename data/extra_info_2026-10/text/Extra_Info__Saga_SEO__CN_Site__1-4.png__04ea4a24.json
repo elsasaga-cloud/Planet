@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_SEO__CN_Site__1-4.png__04ea4a24",
+"path":"Extra_Info/Saga SEO/CN Site/1-4.png",
+"name":"1-4.png",
+"ext":".png",
+"bytes":1269179,
+"sha256":"04ea4a24c795236ae001f232086cf815e1596d4a7aca2b523436c1df348b8150",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1254,
+"height":1254,
+"mode":"RGB",
+"thumb_bytes":19739
+},
+"warnings":[],
+"chars":526,
+"text":"Saga Telecom\nPoE Devices (Up to 30W/P'\nSe IP Camera\nFiber Ring Network (ERPS)\n| | ( fo = ERPS Ring\n<20ms\nWireless AP\n4B VolP Phone\nPS\n用 Industrial Sensor\n1G/2.5G SFP\n10/100/1000Base-TX\nPoE+\nSTI-288DGGPM\nIndustrial PoE Managed Switch\nDIDO J | RS485\noe Industrial /O cr Serial Device Networking 點\n‘ ) \\\n1 1 1\n1 Digital Input Digital Output Alarm /Relay | PLC RTU Meter Sensor |\n! (Dl) (D0) |\n1 1\n1 1 1\n1 1 1\n1 1 1\n1 + |\n| 12v~30V DC 2A@30v DC | |\n\\ ) )\n—— Network Cable (Copper) —— Fiber Optic 一 一 Voy serial Connection\n全\n1\n1\nie",
+"extracted_at":"2026-10-23T05:02:05Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__CN_Site__1-4.png__04ea4a24.jpg"
+}

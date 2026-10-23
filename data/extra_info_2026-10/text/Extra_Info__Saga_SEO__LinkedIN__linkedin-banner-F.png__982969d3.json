@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_SEO__LinkedIN__linkedin-banner-F.png__982969d3",
+"path":"Extra_Info/Saga SEO/LinkedIN/linkedin-banner-F.png",
+"name":"linkedin-banner-F.png",
+"ext":".png",
+"bytes":51461,
+"sha256":"982969d3b4d48a7495a446916fb1944d8eb899c0dbf711174085bdd516d67b74",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1584,
+"height":396,
+"mode":"RGB",
+"thumb_bytes":4857
+},
+"warnings":[],
+"chars":117,
+"text":"An Engineering &\nSupply-Chain-First\nTelecom Partner\n~ Architectural Stability\n= Continuous su pply\ninui\nBuilt to Last",
+"extracted_at":"2026-10-23T05:01:58Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__LinkedIN__linkedin-banner-F.png__982969d3.jpg"
+}

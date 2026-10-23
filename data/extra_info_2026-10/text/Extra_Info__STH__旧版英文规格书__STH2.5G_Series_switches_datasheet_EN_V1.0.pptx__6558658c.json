@@ -1,0 +1,625 @@
+{
+"id":"Extra_Info__STH__旧版英文规格书__STH2.5G_Series_switches_datasheet_EN_V1.0.pptx__6558658c",
+"path":"Extra_Info/STH/旧版英文规格书/STH2.5G Series switches datasheet_EN_V1.0.pptx",
+"name":"STH2.5G Series switches datasheet_EN_V1.0.pptx",
+"ext":".pptx",
+"bytes":519875,
+"sha256":"6558658c1fc62e2ef5f92ea344899f4d90855731770318622e308ceb88c1d5d6",
+"source":"Extra_Info.zip",
+"method":"python-pptx",
+"status":"ok",
+"meta":{
+"slides":8,
+"pictures":2
+},
+"warnings":[],
+"chars":8567,
+"text":"[slide 1]\nSTH2.5G SERIES SWITCHES\nDATASHEET\nFlexible Campus and Enterprise Switch\nVersion: V1.0\nRelease Date: 2024/10/08\nProduct Overview\nThe STH2.5G series switches are designed a domestic new generation switch chip which is carried on VastLakes Platform.\nThey support ports of various speeds, provide full Gigabit access(PoE, non-PoE) and flexible uplink data interaction capabilities, support a variety of switch layer 3 features, ensure network security, high efficiency and energy saving, and are suitable for access scenarios such as e-sports networks and SMBs.\nKey Features of the STH2.5G Series Switches\nSupport 5G Multi-Gigatbit ports and various uplink ports to meet different network requirements.\nPoE++ provide max 90W power of ports.\nRich L2/L3 features such as IPv6, OSPF, BGP, PIM etc.\nSupport CLI/WEB/SNMP/SSH for flexible operation.\nThe STH2.5G series switches provide various power supply solutions for customers choosing. Generally, air flow of STH2.5G series is front to back (AFO), and some of models can do customization of back to front (AFI) airflow.\nTable 1: Feasible PSU and airflow of STH2.5G Series\nItems\tAC\tDC\tPoE Ports\tAFO\tAFI\tPower Input\tFAN\nS4624T-2Z-EI\t◯\t◯\tX\t◯\t◯\t2\t2\nS4624P-2Z-EI\t◯\t◯\t24 PoE++\t◯\tX\t2\t2\n\n[slide 2]\nThe STH2.5G series switches support varied management ways, include console, and support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, etc. to ensure security of management.\nVisual WEB GUI\nThe STH2.5G series allows you to quickly configure common configuration items using a visual WEB GUI, which lowers the application threshold for users.\nTable 1: Feasible PSU and airflow of STH2.5G Series\nItems\tAC\tDC\tPoE Ports\tAFO\tAFI\tPower Input\tFAN\nS4624T-8N-EI\t◯\t◯\tX\t◯\t◯\t2\t2\nS4624P-8N-EI\t◯\t◯\t24 PoE++\t◯\tX\t2\t2\nS4638-1X4N-SI\t◯\tX\tX\t◯\tX\t1\t4\nS4638-1X4N-EI\t◯\t◯\tX\t◯\t◯\t2\t2\nS4638PB-1X4N-EI\t◯\tX\t38 PoE++\t◯\tX\t2\t2\n\n[slide 3]\nTable 2: Family of the STH2.5G Series switches\nThe STH2.5G family of Ethernet switches consists of the following models:\nModels\tEthernet Ports\tManagement\tPSU 1/PSU 2\tCooling\nS4624T-2Z-EI\t24 x 100M/1G/2.5G/5G Base-T, 2 x 100G QSFP28\tConsole: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB\t350W/250W CRPS\t2 x Fan modules\u000b(front-to-back airflow)\nS4624P-2Z-EI\t24 x 100M/1G/2.5G/5G Base-T (PoE++ 90W), 2 x  100G QSFP28\tConsole: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB\t600W/600W CRPS\t2 x Fan modules\u000b(front-to-back airflow)\nS4624T-8N-EI\t24 x 100M/1G/2.5G/5G Base-T, 8 x 25G/10G SFP28\tConsole: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB\t350W/350W CRPS\t2 x Fan modules\u000b(front-to-back airflow)\nS4624P-8N-EI\t24 x 100M/1G/2.5G/5G Base-T (PoE++ 90W), 8 x 25G/10G SFP28\tConsole: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB\t600W/600W CRPS\t2 x Fan modules\u000b(front-to-back airflow)\nS4638-1X4N-EI\t38 x 100M/1G/2.5G/5G Base-T, 1 x 10G SFP+, 4 x 25G/10G SFP28\tConsole: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB\t350W/350W CRPS\t2 x Fan modules\u000b(front-to-back airflow)\nS4638-1X4N-SI\t38 x 100M/1G/2.5G/5G Base-T, 1 x 10G SFP+, 4 x 25G/10G SFP28\tConsole: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB\tFixed single power supply\t4 x Fixed fans\u000b(front-to-back airflow)\nS4638PB-1X4N-EI\t38 x 100M/1G/2.5G/5G Base-T (PoE++ 90W), 1 x 10G SFP+, 4 x 25G/10G SFP28\tConsole: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB\t600W/600W CRPS\t2 x Fan modules\u000b(front-to-back airflow)\n\n[slide 4]\nSTH2.5G Physical Specifications\nPacket Switch Capacity\nS4624T-2Z-EI: 640Gbps (bidirectional)\nS4624P-2Z-EI: 640Gbps (bidirectional)\nS4624T-8N-EI: 640Gbps (bidirectional)\nS4624P-8N-EI: 640Gbps (bidirectional)\nS4638-1X4N-EI: 800Gbps (bidirectional)\nS4638-1X4N-SI: 800Gbps (bidirectional)\nS4638PB-1X4N-EI: 800Gbps (bidirectional)\nLayer 2/Layer 3 Throughput (Mpps)\nS4624T-2Z-EI: 952.32Mpps (bidirectional)\nS4624P-2Z-EI: 952.32Mpps (bidirectional)\nS4624T-8N-EI: 952.32Mpps (bidirectional)\nS4624P-8N-EI: 952.32Mpps (bidirectional)\nS4638-1X4N-EI: 892.8Mpps (bidirectional)\nS4638-1X4N-SI: 892.8Mpps (bidirectional)\nS4638PB-1X4N-EI:892.8Mpps(bidirectional)\nCooling [CFM] - Total maximum airflow\nS4624T-2Z-EI: 68.76\nS4624P-2Z-EI: 72.78\nS4624T-8N-EI: 68.76\nS4624P-8N-EI: 72.78\nWeight (Net/Gross)\nS4624T-2Z-EI: 6.96KG/9.5KG\nS4624P-2Z-EI: 6.96KG/9.5KG\nS4624T-8N-EI: 6.96KG/9.5KG\nS4624P-8N-EI: 6.96KG/9.5KG\nS4638-1X4N-EI: 6.08KG/8.70KG\nS4638-1X4N-SI: 4.6KG/7.2KG\nS4638PB-1X4N-EI: 6.42KG/9.00KG\nTemperature alarm\nAlarm threshold: 50ºC\n\n[slide 5]\nSTH2.5G Physical Specifications\nCPU\nDualcore, ARM A53(1.2GHz)\nDimensions (W x H x D) without Package\nS4624T-2Z-EI: 442*44*357mm\nS4624P-2Z-EI: 442*44*357mm\nS4624T-8N-EI: 442*44*357mm\nS4624P-8N-EI: 442*44*357mm\nS4638-1X4N-EI: 442*44*408mm\nS4638-1X4N-SI: 442*44*330mm\nS4638PB-1X4N-EI: 442*44*408mm\nMTBF(Hours)\nS4624T-2Z-EI: ≥90000\nS4624P-2Z-EI: ≥ 90000\nS4624T-8N-EI: ≥ 90000\nS4624P-8N-EI: ≥ 90000\nS4638-1X4N-EI: ≥ 90000\nS4638-1X4N-SI: ≥ 70000\nS4638PB-1X4N-EI: ≥ 90000\nMemory\neMMc: 8GB\nDRAM: 2GB\nEnvironmental ranges\nOperating temperature: 0ºC to 45ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90% (No condensation)\nStore Humidity: 5 to 95% (No condensation)\nOperating altitude: ≤5000m\nPoE Power Budget\nS4624P-2Z-EI: 1000W\nS4624P-8N-EI: 1000W\nS4638PB-1X4N-EI: 2000W\nDimensions (W x H x D) with Package\nS4624T-2Z-EI: 557*150*495mm\nS4624P-2Z-EI: 557*150*495mm\nS4624T-8N-EI: 557*150*495mm\nS4624P-8N-EI: 557*150*495mm\nS4638-1X4N-EI: 557*150*495mm\nS4638-1X4N-SI: 557*145*420mm\nS4638PB-1X4N-EI: 557*150*495mm\n\n[slide 6]\nSTH2.5G Software Specifications\nSaga Telecom implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘STOS Software features’ .\nAll Saga Telecom high-speed switches use a normalized software platform and image package file\nUnified software version iteration plan\nUnified user experience\nHOS Network Platform\nLayer 2 switching\nIPv4/lPv6 Unicast Routing\nQoS\nIP Multicast Snooping/Proxy\nIPv4/lPv6 Multi cast Routing\nVRRP\nMultiprotocol Label Switching(MPLS)\nVirtual Private LAN Service(VPLS)\nVirtual Routing and Switching\nGeneralized Multi protocol Label Switching(GMPLS)\nIPv6 Tunneling and TransitionTechnologies\nIP/MPLS OAM\nService management module\nFault Managemet (FM)\nHigh Availability(HA)\nIntegrated Management Interface (CLl, SNMP, WEB, RMON, RPC-API , Netconf, etc.)\nHardware and platform abstraction layer\nAdvanced integration Suite\nCENTEC swtich chip SDK\nSilicon in Pizza, Stacking or Chassis\nConfiguration\nOperating Systems TCP/IP Stacks\nLinux , IPv4/Pv6 Dual Stack\nHardware layer\nCENTEC Switch Chipset\nCPU Subsystem\nCooling SubSystem\nAC/DC DC/DC CLK\nEnvironmental Management Subsystem\nLogical Control Subunit\n\n[slide 7]\nOrdering Information\nSTH2.5G Series Switches\nItems\tDescription\nS4624T-2Z-EI\t5G enterprise switch, with 24 x 100M/1G/2.5G/5G Base-T, 2 x 100G QSFP28, Dual power supply modules, 2 Hot-swappable fan modules.\nS4624P-2Z-EI\t5G enterprise switch, with 24 x 100M/1G/2.5G/5G Base-T (PoE++ 90W), 2 x  100G QSFP28, Dual power supply modules, 2 Hot-swappable fan modules.\nS4624T-8N-EI\t5G enterprise switch, with 24 x 100M/1G/2.5G/5G Base-T, 8 x 25G/10G SFP28, Dual power supply modules, 2 Hot-swappable fan modules..\nS4624P-8N-EI\t5G enterprise switch, with 24 x 100M/1G/2.5G/5G Base-T (PoE++ 90W), 8 x 25G/10G SFP28, Dual power supply modules, 2 Hot-swappable fan modules.\nS4638-1X4N-EI\t5G enterprise switch, with 38 x 100M/1G/2.5G/5G Base-T, 1 x 10G SFP+, 4 x 25G/10G SFP28, Dual power supply modules, 2 hot-swappable fan modules.\nS4638-1X4N-SI\t5G enterprise switch, with 38 x 100M/1G/2.5G/5G Base-T, 1 x 10G SFP+, 4 x 25G/10G SFP28, Fixed single power supply, 4  Fixed fans\nS4638PB-1X4N-EI\t5G enterprise switch, with 38 x 100M/1G/2.5G/5G Base-T (PoE++ 90W), 1 x 10G SFP+, 4 x 25G/10G SFP28, Dual power supply modules, 2 Hot-swappable fan modules.\n\n[slide 8]\nAC/DC Power Supplies use for STH2.5G Series Switches.\nAccessory of STH2.5G Series\nItems\tDescription\nPSU-350-AC-AFO\tSTH2.5G  Series 350 W AC power supply (front-to-back airflow)\nPSU-600-AC-AFO\tSTH2.5G  Series 600 W AC power supply (front-to-back airflow)\nPSU-900-AC-AFO\tSTH2.5G  Series 900 W AC power supply (front-to-back airflow)\nPSU-1200-AC-AFO\tSTH2.5G  Series 1200 W AC power supply (front-to-back airflow)\nPSU-2000-AC-AFO\tSTH2.5G  Series 2000 W AC power supply (front-to-back airflow)\nItems\tFront Mounting\tRear Mounting\tScrew\tPower Cord\tConsole (DB9 to RJ45)\nS4624T-2Z-EI\t2\t2\t14\t2\t1\nS4624P-2Z-EI\t2\t2\t14\t2\t1\nS4624T-8N-EI\t2\t2\t14\t2\t1\nS4624P-8N-EI\t2\t2\t14\t2\t1\nS4638-1X4N-EI\t2\t2\t14\t2\t1\nS4638-1X4N-SI\t2\t2\t14\t1\t1\nS4638PB-1X4N-EI\t2\t2\t14\t2\t1",
+"slides":[
+{
+"n":1,
+"items":[
+{
+"t":"p",
+"text":"STH2.5G SERIES SWITCHES\nDATASHEET\nFlexible Campus and Enterprise Switch\nVersion: V1.0\nRelease Date: 2024/10/08"
+},
+{
+"t":"p",
+"text":"Product Overview"
+},
+{
+"t":"p",
+"text":"The STH2.5G series switches are designed a domestic new generation switch chip which is carried on VastLakes Platform.\nThey support ports of various speeds, provide full Gigabit access(PoE, non-PoE) and flexible uplink data interaction capabilities, support a variety of switch layer 3 features, ensure network security, high efficiency and energy saving, and are suitable for access scenarios such as e-sports networks and SMBs."
+},
+{
+"t":"p",
+"text":"Key Features of the STH2.5G Series Switches"
+},
+{
+"t":"p",
+"text":"Support 5G Multi-Gigatbit ports and various uplink ports to meet different network requirements.\nPoE++ provide max 90W power of ports.\nRich L2/L3 features such as IPv6, OSPF, BGP, PIM etc.\nSupport CLI/WEB/SNMP/SSH for flexible operation."
+},
+{
+"t":"p",
+"text":"The STH2.5G series switches provide various power supply solutions for customers choosing. Generally, air flow of STH2.5G series is front to back (AFO), and some of models can do customization of back to front (AFI) airflow."
+},
+{
+"t":"p",
+"text":"Table 1: Feasible PSU and airflow of STH2.5G Series"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"AC",
+"DC",
+"PoE Ports",
+"AFO",
+"AFI",
+"Power Input",
+"FAN"
+],
+[
+"S4624T-2Z-EI",
+"◯",
+"◯",
+"X",
+"◯",
+"◯",
+"2",
+"2"
+],
+[
+"S4624P-2Z-EI",
+"◯",
+"◯",
+"24 PoE++",
+"◯",
+"X",
+"2",
+"2"
+]
+]
+},
+{
+"t":"picture",
+"name":"图片 13"
+}
+],
+"notes":""
+},
+{
+"n":2,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"AC",
+"DC",
+"PoE Ports",
+"AFO",
+"AFI",
+"Power Input",
+"FAN"
+],
+[
+"S4624T-8N-EI",
+"◯",
+"◯",
+"X",
+"◯",
+"◯",
+"2",
+"2"
+],
+[
+"S4624P-8N-EI",
+"◯",
+"◯",
+"24 PoE++",
+"◯",
+"X",
+"2",
+"2"
+],
+[
+"S4638-1X4N-SI",
+"◯",
+"X",
+"X",
+"◯",
+"X",
+"1",
+"4"
+],
+[
+"S4638-1X4N-EI",
+"◯",
+"◯",
+"X",
+"◯",
+"◯",
+"2",
+"2"
+],
+[
+"S4638PB-1X4N-EI",
+"◯",
+"X",
+"38 PoE++",
+"◯",
+"X",
+"2",
+"2"
+]
+]
+},
+{
+"t":"p",
+"text":"The STH2.5G series switches support varied management ways, include console, and support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, etc. to ensure security of management."
+},
+{
+"t":"p",
+"text":"Visual WEB GUI"
+},
+{
+"t":"p",
+"text":"The STH2.5G series allows you to quickly configure common configuration items using a visual WEB GUI, which lowers the application threshold for users."
+},
+{
+"t":"picture",
+"name":"图片 6"
+},
+{
+"t":"p",
+"text":"Table 1: Feasible PSU and airflow of STH2.5G Series"
+}
+],
+"notes":""
+},
+{
+"n":3,
+"items":[
+{
+"t":"p",
+"text":"Table 2: Family of the STH2.5G Series switches"
+},
+{
+"t":"table",
+"rows":[
+[
+"Models",
+"Ethernet Ports",
+"Management",
+"PSU 1/PSU 2",
+"Cooling"
+],
+[
+"S4624T-2Z-EI",
+"24 x 100M/1G/2.5G/5G Base-T, 2 x 100G QSFP28",
+"Console: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB",
+"350W/250W CRPS",
+"2 x Fan modules\u000b(front-to-back airflow)"
+],
+[
+"S4624P-2Z-EI",
+"24 x 100M/1G/2.5G/5G Base-T (PoE++ 90W), 2 x  100G QSFP28",
+"Console: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB",
+"600W/600W CRPS",
+"2 x Fan modules\u000b(front-to-back airflow)"
+],
+[
+"S4624T-8N-EI",
+"24 x 100M/1G/2.5G/5G Base-T, 8 x 25G/10G SFP28",
+"Console: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB",
+"350W/350W CRPS",
+"2 x Fan modules\u000b(front-to-back airflow)"
+],
+[
+"S4624P-8N-EI",
+"24 x 100M/1G/2.5G/5G Base-T (PoE++ 90W), 8 x 25G/10G SFP28",
+"Console: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB",
+"600W/600W CRPS",
+"2 x Fan modules\u000b(front-to-back airflow)"
+],
+[
+"S4638-1X4N-EI",
+"38 x 100M/1G/2.5G/5G Base-T, 1 x 10G SFP+, 4 x 25G/10G SFP28",
+"Console: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB",
+"350W/350W CRPS",
+"2 x Fan modules\u000b(front-to-back airflow)"
+],
+[
+"S4638-1X4N-SI",
+"38 x 100M/1G/2.5G/5G Base-T, 1 x 10G SFP+, 4 x 25G/10G SFP28",
+"Console: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB",
+"Fixed single power supply",
+"4 x Fixed fans\u000b(front-to-back airflow)"
+],
+[
+"S4638PB-1X4N-EI",
+"38 x 100M/1G/2.5G/5G Base-T (PoE++ 90W), 1 x 10G SFP+, 4 x 25G/10G SFP28",
+"Console: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB",
+"600W/600W CRPS",
+"2 x Fan modules\u000b(front-to-back airflow)"
+]
+]
+},
+{
+"t":"p",
+"text":"The STH2.5G family of Ethernet switches consists of the following models:"
+}
+],
+"notes":""
+},
+{
+"n":4,
+"items":[
+{
+"t":"p",
+"text":"STH2.5G Physical Specifications"
+},
+{
+"t":"p",
+"text":"Packet Switch Capacity\nS4624T-2Z-EI: 640Gbps (bidirectional)\nS4624P-2Z-EI: 640Gbps (bidirectional)\nS4624T-8N-EI: 640Gbps (bidirectional)\nS4624P-8N-EI: 640Gbps (bidirectional)\nS4638-1X4N-EI: 800Gbps (bidirectional)\nS4638-1X4N-SI: 800Gbps (bidirectional)\nS4638PB-1X4N-EI: 800Gbps (bidirectional)"
+},
+{
+"t":"p",
+"text":"Layer 2/Layer 3 Throughput (Mpps)\nS4624T-2Z-EI: 952.32Mpps (bidirectional)\nS4624P-2Z-EI: 952.32Mpps (bidirectional)\nS4624T-8N-EI: 952.32Mpps (bidirectional)\nS4624P-8N-EI: 952.32Mpps (bidirectional)\nS4638-1X4N-EI: 892.8Mpps (bidirectional)\nS4638-1X4N-SI: 892.8Mpps (bidirectional)\nS4638PB-1X4N-EI:892.8Mpps(bidirectional)"
+},
+{
+"t":"p",
+"text":"Cooling [CFM] - Total maximum airflow\nS4624T-2Z-EI: 68.76\nS4624P-2Z-EI: 72.78\nS4624T-8N-EI: 68.76\nS4624P-8N-EI: 72.78"
+},
+{
+"t":"p",
+"text":"Weight (Net/Gross)\nS4624T-2Z-EI: 6.96KG/9.5KG\nS4624P-2Z-EI: 6.96KG/9.5KG\nS4624T-8N-EI: 6.96KG/9.5KG\nS4624P-8N-EI: 6.96KG/9.5KG\nS4638-1X4N-EI: 6.08KG/8.70KG\nS4638-1X4N-SI: 4.6KG/7.2KG\nS4638PB-1X4N-EI: 6.42KG/9.00KG"
+},
+{
+"t":"p",
+"text":"Temperature alarm\nAlarm threshold: 50ºC"
+}
+],
+"notes":""
+},
+{
+"n":5,
+"items":[
+{
+"t":"p",
+"text":"STH2.5G Physical Specifications"
+},
+{
+"t":"p",
+"text":"CPU\nDualcore, ARM A53(1.2GHz)"
+},
+{
+"t":"p",
+"text":"Dimensions (W x H x D) without Package\nS4624T-2Z-EI: 442*44*357mm\nS4624P-2Z-EI: 442*44*357mm\nS4624T-8N-EI: 442*44*357mm\nS4624P-8N-EI: 442*44*357mm\nS4638-1X4N-EI: 442*44*408mm\nS4638-1X4N-SI: 442*44*330mm\nS4638PB-1X4N-EI: 442*44*408mm"
+},
+{
+"t":"p",
+"text":"MTBF(Hours)\nS4624T-2Z-EI: ≥90000\nS4624P-2Z-EI: ≥ 90000\nS4624T-8N-EI: ≥ 90000\nS4624P-8N-EI: ≥ 90000\nS4638-1X4N-EI: ≥ 90000\nS4638-1X4N-SI: ≥ 70000\nS4638PB-1X4N-EI: ≥ 90000"
+},
+{
+"t":"p",
+"text":"Memory\neMMc: 8GB\nDRAM: 2GB"
+},
+{
+"t":"p",
+"text":"Environmental ranges\nOperating temperature: 0ºC to 45ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90% (No condensation)\nStore Humidity: 5 to 95% (No condensation)\nOperating altitude: ≤5000m"
+},
+{
+"t":"p",
+"text":"PoE Power Budget\nS4624P-2Z-EI: 1000W\nS4624P-8N-EI: 1000W\nS4638PB-1X4N-EI: 2000W"
+},
+{
+"t":"p",
+"text":"Dimensions (W x H x D) with Package\nS4624T-2Z-EI: 557*150*495mm\nS4624P-2Z-EI: 557*150*495mm\nS4624T-8N-EI: 557*150*495mm\nS4624P-8N-EI: 557*150*495mm\nS4638-1X4N-EI: 557*150*495mm\nS4638-1X4N-SI: 557*145*420mm\nS4638PB-1X4N-EI: 557*150*495mm"
+}
+],
+"notes":""
+},
+{
+"n":6,
+"items":[
+{
+"t":"p",
+"text":"STH2.5G Software Specifications\nSaga Telecom implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘STOS Software features’ ."
+},
+{
+"t":"p",
+"text":"All Saga Telecom high-speed switches use a normalized software platform and image package file\nUnified software version iteration plan\nUnified user experience"
+},
+{
+"t":"p",
+"text":"HOS Network Platform"
+},
+{
+"t":"p",
+"text":"Layer 2 switching"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Unicast Routing"
+},
+{
+"t":"p",
+"text":"QoS"
+},
+{
+"t":"p",
+"text":"IP Multicast Snooping/Proxy"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Multi cast Routing"
+},
+{
+"t":"p",
+"text":"VRRP"
+},
+{
+"t":"p",
+"text":"Multiprotocol Label Switching(MPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Private LAN Service(VPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Routing and Switching"
+},
+{
+"t":"p",
+"text":"Generalized Multi protocol Label Switching(GMPLS)"
+},
+{
+"t":"p",
+"text":"IPv6 Tunneling and TransitionTechnologies"
+},
+{
+"t":"p",
+"text":"IP/MPLS OAM"
+},
+{
+"t":"p",
+"text":"Service management module"
+},
+{
+"t":"p",
+"text":"Fault Managemet (FM)"
+},
+{
+"t":"p",
+"text":"High Availability(HA)"
+},
+{
+"t":"p",
+"text":"Integrated Management Interface (CLl, SNMP, WEB, RMON, RPC-API , Netconf, etc.)"
+},
+{
+"t":"p",
+"text":"Hardware and platform abstraction layer"
+},
+{
+"t":"p",
+"text":"Advanced integration Suite"
+},
+{
+"t":"p",
+"text":"CENTEC swtich chip SDK"
+},
+{
+"t":"p",
+"text":"Silicon in Pizza, Stacking or Chassis\nConfiguration"
+},
+{
+"t":"p",
+"text":"Operating Systems TCP/IP Stacks"
+},
+{
+"t":"p",
+"text":"Linux , IPv4/Pv6 Dual Stack"
+},
+{
+"t":"p",
+"text":"Hardware layer"
+},
+{
+"t":"p",
+"text":"CENTEC Switch Chipset"
+},
+{
+"t":"p",
+"text":"CPU Subsystem"
+},
+{
+"t":"p",
+"text":"Cooling SubSystem"
+},
+{
+"t":"p",
+"text":"AC/DC DC/DC CLK"
+},
+{
+"t":"p",
+"text":"Environmental Management Subsystem"
+},
+{
+"t":"p",
+"text":"Logical Control Subunit"
+}
+],
+"notes":""
+},
+{
+"n":7,
+"items":[
+{
+"t":"p",
+"text":"Ordering Information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"S4624T-2Z-EI",
+"5G enterprise switch, with 24 x 100M/1G/2.5G/5G Base-T, 2 x 100G QSFP28, Dual power supply modules, 2 Hot-swappable fan modules."
+],
+[
+"S4624P-2Z-EI",
+"5G enterprise switch, with 24 x 100M/1G/2.5G/5G Base-T (PoE++ 90W), 2 x  100G QSFP28, Dual power supply modules, 2 Hot-swappable fan modules."
+],
+[
+"S4624T-8N-EI",
+"5G enterprise switch, with 24 x 100M/1G/2.5G/5G Base-T, 8 x 25G/10G SFP28, Dual power supply modules, 2 Hot-swappable fan modules.."
+],
+[
+"S4624P-8N-EI",
+"5G enterprise switch, with 24 x 100M/1G/2.5G/5G Base-T (PoE++ 90W), 8 x 25G/10G SFP28, Dual power supply modules, 2 Hot-swappable fan modules."
+],
+[
+"S4638-1X4N-EI",
+"5G enterprise switch, with 38 x 100M/1G/2.5G/5G Base-T, 1 x 10G SFP+, 4 x 25G/10G SFP28, Dual power supply modules, 2 hot-swappable fan modules."
+],
+[
+"S4638-1X4N-SI",
+"5G enterprise switch, with 38 x 100M/1G/2.5G/5G Base-T, 1 x 10G SFP+, 4 x 25G/10G SFP28, Fixed single power supply, 4  Fixed fans"
+],
+[
+"S4638PB-1X4N-EI",
+"5G enterprise switch, with 38 x 100M/1G/2.5G/5G Base-T (PoE++ 90W), 1 x 10G SFP+, 4 x 25G/10G SFP28, Dual power supply modules, 2 Hot-swappable fan modules."
+]
+]
+},
+{
+"t":"p",
+"text":"STH2.5G Series Switches"
+}
+],
+"notes":""
+},
+{
+"n":8,
+"items":[
+{
+"t":"p",
+"text":"AC/DC Power Supplies use for STH2.5G Series Switches."
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"PSU-350-AC-AFO",
+"STH2.5G  Series 350 W AC power supply (front-to-back airflow)"
+],
+[
+"PSU-600-AC-AFO",
+"STH2.5G  Series 600 W AC power supply (front-to-back airflow)"
+],
+[
+"PSU-900-AC-AFO",
+"STH2.5G  Series 900 W AC power supply (front-to-back airflow)"
+],
+[
+"PSU-1200-AC-AFO",
+"STH2.5G  Series 1200 W AC power supply (front-to-back airflow)"
+],
+[
+"PSU-2000-AC-AFO",
+"STH2.5G  Series 2000 W AC power supply (front-to-back airflow)"
+]
+]
+},
+{
+"t":"p",
+"text":"Accessory of STH2.5G Series"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Front Mounting",
+"Rear Mounting",
+"Screw",
+"Power Cord",
+"Console (DB9 to RJ45)"
+],
+[
+"S4624T-2Z-EI",
+"2",
+"2",
+"14",
+"2",
+"1"
+],
+[
+"S4624P-2Z-EI",
+"2",
+"2",
+"14",
+"2",
+"1"
+],
+[
+"S4624T-8N-EI",
+"2",
+"2",
+"14",
+"2",
+"1"
+],
+[
+"S4624P-8N-EI",
+"2",
+"2",
+"14",
+"2",
+"1"
+],
+[
+"S4638-1X4N-EI",
+"2",
+"2",
+"14",
+"2",
+"1"
+],
+[
+"S4638-1X4N-SI",
+"2",
+"2",
+"14",
+"1",
+"1"
+],
+[
+"S4638PB-1X4N-EI",
+"2",
+"2",
+"14",
+"2",
+"1"
+]
+]
+}
+],
+"notes":""
+}
+],
+"extracted_at":"2026-10-23T05:05:08Z"
+}

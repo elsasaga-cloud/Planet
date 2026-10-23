@@ -1,0 +1,338 @@
+{
+"id":"Extra_Info__Price__Quotation_Bypass_Switch.xls__5a061b29",
+"path":"Extra_Info/Price/Quotation_Bypass Switch.xls",
+"name":"Quotation_Bypass Switch.xls",
+"ext":".xls",
+"bytes":11755520,
+"sha256":"5a061b2927c07fe2b031d3de94ee588ec7d02f065f089364bfb23db267b28c2f",
+"source":"Extra_Info.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Quotation 1",
+"Quotation 2"
+],
+"rows_total":67
+},
+"warnings":[],
+"chars":4867,
+"text":"--- Sheet: Quotation 1 ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 13048800964                                          www.sagatelecom.com.cn                                Email: a.sagatelecom@gmail.com\n*********************************************************************************************************************\nQuotation\nBuyer:\tGOGREENIT\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t\t\tQuoted By:\tAlan\nEmail:\tinfo@gogreenit.net\t\tDate:\t11th, June, 2025\nContact Person:\tChris\t\tPrice Term:\tDAP\nDestination\tUK\nModel\tSpecification\t\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSTI-41616XGGPM-4BT\t\tIndustrial PoE Managed Switch\n\n4*1G/2.5G/10G SFP+16*10/100/1000M RJ45/PoE +1*Console Port+1*USB Port\n12*PoE af/at+4*PoE af/at/bt\n240W/370W, L2+ Managed\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), Din Mounted\nWith Mounting Hanger\nWithout Optical Module, Without Power Supply\n\n1, Without DI/DO/RS485 Function\n2, -40℃~+ 70℃@240W PoE Output\n-40℃~+ 60℃@370W PoE Output\t\t1\t400\t400\tMarvell Chip\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 158*115*110mm\nGross Weight: 2KG\nFreight Cost\t60usd for about 2Kg volume weight to UK by FedEx\nAir, door-to-door service\nShipment time: 4~6 calendar days\t\t\t\t\t60\nTOTAL\t\t\t\t\t\t460\nRemark\nPlease do make sure client side could handle import customs clearance.\nIf there is any problem with the shipment or clearance\n1, please let us know ASAP\n2, please call DHL/FedEx/UPS official number for information\nPrice validity: 15 days\nSaga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply.\nNon-brand packing, without Chinese letters or logo\nNeutral device\nCountry of origin: China\nProduction time: 3~5 working days(this is NOT including shipping time)\nWarranty: 3 years, lifetime technical support\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" for more information.\n--- Sheet: Quotation 2 ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 13048800964                                          www.sagatelecom.com.cn                                Email: a.sagatelecom@gmail.com\n*********************************************************************************************************************\nQuotation\nBuyer:\tRymtech Tactical Cyberops\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t595 9857 48567\t\tQuoted By:\tSimon\nEmail:\trosorio@rym-tech.net\t\tDate:\t30th, June, 2025\nContact Person:\tRuslan Osorio Guerra\t\tPrice Term:\tDAP\nDestination\tParaguay\nModel\tSpecification\t\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSTI-488XGGPM-2BT\t\tIndustrial PoE Managed Bypass Switch\n\n4*1G/2.5G/10G SFP+2*LC Single-mode Bypass\n+ 8*10/100/1000M RJ45/PoE +1*Console Port +1*USB Port\n6*PoE af/at+2*PoE af/at/bt\n240W, L2+ Managed\n2*LC Singlemode Optical Bypass\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din Mounted\nWith Mounting Hanger\nWithout Optical Module, Without Power Supply\t\t12\t280\t3360\tMarvell Chip\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 158*115*54mm\nGross Weight: 1.4KG\nSTI-42424XGGPM-U\tIndustrial PoE Managed Switch\n\n4*1G/2.5G/10G SFP+24*10/100/1000M RJ45/PoE+1*Console Port+1*USB Port\n24*PoE af/at, 370W, L2+ Managed\nActive PoE, DC48V output\nSingle AC Input, -40℃ to 75℃, 1U Rack Type\nWith Mounting Hanger\nWithout Optical Module, With Power Cable\nWith DI/DO/RS485 Function\t\t\t2\t410\t820\tMarvell Chip\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 440*280*45mm\nGross Weight: 4.5KG\nFreight Cost\t400usd for about 30Kg volume weight to Paraguay by FedEx\nAir, door-to-door service\nShipment time: 4~6 calendar days\t\t\t\t\t400\nTOTAL\t\t\t\t\t\t4580\nRemark\nPlease do make sure client side could handle import customs clearance.\nIf there is any problem with the shipment or clearance\n1, please let us know ASAP\n2, please call DHL/FedEx/UPS official number for information\nPrice validity: 15 days\nSaga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply.\nNon-brand packing, without Chinese letters or logo\nNeutral device\nCountry of origin: China\nProduction time: 5~10 working days(this is NOT including shipping time)\nWarranty: 3 years, lifetime technical support\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" for more information.",
+"sheets":{
+"Quotation 1":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Tailored Marvell Managed Networking Solutions Provider"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 13048800964                                          www.sagatelecom.com.cn                                Email: a.sagatelecom@gmail.com"
+],
+[
+"*********************************************************************************************************************"
+],
+[
+"Quotation"
+],
+[
+"Buyer:",
+"GOGREENIT",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"",
+"",
+"Quoted By:",
+"Alan"
+],
+[
+"Email:",
+"info@gogreenit.net",
+"",
+"Date:",
+"11th, June, 2025"
+],
+[
+"Contact Person:",
+"Chris",
+"",
+"Price Term:",
+"DAP"
+],
+[
+"Destination",
+"UK"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"STI-41616XGGPM-4BT",
+"",
+"Industrial PoE Managed Switch\n\n4*1G/2.5G/10G SFP+16*10/100/1000M RJ45/PoE +1*Console Port+1*USB Port\n12*PoE af/at+4*PoE af/at/bt\n240W/370W, L2+ Managed\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), Din Mounted\nWith Mounting Hanger\nWithout Optical Module, Without Power Supply\n\n1, Without DI/DO/RS485 Function\n2, -40℃~+ 70℃@240W PoE Output\n-40℃~+ 60℃@370W PoE Output",
+"",
+"1",
+"400",
+"400",
+"Marvell Chip"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 158*115*110mm\nGross Weight: 2KG"
+],
+[
+"Freight Cost",
+"60usd for about 2Kg volume weight to UK by FedEx\nAir, door-to-door service\nShipment time: 4~6 calendar days",
+"",
+"",
+"",
+"",
+"60"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"",
+"",
+"460"
+],
+[
+"Remark"
+],
+[
+"Please do make sure client side could handle import customs clearance."
+],
+[
+"If there is any problem with the shipment or clearance"
+],
+[
+"1, please let us know ASAP"
+],
+[
+"2, please call DHL/FedEx/UPS official number for information"
+],
+[
+"Price validity: 15 days"
+],
+[
+"Saga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply."
+],
+[
+"Non-brand packing, without Chinese letters or logo"
+],
+[
+"Neutral device"
+],
+[
+"Country of origin: China"
+],
+[
+"Production time: 3~5 working days(this is NOT including shipping time)"
+],
+[
+"Warranty: 3 years, lifetime technical support"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" for more information."
+]
+]
+},
+"Quotation 2":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Tailored Marvell Managed Networking Solutions Provider"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 13048800964                                          www.sagatelecom.com.cn                                Email: a.sagatelecom@gmail.com"
+],
+[
+"*********************************************************************************************************************"
+],
+[
+"Quotation"
+],
+[
+"Buyer:",
+"Rymtech Tactical Cyberops",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"595 9857 48567",
+"",
+"Quoted By:",
+"Simon"
+],
+[
+"Email:",
+"rosorio@rym-tech.net",
+"",
+"Date:",
+"30th, June, 2025"
+],
+[
+"Contact Person:",
+"Ruslan Osorio Guerra",
+"",
+"Price Term:",
+"DAP"
+],
+[
+"Destination",
+"Paraguay"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"STI-488XGGPM-2BT",
+"",
+"Industrial PoE Managed Bypass Switch\n\n4*1G/2.5G/10G SFP+2*LC Single-mode Bypass\n+ 8*10/100/1000M RJ45/PoE +1*Console Port +1*USB Port\n6*PoE af/at+2*PoE af/at/bt\n240W, L2+ Managed\n2*LC Singlemode Optical Bypass\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din Mounted\nWith Mounting Hanger\nWithout Optical Module, Without Power Supply",
+"",
+"12",
+"280",
+"3360",
+"Marvell Chip"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 158*115*54mm\nGross Weight: 1.4KG"
+],
+[
+"STI-42424XGGPM-U",
+"Industrial PoE Managed Switch\n\n4*1G/2.5G/10G SFP+24*10/100/1000M RJ45/PoE+1*Console Port+1*USB Port\n24*PoE af/at, 370W, L2+ Managed\nActive PoE, DC48V output\nSingle AC Input, -40℃ to 75℃, 1U Rack Type\nWith Mounting Hanger\nWithout Optical Module, With Power Cable\nWith DI/DO/RS485 Function",
+"",
+"",
+"2",
+"410",
+"820",
+"Marvell Chip"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 440*280*45mm\nGross Weight: 4.5KG"
+],
+[
+"Freight Cost",
+"400usd for about 30Kg volume weight to Paraguay by FedEx\nAir, door-to-door service\nShipment time: 4~6 calendar days",
+"",
+"",
+"",
+"",
+"400"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"",
+"",
+"4580"
+],
+[
+"Remark"
+],
+[
+"Please do make sure client side could handle import customs clearance."
+],
+[
+"If there is any problem with the shipment or clearance"
+],
+[
+"1, please let us know ASAP"
+],
+[
+"2, please call DHL/FedEx/UPS official number for information"
+],
+[
+"Price validity: 15 days"
+],
+[
+"Saga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply."
+],
+[
+"Non-brand packing, without Chinese letters or logo"
+],
+[
+"Neutral device"
+],
+[
+"Country of origin: China"
+],
+[
+"Production time: 5~10 working days(this is NOT including shipping time)"
+],
+[
+"Warranty: 3 years, lifetime technical support"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" for more information."
+]
+]
+}
+},
+"extracted_at":"2026-10-23T05:05:49Z"
+}

@@ -1,0 +1,16 @@
+{
+"id":"Extra_Info__Saga_SEO__Saga_3_Platform_Audit_2026-08-18__02_EC21__ec21_conclusion.md__665c8312",
+"path":"Extra_Info/Saga SEO/Saga_3_Platform_Audit_2026-08-18/02_EC21/ec21_conclusion.md",
+"name":"ec21_conclusion.md",
+"ext":".md",
+"bytes":2050,
+"sha256":"665c8312f2fdbcd4228b3b0161a8cecb157333cd03263560330315dced7b3b68",
+"source":"Extra_Info.zip",
+"method":"text",
+"status":"ok",
+"meta":{},
+"warnings":[],
+"chars":1232,
+"text":"# EC21 平台独立审核结论\n\n审核日期：2026-08-18  \n店铺入口：<https://sagatelecom.en.ec21.com/>  \n产品目录：<https://sagatelecom.en.ec21.com/product_list.html?type=all>\n\n> 本结论只使用 EC21 页面证据，不引用 FindLight、Made-in-China 或 Global Sources 的链接状态。\n\n## 产品范围\n\n- 公开产品数：**15**\n- EC21 店铺只建立了一个产品类目：`Industrial Ethernet Switch`\n- STI：**15**\n  - 3 个页面直接显示 STI 型号。\n  - 12 个页面未公开型号，依据 EC21 店铺类目和工业/DIN/Hardened 产品特征判为 STI，置信度为中。\n- STC：**0**\n- STH：**0**\n\n## 产品描述链接结论\n\n- 描述中显示 `sagatele.com` 文字：**0/15**\n- 描述中存在可点击的 Saga 官网链接：**0/15**\n- EC21 店铺主页中也没有找到 `sagatele.com` 官网文字或可点击官网链接。\n- 结论：**EC21 的店铺主页和全部 15 个产品描述均没有 Saga 官网链接。**\n\n## EC21 特有问题\n\n1. **12/15 产品页面没有公开 STI/STC/STH 型号代码**，不利于询价、规格对照和搜索引擎收录。\n2. 全部产品放在单一的 `Industrial Ethernet Switch` 类目，无法展示管理型、PoE、10G、接入层等细分能力。\n3. `L2 Managed 8-Port GbE UPOE Optic Switch` 未明确 UPOE 对应的 IEEE 802.3bt/PoE++ 等级和最大功率。\n4. `5 Port 100/1000Mbps Industrial Gigabit LAN Switch` 同时使用 `100/1000Mbps` 和 `Gigabit`，标题表达重复。\n5. 页面规格很长，但缺少通向官网技术支持、完整产品线或 OEM/ODM 能力的可点击入口。\n\n## EC21 优化优先级\n\n1. 在店铺主页和每个产品描述中分别添加真正的 `https://sagatele.com/` 超链接。\n2. 将准确型号放入产品标题和规格表首屏。\n3. 拆分 EC21 产品类目，例如 Industrial Managed、Industrial PoE、10G Industrial、Commercial Rack。\n4. 规范 PoE/PoE+/PoE++ 与 IEEE 标准、功率预算的表达。\n5. 为 EC21 使用独立 UTM 参数，不能与 FindLight 或 Made-in-China 共用归因参数。\n",
+"extracted_at":"2026-10-23T05:02:37Z"
+}

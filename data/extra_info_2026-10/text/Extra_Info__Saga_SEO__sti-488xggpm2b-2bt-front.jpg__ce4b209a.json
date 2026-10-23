@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_SEO__sti-488xggpm2b-2bt-front.jpg__ce4b209a",
+"path":"Extra_Info/Saga SEO/sti-488xggpm2b-2bt-front.jpg",
+"name":"sti-488xggpm2b-2bt-front.jpg",
+"ext":".jpg",
+"bytes":74783,
+"sha256":"ce4b209a12e42bdfd25786050260bd057e7d481bcb12aa1a4ec9db9b2dba8cc7",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":800,
+"height":800,
+"mode":"RGB",
+"thumb_bytes":10635
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:01:48Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__sti-488xggpm2b-2bt-front.jpg__ce4b209a.jpg"
+}

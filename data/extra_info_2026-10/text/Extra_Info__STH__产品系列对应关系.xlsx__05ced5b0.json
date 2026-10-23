@@ -1,0 +1,89 @@
+{
+"id":"Extra_Info__STH__产品系列对应关系.xlsx__05ced5b0",
+"path":"Extra_Info/STH/产品系列对应关系.xlsx",
+"name":"产品系列对应关系.xlsx",
+"ext":".xlsx",
+"bytes":9880,
+"sha256":"05ced5b0a13d5be902292eeede9026a7886137d59b25319617b6f7223b9748b0",
+"source":"Extra_Info.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"产品对应关系"
+],
+"embedded_images":0,
+"rows_total":14
+},
+"warnings":[],
+"chars":413,
+"text":"--- Sheet: 产品对应关系 ---\nHohunet\tSaga\t35 2.5G Realtek 方案\t暂不要推/也没给资料\nS9500 Series\tSTH800G\t26 1G Realtek方案\t暂不要推/也没给资料\nS8500 Series\tSTH400G\nS8200 Series\tSTH200G\nS7800 Series\tSTH100G\nDynamicDuo/S7600 Series\tXLite Series\nS7500 Series\tSTH25G\nS5700 Series\tSTH10G\nS5600 Series\tSTH10G/暂时不推=后续大概率以5700为主\nS4600 Series\tSTH5G\nS5000 Series\tSTH2.5G\nS5500 Series\tSTH1G\nS2100 Series\t只有2光8管理和4光24电管理，可根据价格决定是否引进=暂时不推\nDHCS\tCloud System",
+"sheets":{
+"产品对应关系":{
+"state":"visible",
+"rows":[
+[
+"Hohunet",
+"Saga",
+"35 2.5G Realtek 方案",
+"暂不要推/也没给资料"
+],
+[
+"S9500 Series",
+"STH800G",
+"26 1G Realtek方案",
+"暂不要推/也没给资料"
+],
+[
+"S8500 Series",
+"STH400G"
+],
+[
+"S8200 Series",
+"STH200G"
+],
+[
+"S7800 Series",
+"STH100G"
+],
+[
+"DynamicDuo/S7600 Series",
+"XLite Series"
+],
+[
+"S7500 Series",
+"STH25G"
+],
+[
+"S5700 Series",
+"STH10G"
+],
+[
+"S5600 Series",
+"STH10G/暂时不推=后续大概率以5700为主"
+],
+[
+"S4600 Series",
+"STH5G"
+],
+[
+"S5000 Series",
+"STH2.5G"
+],
+[
+"S5500 Series",
+"STH1G"
+],
+[
+"S2100 Series",
+"只有2光8管理和4光24电管理，可根据价格决定是否引进=暂时不推"
+],
+[
+"DHCS",
+"Cloud System"
+]
+]
+}
+},
+"extracted_at":"2026-10-23T05:02:55Z"
+}

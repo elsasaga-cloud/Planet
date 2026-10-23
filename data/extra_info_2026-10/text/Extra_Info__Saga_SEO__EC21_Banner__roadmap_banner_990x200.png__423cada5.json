@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_SEO__EC21_Banner__roadmap_banner_990x200.png__423cada5",
+"path":"Extra_Info/Saga SEO/EC21 Banner/roadmap_banner_990x200.png",
+"name":"roadmap_banner_990x200.png",
+"ext":".png",
+"bytes":26053,
+"sha256":"423cada5264dbcb6f6e7bd29d4038b549097caeb35531cfbfb27a1c462997351",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":990,
+"height":200,
+"mode":"RGB",
+"thumb_bytes":4217
+},
+"warnings":[],
+"chars":287,
+"text":"Phasel\nAcces Funston\nq=.\nMARVELL®\nTailored Managed Networking Solutions\nA Scalable Path from Access to Core\nArchitectural Continu\n©\n“Management Stability\n‘nied Manageme\nComin Spat\nScalable + Coherent * Stable + Low-Friction\nafl\nPhase 2\nAggregation & Oe Egan\n106/256 /100G + CENTEC\nTENTEC",
+"extracted_at":"2026-10-23T05:01:52Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__EC21_Banner__roadmap_banner_990x200.png__423cada5.jpg"
+}

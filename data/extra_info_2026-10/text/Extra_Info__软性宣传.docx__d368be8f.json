@@ -1,0 +1,1187 @@
+{
+"id":"Extra_Info__软性宣传.docx__d368be8f",
+"path":"Extra_Info/软性宣传.docx",
+"name":"软性宣传.docx",
+"ext":".docx",
+"bytes":25941,
+"sha256":"d368be8f15dca809232eab2d2720acef395adba02c68d12e13cfafd185f86290",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2026-03-23T14:01:00+00:00",
+"modified":"2026-09-17T12:36:23+00:00",
+"paragraphs":232,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"chars":5464,
+"text":"BEFORE\n一些网站上实用的软性宣传有哪些\n可以有CASES, NEWS, Journals 还有啥比较好\n不要像国外那种esg啥的 太虚了\nGPT这么看\n你这个思路是对的：不是“写给自己看”，而是“写给客户下单看的”。\nESG那套确实偏虚，对你这种工业交换机外贸来说转化很低。\n我直接给你一套实战型软性内容结构（偏成交导向），你可以直接用在你独立站👇\n---\n# ✅ 一、你已经有的（对的）\n* CASES（项目案例）✅\n* NEWS（公司/行业动态）✅\n* JOURNALS / BLOG（技术文章）✅\n👉 但这些还不够“带货”，只是基础层。\n---\n# ✅ 二、真正有用的“转化型软内容”（重点）\n## 1️⃣ Deployment / Application Stories（应用场景拆解）\n👉 比 Case 更强一层\n区别：\n* Case = 我做了什么\n* Application Story = 客户为什么必须用你\n### 示例：\n* Industrial Switch in Oil & Gas Pipeline Monitoring\n* PoE Switch for Smart City CCTV Deployment\n* Railway Communication Network Design (Ring Topology)\n👉 你要写：\n* 网络拓扑（重点）\n* 为什么用工业交换机（痛点）\n* 为什么用你这个规格（选型逻辑）\n👉 这是最能打动工程师/采购的内容\n---\n## 2️⃣ Solution Pages（解决方案页）🔥\n👉 这个比Blog更值钱\n不是写文章，是做“半销售页”\n### 示例：\n* Industrial Network Solution for Factory Automation\n* Outdoor Surveillance Network Solution\n* Substation Communication Network Solution\n👉 内容结构：\n* 场景痛点\n* 网络架构图（核心！）\n* 推荐型号（直接带产品）\n* 为什么选这个配置\n👉 本质：\n👉 “客户自己看完就能下方案”\n---\n## 3️⃣ Product Comparison（对比内容）🔥\n👉 超高转化，但90%厂家不敢写\n### 示例：\n* Managed vs Unmanaged Industrial Switch\n* Marvell vs Realtek Switch Chip\n* L2+ vs L3 Switch: Which One You Need?\n👉 你可以暗中引导：\n* 你的方案更优\n* 或“刚好适合大部分客户”\n👉 这是SEO + 转化双杀内容\n---\n## 4️⃣ Buying Guide（采购指南）🔥\n👉 非常适合你这种贸易+技术型\n### 示例：\n* How to Choose Industrial Ethernet Switch\n* How to Select PoE Budget for CCTV Projects\n* What is IP40/IP67 Industrial Switch\n👉 写法重点：\n* 不讲理论\n* 直接讲“怎么选”\n* 带参数判断逻辑\n👉 本质：\n👉 帮客户做决策 = 提高成交率\n---\n## 5️⃣ Troubleshooting / FAQ（问题解决库）\n👉 很容易做，而且很有价值\n### 示例：\n* Why My PoE Switch Not Powering Camera?\n* What is ERPS Ring Recovery Time?\n* Why Fiber Link is Unstable?\n👉 客户搜问题 → 进你网站 → 顺便买你产品\n👉 这个是长期流量来源\n---\n## 6️⃣ Firmware / Update Logs（版本更新记录）🔥（很多人忽略）\n👉 非常“工程师友好”\n### 示例：\n* New Firmware Release for L2+ Switch\n* Added VLAN Isolation Feature\n* Improved Ring Protection Stability\n👉 作用：\n* 提升专业度\n* 让客户觉得你“在维护产品”\n* 对标大厂（Cisco / Hirschmann那种感觉）\n---\n## 7️⃣ Download Center（资料中心）🔥\n👉 必须做，不是可选项\n内容包括：\n* Datasheet\n* User Manual\n* CLI Guide\n* MIB / SNMP\n* Topology examples\n👉 你现在做外贸，这一块会直接影响成交\n---\n## 8️⃣ “Behind the Product”（轻技术背书）\n👉 不是ESG，但比ESG有用\n可以写：\n* Why We Use Marvell Chip\n* How We Test Industrial Switch Reliability\n* EMC / Temperature Testing\n👉 重点：\n👉 展示“你不是拼价格的垃圾厂”\n---\n# ❌ 三、你应该避免的（低价值内容）\n直接帮你排雷：\n* ESG / Sustainability（太虚）\n* Company Culture（没人看）\n* CEO Message（没意义）\n* Generic News（比如“参加展会”这种）\n👉 除非你做到品牌级，否则都是噪音\n---\n# ✅ 四、给你一个“最实用组合”（直接抄）\n如果你现在要搭站，我建议你就做这 6 个栏目：\n### 核心结构：\n1. Products\n2. Solutions 🔥\n3. Applications / Case Studies\n4. Blog / Guides 🔥\n5. Support（Download + FAQ）🔥\n6. About\n---\n# 🎯 最核心一句话总结\n👉 所有内容只服务一件事：\n> 让客户更容易理解 → 更容易决策 → 更容易下单\n---\n8. Product Insights / Engineering Notes\n这类内容比较“软”，但不虚。\n比如：\nWhy industrial switches need wide temperature design\nWhy ring redundancy matters in factory networks\nHow we ensure stable PoE output\nWhy certain chipsets are used\n相当于“技术背书”，能提高专业感。\n9. Industry Trends\n不是那种空泛新闻，而是和客户采购相关的趋势。\n比如：\nGrowth of smart factory networking\nIncreasing demand for PoE in surveillance projects\nWhy industrial Ethernet is replacing legacy systems\n重点不要写得太宏大，要和产品选择、项目需求挂钩。\n10. Partner / Project Highlights\n如果你有客户类型或合作方可以展示，也很好用。\n比如：\nSystem integrator cooperation\nOEM/ODM project highlights\nRegional deployment highlights\n这种内容能侧面证明你不是小作坊。\n1⃣ Certification / Test Reports 页面\n不是简单放个CE图标就完了\n要做成独立页面：\n每个认证单独列出（CE, FCC, UL, IEEE 1613, IEC 61850...）\n配上测试场景照片（高低温箱、EMC暗室、振动台）\n如果有第三方报告，放PDF下载\n👉 工业客户非常看这个，尤其电力、轨道交通项目\n👉 比写100篇blog都管用\n2⃣ Topology Library（拓扑图库）🔥🔥\n这个很少有人做，但转化极高\n做法：\n按行业分类（电力、交通、矿山、智慧城市...）\n每个拓扑图标注用了哪些型号\n可下载高清版（留个邮箱就行）\n👉 工程师拿你的拓扑图直接做方案 = 指定你的产品\n👉 这是\"帮客户干活\"级别的内容\n3⃣ Compatibility List（兼容性列表）\n示例：\n和哪些品牌光模块兼容\n和哪些PLC/SCADA系统对接过\n和哪些摄像头PoE供电测试通过\n👉 解决客户最大的隐性担心：\"买回去能不能用\"\n👉 Hirschmann、Moxa都做这个，你做了就拉到同一level\n4⃣ Project Reference List（项目清单）\n不是Case Study那种长文章\n是一张简洁的表格：\n年份国家行业产品型号数量\n2024 Saudi Oil & Gas XX-8G 200台\n2023 Brazil Smart City XX-PoE 500台\n👉 一目了然，比写故事更有冲击力\n👉 客户看到\"有人买过\"就放心了\n5⃣ Video Demo / 开箱测试\n不用拍得多精致，实用就行：\nCLI配置演示（环网切换、VLAN划分）\nPoE供电实测\n高低温开机测试\n包装开箱\n👉 放YouTube + 嵌入网站\n👉 视频是信任感最强的内容形式，没有之一\n优先级排序（如果你时间有限）\n先做这些，ROI最高：\n优先级内容原因\nP0 Solutions + Topology 直接带动成交\nP0 Download Center 工业客户刚需\nP1 Certification页面 项目投标必看\nP1 Buying Guide / Comparison SEO流量+转化\nP1 Project Reference List 快速建立信任\nP2 Application Stories 有案例就写\nP2 Video Demo 有就放，没有慢慢补\nP3 Blog / FAQ 长期SEO用\nP3 Firmware Logs 专业感加分\n一句话总结\n工业客户不看你\"说了什么\"，看你\"能帮他解决什么\"\n拓扑图、选型指南、兼容列表、测试报告 —— 这些才是真正的\"软性宣传\"\nCLAUDE的评价\n读完了，这是一份 AI 搜索优化（AEO/GEO）的指导文档，核心思路是让你的内容被 AI 搜索引擎（Perplexity、ChatGPT Search、Gemini）引用。\n针对品牌站 sagatele.com，逐条看哪些有实际指导价值：\n---\n**直接适用、值得做的：**\n**1 FAQ 结构化内容**\n文档强调问答格式是 AI 引用的首选。品牌站 About 页有 We Do/We Don't，但缺少真正的 FAQ 板块。加几个典型问题比如：\n- \"What chipset platforms does Saga Telecom use?\"\n- \"Does Saga Telecom support OEM/ODM customization?\"\n- \"What is Saga Telecom's supply chain model?\"\n这类 Q&A 格式内容非常容易被 AI 搜索直接引用。之前讨论过这个板块，可以顺手加进 About 页。\n**2 Schema 结构化数据补充 FAQ Schema**\n你已经有 Organization Schema，再加一个 FAQPage Schema，AI 爬虫和 Google 都会更容易识别和引用你的内容。发文章时我可以顺手加进去。\n**3 明确的定义性陈述**\n文档说 AI 喜欢引用\"X is/means...\"这种明确定义句。品牌站 Insights 里的文章其实已经有这个风格了，比如\"Strategic inventory isn't speculative stockpiling. It's planned buffer stock...\"这类句子天然就是 AI 容易抓取的格式，继续保持这个写法。\n**4 被权威平台引用**\n文档提到外部引用是 AI 信任度的关键。你在 Global Sources / findlight 等平台加的链接，加上 Thomasnet / Kompass 注册后，这些权威 B2B 平台指向 sagatele.com，会提升 AI 搜索引用你内容的概率。\n---\n**暂时跳过的：**\n**视频内容** — YouTube 你已经 pass 了，文档里提到视频对 AI 可见性有帮助，但对你现阶段不现实，忽略。\n**多语言版本** — 文档提到多语言，你做俄罗斯市场但暂时不做俄文站，这条先放着。\n**结构化数据 Product Schema** — 品牌站只有3款展示性产品，不是电商，Product Schema 意义不大，等 CN 产品站建起来后再加。\n---\n**一句话总结：**\n对品牌站最有价值的是**加 FAQ 板块 + FAQ Schema**，这两件事低成本、高回报，下次更新 HTML 时可以一起加进去。其他的你已经在做了，方向是对的。",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"BEFORE"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一些网站上实用的软性宣传有哪些"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"可以有CASES, NEWS, Journals 还有啥比较好"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不要像国外那种esg啥的 太虚了"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"GPT这么看"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你这个思路是对的：不是“写给自己看”，而是“写给客户下单看的”。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"ESG那套确实偏虚，对你这种工业交换机外贸来说转化很低。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"我直接给你一套实战型软性内容结构（偏成交导向），你可以直接用在你独立站👇"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"# ✅ 一、你已经有的（对的）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* CASES（项目案例）✅"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* NEWS（公司/行业动态）✅"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* JOURNALS / BLOG（技术文章）✅"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 但这些还不够“带货”，只是基础层。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"# ✅ 二、真正有用的“转化型软内容”（重点）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 1️⃣ Deployment / Application Stories（应用场景拆解）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 比 Case 更强一层"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"区别："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* Case = 我做了什么"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* Application Story = 客户为什么必须用你"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 示例："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* Industrial Switch in Oil & Gas Pipeline Monitoring"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* PoE Switch for Smart City CCTV Deployment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* Railway Communication Network Design (Ring Topology)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 你要写："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* 网络拓扑（重点）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* 为什么用工业交换机（痛点）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* 为什么用你这个规格（选型逻辑）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 这是最能打动工程师/采购的内容"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 2️⃣ Solution Pages（解决方案页）🔥"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 这个比Blog更值钱"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不是写文章，是做“半销售页”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 示例："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* Industrial Network Solution for Factory Automation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* Outdoor Surveillance Network Solution"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* Substation Communication Network Solution"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 内容结构："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* 场景痛点"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* 网络架构图（核心！）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* 推荐型号（直接带产品）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* 为什么选这个配置"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 本质："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 “客户自己看完就能下方案”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 3️⃣ Product Comparison（对比内容）🔥"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 超高转化，但90%厂家不敢写"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 示例："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* Managed vs Unmanaged Industrial Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* Marvell vs Realtek Switch Chip"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* L2+ vs L3 Switch: Which One You Need?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 你可以暗中引导："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* 你的方案更优"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* 或“刚好适合大部分客户”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 这是SEO + 转化双杀内容"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 4️⃣ Buying Guide（采购指南）🔥"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 非常适合你这种贸易+技术型"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 示例："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* How to Choose Industrial Ethernet Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* How to Select PoE Budget for CCTV Projects"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* What is IP40/IP67 Industrial Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 写法重点："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* 不讲理论"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* 直接讲“怎么选”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* 带参数判断逻辑"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 本质："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 帮客户做决策 = 提高成交率"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 5️⃣ Troubleshooting / FAQ（问题解决库）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 很容易做，而且很有价值"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 示例："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* Why My PoE Switch Not Powering Camera?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* What is ERPS Ring Recovery Time?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* Why Fiber Link is Unstable?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 客户搜问题 → 进你网站 → 顺便买你产品"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 这个是长期流量来源"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 6️⃣ Firmware / Update Logs（版本更新记录）🔥（很多人忽略）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 非常“工程师友好”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 示例："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* New Firmware Release for L2+ Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* Added VLAN Isolation Feature"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* Improved Ring Protection Stability"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 作用："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* 提升专业度"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* 让客户觉得你“在维护产品”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* 对标大厂（Cisco / Hirschmann那种感觉）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 7️⃣ Download Center（资料中心）🔥"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 必须做，不是可选项"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"内容包括："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* Datasheet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* User Manual"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* CLI Guide"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* MIB / SNMP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* Topology examples"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 你现在做外贸，这一块会直接影响成交"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"## 8️⃣ “Behind the Product”（轻技术背书）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 不是ESG，但比ESG有用"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"可以写："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* Why We Use Marvell Chip"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* How We Test Industrial Switch Reliability"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* EMC / Temperature Testing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 重点："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 展示“你不是拼价格的垃圾厂”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"# ❌ 三、你应该避免的（低价值内容）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"直接帮你排雷："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* ESG / Sustainability（太虚）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* Company Culture（没人看）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* CEO Message（没意义）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"* Generic News（比如“参加展会”这种）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 除非你做到品牌级，否则都是噪音"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"# ✅ 四、给你一个“最实用组合”（直接抄）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"如果你现在要搭站，我建议你就做这 6 个栏目："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"### 核心结构："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1. Products"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2. Solutions 🔥"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3. Applications / Case Studies"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4. Blog / Guides 🔥"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"5. Support（Download + FAQ）🔥"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"6. About"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"# 🎯 最核心一句话总结"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 所有内容只服务一件事："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"> 让客户更容易理解 → 更容易决策 → 更容易下单"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8. Product Insights / Engineering Notes"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这类内容比较“软”，但不虚。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"比如："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Why industrial switches need wide temperature design"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Why ring redundancy matters in factory networks"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"How we ensure stable PoE output"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Why certain chipsets are used"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"相当于“技术背书”，能提高专业感。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"9. Industry Trends"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不是那种空泛新闻，而是和客户采购相关的趋势。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"比如："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Growth of smart factory networking"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Increasing demand for PoE in surveillance projects"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Why industrial Ethernet is replacing legacy systems"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"重点不要写得太宏大，要和产品选择、项目需求挂钩。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"10. Partner / Project Highlights"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"如果你有客户类型或合作方可以展示，也很好用。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"比如："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"System integrator cooperation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OEM/ODM project highlights"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Regional deployment highlights"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这种内容能侧面证明你不是小作坊。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1⃣ Certification / Test Reports 页面"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不是简单放个CE图标就完了"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"要做成独立页面："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"每个认证单独列出（CE, FCC, UL, IEEE 1613, IEC 61850...）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"配上测试场景照片（高低温箱、EMC暗室、振动台）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"如果有第三方报告，放PDF下载"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 工业客户非常看这个，尤其电力、轨道交通项目"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 比写100篇blog都管用"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2⃣ Topology Library（拓扑图库）🔥🔥"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这个很少有人做，但转化极高"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"做法："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"按行业分类（电力、交通、矿山、智慧城市...）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"每个拓扑图标注用了哪些型号"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"可下载高清版（留个邮箱就行）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 工程师拿你的拓扑图直接做方案 = 指定你的产品"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 这是\"帮客户干活\"级别的内容"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3⃣ Compatibility List（兼容性列表）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"示例："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"和哪些品牌光模块兼容"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"和哪些PLC/SCADA系统对接过"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"和哪些摄像头PoE供电测试通过"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 解决客户最大的隐性担心：\"买回去能不能用\""
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 Hirschmann、Moxa都做这个，你做了就拉到同一level"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4⃣ Project Reference List（项目清单）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不是Case Study那种长文章"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"是一张简洁的表格："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"年份国家行业产品型号数量"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2024 Saudi Oil & Gas XX-8G 200台"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2023 Brazil Smart City XX-PoE 500台"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 一目了然，比写故事更有冲击力"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 客户看到\"有人买过\"就放心了"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"5⃣ Video Demo / 开箱测试"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不用拍得多精致，实用就行："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CLI配置演示（环网切换、VLAN划分）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE供电实测"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"高低温开机测试"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"包装开箱"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 放YouTube + 嵌入网站"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"👉 视频是信任感最强的内容形式，没有之一"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"优先级排序（如果你时间有限）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"先做这些，ROI最高："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"优先级内容原因"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"P0 Solutions + Topology 直接带动成交"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"P0 Download Center 工业客户刚需"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"P1 Certification页面 项目投标必看"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"P1 Buying Guide / Comparison SEO流量+转化"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"P1 Project Reference List 快速建立信任"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"P2 Application Stories 有案例就写"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"P2 Video Demo 有就放，没有慢慢补"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"P3 Blog / FAQ 长期SEO用"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"P3 Firmware Logs 专业感加分"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一句话总结"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"工业客户不看你\"说了什么\"，看你\"能帮他解决什么\""
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"拓扑图、选型指南、兼容列表、测试报告 —— 这些才是真正的\"软性宣传\""
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"CLAUDE的评价"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"读完了，这是一份 AI 搜索优化（AEO/GEO）的指导文档，核心思路是让你的内容被 AI 搜索引擎（Perplexity、ChatGPT Search、Gemini）引用。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"针对品牌站 sagatele.com，逐条看哪些有实际指导价值："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**直接适用、值得做的：**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**1 FAQ 结构化内容**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"文档强调问答格式是 AI 引用的首选。品牌站 About 页有 We Do/We Don't，但缺少真正的 FAQ 板块。加几个典型问题比如："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- \"What chipset platforms does Saga Telecom use?\""
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- \"Does Saga Telecom support OEM/ODM customization?\""
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- \"What is Saga Telecom's supply chain model?\""
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这类 Q&A 格式内容非常容易被 AI 搜索直接引用。之前讨论过这个板块，可以顺手加进 About 页。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**2 Schema 结构化数据补充 FAQ Schema**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你已经有 Organization Schema，再加一个 FAQPage Schema，AI 爬虫和 Google 都会更容易识别和引用你的内容。发文章时我可以顺手加进去。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**3 明确的定义性陈述**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"文档说 AI 喜欢引用\"X is/means...\"这种明确定义句。品牌站 Insights 里的文章其实已经有这个风格了，比如\"Strategic inventory isn't speculative stockpiling. It's planned buffer stock...\"这类句子天然就是 AI 容易抓取的格式，继续保持这个写法。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**4 被权威平台引用**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"文档提到外部引用是 AI 信任度的关键。你在 Global Sources / findlight 等平台加的链接，加上 Thomasnet / Kompass 注册后，这些权威 B2B 平台指向 sagatele.com，会提升 AI 搜索引用你内容的概率。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**暂时跳过的：**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**视频内容** — YouTube 你已经 pass 了，文档里提到视频对 AI 可见性有帮助，但对你现阶段不现实，忽略。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**多语言版本** — 文档提到多语言，你做俄罗斯市场但暂时不做俄文站，这条先放着。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**结构化数据 Product Schema** — 品牌站只有3款展示性产品，不是电商，Product Schema 意义不大，等 CN 产品站建起来后再加。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**一句话总结：**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"对品牌站最有价值的是**加 FAQ 板块 + FAQ Schema**，这两件事低成本、高回报，下次更新 HTML 时可以一起加进去。其他的你已经在做了，方向是对的。"
+}
+],
+"extracted_at":"2026-10-23T05:01:25Z"
+}

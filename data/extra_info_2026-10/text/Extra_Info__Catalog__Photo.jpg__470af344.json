@@ -1,0 +1,24 @@
+{
+"id":"Extra_Info__Catalog__Photo.jpg__470af344",
+"path":"Extra_Info/Catalog/Photo.jpg",
+"name":"Photo.jpg",
+"ext":".jpg",
+"bytes":3109096,
+"sha256":"470af344048632a3d15e1c8c304160519d97679e04b8ba60966c7a0e988d8725",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":2992,
+"height":3936,
+"mode":"RGB",
+"software":"Android Gallery",
+"thumb_bytes":12066
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:01:36Z",
+"thumb":"thumbs/Extra_Info__Catalog__Photo.jpg__470af344.jpg"
+}

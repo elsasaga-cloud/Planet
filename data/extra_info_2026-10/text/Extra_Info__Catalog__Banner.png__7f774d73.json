@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Catalog__Banner.png__7f774d73",
+"path":"Extra_Info/Catalog/Banner.png",
+"name":"Banner.png",
+"ext":".png",
+"bytes":1878374,
+"sha256":"7f774d7376864a640b368da51d4991ba647472b3f156be547b59f119cc438fef",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1501,
+"height":859,
+"mode":"RGBA",
+"thumb_bytes":13930
+},
+"warnings":[],
+"chars":300,
+"text":"TAILORED MARVELL\nNETWORKING\nSOLUTIONS\n]\n|\n|\n| | 一 一 Industrial loT (ilOT)\n| ||\n| It\n| |\n| 一 一 人 Smart Grid & Energy Management\neqoaecooaam\nLEEEE Et ee)\nIndustrial Automation &\n6 | Remote Control Systems\n一 一 人 @ Smart City Infrastructure\nSurveillance & Security Systems\nSMB & Enterprise-Level Networks",
+"extracted_at":"2026-10-23T05:01:34Z",
+"thumb":"thumbs/Extra_Info__Catalog__Banner.png__7f774d73.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Catalog___Fiber_Optic_Communication_1.jpg__1381425b",
+"path":"Extra_Info/Catalog/Fiber Optic Communication 1.jpg",
+"name":"Fiber Optic Communication 1.jpg",
+"ext":".jpg",
+"bytes":240554,
+"sha256":"1381425b0f3eaf8d036b797cdbe3d619b4bd3da5e58315a28b8197f759c5e750",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":900,
+"height":600,
+"mode":"RGB",
+"thumb_bytes":22155
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:01:43Z",
+"thumb":"thumbs/Extra_Info__Catalog___Fiber_Optic_Communication_1.jpg__1381425b.jpg"
+}

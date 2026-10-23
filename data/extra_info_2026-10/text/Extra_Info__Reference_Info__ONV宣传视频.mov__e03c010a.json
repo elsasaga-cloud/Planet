@@ -1,0 +1,25 @@
+{
+"id":"Extra_Info__Reference_Info__ONV宣传视频.mov__e03c010a",
+"path":"Extra_Info/Reference Info/ONV宣传视频.mov",
+"name":"ONV宣传视频.mov",
+"ext":".mov",
+"bytes":104225963,
+"sha256":"e03c010a9c030a3dd5634b48c2a1eeb199cb2883db220227aedb68cde2e92bc9",
+"source":"Extra_Info.zip",
+"method":"ffprobe+ffmpeg",
+"status":"meta",
+"meta":{
+"duration_s":401.2,
+"width":1920,
+"height":1080,
+"vcodec":"h264",
+"acodec":"aac",
+"creation_time":"2021-08-10T08:20:26.000000Z",
+"thumb_bytes":4163
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:07:30Z",
+"thumb":"thumbs/Extra_Info__Reference_Info__ONV宣传视频.mov__e03c010a.jpg"
+}

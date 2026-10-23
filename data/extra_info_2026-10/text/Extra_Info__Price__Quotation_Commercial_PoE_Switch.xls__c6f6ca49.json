@@ -1,0 +1,211 @@
+{
+"id":"Extra_Info__Price__Quotation_Commercial_PoE_Switch.xls__c6f6ca49",
+"path":"Extra_Info/Price/Quotation_Commercial PoE Switch.xls",
+"name":"Quotation_Commercial PoE Switch.xls",
+"ext":".xls",
+"bytes":937984,
+"sha256":"c6f6ca491d39db72bcf0e5baf43882cb34af7704eb9330858fab2e1d56535ead",
+"source":"Extra_Info.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Quotation"
+],
+"rows_total":40
+},
+"warnings":[],
+"chars":2950,
+"text":"--- Sheet: Quotation ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 13048800964                                          www.sagatelecom.com.cn                                Email: a.sagatelecom@gmail.com\n*********************************************************************************************************************\nQuotation\nBuyer:\tBio-Cognitive Solutions Pte Ltd\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t65 8796 7877\t\tQuoted By:\tAlan\nEmail:\tamyhoi@bio-cognitive.com\t\tDate:\t7th, July, 2025\nContact Person:\tAmy Hoi\t\tPrice Term:\tEXW\nDestination\tSingapore\nModel\tSpecification\t\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSeller: STC-024GP\n\nBuyer: Null\t\t\t\t1\t19\t19\tMarvell Chip\n\tCommercial PoE Switch\n\n2*10/100/1000M RJ45 Uplink+4*10/100/1000M PoE Downlink\nPoE af/at, 60W budget, Support Vlan/Extend mode, AC input, Rack compatible, With Power Cable, With Mounting Hanger\n\tPacking\nInformation\tHS Code: 8517622990\nDimension: 200*118*44mm\nGross Weight: 0.91KG\nSeller: STC-204GP\n\nBuyer: Null\t\t\t\t1\t21\t21\tMarvell Chip\n\tCommercial PoE Switch\n\n2*Gigabit SFP+4*10/100/1000M PoE Downlink\nPoE af/at, 60W budget, Support Vlan/Extend, AC input, Rack compatible, With Power Cable, With Mounting Hanger\n\tPacking\nInformation\tHS Code: 8517622990\nDimension: 200*118*44mm\nGross Weight: 0.93KG\nSeller: STC-028GP\n\nBuyer: Null\t\t\t\t1\t24.5\t24.5\tMarvell Chip\n\tCommercial PoE Switch\n\n2*10/100/1000M RJ45 Uplink+8*10/100/1000M PoE Downlink\nPoE af/at, 120W budget, Support Vlan/Extend mode, AC input, Rack compatible, With Power Cable, With Mounting Hanger\n\tPacking\nInformation\tHS Code: 8517622990\nDimension: 200*188*44mm\nGross Weight: 0.99KG\nSeller: STC-228GP\nBuyer: Null\t\t\t\t1\t36.5\t36.5\tMarvell Chip\n\tCommercial PoE Switch\n\n2*Gigabit SFP+2*10/100/1000M RJ45 Uplink+8*10/100/1000M PoE Downlink, PoE af/at, 120W budget, Support Extend mode, PoE priority, PoE Watchdog, AC input, Rack compatible\nWith Power Cable, With Mounting Hanger\n\tPacking\nInformation\tHS Code: 8517622990\nDimension: 220*161*44mm\nGross Weight: 1.22KG\nTOTAL\nRemark\nPlease do make sure client side could handle import customs clearance.\nIf there is any problem with the shipment or clearance\n1, please let us know ASAP\n2, please call DHL/FedEx/UPS official number for information\nPrice validity: 15 days\nSaga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply.\nNon-brand packing, without Chinese letters or logo\nNeutral device\nCountry of origin: China\nProduction time: 4~7 working days(this is NOT including shipping time)\nWarranty: 3 years, lifetime technical support\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" for more information.",
+"sheets":{
+"Quotation":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Tailored Marvell Managed Networking Solutions Provider"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 13048800964                                          www.sagatelecom.com.cn                                Email: a.sagatelecom@gmail.com"
+],
+[
+"*********************************************************************************************************************"
+],
+[
+"Quotation"
+],
+[
+"Buyer:",
+"Bio-Cognitive Solutions Pte Ltd",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"65 8796 7877",
+"",
+"Quoted By:",
+"Alan"
+],
+[
+"Email:",
+"amyhoi@bio-cognitive.com",
+"",
+"Date:",
+"7th, July, 2025"
+],
+[
+"Contact Person:",
+"Amy Hoi",
+"",
+"Price Term:",
+"EXW"
+],
+[
+"Destination",
+"Singapore"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"Seller: STC-024GP\n\nBuyer: Null",
+"",
+"",
+"",
+"1",
+"19",
+"19",
+"Marvell Chip"
+],
+[
+"",
+"Commercial PoE Switch\n\n2*10/100/1000M RJ45 Uplink+4*10/100/1000M PoE Downlink\nPoE af/at, 60W budget, Support Vlan/Extend mode, AC input, Rack compatible, With Power Cable, With Mounting Hanger"
+],
+[
+"",
+"Packing\nInformation",
+"HS Code: 8517622990\nDimension: 200*118*44mm\nGross Weight: 0.91KG"
+],
+[
+"Seller: STC-204GP\n\nBuyer: Null",
+"",
+"",
+"",
+"1",
+"21",
+"21",
+"Marvell Chip"
+],
+[
+"",
+"Commercial PoE Switch\n\n2*Gigabit SFP+4*10/100/1000M PoE Downlink\nPoE af/at, 60W budget, Support Vlan/Extend, AC input, Rack compatible, With Power Cable, With Mounting Hanger"
+],
+[
+"",
+"Packing\nInformation",
+"HS Code: 8517622990\nDimension: 200*118*44mm\nGross Weight: 0.93KG"
+],
+[
+"Seller: STC-028GP\n\nBuyer: Null",
+"",
+"",
+"",
+"1",
+"24.5",
+"24.5",
+"Marvell Chip"
+],
+[
+"",
+"Commercial PoE Switch\n\n2*10/100/1000M RJ45 Uplink+8*10/100/1000M PoE Downlink\nPoE af/at, 120W budget, Support Vlan/Extend mode, AC input, Rack compatible, With Power Cable, With Mounting Hanger"
+],
+[
+"",
+"Packing\nInformation",
+"HS Code: 8517622990\nDimension: 200*188*44mm\nGross Weight: 0.99KG"
+],
+[
+"Seller: STC-228GP\nBuyer: Null",
+"",
+"",
+"",
+"1",
+"36.5",
+"36.5",
+"Marvell Chip"
+],
+[
+"",
+"Commercial PoE Switch\n\n2*Gigabit SFP+2*10/100/1000M RJ45 Uplink+8*10/100/1000M PoE Downlink, PoE af/at, 120W budget, Support Extend mode, PoE priority, PoE Watchdog, AC input, Rack compatible\nWith Power Cable, With Mounting Hanger"
+],
+[
+"",
+"Packing\nInformation",
+"HS Code: 8517622990\nDimension: 220*161*44mm\nGross Weight: 1.22KG"
+],
+[
+"TOTAL"
+],
+[
+"Remark"
+],
+[
+"Please do make sure client side could handle import customs clearance."
+],
+[
+"If there is any problem with the shipment or clearance"
+],
+[
+"1, please let us know ASAP"
+],
+[
+"2, please call DHL/FedEx/UPS official number for information"
+],
+[
+"Price validity: 15 days"
+],
+[
+"Saga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply."
+],
+[
+"Non-brand packing, without Chinese letters or logo"
+],
+[
+"Neutral device"
+],
+[
+"Country of origin: China"
+],
+[
+"Production time: 4~7 working days(this is NOT including shipping time)"
+],
+[
+"Warranty: 3 years, lifetime technical support"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" for more information."
+]
+]
+}
+},
+"extracted_at":"2026-10-23T05:05:49Z"
+}

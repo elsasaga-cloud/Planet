@@ -1,0 +1,1928 @@
+{
+"id":"Extra_Info__STH__旧版英文规格书__半尺寸三层管理交换机-1GE_2.5GE__S3500_S2600_Half-width_Datasheet_V4.5_EN.docx__50b591a4",
+"path":"Extra_Info/STH/旧版英文规格书/半尺寸三层管理交换机-1GE 2.5GE/S3500&S2600 Half-width_Datasheet_V4.5_EN.docx",
+"name":"S3500&S2600 Half-width_Datasheet_V4.5_EN.docx",
+"ext":".docx",
+"bytes":1329304,
+"sha256":"50b591a4fb43a85b6a6082945688ab1b2c07e2e1e91604aec3793dd661287257",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"lenovo",
+"last_modified_by":"黄玉芳",
+"created":"2021-07-23T07:43:00+00:00",
+"modified":"2024-07-11T11:26:51+00:00",
+"paragraphs":23,
+"tables":3,
+"embedded_images":6
+},
+"warnings":[],
+"chars":12012,
+"text":"S3500/S2600 Half-width L3 Managed Switches\n-S2624H-4X: 24*10/100/1000M, 4*10GE SFP+, Half-width, support two-node deployment\n-S2624PH-4X：24*10/100/1000M PoE+, 4*10GE SFP+, Half-width, support two-node deployment\n-S3524H-4X：24*10/100/1000M/2.5G, 4*10GE SFP+, support two-node deployment\n-S3524PH-4X：24*10/100/1000M/2.5G PoE+, 4*10GE SFP+, Half-width, support two-node deployment\n-S2624SH-4X：24*1000M SFP, 4*10GE SFP+, Half-width, support two-node deployment\nOVERVIEW\nHalf-width L3 manage series switches is routing switch, support Gigabit and 2.5GE, uplink 10G SFP+ port, compact 1U shape. With perfect security control policy and CPU Protect Policy, it can improve fault tolerance and ensure the stable operation of the network and load balance of links. The switch supports automatic DoS attack defense, SNMP, IEEE 802.1, STP, RSTP, and link aggregation. With advanced security features and advanced quality of Service (QoS), it can be used as a core, distribution or access layer switch with high-end port density,  ease of management, it is an ideal choice for a variety of business networking applications.\nThe switch combines advanced hardware and software to provide a Layer 3 routing solution for the next generation of home /SMB/ enterprise /Wi-Fi6AX access/high-speed NAS networks.\nFlexible and Diverse Deployment modes, with 1U for Dual Physical Redundancy\nFlexibility\nTraditional network switches, the product form is almost based on the standard 1U(19 inches width) physical space as a unit, once the device shape is determined, there can be no change, and we plan the smart series of products, it is Half size(half width size) as a unit, each device occupies half the width of the standard 1U space. At the same time, we provide a wide range of products to provide customers with very flexible choices when planning the network, so as to effectively meet the different demands of users on the network port form/scale.\nSystem Design for Green and Energy Saving\nIntelligent FAN adjustment and real-time power consumption monitoring technology are provided for the cost of maintenance redundancy and help to build a green and energy saving networks.\nSave space\nTraditional network equipment, the standard size of 1U as the space unit deployment network, many times the density of network equipment is not high, such as 8/16/24 port form, but they still occupy 1U space, which will lead to limited cabinet space is not effectively used, smart product line can effectively avoid this problem.\nLower the cost, great value\nReduce costs Many times, due to the small size of the network, the user site needs high-speed ports (such as 100G) while not requiring too many ports. The smart product line provides users with this option, which can be flexibly deployed according to the actual network demand, like building blocks, without paying extra fees for unnecessary ports.\nCHARACTERISTICS：\nProduct Name\tS2624H-4X\tS2624PH-4X\tS2624SH-4X\tS3524H-4X\tS3524PH-4X\nEthernet Ports\t-24*10/100/1000Mbps RJ45 / -4*10G SFP+\t-24*1GE SFP / -4*10GE SFP +\t-24 *10/100/1000/2.5G RJ45 / -4*10G SFP +\nPoE+ (IEEE802.3af/at30W)\tN/A\tYes\tN/A\tYes\nAC Power Supply\t1*96W\t1*460W\t1*96W\t1*150W\t1*480W\nManage Port\t1* Console Port (RJ45)\nFans\t3*Fixed Fan module\nAirflow\tFront-to-Rear\nSwitching Capacity\t128Gbps\t200Gbps\nMAC address\t16K\t32K\nSize(W*D*H)\t215*356*44mm\nWeight\t2.9KG\nOperating Temperature\t-10~45°C\nStorage Temperature\t-40~70°C\nOperating Humidity\t10% to 90% (Non-condensing)\nStorage Humidity\t0 to 95%  (Non-condensing)\nTemperature Alarm\t50ºC\nSOFTWARE FEATURES\n● Support\n○ Not Support\nType\tS2624H-4X\tS2624SH-4X\tS3524H-4X\tS2624PH-4X\tS3524PH-4X\nL3 Function\tIPv4\tIPv4 VLAN Interface\t●\t●\t●\t●\t●\nL3 Function\tIPv4\tIPv4 Static Routes\t●\t●\t●\t●\t●\nL3 Function\tIPv4\tARP\t●\t●\t●\t●\t●\nL3 Function\tIPv6\tIPv6 VLAN Interface\t●\t●\t●\t●\t●\nL3 Function\tIPv6\tIPv6 Static Routes\t●\t●\t●\t●\t●\nL3 Function\tIPv6\tIPv6 ND\t●\t●\t●\t●\t●\nL3 Function\tRIP\tV1/V2\t●\t●\t●\t●\t●\nL3 Function\tOSPF\tRouter-ID\t●\t●\t●\t●\t●\nL3 Function\tOSPF\tAuthentication\t●\t●\t●\t●\t●\nL3 Function\tOSPF\tV2\t●\t●\t●\t●\t●\nL2 Function\tPort\tPort Switch\t●\t●\t●\t●\t●\nL2 Function\tPort\tPort Description\t●\t●\t●\t●\t●\nL2 Function\tPort\tPort Speed\t●\t●\t●\t●\t●\nL2 Function\tPort\tPort Duplex\t●\t●\t●\t●\t●\nL2 Function\tPort\tPort Flow Control\t●\t●\t●\t●\t●\nL2 Function\tPort\tSupport 10G/2.5G\t●\t●\t●\t●\t●\nL2 Function\tPort\tJumbo\t●\t●\t●\t●\t●\nL2 Function\tPort\tEEE\t●\t●\t●\t●\t●\nL2 Function\tPort\tFiber Module(DDM)\t●\t●\t●\t●\t●\nL2 Function\tPort\t2.5G Electrical Port\t○\t○\t●\t○\t●\nL2 Function\tLink Aggregation\tSupports load balance policy; / Base on MAC and IP-MAC\t●\t●\t●\t●\t●\nL2 Function\tLink Aggregation\tStatic and Dynamic Group\t●\t●\t●\t●\t●\nL2 Function\tLink Aggregation\tSupports LACP\t●\t●\t●\t●\t●\nL2 Function\tLink Aggregation\tUp to 8 groups\t●\t●\t●\t●\t●\nL2 Function\tStorm Control\tBoardcast\t●\t●\t●\t●\t●\nL2 Function\tStorm Control\tUnknown Multicast\t●\t●\t●\t●\t●\nL2 Function\tStorm Control\tUnknown Unicast\t●\t●\t●\t●\t●\nL2 Function\tPort Mirroring\tOne to one monitor\t●\t●\t●\t●\t●\nL2 Function\tPort Mirroring\tMany to one monitor\t●\t●\t●\t●\t●\nL2 Function\tPort Mirroring\tIngress/Egress/Both\t●\t●\t●\t●\t●\nL2 Function\tPort Mirroring\tUp to 4 session groups\t●\t●\t●\t●\t●\nL2 Function\tPort Security\tMAC Address Constraints\t●\t●\t●\t●\t●\nL2 Function\tPort Security\tPort Security MAC Address\t●\t●\t●\t●\t●\nL2 Function\tPort Security\tProtect/Restrict/Shutdown\t●\t●\t●\t●\t●\nL2 Function\tPort Security\tPort Isolation\t●\t●\t●\t●\t●\nL2 Function\tPort Security\tPort Rate-limit\t●\t●\t●\t●\t●\nL2 Function\tPort Security\tLoopback Detection\t●\t●\t●\t●\t●\nL2 Function\tVLAN\tAccess/Trunk/Hybrid\t●\t●\t●\t●\t●\nL2 Function\tVLAN\tVLAN Tunnel （Q-in-Q Tunnel）\t●\t●\t●\t●\t●\nL2 Function\tVLAN\tCongurable VID from 1 - 4094;Max. 4K static VLAN groups\t●\t●\t●\t●\t●\nL2 Function\tVLAN\tVoice VLAN\t●\t●\t●\t●\t●\nL2 Function\tVLAN\tMAC VLAN\t●\t●\t●\t●\t●\nL2 Function\tVLAN\tSurveillance VLAN\t●\t●\t●\t●\t●\nL2 Function\tVLAN\tProtocol VLAN\t●\t●\t●\t●\t●\nL2 Function\tVLAN\tGVRP\t●\t●\t●\t●\t●\nL2 Function\tMAC Address\tDynamic Address\t●\t●\t●\t●\t●\nL2 Function\tMAC Address\tStatic Address\t●\t●\t●\t●\t●\nL2 Function\tMAC Address\tFiltering Address\t●\t●\t●\t●\t●\nL2 Function\tSpanning Tree Protocol\tSTP/RSTP/MSTP\t●\t●\t●\t●\t●\nL2 Function\tSpanning Tree Protocol\tBPDU Filter\t●\t●\t●\t●\t●\nL2 Function\tSpanning Tree Protocol\tBPDU Guard\t●\t●\t●\t●\t●\nL2 Function\tSpanning Tree Protocol\tEdge Port\t●\t●\t●\t●\t●\nL2 Function\tLLDP\tLLDP\t●\t●\t●\t●\t●\nL2 Function\tLLDP\tLLDP MED\t●\t●\t●\t●\t●\nL2 Function\tMulticast\tIGMP Snnoping\t●\t●\t●\t●\t●\nL2 Function\tMulticast\tIGMP V1/V2/V3\t●\t●\t●\t●\t●\nL2 Function\tMulticast\tRouter Port\t●\t●\t●\t●\t●\nL2 Function\tMulticast\tStatic IGMP group address\t●\t●\t●\t●\t●\nL2 Function\tMulticast\tIGMP groups filtering\t●\t●\t●\t●\t●\nL2 Function\tMulticast\tQuerier\t●\t●\t●\t●\t●\nL2 Function\tMulticast\tMLD Snooping\t●\t●\t●\t●\t●\nL2 Function\tMulticast\tMVR\t●\t●\t●\t●\t●\nL2 Function\tQoS\tTraffic classification based, Strict priority and WRR\t●\t●\t●\t●\t●\nL2 Function\tQoS\tPort Priority\t●\t●\t●\t●\t●\nL2 Function\tQoS\t802.1P Priority\t●\t●\t●\t●\t●\nL2 Function\tQoS\tIP TOS Priority\t●\t●\t●\t●\t●\nL2 Function\tQoS\tIP DSCP Priority\t●\t●\t●\t●\t●\nL2 Function\tQoS\tSupports up to 8 queues per port\t●\t●\t●\t●\t●\nL2 Function\tQoS\tPriority Remarking\t●\t●\t●\t●\t●\nL2 Function\tERPS\tOnly SFP port\t●\t●\t●\t●\t●\nL2 Function\tERPS\tALL Port\t○\t○\t●\t○\t●\nPoE\tPoE Configuration\tPoE Temperature\t○\t○\t○\t●\t●\nPoE\tPoE Configuration\tPoE Type/Level/Power/Voltage/Current\t○\t○\t○\t●\t●\nPoE\tPoE Configuration\tPoE Switch\t○\t○\t○\t●\t●\nPoE\tPoE Configuration\tPoE Watchdog\t○\t○\t○\t●\t●\nPoE\tPoE Configuration\tPoE power AF/AT adaptation\t○\t○\t○\t●\t●\nPoE\tPoE Configuration\tIEEE 802.3bt，compatible with IEEE 802.3af/802.3at PoE\t○\t○\t○\t●\t●\nPoE\tPoE Configuration\tPoE Schedule\t○\t○\t○\t●\t●\nPoE\tPoE Configuration\tPoE Port Timer Reboot\t○\t○\t○\t●\t●\nPoE\tPoE Configuration\tPOE MAX\t○\t○\t○\t○\t●\nServices\tDHCP\tDHCP Server\t●\t●\t●\t●\t●\nServices\tDHCP\tIP Pool\t●\t●\t●\t●\t●\nServices\tDHCP\tStatic Binding\t●\t●\t●\t●\t●\nServices\tDHCP\tDHCP Relay\t●\t●\t●\t●\t●\nServices\tDHCP\tOption 43\t●\t●\t●\t●\t●\nServices\tAccess Protocol\tHTTP\t●\t●\t●\t●\t●\nServices\tAccess Protocol\tHTTPS\t●\t●\t●\t●\t●\nServices\tAccess Protocol\tTelnet\t●\t●\t●\t●\t●\nServices\tAccess Protocol\tSSHv2\t●\t●\t●\t●\t●\nServices\tAccess Protocol\tManager ACL\t●\t●\t●\t●\t●\nServices\tAccess Protocol\tSession Timeout\t●\t●\t●\t●\t●\nServices\tAccess Protocol\tPassword Retry Count\t●\t●\t●\t●\t●\nServices\tAccess Protocol\tSilent Time\t●\t●\t●\t●\t●\nSecurity\tAAA\tRADIUS\t●\t●\t●\t●\t●\nSecurity\tAAA\tTACACS+\t●\t●\t●\t●\t●\nSecurity\tAAA\t802.1X\t●\t●\t●\t●\t●\nSecurity\tAAA\tBase on port/MAC/local/WEB\t●\t●\t●\t●\t●\nSecurity\tDHCP Snooping\tGlobal VLAN\t●\t●\t●\t●\t●\nSecurity\tDHCP Snooping\tOption 82\t●\t●\t●\t●\t●\nSecurity\tDHCP Snooping\tCircuit ID\t●\t●\t●\t●\t●\nSecurity\tIP Source Guard\tDynamic ARP Inspection\t●\t●\t●\t●\t●\nSecurity\tIP Source Guard\tDoS Anti Attack\t●\t●\t●\t●\t●\nSecurity\tACL\tMAC ACL\t●\t●\t●\t●\t●\nSecurity\tACL\tIPv4 ACL\t●\t●\t●\t●\t●\nSecurity\tACL\tIPv6 ACL\t●\t●\t●\t●\t●\nDiagnostics\tSystem log\tLogging Message\t●\t●\t●\t●\t●\nDiagnostics\tSystem log\tRemote Server\t●\t●\t●\t●\t●\nDiagnostics\tPing\tTraceroute\t●\t●\t●\t●\t●\nDiagnostics\tPing\tCopper Test\t●\t●\t●\t●\t●\nDiagnostics\tPing\tUDLD\t●\t●\t●\t●\t●\nManagement\tManager Access\tConsole\t●\t●\t●\t●\t●\nManagement\tManager Access\tHTTP/HTTPS\t●\t●\t●\t●\t●\nManagement\tManager Access\tTelnet\t●\t●\t●\t●\t●\nManagement\tManager Access\tSSH\t●\t●\t●\t●\t●\nManagement\tManager Access\tSNMP\t●\t●\t●\t●\t●\nManagement\tManager IP\tStatic Address\t●\t●\t●\t●\t●\nManagement\tManager IP\tDHCP Client\t●\t●\t●\t●\t●\nManagement\tManager IP\tSupports IPv4 and IPv6 address\t●\t●\t●\t●\t●\nManagement\tManager IP\t管理VLAN / Manager VLAN\t●\t●\t●\t●\t●\nManagement\tManager IP\tDNS\t●\t●\t●\t●\t●\nManagement\tTime Synchronization\tSNTP\t●\t●\t●\t●\t●\nManagement\tTime Synchronization\tManual Time\t●\t●\t●\t●\t●\nManagement\tSNMP\tV1/V2C/V3\t●\t●\t●\t●\t●\nManagement\tSNMP\tCommunity\t●\t●\t●\t●\t●\nManagement\tSNMP\tV3 User\t●\t●\t●\t●\t●\nManagement\tSNMP\tGroup\t●\t●\t●\t●\t●\nManagement\tSNMP\tTrap主机 / Trap Host\t●\t●\t●\t●\t●\nManagement\tSNMP MIB\tRFC 1213 MIB-II\t●\t●\t●\t●\t●\nManagement\tSNMP MIB\tRFC 1493 Bridge MIB\t●\t●\t●\t●\t●\nManagement\tSNMP MIB\tRFC 1643 Ethernet MIB\t●\t●\t●\t●\t●\nManagement\tSNMP MIB\tRFC 2819 RMON MIB (Groups 1, 2, 3 and 9)\t●\t●\t●\t●\t●\nManagement\tSNMP MIB\tRFC 2863 Interface MIB\t●\t●\t●\t●\t●\nManagement\tSNMP MIB\tLLDP\t●\t●\t●\t●\t●\nManagement\tSNMP MIB\tPrivate MIB\t●\t●\t●\t●\t●\nManagement\tRMON\tStatistics\t●\t●\t●\t●\t●\nManagement\tRMON\tHistory\t●\t●\t●\t●\t●\nManagement\tRMON\tEvent\t●\t●\t●\t●\t●\nManagement\tRMON\tAlarm\t●\t●\t●\t●\t●\nUser\tFirmware\tDouble Image; Swap between Active and Alternate firmware image.\t○\t○\t●\t○\t●\nUser\t\tFirmware Upgarde\t●\t●\t●\t●\t●\nUser\tConfiguration\tUpload and download\t●\t●\t●\t●\t●\nUser\tConfiguration\tSave\t●\t●\t●\t●\t●\nUser\tConfiguration\tRestart\t●\t●\t●\t●\t●\nUser\tConfiguration\tFactory Defaults\t●\t●\t●\t●\t●\n\tStandards Compliance\tIEEE 802.3x flow control and back pressure\t●\t●\t●\t●\t●\n\tStandards Compliance\tIEEE 802.3ad port trunk with LACP\t●\t●\t●\t●\t●\n\tStandards Compliance\tIEEE 802.1D Spanning Tree Protocol\t●\t●\t●\t●\t●\n\tStandards Compliance\tIEEE 802.1w Rapid Spanning Tree Protocol\t●\t●\t●\t●\t●\n\tStandards Compliance\tIEEE 802.1s Multiple Spanning Tree Protocol\t●\t●\t●\t●\t●\n\tStandards Compliance\tIEEE 802.1p Class of Service\t●\t●\t●\t●\t●\n\tStandards Compliance\tIEEE 802.1Q VLAN tagging\t●\t●\t●\t●\t●\n\tStandards Compliance\tIEEE 802.1x Port Authentication Network Control\t●\t●\t●\t●\t●\n\tStandards Compliance\tIEEE 802.1ab LLDP\t●\t●\t●\t●\t●\n\tStandards Compliance\tIEEE 802.3af Power over Ethernet\t○\t○\t●\t●\t●\n\tStandards Compliance\tIEEE 802.3at Power over Ethernet Plus\t○\t○\t●\t●\t●\n\tStandards Compliance\tRFC 768 UDP\t●\t●\t●\t●\t●\n\tStandards Compliance\tRFC 793 TFTP\t●\t●\t●\t●\t●\n\tStandards Compliance\tRFC 791 IP\t●\t●\t●\t●\t●\n\tStandards Compliance\tRFC 792 ICMP\t●\t●\t●\t●\t●\n\tStandards Compliance\tRFC 2068 HTTP\t●\t●\t●\t●\t●\n\tStandards Compliance\tRFC 1112 IGMP v1\t●\t●\t●\t●\t●\n\tStandards Compliance\tRFC 2236 IGMP v2\t●\t●\t●\t●\t●\n\tStandards Compliance\tRFC 3376 IGMP v3\t●\t●\t●\t●\t●\n\tStandards Compliance\tRFC 2710 MLD v1\t●\t●\t●\t●\t●\n\tStandards Compliance\tFRC 3810 MLD v2\t●\t●\t●\t●\t●\n\tStandards Compliance\tRFC 2328 OSPF v2\t●\t●\t●\t●\t●\nORDER INFORMATION\nProduct Name\tDescription\nS2624H-4X\t24*10/100/1000M, 4*10GE SFP+, Half-width, support two-node deployment\nS2624PH-4X\t24*10/100/1000M PoE+, 4*10GE SFP+, Half-width, support two-node deployment\nS3524H-4X\t24*10/100/1000M/2.5G, 4*10GE SFP+, support two-node deployment\nS3524PH-4X\t24*10/100/1000M/2.5G PoE+, 4*10GE SFP+, Half-width, support two-node deployment\nS2624SH-4X\t24*1000M SFP, 4*10GE SFP+, Half-width, support two-node deployment\n[页眉页脚]\nS3500/S2600 Half-width L3 Managed Switches",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"S3500/S2600 Half-width L3 Managed Switches"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"-S2624H-4X: 24*10/100/1000M, 4*10GE SFP+, Half-width, support two-node deployment"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"-S2624PH-4X：24*10/100/1000M PoE+, 4*10GE SFP+, Half-width, support two-node deployment"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"-S3524H-4X：24*10/100/1000M/2.5G, 4*10GE SFP+, support two-node deployment"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"-S3524PH-4X：24*10/100/1000M/2.5G PoE+, 4*10GE SFP+, Half-width, support two-node deployment"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"-S2624SH-4X：24*1000M SFP, 4*10GE SFP+, Half-width, support two-node deployment"
+},
+{
+"t":"p",
+"s":"List Paragraph",
+"text":"OVERVIEW"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Half-width L3 manage series switches is routing switch, support Gigabit and 2.5GE, uplink 10G SFP+ port, compact 1U shape. With perfect security control policy and CPU Protect Policy, it can improve fault tolerance and ensure the stable operation of the network and load balance of links. The switch supports automatic DoS attack defense, SNMP, IEEE 802.1, STP, RSTP, and link aggregation. With advanced security features and advanced quality of Service (QoS), it can be used as a core, distribution or access layer switch with high-end port density,  ease of management, it is an ideal choice for a variety of business networking applications."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The switch combines advanced hardware and software to provide a Layer 3 routing solution for the next generation of home /SMB/ enterprise /Wi-Fi6AX access/high-speed NAS networks."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Flexible and Diverse Deployment modes, with 1U for Dual Physical Redundancy"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Flexibility"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Traditional network switches, the product form is almost based on the standard 1U(19 inches width) physical space as a unit, once the device shape is determined, there can be no change, and we plan the smart series of products, it is Half size(half width size) as a unit, each device occupies half the width of the standard 1U space. At the same time, we provide a wide range of products to provide customers with very flexible choices when planning the network, so as to effectively meet the different demands of users on the network port form/scale."
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"System Design for Green and Energy Saving"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Intelligent FAN adjustment and real-time power consumption monitoring technology are provided for the cost of maintenance redundancy and help to build a green and energy saving networks."
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Save space"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Traditional network equipment, the standard size of 1U as the space unit deployment network, many times the density of network equipment is not high, such as 8/16/24 port form, but they still occupy 1U space, which will lead to limited cabinet space is not effectively used, smart product line can effectively avoid this problem."
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Lower the cost, great value"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Reduce costs Many times, due to the small size of the network, the user site needs high-speed ports (such as 100G) while not requiring too many ports. The smart product line provides users with this option, which can be flexibly deployed according to the actual network demand, like building blocks, without paying extra fees for unnecessary ports."
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"CHARACTERISTICS："
+},
+{
+"t":"table",
+"rows":[
+[
+"Product Name",
+"S2624H-4X",
+"S2624PH-4X",
+"S2624SH-4X",
+"S3524H-4X",
+"S3524PH-4X"
+],
+[
+"Ethernet Ports",
+"-24*10/100/1000Mbps RJ45 / -4*10G SFP+",
+"-24*1GE SFP / -4*10GE SFP +",
+"-24 *10/100/1000/2.5G RJ45 / -4*10G SFP +"
+],
+[
+"PoE+ (IEEE802.3af/at30W)",
+"N/A",
+"Yes",
+"N/A",
+"Yes"
+],
+[
+"AC Power Supply",
+"1*96W",
+"1*460W",
+"1*96W",
+"1*150W",
+"1*480W"
+],
+[
+"Manage Port",
+"1* Console Port (RJ45)"
+],
+[
+"Fans",
+"3*Fixed Fan module"
+],
+[
+"Airflow",
+"Front-to-Rear"
+],
+[
+"Switching Capacity",
+"128Gbps",
+"200Gbps"
+],
+[
+"MAC address",
+"16K",
+"32K"
+],
+[
+"Size(W*D*H)",
+"215*356*44mm"
+],
+[
+"Weight",
+"2.9KG"
+],
+[
+"Operating Temperature",
+"-10~45°C"
+],
+[
+"Storage Temperature",
+"-40~70°C"
+],
+[
+"Operating Humidity",
+"10% to 90% (Non-condensing)"
+],
+[
+"Storage Humidity",
+"0 to 95%  (Non-condensing)"
+],
+[
+"Temperature Alarm",
+"50ºC"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SOFTWARE FEATURES"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"● Support"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"○ Not Support"
+},
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"S2624H-4X",
+"S2624SH-4X",
+"S3524H-4X",
+"S2624PH-4X",
+"S3524PH-4X"
+],
+[
+"L3 Function",
+"IPv4",
+"IPv4 VLAN Interface",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L3 Function",
+"IPv4",
+"IPv4 Static Routes",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L3 Function",
+"IPv4",
+"ARP",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L3 Function",
+"IPv6",
+"IPv6 VLAN Interface",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L3 Function",
+"IPv6",
+"IPv6 Static Routes",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L3 Function",
+"IPv6",
+"IPv6 ND",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L3 Function",
+"RIP",
+"V1/V2",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L3 Function",
+"OSPF",
+"Router-ID",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L3 Function",
+"OSPF",
+"Authentication",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L3 Function",
+"OSPF",
+"V2",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Port",
+"Port Switch",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Port",
+"Port Description",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Port",
+"Port Speed",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Port",
+"Port Duplex",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Port",
+"Port Flow Control",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Port",
+"Support 10G/2.5G",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Port",
+"Jumbo",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Port",
+"EEE",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Port",
+"Fiber Module(DDM)",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Port",
+"2.5G Electrical Port",
+"○",
+"○",
+"●",
+"○",
+"●"
+],
+[
+"L2 Function",
+"Link Aggregation",
+"Supports load balance policy; / Base on MAC and IP-MAC",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Link Aggregation",
+"Static and Dynamic Group",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Link Aggregation",
+"Supports LACP",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Link Aggregation",
+"Up to 8 groups",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Storm Control",
+"Boardcast",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Storm Control",
+"Unknown Multicast",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Storm Control",
+"Unknown Unicast",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Port Mirroring",
+"One to one monitor",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Port Mirroring",
+"Many to one monitor",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Port Mirroring",
+"Ingress/Egress/Both",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Port Mirroring",
+"Up to 4 session groups",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Port Security",
+"MAC Address Constraints",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Port Security",
+"Port Security MAC Address",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Port Security",
+"Protect/Restrict/Shutdown",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Port Security",
+"Port Isolation",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Port Security",
+"Port Rate-limit",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Port Security",
+"Loopback Detection",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"VLAN",
+"Access/Trunk/Hybrid",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"VLAN",
+"VLAN Tunnel （Q-in-Q Tunnel）",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"VLAN",
+"Congurable VID from 1 - 4094;Max. 4K static VLAN groups",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"VLAN",
+"Voice VLAN",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"VLAN",
+"MAC VLAN",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"VLAN",
+"Surveillance VLAN",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"VLAN",
+"Protocol VLAN",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"VLAN",
+"GVRP",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"MAC Address",
+"Dynamic Address",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"MAC Address",
+"Static Address",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"MAC Address",
+"Filtering Address",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Spanning Tree Protocol",
+"STP/RSTP/MSTP",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Spanning Tree Protocol",
+"BPDU Filter",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Spanning Tree Protocol",
+"BPDU Guard",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Spanning Tree Protocol",
+"Edge Port",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"LLDP",
+"LLDP",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"LLDP",
+"LLDP MED",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Multicast",
+"IGMP Snnoping",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Multicast",
+"IGMP V1/V2/V3",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Multicast",
+"Router Port",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Multicast",
+"Static IGMP group address",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Multicast",
+"IGMP groups filtering",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Multicast",
+"Querier",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Multicast",
+"MLD Snooping",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"Multicast",
+"MVR",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"QoS",
+"Traffic classification based, Strict priority and WRR",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"QoS",
+"Port Priority",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"QoS",
+"802.1P Priority",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"QoS",
+"IP TOS Priority",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"QoS",
+"IP DSCP Priority",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"QoS",
+"Supports up to 8 queues per port",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"QoS",
+"Priority Remarking",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"ERPS",
+"Only SFP port",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"L2 Function",
+"ERPS",
+"ALL Port",
+"○",
+"○",
+"●",
+"○",
+"●"
+],
+[
+"PoE",
+"PoE Configuration",
+"PoE Temperature",
+"○",
+"○",
+"○",
+"●",
+"●"
+],
+[
+"PoE",
+"PoE Configuration",
+"PoE Type/Level/Power/Voltage/Current",
+"○",
+"○",
+"○",
+"●",
+"●"
+],
+[
+"PoE",
+"PoE Configuration",
+"PoE Switch",
+"○",
+"○",
+"○",
+"●",
+"●"
+],
+[
+"PoE",
+"PoE Configuration",
+"PoE Watchdog",
+"○",
+"○",
+"○",
+"●",
+"●"
+],
+[
+"PoE",
+"PoE Configuration",
+"PoE power AF/AT adaptation",
+"○",
+"○",
+"○",
+"●",
+"●"
+],
+[
+"PoE",
+"PoE Configuration",
+"IEEE 802.3bt，compatible with IEEE 802.3af/802.3at PoE",
+"○",
+"○",
+"○",
+"●",
+"●"
+],
+[
+"PoE",
+"PoE Configuration",
+"PoE Schedule",
+"○",
+"○",
+"○",
+"●",
+"●"
+],
+[
+"PoE",
+"PoE Configuration",
+"PoE Port Timer Reboot",
+"○",
+"○",
+"○",
+"●",
+"●"
+],
+[
+"PoE",
+"PoE Configuration",
+"POE MAX",
+"○",
+"○",
+"○",
+"○",
+"●"
+],
+[
+"Services",
+"DHCP",
+"DHCP Server",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Services",
+"DHCP",
+"IP Pool",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Services",
+"DHCP",
+"Static Binding",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Services",
+"DHCP",
+"DHCP Relay",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Services",
+"DHCP",
+"Option 43",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Services",
+"Access Protocol",
+"HTTP",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Services",
+"Access Protocol",
+"HTTPS",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Services",
+"Access Protocol",
+"Telnet",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Services",
+"Access Protocol",
+"SSHv2",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Services",
+"Access Protocol",
+"Manager ACL",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Services",
+"Access Protocol",
+"Session Timeout",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Services",
+"Access Protocol",
+"Password Retry Count",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Services",
+"Access Protocol",
+"Silent Time",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Security",
+"AAA",
+"RADIUS",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Security",
+"AAA",
+"TACACS+",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Security",
+"AAA",
+"802.1X",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Security",
+"AAA",
+"Base on port/MAC/local/WEB",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Security",
+"DHCP Snooping",
+"Global VLAN",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Security",
+"DHCP Snooping",
+"Option 82",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Security",
+"DHCP Snooping",
+"Circuit ID",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Security",
+"IP Source Guard",
+"Dynamic ARP Inspection",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Security",
+"IP Source Guard",
+"DoS Anti Attack",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Security",
+"ACL",
+"MAC ACL",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Security",
+"ACL",
+"IPv4 ACL",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Security",
+"ACL",
+"IPv6 ACL",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Diagnostics",
+"System log",
+"Logging Message",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Diagnostics",
+"System log",
+"Remote Server",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Diagnostics",
+"Ping",
+"Traceroute",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Diagnostics",
+"Ping",
+"Copper Test",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Diagnostics",
+"Ping",
+"UDLD",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Management",
+"Manager Access",
+"Console",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Management",
+"Manager Access",
+"HTTP/HTTPS",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Management",
+"Manager Access",
+"Telnet",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Management",
+"Manager Access",
+"SSH",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Management",
+"Manager Access",
+"SNMP",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Management",
+"Manager IP",
+"Static Address",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Management",
+"Manager IP",
+"DHCP Client",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Management",
+"Manager IP",
+"Supports IPv4 and IPv6 address",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Management",
+"Manager IP",
+"管理VLAN / Manager VLAN",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Management",
+"Manager IP",
+"DNS",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Management",
+"Time Synchronization",
+"SNTP",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Management",
+"Time Synchronization",
+"Manual Time",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Management",
+"SNMP",
+"V1/V2C/V3",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Management",
+"SNMP",
+"Community",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Management",
+"SNMP",
+"V3 User",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Management",
+"SNMP",
+"Group",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Management",
+"SNMP",
+"Trap主机 / Trap Host",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Management",
+"SNMP MIB",
+"RFC 1213 MIB-II",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Management",
+"SNMP MIB",
+"RFC 1493 Bridge MIB",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Management",
+"SNMP MIB",
+"RFC 1643 Ethernet MIB",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Management",
+"SNMP MIB",
+"RFC 2819 RMON MIB (Groups 1, 2, 3 and 9)",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Management",
+"SNMP MIB",
+"RFC 2863 Interface MIB",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Management",
+"SNMP MIB",
+"LLDP",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Management",
+"SNMP MIB",
+"Private MIB",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Management",
+"RMON",
+"Statistics",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Management",
+"RMON",
+"History",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Management",
+"RMON",
+"Event",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"Management",
+"RMON",
+"Alarm",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"User",
+"Firmware",
+"Double Image; Swap between Active and Alternate firmware image.",
+"○",
+"○",
+"●",
+"○",
+"●"
+],
+[
+"User",
+"",
+"Firmware Upgarde",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"User",
+"Configuration",
+"Upload and download",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"User",
+"Configuration",
+"Save",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"User",
+"Configuration",
+"Restart",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"User",
+"Configuration",
+"Factory Defaults",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"",
+"Standards Compliance",
+"IEEE 802.3x flow control and back pressure",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"",
+"Standards Compliance",
+"IEEE 802.3ad port trunk with LACP",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"",
+"Standards Compliance",
+"IEEE 802.1D Spanning Tree Protocol",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"",
+"Standards Compliance",
+"IEEE 802.1w Rapid Spanning Tree Protocol",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"",
+"Standards Compliance",
+"IEEE 802.1s Multiple Spanning Tree Protocol",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"",
+"Standards Compliance",
+"IEEE 802.1p Class of Service",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"",
+"Standards Compliance",
+"IEEE 802.1Q VLAN tagging",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"",
+"Standards Compliance",
+"IEEE 802.1x Port Authentication Network Control",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"",
+"Standards Compliance",
+"IEEE 802.1ab LLDP",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"",
+"Standards Compliance",
+"IEEE 802.3af Power over Ethernet",
+"○",
+"○",
+"●",
+"●",
+"●"
+],
+[
+"",
+"Standards Compliance",
+"IEEE 802.3at Power over Ethernet Plus",
+"○",
+"○",
+"●",
+"●",
+"●"
+],
+[
+"",
+"Standards Compliance",
+"RFC 768 UDP",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"",
+"Standards Compliance",
+"RFC 793 TFTP",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"",
+"Standards Compliance",
+"RFC 791 IP",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"",
+"Standards Compliance",
+"RFC 792 ICMP",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"",
+"Standards Compliance",
+"RFC 2068 HTTP",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"",
+"Standards Compliance",
+"RFC 1112 IGMP v1",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"",
+"Standards Compliance",
+"RFC 2236 IGMP v2",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"",
+"Standards Compliance",
+"RFC 3376 IGMP v3",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"",
+"Standards Compliance",
+"RFC 2710 MLD v1",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"",
+"Standards Compliance",
+"FRC 3810 MLD v2",
+"●",
+"●",
+"●",
+"●",
+"●"
+],
+[
+"",
+"Standards Compliance",
+"RFC 2328 OSPF v2",
+"●",
+"●",
+"●",
+"●",
+"●"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"ORDER INFORMATION"
+},
+{
+"t":"table",
+"rows":[
+[
+"Product Name",
+"Description"
+],
+[
+"S2624H-4X",
+"24*10/100/1000M, 4*10GE SFP+, Half-width, support two-node deployment"
+],
+[
+"S2624PH-4X",
+"24*10/100/1000M PoE+, 4*10GE SFP+, Half-width, support two-node deployment"
+],
+[
+"S3524H-4X",
+"24*10/100/1000M/2.5G, 4*10GE SFP+, support two-node deployment"
+],
+[
+"S3524PH-4X",
+"24*10/100/1000M/2.5G PoE+, 4*10GE SFP+, Half-width, support two-node deployment"
+],
+[
+"S2624SH-4X",
+"24*1000M SFP, 4*10GE SFP+, Half-width, support two-node deployment"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:05:35Z"
+}

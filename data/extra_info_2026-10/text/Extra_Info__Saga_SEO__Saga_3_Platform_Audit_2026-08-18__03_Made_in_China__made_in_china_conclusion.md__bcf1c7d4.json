@@ -1,0 +1,16 @@
+{
+"id":"Extra_Info__Saga_SEO__Saga_3_Platform_Audit_2026-08-18__03_Made_in_China__made_in_china_conclusion.md__bcf1c7d4",
+"path":"Extra_Info/Saga SEO/Saga_3_Platform_Audit_2026-08-18/03_Made_in_China/made_in_china_conclusion.md",
+"name":"made_in_china_conclusion.md",
+"ext":".md",
+"bytes":2500,
+"sha256":"bcf1c7d4fd50b3e39466df4149affd5eb7ecf27d2b5058d7b87b756cb07f215a",
+"source":"Extra_Info.zip",
+"method":"text",
+"status":"ok",
+"meta":{},
+"warnings":[],
+"chars":1434,
+"text":"# Made-in-China 平台独立审核结论\n\n审核日期：2026-08-18  \n公开店铺：<https://www.made-in-china.com/showroom/saga-telecom>  \n公开产品目录：<https://www.made-in-china.com/showroom/saga-telecom/product-list/catalog-1.html>  \n会员中心：<https://membercenter.made-in-china.com/product.do?xcase=list>\n\n> 本结论只使用 Made-in-China 的公开页面证据，不引用 FindLight、EC21 或 Global Sources 的链接状态。\n\n## 访问范围\n\n- 会员中心链接会跳转到登录页面，未提供登录会话时无法审核后台草稿、隐藏产品或编辑状态。\n- 因此本报告审核的是买家实际可见的 **公开店铺和 20 个公开产品页面**。\n\n## 产品范围\n\n- 公开产品数：**20**\n- STI：**12**\n- STC：**8**\n- STH：**0**\n- 20 个产品页面均显示了明确型号，系列判断置信度为高。\n\n## 产品描述链接结论\n\n- 描述中显示 `sagatele.com` 文字：**0/20**\n- 描述中存在可点击的 Saga 官网链接：**0/20**\n- Made-in-China 公开公司主页中也没有找到 `sagatele.com` 官网文字或可点击官网链接。\n- 结论：**Made-in-China 的公开店铺主页和全部 20 个公开产品描述均没有 Saga 官网链接。**\n\n## Made-in-China 特有问题\n\n1. **6 个标题宣称 10G，但目录的 `Transmission Rate` 属性只写 `10/100/1000Mbps`**，容易造成规格冲突。\n2. **2 个产品的标题端口数与目录 `Ports` 属性不一致**：\n   - `12 Port 10g SFP+ Fiber Optic L3 Managed Switch` 的属性写 16。\n   - `8 Port 2.5g ... PoE Switch` 的属性写 16。\n3. 公开产品只有 STI 和 STC，虽然公司介绍声明拥有 STH Core & Aggregation 产品线，但公开目录中没有 STH 产品。\n4. 标题中的 `Poe`、`10g`、`1u` 等大小写不统一，建议规范为 `PoE`、`10G`、`1U`。\n5. 公开描述没有通向官网技术资料、ODM/OEM 能力或固件支持说明的入口。\n\n## Made-in-China 优化优先级\n\n1. 在每个公开产品描述中加入真实可点击的 `https://sagatele.com/` 链接。\n2. 修正 10G 产品的 Transmission Rate 属性和两个端口数冲突。\n3. 如 STH 产品可公开销售，应补充 STH 核心/汇聚产品；如不可公开，应在公司介绍中说明获取方式。\n4. 统一 PoE、10G、SFP+、1U、DIN-rail 等标题格式。\n5. 为 Made-in-China 设置独立 UTM 参数。\n6. 登录会员中心后，应另外导出后台产品清单，与本报告的 20 个公开产品核对草稿、下架和重复记录。\n",
+"extracted_at":"2026-10-23T05:02:37Z"
+}

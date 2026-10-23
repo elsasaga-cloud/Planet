@@ -1,0 +1,77 @@
+{
+"id":"Extra_Info__STH__STH计划.docx__a963b733",
+"path":"Extra_Info/STH/STH计划.docx",
+"name":"STH计划.docx",
+"ext":".docx",
+"bytes":32093,
+"sha256":"a963b733394104d97541526ebf42e5c3d6d666d1b0982d4044bdf3b0e58d9b9c",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2026-01-27T11:11:00+00:00",
+"modified":"2026-02-02T08:54:47+00:00",
+"paragraphs":10,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"chars":540,
+"text":"1G 2.5G 5G这些带网口的暂时不宣传，但是相关信息要准备好\n200G的也不宣传，性价比和Platform都不太行\nDahu Cloud也不宣传，目前似乎还不够成熟\n这几个类目在谷歌云盘中暂时不上传\n基本只宣传10G 25G XLite 100G 400G 800G\n客户基本会关注10G 25G XLite 100G\nPlease read “Price List(EXCEL)” for price information\nPlease read “Naming Rule(WORD)” to know how we name the models\nPlease read below links to know more about CENTEC Chips\nhttps://www.centec.com/silicon?category=Ethernet-Switch-Silicon\n[页眉页脚]\nSaga Telecom\nwww.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"1G 2.5G 5G这些带网口的暂时不宣传，但是相关信息要准备好"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"200G的也不宣传，性价比和Platform都不太行"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Dahu Cloud也不宣传，目前似乎还不够成熟"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这几个类目在谷歌云盘中暂时不上传"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"基本只宣传10G 25G XLite 100G 400G 800G"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"客户基本会关注10G 25G XLite 100G"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please read “Price List(EXCEL)” for price information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please read “Naming Rule(WORD)” to know how we name the models"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please read below links to know more about CENTEC Chips"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.centec.com/silicon?category=Ethernet-Switch-Silicon"
+}
+],
+"extracted_at":"2026-10-23T05:02:40Z"
+}

@@ -1,0 +1,472 @@
+{
+"id":"Extra_Info__STH__STH400G__STH400G_Series.pptx__4ba6185e",
+"path":"Extra_Info/STH/STH400G/STH400G Series.pptx",
+"name":"STH400G Series.pptx",
+"ext":".pptx",
+"bytes":581722,
+"sha256":"4ba6185eb644551d98230cd229e9ad9a93cb4077ec650aea60f847bebe58aa97",
+"source":"Extra_Info.zip",
+"method":"python-pptx",
+"status":"ok",
+"meta":{
+"slides":6,
+"pictures":3
+},
+"warnings":[],
+"chars":6200,
+"text":"[slide 1]\nSTH400G SERIES SWITCHES\nDATASHEET\nHigh Performance Data Center Switch\nProduct Overview\nThe STH400G series switches are designed on a domestic new generation switch Chip, which is called SerdesX Series Chip platform.\nWith 32/64 x 400G high speed ports and rich features, these switches will perfectly meet the requirements of Metro, Enterprise, Data Center, and Hyper converged infrastructure (HCI) networks.\nKey features of the STH400G Series Switch\nSupport MPLS features (L2/L3 VPN) to build a unified and converged network platform.\nMLAG which can build an Active-Active system to improve the reliability of the network links from single board grade to device grade.\nImplementing Vxlan and BGP protocols to build EVPN applications for data centers scenario.\nSwitch-to-switch encryption using MACsec (Media Access Control Security) AES-CMAC.\nPrecision Timing Protocol.\nRich L2/L3 features like IPv6, OSPF, BGP, PIM, etc.\nThe STH400G series switch provide redundant hot-swappable power supplies (AC and DC are both available) and 6/4 bays with Field replaceable fan modules.\nGenerally, airflow of STH400G Series is front to rear (AFO), but a customization of rear to front (AFI) airflow is also acceptable.\nTable 1: Feasible PSU and airflow of STH400G\nVersion: V1.2\nRelease Date: 2025/12/12\nItems\tAC\tDC\tAFO\tAFI\tPower Input\tFAN\nSTH-32QC-HSI\t◯\t◯\t◯\t◯\t2\t6\nSTH-64QC-HSI\t◯\t◯\t◯\t◯\t2\t4\n\n[slide 2]\nThe STH400G Series switches support varied management ways, include console port / in-band network ports / out-of-band network port. Support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, SSL, etc. to ensure security of management.\nMoreover, leveraging its profound technical expertise and in-depth understanding of campus and enterprise networking needs, Saga Telecom has launched the Da Hu Cloud Management System (DHCS).\nIt enhances network management and maintenance efficiency, reduces costs, elevates management intelligence, and delivers a faster, smarter, more secure and reliable network to better meet user requirements.\n\n[slide 3]\nVisual WEB UI\nSTOS allows you to quickly configure common configuration items using a visual WEB UI, which lowers the application threshold for users.\nTable 2: Family of the STH400G Series switches\nThe STH400G family of Ethernet switches consists of the following models\nModels\tEthernet Ports\tManagement\tPSU 1/PSU 2\tCooling\nSTH-32QC-HSI\t32 x 400G QSFP 112\tConsole: RJ45 to RS232\u000bEthernet: 1G Port\u000bStorage: USB\t1300W/1300W CRPS\t6 x Fan Modules\u000b(front-to-back airflow)\nSTH-64QC-HSI\t64 x 400G QSFP 112\tConsole: RJ45 to RS232\u000bEthernet: 1G Port\u000bStorage: USB\t3200W/3200W CRPS\t4 x Fan Modules\u000b(front-to-back airflow)\n\n[slide 4]\nSTH400G Physical Specifications\nPacket Switch capacity (Tbps)\nSTH-32QC-HSI: 25.6 Tbps (bidirectional)\nSTH-64QC-HSI: 51.2 Tbps (bidirectional)\nLayer 2/Layer 3 Throughput (Gpps)\nSTH-32QC-HSI: 38.09 Gpps (bidirectional)\nSTH-64QC-HSI: 76.18 Tbps (bidirectional)\nCPU\n4-core processor, ARM A53 (1GHz)\nMemory\neMMc: 8GB on all models\nDRAM: 4GB on all models\nWeight (Net weight/Gross weight)\nSTH-32QC-HSI: 11.5Kg/16Kg\nSTH-64QC-HSI: 20.34Kg/24Kg\nPower consumption\nWorst case, all ports used, line-rate traffic\nSTH-32QC-HSI: 383W\nSTH-64QC-HSI: TBD\nTypical power consumption\nSTH-32QC-HSI: 307W\nSTH-64QC-HSI: TBD\nDimensions (W x H x D) with package\nSTH-32QC-HSI: TBD\nSTH-64QC-HSI: TBD\nDimensions (W x H x D) without package\nSTH-32QC-HSI: 44.2 x 4.4 x 49.4cm\nSTH-64QC-HSI: 44.2 x 8.8 x 62cm\nMTBF\nSTH-32QC-HSI: ≥90000h (~10.3 Years)\nSTH-64QC-HSI: ≥90000h (~10.3 Years)\nEnvironmental ranges\nOperating temperature: 0ºC to 45ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90% (No condensation)\nStore Humidity: 5 to 95% (No condensation)\nOperating altitude: 0~5Km\nTemperature alarm\nAlarm threshold: 50ºC\nCooling [CFM] - Total maximum airflow\nSTH-32QC-HSI: 264.16\nSTH-64QC-HSI: 618.72\n\n[slide 5]\nSTH400G Software Specifications\nSaga Telecom implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘STOS Software features’ .\n* All Saga Telecom switches use a normalized software platform and image package file\n* Unified software version iteration plan\n* Unified user experience\nSTOS Network Platform\nLayer 2 switching\nIPv4/lPv6 Unicast Routing\nQoS\nIP Multicast Snooping/Proxy\nIPv4/lPv6 Multi cast Routing\nVRRP\nMultiprotocol Label Switching(MPLS)\nVirtual Private LAN Service(VPLS)\nVirtual Routing and Switching\nGeneralized Multiprotocol LabelSwitching(GMPLS)\nIPv6 Tunneling and TransitionTechnologies\nIP/MPLS OAM\nService management module\nFault Managemet (FM)\nHigh Availability (HA)\nIntegrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)\nHardware and platform abstraction layer\nAdvanced integration Suite\nCENTEC swtich chip  SDK\nSilicon in Pizza, Stacking or Chassis\nConfiguration\nOperating Systems TCP/IP Stacks\nLinux , IPv4/Pv6 Dual Stack\nHardware layer\nCENTEC Switch Chipset\nCPU Subsystem\nCooling SubSystem\nAC/DC DC/DC CLK\nEnvironmental Management Subsystem\nLogical Control Subunit\n\n[slide 6]\nOrdering Information\nSTH400G Series Switches\nAC/DC Power Supplies use for all models\nSoftware Licenses\nAccessory of STH400G\nItems\tDescription\nSTH-32QC-HSI\t400G Data Center Switch, with 32*400G QSFP112, Dual power supply modules(C13), 6 hot-swappable fan modules.\nSTH-64QC-HSI\t400G Data Center Switch, with 64*400G QSFP112, Dual power supply modules(C13), 4 hot-swappable fan modules.\nItems\tDescription\nPSU-1300-AC-AFO\t1300W AC power supply (front-to-back airflow)\nPSU-1300-DC-AFO\t1300W DC power supply (front-to-back airflow)\nPSU-3200-AC-AFO\t3200W AC power supply (front-to-back airflow)\nPSU-3200-DC-AFO\t3200W DC power supply (front-to-back airflow)\nItems\tDescription\nSoftware License\tMS, L3 enhance features software license key, Preinstalled\nSoftware License\tMA, MPLS features software license key\nSoftware License\tST, Stacking feature software license key\nItems\tFront Mounting\tRear Mounting\tRear Mounting\nExtension\tRack Rail\tM4 Screw\tPower Cord\tGround Cord\tConsole (RS232 to RJ45)\nSTH-32QC-HSI\t2\t2\t2\t2\t18\t2\t1\t1\nSTH-64QC-HSI\t2\t2\t2\t2\t18\t2\t1\t1",
+"slides":[
+{
+"n":1,
+"items":[
+{
+"t":"p",
+"text":"STH400G SERIES SWITCHES\nDATASHEET\nHigh Performance Data Center Switch"
+},
+{
+"t":"p",
+"text":"Product Overview"
+},
+{
+"t":"p",
+"text":"The STH400G series switches are designed on a domestic new generation switch Chip, which is called SerdesX Series Chip platform.\nWith 32/64 x 400G high speed ports and rich features, these switches will perfectly meet the requirements of Metro, Enterprise, Data Center, and Hyper converged infrastructure (HCI) networks."
+},
+{
+"t":"p",
+"text":"Key features of the STH400G Series Switch"
+},
+{
+"t":"p",
+"text":"Support MPLS features (L2/L3 VPN) to build a unified and converged network platform.\nMLAG which can build an Active-Active system to improve the reliability of the network links from single board grade to device grade.\nImplementing Vxlan and BGP protocols to build EVPN applications for data centers scenario.\nSwitch-to-switch encryption using MACsec (Media Access Control Security) AES-CMAC.\nPrecision Timing Protocol.\nRich L2/L3 features like IPv6, OSPF, BGP, PIM, etc."
+},
+{
+"t":"p",
+"text":"The STH400G series switch provide redundant hot-swappable power supplies (AC and DC are both available) and 6/4 bays with Field replaceable fan modules.\nGenerally, airflow of STH400G Series is front to rear (AFO), but a customization of rear to front (AFI) airflow is also acceptable."
+},
+{
+"t":"p",
+"text":"Table 1: Feasible PSU and airflow of STH400G"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"AC",
+"DC",
+"AFO",
+"AFI",
+"Power Input",
+"FAN"
+],
+[
+"STH-32QC-HSI",
+"◯",
+"◯",
+"◯",
+"◯",
+"2",
+"6"
+],
+[
+"STH-64QC-HSI",
+"◯",
+"◯",
+"◯",
+"◯",
+"2",
+"4"
+]
+]
+},
+{
+"t":"p",
+"text":"Version: V1.2\nRelease Date: 2025/12/12"
+},
+{
+"t":"picture",
+"name":"图片 5"
+}
+],
+"notes":""
+},
+{
+"n":2,
+"items":[
+{
+"t":"p",
+"text":"The STH400G Series switches support varied management ways, include console port / in-band network ports / out-of-band network port. Support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, SSL, etc. to ensure security of management.\nMoreover, leveraging its profound technical expertise and in-depth understanding of campus and enterprise networking needs, Saga Telecom has launched the Da Hu Cloud Management System (DHCS).\nIt enhances network management and maintenance efficiency, reduces costs, elevates management intelligence, and delivers a faster, smarter, more secure and reliable network to better meet user requirements."
+},
+{
+"t":"picture",
+"name":"图片 11"
+}
+],
+"notes":""
+},
+{
+"n":3,
+"items":[
+{
+"t":"p",
+"text":"Visual WEB UI"
+},
+{
+"t":"p",
+"text":"STOS allows you to quickly configure common configuration items using a visual WEB UI, which lowers the application threshold for users."
+},
+{
+"t":"p",
+"text":"Table 2: Family of the STH400G Series switches"
+},
+{
+"t":"table",
+"rows":[
+[
+"Models",
+"Ethernet Ports",
+"Management",
+"PSU 1/PSU 2",
+"Cooling"
+],
+[
+"STH-32QC-HSI",
+"32 x 400G QSFP 112",
+"Console: RJ45 to RS232\u000bEthernet: 1G Port\u000bStorage: USB",
+"1300W/1300W CRPS",
+"6 x Fan Modules\u000b(front-to-back airflow)"
+],
+[
+"STH-64QC-HSI",
+"64 x 400G QSFP 112",
+"Console: RJ45 to RS232\u000bEthernet: 1G Port\u000bStorage: USB",
+"3200W/3200W CRPS",
+"4 x Fan Modules\u000b(front-to-back airflow)"
+]
+]
+},
+{
+"t":"p",
+"text":"The STH400G family of Ethernet switches consists of the following models"
+},
+{
+"t":"picture",
+"name":"Picture 9"
+}
+],
+"notes":""
+},
+{
+"n":4,
+"items":[
+{
+"t":"p",
+"text":"STH400G Physical Specifications"
+},
+{
+"t":"p",
+"text":"Packet Switch capacity (Tbps)\nSTH-32QC-HSI: 25.6 Tbps (bidirectional)\nSTH-64QC-HSI: 51.2 Tbps (bidirectional)"
+},
+{
+"t":"p",
+"text":"Layer 2/Layer 3 Throughput (Gpps)\nSTH-32QC-HSI: 38.09 Gpps (bidirectional)\nSTH-64QC-HSI: 76.18 Tbps (bidirectional)"
+},
+{
+"t":"p",
+"text":"CPU\n4-core processor, ARM A53 (1GHz)"
+},
+{
+"t":"p",
+"text":"Memory\neMMc: 8GB on all models\nDRAM: 4GB on all models"
+},
+{
+"t":"p",
+"text":"Weight (Net weight/Gross weight)\nSTH-32QC-HSI: 11.5Kg/16Kg\nSTH-64QC-HSI: 20.34Kg/24Kg"
+},
+{
+"t":"p",
+"text":"Power consumption\nWorst case, all ports used, line-rate traffic\nSTH-32QC-HSI: 383W\nSTH-64QC-HSI: TBD\nTypical power consumption\nSTH-32QC-HSI: 307W\nSTH-64QC-HSI: TBD"
+},
+{
+"t":"p",
+"text":"Dimensions (W x H x D) with package\nSTH-32QC-HSI: TBD\nSTH-64QC-HSI: TBD\nDimensions (W x H x D) without package\nSTH-32QC-HSI: 44.2 x 4.4 x 49.4cm\nSTH-64QC-HSI: 44.2 x 8.8 x 62cm"
+},
+{
+"t":"p",
+"text":"MTBF\nSTH-32QC-HSI: ≥90000h (~10.3 Years)\nSTH-64QC-HSI: ≥90000h (~10.3 Years)"
+},
+{
+"t":"p",
+"text":"Environmental ranges\nOperating temperature: 0ºC to 45ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90% (No condensation)\nStore Humidity: 5 to 95% (No condensation)\nOperating altitude: 0~5Km"
+},
+{
+"t":"p",
+"text":"Temperature alarm\nAlarm threshold: 50ºC"
+},
+{
+"t":"p",
+"text":"Cooling [CFM] - Total maximum airflow\nSTH-32QC-HSI: 264.16\nSTH-64QC-HSI: 618.72"
+}
+],
+"notes":""
+},
+{
+"n":5,
+"items":[
+{
+"t":"p",
+"text":"STH400G Software Specifications\nSaga Telecom implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘STOS Software features’ ."
+},
+{
+"t":"p",
+"text":"* All Saga Telecom switches use a normalized software platform and image package file\n* Unified software version iteration plan\n* Unified user experience"
+},
+{
+"t":"p",
+"text":"STOS Network Platform"
+},
+{
+"t":"p",
+"text":"Layer 2 switching"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Unicast Routing"
+},
+{
+"t":"p",
+"text":"QoS"
+},
+{
+"t":"p",
+"text":"IP Multicast Snooping/Proxy"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Multi cast Routing"
+},
+{
+"t":"p",
+"text":"VRRP"
+},
+{
+"t":"p",
+"text":"Multiprotocol Label Switching(MPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Private LAN Service(VPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Routing and Switching"
+},
+{
+"t":"p",
+"text":"Generalized Multiprotocol LabelSwitching(GMPLS)"
+},
+{
+"t":"p",
+"text":"IPv6 Tunneling and TransitionTechnologies"
+},
+{
+"t":"p",
+"text":"IP/MPLS OAM"
+},
+{
+"t":"p",
+"text":"Service management module"
+},
+{
+"t":"p",
+"text":"Fault Managemet (FM)"
+},
+{
+"t":"p",
+"text":"High Availability (HA)"
+},
+{
+"t":"p",
+"text":"Integrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)"
+},
+{
+"t":"p",
+"text":"Hardware and platform abstraction layer"
+},
+{
+"t":"p",
+"text":"Advanced integration Suite"
+},
+{
+"t":"p",
+"text":"CENTEC swtich chip  SDK"
+},
+{
+"t":"p",
+"text":"Silicon in Pizza, Stacking or Chassis\nConfiguration"
+},
+{
+"t":"p",
+"text":"Operating Systems TCP/IP Stacks"
+},
+{
+"t":"p",
+"text":"Linux , IPv4/Pv6 Dual Stack"
+},
+{
+"t":"p",
+"text":"Hardware layer"
+},
+{
+"t":"p",
+"text":"CENTEC Switch Chipset"
+},
+{
+"t":"p",
+"text":"CPU Subsystem"
+},
+{
+"t":"p",
+"text":"Cooling SubSystem"
+},
+{
+"t":"p",
+"text":"AC/DC DC/DC CLK"
+},
+{
+"t":"p",
+"text":"Environmental Management Subsystem"
+},
+{
+"t":"p",
+"text":"Logical Control Subunit"
+}
+],
+"notes":""
+},
+{
+"n":6,
+"items":[
+{
+"t":"p",
+"text":"Ordering Information\nSTH400G Series Switches"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"STH-32QC-HSI",
+"400G Data Center Switch, with 32*400G QSFP112, Dual power supply modules(C13), 6 hot-swappable fan modules."
+],
+[
+"STH-64QC-HSI",
+"400G Data Center Switch, with 64*400G QSFP112, Dual power supply modules(C13), 4 hot-swappable fan modules."
+]
+]
+},
+{
+"t":"p",
+"text":"AC/DC Power Supplies use for all models"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"PSU-1300-AC-AFO",
+"1300W AC power supply (front-to-back airflow)"
+],
+[
+"PSU-1300-DC-AFO",
+"1300W DC power supply (front-to-back airflow)"
+],
+[
+"PSU-3200-AC-AFO",
+"3200W AC power supply (front-to-back airflow)"
+],
+[
+"PSU-3200-DC-AFO",
+"3200W DC power supply (front-to-back airflow)"
+]
+]
+},
+{
+"t":"p",
+"text":"Software Licenses"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"Software License",
+"MS, L3 enhance features software license key, Preinstalled"
+],
+[
+"Software License",
+"MA, MPLS features software license key"
+],
+[
+"Software License",
+"ST, Stacking feature software license key"
+]
+]
+},
+{
+"t":"p",
+"text":"Accessory of STH400G"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Front Mounting",
+"Rear Mounting",
+"Rear Mounting\nExtension",
+"Rack Rail",
+"M4 Screw",
+"Power Cord",
+"Ground Cord",
+"Console (RS232 to RJ45)"
+],
+[
+"STH-32QC-HSI",
+"2",
+"2",
+"2",
+"2",
+"18",
+"2",
+"1",
+"1"
+],
+[
+"STH-64QC-HSI",
+"2",
+"2",
+"2",
+"2",
+"18",
+"2",
+"1",
+"1"
+]
+]
+}
+],
+"notes":""
+}
+],
+"extracted_at":"2026-10-23T05:04:56Z"
+}

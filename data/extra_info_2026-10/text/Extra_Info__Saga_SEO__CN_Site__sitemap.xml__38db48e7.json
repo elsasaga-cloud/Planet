@@ -1,0 +1,16 @@
+{
+"id":"Extra_Info__Saga_SEO__CN_Site__sitemap.xml__38db48e7",
+"path":"Extra_Info/Saga SEO/CN Site/sitemap.xml",
+"name":"sitemap.xml",
+"ext":".xml",
+"bytes":273,
+"sha256":"38db48e787781184eaad16ac87cce9be86a32f3d868b382e27c1544caffc2968",
+"source":"Extra_Info.zip",
+"method":"text",
+"status":"ok",
+"meta":{},
+"warnings":[],
+"chars":273,
+"text":"<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n  <url>\n    <loc>https://www.sagatelecom.com.cn/</loc>\n    <lastmod>2026-08-22</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>1.0</priority>\n  </url>\n</urlset>\n",
+"extracted_at":"2026-10-23T05:02:17Z"
+}

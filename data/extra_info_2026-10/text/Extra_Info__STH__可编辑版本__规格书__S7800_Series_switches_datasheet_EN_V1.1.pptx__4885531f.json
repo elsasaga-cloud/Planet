@@ -1,0 +1,444 @@
+{
+"id":"Extra_Info__STH__可编辑版本__规格书__S7800_Series_switches_datasheet_EN_V1.1.pptx__4885531f",
+"path":"Extra_Info/STH/可编辑版本/规格书/S7800 Series switches datasheet_EN_V1.1.pptx",
+"name":"S7800 Series switches datasheet_EN_V1.1.pptx",
+"ext":".pptx",
+"bytes":15829381,
+"sha256":"4885531f5ef88dfcdf201bea4ac604df632f0038655e8e3c6cc5631228731330",
+"source":"Extra_Info.zip",
+"method":"python-pptx",
+"status":"ok",
+"meta":{
+"slides":7,
+"pictures":5
+},
+"warnings":[],
+"chars":5609,
+"text":"[slide 1]\nS7800 SERIES SWITCHES\nDATASHEET\nHigh Performance Data Center Switch\nProduct Overview\nThe S7800 Series switches designed on a domestic new generation switch Chip, which called PeakNetX Series Chip platform. With 32 x 100G high speed ports and rich features, these switches will perfectly meets the requirements of Metro, Enterprise, Data Center, and Hyper converged infrastructure (HCI) networks.\nKey features of the S7800 Series Switches\nMPLS (label-switching-based) integrates IP flexibility and connection-oriented reliability, enabling isolated multi-service bearing, precise traffic scheduling to meet multi-scenario efficient needs.\nMLAG which can build an Active-Active system to improve the reliability of the network links from single board grade to device grade.\nImplementing Vxlan and BGP protocols to build EVPN applications for data centers scenario.\nSwitch-to-switch encryption using MACsec (Media Access Control Security) AES-CMAC.\nPrecision Timing Protocol.\nRich L2/L3 features like IPv6, OSPF, BGP, PIM, etc.\nThe S7800 Series switches provide redundant hot-swappable power supplies (AC and DC are both available) and two bays with Field replaceable fan modules. Generally, airflow of S7800 Series is front to rear (AFO), and some of models can do customization of rear to front (AFI) airflow.\nVersion:V1.1\nRelease Date:2025/12/29\n\n[slide 2]\nThe S7800 Series switches support varied management ways, include console port / in-band network ports / out-of-band network port. Support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, SSL, etc. to ensure security of management.\nMoreover, leveraging its profound technical expertise and in-depth understanding of campus and enterprise networking needs, Hohunet has launched the Da Hu Cloud Management System (DHCS). It enhances network management and maintenance efficiency, reduces costs, elevates management intelligence, and delivers a faster, smarter, more secure and reliable network to better meet user requirements.\nVisual WEB GUI\nHOS allows you to quickly configure common configuration items using a visual WEB GUI, which lowers the application threshold for users.\nTable 1: Feasible PSU and airflow of S7800 Series\nItems\tAC\tDC\tAFO\tAFI\tPower Input\tFAN\nS7832Z-EI\t◯\t◯\t◯\t◯\t2\t4\n\n[slide 3]\nTable 2: Family of the S7800 Series switches\nThe S7800 family of Ethernet switches consists of the following models\nModels\tEthernet Ports\tManagement\tPSU 1/PSU 2\tCooling\nS7832Z-EI\t32 x 100G QSFP 28\tConsole: RJ45 to RS232\u000bEthernet: 1G Port\u000bStorage: USB\t550W / 550W CRPS\t4 x Fan Modules\u000b(front-to-back airflow)\n\n[slide 4]\nS7800 Physical Specifications\nPacket Switch capacity (Tbps)\nS7832Z-EI: 6.4 Tbps (bidirectional)\nLayer 2/Layer 3 Throughput (Gpps)\nS7832Z-EI: 9.52 Gpps (bidirectional)\nCPU\nDual-core processor, ARM A53(1.6GHz)\non all models\nMemory\neMMc: 8GB on all models\nWeight (Net weight/Gross weight)\nS7832Z-EI: 9.2 kg/11kg\nPower consumption\nWorst case, all ports used, line-rate traffic\nS7832Z-EI: 189W\nTypical power consumption\nS7832Z-EI: 180.4W\nDimensions (W x H x D) with package\nS7832Z-EI: 66.5x 15 x 56.5cm\nDimensions (W x H x D) without package\nS7832Z-EI: 44.2x 4.4 x 42cm\nEnvironmental ranges\nOperating temperature: 0ºC to 45ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90% (No condensation)\nStore Humidity: 5 to 95% (No condensation)\nOperating altitude:\nS7832Z-EI: 0~5km\nMTBF\nS7832Z-EI: ≥90000h (~10.3 Years)\nTemperature alarm\nAlarm threshold: 50ºC\nCooling [CFM] - Total maximum airflow\nS78532Z-EI: 101.96\n\n[slide 5]\nS7800 Software Specifications\nHOHUNET implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘HOS Software features’ .\n* All HOHUNET switches use a normalized software platform and image package file\n* Unified software version iteration plan\n* Unified user experience\nHOS Network Platform\nLayer 2 switching\nIPv4/lPv6 Unicast Routing\nQoS\nIP Multicast Snooping/Proxy\nIPv4/lPv6 Multi cast Routing\nVRRP\nMultiprotocol Label Switching(MPLS)\nVirtual Private LAN Service(VPLS)\nVirtual Routing and Switching\nGeneralized Multiprotocol LabelSwitching(GMPLS)\nIPv6 Tunneling and TransitionTechnologies\nIP/MPLS OAM\nService management module\nFault Managemet (FM)\nHigh Availability (HA)\nIntegrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)\nHardware and platform abstraction layer\nAdvanced integration Suite\nCENTEC swtich chip  SDK\nSilicon in Pizza, Stacking or Chassis\nConfiguration\nOperating Systems TCP/IP Stacks\nLinux , IPv4/Pv6 Dual Stack\nHardware layer\nCENTEC Switch Chipset\nCPU Subsystem\nCooling SubSystem\nAC/DC DC/DC CLK\nEnvironmental Management Subsystem\nLogical Control Subunit\n\n[slide 6]\nOrdering Information\nS7800 Series Switches\nAC/DC Power Supplies use for all models\nSoftware Licenses\nAccessory of S7800 Series\nItems\tDescription\nS7832Z-EI\t100G Data Center Switch, with 32*100G QSFP28, Dual Power Supply Modules(C13), 4 hot-swappable Fan modules.\nItems\tDescription\nPSU-550-AC-AFO\tS7800 Series 550W AC power supply (front-to-back airflow)\nInput: 100–240V AC; Output: 12V DC\nPSU-550-DC-AFO\tS7800 Series 550W DC power supply (front-to-back airflow)\nInput: 48V DC; Output: 48V DC\nItems\tDescription\nSoftware License\tMS, L3 enhance features software license key, Preinstalled\nSoftware License\tMA, MPLS features software license key\nSoftware License\tST, Stacking feature software license key\nItems\tFront Mounting\tRear Mounting\tScrew\tPower Cord\tConsole (RS232 to RJ45)\nS7832Z-EI:\t2\t2\t14\t2\t1\n\n[slide 7]\n",
+"slides":[
+{
+"n":1,
+"items":[
+{
+"t":"p",
+"text":"S7800 SERIES SWITCHES\nDATASHEET"
+},
+{
+"t":"p",
+"text":"High Performance Data Center Switch"
+},
+{
+"t":"p",
+"text":"Product Overview"
+},
+{
+"t":"p",
+"text":"The S7800 Series switches designed on a domestic new generation switch Chip, which called PeakNetX Series Chip platform. With 32 x 100G high speed ports and rich features, these switches will perfectly meets the requirements of Metro, Enterprise, Data Center, and Hyper converged infrastructure (HCI) networks."
+},
+{
+"t":"p",
+"text":"Key features of the S7800 Series Switches"
+},
+{
+"t":"p",
+"text":"MPLS (label-switching-based) integrates IP flexibility and connection-oriented reliability, enabling isolated multi-service bearing, precise traffic scheduling to meet multi-scenario efficient needs.\nMLAG which can build an Active-Active system to improve the reliability of the network links from single board grade to device grade.\nImplementing Vxlan and BGP protocols to build EVPN applications for data centers scenario.\nSwitch-to-switch encryption using MACsec (Media Access Control Security) AES-CMAC.\nPrecision Timing Protocol.\nRich L2/L3 features like IPv6, OSPF, BGP, PIM, etc."
+},
+{
+"t":"p",
+"text":"The S7800 Series switches provide redundant hot-swappable power supplies (AC and DC are both available) and two bays with Field replaceable fan modules. Generally, airflow of S7800 Series is front to rear (AFO), and some of models can do customization of rear to front (AFI) airflow."
+},
+{
+"t":"picture",
+"name":"图片 12"
+},
+{
+"t":"p",
+"text":"Version:V1.1\nRelease Date:2025/12/29"
+}
+],
+"notes":""
+},
+{
+"n":2,
+"items":[
+{
+"t":"picture",
+"name":"图片 7"
+},
+{
+"t":"p",
+"text":"The S7800 Series switches support varied management ways, include console port / in-band network ports / out-of-band network port. Support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, SSL, etc. to ensure security of management.\nMoreover, leveraging its profound technical expertise and in-depth understanding of campus and enterprise networking needs, Hohunet has launched the Da Hu Cloud Management System (DHCS). It enhances network management and maintenance efficiency, reduces costs, elevates management intelligence, and delivers a faster, smarter, more secure and reliable network to better meet user requirements."
+},
+{
+"t":"picture",
+"name":"图片 14"
+},
+{
+"t":"p",
+"text":"Visual WEB GUI"
+},
+{
+"t":"p",
+"text":"HOS allows you to quickly configure common configuration items using a visual WEB GUI, which lowers the application threshold for users."
+},
+{
+"t":"p",
+"text":"Table 1: Feasible PSU and airflow of S7800 Series"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"AC",
+"DC",
+"AFO",
+"AFI",
+"Power Input",
+"FAN"
+],
+[
+"S7832Z-EI",
+"◯",
+"◯",
+"◯",
+"◯",
+"2",
+"4"
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":3,
+"items":[
+{
+"t":"picture",
+"name":"图片 6"
+},
+{
+"t":"picture",
+"name":"图片 7"
+},
+{
+"t":"p",
+"text":"Table 2: Family of the S7800 Series switches"
+},
+{
+"t":"table",
+"rows":[
+[
+"Models",
+"Ethernet Ports",
+"Management",
+"PSU 1/PSU 2",
+"Cooling"
+],
+[
+"S7832Z-EI",
+"32 x 100G QSFP 28",
+"Console: RJ45 to RS232\u000bEthernet: 1G Port\u000bStorage: USB",
+"550W / 550W CRPS",
+"4 x Fan Modules\u000b(front-to-back airflow)"
+]
+]
+},
+{
+"t":"p",
+"text":"The S7800 family of Ethernet switches consists of the following models"
+}
+],
+"notes":""
+},
+{
+"n":4,
+"items":[
+{
+"t":"p",
+"text":"S7800 Physical Specifications"
+},
+{
+"t":"p",
+"text":"Packet Switch capacity (Tbps)\nS7832Z-EI: 6.4 Tbps (bidirectional)"
+},
+{
+"t":"p",
+"text":"Layer 2/Layer 3 Throughput (Gpps)\nS7832Z-EI: 9.52 Gpps (bidirectional)"
+},
+{
+"t":"p",
+"text":"CPU\nDual-core processor, ARM A53(1.6GHz)\non all models"
+},
+{
+"t":"p",
+"text":"Memory\neMMc: 8GB on all models"
+},
+{
+"t":"p",
+"text":"Weight (Net weight/Gross weight)\nS7832Z-EI: 9.2 kg/11kg"
+},
+{
+"t":"p",
+"text":"Power consumption\nWorst case, all ports used, line-rate traffic\nS7832Z-EI: 189W\nTypical power consumption\nS7832Z-EI: 180.4W"
+},
+{
+"t":"p",
+"text":"Dimensions (W x H x D) with package\nS7832Z-EI: 66.5x 15 x 56.5cm\nDimensions (W x H x D) without package\nS7832Z-EI: 44.2x 4.4 x 42cm"
+},
+{
+"t":"p",
+"text":"Environmental ranges\nOperating temperature: 0ºC to 45ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90% (No condensation)\nStore Humidity: 5 to 95% (No condensation)\nOperating altitude:\nS7832Z-EI: 0~5km"
+},
+{
+"t":"p",
+"text":"MTBF\nS7832Z-EI: ≥90000h (~10.3 Years)"
+},
+{
+"t":"p",
+"text":"Temperature alarm\nAlarm threshold: 50ºC"
+},
+{
+"t":"p",
+"text":"Cooling [CFM] - Total maximum airflow\nS78532Z-EI: 101.96"
+}
+],
+"notes":""
+},
+{
+"n":5,
+"items":[
+{
+"t":"p",
+"text":"S7800 Software Specifications\nHOHUNET implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘HOS Software features’ ."
+},
+{
+"t":"p",
+"text":"* All HOHUNET switches use a normalized software platform and image package file\n* Unified software version iteration plan\n* Unified user experience"
+},
+{
+"t":"p",
+"text":"HOS Network Platform"
+},
+{
+"t":"p",
+"text":"Layer 2 switching"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Unicast Routing"
+},
+{
+"t":"p",
+"text":"QoS"
+},
+{
+"t":"p",
+"text":"IP Multicast Snooping/Proxy"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Multi cast Routing"
+},
+{
+"t":"p",
+"text":"VRRP"
+},
+{
+"t":"p",
+"text":"Multiprotocol Label Switching(MPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Private LAN Service(VPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Routing and Switching"
+},
+{
+"t":"p",
+"text":"Generalized Multiprotocol LabelSwitching(GMPLS)"
+},
+{
+"t":"p",
+"text":"IPv6 Tunneling and TransitionTechnologies"
+},
+{
+"t":"p",
+"text":"IP/MPLS OAM"
+},
+{
+"t":"p",
+"text":"Service management module"
+},
+{
+"t":"p",
+"text":"Fault Managemet (FM)"
+},
+{
+"t":"p",
+"text":"High Availability (HA)"
+},
+{
+"t":"p",
+"text":"Integrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)"
+},
+{
+"t":"p",
+"text":"Hardware and platform abstraction layer"
+},
+{
+"t":"p",
+"text":"Advanced integration Suite"
+},
+{
+"t":"p",
+"text":"CENTEC swtich chip  SDK"
+},
+{
+"t":"p",
+"text":"Silicon in Pizza, Stacking or Chassis\nConfiguration"
+},
+{
+"t":"p",
+"text":"Operating Systems TCP/IP Stacks"
+},
+{
+"t":"p",
+"text":"Linux , IPv4/Pv6 Dual Stack"
+},
+{
+"t":"p",
+"text":"Hardware layer"
+},
+{
+"t":"p",
+"text":"CENTEC Switch Chipset"
+},
+{
+"t":"p",
+"text":"CPU Subsystem"
+},
+{
+"t":"p",
+"text":"Cooling SubSystem"
+},
+{
+"t":"p",
+"text":"AC/DC DC/DC CLK"
+},
+{
+"t":"p",
+"text":"Environmental Management Subsystem"
+},
+{
+"t":"p",
+"text":"Logical Control Subunit"
+}
+],
+"notes":""
+},
+{
+"n":6,
+"items":[
+{
+"t":"p",
+"text":"Ordering Information\nS7800 Series Switches"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"S7832Z-EI",
+"100G Data Center Switch, with 32*100G QSFP28, Dual Power Supply Modules(C13), 4 hot-swappable Fan modules."
+]
+]
+},
+{
+"t":"p",
+"text":"AC/DC Power Supplies use for all models"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"PSU-550-AC-AFO",
+"S7800 Series 550W AC power supply (front-to-back airflow)\nInput: 100–240V AC; Output: 12V DC"
+],
+[
+"PSU-550-DC-AFO",
+"S7800 Series 550W DC power supply (front-to-back airflow)\nInput: 48V DC; Output: 48V DC"
+]
+]
+},
+{
+"t":"p",
+"text":"Software Licenses"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"Software License",
+"MS, L3 enhance features software license key, Preinstalled"
+],
+[
+"Software License",
+"MA, MPLS features software license key"
+],
+[
+"Software License",
+"ST, Stacking feature software license key"
+]
+]
+},
+{
+"t":"p",
+"text":"Accessory of S7800 Series"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Front Mounting",
+"Rear Mounting",
+"Screw",
+"Power Cord",
+"Console (RS232 to RJ45)"
+],
+[
+"S7832Z-EI:",
+"2",
+"2",
+"14",
+"2",
+"1"
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":7,
+"items":[],
+"notes":""
+}
+],
+"extracted_at":"2026-10-23T05:04:28Z"
+}

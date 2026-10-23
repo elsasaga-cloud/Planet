@@ -1,0 +1,2230 @@
+{
+"id":"Extra_Info__STH__可编辑版本__HOHUNET公司介绍2026-V1.0.1.pptx__7a2fcf1d",
+"path":"Extra_Info/STH/可编辑版本/HOHUNET公司介绍2026-V1.0.1.pptx",
+"name":"HOHUNET公司介绍2026-V1.0.1.pptx",
+"ext":".pptx",
+"bytes":148057603,
+"sha256":"7a2fcf1d072dc47c5b95ddfb1c9fa186c910a831a56fa9abc6f60607c2b721a3",
+"source":"Extra_Info.zip",
+"method":"python-pptx",
+"status":"ok",
+"meta":{
+"slides":19,
+"pictures":78
+},
+"warnings":[],
+"chars":17731,
+"text":"[slide 1]\n2026 v1\nHOHUNET公司简介\u000bHOHUNET INTRODUCTION\nFor Better Networking !\n\n[slide 2]\nHOHUNET概览\nOverview of HOHUNET\n2015年注册成立  总部位于深圳，并在成都设立了分公司。 公司的 2/3为研发技术人员，且多为资深技术研发人员，主要技术人员来自于 HUAWEI/ LENOVO/ ADVA\nRegistered in 2015, the company is headquartered in Shenzhen and has set up a branch in Chengdu. Two-thirds of our staff are R&D technicians, and most of them are senior R&D personnel, and the main technical personnel are from HUAWEI, LENOVO, ADVA.\n专注于基于国产芯片的以太网交换机研发与销售，为客户提供从单端口1G到800G速率以太网交换机\nFocusing on the development and sales of Ethernet switches based on domestic chips, the company provides customers with Ethernet switches ranging from 1G to 800G.\n自研三层网络操作系统HOS  应用于AI智算/数据中心/运营商/企业/园区/SMB网络/电竞网络\nOur Self-developed Layer3 network operating system HOS is applied to AI computing, data center, the operator’s network, the enterprise’s network, the Campus’s  network, the SMB network and the E-sports network.\n产品用户分部在全球   海外业务营收占比超50%   业务模式灵活多样 OEM/ODM/SKD/CKD\nOur Products users are all over the world. Overseas business revenue accounts for more than 50%, and our flexible business model includes OEM, ODM, SKD, and CKD.\n在中国.东莞/海宁，菲律宾.拉古那 有先进制造伙伴  与业内头部厂商使用相同生产线（HUAWEI/HPE/H3C)    相同的生产工艺相同的质量管控相同的物料体系\nWe have established partnerships with advanced manufacturing entities in Dongguan and Haining, China, as well as in Laguna, Philippines.  In production, we adopt the same production lines,  production process, quality control systems and material systems as those of renowned industry leaders such as HUAWEI, HPE and H3C.\n\n[slide 3]\n注册成立，并基于国产芯片研发与销售电子竞技网络通信设备\nIt has been registered, and has engaged in the research, development equipments based on domestic chips.\n2015\n成为中国电子竞技网络行业出货量第一的团队\nHas become the team with the highest shipment volume in Chinese E-sports network  industry.\n2016\n2017\n2018\n推出第一款数据中心TOR交换产品\nLaunched the first data center TOR switching product.\n数据中心TOR产品被欧洲/美国客户广泛使用\nThe data center TOR products have been widely used by customers in Europe and the United States.\n完成主要元器件的国产化替代\nCompleted the localized replacement of major components.\n多速率及POE++产品系列批量出货，形成独特的竞争优势\nThe multi-gigabit and POE++ products have been shipped in batches.A unique competitive edge has been formed.\n2019\n100G/25G产品批量上市销售\nThe 100G/25G products have launched.\n推出苹果IOS设备有限接入与充电设备（全球首创）\nHad launched the world's first limited-access and charging device for Apple iOS devices.\n聚焦数据中心 25G/100G产品研发\nHave focued on the research and development of 25G/100G products for data centers.\n200G/400G/800G产品研发\nHas invested in the research and development of 200G/400G/800G products\n2020\n2021\n2022\n2023\n2024\n2025\n200G/400G/800G产品上市，并进一步补齐高端产品线。\nHas launched 200G/400G/800G productson into market, and the extra high-end product line has been supplemented.\nHOHUNET 11年沿革\nHOHUNET 11 Years of History\n2026\n新1G接入产品上市，补齐低端产品线，实现1G到800G统一软件平台全覆盖。\nNew 1G access product will be launched to fill the low-end gap,  The unified HOS software platform will cover the range of 1G-800G.\n\n[slide 4]\nHOHUNET 研发能力\nHOHUNET R&D Team\n硬件研发团队\nHardware R&D\n基于国产ASIC芯片进行自主设计。\n热仿真及散热技术创新。\n低功耗系统设计全面应用。\n400G/800G高密度产品设计。\n112G PAM4高速率信号设计及仿真。\n40+ 层 HDI PCB 设计及相关工程经验。\n超过60+款交换机的高质量交付。\nIndependently design with domestic ASIC chips.\nInnovate in thermal sim & heat dissipation tech.\nFully implement low - power system design.\nDesign 400G/800G high - density products.\nDesign & simulate 112G PAM4 high-speed signals.\nHave 40+ layer HDI PCB design & relevant exp.\nDeliver high-quality hardware for  over 60 switch models\n软件研发团队\nSoftware R&D\n团队成员平均拥10年以上的交换机产品工作经验\n涵盖kernel、bsp、driver、mac芯片驱动、业务协议等模块\n对网络协议栈深度理解\n具备分布式系统设计能力（堆叠，SDN）\n前瞻性的技术输出\nThe team members have an average of over 10 years of working experience in switch products.\nCovering modules such as kernel, BSP (Board Support Package), driver, MAC chip driver, and business protocols.\nThey have a deep understanding of the network protocol stack, possess the ability to design distributed systems (stacking, SDN).\nProvide forward-looking technical outputs.\n测试及技术支持团队\nVerification and Technical Support\n十余年测试用例积累，全协议栈测试覆盖良好。\n资深测试工程师组建专业团队，可构建复杂组网测试，保障测试深度。\n自研自动化测试平台，测试高效。\n配备专业测试仪器设备，极限性能测试结论可靠。\n完善的缺陷跟踪管理系统。\nDecades of test script accumulation ensures full protocol stack coverage.\nSenior engineers form a professional team for complex network tests, ensuring depth.\nOur self-developed auto-test platform enables high-efficiency.\nProfessional equipment guarantees reliable extreme-performance test results.\nA perfect defect-tracking system is in place.\n\n[slide 5]\nHOHUNET 专利和证书\nHOHUNET Patents and Certificates\n企业资质认定\nEnterprise Qualification\n质量管理体系\nQuality Management System\n专利\nPatents\n软件著作权\nSoftware Copyright\n行业证书\nCE/FCC\n盛科的认证\nCentec Qualification\n\n[slide 6]\n得益于与合作伙伴的商业合作，HOHUNET的产品服务于分布在全球主要经济体的最终用户，我们仍旧不断在全球开拓新的合作伙伴，为更多最终用户提供优质的产品与服务。\nThanks to business cooperation with partners, HOHUNET's products serve end-users in major global economies. We're constantly seeking new partners worldwide to offer better products and services to more end-users.\nHOHUNET 客户分布及商业模式\nHOHUNET’s Customers and Business Mode\n整机供应\nWhole Assembled\n• OEM\n• ODM\n部件供应\nParts Delivery\n• SKD\n• CKD\n$\n$\n$\n$\n$\n$\n$\n我们帮助客户快速建立从低速到高速，软件管理风格归一化的交换机产品线，从而增强品牌竞争优势。\n根据客户的需求，我们灵活的提供OEM、ODM的整机，或者SKD、CKD这两种部件级的供应方式。\nWe offer flexible cooperation mode, which includes OEM/ODM as well as SKD and CKD to help customers establish competitive advantage,\n\n[slide 7]\nHOS Network Platform\nLayer 2 switching\nIPv4/lPv6 Unicast Routing\nQoS\nIP Multicast Snooping/Proxy\nIPv4/lPv6 Multi cast Routing\nVRRP\nMultiprotocol Label Switching(MPLS)\nVirtual Private LAN Service(VPLS)\nVirtual Routing and Switching\nGeneralized Multi protocol Label Switching(GMPLS)\nIPv6 Tunneling and TransitionTechnologies\nIP/MPLS OAM\nService management module\nFault Managemet (FM)\nHigh Availability (HA)\nIntegrated Management Interface (CLl, SNMP, WEB, RMON, RPC-API,  Netconf,etc)\nHardware and platform abstraction layer\nAdvanced integration Suite\nCENTEC swtich chip  SDK\nSilicon in Pizza, Stacking or Chassis\nConfiguration\nOperating Systems TCP/IP Stacks\nLinux , IPv4/Pv6 Dual Stack\nHardware layer\nCENTEC Switch Chipset\nCPU Subsystem\nCooling SubSystem\nAC/DC DC/DC CLK\nEnvironmental Management Subsystem\nLogical Control Subunit\nHOHUNET 的软件平台架构概览\nHOHUNET Operate System overview\nHOS 经历了10年以上持续的升级迭代。\n10+ years of development  and continuous iteration  and upgrade.\nHOS在广泛的商业，政府和运营商网络中得到验证。\nVerifying within a wide-ranging, live commercial, Government or ISP networks.\n功能模块化，可移植性，可裁剪性强\nThe functions are modularized, and it has strong portability and high tailor ability.\nHOS 采用归一化的软件平台，各型号交换机沿用同一套软件，统一管理风格。\nHOS is a Unified Operate System. Each switches use the one set of software,\nensuring a unified management style.\n\n[slide 8]\nHOHUNET 的云管理平台\nHOHUNET Cloud Center\n自主开发的云平台管理系统，帮助客户简化设备管理，比如：自动生成拓扑功能。\nThe self-developed cloud platform management system helps customers simplify device management. For example, automatically generates topologies.\n通过加密隧道进行设备配置，安全又高效\nDevice configuration is carried out through an encrypted tunnel, which is both secure and efficient.\n可授权技术人员进行远程接入，提高技术支持的效率。技术支持完毕后关闭授权，保证安全性。\nTechnicians can be authorized for remote access to improve the efficiency of technical support. After the technical support is completed, the authorization will be closed to ensure security.\n\n[slide 9]\n交换芯片概览\nOverview of Ethernet Switch Chips\nCENTEC\u000bTM.BX\nCENTEC\u000bTM.DX\nCENTEC\u000bTsing MA\nCENTEC\u000bTM.GX\nCENTEC\u000bTM.MX\nLightLink\nSwiftLink\nVastLakes\nBigFlow\nPeakNetX\nCENTEC\u000bTM.AX\nSimpleLlink\nTM.BX\tCTC5220\nBandwidth\t120G bps/64B\nSERDES\t12*10G\nSOC\t4*CORE RISC-V\u000b1.2GHz\nMAC\t48K/64K\nKey Feature\tLayer3/MPLS/VXLAN\nTM.BX\tCTC5210\nBandwidth\t84G bps/64B\nSERDES\t10*10G + 2*SGMII\nSOC\t4*CORE RISC-V\u000b1.2GHz\nMAC\t48K/64K\nKey Feature\tLayer3/MPLS/VXLAN\nTM.DX\tCTC5260\nBandwidth\t300G bps/128B\nSERDES\t16*25G\nSOC\t4*CORE RISC-V\u000b1.4GHz\nMAC\t48K/64K\nKey Feature\tLayer3/MPLS/VXLAN/TSN\nTM.DX\tCTC5230\nBandwidth\t160G bps/64B\nSERDES\t10*25G + 2*10G\nSOC\t4*CORE RISC-V\u000b1.4GHz\nMAC\t48K/64K\nKey Feature\tLayer3/MPLS/VXLAN/TSN\nTsing MA\tCTC7132\nBandwidth\t440G bps\nSERDES\t24*12.G+8*25G\nSOC\t2*CORE ARM A53\nMAC\t12K\nKey Feature\tLayer3/MPLS/VXLAN\nTsing MA\tCTC5118\nBandwidth\t180G bps\nSERDES\t18*12.5G\nSOC\t2*CORE ARM A53\nMAC\t12K\nKey Feature\tLayer3/MPLS/VXLAN\nTM.GX\tCTC8120\nBandwidth\t2.0T bps\nSERDES\t80*25G\nCPU\tExternal extension\nMAC\t48K\nKey Feature\tLayer3/MPLS/VXLAN\nTM.GX\tCTC8126\nBandwidth\t1.5T bps\nSERDES\t60*25G\nCPU\tExternal extension\nMAC\t48K\nKey Feature\tLayer3/MPLS/VXLAN\nTM.GX\tCTC8128\nBandwidth\t1.08T bps\nSERDES\t28*10G+32*25G\nCPU\tExternal extension\nMAC\t48K\nKey Feature\tLayer3/MPLS/VXLAN\nTM.GX\tCTC8148\nBandwidth\t1.28T bps\nSERDES\t48*10G+32*25G\nCPU\tExternal extension\nMAC\t48K\nKey Feature\tLayer3/MPLS/VXLAN\nTM.MX\tCTC8180\nBandwidth\t2.4T bps\nSERDES\t96*56G\nCPU\tExternal extension\nMAC\t124K\nKey Feature\tLayer3/MPLS/VXLAN\nTM.MX\tCTC8182\nBandwidth\t2T bps\nSERDES\t80*28G\nCPU\tExternal extension\nMAC\t124K\nKey Feature\tLayer3/MPLS/VXLAN/\nTM. AX\tCTC2118\nBandwidth\t28G bps\nSERDES\t28*1G\nCPU\t200M MCU\nMAC\t8K\nKey Feature\tLayer2\n\n[slide 10]\n交换芯片概览\nOverview of Ethernet Switch Chips\nCENTEC\u000bTM.M3\nCENTEC\u000bTM.M12\nPowerlink\nExtremeLink\nCENTEC\u000bArctic\nSerdesX\nTM.M3\tCTC8290\nBandwidth\t6.4T\nSERDES\t128*56G\nCPU\tExternal extension\nMAC\t128K\nKey Feature\tLayer3/MPLS/VXLAN/TSN\nTM.M12\tM12\nBandwidth\t51.2T\nSERDES\t512 * 112\nCPU\tExternal extension\nMAC\t256K\nKey Feature\tLayer3/MPLS/VXLAN\nArctic\tCTC9260\nBandwidth\t12.8T bps\nSERDES\t128*112G\nCPU\tExternal extension\nMAC\t48K/64K\nKey Feature\tLayer3/MPLS/VXLAN\nArctic\tCTC9262\nBandwidth\t8.4T BPS\nSERDES\t144*56G\nCPU\tExternal extension\nMAC\t48K/64K\nKey Feature\tLayer3/MPLS/VXLAN\nArctic\tCTC9280\nBandwidth\t25.6T bps\nSERDES\t256*112G\nCPU\tExternal extension\nMAC\t48K/64K\nKey Feature\tLayer3/MPLS/VXLAN\nArctic\tCTC9282\nBandwidth\t12.8T bps\nSERDES\t256*56G\nCPU\tExternal extension\nMAC\t48K/64K\nKey Feature\tLayer3/MPLS/VXLAN\n\n[slide 11]\n数据中心交换机概览\nOverview of data center switches\n10G\n25G\n100G\n200G\n400G\n800G\nS5732X-16N4Z\n32*10G SFP+,16*10G/25G SFP 28\u000b4*100G QSFP28\nS5748X-8Z\n48*10G SFP+, \u000b8*100G QSFP28\nS5724X-8Z\n24*10G SFP+, \u000b8*100G QSFP28\nS5648T-8Z\n48*100M/1G/2.5G/5G/10G Base-T \u000b8*100G QSFP28\nS7548N-8Z\n48*10G/25G SFP28, \u000b8*100G QSFP28\nS7524N-8Z\n24*10G/25G SFP28, \u000b8*100G QSFP28\nS7832\n32*100G QSFP28\nS8264\n64*200G QSFP56\nS8232-2X\n32*200G QSFP56 2*10G SFP+\nS8532\n32*400G QSFP112\nS7864\n64*100G QSFP28\nS8564\n64*400G QSFP112\nS9532\n32*800G OSFP\nS5624X-8N\n24*10G SFP+\u000b8*10G/25G SFP28\nS7548N-4Z\n48*10G/25G SFP28, \u000b4*100G QSFP28\n\n[slide 12]\n企业/园区交换机概览-非多速率篇\nEnterprise/Campus Switches Overview – Non-multi-Gigabit\n1G\n10G\n25G\n100G\nS7864Z\n64*100G OSFP28\nS5524-2Q4X\n24*100M/1G Base-T, 4*25G SFP28, 2*40G QSFP+\nS5524PB-2Q4X\n24*100M/1G Base-T, 4*25G SFP28, 2*40G QSFP+, POE++\nS7832Z\n32*100G QSFP28\nS5624X-2Z\n24*10G SFP+, \u000b2*100G QSFP28\nS5748X-8Z\n48*10G SFP+, \u000b8*100G QSFP28\nS5724X-8Z\n24*10G SFP+, \u000b8*100G QSFP28\nS7548N-8Z\n48*10G/25G SFP28, \u000b8*100G QSFP28\nS7524N-8Z\n24*10G/25G SFP28, \u000b8*100G QSFP28\nS5548-2Q4X\n48*100M/1G Base-T, 4*25G SFP28, 2*40G QSFP+\nS5548P-2Q4X\n48*100M/1G Base-T, 4*25G SFP28, 2*40G QSFP, POE+\nS5548PB-2Q4X\n48*100M/1G Base-T, 4*25G SFP28, 2*40G QSFP, POE++\nS5612X-16G8N2Q\n12*10G SFP+, 8*1G BaseT, 8*1G SFP, 8*25G SFP28, 2*40G QSFP+\nS5624X-8N\n24*10G SFP+, 8*10G/25G SFP28\n10G\nS5648X-2Z\n48*10G SFP+, \u000b2*100G QSFP28\nS7548N-4Z\n48*10G/25G SFP28, \u000b4*100G QSFP28\nS5732X-16N4Z\n32*10G SFP+, 16*10G/25G SFP28,\n4*100G QSFP28\n\n[slide 13]\n2.5G\n5G\n5G\n10G\nS5048-4X2Q\n48*100M/1G/2.5G Base-T, 4*25G SFP28, 2*40G QSFP+\nS5624P-2Z\n24*100M/1G/2.5G/5G/10G Base-T,  \u000b2*100G QSFP28, POE++\nS5648T-8Z\n48*100M/1G/2.5G/5G/10G Base-T,  \u000b8*100G QSFP28\nS4648T-4Z\n24*100M/1G/2.5G/5G/5G Base-T,  \u000b4*100G QSFP28\n48*100M/1G/2.5G/5G Base-T, 4*10G/25G SFP28, 2*100G QSFP28\nS4634T-1X2Z\n24*100M/1G/2.5G/5G/5G Base-T,  \u000b4*100G QSFP28\nS4624T-2Z\n24*100M/1G/2.5G/5G/5G Base-T,  \u000b2*100G QSFP28\nS4624P-2Z\n24*100M/1G/2.5G/5G/5G Base-T,  \u000b2*100G QSFP28, POE++\nS4624T-8N\n24*100M/1G/2.5G/5G/5G Base-T, 8*10G/25G SFP28\nS4624P-8N\n24*100M/1G/2.5G/5G/5G Base-T,  \u000b8*10G/25G SFP28, POE++\nS5648T-4X2Z\n48*100M/1G/2.5G/5G/10G Base-T, 4*10G SFP+, 2*100G QSFP28\nS5624T-8N\n24*100M/1G/2.5G/5G/10G Base-T,  \u000b8*10G/25G SFP28\n企业/园区交换机概览-多速率篇\nEnterprise/Campus Switches Overview – Multi-Gigabit\nS5040P-8T2Q4N\n40*2.5G Base-T (PoE++ 90W), 8*10G Base-T (PoE++ 90W), 4*25 SFP28, 2*40G QSFP+,\nS5032P-16T8N\n32*2.5G Base-T, 16*10G Base-T, 8*25/10G SFP28\nS5016P-8T8N\n16*2.5G Base-T, 8*10G Base-T, 8*25/10G SFP28\nS4648T-4N2Z\n\n[slide 14]\n基于CENTEC BX DX 系列芯片的新一代接入交换机研发项目\u000bThe RD project of Next new generation of access switches based on the CENTEC BX DX series chipst\nS3748-6X-SI\n48*100M/1G RJ45 Downlink\u000b6*1G/10G SFP+  Uplink\u000bAC Input Built-in open-frame power supply\u000b12V battery input/ charging function\u000blayer 3 software (vxlan/evpn/mpls)\nCENTEC CTC5220\nS3748-6X-EI\n48*100M/1G RJ45 Downlink\u000b6*1G/10G SFP+  Uplink\u000bAC/DC  Dual hot-swappable power supplies\u000b12V battery input/ charging function\u000blayer 3 software (vxlan/evpn/mpls)\nCENTEC CTC5220\nS3748P-6X-SI\n48*100M/1G RJ45 Downlink POE+ 30W \u000b6*1G/10G SFP+  Uplink\u000b800W POE Built-in Power Supply\u000b12V battery input/ charging function\u000blayer 3 software (vxlan/evpn/mpls)\nCENTEC CTC5220\nS3748PB-6X-EI\n48*100M/1G RJ45 Downlink POE++ 90W\u000b6*1G/10G SFP+  Uplink\u000bDual 1200W POE CRPS Hot-swappable Power Supplies\u000b12V battery input/ charging functionn\u000blayer 3 software (vxlan/evpn/mpls)\u000bCENTEC CTC5220\nS3724-6X-SI\n24*100M/1G RJ45 Downlink\u000b6*1G/10G SFP+  Uplink\u000bAC Input Built-in open-frame power supply\u000bFAN Less\u000b12V battery input/ charging function\u000blayer 3 software (vxlan/evpn/mpls)\u000bCENTEC CTC5210\nS3724-6X-EI\n24*100M/1G RJ45 Downlink\u000b6*1G/10G SFP+  Uplink\u000bAC/DC  Dual hot-swappable power supplies\u000b12V battery input/ charging function\u000blayer 3 software (vxlan/evpn/mpls)\nCENTEC CTC5210\nS3724P-6X-SI\n24*100M/1G RJ45 Downlink POE+ 30W \u000b6*1G/10G SFP+  Uplink\u000bPOE Built-in Power Supply\u000b12V battery input/ charging function\u000blayer 3 software (vxlan/evpn/mpls)\nCENTEC CTC5210\nS3724PB-6X-EI\n24*100M/1G RJ45 Downlink POE++ 90W\u000b6*1G/10G SFP+  Uplink\u000bDual 600W POE CRPS Hot-swappable Power Supplies\u000b12V battery input/ charging function\u000blayer 3 software (vxlan/evpn/mpls)\u000bCENTEC CTC5210\nS3724S-6G6X-SI\n24*100M/1G SFP and 6*100M/1G RJ45 Downlink\u000b6*1G/10G SFP+  Uplink\u000bAC Input Built-in open-frame power supply\u000b12V battery input/ charging function\u000blayer 3 software (vxlan/evpn/mpls)\u000bCENTEC CTC5210\nS3708P-2X-SI\n8*100M/1G RJ45 Downlink POE+ 30W\u000b2*1G/10G SFP+  Uplink\u000b150W POE Built-in Power Supply\u000bFAN less\u000blayer 3 software (vxlan/evpn/mpls)\u000bCENTEC CTC5210\nS3724S-6G6X-EI\n24*100M/1G SFP and 6*100M/1G RJ45 Downlink\u000b6*1G/10G SFP+  Uplink\u000bAC/DC  Dual hot-swappable power supplies\u000b12V battery input/ charging function\u000blayer 3 software (vxlan/evpn/mpls)\u000bCENTEC CTC5210\nUse the unified HOS operating system platform\n1G\n\n[slide 15]\n基于CENTEC BX DX系列芯片的新一代接入交换机研发项目\u000bThe RD project of Next new generation of access switches based on the CENTEC BX DX series chipst\n10G\nS3812X-SI\n12*1G/10G SFP+  Downlink and Uplink\u000bAC Input Built-in open-frame power supply\u000b2*Smart FAN\u000b12VDC input port, battery charging function\u000blayer 3 software (vxlan/evpn/mpls)\u000bCENTEC CTC5220\nUse the unified HOS operating system platform\nS3812X-EI\n12*1G/10G SFP+  Downlink and Uplink\u000bAC/DC  Dual hot-swappable power supplies\u000b2*Smart FAN\u000b12VDC input port, battery charging function\u000blayer 3 software (vxlan/evpn/mpls)\u000bCENTEC CTC5220\nS3912N-SI\n12*1G/10G/25G SFP28  Downlink and Uplink\u000bAC Input Built-in open-frame power supply\u000b2*Smart FAN\u000b12VDC input port, battery charging function\u000blayer 3 software (vxlan/evpn/mpls)\u000bCENTEC CTC5230\nS3912N-EI\n12*1G/10G/25G SFP28  Downlink and Uplink\u000bAC/DC  Dual hot-swappable power supplies\u000b2*Smart FAN\u000b12VDC input port, battery charging function\u000blayer 3 software (vxlan/evpn/mpls)\u000bCENTEC CTC5230\nS3908N-2Z-SI\n8*1G/10G/25G SFP28  Downlink and 2*40/100G Uplink\u000bAC Input Built-in open-frame power supply\u000b2*Smart FAN\u000b12VDC input port, battery charging function\u000blayer 3 software (vxlan/evpn/mpls)\u000bCENTEC CTC5260\nS3908N-2Z-EI\n8*1G/10G/25G SFP28  Downlink and 2*40/100G Uplink\u000bAC/DC  Dual hot-swappable power supplies\u000b2*Smart FAN\u000b12VDC input port, battery charging function\u000blayer 3 software (vxlan/evpn/mpls)\u000bCENTEC CTC5260\n25G\n\n[slide 16]\n基于CENTEC AX 系列芯片的接入交换机研发项目\u000bThe RD project of access switches based on the CENTEC AX chipst\nSimple Link\nSystem platform\nS2108T-2S-SI\n8*1G Base-T， 2*1G SFP\nFixed PSU\nFixed Fan\nWeb UI Managment\u000bCENTEC CTC2118\nS2108P-2S-SI\nS2124T-4S-SI\nS2124P-4S-SI\n1G\n8*1G Base-T POE+， 2*1G SFP\nFixed PSU\nFixed Fan\nWeb UI Managment\u000bCENTEC CTC2118\n24*1G Base-T， 4*1G SFP\nFixed PSU\nFixed Fan\nWeb UI Managment\u000bCENTEC CTC2118\n24*1G Base-T POE+， 4*1G SFP\nFixed PSU\nFixed Fan\nWeb UI Managment\u000bCENTEC CTC2118\n\n[slide 17]\n1G\n2.5G\n10G\n40G\n100G\nS7814ZH-4N\n14*100G QSFP28, 4*25G SFP28\nS5624TH-2Z\n24*10G Base-T, 2*100G QSFP28\nS5612X12TH-2Z\n12*10G SFP+, 12*10G Base-T, 2*100G QSFP28\nS5624XH-2Z\n24*10G SFP+, 2*100G QSFP28\nS3524PH-4X\n24*2.5G Base-T (POE+ 30W), 4*10G SFP+, POE+\nS3524H-4X\n24*2.5G Base-T, 4*10G SFP+\nS2624SH-4X\n24*1G SFP, 4*10G SFP+\nS2624PH-4X\n24*1G Base-T (PoE+ 30W), 4*10G SFP+\nS2624H-4X\n24*1G Base-T, 4*10G SFP+\nS7606X-2Z\n6*40G QSFP+, 2*100G QSFP28\n灵动系列交换机\nDynamicDuo Switches Overview\n\n[slide 18]\n东莞，中国工厂\nDongguan, China Factory\nHOHUNET 的供应链能力\nHOHUNET’s Supply Chain\n海宁，中国工厂\nHaining, China Factory\n拉古那市，菲律宾工厂\nLaguna, Philippines Factory\n跟一线品牌（HUAWEI/HPE/H3C）的先进制作伙伴合作，确保供应的高品质\nCooperate with the advanced manufacturing partners （HUAWEI/HPE/H3C) of leading brands to ensure that our supply remains in the echelon of high quality.\n可选择国内（东莞/海宁）或海外（菲律宾）的供应链\nDomestic (Dongguan/Haining) or overseas (Philippines) Factories are Selectable.\n提供整机，PCBA单板，及原材料的三级供应能力\nProvide Complete Machine, PCBA Board, and Raw material supply capacity.\n\n[slide 19]\n结束\u000bTHE END\n深圳市浩湖网络技术有限公司\nShenzhen Hohunet Technology Co., LTD\u000b深圳市南山区深南大道9996号李宁中心11楼B座\u000bFloor11, NO.9996 Shen Nan Road,High-tech park, Nan Shan District, Shen Zhen,Guangdong,China\u000bhttp://www.hohunet.com\u000bbusiness@hohunet.com",
+"slides":[
+{
+"n":1,
+"items":[
+{
+"t":"picture",
+"name":"图片 4"
+},
+{
+"t":"p",
+"text":"2026 v1"
+},
+{
+"t":"p",
+"text":"HOHUNET公司简介\u000bHOHUNET INTRODUCTION"
+},
+{
+"t":"p",
+"text":"For Better Networking !"
+}
+],
+"notes":""
+},
+{
+"n":2,
+"items":[
+{
+"t":"p",
+"text":"HOHUNET概览\nOverview of HOHUNET"
+},
+{
+"t":"picture",
+"name":"图片 18"
+},
+{
+"t":"p",
+"text":"2015年注册成立  总部位于深圳，并在成都设立了分公司。 公司的 2/3为研发技术人员，且多为资深技术研发人员，主要技术人员来自于 HUAWEI/ LENOVO/ ADVA\nRegistered in 2015, the company is headquartered in Shenzhen and has set up a branch in Chengdu. Two-thirds of our staff are R&D technicians, and most of them are senior R&D personnel, and the main technical personnel are from HUAWEI, LENOVO, ADVA."
+},
+{
+"t":"p",
+"text":"专注于基于国产芯片的以太网交换机研发与销售，为客户提供从单端口1G到800G速率以太网交换机\nFocusing on the development and sales of Ethernet switches based on domestic chips, the company provides customers with Ethernet switches ranging from 1G to 800G."
+},
+{
+"t":"p",
+"text":"自研三层网络操作系统HOS  应用于AI智算/数据中心/运营商/企业/园区/SMB网络/电竞网络\nOur Self-developed Layer3 network operating system HOS is applied to AI computing, data center, the operator’s network, the enterprise’s network, the Campus’s  network, the SMB network and the E-sports network."
+},
+{
+"t":"p",
+"text":"产品用户分部在全球   海外业务营收占比超50%   业务模式灵活多样 OEM/ODM/SKD/CKD\nOur Products users are all over the world. Overseas business revenue accounts for more than 50%, and our flexible business model includes OEM, ODM, SKD, and CKD."
+},
+{
+"t":"p",
+"text":"在中国.东莞/海宁，菲律宾.拉古那 有先进制造伙伴  与业内头部厂商使用相同生产线（HUAWEI/HPE/H3C)    相同的生产工艺相同的质量管控相同的物料体系\nWe have established partnerships with advanced manufacturing entities in Dongguan and Haining, China, as well as in Laguna, Philippines.  In production, we adopt the same production lines,  production process, quality control systems and material systems as those of renowned industry leaders such as HUAWEI, HPE and H3C."
+}
+],
+"notes":""
+},
+{
+"n":3,
+"items":[
+{
+"t":"p",
+"text":"注册成立，并基于国产芯片研发与销售电子竞技网络通信设备\nIt has been registered, and has engaged in the research, development equipments based on domestic chips."
+},
+{
+"t":"p",
+"text":"2015"
+},
+{
+"t":"p",
+"text":"成为中国电子竞技网络行业出货量第一的团队\nHas become the team with the highest shipment volume in Chinese E-sports network  industry."
+},
+{
+"t":"p",
+"text":"2016"
+},
+{
+"t":"p",
+"text":"2017"
+},
+{
+"t":"p",
+"text":"2018"
+},
+{
+"t":"p",
+"text":"推出第一款数据中心TOR交换产品\nLaunched the first data center TOR switching product."
+},
+{
+"t":"p",
+"text":"数据中心TOR产品被欧洲/美国客户广泛使用\nThe data center TOR products have been widely used by customers in Europe and the United States."
+},
+{
+"t":"p",
+"text":"完成主要元器件的国产化替代\nCompleted the localized replacement of major components."
+},
+{
+"t":"p",
+"text":"多速率及POE++产品系列批量出货，形成独特的竞争优势\nThe multi-gigabit and POE++ products have been shipped in batches.A unique competitive edge has been formed."
+},
+{
+"t":"p",
+"text":"2019"
+},
+{
+"t":"p",
+"text":"100G/25G产品批量上市销售\nThe 100G/25G products have launched."
+},
+{
+"t":"p",
+"text":"推出苹果IOS设备有限接入与充电设备（全球首创）\nHad launched the world's first limited-access and charging device for Apple iOS devices."
+},
+{
+"t":"p",
+"text":"聚焦数据中心 25G/100G产品研发\nHave focued on the research and development of 25G/100G products for data centers."
+},
+{
+"t":"p",
+"text":"200G/400G/800G产品研发\nHas invested in the research and development of 200G/400G/800G products"
+},
+{
+"t":"p",
+"text":"2020"
+},
+{
+"t":"p",
+"text":"2021"
+},
+{
+"t":"p",
+"text":"2022"
+},
+{
+"t":"p",
+"text":"2023"
+},
+{
+"t":"p",
+"text":"2024"
+},
+{
+"t":"p",
+"text":"2025"
+},
+{
+"t":"p",
+"text":"200G/400G/800G产品上市，并进一步补齐高端产品线。\nHas launched 200G/400G/800G productson into market, and the extra high-end product line has been supplemented."
+},
+{
+"t":"p",
+"text":"HOHUNET 11年沿革\nHOHUNET 11 Years of History"
+},
+{
+"t":"p",
+"text":"2026"
+},
+{
+"t":"p",
+"text":"新1G接入产品上市，补齐低端产品线，实现1G到800G统一软件平台全覆盖。\nNew 1G access product will be launched to fill the low-end gap,  The unified HOS software platform will cover the range of 1G-800G."
+}
+],
+"notes":""
+},
+{
+"n":4,
+"items":[
+{
+"t":"p",
+"text":"HOHUNET 研发能力\nHOHUNET R&D Team"
+},
+{
+"t":"p",
+"text":"硬件研发团队\nHardware R&D"
+},
+{
+"t":"p",
+"text":"基于国产ASIC芯片进行自主设计。\n热仿真及散热技术创新。\n低功耗系统设计全面应用。\n400G/800G高密度产品设计。\n112G PAM4高速率信号设计及仿真。\n40+ 层 HDI PCB 设计及相关工程经验。\n超过60+款交换机的高质量交付。\nIndependently design with domestic ASIC chips.\nInnovate in thermal sim & heat dissipation tech.\nFully implement low - power system design.\nDesign 400G/800G high - density products.\nDesign & simulate 112G PAM4 high-speed signals.\nHave 40+ layer HDI PCB design & relevant exp.\nDeliver high-quality hardware for  over 60 switch models"
+},
+{
+"t":"p",
+"text":"软件研发团队\nSoftware R&D"
+},
+{
+"t":"p",
+"text":"团队成员平均拥10年以上的交换机产品工作经验\n涵盖kernel、bsp、driver、mac芯片驱动、业务协议等模块\n对网络协议栈深度理解\n具备分布式系统设计能力（堆叠，SDN）\n前瞻性的技术输出\nThe team members have an average of over 10 years of working experience in switch products.\nCovering modules such as kernel, BSP (Board Support Package), driver, MAC chip driver, and business protocols.\nThey have a deep understanding of the network protocol stack, possess the ability to design distributed systems (stacking, SDN).\nProvide forward-looking technical outputs."
+},
+{
+"t":"p",
+"text":"测试及技术支持团队\nVerification and Technical Support"
+},
+{
+"t":"p",
+"text":"十余年测试用例积累，全协议栈测试覆盖良好。\n资深测试工程师组建专业团队，可构建复杂组网测试，保障测试深度。\n自研自动化测试平台，测试高效。\n配备专业测试仪器设备，极限性能测试结论可靠。\n完善的缺陷跟踪管理系统。\nDecades of test script accumulation ensures full protocol stack coverage.\nSenior engineers form a professional team for complex network tests, ensuring depth.\nOur self-developed auto-test platform enables high-efficiency.\nProfessional equipment guarantees reliable extreme-performance test results.\nA perfect defect-tracking system is in place."
+}
+],
+"notes":""
+},
+{
+"n":5,
+"items":[
+{
+"t":"p",
+"text":"HOHUNET 专利和证书\nHOHUNET Patents and Certificates"
+},
+{
+"t":"picture",
+"name":"图片 17"
+},
+{
+"t":"picture",
+"name":"图片 29"
+},
+{
+"t":"picture",
+"name":"图片 15"
+},
+{
+"t":"picture",
+"name":"图片 10"
+},
+{
+"t":"picture",
+"name":"图片 18"
+},
+{
+"t":"picture",
+"name":"图片 8"
+},
+{
+"t":"picture",
+"name":"图片 14"
+},
+{
+"t":"picture",
+"name":"图片 27"
+},
+{
+"t":"p",
+"text":"企业资质认定\nEnterprise Qualification"
+},
+{
+"t":"p",
+"text":"质量管理体系\nQuality Management System"
+},
+{
+"t":"p",
+"text":"专利\nPatents"
+},
+{
+"t":"p",
+"text":"软件著作权\nSoftware Copyright"
+},
+{
+"t":"picture",
+"name":"图片 25"
+},
+{
+"t":"picture",
+"name":"图片 26"
+},
+{
+"t":"picture",
+"name":"图片 28"
+},
+{
+"t":"picture",
+"name":"图片 30"
+},
+{
+"t":"picture",
+"name":"图片 31"
+},
+{
+"t":"p",
+"text":"行业证书\nCE/FCC"
+},
+{
+"t":"p",
+"text":"盛科的认证\nCentec Qualification"
+},
+{
+"t":"picture",
+"name":"图片 16"
+}
+],
+"notes":""
+},
+{
+"n":6,
+"items":[
+{
+"t":"p",
+"text":"得益于与合作伙伴的商业合作，HOHUNET的产品服务于分布在全球主要经济体的最终用户，我们仍旧不断在全球开拓新的合作伙伴，为更多最终用户提供优质的产品与服务。\nThanks to business cooperation with partners, HOHUNET's products serve end-users in major global economies. We're constantly seeking new partners worldwide to offer better products and services to more end-users."
+},
+{
+"t":"p",
+"text":"HOHUNET 客户分布及商业模式\nHOHUNET’s Customers and Business Mode"
+},
+{
+"t":"p",
+"text":"整机供应\nWhole Assembled\n• OEM\n• ODM"
+},
+{
+"t":"p",
+"text":"部件供应\nParts Delivery\n• SKD\n• CKD"
+},
+{
+"t":"p",
+"text":"$"
+},
+{
+"t":"p",
+"text":"$"
+},
+{
+"t":"p",
+"text":"$"
+},
+{
+"t":"p",
+"text":"$"
+},
+{
+"t":"p",
+"text":"$"
+},
+{
+"t":"p",
+"text":"$"
+},
+{
+"t":"p",
+"text":"$"
+},
+{
+"t":"p",
+"text":"我们帮助客户快速建立从低速到高速，软件管理风格归一化的交换机产品线，从而增强品牌竞争优势。\n根据客户的需求，我们灵活的提供OEM、ODM的整机，或者SKD、CKD这两种部件级的供应方式。\nWe offer flexible cooperation mode, which includes OEM/ODM as well as SKD and CKD to help customers establish competitive advantage,"
+}
+],
+"notes":""
+},
+{
+"n":7,
+"items":[
+{
+"t":"p",
+"text":"HOS Network Platform"
+},
+{
+"t":"p",
+"text":"Layer 2 switching"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Unicast Routing"
+},
+{
+"t":"p",
+"text":"QoS"
+},
+{
+"t":"p",
+"text":"IP Multicast Snooping/Proxy"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Multi cast Routing"
+},
+{
+"t":"p",
+"text":"VRRP"
+},
+{
+"t":"p",
+"text":"Multiprotocol Label Switching(MPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Private LAN Service(VPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Routing and Switching"
+},
+{
+"t":"p",
+"text":"Generalized Multi protocol Label Switching(GMPLS)"
+},
+{
+"t":"p",
+"text":"IPv6 Tunneling and TransitionTechnologies"
+},
+{
+"t":"p",
+"text":"IP/MPLS OAM"
+},
+{
+"t":"p",
+"text":"Service management module"
+},
+{
+"t":"p",
+"text":"Fault Managemet (FM)"
+},
+{
+"t":"p",
+"text":"High Availability (HA)"
+},
+{
+"t":"p",
+"text":"Integrated Management Interface (CLl, SNMP, WEB, RMON, RPC-API,  Netconf,etc)"
+},
+{
+"t":"p",
+"text":"Hardware and platform abstraction layer"
+},
+{
+"t":"p",
+"text":"Advanced integration Suite"
+},
+{
+"t":"p",
+"text":"CENTEC swtich chip  SDK"
+},
+{
+"t":"p",
+"text":"Silicon in Pizza, Stacking or Chassis\nConfiguration"
+},
+{
+"t":"p",
+"text":"Operating Systems TCP/IP Stacks"
+},
+{
+"t":"p",
+"text":"Linux , IPv4/Pv6 Dual Stack"
+},
+{
+"t":"p",
+"text":"Hardware layer"
+},
+{
+"t":"p",
+"text":"CENTEC Switch Chipset"
+},
+{
+"t":"p",
+"text":"CPU Subsystem"
+},
+{
+"t":"p",
+"text":"Cooling SubSystem"
+},
+{
+"t":"p",
+"text":"AC/DC DC/DC CLK"
+},
+{
+"t":"p",
+"text":"Environmental Management Subsystem"
+},
+{
+"t":"p",
+"text":"Logical Control Subunit"
+},
+{
+"t":"p",
+"text":"HOHUNET 的软件平台架构概览\nHOHUNET Operate System overview"
+},
+{
+"t":"p",
+"text":"HOS 经历了10年以上持续的升级迭代。\n10+ years of development  and continuous iteration  and upgrade."
+},
+{
+"t":"p",
+"text":"HOS在广泛的商业，政府和运营商网络中得到验证。\nVerifying within a wide-ranging, live commercial, Government or ISP networks."
+},
+{
+"t":"p",
+"text":"功能模块化，可移植性，可裁剪性强\nThe functions are modularized, and it has strong portability and high tailor ability."
+},
+{
+"t":"p",
+"text":"HOS 采用归一化的软件平台，各型号交换机沿用同一套软件，统一管理风格。\nHOS is a Unified Operate System. Each switches use the one set of software,\nensuring a unified management style."
+}
+],
+"notes":""
+},
+{
+"n":8,
+"items":[
+{
+"t":"p",
+"text":"HOHUNET 的云管理平台\nHOHUNET Cloud Center"
+},
+{
+"t":"picture",
+"name":"图片 7"
+},
+{
+"t":"p",
+"text":"自主开发的云平台管理系统，帮助客户简化设备管理，比如：自动生成拓扑功能。\nThe self-developed cloud platform management system helps customers simplify device management. For example, automatically generates topologies."
+},
+{
+"t":"p",
+"text":"通过加密隧道进行设备配置，安全又高效\nDevice configuration is carried out through an encrypted tunnel, which is both secure and efficient."
+},
+{
+"t":"p",
+"text":"可授权技术人员进行远程接入，提高技术支持的效率。技术支持完毕后关闭授权，保证安全性。\nTechnicians can be authorized for remote access to improve the efficiency of technical support. After the technical support is completed, the authorization will be closed to ensure security."
+}
+],
+"notes":""
+},
+{
+"n":9,
+"items":[
+{
+"t":"p",
+"text":"交换芯片概览\nOverview of Ethernet Switch Chips"
+},
+{
+"t":"p",
+"text":"CENTEC\u000bTM.BX"
+},
+{
+"t":"p",
+"text":"CENTEC\u000bTM.DX"
+},
+{
+"t":"p",
+"text":"CENTEC\u000bTsing MA"
+},
+{
+"t":"p",
+"text":"CENTEC\u000bTM.GX"
+},
+{
+"t":"p",
+"text":"CENTEC\u000bTM.MX"
+},
+{
+"t":"p",
+"text":"LightLink"
+},
+{
+"t":"p",
+"text":"SwiftLink"
+},
+{
+"t":"p",
+"text":"VastLakes"
+},
+{
+"t":"p",
+"text":"BigFlow"
+},
+{
+"t":"p",
+"text":"PeakNetX"
+},
+{
+"t":"table",
+"rows":[
+[
+"TM.BX",
+"CTC5220"
+],
+[
+"Bandwidth",
+"120G bps/64B"
+],
+[
+"SERDES",
+"12*10G"
+],
+[
+"SOC",
+"4*CORE RISC-V\u000b1.2GHz"
+],
+[
+"MAC",
+"48K/64K"
+],
+[
+"Key Feature",
+"Layer3/MPLS/VXLAN"
+],
+[
+"TM.BX",
+"CTC5210"
+],
+[
+"Bandwidth",
+"84G bps/64B"
+],
+[
+"SERDES",
+"10*10G + 2*SGMII"
+],
+[
+"SOC",
+"4*CORE RISC-V\u000b1.2GHz"
+],
+[
+"MAC",
+"48K/64K"
+],
+[
+"Key Feature",
+"Layer3/MPLS/VXLAN"
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+"TM.DX",
+"CTC5260"
+],
+[
+"Bandwidth",
+"300G bps/128B"
+],
+[
+"SERDES",
+"16*25G"
+],
+[
+"SOC",
+"4*CORE RISC-V\u000b1.4GHz"
+],
+[
+"MAC",
+"48K/64K"
+],
+[
+"Key Feature",
+"Layer3/MPLS/VXLAN/TSN"
+],
+[
+"TM.DX",
+"CTC5230"
+],
+[
+"Bandwidth",
+"160G bps/64B"
+],
+[
+"SERDES",
+"10*25G + 2*10G"
+],
+[
+"SOC",
+"4*CORE RISC-V\u000b1.4GHz"
+],
+[
+"MAC",
+"48K/64K"
+],
+[
+"Key Feature",
+"Layer3/MPLS/VXLAN/TSN"
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+"Tsing MA",
+"CTC7132"
+],
+[
+"Bandwidth",
+"440G bps"
+],
+[
+"SERDES",
+"24*12.G+8*25G"
+],
+[
+"SOC",
+"2*CORE ARM A53"
+],
+[
+"MAC",
+"12K"
+],
+[
+"Key Feature",
+"Layer3/MPLS/VXLAN"
+],
+[
+"Tsing MA",
+"CTC5118"
+],
+[
+"Bandwidth",
+"180G bps"
+],
+[
+"SERDES",
+"18*12.5G"
+],
+[
+"SOC",
+"2*CORE ARM A53"
+],
+[
+"MAC",
+"12K"
+],
+[
+"Key Feature",
+"Layer3/MPLS/VXLAN"
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+"TM.GX",
+"CTC8120"
+],
+[
+"Bandwidth",
+"2.0T bps"
+],
+[
+"SERDES",
+"80*25G"
+],
+[
+"CPU",
+"External extension"
+],
+[
+"MAC",
+"48K"
+],
+[
+"Key Feature",
+"Layer3/MPLS/VXLAN"
+],
+[
+"TM.GX",
+"CTC8126"
+],
+[
+"Bandwidth",
+"1.5T bps"
+],
+[
+"SERDES",
+"60*25G"
+],
+[
+"CPU",
+"External extension"
+],
+[
+"MAC",
+"48K"
+],
+[
+"Key Feature",
+"Layer3/MPLS/VXLAN"
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+"TM.GX",
+"CTC8128"
+],
+[
+"Bandwidth",
+"1.08T bps"
+],
+[
+"SERDES",
+"28*10G+32*25G"
+],
+[
+"CPU",
+"External extension"
+],
+[
+"MAC",
+"48K"
+],
+[
+"Key Feature",
+"Layer3/MPLS/VXLAN"
+],
+[
+"TM.GX",
+"CTC8148"
+],
+[
+"Bandwidth",
+"1.28T bps"
+],
+[
+"SERDES",
+"48*10G+32*25G"
+],
+[
+"CPU",
+"External extension"
+],
+[
+"MAC",
+"48K"
+],
+[
+"Key Feature",
+"Layer3/MPLS/VXLAN"
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+"TM.MX",
+"CTC8180"
+],
+[
+"Bandwidth",
+"2.4T bps"
+],
+[
+"SERDES",
+"96*56G"
+],
+[
+"CPU",
+"External extension"
+],
+[
+"MAC",
+"124K"
+],
+[
+"Key Feature",
+"Layer3/MPLS/VXLAN"
+],
+[
+"TM.MX",
+"CTC8182"
+],
+[
+"Bandwidth",
+"2T bps"
+],
+[
+"SERDES",
+"80*28G"
+],
+[
+"CPU",
+"External extension"
+],
+[
+"MAC",
+"124K"
+],
+[
+"Key Feature",
+"Layer3/MPLS/VXLAN/"
+]
+]
+},
+{
+"t":"p",
+"text":"CENTEC\u000bTM.AX"
+},
+{
+"t":"table",
+"rows":[
+[
+"TM. AX",
+"CTC2118"
+],
+[
+"Bandwidth",
+"28G bps"
+],
+[
+"SERDES",
+"28*1G"
+],
+[
+"CPU",
+"200M MCU"
+],
+[
+"MAC",
+"8K"
+],
+[
+"Key Feature",
+"Layer2"
+]
+]
+},
+{
+"t":"p",
+"text":"SimpleLlink"
+}
+],
+"notes":""
+},
+{
+"n":10,
+"items":[
+{
+"t":"p",
+"text":"交换芯片概览\nOverview of Ethernet Switch Chips"
+},
+{
+"t":"p",
+"text":"CENTEC\u000bTM.M3"
+},
+{
+"t":"p",
+"text":"CENTEC\u000bTM.M12"
+},
+{
+"t":"p",
+"text":"Powerlink"
+},
+{
+"t":"p",
+"text":"ExtremeLink"
+},
+{
+"t":"table",
+"rows":[
+[
+"TM.M3",
+"CTC8290"
+],
+[
+"Bandwidth",
+"6.4T"
+],
+[
+"SERDES",
+"128*56G"
+],
+[
+"CPU",
+"External extension"
+],
+[
+"MAC",
+"128K"
+],
+[
+"Key Feature",
+"Layer3/MPLS/VXLAN/TSN"
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+"TM.M12",
+"M12"
+],
+[
+"Bandwidth",
+"51.2T"
+],
+[
+"SERDES",
+"512 * 112"
+],
+[
+"CPU",
+"External extension"
+],
+[
+"MAC",
+"256K"
+],
+[
+"Key Feature",
+"Layer3/MPLS/VXLAN"
+]
+]
+},
+{
+"t":"p",
+"text":"CENTEC\u000bArctic"
+},
+{
+"t":"p",
+"text":"SerdesX"
+},
+{
+"t":"table",
+"rows":[
+[
+"Arctic",
+"CTC9260"
+],
+[
+"Bandwidth",
+"12.8T bps"
+],
+[
+"SERDES",
+"128*112G"
+],
+[
+"CPU",
+"External extension"
+],
+[
+"MAC",
+"48K/64K"
+],
+[
+"Key Feature",
+"Layer3/MPLS/VXLAN"
+],
+[
+"Arctic",
+"CTC9262"
+],
+[
+"Bandwidth",
+"8.4T BPS"
+],
+[
+"SERDES",
+"144*56G"
+],
+[
+"CPU",
+"External extension"
+],
+[
+"MAC",
+"48K/64K"
+],
+[
+"Key Feature",
+"Layer3/MPLS/VXLAN"
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+"Arctic",
+"CTC9280"
+],
+[
+"Bandwidth",
+"25.6T bps"
+],
+[
+"SERDES",
+"256*112G"
+],
+[
+"CPU",
+"External extension"
+],
+[
+"MAC",
+"48K/64K"
+],
+[
+"Key Feature",
+"Layer3/MPLS/VXLAN"
+],
+[
+"Arctic",
+"CTC9282"
+],
+[
+"Bandwidth",
+"12.8T bps"
+],
+[
+"SERDES",
+"256*56G"
+],
+[
+"CPU",
+"External extension"
+],
+[
+"MAC",
+"48K/64K"
+],
+[
+"Key Feature",
+"Layer3/MPLS/VXLAN"
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":11,
+"items":[
+{
+"t":"p",
+"text":"数据中心交换机概览\nOverview of data center switches"
+},
+{
+"t":"p",
+"text":"10G"
+},
+{
+"t":"p",
+"text":"25G"
+},
+{
+"t":"p",
+"text":"100G"
+},
+{
+"t":"p",
+"text":"200G"
+},
+{
+"t":"p",
+"text":"400G"
+},
+{
+"t":"p",
+"text":"800G"
+},
+{
+"t":"p",
+"text":"S5732X-16N4Z"
+},
+{
+"t":"p",
+"text":"32*10G SFP+,16*10G/25G SFP 28\u000b4*100G QSFP28"
+},
+{
+"t":"p",
+"text":"S5748X-8Z"
+},
+{
+"t":"p",
+"text":"48*10G SFP+, \u000b8*100G QSFP28"
+},
+{
+"t":"p",
+"text":"S5724X-8Z"
+},
+{
+"t":"p",
+"text":"24*10G SFP+, \u000b8*100G QSFP28"
+},
+{
+"t":"p",
+"text":"S5648T-8Z"
+},
+{
+"t":"p",
+"text":"48*100M/1G/2.5G/5G/10G Base-T \u000b8*100G QSFP28"
+},
+{
+"t":"p",
+"text":"S7548N-8Z"
+},
+{
+"t":"p",
+"text":"48*10G/25G SFP28, \u000b8*100G QSFP28"
+},
+{
+"t":"p",
+"text":"S7524N-8Z"
+},
+{
+"t":"p",
+"text":"24*10G/25G SFP28, \u000b8*100G QSFP28"
+},
+{
+"t":"p",
+"text":"S7832"
+},
+{
+"t":"p",
+"text":"32*100G QSFP28"
+},
+{
+"t":"p",
+"text":"S8264"
+},
+{
+"t":"p",
+"text":"64*200G QSFP56"
+},
+{
+"t":"p",
+"text":"S8232-2X"
+},
+{
+"t":"p",
+"text":"32*200G QSFP56 2*10G SFP+"
+},
+{
+"t":"p",
+"text":"S8532"
+},
+{
+"t":"p",
+"text":"32*400G QSFP112"
+},
+{
+"t":"p",
+"text":"S7864"
+},
+{
+"t":"p",
+"text":"64*100G QSFP28"
+},
+{
+"t":"p",
+"text":"S8564"
+},
+{
+"t":"p",
+"text":"64*400G QSFP112"
+},
+{
+"t":"p",
+"text":"S9532"
+},
+{
+"t":"p",
+"text":"32*800G OSFP"
+},
+{
+"t":"picture",
+"name":"图片 70"
+},
+{
+"t":"picture",
+"name":"图片 71"
+},
+{
+"t":"p",
+"text":"S5624X-8N"
+},
+{
+"t":"p",
+"text":"24*10G SFP+\u000b8*10G/25G SFP28"
+},
+{
+"t":"picture",
+"name":"图片 76"
+},
+{
+"t":"picture",
+"name":"图片 77"
+},
+{
+"t":"picture",
+"name":"图片 78"
+},
+{
+"t":"picture",
+"name":"图片 79"
+},
+{
+"t":"picture",
+"name":"图片 80"
+},
+{
+"t":"picture",
+"name":"图片 81"
+},
+{
+"t":"picture",
+"name":"图片 83"
+},
+{
+"t":"picture",
+"name":"图片 84"
+},
+{
+"t":"picture",
+"name":"图片 91"
+},
+{
+"t":"picture",
+"name":"图片 92"
+},
+{
+"t":"picture",
+"name":"图片 105"
+},
+{
+"t":"p",
+"text":"S7548N-4Z"
+},
+{
+"t":"p",
+"text":"48*10G/25G SFP28, \u000b4*100G QSFP28"
+},
+{
+"t":"picture",
+"name":"图片 87"
+}
+],
+"notes":""
+},
+{
+"n":12,
+"items":[
+{
+"t":"p",
+"text":"企业/园区交换机概览-非多速率篇\nEnterprise/Campus Switches Overview – Non-multi-Gigabit"
+},
+{
+"t":"p",
+"text":"1G"
+},
+{
+"t":"p",
+"text":"10G"
+},
+{
+"t":"p",
+"text":"25G"
+},
+{
+"t":"p",
+"text":"100G"
+},
+{
+"t":"p",
+"text":"S7864Z"
+},
+{
+"t":"p",
+"text":"64*100G OSFP28"
+},
+{
+"t":"p",
+"text":"S5524-2Q4X"
+},
+{
+"t":"p",
+"text":"24*100M/1G Base-T, 4*25G SFP28, 2*40G QSFP+"
+},
+{
+"t":"p",
+"text":"S5524PB-2Q4X"
+},
+{
+"t":"p",
+"text":"24*100M/1G Base-T, 4*25G SFP28, 2*40G QSFP+, POE++"
+},
+{
+"t":"p",
+"text":"S7832Z"
+},
+{
+"t":"p",
+"text":"32*100G QSFP28"
+},
+{
+"t":"p",
+"text":"S5624X-2Z"
+},
+{
+"t":"p",
+"text":"24*10G SFP+, \u000b2*100G QSFP28"
+},
+{
+"t":"p",
+"text":"S5748X-8Z"
+},
+{
+"t":"p",
+"text":"48*10G SFP+, \u000b8*100G QSFP28"
+},
+{
+"t":"p",
+"text":"S5724X-8Z"
+},
+{
+"t":"p",
+"text":"24*10G SFP+, \u000b8*100G QSFP28"
+},
+{
+"t":"p",
+"text":"S7548N-8Z"
+},
+{
+"t":"p",
+"text":"48*10G/25G SFP28, \u000b8*100G QSFP28"
+},
+{
+"t":"p",
+"text":"S7524N-8Z"
+},
+{
+"t":"p",
+"text":"24*10G/25G SFP28, \u000b8*100G QSFP28"
+},
+{
+"t":"p",
+"text":"S5548-2Q4X"
+},
+{
+"t":"p",
+"text":"48*100M/1G Base-T, 4*25G SFP28, 2*40G QSFP+"
+},
+{
+"t":"p",
+"text":"S5548P-2Q4X"
+},
+{
+"t":"p",
+"text":"48*100M/1G Base-T, 4*25G SFP28, 2*40G QSFP, POE+"
+},
+{
+"t":"p",
+"text":"S5548PB-2Q4X"
+},
+{
+"t":"p",
+"text":"48*100M/1G Base-T, 4*25G SFP28, 2*40G QSFP, POE++"
+},
+{
+"t":"p",
+"text":"S5612X-16G8N2Q"
+},
+{
+"t":"p",
+"text":"12*10G SFP+, 8*1G BaseT, 8*1G SFP, 8*25G SFP28, 2*40G QSFP+"
+},
+{
+"t":"p",
+"text":"S5624X-8N"
+},
+{
+"t":"p",
+"text":"24*10G SFP+, 8*10G/25G SFP28"
+},
+{
+"t":"picture",
+"name":"图片 104"
+},
+{
+"t":"picture",
+"name":"图片 105"
+},
+{
+"t":"picture",
+"name":"图片 106"
+},
+{
+"t":"picture",
+"name":"图片 107"
+},
+{
+"t":"picture",
+"name":"图片 108"
+},
+{
+"t":"picture",
+"name":"图片 109"
+},
+{
+"t":"picture",
+"name":"图片 110"
+},
+{
+"t":"picture",
+"name":"图片 111"
+},
+{
+"t":"picture",
+"name":"图片 112"
+},
+{
+"t":"picture",
+"name":"图片 113"
+},
+{
+"t":"picture",
+"name":"图片 114"
+},
+{
+"t":"picture",
+"name":"图片 115"
+},
+{
+"t":"picture",
+"name":"图片 116"
+},
+{
+"t":"p",
+"text":"10G"
+},
+{
+"t":"p",
+"text":"S5648X-2Z"
+},
+{
+"t":"p",
+"text":"48*10G SFP+, \u000b2*100G QSFP28"
+},
+{
+"t":"picture",
+"name":"图片 129"
+},
+{
+"t":"picture",
+"name":"图片 5"
+},
+{
+"t":"p",
+"text":"S7548N-4Z"
+},
+{
+"t":"p",
+"text":"48*10G/25G SFP28, \u000b4*100G QSFP28"
+},
+{
+"t":"p",
+"text":"S5732X-16N4Z"
+},
+{
+"t":"p",
+"text":"32*10G SFP+, 16*10G/25G SFP28,\n4*100G QSFP28"
+},
+{
+"t":"picture",
+"name":"图片 31"
+}
+],
+"notes":""
+},
+{
+"n":13,
+"items":[
+{
+"t":"p",
+"text":"2.5G"
+},
+{
+"t":"p",
+"text":"5G"
+},
+{
+"t":"p",
+"text":"5G"
+},
+{
+"t":"p",
+"text":"10G"
+},
+{
+"t":"p",
+"text":"S5048-4X2Q"
+},
+{
+"t":"p",
+"text":"48*100M/1G/2.5G Base-T, 4*25G SFP28, 2*40G QSFP+"
+},
+{
+"t":"p",
+"text":"S5624P-2Z"
+},
+{
+"t":"p",
+"text":"24*100M/1G/2.5G/5G/10G Base-T,  \u000b2*100G QSFP28, POE++"
+},
+{
+"t":"p",
+"text":"S5648T-8Z"
+},
+{
+"t":"p",
+"text":"48*100M/1G/2.5G/5G/10G Base-T,  \u000b8*100G QSFP28"
+},
+{
+"t":"p",
+"text":"S4648T-4Z"
+},
+{
+"t":"p",
+"text":"24*100M/1G/2.5G/5G/5G Base-T,  \u000b4*100G QSFP28"
+},
+{
+"t":"p",
+"text":"48*100M/1G/2.5G/5G Base-T, 4*10G/25G SFP28, 2*100G QSFP28"
+},
+{
+"t":"p",
+"text":"S4634T-1X2Z"
+},
+{
+"t":"p",
+"text":"24*100M/1G/2.5G/5G/5G Base-T,  \u000b4*100G QSFP28"
+},
+{
+"t":"p",
+"text":"S4624T-2Z"
+},
+{
+"t":"p",
+"text":"24*100M/1G/2.5G/5G/5G Base-T,  \u000b2*100G QSFP28"
+},
+{
+"t":"p",
+"text":"S4624P-2Z"
+},
+{
+"t":"p",
+"text":"24*100M/1G/2.5G/5G/5G Base-T,  \u000b2*100G QSFP28, POE++"
+},
+{
+"t":"p",
+"text":"S4624T-8N"
+},
+{
+"t":"p",
+"text":"24*100M/1G/2.5G/5G/5G Base-T, 8*10G/25G SFP28"
+},
+{
+"t":"p",
+"text":"S4624P-8N"
+},
+{
+"t":"p",
+"text":"24*100M/1G/2.5G/5G/5G Base-T,  \u000b8*10G/25G SFP28, POE++"
+},
+{
+"t":"p",
+"text":"S5648T-4X2Z"
+},
+{
+"t":"p",
+"text":"48*100M/1G/2.5G/5G/10G Base-T, 4*10G SFP+, 2*100G QSFP28"
+},
+{
+"t":"p",
+"text":"S5624T-8N"
+},
+{
+"t":"p",
+"text":"24*100M/1G/2.5G/5G/10G Base-T,  \u000b8*10G/25G SFP28"
+},
+{
+"t":"picture",
+"name":"图片 83"
+},
+{
+"t":"picture",
+"name":"图片 84"
+},
+{
+"t":"picture",
+"name":"图片 85"
+},
+{
+"t":"picture",
+"name":"图片 87"
+},
+{
+"t":"picture",
+"name":"图片 89"
+},
+{
+"t":"picture",
+"name":"图片 90"
+},
+{
+"t":"picture",
+"name":"图片 91"
+},
+{
+"t":"picture",
+"name":"图片 92"
+},
+{
+"t":"picture",
+"name":"图片 93"
+},
+{
+"t":"picture",
+"name":"图片 94"
+},
+{
+"t":"picture",
+"name":"图片 95"
+},
+{
+"t":"picture",
+"name":"图片 96"
+},
+{
+"t":"p",
+"text":"企业/园区交换机概览-多速率篇\nEnterprise/Campus Switches Overview – Multi-Gigabit"
+},
+{
+"t":"p",
+"text":"S5040P-8T2Q4N"
+},
+{
+"t":"p",
+"text":"40*2.5G Base-T (PoE++ 90W), 8*10G Base-T (PoE++ 90W), 4*25 SFP28, 2*40G QSFP+,"
+},
+{
+"t":"p",
+"text":"S5032P-16T8N"
+},
+{
+"t":"p",
+"text":"32*2.5G Base-T, 16*10G Base-T, 8*25/10G SFP28"
+},
+{
+"t":"p",
+"text":"S5016P-8T8N"
+},
+{
+"t":"p",
+"text":"16*2.5G Base-T, 8*10G Base-T, 8*25/10G SFP28"
+},
+{
+"t":"p",
+"text":"S4648T-4N2Z"
+}
+],
+"notes":""
+},
+{
+"n":14,
+"items":[
+{
+"t":"p",
+"text":"基于CENTEC BX DX 系列芯片的新一代接入交换机研发项目\u000bThe RD project of Next new generation of access switches based on the CENTEC BX DX series chipst"
+},
+{
+"t":"p",
+"text":"S3748-6X-SI"
+},
+{
+"t":"p",
+"text":"48*100M/1G RJ45 Downlink\u000b6*1G/10G SFP+  Uplink\u000bAC Input Built-in open-frame power supply\u000b12V battery input/ charging function\u000blayer 3 software (vxlan/evpn/mpls)\nCENTEC CTC5220"
+},
+{
+"t":"p",
+"text":"S3748-6X-EI"
+},
+{
+"t":"p",
+"text":"48*100M/1G RJ45 Downlink\u000b6*1G/10G SFP+  Uplink\u000bAC/DC  Dual hot-swappable power supplies\u000b12V battery input/ charging function\u000blayer 3 software (vxlan/evpn/mpls)\nCENTEC CTC5220"
+},
+{
+"t":"p",
+"text":"S3748P-6X-SI"
+},
+{
+"t":"p",
+"text":"48*100M/1G RJ45 Downlink POE+ 30W \u000b6*1G/10G SFP+  Uplink\u000b800W POE Built-in Power Supply\u000b12V battery input/ charging function\u000blayer 3 software (vxlan/evpn/mpls)\nCENTEC CTC5220"
+},
+{
+"t":"p",
+"text":"S3748PB-6X-EI"
+},
+{
+"t":"p",
+"text":"48*100M/1G RJ45 Downlink POE++ 90W\u000b6*1G/10G SFP+  Uplink\u000bDual 1200W POE CRPS Hot-swappable Power Supplies\u000b12V battery input/ charging functionn\u000blayer 3 software (vxlan/evpn/mpls)\u000bCENTEC CTC5220"
+},
+{
+"t":"p",
+"text":"S3724-6X-SI"
+},
+{
+"t":"p",
+"text":"24*100M/1G RJ45 Downlink\u000b6*1G/10G SFP+  Uplink\u000bAC Input Built-in open-frame power supply\u000bFAN Less\u000b12V battery input/ charging function\u000blayer 3 software (vxlan/evpn/mpls)\u000bCENTEC CTC5210"
+},
+{
+"t":"p",
+"text":"S3724-6X-EI"
+},
+{
+"t":"p",
+"text":"24*100M/1G RJ45 Downlink\u000b6*1G/10G SFP+  Uplink\u000bAC/DC  Dual hot-swappable power supplies\u000b12V battery input/ charging function\u000blayer 3 software (vxlan/evpn/mpls)\nCENTEC CTC5210"
+},
+{
+"t":"p",
+"text":"S3724P-6X-SI"
+},
+{
+"t":"p",
+"text":"24*100M/1G RJ45 Downlink POE+ 30W \u000b6*1G/10G SFP+  Uplink\u000bPOE Built-in Power Supply\u000b12V battery input/ charging function\u000blayer 3 software (vxlan/evpn/mpls)\nCENTEC CTC5210"
+},
+{
+"t":"p",
+"text":"S3724PB-6X-EI"
+},
+{
+"t":"p",
+"text":"24*100M/1G RJ45 Downlink POE++ 90W\u000b6*1G/10G SFP+  Uplink\u000bDual 600W POE CRPS Hot-swappable Power Supplies\u000b12V battery input/ charging function\u000blayer 3 software (vxlan/evpn/mpls)\u000bCENTEC CTC5210"
+},
+{
+"t":"p",
+"text":"S3724S-6G6X-SI"
+},
+{
+"t":"p",
+"text":"24*100M/1G SFP and 6*100M/1G RJ45 Downlink\u000b6*1G/10G SFP+  Uplink\u000bAC Input Built-in open-frame power supply\u000b12V battery input/ charging function\u000blayer 3 software (vxlan/evpn/mpls)\u000bCENTEC CTC5210"
+},
+{
+"t":"p",
+"text":"S3708P-2X-SI"
+},
+{
+"t":"p",
+"text":"8*100M/1G RJ45 Downlink POE+ 30W\u000b2*1G/10G SFP+  Uplink\u000b150W POE Built-in Power Supply\u000bFAN less\u000blayer 3 software (vxlan/evpn/mpls)\u000bCENTEC CTC5210"
+},
+{
+"t":"p",
+"text":"S3724S-6G6X-EI"
+},
+{
+"t":"p",
+"text":"24*100M/1G SFP and 6*100M/1G RJ45 Downlink\u000b6*1G/10G SFP+  Uplink\u000bAC/DC  Dual hot-swappable power supplies\u000b12V battery input/ charging function\u000blayer 3 software (vxlan/evpn/mpls)\u000bCENTEC CTC5210"
+},
+{
+"t":"p",
+"text":"Use the unified HOS operating system platform"
+},
+{
+"t":"p",
+"text":"1G"
+}
+],
+"notes":""
+},
+{
+"n":15,
+"items":[
+{
+"t":"p",
+"text":"基于CENTEC BX DX系列芯片的新一代接入交换机研发项目\u000bThe RD project of Next new generation of access switches based on the CENTEC BX DX series chipst"
+},
+{
+"t":"p",
+"text":"10G"
+},
+{
+"t":"p",
+"text":"S3812X-SI"
+},
+{
+"t":"p",
+"text":"12*1G/10G SFP+  Downlink and Uplink\u000bAC Input Built-in open-frame power supply\u000b2*Smart FAN\u000b12VDC input port, battery charging function\u000blayer 3 software (vxlan/evpn/mpls)\u000bCENTEC CTC5220"
+},
+{
+"t":"p",
+"text":"Use the unified HOS operating system platform"
+},
+{
+"t":"p",
+"text":"S3812X-EI"
+},
+{
+"t":"p",
+"text":"12*1G/10G SFP+  Downlink and Uplink\u000bAC/DC  Dual hot-swappable power supplies\u000b2*Smart FAN\u000b12VDC input port, battery charging function\u000blayer 3 software (vxlan/evpn/mpls)\u000bCENTEC CTC5220"
+},
+{
+"t":"p",
+"text":"S3912N-SI"
+},
+{
+"t":"p",
+"text":"12*1G/10G/25G SFP28  Downlink and Uplink\u000bAC Input Built-in open-frame power supply\u000b2*Smart FAN\u000b12VDC input port, battery charging function\u000blayer 3 software (vxlan/evpn/mpls)\u000bCENTEC CTC5230"
+},
+{
+"t":"p",
+"text":"S3912N-EI"
+},
+{
+"t":"p",
+"text":"12*1G/10G/25G SFP28  Downlink and Uplink\u000bAC/DC  Dual hot-swappable power supplies\u000b2*Smart FAN\u000b12VDC input port, battery charging function\u000blayer 3 software (vxlan/evpn/mpls)\u000bCENTEC CTC5230"
+},
+{
+"t":"p",
+"text":"S3908N-2Z-SI"
+},
+{
+"t":"p",
+"text":"8*1G/10G/25G SFP28  Downlink and 2*40/100G Uplink\u000bAC Input Built-in open-frame power supply\u000b2*Smart FAN\u000b12VDC input port, battery charging function\u000blayer 3 software (vxlan/evpn/mpls)\u000bCENTEC CTC5260"
+},
+{
+"t":"p",
+"text":"S3908N-2Z-EI"
+},
+{
+"t":"p",
+"text":"8*1G/10G/25G SFP28  Downlink and 2*40/100G Uplink\u000bAC/DC  Dual hot-swappable power supplies\u000b2*Smart FAN\u000b12VDC input port, battery charging function\u000blayer 3 software (vxlan/evpn/mpls)\u000bCENTEC CTC5260"
+},
+{
+"t":"p",
+"text":"25G"
+}
+],
+"notes":""
+},
+{
+"n":16,
+"items":[
+{
+"t":"p",
+"text":"基于CENTEC AX 系列芯片的接入交换机研发项目\u000bThe RD project of access switches based on the CENTEC AX chipst"
+},
+{
+"t":"p",
+"text":"Simple Link\nSystem platform"
+},
+{
+"t":"p",
+"text":"S2108T-2S-SI"
+},
+{
+"t":"p",
+"text":"8*1G Base-T， 2*1G SFP\nFixed PSU\nFixed Fan\nWeb UI Managment\u000bCENTEC CTC2118"
+},
+{
+"t":"p",
+"text":"S2108P-2S-SI"
+},
+{
+"t":"p",
+"text":"S2124T-4S-SI"
+},
+{
+"t":"p",
+"text":"S2124P-4S-SI"
+},
+{
+"t":"p",
+"text":"1G"
+},
+{
+"t":"p",
+"text":"8*1G Base-T POE+， 2*1G SFP\nFixed PSU\nFixed Fan\nWeb UI Managment\u000bCENTEC CTC2118"
+},
+{
+"t":"p",
+"text":"24*1G Base-T， 4*1G SFP\nFixed PSU\nFixed Fan\nWeb UI Managment\u000bCENTEC CTC2118"
+},
+{
+"t":"p",
+"text":"24*1G Base-T POE+， 4*1G SFP\nFixed PSU\nFixed Fan\nWeb UI Managment\u000bCENTEC CTC2118"
+},
+{
+"t":"picture",
+"name":"图片 4"
+},
+{
+"t":"picture",
+"name":"图片 5"
+},
+{
+"t":"picture",
+"name":"图片 7"
+},
+{
+"t":"picture",
+"name":"图片 8"
+}
+],
+"notes":""
+},
+{
+"n":17,
+"items":[
+{
+"t":"p",
+"text":"1G"
+},
+{
+"t":"p",
+"text":"2.5G"
+},
+{
+"t":"p",
+"text":"10G"
+},
+{
+"t":"p",
+"text":"40G"
+},
+{
+"t":"p",
+"text":"100G"
+},
+{
+"t":"p",
+"text":"S7814ZH-4N"
+},
+{
+"t":"p",
+"text":"14*100G QSFP28, 4*25G SFP28"
+},
+{
+"t":"p",
+"text":"S5624TH-2Z"
+},
+{
+"t":"p",
+"text":"24*10G Base-T, 2*100G QSFP28"
+},
+{
+"t":"p",
+"text":"S5612X12TH-2Z"
+},
+{
+"t":"p",
+"text":"12*10G SFP+, 12*10G Base-T, 2*100G QSFP28"
+},
+{
+"t":"p",
+"text":"S5624XH-2Z"
+},
+{
+"t":"p",
+"text":"24*10G SFP+, 2*100G QSFP28"
+},
+{
+"t":"p",
+"text":"S3524PH-4X"
+},
+{
+"t":"p",
+"text":"24*2.5G Base-T (POE+ 30W), 4*10G SFP+, POE+"
+},
+{
+"t":"p",
+"text":"S3524H-4X"
+},
+{
+"t":"p",
+"text":"24*2.5G Base-T, 4*10G SFP+"
+},
+{
+"t":"p",
+"text":"S2624SH-4X"
+},
+{
+"t":"p",
+"text":"24*1G SFP, 4*10G SFP+"
+},
+{
+"t":"p",
+"text":"S2624PH-4X"
+},
+{
+"t":"p",
+"text":"24*1G Base-T (PoE+ 30W), 4*10G SFP+"
+},
+{
+"t":"p",
+"text":"S2624H-4X"
+},
+{
+"t":"p",
+"text":"24*1G Base-T, 4*10G SFP+"
+},
+{
+"t":"p",
+"text":"S7606X-2Z"
+},
+{
+"t":"p",
+"text":"6*40G QSFP+, 2*100G QSFP28"
+},
+{
+"t":"picture",
+"name":"图片 139"
+},
+{
+"t":"picture",
+"name":"图片 140"
+},
+{
+"t":"picture",
+"name":"图片 141"
+},
+{
+"t":"picture",
+"name":"图片 142"
+},
+{
+"t":"picture",
+"name":"图片 143"
+},
+{
+"t":"picture",
+"name":"图片 144"
+},
+{
+"t":"picture",
+"name":"图片 145"
+},
+{
+"t":"picture",
+"name":"图片 146"
+},
+{
+"t":"picture",
+"name":"图片 147"
+},
+{
+"t":"picture",
+"name":"图片 148"
+},
+{
+"t":"p",
+"text":"灵动系列交换机\nDynamicDuo Switches Overview"
+}
+],
+"notes":""
+},
+{
+"n":18,
+"items":[
+{
+"t":"picture",
+"name":"图片 2"
+},
+{
+"t":"picture",
+"name":"Picture 20"
+},
+{
+"t":"p",
+"text":"东莞，中国工厂\nDongguan, China Factory"
+},
+{
+"t":"picture",
+"name":"图片 5"
+},
+{
+"t":"p",
+"text":"HOHUNET 的供应链能力\nHOHUNET’s Supply Chain"
+},
+{
+"t":"p",
+"text":"海宁，中国工厂\nHaining, China Factory"
+},
+{
+"t":"p",
+"text":"拉古那市，菲律宾工厂\nLaguna, Philippines Factory"
+},
+{
+"t":"p",
+"text":"跟一线品牌（HUAWEI/HPE/H3C）的先进制作伙伴合作，确保供应的高品质\nCooperate with the advanced manufacturing partners （HUAWEI/HPE/H3C) of leading brands to ensure that our supply remains in the echelon of high quality."
+},
+{
+"t":"p",
+"text":"可选择国内（东莞/海宁）或海外（菲律宾）的供应链\nDomestic (Dongguan/Haining) or overseas (Philippines) Factories are Selectable."
+},
+{
+"t":"p",
+"text":"提供整机，PCBA单板，及原材料的三级供应能力\nProvide Complete Machine, PCBA Board, and Raw material supply capacity."
+}
+],
+"notes":""
+},
+{
+"n":19,
+"items":[
+{
+"t":"p",
+"text":"结束\u000bTHE END"
+},
+{
+"t":"p",
+"text":"深圳市浩湖网络技术有限公司\nShenzhen Hohunet Technology Co., LTD\u000b深圳市南山区深南大道9996号李宁中心11楼B座\u000bFloor11, NO.9996 Shen Nan Road,High-tech park, Nan Shan District, Shen Zhen,Guangdong,China\u000bhttp://www.hohunet.com\u000bbusiness@hohunet.com"
+},
+{
+"t":"picture",
+"name":"图片 9"
+},
+{
+"t":"picture",
+"name":"图片 4"
+}
+],
+"notes":""
+}
+],
+"extracted_at":"2026-10-23T05:04:27Z"
+}

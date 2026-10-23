@@ -1,0 +1,281 @@
+{
+"id":"Extra_Info__思路.xlsx__ead4a827",
+"path":"Extra_Info/思路.xlsx",
+"name":"思路.xlsx",
+"ext":".xlsx",
+"bytes":130242,
+"sha256":"ead4a82732311e5a7cae6b8c9ffcd642ad2c5b1e78d7c25ae9a518ad71dca981",
+"source":"Extra_Info.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"Sheet1"
+],
+"embedded_images":3,
+"rows_total":62
+},
+"warnings":[],
+"chars":2630,
+"text":"--- Sheet: Sheet1 ---\n产品图\t不同角度,高清，实物图，实物视频\n\t留一套样品 可以进行反复拆解 拍不同角度特点的照片等\n辅助信息\tLabel\t已写模板\n\t产线\t已有较多高清实物图(多个角度的，焊接 生产工具 测试设备 物流车 框子 环境等)\n\t团队\t目前有2张图，可以再增加一些(基本是日常团建 展会合照)\n\t展会\t无\n\t工作环境\t类似产线图，后续Smartbyte会做VR链接，可以借用(办公桌 会议室 生产线 仓库 前台等)\n\t应用图\t无\t客户买的是解决方案建议模拟真实安装环境（配电柜、机柜、轨道安装）拍摄\n\t测试\t已有较多高清实物图\n\t物流\t已有规范流程\n\t老化\t无\t老化测试图 / 视频能显著增加B端客户信任，建议纳入计划\n\t证书\t已处理\n\t宣传图\t主要是指产品组合图等，有一些，较少(导轨 6KV防雷 高低温测试等 参考亚马逊)\n\t包装盒\t无(介绍包装盒尺寸 特点（高质量 不易褶皱 不影响resell等） 根据包什么样的产品拍不同的图)\nInformative\t价格  质保 供应能力 包装尺寸和重量 大概交期等辅助信息尽量写真实一些\nBrochure\t挂耳 背板 包转发率 丝印logo 指示灯等信息要详尽(类似长图的思路，一次性展示好产品信息)\nCatalog\t目前Din Power Adapter有了，还有一个公司宣传的Profile（再丰富一下）\n可参考网站\thttp://www.ez-net.co.kr/new_2012/product/view.php?cid=461&sid=480&q=&seq=1454&page=&q=\n\thttps://www.leonton.com/products-detail.aspx?seq=92\n\thttps://www.upcomnet.com/products/industrial-ethernet-switches-din-rail-unmanaged-layer2-559.html\t\t\t\t\t\t一些锚点设计挺牛逼的\n\thttps://www.mornsun-power.com/html/products/44/metal-din-rail-lif--120-480w.html\n\thttps://www.luetze.com/catalogue/Control/Industrial-communication/772015/\n\thttps://rbs-telecom.com/?lang=en\t\t\tVideo这个子主题不错\n\thttps://fibertechnic.com/en/fiber-optic-technology/\n\thttps://www.etherwan.com/products/ex78900e-series   这个产品主页非常不错/信息展示的比较全面/基本客户问的信息都在这里了\n\thttps://www.utepo.net/product/detail/8-Port-BTPoE-Gigabit-2-Port-SFP-L2-Managed-Ethernet-Switch-UTP7308GE-BTPOE90.html\n\thttps://www.fiberopticlink.com/product/industrial-ethernet-switches/media-converters/10-100-enhanced-ethernet-media-converter/#docs\n\thttps://www.felixmeter.com/\t\t\t李洋这个整体上看着还行  一些位置放的不是很好\n\thttps://www.alibaba.com/product-detail/Industrial-8-Port-Full-Gigabit-POE_1600160893098.html?spm=a2700.galleryofferlist.normal_offer.d_image.44c42f8aelMfDd\n销售\t1, 避免不必要的问题  包装盒子不好 运输中出现了磨损 磕碰等问题 做好备份及记录（合同号/收货日期等）\n\t2, standard, simplified的流程\n下单流程\t已写，Order Procedure\n客户分类\tOK\n视频\t产品本身的（特性什么的） 公司的（前台／产线／仓库／会议室等）进行剪辑 团建 产品测试等各个角度的\n\t短的长的 不用平台要求的 多种用途的  搞多个版本\n规范模板化\tPI模板 销售合同等，注意备份和保留源文件\n信息更新!!\t先想再做 不要着急下手\n网站\t一站式，基本需要的信息都可以展示出来（规格书 CAD图 附加信息打标 发货 刷标等 P的图 实物图 包装图等）\nQIG\t基本和USER MANUAL一体，目前datasheet中已经提及这一点了\n特殊功能说明\tDI/DO/RS485, Bypass, Auto-PD detection等\n1. 竞品分析（没提到）\n参考网站列了不少，但那是\"借鉴设计\"，不是系统性的竞品追踪\n对手在卖什么价、主推什么卖点、差评在哪、你的差异化是什么——这块完全空白\n2. 目标客户画像（没提到）\n客户分类写了\"OK\"，但不清楚是否真的定义清楚了\n谁是核心买家、他们的采购决策流程是什么、他们最在意什么（价格/认证/交期/售后）\n这个会直接影响所有内容的写法\n3. 售后/RMA流程\nQIG和Manual提到了，但退换货、质保执行、售后响应这条线完全没有，B端客户非常在意这个\n4. 认证合规的动态维护\n证书\"已处理\"，但有没有跟踪到期时间、新市场准入需要什么认证（比如北美UL、欧洲CE细分）\n这是被动等出问题的风险点\n5. 定价策略\nInformative里提到\"价格写真实一些\"，但没有看到定价逻辑：梯度定价、渠道价vs终端价、如何应对压价——这块缺\n6. 流量/获客渠道规划\n网站做好了，但客户怎么来？展会、平台（阿里/亚马逊）、LinkedIn主动开发、老客户转介绍\n这条线完全没有系统规划，属于比较大的缺口\n7. 内容更新机制\n提到\"信息更新！！先想再做\"，但没有回答谁来更新、多久更新一次、什么触发更新（新产品/新认证/价格调整）\n内容会慢慢腐烂\n8. 样品管理\n提到留一套样品拆解拍照，但样品寄送给客户的流程、追踪、收回——没提",
+"sheets":{
+"Sheet1":{
+"state":"visible",
+"rows":[
+[
+"产品图",
+"不同角度,高清，实物图，实物视频"
+],
+[
+"",
+"留一套样品 可以进行反复拆解 拍不同角度特点的照片等"
+],
+[
+"辅助信息",
+"Label",
+"已写模板"
+],
+[
+"",
+"产线",
+"已有较多高清实物图(多个角度的，焊接 生产工具 测试设备 物流车 框子 环境等)"
+],
+[
+"",
+"团队",
+"目前有2张图，可以再增加一些(基本是日常团建 展会合照)"
+],
+[
+"",
+"展会",
+"无"
+],
+[
+"",
+"工作环境",
+"类似产线图，后续Smartbyte会做VR链接，可以借用(办公桌 会议室 生产线 仓库 前台等)"
+],
+[
+"",
+"应用图",
+"无",
+"客户买的是解决方案建议模拟真实安装环境（配电柜、机柜、轨道安装）拍摄"
+],
+[
+"",
+"测试",
+"已有较多高清实物图"
+],
+[
+"",
+"物流",
+"已有规范流程"
+],
+[
+"",
+"老化",
+"无",
+"老化测试图 / 视频能显著增加B端客户信任，建议纳入计划"
+],
+[
+"",
+"证书",
+"已处理"
+],
+[
+"",
+"宣传图",
+"主要是指产品组合图等，有一些，较少(导轨 6KV防雷 高低温测试等 参考亚马逊)"
+],
+[
+"",
+"包装盒",
+"无(介绍包装盒尺寸 特点（高质量 不易褶皱 不影响resell等） 根据包什么样的产品拍不同的图)"
+],
+[
+"Informative",
+"价格  质保 供应能力 包装尺寸和重量 大概交期等辅助信息尽量写真实一些"
+],
+[
+"Brochure",
+"挂耳 背板 包转发率 丝印logo 指示灯等信息要详尽(类似长图的思路，一次性展示好产品信息)"
+],
+[
+"Catalog",
+"目前Din Power Adapter有了，还有一个公司宣传的Profile（再丰富一下）"
+],
+[
+"可参考网站",
+"http://www.ez-net.co.kr/new_2012/product/view.php?cid=461&sid=480&q=&seq=1454&page=&q="
+],
+[
+"",
+"https://www.leonton.com/products-detail.aspx?seq=92"
+],
+[
+"",
+"https://www.upcomnet.com/products/industrial-ethernet-switches-din-rail-unmanaged-layer2-559.html",
+"",
+"",
+"",
+"",
+"",
+"一些锚点设计挺牛逼的"
+],
+[
+"",
+"https://www.mornsun-power.com/html/products/44/metal-din-rail-lif--120-480w.html"
+],
+[
+"",
+"https://www.luetze.com/catalogue/Control/Industrial-communication/772015/"
+],
+[
+"",
+"https://rbs-telecom.com/?lang=en",
+"",
+"",
+"Video这个子主题不错"
+],
+[
+"",
+"https://fibertechnic.com/en/fiber-optic-technology/"
+],
+[
+"",
+"https://www.etherwan.com/products/ex78900e-series   这个产品主页非常不错/信息展示的比较全面/基本客户问的信息都在这里了"
+],
+[
+"",
+"https://www.utepo.net/product/detail/8-Port-BTPoE-Gigabit-2-Port-SFP-L2-Managed-Ethernet-Switch-UTP7308GE-BTPOE90.html"
+],
+[
+"",
+"https://www.fiberopticlink.com/product/industrial-ethernet-switches/media-converters/10-100-enhanced-ethernet-media-converter/#docs"
+],
+[
+"",
+"https://www.felixmeter.com/",
+"",
+"",
+"李洋这个整体上看着还行  一些位置放的不是很好"
+],
+[
+"",
+"https://www.alibaba.com/product-detail/Industrial-8-Port-Full-Gigabit-POE_1600160893098.html?spm=a2700.galleryofferlist.normal_offer.d_image.44c42f8aelMfDd"
+],
+[
+"销售",
+"1, 避免不必要的问题  包装盒子不好 运输中出现了磨损 磕碰等问题 做好备份及记录（合同号/收货日期等）"
+],
+[
+"",
+"2, standard, simplified的流程"
+],
+[
+"下单流程",
+"已写，Order Procedure"
+],
+[
+"客户分类",
+"OK"
+],
+[
+"视频",
+"产品本身的（特性什么的） 公司的（前台／产线／仓库／会议室等）进行剪辑 团建 产品测试等各个角度的"
+],
+[
+"",
+"短的长的 不用平台要求的 多种用途的  搞多个版本"
+],
+[
+"规范模板化",
+"PI模板 销售合同等，注意备份和保留源文件"
+],
+[
+"信息更新!!",
+"先想再做 不要着急下手"
+],
+[
+"网站",
+"一站式，基本需要的信息都可以展示出来（规格书 CAD图 附加信息打标 发货 刷标等 P的图 实物图 包装图等）"
+],
+[
+"QIG",
+"基本和USER MANUAL一体，目前datasheet中已经提及这一点了"
+],
+[
+"特殊功能说明",
+"DI/DO/RS485, Bypass, Auto-PD detection等"
+],
+[
+"1. 竞品分析（没提到）"
+],
+[
+"参考网站列了不少，但那是\"借鉴设计\"，不是系统性的竞品追踪"
+],
+[
+"对手在卖什么价、主推什么卖点、差评在哪、你的差异化是什么——这块完全空白"
+],
+[
+"2. 目标客户画像（没提到）"
+],
+[
+"客户分类写了\"OK\"，但不清楚是否真的定义清楚了"
+],
+[
+"谁是核心买家、他们的采购决策流程是什么、他们最在意什么（价格/认证/交期/售后）"
+],
+[
+"这个会直接影响所有内容的写法"
+],
+[
+"3. 售后/RMA流程"
+],
+[
+"QIG和Manual提到了，但退换货、质保执行、售后响应这条线完全没有，B端客户非常在意这个"
+],
+[
+"4. 认证合规的动态维护"
+],
+[
+"证书\"已处理\"，但有没有跟踪到期时间、新市场准入需要什么认证（比如北美UL、欧洲CE细分）"
+],
+[
+"这是被动等出问题的风险点"
+],
+[
+"5. 定价策略"
+],
+[
+"Informative里提到\"价格写真实一些\"，但没有看到定价逻辑：梯度定价、渠道价vs终端价、如何应对压价——这块缺"
+],
+[
+"6. 流量/获客渠道规划"
+],
+[
+"网站做好了，但客户怎么来？展会、平台（阿里/亚马逊）、LinkedIn主动开发、老客户转介绍"
+],
+[
+"这条线完全没有系统规划，属于比较大的缺口"
+],
+[
+"7. 内容更新机制"
+],
+[
+"提到\"信息更新！！先想再做\"，但没有回答谁来更新、多久更新一次、什么触发更新（新产品/新认证/价格调整）"
+],
+[
+"内容会慢慢腐烂"
+],
+[
+"8. 样品管理"
+],
+[
+"提到留一套样品拆解拍照，但样品寄送给客户的流程、追踪、收回——没提"
+]
+]
+}
+},
+"extracted_at":"2026-10-23T05:01:25Z"
+}

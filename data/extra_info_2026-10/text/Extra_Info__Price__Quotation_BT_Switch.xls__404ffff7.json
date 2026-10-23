@@ -1,0 +1,318 @@
+{
+"id":"Extra_Info__Price__Quotation_BT_Switch.xls__404ffff7",
+"path":"Extra_Info/Price/Quotation_BT Switch.xls",
+"name":"Quotation_BT Switch.xls",
+"ext":".xls",
+"bytes":11536384,
+"sha256":"404ffff7eba4401eb12441f89684afc273b224594d9f8ad5b013b7539a7daf81",
+"source":"Extra_Info.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Quotation 1",
+"Quotation 2"
+],
+"rows_total":64
+},
+"warnings":[],
+"chars":4347,
+"text":"--- Sheet: Quotation 1 ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 13048800964                                          www.sagatelecom.com.cn                                Email: a.sagatelecom@gmail.com\n*********************************************************************************************************************\nQuotation\nBuyer:\tGOGREENIT\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t\t\tQuoted By:\tAlan\nEmail:\tinfo@gogreenit.net\t\tDate:\t11th, June, 2025\nContact Person:\tChris\t\tPrice Term:\tDAP\nDestination\tUK\nModel\tSpecification\t\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSTI-41616XGGPM-4BT\t\tIndustrial PoE Managed Switch\n\n4*1G/2.5G/10G SFP+16*10/100/1000M RJ45/PoE +1*Console Port+1*USB Port\n12*PoE af/at+4*PoE af/at/bt\n240W/370W, L2+ Managed\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), Din Mounted\nWith Mounting Hanger\nWithout Optical Module, Without Power Supply\n\n1, Without DI/DO/RS485 Function\n2, -40℃~+ 70℃@240W PoE Output\n-40℃~+ 60℃@370W PoE Output\t\t1\t400\t400\tMarvell Chip\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 158*115*110mm\nGross Weight: 2KG\nFreight Cost\t60usd for about 2Kg volume weight to UK by FedEx\nAir, door-to-door service\nShipment time: 4~6 calendar days\t\t\t\t\t60\nTOTAL\t\t\t\t\t\t460\nRemark\nPlease do make sure client side could handle import customs clearance.\nIf there is any problem with the shipment or clearance\n1, please let us know ASAP\n2, please call DHL/FedEx/UPS official number for information\nPrice validity: 15 days\nSaga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply.\nNon-brand packing, without Chinese letters or logo\nNeutral device\nCountry of origin: China\nProduction time: 3~5 working days(this is NOT including shipping time)\nWarranty: 3 years, lifetime technical support\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" for more information.\n--- Sheet: Quotation 2 ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 13048800964                                          www.sagatelecom.com.cn                                Email: a.sagatelecom@gmail.com\n*********************************************************************************************************************\nQuotation\nBuyer:\tGOGREENIT\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t\t\tQuoted By:\tAlan\nEmail:\tinfo@gogreenit.net\t\tDate:\t11th, June, 2025\nContact Person:\tChris\t\tPrice Term:\tDAP\nDestination\tUK\nModel\tSpecification\t\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSTI-488XGGPM-2BT\t\tIndustrial PoE Managed Switch\n\n4*1G/2.5G/10G SFP+8*10/100/1000M RJ45/PoE +1*Console Port+1*USB Port\n6*PoE af/at+2*PoE af/at/bt\n240W, L2+ Managed\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din Mounted\nWith Mounting Hanger\nWithout Optical Module, Without Power Supply\n\nWith DI/DO/RS485 Function\t\t1\t250\t250\tMarvell Chip\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 158*115*54mm\nGross Weight: 1.4KG\nFreight Cost\t60usd for about 2Kg volume weight to UK by FedEx\nAir, door-to-door service\nShipment time: 4~6 calendar days\t\t\t\t\t60\nTOTAL\t\t\t\t\t\t310\nRemark\nPlease do make sure client side could handle import customs clearance.\nIf there is any problem with the shipment or clearance\n1, please let us know ASAP\n2, please call DHL/FedEx/UPS official number for information\nPrice validity: 15 days\nSaga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply.\nNon-brand packing, without Chinese letters or logo\nNeutral device\nCountry of origin: China\nProduction time: 3~5 working days(this is NOT including shipping time)\nWarranty: 3 years, lifetime technical support\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" for more information.",
+"sheets":{
+"Quotation 1":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Tailored Marvell Managed Networking Solutions Provider"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 13048800964                                          www.sagatelecom.com.cn                                Email: a.sagatelecom@gmail.com"
+],
+[
+"*********************************************************************************************************************"
+],
+[
+"Quotation"
+],
+[
+"Buyer:",
+"GOGREENIT",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"",
+"",
+"Quoted By:",
+"Alan"
+],
+[
+"Email:",
+"info@gogreenit.net",
+"",
+"Date:",
+"11th, June, 2025"
+],
+[
+"Contact Person:",
+"Chris",
+"",
+"Price Term:",
+"DAP"
+],
+[
+"Destination",
+"UK"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"STI-41616XGGPM-4BT",
+"",
+"Industrial PoE Managed Switch\n\n4*1G/2.5G/10G SFP+16*10/100/1000M RJ45/PoE +1*Console Port+1*USB Port\n12*PoE af/at+4*PoE af/at/bt\n240W/370W, L2+ Managed\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), Din Mounted\nWith Mounting Hanger\nWithout Optical Module, Without Power Supply\n\n1, Without DI/DO/RS485 Function\n2, -40℃~+ 70℃@240W PoE Output\n-40℃~+ 60℃@370W PoE Output",
+"",
+"1",
+"400",
+"400",
+"Marvell Chip"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 158*115*110mm\nGross Weight: 2KG"
+],
+[
+"Freight Cost",
+"60usd for about 2Kg volume weight to UK by FedEx\nAir, door-to-door service\nShipment time: 4~6 calendar days",
+"",
+"",
+"",
+"",
+"60"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"",
+"",
+"460"
+],
+[
+"Remark"
+],
+[
+"Please do make sure client side could handle import customs clearance."
+],
+[
+"If there is any problem with the shipment or clearance"
+],
+[
+"1, please let us know ASAP"
+],
+[
+"2, please call DHL/FedEx/UPS official number for information"
+],
+[
+"Price validity: 15 days"
+],
+[
+"Saga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply."
+],
+[
+"Non-brand packing, without Chinese letters or logo"
+],
+[
+"Neutral device"
+],
+[
+"Country of origin: China"
+],
+[
+"Production time: 3~5 working days(this is NOT including shipping time)"
+],
+[
+"Warranty: 3 years, lifetime technical support"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" for more information."
+]
+]
+},
+"Quotation 2":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Tailored Marvell Managed Networking Solutions Provider"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 13048800964                                          www.sagatelecom.com.cn                                Email: a.sagatelecom@gmail.com"
+],
+[
+"*********************************************************************************************************************"
+],
+[
+"Quotation"
+],
+[
+"Buyer:",
+"GOGREENIT",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"",
+"",
+"Quoted By:",
+"Alan"
+],
+[
+"Email:",
+"info@gogreenit.net",
+"",
+"Date:",
+"11th, June, 2025"
+],
+[
+"Contact Person:",
+"Chris",
+"",
+"Price Term:",
+"DAP"
+],
+[
+"Destination",
+"UK"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"STI-488XGGPM-2BT",
+"",
+"Industrial PoE Managed Switch\n\n4*1G/2.5G/10G SFP+8*10/100/1000M RJ45/PoE +1*Console Port+1*USB Port\n6*PoE af/at+2*PoE af/at/bt\n240W, L2+ Managed\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din Mounted\nWith Mounting Hanger\nWithout Optical Module, Without Power Supply\n\nWith DI/DO/RS485 Function",
+"",
+"1",
+"250",
+"250",
+"Marvell Chip"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 158*115*54mm\nGross Weight: 1.4KG"
+],
+[
+"Freight Cost",
+"60usd for about 2Kg volume weight to UK by FedEx\nAir, door-to-door service\nShipment time: 4~6 calendar days",
+"",
+"",
+"",
+"",
+"60"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"",
+"",
+"310"
+],
+[
+"Remark"
+],
+[
+"Please do make sure client side could handle import customs clearance."
+],
+[
+"If there is any problem with the shipment or clearance"
+],
+[
+"1, please let us know ASAP"
+],
+[
+"2, please call DHL/FedEx/UPS official number for information"
+],
+[
+"Price validity: 15 days"
+],
+[
+"Saga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply."
+],
+[
+"Non-brand packing, without Chinese letters or logo"
+],
+[
+"Neutral device"
+],
+[
+"Country of origin: China"
+],
+[
+"Production time: 3~5 working days(this is NOT including shipping time)"
+],
+[
+"Warranty: 3 years, lifetime technical support"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" for more information."
+]
+]
+}
+},
+"extracted_at":"2026-10-23T05:05:49Z"
+}

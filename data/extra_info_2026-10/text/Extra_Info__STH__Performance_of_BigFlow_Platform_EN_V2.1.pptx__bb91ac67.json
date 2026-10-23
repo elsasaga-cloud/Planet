@@ -1,0 +1,1408 @@
+{
+"id":"Extra_Info__STH__Performance_of_BigFlow_Platform_EN_V2.1.pptx__bb91ac67",
+"path":"Extra_Info/STH/Performance of BigFlow Platform_EN_V2.1.pptx",
+"name":"Performance of BigFlow Platform_EN_V2.1.pptx",
+"ext":".pptx",
+"bytes":100269,
+"sha256":"bb91ac673a20dcaf4011df73b0089c42158baa428e7366d067bf2e2d52330071",
+"source":"Extra_Info.zip",
+"method":"python-pptx",
+"status":"ok",
+"meta":{
+"slides":10,
+"pictures":0
+},
+"warnings":[],
+"chars":9143,
+"text":"[slide 1]\nSAGA TELECOM BIGFLOW PLATFORM PERFORMANCE\nHigh Performance Switching Hardware Platform\nPlatform Overview\nBigFlow platform is a purpose-built Ethernet switching platform to address the growing demand for extreme low latency/jitter, comprehensive end-to-end tunnel network and high speed in the era of edge computing and AI.\nBigFlow platform provides superb flexible I/O connectivity capability, support full-range port speeds from 10G to 100G.\nKey Features of the BigFlow Platform\nEthernet capabilities: MAC table, Vxlan, IPFIX, ACL, EVC etc.\nFull set of Layer 2 and Layer 3 protocol\nRich OAM\nSecurity feature set\nPrecision timing protocol\nTable 1: Performance of BigFlow Platform\nPerformance of the BigFlow Platform\nVersion: V2.1\u000bRelease Date: 2025/11/24\nType\tSpecification\tValue\nEthernet Basic\t\t\nJumbo Frame\tMaximum jumbo frame size\t9600\nUnicast MAC\tMAC address capacity\tDefault profile:122880\n\t\tIPv6 profile: 65536\n\t\tLayer3 profile: 65536\n\t\tMPLS profile: 131072\n\tMAC learning rate (SW)\t> 4000pps\n\tMAC learning rate (HW)\t> 10Gbps\n\tBlackhole MAC address capacity\t128\nMulticast MAC\tMAC address capacity\tDefault profile: 2048\n\t\tIPv6 profile: 1024\n\t\tLayer3 profile: 1024\n\t\tMPLS profile: 2048\n\n[slide 2]\nTable 1: Performance of BigFlow Platform (Continued)\nType\tSpecification\tValue\nEthernet Basic\t\t\nVLAN\tVLAN IDs\t4094\n\tVLAN instances\t4094\n\tVLANs to enable statistics\t256\nVLAN Mapping\tMaximum mapping table\t64\n\tMaximum rules number\t3072\nEVC\tMaximum EVC number\t4094\nLink Aggregation (Static & LACP)\tMaximum member number per group\tNo limitation\n\tMaximum Group Num\t64\n\tLoad balance key mode\tStatic/Dlb/RR/Resilient/Self-healing\n\tConvergence time\t< 50ms\nVLAN Classification\tMaximum rule number\t4096\n\tMaximum group number\t1\n\tBase MAC capacity\t512\n\tBase IPv4 capacity\t448\n\tBase IPv6 capacity\t32\n\tBase protocol capacity\t7\nEthernet Ring Protection\t\t\nSTP\tConvergence time\t< 30s\nRSTP\tConvergence time\t< 1s\nMSTP\tInstance number\t64\n\tConvergence time\t< 1s\nERPS\tDomain number\t16\n\tRing number\t1 Primary ring/domain\n\t\t2 Sub ring/domain\n\tProtection instance number per Ring\t64\n\tSwitchover time\t< 50 ms\n\n[slide 3]\nTable 1: Performance of BigFlow Platform (Continued)\nType\tSpecification\tValue\nEthernet OAM\t\t\nCFM (802.1ag)\tMaximum session number\t1024\n\tMaximum domain number\t8\n\tCCM interval types\t7\n\tCCM minimum interval\t3.3ms\n\tMaximum down MEP number\t1024\n\tMaximum up MEP number\t1024\n\tMaximum LMEP number\t1024\nIPv4 Unicast\t\t\nARP\tARP capacity\tDefault profile: 16384\n\t\tIPv6 profile: 16384\n\t\tLayer3 profile: 20480\n\t\tMPLS profile: 8192\nIPv4\tFIB\tDefault profile: 61440\n\t\tIPv6 profile: 32768\n\t\tLayer3 profile: 61440\n\t\tMPLS profile: 32768\nECMP\tECMP group\t240 (Share with IPv6)\nPBR\tPolicy route map\t64\n\tPolicy based routing ACE\t1024\nOSPF\tMaximum static neighbors\t256\n\tMaximum summary address\t2048\nIPv4 Multicast\t\t\nIPMC\tMulticast routing table\tDefault profile: 2048\n\t\tIPv6 profile: 1024\n\t\tLayer3 profile: 2048\n\t\tMPLS profile: 1024\n\tMulticast routing downstream interfaces\tDefault profile: 4096\n\n[slide 4]\nTable 1: Performance of BigFlow Platform (Continued)\nType\tSpecification\tValue\nIPv4 Multicast\t\t\nIPMC\tMulticast routing downstream interfaces\tIPv6 profile: 2048\n\t\tLayer3 profile: 5120\n\t\tMPLS profile: 2048\nIGMP Snooping\tMaximum groups number\t2048\n\tMaximum member number\tN/A\nMVR\tMaximum group number\tDefault profile: 2048\n\t\tIPv6 profile: 1024\n\t\tLayer3 Profile: 2048\n\t\tMPLS profile: 1024\n\tMaximum member number\tDefault profile: 4096\n\t\tIPv6 profile: 2048\n\t\tLayer3 profile: 5120\n\t\tMPLS profile: 2048\nIPv6 Unicast\t\t\nHost Route\tNDP capacity\tDefault profile: 2048\n\t\tIPv6 profile: 8192\n\t\tLayer3 profile: 2048\n\t\tMPLS profile: 2048\nIPv6\tFIBv6\tDefault profile: 4096\n\t\tIPv6 profile: 16384\n\t\tLayer3 profile: 4096\n\t\tMPLS profile: 2048\n\tECMP group\t240 (share with IPv4)\nIPv6 Multicast\t\t\nIPMC\tMulticast routing table\tDefault profile: 256\n\t\tIPv6 profile: 512\n\t\tLayer3 Profile: 0\n\t\tMPLS profile: 0\n\n[slide 5]\nTable 1: Performance of BigFlow Platform (Continued)\nType\tSpecification\tValue\nIPv6 Multicast\t\t\nIPMC\tNumber of interfaces that support multicast routing table\tDefault profile: 512\n\t\tIPv6 profile: 1024\n\t\tLayer3 Profile: 0\n\t\tMPLS profile: 0\nMVR V6\tMaximum entry number\tDefault profile: 256\n\t\tIPv6 Profile: 512\n\t\tLayer3 Profile: 0\n\t\tMPLS profile: 0\n\tMaximum member number\tDefault profile: 512\n\t\tIPv6 profile: 1024\n\t\tLayer3 Profile: 0\n\t\tMPLS profile: 0\nIP tunnel\t\t\nIP Tunnel\tTunnel peer capacity\t8\nQoS\t\t\nPer-port Queue Number\tUnicast queue\t10\n\tMulticast queue\t10\n\tMonitor queue\t10\nPacket Buffer\tSystem packet buffer capacity\t16MByte\nGranularity\tPolicer granularity\t0~2M: 10K\n\t\t2M~100M: 40K\n\t\t100M~1G: 80K\n\t\t1G~2G: 120K\n\t\t2G~4G: 250K\n\tQueue shape granularity\t4G~10G: 500K\n\tPort shape granularity\t10k\nFlow Entry\tIngress port QoS ipv4 flow entries\t1532\n\n[slide 6]\nTable 1: Performance of BigFlow Platform (Continued)\nType\tSpecification\tValue\nQoS\t\t\nFlow Entry\tIngress port QoS ipv6 flow entries\t1532\n\tIngress port QoS flow statistics entries\t511\nACL\t\t\nMAC ACL\tIngress port ACL for MAC\tDefault profile: 4413\n\t\tIPv6 profile: 4413\n\t\tLayer3 profile: 4416\n\t\tMPLS profile: 4416\n\tIngress VLAN ACL for MAC\tDefault profile: 4413\n\t\tIPv6 profile: 4413\n\t\tLayer3 profile: 4416\n\t\tMPLS profile: 4416\n\tEgress port ACL for MAC\tDefault profile: 3949\n\t\tIPv6 profile: 3952\n\t\tLayer3 profile: 4000\n\t\tMPLS profile: 4000\n\tEgress VLAN ACL for MAC\tDefault profile: 3949\n\t\tIPv6 profile: 3952\n\t\tLayer3 profile: 4000\n\t\tMPLS profile: 4000\nIPv4 ACL\tIngress Port ACL for IPv4\tDefault profile: 4413\n\t\tIPv6 profile: 4413\n\t\tLayer3 profile: 4416\n\t\tMPLS profile: 4416\n\tIngress VLAN ACL for IPv4\tDefault profile: 4413\n\t\tIPv6 profile: 4413\n\t\tLayer3 profile: 4416\n\t\tMPLS profile: 4416\n\n[slide 7]\nTable 1: Performance of BigFlow Platform (Continued)\nType\tSpecification\tValue\nACL\t\t\nIPv4 ACL\tEgress Port ACL for IPv4\tDefault profile: 3949\n\t\tIPv6 profile: 3952\n\t\tLayer3 profile: 4000\n\t\tMPLS profile: 4000\n\tEgress VLAN ACL for IPv4\tDefault profile: 3949\n\t\tIPv6 profile: 3952\n\t\tLayer3 profile: 4000\n\t\tMPLS profile: 4000\nIPv6 ACL\tIngress Port ACL for IPv6\tDefault profile: 4413\n\t\tIPv6 profile: 4413\n\t\tLayer3 profile: 4416\n\t\tMPLS profile: 4416\n\tIngress VLAN ACL for IPv6\tDefault profile: 4413\n\t\tIPv6 profile: 4413\n\t\tLayer3 profile: 4416\n\t\tMPLS profile: 4416\n\tEgress Port ACL for IPv6\tDefault profile: 3949\n\t\tIPv6 profile: 3952\n\t\tLayer3 profile: 4000\n\t\tMPLS profile: 4000\n\tEgress VLAN ACL for IPv6\tDefault profile: 3949\n\t\tIPv6 profile: 3952\n\t\tLayer3 profile: 4000\n\t\tMPLS profile: 4000\nACL Flow Statistics\tIngress ACL flow statistics entries\tDefault profile: 4413\n\t\tIPv6 profile: 4413\n\t\tLayer3 profile: 4416\n\t\tMPLS profile: 4416\n\n[slide 8]\nTable 1: Performance of BigFlow Platform (Continued)\nType\tSpecification\tValue\nACL\t\t\nACL Flow Statistics\tEgress ACL flow statistics entries\tDefault profile: 3949\n\t\tIPv6 profile: 3952\n\t\tLayer3 profile: 4000\n\t\tMPLS profile: 4000\nCoPP\tCoPP rules\t1500\n\tCoPP flow statistics entries\t1500\nUDF\tUDF rules\t512\n\tUDF flow stats entries\t1024\nSecurity\t\t\nIP Source Guard\tIPv4 maximum rules number\t2048\n\tIPv6 maximum rules number\t64\n802.1x Base MAC\tMaximum entries\t512\nDHCP Snooping\tMaximum bound entry\t4096\nIPFIX\t\t\nIPFIX\tIPFIX member\t4096\nReliability\t\t\nBFD\tMaximum session number\tShare 256\nS-BFD\tMaximum session number\tShare 256\nVRRP\tMaximum group number\t63\nSmart Link\tMaximum group number\t16\n\tMaximum instance number\t64\n\tSwitchover time\t<50ms\nMonitor Link\tMaximum group number\t16\n\tMaximum up-link number per group\t24\nData Center\t\t\nVARP\tVirtual IP number per port\t15\nVXLAN\tVXLAN tunnel\tDefault profile: 16384\n\n[slide 9]\nTable 1: Performance of BigFlow Platform (Continued)\nType\tSpecification\tValue\nData Center\t\t\nVXLAN\tVXLAN tunnel\tIPv6 profile: 16384\n\t\tLayer3 profile: 16384\n\t\tMPLS profile: 4096\n\tVNI\tDefault profile: 4092\n\t\tIPv6 profile: 4092\n\t\tLayer3 profile: 4092\n\t\tMPLS profile: 2000\n\tVTEP peer\tDefault profile: 2048\n\t\tIPv6 profile: 2048\n\t\tLayer3 profile: 2048\n\t\tMPLS profile: 128\n\n[slide 10]\nProduct List Based on BigFlow Platform\nTable 2: Product List Based on BigFlow Platform\nSeries\tModel\tSpecification\nSTH25G\tSTH-4C48DF-HSI\t48*25G SFP28, 4*100G QSFP28, L3 managed Ethernet switch, 2*Hot-swappable 550W CRPS Modules\n4*Hot-swappable Fan Modules\n\tSTH-8C24DF-HSI\t24*25G SFP28, 8*100G QSFP28, L3 managed Ethernet switch, 2*Hot-swappable 350W CRPS Modules\n2*Hot-swappable Fan Modules\nSTH10G\tSTH-4C12DF36XF-HSI\t36*10G SFP+, 12*25G SFP28, 4*100G QSFP28, L3 Managed Ethernet Switch, 2*Hot-swappable 550W CRPS Modules\n4*Hot-swappable Fan Modules\n\tSTH-4C12DF36XF-SFI\t36*10G SFP+, 12*25G SFP28, 4*100G QSFP28, L3 Managed Ethernet Switch, 1*200W Fixed Power Supply\n4*Fixed Fans\n\tSTH-8C48XF-HSI\t48*10G SFP+, 8*100G QSFP28, L3 Managed Ethernet Switch, 2*Hot-swappable 550W CRPS Modules\n4*Hot-swappable Fan Modules\n\tSTH-8C48XF-SFI\t48*10G SFP+, 8*100G QSFP28, L3 Managed Ethernet Switch, 1*200W Fixed Power Supply\n4*Fixed Fans\n\tSTH-8C24XF-HSI\t24*10G SFP+, 8*100G QSFP28, L3 Managed Ethernet Switch, 2*Hot-swappable 350W CRPS Modules\n2*Hot-swappable Fan Modules\n\tSTH-8C24XF-SFI\t24*10G SFP+, 8*100G QSFP28, L3 Managed Ethernet Switch, 1*200W Fixed Power Supply\n4*Fixed Fans\nXLite\tSTH-14C4DF-HSI\t4*10G/25G SFP28, 14*100G QSFP28, L3 managed Ethernet Switch, 2*Hot-swappable 300W CRPS Modules\n2*Hot-swappable Fan Modules",
+"slides":[
+{
+"n":1,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Specification",
+"Value"
+],
+[
+"Ethernet Basic",
+"",
+""
+],
+[
+"Jumbo Frame",
+"Maximum jumbo frame size",
+"9600"
+],
+[
+"Unicast MAC",
+"MAC address capacity",
+"Default profile:122880"
+],
+[
+"",
+"",
+"IPv6 profile: 65536"
+],
+[
+"",
+"",
+"Layer3 profile: 65536"
+],
+[
+"",
+"",
+"MPLS profile: 131072"
+],
+[
+"",
+"MAC learning rate (SW)",
+"> 4000pps"
+],
+[
+"",
+"MAC learning rate (HW)",
+"> 10Gbps"
+],
+[
+"",
+"Blackhole MAC address capacity",
+"128"
+],
+[
+"Multicast MAC",
+"MAC address capacity",
+"Default profile: 2048"
+],
+[
+"",
+"",
+"IPv6 profile: 1024"
+],
+[
+"",
+"",
+"Layer3 profile: 1024"
+],
+[
+"",
+"",
+"MPLS profile: 2048"
+]
+]
+},
+{
+"t":"p",
+"text":"SAGA TELECOM BIGFLOW PLATFORM PERFORMANCE\nHigh Performance Switching Hardware Platform"
+},
+{
+"t":"p",
+"text":"Platform Overview"
+},
+{
+"t":"p",
+"text":"BigFlow platform is a purpose-built Ethernet switching platform to address the growing demand for extreme low latency/jitter, comprehensive end-to-end tunnel network and high speed in the era of edge computing and AI.\nBigFlow platform provides superb flexible I/O connectivity capability, support full-range port speeds from 10G to 100G."
+},
+{
+"t":"p",
+"text":"Key Features of the BigFlow Platform"
+},
+{
+"t":"p",
+"text":"Ethernet capabilities: MAC table, Vxlan, IPFIX, ACL, EVC etc.\nFull set of Layer 2 and Layer 3 protocol\nRich OAM\nSecurity feature set\nPrecision timing protocol"
+},
+{
+"t":"p",
+"text":"Table 1: Performance of BigFlow Platform"
+},
+{
+"t":"p",
+"text":"Performance of the BigFlow Platform"
+},
+{
+"t":"p",
+"text":"Version: V2.1\u000bRelease Date: 2025/11/24"
+}
+],
+"notes":""
+},
+{
+"n":2,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Specification",
+"Value"
+],
+[
+"Ethernet Basic",
+"",
+""
+],
+[
+"VLAN",
+"VLAN IDs",
+"4094"
+],
+[
+"",
+"VLAN instances",
+"4094"
+],
+[
+"",
+"VLANs to enable statistics",
+"256"
+],
+[
+"VLAN Mapping",
+"Maximum mapping table",
+"64"
+],
+[
+"",
+"Maximum rules number",
+"3072"
+],
+[
+"EVC",
+"Maximum EVC number",
+"4094"
+],
+[
+"Link Aggregation (Static & LACP)",
+"Maximum member number per group",
+"No limitation"
+],
+[
+"",
+"Maximum Group Num",
+"64"
+],
+[
+"",
+"Load balance key mode",
+"Static/Dlb/RR/Resilient/Self-healing"
+],
+[
+"",
+"Convergence time",
+"< 50ms"
+],
+[
+"VLAN Classification",
+"Maximum rule number",
+"4096"
+],
+[
+"",
+"Maximum group number",
+"1"
+],
+[
+"",
+"Base MAC capacity",
+"512"
+],
+[
+"",
+"Base IPv4 capacity",
+"448"
+],
+[
+"",
+"Base IPv6 capacity",
+"32"
+],
+[
+"",
+"Base protocol capacity",
+"7"
+],
+[
+"Ethernet Ring Protection",
+"",
+""
+],
+[
+"STP",
+"Convergence time",
+"< 30s"
+],
+[
+"RSTP",
+"Convergence time",
+"< 1s"
+],
+[
+"MSTP",
+"Instance number",
+"64"
+],
+[
+"",
+"Convergence time",
+"< 1s"
+],
+[
+"ERPS",
+"Domain number",
+"16"
+],
+[
+"",
+"Ring number",
+"1 Primary ring/domain"
+],
+[
+"",
+"",
+"2 Sub ring/domain"
+],
+[
+"",
+"Protection instance number per Ring",
+"64"
+],
+[
+"",
+"Switchover time",
+"< 50 ms"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 1: Performance of BigFlow Platform (Continued)"
+}
+],
+"notes":""
+},
+{
+"n":3,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Specification",
+"Value"
+],
+[
+"Ethernet OAM",
+"",
+""
+],
+[
+"CFM (802.1ag)",
+"Maximum session number",
+"1024"
+],
+[
+"",
+"Maximum domain number",
+"8"
+],
+[
+"",
+"CCM interval types",
+"7"
+],
+[
+"",
+"CCM minimum interval",
+"3.3ms"
+],
+[
+"",
+"Maximum down MEP number",
+"1024"
+],
+[
+"",
+"Maximum up MEP number",
+"1024"
+],
+[
+"",
+"Maximum LMEP number",
+"1024"
+],
+[
+"IPv4 Unicast",
+"",
+""
+],
+[
+"ARP",
+"ARP capacity",
+"Default profile: 16384"
+],
+[
+"",
+"",
+"IPv6 profile: 16384"
+],
+[
+"",
+"",
+"Layer3 profile: 20480"
+],
+[
+"",
+"",
+"MPLS profile: 8192"
+],
+[
+"IPv4",
+"FIB",
+"Default profile: 61440"
+],
+[
+"",
+"",
+"IPv6 profile: 32768"
+],
+[
+"",
+"",
+"Layer3 profile: 61440"
+],
+[
+"",
+"",
+"MPLS profile: 32768"
+],
+[
+"ECMP",
+"ECMP group",
+"240 (Share with IPv6)"
+],
+[
+"PBR",
+"Policy route map",
+"64"
+],
+[
+"",
+"Policy based routing ACE",
+"1024"
+],
+[
+"OSPF",
+"Maximum static neighbors",
+"256"
+],
+[
+"",
+"Maximum summary address",
+"2048"
+],
+[
+"IPv4 Multicast",
+"",
+""
+],
+[
+"IPMC",
+"Multicast routing table",
+"Default profile: 2048"
+],
+[
+"",
+"",
+"IPv6 profile: 1024"
+],
+[
+"",
+"",
+"Layer3 profile: 2048"
+],
+[
+"",
+"",
+"MPLS profile: 1024"
+],
+[
+"",
+"Multicast routing downstream interfaces",
+"Default profile: 4096"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 1: Performance of BigFlow Platform (Continued)"
+}
+],
+"notes":""
+},
+{
+"n":4,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Specification",
+"Value"
+],
+[
+"IPv4 Multicast",
+"",
+""
+],
+[
+"IPMC",
+"Multicast routing downstream interfaces",
+"IPv6 profile: 2048"
+],
+[
+"",
+"",
+"Layer3 profile: 5120"
+],
+[
+"",
+"",
+"MPLS profile: 2048"
+],
+[
+"IGMP Snooping",
+"Maximum groups number",
+"2048"
+],
+[
+"",
+"Maximum member number",
+"N/A"
+],
+[
+"MVR",
+"Maximum group number",
+"Default profile: 2048"
+],
+[
+"",
+"",
+"IPv6 profile: 1024"
+],
+[
+"",
+"",
+"Layer3 Profile: 2048"
+],
+[
+"",
+"",
+"MPLS profile: 1024"
+],
+[
+"",
+"Maximum member number",
+"Default profile: 4096"
+],
+[
+"",
+"",
+"IPv6 profile: 2048"
+],
+[
+"",
+"",
+"Layer3 profile: 5120"
+],
+[
+"",
+"",
+"MPLS profile: 2048"
+],
+[
+"IPv6 Unicast",
+"",
+""
+],
+[
+"Host Route",
+"NDP capacity",
+"Default profile: 2048"
+],
+[
+"",
+"",
+"IPv6 profile: 8192"
+],
+[
+"",
+"",
+"Layer3 profile: 2048"
+],
+[
+"",
+"",
+"MPLS profile: 2048"
+],
+[
+"IPv6",
+"FIBv6",
+"Default profile: 4096"
+],
+[
+"",
+"",
+"IPv6 profile: 16384"
+],
+[
+"",
+"",
+"Layer3 profile: 4096"
+],
+[
+"",
+"",
+"MPLS profile: 2048"
+],
+[
+"",
+"ECMP group",
+"240 (share with IPv4)"
+],
+[
+"IPv6 Multicast",
+"",
+""
+],
+[
+"IPMC",
+"Multicast routing table",
+"Default profile: 256"
+],
+[
+"",
+"",
+"IPv6 profile: 512"
+],
+[
+"",
+"",
+"Layer3 Profile: 0"
+],
+[
+"",
+"",
+"MPLS profile: 0"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 1: Performance of BigFlow Platform (Continued)"
+}
+],
+"notes":""
+},
+{
+"n":5,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Specification",
+"Value"
+],
+[
+"IPv6 Multicast",
+"",
+""
+],
+[
+"IPMC",
+"Number of interfaces that support multicast routing table",
+"Default profile: 512"
+],
+[
+"",
+"",
+"IPv6 profile: 1024"
+],
+[
+"",
+"",
+"Layer3 Profile: 0"
+],
+[
+"",
+"",
+"MPLS profile: 0"
+],
+[
+"MVR V6",
+"Maximum entry number",
+"Default profile: 256"
+],
+[
+"",
+"",
+"IPv6 Profile: 512"
+],
+[
+"",
+"",
+"Layer3 Profile: 0"
+],
+[
+"",
+"",
+"MPLS profile: 0"
+],
+[
+"",
+"Maximum member number",
+"Default profile: 512"
+],
+[
+"",
+"",
+"IPv6 profile: 1024"
+],
+[
+"",
+"",
+"Layer3 Profile: 0"
+],
+[
+"",
+"",
+"MPLS profile: 0"
+],
+[
+"IP tunnel",
+"",
+""
+],
+[
+"IP Tunnel",
+"Tunnel peer capacity",
+"8"
+],
+[
+"QoS",
+"",
+""
+],
+[
+"Per-port Queue Number",
+"Unicast queue",
+"10"
+],
+[
+"",
+"Multicast queue",
+"10"
+],
+[
+"",
+"Monitor queue",
+"10"
+],
+[
+"Packet Buffer",
+"System packet buffer capacity",
+"16MByte"
+],
+[
+"Granularity",
+"Policer granularity",
+"0~2M: 10K"
+],
+[
+"",
+"",
+"2M~100M: 40K"
+],
+[
+"",
+"",
+"100M~1G: 80K"
+],
+[
+"",
+"",
+"1G~2G: 120K"
+],
+[
+"",
+"",
+"2G~4G: 250K"
+],
+[
+"",
+"Queue shape granularity",
+"4G~10G: 500K"
+],
+[
+"",
+"Port shape granularity",
+"10k"
+],
+[
+"Flow Entry",
+"Ingress port QoS ipv4 flow entries",
+"1532"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 1: Performance of BigFlow Platform (Continued)"
+}
+],
+"notes":""
+},
+{
+"n":6,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Specification",
+"Value"
+],
+[
+"QoS",
+"",
+""
+],
+[
+"Flow Entry",
+"Ingress port QoS ipv6 flow entries",
+"1532"
+],
+[
+"",
+"Ingress port QoS flow statistics entries",
+"511"
+],
+[
+"ACL",
+"",
+""
+],
+[
+"MAC ACL",
+"Ingress port ACL for MAC",
+"Default profile: 4413"
+],
+[
+"",
+"",
+"IPv6 profile: 4413"
+],
+[
+"",
+"",
+"Layer3 profile: 4416"
+],
+[
+"",
+"",
+"MPLS profile: 4416"
+],
+[
+"",
+"Ingress VLAN ACL for MAC",
+"Default profile: 4413"
+],
+[
+"",
+"",
+"IPv6 profile: 4413"
+],
+[
+"",
+"",
+"Layer3 profile: 4416"
+],
+[
+"",
+"",
+"MPLS profile: 4416"
+],
+[
+"",
+"Egress port ACL for MAC",
+"Default profile: 3949"
+],
+[
+"",
+"",
+"IPv6 profile: 3952"
+],
+[
+"",
+"",
+"Layer3 profile: 4000"
+],
+[
+"",
+"",
+"MPLS profile: 4000"
+],
+[
+"",
+"Egress VLAN ACL for MAC",
+"Default profile: 3949"
+],
+[
+"",
+"",
+"IPv6 profile: 3952"
+],
+[
+"",
+"",
+"Layer3 profile: 4000"
+],
+[
+"",
+"",
+"MPLS profile: 4000"
+],
+[
+"IPv4 ACL",
+"Ingress Port ACL for IPv4",
+"Default profile: 4413"
+],
+[
+"",
+"",
+"IPv6 profile: 4413"
+],
+[
+"",
+"",
+"Layer3 profile: 4416"
+],
+[
+"",
+"",
+"MPLS profile: 4416"
+],
+[
+"",
+"Ingress VLAN ACL for IPv4",
+"Default profile: 4413"
+],
+[
+"",
+"",
+"IPv6 profile: 4413"
+],
+[
+"",
+"",
+"Layer3 profile: 4416"
+],
+[
+"",
+"",
+"MPLS profile: 4416"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 1: Performance of BigFlow Platform (Continued)"
+}
+],
+"notes":""
+},
+{
+"n":7,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Specification",
+"Value"
+],
+[
+"ACL",
+"",
+""
+],
+[
+"IPv4 ACL",
+"Egress Port ACL for IPv4",
+"Default profile: 3949"
+],
+[
+"",
+"",
+"IPv6 profile: 3952"
+],
+[
+"",
+"",
+"Layer3 profile: 4000"
+],
+[
+"",
+"",
+"MPLS profile: 4000"
+],
+[
+"",
+"Egress VLAN ACL for IPv4",
+"Default profile: 3949"
+],
+[
+"",
+"",
+"IPv6 profile: 3952"
+],
+[
+"",
+"",
+"Layer3 profile: 4000"
+],
+[
+"",
+"",
+"MPLS profile: 4000"
+],
+[
+"IPv6 ACL",
+"Ingress Port ACL for IPv6",
+"Default profile: 4413"
+],
+[
+"",
+"",
+"IPv6 profile: 4413"
+],
+[
+"",
+"",
+"Layer3 profile: 4416"
+],
+[
+"",
+"",
+"MPLS profile: 4416"
+],
+[
+"",
+"Ingress VLAN ACL for IPv6",
+"Default profile: 4413"
+],
+[
+"",
+"",
+"IPv6 profile: 4413"
+],
+[
+"",
+"",
+"Layer3 profile: 4416"
+],
+[
+"",
+"",
+"MPLS profile: 4416"
+],
+[
+"",
+"Egress Port ACL for IPv6",
+"Default profile: 3949"
+],
+[
+"",
+"",
+"IPv6 profile: 3952"
+],
+[
+"",
+"",
+"Layer3 profile: 4000"
+],
+[
+"",
+"",
+"MPLS profile: 4000"
+],
+[
+"",
+"Egress VLAN ACL for IPv6",
+"Default profile: 3949"
+],
+[
+"",
+"",
+"IPv6 profile: 3952"
+],
+[
+"",
+"",
+"Layer3 profile: 4000"
+],
+[
+"",
+"",
+"MPLS profile: 4000"
+],
+[
+"ACL Flow Statistics",
+"Ingress ACL flow statistics entries",
+"Default profile: 4413"
+],
+[
+"",
+"",
+"IPv6 profile: 4413"
+],
+[
+"",
+"",
+"Layer3 profile: 4416"
+],
+[
+"",
+"",
+"MPLS profile: 4416"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 1: Performance of BigFlow Platform (Continued)"
+}
+],
+"notes":""
+},
+{
+"n":8,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Specification",
+"Value"
+],
+[
+"ACL",
+"",
+""
+],
+[
+"ACL Flow Statistics",
+"Egress ACL flow statistics entries",
+"Default profile: 3949"
+],
+[
+"",
+"",
+"IPv6 profile: 3952"
+],
+[
+"",
+"",
+"Layer3 profile: 4000"
+],
+[
+"",
+"",
+"MPLS profile: 4000"
+],
+[
+"CoPP",
+"CoPP rules",
+"1500"
+],
+[
+"",
+"CoPP flow statistics entries",
+"1500"
+],
+[
+"UDF",
+"UDF rules",
+"512"
+],
+[
+"",
+"UDF flow stats entries",
+"1024"
+],
+[
+"Security",
+"",
+""
+],
+[
+"IP Source Guard",
+"IPv4 maximum rules number",
+"2048"
+],
+[
+"",
+"IPv6 maximum rules number",
+"64"
+],
+[
+"802.1x Base MAC",
+"Maximum entries",
+"512"
+],
+[
+"DHCP Snooping",
+"Maximum bound entry",
+"4096"
+],
+[
+"IPFIX",
+"",
+""
+],
+[
+"IPFIX",
+"IPFIX member",
+"4096"
+],
+[
+"Reliability",
+"",
+""
+],
+[
+"BFD",
+"Maximum session number",
+"Share 256"
+],
+[
+"S-BFD",
+"Maximum session number",
+"Share 256"
+],
+[
+"VRRP",
+"Maximum group number",
+"63"
+],
+[
+"Smart Link",
+"Maximum group number",
+"16"
+],
+[
+"",
+"Maximum instance number",
+"64"
+],
+[
+"",
+"Switchover time",
+"<50ms"
+],
+[
+"Monitor Link",
+"Maximum group number",
+"16"
+],
+[
+"",
+"Maximum up-link number per group",
+"24"
+],
+[
+"Data Center",
+"",
+""
+],
+[
+"VARP",
+"Virtual IP number per port",
+"15"
+],
+[
+"VXLAN",
+"VXLAN tunnel",
+"Default profile: 16384"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 1: Performance of BigFlow Platform (Continued)"
+}
+],
+"notes":""
+},
+{
+"n":9,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Specification",
+"Value"
+],
+[
+"Data Center",
+"",
+""
+],
+[
+"VXLAN",
+"VXLAN tunnel",
+"IPv6 profile: 16384"
+],
+[
+"",
+"",
+"Layer3 profile: 16384"
+],
+[
+"",
+"",
+"MPLS profile: 4096"
+],
+[
+"",
+"VNI",
+"Default profile: 4092"
+],
+[
+"",
+"",
+"IPv6 profile: 4092"
+],
+[
+"",
+"",
+"Layer3 profile: 4092"
+],
+[
+"",
+"",
+"MPLS profile: 2000"
+],
+[
+"",
+"VTEP peer",
+"Default profile: 2048"
+],
+[
+"",
+"",
+"IPv6 profile: 2048"
+],
+[
+"",
+"",
+"Layer3 profile: 2048"
+],
+[
+"",
+"",
+"MPLS profile: 128"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 1: Performance of BigFlow Platform (Continued)"
+}
+],
+"notes":""
+},
+{
+"n":10,
+"items":[
+{
+"t":"p",
+"text":"Product List Based on BigFlow Platform"
+},
+{
+"t":"p",
+"text":"Table 2: Product List Based on BigFlow Platform"
+},
+{
+"t":"table",
+"rows":[
+[
+"Series",
+"Model",
+"Specification"
+],
+[
+"STH25G",
+"STH-4C48DF-HSI",
+"48*25G SFP28, 4*100G QSFP28, L3 managed Ethernet switch, 2*Hot-swappable 550W CRPS Modules\n4*Hot-swappable Fan Modules"
+],
+[
+"",
+"STH-8C24DF-HSI",
+"24*25G SFP28, 8*100G QSFP28, L3 managed Ethernet switch, 2*Hot-swappable 350W CRPS Modules\n2*Hot-swappable Fan Modules"
+],
+[
+"STH10G",
+"STH-4C12DF36XF-HSI",
+"36*10G SFP+, 12*25G SFP28, 4*100G QSFP28, L3 Managed Ethernet Switch, 2*Hot-swappable 550W CRPS Modules\n4*Hot-swappable Fan Modules"
+],
+[
+"",
+"STH-4C12DF36XF-SFI",
+"36*10G SFP+, 12*25G SFP28, 4*100G QSFP28, L3 Managed Ethernet Switch, 1*200W Fixed Power Supply\n4*Fixed Fans"
+],
+[
+"",
+"STH-8C48XF-HSI",
+"48*10G SFP+, 8*100G QSFP28, L3 Managed Ethernet Switch, 2*Hot-swappable 550W CRPS Modules\n4*Hot-swappable Fan Modules"
+],
+[
+"",
+"STH-8C48XF-SFI",
+"48*10G SFP+, 8*100G QSFP28, L3 Managed Ethernet Switch, 1*200W Fixed Power Supply\n4*Fixed Fans"
+],
+[
+"",
+"STH-8C24XF-HSI",
+"24*10G SFP+, 8*100G QSFP28, L3 Managed Ethernet Switch, 2*Hot-swappable 350W CRPS Modules\n2*Hot-swappable Fan Modules"
+],
+[
+"",
+"STH-8C24XF-SFI",
+"24*10G SFP+, 8*100G QSFP28, L3 Managed Ethernet Switch, 1*200W Fixed Power Supply\n4*Fixed Fans"
+],
+[
+"XLite",
+"STH-14C4DF-HSI",
+"4*10G/25G SFP28, 14*100G QSFP28, L3 managed Ethernet Switch, 2*Hot-swappable 300W CRPS Modules\n2*Hot-swappable Fan Modules"
+]
+]
+}
+],
+"notes":""
+}
+],
+"extracted_at":"2026-10-23T05:02:39Z"
+}

@@ -1,0 +1,18 @@
+{
+"id":"Extra_Info__Saga_SEO__404.html__995dccf4",
+"path":"Extra_Info/Saga SEO/404.html",
+"name":"404.html",
+"ext":".html",
+"bytes":3488,
+"sha256":"995dccf4088ecf863815f814ef4769eda32b771e0ef40db7bc17b1b81bafe5e3",
+"source":"Extra_Info.zip",
+"method":"none",
+"status":"meta",
+"meta":{},
+"warnings":[
+"no extractor for .html"
+],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:01:44Z"
+}

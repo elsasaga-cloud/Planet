@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_SEO__EC21_Banner__banner3_990x200.png__810b5cfd",
+"path":"Extra_Info/Saga SEO/EC21 Banner/banner3_990x200.png",
+"name":"banner3_990x200.png",
+"ext":".png",
+"bytes":241189,
+"sha256":"810b5cfd939e9837132df208d558fb2ab2944b8bded54b804acdc50c01b18384",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":990,
+"height":200,
+"mode":"RGB",
+"thumb_bytes":6780
+},
+"warnings":[],
+"chars":61,
+"text":"一 一 OEM FACTORY 一 一\n23. PACKAGING & DELIVERY\n‘One-stop OEwooM",
+"extracted_at":"2026-10-23T05:01:50Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__EC21_Banner__banner3_990x200.png__810b5cfd.jpg"
+}

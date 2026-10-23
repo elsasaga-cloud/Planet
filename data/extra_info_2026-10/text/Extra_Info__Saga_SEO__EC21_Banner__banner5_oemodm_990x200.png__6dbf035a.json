@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_SEO__EC21_Banner__banner5_oemodm_990x200.png__6dbf035a",
+"path":"Extra_Info/Saga SEO/EC21 Banner/banner5_oemodm_990x200.png",
+"name":"banner5_oemodm_990x200.png",
+"ext":".png",
+"bytes":47232,
+"sha256":"6dbf035ade964b3e614f81537b7bb32c7af8fd68dd6a5356cd05d35ca41821ed",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":990,
+"height":200,
+"mode":"RGB",
+"thumb_bytes":5275
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:01:50Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__EC21_Banner__banner5_oemodm_990x200.png__6dbf035a.jpg"
+}

@@ -1,0 +1,18 @@
+{
+"id":"Extra_Info__供应商.xmind__50b4b7b2",
+"path":"Extra_Info/供应商.xmind",
+"name":"供应商.xmind",
+"ext":".xmind",
+"bytes":160724,
+"sha256":"50b4b7b2d003a33eb28c5263d1c4c29806de7b72a3916557180bf1001ce8fac1",
+"source":"Extra_Info.zip",
+"method":"xmind(content.xml)",
+"status":"ok",
+"meta":{
+"lines":45
+},
+"warnings":[],
+"chars":765,
+"text":"# Sheet: 画布 1\n- 供应商\n  - 物流\n    - 百运网\n      - 提供门到门的服务，包括揽收、报关、清关、派送等一系列服务，适合小批量货物和文件类物品\n    - 需要找新的，尤其是空运\n      - 通常只提供机场到机场的服务，货物到达目的地机场后需要收货人自行提货或通过货运公司安排派送，适合大批量货物\n      - 客户需要自行办理清关手续或委托专业代理完成\n  - 商业交换机\n    - Hrui\n      - Realtek非管理\n    - Smartbyte\n      - Marvell管理\n    - Hasivo\n      - Passive PoE\n    - DCN\n      - Stackables, 1U switches, 核心switches\n  - 工业交换机\n    - Smartbyte\n      - 全线主推\n    - Hasivo\n      - 低价, 90W, 24V/48V PoE\n  - STT系列\n    - 光派\n  - 核心交换机\n    - Hohu\n      - CENTEC方案, 产品线很全\n  - 工业电源\n    - 鹰峤\n  - APs\n    - Kuwfi\n  - 光模块, AOC DOC线缆\n    - 无\n  - 高IP等级, 车载式Switch\n  - 报关\n    - 委托报关\n      - 一律是公账\n        - 尤其是超过5000人民币，客户的DHL/FedEx/UPS账号\n        - 大额订单走客户货代\n    - 买单报关\n      - 那个香港银行收款，走私账\n      - 较为简单，交点钱提供订单信息货代会进行处理\n  - 含税\n  - 含税\n  - 含税",
+"extracted_at":"2026-10-23T05:01:24Z"
+}

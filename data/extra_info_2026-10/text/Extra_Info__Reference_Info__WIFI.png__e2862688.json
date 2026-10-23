@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Reference_Info__WIFI.png__e2862688",
+"path":"Extra_Info/Reference Info/WIFI.png",
+"name":"WIFI.png",
+"ext":".png",
+"bytes":1921416,
+"sha256":"e2862688f284f05d8c75f1d90d2af504093a6ff1648e7dc489252c255794eb65",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":1179,
+"height":885,
+"mode":"RGBA",
+"thumb_bytes":13998
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:08:11Z",
+"thumb":"thumbs/Extra_Info__Reference_Info__WIFI.png__e2862688.jpg"
+}

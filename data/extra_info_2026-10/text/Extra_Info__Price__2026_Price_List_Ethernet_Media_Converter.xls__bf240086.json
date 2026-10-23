@@ -1,0 +1,123 @@
+{
+"id":"Extra_Info__Price__2026_Price_List_Ethernet_Media_Converter.xls__bf240086",
+"path":"Extra_Info/Price/2026 Price List_Ethernet Media Converter.xls",
+"name":"2026 Price List_Ethernet Media Converter.xls",
+"ext":".xls",
+"bytes":2329600,
+"sha256":"bf2400868b3662d3aebc0663e8d9c6e14453e882e6421dae22556e9fe7249a30",
+"source":"Extra_Info.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Saga Telecom"
+],
+"rows_total":23
+},
+"warnings":[],
+"chars":2020,
+"text":"--- Sheet: Saga Telecom ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 13048800964                                          www.sagatelecom.com.cn                               Email: a.sagatelecom@gmail.com\nDownload Link(datasheet and photos for full category)\nhttps://drive.google.com/drive/folders/1chVSOnPIH_7Y4eE4knwUNgwotdY6Zguk?usp=drive_link\nMust-Know\n1. 10/100M, 10/100/1000M, 10G speeds are available\n2. With DIP function for flexible use\n3. 14-slot chassis mountable\n4. Support watchdog function to restart the device when frozen\n5. Full- positioned LEDs to indicate power and network status\n6. 4KV surge protection; ESD: 8KV/contact, 15KV/air protection\n7. Singlemode, multimode optical ports for difference distances\n8. PoE models are NOT available\nEthernet Media Converter(Non-PoE, Unmanaged)\nModel\tSpecification\t\t\t\tPrice\tPicture\nClick the model name, you will be directed to the product webpage for more information\nSTC-110FE\t1*100M SC/ST/FC Fiber+1*10/100M RJ45, with 2KM/20KM dual fiber module\nSupport LFP, watchdog, 4KV surge protection for Ethernet port and power supply interface\nDC5V input\nRemark: SFP fiber version is NOT available\t\t\t\t14\nSTC-110GE\t1*100/1000M SC/ST/FC/SFP Fiber+1*10/100/1000M RJ45, with 2KM/20KM dual fiber module Support LFP, watchdog, 4KV surge protection for Ethernet port and power supply interface\nDC5V input\t\t\t\t17\nSTC-110XGE\t1*10G Fiber+10/100/1000/2500M/10G RJ45\nSupport LFP, watchdog, 4KV surge protection for Ethernet port and power supply interface\nDC5V~DC12V input\t\t\t\t75\nSTC-14DUR\t14-slot 2U Ethernet media converter rack, dual power supply(220V)\nRemark: it could power above 3 models.\t\t\t\t75\nRemarks\n1. Prices are valid for 15 days\n2. Price term: EXW\n3. Warranty period: One year\n4. Lead time for less than 50pcs: 5~7 working days\n5. Customization is available\n\tw",
+"sheets":{
+"Saga Telecom":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Tailored Marvell Managed Networking Solutions Provider"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 13048800964                                          www.sagatelecom.com.cn                               Email: a.sagatelecom@gmail.com"
+],
+[
+"Download Link(datasheet and photos for full category)"
+],
+[
+"https://drive.google.com/drive/folders/1chVSOnPIH_7Y4eE4knwUNgwotdY6Zguk?usp=drive_link"
+],
+[
+"Must-Know"
+],
+[
+"1. 10/100M, 10/100/1000M, 10G speeds are available\n2. With DIP function for flexible use\n3. 14-slot chassis mountable\n4. Support watchdog function to restart the device when frozen\n5. Full- positioned LEDs to indicate power and network status\n6. 4KV surge protection; ESD: 8KV/contact, 15KV/air protection\n7. Singlemode, multimode optical ports for difference distances\n8. PoE models are NOT available"
+],
+[
+"Ethernet Media Converter(Non-PoE, Unmanaged)"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"",
+"Price",
+"Picture"
+],
+[
+"Click the model name, you will be directed to the product webpage for more information"
+],
+[
+"STC-110FE",
+"1*100M SC/ST/FC Fiber+1*10/100M RJ45, with 2KM/20KM dual fiber module\nSupport LFP, watchdog, 4KV surge protection for Ethernet port and power supply interface\nDC5V input\nRemark: SFP fiber version is NOT available",
+"",
+"",
+"",
+"14"
+],
+[
+"STC-110GE",
+"1*100/1000M SC/ST/FC/SFP Fiber+1*10/100/1000M RJ45, with 2KM/20KM dual fiber module Support LFP, watchdog, 4KV surge protection for Ethernet port and power supply interface\nDC5V input",
+"",
+"",
+"",
+"17"
+],
+[
+"STC-110XGE",
+"1*10G Fiber+10/100/1000/2500M/10G RJ45\nSupport LFP, watchdog, 4KV surge protection for Ethernet port and power supply interface\nDC5V~DC12V input",
+"",
+"",
+"",
+"75"
+],
+[
+"STC-14DUR",
+"14-slot 2U Ethernet media converter rack, dual power supply(220V)\nRemark: it could power above 3 models.",
+"",
+"",
+"",
+"75"
+],
+[
+"Remarks"
+],
+[
+"1. Prices are valid for 15 days"
+],
+[
+"2. Price term: EXW"
+],
+[
+"3. Warranty period: One year"
+],
+[
+"4. Lead time for less than 50pcs: 5~7 working days"
+],
+[
+"5. Customization is available"
+],
+[
+"",
+"w"
+]
+]
+}
+},
+"extracted_at":"2026-10-23T05:05:47Z"
+}

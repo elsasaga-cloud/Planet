@@ -1,0 +1,604 @@
+{
+"id":"Extra_Info__STH__可编辑版本__规格书__S5000_Series_switches_datasheet_EN_V1.3.pptx__504e259e",
+"path":"Extra_Info/STH/可编辑版本/规格书/S5000 Series switches datasheet_EN_V1.3.pptx",
+"name":"S5000 Series switches datasheet_EN_V1.3.pptx",
+"ext":".pptx",
+"bytes":10156830,
+"sha256":"504e259e98dfc841bee64c0c1ddb92e078a0967ffff77730325b0e61235e2232",
+"source":"Extra_Info.zip",
+"method":"python-pptx",
+"status":"ok",
+"meta":{
+"slides":8,
+"pictures":4
+},
+"warnings":[
+"shape: Shape instance of unrecognized shape type",
+"shape: Shape instance of unrecognized shape type",
+"shape: Shape instance of unrecognized shape type"
+],
+"chars":8121,
+"text":"[slide 1]\nS5000 SERIES SWITCHES\nDATASHEET\nFlexible Campus and Enterprise Switch\nProduct Overview\nS5000 series switches, high-performance layer 3 Ethernet switch, which are designed based on high-performance hardware platform VastLakes Series Chip platform, with various ports, compact 1U form factor. S5000 series switches provide complete Layer 3 network features to meet the requirement of Metro/Enterprise/HCI networks.\nKey Features of the S5000 Series Switches\nSupport MPLS features (L2/L3 VPN) to build a unified and converged network platform.\n2.5G downlink ports and various uplink ports to meet different network requirements.\nRich L2/L3 features such as IPv6, OSPF, BGP, PIM etc.\nSupport CLI/WEB/SNMP/SSH for flexible operation.\nThe S5000 series switches provide various power supply solutions for customers choosing. Generally, air flow of S5000 series is front to back (AFO), and some of models can do customization of back to front (AFI) airflow.\nTable 1: Feasible PSU and Airflow of S5000 Series\nVersion: V1.3\u000bRelease Date: 2025/12/04\nItems\tAC\tDC\tPoE\tAFO\tAFI\tPower Input\tFAN\nS5048-4X2Q-EI\t◯\t◯\t×\t◯\t◯\t2\t2\nS5048-4X2Q-SI\t◯\t×\t×\t◯\t×\t1\t4\nS5040P-8T2Q4N-EI\t◯\t◯\t48\t◯\t◯\t2\t2\nS5032P-16T8N-EI\t◯\t◯\t48\t◯\t◯\t2\t2\nS5016P-8T8N-EI\t◯\t◯\t24\t◯\t◯\t2\t2\n\n[slide 2]\nThe S5000 series switches support varied management ways, include console, and support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, etc. to ensure security of management.\nMoreover, leveraging its profound technical expertise and in-depth understanding of campus and enterprise networking needs, Hohunet has launched the Da Hu Cloud Management System (DHCS). It enhances network management and maintenance efficiency, reduces costs, elevates management intelligence, and delivers a faster, smarter, more secure and reliable network to better meet user requirements.\nVisual WEB GUI\nThe S5000 series allows you to quickly configure common configuration items using a visual WEB GUI, which lowers the application threshold for users.\n\n[slide 3]\nTable 2: Family of the S5000 Series switches\nThe S5000 family of Ethernet switches consists of the following models:\nS5000 Physical Specifications\nPacket Switch Capacity (bidirectional)\nS5048-4X2Q-EI: 600Gbps\nS5048-4X2Q-SI: 600Gbps\nS5040P-8T2Q4N-EI: 720Gbps\nS5032P-16T8N-EI: 880Gbps\nS5016P-8T8N-EI: 640Gbps\nLayer 2/Layer 3 Throughput (bidirectional)\nS5048-4X2Q-EI: 892.8Mbps\nS5048-4X2Q-SI: 892.8Mbps\nS5040P-8T2Q4N-EI: 1071.36Mbps\nS5032P-16T8N-EI: 1309.44Mbps\nS5016P-8T8N-EI: 952.32Mbps\nEnvironmental ranges\nOperating temperature: 0ºC to 40ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90% (No condensation)\nStore Humidity: 5% to 95% (No condensation)\nCPU\nDualcore, ARM A53(1.2GHz)\nMemory\neMMc: 8GB\nDRAM: 2GB\nTemperature alarm\nAlarm threshold: 50ºC\nModels\tEthernet Ports\tManagement\tPSU 1/PSU 2\tCooling\nS5048-4X2Q-EI\t48 x 100M/1G/2.5G Base-T, 4 x 25G/10G SFP28, 2 x 40G QSFP+\tConsole: RJ45 to RS232\u000bEthernet: 1G Port\t350W/350W\t2 x Fan modules\u000b(front-to-back airflow)\nS5048-4X2Q-SI\t48 x 100M/1G/2.5G Base-T, 4 x 25G/10G SFP28, 2 x 40G QSFP+\tConsole: RJ45 to RS232\u000bEthernet: 1G Port\tFixed single 96W power supply\t4 x Fixed fans\u000b(front-to-back airflow)\nS5040P-8T2Q4N-EI\t40 x 100M/1G/2.5G Base-T, 8 x 10G Base-T, 4 x 25G/10G SFP28, 2 x 40G QSFP+\tConsole: RJ45 to RS232\u000bEthernet: 1G Port\nStorage: USB\t1200W/1200W\t2 x Fan modules\u000b(front-to-back airflow)\nS5032P-16T8N-EI\t32 x 100M/1G/2.5G Base-T, 16 x 10G Base-T, 8 x 25G/10G SFP28\tConsole: RJ45 to RS232\u000bEthernet: 1G Port\nStorage: USB\t1200W/1200W\t2 x Fan modules\u000b(front-to-back airflow)\nS5016P-8T8N-EI\t16 x 100M/1G/2.5G Base-T, 8 x 10G Base-T, 8 x 25G/10G SFP28\tConsole: RJ45 to RS232\u000bEthernet: 1G Port\nStorage: USB\t600W/600W\t2 x Fan modules\u000b(front-to-back airflow)\n\n[slide 4]\nS5000 Physical Specifications\nPower consumption\nWorst case, all ports used, line-rate traffic\nS5048-4X2Q-SI: 66W\nS5040P-8T2Q4N-EI: 161.18W\nS5032P-16T8N-EI: 152.24W\nS5016P-8T8N-EI: 98.78W\nMTBF (Hours)\nS5048-4X2Q-EI: ≥90000\nS5048-4X2Q-SI: ≥70000\nS5040P-8T2Q4N-EI: ≥90000\nS5032P-16T8N-EI: ≥90000\nS5016P-8T8N-EI: ≥90000\nCooling [CFM] - Total maximum airflow\nS5048-4X2Q-EI: 68.76\nS5048-4X2Q-SI: 46.48\nS5040P-8T2Q4N-EI: 46.48\nS5032P-16T8N-EI: 105.32\nS5016P-8T8N-EI: 46.48\nOperating altitude\nS5048-4X2Q-EI: ≤5000m\nS5048-4X2Q-SI: ≤3000m\nS5040P-8T2Q4N-EI: ≤5000m\nS5032P-16T8N-EI: ≤5000m\nS5016P-8T8N-EI: ≤5000m\nDimensions (W x H x D) without Package\nS5048-4X2Q-EI: 442*44*357mm\nS5048-4X2Q-SI: 442*44*290mm\nS5040P-8T2Q4N-EI: 442*44*420mm\nS5032P-16T8N-EI: 442*44*449mm\nS5016P-8T8N-EI: 442*44*420mm\nDimensions (W x H x D) with Package\nS5048-4X2Q-EI: 557*150*495mm\nS5048-4X2Q-SI: 557*150*495mm\nS5040P-8T2Q4N-EI: 665*150*565mm\nS5032P-16T8N-EI: 665*150*565mm\nS5016P-8T8N-EI: 665*150*565mm\nWeight (Net/Gross)\nS5048-4X2Q-EI: 7.2KG/10.3KG\nS5048-4X2Q-SI: 6KG/8.3KG\nS5040P-8T2Q4N-EI：7.9kg/11.1kg\nS5032P-16T8N-EI：8.3kg/11.5kg\nS5016P-8T8N-EI：7.2kg/10.4kg\nPoE budget\nS5040P-8T2Q4N-EI: 2000W\nS5032P-16T8N-EI: 2000W\nS5016P-8T8N-EI: 1000W\n\n[slide 5]\nS5000 Software Specifications\nHOHUNET implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘HOS Software features’ .\n* All HOHUNET switches use a normalized software platform and image package file\n* Unified software version iteration plan\n* Unified user experience\nHOS Network Platform\nLayer 2 switching\nIPv4/lPv6 Unicast Routing\nQoS\nIP Multicast Snooping/Proxy\nIPv4/lPv6 Multi cast Routing\nVRRP\nMultiprotocol Label Switching(MPLS)\nVirtual Private LAN Service(VPLS)\nVirtual Routing and Switching\nGeneralized Multi protocol Label Switching(GMPLS)\nIPv6 Tunneling and TransitionTechnologies\nIP/MPLS OAM\nService management module\nFault Managemet (FM)\nHigh Availability (HA)\nIntegrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)\nHardware and platform abstraction layer\nAdvanced integration Suite\nCENTEC swtich chip  SDK\nSilicon in Pizza, Stacking or Chassis\nConfiguration\nOperating Systems TCP/IP Stacks\nLinux , IPv4/Pv6 Dual Stack\nHardware layer\nCENTEC Switch Chipset\nCPU Subsystem\nCooling SubSystem\nAC/DC DC/DC CLK\nEnvironmental Management Subsystem\nLogical Control Subunit\n\n[slide 6]\nOrdering Information\nS5000 Series Switches\nAC/DC Power Supplies use for S5000 Series Switches.\nSoftware licenses for S5000 Series Switches.\nItems\tDescription\nS5048-4X2Q-EI\t2.5G enterprise switch, with 48 x 100M/1G/2.5G Base-T, 4 x 25G/10G SFP28, 2 x 40G QSFP+, Dual power supply modules, 2 x Hot-swappable fan modules.\nS5048-4X2Q-SI\t2.5G enterprise switch, with 48 x 100M/1G/2.5G Base-T, 4 x 25G/10G SFP28, 2 x 40G QSFP+, Fixed single power supplies, 4 x Fixed fans.\nS5040P-8T2Q4N-EI\t2.5G enterprise switch, with 40 x 100M/1G/2.5G Base-T(PoE++90W), 10 x 10G Base-T(PoE++90W), 4 x 25G/10G SFP28, 2 x 40G QSFP+, Dual power supply modules, 2 x Hot-swappable fan modules.\nS5032P-16T8N-EI\t2.5G enterprise switch, with 32 x 100M/1G/2.5G Base-T(PoE++90W), 16 x 10G Base-T(PoE++90W), 8 x 25G/10G SFP28, Dual power supply modules, 2 x Hot-swappable fan modules.\nS5016P-8T8N-EI\t2.5G enterprise switch, with 16 x 100M/1G/2.5G Base-T(PoE++90W), 8 x 10G Base-T(PoE++90W), 8 x 25G/10G SFP28, Dual power supply modules, 2 x Hot-swappable fan modules.\nItems\tDescription\nPSU-350-AC-AFO\tS5000  Series 350W AC power supply (front-to-back airflow)\nPSU-600-AC-AFO\tS5000  Series 600W AC power supply (front-to-back airflow)\nPSU-1200-AC-AFO\tS5000  Series 1200W AC power supply (front-to-back airflow)\nItems\tDescription\nSoftware License\tEB, Basic L3 software features, Preinstalled on SI models\nSoftware License\tMS, L3 enhance features software license key, Preinstalled on EI models\nSoftware License\tMA, MPLS features software license key\nSoftware License\tST, Stacking feature software license key\n\n[slide 7]\nAccessory of S5000 Series\nItems\tFront Mounting\tRear Mounting\tRear Rack Rail\tM4\nScrew\tPower Cord\tGround lead\tConsole \n(DB9 to RJ45)\nS5048-4X2Q-EI\t2\t2\t2\t12\t2\t1\t1\nS5048-4X2Q-SI\t2\t/\t/\t12\t1\t1\t1\nS5040P-8T2Q4N-EI\t2\t2\t2\t12\t2\t1\t1\nS5032P-16T8N-EI\t2\t2\t2\t12\t2\t1\t1\nS5016P-8T8N-EI\t2\t2\t2\t12\t2\t1\t1\n\n[slide 8]\n",
+"slides":[
+{
+"n":1,
+"items":[
+{
+"t":"p",
+"text":"S5000 SERIES SWITCHES\nDATASHEET"
+},
+{
+"t":"p",
+"text":"Flexible Campus and Enterprise Switch"
+},
+{
+"t":"p",
+"text":"Product Overview"
+},
+{
+"t":"p",
+"text":"S5000 series switches, high-performance layer 3 Ethernet switch, which are designed based on high-performance hardware platform VastLakes Series Chip platform, with various ports, compact 1U form factor. S5000 series switches provide complete Layer 3 network features to meet the requirement of Metro/Enterprise/HCI networks."
+},
+{
+"t":"p",
+"text":"Key Features of the S5000 Series Switches"
+},
+{
+"t":"p",
+"text":"Support MPLS features (L2/L3 VPN) to build a unified and converged network platform.\n2.5G downlink ports and various uplink ports to meet different network requirements.\nRich L2/L3 features such as IPv6, OSPF, BGP, PIM etc.\nSupport CLI/WEB/SNMP/SSH for flexible operation."
+},
+{
+"t":"p",
+"text":"The S5000 series switches provide various power supply solutions for customers choosing. Generally, air flow of S5000 series is front to back (AFO), and some of models can do customization of back to front (AFI) airflow."
+},
+{
+"t":"p",
+"text":"Table 1: Feasible PSU and Airflow of S5000 Series"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"AC",
+"DC",
+"PoE",
+"AFO",
+"AFI",
+"Power Input",
+"FAN"
+],
+[
+"S5048-4X2Q-EI",
+"◯",
+"◯",
+"×",
+"◯",
+"◯",
+"2",
+"2"
+],
+[
+"S5048-4X2Q-SI",
+"◯",
+"×",
+"×",
+"◯",
+"×",
+"1",
+"4"
+],
+[
+"S5040P-8T2Q4N-EI",
+"◯",
+"◯",
+"48",
+"◯",
+"◯",
+"2",
+"2"
+],
+[
+"S5032P-16T8N-EI",
+"◯",
+"◯",
+"48",
+"◯",
+"◯",
+"2",
+"2"
+],
+[
+"S5016P-8T8N-EI",
+"◯",
+"◯",
+"24",
+"◯",
+"◯",
+"2",
+"2"
+]
+]
+},
+{
+"t":"p",
+"text":"Version: V1.3\u000bRelease Date: 2025/12/04"
+},
+{
+"t":"picture",
+"name":"图片 1"
+}
+],
+"notes":""
+},
+{
+"n":2,
+"items":[
+{
+"t":"p",
+"text":"The S5000 series switches support varied management ways, include console, and support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, etc. to ensure security of management.\nMoreover, leveraging its profound technical expertise and in-depth understanding of campus and enterprise networking needs, Hohunet has launched the Da Hu Cloud Management System (DHCS). It enhances network management and maintenance efficiency, reduces costs, elevates management intelligence, and delivers a faster, smarter, more secure and reliable network to better meet user requirements."
+},
+{
+"t":"p",
+"text":"Visual WEB GUI"
+},
+{
+"t":"p",
+"text":"The S5000 series allows you to quickly configure common configuration items using a visual WEB GUI, which lowers the application threshold for users."
+},
+{
+"t":"picture",
+"name":"图片 6"
+},
+{
+"t":"picture",
+"name":"图片 7"
+},
+{
+"t":"picture",
+"name":"图片 11"
+}
+],
+"notes":""
+},
+{
+"n":3,
+"items":[
+{
+"t":"p",
+"text":"Table 2: Family of the S5000 Series switches"
+},
+{
+"t":"table",
+"rows":[
+[
+"Models",
+"Ethernet Ports",
+"Management",
+"PSU 1/PSU 2",
+"Cooling"
+],
+[
+"S5048-4X2Q-EI",
+"48 x 100M/1G/2.5G Base-T, 4 x 25G/10G SFP28, 2 x 40G QSFP+",
+"Console: RJ45 to RS232\u000bEthernet: 1G Port",
+"350W/350W",
+"2 x Fan modules\u000b(front-to-back airflow)"
+],
+[
+"S5048-4X2Q-SI",
+"48 x 100M/1G/2.5G Base-T, 4 x 25G/10G SFP28, 2 x 40G QSFP+",
+"Console: RJ45 to RS232\u000bEthernet: 1G Port",
+"Fixed single 96W power supply",
+"4 x Fixed fans\u000b(front-to-back airflow)"
+],
+[
+"S5040P-8T2Q4N-EI",
+"40 x 100M/1G/2.5G Base-T, 8 x 10G Base-T, 4 x 25G/10G SFP28, 2 x 40G QSFP+",
+"Console: RJ45 to RS232\u000bEthernet: 1G Port\nStorage: USB",
+"1200W/1200W",
+"2 x Fan modules\u000b(front-to-back airflow)"
+],
+[
+"S5032P-16T8N-EI",
+"32 x 100M/1G/2.5G Base-T, 16 x 10G Base-T, 8 x 25G/10G SFP28",
+"Console: RJ45 to RS232\u000bEthernet: 1G Port\nStorage: USB",
+"1200W/1200W",
+"2 x Fan modules\u000b(front-to-back airflow)"
+],
+[
+"S5016P-8T8N-EI",
+"16 x 100M/1G/2.5G Base-T, 8 x 10G Base-T, 8 x 25G/10G SFP28",
+"Console: RJ45 to RS232\u000bEthernet: 1G Port\nStorage: USB",
+"600W/600W",
+"2 x Fan modules\u000b(front-to-back airflow)"
+]
+]
+},
+{
+"t":"p",
+"text":"The S5000 family of Ethernet switches consists of the following models:"
+},
+{
+"t":"p",
+"text":"S5000 Physical Specifications"
+},
+{
+"t":"p",
+"text":"Packet Switch Capacity (bidirectional)\nS5048-4X2Q-EI: 600Gbps\nS5048-4X2Q-SI: 600Gbps\nS5040P-8T2Q4N-EI: 720Gbps\nS5032P-16T8N-EI: 880Gbps\nS5016P-8T8N-EI: 640Gbps"
+},
+{
+"t":"p",
+"text":"Layer 2/Layer 3 Throughput (bidirectional)\nS5048-4X2Q-EI: 892.8Mbps\nS5048-4X2Q-SI: 892.8Mbps\nS5040P-8T2Q4N-EI: 1071.36Mbps\nS5032P-16T8N-EI: 1309.44Mbps\nS5016P-8T8N-EI: 952.32Mbps"
+},
+{
+"t":"p",
+"text":"Environmental ranges\nOperating temperature: 0ºC to 40ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90% (No condensation)\nStore Humidity: 5% to 95% (No condensation)"
+},
+{
+"t":"p",
+"text":"CPU\nDualcore, ARM A53(1.2GHz)"
+},
+{
+"t":"p",
+"text":"Memory\neMMc: 8GB\nDRAM: 2GB"
+},
+{
+"t":"p",
+"text":"Temperature alarm\nAlarm threshold: 50ºC"
+}
+],
+"notes":""
+},
+{
+"n":4,
+"items":[
+{
+"t":"p",
+"text":"S5000 Physical Specifications"
+},
+{
+"t":"p",
+"text":"Power consumption\nWorst case, all ports used, line-rate traffic\nS5048-4X2Q-SI: 66W\nS5040P-8T2Q4N-EI: 161.18W\nS5032P-16T8N-EI: 152.24W\nS5016P-8T8N-EI: 98.78W"
+},
+{
+"t":"p",
+"text":"MTBF (Hours)\nS5048-4X2Q-EI: ≥90000\nS5048-4X2Q-SI: ≥70000\nS5040P-8T2Q4N-EI: ≥90000\nS5032P-16T8N-EI: ≥90000\nS5016P-8T8N-EI: ≥90000"
+},
+{
+"t":"p",
+"text":"Cooling [CFM] - Total maximum airflow\nS5048-4X2Q-EI: 68.76\nS5048-4X2Q-SI: 46.48\nS5040P-8T2Q4N-EI: 46.48\nS5032P-16T8N-EI: 105.32\nS5016P-8T8N-EI: 46.48"
+},
+{
+"t":"p",
+"text":"Operating altitude\nS5048-4X2Q-EI: ≤5000m\nS5048-4X2Q-SI: ≤3000m\nS5040P-8T2Q4N-EI: ≤5000m\nS5032P-16T8N-EI: ≤5000m\nS5016P-8T8N-EI: ≤5000m"
+},
+{
+"t":"p",
+"text":"Dimensions (W x H x D) without Package\nS5048-4X2Q-EI: 442*44*357mm\nS5048-4X2Q-SI: 442*44*290mm\nS5040P-8T2Q4N-EI: 442*44*420mm\nS5032P-16T8N-EI: 442*44*449mm\nS5016P-8T8N-EI: 442*44*420mm"
+},
+{
+"t":"p",
+"text":"Dimensions (W x H x D) with Package\nS5048-4X2Q-EI: 557*150*495mm\nS5048-4X2Q-SI: 557*150*495mm\nS5040P-8T2Q4N-EI: 665*150*565mm\nS5032P-16T8N-EI: 665*150*565mm\nS5016P-8T8N-EI: 665*150*565mm"
+},
+{
+"t":"p",
+"text":"Weight (Net/Gross)\nS5048-4X2Q-EI: 7.2KG/10.3KG\nS5048-4X2Q-SI: 6KG/8.3KG\nS5040P-8T2Q4N-EI：7.9kg/11.1kg\nS5032P-16T8N-EI：8.3kg/11.5kg\nS5016P-8T8N-EI：7.2kg/10.4kg"
+},
+{
+"t":"p",
+"text":"PoE budget\nS5040P-8T2Q4N-EI: 2000W\nS5032P-16T8N-EI: 2000W\nS5016P-8T8N-EI: 1000W"
+}
+],
+"notes":""
+},
+{
+"n":5,
+"items":[
+{
+"t":"p",
+"text":"S5000 Software Specifications\nHOHUNET implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘HOS Software features’ ."
+},
+{
+"t":"p",
+"text":"* All HOHUNET switches use a normalized software platform and image package file\n* Unified software version iteration plan\n* Unified user experience"
+},
+{
+"t":"p",
+"text":"HOS Network Platform"
+},
+{
+"t":"p",
+"text":"Layer 2 switching"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Unicast Routing"
+},
+{
+"t":"p",
+"text":"QoS"
+},
+{
+"t":"p",
+"text":"IP Multicast Snooping/Proxy"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Multi cast Routing"
+},
+{
+"t":"p",
+"text":"VRRP"
+},
+{
+"t":"p",
+"text":"Multiprotocol Label Switching(MPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Private LAN Service(VPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Routing and Switching"
+},
+{
+"t":"p",
+"text":"Generalized Multi protocol Label Switching(GMPLS)"
+},
+{
+"t":"p",
+"text":"IPv6 Tunneling and TransitionTechnologies"
+},
+{
+"t":"p",
+"text":"IP/MPLS OAM"
+},
+{
+"t":"p",
+"text":"Service management module"
+},
+{
+"t":"p",
+"text":"Fault Managemet (FM)"
+},
+{
+"t":"p",
+"text":"High Availability (HA)"
+},
+{
+"t":"p",
+"text":"Integrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)"
+},
+{
+"t":"p",
+"text":"Hardware and platform abstraction layer"
+},
+{
+"t":"p",
+"text":"Advanced integration Suite"
+},
+{
+"t":"p",
+"text":"CENTEC swtich chip  SDK"
+},
+{
+"t":"p",
+"text":"Silicon in Pizza, Stacking or Chassis\nConfiguration"
+},
+{
+"t":"p",
+"text":"Operating Systems TCP/IP Stacks"
+},
+{
+"t":"p",
+"text":"Linux , IPv4/Pv6 Dual Stack"
+},
+{
+"t":"p",
+"text":"Hardware layer"
+},
+{
+"t":"p",
+"text":"CENTEC Switch Chipset"
+},
+{
+"t":"p",
+"text":"CPU Subsystem"
+},
+{
+"t":"p",
+"text":"Cooling SubSystem"
+},
+{
+"t":"p",
+"text":"AC/DC DC/DC CLK"
+},
+{
+"t":"p",
+"text":"Environmental Management Subsystem"
+},
+{
+"t":"p",
+"text":"Logical Control Subunit"
+}
+],
+"notes":""
+},
+{
+"n":6,
+"items":[
+{
+"t":"p",
+"text":"Ordering Information\nS5000 Series Switches"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"S5048-4X2Q-EI",
+"2.5G enterprise switch, with 48 x 100M/1G/2.5G Base-T, 4 x 25G/10G SFP28, 2 x 40G QSFP+, Dual power supply modules, 2 x Hot-swappable fan modules."
+],
+[
+"S5048-4X2Q-SI",
+"2.5G enterprise switch, with 48 x 100M/1G/2.5G Base-T, 4 x 25G/10G SFP28, 2 x 40G QSFP+, Fixed single power supplies, 4 x Fixed fans."
+],
+[
+"S5040P-8T2Q4N-EI",
+"2.5G enterprise switch, with 40 x 100M/1G/2.5G Base-T(PoE++90W), 10 x 10G Base-T(PoE++90W), 4 x 25G/10G SFP28, 2 x 40G QSFP+, Dual power supply modules, 2 x Hot-swappable fan modules."
+],
+[
+"S5032P-16T8N-EI",
+"2.5G enterprise switch, with 32 x 100M/1G/2.5G Base-T(PoE++90W), 16 x 10G Base-T(PoE++90W), 8 x 25G/10G SFP28, Dual power supply modules, 2 x Hot-swappable fan modules."
+],
+[
+"S5016P-8T8N-EI",
+"2.5G enterprise switch, with 16 x 100M/1G/2.5G Base-T(PoE++90W), 8 x 10G Base-T(PoE++90W), 8 x 25G/10G SFP28, Dual power supply modules, 2 x Hot-swappable fan modules."
+]
+]
+},
+{
+"t":"p",
+"text":"AC/DC Power Supplies use for S5000 Series Switches."
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"PSU-350-AC-AFO",
+"S5000  Series 350W AC power supply (front-to-back airflow)"
+],
+[
+"PSU-600-AC-AFO",
+"S5000  Series 600W AC power supply (front-to-back airflow)"
+],
+[
+"PSU-1200-AC-AFO",
+"S5000  Series 1200W AC power supply (front-to-back airflow)"
+]
+]
+},
+{
+"t":"p",
+"text":"Software licenses for S5000 Series Switches."
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"Software License",
+"EB, Basic L3 software features, Preinstalled on SI models"
+],
+[
+"Software License",
+"MS, L3 enhance features software license key, Preinstalled on EI models"
+],
+[
+"Software License",
+"MA, MPLS features software license key"
+],
+[
+"Software License",
+"ST, Stacking feature software license key"
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":7,
+"items":[
+{
+"t":"p",
+"text":"Accessory of S5000 Series"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Front Mounting",
+"Rear Mounting",
+"Rear Rack Rail",
+"M4\nScrew",
+"Power Cord",
+"Ground lead",
+"Console \n(DB9 to RJ45)"
+],
+[
+"S5048-4X2Q-EI",
+"2",
+"2",
+"2",
+"12",
+"2",
+"1",
+"1"
+],
+[
+"S5048-4X2Q-SI",
+"2",
+"/",
+"/",
+"12",
+"1",
+"1",
+"1"
+],
+[
+"S5040P-8T2Q4N-EI",
+"2",
+"2",
+"2",
+"12",
+"2",
+"1",
+"1"
+],
+[
+"S5032P-16T8N-EI",
+"2",
+"2",
+"2",
+"12",
+"2",
+"1",
+"1"
+],
+[
+"S5016P-8T8N-EI",
+"2",
+"2",
+"2",
+"12",
+"2",
+"1",
+"1"
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":8,
+"items":[],
+"notes":""
+}
+],
+"extracted_at":"2026-10-23T05:04:27Z"
+}

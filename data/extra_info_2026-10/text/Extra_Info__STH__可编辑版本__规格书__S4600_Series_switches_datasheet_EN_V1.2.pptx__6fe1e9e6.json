@@ -1,0 +1,733 @@
+{
+"id":"Extra_Info__STH__可编辑版本__规格书__S4600_Series_switches_datasheet_EN_V1.2.pptx__6fe1e9e6",
+"path":"Extra_Info/STH/可编辑版本/规格书/S4600 Series switches datasheet_EN_V1.2.pptx",
+"name":"S4600 Series switches datasheet_EN_V1.2.pptx",
+"ext":".pptx",
+"bytes":9767796,
+"sha256":"6fe1e9e63b002279bacfe2121a64cb54842ae6534ee2a81102e4cd4c0c64b68b",
+"source":"Extra_Info.zip",
+"method":"python-pptx",
+"status":"ok",
+"meta":{
+"slides":10,
+"pictures":4
+},
+"warnings":[],
+"chars":9628,
+"text":"[slide 1]\nS4600 SERIES SWITCHES\nDATASHEET\nFlexible Campus and Enterprise Switch\nProduct Overview\nThe S4600 series switches are designed with the domestically produced new generation switch chip VastLakes Series Chip platform. They support ports of various speeds, provide full Gigabit access (PoE, non-PoE) and flexible uplink data interaction capabilities, support a variety of switch layer 3 features, ensure network security, high efficiency and energy saving, and are suitable for access scenarios such as e-sports networks and SMBs.\nKey Features of the S4600 Series Switches\nSupport 5G Multi-Gigatbit ports and various uplink ports to meet different network requirements.\nPoE++ provide max 90W power of ports.\nRich L2/L3 features such as VLAN, IGMP Snooping, LACP, OSPF,  VRRP, ACL, DHCP etc.\nSupport CLI/WEB/SNMP/SSH for flexible operation.\nThe S4600 series switches provide various power supply solutions for customers choosing. Generally, air flow of S4600 series is front to back (AFO), and some of models can do customization of back to front (AFI) airflow.\nTable 1: Feasible PSU and airflow of S4600 Series\nVersion: V1.2\u000bRelease Date: 2025/12/17\n1\nItems\tAC\tDC\tPoE Ports\tAFO\tAFI\tPower Input\tFAN\nS4648T-4Z-SI\t◯\tX\tX\t◯\tX\t1\t6\nS4648T-4N2Z-SI\t◯\tX\tX\t◯\tX\t1\t6\n[notes] 单击此处添加文本\n\n[slide 2]\nTable 1: Feasible PSU and airflow of S4600 Series\nThe S4600 Series switches support varied management ways, include console port / in-band network ports / out-of-band network port. Support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, SSL, etc. to ensure security of management.\nMoreover, leveraging its profound technical expertise and in-depth understanding of campus and enterprise networking needs, Hohunet has launched the Da Hu Cloud Management System (DHCS). It enhances network management and maintenance efficiency, reduces costs, elevates management intelligence, and delivers a faster, smarter, more secure and reliable network to better meet user requirements.\n2\nItems\tAC\tDC\tPoE Ports\tAFO\tAFI\tPower Input\tFAN\nS4634T-1X2Z-SI\t◯\tX\tX\t◯\tX\t1\t4\nS4624T-2Z-EI\t◯\t◯\tX\t◯\tX\t2\t2 x 2\nS4624P-2Z-EI\t◯\tX\t24 PoE++\t◯\tX\t2\t2 x 2\nS4624T-8N-EI\t◯\t◯\tX\t◯\tX\t2\t2 x 2\nS4624P-8N-EI\t◯\t◯\t24 PoE++\t◯\tX\t2\t2 x 2\n\n[slide 3]\nVisual WEB GUI\nThe S4600 series allows you to quickly configure common configuration items using a visual WEB GUI, which lowers the application threshold for users.\n3\n\n[slide 4]\nTable 2: Family of the S4600 Series switches\nThe S4600 family of Ethernet switches consists of the following models:\n4\nModels\tEthernet Ports\tManagement\tPSU 1/PSU 2\tCooling\nS4648T-4Z-SI\t48 x 100M/1G/2.5G/5G Base-T, \n4 x 100G QSFP28\tConsole: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB\t200W fixed\t6 x Fixed Fan\u000b(front-to-back airflow)\nS4648T-4N2Z-SI\t48 x 100M/1G/2.5G/5G Base-T, \n4 x 10G/25G SFP28, \n2 x 100G QSFP28\tConsole: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB\t200W fixed\t6 x Fixed Fan\u000b(front-to-back airflow)\nS4634T-1X2Z-SI\t34 x 100M/1G/2.5G/5G Base-T, \n1 x 10G SFP+, \n2 x 100G QSFP28\tConsole: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB\t200W fixed\t4 x Fixed Fan\u000b(front-to-back airflow)\nS4624T-2Z-EI\t24 x 100M/1G/2.5G/5G Base-T, \n2 x 100G QSFP28\tConsole: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB\t350W/350W CRPS\t2 x Fan modules\u000b(front-to-back airflow)\nS4624P-2Z-EI\t24 x 100M/1G/2.5G/5G Base-T (PoE++, per port 90W), \n2 x 100G QSFP28\tConsole: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB\t600W/600W CRPS\t2 x Fan modules\u000b(front-to-back airflow)\nS4624T-8N-EI\t24 x 100M/1G/2.5G/5G Base-T, \n8 x 25G SFP28\tConsole: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB\t350W/350W CRPS\t2 x Fan modules\u000b(front-to-back airflow)\nS4624P-8N-EI\t24 x 100M/1G/2.5G/5G Base-T (PoE++ per port 90W), \n8 x 25G SFP28\tConsole: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB\t600W/600W CRPS\t2 x Fan modules\u000b(front-to-back airflow)\n\n[slide 5]\nS4600 Physical Specifications\nPacket Switch Capacity\nS4648T-4Z-SI: 1280Gbps (bidirectional)\nS4648T-4N2Z-SI: 1080Gbps (bidirectional)\nS4634T-1X2Z-SI: 760Gbps (bidirectional)\nS4624T-2Z-EI: 640Gbps (bidirectional)\nS4624P-2Z-EI: 640Gbps (bidirectional)\nS4624T-8N-EI: 640Gbps (bidirectional)\nS4624P-8N-EI: 640Gbps (bidirectional)\nLayer 2/Layer 3 Throughput (Mpps)\nS4648T-4Z-SI: 1904.64 Mpps (bidirectional)\nS4648T-4N2Z-SI: 1607.08 Mpps (bidirectional)\nS4634T-1X2Z-SI: 1130.88 Mpps (bidirectional)\nS4624T-2Z-EI: 952.32Mpps (bidirectional)\nS4624P-2Z-EI: 952.32Mpps (bidirectional)\nS4624T-8N-EI: 952.32Mpps (bidirectional)\nS4624P-8N-EI: 952.32Mpps (bidirectional)\nCooling [CFM] - Total maximum airflow\nS4648T-4Z-SI: 69.72\nS4648T-4N2Z-SI: 69.72\nS4634T-1X2Z-SI: 46.48\nS4624T-2Z-EI: 68.76\nS4624P-2Z-EI: 72.78\nS4624T-8N-EI: 68.76\nS4624P-8N-EI: 72.78\nWeight (Net/Gross)\nS4648T-4Z-SI: 5.21KG/7.9KG\nS4648T-4N2Z-SI: 5.21KG/7.9KG\nS4634T-1X2Z-SI: 4.6KG/7.2KG\nS4624T-2Z-EI: 6.96KG/9.5KG\nS4624P-2Z-EI: 6.96KG/9.5KG\nS4624T-8N-EI: 6.96KG/9.5KG\nS4624P-8N-EI: 6.96KG/9.5KG\nDimensions (W x H x D) without Package\nS4648T-4Z-SI: 442×44×371mm\nS4648T-4N2Z-SI: 442×44×371mm\nS4634T-1X2Z-SI: 442×44×408mm\nS4624T-2Z-EI: 442×44×357mm\nS4624P-2Z-EI: 442×44×357mm\nS4624T-8N-EI: 442×44×357mm\nS4624P-8N-EI: 442×44×357mm\nMTBF(Hours)\nS4648T-4Z-SI: ≥70000h  (~8.0 Years)\nS4648T-4N2Z-SI: ≥70000h  (~8.0 Years)\nS4634T-1X2Z-SI: ≥70000h  (~8.0 Years)\nS4624T-2Z-EI: ≥ 90000h (~10.3 Years)\nS4624P-2Z-EI: ≥ 90000h (~10.3 Years)\nS4624T-8N-EI: ≥ 90000h (~10.3 Years)\nS4624P-8N-EI: ≥ 90000h (~10.3 Years)\nDimensions (W x H x D) with Package\nS4648T-4Z-SI: 557×150×495mm\nS4648T-4N2Z-SI: 557×150×495mm\nS4634T-1X2Z-SI: 557×150×495mm\nS4624T-2Z-EI: 557×150×495mm\nS4624P-2Z-EI: 557×150×495mm\nS4624T-8N-EI: 557×150×495mm\nS4624P-8N-EI: 557×150×495mm\nPoE Power Budget\nS4624P-2Z-EI: 1000W\nS4624P-8N-EI: 1000W\n5\n\n[slide 6]\nS4600 Physical Specifications\nTemperature alarm\nAlarm threshold: 50ºC\nCPU\nDualcore, ARM A53(1.2GHz)\nMemory\neMMc: 8GB\nDRAM: 2GB\nEnvironmental ranges\nOperating temperature: 0ºC to 45ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90% (No condensation)\nStore Humidity: 5 to 95% (No condensation)\nOperating altitude: ≤5000m\nOperating altitude\nS4648T-4Z-SI: 0~3km\nS4648T-4N2Z-SI: 0~3km\nS4634T-1X2Z-SI: 0~3km\nS4624T-2Z-EI: 0~5km\nS4624P-2Z-EI: 0~5km\nS4624T-8N-EI: 0~5km\nS4624P-8N-EI: 0~5km\n6\n\n[slide 7]\n7\nS4600 Software Specifications\nHOHUNET implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘HOS Software features’ .\nAll HOHUNET switches use a normalized software platform and image package file\nUnified software version iteration plan\nUnified user experience\nHOS Network Platform\nLayer 2 switching\nIPv4/lPv6 Unicast Routing\nQoS\nIP Multicast Snooping/Proxy\nIPv4/lPv6 Multi cast Routing\nVRRP\nMultiprotocol Label Switching(MPLS)\nVirtual Private LAN Service(VPLS)\nVirtual Routing and Switching\nGeneralized Multi protocol Label Switching(GMPLS)\nIPv6 Tunneling and TransitionTechnologies\nIP/MPLS OAM\nService management module\nFault Managemet (FM)\nHigh Availability (HA)\nIntegrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)\nHardware and platform abstraction layer\nAdvanced integration Suite\nCENTEC swtich chip  SDK\nSilicon in Pizza, Stacking or Chassis\nConfiguration\nOperating Systems TCP/IP Stacks\nLinux , IPv4/Pv6 Dual Stack\nHardware layer\u000b×\nCENTEC Switch Chipset\nCPU Subsystem\nCooling SubSystem\nAC/DC DC/DC CLK\nEnvironmental Management Subsystem\nLogical Control Subunit\n\n[slide 8]\n8\nOrdering Information\nS4600 Series Switches\nSoftware Licenses\nItems\tDescription\nS4648T-4Z-SI\t5G enterprise switch, with 48 x 100M/1G/2.5G/5G Base-T, 4 x 100G QSFP28, 1 x Fixed power supply, 6 x Fixed smart fan\nS4648T-4N2Z-SI\t5G enterprise switch, with 48 x 100M/1G/2.5G/5G Base-T, 4 x 10G/25G SFP28, 2 x 100G QSFP28, 1 x Fixed power supply, 6 x Fixed smart fan\nS4634T-1X2Z-SI\t5G enterprise switch, with 34 x 100M/1G/2.5G/5G Base-T, 1 x 10G SFP+, 2 x 100G QSFP28, 1 x Fixed power supply, 4 x Fixed smart fan\nS4624T-2Z-EI\t5G enterprise switch, with 24 x 100M/1G/2.5G/5G Base-T, 2 x 100G QSFP28, 2 x power supply modules, 2 x Hot-swappable fan modules.\nS4624P-2Z-EI\t5G enterprise switch, with 24 x 100M/1G/2.5G/5G Base-T (PoE++ 90W), 2 x 100G QSFP28, 2 x power supply modules, 2 x Hot-swappable fan modules.\nS4624T-8N-EI\t5G enterprise switch, with 24 x 100M/1G/2.5G/5G Base-T, 8 x 25G/10G SFP28, 2 x power supply modules, 2 x Hot-swappable fan modules.\nS4624P-8N-EI\t5G enterprise switch, with 24 x 100M/1G/2.5G/5G Base-T (PoE++ 90W), 8 x 25G/10G SFP28, 2 x power supply modules, 2 x Hot-swappable fan modules.\nItems\tDescription\nSoftware License\tEB, Basic L3 software features, Preinstalled on SI models\nSoftware License\tMS, L3 enhance features software license key, Preinstalled on EI models\nSoftware License\tMA, MPLS features software license key\nSoftware License\tST, Stacking feature software license key\n\n[slide 9]\nAC/DC Power Supplies use for (S4624T-2Z-EI, S4624P-2Z-EI, S4624T-8N-EI, S4624P-8N-EI) Switches.\n9\nAccessory of S4600 Series\nItems\tDescription\nPSU-600-AC-AFO\tS4600  Series 600 W AC power supply (front-to-back airflow)\nPSU-900-AC-AFO\tS4600  Series 900 W AC power supply (front-to-back airflow)\nPSU-1200-AC-AFO\tS4600  Series 1200 W AC power supply (front-to-back airflow)\nPSU-2000-AC-AFO\tS4600  Series 2000 W AC power supply (front-to-back airflow)\nItems\tFront Mounting\tRear Mounting\tRear Mounting\nExtension\tRack Rail\tM4 Screw\tPower Cord\tGround Cord\nS4648T-4Z-SI\t2\t/\t/\t12\t1\t1\t1\nS4648T-4N2Z-SI\t2\t/\t/\t12\t1\t1\t1\nS4634T-1X2Z-SI\t2\t/\t/\t12\t1\t1\t1\nS4624T-2Z-EI\t2\t2\t2\t12\t2\t1\t1\nS4624P-2Z-EI\t2\t2\t2\t12\t2\t1\t1\nS4624T-8N-EI\t2\t2\t2\t12\t2\t1\t1\nS4624P-8N-EI\t2\t2\t2\t12\t2\t1\t1\n\n[slide 10]\n",
+"slides":[
+{
+"n":1,
+"items":[
+{
+"t":"p",
+"text":"S4600 SERIES SWITCHES\nDATASHEET"
+},
+{
+"t":"p",
+"text":"Flexible Campus and Enterprise Switch"
+},
+{
+"t":"p",
+"text":"Product Overview"
+},
+{
+"t":"p",
+"text":"The S4600 series switches are designed with the domestically produced new generation switch chip VastLakes Series Chip platform. They support ports of various speeds, provide full Gigabit access (PoE, non-PoE) and flexible uplink data interaction capabilities, support a variety of switch layer 3 features, ensure network security, high efficiency and energy saving, and are suitable for access scenarios such as e-sports networks and SMBs."
+},
+{
+"t":"p",
+"text":"Key Features of the S4600 Series Switches"
+},
+{
+"t":"p",
+"text":"Support 5G Multi-Gigatbit ports and various uplink ports to meet different network requirements.\nPoE++ provide max 90W power of ports.\nRich L2/L3 features such as VLAN, IGMP Snooping, LACP, OSPF,  VRRP, ACL, DHCP etc.\nSupport CLI/WEB/SNMP/SSH for flexible operation."
+},
+{
+"t":"p",
+"text":"The S4600 series switches provide various power supply solutions for customers choosing. Generally, air flow of S4600 series is front to back (AFO), and some of models can do customization of back to front (AFI) airflow."
+},
+{
+"t":"p",
+"text":"Table 1: Feasible PSU and airflow of S4600 Series"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"AC",
+"DC",
+"PoE Ports",
+"AFO",
+"AFI",
+"Power Input",
+"FAN"
+],
+[
+"S4648T-4Z-SI",
+"◯",
+"X",
+"X",
+"◯",
+"X",
+"1",
+"6"
+],
+[
+"S4648T-4N2Z-SI",
+"◯",
+"X",
+"X",
+"◯",
+"X",
+"1",
+"6"
+]
+]
+},
+{
+"t":"p",
+"text":"Version: V1.2\u000bRelease Date: 2025/12/17"
+},
+{
+"t":"picture",
+"name":"图片 12"
+},
+{
+"t":"p",
+"text":"1"
+}
+],
+"notes":"单击此处添加文本"
+},
+{
+"n":2,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"AC",
+"DC",
+"PoE Ports",
+"AFO",
+"AFI",
+"Power Input",
+"FAN"
+],
+[
+"S4634T-1X2Z-SI",
+"◯",
+"X",
+"X",
+"◯",
+"X",
+"1",
+"4"
+],
+[
+"S4624T-2Z-EI",
+"◯",
+"◯",
+"X",
+"◯",
+"X",
+"2",
+"2 x 2"
+],
+[
+"S4624P-2Z-EI",
+"◯",
+"X",
+"24 PoE++",
+"◯",
+"X",
+"2",
+"2 x 2"
+],
+[
+"S4624T-8N-EI",
+"◯",
+"◯",
+"X",
+"◯",
+"X",
+"2",
+"2 x 2"
+],
+[
+"S4624P-8N-EI",
+"◯",
+"◯",
+"24 PoE++",
+"◯",
+"X",
+"2",
+"2 x 2"
+]
+]
+},
+{
+"t":"p",
+"text":"Table 1: Feasible PSU and airflow of S4600 Series"
+},
+{
+"t":"p",
+"text":"The S4600 Series switches support varied management ways, include console port / in-band network ports / out-of-band network port. Support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, SSL, etc. to ensure security of management.\nMoreover, leveraging its profound technical expertise and in-depth understanding of campus and enterprise networking needs, Hohunet has launched the Da Hu Cloud Management System (DHCS). It enhances network management and maintenance efficiency, reduces costs, elevates management intelligence, and delivers a faster, smarter, more secure and reliable network to better meet user requirements."
+},
+{
+"t":"picture",
+"name":"图片 14"
+},
+{
+"t":"p",
+"text":"2"
+}
+],
+"notes":""
+},
+{
+"n":3,
+"items":[
+{
+"t":"p",
+"text":"Visual WEB GUI"
+},
+{
+"t":"p",
+"text":"The S4600 series allows you to quickly configure common configuration items using a visual WEB GUI, which lowers the application threshold for users."
+},
+{
+"t":"picture",
+"name":"Picture 7"
+},
+{
+"t":"picture",
+"name":"Picture 8"
+},
+{
+"t":"p",
+"text":"3"
+}
+],
+"notes":""
+},
+{
+"n":4,
+"items":[
+{
+"t":"p",
+"text":"Table 2: Family of the S4600 Series switches"
+},
+{
+"t":"table",
+"rows":[
+[
+"Models",
+"Ethernet Ports",
+"Management",
+"PSU 1/PSU 2",
+"Cooling"
+],
+[
+"S4648T-4Z-SI",
+"48 x 100M/1G/2.5G/5G Base-T, \n4 x 100G QSFP28",
+"Console: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB",
+"200W fixed",
+"6 x Fixed Fan\u000b(front-to-back airflow)"
+],
+[
+"S4648T-4N2Z-SI",
+"48 x 100M/1G/2.5G/5G Base-T, \n4 x 10G/25G SFP28, \n2 x 100G QSFP28",
+"Console: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB",
+"200W fixed",
+"6 x Fixed Fan\u000b(front-to-back airflow)"
+],
+[
+"S4634T-1X2Z-SI",
+"34 x 100M/1G/2.5G/5G Base-T, \n1 x 10G SFP+, \n2 x 100G QSFP28",
+"Console: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB",
+"200W fixed",
+"4 x Fixed Fan\u000b(front-to-back airflow)"
+],
+[
+"S4624T-2Z-EI",
+"24 x 100M/1G/2.5G/5G Base-T, \n2 x 100G QSFP28",
+"Console: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB",
+"350W/350W CRPS",
+"2 x Fan modules\u000b(front-to-back airflow)"
+],
+[
+"S4624P-2Z-EI",
+"24 x 100M/1G/2.5G/5G Base-T (PoE++, per port 90W), \n2 x 100G QSFP28",
+"Console: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB",
+"600W/600W CRPS",
+"2 x Fan modules\u000b(front-to-back airflow)"
+],
+[
+"S4624T-8N-EI",
+"24 x 100M/1G/2.5G/5G Base-T, \n8 x 25G SFP28",
+"Console: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB",
+"350W/350W CRPS",
+"2 x Fan modules\u000b(front-to-back airflow)"
+],
+[
+"S4624P-8N-EI",
+"24 x 100M/1G/2.5G/5G Base-T (PoE++ per port 90W), \n8 x 25G SFP28",
+"Console: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB",
+"600W/600W CRPS",
+"2 x Fan modules\u000b(front-to-back airflow)"
+]
+]
+},
+{
+"t":"p",
+"text":"The S4600 family of Ethernet switches consists of the following models:"
+},
+{
+"t":"p",
+"text":"4"
+}
+],
+"notes":""
+},
+{
+"n":5,
+"items":[
+{
+"t":"p",
+"text":"S4600 Physical Specifications"
+},
+{
+"t":"p",
+"text":"Packet Switch Capacity\nS4648T-4Z-SI: 1280Gbps (bidirectional)\nS4648T-4N2Z-SI: 1080Gbps (bidirectional)\nS4634T-1X2Z-SI: 760Gbps (bidirectional)\nS4624T-2Z-EI: 640Gbps (bidirectional)\nS4624P-2Z-EI: 640Gbps (bidirectional)\nS4624T-8N-EI: 640Gbps (bidirectional)\nS4624P-8N-EI: 640Gbps (bidirectional)"
+},
+{
+"t":"p",
+"text":"Layer 2/Layer 3 Throughput (Mpps)\nS4648T-4Z-SI: 1904.64 Mpps (bidirectional)\nS4648T-4N2Z-SI: 1607.08 Mpps (bidirectional)\nS4634T-1X2Z-SI: 1130.88 Mpps (bidirectional)\nS4624T-2Z-EI: 952.32Mpps (bidirectional)\nS4624P-2Z-EI: 952.32Mpps (bidirectional)\nS4624T-8N-EI: 952.32Mpps (bidirectional)\nS4624P-8N-EI: 952.32Mpps (bidirectional)"
+},
+{
+"t":"p",
+"text":"Cooling [CFM] - Total maximum airflow\nS4648T-4Z-SI: 69.72\nS4648T-4N2Z-SI: 69.72\nS4634T-1X2Z-SI: 46.48\nS4624T-2Z-EI: 68.76\nS4624P-2Z-EI: 72.78\nS4624T-8N-EI: 68.76\nS4624P-8N-EI: 72.78"
+},
+{
+"t":"p",
+"text":"Weight (Net/Gross)\nS4648T-4Z-SI: 5.21KG/7.9KG\nS4648T-4N2Z-SI: 5.21KG/7.9KG\nS4634T-1X2Z-SI: 4.6KG/7.2KG\nS4624T-2Z-EI: 6.96KG/9.5KG\nS4624P-2Z-EI: 6.96KG/9.5KG\nS4624T-8N-EI: 6.96KG/9.5KG\nS4624P-8N-EI: 6.96KG/9.5KG"
+},
+{
+"t":"p",
+"text":"Dimensions (W x H x D) without Package\nS4648T-4Z-SI: 442×44×371mm\nS4648T-4N2Z-SI: 442×44×371mm\nS4634T-1X2Z-SI: 442×44×408mm\nS4624T-2Z-EI: 442×44×357mm\nS4624P-2Z-EI: 442×44×357mm\nS4624T-8N-EI: 442×44×357mm\nS4624P-8N-EI: 442×44×357mm"
+},
+{
+"t":"p",
+"text":"MTBF(Hours)\nS4648T-4Z-SI: ≥70000h  (~8.0 Years)\nS4648T-4N2Z-SI: ≥70000h  (~8.0 Years)\nS4634T-1X2Z-SI: ≥70000h  (~8.0 Years)\nS4624T-2Z-EI: ≥ 90000h (~10.3 Years)\nS4624P-2Z-EI: ≥ 90000h (~10.3 Years)\nS4624T-8N-EI: ≥ 90000h (~10.3 Years)\nS4624P-8N-EI: ≥ 90000h (~10.3 Years)"
+},
+{
+"t":"p",
+"text":"Dimensions (W x H x D) with Package\nS4648T-4Z-SI: 557×150×495mm\nS4648T-4N2Z-SI: 557×150×495mm\nS4634T-1X2Z-SI: 557×150×495mm\nS4624T-2Z-EI: 557×150×495mm\nS4624P-2Z-EI: 557×150×495mm\nS4624T-8N-EI: 557×150×495mm\nS4624P-8N-EI: 557×150×495mm"
+},
+{
+"t":"p",
+"text":"PoE Power Budget\nS4624P-2Z-EI: 1000W\nS4624P-8N-EI: 1000W"
+},
+{
+"t":"p",
+"text":"5"
+}
+],
+"notes":""
+},
+{
+"n":6,
+"items":[
+{
+"t":"p",
+"text":"S4600 Physical Specifications"
+},
+{
+"t":"p",
+"text":"Temperature alarm\nAlarm threshold: 50ºC"
+},
+{
+"t":"p",
+"text":"CPU\nDualcore, ARM A53(1.2GHz)"
+},
+{
+"t":"p",
+"text":"Memory\neMMc: 8GB\nDRAM: 2GB"
+},
+{
+"t":"p",
+"text":"Environmental ranges\nOperating temperature: 0ºC to 45ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90% (No condensation)\nStore Humidity: 5 to 95% (No condensation)\nOperating altitude: ≤5000m"
+},
+{
+"t":"p",
+"text":"Operating altitude\nS4648T-4Z-SI: 0~3km\nS4648T-4N2Z-SI: 0~3km\nS4634T-1X2Z-SI: 0~3km\nS4624T-2Z-EI: 0~5km\nS4624P-2Z-EI: 0~5km\nS4624T-8N-EI: 0~5km\nS4624P-8N-EI: 0~5km"
+},
+{
+"t":"p",
+"text":"6"
+}
+],
+"notes":""
+},
+{
+"n":7,
+"items":[
+{
+"t":"p",
+"text":"7"
+},
+{
+"t":"p",
+"text":"S4600 Software Specifications\nHOHUNET implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘HOS Software features’ ."
+},
+{
+"t":"p",
+"text":"All HOHUNET switches use a normalized software platform and image package file\nUnified software version iteration plan\nUnified user experience"
+},
+{
+"t":"p",
+"text":"HOS Network Platform"
+},
+{
+"t":"p",
+"text":"Layer 2 switching"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Unicast Routing"
+},
+{
+"t":"p",
+"text":"QoS"
+},
+{
+"t":"p",
+"text":"IP Multicast Snooping/Proxy"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Multi cast Routing"
+},
+{
+"t":"p",
+"text":"VRRP"
+},
+{
+"t":"p",
+"text":"Multiprotocol Label Switching(MPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Private LAN Service(VPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Routing and Switching"
+},
+{
+"t":"p",
+"text":"Generalized Multi protocol Label Switching(GMPLS)"
+},
+{
+"t":"p",
+"text":"IPv6 Tunneling and TransitionTechnologies"
+},
+{
+"t":"p",
+"text":"IP/MPLS OAM"
+},
+{
+"t":"p",
+"text":"Service management module"
+},
+{
+"t":"p",
+"text":"Fault Managemet (FM)"
+},
+{
+"t":"p",
+"text":"High Availability (HA)"
+},
+{
+"t":"p",
+"text":"Integrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)"
+},
+{
+"t":"p",
+"text":"Hardware and platform abstraction layer"
+},
+{
+"t":"p",
+"text":"Advanced integration Suite"
+},
+{
+"t":"p",
+"text":"CENTEC swtich chip  SDK"
+},
+{
+"t":"p",
+"text":"Silicon in Pizza, Stacking or Chassis\nConfiguration"
+},
+{
+"t":"p",
+"text":"Operating Systems TCP/IP Stacks"
+},
+{
+"t":"p",
+"text":"Linux , IPv4/Pv6 Dual Stack"
+},
+{
+"t":"p",
+"text":"Hardware layer\u000b×"
+},
+{
+"t":"p",
+"text":"CENTEC Switch Chipset"
+},
+{
+"t":"p",
+"text":"CPU Subsystem"
+},
+{
+"t":"p",
+"text":"Cooling SubSystem"
+},
+{
+"t":"p",
+"text":"AC/DC DC/DC CLK"
+},
+{
+"t":"p",
+"text":"Environmental Management Subsystem"
+},
+{
+"t":"p",
+"text":"Logical Control Subunit"
+}
+],
+"notes":""
+},
+{
+"n":8,
+"items":[
+{
+"t":"p",
+"text":"8"
+},
+{
+"t":"p",
+"text":"Ordering Information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"S4648T-4Z-SI",
+"5G enterprise switch, with 48 x 100M/1G/2.5G/5G Base-T, 4 x 100G QSFP28, 1 x Fixed power supply, 6 x Fixed smart fan"
+],
+[
+"S4648T-4N2Z-SI",
+"5G enterprise switch, with 48 x 100M/1G/2.5G/5G Base-T, 4 x 10G/25G SFP28, 2 x 100G QSFP28, 1 x Fixed power supply, 6 x Fixed smart fan"
+],
+[
+"S4634T-1X2Z-SI",
+"5G enterprise switch, with 34 x 100M/1G/2.5G/5G Base-T, 1 x 10G SFP+, 2 x 100G QSFP28, 1 x Fixed power supply, 4 x Fixed smart fan"
+],
+[
+"S4624T-2Z-EI",
+"5G enterprise switch, with 24 x 100M/1G/2.5G/5G Base-T, 2 x 100G QSFP28, 2 x power supply modules, 2 x Hot-swappable fan modules."
+],
+[
+"S4624P-2Z-EI",
+"5G enterprise switch, with 24 x 100M/1G/2.5G/5G Base-T (PoE++ 90W), 2 x 100G QSFP28, 2 x power supply modules, 2 x Hot-swappable fan modules."
+],
+[
+"S4624T-8N-EI",
+"5G enterprise switch, with 24 x 100M/1G/2.5G/5G Base-T, 8 x 25G/10G SFP28, 2 x power supply modules, 2 x Hot-swappable fan modules."
+],
+[
+"S4624P-8N-EI",
+"5G enterprise switch, with 24 x 100M/1G/2.5G/5G Base-T (PoE++ 90W), 8 x 25G/10G SFP28, 2 x power supply modules, 2 x Hot-swappable fan modules."
+]
+]
+},
+{
+"t":"p",
+"text":"S4600 Series Switches"
+},
+{
+"t":"p",
+"text":"Software Licenses"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"Software License",
+"EB, Basic L3 software features, Preinstalled on SI models"
+],
+[
+"Software License",
+"MS, L3 enhance features software license key, Preinstalled on EI models"
+],
+[
+"Software License",
+"MA, MPLS features software license key"
+],
+[
+"Software License",
+"ST, Stacking feature software license key"
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":9,
+"items":[
+{
+"t":"p",
+"text":"AC/DC Power Supplies use for (S4624T-2Z-EI, S4624P-2Z-EI, S4624T-8N-EI, S4624P-8N-EI) Switches."
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"PSU-600-AC-AFO",
+"S4600  Series 600 W AC power supply (front-to-back airflow)"
+],
+[
+"PSU-900-AC-AFO",
+"S4600  Series 900 W AC power supply (front-to-back airflow)"
+],
+[
+"PSU-1200-AC-AFO",
+"S4600  Series 1200 W AC power supply (front-to-back airflow)"
+],
+[
+"PSU-2000-AC-AFO",
+"S4600  Series 2000 W AC power supply (front-to-back airflow)"
+]
+]
+},
+{
+"t":"p",
+"text":"9"
+},
+{
+"t":"p",
+"text":"Accessory of S4600 Series"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Front Mounting",
+"Rear Mounting",
+"Rear Mounting\nExtension",
+"Rack Rail",
+"M4 Screw",
+"Power Cord",
+"Ground Cord"
+],
+[
+"S4648T-4Z-SI",
+"2",
+"/",
+"/",
+"12",
+"1",
+"1",
+"1"
+],
+[
+"S4648T-4N2Z-SI",
+"2",
+"/",
+"/",
+"12",
+"1",
+"1",
+"1"
+],
+[
+"S4634T-1X2Z-SI",
+"2",
+"/",
+"/",
+"12",
+"1",
+"1",
+"1"
+],
+[
+"S4624T-2Z-EI",
+"2",
+"2",
+"2",
+"12",
+"2",
+"1",
+"1"
+],
+[
+"S4624P-2Z-EI",
+"2",
+"2",
+"2",
+"12",
+"2",
+"1",
+"1"
+],
+[
+"S4624T-8N-EI",
+"2",
+"2",
+"2",
+"12",
+"2",
+"1",
+"1"
+],
+[
+"S4624P-8N-EI",
+"2",
+"2",
+"2",
+"12",
+"2",
+"1",
+"1"
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":10,
+"items":[],
+"notes":""
+}
+],
+"extracted_at":"2026-10-23T05:04:27Z"
+}

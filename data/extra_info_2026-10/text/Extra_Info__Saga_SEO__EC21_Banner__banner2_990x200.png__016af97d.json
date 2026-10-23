@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_SEO__EC21_Banner__banner2_990x200.png__016af97d",
+"path":"Extra_Info/Saga SEO/EC21 Banner/banner2_990x200.png",
+"name":"banner2_990x200.png",
+"ext":".png",
+"bytes":40318,
+"sha256":"016af97de63ee9afdf7113c6e1f203e3804bb09a118f42319a9bcac792c3c9cf",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":990,
+"height":200,
+"mode":"RGB",
+"thumb_bytes":4201
+},
+"warnings":[],
+"chars":53,
+"text":"TAILORED MARVELL\nNETWORKING SOLUTIONS\n一 一 一 一 一\n‘an 0",
+"extracted_at":"2026-10-23T05:01:49Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__EC21_Banner__banner2_990x200.png__016af97d.jpg"
+}

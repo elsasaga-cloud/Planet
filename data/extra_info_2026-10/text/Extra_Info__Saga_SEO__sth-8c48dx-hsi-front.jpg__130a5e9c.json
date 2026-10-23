@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_SEO__sth-8c48dx-hsi-front.jpg__130a5e9c",
+"path":"Extra_Info/Saga SEO/sth-8c48dx-hsi-front.jpg",
+"name":"sth-8c48dx-hsi-front.jpg",
+"ext":".jpg",
+"bytes":44304,
+"sha256":"130a5e9cfbbc639592540a264201451a88f892b48239b656069c5fe266b2f26a",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":800,
+"height":800,
+"mode":"RGB",
+"thumb_bytes":4355
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:01:47Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__sth-8c48dx-hsi-front.jpg__130a5e9c.jpg"
+}

@@ -1,0 +1,413 @@
+{
+"id":"Extra_Info__本地制造.docx__3149595c",
+"path":"Extra_Info/本地制造.docx",
+"name":"本地制造.docx",
+"ext":".docx",
+"bytes":36603,
+"sha256":"3149595c167fd24397399c018214cd66d46ca78e539db2c3189cfca6001e51ed",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2026-01-27T13:11:00+00:00",
+"modified":"2026-01-27T13:46:52+00:00",
+"paragraphs":62,
+"tables":2,
+"embedded_images":0
+},
+"warnings":[],
+"chars":1957,
+"text":"印度\n减少对中美进口依赖、吸引外资制造\n政府提供税收减免、本地化优先采购\n最火、执行强，适合 SKD/CKD合作，电子装配、PoE交换机、工业路由\n俄罗斯\n西方制裁、技术封锁、国防自主\n强制本地化比例，软件硬件都需“俄罗斯制造”\n超高需求，适合 ODM + 源码协作，强调“非美芯片”\n土耳其\n国防与科技自主\n政府支持研发 + 本地生产\n非美方案受欢迎，适合 TTC合作（技术转移）\n沙特阿拉伯\n去石油化、发展高科技制造业\n建立本地装配厂、吸引海外技术转移\n可合作工业交换机/安防PoE方案，本地认证开放\n印度尼西亚\n工业升级、减少进口\n要求关键通信设备本地化生产\n东南亚首选制造地，税务政策友好\n巴西\n保护本地制造业\n进口税高，本地组装享优惠\n南美唯一可行本地化市场，可做PoE/OEM\nTailored Managed Networking Solutions Provider+TTC（把TTC融合进来)\nBuilt to Last, Continuous Supply, Evolving Together\n先用 OEM 打开门 → 再谈 SKD/CKD → 最后推进 SDK 集成或 ODM\n阶段\t合作形式\t核心目标\t收益模式\t关键动作\n① 切入期：OEM 模式\t提供贴牌、包装、GUI、Logo定制\t快速落地，验证需求\t稳定出货，现金流\t聚焦 Branding + 售后支持，快速反应\n② 渗透期：SKD / CKD 模式\t输出装配方案、提供零部件\t本地化生产、税务优惠\t增加单价、签订年度协议\t提供 Packing Guidance + 工艺培训\n③ 绑定期：SDK Integration\t开放接口、协助集成本地系统\t技术粘性、长期绑定\t技术服务费 / 联合标案\t提供 SDK + Demo + 集成支持\n④ 成长期：ODM / Joint Development\t让对方在你平台上做定制\t共同研发、品牌共建\t按项目分成 / IP共享\t制定合作规范 + 最小起订量（MOQ）\n⑤ 稳定期：Localization Partnership / (TTC Framework)\t输出技术体系（制造+软件+培训）\t建立本地合作中心\t长期授权费 + 技术维护\t与政府/本地系统集成商绑定\n突破重点方向分析\n1 硬件层突破（OEM / SKD / CKD）\n目标客户：\n本地系统集成商（SI）\n有装配线的弱电/安防/ICT厂商\n政府项目供应商（有本地化要求）\n打法：\n推 SKD/CKD 套件（模块 + 壳体 + 光模块）\n提供“可审计的硬件设计”概念（政治正确）\n讲“非美方案 / 本地可控”卖点\n收益特征： 现金流稳、投入低、周期短。\n建议优先突破这块。\n2 软件层突破（SDK Integration）\n目标客户：\n有自有网管平台、NMS系统的厂商\n政府或军工项目供应商（要求接口可控）\n打法：\n强调“Managed Switch SDK Compatibility with Marvell”\n提供 Demo / API Doc / 集成咨询\n与本地 SI 联合投标，作为“技术提供方”\n收益特征： 绑定深、利润高、技术壁垒强。\n建议作为第二阶段主攻方向。\n3\t战略层突破（ODM / Joint TTC）\n目标客户：\n有研发能力、想打造自主品牌的客户\n有长期项目管线（铁路、能源、军工）\n打法：\n提供联合开发路径（ODM）\n设立“技术转移合作协议（TTC Agreement）”\n让他们在你的平台上做二次开发\n收益特征： 毛利高、周期长、客户黏性强。\n适合重点深耕的“大客户绑定”。\n时间\t策略重点\t收益类型\t示例国家\nQ4 2025\tOEM + SKD 推广\t稳定现金流\t印度、土耳其、波兰\n2026 H1\t推 CKD + SDK 集成\t技术服务收入\t俄罗斯、沙特、印尼\n2026 H2\t建立 TTC Framework / ODM 合作\t长期绑定、品牌收益\t波兰、土耳其、德国东欧区\n五、核心总结\n从 OEM 切入，从 TTC 框架绑定。  硬件是入口，SDK是锁定，ODM是升华。\n一句总结： We use OEM and SKD to open the market, SDK and ODM to lock the clients, and TTC to sustain the partnership.\n[页眉页脚]\nSaga Telecom\nwww.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"印度"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"减少对中美进口依赖、吸引外资制造"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"政府提供税收减免、本地化优先采购"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"最火、执行强，适合 SKD/CKD合作，电子装配、PoE交换机、工业路由"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"俄罗斯"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"西方制裁、技术封锁、国防自主"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"强制本地化比例，软件硬件都需“俄罗斯制造”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"超高需求，适合 ODM + 源码协作，强调“非美芯片”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"土耳其"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"国防与科技自主"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"政府支持研发 + 本地生产"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"非美方案受欢迎，适合 TTC合作（技术转移）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"沙特阿拉伯"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"去石油化、发展高科技制造业"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"建立本地装配厂、吸引海外技术转移"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"可合作工业交换机/安防PoE方案，本地认证开放"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"印度尼西亚"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"工业升级、减少进口"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"要求关键通信设备本地化生产"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"东南亚首选制造地，税务政策友好"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"巴西"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"保护本地制造业"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"进口税高，本地组装享优惠"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"南美唯一可行本地化市场，可做PoE/OEM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Tailored Managed Networking Solutions Provider+TTC（把TTC融合进来)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Built to Last, Continuous Supply, Evolving Together"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"先用 OEM 打开门 → 再谈 SKD/CKD → 最后推进 SDK 集成或 ODM"
+},
+{
+"t":"table",
+"rows":[
+[
+"阶段",
+"合作形式",
+"核心目标",
+"收益模式",
+"关键动作"
+],
+[
+"① 切入期：OEM 模式",
+"提供贴牌、包装、GUI、Logo定制",
+"快速落地，验证需求",
+"稳定出货，现金流",
+"聚焦 Branding + 售后支持，快速反应"
+],
+[
+"② 渗透期：SKD / CKD 模式",
+"输出装配方案、提供零部件",
+"本地化生产、税务优惠",
+"增加单价、签订年度协议",
+"提供 Packing Guidance + 工艺培训"
+],
+[
+"③ 绑定期：SDK Integration",
+"开放接口、协助集成本地系统",
+"技术粘性、长期绑定",
+"技术服务费 / 联合标案",
+"提供 SDK + Demo + 集成支持"
+],
+[
+"④ 成长期：ODM / Joint Development",
+"让对方在你平台上做定制",
+"共同研发、品牌共建",
+"按项目分成 / IP共享",
+"制定合作规范 + 最小起订量（MOQ）"
+],
+[
+"⑤ 稳定期：Localization Partnership / (TTC Framework)",
+"输出技术体系（制造+软件+培训）",
+"建立本地合作中心",
+"长期授权费 + 技术维护",
+"与政府/本地系统集成商绑定"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"突破重点方向分析"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1 硬件层突破（OEM / SKD / CKD）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"目标客户："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"本地系统集成商（SI）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"有装配线的弱电/安防/ICT厂商"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"政府项目供应商（有本地化要求）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"打法："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"推 SKD/CKD 套件（模块 + 壳体 + 光模块）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"提供“可审计的硬件设计”概念（政治正确）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"讲“非美方案 / 本地可控”卖点"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"收益特征： 现金流稳、投入低、周期短。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"建议优先突破这块。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2 软件层突破（SDK Integration）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"目标客户："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"有自有网管平台、NMS系统的厂商"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"政府或军工项目供应商（要求接口可控）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"打法："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"强调“Managed Switch SDK Compatibility with Marvell”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"提供 Demo / API Doc / 集成咨询"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"与本地 SI 联合投标，作为“技术提供方”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"收益特征： 绑定深、利润高、技术壁垒强。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"建议作为第二阶段主攻方向。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3\t战略层突破（ODM / Joint TTC）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"目标客户："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"有研发能力、想打造自主品牌的客户"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"有长期项目管线（铁路、能源、军工）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"打法："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"提供联合开发路径（ODM）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"设立“技术转移合作协议（TTC Agreement）”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"让他们在你的平台上做二次开发"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"收益特征： 毛利高、周期长、客户黏性强。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"适合重点深耕的“大客户绑定”。"
+},
+{
+"t":"table",
+"rows":[
+[
+"时间",
+"策略重点",
+"收益类型",
+"示例国家"
+],
+[
+"Q4 2025",
+"OEM + SKD 推广",
+"稳定现金流",
+"印度、土耳其、波兰"
+],
+[
+"2026 H1",
+"推 CKD + SDK 集成",
+"技术服务收入",
+"俄罗斯、沙特、印尼"
+],
+[
+"2026 H2",
+"建立 TTC Framework / ODM 合作",
+"长期绑定、品牌收益",
+"波兰、土耳其、德国东欧区"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"五、核心总结"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"从 OEM 切入，从 TTC 框架绑定。  硬件是入口，SDK是锁定，ODM是升华。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一句总结： We use OEM and SKD to open the market, SDK and ODM to lock the clients, and TTC to sustain the partnership."
+}
+],
+"extracted_at":"2026-10-23T05:01:25Z"
+}

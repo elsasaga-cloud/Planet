@@ -1,0 +1,3280 @@
+{
+"id":"Extra_Info__平台.xlsx__7ae04971",
+"path":"Extra_Info/平台.xlsx",
+"name":"平台.xlsx",
+"ext":".xlsx",
+"bytes":55235,
+"sha256":"7ae04971653a20a1e159f5231823d36dad00a5bfc215c3c167f3f380c114afc6",
+"source":"Extra_Info.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"总表",
+"findlight",
+"EC21",
+"global source",
+"ST",
+"网站链接",
+"Made in China",
+"Tradeford",
+"Exportpages"
+],
+"embedded_images":0,
+"rows_total":607
+},
+"warnings":[],
+"chars":70893,
+"text":"--- Sheet: 总表 ---\nLink\tStatus\tRemarks\nhttps://www.findlight.net/company/zhengzhou-saga-telecom-co-ltd\t已改\thttps://www.findlight.net/company/zhengzhou-saga-telecom-co-ltd/fiber-optics/optical-networking\nhttps://sagatelecom.en.ec21.com/\t已改 但BANNER需要设置一下\nhttps://supplier.globalsources.com/\t已改 看看是否更新完毕\thttps://www.globalsources.com/zhengzhou-saga/homepage_6002100054285.htm\nhttps://www.made-in-china.com/showroom/saga-telecom\t已改\nwww.tradeford.com/\nhttps://exportpages.com/my-account/companies/154279/profile\n--- Sheet: findlight ---\nhttps://www.findlight.net/company/zhengzhou-saga-telecom-co-ltd\nhttps://www.findlight.net/company/zhengzhou-saga-telecom-co-ltd/fiber-optics/optical-networking\n型号名\tStatus\tTitle\nSTI-0160GE\tDONE\t16 port Gigabit Industrial Din Rail Unmanaged Ethernet Switch\nSTI-244GP\tDONE\t4 port PoE Industrial Gigabit Unamanged Network Switch\nSTI-222GP\tDONE\tMini Din Gigabit Industrial Unmanaged PoE Fiber Switch\nSTC-110XGE\tDONE\tMarvell based 1G/10G Ethernet Fiber Media Converter\nSTI-288GP\tDONE\tHardened Unmanaged Gigabit Network 8 Port DIN PoE Switch\nSTI-448XGGGM L3\t\t16 Port Rugged Ethernet 10G SFP+ L3 Managed Switch\nSTI-21616DGGPM L2+\t\t16 Port 1G/2.5G Fiber Rugged Ethernet L2 Managed PoE Switch\nSTI-42424XGGPM-4BT L3\t\t24 Port Gigabit Network 10G Fiber L3 Managed 90W PoE Switch\nSTC-424DGGPM-280W L2+\t\t24-Port 100M/1G/2.5G Fiber Smart Managed PoE Network Switch\nSTC-448XGGMO L3\t\t48 Port 1G 2.5G 10G Commercial L2 L3 Manged Core Fiber Switch\nSTC-28GPM\tDONE\t8 port PoE Gigabit Based Vlan ERPS Ring managed Ethernet Switch\nSTC-2224GFP-24V\tDONE\t24 Port 10/100M Ethernet 300W budget Passive PoE Switch with Gigabit SFP/RJ45 Uplink\nSTI-PA-120W-48V2.5A\tDONE\t120W Industrial Din Power Adapter 48V 2.5A Output\nSTC-624XGDGPM\tDONE\t24 Port 2.5G Ethernet PoE 10G SFP+ Commercial Rack Managed Switch for WIFI 5 WIFI 6\n--- Sheet: EC21 ---\nhttps://www.ec21.com/global/basic/MyProductList.jsp\nhttps://sagatelecom.en.ec21.com/\n型号名\tStatus\t关键词\tTitle\nSTI-222GP\tDONE\t60W poe switch\nGigabit industrial switch\nDin rail Network switch\tDin Rail Gigabit 60W PoE Network Switch\nSTI-154GP\tDONE\t4 port PoE switch\nIndustrial Network Switch\nGigabit PoE Switch\tGigabit Industrial 4 Port PoE Fiber Switch\nSTI-050GE\tDONE\t5 port network switch\nGigabit LAN switch\nIndustrial Ethernet switch\t5 Port 100/1000Mbps Industrial Gigabit LAN Switch\nSTI-080GE\tDONE\tIndustrial Network Switch\n8 Port Gigabit Switch\nUnmanaged Ethernet Switch\t8 Port Mini Gigabit Unmanaged Industrial Ethernet Switch\nSTI-21616GP\tDONE\tGigabit Ethernet Switch\n16 port PoE switch\n240W PoE switch\t16 port Gigabit Din PoE Switch\nSTI-448XGGGM\tDONE\tIndustrial network switch\n10G Fiber Switch\n8 port Managed switch\t8 Port 1G/2.5G/10G  Layer 3 Managed Industrial Network Switch\nSTI-288GPM\tDONE\t8 Port PoE switch\nLite managed switch\nGigabit Fiber switch\t8 Port Lite Managed Gigabit CCTV PoE Fiber Switch\nSTI-42424XGGPM\tDONE\t24 Port PoE Switch\n10G Managed Switch\nIndustrial Fiber Switch\t24 Port Gigabit PoE Din Rail 10G SFP+ Managed Fiber Switch\nSTI-288DGGPM-2BT\tDONE\t8 Port PoE Switch\n2.5G UPoE Switch\nGigabit Managed Switch\tL2 Managed 8-Port GbE UPOE Optic Switch\nSTI-448DGGGPM\tDONE\t2.5G Managed Switch\n16 Port PoE Switch\n2.5G Network Switch\tDin Rail Managed 16 Port 2.5G Smart PoE Switch\nSTI-2160DGGM\tDONE\tManaged Ethernet Switch\n16 Port Giagbit Switch\n2.5G Fiber Switch\t16 Port Gigabit LAN Layer 2 Managed Switch\nSTI-4168XGGCM-U\tDONE\t10G optic Switch\nRack Core Switch\n24 Port managed switch\t24 Port Rack Layer 3 Managed  Optic Switch with 10G Uplink\nSTI-21616XGGPM\tDONE\tIndustrial Managed Switch\n16 Port PoE Swich\n10G Fiber Switch\t16 Port 10G L3 Managed Industrial PoE Switch\nSTI-4816XGCGM-U\tDONE\tLayer 3 Ethernet Switch\nRack Managed Switch\n10G Fiber Optic Switch\tHardened Layer 3 Managed Rack 10G Network Switch\nSTI-4816XGCGPM-U-2BT\tDONE\t16 Port PoE Switch\nPoE Managed Switch\nRack Core Switch\t10G Fiber Uplink 16 Port PoE Layer 3 Managed Switch\n--- Sheet: global source ---\nhttps://supplier.globalsources.com/product/management?jumpWay=callback\nhttps://www.globalsources.com/zhengzhou-saga/showroom_6002100054285.htm\n型号名\tStatus\t核心词\t关键词\tTitle\nIndustrial Ethernet Switch\nSTI-050FE\tDONE\tNetwork Switch\t5 Port Ethernet Switch\nFast Ethernet Switch\nDin Network Switch\t5 Port 10/100M Din Rail Ethernet Switch\nSTI-050GE\tDONE\tNetwork Switch\t5 Port LAN Switch\nDin rail Ethernet Switch\nGigabit Network switch\t5 Port Unamanged Industrial Gigabit LAN Switch\nSTI-080FE\tDONE\tNetwork Switch\t8 Port Lan Switch\nIndustrial Network switch\nFast Ethernet Switch\t8 port Unmanaged Fast Ethernet Industrial Switch\nSTI-080GE\tDONE\tNetwork Switch\tGigabit Lan Switch\n8 Port Network Switch\nIndustrial Ethernet Switch\t10/100M Gigabit Din Rail 8 Port Network Switch\nSTI-110FE\tDONE\tNetwork Switch\tIndustrial Media Converter\nFast Ethernet Converter\nFiber Media Converter\t10/100M Industrial Unmanaged Ethernet Fiber Converter\nSTI-110GE\tDONE\tNetwork Switch\tGigabit media converter\nNetwork Media Converter\nFiber Optic Converter\tMini Industrial Gigabit Ethernet Media Converter\nSTI-120FE\tDONE\tNetwork Switch\t10/100M Fiber Switch\nIndustrial Network Switch\nSFP Fiber Switch\t3 port 10/100M Fast Ethernet Unmanaged Fiber Switch\nSTI-120GE\tDONE\tNetwork Switch\tGigabit network switch\nEthernet Rail Switch\nDin Rail LAN Switch\tSFP Slot Fiber Industrial Gigabit Ethernet Switch\nSTI-140FE\tDONE\tNetwork Switch\tIndustrial Fiber Switch\nFast Ethernet Switch\n5 port LAN Switch\t10/100M Fiber 5 Port industrial  Ethernet Switch\nSTI-140GE\tDONE\tNetwork Switch\t5 Port Fiber Switch\nGigabit Network Switch\nIndustrial Ethernet Switch\t5-Port Hardened Industrial Gigabit Ethernet Switch\nSTI-150GE\tDONE\tNetwork Switch\tGigabit Network Switch\nIndustrial Fiber Switch\n6 Port Ethernet Switch\t6 Port Unmanaged Gigabit Din Rail Network Switch\nSTI-0160GE\tDONE\tNetwork Switch\t16 port Ethernet Switch\nGigabit Network Switch\nIndustrial LAN Switch\t16-Port Full Gigabit Unmanaged Industrial Ethernet Switch\nSTI-180FE\tDONE\tNetwork Switch\t8 Port Network Switch\n10/100M Ethernet Switch\nDin Rail Switch\t8 Port Fast Ethernet Unmanaged Din Network Switch\nSTI-180GE\tDONE\tNetwork Switch\tGigabit fiber switch\nIndustrial Network switch\n8 port Gigabit switch\t8 port Gigabit Din rail SFP Fiber Switch\nSTI-220FE\tDONE\tNetwork Switch\t10/100M fiber switch\nFast Ethernet Switch\nDin network switch\t4 Port 10/100M Unmanaged Industrial Fiber Optic Switch\nSTI-220GE\tDONE\tNetwork Switch\tFiber optical switch\nIndustrial LAN switch\n4 port gigabit switch\tIndustrial Gigabit Ethernet 4 port Fiber Optical Switch\nSTI-240FE\tDONE\tNetwork Switch\tEthernet Fiber Switch\n100M Network Switch\nRugged Ethernet Switch\t6 Port Megabit Ethernet Fiber Optic Switch\nSTI-240GE\tDONE\tNetwork Switch\tRugged Ethernet switch\nGigabit fiber switch\n6 port Network switch\tRugged Gigabit Ethernet 6 Port Din Rail Fiber Switch\nSTI-260FE\tDONE\tNetwork Switch\t8 Port Ethernet Switch\nFiber Optical Switch\nHardened LAN Switch\t100M Fiber Hardened 8 Port Network Switch\nSTI-280GE\tDONE\tNetwork Switch\t10 port Gigabit switch\nDin Rail Ethernet switch\nSFP fiber switch\t10 Port Gigabit Industrial Network Switch with SFP Uplink\nSTI-480GE\tDONE\tNetwork Switch\tGigabit Ethernet Switch\nDin rail network switch\nIndustrial Gigabit Switch\t12 Port Hardened Network Full Gigabit Fiber Switch\nSTI-880GE\tDONE\tNetwork Switch\tFiber network switch\nDin rail Gigabit switch\nIndustrial Ethernet switch\t8 Port SFP Gigabit Ethernet Industrial Unmanaged Switch\nSTI-2160GE\tDONE\tNetwork Switch\tDin Rail Fiber switch\nGigabit Network switch\n16 port Gigabit switch\t16 port Gigabit network industrial fiber optic Switch\nIndustrial Unmanaged PoE Switch\nSTI-054FP\tDONE\tPoE Switch\t4 Port PoE Switch\nFast Ethernet PoE Switch\n5 Port Network Switch\t5 Port 10/100M Fast Ethernet PoE Switch\nSTI-054GP\tDONE\tPoE Switch\tIndustrial Ethernet Switch\nGigabit Network Switch\nDin PoE Switch\tGigabit Ethernet 4 port Din PoE Switch\nSTI-088FP\tDONE\tPoE Switch\t240W poe switch\nFast Ethernet switch\n8 Port LAN switch\t8 Port 100M PoE Din Rail Ethernet Switch\nSTI-088GP\tDONE\tPoE Switch\tDin Network Switch\nGigabit LAN Switch\n240W PoE Switch\t240W budget 8 Port Gigabit PoE Unmanaged Switch\nSTI-111FP\tDONE\tPoE Switch\tPoE media converter\nFiber Ethernet Converter\nFiber Optic Converter\t10/100M Unmanaged industrial PoE Media Converter\nSTI-111GP\tDONE\tPoE Switch\tGigabit Media Converter\nPoE Fiber Converter\nFiber Ethernet Optic Converter\tGigabit Ethernet SFP Fiber PoE Media Converter\nSTI-122FP\tDONE\tPoE Switch\tPoE Fiber Switch\nDin Ethernet Switch\nFast Ethernet poE Switch\t3 port Fast Ethernet Din PoE Fiber Switch\nSTI-122GP\tDONE\tPoE Switch\tRugged network switch\n60W PoE Switch\nGigabit optic Switch\t100/1000M Unmanaged Industrial PoE Fiber Switch\nSTI-144FP\tDONE\tPoE Switch\t4 port poe switch\n100M Ethernet switch\nDin poe switch\t4 Port 10/100M fast Ethernet unmanaged PoE Switch\nSTI-144GP\tDONE\tPoE Switch\tIndustrial Network Switch\n5 port Fiber Switch\nDin Rail Switch\t5 Port Gigabit Din Rail PoE Fiber Switch\nSTI-154GP\tDONE\tPoE Switch\tGigabit PoE switch\nIndustrial Network switch\n6 port gigabit switch\t6 Port Gigabit Industrial PoE Switch with SFP/RJ45 Uplink\nSTI-188FP\tDONE\tPoE Switch\t8 port poe switch\n10/100M network switch\nDin rail poE switch\t8 Port 10/100M Din Rail Network PoE Switch\nSTI-188GP\tDONE\tPoE Switch\t8 Port Gigabit Switch\nGigabit PoE switch\nSFP fiber switch\t8 Port Gigabit Din PoE Switch With SFP Uplink\nSTI-222FP\tDONE\tPoE Switch\tFast Ethernet Network switch\n4 port poe switch\nSFP fiber switch\t4 Port 10/100M SFP Fiber Network PoE Switch\nSTI-222GP\tDONE\tPoE Switch\tGigabit POE switch\nIndustrial Fiber switch\nPoE Network switch\tGigabit SFP/RJ45 Industrial 4 Port PoE Fiber Switch\nSTI-244FP\tDONE\tPoE Switch\t6 port Fiber Switch\nDin rail PoE switch\n10/100M network switch\t6 port Full 10/100M Din Rail Fiber PoE Switch\nSTI-244GP\tDONE\tPoE Switch\tGigabit PoE Switch\nDin rail Fiber Switch\n4 port poe switch\t4 Port Gigabit Din PoE Fiber Switch\nSTI-266FP\tDONE\tPoE Switch\tNetwork Fiber Switch\nMegabit Network switch\n8 port poe switch\tSFP Fiber 10/100M Network 8 port Din PoE Switch\nSTI-288GP\tDONE\tPoE Switch\tGigabit PoE Switch\n8 port Ethernet switch\nPoE Fiber switch\t8 port Gigabit Ethernet Fiber PoE Switch\nSTI-488GP\tDONE\tPoE Switch\t8 Port PoE Switch\nGigabit network switch\nIndustrial Fiber switch\t12 Port Gigabit Fiber Network Industrial PoE Switch\nSTI-888GP\tDONE\tPoE Switch\t16 Port Gigabit Switch\n240W PoE Switch\nFiber optic Switch\t16 Port Full Gigabit Rugged Ethernet Fiber PoE Switch\nSTI-01616GP\tDONE\tPoE Switch\t240W poe switch\n16 port PoE switch\nindustrial gigabit switch\t240W Unmanaged 16 Port Industrial Ethernet PoE switch\nSTI-21616GP\tDONE\tPoE Switch\tGigabit network switch\nDin PoE switch\nIndustrial Fiber switch\t16 port Din Rail PoE Switch with 2 Gigabit SFP Uplink\nDin Power Adapter\nSTI-PA-240W-48V5A\tDONE\tPower Adapter\t240W Power Supply\nDin Power adapter\nPoE power supply\tDC48V 120W Output Din Rail PoE Power Supply\nSTI-PA-120W-12V10A\tDONE\tPower Adapter\t120W Power Adapter\nDin Power Unit\n12V Power Supply\t12V 120W Industrial Din Rail Power Adapter\nSTI-PA-120W-24V5A\tDONE\tPower Adapter\tIndustrial Power Adapter\nDin Rail Power Unit\n24V Power Supply\t24V Din Rail Industrial Power Adapter\nSTI-PA-120W-48V2.5A\tDONE\tPower Adapter\t120W power supply\nDin rail power adapter\nDC power module\t120W Industrial PoE Power Supply\nSTI-PA-150W-24V6.25A\tDONE\tPower Adapter\t150W power adapter\nIndustrial power supply\nAC power converter\t24V 150W Din Rail AC/DC Power Converter\nSTI-PA-240W-24V10A\tDONE\tPower Adapter\t24V power module\n240W power supply\nIndustrial power converter\t24V 10A Industrial Grade Power Module\nSTI-PA-480W-24V20A\tDONE\tPower Adapter\t480W power module\n24V power adapter\n20A Power converter\t480W Din Rail Power Module\nSTI-PA-480W-48V10A\tDONE\tPower Adapter\t480W power supply\nPoE power adapter\n48V power converter\t48V 480W Industrial PoE Power Supply\nSTI-PA-15W-5V3A\tDONE\tPower Adapter\tIndustrial Power Module\n5V power supply\nAC power converter\t5V Industrial Din Rail Power Unit\nSTI-PA-20W-12V1.67A\tDONE\tPower Adapter\t20W power module\n12V DC power converter\nIndustrial power supply\t12V AC/DC Industrial Power Converter\nSTI-PA-20W-15V1.34A\tDONE\tPower Adapter\t20W power unit\nIndustrial power converter\nAC power adapter\t20W Din Rail Power Adapter\nSTI-PA-20W-24V0.83A\tDONE\tPower Adapter\t24V power module\nDin Rail Power Supply\nAC DC power adapter\t24VDC Industrial Din Power Module\nSTI-PA-24W-12V2A\tDONE\tPower Adapter\t12V Power Converter\nIndustrial Power Module\n2A Power Adapter\tAC/DC 24W Din Industrial Power Adapter\nSTI-PA-24W-24V1A\tDONE\tPower Adapter\t24VDC Power Converter\nIndustrial Power Module\nAC Power Adapter\t24VDC 1A Din Rail Power Unit\nSTI-PA-75W-12V6.3A\tDONE\tPower Adapter\tIndustrial Power Module\n12V Power Supply\nDin Rail Power Adapter\t75W Metal Case Din Power Supply\nSTI-PA-75W-24V3.2A\tDONE\tPower Adapter\t24V power converter\nIndustrial power adapter\nDin rail power module\t24V Industrial Din Power Converter\nSTI-PA-75W-48V1.56A\tDONE\tPower Adapter\t48V Power Adapter\nPoE Power Supply\n75W power module\t75W Industrial PoE Power Adapter\nEthernet Media Converter\nSTC-110FE\tDONE\tMedia Converter\tFiber Media Converter\nFast Ethernet Media Converter\nFiber Optic Converter\tUnmanaged Fast Ethernet Fiber Media Converter\nSTC-110GE\tDONE\tMedia Converter\tGigabit Media Converter\nFiber Media Converter\nEthernet Fiber Optic Converter\t10/100M Gigabit Fiber Ethernet Media Converter\nSTC-110XGE\tDONE\tMedia Converter\tNetwork Media Converter\n10G Media Converter\nSFP+ Media Converter\tUnmanaged 10G Ethernet Fiber Media Converter\nSTC-14DUR\tDONE\tMedia Converter\tmedia converter chassis\n14-Slot Rackmount Chassis\nMedia converter rack\t2U Size Dual Power 14-slot Media Converter Chassis\nIndustrial Managed Switch\nSTI-240FM\t1\tNetwork Switch\tIndustrial Managed Switch\n10/100M Network Switch\n4 Port LAN Switch\t4 port 10/100M Ethernet Industrial Managed Switch\nSTI-240GM\t2\tNetwork Switch\tGigabit Network switch\nLite managed Switch\nIndustrial Fiber Switch\t6 Port Full Gigabit Lite Managed Fiber Switch\nSTI-244FPM\t3\tNetwork Switch\t4 Port PoE Switch\nPoE managed switch\nIndustrial Ethernet switch\t4 Port Fast Ethernet PoE Managed Switch\nSTI-244GPM\t4\tNetwork Switch\t120W poe switch\nGigabit managed switch\nIndustrial gigabit switch\t4 Port PoE 120W Gigabit Managed Ethernet Switch\nSTI-280GM\t5\tNetwork Switch\tGigabit LAN switch\nLayer 2 managed switch\n10 port Gigabit switch\t10 Port Layer 2 Managed Gigabit Network Switch\nSTI-288GPM\t6\tNetwork Switch\t8 port Gigabit switch\n240W poe switch\nSmart Managed Switch\t8 Port Gigabit PoE 240W Smart Managed Switch\nSTI-448DGGGM\t7\tNetwork Switch\t2.5G fiber switch\nlayer 2 managed switch\nIndustrial gigabit switch\tLayer 2 Managed 1G 2.5G Fiber Optic Switch\nSTI-480DGGM\t8\tNetwork Switch\tManaged Ethernet Switch\n2.5G network switch\n4 port Fiber switch\t4 Port 2.5G Fiber Managed Network Switch\nSTI-488DGGGM\t9\tNetwork Switch\tGigabit LAN switch\nDin rail managed switch\nManaged network switch\tDin Rail Gigabit Ethernet Managed Switch\nSTI-2160DGGM\t10\tNetwork Switch\t16 port LAN switch\nManaged Network Switch\nGigabit Fiber switch\t16 Port Gigabit Ethernet Managed Fiber Switch\nSTI-4168DGGCM-U\t11\tNetwork Switch\tFiber Ethernet switch\nGigabit Managed Switch\n24 port rack switch\t24 Port Rack Gigabit Fiber Ring Managed Switch\nSTI-4240DGGM\t12\tNetwork Switch\t24 Port managed switch\nDin rail Gigabit switch\nGigabit Ethernet switch\t24 Port Din Rail Layer 2 Managed Gigabit Switch\nSTI-4240DGGM-U\t13\tNetwork Switch\t24 port rack switch\nManaged fiber switch\nGigabit network switch\t24 Port Gigabit Ethernet Rack Managed Fiber Switch\nSTI-4816DGCGM-U\t14\tNetwork Switch\t16 port managed switch\nGigabit LAN switch\nRack Managed Switch\t16 Port Gigabit Network Rack Manageable Switch\nSTI-288DGGPM\t15\tNetwork Switch\t8 port PoE switch\n2.5G fiber optic switch\nVLAN managed switch\t8 Port VLAN Managed 240W PoE Fiber Switch\nSTI-21616DGGPM\t16\tNetwork Switch\t16 Port PoE switch\n2.5G Ethernet Switch\nDin rail Managed switch\t16 Port Din Rail Gigabit Ethernet Fiber POE Switch\nSTI-42424DGGPM-U\t17\tNetwork Switch\t24 Port 2.5G Switch\nGigabit Network switch\nManaged Rack Switch\t1G/2.5G Fiber Rack Gigabit Managed Network Switch\nSTI-448XGGGM\t18\tNetwork Switch\t10G fiber switch\nL2 managed switch\nIndustrial network switch\t10G Layer 2 Managed Network Fiber Switch\nSTI-4168XGGCM-U\t19\tNetwork Switch\t16 port Managed switch\n10G network switch\nDin rail Fiber Switch\t16 Port Gigabit Network 10G Managed Fiber Switch\nSTI-4240XGGM\t20\tNetwork Switch\tDin rail Ethernet Switch\n24 port fiber switch\n10G managed switch\t24 Port Gigabit Managed Switch with 10G Uplink\nSTI-448XGGGPM\t21\tNetwork Switch\t8 port poe switch\nPoE managed switch\n10G fiber switch\t8 Port PoE Din Rail 10G Managed Fiber Switch\nSTI-42424XGGPM\t22\tNetwork Switch\t24 port poe switch\n10G Fiber switch\nDin Managed switch\t10G SFP Fiber Din 24 Port PoE Managed Switch\nSTI-244DGGPM-2BT\t23\tNetwork Switch\t240W poe switch\nLayer 2 managed switch\n2.5G fiber switch\t4 Port PoE++ 240W 2.5G Fiber L2 Managed Switch\nSTI-288DGGPM-2BT\t24\tNetwork Switch\t90W poe switch\n2.5G managed switch\nfiber optic switch\t8 Port Ultra PoE 2.5G Managed Fiber Optic Switch\nSTI-4816XGCGPM-U-2BT\t25\tNetwork Switch\t16 port poe switch\nUltra PoE switch\nManaged Ethernet Switch\t16 Port 90W PoE Rack Managed Ethernet Switch\nSTI-42424XGGPM-U-2BT\t26\tNetwork Switch\t24 port poe switch\n90W PoE switch\n10G Managed Switch\t24 Port PoE++ 10 Gigabit Layer 2 Managed Switch\nSTI-480XGGM\t27\tNetwork Switch\t8 port 10G switch\nL3 managed switch\nRack Network switch\t8 Port 10G Layer 3 Managed Network Switch\nSTI-4240XGGM-U\t28\tNetwork Switch\t24 port 10G switch\nManaged Fiber switch\nGigabit Ethernet switch\t24 Port Gigabit Ethernet 10G Managed Optic Switch\nSTI-4480XGGM-U\t29\tNetwork Switch\t48 port managed switch\n10G fiber switch\nRack Ethernet switch\t48 Port Gigabit Ethernet 10G Rack Managed Switch\nSTI-21616XGGPM\t30\tNetwork Switch\t16 port poe switch\n10G network switch\nLayer 3 managed switch\t10G Uplink 16 Port Din PoE Layer 3 Managed Switch\nSTI-42424XGGPM-U\t31\tNetwork Switch\t24 port poe switch\nRack managed switch\n10G fiber optic switch\t10G Rack Managed 24 Port PoE Fiber Switch\nSTI-41616XGGPM-4BT\t32\tNetwork Switch\tpoe switch 16 port\nGigabit managed switch\nDin rail 10G switch\t16 Port PoE Din Rail Gigabit Network Managed Switch\nSTI-42424XGGPM-4BT\t33\tNetwork Switch\tpoe switch 24 port\n10G managed switch\nPoE network switch\t24 Port Ultra PoE L3 Managed Ethernet Switch\n--- Sheet: ST ---\nCommercial Ethernet Switch\t关键词\tTitle\nSTC-05GE\tNetwork Switch\nEthernet Switch\n5 Port LAN Switch\t5 Port Gigabit Unmanaged Network Switch\nSTC-08GE\tNetwork Switch\nUnmanaged Ethernet Switch\n8 Port LAN Switch\t8 Port 10/100/1000M LAN Switch\nSTC-08XGE\tLAN Switch\n10G Switch\n8 Port Network Switch\t8 Port 10G Ethernet Switch\nSTC-15XGDGE\t2.5G Ethernet Switch\n2.5G Network Switch\n2.5G Switch\t5 port 2.5G Ethernet Switch For WIFI 5 WIFI 6\nSTC-18XGDGE\t2.5G Network Switch\n10G Fiber Switch\n8 Port 2.5G Switch\t8 port 2.5G Unmanaged Switch with 10G Uplink\nSTC-016GE\t16 port LAN switch\nGigabit Network Switch\nEthernet Switch\t16 Port Rack Mounted Commercial Network Switch\nSTC-024GE-D\t24 Port Gigabit Switch\nUnmanaged Network switch\n24 port Lan Switch\t24 Port Desktop Gigabit Copper Switch\nSTC-024GE-U\tVLAN Gigabit Switch\nRack Switch\nUnmanaged Switch\t24 Port Rack Unmanaged Gigabit Network Switch\nSTC-224GE\tGigabit Fiber Switch\n24 port Lan switch\nUnmanaged Network switch\t24 port Rack VLAN Gigabit Unmanaged Switch\nSTC-224XGDGE\t2.5G Lan Switch\n10G Fiber Switch\n24 port Rack switch\t24 port 1G/2.5G Ethernet Fiber Switch\nSTC-248GE\tGigabit Fiber Switch\n48 port Lan switch\n48 port Network switch\t48 Port Rack Gigabit Fiber Commercial Switch\nSTC-80XGO\tFiber Optic Switch\n10G switch\n8 Port Fiber Switch\t8 port 10G Fiber Optic Switch\nSTC-216XGDGE\t16 port Network switch\n10G fiber switch\n2.5G Ethernet switch\t16 Port Unmanaged 1G/2.5G/10G Switch\nCommercial Managed Switch\t关键词\tTitle\nSTC-28GM\t8 Port Network switch\nGigabit Managed switch\nL2 managed switch\t8 Port Smart Managed Gigabit Fiber Switch\nSTC-28GPM\t8 Port PoE switch\nPoE Managed switch\nGigabit network switch\t8 Port PoE VALN ERPS Managed Network Switch\nSTC-120XGM\t10G Fiber Switch\nUnmanaged 10G Switch\nFiber optical switch\t12 port Layer 3 Managed 10G Optic Switch\nSTC-424GM\t24 Port Managed switch\nGigabit Ethernet Switch\nLayer 2 Managed switch\t24 Port MRP VLAN Managed Gigabit Switch\nSTC-424XGGM\tLayer 2 switch\n10G fiber switch\nRack managed switch\t24 Port Layer 2 Managed Rack 10G Fiber Switch\nSTC-424XGGPM\t10G Managed switch\n24 port ring switch\n24 port poe switch\t24 Port PoE 10G Managed LAN Switch\nSTC-448XGGM\t10G access switch\n48 port network switch\nmanaged switch\t48 Port Managed 10G Access Network Switch\nSTC-448XGGPM\t90W poe switch\n10G poe switch\nLayer 3 Managed switch\t48 Port L3 Managed Commercial Access PoE Switch\nSTC-624XGDGM\t2.5G network switch\nFiber optic switch\n24 port 10G switch\t24 Port 2.5G Network Switch with 10G Fiber\nSTC-624XGDGPM\t2.5G poe switch\nL2 managed switch\n24 port network switch\t24 Port PoE af/at/bt Rack Managed 2.5G Switch\nSTC-2216GPM\t16 port poe switch\nGigabit fiber switch\nManaged rack switch\t16 Port L2 Smart Managed PoE Switch\nSTC-4248XGGCM\tManaged fiber switch\n10G core switch\n24 port managed switch\t24 Port Rack Managed Core Fiber Switch\nSTC-4424GCPM\t24 port poe switch\nPoE managed switch\nlayer 2 gigabit switch\t24 Port Ring PoE Managed Gigabit Combo Switch\nCommercial PoE Switch\t关键词\tTitle\nSTC-128GFP\tCCTV poe switch\n8 port poe switch\nFast Ethernet switch\t8 Port Smart PoE Network Switch\nSTC-024FP\t4 port poe switch\n10/100M network switch\n60w poe switch\t6 Port 10/100M PoE Ethernet Switch\nSTC-024GP\t4 port poe switch\nGigabit poe switch\n6 port network switch\t4 Port Gigabit PoE Switch with Copper Uplink\nSTC-028FP\t8 port poe switch\nFast Ethernet poe switch\n120w poe switch\t10 port Fast Ethernet CCTV PoE Switch\nSTC-028GFP\t8 port Gigabit switch\n8 port poe switch\n8 port network switch\t8 Port Megabit PoE Gigabit Network Switch\nSTC-028GP\tGigabit Ethernet switch\n8 port poe switch\n8 port Gigabit switch\t10 Port Full Ethernet Gigabit PSE Switch\nSTC-108XGDGP\t2.5G poe switch\n10G fiber switch\n8 port 10G switch\t8 port 2.5G PoE Switch\nSTC-114GP\t4 port poe switch\nGigabit fiber switch\nGigabit nework switch\t4 Port Full Gigabit PoE Switch\nSTC-114XGDGP\t4 port poe switch\n2.5G Ethernet switch\n10G switch\t4 Port PoE 2.5G Unmanaged Network Switch\nSTC-204GP\tGigabit Fiber switch\npoe switch 4 port\nGigabit PoE switch\t4 Port PoE Gigabit Fiber Optical Switch\nSTC-208GP\tGigabit Fiber switch\nFiber optic switch\n8 Port PoE switch\t8 Port Gigabit PoE Optic Switch\nSTC-0216GFP\t16 port poe switch\nGigabit unmanaged switch\nRack VLAN switch\t16 port PoE Rack Mounted LAN Switch\nSTC-0224GFP\t24 port poe switch\nGigabit fiber switch\nPoE network switch\t24 Port PoE Network Unmanaged Switch\nSTC-228GP\t8 port poe switch\nGigabit unmanaged switch\nCommecial Fiber Switch\t12 Port Unmanaged PoE Gigabit Fiber Switch\nSTC-1216GFP\t16 port poe switch\nGigabit Fiber Switch\nVLAN network switch\t16 Port Hybrid Rate PoE Switch\nSTC-1224GFP\t24 port poe switch\nUnmanaged Gigabit Switch\n24 port rack switch\t24 Port Gigabit Uplink PoE Fiber Network Switch\nSTC-2016GP\t16 port poe switch\nGigabit network Switch\n250m poe switch\t16 Port 300W PoE Gigabit Fiber Uplink Switch\nSTC-2024GP\t24 port poe switch\nFiber optical Switch\nUnmanaged VLAN switch\t24 Port PoE 300W Budget Rack Unmanaged Switch\nSTC-2216GP\t16 port poe switch\nGigabit network Switch\nUnmanaged Fiber switch\t16 Port Commercial PoE Switch With Gigabit Uplink\nSTC-2224GP\t24 port poe switch\nGigabit Ethernet Switch\nRack Unmanaged switch\t28 Port Unmanaged Gigabit Fiber Optic PoE Switch\nDin Power Adapter\t关键词\tTitle\nSTI-PA-15W-5V3A\t5V power adapter\nindustrial power supply\n20W power module\t5V Plastic Case Industrial Power Adapter\nSTI-PA-20W-12V1.67A\t12V power supply\nindustrial power adapter\n20W power unit\t12V Din Mounted AC Power Converter\nSTI-PA-20W-15V1.34A\t20W power supply\nAC/DC power adapter\n15V power module\t20W Industrial Din Power Supply\nSTI-PA-20W-24V0.83A\tDin power adapter\n24V power supply\nAC Power converter\t24V Output Industrial AC Power Supply\nSTI-PA-24W-12V2A\t24V power converter\nDin rail power adapter\n24W power unit\t12V Industrial Power Adapter\nSTI-PA-24W-24V1A\t24V power adapter\nIndustrial power supply\nDC power converter\t24VDC Power Converter\nSTI-PA-75W-12V6.3A\t75W power supply\n12V power converter\nDin rail power module\tIndustrial Power Supply 12V\nSTI-PA-75W-24V3.2A\t24V DC converter\nDin Power supply\n75W power unit\t75W Din Power Converter\nSTI-PA-75W-48V1.56A\tPoE Power supply\n48V power adapter\nDin power converter\t48V Industrial PoE Power Supply\nSTI-PA-120W-12V10A\t12V power adapter\n10A power supply\n120W power unit\t12V AC/DC Din Power Adaptor\nSTI-PA-120W-24V5A\t120W Power supply\n24V Din power converter\nAC/DC power supply\tIndustrial Power Adapter 24V\nSTI-PA-120W-48V2.5A\tPoE Power supply\n48V power converter\n120W power module\t120W Industrial Din Power Converter\nSTI-PA-150W-24V6.25A\tAC power adapter\n24VDC power converter\n150W power supply\t24V 150W Budget AC Adaptor\nSTI-PA-240W-24V10A\t24V power adapter\n240W power supply\nAC/DC Power Module\t24V Industrial AC/DC Power Supply\nSTI-PA-240W-48V5A\t240W power supply\nPoE power adapter\nDC48V power converter\t240W Din Rail PoE Power Adaptor\nSTI-PA-480W-24V20A\t480W power supply\n20W power adapter\n24V power module\t20A Din Rail Electrical Adaptor\nSTI-PA-480W-48V10A\t48V power unit\nPoE power module\n48V power supply\t480W Industrial Grade Power Unit\nIndustrial Unmanaged Switch\t关键词\tTitle\nSTI-050FE\t5 port network switch\nfast Ethernet switch\ndin rail switch\t5 Port 10/100M Ethernet Switch\nSTI-050GE\t5 port Ethernet switch\nGigabit network switch\nUnmanaged din switch\t5 Port Din Network Switch\nSTI-054FP\tPoE switch 4 port\n10/100M switch\ndin poe switch\t4 Port PoE 120W LAN Switch\nSTI-054GP\t5 Port LAN switch\n4 port PoE switch\nGigabit network switch\t5 Port Gigabit PoE Switch\nSTI-080FE\tIndustrial Ethernet switch\nFast Ethernet network switch\n8 port Unmanaged switch\t8 Port Compact Unmanaged Switch\nSTI-080GE\tDin Ethernet switch\n8 port Unmanaged switch\nGigabit network switch\t8 Port Mini Gigabit Industrial Switch\nSTI-088FP\tindustrial PoE switch\n8 port PoE switch\nfast ethernet switch\t8 Port PoE Industrial Unmanaged Switch\nSTI-088GP\tGigabit PoE switch\nDin network switch\n8 port ethernet switch\t8 Port PoE 240W Industrial LAN Switch\nSTI-110FE\tDin rail media converter\nfast ethernet optic converter\nindustrial unmanaged media converter\tDin Rail 10/100Mbps Ethernet Fiber converter\nSTI-110GE\tGigabit media converter\nindustrial fiber ethernet converter\nfiber optic converter\tIndustrial Gigabit Fiber Media Converter\nSTI-111FP\tPoE media converter\nDin ethernet fiber converter\n10/100M media converter\tDin Rail Industrial PoE Fiber Converter\nSTI-111GP\tPoE fiber media converter\nGigabit ethernet fiber converter\nDin fiber optic converter\tMini Gigabit Ethernet PoE Media Converter\nSTI-120FE\tUnmanaged network switch\nindustrial ethernet switch\n10/100M fiber switch\t3 Port Industrial Unmanaged Network Switch\nSTI-120GE\tfiber optic switch\ngigabit fiber switch\ndin unmanaged switch\tGigabit Ethernet Fiber Optic Switch\nSTI-122FP\t60W poe switch\nmegabit ethernet switch\nindustrial network switch\t60W Megabit Industrial Fiber Switch\nSTI-122GP\tGigabit poe switch\nGigabit fiber switch\npoe unmanaged switch\t2 port Din PoE Unmanaged Switch\nSTI-220FE\tindustrial fiber switch\ndin ethernet switch\nunmanaged network switch\t4 port 10/100M Ethernet Switch\nSTI-220GE\tGigabit network switch\ndin fiber switch\nindustrial gigabit switch\tIndustrial Gigabit Network Switch\nSTI-222FP\t2 port poe switch\n60w poe switch\nindustrial fiber switch\t60W PoE Unmanaged Fiber Switch\nSTI-222GP\tGigabit poe switch\nindustrial network switch\nUnmanaged fiber switch\t4 Port Gigabit Din PoE Switch\nSTI-140FE\t5 port network switch\nindustrial unmanaged switch\ndin fiber switch\t5 Port 10/100M Fiber Switch\nSTI-140GE\tGigabit ethernet switch\ndin network switch\n5 port gigabit switch\t5 Port Gigabit Unmanaged LAN switch\nSTI-144FP\t120w poe switch\n4 port poe switch\n10/100M fiber switch\t4 Port PoE 120W Din Network Switch\nSTI-144GP\tGigabit fiber switch\n120W poe switch\nindustrial poe switch\tIndustrial Gigabit Fiber PoE Switch\nSTI-150GE\t6 port Gigabit switch\nCCTV network switch\nindustrial fiber switch\t6 Port Gigabit LAN Industrial Switch\nSTI-154GP\tGigabit fiber switch\nDin network switch\nindustrial poe switch\t4 Port PoE Fiber Switch with Gigabit Uplink\nSTI-0160GE\t16 port Network switch\nDin rail Ethernet switch\ngigabit lan switch\t16 Port 10/100/1000M Unmanaged LAN Switch\nSTI-180FE\t8 port Network switch\nindustrial fiber switch\nfast ethernet unmanaged switch\t8 port 10/100Mbps Unmanaged Switch\nSTI-180GE\tfiber optical switch\ngigabit Ethernet switch\nindustrial fiber switch\tGigabit Based 8 Port Network Switch\nSTI-188FP\t8 port poe switch\nindustrial poe switch\n10/100M poe switch\t8 Port Outdoor CCTV PoE Switch\nSTI-188GP\t240W poe switch\ndin fiber switch\n8 port network switch\t240W Budget 8 port PoE Gigabit Switch\nSTI-240FE\t6 port network switch\n10/100M fiber switch\nunmanaged ethernet switch\t6 Port Fast Ethernet Switch\nSTI-240GE\tgigabit fiber switch\ndin unmanaged switch\n6 port ethernet switch\t4 Port Unmanaged Din Lan Switch\nSTI-244FP\t4 port poe switch\nmegabit ethernet switch\n120w poe switch\t120W PoE Fiber Optical Switch\nSTI-244GP\tpoe fiber switch\nindustrial gigabit switch\npoe switch 4 port\t4 Port PoE Industrial Gigabit Fiber Switch\nSTI-260FE\t8 port Ethernet switch\ndin network switch\nunmanaged fiber switch\t8 Port Din Mounted Unmanaged Switch\nSTI-266FP\t8 port poe switch\nindustrial network switch\n10/100M fiber switch\t8 port Megabit Based PoE Switch\nSTI-280GE\t8 port gigabit switch\nunmanaged network switch\nindustrial fiber switch\t10 Port Gigabit Network Fiber Switch\nSTI-288GP\tpoe switch 8 port\ngigabit fiber switch\ndin poe switch\t8 Port 240W PoE Optical Switch\nSTI-480GE\tGigabit network switch\nDin fiber switch\nunmanaged industrial switch\t12 Port Full Gigabit Network Switch\nSTI-488GP\tindustrial poe switch\npoe switch 8 port\ngigabit fiber switch\t240W Din PoE Switch\nSTI-880GE\t16 port fiber switch\ndin network switch\nunmanaged gigabit switch\t16 Port Gigabit Unmanaged Ethernet Switch\nSTI-888GP\t8 port poe switch\npoe switch 240W\nindustrial fiber switch\t8 Port PoE Gigabit Industrial Fiber Switch\nSTI-01616GP\t240W poe switch\npoe switch 16 port\n16 port Ethernet switch\t16 Port PoE Industrial Ethernet Switch\nSTI-2160GE\tGigabit network switch\n16 port fiber switch\nindustrial Ethernet switch\t18 Port Gigabit Unmanaged Fiber Switch\nSTI-21616GP\t16 port poe switch\nindustrial network switch\nfiber optic switch\t240W Budget Gigabit PoE Switch\nIndustrial Managed Switch\t关键词\tTitle\nL2\nSTI-288GPM\tlayer 2 ethernet switch\nlite managed switch\n8 port poe switch\t8 Port Industrial CCTV PoE Lite Managed Switch\nSTI-240FM\tfast Ethernet managed switch\nmanaged fiber switch\ndin ethernet switch\t4 port 10/100M Fast Ethernet Managed Switch\nSTI-240GM\tGigabit managed switch\nlite managed switch\nindustrial fiber switch\tFull Gigabit Industrial Managed Fiber Switch\nSTI-244FPM\t4 port poe switch\npoe managed switch\n10/100M managed switch\t120W CCTV PoE Din Managed Optic Switch\nSTI-244GPM\t120w poe switch\ndin managed switch\n10/100M fiber switch\t4 Port PoE Managed Network Switch\nSTI-280GM\t8 port managed switch\nGigabit fiber switch\nindustrial gigabit switch\t10 Port Gigabit Din Managed Switch\nL2+ BT\nSTI-244DGGPM-2BT\tUltra PoE Switch\nL2 Managed switch\nIndustrial gigabit switch\t2 port 802.3bt Gigabit MRP Managed Switch\nSTI-288DGGPM-2BT\t8 port poe switch\nPoE managed switch\n2.5G Ethernet switch\t8 Port Gigabit Managed PoE Switch 240W\nSTI-488DGGPM-2BT\tPOE++ switch\nGigabit managed switch\nDin rail Ethernet switch\t2.5G Ultra PoE Din Managed Fiber Switch\nSTI-4816DGCGPM-U-2BT\tPoE Network switch\nRack Managed Switch\n90W poe switch\t90W PoE Rack Managed Combo Network Switch\nSTI-4816XGCGPM-U-2BT\t10G Rack switch\nSFP+ managed switch\nManaged PoE switch\t10G SFP+ Rack Type L2 Managed PoE Switch\nSTI-41616DGGPM-4BT\t2.5G PoE switch\nFiber optic switch\nPoE managed switch\t16 Port 2.5G Fiber Optic Industrial PoE Switch\nSTI-41616XGGPM-4BT\tDin Rail PoE Switch\n16 Port PoE Switch\n10G Managed Switch\t10G Uplink Din Rail 90W PoE Managed Switch\nSTI-42424DGGPM-4BT\t24 Port PoE Switch\n90W PoE Switch\nDin Rail Managed Switch\t4 Port 90W Output PoE Din Rail Managed Switch\nSTI-42424DGGPM-U-2BT\tGigabit Fiber Switch\n24 port poe switch\nRack Managed switch\t24 Port Gigabit PoE Rack Managed Fiber Switch\nSTI-42424XGGPM-4BT\tPoE++ Managed Switch\n24 port Rack Switch\n10G Fiber Switch\t10G Layer 2 Managed 24 port Rack PoE++ Switch\nSTI-42424XGGPM-U-2BT\t802.3bt PoE Switch\nRack Managed Switch\n28 port Gigabit Switch\t28 Port 802.3bt Ultra PoE Managed Optic Switch\n2.5G L2+ without PoE\nSTI-240DGGM\t2.5G managed switch\n4 port network switch\nIndustrial fiber switch\t2.5G Fiber Industrial L2 Managed Network Switch\nSTI-280DGGM\t8 port 2.5G switch\nLayer 2 managed switch\nIndustrial fiber switch\t8 Port Gigabit Web Managed Ethernet Switch\nSTI-448DGGGM\t16 port Managed switch\n2.5G fiber switch\nManaged Ethernet switch\t16 port 1G/2.5G Din Rail Managed Fiber Switch\nSTI-480DGGM\t8 port managed switch\nindustrial fiber switch\n2.5G network switch\t8 Port Rugged Ethernet 2.5G Managed Switch\nSTI-488DGGGM\tL2 managed switch\nDin rail fiber switch\n8 port 2.5G switch\tGigabit Fiber Ethernet Industrial Managed Switch\nSTI-2160DGGM\t16 port Ethernet switch\n2.5G fiber switch\nDin managed switch\t16 port Gigabit Ethernet Din Managed Fiber Switch\nSTI-4160DGGM\t16 port network switch\n2.5G managed switch\n2.5G fiber switch\t16 port Managed Ethernet Industrial Fiber Switch\nSTI-4168DGGCM-U\t28 port gigabit switch\nindustrial managed switch\n2.5G fiber switch\t1U Rack Gigabit Network 2.5G managed switch\nSTI-4240DGGM\t24 port Ethernet switch\nGigabit Managed Switch\nIndustrial Fiber Switch\tRugged Etherent 24 Port Gigabit Managed Switch\nSTI-4240DGGM-U\t24 port network switch\nRack managed switch\n2.5G fiber switch\tRack Managed 24 port Gigabit Fiber Ethernet Switch\nSTI-4480DGGM-U\tGigabit Ethernet Switch\n2.5G managed switch\n48 port rack switch\t48 Port Gigabit Managed Rack Fiber Switch\nSTI-4816DGCGM-U\tGigabit LAN switch\n28 port rack switch\nManaged fiber switch\t28 Port Rack Managed Gigabit Optic Switch\n2.5G L2+ with PoE\nSTI-244DGGPM\t2.5G fiber switch\nindustrial managed switch\n120W poe switch\t120W PoE 2.5G Fiber Din Managed Switch\nSTI-288DGGPM\t8 port 2.5G switch\n2.5G managed switch\nDin rail PoE Switch\t8 Port 1G/2.5G Din Rail Managed PoE Switch\nSTI-448DGGGPM\tGigabit PoE switch\n2.5G Ring switch\nVLAN managed switch\t240W PoE Gigabit VLAN Ring Managed Switch\nSTI-488DGGPM\tManaged PoE Switch\nindustrial fiber switch\n2.5G poe switch\t1G/2.5G Industrial Managed PoE Fiber Switch\nSTI-4816DGCGPM-U\t28 port rack switch\n2.5G fiber switch\nindustrial managed switch\t400W Gigabit Rack Managed Fiber PoE Switch\nSTI-21616DGGPM\t16 port network switch\n240W poe switch\n2.5g managed switch\t16 port 240W Gigabit Managed Din PoE Switch\nSTI-41616DGGPM\t2.5G poe switch\n16 port managed switch\nDin rail fiber switch\t16 port 2.5G Din Rail PoE Managed Switch\nSTI-42424DGGPM\t24 port fiber switch\n2.5G network switch\nIndustrial managed switch\t24 Port Gigabit Managed PoE Fiber Switch\nSTI-42424DGGPM-U\t24 port rack switch\nPoE managed switch\n2.5G ethernet switch\t1U Rack 24 Port 400W PoE Gigabit Managed Switch\n10G L2+ without PoE\nSTI-448XGGGM\t10G Managed switch\nL2 managed switch\nIndustrial network switch\t4 Port 10G Uplink Marvell L2 Managed Switch\nSTI-480XGGM\t8 port managed switch\n10G fiber switch\nIndustrial Ethernet Switch\t8 Port 10G Fiber Industrial Managed Optic Switch\nSTI-488XGGGM\t10G optic switch\nindustrial network switch\nL2 managed switch\t20 Port 1G/2.5G/10G Din Rail Managed Fiber Switch\nSTI-2160XGGM\t16 port network switch\nDin fiber switch\n10G managed switch\t16 Port Gigabit Ethernet Industrial Managed Switch\nSTI-4160XGGM\tindustrial network switch\n16 port managed switch\n10G Ring switch\t16 Port Layer 2 Ring Managed 10G Network Switch\nSTI-4168XGGCM-U\tManaged network switch\n10G fiber switch\n28 port rack switch\t28 Port 1G/2.5G/10G L2 Managed Rack Fiber Switch\nSTI-4240XGGM\t24 port managed switch\n10G Ethernet switch\nFiber opitc switch\t24 Port 10G Rugged Ethernet Managed Fiber Optic Switch\nSTI-4480XGGM-U\t48 port Ethernet switch\nindustrial managed switch\n10G rack switch\t48 Port Rack Managed 10G Fiber Optic Switch\nSTI-4816XGCGM-U\t10G network switch\nManaged Rack Switch\n28 port fiber switch\t28 Port Fiber Ethernet 10G Rack Managed Switch\nSTI-4240XGGM-U\t24 port optic switch\n10G rack switch\nManaged fiber switch\t24 Port Rack L2 Web Managed 10G Fiber Switch\n10G L2+ with PoE\nSTI-448XGGGPM\t10G poe switch\nL3 managed switch\nIndustrial network switch\t4 Port 1G/2.5G/10G Industrial Managed PoE Switch\nSTI-488XGGPM\t240W poe switch\n10G fiber switch\nIndustrial managed switch\t240W PoE 8 Port 10G Ring Managed Fiber Switch\nSTI-4816XGCGPM-U\tPoE managed switch\n10G fiber switch\n28 port rack switch\t28 Port 400W PoE Industrial 1G/10G Managed Switch\nSTI-21616XGGPM\t16 port poe switch\nWeb managed switch\n10G Ethernet switch\t16 Port 10G Based L3 Managed PoE Fiber Switch\nSTI-41616XGGPM\t16 Port Managed Switch\n10G PoE switch\nDin Rail Network Switch\t16 Port Din PoE ERPS Managed 10G Optic Switch\nSTI-42424XGGPM\t24 port fiber switch\n10G managed switch\nDin PoE switch\t24 Port 10G Din Rail Managed PoE Fiber Switch\nSTI-42424XGGPM-U\tRack Managed switch\n24 port poe switch\n10G fiber switch\t24 Port PoE 400W Rack VLAN 10G Managed switch\nL3 BT\nSTI-4816XGCGPM-U-2BT\t28 port managed switch\n90w poe switch\n10g network switch\t28 Port Rack 10G Ethernet PoE Managed Switch\nSTI-41616XGGPM-4BT\t16 port managed switch\n802.3.bt poe switch\n10G fiber switch\t16 Port Ultra PoE 10G Managed Din Fiber Switch\nSTI-42424XGGPM-4BT\t10G industrial switch\nL3 managed switch\n24 port poe switch\t24 Port 802.3bt PoE 10G Din Rail Managed Switch\nSTI-42424XGGPM-U-2BT\tRing Managed switch\n90W poe switch\n24 port 10G switch\t24 Port Rack 10G Ring Managed 90W PoE Switch\nL3 without PoE\nSTI-448XGGGM\tlayer 3 managed switch\n10G Ethernet switch\n16 port network switch\t16 Port 1G/10G Ethernet L3 Ring Managed Switch\nSTI-480XGGM\t8 port 10G switch\nL3 managed switch\nFiber Ethernet switch\t8 Port Gigabit Ethernet L3 Managed Optic Switch\nSTI-488XGGGM\t20 port managed switch\n10G optical switch\nFiber network switch\t20 Port Mixed Rate L3 Managed Optical Switch\nSTI-2160XGGM\t16 Port LAN switch\n10G fiber switch\nindustrial managed switch\t16 Port 10G Layer 3 Managed Network Switch\nSTI-4160XGGM\t16 Port Managed switch\n10G optic switch\nIndustrial Fiber switch\t20 Port Ring Managed 10G SFP+ Fiber Switch\nSTI-4168XGGCM-U\t28 port Rack switch\n10G managed switch\nFiber optic switch\t28 Port 10G Based Smart Managed Network Switch\nSTI-4240XGGM\t24 Port fiber switch\n10G LAN switch\nIndustrial managed switch\t24 Port Din Rail 10G SFP+ Managed Ethernet Switch\nSTI-4240XGGM-U\t10G rack switch\n24 port managed switch\nRugged ethernet switch\t28 Port Rugged Ethernet 10G Rack Managed Switch\nSTI-4480XGGM-U\t48 port managed switch\nL3 network switch\n10G industrial switch\t48 Port 10G Rack Managed Fiber Network Switch\nSTI-4816XGCGM-U\tManaged Fiber switch\n28 port managed switch\n10G rack switch\t28 Port Managed Ethernet 10G Rack Fiber Switch\nL3 with PoE\nSTI-448XGGGPM\t8 port poe switch\n10g network switch\nhardened managed switch\t8 Port Hardened Ethernet 10G PoE Managed Switch\nSTI-488XGGPM\t240W poe switch\nRugged managed switch\n10G ethernet Switch\t20 Port Rugged Managed Ethernet 10G PoE Switch\nSTI-4816XGCGPM-U\t10G optic switch\nL3 managed switch\n16 port poe switch\t16 Port PoE Managed Rack Ethernet Optic Switch\nSTI-21616XGGPM\t16 Port PoE switch\n10G Ethernet switch\nManaged network switch\t240W 16 Port PoE Din Rail 10G Managed Switch\nSTI-41616XGGPM\t16 Port PoE switch\nPoE managed switch\n10G optical switch\t20 Port Din PoE 10G Managed Optical Switch\nSTI-42424XGGPM\tpoe switch 24 Port\n10g industrial switch\nmanaged optic switch\t24 Port PoE Din Rail 10G Managed Fiber Switch\nSTI-42424XGGPM-U\t24 Port network switch\n10G fiber switch\nL3 managed switch\t24 Port 10G Based Fiber Network Managed Switch\nEthernet Media Converter\t关键词\tTitle\nSTC-110FE\tFiber media converter\nFast Ethernet converter\nUnmanaged media converter\t5V Fast Ethernet Unmanaged Media Converter\nSTC-110GE\tGigabit media converter\nFiber Ethernet converter\nFiber media converter\tCommercial Gigabit Fiber Media Converter\nSTC-110XGE\t10G Ethernet media converter\nunmanaged media converter\nFiber media converter\t100M/1G/2.5G/10G Ethernet Fiber Media Converter\nSTC-14DUR\tMedia Converter Chassis\n14 slot unmanaged rack\nMedia converter rack\t14 Slot Unmanaged Fiber Media Conveter Chassis\nMarvell Series\t关键词\tTitle\nSTC-28DGGM\t8 port managed switch\n2.5G fiber switch\nCommercial network switch\t8 Port 1G/2.5G Commercial Managed Fiber Switch\nSTC-28DGGPM\t8 Port poe switch\n2.5G managed switch\nCommercial fiber switch\t8 Port 240W PoE L2 Managed Gigabit Fiber Switch\nSTC-424DGGM\t24 port Gigabit Switch\n2.5G fiber switch\nLayer 2 managed switch\t24 Port Gigabit Ethernet 2.5G Fiber Managed Switch\nSTC-424XGGM\t10G optical switch\nL3 managed switch\n24 port Ethernet switch\t24 Port 10G L3 Managed Optical Ethernet Switch\nSTC-424XGGPM\t24 Port poe switch\nGigabit rack switch\nManaged Ethernet switch\t1U Rack 24 Port Gigabit 400W PoE Managed Switch\nSTC-448XGGM\tL3 Managed switch\n10G fiber switch\n48 Port network switch\t48 Port Layer 2 Managed 10G Uplink Fiber Switch\nSTC-448XGGPM\t48 port poe switch\nRack managed switch\n10G optic switch\t10G Optic Uplink 48 Port PoE Layer 3 Managed Switch\nSTC-448XGGMO\t52 port fiber switch\nLayer 3 managed switch\nRack Core Switch\t52 Port 1G/10G Full Fiber Rack Managed Core Switch\nSTC-4168XGGCM\t20 port fiber switch\nRing managed switch\n10G network switch\t10G L3 Ring Managed Fiber Network Switch\nSTC-4816XGCGM\t16 port Ethernet switch\nL3 managed switch\n10G Optic Switch\t16 Port Layer 3 Managed 10G Rack Optic Switch\nSTC-4816XGCGPM\t16 port poe switch\n10G managed switch\nFiber Ethernet switch\t400W PoE 16 Port Rack Managed Ethernet switch\n--- Sheet: 网站链接 ---\nTitle\t\tCommercial Ethernet Switch\n5 Port Gigabit Unmanaged Network Switch\thttps://www.sagatelecom.com.cn/productinfo/2619499.html?templateId=1133605\tSTC-05GE\n8 Port 10/100/1000M LAN Switch\thttps://www.sagatelecom.com.cn/productinfo/2619529.html?templateId=1133605\tSTC-08GE\n8 Port 10G Ethernet Switch\thttps://www.sagatelecom.com.cn/productinfo/2621275.html?templateId=1133605\tSTC-08XGE\n5 port 2.5G Ethernet Switch For WIFI 5 WIFI 6\thttps://www.sagatelecom.com.cn/productinfo/2621285.html?templateId=1133605\tSTC-15XGDGE\n8 port 2.5G Unmanaged Switch with 10G Uplink\thttps://www.sagatelecom.com.cn/productinfo/2621288.html?templateId=1133605\tSTC-18XGDGE\n16 Port Rack Mounted Commercial Network Switch\thttps://www.sagatelecom.com.cn/productinfo/2621322.html?templateId=1133605\tSTC-016GE\n24 Port Desktop Gigabit Copper Switch\thttps://www.sagatelecom.com.cn/productinfo/2621355.html?templateId=1133605\tSTC-024GE-D\n24 Port Rack Unmanaged Gigabit Network Switch\thttps://www.sagatelecom.com.cn/productinfo/2621406.html?templateId=1133605\tSTC-024GE-U\n24 port Rack VLAN Gigabit Unmanaged Switch\thttps://www.sagatelecom.com.cn/productinfo/2621455.html?templateId=1133605\tSTC-224GE\n24 port 1G/2.5G Ethernet Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2621461.html?templateId=1133605\tSTC-224XGDGE\n48 Port Rack Gigabit Fiber Commercial Switch\thttps://www.sagatelecom.com.cn/productinfo/2621465.html\tSTC-248GE\n8 port 10G Fiber Optic Switch\thttps://www.sagatelecom.com.cn/productinfo/2621412.html?templateId=1133605\tSTC-80XGO\n16 Port Unmanaged 1G/2.5G/10G Switch\thttps://www.sagatelecom.com.cn/productinfo/2621451.html?templateId=1133605\tSTC-216XGDGE\nTitle\t\tCommercial Managed Switch\n8 Port Smart Managed Gigabit Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2621477.html?templateId=1133605\tSTC-28GM\n8 Port PoE VALN ERPS Managed Network Switch\thttps://www.sagatelecom.com.cn/productinfo/2621487.html?templateId=1133605\tSTC-28GPM\n12 port Layer 3 Managed 10G Optic Switch\thttps://www.sagatelecom.com.cn/productinfo/2621493.html?templateId=1133605\tSTC-120XGM\n24 Port MRP VLAN Managed Gigabit Switch\thttps://www.sagatelecom.com.cn/productinfo/2621632.html?templateId=1133605\tSTC-424GM\n24 Port Layer 2 Managed Rack 10G Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2621902.html?templateId=1133605\tSTC-424XGGM\n24 Port PoE 10G Managed LAN Switch\thttps://www.sagatelecom.com.cn/productinfo/2621993.html?templateId=1133605\tSTC-424XGGPM\n48 Port Managed 10G Access Network Switch\thttps://www.sagatelecom.com.cn/productinfo/2622024.html?templateId=1133605\tSTC-448XGGM\n48 Port L3 Managed Commercial Access PoE Switch\thttps://www.sagatelecom.com.cn/productinfo/2622157.html?templateId=1133605\tSTC-448XGGPM\n24 Port 2.5G Network Switch with 10G Fiber\thttps://www.sagatelecom.com.cn/productinfo/2622239.html?templateId=1133605\tSTC-624XGDGM\n24 Port PoE af/at/bt Rack Managed 2.5G Switch\thttps://www.sagatelecom.com.cn/productinfo/2622346.html?templateId=1133605\tSTC-624XGDGPM\n16 Port L2 Smart Managed PoE Switch\thttps://www.sagatelecom.com.cn/productinfo/2622380.html?templateId=1133605\tSTC-2216GPM\n24 Port Rack Managed Core Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2622408.html?templateId=1133605\tSTC-4248XGGCM\n24 Port Ring PoE Managed Gigabit Combo Switch\thttps://www.sagatelecom.com.cn/productinfo/2622423.html?templateId=1133605\tSTC-4424GCPM\nTitle\t\tCommercial PoE Switch\n8 Port Smart PoE Network Switch\thttps://www.sagatelecom.com.cn/productinfo/2624300.html?templateId=1133605\tSTC-128GFP\n6 Port 10/100M PoE Ethernet Switch\thttps://www.sagatelecom.com.cn/productinfo/2624324.html?templateId=1133605\tSTC-024FP\n4 Port Gigabit PoE Switch with Copper Uplink\thttps://www.sagatelecom.com.cn/productinfo/2624348.html?templateId=1133605\tSTC-024GP\n10 port Fast Ethernet CCTV PoE Switch\thttps://www.sagatelecom.com.cn/productinfo/2625679.html?templateId=1133605\tSTC-028FP\n8 Port Megabit PoE Gigabit Network Switch\thttps://www.sagatelecom.com.cn/productinfo/2625819.html?templateId=1133605\tSTC-028GFP\n10 Port Full Ethernet Gigabit PSE Switch\thttps://www.sagatelecom.com.cn/productinfo/2625952.html?templateId=1133605\tSTC-028GP\n8 port 2.5G PoE Switch\thttps://www.sagatelecom.com.cn/productinfo/2625966.html?templateId=1133605\tSTC-108XGDGP\n4 Port Full Gigabit PoE Switch\thttps://www.sagatelecom.com.cn/productinfo/2625977.html?templateId=1133605\tSTC-114GP\n4 Port PoE 2.5G Unmanaged Network Switch\thttps://www.sagatelecom.com.cn/productinfo/2625982.html?templateId=1133605\tSTC-114XGDGP\n4 Port PoE Gigabit Fiber Optical Switch\thttps://www.sagatelecom.com.cn/productinfo/2625992.html?templateId=1133605\tSTC-204GP\n8 Port Gigabit PoE Optic Switch\thttps://www.sagatelecom.com.cn/productinfo/2626071.html?templateId=1133605\tSTC-208GP\n16 port PoE Rack Mounted LAN Switch\thttps://www.sagatelecom.com.cn/productinfo/2626093.html?templateId=1133605\tSTC-0216GFP\n24 Port PoE Network Unmanaged Switch\thttps://www.sagatelecom.com.cn/productinfo/2626120.html?templateId=1133605\tSTC-0224GFP\n12 Port Unmanaged PoE Gigabit Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2626142.html?templateId=1133605\tSTC-228GP\n16 Port Hybrid Rate PoE Switch\thttps://www.sagatelecom.com.cn/productinfo/2626162.html?templateId=1133605\tSTC-1216GFP\n24 Port Gigabit Uplink PoE Fiber Network Switch\thttps://www.sagatelecom.com.cn/productinfo/2626171.html?templateId=1133605\tSTC-1224GFP\n16 Port 300W PoE Gigabit Fiber Uplink Switch\thttps://www.sagatelecom.com.cn/productinfo/2626189.html?templateId=1133605\tSTC-2016GP\n24 Port PoE 300W Budget Rack Unmanaged Switch\thttps://www.sagatelecom.com.cn/productinfo/2626198.html?templateId=1133605\tSTC-2024GP\n16 Port Commercial PoE Switch With Gigabit Uplink\thttps://www.sagatelecom.com.cn/productinfo/2626226.html?templateId=1133605\tSTC-2216GP\n28 Port Unmanaged Gigabit Fiber Optic PoE Switch\thttps://www.sagatelecom.com.cn/productinfo/2626234.html\tSTC-2224GP\nTitle\t\tDin Power Adapter\n5V Plastic Case Industrial Power Adapter\thttps://www.sagatelecom.com.cn/productinfo/2622593.html?templateId=1133605\tSTI-PA-15W-5V3A\n12V Din Mounted AC Power Converter\thttps://www.sagatelecom.com.cn/productinfo/2622815.html?templateId=1133605\tSTI-PA-20W-12V1.67A\n20W Industrial Din Power Supply\thttps://www.sagatelecom.com.cn/productinfo/2622836.html?templateId=1133605\tSTI-PA-20W-15V1.34A\n24V Output Industrial AC Power Supply\thttps://www.sagatelecom.com.cn/productinfo/2623535.html?templateId=1133605\tSTI-PA-20W-24V0.83A\n12V Industrial Power Adapter\thttps://www.sagatelecom.com.cn/productinfo/2623590.html?templateId=1133605\tSTI-PA-24W-12V2A\n24VDC Power Converter\thttps://www.sagatelecom.com.cn/productinfo/2623624.html?templateId=1133605\tSTI-PA-24W-24V1A\nIndustrial Power Supply 12V\thttps://www.sagatelecom.com.cn/productinfo/2623661.html?templateId=1133605\tSTI-PA-75W-12V6.3A\n75W Din Power Converter\thttps://www.sagatelecom.com.cn/productinfo/2623680.html?templateId=1133605\tSTI-PA-75W-24V3.2A\n48V Industrial PoE Power Supply\thttps://www.sagatelecom.com.cn/productinfo/2623707.html?templateId=1133605\tSTI-PA-75W-48V1.56A\n12V AC/DC Din Power Adaptor\thttps://www.sagatelecom.com.cn/productinfo/2624130.html?templateId=1133605\tSTI-PA-120W-12V10A\nIndustrial Power Adapter 24V\thttps://www.sagatelecom.com.cn/productinfo/2624151.html?templateId=1133605\tSTI-PA-120W-24V5A\n120W Industrial Din Power Converter\thttps://www.sagatelecom.com.cn/productinfo/2624166.html?templateId=1133605\tSTI-PA-120W-48V2.5A\n24V 150W Budget AC Adaptor\thttps://www.sagatelecom.com.cn/productinfo/2624196.html?templateId=1133605\tSTI-PA-150W-24V6.25A\n24V Industrial AC/DC Power Supply\thttps://www.sagatelecom.com.cn/productinfo/2624208.html?templateId=1133605\tSTI-PA-240W-24V10A\n240W Din Rail PoE Power Adaptor\thttps://www.sagatelecom.com.cn/productinfo/2624212.html?templateId=1133605\tSTI-PA-240W-48V5A\n20A Din Rail Electrical Adaptor\thttps://www.sagatelecom.com.cn/productinfo/2624217.html?templateId=1133605\tSTI-PA-480W-24V20A\n480W Industrial Grade Power Unit\thttps://www.sagatelecom.com.cn/productinfo/2624221.html\tSTI-PA-480W-48V10A\nTitle\t\tIndustrial Unmanaged Switch\n5 Port 10/100M Ethernet Switch\thttps://www.sagatelecom.com.cn/productinfo/2627016.html?templateId=1133605\tSTI-050FE\n5 Port Din Network Switch\thttps://www.sagatelecom.com.cn/productinfo/2627035.html?templateId=1133605\tSTI-050GE\n4 Port PoE 120W LAN Switch\thttps://www.sagatelecom.com.cn/productinfo/2627047.html?templateId=1133605\tSTI-054FP\n5 Port Gigabit PoE Switch\thttps://www.sagatelecom.com.cn/productinfo/2627052.html?templateId=1133605\tSTI-054GP\n8 Port Compact Unmanaged Switch\thttps://www.sagatelecom.com.cn/productinfo/2627059.html?templateId=1133605\tSTI-080FE\n8 Port Mini Gigabit Industrial Switch\thttps://www.sagatelecom.com.cn/productinfo/2627063.html?templateId=1133605\tSTI-080GE\n8 Port PoE Industrial Unmanaged Switch\thttps://www.sagatelecom.com.cn/productinfo/2627068.html?templateId=1133605\tSTI-088FP\n8 Port PoE 240W Industrial LAN Switch\thttps://www.sagatelecom.com.cn/productinfo/2627075.html?templateId=1133605\tSTI-088GP\nDin Rail 10/100Mbps Ethernet Fiber converter\thttps://www.sagatelecom.com.cn/productinfo/2628885.html?templateId=1133605\tSTI-110FE\nIndustrial Gigabit Fiber Media Converter\thttps://www.sagatelecom.com.cn/productinfo/2628898.html?templateId=1133605\tSTI-110GE\nDin Rail Industrial PoE Fiber Converter\thttps://www.sagatelecom.com.cn/productinfo/2628923.html?templateId=1133605\tSTI-111FP\nMini Gigabit Ethernet PoE Media Converter\thttps://www.sagatelecom.com.cn/productinfo/2628940.html?templateId=1133605\tSTI-111GP\n3 Port Industrial Unmanaged Network Switch\thttps://www.sagatelecom.com.cn/productinfo/2629210.html?templateId=1133605\tSTI-120FE\nGigabit Ethernet Fiber Optic Switch\thttps://www.sagatelecom.com.cn/productinfo/2629229.html?templateId=1133605\tSTI-120GE\n60W Megabit Industrial Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2629251.html?templateId=1133605\tSTI-122FP\n2 port Din PoE Unmanaged Switch\thttps://www.sagatelecom.com.cn/productinfo/2629265.html?templateId=1133605\tSTI-122GP\n4 port 10/100M Ethernet Switch\thttps://www.sagatelecom.com.cn/productinfo/2629280.html?templateId=1133605\tSTI-220FE\nIndustrial Gigabit Network Switch\thttps://www.sagatelecom.com.cn/productinfo/2629300.html?templateId=1133605\tSTI-220GE\n60W PoE Unmanaged Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2629430.html?templateId=1133605\tSTI-222FP\n4 Port Gigabit Din PoE Switch\thttps://www.sagatelecom.com.cn/productinfo/2629464.html?templateId=1133605\tSTI-222GP\n5 Port 10/100M Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2629523.html?templateId=1133605\tSTI-140FE\n5 Port Gigabit Unmanaged LAN switch\thttps://www.sagatelecom.com.cn/productinfo/2629571.html?templateId=1133605\tSTI-140GE\n4 Port PoE 120W Din Network Switch\thttps://www.sagatelecom.com.cn/productinfo/2629679.html?templateId=1133605\tSTI-144FP\nIndustrial Gigabit Fiber PoE Switch\thttps://www.sagatelecom.com.cn/productinfo/2629704.html?templateId=1133605\tSTI-144GP\n6 Port Gigabit LAN Industrial Switch\thttps://www.sagatelecom.com.cn/productinfo/2629754.html?templateId=1133605\tSTI-150GE\n4 Port PoE Fiber Switch with Gigabit Uplink\thttps://www.sagatelecom.com.cn/productinfo/2629757.html?templateId=1133605\tSTI-154GP\n16 Port 10/100/1000M Unmanaged LAN Switch\thttps://www.sagatelecom.com.cn/productinfo/2629921.html?templateId=1133605\tSTI-0160GE\n8 port 10/100Mbps Unmanaged Switch\thttps://www.sagatelecom.com.cn/productinfo/2629922.html?templateId=1133605\tSTI-180FE\nGigabit Based 8 Port Network Switch\thttps://www.sagatelecom.com.cn/productinfo/2629924.html?templateId=1133605\tSTI-180GE\n8 Port Outdoor CCTV PoE Switch\thttps://www.sagatelecom.com.cn/productinfo/2629932.html?templateId=1133605\tSTI-188FP\n240W Budget 8 port PoE Gigabit Switch\thttps://www.sagatelecom.com.cn/productinfo/2629938.html?templateId=1133605\tSTI-188GP\n6 Port Fast Ethernet Switch\thttps://www.sagatelecom.com.cn/productinfo/2629962.html?templateId=1133605\tSTI-240FE\n4 Port Unmanaged Din Lan Switch\thttps://www.sagatelecom.com.cn/productinfo/2629983.html?templateId=1133605\tSTI-240GE\n120W PoE Fiber Optical Switch\thttps://www.sagatelecom.com.cn/productinfo/2630005.html?templateId=1133605\tSTI-244FP\n4 Port PoE Industrial Gigabit Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2630014.html?templateId=1133605\tSTI-244GP\n8 Port Din Mounted Unmanaged Switch\thttps://www.sagatelecom.com.cn/productinfo/2630116.html?templateId=1133605\tSTI-260FE\n8 port Megabit Based PoE Switch\thttps://www.sagatelecom.com.cn/productinfo/2630136.html?templateId=1133605\tSTI-266FP\n10 Port Gigabit Network Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2630172.html?templateId=1133605\tSTI-280GE\n8 Port 240W PoE Optical Switch\thttps://www.sagatelecom.com.cn/productinfo/2630229.html?templateId=1133605\tSTI-288GP\n12 Port Full Gigabit Network Switch\thttps://www.sagatelecom.com.cn/productinfo/2630233.html?templateId=1133605\tSTI-480GE\n240W Din PoE Switch\thttps://www.sagatelecom.com.cn/productinfo/2630238.html?templateId=1133605\tSTI-488GP\n16 Port Gigabit Unmanaged Ethernet Switch\thttps://www.sagatelecom.com.cn/productinfo/2630626.html?templateId=1133605\tSTI-880GE\n8 Port PoE Gigabit Industrial Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2630635.html?templateId=1133605\tSTI-888GP\n16 Port PoE Industrial Ethernet Switch\thttps://www.sagatelecom.com.cn/productinfo/2630660.html?templateId=1133605\tSTI-01616GP\n18 Port Gigabit Unmanaged Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2630671.html?templateId=1133605\tSTI-2160GE\n240W Budget Gigabit PoE Switch\thttps://www.sagatelecom.com.cn/productinfo/2630708.html\tSTI-21616GP\nTitle\t\tIndustrial Managed Switch\n\t\tL2\n8 Port Industrial CCTV PoE Lite Managed Switch\thttps://www.sagatelecom.com.cn/productinfo/2630748.html?templateId=1133605\tSTI-288GPM\n4 port 10/100M Fast Ethernet Managed Switch\thttps://www.sagatelecom.com.cn/productinfo/2631070.html?templateId=1133605\tSTI-240FM\nFull Gigabit Industrial Managed Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2631073.html?templateId=1133605\tSTI-240GM\n120W CCTV PoE Din Managed Optic Switch\thttps://www.sagatelecom.com.cn/productinfo/2631074.html?templateId=1133605\tSTI-244FPM\n4 Port PoE Managed Network Switch\thttps://www.sagatelecom.com.cn/productinfo/2631075.html?templateId=1133605\tSTI-244GPM\n10 Port Gigabit Din Managed Switch\thttps://www.sagatelecom.com.cn/productinfo/2631077.html?templateId=1133605\tSTI-280GM\n\t\tL2+ BT\n2 port 802.3bt Gigabit MRP Managed Switch\thttps://www.sagatelecom.com.cn/productinfo/2654708.html?templateId=1133605\tSTI-244DGGPM-2BT\n8 Port Gigabit Managed PoE Switch 240W\thttps://www.sagatelecom.com.cn/productinfo/2654712.html?templateId=1133605\tSTI-288DGGPM-2BT\n2.5G Ultra PoE Din Managed Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2654713.html?templateId=1133605\tSTI-488DGGPM-2BT\n90W PoE Rack Managed Combo Network Switch\thttps://www.sagatelecom.com.cn/productinfo/2658271.html?templateId=1133605\tSTI-4816DGCGPM-U-2BT\n10G SFP+ Rack Type L2 Managed PoE Switch\thttps://www.sagatelecom.com.cn/productinfo/2658292.html?templateId=1133605\tSTI-4816XGCGPM-U-2BT\n16 Port 2.5G Fiber Optic Industrial PoE Switch\thttps://www.sagatelecom.com.cn/productinfo/2658309.html?templateId=1133605\tSTI-41616DGGPM-4BT\n10G Uplink Din Rail 90W PoE Managed Switch\thttps://www.sagatelecom.com.cn/productinfo/2660958.html?templateId=1133605\tSTI-41616XGGPM-4BT\n4 Port 90W Output PoE Din Rail Managed Switch\thttps://www.sagatelecom.com.cn/productinfo/2660966.html?templateId=1133605\tSTI-42424DGGPM-4BT\n24 Port Gigabit PoE Rack Managed Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2660971.html?templateId=1133605\tSTI-42424DGGPM-U-2BT\n10G Layer 2 Managed 24 port Rack PoE++ Switch\thttps://www.sagatelecom.com.cn/productinfo/2676598.html?templateId=1133605\tSTI-42424XGGPM-4BT\n28 Port 802.3bt Ultra PoE Managed Optic Switch\thttps://www.sagatelecom.com.cn/productinfo/2676599.html?templateId=1133605\tSTI-42424XGGPM-U-2BT\n\t\t2.5G L2+ without PoE\n2.5G Fiber Industrial L2 Managed Network Switch\thttps://www.sagatelecom.com.cn/productinfo/2695749.html?templateId=1133605\tSTI-240DGGM\n8 Port Gigabit Web Managed Ethernet Switch\thttps://www.sagatelecom.com.cn/productinfo/2695771.html?templateId=1133605\tSTI-280DGGM\n16 port 1G/2.5G Din Rail Managed Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2695825.html?templateId=1133605\tSTI-448DGGGM\n8 Port Rugged Ethernet 2.5G Managed Switch\thttps://www.sagatelecom.com.cn/productinfo/2695828.html?templateId=1133605\tSTI-480DGGM\nGigabit Fiber Ethernet Industrial Managed Switch\thttps://www.sagatelecom.com.cn/productinfo/2695833.html?templateId=1133605\tSTI-488DGGGM\n16 port Gigabit Ethernet Din Managed Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2695839.html?templateId=1133605\tSTI-2160DGGM\n16 port Managed Ethernet Industrial Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2695841.html?templateId=1133605\tSTI-4160DGGM\n1U Rack Gigabit Network 2.5G managed switch\thttps://www.sagatelecom.com.cn/productinfo/2695844.html?templateId=1133605\tSTI-4168DGGCM-U\nRugged Etherent 24 Port Gigabit Managed Switch\thttps://www.sagatelecom.com.cn/productinfo/2695849.html?templateId=1133605\tSTI-4240DGGM\nRack Managed 24 port Gigabit Fiber Ethernet Switch\thttps://www.sagatelecom.com.cn/productinfo/2695852.html?templateId=1133605\tSTI-4240DGGM-U\n48 Port Gigabit Managed Rack Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2695859.html?templateId=1133605\tSTI-4480DGGM-U\n28 Port Rack Managed Gigabit Optic Switch\thttps://www.sagatelecom.com.cn/productinfo/2695875.html?templateId=1133605\tSTI-4816DGCGM-U\n\t\t2.5G L2+ with PoE\n120W PoE 2.5G Fiber Din Managed Switch\thttps://www.sagatelecom.com.cn/productinfo/2698609.html?templateId=1133605\tSTI-244DGGPM\n8 Port 1G/2.5G Din Rail Managed PoE Switch\thttps://www.sagatelecom.com.cn/productinfo/2698611.html?templateId=1133605\tSTI-288DGGPM\n240W PoE Gigabit VLAN Ring Managed Switch\thttps://www.sagatelecom.com.cn/productinfo/2698613.html?templateId=1133605\tSTI-448DGGGPM\n1G/2.5G Industrial Managed PoE Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2698614.html?templateId=1133605\tSTI-488DGGPM\n400W Gigabit Rack Managed Fiber PoE Switch\thttps://www.sagatelecom.com.cn/productinfo/2698618.html?templateId=1133605\tSTI-4816DGCGPM-U\n16 port 240W Gigabit Managed Din PoE Switch\thttps://www.sagatelecom.com.cn/productinfo/2699803.html?templateId=1133605\tSTI-21616DGGPM\n16 port 2.5G Din Rail PoE Managed Switch\thttps://www.sagatelecom.com.cn/productinfo/2699832.html?templateId=1133605\tSTI-41616DGGPM\n24 Port Gigabit Managed PoE Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2699871.html?templateId=1133605\tSTI-42424DGGPM\n1U Rack 24 Port 400W PoE Gigabit Managed Switch\thttps://www.sagatelecom.com.cn/productinfo/2699898.html?templateId=1133605\tSTI-42424DGGPM-U\n\t\t10G L2+ without PoE\n4 Port 10G Uplink Marvell L2 Managed Switch\thttps://www.sagatelecom.com.cn/productinfo/2701331.html?templateId=1133605\tSTI-448XGGGM\n8 Port 10G Fiber Industrial Managed Optic Switch\thttps://www.sagatelecom.com.cn/productinfo/2701347.html?templateId=1133605\tSTI-480XGGM\n20 Port 1G/2.5G/10G Din Rail Managed Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2701372.html?templateId=1133605\tSTI-488XGGGM\n16 Port Gigabit Ethernet Industrial Managed Switch\thttps://www.sagatelecom.com.cn/productinfo/2701386.html?templateId=1133605\tSTI-2160XGGM\n16 Port Layer 2 Ring Managed 10G Network Switch\thttps://www.sagatelecom.com.cn/productinfo/2701399.html?templateId=1133605\tSTI-4160XGGM\n28 Port 1G/2.5G/10G L2 Managed Rack Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2701402.html?templateId=1133605\tSTI-4168XGGCM-U\n24 Port 10G Rugged Ethernet Managed Fiber Optic Switch\thttps://www.sagatelecom.com.cn/productinfo/2701409.html?templateId=1133605\tSTI-4240XGGM\n48 Port Rack Managed 10G Fiber Optic Switch\thttps://www.sagatelecom.com.cn/productinfo/2704045.html?templateId=1133605\tSTI-4480XGGM-U\n28 Port Fiber Ethernet 10G Rack Managed Switch\thttps://www.sagatelecom.com.cn/productinfo/2704047.html?templateId=1133605\tSTI-4816XGCGM-U\n24 Port Rack L2 Web Managed 10G Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2704048.html?templateId=1133605\tSTI-4240XGGM-U\n\t\t10G L2+ with PoE\n4 Port 1G/2.5G/10G Industrial Managed PoE Switch\thttps://www.sagatelecom.com.cn/productinfo/2704124.html?templateId=1133605\tSTI-448XGGGPM\n240W PoE 8 Port 10G Ring Managed Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2704130.html?templateId=1133605\tSTI-488XGGPM\n28 Port 400W PoE Industrial 1G/10G Managed Switch\thttps://www.sagatelecom.com.cn/productinfo/2704146.html?templateId=1133605\tSTI-4816XGCGPM-U\n16 Port 10G Based L3 Managed PoE Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2704154.html?templateId=1133605\tSTI-21616XGGPM\n16 Port Din PoE ERPS Managed 10G Optic Switch\thttps://www.sagatelecom.com.cn/productinfo/2704156.html?templateId=1133605\tSTI-41616XGGPM\n24 Port 10G Din Rail Managed PoE Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2704179.html?templateId=1133605\tSTI-42424XGGPM\n24 Port PoE 400W Rack VLAN 10G Managed switch\thttps://www.sagatelecom.com.cn/productinfo/2704193.html?templateId=1133605\tSTI-42424XGGPM-U\n\t\tL3 BT\n28 Port Rack 10G Ethernet PoE Managed Switch\thttps://www.sagatelecom.com.cn/productinfo/2704244.html\tSTI-4816XGCGPM-U-2BT\n16 Port Ultra PoE 10G Managed Din Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2704239.html?templateId=1133605\tSTI-41616XGGPM-4BT\n24 Port 802.3bt PoE 10G Din Rail Managed Switch\thttps://www.sagatelecom.com.cn/productinfo/2704237.html?templateId=1133605\tSTI-42424XGGPM-4BT\n24 Port Rack 10G Ring Managed 90W PoE Switch\thttps://www.sagatelecom.com.cn/productinfo/2704236.html?templateId=1133605\tSTI-42424XGGPM-U-2BT\n\t\tL3 without PoE\n16 Port 1G/10G Ethernet L3 Ring Managed Switch\thttps://www.sagatelecom.com.cn/productinfo/2704251.html?templateId=1133605\tSTI-448XGGGM\n8 Port Gigabit Ethernet L3 Managed Optic Switch\thttps://www.sagatelecom.com.cn/productinfo/2704253.html?templateId=1133605\tSTI-480XGGM\n20 Port Mixed Rate L3 Managed Optical Switch\thttps://www.sagatelecom.com.cn/productinfo/2704259.html?templateId=1133605\tSTI-488XGGGM\n16 Port 10G Layer 3 Managed Network Switch\thttps://www.sagatelecom.com.cn/productinfo/2704255.html?templateId=1133605\tSTI-2160XGGM\n20 Port Ring Managed 10G SFP+ Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2704272.html?templateId=1133605\tSTI-4160XGGM\n28 Port 10G Based Smart Managed Network Switch\thttps://www.sagatelecom.com.cn/productinfo/2704273.html?templateId=1133605\tSTI-4168XGGCM-U\n24 Port Din Rail 10G SFP+ Managed Ethernet Switch\thttps://www.sagatelecom.com.cn/productinfo/2704276.html?templateId=1133605\tSTI-4240XGGM\n28 Port Rugged Ethernet 10G Rack Managed Switch\thttps://www.sagatelecom.com.cn/productinfo/2704281.html?templateId=1133605\tSTI-4240XGGM-U\n48 Port 10G Rack Managed Fiber Network Switch\thttps://www.sagatelecom.com.cn/productinfo/2704287.html?templateId=1133605\tSTI-4480XGGM-U\n28 Port Managed Ethernet 10G Rack Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2704304.html\tSTI-4816XGCGM-U\n\t\tL3 with PoE\n8 Port Hardened Ethernet 10G PoE Managed Switch\thttps://www.sagatelecom.com.cn/productinfo/2704311.html\tSTI-448XGGGPM\n20 Port Rugged Managed Ethernet 10G PoE Switch\thttps://www.sagatelecom.com.cn/productinfo/2704330.html?templateId=1133605\tSTI-488XGGPM\n16 Port PoE Managed Rack Ethernet Optic Switch\thttps://www.sagatelecom.com.cn/productinfo/2704338.html?templateId=1133605\tSTI-4816XGCGPM-U\n240W 16 Port PoE Din Rail 10G Managed Switch\thttps://www.sagatelecom.com.cn/productinfo/2704342.html?templateId=1133605\tSTI-21616XGGPM\n20 Port Din PoE 10G Managed Optical Switch\thttps://www.sagatelecom.com.cn/productinfo/2704355.html?templateId=1133605\tSTI-41616XGGPM\n24 Port PoE Din Rail 10G Managed Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2704368.html?templateId=1133605\tSTI-42424XGGPM\n24 Port 10G Based Fiber Network Managed Switch\thttps://www.sagatelecom.com.cn/productinfo/2704369.html?templateId=1133605\tSTI-42424XGGPM-U\nTitle\t\tEthernet Media Converter\n5V Fast Ethernet Unmanaged Media Converter\thttps://www.sagatelecom.com.cn/productinfo/2698590.html?templateId=1133605\tSTC-110FE\nCommercial Gigabit Fiber Media Converter\thttps://www.sagatelecom.com.cn/productinfo/2698593.html?templateId=1133605\tSTC-110GE\n100M/1G/2.5G/10G Ethernet Fiber Media Converter\thttps://www.sagatelecom.com.cn/productinfo/2698597.html?templateId=1133605\tSTC-110XGE\n14 Slot Unmanaged Fiber Media Conveter Chassis\thttps://www.sagatelecom.com.cn/productinfo/2698606.html\tSTC-14DUR\nTitle\t\tMarvell Series\n8 Port 1G/2.5G Commercial Managed Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2704370.html?templateId=1133605\tSTC-28DGGM\n8 Port 240W PoE L2 Managed Gigabit Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2704371.html?templateId=1133605\tSTC-28DGGPM\n24 Port Gigabit Ethernet 2.5G Fiber Managed Switch\thttps://www.sagatelecom.com.cn/productinfo/2704374.html?templateId=1133605\tSTC-424DGGM\n24 Port 10G L3 Managed Optical Ethernet Switch\thttps://www.sagatelecom.com.cn/productinfo/2704382.html?templateId=1133605\tSTC-424XGGM\n1U Rack 24 Port Gigabit 400W PoE Managed Switch\thttps://www.sagatelecom.com.cn/productinfo/2704383.html?templateId=1133605\tSTC-424XGGPM\n48 Port Layer 2 Managed 10G Uplink Fiber Switch\thttps://www.sagatelecom.com.cn/productinfo/2704392.html?templateId=1133605\tSTC-448XGGM\n10G Optic Uplink 48 Port PoE Layer 3 Managed Switch\thttps://www.sagatelecom.com.cn/productinfo/2704395.html?templateId=1133605\tSTC-448XGGPM\n52 Port 1G/10G Full Fiber Rack Managed Core Switch\thttps://www.sagatelecom.com.cn/productinfo/2704399.html?templateId=1133605\tSTC-448XGGMO\n10G L3 Ring Managed Fiber Network Switch\thttps://www.sagatelecom.com.cn/productinfo/2704452.html?templateId=1133605\tSTC-4168XGGCM\n16 Port Layer 3 Managed 10G Rack Optic Switch\thttps://www.sagatelecom.com.cn/productinfo/2704455.html?templateId=1133605\tSTC-4816XGCGM\n400W PoE 16 Port Rack Managed Ethernet switch\thttps://www.sagatelecom.com.cn/productinfo/2704460.html\tSTC-4816XGCGPM\n--- Sheet: Made in China ---\nhttps://www.made-in-china.com/showroom/saga-telecom\nhttps://membercenter.made-in-china.com/product.do?xcase=list&state=-1\t\thttps://membercenter.made-in-china.com/product.do?xcase=list\n型号名\t标题\t关键词\nSTI-154GP\tIndustrial Grade 4 Port Gigabit FiberEthernet Din PoE Switch\t4 Port PoE Switch/Industrial fiber Switch/Power over Ethernet Switch/network switch/gigabit ethernet switch\nSTC-110XGE\tSFP+ Unmanaged 10 Gigabit Ethernet Fiber Optic Converter\tEthernet media converter/10G media converter/fiber optic media converter/optical converter\nSTI-080GE\tCompact 8 Port 10/100/1000M Unmanaged Industrial Ethernet Switch\tIndustrial Ethernet switch/8 port LAN switch/Gigabit network switch\nSTI-222GP\t4 Port Mini Gigabit Industrial Ethernet PoE Fiber Optic Switch\t4 port poe switch/Industrial Ethernet switch/Gigabit fiber switch/Fiber optic switch/network switch\nSTI-260FE\t8 Port Mini Industrial 10/100M Unmanaged Fiber Ethernet Switch\t8 port ethernet switch/industrial fiber switch/10/100M unmanaged switch\nSTI-4240XGGM\t24 Port Din Rail 10G SFP+ L3 Managed Ethernet Switch\t24 port Ethernet switch/Din rail managed switch/10G fiber switch/L3 managed switch/network switch\nSTI-288GPM\t8 Port Gigabit Ethernet Industrial ERPS Managed CCTV PoE Switch\t8 port poe switch/industrial Ethernet switch/Gigabit managed switch\nSTI-288DGGPM-2BT\t8 Port 1G/2.5 L2 Ring Managed 90W 802.3bt PoE++ Network Switch\tPoE switch 8 port/802.3bt poe switch/L2 managed switch/industrial Network switch/poe ethernet switches\nSTC-448XGGMO\t4*1G/2.5G/10G Uplink 48 Port SFP Layer 3 Managed Core Fiber Switch\tManaged Fiber Switch/48 Port managed switch/10G core switch\nSTI-050FE\tCompact 5 Port Unmanaged 10/100M Industrial Ethernet Switch\t5 port network switch/unmanaged 10/100M switch/Compact Ethernet switch/Industrial LAN switch\nSTI-21616GP\t16 Port Gigabit PoE 240W Unmanaged Industrial Network Switch\t16 port network switch/240W poe switch/unmanaged ethernet switch/Gigabit LAN switch\nSTI-240FM\t6 Port 10/100M Lite Managed Industrial Fiber Switch\tIndustrial Ethernet switch/Lite managed switch/10/100M fiber switch\nSTI-448DGGGPM\t8 Port 1G/2.5G Fiber Din Rail L2 Ring Managed 240W PoE Switch\t8 Port Fiber switch/240W poe switch/2.5G ring switch/L2 managed switch/Din Ethernet switch\nSTC-4168XGGCM\t1U Rack 24 Port SFP Gigabit Fiber Ethernet Commercial L3 Managed Switch\t24 Port SFP switch/Fiber Ethernet switch/L3 managed switch/Gigabit network switch\nSTI-4168XGGCM-U\t24 Port 1G/2.5G/10G Industrial Rack Type L3 Managed Core Fiber Switch\t24 port rack switch/Industrial fiber switch/L3 managed switch/10G core switch\nSTC-424DGGM\t28 Port 2.5G SFP Uplink L2 Marvell Managed Fiber Ethernet Switch\t2.5G SFP switch/28 port Rack switch/L2 managed switch/Fiber Ethernet switch\nSTC-448XGGM(L2)\t48 Port Gigabit Ethernet L2 Managed Rack 10G Fiber Switch\t10G Fiber switch/Gigabit Ethernet switch/48 port network switch/L2 managed switch\nSTC-120XGM\t12 Port L3 Managed 10G SFP+ Fiber Optic Switch\t12 port 10G switch/Fiber optic switch/L3 managed switch\nSTC-08XGE\t8 Port Auto-adaptive 10G Unmanaged Ethernet Switch\t8 port LAN switch/unmanaged Ethernet switch/10G network switch\nSTC-80XGO\t8 Port Unmanaged 1.25G/2.5G/10G SFP+ Optical Fiber Switch\t8 port 10G switch/Unmanaged SFP+ switch/Optical Fiber Switch\n--- Sheet: Tradeford ---\n--- Sheet: Exportpages ---",
+"sheets":{
+"总表":{
+"state":"visible",
+"rows":[
+[
+"Link",
+"Status",
+"Remarks"
+],
+[
+"https://www.findlight.net/company/zhengzhou-saga-telecom-co-ltd",
+"已改",
+"https://www.findlight.net/company/zhengzhou-saga-telecom-co-ltd/fiber-optics/optical-networking"
+],
+[
+"https://sagatelecom.en.ec21.com/",
+"已改 但BANNER需要设置一下"
+],
+[
+"https://supplier.globalsources.com/",
+"已改 看看是否更新完毕",
+"https://www.globalsources.com/zhengzhou-saga/homepage_6002100054285.htm"
+],
+[
+"https://www.made-in-china.com/showroom/saga-telecom",
+"已改"
+],
+[
+"www.tradeford.com/"
+],
+[
+"https://exportpages.com/my-account/companies/154279/profile"
+]
+]
+},
+"findlight":{
+"state":"visible",
+"rows":[
+[
+"https://www.findlight.net/company/zhengzhou-saga-telecom-co-ltd"
+],
+[
+"https://www.findlight.net/company/zhengzhou-saga-telecom-co-ltd/fiber-optics/optical-networking"
+],
+[
+"型号名",
+"Status",
+"Title"
+],
+[
+"STI-0160GE",
+"DONE",
+"16 port Gigabit Industrial Din Rail Unmanaged Ethernet Switch"
+],
+[
+"STI-244GP",
+"DONE",
+"4 port PoE Industrial Gigabit Unamanged Network Switch"
+],
+[
+"STI-222GP",
+"DONE",
+"Mini Din Gigabit Industrial Unmanaged PoE Fiber Switch"
+],
+[
+"STC-110XGE",
+"DONE",
+"Marvell based 1G/10G Ethernet Fiber Media Converter"
+],
+[
+"STI-288GP",
+"DONE",
+"Hardened Unmanaged Gigabit Network 8 Port DIN PoE Switch"
+],
+[
+"STI-448XGGGM L3",
+"",
+"16 Port Rugged Ethernet 10G SFP+ L3 Managed Switch"
+],
+[
+"STI-21616DGGPM L2+",
+"",
+"16 Port 1G/2.5G Fiber Rugged Ethernet L2 Managed PoE Switch"
+],
+[
+"STI-42424XGGPM-4BT L3",
+"",
+"24 Port Gigabit Network 10G Fiber L3 Managed 90W PoE Switch"
+],
+[
+"STC-424DGGPM-280W L2+",
+"",
+"24-Port 100M/1G/2.5G Fiber Smart Managed PoE Network Switch"
+],
+[
+"STC-448XGGMO L3",
+"",
+"48 Port 1G 2.5G 10G Commercial L2 L3 Manged Core Fiber Switch"
+],
+[
+"STC-28GPM",
+"DONE",
+"8 port PoE Gigabit Based Vlan ERPS Ring managed Ethernet Switch"
+],
+[
+"STC-2224GFP-24V",
+"DONE",
+"24 Port 10/100M Ethernet 300W budget Passive PoE Switch with Gigabit SFP/RJ45 Uplink"
+],
+[
+"STI-PA-120W-48V2.5A",
+"DONE",
+"120W Industrial Din Power Adapter 48V 2.5A Output"
+],
+[
+"STC-624XGDGPM",
+"DONE",
+"24 Port 2.5G Ethernet PoE 10G SFP+ Commercial Rack Managed Switch for WIFI 5 WIFI 6"
+]
+]
+},
+"EC21":{
+"state":"visible",
+"rows":[
+[
+"https://www.ec21.com/global/basic/MyProductList.jsp"
+],
+[
+"https://sagatelecom.en.ec21.com/"
+],
+[
+"型号名",
+"Status",
+"关键词",
+"Title"
+],
+[
+"STI-222GP",
+"DONE",
+"60W poe switch\nGigabit industrial switch\nDin rail Network switch",
+"Din Rail Gigabit 60W PoE Network Switch"
+],
+[
+"STI-154GP",
+"DONE",
+"4 port PoE switch\nIndustrial Network Switch\nGigabit PoE Switch",
+"Gigabit Industrial 4 Port PoE Fiber Switch"
+],
+[
+"STI-050GE",
+"DONE",
+"5 port network switch\nGigabit LAN switch\nIndustrial Ethernet switch",
+"5 Port 100/1000Mbps Industrial Gigabit LAN Switch"
+],
+[
+"STI-080GE",
+"DONE",
+"Industrial Network Switch\n8 Port Gigabit Switch\nUnmanaged Ethernet Switch",
+"8 Port Mini Gigabit Unmanaged Industrial Ethernet Switch"
+],
+[
+"STI-21616GP",
+"DONE",
+"Gigabit Ethernet Switch\n16 port PoE switch\n240W PoE switch",
+"16 port Gigabit Din PoE Switch"
+],
+[
+"STI-448XGGGM",
+"DONE",
+"Industrial network switch\n10G Fiber Switch\n8 port Managed switch",
+"8 Port 1G/2.5G/10G  Layer 3 Managed Industrial Network Switch"
+],
+[
+"STI-288GPM",
+"DONE",
+"8 Port PoE switch\nLite managed switch\nGigabit Fiber switch",
+"8 Port Lite Managed Gigabit CCTV PoE Fiber Switch"
+],
+[
+"STI-42424XGGPM",
+"DONE",
+"24 Port PoE Switch\n10G Managed Switch\nIndustrial Fiber Switch",
+"24 Port Gigabit PoE Din Rail 10G SFP+ Managed Fiber Switch"
+],
+[
+"STI-288DGGPM-2BT",
+"DONE",
+"8 Port PoE Switch\n2.5G UPoE Switch\nGigabit Managed Switch",
+"L2 Managed 8-Port GbE UPOE Optic Switch"
+],
+[
+"STI-448DGGGPM",
+"DONE",
+"2.5G Managed Switch\n16 Port PoE Switch\n2.5G Network Switch",
+"Din Rail Managed 16 Port 2.5G Smart PoE Switch"
+],
+[
+"STI-2160DGGM",
+"DONE",
+"Managed Ethernet Switch\n16 Port Giagbit Switch\n2.5G Fiber Switch",
+"16 Port Gigabit LAN Layer 2 Managed Switch"
+],
+[
+"STI-4168XGGCM-U",
+"DONE",
+"10G optic Switch\nRack Core Switch\n24 Port managed switch",
+"24 Port Rack Layer 3 Managed  Optic Switch with 10G Uplink"
+],
+[
+"STI-21616XGGPM",
+"DONE",
+"Industrial Managed Switch\n16 Port PoE Swich\n10G Fiber Switch",
+"16 Port 10G L3 Managed Industrial PoE Switch"
+],
+[
+"STI-4816XGCGM-U",
+"DONE",
+"Layer 3 Ethernet Switch\nRack Managed Switch\n10G Fiber Optic Switch",
+"Hardened Layer 3 Managed Rack 10G Network Switch"
+],
+[
+"STI-4816XGCGPM-U-2BT",
+"DONE",
+"16 Port PoE Switch\nPoE Managed Switch\nRack Core Switch",
+"10G Fiber Uplink 16 Port PoE Layer 3 Managed Switch"
+]
+]
+},
+"global source":{
+"state":"visible",
+"rows":[
+[
+"https://supplier.globalsources.com/product/management?jumpWay=callback"
+],
+[
+"https://www.globalsources.com/zhengzhou-saga/showroom_6002100054285.htm"
+],
+[
+"型号名",
+"Status",
+"核心词",
+"关键词",
+"Title"
+],
+[
+"Industrial Ethernet Switch"
+],
+[
+"STI-050FE",
+"DONE",
+"Network Switch",
+"5 Port Ethernet Switch\nFast Ethernet Switch\nDin Network Switch",
+"5 Port 10/100M Din Rail Ethernet Switch"
+],
+[
+"STI-050GE",
+"DONE",
+"Network Switch",
+"5 Port LAN Switch\nDin rail Ethernet Switch\nGigabit Network switch",
+"5 Port Unamanged Industrial Gigabit LAN Switch"
+],
+[
+"STI-080FE",
+"DONE",
+"Network Switch",
+"8 Port Lan Switch\nIndustrial Network switch\nFast Ethernet Switch",
+"8 port Unmanaged Fast Ethernet Industrial Switch"
+],
+[
+"STI-080GE",
+"DONE",
+"Network Switch",
+"Gigabit Lan Switch\n8 Port Network Switch\nIndustrial Ethernet Switch",
+"10/100M Gigabit Din Rail 8 Port Network Switch"
+],
+[
+"STI-110FE",
+"DONE",
+"Network Switch",
+"Industrial Media Converter\nFast Ethernet Converter\nFiber Media Converter",
+"10/100M Industrial Unmanaged Ethernet Fiber Converter"
+],
+[
+"STI-110GE",
+"DONE",
+"Network Switch",
+"Gigabit media converter\nNetwork Media Converter\nFiber Optic Converter",
+"Mini Industrial Gigabit Ethernet Media Converter"
+],
+[
+"STI-120FE",
+"DONE",
+"Network Switch",
+"10/100M Fiber Switch\nIndustrial Network Switch\nSFP Fiber Switch",
+"3 port 10/100M Fast Ethernet Unmanaged Fiber Switch"
+],
+[
+"STI-120GE",
+"DONE",
+"Network Switch",
+"Gigabit network switch\nEthernet Rail Switch\nDin Rail LAN Switch",
+"SFP Slot Fiber Industrial Gigabit Ethernet Switch"
+],
+[
+"STI-140FE",
+"DONE",
+"Network Switch",
+"Industrial Fiber Switch\nFast Ethernet Switch\n5 port LAN Switch",
+"10/100M Fiber 5 Port industrial  Ethernet Switch"
+],
+[
+"STI-140GE",
+"DONE",
+"Network Switch",
+"5 Port Fiber Switch\nGigabit Network Switch\nIndustrial Ethernet Switch",
+"5-Port Hardened Industrial Gigabit Ethernet Switch"
+],
+[
+"STI-150GE",
+"DONE",
+"Network Switch",
+"Gigabit Network Switch\nIndustrial Fiber Switch\n6 Port Ethernet Switch",
+"6 Port Unmanaged Gigabit Din Rail Network Switch"
+],
+[
+"STI-0160GE",
+"DONE",
+"Network Switch",
+"16 port Ethernet Switch\nGigabit Network Switch\nIndustrial LAN Switch",
+"16-Port Full Gigabit Unmanaged Industrial Ethernet Switch"
+],
+[
+"STI-180FE",
+"DONE",
+"Network Switch",
+"8 Port Network Switch\n10/100M Ethernet Switch\nDin Rail Switch",
+"8 Port Fast Ethernet Unmanaged Din Network Switch"
+],
+[
+"STI-180GE",
+"DONE",
+"Network Switch",
+"Gigabit fiber switch\nIndustrial Network switch\n8 port Gigabit switch",
+"8 port Gigabit Din rail SFP Fiber Switch"
+],
+[
+"STI-220FE",
+"DONE",
+"Network Switch",
+"10/100M fiber switch\nFast Ethernet Switch\nDin network switch",
+"4 Port 10/100M Unmanaged Industrial Fiber Optic Switch"
+],
+[
+"STI-220GE",
+"DONE",
+"Network Switch",
+"Fiber optical switch\nIndustrial LAN switch\n4 port gigabit switch",
+"Industrial Gigabit Ethernet 4 port Fiber Optical Switch"
+],
+[
+"STI-240FE",
+"DONE",
+"Network Switch",
+"Ethernet Fiber Switch\n100M Network Switch\nRugged Ethernet Switch",
+"6 Port Megabit Ethernet Fiber Optic Switch"
+],
+[
+"STI-240GE",
+"DONE",
+"Network Switch",
+"Rugged Ethernet switch\nGigabit fiber switch\n6 port Network switch",
+"Rugged Gigabit Ethernet 6 Port Din Rail Fiber Switch"
+],
+[
+"STI-260FE",
+"DONE",
+"Network Switch",
+"8 Port Ethernet Switch\nFiber Optical Switch\nHardened LAN Switch",
+"100M Fiber Hardened 8 Port Network Switch"
+],
+[
+"STI-280GE",
+"DONE",
+"Network Switch",
+"10 port Gigabit switch\nDin Rail Ethernet switch\nSFP fiber switch",
+"10 Port Gigabit Industrial Network Switch with SFP Uplink"
+],
+[
+"STI-480GE",
+"DONE",
+"Network Switch",
+"Gigabit Ethernet Switch\nDin rail network switch\nIndustrial Gigabit Switch",
+"12 Port Hardened Network Full Gigabit Fiber Switch"
+],
+[
+"STI-880GE",
+"DONE",
+"Network Switch",
+"Fiber network switch\nDin rail Gigabit switch\nIndustrial Ethernet switch",
+"8 Port SFP Gigabit Ethernet Industrial Unmanaged Switch"
+],
+[
+"STI-2160GE",
+"DONE",
+"Network Switch",
+"Din Rail Fiber switch\nGigabit Network switch\n16 port Gigabit switch",
+"16 port Gigabit network industrial fiber optic Switch"
+],
+[
+"Industrial Unmanaged PoE Switch"
+],
+[
+"STI-054FP",
+"DONE",
+"PoE Switch",
+"4 Port PoE Switch\nFast Ethernet PoE Switch\n5 Port Network Switch",
+"5 Port 10/100M Fast Ethernet PoE Switch"
+],
+[
+"STI-054GP",
+"DONE",
+"PoE Switch",
+"Industrial Ethernet Switch\nGigabit Network Switch\nDin PoE Switch",
+"Gigabit Ethernet 4 port Din PoE Switch"
+],
+[
+"STI-088FP",
+"DONE",
+"PoE Switch",
+"240W poe switch\nFast Ethernet switch\n8 Port LAN switch",
+"8 Port 100M PoE Din Rail Ethernet Switch"
+],
+[
+"STI-088GP",
+"DONE",
+"PoE Switch",
+"Din Network Switch\nGigabit LAN Switch\n240W PoE Switch",
+"240W budget 8 Port Gigabit PoE Unmanaged Switch"
+],
+[
+"STI-111FP",
+"DONE",
+"PoE Switch",
+"PoE media converter\nFiber Ethernet Converter\nFiber Optic Converter",
+"10/100M Unmanaged industrial PoE Media Converter"
+],
+[
+"STI-111GP",
+"DONE",
+"PoE Switch",
+"Gigabit Media Converter\nPoE Fiber Converter\nFiber Ethernet Optic Converter",
+"Gigabit Ethernet SFP Fiber PoE Media Converter"
+],
+[
+"STI-122FP",
+"DONE",
+"PoE Switch",
+"PoE Fiber Switch\nDin Ethernet Switch\nFast Ethernet poE Switch",
+"3 port Fast Ethernet Din PoE Fiber Switch"
+],
+[
+"STI-122GP",
+"DONE",
+"PoE Switch",
+"Rugged network switch\n60W PoE Switch\nGigabit optic Switch",
+"100/1000M Unmanaged Industrial PoE Fiber Switch"
+],
+[
+"STI-144FP",
+"DONE",
+"PoE Switch",
+"4 port poe switch\n100M Ethernet switch\nDin poe switch",
+"4 Port 10/100M fast Ethernet unmanaged PoE Switch"
+],
+[
+"STI-144GP",
+"DONE",
+"PoE Switch",
+"Industrial Network Switch\n5 port Fiber Switch\nDin Rail Switch",
+"5 Port Gigabit Din Rail PoE Fiber Switch"
+],
+[
+"STI-154GP",
+"DONE",
+"PoE Switch",
+"Gigabit PoE switch\nIndustrial Network switch\n6 port gigabit switch",
+"6 Port Gigabit Industrial PoE Switch with SFP/RJ45 Uplink"
+],
+[
+"STI-188FP",
+"DONE",
+"PoE Switch",
+"8 port poe switch\n10/100M network switch\nDin rail poE switch",
+"8 Port 10/100M Din Rail Network PoE Switch"
+],
+[
+"STI-188GP",
+"DONE",
+"PoE Switch",
+"8 Port Gigabit Switch\nGigabit PoE switch\nSFP fiber switch",
+"8 Port Gigabit Din PoE Switch With SFP Uplink"
+],
+[
+"STI-222FP",
+"DONE",
+"PoE Switch",
+"Fast Ethernet Network switch\n4 port poe switch\nSFP fiber switch",
+"4 Port 10/100M SFP Fiber Network PoE Switch"
+],
+[
+"STI-222GP",
+"DONE",
+"PoE Switch",
+"Gigabit POE switch\nIndustrial Fiber switch\nPoE Network switch",
+"Gigabit SFP/RJ45 Industrial 4 Port PoE Fiber Switch"
+],
+[
+"STI-244FP",
+"DONE",
+"PoE Switch",
+"6 port Fiber Switch\nDin rail PoE switch\n10/100M network switch",
+"6 port Full 10/100M Din Rail Fiber PoE Switch"
+],
+[
+"STI-244GP",
+"DONE",
+"PoE Switch",
+"Gigabit PoE Switch\nDin rail Fiber Switch\n4 port poe switch",
+"4 Port Gigabit Din PoE Fiber Switch"
+],
+[
+"STI-266FP",
+"DONE",
+"PoE Switch",
+"Network Fiber Switch\nMegabit Network switch\n8 port poe switch",
+"SFP Fiber 10/100M Network 8 port Din PoE Switch"
+],
+[
+"STI-288GP",
+"DONE",
+"PoE Switch",
+"Gigabit PoE Switch\n8 port Ethernet switch\nPoE Fiber switch",
+"8 port Gigabit Ethernet Fiber PoE Switch"
+],
+[
+"STI-488GP",
+"DONE",
+"PoE Switch",
+"8 Port PoE Switch\nGigabit network switch\nIndustrial Fiber switch",
+"12 Port Gigabit Fiber Network Industrial PoE Switch"
+],
+[
+"STI-888GP",
+"DONE",
+"PoE Switch",
+"16 Port Gigabit Switch\n240W PoE Switch\nFiber optic Switch",
+"16 Port Full Gigabit Rugged Ethernet Fiber PoE Switch"
+],
+[
+"STI-01616GP",
+"DONE",
+"PoE Switch",
+"240W poe switch\n16 port PoE switch\nindustrial gigabit switch",
+"240W Unmanaged 16 Port Industrial Ethernet PoE switch"
+],
+[
+"STI-21616GP",
+"DONE",
+"PoE Switch",
+"Gigabit network switch\nDin PoE switch\nIndustrial Fiber switch",
+"16 port Din Rail PoE Switch with 2 Gigabit SFP Uplink"
+],
+[
+"Din Power Adapter"
+],
+[
+"STI-PA-240W-48V5A",
+"DONE",
+"Power Adapter",
+"240W Power Supply\nDin Power adapter\nPoE power supply",
+"DC48V 120W Output Din Rail PoE Power Supply"
+],
+[
+"STI-PA-120W-12V10A",
+"DONE",
+"Power Adapter",
+"120W Power Adapter\nDin Power Unit\n12V Power Supply",
+"12V 120W Industrial Din Rail Power Adapter"
+],
+[
+"STI-PA-120W-24V5A",
+"DONE",
+"Power Adapter",
+"Industrial Power Adapter\nDin Rail Power Unit\n24V Power Supply",
+"24V Din Rail Industrial Power Adapter"
+],
+[
+"STI-PA-120W-48V2.5A",
+"DONE",
+"Power Adapter",
+"120W power supply\nDin rail power adapter\nDC power module",
+"120W Industrial PoE Power Supply"
+],
+[
+"STI-PA-150W-24V6.25A",
+"DONE",
+"Power Adapter",
+"150W power adapter\nIndustrial power supply\nAC power converter",
+"24V 150W Din Rail AC/DC Power Converter"
+],
+[
+"STI-PA-240W-24V10A",
+"DONE",
+"Power Adapter",
+"24V power module\n240W power supply\nIndustrial power converter",
+"24V 10A Industrial Grade Power Module"
+],
+[
+"STI-PA-480W-24V20A",
+"DONE",
+"Power Adapter",
+"480W power module\n24V power adapter\n20A Power converter",
+"480W Din Rail Power Module"
+],
+[
+"STI-PA-480W-48V10A",
+"DONE",
+"Power Adapter",
+"480W power supply\nPoE power adapter\n48V power converter",
+"48V 480W Industrial PoE Power Supply"
+],
+[
+"STI-PA-15W-5V3A",
+"DONE",
+"Power Adapter",
+"Industrial Power Module\n5V power supply\nAC power converter",
+"5V Industrial Din Rail Power Unit"
+],
+[
+"STI-PA-20W-12V1.67A",
+"DONE",
+"Power Adapter",
+"20W power module\n12V DC power converter\nIndustrial power supply",
+"12V AC/DC Industrial Power Converter"
+],
+[
+"STI-PA-20W-15V1.34A",
+"DONE",
+"Power Adapter",
+"20W power unit\nIndustrial power converter\nAC power adapter",
+"20W Din Rail Power Adapter"
+],
+[
+"STI-PA-20W-24V0.83A",
+"DONE",
+"Power Adapter",
+"24V power module\nDin Rail Power Supply\nAC DC power adapter",
+"24VDC Industrial Din Power Module"
+],
+[
+"STI-PA-24W-12V2A",
+"DONE",
+"Power Adapter",
+"12V Power Converter\nIndustrial Power Module\n2A Power Adapter",
+"AC/DC 24W Din Industrial Power Adapter"
+],
+[
+"STI-PA-24W-24V1A",
+"DONE",
+"Power Adapter",
+"24VDC Power Converter\nIndustrial Power Module\nAC Power Adapter",
+"24VDC 1A Din Rail Power Unit"
+],
+[
+"STI-PA-75W-12V6.3A",
+"DONE",
+"Power Adapter",
+"Industrial Power Module\n12V Power Supply\nDin Rail Power Adapter",
+"75W Metal Case Din Power Supply"
+],
+[
+"STI-PA-75W-24V3.2A",
+"DONE",
+"Power Adapter",
+"24V power converter\nIndustrial power adapter\nDin rail power module",
+"24V Industrial Din Power Converter"
+],
+[
+"STI-PA-75W-48V1.56A",
+"DONE",
+"Power Adapter",
+"48V Power Adapter\nPoE Power Supply\n75W power module",
+"75W Industrial PoE Power Adapter"
+],
+[
+"Ethernet Media Converter"
+],
+[
+"STC-110FE",
+"DONE",
+"Media Converter",
+"Fiber Media Converter\nFast Ethernet Media Converter\nFiber Optic Converter",
+"Unmanaged Fast Ethernet Fiber Media Converter"
+],
+[
+"STC-110GE",
+"DONE",
+"Media Converter",
+"Gigabit Media Converter\nFiber Media Converter\nEthernet Fiber Optic Converter",
+"10/100M Gigabit Fiber Ethernet Media Converter"
+],
+[
+"STC-110XGE",
+"DONE",
+"Media Converter",
+"Network Media Converter\n10G Media Converter\nSFP+ Media Converter",
+"Unmanaged 10G Ethernet Fiber Media Converter"
+],
+[
+"STC-14DUR",
+"DONE",
+"Media Converter",
+"media converter chassis\n14-Slot Rackmount Chassis\nMedia converter rack",
+"2U Size Dual Power 14-slot Media Converter Chassis"
+],
+[
+"Industrial Managed Switch"
+],
+[
+"STI-240FM",
+"1",
+"Network Switch",
+"Industrial Managed Switch\n10/100M Network Switch\n4 Port LAN Switch",
+"4 port 10/100M Ethernet Industrial Managed Switch"
+],
+[
+"STI-240GM",
+"2",
+"Network Switch",
+"Gigabit Network switch\nLite managed Switch\nIndustrial Fiber Switch",
+"6 Port Full Gigabit Lite Managed Fiber Switch"
+],
+[
+"STI-244FPM",
+"3",
+"Network Switch",
+"4 Port PoE Switch\nPoE managed switch\nIndustrial Ethernet switch",
+"4 Port Fast Ethernet PoE Managed Switch"
+],
+[
+"STI-244GPM",
+"4",
+"Network Switch",
+"120W poe switch\nGigabit managed switch\nIndustrial gigabit switch",
+"4 Port PoE 120W Gigabit Managed Ethernet Switch"
+],
+[
+"STI-280GM",
+"5",
+"Network Switch",
+"Gigabit LAN switch\nLayer 2 managed switch\n10 port Gigabit switch",
+"10 Port Layer 2 Managed Gigabit Network Switch"
+],
+[
+"STI-288GPM",
+"6",
+"Network Switch",
+"8 port Gigabit switch\n240W poe switch\nSmart Managed Switch",
+"8 Port Gigabit PoE 240W Smart Managed Switch"
+],
+[
+"STI-448DGGGM",
+"7",
+"Network Switch",
+"2.5G fiber switch\nlayer 2 managed switch\nIndustrial gigabit switch",
+"Layer 2 Managed 1G 2.5G Fiber Optic Switch"
+],
+[
+"STI-480DGGM",
+"8",
+"Network Switch",
+"Managed Ethernet Switch\n2.5G network switch\n4 port Fiber switch",
+"4 Port 2.5G Fiber Managed Network Switch"
+],
+[
+"STI-488DGGGM",
+"9",
+"Network Switch",
+"Gigabit LAN switch\nDin rail managed switch\nManaged network switch",
+"Din Rail Gigabit Ethernet Managed Switch"
+],
+[
+"STI-2160DGGM",
+"10",
+"Network Switch",
+"16 port LAN switch\nManaged Network Switch\nGigabit Fiber switch",
+"16 Port Gigabit Ethernet Managed Fiber Switch"
+],
+[
+"STI-4168DGGCM-U",
+"11",
+"Network Switch",
+"Fiber Ethernet switch\nGigabit Managed Switch\n24 port rack switch",
+"24 Port Rack Gigabit Fiber Ring Managed Switch"
+],
+[
+"STI-4240DGGM",
+"12",
+"Network Switch",
+"24 Port managed switch\nDin rail Gigabit switch\nGigabit Ethernet switch",
+"24 Port Din Rail Layer 2 Managed Gigabit Switch"
+],
+[
+"STI-4240DGGM-U",
+"13",
+"Network Switch",
+"24 port rack switch\nManaged fiber switch\nGigabit network switch",
+"24 Port Gigabit Ethernet Rack Managed Fiber Switch"
+],
+[
+"STI-4816DGCGM-U",
+"14",
+"Network Switch",
+"16 port managed switch\nGigabit LAN switch\nRack Managed Switch",
+"16 Port Gigabit Network Rack Manageable Switch"
+],
+[
+"STI-288DGGPM",
+"15",
+"Network Switch",
+"8 port PoE switch\n2.5G fiber optic switch\nVLAN managed switch",
+"8 Port VLAN Managed 240W PoE Fiber Switch"
+],
+[
+"STI-21616DGGPM",
+"16",
+"Network Switch",
+"16 Port PoE switch\n2.5G Ethernet Switch\nDin rail Managed switch",
+"16 Port Din Rail Gigabit Ethernet Fiber POE Switch"
+],
+[
+"STI-42424DGGPM-U",
+"17",
+"Network Switch",
+"24 Port 2.5G Switch\nGigabit Network switch\nManaged Rack Switch",
+"1G/2.5G Fiber Rack Gigabit Managed Network Switch"
+],
+[
+"STI-448XGGGM",
+"18",
+"Network Switch",
+"10G fiber switch\nL2 managed switch\nIndustrial network switch",
+"10G Layer 2 Managed Network Fiber Switch"
+],
+[
+"STI-4168XGGCM-U",
+"19",
+"Network Switch",
+"16 port Managed switch\n10G network switch\nDin rail Fiber Switch",
+"16 Port Gigabit Network 10G Managed Fiber Switch"
+],
+[
+"STI-4240XGGM",
+"20",
+"Network Switch",
+"Din rail Ethernet Switch\n24 port fiber switch\n10G managed switch",
+"24 Port Gigabit Managed Switch with 10G Uplink"
+],
+[
+"STI-448XGGGPM",
+"21",
+"Network Switch",
+"8 port poe switch\nPoE managed switch\n10G fiber switch",
+"8 Port PoE Din Rail 10G Managed Fiber Switch"
+],
+[
+"STI-42424XGGPM",
+"22",
+"Network Switch",
+"24 port poe switch\n10G Fiber switch\nDin Managed switch",
+"10G SFP Fiber Din 24 Port PoE Managed Switch"
+],
+[
+"STI-244DGGPM-2BT",
+"23",
+"Network Switch",
+"240W poe switch\nLayer 2 managed switch\n2.5G fiber switch",
+"4 Port PoE++ 240W 2.5G Fiber L2 Managed Switch"
+],
+[
+"STI-288DGGPM-2BT",
+"24",
+"Network Switch",
+"90W poe switch\n2.5G managed switch\nfiber optic switch",
+"8 Port Ultra PoE 2.5G Managed Fiber Optic Switch"
+],
+[
+"STI-4816XGCGPM-U-2BT",
+"25",
+"Network Switch",
+"16 port poe switch\nUltra PoE switch\nManaged Ethernet Switch",
+"16 Port 90W PoE Rack Managed Ethernet Switch"
+],
+[
+"STI-42424XGGPM-U-2BT",
+"26",
+"Network Switch",
+"24 port poe switch\n90W PoE switch\n10G Managed Switch",
+"24 Port PoE++ 10 Gigabit Layer 2 Managed Switch"
+],
+[
+"STI-480XGGM",
+"27",
+"Network Switch",
+"8 port 10G switch\nL3 managed switch\nRack Network switch",
+"8 Port 10G Layer 3 Managed Network Switch"
+],
+[
+"STI-4240XGGM-U",
+"28",
+"Network Switch",
+"24 port 10G switch\nManaged Fiber switch\nGigabit Ethernet switch",
+"24 Port Gigabit Ethernet 10G Managed Optic Switch"
+],
+[
+"STI-4480XGGM-U",
+"29",
+"Network Switch",
+"48 port managed switch\n10G fiber switch\nRack Ethernet switch",
+"48 Port Gigabit Ethernet 10G Rack Managed Switch"
+],
+[
+"STI-21616XGGPM",
+"30",
+"Network Switch",
+"16 port poe switch\n10G network switch\nLayer 3 managed switch",
+"10G Uplink 16 Port Din PoE Layer 3 Managed Switch"
+],
+[
+"STI-42424XGGPM-U",
+"31",
+"Network Switch",
+"24 port poe switch\nRack managed switch\n10G fiber optic switch",
+"10G Rack Managed 24 Port PoE Fiber Switch"
+],
+[
+"STI-41616XGGPM-4BT",
+"32",
+"Network Switch",
+"poe switch 16 port\nGigabit managed switch\nDin rail 10G switch",
+"16 Port PoE Din Rail Gigabit Network Managed Switch"
+],
+[
+"STI-42424XGGPM-4BT",
+"33",
+"Network Switch",
+"poe switch 24 port\n10G managed switch\nPoE network switch",
+"24 Port Ultra PoE L3 Managed Ethernet Switch"
+]
+]
+},
+"ST":{
+"state":"visible",
+"rows":[
+[
+"Commercial Ethernet Switch",
+"关键词",
+"Title"
+],
+[
+"STC-05GE",
+"Network Switch\nEthernet Switch\n5 Port LAN Switch",
+"5 Port Gigabit Unmanaged Network Switch"
+],
+[
+"STC-08GE",
+"Network Switch\nUnmanaged Ethernet Switch\n8 Port LAN Switch",
+"8 Port 10/100/1000M LAN Switch"
+],
+[
+"STC-08XGE",
+"LAN Switch\n10G Switch\n8 Port Network Switch",
+"8 Port 10G Ethernet Switch"
+],
+[
+"STC-15XGDGE",
+"2.5G Ethernet Switch\n2.5G Network Switch\n2.5G Switch",
+"5 port 2.5G Ethernet Switch For WIFI 5 WIFI 6"
+],
+[
+"STC-18XGDGE",
+"2.5G Network Switch\n10G Fiber Switch\n8 Port 2.5G Switch",
+"8 port 2.5G Unmanaged Switch with 10G Uplink"
+],
+[
+"STC-016GE",
+"16 port LAN switch\nGigabit Network Switch\nEthernet Switch",
+"16 Port Rack Mounted Commercial Network Switch"
+],
+[
+"STC-024GE-D",
+"24 Port Gigabit Switch\nUnmanaged Network switch\n24 port Lan Switch",
+"24 Port Desktop Gigabit Copper Switch"
+],
+[
+"STC-024GE-U",
+"VLAN Gigabit Switch\nRack Switch\nUnmanaged Switch",
+"24 Port Rack Unmanaged Gigabit Network Switch"
+],
+[
+"STC-224GE",
+"Gigabit Fiber Switch\n24 port Lan switch\nUnmanaged Network switch",
+"24 port Rack VLAN Gigabit Unmanaged Switch"
+],
+[
+"STC-224XGDGE",
+"2.5G Lan Switch\n10G Fiber Switch\n24 port Rack switch",
+"24 port 1G/2.5G Ethernet Fiber Switch"
+],
+[
+"STC-248GE",
+"Gigabit Fiber Switch\n48 port Lan switch\n48 port Network switch",
+"48 Port Rack Gigabit Fiber Commercial Switch"
+],
+[
+"STC-80XGO",
+"Fiber Optic Switch\n10G switch\n8 Port Fiber Switch",
+"8 port 10G Fiber Optic Switch"
+],
+[
+"STC-216XGDGE",
+"16 port Network switch\n10G fiber switch\n2.5G Ethernet switch",
+"16 Port Unmanaged 1G/2.5G/10G Switch"
+],
+[
+"Commercial Managed Switch",
+"关键词",
+"Title"
+],
+[
+"STC-28GM",
+"8 Port Network switch\nGigabit Managed switch\nL2 managed switch",
+"8 Port Smart Managed Gigabit Fiber Switch"
+],
+[
+"STC-28GPM",
+"8 Port PoE switch\nPoE Managed switch\nGigabit network switch",
+"8 Port PoE VALN ERPS Managed Network Switch"
+],
+[
+"STC-120XGM",
+"10G Fiber Switch\nUnmanaged 10G Switch\nFiber optical switch",
+"12 port Layer 3 Managed 10G Optic Switch"
+],
+[
+"STC-424GM",
+"24 Port Managed switch\nGigabit Ethernet Switch\nLayer 2 Managed switch",
+"24 Port MRP VLAN Managed Gigabit Switch"
+],
+[
+"STC-424XGGM",
+"Layer 2 switch\n10G fiber switch\nRack managed switch",
+"24 Port Layer 2 Managed Rack 10G Fiber Switch"
+],
+[
+"STC-424XGGPM",
+"10G Managed switch\n24 port ring switch\n24 port poe switch",
+"24 Port PoE 10G Managed LAN Switch"
+],
+[
+"STC-448XGGM",
+"10G access switch\n48 port network switch\nmanaged switch",
+"48 Port Managed 10G Access Network Switch"
+],
+[
+"STC-448XGGPM",
+"90W poe switch\n10G poe switch\nLayer 3 Managed switch",
+"48 Port L3 Managed Commercial Access PoE Switch"
+],
+[
+"STC-624XGDGM",
+"2.5G network switch\nFiber optic switch\n24 port 10G switch",
+"24 Port 2.5G Network Switch with 10G Fiber"
+],
+[
+"STC-624XGDGPM",
+"2.5G poe switch\nL2 managed switch\n24 port network switch",
+"24 Port PoE af/at/bt Rack Managed 2.5G Switch"
+],
+[
+"STC-2216GPM",
+"16 port poe switch\nGigabit fiber switch\nManaged rack switch",
+"16 Port L2 Smart Managed PoE Switch"
+],
+[
+"STC-4248XGGCM",
+"Managed fiber switch\n10G core switch\n24 port managed switch",
+"24 Port Rack Managed Core Fiber Switch"
+],
+[
+"STC-4424GCPM",
+"24 port poe switch\nPoE managed switch\nlayer 2 gigabit switch",
+"24 Port Ring PoE Managed Gigabit Combo Switch"
+],
+[
+"Commercial PoE Switch",
+"关键词",
+"Title"
+],
+[
+"STC-128GFP",
+"CCTV poe switch\n8 port poe switch\nFast Ethernet switch",
+"8 Port Smart PoE Network Switch"
+],
+[
+"STC-024FP",
+"4 port poe switch\n10/100M network switch\n60w poe switch",
+"6 Port 10/100M PoE Ethernet Switch"
+],
+[
+"STC-024GP",
+"4 port poe switch\nGigabit poe switch\n6 port network switch",
+"4 Port Gigabit PoE Switch with Copper Uplink"
+],
+[
+"STC-028FP",
+"8 port poe switch\nFast Ethernet poe switch\n120w poe switch",
+"10 port Fast Ethernet CCTV PoE Switch"
+],
+[
+"STC-028GFP",
+"8 port Gigabit switch\n8 port poe switch\n8 port network switch",
+"8 Port Megabit PoE Gigabit Network Switch"
+],
+[
+"STC-028GP",
+"Gigabit Ethernet switch\n8 port poe switch\n8 port Gigabit switch",
+"10 Port Full Ethernet Gigabit PSE Switch"
+],
+[
+"STC-108XGDGP",
+"2.5G poe switch\n10G fiber switch\n8 port 10G switch",
+"8 port 2.5G PoE Switch"
+],
+[
+"STC-114GP",
+"4 port poe switch\nGigabit fiber switch\nGigabit nework switch",
+"4 Port Full Gigabit PoE Switch"
+],
+[
+"STC-114XGDGP",
+"4 port poe switch\n2.5G Ethernet switch\n10G switch",
+"4 Port PoE 2.5G Unmanaged Network Switch"
+],
+[
+"STC-204GP",
+"Gigabit Fiber switch\npoe switch 4 port\nGigabit PoE switch",
+"4 Port PoE Gigabit Fiber Optical Switch"
+],
+[
+"STC-208GP",
+"Gigabit Fiber switch\nFiber optic switch\n8 Port PoE switch",
+"8 Port Gigabit PoE Optic Switch"
+],
+[
+"STC-0216GFP",
+"16 port poe switch\nGigabit unmanaged switch\nRack VLAN switch",
+"16 port PoE Rack Mounted LAN Switch"
+],
+[
+"STC-0224GFP",
+"24 port poe switch\nGigabit fiber switch\nPoE network switch",
+"24 Port PoE Network Unmanaged Switch"
+],
+[
+"STC-228GP",
+"8 port poe switch\nGigabit unmanaged switch\nCommecial Fiber Switch",
+"12 Port Unmanaged PoE Gigabit Fiber Switch"
+],
+[
+"STC-1216GFP",
+"16 port poe switch\nGigabit Fiber Switch\nVLAN network switch",
+"16 Port Hybrid Rate PoE Switch"
+],
+[
+"STC-1224GFP",
+"24 port poe switch\nUnmanaged Gigabit Switch\n24 port rack switch",
+"24 Port Gigabit Uplink PoE Fiber Network Switch"
+],
+[
+"STC-2016GP",
+"16 port poe switch\nGigabit network Switch\n250m poe switch",
+"16 Port 300W PoE Gigabit Fiber Uplink Switch"
+],
+[
+"STC-2024GP",
+"24 port poe switch\nFiber optical Switch\nUnmanaged VLAN switch",
+"24 Port PoE 300W Budget Rack Unmanaged Switch"
+],
+[
+"STC-2216GP",
+"16 port poe switch\nGigabit network Switch\nUnmanaged Fiber switch",
+"16 Port Commercial PoE Switch With Gigabit Uplink"
+],
+[
+"STC-2224GP",
+"24 port poe switch\nGigabit Ethernet Switch\nRack Unmanaged switch",
+"28 Port Unmanaged Gigabit Fiber Optic PoE Switch"
+],
+[
+"Din Power Adapter",
+"关键词",
+"Title"
+],
+[
+"STI-PA-15W-5V3A",
+"5V power adapter\nindustrial power supply\n20W power module",
+"5V Plastic Case Industrial Power Adapter"
+],
+[
+"STI-PA-20W-12V1.67A",
+"12V power supply\nindustrial power adapter\n20W power unit",
+"12V Din Mounted AC Power Converter"
+],
+[
+"STI-PA-20W-15V1.34A",
+"20W power supply\nAC/DC power adapter\n15V power module",
+"20W Industrial Din Power Supply"
+],
+[
+"STI-PA-20W-24V0.83A",
+"Din power adapter\n24V power supply\nAC Power converter",
+"24V Output Industrial AC Power Supply"
+],
+[
+"STI-PA-24W-12V2A",
+"24V power converter\nDin rail power adapter\n24W power unit",
+"12V Industrial Power Adapter"
+],
+[
+"STI-PA-24W-24V1A",
+"24V power adapter\nIndustrial power supply\nDC power converter",
+"24VDC Power Converter"
+],
+[
+"STI-PA-75W-12V6.3A",
+"75W power supply\n12V power converter\nDin rail power module",
+"Industrial Power Supply 12V"
+],
+[
+"STI-PA-75W-24V3.2A",
+"24V DC converter\nDin Power supply\n75W power unit",
+"75W Din Power Converter"
+],
+[
+"STI-PA-75W-48V1.56A",
+"PoE Power supply\n48V power adapter\nDin power converter",
+"48V Industrial PoE Power Supply"
+],
+[
+"STI-PA-120W-12V10A",
+"12V power adapter\n10A power supply\n120W power unit",
+"12V AC/DC Din Power Adaptor"
+],
+[
+"STI-PA-120W-24V5A",
+"120W Power supply\n24V Din power converter\nAC/DC power supply",
+"Industrial Power Adapter 24V"
+],
+[
+"STI-PA-120W-48V2.5A",
+"PoE Power supply\n48V power converter\n120W power module",
+"120W Industrial Din Power Converter"
+],
+[
+"STI-PA-150W-24V6.25A",
+"AC power adapter\n24VDC power converter\n150W power supply",
+"24V 150W Budget AC Adaptor"
+],
+[
+"STI-PA-240W-24V10A",
+"24V power adapter\n240W power supply\nAC/DC Power Module",
+"24V Industrial AC/DC Power Supply"
+],
+[
+"STI-PA-240W-48V5A",
+"240W power supply\nPoE power adapter\nDC48V power converter",
+"240W Din Rail PoE Power Adaptor"
+],
+[
+"STI-PA-480W-24V20A",
+"480W power supply\n20W power adapter\n24V power module",
+"20A Din Rail Electrical Adaptor"
+],
+[
+"STI-PA-480W-48V10A",
+"48V power unit\nPoE power module\n48V power supply",
+"480W Industrial Grade Power Unit"
+],
+[
+"Industrial Unmanaged Switch",
+"关键词",
+"Title"
+],
+[
+"STI-050FE",
+"5 port network switch\nfast Ethernet switch\ndin rail switch",
+"5 Port 10/100M Ethernet Switch"
+],
+[
+"STI-050GE",
+"5 port Ethernet switch\nGigabit network switch\nUnmanaged din switch",
+"5 Port Din Network Switch"
+],
+[
+"STI-054FP",
+"PoE switch 4 port\n10/100M switch\ndin poe switch",
+"4 Port PoE 120W LAN Switch"
+],
+[
+"STI-054GP",
+"5 Port LAN switch\n4 port PoE switch\nGigabit network switch",
+"5 Port Gigabit PoE Switch"
+],
+[
+"STI-080FE",
+"Industrial Ethernet switch\nFast Ethernet network switch\n8 port Unmanaged switch",
+"8 Port Compact Unmanaged Switch"
+],
+[
+"STI-080GE",
+"Din Ethernet switch\n8 port Unmanaged switch\nGigabit network switch",
+"8 Port Mini Gigabit Industrial Switch"
+],
+[
+"STI-088FP",
+"industrial PoE switch\n8 port PoE switch\nfast ethernet switch",
+"8 Port PoE Industrial Unmanaged Switch"
+],
+[
+"STI-088GP",
+"Gigabit PoE switch\nDin network switch\n8 port ethernet switch",
+"8 Port PoE 240W Industrial LAN Switch"
+],
+[
+"STI-110FE",
+"Din rail media converter\nfast ethernet optic converter\nindustrial unmanaged media converter",
+"Din Rail 10/100Mbps Ethernet Fiber converter"
+],
+[
+"STI-110GE",
+"Gigabit media converter\nindustrial fiber ethernet converter\nfiber optic converter",
+"Industrial Gigabit Fiber Media Converter"
+],
+[
+"STI-111FP",
+"PoE media converter\nDin ethernet fiber converter\n10/100M media converter",
+"Din Rail Industrial PoE Fiber Converter"
+],
+[
+"STI-111GP",
+"PoE fiber media converter\nGigabit ethernet fiber converter\nDin fiber optic converter",
+"Mini Gigabit Ethernet PoE Media Converter"
+],
+[
+"STI-120FE",
+"Unmanaged network switch\nindustrial ethernet switch\n10/100M fiber switch",
+"3 Port Industrial Unmanaged Network Switch"
+],
+[
+"STI-120GE",
+"fiber optic switch\ngigabit fiber switch\ndin unmanaged switch",
+"Gigabit Ethernet Fiber Optic Switch"
+],
+[
+"STI-122FP",
+"60W poe switch\nmegabit ethernet switch\nindustrial network switch",
+"60W Megabit Industrial Fiber Switch"
+],
+[
+"STI-122GP",
+"Gigabit poe switch\nGigabit fiber switch\npoe unmanaged switch",
+"2 port Din PoE Unmanaged Switch"
+],
+[
+"STI-220FE",
+"industrial fiber switch\ndin ethernet switch\nunmanaged network switch",
+"4 port 10/100M Ethernet Switch"
+],
+[
+"STI-220GE",
+"Gigabit network switch\ndin fiber switch\nindustrial gigabit switch",
+"Industrial Gigabit Network Switch"
+],
+[
+"STI-222FP",
+"2 port poe switch\n60w poe switch\nindustrial fiber switch",
+"60W PoE Unmanaged Fiber Switch"
+],
+[
+"STI-222GP",
+"Gigabit poe switch\nindustrial network switch\nUnmanaged fiber switch",
+"4 Port Gigabit Din PoE Switch"
+],
+[
+"STI-140FE",
+"5 port network switch\nindustrial unmanaged switch\ndin fiber switch",
+"5 Port 10/100M Fiber Switch"
+],
+[
+"STI-140GE",
+"Gigabit ethernet switch\ndin network switch\n5 port gigabit switch",
+"5 Port Gigabit Unmanaged LAN switch"
+],
+[
+"STI-144FP",
+"120w poe switch\n4 port poe switch\n10/100M fiber switch",
+"4 Port PoE 120W Din Network Switch"
+],
+[
+"STI-144GP",
+"Gigabit fiber switch\n120W poe switch\nindustrial poe switch",
+"Industrial Gigabit Fiber PoE Switch"
+],
+[
+"STI-150GE",
+"6 port Gigabit switch\nCCTV network switch\nindustrial fiber switch",
+"6 Port Gigabit LAN Industrial Switch"
+],
+[
+"STI-154GP",
+"Gigabit fiber switch\nDin network switch\nindustrial poe switch",
+"4 Port PoE Fiber Switch with Gigabit Uplink"
+],
+[
+"STI-0160GE",
+"16 port Network switch\nDin rail Ethernet switch\ngigabit lan switch",
+"16 Port 10/100/1000M Unmanaged LAN Switch"
+],
+[
+"STI-180FE",
+"8 port Network switch\nindustrial fiber switch\nfast ethernet unmanaged switch",
+"8 port 10/100Mbps Unmanaged Switch"
+],
+[
+"STI-180GE",
+"fiber optical switch\ngigabit Ethernet switch\nindustrial fiber switch",
+"Gigabit Based 8 Port Network Switch"
+],
+[
+"STI-188FP",
+"8 port poe switch\nindustrial poe switch\n10/100M poe switch",
+"8 Port Outdoor CCTV PoE Switch"
+],
+[
+"STI-188GP",
+"240W poe switch\ndin fiber switch\n8 port network switch",
+"240W Budget 8 port PoE Gigabit Switch"
+],
+[
+"STI-240FE",
+"6 port network switch\n10/100M fiber switch\nunmanaged ethernet switch",
+"6 Port Fast Ethernet Switch"
+],
+[
+"STI-240GE",
+"gigabit fiber switch\ndin unmanaged switch\n6 port ethernet switch",
+"4 Port Unmanaged Din Lan Switch"
+],
+[
+"STI-244FP",
+"4 port poe switch\nmegabit ethernet switch\n120w poe switch",
+"120W PoE Fiber Optical Switch"
+],
+[
+"STI-244GP",
+"poe fiber switch\nindustrial gigabit switch\npoe switch 4 port",
+"4 Port PoE Industrial Gigabit Fiber Switch"
+],
+[
+"STI-260FE",
+"8 port Ethernet switch\ndin network switch\nunmanaged fiber switch",
+"8 Port Din Mounted Unmanaged Switch"
+],
+[
+"STI-266FP",
+"8 port poe switch\nindustrial network switch\n10/100M fiber switch",
+"8 port Megabit Based PoE Switch"
+],
+[
+"STI-280GE",
+"8 port gigabit switch\nunmanaged network switch\nindustrial fiber switch",
+"10 Port Gigabit Network Fiber Switch"
+],
+[
+"STI-288GP",
+"poe switch 8 port\ngigabit fiber switch\ndin poe switch",
+"8 Port 240W PoE Optical Switch"
+],
+[
+"STI-480GE",
+"Gigabit network switch\nDin fiber switch\nunmanaged industrial switch",
+"12 Port Full Gigabit Network Switch"
+],
+[
+"STI-488GP",
+"industrial poe switch\npoe switch 8 port\ngigabit fiber switch",
+"240W Din PoE Switch"
+],
+[
+"STI-880GE",
+"16 port fiber switch\ndin network switch\nunmanaged gigabit switch",
+"16 Port Gigabit Unmanaged Ethernet Switch"
+],
+[
+"STI-888GP",
+"8 port poe switch\npoe switch 240W\nindustrial fiber switch",
+"8 Port PoE Gigabit Industrial Fiber Switch"
+],
+[
+"STI-01616GP",
+"240W poe switch\npoe switch 16 port\n16 port Ethernet switch",
+"16 Port PoE Industrial Ethernet Switch"
+],
+[
+"STI-2160GE",
+"Gigabit network switch\n16 port fiber switch\nindustrial Ethernet switch",
+"18 Port Gigabit Unmanaged Fiber Switch"
+],
+[
+"STI-21616GP",
+"16 port poe switch\nindustrial network switch\nfiber optic switch",
+"240W Budget Gigabit PoE Switch"
+],
+[
+"Industrial Managed Switch",
+"关键词",
+"Title"
+],
+[
+"L2"
+],
+[
+"STI-288GPM",
+"layer 2 ethernet switch\nlite managed switch\n8 port poe switch",
+"8 Port Industrial CCTV PoE Lite Managed Switch"
+],
+[
+"STI-240FM",
+"fast Ethernet managed switch\nmanaged fiber switch\ndin ethernet switch",
+"4 port 10/100M Fast Ethernet Managed Switch"
+],
+[
+"STI-240GM",
+"Gigabit managed switch\nlite managed switch\nindustrial fiber switch",
+"Full Gigabit Industrial Managed Fiber Switch"
+],
+[
+"STI-244FPM",
+"4 port poe switch\npoe managed switch\n10/100M managed switch",
+"120W CCTV PoE Din Managed Optic Switch"
+],
+[
+"STI-244GPM",
+"120w poe switch\ndin managed switch\n10/100M fiber switch",
+"4 Port PoE Managed Network Switch"
+],
+[
+"STI-280GM",
+"8 port managed switch\nGigabit fiber switch\nindustrial gigabit switch",
+"10 Port Gigabit Din Managed Switch"
+],
+[
+"L2+ BT"
+],
+[
+"STI-244DGGPM-2BT",
+"Ultra PoE Switch\nL2 Managed switch\nIndustrial gigabit switch",
+"2 port 802.3bt Gigabit MRP Managed Switch"
+],
+[
+"STI-288DGGPM-2BT",
+"8 port poe switch\nPoE managed switch\n2.5G Ethernet switch",
+"8 Port Gigabit Managed PoE Switch 240W"
+],
+[
+"STI-488DGGPM-2BT",
+"POE++ switch\nGigabit managed switch\nDin rail Ethernet switch",
+"2.5G Ultra PoE Din Managed Fiber Switch"
+],
+[
+"STI-4816DGCGPM-U-2BT",
+"PoE Network switch\nRack Managed Switch\n90W poe switch",
+"90W PoE Rack Managed Combo Network Switch"
+],
+[
+"STI-4816XGCGPM-U-2BT",
+"10G Rack switch\nSFP+ managed switch\nManaged PoE switch",
+"10G SFP+ Rack Type L2 Managed PoE Switch"
+],
+[
+"STI-41616DGGPM-4BT",
+"2.5G PoE switch\nFiber optic switch\nPoE managed switch",
+"16 Port 2.5G Fiber Optic Industrial PoE Switch"
+],
+[
+"STI-41616XGGPM-4BT",
+"Din Rail PoE Switch\n16 Port PoE Switch\n10G Managed Switch",
+"10G Uplink Din Rail 90W PoE Managed Switch"
+],
+[
+"STI-42424DGGPM-4BT",
+"24 Port PoE Switch\n90W PoE Switch\nDin Rail Managed Switch",
+"4 Port 90W Output PoE Din Rail Managed Switch"
+],
+[
+"STI-42424DGGPM-U-2BT",
+"Gigabit Fiber Switch\n24 port poe switch\nRack Managed switch",
+"24 Port Gigabit PoE Rack Managed Fiber Switch"
+],
+[
+"STI-42424XGGPM-4BT",
+"PoE++ Managed Switch\n24 port Rack Switch\n10G Fiber Switch",
+"10G Layer 2 Managed 24 port Rack PoE++ Switch"
+],
+[
+"STI-42424XGGPM-U-2BT",
+"802.3bt PoE Switch\nRack Managed Switch\n28 port Gigabit Switch",
+"28 Port 802.3bt Ultra PoE Managed Optic Switch"
+],
+[
+"2.5G L2+ without PoE"
+],
+[
+"STI-240DGGM",
+"2.5G managed switch\n4 port network switch\nIndustrial fiber switch",
+"2.5G Fiber Industrial L2 Managed Network Switch"
+],
+[
+"STI-280DGGM",
+"8 port 2.5G switch\nLayer 2 managed switch\nIndustrial fiber switch",
+"8 Port Gigabit Web Managed Ethernet Switch"
+],
+[
+"STI-448DGGGM",
+"16 port Managed switch\n2.5G fiber switch\nManaged Ethernet switch",
+"16 port 1G/2.5G Din Rail Managed Fiber Switch"
+],
+[
+"STI-480DGGM",
+"8 port managed switch\nindustrial fiber switch\n2.5G network switch",
+"8 Port Rugged Ethernet 2.5G Managed Switch"
+],
+[
+"STI-488DGGGM",
+"L2 managed switch\nDin rail fiber switch\n8 port 2.5G switch",
+"Gigabit Fiber Ethernet Industrial Managed Switch"
+],
+[
+"STI-2160DGGM",
+"16 port Ethernet switch\n2.5G fiber switch\nDin managed switch",
+"16 port Gigabit Ethernet Din Managed Fiber Switch"
+],
+[
+"STI-4160DGGM",
+"16 port network switch\n2.5G managed switch\n2.5G fiber switch",
+"16 port Managed Ethernet Industrial Fiber Switch"
+],
+[
+"STI-4168DGGCM-U",
+"28 port gigabit switch\nindustrial managed switch\n2.5G fiber switch",
+"1U Rack Gigabit Network 2.5G managed switch"
+],
+[
+"STI-4240DGGM",
+"24 port Ethernet switch\nGigabit Managed Switch\nIndustrial Fiber Switch",
+"Rugged Etherent 24 Port Gigabit Managed Switch"
+],
+[
+"STI-4240DGGM-U",
+"24 port network switch\nRack managed switch\n2.5G fiber switch",
+"Rack Managed 24 port Gigabit Fiber Ethernet Switch"
+],
+[
+"STI-4480DGGM-U",
+"Gigabit Ethernet Switch\n2.5G managed switch\n48 port rack switch",
+"48 Port Gigabit Managed Rack Fiber Switch"
+],
+[
+"STI-4816DGCGM-U",
+"Gigabit LAN switch\n28 port rack switch\nManaged fiber switch",
+"28 Port Rack Managed Gigabit Optic Switch"
+],
+[
+"2.5G L2+ with PoE"
+],
+[
+"STI-244DGGPM",
+"2.5G fiber switch\nindustrial managed switch\n120W poe switch",
+"120W PoE 2.5G Fiber Din Managed Switch"
+],
+[
+"STI-288DGGPM",
+"8 port 2.5G switch\n2.5G managed switch\nDin rail PoE Switch",
+"8 Port 1G/2.5G Din Rail Managed PoE Switch"
+],
+[
+"STI-448DGGGPM",
+"Gigabit PoE switch\n2.5G Ring switch\nVLAN managed switch",
+"240W PoE Gigabit VLAN Ring Managed Switch"
+],
+[
+"STI-488DGGPM",
+"Managed PoE Switch\nindustrial fiber switch\n2.5G poe switch",
+"1G/2.5G Industrial Managed PoE Fiber Switch"
+],
+[
+"STI-4816DGCGPM-U",
+"28 port rack switch\n2.5G fiber switch\nindustrial managed switch",
+"400W Gigabit Rack Managed Fiber PoE Switch"
+],
+[
+"STI-21616DGGPM",
+"16 port network switch\n240W poe switch\n2.5g managed switch",
+"16 port 240W Gigabit Managed Din PoE Switch"
+],
+[
+"STI-41616DGGPM",
+"2.5G poe switch\n16 port managed switch\nDin rail fiber switch",
+"16 port 2.5G Din Rail PoE Managed Switch"
+],
+[
+"STI-42424DGGPM",
+"24 port fiber switch\n2.5G network switch\nIndustrial managed switch",
+"24 Port Gigabit Managed PoE Fiber Switch"
+],
+[
+"STI-42424DGGPM-U",
+"24 port rack switch\nPoE managed switch\n2.5G ethernet switch",
+"1U Rack 24 Port 400W PoE Gigabit Managed Switch"
+],
+[
+"10G L2+ without PoE"
+],
+[
+"STI-448XGGGM",
+"10G Managed switch\nL2 managed switch\nIndustrial network switch",
+"4 Port 10G Uplink Marvell L2 Managed Switch"
+],
+[
+"STI-480XGGM",
+"8 port managed switch\n10G fiber switch\nIndustrial Ethernet Switch",
+"8 Port 10G Fiber Industrial Managed Optic Switch"
+],
+[
+"STI-488XGGGM",
+"10G optic switch\nindustrial network switch\nL2 managed switch",
+"20 Port 1G/2.5G/10G Din Rail Managed Fiber Switch"
+],
+[
+"STI-2160XGGM",
+"16 port network switch\nDin fiber switch\n10G managed switch",
+"16 Port Gigabit Ethernet Industrial Managed Switch"
+],
+[
+"STI-4160XGGM",
+"industrial network switch\n16 port managed switch\n10G Ring switch",
+"16 Port Layer 2 Ring Managed 10G Network Switch"
+],
+[
+"STI-4168XGGCM-U",
+"Managed network switch\n10G fiber switch\n28 port rack switch",
+"28 Port 1G/2.5G/10G L2 Managed Rack Fiber Switch"
+],
+[
+"STI-4240XGGM",
+"24 port managed switch\n10G Ethernet switch\nFiber opitc switch",
+"24 Port 10G Rugged Ethernet Managed Fiber Optic Switch"
+],
+[
+"STI-4480XGGM-U",
+"48 port Ethernet switch\nindustrial managed switch\n10G rack switch",
+"48 Port Rack Managed 10G Fiber Optic Switch"
+],
+[
+"STI-4816XGCGM-U",
+"10G network switch\nManaged Rack Switch\n28 port fiber switch",
+"28 Port Fiber Ethernet 10G Rack Managed Switch"
+],
+[
+"STI-4240XGGM-U",
+"24 port optic switch\n10G rack switch\nManaged fiber switch",
+"24 Port Rack L2 Web Managed 10G Fiber Switch"
+],
+[
+"10G L2+ with PoE"
+],
+[
+"STI-448XGGGPM",
+"10G poe switch\nL3 managed switch\nIndustrial network switch",
+"4 Port 1G/2.5G/10G Industrial Managed PoE Switch"
+],
+[
+"STI-488XGGPM",
+"240W poe switch\n10G fiber switch\nIndustrial managed switch",
+"240W PoE 8 Port 10G Ring Managed Fiber Switch"
+],
+[
+"STI-4816XGCGPM-U",
+"PoE managed switch\n10G fiber switch\n28 port rack switch",
+"28 Port 400W PoE Industrial 1G/10G Managed Switch"
+],
+[
+"STI-21616XGGPM",
+"16 port poe switch\nWeb managed switch\n10G Ethernet switch",
+"16 Port 10G Based L3 Managed PoE Fiber Switch"
+],
+[
+"STI-41616XGGPM",
+"16 Port Managed Switch\n10G PoE switch\nDin Rail Network Switch",
+"16 Port Din PoE ERPS Managed 10G Optic Switch"
+],
+[
+"STI-42424XGGPM",
+"24 port fiber switch\n10G managed switch\nDin PoE switch",
+"24 Port 10G Din Rail Managed PoE Fiber Switch"
+],
+[
+"STI-42424XGGPM-U",
+"Rack Managed switch\n24 port poe switch\n10G fiber switch",
+"24 Port PoE 400W Rack VLAN 10G Managed switch"
+],
+[
+"L3 BT"
+],
+[
+"STI-4816XGCGPM-U-2BT",
+"28 port managed switch\n90w poe switch\n10g network switch",
+"28 Port Rack 10G Ethernet PoE Managed Switch"
+],
+[
+"STI-41616XGGPM-4BT",
+"16 port managed switch\n802.3.bt poe switch\n10G fiber switch",
+"16 Port Ultra PoE 10G Managed Din Fiber Switch"
+],
+[
+"STI-42424XGGPM-4BT",
+"10G industrial switch\nL3 managed switch\n24 port poe switch",
+"24 Port 802.3bt PoE 10G Din Rail Managed Switch"
+],
+[
+"STI-42424XGGPM-U-2BT",
+"Ring Managed switch\n90W poe switch\n24 port 10G switch",
+"24 Port Rack 10G Ring Managed 90W PoE Switch"
+],
+[
+"L3 without PoE"
+],
+[
+"STI-448XGGGM",
+"layer 3 managed switch\n10G Ethernet switch\n16 port network switch",
+"16 Port 1G/10G Ethernet L3 Ring Managed Switch"
+],
+[
+"STI-480XGGM",
+"8 port 10G switch\nL3 managed switch\nFiber Ethernet switch",
+"8 Port Gigabit Ethernet L3 Managed Optic Switch"
+],
+[
+"STI-488XGGGM",
+"20 port managed switch\n10G optical switch\nFiber network switch",
+"20 Port Mixed Rate L3 Managed Optical Switch"
+],
+[
+"STI-2160XGGM",
+"16 Port LAN switch\n10G fiber switch\nindustrial managed switch",
+"16 Port 10G Layer 3 Managed Network Switch"
+],
+[
+"STI-4160XGGM",
+"16 Port Managed switch\n10G optic switch\nIndustrial Fiber switch",
+"20 Port Ring Managed 10G SFP+ Fiber Switch"
+],
+[
+"STI-4168XGGCM-U",
+"28 port Rack switch\n10G managed switch\nFiber optic switch",
+"28 Port 10G Based Smart Managed Network Switch"
+],
+[
+"STI-4240XGGM",
+"24 Port fiber switch\n10G LAN switch\nIndustrial managed switch",
+"24 Port Din Rail 10G SFP+ Managed Ethernet Switch"
+],
+[
+"STI-4240XGGM-U",
+"10G rack switch\n24 port managed switch\nRugged ethernet switch",
+"28 Port Rugged Ethernet 10G Rack Managed Switch"
+],
+[
+"STI-4480XGGM-U",
+"48 port managed switch\nL3 network switch\n10G industrial switch",
+"48 Port 10G Rack Managed Fiber Network Switch"
+],
+[
+"STI-4816XGCGM-U",
+"Managed Fiber switch\n28 port managed switch\n10G rack switch",
+"28 Port Managed Ethernet 10G Rack Fiber Switch"
+],
+[
+"L3 with PoE"
+],
+[
+"STI-448XGGGPM",
+"8 port poe switch\n10g network switch\nhardened managed switch",
+"8 Port Hardened Ethernet 10G PoE Managed Switch"
+],
+[
+"STI-488XGGPM",
+"240W poe switch\nRugged managed switch\n10G ethernet Switch",
+"20 Port Rugged Managed Ethernet 10G PoE Switch"
+],
+[
+"STI-4816XGCGPM-U",
+"10G optic switch\nL3 managed switch\n16 port poe switch",
+"16 Port PoE Managed Rack Ethernet Optic Switch"
+],
+[
+"STI-21616XGGPM",
+"16 Port PoE switch\n10G Ethernet switch\nManaged network switch",
+"240W 16 Port PoE Din Rail 10G Managed Switch"
+],
+[
+"STI-41616XGGPM",
+"16 Port PoE switch\nPoE managed switch\n10G optical switch",
+"20 Port Din PoE 10G Managed Optical Switch"
+],
+[
+"STI-42424XGGPM",
+"poe switch 24 Port\n10g industrial switch\nmanaged optic switch",
+"24 Port PoE Din Rail 10G Managed Fiber Switch"
+],
+[
+"STI-42424XGGPM-U",
+"24 Port network switch\n10G fiber switch\nL3 managed switch",
+"24 Port 10G Based Fiber Network Managed Switch"
+],
+[
+"Ethernet Media Converter",
+"关键词",
+"Title"
+],
+[
+"STC-110FE",
+"Fiber media converter\nFast Ethernet converter\nUnmanaged media converter",
+"5V Fast Ethernet Unmanaged Media Converter"
+],
+[
+"STC-110GE",
+"Gigabit media converter\nFiber Ethernet converter\nFiber media converter",
+"Commercial Gigabit Fiber Media Converter"
+],
+[
+"STC-110XGE",
+"10G Ethernet media converter\nunmanaged media converter\nFiber media converter",
+"100M/1G/2.5G/10G Ethernet Fiber Media Converter"
+],
+[
+"STC-14DUR",
+"Media Converter Chassis\n14 slot unmanaged rack\nMedia converter rack",
+"14 Slot Unmanaged Fiber Media Conveter Chassis"
+],
+[
+"Marvell Series",
+"关键词",
+"Title"
+],
+[
+"STC-28DGGM",
+"8 port managed switch\n2.5G fiber switch\nCommercial network switch",
+"8 Port 1G/2.5G Commercial Managed Fiber Switch"
+],
+[
+"STC-28DGGPM",
+"8 Port poe switch\n2.5G managed switch\nCommercial fiber switch",
+"8 Port 240W PoE L2 Managed Gigabit Fiber Switch"
+],
+[
+"STC-424DGGM",
+"24 port Gigabit Switch\n2.5G fiber switch\nLayer 2 managed switch",
+"24 Port Gigabit Ethernet 2.5G Fiber Managed Switch"
+],
+[
+"STC-424XGGM",
+"10G optical switch\nL3 managed switch\n24 port Ethernet switch",
+"24 Port 10G L3 Managed Optical Ethernet Switch"
+],
+[
+"STC-424XGGPM",
+"24 Port poe switch\nGigabit rack switch\nManaged Ethernet switch",
+"1U Rack 24 Port Gigabit 400W PoE Managed Switch"
+],
+[
+"STC-448XGGM",
+"L3 Managed switch\n10G fiber switch\n48 Port network switch",
+"48 Port Layer 2 Managed 10G Uplink Fiber Switch"
+],
+[
+"STC-448XGGPM",
+"48 port poe switch\nRack managed switch\n10G optic switch",
+"10G Optic Uplink 48 Port PoE Layer 3 Managed Switch"
+],
+[
+"STC-448XGGMO",
+"52 port fiber switch\nLayer 3 managed switch\nRack Core Switch",
+"52 Port 1G/10G Full Fiber Rack Managed Core Switch"
+],
+[
+"STC-4168XGGCM",
+"20 port fiber switch\nRing managed switch\n10G network switch",
+"10G L3 Ring Managed Fiber Network Switch"
+],
+[
+"STC-4816XGCGM",
+"16 port Ethernet switch\nL3 managed switch\n10G Optic Switch",
+"16 Port Layer 3 Managed 10G Rack Optic Switch"
+],
+[
+"STC-4816XGCGPM",
+"16 port poe switch\n10G managed switch\nFiber Ethernet switch",
+"400W PoE 16 Port Rack Managed Ethernet switch"
+]
+]
+},
+"网站链接":{
+"state":"visible",
+"rows":[
+[
+"Title",
+"",
+"Commercial Ethernet Switch"
+],
+[
+"5 Port Gigabit Unmanaged Network Switch",
+"https://www.sagatelecom.com.cn/productinfo/2619499.html?templateId=1133605",
+"STC-05GE"
+],
+[
+"8 Port 10/100/1000M LAN Switch",
+"https://www.sagatelecom.com.cn/productinfo/2619529.html?templateId=1133605",
+"STC-08GE"
+],
+[
+"8 Port 10G Ethernet Switch",
+"https://www.sagatelecom.com.cn/productinfo/2621275.html?templateId=1133605",
+"STC-08XGE"
+],
+[
+"5 port 2.5G Ethernet Switch For WIFI 5 WIFI 6",
+"https://www.sagatelecom.com.cn/productinfo/2621285.html?templateId=1133605",
+"STC-15XGDGE"
+],
+[
+"8 port 2.5G Unmanaged Switch with 10G Uplink",
+"https://www.sagatelecom.com.cn/productinfo/2621288.html?templateId=1133605",
+"STC-18XGDGE"
+],
+[
+"16 Port Rack Mounted Commercial Network Switch",
+"https://www.sagatelecom.com.cn/productinfo/2621322.html?templateId=1133605",
+"STC-016GE"
+],
+[
+"24 Port Desktop Gigabit Copper Switch",
+"https://www.sagatelecom.com.cn/productinfo/2621355.html?templateId=1133605",
+"STC-024GE-D"
+],
+[
+"24 Port Rack Unmanaged Gigabit Network Switch",
+"https://www.sagatelecom.com.cn/productinfo/2621406.html?templateId=1133605",
+"STC-024GE-U"
+],
+[
+"24 port Rack VLAN Gigabit Unmanaged Switch",
+"https://www.sagatelecom.com.cn/productinfo/2621455.html?templateId=1133605",
+"STC-224GE"
+],
+[
+"24 port 1G/2.5G Ethernet Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2621461.html?templateId=1133605",
+"STC-224XGDGE"
+],
+[
+"48 Port Rack Gigabit Fiber Commercial Switch",
+"https://www.sagatelecom.com.cn/productinfo/2621465.html",
+"STC-248GE"
+],
+[
+"8 port 10G Fiber Optic Switch",
+"https://www.sagatelecom.com.cn/productinfo/2621412.html?templateId=1133605",
+"STC-80XGO"
+],
+[
+"16 Port Unmanaged 1G/2.5G/10G Switch",
+"https://www.sagatelecom.com.cn/productinfo/2621451.html?templateId=1133605",
+"STC-216XGDGE"
+],
+[
+"Title",
+"",
+"Commercial Managed Switch"
+],
+[
+"8 Port Smart Managed Gigabit Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2621477.html?templateId=1133605",
+"STC-28GM"
+],
+[
+"8 Port PoE VALN ERPS Managed Network Switch",
+"https://www.sagatelecom.com.cn/productinfo/2621487.html?templateId=1133605",
+"STC-28GPM"
+],
+[
+"12 port Layer 3 Managed 10G Optic Switch",
+"https://www.sagatelecom.com.cn/productinfo/2621493.html?templateId=1133605",
+"STC-120XGM"
+],
+[
+"24 Port MRP VLAN Managed Gigabit Switch",
+"https://www.sagatelecom.com.cn/productinfo/2621632.html?templateId=1133605",
+"STC-424GM"
+],
+[
+"24 Port Layer 2 Managed Rack 10G Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2621902.html?templateId=1133605",
+"STC-424XGGM"
+],
+[
+"24 Port PoE 10G Managed LAN Switch",
+"https://www.sagatelecom.com.cn/productinfo/2621993.html?templateId=1133605",
+"STC-424XGGPM"
+],
+[
+"48 Port Managed 10G Access Network Switch",
+"https://www.sagatelecom.com.cn/productinfo/2622024.html?templateId=1133605",
+"STC-448XGGM"
+],
+[
+"48 Port L3 Managed Commercial Access PoE Switch",
+"https://www.sagatelecom.com.cn/productinfo/2622157.html?templateId=1133605",
+"STC-448XGGPM"
+],
+[
+"24 Port 2.5G Network Switch with 10G Fiber",
+"https://www.sagatelecom.com.cn/productinfo/2622239.html?templateId=1133605",
+"STC-624XGDGM"
+],
+[
+"24 Port PoE af/at/bt Rack Managed 2.5G Switch",
+"https://www.sagatelecom.com.cn/productinfo/2622346.html?templateId=1133605",
+"STC-624XGDGPM"
+],
+[
+"16 Port L2 Smart Managed PoE Switch",
+"https://www.sagatelecom.com.cn/productinfo/2622380.html?templateId=1133605",
+"STC-2216GPM"
+],
+[
+"24 Port Rack Managed Core Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2622408.html?templateId=1133605",
+"STC-4248XGGCM"
+],
+[
+"24 Port Ring PoE Managed Gigabit Combo Switch",
+"https://www.sagatelecom.com.cn/productinfo/2622423.html?templateId=1133605",
+"STC-4424GCPM"
+],
+[
+"Title",
+"",
+"Commercial PoE Switch"
+],
+[
+"8 Port Smart PoE Network Switch",
+"https://www.sagatelecom.com.cn/productinfo/2624300.html?templateId=1133605",
+"STC-128GFP"
+],
+[
+"6 Port 10/100M PoE Ethernet Switch",
+"https://www.sagatelecom.com.cn/productinfo/2624324.html?templateId=1133605",
+"STC-024FP"
+],
+[
+"4 Port Gigabit PoE Switch with Copper Uplink",
+"https://www.sagatelecom.com.cn/productinfo/2624348.html?templateId=1133605",
+"STC-024GP"
+],
+[
+"10 port Fast Ethernet CCTV PoE Switch",
+"https://www.sagatelecom.com.cn/productinfo/2625679.html?templateId=1133605",
+"STC-028FP"
+],
+[
+"8 Port Megabit PoE Gigabit Network Switch",
+"https://www.sagatelecom.com.cn/productinfo/2625819.html?templateId=1133605",
+"STC-028GFP"
+],
+[
+"10 Port Full Ethernet Gigabit PSE Switch",
+"https://www.sagatelecom.com.cn/productinfo/2625952.html?templateId=1133605",
+"STC-028GP"
+],
+[
+"8 port 2.5G PoE Switch",
+"https://www.sagatelecom.com.cn/productinfo/2625966.html?templateId=1133605",
+"STC-108XGDGP"
+],
+[
+"4 Port Full Gigabit PoE Switch",
+"https://www.sagatelecom.com.cn/productinfo/2625977.html?templateId=1133605",
+"STC-114GP"
+],
+[
+"4 Port PoE 2.5G Unmanaged Network Switch",
+"https://www.sagatelecom.com.cn/productinfo/2625982.html?templateId=1133605",
+"STC-114XGDGP"
+],
+[
+"4 Port PoE Gigabit Fiber Optical Switch",
+"https://www.sagatelecom.com.cn/productinfo/2625992.html?templateId=1133605",
+"STC-204GP"
+],
+[
+"8 Port Gigabit PoE Optic Switch",
+"https://www.sagatelecom.com.cn/productinfo/2626071.html?templateId=1133605",
+"STC-208GP"
+],
+[
+"16 port PoE Rack Mounted LAN Switch",
+"https://www.sagatelecom.com.cn/productinfo/2626093.html?templateId=1133605",
+"STC-0216GFP"
+],
+[
+"24 Port PoE Network Unmanaged Switch",
+"https://www.sagatelecom.com.cn/productinfo/2626120.html?templateId=1133605",
+"STC-0224GFP"
+],
+[
+"12 Port Unmanaged PoE Gigabit Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2626142.html?templateId=1133605",
+"STC-228GP"
+],
+[
+"16 Port Hybrid Rate PoE Switch",
+"https://www.sagatelecom.com.cn/productinfo/2626162.html?templateId=1133605",
+"STC-1216GFP"
+],
+[
+"24 Port Gigabit Uplink PoE Fiber Network Switch",
+"https://www.sagatelecom.com.cn/productinfo/2626171.html?templateId=1133605",
+"STC-1224GFP"
+],
+[
+"16 Port 300W PoE Gigabit Fiber Uplink Switch",
+"https://www.sagatelecom.com.cn/productinfo/2626189.html?templateId=1133605",
+"STC-2016GP"
+],
+[
+"24 Port PoE 300W Budget Rack Unmanaged Switch",
+"https://www.sagatelecom.com.cn/productinfo/2626198.html?templateId=1133605",
+"STC-2024GP"
+],
+[
+"16 Port Commercial PoE Switch With Gigabit Uplink",
+"https://www.sagatelecom.com.cn/productinfo/2626226.html?templateId=1133605",
+"STC-2216GP"
+],
+[
+"28 Port Unmanaged Gigabit Fiber Optic PoE Switch",
+"https://www.sagatelecom.com.cn/productinfo/2626234.html",
+"STC-2224GP"
+],
+[
+"Title",
+"",
+"Din Power Adapter"
+],
+[
+"5V Plastic Case Industrial Power Adapter",
+"https://www.sagatelecom.com.cn/productinfo/2622593.html?templateId=1133605",
+"STI-PA-15W-5V3A"
+],
+[
+"12V Din Mounted AC Power Converter",
+"https://www.sagatelecom.com.cn/productinfo/2622815.html?templateId=1133605",
+"STI-PA-20W-12V1.67A"
+],
+[
+"20W Industrial Din Power Supply",
+"https://www.sagatelecom.com.cn/productinfo/2622836.html?templateId=1133605",
+"STI-PA-20W-15V1.34A"
+],
+[
+"24V Output Industrial AC Power Supply",
+"https://www.sagatelecom.com.cn/productinfo/2623535.html?templateId=1133605",
+"STI-PA-20W-24V0.83A"
+],
+[
+"12V Industrial Power Adapter",
+"https://www.sagatelecom.com.cn/productinfo/2623590.html?templateId=1133605",
+"STI-PA-24W-12V2A"
+],
+[
+"24VDC Power Converter",
+"https://www.sagatelecom.com.cn/productinfo/2623624.html?templateId=1133605",
+"STI-PA-24W-24V1A"
+],
+[
+"Industrial Power Supply 12V",
+"https://www.sagatelecom.com.cn/productinfo/2623661.html?templateId=1133605",
+"STI-PA-75W-12V6.3A"
+],
+[
+"75W Din Power Converter",
+"https://www.sagatelecom.com.cn/productinfo/2623680.html?templateId=1133605",
+"STI-PA-75W-24V3.2A"
+],
+[
+"48V Industrial PoE Power Supply",
+"https://www.sagatelecom.com.cn/productinfo/2623707.html?templateId=1133605",
+"STI-PA-75W-48V1.56A"
+],
+[
+"12V AC/DC Din Power Adaptor",
+"https://www.sagatelecom.com.cn/productinfo/2624130.html?templateId=1133605",
+"STI-PA-120W-12V10A"
+],
+[
+"Industrial Power Adapter 24V",
+"https://www.sagatelecom.com.cn/productinfo/2624151.html?templateId=1133605",
+"STI-PA-120W-24V5A"
+],
+[
+"120W Industrial Din Power Converter",
+"https://www.sagatelecom.com.cn/productinfo/2624166.html?templateId=1133605",
+"STI-PA-120W-48V2.5A"
+],
+[
+"24V 150W Budget AC Adaptor",
+"https://www.sagatelecom.com.cn/productinfo/2624196.html?templateId=1133605",
+"STI-PA-150W-24V6.25A"
+],
+[
+"24V Industrial AC/DC Power Supply",
+"https://www.sagatelecom.com.cn/productinfo/2624208.html?templateId=1133605",
+"STI-PA-240W-24V10A"
+],
+[
+"240W Din Rail PoE Power Adaptor",
+"https://www.sagatelecom.com.cn/productinfo/2624212.html?templateId=1133605",
+"STI-PA-240W-48V5A"
+],
+[
+"20A Din Rail Electrical Adaptor",
+"https://www.sagatelecom.com.cn/productinfo/2624217.html?templateId=1133605",
+"STI-PA-480W-24V20A"
+],
+[
+"480W Industrial Grade Power Unit",
+"https://www.sagatelecom.com.cn/productinfo/2624221.html",
+"STI-PA-480W-48V10A"
+],
+[
+"Title",
+"",
+"Industrial Unmanaged Switch"
+],
+[
+"5 Port 10/100M Ethernet Switch",
+"https://www.sagatelecom.com.cn/productinfo/2627016.html?templateId=1133605",
+"STI-050FE"
+],
+[
+"5 Port Din Network Switch",
+"https://www.sagatelecom.com.cn/productinfo/2627035.html?templateId=1133605",
+"STI-050GE"
+],
+[
+"4 Port PoE 120W LAN Switch",
+"https://www.sagatelecom.com.cn/productinfo/2627047.html?templateId=1133605",
+"STI-054FP"
+],
+[
+"5 Port Gigabit PoE Switch",
+"https://www.sagatelecom.com.cn/productinfo/2627052.html?templateId=1133605",
+"STI-054GP"
+],
+[
+"8 Port Compact Unmanaged Switch",
+"https://www.sagatelecom.com.cn/productinfo/2627059.html?templateId=1133605",
+"STI-080FE"
+],
+[
+"8 Port Mini Gigabit Industrial Switch",
+"https://www.sagatelecom.com.cn/productinfo/2627063.html?templateId=1133605",
+"STI-080GE"
+],
+[
+"8 Port PoE Industrial Unmanaged Switch",
+"https://www.sagatelecom.com.cn/productinfo/2627068.html?templateId=1133605",
+"STI-088FP"
+],
+[
+"8 Port PoE 240W Industrial LAN Switch",
+"https://www.sagatelecom.com.cn/productinfo/2627075.html?templateId=1133605",
+"STI-088GP"
+],
+[
+"Din Rail 10/100Mbps Ethernet Fiber converter",
+"https://www.sagatelecom.com.cn/productinfo/2628885.html?templateId=1133605",
+"STI-110FE"
+],
+[
+"Industrial Gigabit Fiber Media Converter",
+"https://www.sagatelecom.com.cn/productinfo/2628898.html?templateId=1133605",
+"STI-110GE"
+],
+[
+"Din Rail Industrial PoE Fiber Converter",
+"https://www.sagatelecom.com.cn/productinfo/2628923.html?templateId=1133605",
+"STI-111FP"
+],
+[
+"Mini Gigabit Ethernet PoE Media Converter",
+"https://www.sagatelecom.com.cn/productinfo/2628940.html?templateId=1133605",
+"STI-111GP"
+],
+[
+"3 Port Industrial Unmanaged Network Switch",
+"https://www.sagatelecom.com.cn/productinfo/2629210.html?templateId=1133605",
+"STI-120FE"
+],
+[
+"Gigabit Ethernet Fiber Optic Switch",
+"https://www.sagatelecom.com.cn/productinfo/2629229.html?templateId=1133605",
+"STI-120GE"
+],
+[
+"60W Megabit Industrial Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2629251.html?templateId=1133605",
+"STI-122FP"
+],
+[
+"2 port Din PoE Unmanaged Switch",
+"https://www.sagatelecom.com.cn/productinfo/2629265.html?templateId=1133605",
+"STI-122GP"
+],
+[
+"4 port 10/100M Ethernet Switch",
+"https://www.sagatelecom.com.cn/productinfo/2629280.html?templateId=1133605",
+"STI-220FE"
+],
+[
+"Industrial Gigabit Network Switch",
+"https://www.sagatelecom.com.cn/productinfo/2629300.html?templateId=1133605",
+"STI-220GE"
+],
+[
+"60W PoE Unmanaged Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2629430.html?templateId=1133605",
+"STI-222FP"
+],
+[
+"4 Port Gigabit Din PoE Switch",
+"https://www.sagatelecom.com.cn/productinfo/2629464.html?templateId=1133605",
+"STI-222GP"
+],
+[
+"5 Port 10/100M Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2629523.html?templateId=1133605",
+"STI-140FE"
+],
+[
+"5 Port Gigabit Unmanaged LAN switch",
+"https://www.sagatelecom.com.cn/productinfo/2629571.html?templateId=1133605",
+"STI-140GE"
+],
+[
+"4 Port PoE 120W Din Network Switch",
+"https://www.sagatelecom.com.cn/productinfo/2629679.html?templateId=1133605",
+"STI-144FP"
+],
+[
+"Industrial Gigabit Fiber PoE Switch",
+"https://www.sagatelecom.com.cn/productinfo/2629704.html?templateId=1133605",
+"STI-144GP"
+],
+[
+"6 Port Gigabit LAN Industrial Switch",
+"https://www.sagatelecom.com.cn/productinfo/2629754.html?templateId=1133605",
+"STI-150GE"
+],
+[
+"4 Port PoE Fiber Switch with Gigabit Uplink",
+"https://www.sagatelecom.com.cn/productinfo/2629757.html?templateId=1133605",
+"STI-154GP"
+],
+[
+"16 Port 10/100/1000M Unmanaged LAN Switch",
+"https://www.sagatelecom.com.cn/productinfo/2629921.html?templateId=1133605",
+"STI-0160GE"
+],
+[
+"8 port 10/100Mbps Unmanaged Switch",
+"https://www.sagatelecom.com.cn/productinfo/2629922.html?templateId=1133605",
+"STI-180FE"
+],
+[
+"Gigabit Based 8 Port Network Switch",
+"https://www.sagatelecom.com.cn/productinfo/2629924.html?templateId=1133605",
+"STI-180GE"
+],
+[
+"8 Port Outdoor CCTV PoE Switch",
+"https://www.sagatelecom.com.cn/productinfo/2629932.html?templateId=1133605",
+"STI-188FP"
+],
+[
+"240W Budget 8 port PoE Gigabit Switch",
+"https://www.sagatelecom.com.cn/productinfo/2629938.html?templateId=1133605",
+"STI-188GP"
+],
+[
+"6 Port Fast Ethernet Switch",
+"https://www.sagatelecom.com.cn/productinfo/2629962.html?templateId=1133605",
+"STI-240FE"
+],
+[
+"4 Port Unmanaged Din Lan Switch",
+"https://www.sagatelecom.com.cn/productinfo/2629983.html?templateId=1133605",
+"STI-240GE"
+],
+[
+"120W PoE Fiber Optical Switch",
+"https://www.sagatelecom.com.cn/productinfo/2630005.html?templateId=1133605",
+"STI-244FP"
+],
+[
+"4 Port PoE Industrial Gigabit Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2630014.html?templateId=1133605",
+"STI-244GP"
+],
+[
+"8 Port Din Mounted Unmanaged Switch",
+"https://www.sagatelecom.com.cn/productinfo/2630116.html?templateId=1133605",
+"STI-260FE"
+],
+[
+"8 port Megabit Based PoE Switch",
+"https://www.sagatelecom.com.cn/productinfo/2630136.html?templateId=1133605",
+"STI-266FP"
+],
+[
+"10 Port Gigabit Network Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2630172.html?templateId=1133605",
+"STI-280GE"
+],
+[
+"8 Port 240W PoE Optical Switch",
+"https://www.sagatelecom.com.cn/productinfo/2630229.html?templateId=1133605",
+"STI-288GP"
+],
+[
+"12 Port Full Gigabit Network Switch",
+"https://www.sagatelecom.com.cn/productinfo/2630233.html?templateId=1133605",
+"STI-480GE"
+],
+[
+"240W Din PoE Switch",
+"https://www.sagatelecom.com.cn/productinfo/2630238.html?templateId=1133605",
+"STI-488GP"
+],
+[
+"16 Port Gigabit Unmanaged Ethernet Switch",
+"https://www.sagatelecom.com.cn/productinfo/2630626.html?templateId=1133605",
+"STI-880GE"
+],
+[
+"8 Port PoE Gigabit Industrial Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2630635.html?templateId=1133605",
+"STI-888GP"
+],
+[
+"16 Port PoE Industrial Ethernet Switch",
+"https://www.sagatelecom.com.cn/productinfo/2630660.html?templateId=1133605",
+"STI-01616GP"
+],
+[
+"18 Port Gigabit Unmanaged Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2630671.html?templateId=1133605",
+"STI-2160GE"
+],
+[
+"240W Budget Gigabit PoE Switch",
+"https://www.sagatelecom.com.cn/productinfo/2630708.html",
+"STI-21616GP"
+],
+[
+"Title",
+"",
+"Industrial Managed Switch"
+],
+[
+"",
+"",
+"L2"
+],
+[
+"8 Port Industrial CCTV PoE Lite Managed Switch",
+"https://www.sagatelecom.com.cn/productinfo/2630748.html?templateId=1133605",
+"STI-288GPM"
+],
+[
+"4 port 10/100M Fast Ethernet Managed Switch",
+"https://www.sagatelecom.com.cn/productinfo/2631070.html?templateId=1133605",
+"STI-240FM"
+],
+[
+"Full Gigabit Industrial Managed Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2631073.html?templateId=1133605",
+"STI-240GM"
+],
+[
+"120W CCTV PoE Din Managed Optic Switch",
+"https://www.sagatelecom.com.cn/productinfo/2631074.html?templateId=1133605",
+"STI-244FPM"
+],
+[
+"4 Port PoE Managed Network Switch",
+"https://www.sagatelecom.com.cn/productinfo/2631075.html?templateId=1133605",
+"STI-244GPM"
+],
+[
+"10 Port Gigabit Din Managed Switch",
+"https://www.sagatelecom.com.cn/productinfo/2631077.html?templateId=1133605",
+"STI-280GM"
+],
+[
+"",
+"",
+"L2+ BT"
+],
+[
+"2 port 802.3bt Gigabit MRP Managed Switch",
+"https://www.sagatelecom.com.cn/productinfo/2654708.html?templateId=1133605",
+"STI-244DGGPM-2BT"
+],
+[
+"8 Port Gigabit Managed PoE Switch 240W",
+"https://www.sagatelecom.com.cn/productinfo/2654712.html?templateId=1133605",
+"STI-288DGGPM-2BT"
+],
+[
+"2.5G Ultra PoE Din Managed Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2654713.html?templateId=1133605",
+"STI-488DGGPM-2BT"
+],
+[
+"90W PoE Rack Managed Combo Network Switch",
+"https://www.sagatelecom.com.cn/productinfo/2658271.html?templateId=1133605",
+"STI-4816DGCGPM-U-2BT"
+],
+[
+"10G SFP+ Rack Type L2 Managed PoE Switch",
+"https://www.sagatelecom.com.cn/productinfo/2658292.html?templateId=1133605",
+"STI-4816XGCGPM-U-2BT"
+],
+[
+"16 Port 2.5G Fiber Optic Industrial PoE Switch",
+"https://www.sagatelecom.com.cn/productinfo/2658309.html?templateId=1133605",
+"STI-41616DGGPM-4BT"
+],
+[
+"10G Uplink Din Rail 90W PoE Managed Switch",
+"https://www.sagatelecom.com.cn/productinfo/2660958.html?templateId=1133605",
+"STI-41616XGGPM-4BT"
+],
+[
+"4 Port 90W Output PoE Din Rail Managed Switch",
+"https://www.sagatelecom.com.cn/productinfo/2660966.html?templateId=1133605",
+"STI-42424DGGPM-4BT"
+],
+[
+"24 Port Gigabit PoE Rack Managed Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2660971.html?templateId=1133605",
+"STI-42424DGGPM-U-2BT"
+],
+[
+"10G Layer 2 Managed 24 port Rack PoE++ Switch",
+"https://www.sagatelecom.com.cn/productinfo/2676598.html?templateId=1133605",
+"STI-42424XGGPM-4BT"
+],
+[
+"28 Port 802.3bt Ultra PoE Managed Optic Switch",
+"https://www.sagatelecom.com.cn/productinfo/2676599.html?templateId=1133605",
+"STI-42424XGGPM-U-2BT"
+],
+[
+"",
+"",
+"2.5G L2+ without PoE"
+],
+[
+"2.5G Fiber Industrial L2 Managed Network Switch",
+"https://www.sagatelecom.com.cn/productinfo/2695749.html?templateId=1133605",
+"STI-240DGGM"
+],
+[
+"8 Port Gigabit Web Managed Ethernet Switch",
+"https://www.sagatelecom.com.cn/productinfo/2695771.html?templateId=1133605",
+"STI-280DGGM"
+],
+[
+"16 port 1G/2.5G Din Rail Managed Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2695825.html?templateId=1133605",
+"STI-448DGGGM"
+],
+[
+"8 Port Rugged Ethernet 2.5G Managed Switch",
+"https://www.sagatelecom.com.cn/productinfo/2695828.html?templateId=1133605",
+"STI-480DGGM"
+],
+[
+"Gigabit Fiber Ethernet Industrial Managed Switch",
+"https://www.sagatelecom.com.cn/productinfo/2695833.html?templateId=1133605",
+"STI-488DGGGM"
+],
+[
+"16 port Gigabit Ethernet Din Managed Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2695839.html?templateId=1133605",
+"STI-2160DGGM"
+],
+[
+"16 port Managed Ethernet Industrial Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2695841.html?templateId=1133605",
+"STI-4160DGGM"
+],
+[
+"1U Rack Gigabit Network 2.5G managed switch",
+"https://www.sagatelecom.com.cn/productinfo/2695844.html?templateId=1133605",
+"STI-4168DGGCM-U"
+],
+[
+"Rugged Etherent 24 Port Gigabit Managed Switch",
+"https://www.sagatelecom.com.cn/productinfo/2695849.html?templateId=1133605",
+"STI-4240DGGM"
+],
+[
+"Rack Managed 24 port Gigabit Fiber Ethernet Switch",
+"https://www.sagatelecom.com.cn/productinfo/2695852.html?templateId=1133605",
+"STI-4240DGGM-U"
+],
+[
+"48 Port Gigabit Managed Rack Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2695859.html?templateId=1133605",
+"STI-4480DGGM-U"
+],
+[
+"28 Port Rack Managed Gigabit Optic Switch",
+"https://www.sagatelecom.com.cn/productinfo/2695875.html?templateId=1133605",
+"STI-4816DGCGM-U"
+],
+[
+"",
+"",
+"2.5G L2+ with PoE"
+],
+[
+"120W PoE 2.5G Fiber Din Managed Switch",
+"https://www.sagatelecom.com.cn/productinfo/2698609.html?templateId=1133605",
+"STI-244DGGPM"
+],
+[
+"8 Port 1G/2.5G Din Rail Managed PoE Switch",
+"https://www.sagatelecom.com.cn/productinfo/2698611.html?templateId=1133605",
+"STI-288DGGPM"
+],
+[
+"240W PoE Gigabit VLAN Ring Managed Switch",
+"https://www.sagatelecom.com.cn/productinfo/2698613.html?templateId=1133605",
+"STI-448DGGGPM"
+],
+[
+"1G/2.5G Industrial Managed PoE Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2698614.html?templateId=1133605",
+"STI-488DGGPM"
+],
+[
+"400W Gigabit Rack Managed Fiber PoE Switch",
+"https://www.sagatelecom.com.cn/productinfo/2698618.html?templateId=1133605",
+"STI-4816DGCGPM-U"
+],
+[
+"16 port 240W Gigabit Managed Din PoE Switch",
+"https://www.sagatelecom.com.cn/productinfo/2699803.html?templateId=1133605",
+"STI-21616DGGPM"
+],
+[
+"16 port 2.5G Din Rail PoE Managed Switch",
+"https://www.sagatelecom.com.cn/productinfo/2699832.html?templateId=1133605",
+"STI-41616DGGPM"
+],
+[
+"24 Port Gigabit Managed PoE Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2699871.html?templateId=1133605",
+"STI-42424DGGPM"
+],
+[
+"1U Rack 24 Port 400W PoE Gigabit Managed Switch",
+"https://www.sagatelecom.com.cn/productinfo/2699898.html?templateId=1133605",
+"STI-42424DGGPM-U"
+],
+[
+"",
+"",
+"10G L2+ without PoE"
+],
+[
+"4 Port 10G Uplink Marvell L2 Managed Switch",
+"https://www.sagatelecom.com.cn/productinfo/2701331.html?templateId=1133605",
+"STI-448XGGGM"
+],
+[
+"8 Port 10G Fiber Industrial Managed Optic Switch",
+"https://www.sagatelecom.com.cn/productinfo/2701347.html?templateId=1133605",
+"STI-480XGGM"
+],
+[
+"20 Port 1G/2.5G/10G Din Rail Managed Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2701372.html?templateId=1133605",
+"STI-488XGGGM"
+],
+[
+"16 Port Gigabit Ethernet Industrial Managed Switch",
+"https://www.sagatelecom.com.cn/productinfo/2701386.html?templateId=1133605",
+"STI-2160XGGM"
+],
+[
+"16 Port Layer 2 Ring Managed 10G Network Switch",
+"https://www.sagatelecom.com.cn/productinfo/2701399.html?templateId=1133605",
+"STI-4160XGGM"
+],
+[
+"28 Port 1G/2.5G/10G L2 Managed Rack Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2701402.html?templateId=1133605",
+"STI-4168XGGCM-U"
+],
+[
+"24 Port 10G Rugged Ethernet Managed Fiber Optic Switch",
+"https://www.sagatelecom.com.cn/productinfo/2701409.html?templateId=1133605",
+"STI-4240XGGM"
+],
+[
+"48 Port Rack Managed 10G Fiber Optic Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704045.html?templateId=1133605",
+"STI-4480XGGM-U"
+],
+[
+"28 Port Fiber Ethernet 10G Rack Managed Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704047.html?templateId=1133605",
+"STI-4816XGCGM-U"
+],
+[
+"24 Port Rack L2 Web Managed 10G Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704048.html?templateId=1133605",
+"STI-4240XGGM-U"
+],
+[
+"",
+"",
+"10G L2+ with PoE"
+],
+[
+"4 Port 1G/2.5G/10G Industrial Managed PoE Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704124.html?templateId=1133605",
+"STI-448XGGGPM"
+],
+[
+"240W PoE 8 Port 10G Ring Managed Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704130.html?templateId=1133605",
+"STI-488XGGPM"
+],
+[
+"28 Port 400W PoE Industrial 1G/10G Managed Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704146.html?templateId=1133605",
+"STI-4816XGCGPM-U"
+],
+[
+"16 Port 10G Based L3 Managed PoE Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704154.html?templateId=1133605",
+"STI-21616XGGPM"
+],
+[
+"16 Port Din PoE ERPS Managed 10G Optic Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704156.html?templateId=1133605",
+"STI-41616XGGPM"
+],
+[
+"24 Port 10G Din Rail Managed PoE Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704179.html?templateId=1133605",
+"STI-42424XGGPM"
+],
+[
+"24 Port PoE 400W Rack VLAN 10G Managed switch",
+"https://www.sagatelecom.com.cn/productinfo/2704193.html?templateId=1133605",
+"STI-42424XGGPM-U"
+],
+[
+"",
+"",
+"L3 BT"
+],
+[
+"28 Port Rack 10G Ethernet PoE Managed Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704244.html",
+"STI-4816XGCGPM-U-2BT"
+],
+[
+"16 Port Ultra PoE 10G Managed Din Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704239.html?templateId=1133605",
+"STI-41616XGGPM-4BT"
+],
+[
+"24 Port 802.3bt PoE 10G Din Rail Managed Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704237.html?templateId=1133605",
+"STI-42424XGGPM-4BT"
+],
+[
+"24 Port Rack 10G Ring Managed 90W PoE Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704236.html?templateId=1133605",
+"STI-42424XGGPM-U-2BT"
+],
+[
+"",
+"",
+"L3 without PoE"
+],
+[
+"16 Port 1G/10G Ethernet L3 Ring Managed Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704251.html?templateId=1133605",
+"STI-448XGGGM"
+],
+[
+"8 Port Gigabit Ethernet L3 Managed Optic Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704253.html?templateId=1133605",
+"STI-480XGGM"
+],
+[
+"20 Port Mixed Rate L3 Managed Optical Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704259.html?templateId=1133605",
+"STI-488XGGGM"
+],
+[
+"16 Port 10G Layer 3 Managed Network Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704255.html?templateId=1133605",
+"STI-2160XGGM"
+],
+[
+"20 Port Ring Managed 10G SFP+ Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704272.html?templateId=1133605",
+"STI-4160XGGM"
+],
+[
+"28 Port 10G Based Smart Managed Network Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704273.html?templateId=1133605",
+"STI-4168XGGCM-U"
+],
+[
+"24 Port Din Rail 10G SFP+ Managed Ethernet Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704276.html?templateId=1133605",
+"STI-4240XGGM"
+],
+[
+"28 Port Rugged Ethernet 10G Rack Managed Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704281.html?templateId=1133605",
+"STI-4240XGGM-U"
+],
+[
+"48 Port 10G Rack Managed Fiber Network Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704287.html?templateId=1133605",
+"STI-4480XGGM-U"
+],
+[
+"28 Port Managed Ethernet 10G Rack Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704304.html",
+"STI-4816XGCGM-U"
+],
+[
+"",
+"",
+"L3 with PoE"
+],
+[
+"8 Port Hardened Ethernet 10G PoE Managed Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704311.html",
+"STI-448XGGGPM"
+],
+[
+"20 Port Rugged Managed Ethernet 10G PoE Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704330.html?templateId=1133605",
+"STI-488XGGPM"
+],
+[
+"16 Port PoE Managed Rack Ethernet Optic Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704338.html?templateId=1133605",
+"STI-4816XGCGPM-U"
+],
+[
+"240W 16 Port PoE Din Rail 10G Managed Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704342.html?templateId=1133605",
+"STI-21616XGGPM"
+],
+[
+"20 Port Din PoE 10G Managed Optical Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704355.html?templateId=1133605",
+"STI-41616XGGPM"
+],
+[
+"24 Port PoE Din Rail 10G Managed Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704368.html?templateId=1133605",
+"STI-42424XGGPM"
+],
+[
+"24 Port 10G Based Fiber Network Managed Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704369.html?templateId=1133605",
+"STI-42424XGGPM-U"
+],
+[
+"Title",
+"",
+"Ethernet Media Converter"
+],
+[
+"5V Fast Ethernet Unmanaged Media Converter",
+"https://www.sagatelecom.com.cn/productinfo/2698590.html?templateId=1133605",
+"STC-110FE"
+],
+[
+"Commercial Gigabit Fiber Media Converter",
+"https://www.sagatelecom.com.cn/productinfo/2698593.html?templateId=1133605",
+"STC-110GE"
+],
+[
+"100M/1G/2.5G/10G Ethernet Fiber Media Converter",
+"https://www.sagatelecom.com.cn/productinfo/2698597.html?templateId=1133605",
+"STC-110XGE"
+],
+[
+"14 Slot Unmanaged Fiber Media Conveter Chassis",
+"https://www.sagatelecom.com.cn/productinfo/2698606.html",
+"STC-14DUR"
+],
+[
+"Title",
+"",
+"Marvell Series"
+],
+[
+"8 Port 1G/2.5G Commercial Managed Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704370.html?templateId=1133605",
+"STC-28DGGM"
+],
+[
+"8 Port 240W PoE L2 Managed Gigabit Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704371.html?templateId=1133605",
+"STC-28DGGPM"
+],
+[
+"24 Port Gigabit Ethernet 2.5G Fiber Managed Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704374.html?templateId=1133605",
+"STC-424DGGM"
+],
+[
+"24 Port 10G L3 Managed Optical Ethernet Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704382.html?templateId=1133605",
+"STC-424XGGM"
+],
+[
+"1U Rack 24 Port Gigabit 400W PoE Managed Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704383.html?templateId=1133605",
+"STC-424XGGPM"
+],
+[
+"48 Port Layer 2 Managed 10G Uplink Fiber Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704392.html?templateId=1133605",
+"STC-448XGGM"
+],
+[
+"10G Optic Uplink 48 Port PoE Layer 3 Managed Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704395.html?templateId=1133605",
+"STC-448XGGPM"
+],
+[
+"52 Port 1G/10G Full Fiber Rack Managed Core Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704399.html?templateId=1133605",
+"STC-448XGGMO"
+],
+[
+"10G L3 Ring Managed Fiber Network Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704452.html?templateId=1133605",
+"STC-4168XGGCM"
+],
+[
+"16 Port Layer 3 Managed 10G Rack Optic Switch",
+"https://www.sagatelecom.com.cn/productinfo/2704455.html?templateId=1133605",
+"STC-4816XGCGM"
+],
+[
+"400W PoE 16 Port Rack Managed Ethernet switch",
+"https://www.sagatelecom.com.cn/productinfo/2704460.html",
+"STC-4816XGCGPM"
+]
+]
+},
+"Made in China":{
+"state":"visible",
+"rows":[
+[
+"https://www.made-in-china.com/showroom/saga-telecom"
+],
+[
+"https://membercenter.made-in-china.com/product.do?xcase=list&state=-1",
+"",
+"https://membercenter.made-in-china.com/product.do?xcase=list"
+],
+[
+"型号名",
+"标题",
+"关键词"
+],
+[
+"STI-154GP",
+"Industrial Grade 4 Port Gigabit FiberEthernet Din PoE Switch",
+"4 Port PoE Switch/Industrial fiber Switch/Power over Ethernet Switch/network switch/gigabit ethernet switch"
+],
+[
+"STC-110XGE",
+"SFP+ Unmanaged 10 Gigabit Ethernet Fiber Optic Converter",
+"Ethernet media converter/10G media converter/fiber optic media converter/optical converter"
+],
+[
+"STI-080GE",
+"Compact 8 Port 10/100/1000M Unmanaged Industrial Ethernet Switch",
+"Industrial Ethernet switch/8 port LAN switch/Gigabit network switch"
+],
+[
+"STI-222GP",
+"4 Port Mini Gigabit Industrial Ethernet PoE Fiber Optic Switch",
+"4 port poe switch/Industrial Ethernet switch/Gigabit fiber switch/Fiber optic switch/network switch"
+],
+[
+"STI-260FE",
+"8 Port Mini Industrial 10/100M Unmanaged Fiber Ethernet Switch",
+"8 port ethernet switch/industrial fiber switch/10/100M unmanaged switch"
+],
+[
+"STI-4240XGGM",
+"24 Port Din Rail 10G SFP+ L3 Managed Ethernet Switch",
+"24 port Ethernet switch/Din rail managed switch/10G fiber switch/L3 managed switch/network switch"
+],
+[
+"STI-288GPM",
+"8 Port Gigabit Ethernet Industrial ERPS Managed CCTV PoE Switch",
+"8 port poe switch/industrial Ethernet switch/Gigabit managed switch"
+],
+[
+"STI-288DGGPM-2BT",
+"8 Port 1G/2.5 L2 Ring Managed 90W 802.3bt PoE++ Network Switch",
+"PoE switch 8 port/802.3bt poe switch/L2 managed switch/industrial Network switch/poe ethernet switches"
+],
+[
+"STC-448XGGMO",
+"4*1G/2.5G/10G Uplink 48 Port SFP Layer 3 Managed Core Fiber Switch",
+"Managed Fiber Switch/48 Port managed switch/10G core switch"
+],
+[
+"STI-050FE",
+"Compact 5 Port Unmanaged 10/100M Industrial Ethernet Switch",
+"5 port network switch/unmanaged 10/100M switch/Compact Ethernet switch/Industrial LAN switch"
+],
+[
+"STI-21616GP",
+"16 Port Gigabit PoE 240W Unmanaged Industrial Network Switch",
+"16 port network switch/240W poe switch/unmanaged ethernet switch/Gigabit LAN switch"
+],
+[
+"STI-240FM",
+"6 Port 10/100M Lite Managed Industrial Fiber Switch",
+"Industrial Ethernet switch/Lite managed switch/10/100M fiber switch"
+],
+[
+"STI-448DGGGPM",
+"8 Port 1G/2.5G Fiber Din Rail L2 Ring Managed 240W PoE Switch",
+"8 Port Fiber switch/240W poe switch/2.5G ring switch/L2 managed switch/Din Ethernet switch"
+],
+[
+"STC-4168XGGCM",
+"1U Rack 24 Port SFP Gigabit Fiber Ethernet Commercial L3 Managed Switch",
+"24 Port SFP switch/Fiber Ethernet switch/L3 managed switch/Gigabit network switch"
+],
+[
+"STI-4168XGGCM-U",
+"24 Port 1G/2.5G/10G Industrial Rack Type L3 Managed Core Fiber Switch",
+"24 port rack switch/Industrial fiber switch/L3 managed switch/10G core switch"
+],
+[
+"STC-424DGGM",
+"28 Port 2.5G SFP Uplink L2 Marvell Managed Fiber Ethernet Switch",
+"2.5G SFP switch/28 port Rack switch/L2 managed switch/Fiber Ethernet switch"
+],
+[
+"STC-448XGGM(L2)",
+"48 Port Gigabit Ethernet L2 Managed Rack 10G Fiber Switch",
+"10G Fiber switch/Gigabit Ethernet switch/48 port network switch/L2 managed switch"
+],
+[
+"STC-120XGM",
+"12 Port L3 Managed 10G SFP+ Fiber Optic Switch",
+"12 port 10G switch/Fiber optic switch/L3 managed switch"
+],
+[
+"STC-08XGE",
+"8 Port Auto-adaptive 10G Unmanaged Ethernet Switch",
+"8 port LAN switch/unmanaged Ethernet switch/10G network switch"
+],
+[
+"STC-80XGO",
+"8 Port Unmanaged 1.25G/2.5G/10G SFP+ Optical Fiber Switch",
+"8 port 10G switch/Unmanaged SFP+ switch/Optical Fiber Switch"
+]
+]
+},
+"Tradeford":{
+"state":"visible",
+"rows":[]
+},
+"Exportpages":{
+"state":"visible",
+"rows":[]
+}
+},
+"extracted_at":"2026-10-23T05:01:25Z"
+}

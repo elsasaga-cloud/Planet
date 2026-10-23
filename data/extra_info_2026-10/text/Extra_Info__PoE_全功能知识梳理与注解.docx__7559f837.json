@@ -1,0 +1,977 @@
+{
+"id":"Extra_Info__PoE_全功能知识梳理与注解.docx__7559f837",
+"path":"Extra_Info/PoE_全功能知识梳理与注解.docx",
+"name":"PoE_全功能知识梳理与注解.docx",
+"ext":".docx",
+"bytes":298817,
+"sha256":"7559f8376957a59cddd5bb526ff0dc8265f646e910c1db561292c99e0241d8f4",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"python-docx",
+"last_modified_by":"Simon",
+"created":"2013-12-23T23:15:00+00:00",
+"modified":"2025-10-13T03:05:29+00:00",
+"paragraphs":190,
+"tables":0,
+"embedded_images":6
+},
+"warnings":[],
+"chars":6766,
+"text":"全功能知识梳理与注解（内部学习培训文档）\n本文件汇总了从基础到平台级别的PoE相关功能，适用于产品学习、技术支持、客户方案交流等场景。每项功能均附带说明与应用背景，便于全面理解与掌握。\n一、基础PoE协议与供电能力\n• IEEE802.3af：最基础PoE协议，最大输出功率为15.4W。适用于普通网络摄像头、VoIP电话等轻负载PD设备。\n• IEEE802.3at：也称PoE+，最大输出功率提升至30W，适用于云台摄像头、高功率AP等设备。\n• IEEE802.3bt：又称PoE++，支持Type 3（60W）和Type 4（90W），可驱动小型工控机、大功率无线AP等设备（当前型号不支持，仅作为知识拓展）。\nLegacy PoE：用于兼容早期非标准PoE设备，尤其是一些只接受24V passive PoE供电的旧式PD。\n这个不等同于Hasivo的那种自动识别PD电压，一般是通过2种模式实现\n非管理的，基本是通过拨码开关来实现，24V 48V可选\n类似公司的PoE Splitter那个拨码一样\n2，管理的通过 Web界面 / CLI命令配置\n标准的PoE就是直接DC 48V 了\n• PoE Distance：标准PoE最大传输距离为100米，超出后需使用PoE extender延长。\n标准传输就是100米，所有超过100米的都属于工程可行的非标准（proprietary）扩展方案\n关于“250 m 降速为 10 Mbps”的机制\n这种模式通常被厂商称为：\n“Extend Mode” / “Long Reach Mode” / “PoE Long Distance Mode”\n典型实现方式：\nPHY 芯片内部会切换成一种降速、提高电压余量、调制优化的工作模式；\n同时 PoE PSE（供电端）会提升输出电压到 55 V 左右，减小压降；\n链路协商强制锁定为 10BASE-T half-duplex。\n实际上，很多 Realtek、Microchip、Broadcom PHY 都内置这种“Extended Reach Mode”。\n例如：\nRTL8211 系列（Realtek）支持长达 250 m；\nMicrochip PD69200 系列 PSE 控制器 支持 10 Mbps 模式下供电 250 m。\n2. VDSL / DSL over Ethernet 技术\n这是实现 500m~800m 的核心技术，大华、海康等安防厂商广泛使用。\n原理：\n不再使用标准以太网协议，而是将数据调制到 VDSL（甚高比特率数字用户线路） 信号上。\n利用普通网线（Cat5e）作为传输介质，但底层协议是 DSL，不是 Ethernet。\n配合专用的 “远距离 PoE 交换机” + “远距离受电模块”（PD端） 成对使用。\n典型架构：\ntext编辑\n[ PoE 交换机（主端） ] ——网线——> [ VDSL 转换模块（远端） ] ——供电+数据——> [ IPC（摄像头） ]\n交换机端输出电力和 VDSL 信号。\n远端模块接收后，还原出标准 Ethernet 和 12V/24V 电源供给摄像头。\n特点：\n距离远：可达 500m~800m（取决于线缆质量）。\n降速明显：有效带宽可能只有 10~30Mbps，适合 1080P 及以下视频流。\n成对使用：必须主端和远端配套，不能混用标准设备。\n抗干扰强：DSL 技术本身对长距离铜线优化较好。\n✅ 大华宣传的“800米 PoE”正是基于 VDSL + Passive PoE 的混合方案。\n补充 2：关于“大华 800 m PoE”的真实原理\n你指出它基于 DSL 技术，这完全正确。\n进一步说，大华、海康这类厂商的“800 m PoE”方案本质上是：\nVDSL2 / SHDSL over 2-Wire with DC Power Injection\n即通过两芯双绞线，把数据调制成 VDSL2 信号，同时叠加直流电压（通常 60–72 V DC）。\n在远端：\n使用专用接收模块（如 LRP Receiver / Long Reach PoE Extender），\n将 DSL 信号解调为标准以太网；\n内部再降压输出 48 V PoE（IEEE 802.3af/at 兼容）。\n实测带宽一般在 10–25 Mbps 左右（800 m 时），\n如果线缆质量好（Cat6 或双绞线铜芯较粗），可达到 30 Mbps。\n典型设备：\nDahua LR1002 系列\nHikvision EKI-K 系列 Long-Range PoE Switch\n补充 3：关于电力传输损耗与补偿\nPoE 供电的最大挑战不是数据，而是电压降。\n典型 Cat5e 双绞线的电阻约 9.38 Ω / 100 m（双向 18.76 Ω）。\n举例：\n供电电流 0.35 A × 18.76 Ω ≈ 6.6 V 压降\n所以：\n100 m 后电压从 48 V 掉到约 41 V；\n200 m 后只剩约 35 V，很多 PD 已经工作不稳。\n因此厂商常用补偿方法：\n提高发送端电压（55 V~57 V）；\n使用更粗的线缆（Cat6 / 23 AWG）；\n在中点加延长器再注入一次电压（Repeater）；\n控制功率等级（远距离仅支持 af，不能同时高功率 at/bt）。\nPoE 长距离不是以太网协议扩展，而是电源与物理层技术的组合优化\n• PoE Wiring：典型接线方式为Mode A/B，标准线序1/2(+)、3/6(-)。\n• PoE Output Voltage：典型输出电压为DC48V，用于主动供电；不支持24V被动供电时需使用PoE splitter转换。\n• PoE Budget：整机最大可分配的PoE功率，如240W。决定了同时供电端口数量与强度。\n二、PoE检测机制与保护策略\n• PoE Startup Detection：检测PD设备是否存在并支持PoE协议，通常通过电阻签名与Class分级识别。\n• PoE Startup Delay：端口启用PoE时采用软启动机制，防止突发浪涌电流影响主控芯片。\n• PoE Port Protection：每个PoE端口具备过载与短路保护，防止异常PD设备烧毁端口。\n• PD Alive Check (Watchdog)：定时检测PD连接状态（如通过ping），如无响应自动重启PoE端口，确保远程摄像头等设备自动恢复。\n• Per-Port PoE Manual Cut-off：为避免功率异常可手动设置端口断电保护，例如摄像头因雷击导致功率飙升时自动关闭供电。\n• PoE Max Cap Notification：当PoE整体负载接近设定阈值（如90%）时自动发送Trap或Syslog警报，提醒用户预警。\n• Reverse Polarity Protection：防止用户误接反极性电源导致设备烧毁（硬件保护机制）。\n• Over-current Protection：PoE主电路检测异常电流自动断开，保护系统和PD不被烧毁。\n三、PoE资源调度与动态管理\n• PoE Priority：支持高、中、低优先级策略，资源不足时自动断开低优先级端口，保障关键设备供电。\n• Power Allocation：动态按PD请求分配功率，如一台设备只需5W，则系统自动释放剩余功率给其他端口。\n• PoE Power Reservation / Over-Provisioning：允许多个端口声明需求超过总PoE Budget，但系统只在真实使用时动态调度，类似于内存oversubscription原理。\n• PoE Soft Limit：当端口负载略超限制值时非立即断电，而是尝试动态限流，防止误判造成掉线（中高端平台支持）。\n四、PoE端口控制与远程操作\n• Per-Port Enable/Disable：通过Web、SNMP、CLI、API等手段远程开关某个PoE端口，适用于远程重启或能耗控制。\n• PoE Scheduling：设定PoE供电时间表，如夜间关闭楼道摄像头或白天关闭会议室AP等节能策略。\n• PoE Output Configuration：设置每个端口的PoE功率限制（如10W封顶），便于精细管控PD。\n• PoE Port Bounce：快速断电再上电（如500ms）重启PD设备，常用于代替人工拔插排查问题。\n• Per-Port PoE Delayed Startup：不同端口配置不同的启动延时，避免集中上电导致电源浪涌或母线掉压。\n五、PoE状态监控与网络集成\n• Per-Port Power Monitoring via SNMP OID：通过SNMP协议，远程查询每个PoE端口的电压、电流、功率数据，适用于NMS平台集中监控。\n• PoE Usage Statistics/History：系统自动记录每个端口的PoE平均功率、最大值和累计用电量，用于容量评估与运维排查。\n• PoE Trap / Syslog Integration：PoE上/下电、故障、异常等事件触发SNMP Trap或写入Syslog日志，适合企业级集成管理系统。\n• SNMP Trap for PD Failure：PD掉电、异常、线路断开等问题被快速捕捉并上报，有助于主动维护\n• LLDP-MED PoE Extension：通过PD主动上报所需功率，交换机再根据实际配置合理供电，提升精度和效率\n六、进阶/平台级扩展功能（芯片或系统层）\n• Thermal-Based PoE Throttling：系统检测温度过高时主动降低PoE功率输出，避免过热宕机。\n• Environment-Adaptive PoE：根据实时环境温度、电源负载动态调节输出策略，适合复杂现场环境（如轨交/工业）。\n• Redundant Power Switchover：主电源掉电后自动切换至备用电源，不影响PoE连续性。\n• PoE & DI联动：DI输入触发PoE事件，如某一工业开关量信号激活时开启/关闭某个端口PoE输出。\n• PoE Event to Modbus Mapping：将PoE端口状态映射为Modbus地址，供PLC系统监控（工业自动化场景）\n七、推荐附加资料（作为客户交付或学习补充）\n• PoE Compatibility List：列出经过验证的兼容PD设备（如海康/大华摄像头、Ubiquiti AP等），减少现场不兼容问题。\n• MIB/OID文档：提供完整OID定义，便于NMS系统快速集成SNMP监控。\n• PoE Web GUI截图：展示如何在图形界面中查看PoE状态、配置端口、调取功耗等。\nPoE 高级功能术语全集（‥实用框架+行业模糊说明）\n一、PoE基础协议支持\n• IEEE802.3af: 支持最大15.4W的PoE标准与设备识别\n• IEEE802.3at: 支持最大30W的PoE+ 标准\n• IEEE802.3bt: 支持最高90W (分为Type 3/4)\n• Legacy PoE: 支持非标准PoE设备，如旧式摄像头、24V Passive PD\n• LLDP-MED PoE Extension: 支持通过LLDP-MED进行PoE调配，接入高级PD时有效\n二、管理协议和系统支持\n• SNMP MIB/OID Support: 支持通过MIB/OID进行PoE统计和管理\n• Per-Port SNMP Monitoring: 支持端口的电压、电流、功率统计\n• SNMP Trap for PD Failure: PD设备掉线/故障时触发Trap推送\n• PoE Trap/Syslog Integration: 用于事件日志/告警系统联动\n• OID Documentation Available: 可提供MIB文件和OID地址对照表\n三、PoE资源分配和保护\n• Max PoE Budget: 支持整机最大PoE资源预算\n• Per-Port Power Limit: 每个端口支持最大PoE输出限制\n• Power Allocation: 动态分配系统，根据需求分配PoE资源\n• PoE Priority: 支持优先级设置，资源缺时优先保证高优先级\n• Power Over-Provisioning: 支持资源超配，系统自动分配\n• Soft Limit: 温和超功率时非强制截断，先逐渐限制\n• PoE Max Cap Notification: 当总PoE资源近温曲点时发出告警\n四、PoE管理操控功能\n• Remote Port Control: 支持Web/SNMP/命令行远程打开或关闭PoE\n• Port Bounce: 端口快速重启，精细控制PD重启\n• PoE Scheduling: 按时打开/关闭PoE，实现节能\n• PoE Output Config: 支持端口级功率设置，其中输出电压不一定支持\n• Per-Port Startup Delay: 避免同时启动造成出现冲击流\n• Manual Cut-off: 用户可手动设定PoE强制截断问题端口\n五、故障处理和智能检测\n• PD Alive Check (Watchdog): 周期检测PD是否正常连接，如掉线自动重启\n• PoE Startup Detection: 支持PD签名和分类检测\n• PoE Event Logging: 记录PoE相关日志，便于故障跟踪\n• PoE Usage History: 记录每个端口PoE压、流、功率历史展示\n• Overload Auto Recovery: 遇到PoE超出时，自动恢复PoE选项\n• Environment-Adaptive PoE: 根据环境温度等动态调节PoE输出\n• Temperature Derating: 温度过高时降低PoE功率，防止设备辐点\n附录：推荐补充资料\n• PoE Load Compatibility List:\n• SNMP OID Mapping Sheet:\n• Zabbix / PRTG 实时PoE统计展示图示例:\n• Trap/日志配置指南:\n• MIB .txt原文体:\n文件中已完整覆盖内容分类如下：\n1. 基础PoE协议与供电能力\nIEEE802.3af / at / bt（包括说明bt暂不支持，仅为学习拓展）\nLegacy PoE\nPoE Distance、Wiring、Output Voltage、Budget 等基础概念与技术说明\n2. 检测机制与安全保护\n启动检测（PD签名识别）\nSoft-start启动延迟\n短路与过载保护\nPD Alive Check（你提到的 Watchdog 功能）\nMax Cap 告警\n手动限功断电、反接保护、过流保护等\n3. 资源调度与优先级管理\nPoE优先级控制（Auto Cutoff）\n动态分配（Power Allocation）\nOver-Provisioning/Reservation（你问我 trap 相关时提到）\nSoft Limit 功能（高端平台才有）\n4. 远程管理与操控能力\nEnable/Disable、端口控制（Web/SNMP/CLI/API）\nPoE Scheduling（定时供电）\nOutput Configuration（功率配置）\nPort Bounce\n启动延迟（Per-Port）\n5. 监控、Trap、告警类\nSNMP OID（Per-Port Monitoring、带解释）\nTrap for PD Failure\nSyslog联动\nUsage Statistics/History（你提出历史记录时我们讨论过）\nLLDP-MED PoE Extension\n6. 平台/芯片/工业扩展功能（你让我分类扩展的）\n热降额策略（Thermal-based Throttling）\n环境自适应PoE（Environment-Adaptive）\n冗余电源切换（Redundant Input）\nDI联动控制PoE、Modbus联动（用于PLC）\nFast Recovery、Loop Protection、堆叠供电（作为学习拓展）\n7. 附录建议资料（你提到能否提供参考文件）\nPoE兼容列表\nMIB/OID文档\nGUI截图建议（写给客户看更直观）",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"全功能知识梳理与注解（内部学习培训文档）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"本文件汇总了从基础到平台级别的PoE相关功能，适用于产品学习、技术支持、客户方案交流等场景。每项功能均附带说明与应用背景，便于全面理解与掌握。"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"一、基础PoE协议与供电能力"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• IEEE802.3af：最基础PoE协议，最大输出功率为15.4W。适用于普通网络摄像头、VoIP电话等轻负载PD设备。"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• IEEE802.3at：也称PoE+，最大输出功率提升至30W，适用于云台摄像头、高功率AP等设备。"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• IEEE802.3bt：又称PoE++，支持Type 3（60W）和Type 4（90W），可驱动小型工控机、大功率无线AP等设备（当前型号不支持，仅作为知识拓展）。"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"Legacy PoE：用于兼容早期非标准PoE设备，尤其是一些只接受24V passive PoE供电的旧式PD。"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"这个不等同于Hasivo的那种自动识别PD电压，一般是通过2种模式实现"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"非管理的，基本是通过拨码开关来实现，24V 48V可选"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"类似公司的PoE Splitter那个拨码一样"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"2，管理的通过 Web界面 / CLI命令配置"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"标准的PoE就是直接DC 48V 了"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• PoE Distance：标准PoE最大传输距离为100米，超出后需使用PoE extender延长。"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"标准传输就是100米，所有超过100米的都属于工程可行的非标准（proprietary）扩展方案"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"关于“250 m 降速为 10 Mbps”的机制"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这种模式通常被厂商称为："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"“Extend Mode” / “Long Reach Mode” / “PoE Long Distance Mode”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"典型实现方式："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PHY 芯片内部会切换成一种降速、提高电压余量、调制优化的工作模式；"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"同时 PoE PSE（供电端）会提升输出电压到 55 V 左右，减小压降；"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"链路协商强制锁定为 10BASE-T half-duplex。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"实际上，很多 Realtek、Microchip、Broadcom PHY 都内置这种“Extended Reach Mode”。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"例如："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"RTL8211 系列（Realtek）支持长达 250 m；"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Microchip PD69200 系列 PSE 控制器 支持 10 Mbps 模式下供电 250 m。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2. VDSL / DSL over Ethernet 技术"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这是实现 500m~800m 的核心技术，大华、海康等安防厂商广泛使用。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"原理："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不再使用标准以太网协议，而是将数据调制到 VDSL（甚高比特率数字用户线路） 信号上。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"利用普通网线（Cat5e）作为传输介质，但底层协议是 DSL，不是 Ethernet。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"配合专用的 “远距离 PoE 交换机” + “远距离受电模块”（PD端） 成对使用。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"典型架构："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"text编辑"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"[ PoE 交换机（主端） ] ——网线——> [ VDSL 转换模块（远端） ] ——供电+数据——> [ IPC（摄像头） ]"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"交换机端输出电力和 VDSL 信号。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"远端模块接收后，还原出标准 Ethernet 和 12V/24V 电源供给摄像头。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"特点："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"距离远：可达 500m~800m（取决于线缆质量）。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"降速明显：有效带宽可能只有 10~30Mbps，适合 1080P 及以下视频流。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"成对使用：必须主端和远端配套，不能混用标准设备。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"抗干扰强：DSL 技术本身对长距离铜线优化较好。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"✅ 大华宣传的“800米 PoE”正是基于 VDSL + Passive PoE 的混合方案。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"补充 2：关于“大华 800 m PoE”的真实原理"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你指出它基于 DSL 技术，这完全正确。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"进一步说，大华、海康这类厂商的“800 m PoE”方案本质上是："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"VDSL2 / SHDSL over 2-Wire with DC Power Injection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"即通过两芯双绞线，把数据调制成 VDSL2 信号，同时叠加直流电压（通常 60–72 V DC）。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"在远端："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"使用专用接收模块（如 LRP Receiver / Long Reach PoE Extender），"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"将 DSL 信号解调为标准以太网；"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"内部再降压输出 48 V PoE（IEEE 802.3af/at 兼容）。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"实测带宽一般在 10–25 Mbps 左右（800 m 时），"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"如果线缆质量好（Cat6 或双绞线铜芯较粗），可达到 30 Mbps。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"典型设备："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Dahua LR1002 系列"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Hikvision EKI-K 系列 Long-Range PoE Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"补充 3：关于电力传输损耗与补偿"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE 供电的最大挑战不是数据，而是电压降。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"典型 Cat5e 双绞线的电阻约 9.38 Ω / 100 m（双向 18.76 Ω）。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"举例："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"供电电流 0.35 A × 18.76 Ω ≈ 6.6 V 压降"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"所以："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"100 m 后电压从 48 V 掉到约 41 V；"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"200 m 后只剩约 35 V，很多 PD 已经工作不稳。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"因此厂商常用补偿方法："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"提高发送端电压（55 V~57 V）；"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"使用更粗的线缆（Cat6 / 23 AWG）；"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"在中点加延长器再注入一次电压（Repeater）；"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"控制功率等级（远距离仅支持 af，不能同时高功率 at/bt）。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE 长距离不是以太网协议扩展，而是电源与物理层技术的组合优化"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• PoE Wiring：典型接线方式为Mode A/B，标准线序1/2(+)、3/6(-)。"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• PoE Output Voltage：典型输出电压为DC48V，用于主动供电；不支持24V被动供电时需使用PoE splitter转换。"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• PoE Budget：整机最大可分配的PoE功率，如240W。决定了同时供电端口数量与强度。"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"二、PoE检测机制与保护策略"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• PoE Startup Detection：检测PD设备是否存在并支持PoE协议，通常通过电阻签名与Class分级识别。"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• PoE Startup Delay：端口启用PoE时采用软启动机制，防止突发浪涌电流影响主控芯片。"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• PoE Port Protection：每个PoE端口具备过载与短路保护，防止异常PD设备烧毁端口。"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• PD Alive Check (Watchdog)：定时检测PD连接状态（如通过ping），如无响应自动重启PoE端口，确保远程摄像头等设备自动恢复。"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• Per-Port PoE Manual Cut-off：为避免功率异常可手动设置端口断电保护，例如摄像头因雷击导致功率飙升时自动关闭供电。"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• PoE Max Cap Notification：当PoE整体负载接近设定阈值（如90%）时自动发送Trap或Syslog警报，提醒用户预警。"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• Reverse Polarity Protection：防止用户误接反极性电源导致设备烧毁（硬件保护机制）。"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• Over-current Protection：PoE主电路检测异常电流自动断开，保护系统和PD不被烧毁。"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"三、PoE资源调度与动态管理"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• PoE Priority：支持高、中、低优先级策略，资源不足时自动断开低优先级端口，保障关键设备供电。"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• Power Allocation：动态按PD请求分配功率，如一台设备只需5W，则系统自动释放剩余功率给其他端口。"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• PoE Power Reservation / Over-Provisioning：允许多个端口声明需求超过总PoE Budget，但系统只在真实使用时动态调度，类似于内存oversubscription原理。"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• PoE Soft Limit：当端口负载略超限制值时非立即断电，而是尝试动态限流，防止误判造成掉线（中高端平台支持）。"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"四、PoE端口控制与远程操作"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• Per-Port Enable/Disable：通过Web、SNMP、CLI、API等手段远程开关某个PoE端口，适用于远程重启或能耗控制。"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• PoE Scheduling：设定PoE供电时间表，如夜间关闭楼道摄像头或白天关闭会议室AP等节能策略。"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• PoE Output Configuration：设置每个端口的PoE功率限制（如10W封顶），便于精细管控PD。"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• PoE Port Bounce：快速断电再上电（如500ms）重启PD设备，常用于代替人工拔插排查问题。"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• Per-Port PoE Delayed Startup：不同端口配置不同的启动延时，避免集中上电导致电源浪涌或母线掉压。"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"五、PoE状态监控与网络集成"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• Per-Port Power Monitoring via SNMP OID：通过SNMP协议，远程查询每个PoE端口的电压、电流、功率数据，适用于NMS平台集中监控。"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• PoE Usage Statistics/History：系统自动记录每个端口的PoE平均功率、最大值和累计用电量，用于容量评估与运维排查。"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• PoE Trap / Syslog Integration：PoE上/下电、故障、异常等事件触发SNMP Trap或写入Syslog日志，适合企业级集成管理系统。"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• SNMP Trap for PD Failure：PD掉电、异常、线路断开等问题被快速捕捉并上报，有助于主动维护"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• LLDP-MED PoE Extension：通过PD主动上报所需功率，交换机再根据实际配置合理供电，提升精度和效率"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"六、进阶/平台级扩展功能（芯片或系统层）"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• Thermal-Based PoE Throttling：系统检测温度过高时主动降低PoE功率输出，避免过热宕机。"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• Environment-Adaptive PoE：根据实时环境温度、电源负载动态调节输出策略，适合复杂现场环境（如轨交/工业）。"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• Redundant Power Switchover：主电源掉电后自动切换至备用电源，不影响PoE连续性。"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• PoE & DI联动：DI输入触发PoE事件，如某一工业开关量信号激活时开启/关闭某个端口PoE输出。"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• PoE Event to Modbus Mapping：将PoE端口状态映射为Modbus地址，供PLC系统监控（工业自动化场景）"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"七、推荐附加资料（作为客户交付或学习补充）"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• PoE Compatibility List：列出经过验证的兼容PD设备（如海康/大华摄像头、Ubiquiti AP等），减少现场不兼容问题。"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• MIB/OID文档：提供完整OID定义，便于NMS系统快速集成SNMP监控。"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• PoE Web GUI截图：展示如何在图形界面中查看PoE状态、配置端口、调取功耗等。"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"PoE 高级功能术语全集（‥实用框架+行业模糊说明）"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"一、PoE基础协议支持"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• IEEE802.3af: 支持最大15.4W的PoE标准与设备识别"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• IEEE802.3at: 支持最大30W的PoE+ 标准"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• IEEE802.3bt: 支持最高90W (分为Type 3/4)"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• Legacy PoE: 支持非标准PoE设备，如旧式摄像头、24V Passive PD"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• LLDP-MED PoE Extension: 支持通过LLDP-MED进行PoE调配，接入高级PD时有效"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"二、管理协议和系统支持"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• SNMP MIB/OID Support: 支持通过MIB/OID进行PoE统计和管理"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• Per-Port SNMP Monitoring: 支持端口的电压、电流、功率统计"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• SNMP Trap for PD Failure: PD设备掉线/故障时触发Trap推送"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• PoE Trap/Syslog Integration: 用于事件日志/告警系统联动"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• OID Documentation Available: 可提供MIB文件和OID地址对照表"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"三、PoE资源分配和保护"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• Max PoE Budget: 支持整机最大PoE资源预算"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• Per-Port Power Limit: 每个端口支持最大PoE输出限制"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• Power Allocation: 动态分配系统，根据需求分配PoE资源"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• PoE Priority: 支持优先级设置，资源缺时优先保证高优先级"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• Power Over-Provisioning: 支持资源超配，系统自动分配"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• Soft Limit: 温和超功率时非强制截断，先逐渐限制"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• PoE Max Cap Notification: 当总PoE资源近温曲点时发出告警"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"四、PoE管理操控功能"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• Remote Port Control: 支持Web/SNMP/命令行远程打开或关闭PoE"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• Port Bounce: 端口快速重启，精细控制PD重启"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• PoE Scheduling: 按时打开/关闭PoE，实现节能"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• PoE Output Config: 支持端口级功率设置，其中输出电压不一定支持"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• Per-Port Startup Delay: 避免同时启动造成出现冲击流"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• Manual Cut-off: 用户可手动设定PoE强制截断问题端口"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"五、故障处理和智能检测"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• PD Alive Check (Watchdog): 周期检测PD是否正常连接，如掉线自动重启"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• PoE Startup Detection: 支持PD签名和分类检测"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• PoE Event Logging: 记录PoE相关日志，便于故障跟踪"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• PoE Usage History: 记录每个端口PoE压、流、功率历史展示"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• Overload Auto Recovery: 遇到PoE超出时，自动恢复PoE选项"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• Environment-Adaptive PoE: 根据环境温度等动态调节PoE输出"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• Temperature Derating: 温度过高时降低PoE功率，防止设备辐点"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"附录：推荐补充资料"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• PoE Load Compatibility List:"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• SNMP OID Mapping Sheet:"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• Zabbix / PRTG 实时PoE统计展示图示例:"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• Trap/日志配置指南:"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"• MIB .txt原文体:"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"文件中已完整覆盖内容分类如下："
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"1. 基础PoE协议与供电能力"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"IEEE802.3af / at / bt（包括说明bt暂不支持，仅为学习拓展）"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"Legacy PoE"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"PoE Distance、Wiring、Output Voltage、Budget 等基础概念与技术说明"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"2. 检测机制与安全保护"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"启动检测（PD签名识别）"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"Soft-start启动延迟"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"短路与过载保护"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"PD Alive Check（你提到的 Watchdog 功能）"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"Max Cap 告警"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"手动限功断电、反接保护、过流保护等"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"3. 资源调度与优先级管理"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"PoE优先级控制（Auto Cutoff）"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"动态分配（Power Allocation）"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"Over-Provisioning/Reservation（你问我 trap 相关时提到）"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"Soft Limit 功能（高端平台才有）"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"4. 远程管理与操控能力"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"Enable/Disable、端口控制（Web/SNMP/CLI/API）"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"PoE Scheduling（定时供电）"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"Output Configuration（功率配置）"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"Port Bounce"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"启动延迟（Per-Port）"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"5. 监控、Trap、告警类"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"SNMP OID（Per-Port Monitoring、带解释）"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"Trap for PD Failure"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"Syslog联动"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"Usage Statistics/History（你提出历史记录时我们讨论过）"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"LLDP-MED PoE Extension"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"6. 平台/芯片/工业扩展功能（你让我分类扩展的）"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"热降额策略（Thermal-based Throttling）"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"环境自适应PoE（Environment-Adaptive）"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"冗余电源切换（Redundant Input）"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"DI联动控制PoE、Modbus联动（用于PLC）"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"Fast Recovery、Loop Protection、堆叠供电（作为学习拓展）"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"7. 附录建议资料（你提到能否提供参考文件）"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"PoE兼容列表"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"MIB/OID文档"
+},
+{
+"t":"p",
+"s":"List Bullet",
+"text":"GUI截图建议（写给客户看更直观）"
+}
+],
+"extracted_at":"2026-10-23T05:01:24Z"
+}

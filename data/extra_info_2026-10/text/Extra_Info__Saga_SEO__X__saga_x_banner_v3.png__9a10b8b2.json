@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_SEO__X__saga_x_banner_v3.png__9a10b8b2",
+"path":"Extra_Info/Saga SEO/X/saga_x_banner_v3.png",
+"name":"saga_x_banner_v3.png",
+"ext":".png",
+"bytes":65665,
+"sha256":"9a10b8b2a9e8f59145a4fec1f75163229e366d8e269fee8f4adc816af75e14f9",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1500,
+"height":500,
+"mode":"RGB",
+"thumb_bytes":4610
+},
+"warnings":[],
+"chars":427,
+"text":"STI— Indust\ncuermccorue 9 cnnntv euATN crocr DIN-rail ，-4e\"c to 75°C + 196 Fiber Uptinks\nnsT PoE+ ，ERPS ，Fiber Bypass\nDI/D0/RS485 ，Temp-Humidity Sensor\nMan itching 22...\nSAGA anaged switching\nRING & SUPPLY-cI\n一 5\n106 sFP+ - Dual Ac + 749w Budget\nSTH 一 Core & Aggregation\nTELECOM O I eve I a e I e 324006 MPLS / VXLAN / EVPN\nhalf-width » Hot-swap PSU & Fan\navailable across all Lines\nIndustrial - commercial - core & aggregation",
+"extracted_at":"2026-10-23T05:02:27Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__X__saga_x_banner_v3.png__9a10b8b2.jpg"
+}

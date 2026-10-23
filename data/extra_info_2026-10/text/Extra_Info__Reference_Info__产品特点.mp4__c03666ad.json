@@ -1,0 +1,25 @@
+{
+"id":"Extra_Info__Reference_Info__产品特点.mp4__c03666ad",
+"path":"Extra_Info/Reference Info/产品特点.mp4",
+"name":"产品特点.mp4",
+"ext":".mp4",
+"bytes":58280054,
+"sha256":"c03666adb242e6beba5dad1fd00798bfa52911337ea9861bf4b2cf7b44252f45",
+"source":"Extra_Info.zip",
+"method":"ffprobe+ffmpeg",
+"status":"meta",
+"meta":{
+"duration_s":53.6,
+"width":1920,
+"height":1080,
+"vcodec":"h264",
+"acodec":"aac",
+"creation_time":"2024-04-18T09:18:02.000000Z",
+"thumb_bytes":3917
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:10:08Z",
+"thumb":"thumbs/Extra_Info__Reference_Info__产品特点.mp4__c03666ad.jpg"
+}

@@ -1,0 +1,247 @@
+{
+"id":"Extra_Info__STH__可编辑版本__规格书__S2100_Series_Layer2_entry_level_switches_datasheet_EN_V1.0.pptx__e53fd433",
+"path":"Extra_Info/STH/可编辑版本/规格书/S2100 Series Layer2 entry level switches datasheet_EN_V1.0.pptx",
+"name":"S2100 Series Layer2 entry level switches datasheet_EN_V1.0.pptx",
+"ext":".pptx",
+"bytes":9131157,
+"sha256":"e53fd433a394b076ae50676ce5a65927fe3fabb572578a66cf9253e40a63f4b4",
+"source":"Extra_Info.zip",
+"method":"python-pptx",
+"status":"ok",
+"meta":{
+"slides":3,
+"pictures":1
+},
+"warnings":[
+"shape: Shape instance of unrecognized shape type"
+],
+"chars":2317,
+"text":"[slide 1]\nS2100 SERIES SWITCHES\nDATASHEET\nLayer 2 entry level Switch\nProduct Overview\nVersion: V1.0\u000bRelease Date: 2025/10/08\nThe S2100 Series switches are built on a cost-effective, Layer 2 manageable access platform featuring up to 28 Gigabit ports. With optional 30W PoE support and easy management, they are ideal for meeting the connectivity needs of enterprise and SMB networks.\nThe S2100 Series switches provide felixible port configuration for scenario.\nKey features of the S2100 Series Switches\nPOE features comply with 802.11 AF/AT standard, 30W\nUp to 56Gbps Switching Capacity\nWEB UI management\nSupport Link Aggregation, VLAN, ACL,IGMP snooping and QOS\nThe Number of Mac address:  8K.\nBuffer: 4M\nInput Power:AC: 90V-260V\nWorking Temerature:  -10℃~45℃.\nHumidity: 5%-95% None Condensation\nInput Power:AC: 90V-260V\nModel\t1G Base-T\t1G SFP\tPoE\tPower\tSize\tForwarding rate\nS2108T-2S\t8\t2\tX\t12W\t290*180*44mm\t14.88Mpps\nS2108P-2S\t8\t2\t◯\t150W\t290*180*44mm\t14.88Mpps\nS2124T-4S\t24\t4\tX\t18w\t440*180*44mm\t41.66Mpps\nS2124P-4S\t24\t4\t◯\t250W\t440*180*44mm\t41.66Mpps\n\n[slide 2]\nThe S2100 Series switches support essential Layer 2 functions which is able to configure and managed by WEB UI.\nFeatures\tDescription\nWeb interface\tWeb login\n\tHome page displays device overview\nPort management\tPort supports configuration of rate, duplex, mode, and megaframe\n\tCount the number of packets received and sent by each port\n\tSupport link aggregation (up to 5 groups, with a maximum of 8 member ports per group)\n\tSupport storm control (percentage mode and packet rate mode)\n\tSupport flow control\n\tSupports port isolation\n\tSupports loopback protection\nService Management\tSupports 4K VLAN\n\tSupports 8K MAC address table entries\n\tSupport MAC blacklist\n\tSupports static MAC addresses\n\tSupports port based MAC learning restrictions\n\tSupports multicast MAC addresses (512, WEB can be configured with up to 50)\n\tSupports port mirroring (1 session)\nACL\tIP standard ACL\n\tMAC standard ACL\n\tBased on the second layer interface (physical interface/AP) associated entry ACL\n\tSupports a total of 128 ACLs\nIGMP Snooping\tSupport (up to 50 studies)\nQOS\tPort based speed limit (28 speed limits in the direction of entry, with a granularity of 8kbps)\n\tSP/WDRR priority scheduling\n\tPriority Mapping Based on COS/DSCP\n\tBased on Port/Queue traffic shaping\n\n[slide 3]\n",
+"slides":[
+{
+"n":1,
+"items":[
+{
+"t":"p",
+"text":"S2100 SERIES SWITCHES\nDATASHEET"
+},
+{
+"t":"p",
+"text":"Layer 2 entry level Switch"
+},
+{
+"t":"p",
+"text":"Product Overview"
+},
+{
+"t":"p",
+"text":"Version: V1.0\u000bRelease Date: 2025/10/08"
+},
+{
+"t":"p",
+"text":"The S2100 Series switches are built on a cost-effective, Layer 2 manageable access platform featuring up to 28 Gigabit ports. With optional 30W PoE support and easy management, they are ideal for meeting the connectivity needs of enterprise and SMB networks."
+},
+{
+"t":"p",
+"text":"The S2100 Series switches provide felixible port configuration for scenario."
+},
+{
+"t":"p",
+"text":"Key features of the S2100 Series Switches"
+},
+{
+"t":"p",
+"text":"POE features comply with 802.11 AF/AT standard, 30W\nUp to 56Gbps Switching Capacity\nWEB UI management\nSupport Link Aggregation, VLAN, ACL,IGMP snooping and QOS"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"1G Base-T",
+"1G SFP",
+"PoE",
+"Power",
+"Size",
+"Forwarding rate"
+],
+[
+"S2108T-2S",
+"8",
+"2",
+"X",
+"12W",
+"290*180*44mm",
+"14.88Mpps"
+],
+[
+"S2108P-2S",
+"8",
+"2",
+"◯",
+"150W",
+"290*180*44mm",
+"14.88Mpps"
+],
+[
+"S2124T-4S",
+"24",
+"4",
+"X",
+"18w",
+"440*180*44mm",
+"41.66Mpps"
+],
+[
+"S2124P-4S",
+"24",
+"4",
+"◯",
+"250W",
+"440*180*44mm",
+"41.66Mpps"
+]
+]
+},
+{
+"t":"p",
+"text":"The Number of Mac address:  8K.\nBuffer: 4M\nInput Power:AC: 90V-260V"
+},
+{
+"t":"p",
+"text":"Working Temerature:  -10℃~45℃.\nHumidity: 5%-95% None Condensation\nInput Power:AC: 90V-260V"
+},
+{
+"t":"picture",
+"name":"图片 5"
+}
+],
+"notes":""
+},
+{
+"n":2,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Features",
+"Description"
+],
+[
+"Web interface",
+"Web login"
+],
+[
+"",
+"Home page displays device overview"
+],
+[
+"Port management",
+"Port supports configuration of rate, duplex, mode, and megaframe"
+],
+[
+"",
+"Count the number of packets received and sent by each port"
+],
+[
+"",
+"Support link aggregation (up to 5 groups, with a maximum of 8 member ports per group)"
+],
+[
+"",
+"Support storm control (percentage mode and packet rate mode)"
+],
+[
+"",
+"Support flow control"
+],
+[
+"",
+"Supports port isolation"
+],
+[
+"",
+"Supports loopback protection"
+],
+[
+"Service Management",
+"Supports 4K VLAN"
+],
+[
+"",
+"Supports 8K MAC address table entries"
+],
+[
+"",
+"Support MAC blacklist"
+],
+[
+"",
+"Supports static MAC addresses"
+],
+[
+"",
+"Supports port based MAC learning restrictions"
+],
+[
+"",
+"Supports multicast MAC addresses (512, WEB can be configured with up to 50)"
+],
+[
+"",
+"Supports port mirroring (1 session)"
+],
+[
+"ACL",
+"IP standard ACL"
+],
+[
+"",
+"MAC standard ACL"
+],
+[
+"",
+"Based on the second layer interface (physical interface/AP) associated entry ACL"
+],
+[
+"",
+"Supports a total of 128 ACLs"
+],
+[
+"IGMP Snooping",
+"Support (up to 50 studies)"
+],
+[
+"QOS",
+"Port based speed limit (28 speed limits in the direction of entry, with a granularity of 8kbps)"
+],
+[
+"",
+"SP/WDRR priority scheduling"
+],
+[
+"",
+"Priority Mapping Based on COS/DSCP"
+],
+[
+"",
+"Based on Port/Queue traffic shaping"
+]
+]
+},
+{
+"t":"p",
+"text":"The S2100 Series switches support essential Layer 2 functions which is able to configure and managed by WEB UI."
+}
+],
+"notes":""
+},
+{
+"n":3,
+"items":[],
+"notes":""
+}
+],
+"extracted_at":"2026-10-23T05:04:27Z"
+}

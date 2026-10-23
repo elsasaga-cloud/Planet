@@ -1,0 +1,1262 @@
+{
+"id":"Extra_Info__Saga_SEO__Brand_site_INSIGHTS.docx__bc4ad9d9",
+"path":"Extra_Info/Saga SEO/Brand site INSIGHTS.docx",
+"name":"Brand site INSIGHTS.docx",
+"ext":".docx",
+"bytes":49780,
+"sha256":"bc4ad9d9e0190d9176e808a6829007b830d8edcb7531cf94bee8b0950385c39f",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2026-08-23T14:14:00+00:00",
+"modified":"2026-08-24T11:03:30+00:00",
+"paragraphs":247,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"chars":40700,
+"text":"Brand site INSIGHTS\n结合 Saga 的定位和目标客户，按时间线给你规划：\n---\n**9月（第5、6篇）— 产品技术选型类**\n**第5篇：** *When to Choose Industrial vs. Commercial Ethernet Switches — A Deployment Decision Framework*\n切入点是采购决策里最常见的困惑——很多项目到底该用工业级还是商业级？从温度范围、MTBF、电源冗余、安装环境四个维度给出判断框架。命中 SI 和项目工程师在选型阶段的真实搜索。\n**第6篇：** *PoE Budget Planning: The Calculation Most Network Engineers Get Wrong*\nPoE 预算不足是部署失败最常见的原因之一。给出真实计算公式，解释为什么标称 280W/370W/740W 和实际可用功率不是一回事，怎么按设备功耗留余量。非常实操，适合工程师收藏。\n---\n**10月（第7、8篇）— 供应链与合作关系类**\n**第7篇：** *What Happens to Your Project When Chipset Allocation Tightens — A Real Scenario*\n不是抽象讲库存，而是用一个具体场景（项目交期、供应商断货、客户等待）来说明没有 strategic inventory 的代价。比第1篇更有故事感，适合作为第1篇的延伸。\n**第8篇：** *Five Questions to Ask Before Signing an OEM Switch Agreement*\n采购 OEM 交换机前必问的五个问题：固件谁维护、EOL 政策是什么、定制深度到哪里、库存如何保证、质控流程怎么走。每个问题后面带 Saga 的回答作为对比参照。\n---\n**11月（第9、10篇）— 市场/应用场景类**\n**第9篇：** *Ethernet Switching for CCTV and IP Surveillance: What Actually Matters*\nCCTV 是 STC 产品的核心场景之一，带宽计算、IGMP snooping、PoE 规划、环网保护，从实际部署角度说清楚。命中大量搜索流量。\n**第10篇：** *Why Marvell Prestera Switches Work Better for Long-Cycle OEM Products*\n专门写给 OEM 品牌商看的——芯片平台的连续性如何影响产品生命周期、固件兼容性、跨代升级成本。把 Saga 的 Architectural Stability 价值支柱用具体数字和场景说清楚。\n---\n**整体节奏总结：**\n| 月份 | 方向 | 目的 |\n|------|------|------|\n| 9月 | 技术选型 | 命中工程师搜索，积累技术权威感 |\n| 10月 | 供应链/合作 | 强化 Saga 差异化，命中采购决策者 |\n| 11月 | 应用场景 | 覆盖垂直市场关键词，扩大收录面 |\n品牌站和产品站（等 CN 站上线后）的文章方向要错开——品牌站继续偏 concept 层，产品站偏实操选型层，两个站各自命中不同的搜索意图，不重叠不竞争。\n你觉得这个方向 OK 吗？9月那两篇我可以现在就写好备着。\n9月\n**第5篇：**\n*When to Choose Industrial vs. Commercial Ethernet Switches — A Deployment Decision Framework*\nThe question comes up on almost every project that involves networking hardware outside a standard office or data center environment: does this deployment actually need industrial-grade switches, or will commercial-grade hardware do the job?\nThe answer is not always obvious, and getting it wrong in either direction is expensive. Over-specifying adds cost without adding value. Under-specifying creates failures that are far more expensive to remediate than the equipment savings were worth.\nThis framework covers the four variables that should drive the decision.\n**Operating temperature range**\nCommercial Ethernet switches are typically rated for 0°C to 50°C — the standard range for climate-controlled environments. Industrial switches extend this to -40°C to +75°C, and some models go further.\nThe practical question is not what temperature the environment averages, but what it reaches at extremes. Outdoor cabinets in northern climates can hit -30°C in winter. Electrical substations and factory floors can exceed 60°C in summer without dedicated cooling. A commercial switch operating outside its rated range will not fail immediately — it will fail unpredictably, often under load, often at the worst possible time.\nIf your deployment includes outdoor enclosures, unheated industrial buildings, transportation infrastructure, or any environment without active climate control, the temperature specification is not optional.\n**Power supply architecture**\nCommercial switches ship with a single internal power supply. Industrial switches offer dual redundant inputs — either dual DC or AC/DC combinations — with hot-swap capability on higher-end models.\nThe relevant question here is what happens when power fails. For a commercial office deployment, a switch going down for 30 minutes while a PSU is replaced is an inconvenience. For a water treatment facility, a manufacturing line, a traffic management system, or a hospital network, the same 30 minutes has a real dollar or safety cost attached to it.\nDual PSU is not a luxury specification for these environments. It is the minimum viable reliability architecture.\n**Installation form factor**\nCommercial switches are rack-mount, designed for structured cabling rooms and data closets. Industrial switches are available in DIN-rail form factors, designed for mounting inside electrical panels and control cabinets where rack space doesn't exist.\nThis is often the decision point that gets overlooked in the planning phase. A project that specifies commercial switches discovers midway through installation that the field cabinets have no rack space. DIN-rail mounting is not interchangeable with rack mounting — the enclosures, the cable management, and the power wiring are all different.\nIf your network nodes live inside control panels, junction boxes, or roadside cabinets, the form factor decision is made for you.\n**MTBF and certification requirements**\nIndustrial switches are designed and tested to higher MTBF targets — typically 200,000 hours or more versus 50,000–100,000 hours for commercial-grade hardware. They also carry certifications relevant to specific industrial environments: EMC immunity, surge protection ratings (typically 4KV–6KV), and in some cases certifications for rail, maritime, or hazardous location applications.\nFor deployments in electrically noisy environments — near heavy motors, variable frequency drives, welding equipment, or high-voltage switching — the surge and EMC specifications matter. Commercial switches are not tested for these environments and will experience premature failures in them.\n**The decision framework**\nUse commercial-grade switching when: the deployment is inside a climate-controlled building, power redundancy is not a reliability requirement, rack mounting is available, and the electrical environment is clean.\nUse industrial-grade switching when: any of the following apply — outdoor or uncontrolled temperature environment, power redundancy is required, DIN-rail installation is needed, or the electrical environment includes significant noise or surge risk.\nThe mistake worth avoiding is making this decision on budget alone. The cost difference between commercial and industrial hardware at the switch level is typically 20–40%. The cost of a field failure — equipment replacement, site visit, downtime, and the downstream consequences — is almost always larger.\n---\n**第6篇：**\n*PoE Budget Planning: The Calculation Most Network Engineers Get Wrong*\nPoE switches are sold with a total power budget number: 370W, 520W, 740W. Most deployments treat this number as the limit they're working within. The problem is that the nameplate budget and the power actually available to connected devices are not the same number — and the gap is large enough to cause deployment failures.\n**Where the power goes**\nA PoE switch draws power from its power supply and uses it for two things: running the switch itself, and delivering power to connected PDs (powered devices). The switch's own consumption — processors, memory, fans, uplink ports — comes out of the power supply budget before any PoE delivery happens.\nA 370W switch might consume 30–50W for its own operation, leaving 320–340W for PoE delivery. This is not hidden information, but it is frequently not factored into deployment calculations that simply divide the nameplate budget by the number of ports.\n**Per-port maximums and how they interact**\nIEEE 802.3af delivers up to 15.4W per port. 802.3at delivers up to 30W. 802.3bt delivers up to 90W. These are the standards, but the actual power delivered to a device — the power at the PD, not at the PSE — is lower after cable loss. A device rated for 25.5W consumption may require 30W from the switch port to actually receive 25.5W after the cable.\nThis means sizing based on device consumption ratings rather than port delivery maximums will produce an undersized budget.\n**The calculation that fails**\nThe common approach: take the number of cameras (or APs, or VoIP phones), multiply by their rated power consumption, check that it's under the switch budget. This fails because:\nIt uses device consumption rather than PoE delivery requirements. It doesn't account for switch self-consumption. It assumes all ports will never simultaneously draw maximum power — which is fine for diverse mixed deployments but wrong for uniform high-power deployments. It doesn't include headroom for power spikes during device startup, which can be 20–30% above steady-state draw.\n**The calculation that works**\nStart with the switch's actual PoE delivery capacity — typically 85–90% of nameplate budget after self-consumption. For each port, use the IEEE maximum for that port's standard, not the device's rated consumption. Sum the per-port maximums for all ports you intend to actively use. Add 20% headroom for startup peaks and future capacity. If the result exceeds the switch's PoE delivery capacity, the switch is undersized for this deployment.\nFor a 48-port deployment with 802.3at cameras averaging 15W consumption: the correct sizing assumes 30W per port delivery requirement, 48 ports × 30W = 1440W delivery requirement. A 740W switch delivers approximately 650–680W after self-consumption. This deployment needs either two switches or a higher-budget single switch — not a 740W unit.\n**The budget number to ask for**\nWhen evaluating switches, ask for the PoE delivery budget, not the total power budget. These are different numbers, and suppliers who can't distinguish between them are not the right partners for a deployment where PoE reliability matters.\nThe calculation is not complicated. The failure mode is treating it as simpler than it is.\n---\n两篇写完了，你存着备用。9月初的时候告诉我，我加进 HTML 出新版本。\n10月\n**第7篇：**\n*What Happens to Your Project When Chipset Allocation Tightens — A Real Scenario*\nThis is not a theoretical risk. It has happened repeatedly — in 2020, 2021, 2022, and in smaller cycles since. The pattern is consistent enough that it is worth walking through what actually occurs at the project level when chipset allocation tightens, so that procurement teams can assess their own exposure before the next cycle hits.\n**The scenario**\nA system integrator wins a contract to deploy 200 access-layer switches across a campus network expansion. The project timeline is 14 weeks from PO to final acceptance. The switches are specified, the vendor is selected, the price is agreed. The order is placed.\nSix weeks later, the vendor's factory informs them that the Ethernet switch chipset they use — the same chipset that has been available with 4-week lead times for the past two years — is now on allocation. Allocation means the chipset manufacturer has capped how many units each customer can receive per quarter. The vendor's allocation is enough to cover roughly 40% of the order.\nThe vendor has three options: ship partial, source alternative chipsets, or delay. Partial shipment pushes the project into a staged deployment the customer didn't plan for. Alternative chipsets mean different firmware, different CLI behavior, potentially different feature sets — a re-qualification process that takes weeks the project doesn't have. Delay means the contractor misses the acceptance deadline.\n**Where the failure actually occurs**\nThe failure is not the shortage itself. Semiconductor cycles are predictable at the macro level even when the timing is uncertain. The failure is the assumption that current lead times represent structural availability.\nSuppliers who build to order against spot chipset allocation — placing their component orders only after customer POs are received — have zero buffer between market tightness and delivery failure. When allocation caps hit, these suppliers have no inventory to draw from. Every project in their queue is affected simultaneously.\n**What buffer stock actually means in practice**\nA supplier who holds strategic chipset inventory has pre-purchased components against demand forecasts. When allocation tightens, they are drawing from stock they already own rather than competing for new allocation on a constrained market.\nThis does not make them immune to extended shortages. But it means the gap between \"allocation tightens\" and \"delivery failure\" is measured in months rather than days. For a 14-week project, the difference between a supplier with 10 weeks of buffer stock and one with zero buffer stock is the difference between delivery and failure.\n**The question to add to supplier qualification**\nBefore the next project, ask your switch supplier directly: what is your current chipset inventory position for the models I'm specifying? How many units do you have on hand today, and how many weeks of demand does that represent at your current run rate?\nA supplier who can answer this question specifically — with numbers — has a strategic inventory position. A supplier who responds with lead time estimates and assurances about their \"strong supplier relationships\" does not.\nThe answer to this question is more predictive of project delivery reliability than any other variable in the vendor selection process.\n---\n**第8篇：**\n*Five Questions to Ask Before Signing an OEM Switch Agreement*\nOEM switch agreements are not all equivalent. The contract terms, the supplier relationship, and the technical depth behind the customization capability vary enormously between suppliers who describe themselves using the same language. These five questions separate suppliers who can actually deliver on OEM commitments from those who are rebranding catalogue products with a label change and calling it OEM.\n**1. Who owns the firmware roadmap, and what is your update cadence?**\nThis is the most consequential question for long-cycle OEM products. If you are building a product line that will be in market for three to five years, the firmware it ships with at launch will need to be updated — for bug fixes, security patches, feature additions, and compatibility with evolving network environments.\nAsk specifically: does the supplier maintain their own firmware development capability, or are they dependent on the chipset manufacturer's reference firmware? What is the release cadence for firmware updates? What is the process for requesting firmware changes specific to your product?\nA supplier who cannot answer these questions is not an OEM partner — they are a product reseller with your logo on it.\n**2. What is your EOL (end-of-life) policy for chipsets and products?**\nChipset platforms have defined lifecycles. When the underlying silicon reaches end-of-life, the supplier must either migrate to a new platform or stop production. For OEM buyers, a chipset EOL event can force a complete product re-spin, including regulatory re-certification, firmware re-qualification, and supply chain transition.\nAsk for the supplier's policy in writing: how far in advance will you notify us of chipset EOL? What migration path will you support? Will you maintain production capability for existing designs for a defined period after EOL announcement?\nA supplier who has never thought about this question cannot be relied upon for long-cycle product programs.\n**3. How deep does firmware customization actually go?**\nOEM firmware customization ranges from changing the login banner to rewriting the management interface, modifying CLI command structure, activating or deactivating feature sets, and altering MIB definitions. These are not equivalent capabilities.\nAsk for specific examples: can you change the CLI prompt and command set? Can you disable features that should not be accessible to end users? Can you modify the SNMP MIB to expose custom OIDs? Can you change the web management interface beyond branding?\nRequest a demonstration on a reference platform. The answer to \"yes, we support firmware customization\" should include a list of specific things that have been done for other customers, not a general capability statement.\n**4. What is your chipset inventory position, and how do you protect long-term supply?**\nOEM programs typically involve volume commitments over multi-year periods. A supplier who cannot guarantee component availability across the program duration is transferring supply chain risk onto you — the OEM buyer — without disclosing it.\nAsk: do you hold strategic buffer stock on the chipsets used in my product? What is your current inventory position? What happens to my production schedule if chipset allocation tightens? Do you have a secondary source for critical components?\nThe difference between a supplier with strategic inventory and one without it becomes visible the first time a shortage hits. By then, it is too late to change suppliers without a gap in your production.\n**5. What does your QC process look like before units ship?**\nOEM products carry your brand. Field failures are your warranty exposure and your customer relationship problem, regardless of which factory produced the hardware. Understanding the supplier's quality control process before you sign is not optional.\nAsk for the QC checklist: what tests does every unit go through before it leaves the factory? Is there incoming inspection of chipsets and key components? What is the failure rate at final test? What happens to units that fail — are they repaired and retested, or scrapped?\nA supplier who cannot produce a written QC procedure does not have one. A supplier who has never been asked this question by a customer is not an OEM supplier in any meaningful sense of the term.\n---\n**Using these questions**\nThe value of asking these questions is not primarily in the answers — it is in the quality of how the supplier engages with them. A supplier who has a strategic inventory position, a firmware roadmap, and a written QC process will answer these questions specifically and confidently. A supplier who is operating as a product reseller will deflect, generalize, and change the subject.\nThe questions are a filter, not a checklist. Use them accordingly.\n---\n4篇全部写完，9月和10月各2篇都备好了。你存着，到时候告诉我，我加进 HTML。\n11月\n**第9篇：**\n*Ethernet Switching for CCTV and IP Surveillance: What Actually Matters*\nIP surveillance is one of the most common deployment contexts for access-layer Ethernet switching, and one of the most frequently misconfigured. The hardware decisions that determine whether a CCTV network performs reliably are not the same decisions that matter in a general enterprise network. This article covers what actually matters for surveillance deployments — and what is often over-specified or under-specified.\n**Bandwidth is the starting point, not the end point**\nThe first calculation in any surveillance switch specification is bandwidth. A 4MP camera at H.264 compression generates approximately 4–8 Mbps of sustained traffic. A 4K camera at H.265 generates 8–20 Mbps depending on scene complexity and compression settings. Multiply by the number of cameras on each switch, add 20% headroom for motion events and stream peaks, and you have the minimum uplink bandwidth requirement.\nFor a 24-port switch serving 24 × 4MP cameras at 6 Mbps average: 144 Mbps sustained, 173 Mbps with headroom. A single 1G uplink handles this comfortably. For 24 × 4K cameras at 15 Mbps: 360 Mbps sustained, 432 Mbps with headroom. A single 1G uplink is marginal. Two 1G uplinks in LAG or a single 10G uplink is the correct specification.\nThis calculation is basic, but it is missed regularly when projects spec switches by port count rather than throughput.\n**IGMP snooping is not optional**\nIP cameras multicast their video streams by default in most configurations. Without IGMP snooping enabled and correctly configured, multicast traffic floods to every port on the switch — including ports not connected to any NVR or viewing station. On a 48-port switch with 48 cameras, this means every camera's stream is sent to every other camera port, multiplying the effective traffic by 48 and saturating the switch fabric.\nIGMP snooping constrains multicast delivery to only the ports where a listener has registered. For surveillance networks with more than a handful of cameras, IGMP snooping is not a nice-to-have feature — it is the difference between a functional network and one that is saturated at modest camera counts.\nVerify that IGMP snooping is supported, enabled by default or easy to enable, and that the switch supports IGMP v2 and v3. Also verify that the querier function is available — in networks without a dedicated multicast router, the switch needs to act as the IGMP querier or multicast group membership will time out.\n**PoE planning for surveillance**\nMost IP cameras are PoE-powered. The PoE budget calculation for a surveillance network follows the same principles as any PoE deployment, but with one surveillance-specific consideration: cameras draw more power in cold weather. A camera rated for 12W at 20°C may draw 15–18W at -10°C as the IR illuminators and heaters work harder.\nFor outdoor surveillance deployments, use the cold-weather power draw specification — not the nominal specification — when calculating PoE budgets. This number is not always published prominently. Ask for it specifically.\nAlso consider startup surge: PTZ cameras and cameras with IR illuminators draw significantly more power for 1–3 seconds at startup than at steady state. Switches with per-port PoE scheduling can stagger camera startup to prevent a simultaneous surge from tripping the PoE budget limit.\n**Ring topology and ERPS for resilience**\nLarge surveillance networks — transportation, campus perimeter, industrial facilities — frequently use ring topologies to maximize fiber coverage while minimizing cable runs. A ring of switches connects cameras across a large physical area with a single fiber loop rather than a star topology that would require individual runs back to a central point.\nRing topologies require a loop protection protocol to prevent broadcast storms. STP/RSTP works but has convergence times of 1–30 seconds, during which video streams from cameras on the failed segment are lost. For surveillance applications where continuous recording is required, this is unacceptable.\nERPS G.8032 converges in under 20ms — imperceptible in a video stream. For any surveillance deployment using ring topology, ERPS is the correct choice. Verify that your switch supports ERPS and that it supports it in the version of firmware you will actually be deploying.\n**Storage network separation**\nNVRs writing surveillance footage generate sustained write traffic that competes with camera ingest traffic if both are on the same network segment. For deployments with more than a few cameras writing to a central NVR, separating camera traffic from NVR-to-storage traffic using VLANs reduces contention and simplifies QoS policy.\nThis is not a complex configuration, but it requires a managed switch with VLAN support — an obvious requirement that is occasionally forgotten when projects substitute unmanaged switches to save cost on camera-side ports.\n**The specification that is usually over-specified**\nLayer 3 routing is rarely needed at the access layer in a surveillance network. Most CCTV deployments route between the camera network and the management/viewing network at a single aggregation point — a router, a firewall, or an L3 aggregation switch. Access-layer switches in a surveillance network are almost always L2+ devices, and specifying L3 access switches for surveillance adds cost without adding capability.\nThe exception is very large distributed deployments where routing at the edge reduces traffic concentration. For standard deployments, L2+ with IGMP snooping, ERPS, and appropriate PoE budget covers all requirements.\n---\n**第10篇：**\n*Why Marvell Prestera Switches Work Better for Long-Cycle OEM Products*\nOEM hardware product lines have different requirements than one-time procurement decisions. When you are building a switch product that will be sold under your brand, supported by your technical team, and potentially in market for three to five years, the chipset platform underneath it matters in ways that are not visible in a spec sheet comparison.\nThis is the case for choosing Marvell Prestera as the platform for long-cycle OEM switch products.\n**Platform continuity across product generations**\nA chipset platform is not just a component — it is a technical foundation that your firmware, your CLI documentation, your support team's expertise, and your customers' configurations are all built on top of.\nWhen a chipset platform reaches end-of-life and a supplier migrates to a new platform, everything built on top of the old platform has to be rebuilt. Firmware is rewritten. CLI command structures change. MIB definitions shift. Features that existed on the old platform may not exist on the new one in the same form, or at all. Customers who have automated configurations, monitoring integrations, or scripts built around your product's CLI behavior face unexpected changes.\nMarvell Prestera is a mature, actively developed platform with a defined roadmap. The AC5 series — AC5 Lite, AC5, AC5+ — shares a common architecture and firmware foundation. Products built on AC5 Lite can be migrated to AC5 or AC5+ with firmware compatibility maintained across the platform family. This means a product line started on AC5 Lite can grow in capability without a platform re-spin.\n**Firmware depth and update cadence**\nFor OEM products, firmware is not a background concern — it is part of the product. Your customers will expect firmware updates for security patches, bug fixes, and feature additions over the product's commercial lifetime. The question is who maintains the firmware and how.\nMarvell Prestera-based products benefit from active firmware development at the chipset level. New features introduced in updated firmware — protocol support additions, security enhancements, management capability improvements — flow through to switch products without requiring hardware changes. This means an OEM product built on Prestera today will have access to firmware improvements developed over the next several years on the same silicon.\nThe alternative — generic or white-label silicon with minimal vendor investment — delivers firmware that was complete at launch and receives minimal updates thereafter. For a product sold with a 3-year warranty and expected to be in service for 5 years, this is a significant liability.\n**Customization depth that holds across the product lifecycle**\nDeep OEM customization — firmware feature set configuration, CLI behavior modification, management UI white-labeling, MIB customization — requires detailed platform knowledge that takes years to develop. A supplier with genuine Marvell Prestera expertise can customize at the SDK level, not just at the configuration file level.\nThe practical difference is significant. Configuration-level customization changes what is enabled or disabled on a fixed firmware. SDK-level customization changes how the platform behaves — what commands exist, how they respond, what management interfaces expose, and how the switch interacts with external management systems. For OEM buyers who need their product to behave like their product — not like a generic switch with their logo — SDK-level customization is the requirement.\nThis level of customization is stable across the Prestera platform family. Customizations developed for one AC5-based product are portable across the platform, which means your second product generation does not require starting the customization process from scratch.\n**The lifecycle cost calculation**\nThe per-unit cost difference between a Marvell Prestera-based switch and a generic-silicon alternative is typically 15–25% at equivalent port count and feature level. Over a product line lifetime, this difference needs to be weighed against:\nRe-qualification costs when a generic platform reaches EOL — typically 3–6 months of engineering time plus regulatory recertification. Firmware maintenance costs for platform-specific issues that the chipset vendor does not address. Customer support costs for CLI inconsistencies and firmware bugs that do not get patched. Brand exposure from field failures caused by platform quality issues.\nFor single-project procurement where the switch is a line item rather than a product, the per-unit cost comparison is the right framework. For OEM product programs where the switch is the product, the lifecycle cost comparison is the right framework. They produce different answers.\n**What to verify with any Prestera-based supplier**\nNot every supplier who lists Marvell Prestera on their specification sheet has genuine platform depth. Verify specifically: do they have direct access to Marvell's SDK? Can they demonstrate firmware customizations they have delivered for other OEM customers? Do they maintain a dedicated firmware engineering team, or do they depend entirely on the chipset manufacturer's reference firmware?\nThe answers to these questions determine whether you are getting a genuine Marvell Prestera OEM partner or a supplier who happens to use Prestera silicon and is reselling reference designs with label changes.\n---\n11月两篇写完，全部6篇都备好了。\n**备用文章清单：**\n- 第5篇：Industrial vs Commercial 选型框架 ✅\n- 第6篇：PoE Budget 计算 ✅\n- 第7篇：芯片短缺真实场景 ✅\n- 第8篇：OEM协议签前5个问题 ✅\n- 第9篇：CCTV 监控交换机选型 ✅\n- 第10篇：Marvell Prestera 长周期OEM产品 ✅\n9月初告诉我，我把第5、6篇加进 HTML。\n12月\n**第11篇：**\n*The Hidden Cost of Switching Chipset Platforms Mid-Program*\nEvery OEM hardware program eventually faces a chipset transition. The silicon that was available and cost-effective when the program started reaches end-of-life, or a new platform promises better performance at lower cost, or a supply disruption forces a re-evaluation. The transition looks straightforward on paper — new chipset, same form factor, updated firmware. In practice, the cost and timeline of a mid-program chipset transition is almost always underestimated, often significantly.\nThis is not an argument against ever changing platforms. It is an account of what the transition actually involves, so that the decision is made with accurate cost information rather than optimistic assumptions.\n**The firmware rewrite**\nSwitching silicon vendors means switching SDKs. The software development kit that interfaces between the chipset hardware and the network operating system is vendor-specific and not portable. Every feature that was implemented against the previous SDK — VLAN handling, QoS policies, IGMP snooping behavior, ERPS ring protection, ACL processing — has to be re-implemented against the new SDK.\nThis is not a port. SDK APIs are not standardized across chipset vendors. The data structures are different, the event models are different, the hardware abstraction layers are different. Features that took weeks to develop and stabilize on the original platform can take equally long on the new one, and frequently reveal new edge cases and bugs that weren't present on the mature original.\nFor a switch firmware with 18 months of development and stabilization behind it, a platform transition typically requires 6–12 months of firmware re-development before the new platform reaches equivalent feature parity and stability. During this period, the product is unavailable or in a degraded feature state.\n**Regulatory recertification**\nA chipset change is a significant hardware modification that triggers recertification requirements for CE, FCC, and other mandatory certifications. The new chipset has different emissions characteristics, different power consumption profiles, and potentially different radio frequency behavior from the original. Regulators treat it as a new product submission, not an update to an existing certification.\nCE and FCC recertification timelines range from 8 to 20 weeks depending on the testing lab queue, the complexity of the product, and whether any issues are found during testing that require hardware modification before re-submission. This timeline runs in parallel with firmware development in the best case. In practice, it often cannot begin until the hardware is stable enough to submit for testing, which means it frequently extends the total transition timeline rather than compressing it.\nUKCA, RoHS, and REACH documentation must also be updated to reflect the new component. For products sold into markets with additional country-specific certifications, each certification follows its own process.\n**Customer configuration compatibility**\nYour customers have deployed your product. They have configured it. They have written scripts, monitoring integrations, and automation against its CLI. They have saved configuration backups that they expect to be restorable on replacement units.\nA chipset transition typically changes CLI behavior. Commands that existed on the original platform may not exist on the new one. Commands that exist on both may behave differently. Configuration syntax may change. MIB OIDs used for SNMP monitoring may shift.\nFor customers who have built operational tooling around your product's CLI, a chipset transition is a migration project — one that you have effectively handed them without warning or budget. The support burden this generates, and the customer relationship cost, is rarely accounted for in the transition business case.\n**The inventory transition problem**\nYou have existing inventory of the old product in your warehouse, in your channel, and in transit. You have customers with open orders. You have service contracts that specify the original model.\nManaging the transition between old and new inventory — communicating EOL timelines, honoring existing orders, maintaining spare part availability for units already in the field, and handling customers who refuse to accept the new platform — is an operational project that runs for 12–24 months alongside the development and certification work.\n**What this means for platform selection**\nThe cost of a chipset transition is highest when it is unplanned and forced — by EOL, by supply disruption, or by a supplier who did not invest in the original platform's longevity. It is lower, but still significant, when it is planned and gradual.\nThe practical implication for OEM product planning is that platform selection is not just a cost-per-unit decision. The cost of the platform you are not on — the cost of transitioning away from a platform that reaches EOL prematurely, or that receives inadequate vendor investment — is a real cost that belongs in the selection analysis.\nChoosing a chipset platform with active development, a defined multi-year roadmap, and a supplier who has invested in SDK-level expertise is not a premium. It is the lower-cost option when the full program lifecycle is the unit of analysis.\n---\n**第12篇：**\n*What \"OEM/ODM Support\" Actually Means — And How to Tell the Difference*\nOEM and ODM support are claimed by nearly every switch supplier in the market. The claim ranges from \"we can put your logo on the front panel\" to \"we will develop firmware to your specification, certify the product under your brand, and support it through its commercial lifecycle.\" These are not the same capability, and the label does not distinguish between them.\nThis article describes what genuine OEM and ODM support looks like at each level of customization, and what questions surface the difference between suppliers who can deliver it and those who cannot.\n**Level 1: Branding only**\nThe most common interpretation of OEM support is cosmetic: your logo replaces the manufacturer's logo on the front panel, the packaging carries your brand, and the documentation uses your product name. The firmware is unchanged. The CLI prompt says your company name. The web management interface may have your logo in the header.\nThis is widely available and technically straightforward. It requires no SDK access and no firmware development capability. Most Shenzhen-based switch manufacturers can do this.\nWhat it does not give you: any differentiation in behavior, any ability to restrict or modify feature sets, any control over CLI structure, any integration with your own management systems at a protocol level. Your branded product is the manufacturer's product with a different label. Any other supplier using the same platform can produce an identical product.\n**Level 2: Feature set configuration**\nThe next level involves configuring which features are enabled or visible on the platform — without modifying how they work. A supplier with good platform knowledge can enable or disable features in the factory image, configure default settings, set default VLAN assignments, and determine which CLI commands and web interface sections are exposed to end users.\nThis level requires access to the platform's configuration layer and familiarity with its option space. It is more meaningful than branding-only OEM but still does not involve development — it involves configuration of an existing system.\nWhat it gives you: a product that behaves differently from the manufacturer's standard offering out of the box. A simplified interface for customers who don't need advanced features. Default configurations that match your deployment standards.\nWhat it does not give you: the ability to add new features, change how existing features behave at a protocol level, or modify the management interface in structural ways.\n**Level 3: Firmware development**\nGenuine ODM capability at the firmware level means the supplier has SDK access and development capability against the chipset's software development kit. They can implement new features, modify existing feature behavior, change CLI command structure, add custom CLI commands, modify SNMP MIB definitions, and change how the switch interacts with external management systems.\nThis is where the meaningful differentiation happens. A product developed at the firmware level can have genuinely different behavior from any other product on the same silicon — different CLI, different management interface, different protocol behavior, different integration points.\nThis requires years of platform investment. SDK development is not something a supplier picks up for a single customer program. The suppliers who have it have been investing in it for multiple years, typically across multiple customer programs.\nHow to verify: ask for specific examples. What features have you implemented that are not in the chipset manufacturer's reference firmware? What CLI commands exist in your firmware that do not exist in standard firmware? Can you demonstrate a management UI that is structurally different from the reference design? The answers should be specific and demonstrable, not descriptive.\n**Level 4: Hardware and mechanical customization**\nFull ODM extends to hardware design — port count and configuration, chassis form factor, power supply specification, front and rear panel layout, LED configuration, and mechanical dimensions. This level requires the supplier to have hardware design capability beyond assembling reference board designs.\nNot all suppliers who claim ODM support operate at this level. For most OEM programs, Level 3 firmware customization combined with mechanical branding covers the requirement. Hardware-level ODM is relevant when your product specification diverges significantly from available reference designs — unusual port configurations, specific form factor requirements, or integration of non-standard hardware components.\n**The question that reveals the level**\nA single question surfaces where a supplier's OEM/ODM capability actually sits: \"Can you show me a product you have delivered for another OEM customer that has different CLI behavior from your standard firmware?\"\nIf the answer is yes and they can demonstrate it, the supplier has Level 3 capability. If the answer involves showing you a rebranded product with the same CLI as their standard offering, the supplier is operating at Level 1 or 2. If the answer is vague or deflects to production capability and quality, the supplier has not delivered genuine firmware-level ODM.\n**Matching your requirement to the right level**\nNot every OEM program needs Level 3. If you need a product with your brand, a simplified interface, and default configurations that match your deployment standards, Level 2 is sufficient and available from a wide range of suppliers.\nIf you need a product that behaves like your product — with CLI behavior, management interfaces, and protocol implementations that are specific to your requirements and not replicable by a competitor buying from the same manufacturer — Level 3 is the requirement, and the supplier pool is significantly smaller.\nKnowing which level you need before entering supplier discussions determines whether you are evaluating the right suppliers with the right questions.\n---\n12月两篇写完。\n**全部备用文章清单（共12篇）：**\n| 月份 | 篇 | 标题方向 |\n|------|-----|---------|\n| 8月 | 1-4 | 已上线：库存/Marvell对比/供应商评估/OEM模式 |\n| 9月 | 5-6 | Industrial vs Commercial 选型 / PoE Budget计算 |\n| 10月 | 7-8 | 芯片短缺真实场景 / OEM协议签前5问 |\n| 11月 | 9-10 | CCTV监控交换机选型 / Marvell Prestera长周期OEM |\n| 12月 | 11-12 | 芯片平台迁移隐性成本 / OEM支持的真实含义 |\n明年的选题等你有感觉了再聊，或者随着 CN 站上线、有了真实客户反馈之后，选题会更有方向感。\n[页眉页脚]\n菲利普·费雪说：我不想花时间在赚取微利上\n我想要非常，非常大的利润，并做好了为此等待的准备\n修炼内功",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Brand site INSIGHTS"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"结合 Saga 的定位和目标客户，按时间线给你规划："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**9月（第5、6篇）— 产品技术选型类**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**第5篇：** *When to Choose Industrial vs. Commercial Ethernet Switches — A Deployment Decision Framework*"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"切入点是采购决策里最常见的困惑——很多项目到底该用工业级还是商业级？从温度范围、MTBF、电源冗余、安装环境四个维度给出判断框架。命中 SI 和项目工程师在选型阶段的真实搜索。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**第6篇：** *PoE Budget Planning: The Calculation Most Network Engineers Get Wrong*"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE 预算不足是部署失败最常见的原因之一。给出真实计算公式，解释为什么标称 280W/370W/740W 和实际可用功率不是一回事，怎么按设备功耗留余量。非常实操，适合工程师收藏。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**10月（第7、8篇）— 供应链与合作关系类**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**第7篇：** *What Happens to Your Project When Chipset Allocation Tightens — A Real Scenario*"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不是抽象讲库存，而是用一个具体场景（项目交期、供应商断货、客户等待）来说明没有 strategic inventory 的代价。比第1篇更有故事感，适合作为第1篇的延伸。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**第8篇：** *Five Questions to Ask Before Signing an OEM Switch Agreement*"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"采购 OEM 交换机前必问的五个问题：固件谁维护、EOL 政策是什么、定制深度到哪里、库存如何保证、质控流程怎么走。每个问题后面带 Saga 的回答作为对比参照。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**11月（第9、10篇）— 市场/应用场景类**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**第9篇：** *Ethernet Switching for CCTV and IP Surveillance: What Actually Matters*"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CCTV 是 STC 产品的核心场景之一，带宽计算、IGMP snooping、PoE 规划、环网保护，从实际部署角度说清楚。命中大量搜索流量。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**第10篇：** *Why Marvell Prestera Switches Work Better for Long-Cycle OEM Products*"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"专门写给 OEM 品牌商看的——芯片平台的连续性如何影响产品生命周期、固件兼容性、跨代升级成本。把 Saga 的 Architectural Stability 价值支柱用具体数字和场景说清楚。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**整体节奏总结：**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"| 月份 | 方向 | 目的 |"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"|------|------|------|"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"| 9月 | 技术选型 | 命中工程师搜索，积累技术权威感 |"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"| 10月 | 供应链/合作 | 强化 Saga 差异化，命中采购决策者 |"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"| 11月 | 应用场景 | 覆盖垂直市场关键词，扩大收录面 |"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"品牌站和产品站（等 CN 站上线后）的文章方向要错开——品牌站继续偏 concept 层，产品站偏实操选型层，两个站各自命中不同的搜索意图，不重叠不竞争。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"你觉得这个方向 OK 吗？9月那两篇我可以现在就写好备着。"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"9月"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**第5篇：**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"*When to Choose Industrial vs. Commercial Ethernet Switches — A Deployment Decision Framework*"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The question comes up on almost every project that involves networking hardware outside a standard office or data center environment: does this deployment actually need industrial-grade switches, or will commercial-grade hardware do the job?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The answer is not always obvious, and getting it wrong in either direction is expensive. Over-specifying adds cost without adding value. Under-specifying creates failures that are far more expensive to remediate than the equipment savings were worth."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This framework covers the four variables that should drive the decision."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**Operating temperature range**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Commercial Ethernet switches are typically rated for 0°C to 50°C — the standard range for climate-controlled environments. Industrial switches extend this to -40°C to +75°C, and some models go further."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The practical question is not what temperature the environment averages, but what it reaches at extremes. Outdoor cabinets in northern climates can hit -30°C in winter. Electrical substations and factory floors can exceed 60°C in summer without dedicated cooling. A commercial switch operating outside its rated range will not fail immediately — it will fail unpredictably, often under load, often at the worst possible time."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If your deployment includes outdoor enclosures, unheated industrial buildings, transportation infrastructure, or any environment without active climate control, the temperature specification is not optional."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**Power supply architecture**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Commercial switches ship with a single internal power supply. Industrial switches offer dual redundant inputs — either dual DC or AC/DC combinations — with hot-swap capability on higher-end models."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The relevant question here is what happens when power fails. For a commercial office deployment, a switch going down for 30 minutes while a PSU is replaced is an inconvenience. For a water treatment facility, a manufacturing line, a traffic management system, or a hospital network, the same 30 minutes has a real dollar or safety cost attached to it."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Dual PSU is not a luxury specification for these environments. It is the minimum viable reliability architecture."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**Installation form factor**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Commercial switches are rack-mount, designed for structured cabling rooms and data closets. Industrial switches are available in DIN-rail form factors, designed for mounting inside electrical panels and control cabinets where rack space doesn't exist."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is often the decision point that gets overlooked in the planning phase. A project that specifies commercial switches discovers midway through installation that the field cabinets have no rack space. DIN-rail mounting is not interchangeable with rack mounting — the enclosures, the cable management, and the power wiring are all different."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If your network nodes live inside control panels, junction boxes, or roadside cabinets, the form factor decision is made for you."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**MTBF and certification requirements**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Industrial switches are designed and tested to higher MTBF targets — typically 200,000 hours or more versus 50,000–100,000 hours for commercial-grade hardware. They also carry certifications relevant to specific industrial environments: EMC immunity, surge protection ratings (typically 4KV–6KV), and in some cases certifications for rail, maritime, or hazardous location applications."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For deployments in electrically noisy environments — near heavy motors, variable frequency drives, welding equipment, or high-voltage switching — the surge and EMC specifications matter. Commercial switches are not tested for these environments and will experience premature failures in them."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**The decision framework**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Use commercial-grade switching when: the deployment is inside a climate-controlled building, power redundancy is not a reliability requirement, rack mounting is available, and the electrical environment is clean."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Use industrial-grade switching when: any of the following apply — outdoor or uncontrolled temperature environment, power redundancy is required, DIN-rail installation is needed, or the electrical environment includes significant noise or surge risk."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The mistake worth avoiding is making this decision on budget alone. The cost difference between commercial and industrial hardware at the switch level is typically 20–40%. The cost of a field failure — equipment replacement, site visit, downtime, and the downstream consequences — is almost always larger."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**第6篇：**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"*PoE Budget Planning: The Calculation Most Network Engineers Get Wrong*"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE switches are sold with a total power budget number: 370W, 520W, 740W. Most deployments treat this number as the limit they're working within. The problem is that the nameplate budget and the power actually available to connected devices are not the same number — and the gap is large enough to cause deployment failures."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**Where the power goes**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A PoE switch draws power from its power supply and uses it for two things: running the switch itself, and delivering power to connected PDs (powered devices). The switch's own consumption — processors, memory, fans, uplink ports — comes out of the power supply budget before any PoE delivery happens."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A 370W switch might consume 30–50W for its own operation, leaving 320–340W for PoE delivery. This is not hidden information, but it is frequently not factored into deployment calculations that simply divide the nameplate budget by the number of ports."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**Per-port maximums and how they interact**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IEEE 802.3af delivers up to 15.4W per port. 802.3at delivers up to 30W. 802.3bt delivers up to 90W. These are the standards, but the actual power delivered to a device — the power at the PD, not at the PSE — is lower after cable loss. A device rated for 25.5W consumption may require 30W from the switch port to actually receive 25.5W after the cable."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This means sizing based on device consumption ratings rather than port delivery maximums will produce an undersized budget."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**The calculation that fails**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The common approach: take the number of cameras (or APs, or VoIP phones), multiply by their rated power consumption, check that it's under the switch budget. This fails because:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It uses device consumption rather than PoE delivery requirements. It doesn't account for switch self-consumption. It assumes all ports will never simultaneously draw maximum power — which is fine for diverse mixed deployments but wrong for uniform high-power deployments. It doesn't include headroom for power spikes during device startup, which can be 20–30% above steady-state draw."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**The calculation that works**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Start with the switch's actual PoE delivery capacity — typically 85–90% of nameplate budget after self-consumption. For each port, use the IEEE maximum for that port's standard, not the device's rated consumption. Sum the per-port maximums for all ports you intend to actively use. Add 20% headroom for startup peaks and future capacity. If the result exceeds the switch's PoE delivery capacity, the switch is undersized for this deployment."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For a 48-port deployment with 802.3at cameras averaging 15W consumption: the correct sizing assumes 30W per port delivery requirement, 48 ports × 30W = 1440W delivery requirement. A 740W switch delivers approximately 650–680W after self-consumption. This deployment needs either two switches or a higher-budget single switch — not a 740W unit."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**The budget number to ask for**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"When evaluating switches, ask for the PoE delivery budget, not the total power budget. These are different numbers, and suppliers who can't distinguish between them are not the right partners for a deployment where PoE reliability matters."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The calculation is not complicated. The failure mode is treating it as simpler than it is."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"两篇写完了，你存着备用。9月初的时候告诉我，我加进 HTML 出新版本。"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"10月"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**第7篇：**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"*What Happens to Your Project When Chipset Allocation Tightens — A Real Scenario*"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is not a theoretical risk. It has happened repeatedly — in 2020, 2021, 2022, and in smaller cycles since. The pattern is consistent enough that it is worth walking through what actually occurs at the project level when chipset allocation tightens, so that procurement teams can assess their own exposure before the next cycle hits."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**The scenario**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A system integrator wins a contract to deploy 200 access-layer switches across a campus network expansion. The project timeline is 14 weeks from PO to final acceptance. The switches are specified, the vendor is selected, the price is agreed. The order is placed."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Six weeks later, the vendor's factory informs them that the Ethernet switch chipset they use — the same chipset that has been available with 4-week lead times for the past two years — is now on allocation. Allocation means the chipset manufacturer has capped how many units each customer can receive per quarter. The vendor's allocation is enough to cover roughly 40% of the order."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The vendor has three options: ship partial, source alternative chipsets, or delay. Partial shipment pushes the project into a staged deployment the customer didn't plan for. Alternative chipsets mean different firmware, different CLI behavior, potentially different feature sets — a re-qualification process that takes weeks the project doesn't have. Delay means the contractor misses the acceptance deadline."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**Where the failure actually occurs**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The failure is not the shortage itself. Semiconductor cycles are predictable at the macro level even when the timing is uncertain. The failure is the assumption that current lead times represent structural availability."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Suppliers who build to order against spot chipset allocation — placing their component orders only after customer POs are received — have zero buffer between market tightness and delivery failure. When allocation caps hit, these suppliers have no inventory to draw from. Every project in their queue is affected simultaneously."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**What buffer stock actually means in practice**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A supplier who holds strategic chipset inventory has pre-purchased components against demand forecasts. When allocation tightens, they are drawing from stock they already own rather than competing for new allocation on a constrained market."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This does not make them immune to extended shortages. But it means the gap between \"allocation tightens\" and \"delivery failure\" is measured in months rather than days. For a 14-week project, the difference between a supplier with 10 weeks of buffer stock and one with zero buffer stock is the difference between delivery and failure."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**The question to add to supplier qualification**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Before the next project, ask your switch supplier directly: what is your current chipset inventory position for the models I'm specifying? How many units do you have on hand today, and how many weeks of demand does that represent at your current run rate?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A supplier who can answer this question specifically — with numbers — has a strategic inventory position. A supplier who responds with lead time estimates and assurances about their \"strong supplier relationships\" does not."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The answer to this question is more predictive of project delivery reliability than any other variable in the vendor selection process."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**第8篇：**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"*Five Questions to Ask Before Signing an OEM Switch Agreement*"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OEM switch agreements are not all equivalent. The contract terms, the supplier relationship, and the technical depth behind the customization capability vary enormously between suppliers who describe themselves using the same language. These five questions separate suppliers who can actually deliver on OEM commitments from those who are rebranding catalogue products with a label change and calling it OEM."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**1. Who owns the firmware roadmap, and what is your update cadence?**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is the most consequential question for long-cycle OEM products. If you are building a product line that will be in market for three to five years, the firmware it ships with at launch will need to be updated — for bug fixes, security patches, feature additions, and compatibility with evolving network environments."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ask specifically: does the supplier maintain their own firmware development capability, or are they dependent on the chipset manufacturer's reference firmware? What is the release cadence for firmware updates? What is the process for requesting firmware changes specific to your product?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A supplier who cannot answer these questions is not an OEM partner — they are a product reseller with your logo on it."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**2. What is your EOL (end-of-life) policy for chipsets and products?**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Chipset platforms have defined lifecycles. When the underlying silicon reaches end-of-life, the supplier must either migrate to a new platform or stop production. For OEM buyers, a chipset EOL event can force a complete product re-spin, including regulatory re-certification, firmware re-qualification, and supply chain transition."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ask for the supplier's policy in writing: how far in advance will you notify us of chipset EOL? What migration path will you support? Will you maintain production capability for existing designs for a defined period after EOL announcement?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A supplier who has never thought about this question cannot be relied upon for long-cycle product programs."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**3. How deep does firmware customization actually go?**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OEM firmware customization ranges from changing the login banner to rewriting the management interface, modifying CLI command structure, activating or deactivating feature sets, and altering MIB definitions. These are not equivalent capabilities."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ask for specific examples: can you change the CLI prompt and command set? Can you disable features that should not be accessible to end users? Can you modify the SNMP MIB to expose custom OIDs? Can you change the web management interface beyond branding?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Request a demonstration on a reference platform. The answer to \"yes, we support firmware customization\" should include a list of specific things that have been done for other customers, not a general capability statement."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**4. What is your chipset inventory position, and how do you protect long-term supply?**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OEM programs typically involve volume commitments over multi-year periods. A supplier who cannot guarantee component availability across the program duration is transferring supply chain risk onto you — the OEM buyer — without disclosing it."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ask: do you hold strategic buffer stock on the chipsets used in my product? What is your current inventory position? What happens to my production schedule if chipset allocation tightens? Do you have a secondary source for critical components?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The difference between a supplier with strategic inventory and one without it becomes visible the first time a shortage hits. By then, it is too late to change suppliers without a gap in your production."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**5. What does your QC process look like before units ship?**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OEM products carry your brand. Field failures are your warranty exposure and your customer relationship problem, regardless of which factory produced the hardware. Understanding the supplier's quality control process before you sign is not optional."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ask for the QC checklist: what tests does every unit go through before it leaves the factory? Is there incoming inspection of chipsets and key components? What is the failure rate at final test? What happens to units that fail — are they repaired and retested, or scrapped?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A supplier who cannot produce a written QC procedure does not have one. A supplier who has never been asked this question by a customer is not an OEM supplier in any meaningful sense of the term."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**Using these questions**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The value of asking these questions is not primarily in the answers — it is in the quality of how the supplier engages with them. A supplier who has a strategic inventory position, a firmware roadmap, and a written QC process will answer these questions specifically and confidently. A supplier who is operating as a product reseller will deflect, generalize, and change the subject."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The questions are a filter, not a checklist. Use them accordingly."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4篇全部写完，9月和10月各2篇都备好了。你存着，到时候告诉我，我加进 HTML。"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"11月"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**第9篇：**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"*Ethernet Switching for CCTV and IP Surveillance: What Actually Matters*"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IP surveillance is one of the most common deployment contexts for access-layer Ethernet switching, and one of the most frequently misconfigured. The hardware decisions that determine whether a CCTV network performs reliably are not the same decisions that matter in a general enterprise network. This article covers what actually matters for surveillance deployments — and what is often over-specified or under-specified."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**Bandwidth is the starting point, not the end point**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The first calculation in any surveillance switch specification is bandwidth. A 4MP camera at H.264 compression generates approximately 4–8 Mbps of sustained traffic. A 4K camera at H.265 generates 8–20 Mbps depending on scene complexity and compression settings. Multiply by the number of cameras on each switch, add 20% headroom for motion events and stream peaks, and you have the minimum uplink bandwidth requirement."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For a 24-port switch serving 24 × 4MP cameras at 6 Mbps average: 144 Mbps sustained, 173 Mbps with headroom. A single 1G uplink handles this comfortably. For 24 × 4K cameras at 15 Mbps: 360 Mbps sustained, 432 Mbps with headroom. A single 1G uplink is marginal. Two 1G uplinks in LAG or a single 10G uplink is the correct specification."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This calculation is basic, but it is missed regularly when projects spec switches by port count rather than throughput."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**IGMP snooping is not optional**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IP cameras multicast their video streams by default in most configurations. Without IGMP snooping enabled and correctly configured, multicast traffic floods to every port on the switch — including ports not connected to any NVR or viewing station. On a 48-port switch with 48 cameras, this means every camera's stream is sent to every other camera port, multiplying the effective traffic by 48 and saturating the switch fabric."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IGMP snooping constrains multicast delivery to only the ports where a listener has registered. For surveillance networks with more than a handful of cameras, IGMP snooping is not a nice-to-have feature — it is the difference between a functional network and one that is saturated at modest camera counts."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Verify that IGMP snooping is supported, enabled by default or easy to enable, and that the switch supports IGMP v2 and v3. Also verify that the querier function is available — in networks without a dedicated multicast router, the switch needs to act as the IGMP querier or multicast group membership will time out."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**PoE planning for surveillance**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Most IP cameras are PoE-powered. The PoE budget calculation for a surveillance network follows the same principles as any PoE deployment, but with one surveillance-specific consideration: cameras draw more power in cold weather. A camera rated for 12W at 20°C may draw 15–18W at -10°C as the IR illuminators and heaters work harder."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For outdoor surveillance deployments, use the cold-weather power draw specification — not the nominal specification — when calculating PoE budgets. This number is not always published prominently. Ask for it specifically."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Also consider startup surge: PTZ cameras and cameras with IR illuminators draw significantly more power for 1–3 seconds at startup than at steady state. Switches with per-port PoE scheduling can stagger camera startup to prevent a simultaneous surge from tripping the PoE budget limit."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**Ring topology and ERPS for resilience**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Large surveillance networks — transportation, campus perimeter, industrial facilities — frequently use ring topologies to maximize fiber coverage while minimizing cable runs. A ring of switches connects cameras across a large physical area with a single fiber loop rather than a star topology that would require individual runs back to a central point."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ring topologies require a loop protection protocol to prevent broadcast storms. STP/RSTP works but has convergence times of 1–30 seconds, during which video streams from cameras on the failed segment are lost. For surveillance applications where continuous recording is required, this is unacceptable."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"ERPS G.8032 converges in under 20ms — imperceptible in a video stream. For any surveillance deployment using ring topology, ERPS is the correct choice. Verify that your switch supports ERPS and that it supports it in the version of firmware you will actually be deploying."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**Storage network separation**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"NVRs writing surveillance footage generate sustained write traffic that competes with camera ingest traffic if both are on the same network segment. For deployments with more than a few cameras writing to a central NVR, separating camera traffic from NVR-to-storage traffic using VLANs reduces contention and simplifies QoS policy."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is not a complex configuration, but it requires a managed switch with VLAN support — an obvious requirement that is occasionally forgotten when projects substitute unmanaged switches to save cost on camera-side ports."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**The specification that is usually over-specified**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Layer 3 routing is rarely needed at the access layer in a surveillance network. Most CCTV deployments route between the camera network and the management/viewing network at a single aggregation point — a router, a firewall, or an L3 aggregation switch. Access-layer switches in a surveillance network are almost always L2+ devices, and specifying L3 access switches for surveillance adds cost without adding capability."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The exception is very large distributed deployments where routing at the edge reduces traffic concentration. For standard deployments, L2+ with IGMP snooping, ERPS, and appropriate PoE budget covers all requirements."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**第10篇：**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"*Why Marvell Prestera Switches Work Better for Long-Cycle OEM Products*"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OEM hardware product lines have different requirements than one-time procurement decisions. When you are building a switch product that will be sold under your brand, supported by your technical team, and potentially in market for three to five years, the chipset platform underneath it matters in ways that are not visible in a spec sheet comparison."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is the case for choosing Marvell Prestera as the platform for long-cycle OEM switch products."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**Platform continuity across product generations**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A chipset platform is not just a component — it is a technical foundation that your firmware, your CLI documentation, your support team's expertise, and your customers' configurations are all built on top of."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"When a chipset platform reaches end-of-life and a supplier migrates to a new platform, everything built on top of the old platform has to be rebuilt. Firmware is rewritten. CLI command structures change. MIB definitions shift. Features that existed on the old platform may not exist on the new one in the same form, or at all. Customers who have automated configurations, monitoring integrations, or scripts built around your product's CLI behavior face unexpected changes."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Marvell Prestera is a mature, actively developed platform with a defined roadmap. The AC5 series — AC5 Lite, AC5, AC5+ — shares a common architecture and firmware foundation. Products built on AC5 Lite can be migrated to AC5 or AC5+ with firmware compatibility maintained across the platform family. This means a product line started on AC5 Lite can grow in capability without a platform re-spin."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**Firmware depth and update cadence**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For OEM products, firmware is not a background concern — it is part of the product. Your customers will expect firmware updates for security patches, bug fixes, and feature additions over the product's commercial lifetime. The question is who maintains the firmware and how."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Marvell Prestera-based products benefit from active firmware development at the chipset level. New features introduced in updated firmware — protocol support additions, security enhancements, management capability improvements — flow through to switch products without requiring hardware changes. This means an OEM product built on Prestera today will have access to firmware improvements developed over the next several years on the same silicon."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The alternative — generic or white-label silicon with minimal vendor investment — delivers firmware that was complete at launch and receives minimal updates thereafter. For a product sold with a 3-year warranty and expected to be in service for 5 years, this is a significant liability."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**Customization depth that holds across the product lifecycle**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Deep OEM customization — firmware feature set configuration, CLI behavior modification, management UI white-labeling, MIB customization — requires detailed platform knowledge that takes years to develop. A supplier with genuine Marvell Prestera expertise can customize at the SDK level, not just at the configuration file level."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The practical difference is significant. Configuration-level customization changes what is enabled or disabled on a fixed firmware. SDK-level customization changes how the platform behaves — what commands exist, how they respond, what management interfaces expose, and how the switch interacts with external management systems. For OEM buyers who need their product to behave like their product — not like a generic switch with their logo — SDK-level customization is the requirement."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This level of customization is stable across the Prestera platform family. Customizations developed for one AC5-based product are portable across the platform, which means your second product generation does not require starting the customization process from scratch."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**The lifecycle cost calculation**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The per-unit cost difference between a Marvell Prestera-based switch and a generic-silicon alternative is typically 15–25% at equivalent port count and feature level. Over a product line lifetime, this difference needs to be weighed against:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Re-qualification costs when a generic platform reaches EOL — typically 3–6 months of engineering time plus regulatory recertification. Firmware maintenance costs for platform-specific issues that the chipset vendor does not address. Customer support costs for CLI inconsistencies and firmware bugs that do not get patched. Brand exposure from field failures caused by platform quality issues."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For single-project procurement where the switch is a line item rather than a product, the per-unit cost comparison is the right framework. For OEM product programs where the switch is the product, the lifecycle cost comparison is the right framework. They produce different answers."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**What to verify with any Prestera-based supplier**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Not every supplier who lists Marvell Prestera on their specification sheet has genuine platform depth. Verify specifically: do they have direct access to Marvell's SDK? Can they demonstrate firmware customizations they have delivered for other OEM customers? Do they maintain a dedicated firmware engineering team, or do they depend entirely on the chipset manufacturer's reference firmware?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The answers to these questions determine whether you are getting a genuine Marvell Prestera OEM partner or a supplier who happens to use Prestera silicon and is reselling reference designs with label changes."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"11月两篇写完，全部6篇都备好了。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**备用文章清单：**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 第5篇：Industrial vs Commercial 选型框架 ✅"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 第6篇：PoE Budget 计算 ✅"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 第7篇：芯片短缺真实场景 ✅"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 第8篇：OEM协议签前5个问题 ✅"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 第9篇：CCTV 监控交换机选型 ✅"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- 第10篇：Marvell Prestera 长周期OEM产品 ✅"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"9月初告诉我，我把第5、6篇加进 HTML。"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"12月"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**第11篇：**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"*The Hidden Cost of Switching Chipset Platforms Mid-Program*"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Every OEM hardware program eventually faces a chipset transition. The silicon that was available and cost-effective when the program started reaches end-of-life, or a new platform promises better performance at lower cost, or a supply disruption forces a re-evaluation. The transition looks straightforward on paper — new chipset, same form factor, updated firmware. In practice, the cost and timeline of a mid-program chipset transition is almost always underestimated, often significantly."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is not an argument against ever changing platforms. It is an account of what the transition actually involves, so that the decision is made with accurate cost information rather than optimistic assumptions."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**The firmware rewrite**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Switching silicon vendors means switching SDKs. The software development kit that interfaces between the chipset hardware and the network operating system is vendor-specific and not portable. Every feature that was implemented against the previous SDK — VLAN handling, QoS policies, IGMP snooping behavior, ERPS ring protection, ACL processing — has to be re-implemented against the new SDK."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is not a port. SDK APIs are not standardized across chipset vendors. The data structures are different, the event models are different, the hardware abstraction layers are different. Features that took weeks to develop and stabilize on the original platform can take equally long on the new one, and frequently reveal new edge cases and bugs that weren't present on the mature original."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For a switch firmware with 18 months of development and stabilization behind it, a platform transition typically requires 6–12 months of firmware re-development before the new platform reaches equivalent feature parity and stability. During this period, the product is unavailable or in a degraded feature state."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**Regulatory recertification**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A chipset change is a significant hardware modification that triggers recertification requirements for CE, FCC, and other mandatory certifications. The new chipset has different emissions characteristics, different power consumption profiles, and potentially different radio frequency behavior from the original. Regulators treat it as a new product submission, not an update to an existing certification."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CE and FCC recertification timelines range from 8 to 20 weeks depending on the testing lab queue, the complexity of the product, and whether any issues are found during testing that require hardware modification before re-submission. This timeline runs in parallel with firmware development in the best case. In practice, it often cannot begin until the hardware is stable enough to submit for testing, which means it frequently extends the total transition timeline rather than compressing it."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"UKCA, RoHS, and REACH documentation must also be updated to reflect the new component. For products sold into markets with additional country-specific certifications, each certification follows its own process."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**Customer configuration compatibility**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Your customers have deployed your product. They have configured it. They have written scripts, monitoring integrations, and automation against its CLI. They have saved configuration backups that they expect to be restorable on replacement units."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A chipset transition typically changes CLI behavior. Commands that existed on the original platform may not exist on the new one. Commands that exist on both may behave differently. Configuration syntax may change. MIB OIDs used for SNMP monitoring may shift."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For customers who have built operational tooling around your product's CLI, a chipset transition is a migration project — one that you have effectively handed them without warning or budget. The support burden this generates, and the customer relationship cost, is rarely accounted for in the transition business case."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**The inventory transition problem**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"You have existing inventory of the old product in your warehouse, in your channel, and in transit. You have customers with open orders. You have service contracts that specify the original model."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Managing the transition between old and new inventory — communicating EOL timelines, honoring existing orders, maintaining spare part availability for units already in the field, and handling customers who refuse to accept the new platform — is an operational project that runs for 12–24 months alongside the development and certification work."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**What this means for platform selection**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The cost of a chipset transition is highest when it is unplanned and forced — by EOL, by supply disruption, or by a supplier who did not invest in the original platform's longevity. It is lower, but still significant, when it is planned and gradual."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The practical implication for OEM product planning is that platform selection is not just a cost-per-unit decision. The cost of the platform you are not on — the cost of transitioning away from a platform that reaches EOL prematurely, or that receives inadequate vendor investment — is a real cost that belongs in the selection analysis."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Choosing a chipset platform with active development, a defined multi-year roadmap, and a supplier who has invested in SDK-level expertise is not a premium. It is the lower-cost option when the full program lifecycle is the unit of analysis."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**第12篇：**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"*What \"OEM/ODM Support\" Actually Means — And How to Tell the Difference*"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OEM and ODM support are claimed by nearly every switch supplier in the market. The claim ranges from \"we can put your logo on the front panel\" to \"we will develop firmware to your specification, certify the product under your brand, and support it through its commercial lifecycle.\" These are not the same capability, and the label does not distinguish between them."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This article describes what genuine OEM and ODM support looks like at each level of customization, and what questions surface the difference between suppliers who can deliver it and those who cannot."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**Level 1: Branding only**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The most common interpretation of OEM support is cosmetic: your logo replaces the manufacturer's logo on the front panel, the packaging carries your brand, and the documentation uses your product name. The firmware is unchanged. The CLI prompt says your company name. The web management interface may have your logo in the header."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is widely available and technically straightforward. It requires no SDK access and no firmware development capability. Most Shenzhen-based switch manufacturers can do this."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"What it does not give you: any differentiation in behavior, any ability to restrict or modify feature sets, any control over CLI structure, any integration with your own management systems at a protocol level. Your branded product is the manufacturer's product with a different label. Any other supplier using the same platform can produce an identical product."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**Level 2: Feature set configuration**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The next level involves configuring which features are enabled or visible on the platform — without modifying how they work. A supplier with good platform knowledge can enable or disable features in the factory image, configure default settings, set default VLAN assignments, and determine which CLI commands and web interface sections are exposed to end users."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This level requires access to the platform's configuration layer and familiarity with its option space. It is more meaningful than branding-only OEM but still does not involve development — it involves configuration of an existing system."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"What it gives you: a product that behaves differently from the manufacturer's standard offering out of the box. A simplified interface for customers who don't need advanced features. Default configurations that match your deployment standards."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"What it does not give you: the ability to add new features, change how existing features behave at a protocol level, or modify the management interface in structural ways."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**Level 3: Firmware development**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Genuine ODM capability at the firmware level means the supplier has SDK access and development capability against the chipset's software development kit. They can implement new features, modify existing feature behavior, change CLI command structure, add custom CLI commands, modify SNMP MIB definitions, and change how the switch interacts with external management systems."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is where the meaningful differentiation happens. A product developed at the firmware level can have genuinely different behavior from any other product on the same silicon — different CLI, different management interface, different protocol behavior, different integration points."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This requires years of platform investment. SDK development is not something a supplier picks up for a single customer program. The suppliers who have it have been investing in it for multiple years, typically across multiple customer programs."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"How to verify: ask for specific examples. What features have you implemented that are not in the chipset manufacturer's reference firmware? What CLI commands exist in your firmware that do not exist in standard firmware? Can you demonstrate a management UI that is structurally different from the reference design? The answers should be specific and demonstrable, not descriptive."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**Level 4: Hardware and mechanical customization**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Full ODM extends to hardware design — port count and configuration, chassis form factor, power supply specification, front and rear panel layout, LED configuration, and mechanical dimensions. This level requires the supplier to have hardware design capability beyond assembling reference board designs."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Not all suppliers who claim ODM support operate at this level. For most OEM programs, Level 3 firmware customization combined with mechanical branding covers the requirement. Hardware-level ODM is relevant when your product specification diverges significantly from available reference designs — unusual port configurations, specific form factor requirements, or integration of non-standard hardware components."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**The question that reveals the level**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A single question surfaces where a supplier's OEM/ODM capability actually sits: \"Can you show me a product you have delivered for another OEM customer that has different CLI behavior from your standard firmware?\""
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If the answer is yes and they can demonstrate it, the supplier has Level 3 capability. If the answer involves showing you a rebranded product with the same CLI as their standard offering, the supplier is operating at Level 1 or 2. If the answer is vague or deflects to production capability and quality, the supplier has not delivered genuine firmware-level ODM."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**Matching your requirement to the right level**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Not every OEM program needs Level 3. If you need a product with your brand, a simplified interface, and default configurations that match your deployment standards, Level 2 is sufficient and available from a wide range of suppliers."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If you need a product that behaves like your product — with CLI behavior, management interfaces, and protocol implementations that are specific to your requirements and not replicable by a competitor buying from the same manufacturer — Level 3 is the requirement, and the supplier pool is significantly smaller."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Knowing which level you need before entering supplier discussions determines whether you are evaluating the right suppliers with the right questions."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"---"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"12月两篇写完。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"**全部备用文章清单（共12篇）：**"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"| 月份 | 篇 | 标题方向 |"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"|------|-----|---------|"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"| 8月 | 1-4 | 已上线：库存/Marvell对比/供应商评估/OEM模式 |"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"| 9月 | 5-6 | Industrial vs Commercial 选型 / PoE Budget计算 |"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"| 10月 | 7-8 | 芯片短缺真实场景 / OEM协议签前5问 |"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"| 11月 | 9-10 | CCTV监控交换机选型 / Marvell Prestera长周期OEM |"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"| 12月 | 11-12 | 芯片平台迁移隐性成本 / OEM支持的真实含义 |"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"明年的选题等你有感觉了再聊，或者随着 CN 站上线、有了真实客户反馈之后，选题会更有方向感。"
+}
+],
+"extracted_at":"2026-10-23T05:01:44Z"
+}

@@ -1,0 +1,63 @@
+{
+"id":"Extra_Info__STH__General__报价单20260228.xlsx__2c458aa6",
+"path":"Extra_Info/STH/General/报价单20260228.xlsx",
+"name":"报价单20260228.xlsx",
+"ext":".xlsx",
+"bytes":6565348,
+"sha256":"2c458aa60102f91b4b0921502d950b8efd5c24dd413a44bb0305bac1bb9e3d12",
+"source":"Extra_Info.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"Sheet1"
+],
+"embedded_images":5,
+"rows_total":5
+},
+"warnings":[],
+"chars":994,
+"text":"--- Sheet: Sheet1 ---\n\t型号\t前面板\t描述\t单价\n\tS9532-EI\t\t32*800G OSFP, 2U, L3 Managed Ethernet Switch\nMain Software Features: \nVXLAN/EVPN/BGP/OSPF/MLAG/IPV6\nPower Supply: 2*CRPS 3200WAC input\nFan Module: 4*Hot-swappable modules\nAIR-Flow: Front-to-Back\nLicense: Pre-installed HOS-MS\n\tS8564-EI\t\t64*400G QSFP112, L3 Managed Ethernet Switch\nMain Software Features: \nVXLAN/EVPN/BGP/OSPF/MLAG/IPV6\nPower Supply: 2*CRPS 3200WAC input\nFan Module: 4*Hot-swappable modules\nAIR-Flow: Front-to-Back\nLicense: Pre-installed HOS-MS\t180000\n\tS8532-EI\t\t32*400G QSFP112, L3 Managed Ethernet Switch\nMain Software Features: \nVXLAN/EVPN/BGP/OSPF/MLAG/IPV6\nPower Supply: 2*CRPS 1300WAC input\nFan Module: 6*Hot-swappable modules\nAIR-Flow: Front-to-Back\nLicense: Pre-installed HOS-MS\t90000\n\tS7832Z-EI\t\t32*100G QSFP28, L3 Managed Ethernet Switch\nMain Software Features: \nVXLAN/EVPN/BGP/OSPF/MLAG/IPV6\nPower Supply: 2*CRPS 550WAC input\nFan Module: 4*Hot-swappable modules\nAIR-Flow: Front-to-Back\nLicense: Pre-installed HOS-MS\t30000",
+"sheets":{
+"Sheet1":{
+"state":"visible",
+"rows":[
+[
+"",
+"型号",
+"前面板",
+"描述",
+"单价"
+],
+[
+"",
+"S9532-EI",
+"",
+"32*800G OSFP, 2U, L3 Managed Ethernet Switch\nMain Software Features: \nVXLAN/EVPN/BGP/OSPF/MLAG/IPV6\nPower Supply: 2*CRPS 3200WAC input\nFan Module: 4*Hot-swappable modules\nAIR-Flow: Front-to-Back\nLicense: Pre-installed HOS-MS"
+],
+[
+"",
+"S8564-EI",
+"",
+"64*400G QSFP112, L3 Managed Ethernet Switch\nMain Software Features: \nVXLAN/EVPN/BGP/OSPF/MLAG/IPV6\nPower Supply: 2*CRPS 3200WAC input\nFan Module: 4*Hot-swappable modules\nAIR-Flow: Front-to-Back\nLicense: Pre-installed HOS-MS",
+"180000"
+],
+[
+"",
+"S8532-EI",
+"",
+"32*400G QSFP112, L3 Managed Ethernet Switch\nMain Software Features: \nVXLAN/EVPN/BGP/OSPF/MLAG/IPV6\nPower Supply: 2*CRPS 1300WAC input\nFan Module: 6*Hot-swappable modules\nAIR-Flow: Front-to-Back\nLicense: Pre-installed HOS-MS",
+"90000"
+],
+[
+"",
+"S7832Z-EI",
+"",
+"32*100G QSFP28, L3 Managed Ethernet Switch\nMain Software Features: \nVXLAN/EVPN/BGP/OSPF/MLAG/IPV6\nPower Supply: 2*CRPS 550WAC input\nFan Module: 4*Hot-swappable modules\nAIR-Flow: Front-to-Back\nLicense: Pre-installed HOS-MS",
+"30000"
+]
+]
+}
+},
+"extracted_at":"2026-10-23T05:03:42Z"
+}

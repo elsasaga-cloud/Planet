@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__STH__STH2.5G__STH-2QX4DX48DE-HSI__4.png__e92f0eb7",
+"path":"Extra_Info/STH/STH2.5G/STH-2QX4DX48DE-HSI/4.png",
+"name":"4.png",
+"ext":".png",
+"bytes":6550040,
+"sha256":"e92f0eb74b4205bca7bc8f4147304390988376906e96fb18ed3896a2e1c34c9a",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":3840,
+"height":2160,
+"mode":"RGBA",
+"thumb_bytes":4438
+},
+"warnings":[],
+"chars":33,
+"text":"ON\nOUTPUT\nINWOO.Z40v 一 /A 50/60Hz",
+"extracted_at":"2026-10-23T05:04:50Z",
+"thumb":"thumbs/Extra_Info__STH__STH2.5G__STH-2QX4DX48DE-HSI__4.png__e92f0eb7.jpg"
+}

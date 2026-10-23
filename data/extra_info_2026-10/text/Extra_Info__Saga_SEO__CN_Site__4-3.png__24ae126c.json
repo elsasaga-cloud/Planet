@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_SEO__CN_Site__4-3.png__24ae126c",
+"path":"Extra_Info/Saga SEO/CN Site/4-3.png",
+"name":"4-3.png",
+"ext":".png",
+"bytes":3130240,
+"sha256":"24ae126cfda367b48b6c082850aae22c868555a3329bbdfb618727e1b38ff78f",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1147,
+"height":681,
+"mode":"RGBA",
+"thumb_bytes":7805
+},
+"warnings":[],
+"chars":115,
+"text":"Sooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo\n440mm\nFront view\nBack view\nSide view",
+"extracted_at":"2026-10-23T05:02:14Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__CN_Site__4-3.png__24ae126c.jpg"
+}

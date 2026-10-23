@@ -1,0 +1,292 @@
+{
+"id":"Extra_Info__Price__2026_Price_List_Marvell_Commercial_Switch.xls__3df8f3da",
+"path":"Extra_Info/Price/2026 Price List_Marvell Commercial Switch.xls",
+"name":"2026 Price List_Marvell Commercial Switch.xls",
+"ext":".xls",
+"bytes":6546432,
+"sha256":"3df8f3dabec5dd5f2e5f8742708ea50064357916afdca915162cc687cc1e4466",
+"source":"Extra_Info.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Saga Telecom"
+],
+"rows_total":45
+},
+"warnings":[],
+"chars":5235,
+"text":"--- Sheet: Saga Telecom ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 13048800964                                        www.sagatelecom.com.cn                                 Email: a.sagatelecom@gmail.com\nDownload Link(information for full category)\nhttps://drive.google.com/drive/folders/1514zri3WCqq_41jko8WBr-aOPYJNFwm0?usp=drive_link\nMust-Know\n1.Eco-friendly lead-free metal case\n2.PoE models are ONLY PoE af/at based(PoE BT 90W standard is NOT supported)\n3.The power comes in AC and DC input. For AC type, it has internal AC-DC converter\n4.Power adapter is included in the price\nBut optical module is NOT included, need to purchase individually\nFor AC input models, there is a pair of mounting brackets in the packing box for rack mounting\nClick the model name, you will be directed to the product webpage for more information\nBased on market demand, a marvell chip based series enjoying richer manament feaures\nL2 Managed: VLAN, MAC address, QoS, Ring, STP/RSTP/MSTP, Web/Telnet/CLI/SSH...\nL3 Managed: Static and dynamic routing, ARP,  ECMP, IPV4/IPV6, VRRP, RIP, OSPF, BGP4, IS-IS...\nCommercial Managed Switch(Non-PoE Series)\nSTC-28DGGM\t2*1G/2.5G SFP+8*10/100/1000M RJ45+1*Console Port\nL2+ managed, DC input(5V~16V), with power supply\t\t\t\t77\nSTC-48DGGM\t4*1G/2.5G SFP+8*10/100/1000M RJ45+1*Console Port\nL2+ managed, DC input(5V~16V), with power supply\t\t\t\t80\nSTC-28DGGM-U\t2*1G/2.5G SFP+8*10/100/1000M RJ45+1*Console Port\nL2+ managed, AC input, Rack compatible\t\t\t\t85\nSTC-48DGGM-U\t4*1G/2.5G SFP+8*10/100/1000M RJ45+1*Console Port\nL2+ managed, AC input, Rack compatible\t\t\t\t90\nSTC-424DGGM\t4*1G/2.5G SFP+24*10/100/1000M RJ45+1*Console Port\nL2+ managed, AC input, Rack compatible\t\t\t\t100\nSTC-424XGGM\t4*1G/2.5G/10G SFP+24*10/100/1000M RJ45+1*Console Port\nL2+ managed, AC input, Rack compatible\t\t\t\t130\nSTC-448DGGM\t4*1G/2.5G SFP+48*10/100/1000M RJ45+1*Console Port\nL2+ managed, AC input, Rack compatible\t\t\t\t200\nSTC-448XGGM\t4*1G/2.5G/10G  SFP+48*10/100/1000M RJ45+1*Console Port\nL2+ managed, AC input, Rack compatible\t\t\t\t260\nSTC-424XGGM\t4*1G/2.5G/10G SFP+24*10/100/1000M RJ45+1*Console Port\nL3 managed, AC input, Rack compatible\t\t\t\t268\nSTC-448XGGM\t4*1G/2.5G/10G SFP+48*10/100/1000M RJ45+1*Console Port\nL3 managed, AC input, Rack compatible\t\t\t\t465\nSTC-448XGGMO\t4*1G/2.5G/10G SFP+48*100/1000M SFP+1*USB Port+1*Console Port\nL3 managed, AC input, Rack compatible\t\t\t\t625\nSTC-4168XGGCM\t4*1G/2.5G/10G SFP+16*100/1000M SFP+8*Gigabit SFP/RJ45(Combo ports)+1*USB Port+1*Console Port\nL3 managed, AC input, Rack compatible\t\t\t\t375\nSTC-4816XGCGM\t4*1G/2.5G/10G SFP+8*Gigabit SFP/RJ45(Combo ports)+16*10/100/1000M RJ45+1*USB Port+1*Console Port\nL3 managed, AC input, Rack compatible\t\t\t\t321\nCommercial PoE Managed Switch\nSTC-28DGGPM\t2*1G/2.5G SFP+8*10/100/1000M RJ45+1*Console Port\nPoE af/at, 240W budget, L2+ managed, DC52V input, with power supply\t\t\t\t90\nSTC-48DGGPM\t4*1G/2.5G SFP+8*10/100/1000M RJ45+1*Console Port\nPoE af/at, 240W budget, L2+ managed, DC52V input, with power supply\t\t\t\t93\nSTC-28DGGPM-U\t2*1G/2.5G SFP+8*10/100/1000M RJ45+1*Console Port\nPoE af/at, 200W budget, L2+ managed, AC input, Rack compatible\t\t\t\t100\nSTC-48DGGPM-U\t4*1G/2.5G SFP+8*10/100/1000M RJ45+1*Console Port\nPoE af/at, 200W budget, L2+ managed, AC input, Rack compatible\t\t\t\t105\nSTC-424DGGPM-280W\t4*1G/2.5G SFP+24*10/100/1000M RJ45+1*Console Port\nL2+ managed, PoE af/at, 280W budget, Support PoE management, PoE watchdog, AC input, Rack compatible\t\t\t\t150\nSTC-424DGGPM-440W\t4*1G/2.5G SFP+24*10/100/1000M RJ45+1*Console Port\nL2+ managed, PoE af/at, 440W budget, Support PoE management, PoE watchdog, AC input, Rack compatible\t\t\t\t200\nSTC-424XGGPM-280W\t4*1G/2.5G/10G SFP+24*10/100/1000M RJ45+1*Console Port\nL2+ managed, PoE af/at, 280W budget, Support PoE management, PoE watchdog, AC input, Rack compatible\t\t\t\t180\nSTC-424XGGPM-440W\t4*1G/2.5G/10G SFP+24*10/100/1000M RJ45+1*Console Port\nL2+ managed, PoE af/at, 440W budget, Support PoE management, PoE watchdog, AC input, Rack compatible\t\t\t\t240\nSTC-448DGGPM\t4*1G/2.5G SFP+48*10/100/1000M RJ45+1*Console Port\nL2+ managed, PoE af/at, 440W budget, Support PoE management, PoE watchdog, AC input, Rack compatible\t\t\t\t280\nSTC-448XGGPM\t4*1G/2.5G/10G SFP+48*10/100/1000M RJ45+1*Console Port\nL2+ managed, PoE af/at, 440W budget, Support PoE management, PoE watchdog, AC input, Rack compatible\t\t\t\t335\nSTC-424XGGPM\t4*1G/2.5G/10G SFP+24*10/100/1000M RJ45+1*Console Port\nL3 managed, PoE af/at, 440W budget, Support PoE management, PoE watchdog, AC input, Rack compatible\t\t\t\t340\nSTC-448XGGPM\t4*1G/2.5G/10G SFP+48*10/100/1000M RJ45+1*Console Port\nL3 managed, PoE af/at, 440W budget, Support PoE management, PoE watchdog, AC input, Rack compatible\t\t\t\t530\nSTC-4816XGCGPM\t4*1G/2.5G/10G SFP+8*Gigabit SFP/RJ45(Combo ports)+16*10/100/1000M RJ45+1*USB Port+1*Console Port\nL3 managed, PoE af/at, 440W budget, Support PoE management, PoE watchdog, AC input, Rack compatible\t\t\t\t555\nRemarks\n1. Prices are valid for 15 days\n2. Price term: EXW\n3. Warranty period: One year\n4. Lead time for less than 50pcs: 5~7 working days\n5. Customization is available",
+"sheets":{
+"Saga Telecom":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Tailored Marvell Managed Networking Solutions Provider"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 13048800964                                        www.sagatelecom.com.cn                                 Email: a.sagatelecom@gmail.com"
+],
+[
+"Download Link(information for full category)"
+],
+[
+"https://drive.google.com/drive/folders/1514zri3WCqq_41jko8WBr-aOPYJNFwm0?usp=drive_link"
+],
+[
+"Must-Know"
+],
+[
+"1.Eco-friendly lead-free metal case\n2.PoE models are ONLY PoE af/at based(PoE BT 90W standard is NOT supported)\n3.The power comes in AC and DC input. For AC type, it has internal AC-DC converter\n4.Power adapter is included in the price\nBut optical module is NOT included, need to purchase individually\nFor AC input models, there is a pair of mounting brackets in the packing box for rack mounting"
+],
+[
+"Click the model name, you will be directed to the product webpage for more information"
+],
+[
+"Based on market demand, a marvell chip based series enjoying richer manament feaures\nL2 Managed: VLAN, MAC address, QoS, Ring, STP/RSTP/MSTP, Web/Telnet/CLI/SSH...\nL3 Managed: Static and dynamic routing, ARP,  ECMP, IPV4/IPV6, VRRP, RIP, OSPF, BGP4, IS-IS..."
+],
+[
+"Commercial Managed Switch(Non-PoE Series)"
+],
+[
+"STC-28DGGM",
+"2*1G/2.5G SFP+8*10/100/1000M RJ45+1*Console Port\nL2+ managed, DC input(5V~16V), with power supply",
+"",
+"",
+"",
+"77"
+],
+[
+"STC-48DGGM",
+"4*1G/2.5G SFP+8*10/100/1000M RJ45+1*Console Port\nL2+ managed, DC input(5V~16V), with power supply",
+"",
+"",
+"",
+"80"
+],
+[
+"STC-28DGGM-U",
+"2*1G/2.5G SFP+8*10/100/1000M RJ45+1*Console Port\nL2+ managed, AC input, Rack compatible",
+"",
+"",
+"",
+"85"
+],
+[
+"STC-48DGGM-U",
+"4*1G/2.5G SFP+8*10/100/1000M RJ45+1*Console Port\nL2+ managed, AC input, Rack compatible",
+"",
+"",
+"",
+"90"
+],
+[
+"STC-424DGGM",
+"4*1G/2.5G SFP+24*10/100/1000M RJ45+1*Console Port\nL2+ managed, AC input, Rack compatible",
+"",
+"",
+"",
+"100"
+],
+[
+"STC-424XGGM",
+"4*1G/2.5G/10G SFP+24*10/100/1000M RJ45+1*Console Port\nL2+ managed, AC input, Rack compatible",
+"",
+"",
+"",
+"130"
+],
+[
+"STC-448DGGM",
+"4*1G/2.5G SFP+48*10/100/1000M RJ45+1*Console Port\nL2+ managed, AC input, Rack compatible",
+"",
+"",
+"",
+"200"
+],
+[
+"STC-448XGGM",
+"4*1G/2.5G/10G  SFP+48*10/100/1000M RJ45+1*Console Port\nL2+ managed, AC input, Rack compatible",
+"",
+"",
+"",
+"260"
+],
+[
+"STC-424XGGM",
+"4*1G/2.5G/10G SFP+24*10/100/1000M RJ45+1*Console Port\nL3 managed, AC input, Rack compatible",
+"",
+"",
+"",
+"268"
+],
+[
+"STC-448XGGM",
+"4*1G/2.5G/10G SFP+48*10/100/1000M RJ45+1*Console Port\nL3 managed, AC input, Rack compatible",
+"",
+"",
+"",
+"465"
+],
+[
+"STC-448XGGMO",
+"4*1G/2.5G/10G SFP+48*100/1000M SFP+1*USB Port+1*Console Port\nL3 managed, AC input, Rack compatible",
+"",
+"",
+"",
+"625"
+],
+[
+"STC-4168XGGCM",
+"4*1G/2.5G/10G SFP+16*100/1000M SFP+8*Gigabit SFP/RJ45(Combo ports)+1*USB Port+1*Console Port\nL3 managed, AC input, Rack compatible",
+"",
+"",
+"",
+"375"
+],
+[
+"STC-4816XGCGM",
+"4*1G/2.5G/10G SFP+8*Gigabit SFP/RJ45(Combo ports)+16*10/100/1000M RJ45+1*USB Port+1*Console Port\nL3 managed, AC input, Rack compatible",
+"",
+"",
+"",
+"321"
+],
+[
+"Commercial PoE Managed Switch"
+],
+[
+"STC-28DGGPM",
+"2*1G/2.5G SFP+8*10/100/1000M RJ45+1*Console Port\nPoE af/at, 240W budget, L2+ managed, DC52V input, with power supply",
+"",
+"",
+"",
+"90"
+],
+[
+"STC-48DGGPM",
+"4*1G/2.5G SFP+8*10/100/1000M RJ45+1*Console Port\nPoE af/at, 240W budget, L2+ managed, DC52V input, with power supply",
+"",
+"",
+"",
+"93"
+],
+[
+"STC-28DGGPM-U",
+"2*1G/2.5G SFP+8*10/100/1000M RJ45+1*Console Port\nPoE af/at, 200W budget, L2+ managed, AC input, Rack compatible",
+"",
+"",
+"",
+"100"
+],
+[
+"STC-48DGGPM-U",
+"4*1G/2.5G SFP+8*10/100/1000M RJ45+1*Console Port\nPoE af/at, 200W budget, L2+ managed, AC input, Rack compatible",
+"",
+"",
+"",
+"105"
+],
+[
+"STC-424DGGPM-280W",
+"4*1G/2.5G SFP+24*10/100/1000M RJ45+1*Console Port\nL2+ managed, PoE af/at, 280W budget, Support PoE management, PoE watchdog, AC input, Rack compatible",
+"",
+"",
+"",
+"150"
+],
+[
+"STC-424DGGPM-440W",
+"4*1G/2.5G SFP+24*10/100/1000M RJ45+1*Console Port\nL2+ managed, PoE af/at, 440W budget, Support PoE management, PoE watchdog, AC input, Rack compatible",
+"",
+"",
+"",
+"200"
+],
+[
+"STC-424XGGPM-280W",
+"4*1G/2.5G/10G SFP+24*10/100/1000M RJ45+1*Console Port\nL2+ managed, PoE af/at, 280W budget, Support PoE management, PoE watchdog, AC input, Rack compatible",
+"",
+"",
+"",
+"180"
+],
+[
+"STC-424XGGPM-440W",
+"4*1G/2.5G/10G SFP+24*10/100/1000M RJ45+1*Console Port\nL2+ managed, PoE af/at, 440W budget, Support PoE management, PoE watchdog, AC input, Rack compatible",
+"",
+"",
+"",
+"240"
+],
+[
+"STC-448DGGPM",
+"4*1G/2.5G SFP+48*10/100/1000M RJ45+1*Console Port\nL2+ managed, PoE af/at, 440W budget, Support PoE management, PoE watchdog, AC input, Rack compatible",
+"",
+"",
+"",
+"280"
+],
+[
+"STC-448XGGPM",
+"4*1G/2.5G/10G SFP+48*10/100/1000M RJ45+1*Console Port\nL2+ managed, PoE af/at, 440W budget, Support PoE management, PoE watchdog, AC input, Rack compatible",
+"",
+"",
+"",
+"335"
+],
+[
+"STC-424XGGPM",
+"4*1G/2.5G/10G SFP+24*10/100/1000M RJ45+1*Console Port\nL3 managed, PoE af/at, 440W budget, Support PoE management, PoE watchdog, AC input, Rack compatible",
+"",
+"",
+"",
+"340"
+],
+[
+"STC-448XGGPM",
+"4*1G/2.5G/10G SFP+48*10/100/1000M RJ45+1*Console Port\nL3 managed, PoE af/at, 440W budget, Support PoE management, PoE watchdog, AC input, Rack compatible",
+"",
+"",
+"",
+"530"
+],
+[
+"STC-4816XGCGPM",
+"4*1G/2.5G/10G SFP+8*Gigabit SFP/RJ45(Combo ports)+16*10/100/1000M RJ45+1*USB Port+1*Console Port\nL3 managed, PoE af/at, 440W budget, Support PoE management, PoE watchdog, AC input, Rack compatible",
+"",
+"",
+"",
+"555"
+],
+[
+"Remarks"
+],
+[
+"1. Prices are valid for 15 days"
+],
+[
+"2. Price term: EXW"
+],
+[
+"3. Warranty period: One year"
+],
+[
+"4. Lead time for less than 50pcs: 5~7 working days"
+],
+[
+"5. Customization is available"
+]
+]
+}
+},
+"extracted_at":"2026-10-23T05:05:47Z"
+}

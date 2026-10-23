@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_SEO__X__saga_x_banner_v4.png__543f886c",
+"path":"Extra_Info/Saga SEO/X/saga_x_banner_v4.png",
+"name":"saga_x_banner_v4.png",
+"ext":".png",
+"bytes":69934,
+"sha256":"543f886c9c4c2548d2ff1043470267d639eb5a9e4b16dd266958e327b6f222df",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1500,
+"height":500,
+"mode":"RGB",
+"thumb_bytes":4477
+},
+"warnings":[],
+"chars":387,
+"text":"STI 一 Industrial\nDIN-rail ，-49*C to 75°C . 196 Fiber Uplinks\nPoE+ - ERPS ，Fiber Bypass\nDI/DO/RS485 - Temp-Humidity Sensor\n。 ，。\nManaged switching src 一 cammwra\nfor every layer.\nSTH — Core & Aggregation\nOEM / ODM available across all Lines 32x4996 MPLS / VXLAN / EVPN\nIndustrial - commercial - core & Aggregation Half-width - Hot-swap PSU & Fan\n一 一 ENGINEERING & SUPPLY-CHAIN-FIRST\nTELECOM",
+"extracted_at":"2026-10-23T05:02:30Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__X__saga_x_banner_v4.png__543f886c.jpg"
+}

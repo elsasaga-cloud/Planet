@@ -1,0 +1,101 @@
+{
+"id":"Extra_Info__STH__价格比对_2026.03.01.xlsx__a6b013c3",
+"path":"Extra_Info/STH/价格比对 2026.03.01.xlsx",
+"name":"价格比对 2026.03.01.xlsx",
+"ext":".xlsx",
+"bytes":10937,
+"sha256":"a6b013c3f350d243a72e5d4bb09cd5bab136ec18f5905ff0d8e085144481088f",
+"source":"Extra_Info.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"价格比对 2026.03.01"
+],
+"embedded_images":0,
+"rows_total":9
+},
+"warnings":[],
+"chars":1068,
+"text":"--- Sheet: 价格比对 2026.03.01 ---\n\tHohuNet\tSeries\tSaga\tFS\tLink\n型号 价格\tS7832Z-EI  30000 RMB\tSTH100G\tSTH-32C-HSI  6000 USD\tS8550-32C 7959 USD\thttps://www.fs.com/products/155948.html?now_cid=3258\n\t\tXLite\tSTH-14C4DX-HSI\tS5460C-14C 3399USD\thttps://www.fs.com/products/346095.html?attribute=105744&id=4680725\n\tS5624XH-2Z-EI 7300 RMB\t\tSTH-2C24XF-HSI 1350USD\tS5850C-24S2C 2039USD\thttps://www.fs.com/products/240827.html?attribute=123227&id=4680734\n\tS5624TH-2Z-EI 9300 RMB\t\tSTH-2C24XE-HSI 1750USD\tS5850C-24XMG2C 2369USD\thttps://www.fs.com/products/240831.html?attribute=105744&id=4258331\n\tS5612X12TH-2Z-EI 7000 RMB\t\tSTH-2C12XF12XE-HSI 1350USD\tS5850C-12XMS2C 2159USD\thttps://www.fs.com/products/240829.html?attribute=105747&id=4680731\n\tS7606X-2Z-EI  6500 RMB\t\tSTH-2C6QX-HSI 1200USD\tS8550-6Q2C 1549USD\thttps://www.fs.com/products/158185.html?now_cid=3257\n\tS7548N-8Z 28000 RMB\tSTH25G\tSTH-8C48DX-HSI 5000USD\tS5850-48B8C 6169USD\thttps://www.fs.com/products/157444.html?now_cid=1071\n\t\t\tSTH-4C24DX-HSI\tS5850-24B4C 4689USD\thttps://www.fs.com/products/184242.html?attribute=69531&id=3686279",
+"sheets":{
+"价格比对 2026.03.01":{
+"state":"visible",
+"rows":[
+[
+"",
+"HohuNet",
+"Series",
+"Saga",
+"FS",
+"Link"
+],
+[
+"型号 价格",
+"S7832Z-EI  30000 RMB",
+"STH100G",
+"STH-32C-HSI  6000 USD",
+"S8550-32C 7959 USD",
+"https://www.fs.com/products/155948.html?now_cid=3258"
+],
+[
+"",
+"",
+"XLite",
+"STH-14C4DX-HSI",
+"S5460C-14C 3399USD",
+"https://www.fs.com/products/346095.html?attribute=105744&id=4680725"
+],
+[
+"",
+"S5624XH-2Z-EI 7300 RMB",
+"",
+"STH-2C24XF-HSI 1350USD",
+"S5850C-24S2C 2039USD",
+"https://www.fs.com/products/240827.html?attribute=123227&id=4680734"
+],
+[
+"",
+"S5624TH-2Z-EI 9300 RMB",
+"",
+"STH-2C24XE-HSI 1750USD",
+"S5850C-24XMG2C 2369USD",
+"https://www.fs.com/products/240831.html?attribute=105744&id=4258331"
+],
+[
+"",
+"S5612X12TH-2Z-EI 7000 RMB",
+"",
+"STH-2C12XF12XE-HSI 1350USD",
+"S5850C-12XMS2C 2159USD",
+"https://www.fs.com/products/240829.html?attribute=105747&id=4680731"
+],
+[
+"",
+"S7606X-2Z-EI  6500 RMB",
+"",
+"STH-2C6QX-HSI 1200USD",
+"S8550-6Q2C 1549USD",
+"https://www.fs.com/products/158185.html?now_cid=3257"
+],
+[
+"",
+"S7548N-8Z 28000 RMB",
+"STH25G",
+"STH-8C48DX-HSI 5000USD",
+"S5850-48B8C 6169USD",
+"https://www.fs.com/products/157444.html?now_cid=1071"
+],
+[
+"",
+"",
+"",
+"STH-4C24DX-HSI",
+"S5850-24B4C 4689USD",
+"https://www.fs.com/products/184242.html?attribute=69531&id=3686279"
+]
+]
+}
+},
+"extracted_at":"2026-10-23T05:02:55Z"
+}

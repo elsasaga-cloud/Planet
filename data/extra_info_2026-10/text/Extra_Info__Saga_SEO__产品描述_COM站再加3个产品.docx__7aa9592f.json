@@ -1,0 +1,362 @@
+{
+"id":"Extra_Info__Saga_SEO__产品描述_COM站再加3个产品.docx__7aa9592f",
+"path":"Extra_Info/Saga SEO/产品描述_COM站再加3个产品.docx",
+"name":"产品描述_COM站再加3个产品.docx",
+"ext":".docx",
+"bytes":29003,
+"sha256":"7aa9592fd8ba79d28e13461fd1a88db0103f16a451be6182c8b77469f80361a2",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2026-08-07T13:00:00+00:00",
+"modified":"2026-09-06T10:50:55+00:00",
+"paragraphs":67,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"chars":6676,
+"text":"第1个产品\nhttps://www.smartbyte-switch.com/16-10-100-1000Base-T-PoE-2-1000Base-X-Industrial-PoE-Switch-PG12141554\n强调16个PoE口 PoE af/at 240W budget导轨安装适合户外CCTV cabinet solutions\nSaga的型号是\nSTI-21616GP\nport Gigabit PoE+ unmanaged industrial switch with 240W budget, redundant power, and DIN-rail mount for outdoor CCTV cabinets.\n1. 16-Port PoE/PoE+ with 240W Budget — Power an Entire Camera Site from One Device\nAll 16 RJ45 ports deliver IEEE802.3af/at compliant PoE/PoE+ up to 30W per port\n240W total PoE budget powers a full deployment of IP cameras, access points, or intercoms without external injectors\nBuilt-in PoE watchdog automatically detects and restarts unresponsive PDs (cameras, APs) — eliminates on-site service calls for frozen devices\nPorts 1–4 support 250m long-distance transmission mode — extends reach to distant camera positions in large outdoor sites\n2. DIN-Rail Mount + IP40 Fanless Housing — Built for Outdoor CCTV Cabinets\nCompact 54×115×158mm DIN-rail chassis slots directly into standard outdoor enclosures and roadside control cabinets\nFanless design eliminates dust ingress and moving-part failures — critical for sealed outdoor cabinet deployments\nWide operating temperature -40°C to +75°C covers roadside, rooftop, and industrial perimeter installations year-round\n6KV surge protection on power and Ethernet ports + ESD Air-15kV/Contact-8kV guards against lightning strikes common in open-field CCTV deployments\n3. Redundant Dual Power Input with Relay Alarm — No Single Point of Power Failure\nDual DC 44-57V redundant inputs with polarity reverse and over-current protection switch seamlessly on supply loss\nOnboard relay alarm output (terminal block Pin 5/6) triggers external notification on power failure — integrates with site monitoring systems\nMTBF >200,000 hours; CE/FCC/RoHS/UKCA certified — meets infrastructure-grade reliability requirements for transport and public safety networks\nApplication: Outdoor IP surveillance cabinets, roadside CCTV deployments, perimeter security, transportation monitoring, oil & gas field camera networks.\n第2个产品\nhttps://www.smartbyte-switch.com/48-10-100-1000Base-T-4-1G-2-5G-10G-SFP-Layer-3-Managed-Ethernet-Switch-PG12130177\n强调端口48口1G和10G上联光口\n可支持单/双AC输入，以及1G的RAM，Marvell AC5方案以及512MB的flash\nL3功能比如RIP/OSPF/BGP/ECMP/VRRP\nSaga的型号是\nSTC-448XGGM\nport Gigabit L3 managed switch with 4×10G SFP+ uplinks, Marvell AC5 platform, 1GB RAM, and flexible AC/DC power options.\n1. Enterprise-Grade L3 Routing — RIP, OSPF, BGP4, ECMP, VRRP with 13K Routing Entries\nFull dynamic routing suite: RIPv1/v2, OSPFv2, BGP4, IS-IS for complex multi-site and ISP network topologies\nECMP (Equal-Cost Multi-Path) with recursive routing and load balancing maximizes link utilization across redundant uplinks\nVRRP provides virtual gateway failover — eliminates single points of failure at the distribution or core layer\nIPv4/IPv6 dual-stack with DHCP server/relay, PIM-SM multicast routing, and 13K routing entries for large-scale deployments\n2. Marvell AC5 Platform — 1.2GHz CPU, 1GB RAM, 512MB Flash\nMarvell AC5 series switch chip and 1.2GHz CPU deliver 336 Gbps switching capacity and 499.9 Mpps forwarding rate — headroom for line-rate L3 routing at full 48-port load\n1GB RAM and 512MB flash support large routing tables, extensive logging, and dual-partition firmware upgrades without service interruption\nDual partition management allows in-service OS upgrades with instant rollback — a hardware spec that directly reduces maintenance risk\n3. Flexible Power Input — Single AC, Dual AC, or AC+DC — One SKU Fits All Sites\nDefault single AC 100-240V; optional dual AC 100-240V for full power redundancy; optional AC+DC (36-72V) hybrid for sites with mixed power infrastructure\nThree orderable SKUs cover everything from cost-sensitive SMB deployments to carrier-grade redundant power requirements without hardware redesign\n4× 1G/2.5G/10G SFP+ auto-negotiation uplinks scale backhaul bandwidth to aggregation or WAN without module swaps — future-proof at purchase\nApplication: SMB and mid-enterprise core/distribution layer, ISP edge, multi-site VoIP and video streaming, campus network aggregation, hybrid AC/DC power environments.\n第3个产品\nhttps://hohunet.com/product/s7548n-8z-ei-plus-data-center-switch48-x-25g-sfp288x100g-qsfp28-dual-power-supply-module-4-hot-swappable-intelligent-fan-module/\n强调端口48口25G和8个100G上联光口\n强掉1+1 热插拔电源和4个智能风扇模块\n强调数据中心的使用场景和这些重要功能MACsec  EVPN  Vxlan\tMPLS\tStacking\tMLAG\nSaga的型号是\nSTH-8C48DX-HSI\nData center L3 switch with 48×25G SFP28 and 8×100G uplinks, 1+1 hot-swap PSU, and 4 smart fan modules.\n1. High-Density 25G Access + 100G Uplinks — Built for Data Center Spine-Leaf\n48× 25G SFP28 downlinks connect directly to servers, storage arrays, and hyperconverged nodes at wire speed\n8× 100G QSFP28 uplinks deliver non-blocking backhaul to spine layer at 4 Tbps bidirectional switching capacity and 1.82 Bpps forwarding rate\nPurpose-built for data center leaf role: high server-port density, low latency, and enough uplink bandwidth to avoid oversubscription at scale\nSupports PFC/DCBX/ECN for lossless Ethernet — essential for NVMe-oF, RoCE, and storage-heavy HCI workloads\n2. 1+1 Hot-Swap Power Modules + 4 Intelligent Hot-Swap Fan Modules\nTwo 800W CRPS hot-swappable power supplies operate in active-active redundancy — replace a failed PSU under full traffic without touching the network\nFour independently hot-swappable intelligent fan modules (front-to-back airflow) adapt cooling speed dynamically to real-time thermal load\nBoth PSU and fan replacements require zero downtime — critical for data centers running 24/7 SLA-bound workloads\nMTBF ≥90,000 hours with hardware watchdog and BHM process monitoring for continuous autonomous operation\n3. Full Data Center Feature Stack — MACsec, EVPN, VXLAN, MPLS, MLAG, Stacking\nVXLAN with BGP EVPN and distributed gateway enables multi-tenant overlay networks and seamless cross-DC interconnect for cloud and HCI environments\nMLAG Active-Active builds device-grade link redundancy across two switches — eliminates single points of failure at the leaf layer without stacking reboots\nMACsec (802.1AE) AES-CMAC encrypts switch-to-switch traffic end-to-end — meets zero-trust security requirements in shared and colocation DC environments\nMPLS (LDP, L2VPN/VPWS/VPLS, L3VPN) via MA license extends the same switch into carrier metro and IPRan transport roles; stacking (up to 8 units) via ST license for campus-to-DC unified fabric\nApplication: Data center leaf layer, hyperconverged infrastructure (HCI), cloud multi-tenant overlay networks, carrier IPRan/metro aggregation, enterprise core with DC interconnect.\n[页眉页脚]\n菲利普·费雪说：我不想花时间在赚取微利上\n我想要非常，非常大的利润，并做好了为此等待的准备\n修炼内功",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"第1个产品"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"https://www.smartbyte-switch.com/16-10-100-1000Base-T-PoE-2-1000Base-X-Industrial-PoE-Switch-PG12141554"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"强调16个PoE口 PoE af/at 240W budget导轨安装适合户外CCTV cabinet solutions"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga的型号是"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STI-21616GP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"port Gigabit PoE+ unmanaged industrial switch with 240W budget, redundant power, and DIN-rail mount for outdoor CCTV cabinets."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1. 16-Port PoE/PoE+ with 240W Budget — Power an Entire Camera Site from One Device"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"All 16 RJ45 ports deliver IEEE802.3af/at compliant PoE/PoE+ up to 30W per port"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"240W total PoE budget powers a full deployment of IP cameras, access points, or intercoms without external injectors"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Built-in PoE watchdog automatically detects and restarts unresponsive PDs (cameras, APs) — eliminates on-site service calls for frozen devices"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ports 1–4 support 250m long-distance transmission mode — extends reach to distant camera positions in large outdoor sites"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2. DIN-Rail Mount + IP40 Fanless Housing — Built for Outdoor CCTV Cabinets"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Compact 54×115×158mm DIN-rail chassis slots directly into standard outdoor enclosures and roadside control cabinets"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Fanless design eliminates dust ingress and moving-part failures — critical for sealed outdoor cabinet deployments"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Wide operating temperature -40°C to +75°C covers roadside, rooftop, and industrial perimeter installations year-round"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"6KV surge protection on power and Ethernet ports + ESD Air-15kV/Contact-8kV guards against lightning strikes common in open-field CCTV deployments"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3. Redundant Dual Power Input with Relay Alarm — No Single Point of Power Failure"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Dual DC 44-57V redundant inputs with polarity reverse and over-current protection switch seamlessly on supply loss"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Onboard relay alarm output (terminal block Pin 5/6) triggers external notification on power failure — integrates with site monitoring systems"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MTBF >200,000 hours; CE/FCC/RoHS/UKCA certified — meets infrastructure-grade reliability requirements for transport and public safety networks"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Application: Outdoor IP surveillance cabinets, roadside CCTV deployments, perimeter security, transportation monitoring, oil & gas field camera networks."
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"第2个产品"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.smartbyte-switch.com/48-10-100-1000Base-T-4-1G-2-5G-10G-SFP-Layer-3-Managed-Ethernet-Switch-PG12130177"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"强调端口48口1G和10G上联光口"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"可支持单/双AC输入，以及1G的RAM，Marvell AC5方案以及512MB的flash"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"L3功能比如RIP/OSPF/BGP/ECMP/VRRP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga的型号是"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STC-448XGGM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"port Gigabit L3 managed switch with 4×10G SFP+ uplinks, Marvell AC5 platform, 1GB RAM, and flexible AC/DC power options."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1. Enterprise-Grade L3 Routing — RIP, OSPF, BGP4, ECMP, VRRP with 13K Routing Entries"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Full dynamic routing suite: RIPv1/v2, OSPFv2, BGP4, IS-IS for complex multi-site and ISP network topologies"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"ECMP (Equal-Cost Multi-Path) with recursive routing and load balancing maximizes link utilization across redundant uplinks"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"VRRP provides virtual gateway failover — eliminates single points of failure at the distribution or core layer"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IPv4/IPv6 dual-stack with DHCP server/relay, PIM-SM multicast routing, and 13K routing entries for large-scale deployments"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2. Marvell AC5 Platform — 1.2GHz CPU, 1GB RAM, 512MB Flash"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Marvell AC5 series switch chip and 1.2GHz CPU deliver 336 Gbps switching capacity and 499.9 Mpps forwarding rate — headroom for line-rate L3 routing at full 48-port load"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1GB RAM and 512MB flash support large routing tables, extensive logging, and dual-partition firmware upgrades without service interruption"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Dual partition management allows in-service OS upgrades with instant rollback — a hardware spec that directly reduces maintenance risk"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3. Flexible Power Input — Single AC, Dual AC, or AC+DC — One SKU Fits All Sites"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Default single AC 100-240V; optional dual AC 100-240V for full power redundancy; optional AC+DC (36-72V) hybrid for sites with mixed power infrastructure"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Three orderable SKUs cover everything from cost-sensitive SMB deployments to carrier-grade redundant power requirements without hardware redesign"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4× 1G/2.5G/10G SFP+ auto-negotiation uplinks scale backhaul bandwidth to aggregation or WAN without module swaps — future-proof at purchase"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Application: SMB and mid-enterprise core/distribution layer, ISP edge, multi-site VoIP and video streaming, campus network aggregation, hybrid AC/DC power environments."
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"第3个产品"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://hohunet.com/product/s7548n-8z-ei-plus-data-center-switch48-x-25g-sfp288x100g-qsfp28-dual-power-supply-module-4-hot-swappable-intelligent-fan-module/"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"强调端口48口25G和8个100G上联光口"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"强掉1+1 热插拔电源和4个智能风扇模块"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"强调数据中心的使用场景和这些重要功能MACsec  EVPN  Vxlan\tMPLS\tStacking\tMLAG"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga的型号是"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STH-8C48DX-HSI"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Data center L3 switch with 48×25G SFP28 and 8×100G uplinks, 1+1 hot-swap PSU, and 4 smart fan modules."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1. High-Density 25G Access + 100G Uplinks — Built for Data Center Spine-Leaf"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"48× 25G SFP28 downlinks connect directly to servers, storage arrays, and hyperconverged nodes at wire speed"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8× 100G QSFP28 uplinks deliver non-blocking backhaul to spine layer at 4 Tbps bidirectional switching capacity and 1.82 Bpps forwarding rate"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Purpose-built for data center leaf role: high server-port density, low latency, and enough uplink bandwidth to avoid oversubscription at scale"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Supports PFC/DCBX/ECN for lossless Ethernet — essential for NVMe-oF, RoCE, and storage-heavy HCI workloads"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2. 1+1 Hot-Swap Power Modules + 4 Intelligent Hot-Swap Fan Modules"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Two 800W CRPS hot-swappable power supplies operate in active-active redundancy — replace a failed PSU under full traffic without touching the network"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Four independently hot-swappable intelligent fan modules (front-to-back airflow) adapt cooling speed dynamically to real-time thermal load"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Both PSU and fan replacements require zero downtime — critical for data centers running 24/7 SLA-bound workloads"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MTBF ≥90,000 hours with hardware watchdog and BHM process monitoring for continuous autonomous operation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3. Full Data Center Feature Stack — MACsec, EVPN, VXLAN, MPLS, MLAG, Stacking"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"VXLAN with BGP EVPN and distributed gateway enables multi-tenant overlay networks and seamless cross-DC interconnect for cloud and HCI environments"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MLAG Active-Active builds device-grade link redundancy across two switches — eliminates single points of failure at the leaf layer without stacking reboots"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MACsec (802.1AE) AES-CMAC encrypts switch-to-switch traffic end-to-end — meets zero-trust security requirements in shared and colocation DC environments"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MPLS (LDP, L2VPN/VPWS/VPLS, L3VPN) via MA license extends the same switch into carrier metro and IPRan transport roles; stacking (up to 8 units) via ST license for campus-to-DC unified fabric"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Application: Data center leaf layer, hyperconverged infrastructure (HCI), cloud multi-tenant overlay networks, carrier IPRan/metro aggregation, enterprise core with DC interconnect."
+}
+],
+"extracted_at":"2026-10-23T05:01:48Z"
+}

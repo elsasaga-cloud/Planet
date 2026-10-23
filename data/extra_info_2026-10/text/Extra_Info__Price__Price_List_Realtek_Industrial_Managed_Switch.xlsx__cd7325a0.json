@@ -1,0 +1,270 @@
+{
+"id":"Extra_Info__Price__Price_List_Realtek_Industrial_Managed_Switch.xlsx__cd7325a0",
+"path":"Extra_Info/Price/Price List_Realtek Industrial Managed Switch.xlsx",
+"name":"Price List_Realtek Industrial Managed Switch.xlsx",
+"ext":".xlsx",
+"bytes":12737129,
+"sha256":"cd7325a019d5db4f4d054e0ce02c836ad4a2eafc52cef26e3fc80b28f751fc2b",
+"source":"Extra_Info.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"Saga Telecom"
+],
+"embedded_images":9,
+"rows_total":36
+},
+"warnings":[],
+"chars":5881,
+"text":"--- Sheet: Saga Telecom ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 13048800964                                        www.sagatelecom.com.cn                                 Email: a.sagatelecom@gmail.com\nMust-Know\nIndustrial power adapter and optical module are NOT included in both the packing box and unit pricing.\n\nAll models are Realtek Chip based. \nIt ONLY supports adding client’s model name in GUI interface(free of cost, MoQ 1pc).\nMoQ is 50pcs for adding Logo in GUI interface(free of cost).\n\nL2 Models are Fully Gigabit based, not supporting 2.5G optical speed.\n\nAll PoE models support 2*BT ports and 2*PD voltage detection(24V or 48V).\nThis is extremely useful in high-PoE or passive-PoE projects.\nModel\tSpecification\t\t\t\tKey Words\tPrice\tPicture\nL2 Managed\nSTI-150GM\t1*100/1000M SFP+1*100/1000M RJ45 Uplink+4*100/1000M Ethernet\nL2 Managed, Non-PoE, Din Rail, Redundant DC12V~57V Input\t\t\t\tL2 Managed\nNon-PoE\nFull Gigabit based\t80\nSTI-240GM\t2*100/1000M SFP+4*100/1000M Ethernet\nL2 Managed, Non-PoE, Din Rail, Redundant DC12V~57V Input\t\t\t\tL2 Managed\nNon-PoE\nFull Gigabit based\t80\nSTI-280GM\t2*100/1000M SFP+8*100/1000M Ethernet\nL2 Managed, Non-PoE, Din Rail, Redundant DC12V~57V Input\t\t\t\tL2 Managed\nNon-PoE\nFull Gigabit based\t86\nSTI-480GM\t4*100/1000M SFP+8*100/1000M Ethernet\nL2 Managed, Non-PoE, Din Rail, Redundant DC12V~57V Input\t\t\t\tL2 Managed\nNon-PoE\nFull Gigabit based\t110\nSTI-2280GM\t2*100/1000M SFP+2*100/1000M RJ45 Uplink+8*100/1000M Ethernet\nL2 Managed, Non-PoE, Din Rail, Redundant DC12V~57V Input\t\t\t\tL2 Managed\nNon-PoE\nFull Gigabit based\t110\nSTI-1080GM\t10*100/1000M SFP+8*100/1000M Ethernet\nL2 Managed, Non-PoE, Din Rail, Redundant DC12V~57V Input\t\t\t\tL2 Managed\nNon-PoE\nFull Gigabit based\t160\nSTI-2160GM\t2*100/1000M SFP+16*100/1000M Ethernet\nL2 Managed, Non-PoE, Din Rail, Redundant DC12V~57V Input\t\t\t\tL2 Managed\nNon-PoE\nFull Gigabit based\t140\nSTI-154GPM-2BT\t1*100/1000M SFP+1*100/1000M RJ45 Uplink+4*100/1000M Ethernet\nL2 Managed, 2*PoE af/at+2*PoE af/at/bt, 240W budget\n2*PoE ports auto-sensing 24V/48V PD, Din Rail, Redundant DC37V~57V Input\t\t\t\tL2 Managed\nPoE af/at/at, 240W budget\nAuto-sensing 24V/48V PD\nFull Gigabit based\t100\nSTI-244GPM-2BT\t2*100/1000M SFP+4*100/1000M Ethernet\nL2 Managed, 2*PoE af/at+2*PoE af/at/bt, 240W budget\n2*PoE ports auto-sensing 24V/48V PD, Din Rail, Redundant DC37V~57V Input\t\t\t\tL2 Managed\nPoE af/at/at, 240W budget\nAuto-sensing 24V/48V PD\nFull Gigabit based\t100\nSTI-288GPM-2BT\t2*100/1000M SFP+8*100/1000M Ethernet\nL2 Managed, 6*PoE af/at+2*PoE af/at/bt, 360W budget\n2*PoE ports auto-sensing 24V/48V PD, Din Rail, Redundant DC37V~57V Input\t\t\t\tL2 Managed\nPoE af/at/at, 360W budget\nAuto-sensing 24V/48V PD\nFull Gigabit based\t110\nSTI-288GPM-2BT-UP\t2*100/1000M SFP+8*100/1000M Ethernet\nL2 Managed, 6*PoE af/at+2*PoE af/at/bt, 360W budget\n2*PoE ports auto-sensing 24V/48V PD, Din Rail, Redundant DC37V~57V Input\nSupport voltage boosting, for 12V power input, PoE still works, Max PoE output is 120W\t\t\t\tL2 Managed\nPoE af/at/at, 360W budget\nAuto-sensing 24V/48V PD\nFull Gigabit based\n12V PoE/Power Boosting\t135\nSTI-488GPM-2BT\t4*100/1000M SFP+8*100/1000M Ethernet\nL2 Managed, 6*PoE af/at+2*PoE af/at/bt, 360W budget\n2*PoE ports auto-sensing 24V/48V PD, Din Rail, Redundant DC37V~57V Input\t\t\t\tL2 Managed\nPoE af/at/at, 360W budget\nAuto-sensing 24V/48V PD\nFull Gigabit based\t140\nSTI-2288GPM-BT\t2*100/1000M SFP+2*100/1000M RJ45 Uplink+8*100/1000M Ethernet\nL2 Managed, 2*PoE af/at+2*PoE af/at/bt, 360W budget\n2*PoE ports auto-sensing 24V/48V PD, Din Rail, Redundant DC37V~57V Input\t\t\t\tL2 Managed\nPoE af/at/at, 360W budget\nAuto-sensing 24V/48V PD\nFull Gigabit based\t150\nSTI-1088GPM-2BT\t10*100/1000M SFP+8*100/1000M Ethernet\nL2 Managed, 6*PoE af/at+2*PoE af/at/bt, 360W budget\n2*PoE ports auto-sensing 24V/48V PD, Din Rail, Redundant DC37V~57V Input\t\t\t\tL2 Managed\nPoE af/at/at, 360W budget\nAuto-sensing 24V/48V PD\nFull Gigabit based\t205\nSTI-21616GPM-2BT\t10*100/1000M SFP+8*100/1000M Ethernet\nL2 Managed, 14*PoE af/at+2*PoE af/at/bt, 360W budget\n2*PoE ports auto-sensing 24V/48V PD, Din Rail, Redundant DC37V~57V Input\t\t\t\tL2 Managed\nPoE af/at/at, 360W budget\nAuto-sensing 24V/48V PD\nFull Gigabit based\t190\nL3 Managed\nSTI-480XGGM\t4*100/1000M/2.5G/10G SFP+8*100/1000M Ethernet\nL3 Managed, Non-PoE, Din Rail, Redundant DC12V~57V Input\t\t\t\tL3 Managed\nNon-PoE\n100M/1G/2.5G/10G SFP\t145\nSTI-028XGGM\t2*10G RJ45 uplink+8*100/1000M Ethernet, without fiber\nL3 Managed, Non-PoE, Din Rail, Redundant DC12V~57V Input\t\t\t\tL3 Managed\nNon-PoE\n10G Ethernet\t180\nSTI-228XGGGM\t2*100/1000M/2.5G/10G SFP+2*100/1000M RJ45 uplink+8*100/1000M Ethernet\nL3 Managed, Non-PoE, Din Rail, Redundant DC12V~57V Input\t\t\t\tL3 Managed\nNon-PoE\n100M/1G/2.5G/10G SFP\t160\nSTI-488XGGPM-2BT\t4*100/1000M/2.5G/10G SFP+8*100/1000M Ethernet\nL3 Managed, 6*PoE af/at+2*PoE af/at/bt, 360W budget\n2*PoE ports auto-sensing 24V/48V PD, Din Rail, Redundant DC37V~57V Input\t\t\t\tL3 Managed\nPoE af/at/at, 360W budget\nAuto-sensing 24V/48V PD\nFull Gigabit based\t170\nSTI-0288XGGPM-2BT\t2*10G RJ45 uplink+8*100/1000M Ethernet, without fiber\nL3 Managed, 6*PoE af/at+2*PoE af/at/bt, 360W budget\n2*PoE ports auto-sensing 24V/48V PD, Din Rail, Redundant DC37V~57V Input\t\t\t\tL3 Managed\nPoE af/at/at, 360W budget\nAuto-sensing 24V/48V PD\n10G Ethernet\t205\nSTI-2288XGGGPM-2BT\t2*100/1000M/2.5G/10G SFP+2*100/1000M RJ45 uplink+8*100/1000M Ethernet\nL3 Managed, 6*PoE af/at+2*PoE af/at/bt, 360W budget\n2*PoE ports auto-sensing 24V/48V PD, Din Rail, Redundant DC37V~57V Input\t\t\t\tL3 Managed\nPoE af/at/at, 360W budget\nAuto-sensing 24V/48V PD\n10G Ethernet\t190\nRemarks\n1. Prices are valid for 15 days, all the prices are NOT including power supply\n2. Price term: EXW\n3. Warranty period: Three years\n4. Lead time for less than 50pcs: 5~7 working days\n5. Customization is available",
+"sheets":{
+"Saga Telecom":{
+"state":"visible",
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 13048800964                                        www.sagatelecom.com.cn                                 Email: a.sagatelecom@gmail.com"
+],
+[
+"Must-Know"
+],
+[
+"Industrial power adapter and optical module are NOT included in both the packing box and unit pricing.\n\nAll models are Realtek Chip based. \nIt ONLY supports adding client’s model name in GUI interface(free of cost, MoQ 1pc).\nMoQ is 50pcs for adding Logo in GUI interface(free of cost).\n\nL2 Models are Fully Gigabit based, not supporting 2.5G optical speed.\n\nAll PoE models support 2*BT ports and 2*PD voltage detection(24V or 48V).\nThis is extremely useful in high-PoE or passive-PoE projects."
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"",
+"Key Words",
+"Price",
+"Picture"
+],
+[
+"L2 Managed"
+],
+[
+"STI-150GM",
+"1*100/1000M SFP+1*100/1000M RJ45 Uplink+4*100/1000M Ethernet\nL2 Managed, Non-PoE, Din Rail, Redundant DC12V~57V Input",
+"",
+"",
+"",
+"L2 Managed\nNon-PoE\nFull Gigabit based",
+"80"
+],
+[
+"STI-240GM",
+"2*100/1000M SFP+4*100/1000M Ethernet\nL2 Managed, Non-PoE, Din Rail, Redundant DC12V~57V Input",
+"",
+"",
+"",
+"L2 Managed\nNon-PoE\nFull Gigabit based",
+"80"
+],
+[
+"STI-280GM",
+"2*100/1000M SFP+8*100/1000M Ethernet\nL2 Managed, Non-PoE, Din Rail, Redundant DC12V~57V Input",
+"",
+"",
+"",
+"L2 Managed\nNon-PoE\nFull Gigabit based",
+"86"
+],
+[
+"STI-480GM",
+"4*100/1000M SFP+8*100/1000M Ethernet\nL2 Managed, Non-PoE, Din Rail, Redundant DC12V~57V Input",
+"",
+"",
+"",
+"L2 Managed\nNon-PoE\nFull Gigabit based",
+"110"
+],
+[
+"STI-2280GM",
+"2*100/1000M SFP+2*100/1000M RJ45 Uplink+8*100/1000M Ethernet\nL2 Managed, Non-PoE, Din Rail, Redundant DC12V~57V Input",
+"",
+"",
+"",
+"L2 Managed\nNon-PoE\nFull Gigabit based",
+"110"
+],
+[
+"STI-1080GM",
+"10*100/1000M SFP+8*100/1000M Ethernet\nL2 Managed, Non-PoE, Din Rail, Redundant DC12V~57V Input",
+"",
+"",
+"",
+"L2 Managed\nNon-PoE\nFull Gigabit based",
+"160"
+],
+[
+"STI-2160GM",
+"2*100/1000M SFP+16*100/1000M Ethernet\nL2 Managed, Non-PoE, Din Rail, Redundant DC12V~57V Input",
+"",
+"",
+"",
+"L2 Managed\nNon-PoE\nFull Gigabit based",
+"140"
+],
+[
+"STI-154GPM-2BT",
+"1*100/1000M SFP+1*100/1000M RJ45 Uplink+4*100/1000M Ethernet\nL2 Managed, 2*PoE af/at+2*PoE af/at/bt, 240W budget\n2*PoE ports auto-sensing 24V/48V PD, Din Rail, Redundant DC37V~57V Input",
+"",
+"",
+"",
+"L2 Managed\nPoE af/at/at, 240W budget\nAuto-sensing 24V/48V PD\nFull Gigabit based",
+"100"
+],
+[
+"STI-244GPM-2BT",
+"2*100/1000M SFP+4*100/1000M Ethernet\nL2 Managed, 2*PoE af/at+2*PoE af/at/bt, 240W budget\n2*PoE ports auto-sensing 24V/48V PD, Din Rail, Redundant DC37V~57V Input",
+"",
+"",
+"",
+"L2 Managed\nPoE af/at/at, 240W budget\nAuto-sensing 24V/48V PD\nFull Gigabit based",
+"100"
+],
+[
+"STI-288GPM-2BT",
+"2*100/1000M SFP+8*100/1000M Ethernet\nL2 Managed, 6*PoE af/at+2*PoE af/at/bt, 360W budget\n2*PoE ports auto-sensing 24V/48V PD, Din Rail, Redundant DC37V~57V Input",
+"",
+"",
+"",
+"L2 Managed\nPoE af/at/at, 360W budget\nAuto-sensing 24V/48V PD\nFull Gigabit based",
+"110"
+],
+[
+"STI-288GPM-2BT-UP",
+"2*100/1000M SFP+8*100/1000M Ethernet\nL2 Managed, 6*PoE af/at+2*PoE af/at/bt, 360W budget\n2*PoE ports auto-sensing 24V/48V PD, Din Rail, Redundant DC37V~57V Input\nSupport voltage boosting, for 12V power input, PoE still works, Max PoE output is 120W",
+"",
+"",
+"",
+"L2 Managed\nPoE af/at/at, 360W budget\nAuto-sensing 24V/48V PD\nFull Gigabit based\n12V PoE/Power Boosting",
+"135"
+],
+[
+"STI-488GPM-2BT",
+"4*100/1000M SFP+8*100/1000M Ethernet\nL2 Managed, 6*PoE af/at+2*PoE af/at/bt, 360W budget\n2*PoE ports auto-sensing 24V/48V PD, Din Rail, Redundant DC37V~57V Input",
+"",
+"",
+"",
+"L2 Managed\nPoE af/at/at, 360W budget\nAuto-sensing 24V/48V PD\nFull Gigabit based",
+"140"
+],
+[
+"STI-2288GPM-BT",
+"2*100/1000M SFP+2*100/1000M RJ45 Uplink+8*100/1000M Ethernet\nL2 Managed, 2*PoE af/at+2*PoE af/at/bt, 360W budget\n2*PoE ports auto-sensing 24V/48V PD, Din Rail, Redundant DC37V~57V Input",
+"",
+"",
+"",
+"L2 Managed\nPoE af/at/at, 360W budget\nAuto-sensing 24V/48V PD\nFull Gigabit based",
+"150"
+],
+[
+"STI-1088GPM-2BT",
+"10*100/1000M SFP+8*100/1000M Ethernet\nL2 Managed, 6*PoE af/at+2*PoE af/at/bt, 360W budget\n2*PoE ports auto-sensing 24V/48V PD, Din Rail, Redundant DC37V~57V Input",
+"",
+"",
+"",
+"L2 Managed\nPoE af/at/at, 360W budget\nAuto-sensing 24V/48V PD\nFull Gigabit based",
+"205"
+],
+[
+"STI-21616GPM-2BT",
+"10*100/1000M SFP+8*100/1000M Ethernet\nL2 Managed, 14*PoE af/at+2*PoE af/at/bt, 360W budget\n2*PoE ports auto-sensing 24V/48V PD, Din Rail, Redundant DC37V~57V Input",
+"",
+"",
+"",
+"L2 Managed\nPoE af/at/at, 360W budget\nAuto-sensing 24V/48V PD\nFull Gigabit based",
+"190"
+],
+[
+"L3 Managed"
+],
+[
+"STI-480XGGM",
+"4*100/1000M/2.5G/10G SFP+8*100/1000M Ethernet\nL3 Managed, Non-PoE, Din Rail, Redundant DC12V~57V Input",
+"",
+"",
+"",
+"L3 Managed\nNon-PoE\n100M/1G/2.5G/10G SFP",
+"145"
+],
+[
+"STI-028XGGM",
+"2*10G RJ45 uplink+8*100/1000M Ethernet, without fiber\nL3 Managed, Non-PoE, Din Rail, Redundant DC12V~57V Input",
+"",
+"",
+"",
+"L3 Managed\nNon-PoE\n10G Ethernet",
+"180"
+],
+[
+"STI-228XGGGM",
+"2*100/1000M/2.5G/10G SFP+2*100/1000M RJ45 uplink+8*100/1000M Ethernet\nL3 Managed, Non-PoE, Din Rail, Redundant DC12V~57V Input",
+"",
+"",
+"",
+"L3 Managed\nNon-PoE\n100M/1G/2.5G/10G SFP",
+"160"
+],
+[
+"STI-488XGGPM-2BT",
+"4*100/1000M/2.5G/10G SFP+8*100/1000M Ethernet\nL3 Managed, 6*PoE af/at+2*PoE af/at/bt, 360W budget\n2*PoE ports auto-sensing 24V/48V PD, Din Rail, Redundant DC37V~57V Input",
+"",
+"",
+"",
+"L3 Managed\nPoE af/at/at, 360W budget\nAuto-sensing 24V/48V PD\nFull Gigabit based",
+"170"
+],
+[
+"STI-0288XGGPM-2BT",
+"2*10G RJ45 uplink+8*100/1000M Ethernet, without fiber\nL3 Managed, 6*PoE af/at+2*PoE af/at/bt, 360W budget\n2*PoE ports auto-sensing 24V/48V PD, Din Rail, Redundant DC37V~57V Input",
+"",
+"",
+"",
+"L3 Managed\nPoE af/at/at, 360W budget\nAuto-sensing 24V/48V PD\n10G Ethernet",
+"205"
+],
+[
+"STI-2288XGGGPM-2BT",
+"2*100/1000M/2.5G/10G SFP+2*100/1000M RJ45 uplink+8*100/1000M Ethernet\nL3 Managed, 6*PoE af/at+2*PoE af/at/bt, 360W budget\n2*PoE ports auto-sensing 24V/48V PD, Din Rail, Redundant DC37V~57V Input",
+"",
+"",
+"",
+"L3 Managed\nPoE af/at/at, 360W budget\nAuto-sensing 24V/48V PD\n10G Ethernet",
+"190"
+],
+[
+"Remarks"
+],
+[
+"1. Prices are valid for 15 days, all the prices are NOT including power supply"
+],
+[
+"2. Price term: EXW"
+],
+[
+"3. Warranty period: Three years"
+],
+[
+"4. Lead time for less than 50pcs: 5~7 working days"
+],
+[
+"5. Customization is available"
+]
+]
+}
+},
+"extracted_at":"2026-10-23T05:05:49Z"
+}

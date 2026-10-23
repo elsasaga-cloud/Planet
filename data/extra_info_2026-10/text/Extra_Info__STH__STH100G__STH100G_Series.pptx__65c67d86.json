@@ -1,0 +1,431 @@
+{
+"id":"Extra_Info__STH__STH100G__STH100G_Series.pptx__65c67d86",
+"path":"Extra_Info/STH/STH100G/STH100G Series.pptx",
+"name":"STH100G Series.pptx",
+"ext":".pptx",
+"bytes":6745909,
+"sha256":"65c67d868bef42b45f2fa06cb27e94bdb240fccefdb7b63ca9d2cc59d2589ef2",
+"source":"Extra_Info.zip",
+"method":"python-pptx",
+"status":"ok",
+"meta":{
+"slides":6,
+"pictures":4
+},
+"warnings":[],
+"chars":5651,
+"text":"[slide 1]\nSTH100G SERIES SWITCHES\nDATASHEET\nHigh Performance Data Center Switch\nProduct Overview\nThe STH100G Series switches are designed on a domestic new generation switch Chip, which is called PeakNetX Series Chip platform.\nWith 32 x 100G high speed ports and rich features, these switches will perfectly meet the requirements of Metro, Enterprise, Data Center, and Hyper converged infrastructure (HCI) networks.\nKey features of the STH100G Series Switches\nMPLS (label-switching-based) integrates IP flexibility and connection-oriented reliability, enabling isolated multi-service bearing, precise traffic scheduling to meet multi-scenario efficient needs.\nMLAG which can build an Active-Active system to improve the reliability of the network links from single board grade to device grade.\nImplementing Vxlan and BGP protocols to build EVPN applications for data centers scenario.\nSwitch-to-switch encryption using MACsec (Media Access Control Security) AES-CMAC.\nPrecision Timing Protocol.\nRich L2/L3 features like IPv6, OSPF, BGP, PIM, etc.\nThe STH100G Series switches provide redundant hot-swappable power supplies (AC and DC are both available) and two bays with Field replaceable fan modules.\nGenerally, airflow of STH100G Series is front to rear (AFO), and some of models can do a customization of rear to front (AFI) airflow.\nVersion: V1.1\nRelease Date: 2025/12/29\nTable 1: Feasible PSU and airflow of STH100G Series\nItems\tAC\tDC\tAFO\tAFI\tPower Input\tFAN\nSTH-32C-HSI\t◯\t◯\t◯\t◯\t2\t4\n\n[slide 2]\nThe STH100G Series switches support varied management ways, include console port / in-band network ports / out-of-band network port. Support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, SSL, etc. to ensure security of management.\nMoreover, leveraging its profound technical expertise and in-depth understanding of campus and enterprise networking needs, Saga Telecom has launched the Da Hu Cloud Management System (DHCS).\nIt enhances network management and maintenance efficiency, reduces costs, elevates management intelligence, and delivers a faster, smarter, more secure and reliable network to better meet user requirements.\n\n[slide 3]\nTable 2: Family of the STH100G Series switches\nThe STH100G family of Ethernet switches consists of the following models\nVisual WEB UI\nSTOS allows you to quickly configure common configuration items using a visual WEB UI, which lowers the application threshold for users.\nModels\tEthernet Ports\tManagement\tPSU 1/PSU 2\tCooling\nSTH-32C-HSI\t32 x 100G QSFP 28\tConsole: RJ45 to RS232\u000bEthernet: 1G Port\u000bStorage: USB\t550W / 550W CRPS\t4 x Fan Modules\u000b(front-to-back airflow)\n\n[slide 4]\nSTH100G Physical Specifications\nPacket Switch capacity (Tbps)\nSTH-32C-HSI: 6.4 Tbps (bidirectional)\nLayer 2/Layer 3 Throughput (Gpps)\nSTH-32C-HSI: 9.52 Gpps (bidirectional)\nCPU\nDual-core processor, ARM A53(1.6GHz)\non all models\nMemory\neMMc: 8GB on all models\nWeight (Net weight/Gross weight)\nSTH-32C-HSI: 9.2 Kg/11Kg\nPower consumption\nWorst case, all ports used, line-rate traffic\nSTH-32C-HSI: 189W\nTypical power consumption\nSTH-32C-HSI: 180.4W\nDimensions (W x H x D) with package\nSTH-32C-HSI: 66.5x 15 x 56.5cm\nDimensions (W x H x D) without package\nSTH-32C-HSI: 44.2x 4.4 x 42cm\nEnvironmental ranges\nOperating temperature: 0ºC to 45ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90% (No condensation)\nStore Humidity: 5 to 95% (No condensation)\nOperating altitude:\nSTH-32C-HSI: 0~5Km\nMTBF\nSTH-32C-HSI: ≥90000h (~10.3 Years)\nTemperature alarm\nAlarm threshold: 50ºC\nCooling [CFM] - Total maximum airflow\nSTH-32C-HSI: 101.96\n\n[slide 5]\nSTH100G Software Specifications\nSaga Telecom implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘STOS Software features’ .\n* All Saga Telecom switches use a normalized software platform and image package file\n* Unified software version iteration plan\n* Unified user experience\nSTOS Network Platform\nLayer 2 switching\nIPv4/lPv6 Unicast Routing\nQoS\nIP Multicast Snooping/Proxy\nIPv4/lPv6 Multi cast Routing\nVRRP\nMultiprotocol Label Switching(MPLS)\nVirtual Private LAN Service(VPLS)\nVirtual Routing and Switching\nGeneralized Multiprotocol LabelSwitching(GMPLS)\nIPv6 Tunneling and TransitionTechnologies\nIP/MPLS OAM\nService management module\nFault Managemet (FM)\nHigh Availability (HA)\nIntegrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)\nHardware and platform abstraction layer\nAdvanced integration Suite\nCENTEC swtich chip  SDK\nSilicon in Pizza, Stacking or Chassis\nConfiguration\nOperating Systems TCP/IP Stacks\nLinux , IPv4/Pv6 Dual Stack\nHardware layer\nCENTEC Switch Chipset\nCPU Subsystem\nCooling SubSystem\nAC/DC DC/DC CLK\nEnvironmental Management Subsystem\nLogical Control Subunit\n\n[slide 6]\nOrdering Information\nSTH100G Series Switches\nAC/DC Power Supplies use for all models\nSoftware Licenses\nAccessory of STH100G Series\nItems\tDescription\nSTH-32C-HSI\t100G Data Center Switch, with 32*100G QSFP28, Dual Power Supply Modules(C13), 4 hot-swappable Fan modules.\nItems\tDescription\nPSU-550-AC-AFO\t550W AC power supply (front-to-back airflow)\nInput: 100–240V AC; Output: 12V DC\nPSU-550-DC-AFO\t550W DC power supply (front-to-back airflow)\nInput: 48V DC; Output: 48V DC\nItems\tDescription\nSoftware License\tMS, L3 enhance features software license key, Preinstalled\nSoftware License\tMA, MPLS features software license key\nSoftware License\tST, Stacking feature software license key\nItems\tFront \nMounting\tRear \nMounting\tScrew\tPower Cord\tConsole (RS232 to RJ45)\nSTH-32C-HSI\t2\t2\t14\t2\t1",
+"slides":[
+{
+"n":1,
+"items":[
+{
+"t":"p",
+"text":"STH100G SERIES SWITCHES\nDATASHEET\nHigh Performance Data Center Switch"
+},
+{
+"t":"p",
+"text":"Product Overview"
+},
+{
+"t":"p",
+"text":"The STH100G Series switches are designed on a domestic new generation switch Chip, which is called PeakNetX Series Chip platform.\nWith 32 x 100G high speed ports and rich features, these switches will perfectly meet the requirements of Metro, Enterprise, Data Center, and Hyper converged infrastructure (HCI) networks."
+},
+{
+"t":"p",
+"text":"Key features of the STH100G Series Switches"
+},
+{
+"t":"p",
+"text":"MPLS (label-switching-based) integrates IP flexibility and connection-oriented reliability, enabling isolated multi-service bearing, precise traffic scheduling to meet multi-scenario efficient needs.\nMLAG which can build an Active-Active system to improve the reliability of the network links from single board grade to device grade.\nImplementing Vxlan and BGP protocols to build EVPN applications for data centers scenario.\nSwitch-to-switch encryption using MACsec (Media Access Control Security) AES-CMAC.\nPrecision Timing Protocol.\nRich L2/L3 features like IPv6, OSPF, BGP, PIM, etc."
+},
+{
+"t":"p",
+"text":"The STH100G Series switches provide redundant hot-swappable power supplies (AC and DC are both available) and two bays with Field replaceable fan modules.\nGenerally, airflow of STH100G Series is front to rear (AFO), and some of models can do a customization of rear to front (AFI) airflow."
+},
+{
+"t":"picture",
+"name":"图片 12"
+},
+{
+"t":"p",
+"text":"Version: V1.1\nRelease Date: 2025/12/29"
+},
+{
+"t":"p",
+"text":"Table 1: Feasible PSU and airflow of STH100G Series"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"AC",
+"DC",
+"AFO",
+"AFI",
+"Power Input",
+"FAN"
+],
+[
+"STH-32C-HSI",
+"◯",
+"◯",
+"◯",
+"◯",
+"2",
+"4"
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":2,
+"items":[
+{
+"t":"picture",
+"name":"图片 7"
+},
+{
+"t":"p",
+"text":"The STH100G Series switches support varied management ways, include console port / in-band network ports / out-of-band network port. Support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, SSL, etc. to ensure security of management.\nMoreover, leveraging its profound technical expertise and in-depth understanding of campus and enterprise networking needs, Saga Telecom has launched the Da Hu Cloud Management System (DHCS).\nIt enhances network management and maintenance efficiency, reduces costs, elevates management intelligence, and delivers a faster, smarter, more secure and reliable network to better meet user requirements."
+},
+{
+"t":"picture",
+"name":"图片 14"
+}
+],
+"notes":""
+},
+{
+"n":3,
+"items":[
+{
+"t":"p",
+"text":"Table 2: Family of the STH100G Series switches"
+},
+{
+"t":"table",
+"rows":[
+[
+"Models",
+"Ethernet Ports",
+"Management",
+"PSU 1/PSU 2",
+"Cooling"
+],
+[
+"STH-32C-HSI",
+"32 x 100G QSFP 28",
+"Console: RJ45 to RS232\u000bEthernet: 1G Port\u000bStorage: USB",
+"550W / 550W CRPS",
+"4 x Fan Modules\u000b(front-to-back airflow)"
+]
+]
+},
+{
+"t":"p",
+"text":"The STH100G family of Ethernet switches consists of the following models"
+},
+{
+"t":"p",
+"text":"Visual WEB UI"
+},
+{
+"t":"p",
+"text":"STOS allows you to quickly configure common configuration items using a visual WEB UI, which lowers the application threshold for users."
+},
+{
+"t":"picture",
+"name":"Picture 2"
+}
+],
+"notes":""
+},
+{
+"n":4,
+"items":[
+{
+"t":"p",
+"text":"STH100G Physical Specifications"
+},
+{
+"t":"p",
+"text":"Packet Switch capacity (Tbps)\nSTH-32C-HSI: 6.4 Tbps (bidirectional)"
+},
+{
+"t":"p",
+"text":"Layer 2/Layer 3 Throughput (Gpps)\nSTH-32C-HSI: 9.52 Gpps (bidirectional)"
+},
+{
+"t":"p",
+"text":"CPU\nDual-core processor, ARM A53(1.6GHz)\non all models"
+},
+{
+"t":"p",
+"text":"Memory\neMMc: 8GB on all models"
+},
+{
+"t":"p",
+"text":"Weight (Net weight/Gross weight)\nSTH-32C-HSI: 9.2 Kg/11Kg"
+},
+{
+"t":"p",
+"text":"Power consumption\nWorst case, all ports used, line-rate traffic\nSTH-32C-HSI: 189W\nTypical power consumption\nSTH-32C-HSI: 180.4W"
+},
+{
+"t":"p",
+"text":"Dimensions (W x H x D) with package\nSTH-32C-HSI: 66.5x 15 x 56.5cm\nDimensions (W x H x D) without package\nSTH-32C-HSI: 44.2x 4.4 x 42cm"
+},
+{
+"t":"p",
+"text":"Environmental ranges\nOperating temperature: 0ºC to 45ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90% (No condensation)\nStore Humidity: 5 to 95% (No condensation)\nOperating altitude:\nSTH-32C-HSI: 0~5Km"
+},
+{
+"t":"p",
+"text":"MTBF\nSTH-32C-HSI: ≥90000h (~10.3 Years)"
+},
+{
+"t":"p",
+"text":"Temperature alarm\nAlarm threshold: 50ºC"
+},
+{
+"t":"p",
+"text":"Cooling [CFM] - Total maximum airflow\nSTH-32C-HSI: 101.96"
+}
+],
+"notes":""
+},
+{
+"n":5,
+"items":[
+{
+"t":"p",
+"text":"STH100G Software Specifications\nSaga Telecom implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘STOS Software features’ ."
+},
+{
+"t":"p",
+"text":"* All Saga Telecom switches use a normalized software platform and image package file\n* Unified software version iteration plan\n* Unified user experience"
+},
+{
+"t":"p",
+"text":"STOS Network Platform"
+},
+{
+"t":"p",
+"text":"Layer 2 switching"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Unicast Routing"
+},
+{
+"t":"p",
+"text":"QoS"
+},
+{
+"t":"p",
+"text":"IP Multicast Snooping/Proxy"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Multi cast Routing"
+},
+{
+"t":"p",
+"text":"VRRP"
+},
+{
+"t":"p",
+"text":"Multiprotocol Label Switching(MPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Private LAN Service(VPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Routing and Switching"
+},
+{
+"t":"p",
+"text":"Generalized Multiprotocol LabelSwitching(GMPLS)"
+},
+{
+"t":"p",
+"text":"IPv6 Tunneling and TransitionTechnologies"
+},
+{
+"t":"p",
+"text":"IP/MPLS OAM"
+},
+{
+"t":"p",
+"text":"Service management module"
+},
+{
+"t":"p",
+"text":"Fault Managemet (FM)"
+},
+{
+"t":"p",
+"text":"High Availability (HA)"
+},
+{
+"t":"p",
+"text":"Integrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)"
+},
+{
+"t":"p",
+"text":"Hardware and platform abstraction layer"
+},
+{
+"t":"p",
+"text":"Advanced integration Suite"
+},
+{
+"t":"p",
+"text":"CENTEC swtich chip  SDK"
+},
+{
+"t":"p",
+"text":"Silicon in Pizza, Stacking or Chassis\nConfiguration"
+},
+{
+"t":"p",
+"text":"Operating Systems TCP/IP Stacks"
+},
+{
+"t":"p",
+"text":"Linux , IPv4/Pv6 Dual Stack"
+},
+{
+"t":"p",
+"text":"Hardware layer"
+},
+{
+"t":"p",
+"text":"CENTEC Switch Chipset"
+},
+{
+"t":"p",
+"text":"CPU Subsystem"
+},
+{
+"t":"p",
+"text":"Cooling SubSystem"
+},
+{
+"t":"p",
+"text":"AC/DC DC/DC CLK"
+},
+{
+"t":"p",
+"text":"Environmental Management Subsystem"
+},
+{
+"t":"p",
+"text":"Logical Control Subunit"
+}
+],
+"notes":""
+},
+{
+"n":6,
+"items":[
+{
+"t":"p",
+"text":"Ordering Information\nSTH100G Series Switches"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"STH-32C-HSI",
+"100G Data Center Switch, with 32*100G QSFP28, Dual Power Supply Modules(C13), 4 hot-swappable Fan modules."
+]
+]
+},
+{
+"t":"p",
+"text":"AC/DC Power Supplies use for all models"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"PSU-550-AC-AFO",
+"550W AC power supply (front-to-back airflow)\nInput: 100–240V AC; Output: 12V DC"
+],
+[
+"PSU-550-DC-AFO",
+"550W DC power supply (front-to-back airflow)\nInput: 48V DC; Output: 48V DC"
+]
+]
+},
+{
+"t":"p",
+"text":"Software Licenses"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"Software License",
+"MS, L3 enhance features software license key, Preinstalled"
+],
+[
+"Software License",
+"MA, MPLS features software license key"
+],
+[
+"Software License",
+"ST, Stacking feature software license key"
+]
+]
+},
+{
+"t":"p",
+"text":"Accessory of STH100G Series"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Front \nMounting",
+"Rear \nMounting",
+"Screw",
+"Power Cord",
+"Console (RS232 to RJ45)"
+],
+[
+"STH-32C-HSI",
+"2",
+"2",
+"14",
+"2",
+"1"
+]
+]
+}
+],
+"notes":""
+}
+],
+"extracted_at":"2026-10-23T05:02:55Z"
+}

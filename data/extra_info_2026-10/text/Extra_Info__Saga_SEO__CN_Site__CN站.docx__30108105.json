@@ -1,0 +1,666 @@
+{
+"id":"Extra_Info__Saga_SEO__CN_Site__CN站.docx__30108105",
+"path":"Extra_Info/Saga SEO/CN Site/CN站.docx",
+"name":"CN站.docx",
+"ext":".docx",
+"bytes":29388,
+"sha256":"3010810537e4aabc3ca3e3fd90d288edefefcee9c297ce6ec055490b4d6bd314",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2026-08-03T11:24:00+00:00",
+"modified":"2026-08-03T11:51:21+00:00",
+"paragraphs":122,
+"tables":1,
+"embedded_images":0
+},
+"warnings":[],
+"chars":2360,
+"text":"优化点\nHOME页\n1\nCE\nFCC · RoHS · REACH\n这个里的UKCA没写\n2\nSTC\nCommercial Ethernet\n下边的POE应该是PoE\no小写\n3\nFooter那的Tailored managed networking solutions.\nSolutions后边的 . 需要拿掉吗？\n4\nFooter以及全站的手机号拿掉\n不要写\n仅保留WhatsApp跳转即可\n5\n全站的邮箱改为\ne.sagatelecom@gmail.com\n不用a.\na负责品牌站 e负责产品站\n6\nProducts页的型号名我会给你的 按照给你的来\n7\nInsights页面的— Placeholder出现了好几次\n这啥意思？ 占位符？\n8\nContact页面\n如4 5写的 不要写手机号 e的邮箱\n其他的都OK\n看了一下，整个页面还是靠products和insights来堆起来\n否则会很单薄\n另外，我记得主站是只有一个页面 就是上边的网站不变化\n不管点哪个 都是主网站 没有二级链接啥的\n这是因为HTML的原因？\n这个产品站也会是这样吗？ 有好几个产品 会有相关的二级域名吗\n准备清单\n文件结构（定档）\nGitHub 仓库 sagatelecom-cn/\n├── index.html                    ← 首页\n├── products/\n│   ├── index.html                ← 产品列表页\n│   ├── sti-[型号].html           ← STI产品×3\n│   ├── stc-[型号].html           ← STC产品×3\n│   └── sth-[型号].html           ← STH产品×3\n├── insights/\n│   ├── index.html                ← 文章列表页\n│   └── [文章slug].html           ← 文章×N\n├── contact/\n│   └── index.html                ← 联系页\n├── sitemap.xml                   ← 每次新增产品/文章更新\n├── robots.txt\n├── .nojekyll\n├── 404.html\n├── favicon.ico 及各尺寸图标\n└── og-image.png\n每个产品需要你提供的资料\n基础信息\n型号名（正式型号，用于标题和 URL，比如 STC-4802P）\n产品系列（STI / STC / STH）\n一句话定位（比如 \"48-port PoE++ managed switch for enterprise and campus\"）\n图片（每个产品3张）\n图片\t内容\t尺寸要求\t格式\n主图\t产品正面\t最小 800×600，建议 1200×900\tJPG/PNG\n背面图\t产品背面或侧面\t同上\tJPG/PNG\n应用图\tTopology/场景图\t最小 1200×675（16:9）\tJPG/PNG\n图片命名规则：\nstc-4802p-front.jpg\nstc-4802p-rear.jpg\nstc-4802p-topology.jpg\n产品描述内容\n主要差异化亮点（2-3个，重点写）：\n每个亮点包含：\n功能名称\n解决什么问题 / 带来什么价值\n有数字就写数字（比如 sub-20ms、90W、-40°C）\n基础规格表：\n端口数量和类型\nPoE 支持（有的话）\n管理方式（L2 / L2+ / L3）\n芯片平台（Marvell / CENTEC / Realtek）\n电源（单电源 / 双电源）\n工作温度\n认证（CE / FCC / RoHS 等）\nOEM/ODM 是否支持\n三、Insights 文章资料要求\n每篇文章提供：\n标题\n正文内容（你的原始素材，我来提炼和格式化）\n发布日期\n已备好的两篇直接用，后续你发原料给我处理。\n四、Sitemap 更新规则\n每次新增产品或文章，sitemap 加一条：\n<url>\n<loc>https://sagatelecom.com.cn/products/stc-4802p-poe-managed-switch</loc>\n<lastmod>2026-08-15</lastmod>\n<changefreq>monthly</changefreq>\n<priority>0.8</priority>\n</url>\n加完后去 Google / Bing / Yandex 三大站长后台重新提交 sitemap，5分钟搞定。\n五、你需要准备的完整清单\n产品资料（9个产品）：\nSTI 产品1：型号 + 3张图 + 亮点 + 规格\nSTI 产品2：同上\nSTI 产品3：同上\nSTC 产品1：同上\nSTC 产品2：同上\nSTC 产品3：同上\nSTH 产品1：同上\nSTH 产品2：同上\nSTH 产品3：同上\n网站内容修改（你之前列的8条）：\nUKCA 补全\nPoE 大小写修正\nFooter 句号去掉\n手机号全站去掉\n邮箱改为 e.sagatelecom@gmail.com\nPlaceholder 占位符等真实文章替换\n型号名等你确认\n阿里云配置（产品准备好后）：\nOSS 静态托管开通\nsagatelecom.com.cn 绑定\n确认备案状态\n一句话总结：你准备好9个产品的资料发给我，我一次性生成所有 HTML 文件，你批量上传，产品站正式上线。\n[页眉页脚]\n菲利普·费雪说：我不想花时间在赚取微利上\n我想要非常，非常大的利润，并做好了为此等待的准备\n修炼内功",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"优化点"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"HOME页"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CE"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"FCC · RoHS · REACH"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这个里的UKCA没写"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STC"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Commercial Ethernet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"下边的POE应该是PoE"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"o小写"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Footer那的Tailored managed networking solutions."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Solutions后边的 . 需要拿掉吗？"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Footer以及全站的手机号拿掉"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不要写"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"仅保留WhatsApp跳转即可"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"5"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"全站的邮箱改为"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"e.sagatelecom@gmail.com"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不用a."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"a负责品牌站 e负责产品站"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"6"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Products页的型号名我会给你的 按照给你的来"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"7"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Insights页面的— Placeholder出现了好几次"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这啥意思？ 占位符？"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Contact页面"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"如4 5写的 不要写手机号 e的邮箱"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"其他的都OK"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"看了一下，整个页面还是靠products和insights来堆起来"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"否则会很单薄"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"另外，我记得主站是只有一个页面 就是上边的网站不变化"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"不管点哪个 都是主网站 没有二级链接啥的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这是因为HTML的原因？"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这个产品站也会是这样吗？ 有好几个产品 会有相关的二级域名吗"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"准备清单"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"文件结构（定档）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"GitHub 仓库 sagatelecom-cn/"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"├── index.html                    ← 首页"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"├── products/"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"│   ├── index.html                ← 产品列表页"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"│   ├── sti-[型号].html           ← STI产品×3"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"│   ├── stc-[型号].html           ← STC产品×3"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"│   └── sth-[型号].html           ← STH产品×3"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"├── insights/"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"│   ├── index.html                ← 文章列表页"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"│   └── [文章slug].html           ← 文章×N"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"├── contact/"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"│   └── index.html                ← 联系页"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"├── sitemap.xml                   ← 每次新增产品/文章更新"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"├── robots.txt"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"├── .nojekyll"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"├── 404.html"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"├── favicon.ico 及各尺寸图标"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"└── og-image.png"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"每个产品需要你提供的资料"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"基础信息"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"型号名（正式型号，用于标题和 URL，比如 STC-4802P）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"产品系列（STI / STC / STH）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一句话定位（比如 \"48-port PoE++ managed switch for enterprise and campus\"）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"图片（每个产品3张）"
+},
+{
+"t":"table",
+"rows":[
+[
+"图片",
+"内容",
+"尺寸要求",
+"格式"
+],
+[
+"主图",
+"产品正面",
+"最小 800×600，建议 1200×900",
+"JPG/PNG"
+],
+[
+"背面图",
+"产品背面或侧面",
+"同上",
+"JPG/PNG"
+],
+[
+"应用图",
+"Topology/场景图",
+"最小 1200×675（16:9）",
+"JPG/PNG"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"图片命名规则："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"stc-4802p-front.jpg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"stc-4802p-rear.jpg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"stc-4802p-topology.jpg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"产品描述内容"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"主要差异化亮点（2-3个，重点写）："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"每个亮点包含："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"功能名称"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"解决什么问题 / 带来什么价值"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"有数字就写数字（比如 sub-20ms、90W、-40°C）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"基础规格表："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"端口数量和类型"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE 支持（有的话）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"管理方式（L2 / L2+ / L3）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"芯片平台（Marvell / CENTEC / Realtek）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"电源（单电源 / 双电源）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"工作温度"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"认证（CE / FCC / RoHS 等）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OEM/ODM 是否支持"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"三、Insights 文章资料要求"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"每篇文章提供："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"标题"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"正文内容（你的原始素材，我来提炼和格式化）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"发布日期"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"已备好的两篇直接用，后续你发原料给我处理。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"四、Sitemap 更新规则"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"每次新增产品或文章，sitemap 加一条："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"<url>"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"<loc>https://sagatelecom.com.cn/products/stc-4802p-poe-managed-switch</loc>"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"<lastmod>2026-08-15</lastmod>"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"<changefreq>monthly</changefreq>"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"<priority>0.8</priority>"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"</url>"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"加完后去 Google / Bing / Yandex 三大站长后台重新提交 sitemap，5分钟搞定。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"五、你需要准备的完整清单"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"产品资料（9个产品）："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STI 产品1：型号 + 3张图 + 亮点 + 规格"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STI 产品2：同上"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STI 产品3：同上"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STC 产品1：同上"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STC 产品2：同上"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STC 产品3：同上"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STH 产品1：同上"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STH 产品2：同上"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STH 产品3：同上"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"网站内容修改（你之前列的8条）："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"UKCA 补全"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE 大小写修正"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Footer 句号去掉"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"手机号全站去掉"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"邮箱改为 e.sagatelecom@gmail.com"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Placeholder 占位符等真实文章替换"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"型号名等你确认"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"阿里云配置（产品准备好后）："
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OSS 静态托管开通"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"sagatelecom.com.cn 绑定"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"确认备案状态"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"一句话总结：你准备好9个产品的资料发给我，我一次性生成所有 HTML 文件，你批量上传，产品站正式上线。"
+}
+],
+"extracted_at":"2026-10-23T05:02:17Z"
+}

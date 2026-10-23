@@ -1,0 +1,102 @@
+{
+"id":"Extra_Info__Price__MEAN_WELL_Power_Supplies_Price_List.docx__a0a8fceb",
+"path":"Extra_Info/Price/MEAN WELL Power Supplies Price List.docx",
+"name":"MEAN WELL Power Supplies Price List.docx",
+"ext":".docx",
+"bytes":151774,
+"sha256":"a0a8fceb750ecfc2f2982478757d01fb892e96c15c04f67c3f28cf32be7b83a8",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2025-03-07T11:17:00+00:00",
+"modified":"2025-03-24T03:34:57+00:00",
+"paragraphs":5,
+"tables":1,
+"embedded_images":2
+},
+"warnings":[],
+"chars":737,
+"text":"Original MEAN WELL Power Supplies\nModel\tUnit Price/USD\tStock Status\nHDR-15-24\t15\tReady in Stock\nHDR-30-24\t20\tReady in Stock\nHDR-60-48\t25\tPlease confirm with us\nNDR-120-48\t30\tReady in Stock\nNDR-240-48\t50\tReady in Stock\nNDR-480-48\t100\tReady in Stock\nSDR-960-48\t240\tPlease confirm with us\nMDR-40-48\t23\tPlease confirm with us\nRemarks\nPrice term: EXW\nLeadtime for less than 50pcs: within 5 working days\nCustomization is NOT available\n[页眉页脚]\nMEAN WELL Power Supply\t \t \t                                                                a.sagatelecom@gmail.com\n\t\t\t\t\t\t\t                                                                       Saga Telecom\n2025/Q3\t\t\t\t\t\t\t\t                         www.sagatelecom.com.cn\nConnecting, Converting, Creating",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Original MEAN WELL Power Supplies"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"Unit Price/USD",
+"Stock Status"
+],
+[
+"HDR-15-24",
+"15",
+"Ready in Stock"
+],
+[
+"HDR-30-24",
+"20",
+"Ready in Stock"
+],
+[
+"HDR-60-48",
+"25",
+"Please confirm with us"
+],
+[
+"NDR-120-48",
+"30",
+"Ready in Stock"
+],
+[
+"NDR-240-48",
+"50",
+"Ready in Stock"
+],
+[
+"NDR-480-48",
+"100",
+"Ready in Stock"
+],
+[
+"SDR-960-48",
+"240",
+"Please confirm with us"
+],
+[
+"MDR-40-48",
+"23",
+"Please confirm with us"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remarks"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Price term: EXW"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Leadtime for less than 50pcs: within 5 working days"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Customization is NOT available"
+}
+],
+"extracted_at":"2026-10-23T05:05:48Z"
+}

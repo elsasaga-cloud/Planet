@@ -1,0 +1,312 @@
+{
+"id":"Extra_Info__报关相关.docx__0dafe5a0",
+"path":"Extra_Info/报关相关.docx",
+"name":"报关相关.docx",
+"ext":".docx",
+"bytes":654612,
+"sha256":"0dafe5a0a15fd7f8c10fc2664aaf01740c861aafc39e638b4d2f357ff6c204cb",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2026-09-17T13:24:00+00:00",
+"modified":"2026-09-17T13:25:22+00:00",
+"paragraphs":57,
+"tables":0,
+"embedded_images":2
+},
+"warnings":[],
+"chars":2240,
+"text":"HS Code\n工业交换机\nProduct Category: Industrial Ethernet Switch\nHS Code: 8517622990\nMaterial: Metal\nUsage\nUsed for wired data transmission and Ethernet communication in industrial and local area network (LAN) environments\n光纤收发器\nProduct Category: Fiber Media Converter\nHS Code: 8517622990\nMaterial: Metal\nUsage\nUsed for converting optical signals to electrical signals for wired data transmission in Ethernet networks\n光纤跳线\nProduct Category: Patchcord\nHS Code: 8517622990\nMaterial: Optical fiber(glass fiber) with PVC/LSZH jacket\nUsage\nUsed for optical signal transmission and physical connection in fiber optic networks\n光端机/光猫\nProduct Category: Video Fiber Converter Fiber Optic Terminal\nHS Code: 8517622100\nMaterial: Metal\nUsage\nUsed for converting and transmitting data signals over optical fiber in wired networks\nPoE 分离器/注入器\nProduct Category: PoE Injector\nHS Code: 8504401400\nMaterial: Metal\nUsage\nUsed for supplying DC power over Ethernet (PoE) to network devices via Ethernet cables\n工业电源\nProduct Category: Industrial Power Supply\nHS Code: 8504401500\nMaterial: Metal\nUsage\nUsed for converting and supplying electrical power to industrial electronic equipment\n光模块\nProduct Category: Optical Module\nHS Code: 8517795000\nMaterial: Metal\nUsage\nUsed as a pluggable optical interface module for signal transmission in Ethernet networks\n报关\nFedEx官方报关 电话 400-886-1888\n联邦快递（中国）有限公司深圳分公司\n4403180400\nUPS官方报关 电话 400-820-8388\n运必送物流(深圳)有限公司\n4403061222\nDHL官方报关 电话 95380\n中外运-敦豪国际航空快件有限公司\n4403180086\nIncoterm\nEXW (Ex Works)\nExcluding origin export clearance, international freight, destination customs clearance, import duties, and on-carriage delivery to the shipping address after customs release\nDDP (Delivered Duty Paid)\nIncluding origin export clearance, international freight, destination customs clearance, import duties, and on-carriage delivery to the shipping address after customs release\nDAP (Delivered At Place)\nIncluding origin export clearance and international freight\nExcluding destination customs clearance and import duties.\nIncluding on-carriage delivery to the shipping address after customs release\n[页眉页脚]\nSaga Telecom\nwww.sagatele.com\nAn Engineering & Supply-Chain-First Telecom Partner\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"HS Code"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"工业交换机"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product Category: Industrial Ethernet Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"HS Code: 8517622990\nMaterial: Metal"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Usage"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Used for wired data transmission and Ethernet communication in industrial and local area network (LAN) environments"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"光纤收发器"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product Category: Fiber Media Converter"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"HS Code: 8517622990\nMaterial: Metal"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Usage"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Used for converting optical signals to electrical signals for wired data transmission in Ethernet networks"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"光纤跳线"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product Category: Patchcord"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"HS Code: 8517622990\nMaterial: Optical fiber(glass fiber) with PVC/LSZH jacket"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Usage"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Used for optical signal transmission and physical connection in fiber optic networks"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"光端机/光猫"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product Category: Video Fiber Converter Fiber Optic Terminal"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"HS Code: 8517622100\nMaterial: Metal"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Usage"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Used for converting and transmitting data signals over optical fiber in wired networks"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE 分离器/注入器"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product Category: PoE Injector"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"HS Code: 8504401400\nMaterial: Metal"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Usage"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Used for supplying DC power over Ethernet (PoE) to network devices via Ethernet cables"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"工业电源"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product Category: Industrial Power Supply"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"HS Code: 8504401500"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Material: Metal"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Usage"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Used for converting and supplying electrical power to industrial electronic equipment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"光模块"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product Category: Optical Module"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"HS Code: 8517795000"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Material: Metal"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Usage"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Used as a pluggable optical interface module for signal transmission in Ethernet networks"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"报关"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"FedEx官方报关 电话 400-886-1888"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"联邦快递（中国）有限公司深圳分公司"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4403180400"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"UPS官方报关 电话 400-820-8388"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"运必送物流(深圳)有限公司"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4403061222"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DHL官方报关 电话 95380"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"中外运-敦豪国际航空快件有限公司"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4403180086"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Incoterm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"EXW (Ex Works)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Excluding origin export clearance, international freight, destination customs clearance, import duties, and on-carriage delivery to the shipping address after customs release"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DDP (Delivered Duty Paid)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Including origin export clearance, international freight, destination customs clearance, import duties, and on-carriage delivery to the shipping address after customs release"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DAP (Delivered At Place)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Including origin export clearance and international freight"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Excluding destination customs clearance and import duties."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Including on-carriage delivery to the shipping address after customs release"
+}
+],
+"extracted_at":"2026-10-23T05:01:25Z"
+}

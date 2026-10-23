@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_SEO__Reddit__saga_reddit_banner_v5.png__30550778",
+"path":"Extra_Info/Saga SEO/Reddit/saga_reddit_banner_v5.png",
+"name":"saga_reddit_banner_v5.png",
+"ext":".png",
+"bytes":44683,
+"sha256":"305507782cf5a1d9d31f980198b941b4dbab32aa9cc67e8566e9996768d0c22a",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1920,
+"height":384,
+"mode":"RGB",
+"thumb_bytes":3281
+},
+"warnings":[],
+"chars":162,
+"text":"一 EnermnEERrne & SUPPLY-CHAIN-FIRST\nSTI— Industrial\nSAGA Managed switching Se mane\nLU Rack - PoE++ 90W - ALL-fiber L3 - 740W Budget\nfor every layer. ie vt\nTELECOM",
+"extracted_at":"2026-10-23T05:01:57Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__Reddit__saga_reddit_banner_v5.png__30550778.jpg"
+}

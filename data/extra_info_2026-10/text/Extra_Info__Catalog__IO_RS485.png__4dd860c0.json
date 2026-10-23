@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Catalog__IO_RS485.png__4dd860c0",
+"path":"Extra_Info/Catalog/IO RS485.png",
+"name":"IO RS485.png",
+"ext":".png",
+"bytes":1229877,
+"sha256":"4dd860c0c8e739f03bc49b3f56a2991ed315b86595129d5485b181cb051d8d04",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1536,
+"height":1024,
+"mode":"RGB",
+"thumb_bytes":8785
+},
+"warnings":[],
+"chars":217,
+"text":"Detect / Input Processing Action / Output\n| = | |\nRS485 Data Corres DO / Relay\nControl Alarm Light\nvi,\n9 Temp Sensor\nIndustrial\nSwitch\n(With RS485 & DIDO) ))\nDI Signal DO / Relay Burcer\n0 Door Sensor (Trigger) Control",
+"extracted_at":"2026-10-23T05:01:32Z",
+"thumb":"thumbs/Extra_Info__Catalog__IO_RS485.png__4dd860c0.jpg"
+}

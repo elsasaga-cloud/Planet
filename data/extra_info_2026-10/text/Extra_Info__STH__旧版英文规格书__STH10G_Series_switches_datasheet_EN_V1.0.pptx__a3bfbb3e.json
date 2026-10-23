@@ -1,0 +1,426 @@
+{
+"id":"Extra_Info__STH__旧版英文规格书__STH10G_Series_switches_datasheet_EN_V1.0.pptx__a3bfbb3e",
+"path":"Extra_Info/STH/旧版英文规格书/STH10G Series switches datasheet_EN_V1.0.pptx",
+"name":"STH10G Series switches datasheet_EN_V1.0.pptx",
+"ext":".pptx",
+"bytes":7895699,
+"sha256":"a3bfbb3ebf292816c5c892b0f0f97f757c358979772d0015ba8427f8d3b12f10",
+"source":"Extra_Info.zip",
+"method":"python-pptx",
+"status":"ok",
+"meta":{
+"slides":9,
+"pictures":3
+},
+"warnings":[],
+"chars":5454,
+"text":"[slide 1]\nSTH10G SERIES SWITCHES\nDATASHEET\n10G Enterprise Switch\nVersion: V1.0\nRelease Date: 2024/10/12\nProduct Overview\nThe STH10G Series switches are designed with two generations of domestic switch chips which are carried on VastLakes Platform or PeakNetX Platform\nThe STH10G Series switches have various port options and offer rich L2/L3 features, making them the perfect choice as aggregation or access switches for enterprise, government, specific industry networks\nKey features of the STH10G Series Switches\nPoE++ provide max 90W power of ports\nMLAG which can build an Active-Active system to improve the reliability of the network links from single board grade to device grade\nImplementing Vxlan and BGP protocols to build EVPN applications for data centers scenario\nSwitch-to-switch encryption using MACsec(Media Access Control Security)AES-CMAC\nPrecision Timing Protocol\nRich L2/L3 features like IPv6, OSPF, BGP, PIM, etc.\nThe STH10G Series switches provide various power supply solutions for customers choosing, fixed single power supply, fixed redundant power supplies, and redundant hot-swappable power supplies(AC and DC are both available). The Fan solutions also have multiple bays with Field replaceable fan modules and build in fans. Generally, air flow of STH10G Series is front to rear(AFO), and some of models can do customization of rear to front(AFI)airflow\n\n[slide 2]\nTable 1: Feasible PSU and airflow of STH10G Series Switches\nThe STH10G Series switches support varied management ways, include console port/in-band network ports/out-of-band network port\nSupport SNMP v1/v2/v3, Support CLI(Command Line Interface), web management, Telnet and FTP connection\nSupport OAM to make management more convenient\nSupport SSH2.0, SSL, etc. to ensure security of management\nVisual WEB GUI\nSTOS allows you to quickly configure common configuration items using a visual WEB GUI, which lowers the application threshold for users\nItems\tAC\tDC\tPoE Ports\tAFO\tAFI\tPower Input\tFAN\nSTH-8C48XF-SI\t◯\tX\tX\t◯\tX\t1\t4\nSTH-8C48XF-DI\t◯\tX\tX\t◯\tX\t2\t4\n\n[slide 3]\nTable 2: Family of the STH10G Series switches\nThe STH10G series of Ethernet switches consists of the following models\nModels\tEthernet Ports\tManagement\tPSU 1/PSU 2\tCooling\nSTH-8C48XF-SI\t48 x 10G SFP+ + 8 x 100G QSFP 28\tConsole: RJ45 to RS232 \nEthernet: 1G Port Storage: USB\tFixed single power supply\t4 x fixed fans(front-to-back airflow)\nSTH-8C48XF-DI\t48 x 10G SFP+ + 8 x 100G QSFP 28\tConsole: RJ45 to RS232 \nEthernet: 1G Port Storage: USB\tFixed dual power supplies\t4 x fixed fans(front-to-back airflow)\n\n[slide 4]\nSTH10G Physical Specifications\nPacket Switch capacity(Gbps)\nSTH-8C48XF-SI: 2560Gbps(bidirectional)\nSTH-8C48XF-DI: 2560Gbps(bidirectional)\nWeight (Net weight/Gross weight)\nSTH-8C48XF-SI: 7.0kg/10.1kg\nSTH-8C48XF-DI: 7.0kg/10.1kg\nLayer 2/Layer 3 Throughput(Mpps)\nSTH-8C48XF-SI: 3809.28Mpps(bidirectional)\nSTH-8C48XF-DI: 3809.28Mpps(bidirectional)\nDimensions(W x H x D) without package\nSTH-8C48XF-SI: 44.2 x 4.5 x 35.5 cm\nSTH-8C48XF-DI: 44.2 x 4.4 x 41 cm\nTemperature alarm\nAlarm threshold: 50ºC\n\n[slide 5]\nDimensions(W x H x D) with package\nSTH-8C48XF-SI: 55.7 x 15 x 49.5 cm\nSTH-8C48XF-DI: 55.7 x 15 x 49.5 cm\nEnvironmental ranges\nOperating temperature: 0ºC to 45ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90%(No condensation)\nStore Humidity: 5% to 95%(No condensation)\nOperating altitude\nSTH-8C48XF-SI: 0~5KM\nSTH-8C48XF-DI: 0~5KM\nPower consumption\nWorst case, all ports used, line-rate traffic\nSTH-8C48XF-SI: 135W\nTypical power consumption\nSTH-8C48XF-SI: 101W\n\n[slide 6]\nMTBF\nSI(Fixed PSU and FAN): ≥70000h\n(~8.0 Years)\nCPU\nDual-core processor, ARM A53(1GHz)on following models\nSTH-8C48XF-SI\nSTH-8C48XF-DI\nMemory\neMMc: 8GB on all models\nDRAM: 2GB on all models\nCooling [CFM]-Total Maximum airflow\nSTH-8C48XF-SI: 105.32\n\n[slide 7]\nSTH10G Software Specifications\nSaga Telecom implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘STOS Software features’\nAll Saga Telecom high-speed switches use a normalized software platform and image package file\nUnified software version iteration plan\nUnified user experience\nLayer 2 switching\nIPv4/lPv6 Unicast Routing\nQoS\nIP Multicast Snooping/Proxy\nIPv4/lPv6 Multi cast Routing\nVRRP\nMultiprotocol Label Switching(MPLS)\nVirtual Private LAN Service(VPLS)\nVirtual Routing and Switching\nGeneralized Multiprotocol Label Switching(GMPLS)\nIPv6 Tunneling and TransitionTechnologies\nIP/MPLS OAM\nService management module\nFault Managemet(FM)\nHigh Availability(HA)\nIntegrated Management Interface(CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)\nHardware and platform abstraction layer\nAdvanced integration Suite\nCENTEC swtich chip SDK\nSilicon in Pizza, Stacking or Chassis\nConfiguration\nLinux, IPv4/Pv6 Dual Stack\nHardware layer\nCENTEC Switch Chipset\nCPU Subsystem\nCooling SubSystem\nAC/DC DC/DC CLK\nEnvironmental Management Subsystem\nLogical Control Subunit\nOperating Systems TCP/IP Stacks\n\n[slide 8]\nOrdering Information\nSTH10G Series Switches\nItem\tDescription\nSTH-8C48XF\t10G Enterprise and Campus Network Switch with 48*10G SFP+, 8*100G QSFP28, Fixed single power supply , 4 Fixed Fans\nSTH-8C48XF-DI\t10G Enterprise and Campus Network Switch with 48*10G SFP+, 8*100G QSFP28, Fixed dual power supply , 4 Fixed Fans\n\n[slide 9]\nAccessory of STH10G Series\nItems\tFront Mounting\tRear Mounting\tScrew\tPower Cord\tConsole(RS232 to RJ45)\nSTH-8C48XF-SI\t2\t/\t14\t1\t1\nSTH-8C48XF-DI\t2\t/\t14\t2\t1",
+"slides":[
+{
+"n":1,
+"items":[
+{
+"t":"p",
+"text":"STH10G SERIES SWITCHES\nDATASHEET\n10G Enterprise Switch\nVersion: V1.0\nRelease Date: 2024/10/12"
+},
+{
+"t":"p",
+"text":"Product Overview"
+},
+{
+"t":"p",
+"text":"The STH10G Series switches are designed with two generations of domestic switch chips which are carried on VastLakes Platform or PeakNetX Platform\nThe STH10G Series switches have various port options and offer rich L2/L3 features, making them the perfect choice as aggregation or access switches for enterprise, government, specific industry networks"
+},
+{
+"t":"p",
+"text":"Key features of the STH10G Series Switches"
+},
+{
+"t":"p",
+"text":"PoE++ provide max 90W power of ports\nMLAG which can build an Active-Active system to improve the reliability of the network links from single board grade to device grade\nImplementing Vxlan and BGP protocols to build EVPN applications for data centers scenario\nSwitch-to-switch encryption using MACsec(Media Access Control Security)AES-CMAC\nPrecision Timing Protocol\nRich L2/L3 features like IPv6, OSPF, BGP, PIM, etc."
+},
+{
+"t":"p",
+"text":"The STH10G Series switches provide various power supply solutions for customers choosing, fixed single power supply, fixed redundant power supplies, and redundant hot-swappable power supplies(AC and DC are both available). The Fan solutions also have multiple bays with Field replaceable fan modules and build in fans. Generally, air flow of STH10G Series is front to rear(AFO), and some of models can do customization of rear to front(AFI)airflow"
+},
+{
+"t":"picture",
+"name":"图片 1"
+}
+],
+"notes":""
+},
+{
+"n":2,
+"items":[
+{
+"t":"picture",
+"name":"图片 7"
+},
+{
+"t":"p",
+"text":"Table 1: Feasible PSU and airflow of STH10G Series Switches"
+},
+{
+"t":"p",
+"text":"The STH10G Series switches support varied management ways, include console port/in-band network ports/out-of-band network port\nSupport SNMP v1/v2/v3, Support CLI(Command Line Interface), web management, Telnet and FTP connection\nSupport OAM to make management more convenient\nSupport SSH2.0, SSL, etc. to ensure security of management"
+},
+{
+"t":"p",
+"text":"Visual WEB GUI"
+},
+{
+"t":"p",
+"text":"STOS allows you to quickly configure common configuration items using a visual WEB GUI, which lowers the application threshold for users"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"AC",
+"DC",
+"PoE Ports",
+"AFO",
+"AFI",
+"Power Input",
+"FAN"
+],
+[
+"STH-8C48XF-SI",
+"◯",
+"X",
+"X",
+"◯",
+"X",
+"1",
+"4"
+],
+[
+"STH-8C48XF-DI",
+"◯",
+"X",
+"X",
+"◯",
+"X",
+"2",
+"4"
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":3,
+"items":[
+{
+"t":"p",
+"text":"Table 2: Family of the STH10G Series switches"
+},
+{
+"t":"p",
+"text":"The STH10G series of Ethernet switches consists of the following models"
+},
+{
+"t":"picture",
+"name":"图片 4"
+},
+{
+"t":"table",
+"rows":[
+[
+"Models",
+"Ethernet Ports",
+"Management",
+"PSU 1/PSU 2",
+"Cooling"
+],
+[
+"STH-8C48XF-SI",
+"48 x 10G SFP+ + 8 x 100G QSFP 28",
+"Console: RJ45 to RS232 \nEthernet: 1G Port Storage: USB",
+"Fixed single power supply",
+"4 x fixed fans(front-to-back airflow)"
+],
+[
+"STH-8C48XF-DI",
+"48 x 10G SFP+ + 8 x 100G QSFP 28",
+"Console: RJ45 to RS232 \nEthernet: 1G Port Storage: USB",
+"Fixed dual power supplies",
+"4 x fixed fans(front-to-back airflow)"
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":4,
+"items":[
+{
+"t":"p",
+"text":"STH10G Physical Specifications"
+},
+{
+"t":"p",
+"text":"Packet Switch capacity(Gbps)\nSTH-8C48XF-SI: 2560Gbps(bidirectional)\nSTH-8C48XF-DI: 2560Gbps(bidirectional)"
+},
+{
+"t":"p",
+"text":"Weight (Net weight/Gross weight)\nSTH-8C48XF-SI: 7.0kg/10.1kg\nSTH-8C48XF-DI: 7.0kg/10.1kg"
+},
+{
+"t":"p",
+"text":"Layer 2/Layer 3 Throughput(Mpps)\nSTH-8C48XF-SI: 3809.28Mpps(bidirectional)\nSTH-8C48XF-DI: 3809.28Mpps(bidirectional)"
+},
+{
+"t":"p",
+"text":"Dimensions(W x H x D) without package\nSTH-8C48XF-SI: 44.2 x 4.5 x 35.5 cm\nSTH-8C48XF-DI: 44.2 x 4.4 x 41 cm"
+},
+{
+"t":"p",
+"text":"Temperature alarm\nAlarm threshold: 50ºC"
+}
+],
+"notes":""
+},
+{
+"n":5,
+"items":[
+{
+"t":"p",
+"text":"Dimensions(W x H x D) with package\nSTH-8C48XF-SI: 55.7 x 15 x 49.5 cm\nSTH-8C48XF-DI: 55.7 x 15 x 49.5 cm"
+},
+{
+"t":"p",
+"text":"Environmental ranges\nOperating temperature: 0ºC to 45ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90%(No condensation)\nStore Humidity: 5% to 95%(No condensation)\nOperating altitude\nSTH-8C48XF-SI: 0~5KM\nSTH-8C48XF-DI: 0~5KM"
+},
+{
+"t":"p",
+"text":"Power consumption\nWorst case, all ports used, line-rate traffic\nSTH-8C48XF-SI: 135W\nTypical power consumption\nSTH-8C48XF-SI: 101W"
+}
+],
+"notes":""
+},
+{
+"n":6,
+"items":[
+{
+"t":"p",
+"text":"MTBF\nSI(Fixed PSU and FAN): ≥70000h\n(~8.0 Years)"
+},
+{
+"t":"p",
+"text":"CPU\nDual-core processor, ARM A53(1GHz)on following models\nSTH-8C48XF-SI\nSTH-8C48XF-DI"
+},
+{
+"t":"p",
+"text":"Memory\neMMc: 8GB on all models\nDRAM: 2GB on all models"
+},
+{
+"t":"p",
+"text":"Cooling [CFM]-Total Maximum airflow\nSTH-8C48XF-SI: 105.32"
+}
+],
+"notes":""
+},
+{
+"n":7,
+"items":[
+{
+"t":"p",
+"text":"STH10G Software Specifications\nSaga Telecom implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘STOS Software features’"
+},
+{
+"t":"p",
+"text":"All Saga Telecom high-speed switches use a normalized software platform and image package file\nUnified software version iteration plan\nUnified user experience"
+},
+{
+"t":"p",
+"text":"Layer 2 switching"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Unicast Routing"
+},
+{
+"t":"p",
+"text":"QoS"
+},
+{
+"t":"p",
+"text":"IP Multicast Snooping/Proxy"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Multi cast Routing"
+},
+{
+"t":"p",
+"text":"VRRP"
+},
+{
+"t":"p",
+"text":"Multiprotocol Label Switching(MPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Private LAN Service(VPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Routing and Switching"
+},
+{
+"t":"p",
+"text":"Generalized Multiprotocol Label Switching(GMPLS)"
+},
+{
+"t":"p",
+"text":"IPv6 Tunneling and TransitionTechnologies"
+},
+{
+"t":"p",
+"text":"IP/MPLS OAM"
+},
+{
+"t":"p",
+"text":"Service management module"
+},
+{
+"t":"p",
+"text":"Fault Managemet(FM)"
+},
+{
+"t":"p",
+"text":"High Availability(HA)"
+},
+{
+"t":"p",
+"text":"Integrated Management Interface(CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)"
+},
+{
+"t":"p",
+"text":"Hardware and platform abstraction layer"
+},
+{
+"t":"p",
+"text":"Advanced integration Suite"
+},
+{
+"t":"p",
+"text":"CENTEC swtich chip SDK"
+},
+{
+"t":"p",
+"text":"Silicon in Pizza, Stacking or Chassis\nConfiguration"
+},
+{
+"t":"p",
+"text":"Linux, IPv4/Pv6 Dual Stack"
+},
+{
+"t":"p",
+"text":"Hardware layer"
+},
+{
+"t":"p",
+"text":"CENTEC Switch Chipset"
+},
+{
+"t":"p",
+"text":"CPU Subsystem"
+},
+{
+"t":"p",
+"text":"Cooling SubSystem"
+},
+{
+"t":"p",
+"text":"AC/DC DC/DC CLK"
+},
+{
+"t":"p",
+"text":"Environmental Management Subsystem"
+},
+{
+"t":"p",
+"text":"Logical Control Subunit"
+},
+{
+"t":"p",
+"text":"Operating Systems TCP/IP Stacks"
+}
+],
+"notes":""
+},
+{
+"n":8,
+"items":[
+{
+"t":"p",
+"text":"Ordering Information\nSTH10G Series Switches"
+},
+{
+"t":"table",
+"rows":[
+[
+"Item",
+"Description"
+],
+[
+"STH-8C48XF",
+"10G Enterprise and Campus Network Switch with 48*10G SFP+, 8*100G QSFP28, Fixed single power supply , 4 Fixed Fans"
+],
+[
+"STH-8C48XF-DI",
+"10G Enterprise and Campus Network Switch with 48*10G SFP+, 8*100G QSFP28, Fixed dual power supply , 4 Fixed Fans"
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":9,
+"items":[
+{
+"t":"p",
+"text":"Accessory of STH10G Series"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Front Mounting",
+"Rear Mounting",
+"Screw",
+"Power Cord",
+"Console(RS232 to RJ45)"
+],
+[
+"STH-8C48XF-SI",
+"2",
+"/",
+"14",
+"1",
+"1"
+],
+[
+"STH-8C48XF-DI",
+"2",
+"/",
+"14",
+"2",
+"1"
+]
+]
+}
+],
+"notes":""
+}
+],
+"extracted_at":"2026-10-23T05:05:08Z"
+}

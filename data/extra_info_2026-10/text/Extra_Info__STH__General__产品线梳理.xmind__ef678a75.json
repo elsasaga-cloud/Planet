@@ -1,0 +1,18 @@
+{
+"id":"Extra_Info__STH__General__产品线梳理.xmind__ef678a75",
+"path":"Extra_Info/STH/General/产品线梳理.xmind",
+"name":"产品线梳理.xmind",
+"ext":".xmind",
+"bytes":150929,
+"sha256":"ef678a758a4b57a96f6a3189f63a6beb779aedc600b17d293b97effc3f5adb51",
+"source":"Extra_Info.zip",
+"method":"xmind(content.xml)",
+"status":"ok",
+"meta":{
+"lines":112
+},
+"warnings":[],
+"chars":2303,
+"text":"# Sheet: 画布 1\n- HOS\n  - Saga Telecom High-speed Switches\n    - STH800G Series\r\nS9500 Series\n      - SerdesX Platform\n    - STH400G Series\r\nS8500 Series\n      - SerdesX Platform\n    - STH100G Series\r\nS7800 Series\n      - PeakNetX Platform\n    - STH25G Series\r\nS7500 Series\n      - PeakNetX Platform\n    - STH10G Series\n      - 1U\r\nS5600 Series\n        - PeakNetX Platform\n        - VastLakes Platform\n    - STH5G Series\r\nS5000 Series\n      - VastLakes Platform\n    - STH2.5G Series\r\nS4600 Series\n      - VastLakes Platform\n    - STH1G Series\r\nS5500 Series\n      - VastLakes Platform\n    - XLite Series\n      - HU\r\nDynamicDuo Series\n        - VastLakes Platform\n      - 包含了众多速率\n    - 1G/2.5G HU 为Realtek方案，暂未做引进\n  - 一个系统性的平台，有专门的一个功能表，下边的3个platform都支持相关功能\r\n下述几个芯片，7-8-9，性能都是越来越强的\n  - VastLakes\n    - ctc7132 芯片\n      - 1G\n      - 2.5G\n      - 5G\n      - 10G\n        - 不包含S5648T-8Z/S5648T-8N型号\n      - 40G\n      - 半寸外壳系列\n    - 适用于绝大部分型号\n  - PeakNetX\n    - ctc8180 芯片\n      - 25G\n      - 100G\n      - S5648T-8Z/S5648T-8N 10G\n  - SerdesX\n    - ctc926x芯片\n      - 400G/800G 交换机\n  - 额外信息（主要是硬件）\n    - 端口\n    - 串口\n    - 管理口\n    - USB口\n    - CPU\n    - 内存\n    - Flash\n    - 包转发率(双向)\n    - 交换容量(双向)\n    - MAC\n    - 输入电压\n    - 运行温度\n    - 存储温度\n    - 告警温度\n    - 运行湿度\n    - 存储湿度\n    - 热插拔电源数量\n    - 内置电源数量\n    - 电源功率\n    - 热插拔风扇数量\n    - 内置风扇数量\n    - 风扇风向\n    - 空载功耗(W)\n    - 典型功耗(W)\n    - 满载功耗(W)\n    - 工作海拔高度(m)\n    - 风量（最大值)\n    - 风量（典型值）\n    - 噪声典型值(dB)\n    - MTBF（平均故障时间）\n    - 设备尺寸（宽*深*高mm）\n    - 外箱尺寸（宽*深*高mm）\n    - 重量（净重/毛重kg）\n    - 前挂耳（短）\n    - 前挂耳（长）\n    - 壁挂挂耳 (半宽）\n    - 机架后挂耳—滑动组件a\n    - 机架后挂耳—滑动组件b\n    - 双机拼装组件a （半宽）\n    - 双机拼装组件b （半宽）\n    - 接地线\n    - 串口线\n    - 挂耳螺丝\n    - 电源线\n    - 双机冗余电源线 （半宽）\n    - 堆叠支架（前）\n    - 堆叠支架（后）\n    - 静音设计\n    - 永久PoE\n    - PoE功率\n    - 交换芯片\n    - 相关支持的RFC\n    - 相关支持的MIB\n  - 选型需发给客户3个表\n    - 1. 产品规格书（硬件）\n    - 2. HOS （软件)\n      - 告诉客户，我们支持什么功能/协议，列举出来。所有交换机都公用\n    - 3. 产品对应的性能表  VastLakes/PeakNetX/SerdesX\n      - 告诉客户，交换机用的什么芯片，这个芯片性能怎么样\n    - 2 是 3 共用的一套系统，一对多的关系\r\n举个手机的例子\r\n2 ：这是苹果手机，苹果系统，所有的苹果手机都是这一套系统\r\n3 ：苹果13/14/16，16 相机像素更高，或者其他方面更好\n  - 做一个汇总，感觉规格书中多多少少都提供了信息\n  - All STOS Based\n    - SL=Standard License\n    - AL=Advanced License\n    - VastLakes 对应ctc7132芯片\r\nPeakNetX 对应ctc8180芯片\r\nSerdesX对应ctc926x系列芯片\n    - HOS 软件：包含具体的软件信息\r\nSMT：分别是对应3种芯片方案（平台）的性能表。\r\n规格书：系列描述+硬件信息。",
+"extracted_at":"2026-10-23T05:03:42Z"
+}

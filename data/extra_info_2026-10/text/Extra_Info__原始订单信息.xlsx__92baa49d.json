@@ -1,0 +1,7938 @@
+{
+"id":"Extra_Info__原始订单信息.xlsx__92baa49d",
+"path":"Extra_Info/原始订单信息.xlsx",
+"name":"原始订单信息.xlsx",
+"ext":".xlsx",
+"bytes":591373,
+"sha256":"92baa49da0015358894f0bfc74111b712a5f5be47b666f840cd023d1da1e1a82",
+"source":"Extra_Info.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"交易信息",
+"物流公司",
+"交易类型"
+],
+"embedded_images":2,
+"rows_total":1569
+},
+"warnings":[],
+"chars":73504,
+"text":"--- Sheet: 交易信息 ---\n\t\t填写说明：\t\t\n\n\t1. 请您提供180天内的贝宝海外账户订单交易，填写在“交易信息”页内，红色字体标明【必填】的信息列为必须填写，缺失将导致整个文件无效。\t\n\t2. 请按照每个必填项的格式及内容规范进行填写，格式或内容不符合规范则该条交易记录不做申报。\t\n\t3. 您只需填写通过贝宝收单的交易， 通过其他支付渠道收单的交易不在可回款范围内。\t\n\t4. 请填写您的货物贸易的交易信息，暂无法通过上传佐证材料审查服务贸易对应的交易资格。\n\t5. 请检查填写内容并保存，确保信息真实准确，否则可能会导致您申请的额度审核失败。\n\t原始订单交易号\n必填\t订单日期\n必填\t币种\n必填\t订单金额\n必填\t商品数量\n必填\t订单描述\n必填\t物流公司\n必填\t物流单号\n必填\t发货日期\t收货国家\t收货城市\t收货地址\n填写规范\t此字段必填，请填写您贝宝海外账户收单交易的交易号，非电商系统订单号\t此字段必填，原始海外账户收单交易日期，需符合日期格式YYYY/MM/DD\t此字段必填，原始海外账户收单交易币种，需填写币种三字代码\t此字段必填，请填写您贝宝海外账户收单交易金额（此金额包含手续费，需保留小数点后两位）\t此字段必填，请将一个订单内所有商品的数量加总，填写汇总后商品数量\t此字段必填，请根据实际交易情况填写有效的商品名称。若一个订单有多个商品，请将所有商品名称逐一拼接全部罗列，用英文逗号,分隔\t此字段必填，请填写实际服务的物流公司名称，未发货暂无物流信息的订单可以在发货后再来补充。若一个订单拆分多个包裹投递，请将有物流公司名称逐一拼接全部罗列，用英文逗号,分隔。 请规范填写物流公司名称，可从“物流公司”页签中查询，填写A列-物流公司代码。\t此字段必填，请填写实际服务的物流公司下准确的物流单号，未发货暂无物流信息的订单可以在发货后再来补充。若一个订单拆分多个包裹投递，请将有物流单号逐一拼接全部罗列，用英文逗号,分隔。\t此字段非必填，若一个订单拆分多个包裹投递，请将有发货日期逐一拼接全部罗列，用英文逗号,分隔，需符合日期格式YYYY/MM/DD\t此字段非必填，需填写最后一个包裹收货国家的二字代码，代码可在此查询：\t此字段非必填，需填写最后一个包裹的收货城市名称\t此字段非必填，需填写最后一个包裹的收货地址\n\t\t\t币种代码\t\t\t\t查询物流公司名称\t\t\t查询收货国家代码\n填写示例\t9W7118680S7697800\t2022-12-28 00:00:00\tUSD\t50\t5\tCustomised lashes, Cotton baby socks 10 Pairs with mixed color\tAfghan Post, American Express\tAF88373653, AE7376653DS\t2022/12/31, 2023/01/03\tUS\tNew York\t234234  Feathers Hooves Drive, Brentwood, NY, New York, US\n\t21P518391G4768135\t2024-04-16 00:00:00\tUSD\t178.5\t4\t4 pieces Industrial Ethernet Switch\tFedEx\t273802216228\t2024-04-23 00:00:00\tIndia\tUttar Pradesh\tPlot No. 218, Udyog Kendra 1, Ecotech 3 Greater Noida - 201306, Uttar Pradesh, India\n\t9TP97830YJ087900R\t2024-04-18 00:00:00\tUSD\t452\t1\t1 Piece Commercial Ethernet Switch\tUPS\t1ZB60W376722958650\t2024-04-26 00:00:00\tUS\tCalifornia\t5160 Avenida De Despacio Yorba Linda, CA 92887\n--- Sheet: 物流公司 ---\n物流公司信息\n物流公司代码\t物流公司（中文）\t公司网站\nJX EXPRESS\t吉箱物流\thttp://119.23.49.43/index.html\nCR-RUSSIA\tRUSSIA专线\thttp://568logistics.com/\n5UL\t5UL\thttp://5ulogistics.com/\nWUYOUEXP\t物邮供应链\thttp://aa.yichuan99.com/\nAfghan Post\tAfghan Post\thttp://afghanpost.gov.af/\nAnserX\tAnserX\thttp://anserx.com/\nMicro Express\tMicro Express\thttp://api.mircoexpress.com/\nART LOGISTICS\tART LOGISTICS\thttp://artlogexpress.com/\nAT\tAT\thttp://a-tian.aflyfish.com/\nAustralia Post\tAustralia Post\thttp://auspost.com.au/\nBelpost\tBelpost\thttp://belpost.by/\nBlue Dart Express\tBlue Dart Express\thttp://bluedart.com/\nBRANDING WORLDWIDE PTY LTD\tBRANDING WORLDWIDE PTY LTD\thttp://brandingworldwide.com.au/\nCambodia Post\tCambodia Post\thttp://cambodiapost.post/\nCDEX\t辰达国际物流\thttp://chenda.toujiaa.cn/\nEquatorial Supply Chain\t赤道供应链\thttp://chidaogroup.com/\nConwest Logistics\t西征物流\thttp://conwest-logistics.com/\nAntilles Post\tAntilles Post\thttp://cpostinternational.com/\nSIHAI INC\t克里斯兰\thttp://crystalline.vip/\nCHINA SOUTHERN AIR LOGISTICS\t南航物流\thttp://csairlog.com/\nCXC Express\tCXC Express\thttp://cxc.com.hk/\nDJX\t大巨星国际\thttp://dajuxing.com.cn/\nQSY\t全速易物流\thttp://daraii.com/\nDDU Express\tDDU Express\thttp://ddu-express.com/\nDVEX\t德维国际\thttp://dwgjex.com/\nDYEXPRESS\t德远物流\thttp://dyexpress.com/\nEasy Way\tEasy Way\thttp://easyway.ru/\nEFS (E-commerce Fulfillment Service)\tEFS (E-commerce Fulfillment Service)\thttp://efs.asia/\nEWS\tEWS\thttp://epost.8dt.com/\nESE\t俄速易\thttp://e-se.cn/\nETS\tETS\thttp://ets-express.com/\nCHINACOURIER\t中快\thttp://export.chinacourierhk.com:9088/login\nLingjing\t灵境\thttp://express-lj.com/\nFARGO\tFARGO\thttp://fargo.uz/\nFastgo\t速派快递\thttp://fastgo.com.au/\nFLS\t福来讯\thttp://fls.aprche.net/\nUPU\tUPU\thttp://globaltracktrace.ptc.post/gtt.web/\nGobopost\t环球易寄\thttp://gobopost.com/\nGeorgian Post\tGeorgian Post\thttp://gpost.ge/\nGrand Slam Express\tGrand Slam Express\thttp://grandslamexpress.in/\nGuyana Post\tGuyana Post\thttp://guypost.gy/\nHYL\t皓宇物流\thttp://haoyuwms.com/\nHDQN\tHD物流\thttp://hdgj19.com/\nSuperhero Express\tSuperhero Express\thttp://heroexpress.com.au/\nHiyes\t新航通运\thttp://hiyes.com.tw/\nLidi Logistics\t利滴物流\thttp://hnlidi.cn/\nSuper Pack Line\tSuper Pack Line\thttp://home.57track.com/\nHSDGJ\t寰世达\thttp://hsdexpress.com/\nYFHT\tYFHT\thttp://htkjwl.cn/\nSRJ\t思睿捷国际\thttp://huayu-ex.com/\nGZHY\t广州华亚\thttp://hyytgz.com/\nHZC\t洪赞成物流\thttp://hzc-express.com/\nILINE\t以通\thttp://il.lmfun.net/\nSF Express\t顺丰速运\thttp://intl.sf-express.com/\nJiuzeyuan\t广州九泽元\thttp://jiuzytech.com/\nJPSGJ\t捷谱斯国际\thttp://jpsgjwl.com/\nKiribati Post\tKiribati Post\thttp://kiribatipost.net.ki/\nK-mestu\tK-mestu\thttp://k-mestu.ru/\nKong Lok Express\t港乐速邮\thttp://konglok.com/\nKyrgyz Post\tKyrgyz Post\thttp://kyrgyzpost.kg/\nLCS-Leopards Courier Service\tLCS-Leopards Courier Service\thttp://leopardscourier.com/pk/\nLesotho Post\tLesotho Post\thttp://lesothopost.org.ls/\nLibya Post\tLibya Post\thttp://libyapost.ly/\nMailAmericas\tMailAmericas\thttp://mailamericas.com/\nMCN\t麦链中国\thttp://mailiancn.com/\nMark Express\tMark Express\thttp://markexpress.co.in/\nMeest\tMeest\thttp://meest-group.com/\nKuwait Post\tKuwait Post\thttp://moc.gov.kw/\nDIDADI\t嘀嗒嘀物流科技\thttp://mydidadi.com/\nNET SPA\tNET SPA\thttp://netspaitalia.com/\nXINGYUAN\tXINGYUAN\thttp://new.sz-tianma.com/\nNova Poshta\tNova Poshta\thttp://novaposhta.ua/\nOCS ANA Group\tOCS ANA Group\thttp://ocs-india.in/eng/\nOndot Courier\tOndot Courier\thttp://ondotcouriers.co.in/index.aspx\nOYXGJ\t欧亚兴\thttp://oyx-express.com/\nPT Maju Bersama Semeru (Parcelgoo)\tPT Maju Bersama Semeru (Parcelgoo)\thttp://parcelgoo.com/\nPKD express\t派刻达国际\thttp://pkdexpress.com/\nIran Post\tIran Post\thttp://post.ir/\nMagyar Posta\tMagyar Posta\thttp://posta.hu/\nPosta e Kosovës\tPosta e Kosovës\thttp://postakosoves.com/\nQingzhou Supply Chain\t擎洲供应链\thttp://qz.jiwangyun.com/\nRaBee Express\tRaBee Express\thttp://rabee.mx/\nRunner Express\tRunner Express\thttp://runnerexpress.co.il/\nRZ\t睿致国际\thttp://rzrzwl.cn/\nSamoa Post\tSamoa Post\thttp://samoapost.ws/\nSangzhou\t上海桑州\thttp://sangzhou.net/\nShree Mahavir Express Services\tShree Mahavir Express Services\thttp://shreemahavircourier.com/\nSKR\tSKR\thttp://skr56.com/\nSKUARE\t世宽国际\thttp://skuare.com.cn/\nSuper Parcel Track\t速鹏\thttp://sp-track.com/\nStarTrack\tStarTrack\thttp://startrack.com.au/\nST Courier\tST Courier\thttp://stcourier.com/\nSudan Post\tSudan Post\thttp://sudapost.sd/\nSuperior Digital\t速点供应链\thttp://superior-digital.com/\n2GO\t2GO\thttp://supplychain.2go.com.ph/\nSQGJ\t胜琪国际\thttp://suzsq.com/\nHONGXING\t鸿兴运通\thttp://szhxyt-express.com/\nHMCP\t环贸仓配\thttp://sztoppost.com/\nChaoyue international logistics\t超跃国际物流\thttp://tan251278210.b2b168.com\nTMM Express\tTMM Express\thttp://tmm-express.com/\nEasySeller\t亿迈\thttp://tms.easyseller.com/\nGlobal Express\tGlobal Express\thttp://tongtuexpress.com/\nFANKU\tFANKU\thttp://topfba56.com/\nTop Logistics Australia (TLA)\tTop Logistics Australia (TLA)\thttp://toplogistics.com.au/\nSinotrans\t中外运香港\thttp://trace.sinotrans.hk/\nOmniParcel\tOmniParcel\thttp://track.omniparcel.com/\nKJY\t跨境翼\thttp://tracking.kjy.com/\nUkrposhta\tUkrposhta\thttp://ukrposhta.ua/\nDEQI\t德启\thttp://web.tpdex.com/\nWest Bank\tWest Bank\thttp://westbankcourier.com/\nBQC\t百千诚物流\thttp://www.1001000.com/\nChina EMS\tChina EMS\thttp://www.11183.com.cn/\n139Express\t139Express\thttp://www.139express.com/\nANT Express\t广州安创\thttp://www.168express.cn/\nFEIA\tFEIA\thttp://www.17feia.com/\nEQT\tEQT\thttp://www.17post56.com/\nEDL\t壹递诺\thttp://www.1dlexpress.com/\nJYC\t金羊城\thttp://www.1hhz.com/\n1STOP\t一站到岸\thttp://www.1stop.net/\n1TONG\t1TONG\thttp://www.1tongexpress.com/\nYMY\tYMY\thttp://www.2ezi-ymy.com/\n1972-04-01 00:00:00\t1972-04-01 00:00:00\thttp://www.4-72.com.co/\nTSE\tTSE\thttp://www.51856.xyz/\nJCYT56\tJCYT56\thttp://www.51jcyt.com/\nEPOS\t深圳宜友\thttp://www.58epos.com/\nED POST\tED POST\thttp://www.666post.com/\n6ZEX\t六洲速通\thttp://www.6zexpress.com/\nBest Inc.\t百世国际\thttp://www.800bestex.com/\nXYL\t兴远国际\thttp://www.816kf.com/\nBEL\t北俄国际\thttp://www.8256ru.com/\nESX Logistics\t八星物流\thttp://www.8starexpress.com/\nAAA Cooper Transportation\tAAA Cooper Transportation\thttp://www.aaacooper.com/\nABF Freight\tABF Freight\thttp://www.abfs.com/\nADA国际\t艾递爱国际\thttp://www.adakd.com/\nCIMC ADS\t中集安达顺\thttp://www.ads-logistics.com/\nAFT\t阿凡提\thttp://www.aft.ltd/\nPP-AIR\t派派国际\thttp://www.airpaipai.com.cn/\nAnjieli express\t安捷利物流\thttp://www.ajlexpress.com/index.html\nAland Post\tAland Post\thttp://www.alandpost.ax/\nAllied Express Transport\tAllied Express Transport\thttp://www.alliedexpress.com.au/\nALLJOY\tALLJOY\thttp://www.alljoylogistics.com/\nAM Home Delivery\tAM Home Delivery\thttp://www.amtrucking.com/index.php\nAngelo Logistics\t安吉诺\thttp://www.angelo-latin.com/\nAO YOU\t澳运国际\thttp://www.aoyunltd.com/\nAramex\tAramex\thttp://www.aramex.com/\nAsendia\tAsendia\thttp://www.asendia.com/\nAsendia USA\tAsendia USA\thttp://www.asendiausa.com/\nASIAFLY\tASIAFLY\thttp://www.asiafly.com.cn/\nAUS\tAUS\thttp://www.asusexp.com/\nATMAD GLOBAL CARGO\t深圳隆诚\thttp://www.atmadcargo.com/\nAtWindow\t在窗\thttp://www.atwindow.com/\nAOS\t澳舜物流\thttp://www.auaos.com/\nYunHui Logistics\t云晖物流\thttp://www.ayh56.com/\nAzer Express Post\tAzer Express Post\thttp://www.azems.az/\nBAB\tBAB\thttp://www.bab-ru.com/\nBasa International\t巴萨国际\thttp://www.basaexp.com/\nBasl Express\tBasl Express\thttp://www.baslexpress.com/\nBCD\t佰舱达\thttp://www.bcdexpress.com/\nBE\t贝乙国际\thttp://www.beiyiguoji56.com/\nBelize Post\tBelize Post\thttp://www.belizepostalservice.gov.bz/\nBulgarian Post\tBulgarian Post\thttp://www.bgpost.bg/\nBhutan Post\tBhutan Post\thttp://www.bhutanpost.bt/\nBlack Arrow Express\tBlack Arrow Express\thttp://www.blackarrow.express/\nBL\t比邻供应链\thttp://www.blexpress.com.cn/\nBONA\t商盟\thttp://www.bnexp.com/\nBODA\t博达捷运\thttp://www.boda-express.com/\nBotswana Post\tBotswana Post\thttp://www.botspost.co.bw/\nBOX\t博克斯供应链\thttp://www.boxexpress.com.cn/\nBOXIN\t博信国际物流\thttp://www.boxinexpress.com:82/\nBpost International\tBpost International\thttp://www.bpost2.be/bpostinternational/track_trace/find.php\nBarbados Post\tBarbados Post\thttp://www.bps.gov.bb/\nBR1\tBR1\thttp://www.br1express.com/\nBRT Bartolini(DPD)\tBRT Bartolini(DPD)\thttp://www.brt.it/\nBSB\t福州八十八\thttp://www.bsbtt.com/\nBSIE\t柏电科技物流\thttp://www.bsiecommerce.com/\nBSI\tBSI\thttp://www.bsiscm.com/\nBTD\tBTD\thttp://www.btdair.com/\nBUFFALO\tBUFFALO\thttp://www.buffaloex.com/\nBuyLogic\t捷买送\thttp://www.buylogic.cc/\nLJKJ56\t蓝鲸物流\thttp://www.b-whale.cn/\nHundred Miles Freight\tHundred Miles Freight\thttp://www.bwwlys.com/\noctopus\t八爪鱼\thttp://www.bzy-sz.com/\nCacesa Postal\tCacesa Postal\thttp://www.cacesapostal.com/\nCanada Post\tCanada Post\thttp://www.canadapost.ca/\nYF518\t袁航电子\thttp://www.cargo518.com/\nJLH\t嘉利华\thttp://www.carnivalsup.cn/\nCBL Logistica\tCBL Logistica\thttp://www.cbl-logistica.com/\nCDEK\tCDEK\thttp://www.cdek.ru/\nCENTEX\t忠进货运\thttp://www.centex.cc/\nCzech Post\tCzech Post\thttp://www.ceskaposta.cz/\nCGS\tCGS\thttp://www.cgs-express.com/\nCD\tCD\thttp://www.chengdaguoji.com.cn/\nSY Express\t顺阳供应链\thttp://www.chengfengexpress.com/\nChronopost\tChronopost\thttp://www.chronopost.fr/\nChukou1\t出口易\thttp://www.chukou1.com/\nCHH\t春红物流\thttp://www.chunhonggyl.com/\nCITITRANS\t亦邦国际\thttp://www.cititrans.com/\nCity Link\tCity Link\thttp://www.citylinkexpress.com/\nYL\t希凯易\thttp://www.ckeex.com/\nDH\t信达全球\thttp://www.cn-atiger.com/\nCND\t辰诺达物流\thttp://www.cndexpress.com/\nCNE\tCNE\thttp://www.cne.com/\nGande\t贛德\thttp://www.cngood56.com/\nLINLONG\tLINLONG\thttp://www.cnllexp.com/index.html\nColis Prive(Colis Privé)\tColis Prive(Colis Privé)\thttp://www.colisprive.com/\nComOne Express\t商壹国际\thttp://www.com1express.net/\nCOMEBOX\t盟塔斯\thttp://www.comebox.cn/\nCompass\tCompass\thttp://www.compass-logistics.com/\nCorreios Brazil\tCorreios Brazil\thttp://www.correios.com.br/\nCorreios Cabo Verde\tCorreios Cabo Verde\thttp://www.correios.cv/\nCorreo Uruguayo\tCorreo Uruguayo\thttp://www.correo.com.uy/\nCorreo Argentino\tCorreo Argentino\thttp://www.correoargentino.com.ar/\nCorreo Paraguayo\tCorreo Paraguayo\thttp://www.correoparaguayo.gov.py/\nCorreos de Cuba\tCorreos de Cuba\thttp://www.correos.cu/\nCorreos Spain\tCorreos Spain\thttp://www.correos.es/\nCorreos Costa Rica\tCorreos Costa Rica\thttp://www.correos.go.cr/\nNicaragua Post\tNicaragua Post\thttp://www.correos.gob.ni/\nCorreo El Salvador\tCorreo El Salvador\thttp://www.correos.gob.sv/\nCorreos Ecuador\tCorreos Ecuador\thttp://www.correosdelecuador.gob.ec/\nMexico Post\tMexico Post\thttp://www.correosdemexico.gob.mx/\nCorreos Panama\tCorreos Panama\thttp://www.correospanama.gob.pa/\nCosco Shipping Air\t中远海运空运\thttp://www.cosco-eglobal.com/\nCOSEX\t浙江慧合\thttp://www.cosex.cn/index\nCourierPlus Nigeria\tCourierPlus Nigeria\thttp://www.courierplus-ng.com/\nCPEX\tCPEX\thttp://www.cpex.ltd/\nCSE\tCSE\thttp://www.cse-exp.com/\nCSIL\t常昇国际\thttp://www.csil-group.com/\nXTOOLS\t超兔供应链\thttp://www.ct-scm.com/\nCTT\tCTT\thttp://www.ctt.pt/\nEASIPASS\t诚约轻松递\thttp://www.cvnlog.com/\nCXE\t宸迅速递\thttp://www.cxe.cc/\nChuangyu Logistics\t创宇物流\thttp://www.cy-express.com/\nDawn Wing (DPD Laser)\tDawn Wing (DPD Laser)\thttp://www.dawnwing.co.za/\nDongdi exp\t东帝国际\thttp://www.ddgj.hailei2018.com/\nDDGYL\t东渡供应链\thttp://www.ddgyl.vip/\nDealfy\tDealfy\thttp://www.dealfy.com/\nDeppon\t德邦\thttp://www.deppon.com/\nDeutsche Post Mail\tDeutsche Post Mail\thttp://www.deutschepost.de/\nDH CITY EXPRESS\tDH城市快递\thttp://www.dhcityexpress.com/\nDHL Parcel (PL)\tDHL Parcel (PL)\thttp://www.dhl.com.pl/\nDHL\tDHL\thttp://www.dhl.com/\nDHL Parcel (ES)\tDHL Parcel (ES)\thttp://www.dhl.es/\nDIDA International Logistics\t嘀嗒国际物流\thttp://www.dida-exp.com/\nDirect Link\tDirect Link\thttp://www.directlink.com/\nDYLogistics\t递亿物流\thttp://www.diyilog.com/\nDaMai Yuncang\t大迈云仓\thttp://www.dmyc1688.com/\nDNJ Express\tDNJ Express\thttp://www.dnjexpress.com/en/\nDOR\t任意门\thttp://www.doragate.com/\nDPD (UK)\tDPD (UK)\thttp://www.dpd.co.uk/\nDPD (DE)\tDPD (DE)\thttp://www.dpd.com/\nDPD (FR)\tDPD (FR)\thttp://www.dpd.fr/\nDPE Express\t递必易\thttp://www.dpe.net.cn/\nDPEX\tDPEX\thttp://www.dpex.com/\nDTDC\tDTDC\thttp://www.dtdc.com/\nDTD\tDTD\thttp://www.dtdexpress.mx/\nDWZ Expres\t递五洲\thttp://www.dwz56.com/\nSZMY\tSZMY\thttp://www.dxd-express.com/\nDYJ\t达运佳\thttp://www.dyjexp.com/\nEbaza\t易巴扎\thttp://www.ebazorgroup.com/\nEBOEXP\t鄂宝\thttp://www.eboexp.com/\nECexpress\tECexpress\thttp://www.ecexpress.com.cn/\nECG\tECG\thttp://www.ecgexpress.com/\nECGO\t易速达\thttp://www.ecgo.group/\nECMS\t易客满\thttp://www.ecmsglobal.com/\nE-commerce KZ\tE-commerce KZ\thttp://www.e-commercekz.com/\nE-Com Shipping Solutions (P) Ltd\tE-Com Shipping Solutions (P) Ltd\thttp://www.ecsspl.com/\nedaycome\t宜日达\thttp://www.edaycome.com/home\neDeliver\t递速易国际\thttp://www.e-delivering.com/\nEgypt Post\tEgypt Post\thttp://www.egyptpost.org/\nELTA\tELTA\thttp://www.elta.gr/\nEMPS Express\t快信快包\thttp://www.empsexpress.com/\nAlgeria EMS\tAlgeria EMS\thttp://www.ems.dz/\nPantos Logistics (LX PANTOS)\tPantos Logistics (LX PANTOS)\thttp://www.epantos.com/\nePOST (인터넷우체국)\tePOST (인터넷우체국)\thttp://www.epost.go.kr/\nEPS CROSS BORDER\t易办事跨境\thttp://www.eps56.com/\nEPP\tEPP\thttp://www.epsglobe.com/\nEPS\tEPS\thttp://www.epsglobe.com/\nEquick\tEquick\thttp://www.equick.cn/\nEritrea Post\tEritrea Post\thttp://www.eriposta.com/\nTopEx\t卓志速运\thttp://www.esdex.com/\neShiper发件网\teShiper发件网\thttp://www.eshiper.com/\nYHT\tYHT\thttp://www.eshippinggateway.com/\nEspost\tEspost\thttp://www.espost.es/\nETEEN\tETEEN\thttp://www.eteenlog.com/\nEthiopian Post\tEthiopian Post\thttp://www.ethiopostal.com/\nPACIFAC\t亿泰\thttp://www.etscp.com/\nEWE Global Express\tEWE全球物流\thttp://www.ewe.com.au/\nExelot\tExelot\thttp://www.exelot.com/\nExwWorld\t沃德通\thttp://www.exwworld.cn/\nEUK\t优客国际\thttp://www.e-youke.com/\nWu Xing Supply Chain\t伍星供应链\thttp://www.faivstar.com/\nFAR International\tFAR International\thttp://www.far800.com/\nfargood\t发个货\thttp://www.fargoodexpress.com/\nFASTSUPPLY\tFASTSUPPLY\thttp://www.fastsupply.cn/\nFastway (ZA)\tFastway (ZA)\thttp://www.fastway.co.za/\nFastway (IE)\tFastway (IE)\thttp://www.fastway.ie/\nBHT\t白海豚\thttp://www.fastzt.com/\nFBADiDi\tFBADiDi\thttp://www.fbadidi.com/\nFCJY\t风驰集运\thttp://www.fcgjwl.com/\nFCKJ\t飞驰供应链\thttp://www.fckjexpress.com/\nFedEx\tFedEx\thttp://www.fedex.com/\nFBB\t摆渡一下\thttp://www.ferryboatlogistics.com/\nFF express\t飞飞物流\thttp://www.ff-ex.com/\nFIRST LINE\t壹号专线\thttp://www.firstline56.com/\nFLGJ\t方联国际物流\thttp://www.flqq56.com/\nFLT\t富路通\thttp://www.fltpost.com/\nFLYT\t飞特物流\thttp://www.flytexpress.com/\nYFM\tYFM\thttp://www.fmgjhy.com/\nFour Seasons\t四季正扬\thttp://www.fourseasonsfly.net/\nFPS Logistics\tFPS Logistics\thttp://www.fpslogistics.in/\nFranch Express\tFranch Express\thttp://www.franchexpress.com/\nFSAC\t四海方舟\thttp://www.fsaclog.com/\nFSQH\t佛山乾和\thttp://www.fsqh.hailei2018.com/Default.aspx\nFstexpress\tFstexpress\thttp://www.fstexpress.com.au/\nFuhai Wulian\t富海物联\thttp://www.fuhai618.com/\nFJEX\tFJEX\thttp://www.fujexp.com/\nGAEA\t盖亚物流\thttp://www.gaeaex.com/\nJSH\t嘉盛泓\thttp://www.galaxy-ex.com/\nGXA\tGXA\thttp://www.gaopost.com/\nGati\tGati\thttp://www.gaticn.com/\nGCT\tGCT\thttp://www.gcmy56.com/\nGZSZHHY\t政豪货运\thttp://www.gd11183.cn/\nASGYL\t安速供应链\thttp://www.gdasgyl.com/\nGDE\t寄递易\thttp://www.gde56.com/\nOUHUA\t欧华\thttp://www.gdouhua.com/\nWSE Logistics\t威速易物流\thttp://www.gdwse.com/\nYLE\t亚龙速运\thttp://www.gdylwl.com/\nGEODIS\tGEODIS\thttp://www.geodis.com/\nGFL Logística\tGFL Logística\thttp://www.gflogistica.com.br/\nGhana Post\tGhana Post\thttp://www.ghanapost.com.gh/\nGHL\t广和物流\thttp://www.ghlcn.com/\nGIMEN\t巨门跨境\thttp://www.gimen56.com/\nGLEX\t远东国际\thttp://www.glex.net.cn/\nTO C LOGISTICS\t途曦物流\thttp://www.globesuccess.com.cn/\nDependable Supply Chain Services\tDependable Supply Chain Services\thttp://www.godependable.com/\nGoFast\t够快供应链\thttp://www.gofastcn.com/\nNepal Post\tNepal Post\thttp://www.gpo.gov.np/\nGFS\t鹏远国际\thttp://www.grand-freight.com/\nGrupo ampm\tGrupo ampm\thttp://www.grupoampm.com/\nSuE\t速俄\thttp://www.gsmbest.club/\nGTI\t跨境易通\thttp://www.gti56.com/\nGTS Express\tGTS Express\thttp://www.gtsexpress.com/\nGYY\t广运源供应链\thttp://www.guangyy56.com/\nGZZD\t广州卓达\thttp://www.guangzhouexcellent.com/\nGYL\t国洋运通\thttp://www.gyang.net/\nHong Hai Chain\t宏海供应链\thttp://www.gzbtygj.com/\nhaohai\t浩海物流\thttp://www.gzhaohai-express.com/\nJS International\t捷晟国际\thttp://www.gzjsgj.com/\nMore Logistics\t茂业物流\thttp://www.gzmywl.com/\nShiFeng\t时丰国际\thttp://www.gzsfgj.com/\nTaiShi\t泰实\thttp://www.gztaishi.com/\nXH\tXH\thttp://www.gzxhgj.com/\nYIFAN\t一帆供应链\thttp://www.gzyfgyl.com/\nYouMeiYuTong\t优美宇通\thttp://www.gzymyt.com/\nHaypost\tHaypost\thttp://www.haypost.am/\nSeashells tong\t海贝通\thttp://www.hbtgj56.com/\nHuaHang\t华航吉运\thttp://www.hhjy56.cn/\nHHY\t恒好运\thttp://www.hhyexpress.com/\nHJ-GYL\tHJ-GYL\thttp://www.hj-sc56.com/\nHJYT\tHJYT\thttp://www.hjyt56.com/\nHKD\tHKD\thttp://www.hkdexpress.net/\nPickupp (HK)\tPickupp (HK)\thttp://www.hkpickup.com/\nHENGLONG GROUP\t恒龙集团\thttp://www.hlongcargo.com/\nHMG\t黄马褂\thttp://www.hmg-express.com/\nHMTM\t华美天马国际\thttp://www.hmtmcn.com/\nHNCA Logistics\t河南航投物流\thttp://www.hnhtyxgs.com/\nTRUSTONE\t全速通\thttp://www.hnqst.cn/\nCorreos de Honduras\tCorreos de Honduras\thttp://www.honducor.gob.hn/\nHongKong Post\tHongKong Post\thttp://www.hongkongpost.hk/\nHonor Logistics\t荣耀国际\thttp://www.honorlogistics.cn/\nYechain\t易链供应链\thttp://www.hopailogtech.com/\nHOS\t上海鸿沃\thttp://www.hos-exp.com/\nHOSTO\t豪速通物流\thttp://www.hostoexp.com/\nHound Express\tHound Express\thttp://www.hound-express.com/\nHOYANGexpress\t弘扬物流\thttp://www.hoyangexpress.com/\nHeping Logistics\t禾平物流\thttp://www.hpgjwl.com/\nHQGJXB\tHQGJXB\thttp://www.hqgjhy.cn/\nHRD\tHRD\thttp://www.hrgjzx.com/\nHSD Express\t鸿盛达国际\thttp://www.hsd-ex.com/\nHuasheng INT\t华昇国际\thttp://www.hsgjky.com/\nHSGJ\t华商国际\thttp://www.hsscm-ltd.com/\nZL international\t纵联国际\thttp://www.hsylian.com/\nHUANSHI56\t环世货运\thttp://www.huanshi56.com/\nHuaXi Express\t华熙国际\thttp://www.huaxiexpress.com/\nHUIN Logistics\t惠恩物流\thttp://www.huinglobal.com/\nHuodull\tHuodull\thttp://www.huodull.com/\nHX\t鸿鑫物流\thttp://www.hxgj-exp.com/\nHengxun Logistics\t恒巽物流\thttp://www.hxlog.net/\nHaixin Express\t海鑫运通\thttp://www.hxyt56.cn/\nHYE\t环洋国际\thttp://www.hyexp.net/\nHY Express\t浩远国际\thttp://www.hy-express.com/\n环越国际专线\t环越国际专线\thttp://www.hyfba.cn/\nHY\t恒元嘉运\thttp://www.hyjy-exp.com/\nHYTX\tHYTX\thttp://www.hytx-exp.com/\nWiio\tWiio\thttp://www.hzpdex.com/\nHZZH\t镇航国际\thttp://www.hzzhexp.com/\nJTEX\tJTEX\thttp://www.i360express.com/\nBeone\tBeone\thttp://www.ibeone.com/\nILS\t纵横国际物流\thttp://www.ilsau.com/\nAML\t艾姆勒\thttp://www.imlexpress.cn/\nIndia Post\tIndia Post\thttp://www.indiapost.gov.in/\nInposdom\tInposdom\thttp://www.inposdom.gob.do/\ni-Parcel\ti-Parcel\thttp://www.i-parcel.com/\nRwanda Post\tRwanda Post\thttp://www.i-posita.rw/\nIsrael Post\tIsrael Post\thttp://www.israelpost.co.il/\nSunnyway\tSunnyway\thttp://www.isunnyway.com/\nJamaica Post\tJamaica Post\thttp://www.jamaicapost.gov.jm/\nFengji Global\t丰集环球\thttp://www.jb-wwsc.com/\nJCEX\t佳成国际\thttp://www.jcex.com/\nJiedan logistics\t捷丹集运\thttp://www.jdexp.cn/\nJiede supply chain\t捷德供应链\thttp://www.jdgjwl.com/\nJersey Post\tJersey Post\thttp://www.jerseypost.com/\nJ&T Express (ID)\tJ&T Express (ID)\thttp://www.jet.co.id/\nJASPOST\tJASPOST\thttp://www.jexpress88.com/\nJH\t杰航国际物流\thttp://www.jiehang.net/\nJiyun logistic\t极运物流\thttp://www.jiepress.com\nJINLAI\t金来物流\thttp://www.jinlaiexpress.com/\nJinyue Freight\t今越国际\thttp://www.jinyuefreight.com/\nJiuFang\tJiuFang\thttp://www.jiufanglogistics.com/\nJJWEX\t捷立国际\thttp://www.jjwex.com/\nKING KERRY\t金开宇国际物流\thttp://www.jky-express.com/\nJ-NET\t捷网\thttp://www.j-net.cn/\nJocom\tJocom\thttp://www.jocom.my/\nJordan Post\tJordan Post\thttp://www.jordanpost.com.jo/\nJQGJ\t景强国际\thttp://www.jqgjwl.com/\nJINSHIDA\t金世达\thttp://www.jsdgj56.cn/\nJS\t急速国际\thttp://www.js-exp.com/\nJ&T Express (CN)\tJ&T Express (CN)\thttp://www.jtexpress.com.cn/\nJUNYA\t广州骏亚\thttp://www.junya56.com/\nSHJX\t上海驹隙\thttp://www.juxiex.com/\nLTIAN EXP\t佳邮国际\thttp://www.jygjexp.com/\n剑展物流\t剑展物流\thttp://www.jzexp.com.cn/en/\nJZGJ\t嘉至国际\thttp://www.jzgjgyl.com/\nFSGJ\t飞速国际\thttp://www.kd1913.com/\nBJL\t棒极啦\thttp://www.kdbjL.com/\nKerry Express\t嘉里快递\thttp://www.kerryexpress.com.tw/\nST\tST\thttp://www.kgy58.com/\nKing Kong Express\t京广速递\thttp://www.kke.com.hk/\nKomon\t可蒙国际\thttp://www.komonexpress.com/\nKPK\t凯尔凯\thttp://www.kpksz.com/\nKrexi international\t坤翔国际\thttp://www.krexi.com/\nKuaJing Line\t跨境在线\thttp://www.kuajingline56.com/\nKTD\tKTD\thttp://www.kuatongda.com/\nKunYi\t鲲一\thttp://www.kunyiyc.com/\nYamato (ヤマト運輸)\tYamato\thttp://www.kuronekoyamato.co.jp/\nKwai Bon\t桂邦运输\thttp://www.kwaibon.com/\nKWT\t京华达物流\thttp://www.kwt56.com/\nKYLIN\t麒麟海外仓\thttp://www.kylinowms.com/\nLambor Logistics\t兰博全球小包物流\thttp://www.lamborlogistics.com/\nEnterprise des Poste Lao\tEnterprise des Poste Lao\thttp://www.laopost.com.la/\nEnterprise des Poste Lao (APL)\tEnterprise des Poste Lao (APL)\thttp://www.laopostapl.com/\nLa Poste De Benin\tLa Poste De Benin\thttp://www.laposte.bj/\nLa Poste (Colissimo)\tLa Poste (Colissimo)\thttp://www.laposte.fr/\nLa Poste De Senegal\tLa Poste De Senegal\thttp://www.laposte.sn/\nLa Poste De Togo\tLa Poste De Togo\thttp://www.laposte.tg/\nLiBang Logistics\t立邦国际物流\thttp://www.lbexps.com/\nLCDGYL\t联超达供应链\thttp://www.lcdgyl.com/\nLEDii\t乐递供应链\thttp://www.ledii.cn/\nLHE\t龙浩速运\thttp://www.lh-express.cn/\nLHG\tLHG\thttp://www.lianhegj56.com/\nLiban Post\tLiban Post\thttp://www.libanpost.com/\nLingXun Logistics\t领讯物流\thttp://www.lingxun.top/\nLink Bridge\tLink Bridge\thttp://www.link-bridge.com.cn/\nLinked-see\t灵犀物流\thttp://www.linked-see.com/\nLLGJ\t路龙国际\thttp://www.llgj.ltd/\nLogisters\t随波物流\thttp://www.logisters.com/\nAsigna\tAsigna\thttp://www.logisticacanaria.es/\nLogistics Tracking\tLogistics Tracking\thttp://www.logisticstracking.cn/\nZHXT Express\t纵横迅通国际\thttp://www.lonfennerlogistic.com/\nLY\tLY\thttp://www.longyuanint.com/\nLTEXP\t乐天速递\thttp://www.ltexp.com.cn/\nLWE\tLWE\thttp://www.lwe.asia/\nLeiYi international logistics\t深圳市雷翼国际物流有限公司\thttp://www.ly-b2c.com/\nLZFBA\t乐众物流\thttp://www.lzfba.cn/\nMacau Post\tMacau Post\thttp://www.macaupost.gov.mo/\nMadrooex\tMadrooex\thttp://www.madrooex.com/\nMaldives Post\tMaldives Post\thttp://www.maldivespost.com/\nMalta Post\tMalta Post\thttp://www.maltapost.com/\nMASSPACK\t千百包\thttp://www.masspack-express.com/\nMauritius Post\tMauritius Post\thttp://www.mauritiuspost.mu/\nMAXPRESS\tMAXPRESS\thttp://www.maxway-logistics.com/\nDream & Love\t梦和爱\thttp://www.mhafly.com/\nMingda\t明大国际物流\thttp://www.mingda-express.com/\nMIUSON\t淼信国际\thttp://www.miuson.net/\nMKD\t美卡多物流\thttp://www.mkdexpress.com.mx/\nMake Fly\t迈客丰国际物流\thttp://www.mkf56.com\nMongol Post\tMongol Post\thttp://www.mongolpost.mn/\nMORELINK\tMORELINK\thttp://www.morelink56.cn\nMSD\t魔速达\thttp://www.mosuda.com/\nM-Trust\t上海淼信\thttp://www.mxe56.com/\nMXL\t民祥国际\thttp://www.mxlexp.com/\nMYD\t满壹滴\thttp://www.mydservice.cn/\nMeiyi\t美易国际\thttp://www.my-express.cn/\nHermes (DE)\tHermes (DE)\thttp://www.myhermes.de/\nMingzhi\t铭志国际\thttp://www.mz56.com/\nYuanHao Logistics\tYuanHao Logistics\thttp://www.mzlyuanhao.com/\nNamibia Post\tNamibia Post\thttp://www.nampost.com.na/\nNEW ASIA\t新细亚\thttp://www.newasia99.com/\nNUO\tNUO\thttp://www.nuo56.com/\nNuoyu supply chain\t诺誉供应链\thttp://www.nygyl.com/\nNew Zealand Post\tNew Zealand Post\thttp://www.nzpost.co.nz/\nOCA\tOCA\thttp://www.oca.com.ar/\nOCS Express\tOCS 国际快递\thttp://www.ocschina.com/\nOuguan supply chain\t鸥冠供应链\thttp://www.oggyl.com/\nOGI\t万国国际\thttp://www.ogicn.com/\nOU JIE\t欧捷\thttp://www.ojexpress.cn/\nOne Express\t一速递\thttp://www.one-express.cn/\nOne World\tOne World\thttp://www.oneworldexpress.com/\nONTASK EXPRESS\t安时达\thttp://www.ontaskd2d.com/\nOPT-NC\tOPT-NC\thttp://www.opt.nc/\nOptima\tOptima\thttp://www.optimacourier.com/\nOrange Connex\t橙联\thttp://www.orangeconnex.com/\n埃德维OTW\t埃德维OTW\thttp://www.otwex.com/\nOulala\tOulala\thttp://www.oulala-express.com/\nEzex\t轻松速达\thttp://www.owdiex.com/\nPostNord Danmark\tPostNord Danmark\thttp://www.pakkeboksen.dk/\nPakistan Post\tPakistan Post\thttp://www.pakpost.gov.pk/\neTotal\teTotal\thttp://www.paktrac.com/\nPAL Express\tPAL Express\thttp://www.palexpress.com.hk/\nPalestine Post\tPalestine Post\thttp://www.palpost.ps/\nParcelforce\tParcelforce\thttp://www.parcelforce.com/\nParceljet\t派速捷\thttp://www.parceljet.com/\nLatvia Post\tLatvia Post\thttp://www.pasts.lv/\nPFC\t皇家物流\thttp://www.pfcexpress.com/\nPFLogistics\tPFLogistics\thttp://www.pflogistics.com.au/\nPaFeiTe\t帕菲特\thttp://www.pftlogistics.cn/\nPGL\t广州派菲顾\thttp://www.pgl.hk/\nPigeon Logisitcs\t飞鸽物流\thttp://www.pigeon56.com/\nPingdaguoji\t平达国际\thttp://www.pingda56.com.cn/\nPinke\t上海品客\thttp://www.pkgjwl.com/\nUzbekistan Post\tUzbekistan Post\thttp://www.pochta.uz/\nPoland Post\tPoland Post\thttp://www.poczta-polska.pl/\nPos Malaysia\tPos Malaysia\thttp://www.pos.com.my/\nAustrian Post\tAustrian Post\thttp://www.post.at/\nBrunei Post\tBrunei Post\thttp://www.post.gov.bn/\nJapan Post\tJapan Post\thttp://www.post.japanpost.jp/\nLithuania Post\tLithuania Post\thttp://www.post.lt/\nLuxembourg Post\tLuxembourg Post\thttp://www.post.lu/\nYemen Post\tYemen Post\thttp://www.post.ye/\nJP BH Post\tJP BH Post\thttp://www.posta.ba/\nKenya Post\tKenya Post\thttp://www.posta.co.ke/\nTanzania Post\tTanzania Post\thttp://www.posta.co.tz/\nFaroe Post\tFaroe Post\thttp://www.posta.fo/\nCroatian Post\tCroatian Post\thttp://www.posta.hr/\nMoldova Post\tMoldova Post\thttp://www.posta.md/\nSerbia Post\tSerbia Post\thttp://www.posta.rs/\nSlovenia Post\tSlovenia Post\thttp://www.posta.si/\nSlovakia Post\tSlovakia Post\thttp://www.posta.sk/\nMontenegro Post\tMontenegro Post\thttp://www.postacg.me/\nPosta Plus\tPosta Plus\thttp://www.postaplus.com/\nRomania Post\tRomania Post\thttp://www.posta-romana.ro/\nAruba Post\tAruba Post\thttp://www.postaruba.com/\nAlbanian Post\tAlbanian Post\thttp://www.postashqiptare.al/\nBurundi Post\tBurundi Post\thttp://www.poste.bi/\nAlgeria Post\tAlgeria Post\thttp://www.poste.dz/\nPoste Italiane\tPoste Italiane\thttp://www.poste.it/\nMorocco Post\tMorocco Post\thttp://www.poste.ma/\nSan Marino Post\tSan Marino Post\thttp://www.poste.sm/\nLa Poste De Tunisia\tLa Poste De Tunisia\thttp://www.poste.tn/\nNorway Post\tNorway Post\thttp://www.posten.no/\nFiji Post\tFiji Post\thttp://www.postfiji.com.fj/\nPosti\tPosti\thttp://www.posti.fi/\nPostNL International Mail\tPostNL International Mail\thttp://www.postnl.post/\nPostNord Sweden\tPostNord Sweden\thttp://www.postnord.se/\nPostPlus\tPostPlus\thttp://www.post-plus.net/\nPNG Post\tPNG Post\thttp://www.postpng.com.pg/\nIceland Post\tIceland Post\thttp://www.postur.is/\nPTT\tPTT\thttp://www.ptt.gov.tr/\nPY Express\t派优供应链\thttp://www.py-express.net/\nPPEX\tPPEX\thttp://www.pyt56.com/\nGPL\t全程动力\thttp://www.qcdlex.com/\nINTEL-VALLEY\t智谷供应链\thttp://www.qhzhigu.com/\nQuick&Perfct\t快美物流\thttp://www.qpe56.com/\nQuickway\tQuickway\thttp://www.quickway-sc.com/\nQxpress\tQxpress\thttp://www.qxpress.net/\nQYEXP\t前雨国际\thttp://www.qyexp.cn/\nQyun\t青云物流\thttp://www.qyunexpress.com/\nDingDian\t丁点集运\thttp://www.rcostp.com/\nRCT\t润成通\thttp://www.rct56.com/\nRedbox\tRedbox\thttp://www.redboxsz.com/\nRHM\tRHM\thttp://www.rheymah.net/\nRINCOS\tRINCOS\thttp://www.rincos.co.kr/\nGibraltar Post\tGibraltar Post\thttp://www.royalgibraltar.post/\nRoyal Mail\tRoyal Mail\thttp://www.royalmail.com/\nRUE\t如易\thttp://www.ruecom.cn/\nRunbai\t润百\thttp://www.runbail.com/\nRFL\t润峯物流\thttp://www.runforint.com/\nSafexpress\tSafexpress\thttp://www.safexpress.com/\nSaFly\t吉飞国际物流\thttp://www.safly.net/\nSagawa (佐川急便)\tSagawa (佐川急便)\thttp://www.sagawa-exp.co.jp/\nSailpost\tSailpost\thttp://www.sailpost.it/\nSapphire Box\tSapphire Box\thttp://www.sapphirebox56.com\nSBD\tSBD\thttp://www.sbd-scm.com/\nSCGJ\t拾诚国际\thttp://www.scgj56.net/\nSDA\tSDA\thttp://www.sda.it/\nSDK\t斯德克\thttp://www.sdk-express.cn/\nSeino (西濃運輸)\tSeino (西濃運輸)\thttp://www.seino.co.jp/en/\nSendex\tSendex\thttp://www.sendex.mx/\nSerpost\tSerpost\thttp://www.serpost.com.pe/\nSeychelles Post\tSeychelles Post\thttp://www.seychelles-post.com/\nSFC\t三态速递\thttp://www.sfcservice.com/\nSFYD Express\t云速递\thttp://www.sfydexpress.com/\nSGHグローバル (Sagawa Global)\tSGHグローバル (Sagawa Global)\thttp://www.sgh-globalj.com/\nShang Fang\t尚方国际\thttp://www.shangfang56.com/\nSHDJ\tSHDJ\thttp://www.shdingju.com/\nSHE\t森鸿国际\thttp://www.showl.com/\nQEP\t强焱国际物流\thttp://www.shqyexp.com/\nShreeAnjani\tShreeAnjani\thttp://www.shreeanjanicourier.com/\nShree Nandan Courier Limited\tShree Nandan Courier Limited\thttp://www.shreenandancourier.com/\nSHREE TIRUPATI COURIER\tSHREE TIRUPATI COURIER\thttp://www.shreetirupaticourier.net/\nSHT\tSHT\thttp://www.shthn.com/\nTJ-EXP\t淘晶货运\thttp://www.shtjkd.com/\nWise Express\t万色速递\thttp://www.shwise.cn/\nSM\t赛米国际\thttp://www.simingj.com/\nSingapore Post\tSingapore Post\thttp://www.singpost.com/\nSinodidi\t外运迪迪\thttp://www.sinodidiexpress.com/\nSenJieTong\tSenJieTong\thttp://www.sjtgyl.com/\nSkynet\tSkynet\thttp://www.skynet.net/\nSL56\tSL56\thttp://www.sl56.com/\nSri Lanka Post\tSri Lanka Post\thttp://www.slpost.gov.lk/\nSLT\t胜利通\thttp://www.sltgjkd.com/\nSMSA Express (سمسا)\tSMSA Express (سمسا)\thttp://www.smsaexpress.com/\nBMURFS Express\t蓝精灵速递\thttp://www.smurfsexpress.com/\nSoarMall\t速猫\thttp://www.soarmall.com/\nSOLID LOGISTICS\t上海昌迈\thttp://www.solidlogistics.cn/\nSolomon Post\tSolomon Post\thttp://www.solomonpost.com.sb/\nSonapost\tSonapost\thttp://www.sonapost.bf/\nSouth American Post\t南美邮联\thttp://www.southamericapost.com/\nSPEEDEX\tSPEEDEX\thttp://www.speedex.gr/\nSprintPack\t欧速通\thttp://www.sprintpack.com.cn/\nShangqi International Logistics\t上启国际物流\thttp://www.sqgjexp.com/\nSSC\t加速供应链\thttp://www.sscexp.com/\nSTADT\t施塔特\thttp://www.stadt.com.cn/\nSGF\tSGF\thttp://www.starglobal.com.cn/\nStar-Wish\t星希望供应链\thttp://www.star-wish.cn/\nSuteng Logistics\t速腾物流\thttp://www.ste56.com/\nSaint Lucia Post\tSaint Lucia Post\thttp://www.stluciapostal.com/\nSTO Express\t申通快递\thttp://www.sto.cn/\nST CARGO\t世拓物流\thttp://www.stockcargo.cn/\nSTO Global\t申通国际\thttp://www.stosolution.com/\nYIDA\t宜达物流\thttp://www.styida.com.cn/\nSUGOUEX\t速购速递\thttp://www.sugouex.com/\nSUMTOM\tSUMTOM\thttp://www.sumtom.cn/\nSunson\t燊鑫国际物流\thttp://www.sunsonexpress.com/\nSuto Logistics\t速通物流\thttp://www.sut56.com/\nSYD\t速邮达物流\thttp://www.suyd56.com/\nSVG Post\tSVG Post\thttp://www.svgpost.gov.vc/\nSIXU\t斯旭国际\thttp://www.sxexp.cn/\nSaiyascm\t塞亚国际\thttp://www.syascm.com/\nSynShip\tSynShip\thttp://www.synship.com/\nSUNYOU\t顺友物流\thttp://www.sypost.com/\nSyrian Post\tSyrian Post\thttp://www.syrianpost.gov.sy/\nac logistics\tac logistics\thttp://www.sz-ac56.com/\nAnjun\t安骏物流\thttp://www.szanjun.com/\nCCE\t世纪汇速递\thttp://www.szcce.cn/\nCHENGTONG\t程通\thttp://www.szctgyl.com/\nJL56\tJL56\thttp://www.szdk56.com/\nEAC\t富皇美运\thttp://www.szeac.com/\nEdlon Logistics\t誉德隆物流\thttp://www.szedlon.com/\nEnyuan International\tEnyuan International\thttp://www.szenyuan.com/\nHHH\t海河汇\thttp://www.szhhh56.com/\nHH logistics\tHH logistics\thttp://www.szhhhy.cn/\nJDY\t金斗云\thttp://www.szjdy.ltd/\nJiashida\t佳仕达供应链\thttp://www.szjsdgyl.com/\nSZJY\t神州集运\thttp://www.szjy188.com/\nOUYOU INTERNATIONALITY\t欧邮国际\thttp://www.szouyou.cn/\nPago\t派格国际\thttp://www.szpago.com/\nBright Future Supply Chain\t前程似锦供应链\thttp://www.sz-qcsj.com/\nTDE\tTDE\thttp://www.sztdgyl.com/\nTTGJ\t通途国际\thttp://www.szttgj.com/\nTY\t腾宇国际\thttp://www.sztygj.net/\nSZ Xinhe\t欣和物流\thttp://www.szxhgl.com/\nXHY\t星鸿运\thttp://www.szxhy.hailei2018.com/\nXYTKJ\t鑫运通跨境\thttp://www.szxytkj.com/\nYiFan\t毅帆\thttp://www.szyifan56.com/\nTake Send\t泰嘉物流\thttp://www.takesend.com/\nTBS\t淘布斯\thttp://www.taoplus.cc/\nTonda Global\t通达全球\thttp://www.tarrive.com/\nT-CAT\tT-CAT (黑猫宅急便)\thttp://www.t-cat.com.tw/\nlerdex\t乐易汇\thttp://www.tdexpress.net/\nCNOR\tCNOR\thttp://www.tflcn.com/\nTFS\t天府盛\thttp://www.tfs906.com/\nTWTH\t拓威天海\thttp://www.th99.com/\nTSCB\t天盛跨境\thttp://www.tianshengsc.com/\nTinzung\tTinzung\thttp://www.tianzongsc.com/\nTXExpress\t贴心物流\thttp://www.tie-xin.com.tw/\nTJGJ\t腾嘉国际\thttp://www.tjexp.com/\nTMG\tTMG\thttp://www.tmg-group.jp/\nTNT\tTNT\thttp://www.tnt.com/\nTNT (FR)\tTNT (FR)\thttp://www.tnt.fr/\nToll\tToll\thttp://www.tollgroup.com/\nTonami\tTonami\thttp://www.tonami.co.jp/\nTonga Post\tTonga Post\thttp://www.tongapost.to/\nTop Post\t鼎邮国际货运\thttp://www.toppost.cn/\nTufan\tTufan\thttp://www.tuf-express.com/\nTuvalu Post\tTuvalu Post\thttp://www.tuvalupost.tv/\nTWB\t伯聚世通\thttp://www.twbgo.com/\nTianzi\tTianzi\thttp://www.tzexp.com/\nTZT\tTZT\thttp://www.tzgjwl.cn/\nUBI\tUBI\thttp://www.ubismartparcel.com/\nUC Express\t优速快递\thttp://www.uce.cn/\nuCorreos\t环球通\thttp://www.ucorreos.com/\nUCS\t合众速递\thttp://www.ucsus.net/\nuda International\t韵达国际\thttp://www.udalogistic.com/\nUganda Post\tUganda Post\thttp://www.ugapost.co.ug/\nUnited Delivery Service\tUnited Delivery Service\thttp://www.uniteddeliveryservice.com/\nUPS\tUPS\thttp://www.ups.com/\nUsky\tUsky\thttp://www.uskyexpress.com/\nU-Speed\t优时派\thttp://www.u-speedex.com/\nUSPS\tUSPS\thttp://www.usps.com/\nUTEC\tUTEC\thttp://www.utec.info/\nUVAN\tUVAN\thttp://www.uvan56.com/\nUXTX\t邮行天下\thttp://www.ux-exp.com/\nVanuatu Post\tVanuatu Post\thttp://www.vanuatupost.vu/\nVietNam Post\tVietNam Post\thttp://www.vnpost.vn/\nWALLABY EXPRESS\t小袋鼠\thttp://www.wallabyglobal.com/\nWanb Express\tWanb Express\thttp://www.wanbexpress.com/\nWCX\t伟成国际\thttp://www.wcxex.com/\nWEISA\t威飒国际\thttp://www.weisagroup.com/\nWEL\tWEL\thttp://www.we-logistics.com/\nWESTLINK\tWESTLINK\thttp://www.westlinkintl.com/\nWHER EXPRESS\t威盛快递\thttp://www.wherexpress.com/\nWHT\t五和通\thttp://www.whtexpress.com/\nWINIT\t万邑通\thttp://www.winit.com.cn/\nVnlin\t合联国际\thttp://www.winlinklogistics.com/\nWM\t万盟云仓\thttp://www.wmycc.com/\nSW Express\tSW Express\thttp://www.world-express.com/\nVAU\t华邮国际\thttp://www.wuvay.com/cn/index.html\nWynn Express\t永利运通\thttp://www.wynn-express.com/\nWan Yuntong\t万运通\thttp://www.wyt-express.com/\nXC international logistics\t湘诚国际物流\thttp://www.xcexp.cn/\nLEX\tLEX\thttp://www.xdlex.com/\nStaron\t星橙物流\thttp://www.xingchengwuliu.com/\nXINGSU\t星速货运\thttp://www.xingsuexp.com/\nXYY\tXYY\thttp://www.xingyunyi.cn/\nXinyan international\t心妍物流\thttp://www.xin-logistics.cn/\nXJWL\t雄九物流\thttp://www.xiongjiu168.com/\nXinMaTai\t新马泰\thttp://www.xmtgyl.com/\nXpressbees\tXpressbees\thttp://www.xpressbees.com/\nXQC\t修青春\thttp://www.xqcusps.com/\nXQE\t星前物流\thttp://www.xqkjwl.com/\nxslong\t兴胜隆\thttp://www.xslong.com.cn/\nXT\t迅田国际\thttp://www.xtl163.com/\nXUNHE\t讯合国际\thttp://www.xunhefba.com/\nXXD\t上海享享达\thttp://www.xxdexp.com/\nXXZ365\t先行者\thttp://www.xxz365.com/\nSZXYD LOGISTICS\t鑫翼达\thttp://www.xydfreight.com/\nxyexp\t兴源供应链\thttp://www.xyexp.com/\nYJI\tYJI\thttp://www.yanjin-gj.com/\nYBD\t邮必达\thttp://www.ybdexpress.com/\nYC\tYC\thttp://www.ycex.cn/\nYCGJ\t永财国际\thttp://www.ycex-cn.com/\nYD LOGISTICS\tYD LOGISTICS\thttp://www.ydcn666.com/\nYIDST\tYIDST\thttp://www.ydex.cn/\nYDS\tYDS\thttp://www.ydexp.com/\nYDH\tYDH\thttp://www.ydhex.com/\nYDM\t壹斗米\thttp://www.ydm-express.com/\nYDT\t易达通\thttp://www.ydt-express.com/\nYDYT\t易达运通\thttp://www.ydyt56.com/\nYeeda\t易达联运\thttp://www.yeeda909.com/\nYes-speed\t元速航空\thttp://www.yes-speed.com/\nYFH\t原飞航\thttp://www.yfhex.com/\nYifeng\t一丰集运\thttp://www.yfji.net/\nYHA\tYHA\thttp://www.yhe56.com/\nYHT\t运货通\thttp://www.yhtcargo.com/\nYES\tYES\thttp://www.yingshunexpress.com/\nYJ\t运匠物流\thttp://www.yjwl-express.com/\nYL\tYL\thttp://www.ylexp.com/\nAm-logistics\t亚马迅物流\thttp://www.ymxgz.cn/\nYOUDA\t优达国际\thttp://www.youdaguoji.com/\nYWGJ\t有为国际\thttp://www.youwei-china.com/\nYunPai56\t云派物流\thttp://www.yp56.com/\nYSD\tYSD\thttp://www.ysdgj56.com/\nYSDPOST\t优时达\thttp://www.ysdpost.com/\nYoutai\t优泰\thttp://www.ytgj188cn.com/\nInterlet\t英特莱特\thttp://www.ytltkd.com/\nYTO Express\t圆通速递\thttp://www.yto.net.cn/\nYuchi International\t雨驰国际\thttp://www.yuchi2021.com/\nYDGJ\t杭州宇地\thttp://www.yudiexp.com/\nYuetu\t跃兔\thttp://www.yuetuexpress.com/\nYUEX LOGISTICS\t悦翔物流\thttp://www.yuex-exp.com/\nYuhong\t豫虹国际\thttp://www.yuhongexpress.com/\nYUNLEMA\t运了吗\thttp://www.yunlema.com/\nYUU\t云邮\thttp://www.yun-post.com/\nYUNQI\t云旗国际\thttp://www.yunqishipping.com/\nYZY\tYZY\thttp://www.yunzyou.com/\nYUTENG\tYUTENG\thttp://www.yutengguoji.com/\nYANWEN\t燕文物流\thttp://www.yw56.com.cn/\nYFZX\tYFZX\thttp://www.ywyfgj.com/\nYXIL\t悦希物流\thttp://www.yxilogistics.com/\nYYEXPRESS\tYYEXPRESS\thttp://www.yyexpress.com/\nYYpost\tYYpost\thttp://www.yypostal.com/\nSLICITY\t顺联城物流\thttp://www.yz-ex.com/\nZ1Express\t宙一物流\thttp://www.z1express.com/\nZambia Post\tZambia Post\thttp://www.zampost.com.zm/\nZCE\t上海翼速\thttp://www.zce-exp.com/\nZhicheng\t智诚国际\thttp://www.zc-yt.com/\nZDSD\tZDSD\thttp://www.zd-express.cn/\nEshun\tEshun\thttp://www.zes-express.com/\nZFEX\tZFEX\thttp://www.zf-ex.com/\nZGL\tZGL\thttp://www.zhiguil.com/\nZHMY\tZHMY\thttp://www.zhmy.vip/\nPstZX\tPstZX\thttp://www.zhongxin518.cn/\nZimbabwe Post\tZimbabwe Post\thttp://www.zimpost.co.zw/\nZhijiedaSupplyChain\t智杰达供应链\thttp://www.zjd123.cn/\nZHONGLING\t中领国际\thttp://www.z-leading.com/\nAllRoad\t众鹿跨境物流\thttp://www.zlwww.vip/\nZhongpeng\t中鹏供应链\thttp://www.zp56.com\nZSDExpress\t转瞬达集运\thttp://www.zsda56.com/\nZST\tZST\thttp://www.zstgj.com/\nZT\tZT\thttp://www.zt.hailei2018.com/\nTocinda\t至信达\thttp://www.zxdexpress.com/\nZXG\tZXG\thttp://www.zxlogs.ltd/\nZY56\t中运国际供应链\thttp://www.zy56gz.com/\nZYEX\tZYEX\thttp://www.zyouexpress.com/\nMCTrans\t马可达\thttp://www1.mctransexpress.cn/\nXS Express\t新树物流\thttp://xs-exp.com/\nYC LOGISTICS\t煜诚国际\thttp://yc-express.com.cn/\nChina Post\t中国邮政\thttp://yjcx.ems.com.cn/\nYona Express\tYona Express\thttp://yona-express.com/\nYuegejing\t越个境\thttp://yuegejing.com/\nKYD\t快易达\thttp://yuncang321.cn/\nyouyiex\t邮易仓\thttp://yygj.youyiex.com/\nZTT\tZTT\thttp://zhiteng.biz/\nZSGJ\t中速国际\thttp://zsgjky.com/\nzhixian\t直线供应链\thttps://1592597785qpa.scd.wezhan.cn/\nA1 POST\tA1 POST\thttps://a1post.bg/\nACI Logistix\tACI Logistix\thttps://acilogistix.com/\nDHL ACTIVETRACING\tDHL ACTIVETRACING\thttps://activetracing.dhl.com/\nAfterHaul\t航飞速达\thttps://afterhaul.com/\nMTS\t微霆速\thttps://aftervehicle.com/\nAirpak Express\tAirpak Express\thttps://airpak-express.com/\nAJEX\tAJEX\thttps://aj-ex.com/\nAllegro\tAllegro\thttps://allegro.pl/\nAmbroExpress\tAmbroExpress\thttps://ambroexpress.pl/\nAnteraja\tAnteraja\thttps://anteraja.id/\nAPG eCommerce\tAPG eCommerce\thttps://apgecommerce.com/\nGoGo Xpress\tGoGo Xpress\thttps://app.gogoxpress.com/track\nAquiline\tAquiline\thttps://aquiline-tracking.com/\nArcBest (Panther)\tArcBest (Panther)\thttps://arcb.com/\nA Tiempo Cargo\tA Tiempo Cargo\thttps://atiempocargo.com/\nA TU HORA EXPRESS\tA TU HORA EXPRESS\thttps://atuhoraexpress.com/\nInterparcel (AU)\tInterparcel (AU)\thttps://au.interparcel.com/\navent Logistics\tavent Logistics\thttps://aventlogistic.com/\nAxleHire\tAxleHire\thttps://axlehire.com/\nBrazil Border\tBrazil Border\thttps://bbexp.com.br/\nBETA\t骆迈通\thttps://betashipping.mysxl.cn/\nBIG Smart\tBIG Smart\thttps://bigsmart.mx/\nBLACKHAUL\tBLACKHAUL\thttps://blackhaul.com.au/\nBosta\tBosta\thttps://bosta.co/\nBoxberry\tBoxberry\thttps://boxberry.ru/\nBoxC\tBoxC\thttps://boxc.com/\nBoxme\tBoxme\thttps://boxme.asia/\nBreeze\tBreeze\thttps://breezeaircargo.com\nBudbee\tBudbee\thttps://budbee.com/\nBUFFALO (ZA)\tBUFFALO (ZA)\thttps://buffaloex.co.za/\nC&C Co.,Ltd\tC&C Co.,Ltd\thttps://candc-stexpress.com/\nonetouch-tech\t链仓科技\thttps://cargodiscovery.com/\nCrossCountry Freight\tCrossCountry Freight\thttps://ccfs.com/\nCDL Last Mile\tCDL Last Mile\thttps://cdldelivers.com/\nCeleritas\tCeleritas\thttps://celeritastransporte.com/en/\nChilexpress\tChilexpress\thttps://chilexpress.cl/\nCC logistics\t诚晨物流\thttps://chinaccscm.com/\nChit Chats\tChit Chats\thttps://chitchats.com/\nChronopost Morocco\tChronopost Morocco\thttps://chronopost.ma/\nCJ\t促佳\thttps://cjdropship.com/\nDMF\t斗满科技\thttps://cn.dmfgroup.net/\nMIA\t杭州幂雅\thttps://cn.mia-express.com/\nCN wang tong\t中国网通\thttps://cnwangtong.com/\nMDS Collivery\tMDS Collivery\thttps://collivery.net/\nComet Tech\t上海彗吉\thttps://comet-tech.com.cn/\nFukuyama Transporting (福山通運)\t福山通运\thttps://corp.fukutsu.co.jp/\nDabonea\tDabonea\thttps://dabonea.com/\nDay & Ross\tDay & Ross\thttps://dayross.com/\nDealerSend\tDealerSend\thttps://dealer-send.com/\nDobroPost\tDobroPost\thttps://dobropost.com/\nDognposten\tDognposten\thttps://dognposten.com/\nDotZot\tDotZot\thttps://dotzot.in/\nDPExpress\tDP快递\thttps://dp.express/\nDPD (GR)\tDPD (GR)\thttps://dpd.gr/en/\nDPD (IE)\tDPD (IE)\thttps://dpd.ie/\nDPD (PT)\tDPD (PT)\thttps://dpd.pt/\nDragonfly\tDragonfly\thttps://dragonflyshipping.com.au/\nDWE\t多维智慧\thttps://dweex.com/\nEarly Bird\tEarly Bird\thttps://earlybird.delivery/\nEcom Express\tEcom Express\thttps://ecomexpress.in/\nDHL eCommerce Asia\tDHL eCommerce Asia\thttps://ecommerceportal.dhl.com/\nECOTRACK\tECOTRACK\thttps://ecotrack.dz/\nEkart\tEkart\thttps://ekartlogistics.com/\nEli Express\tEli Express\thttps://eliexpress.com.tr/\nEmirates Post\tEmirates Post\thttps://emiratespost.ae/\nVietNam EMS\tVietNam EMS\thttps://ems.com.vn/\nVYANG\t维央\thttps://eparcel56.com/\n7-ELEVEN\t7-ELEVEN\thttps://eservice.7-11.com.tw/\nEsigetExpress\tEsigetExpress\thttps://esiget.com/\nEURODIS\tEURODIS\thttps://eurodis.com/\nExpress Courier International\tExpress Courier International\thttps://expresscourierintl.com/\nExpress One\tExpress One\thttps://expressone.hu/\nFamaFutar\tFamaFutar\thttps://famafutar.hu/\nFast Despatch\tFast Despatch\thttps://fastdespatch.com/\nDaewoo FastEx Courier\tDaewoo FastEx Courier\thttps://fastex.pk/\nFastlinkagexpress\tFastlinkagexpress\thttps://fastlinkagexpress.com/\nTrakPak\tTrakPak\thttps://fcbtracking.fedex.com/trakpak.aspx/\nFirstMile\tFirstMile\thttps://firstmile.com/\n5Post\t5Post\thttps://fivepost.ru/\nFlickpost\tFlickpost\thttps://flickpost.co/\nFlip Post\tFlip Post\thttps://flippost.com/\nFliway\tFliway\thttps://fliway.com/\nForza Delivery\tForza Delivery\thttps://forzadelivery.com/\nRoadrunner Freight\tRoadrunner Freight\thttps://freight.rrts.com/\nNextSmartShip\tNextSmartShip\thttps://fulfillship.nextsmartship.com\nGAASH Worldwide\tGAASH Worldwide\thttps://gaashwd.com/\nGBS-Broker\tGBS-Broker\thttps://gbs-broker.ru/\nGCX\tGCX\thttps://gcx.co.il/en/\nGHL Logistics\tGHL Logistics\thttps://ghllogistics.be/\nGHN (Giao Hàng Nhanh)\tGHN (Giao Hàng Nhanh)\thttps://ghn.vn/\nGlavDostavka\tGlavDostavka\thttps://glav-dostavka.ru/\nGlovo\tGlovo\thttps://glovoapp.com/\nGLS Canada (Dicom)\tGLS Canada (Dicom)\thttps://gls-canada.com/\nGLS (CZ)\tGLS (CZ)\thttps://gls-group.eu/CZ/en/home\nGLS\tGLS\thttps://gls-group.eu/EU/en/home\nGLS (Croatia)\tGLS (Croatia)\thttps://gls-group.eu/HR/en/home\nGLS (HU)\tGLS (HU)\thttps://gls-group.eu/HU/en/home\nGLS (RO)\tGLS (RO)\thttps://gls-group.eu/RO/en/home\nGLS (SI)\tGLS (SI)\thttps://gls-group.eu/SI/en/home\nGLS (SK)\tGLS (SK)\thttps://gls-group.eu/SK/en/home\nGLT Express\tGLT Express\thttps://gltmena.com/\nGotofreight\t运连网\thttps://gotofreight.com/\nGPD Service\tGPD Service\thttps://gpd-service.com/\nGrastin\tGrastin\thttps://grastin.ru/\nGreen-Way couriers\tGreen-Way couriers\thttps://greenwaycouriers.ie/\nGTD\tGTD\thttps://gtdel.com/\nGT Xpress\tGT Xpress\thttps://gtxpressdeliver.com/\nGuatex\tGuatex\thttps://guatex.com/guatex/rastreo-de-guias/\nHappy-Post\tHappy-Post\thttps://happy-post.com/\nHart 2 Hart\tHart 2 Hart\thttps://hart2hartexpress.co.uk/\nHelthjem\tHelthjem\thttps://helthjem.no/\nConnect Couriers\tConnect Couriers\thttps://hermes.connectcouriers.eu/tracking.aspx\nKerry Express (HK)\tKerry Express (HK)\thttps://hk.kerryexpress.com/home\nGranful Solutions Ltd\tGranful Solutions Ltd\thttps://hk-ols.granful.cn/\nKuehne Nagel\tKuehne Nagel\thttps://home.kuehne-nagel.com/\nmyKN\tmyKN\thttps://home.kuehne-nagel.com/\nIDexpressIndonesia\tIDexpressIndonesia\thttps://idexpress.com/\nDSV e-Commerce IL\tDSV e-Commerce IL\thttps://il.dsv.com/page-our-solutions/ecommerce/\niloxx GmbH\tiloxx GmbH\thttps://iloxx.de/home.aspx\nInPost (UK)\tInPost (UK)\thttps://inpost.co.uk/\nInPost (IT)\tInPost (IT)\thttps://inpost.it/\nInPost (PL)\tInPost (PL)\thttps://inpost.pl/\nInsta World\tInsta World\thttps://instaworld.pk/\nIntelcom (CA)\tIntelcom (CA)\thttps://intelcom.ca/\nIntelcom Express\tIntelcom Express\thttps://intelcomexpress.com/\nINTRAS CORPORATION\tINTRAS CORPORATION\thttps://intras.co.jp/\nChunghwa Post\tChunghwa Post\thttps://ipost.post.gov.tw/\nChunghwa Post (Demestic)\tChunghwa Post (Demestic)\thttps://ipost.post.gov.tw/\nIQS\tIQS\thttps://iqsgsc.com/\nISO Logistics\tISO Logistics\thttps://iso-logistics.vn/\nIvoy\tIvoy\thttps://ivoy.mx/\nJanio\tJanio\thttps://janio.asia/\nJAPO Transport\tJAPO Transport\thttps://japo-autodoprava.cz/\nJet Logistic\tJet Logistic\thttps://jet.com.kz/\nJunFeng International\t君丰国际\thttps://jfchinese.com/\nJoom Logistics\tJoom Logistics\thttps://joomlogistics.com/en\nJPD GLOBAL PTY LTD\t捷派递\thttps://jpdglobal.com.au/\nJ&T Express (MY)\tJ&T Express (MY)\thttps://jtexpress.my/\nJ&T Express (VN)\tJ&T Express (VN)\thttps://jtexpress.vn/\n경동택배 (KYOUNGDONG)\t경동택배 (KYOUNGDONG)\thttps://kdexp.com/main.kd\nKwiksave Logistics\tKwiksave Logistics\thttps://kwiksavecourier.com/\nKYE\t跨越速运\thttps://ky-express.com/\nLandmark Global\tLandmark Global\thttps://landmarkglobal.com/\nlatam\t拉美邮\thttps://latamyou.com/\nLegion Express\tLegion Express\thttps://legionexp.com/\nLionBay\tLionBay\thttps://lionbay.express/\nAir Bus Logistics\tAir Bus Logistics\thttps://logistics.meifan.com.au/\nPrintway Express\tPrintway Express\thttps://logistics.printway.io/\nQwintry Logistics\tQwintry Logistics\thttps://logistics.qwintry.com/\nUPS Freight\tUPS Freight\thttps://ltl.upsfreight.com/\nDX\tDX\thttps://my.dxdelivery.com/\nKEX Express (ABX Express)\tKEX Express (ABX Express)\thttps://my.kex-express.com/\nPickupp (MY)\tPickupp (MY)\thttps://my.pickupp.io/\neShip\teShip\thttps://myeship.co/\nNAS Express\tNAS Express\thttps://nasxpress.com/\nNimbus Post\tNimbus Post\thttps://nimbuspost.com/\nNord Et Ouest Express\tNord Et Ouest Express\thttps://noest-dz.com/\nNova Poshta Global\tNova Poshta Global\thttps://novaposhtaglobal.ua/en/\nInterparcel (NZ)\tInterparcel (NZ)\thttps://nz.interparcel.com/\nODM Express\tODM Express\thttps://odmexpress.com.mx/\nOman Post\tOman Post\thttps://omanpost.om/\nONEX\tONEX\thttps://onex.am/\nOnline Worldwide Logistics\t欧莱物流\thttps://online56.com.cn/\nOntime\tOntime\thttps://ontime.es/\nOrangeDS\tOrangeDS\thttps://orangedsinc.com/\nP2P Mailing\tP2P Mailing\thttps://p2pmailing.co.uk/\nPaack\tPaack\thttps://paack.co/\nOuoPalletOnlinelogistics\tOuoPalletOnlinelogistics\thttps://palletonline.co.uk/\nparxl\tparxl\thttps://parxl.com/\nPaxel\tPaxel\thttps://paxel.co/\nPBT Express Freight Network\tPBT Express Freight Network\thttps://pbt.co.nz/\nPCF\tPCF\thttps://pcfcorp.com/\nPCP EXPRESS\tPCP EXPRESS\thttps://pcpexpress.com/\nPiggyShip\tPiggyShip\thttps://piggyship.com/index.html\nPLG Futár\tPLG Futár\thttps://plgfutar.hu/\nRussian Post\tRussian Post\thttps://pochta.ru/\nePost Global\tePost Global\thttps://portal.epgshipping.com/\nMultrans Logistics\tMultrans Logistics\thttps://portal.multransglobalmail.com/tracking/\nIraq Post (البريد العراقي)\tIraq Post (البريد العراقي)\thttps://post.iq/en/\nKaz Post\tKaz Post\thttps://post.kz/\nPostmedia Parcel Services (BNI Parcel Tracking)\tPostmedia Parcel Services (BNI Parcel Tracking)\thttps://postmediaparcelservices.com/\nPostOne\tPostOne\thttps://postone.eu/\nQ-Post\tQ-Post\thttps://qatarpost.qa/\nRedur\tRedur\thttps://redur.es/\nROMANO LOGISTICS\tROMANO LOGISTICS\thttps://romano-logistics.com/\nRoyal Shipments\tRoyal Shipments\thttps://royalshipments.com/\nSameday (HU)\tSameday (HU)\thttps://sameday.hu/\nSameday (RO)\tSameday (RO)\thttps://sameday.ro/\nSaveway Logistics\tSaveway Logistics\thttps://saveway-logistics.com/\nСберЛогистика (SberLogistics)\tСберЛогистика (SberLogistics)\thttps://sberlogistics.ru/\nSinotrans South\t华南中外运供应链\thttps://sc.y2t.com/\nSCA Express\tSCA Express\thttps://scaexpress.com.au/\nGFS Seeker\tGFS Seeker\thttps://seeker.gfsdeliver.com/\nSegmail\tSegmail\thttps://segmail.co/\nePOST (인터넷우체국)(Domestic)\tePOST (인터넷우체국)(Domestic)\thttps://service.epost.go.kr/iservice/usr/trace/usrtrc001k01.jsp\nPickupp (SG)\tPickupp (SG)\thttps://sg.pickupp.io/\nShadowfax\tShadowfax\thttps://shadowfax.in/\nShape Sky Logistics\tShape Sky Logistics\thttps://shapeskylogistics.com\nAmazon Shipping(UK)\tAmazon Shipping(UK)\thttps://ship.amazon.co.uk/requestinfo/\nSHIPA\tSHIPA\thttps://shipa.com/\nX-Eagle\t老鹰跨境\thttps://shipeag.hk/\nQUANCHENHUI\t全成汇\thttps://shiplives.com/\nShipShopUS\tShipShopUS\thttps://shipshopus.com/\nShiptor\tShiptor\thttps://shiptor.ru/\nWizmo\tWizmo\thttps://shipwizmo.com/\nShopee Xpress (MY)\tShopee Xpress (MY)\thttps://shopeexpress.com.my/\nSkyking\tSkyking\thttps://skyking.co/track/\nSMART Post Global\tSMART Post Global\thttps://smartpost.global/en\nSmartr Logistics\tSmartr Logistics\thttps://smartr.in/\nSMB Express\tSMB Express\thttps://smb.express/\nSpaldex+\tSpaldex+\thttps://spaldex-express.ru/\nSpeedaf\tSpeedaf\thttps://speedaf.com/\nSpee-Dee Delivery\tSpee-Dee Delivery\thttps://speedeedelivery.com/\nSPES\t速易邮\thttps://spes.link/\nSaudi Post\tSaudi Post\thttps://splonline.com.sa/ar/\nsprint\tsprint\thttps://sprint.xyz/\nSprintstar\tSprintstar\thttps://sprintstar.ca/\nShopee Xpress (ID)\tShopee Xpress (ID)\thttps://spx.co.id/\nShopee Xpress (TH)\tShopee Xpress (TH)\thttps://spx.co.th/\nShopeeExpress(PH)\tShopeeExpress(PH)\thttps://spx.ph/\nShopee Xpress (SG)\tShopee Xpress (SG)\thttps://spx.sg/\nShopeeExpress(VN)\tShopeeExpress(VN)\thttps://spx.vn/\nStandard Global Logistics\tStandard Global Logistics\thttps://standardglobal.site/\nSterling Global Aviation Logistics\tSterling Global Aviation Logistics\thttps://sterling.quick.aero/\nStraightship\tStraightship\thttps://straightship.com/\nSwyft Logistics\tSwyft Logistics\thttps://swyftlogistics.com/\nTata Express\tTata Express\thttps://tataexpress.ae/\nTele Post\tTele Post\thttps://telepost.gl/\nKerry Express (TH)\t嘉里物流(泰国)\thttps://th.kerryexpress.com/\nThabit Logistics\tThabit Logistics\thttps://thabit-logistics.com/\nYME\t运盟国际\thttps://tms.ym-trans.com/\nAmazon Shipping(IN)\tAmazon Shipping(IN)\thttps://track.amazon.in/\nBpost\tBpost\thttps://track.bpost.cloud/\n99Minutos\t99Minutos\thttps://tracking.99minutos.com/\nVamox\tVamox\thttps://tracking.vamox.io/\nWhistl\tWhistl\thttps://trackmyitem.whistl.co.uk/\nTrackon\tTrackon\thttps://trackon.in/\nService Points\tService Points\thttps://track-sp.com/\nTrax\tTrax\thttps://trax.pk/\nTrumpCard\tTrumpCard\thttps://trumpcardinc.com/\nPickupp (TW)\tPickupp (TW)\thttps://tw.pickupp.io/\nInterparcel (UK)\tInterparcel (UK)\thttps://uk.interparcel.com/\nULALA\tULALA\thttps://ulala.ca/\nYOU TRACK\tYOU TRACK\thttps://unitrade.youtrack.info/\nUniUni\tUniUni\thttps://uniuni.com/\nVenipak\tVenipak\thttps://venipak.lt/en/\nVestovoy\tVestovoy\thttps://vestovoy.ru/\nVia Cargo\tVia Cargo\thttps://viacargo.com.ar/\nViettel Post\tViettel Post\thttps://viettelpost.com.vn/\nWahana Prestasi Logistik\tWahana Prestasi Logistik\thttps://wahana.com/\nWalkers Transport\tWalkers Transport\thttps://walkers-transport.co.uk/\nCaribou\tCaribou\thttps://wearecaribou.com/\nPro Carrier\tPro Carrier\thttps://weareprocarrier.com/\nWLD Express\t万立德国际\thttps://wld-exp.com/\nwnDirect\twnDirect\thttps://wndirect.com/\nPTS Worldwide Express\tPTS Worldwide Express\thttps://wp.pts.net/\n17EXP\t17EXP\thttps://www.17-exp.com/\nCTGJ\t诚天国际\thttps://www.233trans.com/\nWSH\tWSH\thttps://www.360lion.com/\n3DADA\t圣大\thttps://www.3dada.cn/\n4PLLAB\t4PL实验室\thttps://www.4pllab.cn/\n4PX\t递四方\thttps://www.4px.com/\n4 SIDES\t4 SIDES\thttps://www.4sides.ru/\n7-tm\t七千里\thttps://www.7-tm.com/\nBest Inc (CN)\t百世快运 (中国)\thttps://www.800best.com/\nACS\tACS\thttps://www.acscourier.net/\nADSOne\tADSOne\thttps://www.adsone.com.au/\nAgility\tAgility\thttps://www.agility.com/\nAirTerra\tAirTerra\thttps://www.airterra.com/\nAIT Worldwide Logistics\tAIT Worldwide Logistics\thttps://www.aitworldwide.com/\nAlfmensAjeria\tAlfmensAjeria\thttps://www.alfmensajeria.com.mx/\nAliExpress\t全球速卖通\thttps://www.aliexpress.com/\nAmazon Shipping + Amazon MCF\tAmazon Shipping + Amazon MCF\thttps://www.amazon.com/\nAndreani\tAndreani\thttps://www.andreani.com/\nANL\t美新物流\thttps://www.anl-cn.com/\nANL\t新干线\thttps://www.anlexpress.com/\nAn Post\tAn Post\thttps://www.anpost.com/\nAPC Postal Logistics\tAPC Postal Logistics\thttps://www.apc-pli.com/\nAppleExpress\tAppleExpress\thttps://www.appleexpress.com/\nAramex NZ (formerly Fastway NZ)\tAramex NZ (formerly Fastway NZ)\thttps://www.aramex.co.nz/\nAramex AU (formerly Fastway AU)\tAramex AU (formerly Fastway AU)\thttps://www.aramex.com.au/\nAras Kargo\tAras Kargo\thttps://www.araskargo.com.tr/tr/#\nArco Spedizioni\tArco Spedizioni\thttps://www.arcospedizioni.it/\nAveritt Express\tAveritt Express\thttps://www.averittexpress.com/\nBaosen Suntop\t堡森三通\thttps://www.baosencn.cn/\nBDM\tBDM\thttps://www.bdmnet.it/\nBermuda Post\tBermuda Post\thttps://www.bermudapost.bm/\nBEST EXPRESS\tBEST EXPRESS\thttps://www.best-inc.co.th/\nBetter Trucks\tBetter Trucks\thttps://www.bettertrucks.com/\nBEX\tBEX\thttps://www.bex.rs/\nBird System\tBird System\thttps://www.birdsystemgroup.com/\nBlue Express\tBlue Express\thttps://www.blue.cl/\nBluecare\tBluecare\thttps://www.bluecare.express/\nBlueEx\tBlueEx\thttps://www.blue-ex.com/\nBluestreak\tBluestreak\thttps://www.bluestreakcouriers.com/\nBombino Express\tBombino Express\thttps://www.bombinoexp.in/\nBondex\t海程邦达\thttps://www.bondex.com.cn\nBorder Express\tBorder Express\thttps://www.borderexpress.com.au/\nBoxtal\tBoxtal\thttps://www.boxtal.com/fr/fr/accueil/\nBring\tBring\thttps://www.bring.com/\nBringer Air Cargo\tBringer Air Cargo\thttps://www.bringeraircargo.com/\nBringer Parcel Service\tBringer Parcel Service\thttps://www.bringerparcel.com/\nBroker Den\tBroker Den\thttps://www.brokerden.com/\nBunddl\tBunddl\thttps://www.bunddl.com/\nCainiao\t菜鸟\thttps://www.cainiao.com/\nCampost\tCampost\thttps://www.campost.cm/\nCanpar Express\tCanpar Express\thttps://www.canpar.com/\nCargus\tCargus\thttps://www.cargus.ro/\nCastle Parcel\tCastle Parcel\thttps://www.castleparcels.co.nz/\nCEVA Logistics\tCEVA Logistics\thttps://www.cevalogistics.com/\nCheer\t琪悦物流\thttps://www.cheer56.com/\nGORTO\t国润通\thttps://www.china-grt.com/\nCigerma\t西格码物流优选\thttps://www.cigerma.com/\nCityMail\tCityMail\thttps://www.citymail.se/\nCJ Century\tCJ Century\thttps://www.cjcentury.com/\nCJ Korea Express\tCJ Korea Express\thttps://www.cjlogistics.com/\nCJ Logistics\tCJ Logistics\thttps://www.cjlogistics.com/\nCJ Logistics (SG)\tCJ Logistics (SG)\thttps://www.cjlogistics.com/en/network/en-sg\nCommonline\t斯里兰卡捷高\thttps://www.clexpress.lk/\nCNILINK\tCNILINK\thttps://www.cnilink.com/\nC2I LOGISTIC\t中印物流\thttps://www.cntin.com/\nColicoli\tColicoli\thttps://www.colicoli.fr/\nCollect+\tCollect+\thttps://www.collectplus.co.uk/\nComet Hellas\tComet Hellas\thttps://www.comethellas.gr/\nContinental\tContinental\thttps://www.contin-global.com/\nCoordinadora\tCoordinadora\thttps://www.coordinadora.com/\nCopa Airlines Courier\tCopa Airlines Courier\thttps://www.copacourier.com/\nCorreos Express\tCorreos Express\thttps://www.correosexpress.com/\nCOURIER CENTER\tCOURIER CENTER\thttps://www.courier.gr/\nCouriersPlease\tCouriersPlease\thttps://www.couriersplease.com.au/\nCowin Logistics\t旗云国际物流\thttps://www.cowin-intl.com/\nКСЭ (CSE)\tКСЭ (CSE)\thttps://www.cse.ru/\nCTS\t华贸国际\thttps://www.ctsfreight.com/\nCTS GROUP\tCTS GROUP\thttps://www.ctsgroup.nl/\nCTT Express\tCTT Express\thttps://www.cttexpress.com/\nCubyn\tCubyn\thttps://www.cubyn.com/\nCUpost (CU 편의점택배)\tCUpost (CU 편의점택배)\thttps://www.cupost.co.kr/\nCycloon (Fietskoeriers)\tCycloon (Fietskoeriers)\thttps://www.cycloon.eu/\nCyprus Post\tCyprus Post\thttps://www.cypruspost.post/\nDACHSER\tDACHSER\thttps://www.dachser.com/\nDakota Group\tDakota Group\thttps://www.dakotacargo.co.id/\ndao\tdao\thttps://www.dao.as/\nDB Schenker\tDB Schenker\thttps://www.dbschenker.com/\nDeksu\t德速电商物流\thttps://www.deksu.com/\nDelhivery\tDelhivery\thttps://www.delhivery.com/\nDELIVER-IT\tDELIVER-IT\thttps://www.deliver-it.com/\nDellin\tDellin\thttps://www.dellin.ru/\nDelnext\tDelnext\thttps://www.delnext.com/\nDeltec Courier\tDeltec Courier\thttps://www.deltec-courier.com/\nDeprisa\tDeprisa\thttps://www.deprisa.com/\nDe Well\t德威国际\thttps://www.de-well.com/\nDHL Parcel Spain\tDHL Parcel Spain\thttps://www.dhl.com/es-en/home/our-divisions/parcel/home/private-shipments/tracking-shipments.html\nDHL Parcel (UK)\tDHL Parcel (UK)\thttps://www.dhl.com/gb-en/\nDHL Freight\tDHL Freight\thttps://www.dhl.com/global-en/home/our-divisions/freight.html\nDHL eCommerce US\tDHL eCommerce US\thttps://www.dhl.com/us-en/home/tracking/tracking-ecommerce.html\nDHL Paket\tDHL Paket\thttps://www.dhl.de/en/privatkunden/pakete-empfangen/verfolgen.html\nDHLink\t驼飞侠\thttps://www.dhlink.com\nDHL Parcel (NL)\tDHL Parcel (NL)\thttps://www.dhlparcel.nl/\nDORJE\t多杰物流\thttps://www.dorje56.com/\nDPD (PL)\tDPD (PL)\thttps://www.dpd.com.pl/\nDPD (BE)\tDPD (BE)\thttps://www.dpd.com/be/nl/\nDPD (CZ)\tDPD (CZ)\thttps://www.dpd.com/cz/en/\nDPD (HU)\tDPD (HU)\thttps://www.dpd.com/hu/hu/\nDPD (RO)\tDPD (RO)\thttps://www.dpd.com/ro/ro/\nDPD (RU)\tDPD (RU)\thttps://www.dpd.ru/\nDPX EXPRESS\t地平线速运\thttps://www.dpx-express.com/\nHailify\tHailify\thttps://www.drivehailify.com/\nDSV\tDSV\thttps://www.dsv.com/\nDuXiuExp\t独秀国际\thttps://www.duxiuexp.com/\nDaylight Transport\tDaylight Transport\thttps://www.dylt.com/\nEasyGet\tEasyGet\thttps://www.easyget.com.ua/\nEasy Mail\tEasy Mail\thttps://www.easymail.gr/en/\nPelican (宅配通)\t宅配通\thttps://www.e-can.com.tw/\nEcho Global Logistics\tEcho Global Logistics\thttps://www.echo.com/\nЕконт (Econt)\tЕконт (Econt)\thttps://www.econt.com/\nEcoscooting\tEcoscooting\thttps://www.ecoscooting.com/\nELINEX\tELINEX\thttps://www.elinex.cn/\nOOPSTON\tOOPSTON\thttps://www.elitebio.com/\nELTA Courier\tELTA Courier\thttps://www.elta-courier.gr/\nYIMINGHUI\t深圳易明慧\thttps://www.emhsz.com/\nExpress Mail Service (EMS)\tExpress Mail Service (EMS)\thttps://www.ems.post/\nendicia\tendicia\thttps://www.endicia.com/\nenvialia\tenvialia\thttps://www.envialia.com/\nE-post\tE-post\thttps://www.e-post.co.il/\neShipper\teShipper\thttps://www.eshipper.com/\nEsnad Express\tEsnad Express\thttps://www.esnadexpress.com/\nEstafeta\tEstafeta\thttps://www.estafeta.com/\nEstes\tEstes\thttps://www.estes-express.com/\nEuroExpress\tEuroExpress\thttps://www.euroexpress.ba/\nEVERWIN\tEVERWIN\thttps://www.evertowin.com/\nEvri ( The New Hermes )\tEvri ( The New Hermes )\thttps://www.evri.com/\nExpeditors\tExpeditors\thttps://www.expeditors.com/\nExPlus\t中田物流(南亚专线）\thttps://www.explus56.com\nFamiPort\tFamiPort\thttps://www.famiport.com.tw/\nFAN Courier\tFAN Courier\thttps://www.fancourier.ro/\nFAST EXPRESS\tFAST EXPRESS\thttps://www.fast-express.com/en/\nMTO EXPRESS\t銘東物流\thttps://www.fba.jp/\nFedEx® Poland\tFedEx® Poland\thttps://www.fedex.com/pl-pl/home.html\nFercam\tFercam\thttps://www.fercam.com/\nfermopoint\tfermopoint\thttps://www.fermopoint.it/\nFirst Flight Couriers\tFirst Flight Couriers\thttps://www.firstflight.net/\nFirst Global Logistics\tFirst Global Logistics\thttps://www.firstgloballogistics.co.nz/\nFlash Express (TH)\tFlash Express (TH)\thttps://www.flashexpress.co.th/\nFlash Express (LA)\tFlash Express (LA)\thttps://www.flashexpress.la/\nFlash Express (MY)\tFlash Express (MY)\thttps://www.flashexpress.my/\nFlash Express (PH)\tFlash Express (PH)\thttps://www.flashexpress.ph/\nFMX\tFMX\thttps://www.fmx.asia/\nFOXPOST\tFOXPOST\thttps://www.foxpost.hu/\nDanske Fragtmænd\tDanske Fragtmænd\thttps://www.fragt.dk/\nFrayun\t法运\thttps://www.frayun.com/\nFulfillant\tFulfillant\thttps://www.fulfillant.com/\nFULFILLMEN\t中田物流\thttps://www.fulfillmen.com/\nGate Link Logistics\tGate Link Logistics\thttps://www.gatelinklogistics.com/\nGD Express\tGD Express\thttps://www.gdexpress.com/\nGdyhwl\t广东盈寰物流\thttps://www.gdyhwl.cn/\nGefco\tGefco\thttps://www.gefco.net/en/\nGeis\tGeis\thttps://www.geis-group.cz/\nGEL Express Logistik\tGEL Express Logistik\thttps://www.gel-express.de/\nGLOBALTRANS\tGLOBALTRANS\thttps://www.globaltrans.es/\nGV\tGV\thttps://www.globavend.com/\nGLS (NL)\tGLS (NL)\thttps://www.gls-info.nl/\nGLS (IT)\tGLS (IT)\thttps://www.gls-italy.com/\nGLS (PT)\tGLS (PT)\thttps://www.gls-portugal.pt/\nGLS Portugal (National)\tGLS Portugal (National)\thttps://www.gls-portugal.pt/\nGLS Spain (National)\tGLS Spain (National)\thttps://www.gls-spain.es/en/\nGLS (US)\tGLS (US)\thttps://www.gls-us.com/\nElite Co.\tElite Co.\thttps://www.go.elite-co.com/\nGo4\tGo4\thttps://www.go4.sk/\nGPS\t凌曦物流\thttps://www.goforgps.com/\nGlobal Post\tGlobal Post\thttps://www.goglobalpost.com/\nGOOD\t固德\thttps://www.goodexpress.com.cn/\nGoodluck Courier Service\tGoodluck Courier Service\thttps://www.goodluckcourier.com/\nGoRush\tGoRush\thttps://www.gorushbn.com/\nSwift\tSwift\thttps://www.goswift.in/\nGebrüder Weiss (GW)\tGebrüder Weiss (GW)\thttps://www.gw-world.com/\nHanjin\tHanjin\thttps://www.hanjin.co.kr/\nHCT Logistics\t新竹物流\thttps://www.hct.com.tw/\nHecny\tHecny\thttps://www.hecny.com/\nHellmann\tHellmann\thttps://www.hellmann.com/en/\nHepsiJET\tHepsiJET\thttps://www.hepsijet.com/\nHermes Borderguru\tHermes Borderguru\thttps://www.hermesborderguru.com/\nHermes\tHermes\thttps://www.hermesworld.com/\nHFD\tHFD\thttps://www.hfd.co.il/\nHuaHan Logistics\t华翰物流\thttps://www.hh-exp.com/\nHiLiFe\t莱尔富\thttps://www.hilife.com.tw/\nJTD\t金泰达国际\thttps://www.hkjtd56.com/\nhulihang\t华利航\thttps://www.hlhex.com.cn/\nHomerr\tHomerr\thttps://www.homerr.com/\nHP\tHP\thttps://www.hpcourier.ca/\nHR Parcel (HRP)\tHR Parcel (HRP)\thttps://www.hrparcel.com/\nHRX\tHRX\thttps://www.hrx.pl/\nHSD\t鸿速达\thttps://www.hsd-express.com/\nHunter Express\tHunter Express\thttps://www.hunterexpress.com.au/\nHMC\t货满舱\thttps://www.huomc.com/\nICS Courier\tICS Courier\thttps://www.icscourier.ca/\niCumulus\tiCumulus\thttps://www.icumulus.com/\nIDE\tIDE\thttps://www.ideexp.com/\nIDS Logistics\tIDS Logistics\thttps://www.idsship.com/\nLogen (로젠택배)\tLogen (로젠택배)\thttps://www.ilogen.com/\niMile\tiMile\thttps://www.imile.com/\nInexPost\tInexPost\thttps://www.inexpost.ru/\nInPost (ES)\tInPost (ES)\thttps://www.inpost.es/\nInPost (PT)\tInPost (PT)\thttps://www.inpost.pt/\nInstaDispatch\tInstaDispatch\thttps://www.instadispatch.com/\nIntercontinental Cargo Movers\tIntercontinental Cargo Movers\thttps://www.intercontinentalcargmovers.com/\nInter Courier\tInter Courier\thttps://www.intercourier.pt/\nIntereuropa\tIntereuropa\thttps://www.intereuropa.hr/\nInternet Express\tInternet Express\thttps://www.internetexpress.co.za/\nInter Rapidisimo (INTER RAPIDÍSIMO)\tInter Rapidisimo (INTER RAPIDÍSIMO)\thttps://www.interrapidisimo.com/\niThink Logistics\tiThink Logistics\thttps://www.ithinklogistics.com/\nJDE\tJDE\thttps://www.jde.ru/\nJDIEX\tJDIEX国际物流\thttps://www.jdiex.com/\nJDL Express\tJDL Express\thttps://www.jdlexpress.co.id/\nJD Worldwide\t京东国际\thttps://www.jdworldwide.com/\nJENY\tJENY\thttps://www.jenyxpress.com/\nJFP Express\t捷派快运\thttps://www.jetfastparcels.com/\nJetline Couriers Pvt. Ltd\tJetline Couriers Pvt. Ltd\thttps://www.jetlinecouriers.in/\nJ&T International\t极兔国际\thttps://www.jet-logistics.com/?from=17track\nJY\tJY\thttps://www.jiayingex.com/\nJDT\t玖鼎通\thttps://www.jiudt.com/\nJNE Express\tJNE Express\thttps://www.jne.co.id/\nJoeyCo\tJoeyCo\thttps://www.joeyco.com/\nJOYING BOX\t飞盒跨境\thttps://www.joyingbox.com/\nJ&T Express (TH)\tJ&T Express (TH)\thttps://www.jtexpress.co.th/\nJ&T Express (MX)\tJ&T Express (MX)\thttps://www.jtexpress.mx/\nJ&T Express (PH)\tJ&T Express (PH)\thttps://www.jtexpress.ph/\nJ&T Express (SG)\tJ&T Express (SG)\thttps://www.jtexpress.sg/\nJ&T Express (EG)\tJ&T Express (EG)\thttps://www.jtexpress-eg.com/\nJ&T Express (SA)\tJ&T Express (SA)\thttps://www.jtexpress-sa.com/\nJusda International\t准时达\thttps://www.jusdaglobal.com/\nKDZ Express\tKDZ Express\thttps://www.kdz.com/\nKyrgyz Express Post(KEP)\tKyrgyz Express Post(KEP)\thttps://www.kep.kg/\nKerry eCommerce\tKerry eCommerce\thttps://www.kerry-ecommerce.com/\nKINTETSU LOGISTICS SYSTEMS (近鉄ロジスティクス)\tKINTETSU LOGISTICS SYSTEMS (近鉄ロジスティクス)\thttps://www.kintetsu-ls.co.jp/\nKNL-CN\t川日国际物流\thttps://www.knl-cn.com/\n건영택배 (KUNYONG EXPRESS)\t건영택배 (KUNYONG EXPRESS)\thttps://www.kunyoung.com/\nKurasi\tKurasi\thttps://www.kurasi.co.id/\nKYE (CN)\t跨越速运 (中国)\thttps://www.ky-express.com/\nLaserShip\tLaserShip\thttps://www.lasership.com/\nBlue Leopard\t蓝豹云仓供应链\thttps://www.lb-56.com/\nLBC Express\tLBC Express\thttps://www.lbcexpress.com/\nLBTX\t龙本天下\thttps://www.lbtxkd.com/\nLDGJ\t领东国际\thttps://www.ldgj56.com/\nLEADER\tLEADER\thttps://www.leader609.com/\nLiccardi\tLiccardi\thttps://www.liccarditrasporti.com/\nLine Clear Express\tLine Clear Express\thttps://www.lineclearexpress.com/\nLinex\tLinex\thttps://www.linexsolutions.com/\nLion parcel\tLion parcel\thttps://www.lionparcel.com/\nLiuchen\t六尘国际\thttps://www.liuchenwl.com/\nLMSY\t六脉速运\thttps://www.lmparcel.com/\nLoggi Express BR\tLoggi Express BR\thttps://www.loggi.com/\nLoomis Express\tLoomis Express\thttps://www.loomisexpress.com/\nLotte Global Logistics\tLotte Global Logistics\thttps://www.lotteglogis.com/english/reservation/track/\nLSO(Lone Star Overnight)\tLSO(Lone Star Overnight)\thttps://www.lso.com/\nMailalliance\tMailalliance\thttps://www.mailalliance.net/\nMainfreight\tMainfreight\thttps://www.mainfreight.com/track/\nMatkahuolto\tMatkahuolto\thttps://www.matkahuolto.fi/\nMazet\tMazet\thttps://www.mazet.com/\nMeyer Distribution\tMeyer Distribution\thttps://www.meyerdistributing.com/\nMeyer-Jumbo\tMeyer-Jumbo\thttps://www.meyer-jumbo.de/\nmgoship\t海豚日本仓\thttps://www.mgoship.com/\nMingyu Logistics\t铭宇国际物流\thttps://www.miyu56.com/\nMNG Kargo\tMNG Kargo\thttps://www.mngkargo.com.tr/\nMondial Relay\tMondial Relay\thttps://www.mondialrelay.fr/\nMorning Global\tMorning Global\thttps://www.morninglobal.com/\nMRL Global\tMRL Global\thttps://www.mrlglobal.com/\nMRW\tMRW\thttps://www.mrw.es/\nMSS\tMSS\thttps://www.mss1688.com/\nMTD\tMTD\thttps://www.mtd.se/\nMudita\tMudita\thttps://www.muditacargo.com/\nM&P Courier\tM&P Courier\thttps://www.mulphilog.com/\nMyanmar Post\tMyanmar Post\thttps://www.myanmarpost.com.mm/\nDPD (AT)\tDPD (AT)\thttps://www.mydpd.at/\nLaBaih\tLaBaih\thttps://www.mylabaih.com/\nMyloop\t速锐\thttps://www.myloop.plus/\nShopline Logistics\t商链物流\thttps://www.myoneship.cn/\nNacex\tNacex\thttps://www.nacex.com/\nNaqel\tNaqel\thttps://www.naqelexpress.com/\nNationex\tNationex\thttps://www.nationex.com/\nNationwide Express\tNationwide Express\thttps://www.nationwide2u.com/\nNewgistics\tNewgistics\thttps://www.newgistics.com/\nNewhandle\t新航道\thttps://www.newhandle.cn/\nNexive\tNexive\thttps://www.nexive.it/\nNinja Van (International Tracking)\tNinja Van (International Tracking)\thttps://www.ninjavan.co/en-sg/tracking\nNinjavan (ID)\tNinjavan (ID)\thttps://www.ninjaxpress.co/id-id\nNigerian Post\tNigerian Post\thttps://www.nipost.gov.ng/\nNippon Express (日本通運)\t日本通运\thttps://www.nittsu.co.jp/\nNobordist\tNobordist\thttps://www.nobordist.com/\nNoel\t诺艾尔\thttps://www.noelworld.com/\nnox NachtExpress\tnox NachtExpress\thttps://www.nox-nachtexpress.de/\nNew Zealand Couriers\tNew Zealand Couriers\thttps://www.nzcouriers.co.nz/\nNZT LOGISTICS CORP\t家家通\thttps://www.nztexpress.com/\nOCS Worldwide\tOCS Worldwide\thttps://www.ocsworldwide.co.uk/\nNBT\t南北通\thttps://www.ofo56.com/\nOmniva\tOmniva\thttps://www.omniva.ee/\nOnTrac\tOnTrac\thttps://www.ontrac.com/\nORLEN Paczka\tORLEN Paczka\thttps://www.orlenpaczka.pl/\nOSM Worldwide\tOSM Worldwide\thttps://www.osmworldwide.com/\nPacketa\tPacketa\thttps://www.packeta.com/\nPacklink\tPacklink\thttps://www.packlink.es/\nPACK & SEND\tPACK & SEND\thttps://www.packsend.com.au/\nPall-Ex (UK)\tPall-Ex (UK)\thttps://www.pallex.co.uk/\nPaquetexpress\tPaquetexpress\thttps://www.paquetexpress.com.mx/\nParcel2GO\tParcel2GO\thttps://www.parcel2go.com/\nParcelhub\tParcelhub\thttps://www.parcelhub.co.uk/\nPARCLL\tPARCLL\thttps://www.parcll.com/\nPass the Parcel\tPass the Parcel\thttps://www.passtheparcel.co.nz/\nPenguin\tPenguin\thttps://www.penguinbox.cz/\nPhilippine Post\tPhilippine Post\thttps://www.phlpost.gov.ph/\nPick Pack Pont\tPick Pack Pont\thttps://www.pickpackpont.hu/\nPickrr\tPickrr\thttps://www.pickrr.com/\nPilot Freight Services\tPilot Freight Services\thttps://www.pilotdelivers.com/\nPitney Bowes\tPitney Bowes\thttps://www.pitneybowes.com/\nPocztex\tPocztex\thttps://www.pocztex.pl/\nPony Express\tPony Express\thttps://www.ponyexpress.ru/\nPos Indonesia\tPos Indonesia\thttps://www.posindonesia.co.id/\nSwiss Post\tSwiss Post\thttps://www.post.ch/\nMacedonia Post\tMacedonia Post\thttps://www.posta.com.mk/\nPost Haste\tPost Haste\thttps://www.posthaste.co.nz/\nPostNet\tPostNet\thttps://www.postnet.co.za/\nPostNL\tPostNL\thttps://www.postnl.nl/\nPostNord (FI)\tPostNord (FI)\thttps://www.postnord.fi/\nPostNord (NO)\tPostNord (NO)\thttps://www.postnord.no/\nSouth Africa Post\tSouth Africa Post\thttps://www.postoffice.co.za/\nPPL CZ\tPPL CZ\thttps://www.ppl.cz/\nPrime Express Logistics\tPrime Express Logistics\thttps://www.primeexpresslogistics.com/\nPullman Cargo\tPullman Cargo\thttps://www.pullmango.cl/\nPurolator\tPurolator\thttps://www.purolator.com/\nQLN\t千里鸟\thttps://www.qianliniao.com/\nKylin Express\t麒麟物流\thttps://www.qlinyun.com/\nQualitypost\tQualitypost\thttps://www.qualitypost.com.mx/\nQuantium Solutions\t冠庭国际物流\thttps://www.quantiumsolutions.com/\nRaben Group\tRaben Group\thttps://www.raben-group.com/\nRAF\tRAF\thttps://www.raf.ph/\nRAM\tRAM\thttps://www.ram.co.za/\nRedbox MV\tRedbox MV\thttps://www.redbox.mv/\nRedC\tRedC\thttps://www.redchains.cc/\nRedpack\tRedpack\thttps://www.redpack.com.mx/\nRelaisColis\tRelaisColis\thttps://www.relaiscolis.com/\nRelex\tRelex\thttps://www.relex.ie/\nREX Kiriman Express\tREX Kiriman Express\thttps://www.rex.co.id/\nRivigo\tRivigo\thttps://www.rivigo.com/\nRivo\tRivo\thttps://www.rivolution.com/\nR+L Carriers\tR+L Carriers\thttps://www.rlcarriers.com/\nRPX Online\tRPX Online\thttps://www.rpxonline.com/\nRRS Logistics\t日日顺物流\thttps://www.rrswl.com/\nRTT\tRTT\thttps://www.rtt.co.za/\nRyder\tRyder\thttps://www.ryder.com/\nSAEE\tSAEE\thttps://www.saee.sa/en/\nSaferbo\tSaferbo\thttps://www.saferbo.com/\nSAIA\tSAIA\thttps://www.saia.com/\nSana\tSana\thttps://www.sanaship.com/\nSAP EXPRESS\tSAP EXPRESS\thttps://www.sap-express.id/\nSHIBIDA\t时必达\thttps://www.sbdkuajing.com/\nScaleOrder\t北斗互联\thttps://www.scaleorder.com/\nSCM\tSCM\thttps://www.scmpaqueteria.mx/\nSDH\t闪电猴\thttps://www.sdh-scm.com/\nSeaRates\tSeaRates\thttps://www.searates.com/\nSoutheastern Freight Lines\tSoutheastern Freight Lines\thttps://www.sefl.com/\nSEKO Logistics\tSEKO Logistics\thttps://www.sekologistics.com\nSending\tSending\thttps://www.sending.es/\nSendIt\tSendIt\thttps://www.sendit.asia/\nSendle\tSendle\thttps://www.sendle.com/\nservientrega\tservientrega\thttps://www.servientrega.com/\nSeur\tSeur\thttps://www.seur.com/\nSF Express(CN)\t顺丰速运(CN)\thttps://www.sf-express.com/\nSHE EXPRESS\t六匹马\thttps://www.sheexpress.com/\nShipGlobal US\tShipGlobal US\thttps://www.shipglobal.us/\nMercury\tMercury\thttps://www.shipmercury.com/\nShippit\tShippit\thttps://www.shippit.com/\nShiprocket\tShiprocket\thttps://www.shiprocket.in/\nShree Maruti Courier\tShree Maruti Courier\thttps://www.shreemaruticourier.com/\nCTECZ\t盛汇通国际物流\thttps://www.sht-log.com/\nUstEx\tUstEx\thttps://www.shysbj.com/\nSiCepat\tSiCepat\thttps://www.sicepat.com/\nSinoair\t外运发展\thttps://www.sinoex.com.cn/\nSkroutz Last Mile\tSkroutz Last Mile\thttps://www.skroutzlastmile.gr/\nSkynet (MY)\tSkynet (MY)\thttps://www.skynet.com.my/\nSkyPostal\tSkyPostal\thttps://www.skypostal.com/\nSPX\tSPX\thttps://www.speedx.io/\nSpeedy (DPD)\tSpeedy (DPD)\thttps://www.speedy.bg/en/\nSpring GDS\tSpring GDS\thttps://www.spring-gds.com/\nSprinter\tSprinter\thttps://www.sprinter.hu/\nSlovak Parcel Service\tSlovak Parcel Service\thttps://www.sps-sro.sk/\nShangtong logistics\t尚通国际物流\thttps://www.st8887.com/\nStarex Logistic\tStarex Logistic\thttps://www.starexlogistic.com/\nStarken\tStarken\thttps://www.starken.cl/\nSTONE3PL\tSTONE3PL\thttps://www.stone3pl.com/\nSuperbuy\tSuperbuy\thttps://www.superbuy.com/\nSuperTon\t速宝通\thttps://www.super-ton.com/\nST International Express\t速通国际快运\thttps://www.sutongst.com/\nSwiship (CA)\tSwiship (CA)\thttps://www.swiship.ca/\nSwiship (UK)\tSwiship (UK)\thttps://www.swiship.co.uk/track/\nSwiship (AU)\tSwiship (AU)\thttps://www.swiship.com.au/track/\nSwiship\tSwiship\thttps://www.swiship.com/\nSwiship (DE)\tSwiship (DE)\thttps://www.swiship.de/\nSwiship (ES)\tSwiship (ES)\thttps://www.swiship.es/\nSwiship (FR)\tSwiship (FR)\thttps://www.swiship.fr/\nSwiship (JP)\tSwiship (JP)\thttps://www.swiship.jp/track/\nSXJD\t顺心捷达\thttps://www.sxjdfreight.com/\nSzendex\tSzendex\thttps://www.szendex.com/\nQYSC\tQYSC\thttps://www.szquanyikj.com/\nTopYou\t通邮集团\thttps://www.szty56.com/\nGeniki Taxydromiki\tGeniki Taxydromiki\thttps://www.taxydromiki.com/en/\nTCS\tTCS\thttps://www.tcsexpress.com/\nTeam Worldwide\tTeam Worldwide\thttps://www.teamww.com/\nTeiker\tTeiker\thttps://www.teiker.mx/\nTForce Final Mile\tTForce Final Mile\thttps://www.tforcefinalmile.com/\nThailand Post\tThailand Post\thttps://www.thailandpost.co.th/\nTP Logistics\tTP Logistics\thttps://www.thaiparcels.com/\nThe Courier Guy\tThe Courier Guy\thttps://www.thecourierguy.co.za/\nTIKI\tTIKI\thttps://www.tiki.id/\nTIPSA\tTIPSA\thttps://www.tip-sa.com/\nTM Cargo\tTM Cargo\thttps://www.tmcargo.net/\nTNT (IT)\tTNT (IT)\thttps://www.tnt.it/\nTNT (AU)\tTNT (AU)\thttps://www.tntexpress.com.au/\nKurir Rekomendasi (Tokopedia)\tKurir Rekomendasi (Tokopedia)\thttps://www.tokopedia.com/kurir-rekomendasi\nTopest\t深圳韬博\thttps://www.topestexpress.com/\nProfessional Couriers\tProfessional Couriers\thttps://www.tpcindia.com/\n天胜国际(TSL)\t天胜国际\thttps://www.tsl-logistics.tw/\nTT Express\t天天快递\thttps://www.ttkdex.com/\nTuffnells\tTuffnells\thttps://www.tuffnells.co.uk/\nTWS Express Courier\tTWS Express Courier\thttps://www.twsexpresscourier.it/\nUafrica\tUafrica\thttps://www.uafrica.com/\nUK Mail\tUK Mail\thttps://www.ukmail.com/\nЮнитрейд (Unitrade)\tЮнитрейд (Unitrade)\thttps://www.unitrade.su/\nUPS Mail Innovations\tUPS Mail Innovations\thttps://www.upsmailinnovations.com/\nUrbanFox\tUrbanFox\thttps://www.urbanfox.asia/\nUrvaam\tUrvaam\thttps://www.urvaam.es/\nValley TMS\tValley TMS\thttps://www.valleytms.com/\nVamaship\tVamaship\thttps://www.vamaship.com/\nVasp Expresso\tVasp Expresso\thttps://www.vaspexpresso.pt/\nVerykShip\t唯客物流\thttps://www.verykship.com/\nWE|DO\tWE|DO\thttps://www.wedo.cz/\nWEDO\t运德\thttps://www.wedoexpress.com/\nWWE\tWWE\thttps://www.weworldexpress.com/\nWIA Fulfill\t维亚智通\thttps://www.wia-sourcing.com/\nWing\tWing\thttps://www.wing.ae/\nWishpost\tWish邮\thttps://www.wishpost.cn/\nworldwide logistics\t环世物流集团\thttps://www.worldwide-logistics.cn/\nWST\t万顺通\thttps://www.wst.group/\nWeitu Technology Logistics\t维途科技物流\thttps://www.wtkjwl.com/\nXDP EXPRESS\tXDP EXPRESS\thttps://www.xdp.co.uk/express/\nXingTongGlobal\t星通集运\thttps://www.xingtongjiyun.com/\nXPO Logistics\tXPO Logistics\thttps://www.xpo.com/\nYYT\t易邮通\thttps://www.ydmex.com/\nYF Logistics\tYF Logistics\thttps://www.yflogisticsllc.com/\nYiMiDiDa\t壹米滴答\thttps://www.yimidida.com/\nFF Express\t一言\thttps://www.yiyanjc.com/\nYodel\tYodel\thttps://www.yodel.net.cn/\nYUNANT\t云蚁\thttps://www.yunant56.com/\nYunExpress\t云途物流\thttps://www.yunexpress.cn/\nYunS\t远尚物流\thttps://www.yunsexpress.com/\nYUNWUJIE\t运无界\thttps://www.yunwuj.com/\nYurtici Kargo\tYurtici Kargo\thttps://www.yurticikargo.com/\nYusen Logistics\tYusen Logistics\thttps://www.yusen-logistics.com/\nYuanzk\t源之康物流\thttps://www.yzk56.com\nZasilkovna(Zásilkovna)\tZasilkovna(Zásilkovna)\thttps://www.zasilkovna.cz/\nZDA\t中达国际\thttps://www.zda.com/\nZeleris\tZeleris\thttps://www.zeleris.com/\nZLC\t以星物流\thttps://www.zim-logistics.com.cn/\nZhongShu Supply Chain\t忠恕供应链\thttps://www.zs-sci.com/\nZTO Express\t中通快递\thttps://www.zto.com\nZTO International\t中通国际\thttps://www.ztoglobal.com/\nZTWL\t中塔物流\thttps://www.ztwlexpress.com/\nOBC Logistics\tOBC Logistics\thttps://www.zuexpress.cn/\nZYQQ\t转运全球\thttps://www.zyqq.cc/\nyaohongguoji\t耀鸿国际\thttps://yaohongguoji.com/\nYRC Freight\tYRC Freight\thttps://yrc.com/\nZajil Express\tZajil Express\thttps://zajil-express.com/\nZinc\tZinc\thttps://zinc.io/\nCK internation\t希凯国际\tmain.expressclearport.top\n--- Sheet: 交易类型 ---\n交易类型\ngoods",
+"sheets":{
+"交易信息":{
+"state":"visible",
+"rows":[
+[
+"",
+"",
+"填写说明：\t\t\n\n\t1. 请您提供180天内的贝宝海外账户订单交易，填写在“交易信息”页内，红色字体标明【必填】的信息列为必须填写，缺失将导致整个文件无效。\t\n\t2. 请按照每个必填项的格式及内容规范进行填写，格式或内容不符合规范则该条交易记录不做申报。\t\n\t3. 您只需填写通过贝宝收单的交易， 通过其他支付渠道收单的交易不在可回款范围内。\t\n\t4. 请填写您的货物贸易的交易信息，暂无法通过上传佐证材料审查服务贸易对应的交易资格。\n\t5. 请检查填写内容并保存，确保信息真实准确，否则可能会导致您申请的额度审核失败。"
+],
+[
+"",
+"原始订单交易号\n必填",
+"订单日期\n必填",
+"币种\n必填",
+"订单金额\n必填",
+"商品数量\n必填",
+"订单描述\n必填",
+"物流公司\n必填",
+"物流单号\n必填",
+"发货日期",
+"收货国家",
+"收货城市",
+"收货地址"
+],
+[
+"填写规范",
+"此字段必填，请填写您贝宝海外账户收单交易的交易号，非电商系统订单号",
+"此字段必填，原始海外账户收单交易日期，需符合日期格式YYYY/MM/DD",
+"此字段必填，原始海外账户收单交易币种，需填写币种三字代码",
+"此字段必填，请填写您贝宝海外账户收单交易金额（此金额包含手续费，需保留小数点后两位）",
+"此字段必填，请将一个订单内所有商品的数量加总，填写汇总后商品数量",
+"此字段必填，请根据实际交易情况填写有效的商品名称。若一个订单有多个商品，请将所有商品名称逐一拼接全部罗列，用英文逗号,分隔",
+"此字段必填，请填写实际服务的物流公司名称，未发货暂无物流信息的订单可以在发货后再来补充。若一个订单拆分多个包裹投递，请将有物流公司名称逐一拼接全部罗列，用英文逗号,分隔。 请规范填写物流公司名称，可从“物流公司”页签中查询，填写A列-物流公司代码。",
+"此字段必填，请填写实际服务的物流公司下准确的物流单号，未发货暂无物流信息的订单可以在发货后再来补充。若一个订单拆分多个包裹投递，请将有物流单号逐一拼接全部罗列，用英文逗号,分隔。",
+"此字段非必填，若一个订单拆分多个包裹投递，请将有发货日期逐一拼接全部罗列，用英文逗号,分隔，需符合日期格式YYYY/MM/DD",
+"此字段非必填，需填写最后一个包裹收货国家的二字代码，代码可在此查询：",
+"此字段非必填，需填写最后一个包裹的收货城市名称",
+"此字段非必填，需填写最后一个包裹的收货地址"
+],
+[
+"",
+"",
+"",
+"币种代码",
+"",
+"",
+"",
+"查询物流公司名称",
+"",
+"",
+"查询收货国家代码"
+],
+[
+"填写示例",
+"9W7118680S7697800",
+"2022-12-28 00:00:00",
+"USD",
+"50",
+"5",
+"Customised lashes, Cotton baby socks 10 Pairs with mixed color",
+"Afghan Post, American Express",
+"AF88373653, AE7376653DS",
+"2022/12/31, 2023/01/03",
+"US",
+"New York",
+"234234  Feathers Hooves Drive, Brentwood, NY, New York, US"
+],
+[
+"",
+"21P518391G4768135",
+"2024-04-16 00:00:00",
+"USD",
+"178.5",
+"4",
+"4 pieces Industrial Ethernet Switch",
+"FedEx",
+"273802216228",
+"2024-04-23 00:00:00",
+"India",
+"Uttar Pradesh",
+"Plot No. 218, Udyog Kendra 1, Ecotech 3 Greater Noida - 201306, Uttar Pradesh, India"
+],
+[
+"",
+"9TP97830YJ087900R",
+"2024-04-18 00:00:00",
+"USD",
+"452",
+"1",
+"1 Piece Commercial Ethernet Switch",
+"UPS",
+"1ZB60W376722958650",
+"2024-04-26 00:00:00",
+"US",
+"California",
+"5160 Avenida De Despacio Yorba Linda, CA 92887"
+]
+]
+},
+"物流公司":{
+"state":"visible",
+"rows":[
+[
+"物流公司信息"
+],
+[
+"物流公司代码",
+"物流公司（中文）",
+"公司网站"
+],
+[
+"JX EXPRESS",
+"吉箱物流",
+"http://119.23.49.43/index.html"
+],
+[
+"CR-RUSSIA",
+"RUSSIA专线",
+"http://568logistics.com/"
+],
+[
+"5UL",
+"5UL",
+"http://5ulogistics.com/"
+],
+[
+"WUYOUEXP",
+"物邮供应链",
+"http://aa.yichuan99.com/"
+],
+[
+"Afghan Post",
+"Afghan Post",
+"http://afghanpost.gov.af/"
+],
+[
+"AnserX",
+"AnserX",
+"http://anserx.com/"
+],
+[
+"Micro Express",
+"Micro Express",
+"http://api.mircoexpress.com/"
+],
+[
+"ART LOGISTICS",
+"ART LOGISTICS",
+"http://artlogexpress.com/"
+],
+[
+"AT",
+"AT",
+"http://a-tian.aflyfish.com/"
+],
+[
+"Australia Post",
+"Australia Post",
+"http://auspost.com.au/"
+],
+[
+"Belpost",
+"Belpost",
+"http://belpost.by/"
+],
+[
+"Blue Dart Express",
+"Blue Dart Express",
+"http://bluedart.com/"
+],
+[
+"BRANDING WORLDWIDE PTY LTD",
+"BRANDING WORLDWIDE PTY LTD",
+"http://brandingworldwide.com.au/"
+],
+[
+"Cambodia Post",
+"Cambodia Post",
+"http://cambodiapost.post/"
+],
+[
+"CDEX",
+"辰达国际物流",
+"http://chenda.toujiaa.cn/"
+],
+[
+"Equatorial Supply Chain",
+"赤道供应链",
+"http://chidaogroup.com/"
+],
+[
+"Conwest Logistics",
+"西征物流",
+"http://conwest-logistics.com/"
+],
+[
+"Antilles Post",
+"Antilles Post",
+"http://cpostinternational.com/"
+],
+[
+"SIHAI INC",
+"克里斯兰",
+"http://crystalline.vip/"
+],
+[
+"CHINA SOUTHERN AIR LOGISTICS",
+"南航物流",
+"http://csairlog.com/"
+],
+[
+"CXC Express",
+"CXC Express",
+"http://cxc.com.hk/"
+],
+[
+"DJX",
+"大巨星国际",
+"http://dajuxing.com.cn/"
+],
+[
+"QSY",
+"全速易物流",
+"http://daraii.com/"
+],
+[
+"DDU Express",
+"DDU Express",
+"http://ddu-express.com/"
+],
+[
+"DVEX",
+"德维国际",
+"http://dwgjex.com/"
+],
+[
+"DYEXPRESS",
+"德远物流",
+"http://dyexpress.com/"
+],
+[
+"Easy Way",
+"Easy Way",
+"http://easyway.ru/"
+],
+[
+"EFS (E-commerce Fulfillment Service)",
+"EFS (E-commerce Fulfillment Service)",
+"http://efs.asia/"
+],
+[
+"EWS",
+"EWS",
+"http://epost.8dt.com/"
+],
+[
+"ESE",
+"俄速易",
+"http://e-se.cn/"
+],
+[
+"ETS",
+"ETS",
+"http://ets-express.com/"
+],
+[
+"CHINACOURIER",
+"中快",
+"http://export.chinacourierhk.com:9088/login"
+],
+[
+"Lingjing",
+"灵境",
+"http://express-lj.com/"
+],
+[
+"FARGO",
+"FARGO",
+"http://fargo.uz/"
+],
+[
+"Fastgo",
+"速派快递",
+"http://fastgo.com.au/"
+],
+[
+"FLS",
+"福来讯",
+"http://fls.aprche.net/"
+],
+[
+"UPU",
+"UPU",
+"http://globaltracktrace.ptc.post/gtt.web/"
+],
+[
+"Gobopost",
+"环球易寄",
+"http://gobopost.com/"
+],
+[
+"Georgian Post",
+"Georgian Post",
+"http://gpost.ge/"
+],
+[
+"Grand Slam Express",
+"Grand Slam Express",
+"http://grandslamexpress.in/"
+],
+[
+"Guyana Post",
+"Guyana Post",
+"http://guypost.gy/"
+],
+[
+"HYL",
+"皓宇物流",
+"http://haoyuwms.com/"
+],
+[
+"HDQN",
+"HD物流",
+"http://hdgj19.com/"
+],
+[
+"Superhero Express",
+"Superhero Express",
+"http://heroexpress.com.au/"
+],
+[
+"Hiyes",
+"新航通运",
+"http://hiyes.com.tw/"
+],
+[
+"Lidi Logistics",
+"利滴物流",
+"http://hnlidi.cn/"
+],
+[
+"Super Pack Line",
+"Super Pack Line",
+"http://home.57track.com/"
+],
+[
+"HSDGJ",
+"寰世达",
+"http://hsdexpress.com/"
+],
+[
+"YFHT",
+"YFHT",
+"http://htkjwl.cn/"
+],
+[
+"SRJ",
+"思睿捷国际",
+"http://huayu-ex.com/"
+],
+[
+"GZHY",
+"广州华亚",
+"http://hyytgz.com/"
+],
+[
+"HZC",
+"洪赞成物流",
+"http://hzc-express.com/"
+],
+[
+"ILINE",
+"以通",
+"http://il.lmfun.net/"
+],
+[
+"SF Express",
+"顺丰速运",
+"http://intl.sf-express.com/"
+],
+[
+"Jiuzeyuan",
+"广州九泽元",
+"http://jiuzytech.com/"
+],
+[
+"JPSGJ",
+"捷谱斯国际",
+"http://jpsgjwl.com/"
+],
+[
+"Kiribati Post",
+"Kiribati Post",
+"http://kiribatipost.net.ki/"
+],
+[
+"K-mestu",
+"K-mestu",
+"http://k-mestu.ru/"
+],
+[
+"Kong Lok Express",
+"港乐速邮",
+"http://konglok.com/"
+],
+[
+"Kyrgyz Post",
+"Kyrgyz Post",
+"http://kyrgyzpost.kg/"
+],
+[
+"LCS-Leopards Courier Service",
+"LCS-Leopards Courier Service",
+"http://leopardscourier.com/pk/"
+],
+[
+"Lesotho Post",
+"Lesotho Post",
+"http://lesothopost.org.ls/"
+],
+[
+"Libya Post",
+"Libya Post",
+"http://libyapost.ly/"
+],
+[
+"MailAmericas",
+"MailAmericas",
+"http://mailamericas.com/"
+],
+[
+"MCN",
+"麦链中国",
+"http://mailiancn.com/"
+],
+[
+"Mark Express",
+"Mark Express",
+"http://markexpress.co.in/"
+],
+[
+"Meest",
+"Meest",
+"http://meest-group.com/"
+],
+[
+"Kuwait Post",
+"Kuwait Post",
+"http://moc.gov.kw/"
+],
+[
+"DIDADI",
+"嘀嗒嘀物流科技",
+"http://mydidadi.com/"
+],
+[
+"NET SPA",
+"NET SPA",
+"http://netspaitalia.com/"
+],
+[
+"XINGYUAN",
+"XINGYUAN",
+"http://new.sz-tianma.com/"
+],
+[
+"Nova Poshta",
+"Nova Poshta",
+"http://novaposhta.ua/"
+],
+[
+"OCS ANA Group",
+"OCS ANA Group",
+"http://ocs-india.in/eng/"
+],
+[
+"Ondot Courier",
+"Ondot Courier",
+"http://ondotcouriers.co.in/index.aspx"
+],
+[
+"OYXGJ",
+"欧亚兴",
+"http://oyx-express.com/"
+],
+[
+"PT Maju Bersama Semeru (Parcelgoo)",
+"PT Maju Bersama Semeru (Parcelgoo)",
+"http://parcelgoo.com/"
+],
+[
+"PKD express",
+"派刻达国际",
+"http://pkdexpress.com/"
+],
+[
+"Iran Post",
+"Iran Post",
+"http://post.ir/"
+],
+[
+"Magyar Posta",
+"Magyar Posta",
+"http://posta.hu/"
+],
+[
+"Posta e Kosovës",
+"Posta e Kosovës",
+"http://postakosoves.com/"
+],
+[
+"Qingzhou Supply Chain",
+"擎洲供应链",
+"http://qz.jiwangyun.com/"
+],
+[
+"RaBee Express",
+"RaBee Express",
+"http://rabee.mx/"
+],
+[
+"Runner Express",
+"Runner Express",
+"http://runnerexpress.co.il/"
+],
+[
+"RZ",
+"睿致国际",
+"http://rzrzwl.cn/"
+],
+[
+"Samoa Post",
+"Samoa Post",
+"http://samoapost.ws/"
+],
+[
+"Sangzhou",
+"上海桑州",
+"http://sangzhou.net/"
+],
+[
+"Shree Mahavir Express Services",
+"Shree Mahavir Express Services",
+"http://shreemahavircourier.com/"
+],
+[
+"SKR",
+"SKR",
+"http://skr56.com/"
+],
+[
+"SKUARE",
+"世宽国际",
+"http://skuare.com.cn/"
+],
+[
+"Super Parcel Track",
+"速鹏",
+"http://sp-track.com/"
+],
+[
+"StarTrack",
+"StarTrack",
+"http://startrack.com.au/"
+],
+[
+"ST Courier",
+"ST Courier",
+"http://stcourier.com/"
+],
+[
+"Sudan Post",
+"Sudan Post",
+"http://sudapost.sd/"
+],
+[
+"Superior Digital",
+"速点供应链",
+"http://superior-digital.com/"
+],
+[
+"2GO",
+"2GO",
+"http://supplychain.2go.com.ph/"
+],
+[
+"SQGJ",
+"胜琪国际",
+"http://suzsq.com/"
+],
+[
+"HONGXING",
+"鸿兴运通",
+"http://szhxyt-express.com/"
+],
+[
+"HMCP",
+"环贸仓配",
+"http://sztoppost.com/"
+],
+[
+"Chaoyue international logistics",
+"超跃国际物流",
+"http://tan251278210.b2b168.com"
+],
+[
+"TMM Express",
+"TMM Express",
+"http://tmm-express.com/"
+],
+[
+"EasySeller",
+"亿迈",
+"http://tms.easyseller.com/"
+],
+[
+"Global Express",
+"Global Express",
+"http://tongtuexpress.com/"
+],
+[
+"FANKU",
+"FANKU",
+"http://topfba56.com/"
+],
+[
+"Top Logistics Australia (TLA)",
+"Top Logistics Australia (TLA)",
+"http://toplogistics.com.au/"
+],
+[
+"Sinotrans",
+"中外运香港",
+"http://trace.sinotrans.hk/"
+],
+[
+"OmniParcel",
+"OmniParcel",
+"http://track.omniparcel.com/"
+],
+[
+"KJY",
+"跨境翼",
+"http://tracking.kjy.com/"
+],
+[
+"Ukrposhta",
+"Ukrposhta",
+"http://ukrposhta.ua/"
+],
+[
+"DEQI",
+"德启",
+"http://web.tpdex.com/"
+],
+[
+"West Bank",
+"West Bank",
+"http://westbankcourier.com/"
+],
+[
+"BQC",
+"百千诚物流",
+"http://www.1001000.com/"
+],
+[
+"China EMS",
+"China EMS",
+"http://www.11183.com.cn/"
+],
+[
+"139Express",
+"139Express",
+"http://www.139express.com/"
+],
+[
+"ANT Express",
+"广州安创",
+"http://www.168express.cn/"
+],
+[
+"FEIA",
+"FEIA",
+"http://www.17feia.com/"
+],
+[
+"EQT",
+"EQT",
+"http://www.17post56.com/"
+],
+[
+"EDL",
+"壹递诺",
+"http://www.1dlexpress.com/"
+],
+[
+"JYC",
+"金羊城",
+"http://www.1hhz.com/"
+],
+[
+"1STOP",
+"一站到岸",
+"http://www.1stop.net/"
+],
+[
+"1TONG",
+"1TONG",
+"http://www.1tongexpress.com/"
+],
+[
+"YMY",
+"YMY",
+"http://www.2ezi-ymy.com/"
+],
+[
+"1972-04-01 00:00:00",
+"1972-04-01 00:00:00",
+"http://www.4-72.com.co/"
+],
+[
+"TSE",
+"TSE",
+"http://www.51856.xyz/"
+],
+[
+"JCYT56",
+"JCYT56",
+"http://www.51jcyt.com/"
+],
+[
+"EPOS",
+"深圳宜友",
+"http://www.58epos.com/"
+],
+[
+"ED POST",
+"ED POST",
+"http://www.666post.com/"
+],
+[
+"6ZEX",
+"六洲速通",
+"http://www.6zexpress.com/"
+],
+[
+"Best Inc.",
+"百世国际",
+"http://www.800bestex.com/"
+],
+[
+"XYL",
+"兴远国际",
+"http://www.816kf.com/"
+],
+[
+"BEL",
+"北俄国际",
+"http://www.8256ru.com/"
+],
+[
+"ESX Logistics",
+"八星物流",
+"http://www.8starexpress.com/"
+],
+[
+"AAA Cooper Transportation",
+"AAA Cooper Transportation",
+"http://www.aaacooper.com/"
+],
+[
+"ABF Freight",
+"ABF Freight",
+"http://www.abfs.com/"
+],
+[
+"ADA国际",
+"艾递爱国际",
+"http://www.adakd.com/"
+],
+[
+"CIMC ADS",
+"中集安达顺",
+"http://www.ads-logistics.com/"
+],
+[
+"AFT",
+"阿凡提",
+"http://www.aft.ltd/"
+],
+[
+"PP-AIR",
+"派派国际",
+"http://www.airpaipai.com.cn/"
+],
+[
+"Anjieli express",
+"安捷利物流",
+"http://www.ajlexpress.com/index.html"
+],
+[
+"Aland Post",
+"Aland Post",
+"http://www.alandpost.ax/"
+],
+[
+"Allied Express Transport",
+"Allied Express Transport",
+"http://www.alliedexpress.com.au/"
+],
+[
+"ALLJOY",
+"ALLJOY",
+"http://www.alljoylogistics.com/"
+],
+[
+"AM Home Delivery",
+"AM Home Delivery",
+"http://www.amtrucking.com/index.php"
+],
+[
+"Angelo Logistics",
+"安吉诺",
+"http://www.angelo-latin.com/"
+],
+[
+"AO YOU",
+"澳运国际",
+"http://www.aoyunltd.com/"
+],
+[
+"Aramex",
+"Aramex",
+"http://www.aramex.com/"
+],
+[
+"Asendia",
+"Asendia",
+"http://www.asendia.com/"
+],
+[
+"Asendia USA",
+"Asendia USA",
+"http://www.asendiausa.com/"
+],
+[
+"ASIAFLY",
+"ASIAFLY",
+"http://www.asiafly.com.cn/"
+],
+[
+"AUS",
+"AUS",
+"http://www.asusexp.com/"
+],
+[
+"ATMAD GLOBAL CARGO",
+"深圳隆诚",
+"http://www.atmadcargo.com/"
+],
+[
+"AtWindow",
+"在窗",
+"http://www.atwindow.com/"
+],
+[
+"AOS",
+"澳舜物流",
+"http://www.auaos.com/"
+],
+[
+"YunHui Logistics",
+"云晖物流",
+"http://www.ayh56.com/"
+],
+[
+"Azer Express Post",
+"Azer Express Post",
+"http://www.azems.az/"
+],
+[
+"BAB",
+"BAB",
+"http://www.bab-ru.com/"
+],
+[
+"Basa International",
+"巴萨国际",
+"http://www.basaexp.com/"
+],
+[
+"Basl Express",
+"Basl Express",
+"http://www.baslexpress.com/"
+],
+[
+"BCD",
+"佰舱达",
+"http://www.bcdexpress.com/"
+],
+[
+"BE",
+"贝乙国际",
+"http://www.beiyiguoji56.com/"
+],
+[
+"Belize Post",
+"Belize Post",
+"http://www.belizepostalservice.gov.bz/"
+],
+[
+"Bulgarian Post",
+"Bulgarian Post",
+"http://www.bgpost.bg/"
+],
+[
+"Bhutan Post",
+"Bhutan Post",
+"http://www.bhutanpost.bt/"
+],
+[
+"Black Arrow Express",
+"Black Arrow Express",
+"http://www.blackarrow.express/"
+],
+[
+"BL",
+"比邻供应链",
+"http://www.blexpress.com.cn/"
+],
+[
+"BONA",
+"商盟",
+"http://www.bnexp.com/"
+],
+[
+"BODA",
+"博达捷运",
+"http://www.boda-express.com/"
+],
+[
+"Botswana Post",
+"Botswana Post",
+"http://www.botspost.co.bw/"
+],
+[
+"BOX",
+"博克斯供应链",
+"http://www.boxexpress.com.cn/"
+],
+[
+"BOXIN",
+"博信国际物流",
+"http://www.boxinexpress.com:82/"
+],
+[
+"Bpost International",
+"Bpost International",
+"http://www.bpost2.be/bpostinternational/track_trace/find.php"
+],
+[
+"Barbados Post",
+"Barbados Post",
+"http://www.bps.gov.bb/"
+],
+[
+"BR1",
+"BR1",
+"http://www.br1express.com/"
+],
+[
+"BRT Bartolini(DPD)",
+"BRT Bartolini(DPD)",
+"http://www.brt.it/"
+],
+[
+"BSB",
+"福州八十八",
+"http://www.bsbtt.com/"
+],
+[
+"BSIE",
+"柏电科技物流",
+"http://www.bsiecommerce.com/"
+],
+[
+"BSI",
+"BSI",
+"http://www.bsiscm.com/"
+],
+[
+"BTD",
+"BTD",
+"http://www.btdair.com/"
+],
+[
+"BUFFALO",
+"BUFFALO",
+"http://www.buffaloex.com/"
+],
+[
+"BuyLogic",
+"捷买送",
+"http://www.buylogic.cc/"
+],
+[
+"LJKJ56",
+"蓝鲸物流",
+"http://www.b-whale.cn/"
+],
+[
+"Hundred Miles Freight",
+"Hundred Miles Freight",
+"http://www.bwwlys.com/"
+],
+[
+"octopus",
+"八爪鱼",
+"http://www.bzy-sz.com/"
+],
+[
+"Cacesa Postal",
+"Cacesa Postal",
+"http://www.cacesapostal.com/"
+],
+[
+"Canada Post",
+"Canada Post",
+"http://www.canadapost.ca/"
+],
+[
+"YF518",
+"袁航电子",
+"http://www.cargo518.com/"
+],
+[
+"JLH",
+"嘉利华",
+"http://www.carnivalsup.cn/"
+],
+[
+"CBL Logistica",
+"CBL Logistica",
+"http://www.cbl-logistica.com/"
+],
+[
+"CDEK",
+"CDEK",
+"http://www.cdek.ru/"
+],
+[
+"CENTEX",
+"忠进货运",
+"http://www.centex.cc/"
+],
+[
+"Czech Post",
+"Czech Post",
+"http://www.ceskaposta.cz/"
+],
+[
+"CGS",
+"CGS",
+"http://www.cgs-express.com/"
+],
+[
+"CD",
+"CD",
+"http://www.chengdaguoji.com.cn/"
+],
+[
+"SY Express",
+"顺阳供应链",
+"http://www.chengfengexpress.com/"
+],
+[
+"Chronopost",
+"Chronopost",
+"http://www.chronopost.fr/"
+],
+[
+"Chukou1",
+"出口易",
+"http://www.chukou1.com/"
+],
+[
+"CHH",
+"春红物流",
+"http://www.chunhonggyl.com/"
+],
+[
+"CITITRANS",
+"亦邦国际",
+"http://www.cititrans.com/"
+],
+[
+"City Link",
+"City Link",
+"http://www.citylinkexpress.com/"
+],
+[
+"YL",
+"希凯易",
+"http://www.ckeex.com/"
+],
+[
+"DH",
+"信达全球",
+"http://www.cn-atiger.com/"
+],
+[
+"CND",
+"辰诺达物流",
+"http://www.cndexpress.com/"
+],
+[
+"CNE",
+"CNE",
+"http://www.cne.com/"
+],
+[
+"Gande",
+"贛德",
+"http://www.cngood56.com/"
+],
+[
+"LINLONG",
+"LINLONG",
+"http://www.cnllexp.com/index.html"
+],
+[
+"Colis Prive(Colis Privé)",
+"Colis Prive(Colis Privé)",
+"http://www.colisprive.com/"
+],
+[
+"ComOne Express",
+"商壹国际",
+"http://www.com1express.net/"
+],
+[
+"COMEBOX",
+"盟塔斯",
+"http://www.comebox.cn/"
+],
+[
+"Compass",
+"Compass",
+"http://www.compass-logistics.com/"
+],
+[
+"Correios Brazil",
+"Correios Brazil",
+"http://www.correios.com.br/"
+],
+[
+"Correios Cabo Verde",
+"Correios Cabo Verde",
+"http://www.correios.cv/"
+],
+[
+"Correo Uruguayo",
+"Correo Uruguayo",
+"http://www.correo.com.uy/"
+],
+[
+"Correo Argentino",
+"Correo Argentino",
+"http://www.correoargentino.com.ar/"
+],
+[
+"Correo Paraguayo",
+"Correo Paraguayo",
+"http://www.correoparaguayo.gov.py/"
+],
+[
+"Correos de Cuba",
+"Correos de Cuba",
+"http://www.correos.cu/"
+],
+[
+"Correos Spain",
+"Correos Spain",
+"http://www.correos.es/"
+],
+[
+"Correos Costa Rica",
+"Correos Costa Rica",
+"http://www.correos.go.cr/"
+],
+[
+"Nicaragua Post",
+"Nicaragua Post",
+"http://www.correos.gob.ni/"
+],
+[
+"Correo El Salvador",
+"Correo El Salvador",
+"http://www.correos.gob.sv/"
+],
+[
+"Correos Ecuador",
+"Correos Ecuador",
+"http://www.correosdelecuador.gob.ec/"
+],
+[
+"Mexico Post",
+"Mexico Post",
+"http://www.correosdemexico.gob.mx/"
+],
+[
+"Correos Panama",
+"Correos Panama",
+"http://www.correospanama.gob.pa/"
+],
+[
+"Cosco Shipping Air",
+"中远海运空运",
+"http://www.cosco-eglobal.com/"
+],
+[
+"COSEX",
+"浙江慧合",
+"http://www.cosex.cn/index"
+],
+[
+"CourierPlus Nigeria",
+"CourierPlus Nigeria",
+"http://www.courierplus-ng.com/"
+],
+[
+"CPEX",
+"CPEX",
+"http://www.cpex.ltd/"
+],
+[
+"CSE",
+"CSE",
+"http://www.cse-exp.com/"
+],
+[
+"CSIL",
+"常昇国际",
+"http://www.csil-group.com/"
+],
+[
+"XTOOLS",
+"超兔供应链",
+"http://www.ct-scm.com/"
+],
+[
+"CTT",
+"CTT",
+"http://www.ctt.pt/"
+],
+[
+"EASIPASS",
+"诚约轻松递",
+"http://www.cvnlog.com/"
+],
+[
+"CXE",
+"宸迅速递",
+"http://www.cxe.cc/"
+],
+[
+"Chuangyu Logistics",
+"创宇物流",
+"http://www.cy-express.com/"
+],
+[
+"Dawn Wing (DPD Laser)",
+"Dawn Wing (DPD Laser)",
+"http://www.dawnwing.co.za/"
+],
+[
+"Dongdi exp",
+"东帝国际",
+"http://www.ddgj.hailei2018.com/"
+],
+[
+"DDGYL",
+"东渡供应链",
+"http://www.ddgyl.vip/"
+],
+[
+"Dealfy",
+"Dealfy",
+"http://www.dealfy.com/"
+],
+[
+"Deppon",
+"德邦",
+"http://www.deppon.com/"
+],
+[
+"Deutsche Post Mail",
+"Deutsche Post Mail",
+"http://www.deutschepost.de/"
+],
+[
+"DH CITY EXPRESS",
+"DH城市快递",
+"http://www.dhcityexpress.com/"
+],
+[
+"DHL Parcel (PL)",
+"DHL Parcel (PL)",
+"http://www.dhl.com.pl/"
+],
+[
+"DHL",
+"DHL",
+"http://www.dhl.com/"
+],
+[
+"DHL Parcel (ES)",
+"DHL Parcel (ES)",
+"http://www.dhl.es/"
+],
+[
+"DIDA International Logistics",
+"嘀嗒国际物流",
+"http://www.dida-exp.com/"
+],
+[
+"Direct Link",
+"Direct Link",
+"http://www.directlink.com/"
+],
+[
+"DYLogistics",
+"递亿物流",
+"http://www.diyilog.com/"
+],
+[
+"DaMai Yuncang",
+"大迈云仓",
+"http://www.dmyc1688.com/"
+],
+[
+"DNJ Express",
+"DNJ Express",
+"http://www.dnjexpress.com/en/"
+],
+[
+"DOR",
+"任意门",
+"http://www.doragate.com/"
+],
+[
+"DPD (UK)",
+"DPD (UK)",
+"http://www.dpd.co.uk/"
+],
+[
+"DPD (DE)",
+"DPD (DE)",
+"http://www.dpd.com/"
+],
+[
+"DPD (FR)",
+"DPD (FR)",
+"http://www.dpd.fr/"
+],
+[
+"DPE Express",
+"递必易",
+"http://www.dpe.net.cn/"
+],
+[
+"DPEX",
+"DPEX",
+"http://www.dpex.com/"
+],
+[
+"DTDC",
+"DTDC",
+"http://www.dtdc.com/"
+],
+[
+"DTD",
+"DTD",
+"http://www.dtdexpress.mx/"
+],
+[
+"DWZ Expres",
+"递五洲",
+"http://www.dwz56.com/"
+],
+[
+"SZMY",
+"SZMY",
+"http://www.dxd-express.com/"
+],
+[
+"DYJ",
+"达运佳",
+"http://www.dyjexp.com/"
+],
+[
+"Ebaza",
+"易巴扎",
+"http://www.ebazorgroup.com/"
+],
+[
+"EBOEXP",
+"鄂宝",
+"http://www.eboexp.com/"
+],
+[
+"ECexpress",
+"ECexpress",
+"http://www.ecexpress.com.cn/"
+],
+[
+"ECG",
+"ECG",
+"http://www.ecgexpress.com/"
+],
+[
+"ECGO",
+"易速达",
+"http://www.ecgo.group/"
+],
+[
+"ECMS",
+"易客满",
+"http://www.ecmsglobal.com/"
+],
+[
+"E-commerce KZ",
+"E-commerce KZ",
+"http://www.e-commercekz.com/"
+],
+[
+"E-Com Shipping Solutions (P) Ltd",
+"E-Com Shipping Solutions (P) Ltd",
+"http://www.ecsspl.com/"
+],
+[
+"edaycome",
+"宜日达",
+"http://www.edaycome.com/home"
+],
+[
+"eDeliver",
+"递速易国际",
+"http://www.e-delivering.com/"
+],
+[
+"Egypt Post",
+"Egypt Post",
+"http://www.egyptpost.org/"
+],
+[
+"ELTA",
+"ELTA",
+"http://www.elta.gr/"
+],
+[
+"EMPS Express",
+"快信快包",
+"http://www.empsexpress.com/"
+],
+[
+"Algeria EMS",
+"Algeria EMS",
+"http://www.ems.dz/"
+],
+[
+"Pantos Logistics (LX PANTOS)",
+"Pantos Logistics (LX PANTOS)",
+"http://www.epantos.com/"
+],
+[
+"ePOST (인터넷우체국)",
+"ePOST (인터넷우체국)",
+"http://www.epost.go.kr/"
+],
+[
+"EPS CROSS BORDER",
+"易办事跨境",
+"http://www.eps56.com/"
+],
+[
+"EPP",
+"EPP",
+"http://www.epsglobe.com/"
+],
+[
+"EPS",
+"EPS",
+"http://www.epsglobe.com/"
+],
+[
+"Equick",
+"Equick",
+"http://www.equick.cn/"
+],
+[
+"Eritrea Post",
+"Eritrea Post",
+"http://www.eriposta.com/"
+],
+[
+"TopEx",
+"卓志速运",
+"http://www.esdex.com/"
+],
+[
+"eShiper发件网",
+"eShiper发件网",
+"http://www.eshiper.com/"
+],
+[
+"YHT",
+"YHT",
+"http://www.eshippinggateway.com/"
+],
+[
+"Espost",
+"Espost",
+"http://www.espost.es/"
+],
+[
+"ETEEN",
+"ETEEN",
+"http://www.eteenlog.com/"
+],
+[
+"Ethiopian Post",
+"Ethiopian Post",
+"http://www.ethiopostal.com/"
+],
+[
+"PACIFAC",
+"亿泰",
+"http://www.etscp.com/"
+],
+[
+"EWE Global Express",
+"EWE全球物流",
+"http://www.ewe.com.au/"
+],
+[
+"Exelot",
+"Exelot",
+"http://www.exelot.com/"
+],
+[
+"ExwWorld",
+"沃德通",
+"http://www.exwworld.cn/"
+],
+[
+"EUK",
+"优客国际",
+"http://www.e-youke.com/"
+],
+[
+"Wu Xing Supply Chain",
+"伍星供应链",
+"http://www.faivstar.com/"
+],
+[
+"FAR International",
+"FAR International",
+"http://www.far800.com/"
+],
+[
+"fargood",
+"发个货",
+"http://www.fargoodexpress.com/"
+],
+[
+"FASTSUPPLY",
+"FASTSUPPLY",
+"http://www.fastsupply.cn/"
+],
+[
+"Fastway (ZA)",
+"Fastway (ZA)",
+"http://www.fastway.co.za/"
+],
+[
+"Fastway (IE)",
+"Fastway (IE)",
+"http://www.fastway.ie/"
+],
+[
+"BHT",
+"白海豚",
+"http://www.fastzt.com/"
+],
+[
+"FBADiDi",
+"FBADiDi",
+"http://www.fbadidi.com/"
+],
+[
+"FCJY",
+"风驰集运",
+"http://www.fcgjwl.com/"
+],
+[
+"FCKJ",
+"飞驰供应链",
+"http://www.fckjexpress.com/"
+],
+[
+"FedEx",
+"FedEx",
+"http://www.fedex.com/"
+],
+[
+"FBB",
+"摆渡一下",
+"http://www.ferryboatlogistics.com/"
+],
+[
+"FF express",
+"飞飞物流",
+"http://www.ff-ex.com/"
+],
+[
+"FIRST LINE",
+"壹号专线",
+"http://www.firstline56.com/"
+],
+[
+"FLGJ",
+"方联国际物流",
+"http://www.flqq56.com/"
+],
+[
+"FLT",
+"富路通",
+"http://www.fltpost.com/"
+],
+[
+"FLYT",
+"飞特物流",
+"http://www.flytexpress.com/"
+],
+[
+"YFM",
+"YFM",
+"http://www.fmgjhy.com/"
+],
+[
+"Four Seasons",
+"四季正扬",
+"http://www.fourseasonsfly.net/"
+],
+[
+"FPS Logistics",
+"FPS Logistics",
+"http://www.fpslogistics.in/"
+],
+[
+"Franch Express",
+"Franch Express",
+"http://www.franchexpress.com/"
+],
+[
+"FSAC",
+"四海方舟",
+"http://www.fsaclog.com/"
+],
+[
+"FSQH",
+"佛山乾和",
+"http://www.fsqh.hailei2018.com/Default.aspx"
+],
+[
+"Fstexpress",
+"Fstexpress",
+"http://www.fstexpress.com.au/"
+],
+[
+"Fuhai Wulian",
+"富海物联",
+"http://www.fuhai618.com/"
+],
+[
+"FJEX",
+"FJEX",
+"http://www.fujexp.com/"
+],
+[
+"GAEA",
+"盖亚物流",
+"http://www.gaeaex.com/"
+],
+[
+"JSH",
+"嘉盛泓",
+"http://www.galaxy-ex.com/"
+],
+[
+"GXA",
+"GXA",
+"http://www.gaopost.com/"
+],
+[
+"Gati",
+"Gati",
+"http://www.gaticn.com/"
+],
+[
+"GCT",
+"GCT",
+"http://www.gcmy56.com/"
+],
+[
+"GZSZHHY",
+"政豪货运",
+"http://www.gd11183.cn/"
+],
+[
+"ASGYL",
+"安速供应链",
+"http://www.gdasgyl.com/"
+],
+[
+"GDE",
+"寄递易",
+"http://www.gde56.com/"
+],
+[
+"OUHUA",
+"欧华",
+"http://www.gdouhua.com/"
+],
+[
+"WSE Logistics",
+"威速易物流",
+"http://www.gdwse.com/"
+],
+[
+"YLE",
+"亚龙速运",
+"http://www.gdylwl.com/"
+],
+[
+"GEODIS",
+"GEODIS",
+"http://www.geodis.com/"
+],
+[
+"GFL Logística",
+"GFL Logística",
+"http://www.gflogistica.com.br/"
+],
+[
+"Ghana Post",
+"Ghana Post",
+"http://www.ghanapost.com.gh/"
+],
+[
+"GHL",
+"广和物流",
+"http://www.ghlcn.com/"
+],
+[
+"GIMEN",
+"巨门跨境",
+"http://www.gimen56.com/"
+],
+[
+"GLEX",
+"远东国际",
+"http://www.glex.net.cn/"
+],
+[
+"TO C LOGISTICS",
+"途曦物流",
+"http://www.globesuccess.com.cn/"
+],
+[
+"Dependable Supply Chain Services",
+"Dependable Supply Chain Services",
+"http://www.godependable.com/"
+],
+[
+"GoFast",
+"够快供应链",
+"http://www.gofastcn.com/"
+],
+[
+"Nepal Post",
+"Nepal Post",
+"http://www.gpo.gov.np/"
+],
+[
+"GFS",
+"鹏远国际",
+"http://www.grand-freight.com/"
+],
+[
+"Grupo ampm",
+"Grupo ampm",
+"http://www.grupoampm.com/"
+],
+[
+"SuE",
+"速俄",
+"http://www.gsmbest.club/"
+],
+[
+"GTI",
+"跨境易通",
+"http://www.gti56.com/"
+],
+[
+"GTS Express",
+"GTS Express",
+"http://www.gtsexpress.com/"
+],
+[
+"GYY",
+"广运源供应链",
+"http://www.guangyy56.com/"
+],
+[
+"GZZD",
+"广州卓达",
+"http://www.guangzhouexcellent.com/"
+],
+[
+"GYL",
+"国洋运通",
+"http://www.gyang.net/"
+],
+[
+"Hong Hai Chain",
+"宏海供应链",
+"http://www.gzbtygj.com/"
+],
+[
+"haohai",
+"浩海物流",
+"http://www.gzhaohai-express.com/"
+],
+[
+"JS International",
+"捷晟国际",
+"http://www.gzjsgj.com/"
+],
+[
+"More Logistics",
+"茂业物流",
+"http://www.gzmywl.com/"
+],
+[
+"ShiFeng",
+"时丰国际",
+"http://www.gzsfgj.com/"
+],
+[
+"TaiShi",
+"泰实",
+"http://www.gztaishi.com/"
+],
+[
+"XH",
+"XH",
+"http://www.gzxhgj.com/"
+],
+[
+"YIFAN",
+"一帆供应链",
+"http://www.gzyfgyl.com/"
+],
+[
+"YouMeiYuTong",
+"优美宇通",
+"http://www.gzymyt.com/"
+],
+[
+"Haypost",
+"Haypost",
+"http://www.haypost.am/"
+],
+[
+"Seashells tong",
+"海贝通",
+"http://www.hbtgj56.com/"
+],
+[
+"HuaHang",
+"华航吉运",
+"http://www.hhjy56.cn/"
+],
+[
+"HHY",
+"恒好运",
+"http://www.hhyexpress.com/"
+],
+[
+"HJ-GYL",
+"HJ-GYL",
+"http://www.hj-sc56.com/"
+],
+[
+"HJYT",
+"HJYT",
+"http://www.hjyt56.com/"
+],
+[
+"HKD",
+"HKD",
+"http://www.hkdexpress.net/"
+],
+[
+"Pickupp (HK)",
+"Pickupp (HK)",
+"http://www.hkpickup.com/"
+],
+[
+"HENGLONG GROUP",
+"恒龙集团",
+"http://www.hlongcargo.com/"
+],
+[
+"HMG",
+"黄马褂",
+"http://www.hmg-express.com/"
+],
+[
+"HMTM",
+"华美天马国际",
+"http://www.hmtmcn.com/"
+],
+[
+"HNCA Logistics",
+"河南航投物流",
+"http://www.hnhtyxgs.com/"
+],
+[
+"TRUSTONE",
+"全速通",
+"http://www.hnqst.cn/"
+],
+[
+"Correos de Honduras",
+"Correos de Honduras",
+"http://www.honducor.gob.hn/"
+],
+[
+"HongKong Post",
+"HongKong Post",
+"http://www.hongkongpost.hk/"
+],
+[
+"Honor Logistics",
+"荣耀国际",
+"http://www.honorlogistics.cn/"
+],
+[
+"Yechain",
+"易链供应链",
+"http://www.hopailogtech.com/"
+],
+[
+"HOS",
+"上海鸿沃",
+"http://www.hos-exp.com/"
+],
+[
+"HOSTO",
+"豪速通物流",
+"http://www.hostoexp.com/"
+],
+[
+"Hound Express",
+"Hound Express",
+"http://www.hound-express.com/"
+],
+[
+"HOYANGexpress",
+"弘扬物流",
+"http://www.hoyangexpress.com/"
+],
+[
+"Heping Logistics",
+"禾平物流",
+"http://www.hpgjwl.com/"
+],
+[
+"HQGJXB",
+"HQGJXB",
+"http://www.hqgjhy.cn/"
+],
+[
+"HRD",
+"HRD",
+"http://www.hrgjzx.com/"
+],
+[
+"HSD Express",
+"鸿盛达国际",
+"http://www.hsd-ex.com/"
+],
+[
+"Huasheng INT",
+"华昇国际",
+"http://www.hsgjky.com/"
+],
+[
+"HSGJ",
+"华商国际",
+"http://www.hsscm-ltd.com/"
+],
+[
+"ZL international",
+"纵联国际",
+"http://www.hsylian.com/"
+],
+[
+"HUANSHI56",
+"环世货运",
+"http://www.huanshi56.com/"
+],
+[
+"HuaXi Express",
+"华熙国际",
+"http://www.huaxiexpress.com/"
+],
+[
+"HUIN Logistics",
+"惠恩物流",
+"http://www.huinglobal.com/"
+],
+[
+"Huodull",
+"Huodull",
+"http://www.huodull.com/"
+],
+[
+"HX",
+"鸿鑫物流",
+"http://www.hxgj-exp.com/"
+],
+[
+"Hengxun Logistics",
+"恒巽物流",
+"http://www.hxlog.net/"
+],
+[
+"Haixin Express",
+"海鑫运通",
+"http://www.hxyt56.cn/"
+],
+[
+"HYE",
+"环洋国际",
+"http://www.hyexp.net/"
+],
+[
+"HY Express",
+"浩远国际",
+"http://www.hy-express.com/"
+],
+[
+"环越国际专线",
+"环越国际专线",
+"http://www.hyfba.cn/"
+],
+[
+"HY",
+"恒元嘉运",
+"http://www.hyjy-exp.com/"
+],
+[
+"HYTX",
+"HYTX",
+"http://www.hytx-exp.com/"
+],
+[
+"Wiio",
+"Wiio",
+"http://www.hzpdex.com/"
+],
+[
+"HZZH",
+"镇航国际",
+"http://www.hzzhexp.com/"
+],
+[
+"JTEX",
+"JTEX",
+"http://www.i360express.com/"
+],
+[
+"Beone",
+"Beone",
+"http://www.ibeone.com/"
+],
+[
+"ILS",
+"纵横国际物流",
+"http://www.ilsau.com/"
+],
+[
+"AML",
+"艾姆勒",
+"http://www.imlexpress.cn/"
+],
+[
+"India Post",
+"India Post",
+"http://www.indiapost.gov.in/"
+],
+[
+"Inposdom",
+"Inposdom",
+"http://www.inposdom.gob.do/"
+],
+[
+"i-Parcel",
+"i-Parcel",
+"http://www.i-parcel.com/"
+],
+[
+"Rwanda Post",
+"Rwanda Post",
+"http://www.i-posita.rw/"
+],
+[
+"Israel Post",
+"Israel Post",
+"http://www.israelpost.co.il/"
+],
+[
+"Sunnyway",
+"Sunnyway",
+"http://www.isunnyway.com/"
+],
+[
+"Jamaica Post",
+"Jamaica Post",
+"http://www.jamaicapost.gov.jm/"
+],
+[
+"Fengji Global",
+"丰集环球",
+"http://www.jb-wwsc.com/"
+],
+[
+"JCEX",
+"佳成国际",
+"http://www.jcex.com/"
+],
+[
+"Jiedan logistics",
+"捷丹集运",
+"http://www.jdexp.cn/"
+],
+[
+"Jiede supply chain",
+"捷德供应链",
+"http://www.jdgjwl.com/"
+],
+[
+"Jersey Post",
+"Jersey Post",
+"http://www.jerseypost.com/"
+],
+[
+"J&T Express (ID)",
+"J&T Express (ID)",
+"http://www.jet.co.id/"
+],
+[
+"JASPOST",
+"JASPOST",
+"http://www.jexpress88.com/"
+],
+[
+"JH",
+"杰航国际物流",
+"http://www.jiehang.net/"
+],
+[
+"Jiyun logistic",
+"极运物流",
+"http://www.jiepress.com"
+],
+[
+"JINLAI",
+"金来物流",
+"http://www.jinlaiexpress.com/"
+],
+[
+"Jinyue Freight",
+"今越国际",
+"http://www.jinyuefreight.com/"
+],
+[
+"JiuFang",
+"JiuFang",
+"http://www.jiufanglogistics.com/"
+],
+[
+"JJWEX",
+"捷立国际",
+"http://www.jjwex.com/"
+],
+[
+"KING KERRY",
+"金开宇国际物流",
+"http://www.jky-express.com/"
+],
+[
+"J-NET",
+"捷网",
+"http://www.j-net.cn/"
+],
+[
+"Jocom",
+"Jocom",
+"http://www.jocom.my/"
+],
+[
+"Jordan Post",
+"Jordan Post",
+"http://www.jordanpost.com.jo/"
+],
+[
+"JQGJ",
+"景强国际",
+"http://www.jqgjwl.com/"
+],
+[
+"JINSHIDA",
+"金世达",
+"http://www.jsdgj56.cn/"
+],
+[
+"JS",
+"急速国际",
+"http://www.js-exp.com/"
+],
+[
+"J&T Express (CN)",
+"J&T Express (CN)",
+"http://www.jtexpress.com.cn/"
+],
+[
+"JUNYA",
+"广州骏亚",
+"http://www.junya56.com/"
+],
+[
+"SHJX",
+"上海驹隙",
+"http://www.juxiex.com/"
+],
+[
+"LTIAN EXP",
+"佳邮国际",
+"http://www.jygjexp.com/"
+],
+[
+"剑展物流",
+"剑展物流",
+"http://www.jzexp.com.cn/en/"
+],
+[
+"JZGJ",
+"嘉至国际",
+"http://www.jzgjgyl.com/"
+],
+[
+"FSGJ",
+"飞速国际",
+"http://www.kd1913.com/"
+],
+[
+"BJL",
+"棒极啦",
+"http://www.kdbjL.com/"
+],
+[
+"Kerry Express",
+"嘉里快递",
+"http://www.kerryexpress.com.tw/"
+],
+[
+"ST",
+"ST",
+"http://www.kgy58.com/"
+],
+[
+"King Kong Express",
+"京广速递",
+"http://www.kke.com.hk/"
+],
+[
+"Komon",
+"可蒙国际",
+"http://www.komonexpress.com/"
+],
+[
+"KPK",
+"凯尔凯",
+"http://www.kpksz.com/"
+],
+[
+"Krexi international",
+"坤翔国际",
+"http://www.krexi.com/"
+],
+[
+"KuaJing Line",
+"跨境在线",
+"http://www.kuajingline56.com/"
+],
+[
+"KTD",
+"KTD",
+"http://www.kuatongda.com/"
+],
+[
+"KunYi",
+"鲲一",
+"http://www.kunyiyc.com/"
+],
+[
+"Yamato (ヤマト運輸)",
+"Yamato",
+"http://www.kuronekoyamato.co.jp/"
+],
+[
+"Kwai Bon",
+"桂邦运输",
+"http://www.kwaibon.com/"
+],
+[
+"KWT",
+"京华达物流",
+"http://www.kwt56.com/"
+],
+[
+"KYLIN",
+"麒麟海外仓",
+"http://www.kylinowms.com/"
+],
+[
+"Lambor Logistics",
+"兰博全球小包物流",
+"http://www.lamborlogistics.com/"
+],
+[
+"Enterprise des Poste Lao",
+"Enterprise des Poste Lao",
+"http://www.laopost.com.la/"
+],
+[
+"Enterprise des Poste Lao (APL)",
+"Enterprise des Poste Lao (APL)",
+"http://www.laopostapl.com/"
+],
+[
+"La Poste De Benin",
+"La Poste De Benin",
+"http://www.laposte.bj/"
+],
+[
+"La Poste (Colissimo)",
+"La Poste (Colissimo)",
+"http://www.laposte.fr/"
+],
+[
+"La Poste De Senegal",
+"La Poste De Senegal",
+"http://www.laposte.sn/"
+],
+[
+"La Poste De Togo",
+"La Poste De Togo",
+"http://www.laposte.tg/"
+],
+[
+"LiBang Logistics",
+"立邦国际物流",
+"http://www.lbexps.com/"
+],
+[
+"LCDGYL",
+"联超达供应链",
+"http://www.lcdgyl.com/"
+],
+[
+"LEDii",
+"乐递供应链",
+"http://www.ledii.cn/"
+],
+[
+"LHE",
+"龙浩速运",
+"http://www.lh-express.cn/"
+],
+[
+"LHG",
+"LHG",
+"http://www.lianhegj56.com/"
+],
+[
+"Liban Post",
+"Liban Post",
+"http://www.libanpost.com/"
+],
+[
+"LingXun Logistics",
+"领讯物流",
+"http://www.lingxun.top/"
+],
+[
+"Link Bridge",
+"Link Bridge",
+"http://www.link-bridge.com.cn/"
+],
+[
+"Linked-see",
+"灵犀物流",
+"http://www.linked-see.com/"
+],
+[
+"LLGJ",
+"路龙国际",
+"http://www.llgj.ltd/"
+],
+[
+"Logisters",
+"随波物流",
+"http://www.logisters.com/"
+],
+[
+"Asigna",
+"Asigna",
+"http://www.logisticacanaria.es/"
+],
+[
+"Logistics Tracking",
+"Logistics Tracking",
+"http://www.logisticstracking.cn/"
+],
+[
+"ZHXT Express",
+"纵横迅通国际",
+"http://www.lonfennerlogistic.com/"
+],
+[
+"LY",
+"LY",
+"http://www.longyuanint.com/"
+],
+[
+"LTEXP",
+"乐天速递",
+"http://www.ltexp.com.cn/"
+],
+[
+"LWE",
+"LWE",
+"http://www.lwe.asia/"
+],
+[
+"LeiYi international logistics",
+"深圳市雷翼国际物流有限公司",
+"http://www.ly-b2c.com/"
+],
+[
+"LZFBA",
+"乐众物流",
+"http://www.lzfba.cn/"
+],
+[
+"Macau Post",
+"Macau Post",
+"http://www.macaupost.gov.mo/"
+],
+[
+"Madrooex",
+"Madrooex",
+"http://www.madrooex.com/"
+],
+[
+"Maldives Post",
+"Maldives Post",
+"http://www.maldivespost.com/"
+],
+[
+"Malta Post",
+"Malta Post",
+"http://www.maltapost.com/"
+],
+[
+"MASSPACK",
+"千百包",
+"http://www.masspack-express.com/"
+],
+[
+"Mauritius Post",
+"Mauritius Post",
+"http://www.mauritiuspost.mu/"
+],
+[
+"MAXPRESS",
+"MAXPRESS",
+"http://www.maxway-logistics.com/"
+],
+[
+"Dream & Love",
+"梦和爱",
+"http://www.mhafly.com/"
+],
+[
+"Mingda",
+"明大国际物流",
+"http://www.mingda-express.com/"
+],
+[
+"MIUSON",
+"淼信国际",
+"http://www.miuson.net/"
+],
+[
+"MKD",
+"美卡多物流",
+"http://www.mkdexpress.com.mx/"
+],
+[
+"Make Fly",
+"迈客丰国际物流",
+"http://www.mkf56.com"
+],
+[
+"Mongol Post",
+"Mongol Post",
+"http://www.mongolpost.mn/"
+],
+[
+"MORELINK",
+"MORELINK",
+"http://www.morelink56.cn"
+],
+[
+"MSD",
+"魔速达",
+"http://www.mosuda.com/"
+],
+[
+"M-Trust",
+"上海淼信",
+"http://www.mxe56.com/"
+],
+[
+"MXL",
+"民祥国际",
+"http://www.mxlexp.com/"
+],
+[
+"MYD",
+"满壹滴",
+"http://www.mydservice.cn/"
+],
+[
+"Meiyi",
+"美易国际",
+"http://www.my-express.cn/"
+],
+[
+"Hermes (DE)",
+"Hermes (DE)",
+"http://www.myhermes.de/"
+],
+[
+"Mingzhi",
+"铭志国际",
+"http://www.mz56.com/"
+],
+[
+"YuanHao Logistics",
+"YuanHao Logistics",
+"http://www.mzlyuanhao.com/"
+],
+[
+"Namibia Post",
+"Namibia Post",
+"http://www.nampost.com.na/"
+],
+[
+"NEW ASIA",
+"新细亚",
+"http://www.newasia99.com/"
+],
+[
+"NUO",
+"NUO",
+"http://www.nuo56.com/"
+],
+[
+"Nuoyu supply chain",
+"诺誉供应链",
+"http://www.nygyl.com/"
+],
+[
+"New Zealand Post",
+"New Zealand Post",
+"http://www.nzpost.co.nz/"
+],
+[
+"OCA",
+"OCA",
+"http://www.oca.com.ar/"
+],
+[
+"OCS Express",
+"OCS 国际快递",
+"http://www.ocschina.com/"
+],
+[
+"Ouguan supply chain",
+"鸥冠供应链",
+"http://www.oggyl.com/"
+],
+[
+"OGI",
+"万国国际",
+"http://www.ogicn.com/"
+],
+[
+"OU JIE",
+"欧捷",
+"http://www.ojexpress.cn/"
+],
+[
+"One Express",
+"一速递",
+"http://www.one-express.cn/"
+],
+[
+"One World",
+"One World",
+"http://www.oneworldexpress.com/"
+],
+[
+"ONTASK EXPRESS",
+"安时达",
+"http://www.ontaskd2d.com/"
+],
+[
+"OPT-NC",
+"OPT-NC",
+"http://www.opt.nc/"
+],
+[
+"Optima",
+"Optima",
+"http://www.optimacourier.com/"
+],
+[
+"Orange Connex",
+"橙联",
+"http://www.orangeconnex.com/"
+],
+[
+"埃德维OTW",
+"埃德维OTW",
+"http://www.otwex.com/"
+],
+[
+"Oulala",
+"Oulala",
+"http://www.oulala-express.com/"
+],
+[
+"Ezex",
+"轻松速达",
+"http://www.owdiex.com/"
+],
+[
+"PostNord Danmark",
+"PostNord Danmark",
+"http://www.pakkeboksen.dk/"
+],
+[
+"Pakistan Post",
+"Pakistan Post",
+"http://www.pakpost.gov.pk/"
+],
+[
+"eTotal",
+"eTotal",
+"http://www.paktrac.com/"
+],
+[
+"PAL Express",
+"PAL Express",
+"http://www.palexpress.com.hk/"
+],
+[
+"Palestine Post",
+"Palestine Post",
+"http://www.palpost.ps/"
+],
+[
+"Parcelforce",
+"Parcelforce",
+"http://www.parcelforce.com/"
+],
+[
+"Parceljet",
+"派速捷",
+"http://www.parceljet.com/"
+],
+[
+"Latvia Post",
+"Latvia Post",
+"http://www.pasts.lv/"
+],
+[
+"PFC",
+"皇家物流",
+"http://www.pfcexpress.com/"
+],
+[
+"PFLogistics",
+"PFLogistics",
+"http://www.pflogistics.com.au/"
+],
+[
+"PaFeiTe",
+"帕菲特",
+"http://www.pftlogistics.cn/"
+],
+[
+"PGL",
+"广州派菲顾",
+"http://www.pgl.hk/"
+],
+[
+"Pigeon Logisitcs",
+"飞鸽物流",
+"http://www.pigeon56.com/"
+],
+[
+"Pingdaguoji",
+"平达国际",
+"http://www.pingda56.com.cn/"
+],
+[
+"Pinke",
+"上海品客",
+"http://www.pkgjwl.com/"
+],
+[
+"Uzbekistan Post",
+"Uzbekistan Post",
+"http://www.pochta.uz/"
+],
+[
+"Poland Post",
+"Poland Post",
+"http://www.poczta-polska.pl/"
+],
+[
+"Pos Malaysia",
+"Pos Malaysia",
+"http://www.pos.com.my/"
+],
+[
+"Austrian Post",
+"Austrian Post",
+"http://www.post.at/"
+],
+[
+"Brunei Post",
+"Brunei Post",
+"http://www.post.gov.bn/"
+],
+[
+"Japan Post",
+"Japan Post",
+"http://www.post.japanpost.jp/"
+],
+[
+"Lithuania Post",
+"Lithuania Post",
+"http://www.post.lt/"
+],
+[
+"Luxembourg Post",
+"Luxembourg Post",
+"http://www.post.lu/"
+],
+[
+"Yemen Post",
+"Yemen Post",
+"http://www.post.ye/"
+],
+[
+"JP BH Post",
+"JP BH Post",
+"http://www.posta.ba/"
+],
+[
+"Kenya Post",
+"Kenya Post",
+"http://www.posta.co.ke/"
+],
+[
+"Tanzania Post",
+"Tanzania Post",
+"http://www.posta.co.tz/"
+],
+[
+"Faroe Post",
+"Faroe Post",
+"http://www.posta.fo/"
+],
+[
+"Croatian Post",
+"Croatian Post",
+"http://www.posta.hr/"
+],
+[
+"Moldova Post",
+"Moldova Post",
+"http://www.posta.md/"
+],
+[
+"Serbia Post",
+"Serbia Post",
+"http://www.posta.rs/"
+],
+[
+"Slovenia Post",
+"Slovenia Post",
+"http://www.posta.si/"
+],
+[
+"Slovakia Post",
+"Slovakia Post",
+"http://www.posta.sk/"
+],
+[
+"Montenegro Post",
+"Montenegro Post",
+"http://www.postacg.me/"
+],
+[
+"Posta Plus",
+"Posta Plus",
+"http://www.postaplus.com/"
+],
+[
+"Romania Post",
+"Romania Post",
+"http://www.posta-romana.ro/"
+],
+[
+"Aruba Post",
+"Aruba Post",
+"http://www.postaruba.com/"
+],
+[
+"Albanian Post",
+"Albanian Post",
+"http://www.postashqiptare.al/"
+],
+[
+"Burundi Post",
+"Burundi Post",
+"http://www.poste.bi/"
+],
+[
+"Algeria Post",
+"Algeria Post",
+"http://www.poste.dz/"
+],
+[
+"Poste Italiane",
+"Poste Italiane",
+"http://www.poste.it/"
+],
+[
+"Morocco Post",
+"Morocco Post",
+"http://www.poste.ma/"
+],
+[
+"San Marino Post",
+"San Marino Post",
+"http://www.poste.sm/"
+],
+[
+"La Poste De Tunisia",
+"La Poste De Tunisia",
+"http://www.poste.tn/"
+],
+[
+"Norway Post",
+"Norway Post",
+"http://www.posten.no/"
+],
+[
+"Fiji Post",
+"Fiji Post",
+"http://www.postfiji.com.fj/"
+],
+[
+"Posti",
+"Posti",
+"http://www.posti.fi/"
+],
+[
+"PostNL International Mail",
+"PostNL International Mail",
+"http://www.postnl.post/"
+],
+[
+"PostNord Sweden",
+"PostNord Sweden",
+"http://www.postnord.se/"
+],
+[
+"PostPlus",
+"PostPlus",
+"http://www.post-plus.net/"
+],
+[
+"PNG Post",
+"PNG Post",
+"http://www.postpng.com.pg/"
+],
+[
+"Iceland Post",
+"Iceland Post",
+"http://www.postur.is/"
+],
+[
+"PTT",
+"PTT",
+"http://www.ptt.gov.tr/"
+],
+[
+"PY Express",
+"派优供应链",
+"http://www.py-express.net/"
+],
+[
+"PPEX",
+"PPEX",
+"http://www.pyt56.com/"
+],
+[
+"GPL",
+"全程动力",
+"http://www.qcdlex.com/"
+],
+[
+"INTEL-VALLEY",
+"智谷供应链",
+"http://www.qhzhigu.com/"
+],
+[
+"Quick&Perfct",
+"快美物流",
+"http://www.qpe56.com/"
+],
+[
+"Quickway",
+"Quickway",
+"http://www.quickway-sc.com/"
+],
+[
+"Qxpress",
+"Qxpress",
+"http://www.qxpress.net/"
+],
+[
+"QYEXP",
+"前雨国际",
+"http://www.qyexp.cn/"
+],
+[
+"Qyun",
+"青云物流",
+"http://www.qyunexpress.com/"
+],
+[
+"DingDian",
+"丁点集运",
+"http://www.rcostp.com/"
+],
+[
+"RCT",
+"润成通",
+"http://www.rct56.com/"
+],
+[
+"Redbox",
+"Redbox",
+"http://www.redboxsz.com/"
+],
+[
+"RHM",
+"RHM",
+"http://www.rheymah.net/"
+],
+[
+"RINCOS",
+"RINCOS",
+"http://www.rincos.co.kr/"
+],
+[
+"Gibraltar Post",
+"Gibraltar Post",
+"http://www.royalgibraltar.post/"
+],
+[
+"Royal Mail",
+"Royal Mail",
+"http://www.royalmail.com/"
+],
+[
+"RUE",
+"如易",
+"http://www.ruecom.cn/"
+],
+[
+"Runbai",
+"润百",
+"http://www.runbail.com/"
+],
+[
+"RFL",
+"润峯物流",
+"http://www.runforint.com/"
+],
+[
+"Safexpress",
+"Safexpress",
+"http://www.safexpress.com/"
+],
+[
+"SaFly",
+"吉飞国际物流",
+"http://www.safly.net/"
+],
+[
+"Sagawa (佐川急便)",
+"Sagawa (佐川急便)",
+"http://www.sagawa-exp.co.jp/"
+],
+[
+"Sailpost",
+"Sailpost",
+"http://www.sailpost.it/"
+],
+[
+"Sapphire Box",
+"Sapphire Box",
+"http://www.sapphirebox56.com"
+],
+[
+"SBD",
+"SBD",
+"http://www.sbd-scm.com/"
+],
+[
+"SCGJ",
+"拾诚国际",
+"http://www.scgj56.net/"
+],
+[
+"SDA",
+"SDA",
+"http://www.sda.it/"
+],
+[
+"SDK",
+"斯德克",
+"http://www.sdk-express.cn/"
+],
+[
+"Seino (西濃運輸)",
+"Seino (西濃運輸)",
+"http://www.seino.co.jp/en/"
+],
+[
+"Sendex",
+"Sendex",
+"http://www.sendex.mx/"
+],
+[
+"Serpost",
+"Serpost",
+"http://www.serpost.com.pe/"
+],
+[
+"Seychelles Post",
+"Seychelles Post",
+"http://www.seychelles-post.com/"
+],
+[
+"SFC",
+"三态速递",
+"http://www.sfcservice.com/"
+],
+[
+"SFYD Express",
+"云速递",
+"http://www.sfydexpress.com/"
+],
+[
+"SGHグローバル (Sagawa Global)",
+"SGHグローバル (Sagawa Global)",
+"http://www.sgh-globalj.com/"
+],
+[
+"Shang Fang",
+"尚方国际",
+"http://www.shangfang56.com/"
+],
+[
+"SHDJ",
+"SHDJ",
+"http://www.shdingju.com/"
+],
+[
+"SHE",
+"森鸿国际",
+"http://www.showl.com/"
+],
+[
+"QEP",
+"强焱国际物流",
+"http://www.shqyexp.com/"
+],
+[
+"ShreeAnjani",
+"ShreeAnjani",
+"http://www.shreeanjanicourier.com/"
+],
+[
+"Shree Nandan Courier Limited",
+"Shree Nandan Courier Limited",
+"http://www.shreenandancourier.com/"
+],
+[
+"SHREE TIRUPATI COURIER",
+"SHREE TIRUPATI COURIER",
+"http://www.shreetirupaticourier.net/"
+],
+[
+"SHT",
+"SHT",
+"http://www.shthn.com/"
+],
+[
+"TJ-EXP",
+"淘晶货运",
+"http://www.shtjkd.com/"
+],
+[
+"Wise Express",
+"万色速递",
+"http://www.shwise.cn/"
+],
+[
+"SM",
+"赛米国际",
+"http://www.simingj.com/"
+],
+[
+"Singapore Post",
+"Singapore Post",
+"http://www.singpost.com/"
+],
+[
+"Sinodidi",
+"外运迪迪",
+"http://www.sinodidiexpress.com/"
+],
+[
+"SenJieTong",
+"SenJieTong",
+"http://www.sjtgyl.com/"
+],
+[
+"Skynet",
+"Skynet",
+"http://www.skynet.net/"
+],
+[
+"SL56",
+"SL56",
+"http://www.sl56.com/"
+],
+[
+"Sri Lanka Post",
+"Sri Lanka Post",
+"http://www.slpost.gov.lk/"
+],
+[
+"SLT",
+"胜利通",
+"http://www.sltgjkd.com/"
+],
+[
+"SMSA Express (سمسا)",
+"SMSA Express (سمسا)",
+"http://www.smsaexpress.com/"
+],
+[
+"BMURFS Express",
+"蓝精灵速递",
+"http://www.smurfsexpress.com/"
+],
+[
+"SoarMall",
+"速猫",
+"http://www.soarmall.com/"
+],
+[
+"SOLID LOGISTICS",
+"上海昌迈",
+"http://www.solidlogistics.cn/"
+],
+[
+"Solomon Post",
+"Solomon Post",
+"http://www.solomonpost.com.sb/"
+],
+[
+"Sonapost",
+"Sonapost",
+"http://www.sonapost.bf/"
+],
+[
+"South American Post",
+"南美邮联",
+"http://www.southamericapost.com/"
+],
+[
+"SPEEDEX",
+"SPEEDEX",
+"http://www.speedex.gr/"
+],
+[
+"SprintPack",
+"欧速通",
+"http://www.sprintpack.com.cn/"
+],
+[
+"Shangqi International Logistics",
+"上启国际物流",
+"http://www.sqgjexp.com/"
+],
+[
+"SSC",
+"加速供应链",
+"http://www.sscexp.com/"
+],
+[
+"STADT",
+"施塔特",
+"http://www.stadt.com.cn/"
+],
+[
+"SGF",
+"SGF",
+"http://www.starglobal.com.cn/"
+],
+[
+"Star-Wish",
+"星希望供应链",
+"http://www.star-wish.cn/"
+],
+[
+"Suteng Logistics",
+"速腾物流",
+"http://www.ste56.com/"
+],
+[
+"Saint Lucia Post",
+"Saint Lucia Post",
+"http://www.stluciapostal.com/"
+],
+[
+"STO Express",
+"申通快递",
+"http://www.sto.cn/"
+],
+[
+"ST CARGO",
+"世拓物流",
+"http://www.stockcargo.cn/"
+],
+[
+"STO Global",
+"申通国际",
+"http://www.stosolution.com/"
+],
+[
+"YIDA",
+"宜达物流",
+"http://www.styida.com.cn/"
+],
+[
+"SUGOUEX",
+"速购速递",
+"http://www.sugouex.com/"
+],
+[
+"SUMTOM",
+"SUMTOM",
+"http://www.sumtom.cn/"
+],
+[
+"Sunson",
+"燊鑫国际物流",
+"http://www.sunsonexpress.com/"
+],
+[
+"Suto Logistics",
+"速通物流",
+"http://www.sut56.com/"
+],
+[
+"SYD",
+"速邮达物流",
+"http://www.suyd56.com/"
+],
+[
+"SVG Post",
+"SVG Post",
+"http://www.svgpost.gov.vc/"
+],
+[
+"SIXU",
+"斯旭国际",
+"http://www.sxexp.cn/"
+],
+[
+"Saiyascm",
+"塞亚国际",
+"http://www.syascm.com/"
+],
+[
+"SynShip",
+"SynShip",
+"http://www.synship.com/"
+],
+[
+"SUNYOU",
+"顺友物流",
+"http://www.sypost.com/"
+],
+[
+"Syrian Post",
+"Syrian Post",
+"http://www.syrianpost.gov.sy/"
+],
+[
+"ac logistics",
+"ac logistics",
+"http://www.sz-ac56.com/"
+],
+[
+"Anjun",
+"安骏物流",
+"http://www.szanjun.com/"
+],
+[
+"CCE",
+"世纪汇速递",
+"http://www.szcce.cn/"
+],
+[
+"CHENGTONG",
+"程通",
+"http://www.szctgyl.com/"
+],
+[
+"JL56",
+"JL56",
+"http://www.szdk56.com/"
+],
+[
+"EAC",
+"富皇美运",
+"http://www.szeac.com/"
+],
+[
+"Edlon Logistics",
+"誉德隆物流",
+"http://www.szedlon.com/"
+],
+[
+"Enyuan International",
+"Enyuan International",
+"http://www.szenyuan.com/"
+],
+[
+"HHH",
+"海河汇",
+"http://www.szhhh56.com/"
+],
+[
+"HH logistics",
+"HH logistics",
+"http://www.szhhhy.cn/"
+],
+[
+"JDY",
+"金斗云",
+"http://www.szjdy.ltd/"
+],
+[
+"Jiashida",
+"佳仕达供应链",
+"http://www.szjsdgyl.com/"
+],
+[
+"SZJY",
+"神州集运",
+"http://www.szjy188.com/"
+],
+[
+"OUYOU INTERNATIONALITY",
+"欧邮国际",
+"http://www.szouyou.cn/"
+],
+[
+"Pago",
+"派格国际",
+"http://www.szpago.com/"
+],
+[
+"Bright Future Supply Chain",
+"前程似锦供应链",
+"http://www.sz-qcsj.com/"
+],
+[
+"TDE",
+"TDE",
+"http://www.sztdgyl.com/"
+],
+[
+"TTGJ",
+"通途国际",
+"http://www.szttgj.com/"
+],
+[
+"TY",
+"腾宇国际",
+"http://www.sztygj.net/"
+],
+[
+"SZ Xinhe",
+"欣和物流",
+"http://www.szxhgl.com/"
+],
+[
+"XHY",
+"星鸿运",
+"http://www.szxhy.hailei2018.com/"
+],
+[
+"XYTKJ",
+"鑫运通跨境",
+"http://www.szxytkj.com/"
+],
+[
+"YiFan",
+"毅帆",
+"http://www.szyifan56.com/"
+],
+[
+"Take Send",
+"泰嘉物流",
+"http://www.takesend.com/"
+],
+[
+"TBS",
+"淘布斯",
+"http://www.taoplus.cc/"
+],
+[
+"Tonda Global",
+"通达全球",
+"http://www.tarrive.com/"
+],
+[
+"T-CAT",
+"T-CAT (黑猫宅急便)",
+"http://www.t-cat.com.tw/"
+],
+[
+"lerdex",
+"乐易汇",
+"http://www.tdexpress.net/"
+],
+[
+"CNOR",
+"CNOR",
+"http://www.tflcn.com/"
+],
+[
+"TFS",
+"天府盛",
+"http://www.tfs906.com/"
+],
+[
+"TWTH",
+"拓威天海",
+"http://www.th99.com/"
+],
+[
+"TSCB",
+"天盛跨境",
+"http://www.tianshengsc.com/"
+],
+[
+"Tinzung",
+"Tinzung",
+"http://www.tianzongsc.com/"
+],
+[
+"TXExpress",
+"贴心物流",
+"http://www.tie-xin.com.tw/"
+],
+[
+"TJGJ",
+"腾嘉国际",
+"http://www.tjexp.com/"
+],
+[
+"TMG",
+"TMG",
+"http://www.tmg-group.jp/"
+],
+[
+"TNT",
+"TNT",
+"http://www.tnt.com/"
+],
+[
+"TNT (FR)",
+"TNT (FR)",
+"http://www.tnt.fr/"
+],
+[
+"Toll",
+"Toll",
+"http://www.tollgroup.com/"
+],
+[
+"Tonami",
+"Tonami",
+"http://www.tonami.co.jp/"
+],
+[
+"Tonga Post",
+"Tonga Post",
+"http://www.tongapost.to/"
+],
+[
+"Top Post",
+"鼎邮国际货运",
+"http://www.toppost.cn/"
+],
+[
+"Tufan",
+"Tufan",
+"http://www.tuf-express.com/"
+],
+[
+"Tuvalu Post",
+"Tuvalu Post",
+"http://www.tuvalupost.tv/"
+],
+[
+"TWB",
+"伯聚世通",
+"http://www.twbgo.com/"
+],
+[
+"Tianzi",
+"Tianzi",
+"http://www.tzexp.com/"
+],
+[
+"TZT",
+"TZT",
+"http://www.tzgjwl.cn/"
+],
+[
+"UBI",
+"UBI",
+"http://www.ubismartparcel.com/"
+],
+[
+"UC Express",
+"优速快递",
+"http://www.uce.cn/"
+],
+[
+"uCorreos",
+"环球通",
+"http://www.ucorreos.com/"
+],
+[
+"UCS",
+"合众速递",
+"http://www.ucsus.net/"
+],
+[
+"uda International",
+"韵达国际",
+"http://www.udalogistic.com/"
+],
+[
+"Uganda Post",
+"Uganda Post",
+"http://www.ugapost.co.ug/"
+],
+[
+"United Delivery Service",
+"United Delivery Service",
+"http://www.uniteddeliveryservice.com/"
+],
+[
+"UPS",
+"UPS",
+"http://www.ups.com/"
+],
+[
+"Usky",
+"Usky",
+"http://www.uskyexpress.com/"
+],
+[
+"U-Speed",
+"优时派",
+"http://www.u-speedex.com/"
+],
+[
+"USPS",
+"USPS",
+"http://www.usps.com/"
+],
+[
+"UTEC",
+"UTEC",
+"http://www.utec.info/"
+],
+[
+"UVAN",
+"UVAN",
+"http://www.uvan56.com/"
+],
+[
+"UXTX",
+"邮行天下",
+"http://www.ux-exp.com/"
+],
+[
+"Vanuatu Post",
+"Vanuatu Post",
+"http://www.vanuatupost.vu/"
+],
+[
+"VietNam Post",
+"VietNam Post",
+"http://www.vnpost.vn/"
+],
+[
+"WALLABY EXPRESS",
+"小袋鼠",
+"http://www.wallabyglobal.com/"
+],
+[
+"Wanb Express",
+"Wanb Express",
+"http://www.wanbexpress.com/"
+],
+[
+"WCX",
+"伟成国际",
+"http://www.wcxex.com/"
+],
+[
+"WEISA",
+"威飒国际",
+"http://www.weisagroup.com/"
+],
+[
+"WEL",
+"WEL",
+"http://www.we-logistics.com/"
+],
+[
+"WESTLINK",
+"WESTLINK",
+"http://www.westlinkintl.com/"
+],
+[
+"WHER EXPRESS",
+"威盛快递",
+"http://www.wherexpress.com/"
+],
+[
+"WHT",
+"五和通",
+"http://www.whtexpress.com/"
+],
+[
+"WINIT",
+"万邑通",
+"http://www.winit.com.cn/"
+],
+[
+"Vnlin",
+"合联国际",
+"http://www.winlinklogistics.com/"
+],
+[
+"WM",
+"万盟云仓",
+"http://www.wmycc.com/"
+],
+[
+"SW Express",
+"SW Express",
+"http://www.world-express.com/"
+],
+[
+"VAU",
+"华邮国际",
+"http://www.wuvay.com/cn/index.html"
+],
+[
+"Wynn Express",
+"永利运通",
+"http://www.wynn-express.com/"
+],
+[
+"Wan Yuntong",
+"万运通",
+"http://www.wyt-express.com/"
+],
+[
+"XC international logistics",
+"湘诚国际物流",
+"http://www.xcexp.cn/"
+],
+[
+"LEX",
+"LEX",
+"http://www.xdlex.com/"
+],
+[
+"Staron",
+"星橙物流",
+"http://www.xingchengwuliu.com/"
+],
+[
+"XINGSU",
+"星速货运",
+"http://www.xingsuexp.com/"
+],
+[
+"XYY",
+"XYY",
+"http://www.xingyunyi.cn/"
+],
+[
+"Xinyan international",
+"心妍物流",
+"http://www.xin-logistics.cn/"
+],
+[
+"XJWL",
+"雄九物流",
+"http://www.xiongjiu168.com/"
+],
+[
+"XinMaTai",
+"新马泰",
+"http://www.xmtgyl.com/"
+],
+[
+"Xpressbees",
+"Xpressbees",
+"http://www.xpressbees.com/"
+],
+[
+"XQC",
+"修青春",
+"http://www.xqcusps.com/"
+],
+[
+"XQE",
+"星前物流",
+"http://www.xqkjwl.com/"
+],
+[
+"xslong",
+"兴胜隆",
+"http://www.xslong.com.cn/"
+],
+[
+"XT",
+"迅田国际",
+"http://www.xtl163.com/"
+],
+[
+"XUNHE",
+"讯合国际",
+"http://www.xunhefba.com/"
+],
+[
+"XXD",
+"上海享享达",
+"http://www.xxdexp.com/"
+],
+[
+"XXZ365",
+"先行者",
+"http://www.xxz365.com/"
+],
+[
+"SZXYD LOGISTICS",
+"鑫翼达",
+"http://www.xydfreight.com/"
+],
+[
+"xyexp",
+"兴源供应链",
+"http://www.xyexp.com/"
+],
+[
+"YJI",
+"YJI",
+"http://www.yanjin-gj.com/"
+],
+[
+"YBD",
+"邮必达",
+"http://www.ybdexpress.com/"
+],
+[
+"YC",
+"YC",
+"http://www.ycex.cn/"
+],
+[
+"YCGJ",
+"永财国际",
+"http://www.ycex-cn.com/"
+],
+[
+"YD LOGISTICS",
+"YD LOGISTICS",
+"http://www.ydcn666.com/"
+],
+[
+"YIDST",
+"YIDST",
+"http://www.ydex.cn/"
+],
+[
+"YDS",
+"YDS",
+"http://www.ydexp.com/"
+],
+[
+"YDH",
+"YDH",
+"http://www.ydhex.com/"
+],
+[
+"YDM",
+"壹斗米",
+"http://www.ydm-express.com/"
+],
+[
+"YDT",
+"易达通",
+"http://www.ydt-express.com/"
+],
+[
+"YDYT",
+"易达运通",
+"http://www.ydyt56.com/"
+],
+[
+"Yeeda",
+"易达联运",
+"http://www.yeeda909.com/"
+],
+[
+"Yes-speed",
+"元速航空",
+"http://www.yes-speed.com/"
+],
+[
+"YFH",
+"原飞航",
+"http://www.yfhex.com/"
+],
+[
+"Yifeng",
+"一丰集运",
+"http://www.yfji.net/"
+],
+[
+"YHA",
+"YHA",
+"http://www.yhe56.com/"
+],
+[
+"YHT",
+"运货通",
+"http://www.yhtcargo.com/"
+],
+[
+"YES",
+"YES",
+"http://www.yingshunexpress.com/"
+],
+[
+"YJ",
+"运匠物流",
+"http://www.yjwl-express.com/"
+],
+[
+"YL",
+"YL",
+"http://www.ylexp.com/"
+],
+[
+"Am-logistics",
+"亚马迅物流",
+"http://www.ymxgz.cn/"
+],
+[
+"YOUDA",
+"优达国际",
+"http://www.youdaguoji.com/"
+],
+[
+"YWGJ",
+"有为国际",
+"http://www.youwei-china.com/"
+],
+[
+"YunPai56",
+"云派物流",
+"http://www.yp56.com/"
+],
+[
+"YSD",
+"YSD",
+"http://www.ysdgj56.com/"
+],
+[
+"YSDPOST",
+"优时达",
+"http://www.ysdpost.com/"
+],
+[
+"Youtai",
+"优泰",
+"http://www.ytgj188cn.com/"
+],
+[
+"Interlet",
+"英特莱特",
+"http://www.ytltkd.com/"
+],
+[
+"YTO Express",
+"圆通速递",
+"http://www.yto.net.cn/"
+],
+[
+"Yuchi International",
+"雨驰国际",
+"http://www.yuchi2021.com/"
+],
+[
+"YDGJ",
+"杭州宇地",
+"http://www.yudiexp.com/"
+],
+[
+"Yuetu",
+"跃兔",
+"http://www.yuetuexpress.com/"
+],
+[
+"YUEX LOGISTICS",
+"悦翔物流",
+"http://www.yuex-exp.com/"
+],
+[
+"Yuhong",
+"豫虹国际",
+"http://www.yuhongexpress.com/"
+],
+[
+"YUNLEMA",
+"运了吗",
+"http://www.yunlema.com/"
+],
+[
+"YUU",
+"云邮",
+"http://www.yun-post.com/"
+],
+[
+"YUNQI",
+"云旗国际",
+"http://www.yunqishipping.com/"
+],
+[
+"YZY",
+"YZY",
+"http://www.yunzyou.com/"
+],
+[
+"YUTENG",
+"YUTENG",
+"http://www.yutengguoji.com/"
+],
+[
+"YANWEN",
+"燕文物流",
+"http://www.yw56.com.cn/"
+],
+[
+"YFZX",
+"YFZX",
+"http://www.ywyfgj.com/"
+],
+[
+"YXIL",
+"悦希物流",
+"http://www.yxilogistics.com/"
+],
+[
+"YYEXPRESS",
+"YYEXPRESS",
+"http://www.yyexpress.com/"
+],
+[
+"YYpost",
+"YYpost",
+"http://www.yypostal.com/"
+],
+[
+"SLICITY",
+"顺联城物流",
+"http://www.yz-ex.com/"
+],
+[
+"Z1Express",
+"宙一物流",
+"http://www.z1express.com/"
+],
+[
+"Zambia Post",
+"Zambia Post",
+"http://www.zampost.com.zm/"
+],
+[
+"ZCE",
+"上海翼速",
+"http://www.zce-exp.com/"
+],
+[
+"Zhicheng",
+"智诚国际",
+"http://www.zc-yt.com/"
+],
+[
+"ZDSD",
+"ZDSD",
+"http://www.zd-express.cn/"
+],
+[
+"Eshun",
+"Eshun",
+"http://www.zes-express.com/"
+],
+[
+"ZFEX",
+"ZFEX",
+"http://www.zf-ex.com/"
+],
+[
+"ZGL",
+"ZGL",
+"http://www.zhiguil.com/"
+],
+[
+"ZHMY",
+"ZHMY",
+"http://www.zhmy.vip/"
+],
+[
+"PstZX",
+"PstZX",
+"http://www.zhongxin518.cn/"
+],
+[
+"Zimbabwe Post",
+"Zimbabwe Post",
+"http://www.zimpost.co.zw/"
+],
+[
+"ZhijiedaSupplyChain",
+"智杰达供应链",
+"http://www.zjd123.cn/"
+],
+[
+"ZHONGLING",
+"中领国际",
+"http://www.z-leading.com/"
+],
+[
+"AllRoad",
+"众鹿跨境物流",
+"http://www.zlwww.vip/"
+],
+[
+"Zhongpeng",
+"中鹏供应链",
+"http://www.zp56.com"
+],
+[
+"ZSDExpress",
+"转瞬达集运",
+"http://www.zsda56.com/"
+],
+[
+"ZST",
+"ZST",
+"http://www.zstgj.com/"
+],
+[
+"ZT",
+"ZT",
+"http://www.zt.hailei2018.com/"
+],
+[
+"Tocinda",
+"至信达",
+"http://www.zxdexpress.com/"
+],
+[
+"ZXG",
+"ZXG",
+"http://www.zxlogs.ltd/"
+],
+[
+"ZY56",
+"中运国际供应链",
+"http://www.zy56gz.com/"
+],
+[
+"ZYEX",
+"ZYEX",
+"http://www.zyouexpress.com/"
+],
+[
+"MCTrans",
+"马可达",
+"http://www1.mctransexpress.cn/"
+],
+[
+"XS Express",
+"新树物流",
+"http://xs-exp.com/"
+],
+[
+"YC LOGISTICS",
+"煜诚国际",
+"http://yc-express.com.cn/"
+],
+[
+"China Post",
+"中国邮政",
+"http://yjcx.ems.com.cn/"
+],
+[
+"Yona Express",
+"Yona Express",
+"http://yona-express.com/"
+],
+[
+"Yuegejing",
+"越个境",
+"http://yuegejing.com/"
+],
+[
+"KYD",
+"快易达",
+"http://yuncang321.cn/"
+],
+[
+"youyiex",
+"邮易仓",
+"http://yygj.youyiex.com/"
+],
+[
+"ZTT",
+"ZTT",
+"http://zhiteng.biz/"
+],
+[
+"ZSGJ",
+"中速国际",
+"http://zsgjky.com/"
+],
+[
+"zhixian",
+"直线供应链",
+"https://1592597785qpa.scd.wezhan.cn/"
+],
+[
+"A1 POST",
+"A1 POST",
+"https://a1post.bg/"
+],
+[
+"ACI Logistix",
+"ACI Logistix",
+"https://acilogistix.com/"
+],
+[
+"DHL ACTIVETRACING",
+"DHL ACTIVETRACING",
+"https://activetracing.dhl.com/"
+],
+[
+"AfterHaul",
+"航飞速达",
+"https://afterhaul.com/"
+],
+[
+"MTS",
+"微霆速",
+"https://aftervehicle.com/"
+],
+[
+"Airpak Express",
+"Airpak Express",
+"https://airpak-express.com/"
+],
+[
+"AJEX",
+"AJEX",
+"https://aj-ex.com/"
+],
+[
+"Allegro",
+"Allegro",
+"https://allegro.pl/"
+],
+[
+"AmbroExpress",
+"AmbroExpress",
+"https://ambroexpress.pl/"
+],
+[
+"Anteraja",
+"Anteraja",
+"https://anteraja.id/"
+],
+[
+"APG eCommerce",
+"APG eCommerce",
+"https://apgecommerce.com/"
+],
+[
+"GoGo Xpress",
+"GoGo Xpress",
+"https://app.gogoxpress.com/track"
+],
+[
+"Aquiline",
+"Aquiline",
+"https://aquiline-tracking.com/"
+],
+[
+"ArcBest (Panther)",
+"ArcBest (Panther)",
+"https://arcb.com/"
+],
+[
+"A Tiempo Cargo",
+"A Tiempo Cargo",
+"https://atiempocargo.com/"
+],
+[
+"A TU HORA EXPRESS",
+"A TU HORA EXPRESS",
+"https://atuhoraexpress.com/"
+],
+[
+"Interparcel (AU)",
+"Interparcel (AU)",
+"https://au.interparcel.com/"
+],
+[
+"avent Logistics",
+"avent Logistics",
+"https://aventlogistic.com/"
+],
+[
+"AxleHire",
+"AxleHire",
+"https://axlehire.com/"
+],
+[
+"Brazil Border",
+"Brazil Border",
+"https://bbexp.com.br/"
+],
+[
+"BETA",
+"骆迈通",
+"https://betashipping.mysxl.cn/"
+],
+[
+"BIG Smart",
+"BIG Smart",
+"https://bigsmart.mx/"
+],
+[
+"BLACKHAUL",
+"BLACKHAUL",
+"https://blackhaul.com.au/"
+],
+[
+"Bosta",
+"Bosta",
+"https://bosta.co/"
+],
+[
+"Boxberry",
+"Boxberry",
+"https://boxberry.ru/"
+],
+[
+"BoxC",
+"BoxC",
+"https://boxc.com/"
+],
+[
+"Boxme",
+"Boxme",
+"https://boxme.asia/"
+],
+[
+"Breeze",
+"Breeze",
+"https://breezeaircargo.com"
+],
+[
+"Budbee",
+"Budbee",
+"https://budbee.com/"
+],
+[
+"BUFFALO (ZA)",
+"BUFFALO (ZA)",
+"https://buffaloex.co.za/"
+],
+[
+"C&C Co.,Ltd",
+"C&C Co.,Ltd",
+"https://candc-stexpress.com/"
+],
+[
+"onetouch-tech",
+"链仓科技",
+"https://cargodiscovery.com/"
+],
+[
+"CrossCountry Freight",
+"CrossCountry Freight",
+"https://ccfs.com/"
+],
+[
+"CDL Last Mile",
+"CDL Last Mile",
+"https://cdldelivers.com/"
+],
+[
+"Celeritas",
+"Celeritas",
+"https://celeritastransporte.com/en/"
+],
+[
+"Chilexpress",
+"Chilexpress",
+"https://chilexpress.cl/"
+],
+[
+"CC logistics",
+"诚晨物流",
+"https://chinaccscm.com/"
+],
+[
+"Chit Chats",
+"Chit Chats",
+"https://chitchats.com/"
+],
+[
+"Chronopost Morocco",
+"Chronopost Morocco",
+"https://chronopost.ma/"
+],
+[
+"CJ",
+"促佳",
+"https://cjdropship.com/"
+],
+[
+"DMF",
+"斗满科技",
+"https://cn.dmfgroup.net/"
+],
+[
+"MIA",
+"杭州幂雅",
+"https://cn.mia-express.com/"
+],
+[
+"CN wang tong",
+"中国网通",
+"https://cnwangtong.com/"
+],
+[
+"MDS Collivery",
+"MDS Collivery",
+"https://collivery.net/"
+],
+[
+"Comet Tech",
+"上海彗吉",
+"https://comet-tech.com.cn/"
+],
+[
+"Fukuyama Transporting (福山通運)",
+"福山通运",
+"https://corp.fukutsu.co.jp/"
+],
+[
+"Dabonea",
+"Dabonea",
+"https://dabonea.com/"
+],
+[
+"Day & Ross",
+"Day & Ross",
+"https://dayross.com/"
+],
+[
+"DealerSend",
+"DealerSend",
+"https://dealer-send.com/"
+],
+[
+"DobroPost",
+"DobroPost",
+"https://dobropost.com/"
+],
+[
+"Dognposten",
+"Dognposten",
+"https://dognposten.com/"
+],
+[
+"DotZot",
+"DotZot",
+"https://dotzot.in/"
+],
+[
+"DPExpress",
+"DP快递",
+"https://dp.express/"
+],
+[
+"DPD (GR)",
+"DPD (GR)",
+"https://dpd.gr/en/"
+],
+[
+"DPD (IE)",
+"DPD (IE)",
+"https://dpd.ie/"
+],
+[
+"DPD (PT)",
+"DPD (PT)",
+"https://dpd.pt/"
+],
+[
+"Dragonfly",
+"Dragonfly",
+"https://dragonflyshipping.com.au/"
+],
+[
+"DWE",
+"多维智慧",
+"https://dweex.com/"
+],
+[
+"Early Bird",
+"Early Bird",
+"https://earlybird.delivery/"
+],
+[
+"Ecom Express",
+"Ecom Express",
+"https://ecomexpress.in/"
+],
+[
+"DHL eCommerce Asia",
+"DHL eCommerce Asia",
+"https://ecommerceportal.dhl.com/"
+],
+[
+"ECOTRACK",
+"ECOTRACK",
+"https://ecotrack.dz/"
+],
+[
+"Ekart",
+"Ekart",
+"https://ekartlogistics.com/"
+],
+[
+"Eli Express",
+"Eli Express",
+"https://eliexpress.com.tr/"
+],
+[
+"Emirates Post",
+"Emirates Post",
+"https://emiratespost.ae/"
+],
+[
+"VietNam EMS",
+"VietNam EMS",
+"https://ems.com.vn/"
+],
+[
+"VYANG",
+"维央",
+"https://eparcel56.com/"
+],
+[
+"7-ELEVEN",
+"7-ELEVEN",
+"https://eservice.7-11.com.tw/"
+],
+[
+"EsigetExpress",
+"EsigetExpress",
+"https://esiget.com/"
+],
+[
+"EURODIS",
+"EURODIS",
+"https://eurodis.com/"
+],
+[
+"Express Courier International",
+"Express Courier International",
+"https://expresscourierintl.com/"
+],
+[
+"Express One",
+"Express One",
+"https://expressone.hu/"
+],
+[
+"FamaFutar",
+"FamaFutar",
+"https://famafutar.hu/"
+],
+[
+"Fast Despatch",
+"Fast Despatch",
+"https://fastdespatch.com/"
+],
+[
+"Daewoo FastEx Courier",
+"Daewoo FastEx Courier",
+"https://fastex.pk/"
+],
+[
+"Fastlinkagexpress",
+"Fastlinkagexpress",
+"https://fastlinkagexpress.com/"
+],
+[
+"TrakPak",
+"TrakPak",
+"https://fcbtracking.fedex.com/trakpak.aspx/"
+],
+[
+"FirstMile",
+"FirstMile",
+"https://firstmile.com/"
+],
+[
+"5Post",
+"5Post",
+"https://fivepost.ru/"
+],
+[
+"Flickpost",
+"Flickpost",
+"https://flickpost.co/"
+],
+[
+"Flip Post",
+"Flip Post",
+"https://flippost.com/"
+],
+[
+"Fliway",
+"Fliway",
+"https://fliway.com/"
+],
+[
+"Forza Delivery",
+"Forza Delivery",
+"https://forzadelivery.com/"
+],
+[
+"Roadrunner Freight",
+"Roadrunner Freight",
+"https://freight.rrts.com/"
+],
+[
+"NextSmartShip",
+"NextSmartShip",
+"https://fulfillship.nextsmartship.com"
+],
+[
+"GAASH Worldwide",
+"GAASH Worldwide",
+"https://gaashwd.com/"
+],
+[
+"GBS-Broker",
+"GBS-Broker",
+"https://gbs-broker.ru/"
+],
+[
+"GCX",
+"GCX",
+"https://gcx.co.il/en/"
+],
+[
+"GHL Logistics",
+"GHL Logistics",
+"https://ghllogistics.be/"
+],
+[
+"GHN (Giao Hàng Nhanh)",
+"GHN (Giao Hàng Nhanh)",
+"https://ghn.vn/"
+],
+[
+"GlavDostavka",
+"GlavDostavka",
+"https://glav-dostavka.ru/"
+],
+[
+"Glovo",
+"Glovo",
+"https://glovoapp.com/"
+],
+[
+"GLS Canada (Dicom)",
+"GLS Canada (Dicom)",
+"https://gls-canada.com/"
+],
+[
+"GLS (CZ)",
+"GLS (CZ)",
+"https://gls-group.eu/CZ/en/home"
+],
+[
+"GLS",
+"GLS",
+"https://gls-group.eu/EU/en/home"
+],
+[
+"GLS (Croatia)",
+"GLS (Croatia)",
+"https://gls-group.eu/HR/en/home"
+],
+[
+"GLS (HU)",
+"GLS (HU)",
+"https://gls-group.eu/HU/en/home"
+],
+[
+"GLS (RO)",
+"GLS (RO)",
+"https://gls-group.eu/RO/en/home"
+],
+[
+"GLS (SI)",
+"GLS (SI)",
+"https://gls-group.eu/SI/en/home"
+],
+[
+"GLS (SK)",
+"GLS (SK)",
+"https://gls-group.eu/SK/en/home"
+],
+[
+"GLT Express",
+"GLT Express",
+"https://gltmena.com/"
+],
+[
+"Gotofreight",
+"运连网",
+"https://gotofreight.com/"
+],
+[
+"GPD Service",
+"GPD Service",
+"https://gpd-service.com/"
+],
+[
+"Grastin",
+"Grastin",
+"https://grastin.ru/"
+],
+[
+"Green-Way couriers",
+"Green-Way couriers",
+"https://greenwaycouriers.ie/"
+],
+[
+"GTD",
+"GTD",
+"https://gtdel.com/"
+],
+[
+"GT Xpress",
+"GT Xpress",
+"https://gtxpressdeliver.com/"
+],
+[
+"Guatex",
+"Guatex",
+"https://guatex.com/guatex/rastreo-de-guias/"
+],
+[
+"Happy-Post",
+"Happy-Post",
+"https://happy-post.com/"
+],
+[
+"Hart 2 Hart",
+"Hart 2 Hart",
+"https://hart2hartexpress.co.uk/"
+],
+[
+"Helthjem",
+"Helthjem",
+"https://helthjem.no/"
+],
+[
+"Connect Couriers",
+"Connect Couriers",
+"https://hermes.connectcouriers.eu/tracking.aspx"
+],
+[
+"Kerry Express (HK)",
+"Kerry Express (HK)",
+"https://hk.kerryexpress.com/home"
+],
+[
+"Granful Solutions Ltd",
+"Granful Solutions Ltd",
+"https://hk-ols.granful.cn/"
+],
+[
+"Kuehne Nagel",
+"Kuehne Nagel",
+"https://home.kuehne-nagel.com/"
+],
+[
+"myKN",
+"myKN",
+"https://home.kuehne-nagel.com/"
+],
+[
+"IDexpressIndonesia",
+"IDexpressIndonesia",
+"https://idexpress.com/"
+],
+[
+"DSV e-Commerce IL",
+"DSV e-Commerce IL",
+"https://il.dsv.com/page-our-solutions/ecommerce/"
+],
+[
+"iloxx GmbH",
+"iloxx GmbH",
+"https://iloxx.de/home.aspx"
+],
+[
+"InPost (UK)",
+"InPost (UK)",
+"https://inpost.co.uk/"
+],
+[
+"InPost (IT)",
+"InPost (IT)",
+"https://inpost.it/"
+],
+[
+"InPost (PL)",
+"InPost (PL)",
+"https://inpost.pl/"
+],
+[
+"Insta World",
+"Insta World",
+"https://instaworld.pk/"
+],
+[
+"Intelcom (CA)",
+"Intelcom (CA)",
+"https://intelcom.ca/"
+],
+[
+"Intelcom Express",
+"Intelcom Express",
+"https://intelcomexpress.com/"
+],
+[
+"INTRAS CORPORATION",
+"INTRAS CORPORATION",
+"https://intras.co.jp/"
+],
+[
+"Chunghwa Post",
+"Chunghwa Post",
+"https://ipost.post.gov.tw/"
+],
+[
+"Chunghwa Post (Demestic)",
+"Chunghwa Post (Demestic)",
+"https://ipost.post.gov.tw/"
+],
+[
+"IQS",
+"IQS",
+"https://iqsgsc.com/"
+],
+[
+"ISO Logistics",
+"ISO Logistics",
+"https://iso-logistics.vn/"
+],
+[
+"Ivoy",
+"Ivoy",
+"https://ivoy.mx/"
+],
+[
+"Janio",
+"Janio",
+"https://janio.asia/"
+],
+[
+"JAPO Transport",
+"JAPO Transport",
+"https://japo-autodoprava.cz/"
+],
+[
+"Jet Logistic",
+"Jet Logistic",
+"https://jet.com.kz/"
+],
+[
+"JunFeng International",
+"君丰国际",
+"https://jfchinese.com/"
+],
+[
+"Joom Logistics",
+"Joom Logistics",
+"https://joomlogistics.com/en"
+],
+[
+"JPD GLOBAL PTY LTD",
+"捷派递",
+"https://jpdglobal.com.au/"
+],
+[
+"J&T Express (MY)",
+"J&T Express (MY)",
+"https://jtexpress.my/"
+],
+[
+"J&T Express (VN)",
+"J&T Express (VN)",
+"https://jtexpress.vn/"
+],
+[
+"경동택배 (KYOUNGDONG)",
+"경동택배 (KYOUNGDONG)",
+"https://kdexp.com/main.kd"
+],
+[
+"Kwiksave Logistics",
+"Kwiksave Logistics",
+"https://kwiksavecourier.com/"
+],
+[
+"KYE",
+"跨越速运",
+"https://ky-express.com/"
+],
+[
+"Landmark Global",
+"Landmark Global",
+"https://landmarkglobal.com/"
+],
+[
+"latam",
+"拉美邮",
+"https://latamyou.com/"
+],
+[
+"Legion Express",
+"Legion Express",
+"https://legionexp.com/"
+],
+[
+"LionBay",
+"LionBay",
+"https://lionbay.express/"
+],
+[
+"Air Bus Logistics",
+"Air Bus Logistics",
+"https://logistics.meifan.com.au/"
+],
+[
+"Printway Express",
+"Printway Express",
+"https://logistics.printway.io/"
+],
+[
+"Qwintry Logistics",
+"Qwintry Logistics",
+"https://logistics.qwintry.com/"
+],
+[
+"UPS Freight",
+"UPS Freight",
+"https://ltl.upsfreight.com/"
+],
+[
+"DX",
+"DX",
+"https://my.dxdelivery.com/"
+],
+[
+"KEX Express (ABX Express)",
+"KEX Express (ABX Express)",
+"https://my.kex-express.com/"
+],
+[
+"Pickupp (MY)",
+"Pickupp (MY)",
+"https://my.pickupp.io/"
+],
+[
+"eShip",
+"eShip",
+"https://myeship.co/"
+],
+[
+"NAS Express",
+"NAS Express",
+"https://nasxpress.com/"
+],
+[
+"Nimbus Post",
+"Nimbus Post",
+"https://nimbuspost.com/"
+],
+[
+"Nord Et Ouest Express",
+"Nord Et Ouest Express",
+"https://noest-dz.com/"
+],
+[
+"Nova Poshta Global",
+"Nova Poshta Global",
+"https://novaposhtaglobal.ua/en/"
+],
+[
+"Interparcel (NZ)",
+"Interparcel (NZ)",
+"https://nz.interparcel.com/"
+],
+[
+"ODM Express",
+"ODM Express",
+"https://odmexpress.com.mx/"
+],
+[
+"Oman Post",
+"Oman Post",
+"https://omanpost.om/"
+],
+[
+"ONEX",
+"ONEX",
+"https://onex.am/"
+],
+[
+"Online Worldwide Logistics",
+"欧莱物流",
+"https://online56.com.cn/"
+],
+[
+"Ontime",
+"Ontime",
+"https://ontime.es/"
+],
+[
+"OrangeDS",
+"OrangeDS",
+"https://orangedsinc.com/"
+],
+[
+"P2P Mailing",
+"P2P Mailing",
+"https://p2pmailing.co.uk/"
+],
+[
+"Paack",
+"Paack",
+"https://paack.co/"
+],
+[
+"OuoPalletOnlinelogistics",
+"OuoPalletOnlinelogistics",
+"https://palletonline.co.uk/"
+],
+[
+"parxl",
+"parxl",
+"https://parxl.com/"
+],
+[
+"Paxel",
+"Paxel",
+"https://paxel.co/"
+],
+[
+"PBT Express Freight Network",
+"PBT Express Freight Network",
+"https://pbt.co.nz/"
+],
+[
+"PCF",
+"PCF",
+"https://pcfcorp.com/"
+],
+[
+"PCP EXPRESS",
+"PCP EXPRESS",
+"https://pcpexpress.com/"
+],
+[
+"PiggyShip",
+"PiggyShip",
+"https://piggyship.com/index.html"
+],
+[
+"PLG Futár",
+"PLG Futár",
+"https://plgfutar.hu/"
+],
+[
+"Russian Post",
+"Russian Post",
+"https://pochta.ru/"
+],
+[
+"ePost Global",
+"ePost Global",
+"https://portal.epgshipping.com/"
+],
+[
+"Multrans Logistics",
+"Multrans Logistics",
+"https://portal.multransglobalmail.com/tracking/"
+],
+[
+"Iraq Post (البريد العراقي)",
+"Iraq Post (البريد العراقي)",
+"https://post.iq/en/"
+],
+[
+"Kaz Post",
+"Kaz Post",
+"https://post.kz/"
+],
+[
+"Postmedia Parcel Services (BNI Parcel Tracking)",
+"Postmedia Parcel Services (BNI Parcel Tracking)",
+"https://postmediaparcelservices.com/"
+],
+[
+"PostOne",
+"PostOne",
+"https://postone.eu/"
+],
+[
+"Q-Post",
+"Q-Post",
+"https://qatarpost.qa/"
+],
+[
+"Redur",
+"Redur",
+"https://redur.es/"
+],
+[
+"ROMANO LOGISTICS",
+"ROMANO LOGISTICS",
+"https://romano-logistics.com/"
+],
+[
+"Royal Shipments",
+"Royal Shipments",
+"https://royalshipments.com/"
+],
+[
+"Sameday (HU)",
+"Sameday (HU)",
+"https://sameday.hu/"
+],
+[
+"Sameday (RO)",
+"Sameday (RO)",
+"https://sameday.ro/"
+],
+[
+"Saveway Logistics",
+"Saveway Logistics",
+"https://saveway-logistics.com/"
+],
+[
+"СберЛогистика (SberLogistics)",
+"СберЛогистика (SberLogistics)",
+"https://sberlogistics.ru/"
+],
+[
+"Sinotrans South",
+"华南中外运供应链",
+"https://sc.y2t.com/"
+],
+[
+"SCA Express",
+"SCA Express",
+"https://scaexpress.com.au/"
+],
+[
+"GFS Seeker",
+"GFS Seeker",
+"https://seeker.gfsdeliver.com/"
+],
+[
+"Segmail",
+"Segmail",
+"https://segmail.co/"
+],
+[
+"ePOST (인터넷우체국)(Domestic)",
+"ePOST (인터넷우체국)(Domestic)",
+"https://service.epost.go.kr/iservice/usr/trace/usrtrc001k01.jsp"
+],
+[
+"Pickupp (SG)",
+"Pickupp (SG)",
+"https://sg.pickupp.io/"
+],
+[
+"Shadowfax",
+"Shadowfax",
+"https://shadowfax.in/"
+],
+[
+"Shape Sky Logistics",
+"Shape Sky Logistics",
+"https://shapeskylogistics.com"
+],
+[
+"Amazon Shipping(UK)",
+"Amazon Shipping(UK)",
+"https://ship.amazon.co.uk/requestinfo/"
+],
+[
+"SHIPA",
+"SHIPA",
+"https://shipa.com/"
+],
+[
+"X-Eagle",
+"老鹰跨境",
+"https://shipeag.hk/"
+],
+[
+"QUANCHENHUI",
+"全成汇",
+"https://shiplives.com/"
+],
+[
+"ShipShopUS",
+"ShipShopUS",
+"https://shipshopus.com/"
+],
+[
+"Shiptor",
+"Shiptor",
+"https://shiptor.ru/"
+],
+[
+"Wizmo",
+"Wizmo",
+"https://shipwizmo.com/"
+],
+[
+"Shopee Xpress (MY)",
+"Shopee Xpress (MY)",
+"https://shopeexpress.com.my/"
+],
+[
+"Skyking",
+"Skyking",
+"https://skyking.co/track/"
+],
+[
+"SMART Post Global",
+"SMART Post Global",
+"https://smartpost.global/en"
+],
+[
+"Smartr Logistics",
+"Smartr Logistics",
+"https://smartr.in/"
+],
+[
+"SMB Express",
+"SMB Express",
+"https://smb.express/"
+],
+[
+"Spaldex+",
+"Spaldex+",
+"https://spaldex-express.ru/"
+],
+[
+"Speedaf",
+"Speedaf",
+"https://speedaf.com/"
+],
+[
+"Spee-Dee Delivery",
+"Spee-Dee Delivery",
+"https://speedeedelivery.com/"
+],
+[
+"SPES",
+"速易邮",
+"https://spes.link/"
+],
+[
+"Saudi Post",
+"Saudi Post",
+"https://splonline.com.sa/ar/"
+],
+[
+"sprint",
+"sprint",
+"https://sprint.xyz/"
+],
+[
+"Sprintstar",
+"Sprintstar",
+"https://sprintstar.ca/"
+],
+[
+"Shopee Xpress (ID)",
+"Shopee Xpress (ID)",
+"https://spx.co.id/"
+],
+[
+"Shopee Xpress (TH)",
+"Shopee Xpress (TH)",
+"https://spx.co.th/"
+],
+[
+"ShopeeExpress(PH)",
+"ShopeeExpress(PH)",
+"https://spx.ph/"
+],
+[
+"Shopee Xpress (SG)",
+"Shopee Xpress (SG)",
+"https://spx.sg/"
+],
+[
+"ShopeeExpress(VN)",
+"ShopeeExpress(VN)",
+"https://spx.vn/"
+],
+[
+"Standard Global Logistics",
+"Standard Global Logistics",
+"https://standardglobal.site/"
+],
+[
+"Sterling Global Aviation Logistics",
+"Sterling Global Aviation Logistics",
+"https://sterling.quick.aero/"
+],
+[
+"Straightship",
+"Straightship",
+"https://straightship.com/"
+],
+[
+"Swyft Logistics",
+"Swyft Logistics",
+"https://swyftlogistics.com/"
+],
+[
+"Tata Express",
+"Tata Express",
+"https://tataexpress.ae/"
+],
+[
+"Tele Post",
+"Tele Post",
+"https://telepost.gl/"
+],
+[
+"Kerry Express (TH)",
+"嘉里物流(泰国)",
+"https://th.kerryexpress.com/"
+],
+[
+"Thabit Logistics",
+"Thabit Logistics",
+"https://thabit-logistics.com/"
+],
+[
+"YME",
+"运盟国际",
+"https://tms.ym-trans.com/"
+],
+[
+"Amazon Shipping(IN)",
+"Amazon Shipping(IN)",
+"https://track.amazon.in/"
+],
+[
+"Bpost",
+"Bpost",
+"https://track.bpost.cloud/"
+],
+[
+"99Minutos",
+"99Minutos",
+"https://tracking.99minutos.com/"
+],
+[
+"Vamox",
+"Vamox",
+"https://tracking.vamox.io/"
+],
+[
+"Whistl",
+"Whistl",
+"https://trackmyitem.whistl.co.uk/"
+],
+[
+"Trackon",
+"Trackon",
+"https://trackon.in/"
+],
+[
+"Service Points",
+"Service Points",
+"https://track-sp.com/"
+],
+[
+"Trax",
+"Trax",
+"https://trax.pk/"
+],
+[
+"TrumpCard",
+"TrumpCard",
+"https://trumpcardinc.com/"
+],
+[
+"Pickupp (TW)",
+"Pickupp (TW)",
+"https://tw.pickupp.io/"
+],
+[
+"Interparcel (UK)",
+"Interparcel (UK)",
+"https://uk.interparcel.com/"
+],
+[
+"ULALA",
+"ULALA",
+"https://ulala.ca/"
+],
+[
+"YOU TRACK",
+"YOU TRACK",
+"https://unitrade.youtrack.info/"
+],
+[
+"UniUni",
+"UniUni",
+"https://uniuni.com/"
+],
+[
+"Venipak",
+"Venipak",
+"https://venipak.lt/en/"
+],
+[
+"Vestovoy",
+"Vestovoy",
+"https://vestovoy.ru/"
+],
+[
+"Via Cargo",
+"Via Cargo",
+"https://viacargo.com.ar/"
+],
+[
+"Viettel Post",
+"Viettel Post",
+"https://viettelpost.com.vn/"
+],
+[
+"Wahana Prestasi Logistik",
+"Wahana Prestasi Logistik",
+"https://wahana.com/"
+],
+[
+"Walkers Transport",
+"Walkers Transport",
+"https://walkers-transport.co.uk/"
+],
+[
+"Caribou",
+"Caribou",
+"https://wearecaribou.com/"
+],
+[
+"Pro Carrier",
+"Pro Carrier",
+"https://weareprocarrier.com/"
+],
+[
+"WLD Express",
+"万立德国际",
+"https://wld-exp.com/"
+],
+[
+"wnDirect",
+"wnDirect",
+"https://wndirect.com/"
+],
+[
+"PTS Worldwide Express",
+"PTS Worldwide Express",
+"https://wp.pts.net/"
+],
+[
+"17EXP",
+"17EXP",
+"https://www.17-exp.com/"
+],
+[
+"CTGJ",
+"诚天国际",
+"https://www.233trans.com/"
+],
+[
+"WSH",
+"WSH",
+"https://www.360lion.com/"
+],
+[
+"3DADA",
+"圣大",
+"https://www.3dada.cn/"
+],
+[
+"4PLLAB",
+"4PL实验室",
+"https://www.4pllab.cn/"
+],
+[
+"4PX",
+"递四方",
+"https://www.4px.com/"
+],
+[
+"4 SIDES",
+"4 SIDES",
+"https://www.4sides.ru/"
+],
+[
+"7-tm",
+"七千里",
+"https://www.7-tm.com/"
+],
+[
+"Best Inc (CN)",
+"百世快运 (中国)",
+"https://www.800best.com/"
+],
+[
+"ACS",
+"ACS",
+"https://www.acscourier.net/"
+],
+[
+"ADSOne",
+"ADSOne",
+"https://www.adsone.com.au/"
+],
+[
+"Agility",
+"Agility",
+"https://www.agility.com/"
+],
+[
+"AirTerra",
+"AirTerra",
+"https://www.airterra.com/"
+],
+[
+"AIT Worldwide Logistics",
+"AIT Worldwide Logistics",
+"https://www.aitworldwide.com/"
+],
+[
+"AlfmensAjeria",
+"AlfmensAjeria",
+"https://www.alfmensajeria.com.mx/"
+],
+[
+"AliExpress",
+"全球速卖通",
+"https://www.aliexpress.com/"
+],
+[
+"Amazon Shipping + Amazon MCF",
+"Amazon Shipping + Amazon MCF",
+"https://www.amazon.com/"
+],
+[
+"Andreani",
+"Andreani",
+"https://www.andreani.com/"
+],
+[
+"ANL",
+"美新物流",
+"https://www.anl-cn.com/"
+],
+[
+"ANL",
+"新干线",
+"https://www.anlexpress.com/"
+],
+[
+"An Post",
+"An Post",
+"https://www.anpost.com/"
+],
+[
+"APC Postal Logistics",
+"APC Postal Logistics",
+"https://www.apc-pli.com/"
+],
+[
+"AppleExpress",
+"AppleExpress",
+"https://www.appleexpress.com/"
+],
+[
+"Aramex NZ (formerly Fastway NZ)",
+"Aramex NZ (formerly Fastway NZ)",
+"https://www.aramex.co.nz/"
+],
+[
+"Aramex AU (formerly Fastway AU)",
+"Aramex AU (formerly Fastway AU)",
+"https://www.aramex.com.au/"
+],
+[
+"Aras Kargo",
+"Aras Kargo",
+"https://www.araskargo.com.tr/tr/#"
+],
+[
+"Arco Spedizioni",
+"Arco Spedizioni",
+"https://www.arcospedizioni.it/"
+],
+[
+"Averitt Express",
+"Averitt Express",
+"https://www.averittexpress.com/"
+],
+[
+"Baosen Suntop",
+"堡森三通",
+"https://www.baosencn.cn/"
+],
+[
+"BDM",
+"BDM",
+"https://www.bdmnet.it/"
+],
+[
+"Bermuda Post",
+"Bermuda Post",
+"https://www.bermudapost.bm/"
+],
+[
+"BEST EXPRESS",
+"BEST EXPRESS",
+"https://www.best-inc.co.th/"
+],
+[
+"Better Trucks",
+"Better Trucks",
+"https://www.bettertrucks.com/"
+],
+[
+"BEX",
+"BEX",
+"https://www.bex.rs/"
+],
+[
+"Bird System",
+"Bird System",
+"https://www.birdsystemgroup.com/"
+],
+[
+"Blue Express",
+"Blue Express",
+"https://www.blue.cl/"
+],
+[
+"Bluecare",
+"Bluecare",
+"https://www.bluecare.express/"
+],
+[
+"BlueEx",
+"BlueEx",
+"https://www.blue-ex.com/"
+],
+[
+"Bluestreak",
+"Bluestreak",
+"https://www.bluestreakcouriers.com/"
+],
+[
+"Bombino Express",
+"Bombino Express",
+"https://www.bombinoexp.in/"
+],
+[
+"Bondex",
+"海程邦达",
+"https://www.bondex.com.cn"
+],
+[
+"Border Express",
+"Border Express",
+"https://www.borderexpress.com.au/"
+],
+[
+"Boxtal",
+"Boxtal",
+"https://www.boxtal.com/fr/fr/accueil/"
+],
+[
+"Bring",
+"Bring",
+"https://www.bring.com/"
+],
+[
+"Bringer Air Cargo",
+"Bringer Air Cargo",
+"https://www.bringeraircargo.com/"
+],
+[
+"Bringer Parcel Service",
+"Bringer Parcel Service",
+"https://www.bringerparcel.com/"
+],
+[
+"Broker Den",
+"Broker Den",
+"https://www.brokerden.com/"
+],
+[
+"Bunddl",
+"Bunddl",
+"https://www.bunddl.com/"
+],
+[
+"Cainiao",
+"菜鸟",
+"https://www.cainiao.com/"
+],
+[
+"Campost",
+"Campost",
+"https://www.campost.cm/"
+],
+[
+"Canpar Express",
+"Canpar Express",
+"https://www.canpar.com/"
+],
+[
+"Cargus",
+"Cargus",
+"https://www.cargus.ro/"
+],
+[
+"Castle Parcel",
+"Castle Parcel",
+"https://www.castleparcels.co.nz/"
+],
+[
+"CEVA Logistics",
+"CEVA Logistics",
+"https://www.cevalogistics.com/"
+],
+[
+"Cheer",
+"琪悦物流",
+"https://www.cheer56.com/"
+],
+[
+"GORTO",
+"国润通",
+"https://www.china-grt.com/"
+],
+[
+"Cigerma",
+"西格码物流优选",
+"https://www.cigerma.com/"
+],
+[
+"CityMail",
+"CityMail",
+"https://www.citymail.se/"
+],
+[
+"CJ Century",
+"CJ Century",
+"https://www.cjcentury.com/"
+],
+[
+"CJ Korea Express",
+"CJ Korea Express",
+"https://www.cjlogistics.com/"
+],
+[
+"CJ Logistics",
+"CJ Logistics",
+"https://www.cjlogistics.com/"
+],
+[
+"CJ Logistics (SG)",
+"CJ Logistics (SG)",
+"https://www.cjlogistics.com/en/network/en-sg"
+],
+[
+"Commonline",
+"斯里兰卡捷高",
+"https://www.clexpress.lk/"
+],
+[
+"CNILINK",
+"CNILINK",
+"https://www.cnilink.com/"
+],
+[
+"C2I LOGISTIC",
+"中印物流",
+"https://www.cntin.com/"
+],
+[
+"Colicoli",
+"Colicoli",
+"https://www.colicoli.fr/"
+],
+[
+"Collect+",
+"Collect+",
+"https://www.collectplus.co.uk/"
+],
+[
+"Comet Hellas",
+"Comet Hellas",
+"https://www.comethellas.gr/"
+],
+[
+"Continental",
+"Continental",
+"https://www.contin-global.com/"
+],
+[
+"Coordinadora",
+"Coordinadora",
+"https://www.coordinadora.com/"
+],
+[
+"Copa Airlines Courier",
+"Copa Airlines Courier",
+"https://www.copacourier.com/"
+],
+[
+"Correos Express",
+"Correos Express",
+"https://www.correosexpress.com/"
+],
+[
+"COURIER CENTER",
+"COURIER CENTER",
+"https://www.courier.gr/"
+],
+[
+"CouriersPlease",
+"CouriersPlease",
+"https://www.couriersplease.com.au/"
+],
+[
+"Cowin Logistics",
+"旗云国际物流",
+"https://www.cowin-intl.com/"
+],
+[
+"КСЭ (CSE)",
+"КСЭ (CSE)",
+"https://www.cse.ru/"
+],
+[
+"CTS",
+"华贸国际",
+"https://www.ctsfreight.com/"
+],
+[
+"CTS GROUP",
+"CTS GROUP",
+"https://www.ctsgroup.nl/"
+],
+[
+"CTT Express",
+"CTT Express",
+"https://www.cttexpress.com/"
+],
+[
+"Cubyn",
+"Cubyn",
+"https://www.cubyn.com/"
+],
+[
+"CUpost (CU 편의점택배)",
+"CUpost (CU 편의점택배)",
+"https://www.cupost.co.kr/"
+],
+[
+"Cycloon (Fietskoeriers)",
+"Cycloon (Fietskoeriers)",
+"https://www.cycloon.eu/"
+],
+[
+"Cyprus Post",
+"Cyprus Post",
+"https://www.cypruspost.post/"
+],
+[
+"DACHSER",
+"DACHSER",
+"https://www.dachser.com/"
+],
+[
+"Dakota Group",
+"Dakota Group",
+"https://www.dakotacargo.co.id/"
+],
+[
+"dao",
+"dao",
+"https://www.dao.as/"
+],
+[
+"DB Schenker",
+"DB Schenker",
+"https://www.dbschenker.com/"
+],
+[
+"Deksu",
+"德速电商物流",
+"https://www.deksu.com/"
+],
+[
+"Delhivery",
+"Delhivery",
+"https://www.delhivery.com/"
+],
+[
+"DELIVER-IT",
+"DELIVER-IT",
+"https://www.deliver-it.com/"
+],
+[
+"Dellin",
+"Dellin",
+"https://www.dellin.ru/"
+],
+[
+"Delnext",
+"Delnext",
+"https://www.delnext.com/"
+],
+[
+"Deltec Courier",
+"Deltec Courier",
+"https://www.deltec-courier.com/"
+],
+[
+"Deprisa",
+"Deprisa",
+"https://www.deprisa.com/"
+],
+[
+"De Well",
+"德威国际",
+"https://www.de-well.com/"
+],
+[
+"DHL Parcel Spain",
+"DHL Parcel Spain",
+"https://www.dhl.com/es-en/home/our-divisions/parcel/home/private-shipments/tracking-shipments.html"
+],
+[
+"DHL Parcel (UK)",
+"DHL Parcel (UK)",
+"https://www.dhl.com/gb-en/"
+],
+[
+"DHL Freight",
+"DHL Freight",
+"https://www.dhl.com/global-en/home/our-divisions/freight.html"
+],
+[
+"DHL eCommerce US",
+"DHL eCommerce US",
+"https://www.dhl.com/us-en/home/tracking/tracking-ecommerce.html"
+],
+[
+"DHL Paket",
+"DHL Paket",
+"https://www.dhl.de/en/privatkunden/pakete-empfangen/verfolgen.html"
+],
+[
+"DHLink",
+"驼飞侠",
+"https://www.dhlink.com"
+],
+[
+"DHL Parcel (NL)",
+"DHL Parcel (NL)",
+"https://www.dhlparcel.nl/"
+],
+[
+"DORJE",
+"多杰物流",
+"https://www.dorje56.com/"
+],
+[
+"DPD (PL)",
+"DPD (PL)",
+"https://www.dpd.com.pl/"
+],
+[
+"DPD (BE)",
+"DPD (BE)",
+"https://www.dpd.com/be/nl/"
+],
+[
+"DPD (CZ)",
+"DPD (CZ)",
+"https://www.dpd.com/cz/en/"
+],
+[
+"DPD (HU)",
+"DPD (HU)",
+"https://www.dpd.com/hu/hu/"
+],
+[
+"DPD (RO)",
+"DPD (RO)",
+"https://www.dpd.com/ro/ro/"
+],
+[
+"DPD (RU)",
+"DPD (RU)",
+"https://www.dpd.ru/"
+],
+[
+"DPX EXPRESS",
+"地平线速运",
+"https://www.dpx-express.com/"
+],
+[
+"Hailify",
+"Hailify",
+"https://www.drivehailify.com/"
+],
+[
+"DSV",
+"DSV",
+"https://www.dsv.com/"
+],
+[
+"DuXiuExp",
+"独秀国际",
+"https://www.duxiuexp.com/"
+],
+[
+"Daylight Transport",
+"Daylight Transport",
+"https://www.dylt.com/"
+],
+[
+"EasyGet",
+"EasyGet",
+"https://www.easyget.com.ua/"
+],
+[
+"Easy Mail",
+"Easy Mail",
+"https://www.easymail.gr/en/"
+],
+[
+"Pelican (宅配通)",
+"宅配通",
+"https://www.e-can.com.tw/"
+],
+[
+"Echo Global Logistics",
+"Echo Global Logistics",
+"https://www.echo.com/"
+],
+[
+"Еконт (Econt)",
+"Еконт (Econt)",
+"https://www.econt.com/"
+],
+[
+"Ecoscooting",
+"Ecoscooting",
+"https://www.ecoscooting.com/"
+],
+[
+"ELINEX",
+"ELINEX",
+"https://www.elinex.cn/"
+],
+[
+"OOPSTON",
+"OOPSTON",
+"https://www.elitebio.com/"
+],
+[
+"ELTA Courier",
+"ELTA Courier",
+"https://www.elta-courier.gr/"
+],
+[
+"YIMINGHUI",
+"深圳易明慧",
+"https://www.emhsz.com/"
+],
+[
+"Express Mail Service (EMS)",
+"Express Mail Service (EMS)",
+"https://www.ems.post/"
+],
+[
+"endicia",
+"endicia",
+"https://www.endicia.com/"
+],
+[
+"envialia",
+"envialia",
+"https://www.envialia.com/"
+],
+[
+"E-post",
+"E-post",
+"https://www.e-post.co.il/"
+],
+[
+"eShipper",
+"eShipper",
+"https://www.eshipper.com/"
+],
+[
+"Esnad Express",
+"Esnad Express",
+"https://www.esnadexpress.com/"
+],
+[
+"Estafeta",
+"Estafeta",
+"https://www.estafeta.com/"
+],
+[
+"Estes",
+"Estes",
+"https://www.estes-express.com/"
+],
+[
+"EuroExpress",
+"EuroExpress",
+"https://www.euroexpress.ba/"
+],
+[
+"EVERWIN",
+"EVERWIN",
+"https://www.evertowin.com/"
+],
+[
+"Evri ( The New Hermes )",
+"Evri ( The New Hermes )",
+"https://www.evri.com/"
+],
+[
+"Expeditors",
+"Expeditors",
+"https://www.expeditors.com/"
+],
+[
+"ExPlus",
+"中田物流(南亚专线）",
+"https://www.explus56.com"
+],
+[
+"FamiPort",
+"FamiPort",
+"https://www.famiport.com.tw/"
+],
+[
+"FAN Courier",
+"FAN Courier",
+"https://www.fancourier.ro/"
+],
+[
+"FAST EXPRESS",
+"FAST EXPRESS",
+"https://www.fast-express.com/en/"
+],
+[
+"MTO EXPRESS",
+"銘東物流",
+"https://www.fba.jp/"
+],
+[
+"FedEx® Poland",
+"FedEx® Poland",
+"https://www.fedex.com/pl-pl/home.html"
+],
+[
+"Fercam",
+"Fercam",
+"https://www.fercam.com/"
+],
+[
+"fermopoint",
+"fermopoint",
+"https://www.fermopoint.it/"
+],
+[
+"First Flight Couriers",
+"First Flight Couriers",
+"https://www.firstflight.net/"
+],
+[
+"First Global Logistics",
+"First Global Logistics",
+"https://www.firstgloballogistics.co.nz/"
+],
+[
+"Flash Express (TH)",
+"Flash Express (TH)",
+"https://www.flashexpress.co.th/"
+],
+[
+"Flash Express (LA)",
+"Flash Express (LA)",
+"https://www.flashexpress.la/"
+],
+[
+"Flash Express (MY)",
+"Flash Express (MY)",
+"https://www.flashexpress.my/"
+],
+[
+"Flash Express (PH)",
+"Flash Express (PH)",
+"https://www.flashexpress.ph/"
+],
+[
+"FMX",
+"FMX",
+"https://www.fmx.asia/"
+],
+[
+"FOXPOST",
+"FOXPOST",
+"https://www.foxpost.hu/"
+],
+[
+"Danske Fragtmænd",
+"Danske Fragtmænd",
+"https://www.fragt.dk/"
+],
+[
+"Frayun",
+"法运",
+"https://www.frayun.com/"
+],
+[
+"Fulfillant",
+"Fulfillant",
+"https://www.fulfillant.com/"
+],
+[
+"FULFILLMEN",
+"中田物流",
+"https://www.fulfillmen.com/"
+],
+[
+"Gate Link Logistics",
+"Gate Link Logistics",
+"https://www.gatelinklogistics.com/"
+],
+[
+"GD Express",
+"GD Express",
+"https://www.gdexpress.com/"
+],
+[
+"Gdyhwl",
+"广东盈寰物流",
+"https://www.gdyhwl.cn/"
+],
+[
+"Gefco",
+"Gefco",
+"https://www.gefco.net/en/"
+],
+[
+"Geis",
+"Geis",
+"https://www.geis-group.cz/"
+],
+[
+"GEL Express Logistik",
+"GEL Express Logistik",
+"https://www.gel-express.de/"
+],
+[
+"GLOBALTRANS",
+"GLOBALTRANS",
+"https://www.globaltrans.es/"
+],
+[
+"GV",
+"GV",
+"https://www.globavend.com/"
+],
+[
+"GLS (NL)",
+"GLS (NL)",
+"https://www.gls-info.nl/"
+],
+[
+"GLS (IT)",
+"GLS (IT)",
+"https://www.gls-italy.com/"
+],
+[
+"GLS (PT)",
+"GLS (PT)",
+"https://www.gls-portugal.pt/"
+],
+[
+"GLS Portugal (National)",
+"GLS Portugal (National)",
+"https://www.gls-portugal.pt/"
+],
+[
+"GLS Spain (National)",
+"GLS Spain (National)",
+"https://www.gls-spain.es/en/"
+],
+[
+"GLS (US)",
+"GLS (US)",
+"https://www.gls-us.com/"
+],
+[
+"Elite Co.",
+"Elite Co.",
+"https://www.go.elite-co.com/"
+],
+[
+"Go4",
+"Go4",
+"https://www.go4.sk/"
+],
+[
+"GPS",
+"凌曦物流",
+"https://www.goforgps.com/"
+],
+[
+"Global Post",
+"Global Post",
+"https://www.goglobalpost.com/"
+],
+[
+"GOOD",
+"固德",
+"https://www.goodexpress.com.cn/"
+],
+[
+"Goodluck Courier Service",
+"Goodluck Courier Service",
+"https://www.goodluckcourier.com/"
+],
+[
+"GoRush",
+"GoRush",
+"https://www.gorushbn.com/"
+],
+[
+"Swift",
+"Swift",
+"https://www.goswift.in/"
+],
+[
+"Gebrüder Weiss (GW)",
+"Gebrüder Weiss (GW)",
+"https://www.gw-world.com/"
+],
+[
+"Hanjin",
+"Hanjin",
+"https://www.hanjin.co.kr/"
+],
+[
+"HCT Logistics",
+"新竹物流",
+"https://www.hct.com.tw/"
+],
+[
+"Hecny",
+"Hecny",
+"https://www.hecny.com/"
+],
+[
+"Hellmann",
+"Hellmann",
+"https://www.hellmann.com/en/"
+],
+[
+"HepsiJET",
+"HepsiJET",
+"https://www.hepsijet.com/"
+],
+[
+"Hermes Borderguru",
+"Hermes Borderguru",
+"https://www.hermesborderguru.com/"
+],
+[
+"Hermes",
+"Hermes",
+"https://www.hermesworld.com/"
+],
+[
+"HFD",
+"HFD",
+"https://www.hfd.co.il/"
+],
+[
+"HuaHan Logistics",
+"华翰物流",
+"https://www.hh-exp.com/"
+],
+[
+"HiLiFe",
+"莱尔富",
+"https://www.hilife.com.tw/"
+],
+[
+"JTD",
+"金泰达国际",
+"https://www.hkjtd56.com/"
+],
+[
+"hulihang",
+"华利航",
+"https://www.hlhex.com.cn/"
+],
+[
+"Homerr",
+"Homerr",
+"https://www.homerr.com/"
+],
+[
+"HP",
+"HP",
+"https://www.hpcourier.ca/"
+],
+[
+"HR Parcel (HRP)",
+"HR Parcel (HRP)",
+"https://www.hrparcel.com/"
+],
+[
+"HRX",
+"HRX",
+"https://www.hrx.pl/"
+],
+[
+"HSD",
+"鸿速达",
+"https://www.hsd-express.com/"
+],
+[
+"Hunter Express",
+"Hunter Express",
+"https://www.hunterexpress.com.au/"
+],
+[
+"HMC",
+"货满舱",
+"https://www.huomc.com/"
+],
+[
+"ICS Courier",
+"ICS Courier",
+"https://www.icscourier.ca/"
+],
+[
+"iCumulus",
+"iCumulus",
+"https://www.icumulus.com/"
+],
+[
+"IDE",
+"IDE",
+"https://www.ideexp.com/"
+],
+[
+"IDS Logistics",
+"IDS Logistics",
+"https://www.idsship.com/"
+],
+[
+"Logen (로젠택배)",
+"Logen (로젠택배)",
+"https://www.ilogen.com/"
+],
+[
+"iMile",
+"iMile",
+"https://www.imile.com/"
+],
+[
+"InexPost",
+"InexPost",
+"https://www.inexpost.ru/"
+],
+[
+"InPost (ES)",
+"InPost (ES)",
+"https://www.inpost.es/"
+],
+[
+"InPost (PT)",
+"InPost (PT)",
+"https://www.inpost.pt/"
+],
+[
+"InstaDispatch",
+"InstaDispatch",
+"https://www.instadispatch.com/"
+],
+[
+"Intercontinental Cargo Movers",
+"Intercontinental Cargo Movers",
+"https://www.intercontinentalcargmovers.com/"
+],
+[
+"Inter Courier",
+"Inter Courier",
+"https://www.intercourier.pt/"
+],
+[
+"Intereuropa",
+"Intereuropa",
+"https://www.intereuropa.hr/"
+],
+[
+"Internet Express",
+"Internet Express",
+"https://www.internetexpress.co.za/"
+],
+[
+"Inter Rapidisimo (INTER RAPIDÍSIMO)",
+"Inter Rapidisimo (INTER RAPIDÍSIMO)",
+"https://www.interrapidisimo.com/"
+],
+[
+"iThink Logistics",
+"iThink Logistics",
+"https://www.ithinklogistics.com/"
+],
+[
+"JDE",
+"JDE",
+"https://www.jde.ru/"
+],
+[
+"JDIEX",
+"JDIEX国际物流",
+"https://www.jdiex.com/"
+],
+[
+"JDL Express",
+"JDL Express",
+"https://www.jdlexpress.co.id/"
+],
+[
+"JD Worldwide",
+"京东国际",
+"https://www.jdworldwide.com/"
+],
+[
+"JENY",
+"JENY",
+"https://www.jenyxpress.com/"
+],
+[
+"JFP Express",
+"捷派快运",
+"https://www.jetfastparcels.com/"
+],
+[
+"Jetline Couriers Pvt. Ltd",
+"Jetline Couriers Pvt. Ltd",
+"https://www.jetlinecouriers.in/"
+],
+[
+"J&T International",
+"极兔国际",
+"https://www.jet-logistics.com/?from=17track"
+],
+[
+"JY",
+"JY",
+"https://www.jiayingex.com/"
+],
+[
+"JDT",
+"玖鼎通",
+"https://www.jiudt.com/"
+],
+[
+"JNE Express",
+"JNE Express",
+"https://www.jne.co.id/"
+],
+[
+"JoeyCo",
+"JoeyCo",
+"https://www.joeyco.com/"
+],
+[
+"JOYING BOX",
+"飞盒跨境",
+"https://www.joyingbox.com/"
+],
+[
+"J&T Express (TH)",
+"J&T Express (TH)",
+"https://www.jtexpress.co.th/"
+],
+[
+"J&T Express (MX)",
+"J&T Express (MX)",
+"https://www.jtexpress.mx/"
+],
+[
+"J&T Express (PH)",
+"J&T Express (PH)",
+"https://www.jtexpress.ph/"
+],
+[
+"J&T Express (SG)",
+"J&T Express (SG)",
+"https://www.jtexpress.sg/"
+],
+[
+"J&T Express (EG)",
+"J&T Express (EG)",
+"https://www.jtexpress-eg.com/"
+],
+[
+"J&T Express (SA)",
+"J&T Express (SA)",
+"https://www.jtexpress-sa.com/"
+],
+[
+"Jusda International",
+"准时达",
+"https://www.jusdaglobal.com/"
+],
+[
+"KDZ Express",
+"KDZ Express",
+"https://www.kdz.com/"
+],
+[
+"Kyrgyz Express Post(KEP)",
+"Kyrgyz Express Post(KEP)",
+"https://www.kep.kg/"
+],
+[
+"Kerry eCommerce",
+"Kerry eCommerce",
+"https://www.kerry-ecommerce.com/"
+],
+[
+"KINTETSU LOGISTICS SYSTEMS (近鉄ロジスティクス)",
+"KINTETSU LOGISTICS SYSTEMS (近鉄ロジスティクス)",
+"https://www.kintetsu-ls.co.jp/"
+],
+[
+"KNL-CN",
+"川日国际物流",
+"https://www.knl-cn.com/"
+],
+[
+"건영택배 (KUNYONG EXPRESS)",
+"건영택배 (KUNYONG EXPRESS)",
+"https://www.kunyoung.com/"
+],
+[
+"Kurasi",
+"Kurasi",
+"https://www.kurasi.co.id/"
+],
+[
+"KYE (CN)",
+"跨越速运 (中国)",
+"https://www.ky-express.com/"
+],
+[
+"LaserShip",
+"LaserShip",
+"https://www.lasership.com/"
+],
+[
+"Blue Leopard",
+"蓝豹云仓供应链",
+"https://www.lb-56.com/"
+],
+[
+"LBC Express",
+"LBC Express",
+"https://www.lbcexpress.com/"
+],
+[
+"LBTX",
+"龙本天下",
+"https://www.lbtxkd.com/"
+],
+[
+"LDGJ",
+"领东国际",
+"https://www.ldgj56.com/"
+],
+[
+"LEADER",
+"LEADER",
+"https://www.leader609.com/"
+],
+[
+"Liccardi",
+"Liccardi",
+"https://www.liccarditrasporti.com/"
+],
+[
+"Line Clear Express",
+"Line Clear Express",
+"https://www.lineclearexpress.com/"
+],
+[
+"Linex",
+"Linex",
+"https://www.linexsolutions.com/"
+],
+[
+"Lion parcel",
+"Lion parcel",
+"https://www.lionparcel.com/"
+],
+[
+"Liuchen",
+"六尘国际",
+"https://www.liuchenwl.com/"
+],
+[
+"LMSY",
+"六脉速运",
+"https://www.lmparcel.com/"
+],
+[
+"Loggi Express BR",
+"Loggi Express BR",
+"https://www.loggi.com/"
+],
+[
+"Loomis Express",
+"Loomis Express",
+"https://www.loomisexpress.com/"
+],
+[
+"Lotte Global Logistics",
+"Lotte Global Logistics",
+"https://www.lotteglogis.com/english/reservation/track/"
+],
+[
+"LSO(Lone Star Overnight)",
+"LSO(Lone Star Overnight)",
+"https://www.lso.com/"
+],
+[
+"Mailalliance",
+"Mailalliance",
+"https://www.mailalliance.net/"
+],
+[
+"Mainfreight",
+"Mainfreight",
+"https://www.mainfreight.com/track/"
+],
+[
+"Matkahuolto",
+"Matkahuolto",
+"https://www.matkahuolto.fi/"
+],
+[
+"Mazet",
+"Mazet",
+"https://www.mazet.com/"
+],
+[
+"Meyer Distribution",
+"Meyer Distribution",
+"https://www.meyerdistributing.com/"
+],
+[
+"Meyer-Jumbo",
+"Meyer-Jumbo",
+"https://www.meyer-jumbo.de/"
+],
+[
+"mgoship",
+"海豚日本仓",
+"https://www.mgoship.com/"
+],
+[
+"Mingyu Logistics",
+"铭宇国际物流",
+"https://www.miyu56.com/"
+],
+[
+"MNG Kargo",
+"MNG Kargo",
+"https://www.mngkargo.com.tr/"
+],
+[
+"Mondial Relay",
+"Mondial Relay",
+"https://www.mondialrelay.fr/"
+],
+[
+"Morning Global",
+"Morning Global",
+"https://www.morninglobal.com/"
+],
+[
+"MRL Global",
+"MRL Global",
+"https://www.mrlglobal.com/"
+],
+[
+"MRW",
+"MRW",
+"https://www.mrw.es/"
+],
+[
+"MSS",
+"MSS",
+"https://www.mss1688.com/"
+],
+[
+"MTD",
+"MTD",
+"https://www.mtd.se/"
+],
+[
+"Mudita",
+"Mudita",
+"https://www.muditacargo.com/"
+],
+[
+"M&P Courier",
+"M&P Courier",
+"https://www.mulphilog.com/"
+],
+[
+"Myanmar Post",
+"Myanmar Post",
+"https://www.myanmarpost.com.mm/"
+],
+[
+"DPD (AT)",
+"DPD (AT)",
+"https://www.mydpd.at/"
+],
+[
+"LaBaih",
+"LaBaih",
+"https://www.mylabaih.com/"
+],
+[
+"Myloop",
+"速锐",
+"https://www.myloop.plus/"
+],
+[
+"Shopline Logistics",
+"商链物流",
+"https://www.myoneship.cn/"
+],
+[
+"Nacex",
+"Nacex",
+"https://www.nacex.com/"
+],
+[
+"Naqel",
+"Naqel",
+"https://www.naqelexpress.com/"
+],
+[
+"Nationex",
+"Nationex",
+"https://www.nationex.com/"
+],
+[
+"Nationwide Express",
+"Nationwide Express",
+"https://www.nationwide2u.com/"
+],
+[
+"Newgistics",
+"Newgistics",
+"https://www.newgistics.com/"
+],
+[
+"Newhandle",
+"新航道",
+"https://www.newhandle.cn/"
+],
+[
+"Nexive",
+"Nexive",
+"https://www.nexive.it/"
+],
+[
+"Ninja Van (International Tracking)",
+"Ninja Van (International Tracking)",
+"https://www.ninjavan.co/en-sg/tracking"
+],
+[
+"Ninjavan (ID)",
+"Ninjavan (ID)",
+"https://www.ninjaxpress.co/id-id"
+],
+[
+"Nigerian Post",
+"Nigerian Post",
+"https://www.nipost.gov.ng/"
+],
+[
+"Nippon Express (日本通運)",
+"日本通运",
+"https://www.nittsu.co.jp/"
+],
+[
+"Nobordist",
+"Nobordist",
+"https://www.nobordist.com/"
+],
+[
+"Noel",
+"诺艾尔",
+"https://www.noelworld.com/"
+],
+[
+"nox NachtExpress",
+"nox NachtExpress",
+"https://www.nox-nachtexpress.de/"
+],
+[
+"New Zealand Couriers",
+"New Zealand Couriers",
+"https://www.nzcouriers.co.nz/"
+],
+[
+"NZT LOGISTICS CORP",
+"家家通",
+"https://www.nztexpress.com/"
+],
+[
+"OCS Worldwide",
+"OCS Worldwide",
+"https://www.ocsworldwide.co.uk/"
+],
+[
+"NBT",
+"南北通",
+"https://www.ofo56.com/"
+],
+[
+"Omniva",
+"Omniva",
+"https://www.omniva.ee/"
+],
+[
+"OnTrac",
+"OnTrac",
+"https://www.ontrac.com/"
+],
+[
+"ORLEN Paczka",
+"ORLEN Paczka",
+"https://www.orlenpaczka.pl/"
+],
+[
+"OSM Worldwide",
+"OSM Worldwide",
+"https://www.osmworldwide.com/"
+],
+[
+"Packeta",
+"Packeta",
+"https://www.packeta.com/"
+],
+[
+"Packlink",
+"Packlink",
+"https://www.packlink.es/"
+],
+[
+"PACK & SEND",
+"PACK & SEND",
+"https://www.packsend.com.au/"
+],
+[
+"Pall-Ex (UK)",
+"Pall-Ex (UK)",
+"https://www.pallex.co.uk/"
+],
+[
+"Paquetexpress",
+"Paquetexpress",
+"https://www.paquetexpress.com.mx/"
+],
+[
+"Parcel2GO",
+"Parcel2GO",
+"https://www.parcel2go.com/"
+],
+[
+"Parcelhub",
+"Parcelhub",
+"https://www.parcelhub.co.uk/"
+],
+[
+"PARCLL",
+"PARCLL",
+"https://www.parcll.com/"
+],
+[
+"Pass the Parcel",
+"Pass the Parcel",
+"https://www.passtheparcel.co.nz/"
+],
+[
+"Penguin",
+"Penguin",
+"https://www.penguinbox.cz/"
+],
+[
+"Philippine Post",
+"Philippine Post",
+"https://www.phlpost.gov.ph/"
+],
+[
+"Pick Pack Pont",
+"Pick Pack Pont",
+"https://www.pickpackpont.hu/"
+],
+[
+"Pickrr",
+"Pickrr",
+"https://www.pickrr.com/"
+],
+[
+"Pilot Freight Services",
+"Pilot Freight Services",
+"https://www.pilotdelivers.com/"
+],
+[
+"Pitney Bowes",
+"Pitney Bowes",
+"https://www.pitneybowes.com/"
+],
+[
+"Pocztex",
+"Pocztex",
+"https://www.pocztex.pl/"
+],
+[
+"Pony Express",
+"Pony Express",
+"https://www.ponyexpress.ru/"
+],
+[
+"Pos Indonesia",
+"Pos Indonesia",
+"https://www.posindonesia.co.id/"
+],
+[
+"Swiss Post",
+"Swiss Post",
+"https://www.post.ch/"
+],
+[
+"Macedonia Post",
+"Macedonia Post",
+"https://www.posta.com.mk/"
+],
+[
+"Post Haste",
+"Post Haste",
+"https://www.posthaste.co.nz/"
+],
+[
+"PostNet",
+"PostNet",
+"https://www.postnet.co.za/"
+],
+[
+"PostNL",
+"PostNL",
+"https://www.postnl.nl/"
+],
+[
+"PostNord (FI)",
+"PostNord (FI)",
+"https://www.postnord.fi/"
+],
+[
+"PostNord (NO)",
+"PostNord (NO)",
+"https://www.postnord.no/"
+],
+[
+"South Africa Post",
+"South Africa Post",
+"https://www.postoffice.co.za/"
+],
+[
+"PPL CZ",
+"PPL CZ",
+"https://www.ppl.cz/"
+],
+[
+"Prime Express Logistics",
+"Prime Express Logistics",
+"https://www.primeexpresslogistics.com/"
+],
+[
+"Pullman Cargo",
+"Pullman Cargo",
+"https://www.pullmango.cl/"
+],
+[
+"Purolator",
+"Purolator",
+"https://www.purolator.com/"
+],
+[
+"QLN",
+"千里鸟",
+"https://www.qianliniao.com/"
+],
+[
+"Kylin Express",
+"麒麟物流",
+"https://www.qlinyun.com/"
+],
+[
+"Qualitypost",
+"Qualitypost",
+"https://www.qualitypost.com.mx/"
+],
+[
+"Quantium Solutions",
+"冠庭国际物流",
+"https://www.quantiumsolutions.com/"
+],
+[
+"Raben Group",
+"Raben Group",
+"https://www.raben-group.com/"
+],
+[
+"RAF",
+"RAF",
+"https://www.raf.ph/"
+],
+[
+"RAM",
+"RAM",
+"https://www.ram.co.za/"
+],
+[
+"Redbox MV",
+"Redbox MV",
+"https://www.redbox.mv/"
+],
+[
+"RedC",
+"RedC",
+"https://www.redchains.cc/"
+],
+[
+"Redpack",
+"Redpack",
+"https://www.redpack.com.mx/"
+],
+[
+"RelaisColis",
+"RelaisColis",
+"https://www.relaiscolis.com/"
+],
+[
+"Relex",
+"Relex",
+"https://www.relex.ie/"
+],
+[
+"REX Kiriman Express",
+"REX Kiriman Express",
+"https://www.rex.co.id/"
+],
+[
+"Rivigo",
+"Rivigo",
+"https://www.rivigo.com/"
+],
+[
+"Rivo",
+"Rivo",
+"https://www.rivolution.com/"
+],
+[
+"R+L Carriers",
+"R+L Carriers",
+"https://www.rlcarriers.com/"
+],
+[
+"RPX Online",
+"RPX Online",
+"https://www.rpxonline.com/"
+],
+[
+"RRS Logistics",
+"日日顺物流",
+"https://www.rrswl.com/"
+],
+[
+"RTT",
+"RTT",
+"https://www.rtt.co.za/"
+],
+[
+"Ryder",
+"Ryder",
+"https://www.ryder.com/"
+],
+[
+"SAEE",
+"SAEE",
+"https://www.saee.sa/en/"
+],
+[
+"Saferbo",
+"Saferbo",
+"https://www.saferbo.com/"
+],
+[
+"SAIA",
+"SAIA",
+"https://www.saia.com/"
+],
+[
+"Sana",
+"Sana",
+"https://www.sanaship.com/"
+],
+[
+"SAP EXPRESS",
+"SAP EXPRESS",
+"https://www.sap-express.id/"
+],
+[
+"SHIBIDA",
+"时必达",
+"https://www.sbdkuajing.com/"
+],
+[
+"ScaleOrder",
+"北斗互联",
+"https://www.scaleorder.com/"
+],
+[
+"SCM",
+"SCM",
+"https://www.scmpaqueteria.mx/"
+],
+[
+"SDH",
+"闪电猴",
+"https://www.sdh-scm.com/"
+],
+[
+"SeaRates",
+"SeaRates",
+"https://www.searates.com/"
+],
+[
+"Southeastern Freight Lines",
+"Southeastern Freight Lines",
+"https://www.sefl.com/"
+],
+[
+"SEKO Logistics",
+"SEKO Logistics",
+"https://www.sekologistics.com"
+],
+[
+"Sending",
+"Sending",
+"https://www.sending.es/"
+],
+[
+"SendIt",
+"SendIt",
+"https://www.sendit.asia/"
+],
+[
+"Sendle",
+"Sendle",
+"https://www.sendle.com/"
+],
+[
+"servientrega",
+"servientrega",
+"https://www.servientrega.com/"
+],
+[
+"Seur",
+"Seur",
+"https://www.seur.com/"
+],
+[
+"SF Express(CN)",
+"顺丰速运(CN)",
+"https://www.sf-express.com/"
+],
+[
+"SHE EXPRESS",
+"六匹马",
+"https://www.sheexpress.com/"
+],
+[
+"ShipGlobal US",
+"ShipGlobal US",
+"https://www.shipglobal.us/"
+],
+[
+"Mercury",
+"Mercury",
+"https://www.shipmercury.com/"
+],
+[
+"Shippit",
+"Shippit",
+"https://www.shippit.com/"
+],
+[
+"Shiprocket",
+"Shiprocket",
+"https://www.shiprocket.in/"
+],
+[
+"Shree Maruti Courier",
+"Shree Maruti Courier",
+"https://www.shreemaruticourier.com/"
+],
+[
+"CTECZ",
+"盛汇通国际物流",
+"https://www.sht-log.com/"
+],
+[
+"UstEx",
+"UstEx",
+"https://www.shysbj.com/"
+],
+[
+"SiCepat",
+"SiCepat",
+"https://www.sicepat.com/"
+],
+[
+"Sinoair",
+"外运发展",
+"https://www.sinoex.com.cn/"
+],
+[
+"Skroutz Last Mile",
+"Skroutz Last Mile",
+"https://www.skroutzlastmile.gr/"
+],
+[
+"Skynet (MY)",
+"Skynet (MY)",
+"https://www.skynet.com.my/"
+],
+[
+"SkyPostal",
+"SkyPostal",
+"https://www.skypostal.com/"
+],
+[
+"SPX",
+"SPX",
+"https://www.speedx.io/"
+],
+[
+"Speedy (DPD)",
+"Speedy (DPD)",
+"https://www.speedy.bg/en/"
+],
+[
+"Spring GDS",
+"Spring GDS",
+"https://www.spring-gds.com/"
+],
+[
+"Sprinter",
+"Sprinter",
+"https://www.sprinter.hu/"
+],
+[
+"Slovak Parcel Service",
+"Slovak Parcel Service",
+"https://www.sps-sro.sk/"
+],
+[
+"Shangtong logistics",
+"尚通国际物流",
+"https://www.st8887.com/"
+],
+[
+"Starex Logistic",
+"Starex Logistic",
+"https://www.starexlogistic.com/"
+],
+[
+"Starken",
+"Starken",
+"https://www.starken.cl/"
+],
+[
+"STONE3PL",
+"STONE3PL",
+"https://www.stone3pl.com/"
+],
+[
+"Superbuy",
+"Superbuy",
+"https://www.superbuy.com/"
+],
+[
+"SuperTon",
+"速宝通",
+"https://www.super-ton.com/"
+],
+[
+"ST International Express",
+"速通国际快运",
+"https://www.sutongst.com/"
+],
+[
+"Swiship (CA)",
+"Swiship (CA)",
+"https://www.swiship.ca/"
+],
+[
+"Swiship (UK)",
+"Swiship (UK)",
+"https://www.swiship.co.uk/track/"
+],
+[
+"Swiship (AU)",
+"Swiship (AU)",
+"https://www.swiship.com.au/track/"
+],
+[
+"Swiship",
+"Swiship",
+"https://www.swiship.com/"
+],
+[
+"Swiship (DE)",
+"Swiship (DE)",
+"https://www.swiship.de/"
+],
+[
+"Swiship (ES)",
+"Swiship (ES)",
+"https://www.swiship.es/"
+],
+[
+"Swiship (FR)",
+"Swiship (FR)",
+"https://www.swiship.fr/"
+],
+[
+"Swiship (JP)",
+"Swiship (JP)",
+"https://www.swiship.jp/track/"
+],
+[
+"SXJD",
+"顺心捷达",
+"https://www.sxjdfreight.com/"
+],
+[
+"Szendex",
+"Szendex",
+"https://www.szendex.com/"
+],
+[
+"QYSC",
+"QYSC",
+"https://www.szquanyikj.com/"
+],
+[
+"TopYou",
+"通邮集团",
+"https://www.szty56.com/"
+],
+[
+"Geniki Taxydromiki",
+"Geniki Taxydromiki",
+"https://www.taxydromiki.com/en/"
+],
+[
+"TCS",
+"TCS",
+"https://www.tcsexpress.com/"
+],
+[
+"Team Worldwide",
+"Team Worldwide",
+"https://www.teamww.com/"
+],
+[
+"Teiker",
+"Teiker",
+"https://www.teiker.mx/"
+],
+[
+"TForce Final Mile",
+"TForce Final Mile",
+"https://www.tforcefinalmile.com/"
+],
+[
+"Thailand Post",
+"Thailand Post",
+"https://www.thailandpost.co.th/"
+],
+[
+"TP Logistics",
+"TP Logistics",
+"https://www.thaiparcels.com/"
+],
+[
+"The Courier Guy",
+"The Courier Guy",
+"https://www.thecourierguy.co.za/"
+],
+[
+"TIKI",
+"TIKI",
+"https://www.tiki.id/"
+],
+[
+"TIPSA",
+"TIPSA",
+"https://www.tip-sa.com/"
+],
+[
+"TM Cargo",
+"TM Cargo",
+"https://www.tmcargo.net/"
+],
+[
+"TNT (IT)",
+"TNT (IT)",
+"https://www.tnt.it/"
+],
+[
+"TNT (AU)",
+"TNT (AU)",
+"https://www.tntexpress.com.au/"
+],
+[
+"Kurir Rekomendasi (Tokopedia)",
+"Kurir Rekomendasi (Tokopedia)",
+"https://www.tokopedia.com/kurir-rekomendasi"
+],
+[
+"Topest",
+"深圳韬博",
+"https://www.topestexpress.com/"
+],
+[
+"Professional Couriers",
+"Professional Couriers",
+"https://www.tpcindia.com/"
+],
+[
+"天胜国际(TSL)",
+"天胜国际",
+"https://www.tsl-logistics.tw/"
+],
+[
+"TT Express",
+"天天快递",
+"https://www.ttkdex.com/"
+],
+[
+"Tuffnells",
+"Tuffnells",
+"https://www.tuffnells.co.uk/"
+],
+[
+"TWS Express Courier",
+"TWS Express Courier",
+"https://www.twsexpresscourier.it/"
+],
+[
+"Uafrica",
+"Uafrica",
+"https://www.uafrica.com/"
+],
+[
+"UK Mail",
+"UK Mail",
+"https://www.ukmail.com/"
+],
+[
+"Юнитрейд (Unitrade)",
+"Юнитрейд (Unitrade)",
+"https://www.unitrade.su/"
+],
+[
+"UPS Mail Innovations",
+"UPS Mail Innovations",
+"https://www.upsmailinnovations.com/"
+],
+[
+"UrbanFox",
+"UrbanFox",
+"https://www.urbanfox.asia/"
+],
+[
+"Urvaam",
+"Urvaam",
+"https://www.urvaam.es/"
+],
+[
+"Valley TMS",
+"Valley TMS",
+"https://www.valleytms.com/"
+],
+[
+"Vamaship",
+"Vamaship",
+"https://www.vamaship.com/"
+],
+[
+"Vasp Expresso",
+"Vasp Expresso",
+"https://www.vaspexpresso.pt/"
+],
+[
+"VerykShip",
+"唯客物流",
+"https://www.verykship.com/"
+],
+[
+"WE|DO",
+"WE|DO",
+"https://www.wedo.cz/"
+],
+[
+"WEDO",
+"运德",
+"https://www.wedoexpress.com/"
+],
+[
+"WWE",
+"WWE",
+"https://www.weworldexpress.com/"
+],
+[
+"WIA Fulfill",
+"维亚智通",
+"https://www.wia-sourcing.com/"
+],
+[
+"Wing",
+"Wing",
+"https://www.wing.ae/"
+],
+[
+"Wishpost",
+"Wish邮",
+"https://www.wishpost.cn/"
+],
+[
+"worldwide logistics",
+"环世物流集团",
+"https://www.worldwide-logistics.cn/"
+],
+[
+"WST",
+"万顺通",
+"https://www.wst.group/"
+],
+[
+"Weitu Technology Logistics",
+"维途科技物流",
+"https://www.wtkjwl.com/"
+],
+[
+"XDP EXPRESS",
+"XDP EXPRESS",
+"https://www.xdp.co.uk/express/"
+],
+[
+"XingTongGlobal",
+"星通集运",
+"https://www.xingtongjiyun.com/"
+],
+[
+"XPO Logistics",
+"XPO Logistics",
+"https://www.xpo.com/"
+],
+[
+"YYT",
+"易邮通",
+"https://www.ydmex.com/"
+],
+[
+"YF Logistics",
+"YF Logistics",
+"https://www.yflogisticsllc.com/"
+],
+[
+"YiMiDiDa",
+"壹米滴答",
+"https://www.yimidida.com/"
+],
+[
+"FF Express",
+"一言",
+"https://www.yiyanjc.com/"
+],
+[
+"Yodel",
+"Yodel",
+"https://www.yodel.net.cn/"
+],
+[
+"YUNANT",
+"云蚁",
+"https://www.yunant56.com/"
+],
+[
+"YunExpress",
+"云途物流",
+"https://www.yunexpress.cn/"
+],
+[
+"YunS",
+"远尚物流",
+"https://www.yunsexpress.com/"
+],
+[
+"YUNWUJIE",
+"运无界",
+"https://www.yunwuj.com/"
+],
+[
+"Yurtici Kargo",
+"Yurtici Kargo",
+"https://www.yurticikargo.com/"
+],
+[
+"Yusen Logistics",
+"Yusen Logistics",
+"https://www.yusen-logistics.com/"
+],
+[
+"Yuanzk",
+"源之康物流",
+"https://www.yzk56.com"
+],
+[
+"Zasilkovna(Zásilkovna)",
+"Zasilkovna(Zásilkovna)",
+"https://www.zasilkovna.cz/"
+],
+[
+"ZDA",
+"中达国际",
+"https://www.zda.com/"
+],
+[
+"Zeleris",
+"Zeleris",
+"https://www.zeleris.com/"
+],
+[
+"ZLC",
+"以星物流",
+"https://www.zim-logistics.com.cn/"
+],
+[
+"ZhongShu Supply Chain",
+"忠恕供应链",
+"https://www.zs-sci.com/"
+],
+[
+"ZTO Express",
+"中通快递",
+"https://www.zto.com"
+],
+[
+"ZTO International",
+"中通国际",
+"https://www.ztoglobal.com/"
+],
+[
+"ZTWL",
+"中塔物流",
+"https://www.ztwlexpress.com/"
+],
+[
+"OBC Logistics",
+"OBC Logistics",
+"https://www.zuexpress.cn/"
+],
+[
+"ZYQQ",
+"转运全球",
+"https://www.zyqq.cc/"
+],
+[
+"yaohongguoji",
+"耀鸿国际",
+"https://yaohongguoji.com/"
+],
+[
+"YRC Freight",
+"YRC Freight",
+"https://yrc.com/"
+],
+[
+"Zajil Express",
+"Zajil Express",
+"https://zajil-express.com/"
+],
+[
+"Zinc",
+"Zinc",
+"https://zinc.io/"
+],
+[
+"CK internation",
+"希凯国际",
+"main.expressclearport.top"
+]
+]
+},
+"交易类型":{
+"state":"hidden",
+"rows":[
+[
+"交易类型"
+],
+[
+"goods"
+]
+]
+}
+},
+"extracted_at":"2026-10-23T05:01:24Z"
+}

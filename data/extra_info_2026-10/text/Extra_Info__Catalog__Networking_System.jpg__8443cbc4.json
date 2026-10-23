@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Catalog__Networking_System.jpg__8443cbc4",
+"path":"Extra_Info/Catalog/Networking System.jpg",
+"name":"Networking System.jpg",
+"ext":".jpg",
+"bytes":109581,
+"sha256":"8443cbc4fd9708fba28b4b78fa744f6c6ce4b75b74cac278812d704e5075aeb3",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":900,
+"height":500,
+"mode":"RGB",
+"thumb_bytes":15275
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:01:33Z",
+"thumb":"thumbs/Extra_Info__Catalog__Networking_System.jpg__8443cbc4.jpg"
+}

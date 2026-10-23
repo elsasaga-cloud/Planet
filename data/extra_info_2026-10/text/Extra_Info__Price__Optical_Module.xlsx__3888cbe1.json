@@ -1,0 +1,264 @@
+{
+"id":"Extra_Info__Price__Optical_Module.xlsx__3888cbe1",
+"path":"Extra_Info/Price/Optical Module.xlsx",
+"name":"Optical Module.xlsx",
+"ext":".xlsx",
+"bytes":3706711,
+"sha256":"3888cbe16a6e5480f4ad136a9a49399e9a720be8a622e64dc713537bca95dd5e",
+"source":"Extra_Info.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"Saga Telecom"
+],
+"embedded_images":10,
+"rows_total":38
+},
+"warnings":[],
+"chars":3148,
+"text":"--- Sheet: Saga Telecom ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob/Whatsapp/Wechat: 86 15237149683                      www.sagatelecom.com.cn                     Email: s.sagatelecom@gmail.com\nName Rules\nST: Saga Telecom\nI: Industrial Grade\nM: Megabit\nG: Gigabit\nDG: 2.5 Gigabit\nXG: 10 Gigabit\nSD=Singlemode Dual port\nSS=Singlemode Single port\nMD=Multimode Dual Port\nT=Copper port\n0.03/0.1/0.5/3/10/20/40=Distance\nT/R=Transmitter/Receiver\nDefault is LC connector, SFP package, otherwise it will be specified(an example is XFP connector)\nCommercial grade(STC series) is also available.\nOptical Module\nModel\tSpecification\t\t\t\tPrice\tPicture\nSTI-M0.1-T\t10/100Mbps, RJ45 connector, 100-meter, with DDM\t\t\t\t8\nSTI-G0.1-T\t10/100/1000Mbps, RJ45 connector, 100-meter, with DDM\t\t\t\t9\nSTI-DG0.1-T\t10/100/1000/2500Mbps, RJ45 connector, 100-meter, with DDM\t\t\t\t12\nSTI-XG0.03-T\t10Gb/s, RJ45 connector, 30-meter, with DDM\t\t\t\t30\nSTI-M20-SS-SCTR\t10/100Mbps, SC connector, 1310/1500nm, 20KM, Singlemode single fiber, TX/RX, with DDM\t\t\t\t11\nSTI-G20-SS-SCTR\t10/100/1000Mbps, SC connector, 1310/1500nm, 20KM, Singlemode single fiber, TX/RX, with DDM\t\t\t\t13\nSTI-M0.5-MD\t10/100Mbps, LC connector, 850nm, 0.5KM, Multimode dual fiber, with DDM\t\t\t\t8\nSTI-M2-MD\t10/100Mbps, LC connector, 1310nm, 2KM, Multimode dual fiber, with DDM\t\t\t\t8\nSTI-M20-SD\t10/100Mbps, LC connector, 1310nm, 20KM, Singlemode dual fiber, with DDM\t\t\t\t10\nSTI-M20-SSTR\t10/100Mbps, LC connector, 1310/1500nm, 20KM, Singlemode single fiber, TX/RX, with DDM\t\t\t\t18\nSTI-G0.5-MD\t10/100/1000Mbps, LC connector, 850nm, 0.5KM, Multimode dual fiber, with DDM\t\t\t\t9\nSTI-G2-MD\t10/100/1000Mbps, LC connector, 1310nm, 2KM, Multimode dual fiber, with DDM\t\t\t\t9\nSTI-G20-SD\t10/100/1000Mbps, LC connector, 1310nm, 20KM, Singlemode dual fiber, with DDM\t\t\t\t11\nSTI-G3-SSTR\t10/100/1000Mbps, LC connector, 1310/1550nm, 3KM, Singlemode single fiber, TX/RX, with DDM\t\t\t\t18\nSTI-G20-SSTR\t10/100/1000Mbps, LC connector, 1310/1550nm, 20KM, Singlemode single fiber, TX/RX, with DDM\t\t\t\t20\nSTI-XG0.3-MD\t10Gb/s, LC connector, 850nm, 30-meter, Multimode dual fiber, with DDM\t\t\t\t11\nSTI-XG2-MD\t10Gb/s, LC connector, 1310nm, 2KM, Multimode dual fiber, with DDM\t\t\t\t15\nSTI-XG10-SD\t10Gb/s, LC connector, 1310nm, 10KM, Singlemode dual fiber, with DDM\t\t\t\t16\nSTI-XG20-SSTR\t10Gb/s, LC connector, 1270/1330nm, 20KM, Singlemode single fiber, with DDM\t\t\t\t30\nSTI-XG0.3-MD-XFP\t10Gb/s, XFP connector, 850nm, 30-meter, Multimode dual fiber, with DDM\t\t\t\t16\nSTI-XG2-MD-XFP\t10Gb/s, XFP connector, 1310nm, 2KM, Multimode dual fiber, with DDM\t\t\t\t16\nSTI-XG10-SD-XFP\t10Gb/s, XFP connector, 1310nm, 10KM, Singlemode dual fiber, with DDM\t\t\t\t36\nSTI-XG20-SSTR-XFP\t10Gb/s, XFP connector, 1270/1330nm, 20KM, Singlemode single fiber, with DDM\t\t\t\t40\nAbove listed are some frequently asked and purchased models, more variants are available like 40KM distance\nRemarks\n1. Prices are valid for 15 days\n2. Price term: EXW\n3. Warranty period: Three years\n4. Lead time for less than 50pcs: 5~7 working days\n5. Customization is available",
+"sheets":{
+"Saga Telecom":{
+"state":"visible",
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob/Whatsapp/Wechat: 86 15237149683                      www.sagatelecom.com.cn                     Email: s.sagatelecom@gmail.com"
+],
+[
+"Name Rules"
+],
+[
+"ST: Saga Telecom\nI: Industrial Grade\nM: Megabit\nG: Gigabit\nDG: 2.5 Gigabit\nXG: 10 Gigabit\nSD=Singlemode Dual port\nSS=Singlemode Single port\nMD=Multimode Dual Port\nT=Copper port\n0.03/0.1/0.5/3/10/20/40=Distance\nT/R=Transmitter/Receiver\nDefault is LC connector, SFP package, otherwise it will be specified(an example is XFP connector)\nCommercial grade(STC series) is also available."
+],
+[
+"Optical Module"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"",
+"Price",
+"Picture"
+],
+[
+"STI-M0.1-T",
+"10/100Mbps, RJ45 connector, 100-meter, with DDM",
+"",
+"",
+"",
+"8"
+],
+[
+"STI-G0.1-T",
+"10/100/1000Mbps, RJ45 connector, 100-meter, with DDM",
+"",
+"",
+"",
+"9"
+],
+[
+"STI-DG0.1-T",
+"10/100/1000/2500Mbps, RJ45 connector, 100-meter, with DDM",
+"",
+"",
+"",
+"12"
+],
+[
+"STI-XG0.03-T",
+"10Gb/s, RJ45 connector, 30-meter, with DDM",
+"",
+"",
+"",
+"30"
+],
+[
+"STI-M20-SS-SCTR",
+"10/100Mbps, SC connector, 1310/1500nm, 20KM, Singlemode single fiber, TX/RX, with DDM",
+"",
+"",
+"",
+"11"
+],
+[
+"STI-G20-SS-SCTR",
+"10/100/1000Mbps, SC connector, 1310/1500nm, 20KM, Singlemode single fiber, TX/RX, with DDM",
+"",
+"",
+"",
+"13"
+],
+[
+"STI-M0.5-MD",
+"10/100Mbps, LC connector, 850nm, 0.5KM, Multimode dual fiber, with DDM",
+"",
+"",
+"",
+"8"
+],
+[
+"STI-M2-MD",
+"10/100Mbps, LC connector, 1310nm, 2KM, Multimode dual fiber, with DDM",
+"",
+"",
+"",
+"8"
+],
+[
+"STI-M20-SD",
+"10/100Mbps, LC connector, 1310nm, 20KM, Singlemode dual fiber, with DDM",
+"",
+"",
+"",
+"10"
+],
+[
+"STI-M20-SSTR",
+"10/100Mbps, LC connector, 1310/1500nm, 20KM, Singlemode single fiber, TX/RX, with DDM",
+"",
+"",
+"",
+"18"
+],
+[
+"STI-G0.5-MD",
+"10/100/1000Mbps, LC connector, 850nm, 0.5KM, Multimode dual fiber, with DDM",
+"",
+"",
+"",
+"9"
+],
+[
+"STI-G2-MD",
+"10/100/1000Mbps, LC connector, 1310nm, 2KM, Multimode dual fiber, with DDM",
+"",
+"",
+"",
+"9"
+],
+[
+"STI-G20-SD",
+"10/100/1000Mbps, LC connector, 1310nm, 20KM, Singlemode dual fiber, with DDM",
+"",
+"",
+"",
+"11"
+],
+[
+"STI-G3-SSTR",
+"10/100/1000Mbps, LC connector, 1310/1550nm, 3KM, Singlemode single fiber, TX/RX, with DDM",
+"",
+"",
+"",
+"18"
+],
+[
+"STI-G20-SSTR",
+"10/100/1000Mbps, LC connector, 1310/1550nm, 20KM, Singlemode single fiber, TX/RX, with DDM",
+"",
+"",
+"",
+"20"
+],
+[
+"STI-XG0.3-MD",
+"10Gb/s, LC connector, 850nm, 30-meter, Multimode dual fiber, with DDM",
+"",
+"",
+"",
+"11"
+],
+[
+"STI-XG2-MD",
+"10Gb/s, LC connector, 1310nm, 2KM, Multimode dual fiber, with DDM",
+"",
+"",
+"",
+"15"
+],
+[
+"STI-XG10-SD",
+"10Gb/s, LC connector, 1310nm, 10KM, Singlemode dual fiber, with DDM",
+"",
+"",
+"",
+"16"
+],
+[
+"STI-XG20-SSTR",
+"10Gb/s, LC connector, 1270/1330nm, 20KM, Singlemode single fiber, with DDM",
+"",
+"",
+"",
+"30"
+],
+[
+"STI-XG0.3-MD-XFP",
+"10Gb/s, XFP connector, 850nm, 30-meter, Multimode dual fiber, with DDM",
+"",
+"",
+"",
+"16"
+],
+[
+"STI-XG2-MD-XFP",
+"10Gb/s, XFP connector, 1310nm, 2KM, Multimode dual fiber, with DDM",
+"",
+"",
+"",
+"16"
+],
+[
+"STI-XG10-SD-XFP",
+"10Gb/s, XFP connector, 1310nm, 10KM, Singlemode dual fiber, with DDM",
+"",
+"",
+"",
+"36"
+],
+[
+"STI-XG20-SSTR-XFP",
+"10Gb/s, XFP connector, 1270/1330nm, 20KM, Singlemode single fiber, with DDM",
+"",
+"",
+"",
+"40"
+],
+[
+"Above listed are some frequently asked and purchased models, more variants are available like 40KM distance"
+],
+[
+"Remarks"
+],
+[
+"1. Prices are valid for 15 days"
+],
+[
+"2. Price term: EXW"
+],
+[
+"3. Warranty period: Three years"
+],
+[
+"4. Lead time for less than 50pcs: 5~7 working days"
+],
+[
+"5. Customization is available"
+]
+]
+}
+},
+"extracted_at":"2026-10-23T05:05:48Z"
+}

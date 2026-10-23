@@ -1,0 +1,18 @@
+{
+"id":"Extra_Info__Saga_SEO__saga-telecom-20260815v4.html__37fe8799",
+"path":"Extra_Info/Saga SEO/saga-telecom-20260815v4.html",
+"name":"saga-telecom-20260815v4.html",
+"ext":".html",
+"bytes":66284,
+"sha256":"37fe8799427ed7228e451dcc59895503219a14c4af3ca2738447710d1984a9e3",
+"source":"Extra_Info.zip",
+"method":"none",
+"status":"meta",
+"meta":{},
+"warnings":[
+"no extractor for .html"
+],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:01:46Z"
+}

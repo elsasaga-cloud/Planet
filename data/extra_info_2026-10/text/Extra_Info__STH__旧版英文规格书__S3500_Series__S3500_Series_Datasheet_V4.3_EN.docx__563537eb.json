@@ -1,0 +1,1071 @@
+{
+"id":"Extra_Info__STH__旧版英文规格书__S3500_Series__S3500_Series_Datasheet_V4.3_EN.docx__563537eb",
+"path":"Extra_Info/STH/旧版英文规格书/S3500 Series/S3500 Series_Datasheet_V4.3_EN.docx",
+"name":"S3500 Series_Datasheet_V4.3_EN.docx",
+"ext":".docx",
+"bytes":1019993,
+"sha256":"563537ebfc8a7fb7f91a9a19a9516cb6215d3fa21dd0b5cc22f42ece7abfc206",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"刘 驰",
+"last_modified_by":"黄玉芳",
+"created":"2020-10-14T05:41:00+00:00",
+"modified":"2024-03-20T06:30:52+00:00",
+"paragraphs":20,
+"tables":3,
+"embedded_images":8
+},
+"warnings":[],
+"chars":8098,
+"text":"S3500 Series L3 Managed Switches\n- S3508: 8*100/1000M/2.5GBase-T and 4*10G SFP+ Uplink\n- S3508PB-4X: 8*100/1000M/2.5G PoE+( (Max45W/port)) Base-T and 4*10G SFP+ Uplink\n- S3524-6X: 24*100/1000M/2.5G Base-T and 6*10G SFP+ Uplink\n- S3524-6X-D: 24*100/1000M/2.5G Base-T and 6*10G SFP+ Uplink\n- S3524P-6X: 24*100/1000M/2.5G POE++ (Max 90W/port) Base-T and 6*10G SFP+ Uplink\n- S3524PB-6X: 24*100/1000M/2.5G POE++ (Max 90W/port) Base-T and 6*10G SFP+ Uplink\n- S3508 / S3508PB-4X: 1*AC100-240V power supply\n\n- S3524-6X-D: 3*Fixed fan, 2*150W AC power supply\n- S3524-6X: 4*Fixed fan, 1*96W AC power supply\n- S3524P-6X: 5*Fixed fan, 1*450W AC power supply\n- S3524PB-6X: 5*Fixed fan, 1*880W AC power supply\nOVERVIEW\n\nS3524 Series routing switches, high-performance Layer 3 Ethernet switch with 2.5G Multi-Gigabit and 10G SFP+ Ports compact 1U form factor. The HOS delivers robust feature support，Provide Layer 3 network features.\nBuilt from the ground up with the combination of advanced hardware and software, the switch provides a Layer 3 routing solution for next generation SMB / Enterprise / Wi-Fi 6 AX Access/ high speed NAS networks.\nVaried Port Types\nSupport 10M/100M/1G /2.5G /10G ports to meet different network requirements.\nUltra-Long-Distance PoE++\nOptical-electrical synergy, implementing 300 m PoE+ (90W /Port) and 10 Gbit/s access for Wi-Fi 6 Aps and other PDs. Compatible 802.3af/at/bt standard.\nCHARACTERISTICS：\nProduct Name\tS3508\tS3508PB-4X\tS3524-6X\tS3524-6X-D\tS3524P-6X\tS3524PB-6X\nEthernet Ports\t8 *100M/1000M/2.5G BASE-T / 4*10G SFP+\t24 *100M/1000M/2.5G BASE-T / 6*10G SFP+\nPoE Ports\tN/A\t8*AF/AT/BT(45W Max)\tN/A\tN/A\t24*AF/AT/BT(90W Max)\nPower Supply\t1*AC 100-240V\t1*96W AC\t2*150W AC\t1*450W AC\t1*880W AC\nManagement Ports\t1*Console Port (RJ45)\nFans\tN/A\tN/A\t3*Fixed fan\t4*Fixed fan\t5*Fixed fan\t5*Fixed fan\nAirflow\tFront to Rear\nFlash Memory\t128Mb\nDRAM\t4Gb\nSwitching Capacity\t120Gbps\t240Gbps\nMAC address\t32K\nSize (W*D*H)\t320mmx207mmx43.6mm\t440mmx290mmx43.6mm\nWeight(kg)\t3\t3\t4.06\t4.41\t4.55\t4.46\nOperating Temperature\t-10℃ to 50℃\nStorage Temperature\t-40℃ to 70℃\nOperating Humidity\t10% to 90% (Non-condensing)\nStorage Humidity\t0 to 95% (Non-condensing)\nTemperature Alarm\t55℃\nSOFTWARE FEATURES LIST\nType\tFeature\nMAC Address Table\t32K\nJumbo Frame\t12K\nFlow Control\t802.3x (Full-duplex)\tYes\nFlow Control\tBack-Pressure (Half-duplex)\tYes\nSpanning Tree\tIEEE 802.1D (STP)\tYes\nSpanning Tree\tIEEE 802.1w (RSTP)\tYes\nSpanning Tree\tIEEE 802.1s (MSTP)\t64 instances\nSpanning Tree\tAuto Edge Port\tYes\nSpanning Tree\tBPDU Filtering\tYes\nSpanning Tree\tSelf Loop Detection\tYes\nLink Aggregation\tIEEE 802.3ad LACP\tYes\nLink Aggregation\tStatic Trunk\tYes\nLink Aggregation\tMax. Group\t64\nLink Aggregation\tMax. Ports/Group\t8\nLink Aggregation\tTraffic Load Balancing\tYes\nVLAN\nVoice VLAN\tStatic VLAN\t4K\nVoice VLAN\tPort-based\tYes\nVoice VLAN\tIEEE 802.1Q Tagged-based\tYes\nVoice VLAN\tProtocol-based\t8 groups\nVoice VLAN\tMAC-based\t1K (shared)\nVoice VLAN\tOUI Mode (Auto/Manual)\t16 OUI\nSurveillance VLAN\tOUI Mode (Auto/Manual)\t16 OUI\nQinQ (IEEE 802.1ad)\tBasic\tYes\nGARP VLAN Registration Protocol (GVRP)\tYes\nMulticast\nCommon\tMulticast Groups\t1K\nCommon\tImmediate Leave\tYes\nCommon\tStatic/Forbidden Router Port\tYes\nCommon\tStatic/Forbidden Forward Port\tYes\nCommon\tFiltering\t128 profiles\nCommon\tThrottling\tYes\nIGMP Snooping\tIGMP v1/v2\tYes\nIGMP Snooping\tIGMP v3 Basic (BISS)\tYes\nIGMP Snooping\tIGMP v2/v3 Querier\tYes\nMLD Snooping\tMLD v1/v2\tYes\nMulticast VLAN Registration (MVR)\t\tYes\nQoS Features\nPriority Queue\t8 queues/port\nQueue Scheduling\tWRR\tYes\nQueue Scheduling\tWFQ\tYes\nQueue Scheduling\tStrict Pripority\tYes\nQueue Scheduling\tHybrid(WRR+SP or WFQ+SP)\tYes\nClass of Service\tPort-based\tYes\nClass of Service\t802.1p\tYes\nClass of Service\tIP TOS Precedence\tYes\n\tIP DSCP\tYes\nTrusted QoS\t\tYes\nRate Limit\tPort-based (Ingress/Egress)\tYes\nAccess Control List (ACL)\nAccess Rules\t2048\nACL Type\tL2/L3/L4\tYes\nACL Type\tMAC-based\t\nACL Type\tIPv4-based\t512\nACL Type\tIPv6-based\t\nSecurity\nAAA\tAuthentication\tYes\nTACACS+\t8\nRADIUS\t8\nAuthentication Manager\tIEEE 802.1X\tYes\nAuthentication Manager\tMAC Auth\tYes\nAuthentication Manager\tWeb Auth\tYes\nAuthentication Manager\tGuest VLAN\tYes\nAuthentication Manager\tPort-based\tYes\nAuthentication Manager\tHost-based\tYes\nAccount Manager\tLocal Authenticatoin\tYes\nAccount Manager\tMultiple User Account\t8\nAccount Manager\tMulti-Level Security\tYes\nAccount Manager\tPassword Recovery Procedures\tYes\nManagement Access\tManagement VLAN\tYes\nManagement Access\tManagement ACL\t256\nSSL\tSSLv2\tYes\nSSL\tSSLv3\tYes\nSSL\tTLSv1\tYes\nWebUI\tHTTPS\tYes\nCLI\tSSH v1/v2\tYes\nPort Security\tDynamic Lock\t256\nStorm Control\tBroadcast\tYes\nStorm Control\tUnknown Multicast\tYes\nStorm Control\tUnknown Unicast\tYes\nSpanning Tree\tBPDU Guard\tYes\nProtected Port (Port Isolation)\tYes\nBlack Hole MAC\tYes\nCPU Defence Engine\t\tYes\nDoS Prevention\t\tYes\nDHCP Snooping (with Option 82)\t\tYes\nDynamic ARP Inspection\t\tYes\nIP Source Guard\t\t256\nIP/MAC/Port Binding (IMPB)\t\tYes\nIPv6\nIPv6 Host\tAuto Configuration\tYes\nIPv6 Host\tStatic IPv6 Address and Prefix Length\tYes\nIPv6 Host\tStatic IPv6 Default Gateway\tYes\nIPv6 Host\tIPv6 Neighbor Discovery (ND)\tYes\nIPv6 Host\tIPv6 Duplicate Address Detection\tYes\nIPv6 Host\tICMPv6\tYes\nIPv6 Application\tHTTP/HTTPS\tYes\nIPv6 Application\tTELNET\tYes\nIPv6 Application\tSSH\tYes\nIPv6 Application\tSNMP\tYes\nIPv6 Application\tTFTP\tYes\nIPv6 Application\tSyslog\tYes\nIPv6 Application\tPING\tYes\nIPv6 Application\tDHCPv6\tYes\nManagement\nCLI\tConsole\t3 sessions\nCLI\tTelnet (RFC854)\nWebUI\tHTTP\tYes\nWebUI\tv1\tYes\nWebUI\tv2c\tYes\nSNMP\tv3\tYes\nFile Management\tFirmware Upgrade/Backup\tYes\nFile Management\tDual Images\tYes\nFile Management\tConfiguration Download/Backup\tYes\nFile Management\tMultiple Configurations\tYes\nUpload/Download\tTFTP (RFC783)\tYes\nUpload/Download\tHTTP\tYes\nUpload/Download\tUART\tYes\nTime Management\tLocal\tYes\nTime Management\tSNTP\tYes\nPort Management\tFriendly Port Name (Port Description)\tYes\nPort Management\tError Disabled Recovery\tYes\nLine Management\tConsole\tYes\nLine Management\tTelnet (RFC854)\tYes\nLine Management\tSSH v1/v2\tYes\nDHCP\tClient\tYes\nDHCP\tDHCP SNOOPING\tyes\nDHCP\tServer\tyes\nDHCP\tRelay\tyes\nDHCP\toption82\tyes\nDNS\tClient\tYes\nSoftware Reset Button\tYes\nEEE (802.3az)\tYes\nRMON Management\t32 entries / type\nDiscovery\nIEEE 802.1AB Link Layer Discovery Protocol (LLDP)\tYes\nANSI/TIA-1057 LLDP Media Endpoint Discovery (LLDP-MED)\tYes\nDiagnostics\nMirroring\tPort-based (Many to One)\t4 sessions\nSyslog (RFC3164)\tLocal RAM\tYes\nSyslog (RFC3164)\tLocal Flash\tYes\nSyslog (RFC3164)\tRemote Server\t8\nSystem Diagnostics\tCPU Utilization\tYes\nSystem Diagnostics\tMemory Utilization\tYes\nSystem Diagnostics\tPort Utilization\tYes\nPort Diagnostics\tCable Test\tYes\nPort Diagnostics\tFiber Module Status\tYes\nNetwork Diagnostics\tPing Test\tYes\nNetwork Diagnostics\tTraceroute\tYes\nUDLD\tYes\nMIB\nRFC1213 MIBII (System & Interface groups)\tYes\nRFC2819 RMON I (1,2,3, & 9 groups)\tYes\nRFC1215 Generic Traps\tYes\nRFC1493 Bridge\tYes\nRFC2674 Bridge MIB Extensions\tYes\nRFC2737 Entity\tYes\nRFC3635 Ethernet-Like\tYes\nRFC2863 Interface Group\tYes\nSNMP-Community-MIB\tYes\nSNMPv3\tYes\nPOE (S3508P/S3508PB)\tPOE port config\tYes\nPOE (S3508P/S3508PB)\tPOE timer\tYes\nPOE (S3508P/S3508PB)\tLegacy PD detection\tYes\nPOE (S3508P/S3508PB)\tmax power management\tYes\nPOE (S3508P/S3508PB)\tPriority management\tYes\nRIP\tv1/v2\tYes\nOSPF\tv1/v2\tYes\nWeb GUI language\tChinese / English\tYes\nORDER INFORMATION\nProduct Name\tDescription\nS3508-4X\t8 Ports 2.5G L3 Managed Switch, with 8*100/1000M/2.5G Base-T and 4*10G SFP+ Uplink Ports\nS3508PB-4X\t8 Ports 2.5G L3 Managed POE+ Switch, with 8*100/1000M/2.5G Base-T (Max45W/port), and 4*10G SFP+ Uplink Ports, 250W POE Fixed PSU\nS3524-6X\t24 Ports 2.5G L3 Managed Switch, with 24*100/1000M/2.5G Base-T and 6*10G SFP+ Uplink Ports, one built-in PSU\nS3524-6X-D\t24 Ports 2.5G L3 Managed Switch, with 24*100/1000M/2.5G Base-T and 6*10G SFP+ Uplink Ports, Two built-in PSU\nS3524P-6X\t24 Ports 2.5G L3 Managed POE++ Switch, with 24*100/1000M/2.5G Base-T (Max90w/port), and 6*10G SFP+ Uplink Ports, 400W POE Fixed PSU\nS3524PB-6X\t24 Ports 2.5G L3 Managed POE++ Switch, with 24*100/1000M/2.5G Base-T (Max90w/port), and 6*10G SFP+ Uplink Ports, 800W POE Fixed PSU\n[页眉页脚]\nS3500 Series L3 Managed Switches Datasheet",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"S3500 Series L3 Managed Switches"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- S3508: 8*100/1000M/2.5GBase-T and 4*10G SFP+ Uplink"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- S3508PB-4X: 8*100/1000M/2.5G PoE+( (Max45W/port)) Base-T and 4*10G SFP+ Uplink"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- S3524-6X: 24*100/1000M/2.5G Base-T and 6*10G SFP+ Uplink"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- S3524-6X-D: 24*100/1000M/2.5G Base-T and 6*10G SFP+ Uplink"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- S3524P-6X: 24*100/1000M/2.5G POE++ (Max 90W/port) Base-T and 6*10G SFP+ Uplink"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- S3524PB-6X: 24*100/1000M/2.5G POE++ (Max 90W/port) Base-T and 6*10G SFP+ Uplink"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- S3508 / S3508PB-4X: 1*AC100-240V power supply\n\n- S3524-6X-D: 3*Fixed fan, 2*150W AC power supply"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- S3524-6X: 4*Fixed fan, 1*96W AC power supply"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- S3524P-6X: 5*Fixed fan, 1*450W AC power supply"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"- S3524PB-6X: 5*Fixed fan, 1*880W AC power supply"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"OVERVIEW\n\nS3524 Series routing switches, high-performance Layer 3 Ethernet switch with 2.5G Multi-Gigabit and 10G SFP+ Ports compact 1U form factor. The HOS delivers robust feature support，Provide Layer 3 network features."
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Built from the ground up with the combination of advanced hardware and software, the switch provides a Layer 3 routing solution for next generation SMB / Enterprise / Wi-Fi 6 AX Access/ high speed NAS networks."
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Varied Port Types"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Support 10M/100M/1G /2.5G /10G ports to meet different network requirements."
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Ultra-Long-Distance PoE++"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Optical-electrical synergy, implementing 300 m PoE+ (90W /Port) and 10 Gbit/s access for Wi-Fi 6 Aps and other PDs. Compatible 802.3af/at/bt standard."
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"CHARACTERISTICS："
+},
+{
+"t":"table",
+"rows":[
+[
+"Product Name",
+"S3508",
+"S3508PB-4X",
+"S3524-6X",
+"S3524-6X-D",
+"S3524P-6X",
+"S3524PB-6X"
+],
+[
+"Ethernet Ports",
+"8 *100M/1000M/2.5G BASE-T / 4*10G SFP+",
+"24 *100M/1000M/2.5G BASE-T / 6*10G SFP+"
+],
+[
+"PoE Ports",
+"N/A",
+"8*AF/AT/BT(45W Max)",
+"N/A",
+"N/A",
+"24*AF/AT/BT(90W Max)"
+],
+[
+"Power Supply",
+"1*AC 100-240V",
+"1*96W AC",
+"2*150W AC",
+"1*450W AC",
+"1*880W AC"
+],
+[
+"Management Ports",
+"1*Console Port (RJ45)"
+],
+[
+"Fans",
+"N/A",
+"N/A",
+"3*Fixed fan",
+"4*Fixed fan",
+"5*Fixed fan",
+"5*Fixed fan"
+],
+[
+"Airflow",
+"Front to Rear"
+],
+[
+"Flash Memory",
+"128Mb"
+],
+[
+"DRAM",
+"4Gb"
+],
+[
+"Switching Capacity",
+"120Gbps",
+"240Gbps"
+],
+[
+"MAC address",
+"32K"
+],
+[
+"Size (W*D*H)",
+"320mmx207mmx43.6mm",
+"440mmx290mmx43.6mm"
+],
+[
+"Weight(kg)",
+"3",
+"3",
+"4.06",
+"4.41",
+"4.55",
+"4.46"
+],
+[
+"Operating Temperature",
+"-10℃ to 50℃"
+],
+[
+"Storage Temperature",
+"-40℃ to 70℃"
+],
+[
+"Operating Humidity",
+"10% to 90% (Non-condensing)"
+],
+[
+"Storage Humidity",
+"0 to 95% (Non-condensing)"
+],
+[
+"Temperature Alarm",
+"55℃"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"SOFTWARE FEATURES LIST"
+},
+{
+"t":"table",
+"rows":[
+[
+"Type",
+"Feature"
+],
+[
+"MAC Address Table",
+"32K"
+],
+[
+"Jumbo Frame",
+"12K"
+],
+[
+"Flow Control",
+"802.3x (Full-duplex)",
+"Yes"
+],
+[
+"Flow Control",
+"Back-Pressure (Half-duplex)",
+"Yes"
+],
+[
+"Spanning Tree",
+"IEEE 802.1D (STP)",
+"Yes"
+],
+[
+"Spanning Tree",
+"IEEE 802.1w (RSTP)",
+"Yes"
+],
+[
+"Spanning Tree",
+"IEEE 802.1s (MSTP)",
+"64 instances"
+],
+[
+"Spanning Tree",
+"Auto Edge Port",
+"Yes"
+],
+[
+"Spanning Tree",
+"BPDU Filtering",
+"Yes"
+],
+[
+"Spanning Tree",
+"Self Loop Detection",
+"Yes"
+],
+[
+"Link Aggregation",
+"IEEE 802.3ad LACP",
+"Yes"
+],
+[
+"Link Aggregation",
+"Static Trunk",
+"Yes"
+],
+[
+"Link Aggregation",
+"Max. Group",
+"64"
+],
+[
+"Link Aggregation",
+"Max. Ports/Group",
+"8"
+],
+[
+"Link Aggregation",
+"Traffic Load Balancing",
+"Yes"
+],
+[
+"VLAN"
+],
+[
+"Voice VLAN",
+"Static VLAN",
+"4K"
+],
+[
+"Voice VLAN",
+"Port-based",
+"Yes"
+],
+[
+"Voice VLAN",
+"IEEE 802.1Q Tagged-based",
+"Yes"
+],
+[
+"Voice VLAN",
+"Protocol-based",
+"8 groups"
+],
+[
+"Voice VLAN",
+"MAC-based",
+"1K (shared)"
+],
+[
+"Voice VLAN",
+"OUI Mode (Auto/Manual)",
+"16 OUI"
+],
+[
+"Surveillance VLAN",
+"OUI Mode (Auto/Manual)",
+"16 OUI"
+],
+[
+"QinQ (IEEE 802.1ad)",
+"Basic",
+"Yes"
+],
+[
+"GARP VLAN Registration Protocol (GVRP)",
+"Yes"
+],
+[
+"Multicast"
+],
+[
+"Common",
+"Multicast Groups",
+"1K"
+],
+[
+"Common",
+"Immediate Leave",
+"Yes"
+],
+[
+"Common",
+"Static/Forbidden Router Port",
+"Yes"
+],
+[
+"Common",
+"Static/Forbidden Forward Port",
+"Yes"
+],
+[
+"Common",
+"Filtering",
+"128 profiles"
+],
+[
+"Common",
+"Throttling",
+"Yes"
+],
+[
+"IGMP Snooping",
+"IGMP v1/v2",
+"Yes"
+],
+[
+"IGMP Snooping",
+"IGMP v3 Basic (BISS)",
+"Yes"
+],
+[
+"IGMP Snooping",
+"IGMP v2/v3 Querier",
+"Yes"
+],
+[
+"MLD Snooping",
+"MLD v1/v2",
+"Yes"
+],
+[
+"Multicast VLAN Registration (MVR)",
+"",
+"Yes"
+],
+[
+"QoS Features"
+],
+[
+"Priority Queue",
+"8 queues/port"
+],
+[
+"Queue Scheduling",
+"WRR",
+"Yes"
+],
+[
+"Queue Scheduling",
+"WFQ",
+"Yes"
+],
+[
+"Queue Scheduling",
+"Strict Pripority",
+"Yes"
+],
+[
+"Queue Scheduling",
+"Hybrid(WRR+SP or WFQ+SP)",
+"Yes"
+],
+[
+"Class of Service",
+"Port-based",
+"Yes"
+],
+[
+"Class of Service",
+"802.1p",
+"Yes"
+],
+[
+"Class of Service",
+"IP TOS Precedence",
+"Yes"
+],
+[
+"",
+"IP DSCP",
+"Yes"
+],
+[
+"Trusted QoS",
+"",
+"Yes"
+],
+[
+"Rate Limit",
+"Port-based (Ingress/Egress)",
+"Yes"
+],
+[
+"Access Control List (ACL)"
+],
+[
+"Access Rules",
+"2048"
+],
+[
+"ACL Type",
+"L2/L3/L4",
+"Yes"
+],
+[
+"ACL Type",
+"MAC-based",
+""
+],
+[
+"ACL Type",
+"IPv4-based",
+"512"
+],
+[
+"ACL Type",
+"IPv6-based",
+""
+],
+[
+"Security"
+],
+[
+"AAA",
+"Authentication",
+"Yes"
+],
+[
+"TACACS+",
+"8"
+],
+[
+"RADIUS",
+"8"
+],
+[
+"Authentication Manager",
+"IEEE 802.1X",
+"Yes"
+],
+[
+"Authentication Manager",
+"MAC Auth",
+"Yes"
+],
+[
+"Authentication Manager",
+"Web Auth",
+"Yes"
+],
+[
+"Authentication Manager",
+"Guest VLAN",
+"Yes"
+],
+[
+"Authentication Manager",
+"Port-based",
+"Yes"
+],
+[
+"Authentication Manager",
+"Host-based",
+"Yes"
+],
+[
+"Account Manager",
+"Local Authenticatoin",
+"Yes"
+],
+[
+"Account Manager",
+"Multiple User Account",
+"8"
+],
+[
+"Account Manager",
+"Multi-Level Security",
+"Yes"
+],
+[
+"Account Manager",
+"Password Recovery Procedures",
+"Yes"
+],
+[
+"Management Access",
+"Management VLAN",
+"Yes"
+],
+[
+"Management Access",
+"Management ACL",
+"256"
+],
+[
+"SSL",
+"SSLv2",
+"Yes"
+],
+[
+"SSL",
+"SSLv3",
+"Yes"
+],
+[
+"SSL",
+"TLSv1",
+"Yes"
+],
+[
+"WebUI",
+"HTTPS",
+"Yes"
+],
+[
+"CLI",
+"SSH v1/v2",
+"Yes"
+],
+[
+"Port Security",
+"Dynamic Lock",
+"256"
+],
+[
+"Storm Control",
+"Broadcast",
+"Yes"
+],
+[
+"Storm Control",
+"Unknown Multicast",
+"Yes"
+],
+[
+"Storm Control",
+"Unknown Unicast",
+"Yes"
+],
+[
+"Spanning Tree",
+"BPDU Guard",
+"Yes"
+],
+[
+"Protected Port (Port Isolation)",
+"Yes"
+],
+[
+"Black Hole MAC",
+"Yes"
+],
+[
+"CPU Defence Engine",
+"",
+"Yes"
+],
+[
+"DoS Prevention",
+"",
+"Yes"
+],
+[
+"DHCP Snooping (with Option 82)",
+"",
+"Yes"
+],
+[
+"Dynamic ARP Inspection",
+"",
+"Yes"
+],
+[
+"IP Source Guard",
+"",
+"256"
+],
+[
+"IP/MAC/Port Binding (IMPB)",
+"",
+"Yes"
+],
+[
+"IPv6"
+],
+[
+"IPv6 Host",
+"Auto Configuration",
+"Yes"
+],
+[
+"IPv6 Host",
+"Static IPv6 Address and Prefix Length",
+"Yes"
+],
+[
+"IPv6 Host",
+"Static IPv6 Default Gateway",
+"Yes"
+],
+[
+"IPv6 Host",
+"IPv6 Neighbor Discovery (ND)",
+"Yes"
+],
+[
+"IPv6 Host",
+"IPv6 Duplicate Address Detection",
+"Yes"
+],
+[
+"IPv6 Host",
+"ICMPv6",
+"Yes"
+],
+[
+"IPv6 Application",
+"HTTP/HTTPS",
+"Yes"
+],
+[
+"IPv6 Application",
+"TELNET",
+"Yes"
+],
+[
+"IPv6 Application",
+"SSH",
+"Yes"
+],
+[
+"IPv6 Application",
+"SNMP",
+"Yes"
+],
+[
+"IPv6 Application",
+"TFTP",
+"Yes"
+],
+[
+"IPv6 Application",
+"Syslog",
+"Yes"
+],
+[
+"IPv6 Application",
+"PING",
+"Yes"
+],
+[
+"IPv6 Application",
+"DHCPv6",
+"Yes"
+],
+[
+"Management"
+],
+[
+"CLI",
+"Console",
+"3 sessions"
+],
+[
+"CLI",
+"Telnet (RFC854)"
+],
+[
+"WebUI",
+"HTTP",
+"Yes"
+],
+[
+"WebUI",
+"v1",
+"Yes"
+],
+[
+"WebUI",
+"v2c",
+"Yes"
+],
+[
+"SNMP",
+"v3",
+"Yes"
+],
+[
+"File Management",
+"Firmware Upgrade/Backup",
+"Yes"
+],
+[
+"File Management",
+"Dual Images",
+"Yes"
+],
+[
+"File Management",
+"Configuration Download/Backup",
+"Yes"
+],
+[
+"File Management",
+"Multiple Configurations",
+"Yes"
+],
+[
+"Upload/Download",
+"TFTP (RFC783)",
+"Yes"
+],
+[
+"Upload/Download",
+"HTTP",
+"Yes"
+],
+[
+"Upload/Download",
+"UART",
+"Yes"
+],
+[
+"Time Management",
+"Local",
+"Yes"
+],
+[
+"Time Management",
+"SNTP",
+"Yes"
+],
+[
+"Port Management",
+"Friendly Port Name (Port Description)",
+"Yes"
+],
+[
+"Port Management",
+"Error Disabled Recovery",
+"Yes"
+],
+[
+"Line Management",
+"Console",
+"Yes"
+],
+[
+"Line Management",
+"Telnet (RFC854)",
+"Yes"
+],
+[
+"Line Management",
+"SSH v1/v2",
+"Yes"
+],
+[
+"DHCP",
+"Client",
+"Yes"
+],
+[
+"DHCP",
+"DHCP SNOOPING",
+"yes"
+],
+[
+"DHCP",
+"Server",
+"yes"
+],
+[
+"DHCP",
+"Relay",
+"yes"
+],
+[
+"DHCP",
+"option82",
+"yes"
+],
+[
+"DNS",
+"Client",
+"Yes"
+],
+[
+"Software Reset Button",
+"Yes"
+],
+[
+"EEE (802.3az)",
+"Yes"
+],
+[
+"RMON Management",
+"32 entries / type"
+],
+[
+"Discovery"
+],
+[
+"IEEE 802.1AB Link Layer Discovery Protocol (LLDP)",
+"Yes"
+],
+[
+"ANSI/TIA-1057 LLDP Media Endpoint Discovery (LLDP-MED)",
+"Yes"
+],
+[
+"Diagnostics"
+],
+[
+"Mirroring",
+"Port-based (Many to One)",
+"4 sessions"
+],
+[
+"Syslog (RFC3164)",
+"Local RAM",
+"Yes"
+],
+[
+"Syslog (RFC3164)",
+"Local Flash",
+"Yes"
+],
+[
+"Syslog (RFC3164)",
+"Remote Server",
+"8"
+],
+[
+"System Diagnostics",
+"CPU Utilization",
+"Yes"
+],
+[
+"System Diagnostics",
+"Memory Utilization",
+"Yes"
+],
+[
+"System Diagnostics",
+"Port Utilization",
+"Yes"
+],
+[
+"Port Diagnostics",
+"Cable Test",
+"Yes"
+],
+[
+"Port Diagnostics",
+"Fiber Module Status",
+"Yes"
+],
+[
+"Network Diagnostics",
+"Ping Test",
+"Yes"
+],
+[
+"Network Diagnostics",
+"Traceroute",
+"Yes"
+],
+[
+"UDLD",
+"Yes"
+],
+[
+"MIB"
+],
+[
+"RFC1213 MIBII (System & Interface groups)",
+"Yes"
+],
+[
+"RFC2819 RMON I (1,2,3, & 9 groups)",
+"Yes"
+],
+[
+"RFC1215 Generic Traps",
+"Yes"
+],
+[
+"RFC1493 Bridge",
+"Yes"
+],
+[
+"RFC2674 Bridge MIB Extensions",
+"Yes"
+],
+[
+"RFC2737 Entity",
+"Yes"
+],
+[
+"RFC3635 Ethernet-Like",
+"Yes"
+],
+[
+"RFC2863 Interface Group",
+"Yes"
+],
+[
+"SNMP-Community-MIB",
+"Yes"
+],
+[
+"SNMPv3",
+"Yes"
+],
+[
+"POE (S3508P/S3508PB)",
+"POE port config",
+"Yes"
+],
+[
+"POE (S3508P/S3508PB)",
+"POE timer",
+"Yes"
+],
+[
+"POE (S3508P/S3508PB)",
+"Legacy PD detection",
+"Yes"
+],
+[
+"POE (S3508P/S3508PB)",
+"max power management",
+"Yes"
+],
+[
+"POE (S3508P/S3508PB)",
+"Priority management",
+"Yes"
+],
+[
+"RIP",
+"v1/v2",
+"Yes"
+],
+[
+"OSPF",
+"v1/v2",
+"Yes"
+],
+[
+"Web GUI language",
+"Chinese / English",
+"Yes"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"ORDER INFORMATION"
+},
+{
+"t":"table",
+"rows":[
+[
+"Product Name",
+"Description"
+],
+[
+"S3508-4X",
+"8 Ports 2.5G L3 Managed Switch, with 8*100/1000M/2.5G Base-T and 4*10G SFP+ Uplink Ports"
+],
+[
+"S3508PB-4X",
+"8 Ports 2.5G L3 Managed POE+ Switch, with 8*100/1000M/2.5G Base-T (Max45W/port), and 4*10G SFP+ Uplink Ports, 250W POE Fixed PSU"
+],
+[
+"S3524-6X",
+"24 Ports 2.5G L3 Managed Switch, with 24*100/1000M/2.5G Base-T and 6*10G SFP+ Uplink Ports, one built-in PSU"
+],
+[
+"S3524-6X-D",
+"24 Ports 2.5G L3 Managed Switch, with 24*100/1000M/2.5G Base-T and 6*10G SFP+ Uplink Ports, Two built-in PSU"
+],
+[
+"S3524P-6X",
+"24 Ports 2.5G L3 Managed POE++ Switch, with 24*100/1000M/2.5G Base-T (Max90w/port), and 6*10G SFP+ Uplink Ports, 400W POE Fixed PSU"
+],
+[
+"S3524PB-6X",
+"24 Ports 2.5G L3 Managed POE++ Switch, with 24*100/1000M/2.5G Base-T (Max90w/port), and 6*10G SFP+ Uplink Ports, 800W POE Fixed PSU"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:05:41Z"
+}

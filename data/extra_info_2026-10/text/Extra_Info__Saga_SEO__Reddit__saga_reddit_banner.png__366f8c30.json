@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_SEO__Reddit__saga_reddit_banner.png__366f8c30",
+"path":"Extra_Info/Saga SEO/Reddit/saga_reddit_banner.png",
+"name":"saga_reddit_banner.png",
+"ext":".png",
+"bytes":37806,
+"sha256":"366f8c307fa4cc529debd30f1fbc4dfa76d0b726412285c6620e1ab066fdfe3b",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1920,
+"height":384,
+"mode":"RGB",
+"thumb_bytes":3666
+},
+"warnings":[],
+"chars":72,
+"text":"ENGINEERING & SUPPLY-CHAIN-FIRST\nSAGA Managed switching\nfor every layer.",
+"extracted_at":"2026-10-23T05:01:51Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__Reddit__saga_reddit_banner.png__366f8c30.jpg"
+}

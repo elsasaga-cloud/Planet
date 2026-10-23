@@ -1,0 +1,883 @@
+{
+"id":"Extra_Info__STH__XLite__Mounting_Info.pptx__77739ea7",
+"path":"Extra_Info/STH/XLite/Mounting Info.pptx",
+"name":"Mounting Info.pptx",
+"ext":".pptx",
+"bytes":9328763,
+"sha256":"77739ea79f936f9047079ae48d845f59c77bbc8b9cf497228068f07d6c35d4ba",
+"source":"Extra_Info.zip",
+"method":"python-pptx",
+"status":"ok",
+"meta":{
+"slides":7,
+"pictures":49
+},
+"warnings":[],
+"chars":1764,
+"text":"[slide 1]\n1\nTwo-node Installation\n2\nFix screws\n3\nInstall mounting brackets\nTwo-node Installation in 1U Cabinet\n3\n1u  Single-cabinet Installation with 1U\n1\n1\nInstall the rear slide rail\n2\nMounting racks before installation\n1u  Wall-mounted Installation\n2\n1\nWall-mounted Installation\n\n[slide 2]\n1\nTwo-node Installation\n2\nFix screws\n3\nInstall stacking brackets\nTwo-node Installation without Cabinet\n5\n1u  Single-row stacking without cabinets\n4\n1\nInstall stack bracket\n2\nInstall front stack bracket\n\n[slide 3]\nDual Physical backup\n1\nCore switch\n1\nSwitches links for server access in 1U\nAccess switch\nAccess switch\nAccess switch\nCore switch\n2\nDual-homing for access switches in 1U\nDual reduntant power supplies（support RPS）\n3\nRedundant backup cables for the dual power supplies\nAC Power Input\nAC Power Input\n\n[slide 4]\nMLAG Active-active dual-system hot backup\n2\nGateway\nAccess switch\nCore switch\nPC\nActive\nActive\nGateway\nAccess switch\nCore switch\nPC\nActive\nGateway\nAccess switch\nCore switch\nPC\nActive\nActive\n\n[slide 5]\nInnovative to Integrate SDVoE API Server\n\n[slide 6]\nFront Panel\n1\n1\nConsole Port\n2\nMGMT Outband Management Port\n1\n2\n3\n4\n5\n6\n3\n12*10G SFP+\n4\n12*RJ45+ 10G Base-T\n5\n2*100G QSFP28 Uplink\n6\nFront-to-Rear\nIntroduction\nBack Panel\n4\n1\nHot-pluggable Fan module\n2\nRPS Power Reduntant Interface\n3\nCRPS Hot-pluggable Power\n4\nGround\n1\n2\n3\n4\n\n[slide 7]\n9\nGrounding Cable\nConsole Cable\nM4 Screws（16pcs）\nPower Cord\n10\n11\n12\n13\nRPS Power Cord\n14\nStack bracket - Front\n15\nStack bracket - Back\n1\n2\n3\n3\n4\n6\n7\n8\n9\n11\n10\n11\n12\n5\n12\n10\n13\n10\n14\n15\n15\n14\n1\nFront Mounting Bracket—Short\n2\nFront Mounting Bracket—Long\n3\nWall-Mounting Bracket\n4\n5\n6\nRear Mounting Braket-Male\n7\nRear Mounting Braket-Female\nMiddle Mounts-Male\n8\nMiddle Mounts-Female\nCable Tie\nProduct Accessories",
+"slides":[
+{
+"n":1,
+"items":[
+{
+"t":"picture",
+"name":"图片 165"
+},
+{
+"t":"picture",
+"name":"图片 160"
+},
+{
+"t":"picture",
+"name":"图片 155"
+},
+{
+"t":"p",
+"text":"1"
+},
+{
+"t":"p",
+"text":"Two-node Installation"
+},
+{
+"t":"p",
+"text":"2"
+},
+{
+"t":"p",
+"text":"Fix screws"
+},
+{
+"t":"p",
+"text":"3"
+},
+{
+"t":"p",
+"text":"Install mounting brackets"
+},
+{
+"t":"p",
+"text":"Two-node Installation in 1U Cabinet"
+},
+{
+"t":"p",
+"text":"3"
+},
+{
+"t":"p",
+"text":"1u  Single-cabinet Installation with 1U"
+},
+{
+"t":"p",
+"text":"1"
+},
+{
+"t":"p",
+"text":"1"
+},
+{
+"t":"p",
+"text":"Install the rear slide rail"
+},
+{
+"t":"p",
+"text":"2"
+},
+{
+"t":"p",
+"text":"Mounting racks before installation"
+},
+{
+"t":"picture",
+"name":"图片 244"
+},
+{
+"t":"picture",
+"name":"图片 260"
+},
+{
+"t":"picture",
+"name":"图片 257"
+},
+{
+"t":"picture",
+"name":"图片 251"
+},
+{
+"t":"p",
+"text":"1u  Wall-mounted Installation"
+},
+{
+"t":"p",
+"text":"2"
+},
+{
+"t":"p",
+"text":"1"
+},
+{
+"t":"p",
+"text":"Wall-mounted Installation"
+},
+{
+"t":"picture",
+"name":"图片 296"
+}
+],
+"notes":""
+},
+{
+"n":2,
+"items":[
+{
+"t":"picture",
+"name":"图片 165"
+},
+{
+"t":"picture",
+"name":"图片 160"
+},
+{
+"t":"p",
+"text":"1"
+},
+{
+"t":"p",
+"text":"Two-node Installation"
+},
+{
+"t":"p",
+"text":"2"
+},
+{
+"t":"p",
+"text":"Fix screws"
+},
+{
+"t":"p",
+"text":"3"
+},
+{
+"t":"p",
+"text":"Install stacking brackets"
+},
+{
+"t":"p",
+"text":"Two-node Installation without Cabinet"
+},
+{
+"t":"p",
+"text":"5"
+},
+{
+"t":"p",
+"text":"1u  Single-row stacking without cabinets"
+},
+{
+"t":"p",
+"text":"4"
+},
+{
+"t":"p",
+"text":"1"
+},
+{
+"t":"p",
+"text":"Install stack bracket"
+},
+{
+"t":"p",
+"text":"2"
+},
+{
+"t":"p",
+"text":"Install front stack bracket"
+},
+{
+"t":"picture",
+"name":"图片 4"
+},
+{
+"t":"picture",
+"name":"图片 5"
+},
+{
+"t":"picture",
+"name":"图片 6"
+},
+{
+"t":"picture",
+"name":"图片 377"
+},
+{
+"t":"picture",
+"name":"图片 378"
+}
+],
+"notes":""
+},
+{
+"n":3,
+"items":[
+{
+"t":"p",
+"text":"Dual Physical backup"
+},
+{
+"t":"p",
+"text":"1"
+},
+{
+"t":"picture",
+"name":"图片 15"
+},
+{
+"t":"picture",
+"name":"图片 16"
+},
+{
+"t":"picture",
+"name":"图片 17"
+},
+{
+"t":"picture",
+"name":"图片 19"
+},
+{
+"t":"p",
+"text":"Core switch"
+},
+{
+"t":"picture",
+"name":"图片 10"
+},
+{
+"t":"picture",
+"name":"图片 11"
+},
+{
+"t":"picture",
+"name":"图片 12"
+},
+{
+"t":"p",
+"text":"1"
+},
+{
+"t":"p",
+"text":"Switches links for server access in 1U"
+},
+{
+"t":"p",
+"text":"Access switch"
+},
+{
+"t":"p",
+"text":"Access switch"
+},
+{
+"t":"p",
+"text":"Access switch"
+},
+{
+"t":"p",
+"text":"Core switch"
+},
+{
+"t":"p",
+"text":"2"
+},
+{
+"t":"p",
+"text":"Dual-homing for access switches in 1U"
+},
+{
+"t":"p",
+"text":"Dual reduntant power supplies（support RPS）"
+},
+{
+"t":"p",
+"text":"3"
+},
+{
+"t":"picture",
+"name":"图片 70"
+},
+{
+"t":"picture",
+"name":"图片 71"
+},
+{
+"t":"picture",
+"name":"图片 72"
+},
+{
+"t":"picture",
+"name":"图片 109"
+},
+{
+"t":"picture",
+"name":"图片 110"
+},
+{
+"t":"picture",
+"name":"图片 111"
+},
+{
+"t":"p",
+"text":"Redundant backup cables for the dual power supplies"
+},
+{
+"t":"p",
+"text":"AC Power Input"
+},
+{
+"t":"p",
+"text":"AC Power Input"
+}
+],
+"notes":""
+},
+{
+"n":4,
+"items":[
+{
+"t":"p",
+"text":"MLAG Active-active dual-system hot backup"
+},
+{
+"t":"p",
+"text":"2"
+},
+{
+"t":"picture",
+"name":"图片 66"
+},
+{
+"t":"picture",
+"name":"图片 67"
+},
+{
+"t":"picture",
+"name":"图片 73"
+},
+{
+"t":"p",
+"text":"Gateway"
+},
+{
+"t":"p",
+"text":"Access switch"
+},
+{
+"t":"p",
+"text":"Core switch"
+},
+{
+"t":"p",
+"text":"PC"
+},
+{
+"t":"p",
+"text":"Active"
+},
+{
+"t":"p",
+"text":"Active"
+},
+{
+"t":"picture",
+"name":"图片 106"
+},
+{
+"t":"picture",
+"name":"图片 107"
+},
+{
+"t":"picture",
+"name":"图片 108"
+},
+{
+"t":"p",
+"text":"Gateway"
+},
+{
+"t":"p",
+"text":"Access switch"
+},
+{
+"t":"p",
+"text":"Core switch"
+},
+{
+"t":"p",
+"text":"PC"
+},
+{
+"t":"p",
+"text":"Active"
+},
+{
+"t":"picture",
+"name":"图片 127"
+},
+{
+"t":"picture",
+"name":"图片 129"
+},
+{
+"t":"picture",
+"name":"图片 130"
+},
+{
+"t":"picture",
+"name":"图片 131"
+},
+{
+"t":"p",
+"text":"Gateway"
+},
+{
+"t":"p",
+"text":"Access switch"
+},
+{
+"t":"p",
+"text":"Core switch"
+},
+{
+"t":"p",
+"text":"PC"
+},
+{
+"t":"p",
+"text":"Active"
+},
+{
+"t":"picture",
+"name":"图片 146"
+},
+{
+"t":"picture",
+"name":"图片 147"
+},
+{
+"t":"p",
+"text":"Active"
+}
+],
+"notes":""
+},
+{
+"n":5,
+"items":[
+{
+"t":"p",
+"text":"Innovative to Integrate SDVoE API Server"
+},
+{
+"t":"picture",
+"name":"图片 10"
+},
+{
+"t":"picture",
+"name":"图片 50"
+}
+],
+"notes":""
+},
+{
+"n":6,
+"items":[
+{
+"t":"p",
+"text":"Front Panel"
+},
+{
+"t":"p",
+"text":"1"
+},
+{
+"t":"picture",
+"name":"图片 3"
+},
+{
+"t":"p",
+"text":"1"
+},
+{
+"t":"p",
+"text":"Console Port"
+},
+{
+"t":"p",
+"text":"2"
+},
+{
+"t":"p",
+"text":"MGMT Outband Management Port"
+},
+{
+"t":"p",
+"text":"1"
+},
+{
+"t":"p",
+"text":"2"
+},
+{
+"t":"p",
+"text":"3"
+},
+{
+"t":"p",
+"text":"4"
+},
+{
+"t":"p",
+"text":"5"
+},
+{
+"t":"p",
+"text":"6"
+},
+{
+"t":"p",
+"text":"3"
+},
+{
+"t":"p",
+"text":"12*10G SFP+"
+},
+{
+"t":"p",
+"text":"4"
+},
+{
+"t":"p",
+"text":"12*RJ45+ 10G Base-T"
+},
+{
+"t":"p",
+"text":"5"
+},
+{
+"t":"p",
+"text":"2*100G QSFP28 Uplink"
+},
+{
+"t":"p",
+"text":"6"
+},
+{
+"t":"p",
+"text":"Front-to-Rear"
+},
+{
+"t":"p",
+"text":"Introduction"
+},
+{
+"t":"p",
+"text":"Back Panel"
+},
+{
+"t":"p",
+"text":"4"
+},
+{
+"t":"picture",
+"name":"图片 54"
+},
+{
+"t":"p",
+"text":"1"
+},
+{
+"t":"p",
+"text":"Hot-pluggable Fan module"
+},
+{
+"t":"p",
+"text":"2"
+},
+{
+"t":"p",
+"text":"RPS Power Reduntant Interface"
+},
+{
+"t":"p",
+"text":"3"
+},
+{
+"t":"p",
+"text":"CRPS Hot-pluggable Power"
+},
+{
+"t":"p",
+"text":"4"
+},
+{
+"t":"p",
+"text":"Ground"
+},
+{
+"t":"p",
+"text":"1"
+},
+{
+"t":"p",
+"text":"2"
+},
+{
+"t":"p",
+"text":"3"
+},
+{
+"t":"p",
+"text":"4"
+}
+],
+"notes":""
+},
+{
+"n":7,
+"items":[
+{
+"t":"p",
+"text":"9"
+},
+{
+"t":"p",
+"text":"Grounding Cable"
+},
+{
+"t":"p",
+"text":"Console Cable"
+},
+{
+"t":"p",
+"text":"M4 Screws（16pcs）"
+},
+{
+"t":"p",
+"text":"Power Cord"
+},
+{
+"t":"p",
+"text":"10"
+},
+{
+"t":"p",
+"text":"11"
+},
+{
+"t":"p",
+"text":"12"
+},
+{
+"t":"p",
+"text":"13"
+},
+{
+"t":"p",
+"text":"RPS Power Cord"
+},
+{
+"t":"p",
+"text":"14"
+},
+{
+"t":"p",
+"text":"Stack bracket - Front"
+},
+{
+"t":"p",
+"text":"15"
+},
+{
+"t":"p",
+"text":"Stack bracket - Back"
+},
+{
+"t":"picture",
+"name":"图片 42"
+},
+{
+"t":"picture",
+"name":"图片 4"
+},
+{
+"t":"picture",
+"name":"图片 55"
+},
+{
+"t":"p",
+"text":"1"
+},
+{
+"t":"p",
+"text":"2"
+},
+{
+"t":"p",
+"text":"3"
+},
+{
+"t":"p",
+"text":"3"
+},
+{
+"t":"p",
+"text":"4"
+},
+{
+"t":"p",
+"text":"6"
+},
+{
+"t":"p",
+"text":"7"
+},
+{
+"t":"p",
+"text":"8"
+},
+{
+"t":"p",
+"text":"9"
+},
+{
+"t":"p",
+"text":"11"
+},
+{
+"t":"p",
+"text":"10"
+},
+{
+"t":"p",
+"text":"11"
+},
+{
+"t":"p",
+"text":"12"
+},
+{
+"t":"p",
+"text":"5"
+},
+{
+"t":"p",
+"text":"12"
+},
+{
+"t":"p",
+"text":"10"
+},
+{
+"t":"p",
+"text":"13"
+},
+{
+"t":"p",
+"text":"10"
+},
+{
+"t":"p",
+"text":"14"
+},
+{
+"t":"p",
+"text":"15"
+},
+{
+"t":"picture",
+"name":"图片 57"
+},
+{
+"t":"p",
+"text":"15"
+},
+{
+"t":"picture",
+"name":"图片 60"
+},
+{
+"t":"p",
+"text":"14"
+},
+{
+"t":"p",
+"text":"1"
+},
+{
+"t":"p",
+"text":"Front Mounting Bracket—Short"
+},
+{
+"t":"p",
+"text":"2"
+},
+{
+"t":"p",
+"text":"Front Mounting Bracket—Long"
+},
+{
+"t":"p",
+"text":"3"
+},
+{
+"t":"p",
+"text":"Wall-Mounting Bracket"
+},
+{
+"t":"p",
+"text":"4"
+},
+{
+"t":"p",
+"text":"5"
+},
+{
+"t":"p",
+"text":"6"
+},
+{
+"t":"p",
+"text":"Rear Mounting Braket-Male"
+},
+{
+"t":"p",
+"text":"7"
+},
+{
+"t":"p",
+"text":"Rear Mounting Braket-Female"
+},
+{
+"t":"p",
+"text":"Middle Mounts-Male"
+},
+{
+"t":"p",
+"text":"8"
+},
+{
+"t":"p",
+"text":"Middle Mounts-Female"
+},
+{
+"t":"p",
+"text":"Cable Tie"
+},
+{
+"t":"p",
+"text":"Product Accessories"
+}
+],
+"notes":""
+}
+],
+"extracted_at":"2026-10-23T05:03:26Z"
+}

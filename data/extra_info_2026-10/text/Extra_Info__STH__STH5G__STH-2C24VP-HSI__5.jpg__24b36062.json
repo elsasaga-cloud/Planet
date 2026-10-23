@@ -1,0 +1,25 @@
+{
+"id":"Extra_Info__STH__STH5G__STH-2C24VP-HSI__5.jpg__24b36062",
+"path":"Extra_Info/STH/STH5G/STH-2C24VP-HSI/5.jpg",
+"name":"5.jpg",
+"ext":".jpg",
+"bytes":722756,
+"sha256":"24b3606221c32e636fdcad464c9baabc3053a2cb1f64ce00a866d14dcd8452bf",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":3840,
+"height":2160,
+"mode":"RGB",
+"datetime":"2024:08:20 04:13:41",
+"software":"Adobe Photoshop CC 2018 (Windows)",
+"thumb_bytes":4138
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:05:04Z",
+"thumb":"thumbs/Extra_Info__STH__STH5G__STH-2C24VP-HSI__5.jpg__24b36062.jpg"
+}

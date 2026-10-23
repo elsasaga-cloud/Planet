@@ -1,0 +1,25 @@
+{
+"id":"Extra_Info__STH__STH10G__STH-2C24XE-SFI__3.jpg__eac3a324",
+"path":"Extra_Info/STH/STH10G/STH-2C24XE-SFI/3.jpg",
+"name":"3.jpg",
+"ext":".jpg",
+"bytes":941088,
+"sha256":"eac3a324b9bb10d03f520702b843dbd38272aa4b2bc0ad02a8d5c538aa23c402",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":3840,
+"height":2160,
+"mode":"RGB",
+"datetime":"2024:08:22 16:16:56",
+"software":"Adobe Photoshop CC 2018 (Windows)",
+"thumb_bytes":3518
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:04:20Z",
+"thumb":"thumbs/Extra_Info__STH__STH10G__STH-2C24XE-SFI__3.jpg__eac3a324.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_SEO__CN_Site__3-4.png__18553356",
+"path":"Extra_Info/Saga SEO/CN Site/3-4.png",
+"name":"3-4.png",
+"ext":".png",
+"bytes":1492107,
+"sha256":"185533565afbefadc439a62a7d0633ce22b1bef95f28f8cb627bbf1c9e428dc6",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1536,
+"height":1024,
+"mode":"RGB",
+"thumb_bytes":14689
+},
+"warnings":[],
+"chars":892,
+"text":"Saga Telecom\nPoE Devices (740W Total Budget)\n7\n站 i\n: 10G SFP+ Uplinks |\n7] 1\n1 1\nes ©) (iw) | |\n了 (90W Max) 4x 90W PoE++ 1 |\n@ Ports 1-4 (WEEE 802.3b0) 740W 48 | |\nTotal PoE Budget Gigabit PoE Ports PoE++ BT Ports 1G/2.5G/106 |\nPorts 1-4 (90W Max/Port) SFP+ 1\ni\nWi-Fi 6/6E AP 16/2.5G/10G |\n(upto30W) SFP+ 1\nPorts 5-48 44 x PoE/PoE+ |\n(IEEE 802.3af/at) 1G/2.5G/10G I\nPorts 5-48 oe |\npit a 1G/2.5G/10G |\nUp to 15.413 =\nwae 过 SFP+\nL3 Switch /Router |\n| na | i i SSS 1\nSTC-448XGGPM-4BT-740W\n48-Port Gigabit L2+ Managed PoE++ Switch\nwith 4x 10G SFP+ Uplinks\nL2+ Management Features Applications\n[ran Dual AC Power Input (Redundant) AN\n全\nVLAN Qos IGMP. ERPS Ring AC Input 1 AC Input 2 IP Surveillance Campus Wi-Fi ‘Smart Building\nEt 100-240VAC 100-240VAC\not @ Cli greg Oo ®A\nACL Security SNMP / MQTT ‘sFlow | RMON IPv4/lPv6 Power Redundancy Data Center Hotel/ Hospitality Enterprise Network\nRouting",
+"extracted_at":"2026-10-23T05:02:19Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__CN_Site__3-4.png__18553356.jpg"
+}

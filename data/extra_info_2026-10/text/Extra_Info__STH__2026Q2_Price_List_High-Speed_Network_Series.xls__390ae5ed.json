@@ -1,0 +1,139 @@
+{
+"id":"Extra_Info__STH__2026Q2_Price_List_High-Speed_Network_Series.xls__390ae5ed",
+"path":"Extra_Info/STH/2026Q2 Price List_High-Speed Network Series.xls",
+"name":"2026Q2 Price List_High-Speed Network Series.xls",
+"ext":".xls",
+"bytes":50176,
+"sha256":"390ae5ed8b0f0afb0b10610faf7b0d7b41055f62143cf837c5db70a46eb9b5a4",
+"source":"Extra_Info.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Price List"
+],
+"rows_total":32
+},
+"warnings":[],
+"chars":2442,
+"text":"--- Sheet: Price List ---\nSaga Telecom, OEM Factory\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 13048800964                                          www.sagatelecom.com.cn                                Email: a.sagatelecom@gmail.com\n*********************************************************************************************************************\nCENTEC-BASED HIGH-SPEED NETWORK SERIES(CORE & AGGREGATION)\n1 如果不是预算非常紧张，我们会推荐\n1.1 MS License,这覆盖了很多功能，基本能满足日常使用，而价格比EB license没贵很多\n1.2 HSI型号，电源热插拔，这对于设备长期运行和维护都有较大帮助，而价格比SFI没贵很多\n从长期视角来看（运营/维护），MS license(NOT EB)和HSI（NOT SFI)更具性价比\n\n2 请注意报价详情里（SPEC）中写的pre-installed license，价格是基于此license\n\n3 如果需要多个license，通常是MS+ST，MA+ST,final price需另加ST license的价格\n\n4 支持远程操作License,如添加ST license或MS to MA升级\n计价规则\t高价的按照20%来算，低价的按照25%来算，汇率用7来算\nSTH100G\nSTH-32C-HSI\t32*100G QSFP28，L3 Managed\nMain Software Features：VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPV6 \nPWR：2*CRPS550W-AC or 2*CRPS550W-DC \nFAN：4*Hot-swappable Fan Modulars\nAirflow：From from to Rear\nLicense：MA Preinstalled\t\t\t\t6000\nXLite\nSTH-2C6QX-HSI\t6*40G QSFP+，2*100G QSFP28，L3 Managed\nHalf-width size, Supportdual-node deployment, and cross-node redundant power supply\nMain Software Features：VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPV6\nPWR：1*CRPS350W-AC \nFAN：1*Hot-swappable Fan Modular\nAirflow：From from to Rear\nLicense：MA Preinstalled\t\t\t\t1200\nSTH-2C12XF12XE-HSI\nSTH-2C24XE-HSI\nSTH-2C24XF-HSI\nSTH-14C4DX-HSI\nSTH25G\nSTH-4C48DX-HSI\nSTH-8C24DX-HSI\nSTH-8C48DX-HSI\t48*25G SFP28, 8*100G QSFP28, L3 Managed\nMain Software Features：VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPV6 \nPWR：2*CRPS550W-AC or 2*CRPS550W-DC \nFAN：5*Hot-swappable Fan Modulars\nAirflow：From from to Rear\nLicense：MA Preinstalled\t\t\t\t4800\nSTH10G\nPrice validity: 15 days\nSaga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply\nNon-brand packing, without Chinese letters or logo\nNeutral device\nCountry of origin: China\nProduction time: 4~7 working days(NOT including shipping time)\nWarranty: 1 year, lifetime technical support\nPurchased items are deemed accepted upon initial inspection if no written notice of defects is received within two (2) months from the delivery date\nThis acceptance clause shall not affect the validity of the warranty period\nPlease refer to \"warranty policy\" for more information",
+"sheets":{
+"Price List":{
+"rows":[
+[
+"Saga Telecom, OEM Factory"
+],
+[
+"Tailored Managed Networking Solutions Provider"
+],
+[
+"Built to Last, Continuous Supply, Evolving Together"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 13048800964                                          www.sagatelecom.com.cn                                Email: a.sagatelecom@gmail.com"
+],
+[
+"*********************************************************************************************************************"
+],
+[
+"CENTEC-BASED HIGH-SPEED NETWORK SERIES(CORE & AGGREGATION)"
+],
+[
+"1 如果不是预算非常紧张，我们会推荐\n1.1 MS License,这覆盖了很多功能，基本能满足日常使用，而价格比EB license没贵很多\n1.2 HSI型号，电源热插拔，这对于设备长期运行和维护都有较大帮助，而价格比SFI没贵很多\n从长期视角来看（运营/维护），MS license(NOT EB)和HSI（NOT SFI)更具性价比\n\n2 请注意报价详情里（SPEC）中写的pre-installed license，价格是基于此license\n\n3 如果需要多个license，通常是MS+ST，MA+ST,final price需另加ST license的价格\n\n4 支持远程操作License,如添加ST license或MS to MA升级"
+],
+[
+"计价规则",
+"高价的按照20%来算，低价的按照25%来算，汇率用7来算"
+],
+[
+"STH100G"
+],
+[
+"STH-32C-HSI",
+"32*100G QSFP28，L3 Managed\nMain Software Features：VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPV6 \nPWR：2*CRPS550W-AC or 2*CRPS550W-DC \nFAN：4*Hot-swappable Fan Modulars\nAirflow：From from to Rear\nLicense：MA Preinstalled",
+"",
+"",
+"",
+"6000"
+],
+[
+"XLite"
+],
+[
+"STH-2C6QX-HSI",
+"6*40G QSFP+，2*100G QSFP28，L3 Managed\nHalf-width size, Supportdual-node deployment, and cross-node redundant power supply\nMain Software Features：VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPV6\nPWR：1*CRPS350W-AC \nFAN：1*Hot-swappable Fan Modular\nAirflow：From from to Rear\nLicense：MA Preinstalled",
+"",
+"",
+"",
+"1200"
+],
+[
+"STH-2C12XF12XE-HSI"
+],
+[
+"STH-2C24XE-HSI"
+],
+[
+"STH-2C24XF-HSI"
+],
+[
+"STH-14C4DX-HSI"
+],
+[
+"STH25G"
+],
+[
+"STH-4C48DX-HSI"
+],
+[
+"STH-8C24DX-HSI"
+],
+[
+"STH-8C48DX-HSI",
+"48*25G SFP28, 8*100G QSFP28, L3 Managed\nMain Software Features：VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPV6 \nPWR：2*CRPS550W-AC or 2*CRPS550W-DC \nFAN：5*Hot-swappable Fan Modulars\nAirflow：From from to Rear\nLicense：MA Preinstalled",
+"",
+"",
+"",
+"4800"
+],
+[
+"STH10G"
+],
+[
+"Price validity: 15 days"
+],
+[
+"Saga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply"
+],
+[
+"Non-brand packing, without Chinese letters or logo"
+],
+[
+"Neutral device"
+],
+[
+"Country of origin: China"
+],
+[
+"Production time: 4~7 working days(NOT including shipping time)"
+],
+[
+"Warranty: 1 year, lifetime technical support"
+],
+[
+"Purchased items are deemed accepted upon initial inspection if no written notice of defects is received within two (2) months from the delivery date"
+],
+[
+"This acceptance clause shall not affect the validity of the warranty period"
+],
+[
+"Please refer to \"warranty policy\" for more information"
+]
+]
+}
+},
+"extracted_at":"2026-10-23T05:02:37Z"
+}

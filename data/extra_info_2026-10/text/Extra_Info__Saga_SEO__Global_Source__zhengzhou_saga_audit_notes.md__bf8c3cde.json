@@ -1,0 +1,16 @@
+{
+"id":"Extra_Info__Saga_SEO__Global_Source__zhengzhou_saga_audit_notes.md__bf8c3cde",
+"path":"Extra_Info/Saga SEO/Global Source/zhengzhou_saga_audit_notes.md",
+"name":"zhengzhou_saga_audit_notes.md",
+"ext":".md",
+"bytes":3086,
+"sha256":"bf8c3cdeefb34865f1bfbc0e53a4d6ce508a16524a908a8ee85bc172a555ba0a",
+"source":"Extra_Info.zip",
+"method":"text",
+"status":"ok",
+"meta":{},
+"warnings":[],
+"chars":1844,
+"text":"# Zhengzhou Saga Telecom：100 个 Global Sources 产品页面链接审核说明\n\n审核日期：2026-08-18  \n对应 CSV：`zhengzhou_saga_100_products_page_link_audit.csv`\n\n## 审核范围\n\n本次审核只检查 **Global Sources 产品详情页面中的产品描述链接**，不将产品 PDF 中的网址、链接或域名纳入结论。\n\n## 数据完整性\n\n- 官方供应商产品接口返回：100 个唯一产品。\n- Global Sources 平台类目：Ethernet switches 73、PoE adapters 23、Media converters 4。\n- 按型号前缀及产品系列重映射：STI 79、STC 10、STH 11。\n- CSV 共 100 行，包含产品名称、产品 ID、系列、价格、MOQ、产品链接、链接审核证据、发现的问题及优化建议。\n\n## “可点击链接”判定规则\n\n只有产品描述中存在真正的 HTML 锚点才判定为可点击链接。页面内容解析后呈现为：\n\n`[sagatele.com](https://sagatele.com/)`\n\n这可以证明页面中存在指向 `https://sagatele.com/` 的链接，而不只是显示为纯文本的 `sagatele.com`。\n\n## 验证状态\n\n- **21 行：`GS_PAGE_VERIFIED`**  \n  已在对应 Global Sources 产品详情页中直接观察到可点击的 `[sagatele.com](https://sagatele.com/)`，置信度为 High。\n\n- **79 行：`GS_TEMPLATE_INFERRED`**  \n  依据 Global Sources 同一供应商在 STI、STC、STH 各产品系列中的一致页面描述模板判定，置信度为 Medium。CSV 已明确标出这些记录属于模板推断，没有将其写成逐页直接取证。\n\n- 链接目标 `https://sagatele.com/` 在审核日返回 HTTP 200。\n\n## 两个产品的更正说明\n\n### 产品 `1214492039`\n\n- Global Sources 页面：<https://www.globalsources.com/Ethernet-switch/25G-Ethernet-Switch-1214492039p.htm>\n- 页面显示的锚文本：`sagatele.com`\n- 实际链接：<https://sagatele.com/>\n- 判定：**可直接点击**\n- 页面产品描述中不存在 `.com.cn` 域名问题。\n\n### 产品 `1214671377`\n\n- Global Sources 页面：<https://www.globalsources.com/Ethernet-switch/Network-Switch-1214671377p.htm>\n- 页面显示的锚文本：`sagatele.com`\n- 实际链接：<https://sagatele.com/>\n- 判定：**可直接点击**\n- 页面产品描述中不存在 `.com.cn` 域名问题。\n\n## 主要页面问题及优化建议\n\n1. 使用统一且具有说明性的锚文本，例如 “Learn more about Saga Telecom”，不要只使用裸域名。\n2. 为外链添加 UTM 参数，例如：  \n   `utm_source=globalsources&utm_medium=product_description`\n3. 定期检查链接是否仍返回 HTTP 200，是否产生异常重定向。\n4. 修正产品标题中的拼写或术语问题，例如 `Unamanged`、`Megabit`、`10/100M Gigabit`。\n5. 对标题含 “Media Converter” 但被放入 Ethernet switches 或 PoE adapters 的产品重新核对平台类目。\n6. 产品页目前显示供应商“不再于 Global Sources 投放广告”的提示，应评估其对客户信任及询盘转化的影响。\n7. 对标记为 `GS_TEMPLATE_INFERRED` 的记录，在产品描述更新或页面模板改变后重新执行逐页 HTML 锚点检查。\n",
+"extracted_at":"2026-10-23T05:01:57Z"
+}

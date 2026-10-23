@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_SEO__X__saga_x_banner.png__91149198",
+"path":"Extra_Info/Saga SEO/X/saga_x_banner.png",
+"name":"saga_x_banner.png",
+"ext":".png",
+"bytes":60447,
+"sha256":"911491986f7a0319016a990d4915789dd2ba261e3ec07564ec9ed4606c793cdc",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1500,
+"height":500,
+"mode":"RGB",
+"thumb_bytes":4719
+},
+"warnings":[],
+"chars":289,
+"text":"STI— Industrial\nDIN-rail - -49°C + 196 Fiber uplinks\n—— ENGINEERING & SUPPLY-CHAIN-FIRST PoE+ - ERPS - Fiber Bypass - DI/DO/RS485\nManaged switching sin na mr = the\nSTH 一 Core & Aggregation\n324006 + MPLS / VXLAN / EVPN\nfor every layer. nis he\nOEM / ODM Industrial Commercial Core & Aggregat",
+"extracted_at":"2026-10-23T05:02:20Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__X__saga_x_banner.png__91149198.jpg"
+}

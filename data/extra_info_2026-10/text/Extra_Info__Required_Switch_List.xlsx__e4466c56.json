@@ -1,0 +1,1091 @@
+{
+"id":"Extra_Info__Required_Switch_List.xlsx__e4466c56",
+"path":"Extra_Info/Required Switch List.xlsx",
+"name":"Required Switch List.xlsx",
+"ext":".xlsx",
+"bytes":78401,
+"sha256":"e4466c56ece7593442014e106abe0db0d23952fd767030e6e938bb29464c90ba",
+"source":"Extra_Info.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"巴西",
+"国内",
+"8电口替代",
+"2光6替代",
+"之前问的_常总回复"
+],
+"embedded_images":2,
+"rows_total":194
+},
+"warnings":[],
+"chars":18050,
+"text":"--- Sheet: 巴西 ---\n16电\t\t\t同样规格的24/48电\n2光16电\t2个1G光\tPoE管理\tPoE功率\t130W/52V2.5A\n\t2个10G光\t\t\t250W/52V4.81A\n1光+2电+16电\t1个1G光\tPoE管理\t\t400W/52V7.7A\n\t1个10G光\t\t\t600W/52V11.54A\n2光+2电+16电\t2个1G光\tPoE管理\n\t2个10G光\n4光16电\t4个1G光\tPoE管理\n\t4个10G光\n2光+4电+16电\t2个1G光\tPoE管理\n\t2个10G光\nCode FLEXMEDIA\tDescription\tAmount\tPartner Price\tNOTE\nSwitch 16 Electrical  Ports\t\t\t\t16G\nEFI/16G\t10/100/1000, 16 Electrical  Ports\t1>20\t0\n16 Electrical  Ports - 2  optical ports\nEFI/16G 2SFPC\t10/100/1000, 16 Electrical  Ports  + 2 Optical Ports , SFP 1,25G\t1>20\t0\nEFI/16G 2SFPJ\t10/100/1000, 16 Electrical  Ports  + 2 Optical Ports , SFP 10G\t1>20\t0\nEFI/16G 2SFPC -G\t10/100/1000, 16 Electrical  Ports  + 2 Optical Ports , SFP 1,25G, Gerenciável\t1>20\t0\nEFI/16G 2SFPJ - G\t10/100/1000, 16 Electrical  Ports  + 2 Optical Ports , SFP 10G, Gerenciável\t1>20\t0\nEFI/16G 2SFPC -PoE\t10/100/1000, 16 Electrical  Ports  + 2 Optical Ports , SFP 1,25G, POE\t1>20\t0\nEFI/16G 2SFPJ -PoE\t10/100/1000, 16 Electrical  Ports  + 2 Optical Ports , SFP 10G, POE\t1>20\t0\nEFI/16G 2SFPC -G-PoE\t10/100/1000, 16 Electrical  Ports  + 2 Optical Ports , SFP 1,25G, Gerenciável,  POE\t1>20\t0\nEFI/16G 2SFPJ -G-PoE\t10/100/1000, 16 Electrical  Ports  + 2 Optical Ports , SFP 10G, Gerenciável,  POE\t1>20\t0\nEFI/16G 2SFPC-G  POE- U-1\t10/100/1000, 16 Electrical  Ports   + 2 Optical Ports , SFP 1,25G, Gerenciável,POE, 1Uplink\t1>20\t0\nEFI/16G 2SFPJ -G  POE -U-1\t10/100/1000, 16 Electrical  Ports   + 2 Optical Ports , SFP 10G, Gerenciável, POE, 1Uplink\t1>20\t0\nEFI/16G 2SFPC-G  POE- U-2\t10/100/1000, 16 Electrical  Ports   + 2 Optical Ports , SFP 1,25G, Gerenciável,POE, 2Uplink\t1>20\t0\nEFI/16G 2SFPJ -G  POE -U-2\t10/100/1000, 16 Electrical  Ports   + 2 Optical Ports , SFP 10G, Gerenciável, POE, 2Uplink\t1>20\t0\n16 Electrical  Ports - 4  optical ports\nEFI/16G 4SFPC\t10/100/1000, 16 Electrical  Ports  + 4 Optical Ports , SFP 1,45G\t1>20\t0\nEFI/16G 4SFPJ\t10/100/1000, 16 Electrical  Ports  + 4 Optical Ports , SFP 10G\t1>20\t0\nEFI/16G 4SFPC -G\t10/100/1000, 16 Electrical  Ports  + 4 Optical Ports , SFP 1,45G, Gerenciável\t1>20\t0\nEFI/16G 4SFPJ - G\t10/100/1000, 16 Electrical  Ports  + 4 Optical Ports , SFP 10G, Gerenciável\t1>20\t0\nEFI/16G 4SFPC -PoE\t10/100/1000, 16 Electrical  Ports  + 4 Optical Ports , SFP 1,45G, POE\t1>20\t0\nEFI/16G 4SFPJ -PoE\t10/100/1000, 16 Electrical  Ports  + 4 Optical Ports , SFP 10G, POE\t1>20\t0\nEFI/16G 4SFPC -G-PoE\t10/100/1000, 16 Electrical  Ports  + 4 Optical Ports , SFP 1,45G, Gerenciável,  POE\t1>20\t0\nEFI/16G 4SFPJ -G-PoE\t10/100/1000, 16 Electrical  Ports  + 4 Optical Ports , SFP 10G, Gerenciável,  POE\t1>20\t0\nEFI/16G 4SFPC-G  POE- U-1\t10/100/1000, 16 Electrical  Ports   + 4 Optical Ports , SFP 1,45G, Gerenciável,POE, 1Uplink\t1>20\t0\nEFI/16G 4SFPJ -G  POE -U-1\t10/100/1000, 16 Electrical  Ports   + 4 Optical Ports , SFP 10G, Gerenciável, POE, 1Uplink\t1>20\t0\nEFI/16G 4SFPC-G  POE- U-2\t10/100/1000, 16 Electrical  Ports   + 4 Optical Ports , SFP 1,45G, Gerenciável,POE, 2Uplink\t1>20\t0\nEFI/16G 4SFPJ -G  POE -U-2\t10/100/1000, 16 Electrical  Ports   + 4 Optical Ports , SFP 10G, Gerenciável, POE, 2Uplink\t1>20\t0\nSwitch 24 Electrical  Ports\t\t\t\t24G\nEFI/24G\t10/100/1000, 24 Electrical  Ports\t1>20\t0\n24 Electrical  Ports - 2  optical ports\nEFI/24G 2SFPC\t10/100/1000, 24 Electrical  Ports  + 2 Optical Ports , SFP 1,25G\t1>20\t0\nEFI/24G 2SFPJ\t10/100/1000, 24 Electrical  Ports  + 2 Optical Ports , SFP 10G\t1>20\t0\nEFI/24G 2SFPC -G\t10/100/1000, 24 Electrical  Ports  + 2 Optical Ports , SFP 1,25G, Gerenciável\t1>20\t0\nEFI/24G 2SFPJ - G\t10/100/1000, 24 Electrical  Ports  + 2 Optical Ports , SFP 10G, Gerenciável\t1>20\t0\nEFI/24G 2SFPC -PoE\t10/100/1000, 24 Electrical  Ports  + 2 Optical Ports , SFP 1,25G, POE\t1>20\t0\nEFI/24G 2SFPJ -PoE\t10/100/1000, 24 Electrical  Ports  + 2 Optical Ports , SFP 10G, POE\t1>20\t0\nEFI/24G 2SFPC -G-PoE\t10/100/1000, 24 Electrical  Ports  + 2 Optical Ports , SFP 1,25G, Gerenciável,  POE\t1>20\t0\nEFI/24G 2SFPJ -G-PoE\t10/100/1000, 24 Electrical  Ports  + 2 Optical Ports , SFP 10G, Gerenciável,  POE\t1>20\t0\nEFI/24G 2SFPC-G  POE- U-1\t10/100/1000, 24 Electrical  Ports   + 2 Optical Ports , SFP 1,25G, Gerenciável,POE, 1Uplink\t1>20\t0\nEFI/24G 2SFPJ -G  POE -U-1\t10/100/1000, 24 Electrical  Ports   + 2 Optical Ports , SFP 10G, Gerenciável, POE, 1Uplink\t1>20\t0\nEFI/24G 2SFPC-G  POE- U-2\t10/100/1000, 24 Electrical  Ports   + 2 Optical Ports , SFP 1,25G, Gerenciável,POE, 2Uplink\t1>20\t0\nEFI/24G 2SFPJ -G  POE -U-2\t10/100/1000, 24 Electrical  Ports   + 2 Optical Ports , SFP 10G, Gerenciável, POE, 2Uplink\t1>20\t0\n24 Electrical  Ports - 4  optical ports\nEFI/24G 4SFPC\t10/100/1000, 24 Electrical  Ports  + 4 Optical Ports , SFP 1,45G\t1>20\t0\nEFI/24G 4SFPJ\t10/100/1000, 24 Electrical  Ports  + 4 Optical Ports , SFP 10G\t1>20\t0\nEFI/24G 4SFPC -G\t10/100/1000, 24 Electrical  Ports  + 4 Optical Ports , SFP 1,45G, Gerenciável\t1>20\t0\nEFI/24G 4SFPJ - G\t10/100/1000, 24 Electrical  Ports  + 4 Optical Ports , SFP 10G, Gerenciável\t1>20\t0\nEFI/24G 4SFPC -PoE\t10/100/1000, 24 Electrical  Ports  + 4 Optical Ports , SFP 1,45G, POE\t1>20\t0\nEFI/24G 4SFPJ -PoE\t10/100/1000, 24 Electrical  Ports  + 4 Optical Ports , SFP 10G, POE\t1>20\t0\nEFI/24G 4SFPC -G-PoE\t10/100/1000, 24 Electrical  Ports  + 4 Optical Ports , SFP 1,45G, Gerenciável,  POE\t1>20\t0\nEFI/24G 4SFPJ -G-PoE\t10/100/1000, 24 Electrical  Ports  + 4 Optical Ports , SFP 10G, Gerenciável,  POE\t1>20\t0\nEFI/24G 4SFPC-G  POE- U-1\t10/100/1000, 24 Electrical  Ports   + 4 Optical Ports , SFP 1,45G, Gerenciável,POE, 1Uplink\t1>20\t0\nEFI/24G 4SFPJ -G  POE -U-1\t10/100/1000, 24 Electrical  Ports   + 4 Optical Ports , SFP 10G, Gerenciável, POE, 1Uplink\t1>20\t0\nEFI/24G 4SFPC-G  POE- U-2\t10/100/1000, 24 Electrical  Ports   + 4 Optical Ports , SFP 1,45G, Gerenciável,POE, 2Uplink\t1>20\t0\nEFI/24G 4SFPJ -G  POE -U-2\t10/100/1000, 24 Electrical  Ports   + 4 Optical Ports , SFP 10G, Gerenciável, POE, 2Uplink\t1>20\t0\nSwitch 48 Electrical  Ports\t\t\t\t48G\nEFI/48G\t10/100/1000, 48 Electrical  Ports\t1>20\t0\n48 Electrical  Ports - 2  optical ports\nEFI/48G 2SFPC\t10/100/1000, 48 Electrical  Ports  + 2 Optical Ports , SFP 1,25G\t1>20\t0\nEFI/48G 2SFPJ\t10/100/1000, 48 Electrical  Ports  + 2 Optical Ports , SFP 10G\t1>20\t0\nEFI/48G 2SFPC -G\t10/100/1000, 48 Electrical  Ports  + 2 Optical Ports , SFP 1,25G, Gerenciável\t1>20\t0\nEFI/48G 2SFPJ - G\t10/100/1000, 48 Electrical  Ports  + 2 Optical Ports , SFP 10G, Gerenciável\t1>20\t0\nEFI/48G 2SFPC -PoE\t10/100/1000, 48 Electrical  Ports  + 2 Optical Ports , SFP 1,25G, POE\t1>20\t0\nEFI/48G 2SFPJ -PoE\t10/100/1000, 48 Electrical  Ports  + 2 Optical Ports , SFP 10G, POE\t1>20\t0\nEFI/48G 2SFPC -G-PoE\t10/100/1000, 48 Electrical  Ports  + 2 Optical Ports , SFP 1,25G, Gerenciável,  POE\t1>20\t0\nEFI/48G 2SFPJ -G-PoE\t10/100/1000, 48 Electrical  Ports  + 2 Optical Ports , SFP 10G, Gerenciável,  POE\t1>20\t0\nEFI/48G 2SFPC-G  POE- U-1\t10/100/1000, 48 Electrical  Ports   + 2 Optical Ports , SFP 1,25G, Gerenciável,POE, 1Uplink\t1>20\t0\nEFI/48G 2SFPJ -G  POE -U-1\t10/100/1000, 48 Electrical  Ports   + 2 Optical Ports , SFP 10G, Gerenciável, POE, 1Uplink\t1>20\t0\nEFI/48G 2SFPC-G  POE- U-2\t10/100/1000, 48 Electrical  Ports   + 2 Optical Ports , SFP 1,25G, Gerenciável,POE, 2Uplink\t1>20\t0\nEFI/48G 2SFPJ -G  POE -U-2\t10/100/1000, 48 Electrical  Ports   + 2 Optical Ports , SFP 10G, Gerenciável, POE, 2Uplink\t1>20\t0\n48 Electrical  Ports - 4  optical ports\nEFI/48G 4SFPC\t10/100/1000, 48 Electrical  Ports  + 4 Optical Ports , SFP 1,45G\t1>20\t0\nEFI/48G 4SFPJ\t10/100/1000, 48 Electrical  Ports  + 4 Optical Ports , SFP 10G\t1>20\t0\nEFI/48G 4SFPC -G\t10/100/1000, 48 Electrical  Ports  + 4 Optical Ports , SFP 1,45G, Gerenciável\t1>20\t0\nEFI/48G 4SFPJ - G\t10/100/1000, 48 Electrical  Ports  + 4 Optical Ports , SFP 10G, Gerenciável\t1>20\t0\nEFI/48G 4SFPC -PoE\t10/100/1000, 48 Electrical  Ports  + 4 Optical Ports , SFP 1,45G, POE\t1>20\t0\nEFI/48G 4SFPJ -PoE\t10/100/1000, 48 Electrical  Ports  + 4 Optical Ports , SFP 10G, POE\t1>20\t0\nEFI/48G 4SFPC -G-PoE\t10/100/1000, 48 Electrical  Ports  + 4 Optical Ports , SFP 1,45G, Gerenciável,  POE\t1>20\t0\nEFI/48G 4SFPJ -G-PoE\t10/100/1000, 48 Electrical  Ports  + 4 Optical Ports , SFP 10G, Gerenciável,  POE\t1>20\t0\nEFI/48G 4SFPC-G  POE- U-1\t10/100/1000, 48 Electrical  Ports   + 4 Optical Ports , SFP 1,45G, Gerenciável,POE, 1Uplink\t1>20\t0\nEFI/48G 4SFPJ -G  POE -U-1\t10/100/1000, 48 Electrical  Ports   + 4 Optical Ports , SFP 10G, Gerenciável, POE, 1Uplink\t1>20\t0\nEFI/48G 4SFPC-G  POE- U-2\t10/100/1000, 48 Electrical  Ports   + 4 Optical Ports , SFP 1,45G, Gerenciável,POE, 2Uplink\t1>20\t0\nEFI/48G 4SFPJ -G  POE -U-2\t10/100/1000, 48 Electrical  Ports   + 4 Optical Ports , SFP 10G, Gerenciável, POE, 2Uplink\t1>20\t0\n--- Sheet: 国内 ---\nNo\tLAYER\tPorts\tDesc.\tPrice\n1\tLayer 2+\t28*SFP + 8*GE\t28*100/1000Base-X SFP fiber slot ports & 8*10/100/1000Base-T RJ45 ports.\n2\tLayer 2+\t12*SFP + 2*GE\t2*10/100/1000Base-T RJ45 ports & 12*100/1000Base-X SFP fiber slot ports\n3\tLayer 2+\t24*GE + 4*SFP\t24*10/100/1000Base-T RJ45 ports & 4*100/1000Base-X SFP fiber slot ports\n4\tLayer 2+\t48*GE + 4*SFP\t48*10/100/1000Base-T RJ45 ports & 4*100/1000Base-X SFP fiber slot ports\n5\tLayer 2+\t24*SFP + 8*GE + 4*SFP+\t24*100/1000M SFP fiber slot ports & 8*10/100/1000Base-T RJ45 ports & 4*1/10G SFP+ fiber ports.\n6\tLayer 2+ PoE\t8*GE POE + 2*SFP (130W)\t8*10/100/1000Base-T RJ45 ports & 2*100/1000Base-X SFP fiber slot ports: Port 1-8 can support IEEE802.3af/at standard PoE power supply.\n7\tLayer 2+ PoE\t16*GE POE + 4*SFP (250W)\t16*10/100/1000Base-T RJ45 ports & 4*100/1000Base-X SFP fiber slot ports: Ports 1-16 can support IEEE802.3af/at standard PoE power supply.\n8\tLayer 2+ PoE\t24*GE POE + 4*SFP (400W)\t24*10/100/1000Base-T RJ45 ports & 4*100/1000Base-X SFP fiber slot ports: Ports 1-24 can support IEEE802.3af/at standard PoE power supply.\n9\tLayer 2+ PoE\t48*GE POE + 4*SFP (600W)\t48*10/100/1000Base-T RJ45 ports & 4*100/1000Base-X SFP fiber slot ports: Ports 1-48 can support IEEE802.3af/at standard PoE power supply.\n10\tLayer 3 PoE\t24*GE POE + 4*SFP+ (400W)\t24*10/100/1000Base-T RJ45 ports & 4*1/10G SFP+ fiber slot ports: Ports 1-24 can support IEEE802.3af/at standard PoE power supply.\n11\tLayer 3 PoE\t48*GE POE + 4*SFP+ (600W)\t48*10/100/1000Base-T RJ45 ports & 4*1/10G SFP+ fiber slot ports: Ports 1-48 can support IEEE802.3af/at standard PoE power supply.\n12\tLayer 3+\t24*GE + 4*SFP+\t24*10/100/1000Base-T RJ45 ports & 4*1/10G SFP+ fiber slot ports\n13\tLayer 3+\t24*GE + 8*SFP + 4*SFP+\t24*10/100/1000Base-T RJ45 ports & 8*100/1000Base-X SFP ports & 4*1/10G SFP+ fiber ports\n14\tLayer 3+\t48*GE + 4*SFP+\t48*10/100/1000Base-T RJ45 ports & 4*1/10G SFP+ fiber slot ports\n15\tLayer 3+\t24*GE + 4*SFP+\t24*10/100/1000Base-T RJ45 ports & 4*1/10G SFP+ fiber ports\n16\tLayer 3+\t48*GE + 4*SFP+\t48*10/100/1000Base-T RJ45 ports & 4*1/10G SFP+ fiber slot ports\n17\tLayer 3+ PoE\t24*GE POE + 4*SFP+ (400W)\t24*10/100/1000Base-T RJ45 ports & 4*1/10G SFP+ fiber slot ports: Ports 1-24 can support IEEE802.3af/at PoE standard.\n18\tLayer 3+ PoE\t48*GE POE + 4*SFP+ (600W）\t48*10/100/1000Base-T RJ45 ports & 4*1/10G SFP+ fiber slot ports: Ports 1-48 can support IEEE802.3af/at PoE standard.\n19\tAdvanced Layer 3+\t24*SFP+ + 4*QSFP28\t24*1/10G SFP+ Ports & 4*40/100G QSFP28 Ports\n20\tIndustrial Layer 2+\t8*GE + 2*SFP\t8*10/100/1000Base-T RJ45 ports & 2*100/1000Base-X SFP fiber ports.\n21\tIndustrial Layer 2+ PoE\t8*GE POE + 2*SFP\t8*10/100/1000Base-T RJ45 ports & 2*100/1000Base-X SFP fiber slot ports: PortS 1-8 can supports IEEE 802.3af/at standard POE power supply.\t\tTraffic Shapping\n22\tIndustrial Layer 2+ PoE\t8*GE POE + 2*SFP\t8*10/100/1000M PoE ports & 2*100/1000M SFP fiber ports: Ports 1-8 can support IEEE802.3af/at standard POE.\n23\tIndustrial Layer 2+ PoE\t8*GE POE + 2*GE+4*SFP\t8*10/100/1000M PoE ports & 2*10/100/1000M RJ45 ports & 4*100/1000M SFP fiber slot ports; Ports 1-8 can supports IEEE802.3af/at standard POE power supply.\t\tTraffic Shapping\n24\tIndustrial Layer 3+ PoE\t8*GE POE + 4*GE + 4*SFP+\t8*10/100/1000M PoE ports & 2*10/100/1000M RJ45 ports  & 4*1/10G SFP+ fiber ports: Ports 1-8 can support IEEE802.3af/at PoE standard.\n25\tIndustrial WEB Managed PoE\t8*FE POE + 2*GE/SFP (Combo)\t8*10/100Base-TX RJ45 ports & 2*100/1000Base-T(X) combo ports: Ports 1-8 can support IEEE 802.3af/at standard PoE power supply.\n26\tIndustrial UNMANAGED PoE\t8*GE POE + 2*SFP\t8*10/100/1000Base-T RJ45 ports & 2*1000Base-X uplink SFP slot ports: Ports 1-8 can support IEEE802.3af/at PoE standard.\n27\tUNMANAGED PoE\t8*GE POE + 2*GE (120W)\t8*10/100/1000Base-T PoE ports & 2*10/100/1000Base-T uplink RJ45 ports; Port 1-8 can support IEEE802.3af/at standard PoE power supply.\n28\tUNMANAGED PoE\t8*FE POE + 2*GE + 2*SFP (130W)\t8*10/100Base-TX PoE ports & 2*10/100/1000Base-T RJ45 ports & 2*1000Base-X SFP fiber slot ports: Ports 1-8 can support IEEE802.3af/at standard PoE power supply.\n29\tUNMANAGED PoE\t16*FE POE + 2*GE/SFP(Combo)(250W)\t16*10/100M PoE ports & 2*10/100/1000M uplink RJ45 ports & 2*1000M uplink SFP combo ports: Ports 1-16 can support IEEE802.3af/at standard PoE power supply.\n30\tUNMANAGED PoE\t24*FE POE + 2*GE/SFP(Combo)(400W)\t24*10/100M PoE ports & 2*10/100/1000M uplink RJ45 ports and 2*1000M uplink SFP combo ports: Ports 1-24 can support IEEE802.3af/at standard PoE power supply.\n31\tUNMANAGED PoE\t8*GE POE + 2*GE+1*SFP (130W)\t8*10/100/1000M RJ45 ports & 2*10/100/1000M uplink RJ45 ports & 1*1000M SFP slot port: Ports 1-8 can support IEEE802.3af/at standard PoE power supply.\n32\tUNMANAGED PoE\t16*GE POE + 2*SFP (250W)\t16*10/100/1000M RJ45 ports & 2*1000M SFP slot ports: Ports 1-16 can support IEEE802.3af/at standard PoE power supply.\n33\tUNMANAGED PoE\t24*GE POE + 2*GE+2*SFP(400W)\t24*10/100/1000M RJ45 ports & 2*10/100/1000M uplink RJ45  ports & 2*1000M SFP slot ports: Ports 1-24 can support IEEE802.3af/at standard PoE power supply.\n\t\tNotes:\n\t\tLayer 2+\tSupport IPv4/ IPv6 Static routing/ default routing max 128 entries\n\t\tLayer 3\tSupport IPv4/ IPv6 static routing, (max 128 entries); RIPv1/v2, RIPng, OSPFv1/v2, OSPFv3\n\t\tLayer 3+\tSupport IPV4/IPV6 static route/default route (max 128 entries); IPV4/v6 dynamic routing; RIPv1/v2/ng OSPFv2/v3 BGP4/BGP+\n\t\tAdvanced Layer 3+\tSupport IPv4/IPv6 static routing, RIP v1/v2/ng, OSPFv2/v3, BGP4/BGP+, IS-IS, BEIGRP, Policy-based routing, BFD for OSPF and BGP, Manual tunnel, ISATAP tunnel, 6to4 tunnel, Equal-cost routing to achieve load balancing\n--- Sheet: 8电口替代 ---\nAtop\tEHG2308\thttps://www.atoponline.com/industrial-networking-computing/products/industrial-ethernet/unmanaged-switches/ehg2308/\nWago\t852-1102\thttps://www.wago.com/sg/automation-technology/8-port-industrial-switch\nCTCU\tIGS-800C\thttps://www.ctcu.com/en/product/IGS-800C.html\nTripplite\tNFI-U08-2\thttps://tripplite.eaton.com/8-port-industrial-network-switch-10-100-mbps-wall-mount~NFIU082\nRed Lion\tSLX-8ES-1\thttps://www.redlion.net/product/slx-8es-unmanaged-industrial-ethernet-switch\nAntaira\tLNX-C800G-T\thttps://www.antaira.com/products/compact-devices-industrial-ethernet-switches/LNX-C800G-T\n--- Sheet: 2光6替代 ---\nRed Lion\tSLX-8MS-5SCL\thttps://www.redlion.net/product/slx-8ms-5scl-managed-industrial-ethernet-switch-scl-60km\nAntaira\tLNP-0802-M-24-T\thttps://www.antaira.com/products/10-100-Mbps-Low-Voltage-Unmanaged-PoE/LNP-0802-M-24-T\n--- Sheet: 之前问的_常总回复 ---\nNetwork Management Features\nInterface\tIEEE802.3X (Full-duplex)\n\tPort temperature protection setting\n\tNo connection port automatic sleep\n\tPort green Ethernet Energy-saving setting\n\tBroadcast storm control based on port speed\n\tSFP+ optical port DDMI real-time digital diagnosis\n\tThe speed limit of the message flow in the access port, minimum particle size is 64Kbps.\nLayer 3 Features\tIPV4 Equal Cost Routing\n\tNG protocol, maximum 1000 entries\n\tARP protocol, maximum 1000 entries\n\tPingv6, Telnetv6, TFTPv6, DNSv6, ICMPv6\n\tIPV4/IPV6 VRRP, the maximum group is 255\n\tIPV4/IPV6 VLANIF interface supports up to 128\n\tIPV4/IPV6 static route/default route supports up to 128 entries\n\tIPV4 dynamic routing, RIPv1/v2, OSPFv2, BGP4+, 4000 routing entries\n\tIPV6 dynamic routing OSPFv3, BGP+, RIPng, IPV6 management, 1000 routing entries\n\tL3 network management function, IPV4/IPV6 dual-stack management\n\tL3 routing and forwarding, support communication between different network segments and different VLAN\nVLAN\tVoice VLAN, QinQ configuration, IEEE802.1q\n\tVLAN based on MAC, VLAN based on the protocol\n\t4K VLAN based on port, Port configuration of Access, Trunk, Hybrid.\nPort Aggregation\tLACP, Static aggregation\n\tMax 8 aggregation groups and 8 ports per group.\nSpanning Tree\tSTP (IEEE802.1d), RSTP (IEEE802.1w), MSTP (IEEE802.1s)\nIndustrial Ring Network Protocol\t250 Ring at most, Max 250 devices per ring.\n\tG.8032 (ERPS), Recovery time less than 20ms\nMulticast\tIGMP Snooping v1/v2, Max 1024 multicast groups\n\tMLD Snooping v1/v2, Multicast VLAN, Fast log out\nPort Mirroring\tBidirectional data mirroring based on port\nQoS\tDiff-Serv QoS, Priority Mark/Remark\n\tQueue Scheduling Algorithm (SP, WRR, SP+WRR)\n\tFlow-based Rate Limiting, Flow-based Packet Filtering\n\t8*Output queues of each port, 802.1p/DSCP priority mapping\nACL\tPort-based Issuing ACL, ACL based on port and VLAN\n\tL2 to L4 packet filtering, matching first 80 bytes message. Provide ACL based on MAC, Destination MAC address, IP Source, Destination IP, IP Protocol Type, TCP/UDP Port, TCP/UDP Port Range, and VLAN, etc.\nSecurity\tBroadcast storm control, Backup for host datum\n\tSSH 2.0, SSL, Port isolation, ARP message speed limit\n\tAAA & RADIUS, MAC learning limit, Mac black holes\n\tUser hierarchical management and password protection\n\tIP-MAC-VLAN-Port binding, ARP inspection, Anti-DoS attack\n\tIP source protection, IEEE802.1X & MAC address authentication\nDHCP\tDHCP Client, DHCP Snooping, DHCP Server, DHCP Relay\nManagement\tNMS platform cluster management (LLDP+SNMP)\n\tDownload & Management on FTP, TFTP, Xmodem, SFTP\n\tOne-key recovery, Cable Diagnose, LLDP, SNMP V1/V2/V3\n\tNTP, System work log, Ping Test, CPU instant utilization status view\n\tWeb Management (HTTPS), Console/AUX Modem/Telnet/SSH2.0 CLI\nSystem\tCategory 5 Ethernet network cable\n\tWeb browser: Mozilla Firefox 2.5 or higher, Google browser chrome V42 or higher, Microsoft Internet Explorer10 or later\n\tTCP/IP, network adapter, and network operating system (such as Microsoft Windows, Linux, or Mac OS X) installed on each computer in a network",
+"sheets":{
+"巴西":{
+"state":"visible",
+"rows":[
+[
+"16电",
+"",
+"",
+"同样规格的24/48电"
+],
+[
+"2光16电",
+"2个1G光",
+"PoE管理",
+"PoE功率",
+"130W/52V2.5A"
+],
+[
+"",
+"2个10G光",
+"",
+"",
+"250W/52V4.81A"
+],
+[
+"1光+2电+16电",
+"1个1G光",
+"PoE管理",
+"",
+"400W/52V7.7A"
+],
+[
+"",
+"1个10G光",
+"",
+"",
+"600W/52V11.54A"
+],
+[
+"2光+2电+16电",
+"2个1G光",
+"PoE管理"
+],
+[
+"",
+"2个10G光"
+],
+[
+"4光16电",
+"4个1G光",
+"PoE管理"
+],
+[
+"",
+"4个10G光"
+],
+[
+"2光+4电+16电",
+"2个1G光",
+"PoE管理"
+],
+[
+"",
+"2个10G光"
+],
+[
+"Code FLEXMEDIA",
+"Description",
+"Amount",
+"Partner Price",
+"NOTE"
+],
+[
+"Switch 16 Electrical  Ports",
+"",
+"",
+"",
+"16G"
+],
+[
+"EFI/16G",
+"10/100/1000, 16 Electrical  Ports",
+"1>20",
+"0"
+],
+[
+"16 Electrical  Ports - 2  optical ports"
+],
+[
+"EFI/16G 2SFPC",
+"10/100/1000, 16 Electrical  Ports  + 2 Optical Ports , SFP 1,25G",
+"1>20",
+"0"
+],
+[
+"EFI/16G 2SFPJ",
+"10/100/1000, 16 Electrical  Ports  + 2 Optical Ports , SFP 10G",
+"1>20",
+"0"
+],
+[
+"EFI/16G 2SFPC -G",
+"10/100/1000, 16 Electrical  Ports  + 2 Optical Ports , SFP 1,25G, Gerenciável",
+"1>20",
+"0"
+],
+[
+"EFI/16G 2SFPJ - G",
+"10/100/1000, 16 Electrical  Ports  + 2 Optical Ports , SFP 10G, Gerenciável",
+"1>20",
+"0"
+],
+[
+"EFI/16G 2SFPC -PoE",
+"10/100/1000, 16 Electrical  Ports  + 2 Optical Ports , SFP 1,25G, POE",
+"1>20",
+"0"
+],
+[
+"EFI/16G 2SFPJ -PoE",
+"10/100/1000, 16 Electrical  Ports  + 2 Optical Ports , SFP 10G, POE",
+"1>20",
+"0"
+],
+[
+"EFI/16G 2SFPC -G-PoE",
+"10/100/1000, 16 Electrical  Ports  + 2 Optical Ports , SFP 1,25G, Gerenciável,  POE",
+"1>20",
+"0"
+],
+[
+"EFI/16G 2SFPJ -G-PoE",
+"10/100/1000, 16 Electrical  Ports  + 2 Optical Ports , SFP 10G, Gerenciável,  POE",
+"1>20",
+"0"
+],
+[
+"EFI/16G 2SFPC-G  POE- U-1",
+"10/100/1000, 16 Electrical  Ports   + 2 Optical Ports , SFP 1,25G, Gerenciável,POE, 1Uplink",
+"1>20",
+"0"
+],
+[
+"EFI/16G 2SFPJ -G  POE -U-1",
+"10/100/1000, 16 Electrical  Ports   + 2 Optical Ports , SFP 10G, Gerenciável, POE, 1Uplink",
+"1>20",
+"0"
+],
+[
+"EFI/16G 2SFPC-G  POE- U-2",
+"10/100/1000, 16 Electrical  Ports   + 2 Optical Ports , SFP 1,25G, Gerenciável,POE, 2Uplink",
+"1>20",
+"0"
+],
+[
+"EFI/16G 2SFPJ -G  POE -U-2",
+"10/100/1000, 16 Electrical  Ports   + 2 Optical Ports , SFP 10G, Gerenciável, POE, 2Uplink",
+"1>20",
+"0"
+],
+[
+"16 Electrical  Ports - 4  optical ports"
+],
+[
+"EFI/16G 4SFPC",
+"10/100/1000, 16 Electrical  Ports  + 4 Optical Ports , SFP 1,45G",
+"1>20",
+"0"
+],
+[
+"EFI/16G 4SFPJ",
+"10/100/1000, 16 Electrical  Ports  + 4 Optical Ports , SFP 10G",
+"1>20",
+"0"
+],
+[
+"EFI/16G 4SFPC -G",
+"10/100/1000, 16 Electrical  Ports  + 4 Optical Ports , SFP 1,45G, Gerenciável",
+"1>20",
+"0"
+],
+[
+"EFI/16G 4SFPJ - G",
+"10/100/1000, 16 Electrical  Ports  + 4 Optical Ports , SFP 10G, Gerenciável",
+"1>20",
+"0"
+],
+[
+"EFI/16G 4SFPC -PoE",
+"10/100/1000, 16 Electrical  Ports  + 4 Optical Ports , SFP 1,45G, POE",
+"1>20",
+"0"
+],
+[
+"EFI/16G 4SFPJ -PoE",
+"10/100/1000, 16 Electrical  Ports  + 4 Optical Ports , SFP 10G, POE",
+"1>20",
+"0"
+],
+[
+"EFI/16G 4SFPC -G-PoE",
+"10/100/1000, 16 Electrical  Ports  + 4 Optical Ports , SFP 1,45G, Gerenciável,  POE",
+"1>20",
+"0"
+],
+[
+"EFI/16G 4SFPJ -G-PoE",
+"10/100/1000, 16 Electrical  Ports  + 4 Optical Ports , SFP 10G, Gerenciável,  POE",
+"1>20",
+"0"
+],
+[
+"EFI/16G 4SFPC-G  POE- U-1",
+"10/100/1000, 16 Electrical  Ports   + 4 Optical Ports , SFP 1,45G, Gerenciável,POE, 1Uplink",
+"1>20",
+"0"
+],
+[
+"EFI/16G 4SFPJ -G  POE -U-1",
+"10/100/1000, 16 Electrical  Ports   + 4 Optical Ports , SFP 10G, Gerenciável, POE, 1Uplink",
+"1>20",
+"0"
+],
+[
+"EFI/16G 4SFPC-G  POE- U-2",
+"10/100/1000, 16 Electrical  Ports   + 4 Optical Ports , SFP 1,45G, Gerenciável,POE, 2Uplink",
+"1>20",
+"0"
+],
+[
+"EFI/16G 4SFPJ -G  POE -U-2",
+"10/100/1000, 16 Electrical  Ports   + 4 Optical Ports , SFP 10G, Gerenciável, POE, 2Uplink",
+"1>20",
+"0"
+],
+[
+"Switch 24 Electrical  Ports",
+"",
+"",
+"",
+"24G"
+],
+[
+"EFI/24G",
+"10/100/1000, 24 Electrical  Ports",
+"1>20",
+"0"
+],
+[
+"24 Electrical  Ports - 2  optical ports"
+],
+[
+"EFI/24G 2SFPC",
+"10/100/1000, 24 Electrical  Ports  + 2 Optical Ports , SFP 1,25G",
+"1>20",
+"0"
+],
+[
+"EFI/24G 2SFPJ",
+"10/100/1000, 24 Electrical  Ports  + 2 Optical Ports , SFP 10G",
+"1>20",
+"0"
+],
+[
+"EFI/24G 2SFPC -G",
+"10/100/1000, 24 Electrical  Ports  + 2 Optical Ports , SFP 1,25G, Gerenciável",
+"1>20",
+"0"
+],
+[
+"EFI/24G 2SFPJ - G",
+"10/100/1000, 24 Electrical  Ports  + 2 Optical Ports , SFP 10G, Gerenciável",
+"1>20",
+"0"
+],
+[
+"EFI/24G 2SFPC -PoE",
+"10/100/1000, 24 Electrical  Ports  + 2 Optical Ports , SFP 1,25G, POE",
+"1>20",
+"0"
+],
+[
+"EFI/24G 2SFPJ -PoE",
+"10/100/1000, 24 Electrical  Ports  + 2 Optical Ports , SFP 10G, POE",
+"1>20",
+"0"
+],
+[
+"EFI/24G 2SFPC -G-PoE",
+"10/100/1000, 24 Electrical  Ports  + 2 Optical Ports , SFP 1,25G, Gerenciável,  POE",
+"1>20",
+"0"
+],
+[
+"EFI/24G 2SFPJ -G-PoE",
+"10/100/1000, 24 Electrical  Ports  + 2 Optical Ports , SFP 10G, Gerenciável,  POE",
+"1>20",
+"0"
+],
+[
+"EFI/24G 2SFPC-G  POE- U-1",
+"10/100/1000, 24 Electrical  Ports   + 2 Optical Ports , SFP 1,25G, Gerenciável,POE, 1Uplink",
+"1>20",
+"0"
+],
+[
+"EFI/24G 2SFPJ -G  POE -U-1",
+"10/100/1000, 24 Electrical  Ports   + 2 Optical Ports , SFP 10G, Gerenciável, POE, 1Uplink",
+"1>20",
+"0"
+],
+[
+"EFI/24G 2SFPC-G  POE- U-2",
+"10/100/1000, 24 Electrical  Ports   + 2 Optical Ports , SFP 1,25G, Gerenciável,POE, 2Uplink",
+"1>20",
+"0"
+],
+[
+"EFI/24G 2SFPJ -G  POE -U-2",
+"10/100/1000, 24 Electrical  Ports   + 2 Optical Ports , SFP 10G, Gerenciável, POE, 2Uplink",
+"1>20",
+"0"
+],
+[
+"24 Electrical  Ports - 4  optical ports"
+],
+[
+"EFI/24G 4SFPC",
+"10/100/1000, 24 Electrical  Ports  + 4 Optical Ports , SFP 1,45G",
+"1>20",
+"0"
+],
+[
+"EFI/24G 4SFPJ",
+"10/100/1000, 24 Electrical  Ports  + 4 Optical Ports , SFP 10G",
+"1>20",
+"0"
+],
+[
+"EFI/24G 4SFPC -G",
+"10/100/1000, 24 Electrical  Ports  + 4 Optical Ports , SFP 1,45G, Gerenciável",
+"1>20",
+"0"
+],
+[
+"EFI/24G 4SFPJ - G",
+"10/100/1000, 24 Electrical  Ports  + 4 Optical Ports , SFP 10G, Gerenciável",
+"1>20",
+"0"
+],
+[
+"EFI/24G 4SFPC -PoE",
+"10/100/1000, 24 Electrical  Ports  + 4 Optical Ports , SFP 1,45G, POE",
+"1>20",
+"0"
+],
+[
+"EFI/24G 4SFPJ -PoE",
+"10/100/1000, 24 Electrical  Ports  + 4 Optical Ports , SFP 10G, POE",
+"1>20",
+"0"
+],
+[
+"EFI/24G 4SFPC -G-PoE",
+"10/100/1000, 24 Electrical  Ports  + 4 Optical Ports , SFP 1,45G, Gerenciável,  POE",
+"1>20",
+"0"
+],
+[
+"EFI/24G 4SFPJ -G-PoE",
+"10/100/1000, 24 Electrical  Ports  + 4 Optical Ports , SFP 10G, Gerenciável,  POE",
+"1>20",
+"0"
+],
+[
+"EFI/24G 4SFPC-G  POE- U-1",
+"10/100/1000, 24 Electrical  Ports   + 4 Optical Ports , SFP 1,45G, Gerenciável,POE, 1Uplink",
+"1>20",
+"0"
+],
+[
+"EFI/24G 4SFPJ -G  POE -U-1",
+"10/100/1000, 24 Electrical  Ports   + 4 Optical Ports , SFP 10G, Gerenciável, POE, 1Uplink",
+"1>20",
+"0"
+],
+[
+"EFI/24G 4SFPC-G  POE- U-2",
+"10/100/1000, 24 Electrical  Ports   + 4 Optical Ports , SFP 1,45G, Gerenciável,POE, 2Uplink",
+"1>20",
+"0"
+],
+[
+"EFI/24G 4SFPJ -G  POE -U-2",
+"10/100/1000, 24 Electrical  Ports   + 4 Optical Ports , SFP 10G, Gerenciável, POE, 2Uplink",
+"1>20",
+"0"
+],
+[
+"Switch 48 Electrical  Ports",
+"",
+"",
+"",
+"48G"
+],
+[
+"EFI/48G",
+"10/100/1000, 48 Electrical  Ports",
+"1>20",
+"0"
+],
+[
+"48 Electrical  Ports - 2  optical ports"
+],
+[
+"EFI/48G 2SFPC",
+"10/100/1000, 48 Electrical  Ports  + 2 Optical Ports , SFP 1,25G",
+"1>20",
+"0"
+],
+[
+"EFI/48G 2SFPJ",
+"10/100/1000, 48 Electrical  Ports  + 2 Optical Ports , SFP 10G",
+"1>20",
+"0"
+],
+[
+"EFI/48G 2SFPC -G",
+"10/100/1000, 48 Electrical  Ports  + 2 Optical Ports , SFP 1,25G, Gerenciável",
+"1>20",
+"0"
+],
+[
+"EFI/48G 2SFPJ - G",
+"10/100/1000, 48 Electrical  Ports  + 2 Optical Ports , SFP 10G, Gerenciável",
+"1>20",
+"0"
+],
+[
+"EFI/48G 2SFPC -PoE",
+"10/100/1000, 48 Electrical  Ports  + 2 Optical Ports , SFP 1,25G, POE",
+"1>20",
+"0"
+],
+[
+"EFI/48G 2SFPJ -PoE",
+"10/100/1000, 48 Electrical  Ports  + 2 Optical Ports , SFP 10G, POE",
+"1>20",
+"0"
+],
+[
+"EFI/48G 2SFPC -G-PoE",
+"10/100/1000, 48 Electrical  Ports  + 2 Optical Ports , SFP 1,25G, Gerenciável,  POE",
+"1>20",
+"0"
+],
+[
+"EFI/48G 2SFPJ -G-PoE",
+"10/100/1000, 48 Electrical  Ports  + 2 Optical Ports , SFP 10G, Gerenciável,  POE",
+"1>20",
+"0"
+],
+[
+"EFI/48G 2SFPC-G  POE- U-1",
+"10/100/1000, 48 Electrical  Ports   + 2 Optical Ports , SFP 1,25G, Gerenciável,POE, 1Uplink",
+"1>20",
+"0"
+],
+[
+"EFI/48G 2SFPJ -G  POE -U-1",
+"10/100/1000, 48 Electrical  Ports   + 2 Optical Ports , SFP 10G, Gerenciável, POE, 1Uplink",
+"1>20",
+"0"
+],
+[
+"EFI/48G 2SFPC-G  POE- U-2",
+"10/100/1000, 48 Electrical  Ports   + 2 Optical Ports , SFP 1,25G, Gerenciável,POE, 2Uplink",
+"1>20",
+"0"
+],
+[
+"EFI/48G 2SFPJ -G  POE -U-2",
+"10/100/1000, 48 Electrical  Ports   + 2 Optical Ports , SFP 10G, Gerenciável, POE, 2Uplink",
+"1>20",
+"0"
+],
+[
+"48 Electrical  Ports - 4  optical ports"
+],
+[
+"EFI/48G 4SFPC",
+"10/100/1000, 48 Electrical  Ports  + 4 Optical Ports , SFP 1,45G",
+"1>20",
+"0"
+],
+[
+"EFI/48G 4SFPJ",
+"10/100/1000, 48 Electrical  Ports  + 4 Optical Ports , SFP 10G",
+"1>20",
+"0"
+],
+[
+"EFI/48G 4SFPC -G",
+"10/100/1000, 48 Electrical  Ports  + 4 Optical Ports , SFP 1,45G, Gerenciável",
+"1>20",
+"0"
+],
+[
+"EFI/48G 4SFPJ - G",
+"10/100/1000, 48 Electrical  Ports  + 4 Optical Ports , SFP 10G, Gerenciável",
+"1>20",
+"0"
+],
+[
+"EFI/48G 4SFPC -PoE",
+"10/100/1000, 48 Electrical  Ports  + 4 Optical Ports , SFP 1,45G, POE",
+"1>20",
+"0"
+],
+[
+"EFI/48G 4SFPJ -PoE",
+"10/100/1000, 48 Electrical  Ports  + 4 Optical Ports , SFP 10G, POE",
+"1>20",
+"0"
+],
+[
+"EFI/48G 4SFPC -G-PoE",
+"10/100/1000, 48 Electrical  Ports  + 4 Optical Ports , SFP 1,45G, Gerenciável,  POE",
+"1>20",
+"0"
+],
+[
+"EFI/48G 4SFPJ -G-PoE",
+"10/100/1000, 48 Electrical  Ports  + 4 Optical Ports , SFP 10G, Gerenciável,  POE",
+"1>20",
+"0"
+],
+[
+"EFI/48G 4SFPC-G  POE- U-1",
+"10/100/1000, 48 Electrical  Ports   + 4 Optical Ports , SFP 1,45G, Gerenciável,POE, 1Uplink",
+"1>20",
+"0"
+],
+[
+"EFI/48G 4SFPJ -G  POE -U-1",
+"10/100/1000, 48 Electrical  Ports   + 4 Optical Ports , SFP 10G, Gerenciável, POE, 1Uplink",
+"1>20",
+"0"
+],
+[
+"EFI/48G 4SFPC-G  POE- U-2",
+"10/100/1000, 48 Electrical  Ports   + 4 Optical Ports , SFP 1,45G, Gerenciável,POE, 2Uplink",
+"1>20",
+"0"
+],
+[
+"EFI/48G 4SFPJ -G  POE -U-2",
+"10/100/1000, 48 Electrical  Ports   + 4 Optical Ports , SFP 10G, Gerenciável, POE, 2Uplink",
+"1>20",
+"0"
+]
+]
+},
+"国内":{
+"state":"visible",
+"rows":[
+[
+"No",
+"LAYER",
+"Ports",
+"Desc.",
+"Price"
+],
+[
+"1",
+"Layer 2+",
+"28*SFP + 8*GE",
+"28*100/1000Base-X SFP fiber slot ports & 8*10/100/1000Base-T RJ45 ports."
+],
+[
+"2",
+"Layer 2+",
+"12*SFP + 2*GE",
+"2*10/100/1000Base-T RJ45 ports & 12*100/1000Base-X SFP fiber slot ports"
+],
+[
+"3",
+"Layer 2+",
+"24*GE + 4*SFP",
+"24*10/100/1000Base-T RJ45 ports & 4*100/1000Base-X SFP fiber slot ports"
+],
+[
+"4",
+"Layer 2+",
+"48*GE + 4*SFP",
+"48*10/100/1000Base-T RJ45 ports & 4*100/1000Base-X SFP fiber slot ports"
+],
+[
+"5",
+"Layer 2+",
+"24*SFP + 8*GE + 4*SFP+",
+"24*100/1000M SFP fiber slot ports & 8*10/100/1000Base-T RJ45 ports & 4*1/10G SFP+ fiber ports."
+],
+[
+"6",
+"Layer 2+ PoE",
+"8*GE POE + 2*SFP (130W)",
+"8*10/100/1000Base-T RJ45 ports & 2*100/1000Base-X SFP fiber slot ports: Port 1-8 can support IEEE802.3af/at standard PoE power supply."
+],
+[
+"7",
+"Layer 2+ PoE",
+"16*GE POE + 4*SFP (250W)",
+"16*10/100/1000Base-T RJ45 ports & 4*100/1000Base-X SFP fiber slot ports: Ports 1-16 can support IEEE802.3af/at standard PoE power supply."
+],
+[
+"8",
+"Layer 2+ PoE",
+"24*GE POE + 4*SFP (400W)",
+"24*10/100/1000Base-T RJ45 ports & 4*100/1000Base-X SFP fiber slot ports: Ports 1-24 can support IEEE802.3af/at standard PoE power supply."
+],
+[
+"9",
+"Layer 2+ PoE",
+"48*GE POE + 4*SFP (600W)",
+"48*10/100/1000Base-T RJ45 ports & 4*100/1000Base-X SFP fiber slot ports: Ports 1-48 can support IEEE802.3af/at standard PoE power supply."
+],
+[
+"10",
+"Layer 3 PoE",
+"24*GE POE + 4*SFP+ (400W)",
+"24*10/100/1000Base-T RJ45 ports & 4*1/10G SFP+ fiber slot ports: Ports 1-24 can support IEEE802.3af/at standard PoE power supply."
+],
+[
+"11",
+"Layer 3 PoE",
+"48*GE POE + 4*SFP+ (600W)",
+"48*10/100/1000Base-T RJ45 ports & 4*1/10G SFP+ fiber slot ports: Ports 1-48 can support IEEE802.3af/at standard PoE power supply."
+],
+[
+"12",
+"Layer 3+",
+"24*GE + 4*SFP+",
+"24*10/100/1000Base-T RJ45 ports & 4*1/10G SFP+ fiber slot ports"
+],
+[
+"13",
+"Layer 3+",
+"24*GE + 8*SFP + 4*SFP+",
+"24*10/100/1000Base-T RJ45 ports & 8*100/1000Base-X SFP ports & 4*1/10G SFP+ fiber ports"
+],
+[
+"14",
+"Layer 3+",
+"48*GE + 4*SFP+",
+"48*10/100/1000Base-T RJ45 ports & 4*1/10G SFP+ fiber slot ports"
+],
+[
+"15",
+"Layer 3+",
+"24*GE + 4*SFP+",
+"24*10/100/1000Base-T RJ45 ports & 4*1/10G SFP+ fiber ports"
+],
+[
+"16",
+"Layer 3+",
+"48*GE + 4*SFP+",
+"48*10/100/1000Base-T RJ45 ports & 4*1/10G SFP+ fiber slot ports"
+],
+[
+"17",
+"Layer 3+ PoE",
+"24*GE POE + 4*SFP+ (400W)",
+"24*10/100/1000Base-T RJ45 ports & 4*1/10G SFP+ fiber slot ports: Ports 1-24 can support IEEE802.3af/at PoE standard."
+],
+[
+"18",
+"Layer 3+ PoE",
+"48*GE POE + 4*SFP+ (600W）",
+"48*10/100/1000Base-T RJ45 ports & 4*1/10G SFP+ fiber slot ports: Ports 1-48 can support IEEE802.3af/at PoE standard."
+],
+[
+"19",
+"Advanced Layer 3+",
+"24*SFP+ + 4*QSFP28",
+"24*1/10G SFP+ Ports & 4*40/100G QSFP28 Ports"
+],
+[
+"20",
+"Industrial Layer 2+",
+"8*GE + 2*SFP",
+"8*10/100/1000Base-T RJ45 ports & 2*100/1000Base-X SFP fiber ports."
+],
+[
+"21",
+"Industrial Layer 2+ PoE",
+"8*GE POE + 2*SFP",
+"8*10/100/1000Base-T RJ45 ports & 2*100/1000Base-X SFP fiber slot ports: PortS 1-8 can supports IEEE 802.3af/at standard POE power supply.",
+"",
+"Traffic Shapping"
+],
+[
+"22",
+"Industrial Layer 2+ PoE",
+"8*GE POE + 2*SFP",
+"8*10/100/1000M PoE ports & 2*100/1000M SFP fiber ports: Ports 1-8 can support IEEE802.3af/at standard POE."
+],
+[
+"23",
+"Industrial Layer 2+ PoE",
+"8*GE POE + 2*GE+4*SFP",
+"8*10/100/1000M PoE ports & 2*10/100/1000M RJ45 ports & 4*100/1000M SFP fiber slot ports; Ports 1-8 can supports IEEE802.3af/at standard POE power supply.",
+"",
+"Traffic Shapping"
+],
+[
+"24",
+"Industrial Layer 3+ PoE",
+"8*GE POE + 4*GE + 4*SFP+",
+"8*10/100/1000M PoE ports & 2*10/100/1000M RJ45 ports  & 4*1/10G SFP+ fiber ports: Ports 1-8 can support IEEE802.3af/at PoE standard."
+],
+[
+"25",
+"Industrial WEB Managed PoE",
+"8*FE POE + 2*GE/SFP (Combo)",
+"8*10/100Base-TX RJ45 ports & 2*100/1000Base-T(X) combo ports: Ports 1-8 can support IEEE 802.3af/at standard PoE power supply."
+],
+[
+"26",
+"Industrial UNMANAGED PoE",
+"8*GE POE + 2*SFP",
+"8*10/100/1000Base-T RJ45 ports & 2*1000Base-X uplink SFP slot ports: Ports 1-8 can support IEEE802.3af/at PoE standard."
+],
+[
+"27",
+"UNMANAGED PoE",
+"8*GE POE + 2*GE (120W)",
+"8*10/100/1000Base-T PoE ports & 2*10/100/1000Base-T uplink RJ45 ports; Port 1-8 can support IEEE802.3af/at standard PoE power supply."
+],
+[
+"28",
+"UNMANAGED PoE",
+"8*FE POE + 2*GE + 2*SFP (130W)",
+"8*10/100Base-TX PoE ports & 2*10/100/1000Base-T RJ45 ports & 2*1000Base-X SFP fiber slot ports: Ports 1-8 can support IEEE802.3af/at standard PoE power supply."
+],
+[
+"29",
+"UNMANAGED PoE",
+"16*FE POE + 2*GE/SFP(Combo)(250W)",
+"16*10/100M PoE ports & 2*10/100/1000M uplink RJ45 ports & 2*1000M uplink SFP combo ports: Ports 1-16 can support IEEE802.3af/at standard PoE power supply."
+],
+[
+"30",
+"UNMANAGED PoE",
+"24*FE POE + 2*GE/SFP(Combo)(400W)",
+"24*10/100M PoE ports & 2*10/100/1000M uplink RJ45 ports and 2*1000M uplink SFP combo ports: Ports 1-24 can support IEEE802.3af/at standard PoE power supply."
+],
+[
+"31",
+"UNMANAGED PoE",
+"8*GE POE + 2*GE+1*SFP (130W)",
+"8*10/100/1000M RJ45 ports & 2*10/100/1000M uplink RJ45 ports & 1*1000M SFP slot port: Ports 1-8 can support IEEE802.3af/at standard PoE power supply."
+],
+[
+"32",
+"UNMANAGED PoE",
+"16*GE POE + 2*SFP (250W)",
+"16*10/100/1000M RJ45 ports & 2*1000M SFP slot ports: Ports 1-16 can support IEEE802.3af/at standard PoE power supply."
+],
+[
+"33",
+"UNMANAGED PoE",
+"24*GE POE + 2*GE+2*SFP(400W)",
+"24*10/100/1000M RJ45 ports & 2*10/100/1000M uplink RJ45  ports & 2*1000M SFP slot ports: Ports 1-24 can support IEEE802.3af/at standard PoE power supply."
+],
+[
+"",
+"",
+"Notes:"
+],
+[
+"",
+"",
+"Layer 2+",
+"Support IPv4/ IPv6 Static routing/ default routing max 128 entries"
+],
+[
+"",
+"",
+"Layer 3",
+"Support IPv4/ IPv6 static routing, (max 128 entries); RIPv1/v2, RIPng, OSPFv1/v2, OSPFv3"
+],
+[
+"",
+"",
+"Layer 3+",
+"Support IPV4/IPV6 static route/default route (max 128 entries); IPV4/v6 dynamic routing; RIPv1/v2/ng OSPFv2/v3 BGP4/BGP+"
+],
+[
+"",
+"",
+"Advanced Layer 3+",
+"Support IPv4/IPv6 static routing, RIP v1/v2/ng, OSPFv2/v3, BGP4/BGP+, IS-IS, BEIGRP, Policy-based routing, BFD for OSPF and BGP, Manual tunnel, ISATAP tunnel, 6to4 tunnel, Equal-cost routing to achieve load balancing"
+]
+]
+},
+"8电口替代":{
+"state":"visible",
+"rows":[
+[
+"Atop",
+"EHG2308",
+"https://www.atoponline.com/industrial-networking-computing/products/industrial-ethernet/unmanaged-switches/ehg2308/"
+],
+[
+"Wago",
+"852-1102",
+"https://www.wago.com/sg/automation-technology/8-port-industrial-switch"
+],
+[
+"CTCU",
+"IGS-800C",
+"https://www.ctcu.com/en/product/IGS-800C.html"
+],
+[
+"Tripplite",
+"NFI-U08-2",
+"https://tripplite.eaton.com/8-port-industrial-network-switch-10-100-mbps-wall-mount~NFIU082"
+],
+[
+"Red Lion",
+"SLX-8ES-1",
+"https://www.redlion.net/product/slx-8es-unmanaged-industrial-ethernet-switch"
+],
+[
+"Antaira",
+"LNX-C800G-T",
+"https://www.antaira.com/products/compact-devices-industrial-ethernet-switches/LNX-C800G-T"
+]
+]
+},
+"2光6替代":{
+"state":"visible",
+"rows":[
+[
+"Red Lion",
+"SLX-8MS-5SCL",
+"https://www.redlion.net/product/slx-8ms-5scl-managed-industrial-ethernet-switch-scl-60km"
+],
+[
+"Antaira",
+"LNP-0802-M-24-T",
+"https://www.antaira.com/products/10-100-Mbps-Low-Voltage-Unmanaged-PoE/LNP-0802-M-24-T"
+]
+]
+},
+"之前问的_常总回复":{
+"state":"visible",
+"rows":[
+[
+"Network Management Features"
+],
+[
+"Interface",
+"IEEE802.3X (Full-duplex)"
+],
+[
+"",
+"Port temperature protection setting"
+],
+[
+"",
+"No connection port automatic sleep"
+],
+[
+"",
+"Port green Ethernet Energy-saving setting"
+],
+[
+"",
+"Broadcast storm control based on port speed"
+],
+[
+"",
+"SFP+ optical port DDMI real-time digital diagnosis"
+],
+[
+"",
+"The speed limit of the message flow in the access port, minimum particle size is 64Kbps."
+],
+[
+"Layer 3 Features",
+"IPV4 Equal Cost Routing"
+],
+[
+"",
+"NG protocol, maximum 1000 entries"
+],
+[
+"",
+"ARP protocol, maximum 1000 entries"
+],
+[
+"",
+"Pingv6, Telnetv6, TFTPv6, DNSv6, ICMPv6"
+],
+[
+"",
+"IPV4/IPV6 VRRP, the maximum group is 255"
+],
+[
+"",
+"IPV4/IPV6 VLANIF interface supports up to 128"
+],
+[
+"",
+"IPV4/IPV6 static route/default route supports up to 128 entries"
+],
+[
+"",
+"IPV4 dynamic routing, RIPv1/v2, OSPFv2, BGP4+, 4000 routing entries"
+],
+[
+"",
+"IPV6 dynamic routing OSPFv3, BGP+, RIPng, IPV6 management, 1000 routing entries"
+],
+[
+"",
+"L3 network management function, IPV4/IPV6 dual-stack management"
+],
+[
+"",
+"L3 routing and forwarding, support communication between different network segments and different VLAN"
+],
+[
+"VLAN",
+"Voice VLAN, QinQ configuration, IEEE802.1q"
+],
+[
+"",
+"VLAN based on MAC, VLAN based on the protocol"
+],
+[
+"",
+"4K VLAN based on port, Port configuration of Access, Trunk, Hybrid."
+],
+[
+"Port Aggregation",
+"LACP, Static aggregation"
+],
+[
+"",
+"Max 8 aggregation groups and 8 ports per group."
+],
+[
+"Spanning Tree",
+"STP (IEEE802.1d), RSTP (IEEE802.1w), MSTP (IEEE802.1s)"
+],
+[
+"Industrial Ring Network Protocol",
+"250 Ring at most, Max 250 devices per ring."
+],
+[
+"",
+"G.8032 (ERPS), Recovery time less than 20ms"
+],
+[
+"Multicast",
+"IGMP Snooping v1/v2, Max 1024 multicast groups"
+],
+[
+"",
+"MLD Snooping v1/v2, Multicast VLAN, Fast log out"
+],
+[
+"Port Mirroring",
+"Bidirectional data mirroring based on port"
+],
+[
+"QoS",
+"Diff-Serv QoS, Priority Mark/Remark"
+],
+[
+"",
+"Queue Scheduling Algorithm (SP, WRR, SP+WRR)"
+],
+[
+"",
+"Flow-based Rate Limiting, Flow-based Packet Filtering"
+],
+[
+"",
+"8*Output queues of each port, 802.1p/DSCP priority mapping"
+],
+[
+"ACL",
+"Port-based Issuing ACL, ACL based on port and VLAN"
+],
+[
+"",
+"L2 to L4 packet filtering, matching first 80 bytes message. Provide ACL based on MAC, Destination MAC address, IP Source, Destination IP, IP Protocol Type, TCP/UDP Port, TCP/UDP Port Range, and VLAN, etc."
+],
+[
+"Security",
+"Broadcast storm control, Backup for host datum"
+],
+[
+"",
+"SSH 2.0, SSL, Port isolation, ARP message speed limit"
+],
+[
+"",
+"AAA & RADIUS, MAC learning limit, Mac black holes"
+],
+[
+"",
+"User hierarchical management and password protection"
+],
+[
+"",
+"IP-MAC-VLAN-Port binding, ARP inspection, Anti-DoS attack"
+],
+[
+"",
+"IP source protection, IEEE802.1X & MAC address authentication"
+],
+[
+"DHCP",
+"DHCP Client, DHCP Snooping, DHCP Server, DHCP Relay"
+],
+[
+"Management",
+"NMS platform cluster management (LLDP+SNMP)"
+],
+[
+"",
+"Download & Management on FTP, TFTP, Xmodem, SFTP"
+],
+[
+"",
+"One-key recovery, Cable Diagnose, LLDP, SNMP V1/V2/V3"
+],
+[
+"",
+"NTP, System work log, Ping Test, CPU instant utilization status view"
+],
+[
+"",
+"Web Management (HTTPS), Console/AUX Modem/Telnet/SSH2.0 CLI"
+],
+[
+"System",
+"Category 5 Ethernet network cable"
+],
+[
+"",
+"Web browser: Mozilla Firefox 2.5 or higher, Google browser chrome V42 or higher, Microsoft Internet Explorer10 or later"
+],
+[
+"",
+"TCP/IP, network adapter, and network operating system (such as Microsoft Windows, Linux, or Mac OS X) installed on each computer in a network"
+]
+]
+}
+},
+"extracted_at":"2026-10-23T05:01:24Z"
+}

@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_SEO__stc-448xggm-front.jpg__f2fb92a8",
+"path":"Extra_Info/Saga SEO/stc-448xggm-front.jpg",
+"name":"stc-448xggm-front.jpg",
+"ext":".jpg",
+"bytes":49463,
+"sha256":"f2fb92a8356ce8d5a8c77023e918154bf516bdfda66dc8bdcedab495412a69cc",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":800,
+"height":800,
+"mode":"RGB",
+"thumb_bytes":5348
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:01:46Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__stc-448xggm-front.jpg__f2fb92a8.jpg"
+}

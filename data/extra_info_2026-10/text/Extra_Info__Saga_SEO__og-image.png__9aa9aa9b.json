@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_SEO__og-image.png__9aa9aa9b",
+"path":"Extra_Info/Saga SEO/og-image.png",
+"name":"og-image.png",
+"ext":".png",
+"bytes":20722,
+"sha256":"9aa9aa9b6882f8265daceaee25ffdaf0c3f8b422396198b67a03bf9415739b12",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1200,
+"height":630,
+"mode":"RGBA",
+"thumb_bytes":1349
+},
+"warnings":[],
+"chars":4,
+"text":"SAGA",
+"extracted_at":"2026-10-23T05:01:46Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__og-image.png__9aa9aa9b.jpg"
+}

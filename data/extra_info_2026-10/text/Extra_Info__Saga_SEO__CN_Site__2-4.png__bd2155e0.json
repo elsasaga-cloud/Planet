@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_SEO__CN_Site__2-4.png__bd2155e0",
+"path":"Extra_Info/Saga SEO/CN Site/2-4.png",
+"name":"2-4.png",
+"ext":".png",
+"bytes":1287878,
+"sha256":"bd2155e02d12c739f2228740817b51a06b267ffdbc796d6742c5c6de46fd6c63",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1254,
+"height":1254,
+"mode":"RGB",
+"thumb_bytes":20865
+},
+"warnings":[],
+"chars":724,
+"text":"Field Devices (24 x 10/100/1000Base-\nIP Camera\nWireless AP\nIP Phone\nPLC\nr |\n和\na ,\nSy\nIndustrial PC\nDigital /O\nSaga Telecom\n10/100/1000Base-T\nSTI-4240XGGM\nL3 Managed Industrial Switch\n1G/2.5G/10G\nSFP+\n1G/2.5G/10G\nSFP+\n1G/2.5G/10G\nSFP+\n1G/2.5G/10G\nSFP+\nNMS / SCADA\nTemp-Humidity Sensor\nL3 Switch / Router\nNetwork Management\nMonitoring Platform\nLa 1 f\n1\n| Digital input DigitalOutput。。 Alarm/Relay | | Temp-Humidity Environment\n| (0) (00) 1 1 Sensor (RS485) Monitoring\n1 ~ 1\nI\nH 1\n| 1 | 人\n1 ! 1 目 cm\n| | 4 | Real-time\n1 12v~30V DC 2A@30V DC | | We\nSe A a I aa J SOS a a altar pg Seed has\n一 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 二 一 二 ~ 二 ~\n一 一 /01 Serial Connection",
+"extracted_at":"2026-10-23T05:02:08Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__CN_Site__2-4.png__bd2155e0.jpg"
+}

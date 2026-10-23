@@ -1,0 +1,32 @@
+{
+"id":"Extra_Info__STH__旧版英文规格书__S5500_Datasheet_V4.3_EN__规格书规划.docx__c87000a2",
+"path":"Extra_Info/STH/旧版英文规格书/S5500_Datasheet_V4.3_EN/规格书规划.docx",
+"name":"规格书规划.docx",
+"ext":".docx",
+"bytes":20162,
+"sha256":"c87000a2accef6154d3ec1804ff4d2d66ac0001dae664351afb8c18c6e773c0d",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"黄玉芳",
+"last_modified_by":"黄玉芳",
+"created":"2024-07-16T09:09:00+00:00",
+"modified":"2024-07-18T06:10:41+00:00",
+"paragraphs":1,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"chars":315,
+"text":"规格书规划\n软件中英文\n1. HOS 1套 （以林开发布的版本为准）\n适用型号: 5600XH/7500\n目前在不断更新中。\n\n\n2. Centec OS CTC7132   1套（以盛科发布的为准）\n适用型号：xxx\n\n\n3. CentecOS CTC8180  1套 （以盛科发布的为准）\n适用型号: XXX\n\n\n4. Centec CTC9620 1套 （以盛科发布的为准）\n适用型号：xxx\n\n5. Centec CTC9280 1套 （以盛科发布的为准）\n\n硬件按照系列命名，且SI/EI放在一个硬件规格书里。\n\n\n* 描述+硬件放在同一个规格书中\n注明支持的License 和 支持的SDVoE\n\n* 软件单独一个规格",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"规格书规划\n软件中英文\n1. HOS 1套 （以林开发布的版本为准）\n适用型号: 5600XH/7500\n目前在不断更新中。\n\n\n2. Centec OS CTC7132   1套（以盛科发布的为准）\n适用型号：xxx\n\n\n3. CentecOS CTC8180  1套 （以盛科发布的为准）\n适用型号: XXX\n\n\n4. Centec CTC9620 1套 （以盛科发布的为准）\n适用型号：xxx\n\n5. Centec CTC9280 1套 （以盛科发布的为准）\n\n硬件按照系列命名，且SI/EI放在一个硬件规格书里。\n\n\n* 描述+硬件放在同一个规格书中\n注明支持的License 和 支持的SDVoE\n\n* 软件单独一个规格"
+}
+],
+"extracted_at":"2026-10-23T05:05:30Z"
+}

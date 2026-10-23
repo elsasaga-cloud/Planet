@@ -1,0 +1,719 @@
+{
+"id":"Extra_Info__STH__STH1G_Series.pptx__cb908884",
+"path":"Extra_Info/STH/STH1G Series.pptx",
+"name":"STH1G Series.pptx",
+"ext":".pptx",
+"bytes":9129444,
+"sha256":"cb908884f1c96c090667e7b1697c02a6c1f3369bd698dcbe1fb85df3eaa44101",
+"source":"Extra_Info.zip",
+"method":"python-pptx",
+"status":"ok",
+"meta":{
+"slides":10,
+"pictures":5
+},
+"warnings":[],
+"chars":11370,
+"text":"[slide 1]\nSTH1G SERIES SWITCHES\nDATASHEET\nHigh Performance Enterprise and Campus Network Switch\nProduct Overview\nThe STH1G Series switches are designed on a domestic new generation switch Chip, which is called VastLakes Series Chip platform .\nWith 48 x 1G or 24 x 1G high speed ports and rich features, these switches will perfectly meets the requirements of Metro, Enterprise and campus networks.\nKey features of the STH1G Series Switches\nSupport MPLS Features\nVaried port types support 100M/1G/25G/40G ports to meet different network requirement\nImplementing Vxlan and BGP protocols to build EVPN applications for Enterprise and Campus scenario.\nSwitch-to-switch encryption using MACsec (Media Access Control Security) AES-CMAC.\nPrecision Timing Protocol.\nRich L2/L3 features like IPv6, OSPF, BGP, PIM, etc.\nThe STH1G Series switches provide various power supply solutions for customers choosing,\nfixed single power supply, fixed redundant power supplies, and redundant hot-swappable\npower supplies (AC and DC are both available).\nThe Fan solutions also have two bays with\nField replaceable fan modules and build in fans.\nGenerally, air flow of STH1G Series is front\nto rear (AFO), and some of models can do customization of rear to front (AFI) airflow.\nTable 1: Feasible PSU and airflow of STH1G Series\nVersion: V1.3\nRelease Date: 2025/12/25\nItems\tAC\tDC\tPoE Port\tAFO\tAFI\tPower Input\tFAN\nSTH-2QX4DX48GP-HSI\t◯\t◯\t48\t◯\tX\t2\t2\n\n[slide 2]\nThe STH1G Series switches support varied management ways, include console port / in-band network ports / out-of-band network port. Support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, SSL, etc. to ensure security of management.\nMoreover, leveraging its profound technical expertise and in-depth understanding of campus and enterprise networking needs, Saga Telecom has launched the Da Hu Cloud Management System (DHCS).\nIt enhances network management and maintenance efficiency, reduces costs, elevates management intelligence, and delivers a faster, smarter, more secure and reliable network to better meet user requirements.\nItems\tAC\tDC\tPoE Ports\tAFO\tAFI\tPower Input\tFAN\nSTH-2QX4DX48GP-SFI\t◯\tX\t48\t◯\tX\t1\t4\nSTH-2QX4DX48GE-SFI\t◯\tX\t0\t◯\tX\t1\t4\nSTH-2QX4DX48GE-HSI\t◯\t◯\t0\t◯\t◯\t2\t2\nSTH-2QX4DX24GP-HSI\t◯\t◯\t24\t◯\t◯\t2\t2\nSTH-2QX4DX24GP-SFI\t◯\tX\t24\t◯\tX\t1\t4\nSTH-2QX4DX24GE-SFI\t◯\tX\t0\t◯\tX\t1\t4\nSTH-2QX4DX24GE-HSI\t◯\t◯\t0\t◯\t◯\t2\t2\n\n[slide 3]\nVisual WEB UI\nSTOS allows you to quickly configure common configuration items using a visual WEB UI, which lowers the application threshold for users.\nThe STH1G family of Ethernet switches consists of the following models:\nModels\tEthernet Ports\tManagement\tPSU 1/PSU 2\tCooling\nSTH-2QX4DX48GP-HSI\t48 x 10/100/1000Mb BaseT(PoE++ 90W) + 4 x 25G SFP28 + 2 x 40G QSFP+\tConsole: RJ45 RS232 \nEthernet: 1G Port\t1200W AC/1200W AC hot-swappable Modules\t2 x hot-swappable Fan Modules (Front to Rear airflow)\nSTH-2QX4DX48GP-SFI\t48 x 10/100/1000Mb BaseT(PoE+ 30W)  + 4 x 25G SFP28 + 2 x 40G QSFP+\tConsole: RJ45 RS232 \nEthernet: 1G Port\tFixed one power supply\t4 x fixed Fans (Front to Rear airflow)\nSTH-2QX4DX48GE-HSI\t48 x 10/100/1000Mb BaseT + 4 x 25G SFP28 + 2 x 40G QSFP+\tConsole: RJ45 RS232 \nEthernet: 1G Port\t120W AC/120W AC hot-swappable Modules\t2 x hot-swappable Fan Modules (Front to Rear airflow)\nSTH-2QX4DX48GE-SFI\t48 x 10/100/1000Mb BaseT + 4 x 25G SFP28 + 2 x 40G QSFP+\tConsole: RJ45 RS232 \nEthernet: 1G Port\tFixed one power supply\t4 x fixed Fans (Front to Rear airflow)\n\n[slide 4]\nModels\tEthernet Ports\tManagement\tPSU 1/PSU 2\tCooling\nSTH-2QX4DX24GP-HSI\t24 x 10/100/1000Mb BaseT(PoE++ 90W) + 4 x 25G SFP28 + 2 x 40G QSFP+\tConsole: RJ45 RS232 \nEthernet: 1G Port\t500W AC/500W AC hot-swappable Modules\t2 x hot-swappable Fan Modules (Front to Rear airflow)\nSTH-2QX4DX24GP-SFI\t24 x 10/100/1000Mb BaseT(PoE+ 30W) + 4 x 25G SFP28 + 2 x 40G QSFP+\tConsole: RJ45 RS232 \nEthernet: 1G Port\tFixed one power supply\t4 x fixed Fans (Front to Rear airflow)\nSTH-2QX4DX24GE-HSI\t24 x 10/100/1000Mb BaseT + 4 x 25G SFP28 + 2 x 40G QSFP+\tConsole: RJ45 RS232 \nEthernet: 1G Port\t120W AC/120W AC hot-swappable Modules\t2 x hot-swappable Fan Modules (Front to Rear airflow)\nSTH-2QX4DX24GE-SFI\t24 x 10/100/1000Mb BaseT + 4 x 25G SFP28 + 2 x 40G QSFP+\tConsole: RJ45 RS232 \nEthernet: 1G Port\tFixed one power supply\t4 x fixed Fans (Front to Rear airflow)\n\n[slide 5]\nPackage Switch capacity (Gbps)\nSTH-2QX4DX48GP-HSI: 456Gbps (bidirectional)\nSTH-2QX4DX48GP-SFI: 456Gbps (bidirectional)\nSTH-2QX4DX48GE-SFI: 456Gbps (bidirectional)\nSTH-2QX4DX48GE-HSI: 456Gbps (bidirectional)\nSTH-2QX4DX24GP-HSI: 408Gbps(bidirectional)\nSTH-2QX4DX24GP-SFI: 408Gbps(bidirectional)\nSTH-2QX4DX24GE-SFI: 408Gbps(bidirectional)\nSTH-2QX4DX24GE-HSI: 408Gbps(bidirectional)\nLayer 2/Layer 3 Throughput (Mpps)\nSTH-2QX4DX48GP-HSI: 678.53Mpps (bidirectional)\nSTH-2QX4DX48GP-SFI: 678.53Mpps (bidirectional)\nSTH-2QX4DX48GE-SFI: 678.53Mpps (bidirectional)\nSTH-2QX4DX48GE-HSI: 678.53Mpps (bidirectional)\nSTH-2QX4DX24GP-HSI: 607.10Mpps (bidirectional)\nSTH-2QX4DX24GP-SFI: 607.10Mpps (bidirectional)\nSTH-2QX4DX24GE-SFI: 607.10Mpps (bidirectional)\nSTH-2QX4DX24GE-HSI: 607.10Mpps (bidirectional)\nDimensions (W x H x D) with package\nSTH-2QX4DX48GP-HSI: 55.7 x 15 x 49.5cm\nSTH-2QX4DX48GP-SFI: 55.7 x 15 x 49.5cm\nSTH-2QX4DX48GE-SFI: 55.7 x 15 x 49.5cm\nSTH-2QX4DX48GE-HSI: 55.7 x 15 x 49.5cm\nSTH-2QX4DX24GP-HSI: 55.7 x 15 x 49.5cm\nSTH-2QX4DX24GP-SFI: 55.7 x 15 x 49.5cm\nSTH-2QX4DX24GE-SFI: 55.7 x 15 x 49.5cm\nSTH-2QX4DX24GE-HSI: 55.7 x 15 x 49.5cm\nDimensions (W x H x D) without package\nSTH-2QX4DX48GP-HSI: 44.2x 4.4 x 42cm\nSTH-2QX4DX48GP-SFI: 44.2 x 4.4 x 32.1cm\nSTH-2QX4DX48GE-SFI: 44.2 x 4.4 x 32.1cm\nSTH-2QX4DX48GE-HSI: 44.2 x 4.4 x 41cm\nSTH-2QX4DX24GP-HSI: 44.2 x 4.4 x 41cm\nSTH-2QX4DX24GP-SFI: 44.2 x 4.4 x 37.1cm\nSTH-2QX4DX24GE-SFI: 44.2 x 4.4 x 32cm\nSTH-2QX4DX24GE-HSI: 44.2 x 4.4 x 41cm\nWeight (Net Weight/Gross Weight)\nSTH-2QX4DX48GP-HSI: 8.36Kg/10.6Kg\nSTH-2QX4DX48GP-SFI: 5.38Kg/7.62Kg\nSTH-2QX4DX48GE-SFI: 4.09Kg/6.33Kg\nSTH-2QX4DX48GE-HSI: 7.16Kg/9Kg\nSTH-2QX4DX24GP-HSI: 7.36Kg/9.6Kg\nSTH-2QX4DX24GP-SFI: 6.96Kg/9.2Kg\nSTH-2QX4DX24GE-SFI: 3.9Kg/6.14Kg\nSTH-2QX4DX24GE-HSI: 6.67Kg/9Kg\nSTH1G Physical Specifications\nCooling [CFM]-Total Maximum airflow\nSTH-2QX4DX48GP-HSI: 72.78\nSTH-2QX4DX48GP-SFI: 44.30\nSTH-2QX4DX48GE-SFI: 46.48\nSTH-2QX4DX48GE-HSI: 46.48\nSTH-2QX4DX24GP-HSI: 75.27\nSTH-2QX4DX24GP-SFI: 46.48\nSTH-2QX4DX24GE-SFI: 46.48\nSTH-2QX4DX24GE-HSI: 46.48\n\n[slide 6]\nPower consumption\nWorst case, all ports used, line-rate traffic\nSTH-2QX4DX48GP-HSI: 72W\nSTH-2QX4DX48GP-SFI: 86W\nSTH-2QX4DX48GE-SFI: 72W\nSTH-2QX4DX48GE-HSI: 60W\nSTH-2QX4DX24GP-HSI: 54W\nSTH-2QX4DX24GP-SFI: 70W\nSTH-2QX4DX24GE-SFI: 51W\nSTH-2QX4DX24GE-HSI: 60W\nTypical power consumption\nSTH-2QX4DX48GP-HSI: 61W\nSTH-2QX4DX48GP-SFI: 84W\nSTH-2QX4DX48GE-SFI: 69W\nSTH-2QX4DX48GE-HSI: 59W\nSTH-2QX4DX24GP-HSI: 53W\nSTH-2QX4DX24GP-SFI: 69W\nSTH-2QX4DX24GE-SFI: 51W\nSTH-2QX4DX24GE-HSI: 36W\nMTBF\nHSI (Swapable PSU and FAN): ≥90000h (~10.3 Years)\nSFI  (Fixed PSU and FAN): ≥70000h\n(~8.0 Years)\nEnvironmental ranges\nOperating temperature: 0ºC to 40ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90% (No condensation)\nStore Humidity: 5 to 95% (No condensation)\nOperating altitude\nSTH-2QX4DX48GP-HSI: ≤5000m\nSTH-2QX4DX48GP-SFI: ≤5000m\nSTH-2QX4DX48GE-SFI: ≤2000m\nSTH-2QX4DX48GE-HSI: ≤5000m\nSTH-2QX4DX24GP-HSI: ≤5000m\nSTH-2QX4DX24GP-SFI: ≤5000m\nSTH-2QX4DX24GE-SFI: ≤2000m\nSTH-2QX4DX24GE-HSI: ≤5000m\nTemperature alarm\nAlarm threshold: 50ºC\nPoE Power Budget\nSTH-2QX4DX48GP-HSI: 2200W\nSTH-2QX4DX48GP-SFI: 780W\nSTH-2QX4DX24GP-HSI: 740W\nSTH-2QX4DX24GP-SFI: 380W\nCPU\nDual-core processor, ARM A53 on all models\nMemory\neMMc: 8GB on all models\nDRAM: 2GB on all models\n\n[slide 7]\nSTH1G Software Specifications\nSaga Telecom implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘STOS Software features’ .\n* All Saga Telecom switches use a normalized software platform and image package file\n* Unified software version iteration plan\n* Unified user experience\nSTOS Network Platform\nLayer 2 switching\nIPv4/lPv6 Unicast Routing\nQoS\nIP Multicast Snooping/Proxy\nIPv4/lPv6 Multi cast Routing\nVRRP\nMultiprotocol Label Switching(MPLS)\nVirtual Private LAN Service(VPLS)\nVirtual Routing and Switching\nGeneralized Multiprotocol LabelSwitching(GMPLS)\nIPv6 Tunneling and TransitionTechnologies\nIP/MPLS OAM\nService management module\nFault Managemet (FM)\nHigh Availability (HA)\nIntegrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)\nHardware and platform abstraction layer\nAdvanced integration Suite\nCENTEC swtich chip  SDK\nSilicon in Pizza, Stacking or Chassis\nConfiguration\nOperating Systems TCP/IP Stacks\nLinux , IPv4/Pv6 Dual Stack\nHardware layer\nCENTEC Switch Chipset\nCPU Subsystem\nCooling SubSystem\nAC/DC DC/DC CLK\nEnvironmental Management Subsystem\nLogical Control Subunit\n\n[slide 8]\nOrdering Information\nSTH1G Series Switches\nItems\tDescription\nSTH-2QX4DX48GP-HSI\t1G Enterprise and Campus Network switch, with 48*1G Base-T(PoE++ 90W),4*25G SFP28,2*40G QSFP+,Dual power supply modules, 2 hot-swap fan modules\nSTH-2QX4DX48GP-SFI\t1G Enterprise and Campus Network switch,with 48*1G Base-T(PoE+ 30W),4*25G SFP28,2*40G QSFP+,One fixed power supply,4 Fixed fans\nSTH-2QX4DX48GE-SFI\t1G Enterprise and Campus Network switch,with 48*1G Base-T,4*25G SFP28,2*40G QSFP+,One fixed power supply,4 Fixed fans\nSTH-2QX4DX48GE-HSI\t1G Enterprise and Campus Network switch,with 48*1G Base-T,4*25G SFP28,2*40G QSFP+,Dual power supply modules, 2 hot-swap fan modules\nSTH-2QX4DX24GP-HSI\t1G Enterprise and Campus Network switch, with 24*1G Base-T\n(PoE++ 90W),4*25G SFP28,2*40G QSFP+, Dual power supply modules, 2 hot-swap fan modules\nSTH-2QX4DX24GP-SFI\t1G Enterprise and Campus Network switch,with 24*1G Base-T(PoE+ 30W),4*25G SFP28,2*40G QSFP+,One fixed power supply,4 Fixed fans\nSTH-2QX4DX24GE-SFI\t1G Enterprise and Campus Network switch,with 24*1G Base-T,4*25G SFP28,2*40G QSFP+,One fixed power supply,4 Fixed fans\nSTH-2QX4DX24GE-HSI\t1G Enterprise and Campus Network switch, with 24*1G Base-T,4*25G SFP28,2*40G QSFP+, Dual power supply modules, 2 hot-swap fan modules\n\n[slide 9]\nSoftware Licenses\nAC/DC Power Supplies use for STH1G Series HSI model\nItems\tDescription\nSoftware License\tEB, Basic L3 software features, Preinstalled\nSoftware License\tMS, L3 enhance features software license key\nSoftware License\tMA, MPLS features software license key\nSoftware License\tST, Stacking feature software license key\nItems\tDescription\nPSU-120-AC-AFO\t120W AC power supply (Front to Rear Airflow)\nPSU-120-DC-AFO\t120W DC power supply (Front to Rear Airflow)\nPSU-500-AC-AFO\t500W AC power supply (Front to Rear Airflow)\nPSU-500-DC-AFO\t500W DC power supply (Front to Rear Airflow)\nPSU-550-AC-AFO\t550W AC power supply (Front to Rear Airflow)\nPSU-550-DC-AFO\t550W DC power supply (Front to Rear Airflow)\nPSU-1200-AC-AFO\t1200W AC power supply (Front to Rear Airflow)\nPSU-1200-DC-AFO\t1200W DC power supply (Front to Rear Airflow)\n\n[slide 10]\nAccessory of STH1G Series\nItems\tFront Mounting\tRear Mounting\tScrew\tPower Cord\tConsole (DB9 to RJ45)\nSTH-2QX4DX48GP-HSI\t2\t2\t14\t2\t1\nSTH-2QX4DX48GP-SFI\t2\t/\t14\t1\t1\nSTH-2QX4DX48GE-SFI\t2\t/\t14\t1\t1\nSTH-2QX4DX48GE-HSI\t2\t2\t14\t2\t1\nSTH-2QX4DX24GP-HSI\t2\t2\t14\t2\t1\nSTH-2QX4DX24GP-SFI\t2\t/\t14\t1\t1\nSTH-2QX4DX24GE-SFI\t2\t/\t14\t1\t1\nSTH-2QX4DX24GE-HSI\t2\t2\t14\t2\t1",
+"slides":[
+{
+"n":1,
+"items":[
+{
+"t":"p",
+"text":"STH1G SERIES SWITCHES\nDATASHEET\nHigh Performance Enterprise and Campus Network Switch"
+},
+{
+"t":"p",
+"text":"Product Overview"
+},
+{
+"t":"p",
+"text":"The STH1G Series switches are designed on a domestic new generation switch Chip, which is called VastLakes Series Chip platform .\nWith 48 x 1G or 24 x 1G high speed ports and rich features, these switches will perfectly meets the requirements of Metro, Enterprise and campus networks."
+},
+{
+"t":"p",
+"text":"Key features of the STH1G Series Switches"
+},
+{
+"t":"p",
+"text":"Support MPLS Features\nVaried port types support 100M/1G/25G/40G ports to meet different network requirement\nImplementing Vxlan and BGP protocols to build EVPN applications for Enterprise and Campus scenario.\nSwitch-to-switch encryption using MACsec (Media Access Control Security) AES-CMAC.\nPrecision Timing Protocol.\nRich L2/L3 features like IPv6, OSPF, BGP, PIM, etc."
+},
+{
+"t":"p",
+"text":"The STH1G Series switches provide various power supply solutions for customers choosing,\nfixed single power supply, fixed redundant power supplies, and redundant hot-swappable\npower supplies (AC and DC are both available).\nThe Fan solutions also have two bays with\nField replaceable fan modules and build in fans.\nGenerally, air flow of STH1G Series is front\nto rear (AFO), and some of models can do customization of rear to front (AFI) airflow."
+},
+{
+"t":"p",
+"text":"Table 1: Feasible PSU and airflow of STH1G Series"
+},
+{
+"t":"picture",
+"name":"图片 12"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"AC",
+"DC",
+"PoE Port",
+"AFO",
+"AFI",
+"Power Input",
+"FAN"
+],
+[
+"STH-2QX4DX48GP-HSI",
+"◯",
+"◯",
+"48",
+"◯",
+"X",
+"2",
+"2"
+]
+]
+},
+{
+"t":"p",
+"text":"Version: V1.3\nRelease Date: 2025/12/25"
+}
+],
+"notes":""
+},
+{
+"n":2,
+"items":[
+{
+"t":"p",
+"text":"The STH1G Series switches support varied management ways, include console port / in-band network ports / out-of-band network port. Support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, SSL, etc. to ensure security of management.\nMoreover, leveraging its profound technical expertise and in-depth understanding of campus and enterprise networking needs, Saga Telecom has launched the Da Hu Cloud Management System (DHCS).\nIt enhances network management and maintenance efficiency, reduces costs, elevates management intelligence, and delivers a faster, smarter, more secure and reliable network to better meet user requirements."
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"AC",
+"DC",
+"PoE Ports",
+"AFO",
+"AFI",
+"Power Input",
+"FAN"
+],
+[
+"STH-2QX4DX48GP-SFI",
+"◯",
+"X",
+"48",
+"◯",
+"X",
+"1",
+"4"
+],
+[
+"STH-2QX4DX48GE-SFI",
+"◯",
+"X",
+"0",
+"◯",
+"X",
+"1",
+"4"
+],
+[
+"STH-2QX4DX48GE-HSI",
+"◯",
+"◯",
+"0",
+"◯",
+"◯",
+"2",
+"2"
+],
+[
+"STH-2QX4DX24GP-HSI",
+"◯",
+"◯",
+"24",
+"◯",
+"◯",
+"2",
+"2"
+],
+[
+"STH-2QX4DX24GP-SFI",
+"◯",
+"X",
+"24",
+"◯",
+"X",
+"1",
+"4"
+],
+[
+"STH-2QX4DX24GE-SFI",
+"◯",
+"X",
+"0",
+"◯",
+"X",
+"1",
+"4"
+],
+[
+"STH-2QX4DX24GE-HSI",
+"◯",
+"◯",
+"0",
+"◯",
+"◯",
+"2",
+"2"
+]
+]
+},
+{
+"t":"picture",
+"name":"图片 6"
+}
+],
+"notes":""
+},
+{
+"n":3,
+"items":[
+{
+"t":"p",
+"text":"Visual WEB UI"
+},
+{
+"t":"p",
+"text":"STOS allows you to quickly configure common configuration items using a visual WEB UI, which lowers the application threshold for users."
+},
+{
+"t":"picture",
+"name":"图片 7"
+},
+{
+"t":"p",
+"text":"The STH1G family of Ethernet switches consists of the following models:"
+},
+{
+"t":"picture",
+"name":"图片 11"
+},
+{
+"t":"table",
+"rows":[
+[
+"Models",
+"Ethernet Ports",
+"Management",
+"PSU 1/PSU 2",
+"Cooling"
+],
+[
+"STH-2QX4DX48GP-HSI",
+"48 x 10/100/1000Mb BaseT(PoE++ 90W) + 4 x 25G SFP28 + 2 x 40G QSFP+",
+"Console: RJ45 RS232 \nEthernet: 1G Port",
+"1200W AC/1200W AC hot-swappable Modules",
+"2 x hot-swappable Fan Modules (Front to Rear airflow)"
+],
+[
+"STH-2QX4DX48GP-SFI",
+"48 x 10/100/1000Mb BaseT(PoE+ 30W)  + 4 x 25G SFP28 + 2 x 40G QSFP+",
+"Console: RJ45 RS232 \nEthernet: 1G Port",
+"Fixed one power supply",
+"4 x fixed Fans (Front to Rear airflow)"
+],
+[
+"STH-2QX4DX48GE-HSI",
+"48 x 10/100/1000Mb BaseT + 4 x 25G SFP28 + 2 x 40G QSFP+",
+"Console: RJ45 RS232 \nEthernet: 1G Port",
+"120W AC/120W AC hot-swappable Modules",
+"2 x hot-swappable Fan Modules (Front to Rear airflow)"
+],
+[
+"STH-2QX4DX48GE-SFI",
+"48 x 10/100/1000Mb BaseT + 4 x 25G SFP28 + 2 x 40G QSFP+",
+"Console: RJ45 RS232 \nEthernet: 1G Port",
+"Fixed one power supply",
+"4 x fixed Fans (Front to Rear airflow)"
+]
+]
+},
+{
+"t":"picture",
+"name":"Picture 2"
+}
+],
+"notes":""
+},
+{
+"n":4,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Models",
+"Ethernet Ports",
+"Management",
+"PSU 1/PSU 2",
+"Cooling"
+],
+[
+"STH-2QX4DX24GP-HSI",
+"24 x 10/100/1000Mb BaseT(PoE++ 90W) + 4 x 25G SFP28 + 2 x 40G QSFP+",
+"Console: RJ45 RS232 \nEthernet: 1G Port",
+"500W AC/500W AC hot-swappable Modules",
+"2 x hot-swappable Fan Modules (Front to Rear airflow)"
+],
+[
+"STH-2QX4DX24GP-SFI",
+"24 x 10/100/1000Mb BaseT(PoE+ 30W) + 4 x 25G SFP28 + 2 x 40G QSFP+",
+"Console: RJ45 RS232 \nEthernet: 1G Port",
+"Fixed one power supply",
+"4 x fixed Fans (Front to Rear airflow)"
+],
+[
+"STH-2QX4DX24GE-HSI",
+"24 x 10/100/1000Mb BaseT + 4 x 25G SFP28 + 2 x 40G QSFP+",
+"Console: RJ45 RS232 \nEthernet: 1G Port",
+"120W AC/120W AC hot-swappable Modules",
+"2 x hot-swappable Fan Modules (Front to Rear airflow)"
+],
+[
+"STH-2QX4DX24GE-SFI",
+"24 x 10/100/1000Mb BaseT + 4 x 25G SFP28 + 2 x 40G QSFP+",
+"Console: RJ45 RS232 \nEthernet: 1G Port",
+"Fixed one power supply",
+"4 x fixed Fans (Front to Rear airflow)"
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":5,
+"items":[
+{
+"t":"p",
+"text":"Package Switch capacity (Gbps)\nSTH-2QX4DX48GP-HSI: 456Gbps (bidirectional)\nSTH-2QX4DX48GP-SFI: 456Gbps (bidirectional)\nSTH-2QX4DX48GE-SFI: 456Gbps (bidirectional)\nSTH-2QX4DX48GE-HSI: 456Gbps (bidirectional)\nSTH-2QX4DX24GP-HSI: 408Gbps(bidirectional)\nSTH-2QX4DX24GP-SFI: 408Gbps(bidirectional)\nSTH-2QX4DX24GE-SFI: 408Gbps(bidirectional)\nSTH-2QX4DX24GE-HSI: 408Gbps(bidirectional)"
+},
+{
+"t":"p",
+"text":"Layer 2/Layer 3 Throughput (Mpps)\nSTH-2QX4DX48GP-HSI: 678.53Mpps (bidirectional)\nSTH-2QX4DX48GP-SFI: 678.53Mpps (bidirectional)\nSTH-2QX4DX48GE-SFI: 678.53Mpps (bidirectional)\nSTH-2QX4DX48GE-HSI: 678.53Mpps (bidirectional)\nSTH-2QX4DX24GP-HSI: 607.10Mpps (bidirectional)\nSTH-2QX4DX24GP-SFI: 607.10Mpps (bidirectional)\nSTH-2QX4DX24GE-SFI: 607.10Mpps (bidirectional)\nSTH-2QX4DX24GE-HSI: 607.10Mpps (bidirectional)"
+},
+{
+"t":"p",
+"text":"Dimensions (W x H x D) with package\nSTH-2QX4DX48GP-HSI: 55.7 x 15 x 49.5cm\nSTH-2QX4DX48GP-SFI: 55.7 x 15 x 49.5cm\nSTH-2QX4DX48GE-SFI: 55.7 x 15 x 49.5cm\nSTH-2QX4DX48GE-HSI: 55.7 x 15 x 49.5cm\nSTH-2QX4DX24GP-HSI: 55.7 x 15 x 49.5cm\nSTH-2QX4DX24GP-SFI: 55.7 x 15 x 49.5cm\nSTH-2QX4DX24GE-SFI: 55.7 x 15 x 49.5cm\nSTH-2QX4DX24GE-HSI: 55.7 x 15 x 49.5cm\nDimensions (W x H x D) without package\nSTH-2QX4DX48GP-HSI: 44.2x 4.4 x 42cm\nSTH-2QX4DX48GP-SFI: 44.2 x 4.4 x 32.1cm\nSTH-2QX4DX48GE-SFI: 44.2 x 4.4 x 32.1cm\nSTH-2QX4DX48GE-HSI: 44.2 x 4.4 x 41cm\nSTH-2QX4DX24GP-HSI: 44.2 x 4.4 x 41cm\nSTH-2QX4DX24GP-SFI: 44.2 x 4.4 x 37.1cm\nSTH-2QX4DX24GE-SFI: 44.2 x 4.4 x 32cm\nSTH-2QX4DX24GE-HSI: 44.2 x 4.4 x 41cm"
+},
+{
+"t":"p",
+"text":"Weight (Net Weight/Gross Weight)\nSTH-2QX4DX48GP-HSI: 8.36Kg/10.6Kg\nSTH-2QX4DX48GP-SFI: 5.38Kg/7.62Kg\nSTH-2QX4DX48GE-SFI: 4.09Kg/6.33Kg\nSTH-2QX4DX48GE-HSI: 7.16Kg/9Kg\nSTH-2QX4DX24GP-HSI: 7.36Kg/9.6Kg\nSTH-2QX4DX24GP-SFI: 6.96Kg/9.2Kg\nSTH-2QX4DX24GE-SFI: 3.9Kg/6.14Kg\nSTH-2QX4DX24GE-HSI: 6.67Kg/9Kg"
+},
+{
+"t":"p",
+"text":"STH1G Physical Specifications"
+},
+{
+"t":"p",
+"text":"Cooling [CFM]-Total Maximum airflow\nSTH-2QX4DX48GP-HSI: 72.78\nSTH-2QX4DX48GP-SFI: 44.30\nSTH-2QX4DX48GE-SFI: 46.48\nSTH-2QX4DX48GE-HSI: 46.48\nSTH-2QX4DX24GP-HSI: 75.27\nSTH-2QX4DX24GP-SFI: 46.48\nSTH-2QX4DX24GE-SFI: 46.48\nSTH-2QX4DX24GE-HSI: 46.48"
+}
+],
+"notes":""
+},
+{
+"n":6,
+"items":[
+{
+"t":"p",
+"text":"Power consumption\nWorst case, all ports used, line-rate traffic\nSTH-2QX4DX48GP-HSI: 72W\nSTH-2QX4DX48GP-SFI: 86W\nSTH-2QX4DX48GE-SFI: 72W\nSTH-2QX4DX48GE-HSI: 60W\nSTH-2QX4DX24GP-HSI: 54W\nSTH-2QX4DX24GP-SFI: 70W\nSTH-2QX4DX24GE-SFI: 51W\nSTH-2QX4DX24GE-HSI: 60W\nTypical power consumption\nSTH-2QX4DX48GP-HSI: 61W\nSTH-2QX4DX48GP-SFI: 84W\nSTH-2QX4DX48GE-SFI: 69W\nSTH-2QX4DX48GE-HSI: 59W\nSTH-2QX4DX24GP-HSI: 53W\nSTH-2QX4DX24GP-SFI: 69W\nSTH-2QX4DX24GE-SFI: 51W\nSTH-2QX4DX24GE-HSI: 36W"
+},
+{
+"t":"p",
+"text":"MTBF\nHSI (Swapable PSU and FAN): ≥90000h (~10.3 Years)\nSFI  (Fixed PSU and FAN): ≥70000h\n(~8.0 Years)"
+},
+{
+"t":"p",
+"text":"Environmental ranges\nOperating temperature: 0ºC to 40ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90% (No condensation)\nStore Humidity: 5 to 95% (No condensation)\nOperating altitude\nSTH-2QX4DX48GP-HSI: ≤5000m\nSTH-2QX4DX48GP-SFI: ≤5000m\nSTH-2QX4DX48GE-SFI: ≤2000m\nSTH-2QX4DX48GE-HSI: ≤5000m\nSTH-2QX4DX24GP-HSI: ≤5000m\nSTH-2QX4DX24GP-SFI: ≤5000m\nSTH-2QX4DX24GE-SFI: ≤2000m\nSTH-2QX4DX24GE-HSI: ≤5000m"
+},
+{
+"t":"p",
+"text":"Temperature alarm\nAlarm threshold: 50ºC"
+},
+{
+"t":"p",
+"text":"PoE Power Budget\nSTH-2QX4DX48GP-HSI: 2200W\nSTH-2QX4DX48GP-SFI: 780W\nSTH-2QX4DX24GP-HSI: 740W\nSTH-2QX4DX24GP-SFI: 380W"
+},
+{
+"t":"p",
+"text":"CPU\nDual-core processor, ARM A53 on all models"
+},
+{
+"t":"p",
+"text":"Memory\neMMc: 8GB on all models\nDRAM: 2GB on all models"
+}
+],
+"notes":""
+},
+{
+"n":7,
+"items":[
+{
+"t":"p",
+"text":"STH1G Software Specifications\nSaga Telecom implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘STOS Software features’ ."
+},
+{
+"t":"p",
+"text":"* All Saga Telecom switches use a normalized software platform and image package file\n* Unified software version iteration plan\n* Unified user experience"
+},
+{
+"t":"p",
+"text":"STOS Network Platform"
+},
+{
+"t":"p",
+"text":"Layer 2 switching"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Unicast Routing"
+},
+{
+"t":"p",
+"text":"QoS"
+},
+{
+"t":"p",
+"text":"IP Multicast Snooping/Proxy"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Multi cast Routing"
+},
+{
+"t":"p",
+"text":"VRRP"
+},
+{
+"t":"p",
+"text":"Multiprotocol Label Switching(MPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Private LAN Service(VPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Routing and Switching"
+},
+{
+"t":"p",
+"text":"Generalized Multiprotocol LabelSwitching(GMPLS)"
+},
+{
+"t":"p",
+"text":"IPv6 Tunneling and TransitionTechnologies"
+},
+{
+"t":"p",
+"text":"IP/MPLS OAM"
+},
+{
+"t":"p",
+"text":"Service management module"
+},
+{
+"t":"p",
+"text":"Fault Managemet (FM)"
+},
+{
+"t":"p",
+"text":"High Availability (HA)"
+},
+{
+"t":"p",
+"text":"Integrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)"
+},
+{
+"t":"p",
+"text":"Hardware and platform abstraction layer"
+},
+{
+"t":"p",
+"text":"Advanced integration Suite"
+},
+{
+"t":"p",
+"text":"CENTEC swtich chip  SDK"
+},
+{
+"t":"p",
+"text":"Silicon in Pizza, Stacking or Chassis\nConfiguration"
+},
+{
+"t":"p",
+"text":"Operating Systems TCP/IP Stacks"
+},
+{
+"t":"p",
+"text":"Linux , IPv4/Pv6 Dual Stack"
+},
+{
+"t":"p",
+"text":"Hardware layer"
+},
+{
+"t":"p",
+"text":"CENTEC Switch Chipset"
+},
+{
+"t":"p",
+"text":"CPU Subsystem"
+},
+{
+"t":"p",
+"text":"Cooling SubSystem"
+},
+{
+"t":"p",
+"text":"AC/DC DC/DC CLK"
+},
+{
+"t":"p",
+"text":"Environmental Management Subsystem"
+},
+{
+"t":"p",
+"text":"Logical Control Subunit"
+}
+],
+"notes":""
+},
+{
+"n":8,
+"items":[
+{
+"t":"p",
+"text":"Ordering Information\nSTH1G Series Switches"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"STH-2QX4DX48GP-HSI",
+"1G Enterprise and Campus Network switch, with 48*1G Base-T(PoE++ 90W),4*25G SFP28,2*40G QSFP+,Dual power supply modules, 2 hot-swap fan modules"
+],
+[
+"STH-2QX4DX48GP-SFI",
+"1G Enterprise and Campus Network switch,with 48*1G Base-T(PoE+ 30W),4*25G SFP28,2*40G QSFP+,One fixed power supply,4 Fixed fans"
+],
+[
+"STH-2QX4DX48GE-SFI",
+"1G Enterprise and Campus Network switch,with 48*1G Base-T,4*25G SFP28,2*40G QSFP+,One fixed power supply,4 Fixed fans"
+],
+[
+"STH-2QX4DX48GE-HSI",
+"1G Enterprise and Campus Network switch,with 48*1G Base-T,4*25G SFP28,2*40G QSFP+,Dual power supply modules, 2 hot-swap fan modules"
+],
+[
+"STH-2QX4DX24GP-HSI",
+"1G Enterprise and Campus Network switch, with 24*1G Base-T\n(PoE++ 90W),4*25G SFP28,2*40G QSFP+, Dual power supply modules, 2 hot-swap fan modules"
+],
+[
+"STH-2QX4DX24GP-SFI",
+"1G Enterprise and Campus Network switch,with 24*1G Base-T(PoE+ 30W),4*25G SFP28,2*40G QSFP+,One fixed power supply,4 Fixed fans"
+],
+[
+"STH-2QX4DX24GE-SFI",
+"1G Enterprise and Campus Network switch,with 24*1G Base-T,4*25G SFP28,2*40G QSFP+,One fixed power supply,4 Fixed fans"
+],
+[
+"STH-2QX4DX24GE-HSI",
+"1G Enterprise and Campus Network switch, with 24*1G Base-T,4*25G SFP28,2*40G QSFP+, Dual power supply modules, 2 hot-swap fan modules"
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":9,
+"items":[
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"Software License",
+"EB, Basic L3 software features, Preinstalled"
+],
+[
+"Software License",
+"MS, L3 enhance features software license key"
+],
+[
+"Software License",
+"MA, MPLS features software license key"
+],
+[
+"Software License",
+"ST, Stacking feature software license key"
+]
+]
+},
+{
+"t":"p",
+"text":"Software Licenses"
+},
+{
+"t":"p",
+"text":"AC/DC Power Supplies use for STH1G Series HSI model"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"PSU-120-AC-AFO",
+"120W AC power supply (Front to Rear Airflow)"
+],
+[
+"PSU-120-DC-AFO",
+"120W DC power supply (Front to Rear Airflow)"
+],
+[
+"PSU-500-AC-AFO",
+"500W AC power supply (Front to Rear Airflow)"
+],
+[
+"PSU-500-DC-AFO",
+"500W DC power supply (Front to Rear Airflow)"
+],
+[
+"PSU-550-AC-AFO",
+"550W AC power supply (Front to Rear Airflow)"
+],
+[
+"PSU-550-DC-AFO",
+"550W DC power supply (Front to Rear Airflow)"
+],
+[
+"PSU-1200-AC-AFO",
+"1200W AC power supply (Front to Rear Airflow)"
+],
+[
+"PSU-1200-DC-AFO",
+"1200W DC power supply (Front to Rear Airflow)"
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":10,
+"items":[
+{
+"t":"p",
+"text":"Accessory of STH1G Series"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Front Mounting",
+"Rear Mounting",
+"Screw",
+"Power Cord",
+"Console (DB9 to RJ45)"
+],
+[
+"STH-2QX4DX48GP-HSI",
+"2",
+"2",
+"14",
+"2",
+"1"
+],
+[
+"STH-2QX4DX48GP-SFI",
+"2",
+"/",
+"14",
+"1",
+"1"
+],
+[
+"STH-2QX4DX48GE-SFI",
+"2",
+"/",
+"14",
+"1",
+"1"
+],
+[
+"STH-2QX4DX48GE-HSI",
+"2",
+"2",
+"14",
+"2",
+"1"
+],
+[
+"STH-2QX4DX24GP-HSI",
+"2",
+"2",
+"14",
+"2",
+"1"
+],
+[
+"STH-2QX4DX24GP-SFI",
+"2",
+"/",
+"14",
+"1",
+"1"
+],
+[
+"STH-2QX4DX24GE-SFI",
+"2",
+"/",
+"14",
+"1",
+"1"
+],
+[
+"STH-2QX4DX24GE-HSI",
+"2",
+"2",
+"14",
+"2",
+"1"
+]
+]
+}
+],
+"notes":""
+}
+],
+"extracted_at":"2026-10-23T05:02:40Z"
+}

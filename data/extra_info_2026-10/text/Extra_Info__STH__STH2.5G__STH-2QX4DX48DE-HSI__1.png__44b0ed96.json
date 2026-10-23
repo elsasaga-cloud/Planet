@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__STH__STH2.5G__STH-2QX4DX48DE-HSI__1.png__44b0ed96",
+"path":"Extra_Info/STH/STH2.5G/STH-2QX4DX48DE-HSI/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":9265429,
+"sha256":"44b0ed966a76097df0fa747e3868569817df4c65bff1607c957f31dd80fb2e55",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":3840,
+"height":2160,
+"mode":"RGBA",
+"thumb_bytes":8571
+},
+"warnings":[],
+"chars":173,
+"text":"1Av2 3Av4 SAV6 7 和 98 GAVI0 11A 12_13A 14 15 公牛 16 17A 18_19A 20 21AV22 ZAV24 25AV2 27A 28_29A 30 31A 32 33A 34 35A 36 37A 39 39 信 站 40_41 人 站 42 43 从 四 44 454 V45 47 从 下 48",
+"extracted_at":"2026-10-23T05:04:49Z",
+"thumb":"thumbs/Extra_Info__STH__STH2.5G__STH-2QX4DX48DE-HSI__1.png__44b0ed96.jpg"
+}

@@ -1,0 +1,312 @@
+{
+"id":"Extra_Info__STH__旧版英文规格书__IS2624-4S__IS2624-4S_Datasheet.docx__10088c7e",
+"path":"Extra_Info/STH/旧版英文规格书/IS2624-4S/IS2624-4S Datasheet.docx",
+"name":"IS2624-4S Datasheet.docx",
+"ext":".docx",
+"bytes":270682,
+"sha256":"10088c7e47c4e1d6939547855082775cd77626fe02a38984810ce901765dfa1e",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"刘 驰",
+"last_modified_by":"黄玉芳",
+"created":"2020-10-14T05:41:00+00:00",
+"modified":"2024-05-16T02:02:38+00:00",
+"paragraphs":15,
+"tables":2,
+"embedded_images":3
+},
+"warnings":[],
+"chars":3793,
+"text":"Gigabit Industrial Ethernet Switch\nIS2624-4S: 24*10/100/1000 Base-T, 4*1000Mbps SFP\n24-port Layer 3 management industrial switch, providing 24*10/100/1000Mbps Base-T, 4*1000Mbps SFP, and 1*console port. The switch supports auto DoS attack defense and SNMP, IEEE 802.1, STP/RSTP, and link aggregation. The IS2624-4S can be used as core switch, distributed or access switch.\nOverview:\nIS2624-4S industrial Ethernet switch is suitable for transformer substation system, power plant monitoring system, industrial control system and other fields.\nIS2624-4S industrial Ethernet switch is designed with robust materials to improve the reliability, the working temperature -40℃～+85℃ to ensure great data transmission in harsh environment.\nFeatures:\nComplies with IEC 61850-3 and IEEE1613 standards for substation communication equipment；\nFully comply with IEEE802.3, IEEE802.3U, IEEE 802.3z and other standards and support VLAN (802.1Q), GMRP, SNTP and other functional protocols;\nIt provides rich QoS (802.1p) features and flexible service security features to meet the requirements of industrial Ethernet services with low latency and jitter and high reliability；\nProvide a variety of network redundancy solutions: support STP (802.1D), RSTP (802.1w) network protocol, support link aggregation function;\nSupport redundant operation of dual power modules; Provides multiple groups of alarm contact, providing power module alarm and switch alarm functions.\nAdopt fanless, low-power design, the power consumption does not exceed 40W; The whole machine can reach the ultra-wide operating temperature range of -40℃ ~ +85℃.\nCHARACTERISTICS\nProduct Name\tIS2624-4S\nStandard\tIEEE802.3; IEEE802.3u; IEEE802.3z; IEEE802.3ab\nEthernet Ports\t24*10/100/1000 Base-T RJ45 / 4*1000Mbps Base-X SFP\nManagement Ports\t1*Console (RJ45)\nPower Supply\t2* AC 100～240V 50/60Hz\nPower Consumption\t≤ 40W\nAlarm\t50VA, Max volt 300VDC，max current: 8A\nSwitching Capacity\t52Gbps\nPacket Forwarding Rate\t38.6Mpps\nMAC\t16K\nJumbo Frame\t9K bytes\nOperating Temperature\t-40℃～+85℃\nOperating Humidity\t5％～95％\nSize\t442mm×44mm×320mm\nWeight\t2.86kg\nSoftware Features List\nPort Setting\tPort enable and disable\nPort Setting\tPort speed settings\nPort Setting\tAuto-negotiation 10/100/1000Mbps full and half duplex mode selection\nPort Setting\tIEEE802.3x flow control\nPort Mirroring\tTX I RX / Both\nPort Mirroring\tMany-to-1 monitor\nMMS Setting\tSupport IEC61850\nMMS Setting\tMeasurement Period: 5000ms\nVLAN\tSupport of 4K VLAN\nVLAN\tSupport 802.1Q VLAN protocol\nVLAN\tSupport VLAN based on port/protocol/MAC\nQoS\tSupport COS classification base on 802.1p\nQoS\tSupport QoS base on DSCP\nQoS\tSupport 8 priority queues\nQoS\tQueue scheduling: SP, WRR\nQoS\tSupport 802.1p CoS/DSCP priority\nMulticast\tSupport SNMPV1 / V2 / V3 protocols\nMulticast\tSupport IGMP Snooping\nMulticast\tSupport MLD-snooping\nSpanning Tree Protocol\tIEEE 802.1D Spanning Tree Protocol (STP)\nSpanning Tree Protocol\tIEEE 802.1w Rapid Spanning Tree Protocol (RSTP)\nSpanning Tree Protocol\tSTP BPDU Guard, BPDU Filtering and BPDU Forwarding\nSecurity Feature\tSupports IP, MAC, port, VLAN binding combinations\nSecurity Feature\tSupport MAC address auto-learning, aging and filtration\nSecurity Feature\tSupport port isolation, port speed limit\nSecurity Feature\tSupport STP \\ RSTP，Fast-Ring\nSecurity Feature\tSupport 5 groups of link aggregation\nSecurity Feature\tSupport LLDP ,Smart-Link\nSecurity Feature\tSupport 802.1X\nACL\tSupport base on source-MAC、target-MAC、protocol-classify、source-IP、target-IP、 L4 ports-number\nSystem Management\tConsole; Telnet; Web browser; SNMP\nSystem Management\tFirmware upgrade by HTTP protocol through Ethernet network\nSystem Management\tConfiguration upload/download through HTTP\nSystem Management\tLLDP protocol\nSystem Management\tSNTP\n[页眉页脚]\nIS2624-4S Gigabit Industrial Ethernet Switch",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Gigabit Industrial Ethernet Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IS2624-4S: 24*10/100/1000 Base-T, 4*1000Mbps SFP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"24-port Layer 3 management industrial switch, providing 24*10/100/1000Mbps Base-T, 4*1000Mbps SFP, and 1*console port. The switch supports auto DoS attack defense and SNMP, IEEE 802.1, STP/RSTP, and link aggregation. The IS2624-4S can be used as core switch, distributed or access switch."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Overview:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IS2624-4S industrial Ethernet switch is suitable for transformer substation system, power plant monitoring system, industrial control system and other fields."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IS2624-4S industrial Ethernet switch is designed with robust materials to improve the reliability, the working temperature -40℃～+85℃ to ensure great data transmission in harsh environment."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Features:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Complies with IEC 61850-3 and IEEE1613 standards for substation communication equipment；"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Fully comply with IEEE802.3, IEEE802.3U, IEEE 802.3z and other standards and support VLAN (802.1Q), GMRP, SNTP and other functional protocols;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It provides rich QoS (802.1p) features and flexible service security features to meet the requirements of industrial Ethernet services with low latency and jitter and high reliability；"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Provide a variety of network redundancy solutions: support STP (802.1D), RSTP (802.1w) network protocol, support link aggregation function;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support redundant operation of dual power modules; Provides multiple groups of alarm contact, providing power module alarm and switch alarm functions."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Adopt fanless, low-power design, the power consumption does not exceed 40W; The whole machine can reach the ultra-wide operating temperature range of -40℃ ~ +85℃."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CHARACTERISTICS"
+},
+{
+"t":"table",
+"rows":[
+[
+"Product Name",
+"IS2624-4S"
+],
+[
+"Standard",
+"IEEE802.3; IEEE802.3u; IEEE802.3z; IEEE802.3ab"
+],
+[
+"Ethernet Ports",
+"24*10/100/1000 Base-T RJ45 / 4*1000Mbps Base-X SFP"
+],
+[
+"Management Ports",
+"1*Console (RJ45)"
+],
+[
+"Power Supply",
+"2* AC 100～240V 50/60Hz"
+],
+[
+"Power Consumption",
+"≤ 40W"
+],
+[
+"Alarm",
+"50VA, Max volt 300VDC，max current: 8A"
+],
+[
+"Switching Capacity",
+"52Gbps"
+],
+[
+"Packet Forwarding Rate",
+"38.6Mpps"
+],
+[
+"MAC",
+"16K"
+],
+[
+"Jumbo Frame",
+"9K bytes"
+],
+[
+"Operating Temperature",
+"-40℃～+85℃"
+],
+[
+"Operating Humidity",
+"5％～95％"
+],
+[
+"Size",
+"442mm×44mm×320mm"
+],
+[
+"Weight",
+"2.86kg"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Software Features List"
+},
+{
+"t":"table",
+"rows":[
+[
+"Port Setting",
+"Port enable and disable"
+],
+[
+"Port Setting",
+"Port speed settings"
+],
+[
+"Port Setting",
+"Auto-negotiation 10/100/1000Mbps full and half duplex mode selection"
+],
+[
+"Port Setting",
+"IEEE802.3x flow control"
+],
+[
+"Port Mirroring",
+"TX I RX / Both"
+],
+[
+"Port Mirroring",
+"Many-to-1 monitor"
+],
+[
+"MMS Setting",
+"Support IEC61850"
+],
+[
+"MMS Setting",
+"Measurement Period: 5000ms"
+],
+[
+"VLAN",
+"Support of 4K VLAN"
+],
+[
+"VLAN",
+"Support 802.1Q VLAN protocol"
+],
+[
+"VLAN",
+"Support VLAN based on port/protocol/MAC"
+],
+[
+"QoS",
+"Support COS classification base on 802.1p"
+],
+[
+"QoS",
+"Support QoS base on DSCP"
+],
+[
+"QoS",
+"Support 8 priority queues"
+],
+[
+"QoS",
+"Queue scheduling: SP, WRR"
+],
+[
+"QoS",
+"Support 802.1p CoS/DSCP priority"
+],
+[
+"Multicast",
+"Support SNMPV1 / V2 / V3 protocols"
+],
+[
+"Multicast",
+"Support IGMP Snooping"
+],
+[
+"Multicast",
+"Support MLD-snooping"
+],
+[
+"Spanning Tree Protocol",
+"IEEE 802.1D Spanning Tree Protocol (STP)"
+],
+[
+"Spanning Tree Protocol",
+"IEEE 802.1w Rapid Spanning Tree Protocol (RSTP)"
+],
+[
+"Spanning Tree Protocol",
+"STP BPDU Guard, BPDU Filtering and BPDU Forwarding"
+],
+[
+"Security Feature",
+"Supports IP, MAC, port, VLAN binding combinations"
+],
+[
+"Security Feature",
+"Support MAC address auto-learning, aging and filtration"
+],
+[
+"Security Feature",
+"Support port isolation, port speed limit"
+],
+[
+"Security Feature",
+"Support STP \\ RSTP，Fast-Ring"
+],
+[
+"Security Feature",
+"Support 5 groups of link aggregation"
+],
+[
+"Security Feature",
+"Support LLDP ,Smart-Link"
+],
+[
+"Security Feature",
+"Support 802.1X"
+],
+[
+"ACL",
+"Support base on source-MAC、target-MAC、protocol-classify、source-IP、target-IP、 L4 ports-number"
+],
+[
+"System Management",
+"Console; Telnet; Web browser; SNMP"
+],
+[
+"System Management",
+"Firmware upgrade by HTTP protocol through Ethernet network"
+],
+[
+"System Management",
+"Configuration upload/download through HTTP"
+],
+[
+"System Management",
+"LLDP protocol"
+],
+[
+"System Management",
+"SNTP"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:05:14Z"
+}

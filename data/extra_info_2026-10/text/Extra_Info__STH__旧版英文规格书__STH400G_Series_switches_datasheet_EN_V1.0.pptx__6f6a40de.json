@@ -1,0 +1,397 @@
+{
+"id":"Extra_Info__STH__旧版英文规格书__STH400G_Series_switches_datasheet_EN_V1.0.pptx__6f6a40de",
+"path":"Extra_Info/STH/旧版英文规格书/STH400G Series switches datasheet_EN_V1.0.pptx",
+"name":"STH400G Series switches datasheet_EN_V1.0.pptx",
+"ext":".pptx",
+"bytes":4752821,
+"sha256":"6f6a40de9c70633678e3c15937e1762cf95f3629af88c81df24f0db81beeda6c",
+"source":"Extra_Info.zip",
+"method":"python-pptx",
+"status":"ok",
+"meta":{
+"slides":5,
+"pictures":2
+},
+"warnings":[],
+"chars":4782,
+"text":"[slide 1]\nSTH400G SERIES SWITCHES\nDATASHEET\nHigh Performance Data Center Switch\nVersion: V1.0\nRelease Date: 2024/9/29\nProduct Overview\nThe STH400G Series switches are designed on a domestic new generation switch chip which is carried on SerdesX Platform\nWith 32*400G high speed ports and rich features, these switches will perfectly meet the requirements of Metro, Enterprise, Data Center and Hyper converged infrastructure(HCI)networks\nKey features of the STH400G Switches\nMLAG which can build an Active-Active system to improve the reliability of the network links from single board grade to device grade\nImplementing Vxlan and BGP protocols to build EVPN applications for data centers scenario\nSwitch-to-switch encryption using MACsec(Media Access Control Security)AES-CMAC\nPrecision Timing Protocol\nRich L2/L3 features like IPv6, OSPF, BGP, PIM, etc.\nThe STH400G switches provide redundant hot-swappable power supplies(AC and DC are both available)and 6 bays with field replaceable fan modules. Generally, airflow of STH400G Series is front to rear(AFO), but a customization of rear to front(AFI)airflow is also available\nTable 1: Feasible PSU and airflow of STH400G\nItems\tAC\tDC\tAFO\tAFI\tPower Input\tFAN\nSTH-32QC\t◯\t◯\t◯\t◯\t2\t6\n\n[slide 2]\nThe STH400G switches support varied management ways including console port/in-band network ports/out-of-band network port\nSupport SNMP v1/v2/v3, Support CLI(Command Line Interface), web management, Telnet and FTP connection\nSupport OAM to make management more convenient\nSupport SSH2.0, SSL, etc. to ensure security of management\nVisual WEB GUI\nSTOS allows you to quickly configure common configuration items using a visual WEB GUI, which lowers the application threshold for users\nTable 2: Models of the STH400G Series switches\nThe SHT400G Series of high-speed switches consist of the following models\nModels\tEthernet Ports\tManagement\tPSU 1/PSU 2\tCooling\nSTH-32QC\t32*400G QSFP 112\tConsole: RJ45 to RS232\u000bEthernet: 1G Port\u000bStorage: USB\t1300W\n1300W CRPS\t6 x Fan Modules\u000b(front-to-back airflow)\n\n[slide 3]\nSTH400G Series Physical Specifications\nPacket Switch capacity(Tbps)\nSTH-32QC: 25.6Tbps(bidirectional)\nLayer 2/Layer 3 Throughput(Gpps)\nSTH-32QC: 38.09Gpps(bidirectional)\nCPU\nDual-core processor, ARM A53(1.6GHz)\nConsult sales for Quad-Core or any other specific requirements of CPU\nMemory\neMMc: 8GB on all models\nDRAM: 2GB on all models\nWeight(Net weight/Gross weight)\nSTH-32QC: 11.5Kg/16Kg\nPower consumption\nFull loading, all ports used, line-rate traffic\nSTH-32QC: 383W\nTypical power consumption\nSTH-32QC: 307W\nDimensions(W*H*D)with package\nSTH-32QC: 66.5*15*61.5cm\nDimensions(W*H*D)without package\nSTH-32QC: 44.2*4.4*49.7cm\nMTBF\nSTH-32QC: ≥90,000h(~10.3 Years)\nEnvironmental ranges\nOperating temperature: 0ºC to 45ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90%(No condensation)\nStore Humidity: 5% to 95%(No condensation)\nOperating altitude: \u000bSTH-32QC: 0~5KM\nTemperature alarm\nAlarm threshold: 50ºC\nCooling[CFM] - Total maximum airflow\nSTH-32QC: 264.16\n\n[slide 4]\nSTH400G Software Specifications\nSaga Telecom implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘STOS Software features’\nAll Saga Telecom high-speed switches use a normalized software platform and image package file\nUnified software version iteration plan\nUnified user experience\nLayer 2 switching\nIPv4/lPv6 Unicast Routing\nQoS\nIP Multicast Snooping/Proxy\nIPv4/lPv6 Multi cast Routing\nVRRP\nMultiprotocol Label Switching(MPLS)\nVirtual Private LAN Service(VPLS)\nVirtual Routing and Switching\nGeneralized Multiprotocol Label Switching(GMPLS)\nIPv6 Tunneling and TransitionTechnologies\nIP/MPLS OAM\nService management module\nFault Managemet(FM)\nHigh Availability(HA)\nIntegrated Management Interface(CLl, SNMP, WEB, RMON, RPC-API , Netconf, etc.)\nHardware and platform abstraction layer\nAdvanced integration Suite\nCENTEC swtich chip SDK\nSilicon in Pizza, Stacking or Chassis\nConfiguration\nLinux, IPv4/Pv6 Dual Stack\nCENTEC Switch Chipset\nCPU Subsystem\nCooling SubSystem\nAC/DC DC/DC CLK\nEnvironmental Management Subsystem\nLogical Control Subunit\nOperating Systems TCP/IP Stacks\nHardware layer\n\n[slide 5]\nOrdering Information\nSTH400G Switches\nAC/DC Power Supplies use for all models\nSoftware Licenses\nAccessory of STH400G Series\nItems\tDescription\nSTH-32QC\t400G Data Center Switch, with 32*400G QSFP112, Dual power supply modules(C13), 6 hot-swappable fan modules\nItems\tDescription\nPSU-1300W-AC-AFO\tSTH400G Series 1300W AC power supply(front-to-back airflow)\nInput: 100–240V AC; Output: 12V DC 106.6A Max\nItems\tDescription\nSoftware License\tAL, L3 enhance features software license key, Preinstalled\nItems\tFront Mounting\tRear Mounting\tScrew\tPower Cord\tConsole(RS232 to RJ45)\nSTH-32QC\t2\t2\t14\t2\t1",
+"slides":[
+{
+"n":1,
+"items":[
+{
+"t":"p",
+"text":"STH400G SERIES SWITCHES\nDATASHEET\nHigh Performance Data Center Switch\nVersion: V1.0\nRelease Date: 2024/9/29"
+},
+{
+"t":"p",
+"text":"Product Overview"
+},
+{
+"t":"p",
+"text":"The STH400G Series switches are designed on a domestic new generation switch chip which is carried on SerdesX Platform\nWith 32*400G high speed ports and rich features, these switches will perfectly meet the requirements of Metro, Enterprise, Data Center and Hyper converged infrastructure(HCI)networks"
+},
+{
+"t":"p",
+"text":"Key features of the STH400G Switches"
+},
+{
+"t":"p",
+"text":"MLAG which can build an Active-Active system to improve the reliability of the network links from single board grade to device grade\nImplementing Vxlan and BGP protocols to build EVPN applications for data centers scenario\nSwitch-to-switch encryption using MACsec(Media Access Control Security)AES-CMAC\nPrecision Timing Protocol\nRich L2/L3 features like IPv6, OSPF, BGP, PIM, etc."
+},
+{
+"t":"p",
+"text":"The STH400G switches provide redundant hot-swappable power supplies(AC and DC are both available)and 6 bays with field replaceable fan modules. Generally, airflow of STH400G Series is front to rear(AFO), but a customization of rear to front(AFI)airflow is also available"
+},
+{
+"t":"p",
+"text":"Table 1: Feasible PSU and airflow of STH400G"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"AC",
+"DC",
+"AFO",
+"AFI",
+"Power Input",
+"FAN"
+],
+[
+"STH-32QC",
+"◯",
+"◯",
+"◯",
+"◯",
+"2",
+"6"
+]
+]
+},
+{
+"t":"picture",
+"name":"图片 5"
+}
+],
+"notes":""
+},
+{
+"n":2,
+"items":[
+{
+"t":"p",
+"text":"The STH400G switches support varied management ways including console port/in-band network ports/out-of-band network port\nSupport SNMP v1/v2/v3, Support CLI(Command Line Interface), web management, Telnet and FTP connection\nSupport OAM to make management more convenient\nSupport SSH2.0, SSL, etc. to ensure security of management"
+},
+{
+"t":"p",
+"text":"Visual WEB GUI"
+},
+{
+"t":"p",
+"text":"STOS allows you to quickly configure common configuration items using a visual WEB GUI, which lowers the application threshold for users"
+},
+{
+"t":"picture",
+"name":"图片 6"
+},
+{
+"t":"p",
+"text":"Table 2: Models of the STH400G Series switches"
+},
+{
+"t":"table",
+"rows":[
+[
+"Models",
+"Ethernet Ports",
+"Management",
+"PSU 1/PSU 2",
+"Cooling"
+],
+[
+"STH-32QC",
+"32*400G QSFP 112",
+"Console: RJ45 to RS232\u000bEthernet: 1G Port\u000bStorage: USB",
+"1300W\n1300W CRPS",
+"6 x Fan Modules\u000b(front-to-back airflow)"
+]
+]
+},
+{
+"t":"p",
+"text":"The SHT400G Series of high-speed switches consist of the following models"
+}
+],
+"notes":""
+},
+{
+"n":3,
+"items":[
+{
+"t":"p",
+"text":"STH400G Series Physical Specifications"
+},
+{
+"t":"p",
+"text":"Packet Switch capacity(Tbps)\nSTH-32QC: 25.6Tbps(bidirectional)"
+},
+{
+"t":"p",
+"text":"Layer 2/Layer 3 Throughput(Gpps)\nSTH-32QC: 38.09Gpps(bidirectional)"
+},
+{
+"t":"p",
+"text":"CPU\nDual-core processor, ARM A53(1.6GHz)\nConsult sales for Quad-Core or any other specific requirements of CPU"
+},
+{
+"t":"p",
+"text":"Memory\neMMc: 8GB on all models\nDRAM: 2GB on all models"
+},
+{
+"t":"p",
+"text":"Weight(Net weight/Gross weight)\nSTH-32QC: 11.5Kg/16Kg"
+},
+{
+"t":"p",
+"text":"Power consumption\nFull loading, all ports used, line-rate traffic\nSTH-32QC: 383W\nTypical power consumption\nSTH-32QC: 307W"
+},
+{
+"t":"p",
+"text":"Dimensions(W*H*D)with package\nSTH-32QC: 66.5*15*61.5cm\nDimensions(W*H*D)without package\nSTH-32QC: 44.2*4.4*49.7cm"
+},
+{
+"t":"p",
+"text":"MTBF\nSTH-32QC: ≥90,000h(~10.3 Years)"
+},
+{
+"t":"p",
+"text":"Environmental ranges\nOperating temperature: 0ºC to 45ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90%(No condensation)\nStore Humidity: 5% to 95%(No condensation)\nOperating altitude: \u000bSTH-32QC: 0~5KM"
+},
+{
+"t":"p",
+"text":"Temperature alarm\nAlarm threshold: 50ºC"
+},
+{
+"t":"p",
+"text":"Cooling[CFM] - Total maximum airflow\nSTH-32QC: 264.16"
+}
+],
+"notes":""
+},
+{
+"n":4,
+"items":[
+{
+"t":"p",
+"text":"STH400G Software Specifications\nSaga Telecom implements a unified software platform, and the software capabilities supported by the devices are listed in the document ‘STOS Software features’"
+},
+{
+"t":"p",
+"text":"All Saga Telecom high-speed switches use a normalized software platform and image package file\nUnified software version iteration plan\nUnified user experience"
+},
+{
+"t":"p",
+"text":"Layer 2 switching"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Unicast Routing"
+},
+{
+"t":"p",
+"text":"QoS"
+},
+{
+"t":"p",
+"text":"IP Multicast Snooping/Proxy"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Multi cast Routing"
+},
+{
+"t":"p",
+"text":"VRRP"
+},
+{
+"t":"p",
+"text":"Multiprotocol Label Switching(MPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Private LAN Service(VPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Routing and Switching"
+},
+{
+"t":"p",
+"text":"Generalized Multiprotocol Label Switching(GMPLS)"
+},
+{
+"t":"p",
+"text":"IPv6 Tunneling and TransitionTechnologies"
+},
+{
+"t":"p",
+"text":"IP/MPLS OAM"
+},
+{
+"t":"p",
+"text":"Service management module"
+},
+{
+"t":"p",
+"text":"Fault Managemet(FM)"
+},
+{
+"t":"p",
+"text":"High Availability(HA)"
+},
+{
+"t":"p",
+"text":"Integrated Management Interface(CLl, SNMP, WEB, RMON, RPC-API , Netconf, etc.)"
+},
+{
+"t":"p",
+"text":"Hardware and platform abstraction layer"
+},
+{
+"t":"p",
+"text":"Advanced integration Suite"
+},
+{
+"t":"p",
+"text":"CENTEC swtich chip SDK"
+},
+{
+"t":"p",
+"text":"Silicon in Pizza, Stacking or Chassis\nConfiguration"
+},
+{
+"t":"p",
+"text":"Linux, IPv4/Pv6 Dual Stack"
+},
+{
+"t":"p",
+"text":"CENTEC Switch Chipset"
+},
+{
+"t":"p",
+"text":"CPU Subsystem"
+},
+{
+"t":"p",
+"text":"Cooling SubSystem"
+},
+{
+"t":"p",
+"text":"AC/DC DC/DC CLK"
+},
+{
+"t":"p",
+"text":"Environmental Management Subsystem"
+},
+{
+"t":"p",
+"text":"Logical Control Subunit"
+},
+{
+"t":"p",
+"text":"Operating Systems TCP/IP Stacks"
+},
+{
+"t":"p",
+"text":"Hardware layer"
+}
+],
+"notes":""
+},
+{
+"n":5,
+"items":[
+{
+"t":"p",
+"text":"Ordering Information\nSTH400G Switches"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"STH-32QC",
+"400G Data Center Switch, with 32*400G QSFP112, Dual power supply modules(C13), 6 hot-swappable fan modules"
+]
+]
+},
+{
+"t":"p",
+"text":"AC/DC Power Supplies use for all models"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"PSU-1300W-AC-AFO",
+"STH400G Series 1300W AC power supply(front-to-back airflow)\nInput: 100–240V AC; Output: 12V DC 106.6A Max"
+]
+]
+},
+{
+"t":"p",
+"text":"Software Licenses"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"Software License",
+"AL, L3 enhance features software license key, Preinstalled"
+]
+]
+},
+{
+"t":"p",
+"text":"Accessory of STH400G Series"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Front Mounting",
+"Rear Mounting",
+"Screw",
+"Power Cord",
+"Console(RS232 to RJ45)"
+],
+[
+"STH-32QC",
+"2",
+"2",
+"14",
+"2",
+"1"
+]
+]
+}
+],
+"notes":""
+}
+],
+"extracted_at":"2026-10-23T05:05:08Z"
+}

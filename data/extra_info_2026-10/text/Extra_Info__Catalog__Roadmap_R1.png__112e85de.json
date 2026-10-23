@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Catalog__Roadmap_R1.png__112e85de",
+"path":"Extra_Info/Catalog/Roadmap R1.png",
+"name":"Roadmap R1.png",
+"ext":".png",
+"bytes":1532426,
+"sha256":"112e85dea1235857c71742536351d04f5178987df7e77b13dcd4e3009a35d9e3",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1536,
+"height":1024,
+"mode":"RGB",
+"thumb_bytes":12214
+},
+"warnings":[],
+"chars":385,
+"text":"Tailored Managed Networking Solutions\nA Scalable Path from Access to Core\nPhase 1 Phase 2\nAccess Foundation Aggregation & Core Expansion\nArchitectural Continuity\nee Ka oY\nManagement & Stability aba\nUnified Management Aggregation & Core\n—— L2+/L3 Switches, PoE ———_____ Consistent Support ________ 19 / 25G / 100G + CENTEC ——\nBGs Marve 《CENTEC，\nScalable 。Coherent 。Stable « Low-Friction",
+"extracted_at":"2026-10-23T05:01:40Z",
+"thumb":"thumbs/Extra_Info__Catalog__Roadmap_R1.png__112e85de.jpg"
+}

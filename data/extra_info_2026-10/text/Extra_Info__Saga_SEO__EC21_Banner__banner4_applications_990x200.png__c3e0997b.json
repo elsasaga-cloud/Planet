@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_SEO__EC21_Banner__banner4_applications_990x200.png__c3e0997b",
+"path":"Extra_Info/Saga SEO/EC21 Banner/banner4_applications_990x200.png",
+"name":"banner4_applications_990x200.png",
+"ext":".png",
+"bytes":48333,
+"sha256":"c3e0997bbe91951f8ee3e45fd69a3b154c4c01050b6dc9c1aa56fbe94565ae8d",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":990,
+"height":200,
+"mode":"RGB",
+"thumb_bytes":5591
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:01:49Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__EC21_Banner__banner4_applications_990x200.png__c3e0997b.jpg"
+}

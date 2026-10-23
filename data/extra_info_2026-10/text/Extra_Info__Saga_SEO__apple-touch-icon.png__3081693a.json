@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_SEO__apple-touch-icon.png__3081693a",
+"path":"Extra_Info/Saga SEO/apple-touch-icon.png",
+"name":"apple-touch-icon.png",
+"ext":".png",
+"bytes":9697,
+"sha256":"3081693a8502c2d56f0822a6fbde2886982969dae8f1ad58b3dc3403054827b1",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":180,
+"height":180,
+"mode":"RGBA",
+"thumb_bytes":2790
+},
+"warnings":[],
+"chars":4,
+"text":"SAGA",
+"extracted_at":"2026-10-23T05:01:44Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__apple-touch-icon.png__3081693a.jpg"
+}

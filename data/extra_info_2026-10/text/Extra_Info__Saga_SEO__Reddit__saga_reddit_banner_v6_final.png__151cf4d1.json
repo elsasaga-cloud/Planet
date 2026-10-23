@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_SEO__Reddit__saga_reddit_banner_v6_final.png__151cf4d1",
+"path":"Extra_Info/Saga SEO/Reddit/saga_reddit_banner_v6_final.png",
+"name":"saga_reddit_banner_v6_final.png",
+"ext":".png",
+"bytes":42517,
+"sha256":"151cf4d1fcf316b62c38e47149a167fc81fdb5e3289d8777425ada55b80d249f",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1920,
+"height":384,
+"mode":"RGB",
+"thumb_bytes":3086
+},
+"warnings":[],
+"chars":158,
+"text":"一 enemgg\niG & SUPPLY-CH\nsr\nSTI— Industrial\nAGA Managed switching 22.20\"\nAU Rack - PoE++ 90W - All-fiber L3 - 740W Budget\nfor every layer. SS een meena\nTELECOM",
+"extracted_at":"2026-10-23T05:01:58Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__Reddit__saga_reddit_banner_v6_final.png__151cf4d1.jpg"
+}

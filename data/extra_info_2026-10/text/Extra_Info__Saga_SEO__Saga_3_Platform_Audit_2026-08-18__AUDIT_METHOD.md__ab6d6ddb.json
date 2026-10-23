@@ -1,0 +1,16 @@
+{
+"id":"Extra_Info__Saga_SEO__Saga_3_Platform_Audit_2026-08-18__AUDIT_METHOD.md__ab6d6ddb",
+"path":"Extra_Info/Saga SEO/Saga_3_Platform_Audit_2026-08-18/AUDIT_METHOD.md",
+"name":"AUDIT_METHOD.md",
+"ext":".md",
+"bytes":1743,
+"sha256":"ab6d6ddbbe24ed2840a164fa716ca228301a1d1eb2cbb8740936baa548250d26",
+"source":"Extra_Info.zip",
+"method":"text",
+"status":"ok",
+"meta":{},
+"warnings":[],
+"chars":911,
+"text":"# 审核方法\n\n## 审核对象\n\n- FindLight：公开公司主页、公开 Optical Networking 产品目录及 10 个产品详情页。\n- EC21：公开店铺主页、两页产品目录及 15 个产品详情页。\n- Made-in-China：公开店铺主页、公开产品目录及 20 个产品详情页。\n- Made-in-China 会员中心会跳转登录页，未纳入公开页面证据。\n\n## 链接判定\n\n每个平台单独执行以下检查：\n\n1. 在对应产品描述容器中搜索 `sagatele.com` 或 `sagatelecom.com.cn` 可见文字。\n2. 检查该文字是否位于真实 `<a href>` 中。\n3. 公司主页上的链接单独记录，但不能替代产品描述中的链接。\n4. 内部店铺域名，例如 `sagatelecom.en.ec21.com`，不是 Saga 官方网站链接，不计为通过。\n5. 其他平台或 PDF 中的链接不作为当前平台证据。\n\n## 页面证据方式\n\n- FindLight：直接解析公开产品页 HTML 的 Description 容器和 Specifications 表格。\n- Made-in-China：直接解析公开产品页 HTML 的 Product Description/Basic Info 容器。\n- EC21：平台对普通请求启用反自动化保护，因此使用页面渲染后的 Markdown；Markdown 中的 `[文字](URL)` 可区分真实链接和纯文本。\n\n## 系列判定\n\n- 页面显示明确型号时，按 STI/STC/STH 型号前缀直接判定，置信度为高。\n- EC21 大部分产品不显示型号，因此只在 EC21 内依据其 `Industrial Ethernet Switch` 类目及标题特征判定为 STI，置信度为中；没有借用其他平台型号。\n\n## 数据检查\n\n- FindLight：10 个产品链接均唯一。\n- EC21：15 个产品链接均唯一。\n- Made-in-China：20 个产品链接均唯一。\n- CSV 使用 UTF-8 BOM，便于 Excel 直接打开。\n",
+"extracted_at":"2026-10-23T05:02:37Z"
+}

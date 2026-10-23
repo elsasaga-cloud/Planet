@@ -1,0 +1,25 @@
+{
+"id":"Extra_Info__Saga_SEO__CN_Site__3-2_图片需要拉近一些.jpg__8fd84ccb",
+"path":"Extra_Info/Saga SEO/CN Site/3-2 图片需要拉近一些.jpg",
+"name":"3-2 图片需要拉近一些.jpg",
+"ext":".jpg",
+"bytes":111658,
+"sha256":"8fd84ccbf4e3cb2dcc4bad380847d30364b924dc1e72e2103c58a492b9f240fb",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":800,
+"height":800,
+"mode":"RGB",
+"datetime":"2026:06:17 09:40:54",
+"software":"Adobe Photoshop 25.1 (Windows)",
+"thumb_bytes":3227
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:02:06Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__CN_Site__3-2_图片需要拉近一些.jpg__8fd84ccb.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_SEO__sth-2c12xf12xe-hsi-front.jpg__a6aec412",
+"path":"Extra_Info/Saga SEO/sth-2c12xf12xe-hsi-front.jpg",
+"name":"sth-2c12xf12xe-hsi-front.jpg",
+"ext":".jpg",
+"bytes":67172,
+"sha256":"a6aec412327189009b2ea3818dd9a4c86267be58f239f77500e3cd1d7464dc3b",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":800,
+"height":800,
+"mode":"RGB",
+"thumb_bytes":9200
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:01:47Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__sth-2c12xf12xe-hsi-front.jpg__a6aec412.jpg"
+}

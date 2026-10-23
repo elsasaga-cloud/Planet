@@ -1,0 +1,133 @@
+{
+"id":"Extra_Info__Reference_Info__OLYCOM_Propossal.pptx__45764825",
+"path":"Extra_Info/Reference Info/OLYCOM_Propossal.pptx",
+"name":"OLYCOM_Propossal.pptx",
+"ext":".pptx",
+"bytes":754024,
+"sha256":"45764825fe178a4f182193525a7827c21e668fe1332f7be576a91aa85c8fbd4b",
+"source":"Extra_Info.zip",
+"method":"python-pptx",
+"status":"ok",
+"meta":{
+"slides":8,
+"pictures":0
+},
+"warnings":[],
+"chars":3079,
+"text":"[slide 1]\nOLYCOM\nLingaraj Mishra\n\n[slide 2]\nOLYCOM-Buisness proposal(OTN, Ethernet and public)\nINTRODUCTION\nName : Lingaraj Mishra\nQualification : B.E in EE from NIT,R and EE from Univ of Stanford\nExperience:\n20+ years in Optical, Ethernet and Wireless Networking\nCompanies:\n1- Nortel Networks – Metro Ethernet BU\nTo carry Ethernet, FC, FICON in GFP-T/F in G.709 in DWDM network  Transformed into OTN with sub-lambda and higher bandwidth core network in C, L carrier domain. Built Optera-Metro OM/OME3000, 5000 and 6500 series\n\n[slide 3]\n2-Dasan Networks Inc(2010)\nBuilt M-3000 and M8000 series to carry Ethernet traffic from Mobile-backhaul to Core network. Built Broadcom-BCM switch based multi-carrier transport network switch both access and aggregator to carry traffic into the core. Bandwidth from 1G, 4G and 10G ports on access to carry 40G and 100G per switch.\n3-Radisys Inc(2015)\nBuilt world’s 1st CU/DU/RU for 1st 5G-capable RAN network.\nRecent:\nVVDN Technologies – Built B040 RU to ship to Airtel-5G and Meta.\nOLYCOM-Buisness proposal(OTN, Ethernet and public)\n\n[slide 4]\nOLYCOM-Buisness proposal(OTN, Ethernet and public)\nOLYCOM:\nIt has diversified products from OTN, Ethernet to Off-The-Rack products like ATCA boards and hot-pluggable modules.\n1- Ethernet SWITCH\n10/100/1000 Mbps PoE-PSE Ethernet Switches\nI have expertise on all high-variant Ethernet Switches to Intelligent-Ethernet Switches. We can design Carrier-Grade Multi-SLOT Chassis base  switches to support more traffic and high-bandwidth aggregation.\n2-Industrial Fiber Switches\nI have expertise on Fiber-Ethernet Switches with carrying features like LACP. Also, SFP L2 features support like STP/RSTP/MSTP, ERP. L3 features support from DHCP, ICMP, NTP and management with RMON.\n\n[slide 5]\nOLYCOM-Buisness proposal(OTN, Ethernet and public)\n3-Optical DWDM Switches\nI have expertise on multi-port DWDM based muxponder and transponder card with multi-carrier Ethernet traffic being transported in Optical Core. OLYCOM supports 1U-4SLOT based multi-service platform.\n\n[slide 6]\nOLYCOM-Buisness proposal(OTN, Ethernet and public)\nIndia, APAC & US – Market\n1-india\nIndia market is open for low-cost Ethernet and Optical networking Switches. It has demand and needs supply of similar low-cost swtches for different ISPs. This includes JIO and Airtel-5G.\n2-APAC\nST, KT, SKT, China-Telecom, China Railway Signal(Govt) and others will be interested in low-cost Ethernet and Optical Switches.\n3- US\nUS market demand can be ventured by MWC and MEC sales-expo and booth-events\n\n[slide 7]\nOLYCOM-Buisness proposal(OTN, Ethernet and public)\nOLYCOM R&D\n1-India\nDepending on market-sales and market-need of other continents can be handled by off-shore team. LAB support and others can be explored.\nCustomer-Handling:\nCustomers from International-CONTINENTAL with English-speaking continents can be handled here.\n\n[slide 8]\nOLYCOM-Buisness proposal(OTN, Ethernet and public)\nContact:\nLingaraj Mishra\nM: +91 8984315380\nE-mail: slmishra@yahoo.com/lmishra_79@rediffmail.com\nAddess:\nFortune Towers, Bhubaneswar\nOdisha 751002",
+"slides":[
+{
+"n":1,
+"items":[
+{
+"t":"p",
+"text":"OLYCOM"
+},
+{
+"t":"p",
+"text":"Lingaraj Mishra"
+}
+],
+"notes":""
+},
+{
+"n":2,
+"items":[
+{
+"t":"p",
+"text":"OLYCOM-Buisness proposal(OTN, Ethernet and public)"
+},
+{
+"t":"p",
+"text":"INTRODUCTION\nName : Lingaraj Mishra\nQualification : B.E in EE from NIT,R and EE from Univ of Stanford\nExperience:\n20+ years in Optical, Ethernet and Wireless Networking\nCompanies:\n1- Nortel Networks – Metro Ethernet BU\nTo carry Ethernet, FC, FICON in GFP-T/F in G.709 in DWDM network  Transformed into OTN with sub-lambda and higher bandwidth core network in C, L carrier domain. Built Optera-Metro OM/OME3000, 5000 and 6500 series"
+}
+],
+"notes":""
+},
+{
+"n":3,
+"items":[
+{
+"t":"p",
+"text":"2-Dasan Networks Inc(2010)\nBuilt M-3000 and M8000 series to carry Ethernet traffic from Mobile-backhaul to Core network. Built Broadcom-BCM switch based multi-carrier transport network switch both access and aggregator to carry traffic into the core. Bandwidth from 1G, 4G and 10G ports on access to carry 40G and 100G per switch.\n3-Radisys Inc(2015)\nBuilt world’s 1st CU/DU/RU for 1st 5G-capable RAN network.\nRecent:\nVVDN Technologies – Built B040 RU to ship to Airtel-5G and Meta."
+},
+{
+"t":"p",
+"text":"OLYCOM-Buisness proposal(OTN, Ethernet and public)"
+}
+],
+"notes":""
+},
+{
+"n":4,
+"items":[
+{
+"t":"p",
+"text":"OLYCOM-Buisness proposal(OTN, Ethernet and public)"
+},
+{
+"t":"p",
+"text":"OLYCOM:\nIt has diversified products from OTN, Ethernet to Off-The-Rack products like ATCA boards and hot-pluggable modules.\n1- Ethernet SWITCH\n10/100/1000 Mbps PoE-PSE Ethernet Switches\nI have expertise on all high-variant Ethernet Switches to Intelligent-Ethernet Switches. We can design Carrier-Grade Multi-SLOT Chassis base  switches to support more traffic and high-bandwidth aggregation.\n2-Industrial Fiber Switches\nI have expertise on Fiber-Ethernet Switches with carrying features like LACP. Also, SFP L2 features support like STP/RSTP/MSTP, ERP. L3 features support from DHCP, ICMP, NTP and management with RMON."
+}
+],
+"notes":""
+},
+{
+"n":5,
+"items":[
+{
+"t":"p",
+"text":"OLYCOM-Buisness proposal(OTN, Ethernet and public)"
+},
+{
+"t":"p",
+"text":"3-Optical DWDM Switches\nI have expertise on multi-port DWDM based muxponder and transponder card with multi-carrier Ethernet traffic being transported in Optical Core. OLYCOM supports 1U-4SLOT based multi-service platform."
+}
+],
+"notes":""
+},
+{
+"n":6,
+"items":[
+{
+"t":"p",
+"text":"OLYCOM-Buisness proposal(OTN, Ethernet and public)"
+},
+{
+"t":"p",
+"text":"India, APAC & US – Market\n1-india\nIndia market is open for low-cost Ethernet and Optical networking Switches. It has demand and needs supply of similar low-cost swtches for different ISPs. This includes JIO and Airtel-5G.\n2-APAC\nST, KT, SKT, China-Telecom, China Railway Signal(Govt) and others will be interested in low-cost Ethernet and Optical Switches.\n3- US\nUS market demand can be ventured by MWC and MEC sales-expo and booth-events"
+}
+],
+"notes":""
+},
+{
+"n":7,
+"items":[
+{
+"t":"p",
+"text":"OLYCOM-Buisness proposal(OTN, Ethernet and public)"
+},
+{
+"t":"p",
+"text":"OLYCOM R&D\n1-India\nDepending on market-sales and market-need of other continents can be handled by off-shore team. LAB support and others can be explored.\nCustomer-Handling:\nCustomers from International-CONTINENTAL with English-speaking continents can be handled here."
+}
+],
+"notes":""
+},
+{
+"n":8,
+"items":[
+{
+"t":"p",
+"text":"OLYCOM-Buisness proposal(OTN, Ethernet and public)"
+},
+{
+"t":"p",
+"text":"Contact:\nLingaraj Mishra\nM: +91 8984315380\nE-mail: slmishra@yahoo.com/lmishra_79@rediffmail.com\nAddess:\nFortune Towers, Bhubaneswar\nOdisha 751002"
+}
+],
+"notes":""
+}
+],
+"extracted_at":"2026-10-23T05:07:28Z"
+}

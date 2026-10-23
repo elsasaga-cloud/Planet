@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__STH__STH400G__STH-64QC-HSI__1.png__d50849bd",
+"path":"Extra_Info/STH/STH400G/STH-64QC-HSI/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":6816784,
+"sha256":"d50849bd071d1627fb43999c4319b2f48089195b0ff4234f96c47cd2df455418",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":4699,
+"height":1961,
+"mode":"RGBA",
+"thumb_bytes":6812
+},
+"warnings":[],
+"chars":13,
+"text":"a 900i\nge\n|\n|",
+"extracted_at":"2026-10-23T05:04:58Z",
+"thumb":"thumbs/Extra_Info__STH__STH400G__STH-64QC-HSI__1.png__d50849bd.jpg"
+}

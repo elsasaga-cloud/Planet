@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_SEO__stc-424xggpm-280w-front.jpg__383c3854",
+"path":"Extra_Info/Saga SEO/stc-424xggpm-280w-front.jpg",
+"name":"stc-424xggpm-280w-front.jpg",
+"ext":".jpg",
+"bytes":30951,
+"sha256":"383c38545e6edd03dbe8ca371e89cdf2230924df89fbaf2dd6f93438a6f08c80",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":800,
+"height":800,
+"mode":"RGB",
+"thumb_bytes":4394
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:01:46Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__stc-424xggpm-280w-front.jpg__383c3854.jpg"
+}

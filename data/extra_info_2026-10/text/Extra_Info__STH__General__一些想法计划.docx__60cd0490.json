@@ -1,0 +1,287 @@
+{
+"id":"Extra_Info__STH__General__一些想法计划.docx__60cd0490",
+"path":"Extra_Info/STH/General/一些想法计划.docx",
+"name":"一些想法计划.docx",
+"ext":".docx",
+"bytes":1727312,
+"sha256":"60cd0490339d35873f9fd2a7473e459fc088e0c04a06a0743ac222eb3327bd5c",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2026-01-27T12:00:00+00:00",
+"modified":"2026-01-27T12:01:08+00:00",
+"paragraphs":52,
+"tables":0,
+"embedded_images":13
+},
+"warnings":[],
+"chars":1181,
+"text":"Basic\nArial Narrow为公司主题文字\nShenzhen Usalama Link Co., Ltd.\n深圳仨拉玛通信有限公司\ns.usalamalink@gmail.com\nwww.usalamalink.com\nSala Link\nWhen Link Matters\nShenzhen Sala Link Co.,Ltd.\n深圳仨拉通信有限公司\nwww.salalink.com.cn\nSala Link\nWhen Link Matters\n产品类目\nSLH=Sala Link High-speed Network Series\nCWDM/DWDM/DCI=3800 5800\nOptical Module\nAOC/DOC\nPatchcord\n3 4 5配件\n网站禁止国内IP访问\nhttps://www.link1consulting.com/\n网站可以考虑借鉴这一个\n产品图\nIdea\nACCESS(VIDEO/DATA/NETWORK) < SLH < DWDM/DCI\nAccess: Smartbyte/Hrui\nSLH: Hohunet\nDWDM/DCI: Iseelink\n产品类目的命名尽量区分开\nSTC/STI系列：Saga C: Commercial grade, Saga I: Industrial grade\nSLH系列: Sala H: High-Speed Network\nSLT系列: Sala T: Transmission Solution\n类似表述沿用到SaXa系列中\n直接是2个公司互卖但有不同的侧重（如宣传语）\n资料出2份（另备一份Sala），注意一些图形中的文字格式\n另外后续可以再搞一下专门的贸易公司，直接就辅助Saga和Sala产品来出货\n严格明确定位以及相关宣传信息\n可以做一个说明手册，主要是针对一些流程和小细节\n如何进行技术支持\n如何售后\n装箱单（无保修卡，无说明书，只有设备和配件）\n...\n应用场景\nData Center Network\nEnterprise and Campus Network\nHyper-Convergence\nCloud Storage\nEdge Computing\nHeavily Regulated Industry\nHPC(High Performance Computing)\nhttps://dgtlinfra.com/data-center-networking/\n[页眉页脚]\nSaga Telecom\nwww.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Basic"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Arial Narrow为公司主题文字"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shenzhen Usalama Link Co., Ltd."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"深圳仨拉玛通信有限公司"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"s.usalamalink@gmail.com"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"www.usalamalink.com"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Sala Link"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"When Link Matters"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shenzhen Sala Link Co.,Ltd."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"深圳仨拉通信有限公司"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"www.salalink.com.cn"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Sala Link"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"When Link Matters"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"产品类目"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SLH=Sala Link High-speed Network Series"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CWDM/DWDM/DCI=3800 5800"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Optical Module"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"AOC/DOC"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Patchcord"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3 4 5配件"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"网站禁止国内IP访问"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://www.link1consulting.com/"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"网站可以考虑借鉴这一个"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"产品图"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Idea"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"ACCESS(VIDEO/DATA/NETWORK) < SLH < DWDM/DCI"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Access: Smartbyte/Hrui"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SLH: Hohunet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DWDM/DCI: Iseelink"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"产品类目的命名尽量区分开"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STC/STI系列：Saga C: Commercial grade, Saga I: Industrial grade"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SLH系列: Sala H: High-Speed Network"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SLT系列: Sala T: Transmission Solution"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"类似表述沿用到SaXa系列中"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"直接是2个公司互卖但有不同的侧重（如宣传语）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"资料出2份（另备一份Sala），注意一些图形中的文字格式"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"另外后续可以再搞一下专门的贸易公司，直接就辅助Saga和Sala产品来出货"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"严格明确定位以及相关宣传信息"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"可以做一个说明手册，主要是针对一些流程和小细节"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"如何进行技术支持"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"如何售后"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"装箱单（无保修卡，无说明书，只有设备和配件）"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"..."
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"应用场景"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Data Center Network"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Enterprise and Campus Network"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Hyper-Convergence"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Cloud Storage"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Edge Computing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Heavily Regulated Industry"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"HPC(High Performance Computing)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://dgtlinfra.com/data-center-networking/"
+}
+],
+"extracted_at":"2026-10-23T05:03:42Z"
+}

@@ -1,0 +1,25 @@
+{
+"id":"Extra_Info__Catalog__Solution_Based.jpg__9f001cfa",
+"path":"Extra_Info/Catalog/Solution Based.jpg",
+"name":"Solution Based.jpg",
+"ext":".jpg",
+"bytes":795540,
+"sha256":"9f001cfae9989056685e8b5fd113155243bfcbec5307446c2dbc587d8d5c1e27",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":2500,
+"height":1219,
+"mode":"RGB",
+"datetime":"2025:01:26 18:33:16",
+"software":"Adobe Photoshop CS6 (Windows)",
+"thumb_bytes":9760
+},
+"warnings":[],
+"chars":197,
+"text":"以\nwe “The most dangerous phrase in the language is\nVON\nY\n| f ‘we've always done it this way.”\nAon Be Hopper FIRST PRINCIPLES\nav A\\_ |\nX>\nLD—\nce\n一 一\nrc 一 一 一\nSC\nADA\nESE\nONS, a>\nMR me <P,\nWU\nWO SP\nox",
+"extracted_at":"2026-10-23T05:01:48Z",
+"thumb":"thumbs/Extra_Info__Catalog__Solution_Based.jpg__9f001cfa.jpg"
+}

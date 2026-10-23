@@ -1,0 +1,554 @@
+{
+"id":"Extra_Info__STH__可编辑版本__规格书__S7500_Series_switches_datasheet_EN_V3.6.pptx__7738811f",
+"path":"Extra_Info/STH/可编辑版本/规格书/S7500 Series switches datasheet_EN_V3.6.pptx",
+"name":"S7500 Series switches datasheet_EN_V3.6.pptx",
+"ext":".pptx",
+"bytes":9844889,
+"sha256":"7738811fd3b362b47d0a367c395da98e79e9b8b94d3ae12d8a957af392c09022",
+"source":"Extra_Info.zip",
+"method":"python-pptx",
+"status":"ok",
+"meta":{
+"slides":8,
+"pictures":7
+},
+"warnings":[],
+"chars":7869,
+"text":"[slide 1]\nS7500 SERIES SWITCHES\nDATASHEET\nHigh Performance Data Center Switch\nProduct Overview\nThe S7500 Series switches designed on a domestic new generation switch Chip, which called PeakNetX Chip platform and BigFlow  Chip platform. With 48 x 25G or 24 x 25G high speed ports and rich features, these switches will perfectly meets the requirements of Metro, Enterprise, Data Center, and Hyper converged infrastructure (HCI) networks.\nKey features of the S7500 Series Switches\nMPLS (label-switching-based) integrates IP flexibility and connection-oriented reliability, enabling isolated multi-service bearing, precise traffic scheduling to meet multi-scenario efficient needs.\nMLAG which can build an Active-Active system to improve the reliability of the network links from single board grade to device grade.\nImplementing Vxlan and BGP protocols to build EVPN applications for data centers scenario.\nSwitch-to-switch encryption using MACsec (Media Access Control Security) AES-CMAC.\nPrecision Timing Protocol.\nRich features for Datacenter scenario.\nVersion: V3.6\nRelease Date: 2025/1/21\n\n[slide 2]\nThe S7500 Series switches provide various power supply solutions for customers choosing,\nfixed single power supply, fixed redundant power supplies, and redundant hot-swappable\npower supplies (AC and DC are both available). The Fan solutions also have two bays with\nField replaceable fan modules and build in fans. Generally, air flow of S7500 Series is front\nto rear (AFO), and some of models can do customization of rear to front (AFI) airflow.\nTable 1: Feasible PSU and airflow of S7500 Series\nThe S7500 Series switches support varied management ways, include console port / in-band network ports / out-of-band network port. Support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, SSL, etc. to ensure security of management.\nMoreover, leveraging its profound technical expertise and in-depth understanding of campus and enterprise networking needs, Hohunet has launched the Da Hu Cloud Management System (DHCS). It enhances network management and maintenance efficiency, reduces costs, elevates management intelligence, and delivers a faster, smarter, more secure and reliable network to better meet user requirements.\nItems\tAC\tDC\tAFO\tAFI\tPower Input\tFAN\nS7548N-8Z-EI\t◯\t◯\t◯\t◯\t2\t5\nS7548N-4Z-EI\t◯\t◯\t◯\t◯\t2\t4\nS7548N-4Z-SI\t◯\tX\t◯\tX\t1\t4\nS7524N-8Z-EI\t◯\t◯\t◯\t◯\t2\t2\n\n[slide 3]\nVisual WEB GUI\nHOS allows you to quickly configure common configuration items using a visual WEB GUI, which lowers the application threshold for users.\nTable 2: Family of the S7500 Series switches\nThe S7500 family of Ethernet switches consists of the following models\nModels\tEthernet Ports\tManagement\tPSU 1/PSU 2\tCooling\nS7548N-8Z-EI\t48 x 10G/25G SFP28\u000b+ 8 x 100G QSFP28\tConsole: RJ45 to RS232\u000bEthernet: 1G Port\u000bStorage: USB\t550W /550W CRPS\t5 x Fan Modules\u000b(front-to-back airflow)\nS7548N-4Z-EI\t48 x 10G/25G SFP28\u000b+ 4 x 100G QSFP28\tConsole: RJ45 to RS232\u000bEthernet: 1G Port\u000bStorage: USB\t550W /550W CRPS\t4 x Fan Modules\u000b(front-to-back airflow)\nS7548N-4Z-SI\t48 x 10G/25G SFP28\u000b+ 4 x 100G QSFP28\tConsole: RJ45 to RS232\u000bEthernet: 1G Port\u000bStorage: USB\tFixed single power supply\t4 x fixed fans (front-to-back airflow)\nS7524N-8Z-EI\t24 x 10G/25G SFP28\u000b+ 8 x 100G QSFP28\tConsole: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB\t350W / 350W CRPS\t2 x Fan Modules\u000b(front-to-back airflow)\n\n[slide 4]\nS7500 Physical Specifications\nPacket Switch capacity (Tbps)\nS7548N-8Z-EI: 4.0 Tbps (bidirectional)\nS7548N-4Z-EI: 3.2 Tbps (bidirectional）\nS7548N-4Z-SI: 3.2 Tbps (bidirectional）\nS7524N-8Z-EI: 2.8 Tbps (bidirectional)\nLayer 2/Layer 3 Throughput (Gpps)\nS7548N-8Z-EI: 5.95 Gpps (bidirectional)\nS7548N-4Z-EI: 4.76 Gpps (bidirectional)\nS7548N-4Z-SI: 4.76 Gpps (bidirectional)\nS7524N-8Z-EI: 4.17 Gpps (bidirectional)\nCPU\nDual-core processor, ARM A53(1GHz)\non all models\nWeight (Net weight/Gross weight)\nS7548N-8Z-EI: 9kg/12.5kg\nS7548N-4Z-EI: 8kg/11.5kg\nS7548N-4Z-SI: 5.1kg/7.8kg\nS7524N-8Z-EI: 8kg/11.5kg\nDimensions (W x H x D) with package\nS7548N-8Z-EI: 66.5 x 15 x 56.5cm\nS7548N-4Z-EI: 66.5 x 15 x 56.5cm\nS7548N-4Z-SI: 55.7×15×49.5cm\nS7524N-8Z-EI: 66.5 x 15 x 56.5cm\nDimensions (W x H x D) without package\nS7548N-8Z-EI: 44.2 x 4.4 x 43cm\nS7548N-4Z-EI: 44.2 x 4.4 x 42cm\nS7548N-4Z-SI: 55.7×15×49.5cm\nS7524N-8Z-EI: 44.2 x 4.4 x 36cm\nPower consumption (220V 20ºC)\nWorst case, all ports used, line-rate traffic\nS7548N-8Z-EI: 168W\nS7548N-4Z-EI: 143W\nS7548N-4Z-SI: 129.5W\nS7524N-8Z-EI: 130W\nTypical power consumption\nS7548N-8Z-EI: 154W\nS7548N-4Z-EI: 126W\nS7548N-4Z-SI: 115W\nS7524N-8Z-EI: 116W\nEnvironmental ranges\nOperating temperature: 0ºC to 45ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90% (No condensation)\nStore Humidity: 5 to 95% (No condensation)\nOperating altitude: EI (Swapable PSU and FAN): 0~5km; SI (Swapable PSU and FAN): 0~3km\nTemperature alarm\nAlarm threshold: 50ºC\nMTBF\nEI (Swapable PSU and FAN): ≥90000h\nSI (Swapable PSU and FAN): ≥70000h (~10.3 Years)\nCooling [CFM]-Total Maximum airflow\nS7548N-8Z-EI: 147.17cfm\nS7548N-4Z-EI: 105.32cfm\nS7548N-4Z-SI: 105.32cfm\nS7524N-8Z-EI: 76.98cfm\nMemory\neMMc: 8GB on all models\nDRAM: 2GB on all models\nAcoustic in dBA.\nS7548N-8Z-EI: TBD\nS7548N-4Z-EI: 57dBA\nS7548N-4Z-SI: 53dBA\nS7524N-8Z-EI: 56dBA\n\n[slide 5]\nS7500 Software Specifications\nHOHUNET implements a unified software platform, and the software capabilities supported by the devices are listed in the document‘HOS Software features’ .\n* All HOHUNET switches use a normalized software platform and image package file\n* Unified software version iteration plan\n* Unified user experience\nHOS Network Platform\nLayer 2 switching\nIPv4/lPv6 Unicast Routing\nQoS\nIP Multicast Snooping/Proxy\nIPv4/lPv6 Multi cast Routing\nVRRP\nMultiprotocol Label Switching(MPLS)\nVirtual Private LAN Service(VPLS)\nVirtual Routing and Switching\nGeneralized Multiprotocol LabelSwitching(GMPLS)\nIPv6 Tunneling and TransitionTechnologies\nIP/MPLS OAM\nService management module\nFault Management (FM)\nHigh Availability (HA)\nIntegrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)\nHardware and platform abstraction layer\nAdvanced integration Suite\nCENTEC switch chip  SDK\nSilicon in Pizza, Stacking or Chassis\nConfiguration\nOperating Systems TCP/IP Stacks\nLinux , IPv4/Pv6 Dual Stack\nHardware layer\nCENTEC Switch Chipset\nCPU Subsystem\nCooling SubSystem\nAC/DC DC/DC CLK\nEnvironmental Management Subsystem\nLogical Control Subunit\n\n[slide 6]\nOrdering Information\nS7500 Series Switches\nAC/DC Power Supplies use for S7500 Series\nSoftware Licenses\nItems\tDescription\nS7548N-8Z-EI\t25G Data Center Switch, with 48*25G SFP28，8*100G QSFP28, Dual power supply modules(C13), 5 hot-swap fan modules.\nS7548N-4Z-EI\t25G Data Center Switch, with 48*25G SFP28，4*100G QSFP28, Dual power supply modules(C13), 4 hot-swap fan modules.\nS7548N-4Z-SI\t25G Data Center Switch, with 48*25G SFP28，4*100G QSFP28, 1*Fixed power supply, 4*Fixed Fans\nS7524N-8Z-EI\t25G Data Center Switch, with 24*25G SFP28，8*100G QSFP28, Dual power supply modules(C13), 2 hot-swap fan modules.\nItems\tDescription\nPSU-550-AC-AFO\tS7500 Series 550W AC power supply (front-to-back airflow)\nPSU-350-AC-AFO\tS7500 Series 350W AC power supply (front-to-back airflow)\nPSU-550-DC-AFO\tS7500 Series 550W DC power supply (front-to-back airflow)\nItems\tDescription\nSoftware License\tEB, Basic L3 software features, Preinstalled on SI models\nSoftware License\tMS, L3 enhance features software license key, Preinstalled on EI models\nSoftware License\tMA, MPLS features software license key\nSoftware License\tST, Stacking feature software license key\n\n[slide 7]\nAccessoryof S7500 Series\nItems\tFront Mounting\tRear Mounting\tScrew\tPower Cord\tConsole (RS232 to RJ45)\nS7548N-8Z-EI\t2\t2\t14\t2\t1\nS7548N-4Z-EI\t2\t2\t14\t2\t1\nS7548N-4Z-SI\t2\t2\t14\t1\t1\nS7524N-8Z-EI\t2\t2\t14\t2\t1\n\n[slide 8]\n",
+"slides":[
+{
+"n":1,
+"items":[
+{
+"t":"p",
+"text":"S7500 SERIES SWITCHES\nDATASHEET"
+},
+{
+"t":"p",
+"text":"High Performance Data Center Switch"
+},
+{
+"t":"p",
+"text":"Product Overview"
+},
+{
+"t":"p",
+"text":"The S7500 Series switches designed on a domestic new generation switch Chip, which called PeakNetX Chip platform and BigFlow  Chip platform. With 48 x 25G or 24 x 25G high speed ports and rich features, these switches will perfectly meets the requirements of Metro, Enterprise, Data Center, and Hyper converged infrastructure (HCI) networks."
+},
+{
+"t":"p",
+"text":"Key features of the S7500 Series Switches"
+},
+{
+"t":"p",
+"text":"MPLS (label-switching-based) integrates IP flexibility and connection-oriented reliability, enabling isolated multi-service bearing, precise traffic scheduling to meet multi-scenario efficient needs.\nMLAG which can build an Active-Active system to improve the reliability of the network links from single board grade to device grade.\nImplementing Vxlan and BGP protocols to build EVPN applications for data centers scenario.\nSwitch-to-switch encryption using MACsec (Media Access Control Security) AES-CMAC.\nPrecision Timing Protocol.\nRich features for Datacenter scenario."
+},
+{
+"t":"p",
+"text":"Version: V3.6\nRelease Date: 2025/1/21"
+},
+{
+"t":"picture",
+"name":"图片 1"
+}
+],
+"notes":""
+},
+{
+"n":2,
+"items":[
+{
+"t":"picture",
+"name":"图片 7"
+},
+{
+"t":"picture",
+"name":"图片 9"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"AC",
+"DC",
+"AFO",
+"AFI",
+"Power Input",
+"FAN"
+],
+[
+"S7548N-8Z-EI",
+"◯",
+"◯",
+"◯",
+"◯",
+"2",
+"5"
+],
+[
+"S7548N-4Z-EI",
+"◯",
+"◯",
+"◯",
+"◯",
+"2",
+"4"
+],
+[
+"S7548N-4Z-SI",
+"◯",
+"X",
+"◯",
+"X",
+"1",
+"4"
+],
+[
+"S7524N-8Z-EI",
+"◯",
+"◯",
+"◯",
+"◯",
+"2",
+"2"
+]
+]
+},
+{
+"t":"p",
+"text":"The S7500 Series switches provide various power supply solutions for customers choosing,\nfixed single power supply, fixed redundant power supplies, and redundant hot-swappable\npower supplies (AC and DC are both available). The Fan solutions also have two bays with\nField replaceable fan modules and build in fans. Generally, air flow of S7500 Series is front\nto rear (AFO), and some of models can do customization of rear to front (AFI) airflow."
+},
+{
+"t":"p",
+"text":"Table 1: Feasible PSU and airflow of S7500 Series"
+},
+{
+"t":"p",
+"text":"The S7500 Series switches support varied management ways, include console port / in-band network ports / out-of-band network port. Support SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP connection. Support OAM to make management more convenient, and support SSH2.0, SSL, etc. to ensure security of management.\nMoreover, leveraging its profound technical expertise and in-depth understanding of campus and enterprise networking needs, Hohunet has launched the Da Hu Cloud Management System (DHCS). It enhances network management and maintenance efficiency, reduces costs, elevates management intelligence, and delivers a faster, smarter, more secure and reliable network to better meet user requirements."
+},
+{
+"t":"picture",
+"name":"图片 1"
+}
+],
+"notes":""
+},
+{
+"n":3,
+"items":[
+{
+"t":"p",
+"text":"Visual WEB GUI"
+},
+{
+"t":"p",
+"text":"HOS allows you to quickly configure common configuration items using a visual WEB GUI, which lowers the application threshold for users."
+},
+{
+"t":"picture",
+"name":"图片 7"
+},
+{
+"t":"picture",
+"name":"图片 8"
+},
+{
+"t":"picture",
+"name":"图片 9"
+},
+{
+"t":"p",
+"text":"Table 2: Family of the S7500 Series switches"
+},
+{
+"t":"p",
+"text":"The S7500 family of Ethernet switches consists of the following models"
+},
+{
+"t":"table",
+"rows":[
+[
+"Models",
+"Ethernet Ports",
+"Management",
+"PSU 1/PSU 2",
+"Cooling"
+],
+[
+"S7548N-8Z-EI",
+"48 x 10G/25G SFP28\u000b+ 8 x 100G QSFP28",
+"Console: RJ45 to RS232\u000bEthernet: 1G Port\u000bStorage: USB",
+"550W /550W CRPS",
+"5 x Fan Modules\u000b(front-to-back airflow)"
+],
+[
+"S7548N-4Z-EI",
+"48 x 10G/25G SFP28\u000b+ 4 x 100G QSFP28",
+"Console: RJ45 to RS232\u000bEthernet: 1G Port\u000bStorage: USB",
+"550W /550W CRPS",
+"4 x Fan Modules\u000b(front-to-back airflow)"
+],
+[
+"S7548N-4Z-SI",
+"48 x 10G/25G SFP28\u000b+ 4 x 100G QSFP28",
+"Console: RJ45 to RS232\u000bEthernet: 1G Port\u000bStorage: USB",
+"Fixed single power supply",
+"4 x fixed fans (front-to-back airflow)"
+],
+[
+"S7524N-8Z-EI",
+"24 x 10G/25G SFP28\u000b+ 8 x 100G QSFP28",
+"Console: RJ45 to  RS232\u000bEthernet: 1G Port\u000bStorage: USB",
+"350W / 350W CRPS",
+"2 x Fan Modules\u000b(front-to-back airflow)"
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":4,
+"items":[
+{
+"t":"p",
+"text":"S7500 Physical Specifications"
+},
+{
+"t":"p",
+"text":"Packet Switch capacity (Tbps)\nS7548N-8Z-EI: 4.0 Tbps (bidirectional)\nS7548N-4Z-EI: 3.2 Tbps (bidirectional）\nS7548N-4Z-SI: 3.2 Tbps (bidirectional）\nS7524N-8Z-EI: 2.8 Tbps (bidirectional)"
+},
+{
+"t":"p",
+"text":"Layer 2/Layer 3 Throughput (Gpps)\nS7548N-8Z-EI: 5.95 Gpps (bidirectional)\nS7548N-4Z-EI: 4.76 Gpps (bidirectional)\nS7548N-4Z-SI: 4.76 Gpps (bidirectional)\nS7524N-8Z-EI: 4.17 Gpps (bidirectional)"
+},
+{
+"t":"p",
+"text":"CPU\nDual-core processor, ARM A53(1GHz)\non all models"
+},
+{
+"t":"p",
+"text":"Weight (Net weight/Gross weight)\nS7548N-8Z-EI: 9kg/12.5kg\nS7548N-4Z-EI: 8kg/11.5kg\nS7548N-4Z-SI: 5.1kg/7.8kg\nS7524N-8Z-EI: 8kg/11.5kg"
+},
+{
+"t":"p",
+"text":"Dimensions (W x H x D) with package\nS7548N-8Z-EI: 66.5 x 15 x 56.5cm\nS7548N-4Z-EI: 66.5 x 15 x 56.5cm\nS7548N-4Z-SI: 55.7×15×49.5cm\nS7524N-8Z-EI: 66.5 x 15 x 56.5cm\nDimensions (W x H x D) without package\nS7548N-8Z-EI: 44.2 x 4.4 x 43cm\nS7548N-4Z-EI: 44.2 x 4.4 x 42cm\nS7548N-4Z-SI: 55.7×15×49.5cm\nS7524N-8Z-EI: 44.2 x 4.4 x 36cm"
+},
+{
+"t":"p",
+"text":"Power consumption (220V 20ºC)\nWorst case, all ports used, line-rate traffic\nS7548N-8Z-EI: 168W\nS7548N-4Z-EI: 143W\nS7548N-4Z-SI: 129.5W\nS7524N-8Z-EI: 130W\nTypical power consumption\nS7548N-8Z-EI: 154W\nS7548N-4Z-EI: 126W\nS7548N-4Z-SI: 115W\nS7524N-8Z-EI: 116W"
+},
+{
+"t":"p",
+"text":"Environmental ranges\nOperating temperature: 0ºC to 45ºC\nStorage temperature: -40ºC to 70ºC\nRunning Humidity: 10% to 90% (No condensation)\nStore Humidity: 5 to 95% (No condensation)\nOperating altitude: EI (Swapable PSU and FAN): 0~5km; SI (Swapable PSU and FAN): 0~3km"
+},
+{
+"t":"p",
+"text":"Temperature alarm\nAlarm threshold: 50ºC"
+},
+{
+"t":"p",
+"text":"MTBF\nEI (Swapable PSU and FAN): ≥90000h\nSI (Swapable PSU and FAN): ≥70000h (~10.3 Years)"
+},
+{
+"t":"p",
+"text":"Cooling [CFM]-Total Maximum airflow\nS7548N-8Z-EI: 147.17cfm\nS7548N-4Z-EI: 105.32cfm\nS7548N-4Z-SI: 105.32cfm\nS7524N-8Z-EI: 76.98cfm"
+},
+{
+"t":"p",
+"text":"Memory\neMMc: 8GB on all models\nDRAM: 2GB on all models"
+},
+{
+"t":"p",
+"text":"Acoustic in dBA.\nS7548N-8Z-EI: TBD\nS7548N-4Z-EI: 57dBA\nS7548N-4Z-SI: 53dBA\nS7524N-8Z-EI: 56dBA"
+}
+],
+"notes":""
+},
+{
+"n":5,
+"items":[
+{
+"t":"p",
+"text":"S7500 Software Specifications\nHOHUNET implements a unified software platform, and the software capabilities supported by the devices are listed in the document‘HOS Software features’ ."
+},
+{
+"t":"p",
+"text":"* All HOHUNET switches use a normalized software platform and image package file\n* Unified software version iteration plan\n* Unified user experience"
+},
+{
+"t":"p",
+"text":"HOS Network Platform"
+},
+{
+"t":"p",
+"text":"Layer 2 switching"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Unicast Routing"
+},
+{
+"t":"p",
+"text":"QoS"
+},
+{
+"t":"p",
+"text":"IP Multicast Snooping/Proxy"
+},
+{
+"t":"p",
+"text":"IPv4/lPv6 Multi cast Routing"
+},
+{
+"t":"p",
+"text":"VRRP"
+},
+{
+"t":"p",
+"text":"Multiprotocol Label Switching(MPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Private LAN Service(VPLS)"
+},
+{
+"t":"p",
+"text":"Virtual Routing and Switching"
+},
+{
+"t":"p",
+"text":"Generalized Multiprotocol LabelSwitching(GMPLS)"
+},
+{
+"t":"p",
+"text":"IPv6 Tunneling and TransitionTechnologies"
+},
+{
+"t":"p",
+"text":"IP/MPLS OAM"
+},
+{
+"t":"p",
+"text":"Service management module"
+},
+{
+"t":"p",
+"text":"Fault Management (FM)"
+},
+{
+"t":"p",
+"text":"High Availability (HA)"
+},
+{
+"t":"p",
+"text":"Integrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)"
+},
+{
+"t":"p",
+"text":"Hardware and platform abstraction layer"
+},
+{
+"t":"p",
+"text":"Advanced integration Suite"
+},
+{
+"t":"p",
+"text":"CENTEC switch chip  SDK"
+},
+{
+"t":"p",
+"text":"Silicon in Pizza, Stacking or Chassis\nConfiguration"
+},
+{
+"t":"p",
+"text":"Operating Systems TCP/IP Stacks"
+},
+{
+"t":"p",
+"text":"Linux , IPv4/Pv6 Dual Stack"
+},
+{
+"t":"p",
+"text":"Hardware layer"
+},
+{
+"t":"p",
+"text":"CENTEC Switch Chipset"
+},
+{
+"t":"p",
+"text":"CPU Subsystem"
+},
+{
+"t":"p",
+"text":"Cooling SubSystem"
+},
+{
+"t":"p",
+"text":"AC/DC DC/DC CLK"
+},
+{
+"t":"p",
+"text":"Environmental Management Subsystem"
+},
+{
+"t":"p",
+"text":"Logical Control Subunit"
+}
+],
+"notes":""
+},
+{
+"n":6,
+"items":[
+{
+"t":"p",
+"text":"Ordering Information\nS7500 Series Switches"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"S7548N-8Z-EI",
+"25G Data Center Switch, with 48*25G SFP28，8*100G QSFP28, Dual power supply modules(C13), 5 hot-swap fan modules."
+],
+[
+"S7548N-4Z-EI",
+"25G Data Center Switch, with 48*25G SFP28，4*100G QSFP28, Dual power supply modules(C13), 4 hot-swap fan modules."
+],
+[
+"S7548N-4Z-SI",
+"25G Data Center Switch, with 48*25G SFP28，4*100G QSFP28, 1*Fixed power supply, 4*Fixed Fans"
+],
+[
+"S7524N-8Z-EI",
+"25G Data Center Switch, with 24*25G SFP28，8*100G QSFP28, Dual power supply modules(C13), 2 hot-swap fan modules."
+]
+]
+},
+{
+"t":"p",
+"text":"AC/DC Power Supplies use for S7500 Series"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"PSU-550-AC-AFO",
+"S7500 Series 550W AC power supply (front-to-back airflow)"
+],
+[
+"PSU-350-AC-AFO",
+"S7500 Series 350W AC power supply (front-to-back airflow)"
+],
+[
+"PSU-550-DC-AFO",
+"S7500 Series 550W DC power supply (front-to-back airflow)"
+]
+]
+},
+{
+"t":"p",
+"text":"Software Licenses"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Description"
+],
+[
+"Software License",
+"EB, Basic L3 software features, Preinstalled on SI models"
+],
+[
+"Software License",
+"MS, L3 enhance features software license key, Preinstalled on EI models"
+],
+[
+"Software License",
+"MA, MPLS features software license key"
+],
+[
+"Software License",
+"ST, Stacking feature software license key"
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":7,
+"items":[
+{
+"t":"p",
+"text":"Accessoryof S7500 Series"
+},
+{
+"t":"table",
+"rows":[
+[
+"Items",
+"Front Mounting",
+"Rear Mounting",
+"Screw",
+"Power Cord",
+"Console (RS232 to RJ45)"
+],
+[
+"S7548N-8Z-EI",
+"2",
+"2",
+"14",
+"2",
+"1"
+],
+[
+"S7548N-4Z-EI",
+"2",
+"2",
+"14",
+"2",
+"1"
+],
+[
+"S7548N-4Z-SI",
+"2",
+"2",
+"14",
+"1",
+"1"
+],
+[
+"S7524N-8Z-EI",
+"2",
+"2",
+"14",
+"2",
+"1"
+]
+]
+}
+],
+"notes":""
+},
+{
+"n":8,
+"items":[],
+"notes":""
+}
+],
+"extracted_at":"2026-10-23T05:04:27Z"
+}

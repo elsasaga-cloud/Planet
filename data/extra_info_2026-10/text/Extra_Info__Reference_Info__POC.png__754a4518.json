@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Reference_Info__POC.png__754a4518",
+"path":"Extra_Info/Reference Info/POC.png",
+"name":"POC.png",
+"ext":".png",
+"bytes":290052,
+"sha256":"754a4518feb21e87c544a2746ceeb3c8d5929c889c5e775e12e9509d14ecf70a",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1616,
+"height":739,
+"mode":"RGBA",
+"thumb_bytes":9224
+},
+"warnings":[],
+"chars":720,
+"text":"交换 机 4 端口 PoE\n交换 机 8 端口 PoE\n交换 机 16 端口 PoE\n交换 机 24 个 PoE 端口\nPoE 延長 器\nPoC (同 軸 電 纜 供 電 )\nPoE 交 換 机\n双 绞 线\nPoE 標 準 概述\n以 太 网 供电 (PoE)\nPoC ( 同 轴 电 缆 供 电 ) 标准 - 通过 同 轴 电 缆 (RG6、RG58、RG59) 进行 电力 传输 (功率) 。 这 是 什么 意思 - 一 根 同\n轴 电 缆 传 输 HDTVI、HDCVI、AHD 信号 、 模拟 信号 ， 同 时 向 摄像 机 传输 电源 电压 。\n迄今 为 止 ， 支 持 该 标准 的 设备 在 乌克兰 和 世界 其 他 国家 的 需求 量 越 3\n制造 商 大 华 和 海 康 威 视 。\n这 些 制 造 商 直接 将 此 功能 内 置 到 接收 和 发 送 设备 中 。DVR 中 内 置 了 一 个 PoC 模 块 ( 带 有 额外 的 电源 )\n相机 还 包括 一 个 分 离 信号 和 电源 的 PoC 模 块 (限制 為 所 需 的 12V) 。\nTVI-DVR\nxa6ens 《\nBugeo curnan 人\nTieramwe 48B — |\nKamepa cPOC\nBugeo curnan yY'\nTinranne 48B A\nKamepa 6es POC\nPOC anamrep —_Buaeo curuan\nBuyeo curnan 四 ‘fio\nThwranne 48B 74 Thirranne 12B\n越 大 。 采 用 这 一 标准 的 品牌 是 世界 著名 的 中 国 领先\n。 支 持 此 功能 的",
+"extracted_at":"2026-10-23T05:07:43Z",
+"thumb":"thumbs/Extra_Info__Reference_Info__POC.png__754a4518.jpg"
+}

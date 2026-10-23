@@ -1,0 +1,603 @@
+{
+"id":"Extra_Info__Price__2026_Price_List_Marvell_Industrial_Unmanaged_Switch.xls__f7d33163",
+"path":"Extra_Info/Price/2026 Price List_Marvell Industrial Unmanaged Switch.xls",
+"name":"2026 Price List_Marvell Industrial Unmanaged Switch.xls",
+"ext":".xls",
+"bytes":8133120,
+"sha256":"f7d33163d0566d2ba8383d95af9a95fd4c755ea6a1e4ee680231553841831b8f",
+"source":"Extra_Info.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Saga Telecom"
+],
+"rows_total":77
+},
+"warnings":[],
+"chars":10530,
+"text":"--- Sheet: Saga Telecom ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 13048800964                                         www.sagatelecom.com.cn                               Email: a.sagatelecom@gmail.com\nDownload Link(information for full category)\nhttps://drive.google.com/drive/folders/16-Puvcm-k78ohw452vHUthWWr51Fkg1Y?usp=drive_link\nMust-Know\nRedundant power supply with polarity reverse/over-voltage protection\nNon-PoE Input: DC12~58V, PoE Input, DC44~57V\nSupport 10K Bytes Jumbo frame and 1M large buffer                                                                                                                            \nSupport 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\nIP40 fan-less and Din-rail hardware design with compact size (30*85*85mm, 0.3kg)\nOperation temperature: -40℃ ~+75℃\nPlease talk with us if SINGLE FIBER transceiver is required.\nModel\tSpecification\t\t\t\tFiber Choice\tPrice\tPicture\nClick the model name, you will be directed to the product webpage for more information\nSTI-110FE\t1*10/100M Ethernet + 1 port 100M Fiber, DIP functions\n1. LFP; 2. Flow control; 3. Broadcast storm restrain; 4. 10Kbytes jumbo frame\t\t\t\tSFP Slot, Without Module\t21\n\t\t\t\t\t1*9 Module, SC/FC/ST\nDual Fiber (0.5KM/2KM/20KM)\t27\nSTI-111FP\t1*10/100M PoE + 1 port 100M Fiber, PoE af/at Compliant, 30W budget, DIP functions\n1. LFP; 2. Flow control; 3. 250m long distance; 4. PoE watchdog\t\t\t\tSFP Slot, Without Module\t27\n\t\t\t\t\t1*9 Module, SC/FC/ST\nDual Fiber (0.5KM/2KM/20KM)\t33\nSTI-110GE\t1*10/100/1000M Ethernet + 1 port 100/1000M Fiber, DIP function\n1. LFP; 2. Flow control; 3. Broadcast storm restrain; 4. fiber port 100/1000M selection\t\t\t\tSFP Slot, Without Module\t27\n\t\t\t\t\t1*9 Module, SC/FC/ST\nDual Fiber (0.5KM/2KM/20KM)\t33\nSTI-111GP\t1*10/100/1000M PoE + 1 port 100/1000M Fiber, PoE af/at Compliant, 30W budget, DIP function\n1. LFP; 2. Fiber port 100/1000M selection; 3. 250m long distance; 4. PoE watchdog\t\t\t\tSFP Slot, Without Module\t33\n\t\t\t\t\t1*9 Module, SC/FC/ST\nDual Fiber (0.5KM/2KM/20KM)\t39\nSTI-120FE\t2*10/100M Ethernet + 1 port 100M Fiber, DIP functions\n1. Port isolation; 2. Flow control; 3. Broadcast storm restrain; 4. 10Kbytes jumbo frame\t\t\t\tSFP Slot, Without Module\t24\n\t\t\t\t\t1*9 Module, SC/FC/ST\nDual Fiber (0.5KM/2KM/20KM)\t30\nSTI-122FP\t2*10/100M PoE + 1 port 100M Fiber, PoE af/at Compliant, 60W budget, DIP functions\n1. Port isolation; 2. Flow control; 3. 250m long distance; 4. PoE watchdog\t\t\t\tSFP Slot, Without Module\t30\n\t\t\t\t\t1*9 Module, SC/FC/ST\nDual Fiber (0.5KM/2KM/20KM)\t36\nSTI-120GE\t2*10/100/1000M Ethernet + 1 port 100/1000M Fiber, DIP function\n1. Port isolation; 2. Flow control; 3. Broadcast storm restrain; 4. fiber port 100/1000M selection\t\t\t\tSFP Slot, Without Module\t27\n\t\t\t\t\t1*9 Module, SC/FC/ST\nDual Fiber (0.5KM/2KM/20KM)\t33\nSTI-122GP\t2*10/100/1000M PoE + 1 port 100/1000M Fiber, PoE af/at Compliant, 60W budget, DIP function\n1. Port isolation; 2. Fiber port 100/1000M selection; 3. 250m long distance; 4. PoE watchdog\t\t\t\tSFP Slot, Without Module\t33\n\t\t\t\t\t1*9 Module, SC/FC/ST\nDual Fiber (0.5KM/2KM/20KM)\t39\nSTI-220FE\t2*10/100M Ethernet + 2 port 100M Fiber, DIP function\n1. Fiber redundant; 2. Flow control; 3. Broadcast storm restrain; 4. 10Kbytes jumbo frame\t\t\t\tSFP Slot, Without Module\t27\nSTI-222FP\t2*10/100M PoE + 2 port 100M Fiber, PoE af/at Compliant, 60W budget, DIP function\n1. Fiber redundant; 2. Flow control; 3. 250m long distance; 4. PoE watchdog\t\t\t\tSFP Slot, Without Module\t33\nSTI-220GE\t2*10/100/1000M Ethernet + 2 port 100/1000M Fiber, DIP function\n1. Fiber redundant; 2. Flow control; 3. Broadcast storm restrain; 4. Fiber ports 100/1000M selection\t\t\t\tSFP Slot, Without Module\t33\nSTI-222GP\t2*10/100/1000M PoE + 2 port 100/1000M Fiber, PoE af/at Compliant, 60W budget, DIP function\n1. Fiber redundant; 2. Fiber ports 100/1000M selection; 3. 250m long distance; 4. PoE watchdog\t\t\t\tSFP Slot, Without Module\t36\nMust-Know\nDC12~58V input, Redundant power supply with polarity reverse/over-voltage protection                                                                                                                  \nSupport 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\nIP40 fan-less and Din-rail hardware design\nOperation temperature: -40℃ ~+75℃\nPlease talk with us if  FIBER TRANSCEIVER is required.\nModel\tSpecification\t\t\t\tFiber Choice\tPrice\tPicture\nSTI-050FE\t5*10/100M Ethernet, DIP function\n1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\t\t\t\tWithout Fiber\t25\nSTI-080FE\t8*10/100M Ethernet, DIP function\n1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\t\t\t\tWithout Fiber\t40\nSTI-050GE\t5*10/100/1000M Ethernet, DIP function\n1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\t\t\t\tWithout Fiber\t31\nSTI-080GE\t8*10/100/1000M Ethernet, DIP function\n1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\t\t\t\tWithout Fiber\t50\nSTI-0160GE\t16*10/100/1000M Ethernet, DIP function\n1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\t\t\t\tWithout Fiber\t105\nSTI-140FE\t4*10/100M Ethernet + 1 port 100M Fiber, DIP functions\n1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\t\t\t\tSFP Slot, Without Module\t27\nSTI-180FE\t8*10/100M Ethernet + 1 port 100M Fiber, DIP functions\n1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\t\t\t\tSFP Slot, Without Module\t44\nSTI-240FE\t4*10/100M Ethernet + 2 port 100M Fiber, DIP functions\n1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\t\t\t\tSFP Slot, Without Module\t30\nSTI-260FE\t6*10/100M Ethernet + 2 port 100M Fiber, DIP functions\n1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\t\t\t\tSFP Slot, Without Module\t40\nSTI-140GE\t4*10/100/1000M Ethernet + 1 port 1000M Fiber, DIP functions\n1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\t\t\t\tSFP Slot, Without Module\t34\nSTI-150GE\t5*10/100/1000M Ethernet + 1 port 1000M Fiber, DIP function\n1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\t\t\t\tSFP Slot, Without Module\t39\nSTI-180GE\t8*10/100/1000M Ethernet + 1 port 1000M Fiber, DIP functions\n1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\t\t\t\tSFP Slot, Without Module\t54\nSTI-240GE\t4*10/100/1000M Ethernet + 2 port 1000M Fiber, DIP function\n1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\t\t\t\tSFP Slot, Without Module\t37\nSTI-280GE\t8*10/100/1000M Ethernet + 2 port 1000M Fiber, DIP functions\n1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\t\t\t\tSFP Slot, Without Module\t58\nSTI-480GE\t8*10/100/1000M Ethernet + 4 port 1000M Fiber, DIP function\n1. Link aggregation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\t\t\t\tSFP Slot, Without Module\t105\nSTI-880GE\t8*10/100/1000M Ethernet + 8 port 1000M Fiber, DIP functions\n1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\t\t\t\tSFP Slot, Without Module\t125\nSTI-2160GE\t16*10/100/1000M Ethernet + 2 port 1000M Fiber, DIP function\n1. Link aggregation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\t\t\t\tSFP Slot, Without Module\t155\nMust-Know\nDC12~58V input, Redundant power supply with polarity reverse/over-voltage protection                                                                                                                  \nSupport 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\nIP40 fan-less and Din-rail hardware design\nOperation temperature: -40℃ ~+75℃\nPlease talk with us if  FIBER TRANSCEIVER is required.\nModel\tSpecification\t\t\t\tFiber Choice\tPrice\tPicture\nSTI-054FP\t5*10/100M PoE, DIP function\n1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog\t\t\t\tWithout Fiber\t32\nSTI-088FP\t8*10/100M PoE, DIP function\n1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog\t\t\t\tWithout Fiber\t47\nSTI-054GP\t4*10/100/1000M PoE + 1*10/100/1000M Ethernet, DIP function\n1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog\t\t\t\tWithout Fiber\t39\nSTI-088GP\t8*10/100/1000M PoE, DIP function\n1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog\t\t\t\tWithout Fiber\t60\nSTI-01616GP\t16*10/100/1000M PoE, DIP function\n1. Link aggregation; 2. 250m long distance; 3. QoS; 4. PoE watchdog\t\t\t\tWithout Fiber\t130\nSTI-144FP\t4*10/100M PoE + 1 port 100M Fiber, DIP functions\n1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog\t\t\t\tSFP Slot, Without Module\t34\nSTI-188FP\t8*10/100M PoE + 1 port 100M Fiber, DIP functions\n1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog\t\t\t\tSFP Slot, Without Module\t51\nSTI-244FP\t4*10/100M PoE + 2 port 100M Fiber, DIP functions\n1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog\t\t\t\tSFP Slot, Without Module\t37\nSTI-266FP\t6*10/100M PoE + 2 port 100M Fiber, DIP functions\n1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog\t\t\t\tSFP Slot, Without Module\t47\nSTI-144GP\t4*10/100/1000M PoE + 1 port 1000M Fiber, DIP functions\n1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog\t\t\t\tSFP Slot, Without Module\t42\nSTI-154GP\t4*10/100/1000M PoE + 1*10/100/1000M Ethernet + 1 port 1000M Fiber, DIP function\n1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog\t\t\t\tSFP Slot, Without Module\t47\nSTI-188GP\t8*10/100/1000M PoE + 1 port 1000M Fiber, DIP functions\n1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog\t\t\t\tSFP Slot, Without Module\t64\nSTI-244GP\t4*10/100/1000M PoE + 2 port 1000M Fiber, DIP functions\n1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog\t\t\t\tSFP Slot, Without Module\t45\nSTI-288GP\t8*10/100/1000M PoE + 2 port 1000M Fiber, DIP functions\n1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog\t\t\t\tSFP Slot, Without Module\t68\nSTI-488GP\t8*10/100/1000M PoE + 2 port 1000M Fiber, DIP functions\n1. Link aggregation; 2. 250m long distance; 3. QoS; 4. PoE watchdog\t\t\t\tSFP Slot, Without Module\t120\nSTI-888GP\t8*10/100/1000M PoE + 8 port 1000M Fiber, WITHOUT DIP functions\t\t\t\tSFP Slot, Without Module\t145\nSTI-21616GP\t16*10/100/1000M PoE + 2 port 1000M Fiber, DIP functions\n1. Link aggregation; 2. 250m long distance; 3. QoS; 4. PoE watchdog\t\t\t\tSFP Slot, Without Module\t185\nRemarks\n1. Prices are valid for 15 days, all the prices are NOT including power supply\n2. Price term: EXW\n3. Warranty period: Three years\n4. Lead time for less than 50pcs: 5~7 working days\n5. Customization is available",
+"sheets":{
+"Saga Telecom":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Tailored Marvell Managed Networking Solutions Provider"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 13048800964                                         www.sagatelecom.com.cn                               Email: a.sagatelecom@gmail.com"
+],
+[
+"Download Link(information for full category)"
+],
+[
+"https://drive.google.com/drive/folders/16-Puvcm-k78ohw452vHUthWWr51Fkg1Y?usp=drive_link"
+],
+[
+"Must-Know"
+],
+[
+"Redundant power supply with polarity reverse/over-voltage protection\nNon-PoE Input: DC12~58V, PoE Input, DC44~57V\nSupport 10K Bytes Jumbo frame and 1M large buffer                                                                                                                            \nSupport 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\nIP40 fan-less and Din-rail hardware design with compact size (30*85*85mm, 0.3kg)\nOperation temperature: -40℃ ~+75℃\nPlease talk with us if SINGLE FIBER transceiver is required."
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"",
+"Fiber Choice",
+"Price",
+"Picture"
+],
+[
+"Click the model name, you will be directed to the product webpage for more information"
+],
+[
+"STI-110FE",
+"1*10/100M Ethernet + 1 port 100M Fiber, DIP functions\n1. LFP; 2. Flow control; 3. Broadcast storm restrain; 4. 10Kbytes jumbo frame",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"21"
+],
+[
+"",
+"",
+"",
+"",
+"",
+"1*9 Module, SC/FC/ST\nDual Fiber (0.5KM/2KM/20KM)",
+"27"
+],
+[
+"STI-111FP",
+"1*10/100M PoE + 1 port 100M Fiber, PoE af/at Compliant, 30W budget, DIP functions\n1. LFP; 2. Flow control; 3. 250m long distance; 4. PoE watchdog",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"27"
+],
+[
+"",
+"",
+"",
+"",
+"",
+"1*9 Module, SC/FC/ST\nDual Fiber (0.5KM/2KM/20KM)",
+"33"
+],
+[
+"STI-110GE",
+"1*10/100/1000M Ethernet + 1 port 100/1000M Fiber, DIP function\n1. LFP; 2. Flow control; 3. Broadcast storm restrain; 4. fiber port 100/1000M selection",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"27"
+],
+[
+"",
+"",
+"",
+"",
+"",
+"1*9 Module, SC/FC/ST\nDual Fiber (0.5KM/2KM/20KM)",
+"33"
+],
+[
+"STI-111GP",
+"1*10/100/1000M PoE + 1 port 100/1000M Fiber, PoE af/at Compliant, 30W budget, DIP function\n1. LFP; 2. Fiber port 100/1000M selection; 3. 250m long distance; 4. PoE watchdog",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"33"
+],
+[
+"",
+"",
+"",
+"",
+"",
+"1*9 Module, SC/FC/ST\nDual Fiber (0.5KM/2KM/20KM)",
+"39"
+],
+[
+"STI-120FE",
+"2*10/100M Ethernet + 1 port 100M Fiber, DIP functions\n1. Port isolation; 2. Flow control; 3. Broadcast storm restrain; 4. 10Kbytes jumbo frame",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"24"
+],
+[
+"",
+"",
+"",
+"",
+"",
+"1*9 Module, SC/FC/ST\nDual Fiber (0.5KM/2KM/20KM)",
+"30"
+],
+[
+"STI-122FP",
+"2*10/100M PoE + 1 port 100M Fiber, PoE af/at Compliant, 60W budget, DIP functions\n1. Port isolation; 2. Flow control; 3. 250m long distance; 4. PoE watchdog",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"30"
+],
+[
+"",
+"",
+"",
+"",
+"",
+"1*9 Module, SC/FC/ST\nDual Fiber (0.5KM/2KM/20KM)",
+"36"
+],
+[
+"STI-120GE",
+"2*10/100/1000M Ethernet + 1 port 100/1000M Fiber, DIP function\n1. Port isolation; 2. Flow control; 3. Broadcast storm restrain; 4. fiber port 100/1000M selection",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"27"
+],
+[
+"",
+"",
+"",
+"",
+"",
+"1*9 Module, SC/FC/ST\nDual Fiber (0.5KM/2KM/20KM)",
+"33"
+],
+[
+"STI-122GP",
+"2*10/100/1000M PoE + 1 port 100/1000M Fiber, PoE af/at Compliant, 60W budget, DIP function\n1. Port isolation; 2. Fiber port 100/1000M selection; 3. 250m long distance; 4. PoE watchdog",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"33"
+],
+[
+"",
+"",
+"",
+"",
+"",
+"1*9 Module, SC/FC/ST\nDual Fiber (0.5KM/2KM/20KM)",
+"39"
+],
+[
+"STI-220FE",
+"2*10/100M Ethernet + 2 port 100M Fiber, DIP function\n1. Fiber redundant; 2. Flow control; 3. Broadcast storm restrain; 4. 10Kbytes jumbo frame",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"27"
+],
+[
+"STI-222FP",
+"2*10/100M PoE + 2 port 100M Fiber, PoE af/at Compliant, 60W budget, DIP function\n1. Fiber redundant; 2. Flow control; 3. 250m long distance; 4. PoE watchdog",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"33"
+],
+[
+"STI-220GE",
+"2*10/100/1000M Ethernet + 2 port 100/1000M Fiber, DIP function\n1. Fiber redundant; 2. Flow control; 3. Broadcast storm restrain; 4. Fiber ports 100/1000M selection",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"33"
+],
+[
+"STI-222GP",
+"2*10/100/1000M PoE + 2 port 100/1000M Fiber, PoE af/at Compliant, 60W budget, DIP function\n1. Fiber redundant; 2. Fiber ports 100/1000M selection; 3. 250m long distance; 4. PoE watchdog",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"36"
+],
+[
+"Must-Know"
+],
+[
+"DC12~58V input, Redundant power supply with polarity reverse/over-voltage protection                                                                                                                  \nSupport 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\nIP40 fan-less and Din-rail hardware design\nOperation temperature: -40℃ ~+75℃\nPlease talk with us if  FIBER TRANSCEIVER is required."
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"",
+"Fiber Choice",
+"Price",
+"Picture"
+],
+[
+"STI-050FE",
+"5*10/100M Ethernet, DIP function\n1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain",
+"",
+"",
+"",
+"Without Fiber",
+"25"
+],
+[
+"STI-080FE",
+"8*10/100M Ethernet, DIP function\n1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain",
+"",
+"",
+"",
+"Without Fiber",
+"40"
+],
+[
+"STI-050GE",
+"5*10/100/1000M Ethernet, DIP function\n1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain",
+"",
+"",
+"",
+"Without Fiber",
+"31"
+],
+[
+"STI-080GE",
+"8*10/100/1000M Ethernet, DIP function\n1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain",
+"",
+"",
+"",
+"Without Fiber",
+"50"
+],
+[
+"STI-0160GE",
+"16*10/100/1000M Ethernet, DIP function\n1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain",
+"",
+"",
+"",
+"Without Fiber",
+"105"
+],
+[
+"STI-140FE",
+"4*10/100M Ethernet + 1 port 100M Fiber, DIP functions\n1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"27"
+],
+[
+"STI-180FE",
+"8*10/100M Ethernet + 1 port 100M Fiber, DIP functions\n1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"44"
+],
+[
+"STI-240FE",
+"4*10/100M Ethernet + 2 port 100M Fiber, DIP functions\n1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"30"
+],
+[
+"STI-260FE",
+"6*10/100M Ethernet + 2 port 100M Fiber, DIP functions\n1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"40"
+],
+[
+"STI-140GE",
+"4*10/100/1000M Ethernet + 1 port 1000M Fiber, DIP functions\n1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"34"
+],
+[
+"STI-150GE",
+"5*10/100/1000M Ethernet + 1 port 1000M Fiber, DIP function\n1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"39"
+],
+[
+"STI-180GE",
+"8*10/100/1000M Ethernet + 1 port 1000M Fiber, DIP functions\n1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"54"
+],
+[
+"STI-240GE",
+"4*10/100/1000M Ethernet + 2 port 1000M Fiber, DIP function\n1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"37"
+],
+[
+"STI-280GE",
+"8*10/100/1000M Ethernet + 2 port 1000M Fiber, DIP functions\n1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"58"
+],
+[
+"STI-480GE",
+"8*10/100/1000M Ethernet + 4 port 1000M Fiber, DIP function\n1. Link aggregation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"105"
+],
+[
+"STI-880GE",
+"8*10/100/1000M Ethernet + 8 port 1000M Fiber, DIP functions\n1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"125"
+],
+[
+"STI-2160GE",
+"16*10/100/1000M Ethernet + 2 port 1000M Fiber, DIP function\n1. Link aggregation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"155"
+],
+[
+"Must-Know"
+],
+[
+"DC12~58V input, Redundant power supply with polarity reverse/over-voltage protection                                                                                                                  \nSupport 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\nIP40 fan-less and Din-rail hardware design\nOperation temperature: -40℃ ~+75℃\nPlease talk with us if  FIBER TRANSCEIVER is required."
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"",
+"Fiber Choice",
+"Price",
+"Picture"
+],
+[
+"STI-054FP",
+"5*10/100M PoE, DIP function\n1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog",
+"",
+"",
+"",
+"Without Fiber",
+"32"
+],
+[
+"STI-088FP",
+"8*10/100M PoE, DIP function\n1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog",
+"",
+"",
+"",
+"Without Fiber",
+"47"
+],
+[
+"STI-054GP",
+"4*10/100/1000M PoE + 1*10/100/1000M Ethernet, DIP function\n1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog",
+"",
+"",
+"",
+"Without Fiber",
+"39"
+],
+[
+"STI-088GP",
+"8*10/100/1000M PoE, DIP function\n1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog",
+"",
+"",
+"",
+"Without Fiber",
+"60"
+],
+[
+"STI-01616GP",
+"16*10/100/1000M PoE, DIP function\n1. Link aggregation; 2. 250m long distance; 3. QoS; 4. PoE watchdog",
+"",
+"",
+"",
+"Without Fiber",
+"130"
+],
+[
+"STI-144FP",
+"4*10/100M PoE + 1 port 100M Fiber, DIP functions\n1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"34"
+],
+[
+"STI-188FP",
+"8*10/100M PoE + 1 port 100M Fiber, DIP functions\n1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"51"
+],
+[
+"STI-244FP",
+"4*10/100M PoE + 2 port 100M Fiber, DIP functions\n1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"37"
+],
+[
+"STI-266FP",
+"6*10/100M PoE + 2 port 100M Fiber, DIP functions\n1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"47"
+],
+[
+"STI-144GP",
+"4*10/100/1000M PoE + 1 port 1000M Fiber, DIP functions\n1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"42"
+],
+[
+"STI-154GP",
+"4*10/100/1000M PoE + 1*10/100/1000M Ethernet + 1 port 1000M Fiber, DIP function\n1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"47"
+],
+[
+"STI-188GP",
+"8*10/100/1000M PoE + 1 port 1000M Fiber, DIP functions\n1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"64"
+],
+[
+"STI-244GP",
+"4*10/100/1000M PoE + 2 port 1000M Fiber, DIP functions\n1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"45"
+],
+[
+"STI-288GP",
+"8*10/100/1000M PoE + 2 port 1000M Fiber, DIP functions\n1. Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"68"
+],
+[
+"STI-488GP",
+"8*10/100/1000M PoE + 2 port 1000M Fiber, DIP functions\n1. Link aggregation; 2. 250m long distance; 3. QoS; 4. PoE watchdog",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"120"
+],
+[
+"STI-888GP",
+"8*10/100/1000M PoE + 8 port 1000M Fiber, WITHOUT DIP functions",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"145"
+],
+[
+"STI-21616GP",
+"16*10/100/1000M PoE + 2 port 1000M Fiber, DIP functions\n1. Link aggregation; 2. 250m long distance; 3. QoS; 4. PoE watchdog",
+"",
+"",
+"",
+"SFP Slot, Without Module",
+"185"
+],
+[
+"Remarks"
+],
+[
+"1. Prices are valid for 15 days, all the prices are NOT including power supply"
+],
+[
+"2. Price term: EXW"
+],
+[
+"3. Warranty period: Three years"
+],
+[
+"4. Lead time for less than 50pcs: 5~7 working days"
+],
+[
+"5. Customization is available"
+]
+]
+}
+},
+"extracted_at":"2026-10-23T05:05:47Z"
+}

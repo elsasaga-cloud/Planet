@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Saga_SEO__Reddit__saga_reddit_banner_v3.png__6d3ea7d6",
+"path":"Extra_Info/Saga SEO/Reddit/saga_reddit_banner_v3.png",
+"name":"saga_reddit_banner_v3.png",
+"ext":".png",
+"bytes":53645,
+"sha256":"6d3ea7d65644c3e93a48b65840165396d7fabd4207ce23dc44f3769059505d61",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1920,
+"height":384,
+"mode":"RGB",
+"thumb_bytes":3989
+},
+"warnings":[],
+"chars":286,
+"text":"SAGA Managed switching\nTELECOM\n一 ENGINEERING & SUPPLY-CHAIN-FIRST\nfor every layer.\nSTI — Industrial\nDIN-rail » -40°C to 75°C » PoE+ ERPS - Fiber Bypass\nSTC — Commercial\naU Rack » PoE++ 99W ， ALl-fiber L3 + 749w Budget\nSTH — Core & Aggregation\n324006 - MPLS / VXLAN / EVPN - Hot-swap PSU",
+"extracted_at":"2026-10-23T05:01:55Z",
+"thumb":"thumbs/Extra_Info__Saga_SEO__Reddit__saga_reddit_banner_v3.png__6d3ea7d6.jpg"
+}

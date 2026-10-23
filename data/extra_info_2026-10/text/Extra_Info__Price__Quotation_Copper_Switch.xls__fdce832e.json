@@ -1,0 +1,355 @@
+{
+"id":"Extra_Info__Price__Quotation_Copper_Switch.xls__fdce832e",
+"path":"Extra_Info/Price/Quotation_Copper Switch.xls",
+"name":"Quotation_Copper Switch.xls",
+"ext":".xls",
+"bytes":3757568,
+"sha256":"fdce832ea12331051c732b3ccbbcd304a30126e7452f579e5c65508bd49a8866",
+"source":"Extra_Info.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Quotation"
+],
+"rows_total":61
+},
+"warnings":[],
+"chars":5186,
+"text":"--- Sheet: Quotation ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 13048800964                                          www.sagatelecom.com.cn                                Email: a.sagatelecom@gmail.com\n*********************************************************************************************************************\nQuotation\nBuyer:\tDema Vertriebs GmbH\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t49 151 10820 367\t\tQuoted By:\tAlan\nEmail:\tm.geck@dema-vertrieb.com\t\tDate:\t10th, June, 2025\nContact Person:\tMarkus Geck\t\tPrice Term:\tEXW\nDestination\tGermany\nModel\tSpecification\t\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSeller: STI-050FE\n\nBuyer: Null\t\tIndustrial Ethernet Switch\n\n5*10/100M RJ45\nNon-PoE, Unmanaged\nDC12V~DC58V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted\nWithout Power Supply\t\t1\t22.5\t22.5\tMarvell Chip\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 130*98*30mm\nGross Weight: 0.7KG\nSeller: STI-054FP\n\nBuyer: Null\t\tIndustrial PoE Switch\n\n5*10/100M RJ45\n1*Copper Uplink+4*PoE Downlink\nPoE af/at, 120W, Unmanaged\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted\nWithout Power Supply\t\t1\t30\t30\tMarvell Chip\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 130*98*30mm\nGross Weight: 0.7KG\nSeller: STI-050FE\n\nBuyer: Null\t\tIndustrial Ethernet Switch\n\n5*10/100/1000M RJ45\nNon-PoE, Unmanaged\nDC12V~DC58V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted\nWithout Power Supply\t\t1\t25\t25\tMarvell Chip\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 130*98*30mm\nGross Weight: 0.7KG\nSeller: STI-054FP\n\nBuyer: Null\t\tIndustrial PoE Switch\n\n5*10/100/1000M RJ45\n1*Copper Uplink+4*PoE Downlink\nPoE af/at, 120W, Unmanaged\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted\nWithout Power Supply\t\t1\t32.5\t32.5\tMarvell Chip\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 130*98*30mm\nGross Weight: 0.7KG\nSeller: STI-080FE\n\nBuyer: Null\t\tIndustrial Ethernet Switch\n\n8*10/100M RJ45\nNon-PoE, Unmanaged\nDC12V~DC58V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted\nWithout Power Supply\t\t1\t25.5\t25.5\tMarvell Chip\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 98*98*48mm\nGross Weight: 0.7KG\nSeller: STI-088FP\n\nBuyer: Null\t\tIndustrial PoE Switch\n\n8*10/100M RJ45/PoE\nPoE af/at, 240W, Unmanaged\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted\nWithout Power Supply\t\t1\t36.5\t36.5\tMarvell Chip\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 98*98*48mm\nGross Weight: 0.7KG\nSeller: STI-080GE\n\nBuyer: Null\t\tIndustrial Ethernet Switch\n\n8*10/100/1000M RJ45\nNon-PoE, Unmanaged\nDC12V~DC58V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted\nWithout Power Supply\t\t1\t32.5\t32.5\tMarvell Chip\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 98*98*48mm\nGross Weight: 0.7KG\nSeller: STI-088GP\n\nBuyer: Null\t\tIndustrial PoE Switch\n\n8*10/100/1000M RJ45/PoE\nPoE af/at, 240W, Unmanaged\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted\nWithout Power Supply\t\t1\t43.5\t43.5\tMarvell Chip\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 98*98*48mm\nGross Weight: 0.7KG\nSeller: STI-0160GE\n\nBuyer: Null\t\tIndustrial Ethernet Switch\n\n16*10/100/1000M RJ45\nNon-PoE, Unmanaged\nDC12V~DC58V(Removable 6 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted\nWithout Power Supply\t\t1\t94.5\t94.5\tMarvell Chip\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 158*115*54mm\nGross Weight: 1.4KG\nSeller: STI-01616GP\n\nBuyer: Null\t\tIndustrial PoE Switch\n\n16*10/100/1000M RJ45/PoE\nPoE af/at, 240W, Unmanaged\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted\nWithout Power Supply\t\t1\t125\t125\tMarvell Chip\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 158*115*54mm\nGross Weight: 1.4KG\nSeller: STI-0240GE\n\nBuyer: Null\t\tIndustrial Ethernet Switch\n\n24*10/100/1000M RJ45\nNon-PoE, Unmanaged\nDC12V~DC58V(Removable 6 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted\nWithout Power Supply\t\t1\t130\t130\tMarvell Chip\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 158*115*76mm\nGross Weight: 1.8KG\nTOTAL\nRemark\nPlease do make sure client side could handle import customs clearance.\nIf there is any problem with the shipment or clearance\n1, please let us know ASAP\n2, please call DHL/FedEx/UPS official number for information\nPrice validity: 15 days\nSaga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply.\nNon-brand packing, without Chinese letters or logo\nNeutral device\nCountry of origin: China\nProduction time: 4~7 working days(this is NOT including shipping time)\nWarranty: 3 years, lifetime technical support\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nPlease refer to \"warranty policy\" for more information.",
+"sheets":{
+"Quotation":{
+"rows":[
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Connecting, Converting, Creating"
+],
+[
+"Tailored Marvell Managed Networking Solutions Provider"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 13048800964                                          www.sagatelecom.com.cn                                Email: a.sagatelecom@gmail.com"
+],
+[
+"*********************************************************************************************************************"
+],
+[
+"Quotation"
+],
+[
+"Buyer:",
+"Dema Vertriebs GmbH",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"49 151 10820 367",
+"",
+"Quoted By:",
+"Alan"
+],
+[
+"Email:",
+"m.geck@dema-vertrieb.com",
+"",
+"Date:",
+"10th, June, 2025"
+],
+[
+"Contact Person:",
+"Markus Geck",
+"",
+"Price Term:",
+"EXW"
+],
+[
+"Destination",
+"Germany"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"Seller: STI-050FE\n\nBuyer: Null",
+"",
+"Industrial Ethernet Switch\n\n5*10/100M RJ45\nNon-PoE, Unmanaged\nDC12V~DC58V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted\nWithout Power Supply",
+"",
+"1",
+"22.5",
+"22.5",
+"Marvell Chip"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 130*98*30mm\nGross Weight: 0.7KG"
+],
+[
+"Seller: STI-054FP\n\nBuyer: Null",
+"",
+"Industrial PoE Switch\n\n5*10/100M RJ45\n1*Copper Uplink+4*PoE Downlink\nPoE af/at, 120W, Unmanaged\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted\nWithout Power Supply",
+"",
+"1",
+"30",
+"30",
+"Marvell Chip"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 130*98*30mm\nGross Weight: 0.7KG"
+],
+[
+"Seller: STI-050FE\n\nBuyer: Null",
+"",
+"Industrial Ethernet Switch\n\n5*10/100/1000M RJ45\nNon-PoE, Unmanaged\nDC12V~DC58V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted\nWithout Power Supply",
+"",
+"1",
+"25",
+"25",
+"Marvell Chip"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 130*98*30mm\nGross Weight: 0.7KG"
+],
+[
+"Seller: STI-054FP\n\nBuyer: Null",
+"",
+"Industrial PoE Switch\n\n5*10/100/1000M RJ45\n1*Copper Uplink+4*PoE Downlink\nPoE af/at, 120W, Unmanaged\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted\nWithout Power Supply",
+"",
+"1",
+"32.5",
+"32.5",
+"Marvell Chip"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 130*98*30mm\nGross Weight: 0.7KG"
+],
+[
+"Seller: STI-080FE\n\nBuyer: Null",
+"",
+"Industrial Ethernet Switch\n\n8*10/100M RJ45\nNon-PoE, Unmanaged\nDC12V~DC58V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted\nWithout Power Supply",
+"",
+"1",
+"25.5",
+"25.5",
+"Marvell Chip"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 98*98*48mm\nGross Weight: 0.7KG"
+],
+[
+"Seller: STI-088FP\n\nBuyer: Null",
+"",
+"Industrial PoE Switch\n\n8*10/100M RJ45/PoE\nPoE af/at, 240W, Unmanaged\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted\nWithout Power Supply",
+"",
+"1",
+"36.5",
+"36.5",
+"Marvell Chip"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 98*98*48mm\nGross Weight: 0.7KG"
+],
+[
+"Seller: STI-080GE\n\nBuyer: Null",
+"",
+"Industrial Ethernet Switch\n\n8*10/100/1000M RJ45\nNon-PoE, Unmanaged\nDC12V~DC58V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted\nWithout Power Supply",
+"",
+"1",
+"32.5",
+"32.5",
+"Marvell Chip"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 98*98*48mm\nGross Weight: 0.7KG"
+],
+[
+"Seller: STI-088GP\n\nBuyer: Null",
+"",
+"Industrial PoE Switch\n\n8*10/100/1000M RJ45/PoE\nPoE af/at, 240W, Unmanaged\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted\nWithout Power Supply",
+"",
+"1",
+"43.5",
+"43.5",
+"Marvell Chip"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 98*98*48mm\nGross Weight: 0.7KG"
+],
+[
+"Seller: STI-0160GE\n\nBuyer: Null",
+"",
+"Industrial Ethernet Switch\n\n16*10/100/1000M RJ45\nNon-PoE, Unmanaged\nDC12V~DC58V(Removable 6 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted\nWithout Power Supply",
+"",
+"1",
+"94.5",
+"94.5",
+"Marvell Chip"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 158*115*54mm\nGross Weight: 1.4KG"
+],
+[
+"Seller: STI-01616GP\n\nBuyer: Null",
+"",
+"Industrial PoE Switch\n\n16*10/100/1000M RJ45/PoE\nPoE af/at, 240W, Unmanaged\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted\nWithout Power Supply",
+"",
+"1",
+"125",
+"125",
+"Marvell Chip"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 158*115*54mm\nGross Weight: 1.4KG"
+],
+[
+"Seller: STI-0240GE\n\nBuyer: Null",
+"",
+"Industrial Ethernet Switch\n\n24*10/100/1000M RJ45\nNon-PoE, Unmanaged\nDC12V~DC58V(Removable 6 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted\nWithout Power Supply",
+"",
+"1",
+"130",
+"130",
+"Marvell Chip"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 158*115*76mm\nGross Weight: 1.8KG"
+],
+[
+"TOTAL"
+],
+[
+"Remark"
+],
+[
+"Please do make sure client side could handle import customs clearance."
+],
+[
+"If there is any problem with the shipment or clearance"
+],
+[
+"1, please let us know ASAP"
+],
+[
+"2, please call DHL/FedEx/UPS official number for information"
+],
+[
+"Price validity: 15 days"
+],
+[
+"Saga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply."
+],
+[
+"Non-brand packing, without Chinese letters or logo"
+],
+[
+"Neutral device"
+],
+[
+"Country of origin: China"
+],
+[
+"Production time: 4~7 working days(this is NOT including shipping time)"
+],
+[
+"Warranty: 3 years, lifetime technical support"
+],
+[
+"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+],
+[
+"Please refer to \"warranty policy\" for more information."
+]
+]
+}
+},
+"extracted_at":"2026-10-23T05:05:49Z"
+}
