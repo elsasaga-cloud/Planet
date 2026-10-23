@@ -6,13 +6,29 @@
 "bytes":3488,
 "sha256":"995dccf4088ecf863815f814ef4769eda32b771e0ef40db7bc17b1b81bafe5e3",
 "source":"Extra_Info.zip",
-"method":"none",
-"status":"meta",
-"meta":{},
-"warnings":[
-"no extractor for .html"
+"method":"html.parser",
+"status":"ok",
+"meta":{
+"title":"404 — Page Not Found · Saga Telecom",
+"metas":{
+"robots":"noindex, follow"
+},
+"headings":[
+"h1: Saga Telecom"
 ],
-"chars":0,
-"text":"",
-"extracted_at":"2026-10-23T05:01:44Z"
+"links":1,
+"html_bytes":3488,
+"encoding":"UTF-8"
+},
+"warnings":[],
+"chars":391,
+"text":"[title] 404 — Page Not Found · Saga Telecom\n[meta robots] noindex, follow\n\nAN ENGINEERING & SUPPLY-CHAIN-FIRST TELECOM PARTNER\nsagatele.com\nST\nSaga Telecom\nEngineering & Supply-Chain-First\n404\nPage Not Found\nThe page you're looking for doesn't exist or has been moved. Head back to the homepage to find what you need.\nReturn to Homepage\n© 2026 Saga Telecom. All rights reserved.\nsagatele.com",
+"blocks":[
+{
+"t":"h",
+"s":"h1",
+"text":"Saga Telecom"
+}
+],
+"extracted_at":"2026-10-23T06:04:49Z"
 }

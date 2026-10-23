@@ -6,13 +6,65 @@
 "bytes":36625,
 "sha256":"b84a20745262e84a2407911223e06c1021ca8064595ff75e51b4aa7d0d1b4d3e",
 "source":"Extra_Info.zip",
-"method":"none",
-"status":"meta",
-"meta":{},
-"warnings":[
-"no extractor for .html"
+"method":"html.parser",
+"status":"ok",
+"meta":{
+"title":"Saga Telecom — Tailored Managed Networking Solutions",
+"metas":{
+"description":"Saga Telecom product catalogue: STI Industrial Ethernet, STC Commercial Ethernet, STH Core & Aggregation. OEM/ODM switching solutions built for SIs, ISPs, and brand owners worldwide."
+},
+"headings":[
+"h1: Saga Telecom",
+"h2: Switching hardware builtfor your specification.",
+"h3: Three lines. One architecture.",
+"h2: Managed switching for every layer.",
+"h4: Key Differentiators",
+"h2: Technical selection guides & deployment notes.",
+"h3: Product enquiries & OEM discussions."
 ],
-"chars":0,
-"text":"",
-"extracted_at":"2026-10-23T05:02:17Z"
+"links":7,
+"html_bytes":36625,
+"encoding":"UTF-8"
+},
+"warnings":[],
+"chars":6100,
+"text":"[title] Saga Telecom — Tailored Managed Networking Solutions\n[meta description] Saga Telecom product catalogue: STI Industrial Ethernet, STC Commercial Ethernet, STH Core & Aggregation. OEM/ODM switching solutions built for SIs, ISPs, and brand owners worldwide.\n\nTAILORED MANAGED NETWORKING SOLUTIONS PROVIDER\nSHENZHEN, CHINA · sagatelecom.com.cn\nST\nSaga Telecom\nTailored Managed Networking Solutions\nHome\nProducts\nInsights\nContact\nSaga Telecom — Product Catalogue\nSwitching hardware built\nfor your specification.\nFrom access-layer PoE to high-speed aggregation core — OEM/ODM managed switching solutions with deep customization, strategic inventory, and fast lead times.\nBrowse Products\nAbout Saga →\n40+\nActive SKUs\n3\nProduct Lines\nOEM\nODM / SKD / CKD\nCE\nFCC · RoHS · REACH\nProduct Lines\nThree lines. One architecture.\nSTI\nIndustrial Ethernet\nRugged · Extended Temp · High Availability\nManaged switches engineered for demanding industrial environments — wide temperature range, dual PSU support, ERPS ring protection, and long-term supply continuity.\nXX products available\n→\nSTC\nCommercial Ethernet\nAccess Layer · PoE · L2+ Managed\nMarvell Prestera-based access layer switching for enterprise, CCTV, and campus deployments. 8 to 48 ports, PoE++ up to 90W, deep OEM/ODM customization available.\nXX products available\n→\nSTH\nCore & Aggregation\nCENTEC · L3 · 10G to 800G\nCENTEC-based aggregation and core switching. Full L3 routing, VXLAN, MPLS, MLAG. Port speeds from 10G SFP+ to 800G OSFP. Built for MAN, campus core, and data center.\nXX products available\n→\nOEM / ODM Depth\nHardware, firmware, and management UI customization at a depth most suppliers won't offer for mid-volume orders. Your brand, your specification.\nStrategic Inventory\nBuffer stock held on key Marvell and CENTEC chipsets. Fast lead times even when the broader market is constrained. Predictable delivery is the product.\nEngineering Support\nPre- and post-sales technical support that goes beyond datasheet reading. CLI, MIB, SNMP, firmware — we know the platform, not just the product.\nHome\n/ Products\nProduct Catalogue\nManaged switching for every layer.\nOEM/ODM available across all lines. Contact us for customization scope and lead times.\nFilter:\nAll\nSTI — Industrial\nSTC — Commercial\nSTH — Core & Aggregation\n[Product Image]\nSTI — Industrial\nSTI-2804F\n28-port industrial managed switch with 4×10G SFP+ uplinks, dual PSU, ERPS ring protection\nL2+ Dual PSU ERPS -40°C\n[Product Image]\nSTC — Commercial\nSTC-4802P\n48-port PoE++ managed switch, 2×10G SFP+ uplinks, 802.3bt up to 90W per port\nPoE++ L2+ Marvell OEM\n[Product Image]\nSTH — Core & Aggregation\nSTH-3210Q\n32-port 100G QSFP28 core switch, full L3, VXLAN, MPLS, MLAG — data center and MAN\n100G L3 VXLAN CENTEC\n[Product Image]\nSTC — Commercial\nSTC-2402P\n24-port PoE+ managed switch, 2×1G SFP uplinks, IGMP snooping, 802.1X\nPoE+ L2+ Marvell\n[Product Image]\nSTI — Industrial\nSTI-0802F\n8-port industrial unmanaged switch, wide temp, DIN-rail mount, 2×SFP combo\nUnmanaged DIN-Rail -40°C\n[Product Image]\nSTH — Core & Aggregation\nSTH-4810S\n48-port 10G SFP+ aggregation switch, L3, OSPF/BGP, MLAG, hot-swap PSU and fans\n10G L3 CENTEC\nHome\n/\nProducts\n/ —\n[Main Product Image]\nSTI — Industrial Ethernet\nSTI-2804F\n28-Port Industrial Managed Switch · 4×10G SFP+ · Dual PSU · ERPS\nKey Differentiators\nDual PSU — Hot-Swappable\nRedundant power input with hot-swap capability. No downtime on power supply failure — critical for 24/7 industrial deployments where maintenance windows are limited.\nERPS G.8032 Ring Protection\nSub-20ms network recovery. Purpose-built for ring topologies in factory floors, substations, and CCTV backbones where packet loss has real operational cost.\n-40°C to +75°C Operating Range\nExtended temperature tolerance for outdoor cabinets, transportation infrastructure, and harsh industrial environments without additional cooling.\nSpecifications\nPorts\n24× GE RJ45 + 4× 10G SFP+\nSwitching Capacity\n128 Gbps\nPower Supply\nDual PSU, hot-swappable\nOperating Temp\n-40°C to +75°C\nManagement\nCLI · Web UI · SNMP v2c/v3\nCertifications\nCE · FCC · RoHS\nOEM/ODM\nAvailable\nWhatsApp Enquiry\nEmail Us\nHome\n/ Insights\nInsights\nTechnical selection guides & deployment notes.\n— Placeholder\nHow to Choose Access Layer Switches for CCTV Deployments\nPoE budget, IGMP snooping, ring protection — what actually matters when speccing access switches for IP camera infrastructure.\n— Placeholder\nIndustrial vs. Commercial Ethernet: When Does the Distinction Matter?\nTemperature range, MTBF, power redundancy — a practical breakdown of when industrial-grade hardware is worth the premium and when it isn't.\n— Placeholder\nPoE Budget Planning: Common Mistakes and How to Avoid Them\nUnderspeccing PoE budgets is one of the most common causes of deployment failures. Here's how to calculate correctly from the start.\n— Placeholder\nERPS vs. STP: Choosing Ring Protection for Industrial Networks\nSub-20ms vs. seconds of recovery time. Why ERPS G.8032 is the right choice for industrial ring topologies and how to configure it correctly.\nHome\n/ Contact\nGet In Touch\nProduct enquiries & OEM discussions.\nWe work directly with OEMs, system integrators, ISPs, and distributors. Bring your spec, volume, and timeline — we'll tell you what's possible.\n— OEM/ODM customization scope and volumes\n— Product selection for a specific deployment\n— Supply availability and lead time enquiries\n— Firmware or feature set confirmation\nResponse within one business day.\nSaga Telecom — Contact\nWebsite\nsagatelecom.com.cn\nBrand Site\nsagatele.com\nEmail\na.sagatelecom@gmail.com\nWhatsApp\n+86 152 3714 9683\nResponse\nWithin 1 business day\nWe take the long view on every client relationship. No hard sell — if the product fits, it fits.\nSaga Telecom\nTailored managed networking solutions.\nMarvell Prestera · CENTEC · Realtek\nOEM / ODM / SKD / CKD\nProducts\nSTI — Industrial\nSTC — Commercial\nSTH — Core & Aggregation\nCompany\nInsights\nContact\nsagatele.com →\nContact\na.sagatelecom@gmail.com\n+86 152 3714 9683\nShenzhen, China\n© 2026 Saga Telecom. All rights reserved. · Last updated: August 2026\nCE · FCC · RoHS · REACH · UKCA",
+"blocks":[
+{
+"t":"h",
+"s":"h1",
+"text":"Saga Telecom"
+},
+{
+"t":"h",
+"s":"h2",
+"text":"Switching hardware builtfor your specification."
+},
+{
+"t":"h",
+"s":"h3",
+"text":"Three lines. One architecture."
+},
+{
+"t":"h",
+"s":"h2",
+"text":"Managed switching for every layer."
+},
+{
+"t":"h",
+"s":"h4",
+"text":"Key Differentiators"
+},
+{
+"t":"h",
+"s":"h2",
+"text":"Technical selection guides & deployment notes."
+},
+{
+"t":"h",
+"s":"h3",
+"text":"Product enquiries & OEM discussions."
+}
+],
+"extracted_at":"2026-10-23T06:04:50Z"
 }

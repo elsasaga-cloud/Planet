@@ -1,0 +1,22 @@
+{
+"id":"Extra_Info__销售额_利润.xlsx__475ca965",
+"path":"Extra_Info/销售额 & 利润.xlsx",
+"name":"销售额 & 利润.xlsx",
+"ext":".xlsx",
+"bytes":33792,
+"sha256":"475ca965ffee1b950c528219b4a433d15f359e13c7d37aff4d48c2d1e8ff79ac",
+"source":"Extra_Info.zip",
+"method":"ole2-encrypted",
+"status":"meta",
+"meta":{
+"encrypted":true,
+"bytes":33792
+},
+"warnings":[
+"文件已加密（Office 打开密码：OLE2 内含 EncryptedPackage 流），没有密码无法抽取；原件在 Release 里",
+"xlrd: Can't find workbook in OLE2 compound document"
+],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T06:04:49Z"
+}

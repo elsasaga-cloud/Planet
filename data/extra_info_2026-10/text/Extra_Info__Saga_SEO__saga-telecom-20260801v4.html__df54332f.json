@@ -6,13 +6,131 @@
 "bytes":45117,
 "sha256":"df54332f87cb4dd7198c443b8c17440cb4f54c83984b54ea4b35e8e29bd60cb0",
 "source":"Extra_Info.zip",
-"method":"none",
-"status":"meta",
-"meta":{},
-"warnings":[
-"no extractor for .html"
+"method":"html.parser",
+"status":"ok",
+"meta":{
+"title":"Saga Telecom — An Engineering & Supply-Chain-First Telecom Partner",
+"metas":{
+"description":"Saga Telecom is an Engineering & Supply-Chain-First telecom partner based in Shenzhen, China. We deliver Marvell Prestera and CENTEC-based managed switching solutions with deep OEM/ODM/SKD/CKD customization, strategic chip inventory, and fast lead times — built for SIs, ISPs, brand owners, and distributors worldwide.",
+"keywords":"Marvell Prestera switch, CENTEC switch, OEM ODM ethernet switch, managed switch customization, L2+ managed switch, PoE switch OEM, industrial ethernet switch, aggregation switch, strategic inventory, telecom partner, Shenzhen switch manufacturer, ERPS switch, white label switch",
+"robots":"index, follow",
+"og:title":"Saga Telecom — An Engineering & Supply-Chain-First Telecom Partner",
+"og:description":"Marvell Prestera and CENTEC-based switching platforms. Deep OEM/ODM customization, strategic chip inventory, and lifecycle continuity — built for long-term telecom partnerships.",
+"og:url":"https://sagatele.com",
+"og:site_name":"Saga Telecom"
+},
+"headings":[
+"h1: Saga Telecom",
+"h2: Built to engineer,not just to sell.",
+"h3: What makes long-term partnership possible.",
+"h4: One platform, one roadmap.",
+"h4: Chip inventory, held on purpose.",
+"h4: Products that age well together.",
+"h3: The right fit is specific.",
+"h3: The words we actually use.",
+"h2: Why engineering first is a business model, not a slogan.",
+"h3: What we do — and what we don't.",
+"h2: Chipset expertise, supply-chain depth, and customization at scale.",
+"h3: Two ecosystems. One commitment.",
+"h4: Marvell Prestera",
+"h4: CENTEC",
+"h3: Deep customization is the differentiator.",
+"h3: We manage uncertainty so you don't have to.",
+"h3: Talk to us about your project."
 ],
-"chars":0,
-"text":"",
-"extracted_at":"2026-10-23T05:01:46Z"
+"links":3,
+"html_bytes":45117,
+"encoding":"UTF-8"
+},
+"warnings":[],
+"chars":12884,
+"text":"[title] Saga Telecom — An Engineering & Supply-Chain-First Telecom Partner\n[meta description] Saga Telecom is an Engineering & Supply-Chain-First telecom partner based in Shenzhen, China. We deliver Marvell Prestera and CENTEC-based managed switching solutions with deep OEM/ODM/SKD/CKD customization, strategic chip inventory, and fast lead times — built for SIs, ISPs, brand owners, and distributors worldwide.\n[meta keywords] Marvell Prestera switch, CENTEC switch, OEM ODM ethernet switch, managed switch customization, L2+ managed switch, PoE switch OEM, industrial ethernet switch, aggregation switch, strategic inventory, telecom partner, Shenzhen switch manufacturer, ERPS switch, white label switch\n[meta robots] index, follow\n[meta og:title] Saga Telecom — An Engineering & Supply-Chain-First Telecom Partner\n[meta og:description] Marvell Prestera and CENTEC-based switching platforms. Deep OEM/ODM customization, strategic chip inventory, and lifecycle continuity — built for long-term telecom partnerships.\n[meta og:url] https://sagatele.com\n[meta og:site_name] Saga Telecom\n\nAN ENGINEERING & SUPPLY-CHAIN-FIRST TELECOM PARTNER\nSHENZHEN, CHINA · sagatele.com\nST\nSaga Telecom\nEngineering & Supply-Chain-First\nHome\nAbout\nCapabilities\nContact\nSaga Telecom\nBuilt to engineer,\nnot just to sell.\nWe keep optimizing Marvell and CENTEC based feature sets, secure chip inventory, and deliver deep customization to clients who need a partner — not another vendor.\nOur Capabilities\nOur Story\nSaga Telecom — At a Glance\nPositioning\nAn Engineering & Supply-Chain-First Telecom Partner\nChipset Platforms\nMarvell · CENTEC · Realtek\nCustomization\nOEM / ODM / SKD / CKD\nSupply Model\nStrategic Inventory · Fast Lead Time\nCertifications\nCE · FCC · RoHS · REACH · UKCA\nBase\nShenzhen, China\nThree Value Pillars\nWhat makes long-term partnership possible.\nThese three commitments are how Saga earns its place as a telecom partner, not just a supplier.\n01 — Architectural Stability\nOne platform, one roadmap.\nWe commit to Marvell and CENTEC architectures and go deep — not broad. That means your product roadmap has a stable technical foundation underneath it, and the feature sets we support today will still be supported as your network evolves.\n02 — Continuous Supply\nChip inventory, held on purpose.\nWe maintain strategic buffer stock on key chipsets. When global allocation tightens, our clients don't scramble. Low-friction ordering, predictable lead times, and no surprises at the worst possible moment.\n03 — Lifecycle Continuity\nProducts that age well together.\nA consistent chipset strategy means hardware, firmware, and software stay coherent across your product generations. You're not requalifying a new platform every two years. That coherence is a real cost saving that compounds over time.\nWho We Work With\nThe right fit is specific.\nWe work best with clients who value engineering depth over lowest unit price.\nPrimary — OEM / ODM / SKD / CKD\nBrand Owners & Solution Builders\nIf you need hardware that carries your brand, with firmware and management UI customized to your specification, this is where Saga operates most distinctly. Deep customization is our structural advantage — many Shenzhen suppliers can't do it; large OEMs won't bother for your volumes.\nPrimary — Marvell Ecosystem Clients\nL2+ Access Layer Specialists\nOrganizations already in the Marvell or CENTEC ecosystem — or evaluating it — who need a partner that understands the architecture at the chip level, not just the product brochure. Feature set optimization and technical pre-sales are core to what we do.\nSecondary — SIs / ISPs / Telcos\nPerformance-to-Cost Buyers\nSystem integrators, ISPs, and smaller telcos who have been buying from Taiwanese alternatives and are open to a higher-ROI option — without moving down in quality. We position against Taiwanese brands on performance parity, not against bottom-tier price.\nSecondary — Distributors & E-Commerce\nStandard Product Buyers\nDistributors and online retailers who need reliable standard-SKU inventory with consistent supply. Fast lead times and available stock are the baseline; OEM options are on the table if volumes justify.\nHow We Describe Ourselves\nThe words we actually use.\nengineering-driven\nsupply-chain-first\narchitectural stability\nlifecycle continuity\nstrategic inventory\nlow-friction deployment\npredictable delivery\ndeep customization\nMarvell ecosystem\nCENTEC core layer\nHome\n/ About\nOur Story\nWhy engineering first is a business model, not a slogan.\nMost telecom hardware companies start with a product catalogue and work backwards to a story. Saga started differently: with a thesis about what clients in this market actually need, and why most vendors aren't able to deliver it.\nThe thesis is straightforward. Enterprise and carrier-edge switch buyers don't just need a box that passes traffic. They need a platform they can build on — firmware they can customize, a supply chain they can rely on when allocation gets tight, and a technical relationship that doesn't reset every time they launch a new product generation.\n\"We're not a marketing-driven company. We put resources into engineering and inventory because that's where we actually create value for clients.\"\nThat means we focus on two chipset ecosystems — Marvell Prestera for access-layer switching, CENTEC for aggregation, core, and data center — and we go deep on both. We optimize feature sets continuously. We hold strategic buffer stock on key chipsets. We do firmware and management UI customization at a depth most suppliers won't touch.\nThe trade-off is transparency: we don't compete on every deal, and we're not the right partner for every buyer. We work best with clients who are optimizing for total cost of deployment, architectural consistency, and long-term supply predictability — not whoever quotes the lowest unit price this quarter.\nSaga is based in Shenzhen. We work with OEM and ODM clients, system integrators, ISPs, and distributors across global markets. Our relationships are built to last, and we take the long view on every account we pursue.\nCompany Profile\nBase\nShenzhen, China\nBusiness Model\nEngineering-led trade & customization\nChipset Focus\nMarvell · CENTEC · Realtek\nCustomization Depth\nHardware · Firmware · Management UI\nSupply Model\nStrategic buffer stock\nTarget Segments\nOEM / ODM · SIs · ISPs · Distributors\nCertifications\nCE · FCC · RoHS · REACH · UKCA\nScope\nWhat we do — and what we don't.\nClarity about scope saves everyone's time, including ours.\nWe Do\nAccess-layer switching — Marvell Prestera (L2+)\nAggregation / core / data center — CENTEC (L3, 10G–800G)\nPoE / PoE+ / PoE++ commercial & industrial\nOEM, ODM, SKD, CKD customization\nDeep firmware & management UI customization\nStrategic chip inventory management\nCE · FCC · RoHS · REACH · UKCA certified products\nLong-term technical pre- and post-sales support\nWe Don't\nCloud-managed switching platforms\nRail / transit certified switches (EN50155 etc.)\nIP67 ruggedized enclosures\nConsumer / home routers\nUL certification (available on request for specific projects)\nCountry-specific mandatory certifications as standard (available on request, KC, etc.)\nHome\n/ Capabilities\nCapabilities\nChipset expertise, supply-chain depth, and customization at scale.\nChipset Platforms\nTwo ecosystems. One commitment.\nWe go deep on Marvell and CENTEC — not broad across every available silicon.\nOur product and engineering focus is concentrated on two chipset families. That concentration is intentional: it's what allows us to optimize feature sets continuously, hold meaningful inventory positions, and provide technical support that goes beyond datasheet reading.\nPrimary Platform — Access Layer\nMarvell Prestera\nAC5 Lite · AC5 · AC5+ — L2+ Managed Switching\nCommercial & industrial grade — both deployment contexts covered\n8 / 16 / 24 / 48-port configurations · PoE / PoE+ / PoE++ (IEEE 802.3af/at/bt, up to 90W/port)\nDual PSU support · hot-swappable power modules — zero downtime on power failure\nERPS G.8032 ring protection — sub-20ms convergence · STP / RSTP / MSTP\nQinQ double-tagging (port / VLAN / flow-based) · Private VLAN · Voice VLAN\nIGMP v1/v2/v3 snooping · PIM-SM multicast · MLD snooping · Fast Leave\n802.1X + RADIUS + TACACS+ · DAI · IP Source Guard · DDoS protection\nSFTP / SCP / SSH2 (public key) · HTTPS · SNMP v2c/v3 · sFlow · MQTT telemetry\nDual firmware partition · optical DDM monitoring · one-click fault collection\nFirmware actively developed — V7.5.x roadmap, continuous feature optimization\nPrimary Platform — Aggregation / Core / Data Center\nCENTEC\nL3 Aggregation · Core · Data Center — 10G to 800G\nFull L3 hardware-forwarded routing — OSPF, BGP, static routing\nVXLAN overlay networking — data center fabric support\nMPLS — label switching and traffic engineering\nMLAG — two-active stacking, cross-chassis link aggregation\nACL · QoS · LACP hardware offload at line rate\nPort speeds: 10G SFP+ · 25G SFP28 · 40G QSFP+ · 100G QSFP28 · 400G QSFP112 · 800G OSFP\nRedundant power (CRPS) · hot-swap smart fan modules\nSuitable for enterprise aggregation, campus core, MAN, and data center ToR/spine\nActive platform development — strong R&D continuity\nRealtek-based products also available as secondary line — primarily for price-sensitive buyers or supplementary SKU coverage. Suitable for standard L2 requirements where advanced feature depth is not the primary requirement.\nCustomization\nDeep customization is the differentiator.\nMost suppliers offer label changes. We offer architecture changes.\nThe customization capability that matters most to serious OEM and ODM clients isn't cosmetic. It's the ability to modify firmware behavior, reshape management interfaces, and tune hardware configurations — at a depth that most Shenzhen-based suppliers either can't do or won't prioritize for mid-volume orders.\nHardware\nOEM branding and enclosure customization\nPort count and configuration adjustment\nPoE budget configuration\nODM / SKD / CKD production models\nFirmware\nFeature set activation and tuning\nCLI behavior customization\nMIB and SNMP configuration\nFirmware version management and roadmap\nManagement UI\nWeb UI white-labeling\nInterface language and UX customization\nMenu structure and feature exposure control\nBranded dashboard and help content\nSupply Chain\nWe manage uncertainty so you don't have to.\nStrategic inventory isn't a cost center for us — it's a client value proposition. When chipset allocation tightens, our clients ship on schedule while others wait months. That reliability has a real dollar value that unit price comparisons don't capture.\nStrategic Inventory\nBuffer stock held against key Marvell and CENTEC chipsets. Not speculative — planned against client demand forecasts and lifecycle position of each platform.\nLifecycle Planning\nWe track chipset lifecycle status actively. Clients are informed well ahead of EOL transitions so product roadmaps can be adjusted without emergency re-spins.\nFast Lead Time\nInventory on hand means orders move quickly. For standard configurations, typical lead times are materially shorter than going direct to factory without buffer stock in place.\nShortage Risk Mitigation\nGlobal chip shortages hit unprepared supply chains hard. Our inventory position is the hedge against that — built deliberately over time, not scrambled for at spot-market prices.\nDiscuss your supply requirements →\nHome\n/ Contact\nGet In Touch\nTalk to us about your project.\nWe work directly with OEMs, system integrators, ISPs, and distributors. If you're evaluating a platform, planning a customization, or want to understand whether our supply chain model fits your procurement requirements — this is the right conversation to have early.\nGood topics to bring to a first conversation:\nOEM / ODM customization scope and volumes\nPlatform recommendation for your access or aggregation topology\nFeature set confirmation for a specific firmware capability\nSupply chain planning and lead time requirements\nEvaluation against existing Taiwanese or domestic alternatives\nTypical response within one business day. We don't use contact forms — direct email gets a faster, more useful reply.\nSaga Telecom — Contact\nWebsite\nsagatele.com\nEmail\na.sagatelecom@gmail.com\nLocation\nShenzhen, China\nResponse\nWithin 1 business day\nWe take the long view on client relationships. If the timing isn't right, we'd rather stay in contact than push for a transaction that doesn't fit.\nSaga Telecom\nAn Engineering & Supply-Chain-First telecom partner.\nMarvell Prestera and CENTEC switching platforms.\nDeep customization, strategic inventory.\nNavigate\nHome\nAbout\nCapabilities\nContact\na.sagatelecom@gmail.com\nsagatele.com\nShenzhen, China\n© 2026 Saga Telecom. All rights reserved. · Last updated: August 2026\nCE · FCC · RoHS · REACH · UKCA · MARVELL AND PRESTERA ARE TRADEMARKS OF MARVELL TECHNOLOGY, INC. · CENTEC IS A TRADEMARK OF CENTEC COMMUNICATIONS.\nWhatsApp us",
+"blocks":[
+{
+"t":"h",
+"s":"h1",
+"text":"Saga Telecom"
+},
+{
+"t":"h",
+"s":"h2",
+"text":"Built to engineer,not just to sell."
+},
+{
+"t":"h",
+"s":"h3",
+"text":"What makes long-term partnership possible."
+},
+{
+"t":"h",
+"s":"h4",
+"text":"One platform, one roadmap."
+},
+{
+"t":"h",
+"s":"h4",
+"text":"Chip inventory, held on purpose."
+},
+{
+"t":"h",
+"s":"h4",
+"text":"Products that age well together."
+},
+{
+"t":"h",
+"s":"h3",
+"text":"The right fit is specific."
+},
+{
+"t":"h",
+"s":"h3",
+"text":"The words we actually use."
+},
+{
+"t":"h",
+"s":"h2",
+"text":"Why engineering first is a business model, not a slogan."
+},
+{
+"t":"h",
+"s":"h3",
+"text":"What we do — and what we don't."
+},
+{
+"t":"h",
+"s":"h2",
+"text":"Chipset expertise, supply-chain depth, and customization at scale."
+},
+{
+"t":"h",
+"s":"h3",
+"text":"Two ecosystems. One commitment."
+},
+{
+"t":"h",
+"s":"h4",
+"text":"Marvell Prestera"
+},
+{
+"t":"h",
+"s":"h4",
+"text":"CENTEC"
+},
+{
+"t":"h",
+"s":"h3",
+"text":"Deep customization is the differentiator."
+},
+{
+"t":"h",
+"s":"h3",
+"text":"We manage uncertainty so you don't have to."
+},
+{
+"t":"h",
+"s":"h3",
+"text":"Talk to us about your project."
+}
+],
+"extracted_at":"2026-10-23T06:04:49Z"
 }

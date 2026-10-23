@@ -6,18 +6,22 @@
 "bytes":1058833,
 "sha256":"c0f6487a395f10f6683f2d2390671f21ff3d661edda4a69f22cba5e4b485a84e",
 "source":"Extra_Info.zip",
-"method":"pdfplumber",
-"status":"meta",
+"method":"pdftoppm+OCR(1p)",
+"status":"ok",
 "meta":{
-"pages":0,
+"pages":1,
 "creator":"Image Capture Plus",
 "creationdate":"D:20230714102059+08'00'",
 "moddate":"D:20230714112229+08'00'",
-"ocr_pages":0
+"ocr_pages":1
 },
-"warnings":[],
-"chars":0,
-"text":"",
-"pages":[],
-"extracted_at":"2026-10-23T05:28:02Z"
+"warnings":[
+"pdfplumber/pypdf 读到 0 页，已改用 pdftoppm 渲染后 OCR"
+],
+"chars":230,
+"text":"[p1]\n行政 许可 决定 书\n编号 : XK2023071200000047\n郑州 仁 夏 通讯 器 材 有 限 公司 :\n我 单位 于 2023 年 07 月 13 日 收 到 了 您 提出 的 分 局 〈 外 汇 管理 部 )\n办 理 的 一 般 经 常 项 目 收 支 企 业 登 记 行 政 许可 申请 。 经 审查 ， 符 合法\n规 要 求 ， 我 单位 决定 准予 许可 。\n河南 省 分 局\n023 年 07 月 134\nTi nal\nOres",
+"pages":[
+"行政 许可 决定 书\n编号 : XK2023071200000047\n郑州 仁 夏 通讯 器 材 有 限 公司 :\n我 单位 于 2023 年 07 月 13 日 收 到 了 您 提出 的 分 局 〈 外 汇 管理 部 )\n办 理 的 一 般 经 常 项 目 收 支 企 业 登 记 行 政 许可 申请 。 经 审查 ， 符 合法\n规 要 求 ， 我 单位 决定 准予 许可 。\n河南 省 分 局\n023 年 07 月 134\nTi nal\nOres"
+],
+"extracted_at":"2026-10-23T06:04:55Z"
 }

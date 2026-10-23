@@ -6,13 +6,22 @@
 "bytes":20796,
 "sha256":"952ab295ef817a9cf22d7540df3e74951c0a75527d490c339d8711886ca87fc9",
 "source":"Extra_Info.zip",
-"method":"none",
-"status":"meta",
-"meta":{},
-"warnings":[
-"no extractor for .dot"
-],
-"chars":0,
-"text":"",
-"extracted_at":"2026-10-23T05:32:52Z"
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T06:04:56+00:00",
+"paragraphs":0,
+"tables":0,
+"embedded_images":0,
+"ocr_images":0
+},
+"warnings":[],
+"chars":141,
+"text":"\n[页眉页脚]\nZhengzhou Saga Telecom Co., Ltd.\t\t\t\t\t\t\t\t                                      www.sagatelecom.com.cn\nConnecting, Converting, Creating",
+"blocks":[],
+"extracted_at":"2026-10-23T06:04:56Z"
 }

@@ -1,7 +1,7 @@
 # Simon 补充资料《Extra Info.zip》（2026-10-22 上传到 Elsa 云盘，4.36 GB） · 覆盖率报告
 
-- 生成时间：2026-10-23T05:33:06Z；来源：`Extra_Info.zip` 4358.4 MB（md5 41acb139a25ae2599b72b7b2522deb5e）
-- 成员文件 1551 个（去重前 1551）：**正文 ok 913 / 仅元数据 meta 352 / 失败 fail 1 / 跳过 skip 0**
+- 生成时间：2026-10-23T06:05:04Z；来源：`Extra_Info.zip` 4358.4 MB（md5 41acb139a25ae2599b72b7b2522deb5e）
+- 成员文件 1551 个（去重前 1551）：**正文 ok 956 / 仅元数据 meta 310 / 失败 fail 0 / 跳过 skip 0**
 - 原件备份：`Extra_Info.zip` → Release `files-extra_info_2026-10` ✅
 
 ## 按类型
@@ -10,13 +10,13 @@
 |---|---|---|---|---|---|---|
 | .png | 728 | 241 | 244 | 0 | 0 | 25,929 |
 | .doc | 214 | 204 | 0 | 0 | 0 | 579,184 |
-| .pdf | 165 | 155 | 10 | 0 | 0 | 3,335,165 |
-| .docx | 135 | 130 | 1 | 0 | 0 | 6,302,391 |
+| .pdf | 165 | 156 | 9 | 0 | 0 | 3,335,395 |
+| .docx | 135 | 131 | 0 | 0 | 0 | 6,303,074 |
 | .jpg | 89 | 25 | 41 | 0 | 0 | 5,373 |
 | .pptx | 50 | 50 | 0 | 0 | 0 | 437,434 |
-| .html | 39 | 0 | 39 | 0 | 0 | 0 |
+| .html | 39 | 39 | 0 | 0 | 0 | 679,432 |
 | .xls | 34 | 30 | 0 | 0 | 0 | 151,865 |
-| .xlsx | 32 | 30 | 0 | 1 | 0 | 530,832 |
+| .xlsx | 32 | 30 | 1 | 0 | 0 | 530,832 |
 | .xmind | 25 | 25 | 0 | 0 | 0 | 45,873 |
 | .md | 8 | 8 | 0 | 0 | 0 | 243,885 |
 | .mp4 | 5 | 0 | 5 | 0 | 0 | 0 |
@@ -29,11 +29,11 @@
 | .xml | 2 | 2 | 0 | 0 | 0 | 537 |
 | .pub | 2 | 2 | 0 | 0 | 0 | 10,352 |
 | .mov | 1 | 0 | 1 | 0 | 0 | 0 |
-| .dot | 1 | 0 | 1 | 0 | 0 | 0 |
+| .dot | 1 | 1 | 0 | 0 | 0 | 141 |
 | (无) | 1 | 0 | 1 | 0 | 0 | 0 |
 | .ico | 1 | 0 | 1 | 0 | 0 | 0 |
 | .dwg | 1 | 0 | 1 | 0 | 0 | 0 |
-| .vst | 1 | 0 | 1 | 0 | 0 | 0 |
+| .vst | 1 | 1 | 0 | 0 | 0 | 139 |
 
 ## 文件清单
 
@@ -1319,15 +1319,15 @@
 | Extra_Info/Saga Related/备案图标.png | 1 KB | meta | pillow | 0 | `text/Extra_Info__Saga_Related__备案图标.png__8dfecad0.json` |
 | Extra_Info/Saga Related/备案相关.docx | 495 KB | ok | python-docx(段落+表格+文本框+页眉页脚) | 1,557 | `text/Extra_Info__Saga_Related__备案相关.docx__f82710d8.json` |
 | Extra_Info/Saga Related/外汇局备案申请表.doc | 43 KB | ok | soffice→docx→python-docx(段落+表格+文本框+页眉页脚) | 1,197 | `text/Extra_Info__Saga_Related__外汇局备案申请表.doc__0e014bd2.json` |
-| Extra_Info/Saga Related/外汇管理局行政许可.pdf | 1034 KB | meta | pdfplumber | 0 | `text/Extra_Info__Saga_Related__外汇管理局行政许可.pdf__c0f6487a.json` |
+| Extra_Info/Saga Related/外汇管理局行政许可.pdf | 1034 KB | ok | pdftoppm+OCR(1p) | 230 | `text/Extra_Info__Saga_Related__外汇管理局行政许可.pdf__c0f6487a.json` |
 | Extra_Info/Saga Related/外贸及贸易公司.docx | 40 KB | ok | python-docx(段落+表格+文本框+页眉页脚) | 3,328 | `text/Extra_Info__Saga_Related__外贸及贸易公司.docx__4e47380b.json` |
 | Extra_Info/Saga Related/审核相关.docx | 52 KB | ok | python-docx(段落+表格+文本框+页眉页脚) | 1,023 | `text/Extra_Info__Saga_Related__审核相关.docx__5e70fb85.json` |
 | Extra_Info/Saga Related/房屋租赁合同 1.jpg | 498 KB | ok | pillow+tesseract | 1,636 | `text/Extra_Info__Saga_Related__房屋租赁合同_1.jpg__379a5575.json` |
 | Extra_Info/Saga Related/房屋租赁合同 2.jpg | 493 KB | ok | pillow+tesseract | 1,289 | `text/Extra_Info__Saga_Related__房屋租赁合同_2.jpg__fb9c7c71.json` |
 | Extra_Info/Saga Related/授权&说明/个人账户临时收付款情况说明.docx | 25 KB | ok | python-docx(段落+表格+文本框+页眉页脚) | 727 | `text/Extra_Info__Saga_Related__授权_说明__个人账户临时收付款情况说明.docx__d979cd55.json` |
 | Extra_Info/Saga Related/授权&说明/个人账户临时收付款情况说明.pdf | 121 KB | ok | pdfplumber | 685 | `text/Extra_Info__Saga_Related__授权_说明__个人账户临时收付款情况说明.pdf__2153315e.json` |
-| Extra_Info/Saga Related/授权&说明/买单报关记录自查清单.docx | 108 KB | meta | python-docx(段落+表格+文本框+页眉页脚) | 0 | `text/Extra_Info__Saga_Related__授权_说明__买单报关记录自查清单.docx__b2d4b3ed.json` |
-| Extra_Info/Saga Related/授权&说明/官方模板.dot | 20 KB | meta | none | 0 | `text/Extra_Info__Saga_Related__授权_说明__官方模板.dot__952ab295.json` |
+| Extra_Info/Saga Related/授权&说明/买单报关记录自查清单.docx | 108 KB | ok | python-docx(段落+表格+文本框+页眉页脚)+OCR(2img) | 683 | `text/Extra_Info__Saga_Related__授权_说明__买单报关记录自查清单.docx__b2d4b3ed.json` |
+| Extra_Info/Saga Related/授权&说明/官方模板.dot | 20 KB | ok | soffice→docx→python-docx(段落+表格+文本框+页眉页脚) | 141 | `text/Extra_Info__Saga_Related__授权_说明__官方模板.dot__952ab295.json` |
 | Extra_Info/Saga Related/授权&说明/授权书_Saga_程天龙.docx | 24 KB | ok | python-docx(段落+表格+文本框+页眉页脚) | 1,414 | `text/Extra_Info__Saga_Related__授权_说明__授权书_Saga_程天龙.docx__03a31abc.json` |
 | Extra_Info/Saga Related/授权&说明/授权书_Saga_程天龙.pdf | 136 KB | ok | pdfplumber | 1,326 | `text/Extra_Info__Saga_Related__授权_说明__授权书_Saga_程天龙.pdf__51dc36dd.json` |
 | Extra_Info/Saga Related/欧林克劳动合同.pdf | 2567 KB | ok | pdfplumber+OCR(7p) | 6,888 | `text/Extra_Info__Saga_Related__欧林克劳动合同.pdf__1fb74707.json` |
@@ -1340,7 +1340,7 @@
 | Extra_Info/Saga Related/营业执照.pdf | 474 KB | ok | pdfplumber+OCR(1p) | 589 | `text/Extra_Info__Saga_Related__营业执照.pdf__b8bc5ab2.json` |
 | Extra_Info/Saga Related/贸易外汇收支企业名录登记申请表.pdf | 731 KB | ok | pdfplumber+OCR(2p) | 1,668 | `text/Extra_Info__Saga_Related__贸易外汇收支企业名录登记申请表.pdf__061695c2.json` |
 | Extra_Info/Saga SEO/.nojekyll | 0 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__.nojekyll__e3b0c442.json` |
-| Extra_Info/Saga SEO/404.html | 3 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__404.html__995dccf4.json` |
+| Extra_Info/Saga SEO/404.html | 3 KB | ok | html.parser | 391 | `text/Extra_Info__Saga_SEO__404.html__995dccf4.json` |
 | Extra_Info/Saga SEO/Brand site INSIGHTS.docx | 49 KB | ok | python-docx(段落+表格+文本框+页眉页脚) | 40,700 | `text/Extra_Info__Saga_SEO__Brand_site_INSIGHTS.docx__bc4ad9d9.json` |
 | Extra_Info/Saga SEO/CN Site/1-1.jpg | 170 KB | meta | pillow+tesseract | 0 | `text/Extra_Info__Saga_SEO__CN_Site__1-1.jpg__eb83fa08.json` |
 | Extra_Info/Saga SEO/CN Site/1-2.jpg | 127 KB | meta | pillow+tesseract | 0 | `text/Extra_Info__Saga_SEO__CN_Site__1-2.jpg__857d0251.json` |
@@ -1357,28 +1357,28 @@
 | Extra_Info/Saga SEO/CN Site/4-1.jpg | 2761 KB | meta | pillow+tesseract | 0 | `text/Extra_Info__Saga_SEO__CN_Site__4-1.jpg__5bf5870a.json` |
 | Extra_Info/Saga SEO/CN Site/4-2 旁边需要P一个AC输入.jpg | 2877 KB | meta | pillow+tesseract | 0 | `text/Extra_Info__Saga_SEO__CN_Site__4-2_旁边需要P一个AC输入.jpg__9b6254bf.json` |
 | Extra_Info/Saga SEO/CN Site/4-3.png | 3057 KB | ok | pillow+tesseract | 115 | `text/Extra_Info__Saga_SEO__CN_Site__4-3.png__24ae126c.json` |
-| Extra_Info/Saga SEO/CN Site/404.html | 2 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__CN_Site__404.html__dd1f8673.json` |
+| Extra_Info/Saga SEO/CN Site/404.html | 2 KB | ok | html.parser | 240 | `text/Extra_Info__Saga_SEO__CN_Site__404.html__dd1f8673.json` |
 | Extra_Info/Saga SEO/CN Site/5-1.png | 4231 KB | meta | pillow+tesseract | 0 | `text/Extra_Info__Saga_SEO__CN_Site__5-1.png__707546a9.json` |
 | Extra_Info/Saga SEO/CN Site/5-2.png | 3043 KB | meta | pillow+tesseract | 0 | `text/Extra_Info__Saga_SEO__CN_Site__5-2.png__1f561c7d.json` |
 | Extra_Info/Saga SEO/CN Site/6-1.png | 461 KB | meta | pillow+tesseract | 0 | `text/Extra_Info__Saga_SEO__CN_Site__6-1.png__1d2213a0.json` |
 | Extra_Info/Saga SEO/CN Site/6-2.png | 2060 KB | meta | pillow+tesseract | 0 | `text/Extra_Info__Saga_SEO__CN_Site__6-2.png__42b804c3.json` |
 | Extra_Info/Saga SEO/CN Site/CN站.docx | 29 KB | ok | python-docx(段落+表格+文本框+页眉页脚) | 2,360 | `text/Extra_Info__Saga_SEO__CN_Site__CN站.docx__30108105.json` |
 | Extra_Info/Saga SEO/CN Site/robots.txt | 0 KB | ok | text | 76 | `text/Extra_Info__Saga_SEO__CN_Site__robots.txt__c6caf5ae.json` |
-| Extra_Info/Saga SEO/CN Site/sagatelecom-cn-20260807.html | 36 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__CN_Site__sagatelecom-cn-20260807.html__6e430c1f.json` |
-| Extra_Info/Saga SEO/CN Site/sagatelecom-cn-20260809.html | 36 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__CN_Site__sagatelecom-cn-20260809.html__01aec36d.json` |
-| Extra_Info/Saga SEO/CN Site/sagatelecom-cn-20260819v1.html | 43 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__CN_Site__sagatelecom-cn-20260819v1.html__eeccc55c.json` |
-| Extra_Info/Saga SEO/CN Site/sagatelecom-cn-20260819v10.html | 66 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__CN_Site__sagatelecom-cn-20260819v10.html__4e3e0f20.json` |
-| Extra_Info/Saga SEO/CN Site/sagatelecom-cn-20260819v11.html | 68 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__CN_Site__sagatelecom-cn-20260819v11.html__f65555e1.json` |
-| Extra_Info/Saga SEO/CN Site/sagatelecom-cn-20260819v2.html | 44 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__CN_Site__sagatelecom-cn-20260819v2.html__b327ed32.json` |
-| Extra_Info/Saga SEO/CN Site/sagatelecom-cn-20260819v3.html | 42 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__CN_Site__sagatelecom-cn-20260819v3.html__1488f3c7.json` |
-| Extra_Info/Saga SEO/CN Site/sagatelecom-cn-20260819v4.html | 36 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__CN_Site__sagatelecom-cn-20260819v4.html__bbf9e6aa.json` |
-| Extra_Info/Saga SEO/CN Site/sagatelecom-cn-20260819v5.html | 43 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__CN_Site__sagatelecom-cn-20260819v5.html__3c23b721.json` |
-| Extra_Info/Saga SEO/CN Site/sagatelecom-cn-20260819v6.html | 49 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__CN_Site__sagatelecom-cn-20260819v6.html__8ccbcd5e.json` |
-| Extra_Info/Saga SEO/CN Site/sagatelecom-cn-20260819v7.html | 55 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__CN_Site__sagatelecom-cn-20260819v7.html__f0135fa2.json` |
-| Extra_Info/Saga SEO/CN Site/sagatelecom-cn-20260819v8.html | 61 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__CN_Site__sagatelecom-cn-20260819v8.html__78399b40.json` |
-| Extra_Info/Saga SEO/CN Site/sagatelecom-cn-20260819v9.html | 67 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__CN_Site__sagatelecom-cn-20260819v9.html__e67b76ed.json` |
-| Extra_Info/Saga SEO/CN Site/sagatelecom-cn-20260822v12.html | 69 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__CN_Site__sagatelecom-cn-20260822v12.html__f88320d1.json` |
-| Extra_Info/Saga SEO/CN Site/sagatelecom-cn-framework-20260802.html | 36 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__CN_Site__sagatelecom-cn-framework-20260802.html__b84a2074.json` |
+| Extra_Info/Saga SEO/CN Site/sagatelecom-cn-20260807.html | 36 KB | ok | html.parser | 5,822 | `text/Extra_Info__Saga_SEO__CN_Site__sagatelecom-cn-20260807.html__6e430c1f.json` |
+| Extra_Info/Saga SEO/CN Site/sagatelecom-cn-20260809.html | 36 KB | ok | html.parser | 5,911 | `text/Extra_Info__Saga_SEO__CN_Site__sagatelecom-cn-20260809.html__01aec36d.json` |
+| Extra_Info/Saga SEO/CN Site/sagatelecom-cn-20260819v1.html | 43 KB | ok | html.parser | 8,007 | `text/Extra_Info__Saga_SEO__CN_Site__sagatelecom-cn-20260819v1.html__eeccc55c.json` |
+| Extra_Info/Saga SEO/CN Site/sagatelecom-cn-20260819v10.html | 66 KB | ok | html.parser | 14,698 | `text/Extra_Info__Saga_SEO__CN_Site__sagatelecom-cn-20260819v10.html__4e3e0f20.json` |
+| Extra_Info/Saga SEO/CN Site/sagatelecom-cn-20260819v11.html | 68 KB | ok | html.parser | 14,836 | `text/Extra_Info__Saga_SEO__CN_Site__sagatelecom-cn-20260819v11.html__f65555e1.json` |
+| Extra_Info/Saga SEO/CN Site/sagatelecom-cn-20260819v2.html | 44 KB | ok | html.parser | 8,010 | `text/Extra_Info__Saga_SEO__CN_Site__sagatelecom-cn-20260819v2.html__b327ed32.json` |
+| Extra_Info/Saga SEO/CN Site/sagatelecom-cn-20260819v3.html | 42 KB | ok | html.parser | 7,389 | `text/Extra_Info__Saga_SEO__CN_Site__sagatelecom-cn-20260819v3.html__1488f3c7.json` |
+| Extra_Info/Saga SEO/CN Site/sagatelecom-cn-20260819v4.html | 36 KB | ok | html.parser | 5,749 | `text/Extra_Info__Saga_SEO__CN_Site__sagatelecom-cn-20260819v4.html__bbf9e6aa.json` |
+| Extra_Info/Saga SEO/CN Site/sagatelecom-cn-20260819v5.html | 43 KB | ok | html.parser | 7,495 | `text/Extra_Info__Saga_SEO__CN_Site__sagatelecom-cn-20260819v5.html__3c23b721.json` |
+| Extra_Info/Saga SEO/CN Site/sagatelecom-cn-20260819v6.html | 49 KB | ok | html.parser | 9,236 | `text/Extra_Info__Saga_SEO__CN_Site__sagatelecom-cn-20260819v6.html__8ccbcd5e.json` |
+| Extra_Info/Saga SEO/CN Site/sagatelecom-cn-20260819v7.html | 55 KB | ok | html.parser | 11,025 | `text/Extra_Info__Saga_SEO__CN_Site__sagatelecom-cn-20260819v7.html__f0135fa2.json` |
+| Extra_Info/Saga SEO/CN Site/sagatelecom-cn-20260819v8.html | 61 KB | ok | html.parser | 12,850 | `text/Extra_Info__Saga_SEO__CN_Site__sagatelecom-cn-20260819v8.html__78399b40.json` |
+| Extra_Info/Saga SEO/CN Site/sagatelecom-cn-20260819v9.html | 67 KB | ok | html.parser | 14,807 | `text/Extra_Info__Saga_SEO__CN_Site__sagatelecom-cn-20260819v9.html__e67b76ed.json` |
+| Extra_Info/Saga SEO/CN Site/sagatelecom-cn-20260822v12.html | 69 KB | ok | html.parser | 14,853 | `text/Extra_Info__Saga_SEO__CN_Site__sagatelecom-cn-20260822v12.html__f88320d1.json` |
+| Extra_Info/Saga SEO/CN Site/sagatelecom-cn-framework-20260802.html | 36 KB | ok | html.parser | 6,100 | `text/Extra_Info__Saga_SEO__CN_Site__sagatelecom-cn-framework-20260802.html__b84a2074.json` |
 | Extra_Info/Saga SEO/CN Site/sitemap.xml | 0 KB | ok | text | 273 | `text/Extra_Info__Saga_SEO__CN_Site__sitemap.xml__38db48e7.json` |
 | Extra_Info/Saga SEO/CN Site/stc-448xggmo-dimensions.png | 3057 KB | dup |  | 0 | `text/Extra_Info__Saga_SEO__CN_Site__stc-448xggmo-dimensions.png__24ae126c.json` |
 | Extra_Info/Saga SEO/CN Site/stc-448xggmo-front.jpg | 2761 KB | dup |  | 0 | `text/Extra_Info__Saga_SEO__CN_Site__stc-448xggmo-front.jpg__5bf5870a.json` |
@@ -1406,7 +1406,7 @@
 | Extra_Info/Saga SEO/EC21 Banner/banner3_990x200.png | 236 KB | ok | pillow+tesseract | 61 | `text/Extra_Info__Saga_SEO__EC21_Banner__banner3_990x200.png__810b5cfd.json` |
 | Extra_Info/Saga SEO/EC21 Banner/banner4_applications_990x200.png | 47 KB | meta | pillow+tesseract | 0 | `text/Extra_Info__Saga_SEO__EC21_Banner__banner4_applications_990x200.png__c3e0997b.json` |
 | Extra_Info/Saga SEO/EC21 Banner/banner5_oemodm_990x200.png | 46 KB | meta | pillow+tesseract | 0 | `text/Extra_Info__Saga_SEO__EC21_Banner__banner5_oemodm_990x200.png__6dbf035a.json` |
-| Extra_Info/Saga SEO/EC21 Banner/roadmap_banner_990x200.html | 7 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__EC21_Banner__roadmap_banner_990x200.html__501c07af.json` |
+| Extra_Info/Saga SEO/EC21 Banner/roadmap_banner_990x200.html | 7 KB | ok | html.parser | 363 | `text/Extra_Info__Saga_SEO__EC21_Banner__roadmap_banner_990x200.html__501c07af.json` |
 | Extra_Info/Saga SEO/EC21 Banner/roadmap_banner_990x200.png | 25 KB | ok | pillow+tesseract | 287 | `text/Extra_Info__Saga_SEO__EC21_Banner__roadmap_banner_990x200.png__423cada5.json` |
 | Extra_Info/Saga SEO/Global Source/zhengzhou_saga_100_products_page_link_audit.csv | 100 KB | ok | text | 102,656 | `text/Extra_Info__Saga_SEO__Global_Source__zhengzhou_saga_100_products_page_link_audit.csv__03772fe4.json` |
 | Extra_Info/Saga SEO/Global Source/zhengzhou_saga_audit_notes.md | 3 KB | ok | text | 1,844 | `text/Extra_Info__Saga_SEO__Global_Source__zhengzhou_saga_audit_notes.md__bf8c3cde.json` |
@@ -1452,27 +1452,27 @@
 | Extra_Info/Saga SEO/logo.png | 35 KB | dup |  | 0 | `text/Extra_Info__Saga_SEO__logo.png__98e35a76.json` |
 | Extra_Info/Saga SEO/og-image.png | 20 KB | ok | pillow+tesseract | 4 | `text/Extra_Info__Saga_SEO__og-image.png__9aa9aa9b.json` |
 | Extra_Info/Saga SEO/robots.txt | 0 KB | ok | text | 66 | `text/Extra_Info__Saga_SEO__robots.txt__df2f6345.json` |
-| Extra_Info/Saga SEO/saga-telecom-20260801.html | 39 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__saga-telecom-20260801.html__44a62a2a.json` |
-| Extra_Info/Saga SEO/saga-telecom-20260801v2.html | 39 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__saga-telecom-20260801v2.html__42ef38b9.json` |
-| Extra_Info/Saga SEO/saga-telecom-20260801v3.html | 41 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__saga-telecom-20260801v3.html__10ec56bc.json` |
-| Extra_Info/Saga SEO/saga-telecom-20260801v4.html | 44 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__saga-telecom-20260801v4.html__df54332f.json` |
-| Extra_Info/Saga SEO/saga-telecom-20260801v5.html | 44 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__saga-telecom-20260801v5.html__643016f1.json` |
-| Extra_Info/Saga SEO/saga-telecom-20260808.html | 50 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__saga-telecom-20260808.html__0da96517.json` |
-| Extra_Info/Saga SEO/saga-telecom-20260815v2.html | 70 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__saga-telecom-20260815v2.html__32eb2825.json` |
-| Extra_Info/Saga SEO/saga-telecom-20260815v3.html | 75 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__saga-telecom-20260815v3.html__4e391241.json` |
-| Extra_Info/Saga SEO/saga-telecom-20260815v4.html | 65 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__saga-telecom-20260815v4.html__37fe8799.json` |
-| Extra_Info/Saga SEO/saga-telecom-20260815v5.html | 65 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__saga-telecom-20260815v5.html__131f52c1.json` |
-| Extra_Info/Saga SEO/saga-telecom-20260815v6.html | 65 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__saga-telecom-20260815v6.html__f222b54f.json` |
-| Extra_Info/Saga SEO/saga-telecom-20260815v7.html | 66 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__saga-telecom-20260815v7.html__554797b1.json` |
-| Extra_Info/Saga SEO/saga-telecom-20260818_不带WA.html | 63 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__saga-telecom-20260818_不带WA.html__29277699.json` |
-| Extra_Info/Saga SEO/saga-telecom-20260901v2.html | 81 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__saga-telecom-20260901v2.html__a57a73f1.json` |
-| Extra_Info/Saga SEO/saga-telecom-20260901v3.html | 85 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__saga-telecom-20260901v3.html__3cb504d0.json` |
-| Extra_Info/Saga SEO/saga-telecom-20260901v4.html | 87 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__saga-telecom-20260901v4.html__181d8a60.json` |
-| Extra_Info/Saga SEO/saga-telecom-20260901v5.html | 88 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__saga-telecom-20260901v5.html__57423972.json` |
-| Extra_Info/Saga SEO/saga-telecom-20260901v6.html | 89 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__saga-telecom-20260901v6.html__996c7d84.json` |
-| Extra_Info/Saga SEO/saga-telecom-20261001v3.html | 94 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__saga-telecom-20261001v3.html__451db79d.json` |
-| Extra_Info/Saga SEO/saga-telecom-20261102v4.html | 111 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__saga-telecom-20261102v4.html__bae8d041.json` |
-| Extra_Info/Saga SEO/saga-telecom-20261201v5.html | 128 KB | meta | none | 0 | `text/Extra_Info__Saga_SEO__saga-telecom-20261201v5.html__f4e71bab.json` |
+| Extra_Info/Saga SEO/saga-telecom-20260801.html | 39 KB | ok | html.parser | 11,822 | `text/Extra_Info__Saga_SEO__saga-telecom-20260801.html__44a62a2a.json` |
+| Extra_Info/Saga SEO/saga-telecom-20260801v2.html | 39 KB | ok | html.parser | 11,832 | `text/Extra_Info__Saga_SEO__saga-telecom-20260801v2.html__42ef38b9.json` |
+| Extra_Info/Saga SEO/saga-telecom-20260801v3.html | 41 KB | ok | html.parser | 12,844 | `text/Extra_Info__Saga_SEO__saga-telecom-20260801v3.html__10ec56bc.json` |
+| Extra_Info/Saga SEO/saga-telecom-20260801v4.html | 44 KB | ok | html.parser | 12,884 | `text/Extra_Info__Saga_SEO__saga-telecom-20260801v4.html__df54332f.json` |
+| Extra_Info/Saga SEO/saga-telecom-20260801v5.html | 44 KB | ok | html.parser | 12,655 | `text/Extra_Info__Saga_SEO__saga-telecom-20260801v5.html__643016f1.json` |
+| Extra_Info/Saga SEO/saga-telecom-20260808.html | 50 KB | ok | html.parser | 13,528 | `text/Extra_Info__Saga_SEO__saga-telecom-20260808.html__0da96517.json` |
+| Extra_Info/Saga SEO/saga-telecom-20260815v2.html | 70 KB | ok | html.parser | 24,234 | `text/Extra_Info__Saga_SEO__saga-telecom-20260815v2.html__32eb2825.json` |
+| Extra_Info/Saga SEO/saga-telecom-20260815v3.html | 75 KB | ok | html.parser | 27,592 | `text/Extra_Info__Saga_SEO__saga-telecom-20260815v3.html__4e391241.json` |
+| Extra_Info/Saga SEO/saga-telecom-20260815v4.html | 65 KB | ok | html.parser | 20,632 | `text/Extra_Info__Saga_SEO__saga-telecom-20260815v4.html__37fe8799.json` |
+| Extra_Info/Saga SEO/saga-telecom-20260815v5.html | 65 KB | ok | html.parser | 21,147 | `text/Extra_Info__Saga_SEO__saga-telecom-20260815v5.html__131f52c1.json` |
+| Extra_Info/Saga SEO/saga-telecom-20260815v6.html | 65 KB | ok | html.parser | 21,238 | `text/Extra_Info__Saga_SEO__saga-telecom-20260815v6.html__f222b54f.json` |
+| Extra_Info/Saga SEO/saga-telecom-20260815v7.html | 66 KB | ok | html.parser | 21,270 | `text/Extra_Info__Saga_SEO__saga-telecom-20260815v7.html__554797b1.json` |
+| Extra_Info/Saga SEO/saga-telecom-20260818_不带WA.html | 63 KB | ok | html.parser | 21,258 | `text/Extra_Info__Saga_SEO__saga-telecom-20260818_不带WA.html__29277699.json` |
+| Extra_Info/Saga SEO/saga-telecom-20260901v2.html | 81 KB | ok | html.parser | 29,057 | `text/Extra_Info__Saga_SEO__saga-telecom-20260901v2.html__a57a73f1.json` |
+| Extra_Info/Saga SEO/saga-telecom-20260901v3.html | 85 KB | ok | html.parser | 30,665 | `text/Extra_Info__Saga_SEO__saga-telecom-20260901v3.html__3cb504d0.json` |
+| Extra_Info/Saga SEO/saga-telecom-20260901v4.html | 87 KB | ok | html.parser | 31,170 | `text/Extra_Info__Saga_SEO__saga-telecom-20260901v4.html__181d8a60.json` |
+| Extra_Info/Saga SEO/saga-telecom-20260901v5.html | 88 KB | ok | html.parser | 31,170 | `text/Extra_Info__Saga_SEO__saga-telecom-20260901v5.html__57423972.json` |
+| Extra_Info/Saga SEO/saga-telecom-20260901v6.html | 89 KB | ok | html.parser | 31,511 | `text/Extra_Info__Saga_SEO__saga-telecom-20260901v6.html__996c7d84.json` |
+| Extra_Info/Saga SEO/saga-telecom-20261001v3.html | 94 KB | ok | html.parser | 37,277 | `text/Extra_Info__Saga_SEO__saga-telecom-20261001v3.html__451db79d.json` |
+| Extra_Info/Saga SEO/saga-telecom-20261102v4.html | 111 KB | ok | html.parser | 48,235 | `text/Extra_Info__Saga_SEO__saga-telecom-20261102v4.html__bae8d041.json` |
+| Extra_Info/Saga SEO/saga-telecom-20261201v5.html | 128 KB | ok | html.parser | 59,629 | `text/Extra_Info__Saga_SEO__saga-telecom-20261201v5.html__f4e71bab.json` |
 | Extra_Info/Saga SEO/sitemap.xml | 0 KB | ok | text | 264 | `text/Extra_Info__Saga_SEO__sitemap.xml__edc157e8.json` |
 | Extra_Info/Saga SEO/stc-424xggpm-280w-front.jpg | 30 KB | meta | pillow+tesseract | 0 | `text/Extra_Info__Saga_SEO__stc-424xggpm-280w-front.jpg__383c3854.json` |
 | Extra_Info/Saga SEO/stc-448xggm-front.jpg | 48 KB | meta | pillow+tesseract | 0 | `text/Extra_Info__Saga_SEO__stc-448xggm-front.jpg__f2fb92a8.json` |
@@ -1522,7 +1522,7 @@
 | Extra_Info/Template/Simon 15237149683/Simon签名.png | 2428 KB | meta | pillow+tesseract | 0 | `text/Extra_Info__Template__Simon_15237149683__Simon签名.png__1188da38.json` |
 | Extra_Info/Template/Simon 15237149683/公章 Simon组合.png | 119 KB | meta | pillow+tesseract | 0 | `text/Extra_Info__Template__Simon_15237149683__公章_Simon组合.png__673c5fce.json` |
 | Extra_Info/Template/Standard Production.docx | 832 KB | ok | python-docx(段落+表格+文本框+页眉页脚) | 2,212 | `text/Extra_Info__Template__Standard_Production.docx__7b60db49.json` |
-| Extra_Info/Template/Template.vst | 30 KB | meta | none | 0 | `text/Extra_Info__Template__Template.vst__a7338ea4.json` |
+| Extra_Info/Template/Template.vst | 30 KB | ok | soffice→pdf→pdfplumber | 139 | `text/Extra_Info__Template__Template.vst__a7338ea4.json` |
 | Extra_Info/Template/User Manual.pub | 6680 KB | ok | soffice→pdf→pdfplumber | 4,377 | `text/Extra_Info__Template__User_Manual.pub__51d82a74.json` |
 | Extra_Info/Template/Warranty Policy.docx | 233 KB | ok | python-docx(段落+表格+文本框+页眉页脚) | 3,453 | `text/Extra_Info__Template__Warranty_Policy.docx__09e787b8.json` |
 | Extra_Info/Template/出口报关单.doc | 49 KB | ok | soffice→docx→python-docx(段落+表格+文本框+页眉页脚) | 1,254 | `text/Extra_Info__Template__出口报关单.doc__056e7da7.json` |
@@ -1589,10 +1589,8 @@
 | Extra_Info/行业知识.docx | 6216 KB | ok | python-docx(段落+表格+文本框+页眉页脚) | 21,473 | `text/Extra_Info__行业知识.docx__9978fab9.json` |
 | Extra_Info/计划.docx | 4294 KB | ok | python-docx(段落+表格+文本框+页眉页脚) | 24,954 | `text/Extra_Info__计划.docx__116e441b.json` |
 | Extra_Info/软性宣传.docx | 25 KB | ok | python-docx(段落+表格+文本框+页眉页脚) | 5,464 | `text/Extra_Info__软性宣传.docx__d368be8f.json` |
-| Extra_Info/销售额 & 利润.xlsx | 33 KB | fail |  | 0 | `text/Extra_Info__销售额_利润.xlsx__475ca965.json` |
+| Extra_Info/销售额 & 利润.xlsx | 33 KB | meta | ole2-encrypted | 0 | `text/Extra_Info__销售额_利润.xlsx__475ca965.json` |
 
-## 失败（1）
+## 失败（0）
 
-- `Extra_Info/销售额 & 利润.xlsx`：RuntimeError: xlrd: Can't find workbook in OLE2 compound document; soffice produced nothing: Warning: failed to launch javaldx - java may not function correctly
-Error: source file could not be loaded
-
+无。

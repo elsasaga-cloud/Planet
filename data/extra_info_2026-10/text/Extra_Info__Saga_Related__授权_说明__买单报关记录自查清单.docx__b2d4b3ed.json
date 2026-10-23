@@ -6,8 +6,8 @@
 "bytes":110834,
 "sha256":"b2d4b3ed26045c3b90b161a9fbc2de63936b2aaece6a4a081f5f2db2e44b923e",
 "source":"Extra_Info.zip",
-"method":"python-docx(段落+表格+文本框+页眉页脚)",
-"status":"meta",
+"method":"python-docx(段落+表格+文本框+页眉页脚)+OCR(2img)",
+"status":"ok",
 "meta":{
 "title":"",
 "author":"Simon",
@@ -16,11 +16,12 @@
 "modified":"2025-04-22T10:44:29+00:00",
 "paragraphs":0,
 "tables":0,
-"embedded_images":3
+"embedded_images":3,
+"ocr_images":2
 },
 "warnings":[],
-"chars":0,
-"text":"",
+"chars":683,
+"text":"[图片OCR]\n[图片 image1.png OCR 置信度 89.8]\n1. 核心 要 素\n每 一 票 买单 出 货 ， 至 少 整理 好 下 面 这 些 要 素 :\n项 目 内 容 示例\n货 时 间 2023-06-18\n客户 名 称 ABC Trading Co., Ltd\n收 款 記錄 银行 入 账 流水 截图\n供應 商 付款 記錄 转账 凭证 或 截图\n货代 名 称 XX 国 际 货运 代理 有 限 公司\n货代 后 台 截 图 系统 页 面 显 示 你 的 货代 单 号 /出 货 记 录\n主要 货品 信息 比如 : 塑料 制品 100 箱\n通讯 记录 微信 、 郵 件 聊天 截 回\n备注 买单 报关 ， 无 正式 报关 单\n备注\n发 货 时 间或 货代 系统 生成 时 间\n与 订单 对 应\n收 款 方 是 你 (即 使 是 私 賬 )\n私 账 打 给 供应 商\n有 时 间 发 和 品 :\n和 订单 描述 对 应\n客户 下 单 /确认 内 容\n说 明 是 买单 ， 避 锡 未 来 泥 淆\n\n[图片 image2.png OCR 置信度 91.4]\n2. 整理 方式\n‧ 每 一 票 出 货 做 一 个 独立 小 文件 夹 ， 比 如 :\n2923-96-18 买单 出 货 ABC 客戶\n。 文件 夹 里 存 :\n‧ 收 款 流水 截 回\n‧ 付款 流水 截图\n。 客户 聊天 记录 截图\n。 供应 商 确认 截图\n‧ 货代 后 台 截 图 (能 显示 单 号 和 时 间 )\n建议 压缩 打包 ， 存 公司 硬盘 + 云 盘 备份 一 份 。",
 "blocks":[],
-"extracted_at":"2026-10-23T05:32:52Z"
+"extracted_at":"2026-10-23T06:05:04Z"
 }

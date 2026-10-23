@@ -6,13 +6,27 @@
 "bytes":1933,
 "sha256":"dd1f867329e4f092de060eb4cb26098885078b69c9cf6cdabf7a39522e1d5b31",
 "source":"Extra_Info.zip",
-"method":"none",
-"status":"meta",
-"meta":{},
-"warnings":[
-"no extractor for .html"
+"method":"html.parser",
+"status":"ok",
+"meta":{
+"title":"404 — Page Not Found | Saga Telecom",
+"metas":{},
+"headings":[
+"h1: 404"
 ],
-"chars":0,
-"text":"",
-"extracted_at":"2026-10-23T05:02:14Z"
+"links":3,
+"html_bytes":1933,
+"encoding":"UTF-8"
+},
+"warnings":[],
+"chars":240,
+"text":"[title] 404 — Page Not Found | Saga Telecom\n\nST\n404\nThe page you are looking for does not exist or has been moved. Our product catalogue is very much alive — head back to the homepage.\nHome\nProducts\nContact\nSaga Telecom · sagatelecom.com.cn",
+"blocks":[
+{
+"t":"h",
+"s":"h1",
+"text":"404"
+}
+],
+"extracted_at":"2026-10-23T06:04:50Z"
 }

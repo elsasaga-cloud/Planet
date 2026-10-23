@@ -6,13 +6,19 @@
 "bytes":7591,
 "sha256":"501c07affee3d620a65d57da4fdb1b3ff1125a0d3360e5ed0a3fd451959142a5",
 "source":"Extra_Info.zip",
-"method":"none",
-"status":"meta",
-"meta":{},
-"warnings":[
-"no extractor for .html"
-],
-"chars":0,
-"text":"",
-"extracted_at":"2026-10-23T05:01:50Z"
+"method":"html.parser",
+"status":"ok",
+"meta":{
+"title":"",
+"metas":{},
+"headings":[],
+"links":0,
+"html_bytes":7591,
+"encoding":"UTF-8"
+},
+"warnings":[],
+"chars":363,
+"text":"Phase 1\nAccess Foundation\nTailored Managed Networking Solutions\nA Scalable Path from Access to Core\nPhase 2\nAggregation & Core Expansion\nArchitectural Continuity\nAccess Layer\nL2+ / L3 Switches, PoE\nMARVELL®\nManagement & Stability\nUnified Management\nConsistent Support\nAggregation & Core\n10G / 25G / 100G + CENTEC\nCENTEC\nScalable • Coherent • Stable • Low-Friction",
+"blocks":[],
+"extracted_at":"2026-10-23T06:04:49Z"
 }

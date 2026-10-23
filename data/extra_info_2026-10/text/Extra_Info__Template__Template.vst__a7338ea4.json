@@ -6,13 +6,22 @@
 "bytes":30208,
 "sha256":"a7338ea4ae96e9a367b5f36f021ccb2324e4f69d505217eb2991673aca3cc8d2",
 "source":"Extra_Info.zip",
-"method":"none",
-"status":"meta",
-"meta":{},
-"warnings":[
-"no extractor for .vst"
+"method":"soffice→pdf→pdfplumber",
+"status":"ok",
+"meta":{
+"pages":1,
+"creator":"Draw",
+"producer":"LibreOffice 24.2",
+"creationdate":"D:20261023060451Z'",
+"ocr_pages":0,
+"thumb_bytes":2471
+},
+"warnings":[],
+"chars":139,
+"text":"[p1]\nSaga Telecom\nwww.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"pages":[
+"Saga Telecom\nwww.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together"
 ],
-"chars":0,
-"text":"",
-"extracted_at":"2026-10-23T05:20:22Z"
+"extracted_at":"2026-10-23T06:04:51Z",
+"thumb":"thumbs/Extra_Info__Template__Template.vst__a7338ea4.jpg"
 }
