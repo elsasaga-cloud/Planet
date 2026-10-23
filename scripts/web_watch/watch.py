@@ -300,6 +300,47 @@ def youtube_channel_id(page):
     return m.group(1) if m else None
 
 
+YT_API_KEY = os.environ.get('YT_API_KEY', '').strip()
+
+
+def yt_api(path, **params):
+    """YouTube Data API v3（需要 YT_API_KEY；channels.list / playlistItems.list 各 1 配额单位，227 个频道一天 <500 单位，免费额度 10,000）。"""
+    params['key'] = YT_API_KEY
+    r = requests.get('https://www.googleapis.com/youtube/v3/' + path, params=params, headers={'User-Agent': UA}, timeout=TIMEOUT)
+    if r.status_code != 200:
+        raise RuntimeError(f'YouTube API {r.status_code}: {r.text[:140]}')
+    return r.json()
+
+
+def yt_api_items(url):
+    """用 API 取频道最近上传：返回 (channel_id, items)。url 可以是 feeds/videos.xml?channel_id=、/channel/UC…、/@handle、/user/x；/c/x 不支持（抛异常→走旧路径）。"""
+    u = url.strip()
+    cid = handle = user = None
+    m = re.search(r'channel_id=(UC[0-9A-Za-z_-]{20,})', u) or re.search(r'/channel/(UC[0-9A-Za-z_-]{20,})', u)
+    if m:
+        cid = m.group(1)
+    elif re.search(r'youtube\.com/@([^/?#]+)', u):
+        handle = re.search(r'youtube\.com/@([^/?#]+)', u).group(1)
+    elif re.search(r'youtube\.com/user/([^/?#]+)', u):
+        user = re.search(r'youtube\.com/user/([^/?#]+)', u).group(1)
+    else:
+        raise RuntimeError('unsupported YouTube URL for API')
+    if not cid:
+        q = {'part': 'id', 'forHandle': handle} if handle else {'part': 'id', 'forUsername': user}
+        data = yt_api('channels', **q)
+        items = data.get('items') or []
+        if not items:
+            raise RuntimeError('YouTube API: channel not found')
+        cid = items[0]['id']
+    data = yt_api('playlistItems', part='snippet', playlistId='UU' + cid[2:], maxResults=15)
+    out = []
+    for it in data.get('items') or []:
+        sn = it.get('snippet') or {}
+        vid = (sn.get('resourceId') or {}).get('videoId') or it.get('id')
+        out.append({'id': f'https://www.youtube.com/watch?v={vid}', 'title': sn.get('title', ''), 'date': sn.get('publishedAt', ''), 'link': f'https://www.youtube.com/watch?v={vid}'})
+    return cid, out
+
+
 # ----------------------------------------------------------------------------- per-source
 _FEED_LINK = re.compile(r'(?is)<link\b[^>]*>')
 _ATTR = re.compile(r"(?is)([a-z:-]+)\s*=\s*(\"([^\"]*)\"|'([^']*)'|([^\s>]+))")
@@ -347,13 +388,27 @@ def run_source(src):
                              (max([i.get('date') or '' for i in items if i['id'].startswith('repo:')] or ['-']))
             return res
         url = src['url']
+        if 'youtube.com' in (url or '').lower() and kind in ('youtube_handle', 'rss'):
+            if YT_API_KEY:
+                try:
+                    cid, items = yt_api_items(url if not src.get('_cached_channel_id') else f"https://www.youtube.com/channel/{src['_cached_channel_id']}")
+                    res['channel_id'] = cid
+                    res['status'] = 200
+                    res['items'] = {i['id']: {'title': i['title'], 'date': i['date']} for i in items}
+                    res['hash'] = hashlib.sha1(json.dumps(sorted(res['items']), ensure_ascii=False).encode()).hexdigest()
+                    res['text'] = '\n'.join(f"{i['date']}\t{i['title']}\t{i['link']}" for i in items)
+                    res['summary'] = (f"API · {len(items)} 条；最新：{items[0]['date'][:19]} {items[0]['title'][:80]}" if items else 'API · 0 条')
+                    return res
+                except Exception as e:  # noqa: BLE001
+                    if 'unsupported' not in str(e):
+                        raise
         if kind == 'youtube_handle':
             cid = src.get('_cached_channel_id')
             if not cid:
                 code, page, _ = fetch(url, accept='text/html', **fo)
                 cid = youtube_channel_id(page)
                 if not cid:
-                    raise RuntimeError(f'channelId not found (HTTP {code})')
+                    raise RuntimeError(f'channelId not found (HTTP {code})' + ('；YouTube 对运行器 IP 常以 404 拦截，设 YT_API_KEY 可绕过' if code == 404 else ''))
             res['channel_id'] = cid
             url = f'https://www.youtube.com/feeds/videos.xml?channel_id={cid}'
             kind = 'rss'
@@ -375,6 +430,9 @@ def run_source(src):
             res['hash'] = hashlib.sha1(f'HTTP {code}'.encode()).hexdigest()
             res['items'] = {}
             res['error'] = f'HTTP {code}'
+            if code == 404 and 'youtube.com' in (url or '').lower():
+                # 2026-10-23 实测：同一频道 RSS 对运行器一会 200 一会 404，fetch_page 也 404 → 是 YouTube 对数据中心 IP 的拦截，不是频道不存在
+                res['error'] = 'YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过）'
             return res
         if kind == 'rss':
             items = parse_feed(body)
@@ -624,7 +682,7 @@ def write_status(customers, state, changes_by_layer):
                     cats[k] = cats.get(k, 0) + 1
         cat_line = '；'.join(f'{k} ×{v}' for k, v in sorted(cats.items(), key=lambda x: -x[1])[:10]) or '无'
         L = ['# A/B 级客户 · 动态监控 · 当前状态（T29-U19）', '',
-             f'> 失败分类（最近一次状态）：{cat_line}。403 = 站点反爬（运行器 IP 被拦，人工看）；404 = 页面/频道不存在或 YouTube 拦截；SSL/连接/DNS 错误 = 站点本身问题，连续多轮失败再从清单摘掉。', '',
+             f'> 失败分类（最近一次状态）：{cat_line}。403 = 站点反爬（运行器 IP 被拦，人工看）；YouTube 404 = YouTube 对数据中心 IP 的拦截（设仓库 secret YT_API_KEY 后走官方 API）；其它 404 = 页面不存在；SSL/连接/DNS 错误 = 站点本身问题，连续多轮失败再从清单摘掉。', '',
              f'> 本轮 {TS}。客户 {len(ab)} 家 / 源 {n_src} 个。清单 `scripts/web_watch/targets_auto.json`（discover.py 离线生成：首页 / sitemap / 新闻栏目 / YouTube / GitHub / Telegram / VK + 运行时自动发现的 feed）。'
              f'变化见 `变化日志_AB.md`；每客户文本快照在 `snapshots/<客户码>/`。「最近变化」= 任一源最近一次内容变化的时间（首轮 = 基线时间）；「人工看」= 有登录墙的社媒，链接在 targets_auto.json 的 manual 字段。', '',
              '| 客户 | 级 | 源数 | 本轮可达/失败 | 最近变化 | 最近变化摘要 | 人工看 |', '|---|---|---|---|---|---|---|']
