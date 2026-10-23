@@ -840,7 +840,9 @@ def main(argv=None):
     write_status(load_config({'成单', 'A', 'B'}), state, changes_by_layer)
     print(f'{TS} customers={len(customers)} sources={sum(n_sources.values())} changed_or_flagged={tot_changes} errors={tot_err} elapsed={time.time() - t0:.0f}s')
     if not args.no_commit:
-        git_commit(f"监控：客户动态 {TS}（成单 {len(changes_by_layer['成单'])} / A {len(changes_by_layer['A'])} / B {len(changes_by_layer['B'])} 处变化；抓取失败 {tot_err}；源 {sum(n_sources.values())}）")
+        # 提交信息里按「源」计数（只数顶层条目，不数缩进的 diff 明细行；2026-10-23 07:03Z 修：此前把明细行也算进去，06:51Z 轮显示 55 实为 11 个源）
+        n_top = {k: sum(1 for x in v if not x.startswith((' ', '###'))) for k, v in changes_by_layer.items()}
+        git_commit(f"监控：客户动态 {TS}（成单 {n_top['成单']} / A {n_top['A']} / B {n_top['B']} 个源有变化；抓取失败 {tot_err}；源 {sum(n_sources.values())}）")
     return 0
 
 
