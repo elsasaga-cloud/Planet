@@ -308,6 +308,7 @@ def main():
     L.append(f"- **公式**：报价 USD = SmartByte 未税 CNY × (1 + 档位) ÷ 汇率；档位 20% / 25% / 30%（用户 2026-10-19）。")
     L.append(f"- **汇率快照**：1 USD = **{a.rate} CNY**（{a.rate_date}；来源：{a.rate_src}）。报价当日须重新核汇率。")
     L.append("- **价格有效期**：SmartByte 管理型两表 2026-09-01 → 2026-12-30；非管理型表 2024-01-11 更新；Bypass 表 2025-03-12。**报价前核价**。")
+    L.append("- **Realtek 线（洪瑞 HRUI）进价**：另见 `docs/reference/价格表_HRUI_三档加价_USD.md`（`scripts/pricing_hrui.py` 由《洪瑞报价-天龙2026930.xls》生成，2026-09-30 报价、7 天有效、不含税含运费）。")
     L.append("- **条款**：EXW；商用线（STC-）保 1 年、含电源适配器；工业线（STI-）保 3 年、**不含**工业电源与光模块；PoE 均为 af/at（bt 仅 SmartByte -BT 衍生型，Saga 工业线部分型号有 -2BT/-4BT）。")
     L.append("- **档位默认**：分销/走量/比价 → 20%；集成商/项目 → 25%；OEM/ODM 深度定制或小批量技术型 → 30%。档案里写明所选档位与理由。")
     L.append("- **型号书写**：MD/邮件写 Saga 型号；下表「Saga对应型号」为空或标「暂无对应」者，写 SmartByte 型号并注明「Saga 暂无对应型号，沿用 SmartByte 型号」。")
