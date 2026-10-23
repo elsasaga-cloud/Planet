@@ -1,0 +1,28 @@
+{
+ "id": "1961f73291e68133",
+ "thread_id": "195742ba8a5654e8",
+ "message_id_header": "<076001dbaa0b$5618ce30$024a6a90$@gmail.com>",
+ "from": "<infoautomation18@gmail.com>",
+ "to": "'Elsa from Saga Telecom' <e.sagatelecom@gmail.com>, <support@sislinfotech.com>",
+ "cc": null,
+ "subject": "RE: Industrial PoE Switch",
+ "date": "Thu, 10 Apr 2025 16:55:57 +0530",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Thanks\n\nFirst, we need datasheet\n\nBest regards\n\nAZAD KHAN\n\n9958428786\n\n[引文：Elsa 2025-04-10 11:30 推销 Marvell 工业 PoE 交换机 2×GE SFP + 4×GE PoE，120W，PoE watchdog，250 m，DIP；问是否需要测试样机]",
+ "char_count": 693,
+ "attachments": [
+  {
+   "filename": "image001.jpg",
+   "mime_type": "image/jpeg",
+   "size": 277893
+  }
+ ],
+ "note": "印度 SISL Infotech（support@sislinfotech.com）Azad Khan +91 9958428786：要 datasheet；来信地址是 Gmail 私邮 infoautomation18@gmail.com",
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T07:03Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

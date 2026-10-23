@@ -1,0 +1,22 @@
+{
+ "id": "196192cdefd7e1da",
+ "thread_id": "195741e3297fe2ef",
+ "message_id_header": "<E6C6CF7E-7809-4AF4-B87F-2634E8AF7DBB@ite.net.pk>",
+ "from": "Faisal Javed <faisal@ite.net.pk>",
+ "to": "Saga Telecom Elsa from <e.sagatelecom@gmail.com>",
+ "cc": "info@globalconnectsynergy.com",
+ "subject": "Re: Mini Industrial PoE Switch",
+ "date": "Wed, 9 Apr 2025 11:11:19 +0500",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Hi\nDo you have Routers with 1GE and 4 FE ports\nSent from my iPhone",
+ "char_count": 70,
+ "attachments": [],
+ "note": "巴基斯坦 ITE Faisal Javed：第 1 封，问有没有 1 GE + 4 FE 路由器；抄送 info@globalconnectsynergy.com（关联公司）",
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T07:03Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

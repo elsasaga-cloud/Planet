@@ -1,0 +1,22 @@
+{
+ "id": "19619b88dc5fd775",
+ "thread_id": "195741e3297fe2ef",
+ "message_id_header": "<06a001dba92b$8da99270$a8fcb750$@ite.net.pk>",
+ "from": "Faisal Javed <faisal@ite.net.pk>",
+ "to": "'Elsa from Saga Telecom' <e.sagatelecom@gmail.com>",
+ "cc": null,
+ "subject": "RE: Mini Industrial PoE Switch",
+ "date": "Wed, 9 Apr 2025 13:44:04 +0500",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Required Specifications:\n\nRouting Capabilities:\n* IP SLA (Service Level Agreement Monitoring)\n* GRE Tunneling\n* PPPoE (Point-to-Point Protocol over Ethernet)\n* BGP (Border Gateway Protocol)\n* IPsec Tunnels (Site-to-Site and Remote Access VPNs)\n\nInterface Requirements:\n* 1 or 2 Fast Ethernet/Gigabit Ethernet (FE/GE) routing ports\n* 2, 4, or 8 Fast Ethernet (FE) switching ports\n\n[引文：Elsa 2025-04-09 13:11「Is something as attached OK?」]",
+ "char_count": 634,
+ "attachments": [],
+ "note": "巴基斯坦 ITE（ite.net.pk）Faisal Javed：第 3 封，给出路由器规格（IP SLA / GRE / PPPoE / BGP / IPsec，1–2 GE 路由口 + 2/4/8 FE 交换口）→ 这是 CPE 路由器需求，不是 Saga 交换机产品线",
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T07:03Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

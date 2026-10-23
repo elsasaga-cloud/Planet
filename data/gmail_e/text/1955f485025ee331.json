@@ -1,0 +1,28 @@
+{
+ "id": "1955f485025ee331",
+ "thread_id": "1951e622582a1ad6",
+ "message_id_header": "<CAMZSJ6294744EEh5c5gwOFMgZA_108a7JBhFOxVrD87d-MAPnQ@mail.gmail.com>",
+ "from": "\"Multybyte Marketing India Co.\" <info@multybyte.com>",
+ "to": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "cc": null,
+ "subject": "Re: Industrial PoE Switch",
+ "date": "Tue, 4 Mar 2025 09:21:55 +0530",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Good\n\n[引文：Elsa 2025-03-03 12:01 推销工业 PoE 交换机]",
+ "char_count": 92,
+ "attachments": [
+  {
+   "filename": "DIN Rail Unmanaged.jpg",
+   "mime_type": "image/jpeg",
+   "size": 277893
+  }
+ ],
+ "note": "印度 Multybyte Marketing（multybyte.com）：一字回复「Good」，无实质需求；附件是 Elsa 原邮件里的 DIN 导轨非管理型图片回传",
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T07:03Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}
