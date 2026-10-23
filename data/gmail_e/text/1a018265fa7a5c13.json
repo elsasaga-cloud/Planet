@@ -1,0 +1,27 @@
+{
+ "id": "1a018265fa7a5c13",
+ "thread_id": "19ff3a6bf44ebfad",
+ "message_id_header": "<CA+e5XSUKt88jpf0suQc56zbkBwsT=oL1mcsFjxUk3YejBP+_2w@mail.gmail.com>",
+ "from": "KELLY BANDASON <bandasonkelly@gmail.com>",
+ "to": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "cc": "khmisti39@gmail.com",
+ "subject": "Re: 24 Port PoE Managed Switch",
+ "date": "Wed, 19 Aug 2026 05:52:29 +0200",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "How much per pc\n\nOn Mon, 17 Aug, 2026 at 11:02, Elsa from Saga Telecom <\ne.sagatelecom@gmail.com> wrote:",
+ "char_count": 107,
+ "attachments": [
+  {
+   "filename": "24 port.png",
+   "mime_type": "image/png",
+   "size": 261078
+  }
+ ],
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:28Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

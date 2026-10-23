@@ -1,0 +1,21 @@
+{
+ "id": "19dd74da7385c557",
+ "thread_id": "19d5e1156c517711",
+ "message_id_header": "<000801dcd789$1d2270c0$57675240$@atwtechnology.com>",
+ "from": "Hill <hill@atwtechnology.com>",
+ "to": "'Elsa from Saga Telecom' <e.sagatelecom@gmail.com>, info@baycom.com.tw",
+ "cc": null,
+ "subject": "RE: Updated Ethernet Switches Links",
+ "date": "Wed, 29 Apr 2026 03:34:42 +0000 (UTC)",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Hi,\n\nThe following is simple specification for a access switch. Do you have the same product? Please send the data sheet, quotation and L/T. Thanks\n\nswitches for access networks (Last Mile) that meet the following key technical requirements:\n\n*       Power (PoE Input): Mandatory support for PoE input in accordance with IEEE 802.3af/at standards.\n\n*       Power (AC): Supports AC power (~100–240 V).\n\n*       Access Ports: 4–8 10/100/1000BASE-T ports.\n\n*       Trunk Ports: 1–2 1000BASE-T ports.\n\n*       Management: Supports SNMP, CLI, and a web interface.\n\nBR,\n\nHill\n\nFrom: Elsa from Saga Telecom <e.sagatelecom@gmail.com>\nSent: Monday, April 27, 2026 12:22 PM\nTo: info@baycom.com.tw\nSubject: Updated Ethernet Switches Links\n\nHi,\n\nHow are you?\n\nWe updated our product links, you can check full info from attached google drive links.\n\nThis covers\n\n1. 8 / 24 / 48 ports L2+ / L3 managed switches\n\n2. Commercial and Industrial Ethernet/PoE for SMBs or CCTV solutions\n\n3. 10G / 25G / 100G aggregation and core switches\n\nWe also provide OEM services.\n\nLet's talk if any model is useful to you.\n\nThank you.\n\n--\n\nElsa\n\nSaga Telecom, OEM Factory\n\nTailored Managed Networking Solutions Provider\n\nBuilt to Last, Continuous Supply, Evolving Together",
+ "char_count": 1335,
+ "attachments": [],
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:28Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

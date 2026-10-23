@@ -1,0 +1,27 @@
+{
+ "id": "19fcc4c73a4da69d",
+ "thread_id": "19fc0fccb0dc7d12",
+ "message_id_header": "<01ed01dd23fb$3bda5230$b38ef690$@andatelecom.com>",
+ "from": "Subhash <subhash@andatelecom.com>",
+ "to": "'Elsa from Saga Telecom' <e.sagatelecom@gmail.com>",
+ "cc": null,
+ "subject": "RE: 24 Port PoE Managed Switch",
+ "date": "Tue, 4 Aug 2026 10:23:05 +0000 (UTC)",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Hi Elsa,\n\nThanks for your support ,we will check and update you soon ,\n\nYou have mentioned some Not supported features ( no a days  Stacking  is mandatory)\n\nRegards\n\nSubhash\n\nFrom: Elsa from Saga Telecom <e.sagatelecom@gmail.com>\nSent: Tuesday, August 4, 2026 3:40 PM\nTo: Subhash <subhash@andatelecom.com>\nSubject: Re: 24 Port PoE Managed Switch\n\nHi, Subhash,\nPlease check attached datasheet.\nThank you.",
+ "text_source": "text/plain",
+ "char_count": 446,
+ "attachments": [
+  {
+   "filename": "image001.png",
+   "mime_type": "image/png",
+   "size": 261078
+  }
+ ],
+ "fetched": "2026-10-23T06:26Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

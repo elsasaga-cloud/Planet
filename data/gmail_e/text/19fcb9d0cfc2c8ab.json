@@ -1,0 +1,27 @@
+{
+ "id": "19fcb9d0cfc2c8ab",
+ "thread_id": "19fc0fccb0dc7d12",
+ "message_id_header": "<017c01dd23e0$78a83940$69f8abc0$@andatelecom.com>",
+ "from": "Subhash <subhash@andatelecom.com>",
+ "to": "'Elsa from Saga Telecom' <e.sagatelecom@gmail.com>",
+ "cc": null,
+ "subject": "RE: 24 Port PoE Managed Switch",
+ "date": "Tue, 4 Aug 2026 07:11:30 +0000 (UTC)",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Hi,\n\nFirst share us data sheet for the same\n\nRegards\n\nSubhash\n\nFrom: Elsa from Saga Telecom <e.sagatelecom@gmail.com>\nSent: Tuesday, August 4, 2026 10:30 AM\nTo: harish@andatelecom.com; subhash@andatelecom.com\nSubject: 24 Port PoE Managed Switch\n\nHi, Harish,\n\nThis is our Marvell AC5 based L2+ switch featuring\n\n1. 24 Port PoE af/at for multiple PDs\n\n2. 10G Fiber Uplinks help smooth traffic transport\n\n3. Support OEM and customizable Web GUI\n\nPrice: 170USD/PC\nDo you need some samples for testing?\n\nThank you.\n\n--\n\nElsa\n\n<https://sagatele.com/> https://sagatele.com/\nAn Engineering & Supply-Chain-First Telecom Partner\nBuilt to Last, Continuous Supply, Evolving Together",
+ "char_count": 735,
+ "attachments": [
+  {
+   "filename": "image001.png",
+   "mime_type": "image/png",
+   "size": 261078
+  }
+ ],
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:28Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

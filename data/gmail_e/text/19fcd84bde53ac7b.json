@@ -1,0 +1,27 @@
+{
+ "id": "19fcd84bde53ac7b",
+ "thread_id": "19fc105ca3d344a4",
+ "message_id_header": "<CAO1K1VR-Ws0RygmkAPjzExMzBu3bBoML6-ii2xrr5V+nDHZanw@mail.gmail.com>",
+ "from": "Gustavo Afonso Hito <hitojp76@gmail.com>",
+ "to": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "cc": "compras@nambasoftware.com.br",
+ "subject": "Re: 24 Port PoE Managed Switch",
+ "date": "Tue, 4 Aug 2026 13:04:03 -0300",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Boa tarde, quero testar 1 pc.\n\nEm ter., 4 de ago. de 2026 às 12:59, Elsa from Saga Telecom <\ne.sagatelecom@gmail.com> escreveu:",
+ "char_count": 130,
+ "attachments": [
+  {
+   "filename": "24 port.png",
+   "mime_type": "image/png",
+   "size": 261078
+  }
+ ],
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:28Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

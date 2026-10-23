@@ -1,0 +1,37 @@
+{
+ "id": "19d5e2c2ddb68274",
+ "thread_id": "19d4e468be97be67",
+ "message_id_header": "<PN6P287MB4961DEA7AD94FE92BFE1CBEEE05CA@PN6P287MB4961.INDP287.PROD.OUTLOOK.COM>",
+ "from": "Shantanu Kumar <shantanu.kumar@hfcl.com>",
+ "to": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "cc": "Anand Kumar <anand.kumar@hfcl.com>",
+ "subject": "Re: Industrial PoE Switch",
+ "date": "Sun, 5 Apr 2026 15:03:58 +0000",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Pls share..\n\nThanks And Regards\n\nShantanu Rana\n\nDGM– Key Strategic Accounts\n\nContact No. +91 98211 96123",
+ "char_count": 114,
+ "attachments": [
+  {
+   "filename": "DIN Rail Unmanaged.jpg",
+   "mime_type": "image/jpeg",
+   "size": 277893
+  },
+  {
+   "filename": "AWB.png",
+   "mime_type": "image/png",
+   "size": 140049
+  },
+  {
+   "filename": "Whatsapp Talk.png",
+   "mime_type": "image/png",
+   "size": 167512
+  }
+ ],
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:28Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

@@ -1,0 +1,27 @@
+{
+ "id": "19e2a3f1d1c65fda",
+ "thread_id": "19e109b3b08bdf28",
+ "message_id_header": "<CADFXAhohJod-gyb6h6yA-kK4C8iJnjZnLQGdg0B4mjShEX7qQg@mail.gmail.com>",
+ "from": "Eghlim sabaye shargh <lezdco@gmail.com>",
+ "to": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "cc": null,
+ "subject": "Re: 10G Enterprise SFP Switch",
+ "date": "Fri, 15 May 2026 09:37:05 +0330",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "This is very wonderful\nPls infor me more\n\nOn Tue, 12 May 2026, 09:09 Elsa from Saga Telecom, <e.sagatelecom@gmail.com>\nwrote:",
+ "char_count": 129,
+ "attachments": [
+  {
+   "filename": "Dual AC.jpg",
+   "mime_type": "image/jpeg",
+   "size": 435914
+  }
+ ],
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:28Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

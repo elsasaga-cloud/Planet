@@ -1,0 +1,27 @@
+{
+ "id": "19d5dec200ec85dc",
+ "thread_id": "19d4e468be97be67",
+ "message_id_header": "<PN6P287MB49614BDF31DEC9F7D5A80884E05CA@PN6P287MB4961.INDP287.PROD.OUTLOOK.COM>",
+ "from": "Shantanu Kumar <shantanu.kumar@hfcl.com>",
+ "to": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "cc": null,
+ "subject": "Re: Industrial PoE Switch",
+ "date": "Sun, 5 Apr 2026 13:54:03 +0000",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Noted..\nif it is imported to India in latest, can we have the PO for reference and the proof of selling.\n\nThanks And Regards\n\nShantanu Rana\n\nDGM– Key Strategic Accounts\n\nContact No. +91 98211 96123",
+ "char_count": 208,
+ "attachments": [
+  {
+   "filename": "DIN Rail Unmanaged.jpg",
+   "mime_type": "image/jpeg",
+   "size": 277893
+  }
+ ],
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:28Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

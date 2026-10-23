@@ -1,0 +1,32 @@
+{
+ "id": "19e15908306082b4",
+ "thread_id": "19e108674002c697",
+ "message_id_header": "<CAKL77h06KR-h=6xdXpG8UAd47osk440bwGk9F=1JTT=z23z2Tg@mail.gmail.com>",
+ "from": "Noman Asghar Microtech Inc <info@microtech.net.pk>",
+ "to": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "cc": "sales@microtech.net.pk",
+ "subject": "Re: 10G Enterprise SFP Switch",
+ "date": "Mon, 11 May 2026 10:43:57 +0500",
+ "labels": [
+  "IMPORTANT",
+  "CATEGORY_PERSONAL",
+  "Replied"
+ ],
+ "text": "Dear Elsa,\n\nPlease Find The Attachment.\n\nRegards.\n\nOn Mon, 11 May 2026 at 10:00, Elsa from Saga Telecom <\ne.sagatelecom@gmail.com> wrote:",
+ "char_count": 154,
+ "attachments": [
+  {
+   "filename": "Dual AC.jpg",
+   "mime_type": "image/jpeg",
+   "size": 435914
+  },
+  {
+   "filename": "Quotation - S10616.pdf",
+   "mime_type": "application/pdf",
+   "size": 22650
+  }
+ ],
+ "text_source": "text/plain",
+ "fetched": "2026-10-23T06:28Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}
