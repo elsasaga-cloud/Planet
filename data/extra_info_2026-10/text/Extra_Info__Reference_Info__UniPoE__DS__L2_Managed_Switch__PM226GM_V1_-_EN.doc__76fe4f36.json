@@ -1,0 +1,853 @@
+{
+"id":"Extra_Info__Reference_Info__UniPoE__DS__L2_Managed_Switch__PM226GM_V1_-_EN.doc__76fe4f36",
+"path":"Extra_Info/Reference Info/UniPoE/DS/L2 Managed Switch/PM226GM V1 - EN.doc",
+"name":"PM226GM V1 - EN.doc",
+"ext":".doc",
+"bytes":776192,
+"sha256":"76fe4f3621f8971fa3aa4a896839ec6753c8a92807ee2a89073e507eb605a97a",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:19:01+00:00",
+"paragraphs":15,
+"tables":3,
+"embedded_images":6
+},
+"warnings":[],
+"chars":7032,
+"text":"Product Overview\nThe PM226GM V1 provides 16*1000Mbps SFP Slot, 2*1000Mbps SFP Slots and 8*10/100/1000Mbps RJ45 ports, powerful and flexible enough for users to deploy wireless access points or IP-based network surveillance cameras. The switch also comes equipped with 2G SFP slots, expanding your network flexibly. In addition, it provides high performance, enterprise-level QoS, advanced security strategies and rich layer 2 management features. With all these advanced features, the Switch is an ideal choice for WIFI coverage, Internet cafes, computer rooms, and so on.\nProduct Features\nConform to the IEEE802.3, IEEE802.3u, IEEE802.3ab, IEEE802.3z, IEEE802.3x standard;\nRJ45 supports automatic port rollover (Auto MDI/MDIX) ;\nPanel lights to monitor working state and help fault analysis;\nSupports IEEE802.3x full duplex flow control and Backpressure half duplex flow control;\nSupport Energy-Efficient Ethernet (EEE) function (IEEE802.3az) ;\nSupports a complete lineup of L2 features, including 802.1Q tag VLAN, Port Mirroring, STP/RSTP/MSTP, Link Aggregation Control Protocol and 802.3x Flow Control function;\nWeb, CLI (Console Port, Telnet, SSH), SNMP and RMON bring abundant management policies;\nData exchange adopts store-and-forward mode and line speed forwarding can be intelligently identified;\nModel\tPM226GM V1\nStandard\tIEEE802.3, IEEE802.3u, IEEE802.3ab, IEEE802.3z, IEEE802.3x, IEEE802.1X, IEEE802.1q, IEEE802.1p, IEEE802.1d, IEEE802.1w, IEEE802.3ad\nInterface\t16*1000Mbps SFP Slots / 2*1000 SFP Slots / 8*10/100/1000Mbps RJ45 ports / 1*Console Port\nIndicator\tPWR(GREEN),LNK/ACT(GREEN),SYS(GREEN)\nNetwork media\t10BASE-T: UTP category 3,4,5 cable(≤100m) / 100BASE-TX: UTP category 5, 5e cable(≤100m) / 1000BASE-T: UTP category 5e, 5 cable(≤100m) / 1000BASE-X: MMF, SMF\nMAC Address Table\t8K, Auto-learning, Auto-aging\nJumbo frame\t10000Bytes\nTransfer Mode\tStore-and-forward\nPacket Forward Speed\t38.69Mpps\nSwitching Capacity\t52Gbps\nPacket Buffer\t4.1Mbit\nDimensions(L*W*H)\t280*180*44mm\nFan Quantity\t1pcs\nGreen energy saving\tIEEE 802.3az\nSurge Protection\tcommon mode±4KV Different mode±2KV\nElectrostatic standard\tContact±6KV, Air±8KV\nInput Power Supply\t100-240V/AC 50/60Hz\nOperating Temperature\t0°C ~+ 40 °C\nStorage Temperature\t-40 °C ~ +70 °C\nOperating Humidity\t10% ~ 90% non-condensing\nStorage Humidity\t5% ~ 90% non-condensing\nMTBF\t>100000 hour\nProduct Specifications\nHardware Specification\nSoftware Function List\nL2 Features\nMAC Address Table\tMAC Address Size\nMAC Address Table\tMAC Aging Time\nMAC Address Table\tMAC Filter\nMAC Address Table\tMAC Notification\nBasic Management\tConsole/Telnet/SSH\nBasic Management\tHttp/Https,SSL/TLS\nBasic Management\tFTP/TFTP\nBasic Management\tSyslog\nBasic Management\tSNMP(v1/v2c/v3),SNMP Trap\nBasic Management\tSNTP/NTP\nBasic Management\tCPU protect\nBasic Management\tSoftware/Hardware watchdog\nBasic Management\tFirmware Upgrade/Backup\nBasic Management\tPing/Traceroute\nPort Config\tBandwidth Control\nPort Config\tFlow Control\nPort Config\tEEE\nPort Config\tMTU\nPort Config\tCFM(802.1ag)\nPort Config\tEFM OAM(802.3ah)\nPort Config\tDDM\nPort Config\tStorm Control\nPort Config\tPort Isolation\nPort Config\tPort Security\nPort Config\tVirtual Cable Test\nPort Config\tULDP/Cisco UDLD\nDiscovery\tLLDP(802.1ab)\nDiscovery\tLLDP-MED\nLink Aggregation\tStatic\nLink Aggregation\tLACP(802.3ad)\nLink Aggregation\tLoad Balance(src-mac/dst-mac/src-ip/dst-ip)\nLink Aggregation\tMax groups and ports per group\nVLAN\tVLAN(802.1Q 4K)\nVLAN\tAccess/Trunk/Hybrid\nVLAN\tPrivate VLAN\nVLAN\tVLAN Filter\nVLAN\tMAC-based VLAN\nVLAN\tProtocol-based VLAN\nVLAN\tIP Subnet-based VLAN\nVLAN\tVoice VLAN\nVLAN\tGVRP/GMRP\nVLAN\tQinQ/Selective-QinQ/Flexible QinQ\nVLAN\tVLAN Translation/N:1 VLAN Translation\nVLAN\tGuest VLAN\nNetwork Loop Detection\tLoopback Detection\nNetwork Loop Detection\tERPS\nSpanning Tree\tSTP/RSTP/MSTP\nSpanning Tree\tMSTP Support 64 instance\nSpanning Tree\tBPDU Guard/Root Guard/BPDU Tunnel\nARP\tStatic ARP\nARP\tARP Scanning Prevention\nARP\tARP Spoofing Prevention\nARP\tARP Guard\nARP\tGratuitous ARP\nARP\tDynamic ARP Inspection\nARP\tARP Quantity Control\nIPv4 Related Function\nICMP\tAnti ICMP Attack\nICMP\tICMP Rate Limit\nICMP\tICMP Unreachable Drop\nIP Forward\tStatic Route\nIP Forward\tRoute Aggregation\nControl Multicast\tDCSCM\nMulticast VALN\tMulticast VALN\nIGMP\tIGMP SNOOPING V1/V2/V3\nIGMP\tFast Leave\nIGMP\tIGMP Proxy\nDHCP\tDHCP Server\nDHCP\tDHCP Client/BOOTP\nDHCP\tDHCP Relay\nDHCP\tDHCP Snooping\nDHCP\tDHCP Option 82/43/60/61/67\nIPv6 Related Function\nIPv6 Basic\tIPv6 ND Snooping\nDHCPv6\tDHCPv6 Server\nDHCPv6\tDHCPv6 Relay\nDHCPv6\tDHCPv6 Snooping\nDHCPv6\tIPv6 SAVI\nDHCPv6\tSecurity RA\nIPv6 Unicast Routing\tStatic Route\nIPv6 Multicast Routing\tMLD v1/V2 Snooping\nIPv6 Features\tSNMP over IPv6 Support\nIPv6 Features\tHTTP over IPv6 Support\nIPv6 Features\tSSH over IPv6 Support\nIPv6 Features\tDNS over IPv6 Support\nIPv6 Features\tIPv6 ping/traceroute Support\nIPv6 Features\tIPv6 Telnet Support\nIPv6 Features\tIPv6 Radius+ Support\nIPv6 Features\tIPv6 Tacacs+ Support\nIPv6 Features\tIPv6 SNTP/NTP Support\nIPv6 Features\tIPv6 FTP/TFTP Support\nIPv6 Features\tIPv6 IPSec Support\nIPv6 Features\tIPv6 ACL\nQoS(Quality Of Service)\nBasic\tTrust COS/DSCP\nBasic\tTrust Port\nScheduling\tSP\nScheduling\tWRR\nScheduling\tWDRR\nPolicyMap Stream\tBased on VLAN\nPolicyMap Stream\tBased on COS/DSCP\nPolicyMap Stream\tAggregate PolicyMap\nPolicyMap Stream\tIngress PolicyMap\nPolicing\tCAR Stream Shaping(leak algorithm)\nPolicing\tIngress Policing\nRewrite\tCOS/802.1p Priority\nRewrite\tIP Precedence\nRewrite\tIPv4 DSCP/IPv6 DSCP\nRewrite\tdrop-precedence\nRewrite\tinternal-priority\nRewrite\tIngress/Egress Rewrite\nQueuing\tDSCP to DSCP mapping\nQueuing\tDSCP to DP mapping\nQueuing\tDSCP to Queue mapping\nQueuing\tCOS to DP mapping\nQueuing\tCOS to Queue mapping\nACL\nIP-ACL\tSIP/DIP\nIP-ACL\tIP Protocol\nIP-ACL\tIP Priority(DSCP,TOS, Precedence)\nIP-ACL\tTCP,UDP src,dst Port\nMAC-ACL\tSRC/DST MAC\nMAC-ACL\tVLAN\nMAC-ACL\tCOS\nMAC-ACL\tTag/Untag\nIP-MAC ACL\tMAC-ACL and IP-ACL\nUser-defined ACL\tBase on user defined profile\nACL Features\tBased on time period ACL\nACL Features\tACL on VLAN\nACL Features\tBased on ACL Stream\nSecurity\n802.1x\tPort Based Authentication\n802.1x\tSupport EAPoR\n802.1x\tMAC based Authentication\n802.1x\tGuest VLAN\nMAB\tBased on Port Authentication\nMAB\tBased on MAC Authentication\nMAC Address Count Limit\tBased on Port\nMAC Address Count Limit\tBased on VLAN\nIP Address Count Limit\tBased on Port\nIP Address Count Limit\tBased on VLAN\nAccess Management\tBased on source mac and IP address\nDeny DoS Attack\tTCP Flag\nDeny DoS Attack\tTCP Flagment\nDeny DoS Attack\tIP Segment\nDeny DoS Attack\tICMP\nTACACS+\tStandard Support\nRadius\tStandard Support\nRadius\tClient, Support MD5\nSSL\tOpenssl 1.1.0\nRedundancy Related Function\nMRPP\tCompatiable ERRP\nULPP\tUplink Protection Protocol\nULPP\tSmart Link/Monitor Link\nULSM\tUplink State Monitor\nFlow Monitor Function\nMirror\tSupport one to one, multi to one\nMirror\tPort based mirror, support ingress, egress, and both\nMirror\tCPU based mirror\nMirror\tFlow based mirror\nMirror\tRSPAN\nOrdering Information\nModel\tProduct Information\nPM226GM V1\t16G SFP+8GE+2G SFP Fiber Managed Switch\n[文本框]\nPM226GM V1 Fiber Managed Switch",
+"blocks":[
+{
+"t":"p",
+"s":"列出段落",
+"text":"Product Overview"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The PM226GM V1 provides 16*1000Mbps SFP Slot, 2*1000Mbps SFP Slots and 8*10/100/1000Mbps RJ45 ports, powerful and flexible enough for users to deploy wireless access points or IP-based network surveillance cameras. The switch also comes equipped with 2G SFP slots, expanding your network flexibly. In addition, it provides high performance, enterprise-level QoS, advanced security strategies and rich layer 2 management features. With all these advanced features, the Switch is an ideal choice for WIFI coverage, Internet cafes, computer rooms, and so on."
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Product Features"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Conform to the IEEE802.3, IEEE802.3u, IEEE802.3ab, IEEE802.3z, IEEE802.3x standard;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"RJ45 supports automatic port rollover (Auto MDI/MDIX) ;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Panel lights to monitor working state and help fault analysis;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Supports IEEE802.3x full duplex flow control and Backpressure half duplex flow control;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Support Energy-Efficient Ethernet (EEE) function (IEEE802.3az) ;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Supports a complete lineup of L2 features, including 802.1Q tag VLAN, Port Mirroring, STP/RSTP/MSTP, Link Aggregation Control Protocol and 802.3x Flow Control function;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Web, CLI (Console Port, Telnet, SSH), SNMP and RMON bring abundant management policies;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Data exchange adopts store-and-forward mode and line speed forwarding can be intelligently identified;"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"PM226GM V1"
+],
+[
+"Standard",
+"IEEE802.3, IEEE802.3u, IEEE802.3ab, IEEE802.3z, IEEE802.3x, IEEE802.1X, IEEE802.1q, IEEE802.1p, IEEE802.1d, IEEE802.1w, IEEE802.3ad"
+],
+[
+"Interface",
+"16*1000Mbps SFP Slots / 2*1000 SFP Slots / 8*10/100/1000Mbps RJ45 ports / 1*Console Port"
+],
+[
+"Indicator",
+"PWR(GREEN),LNK/ACT(GREEN),SYS(GREEN)"
+],
+[
+"Network media",
+"10BASE-T: UTP category 3,4,5 cable(≤100m) / 100BASE-TX: UTP category 5, 5e cable(≤100m) / 1000BASE-T: UTP category 5e, 5 cable(≤100m) / 1000BASE-X: MMF, SMF"
+],
+[
+"MAC Address Table",
+"8K, Auto-learning, Auto-aging"
+],
+[
+"Jumbo frame",
+"10000Bytes"
+],
+[
+"Transfer Mode",
+"Store-and-forward"
+],
+[
+"Packet Forward Speed",
+"38.69Mpps"
+],
+[
+"Switching Capacity",
+"52Gbps"
+],
+[
+"Packet Buffer",
+"4.1Mbit"
+],
+[
+"Dimensions(L*W*H)",
+"280*180*44mm"
+],
+[
+"Fan Quantity",
+"1pcs"
+],
+[
+"Green energy saving",
+"IEEE 802.3az"
+],
+[
+"Surge Protection",
+"common mode±4KV Different mode±2KV"
+],
+[
+"Electrostatic standard",
+"Contact±6KV, Air±8KV"
+],
+[
+"Input Power Supply",
+"100-240V/AC 50/60Hz"
+],
+[
+"Operating Temperature",
+"0°C ~+ 40 °C"
+],
+[
+"Storage Temperature",
+"-40 °C ~ +70 °C"
+],
+[
+"Operating Humidity",
+"10% ~ 90% non-condensing"
+],
+[
+"Storage Humidity",
+"5% ~ 90% non-condensing"
+],
+[
+"MTBF",
+">100000 hour"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product Specifications"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Hardware Specification"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Software Function List"
+},
+{
+"t":"table",
+"rows":[
+[
+"L2 Features"
+],
+[
+"MAC Address Table",
+"MAC Address Size"
+],
+[
+"MAC Address Table",
+"MAC Aging Time"
+],
+[
+"MAC Address Table",
+"MAC Filter"
+],
+[
+"MAC Address Table",
+"MAC Notification"
+],
+[
+"Basic Management",
+"Console/Telnet/SSH"
+],
+[
+"Basic Management",
+"Http/Https,SSL/TLS"
+],
+[
+"Basic Management",
+"FTP/TFTP"
+],
+[
+"Basic Management",
+"Syslog"
+],
+[
+"Basic Management",
+"SNMP(v1/v2c/v3),SNMP Trap"
+],
+[
+"Basic Management",
+"SNTP/NTP"
+],
+[
+"Basic Management",
+"CPU protect"
+],
+[
+"Basic Management",
+"Software/Hardware watchdog"
+],
+[
+"Basic Management",
+"Firmware Upgrade/Backup"
+],
+[
+"Basic Management",
+"Ping/Traceroute"
+],
+[
+"Port Config",
+"Bandwidth Control"
+],
+[
+"Port Config",
+"Flow Control"
+],
+[
+"Port Config",
+"EEE"
+],
+[
+"Port Config",
+"MTU"
+],
+[
+"Port Config",
+"CFM(802.1ag)"
+],
+[
+"Port Config",
+"EFM OAM(802.3ah)"
+],
+[
+"Port Config",
+"DDM"
+],
+[
+"Port Config",
+"Storm Control"
+],
+[
+"Port Config",
+"Port Isolation"
+],
+[
+"Port Config",
+"Port Security"
+],
+[
+"Port Config",
+"Virtual Cable Test"
+],
+[
+"Port Config",
+"ULDP/Cisco UDLD"
+],
+[
+"Discovery",
+"LLDP(802.1ab)"
+],
+[
+"Discovery",
+"LLDP-MED"
+],
+[
+"Link Aggregation",
+"Static"
+],
+[
+"Link Aggregation",
+"LACP(802.3ad)"
+],
+[
+"Link Aggregation",
+"Load Balance(src-mac/dst-mac/src-ip/dst-ip)"
+],
+[
+"Link Aggregation",
+"Max groups and ports per group"
+],
+[
+"VLAN",
+"VLAN(802.1Q 4K)"
+],
+[
+"VLAN",
+"Access/Trunk/Hybrid"
+],
+[
+"VLAN",
+"Private VLAN"
+],
+[
+"VLAN",
+"VLAN Filter"
+],
+[
+"VLAN",
+"MAC-based VLAN"
+],
+[
+"VLAN",
+"Protocol-based VLAN"
+],
+[
+"VLAN",
+"IP Subnet-based VLAN"
+],
+[
+"VLAN",
+"Voice VLAN"
+],
+[
+"VLAN",
+"GVRP/GMRP"
+],
+[
+"VLAN",
+"QinQ/Selective-QinQ/Flexible QinQ"
+],
+[
+"VLAN",
+"VLAN Translation/N:1 VLAN Translation"
+],
+[
+"VLAN",
+"Guest VLAN"
+],
+[
+"Network Loop Detection",
+"Loopback Detection"
+],
+[
+"Network Loop Detection",
+"ERPS"
+],
+[
+"Spanning Tree",
+"STP/RSTP/MSTP"
+],
+[
+"Spanning Tree",
+"MSTP Support 64 instance"
+],
+[
+"Spanning Tree",
+"BPDU Guard/Root Guard/BPDU Tunnel"
+],
+[
+"ARP",
+"Static ARP"
+],
+[
+"ARP",
+"ARP Scanning Prevention"
+],
+[
+"ARP",
+"ARP Spoofing Prevention"
+],
+[
+"ARP",
+"ARP Guard"
+],
+[
+"ARP",
+"Gratuitous ARP"
+],
+[
+"ARP",
+"Dynamic ARP Inspection"
+],
+[
+"ARP",
+"ARP Quantity Control"
+],
+[
+"IPv4 Related Function"
+],
+[
+"ICMP",
+"Anti ICMP Attack"
+],
+[
+"ICMP",
+"ICMP Rate Limit"
+],
+[
+"ICMP",
+"ICMP Unreachable Drop"
+],
+[
+"IP Forward",
+"Static Route"
+],
+[
+"IP Forward",
+"Route Aggregation"
+],
+[
+"Control Multicast",
+"DCSCM"
+],
+[
+"Multicast VALN",
+"Multicast VALN"
+],
+[
+"IGMP",
+"IGMP SNOOPING V1/V2/V3"
+],
+[
+"IGMP",
+"Fast Leave"
+],
+[
+"IGMP",
+"IGMP Proxy"
+],
+[
+"DHCP",
+"DHCP Server"
+],
+[
+"DHCP",
+"DHCP Client/BOOTP"
+],
+[
+"DHCP",
+"DHCP Relay"
+],
+[
+"DHCP",
+"DHCP Snooping"
+],
+[
+"DHCP",
+"DHCP Option 82/43/60/61/67"
+],
+[
+"IPv6 Related Function"
+],
+[
+"IPv6 Basic",
+"IPv6 ND Snooping"
+],
+[
+"DHCPv6",
+"DHCPv6 Server"
+],
+[
+"DHCPv6",
+"DHCPv6 Relay"
+],
+[
+"DHCPv6",
+"DHCPv6 Snooping"
+],
+[
+"DHCPv6",
+"IPv6 SAVI"
+],
+[
+"DHCPv6",
+"Security RA"
+],
+[
+"IPv6 Unicast Routing",
+"Static Route"
+],
+[
+"IPv6 Multicast Routing",
+"MLD v1/V2 Snooping"
+],
+[
+"IPv6 Features",
+"SNMP over IPv6 Support"
+],
+[
+"IPv6 Features",
+"HTTP over IPv6 Support"
+],
+[
+"IPv6 Features",
+"SSH over IPv6 Support"
+],
+[
+"IPv6 Features",
+"DNS over IPv6 Support"
+],
+[
+"IPv6 Features",
+"IPv6 ping/traceroute Support"
+],
+[
+"IPv6 Features",
+"IPv6 Telnet Support"
+],
+[
+"IPv6 Features",
+"IPv6 Radius+ Support"
+],
+[
+"IPv6 Features",
+"IPv6 Tacacs+ Support"
+],
+[
+"IPv6 Features",
+"IPv6 SNTP/NTP Support"
+],
+[
+"IPv6 Features",
+"IPv6 FTP/TFTP Support"
+],
+[
+"IPv6 Features",
+"IPv6 IPSec Support"
+],
+[
+"IPv6 Features",
+"IPv6 ACL"
+],
+[
+"QoS(Quality Of Service)"
+],
+[
+"Basic",
+"Trust COS/DSCP"
+],
+[
+"Basic",
+"Trust Port"
+],
+[
+"Scheduling",
+"SP"
+],
+[
+"Scheduling",
+"WRR"
+],
+[
+"Scheduling",
+"WDRR"
+],
+[
+"PolicyMap Stream",
+"Based on VLAN"
+],
+[
+"PolicyMap Stream",
+"Based on COS/DSCP"
+],
+[
+"PolicyMap Stream",
+"Aggregate PolicyMap"
+],
+[
+"PolicyMap Stream",
+"Ingress PolicyMap"
+],
+[
+"Policing",
+"CAR Stream Shaping(leak algorithm)"
+],
+[
+"Policing",
+"Ingress Policing"
+],
+[
+"Rewrite",
+"COS/802.1p Priority"
+],
+[
+"Rewrite",
+"IP Precedence"
+],
+[
+"Rewrite",
+"IPv4 DSCP/IPv6 DSCP"
+],
+[
+"Rewrite",
+"drop-precedence"
+],
+[
+"Rewrite",
+"internal-priority"
+],
+[
+"Rewrite",
+"Ingress/Egress Rewrite"
+],
+[
+"Queuing",
+"DSCP to DSCP mapping"
+],
+[
+"Queuing",
+"DSCP to DP mapping"
+],
+[
+"Queuing",
+"DSCP to Queue mapping"
+],
+[
+"Queuing",
+"COS to DP mapping"
+],
+[
+"Queuing",
+"COS to Queue mapping"
+],
+[
+"ACL"
+],
+[
+"IP-ACL",
+"SIP/DIP"
+],
+[
+"IP-ACL",
+"IP Protocol"
+],
+[
+"IP-ACL",
+"IP Priority(DSCP,TOS, Precedence)"
+],
+[
+"IP-ACL",
+"TCP,UDP src,dst Port"
+],
+[
+"MAC-ACL",
+"SRC/DST MAC"
+],
+[
+"MAC-ACL",
+"VLAN"
+],
+[
+"MAC-ACL",
+"COS"
+],
+[
+"MAC-ACL",
+"Tag/Untag"
+],
+[
+"IP-MAC ACL",
+"MAC-ACL and IP-ACL"
+],
+[
+"User-defined ACL",
+"Base on user defined profile"
+],
+[
+"ACL Features",
+"Based on time period ACL"
+],
+[
+"ACL Features",
+"ACL on VLAN"
+],
+[
+"ACL Features",
+"Based on ACL Stream"
+],
+[
+"Security"
+],
+[
+"802.1x",
+"Port Based Authentication"
+],
+[
+"802.1x",
+"Support EAPoR"
+],
+[
+"802.1x",
+"MAC based Authentication"
+],
+[
+"802.1x",
+"Guest VLAN"
+],
+[
+"MAB",
+"Based on Port Authentication"
+],
+[
+"MAB",
+"Based on MAC Authentication"
+],
+[
+"MAC Address Count Limit",
+"Based on Port"
+],
+[
+"MAC Address Count Limit",
+"Based on VLAN"
+],
+[
+"IP Address Count Limit",
+"Based on Port"
+],
+[
+"IP Address Count Limit",
+"Based on VLAN"
+],
+[
+"Access Management",
+"Based on source mac and IP address"
+],
+[
+"Deny DoS Attack",
+"TCP Flag"
+],
+[
+"Deny DoS Attack",
+"TCP Flagment"
+],
+[
+"Deny DoS Attack",
+"IP Segment"
+],
+[
+"Deny DoS Attack",
+"ICMP"
+],
+[
+"TACACS+",
+"Standard Support"
+],
+[
+"Radius",
+"Standard Support"
+],
+[
+"Radius",
+"Client, Support MD5"
+],
+[
+"SSL",
+"Openssl 1.1.0"
+],
+[
+"Redundancy Related Function"
+],
+[
+"MRPP",
+"Compatiable ERRP"
+],
+[
+"ULPP",
+"Uplink Protection Protocol"
+],
+[
+"ULPP",
+"Smart Link/Monitor Link"
+],
+[
+"ULSM",
+"Uplink State Monitor"
+],
+[
+"Flow Monitor Function"
+],
+[
+"Mirror",
+"Support one to one, multi to one"
+],
+[
+"Mirror",
+"Port based mirror, support ingress, egress, and both"
+],
+[
+"Mirror",
+"CPU based mirror"
+],
+[
+"Mirror",
+"Flow based mirror"
+],
+[
+"Mirror",
+"RSPAN"
+]
+]
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Ordering Information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"Product Information"
+],
+[
+"PM226GM V1",
+"16G SFP+8GE+2G SFP Fiber Managed Switch"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:19:01Z"
+}

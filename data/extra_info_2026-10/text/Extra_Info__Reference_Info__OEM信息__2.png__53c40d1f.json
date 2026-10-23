@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Reference_Info__OEM信息__2.png__53c40d1f",
+"path":"Extra_Info/Reference Info/OEM信息/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":62690,
+"sha256":"53c40d1f4b287d10714601f0ab847502e43801d8e3ed8f9c4dd770ae2c216ae3",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":902,
+"height":491,
+"mode":"RGBA",
+"thumb_bytes":13219
+},
+"warnings":[],
+"chars":743,
+"text":"This is the Specification of an Industrial network distribution switch we are after:\nIndustrial Network Switch Specification Based on SparX-5i Family\n1. General Characteristics:\n© Type: Industrial Network Switch\n‧ Chipset: SparX-5i family\n‧ Mounting: Din-Rail mountable or standalone for wall hanging\n© Environment: Suitable for underground hardrock mining environments\n‧ Operating Temperature: -40°C to +75°C\n。 Vibration and Shock Resistance: Compliant with IEC 60068-2-6 and IEC 60068-2-27 standards\n2. Ports and Interfaces:\n‧ 10Gbps Ports: 4 x SFP+ 10Gbps (2 dedicated in-band and 2 dedicated out-of-band)\n‧ 1/2.5Gbps Ports: 8 x 1/2.5Gbps Single Mode LC connectors or 1/2.5Gbps SFP interfaces\n‧ Console Port: 1 x RJ45 Console for CLI Access",
+"extracted_at":"2026-10-23T05:19:41Z",
+"thumb":"thumbs/Extra_Info__Reference_Info__OEM信息__2.png__53c40d1f.jpg"
+}

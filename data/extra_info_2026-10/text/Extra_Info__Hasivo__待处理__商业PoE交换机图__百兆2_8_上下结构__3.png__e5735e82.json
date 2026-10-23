@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__百兆2_8_上下结构__3.png__e5735e82",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/百兆2+8 上下结构/3.png",
+"name":"3.png",
+"ext":".png",
+"bytes":1471875,
+"sha256":"e5735e829b328dc000812da138537a4ffea604097c42965411a37255285cdf1b",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":2514,
+"height":995,
+"mode":"RGBA",
+"thumb_bytes":6521
+},
+"warnings":[],
+"chars":35,
+"text":"Fast PoE Switch\n8FE PoE+2UP\nN\nUP-10",
+"extracted_at":"2026-10-23T05:23:53Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__百兆2_8_上下结构__3.png__e5735e82.jpg"
+}

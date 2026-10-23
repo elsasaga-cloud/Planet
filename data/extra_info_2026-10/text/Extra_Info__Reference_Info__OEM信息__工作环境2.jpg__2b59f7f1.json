@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Reference_Info__OEM信息__工作环境2.jpg__2b59f7f1",
+"path":"Extra_Info/Reference Info/OEM信息/工作环境2.jpg",
+"name":"工作环境2.jpg",
+"ext":".jpg",
+"bytes":48453,
+"sha256":"2b59f7f156e2924ff01c9c585993cba7c152c16d6267f18603c71e3edf07b2bd",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":350,
+"height":350,
+"mode":"RGB",
+"thumb_bytes":22766
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:19:52Z",
+"thumb":"thumbs/Extra_Info__Reference_Info__OEM信息__工作环境2.jpg__2b59f7f1.jpg"
+}

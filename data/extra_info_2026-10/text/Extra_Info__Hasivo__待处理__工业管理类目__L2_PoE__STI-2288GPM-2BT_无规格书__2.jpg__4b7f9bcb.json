@@ -1,0 +1,27 @@
+{
+"id":"Extra_Info__Hasivo__待处理__工业管理类目__L2_PoE__STI-2288GPM-2BT_无规格书__2.jpg__4b7f9bcb",
+"path":"Extra_Info/Hasivo/待处理/工业管理类目/L2 PoE/STI-2288GPM-2BT 无规格书/2.jpg",
+"name":"2.jpg",
+"ext":".jpg",
+"bytes":307737,
+"sha256":"4b7f9bcbf9d800560f1ac8d345a0e061a80f62786ee60e69d840cf06b3320e13",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1047,
+"height":395,
+"mode":"RGB",
+"datetime":"2022:07:14 10:36:25",
+"make":"Canon",
+"model":"Canon EOS 70D",
+"software":"Adobe Photoshop CC (Windows)",
+"thumb_bytes":8146
+},
+"warnings":[],
+"chars":51,
+"text":"SIZ+ 3od398\nUu211AS paseuew\nLink 一 PoE\na\niS\na\n=\n3\n=",
+"extracted_at":"2026-10-23T05:21:13Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__工业管理类目__L2_PoE__STI-2288GPM-2BT_无规格书__2.jpg__4b7f9bcb.jpg"
+}

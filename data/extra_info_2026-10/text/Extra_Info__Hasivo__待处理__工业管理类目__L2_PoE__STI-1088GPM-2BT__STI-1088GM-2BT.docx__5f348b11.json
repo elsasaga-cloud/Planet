@@ -1,0 +1,892 @@
+{
+"id":"Extra_Info__Hasivo__待处理__工业管理类目__L2_PoE__STI-1088GPM-2BT__STI-1088GM-2BT.docx__5f348b11",
+"path":"Extra_Info/Hasivo/待处理/工业管理类目/L2 PoE/STI-1088GPM-2BT/STI-1088GM-2BT.docx",
+"name":"STI-1088GM-2BT.docx",
+"ext":".docx",
+"bytes":2105265,
+"sha256":"5f348b11ef475dc89364d1fd2f2c341cfd62922a2b507d2bc3758fb70966eb4b",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2023-07-22T16:14:00+00:00",
+"modified":"2024-06-06T03:28:53+00:00",
+"paragraphs":130,
+"tables":3,
+"embedded_images":9
+},
+"warnings":[],
+"chars":11993,
+"text":"Model Name\nSTI-1088GM-2BT\nST: Saga Telecom\nI: Industrial grade\n10: 10 optical port\n8: 8 copper ports\n8: 8 PoE ports\nG: Gigabit based\nM: Managed\n2BT: Support 2 PoE BT Output\nIt is advised to read specific product description for more information.\nSpecification\nDownlink Port\t8*10/100/1000Base-TX RJ45 port (Data) / Port 1~2 support 24V/48V PoE(single port power MAX 30W) / Port 3~4 support BT PoE(single port power MAX 90W) / Port 5~8 support AT PoE\nUplink Port\t10*1000M SFP\nConsole Port\t1\nReset Key\t1\nPower Input\t2 group of independent power input / SW: DC12-57V / PoE: DC37-57V\nEnvironment Detection\t1 group of input detection of environment temperature and humidity\nFunction Interface\t1 switch for quick formation of ring network / 2 group of independent power input, having under- and over-voltage protection / 1 group of wide voltage alarm input at a range of DC5-57V / 1 group of alarm output and relay output, can define various custom condition trigger / 1 group of environmental temperature and humidity detection, can make real-time monitoring of the environment / Real-time system of crucial voltage monitoring and alarm output function / Real-time system temperature,environment temperature,humidity and alarm output function / Real-time detection and display of input voltage,current,power / Multiple custom port control and intelligent management\nNetwork protocol\tIEEE 802.3x / IEEE 802.3 / IEEE 802.3u / IEEE 802.3ab / IEEE 802.3z / IEEE 802.3ad / IEEE 802.3q / IEEE 802.3q/p / IEEE 802.1w / IEEE 802.1d / IEEE 802.1S / IEEE 802.3z 1000BASE-X / STP(Spanning Tree Protocol) / RSTP/MSTP(Rapid Spanning Tree Protocol) / EPPS ring network protocol / EAPS ring network protocol / 802.3AF/AT/HiPoE/BT / AUTO 24V/48V PSE\nPort Specification\t1-8 port 10/100/1000Base-TX / Auto detection / Auto-MDI/MDI-X\nTransmission Mode\tStore and Forward(full wire speed)\nBandwidth\t128Gbps\nPacket Forwarding\t40.32Mpps\nMAC\t8K\nBuffer\t4.1M\nTransmission Distance\t10BASE-T: Cat3,4,5 UTP(≤250 meter) / 100BASE-TX: Cat5 or better UTP(≤100 meter) / 1000BASE-TX: Cat6 or better UTP(≤1000 meter) / 1000BASE-SX: 62.5μm/50μm MMF(2KM max) / 1000BASE-LX: 9μm/50μm SMF(100KM max)\nFLASH\t16M\nRAM\t128M\nWatt\tStandby power consumption≤15W / Network Full-load power consumption≤25W / DC full loaded power consumption≤360W\nFLASH\t16M\nRAM\t128M\nLED Indicator\t9-18: SFP / PoE Port 1-2: Green=48V; Orange=24V; Green=Link / Port 3-8: Green=Link; Orange=PoE / PWR: Power/system / PD: PD power-receiving indicator / P1: Master power / P2: Slave power / HW: Ring network ON\nOperating Temperature\t-40°C～+75°C\nOperating Humidity\t10%～90% non-condensing\nStorage Temperature\t-40°C～+85°C\nStorage Humidity\t5%～95% non-condensing\nLightning Protection Level\t6KV 8/20us / 8KV ESD\nProtection Level\tIP40\nInstallation Method\tDin Mounted / Additional Wall Hangers\nCertificate\tCE mark, commercial / CE/LVD EN60950\nFCC Part 15 Class B / RoHS\nSoftware Function\nThe followings are about MAIN functions, NOT ALL INCLUDED.\nPlease contact us for more information.\nMonitoring Platform\tQuick formation of ring network / System temperature monitoring and alarm / External temperature and humidity monitoring and alarm / Input power monitoring and alarm / System each channel key voltage monitoring and alarm / System total current,total power monitoring and alarm / All-Port network monitoring and alarm / Support one group input and output signal monitoring and alarm\nNetwork Protocol\tIEEE 802.3x / IEEE 802.3 / IEEE 802.3u / IEEE 802.3ab / IEEE 802.3z / IEEE 802.3ad / IEEE 802.3q / IEEE 802.3q/p / IEEE 802.1w / IEEE 802.1d / IEEE 802.1S / IEEE 802.1X\nMAC\tSupport 16K MAC address / Auto aging and learning\nVLAN Configuration\tSupport port-based VLAN / Up to 4096 VLANs / Support Voice VLAN, can configure Qos for voice data / 802.1Q\nSpanning Tree\tSTP(Spanning tree protocol) / RSTP/MSTP(Rapid spanning tree protocol) / EPPS/EAPS(Ring network protocol) / 802.1x\nPort Aggregation\tSupport 8 groups of aggregation, each group support up to 8 ports\nPort Mirroring\tSupport many-to-one port mirroring\nLoop Guard\tSupport loop protection / Real-time detection / Quick alram / Concise location / Intelligent blocking / Automatic recovery\nPort Isolation\tSupport downlink ports isolate from each other and communicate with uplink port as well\nFlow Control\tHalf duplex based on Back pressure / Full duplex based on PAUSE frame\nSpeed Limitation\tBandwidth management based on port input and output\nMulticast Control\tIGMPv1/2/3 and MLDv1/2 Snooping / GMRP protocol registration / Multicast address management / Multicast VLAN / Multicast routing port / Static multicast address\nDHCP\tDHCP Snooping\nStorm Suppression\tSupport unknown unicast, multicast, unknown multicast / Broadcast type storm suppression / Storm suppression based on bandwidth adjustment and storm filtering\nSecurity\tSupport User port+IP address+MAC address / ACL based on IP, MAC / Support security properties of number of MAC address based on port\nQOS\t802.1p port queue priority algorithm / Cos/Tos, QOS remark / WRR(Weighted Round Robin), weighted priority rotation algorithm / WRR, SP, WFQ priority scheduling modes\nCable Sequence\tAuto-MDIX; auto detection on straight-through and cross-over cable\nNegotiation Mode\tPort support auto negotiation function(self-negotiation transmission rate and duplex mode)\nSystem maintenance\tUpgrade package upload / System log viewing / WEB recovery factory configuration\nPoE Function\tPort switch / Schedule arrangement, timing switch / Voltage, current, power display / System total power display and configuration / PoE watchdog: support auto reset, timing reset and ip binding reset when device failed / Port power configuration(AF/AT/HiPoE/BT) / Indication of over power / Port PoE type configuration(48V/24V power supplying)\nNetwork Management\tWEB interface management / CLI management based on Telnet, TFTIP, Console / SNMP V1/V2/V3 management / RMONV1/V2 management / RMON management\nPacking List\n1pc switch\n1pair wall hangers\n1pc user manual\n1pc console cable\nShipping box information(Below information is approximately accurate)\nProduct size: 208*130*50mm\nInner box size: 280*165*79mm\nProduct weight: 1.5Kg\nPacking weight: 1.8Kg\nMaster box size: 550*455*365mm\nPacking quantity: 20Pcs\nPacking weight: 38Kg\nProduct Picture\nFAQ\nLeadtime\nProduction time is usually 5~7 working days for standard(non-customized) models (no more than 50pcs).\nShipping time is usually 4~7 days by air\nIn total, it takes 10~15 days for a client to receive the order.\nShipment\nWe will send the goods by air(DHL, UPS or FEDEX) or by sea(for bulk order)\nIt is fine to ship purchased items via customer’s shipping account or forwarder.\nMOQ\n1 Pc/Pair(It is NOT free, Saga Telecom do NOT do FREE SAMPLES)\nIt is fine to have sample testing before bulk order, but 1 Pc/Pair is ONLY about sample testing.\nWhen testing proves fine, MOQ is 20pcs(discussion is required if it is about smaller quantity).\nWarranty\n1 year for commercial models(STC series) and 3 years for industrial models(STI series)\nPlease kindly refer to the “Warranty Policy” for more information.\nTechnical assistance is always available\nPayment\nT/T transfer and PayPal, FULL AMOUNT BEFORE SHIPMENT.\nIt is fine to pay 50% first and another 50% before shipment for bulk order.\nIt is fine to be paid via customer’s forwarder(this is usually about RMB payment).\nTransaction cost\nIt is standard charge 25usd for EACH T/T transfer whatever the invoice value is.\nIt is 5usd for every 100usd to PayPal a/c, this ratio is standard charge by PayPal\nRMA\nPlease contact us ASAP once there is any problem(package or usage)with the supplied products.\nFor every 100pcs, there will be 2 extra free units(2% RMA) against immediate warranty coverage.\nThis rule stands for all Saga Telecom models and even there is not an after-sales issue.\nIf it is about missing/faulty parts in the packing box.\nPlease simply use the extra units for the replacement and let us know this problem(we will improve).\nIf it is about usage problem.\nSaga Telecom will provide technical support and send new units when necessary.\nOEM\nSupported, but discussion is required if it is about complex requirements.\nBelow are usual OEM services available.\nShow client’s logo/model on the device/label/management interface...\nUse client’s packing box\nDesign client’s product PVC sticker\nCustomize some parts of a model like rear panel/power input terminal block...\nPlease know that there might be extra cost for OEM services.\nAfter-sales Support\nWarranty comes in effect from the date of delivery.\nIf something is wrong with the package or usage, please let us know asap.\nCase 1, package problem\nAny faulty/missing parts in the packing box, Saga telecom will help do the replacement or refund.\nCase 2, usage problem\nThe standard and most effective procedures(get a feedback form from us) are as below\n1, describe what happened, examples as below\nWhen this problem occurred\nWhat you did to adjust it like restart the device or change new accessories\nHow you use this device like outdoor use for connecting some IP cameras\nWith this information, Saga telecom could quickly know what is going on and do trouble-shooting\n2, provide as many actual photos/video as possible\nWrong connection or improper use may occur.\nIn this case, photos and videos are helpful and efficient.\n3, prepare necessary and relevant accessories such as SFP module/network cable/patch-cord...\nAn example is, in a linear network connection, if one SFP module fails, the whole system might have a transmission problem.\nThe solution would be as simple as replacing a new workable SFP module.\nWith in-hand accessories, sometimes it is easy to fix the problem.\n4, get ready for online meeting\nSaga telecom might remotely control your PC to do trouble-shooting with the help of Teamviewer/Anydesk.\nFor more information, please talk with us or visit www.sagatelecom.com.cn\nAbout Us\nSaga Telecom is a reliable manufacturer and trader of good-quality fiber optic devices and transmission solutions, and focuses on industrial networking, CCTV surveillance, fiber optic conversion and featured optical devices for industrial automation, vehicle network, security monitoring etc.\nBacked by diversified product portfolio and mature business system, Saga Telecom gains good feedback overseas especially in USA, Turkey, Italy, Russia and India.\nMeantime, Saga Telecom is actively seeking trustworthy partners and enhancing its presence in optical telecommunication field.\nCore Value\nConnecting, Converting, Creating\nSaga Telecom connects talents and ideas that may drive itself forward\nSaga Telecom converts mature business system to all-round growth\nSaga Telecom creates betterness from expertise and solution package\nProduct Line\nCommercial Ethernet\nIndustrial Networking\nDin Power Adapter\nEthernet Media Converter\nPoE Accessory\nOptical Module\nFeatured Optical Fiber Devices\nA reliable networking solution supplier\nHow We Do Business\nSaga Telecom is being digital and paperless to be efficient and eco-friendly\nSimplified, Standard, Solution based\nAll is about a s truly helpful solution\nSaga Telecom proposes a buffet-style business communication.\nAll the information is available without asking\nBusiness details are being continuously updated\nValue and growth manifest itself\n1\nA google link containing full information is created with access to everyone.\nAnyone could read or download it anytime and anywhere.\n2\nWe have been absorbing useful information and will update it in the link.\nLike product query, application...\nSo latest information will be available all the time.\n3\nWe are welcoming comparisons and suggestions from you.\nCompare our products with existing or other suppliers\nLet us know where we could improve\nSaga Telecom aims to be a marathoner in fiber optic telecommunication field.\nA link to all the information\nhttps://drive.google.com/drive/folders/10pI-PIGftC6UVEngjg_cLlC8-X14fA9A?usp=drive_link\n[页眉页脚]\ns.sagatelecom@gmail.com\nSaga Telecom\nwww.sagatelecom.com.cn\nConnecting, Converting, Creating",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Model Name"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STI-1088GM-2BT"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"ST: Saga Telecom"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"I: Industrial grade"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"10: 10 optical port"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8: 8 copper ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8: 8 PoE ports"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"G: Gigabit based"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"M: Managed"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2BT: Support 2 PoE BT Output"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is advised to read specific product description for more information."
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"Downlink Port",
+"8*10/100/1000Base-TX RJ45 port (Data) / Port 1~2 support 24V/48V PoE(single port power MAX 30W) / Port 3~4 support BT PoE(single port power MAX 90W) / Port 5~8 support AT PoE"
+],
+[
+"Uplink Port",
+"10*1000M SFP"
+],
+[
+"Console Port",
+"1"
+],
+[
+"Reset Key",
+"1"
+],
+[
+"Power Input",
+"2 group of independent power input / SW: DC12-57V / PoE: DC37-57V"
+],
+[
+"Environment Detection",
+"1 group of input detection of environment temperature and humidity"
+],
+[
+"Function Interface",
+"1 switch for quick formation of ring network / 2 group of independent power input, having under- and over-voltage protection / 1 group of wide voltage alarm input at a range of DC5-57V / 1 group of alarm output and relay output, can define various custom condition trigger / 1 group of environmental temperature and humidity detection, can make real-time monitoring of the environment / Real-time system of crucial voltage monitoring and alarm output function / Real-time system temperature,environment temperature,humidity and alarm output function / Real-time detection and display of input voltage,current,power / Multiple custom port control and intelligent management"
+],
+[
+"Network protocol",
+"IEEE 802.3x / IEEE 802.3 / IEEE 802.3u / IEEE 802.3ab / IEEE 802.3z / IEEE 802.3ad / IEEE 802.3q / IEEE 802.3q/p / IEEE 802.1w / IEEE 802.1d / IEEE 802.1S / IEEE 802.3z 1000BASE-X / STP(Spanning Tree Protocol) / RSTP/MSTP(Rapid Spanning Tree Protocol) / EPPS ring network protocol / EAPS ring network protocol / 802.3AF/AT/HiPoE/BT / AUTO 24V/48V PSE"
+],
+[
+"Port Specification",
+"1-8 port 10/100/1000Base-TX / Auto detection / Auto-MDI/MDI-X"
+],
+[
+"Transmission Mode",
+"Store and Forward(full wire speed)"
+],
+[
+"Bandwidth",
+"128Gbps"
+],
+[
+"Packet Forwarding",
+"40.32Mpps"
+],
+[
+"MAC",
+"8K"
+],
+[
+"Buffer",
+"4.1M"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3,4,5 UTP(≤250 meter) / 100BASE-TX: Cat5 or better UTP(≤100 meter) / 1000BASE-TX: Cat6 or better UTP(≤1000 meter) / 1000BASE-SX: 62.5μm/50μm MMF(2KM max) / 1000BASE-LX: 9μm/50μm SMF(100KM max)"
+],
+[
+"FLASH",
+"16M"
+],
+[
+"RAM",
+"128M"
+],
+[
+"Watt",
+"Standby power consumption≤15W / Network Full-load power consumption≤25W / DC full loaded power consumption≤360W"
+],
+[
+"FLASH",
+"16M"
+],
+[
+"RAM",
+"128M"
+]
+]
+},
+{
+"t":"table",
+"rows":[
+[
+"LED Indicator",
+"9-18: SFP / PoE Port 1-2: Green=48V; Orange=24V; Green=Link / Port 3-8: Green=Link; Orange=PoE / PWR: Power/system / PD: PD power-receiving indicator / P1: Master power / P2: Slave power / HW: Ring network ON"
+],
+[
+"Operating Temperature",
+"-40°C～+75°C"
+],
+[
+"Operating Humidity",
+"10%～90% non-condensing"
+],
+[
+"Storage Temperature",
+"-40°C～+85°C"
+],
+[
+"Storage Humidity",
+"5%～95% non-condensing"
+],
+[
+"Lightning Protection Level",
+"6KV 8/20us / 8KV ESD"
+],
+[
+"Protection Level",
+"IP40"
+],
+[
+"Installation Method",
+"Din Mounted / Additional Wall Hangers"
+],
+[
+"Certificate",
+"CE mark, commercial / CE/LVD EN60950\nFCC Part 15 Class B / RoHS"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Software Function"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The followings are about MAIN functions, NOT ALL INCLUDED."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please contact us for more information."
+},
+{
+"t":"table",
+"rows":[
+[
+"Monitoring Platform",
+"Quick formation of ring network / System temperature monitoring and alarm / External temperature and humidity monitoring and alarm / Input power monitoring and alarm / System each channel key voltage monitoring and alarm / System total current,total power monitoring and alarm / All-Port network monitoring and alarm / Support one group input and output signal monitoring and alarm"
+],
+[
+"Network Protocol",
+"IEEE 802.3x / IEEE 802.3 / IEEE 802.3u / IEEE 802.3ab / IEEE 802.3z / IEEE 802.3ad / IEEE 802.3q / IEEE 802.3q/p / IEEE 802.1w / IEEE 802.1d / IEEE 802.1S / IEEE 802.1X"
+],
+[
+"MAC",
+"Support 16K MAC address / Auto aging and learning"
+],
+[
+"VLAN Configuration",
+"Support port-based VLAN / Up to 4096 VLANs / Support Voice VLAN, can configure Qos for voice data / 802.1Q"
+],
+[
+"Spanning Tree",
+"STP(Spanning tree protocol) / RSTP/MSTP(Rapid spanning tree protocol) / EPPS/EAPS(Ring network protocol) / 802.1x"
+],
+[
+"Port Aggregation",
+"Support 8 groups of aggregation, each group support up to 8 ports"
+],
+[
+"Port Mirroring",
+"Support many-to-one port mirroring"
+],
+[
+"Loop Guard",
+"Support loop protection / Real-time detection / Quick alram / Concise location / Intelligent blocking / Automatic recovery"
+],
+[
+"Port Isolation",
+"Support downlink ports isolate from each other and communicate with uplink port as well"
+],
+[
+"Flow Control",
+"Half duplex based on Back pressure / Full duplex based on PAUSE frame"
+],
+[
+"Speed Limitation",
+"Bandwidth management based on port input and output"
+],
+[
+"Multicast Control",
+"IGMPv1/2/3 and MLDv1/2 Snooping / GMRP protocol registration / Multicast address management / Multicast VLAN / Multicast routing port / Static multicast address"
+],
+[
+"DHCP",
+"DHCP Snooping"
+],
+[
+"Storm Suppression",
+"Support unknown unicast, multicast, unknown multicast / Broadcast type storm suppression / Storm suppression based on bandwidth adjustment and storm filtering"
+],
+[
+"Security",
+"Support User port+IP address+MAC address / ACL based on IP, MAC / Support security properties of number of MAC address based on port"
+],
+[
+"QOS",
+"802.1p port queue priority algorithm / Cos/Tos, QOS remark / WRR(Weighted Round Robin), weighted priority rotation algorithm / WRR, SP, WFQ priority scheduling modes"
+],
+[
+"Cable Sequence",
+"Auto-MDIX; auto detection on straight-through and cross-over cable"
+],
+[
+"Negotiation Mode",
+"Port support auto negotiation function(self-negotiation transmission rate and duplex mode)"
+],
+[
+"System maintenance",
+"Upgrade package upload / System log viewing / WEB recovery factory configuration"
+],
+[
+"PoE Function",
+"Port switch / Schedule arrangement, timing switch / Voltage, current, power display / System total power display and configuration / PoE watchdog: support auto reset, timing reset and ip binding reset when device failed / Port power configuration(AF/AT/HiPoE/BT) / Indication of over power / Port PoE type configuration(48V/24V power supplying)"
+],
+[
+"Network Management",
+"WEB interface management / CLI management based on Telnet, TFTIP, Console / SNMP V1/V2/V3 management / RMONV1/V2 management / RMON management"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Packing List"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pair wall hangers"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc user manual"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc console cable"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipping box information(Below information is approximately accurate)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product size: 208*130*50mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Inner box size: 280*165*79mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product weight: 1.5Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 1.8Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Master box size: 550*455*365mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing quantity: 20Pcs"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 38Kg"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Product Picture"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"FAQ"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Leadtime"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Production time is usually 5~7 working days for standard(non-customized) models (no more than 50pcs)."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipping time is usually 4~7 days by air"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"In total, it takes 10~15 days for a client to receive the order."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We will send the goods by air(DHL, UPS or FEDEX) or by sea(for bulk order)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to ship purchased items via customer’s shipping account or forwarder."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MOQ"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1 Pc/Pair(It is NOT free, Saga Telecom do NOT do FREE SAMPLES)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to have sample testing before bulk order, but 1 Pc/Pair is ONLY about sample testing."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"When testing proves fine, MOQ is 20pcs(discussion is required if it is about smaller quantity)."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Warranty"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1 year for commercial models(STC series) and 3 years for industrial models(STI series)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please kindly refer to the “Warranty Policy” for more information."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Technical assistance is always available"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Payment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"T/T transfer and PayPal, FULL AMOUNT BEFORE SHIPMENT."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to pay 50% first and another 50% before shipment for bulk order."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to be paid via customer’s forwarder(this is usually about RMB payment)."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Transaction cost"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is standard charge 25usd for EACH T/T transfer whatever the invoice value is."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is 5usd for every 100usd to PayPal a/c, this ratio is standard charge by PayPal"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"RMA"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please contact us ASAP once there is any problem(package or usage)with the supplied products."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For every 100pcs, there will be 2 extra free units(2% RMA) against immediate warranty coverage."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This rule stands for all Saga Telecom models and even there is not an after-sales issue."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If it is about missing/faulty parts in the packing box."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please simply use the extra units for the replacement and let us know this problem(we will improve)."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If it is about usage problem."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom will provide technical support and send new units when necessary."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OEM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Supported, but discussion is required if it is about complex requirements."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Below are usual OEM services available."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Show client’s logo/model on the device/label/management interface..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Use client’s packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Design client’s product PVC sticker"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Customize some parts of a model like rear panel/power input terminal block..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that there might be extra cost for OEM services."
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"After-sales Support"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Warranty comes in effect from the date of delivery."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If something is wrong with the package or usage, please let us know asap."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Case 1, package problem"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Any faulty/missing parts in the packing box, Saga telecom will help do the replacement or refund."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Case 2, usage problem"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The standard and most effective procedures(get a feedback form from us) are as below"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1, describe what happened, examples as below"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"When this problem occurred"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"What you did to adjust it like restart the device or change new accessories"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"How you use this device like outdoor use for connecting some IP cameras"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"With this information, Saga telecom could quickly know what is going on and do trouble-shooting"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2, provide as many actual photos/video as possible"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Wrong connection or improper use may occur."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"In this case, photos and videos are helpful and efficient."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3, prepare necessary and relevant accessories such as SFP module/network cable/patch-cord..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"An example is, in a linear network connection, if one SFP module fails, the whole system might have a transmission problem."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The solution would be as simple as replacing a new workable SFP module."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"With in-hand accessories, sometimes it is easy to fix the problem."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4, get ready for online meeting"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga telecom might remotely control your PC to do trouble-shooting with the help of Teamviewer/Anydesk."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For more information, please talk with us or visit www.sagatelecom.com.cn"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"About Us"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom is a reliable manufacturer and trader of good-quality fiber optic devices and transmission solutions, and focuses on industrial networking, CCTV surveillance, fiber optic conversion and featured optical devices for industrial automation, vehicle network, security monitoring etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Backed by diversified product portfolio and mature business system, Saga Telecom gains good feedback overseas especially in USA, Turkey, Italy, Russia and India."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Meantime, Saga Telecom is actively seeking trustworthy partners and enhancing its presence in optical telecommunication field."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Core Value"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connecting, Converting, Creating"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom connects talents and ideas that may drive itself forward"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom converts mature business system to all-round growth"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom creates betterness from expertise and solution package"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product Line"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Commercial Ethernet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Industrial Networking"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Din Power Adapter"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ethernet Media Converter"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE Accessory"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Optical Module"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Featured Optical Fiber Devices"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A reliable networking solution supplier"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"How We Do Business"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom is being digital and paperless to be efficient and eco-friendly"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Simplified, Standard, Solution based"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"All is about a s truly helpful solution"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom proposes a buffet-style business communication."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"All the information is available without asking"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Business details are being continuously updated"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Value and growth manifest itself"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A google link containing full information is created with access to everyone."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Anyone could read or download it anytime and anywhere."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We have been absorbing useful information and will update it in the link."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Like product query, application..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"So latest information will be available all the time."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We are welcoming comparisons and suggestions from you."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Compare our products with existing or other suppliers"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Let us know where we could improve"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom aims to be a marathoner in fiber optic telecommunication field."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A link to all the information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://drive.google.com/drive/folders/10pI-PIGftC6UVEngjg_cLlC8-X14fA9A?usp=drive_link"
+}
+],
+"extracted_at":"2026-10-23T05:21:19Z"
+}

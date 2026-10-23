@@ -1,0 +1,18 @@
+{
+"id":"Extra_Info__Template__CAD模板.dwg__25915fc9",
+"path":"Extra_Info/Template/CAD模板.dwg",
+"name":"CAD模板.dwg",
+"ext":".dwg",
+"bytes":148859,
+"sha256":"25915fc9dc326053c2d47ee16c34a351d9050c7c918436b681908672106a3fa7",
+"source":"Extra_Info.zip",
+"method":"none",
+"status":"meta",
+"meta":{},
+"warnings":[
+"no extractor for .dwg"
+],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:20:20Z"
+}

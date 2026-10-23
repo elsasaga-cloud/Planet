@@ -1,0 +1,157 @@
+{
+"id":"Extra_Info__Reference_Info__OEM信息__OEM_EN.docx__4f1cb6c2",
+"path":"Extra_Info/Reference Info/OEM信息/OEM_EN.docx",
+"name":"OEM_EN.docx",
+"ext":".docx",
+"bytes":7136193,
+"sha256":"4f1cb6c2fe0c3154dcf75e8f52d227c91804c07adc1d9d82869235a9fcd34260",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"simon",
+"last_modified_by":"Simon",
+"created":"2022-08-23T06:17:00+00:00",
+"modified":"2022-11-17T03:29:03+00:00",
+"paragraphs":26,
+"tables":0,
+"embedded_images":22
+},
+"warnings":[],
+"chars":1103,
+"text":"Source Product\nRequirement 1\nChange the front mask\nThe letter format(eg.change to Calibri), now is Ariel format\nThe letter content(eg. FX1 to SFP 1)\neg. 100/1000Mbps Industrial Fiber Switch to Unmanaged 1G Industrial Switch(see above photo)\neg. 100/1000Mbps Industrial Fiber Switch to 100/1000Mbps POE Media Converter\nThe letter position(eg. Left/Center)\nThe letter color(eg. white to red)\nThe bar color(eg. blue to black)\nThe whole housing(color/holes...)\nRequirement 2\nPrint customer logo\nGenerally, it would be placed on the middle of the upper panel.\nRequirement 3\nChange the mounting method\nDin rail is the original version\nHave an earring\nChange to below version\nThis is the spring din rail bracket, pull down to have the device fixed in the din-rail bracket.\nCompared to the original fixed din rail bracket, it is more flexible and easy to operate.\nChange to ‘L’ shape for actual needs\nManaged Switch\nIt is fine to change the UI content(add model name, change the title...)/color(gray/blue...).\nWe usually put customer logo on the top left, it is OK.\nFor more complex changes, please let us know.",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Source Product"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Requirement 1"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Change the front mask"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The letter format(eg.change to Calibri), now is Ariel format"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The letter content(eg. FX1 to SFP 1)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"eg. 100/1000Mbps Industrial Fiber Switch to Unmanaged 1G Industrial Switch(see above photo)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"eg. 100/1000Mbps Industrial Fiber Switch to 100/1000Mbps POE Media Converter"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The letter position(eg. Left/Center)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The letter color(eg. white to red)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The bar color(eg. blue to black)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The whole housing(color/holes...)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Requirement 2"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Print customer logo"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Generally, it would be placed on the middle of the upper panel."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Requirement 3"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Change the mounting method"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Din rail is the original version"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Have an earring"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Change to below version"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is the spring din rail bracket, pull down to have the device fixed in the din-rail bracket."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Compared to the original fixed din rail bracket, it is more flexible and easy to operate."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Change to ‘L’ shape for actual needs"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Managed Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to change the UI content(add model name, change the title...)/color(gray/blue...)."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We usually put customer logo on the top left, it is OK."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For more complex changes, please let us know."
+}
+],
+"extracted_at":"2026-10-23T05:19:50Z"
+}

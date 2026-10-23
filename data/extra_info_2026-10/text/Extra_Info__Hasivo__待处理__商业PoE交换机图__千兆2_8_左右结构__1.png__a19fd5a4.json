@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆2_8_左右结构__1.png__a19fd5a4",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/千兆2+8  左右结构/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":2601381,
+"sha256":"a19fd5a444cc2bd1034468ce903b2cccccfaeaa93cb975b1a0fa37d793625d78",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":3519,
+"height":819,
+"mode":"RGBA",
+"thumb_bytes":4276
+},
+"warnings":[],
+"chars":72,
+"text":"PoE Link Giga Link\nGigabit PoE Switch\nd 8GE PoE+2GE UP\n1 iB\n9-UP 10-UP V",
+"extracted_at":"2026-10-23T05:23:18Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆2_8_左右结构__1.png__a19fd5a4.jpg"
+}

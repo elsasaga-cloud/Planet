@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__工业管理类目__L2_Non-PoE__STI-240GM__3.png__1f7ca459",
+"path":"Extra_Info/Hasivo/待处理/工业管理类目/L2 Non-PoE/STI-240GM/3.png",
+"name":"3.png",
+"ext":".png",
+"bytes":910968,
+"sha256":"1f7ca4599cfa2195325eb38e59866d3cf78e1302193f26004c5f50dbfadb11fd",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":566,
+"height":1047,
+"mode":"RGBA",
+"thumb_bytes":10565
+},
+"warnings":[],
+"chars":55,
+"text":"—\n@ owe\nRET\nManaged Industrial Switch\nLink\nGiga\nConsole",
+"extracted_at":"2026-10-23T05:22:00Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__工业管理类目__L2_Non-PoE__STI-240GM__3.png__1f7ca459.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Template__Simon_15237149683__Simon签名.png__1188da38",
+"path":"Extra_Info/Template/Simon 15237149683/Simon签名.png",
+"name":"Simon签名.png",
+"ext":".png",
+"bytes":2486439,
+"sha256":"1188da3820dac8fbdb9dc9b8b71af6c56d8dfb535beb84cc8855f5c6cf51f8e1",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":1124,
+"height":552,
+"mode":"RGBA",
+"thumb_bytes":3967
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:20:26Z",
+"thumb":"thumbs/Extra_Info__Template__Simon_15237149683__Simon签名.png__1188da38.jpg"
+}

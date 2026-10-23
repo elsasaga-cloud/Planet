@@ -1,0 +1,570 @@
+{
+"id":"Extra_Info__Reference_Info__UniPoE__DS__L2_Managed_Switch__PM232GM_V1_AC_version_EN.doc__4b434c53",
+"path":"Extra_Info/Reference Info/UniPoE/DS/L2 Managed Switch/PM232GM V1 AC version EN.doc",
+"name":"PM232GM V1 AC version EN.doc",
+"ext":".doc",
+"bytes":3288064,
+"sha256":"4b434c536357f2b9bbb541e566e4a0fdb7779fc2e7e2e748e56139c4ccbf97e4",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:19:03+00:00",
+"paragraphs":13,
+"tables":3,
+"embedded_images":6
+},
+"warnings":[],
+"chars":4946,
+"text":"Product Overview\nPM232GM V1 is all-gigabit managed Switch with 24 all-gigabit SFP fiber module slots and 4 gigabit combo ports. Provides high performance, enterprise-class QoS, advanced security policies and rich network managed features. Use advanced features, this switch is powerful and flexible enough to deploy wireless access points or IP-based network surveillance cameras for users. It is an ideal choice for WIFI coverage, office, Internet bar, computer room and so on.\nProduct Features\nPanel lights to monitor working state and help fault analysis;\nFlow Control for Full Duplex operation and back pressure for Half Duplex Operation;\nSupport Energy-Efficient Ethernet (EEE) function (IEEE802.3az);\nSupports a complete lineup of L2 features, including 802.1Q tag VLAN, Port Mirroring, STP/RSTP/MSTP, Link Aggregation Control Protocol and 802.3x Flow Control function;\nWeb, CLI (Console Port, Telnet, SSH), SNMP and RMON bring abundant management policies;\nSupport Web management, simpler and more efficient, easy to install and debug engineering and maintenance personnel;\nModel\tPM232GM V1\nStandard\tIEEE 802.3, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3z, IEEE 802.3x, IEEE 802.1X, IEEE 802.1q, IEEE 802.1p, IEEE 802.1d, IEEE 802.1w, IEEE 802.3ad\nInterface\t24*1000Mbps SFP Slots / 4G*Combo / 1*Console Port\nIndicator\tPWR, LNK/ACT, SYS\nNetwork media\t10BASE-T: UTP category 3,4,5 cable（≤100m） / 100BASE-TX: UTP category 5, 5e cable（≤100m） / 1000BASE-T: UTP category 5e, 5 cable（≤100m）\n1000BASE-X: MMF, SMF\nMAC Address Table\t16K, Auto-learning, Auto-aging\nJumbo Frame\t12KBytes\nTransfer Mode\tStore-and-forward\nPacket Forward Speed\t41.66Mpps\nSwitching Capacity\t56Gbps\nPacket buffer\t12Mbit\nDimensions(L*W*H)\t441.5*207*44.4mm\nFan Quantity\t1\nGreen energy saving\tIEEE 802.3az\nSurge Protection\tDifferent mode±2KV common mode±4KV\nElectrostatic standard\tContact±6KV, air±8KV\nInput Power Supply\t100-240V/AC 50Hz\nOperating Temperature\t0°C ~ +40 °C\nStorage Temperature\t-40 °C ~ +70 °C\nOperating Humidity\t10% ~ 90% non-condensing\nStorage Humidity\t5% ~ 90% non-condensing\nMTBF\t>100000 hour\nProduct Specifications\nHardware Specification\nSoftware Function List\nspanning Tree\tIEEE 802.1D -Spanning Tree\nspanning Tree\tIEEE 802.1w -Rapid Spanning Tree\nspanning Tree\tIEEE 802.1s -Multiple Spanning Tree\nspanning Tree\tBPDU Guard\nspanning Tree\tSTP Root Guard\nspanning Tree\tLoop Detection\nVLAN\tManagement VLAN\nVLAN\tPrivate VLAN\nVLAN\tVoice VLAN\nVLAN\tSurveillance-VLAN\nVLAN\tQ-in-Q (Double Tag)\nVLAN\t802.1v Protocol VLAN\nVLAN\tMAC-Based VLAN\nPort\tIEEE 802.3ad witch LACP(Dynamic)\nPort\tStatic Trunk\nPort\tEEE\nPort\tJumbo Frame\nPort\tError-Disable\nIGMP Snooping\tIGMP Snooping v1/v2/v3\nIGMP Snooping\tMLD Snooping v1/v2\nIGMP Snooping\tMVR\nQoS Features\tHardware Queues\nQoS Features\tClass of Service\tPort Based\nQoS Features\tClass of Service\t802.1p\nQoS Features\tClass of Service\tCoS\nQoS Features\tClass of Service\tDSCP\nQoS Features\tClass of Service\tIP Precedence\nQoS Features\tClass of Service\tTCP/UDP (IPv4/IPv6)\nQoS Features\tRate Limiting\tIngress\nQoS Features\tRate Limiting\tEgress\nQoS Features\tPriority Queue Scheduling\tWRR\nQoS Features\tPriority Queue Scheduling\tStrict Priority\nQoS Features\tPriority Queue Scheduling\tDSCP & CS\nQoS Features\tIPv4 QoS (QCEs)\nQoS Features\tIPv6 QoS (QCEs)\nSecurity\tPort Security\nSecurity\tPort Isolation\nSecurity\tIEEE802.1x AAA\nSecurity\tACLs\tL2+/L3/L4\nSecurity\tACLs\tIPv6 Support\nSecurity\tACLs\tManagement Access List\nSecurity\tManagement ACL/Management ACE\nSecurity\tIP Source Guard (IP-MAC-Port-VALN Binding)\nSecurity\tIP Source Guard (IP-MAC-Port Binding)\nSecurity\tDynamic ARP Inspection\nSecurity\tStorm Control\nSecurity\tRADIUS/TACACS+\nSecurity\tRADIUS Authentication (RFC2138)\nSecurity\tDDoS Prevention\nSecurity\tHTTPs and SSL (Secured Web)\nSecurity\tSSH v1.5/v2.0 (Secured Telnet Session)\nSecurity\tDHCP Snooping\nSecurity\tDHCP Relay\nManagement\tSNMP (v1, v2c, v3)\nManagement\tRMON (1,2,3 & 9 groups)\nManagement\tSoftware Upgrade\nManagement\tConfiguration Export/Import\nManagement\tDHCP\tClient\nManagement\tDHCP\tOption 82\nManagement\tDHCP\tOption 66\nManagement\tDHCP\tOption 67\nManagement\tEvent/Error Log\tSyslog\nManagement\tManagement Access Filtering\tConsole\nManagement\tManagement Access Filtering\tSNMP\nManagement\tManagement Access Filtering\tHTTP/HTTPS\nManagement\tManagement Access Filtering\tTelnet\nManagement\tPort Mirroring\nManagement\tLLDP (IEEE802.1AB)\nManagement\tLLDP-MED\nManagement\tUDLD\nManagement\tDNS Client\nManagement\tTraceroute\nManagement\tPing\nManagement\tCable Test\nManagement\tDDMI\nManagement\tNTP/ SNTP (RFC2030)\nIPv6 Support\tDual IPv6/IPv4 stack\nIPv6 Support\tIPv6 Web/SSL\nIPv6 Support\tIPv6 SNTP (Simple Network Time Protocol)\nIPv6 Support\tIPv6 Telnet / SSH\nIPv6 Support\tIPv6 Ping/Trace route\nIPv6 Support\tIPv6 TFTP\nIPv6 Support\tIPv6 RADIUS/TACACS+\nIPv6 Support\tIPv6 SNMP\nONVIF\tONVIF Detection\nONVIF\tONVIF Server (NLM)\nOrdering information\nModel\tproduct information\nPM232GM V1\t24-Port Gigabit SFP + 4G Combo Fiber Managed Switch\n[文本框]\nPM232GM V1 Fiber Managed Switch",
+"blocks":[
+{
+"t":"p",
+"s":"列出段落",
+"text":"Product Overview"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"PM232GM V1 is all-gigabit managed Switch with 24 all-gigabit SFP fiber module slots and 4 gigabit combo ports. Provides high performance, enterprise-class QoS, advanced security policies and rich network managed features. Use advanced features, this switch is powerful and flexible enough to deploy wireless access points or IP-based network surveillance cameras for users. It is an ideal choice for WIFI coverage, office, Internet bar, computer room and so on."
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Product Features"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Panel lights to monitor working state and help fault analysis;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Flow Control for Full Duplex operation and back pressure for Half Duplex Operation;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Support Energy-Efficient Ethernet (EEE) function (IEEE802.3az);"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Supports a complete lineup of L2 features, including 802.1Q tag VLAN, Port Mirroring, STP/RSTP/MSTP, Link Aggregation Control Protocol and 802.3x Flow Control function;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Web, CLI (Console Port, Telnet, SSH), SNMP and RMON bring abundant management policies;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Support Web management, simpler and more efficient, easy to install and debug engineering and maintenance personnel;"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"PM232GM V1"
+],
+[
+"Standard",
+"IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3z, IEEE 802.3x, IEEE 802.1X, IEEE 802.1q, IEEE 802.1p, IEEE 802.1d, IEEE 802.1w, IEEE 802.3ad"
+],
+[
+"Interface",
+"24*1000Mbps SFP Slots / 4G*Combo / 1*Console Port"
+],
+[
+"Indicator",
+"PWR, LNK/ACT, SYS"
+],
+[
+"Network media",
+"10BASE-T: UTP category 3,4,5 cable（≤100m） / 100BASE-TX: UTP category 5, 5e cable（≤100m） / 1000BASE-T: UTP category 5e, 5 cable（≤100m）\n1000BASE-X: MMF, SMF"
+],
+[
+"MAC Address Table",
+"16K, Auto-learning, Auto-aging"
+],
+[
+"Jumbo Frame",
+"12KBytes"
+],
+[
+"Transfer Mode",
+"Store-and-forward"
+],
+[
+"Packet Forward Speed",
+"41.66Mpps"
+],
+[
+"Switching Capacity",
+"56Gbps"
+],
+[
+"Packet buffer",
+"12Mbit"
+],
+[
+"Dimensions(L*W*H)",
+"441.5*207*44.4mm"
+],
+[
+"Fan Quantity",
+"1"
+],
+[
+"Green energy saving",
+"IEEE 802.3az"
+],
+[
+"Surge Protection",
+"Different mode±2KV common mode±4KV"
+],
+[
+"Electrostatic standard",
+"Contact±6KV, air±8KV"
+],
+[
+"Input Power Supply",
+"100-240V/AC 50Hz"
+],
+[
+"Operating Temperature",
+"0°C ~ +40 °C"
+],
+[
+"Storage Temperature",
+"-40 °C ~ +70 °C"
+],
+[
+"Operating Humidity",
+"10% ~ 90% non-condensing"
+],
+[
+"Storage Humidity",
+"5% ~ 90% non-condensing"
+],
+[
+"MTBF",
+">100000 hour"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product Specifications"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Hardware Specification"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Software Function List"
+},
+{
+"t":"table",
+"rows":[
+[
+"spanning Tree",
+"IEEE 802.1D -Spanning Tree"
+],
+[
+"spanning Tree",
+"IEEE 802.1w -Rapid Spanning Tree"
+],
+[
+"spanning Tree",
+"IEEE 802.1s -Multiple Spanning Tree"
+],
+[
+"spanning Tree",
+"BPDU Guard"
+],
+[
+"spanning Tree",
+"STP Root Guard"
+],
+[
+"spanning Tree",
+"Loop Detection"
+],
+[
+"VLAN",
+"Management VLAN"
+],
+[
+"VLAN",
+"Private VLAN"
+],
+[
+"VLAN",
+"Voice VLAN"
+],
+[
+"VLAN",
+"Surveillance-VLAN"
+],
+[
+"VLAN",
+"Q-in-Q (Double Tag)"
+],
+[
+"VLAN",
+"802.1v Protocol VLAN"
+],
+[
+"VLAN",
+"MAC-Based VLAN"
+],
+[
+"Port",
+"IEEE 802.3ad witch LACP(Dynamic)"
+],
+[
+"Port",
+"Static Trunk"
+],
+[
+"Port",
+"EEE"
+],
+[
+"Port",
+"Jumbo Frame"
+],
+[
+"Port",
+"Error-Disable"
+],
+[
+"IGMP Snooping",
+"IGMP Snooping v1/v2/v3"
+],
+[
+"IGMP Snooping",
+"MLD Snooping v1/v2"
+],
+[
+"IGMP Snooping",
+"MVR"
+],
+[
+"QoS Features",
+"Hardware Queues"
+],
+[
+"QoS Features",
+"Class of Service",
+"Port Based"
+],
+[
+"QoS Features",
+"Class of Service",
+"802.1p"
+],
+[
+"QoS Features",
+"Class of Service",
+"CoS"
+],
+[
+"QoS Features",
+"Class of Service",
+"DSCP"
+],
+[
+"QoS Features",
+"Class of Service",
+"IP Precedence"
+],
+[
+"QoS Features",
+"Class of Service",
+"TCP/UDP (IPv4/IPv6)"
+],
+[
+"QoS Features",
+"Rate Limiting",
+"Ingress"
+],
+[
+"QoS Features",
+"Rate Limiting",
+"Egress"
+],
+[
+"QoS Features",
+"Priority Queue Scheduling",
+"WRR"
+],
+[
+"QoS Features",
+"Priority Queue Scheduling",
+"Strict Priority"
+],
+[
+"QoS Features",
+"Priority Queue Scheduling",
+"DSCP & CS"
+],
+[
+"QoS Features",
+"IPv4 QoS (QCEs)"
+],
+[
+"QoS Features",
+"IPv6 QoS (QCEs)"
+],
+[
+"Security",
+"Port Security"
+],
+[
+"Security",
+"Port Isolation"
+],
+[
+"Security",
+"IEEE802.1x AAA"
+],
+[
+"Security",
+"ACLs",
+"L2+/L3/L4"
+],
+[
+"Security",
+"ACLs",
+"IPv6 Support"
+],
+[
+"Security",
+"ACLs",
+"Management Access List"
+],
+[
+"Security",
+"Management ACL/Management ACE"
+],
+[
+"Security",
+"IP Source Guard (IP-MAC-Port-VALN Binding)"
+],
+[
+"Security",
+"IP Source Guard (IP-MAC-Port Binding)"
+],
+[
+"Security",
+"Dynamic ARP Inspection"
+],
+[
+"Security",
+"Storm Control"
+],
+[
+"Security",
+"RADIUS/TACACS+"
+],
+[
+"Security",
+"RADIUS Authentication (RFC2138)"
+],
+[
+"Security",
+"DDoS Prevention"
+],
+[
+"Security",
+"HTTPs and SSL (Secured Web)"
+],
+[
+"Security",
+"SSH v1.5/v2.0 (Secured Telnet Session)"
+],
+[
+"Security",
+"DHCP Snooping"
+],
+[
+"Security",
+"DHCP Relay"
+],
+[
+"Management",
+"SNMP (v1, v2c, v3)"
+],
+[
+"Management",
+"RMON (1,2,3 & 9 groups)"
+],
+[
+"Management",
+"Software Upgrade"
+],
+[
+"Management",
+"Configuration Export/Import"
+],
+[
+"Management",
+"DHCP",
+"Client"
+],
+[
+"Management",
+"DHCP",
+"Option 82"
+],
+[
+"Management",
+"DHCP",
+"Option 66"
+],
+[
+"Management",
+"DHCP",
+"Option 67"
+],
+[
+"Management",
+"Event/Error Log",
+"Syslog"
+],
+[
+"Management",
+"Management Access Filtering",
+"Console"
+],
+[
+"Management",
+"Management Access Filtering",
+"SNMP"
+],
+[
+"Management",
+"Management Access Filtering",
+"HTTP/HTTPS"
+],
+[
+"Management",
+"Management Access Filtering",
+"Telnet"
+],
+[
+"Management",
+"Port Mirroring"
+],
+[
+"Management",
+"LLDP (IEEE802.1AB)"
+],
+[
+"Management",
+"LLDP-MED"
+],
+[
+"Management",
+"UDLD"
+],
+[
+"Management",
+"DNS Client"
+],
+[
+"Management",
+"Traceroute"
+],
+[
+"Management",
+"Ping"
+],
+[
+"Management",
+"Cable Test"
+],
+[
+"Management",
+"DDMI"
+],
+[
+"Management",
+"NTP/ SNTP (RFC2030)"
+],
+[
+"IPv6 Support",
+"Dual IPv6/IPv4 stack"
+],
+[
+"IPv6 Support",
+"IPv6 Web/SSL"
+],
+[
+"IPv6 Support",
+"IPv6 SNTP (Simple Network Time Protocol)"
+],
+[
+"IPv6 Support",
+"IPv6 Telnet / SSH"
+],
+[
+"IPv6 Support",
+"IPv6 Ping/Trace route"
+],
+[
+"IPv6 Support",
+"IPv6 TFTP"
+],
+[
+"IPv6 Support",
+"IPv6 RADIUS/TACACS+"
+],
+[
+"IPv6 Support",
+"IPv6 SNMP"
+],
+[
+"ONVIF",
+"ONVIF Detection"
+],
+[
+"ONVIF",
+"ONVIF Server (NLM)"
+]
+]
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Ordering information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"product information"
+],
+[
+"PM232GM V1",
+"24-Port Gigabit SFP + 4G Combo Fiber Managed Switch"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:19:03Z"
+}

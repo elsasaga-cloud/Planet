@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__百千兆2光48_COMBO__4.png__726ce7a2",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/百千兆2光48 COMBO/4.png",
+"name":"4.png",
+"ext":".png",
+"bytes":2479454,
+"sha256":"726ce7a282975a6413c40a1ee8d9c09f9a4dc09b43b3638876b99648e6904ca0",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":2500,
+"height":685,
+"mode":"RGBA",
+"thumb_bytes":2714
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:23:13Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__百千兆2光48_COMBO__4.png__726ce7a2.jpg"
+}

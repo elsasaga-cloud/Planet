@@ -1,0 +1,1727 @@
+{
+"id":"Extra_Info__Reference_Info__UniPoE__UNIPOE_Data_Center_Network_Product_Solution-202405.pptx__b3087cb4",
+"path":"Extra_Info/Reference Info/UniPoE/UNIPOE Data Center Network Product & Solution-202405.pptx",
+"name":"UNIPOE Data Center Network Product & Solution-202405.pptx",
+"ext":".pptx",
+"bytes":16309965,
+"sha256":"b3087cb43a8abc4c6b49056d62249217209e32587705b96114613ebd9f50f9b2",
+"source":"Extra_Info.zip",
+"method":"python-pptx",
+"status":"ok",
+"meta":{
+"slides":13,
+"pictures":155
+},
+"warnings":[],
+"chars":7669,
+"text":"[slide 1]\nProduct & Solutions Dept.\nData Center Network\nProducts & Solutions\nwww.unipoe.com\nGUANGDONG UNIPOE IOT TECHNOLOGY CO.,LTD\n\n[slide 2]\nChallenges of Traditional Data Center Network\n02\nBusiness expansion puts forward higher requirements on the easy scalability of data center networks.\nElastic Expansion\nCHALLENGE\nIt is necessary to meet the hot migration of cross-regional business and ensure that the business is not interrupted.\nBusiness Migration\nThe scale of the traditional data center business network is limited by the capacity limit of VLAN 4094 and cannot meet the rapid growth of business.\nNetwork Size\nMeet the east-west traffic of the data center and have 100G/400G high bandwidth requirements\nNetwork Traffic\nMeets the multi-level unified monitoring of data center network equipment and rapid fault location.\nMgmt. and Operation\nEnsure data center security from multiple aspects such as data encryption, attack prevention, access control, and user authentication.\nSecurity Control\n\n[slide 3]\nData Center Ethernet Switch\n02\nThe S6500 series data center switches is a new generation of high-performance, high-density, high speed, high reliability data center-level Ethernet switch products independently developed by UNIPOE for data centers and cloud computing networks.\nOur products are mainly aimed at enterprise data center that require high network scalability and flexibility, as well as operator data center and Internet cloud service provider data center that require high performance, high reliability, lossless transmission, and intelligent operation and maintenance.\n\n[slide 4]\nProduct Brief Introduction\n02\nHigh-Density\nHigh Speed\n|\nHigh Performance\n|\n|\nHigh Reliability\n32*100G QSFP28\nRZ-S6500-32X\nSwitching Capacity 6.4Tbps\n48个10G SFP+\n6*100G QSFP28\nRZ-S6500-48S6X\nSwitching Capacity 2.18Tbps\n24个10G SFP+\n6*100G QSFP28\nRZ-S6500-24S6X\nSwitching Capacity 1.7Tbps\nForwarding Rate\n2800Mpps\nForwarding Rate\n600Mpps\nForwarding Rate\n600Mpps\nBuffer: 24MB\n48*25G SFP28\n6*100G QSFP28\nRZ-S6500-48V6X\nSwitching Capacity 3.6Tbps\nForwarding Rate\n1050Mpps\nBuffer: 12MB\n48*25G SFP28\n8*100G QSFP28\nRZ-S6500-48V8X\nSwitching Capacity 6.4Tbps\nForwarding Rate\n2800Mpps\nBuffer: 24MB\nBuffer: 6MB\nBuffer: 6MB\n\n[slide 5]\n02\n1+1 Hot-swappable Redundant Power\n4+1 Hot-swappable Redundant Fans\n1*MGMT，1*Console，1*USB 2.0\n1+1 power supply redundancy supports hot-swap and instant switchover when failure occurs, ensuring uninterrupted business operation.\n4+1 fan redundancy, intelligent speed adjustment, and efficient heat dissipation create a green and low-carbon data center.\nSupports out-of-band management and USB disk deployment configuration.\nHardware-level Redundancy\nHigh Reliability\nExternal Structure\n\n[slide 6]\nInternal Structure\n02\nIndependent Power Supply Cooling Duct\nIndependent Power Supply Cooling Duct\nFront Panel Cooling Duct\nSwitching Engine\n01\nSupport isolation of hot and cold air ducts to improve heat dissipation efficiency.\nSupports intelligent fan speed adjustment and real-time power consumption detection to create a green data center.\nFront and Rear Air Duct Design\nEnergy Efficient\n\n[slide 7]\nHighlights\n02\nHigh Scalability\nSpine-leaf architecture, flexible and easy to expand.\nVxLAN/EVPN realizes elastic expansion of service virtualization and ‘Large Layer-2 Network‘.\nHigh Performance\nLow latency & Lossless\nHigh Reliability\nSmart Operation & Mgmt.\nSecurity Control\nHigh density, high speed(100G/ 400G ).\nPowerful cache capacity ensuring unblocking transmission.\nM-LAG technology implements dual uplink load sharing and improves network reliability.\nECMP Resilient Hash for multipath load balancing.\nDual power and N+1 Hot-Swappable redundant fan , ensuring service continuity\nSupports RoCE v2 low-latency network.\nPFC flow control, ECN congestion control, buffer dynamic management to achieve network optimization.\nTelemetry-based network monitoring and smart O&M, making network management more efficient and accurate.\nDoS attack prevention, validity check of port ARP packets and multiple hardware-based ACL policies guarantees secure and reliable network.\n\n[slide 8]\nUNPOS Architecture and Core Strengths\n02\nHardware\nKernel\nDriver\nSDK\nL2\nL3\nACL\nQoS\nVxLAN\nMPLS\nTelemetry\nReliability\nSecurity\nUNPOS\nAdvanced modular architecture, high cohesion, low coupling, and high reliability\nEclipse, pycharm automated test script, and the number of test items in the test case library reaches 2300 +\nSupports OEM/ODM\nCLI style is similar to Cisco\nIndependent R&D Capability\nFlexible Customization\nFully Functional\nComplete switching and routing capabilities, 1000 + software feature\nEasy To Use\n\n[slide 9]\nEnterprise-SME Data Center Network\n03\nServer\nServer\nWAN\nInternet\nNetwork Architecture\nSpine\nLeaf\n2\n1\nSolution Highlights\nHigh density, large bandwidth: 10G/25G/100G\nHigh reliability: The TOR switch and the server node use 10G/25G to achieve interconnection, and M-LAG improves network reliability.\nLoad balancing: Spine-Leaf is fully cross-connected, and multi-path load balancing is implemented through ECMP to improve the uniform distribution of Hash.\nServer\nRecommended Products\n1\nRZ-6500    48*25G+6*100G\nRZ-6500    48*25G+8*100G\nRZ-6500    24*10G+6*100G\nRZ-6500    48*10G+6*100G\n2\nRZ-6500    32*100G\nApplication Industry\nPharmaceutical\nBuilding Materials\nPaper\nFood\n10G/25G\n100G\n\n[slide 10]\nEnterprise-Hyper-converged Data Center Network\n03\nSpine\n...\nInternet\nHCI\nServer\nHCI\nServer\nTOR\nHCI\nServer\nHCI\nServer\nHCI\nServer\nHCI\nServer\nHCI\nServer\nHCI\nServer\n...\n...\n...\n...\n1\n2\nApplication Industry\nNetwork Architecture\nEasy to extend: Spine-Leaf two-layer topology.\nHigh density, large bandwidth: 10G/25G/100G\nHigh reliability: TOR switch and HCI server nodes are usually interconnected by 10G/25G, and M-LAG improves network reliability.\n“Large Layer 2 Network”: VxLAN/EVPN realizes DC Layer 2 interconnection to meet virtual machine migration.\nSolution Highlights\nHCI Node 1\nHCI Node 2\nManage\nBusiness\nStorage\n1\nRZ-6500    48*25G+6*100G\nRZ-6500    48*25G+8*100G\nRZ-6500    24*10G+6*100G\nRZ-6500    48*10G+6*100G\nRZ-6500   32*100G\nRecommended Products\n2\nFinance\nMunicipal\nInternet\nPetrochemical\n10G/25G\n100G\nManufacturing\n\n[slide 11]\nEnterprise-Cloud Storage Data Center Network\n03\nApplication Industry\nNetwork Architecture\nEasy to scale: The storage network uses a Spine-Leaf two-layer topology.\nHigh density, large bandwidth: 10G/100G\nHigh reliability: Video data network core switches are stacked to improve service reliability. The TOR switch and the cloud storage server node are usually interconnected by 1G/10G, and M-LAG improves network reliability.\nSolution Highlights\nMunicipal\nSmart Factory\nServer\nTOR\nCore Switch\n...\n...\n...\n...\nServer\nDN\nDN\nDN\nDN\nDN\nDN\nNorth-South Data Flow\nVideo Data Network\nEast-West\nBusiness Network\nStorage Network\nRail Transit\nPublic Security\n1\n2\n3\n1\nRZ-6500       32*100G\n2\nRZ-6500        24/48*10G+6*100G\nRecommended Products\n3\nRZ7000          3/4/8 business card optional，24GE SFP+24GE，48GE，48GE SFP，24GE SFP+8 SFP+，24GE+8 SFP+，16 SFP+，4 40G QSFP\n100G\n10G\n10G\n10G\n\n[slide 12]\nEnterprise-Large Scale Data Center Network\n03\nWAN\nDMZ\nInternet\nNetwork Architecture\nPOD1\nPOD N\n2\n1\nSolution Highlights\nSupports RoCE v2 low-latency network.\nPFC flow control, ECN congestion control, buffer dynamic management to achieve network optimization.\nHigh density, high speed(100G/ 400G ).\nVxLAN/EVPN realizes elastic expansion of service virtualization and ‘Large Layer-2 Network‘.\n...\nRecommended Products\n1\nRZ-6500    48*25G+6*100G\nRZ-6500    48*25G+8*100G\n2\nRZ-6500   32*100G\nApplication Industry\nInternet\nServer\nServer\nMunicipal\nSmart Factory\nFinance\n\n[slide 13]\n关注优力普，了解更多资讯\n中文官网\n公众号\n抖音号\nTHANKS\n安全·稳定·与众不同",
+"slides":[
+{
+"n":1,
+"items":[
+{
+"t":"picture",
+"name":"图片 2"
+},
+{
+"t":"picture",
+"name":"图形 7"
+},
+{
+"t":"picture",
+"name":"图形 14"
+},
+{
+"t":"p",
+"text":"Product & Solutions Dept."
+},
+{
+"t":"p",
+"text":"Data Center Network"
+},
+{
+"t":"p",
+"text":"Products & Solutions"
+},
+{
+"t":"p",
+"text":"www.unipoe.com"
+},
+{
+"t":"p",
+"text":"GUANGDONG UNIPOE IOT TECHNOLOGY CO.,LTD"
+}
+],
+"notes":""
+},
+{
+"n":2,
+"items":[
+{
+"t":"p",
+"text":"Challenges of Traditional Data Center Network"
+},
+{
+"t":"p",
+"text":"02"
+},
+{
+"t":"p",
+"text":"Business expansion puts forward higher requirements on the easy scalability of data center networks."
+},
+{
+"t":"p",
+"text":"Elastic Expansion"
+},
+{
+"t":"picture",
+"name":"图片 6"
+},
+{
+"t":"p",
+"text":"CHALLENGE"
+},
+{
+"t":"p",
+"text":"It is necessary to meet the hot migration of cross-regional business and ensure that the business is not interrupted."
+},
+{
+"t":"p",
+"text":"Business Migration"
+},
+{
+"t":"p",
+"text":"The scale of the traditional data center business network is limited by the capacity limit of VLAN 4094 and cannot meet the rapid growth of business."
+},
+{
+"t":"p",
+"text":"Network Size"
+},
+{
+"t":"p",
+"text":"Meet the east-west traffic of the data center and have 100G/400G high bandwidth requirements"
+},
+{
+"t":"p",
+"text":"Network Traffic"
+},
+{
+"t":"p",
+"text":"Meets the multi-level unified monitoring of data center network equipment and rapid fault location."
+},
+{
+"t":"p",
+"text":"Mgmt. and Operation"
+},
+{
+"t":"p",
+"text":"Ensure data center security from multiple aspects such as data encryption, attack prevention, access control, and user authentication."
+},
+{
+"t":"p",
+"text":"Security Control"
+}
+],
+"notes":""
+},
+{
+"n":3,
+"items":[
+{
+"t":"picture",
+"name":"图片 3"
+},
+{
+"t":"p",
+"text":"Data Center Ethernet Switch"
+},
+{
+"t":"p",
+"text":"02"
+},
+{
+"t":"p",
+"text":"The S6500 series data center switches is a new generation of high-performance, high-density, high speed, high reliability data center-level Ethernet switch products independently developed by UNIPOE for data centers and cloud computing networks.\nOur products are mainly aimed at enterprise data center that require high network scalability and flexibility, as well as operator data center and Internet cloud service provider data center that require high performance, high reliability, lossless transmission, and intelligent operation and maintenance."
+},
+{
+"t":"picture",
+"name":"图片 7"
+}
+],
+"notes":""
+},
+{
+"n":4,
+"items":[
+{
+"t":"p",
+"text":"Product Brief Introduction"
+},
+{
+"t":"p",
+"text":"02"
+},
+{
+"t":"p",
+"text":"High-Density"
+},
+{
+"t":"picture",
+"name":"图形 34"
+},
+{
+"t":"p",
+"text":"High Speed"
+},
+{
+"t":"picture",
+"name":"图形 36"
+},
+{
+"t":"p",
+"text":"|"
+},
+{
+"t":"picture",
+"name":"图形 32"
+},
+{
+"t":"p",
+"text":"High Performance"
+},
+{
+"t":"p",
+"text":"|"
+},
+{
+"t":"p",
+"text":"|"
+},
+{
+"t":"picture",
+"name":"图形 38"
+},
+{
+"t":"p",
+"text":"High Reliability"
+},
+{
+"t":"picture",
+"name":"图片 23"
+},
+{
+"t":"p",
+"text":"32*100G QSFP28"
+},
+{
+"t":"p",
+"text":"RZ-S6500-32X"
+},
+{
+"t":"p",
+"text":"Switching Capacity 6.4Tbps"
+},
+{
+"t":"p",
+"text":"48个10G SFP+\n6*100G QSFP28"
+},
+{
+"t":"p",
+"text":"RZ-S6500-48S6X"
+},
+{
+"t":"p",
+"text":"Switching Capacity 2.18Tbps"
+},
+{
+"t":"picture",
+"name":"图片 29"
+},
+{
+"t":"p",
+"text":"24个10G SFP+\n6*100G QSFP28"
+},
+{
+"t":"p",
+"text":"RZ-S6500-24S6X"
+},
+{
+"t":"p",
+"text":"Switching Capacity 1.7Tbps"
+},
+{
+"t":"picture",
+"name":"图片 35"
+},
+{
+"t":"p",
+"text":"Forwarding Rate\n2800Mpps"
+},
+{
+"t":"p",
+"text":"Forwarding Rate\n600Mpps"
+},
+{
+"t":"p",
+"text":"Forwarding Rate\n600Mpps"
+},
+{
+"t":"p",
+"text":"Buffer: 24MB"
+},
+{
+"t":"picture",
+"name":"图片 26"
+},
+{
+"t":"p",
+"text":"48*25G SFP28\n6*100G QSFP28"
+},
+{
+"t":"p",
+"text":"RZ-S6500-48V6X"
+},
+{
+"t":"p",
+"text":"Switching Capacity 3.6Tbps"
+},
+{
+"t":"p",
+"text":"Forwarding Rate\n1050Mpps"
+},
+{
+"t":"p",
+"text":"Buffer: 12MB"
+},
+{
+"t":"picture",
+"name":"图片 27"
+},
+{
+"t":"p",
+"text":"48*25G SFP28\n8*100G QSFP28"
+},
+{
+"t":"p",
+"text":"RZ-S6500-48V8X"
+},
+{
+"t":"p",
+"text":"Switching Capacity 6.4Tbps"
+},
+{
+"t":"p",
+"text":"Forwarding Rate\n2800Mpps"
+},
+{
+"t":"p",
+"text":"Buffer: 24MB"
+},
+{
+"t":"p",
+"text":"Buffer: 6MB"
+},
+{
+"t":"p",
+"text":"Buffer: 6MB"
+}
+],
+"notes":""
+},
+{
+"n":5,
+"items":[
+{
+"t":"p",
+"text":"02"
+},
+{
+"t":"picture",
+"name":"图片 28"
+},
+{
+"t":"p",
+"text":"1+1 Hot-swappable Redundant Power"
+},
+{
+"t":"p",
+"text":"4+1 Hot-swappable Redundant Fans"
+},
+{
+"t":"p",
+"text":"1*MGMT，1*Console，1*USB 2.0"
+},
+{
+"t":"p",
+"text":"1+1 power supply redundancy supports hot-swap and instant switchover when failure occurs, ensuring uninterrupted business operation.\n4+1 fan redundancy, intelligent speed adjustment, and efficient heat dissipation create a green and low-carbon data center.\nSupports out-of-band management and USB disk deployment configuration."
+},
+{
+"t":"p",
+"text":"Hardware-level Redundancy\nHigh Reliability"
+},
+{
+"t":"p",
+"text":"External Structure"
+}
+],
+"notes":""
+},
+{
+"n":6,
+"items":[
+{
+"t":"p",
+"text":"Internal Structure"
+},
+{
+"t":"p",
+"text":"02"
+},
+{
+"t":"picture",
+"name":"图片 5"
+},
+{
+"t":"p",
+"text":"Independent Power Supply Cooling Duct"
+},
+{
+"t":"p",
+"text":"Independent Power Supply Cooling Duct"
+},
+{
+"t":"p",
+"text":"Front Panel Cooling Duct"
+},
+{
+"t":"p",
+"text":"Switching Engine"
+},
+{
+"t":"p",
+"text":"01"
+},
+{
+"t":"p",
+"text":"Support isolation of hot and cold air ducts to improve heat dissipation efficiency.\nSupports intelligent fan speed adjustment and real-time power consumption detection to create a green data center."
+},
+{
+"t":"p",
+"text":"Front and Rear Air Duct Design\nEnergy Efficient"
+}
+],
+"notes":""
+},
+{
+"n":7,
+"items":[
+{
+"t":"p",
+"text":"Highlights"
+},
+{
+"t":"p",
+"text":"02"
+},
+{
+"t":"p",
+"text":"High Scalability"
+},
+{
+"t":"p",
+"text":"Spine-leaf architecture, flexible and easy to expand.\nVxLAN/EVPN realizes elastic expansion of service virtualization and ‘Large Layer-2 Network‘."
+},
+{
+"t":"p",
+"text":"High Performance"
+},
+{
+"t":"p",
+"text":"Low latency & Lossless"
+},
+{
+"t":"p",
+"text":"High Reliability"
+},
+{
+"t":"p",
+"text":"Smart Operation & Mgmt."
+},
+{
+"t":"p",
+"text":"Security Control"
+},
+{
+"t":"p",
+"text":"High density, high speed(100G/ 400G ).\nPowerful cache capacity ensuring unblocking transmission."
+},
+{
+"t":"p",
+"text":"M-LAG technology implements dual uplink load sharing and improves network reliability.\nECMP Resilient Hash for multipath load balancing.\nDual power and N+1 Hot-Swappable redundant fan , ensuring service continuity"
+},
+{
+"t":"p",
+"text":"Supports RoCE v2 low-latency network.\nPFC flow control, ECN congestion control, buffer dynamic management to achieve network optimization."
+},
+{
+"t":"p",
+"text":"Telemetry-based network monitoring and smart O&M, making network management more efficient and accurate."
+},
+{
+"t":"p",
+"text":"DoS attack prevention, validity check of port ARP packets and multiple hardware-based ACL policies guarantees secure and reliable network."
+}
+],
+"notes":""
+},
+{
+"n":8,
+"items":[
+{
+"t":"p",
+"text":"UNPOS Architecture and Core Strengths"
+},
+{
+"t":"p",
+"text":"02"
+},
+{
+"t":"p",
+"text":"Hardware"
+},
+{
+"t":"p",
+"text":"Kernel"
+},
+{
+"t":"p",
+"text":"Driver"
+},
+{
+"t":"p",
+"text":"SDK"
+},
+{
+"t":"p",
+"text":"L2"
+},
+{
+"t":"p",
+"text":"L3"
+},
+{
+"t":"p",
+"text":"ACL"
+},
+{
+"t":"p",
+"text":"QoS"
+},
+{
+"t":"p",
+"text":"VxLAN"
+},
+{
+"t":"p",
+"text":"MPLS"
+},
+{
+"t":"p",
+"text":"Telemetry"
+},
+{
+"t":"p",
+"text":"Reliability"
+},
+{
+"t":"p",
+"text":"Security"
+},
+{
+"t":"p",
+"text":"UNPOS"
+},
+{
+"t":"picture",
+"name":"图形 21"
+},
+{
+"t":"picture",
+"name":"图形 24"
+},
+{
+"t":"picture",
+"name":"图形 35"
+},
+{
+"t":"picture",
+"name":"图形 41"
+},
+{
+"t":"p",
+"text":"Advanced modular architecture, high cohesion, low coupling, and high reliability\nEclipse, pycharm automated test script, and the number of test items in the test case library reaches 2300 +"
+},
+{
+"t":"p",
+"text":"Supports OEM/ODM"
+},
+{
+"t":"p",
+"text":"CLI style is similar to Cisco"
+},
+{
+"t":"p",
+"text":"Independent R&D Capability"
+},
+{
+"t":"p",
+"text":"Flexible Customization"
+},
+{
+"t":"p",
+"text":"Fully Functional"
+},
+{
+"t":"p",
+"text":"Complete switching and routing capabilities, 1000 + software feature"
+},
+{
+"t":"p",
+"text":"Easy To Use"
+}
+],
+"notes":""
+},
+{
+"n":9,
+"items":[
+{
+"t":"p",
+"text":"Enterprise-SME Data Center Network"
+},
+{
+"t":"p",
+"text":"03"
+},
+{
+"t":"picture",
+"name":"图片 243"
+},
+{
+"t":"picture",
+"name":"图片 244"
+},
+{
+"t":"picture",
+"name":"图片 246"
+},
+{
+"t":"picture",
+"name":"图片 247"
+},
+{
+"t":"p",
+"text":"Server"
+},
+{
+"t":"picture",
+"name":"图片 266"
+},
+{
+"t":"picture",
+"name":"图片 267"
+},
+{
+"t":"picture",
+"name":"图片 268"
+},
+{
+"t":"picture",
+"name":"图片 269"
+},
+{
+"t":"picture",
+"name":"图片 272"
+},
+{
+"t":"p",
+"text":"Server"
+},
+{
+"t":"picture",
+"name":"图片 281"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"p",
+"text":"WAN"
+},
+{
+"t":"picture",
+"name":"Picture 174"
+},
+{
+"t":"picture",
+"name":"Picture 175"
+},
+{
+"t":"picture",
+"name":"Picture 177"
+},
+{
+"t":"picture",
+"name":"Picture 178"
+},
+{
+"t":"p",
+"text":"Internet"
+},
+{
+"t":"picture",
+"name":"图片 298"
+},
+{
+"t":"picture",
+"name":"图片 299"
+},
+{
+"t":"p",
+"text":"Network Architecture"
+},
+{
+"t":"p",
+"text":"Spine"
+},
+{
+"t":"p",
+"text":"Leaf"
+},
+{
+"t":"p",
+"text":"2"
+},
+{
+"t":"p",
+"text":"1"
+},
+{
+"t":"p",
+"text":"Solution Highlights"
+},
+{
+"t":"p",
+"text":"High density, large bandwidth: 10G/25G/100G\nHigh reliability: The TOR switch and the server node use 10G/25G to achieve interconnection, and M-LAG improves network reliability.\nLoad balancing: Spine-Leaf is fully cross-connected, and multi-path load balancing is implemented through ECMP to improve the uniform distribution of Hash."
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"p",
+"text":"Server"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"p",
+"text":"Recommended Products"
+},
+{
+"t":"p",
+"text":"1"
+},
+{
+"t":"p",
+"text":"RZ-6500    48*25G+6*100G\nRZ-6500    48*25G+8*100G\nRZ-6500    24*10G+6*100G\nRZ-6500    48*10G+6*100G"
+},
+{
+"t":"p",
+"text":"2"
+},
+{
+"t":"p",
+"text":"RZ-6500    32*100G"
+},
+{
+"t":"picture",
+"name":"图片 352"
+},
+{
+"t":"picture",
+"name":"图片 353"
+},
+{
+"t":"p",
+"text":"Application Industry"
+},
+{
+"t":"picture",
+"name":"图片 355"
+},
+{
+"t":"p",
+"text":"Pharmaceutical"
+},
+{
+"t":"picture",
+"name":"图片 357"
+},
+{
+"t":"p",
+"text":"Building Materials"
+},
+{
+"t":"picture",
+"name":"图片 361"
+},
+{
+"t":"p",
+"text":"Paper"
+},
+{
+"t":"picture",
+"name":"图片 363"
+},
+{
+"t":"p",
+"text":"Food"
+},
+{
+"t":"p",
+"text":"10G/25G"
+},
+{
+"t":"p",
+"text":"100G"
+}
+],
+"notes":""
+},
+{
+"n":10,
+"items":[
+{
+"t":"p",
+"text":"Enterprise-Hyper-converged Data Center Network"
+},
+{
+"t":"p",
+"text":"03"
+},
+{
+"t":"picture",
+"name":"Picture 147"
+},
+{
+"t":"picture",
+"name":"Picture 154"
+},
+{
+"t":"picture",
+"name":"Picture 155"
+},
+{
+"t":"p",
+"text":"Spine"
+},
+{
+"t":"p",
+"text":"..."
+},
+{
+"t":"p",
+"text":"Internet"
+},
+{
+"t":"picture",
+"name":"Picture 40"
+},
+{
+"t":"picture",
+"name":"Picture 40"
+},
+{
+"t":"p",
+"text":"HCI\nServer"
+},
+{
+"t":"p",
+"text":"HCI\nServer"
+},
+{
+"t":"p",
+"text":"TOR"
+},
+{
+"t":"p",
+"text":"HCI\nServer"
+},
+{
+"t":"p",
+"text":"HCI\nServer"
+},
+{
+"t":"p",
+"text":"HCI\nServer"
+},
+{
+"t":"p",
+"text":"HCI\nServer"
+},
+{
+"t":"p",
+"text":"HCI\nServer"
+},
+{
+"t":"p",
+"text":"HCI\nServer"
+},
+{
+"t":"p",
+"text":"..."
+},
+{
+"t":"p",
+"text":"..."
+},
+{
+"t":"p",
+"text":"..."
+},
+{
+"t":"p",
+"text":"..."
+},
+{
+"t":"p",
+"text":"1"
+},
+{
+"t":"p",
+"text":"2"
+},
+{
+"t":"p",
+"text":"Application Industry"
+},
+{
+"t":"p",
+"text":"Network Architecture"
+},
+{
+"t":"p",
+"text":"Easy to extend: Spine-Leaf two-layer topology.\nHigh density, large bandwidth: 10G/25G/100G\nHigh reliability: TOR switch and HCI server nodes are usually interconnected by 10G/25G, and M-LAG improves network reliability.\n“Large Layer 2 Network”: VxLAN/EVPN realizes DC Layer 2 interconnection to meet virtual machine migration."
+},
+{
+"t":"p",
+"text":"Solution Highlights"
+},
+{
+"t":"picture",
+"name":"图片 379"
+},
+{
+"t":"p",
+"text":"HCI Node 1"
+},
+{
+"t":"p",
+"text":"HCI Node 2"
+},
+{
+"t":"p",
+"text":"Manage"
+},
+{
+"t":"p",
+"text":"Business"
+},
+{
+"t":"p",
+"text":"Storage"
+},
+{
+"t":"picture",
+"name":"图片 423"
+},
+{
+"t":"picture",
+"name":"图片 424"
+},
+{
+"t":"picture",
+"name":"图片 425"
+},
+{
+"t":"picture",
+"name":"图片 426"
+},
+{
+"t":"picture",
+"name":"图片 427"
+},
+{
+"t":"picture",
+"name":"图片 428"
+},
+{
+"t":"picture",
+"name":"图片 429"
+},
+{
+"t":"picture",
+"name":"图片 430"
+},
+{
+"t":"picture",
+"name":"图片 431"
+},
+{
+"t":"picture",
+"name":"图片 432"
+},
+{
+"t":"p",
+"text":"1"
+},
+{
+"t":"p",
+"text":"RZ-6500    48*25G+6*100G\nRZ-6500    48*25G+8*100G\nRZ-6500    24*10G+6*100G\nRZ-6500    48*10G+6*100G"
+},
+{
+"t":"p",
+"text":"RZ-6500   32*100G"
+},
+{
+"t":"picture",
+"name":"图片 433"
+},
+{
+"t":"picture",
+"name":"图片 434"
+},
+{
+"t":"p",
+"text":"Recommended Products"
+},
+{
+"t":"p",
+"text":"2"
+},
+{
+"t":"picture",
+"name":"图片 436"
+},
+{
+"t":"picture",
+"name":"图片 437"
+},
+{
+"t":"picture",
+"name":"图片 441"
+},
+{
+"t":"p",
+"text":"Finance"
+},
+{
+"t":"picture",
+"name":"图片 443"
+},
+{
+"t":"p",
+"text":"Municipal"
+},
+{
+"t":"picture",
+"name":"图片 447"
+},
+{
+"t":"p",
+"text":"Internet"
+},
+{
+"t":"p",
+"text":"Petrochemical"
+},
+{
+"t":"p",
+"text":"10G/25G"
+},
+{
+"t":"p",
+"text":"100G"
+},
+{
+"t":"p",
+"text":"Manufacturing"
+}
+],
+"notes":""
+},
+{
+"n":11,
+"items":[
+{
+"t":"p",
+"text":"Enterprise-Cloud Storage Data Center Network"
+},
+{
+"t":"p",
+"text":"03"
+},
+{
+"t":"p",
+"text":"Application Industry"
+},
+{
+"t":"p",
+"text":"Network Architecture"
+},
+{
+"t":"p",
+"text":"Easy to scale: The storage network uses a Spine-Leaf two-layer topology.\nHigh density, large bandwidth: 10G/100G\nHigh reliability: Video data network core switches are stacked to improve service reliability. The TOR switch and the cloud storage server node are usually interconnected by 1G/10G, and M-LAG improves network reliability."
+},
+{
+"t":"p",
+"text":"Solution Highlights"
+},
+{
+"t":"picture",
+"name":"图片 436"
+},
+{
+"t":"picture",
+"name":"图片 443"
+},
+{
+"t":"p",
+"text":"Municipal"
+},
+{
+"t":"p",
+"text":"Smart Factory"
+},
+{
+"t":"p",
+"text":"Server"
+},
+{
+"t":"p",
+"text":"TOR"
+},
+{
+"t":"p",
+"text":"Core Switch"
+},
+{
+"t":"p",
+"text":"..."
+},
+{
+"t":"p",
+"text":"..."
+},
+{
+"t":"p",
+"text":"..."
+},
+{
+"t":"p",
+"text":"..."
+},
+{
+"t":"picture",
+"name":"图片 503"
+},
+{
+"t":"picture",
+"name":"图片 504"
+},
+{
+"t":"picture",
+"name":"图片 505"
+},
+{
+"t":"picture",
+"name":"图片 506"
+},
+{
+"t":"picture",
+"name":"图片 507"
+},
+{
+"t":"picture",
+"name":"图片 508"
+},
+{
+"t":"picture",
+"name":"图片 509"
+},
+{
+"t":"picture",
+"name":"图片 510"
+},
+{
+"t":"picture",
+"name":"图片 191"
+},
+{
+"t":"picture",
+"name":"图片 192"
+},
+{
+"t":"picture",
+"name":"图片 225"
+},
+{
+"t":"picture",
+"name":"图片 226"
+},
+{
+"t":"p",
+"text":"Server"
+},
+{
+"t":"p",
+"text":"DN"
+},
+{
+"t":"p",
+"text":"DN"
+},
+{
+"t":"p",
+"text":"DN"
+},
+{
+"t":"p",
+"text":"DN"
+},
+{
+"t":"p",
+"text":"DN"
+},
+{
+"t":"p",
+"text":"DN"
+},
+{
+"t":"p",
+"text":"North-South Data Flow"
+},
+{
+"t":"p",
+"text":"Video Data Network"
+},
+{
+"t":"p",
+"text":"East-West"
+},
+{
+"t":"p",
+"text":"Business Network"
+},
+{
+"t":"p",
+"text":"Storage Network"
+},
+{
+"t":"picture",
+"name":"图片 451"
+},
+{
+"t":"picture",
+"name":"图片 492"
+},
+{
+"t":"p",
+"text":"Rail Transit"
+},
+{
+"t":"p",
+"text":"Public Security"
+},
+{
+"t":"p",
+"text":"1"
+},
+{
+"t":"p",
+"text":"2"
+},
+{
+"t":"p",
+"text":"3"
+},
+{
+"t":"p",
+"text":"1"
+},
+{
+"t":"p",
+"text":"RZ-6500       32*100G"
+},
+{
+"t":"p",
+"text":"2"
+},
+{
+"t":"p",
+"text":"RZ-6500        24/48*10G+6*100G"
+},
+{
+"t":"p",
+"text":"Recommended Products"
+},
+{
+"t":"p",
+"text":"3"
+},
+{
+"t":"p",
+"text":"RZ7000          3/4/8 business card optional，24GE SFP+24GE，48GE，48GE SFP，24GE SFP+8 SFP+，24GE+8 SFP+，16 SFP+，4 40G QSFP"
+},
+{
+"t":"p",
+"text":"100G"
+},
+{
+"t":"p",
+"text":"10G"
+},
+{
+"t":"p",
+"text":"10G"
+},
+{
+"t":"p",
+"text":"10G"
+}
+],
+"notes":""
+},
+{
+"n":12,
+"items":[
+{
+"t":"p",
+"text":"Enterprise-Large Scale Data Center Network"
+},
+{
+"t":"p",
+"text":"03"
+},
+{
+"t":"picture",
+"name":"图片 393"
+},
+{
+"t":"picture",
+"name":"图片 394"
+},
+{
+"t":"picture",
+"name":"图片 395"
+},
+{
+"t":"picture",
+"name":"图片 396"
+},
+{
+"t":"picture",
+"name":"图片 397"
+},
+{
+"t":"picture",
+"name":"图片 398"
+},
+{
+"t":"picture",
+"name":"图片 416"
+},
+{
+"t":"picture",
+"name":"图片 417"
+},
+{
+"t":"picture",
+"name":"图片 418"
+},
+{
+"t":"picture",
+"name":"图片 419"
+},
+{
+"t":"picture",
+"name":"图片 422"
+},
+{
+"t":"picture",
+"name":"图片 431"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"p",
+"text":"WAN"
+},
+{
+"t":"p",
+"text":"DMZ"
+},
+{
+"t":"picture",
+"name":"Picture 174"
+},
+{
+"t":"picture",
+"name":"Picture 175"
+},
+{
+"t":"picture",
+"name":"Picture 177"
+},
+{
+"t":"picture",
+"name":"Picture 178"
+},
+{
+"t":"picture",
+"name":"Picture 234"
+},
+{
+"t":"picture",
+"name":"Picture 235"
+},
+{
+"t":"p",
+"text":"Internet"
+},
+{
+"t":"picture",
+"name":"图片 448"
+},
+{
+"t":"picture",
+"name":"图片 449"
+},
+{
+"t":"p",
+"text":"Network Architecture"
+},
+{
+"t":"p",
+"text":"POD1"
+},
+{
+"t":"p",
+"text":"POD N"
+},
+{
+"t":"p",
+"text":"2"
+},
+{
+"t":"p",
+"text":"1"
+},
+{
+"t":"p",
+"text":"Solution Highlights"
+},
+{
+"t":"p",
+"text":"Supports RoCE v2 low-latency network.\nPFC flow control, ECN congestion control, buffer dynamic management to achieve network optimization.\nHigh density, high speed(100G/ 400G ).\nVxLAN/EVPN realizes elastic expansion of service virtualization and ‘Large Layer-2 Network‘."
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"picture",
+"name":"图片 500"
+},
+{
+"t":"picture",
+"name":"图片 501"
+},
+{
+"t":"picture",
+"name":"图片 511"
+},
+{
+"t":"picture",
+"name":"图片 512"
+},
+{
+"t":"picture",
+"name":"图片 513"
+},
+{
+"t":"picture",
+"name":"图片 514"
+},
+{
+"t":"picture",
+"name":"图片 517"
+},
+{
+"t":"picture",
+"name":"图片 526"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"picture",
+"name":"Picture 42"
+},
+{
+"t":"p",
+"text":"..."
+},
+{
+"t":"p",
+"text":"Recommended Products"
+},
+{
+"t":"p",
+"text":"1"
+},
+{
+"t":"p",
+"text":"RZ-6500    48*25G+6*100G\nRZ-6500    48*25G+8*100G"
+},
+{
+"t":"p",
+"text":"2"
+},
+{
+"t":"p",
+"text":"RZ-6500   32*100G"
+},
+{
+"t":"picture",
+"name":"图片 567"
+},
+{
+"t":"picture",
+"name":"图片 568"
+},
+{
+"t":"p",
+"text":"Application Industry"
+},
+{
+"t":"picture",
+"name":"图片 570"
+},
+{
+"t":"picture",
+"name":"图片 576"
+},
+{
+"t":"picture",
+"name":"图片 578"
+},
+{
+"t":"picture",
+"name":"图片 582"
+},
+{
+"t":"p",
+"text":"Internet"
+},
+{
+"t":"p",
+"text":"Server"
+},
+{
+"t":"p",
+"text":"Server"
+},
+{
+"t":"p",
+"text":"Municipal"
+},
+{
+"t":"p",
+"text":"Smart Factory"
+},
+{
+"t":"p",
+"text":"Finance"
+}
+],
+"notes":""
+},
+{
+"n":13,
+"items":[
+{
+"t":"p",
+"text":"关注优力普，了解更多资讯"
+},
+{
+"t":"p",
+"text":"中文官网"
+},
+{
+"t":"picture",
+"name":"图片 41"
+},
+{
+"t":"p",
+"text":"公众号"
+},
+{
+"t":"picture",
+"name":"图片 45"
+},
+{
+"t":"p",
+"text":"抖音号"
+},
+{
+"t":"picture",
+"name":"图片 50"
+},
+{
+"t":"p",
+"text":"THANKS"
+},
+{
+"t":"p",
+"text":"安全·稳定·与众不同"
+}
+],
+"notes":""
+}
+],
+"extracted_at":"2026-10-23T05:14:04Z"
+}

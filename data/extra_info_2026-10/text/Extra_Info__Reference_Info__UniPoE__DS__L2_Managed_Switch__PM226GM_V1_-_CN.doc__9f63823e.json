@@ -1,0 +1,858 @@
+{
+"id":"Extra_Info__Reference_Info__UniPoE__DS__L2_Managed_Switch__PM226GM_V1_-_CN.doc__9f63823e",
+"path":"Extra_Info/Reference Info/UniPoE/DS/L2 Managed Switch/PM226GM V1 - CN.doc",
+"name":"PM226GM V1 - CN.doc",
+"ext":".doc",
+"bytes":1385472,
+"sha256":"9f63823e7a6c918f4d4de9e0bad45a9179bf66fdb2de68dfe2663b179fa9f8d0",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:19:00+00:00",
+"paragraphs":16,
+"tables":3,
+"embedded_images":4
+},
+"warnings":[],
+"chars":5386,
+"text":"产品概述\nPM226GM V1为优力普自主研发的以太网全光纤管理型交换机, 具有16个1000Mbps SFP光纤模块插槽，8个10/100/1000Mbps RJ45端口和2个独立SFP光纤模块插槽。采取存储转发技术与结合动态内存分配，来确保带宽有效的分配到每一个端口，支持静态路由功能，提供完备的安全策略以及完善QoS策略，前面的Console端口方便管理维护，满足企业、小区、酒店、办公网及园区网的组网接入要求。\n产品特点\n符合IEEE802.3, IEEE802.3u, IEEE802.3ab, IEEE802.3z, IEEE802.3x标准；\nRJ45支持端口自动翻转（Auto MDI/MDIX）；\n面板灯监控工作状态，协助故障分析；\n支持IEEE802.3x 全双工流控和Backpressure 半双工流控；\n支持以太网节能(EEE)功能(IEEE802.3az)；\n高可靠性设计，支持传统的STP/MSTP/RSTP 2层链路保护技术；\n支持静态汇聚和动态汇聚（LACP）两种汇聚模式，有效增加链路带宽，提高链路的可靠性，同时可以实现负载均衡、链路备份；\n支持Console、Telnet、SSH、Web多种管理方式，简单高效，便于工程及维护人员的安装调试，支持TFTP方式的文件上传与下载管理；\n数据交换采用存储转发方式并且线速转发可以智能识别。\n产品规格\n硬件功能\n产品名\tPM226GM V1\n标准\tIEEE 802.3、IEEE 802.3u、IEEE 802.3ab、IEEE 802.3z、IEEE 802.3x、IEEE 802.1x、IEEE 802.1q、IEEE 802.1p、IEEE 802.1d 、IEEE 802.1w、IEEE 802.3ad\n接口\t16*1000Mbps SFP光纤扩展插槽 / 8*10/100/1000Mbps RJ45端口 / 2*1000Mbps SFP独立光纤插槽 / 1个Console口\n指示灯\tPWR（绿色）、 LNK/ACT（绿色）、 SYS（绿色）\n网络介质（线缆）\t10BASE-T: UTP category 3,4,5 cable（≤100m） / 100BASE-TX: UTP category 5, 5e cable（≤100m） / 1000BASE-T: UTP category 5e, 5 cable（≤100m） / 1000BASE-X: MMF, SMF\nMAC地址表\t8K，自动学习，自动更新\n巨型帧\t10000Bytes\n传输模式\t存储转发\n包转发率\t38.69Mpps\n交换容量\t52Gbps\n包缓存\t4.1Mbit\n尺寸(L*W*H)\t280*180*44mm\n静音风扇\t1个\n绿色节能\t支持IEEE（802.3az）\n防雷等级\t共模±4KV 差模±2KV\n静电标准\t接触±6KV 空气±8KV\n输入电源\t100-240V/AC 50/60Hz\n工作温度\t0°C ~ +40 °C\n存储温度\t-40 °C ~ +70 °C\n工作湿度\t10% ~ 90% 无凝结\n存储湿度\t5% ~ 90% 无凝结\n平均故障间隔时间\t>100000小时\n软件功能\nL2功能\nMAC Address Table\tMAC地址大小\nMAC Address Table\tMAC 老化时间\nMAC Address Table\tMAC过滤\nMAC Address Table\tMAC通知\nBasic Management\tConsole/Telnet/SSH\nBasic Management\tHttp/Https、SSL/TLS\nBasic Management\tFTP/TFTP\nBasic Management\t系统日志\nBasic Management\tSNMP(v1/v2c/v3)、SNMP Trap\nBasic Management\tSNTP(Simple Network Time Protocol)/NTP(Network Time Protocol)\nBasic Management\tCPU 保护\nBasic Management\t软件/硬件看门狗\nBasic Management\t固件升级/备份\nBasic Management\tPing/Traceroute\nPort Config\t带宽控制\nPort Config\t流控制\nPort Config\t高效节能以太网(Energy Efficient Ethernet)\nPort Config\t最大传输单元(Maximum Transmission Unit)\nPort Config\t连接性故障管理(Connectivity Fault Management)\nPort Config\tEFM(Ethernet in the First Mile) / OAM操作维护管理（Operation Administration and Maintenance）\nPort Config\t光模块数字诊断(Digital Diagnostic Monitoring)\nPort Config\t风暴控制\nPort Config\t端口隔离\nPort Config\t端口安全\nPort Config\t虚拟电缆测试\nPort Config\t单向链路检测协议(Unidirectional Link Detection Protocol)\nDiscovery\t链路层发现协议(Link Layer Discovery Protocol)\nDiscovery\tLLDP-MED\nLink Aggregation\t静态链路聚合\nLink Aggregation\tLACP(Link Aggregation Control Protocol)\nLink Aggregation\t负载均衡\nLink Aggregation\t每个组的最大组数和端口数\nVLAN\tVLAN(802.1Q 4K)\nVLAN\tAccess/Trunk/Hybrid\nVLAN\t私有VLAN\nVLAN\tVLAN过滤\nVLAN\t基于MAC地址VLAN\nVLAN\t基于协议VLAN\nVLAN\t基于IP子网VLAN\nVLAN\t语音VLAN\nVLAN\tGARP VLAN 注册协议(GARP VLAN Registration Protocol)/ / GARP 组播 注册协议(GARP Multicast Registration Protocol)\nVLAN\tQinQ\nVLAN\tVLAN映射\nVLAN\tGuest VLAN\nNetwork Loop Detection\t环路检测\nNetwork Loop Detection\t以太网多环保护技术(Ethernet Ring Protection Switching)\nSpanning Tree\t生成树协议\nSpanning Tree\tMSTP支持64实例\nSpanning Tree\tBPDU保护/Root保护/BPDU隧道\nARP\t静态ARP\nARP\t防止ARP扫描\nARP\t防止ARP欺骗\nARP\tARP保护\nARP\t免费ARP\nARP\t动态ARP检查\nARP\tARP数量控制\nIPv4相关功能\nICMP\t反ICMP攻击\nICMP\tICMP速率限制\nICMP\tICMP Unreachable Drop\nIP Forward\t静态路由\nIP Forward\t路由聚合\nControl Multicast\t目的控制和源控制组播(Destination Control and Source Control Multicast)\nMulticast VALN\t组播VLAN\nIGMP\tIGMP(Internet Group Management Protocol Snooping)V1/V2/V3\nIGMP\tIGMP快速离开\nIGMP\tIGMP代理\nDHCP\tDHCP服务器\nDHCP\tDHCP客户端/BOOTP\nDHCP\tDHCP中继\nDHCP\tDHCP Snooping\nDHCP\tDHCP选项 82/43/60/61/67\nIPv6相关功能\nIPv6 Basic\tIPv6 ND Snooping\nDHCPv6\tDHCPv6服务器\nDHCPv6\tDHCPv6中继\nDHCPv6\tDHCPv6 窥探\nDHCPv6\tIPv6 SAVI(Source Address Validation Improvements)\nDHCPv6\tSecurity RA\nIPv6 Unicast Routing\t静态路由\nIPv6 Multicast Routing\tMLD(Multicast Listener Discovery Snooping)v1/V2\nIPv6 Features\tSNMP支持IPv6\nIPv6 Features\tHTTP支持IPv6\nIPv6 Features\tSSH支持IPv6\nIPv6 Features\tDNS支持IPv6\nIPv6 Features\tIPv6 ping/traceroute 支持\nIPv6 Features\tIPv6 Telnet 支持\nIPv6 Features\tIPv6 Radius+ 支持\nIPv6 Features\tIPv6 Tacacs+ 支持\nIPv6 Features\tIPv6 SNTP/NTP 支持\nIPv6 Features\tIPv6 FTP/TFTP 支持\nIPv6 Features\tIPv6 IPSec 支持\nIPv6 Features\tIPv6 ACL\n服务质量\nBasic\t信任COS/DSCP\nBasic\t信任端口\nScheduling\t严格优先级(Strict-Priority)\nScheduling\t加权轮询(Weighted Round Robin)\nScheduling\t加权赤字循环调度(Weighted Deficit Round Robin)\nPolicyMap Stream\t基于VLAN\nPolicyMap Stream\t基于COS/DSCP\nPolicyMap Stream\t聚合策略映射\nPolicyMap Stream\t入口策略映射\nPolicing\t车流整形(泄漏算法)\nPolicing\t流量限制\nRewrite\tCOS/802.1p 优先级\nRewrite\tIP优先级\nRewrite\tIPv4 DSCP/IPv6 DSCP\nRewrite\t丢弃优先级\nRewrite\t内部优先级\nRewrite\t入口/出口重定向\nQueuing\tDSCP到DSCP映射\nQueuing\tDSCP到DP映射\nQueuing\tDSCP到Queue映射\nQueuing\tCOS到DP映射\nQueuing\tCOS到Queue映射\n访问控制列表\nIP-ACL\t源IP/目的IP(Source IP/Destination IP)\nIP-ACL\tIP 协议\nIP-ACL\tIP 优先级(DSCP,TOS, Precedence)\nIP-ACL\tTCP,UDP 源,目的 端口\nMAC-ACL\t源/目的 MAC\nMAC-ACL\tVLAN\nMAC-ACL\tCOS\nMAC-ACL\t标签/不带标签\nIP-MAC ACL\tMAC-ACL 和 IP-ACL\nUser-defined ACL\t基于用户定义的配置文件\nACL Features\t基于时段ACL\nACL Features\tVLAN上的ACL\nACL Features\t基于ACL流\n安全\n802.1x\t基于端口的身份验证\n802.1x\t支持EAPoR\n802.1x\t基于MAC的身份验证\n802.1x\tGuest VLAN\nMAB\t基于端口的身份验证\nMAB\t基于MAC的身份验证\nMAC Address Count Limit\t基于端口\nMAC Address Count Limit\t基于VLAN\nIP Address Count Limit\t基于端口\nIP Address Count Limit\t基于VLAN\nAccess Management\t基于源MAC和IP地址\nDeny DoS Attack\tTCP标志位\nDeny DoS Attack\tTCP标记\nDeny DoS Attack\tIP段\nDeny DoS Attack\tICMP\nTACACS+\tTACACS+\nRadius\tRadius\nRadius\t客户端，支持MD5\nSSL\tOpenssl 1.1.0\n冗余相关功能\nMRPP\t兼容ERRP\nULPP\t上行保护协议\nULPP\t智能链路/监听链路\nULSM\t上行状态监视器\n流量监视功能\nMirror\t支持一对一，多对一\nMirror\t基于端口的镜像，支持入口、出口和两者都支持\nMirror\t基于CPU的镜像\nMirror\t基于流的镜像\nMirror\t远程端口镜像\n订购信息\n产品名\t产品信息\nPM226GM V1\t16G SFP+8GE+2G SFP 以太网全光纤管理型交换机\n[文本框]\nPM226GM V1以太网全光纤管理型交换机",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"产品概述"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PM226GM V1为优力普自主研发的以太网全光纤管理型交换机, 具有16个1000Mbps SFP光纤模块插槽，8个10/100/1000Mbps RJ45端口和2个独立SFP光纤模块插槽。采取存储转发技术与结合动态内存分配，来确保带宽有效的分配到每一个端口，支持静态路由功能，提供完备的安全策略以及完善QoS策略，前面的Console端口方便管理维护，满足企业、小区、酒店、办公网及园区网的组网接入要求。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"产品特点"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"符合IEEE802.3, IEEE802.3u, IEEE802.3ab, IEEE802.3z, IEEE802.3x标准；"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"RJ45支持端口自动翻转（Auto MDI/MDIX）；"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"面板灯监控工作状态，协助故障分析；"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"支持IEEE802.3x 全双工流控和Backpressure 半双工流控；"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"支持以太网节能(EEE)功能(IEEE802.3az)；"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"高可靠性设计，支持传统的STP/MSTP/RSTP 2层链路保护技术；"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"支持静态汇聚和动态汇聚（LACP）两种汇聚模式，有效增加链路带宽，提高链路的可靠性，同时可以实现负载均衡、链路备份；"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"支持Console、Telnet、SSH、Web多种管理方式，简单高效，便于工程及维护人员的安装调试，支持TFTP方式的文件上传与下载管理；"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"数据交换采用存储转发方式并且线速转发可以智能识别。"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"产品规格"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"硬件功能"
+},
+{
+"t":"table",
+"rows":[
+[
+"产品名",
+"PM226GM V1"
+],
+[
+"标准",
+"IEEE 802.3、IEEE 802.3u、IEEE 802.3ab、IEEE 802.3z、IEEE 802.3x、IEEE 802.1x、IEEE 802.1q、IEEE 802.1p、IEEE 802.1d 、IEEE 802.1w、IEEE 802.3ad"
+],
+[
+"接口",
+"16*1000Mbps SFP光纤扩展插槽 / 8*10/100/1000Mbps RJ45端口 / 2*1000Mbps SFP独立光纤插槽 / 1个Console口"
+],
+[
+"指示灯",
+"PWR（绿色）、 LNK/ACT（绿色）、 SYS（绿色）"
+],
+[
+"网络介质（线缆）",
+"10BASE-T: UTP category 3,4,5 cable（≤100m） / 100BASE-TX: UTP category 5, 5e cable（≤100m） / 1000BASE-T: UTP category 5e, 5 cable（≤100m） / 1000BASE-X: MMF, SMF"
+],
+[
+"MAC地址表",
+"8K，自动学习，自动更新"
+],
+[
+"巨型帧",
+"10000Bytes"
+],
+[
+"传输模式",
+"存储转发"
+],
+[
+"包转发率",
+"38.69Mpps"
+],
+[
+"交换容量",
+"52Gbps"
+],
+[
+"包缓存",
+"4.1Mbit"
+],
+[
+"尺寸(L*W*H)",
+"280*180*44mm"
+],
+[
+"静音风扇",
+"1个"
+],
+[
+"绿色节能",
+"支持IEEE（802.3az）"
+],
+[
+"防雷等级",
+"共模±4KV 差模±2KV"
+],
+[
+"静电标准",
+"接触±6KV 空气±8KV"
+],
+[
+"输入电源",
+"100-240V/AC 50/60Hz"
+],
+[
+"工作温度",
+"0°C ~ +40 °C"
+],
+[
+"存储温度",
+"-40 °C ~ +70 °C"
+],
+[
+"工作湿度",
+"10% ~ 90% 无凝结"
+],
+[
+"存储湿度",
+"5% ~ 90% 无凝结"
+],
+[
+"平均故障间隔时间",
+">100000小时"
+]
+]
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"软件功能"
+},
+{
+"t":"table",
+"rows":[
+[
+"L2功能"
+],
+[
+"MAC Address Table",
+"MAC地址大小"
+],
+[
+"MAC Address Table",
+"MAC 老化时间"
+],
+[
+"MAC Address Table",
+"MAC过滤"
+],
+[
+"MAC Address Table",
+"MAC通知"
+],
+[
+"Basic Management",
+"Console/Telnet/SSH"
+],
+[
+"Basic Management",
+"Http/Https、SSL/TLS"
+],
+[
+"Basic Management",
+"FTP/TFTP"
+],
+[
+"Basic Management",
+"系统日志"
+],
+[
+"Basic Management",
+"SNMP(v1/v2c/v3)、SNMP Trap"
+],
+[
+"Basic Management",
+"SNTP(Simple Network Time Protocol)/NTP(Network Time Protocol)"
+],
+[
+"Basic Management",
+"CPU 保护"
+],
+[
+"Basic Management",
+"软件/硬件看门狗"
+],
+[
+"Basic Management",
+"固件升级/备份"
+],
+[
+"Basic Management",
+"Ping/Traceroute"
+],
+[
+"Port Config",
+"带宽控制"
+],
+[
+"Port Config",
+"流控制"
+],
+[
+"Port Config",
+"高效节能以太网(Energy Efficient Ethernet)"
+],
+[
+"Port Config",
+"最大传输单元(Maximum Transmission Unit)"
+],
+[
+"Port Config",
+"连接性故障管理(Connectivity Fault Management)"
+],
+[
+"Port Config",
+"EFM(Ethernet in the First Mile) / OAM操作维护管理（Operation Administration and Maintenance）"
+],
+[
+"Port Config",
+"光模块数字诊断(Digital Diagnostic Monitoring)"
+],
+[
+"Port Config",
+"风暴控制"
+],
+[
+"Port Config",
+"端口隔离"
+],
+[
+"Port Config",
+"端口安全"
+],
+[
+"Port Config",
+"虚拟电缆测试"
+],
+[
+"Port Config",
+"单向链路检测协议(Unidirectional Link Detection Protocol)"
+],
+[
+"Discovery",
+"链路层发现协议(Link Layer Discovery Protocol)"
+],
+[
+"Discovery",
+"LLDP-MED"
+],
+[
+"Link Aggregation",
+"静态链路聚合"
+],
+[
+"Link Aggregation",
+"LACP(Link Aggregation Control Protocol)"
+],
+[
+"Link Aggregation",
+"负载均衡"
+],
+[
+"Link Aggregation",
+"每个组的最大组数和端口数"
+],
+[
+"VLAN",
+"VLAN(802.1Q 4K)"
+],
+[
+"VLAN",
+"Access/Trunk/Hybrid"
+],
+[
+"VLAN",
+"私有VLAN"
+],
+[
+"VLAN",
+"VLAN过滤"
+],
+[
+"VLAN",
+"基于MAC地址VLAN"
+],
+[
+"VLAN",
+"基于协议VLAN"
+],
+[
+"VLAN",
+"基于IP子网VLAN"
+],
+[
+"VLAN",
+"语音VLAN"
+],
+[
+"VLAN",
+"GARP VLAN 注册协议(GARP VLAN Registration Protocol)/ / GARP 组播 注册协议(GARP Multicast Registration Protocol)"
+],
+[
+"VLAN",
+"QinQ"
+],
+[
+"VLAN",
+"VLAN映射"
+],
+[
+"VLAN",
+"Guest VLAN"
+],
+[
+"Network Loop Detection",
+"环路检测"
+],
+[
+"Network Loop Detection",
+"以太网多环保护技术(Ethernet Ring Protection Switching)"
+],
+[
+"Spanning Tree",
+"生成树协议"
+],
+[
+"Spanning Tree",
+"MSTP支持64实例"
+],
+[
+"Spanning Tree",
+"BPDU保护/Root保护/BPDU隧道"
+],
+[
+"ARP",
+"静态ARP"
+],
+[
+"ARP",
+"防止ARP扫描"
+],
+[
+"ARP",
+"防止ARP欺骗"
+],
+[
+"ARP",
+"ARP保护"
+],
+[
+"ARP",
+"免费ARP"
+],
+[
+"ARP",
+"动态ARP检查"
+],
+[
+"ARP",
+"ARP数量控制"
+],
+[
+"IPv4相关功能"
+],
+[
+"ICMP",
+"反ICMP攻击"
+],
+[
+"ICMP",
+"ICMP速率限制"
+],
+[
+"ICMP",
+"ICMP Unreachable Drop"
+],
+[
+"IP Forward",
+"静态路由"
+],
+[
+"IP Forward",
+"路由聚合"
+],
+[
+"Control Multicast",
+"目的控制和源控制组播(Destination Control and Source Control Multicast)"
+],
+[
+"Multicast VALN",
+"组播VLAN"
+],
+[
+"IGMP",
+"IGMP(Internet Group Management Protocol Snooping)V1/V2/V3"
+],
+[
+"IGMP",
+"IGMP快速离开"
+],
+[
+"IGMP",
+"IGMP代理"
+],
+[
+"DHCP",
+"DHCP服务器"
+],
+[
+"DHCP",
+"DHCP客户端/BOOTP"
+],
+[
+"DHCP",
+"DHCP中继"
+],
+[
+"DHCP",
+"DHCP Snooping"
+],
+[
+"DHCP",
+"DHCP选项 82/43/60/61/67"
+],
+[
+"IPv6相关功能"
+],
+[
+"IPv6 Basic",
+"IPv6 ND Snooping"
+],
+[
+"DHCPv6",
+"DHCPv6服务器"
+],
+[
+"DHCPv6",
+"DHCPv6中继"
+],
+[
+"DHCPv6",
+"DHCPv6 窥探"
+],
+[
+"DHCPv6",
+"IPv6 SAVI(Source Address Validation Improvements)"
+],
+[
+"DHCPv6",
+"Security RA"
+],
+[
+"IPv6 Unicast Routing",
+"静态路由"
+],
+[
+"IPv6 Multicast Routing",
+"MLD(Multicast Listener Discovery Snooping)v1/V2"
+],
+[
+"IPv6 Features",
+"SNMP支持IPv6"
+],
+[
+"IPv6 Features",
+"HTTP支持IPv6"
+],
+[
+"IPv6 Features",
+"SSH支持IPv6"
+],
+[
+"IPv6 Features",
+"DNS支持IPv6"
+],
+[
+"IPv6 Features",
+"IPv6 ping/traceroute 支持"
+],
+[
+"IPv6 Features",
+"IPv6 Telnet 支持"
+],
+[
+"IPv6 Features",
+"IPv6 Radius+ 支持"
+],
+[
+"IPv6 Features",
+"IPv6 Tacacs+ 支持"
+],
+[
+"IPv6 Features",
+"IPv6 SNTP/NTP 支持"
+],
+[
+"IPv6 Features",
+"IPv6 FTP/TFTP 支持"
+],
+[
+"IPv6 Features",
+"IPv6 IPSec 支持"
+],
+[
+"IPv6 Features",
+"IPv6 ACL"
+],
+[
+"服务质量"
+],
+[
+"Basic",
+"信任COS/DSCP"
+],
+[
+"Basic",
+"信任端口"
+],
+[
+"Scheduling",
+"严格优先级(Strict-Priority)"
+],
+[
+"Scheduling",
+"加权轮询(Weighted Round Robin)"
+],
+[
+"Scheduling",
+"加权赤字循环调度(Weighted Deficit Round Robin)"
+],
+[
+"PolicyMap Stream",
+"基于VLAN"
+],
+[
+"PolicyMap Stream",
+"基于COS/DSCP"
+],
+[
+"PolicyMap Stream",
+"聚合策略映射"
+],
+[
+"PolicyMap Stream",
+"入口策略映射"
+],
+[
+"Policing",
+"车流整形(泄漏算法)"
+],
+[
+"Policing",
+"流量限制"
+],
+[
+"Rewrite",
+"COS/802.1p 优先级"
+],
+[
+"Rewrite",
+"IP优先级"
+],
+[
+"Rewrite",
+"IPv4 DSCP/IPv6 DSCP"
+],
+[
+"Rewrite",
+"丢弃优先级"
+],
+[
+"Rewrite",
+"内部优先级"
+],
+[
+"Rewrite",
+"入口/出口重定向"
+],
+[
+"Queuing",
+"DSCP到DSCP映射"
+],
+[
+"Queuing",
+"DSCP到DP映射"
+],
+[
+"Queuing",
+"DSCP到Queue映射"
+],
+[
+"Queuing",
+"COS到DP映射"
+],
+[
+"Queuing",
+"COS到Queue映射"
+],
+[
+"访问控制列表"
+],
+[
+"IP-ACL",
+"源IP/目的IP(Source IP/Destination IP)"
+],
+[
+"IP-ACL",
+"IP 协议"
+],
+[
+"IP-ACL",
+"IP 优先级(DSCP,TOS, Precedence)"
+],
+[
+"IP-ACL",
+"TCP,UDP 源,目的 端口"
+],
+[
+"MAC-ACL",
+"源/目的 MAC"
+],
+[
+"MAC-ACL",
+"VLAN"
+],
+[
+"MAC-ACL",
+"COS"
+],
+[
+"MAC-ACL",
+"标签/不带标签"
+],
+[
+"IP-MAC ACL",
+"MAC-ACL 和 IP-ACL"
+],
+[
+"User-defined ACL",
+"基于用户定义的配置文件"
+],
+[
+"ACL Features",
+"基于时段ACL"
+],
+[
+"ACL Features",
+"VLAN上的ACL"
+],
+[
+"ACL Features",
+"基于ACL流"
+],
+[
+"安全"
+],
+[
+"802.1x",
+"基于端口的身份验证"
+],
+[
+"802.1x",
+"支持EAPoR"
+],
+[
+"802.1x",
+"基于MAC的身份验证"
+],
+[
+"802.1x",
+"Guest VLAN"
+],
+[
+"MAB",
+"基于端口的身份验证"
+],
+[
+"MAB",
+"基于MAC的身份验证"
+],
+[
+"MAC Address Count Limit",
+"基于端口"
+],
+[
+"MAC Address Count Limit",
+"基于VLAN"
+],
+[
+"IP Address Count Limit",
+"基于端口"
+],
+[
+"IP Address Count Limit",
+"基于VLAN"
+],
+[
+"Access Management",
+"基于源MAC和IP地址"
+],
+[
+"Deny DoS Attack",
+"TCP标志位"
+],
+[
+"Deny DoS Attack",
+"TCP标记"
+],
+[
+"Deny DoS Attack",
+"IP段"
+],
+[
+"Deny DoS Attack",
+"ICMP"
+],
+[
+"TACACS+",
+"TACACS+"
+],
+[
+"Radius",
+"Radius"
+],
+[
+"Radius",
+"客户端，支持MD5"
+],
+[
+"SSL",
+"Openssl 1.1.0"
+],
+[
+"冗余相关功能"
+],
+[
+"MRPP",
+"兼容ERRP"
+],
+[
+"ULPP",
+"上行保护协议"
+],
+[
+"ULPP",
+"智能链路/监听链路"
+],
+[
+"ULSM",
+"上行状态监视器"
+],
+[
+"流量监视功能"
+],
+[
+"Mirror",
+"支持一对一，多对一"
+],
+[
+"Mirror",
+"基于端口的镜像，支持入口、出口和两者都支持"
+],
+[
+"Mirror",
+"基于CPU的镜像"
+],
+[
+"Mirror",
+"基于流的镜像"
+],
+[
+"Mirror",
+"远程端口镜像"
+]
+]
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"订购信息"
+},
+{
+"t":"table",
+"rows":[
+[
+"产品名",
+"产品信息"
+],
+[
+"PM226GM V1",
+"16G SFP+8GE+2G SFP 以太网全光纤管理型交换机"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:19:00Z"
+}

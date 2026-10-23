@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-110GE__2.png__ff27ead5",
+"path":"Extra_Info/Hasivo/Industrial Ethernet_DONE/STI-110GE/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":3108246,
+"sha256":"ff27ead512a3ab4163dd121ab7084ca7aa98500924b443a778f5669b3d2172bf",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":2036,
+"height":946,
+"mode":"RGBA",
+"thumb_bytes":7764
+},
+"warnings":[],
+"chars":35,
+"text":"JaleAuoD elpaN IleUsnpul\nN\nel es er",
+"extracted_at":"2026-10-23T05:24:58Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-110GE__2.png__ff27ead5.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__工业管理类目__L2_PoE__STI-154GM-2BT__1.png__0162fae3",
+"path":"Extra_Info/Hasivo/待处理/工业管理类目/L2 PoE/STI-154GM-2BT/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":461897,
+"sha256":"0162fae3feb97d4f9850ef5a72daf62c2c5211a4d92a5844b2a25b90cc2b5d59",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1021,
+"height":365,
+"mode":"RGBA",
+"thumb_bytes":9107
+},
+"warnings":[],
+"chars":55,
+"text":"e\n8&\nPog console\nSwitch 4GE PoE+1G+1SFP\neo\n让 Industrial",
+"extracted_at":"2026-10-23T05:21:35Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__工业管理类目__L2_PoE__STI-154GM-2BT__1.png__0162fae3.jpg"
+}

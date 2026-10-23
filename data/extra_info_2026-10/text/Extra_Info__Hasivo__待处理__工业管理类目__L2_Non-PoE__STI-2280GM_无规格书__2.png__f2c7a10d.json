@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__工业管理类目__L2_Non-PoE__STI-2280GM_无规格书__2.png__f2c7a10d",
+"path":"Extra_Info/Hasivo/待处理/工业管理类目/L2 Non-PoE/STI-2280GM 无规格书/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":499715,
+"sha256":"f2c7a10dec7209c5830800741ac5638e9c9cb288a9950bd052e1244f45460860",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1047,
+"height":396,
+"mode":"RGBA",
+"thumb_bytes":8150
+},
+"warnings":[],
+"chars":55,
+"text":"SIZ+ 398\nUu211AS paseuew\nLink 一 Giga\nConsole\nIndustrial",
+"extracted_at":"2026-10-23T05:21:55Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__工业管理类目__L2_Non-PoE__STI-2280GM_无规格书__2.png__f2c7a10d.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Template__Alan_13048800964__CoW_Alan.psd__3dacc410",
+"path":"Extra_Info/Template/Alan 13048800964/CoW Alan.psd",
+"name":"CoW Alan.psd",
+"ext":".psd",
+"bytes":12926502,
+"sha256":"3dacc410c957870e2f979105c172b198a7c07d55e1b6afa4d56bfe75e7de0981",
+"source":"Extra_Info.zip",
+"method":"pillow(psd composite)",
+"status":"meta",
+"meta":{
+"format":"PSD",
+"width":2480,
+"height":3508,
+"mode":"RGB",
+"thumb_bytes":16341
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:20:27Z",
+"thumb":"thumbs/Extra_Info__Template__Alan_13048800964__CoW_Alan.psd__3dacc410.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆2光24__1.png__c1ab7e62",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/千兆2光24/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":1122195,
+"sha256":"c1ab7e62db268967190829fc1eaa712fde62e9139718ec3d8d9643f0fa28d398",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":3284,
+"height":504,
+"mode":"RGBA",
+"thumb_bytes":4007
+},
+"warnings":[],
+"chars":136,
+"text":"3 5 7 Hoo Tee oe : : :\nGigabit PoE Switch\nUnmanaged 24GE+2SFP.\nVLAN ¥ ]\nNomi CENK i naa\niz 4 6 8 40 12 14 16 18 20 22 24\n2 25-SFP 26-SFP",
+"extracted_at":"2026-10-23T05:24:22Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆2光24__1.png__c1ab7e62.jpg"
+}

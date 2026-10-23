@@ -1,0 +1,117 @@
+{
+"id":"Extra_Info__Template__Miscellaneous_Fee.docx__bb21fea2",
+"path":"Extra_Info/Template/Miscellaneous Fee.docx",
+"name":"Miscellaneous Fee.docx",
+"ext":".docx",
+"bytes":397635,
+"sha256":"bb21fea29b6b363833b939c411e9e63ed589a66a05fec240d97b4a4d099b58a1",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2025-12-19T11:42:00+00:00",
+"modified":"2025-12-19T11:43:54+00:00",
+"paragraphs":18,
+"tables":0,
+"embedded_images":4
+},
+"warnings":[],
+"chars":1191,
+"text":"This covers most of small charges in an order.\nPVC mask\nMoQ: 300pcs, unit price: 1usd/pc\nExamples are:\nAn order less than 300pcs, lets say 50pcs\n50pcs will be consumed and 250pcs are left at the moment(Either ship them together with the purchased items or keep them in our warehouse for next orders)\nAn order over 300pcs, lets say 350pcs\nThen we could order an exact amount 350pcs for this order.\nThere will be none left.\nCOO(country of origin)\n15usd/EACH copy\nCustomer needs to go through the content, it is non-modifiable once confirmed.\nThis has to be exercised AT LEAST 2 working days before shipment.\nPlease let us know how we handle the copy(attach it on the outside or put it inside the box).\nTransaction Cost\n25usd for EACH T/T transfer whatever the invoice value is.\n5usd for every 100usd to PayPal a/c, this ratio is standard charge by PayPal\nIt is standard charge in EACH order.\n[页眉页脚]\n2026/Q1                                                                                                                                                         Saga Telecom\nwww.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"This covers most of small charges in an order."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PVC mask"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MoQ: 300pcs, unit price: 1usd/pc"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Examples are:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"An order less than 300pcs, lets say 50pcs"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"50pcs will be consumed and 250pcs are left at the moment(Either ship them together with the purchased items or keep them in our warehouse for next orders)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"An order over 300pcs, lets say 350pcs"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Then we could order an exact amount 350pcs for this order."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"There will be none left."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"COO(country of origin)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"15usd/EACH copy"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Customer needs to go through the content, it is non-modifiable once confirmed."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This has to be exercised AT LEAST 2 working days before shipment."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please let us know how we handle the copy(attach it on the outside or put it inside the box)."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Transaction Cost"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"25usd for EACH T/T transfer whatever the invoice value is."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"5usd for every 100usd to PayPal a/c, this ratio is standard charge by PayPal"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is standard charge in EACH order."
+}
+],
+"extracted_at":"2026-10-23T05:20:20Z"
+}

@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-240DGGE__2.png__95dcd0b7",
+"path":"Extra_Info/Hasivo/Industrial Ethernet_DONE/STI-240DGGE/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":433707,
+"sha256":"95dcd0b7289c894e19295e54474ad8770417778630a5b3a47a61c257c8758828",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1081,
+"height":377,
+"mode":"RGBA",
+"thumb_bytes":7373
+},
+"warnings":[],
+"chars":51,
+"text":"wo Im\n人 圖 圖\n【 fe\noc eo =\nIndustrial Switch\n4GE+2SFP",
+"extracted_at":"2026-10-23T05:24:35Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-240DGGE__2.png__95dcd0b7.jpg"
+}

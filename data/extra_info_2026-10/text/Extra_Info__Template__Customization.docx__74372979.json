@@ -1,0 +1,152 @@
+{
+"id":"Extra_Info__Template__Customization.docx__74372979",
+"path":"Extra_Info/Template/Customization.docx",
+"name":"Customization.docx",
+"ext":".docx",
+"bytes":612244,
+"sha256":"74372979179a985babb78ed23377a90d60f544a5171e30f7dd76eb990b9a15b4",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2025-12-19T11:38:00+00:00",
+"modified":"2025-12-19T11:39:01+00:00",
+"paragraphs":25,
+"tables":0,
+"embedded_images":6
+},
+"warnings":[],
+"chars":1628,
+"text":"Saga Telecom supports OEM services regarding management features and manufacturing.\nManagement Software\nShow customer’s logo/model on the management interface\nChange IP address\nMAC address\nSNMP, OID\nAbove changes are free of cost, see below an example of COMMON practices.\nPlease know that\nDiscussion is required for complex changes, meanwhile an NDA(Non-disclosure Agreement) contract will be agreed upon and signed to protect your benefits\nFont format&GUI color are NOT changeable for the management interface.\nManufacturing\nThis is mainly about PVC mask and involves cost.\nFor other small changes like power terminal block, mounting kit, panels..., it is USUALLY NOT required, our models enjoy an expert design.\nPVC mask\nMoQ: 300pcs, unit price: 1usd/pc\nExamples are:\nAn order less than 300pcs, lets say 50pcs\n50pcs will be consumed and 250pcs are left at the moment(Either ship them together with the purchased items or keep them in our warehouse for next orders)\nAn order over 300pcs, lets say 350pcs\nThen we could order an exact amount 350pcs for this order.\nThere will be none left.\nWe usually provide neutral devices for testing purpose.\nIt is better to discuss PVC mask customization when testing proves fine.\nFor some manufacturing changes like packing box, user manual...\nIt is supported and discussion is required.\n[页眉页脚]\n2026/Q1                                                                                                                                                         Saga Telecom\nwww.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom supports OEM services regarding management features and manufacturing."
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Management Software"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Show customer’s logo/model on the management interface"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Change IP address"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MAC address"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SNMP, OID"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Above changes are free of cost, see below an example of COMMON practices."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Discussion is required for complex changes, meanwhile an NDA(Non-disclosure Agreement) contract will be agreed upon and signed to protect your benefits"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Font format&GUI color are NOT changeable for the management interface."
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Manufacturing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is mainly about PVC mask and involves cost."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For other small changes like power terminal block, mounting kit, panels..., it is USUALLY NOT required, our models enjoy an expert design."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PVC mask"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MoQ: 300pcs, unit price: 1usd/pc"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Examples are:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"An order less than 300pcs, lets say 50pcs"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"50pcs will be consumed and 250pcs are left at the moment(Either ship them together with the purchased items or keep them in our warehouse for next orders)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"An order over 300pcs, lets say 350pcs"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Then we could order an exact amount 350pcs for this order."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"There will be none left."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We usually provide neutral devices for testing purpose."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is better to discuss PVC mask customization when testing proves fine."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For some manufacturing changes like packing box, user manual..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is supported and discussion is required."
+}
+],
+"extracted_at":"2026-10-23T05:20:20Z"
+}

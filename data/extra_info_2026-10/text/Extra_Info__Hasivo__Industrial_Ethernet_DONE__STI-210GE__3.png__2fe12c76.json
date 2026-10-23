@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-210GE__3.png__2fe12c76",
+"path":"Extra_Info/Hasivo/Industrial Ethernet_DONE/STI-210GE/3.png",
+"name":"3.png",
+"ext":".png",
+"bytes":2598619,
+"sha256":"2fe12c76697b26cc167360bb07185a0df64752d20455292d79ddafeed522e848",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":1232,
+"height":2023,
+"mode":"RGBA",
+"thumb_bytes":10853
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:24:31Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-210GE__3.png__2fe12c76.jpg"
+}

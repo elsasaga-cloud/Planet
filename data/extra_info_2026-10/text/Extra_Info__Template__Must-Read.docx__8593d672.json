@@ -1,0 +1,82 @@
+{
+"id":"Extra_Info__Template__Must-Read.docx__8593d672",
+"path":"Extra_Info/Template/Must-Read.docx",
+"name":"Must-Read.docx",
+"ext":".docx",
+"bytes":160462,
+"sha256":"8593d6724ea01e9694b6112dd1baafb82cf89035b2025b659fe5c6bfad01fab3",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2025-12-19T11:42:00+00:00",
+"modified":"2025-12-19T11:44:00+00:00",
+"paragraphs":11,
+"tables":0,
+"embedded_images":2
+},
+"warnings":[],
+"chars":883,
+"text":"Read “PROFILE” to know our company and products.\nRead “Order Procedure” to know how to place a standard order.\nRead “Download Link” (page 13) in “PROFILE” to get information about interested models.\nRead “FAQ” to know our business terms (payment, leadtime, OEM...)\nRead “Warranty Policy” to know how we deal with warranty.\nRead “Easy and Transparent Business” to know how we take care of after-sales issues.\nThere are some other files for you to understand our business mode better.\nCustomization\nMiscellaneous Fee\nCertificate of Warranty\nPlease talk with us if you have any query.\n[页眉页脚]\n2026/Q1                                                                                                                                                         Saga Telecom\nwww.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Read “PROFILE” to know our company and products."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Read “Order Procedure” to know how to place a standard order."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Read “Download Link” (page 13) in “PROFILE” to get information about interested models."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Read “FAQ” to know our business terms (payment, leadtime, OEM...)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Read “Warranty Policy” to know how we deal with warranty."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Read “Easy and Transparent Business” to know how we take care of after-sales issues."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"There are some other files for you to understand our business mode better."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Customization"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Miscellaneous Fee"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Certificate of Warranty"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please talk with us if you have any query."
+}
+],
+"extracted_at":"2026-10-23T05:20:20Z"
+}

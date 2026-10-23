@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__工业管理类目__L2_PoE__STI-21616GPM-2BT_无规格书__2.png__12be02b1",
+"path":"Extra_Info/Hasivo/待处理/工业管理类目/L2 PoE/STI-21616GPM-2BT 无规格书/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":3378580,
+"sha256":"12be02b105e2c4289162fd4e85098a18773c161d1b2f7894d1a008403e0268e3",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":3555,
+"height":1241,
+"mode":"RGBA",
+"thumb_bytes":8103
+},
+"warnings":[],
+"chars":61,
+"text":"leulsnpul\n14 pepeueW\noO\n全 |\nConsole\n和 PuE16GE PoE+2SF\nCo\nSL 人",
+"extracted_at":"2026-10-23T05:21:22Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__工业管理类目__L2_PoE__STI-21616GPM-2BT_无规格书__2.png__12be02b1.jpg"
+}

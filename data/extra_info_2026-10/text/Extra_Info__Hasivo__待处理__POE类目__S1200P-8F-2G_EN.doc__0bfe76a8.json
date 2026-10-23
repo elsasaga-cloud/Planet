@@ -1,0 +1,124 @@
+{
+"id":"Extra_Info__Hasivo__待处理__POE类目__S1200P-8F-2G_EN.doc__0bfe76a8",
+"path":"Extra_Info/Hasivo/待处理/POE类目/S1200P-8F-2G_EN.doc",
+"name":"S1200P-8F-2G_EN.doc",
+"ext":".doc",
+"bytes":33280,
+"sha256":"0bfe76a8a53654a42c12a3cb75730e52215067d0683fef257656791c136fd4ec",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:20:41+00:00",
+"paragraphs":0,
+"tables":1,
+"embedded_images":0
+},
+"warnings":[],
+"chars":1461,
+"text":"Model\tS1200P-8F-2G\nProduct mame\tGigabit uplink 8-port POE switch\nFixed Port\t8*10/100Base-TX  PoE port（Data/Power） / 2*10/100/1000Base-TX uplink RJ45 port (Data)\nPoE Ports\t1 port supports IEEE802.3af/at/poe++/bt, max 90W PoE out / 2-8 port supports IEEE802.3af/at, max 30W/port, PoE out\nPoE Pin\taf/at: 12+ 36- / af/at/poe++/bt: 12+ 45+  36- 78-\nPoE Bridge\tmax 150W\nPoE Dog\tsupport / PoE auto execution、detection and resets fault device,when PoE is on\nFunction\tN:(Standard normal) / V:(Port isolation) / S:(Super mode)(specific port refers to user manual)\nBandwidth\t16Gbps\nPacket Forwarding\t4.17Mpps\nMAC\t2K\nBuffer\t2.5M\nTransmission Distance\t10BASE-T ： Cat3,4,5 UTP(≤250 meter) / 100BASE-TX ： Cat5 or later UTP(150 meter) / 1000BASE-TX ： Cat6 or later UTP(150 meter)\nLED Indicator\tP:Power LED(over-power LED) / Uplink:(Link LED=10/100M Link、1000M=Gigabit Link） / Port:(Orange=PoE LED, Green=LAN Link LED） / V:(Port isolation LED) / S:( Super mode LED)\nPower\tBuilt-in power AC：100-240Vac 50-60Hz 1.9A   max 155W\nOperating Temperature/Humidity\t-10～+55°C；5%～90% RH Non coagulation\nStorage Temperature/Humidity\t-40～+75°C；5%～95% RH Non coagulation\nProduct /Packing / size（L*W*H）\t206mm*140mm*45mm / 265mm*220mm*68mm\nN.W/G.W（kg）\t1.2kg/1.6kg\nLightning / Protection  level\t6KV 8/20us； / IP30\nInstallation\tDesktop (optional wall +machine hangers)\nCertificate\tCE-EMC EN55032；CE-LVD EN62368；\nFCC Part 15 Class B；RoHS；\nWarranty\tWhole device for 1 year(Accessories not included)",
+"blocks":[
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"S1200P-8F-2G"
+],
+[
+"Product mame",
+"Gigabit uplink 8-port POE switch"
+],
+[
+"Fixed Port",
+"8*10/100Base-TX  PoE port（Data/Power） / 2*10/100/1000Base-TX uplink RJ45 port (Data)"
+],
+[
+"PoE Ports",
+"1 port supports IEEE802.3af/at/poe++/bt, max 90W PoE out / 2-8 port supports IEEE802.3af/at, max 30W/port, PoE out"
+],
+[
+"PoE Pin",
+"af/at: 12+ 36- / af/at/poe++/bt: 12+ 45+  36- 78-"
+],
+[
+"PoE Bridge",
+"max 150W"
+],
+[
+"PoE Dog",
+"support / PoE auto execution、detection and resets fault device,when PoE is on"
+],
+[
+"Function",
+"N:(Standard normal) / V:(Port isolation) / S:(Super mode)(specific port refers to user manual)"
+],
+[
+"Bandwidth",
+"16Gbps"
+],
+[
+"Packet Forwarding",
+"4.17Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Transmission Distance",
+"10BASE-T ： Cat3,4,5 UTP(≤250 meter) / 100BASE-TX ： Cat5 or later UTP(150 meter) / 1000BASE-TX ： Cat6 or later UTP(150 meter)"
+],
+[
+"LED Indicator",
+"P:Power LED(over-power LED) / Uplink:(Link LED=10/100M Link、1000M=Gigabit Link） / Port:(Orange=PoE LED, Green=LAN Link LED） / V:(Port isolation LED) / S:( Super mode LED)"
+],
+[
+"Power",
+"Built-in power AC：100-240Vac 50-60Hz 1.9A   max 155W"
+],
+[
+"Operating Temperature/Humidity",
+"-10～+55°C；5%～90% RH Non coagulation"
+],
+[
+"Storage Temperature/Humidity",
+"-40～+75°C；5%～95% RH Non coagulation"
+],
+[
+"Product /Packing / size（L*W*H）",
+"206mm*140mm*45mm / 265mm*220mm*68mm"
+],
+[
+"N.W/G.W（kg）",
+"1.2kg/1.6kg"
+],
+[
+"Lightning / Protection  level",
+"6KV 8/20us； / IP30"
+],
+[
+"Installation",
+"Desktop (optional wall +machine hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032；CE-LVD EN62368；\nFCC Part 15 Class B；RoHS；"
+],
+[
+"Warranty",
+"Whole device for 1 year(Accessories not included)"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:20:41Z"
+}

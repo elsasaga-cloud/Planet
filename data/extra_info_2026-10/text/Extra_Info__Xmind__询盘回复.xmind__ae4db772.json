@@ -1,0 +1,18 @@
+{
+"id":"Extra_Info__Xmind__询盘回复.xmind__ae4db772",
+"path":"Extra_Info/Xmind/询盘回复.xmind",
+"name":"询盘回复.xmind",
+"ext":".xmind",
+"bytes":91068,
+"sha256":"ae4db772e1c791db7bd4d97af38b96cd13b0f3054fac7342018c158e1ba7215b",
+"source":"Extra_Info.zip",
+"method":"xmind(content.xml)",
+"status":"ok",
+"meta":{
+"lines":32
+},
+"warnings":[],
+"chars":758,
+"text":"# Sheet: 画布 1\n- 询盘回复\n  - 只有一句话的询盘\n    - I want 10 pcs, what is the price?\r\n回复方式有几种\n      - 问清楚需求，列明1 2 3点\n        - 口数  波长  距离\n      - 精准式回复\n        - 报出frequently asked/needed/ordered的型号\n          - 问这个规格OK吗？\n          - 如需要改动  也可以提供别的\r\n可以在报价的同时附上系列组合图（小壳系列）\n      - 范围报价\n        - 再去确认相关的量和参数\n        - 这个不太适用！\n      - 报价单式报价\n        - 直接发小壳系列价格册\n    - https://mp.weixin.qq.com/s/YZzcQDm9Wlpf5sRpsOOFwQ\n  - 询盘需求比较明确\n    - 客户背调后比较专业\n    - 全面信息，交期，运费价格，芯片，图片等\n  - 模棱两可的询盘\n    - 可能只是随便问一下\n    - 可以先介绍产品/公司\n      - 产品特点 POE90W 价格好 E-mark认证等\n      - 支持OEM 发company profile文件等\n        - 公司名， 地址， 网址， 公司简介\n        - 公司图片\n        - 样品间图片， 产品图片\n        - 产品种类及具体详情\n        - 公司近3年内的销售额（有图表更佳）\n        - 现有客户分布（有图表更佳）\n        - 现主要客户（配客户LOGO更直观）\n        - 工厂详情 （配图片）",
+"extracted_at":"2026-10-23T05:20:12Z"
+}

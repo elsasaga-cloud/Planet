@@ -1,0 +1,1741 @@
+{
+"id":"Extra_Info__Hasivo__Passive_PoE.docx__3fbdeeb6",
+"path":"Extra_Info/Hasivo/Passive PoE.docx",
+"name":"Passive PoE.docx",
+"ext":".docx",
+"bytes":13522791,
+"sha256":"3fbdeeb6687fd2da629fb3de7e66dec73e5f98e4bfa3bda440455f553b7f0230",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2023-07-22T16:14:00+00:00",
+"modified":"2025-03-27T10:10:58+00:00",
+"paragraphs":163,
+"tables":11,
+"embedded_images":21
+},
+"warnings":[],
+"chars":22506,
+"text":"ContentWhat is Passive PoE1Where is it Used2Ordering Information3STC-024FP-24V4STC-014GP-24V5STC-028FP-24V7STC-028GP-24V8STC-1116CGFP-24V9STC-2216GP-24V10STC-2224GP-24V11STC-0224GFP-24V12STC-2024GP-24V13Case Study14Application14PDs14Model15Conclusion15FAQ16\nWhat is Passive PoE\nPassive PoE is a non-standard technology that allows network switches to send both power and data through an Ethernet cable without negotiation between the power source and the device being powered\nPassive PoE systems typically operate at 24V DC, but can also be 12V or 48V\nFor standard PoE(48V), the PSE(power supplying equipment)will detect the PD(powered device)if it receives a voltage around 48V\nIf yes, it will continuously supply power\nIf not, it will only transmit networking data to the PD, no powered is carried in the transmission\nThis is about the negotiation or communication process\nWhere is it Used\nWireless radio equipment\nExample: Cambium networks ePMP™ Force 300 Series\nReyee WIFI Antenna: RG-EST310 V2\nCameras\nExample: Hikvision DS-2DE5220IW-AE\n24V powered network system(See Case Study)\nComplex PoE/Voltage System\nIn a large-scale project(such as a building security system), there are different PD devices with different power inputs\nTraditional solution is using standard/active PoE+PoE accessories, which typically involves more complex wiring, high costs, and potential maintenance trouble\nUnder this background, Saga Telecom presents a series of 24V passive PoE switches to enrich PoE-related application scenarios\nMeanwhile, its ideal to include our 802.3bt switches and auto-adaptive PoE to build a solution package for your Ethernet transmission projects\nOrdering Information\nCommercial Unmanaged Passive PoE Switch Series, 24V PoE Output\nModel\tDescription\tPrice\nSTC-024FP-24V\t2*10/100M RJ45+4*10/100M PoE af/at RJ45 / 65W, Passive PoE, AC100V~240V input, with rack-mount brackets\t14usd/pc\nSTC-014GP-24V\t1*10/100/1000M RJ45+4*10/100/1000M PoE af/at RJ45 / 65W, Passive PoE, AC100V~240V input, with rack-mount brackets\t20usd/pc\nSTC-028FP-24V\t2*10/100M RJ45+8*10/100M PoE af/at RJ45 / 120W, Passive PoE, AC100V~240V input, with rack-mount brackets\t20usd/pc\nSTC-028GP-24V\t2*10/100/1000M RJ45+8*10/100/1000M PoE af/at RJ45 / 120W, Passive PoE, AC100V~240V input, with rack-mount brackets\t31usd/pc\nSTC-1116CGFP-24V\t1*1G SFP/RJ45(Combo)+1*10/100/1000M RJ45+16*10/100/1000M PoE af/at RJ45 / 150W, Passive PoE, AC100V~240V input, with rack-mount brackets\t51usd/pc\nSTC-2216GP-24V\t2*1G SFP+2*10/100/1000M RJ45+16*10/100/1000M PoE af/at RJ45 / 300W, Passive PoE, AC100V~240V input, with rack-mount brackets\t84usd/pc\nSTC-2224GP-24V\t2*1G SFP+2*10/100/1000M RJ45+24*10/100/1000M PoE af/at RJ45 / 300W, Passive PoE, AC100V~240V input, with rack-mount brackets\t92usd/pc\nSTC-0224GFP-24V\t2**10/100/1000M RJ45+24*10/100M PoE af/at RJ45 / 300W, Passive PoE, AC100V~240V input, with rack-mount brackets\t84usd/pc\nSTC-2024GP-24V\t2*1G SFP+24*10/100/1000M PoE af/at RJ45 / 300W, Passive PoE, AC100V~240V input, with rack-mount brackets\t90usd/pc\nPower adapter is included in both the packing box and unit pricing / SFP transceiver is NOT included in both the packing box and unit pricing / Those models are FREQUENTLY asked and ordered, there are some more similar models available / Please let us know if you need any customized model\nSTC-024FP-24V\nModel\tSTC-024FP-24V\nProduct Name\t6 port 10/100Mbps Ethernet Passive PoE Switch\nFixed Port\t4*10/100Base-TX PoE port(Data/Power) / 2*10/100Base-TX Uplink RJ45 port(Data)\nPoE Port\t1-4 port support IEEE802.3at, max 30W/port, PoE out 24V\nPoE Pin\taf/at 45+ 78-\nPoE Budget\tMax 65W\nBandwidth\t1.6Gbps\nPacket Forwarding\t1.15Mpps\nMAC\t1K\nBuffer\t768K\nNetwork Medium\t10Base-T: Cat3, 4, 5 or above UTP(≤250m) / 100Base-TX: Cat5 or above UTP(≤150m)\nLED Indicator\tP: Power(over-power LED) / Uplink: LED=10/100M Link/Act LED / PoE Port: Orange=PoE, Green=LAN Link / V: Port isolation LED / S: Super mode LED, 250-meter PoE distance\nPower\tAC100~240V input, built-in AC-DC converter\nOperating Temperature / Humidity\t-10°C～+55°C / 5%～90% RH Non-condensing\nStorage Temperature / Humidity\t-40°C～+75°C / 5%～95% RH Non-condensing\nDimension / L*W*H\tDevice: 190*130*35mm / Packing Box: 265*220*68mm\nN.W/G.W(Kg)\t0.6Kg/1.0Kg\nLightning / Protection Level\t6KV 8/20us / IP30\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368\nFCC Part 15 Class B; RoHS\nWarranty\t1 Year\nSTC-014GP-24V\nModel\tSTC-014GP-24V\nProduct Name\t5 port 10/100/1000Mbps Ethernet Passive PoE Switch\nFixed Port\t4*10/100/1000Base-TX PoE port(Data/Power) / 1*10/100/1000Base-TX Uplink RJ45 port(Data)\nPoE Ports\t1-4 port supports IEEE802.3at, max 30W/port, PoE out 24V\nPoE Pin\taf/at: 45+ 78-\nPoE Budget\tMax 65W\nBandwidth\t10Gbps\nPacket Forwarding\t7.44Mpps\nMAC\t2K\nBuffer\t2.5M\nNetwork Medium\t10Base-T: Cat3, 4, 5 or above UTP(≤250m) / 100Base-TX: Cat5 or above UTP(≤150m) / 1000Base-TX: Cat6 or above UTP(≤150m)\nLED Indicator\tP: Power LED(over-power LED) / Uplink: Link LED=10/100M Link, 1000M=Gigabit Link / Port: Orange=PoE LED, Green=LAN Link LED\nPower\tAC100~240V input, built-in AC-DC converter\nOperating Temperature / Humidity\t-10°C～+55°C / 5%～90% RH Non-condensing\nStorage Temperature / Humidity\t-40°C～+75°C / 5%～95% RH Non-condensing\nDimension / L*W*H\tDevice: 190*130*35mm / Packing Box: 265*220*68mm\nN.W/G.W(Kg)\t0.6Kg/1.0Kg\nLightning / Protection Level\t6KV 8/20us / IP30\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368\nFCC Part 15 Class B; RoHS\nWarranty\t1 Year\nSTC-028FP-24V\nModel\tSTC-028FP-24V\nProduct Name\t10 port 10/100Mbps Ethernet Passive PoE Switch\nFixed Port\t8*10/100Base-TX PoE port(Data/Power) / 2*10/100Base-TX Uplink RJ45 port(Data)\nPoE Ports\t1-8 port supports IEEE802.3at, max 30W/port, PoE out 24V\nPoE Pin\taf/at: 45+ 78-\nPoE Budget\tMax 120W\nBandwidth\t2Gbps\nPacket Forwarding\t1.48Mpps\nMAC\t2K\nBuffer\t768K\nNetwork Medium\t10Base-T: Cat3, 4, 5 or above UTP(≤250m) / 100Base-TX: Cat5 or above UTP(≤150m)\nLED Indicator\tP: Power LED(over-power LED) / Uplink: LED=10/100M Link/Act LED / Port: Orange=PoE LED, Green=LAN Link LED\nPower\tAC100~240V input, built-in AC-DC converter\nOperating Temperature / Humidity\t-10°C～+55°C / 5%～90% RH Non-condensing\nStorage Temperature / Humidity\t-40°C～+75°C / 5%～95% RH Non-condensing\nDimension / L*W*H\tDevice: 210*150*35mm / Packing Box: 265*220*68mm\nN.W/G.W(Kg)\t0.8Kg/1.2Kg\nLightning / Protection Level\t6KV 8/20us / IP30\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368\nFCC Part 15 Class B; RoHS\nWarranty\t1 Year\nSTC-028GP-24V\nModel\tS1100P-8G-2G-24V\nProduct Name\t10 port 10/100/1000Mbps Ethernet Passive PoE Switch\nFixed Port\t8*10/100/1000Base-TX PoE port(Data/Power) / 2*10/100/1000Base-TX Uplink RJ45 port(Data)\nPoE Ports\t1-8 port supports IEEE802.3at, max 30W/port, PoE out 24V\nPoE Pin\taf/at: 45+ 78-\nPoE Budget\tMax 120W\nBandwidth\t20Gbps\nPacket Forwarding\t14.88Mpps\nMAC\t2K\nBuffer\t2.5M\nNetwork Medium\t10Base-T: Cat3, 4, 5 or above UTP(≤250m) / 100Base-TX: Cat5 or above UTP(≤150m) / 1000Base-TX: Cat6 or above UTP(≤150m)\nLED Indicator\tP: Power LED(over-power LED) / Uplink: Link LED=10/100M Link, 1000M=Gigabit Link / Port: Orange=PoE LED, Green=LAN Link LED\nPower\tAC100~240V input, built-in AC-DC converter\nOperating Temperature / Humidity\t-10°C～+55°C / 5%～90% RH Non-condensing\nStorage Temperature / Humidity\t-40°C～+75°C / 5%～95% RH Non-condensing\nDimension / L*W*H\tDevice: 210*150*35mm / Packing Box: 265*220*68mm\nN.W/G.W(Kg)\t0.8Kg/1.2Kg\nLightning / Protection Level\t6KV 8/20us / IP30\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368\nFCC Part 15 Class B; RoHS\nWarranty\t1 Year\nSTC-1116CGFP-24V\nModel\tSTC-1116CGFP-24V\nProduct Name\t19 port 10/100&1000Mbps Ethernet Passive PoE Switch\nFixed Port\t16*10/100Base-TX PoE port(Data/Power) / 1*10/100/1000Base-TX Uplink RJ45 port(Data) / 1*1000M SFP/RJ45(Combo)\nPoE Ports\t1-16 port supports IEEE802.3at, max 30W/port, PoE out 24V\nPoE Pin\taf/at: 45+  78-\nPoE Budget\tMax 150W\nBandwidth\t20Gbps\nPacket Forwarding\t6.55Mpps\nMAC\t8K\nBuffer\t4M\nNetwork Medium\t10Base-T: Cat3, 4, 5 or above UTP(≤250m) / 100Base-TX: Cat5 or above UTP(≤150m) / 1000Base-TX: Cat6 or above UTP(≤150m)\nOptical Media\tSFP: 1000M single and multi-mode optical module, Max distance≤100Km\nLED Indicator\tPOWER: Power LED(over-power LED) / 18: SFP connection indicator / S: Super mode LED, 250-meter PoE distance / Uplink: Link LED=10/100M Link, 1000M=Gigabit Link / Port: Orange=PoE LED, Green=LAN Link LED\nPower\tAC100~240V input, built-in AC-DC converter\nOperating Temperature / Humidity\t-10°C～+55°C / 5%～90% RH Non-condensing\nStorage Temperature / Humidity\t-40°C～+75°C / 5%～95% RH Non-condensing\nDimension / L*W*H\tDevice: 295*195*45mm / Packing Box: 410*278*95mm\nN.W/G.W(Kg)\t1.6Kg/2.4Kg\nLightning / Protection Level\t6KV 8/20us / IP30\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368\nFCC Part 15 Class B; RoHS\nWarranty\t1 Year\nSTC-2216GP-24V\nModel\tSTC-2216GP-24V\nProduct Name\t20 port 10/100/1000Mbps Ethernet Passive PoE Switch\nFixed Port\t16*10/100/1000Base-TX PoE port(Data/Power) / 2*10/100/1000Base-TX Uplink RJ45 port(Data) / 2*1000M SFP\nPoE Ports\t1-16 port supports IEEE802.3at, max 30W/port, PoE out 24V\nPoE Pin\taf/at: 45+ 78-\nFunction\tN: Standard normal / V: Port isolation / C: Flow control mode\nPoE Budget\tMax 300W\nBandwidth\t56Gbps\nPacket Forwarding\t41.67Mpps\nMAC\t8K\nBuffer\t4.1M\nNetwork Medium\t10Base-T: Cat3, 4, 5 or above UTP(≤250m) / 100Base-TX: Cat5 or above UTP(≤150m) / 1000Base-TX: Cat6 or above UTP(≤150m)\nOptical Media\tSFP: 1000M single and multi-mode optical module, Max distance≤100Km\nLED Indicator\tPOWER: Power LED / 19-20: SFP connection indicator / Uplink: 10/100M=Green Link, 1000M=Orange Link / Downlink: 10/100M=Green Link, 1000M=Orange Link\nPower\tAC100~240V input, built-in AC-DC converter\nOperating Temperature / Humidity\t-10°C～+55°C / 5%～90% RH Non-condensing\nStorage Temperature / Humidity\t-40°C～+75°C / 5%～95% RH Non-condensing\nDimension / L*W*H\tDevice: 295*195*45mm / Packing Box: 410*278*95mm\nN.W/G.W(Kg)\t1.6Kg/2.4Kg\nLightning / Protection Level\t6KV 8/20us / IP30\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368\nFCC Part 15 Class B; RoHS\nWarranty\t1 Year\nSTC-2224GP-24V\nModel\tS2800P-24G-2TS\nProduct Name\t28 port 10/100/1000Mbps Rack Type Ethernet Passive PoE Switch\nFixed Port\t24*10/100/1000Base-TX PoE port(Data/Power) / 2*10/100/1000Base-TX Uplink RJ45 port(Data) / 2*1000M SFP\nPoE Ports\t1-24 port supports IEEE802.3at, max 30W/port, PoE out 24V\nPoE Pin\taf/at: 45+ 78-\nPoE Budget\tMax 300W\nBandwidth\t56Gbps\nPacket Forwarding\t41.67Mpps\nMAC\t8K\nBuffer\t4M\nNetwork Medium\t10Base-T: Cat3, 4, 5 or above UTP(≤250m) / 100Base-TX: Cat5 or above UTP(≤150m) / 1000Base-TX: Cat6 or above UTP(≤150m)\nOptical Media\tSFP: 1000M single and multi-mode optical module, Max distance≤100Km\nLED Indicator\tPWR: Power LED(green) / 1-24: 10/100/1000M Network connection indicator(green) / 25-26: 10/100/1000M Network connection indicator(green) / 27-28: SFP connection indicator(green) / PoE: PoE indicator(orange)\nPower\tAC100~240V input, built-in AC-DC converter\nOperating Temperature / Humidity\t-10°C～+55°C / 5%～90% RH Non-condensing\nStorage Temperature / Humidity\t-40°C～+75°C / 5%～95% RH Non-condensing\nDimension / L*W*H\tDevice: 440*290*45mm / Packing Box: 515*375*95mm\nN.W/G.W(Kg)\t2.9Kg/3.6Kg\nLightning / Protection Level\t6KV 8/20us / IP30\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368\nFCC Part 15 Class B; RoHS\nWarranty\t1 Year\nSTC-0224GFP-24V\nModel\tSTC-0224GFP-24V\nProduct Name\t26 port 10/100&1000Mbps Ethernet Passive PoE Switch\nFixed Port\t24*10/100Base-TX  PoE port(Data/Power) / 2*10/100/1000Base-TX Uplink RJ45 port(Data)\nPoE Ports\t1-24 port supports IEEE802.3at, max 30W/port, PoE out 24V\nPoE Pin\taf/at: 45+ 78-\nPoE Budget\tMax 300W\nBandwidth\t16Gbps\nPacket Forwarding\t6.55Mpps\nMAC\t8K\nBuffer\t4.1M\nNetwork Medium\t10Base-T: Cat3, 4, 5 or above UTP(≤250m) / 100Base-TX: Cat5 or above UTP(≤150m) / 1000Base-TX: Cat6 or above UTP(≤150m)\nLED Indicator\tPWR: Power LED(green) / 1-24: 10/100M Network connection indicator(green) / 25-26: 10/100/1000M Network connection indicator(green) / PoE: PoE indicator(orange)\nPower\tAC100~240V input, built-in AC-DC converter\nOperating Temperature / Humidity\t-10°C～+55°C / 5%～90% RH Non-condensing\nStorage Temperature / Humidity\t-40°C～+75°C / 5%～95% RH Non-condensing\nDimension / L*W*H\tDevice: 440*290*45mm / Packing Box: 515*375*95mm\nN.W/G.W(Kg)\t2.9Kg/3.6Kg\nLightning / Protection Level\t6KV 8/20us / IP30\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368\nFCC Part 15 Class B; RoHS\nWarranty\t1 Year\nSTC-2024GP-24V\nModel\tSTC-2024GP-24V\nProduct Name\t26 port 10/100/1000Mbps Ethernet Passive PoE Switch\nFixed Port\t24*10/100/1000Base-TX PoE port(Data/Power) / 2*1000M SFP\nPoE Ports\t1-23 port supports IEEE802.3at, max 30W/port, PoE out 24V\nPoE Pin\taf/at: 45+ 78-\nFunction\tN: Standard normal / V: Port isolation / C: Flow control mode\nPoE Budget\tMax 300W\nBandwidth\t56Gbps\nPacket Forwarding\t41.67Mpps\nMAC\t8K\nBuffer\t4.1M\nNetwork Medium\t10Base-T: Cat3,4,5 or above UTP(≤250m) / 100Base-TX: Cat5 or above UTP(≤150m) / 1000Base-TX: Cat6 or above UTP(≤150m)\nOptical Media\tSFP: 1000M single and multi-mode optical module, Max distance≤100Km\nLED Indicator\tPWR: Power LED(green) / 1-24: 10/100/1000M Network connection indicator(green) / 25-26: SFP connection indicator(green) / PoE: PoE indicator(orange)\nPower\tAC100~240V input, built-in AC-DC converter\nOperating Temperature / Humidity\t-10°C～+55°C / 5%～90% RH Non-condensing\nStorage Temperature / Humidity\t-40°C～+75°C / 5%～95% RH Non-condensing\nDimension / L*W*H\tDevice: 440*290*45mm / Packing Box: 515*375*95mm\nN.W/G.W(Kg)\t2.9Kg/3.6Kg\nLightning / Protection Level\t6KV 8/20us / IP30\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368\nFCC Part 15 Class B; RoHS\nWarranty\t1 Year\nCase Study\nApplication\nHospital Nurse Call System\nPDs\nLED lights: provide light in corridors, wards and bathrooms\nCorridor touch panels: indicating time, diagnostic sequence, hospital information\nCameras: real-time monitoring\nSpeakers: play music, emergency communication, maintain order\nDoor contacts: added security for wards, authorized access\nCall points: efficient communication, emergency call\nAlarms: danger warning\nModel\nSTC-2224GFP-24V\nSpecification: 2*1G SFP+2*1G Copper uplink+24*10/100M PoE downlink, 24V PoE output\nUseful feature: 24V PoE output\nSTC-208GP-Auto\nSpecification: 2*1G SFP+8*10/100/1000M PoE, auto-adaptive 24V/48V PoE output\nUseful feature: auto-adaptive 24V/48V PoE output\nSTC-4424GCP-4BT-Auto\nSpecification: 4*1G SFP/RJ45 Combo+24*10/100/1000M PoE, 1~4 PoE ports auto-adaptive 24V/48V PoE output, 5~8 PoE ports support PoE af/at/bt output\nUseful feature: 4*1G Combo, auto-adaptive 24V/48V PoE output, PoE af/at/bt output\nFor above listed PDs, most receive 24V power input, some do 48V(like PoE cameras).\nThe recommended 3 models are well suited for such projects or similar.\n24V PoE output: for 24V power input PDs\nAuto-adaptive 24V/48V PoE output: for multiple PDs with both 24V and 48V power input\nCombo: for flexible port combination\nPoE af/at/bt: for some power-hungry devices like PTZ camera, digital signage\nConclusion\nAbove information explains a typical 24V passive PoE application project.\nBy analyzing the PDs and model features from Saga Telecom, a PoE solution package is provided and also applicable to similar projects.\nMoreover: Saga Telecom also offers active PoE switches or industrial PoE switches, please talk with us for more information.\nFAQ\nLeadtime\nProduction starts AFTER payment is received\nPlease know that it usually takes 1~2 working days for our bank to receive the payment\nProduction time is usually 4~7 working days for standard(non-customized)models(no more than 50Pcs)\nShipping time is usually 4~7 days by express\nIn total, it takes 10~15 calendar days to arrive at local customs for clearance\nThis is an estimated period, it usually does not take this long to receive the order\nShipment\nWe will send the goods by express(DHL, UPS or FEDEX)or by sea(for bulk orders)\nIt is fine to ship purchased items via client’s shipping account(DHL, UPS or FEDEX)or forwarders in China\nMoQ\n1 Pc/Pair(It is NOT free, Saga Telecom do NOT do FREE SAMPLES)\nIt is fine to have sample testing before bulk orders\nPlease know that we do NOT suggest 1pc/pair in sample testing, better make it at least 2 pieces/pairs in case of any possible dysfunction in production/transportation(then all efforts are gone, a big waste of time)\nWarranty\n1 year for commercial models(STC series)and 3 years for industrial models(STI series)\nPlease kindly refer to the “Warranty Policy” for more information\nTechnical assistance is always available\nDiscount\nAvailable and it is usually based on quantity and AFTER sample testing\nThe price negotiation makes sense ONLY IF a client is satisfied with the quality\nFor distributorship, that we are now seeking, best prices will be provided\nPayment\nT/T transfer and PayPal\nIt is fine to pay 50% first and another 50% before shipment for a bulk order(this is about standard/non-customized models)\nFULL PAYMENT for a customization order BEFORE PRODUCTION(non-negotiated)\nIt is fine to be paid via client’s forwarder(this is usually about RMB payment on Alipay or WeChat)\nTransaction Cost\nIt is standard charge 25usd for EACH T/T transfer whatever the invoice value is\nIt is 5usd for every 100usd to PayPal a/c, this ratio is standard charge by PayPal\nUser Manual\nPlease know that there is a user manual(with necessary information for usage and installation)in the packing box Actually most of the necessary information is available in this datasheet\nWe can help print a copy of your version and put it in the packing box\nPacking Box\nWithout Chinese letters or logo\nHard carton, resilient to wrinkle, good for reselling even after shipment(there is protective foam inside to avoid possible damage)\nCustomized version is available(with your logo/model/slogan or remove the patterns), but there is MoQ and cost for this, discussion is required\nLabel\nThere is product information/model name/serial number on the label\nIt is fine to write client’s version\nStandard language is English\nIf a different language is adopted like Russian, Italian, Korean...\nPlease share EXACT translation, we will simply copy and print\nBarcodes are scannable for inbound statistics\n“Made in China” description is there and can be removed if required\nAn example photo will be shared for confirmation before mass printing for a bulk order\nThere are 2 copies for each manufactured product. One is attached on the device, the other is on the packing box\nCertification\nCE/RoHS/FCC/Reach/UKCA\nPlease let us know if you need to check the certificates\nRMA\nPlease contact us ASAP once there is a problem of ANY KIND\nPlease also read below “after-sales support” information to understand how to proceed\nFor every 100Pcs, there will be 2 extra free units(2% RMA)against immediate warranty coverage\nThis rule stands for all Saga Telecom models and even there is not an after-sales issue\nIf it is about missing/faulty parts in the packing box\nPlease simply use the extra units for the replacem\nent and let us know this problem(we will improve)\nIf it is about usage problem\nSaga Telecom will provide technical support and send new units when necessary(in this occasion, we will be responsible for both product cost and shipping cost, but the local customs clearance cost, if any, is on clients)\nSKD/CKD\nAvailable\nSKD is simple, please just let us know how you would like to have it\nCKD usually involves confidential information such as BOM list, schematic design, PCB layout etc.\nIt is based on solid cooperation AND bulk orders, thorough discussion is required to do CKD mode\nOEM\nAvailable\nDiscussion is required for complex changes, meanwhile an NDA(Non-disclosure Agreement)contract will be agreed upon and signed\nRelevant cooperation information will not be leaked to a third party without client’s permission\nIt is mainly about 2 categories\nIndustrial manufacturing\nShow client’s logo/model on the device/label\nUse client’s packing box\nDesign client’s product PVC sticker\nCustomize some parts of a model like rear panel/power input terminal block/panels...\nPlease know that there might be an extra cost for such OEM services\nManagement features\nShow client’s logo/model on the management interface\nChange IP address\nMAC address\nSNMP, OID\nAbove changes are free of cost and please know that\nFont format&GUI color are NOT changeable for the management interface\nWe can also help with develop exact features/specifications based on given chips or PCB board designs, this is more complex, thorough discussion is required\nIncoterms\nEXW term is our focus\nSometimes we do FOB/CIF for bulk orders, this depends on cases, please talk with us for more information\nOnline Store\nCurrently we do not have an online store(Amazon, Shopify, Aliexpress etc.)\nWe will add a store link in this datasheet when available\nBranch/Distribution\nCurrently we do not have ANY overseas branches or distributors\nWe are actively seeking good agents/resellers to promote our brand and products\nNecessary technical and pricing support will be provided\nPlease let us know if you are interested\nMaterial Preparation\n20% deposit will be collected beforehand for material preparation if there is a strict requirement of production time.\nThis is to protect ourselves from the awkward situation where we have prepared the materials while the clients do not successfully place the order due to different reasons\nThis deposit will be deducted from total amount if this order is secured\nThis deposit will be returned after we consumed half of the prepared materials in other orders if this order is not placed\nProduct Label\tCertificate of Warranty\nShipping Label\t\nPlease know that this is for your reference only(roughly like this, but subject to final format)\n[页眉页脚]\nRealtek Passive PoE Series\t                                                                                           a.sagatelecom@gmail.com\n\t\t\t\t\t\t\t                                                                       Saga Telecom\n2025/Q3\t\t\t\t\t\t\t                         \t           www.sagatelecom.com.cn\nConnecting, Converting, Creating",
+"blocks":[
+{
+"t":"p",
+"s":"sdt",
+"text":"ContentWhat is Passive PoE1Where is it Used2Ordering Information3STC-024FP-24V4STC-014GP-24V5STC-028FP-24V7STC-028GP-24V8STC-1116CGFP-24V9STC-2216GP-24V10STC-2224GP-24V11STC-0224GFP-24V12STC-2024GP-24V13Case Study14Application14PDs14Model15Conclusion15FAQ16"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"What is Passive PoE"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Passive PoE is a non-standard technology that allows network switches to send both power and data through an Ethernet cable without negotiation between the power source and the device being powered"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Passive PoE systems typically operate at 24V DC, but can also be 12V or 48V"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For standard PoE(48V), the PSE(power supplying equipment)will detect the PD(powered device)if it receives a voltage around 48V"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If yes, it will continuously supply power"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If not, it will only transmit networking data to the PD, no powered is carried in the transmission"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is about the negotiation or communication process"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Where is it Used"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Wireless radio equipment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Example: Cambium networks ePMP™ Force 300 Series"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Reyee WIFI Antenna: RG-EST310 V2"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Cameras"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Example: Hikvision DS-2DE5220IW-AE"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"24V powered network system(See Case Study)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Complex PoE/Voltage System"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"In a large-scale project(such as a building security system), there are different PD devices with different power inputs"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Traditional solution is using standard/active PoE+PoE accessories, which typically involves more complex wiring, high costs, and potential maintenance trouble"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Under this background, Saga Telecom presents a series of 24V passive PoE switches to enrich PoE-related application scenarios"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Meanwhile, its ideal to include our 802.3bt switches and auto-adaptive PoE to build a solution package for your Ethernet transmission projects"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Ordering Information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Commercial Unmanaged Passive PoE Switch Series, 24V PoE Output"
+],
+[
+"Model",
+"Description",
+"Price"
+],
+[
+"STC-024FP-24V",
+"2*10/100M RJ45+4*10/100M PoE af/at RJ45 / 65W, Passive PoE, AC100V~240V input, with rack-mount brackets",
+"14usd/pc"
+],
+[
+"STC-014GP-24V",
+"1*10/100/1000M RJ45+4*10/100/1000M PoE af/at RJ45 / 65W, Passive PoE, AC100V~240V input, with rack-mount brackets",
+"20usd/pc"
+],
+[
+"STC-028FP-24V",
+"2*10/100M RJ45+8*10/100M PoE af/at RJ45 / 120W, Passive PoE, AC100V~240V input, with rack-mount brackets",
+"20usd/pc"
+],
+[
+"STC-028GP-24V",
+"2*10/100/1000M RJ45+8*10/100/1000M PoE af/at RJ45 / 120W, Passive PoE, AC100V~240V input, with rack-mount brackets",
+"31usd/pc"
+],
+[
+"STC-1116CGFP-24V",
+"1*1G SFP/RJ45(Combo)+1*10/100/1000M RJ45+16*10/100/1000M PoE af/at RJ45 / 150W, Passive PoE, AC100V~240V input, with rack-mount brackets",
+"51usd/pc"
+],
+[
+"STC-2216GP-24V",
+"2*1G SFP+2*10/100/1000M RJ45+16*10/100/1000M PoE af/at RJ45 / 300W, Passive PoE, AC100V~240V input, with rack-mount brackets",
+"84usd/pc"
+],
+[
+"STC-2224GP-24V",
+"2*1G SFP+2*10/100/1000M RJ45+24*10/100/1000M PoE af/at RJ45 / 300W, Passive PoE, AC100V~240V input, with rack-mount brackets",
+"92usd/pc"
+],
+[
+"STC-0224GFP-24V",
+"2**10/100/1000M RJ45+24*10/100M PoE af/at RJ45 / 300W, Passive PoE, AC100V~240V input, with rack-mount brackets",
+"84usd/pc"
+],
+[
+"STC-2024GP-24V",
+"2*1G SFP+24*10/100/1000M PoE af/at RJ45 / 300W, Passive PoE, AC100V~240V input, with rack-mount brackets",
+"90usd/pc"
+],
+[
+"Power adapter is included in both the packing box and unit pricing / SFP transceiver is NOT included in both the packing box and unit pricing / Those models are FREQUENTLY asked and ordered, there are some more similar models available / Please let us know if you need any customized model"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STC-024FP-24V"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STC-024FP-24V"
+],
+[
+"Product Name",
+"6 port 10/100Mbps Ethernet Passive PoE Switch"
+],
+[
+"Fixed Port",
+"4*10/100Base-TX PoE port(Data/Power) / 2*10/100Base-TX Uplink RJ45 port(Data)"
+],
+[
+"PoE Port",
+"1-4 port support IEEE802.3at, max 30W/port, PoE out 24V"
+],
+[
+"PoE Pin",
+"af/at 45+ 78-"
+],
+[
+"PoE Budget",
+"Max 65W"
+],
+[
+"Bandwidth",
+"1.6Gbps"
+],
+[
+"Packet Forwarding",
+"1.15Mpps"
+],
+[
+"MAC",
+"1K"
+],
+[
+"Buffer",
+"768K"
+],
+[
+"Network Medium",
+"10Base-T: Cat3, 4, 5 or above UTP(≤250m) / 100Base-TX: Cat5 or above UTP(≤150m)"
+],
+[
+"LED Indicator",
+"P: Power(over-power LED) / Uplink: LED=10/100M Link/Act LED / PoE Port: Orange=PoE, Green=LAN Link / V: Port isolation LED / S: Super mode LED, 250-meter PoE distance"
+],
+[
+"Power",
+"AC100~240V input, built-in AC-DC converter"
+],
+[
+"Operating Temperature / Humidity",
+"-10°C～+55°C / 5%～90% RH Non-condensing"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+75°C / 5%～95% RH Non-condensing"
+],
+[
+"Dimension / L*W*H",
+"Device: 190*130*35mm / Packing Box: 265*220*68mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.6Kg/1.0Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us / IP30"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368\nFCC Part 15 Class B; RoHS"
+],
+[
+"Warranty",
+"1 Year"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STC-014GP-24V"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STC-014GP-24V"
+],
+[
+"Product Name",
+"5 port 10/100/1000Mbps Ethernet Passive PoE Switch"
+],
+[
+"Fixed Port",
+"4*10/100/1000Base-TX PoE port(Data/Power) / 1*10/100/1000Base-TX Uplink RJ45 port(Data)"
+],
+[
+"PoE Ports",
+"1-4 port supports IEEE802.3at, max 30W/port, PoE out 24V"
+],
+[
+"PoE Pin",
+"af/at: 45+ 78-"
+],
+[
+"PoE Budget",
+"Max 65W"
+],
+[
+"Bandwidth",
+"10Gbps"
+],
+[
+"Packet Forwarding",
+"7.44Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Network Medium",
+"10Base-T: Cat3, 4, 5 or above UTP(≤250m) / 100Base-TX: Cat5 or above UTP(≤150m) / 1000Base-TX: Cat6 or above UTP(≤150m)"
+],
+[
+"LED Indicator",
+"P: Power LED(over-power LED) / Uplink: Link LED=10/100M Link, 1000M=Gigabit Link / Port: Orange=PoE LED, Green=LAN Link LED"
+],
+[
+"Power",
+"AC100~240V input, built-in AC-DC converter"
+],
+[
+"Operating Temperature / Humidity",
+"-10°C～+55°C / 5%～90% RH Non-condensing"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+75°C / 5%～95% RH Non-condensing"
+],
+[
+"Dimension / L*W*H",
+"Device: 190*130*35mm / Packing Box: 265*220*68mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.6Kg/1.0Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us / IP30"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368\nFCC Part 15 Class B; RoHS"
+],
+[
+"Warranty",
+"1 Year"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STC-028FP-24V"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STC-028FP-24V"
+],
+[
+"Product Name",
+"10 port 10/100Mbps Ethernet Passive PoE Switch"
+],
+[
+"Fixed Port",
+"8*10/100Base-TX PoE port(Data/Power) / 2*10/100Base-TX Uplink RJ45 port(Data)"
+],
+[
+"PoE Ports",
+"1-8 port supports IEEE802.3at, max 30W/port, PoE out 24V"
+],
+[
+"PoE Pin",
+"af/at: 45+ 78-"
+],
+[
+"PoE Budget",
+"Max 120W"
+],
+[
+"Bandwidth",
+"2Gbps"
+],
+[
+"Packet Forwarding",
+"1.48Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"768K"
+],
+[
+"Network Medium",
+"10Base-T: Cat3, 4, 5 or above UTP(≤250m) / 100Base-TX: Cat5 or above UTP(≤150m)"
+],
+[
+"LED Indicator",
+"P: Power LED(over-power LED) / Uplink: LED=10/100M Link/Act LED / Port: Orange=PoE LED, Green=LAN Link LED"
+],
+[
+"Power",
+"AC100~240V input, built-in AC-DC converter"
+],
+[
+"Operating Temperature / Humidity",
+"-10°C～+55°C / 5%～90% RH Non-condensing"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+75°C / 5%～95% RH Non-condensing"
+],
+[
+"Dimension / L*W*H",
+"Device: 210*150*35mm / Packing Box: 265*220*68mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.8Kg/1.2Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us / IP30"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368\nFCC Part 15 Class B; RoHS"
+],
+[
+"Warranty",
+"1 Year"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STC-028GP-24V"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"S1100P-8G-2G-24V"
+],
+[
+"Product Name",
+"10 port 10/100/1000Mbps Ethernet Passive PoE Switch"
+],
+[
+"Fixed Port",
+"8*10/100/1000Base-TX PoE port(Data/Power) / 2*10/100/1000Base-TX Uplink RJ45 port(Data)"
+],
+[
+"PoE Ports",
+"1-8 port supports IEEE802.3at, max 30W/port, PoE out 24V"
+],
+[
+"PoE Pin",
+"af/at: 45+ 78-"
+],
+[
+"PoE Budget",
+"Max 120W"
+],
+[
+"Bandwidth",
+"20Gbps"
+],
+[
+"Packet Forwarding",
+"14.88Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Network Medium",
+"10Base-T: Cat3, 4, 5 or above UTP(≤250m) / 100Base-TX: Cat5 or above UTP(≤150m) / 1000Base-TX: Cat6 or above UTP(≤150m)"
+],
+[
+"LED Indicator",
+"P: Power LED(over-power LED) / Uplink: Link LED=10/100M Link, 1000M=Gigabit Link / Port: Orange=PoE LED, Green=LAN Link LED"
+],
+[
+"Power",
+"AC100~240V input, built-in AC-DC converter"
+],
+[
+"Operating Temperature / Humidity",
+"-10°C～+55°C / 5%～90% RH Non-condensing"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+75°C / 5%～95% RH Non-condensing"
+],
+[
+"Dimension / L*W*H",
+"Device: 210*150*35mm / Packing Box: 265*220*68mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.8Kg/1.2Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us / IP30"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368\nFCC Part 15 Class B; RoHS"
+],
+[
+"Warranty",
+"1 Year"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STC-1116CGFP-24V"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STC-1116CGFP-24V"
+],
+[
+"Product Name",
+"19 port 10/100&1000Mbps Ethernet Passive PoE Switch"
+],
+[
+"Fixed Port",
+"16*10/100Base-TX PoE port(Data/Power) / 1*10/100/1000Base-TX Uplink RJ45 port(Data) / 1*1000M SFP/RJ45(Combo)"
+],
+[
+"PoE Ports",
+"1-16 port supports IEEE802.3at, max 30W/port, PoE out 24V"
+],
+[
+"PoE Pin",
+"af/at: 45+  78-"
+],
+[
+"PoE Budget",
+"Max 150W"
+],
+[
+"Bandwidth",
+"20Gbps"
+],
+[
+"Packet Forwarding",
+"6.55Mpps"
+],
+[
+"MAC",
+"8K"
+],
+[
+"Buffer",
+"4M"
+],
+[
+"Network Medium",
+"10Base-T: Cat3, 4, 5 or above UTP(≤250m) / 100Base-TX: Cat5 or above UTP(≤150m) / 1000Base-TX: Cat6 or above UTP(≤150m)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multi-mode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"POWER: Power LED(over-power LED) / 18: SFP connection indicator / S: Super mode LED, 250-meter PoE distance / Uplink: Link LED=10/100M Link, 1000M=Gigabit Link / Port: Orange=PoE LED, Green=LAN Link LED"
+],
+[
+"Power",
+"AC100~240V input, built-in AC-DC converter"
+],
+[
+"Operating Temperature / Humidity",
+"-10°C～+55°C / 5%～90% RH Non-condensing"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+75°C / 5%～95% RH Non-condensing"
+],
+[
+"Dimension / L*W*H",
+"Device: 295*195*45mm / Packing Box: 410*278*95mm"
+],
+[
+"N.W/G.W(Kg)",
+"1.6Kg/2.4Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us / IP30"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368\nFCC Part 15 Class B; RoHS"
+],
+[
+"Warranty",
+"1 Year"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STC-2216GP-24V"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STC-2216GP-24V"
+],
+[
+"Product Name",
+"20 port 10/100/1000Mbps Ethernet Passive PoE Switch"
+],
+[
+"Fixed Port",
+"16*10/100/1000Base-TX PoE port(Data/Power) / 2*10/100/1000Base-TX Uplink RJ45 port(Data) / 2*1000M SFP"
+],
+[
+"PoE Ports",
+"1-16 port supports IEEE802.3at, max 30W/port, PoE out 24V"
+],
+[
+"PoE Pin",
+"af/at: 45+ 78-"
+],
+[
+"Function",
+"N: Standard normal / V: Port isolation / C: Flow control mode"
+],
+[
+"PoE Budget",
+"Max 300W"
+],
+[
+"Bandwidth",
+"56Gbps"
+],
+[
+"Packet Forwarding",
+"41.67Mpps"
+],
+[
+"MAC",
+"8K"
+],
+[
+"Buffer",
+"4.1M"
+],
+[
+"Network Medium",
+"10Base-T: Cat3, 4, 5 or above UTP(≤250m) / 100Base-TX: Cat5 or above UTP(≤150m) / 1000Base-TX: Cat6 or above UTP(≤150m)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multi-mode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"POWER: Power LED / 19-20: SFP connection indicator / Uplink: 10/100M=Green Link, 1000M=Orange Link / Downlink: 10/100M=Green Link, 1000M=Orange Link"
+],
+[
+"Power",
+"AC100~240V input, built-in AC-DC converter"
+],
+[
+"Operating Temperature / Humidity",
+"-10°C～+55°C / 5%～90% RH Non-condensing"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+75°C / 5%～95% RH Non-condensing"
+],
+[
+"Dimension / L*W*H",
+"Device: 295*195*45mm / Packing Box: 410*278*95mm"
+],
+[
+"N.W/G.W(Kg)",
+"1.6Kg/2.4Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us / IP30"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368\nFCC Part 15 Class B; RoHS"
+],
+[
+"Warranty",
+"1 Year"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STC-2224GP-24V"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"S2800P-24G-2TS"
+],
+[
+"Product Name",
+"28 port 10/100/1000Mbps Rack Type Ethernet Passive PoE Switch"
+],
+[
+"Fixed Port",
+"24*10/100/1000Base-TX PoE port(Data/Power) / 2*10/100/1000Base-TX Uplink RJ45 port(Data) / 2*1000M SFP"
+],
+[
+"PoE Ports",
+"1-24 port supports IEEE802.3at, max 30W/port, PoE out 24V"
+],
+[
+"PoE Pin",
+"af/at: 45+ 78-"
+],
+[
+"PoE Budget",
+"Max 300W"
+],
+[
+"Bandwidth",
+"56Gbps"
+],
+[
+"Packet Forwarding",
+"41.67Mpps"
+],
+[
+"MAC",
+"8K"
+],
+[
+"Buffer",
+"4M"
+],
+[
+"Network Medium",
+"10Base-T: Cat3, 4, 5 or above UTP(≤250m) / 100Base-TX: Cat5 or above UTP(≤150m) / 1000Base-TX: Cat6 or above UTP(≤150m)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multi-mode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PWR: Power LED(green) / 1-24: 10/100/1000M Network connection indicator(green) / 25-26: 10/100/1000M Network connection indicator(green) / 27-28: SFP connection indicator(green) / PoE: PoE indicator(orange)"
+],
+[
+"Power",
+"AC100~240V input, built-in AC-DC converter"
+],
+[
+"Operating Temperature / Humidity",
+"-10°C～+55°C / 5%～90% RH Non-condensing"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+75°C / 5%～95% RH Non-condensing"
+],
+[
+"Dimension / L*W*H",
+"Device: 440*290*45mm / Packing Box: 515*375*95mm"
+],
+[
+"N.W/G.W(Kg)",
+"2.9Kg/3.6Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us / IP30"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368\nFCC Part 15 Class B; RoHS"
+],
+[
+"Warranty",
+"1 Year"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STC-0224GFP-24V"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STC-0224GFP-24V"
+],
+[
+"Product Name",
+"26 port 10/100&1000Mbps Ethernet Passive PoE Switch"
+],
+[
+"Fixed Port",
+"24*10/100Base-TX  PoE port(Data/Power) / 2*10/100/1000Base-TX Uplink RJ45 port(Data)"
+],
+[
+"PoE Ports",
+"1-24 port supports IEEE802.3at, max 30W/port, PoE out 24V"
+],
+[
+"PoE Pin",
+"af/at: 45+ 78-"
+],
+[
+"PoE Budget",
+"Max 300W"
+],
+[
+"Bandwidth",
+"16Gbps"
+],
+[
+"Packet Forwarding",
+"6.55Mpps"
+],
+[
+"MAC",
+"8K"
+],
+[
+"Buffer",
+"4.1M"
+],
+[
+"Network Medium",
+"10Base-T: Cat3, 4, 5 or above UTP(≤250m) / 100Base-TX: Cat5 or above UTP(≤150m) / 1000Base-TX: Cat6 or above UTP(≤150m)"
+],
+[
+"LED Indicator",
+"PWR: Power LED(green) / 1-24: 10/100M Network connection indicator(green) / 25-26: 10/100/1000M Network connection indicator(green) / PoE: PoE indicator(orange)"
+],
+[
+"Power",
+"AC100~240V input, built-in AC-DC converter"
+],
+[
+"Operating Temperature / Humidity",
+"-10°C～+55°C / 5%～90% RH Non-condensing"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+75°C / 5%～95% RH Non-condensing"
+],
+[
+"Dimension / L*W*H",
+"Device: 440*290*45mm / Packing Box: 515*375*95mm"
+],
+[
+"N.W/G.W(Kg)",
+"2.9Kg/3.6Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us / IP30"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368\nFCC Part 15 Class B; RoHS"
+],
+[
+"Warranty",
+"1 Year"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STC-2024GP-24V"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STC-2024GP-24V"
+],
+[
+"Product Name",
+"26 port 10/100/1000Mbps Ethernet Passive PoE Switch"
+],
+[
+"Fixed Port",
+"24*10/100/1000Base-TX PoE port(Data/Power) / 2*1000M SFP"
+],
+[
+"PoE Ports",
+"1-23 port supports IEEE802.3at, max 30W/port, PoE out 24V"
+],
+[
+"PoE Pin",
+"af/at: 45+ 78-"
+],
+[
+"Function",
+"N: Standard normal / V: Port isolation / C: Flow control mode"
+],
+[
+"PoE Budget",
+"Max 300W"
+],
+[
+"Bandwidth",
+"56Gbps"
+],
+[
+"Packet Forwarding",
+"41.67Mpps"
+],
+[
+"MAC",
+"8K"
+],
+[
+"Buffer",
+"4.1M"
+],
+[
+"Network Medium",
+"10Base-T: Cat3,4,5 or above UTP(≤250m) / 100Base-TX: Cat5 or above UTP(≤150m) / 1000Base-TX: Cat6 or above UTP(≤150m)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multi-mode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PWR: Power LED(green) / 1-24: 10/100/1000M Network connection indicator(green) / 25-26: SFP connection indicator(green) / PoE: PoE indicator(orange)"
+],
+[
+"Power",
+"AC100~240V input, built-in AC-DC converter"
+],
+[
+"Operating Temperature / Humidity",
+"-10°C～+55°C / 5%～90% RH Non-condensing"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+75°C / 5%～95% RH Non-condensing"
+],
+[
+"Dimension / L*W*H",
+"Device: 440*290*45mm / Packing Box: 515*375*95mm"
+],
+[
+"N.W/G.W(Kg)",
+"2.9Kg/3.6Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us / IP30"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368\nFCC Part 15 Class B; RoHS"
+],
+[
+"Warranty",
+"1 Year"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Case Study"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"Application"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Hospital Nurse Call System"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"PDs"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"LED lights: provide light in corridors, wards and bathrooms"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Corridor touch panels: indicating time, diagnostic sequence, hospital information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Cameras: real-time monitoring"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Speakers: play music, emergency communication, maintain order"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Door contacts: added security for wards, authorized access"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Call points: efficient communication, emergency call"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Alarms: danger warning"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"Model"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STC-2224GFP-24V"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Specification: 2*1G SFP+2*1G Copper uplink+24*10/100M PoE downlink, 24V PoE output"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Useful feature: 24V PoE output"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STC-208GP-Auto"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Specification: 2*1G SFP+8*10/100/1000M PoE, auto-adaptive 24V/48V PoE output"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Useful feature: auto-adaptive 24V/48V PoE output"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STC-4424GCP-4BT-Auto"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Specification: 4*1G SFP/RJ45 Combo+24*10/100/1000M PoE, 1~4 PoE ports auto-adaptive 24V/48V PoE output, 5~8 PoE ports support PoE af/at/bt output"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Useful feature: 4*1G Combo, auto-adaptive 24V/48V PoE output, PoE af/at/bt output"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For above listed PDs, most receive 24V power input, some do 48V(like PoE cameras)."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The recommended 3 models are well suited for such projects or similar."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"24V PoE output: for 24V power input PDs"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Auto-adaptive 24V/48V PoE output: for multiple PDs with both 24V and 48V power input"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Combo: for flexible port combination"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE af/at/bt: for some power-hungry devices like PTZ camera, digital signage"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"Conclusion"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Above information explains a typical 24V passive PoE application project."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"By analyzing the PDs and model features from Saga Telecom, a PoE solution package is provided and also applicable to similar projects."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Moreover: Saga Telecom also offers active PoE switches or industrial PoE switches, please talk with us for more information."
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"FAQ"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Leadtime"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Production starts AFTER payment is received"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that it usually takes 1~2 working days for our bank to receive the payment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Production time is usually 4~7 working days for standard(non-customized)models(no more than 50Pcs)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipping time is usually 4~7 days by express"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"In total, it takes 10~15 calendar days to arrive at local customs for clearance"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is an estimated period, it usually does not take this long to receive the order"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We will send the goods by express(DHL, UPS or FEDEX)or by sea(for bulk orders)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to ship purchased items via client’s shipping account(DHL, UPS or FEDEX)or forwarders in China"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MoQ"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1 Pc/Pair(It is NOT free, Saga Telecom do NOT do FREE SAMPLES)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to have sample testing before bulk orders"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that we do NOT suggest 1pc/pair in sample testing, better make it at least 2 pieces/pairs in case of any possible dysfunction in production/transportation(then all efforts are gone, a big waste of time)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Warranty"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1 year for commercial models(STC series)and 3 years for industrial models(STI series)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please kindly refer to the “Warranty Policy” for more information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Technical assistance is always available"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Discount"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Available and it is usually based on quantity and AFTER sample testing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The price negotiation makes sense ONLY IF a client is satisfied with the quality"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For distributorship, that we are now seeking, best prices will be provided"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Payment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"T/T transfer and PayPal"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to pay 50% first and another 50% before shipment for a bulk order(this is about standard/non-customized models)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"FULL PAYMENT for a customization order BEFORE PRODUCTION(non-negotiated)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to be paid via client’s forwarder(this is usually about RMB payment on Alipay or WeChat)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Transaction Cost"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is standard charge 25usd for EACH T/T transfer whatever the invoice value is"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is 5usd for every 100usd to PayPal a/c, this ratio is standard charge by PayPal"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"User Manual"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that there is a user manual(with necessary information for usage and installation)in the packing box Actually most of the necessary information is available in this datasheet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We can help print a copy of your version and put it in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing Box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Without Chinese letters or logo"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Hard carton, resilient to wrinkle, good for reselling even after shipment(there is protective foam inside to avoid possible damage)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Customized version is available(with your logo/model/slogan or remove the patterns), but there is MoQ and cost for this, discussion is required"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Label"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"There is product information/model name/serial number on the label"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to write client’s version"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Standard language is English"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If a different language is adopted like Russian, Italian, Korean..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please share EXACT translation, we will simply copy and print"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Barcodes are scannable for inbound statistics"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"“Made in China” description is there and can be removed if required"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"An example photo will be shared for confirmation before mass printing for a bulk order"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"There are 2 copies for each manufactured product. One is attached on the device, the other is on the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Certification"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CE/RoHS/FCC/Reach/UKCA"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please let us know if you need to check the certificates"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"RMA"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please contact us ASAP once there is a problem of ANY KIND"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please also read below “after-sales support” information to understand how to proceed"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For every 100Pcs, there will be 2 extra free units(2% RMA)against immediate warranty coverage"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This rule stands for all Saga Telecom models and even there is not an after-sales issue"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If it is about missing/faulty parts in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please simply use the extra units for the replacem"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"ent and let us know this problem(we will improve)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If it is about usage problem"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom will provide technical support and send new units when necessary(in this occasion, we will be responsible for both product cost and shipping cost, but the local customs clearance cost, if any, is on clients)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SKD/CKD"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Available"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SKD is simple, please just let us know how you would like to have it"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CKD usually involves confidential information such as BOM list, schematic design, PCB layout etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is based on solid cooperation AND bulk orders, thorough discussion is required to do CKD mode"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OEM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Available"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Discussion is required for complex changes, meanwhile an NDA(Non-disclosure Agreement)contract will be agreed upon and signed"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Relevant cooperation information will not be leaked to a third party without client’s permission"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is mainly about 2 categories"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Industrial manufacturing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Show client’s logo/model on the device/label"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Use client’s packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Design client’s product PVC sticker"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Customize some parts of a model like rear panel/power input terminal block/panels..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that there might be an extra cost for such OEM services"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Management features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Show client’s logo/model on the management interface"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Change IP address"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MAC address"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SNMP, OID"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Above changes are free of cost and please know that"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Font format&GUI color are NOT changeable for the management interface"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We can also help with develop exact features/specifications based on given chips or PCB board designs, this is more complex, thorough discussion is required"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Incoterms"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"EXW term is our focus"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Sometimes we do FOB/CIF for bulk orders, this depends on cases, please talk with us for more information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Online Store"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Currently we do not have an online store(Amazon, Shopify, Aliexpress etc.)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We will add a store link in this datasheet when available"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Branch/Distribution"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Currently we do not have ANY overseas branches or distributors"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We are actively seeking good agents/resellers to promote our brand and products"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Necessary technical and pricing support will be provided"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please let us know if you are interested"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Material Preparation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"20% deposit will be collected beforehand for material preparation if there is a strict requirement of production time."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is to protect ourselves from the awkward situation where we have prepared the materials while the clients do not successfully place the order due to different reasons"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This deposit will be deducted from total amount if this order is secured"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This deposit will be returned after we consumed half of the prepared materials in other orders if this order is not placed"
+},
+{
+"t":"table",
+"rows":[
+[
+"Product Label",
+"Certificate of Warranty"
+],
+[
+"Shipping Label",
+""
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that this is for your reference only(roughly like this, but subject to final format)"
+}
+],
+"extracted_at":"2026-10-23T05:20:34Z"
+}

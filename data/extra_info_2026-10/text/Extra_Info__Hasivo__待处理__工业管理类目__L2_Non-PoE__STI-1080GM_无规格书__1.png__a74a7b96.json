@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__工业管理类目__L2_Non-PoE__STI-1080GM_无规格书__1.png__a74a7b96",
+"path":"Extra_Info/Hasivo/待处理/工业管理类目/L2 Non-PoE/STI-1080GM 无规格书/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":735850,
+"sha256":"a74a7b9620b2ac469685b2da0704b8c4fd2c77dcc2a7c7c5556eda96d98ba7be",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1205,
+"height":542,
+"mode":"RGBA",
+"thumb_bytes":10102
+},
+"warnings":[],
+"chars":20,
+"text":"8GE + osFP\n<\nz\n@\ne\nz",
+"extracted_at":"2026-10-23T05:22:08Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__工业管理类目__L2_Non-PoE__STI-1080GM_无规格书__1.png__a74a7b96.jpg"
+}

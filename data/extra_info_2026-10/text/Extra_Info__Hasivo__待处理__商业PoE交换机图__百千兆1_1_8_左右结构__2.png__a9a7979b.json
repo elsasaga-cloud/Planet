@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__百千兆1_1_8_左右结构__2.png__a9a7979b",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/百千兆1+1+8 左右结构/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":34653875,
+"sha256":"a9a7979b68fd66c7f249d20e9def1552861e7dc9e5a52a0093290de158b998c4",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1553,
+"height":410,
+"mode":"RGBA",
+"thumb_bytes":5631
+},
+"warnings":[],
+"chars":45,
+"text":"managed PoE Switch\naFE POEHIGEHSFP\nGigabit Um",
+"extracted_at":"2026-10-23T05:24:27Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__百千兆1_1_8_左右结构__2.png__a9a7979b.jpg"
+}

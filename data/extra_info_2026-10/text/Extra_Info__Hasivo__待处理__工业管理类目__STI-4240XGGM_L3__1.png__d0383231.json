@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__工业管理类目__STI-4240XGGM_L3__1.png__d0383231",
+"path":"Extra_Info/Hasivo/待处理/工业管理类目/STI-4240XGGM_L3/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":37508223,
+"sha256":"d0383231467368f776a3f9b83f2af2167242a06e4f0a697cc553fcca3d27996a",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":4564,
+"height":1137,
+"mode":"RGBA",
+"thumb_bytes":5039
+},
+"warnings":[],
+"chars":139,
+"text":"L3 Managed Industrial Switch\n24GE RJ45+4*10GE SFP+\nAlarm Out:DC12V 1A MAX\nee] [aq ea\n司 习 |\n3\n人\n已 本 四 pw 于 于\nZe\nbc2s7y MAxaew\noc. ce\nconsole",
+"extracted_at":"2026-10-23T05:22:19Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__工业管理类目__STI-4240XGGM_L3__1.png__d0383231.jpg"
+}

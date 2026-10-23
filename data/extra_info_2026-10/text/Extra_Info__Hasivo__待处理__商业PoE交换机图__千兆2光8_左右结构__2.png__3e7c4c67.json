@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆2光8_左右结构__2.png__3e7c4c67",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/千兆2光8 左右结构/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":996442,
+"sha256":"3e7c4c67bd0055797a262942c1265b7b7c10ce0359c9e063355078df7af90455",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1794,
+"height":654,
+"mode":"RGBA",
+"thumb_bytes":5662
+},
+"warnings":[],
+"chars":61,
+"text":"ESwitch\n99\nGigabit Fiber Po\na - 1 @10\n-—= ‘\ngFP-10 oe\n=\nSFP43",
+"extracted_at":"2026-10-23T05:24:00Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆2光8_左右结构__2.png__3e7c4c67.jpg"
+}

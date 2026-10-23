@@ -1,0 +1,152 @@
+{
+"id":"Extra_Info__Template__Standard_Production.docx__7b60db49",
+"path":"Extra_Info/Template/Standard Production.docx",
+"name":"Standard Production.docx",
+"ext":".docx",
+"bytes":851717,
+"sha256":"7b60db4993bae1ade82733087c48b826afa2260dabe6fd59120de329921293c8",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2025-12-19T11:44:00+00:00",
+"modified":"2025-12-19T11:47:01+00:00",
+"paragraphs":25,
+"tables":0,
+"embedded_images":23
+},
+"warnings":[],
+"chars":2212,
+"text":"The standard production mainly consists of 8 steps\nProcessing>Cleaning>Assembling>Testing>Aging>Performance Testing>QC Testing>Packing\nPCBA Processing: SMT welding and DIP insertion\nWith professional equipment, this increase accuracy and efficiency\nCleaning: To avoid any possible dysfunction due to dust or scraps on the PCB boards\nConformal coatings will sometimes be used to protected the PCB boards\nAssembling: Build up components of a product, like panels, screws, PCB boards\nBasic Testing: To make sure the product, after assembling, is basically working fine such as LED indicator, voltage range...\nAging: This is a preparation step for comprehensive performance test\nDevices will be put in the Aging  chamber for 24 to 48 hours\nPerformance Testing: This requires professional equipment to check if the device meets the standard such as lighting surge, data loss or working temperature range...\nTHIS IS THE MOST IMPORTANT STEP TO SECURE GOOD QUALITY\nQC Testing: This is the third and also last check covering product appearance and ping testing\nDevice outlook will be inspected to avoid improperly placed PVC mask or scratches on the casing\nPing testing will be done to all the devices and then there will be another random testing\nPacking: Labels will be attached on the device, accessories(user manual, mounting kit, power supply...)will be placed in the box for sealing\nWhen all above is done, the product will go to market\nRemark\nAging Time: 8 to 24 hours(at least 8 hours)\n8 hours for frequently ordered models\n24 hours for customized models to ensure stable operation\nThe actual aging time depends on complaint rate and order urgency\nIf we have not received negative feedback for a long time(like popular models STI-244GP and STI-050GE), we simply do the Aging  time 8 hours for fast delivery\nFactory Information\nhttps://drive.google.com/drive/folders/1ZQf5fuarApYs6A-LuKwD7dI6INS8RRm4?usp=sharing\n[页眉页脚]\n2026/Q1                                                                                                                                                         Saga Telecom\nwww.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"The standard production mainly consists of 8 steps"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Processing>Cleaning>Assembling>Testing>Aging>Performance Testing>QC Testing>Packing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PCBA Processing: SMT welding and DIP insertion"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"With professional equipment, this increase accuracy and efficiency"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Cleaning: To avoid any possible dysfunction due to dust or scraps on the PCB boards"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Conformal coatings will sometimes be used to protected the PCB boards"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Assembling: Build up components of a product, like panels, screws, PCB boards"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Basic Testing: To make sure the product, after assembling, is basically working fine such as LED indicator, voltage range..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Aging: This is a preparation step for comprehensive performance test"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Devices will be put in the Aging  chamber for 24 to 48 hours"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Performance Testing: This requires professional equipment to check if the device meets the standard such as lighting surge, data loss or working temperature range..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"THIS IS THE MOST IMPORTANT STEP TO SECURE GOOD QUALITY"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"QC Testing: This is the third and also last check covering product appearance and ping testing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Device outlook will be inspected to avoid improperly placed PVC mask or scratches on the casing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ping testing will be done to all the devices and then there will be another random testing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing: Labels will be attached on the device, accessories(user manual, mounting kit, power supply...)will be placed in the box for sealing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"When all above is done, the product will go to market"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Aging Time: 8 to 24 hours(at least 8 hours)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"8 hours for frequently ordered models"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"24 hours for customized models to ensure stable operation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The actual aging time depends on complaint rate and order urgency"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If we have not received negative feedback for a long time(like popular models STI-244GP and STI-050GE), we simply do the Aging  time 8 hours for fast delivery"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Factory Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://drive.google.com/drive/folders/1ZQf5fuarApYs6A-LuKwD7dI6INS8RRm4?usp=sharing"
+}
+],
+"extracted_at":"2026-10-23T05:20:22Z"
+}

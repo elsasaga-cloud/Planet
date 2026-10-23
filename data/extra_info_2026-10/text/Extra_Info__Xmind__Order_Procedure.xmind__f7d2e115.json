@@ -1,0 +1,18 @@
+{
+"id":"Extra_Info__Xmind__Order_Procedure.xmind__f7d2e115",
+"path":"Extra_Info/Xmind/Order Procedure.xmind",
+"name":"Order Procedure.xmind",
+"ext":".xmind",
+"bytes":122693,
+"sha256":"f7d2e115085215c3a58305f10a524762bcf5b18c0bac8d90d5578ae06159ef3a",
+"source":"Extra_Info.zip",
+"method":"xmind(content.xml)",
+"status":"ok",
+"meta":{
+"lines":35
+},
+"warnings":[],
+"chars":1756,
+"text":"# Sheet: 画布 1\n- Order Procedure\n  - Step 1/Product Discussion\n    - Finalize Specification, Quantity, Customized Requirements...\r\nMove on to Step 2\n    - No agreement is achieved due to pricing, unavailable offer...\r\nWait for next business opportunity\n  - Step 2/Ordering\n    - Customer sends PO\n      - This is not necessarily required\n    - Seller drafts PI\n      - Required\n      - Contact info, pricing, qu'antity, shipping time... \r\nshould be specified in this invoice\n    - Customer checks\n      - Make payment if PI is fine\n      - Notifies seller to revise the points in question\n  - Step 3/Payment\n    - PayPal/Bank transfer ONLY\n      - PayPal is usually for sample order of small invoice value\r\n5Usd will be charged for every 100Usd into our PayPal account\r\nThis cost is taken away by PayPal(transaction cost)\n      - Bank transfer is usually about repeat and bulk order\r\nStandard charge for each order: 25usd\n    - Customer sends payment receipt\n      - Material preparation starts off\n    - Seller receives payment\n      - Production starts off\n  - Step 4/Shipping\n    - Dispatch ready\n      - Order photos and videos available\n      - Customer confirmation is required to release out the order\n    - Shipping method\n      - Customer designated forwarder\n        - This is usually about customer's shipping agent\r\nWe will directly send purchased items to agent for further processing\n      - Our shipping agent\n        - We will quote based on total weight to customer\r\nIt is usually air service by DHL/FedEx/UPS\r\nIf this is fine, this cost will be included in PI(Step 2)\n      - Customer shipping account\n        - We support shipment via customer's shipping a/c\n    - Shipping number\n      - Seller should send awb to customer once available",
+"extracted_at":"2026-10-23T05:20:10Z"
+}

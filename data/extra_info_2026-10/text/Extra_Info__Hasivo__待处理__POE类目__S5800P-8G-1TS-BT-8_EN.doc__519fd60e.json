@@ -1,0 +1,116 @@
+{
+"id":"Extra_Info__Hasivo__待处理__POE类目__S5800P-8G-1TS-BT-8_EN.doc__519fd60e",
+"path":"Extra_Info/Hasivo/待处理/POE类目/S5800P-8G-1TS-BT-8_EN.doc",
+"name":"S5800P-8G-1TS-BT-8_EN.doc",
+"ext":".doc",
+"bytes":32256,
+"sha256":"519fd60e48d889e6d5371127b986b6209984a600bbc6247d4575cf5153acb3e6",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:20:54+00:00",
+"paragraphs":0,
+"tables":1,
+"embedded_images":0
+},
+"warnings":[],
+"chars":1370,
+"text":"Model\tS5800P-8G-1TS-BT-8\nProduct mame\tFull Gigabit 1SFP+9GE BT POE Switch\nFixed Port\t8*10/100/1000Base-TX PoE port（Data/Power） / 1*10/100/1000Base-TX uplink RJ45 port (Data) / 1*1000M SFP\nPoE Ports\t1-8 port supports IEEE802.3af/at/poe++/bt, max 90W PoE out\nPoE Pin\taf/at/poe++/bt: 12+ 45+  36- 78-\nPoE Bridge\tmax 800W\nBandwidth\t20Gbps\nPacket Forwarding\t14.88Mpps\nMAC\t8K\nBuffer\t2.5M\nTransmission Distance\t10BASE-T ： Cat3,4,5 UTP(≤250 meter) / 100BASE-TX ： Cat5 or later UTP(150 meter) / 1000BASE-TX ： Cat6 or later UTP(150 meter) / SFP: 1000M single and multimode optical module with maximum distance ≤ 120km (depending on the optical module)\nLED Indicator\tPW:Power LED(over-power LED) / 1-8:PoE_Work indicator;Link_Network connection indicator / 9:Network connection indicator / 10:SFP connection indicator / Port:(Orange=PoE LED, Green=LAN Link LED）\nPower\tBuilt-in power AC：100-240Vac 50-60Hz 10A   max 808W\nOperating Temperature/Humidity\t-10～+55°C；5%～90% RH Non coagulation\nStorage Temperature/Humidity\t-40～+75°C；5%～95% RH Non coagulation\nProduct /Packing / size（L*W*H）\t440mm*240mm*45mm / 515mm*375mm*95mm\nN.W/G.W（kg）\t3.3kg/4.0kg\nLightning / Protection  level\t6KV 8/20us； / IP30\nInstallation\tRack-mount (optional machine hanger spare parts)\nCertificate\tCE-EMC EN55032；CE-LVD EN62368；\nFCC Part 15 Class B；RoHS；\nWarranty\tWhole device for 1 year(Accessories not included)",
+"blocks":[
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"S5800P-8G-1TS-BT-8"
+],
+[
+"Product mame",
+"Full Gigabit 1SFP+9GE BT POE Switch"
+],
+[
+"Fixed Port",
+"8*10/100/1000Base-TX PoE port（Data/Power） / 1*10/100/1000Base-TX uplink RJ45 port (Data) / 1*1000M SFP"
+],
+[
+"PoE Ports",
+"1-8 port supports IEEE802.3af/at/poe++/bt, max 90W PoE out"
+],
+[
+"PoE Pin",
+"af/at/poe++/bt: 12+ 45+  36- 78-"
+],
+[
+"PoE Bridge",
+"max 800W"
+],
+[
+"Bandwidth",
+"20Gbps"
+],
+[
+"Packet Forwarding",
+"14.88Mpps"
+],
+[
+"MAC",
+"8K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Transmission Distance",
+"10BASE-T ： Cat3,4,5 UTP(≤250 meter) / 100BASE-TX ： Cat5 or later UTP(150 meter) / 1000BASE-TX ： Cat6 or later UTP(150 meter) / SFP: 1000M single and multimode optical module with maximum distance ≤ 120km (depending on the optical module)"
+],
+[
+"LED Indicator",
+"PW:Power LED(over-power LED) / 1-8:PoE_Work indicator;Link_Network connection indicator / 9:Network connection indicator / 10:SFP connection indicator / Port:(Orange=PoE LED, Green=LAN Link LED）"
+],
+[
+"Power",
+"Built-in power AC：100-240Vac 50-60Hz 10A   max 808W"
+],
+[
+"Operating Temperature/Humidity",
+"-10～+55°C；5%～90% RH Non coagulation"
+],
+[
+"Storage Temperature/Humidity",
+"-40～+75°C；5%～95% RH Non coagulation"
+],
+[
+"Product /Packing / size（L*W*H）",
+"440mm*240mm*45mm / 515mm*375mm*95mm"
+],
+[
+"N.W/G.W（kg）",
+"3.3kg/4.0kg"
+],
+[
+"Lightning / Protection  level",
+"6KV 8/20us； / IP30"
+],
+[
+"Installation",
+"Rack-mount (optional machine hanger spare parts)"
+],
+[
+"Certificate",
+"CE-EMC EN55032；CE-LVD EN62368；\nFCC Part 15 Class B；RoHS；"
+],
+[
+"Warranty",
+"Whole device for 1 year(Accessories not included)"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:20:54Z"
+}

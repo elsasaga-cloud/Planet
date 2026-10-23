@@ -1,0 +1,100 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-050FE__STI-050FE.doc__ec5f0ce3",
+"path":"Extra_Info/Hasivo/Industrial Ethernet_DONE/STI-050FE/STI-050FE.doc",
+"name":"STI-050FE.doc",
+"ext":".doc",
+"bytes":25139,
+"sha256":"ec5f0ce3ec443883a29d3bc9bd48419b93e0779833aa8eb597d29842e51de079",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:25:07+00:00",
+"paragraphs":0,
+"tables":1,
+"embedded_images":0
+},
+"warnings":[],
+"chars":995,
+"text":"Model\tSTI-050FE\nProduct Name\t5 port 10/100Mbps Industrial Ethernet Switch\nFixed Port\t4*10/100M RJ45 port / 1*10/100M Uplink RJ45 port\nBandwidth\t1Gbps\nPacket Forwarding\t0.74Mpps\nMAC\t1K\nBuffer\t768K\nLED Indicator\tPW: power indicator (green) / Uplink port: 10/100M connection indicator light / Port: green _10M network connection indicator / green+orange _100M network connection indicator / V1: Main power indicator (green) / V2: slave power indicator (green)\nPower\tThree groups of independent power input / SW: DC 12-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 105mm*90mm*36mm / Packing Box: 200mm*130mm*40mm\nN.W/G.W(Kg)\t0.5Kg/0.6Kg\nLightning / Protection level\t6KV 8/20us, 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years",
+"blocks":[
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-050FE"
+],
+[
+"Product Name",
+"5 port 10/100Mbps Industrial Ethernet Switch"
+],
+[
+"Fixed Port",
+"4*10/100M RJ45 port / 1*10/100M Uplink RJ45 port"
+],
+[
+"Bandwidth",
+"1Gbps"
+],
+[
+"Packet Forwarding",
+"0.74Mpps"
+],
+[
+"MAC",
+"1K"
+],
+[
+"Buffer",
+"768K"
+],
+[
+"LED Indicator",
+"PW: power indicator (green) / Uplink port: 10/100M connection indicator light / Port: green _10M network connection indicator / green+orange _100M network connection indicator / V1: Main power indicator (green) / V2: slave power indicator (green)"
+],
+[
+"Power",
+"Three groups of independent power input / SW: DC 12-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 105mm*90mm*36mm / Packing Box: 200mm*130mm*40mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.5Kg/0.6Kg"
+],
+[
+"Lightning / Protection level",
+"6KV 8/20us, 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:25:07Z"
+}

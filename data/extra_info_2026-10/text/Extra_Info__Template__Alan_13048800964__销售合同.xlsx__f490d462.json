@@ -1,0 +1,167 @@
+{
+"id":"Extra_Info__Template__Alan_13048800964__销售合同.xlsx__f490d462",
+"path":"Extra_Info/Template/Alan 13048800964/销售合同.xlsx",
+"name":"销售合同.xlsx",
+"ext":".xlsx",
+"bytes":150148,
+"sha256":"f490d462e80a50f7a6ac9abefded175d392d4d26f87f547e02f6d478947e5d06",
+"source":"Extra_Info.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"销售合同"
+],
+"embedded_images":2,
+"rows_total":33
+},
+"warnings":[],
+"chars":1771,
+"text":"--- Sheet: 销售合同 ---\nSaga Telecom\nAn Engineering & Supply-Chain-First Telecom Partner\nBuilt to Last, Continuous Supply, Evolving Together\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 15237149683                                                       www.sagatele.com                              Email: s.sagatelecom@gmail.com\nCONTRACT / 销售合同\n合同 / Invoice\tSTSC20230720001\n日期 / Date\t20th, July, 2023\n卖方\t郑州仨戛通讯器材有限公司\nSeller\tZhengzhou Saga Telecom Co., Ltd.\n地址\t郑州市管城区航海路中州大道富田太阳城57号楼22层316\nAddress: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nPhone: 86 15237149683\n买方 / Buyer\tAxitech Nanosystems Pvt ltd\n地址 / Address\t702, Metrix Building, B/h Divya Bhaskar Press,S G Highway,Corporate road，Makarba,, INDIA\n联系人 / Contact\tAnkit Trivedi\n电话 / Phone\t91 40075881\n收货方 / Ship to\tAxitech Nanosystems Pvt ltd\nAddress: 702, Metrix Building，B/h Divya Bhaskar Press，S G Highway,Corporate road，Makarba,, INDIA\nPhone:  91 40075881\n经买卖双方确认根据下列条款订立本合同：\nThis contract is made out by the Sellers and Buyers as per the following terms and conditions mutually confirmed:\n序列号                      Serial Number\t货物名称和数量\nName of Commodity and Specification\t\t\t数量\nQuantity\t单位\nUnit\t单价\nUnit Price\t金额\nAmount\n1\tIndustrial Ethernet Switch\n工业交换机\t\t\t2\t台 / PCS\t300\t600\nTotal\t\t\t\t2\t\t\t600\n备注:与客户协商后，达成共识承认以工厂的厂检单作为检验依据\nNOTE: According to the agreement, the quality is on the basis of factory inspection sheet.\n1. Shipment time: 4 working days after acknowledge receipt of payment\n2. Partial Shipment is not allowed\n3. Shipment terms: by DHL\n4. Destination: India\n买方\tAxitech Nanosystems Pvt ltd\t\t卖方\tZhengzhou Saga Telecom Co., Ltd.\n签字\tAnkit Trivedi\t\t签字\tSimon Cheng",
+"sheets":{
+"销售合同":{
+"state":"visible",
+"rows":[
+[
+"Saga Telecom"
+],
+[
+"An Engineering & Supply-Chain-First Telecom Partner"
+],
+[
+"Built to Last, Continuous Supply, Evolving Together"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 15237149683                                                       www.sagatele.com                              Email: s.sagatelecom@gmail.com"
+],
+[
+"CONTRACT / 销售合同"
+],
+[
+"合同 / Invoice",
+"STSC20230720001"
+],
+[
+"日期 / Date",
+"20th, July, 2023"
+],
+[
+"卖方",
+"郑州仨戛通讯器材有限公司"
+],
+[
+"Seller",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"地址",
+"郑州市管城区航海路中州大道富田太阳城57号楼22层316"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Phone: 86 15237149683"
+],
+[
+"买方 / Buyer",
+"Axitech Nanosystems Pvt ltd"
+],
+[
+"地址 / Address",
+"702, Metrix Building, B/h Divya Bhaskar Press,S G Highway,Corporate road，Makarba,, INDIA"
+],
+[
+"联系人 / Contact",
+"Ankit Trivedi"
+],
+[
+"电话 / Phone",
+"91 40075881"
+],
+[
+"收货方 / Ship to",
+"Axitech Nanosystems Pvt ltd"
+],
+[
+"Address: 702, Metrix Building，B/h Divya Bhaskar Press，S G Highway,Corporate road，Makarba,, INDIA"
+],
+[
+"Phone:  91 40075881"
+],
+[
+"经买卖双方确认根据下列条款订立本合同："
+],
+[
+"This contract is made out by the Sellers and Buyers as per the following terms and conditions mutually confirmed:"
+],
+[
+"序列号                      Serial Number",
+"货物名称和数量\nName of Commodity and Specification",
+"",
+"",
+"数量\nQuantity",
+"单位\nUnit",
+"单价\nUnit Price",
+"金额\nAmount"
+],
+[
+"1",
+"Industrial Ethernet Switch\n工业交换机",
+"",
+"",
+"2",
+"台 / PCS",
+"300",
+"600"
+],
+[
+"Total",
+"",
+"",
+"",
+"2",
+"",
+"",
+"600"
+],
+[
+"备注:与客户协商后，达成共识承认以工厂的厂检单作为检验依据"
+],
+[
+"NOTE: According to the agreement, the quality is on the basis of factory inspection sheet."
+],
+[
+"1. Shipment time: 4 working days after acknowledge receipt of payment"
+],
+[
+"2. Partial Shipment is not allowed"
+],
+[
+"3. Shipment terms: by DHL"
+],
+[
+"4. Destination: India"
+],
+[
+"买方",
+"Axitech Nanosystems Pvt ltd",
+"",
+"卖方",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"签字",
+"Ankit Trivedi",
+"",
+"签字",
+"Simon Cheng"
+]
+]
+}
+},
+"extracted_at":"2026-10-23T05:20:27Z"
+}

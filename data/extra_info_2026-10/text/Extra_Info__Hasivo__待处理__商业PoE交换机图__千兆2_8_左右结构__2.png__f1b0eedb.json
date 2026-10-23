@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆2_8_左右结构__2.png__f1b0eedb",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/千兆2+8  左右结构/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":34655536,
+"sha256":"f1b0eedbc654e50e0a45b9fa55ca908ab16ee1269278a0cfb69fa23fc9dc6126",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1553,
+"height":410,
+"mode":"RGBA",
+"thumb_bytes":5727
+},
+"warnings":[],
+"chars":61,
+"text":"Gi\nGigabit PoE Switch\njoa\n= SI =] Ge Poe+2GE UP\nv 1\n出 國\nof HP",
+"extracted_at":"2026-10-23T05:23:20Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆2_8_左右结构__2.png__f1b0eedb.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Template__Simon_15237149683__公章_Simon组合.png__673c5fce",
+"path":"Extra_Info/Template/Simon 15237149683/公章 Simon组合.png",
+"name":"公章 Simon组合.png",
+"ext":".png",
+"bytes":122104,
+"sha256":"673c5fce670938be1f8ef547d36b5857cb0255203c2ee4987e2d68609c2b127c",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":440,
+"height":236,
+"mode":"RGBA",
+"thumb_bytes":18241
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:20:26Z",
+"thumb":"thumbs/Extra_Info__Template__Simon_15237149683__公章_Simon组合.png__673c5fce.jpg"
+}

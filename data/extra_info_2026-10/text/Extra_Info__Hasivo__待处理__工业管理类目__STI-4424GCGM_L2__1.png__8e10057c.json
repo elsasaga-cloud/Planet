@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__工业管理类目__STI-4424GCGM_L2__1.png__8e10057c",
+"path":"Extra_Info/Hasivo/待处理/工业管理类目/STI-4424GCGM_L2/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":37634194,
+"sha256":"8e10057cca59d8516614356eff3a2f760c1cdbf8692ee8a8e44781d817564daf",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":4564,
+"height":1137,
+"mode":"RGBA",
+"thumb_bytes":5220
+},
+"warnings":[],
+"chars":140,
+"text":"L2 Managed Industrial Switch\n24GE RJ45+4GE COMBO SFP\nAlarm Out:DC12V 1A MAX\n[ee\ney fw]\n+]\nbc2s7y MAxaew\noc\nce\n25coveo\nzcowao\n25COMBO\n28COMBO",
+"extracted_at":"2026-10-23T05:22:31Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__工业管理类目__STI-4424GCGM_L2__1.png__8e10057c.jpg"
+}

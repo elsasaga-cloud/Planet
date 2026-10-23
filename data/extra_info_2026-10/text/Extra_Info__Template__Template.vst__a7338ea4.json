@@ -1,0 +1,18 @@
+{
+"id":"Extra_Info__Template__Template.vst__a7338ea4",
+"path":"Extra_Info/Template/Template.vst",
+"name":"Template.vst",
+"ext":".vst",
+"bytes":30208,
+"sha256":"a7338ea4ae96e9a367b5f36f021ccb2324e4f69d505217eb2991673aca3cc8d2",
+"source":"Extra_Info.zip",
+"method":"none",
+"status":"meta",
+"meta":{},
+"warnings":[
+"no extractor for .vst"
+],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:20:22Z"
+}

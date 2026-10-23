@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__S5800P-24F-2TC__1.png__23a36a84",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/S5800P-24F-2TC/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":1107395,
+"sha256":"23a36a848cd403320222ea34c95160daead51fbf1b8e147f1b40d05c2c5b526d",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":3284,
+"height":504,
+"mode":"RGBA",
+"thumb_bytes":4159
+},
+"warnings":[],
+"chars":148,
+"text":"VLAN\nNOMI!\nSUPM\n25\n1 5 7 9 則 13 15 17 19 21 23\n2 4 6 8 10 12 14 16 18 20 22 24\n26\nHybrid PoE Switch\nUnmanaged 24FE PoE+2GE Combo\n25-COMBO 。 26-COMBO",
+"extracted_at":"2026-10-23T05:22:47Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__S5800P-24F-2TC__1.png__23a36a84.jpg"
+}

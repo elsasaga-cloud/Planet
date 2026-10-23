@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Reference_Info__接地.jpg__101af1fc",
+"path":"Extra_Info/Reference Info/接地.jpg",
+"name":"接地.jpg",
+"ext":".jpg",
+"bytes":64823,
+"sha256":"101af1fc3ad710aab46303d2a44cc57de7a80b8c7f485859c2f6787623725dcc",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":900,
+"height":900,
+"mode":"RGB",
+"thumb_bytes":4460
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:12:47Z",
+"thumb":"thumbs/Extra_Info__Reference_Info__接地.jpg__101af1fc.jpg"
+}

@@ -1,0 +1,221 @@
+{
+"id":"Extra_Info__Reference_Info__UniPoE__DS__Long_Range_PoE_Switch__PM3027FSNR_V2-EN.doc__265eef89",
+"path":"Extra_Info/Reference Info/UniPoE/DS/Long Range PoE Switch/PM3027FSNR V2-EN.doc",
+"name":"PM3027FSNR V2-EN.doc",
+"ext":".doc",
+"bytes":871936,
+"sha256":"265eef89578985357b25f549a06b405009d97cd262f2708e9d9dcb01c0bb294b",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:19:15+00:00",
+"paragraphs":14,
+"tables":2,
+"embedded_images":3
+},
+"warnings":[],
+"chars":2841,
+"text":"Product Overview\nPM3027FSNR V2 has 24*10/100Mbps adaptive RJ45 ports, the uplink port is 1*1000Mbps Combo port and 1*10/100/1000Mbps RJ45 port, and each RJ45 port supports MDI/MDIX auto-flip and wire-speed forwarding. Among them, ports 1-24 have PoE power supply function ports 17-24 support remote transmission, support IEEE802.3af/at standard, the maximum power of the port can be up to 30W, and can be used as Power over Ethernet devices, which can automatically detect and identify the powered devices that comply with the standard, and supply power to them through the network cable. This product is simple and convenient to use, no need to configure, can meet the Enterprise, Community, Hotel, Office Network and Park Network Networking and access requirements.\nProduct Features\nSupports 802.3af/at standard;\nSingle PoE port output power up to 30W;\nAutomatic detection PD equipment;\n17-24 port 100Mbps data transmission and PoE power supply distance up to 300M (typical value), 10Mbps data transmission and PoE power supply distance up to 800M (used with remote equipment);\nSupports one-click PD-ALIVE, VLAN, CCTV, SCP modes.\nSupport IEEE802.3x full duplex flow control and Backpressure half duplex flow control;\nSupport 8K MAC address, automatic learning and automatic update;\nPanel indicator to monitor working status and help fault analysis;\nProduct Specifications\nHardware Specifications\nModel\tPM3027FSNR V2\nInterface\t24*10M/100Mbps RJ45 Ports / 1*1000Mbps Combo Ports(Electrical port can be adapted to 10M/100/1000Mbps)\n1*10M/100M/1000Mbps RJ45 Uplink Port\nStandard\tIEEE802.3,IEEE802.3i,IEEE802.3u,IEEE802.3z,IEEE802.3ab,IEEE802.3x, IEEE802.3af, IEEE802.3at\nNetwork Media(Cable)\t10BASE-T: UTP category 3,4,5 cable(≤100m) / 100BASE-TX: UTP category 5, 5e cable(≤100m) / 1000BASE-X: UTP category 5e, 6 cable(≤100m) / 1000BASE-X: MMF, SMF\nIndicator\tPWR(Green), LNK/ACT(Green), PoE(Orange),PoE Max(Green)\nMAC Address Table\t8K, Auto-learning, Auto-update\nJumbo Frame\t9216Byte\nPacket Buffer\t4Mbit\nTransfer Mode\tStore-and-Forward\nPacket Forward Speed\t6.55Mpps\nSwitching Capacity\t8.8Gbps\nRemote Port\tPort 17~24\nPoE Port\tPort 1~24\nPoE Power Output\t30W (Max)\nPoE Power On RJ45\t1/2(+) 3/6(-), 4/5(+) 7/8(-)\nPoE Power Budget\t250W\t185W\nPower Supply\t260W\t200W\nLnput Power Supply\tAC:100-240V, 50/60Hz\nDimensions(L*W*H)\t280*180*44mm\nOperating Temperature\t0°C ~ 40°C\nStorage Temperature\t-40°C ~ 70°C\nOperating Humidity\t10% ~ 90% non-condensing\nStorage Humidity\t5% ~ 90% non-condensing\nSurge Protection\tDifferential mode ±2KV,Common mode ±4KV\nElectrostatic Standard\tContact ±6KV, Air ±8KV\nMTBF\t>50000 hours\nOrdering Information\nProduct Information\t24FE(PoE)+1GE+1G Combo Long-Range Unmanaged PoE Switch\nPackaging Accessories\tPower Cord *1 / User Manual *1 / Rack Mount Kit *2 / Feet *4 / Screw *8\n[文本框]\nPM3027FSNR V2 Long-Range Unmanaged PoE Switch",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Product Overview"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"PM3027FSNR V2 has 24*10/100Mbps adaptive RJ45 ports, the uplink port is 1*1000Mbps Combo port and 1*10/100/1000Mbps RJ45 port, and each RJ45 port supports MDI/MDIX auto-flip and wire-speed forwarding. Among them, ports 1-24 have PoE power supply function ports 17-24 support remote transmission, support IEEE802.3af/at standard, the maximum power of the port can be up to 30W, and can be used as Power over Ethernet devices, which can automatically detect and identify the powered devices that comply with the standard, and supply power to them through the network cable. This product is simple and convenient to use, no need to configure, can meet the Enterprise, Community, Hotel, Office Network and Park Network Networking and access requirements."
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Product Features"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Supports 802.3af/at standard;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Single PoE port output power up to 30W;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Automatic detection PD equipment;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"17-24 port 100Mbps data transmission and PoE power supply distance up to 300M (typical value), 10Mbps data transmission and PoE power supply distance up to 800M (used with remote equipment);"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Supports one-click PD-ALIVE, VLAN, CCTV, SCP modes."
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Support IEEE802.3x full duplex flow control and Backpressure half duplex flow control;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Support 8K MAC address, automatic learning and automatic update;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Panel indicator to monitor working status and help fault analysis;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Product Specifications"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Hardware Specifications"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"PM3027FSNR V2"
+],
+[
+"Interface",
+"24*10M/100Mbps RJ45 Ports / 1*1000Mbps Combo Ports(Electrical port can be adapted to 10M/100/1000Mbps)\n1*10M/100M/1000Mbps RJ45 Uplink Port"
+],
+[
+"Standard",
+"IEEE802.3,IEEE802.3i,IEEE802.3u,IEEE802.3z,IEEE802.3ab,IEEE802.3x, IEEE802.3af, IEEE802.3at"
+],
+[
+"Network Media(Cable)",
+"10BASE-T: UTP category 3,4,5 cable(≤100m) / 100BASE-TX: UTP category 5, 5e cable(≤100m) / 1000BASE-X: UTP category 5e, 6 cable(≤100m) / 1000BASE-X: MMF, SMF"
+],
+[
+"Indicator",
+"PWR(Green), LNK/ACT(Green), PoE(Orange),PoE Max(Green)"
+],
+[
+"MAC Address Table",
+"8K, Auto-learning, Auto-update"
+],
+[
+"Jumbo Frame",
+"9216Byte"
+],
+[
+"Packet Buffer",
+"4Mbit"
+],
+[
+"Transfer Mode",
+"Store-and-Forward"
+],
+[
+"Packet Forward Speed",
+"6.55Mpps"
+],
+[
+"Switching Capacity",
+"8.8Gbps"
+],
+[
+"Remote Port",
+"Port 17~24"
+],
+[
+"PoE Port",
+"Port 1~24"
+],
+[
+"PoE Power Output",
+"30W (Max)"
+],
+[
+"PoE Power On RJ45",
+"1/2(+) 3/6(-), 4/5(+) 7/8(-)"
+],
+[
+"PoE Power Budget",
+"250W",
+"185W"
+],
+[
+"Power Supply",
+"260W",
+"200W"
+],
+[
+"Lnput Power Supply",
+"AC:100-240V, 50/60Hz"
+],
+[
+"Dimensions(L*W*H)",
+"280*180*44mm"
+],
+[
+"Operating Temperature",
+"0°C ~ 40°C"
+],
+[
+"Storage Temperature",
+"-40°C ~ 70°C"
+],
+[
+"Operating Humidity",
+"10% ~ 90% non-condensing"
+],
+[
+"Storage Humidity",
+"5% ~ 90% non-condensing"
+],
+[
+"Surge Protection",
+"Differential mode ±2KV,Common mode ±4KV"
+],
+[
+"Electrostatic Standard",
+"Contact ±6KV, Air ±8KV"
+],
+[
+"MTBF",
+">50000 hours"
+]
+]
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Ordering Information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Product Information",
+"24FE(PoE)+1GE+1G Combo Long-Range Unmanaged PoE Switch"
+],
+[
+"Packaging Accessories",
+"Power Cord *1 / User Manual *1 / Rack Mount Kit *2 / Feet *4 / Screw *8"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:19:15Z"
+}

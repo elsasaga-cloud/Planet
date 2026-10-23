@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__工业管理类目__L2_Non-PoE__STI-1080GM_无规格书__3.png__c7e01a2e",
+"path":"Extra_Info/Hasivo/待处理/工业管理类目/L2 Non-PoE/STI-1080GM 无规格书/3.png",
+"name":"3.png",
+"ext":".png",
+"bytes":1099319,
+"sha256":"c7e01a2e7d7c039d4bacdf613b38e04896b616ec1f0b4af8c62f25cc450c24aa",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":704,
+"height":1225,
+"mode":"RGBA",
+"thumb_bytes":11271
+},
+"warnings":[],
+"chars":45,
+"text":"5\nManaged Industrial Fiber Convergence Switch",
+"extracted_at":"2026-10-23T05:22:11Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__工业管理类目__L2_Non-PoE__STI-1080GM_无规格书__3.png__c7e01a2e.jpg"
+}

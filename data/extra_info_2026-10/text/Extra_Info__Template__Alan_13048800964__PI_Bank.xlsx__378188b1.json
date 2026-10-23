@@ -1,0 +1,262 @@
+{
+"id":"Extra_Info__Template__Alan_13048800964__PI_Bank.xlsx__378188b1",
+"path":"Extra_Info/Template/Alan 13048800964/PI_Bank.xlsx",
+"name":"PI_Bank.xlsx",
+"ext":".xlsx",
+"bytes":7062642,
+"sha256":"378188b1ac576ab04a8c02aeb2bdae2726bfcd32d896a702704c2b87919e3ff1",
+"source":"Extra_Info.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"Proforma Invoice"
+],
+"embedded_images":3,
+"rows_total":53
+},
+"warnings":[],
+"chars":3773,
+"text":"--- Sheet: Proforma Invoice ---\nSaga Telecom\nAn Engineering & Supply-Chain-First Telecom Partner\nBuilt to Last, Continuous Supply, Evolving Together\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 13048800964                                                       www.sagatele.com                              Email: a.sagatelecom@gmail.com\n**********************************************************************************************************************\nProforma Invoice\nPO No.\t\t\tInvoice No.:\tSTAG20250823017\nBuyer:\tiTM Systems\t\tSeller:\tSaga Telecom\nTel:\t44 01733 567259\t\tIssued By:\tAlan\nEmail:\tinfo@itmsystems.net\t\tInvoice Date:\t23rd, Aug, 2025\nContact Person:\tSteve\t\tPayment Term:\tFull Payment by T/T Wire\nShipping Address:\tBroadway Court, PE1 1RP, Peterborough, United Kingdom\nIncoterm: DAP\nDefinition\tIncluding origin export clearance and international freight\nExcluding destination customs clearance and import duties\nIncluding on-carriage delivery to the shipping address after customs release\nModel\tSpecification\t\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSeller\nSTI-42424XGGPM-4BT\n\nBuyer\n#\tIndustrial PoE Managed Switch\n\n4*1G/2.5G/10G SFP+24*10/100/1000M RJ45/PoE +1*Console Port+1*USB Port, 20*PoE af/at+4*PoE af/at/bt\n240W/370W, L3 Managed, Active PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block)\nDin Mounted, With Mounting Hanger\nWithout Optical Module, Without Power Supply\n\n1, Without DI/DO/RS485 Function\n2, -40℃~+ 70℃@240W PoE Output\n-40℃~+ 60℃@370W PoE Output\t\t\t6\t16000\t96000\tMarvell\nCHIP\n\tHS Code\t8517622990\n\tPacking Information\tProduct Size: 442*494*44mm\nPackage Size: 665*565*150mm\nNet Weight: 8.9Kg\nGross Weight: 14Kg\nAdditional\nRequirements\t1. Put customer logo on WEB UI\n2. Put customer model name on WEB UI and label\nFreight Cost\t850USD for about 85Kg volume weight to UK by DHL\nAir, door-to-door service\n\nIncluding Insurance\nCompensation=cargo damage amount-DHL/FedEx/UPS standard compensation amount(USD100) - absolute deductible(USD200 or 5% of cargo damage, whichever is greater)\t\t\t\t\t850\nShipment Time\t5~7 calendar days to local customs for clearance\nBank Cost\tStandard Charge for EACH Order\t\t\t\t\t25\nTOTAL\t\t\t\t6\t\t96875\nSAY TOTAL: USD ONE HUNDRED AND SEVEN THOUSAND SIX HUNDRED AND SEVENTY-FIVE ONLY\nAbout Import\nPlease do make sure client side could handle import customs clearance\nIf there is any problem with the shipment or clearance\n1, please let us know ASAP\n2, please call DHL/FedEx/UPS official number for information\nBusiness Term\n1. Payment: Full payment to the below bank account before shipment\nBank Information\nBank Information\nBank Name\tBANK OF CHINA HENAN BRANCH\nBank Address\tHUANYUAN ROAD 40TH ZHENGZHOU CITY HENAN CHINA\nBeneficiary\tZhengzhou Saga Telecom Co., Ltd.\nAccount No.(USD)\t255987045839\nSWIFT CODE\tBKCHCNBJ530\n2. NOTE: Saga Telecom will not pay for any bank charge\nPlease make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice\n3. Production time: 2~4 working days(Excluding shipping time)\n4. Country of origin: China\nCertificate of Origin is available upon request, please inform us BEFORE shipment if required\n5. Non-brand packing, without Chinese letters or logo\nNeutral device\nPacking list is available\n6. Warranty: 3 years, lifetime technical support\nPurchased items are deemed accepted upon initial inspection if no written notice of defects is received within two (2) months from the delivery date\nThis acceptance clause shall not affect the validity of the warranty period\nPlease refer to \"warranty policy\" for more information\nBuyer: GOGREENIT\t\t\tSeller: Saga Telecom\nChris Clemson\t\t\tAlan\nAuthorized Signature\t\t\tAuthorized Signature",
+"sheets":{
+"Proforma Invoice":{
+"state":"visible",
+"rows":[
+[
+"Saga Telecom"
+],
+[
+"An Engineering & Supply-Chain-First Telecom Partner"
+],
+[
+"Built to Last, Continuous Supply, Evolving Together"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 13048800964                                                       www.sagatele.com                              Email: a.sagatelecom@gmail.com"
+],
+[
+"**********************************************************************************************************************"
+],
+[
+"Proforma Invoice"
+],
+[
+"PO No.",
+"",
+"",
+"Invoice No.:",
+"STAG20250823017"
+],
+[
+"Buyer:",
+"iTM Systems",
+"",
+"Seller:",
+"Saga Telecom"
+],
+[
+"Tel:",
+"44 01733 567259",
+"",
+"Issued By:",
+"Alan"
+],
+[
+"Email:",
+"info@itmsystems.net",
+"",
+"Invoice Date:",
+"23rd, Aug, 2025"
+],
+[
+"Contact Person:",
+"Steve",
+"",
+"Payment Term:",
+"Full Payment by T/T Wire"
+],
+[
+"Shipping Address:",
+"Broadway Court, PE1 1RP, Peterborough, United Kingdom"
+],
+[
+"Incoterm: DAP\nDefinition",
+"Including origin export clearance and international freight\nExcluding destination customs clearance and import duties\nIncluding on-carriage delivery to the shipping address after customs release"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"Seller\nSTI-42424XGGPM-4BT\n\nBuyer\n#",
+"Industrial PoE Managed Switch\n\n4*1G/2.5G/10G SFP+24*10/100/1000M RJ45/PoE +1*Console Port+1*USB Port, 20*PoE af/at+4*PoE af/at/bt\n240W/370W, L3 Managed, Active PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block)\nDin Mounted, With Mounting Hanger\nWithout Optical Module, Without Power Supply\n\n1, Without DI/DO/RS485 Function\n2, -40℃~+ 70℃@240W PoE Output\n-40℃~+ 60℃@370W PoE Output",
+"",
+"",
+"6",
+"16000",
+"96000",
+"Marvell\nCHIP"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Product Size: 442*494*44mm\nPackage Size: 665*565*150mm\nNet Weight: 8.9Kg\nGross Weight: 14Kg"
+],
+[
+"Additional\nRequirements",
+"1. Put customer logo on WEB UI\n2. Put customer model name on WEB UI and label"
+],
+[
+"Freight Cost",
+"850USD for about 85Kg volume weight to UK by DHL\nAir, door-to-door service\n\nIncluding Insurance\nCompensation=cargo damage amount-DHL/FedEx/UPS standard compensation amount(USD100) - absolute deductible(USD200 or 5% of cargo damage, whichever is greater)",
+"",
+"",
+"",
+"",
+"850"
+],
+[
+"Shipment Time",
+"5~7 calendar days to local customs for clearance"
+],
+[
+"Bank Cost",
+"Standard Charge for EACH Order",
+"",
+"",
+"",
+"",
+"25"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"6",
+"",
+"96875"
+],
+[
+"SAY TOTAL: USD ONE HUNDRED AND SEVEN THOUSAND SIX HUNDRED AND SEVENTY-FIVE ONLY"
+],
+[
+"About Import"
+],
+[
+"Please do make sure client side could handle import customs clearance"
+],
+[
+"If there is any problem with the shipment or clearance"
+],
+[
+"1, please let us know ASAP"
+],
+[
+"2, please call DHL/FedEx/UPS official number for information"
+],
+[
+"Business Term"
+],
+[
+"1. Payment: Full payment to the below bank account before shipment"
+],
+[
+"Bank Information"
+],
+[
+"Bank Information"
+],
+[
+"Bank Name",
+"BANK OF CHINA HENAN BRANCH"
+],
+[
+"Bank Address",
+"HUANYUAN ROAD 40TH ZHENGZHOU CITY HENAN CHINA"
+],
+[
+"Beneficiary",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Account No.(USD)",
+"255987045839"
+],
+[
+"SWIFT CODE",
+"BKCHCNBJ530"
+],
+[
+"2. NOTE: Saga Telecom will not pay for any bank charge"
+],
+[
+"Please make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice"
+],
+[
+"3. Production time: 2~4 working days(Excluding shipping time)"
+],
+[
+"4. Country of origin: China"
+],
+[
+"Certificate of Origin is available upon request, please inform us BEFORE shipment if required"
+],
+[
+"5. Non-brand packing, without Chinese letters or logo"
+],
+[
+"Neutral device"
+],
+[
+"Packing list is available"
+],
+[
+"6. Warranty: 3 years, lifetime technical support"
+],
+[
+"Purchased items are deemed accepted upon initial inspection if no written notice of defects is received within two (2) months from the delivery date"
+],
+[
+"This acceptance clause shall not affect the validity of the warranty period"
+],
+[
+"Please refer to \"warranty policy\" for more information"
+],
+[
+"Buyer: GOGREENIT",
+"",
+"",
+"Seller: Saga Telecom"
+],
+[
+"Chris Clemson",
+"",
+"",
+"Alan"
+],
+[
+"Authorized Signature",
+"",
+"",
+"Authorized Signature"
+]
+]
+}
+},
+"extracted_at":"2026-10-23T05:20:27Z"
+}

@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-210GE__1.png__c4f6c801",
+"path":"Extra_Info/Hasivo/Industrial Ethernet_DONE/STI-210GE/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":1467654,
+"sha256":"c4f6c801bf87bd955082feb31e8e2630cb9501a4886bc8ed3f0d7640c69b6546",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1836,
+"height":822,
+"mode":"RGBA",
+"thumb_bytes":9522
+},
+"warnings":[],
+"chars":13,
+"text":"8G+2COMBOSFP.",
+"extracted_at":"2026-10-23T05:24:29Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-210GE__1.png__c4f6c801.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Reference_Info__OEM信息__1.png__4e3cf642",
+"path":"Extra_Info/Reference Info/OEM信息/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":88909,
+"sha256":"4e3cf64260e35942a0bec410da8f48e23bb09528a829f508f049244c6ea3858d",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1286,
+"height":835,
+"mode":"RGBA",
+"thumb_bytes":7032
+},
+"warnings":[],
+"chars":479,
+"text":"> Configuration\nMonitor\n> System\n> Green Ethernet\ny Ports\n«= State\n«= Traffic Overview\n= QoS Statistics\n= QCL Status\n«= Detailed Statistics\n> Link OAM\n>» DHCP\n> Security\n> Aggregation\n= Loop Protection\n> Spanning Tree\n>MVR\n> IPMC\n»>LLDP\nEthernet Services\n= MAC Table\n> VLANs\n=sFlow\n=UDLD\ny Diagnostics\n«Ping\n> Link OAM\n= Ping6\n= VeriPHY\ny Maintenance\n= Restart Device\n= Factory Defaults\n> Software\n> Configuration\nPort State Overview\n=\n吧 | 嘻\nan\nan\nan\ncD\nGigabit Ethernet Switch ©",
+"extracted_at":"2026-10-23T05:19:34Z",
+"thumb":"thumbs/Extra_Info__Reference_Info__OEM信息__1.png__4e3cf642.jpg"
+}

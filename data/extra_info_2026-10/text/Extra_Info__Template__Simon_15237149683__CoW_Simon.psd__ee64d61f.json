@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Template__Simon_15237149683__CoW_Simon.psd__ee64d61f",
+"path":"Extra_Info/Template/Simon 15237149683/CoW Simon.psd",
+"name":"CoW Simon.psd",
+"ext":".psd",
+"bytes":11909533,
+"sha256":"ee64d61fd8b4222e866b19dc4fdf70fe3ee705847fc556eb8043a45333026bb5",
+"source":"Extra_Info.zip",
+"method":"pillow(psd composite)",
+"status":"meta",
+"meta":{
+"format":"PSD",
+"width":2480,
+"height":3508,
+"mode":"RGB",
+"thumb_bytes":15297
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:20:25Z",
+"thumb":"thumbs/Extra_Info__Template__Simon_15237149683__CoW_Simon.psd__ee64d61f.jpg"
+}

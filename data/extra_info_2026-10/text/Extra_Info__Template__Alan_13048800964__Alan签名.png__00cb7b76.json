@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Template__Alan_13048800964__Alan签名.png__00cb7b76",
+"path":"Extra_Info/Template/Alan 13048800964/Alan签名.png",
+"name":"Alan签名.png",
+"ext":".png",
+"bytes":195830,
+"sha256":"00cb7b762ba2620e8dae9f6013c43d74d6f6cc8f252e4468763c9ca36b6ae751",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":876,
+"height":528,
+"mode":"RGBA",
+"thumb_bytes":9285
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:20:26Z",
+"thumb":"thumbs/Extra_Info__Template__Alan_13048800964__Alan签名.png__00cb7b76.jpg"
+}

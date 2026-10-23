@@ -1,0 +1,222 @@
+{
+"id":"Extra_Info__Template__LETTER.docx__5480165c",
+"path":"Extra_Info/Template/LETTER.docx",
+"name":"LETTER.docx",
+"ext":".docx",
+"bytes":35006,
+"sha256":"5480165c000a39b4c9e32e85e79987cf750055a1cdb90261292ba04d7bef19fb",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2025-12-08T03:57:00+00:00",
+"modified":"2025-12-19T11:39:51+00:00",
+"paragraphs":39,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"chars":2701,
+"text":"AUTHORISED DISTRIBUTORSHIP LETTER\nEffective Date: 1 January 2026\nValidity: Until 31 December 2027\nTo Whom It May Concern,\nThis letter hereby certifies that:\nOPTA LLC, with registered business address at ?? + CNPJ tax ID, is appointed as a non-exclusive Authorized Distributor of Zhengzhou Saga Telecom Co., Ltd. (“Saga Telecom”) for the territory of Brazil during the validity period of this authorization.\n1. Scope of Authorization\nOPTA LLC is granted the non-exclusive right to market, promote, distribute, sell and provide after-sales technical support for Saga Telecom’s full range of products in Brazil.\nIncluding but not limited to:\nCommercial Ethernet\nIndustrial Networking\nHigh-Speed Networks\nOther Related Telecom & Networking Equipment\nThis authorization does not grant any right of sublicensing or appointing secondary distributors unless otherwise approved in writing by Saga Telecom.\n2. Distributor Responsibilities\nOPTA LLC is responsible for:\nPromoting Saga Telecom products in the Brazilian market\nConducting sales, customer support, and local technical assistance\nMaintaining brand integrity and complying with applicable local regulations\nProviding feedback regarding market demands and customer requirements\nThis authorization does not permit the distributor to enter into any binding agreements on behalf of Saga Telecom.\n3. International Trade Terms(Incoterms Responsibility Disclaimer)\nSaga Telecom hereby clarifies that all product deliveries related to this authorization are strictly conducted under EXW (Ex Works) or FOB (Free On Board) Incoterms.\nAccordingly:\nSaga Telecom is NOT responsible for any import procedures in Brazil\nSaga Telecom does NOT undertake customs clearance, tax payments, ANATEL certification, regulatory approvals, or any logistics operations within Brazilian territory\nSaga Telecom shall NOT be held liable for any delays, penalties, or costs arising from the distributor’s handling of import procedures or regulatory compliance in Brazil\nAll responsibilities related to Brazilian customs clearance, import documentation, regulatory compliance, taxes, duties, and domestic transportation shall be fully borne by the distributor, OPTA LLC\nSaga Telecom’s responsibility ends at the point of EXW/FOB delivery per the confirmed trade terms\nThis clause is binding for all transactions conducted under this authorization\n4. Contact Information\nIssued by: Zhengzhou Saga Telecom Co., Ltd.\nSigned: Simon Cheng, Director of Sales\nCompany Stamp\nDate: 2025.12.08\nAccepted and Agreed: OPTA LLC\nSigned:\nCompany Stamp\nDate:\n[页眉页脚]\nSaga Telecom\nwww.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"AUTHORISED DISTRIBUTORSHIP LETTER"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Effective Date: 1 January 2026"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Validity: Until 31 December 2027"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"To Whom It May Concern,"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This letter hereby certifies that:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OPTA LLC, with registered business address at ?? + CNPJ tax ID, is appointed as a non-exclusive Authorized Distributor of Zhengzhou Saga Telecom Co., Ltd. (“Saga Telecom”) for the territory of Brazil during the validity period of this authorization."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1. Scope of Authorization"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OPTA LLC is granted the non-exclusive right to market, promote, distribute, sell and provide after-sales technical support for Saga Telecom’s full range of products in Brazil."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Including but not limited to:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Commercial Ethernet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Industrial Networking"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"High-Speed Networks"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Other Related Telecom & Networking Equipment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This authorization does not grant any right of sublicensing or appointing secondary distributors unless otherwise approved in writing by Saga Telecom."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2. Distributor Responsibilities"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OPTA LLC is responsible for:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Promoting Saga Telecom products in the Brazilian market"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Conducting sales, customer support, and local technical assistance"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Maintaining brand integrity and complying with applicable local regulations"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Providing feedback regarding market demands and customer requirements"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This authorization does not permit the distributor to enter into any binding agreements on behalf of Saga Telecom."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3. International Trade Terms(Incoterms Responsibility Disclaimer)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom hereby clarifies that all product deliveries related to this authorization are strictly conducted under EXW (Ex Works) or FOB (Free On Board) Incoterms."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Accordingly:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom is NOT responsible for any import procedures in Brazil"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom does NOT undertake customs clearance, tax payments, ANATEL certification, regulatory approvals, or any logistics operations within Brazilian territory"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom shall NOT be held liable for any delays, penalties, or costs arising from the distributor’s handling of import procedures or regulatory compliance in Brazil"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"All responsibilities related to Brazilian customs clearance, import documentation, regulatory compliance, taxes, duties, and domestic transportation shall be fully borne by the distributor, OPTA LLC"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom’s responsibility ends at the point of EXW/FOB delivery per the confirmed trade terms"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This clause is binding for all transactions conducted under this authorization"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4. Contact Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Issued by: Zhengzhou Saga Telecom Co., Ltd."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Signed: Simon Cheng, Director of Sales"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Company Stamp"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Date: 2025.12.08"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Accepted and Agreed: OPTA LLC"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Signed:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Company Stamp"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Date:"
+}
+],
+"extracted_at":"2026-10-23T05:20:20Z"
+}

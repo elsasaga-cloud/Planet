@@ -1,0 +1,120 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-080GE__STI-080GE.doc__0ca52392",
+"path":"Extra_Info/Hasivo/Industrial Ethernet_DONE/STI-080GE/STI-080GE.doc",
+"name":"STI-080GE.doc",
+"ext":".doc",
+"bytes":32256,
+"sha256":"0ca52392fbf74c7fd9b530c8971b9e528612663303dbbb67e1b5502b5d40137e",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:24:52+00:00",
+"paragraphs":0,
+"tables":1,
+"embedded_images":0
+},
+"warnings":[],
+"chars":1634,
+"text":"Model\tSTI-080GE\nProduct Name\t8 port 10/100/1000Mbps Industrial Ethernet Switch\nFixed Port\t8*10/100/1000Mbps RJ45 Port\nTransmission Mode\tStore and Forward\nBandwidth\t16Gbps\nPacket Forwarding\t11.9Mpps\nMAC\t2K\nBuffer\t2.5M\nDIP switch\t1: -- / 2: 1-4 port ultra long mode 250 meters (10M) / 3: 1-6 port ultra long mode 250 meters (10M) / 4: After opening the ports, ports 1-6 are isolated from each other and cannot be accessed between them. They can only be accessed from the uplink port\nPort Specification\t10/100/1000BaseT(X)Auto\nTransmission Mode\tStore and Forward(full wire-speed)\nTransmission Distance\t10BASE-T: Cat3,4,5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(≤150 meter) / 1000BASE-TX: Cat6 or later UTP(≤150 meter)\nLED Indicator\tV1: Power indicator light / V2: Power indicator light / V3: Power indicator light / PWR: Power indicator light / VLAN: Port isolation indicator light / S: Ultra long distance indicator light (10M) / Port orange indicator light: Gigabit indicator light / Port green indicator light: Link indicator light\nInput method\tV1: 12-57V 1A MAX / V2: 12-57V 1A MAX / V3: DC 12-57V 1A MAX (Internal positive and external negative)\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 156mm*119mm*35mm / Packing Box: 235mm*165mm*78mm\nN.W/G.W(Kg)\t0.9Kg/1.05Kg\nLightning / Protection level\t6KV 8/20us, 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years",
+"blocks":[
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-080GE"
+],
+[
+"Product Name",
+"8 port 10/100/1000Mbps Industrial Ethernet Switch"
+],
+[
+"Fixed Port",
+"8*10/100/1000Mbps RJ45 Port"
+],
+[
+"Transmission Mode",
+"Store and Forward"
+],
+[
+"Bandwidth",
+"16Gbps"
+],
+[
+"Packet Forwarding",
+"11.9Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"DIP switch",
+"1: -- / 2: 1-4 port ultra long mode 250 meters (10M) / 3: 1-6 port ultra long mode 250 meters (10M) / 4: After opening the ports, ports 1-6 are isolated from each other and cannot be accessed between them. They can only be accessed from the uplink port"
+],
+[
+"Port Specification",
+"10/100/1000BaseT(X)Auto"
+],
+[
+"Transmission Mode",
+"Store and Forward(full wire-speed)"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3,4,5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(≤150 meter) / 1000BASE-TX: Cat6 or later UTP(≤150 meter)"
+],
+[
+"LED Indicator",
+"V1: Power indicator light / V2: Power indicator light / V3: Power indicator light / PWR: Power indicator light / VLAN: Port isolation indicator light / S: Ultra long distance indicator light (10M) / Port orange indicator light: Gigabit indicator light / Port green indicator light: Link indicator light"
+],
+[
+"Input method",
+"V1: 12-57V 1A MAX / V2: 12-57V 1A MAX / V3: DC 12-57V 1A MAX (Internal positive and external negative)"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 156mm*119mm*35mm / Packing Box: 235mm*165mm*78mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.9Kg/1.05Kg"
+],
+[
+"Lightning / Protection level",
+"6KV 8/20us, 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:24:52Z"
+}

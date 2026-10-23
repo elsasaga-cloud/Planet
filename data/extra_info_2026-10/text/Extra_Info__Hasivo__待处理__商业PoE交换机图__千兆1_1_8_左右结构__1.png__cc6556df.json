@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆1_1_8_左右结构__1.png__cc6556df",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/千兆1+1+8  左右结构/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":2665716,
+"sha256":"cc6556dffdfe5d6d461f7c3563f552930f8c5349eb26c8407c3e61de6d5004d2",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":3506,
+"height":816,
+"mode":"RGBA",
+"thumb_bytes":4146
+},
+"warnings":[],
+"chars":86,
+"text":"~ 人 @@92=\nPoE\nLink\n9-UP\nGigabit Unmanaged PoE Switch\n8GE PoE+1GE+1SFP.\nN |] ©\n10-SFP V",
+"extracted_at":"2026-10-23T05:23:43Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆1_1_8_左右结构__1.png__cc6556df.jpg"
+}

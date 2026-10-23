@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Reference_Info__OEM信息__案例__國外公司改動PCB板.jpg__4b1421c7",
+"path":"Extra_Info/Reference Info/OEM信息/案例/國外公司改動PCB板.jpg",
+"name":"國外公司改動PCB板.jpg",
+"ext":".jpg",
+"bytes":949360,
+"sha256":"4b1421c7ebf9f935b6a26bb653ed31d7365838e941f9d7f62b8ef53c99fe752e",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":4032,
+"height":3024,
+"mode":"RGB",
+"thumb_bytes":12564
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:20:08Z",
+"thumb":"thumbs/Extra_Info__Reference_Info__OEM信息__案例__國外公司改動PCB板.jpg__4b1421c7.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__百千兆1_1_8_左右结构__1.png__8afa6639",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/百千兆1+1+8 左右结构/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":2668287,
+"sha256":"8afa6639dd2598249834746f9646d7688de04df601fe04d89dc149d05fe0f516",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":3524,
+"height":844,
+"mode":"RGBA",
+"thumb_bytes":4225
+},
+"warnings":[],
+"chars":74,
+"text":"aS\nTerre\n9-UP\nGigabit Unmanaged PoE Switch\n8FE PoE+1GE+1SFP\nNI] ©\n10-SFP V",
+"extracted_at":"2026-10-23T05:24:25Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__百千兆1_1_8_左右结构__1.png__8afa6639.jpg"
+}

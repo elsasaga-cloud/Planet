@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆5电口__1.png__984f6507",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/千兆5电口/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":976192,
+"sha256":"984f6507811505735676844e221fdbe7290dbb56ae84a89aa70701bce75e5123",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1565,
+"height":390,
+"mode":"RGBA",
+"thumb_bytes":5195
+},
+"warnings":[],
+"chars":53,
+"text":"Gigabit PoE Switch\n4GE PoE+1GE Uplinkl\nPower ”1-HiPoE",
+"extracted_at":"2026-10-23T05:23:06Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆5电口__1.png__984f6507.jpg"
+}

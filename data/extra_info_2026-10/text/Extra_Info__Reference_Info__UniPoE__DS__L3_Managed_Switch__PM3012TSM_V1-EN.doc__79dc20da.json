@@ -1,0 +1,1069 @@
+{
+"id":"Extra_Info__Reference_Info__UniPoE__DS__L3_Managed_Switch__PM3012TSM_V1-EN.doc__79dc20da",
+"path":"Extra_Info/Reference Info/UniPoE/DS/L3 Managed Switch/PM3012TSM V1-EN.doc",
+"name":"PM3012TSM V1-EN.doc",
+"ext":".doc",
+"bytes":742400,
+"sha256":"79dc20da9ec5279fe9302e5106b0551145785e29023743e503ccc926537926a0",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:18:47+00:00",
+"paragraphs":21,
+"tables":3,
+"embedded_images":5
+},
+"warnings":[],
+"chars":10757,
+"text":"Product Overview\nThe PM3012TSM V1 is a Layer 3 10GE Uplink Managed PoE Switch with 8*10M/100M/1000M/2.5Gbps adaptive RJ45 ports, 2*10Gbps RJ45 ports and 2*10Gbps SFP+ fiber module expansion slots and 1*Console port. 1-8 RJ45 ports all support PoE power supply and up to 30W port. Support static routing function, provide complete security policy, perfect QoS policy and rich VLAN function, easy to manage and maintain, meet the requirements of Enterprise, Community, Internet Cafe, Hotel, Office Network and Campus Network Networking and WIFI Coverage.\nProduct Features\nSupport IEEE 802.3af/at standard;\nAutomatic detection and identification of standard PoE powered devices, intelligent power supply, will not burn non-standard PoE powered devices or ordinary devices;\nSupport port power priority to ensure continuous power supply to critical nodes of the network;\nPanel lights monitor operating status and assist in failure analysis;\nSupports IEEE802.3x full-duplex flow control and Backpressure half-duplex flow control;\n2.5GE port is backward compatible with 10M/100M/1000Mbps transmission rates;\n10GE port is backward compatible with 100M/1000M/2.5G/5Gbps transmission rates;\n10Gb optical port adaptive 10G/2.5G/1G standard optical module, support SR/LR/LRM/ER/ZR and other models;\nLayer 3 routing protocol control, adapted to multiple services, efficient and secure information transmission;\nIP dynamic routing protocols support IPv4/IPv6 static routes, dynamic routing protocols support RIPV1/V2, OSPFV2, BGP4, etc;\nSupport static convergence and dynamic convergence (LACP) 2 convergence modes, effectively increase the link bandwidth, improve the reliability of the link, and at the same time can achieve load balancing, link backup;\nFlexible and convenient management and maintenance support Console, Telnet, SSH and other management methods;\nSupport WEB way management, more simple and efficient, easy to install and debug engineering and maintenance personnel;\nSupport HTTP/TFTP/FTP file upload and download management.\nProduct Specifications\nHardware Specifications\nModel\tPM3012TSM V1\nInterface\t8*10M/100M/1000M/2.5Gbps RJ45 Ports / 2*100M/1000M/2.5G/5G/10Gbps Ports / 2*1000M/2.5G/10Gbps SFP+ Slots / 1 Console Port\nStandard\tIEEE802.3, IEEE802.3u, IEEE802.3ab, IEEE802.3z, IEEE802.3x, IEEE 802.3ad, IEEE802.3bz, IEEE802.3ae, IEEE802.3an, IEEE802.1x, IEEE802.1Q, IEEE802.1p, IEEE802.1d, IEEE802.1w, IEEE802.3af, IEEE802.3at\nNetwork Media\t10BASE-T UTP category3,4,5 cable(≤100m) / 100BASE-TX UTP category 5, 5e cable(≤100m) / 1000BASE-TX UTP category 5e, 6 cable(≤100m) / 2.5GBASE-TX UTP category 6, 6A cable(≤100m) / 10GBASE-TX UTP category 6A,7 cable(≤100m) / 1000BASE-X: MMF, SMF / 10GBASE-X: MMF, SMF / 10GBASE-SR: OM1/OM2/OM3 or above MMF (2m~300m) / 10GBASE-LR: IEC's B1.1 and B1.3 SMF (2m~10000m)\nIndicator\tPWR (Green), LNK/ACT (Green/Orange), SYS (Green), PoE (Orange)\nMAC Address Table\t16K, Auto-learning, Auto-updating\nJumbo Frame\t12KByte\nPacket Buffer\t12Mbit\nTransfer Mode\tStore-and-forward\nPacket Forward Speed\t89.28Mpps\nSwitching Capacity\t120Gbps\nPoE Port\tPort1~8\nPoE Power On RJ45\t1/2(-),3/6(+)\nPoE Power Output\t30W(Max)\nPoE Power Budget\t150W\nPower Supply\t180W Built-in power supply\nInput Power Supply\tAC:100-240V, 50/60Hz,2.3A Max\nDimensions(L*W*H)\t330*230*44mm, Black\nOperating Temperature\t0°C ~ 40°C\nStorage Temperature\t-40°C ~ 70°C\nOperating Humidity\t10% ~ 90% non-condensing\nStorage Humidity\t5% ~ 90% non-condensing\nSurge Protection\tDifferential mode ±2KV,Common mode ±4KV\nElectrostatic Standard\tContact ±6KV, Air ±8KV\nMTBF\t>100000 hours\nSoftware Specification\nL3 Features\tDHCP Server\tDHCP Server\nL3 Features\tDHCP Server\tDHCPv6 Server\nL3 Features\tRoute\tStatic Route(IPV4/IPV6)\nL3 Features\tRoute\tRoute Aggregation\nL3 Features\tRIP\tRIP v1/v2\nL3 Features\tOSPF\tOSPF v2\nL3 Features\tBGP\tBGP4\nL2 Features\tMAC Address Table\tMAC Aging Time\nL2 Features\tMAC Address Table\tMAC Filter\nL2 Features\tMAC Address Table\tMAC Notification\nL2 Features\tBasic Management\tConsole/Telnet/SSH\nL2 Features\tBasic Management\tHttp/Https、SSL/TLS\nL2 Features\tBasic Management\tFTP/TFTP\nL2 Features\tBasic Management\tSyslog\nL2 Features\tBasic Management\tSNMP(v1/v2c/v3),SNMP Trap\nL2 Features\tBasic Management\tSNTP/NTP\nL2 Features\tBasic Management\tCPU protect\nL2 Features\tBasic Management\tSoftware/Hardware watchdog\nL2 Features\tBasic Management\tFirmware Upgrade/Backup\nL2 Features\tBasic Management\tPing/Traceroute\nL2 Features\tPort Config\tBandwidth Control\nL2 Features\tPort Config\tFlow Control\nL2 Features\tPort Config\tEEE\nL2 Features\tPort Config\tMTU\nL2 Features\tPort Config\tCFM(802.1ag)\nL2 Features\tPort Config\tEFM OAM(802.3ah)\nL2 Features\tPort Config\tDDM\nL2 Features\tPort Config\tStorm Control\nL2 Features\tPort Config\tPort Isolation\nL2 Features\tPort Config\tPort Security\nL2 Features\tPort Config\tVirtual Cable Test\nL2 Features\tPort Config\tULDP\nL2 Features\tDiscovery\tLLDP(802.1ab)\nL2 Features\tDiscovery\tLLDP-MED\nL2 Features\t(Link Aggregation)\tStatic\nL2 Features\t(Link Aggregation)\tLACP(802.3ad)\nL2 Features\t(Link Aggregation)\tLoad Balance(src-mac/dst-mac/src-ip/dst-ip)\nL2 Features\t(Link Aggregation)\tMax groups and ports per group\nL2 Features\tVLAN\tVLAN(802.1Q 4K)\nL2 Features\tVLAN\tAccess/Trunk/Hybrid\nL2 Features\tVLAN\tPrivate VLAN\nL2 Features\tVLAN\tVLAN Filter\nL2 Features\tVLAN\tMAC-based VLAN\nL2 Features\tVLAN\tProtocol-based VLAN\nL2 Features\tVLAN\tIP Subnet-based VLAN\nL2 Features\tVLAN\tVoice VLAN\nL2 Features\tVLAN\tGVRP/GMRP\nL2 Features\tVLAN\tQinQ/Selective-QinQ/Flexible QinQ\nL2 Features\tVLAN\tVLAN Translation/N:1 VLAN Translation\nL2 Features\tVLAN\tGuest VLAN\nL2 Features\tNetwork Loop Detection\tLoopback Detection\nL2 Features\tNetwork Loop Detection\tERPS\nL2 Features\tSpanning Tree\tSTP/RSTP/MSTP\nL2 Features\tSpanning Tree\tMSTP Support 64 instance\nL2 Features\tSpanning Tree\tBPDU Guard/Root Guard/BPDU Tunnel\nL2 Features\tARP\tStatic ARP\nL2 Features\tARP\tARP Scanning Prevention\nL2 Features\tARP\tARP Spoofing Prevention\nL2 Features\tARP\tARP Guard\nL2 Features\tARP\tGratuitous ARP\nL2 Features\tARP\tDynamic ARP Inspection\nL2 Features\tARP\tARP Quantity Control\nIPv4 Related Function\tICMP\tAnti ICMP Attack\nIPv4 Related Function\tICMP\tICMP Rate Limit\nIPv4 Related Function\tICMP\tICMP Unreachable Drop\nIPv4 Related Function\tIP Forward\tStatic Route\nIPv4 Related Function\tIP Forward\tRoute Aggregation\nIPv4 Related Function\tControl Multicast\tDCSCM\nIPv4 Related Function\tMulticast VALN\tMulticast VALN\nIPv4 Related Function\tIGMP\tIGMP SNOOPING V1/V2/V3\nIPv4 Related Function\tIGMP\tFast Leave\nIPv4 Related Function\tIGMP\tIGMP Proxy\nIPv4 Related Function\tDHCP\tDHCP Server\nIPv4 Related Function\tDHCP\tDHCP Client/BOOTP\nIPv4 Related Function\tDHCP\tDHCP Relay\nIPv4 Related Function\tDHCP\tDHCP Snooping\nIPv4 Related Function\tDHCP\tDHCP Option 82/43/60/61/67\nIPv6 Related Function\tDHCPv6\tDHCPv6 Server\nIPv6 Related Function\tDHCPv6\tDHCPv6 Relay\nIPv6 Related Function\tDHCPv6\tDHCPv6 Snooping\nIPv6 Related Function\tDHCPv6\tIPv6 SAVI\nIPv6 Related Function\tDHCPv6\tSecurity RA\nIPv6 Related Function\tIPv6 Unicast Routing\tStatic Route\nIPv6 Related Function\tIPv6 Multicast Routing\tMLD v1/V2 Snooping\nIPv6 Related Function\tIPv6 Features\tSNMP over IPv6 Support\nIPv6 Related Function\tIPv6 Features\tHTTP over IPv6 Support\nIPv6 Related Function\tIPv6 Features\tSSH over IPv6 Support\nIPv6 Related Function\tIPv6 Features\tDNS over IPv6 Support\nIPv6 Related Function\tIPv6 Features\tIPv6 ping/traceroute Support\nIPv6 Related Function\tIPv6 Features\tIPv6 Telnet Support\nIPv6 Related Function\tIPv6 Features\tIPv6 Radius+ Support\nIPv6 Related Function\tIPv6 Features\tIPv6 Tacacs+ Support\nIPv6 Related Function\tIPv6 Features\tIPv6 SNTP/NTP Support\nIPv6 Related Function\tIPv6 Features\tIPv6 FTP/TFTP Support\nIPv6 Related Function\tIPv6 Features\tIPv6 IPSec Support\nIPv6 Related Function\tIPv6 Features\tIPv6 ACL\nQoS(Quality Of Service)\tBasic\tTrust COS/DSCP\nQoS(Quality Of Service)\tBasic\tTrust Port\nQoS(Quality Of Service)\tScheduling\tSP\nQoS(Quality Of Service)\tScheduling\tWRR\nQoS(Quality Of Service)\tScheduling\tWDRR\nQoS(Quality Of Service)\tPolicyMap Stream\tBased on VLAN\nQoS(Quality Of Service)\tPolicyMap Stream\tBased on COS/DSCP\nQoS(Quality Of Service)\tPolicyMap Stream\tAggregate PolicyMap\nQoS(Quality Of Service)\tPolicyMap Stream\tIngress PolicyMap\nQoS(Quality Of Service)\tPolicing\tCAR Stream Shaping(leak algorithm)\nQoS(Quality Of Service)\tPolicing\tIngress Policing\nQoS(Quality Of Service)\tRewrite\tCOS/802.1p Priority\nQoS(Quality Of Service)\tRewrite\tIP Precedence\nQoS(Quality Of Service)\tRewrite\tIPv4 DSCP/IPv6 DSCP\nQoS(Quality Of Service)\tRewrite\tdrop-precedence\nQoS(Quality Of Service)\tRewrite\tinternal-priority\nQoS(Quality Of Service)\tRewrite\tIngress/Egress Rewrite\nQoS(Quality Of Service)\tQueuing\tDSCP to DSCP mapping\nQoS(Quality Of Service)\tQueuing\tDSCP to DP mapping\nQoS(Quality Of Service)\tQueuing\tDSCP to Queue mapping\nQoS(Quality Of Service)\tQueuing\tCOS to DP mapping\nQoS(Quality Of Service)\tQueuing\tCOS to Queue mapping\nACL\tIP-ACL\tSIP/DIP\nACL\tIP-ACL\tIP Protocol\nACL\tIP-ACL\tIP Priority(DSCP,TOS, Precedence)\nACL\tIP-ACL\tTCP,UDP src,dst Port\nACL\tMAC-ACL\tSRC/DST MAC\nACL\tMAC-ACL\tVLAN\nACL\tMAC-ACL\tCOS\nACL\tMAC-ACL\tTag/Untag\nACL\tIP-MAC ACL\tMAC-ACL and IP-ACL\nACL\tUser-defined ACL\tBase on user defined profile\nACL\tACL Features\tBased on time period ACL\nACL\tACL Features\tACL on VLAN\nACL\tACL Features\tBased on ACL Stream\nSecurity\t802.1x\tPort Based Authentication\nSecurity\t802.1x\tSupport EAPoR\nSecurity\t802.1x\tMAC based Authentication\nSecurity\t802.1x\tGuest VLAN\nSecurity\tMAB\tBased on Port Authentication\nSecurity\tMAB\tBased on MAC Authentication\nSecurity\tMAC Address Count Limit\tBased on Port\nSecurity\tMAC Address Count Limit\tBased on VLAN\nSecurity\tIP Address Count Limit\tBased on Port\nSecurity\tIP Address Count Limit\tBased on VLAN\nSecurity\tAccess Management\tBased on source mac and IP address\nSecurity\tDeny DoS Attack\tTCP Flag\nSecurity\tDeny DoS Attack\tTCP Flagment\nSecurity\tDeny DoS Attack\tIP Segment\nSecurity\tDeny DoS Attack\tICMP\nSecurity\tTACACS+\tStandard Support\nSecurity\tRadius\tStandard Support\nSecurity\tRadius\tClient, Support MD5\nSecurity\tSSL\tOpenssl 1.1.0\nRedundancy Related / Function\tMRPP\tCompatiable ERRP\nRedundancy Related / Function\tULPP\tUplink Protection Protocol\nRedundancy Related / Function\tULPP\tSmart Link/Monitor Link\nRedundancy Related / Function\tULSM\tUplink State Monitor\nMirror\tMirror\tSupport one to one, multi to one\nMirror\tMirror\tPort based mirror, support ingress, egress, and both\nMirror\tMirror\tCPU based mirror\nMirror\tMirror\tFlow based mirror\nMirror\tMirror\tRSPAN\nPoE\tPoE Management\tON/OFF Config\nPoE\tPoE Management\tAlive Checking for PD\nPoE\tPoE Management\t7/24 On/Off Scheduling\nOrdering Information\nModel\tPM3012TSM V1\nProduct Information\t8-Port*2.5G(PoE)+2*10GE+2*10G SFP+ Managed PoE Switch\nPackaging Accessories\tAC power cord*1 / Feet *4 / Rack Mount Kit *2 / Screw *4 / User Manual *1\n[文本框]\nPM3012TSM V1 Managed PoE Switch",
+"blocks":[
+{
+"t":"p",
+"s":"列出段落",
+"text":"Product Overview"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"The PM3012TSM V1 is a Layer 3 10GE Uplink Managed PoE Switch with 8*10M/100M/1000M/2.5Gbps adaptive RJ45 ports, 2*10Gbps RJ45 ports and 2*10Gbps SFP+ fiber module expansion slots and 1*Console port. 1-8 RJ45 ports all support PoE power supply and up to 30W port. Support static routing function, provide complete security policy, perfect QoS policy and rich VLAN function, easy to manage and maintain, meet the requirements of Enterprise, Community, Internet Cafe, Hotel, Office Network and Campus Network Networking and WIFI Coverage."
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Product Features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support IEEE 802.3af/at standard;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Automatic detection and identification of standard PoE powered devices, intelligent power supply, will not burn non-standard PoE powered devices or ordinary devices;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Support port power priority to ensure continuous power supply to critical nodes of the network;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Panel lights monitor operating status and assist in failure analysis;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Supports IEEE802.3x full-duplex flow control and Backpressure half-duplex flow control;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"2.5GE port is backward compatible with 10M/100M/1000Mbps transmission rates;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"10GE port is backward compatible with 100M/1000M/2.5G/5Gbps transmission rates;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"10Gb optical port adaptive 10G/2.5G/1G standard optical module, support SR/LR/LRM/ER/ZR and other models;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Layer 3 routing protocol control, adapted to multiple services, efficient and secure information transmission;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"IP dynamic routing protocols support IPv4/IPv6 static routes, dynamic routing protocols support RIPV1/V2, OSPFV2, BGP4, etc;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Support static convergence and dynamic convergence (LACP) 2 convergence modes, effectively increase the link bandwidth, improve the reliability of the link, and at the same time can achieve load balancing, link backup;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Flexible and convenient management and maintenance support Console, Telnet, SSH and other management methods;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Support WEB way management, more simple and efficient, easy to install and debug engineering and maintenance personnel;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Support HTTP/TFTP/FTP file upload and download management."
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Product Specifications"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Hardware Specifications"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"PM3012TSM V1"
+],
+[
+"Interface",
+"8*10M/100M/1000M/2.5Gbps RJ45 Ports / 2*100M/1000M/2.5G/5G/10Gbps Ports / 2*1000M/2.5G/10Gbps SFP+ Slots / 1 Console Port"
+],
+[
+"Standard",
+"IEEE802.3, IEEE802.3u, IEEE802.3ab, IEEE802.3z, IEEE802.3x, IEEE 802.3ad, IEEE802.3bz, IEEE802.3ae, IEEE802.3an, IEEE802.1x, IEEE802.1Q, IEEE802.1p, IEEE802.1d, IEEE802.1w, IEEE802.3af, IEEE802.3at"
+],
+[
+"Network Media",
+"10BASE-T UTP category3,4,5 cable(≤100m) / 100BASE-TX UTP category 5, 5e cable(≤100m) / 1000BASE-TX UTP category 5e, 6 cable(≤100m) / 2.5GBASE-TX UTP category 6, 6A cable(≤100m) / 10GBASE-TX UTP category 6A,7 cable(≤100m) / 1000BASE-X: MMF, SMF / 10GBASE-X: MMF, SMF / 10GBASE-SR: OM1/OM2/OM3 or above MMF (2m~300m) / 10GBASE-LR: IEC's B1.1 and B1.3 SMF (2m~10000m)"
+],
+[
+"Indicator",
+"PWR (Green), LNK/ACT (Green/Orange), SYS (Green), PoE (Orange)"
+],
+[
+"MAC Address Table",
+"16K, Auto-learning, Auto-updating"
+],
+[
+"Jumbo Frame",
+"12KByte"
+],
+[
+"Packet Buffer",
+"12Mbit"
+],
+[
+"Transfer Mode",
+"Store-and-forward"
+],
+[
+"Packet Forward Speed",
+"89.28Mpps"
+],
+[
+"Switching Capacity",
+"120Gbps"
+],
+[
+"PoE Port",
+"Port1~8"
+],
+[
+"PoE Power On RJ45",
+"1/2(-),3/6(+)"
+],
+[
+"PoE Power Output",
+"30W(Max)"
+],
+[
+"PoE Power Budget",
+"150W"
+],
+[
+"Power Supply",
+"180W Built-in power supply"
+],
+[
+"Input Power Supply",
+"AC:100-240V, 50/60Hz,2.3A Max"
+],
+[
+"Dimensions(L*W*H)",
+"330*230*44mm, Black"
+],
+[
+"Operating Temperature",
+"0°C ~ 40°C"
+],
+[
+"Storage Temperature",
+"-40°C ~ 70°C"
+],
+[
+"Operating Humidity",
+"10% ~ 90% non-condensing"
+],
+[
+"Storage Humidity",
+"5% ~ 90% non-condensing"
+],
+[
+"Surge Protection",
+"Differential mode ±2KV,Common mode ±4KV"
+],
+[
+"Electrostatic Standard",
+"Contact ±6KV, Air ±8KV"
+],
+[
+"MTBF",
+">100000 hours"
+]
+]
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Software Specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"L3 Features",
+"DHCP Server",
+"DHCP Server"
+],
+[
+"L3 Features",
+"DHCP Server",
+"DHCPv6 Server"
+],
+[
+"L3 Features",
+"Route",
+"Static Route(IPV4/IPV6)"
+],
+[
+"L3 Features",
+"Route",
+"Route Aggregation"
+],
+[
+"L3 Features",
+"RIP",
+"RIP v1/v2"
+],
+[
+"L3 Features",
+"OSPF",
+"OSPF v2"
+],
+[
+"L3 Features",
+"BGP",
+"BGP4"
+],
+[
+"L2 Features",
+"MAC Address Table",
+"MAC Aging Time"
+],
+[
+"L2 Features",
+"MAC Address Table",
+"MAC Filter"
+],
+[
+"L2 Features",
+"MAC Address Table",
+"MAC Notification"
+],
+[
+"L2 Features",
+"Basic Management",
+"Console/Telnet/SSH"
+],
+[
+"L2 Features",
+"Basic Management",
+"Http/Https、SSL/TLS"
+],
+[
+"L2 Features",
+"Basic Management",
+"FTP/TFTP"
+],
+[
+"L2 Features",
+"Basic Management",
+"Syslog"
+],
+[
+"L2 Features",
+"Basic Management",
+"SNMP(v1/v2c/v3),SNMP Trap"
+],
+[
+"L2 Features",
+"Basic Management",
+"SNTP/NTP"
+],
+[
+"L2 Features",
+"Basic Management",
+"CPU protect"
+],
+[
+"L2 Features",
+"Basic Management",
+"Software/Hardware watchdog"
+],
+[
+"L2 Features",
+"Basic Management",
+"Firmware Upgrade/Backup"
+],
+[
+"L2 Features",
+"Basic Management",
+"Ping/Traceroute"
+],
+[
+"L2 Features",
+"Port Config",
+"Bandwidth Control"
+],
+[
+"L2 Features",
+"Port Config",
+"Flow Control"
+],
+[
+"L2 Features",
+"Port Config",
+"EEE"
+],
+[
+"L2 Features",
+"Port Config",
+"MTU"
+],
+[
+"L2 Features",
+"Port Config",
+"CFM(802.1ag)"
+],
+[
+"L2 Features",
+"Port Config",
+"EFM OAM(802.3ah)"
+],
+[
+"L2 Features",
+"Port Config",
+"DDM"
+],
+[
+"L2 Features",
+"Port Config",
+"Storm Control"
+],
+[
+"L2 Features",
+"Port Config",
+"Port Isolation"
+],
+[
+"L2 Features",
+"Port Config",
+"Port Security"
+],
+[
+"L2 Features",
+"Port Config",
+"Virtual Cable Test"
+],
+[
+"L2 Features",
+"Port Config",
+"ULDP"
+],
+[
+"L2 Features",
+"Discovery",
+"LLDP(802.1ab)"
+],
+[
+"L2 Features",
+"Discovery",
+"LLDP-MED"
+],
+[
+"L2 Features",
+"(Link Aggregation)",
+"Static"
+],
+[
+"L2 Features",
+"(Link Aggregation)",
+"LACP(802.3ad)"
+],
+[
+"L2 Features",
+"(Link Aggregation)",
+"Load Balance(src-mac/dst-mac/src-ip/dst-ip)"
+],
+[
+"L2 Features",
+"(Link Aggregation)",
+"Max groups and ports per group"
+],
+[
+"L2 Features",
+"VLAN",
+"VLAN(802.1Q 4K)"
+],
+[
+"L2 Features",
+"VLAN",
+"Access/Trunk/Hybrid"
+],
+[
+"L2 Features",
+"VLAN",
+"Private VLAN"
+],
+[
+"L2 Features",
+"VLAN",
+"VLAN Filter"
+],
+[
+"L2 Features",
+"VLAN",
+"MAC-based VLAN"
+],
+[
+"L2 Features",
+"VLAN",
+"Protocol-based VLAN"
+],
+[
+"L2 Features",
+"VLAN",
+"IP Subnet-based VLAN"
+],
+[
+"L2 Features",
+"VLAN",
+"Voice VLAN"
+],
+[
+"L2 Features",
+"VLAN",
+"GVRP/GMRP"
+],
+[
+"L2 Features",
+"VLAN",
+"QinQ/Selective-QinQ/Flexible QinQ"
+],
+[
+"L2 Features",
+"VLAN",
+"VLAN Translation/N:1 VLAN Translation"
+],
+[
+"L2 Features",
+"VLAN",
+"Guest VLAN"
+],
+[
+"L2 Features",
+"Network Loop Detection",
+"Loopback Detection"
+],
+[
+"L2 Features",
+"Network Loop Detection",
+"ERPS"
+],
+[
+"L2 Features",
+"Spanning Tree",
+"STP/RSTP/MSTP"
+],
+[
+"L2 Features",
+"Spanning Tree",
+"MSTP Support 64 instance"
+],
+[
+"L2 Features",
+"Spanning Tree",
+"BPDU Guard/Root Guard/BPDU Tunnel"
+],
+[
+"L2 Features",
+"ARP",
+"Static ARP"
+],
+[
+"L2 Features",
+"ARP",
+"ARP Scanning Prevention"
+],
+[
+"L2 Features",
+"ARP",
+"ARP Spoofing Prevention"
+],
+[
+"L2 Features",
+"ARP",
+"ARP Guard"
+],
+[
+"L2 Features",
+"ARP",
+"Gratuitous ARP"
+],
+[
+"L2 Features",
+"ARP",
+"Dynamic ARP Inspection"
+],
+[
+"L2 Features",
+"ARP",
+"ARP Quantity Control"
+],
+[
+"IPv4 Related Function",
+"ICMP",
+"Anti ICMP Attack"
+],
+[
+"IPv4 Related Function",
+"ICMP",
+"ICMP Rate Limit"
+],
+[
+"IPv4 Related Function",
+"ICMP",
+"ICMP Unreachable Drop"
+],
+[
+"IPv4 Related Function",
+"IP Forward",
+"Static Route"
+],
+[
+"IPv4 Related Function",
+"IP Forward",
+"Route Aggregation"
+],
+[
+"IPv4 Related Function",
+"Control Multicast",
+"DCSCM"
+],
+[
+"IPv4 Related Function",
+"Multicast VALN",
+"Multicast VALN"
+],
+[
+"IPv4 Related Function",
+"IGMP",
+"IGMP SNOOPING V1/V2/V3"
+],
+[
+"IPv4 Related Function",
+"IGMP",
+"Fast Leave"
+],
+[
+"IPv4 Related Function",
+"IGMP",
+"IGMP Proxy"
+],
+[
+"IPv4 Related Function",
+"DHCP",
+"DHCP Server"
+],
+[
+"IPv4 Related Function",
+"DHCP",
+"DHCP Client/BOOTP"
+],
+[
+"IPv4 Related Function",
+"DHCP",
+"DHCP Relay"
+],
+[
+"IPv4 Related Function",
+"DHCP",
+"DHCP Snooping"
+],
+[
+"IPv4 Related Function",
+"DHCP",
+"DHCP Option 82/43/60/61/67"
+],
+[
+"IPv6 Related Function",
+"DHCPv6",
+"DHCPv6 Server"
+],
+[
+"IPv6 Related Function",
+"DHCPv6",
+"DHCPv6 Relay"
+],
+[
+"IPv6 Related Function",
+"DHCPv6",
+"DHCPv6 Snooping"
+],
+[
+"IPv6 Related Function",
+"DHCPv6",
+"IPv6 SAVI"
+],
+[
+"IPv6 Related Function",
+"DHCPv6",
+"Security RA"
+],
+[
+"IPv6 Related Function",
+"IPv6 Unicast Routing",
+"Static Route"
+],
+[
+"IPv6 Related Function",
+"IPv6 Multicast Routing",
+"MLD v1/V2 Snooping"
+],
+[
+"IPv6 Related Function",
+"IPv6 Features",
+"SNMP over IPv6 Support"
+],
+[
+"IPv6 Related Function",
+"IPv6 Features",
+"HTTP over IPv6 Support"
+],
+[
+"IPv6 Related Function",
+"IPv6 Features",
+"SSH over IPv6 Support"
+],
+[
+"IPv6 Related Function",
+"IPv6 Features",
+"DNS over IPv6 Support"
+],
+[
+"IPv6 Related Function",
+"IPv6 Features",
+"IPv6 ping/traceroute Support"
+],
+[
+"IPv6 Related Function",
+"IPv6 Features",
+"IPv6 Telnet Support"
+],
+[
+"IPv6 Related Function",
+"IPv6 Features",
+"IPv6 Radius+ Support"
+],
+[
+"IPv6 Related Function",
+"IPv6 Features",
+"IPv6 Tacacs+ Support"
+],
+[
+"IPv6 Related Function",
+"IPv6 Features",
+"IPv6 SNTP/NTP Support"
+],
+[
+"IPv6 Related Function",
+"IPv6 Features",
+"IPv6 FTP/TFTP Support"
+],
+[
+"IPv6 Related Function",
+"IPv6 Features",
+"IPv6 IPSec Support"
+],
+[
+"IPv6 Related Function",
+"IPv6 Features",
+"IPv6 ACL"
+],
+[
+"QoS(Quality Of Service)",
+"Basic",
+"Trust COS/DSCP"
+],
+[
+"QoS(Quality Of Service)",
+"Basic",
+"Trust Port"
+],
+[
+"QoS(Quality Of Service)",
+"Scheduling",
+"SP"
+],
+[
+"QoS(Quality Of Service)",
+"Scheduling",
+"WRR"
+],
+[
+"QoS(Quality Of Service)",
+"Scheduling",
+"WDRR"
+],
+[
+"QoS(Quality Of Service)",
+"PolicyMap Stream",
+"Based on VLAN"
+],
+[
+"QoS(Quality Of Service)",
+"PolicyMap Stream",
+"Based on COS/DSCP"
+],
+[
+"QoS(Quality Of Service)",
+"PolicyMap Stream",
+"Aggregate PolicyMap"
+],
+[
+"QoS(Quality Of Service)",
+"PolicyMap Stream",
+"Ingress PolicyMap"
+],
+[
+"QoS(Quality Of Service)",
+"Policing",
+"CAR Stream Shaping(leak algorithm)"
+],
+[
+"QoS(Quality Of Service)",
+"Policing",
+"Ingress Policing"
+],
+[
+"QoS(Quality Of Service)",
+"Rewrite",
+"COS/802.1p Priority"
+],
+[
+"QoS(Quality Of Service)",
+"Rewrite",
+"IP Precedence"
+],
+[
+"QoS(Quality Of Service)",
+"Rewrite",
+"IPv4 DSCP/IPv6 DSCP"
+],
+[
+"QoS(Quality Of Service)",
+"Rewrite",
+"drop-precedence"
+],
+[
+"QoS(Quality Of Service)",
+"Rewrite",
+"internal-priority"
+],
+[
+"QoS(Quality Of Service)",
+"Rewrite",
+"Ingress/Egress Rewrite"
+],
+[
+"QoS(Quality Of Service)",
+"Queuing",
+"DSCP to DSCP mapping"
+],
+[
+"QoS(Quality Of Service)",
+"Queuing",
+"DSCP to DP mapping"
+],
+[
+"QoS(Quality Of Service)",
+"Queuing",
+"DSCP to Queue mapping"
+],
+[
+"QoS(Quality Of Service)",
+"Queuing",
+"COS to DP mapping"
+],
+[
+"QoS(Quality Of Service)",
+"Queuing",
+"COS to Queue mapping"
+],
+[
+"ACL",
+"IP-ACL",
+"SIP/DIP"
+],
+[
+"ACL",
+"IP-ACL",
+"IP Protocol"
+],
+[
+"ACL",
+"IP-ACL",
+"IP Priority(DSCP,TOS, Precedence)"
+],
+[
+"ACL",
+"IP-ACL",
+"TCP,UDP src,dst Port"
+],
+[
+"ACL",
+"MAC-ACL",
+"SRC/DST MAC"
+],
+[
+"ACL",
+"MAC-ACL",
+"VLAN"
+],
+[
+"ACL",
+"MAC-ACL",
+"COS"
+],
+[
+"ACL",
+"MAC-ACL",
+"Tag/Untag"
+],
+[
+"ACL",
+"IP-MAC ACL",
+"MAC-ACL and IP-ACL"
+],
+[
+"ACL",
+"User-defined ACL",
+"Base on user defined profile"
+],
+[
+"ACL",
+"ACL Features",
+"Based on time period ACL"
+],
+[
+"ACL",
+"ACL Features",
+"ACL on VLAN"
+],
+[
+"ACL",
+"ACL Features",
+"Based on ACL Stream"
+],
+[
+"Security",
+"802.1x",
+"Port Based Authentication"
+],
+[
+"Security",
+"802.1x",
+"Support EAPoR"
+],
+[
+"Security",
+"802.1x",
+"MAC based Authentication"
+],
+[
+"Security",
+"802.1x",
+"Guest VLAN"
+],
+[
+"Security",
+"MAB",
+"Based on Port Authentication"
+],
+[
+"Security",
+"MAB",
+"Based on MAC Authentication"
+],
+[
+"Security",
+"MAC Address Count Limit",
+"Based on Port"
+],
+[
+"Security",
+"MAC Address Count Limit",
+"Based on VLAN"
+],
+[
+"Security",
+"IP Address Count Limit",
+"Based on Port"
+],
+[
+"Security",
+"IP Address Count Limit",
+"Based on VLAN"
+],
+[
+"Security",
+"Access Management",
+"Based on source mac and IP address"
+],
+[
+"Security",
+"Deny DoS Attack",
+"TCP Flag"
+],
+[
+"Security",
+"Deny DoS Attack",
+"TCP Flagment"
+],
+[
+"Security",
+"Deny DoS Attack",
+"IP Segment"
+],
+[
+"Security",
+"Deny DoS Attack",
+"ICMP"
+],
+[
+"Security",
+"TACACS+",
+"Standard Support"
+],
+[
+"Security",
+"Radius",
+"Standard Support"
+],
+[
+"Security",
+"Radius",
+"Client, Support MD5"
+],
+[
+"Security",
+"SSL",
+"Openssl 1.1.0"
+],
+[
+"Redundancy Related / Function",
+"MRPP",
+"Compatiable ERRP"
+],
+[
+"Redundancy Related / Function",
+"ULPP",
+"Uplink Protection Protocol"
+],
+[
+"Redundancy Related / Function",
+"ULPP",
+"Smart Link/Monitor Link"
+],
+[
+"Redundancy Related / Function",
+"ULSM",
+"Uplink State Monitor"
+],
+[
+"Mirror",
+"Mirror",
+"Support one to one, multi to one"
+],
+[
+"Mirror",
+"Mirror",
+"Port based mirror, support ingress, egress, and both"
+],
+[
+"Mirror",
+"Mirror",
+"CPU based mirror"
+],
+[
+"Mirror",
+"Mirror",
+"Flow based mirror"
+],
+[
+"Mirror",
+"Mirror",
+"RSPAN"
+],
+[
+"PoE",
+"PoE Management",
+"ON/OFF Config"
+],
+[
+"PoE",
+"PoE Management",
+"Alive Checking for PD"
+],
+[
+"PoE",
+"PoE Management",
+"7/24 On/Off Scheduling"
+]
+]
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Ordering Information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"PM3012TSM V1"
+],
+[
+"Product Information",
+"8-Port*2.5G(PoE)+2*10GE+2*10G SFP+ Managed PoE Switch"
+],
+[
+"Packaging Accessories",
+"AC power cord*1 / Feet *4 / Rack Mount Kit *2 / Screw *4 / User Manual *1"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:18:47Z"
+}

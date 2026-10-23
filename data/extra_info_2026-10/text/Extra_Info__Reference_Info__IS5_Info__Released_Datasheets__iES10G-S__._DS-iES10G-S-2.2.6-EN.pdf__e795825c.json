@@ -1,0 +1,22 @@
+{
+"id":"Extra_Info__Reference_Info__IS5_Info__Released_Datasheets__iES10G-S__._DS-iES10G-S-2.2.6-EN.pdf__e795825c",
+"path":"Extra_Info/Reference Info/IS5 Info/Released Datasheets/iES10G-S/._DS-iES10G-S-2.2.6-EN.pdf",
+"name":"._DS-iES10G-S-2.2.6-EN.pdf",
+"ext":".pdf",
+"bytes":4096,
+"sha256":"e795825ca35ed89e6268ed2c374a6f90bb33879d91676c975aeb24531c737982",
+"source":"Extra_Info.zip",
+"method":"pdfplumber",
+"status":"meta",
+"meta":{
+"ocr_pages":0
+},
+"warnings":[
+"pdfplumber: No /Root object! - Is this really a PDF?",
+"pypdf: Stream has ended unexpectedly"
+],
+"chars":0,
+"text":"",
+"pages":[],
+"extracted_at":"2026-10-23T05:13:46Z"
+}

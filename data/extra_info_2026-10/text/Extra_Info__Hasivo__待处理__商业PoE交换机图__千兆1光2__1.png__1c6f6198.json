@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆1光2__1.png__1c6f6198",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/千兆1光2/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":555657,
+"sha256":"1c6f6198802d248d9829b2c4b62bebadc16cbbf75d44e3e6349e2bacbf988a25",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":921,
+"height":520,
+"mode":"RGBA",
+"thumb_bytes":8046
+},
+"warnings":[],
+"chars":52,
+"text":"Fiber Switch\nPOWER\n© a\nC wa!\nUplink 這 -、\nSFP-Uplink3",
+"extracted_at":"2026-10-23T05:23:29Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆1光2__1.png__1c6f6198.jpg"
+}

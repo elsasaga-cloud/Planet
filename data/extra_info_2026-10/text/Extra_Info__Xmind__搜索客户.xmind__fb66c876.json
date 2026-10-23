@@ -1,0 +1,18 @@
+{
+"id":"Extra_Info__Xmind__搜索客户.xmind__fb66c876",
+"path":"Extra_Info/Xmind/搜索客户.xmind",
+"name":"搜索客户.xmind",
+"ext":".xmind",
+"bytes":21619,
+"sha256":"fb66c876994d8489cd180e39ffb374e3b5e081e8ff3fa367e4bfc1a15b43adb7",
+"source":"Extra_Info.zip",
+"method":"xmind(content.xml)",
+"status":"ok",
+"meta":{
+"lines":3
+},
+"warnings":[],
+"chars":80,
+"text":"# Sheet: 画布 1\n- 搜索客户\n  - 对搜索的⽹站进⾏限制，关键词 site:.in : 为英⽂的冒号（in这里指的是India, 也可换为us等）",
+"extracted_at":"2026-10-23T05:20:12Z"
+}

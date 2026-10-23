@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__百千兆1_1_16_COMBO__4_150W.png__35a1f79b",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/百千兆1+1+16 COMBO/4_150W.png",
+"name":"4_150W.png",
+"ext":".png",
+"bytes":3828944,
+"sha256":"35a1f79bbba0601bfc65626f54e970b2fbfb16a092b8a4accdca00ceafdb921c",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":4001,
+"height":892,
+"mode":"RGBA",
+"thumb_bytes":3096
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:23:40Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__百千兆1_1_16_COMBO__4_150W.png__35a1f79b.jpg"
+}

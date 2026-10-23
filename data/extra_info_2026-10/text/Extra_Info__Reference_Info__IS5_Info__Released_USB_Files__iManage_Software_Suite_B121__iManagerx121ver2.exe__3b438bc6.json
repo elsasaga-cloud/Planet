@@ -1,0 +1,18 @@
+{
+"id":"Extra_Info__Reference_Info__IS5_Info__Released_USB_Files__iManage_Software_Suite_B121__iManagerx121ver2.exe__3b438bc6",
+"path":"Extra_Info/Reference Info/IS5 Info/Released USB Files/iManage_Software_Suite_B121/iManagerx121ver2.exe",
+"name":"iManagerx121ver2.exe",
+"ext":".exe",
+"bytes":50613769,
+"sha256":"3b438bc6b6f273f5b48b1cea5ad2a690bcc1ebf887750111d83cde20878eba32",
+"source":"Extra_Info.zip",
+"method":"none",
+"status":"meta",
+"meta":{},
+"warnings":[
+"no extractor for .exe"
+],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:13:15Z"
+}

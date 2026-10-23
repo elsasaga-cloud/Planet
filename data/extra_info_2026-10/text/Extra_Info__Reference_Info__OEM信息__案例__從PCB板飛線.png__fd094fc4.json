@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Reference_Info__OEM信息__案例__從PCB板飛線.png__fd094fc4",
+"path":"Extra_Info/Reference Info/OEM信息/案例/從PCB板飛線.png",
+"name":"從PCB板飛線.png",
+"ext":".png",
+"bytes":1025552,
+"sha256":"fd094fc4955c03b0259ec59740cdae3e914378a28a85b77c2b82a9838c61a7a0",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":1504,
+"height":2016,
+"mode":"RGBA",
+"thumb_bytes":10891
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:20:09Z",
+"thumb":"thumbs/Extra_Info__Reference_Info__OEM信息__案例__從PCB板飛線.png__fd094fc4.jpg"
+}

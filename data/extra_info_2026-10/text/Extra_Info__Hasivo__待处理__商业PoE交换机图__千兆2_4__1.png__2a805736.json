@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆2_4__1.png__2a805736",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/千兆2+4/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":941201,
+"sha256":"2a8057361dbcea6723453915ba10e2166ee738c4c9219b1b7020e2d56f3739f9",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1565,
+"height":390,
+"mode":"RGBA",
+"thumb_bytes":5559
+},
+"warnings":[],
+"chars":65,
+"text":"PoE Link\nGigabit PoE Switch es:\n4GE PoE+2GE UP 人\n@p\n1-HiPoE 2 3 4",
+"extracted_at":"2026-10-23T05:24:02Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆2_4__1.png__2a805736.jpg"
+}

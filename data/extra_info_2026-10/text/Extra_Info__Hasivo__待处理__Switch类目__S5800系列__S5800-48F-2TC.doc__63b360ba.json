@@ -1,0 +1,121 @@
+{
+"id":"Extra_Info__Hasivo__待处理__Switch类目__S5800系列__S5800-48F-2TC.doc__63b360ba",
+"path":"Extra_Info/Hasivo/待处理/Switch类目/S5800系列/S5800-48F-2TC.doc",
+"name":"S5800-48F-2TC.doc",
+"ext":".doc",
+"bytes":2090030,
+"sha256":"63b360bad6a7c3e59c0e999e38862423fe0e71cc03835d17a1c8f1626105963f",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:21:08+00:00",
+"paragraphs":1,
+"tables":1,
+"embedded_images":2
+},
+"warnings":[],
+"chars":1277,
+"text":"Front                          Back\nModel\tS5800-48F-2TC\nFixed Port\t48*10/100Base-TX RJ45 port (Data) / 2*COMBO\nNetwork Protocol\tIEEE 802.3 / IEEE 802.3i 10BASE-T\nIEEE 802.3u 100BASE-TX / IEEE 802.3ab1000BASE-T / IEEE 802.3z 1000BASE-X\nPort Specification\t10/100BaseT（X）Auto\nTransmission Mode\tStore and Forward(Full Wirespeed)\nBandwidth\t17.6Gbps\nPacket Forwarding\t12.6Mpps\nMAC Address\t8K\nBuffer\t4.1M\nTransmission Distance\t10BASE-T ： Cat3,4,5 UTP(≤250 meter) / 100BASE-TX ： Cat5 or later UTP(150 meter) / 1000BASE-TX ： Cat6 or later UTP(150 meter) / 1000BASE-SX:62.5μm/50μm MMF(2m~550m) / 1000BASE-LX:62.5μm/50μm MM(2m~550m) or 10μm SMF(2m~5000m)\nWatt\tStandby Power Consumption：≤30W；\nLED Indicator\tPower LED / 49 50:SFP LED / Port:(Green=10/100M LED+Orange=1000M LED)\nPower Input\tBuilt-in Power AC：100～240V 50-60Hz 1A\nOperating Temperature/Humidity\t-10～+55°C；5%～90% RH Non coagulation\nStorage Temperature/Humidity\t-40～+75°C；5%～95% RH Non coagulation\nProduct Size/Packing Size（L*W*H）\t445mm*295mm*45mm / 515mm*375mm*95mm\nN.W/G.W（kg）\t5kg/5.8kg\nInstallation\tRack-mount(optional machine hanger spare parts)\nLightning Protection Level\t3KV 8/20us； / IP30\nCertificate\tCE mark, commercial；CE/LVD EN60950；\nFCC Part 15 Class B；RoHS；\nWarranty\tWhole device for 1 year(Accessories not included）",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Front                          Back"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"S5800-48F-2TC"
+],
+[
+"Fixed Port",
+"48*10/100Base-TX RJ45 port (Data) / 2*COMBO"
+],
+[
+"Network Protocol",
+"IEEE 802.3 / IEEE 802.3i 10BASE-T\nIEEE 802.3u 100BASE-TX / IEEE 802.3ab1000BASE-T / IEEE 802.3z 1000BASE-X"
+],
+[
+"Port Specification",
+"10/100BaseT（X）Auto"
+],
+[
+"Transmission Mode",
+"Store and Forward(Full Wirespeed)"
+],
+[
+"Bandwidth",
+"17.6Gbps"
+],
+[
+"Packet Forwarding",
+"12.6Mpps"
+],
+[
+"MAC Address",
+"8K"
+],
+[
+"Buffer",
+"4.1M"
+],
+[
+"Transmission Distance",
+"10BASE-T ： Cat3,4,5 UTP(≤250 meter) / 100BASE-TX ： Cat5 or later UTP(150 meter) / 1000BASE-TX ： Cat6 or later UTP(150 meter) / 1000BASE-SX:62.5μm/50μm MMF(2m~550m) / 1000BASE-LX:62.5μm/50μm MM(2m~550m) or 10μm SMF(2m~5000m)"
+],
+[
+"Watt",
+"Standby Power Consumption：≤30W；"
+],
+[
+"LED Indicator",
+"Power LED / 49 50:SFP LED / Port:(Green=10/100M LED+Orange=1000M LED)"
+],
+[
+"Power Input",
+"Built-in Power AC：100～240V 50-60Hz 1A"
+],
+[
+"Operating Temperature/Humidity",
+"-10～+55°C；5%～90% RH Non coagulation"
+],
+[
+"Storage Temperature/Humidity",
+"-40～+75°C；5%～95% RH Non coagulation"
+],
+[
+"Product Size/Packing Size（L*W*H）",
+"445mm*295mm*45mm / 515mm*375mm*95mm"
+],
+[
+"N.W/G.W（kg）",
+"5kg/5.8kg"
+],
+[
+"Installation",
+"Rack-mount(optional machine hanger spare parts)"
+],
+[
+"Lightning Protection Level",
+"3KV 8/20us； / IP30"
+],
+[
+"Certificate",
+"CE mark, commercial；CE/LVD EN60950；\nFCC Part 15 Class B；RoHS；"
+],
+[
+"Warranty",
+"Whole device for 1 year(Accessories not included）"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:21:08Z"
+}

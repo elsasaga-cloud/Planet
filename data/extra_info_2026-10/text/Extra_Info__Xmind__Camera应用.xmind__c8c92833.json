@@ -1,0 +1,18 @@
+{
+"id":"Extra_Info__Xmind__Camera应用.xmind__c8c92833",
+"path":"Extra_Info/Xmind/Camera应用.xmind",
+"name":"Camera应用.xmind",
+"ext":".xmind",
+"bytes":1849977,
+"sha256":"c8c928338887a032fbf1cae0ca905cb456f6b71d455431a49bd63685c2d870d1",
+"source":"Extra_Info.zip",
+"method":"xmind(content.xml)",
+"status":"ok",
+"meta":{
+"lines":42
+},
+"warnings":[],
+"chars":766,
+"text":"# Sheet: 画布 1\n- Camera应用\n  - NVR\n    - 小场景\n      - PoE 摄像机+PoE NVR\n        - 免适配器、电源线、交换机等配件\r\n即插即用，无需配置，插上电就能显示图像\n        - 例子：公司监控\n        - \n    - 大场景\n      - PoE 摄像机+PoE 交换机+NVR\n      - 例子：天虹商场旁十字路口电子眼\n      - \n    - 其他例子\n      - 较多非POE设备，需用到POE配件(POE injector)\n        - \n  - AV摄像机\n    - 与网络摄像头（一个DC头，一个网口）不一样的是\r\n末端为一个DC头和一个BNC口（接BNC头）\n      - \n    - \n    - \n    - 同轴线一般是500米的传输距离\n      - \n    - 以上图为例\r\n前端4个位置为同轴模拟摄像机，分别接DC头供电，同轴线（距离500米以内）接TX，然后走光纤，RX接DVR\r\n也可效仿上图“针对小场景”NVR使用场景，直连DVR，如下图\n    - \n  - 多功能\n    - \n    - 喇叭/广播/对讲机/电话/少量摄像头，10/100M网口足够/I/O控制\n  - SDI\n    - ？？\n  - 传输距离\n    - 同轴线\n      - 传输同轴信号500米\n    - 网线\n      - 传输网络信号100米\n    - 光纤\n    - RS232\n      - 15m\n    - RS-422, RS-485\n      - 1500 meters\n  - POE配件\n    - POE接POE用网线，非POE接POE用Injector\n    - ",
+"extracted_at":"2026-10-23T05:20:09Z"
+}

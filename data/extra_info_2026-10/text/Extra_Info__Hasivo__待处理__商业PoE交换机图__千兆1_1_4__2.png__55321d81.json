@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆1_1_4__2.png__55321d81",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/千兆1+1+4/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":1264356,
+"sha256":"55321d816c8e4f5593162d002a498302f7a849d24eb0c57ed43435840685c234",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1737,
+"height":618,
+"mode":"RGBA",
+"thumb_bytes":6488
+},
+"warnings":[],
+"chars":47,
+"text":"Gigabit Fiber PoE 5\nAGE poE+iGEtSFP\nwitch 5‧\n60",
+"extracted_at":"2026-10-23T05:22:51Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆1_1_4__2.png__55321d81.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Template__Elsa_18838975947__公章_Elsa组合.png__9f77e966",
+"path":"Extra_Info/Template/Elsa 18838975947/公章 Elsa组合.png",
+"name":"公章 Elsa组合.png",
+"ext":".png",
+"bytes":303572,
+"sha256":"9f77e9660767af41d5f0fea0ad93136728472249f6676347cb9a045800334885",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":724,
+"height":479,
+"mode":"RGBA",
+"thumb_bytes":19348
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:20:25Z",
+"thumb":"thumbs/Extra_Info__Template__Elsa_18838975947__公章_Elsa组合.png__9f77e966.jpg"
+}

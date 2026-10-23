@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__工业管理类目__L2_PoE__STI-488GPM-2BT__3.png__5f0b5cb8",
+"path":"Extra_Info/Hasivo/待处理/工业管理类目/L2 PoE/STI-488GPM-2BT/3.png",
+"name":"3.png",
+"ext":".png",
+"bytes":624149,
+"sha256":"5f0b5cb823cc94806bc28121cd839fe65c9286ffb33bb1cf6c9d16db5c2cc2c1",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":473,
+"height":1050,
+"mode":"RGBA",
+"thumb_bytes":9161
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:21:25Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__工业管理类目__L2_PoE__STI-488GPM-2BT__3.png__5f0b5cb8.jpg"
+}

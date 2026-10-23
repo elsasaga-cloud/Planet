@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__百千兆2_24__2.png__8b443be2",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/百千兆2+24/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":1314845,
+"sha256":"8b443be2dfd4c6dde709cf2cbf0b1670a1a8aae3fbd76d805a01030d3b37c642",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":2470,
+"height":855,
+"mode":"RGBA",
+"thumb_bytes":5112
+},
+"warnings":[],
+"chars":40,
+"text":"Hybrid PoE Switch\nUnmanaged 24FE PoE+2GE",
+"extracted_at":"2026-10-23T05:23:36Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__百千兆2_24__2.png__8b443be2.jpg"
+}

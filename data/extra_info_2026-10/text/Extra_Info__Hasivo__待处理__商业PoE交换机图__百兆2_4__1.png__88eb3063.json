@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__百兆2_4__1.png__88eb3063",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/百兆2+4/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":968963,
+"sha256":"88eb30638614edbdf0541ef7a48a98d260391195d22bbab93608d0a3af1c6377",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1565,
+"height":390,
+"mode":"RGBA",
+"thumb_bytes":5429
+},
+"warnings":[],
+"chars":39,
+"text":"PoE Switch\n4FE PoE+2FE UP\n1-HiPoE 2 3 4",
+"extracted_at":"2026-10-23T05:22:59Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__百兆2_4__1.png__88eb3063.jpg"
+}

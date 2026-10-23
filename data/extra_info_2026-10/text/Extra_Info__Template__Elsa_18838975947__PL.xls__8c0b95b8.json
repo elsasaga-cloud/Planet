@@ -1,0 +1,172 @@
+{
+"id":"Extra_Info__Template__Elsa_18838975947__PL.xls__8c0b95b8",
+"path":"Extra_Info/Template/Elsa 18838975947/PL.xls",
+"name":"PL.xls",
+"ext":".xls",
+"bytes":331264,
+"sha256":"8c0b95b860c287a004386df1de659b93fd74ea897c22e12f7b92e5bf0227b707",
+"source":"Extra_Info.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Packing List"
+],
+"rows_total":24
+},
+"warnings":[],
+"chars":1031,
+"text":"--- Sheet: Packing List ---\nSaga Telecom, OEM Factory\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together\nMob: 86 18838975947\nWeb: www.sagatelecom.com.cn\nEmail: e.sagatelecom@gmail.com\nPacking List\nDate\t2025.11.28\nShip To\tBiz - Ethics Ltd.\nShipping Add.\t广州市越秀区瑶台西街89号(美泰城)A2038档 13503077498 亨瑞\nP/O No.\nP/I No.\tSTEC20251123012\nP/L No.\tPL20251128001\nC/No.:\tModel\tDESCRIPTION\tQTY/CTN\tQTY/PCS\tCTNS\tN.W/Kg\tG.W/Kg\tLENGTH/CM\tWIDTH/CM\tHEIGHT/CM\tV.W/KG\tMEAS/CM³\n1\tNetstream- 42410G280W L2+\tCommercial Ethernet Switch\t5\t5\t1\t16.7\t17.7\t53.5\t49.5\t30\t15.8895\t0.079448\n2\tNetstream- 42410G280W L2+\tCommercial Ethernet Switch\t2\t2\t1\t6.2\t7.2\t53.5\t20.5\t30\t6.5805\t0.032903\n3\tNetstream- 42410G280W L2+\tCommercial Ethernet Switch\t1\t1\t1\t6.9\t7.9\t53.5\t20.5\t30\t6.5805\t0.032903\n\tBNSC-4168XGGCM\tCommercial Ethernet Switch\t1\t1\nTOTAL\t\t\t\t9\t3\t29.8\t32.8\t\t\t\t29.0505\t0.145253\nBillable Weight\tWhichever is greater between G.W/Kg and V.W/KG\nCarton\tTHREE(3)\nQUANTITY\tNINE PCS\nZhengzhou Saga Telecom Co., Ltd.\nIssued by\tElsa",
+"sheets":{
+"Packing List":{
+"rows":[
+[
+"Saga Telecom, OEM Factory"
+],
+[
+"Tailored Managed Networking Solutions Provider"
+],
+[
+"Built to Last, Continuous Supply, Evolving Together"
+],
+[
+"Mob: 86 18838975947"
+],
+[
+"Web: www.sagatelecom.com.cn"
+],
+[
+"Email: e.sagatelecom@gmail.com"
+],
+[
+"Packing List"
+],
+[
+"Date",
+"2025.11.28"
+],
+[
+"Ship To",
+"Biz - Ethics Ltd."
+],
+[
+"Shipping Add.",
+"广州市越秀区瑶台西街89号(美泰城)A2038档 13503077498 亨瑞"
+],
+[
+"P/O No."
+],
+[
+"P/I No.",
+"STEC20251123012"
+],
+[
+"P/L No.",
+"PL20251128001"
+],
+[
+"C/No.:",
+"Model",
+"DESCRIPTION",
+"QTY/CTN",
+"QTY/PCS",
+"CTNS",
+"N.W/Kg",
+"G.W/Kg",
+"LENGTH/CM",
+"WIDTH/CM",
+"HEIGHT/CM",
+"V.W/KG",
+"MEAS/CM³"
+],
+[
+"1",
+"Netstream- 42410G280W L2+",
+"Commercial Ethernet Switch",
+"5",
+"5",
+"1",
+"16.7",
+"17.7",
+"53.5",
+"49.5",
+"30",
+"15.8895",
+"0.079448"
+],
+[
+"2",
+"Netstream- 42410G280W L2+",
+"Commercial Ethernet Switch",
+"2",
+"2",
+"1",
+"6.2",
+"7.2",
+"53.5",
+"20.5",
+"30",
+"6.5805",
+"0.032903"
+],
+[
+"3",
+"Netstream- 42410G280W L2+",
+"Commercial Ethernet Switch",
+"1",
+"1",
+"1",
+"6.9",
+"7.9",
+"53.5",
+"20.5",
+"30",
+"6.5805",
+"0.032903"
+],
+[
+"",
+"BNSC-4168XGGCM",
+"Commercial Ethernet Switch",
+"1",
+"1"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"9",
+"3",
+"29.8",
+"32.8",
+"",
+"",
+"",
+"29.0505",
+"0.145253"
+],
+[
+"Billable Weight",
+"Whichever is greater between G.W/Kg and V.W/KG"
+],
+[
+"Carton",
+"THREE(3)"
+],
+[
+"QUANTITY",
+"NINE PCS"
+],
+[
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Issued by",
+"Elsa"
+]
+]
+}
+},
+"extracted_at":"2026-10-23T05:20:25Z"
+}

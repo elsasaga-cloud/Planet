@@ -1,0 +1,107 @@
+{
+"id":"Extra_Info__Template__Label.docx__5b8e489e",
+"path":"Extra_Info/Template/Label.docx",
+"name":"Label.docx",
+"ext":".docx",
+"bytes":536909,
+"sha256":"5b8e489e4493dc35dd0b55279e23aa10b43ea47f865ece821f19bb2c7af51762",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2025-12-19T11:40:00+00:00",
+"modified":"2025-12-19T11:42:15+00:00",
+"paragraphs":16,
+"tables":0,
+"embedded_images":4
+},
+"warnings":[],
+"chars":817,
+"text":"Unmanaged\nManaged\nProduct Category:\nPorts:\nPower input:\nGraphs:\nSN:\nSize: 80*50mm\nSaga Telecom supports printing your logo/model name, serial number\nStandard language is English\nIf a different language is adopted like Russian, Italian, Korean...\nPlease share EXACT translation, we will simply copy and print\nBarcodes are scannable for inbound statistics\nAn example photo will be shared for confirmation before mass printing for a bulk order.\nAll of this is free of cost.\nPlease just let us know the format you need.\n[页眉页脚]\n2026/Q1                                                                                                                                                         Saga Telecom\nwww.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Unmanaged"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Managed"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product Category:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Ports:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Power input:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Graphs:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SN:"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Size: 80*50mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom supports printing your logo/model name, serial number"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Standard language is English"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If a different language is adopted like Russian, Italian, Korean..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please share EXACT translation, we will simply copy and print"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Barcodes are scannable for inbound statistics"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"An example photo will be shared for confirmation before mass printing for a bulk order."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"All of this is free of cost."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please just let us know the format you need."
+}
+],
+"extracted_at":"2026-10-23T05:20:20Z"
+}

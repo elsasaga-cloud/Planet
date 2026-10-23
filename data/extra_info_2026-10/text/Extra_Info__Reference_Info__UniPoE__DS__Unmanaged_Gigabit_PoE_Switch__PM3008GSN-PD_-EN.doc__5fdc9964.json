@@ -1,0 +1,236 @@
+{
+"id":"Extra_Info__Reference_Info__UniPoE__DS__Unmanaged_Gigabit_PoE_Switch__PM3008GSN-PD_-EN.doc__5fdc9964",
+"path":"Extra_Info/Reference Info/UniPoE/DS/Unmanaged Gigabit PoE Switch/PM3008GSN-PD -EN.doc",
+"name":"PM3008GSN-PD -EN.doc",
+"ext":".doc",
+"bytes":310272,
+"sha256":"5fdc996416fa3ee444a1f557cb797ae5efa110e4388ede166b47fd643f5d170f",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:19:09+00:00",
+"paragraphs":15,
+"tables":2,
+"embedded_images":5
+},
+"warnings":[],
+"chars":2057,
+"text":"Product Overview\nPM3008GSN-PD is 8-port 10/100/1000Mbps Switch with 7 port PoE(Port1~7). Port8 is PD port, Support 95W input. Power supply support external power supply and PoE.\nThe electrical power and data transmission on the same cable can expand your network to the places where no power lines or outlets, where you can install devices such as APs, IP cameras, or IP phones etc.\nFeatures\nComplies with IEEE802.3af/at Standard;\nSupports PoE Power up to 30W for each PoE port；\n1*95W PD Port（Port8）；\nAuto detect power device; will not burned non-standard PoE device or normal PoE switch;\nSupports port power supply prioritization, guarantee the continuous power supply of key nodes；\nSupports IEEE802.3 x full duplex flow control and Backpressure half duplex flow control;\nLine-speed forwarding, intelligent identification;\nSupports storage -and - forward for Data exchange;\nIron case, no fan;\nProduct Specifications\nModel\tPM3008GSN-PD\nStandard\tEEE802.3, EEE802.3u, EEE802.3x, EEE802.3ab, EEE802.3az、\nPoE Standard\tIEEE802.3af/at\nInterface\t8*10/100/1000Mbps RJ45 port\nKey Function\tVLAN\nPoE Port\t1-7\nPD port Input\t95W\nPoE Power Budget\t120W\nRJ45 PoE Power Supply\tMode A   Anode1/2   Cathode3/6\nPoE output-port\tMax 30W\nIndicator\tPWR、 LNK/ACT、 PoE\nNetwork Media\t10BASE-T: UTP category 3,4,5 cable（≤100m） / 100BASE-TX: UTP category 5, 5e cable（≤100m） / 1000BASE-T: UTP category 5, 5e cable（≤100m）\nMAC Address Table\t4K，Auto-learning, Auto-aging\nJumbo Frame\t9216 Bytes\nPacket Buffer\t1.5M bit\nTransfer Mode\tstore-and-forward\nPacket Forwarding Rate\t11.9Mpps\nBandwidth\t16Gbps\nFan\tFanless\nDevice Dimension\t138*108*50mm\nMachine Weight\t<1kg\nInput Voltage\tDC：48-57V\nOperating Temperature\t-20°C ~ 70 °C\nStorage Temperature\t-40 °C ~ 75 °C\nOperating Humidity\t10% ~ 90%  non-condensing\nStorage Humidity\t5% ~ 90%  non-condensing\nSurge Protection\tDifferent mode±2KV Common mode±4KV\nMTBF\t>50000 hours\nElectrostatic Standard\tContact ±6KV,Air ±8KV\nOrdering Information\nModel\tProduct Information\nPM3008GSN-PD\t7-Port Gigabit+1GE（PD） Unmanaged PoE Switch\n[文本框]\nPM3008GSN-PD PoE Switch",
+"blocks":[
+{
+"t":"p",
+"s":"列出段落",
+"text":"Product Overview"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PM3008GSN-PD is 8-port 10/100/1000Mbps Switch with 7 port PoE(Port1~7). Port8 is PD port, Support 95W input. Power supply support external power supply and PoE."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The electrical power and data transmission on the same cable can expand your network to the places where no power lines or outlets, where you can install devices such as APs, IP cameras, or IP phones etc."
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Features"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Complies with IEEE802.3af/at Standard;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Supports PoE Power up to 30W for each PoE port；"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"1*95W PD Port（Port8）；"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Auto detect power device; will not burned non-standard PoE device or normal PoE switch;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Supports port power supply prioritization, guarantee the continuous power supply of key nodes；"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Supports IEEE802.3 x full duplex flow control and Backpressure half duplex flow control;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Line-speed forwarding, intelligent identification;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Supports storage -and - forward for Data exchange;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Iron case, no fan;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Product Specifications"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"PM3008GSN-PD"
+],
+[
+"Standard",
+"EEE802.3, EEE802.3u, EEE802.3x, EEE802.3ab, EEE802.3az、"
+],
+[
+"PoE Standard",
+"IEEE802.3af/at"
+],
+[
+"Interface",
+"8*10/100/1000Mbps RJ45 port"
+],
+[
+"Key Function",
+"VLAN"
+],
+[
+"PoE Port",
+"1-7"
+],
+[
+"PD port Input",
+"95W"
+],
+[
+"PoE Power Budget",
+"120W"
+],
+[
+"RJ45 PoE Power Supply",
+"Mode A   Anode1/2   Cathode3/6"
+],
+[
+"PoE output-port",
+"Max 30W"
+],
+[
+"Indicator",
+"PWR、 LNK/ACT、 PoE"
+],
+[
+"Network Media",
+"10BASE-T: UTP category 3,4,5 cable（≤100m） / 100BASE-TX: UTP category 5, 5e cable（≤100m） / 1000BASE-T: UTP category 5, 5e cable（≤100m）"
+],
+[
+"MAC Address Table",
+"4K，Auto-learning, Auto-aging"
+],
+[
+"Jumbo Frame",
+"9216 Bytes"
+],
+[
+"Packet Buffer",
+"1.5M bit"
+],
+[
+"Transfer Mode",
+"store-and-forward"
+],
+[
+"Packet Forwarding Rate",
+"11.9Mpps"
+],
+[
+"Bandwidth",
+"16Gbps"
+],
+[
+"Fan",
+"Fanless"
+],
+[
+"Device Dimension",
+"138*108*50mm"
+],
+[
+"Machine Weight",
+"<1kg"
+],
+[
+"Input Voltage",
+"DC：48-57V"
+],
+[
+"Operating Temperature",
+"-20°C ~ 70 °C"
+],
+[
+"Storage Temperature",
+"-40 °C ~ 75 °C"
+],
+[
+"Operating Humidity",
+"10% ~ 90%  non-condensing"
+],
+[
+"Storage Humidity",
+"5% ~ 90%  non-condensing"
+],
+[
+"Surge Protection",
+"Different mode±2KV Common mode±4KV"
+],
+[
+"MTBF",
+">50000 hours"
+],
+[
+"Electrostatic Standard",
+"Contact ±6KV,Air ±8KV"
+]
+]
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Ordering Information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"Product Information"
+],
+[
+"PM3008GSN-PD",
+"7-Port Gigabit+1GE（PD） Unmanaged PoE Switch"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:19:09Z"
+}

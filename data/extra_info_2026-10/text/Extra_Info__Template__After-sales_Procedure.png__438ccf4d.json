@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Template__After-sales_Procedure.png__438ccf4d",
+"path":"Extra_Info/Template/After-sales Procedure.png",
+"name":"After-sales Procedure.png",
+"ext":".png",
+"bytes":86779,
+"sha256":"438ccf4d946c12e7a03eaaf23f48d1d7446f1579d576462701419f50f7e85c0b",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":2583,
+"height":765,
+"mode":"RGB",
+"thumb_bytes":7786
+},
+"warnings":[],
+"chars":856,
+"text":"When this problem occurred\n| What you did to adjust it like restart the device or change new accessories\n一 | Describe what happened |\n/ | PP i How you use this device like connecting some IP cameras\nProvide as many actual photos/videos as possible 下\nWith in-hand accessories, sometimes it is easy to fix the problem.\nThis is direct and efficient to help figure out the problems.\nAfter-sales\nProcedure Prepare necessary and relevant | An example is, in a linear network connection, if one SFP module fails, the\n~~] accessories such as SFP module/ 「 whole system might have a transmission problem.\nnetwork cable/patch-cord... . The solution would be as simple as replacing a new workable SFP module.\nA zoom video meeting link will be shared for face-to-face discussion\nGet ready for online meeting » Remote control might be required via Teamviewer or Anydesk",
+"extracted_at":"2026-10-23T05:20:20Z",
+"thumb":"thumbs/Extra_Info__Template__After-sales_Procedure.png__438ccf4d.jpg"
+}

@@ -1,0 +1,27 @@
+{
+"id":"Extra_Info__Reference_Info__IS5_Info__Test_Reports_SO010850.pdf__0bea429b",
+"path":"Extra_Info/Reference Info/IS5 Info/Test Reports SO010850.pdf",
+"name":"Test Reports SO010850.pdf",
+"ext":".pdf",
+"bytes":640391,
+"sha256":"0bea429b7a263022a33ee5f9e2e972edf88bb9696af0d6a7c30329549b793762",
+"source":"Extra_Info.zip",
+"method":"pdfplumber",
+"status":"ok",
+"meta":{
+"pages":1,
+"title":"Test Report",
+"author":"toolsidailatchman",
+"producer":"Microsoft: Print To PDF",
+"creationdate":"D:20210610082319-04'00'",
+"moddate":"D:20210610082319-04'00'",
+"ocr_pages":0
+},
+"warnings":[],
+"chars":834,
+"text":"[p1]\nRev. 1.01 05-03-21\n#1-1815 Meyerside Drive, Mississauga, Ontario, Canada, L5T 1G3\nTel: +905-670-0004 | Email: info@is5com.com\niES28GF Test Report\nDate: 6/10/21\nSummary\nThis test report includes data for the following switches:\nModel # iES28GF-L2-HV-XX-RR-2MMSC2-8GRJ45-8GRJ45-XX\nSerial # 28GF2321-00001\nMAC E8E8750051DD\nDescription R: iES28GF-L2-HV-XX-RR-2MMSC2-8GRJ45-8GRJ45-XX\n Burn In Test  Functional Test  Hi Pot Test\nFunctional Test\nFunctional testing was performed on the unit to confirm proper operation of all Ethernet\nports, console port, LEDs, power supplies and relay.\nBurn In Test\nBurn-in testing was performed on the unit over a temperature cycle of -40 to +85°C. Cold-\nstart capability was also checked (power up at -40°C ambient).\nHi Pot Test\nHi-Pot Testing to 1.5kVAC for 10 seconds was performed on the unit.",
+"pages":[
+"Rev. 1.01 05-03-21\n#1-1815 Meyerside Drive, Mississauga, Ontario, Canada, L5T 1G3\nTel: +905-670-0004 | Email: info@is5com.com\niES28GF Test Report\nDate: 6/10/21\nSummary\nThis test report includes data for the following switches:\nModel # iES28GF-L2-HV-XX-RR-2MMSC2-8GRJ45-8GRJ45-XX\nSerial # 28GF2321-00001\nMAC E8E8750051DD\nDescription R: iES28GF-L2-HV-XX-RR-2MMSC2-8GRJ45-8GRJ45-XX\n Burn In Test  Functional Test  Hi Pot Test\nFunctional Test\nFunctional testing was performed on the unit to confirm proper operation of all Ethernet\nports, console port, LEDs, power supplies and relay.\nBurn In Test\nBurn-in testing was performed on the unit over a temperature cycle of -40 to +85°C. Cold-\nstart capability was also checked (power up at -40°C ambient).\nHi Pot Test\nHi-Pot Testing to 1.5kVAC for 10 seconds was performed on the unit."
+],
+"extracted_at":"2026-10-23T05:12:53Z"
+}

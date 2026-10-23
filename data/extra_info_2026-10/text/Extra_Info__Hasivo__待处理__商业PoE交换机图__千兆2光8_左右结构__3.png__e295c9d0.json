@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆2光8_左右结构__3.png__e295c9d0",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/千兆2光8 左右结构/3.png",
+"name":"3.png",
+"ext":".png",
+"bytes":933583,
+"sha256":"e295c9d0d0f3877b314abdfc25415b72d12cdae2275ce05654f3a73e4791a112",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1794,
+"height":654,
+"mode":"RGBA",
+"thumb_bytes":5511
+},
+"warnings":[],
+"chars":25,
+"text":"@@ 9\n@10\nSFP.10 @\n| POWER",
+"extracted_at":"2026-10-23T05:24:01Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆2光8_左右结构__3.png__e295c9d0.jpg"
+}

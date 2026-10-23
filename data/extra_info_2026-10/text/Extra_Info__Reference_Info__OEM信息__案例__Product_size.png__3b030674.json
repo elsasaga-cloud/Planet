@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Reference_Info__OEM信息__案例__Product_size.png__3b030674",
+"path":"Extra_Info/Reference Info/OEM信息/案例/Product size.png",
+"name":"Product size.png",
+"ext":".png",
+"bytes":3944768,
+"sha256":"3b03067410cdad0db796c5cfb6d606ac28d4cde12552e4061395f88f9ce5c27f",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":4000,
+"height":4000,
+"mode":"RGBA",
+"thumb_bytes":7584
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:19:54Z",
+"thumb":"thumbs/Extra_Info__Reference_Info__OEM信息__案例__Product_size.png__3b030674.jpg"
+}

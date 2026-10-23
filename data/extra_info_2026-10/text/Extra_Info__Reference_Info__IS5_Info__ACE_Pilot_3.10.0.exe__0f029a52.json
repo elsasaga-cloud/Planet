@@ -1,0 +1,18 @@
+{
+"id":"Extra_Info__Reference_Info__IS5_Info__ACE_Pilot_3.10.0.exe__0f029a52",
+"path":"Extra_Info/Reference Info/IS5 Info/ACE Pilot 3.10.0.exe",
+"name":"ACE Pilot 3.10.0.exe",
+"ext":".exe",
+"bytes":175536129,
+"sha256":"0f029a528e8ec1860be8aa24830e44822739a29a9087a24b220a5102fa88a2eb",
+"source":"Extra_Info.zip",
+"method":"none",
+"status":"meta",
+"meta":{},
+"warnings":[
+"no extractor for .exe"
+],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:12:53Z"
+}

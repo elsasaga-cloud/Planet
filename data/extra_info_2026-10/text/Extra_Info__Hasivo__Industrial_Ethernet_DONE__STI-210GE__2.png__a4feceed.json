@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-210GE__2.png__a4feceed",
+"path":"Extra_Info/Hasivo/Industrial Ethernet_DONE/STI-210GE/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":1439260,
+"sha256":"a4feceed1aff7b4ed1b2206e953651ab54ddb302ee3ca92bc8407afc249a7ff3",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1820,
+"height":763,
+"mode":"RGBA",
+"thumb_bytes":8396
+},
+"warnings":[],
+"chars":64,
+"text":"ExMax @ @\nPWR\nP1 @ @P2\n[Extend |\nWatchDog\n48V\n和 48V\n8G+2COMBOSFP",
+"extracted_at":"2026-10-23T05:24:30Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-210GE__2.png__a4feceed.jpg"
+}

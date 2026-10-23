@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__百千兆2_8_左右结构__2.png__33d683ce",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/百千兆2+8 左右结构/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":34655120,
+"sha256":"33d683ce542ec5e6afb7564b08e22625f48ed4023936da525247b60bf5c49fc2",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1553,
+"height":410,
+"mode":"RGBA",
+"thumb_bytes":5714
+},
+"warnings":[],
+"chars":37,
+"text":"__ Hybrid POE Switch\n=] pre PoE+2GEUP",
+"extracted_at":"2026-10-23T05:22:55Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__百千兆2_8_左右结构__2.png__33d683ce.jpg"
+}

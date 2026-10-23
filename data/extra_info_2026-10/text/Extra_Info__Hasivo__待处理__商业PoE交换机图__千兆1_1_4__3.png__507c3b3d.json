@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆1_1_4__3.png__507c3b3d",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/千兆1+1+4/3.png",
+"name":"3.png",
+"ext":".png",
+"bytes":1248572,
+"sha256":"507c3b3de972ee76f39eaac0bc2f3ea1de7d7296142cf911b15752d8663f69ce",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1737,
+"height":618,
+"mode":"RGBA",
+"thumb_bytes":5994
+},
+"warnings":[],
+"chars":46,
+"text":"Gigabit Fiber PoE Switch se\n46EPoE+lGE+lsrp 69",
+"extracted_at":"2026-10-23T05:22:52Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆1_1_4__3.png__507c3b3d.jpg"
+}

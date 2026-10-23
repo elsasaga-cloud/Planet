@@ -1,0 +1,197 @@
+{
+"id":"Extra_Info__Reference_Info__UniPoE__DS__PoE_Extender_and_Media_Converter__PM3001GPR-W_V1-EN240506.doc__06c86311",
+"path":"Extra_Info/Reference Info/UniPoE/DS/PoE Extender and Media Converter/PM3001GPR-W V1-EN240506.doc",
+"name":"PM3001GPR-W V1-EN240506.doc",
+"ext":".doc",
+"bytes":331264,
+"sha256":"06c86311fd34e149895a2218927cf0ba122f564a63b638477b18f12fa363e221",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:19:20+00:00",
+"paragraphs":16,
+"tables":2,
+"embedded_images":6
+},
+"warnings":[],
+"chars":2198,
+"text":"Product Overview\nPM3001GPR-W V1 is a 30W single-port long-distance waterproof PoE extensible developed by our company. This device provides 2 10/100/1000Mbps RJ45 ports, in which the input port is connected to the PoE switch, and the output port is connected to the IP terminal equipment. The two extenders can be used with PoE switches (the input port is connected to the PoE switch) to extend the 1000M network data to 500 meters at most, without configuration, and plug and play.\nProfessional outdoor shell design, adapt to a variety of harsh environments, with high stability, reliability, industrial level, wide temperature. The whole machine does not need power adapter, convenient for harsh outdoor environment and indoor monitoring equipment that is not easy to take electricity.\nProduct Features\nSupport IEEE802.3af/at Standard;\nPlastic housing, protection class IP67;\nCapable of transmitting both data and power on a single network cable;\nSupport 10/100/1000Mbps data transmission;\n1 PD receiving terminal ;\n1 PSE supply terminal;\nPlug-and-play, no configuration required;\nOperating temperature:-10°C~55°C;\nIt's ideal for harsh outdoor environment.\nProduct Specifications\nModel\tPM3001GPR-W V1\nStandard\tIEEE802.3,IEEE802.3u,IEEE802.3x,IEEE802.3ab,IEEE802.3af,IEEE802.3at\nPort\t1*10/100/1000Mbps INPORT / 1*10/100/1000Mbps OUTPORT\nNetwork Media(Cable)\t10BASE-T: UTP category 3, 4,5 cable (≤100m) / 100BASE-TX: UTP category 5, 5e cable（≤100m） / 1000BASE-X:UTP category 5e,6 cable（≤100m）\nIndicator\tLNK/ACT: Orange for access port, green for extension port\nTransfer Mode\tStore-and-forward\nPower Supply Mode\tPoE power supply/pass through\nPD Port Input\tIEEE802.3af/at\nPoE Power Output\tIEEE802.3af/at\nInput Voltage\tPoE power supply 48~57V\nPoE Power on RJ45\t1/2(+)3/6(-)\nDimensions (L*W*H)\t156.5*29*29MM\nOperating Temperature\t-10 °C ~ 55 °C\nStorage Temperature\t-40 °C ~ 70 °C\nOperating Humidity\t10% ~ 90% non-condensing\nStorage Humidity\t5% ~ 90% non-condensing\nMTBF\t>50000 hours\nWeather Rating\tIP67\nThe network topology application diagram is as follows\nOrdering Information\nModel\tProduct Information\nPM3001GPR-W V1\tLong-Range Waterproof Extender\n[文本框]\nPM3001GPR-W V1 Long-range Waterproof Extender",
+"blocks":[
+{
+"t":"p",
+"s":"列出段落",
+"text":"Product Overview"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PM3001GPR-W V1 is a 30W single-port long-distance waterproof PoE extensible developed by our company. This device provides 2 10/100/1000Mbps RJ45 ports, in which the input port is connected to the PoE switch, and the output port is connected to the IP terminal equipment. The two extenders can be used with PoE switches (the input port is connected to the PoE switch) to extend the 1000M network data to 500 meters at most, without configuration, and plug and play."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Professional outdoor shell design, adapt to a variety of harsh environments, with high stability, reliability, industrial level, wide temperature. The whole machine does not need power adapter, convenient for harsh outdoor environment and indoor monitoring equipment that is not easy to take electricity."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product Features"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Support IEEE802.3af/at Standard;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Plastic housing, protection class IP67;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Capable of transmitting both data and power on a single network cable;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Support 10/100/1000Mbps data transmission;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"1 PD receiving terminal ;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"1 PSE supply terminal;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Plug-and-play, no configuration required;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Operating temperature:-10°C~55°C;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"It's ideal for harsh outdoor environment."
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Product Specifications"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"PM3001GPR-W V1"
+],
+[
+"Standard",
+"IEEE802.3,IEEE802.3u,IEEE802.3x,IEEE802.3ab,IEEE802.3af,IEEE802.3at"
+],
+[
+"Port",
+"1*10/100/1000Mbps INPORT / 1*10/100/1000Mbps OUTPORT"
+],
+[
+"Network Media(Cable)",
+"10BASE-T: UTP category 3, 4,5 cable (≤100m) / 100BASE-TX: UTP category 5, 5e cable（≤100m） / 1000BASE-X:UTP category 5e,6 cable（≤100m）"
+],
+[
+"Indicator",
+"LNK/ACT: Orange for access port, green for extension port"
+],
+[
+"Transfer Mode",
+"Store-and-forward"
+],
+[
+"Power Supply Mode",
+"PoE power supply/pass through"
+],
+[
+"PD Port Input",
+"IEEE802.3af/at"
+],
+[
+"PoE Power Output",
+"IEEE802.3af/at"
+],
+[
+"Input Voltage",
+"PoE power supply 48~57V"
+],
+[
+"PoE Power on RJ45",
+"1/2(+)3/6(-)"
+],
+[
+"Dimensions (L*W*H)",
+"156.5*29*29MM"
+],
+[
+"Operating Temperature",
+"-10 °C ~ 55 °C"
+],
+[
+"Storage Temperature",
+"-40 °C ~ 70 °C"
+],
+[
+"Operating Humidity",
+"10% ~ 90% non-condensing"
+],
+[
+"Storage Humidity",
+"5% ~ 90% non-condensing"
+],
+[
+"MTBF",
+">50000 hours"
+],
+[
+"Weather Rating",
+"IP67"
+]
+]
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"The network topology application diagram is as follows"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Ordering Information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"Product Information"
+],
+[
+"PM3001GPR-W V1",
+"Long-Range Waterproof Extender"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:19:20Z"
+}

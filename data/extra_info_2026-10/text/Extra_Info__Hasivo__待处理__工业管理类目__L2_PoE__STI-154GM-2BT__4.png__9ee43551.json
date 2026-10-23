@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__工业管理类目__L2_PoE__STI-154GM-2BT__4.png__9ee43551",
+"path":"Extra_Info/Hasivo/待处理/工业管理类目/L2 PoE/STI-154GM-2BT/4.png",
+"name":"4.png",
+"ext":".png",
+"bytes":2179928,
+"sha256":"9ee4355135dc4b46bef5fab147f372568de0551ecbd91ceee2931bb2a36ad3f9",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":2405,
+"height":864,
+"mode":"RGBA",
+"thumb_bytes":5393
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:21:41Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__工业管理类目__L2_PoE__STI-154GM-2BT__4.png__9ee43551.jpg"
+}

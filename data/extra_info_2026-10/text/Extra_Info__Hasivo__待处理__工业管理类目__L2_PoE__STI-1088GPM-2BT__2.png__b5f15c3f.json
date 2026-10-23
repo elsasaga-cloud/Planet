@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__工业管理类目__L2_PoE__STI-1088GPM-2BT__2.png__b5f15c3f",
+"path":"Extra_Info/Hasivo/待处理/工业管理类目/L2 PoE/STI-1088GPM-2BT/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":561980,
+"sha256":"b5f15c3f8eb44e6663f57eecd7a3ea360d9b0343fa470b7ddd48d9e548d547cb",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1045,
+"height":413,
+"mode":"RGBA",
+"thumb_bytes":8608
+},
+"warnings":[],
+"chars":74,
+"text":"Managed Industrial Fiber Convergence Switch\nLink 一 PoE\nRET\n8GE PoE + 10SFP",
+"extracted_at":"2026-10-23T05:21:17Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__工业管理类目__L2_PoE__STI-1088GPM-2BT__2.png__b5f15c3f.jpg"
+}

@@ -1,0 +1,18 @@
+{
+"id":"Extra_Info__Xmind__跟进思路.xmind__fa1f9621",
+"path":"Extra_Info/Xmind/跟进思路.xmind",
+"name":"跟进思路.xmind",
+"ext":".xmind",
+"bytes":88080,
+"sha256":"fa1f962127931609651dc0577f6e1b7e7fa6723b3a8695e8466d6659fab80295",
+"source":"Extra_Info.zip",
+"method":"xmind(content.xml)",
+"status":"ok",
+"meta":{
+"lines":44
+},
+"warnings":[],
+"chars":593,
+"text":"# Sheet: 画布 1\n- 跟进思路\n  - 有特点的产品\n    - Alarm ports\n    - DIP\n    - Fast ring\n    - E-mark certification\n    - 90W\n    - Combo\n    - Bypass\n    - 导轨电源\n  - 系列品\n    - 小壳系列\n    - 商业非管理POE系列\n    - 组合图\n    - 专业的应用图\n  - 主推产品\n    - 卖的比较好的\n    - 客户经常问的\n  - 新品\n  - 功能介绍\n    - 列出123点，尤其是卖点和更强大的功能\n  - 根据客户的性质\n    - 安防领域\n    - 通讯领域\n    - 分销商/集成商\n  - 客户网站上没有的\n    - 已有的型号比较难推\n  - 实际案例\n    - 有处理类似需求的经验\n  - 产品对比\n    - 软性支持\n      - OEM\n      - 及时专业的回复\n      - 拍照 视频 测试 优先生产\n    - 芯片方案\n    - 产品性能相同和不同点\n      - 更大的MAC，更多的口或者POE功率\n      - 一些同行没有的产品特点\n  - 说明优势\n    - 支持轻定制\n    - 有库存发货快\n    - 产品外观好，稳定\n    - 工厂可议价",
+"extracted_at":"2026-10-23T05:20:12Z"
+}

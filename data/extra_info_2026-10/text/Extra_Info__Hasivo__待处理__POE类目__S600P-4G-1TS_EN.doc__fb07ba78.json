@@ -1,0 +1,124 @@
+{
+"id":"Extra_Info__Hasivo__待处理__POE类目__S600P-4G-1TS_EN.doc__fb07ba78",
+"path":"Extra_Info/Hasivo/待处理/POE类目/S600P-4G-1TS_EN.doc",
+"name":"S600P-4G-1TS_EN.doc",
+"ext":".doc",
+"bytes":34304,
+"sha256":"fb07ba781186d622fe621328c8666633243bb26bf17af638e35cc236bd6df7ea",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:20:56+00:00",
+"paragraphs":0,
+"tables":1,
+"embedded_images":0
+},
+"warnings":[],
+"chars":1590,
+"text":"Model\tS600P-4G-1TS\nProduct mame\tFull Gigabit 1SFP+5GE POE Switch\nFixed Port\t4*10/100/1000Base-TX PoE port（Data/Power） / 1*10/100/1000Base-TX uplink RJ45 port (Data) / 1*1000M SFP\nPoE Ports\t1 port supports IEEE802.3af/at/poe++/bt, max 90W PoE out / 2-4 port supports IEEE802.3af/at, max 30W/port, PoE out\nPoE Pin\taf/at: 12+ 36- / af/at/poe++/bt: 12+ 45+  36- 78-\nPoE Bridge\tmax 65W\nPoE Dog\tsupport / PoE auto execution、detection and resets fault device,when PoE is on\nFunction\tN:(Standard normal) / V:(Port isolation) / S:(Super mode)(specific port refers to user manual)\nBandwidth\t16Gbps\nPacket Forwarding\t8.93Mpps\nMAC\t2K\nBuffer\t2.5M\nTransmission Distance\t10BASE-T ： Cat3,4,5 UTP(≤250 meter) / 100BASE-TX ： Cat5 or later UTP(150 meter) / 1000BASE-TX ： Cat6 or later UTP(150 meter) / SFP: 1000M single and multimode optical module with maximum distance ≤ 120km (depending on the optical module)\nLED Indicator\tP:Power LED(over-power LED) / Uplink:(Link LED=10/100M Link、1000M=Gigabit Link） / Port:(Orange=PoE LED, Green=LAN Link LED） / V:(Port isolation LED) / S:( Super mode LED)\nPower\tBuilt-in power AC：100-240Vac 50-60Hz 0.9A   max 68W\nOperating Temperature/Humidity\t-10～+55°C；5%～90% RH Non coagulation\nStorage Temperature/Humidity\t-40～+75°C；5%～95% RH Non coagulation\nProduct /Packing / size（L*W*H）\t190mm*130mm*35mm / 265mm*220mm*68mm\nN.W/G.W（kg）\t0.7kg/1.0kg\nLightning / Protection  level\t6KV 8/20us； / IP30\nInstallation\tDesktop (optional wall +machine hangers)\nCertificate\tCE-EMC EN55032；CE-LVD EN62368；\nFCC Part 15 Class B；RoHS；\nWarranty\tWhole device for 1 year(Accessories not included)",
+"blocks":[
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"S600P-4G-1TS"
+],
+[
+"Product mame",
+"Full Gigabit 1SFP+5GE POE Switch"
+],
+[
+"Fixed Port",
+"4*10/100/1000Base-TX PoE port（Data/Power） / 1*10/100/1000Base-TX uplink RJ45 port (Data) / 1*1000M SFP"
+],
+[
+"PoE Ports",
+"1 port supports IEEE802.3af/at/poe++/bt, max 90W PoE out / 2-4 port supports IEEE802.3af/at, max 30W/port, PoE out"
+],
+[
+"PoE Pin",
+"af/at: 12+ 36- / af/at/poe++/bt: 12+ 45+  36- 78-"
+],
+[
+"PoE Bridge",
+"max 65W"
+],
+[
+"PoE Dog",
+"support / PoE auto execution、detection and resets fault device,when PoE is on"
+],
+[
+"Function",
+"N:(Standard normal) / V:(Port isolation) / S:(Super mode)(specific port refers to user manual)"
+],
+[
+"Bandwidth",
+"16Gbps"
+],
+[
+"Packet Forwarding",
+"8.93Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Transmission Distance",
+"10BASE-T ： Cat3,4,5 UTP(≤250 meter) / 100BASE-TX ： Cat5 or later UTP(150 meter) / 1000BASE-TX ： Cat6 or later UTP(150 meter) / SFP: 1000M single and multimode optical module with maximum distance ≤ 120km (depending on the optical module)"
+],
+[
+"LED Indicator",
+"P:Power LED(over-power LED) / Uplink:(Link LED=10/100M Link、1000M=Gigabit Link） / Port:(Orange=PoE LED, Green=LAN Link LED） / V:(Port isolation LED) / S:( Super mode LED)"
+],
+[
+"Power",
+"Built-in power AC：100-240Vac 50-60Hz 0.9A   max 68W"
+],
+[
+"Operating Temperature/Humidity",
+"-10～+55°C；5%～90% RH Non coagulation"
+],
+[
+"Storage Temperature/Humidity",
+"-40～+75°C；5%～95% RH Non coagulation"
+],
+[
+"Product /Packing / size（L*W*H）",
+"190mm*130mm*35mm / 265mm*220mm*68mm"
+],
+[
+"N.W/G.W（kg）",
+"0.7kg/1.0kg"
+],
+[
+"Lightning / Protection  level",
+"6KV 8/20us； / IP30"
+],
+[
+"Installation",
+"Desktop (optional wall +machine hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032；CE-LVD EN62368；\nFCC Part 15 Class B；RoHS；"
+],
+[
+"Warranty",
+"Whole device for 1 year(Accessories not included)"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:20:56Z"
+}

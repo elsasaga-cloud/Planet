@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__工业管理类目__L2_Non-PoE__STI-480GM__1.png__9a6b6cd6",
+"path":"Extra_Info/Hasivo/待处理/工业管理类目/L2 Non-PoE/STI-480GM/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":366546,
+"sha256":"9a6b6cd66198089615f6393713cbf38d4a8ff6a7213efded8789635be4f3424c",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":818,
+"height":364,
+"mode":"RGBA",
+"thumb_bytes":9684
+},
+"warnings":[],
+"chars":13,
+"text":"worms peaeuew",
+"extracted_at":"2026-10-23T05:22:11Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__工业管理类目__L2_Non-PoE__STI-480GM__1.png__9a6b6cd6.jpg"
+}

@@ -1,0 +1,22 @@
+{
+"id":"Extra_Info__Reference_Info__IS5_Info__Released_Datasheets__iES22GF__._DS-iES22GF-4-EN.pdf__cdf58cdb",
+"path":"Extra_Info/Reference Info/IS5 Info/Released Datasheets/iES22GF/._DS-iES22GF-4-EN.pdf",
+"name":"._DS-iES22GF-4-EN.pdf",
+"ext":".pdf",
+"bytes":4096,
+"sha256":"cdf58cdbb50a79f5da004b741aae838ffe4eb8729532af8f80dafd58f03e5f28",
+"source":"Extra_Info.zip",
+"method":"pdfplumber",
+"status":"meta",
+"meta":{
+"ocr_pages":0
+},
+"warnings":[
+"pdfplumber: No /Root object! - Is this really a PDF?",
+"pypdf: Stream has ended unexpectedly"
+],
+"chars":0,
+"text":"",
+"pages":[],
+"extracted_at":"2026-10-23T05:13:58Z"
+}

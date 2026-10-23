@@ -1,0 +1,2040 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_Ethernet.docx__c47d07d5",
+"path":"Extra_Info/Hasivo/Industrial Ethernet.docx",
+"name":"Industrial Ethernet.docx",
+"ext":".docx",
+"bytes":9189405,
+"sha256":"c47d07d5c0fc712e805a72a06dc63381b4414b49ebe67ea86b1aaa4b6daf18e7",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2023-07-22T16:14:00+00:00",
+"modified":"2025-03-27T03:33:21+00:00",
+"paragraphs":120,
+"tables":18,
+"embedded_images":18
+},
+"warnings":[],
+"chars":28210,
+"text":"ContentOrdering Information2STI-050FE3STI-080FE4STI-110FE5STI-140FE6STI-240FE7STI-050GE8STI-080GE9STI-110GE10STI-110GE_SFP11STI-150GE12STI-220GE14STI-240GE16STI-280GE17STI-210GE18STI-220DGGE19STI-240DGGE21FAQ23\nOrdering Information\nIndustrial Unmanaged Non-PoE Switch_Realtek Series, Dual DC12-57V Input\nModel\tDescription\tPrice\nSTI-050FE\t5*10/100M RJ45\t19usd/pc\nSTI-080FE\t8*10/100M RJ45\t24usd/pc\nSTI-110FE\t1*100M 1*9 Fixed Fiber+1*10/100M RJ45\t19usd/pc\nSTI-140FE\t1*100M SFP+4*10/100M RJ45\t27usd/pc\nSTI-240FE\t2*100M SFP+4*10/100M RJ45\t34usd/pc\nSTI-050GE\t5*10/100/1000M RJ45\t24usd/pc\nSTI-080GE\t8*10/100/1000M RJ45\t34usd/pc\nSTI-110GE\t1*1000M 1*9 Fixed Fiber+1*10/100/1000M RJ45\t21usd/pc\nSTI-110GE_SFP\t1*1000M SFP+1*10/100/1000M RJ45\t17usd/pc\nSTI-150GE\t1*1000M SFP+5*10/100/1000M RJ45\t27usd/pc\nSTI-220GE\t2*1000M SFP+2*10/100/1000M RJ45\t24usd/pc\nSTI-240GE\t2*1000M SFP+4*10/100/1000M RJ45\t31usd/pc\nSTI-280GE\t2*1000M SFP+8*10/100/1000M RJ45\t46usd/pc\nSTI-210GE\t2*1000M SFP+10*10/100/1000M RJ45\t53usd/pc\nSTI-220DGGE\t2*2500M SFP+2*10/100/1000M RJ45\t32usd/pc\nSTI-240DGGE\t2*2500M SFP+4*10/100/1000M RJ45\t38usd/pc\nSFP Transceiver and Industrial Power Adapter are NOT included in both the packing box and unit pricing / A pair of mounting hangers are included in both the packing box and unit pricing / Please let us know if you need any customized model\nSTI-050FE\nModel\tSTI-050FE\nProduct Name\t5 port 10/100Mbps Industrial Ethernet Switch\nFixed Port\t4*10/100M RJ45 port / 1*10/100M Uplink RJ45 port\nBandwidth\t1Gbps\nPacket Forwarding\t0.74Mpps\nMAC\t1K\nBuffer\t768K\nLED Indicator\tPW: Power indicator(green) / Uplink port: 10/100M connection indicator light / Port: green _10M network connection indicator / green+orange _100M network connection indicator / V1: Main power indicator(green) / V2: Slave power indicator(green)\nPower\tThree groups of independent power input / SW: DC12-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 105*90*36mm / Packing Box: 200*130*40mm\nN.W/G.W(Kg)\t0.5Kg/0.6Kg\nLightning / Protection level\t6KV 8/20us, 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nSTI-080FE\nModel\tSTI-080FE\nProduct Name\t8 port 10/100Mbps Industrial Ethernet Switch\nFixed Port\t8*10/100Mbps RJ45 Port\nTransmission Mode\tStore and Forward\nBandwidth\t1.6Gbps\nPacket Forwarding\t1.19Mpps\nMAC\t1K\nBuffer\t768K\nDIP switch\t1: -- / 2: 1-4 port ultra long mode 250 meters(10M) / 3: 1-6 port ultra long mode 250 meters(10M) / 4: After opening the ports, ports 1-6 are isolated from each other and cannot be accessed between them. They can only be accessed from the uplink port\nPort Specification\t10/100BaseT(X)Auto\nTransmission Mode\tStore and Forward(full wire-speed)\nTransmission Distance\t10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(≤150 meter)\nLED Indicator\tV1: Power indicator light / V2: Power indicator light / V3: Power indicator light / PWR: Power indicator light / VLAN: Port isolation indicator light / S: Ultra long distance indicator light(10M) / Port orange/green indicator light: Link indicator light\nInput method\tV1: 12-57V 1A MAX / V2: 12-57V 1A MAX / V3: DC12-57V 1A MAX(Internal positive and external negative)\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 156*119*35mm / Packing Box: 235*165*78mm\nN.W/G.W(Kg)\t0.87Kg/1.03Kg\nLightning / Protection level\t6KV 8/20us, 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nSTI-110FE\nModel\tSTI-110FE\nProduct Name\t2 port 10/100Mbps Industrial Ethernet Switch\nFixed Port\t1*10/100M RJ45 port / 1*100M integrated optical port(optional 1310/1550)\nBandwidth\t1Gbps\nPacket Forwarding\t0.3Mpps\nMAC\t1K\nBuffer\t768K\nTransmission Distance\t10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter)\nOptical Media\tSFP: 1000M single and multi-mode optical module, Max distance≤100Km\nLED Indicator\tPW: Power indicator(green) / 1:10/100M network connection indicator(green) / 2: Optical fiber connection indicator(green) / V1: Main power indicator(green) / V2: Slave power indicator(green) / V3: DC power indicator(green)\nPower\tThree groups of independent power input / SW: DC12-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 100mm*86mm*30mm / Packing Box: 200mm*130mm*40mm\nN.W/G.W(Kg)\t0.3Kg/0.4Kg\nLightning / Protection Level\t6KV 8/20us; 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nSTI-140FE\nModel\tSTI-140FE\nProduct Name\t5 port 10/100Mbps Industrial Ethernet Switch\nFixed Port\t4*10/100M RJ45 port / 1*100M integrated optical port(optional 1310/1550)\nBandwidth\t1.6Gbps\nPacket Forwarding\t0.74Mpps\nMAC\t1K\nBuffer\t768K\nTransmission Distance\t10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter)\nOptical Media\tSFP: 1000M single and multi-mode optical module, Max distance≤100Km\nLED Indicator\tPWR: Power indicator(green) / Port: green _10M network connection indicator / green+orange _100M network connection indicator. / 5: Optical fiber connection indicator(green) / V1: Main power indicator(green) / V2: Slave power indicator(green) / V3: DC power indicator(green) / EX: Expansion indicator(green)\nPower\tThree groups of independent power input / SW: DC12-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 156mm*113mm*40mm / Packing Box: 235mm*105mm*78mm\nN.W/G.W(Kg)\t0.9Kg/1.1Kg\nLightning / Protection Level\t6KV 8/20us; 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nSTI-240FE\nModel\tSTI-240FE\nProduct Name\t6 port 10/100Mbps Industrial Ethernet Switch\nFixed Port\t4*10/100M RJ45 port / 2*100M integrated optical port(optional 1310/1550)\nBandwidth\t1.6Gbps\nPacket Forwarding\t0.9Mpps\nMAC\t1K\nBuffer\t768K\nTransmission Distance\t10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter)\nOptical Media\tSFP: 1000M single and multi-mode optical module, Max distance≤100Km\nLED Indicator\tPWR: Power indicator(green) / Port: green _10M network connection indicator / green+orange _100M network connection indicator. / 5-6: Optical fiber connection indicator(green) / V1: Main power indicator(green) / V2: Slave power indicator(green) / V3: DC power indicator(green)\nPower\tThree groups of independent power input / SW: DC12-57V\nOperating Temperature/Humidity\t-40～80°C; 10%～90% RH No condensation\nStorage Temperature/Humidity\t-40～85°C; 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 156*113*40mm / Packing Box: 235*105*78mm\nN.W/G.W(Kg)\t0.9Kg/1.1Kg\nLightning / Protection Level\t6KV 8/20us; 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nSTI-050GE\nModel\tSTI-050GE\nProduct Name\t5 port 10/100/1000Mbps Industrial Ethernet Switch\nFixed Port\t4*10/100/1000M RJ45 port / 1*10/100/1000M Uplink RJ45 port\nBandwidth\t10Gbps\nPacket Forwarding\t7.44Mpps\nMAC\t2K\nBuffer\t2.5M\nLED Indicator\tPW: Power indicator(green) / Port: green _10/100M network connection indicator / green+orange _1000M network connection indicator. / V1: Main power indicator(green) / V2: Slave power indicator(green)\nPower\tThree groups of independent power input / SW: DC12-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 105*90*36mm / Packing Box: 200*130*40mm\nN.W/G.W(Kg)\t0.5Kg/0.6Kg\nLightning / Protection level\t6KV 8/20us, 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nSTI-080GE\nModel\tSTI-080GE\nProduct Name\t8 port 10/100/1000Mbps Industrial Ethernet Switch\nFixed Port\t8*10/100/1000Mbps RJ45 Port\nTransmission Mode\tStore and Forward\nBandwidth\t16Gbps\nPacket Forwarding\t11.9Mpps\nMAC\t2K\nBuffer\t2.5M\nDIP switch\t1: -- / 2: 1-4 port ultra long mode 250 meters(10M) / 3: 1-6 port ultra long mode 250 meters(10M) / 4: After opening the ports, ports 1-6 are isolated from each other and cannot be accessed between them. They can only be accessed from the uplink port\nPort Specification\t10/100/1000BaseT(X)Auto\nTransmission Mode\tStore and Forward(full wire-speed)\nTransmission Distance\t10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(≤150 meter) / 1000BASE-TX: Cat6 or later UTP(≤150 meter)\nLED Indicator\tV1: Power indicator light / V2: Power indicator light / V3: Power indicator light / PWR: Power indicator light / VLAN: Port isolation indicator light / S: Ultra long distance indicator light(10M) / Port orange indicator light: Gigabit indicator light / Port green indicator light: Link indicator light\nInput method\tV1: 12-57V 1A MAX / V2: 12-57V 1A MAX / V3: DC12-57V 1A MAX(Internal positive and external negative)\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 156*119*35mm / Packing Box: 235*165*78mm\nN.W/G.W(Kg)\t0.9Kg/1.05Kg\nLightning / Protection level\t6KV 8/20us, 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nSTI-110GE\nModel\tSTI-110GE\nProduct Name\t2 port 10/100/1000Mbps Industrial Ethernet Switch\nFixed Port\t1*10/100/1000M RJ45 port / 1*1000M integrated optical port(optional 1310/1550)\nBandwidth\t2Gbps\nPacket Forwarding\t1.49Mpps\nMAC\t2K\nBuffer\t2.5M\nTransmission Distance\t10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)\nOptical Media\tSFP: 1000M single and multi-mode optical module, Max distance≤100Km\nLED Indicator\tPW: power indicator(green) / 1: 10/100/1000M network connection indicator(green) / 2: Optical fiber connection indicator(green) / V1: Main power indicator(green) / V2: Slave power indicator(green) / V3: DC power indicator(green)\nPower\tThree groups of independent power input / SW: DC12-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 100*86*30mm / Packing Box: 200*130*40mm\nN.W/G.W(Kg)\t0.3Kg/0.4Kg\nLightning / Protection Level\t6KV 8/20us; 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nSTI-110GE_SFP\nModel\tSTI-110GE_SFP\nProduct Name\t2 port 10/100/1000Mbps Industrial Ethernet Switch\nFixed Port\t1*10/100/1000M RJ45 port / 1*1000M SFP\nBandwidth\t2Gbps\nPacket Forwarding\t2.98Mpps\nMAC\t2K\nBuffer\t2.5M\nTransmission Distance\t10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)\nOptical Media\tSFP: 1000M single and multi-mode optical module, Max distance≤100Km\nLED Indicator\tPW: Power indicator(green) / 1:10/100/1000M network connection indicator(green) / 2: Optical fiber connection indicator(green) / V1: Main power indicator(green) / V2: Slave power indicator(green) / V3: DC power indicator(green)\nPower\tThree groups of independent power input / SW: DC12-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 100*86*30mm / Packing Box: 200*130*40mm\nN.W/G.W(Kg)\t0.3Kg/0.4Kg\nLightning / Protection Level\t6KV 8/20us; 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nSTI-150GE\nModel\tSTI-150GE\nProduct Name\t6 port 10/100/1000Mbps Industrial Ethernet Switch\nFixed Port\t4*10/100/1000M RJ45 port / 1*10/100/1000M Uplink RJ45 port / 1*1000M SFP\nBandwidth\t12Gbps\nPacket Forwarding\t8.93Mpps\nMAC\t2K\nBuffer\t2.5M\nTransmission Distance\t10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)\nOptical Media\tSFP: 1000M single and multi-mode optical module, Max distance≤100Km\nLED Indicator\tPWR: Power indicator(green) / Port: green _10/100M network connection indicator / green+orange _1000M network connection indicator. / 6: Optical fiber connection indicator(green) / GX: expansion indicator(green) / V1: Main power indicator(green) / V2: Slave power indicator(green) / V3: DC power indicator(green)\nPower\tThree groups of independent power input / SW: DC12-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 156*113*40mm / Packing Box: 235*165*78mm\nN.W/G.W(Kg)\t0.9Kg/1.1Kg\nLightning / Protection Level\t6KV 8/20us; 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nSTI-220GE\nModel\tSTI-220GE\nProduct Name\t4 port 10/100/1000Mbps Industrial Ethernet Switch\nFixed Port\t2*10/100/1000M RJ45 port / 2*1000M SFP\nBandwidth\t12Gbps\nPacket Forwarding\t5.95Mpps\nMAC\t2K\nBuffer\t2.5M\nTransmission Distance\t10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)\nOptical Media\tSFP: 1000M single and multi-mode optical module, Max distance≤100Km\nLED Indicator\tPW: Power indicator(green) / Port: green _10/100M network connection indicator / green+orange _1000M network connection indicator. / 3-4: Optical fiber connection indicator(green) / V1: Main power indicator(green) / V2: Slave power indicator(green) / V3: DC power indicator(green)\nPower\tThree groups of independent power input / SW: DC12-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 100*86*30mm / Packing Box: 200*130*40mm\nN.W/G.W(Kg)\t0.4Kg/0.5Kg\nLightning / Protection Level\t6KV 8/20us; 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nSTI-240GE\nModel\tSTI-240GE\nProduct Name\t6 port 10/100/1000Mbps Industrial Ethernet Switch\nFixed Port\t4*10/100/1000M RJ45 port / 2*1000M SFP\nTransmission Mode\tStore and Forward\nBandwidth\t16Gbps\nPacket Forwarding\t11.9Mpps\nMAC\t4K\nBuffer\t2.5M\nTransmission Distance\t10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)\nOptical Media\tSFP: 1000M single and multi-mode optical module, Max distance≤100Km\nLED Indicator\tPWR: Power indicator light / P1: Power indicator light / P2: Power indicator light / PMX: Power overload indicator light / 5,6: Optical port connection indicator light / Port: green _10/100M network connection indicator / green+orange _1000M network connection indicator.\nPower\tThree groups of independent power input / SW: DC12-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 156*113*40mm / Packing Box: 235*165*78mm\nN.W/G.W(Kg)\t0.9Kg/1.1Kg\nLightning / Protection Level\t6KV 8/20us; 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nSTI-280GE\nModel\tSTI-280GE\nProduct Name\t10 port 10/100/1000Mbps Industrial Ethernet Switch\nFixed Port\t8*10/100/1000M RJ45 port / 2*1000M SFP\nBandwidth\t24Gbps\nPacket Forwarding\t14.88Mpps\nMAC\t2K\nBuffer\t2.5M\nTransmission Distance\t10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)\nOptical Media\tSFP: 1000M single and multi-mode optical module, Max distance≤100Km\nLED Indicator\tPWR: Power indicator(green) / PMX: Power overload indicator(green) / Port: green _10/100M network connection indicator / green+orange _1000M network connection indicator. / 9-10: Optical fiber connection indicator(green) / V1: Main power indicator(green) / V2: Slave power indicator(green)\nPower\tThree groups of independent power input / SW: DC12-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 160*130*45mm / Packing Box: 280*165*79mm\nN.W/G.W(Kg)\t0.9Kg/1.1Kg\nLightning / Protection Level\t6KV 8/20us; 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nWarranty\t3 Years\nSTI-210GE\nModel\tSTI-210GE\nProduct Name\t12 port 10/100/1000Mbps Industrial Ethernet Switch\nFixed Port\t8*10/100/1000M RJ45 port / 2*10/100/1000M Uplink RJ45 port / 2*1000M SFP\nBandwidth\t24Gbps\nPacket Forwarding\t17.86Mpps\nMAC\t2K\nBuffer\t2.5M\nTransmission Distance\t10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)\nOptical Media\tSFP: 1000M single and multi-mode optical module, Max distance≤100Km\nLED Indicator\tPWR: Power indicator(green) / EX Max: power overload indicator(green) / Port: green _10/100M network connection indicator / green+orange _1000M network connection indicator. / 9-10: Optical fiber connection indicator(green) / P1: Main power indicator(green) / P2: Slave power indicator(green)\nPower\tThree groups of independent power input / SW: DC12-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 160*130*45mm / Packing Box: 280*165*79mm\nN.W/G.W(Kg)\t1.3Kg/1.5Kg\nLightning / Protection Level\t6KV 8/20us; 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nWarranty\t3 Years\nPower\tThree groups of independent power input / SW: DC12-57V\nSTI-220DGGE\nModel\tSTI-220DGGE\nProduct Name\t4 port 10/100/1000/2500Mbps Industrial Ethernet Switch\nFixed Port\t2*10/100/1000M RJ45 port / 2*2500M SFP\nBandwidth\t20Gbps\nPacket Forwarding\t32.74Mpps\nMAC\t2K\nBuffer\t2.5M\nTransmission Distance\t10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)\nOptical Media\tSFP: 2500M single and multi-mode optical module, Max distance≤100Km\nLED Indicator\tPW: power indicator(green) / Port: green _10/100M network connection indicator / green+orange _1000M network connection indicator / 3-4: Optical fiber connection indicator(green) / V1: Main power indicator(green) / V2: Slave power indicator(green) / V3: DC power indicator(green)\nPower\tThree groups of independent power input / SW: DC12-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 100*86*30mm / Packing Box: 200*130*40mm\nN.W/G.W(Kg)\t0.4Kg/0.5Kg\nLightning / Protection Level\t6KV 8/20us; 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nSTI-240DGGE\nModel\tSTI-240DGGE\nProduct Name\t6 port 10/100/1000/2500Mbps Industrial Ethernet Switch\nFixed Port\t4*10/100/1000M RJ45 port / 2*2500M SFP\nBandwidth\t20Gbps\nPacket Forwarding\t35.71Mpps\nMAC\t2K\nBuffer\t2.5M\nTransmission Distance\t10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)\nOptical Media\tSFP: 2500M single and multi-mode optical module, Max distance≤100Km\nLED Indicator\tPWR: Power indicator(green) / PMX: Power overload indicator(green) / Port: green _10/100M network connection indicator / green+orange _1000M network connection indicator. / 5-6: Optical fiber connection indicator(green) / P1: Main power indicator(green) / P2: Slave power indicator(green)\nPower\tThree groups of independent power input / SW: DC12-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 156*113*40mm / Packing Box: 235*165*78mm\nN.W/G.W(Kg)\t0.9Kg/1.1Kg\nLightning / Protection Level\t6KV 8/20us; 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nFAQ\nLeadtime\nProduction starts AFTER payment is received\nPlease know that it usually takes 1~2 working days for our bank to receive the payment\nProduction time is usually 4~7 working days for standard(non-customized)models(no more than 50Pcs)\nShipping time is usually 4~7 days by express\nIn total, it takes 10~15 calendar days to arrive at local customs for clearance\nThis is an estimated period, it usually does not take this long to receive the order\nShipment\nWe will send the goods by express(DHL, UPS or FEDEX)or by sea(for bulk orders)\nIt is fine to ship purchased items via client’s shipping account(DHL, UPS or FEDEX)or forwarders in China\nMoQ\n1 Pc/Pair(It is NOT free, Saga Telecom do NOT do FREE SAMPLES)\nIt is fine to have sample testing before bulk orders\nPlease know that we do NOT suggest 1pc/pair in sample testing, better make it at least 2 pieces/pairs in case of any possible dysfunction in production/transportation(then all efforts are gone, a big waste of time)\nWarranty\n1 year for commercial models(STC series)and 3 years for industrial models(STI series)\nPlease kindly refer to the “Warranty Policy” for more information\nTechnical assistance is always available\nDiscount\nAvailable and it is usually based on quantity and AFTER sample testing\nThe price negotiation makes sense ONLY IF a client is satisfied with the quality\nFor distributorship, that we are now seeking, best prices will be provided\nPayment\nT/T transfer and PayPal\nIt is fine to pay 50% first and another 50% before shipment for a bulk order(this is about standard/non-customized models)\nFULL PAYMENT for a customization order BEFORE PRODUCTION(non-negotiated)\nIt is fine to be paid via client’s forwarder(this is usually about RMB payment on Alipay or WeChat)\nTransaction Cost\nIt is standard charge 25usd for EACH T/T transfer whatever the invoice value is\nIt is 5usd for every 100usd to PayPal a/c, this ratio is standard charge by PayPal\nUser Manual\nPlease know that there is a user manual(with necessary information for usage and installation)in the packing box Actually most of the necessary information is available in this datasheet\nWe can help print a copy of your version and put it in the packing box\nPacking Box\nWithout Chinese letters or logo\nHard carton, resilient to wrinkle, good for reselling even after shipment(there is protective foam inside to avoid possible damage)\nCustomized version is available(with your logo/model/slogan or remove the patterns), but there is MoQ and cost for this, discussion is required\nLabel\nThere is product information/model name/serial number on the label\nIt is fine to write client’s version\nStandard language is English\nIf a different language is adopted like Russian, Italian, Korean...\nPlease share EXACT translation, we will simply copy and print\nBarcodes are scannable for inbound statistics\n“Made in China” description is there and can be removed if required\nAn example photo will be shared for confirmation before mass printing for a bulk order\nThere are 2 copies for each manufactured product. One is attached on the device, the other is on the packing box\nCertification\nCE/RoHS/FCC/Reach/UKCA\nPlease let us know if you need to check the certificates\nRMA\nPlease contact us ASAP once there is a problem of ANY KIND\nPlease also read below “after-sales support” information to understand how to proceed\nFor every 100Pcs, there will be 2 extra free units(2% RMA)against immediate warranty coverage\nThis rule stands for all Saga Telecom models and even there is not an after-sales issue\nIf it is about missing/faulty parts in the packing box\nPlease simply use the extra units for the replacem\nent and let us know this problem(we will improve)\nIf it is about usage problem\nSaga Telecom will provide technical support and send new units when necessary(in this occasion, we will be responsible for both product cost and shipping cost, but the local customs clearance cost, if any, is on clients)\nSKD/CKD\nAvailable\nSKD is simple, please just let us know how you would like to have it\nCKD usually involves confidential information such as BOM list, schematic design, PCB layout etc.\nIt is based on solid cooperation AND bulk orders, thorough discussion is required to do CKD mode\nOEM\nAvailable\nDiscussion is required for complex changes, meanwhile an NDA(Non-disclosure Agreement)contract will be agreed upon and signed\nRelevant cooperation information will not be leaked to a third party without client’s permission\nIt is mainly about 2 categories\nIndustrial manufacturing\nShow client’s logo/model on the device/label\nUse client’s packing box\nDesign client’s product PVC sticker\nCustomize some parts of a model like rear panel/power input terminal block/panels...\nPlease know that there might be an extra cost for such OEM services\nManagement features\nShow client’s logo/model on the management interface\nChange IP address\nMAC address\nSNMP, OID\nAbove changes are free of cost and please know that\nFont format&GUI color are NOT changeable for the management interface\nWe can also help with develop exact features/specifications based on given chips or PCB board designs, this is more complex, thorough discussion is required\nIncoterms\nEXW term is our focus\nSometimes we do FOB/CIF for bulk orders, this depends on cases, please talk with us for more information\nOnline Store\nCurrently we do not have an online store(Amazon, Shopify, Aliexpress etc.)\nWe will add a store link in this datasheet when available\nBranch/Distribution\nCurrently we do not have ANY overseas branches or distributors\nWe are actively seeking good agents/resellers to promote our brand and products\nNecessary technical and pricing support will be provided\nPlease let us know if you are interested\nMaterial Preparation\n20% deposit will be collected beforehand for material preparation if there is a strict requirement of production time.\nThis is to protect ourselves from the awkward situation where we have prepared the materials while the clients do not successfully place the order due to different reasons\nThis deposit will be deducted from total amount if this order is secured\nThis deposit will be returned after we consumed half of the prepared materials in other orders if this order is not placed\nProduct Label\tCertificate of Warranty\nShipping Label\t\nPlease know that this is for your reference only(roughly like this, but subject to final format)\n[页眉页脚]\nRealtek Industrial Ethernet Series\t                                                                                           a.sagatelecom@gmail.com\n\t\t\t\t\t\t\t                                                                       Saga Telecom\n2025/Q3\t\t\t\t\t\t\t                         \t           www.sagatelecom.com.cn\nConnecting, Converting, Creating",
+"blocks":[
+{
+"t":"p",
+"s":"sdt",
+"text":"ContentOrdering Information2STI-050FE3STI-080FE4STI-110FE5STI-140FE6STI-240FE7STI-050GE8STI-080GE9STI-110GE10STI-110GE_SFP11STI-150GE12STI-220GE14STI-240GE16STI-280GE17STI-210GE18STI-220DGGE19STI-240DGGE21FAQ23"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Ordering Information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Industrial Unmanaged Non-PoE Switch_Realtek Series, Dual DC12-57V Input"
+],
+[
+"Model",
+"Description",
+"Price"
+],
+[
+"STI-050FE",
+"5*10/100M RJ45",
+"19usd/pc"
+],
+[
+"STI-080FE",
+"8*10/100M RJ45",
+"24usd/pc"
+],
+[
+"STI-110FE",
+"1*100M 1*9 Fixed Fiber+1*10/100M RJ45",
+"19usd/pc"
+],
+[
+"STI-140FE",
+"1*100M SFP+4*10/100M RJ45",
+"27usd/pc"
+],
+[
+"STI-240FE",
+"2*100M SFP+4*10/100M RJ45",
+"34usd/pc"
+],
+[
+"STI-050GE",
+"5*10/100/1000M RJ45",
+"24usd/pc"
+],
+[
+"STI-080GE",
+"8*10/100/1000M RJ45",
+"34usd/pc"
+],
+[
+"STI-110GE",
+"1*1000M 1*9 Fixed Fiber+1*10/100/1000M RJ45",
+"21usd/pc"
+],
+[
+"STI-110GE_SFP",
+"1*1000M SFP+1*10/100/1000M RJ45",
+"17usd/pc"
+],
+[
+"STI-150GE",
+"1*1000M SFP+5*10/100/1000M RJ45",
+"27usd/pc"
+],
+[
+"STI-220GE",
+"2*1000M SFP+2*10/100/1000M RJ45",
+"24usd/pc"
+],
+[
+"STI-240GE",
+"2*1000M SFP+4*10/100/1000M RJ45",
+"31usd/pc"
+],
+[
+"STI-280GE",
+"2*1000M SFP+8*10/100/1000M RJ45",
+"46usd/pc"
+],
+[
+"STI-210GE",
+"2*1000M SFP+10*10/100/1000M RJ45",
+"53usd/pc"
+],
+[
+"STI-220DGGE",
+"2*2500M SFP+2*10/100/1000M RJ45",
+"32usd/pc"
+],
+[
+"STI-240DGGE",
+"2*2500M SFP+4*10/100/1000M RJ45",
+"38usd/pc"
+],
+[
+"SFP Transceiver and Industrial Power Adapter are NOT included in both the packing box and unit pricing / A pair of mounting hangers are included in both the packing box and unit pricing / Please let us know if you need any customized model"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-050FE"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-050FE"
+],
+[
+"Product Name",
+"5 port 10/100Mbps Industrial Ethernet Switch"
+],
+[
+"Fixed Port",
+"4*10/100M RJ45 port / 1*10/100M Uplink RJ45 port"
+],
+[
+"Bandwidth",
+"1Gbps"
+],
+[
+"Packet Forwarding",
+"0.74Mpps"
+],
+[
+"MAC",
+"1K"
+],
+[
+"Buffer",
+"768K"
+],
+[
+"LED Indicator",
+"PW: Power indicator(green) / Uplink port: 10/100M connection indicator light / Port: green _10M network connection indicator / green+orange _100M network connection indicator / V1: Main power indicator(green) / V2: Slave power indicator(green)"
+],
+[
+"Power",
+"Three groups of independent power input / SW: DC12-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 105*90*36mm / Packing Box: 200*130*40mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.5Kg/0.6Kg"
+],
+[
+"Lightning / Protection level",
+"6KV 8/20us, 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-080FE"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-080FE"
+],
+[
+"Product Name",
+"8 port 10/100Mbps Industrial Ethernet Switch"
+],
+[
+"Fixed Port",
+"8*10/100Mbps RJ45 Port"
+],
+[
+"Transmission Mode",
+"Store and Forward"
+],
+[
+"Bandwidth",
+"1.6Gbps"
+],
+[
+"Packet Forwarding",
+"1.19Mpps"
+],
+[
+"MAC",
+"1K"
+],
+[
+"Buffer",
+"768K"
+],
+[
+"DIP switch",
+"1: -- / 2: 1-4 port ultra long mode 250 meters(10M) / 3: 1-6 port ultra long mode 250 meters(10M) / 4: After opening the ports, ports 1-6 are isolated from each other and cannot be accessed between them. They can only be accessed from the uplink port"
+],
+[
+"Port Specification",
+"10/100BaseT(X)Auto"
+],
+[
+"Transmission Mode",
+"Store and Forward(full wire-speed)"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(≤150 meter)"
+],
+[
+"LED Indicator",
+"V1: Power indicator light / V2: Power indicator light / V3: Power indicator light / PWR: Power indicator light / VLAN: Port isolation indicator light / S: Ultra long distance indicator light(10M) / Port orange/green indicator light: Link indicator light"
+],
+[
+"Input method",
+"V1: 12-57V 1A MAX / V2: 12-57V 1A MAX / V3: DC12-57V 1A MAX(Internal positive and external negative)"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 156*119*35mm / Packing Box: 235*165*78mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.87Kg/1.03Kg"
+],
+[
+"Lightning / Protection level",
+"6KV 8/20us, 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-110FE"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-110FE"
+],
+[
+"Product Name",
+"2 port 10/100Mbps Industrial Ethernet Switch"
+],
+[
+"Fixed Port",
+"1*10/100M RJ45 port / 1*100M integrated optical port(optional 1310/1550)"
+],
+[
+"Bandwidth",
+"1Gbps"
+],
+[
+"Packet Forwarding",
+"0.3Mpps"
+],
+[
+"MAC",
+"1K"
+],
+[
+"Buffer",
+"768K"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multi-mode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PW: Power indicator(green) / 1:10/100M network connection indicator(green) / 2: Optical fiber connection indicator(green) / V1: Main power indicator(green) / V2: Slave power indicator(green) / V3: DC power indicator(green)"
+],
+[
+"Power",
+"Three groups of independent power input / SW: DC12-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 100mm*86mm*30mm / Packing Box: 200mm*130mm*40mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.3Kg/0.4Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us; 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-140FE"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-140FE"
+],
+[
+"Product Name",
+"5 port 10/100Mbps Industrial Ethernet Switch"
+],
+[
+"Fixed Port",
+"4*10/100M RJ45 port / 1*100M integrated optical port(optional 1310/1550)"
+],
+[
+"Bandwidth",
+"1.6Gbps"
+],
+[
+"Packet Forwarding",
+"0.74Mpps"
+],
+[
+"MAC",
+"1K"
+],
+[
+"Buffer",
+"768K"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multi-mode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PWR: Power indicator(green) / Port: green _10M network connection indicator / green+orange _100M network connection indicator. / 5: Optical fiber connection indicator(green) / V1: Main power indicator(green) / V2: Slave power indicator(green) / V3: DC power indicator(green) / EX: Expansion indicator(green)"
+],
+[
+"Power",
+"Three groups of independent power input / SW: DC12-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 156mm*113mm*40mm / Packing Box: 235mm*105mm*78mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.9Kg/1.1Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us; 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-240FE"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-240FE"
+],
+[
+"Product Name",
+"6 port 10/100Mbps Industrial Ethernet Switch"
+],
+[
+"Fixed Port",
+"4*10/100M RJ45 port / 2*100M integrated optical port(optional 1310/1550)"
+],
+[
+"Bandwidth",
+"1.6Gbps"
+],
+[
+"Packet Forwarding",
+"0.9Mpps"
+],
+[
+"MAC",
+"1K"
+],
+[
+"Buffer",
+"768K"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multi-mode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PWR: Power indicator(green) / Port: green _10M network connection indicator / green+orange _100M network connection indicator. / 5-6: Optical fiber connection indicator(green) / V1: Main power indicator(green) / V2: Slave power indicator(green) / V3: DC power indicator(green)"
+],
+[
+"Power",
+"Three groups of independent power input / SW: DC12-57V"
+],
+[
+"Operating Temperature/Humidity",
+"-40～80°C; 10%～90% RH No condensation"
+],
+[
+"Storage Temperature/Humidity",
+"-40～85°C; 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 156*113*40mm / Packing Box: 235*105*78mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.9Kg/1.1Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us; 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-050GE"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-050GE"
+],
+[
+"Product Name",
+"5 port 10/100/1000Mbps Industrial Ethernet Switch"
+],
+[
+"Fixed Port",
+"4*10/100/1000M RJ45 port / 1*10/100/1000M Uplink RJ45 port"
+],
+[
+"Bandwidth",
+"10Gbps"
+],
+[
+"Packet Forwarding",
+"7.44Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"LED Indicator",
+"PW: Power indicator(green) / Port: green _10/100M network connection indicator / green+orange _1000M network connection indicator. / V1: Main power indicator(green) / V2: Slave power indicator(green)"
+],
+[
+"Power",
+"Three groups of independent power input / SW: DC12-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 105*90*36mm / Packing Box: 200*130*40mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.5Kg/0.6Kg"
+],
+[
+"Lightning / Protection level",
+"6KV 8/20us, 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-080GE"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-080GE"
+],
+[
+"Product Name",
+"8 port 10/100/1000Mbps Industrial Ethernet Switch"
+],
+[
+"Fixed Port",
+"8*10/100/1000Mbps RJ45 Port"
+],
+[
+"Transmission Mode",
+"Store and Forward"
+],
+[
+"Bandwidth",
+"16Gbps"
+],
+[
+"Packet Forwarding",
+"11.9Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"DIP switch",
+"1: -- / 2: 1-4 port ultra long mode 250 meters(10M) / 3: 1-6 port ultra long mode 250 meters(10M) / 4: After opening the ports, ports 1-6 are isolated from each other and cannot be accessed between them. They can only be accessed from the uplink port"
+],
+[
+"Port Specification",
+"10/100/1000BaseT(X)Auto"
+],
+[
+"Transmission Mode",
+"Store and Forward(full wire-speed)"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(≤150 meter) / 1000BASE-TX: Cat6 or later UTP(≤150 meter)"
+],
+[
+"LED Indicator",
+"V1: Power indicator light / V2: Power indicator light / V3: Power indicator light / PWR: Power indicator light / VLAN: Port isolation indicator light / S: Ultra long distance indicator light(10M) / Port orange indicator light: Gigabit indicator light / Port green indicator light: Link indicator light"
+],
+[
+"Input method",
+"V1: 12-57V 1A MAX / V2: 12-57V 1A MAX / V3: DC12-57V 1A MAX(Internal positive and external negative)"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 156*119*35mm / Packing Box: 235*165*78mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.9Kg/1.05Kg"
+],
+[
+"Lightning / Protection level",
+"6KV 8/20us, 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-110GE"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-110GE"
+],
+[
+"Product Name",
+"2 port 10/100/1000Mbps Industrial Ethernet Switch"
+],
+[
+"Fixed Port",
+"1*10/100/1000M RJ45 port / 1*1000M integrated optical port(optional 1310/1550)"
+],
+[
+"Bandwidth",
+"2Gbps"
+],
+[
+"Packet Forwarding",
+"1.49Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multi-mode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PW: power indicator(green) / 1: 10/100/1000M network connection indicator(green) / 2: Optical fiber connection indicator(green) / V1: Main power indicator(green) / V2: Slave power indicator(green) / V3: DC power indicator(green)"
+],
+[
+"Power",
+"Three groups of independent power input / SW: DC12-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 100*86*30mm / Packing Box: 200*130*40mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.3Kg/0.4Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us; 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-110GE_SFP"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-110GE_SFP"
+],
+[
+"Product Name",
+"2 port 10/100/1000Mbps Industrial Ethernet Switch"
+],
+[
+"Fixed Port",
+"1*10/100/1000M RJ45 port / 1*1000M SFP"
+],
+[
+"Bandwidth",
+"2Gbps"
+],
+[
+"Packet Forwarding",
+"2.98Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multi-mode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PW: Power indicator(green) / 1:10/100/1000M network connection indicator(green) / 2: Optical fiber connection indicator(green) / V1: Main power indicator(green) / V2: Slave power indicator(green) / V3: DC power indicator(green)"
+],
+[
+"Power",
+"Three groups of independent power input / SW: DC12-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 100*86*30mm / Packing Box: 200*130*40mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.3Kg/0.4Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us; 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-150GE"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-150GE"
+],
+[
+"Product Name",
+"6 port 10/100/1000Mbps Industrial Ethernet Switch"
+],
+[
+"Fixed Port",
+"4*10/100/1000M RJ45 port / 1*10/100/1000M Uplink RJ45 port / 1*1000M SFP"
+],
+[
+"Bandwidth",
+"12Gbps"
+],
+[
+"Packet Forwarding",
+"8.93Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multi-mode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PWR: Power indicator(green) / Port: green _10/100M network connection indicator / green+orange _1000M network connection indicator. / 6: Optical fiber connection indicator(green) / GX: expansion indicator(green) / V1: Main power indicator(green) / V2: Slave power indicator(green) / V3: DC power indicator(green)"
+],
+[
+"Power",
+"Three groups of independent power input / SW: DC12-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 156*113*40mm / Packing Box: 235*165*78mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.9Kg/1.1Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us; 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-220GE"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-220GE"
+],
+[
+"Product Name",
+"4 port 10/100/1000Mbps Industrial Ethernet Switch"
+],
+[
+"Fixed Port",
+"2*10/100/1000M RJ45 port / 2*1000M SFP"
+],
+[
+"Bandwidth",
+"12Gbps"
+],
+[
+"Packet Forwarding",
+"5.95Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multi-mode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PW: Power indicator(green) / Port: green _10/100M network connection indicator / green+orange _1000M network connection indicator. / 3-4: Optical fiber connection indicator(green) / V1: Main power indicator(green) / V2: Slave power indicator(green) / V3: DC power indicator(green)"
+],
+[
+"Power",
+"Three groups of independent power input / SW: DC12-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 100*86*30mm / Packing Box: 200*130*40mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.4Kg/0.5Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us; 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-240GE"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-240GE"
+],
+[
+"Product Name",
+"6 port 10/100/1000Mbps Industrial Ethernet Switch"
+],
+[
+"Fixed Port",
+"4*10/100/1000M RJ45 port / 2*1000M SFP"
+],
+[
+"Transmission Mode",
+"Store and Forward"
+],
+[
+"Bandwidth",
+"16Gbps"
+],
+[
+"Packet Forwarding",
+"11.9Mpps"
+],
+[
+"MAC",
+"4K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multi-mode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PWR: Power indicator light / P1: Power indicator light / P2: Power indicator light / PMX: Power overload indicator light / 5,6: Optical port connection indicator light / Port: green _10/100M network connection indicator / green+orange _1000M network connection indicator."
+],
+[
+"Power",
+"Three groups of independent power input / SW: DC12-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 156*113*40mm / Packing Box: 235*165*78mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.9Kg/1.1Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us; 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-280GE"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-280GE"
+],
+[
+"Product Name",
+"10 port 10/100/1000Mbps Industrial Ethernet Switch"
+],
+[
+"Fixed Port",
+"8*10/100/1000M RJ45 port / 2*1000M SFP"
+],
+[
+"Bandwidth",
+"24Gbps"
+],
+[
+"Packet Forwarding",
+"14.88Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multi-mode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PWR: Power indicator(green) / PMX: Power overload indicator(green) / Port: green _10/100M network connection indicator / green+orange _1000M network connection indicator. / 9-10: Optical fiber connection indicator(green) / V1: Main power indicator(green) / V2: Slave power indicator(green)"
+],
+[
+"Power",
+"Three groups of independent power input / SW: DC12-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 160*130*45mm / Packing Box: 280*165*79mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.9Kg/1.1Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us; 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-210GE"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-210GE"
+],
+[
+"Product Name",
+"12 port 10/100/1000Mbps Industrial Ethernet Switch"
+],
+[
+"Fixed Port",
+"8*10/100/1000M RJ45 port / 2*10/100/1000M Uplink RJ45 port / 2*1000M SFP"
+],
+[
+"Bandwidth",
+"24Gbps"
+],
+[
+"Packet Forwarding",
+"17.86Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multi-mode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PWR: Power indicator(green) / EX Max: power overload indicator(green) / Port: green _10/100M network connection indicator / green+orange _1000M network connection indicator. / 9-10: Optical fiber connection indicator(green) / P1: Main power indicator(green) / P2: Slave power indicator(green)"
+],
+[
+"Power",
+"Three groups of independent power input / SW: DC12-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 160*130*45mm / Packing Box: 280*165*79mm"
+],
+[
+"N.W/G.W(Kg)",
+"1.3Kg/1.5Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us; 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Warranty",
+"3 Years"
+],
+[
+"Power",
+"Three groups of independent power input / SW: DC12-57V"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-220DGGE"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-220DGGE"
+],
+[
+"Product Name",
+"4 port 10/100/1000/2500Mbps Industrial Ethernet Switch"
+],
+[
+"Fixed Port",
+"2*10/100/1000M RJ45 port / 2*2500M SFP"
+],
+[
+"Bandwidth",
+"20Gbps"
+],
+[
+"Packet Forwarding",
+"32.74Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 2500M single and multi-mode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PW: power indicator(green) / Port: green _10/100M network connection indicator / green+orange _1000M network connection indicator / 3-4: Optical fiber connection indicator(green) / V1: Main power indicator(green) / V2: Slave power indicator(green) / V3: DC power indicator(green)"
+],
+[
+"Power",
+"Three groups of independent power input / SW: DC12-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 100*86*30mm / Packing Box: 200*130*40mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.4Kg/0.5Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us; 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-240DGGE"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-240DGGE"
+],
+[
+"Product Name",
+"6 port 10/100/1000/2500Mbps Industrial Ethernet Switch"
+],
+[
+"Fixed Port",
+"4*10/100/1000M RJ45 port / 2*2500M SFP"
+],
+[
+"Bandwidth",
+"20Gbps"
+],
+[
+"Packet Forwarding",
+"35.71Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 2500M single and multi-mode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PWR: Power indicator(green) / PMX: Power overload indicator(green) / Port: green _10/100M network connection indicator / green+orange _1000M network connection indicator. / 5-6: Optical fiber connection indicator(green) / P1: Main power indicator(green) / P2: Slave power indicator(green)"
+],
+[
+"Power",
+"Three groups of independent power input / SW: DC12-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 156*113*40mm / Packing Box: 235*165*78mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.9Kg/1.1Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us; 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"FAQ"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Leadtime"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Production starts AFTER payment is received"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that it usually takes 1~2 working days for our bank to receive the payment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Production time is usually 4~7 working days for standard(non-customized)models(no more than 50Pcs)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipping time is usually 4~7 days by express"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"In total, it takes 10~15 calendar days to arrive at local customs for clearance"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is an estimated period, it usually does not take this long to receive the order"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We will send the goods by express(DHL, UPS or FEDEX)or by sea(for bulk orders)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to ship purchased items via client’s shipping account(DHL, UPS or FEDEX)or forwarders in China"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MoQ"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1 Pc/Pair(It is NOT free, Saga Telecom do NOT do FREE SAMPLES)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to have sample testing before bulk orders"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that we do NOT suggest 1pc/pair in sample testing, better make it at least 2 pieces/pairs in case of any possible dysfunction in production/transportation(then all efforts are gone, a big waste of time)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Warranty"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1 year for commercial models(STC series)and 3 years for industrial models(STI series)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please kindly refer to the “Warranty Policy” for more information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Technical assistance is always available"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Discount"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Available and it is usually based on quantity and AFTER sample testing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The price negotiation makes sense ONLY IF a client is satisfied with the quality"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For distributorship, that we are now seeking, best prices will be provided"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Payment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"T/T transfer and PayPal"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to pay 50% first and another 50% before shipment for a bulk order(this is about standard/non-customized models)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"FULL PAYMENT for a customization order BEFORE PRODUCTION(non-negotiated)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to be paid via client’s forwarder(this is usually about RMB payment on Alipay or WeChat)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Transaction Cost"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is standard charge 25usd for EACH T/T transfer whatever the invoice value is"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is 5usd for every 100usd to PayPal a/c, this ratio is standard charge by PayPal"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"User Manual"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that there is a user manual(with necessary information for usage and installation)in the packing box Actually most of the necessary information is available in this datasheet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We can help print a copy of your version and put it in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing Box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Without Chinese letters or logo"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Hard carton, resilient to wrinkle, good for reselling even after shipment(there is protective foam inside to avoid possible damage)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Customized version is available(with your logo/model/slogan or remove the patterns), but there is MoQ and cost for this, discussion is required"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Label"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"There is product information/model name/serial number on the label"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to write client’s version"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Standard language is English"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If a different language is adopted like Russian, Italian, Korean..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please share EXACT translation, we will simply copy and print"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Barcodes are scannable for inbound statistics"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"“Made in China” description is there and can be removed if required"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"An example photo will be shared for confirmation before mass printing for a bulk order"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"There are 2 copies for each manufactured product. One is attached on the device, the other is on the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Certification"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CE/RoHS/FCC/Reach/UKCA"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please let us know if you need to check the certificates"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"RMA"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please contact us ASAP once there is a problem of ANY KIND"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please also read below “after-sales support” information to understand how to proceed"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For every 100Pcs, there will be 2 extra free units(2% RMA)against immediate warranty coverage"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This rule stands for all Saga Telecom models and even there is not an after-sales issue"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If it is about missing/faulty parts in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please simply use the extra units for the replacem"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"ent and let us know this problem(we will improve)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If it is about usage problem"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom will provide technical support and send new units when necessary(in this occasion, we will be responsible for both product cost and shipping cost, but the local customs clearance cost, if any, is on clients)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SKD/CKD"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Available"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SKD is simple, please just let us know how you would like to have it"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CKD usually involves confidential information such as BOM list, schematic design, PCB layout etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is based on solid cooperation AND bulk orders, thorough discussion is required to do CKD mode"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OEM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Available"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Discussion is required for complex changes, meanwhile an NDA(Non-disclosure Agreement)contract will be agreed upon and signed"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Relevant cooperation information will not be leaked to a third party without client’s permission"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is mainly about 2 categories"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Industrial manufacturing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Show client’s logo/model on the device/label"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Use client’s packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Design client’s product PVC sticker"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Customize some parts of a model like rear panel/power input terminal block/panels..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that there might be an extra cost for such OEM services"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Management features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Show client’s logo/model on the management interface"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Change IP address"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MAC address"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SNMP, OID"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Above changes are free of cost and please know that"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Font format&GUI color are NOT changeable for the management interface"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We can also help with develop exact features/specifications based on given chips or PCB board designs, this is more complex, thorough discussion is required"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Incoterms"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"EXW term is our focus"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Sometimes we do FOB/CIF for bulk orders, this depends on cases, please talk with us for more information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Online Store"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Currently we do not have an online store(Amazon, Shopify, Aliexpress etc.)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We will add a store link in this datasheet when available"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Branch/Distribution"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Currently we do not have ANY overseas branches or distributors"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We are actively seeking good agents/resellers to promote our brand and products"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Necessary technical and pricing support will be provided"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please let us know if you are interested"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Material Preparation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"20% deposit will be collected beforehand for material preparation if there is a strict requirement of production time."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is to protect ourselves from the awkward situation where we have prepared the materials while the clients do not successfully place the order due to different reasons"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This deposit will be deducted from total amount if this order is secured"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This deposit will be returned after we consumed half of the prepared materials in other orders if this order is not placed"
+},
+{
+"t":"table",
+"rows":[
+[
+"Product Label",
+"Certificate of Warranty"
+],
+[
+"Shipping Label",
+""
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that this is for your reference only(roughly like this, but subject to final format)"
+}
+],
+"extracted_at":"2026-10-23T05:20:27Z"
+}

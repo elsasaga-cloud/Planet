@@ -1,0 +1,18 @@
+{
+"id":"Extra_Info__Xmind__样品.xmind__f7f1552d",
+"path":"Extra_Info/Xmind/样品.xmind",
+"name":"样品.xmind",
+"ext":".xmind",
+"bytes":104082,
+"sha256":"f7f1552d12bb17dad4f51d1dbebe82cc771afc0c7d6cadf5b92db6a1bbed4219",
+"source":"Extra_Info.zip",
+"method":"xmind(content.xml)",
+"status":"ok",
+"meta":{
+"lines":23
+},
+"warnings":[],
+"chars":502,
+"text":"# Sheet: 画布 1\n- 样品\n  - 产品需求确认\n    - POE功率\n    - 电源线种类\n    - 速率\n    - 有无OEM计划等\n  - 送样相关信息\n    - 客户的 full contact information\n    - 期望啥时候收到/大概测多久/啥时候下大货单/买了样品干嘛分销还是用于项目...\n  - 样品费用\n    - 公司政策一定要收\n      - 可以给客户发测试视频和实物图\n      - 客户看到后一切OK再下单也行\n    - 全款收，出大货时减免该费用\n    - 如果客户比较专业且返单几率很大（如做项目的或者买样就是为了测一个固定的功能），可以成本价出货\n  - 发出后的跟进\n    - 多注意物流和清关信息确保客户收到样品\n      - 这个很重要\n      - 如果有运输损坏或者清关有问题，那么前期的努力都白费了，这会大幅降低信任度\n    - 问客户测试效果需要啥帮助吗有啥异常吗\n    - 一切都OK后可以问客户啥时候再下单有无OEM计划等\n      - 一般客户都会说的比较详细，因为双方都已经花了很多时间和精力",
+"extracted_at":"2026-10-23T05:20:12Z"
+}

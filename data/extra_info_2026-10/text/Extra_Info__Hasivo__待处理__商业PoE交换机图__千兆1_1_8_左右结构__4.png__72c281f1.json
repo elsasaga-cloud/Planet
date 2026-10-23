@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆1_1_8_左右结构__4.png__72c281f1",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/千兆1+1+8  左右结构/4.png",
+"name":"4.png",
+"ext":".png",
+"bytes":3131953,
+"sha256":"72c281f1ac168da5ea526b708dfd026a39cf4ccdfbd92724dce71fde37e75c8f",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":3018,
+"height":583,
+"mode":"RGBA",
+"thumb_bytes":1475
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:23:45Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆1_1_8_左右结构__4.png__72c281f1.jpg"
+}

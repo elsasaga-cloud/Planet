@@ -1,0 +1,26 @@
+{
+"id":"Extra_Info__Xmind__POE_application.pdf__8dfa97e7",
+"path":"Extra_Info/Xmind/POE application.pdf",
+"name":"POE application.pdf",
+"ext":".pdf",
+"bytes":288661,
+"sha256":"8dfa97e7795ac95890f885cf2be6d8228f83a5737a9ed31cad774307e8f90fe6",
+"source":"Extra_Info.zip",
+"method":"pdfplumber+OCR(1p)",
+"status":"ok",
+"meta":{
+"pages":1,
+"author":"Simon",
+"creator":"WPS 文字",
+"creationdate":"D:20230330161507+08'15'",
+"moddate":"D:20230330161507+08'15'",
+"ocr_pages":1
+},
+"warnings":[],
+"chars":143,
+"text":"[p1]\napplication 1\nPTZ Camera\nData +90W PoE\n328 ft. (100m)\nApplicaiton 2\nRE 区 2]\ner\" —_~ 2)\n< 一 56012V\n了 tt\nIP Camera Separator sl\nPOE P Camera",
+"pages":[
+"application 1\nPTZ Camera\nData +90W PoE\n328 ft. (100m)\nApplicaiton 2\nRE 区 2]\ner\" —_~ 2)\n< 一 56012V\n了 tt\nIP Camera Separator sl\nPOE P Camera"
+],
+"extracted_at":"2026-10-23T05:20:12Z"
+}

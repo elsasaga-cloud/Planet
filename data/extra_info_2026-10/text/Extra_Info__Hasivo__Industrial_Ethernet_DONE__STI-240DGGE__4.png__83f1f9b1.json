@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-240DGGE__4.png__83f1f9b1",
+"path":"Extra_Info/Hasivo/Industrial Ethernet_DONE/STI-240DGGE/4.png",
+"name":"4.png",
+"ext":".png",
+"bytes":1726069,
+"sha256":"83f1f9b1e9d874e05fcf93d11aec9b8f4582f321b1fb520085225adfbfa2e937",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":1904,
+"height":727,
+"mode":"RGBA",
+"thumb_bytes":5961
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:24:37Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-240DGGE__4.png__83f1f9b1.jpg"
+}

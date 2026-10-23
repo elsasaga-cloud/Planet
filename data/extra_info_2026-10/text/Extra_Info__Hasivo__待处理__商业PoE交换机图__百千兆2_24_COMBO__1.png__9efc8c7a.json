@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__百千兆2_24_COMBO__1.png__9efc8c7a",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/百千兆2+24 COMBO/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":2029528,
+"sha256":"9efc8c7a1d5f198dc291dad9b06a13d9e4e185d937b72437ba4f938e15abfd2b",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":3414,
+"height":657,
+"mode":"RGBA",
+"thumb_bytes":3969
+},
+"warnings":[],
+"chars":71,
+"text":"人 Hybrid PoE Switch\nUnmanaged 24FE+2GE Combo\nVLAN\nNom supM\n35SFP 26-SFP",
+"extracted_at":"2026-10-23T05:24:09Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__百千兆2_24_COMBO__1.png__9efc8c7a.jpg"
+}

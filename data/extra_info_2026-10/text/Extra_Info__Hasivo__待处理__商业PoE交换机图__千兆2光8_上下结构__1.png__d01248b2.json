@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆2光8_上下结构__1.png__d01248b2",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/千兆2光8 上下结构/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":673720,
+"sha256":"d01248b26bca9de27c825ab35e6bbf76850cc5172206533138ac44642c255ba9",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1827,
+"height":552,
+"mode":"RGBA",
+"thumb_bytes":5550
+},
+"warnings":[],
+"chars":47,
+"text":"PoE 生:\nGigabit Fiber PoE Switch\n8GE PoE+2SFP 9@",
+"extracted_at":"2026-10-23T05:23:47Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆2光8_上下结构__1.png__d01248b2.jpg"
+}

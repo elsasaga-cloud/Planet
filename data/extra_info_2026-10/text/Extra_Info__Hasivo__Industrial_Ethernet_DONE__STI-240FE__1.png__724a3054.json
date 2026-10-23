@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-240FE__1.png__724a3054",
+"path":"Extra_Info/Hasivo/Industrial Ethernet_DONE/STI-240FE/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":1538401,
+"sha256":"724a3054b4585dabb84dab9ee133b0e3532794c55a4e9788b3bd5f226e9d364a",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":2432,
+"height":916,
+"mode":"RGBA",
+"thumb_bytes":7002
+},
+"warnings":[],
+"chars":93,
+"text":"LO\n|\n> =“=—_ ~~\nv « Sie ia\n地 =\n2 aa\n/=9y\nzy\nfax /\n|\n”ndustial Switch\nls)\nLink\n<\n上\nN\n+\n山\nLe\nvt",
+"extracted_at":"2026-10-23T05:24:41Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-240FE__1.png__724a3054.jpg"
+}

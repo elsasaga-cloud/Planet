@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆1光1__2.png__3a3aec51",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/千兆1光1/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":1085123,
+"sha256":"3a3aec5149a2061a74539bc58b4e90681ab88b41418dac74dcc4dec586ed3f2a",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1440,
+"height":706,
+"mode":"RGBA",
+"thumb_bytes":4863
+},
+"warnings":[],
+"chars":46,
+"text":"sinwact 全 nd\nspeed @ @ speed\nx @ © pwr Ni\nRJ45",
+"extracted_at":"2026-10-23T05:22:43Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆1光1__2.png__3a3aec51.jpg"
+}

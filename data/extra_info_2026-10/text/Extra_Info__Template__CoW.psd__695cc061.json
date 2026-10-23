@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Template__CoW.psd__695cc061",
+"path":"Extra_Info/Template/CoW.psd",
+"name":"CoW.psd",
+"ext":".psd",
+"bytes":11341950,
+"sha256":"695cc0614c74ed88fa20bacaf360171aa09911573a9f9f50503ca45561287531",
+"source":"Extra_Info.zip",
+"method":"pillow(psd composite)",
+"status":"meta",
+"meta":{
+"format":"PSD",
+"width":2480,
+"height":3508,
+"mode":"RGB",
+"thumb_bytes":15073
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:20:20Z",
+"thumb":"thumbs/Extra_Info__Template__CoW.psd__695cc061.jpg"
+}

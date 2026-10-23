@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆5电口__2.png__f87f0b79",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/千兆5电口/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":1245168,
+"sha256":"f87f0b79bf14878c5f3e8f7f53a79fe7094a4f02d92535b376243f24b270f2a7",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1737,
+"height":618,
+"mode":"RGBA",
+"thumb_bytes":6399
+},
+"warnings":[],
+"chars":67,
+"text":"Gigabit PoE switch 5 =F\nE Uplinkl ve\n放生 SS\n1-HiPoE\n4GE PoE+1G\nPower",
+"extracted_at":"2026-10-23T05:23:08Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆5电口__2.png__f87f0b79.jpg"
+}

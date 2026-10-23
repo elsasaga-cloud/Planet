@@ -1,0 +1,116 @@
+{
+"id":"Extra_Info__Hasivo__待处理__POE类目__S5800P-48F-2TC_EN.doc__ddf7c85c",
+"path":"Extra_Info/Hasivo/待处理/POE类目/S5800P-48F-2TC_EN.doc",
+"name":"S5800P-48F-2TC_EN.doc",
+"ext":".doc",
+"bytes":31232,
+"sha256":"ddf7c85c42bc01a397404bbf86bac831d358c69507623a9901e1fb936650b762",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:20:52+00:00",
+"paragraphs":0,
+"tables":1,
+"embedded_images":0
+},
+"warnings":[],
+"chars":1328,
+"text":"Model\tS5800P-48F-2TC\nProduct mame\tHybrid Gigabit uplink 48-port 100M POE switch\nFixed Port\t48*10/100Base-TX PoE port（Data/Power） / 2*1000M COMBO\nPoE Ports\t1-48 port supports IEEE802.3af/at, max 30W/port, PoE out\nPoE Pin\t12+ 36-\nPoE Bridge\tmax 600W\nBandwidth\t17.6Gbps\nPacket Forwarding\t10.12Mpps\nMAC\t8K\nBuffer\t4.1M\nTransmission Distance\t10BASE-T ： Cat3,4,5 UTP(≤250 meter) / 100BASE-TX ： Cat5 or later UTP(150 meter) / 1000BASE-TX ： Cat6 or later UTP(150 meter) / SFP: 1000M single and multimode optical module with maximum distance ≤ 120km (depending on the optical module)\nLED Indicator\tPWR:Power LED(over-power LED) / 1-48:POE work indicator;Link_Network connection indicator / 49-50:Network connection indicator / Uplink:(Link LED=10/100M Link、1000M=Gigabit Link）Port:(Orange=PoE LED, Green=LAN Link LED）\nPower\tBuilt-in power AC：100-240Vac 50-60Hz 7.5A   max 625W\nOperating Temperature/Humidity\t-10～+55°C；5%～90% RH Non coagulation\nStorage Temperature/Humidity\t-40～+75°C；5%～95% RH Non coagulation\nProduct /Packing / size（L*W*H）\t445mm*295mm*45mm / 515mm*375mm*95mm\nN.W/G.W（kg）\t4.4kg/5.1kg\nLightning / Protection  level\t6KV 8/20us； / IP30\nInstallation\tRack-mount (optional machine hanger spare parts)\nCertificate\tCE-EMC EN55032；CE-LVD EN62368；\nFCC Part 15 Class B；RoHS；\nWarranty\tWhole device for 1 year(Accessories not included)",
+"blocks":[
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"S5800P-48F-2TC"
+],
+[
+"Product mame",
+"Hybrid Gigabit uplink 48-port 100M POE switch"
+],
+[
+"Fixed Port",
+"48*10/100Base-TX PoE port（Data/Power） / 2*1000M COMBO"
+],
+[
+"PoE Ports",
+"1-48 port supports IEEE802.3af/at, max 30W/port, PoE out"
+],
+[
+"PoE Pin",
+"12+ 36-"
+],
+[
+"PoE Bridge",
+"max 600W"
+],
+[
+"Bandwidth",
+"17.6Gbps"
+],
+[
+"Packet Forwarding",
+"10.12Mpps"
+],
+[
+"MAC",
+"8K"
+],
+[
+"Buffer",
+"4.1M"
+],
+[
+"Transmission Distance",
+"10BASE-T ： Cat3,4,5 UTP(≤250 meter) / 100BASE-TX ： Cat5 or later UTP(150 meter) / 1000BASE-TX ： Cat6 or later UTP(150 meter) / SFP: 1000M single and multimode optical module with maximum distance ≤ 120km (depending on the optical module)"
+],
+[
+"LED Indicator",
+"PWR:Power LED(over-power LED) / 1-48:POE work indicator;Link_Network connection indicator / 49-50:Network connection indicator / Uplink:(Link LED=10/100M Link、1000M=Gigabit Link）Port:(Orange=PoE LED, Green=LAN Link LED）"
+],
+[
+"Power",
+"Built-in power AC：100-240Vac 50-60Hz 7.5A   max 625W"
+],
+[
+"Operating Temperature/Humidity",
+"-10～+55°C；5%～90% RH Non coagulation"
+],
+[
+"Storage Temperature/Humidity",
+"-40～+75°C；5%～95% RH Non coagulation"
+],
+[
+"Product /Packing / size（L*W*H）",
+"445mm*295mm*45mm / 515mm*375mm*95mm"
+],
+[
+"N.W/G.W（kg）",
+"4.4kg/5.1kg"
+],
+[
+"Lightning / Protection  level",
+"6KV 8/20us； / IP30"
+],
+[
+"Installation",
+"Rack-mount (optional machine hanger spare parts)"
+],
+[
+"Certificate",
+"CE-EMC EN55032；CE-LVD EN62368；\nFCC Part 15 Class B；RoHS；"
+],
+[
+"Warranty",
+"Whole device for 1 year(Accessories not included)"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:20:52Z"
+}

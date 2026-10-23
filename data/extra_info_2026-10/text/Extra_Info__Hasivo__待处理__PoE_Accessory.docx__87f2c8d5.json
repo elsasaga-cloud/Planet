@@ -1,0 +1,565 @@
+{
+"id":"Extra_Info__Hasivo__待处理__PoE_Accessory.docx__87f2c8d5",
+"path":"Extra_Info/Hasivo/待处理/PoE Accessory.docx",
+"name":"PoE Accessory.docx",
+"ext":".docx",
+"bytes":1157204,
+"sha256":"87f2c8d5d65d7c220a050cf474e0ed7690005ef42cf4b5bc0a5d0179947468a1",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2023-07-22T16:14:00+00:00",
+"modified":"2024-07-04T11:43:07+00:00",
+"paragraphs":96,
+"tables":1,
+"embedded_images":7
+},
+"warnings":[],
+"chars":6322,
+"text":"ContentBackground1Application1Name Rule2Diagram2Ordering Information3Commercial PoE Splitter3Commecial PoE Extender3Commercial PoE Injector3Industrial PoE Splitter3Industrial PoE Extender3Commercial PoE Injector3IP67 Series3Special Models3FAQ4\nBackground\nPoE(Power over Ethernet) helps users transmit data and power on one single network cable, which greatly facilitates installation and enriches Ethernet applications.\nSome special functions in a PoE device such as PoE watchdog, PoE distance extension and PoE management also help reduce manual intervention and make the entire system smarter.\nHowever, in short-distance cabling and network systems, the application scenarios are very complex, below are some examples\n12V/24V power input for PD\nLong distance of PD and PSE(more than 100-meter)\nTemporarily separate data and power\nToo many Non-PoE IP devices in existing project\nHigher power required after project upgrading\nReplacement due to power surges and brownouts\nUnder this background, Saga Telecom presents an ample quantity of indoor and outdoor application-based PoE devices covering\nPoE Splitter\nPoE Repeater/Extender\nPoE Injector/Midspan\nPopular IEEE 802.3af, IEEE 802.3at, IEEE 802.3bt standards are carried, those affordable units are suitable different Ethernet-defined projects and eliminate complex installation.\nMeanwhile we have\nPower booster/step-up and passive PoE models\nCommercial and industrial 802.3bt switches\nIts ideal to include all those PoE-related devices to build a PoE package for your network systems.\nApplication\nLast-mile Ethernet transmission solution\nSmall area PoE-related cabling\n12V/24V/48V powered network system\nName Rule\nST=Saga Telecom\nC=Commercial grade\nI=Industrial grade\nPI=PoE Injector\nPS=PoE Splitter\nPE=PoE Extender\nG=Gigabit\nDG=2.5 Gigabit\nXG=10 Gigabit\n30W/60W/90W=Budget\n12V/24V/48V=Voltage\nThis is ONLY about some general rules about our nomenclature.\nThere will be some special naming in each category to indicate the features.\nIt is advised to read specific product description for more information.\nDiagram\nOrdering Information\nCommercial PoE Splitter\nCommecial PoE Extender\nCommercial PoE Injector\nIndustrial PoE Splitter\nIndustrial PoE Extender\nCommercial PoE Injector\nIP67 Series\nSpecial Models=主要是UniPoE以及其他供应商的特别型号，800米延长\nCommercial PoE Splitter\nModel\tDescription\tUnit Price\nSTC-024FP-24V\t2*10/100M RJ45+4*10/100M PoE af/at RJ45 / 65W, Passive PoE, AC100V~240V input, with rack-mount brackets\t14usd/pc\nSTC-014GP-24V\t1*10/100/1000M RJ45+4*10/100/1000M PoE af/at RJ45 / 65W, Passive PoE, AC100V~240V input, with rack-mount brackets\t20usd/pc\nSTC-028FP-24V\t2*10/100M RJ45+8*10/100M PoE af/at RJ45 / 120W, Passive PoE, AC100V~240V input, with rack-mount brackets\t20usd/pc\nSTC-028GP-24V\t2*10/100/1000M RJ45+8*10/100/1000M PoE af/at RJ45 / 120W, Passive PoE, AC100V~240V input, with rack-mount brackets\t31usd/pc\nSTC-1116CGFP-24V\t1*1G SFP/RJ45(Combo)+1*10/100/1000M RJ45+16*10/100/1000M PoE af/at RJ45 / 150W, Passive PoE, AC100V~240V input, with rack-mount brackets\t51usd/pc\nSTC-2216GP-24V\t2*1G SFP+2*10/100/1000M RJ45+16*10/100/1000M PoE af/at RJ45 / 300W, Passive PoE, AC100V~240V input, with rack-mount brackets\t84usd/pc\nSTC-2224GP-24V\t2*1G SFP+2*10/100/1000M RJ45+24*10/100/1000M PoE af/at RJ45 / 300W, Passive PoE, AC100V~240V input, with rack-mount brackets\t92usd/pc\nSTC-0224GFP-24V\t2**10/100/1000M RJ45+24*10/100M PoE af/at RJ45 / 300W, Passive PoE, AC100V~240V input, with rack-mount brackets\t84usd/pc\nSTC-2024GP-24V\t2*1G SFP+24*10/100/1000M PoE af/at RJ45 / 300W, Passive PoE, AC100V~240V input, with rack-mount brackets\t90usd/pc\nPower cord is included in both the packing box and unit pricing. / SFP transceiver is NOT included in both the packing box and unit pricing. / Those models are FREQUENTLY asked and ordered, there are some more similar models available. / Please let us know if you need any customized model.\nCommecial PoE Extender\nCommercial PoE Injector\nIndustrial PoE Splitter\nIndustrial PoE Extender\nIndustrial PoE Injector\nIP67 Series\nSpecial Models\nFAQ\nLeadtime\nProduction time is usually 5~7 working days for standard(non-customized) models (no more than 50pcs).\nShipping time is usually 4~7 days by air\nIn total, it takes 10~15 days for a client to receive the order.\nShipment\nWe will send the goods by air(DHL, UPS or FEDEX) or by sea(for bulk order)\nIt is fine to ship purchased items via customer’s shipping account or forwarder.\nMOQ\n1 Pc/Pair(It is NOT free, Saga Telecom do NOT do FREE SAMPLES)\nIt is fine to have sample testing before bulk order, but 1 Pc/Pair is ONLY about sample testing.\nWhen testing proves fine, MOQ is 20pcs(discussion is required if it is about smaller quantity).\nWarranty\n1 year for commercial models(STC series) and 3 years for industrial models(STI series)\nPlease kindly refer to the “Warranty Policy” for more information.\nTechnical assistance is always available\nPayment\nT/T transfer and PayPal, FULL AMOUNT BEFORE SHIPMENT.\nIt is fine to pay 50% first and another 50% before shipment for bulk order.\nIt is fine to be paid via customer’s forwarder(this is usually about RMB payment).\nTransaction cost\nIt is standard charge 25usd for EACH T/T transfer whatever the invoice value is.\nIt is 5usd for every 100usd to PayPal a/c, this ratio is standard charge by PayPal\nRMA\nPlease contact us ASAP once there is any problem(package or usage)with the supplied products.\nFor every 100pcs, there will be 2 extra free units(2% RMA) against immediate warranty coverage.\nThis rule stands for all Saga Telecom models and even there is not an after-sales issue.\nIf it is about missing/faulty parts in the packing box.\nPlease simply use the extra units for the replacement and let us know this problem(we will improve).\nIf it is about usage problem.\nSaga Telecom will provide technical support and send new units when necessary.\nOEM\nSupported, but discussion is required if it is about complex requirements.\nBelow are usual OEM services available.\nShow client’s logo/model on the device/label/management interface...\nUse client’s packing box\nDesign client’s product PVC sticker\nCustomize some parts of a model like rear panel/power input terminal block...\nPlease know that there might be extra cost for OEM services.\n[页眉页脚]\ns.sagatelecom@gmail.com\nSaga Telecom\nwww.sagatelecom.com.cn\nConnecting, Converting, Creating",
+"blocks":[
+{
+"t":"p",
+"s":"sdt",
+"text":"ContentBackground1Application1Name Rule2Diagram2Ordering Information3Commercial PoE Splitter3Commecial PoE Extender3Commercial PoE Injector3Industrial PoE Splitter3Industrial PoE Extender3Commercial PoE Injector3IP67 Series3Special Models3FAQ4"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Background"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE(Power over Ethernet) helps users transmit data and power on one single network cable, which greatly facilitates installation and enriches Ethernet applications."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Some special functions in a PoE device such as PoE watchdog, PoE distance extension and PoE management also help reduce manual intervention and make the entire system smarter."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"However, in short-distance cabling and network systems, the application scenarios are very complex, below are some examples"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"12V/24V power input for PD"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Long distance of PD and PSE(more than 100-meter)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Temporarily separate data and power"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Too many Non-PoE IP devices in existing project"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Higher power required after project upgrading"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Replacement due to power surges and brownouts"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Under this background, Saga Telecom presents an ample quantity of indoor and outdoor application-based PoE devices covering"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE Splitter"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE Repeater/Extender"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE Injector/Midspan"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Popular IEEE 802.3af, IEEE 802.3at, IEEE 802.3bt standards are carried, those affordable units are suitable different Ethernet-defined projects and eliminate complex installation."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Meanwhile we have"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Power booster/step-up and passive PoE models"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Commercial and industrial 802.3bt switches"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Its ideal to include all those PoE-related devices to build a PoE package for your network systems."
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Application"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Last-mile Ethernet transmission solution"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Small area PoE-related cabling"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"12V/24V/48V powered network system"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Name Rule"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"ST=Saga Telecom"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"C=Commercial grade"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"I=Industrial grade"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PI=PoE Injector"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PS=PoE Splitter"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PE=PoE Extender"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"G=Gigabit"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DG=2.5 Gigabit"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"XG=10 Gigabit"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"30W/60W/90W=Budget"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"12V/24V/48V=Voltage"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is ONLY about some general rules about our nomenclature."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"There will be some special naming in each category to indicate the features."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is advised to read specific product description for more information."
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Diagram"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Ordering Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Commercial PoE Splitter"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Commecial PoE Extender"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Commercial PoE Injector"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Industrial PoE Splitter"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Industrial PoE Extender"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Commercial PoE Injector"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IP67 Series"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Special Models=主要是UniPoE以及其他供应商的特别型号，800米延长"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"Commercial PoE Splitter"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"Description",
+"Unit Price"
+],
+[
+"STC-024FP-24V",
+"2*10/100M RJ45+4*10/100M PoE af/at RJ45 / 65W, Passive PoE, AC100V~240V input, with rack-mount brackets",
+"14usd/pc"
+],
+[
+"STC-014GP-24V",
+"1*10/100/1000M RJ45+4*10/100/1000M PoE af/at RJ45 / 65W, Passive PoE, AC100V~240V input, with rack-mount brackets",
+"20usd/pc"
+],
+[
+"STC-028FP-24V",
+"2*10/100M RJ45+8*10/100M PoE af/at RJ45 / 120W, Passive PoE, AC100V~240V input, with rack-mount brackets",
+"20usd/pc"
+],
+[
+"STC-028GP-24V",
+"2*10/100/1000M RJ45+8*10/100/1000M PoE af/at RJ45 / 120W, Passive PoE, AC100V~240V input, with rack-mount brackets",
+"31usd/pc"
+],
+[
+"STC-1116CGFP-24V",
+"1*1G SFP/RJ45(Combo)+1*10/100/1000M RJ45+16*10/100/1000M PoE af/at RJ45 / 150W, Passive PoE, AC100V~240V input, with rack-mount brackets",
+"51usd/pc"
+],
+[
+"STC-2216GP-24V",
+"2*1G SFP+2*10/100/1000M RJ45+16*10/100/1000M PoE af/at RJ45 / 300W, Passive PoE, AC100V~240V input, with rack-mount brackets",
+"84usd/pc"
+],
+[
+"STC-2224GP-24V",
+"2*1G SFP+2*10/100/1000M RJ45+24*10/100/1000M PoE af/at RJ45 / 300W, Passive PoE, AC100V~240V input, with rack-mount brackets",
+"92usd/pc"
+],
+[
+"STC-0224GFP-24V",
+"2**10/100/1000M RJ45+24*10/100M PoE af/at RJ45 / 300W, Passive PoE, AC100V~240V input, with rack-mount brackets",
+"84usd/pc"
+],
+[
+"STC-2024GP-24V",
+"2*1G SFP+24*10/100/1000M PoE af/at RJ45 / 300W, Passive PoE, AC100V~240V input, with rack-mount brackets",
+"90usd/pc"
+],
+[
+"Power cord is included in both the packing box and unit pricing. / SFP transceiver is NOT included in both the packing box and unit pricing. / Those models are FREQUENTLY asked and ordered, there are some more similar models available. / Please let us know if you need any customized model."
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"Commecial PoE Extender"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"Commercial PoE Injector"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"Industrial PoE Splitter"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"Industrial PoE Extender"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"Industrial PoE Injector"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"IP67 Series"
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"Special Models"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"FAQ"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Leadtime"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Production time is usually 5~7 working days for standard(non-customized) models (no more than 50pcs)."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipping time is usually 4~7 days by air"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"In total, it takes 10~15 days for a client to receive the order."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We will send the goods by air(DHL, UPS or FEDEX) or by sea(for bulk order)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to ship purchased items via customer’s shipping account or forwarder."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MOQ"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1 Pc/Pair(It is NOT free, Saga Telecom do NOT do FREE SAMPLES)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to have sample testing before bulk order, but 1 Pc/Pair is ONLY about sample testing."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"When testing proves fine, MOQ is 20pcs(discussion is required if it is about smaller quantity)."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Warranty"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1 year for commercial models(STC series) and 3 years for industrial models(STI series)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please kindly refer to the “Warranty Policy” for more information."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Technical assistance is always available"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Payment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"T/T transfer and PayPal, FULL AMOUNT BEFORE SHIPMENT."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to pay 50% first and another 50% before shipment for bulk order."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to be paid via customer’s forwarder(this is usually about RMB payment)."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Transaction cost"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is standard charge 25usd for EACH T/T transfer whatever the invoice value is."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is 5usd for every 100usd to PayPal a/c, this ratio is standard charge by PayPal"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"RMA"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please contact us ASAP once there is any problem(package or usage)with the supplied products."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For every 100pcs, there will be 2 extra free units(2% RMA) against immediate warranty coverage."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This rule stands for all Saga Telecom models and even there is not an after-sales issue."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If it is about missing/faulty parts in the packing box."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please simply use the extra units for the replacement and let us know this problem(we will improve)."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If it is about usage problem."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom will provide technical support and send new units when necessary."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OEM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Supported, but discussion is required if it is about complex requirements."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Below are usual OEM services available."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Show client’s logo/model on the device/label/management interface..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Use client’s packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Design client’s product PVC sticker"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Customize some parts of a model like rear panel/power input terminal block..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that there might be extra cost for OEM services."
+}
+],
+"extracted_at":"2026-10-23T05:20:34Z"
+}

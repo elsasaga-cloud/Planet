@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆1_1_8_上下结构__2.png__ec313bf7",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/千兆1+1+8 上下结构/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":1432551,
+"sha256":"ec313bf7f9c82f8c355f7400c4d87edcb50b9cb276bf76e55c94256e7b3ad50b",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":2514,
+"height":995,
+"mode":"RGBA",
+"thumb_bytes":5916
+},
+"warnings":[],
+"chars":41,
+"text":"Gigabit PoE Fiber Switch\n8GE PoE+1GE+1SFF",
+"extracted_at":"2026-10-23T05:23:56Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆1_1_8_上下结构__2.png__ec313bf7.jpg"
+}

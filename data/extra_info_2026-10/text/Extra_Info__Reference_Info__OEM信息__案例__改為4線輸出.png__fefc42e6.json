@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Reference_Info__OEM信息__案例__改為4線輸出.png__fefc42e6",
+"path":"Extra_Info/Reference Info/OEM信息/案例/改為4線輸出.png",
+"name":"改為4線輸出.png",
+"ext":".png",
+"bytes":926579,
+"sha256":"fefc42e6e2b861d3793dd33d4ad7cfac567d944993ed110a28d1799cc35986aa",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":1512,
+"height":2016,
+"mode":"RGBA",
+"thumb_bytes":14139
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:20:09Z",
+"thumb":"thumbs/Extra_Info__Reference_Info__OEM信息__案例__改為4線輸出.png__fefc42e6.jpg"
+}

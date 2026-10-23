@@ -1,0 +1,643 @@
+{
+"id":"Extra_Info__Reference_Info__UniPoE__DS__L2_Managed_Switch__PM6030GSM_V1_PM9030GSM_V1-CN.doc__468abf22",
+"path":"Extra_Info/Reference Info/UniPoE/DS/L2 Managed Switch/PM6030GSM V1&PM9030GSM V1-CN.doc",
+"name":"PM6030GSM V1&PM9030GSM V1-CN.doc",
+"ext":".doc",
+"bytes":1014272,
+"sha256":"468abf22e4bee46ff10653cef979a9461af0deff70625b62eeebcf8dffb65382",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:19:08+00:00",
+"paragraphs":17,
+"tables":3,
+"embedded_images":6
+},
+"warnings":[],
+"chars":3527,
+"text":"产品概述\nPM6030GSM V1/PM9030GSM V1是全千兆二层网管PoE交换机，具有24个全千兆的RJ45端口，2个千兆Combo端口和2个独立千兆SFP光纤模块扩展插槽。24个RJ45端口全部支持PoE供电(其中1-8支持IEEE802.3bt标准)，最大供电功率达480W。支持静态路由功能，提供完备的安全策略、完善的QoS策略以及丰富的VLAN功能，易于管理维护，可广泛应用在弱电新建和改造场景，满足监控、门禁、信息发布、停车场、DDC等系统中大功率终端供电需求的场景。\n产品特点\n符合IEEE802.3, IEEE802.3u, IEEE802.3ab, IEEE802.3z, IEEE802.3x，IEEE802.3af, IEEE802.3at, IEEE802.3bt标准。\nRJ45支持端口自动翻转（Auto MDI/MDIX）。\n端口1-8支持IEEE802.3bt标准,最大输出90W，端口9-24支持IEEE802.3at标准，每个端口最大输出32W，PoE总功率480W。\n数据传输及供电距离保证100米。\n支持IEEE802.3x 全双工流控和Backpressure 半双工流控。\n面板指示灯监视工作状态及帮助故障分析。\n完善的安全机制 。\n高可靠性设计，支持传统的STP/RSTP二层链路保护技术；支持手工汇聚和动态汇聚两种汇聚模式，有效增加链路带宽，提高链路的可靠性，同时可以实现负载均衡、链路备份。\n灵活方便的管理维护  支持Console、Telnet、SSH等多种管理方式。   支持WEB方式管理，更简单高效，便于工程及维护人员的安装调试。 支持TFTP方式的文件上传与下载管理。\n支持PoE掉线自连功能（交换机PoE端口掉线自动进行连接）。\n产品规格\n硬件功能\n产品名\tPM6030GSM V1\tPM9030GSM V1\n标准\tIEEE 802.3、IEEE 802.3u、IEEE 802.3ab、IEEE 802.3z、IEEE 802.3x、IEEE 802.1X、IEEE 802.1q 、IEEE 802.1p、IEEE 802.1d 、IEEE 802.1w、IEEE 802.3ad、IEEE802.3af、IEEE802.3at、 IEEE802.3bt\n接口\t24*10/100/1000Mbps RJ45端口 / 2个千兆Combo端口 / 2个独立千兆SFP光纤模块扩展插槽 / 1个Console口\n指示灯\tPWR、 LNK/ACT、PoE、SYS\n网络介质（线缆）\t10BASE-T：  Cat 3、4、5非屏蔽类双绞线（≤100m） / 100BASE-TX：Cat 5及以上非屏蔽类双绞线（≤100m） / 100BASE-TX：Cat 5及以上非屏蔽类双绞线（≤100m）\n1000BASE-X: MMF, SMF\nMAC地址表\t8K，自动学习，自动更新\n巨型帧\t9216Bytes\n传输模式\t存储转发\n包转发率\t41.66Mpps\n交换容量\t56Gbps\n包缓存\t4.1M\n尺寸(L*W*H)\t440*207*45mm\n风扇\t2个静音风扇\nPoE端口\tPort1~24（其中1-8口支持IEEE802.3bt）\nPoE供电线对\t1-8口支持Mode A  1/2（-），3/6（+）跟 Mode B  4/5（+），7/8（-） / 9-24口支持 Mode A  1/2（-），3/6（+）\nPoE端口输出\t电压：55V DC  1-8单口功率90W（Max） / 9-24单口功率：32W（Max）\nPoE总功率\t480W\n电源\t500W\n电源输入\t100~240V AC， 50/60Hz\n工作温度\t0°C ~ 40 °C\n存储温度\t-40 °C ~ 70 °C\n工作湿度\t10% ~ 90% 无凝结\n存储湿度\t5% ~ 90% 无凝结\n防雷等级\t共模±6KV，差模±4KV；\n平均故障间隔时间\t>50000小时\n静电标准\t接触6KV，空气8KV\n绿色节能\tSupport IEEE（802.3az）\n软件功能\n生成树\tIEEE  802.1D -STP\n生成树\tIEEE  802.1w -RSTP\n生成树\tIEEE  802.1s -MSTP\n生成树\tBPDU Guard\n生成树\tSTP Root Guard\n生成树\t环路检测\nVLAN\t管理VLAN\nVLAN\t私有 VLAN\nVLAN\t语音VLAN\nVLAN\t监视VLAN\nVLAN\tQ-in-Q\nVLAN\t基于协议的VLAN\nVLAN\t基于MAC的VLAN\n端口\tLACP\n端口\tStatic\n端口\tEEE\n端口\tJumbo Frame\n端口\tError-Disable\n组播\tIGMP  Snooping v1/v2/v3\n组播\tMLD Snooping v1/v2\n组播\tMVR\nL3\t静态路由\nL3\t静态ARP\nL3\tDHCP服务器\nQos功能\t硬件队列\nQos功能\tClass Of Service\t基于端口\nQos功能\tClass Of Service\t802.1p\nQos功能\tClass Of Service\tCoS\nQos功能\tClass Of Service\tDSCP\nQos功能\tClass Of Service\tIP 优先级\nQos功能\tClass Of Service\tTCP/UDP (IPv4/IPv6)\nQos功能\t带宽\t输入\nQos功能\t带宽\t输出\nQos功能\t优先级算法\tWRR\nQos功能\t优先级算法\t绝对优先级\nQos功能\t优先级算法\tDSCP & CS\nQos功能\tIPv4 QoS (QCEs)\nQos功能\tIPv6 QoS (QCEs)\n安全\t端口安全\n安全\t端口隔离\n安全\tIEEE802.1x AAA\n安全\tACLs\tL2+/L3/L4\n安全\tACLs\tIPv6 ACL\n安全\tACLs\t\n安全\tManagement ACL/Management ACE\n安全\tIP源保护（IP -MAC-端口-VALN绑定）\n安全\tIP源保护（IP MAC端口绑定）\n安全\t动态ARP防护\n安全\t广播风暴\n安全\tRADIUS/TACACS+\n安全\tRADIUS 身份验证 (RFC2138)\n安全\t防DDoS攻击\n安全\tHTTPs 和 SSL\n安全\tSSH v1.5/v2.0\n安全\tDHCP 监听\n安全\tDHCP中继\n管理\tSNMP (v1, v2c, v3)\n管理\tRMON ( 1,2,3 & 9 组)\n管理\t固件升级\n管理\t配置导出/导入\n管理\tDHCP\t客户端\n管理\tDHCP\tOption 82\n管理\tDHCP\tOption 66\n管理\tDHCP\tOption 67\n管理\t事件/错误日志\t系统日志\n管理\t管理访问控制\t串口\n管理\t管理访问控制\tSNMP\n管理\t管理访问控制\tHTTP/HTTPS\n管理\t管理访问控制\tTelnet\n管理\t端口镜像\n管理\tLLDP (IEEE802.1AB)\n管理\tLLDP-MED\n管理\tUDLD\n管理\tDNS Client\n管理\tTraceroute\n管理\tPing\n管理\t线缆检测\n管理\tDDMI\n管理\tNTP/ SNTP (RFC2030)\nIPv6\tIPv6/IPv4\nIPv6\tIPv6 Web/SSL\nIPv6\tIPv6 SNTP\nIPv6\tIPv6 Telnet/SSH\nIPv6\tIPv6 Ping/Traceroute\nIPv6\tIPv6 TFTP\nIPv6\tIPv6 RADIUS/TACACS+\nIPv6\tIPv6 SNMP\nPoE 管理\t端口配置\nPoE 管理\tPD Alive\nPoE 管理\tPoE Delay\nPoE 管理\tPoE Schedule\nONVIF\tONVIF探测\nONVIF\tONVIF Server(NLM)\n订购信息\n产品名\t产品信息\nPM6030GSM V1\t24GE（PoE）+2G Combo+2G SFP+1Console  全千兆管理型高功率PoE交换机（24口PoE，1-8口支持802.3af/at/bt，9-16口支持802.3af/at标准）\nPM9030GSM V1\t24GE（PoE）+2G Combo+2G SFP+1Console  全千兆管理型高功率PoE交换机（24口PoE，1-8口支持802.3af/at/bt，9-16口支持802.3af/at标准）\n[文本框]\nPM6030GSM V1/PM9030GSM V1管理型高功率PoE交换机",
+"blocks":[
+{
+"t":"p",
+"s":"cn1",
+"text":"产品概述"
+},
+{
+"t":"p",
+"s":"cn1",
+"text":"PM6030GSM V1/PM9030GSM V1是全千兆二层网管PoE交换机，具有24个全千兆的RJ45端口，2个千兆Combo端口和2个独立千兆SFP光纤模块扩展插槽。24个RJ45端口全部支持PoE供电(其中1-8支持IEEE802.3bt标准)，最大供电功率达480W。支持静态路由功能，提供完备的安全策略、完善的QoS策略以及丰富的VLAN功能，易于管理维护，可广泛应用在弱电新建和改造场景，满足监控、门禁、信息发布、停车场、DDC等系统中大功率终端供电需求的场景。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"产品特点"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"符合IEEE802.3, IEEE802.3u, IEEE802.3ab, IEEE802.3z, IEEE802.3x，IEEE802.3af, IEEE802.3at, IEEE802.3bt标准。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"RJ45支持端口自动翻转（Auto MDI/MDIX）。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"端口1-8支持IEEE802.3bt标准,最大输出90W，端口9-24支持IEEE802.3at标准，每个端口最大输出32W，PoE总功率480W。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"数据传输及供电距离保证100米。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"支持IEEE802.3x 全双工流控和Backpressure 半双工流控。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"面板指示灯监视工作状态及帮助故障分析。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"完善的安全机制 。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"高可靠性设计，支持传统的STP/RSTP二层链路保护技术；支持手工汇聚和动态汇聚两种汇聚模式，有效增加链路带宽，提高链路的可靠性，同时可以实现负载均衡、链路备份。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"灵活方便的管理维护  支持Console、Telnet、SSH等多种管理方式。   支持WEB方式管理，更简单高效，便于工程及维护人员的安装调试。 支持TFTP方式的文件上传与下载管理。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"支持PoE掉线自连功能（交换机PoE端口掉线自动进行连接）。"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"产品规格"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"硬件功能"
+},
+{
+"t":"table",
+"rows":[
+[
+"产品名",
+"PM6030GSM V1",
+"PM9030GSM V1"
+],
+[
+"标准",
+"IEEE 802.3、IEEE 802.3u、IEEE 802.3ab、IEEE 802.3z、IEEE 802.3x、IEEE 802.1X、IEEE 802.1q 、IEEE 802.1p、IEEE 802.1d 、IEEE 802.1w、IEEE 802.3ad、IEEE802.3af、IEEE802.3at、 IEEE802.3bt"
+],
+[
+"接口",
+"24*10/100/1000Mbps RJ45端口 / 2个千兆Combo端口 / 2个独立千兆SFP光纤模块扩展插槽 / 1个Console口"
+],
+[
+"指示灯",
+"PWR、 LNK/ACT、PoE、SYS"
+],
+[
+"网络介质（线缆）",
+"10BASE-T：  Cat 3、4、5非屏蔽类双绞线（≤100m） / 100BASE-TX：Cat 5及以上非屏蔽类双绞线（≤100m） / 100BASE-TX：Cat 5及以上非屏蔽类双绞线（≤100m）\n1000BASE-X: MMF, SMF"
+],
+[
+"MAC地址表",
+"8K，自动学习，自动更新"
+],
+[
+"巨型帧",
+"9216Bytes"
+],
+[
+"传输模式",
+"存储转发"
+],
+[
+"包转发率",
+"41.66Mpps"
+],
+[
+"交换容量",
+"56Gbps"
+],
+[
+"包缓存",
+"4.1M"
+],
+[
+"尺寸(L*W*H)",
+"440*207*45mm"
+],
+[
+"风扇",
+"2个静音风扇"
+],
+[
+"PoE端口",
+"Port1~24（其中1-8口支持IEEE802.3bt）"
+],
+[
+"PoE供电线对",
+"1-8口支持Mode A  1/2（-），3/6（+）跟 Mode B  4/5（+），7/8（-） / 9-24口支持 Mode A  1/2（-），3/6（+）"
+],
+[
+"PoE端口输出",
+"电压：55V DC  1-8单口功率90W（Max） / 9-24单口功率：32W（Max）"
+],
+[
+"PoE总功率",
+"480W"
+],
+[
+"电源",
+"500W"
+],
+[
+"电源输入",
+"100~240V AC， 50/60Hz"
+],
+[
+"工作温度",
+"0°C ~ 40 °C"
+],
+[
+"存储温度",
+"-40 °C ~ 70 °C"
+],
+[
+"工作湿度",
+"10% ~ 90% 无凝结"
+],
+[
+"存储湿度",
+"5% ~ 90% 无凝结"
+],
+[
+"防雷等级",
+"共模±6KV，差模±4KV；"
+],
+[
+"平均故障间隔时间",
+">50000小时"
+],
+[
+"静电标准",
+"接触6KV，空气8KV"
+],
+[
+"绿色节能",
+"Support IEEE（802.3az）"
+]
+]
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"软件功能"
+},
+{
+"t":"table",
+"rows":[
+[
+"生成树",
+"IEEE  802.1D -STP"
+],
+[
+"生成树",
+"IEEE  802.1w -RSTP"
+],
+[
+"生成树",
+"IEEE  802.1s -MSTP"
+],
+[
+"生成树",
+"BPDU Guard"
+],
+[
+"生成树",
+"STP Root Guard"
+],
+[
+"生成树",
+"环路检测"
+],
+[
+"VLAN",
+"管理VLAN"
+],
+[
+"VLAN",
+"私有 VLAN"
+],
+[
+"VLAN",
+"语音VLAN"
+],
+[
+"VLAN",
+"监视VLAN"
+],
+[
+"VLAN",
+"Q-in-Q"
+],
+[
+"VLAN",
+"基于协议的VLAN"
+],
+[
+"VLAN",
+"基于MAC的VLAN"
+],
+[
+"端口",
+"LACP"
+],
+[
+"端口",
+"Static"
+],
+[
+"端口",
+"EEE"
+],
+[
+"端口",
+"Jumbo Frame"
+],
+[
+"端口",
+"Error-Disable"
+],
+[
+"组播",
+"IGMP  Snooping v1/v2/v3"
+],
+[
+"组播",
+"MLD Snooping v1/v2"
+],
+[
+"组播",
+"MVR"
+],
+[
+"L3",
+"静态路由"
+],
+[
+"L3",
+"静态ARP"
+],
+[
+"L3",
+"DHCP服务器"
+],
+[
+"Qos功能",
+"硬件队列"
+],
+[
+"Qos功能",
+"Class Of Service",
+"基于端口"
+],
+[
+"Qos功能",
+"Class Of Service",
+"802.1p"
+],
+[
+"Qos功能",
+"Class Of Service",
+"CoS"
+],
+[
+"Qos功能",
+"Class Of Service",
+"DSCP"
+],
+[
+"Qos功能",
+"Class Of Service",
+"IP 优先级"
+],
+[
+"Qos功能",
+"Class Of Service",
+"TCP/UDP (IPv4/IPv6)"
+],
+[
+"Qos功能",
+"带宽",
+"输入"
+],
+[
+"Qos功能",
+"带宽",
+"输出"
+],
+[
+"Qos功能",
+"优先级算法",
+"WRR"
+],
+[
+"Qos功能",
+"优先级算法",
+"绝对优先级"
+],
+[
+"Qos功能",
+"优先级算法",
+"DSCP & CS"
+],
+[
+"Qos功能",
+"IPv4 QoS (QCEs)"
+],
+[
+"Qos功能",
+"IPv6 QoS (QCEs)"
+],
+[
+"安全",
+"端口安全"
+],
+[
+"安全",
+"端口隔离"
+],
+[
+"安全",
+"IEEE802.1x AAA"
+],
+[
+"安全",
+"ACLs",
+"L2+/L3/L4"
+],
+[
+"安全",
+"ACLs",
+"IPv6 ACL"
+],
+[
+"安全",
+"ACLs",
+""
+],
+[
+"安全",
+"Management ACL/Management ACE"
+],
+[
+"安全",
+"IP源保护（IP -MAC-端口-VALN绑定）"
+],
+[
+"安全",
+"IP源保护（IP MAC端口绑定）"
+],
+[
+"安全",
+"动态ARP防护"
+],
+[
+"安全",
+"广播风暴"
+],
+[
+"安全",
+"RADIUS/TACACS+"
+],
+[
+"安全",
+"RADIUS 身份验证 (RFC2138)"
+],
+[
+"安全",
+"防DDoS攻击"
+],
+[
+"安全",
+"HTTPs 和 SSL"
+],
+[
+"安全",
+"SSH v1.5/v2.0"
+],
+[
+"安全",
+"DHCP 监听"
+],
+[
+"安全",
+"DHCP中继"
+],
+[
+"管理",
+"SNMP (v1, v2c, v3)"
+],
+[
+"管理",
+"RMON ( 1,2,3 & 9 组)"
+],
+[
+"管理",
+"固件升级"
+],
+[
+"管理",
+"配置导出/导入"
+],
+[
+"管理",
+"DHCP",
+"客户端"
+],
+[
+"管理",
+"DHCP",
+"Option 82"
+],
+[
+"管理",
+"DHCP",
+"Option 66"
+],
+[
+"管理",
+"DHCP",
+"Option 67"
+],
+[
+"管理",
+"事件/错误日志",
+"系统日志"
+],
+[
+"管理",
+"管理访问控制",
+"串口"
+],
+[
+"管理",
+"管理访问控制",
+"SNMP"
+],
+[
+"管理",
+"管理访问控制",
+"HTTP/HTTPS"
+],
+[
+"管理",
+"管理访问控制",
+"Telnet"
+],
+[
+"管理",
+"端口镜像"
+],
+[
+"管理",
+"LLDP (IEEE802.1AB)"
+],
+[
+"管理",
+"LLDP-MED"
+],
+[
+"管理",
+"UDLD"
+],
+[
+"管理",
+"DNS Client"
+],
+[
+"管理",
+"Traceroute"
+],
+[
+"管理",
+"Ping"
+],
+[
+"管理",
+"线缆检测"
+],
+[
+"管理",
+"DDMI"
+],
+[
+"管理",
+"NTP/ SNTP (RFC2030)"
+],
+[
+"IPv6",
+"IPv6/IPv4"
+],
+[
+"IPv6",
+"IPv6 Web/SSL"
+],
+[
+"IPv6",
+"IPv6 SNTP"
+],
+[
+"IPv6",
+"IPv6 Telnet/SSH"
+],
+[
+"IPv6",
+"IPv6 Ping/Traceroute"
+],
+[
+"IPv6",
+"IPv6 TFTP"
+],
+[
+"IPv6",
+"IPv6 RADIUS/TACACS+"
+],
+[
+"IPv6",
+"IPv6 SNMP"
+],
+[
+"PoE 管理",
+"端口配置"
+],
+[
+"PoE 管理",
+"PD Alive"
+],
+[
+"PoE 管理",
+"PoE Delay"
+],
+[
+"PoE 管理",
+"PoE Schedule"
+],
+[
+"ONVIF",
+"ONVIF探测"
+],
+[
+"ONVIF",
+"ONVIF Server(NLM)"
+]
+]
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"订购信息"
+},
+{
+"t":"table",
+"rows":[
+[
+"产品名",
+"产品信息"
+],
+[
+"PM6030GSM V1",
+"24GE（PoE）+2G Combo+2G SFP+1Console  全千兆管理型高功率PoE交换机（24口PoE，1-8口支持802.3af/at/bt，9-16口支持802.3af/at标准）"
+],
+[
+"PM9030GSM V1",
+"24GE（PoE）+2G Combo+2G SFP+1Console  全千兆管理型高功率PoE交换机（24口PoE，1-8口支持802.3af/at/bt，9-16口支持802.3af/at标准）"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:19:08Z"
+}

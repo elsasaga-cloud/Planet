@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Reference_Info__OEM信息__7.png__3e84d0bc",
+"path":"Extra_Info/Reference Info/OEM信息/7.png",
+"name":"7.png",
+"ext":".png",
+"bytes":611422,
+"sha256":"3e84d0bc2bac5585dd396819dfbc2b31a1079115b3f3f89b2b0f088bbc58a93f",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":572,
+"height":710,
+"mode":"RGBA",
+"thumb_bytes":17779
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:19:49Z",
+"thumb":"thumbs/Extra_Info__Reference_Info__OEM信息__7.png__3e84d0bc.jpg"
+}

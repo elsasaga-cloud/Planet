@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆2光16__1.png__5f3f35c2",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/千兆2光16/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":1009354,
+"sha256":"5f3f35c20c939887ca66eb8baeab4ccce62436ccc8a6980923c0e6b92a9aa5c9",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":3284,
+"height":504,
+"mode":"RGBA",
+"thumb_bytes":3433
+},
+"warnings":[],
+"chars":100,
+"text":"Gigabit PoE Switch\nUnmanaged 16GE PoE+2SFP\nVAN ee\nNOM Il CENK | ee\n2 4 6 8 10 12 14 16 17-SFP 18-SFP",
+"extracted_at":"2026-10-23T05:23:27Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆2光16__1.png__5f3f35c2.jpg"
+}

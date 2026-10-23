@@ -1,0 +1,241 @@
+{
+"id":"Extra_Info__Template__Alan_13048800964__Quotation.xlsx__acbcbc1c",
+"path":"Extra_Info/Template/Alan 13048800964/Quotation.xlsx",
+"name":"Quotation.xlsx",
+"ext":".xlsx",
+"bytes":1171415,
+"sha256":"acbcbc1cd6f8e1cdafb568094a6530de292f6bb3a1174d1cd5329e876313c988",
+"source":"Extra_Info.zip",
+"method":"openpyxl(values)",
+"status":"ok",
+"meta":{
+"sheets":[
+"Quotation"
+],
+"embedded_images":3,
+"rows_total":49
+},
+"warnings":[],
+"chars":3474,
+"text":"--- Sheet: Quotation ---\nSaga Telecom\nAn Engineering & Supply-Chain-First Telecom Partner\nBuilt to Last, Continuous Supply, Evolving Together\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 13048800964                                                       www.sagatele.com                              Email: a.sagatelecom@gmail.com\n**********************************************************************************************************************\nQuotation\nBuyer:\tiTM Systems\t\tSeller:\tSaga Telecom\nContact Person:\tSteve\t\tQuotation No.\tSTA-20260323-001\nTel:\t44 01733 567259\t\tQuoted By:\tAlan\nEmail:\tinfo@itmsystems.net\t\tDate:\t23rd, Mar, 2026\nShipping Address:\tBroadway Court, PE1 1RP, Peterborough, United Kingdom\nIncoterm: DAP\nDefinition\tIncluding origin export clearance and international freight\nExcluding destination customs clearance and import duties\nIncluding on-carriage delivery to the shipping address after customs release\nModel\tSpecification\t\t\tQuantity \n(UNIT)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSeller\nSTH-32QC-HSI\n\nBuyer\n#\t400GB Data Center Core Switch\n\n32*400G QSFP112, L3 Managed Ethernet Switch\nMain Software Features: \nVXLAN/EVPN/BGP/OSPF/MLAG/IPV6\nPower Supply: 2*CRPS 1300WAC input\nFan Module: 6*Hot-swappable modules\nAIR-Flow: Front-to-Back\nLicense: Pre-installed MS\nPlatform: SerdesX\t\t\t6\t16000\t96000\tCENTEC\nCHIP\n\tHS Code\t8517622990\n\tPacking Information\tProduct Size: 442*494*44mm\nPackage Size: 665*565*150mm\nNet Weight: 8.9Kg\nGross Weight: 14Kg\n400G-SR4\t400GB Optical Module\n\n400Gb/s, 850nm, MPO-12, up to 100m over OM4 MMF\t\t\t36\t300\t10800\nAdditional\nRequirements\t1. Put customer logo on WEB UI\n2. Put customer model name on WEB UI and label\nFreight Cost\t850USD for about 85Kg volume weight to UK by DHL\nAir, door-to-door service\n\nIncluding Insurance\nCompensation=cargo damage amount - DHL/FedEx/UPS standard compensation amount(USD100) - absolute deductible(USD200 or 5% of cargo damage, whichever is greater)\t\t\t\t\t850\nShipment Time\t5~7 calendar days to local customs for clearance\nBank Cost\tStandard Charge for EACH Order\t\t\t\t\t25\nTOTAL\t\t\t\t42\t\t107675\nSAY TOTAL: USD ONE HUNDRED AND SEVEN THOUSAND SIX HUNDRED AND SEVENTY-FIVE ONLY\nAbout Import\nPlease do make sure client side could handle import customs clearance\nIf there is any problem with the shipment or clearance\n1, please let us know ASAP\n2, please call DHL/FedEx/UPS official number for information\nBusiness Term\n1. Price validity: 15 days\nAll prices are quoted in US Dollars (USD), excluding other currencies\nSaga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply\n2. Payment term\tSample: Full Payment by PayPal or T/T Wire\n\tBatch: Full Payment by T/T Wire\n\tBulk: 50% T/T Wire in advance and 50% BEFORE shipment\n3. MoQ: 1 piece\nSample: available\nLabel: customizable\nPartial shipment: negotiable\n4. Non-brand packing, without Chinese letters or logo\nNeutral device\n5. Country of origin: China\nCertificate of Origin is available upon request, please inform us BEFORE shipment if required\n6. Production time: 12~15 weeks (Excluding shipping time)\n7. Warranty: 1 year, lifetime technical support\nPurchased items are deemed accepted upon initial inspection if no written notice of defects is received within two (2) months from the delivery date\nThis acceptance clause shall not affect the validity of the warranty period\nPlease refer to \"warranty policy\" for more information",
+"sheets":{
+"Quotation":{
+"state":"visible",
+"rows":[
+[
+"Saga Telecom"
+],
+[
+"An Engineering & Supply-Chain-First Telecom Partner"
+],
+[
+"Built to Last, Continuous Supply, Evolving Together"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 13048800964                                                       www.sagatele.com                              Email: a.sagatelecom@gmail.com"
+],
+[
+"**********************************************************************************************************************"
+],
+[
+"Quotation"
+],
+[
+"Buyer:",
+"iTM Systems",
+"",
+"Seller:",
+"Saga Telecom"
+],
+[
+"Contact Person:",
+"Steve",
+"",
+"Quotation No.",
+"STA-20260323-001"
+],
+[
+"Tel:",
+"44 01733 567259",
+"",
+"Quoted By:",
+"Alan"
+],
+[
+"Email:",
+"info@itmsystems.net",
+"",
+"Date:",
+"23rd, Mar, 2026"
+],
+[
+"Shipping Address:",
+"Broadway Court, PE1 1RP, Peterborough, United Kingdom"
+],
+[
+"Incoterm: DAP\nDefinition",
+"Including origin export clearance and international freight\nExcluding destination customs clearance and import duties\nIncluding on-carriage delivery to the shipping address after customs release"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(UNIT)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"Seller\nSTH-32QC-HSI\n\nBuyer\n#",
+"400GB Data Center Core Switch\n\n32*400G QSFP112, L3 Managed Ethernet Switch\nMain Software Features: \nVXLAN/EVPN/BGP/OSPF/MLAG/IPV6\nPower Supply: 2*CRPS 1300WAC input\nFan Module: 6*Hot-swappable modules\nAIR-Flow: Front-to-Back\nLicense: Pre-installed MS\nPlatform: SerdesX",
+"",
+"",
+"6",
+"16000",
+"96000",
+"CENTEC\nCHIP"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Product Size: 442*494*44mm\nPackage Size: 665*565*150mm\nNet Weight: 8.9Kg\nGross Weight: 14Kg"
+],
+[
+"400G-SR4",
+"400GB Optical Module\n\n400Gb/s, 850nm, MPO-12, up to 100m over OM4 MMF",
+"",
+"",
+"36",
+"300",
+"10800"
+],
+[
+"Additional\nRequirements",
+"1. Put customer logo on WEB UI\n2. Put customer model name on WEB UI and label"
+],
+[
+"Freight Cost",
+"850USD for about 85Kg volume weight to UK by DHL\nAir, door-to-door service\n\nIncluding Insurance\nCompensation=cargo damage amount - DHL/FedEx/UPS standard compensation amount(USD100) - absolute deductible(USD200 or 5% of cargo damage, whichever is greater)",
+"",
+"",
+"",
+"",
+"850"
+],
+[
+"Shipment Time",
+"5~7 calendar days to local customs for clearance"
+],
+[
+"Bank Cost",
+"Standard Charge for EACH Order",
+"",
+"",
+"",
+"",
+"25"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"42",
+"",
+"107675"
+],
+[
+"SAY TOTAL: USD ONE HUNDRED AND SEVEN THOUSAND SIX HUNDRED AND SEVENTY-FIVE ONLY"
+],
+[
+"About Import"
+],
+[
+"Please do make sure client side could handle import customs clearance"
+],
+[
+"If there is any problem with the shipment or clearance"
+],
+[
+"1, please let us know ASAP"
+],
+[
+"2, please call DHL/FedEx/UPS official number for information"
+],
+[
+"Business Term"
+],
+[
+"1. Price validity: 15 days"
+],
+[
+"All prices are quoted in US Dollars (USD), excluding other currencies"
+],
+[
+"Saga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply"
+],
+[
+"2. Payment term",
+"Sample: Full Payment by PayPal or T/T Wire"
+],
+[
+"",
+"Batch: Full Payment by T/T Wire"
+],
+[
+"",
+"Bulk: 50% T/T Wire in advance and 50% BEFORE shipment"
+],
+[
+"3. MoQ: 1 piece"
+],
+[
+"Sample: available"
+],
+[
+"Label: customizable"
+],
+[
+"Partial shipment: negotiable"
+],
+[
+"4. Non-brand packing, without Chinese letters or logo"
+],
+[
+"Neutral device"
+],
+[
+"5. Country of origin: China"
+],
+[
+"Certificate of Origin is available upon request, please inform us BEFORE shipment if required"
+],
+[
+"6. Production time: 12~15 weeks (Excluding shipping time)"
+],
+[
+"7. Warranty: 1 year, lifetime technical support"
+],
+[
+"Purchased items are deemed accepted upon initial inspection if no written notice of defects is received within two (2) months from the delivery date"
+],
+[
+"This acceptance clause shall not affect the validity of the warranty period"
+],
+[
+"Please refer to \"warranty policy\" for more information"
+]
+]
+}
+},
+"extracted_at":"2026-10-23T05:20:27Z"
+}

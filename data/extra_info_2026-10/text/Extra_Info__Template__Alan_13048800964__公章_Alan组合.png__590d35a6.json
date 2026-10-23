@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Template__Alan_13048800964__公章_Alan组合.png__590d35a6",
+"path":"Extra_Info/Template/Alan 13048800964/公章 Alan组合.png",
+"name":"公章 Alan组合.png",
+"ext":".png",
+"bytes":299885,
+"sha256":"590d35a67c977e9907e8a89a105f676904052484a915464d1b87c505606901c9",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":695,
+"height":432,
+"mode":"RGBA",
+"thumb_bytes":19966
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:20:27Z",
+"thumb":"thumbs/Extra_Info__Template__Alan_13048800964__公章_Alan组合.png__590d35a6.jpg"
+}

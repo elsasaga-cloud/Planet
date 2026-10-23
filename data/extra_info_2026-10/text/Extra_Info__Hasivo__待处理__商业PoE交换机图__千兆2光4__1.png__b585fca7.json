@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆2光4__1.png__b585fca7",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/千兆2光4/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":2667052,
+"sha256":"b585fca77f4ae24487c31b8ac5a27c9079fc7b2771bc8551d2a4486d2cd19190",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":3524,
+"height":818,
+"mode":"RGBA",
+"thumb_bytes":3394
+},
+"warnings":[],
+"chars":45,
+"text":"Gigabit Fiber PoE Switch\ni wi) s 4GE PoE+2SFP",
+"extracted_at":"2026-10-23T05:24:13Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆2光4__1.png__b585fca7.jpg"
+}

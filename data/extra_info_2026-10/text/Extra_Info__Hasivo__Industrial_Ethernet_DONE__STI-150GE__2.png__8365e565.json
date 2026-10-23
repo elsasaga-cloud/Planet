@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-150GE__2.png__8365e565",
+"path":"Extra_Info/Hasivo/Industrial Ethernet_DONE/STI-150GE/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":1852484,
+"sha256":"8365e565393a0a50c0d3b9cde9c4b0ff3eeb3f4cf975404df71803dccef722d9",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":2222,
+"height":825,
+"mode":"RGBA",
+"thumb_bytes":6521
+},
+"warnings":[],
+"chars":62,
+"text":"ddSr+9r+3ety\nSA ZA LA\n@ @ @\nNdXx9 9\nGiga\nLink\nIndustial Switch",
+"extracted_at":"2026-10-23T05:25:13Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-150GE__2.png__8365e565.jpg"
+}

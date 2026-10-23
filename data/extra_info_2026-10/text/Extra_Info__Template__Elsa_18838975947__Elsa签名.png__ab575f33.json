@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Template__Elsa_18838975947__Elsa签名.png__ab575f33",
+"path":"Extra_Info/Template/Elsa 18838975947/Elsa签名.png",
+"name":"Elsa签名.png",
+"ext":".png",
+"bytes":112114,
+"sha256":"ab575f3320b62de8b246c05001901ceee6a28af1290193551fd3a0c0ece90fe8",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":805,
+"height":563,
+"mode":"RGBA",
+"thumb_bytes":8289
+},
+"warnings":[],
+"chars":23,
+"text":"和\n一 —~\n人 一 一 一 一 =、\nAAA",
+"extracted_at":"2026-10-23T05:20:25Z",
+"thumb":"thumbs/Extra_Info__Template__Elsa_18838975947__Elsa签名.png__ab575f33.jpg"
+}

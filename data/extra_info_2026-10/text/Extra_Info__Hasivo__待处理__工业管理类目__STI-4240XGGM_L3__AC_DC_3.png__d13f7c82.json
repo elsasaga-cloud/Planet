@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__工业管理类目__STI-4240XGGM_L3__AC_DC_3.png__d13f7c82",
+"path":"Extra_Info/Hasivo/待处理/工业管理类目/STI-4240XGGM_L3/AC+DC_3.png",
+"name":"AC+DC_3.png",
+"ext":".png",
+"bytes":36899712,
+"sha256":"d13f7c8270c888dd5e8b9bed6487b01e1d5f1fc1263235a92e6108cafca28ddc",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":3086,
+"height":1518,
+"mode":"RGBA",
+"thumb_bytes":8280
+},
+"warnings":[],
+"chars":21,
+"text":"=\na Indust Si\nWCE sp,",
+"extracted_at":"2026-10-23T05:22:28Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__工业管理类目__STI-4240XGGM_L3__AC_DC_3.png__d13f7c82.jpg"
+}

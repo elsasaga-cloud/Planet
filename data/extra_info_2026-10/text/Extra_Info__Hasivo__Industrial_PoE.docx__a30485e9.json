@@ -1,0 +1,2525 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_PoE.docx__a30485e9",
+"path":"Extra_Info/Hasivo/Industrial PoE.docx",
+"name":"Industrial PoE.docx",
+"ext":".docx",
+"bytes":15920689,
+"sha256":"a30485e95b8459cd3678faa8feb5bcb8dddb41248eb41b30ddf933a46040f8a0",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2023-07-22T16:14:00+00:00",
+"modified":"2025-03-27T10:20:57+00:00",
+"paragraphs":123,
+"tables":21,
+"embedded_images":18
+},
+"warnings":[],
+"chars":36631,
+"text":"ContentOrdering Information2STI-054FP-BT3STI-088FP-BT5STI-111FP7STI-111FP-BT9STI-144FP-BT11STI-244FP-BT13STI-244FP-BT_SFP14STI-054GP-BT15STI-088GP-BT17STI-111GP18STI-111GP_SFP20STI-111GP-BT22STI-154GP-BT24STI-222GP-BT26STI-244GP-BT28STI-288GP-BT29STI-2108GP-BT31STI-222DGGP-BT33STI-244DGGP-BT35FAQ36\nOrdering Information\nIndustrial Unmanaged PoE Switch_Realtek Series, Dual DC37-57V Input\nModel\tDescription\tPrice\nSTI-054FP-BT\t1*10/100M RJ45+4*10/100M PoE RJ45 / 3*PoE af/at+1*PoE af/at/bt, 180W budget\t25usd/pc\nSTI-088FP-BT\t8*10/100M PoE RJ45 / 7*PoE af/at+1*PoE af/at/bt, 300W budget\t32usd/pc\nSTI-111FP\t1*100M SFP+1*10/100M PoE RJ45, 1*PoE af/at / 30W budget\t23usd/pc\nSTI-111FP-BT\t1*100M SFP+1*10/100M PoE RJ45 / 1*PoE af/at/bt, 90W budget\t26usd/pc\nSTI-144FP-BT\t1*100M SFP+4*10/100M PoE RJ45 / 3*PoE af/at+1*PoE af/at/bt, 180W budget\t31usd/pc\nSTI-244FP-BT\t2*100M 1*9 Fixed Fiber+4*10/100M PoE RJ45 / 3*PoE af/at+1*PoE af/at/bt, 180W budget\t40usd/pc\nSTI-244FP-BT_SFP\t2*100M SFP+4*10/100M PoE RJ45 / 3*PoE af/at+1*PoE af/at/bt, 180W budget\t34usd/pc\nSTI-054GP-BT\t1*10/100/1000M RJ45+4*10/100/1000M PoE RJ45 / 3*PoE af/at+1*PoE af/at/bt, 180W budget\t30usd/pc\nSTI-088GP-BT\t8*10/100/1000M PoE RJ45 / 7*PoE af/at+1*PoE af/at/bt, 300W budget\t41usd/pc\nSTI-111GP\t1*1000M 1*9 Fixed Fiber+1*10/100/1000M PoE RJ45 / 1*PoE af/at, 30W budget\t26usd/pc\nSTI-111GP_SFP\t1*1000M SFP+1*10/100/1000M PoE RJ45 / 1*PoE af/at, 30W budget\t21usd/pc\nSTI-111GP-BT\t1*1000M SFP+1*10/100/1000M PoE RJ45 / 1*PoE af/at/bt, 90W budget\t27usd/pc\nSTI-154GP-BT\t1*1000M SFP+1*10/100/1000M RJ45+4*10/100/1000M PoE RJ45 / 3*PoE af/at+1*PoE af/at/bt, 180W budget\t33usd/pc\nSTI-222GP-BT\t2*1000M SFP+2*10/100/1000M PoE RJ45 / 1*PoE af/at+1*PoE af/at/bt, 120W budget\t32usd/pc\nSTI-244GP-BT\t2*1000M SFP+4*10/100/1000M PoE RJ45 / 3*PoE af/at+1*PoE af/at/bt, 180W budget\t35usd/pc\nSTI-288GP-BT\t2*1000M SFP+8*10/100/1000M PoE RJ45 / 7*PoE af/at+1*PoE af/at/bt, 300W budget\t53usd/pc\nSTI-2108GP-BT\t2*1000M SFP+2*10/100/1000M RJ45+8*10/100/1000M PoE RJ45 / 7*PoE af/at+1*PoE af/at/bt, 300W budget\t65usd/pc\nSTI-222DGGP-BT\t2*1000M/2500M SFP+2*10/100/1000M PoE RJ45 / 1*PoE af/at+1*PoE af/at/bt, 120W budget\t37usd/pc\nSTI-244DGGP-BT\t2*1000M/2500M SFP+4*10/100/1000M PoE RJ45 / 3*PoE af/at+1*PoE af/at/bt, 180W budget\t44usd/pc\nSFP Transceiver and Industrial Power Adapter are NOT included in both the packing box and unit pricing / A pair of mounting hangers are included in both the packing box and unit pricing / Please let us know if you need any customized model\nSTI-054FP-BT\nModel\tSTI-054FP-BT\nProduct Name\t5 port 10/100Mbps Industrial PoE Switch\nFixed Port\t4*10/100M RJ45 PoE port / 1*10/100M Uplink RJ45 port\nPoE Ports\t1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2-4 ports support IEEE802.3af/at, with a maximum single port power of 30W\nPoE Dog\tSupport\nPoE Pin\taf/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-\nBandwidth\t1Gbps\nPacket Forwarding\t0.74Mpps\nMAC\t1K\nBuffer\t768K\nLED Indicator\tPW: power indicator (green) / Uplink port: 10/100M connection indicator light / PoE port: orange PoE indicator, green grid connection indicator / V1: Main power indicator (green) / V2: Slave power indicator (green)\nPower\tThree groups of independent power input / PoE: DC37-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 105*90*36mm / Packing Box: 200*130*40mm\nN.W/G.W(Kg)\t0.5Kg/0.6Kg\nLightning / Protection level\t6KV 8/20us, 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nSTI-088FP-BT\nModel\tSTI-088FP-BT\nProduct Name\t8 port 10/100Mbps Industrial PoE Switch\nFixed Port\t8*10/100M RJ45 PoE port\nPoE Ports\t1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2-8 ports support IEEE802.3af/at, with a maximum single port power of 30W\nPoE Dog\tSupport\nPoE Pin\taf/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-\nBandwidth\t1.6Gbps\nPacket Forwarding\t0.89Mpps\nMAC\t1K\nBuffer\t768K\nTransmission Distance\t10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter)\nLED Indicator\tPWR: Power indicator (green) / PoE port: orange PoE indicator, green grid connection indicator / V1: Main power indicator (green) / V2: Slave power indicator (green) / V3: DC power indicator (green) / VLAN: Port isolation indicator (green) / S: ultra-far mode on indicator (green)\nPower\tThree groups of independent power input / PoE: DC37-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 156*119*35mm / Packing Box: 235*165*78mm\nN.W/G.W(Kg)\t0.9Kg/1.1Kg\nLightning / Protection level\t6KV 8/20us, 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nSTI-111FP\nModel\tSTI-111FP\nProduct Name\t2 port 10/100Mbps Industrial PoE Switch\nFixed Port\t1*10/100M RJ45 PoE port / 1*100M integrated optical port (optional 1310/1550)\nPoE Ports\t1 port supports IEEE802.3af/at, with a maximum power of 30W per port\nPoE Dog\tSupport\nPoE Pin\t12+ 36-\nBandwidth\t1Gbps\nPacket Forwarding\t0.3Mpps\nMAC\t1K\nBuffer\t768K\nTransmission Distance\t10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter)\nOptical Media\tSFP: 1000M single and multi-mode optical module, Max distance≤100Km\nLED Indicator\tPW: power indicator (green) / 1: 10/100M network connection indicator (green) / 2: Optical fiber connection indicator (green) / V1: Main power indicator (green) / V2: Slave power indicator (green) / V3: DC power indicator (green) / PoE: PoE connection indicator (orange)\nPower\tThree groups of independent power input / PoE: DC37-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 100*86*30mm / Packing Box: 200*130*40mm\nN.W/G.W(Kg)\t0.3Kg/0.4Kg\nLightning / Protection Level\t6KV 8/20us；8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nSTI-111FP-BT\nSTI-111FP-BT\tSTI-111FP-BT\nProduct Name\t2 port 10/100Mbps Industrial PoE Switch\nFixed Port\t1*10/100M RJ45 PoE port / 1*100M integrated optical port (optional 1310/1550)\nPoE Ports\t1 port supports IEEE802.3af/at, with a maximum power of 30W per port\nPoE Dog\tSupport\nPoE Pin\t12+ 45+ 36- 78-\nBandwidth\t1Gbps\nPacket Forwarding\t0.3Mpps\nMAC\t1K\nBuffer\t768K\nTransmission Distance\t10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter)\nOptical Media\tSFP: 1000M single and multi-mode optical module, Max distance≤100Km\nLED Indicator\tPW: power indicator (green) / 1: 10/100M network connection indicator (green) / 2: Optical fiber connection indicator (green) / V1: Main power indicator (green) / V2: Slave power indicator (green) / V3: DC power indicator (green) / PoE: PoE connection indicator (orange)\nPower\tThree groups of independent power input / PoE: DC37-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 100*86*30mm / Packing Box: 200*130*40mm\nN.W/G.W(Kg)\t0.3Kg/0.4Kg\nLightning / Protection Level\t6KV 8/20us；8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nSTI-144FP-BT\nModel\tSTI-144FP-BT\nProduct Name\t5 port 10/100Mbps Industrial PoE Switch\nFixed Port\t4*10/100M RJ45 PoE port / 1*100M integrated optical port (optional 1310/1550)\nPoE Ports\t1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2-4 ports support IEEE802.3af/at, with a maximum single port power of 30W\nPoE Dog\tSupport\nPoE Pin\taf/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-\nBandwidth\t1.6Gbps\nPacket Forwarding\t0.74Mpps\nMAC\t1K\nBuffer\t768K\nTransmission Distance\t10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter)\nOptical Media\tSFP: 100M single and multi-mode optical module, Max distance≤100Km\nLED Indicator\tPWR: Power indicator (green) / PoE port: orange PoE indicator, green grid connection indicator. / 5: Optical fiber connection indicator (green) / V1: Main power indicator (green) / V2: Slave power indicator (green) / V3: DC power indicator (green) / EX: Expansion indicator (green)\nPower\tThree groups of independent power input / PoE: DC37-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 156*113*40mm / Packing Box: 235*105*78mm\nN.W/G.W(Kg)\t0.9Kg/1.1Kg\nLightning / Protection Level\t6KV 8/20us；8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nSTI-244FP-BT\nModel\tSTI-244FP-BT\nProduct Name\t6 port 10/100Mbps Industrial PoE Switch\nFixed Port\t4*10/100M RJ45 PoE port / 2*100M integrated optical port (optional 1310/1550)\nPoE Ports\t1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2-4 ports support IEEE802.3af/at, with a maximum single port power of 30W\nPoE Dog\tSupport\nPoE Pin\taf/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-\nBandwidth\t1.6Gbps\nPacket Forwarding\t0.9Mpps\nMAC\t1K\nBuffer\t768K\nTransmission Distance\t10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter)\nOptical Media\tSFP: 100M single and multi-mode optical module, Max distance≤100Km\nLED Indicator\tPWR: Power indicator (green) / PoE port: orange PoE indicator, green grid connection indicator. / 5-6: Optical fiber connection indicator (green) / V1: Main power indicator (green) / V2: Slave power indicator (green) / V3: DC power indicator (green)\nPower\tThree groups of independent power input / PoE: DC37-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 156*113*40mm / Packing Box: 235*105*78mm\nN.W/G.W(Kg)\t0.9Kg/1.1Kg\nLightning / Protection Level\t6KV 8/20us；8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nSTI-244FP-BT_SFP\nModel\tSTI-244FP-BT_SFP\nProduct Name\t6 port 10/100Mbps Industrial PoE Switch\nFixed Port\t4*10/100M RJ45 PoE port / 2*100M SFP\nPoE Ports\t1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2-4 ports support IEEE802.3af/at, with a maximum single port power of 30W\nPoE Dog\tSupport\nPoE Pin\taf/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-\nBandwidth\t1.6Gbps\nPacket Forwarding\t0.89Mpps\nMAC\t1K\nBuffer\t768K\nTransmission Distance\t10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter)\nOptical Media\tSFP: 100M single and multi-mode optical module, Max distance≤100Km\nLED Indicator\tPWR: Power indicator (green) / Uplink port: 10/100M connection indicator light. / PoE port: orange PoE indicator, green grid connection indicator. / V1: Main power indicator (green) / V2: Slave power indicator (green) / V3:DC power indicator (green) / VLAN: Port isolation indicator (green) / S: ultra-far mode on indicator (green)\nPower\tThree groups of independent power input / PoE: DC37-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 156*113*40mm / Packing Box: 235*105*78mm\nN.W/G.W(Kg)\t0.9Kg/1.1Kg\nLightning / Protection Level\t6KV 8/20us；8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nSTI-054GP-BT\nModel\tSTI-054GP-BT\nProduct mame\t5 port 10/100/1000Mbps Industrial PoE Switch\nFixed Port\t4*10/100/1000M RJ45 port / 1*10/100/1000M Uplink RJ45 port\nPoE Ports\t1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2-4 ports support IEEE802.3af/at, with a maximum single port power of 30W\nPoE Dog\tSupport\nPoE Pin\taf/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-\nBandwidth\t10Gbps\nPacket Forwarding\t7.44Mpps\nMAC\t2K\nBuffer\t2.5M\nLED Indicator\tPW: power indicator (green) / Uplink port: green 100M + orange 1000M / PoE port: orange PoE indicator, green grid connection indicator / V1: Main power indicator (green) / V2: Slave power indicator (green)\nPower\tThree groups of independent power input / PoE: DC37-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 105*90*36mm / Packing Box: 200*130*40mm\nN.W/G.W(Kg)\t0.5Kg/0.6Kg\nLightning / Protection level\t6KV 8/20us, 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nSTI-088GP-BT\nModel\tSTI-088GP-BT\nProduct Name\t8 port 10/100/1000Mbps Industrial PoE Switch\nFixed Port\t8*10/100/1000M RJ45 PoE port\nPoE Ports\t1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2-8 ports support IEEE802.3af/at, with a maximum single port power of 30W\nPoE Dog\tSupport\nPoE Pin\taf/at: 12+ 36- / af/at/poe++/bt: 12+ 45+  36- 78-\nBandwidth\t16Gbps\nPacket Forwarding\t11.9Mpps\nMAC\t2K\nBuffer\t2.5M\nTransmission Distance\t10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)\nLED Indicator\tPWR: Power indicator (green) / Uplink port: green 100M+ orange 1000M / PoE port: orange PoE indicator, green grid connection indicator. / V1: Main power indicator (green) / V2: Slave power indicator (green) / V3: DC power indicator (green) / VLAN: Port isolation indicator (green) / S: ultra-far mode on indicator (green)\nPower\tThree groups of independent power input / PoE: DC37-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 156*119*35mm / Packing Box: 235*165*78mm\nN.W/G.W(Kg)\t0.9Kg/1.1Kg\nLightning / Protection level\t6KV 8/20us, 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nSTI-111GP\nModel\tSTI-111GP\nProduct Name\t2 port 10/100/1000Mbps Industrial PoE Switch\nFixed Port\t1*10/100/1000M RJ45 PoE port / 1*1000M integrated optical port (optional 1310/1550)\nPoE Ports\t1 port supports IEEE802.3af/at, with a maximum power of 30W per port\nPoE Dog\tSupport\nPoE Pin\t12+ 36-\nBandwidth\t1Gbps\nPacket Forwarding\t0.3Mpps\nMAC\t1K\nBuffer\t768K\nTransmission Distance\t10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)\nOptical Media\tSFP: 1000M single and multi-mode optical module, Max distance≤100Km\nLED Indicator\tPW: power indicator (green) / 1: 10/100/1000M network connection indicator (green) / 2: Optical fiber connection indicator (green) / V1: Main power indicator (green) / V2: Slave power indicator (green) / V3: DC power indicator (green) / PoE: PoE connection indicator (orange)\nPower\tThree groups of independent power input / PoE: DC37-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 100*86*30mm / Packing Box: 200*130*40mm\nN.W/G.W(Kg)\t0.3Kg/0.4Kg\nLightning / Protection Level\t6KV 8/20us；8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nSTI-111GP_SFP\nModel\tSTI-111GP_SFP\nProduct Name\t2 port 10/100/1000Mbps Industrial PoE Switch\nFixed Port\t1*10/100/1000M RJ45 PoE port / 1*1000M SFP\nPoE Ports\t1 port supports IEEE802.3af/at, with a maximum power of 30W per port\nPoE Dog\tSupport\nPoE Pin\t12+ 36-\nBandwidth\t2Gbps\nPacket Forwarding\t2.98Mpps\nMAC\t2K\nBuffer\t2.5M\nTransmission Distance\t10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)\nOptical Media\tSFP: 1000M single and multi-mode optical module, Max distance≤100Km\nLED Indicator\tPW: power indicator (green) / 1: 10/100/1000M network connection indicator (green) / 2: Optical fiber connection indicator (green) / V1: Main power indicator (green) / V2: Slave power indicator (green) / V3: DC power indicator (green) / PoE: PoE connection indicator (orange)\nPower\tThree groups of independent power input / PoE: DC37-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 100*86*30mm / Packing Box: 200*130*40mm\nN.W/G.W(Kg)\t0.3Kg/0.4Kg\nLightning / Protection Level\t6KV 8/20us；8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nSTI-111GP-BT\nModel\tSTI-111GP-BT\nProduct Name\t2 port 10/100/1000Mbps Industrial PoE Switch\nFixed Port\t1*10/100/1000M RJ45 PoE port / 1*1000M SFP\nPoE Ports\t1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port\nPoE Dog\tSupport\nPoE Pin\t12+ 45+ 36- 78-\nBandwidth\t2Gbps\nPacket Forwarding\t2.98Mpps\nMAC\t2K\nBuffer\t2.5M\nTransmission Distance\t10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)\nOptical Media\tSFP: 1000M single and multi-mode optical module, Max distance≤100Km\nLED Indicator\tPW: power indicator (green) / 1: 10/100/1000M network connection indicator (green) / 2: Optical fiber connection indicator (green) / V1: Main power indicator (green) / V2: Slave power indicator (green) / V3: DC power indicator (green) / PoE: PoE connection indicator (orange)\nPower\tThree groups of independent power input / PoE: DC37-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 100*86*30mm / Packing Box: 200*130*40mm\nN.W/G.W(Kg)\t0.3Kg/0.4Kg\nLightning / Protection Level\t6KV 8/20us；8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nSTI-154GP-BT\nModel\tSTI-154GP-BT\nProduct Name\t6 port 10/100/1000Mbps Industrial PoE Switch\nFixed Port\t4*10/100/1000M RJ45 PoE port / 1*10/100/1000M Uplink RJ45 port / 1*1000M SFP\nPoE Ports\t1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2-4 ports support IEEE802.3af/at, with a maximum single port power of 30W\nPoE Dog\tSupport\nPoE Pin\taf/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-\nBandwidth\t12Gbps\nPacket Forwarding\t8.93Mpps\nMAC\t2K\nBuffer\t2.5M\nTransmission Distance\t10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)\nOptical Media\tSFP: 1000M single and multi-mode optical module, Max distance≤100Km\nLED Indicator\tPWR: Power indicator (green) / PoE port: orange PoE indicator, green grid connection indicator. / 6: Optical fiber connection indicator (green) / GX: expansion indicator (green) / V1: Main power indicator (green) / V2: Slave power indicator (green) / V3: DC power indicator (green)\nPower\tThree groups of independent power input / PoE: DC37-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 156*113*40mm / Packing Box: 235*165*78mm\nN.W/G.W(Kg)\t0.9Kg/1.1Kg\nLightning / Protection Level\t6KV 8/20us; 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nSTI-222GP-BT\nModel\tSTI-222GP-BT\nProduct Name\t4 port 10/100/1000Mbps Industrial PoE Switch\nFixed Port\t2*10/100/1000M RJ45 PoE port / 2*1000M SFP\nPoE Ports\t1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2 port supports IEEE802.3af/at, with a maximum single port power of 30W\nPoE Dog\tSupport\nPoE Pin\taf/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-\nBandwidth\t12Gbps\nPacket Forwarding\t5.95Mpps\nMAC\t2K\nBuffer\t2.5M\nTransmission Distance\t10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)\nOptical Media\tSFP: 1000M single and multi-mode optical module, Max distance≤100Km\nLED Indicator\tPW: power indicator (green) / PoE port: orange PoE indicator, green grid connection indicator. / 3-4: Optical fiber connection indicator (green) / V1: Main power indicator (green) / V2: Slave power indicator (green) / V3: DC power indicator (green)\nPower\tThree groups of independent power input / PoE: DC37-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 100*86*30mm / Packing Box: 200*130*40mm\nN.W/G.W(Kg)\t0.4Kg/0.5Kg\nLightning / Protection Level\t6KV 8/20us；8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nSTI-244GP-BT\nModel\tSTI-244GP-BT\nProduct Name\t6 port 10/100/1000Mbps Industrial PoE Switch\nFixed Port\t4*10/100/1000M RJ45 PoE port / 2*1000M SFP\nPoE Ports\t1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2-4 ports support IEEE802.3af/at, with a maximum single port power of 30W\nPoE Budget\t180W\nPoE Pin\taf/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-\nTransmission Mode\tStore and Forward\nBandwidth\t16Gbps\nPacket Forwarding\t11.9Mpps\nMAC\t4K\nBuffer\t2.5M\nDIP Switch\t1: Light mouthed watchdog / 2: PoE Watchdog / 3: 1-4 port ultra long mode 250 meters (10M) / 4: After opening the ports, ports 1-4 are isolated from each other and cannot be accessed between them. They can only be accessed from the uplink port\nPort Specification\t10/100/1000BaseT(X)Auto\nTransmission Mode\tStore and Forward(full wire-speed）\nTransmission Distance\t10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)\nOptical Media\tSFP: 1000M single and multi-mode optical module, Max distance≤100Km\nLED Indicator\tPWR: Power indicator light / P1: Power indicator light / P2: Power indicator light / PMX: Power overload indicator light / 5,6: Optical port connection indicator light / Port orange indicator light: PoE indicator light / Port green indicator light: Link indicator light\nPower input\tV1: 37-57V 5A MAX / V2: 37-57V 5A MAX / IN: --\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 155*115*40mm / Packing Box: 235*165*78mm\nN.W/G.W(Kg)\t0.9Kg/1.1Kg\nLightning / Protection Level\t6KV 8/20us; 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nSTI-288GP-BT\nModel\tSTI-288GP-BT\nProduct Name\t10 port 10/100/1000Mbps Industrial PoE Switch\nFixed Port\t8*10/100/1000M RJ45 PoE port / 2*1000M SFP\nPoE Ports\t1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2-8 ports support IEEE802.3af/at, with a maximum single port power of 30W\nPoE Dog\tSupport\nPoE Pin\taf/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-\nBandwidth\t24Gbps\nPacket Forwarding\t14.88Mpps\nMAC\t2K\nBuffer\t2.5M\nTransmission Distance\t10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)\nOptical Media\tSFP: 1000M single and multi-mode optical module, Max distance≤100Km\nLED Indicator\tPWR: Power indicator (green) / PMX: Power overload indicator (green) / PoE port: orange PoE indicator, green grid connection indicator. / 9-10: Optical fiber connection indicator (green) / V1: Main power indicator (green) / V2: Slave power indicator (green)\nPower\t2 groups of independent power input / PoE: DC37-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 160*130*45mm / Packing Box: 280*165*79mm\nN.W/G.W(Kg)\t1.2Kg/1.4Kg\nLightning / Protection Level\t6KV 8/20us; 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nSTI-2108GP-BT\nModel\tSTI-2108GP-BT\nProduct Name\t12 port 10/100/1000Mbps Industrial PoE Switch\nFixed Port\t8*10/100/1000M RJ45 PoE port / 2*10/100/1000M Uplink RJ45 port / 2*1000M SFP\nPoE Ports\t1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2-8 ports support IEEE802.3af/at, with a maximum single port power of 30W\nPoE Dog\tSupport\nPoE Pin\taf/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-\nBandwidth\t24Gbps\nPacket Forwarding\t17.86Mpps\nMAC\t2K\nBuffer\t2.5M\nTransmission Distance\t10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)\nOptical Media\tSFP: 1000M single and multi-mode optical module, Max distance≤100Km\nLED Indicator\tPWR: Power indicator (green) / PoE Max: Power overload indicator (green) / Uplink port: green 100M+ orange 100m. / PoE port: orange PoE indicator, green grid connection indicator. / 9-10: Optical fiber connection indicator (green) / P1: Main power indicator (green) / P2: Slave power indicator (green)\nPower input\t2 groups of independent power input / PoE: DC37-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 187*130*50mm / Packing Box: 280*165*79mm\nN.W/G.W(Kg)\t1.3Kg/1.5Kg\nLightning / Protection Level\t6KV 8/20us; 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nSTI-222DGGP-BT\nModel\tSTI-222DGGP-BT\nProduct Name\t4 port 10/100/1000/2500Mbps Industrial PoE Switch\nFixed Port\t2*10/100/1000M RJ45 PoE port / 2*2500M SFP\nPoE Ports\t1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2 port supports IEEE802.3af/at, with a maximum single port power of 30W\nPoE Dog\tSupport\nPoE Pin\taf/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-\nBandwidth\t20Gbps\nPacket Forwarding\t32.74Mpps\nMAC\t2K\nBuffer\t2.5M\nTransmission Distance\t10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)\nOptical Media\tSFP: 2500M single and multi-mode optical module, Max distance≤100Km\nLED Indicator\tPW: power indicator (green) / PoE port: orange PoE indicator, green grid connection indicator. / 3-4: Optical fiber connection indicator (green) / V1: Main power indicator (green) / V2: Slave power indicator (green) / V3: DC power indicator (green)\nPower\tThree groups of independent power input / PoE: DC37-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 100*86*30mm / Packing Box: 200*130*40mm\nN.W/G.W(Kg)\t0.4Kg/0.5Kg\nLightning / Protection Level\t6KV 8/20us；8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nSTI-244DGGP-BT\nModel\tSTI-244DGGP-BT\nProduct Name\t6 port 10/100/1000/2500Mbps Industrial PoE Switch\nFixed Port\t4*10/100/1000M RJ45 PoE port / 2*2500M SFP\nPoE Ports\t1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2-4 ports support IEEE802.3af/at, with a maximum single port power of 30W\nPoE Dog\tSupport\nPoE Pin\taf/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-\nBandwidth\t20Gbps\nPacket Forwarding\t35.71Mpps\nMAC\t2K\nBuffer\t2.5M\nTransmission Distance\t10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)\nOptical Media\tSFP: 2500M single and multi-mode optical module, Max distance≤100Km\nLED Indicator\tPWR: Power indicator (green) / PMX: Power overload indicator (green) / PoE port: orange PoE indicator, green grid connection indicator. / 5-6: Optical fiber connection indicator (green) / P1: Main power indicator (green) / P2: Slave power indicator (green)\nPower\t2 groups of independent power input / PoE: DC37-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 155*115*40mm / Packing Box: 235*165*78mm\nN.W/G.W(Kg)\t0.9Kg/1.1Kg\nLightning / Protection Level\t6KV 8/20us; 8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years\nFAQ\nLeadtime\nProduction starts AFTER payment is received\nPlease know that it usually takes 1~2 working days for our bank to receive the payment\nProduction time is usually 4~7 working days for standard(non-customized)models(no more than 50Pcs)\nShipping time is usually 4~7 days by express\nIn total, it takes 10~15 calendar days to arrive at local customs for clearance\nThis is an estimated period, it usually does not take this long to receive the order\nShipment\nWe will send the goods by express(DHL, UPS or FEDEX)or by sea(for bulk orders)\nIt is fine to ship purchased items via client’s shipping account(DHL, UPS or FEDEX)or forwarders in China\nMoQ\n1 Pc/Pair(It is NOT free, Saga Telecom do NOT do FREE SAMPLES)\nIt is fine to have sample testing before bulk orders\nPlease know that we do NOT suggest 1pc/pair in sample testing, better make it at least 2 pieces/pairs in case of any possible dysfunction in production/transportation(then all efforts are gone, a big waste of time)\nWarranty\n1 year for commercial models(STC series)and 3 years for industrial models(STI series)\nPlease kindly refer to the “Warranty Policy” for more information\nTechnical assistance is always available\nDiscount\nAvailable and it is usually based on quantity and AFTER sample testing\nThe price negotiation makes sense ONLY IF a client is satisfied with the quality\nFor distributorship, that we are now seeking, best prices will be provided\nPayment\nT/T transfer and PayPal\nIt is fine to pay 50% first and another 50% before shipment for a bulk order(this is about standard/non-customized models)\nFULL PAYMENT for a customization order BEFORE PRODUCTION(non-negotiated)\nIt is fine to be paid via client’s forwarder(this is usually about RMB payment on Alipay or WeChat)\nTransaction Cost\nIt is standard charge 25usd for EACH T/T transfer whatever the invoice value is\nIt is 5usd for every 100usd to PayPal a/c, this ratio is standard charge by PayPal\nUser Manual\nPlease know that there is a user manual(with necessary information for usage and installation)in the packing box Actually most of the necessary information is available in this datasheet\nWe can help print a copy of your version and put it in the packing box\nPacking Box\nWithout Chinese letters or logo\nHard carton, resilient to wrinkle, good for reselling even after shipment(there is protective foam inside to avoid possible damage)\nCustomized version is available(with your logo/model/slogan or remove the patterns), but there is MoQ and cost for this, discussion is required\nLabel\nThere is product information/model name/serial number on the label\nIt is fine to write client’s version\nStandard language is English\nIf a different language is adopted like Russian, Italian, Korean...\nPlease share EXACT translation, we will simply copy and print\nBarcodes are scannable for inbound statistics\n“Made in China” description is there and can be removed if required\nAn example photo will be shared for confirmation before mass printing for a bulk order\nThere are 2 copies for each manufactured product. One is attached on the device, the other is on the packing box\nCertification\nCE/RoHS/FCC/Reach/UKCA\nPlease let us know if you need to check the certificates\nRMA\nPlease contact us ASAP once there is a problem of ANY KIND\nPlease also read below “after-sales support” information to understand how to proceed\nFor every 100Pcs, there will be 2 extra free units(2% RMA)against immediate warranty coverage\nThis rule stands for all Saga Telecom models and even there is not an after-sales issue\nIf it is about missing/faulty parts in the packing box\nPlease simply use the extra units for the replacem\nent and let us know this problem(we will improve)\nIf it is about usage problem\nSaga Telecom will provide technical support and send new units when necessary(in this occasion, we will be responsible for both product cost and shipping cost, but the local customs clearance cost, if any, is on clients)\nSKD/CKD\nAvailable\nSKD is simple, please just let us know how you would like to have it\nCKD usually involves confidential information such as BOM list, schematic design, PCB layout etc.\nIt is based on solid cooperation AND bulk orders, thorough discussion is required to do CKD mode\nOEM\nAvailable\nDiscussion is required for complex changes, meanwhile an NDA(Non-disclosure Agreement)contract will be agreed upon and signed\nRelevant cooperation information will not be leaked to a third party without client’s permission\nIt is mainly about 2 categories\nIndustrial manufacturing\nShow client’s logo/model on the device/label\nUse client’s packing box\nDesign client’s product PVC sticker\nCustomize some parts of a model like rear panel/power input terminal block/panels...\nPlease know that there might be an extra cost for such OEM services\nManagement features\nShow client’s logo/model on the management interface\nChange IP address\nMAC address\nSNMP, OID\nAbove changes are free of cost and please know that\nFont format&GUI color are NOT changeable for the management interface\nWe can also help with develop exact features/specifications based on given chips or PCB board designs, this is more complex, thorough discussion is required\nIncoterms\nEXW term is our focus\nSometimes we do FOB/CIF for bulk orders, this depends on cases, please talk with us for more information\nOnline Store\nCurrently we do not have an online store(Amazon, Shopify, Aliexpress etc.)\nWe will add a store link in this datasheet when available\nBranch/Distribution\nCurrently we do not have ANY overseas branches or distributors\nWe are actively seeking good agents/resellers to promote our brand and products\nNecessary technical and pricing support will be provided\nPlease let us know if you are interested\nMaterial Preparation\n20% deposit will be collected beforehand for material preparation if there is a strict requirement of production time.\nThis is to protect ourselves from the awkward situation where we have prepared the materials while the clients do not successfully place the order due to different reasons\nThis deposit will be deducted from total amount if this order is secured\nThis deposit will be returned after we consumed half of the prepared materials in other orders if this order is not placed\nProduct Label\tCertificate of Warranty\nShipping Label\t\nPlease know that this is for your reference only(roughly like this, but subject to final format)\n[页眉页脚]\nRealtek Industrial PoE Series\t                                                                                           a.sagatelecom@gmail.com\n\t\t\t\t\t\t\t                                                                       Saga Telecom\n2025/Q3\t\t\t\t\t\t\t                         \t           www.sagatelecom.com.cn\nConnecting, Converting, Creating",
+"blocks":[
+{
+"t":"p",
+"s":"sdt",
+"text":"ContentOrdering Information2STI-054FP-BT3STI-088FP-BT5STI-111FP7STI-111FP-BT9STI-144FP-BT11STI-244FP-BT13STI-244FP-BT_SFP14STI-054GP-BT15STI-088GP-BT17STI-111GP18STI-111GP_SFP20STI-111GP-BT22STI-154GP-BT24STI-222GP-BT26STI-244GP-BT28STI-288GP-BT29STI-2108GP-BT31STI-222DGGP-BT33STI-244DGGP-BT35FAQ36"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Ordering Information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Industrial Unmanaged PoE Switch_Realtek Series, Dual DC37-57V Input"
+],
+[
+"Model",
+"Description",
+"Price"
+],
+[
+"STI-054FP-BT",
+"1*10/100M RJ45+4*10/100M PoE RJ45 / 3*PoE af/at+1*PoE af/at/bt, 180W budget",
+"25usd/pc"
+],
+[
+"STI-088FP-BT",
+"8*10/100M PoE RJ45 / 7*PoE af/at+1*PoE af/at/bt, 300W budget",
+"32usd/pc"
+],
+[
+"STI-111FP",
+"1*100M SFP+1*10/100M PoE RJ45, 1*PoE af/at / 30W budget",
+"23usd/pc"
+],
+[
+"STI-111FP-BT",
+"1*100M SFP+1*10/100M PoE RJ45 / 1*PoE af/at/bt, 90W budget",
+"26usd/pc"
+],
+[
+"STI-144FP-BT",
+"1*100M SFP+4*10/100M PoE RJ45 / 3*PoE af/at+1*PoE af/at/bt, 180W budget",
+"31usd/pc"
+],
+[
+"STI-244FP-BT",
+"2*100M 1*9 Fixed Fiber+4*10/100M PoE RJ45 / 3*PoE af/at+1*PoE af/at/bt, 180W budget",
+"40usd/pc"
+],
+[
+"STI-244FP-BT_SFP",
+"2*100M SFP+4*10/100M PoE RJ45 / 3*PoE af/at+1*PoE af/at/bt, 180W budget",
+"34usd/pc"
+],
+[
+"STI-054GP-BT",
+"1*10/100/1000M RJ45+4*10/100/1000M PoE RJ45 / 3*PoE af/at+1*PoE af/at/bt, 180W budget",
+"30usd/pc"
+],
+[
+"STI-088GP-BT",
+"8*10/100/1000M PoE RJ45 / 7*PoE af/at+1*PoE af/at/bt, 300W budget",
+"41usd/pc"
+],
+[
+"STI-111GP",
+"1*1000M 1*9 Fixed Fiber+1*10/100/1000M PoE RJ45 / 1*PoE af/at, 30W budget",
+"26usd/pc"
+],
+[
+"STI-111GP_SFP",
+"1*1000M SFP+1*10/100/1000M PoE RJ45 / 1*PoE af/at, 30W budget",
+"21usd/pc"
+],
+[
+"STI-111GP-BT",
+"1*1000M SFP+1*10/100/1000M PoE RJ45 / 1*PoE af/at/bt, 90W budget",
+"27usd/pc"
+],
+[
+"STI-154GP-BT",
+"1*1000M SFP+1*10/100/1000M RJ45+4*10/100/1000M PoE RJ45 / 3*PoE af/at+1*PoE af/at/bt, 180W budget",
+"33usd/pc"
+],
+[
+"STI-222GP-BT",
+"2*1000M SFP+2*10/100/1000M PoE RJ45 / 1*PoE af/at+1*PoE af/at/bt, 120W budget",
+"32usd/pc"
+],
+[
+"STI-244GP-BT",
+"2*1000M SFP+4*10/100/1000M PoE RJ45 / 3*PoE af/at+1*PoE af/at/bt, 180W budget",
+"35usd/pc"
+],
+[
+"STI-288GP-BT",
+"2*1000M SFP+8*10/100/1000M PoE RJ45 / 7*PoE af/at+1*PoE af/at/bt, 300W budget",
+"53usd/pc"
+],
+[
+"STI-2108GP-BT",
+"2*1000M SFP+2*10/100/1000M RJ45+8*10/100/1000M PoE RJ45 / 7*PoE af/at+1*PoE af/at/bt, 300W budget",
+"65usd/pc"
+],
+[
+"STI-222DGGP-BT",
+"2*1000M/2500M SFP+2*10/100/1000M PoE RJ45 / 1*PoE af/at+1*PoE af/at/bt, 120W budget",
+"37usd/pc"
+],
+[
+"STI-244DGGP-BT",
+"2*1000M/2500M SFP+4*10/100/1000M PoE RJ45 / 3*PoE af/at+1*PoE af/at/bt, 180W budget",
+"44usd/pc"
+],
+[
+"SFP Transceiver and Industrial Power Adapter are NOT included in both the packing box and unit pricing / A pair of mounting hangers are included in both the packing box and unit pricing / Please let us know if you need any customized model"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-054FP-BT"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-054FP-BT"
+],
+[
+"Product Name",
+"5 port 10/100Mbps Industrial PoE Switch"
+],
+[
+"Fixed Port",
+"4*10/100M RJ45 PoE port / 1*10/100M Uplink RJ45 port"
+],
+[
+"PoE Ports",
+"1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2-4 ports support IEEE802.3af/at, with a maximum single port power of 30W"
+],
+[
+"PoE Dog",
+"Support"
+],
+[
+"PoE Pin",
+"af/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-"
+],
+[
+"Bandwidth",
+"1Gbps"
+],
+[
+"Packet Forwarding",
+"0.74Mpps"
+],
+[
+"MAC",
+"1K"
+],
+[
+"Buffer",
+"768K"
+],
+[
+"LED Indicator",
+"PW: power indicator (green) / Uplink port: 10/100M connection indicator light / PoE port: orange PoE indicator, green grid connection indicator / V1: Main power indicator (green) / V2: Slave power indicator (green)"
+],
+[
+"Power",
+"Three groups of independent power input / PoE: DC37-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 105*90*36mm / Packing Box: 200*130*40mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.5Kg/0.6Kg"
+],
+[
+"Lightning / Protection level",
+"6KV 8/20us, 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-088FP-BT"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-088FP-BT"
+],
+[
+"Product Name",
+"8 port 10/100Mbps Industrial PoE Switch"
+],
+[
+"Fixed Port",
+"8*10/100M RJ45 PoE port"
+],
+[
+"PoE Ports",
+"1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2-8 ports support IEEE802.3af/at, with a maximum single port power of 30W"
+],
+[
+"PoE Dog",
+"Support"
+],
+[
+"PoE Pin",
+"af/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-"
+],
+[
+"Bandwidth",
+"1.6Gbps"
+],
+[
+"Packet Forwarding",
+"0.89Mpps"
+],
+[
+"MAC",
+"1K"
+],
+[
+"Buffer",
+"768K"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter)"
+],
+[
+"LED Indicator",
+"PWR: Power indicator (green) / PoE port: orange PoE indicator, green grid connection indicator / V1: Main power indicator (green) / V2: Slave power indicator (green) / V3: DC power indicator (green) / VLAN: Port isolation indicator (green) / S: ultra-far mode on indicator (green)"
+],
+[
+"Power",
+"Three groups of independent power input / PoE: DC37-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 156*119*35mm / Packing Box: 235*165*78mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.9Kg/1.1Kg"
+],
+[
+"Lightning / Protection level",
+"6KV 8/20us, 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-111FP"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-111FP"
+],
+[
+"Product Name",
+"2 port 10/100Mbps Industrial PoE Switch"
+],
+[
+"Fixed Port",
+"1*10/100M RJ45 PoE port / 1*100M integrated optical port (optional 1310/1550)"
+],
+[
+"PoE Ports",
+"1 port supports IEEE802.3af/at, with a maximum power of 30W per port"
+],
+[
+"PoE Dog",
+"Support"
+],
+[
+"PoE Pin",
+"12+ 36-"
+],
+[
+"Bandwidth",
+"1Gbps"
+],
+[
+"Packet Forwarding",
+"0.3Mpps"
+],
+[
+"MAC",
+"1K"
+],
+[
+"Buffer",
+"768K"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multi-mode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PW: power indicator (green) / 1: 10/100M network connection indicator (green) / 2: Optical fiber connection indicator (green) / V1: Main power indicator (green) / V2: Slave power indicator (green) / V3: DC power indicator (green) / PoE: PoE connection indicator (orange)"
+],
+[
+"Power",
+"Three groups of independent power input / PoE: DC37-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 100*86*30mm / Packing Box: 200*130*40mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.3Kg/0.4Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us；8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-111FP-BT"
+},
+{
+"t":"table",
+"rows":[
+[
+"STI-111FP-BT",
+"STI-111FP-BT"
+],
+[
+"Product Name",
+"2 port 10/100Mbps Industrial PoE Switch"
+],
+[
+"Fixed Port",
+"1*10/100M RJ45 PoE port / 1*100M integrated optical port (optional 1310/1550)"
+],
+[
+"PoE Ports",
+"1 port supports IEEE802.3af/at, with a maximum power of 30W per port"
+],
+[
+"PoE Dog",
+"Support"
+],
+[
+"PoE Pin",
+"12+ 45+ 36- 78-"
+],
+[
+"Bandwidth",
+"1Gbps"
+],
+[
+"Packet Forwarding",
+"0.3Mpps"
+],
+[
+"MAC",
+"1K"
+],
+[
+"Buffer",
+"768K"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multi-mode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PW: power indicator (green) / 1: 10/100M network connection indicator (green) / 2: Optical fiber connection indicator (green) / V1: Main power indicator (green) / V2: Slave power indicator (green) / V3: DC power indicator (green) / PoE: PoE connection indicator (orange)"
+],
+[
+"Power",
+"Three groups of independent power input / PoE: DC37-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 100*86*30mm / Packing Box: 200*130*40mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.3Kg/0.4Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us；8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-144FP-BT"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-144FP-BT"
+],
+[
+"Product Name",
+"5 port 10/100Mbps Industrial PoE Switch"
+],
+[
+"Fixed Port",
+"4*10/100M RJ45 PoE port / 1*100M integrated optical port (optional 1310/1550)"
+],
+[
+"PoE Ports",
+"1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2-4 ports support IEEE802.3af/at, with a maximum single port power of 30W"
+],
+[
+"PoE Dog",
+"Support"
+],
+[
+"PoE Pin",
+"af/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-"
+],
+[
+"Bandwidth",
+"1.6Gbps"
+],
+[
+"Packet Forwarding",
+"0.74Mpps"
+],
+[
+"MAC",
+"1K"
+],
+[
+"Buffer",
+"768K"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 100M single and multi-mode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PWR: Power indicator (green) / PoE port: orange PoE indicator, green grid connection indicator. / 5: Optical fiber connection indicator (green) / V1: Main power indicator (green) / V2: Slave power indicator (green) / V3: DC power indicator (green) / EX: Expansion indicator (green)"
+],
+[
+"Power",
+"Three groups of independent power input / PoE: DC37-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 156*113*40mm / Packing Box: 235*105*78mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.9Kg/1.1Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us；8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-244FP-BT"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-244FP-BT"
+],
+[
+"Product Name",
+"6 port 10/100Mbps Industrial PoE Switch"
+],
+[
+"Fixed Port",
+"4*10/100M RJ45 PoE port / 2*100M integrated optical port (optional 1310/1550)"
+],
+[
+"PoE Ports",
+"1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2-4 ports support IEEE802.3af/at, with a maximum single port power of 30W"
+],
+[
+"PoE Dog",
+"Support"
+],
+[
+"PoE Pin",
+"af/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-"
+],
+[
+"Bandwidth",
+"1.6Gbps"
+],
+[
+"Packet Forwarding",
+"0.9Mpps"
+],
+[
+"MAC",
+"1K"
+],
+[
+"Buffer",
+"768K"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 100M single and multi-mode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PWR: Power indicator (green) / PoE port: orange PoE indicator, green grid connection indicator. / 5-6: Optical fiber connection indicator (green) / V1: Main power indicator (green) / V2: Slave power indicator (green) / V3: DC power indicator (green)"
+],
+[
+"Power",
+"Three groups of independent power input / PoE: DC37-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 156*113*40mm / Packing Box: 235*105*78mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.9Kg/1.1Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us；8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-244FP-BT_SFP"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-244FP-BT_SFP"
+],
+[
+"Product Name",
+"6 port 10/100Mbps Industrial PoE Switch"
+],
+[
+"Fixed Port",
+"4*10/100M RJ45 PoE port / 2*100M SFP"
+],
+[
+"PoE Ports",
+"1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2-4 ports support IEEE802.3af/at, with a maximum single port power of 30W"
+],
+[
+"PoE Dog",
+"Support"
+],
+[
+"PoE Pin",
+"af/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-"
+],
+[
+"Bandwidth",
+"1.6Gbps"
+],
+[
+"Packet Forwarding",
+"0.89Mpps"
+],
+[
+"MAC",
+"1K"
+],
+[
+"Buffer",
+"768K"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 100M single and multi-mode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PWR: Power indicator (green) / Uplink port: 10/100M connection indicator light. / PoE port: orange PoE indicator, green grid connection indicator. / V1: Main power indicator (green) / V2: Slave power indicator (green) / V3:DC power indicator (green) / VLAN: Port isolation indicator (green) / S: ultra-far mode on indicator (green)"
+],
+[
+"Power",
+"Three groups of independent power input / PoE: DC37-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 156*113*40mm / Packing Box: 235*105*78mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.9Kg/1.1Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us；8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-054GP-BT"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-054GP-BT"
+],
+[
+"Product mame",
+"5 port 10/100/1000Mbps Industrial PoE Switch"
+],
+[
+"Fixed Port",
+"4*10/100/1000M RJ45 port / 1*10/100/1000M Uplink RJ45 port"
+],
+[
+"PoE Ports",
+"1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2-4 ports support IEEE802.3af/at, with a maximum single port power of 30W"
+],
+[
+"PoE Dog",
+"Support"
+],
+[
+"PoE Pin",
+"af/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-"
+],
+[
+"Bandwidth",
+"10Gbps"
+],
+[
+"Packet Forwarding",
+"7.44Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"LED Indicator",
+"PW: power indicator (green) / Uplink port: green 100M + orange 1000M / PoE port: orange PoE indicator, green grid connection indicator / V1: Main power indicator (green) / V2: Slave power indicator (green)"
+],
+[
+"Power",
+"Three groups of independent power input / PoE: DC37-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 105*90*36mm / Packing Box: 200*130*40mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.5Kg/0.6Kg"
+],
+[
+"Lightning / Protection level",
+"6KV 8/20us, 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-088GP-BT"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-088GP-BT"
+],
+[
+"Product Name",
+"8 port 10/100/1000Mbps Industrial PoE Switch"
+],
+[
+"Fixed Port",
+"8*10/100/1000M RJ45 PoE port"
+],
+[
+"PoE Ports",
+"1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2-8 ports support IEEE802.3af/at, with a maximum single port power of 30W"
+],
+[
+"PoE Dog",
+"Support"
+],
+[
+"PoE Pin",
+"af/at: 12+ 36- / af/at/poe++/bt: 12+ 45+  36- 78-"
+],
+[
+"Bandwidth",
+"16Gbps"
+],
+[
+"Packet Forwarding",
+"11.9Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)"
+],
+[
+"LED Indicator",
+"PWR: Power indicator (green) / Uplink port: green 100M+ orange 1000M / PoE port: orange PoE indicator, green grid connection indicator. / V1: Main power indicator (green) / V2: Slave power indicator (green) / V3: DC power indicator (green) / VLAN: Port isolation indicator (green) / S: ultra-far mode on indicator (green)"
+],
+[
+"Power",
+"Three groups of independent power input / PoE: DC37-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 156*119*35mm / Packing Box: 235*165*78mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.9Kg/1.1Kg"
+],
+[
+"Lightning / Protection level",
+"6KV 8/20us, 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-111GP"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-111GP"
+],
+[
+"Product Name",
+"2 port 10/100/1000Mbps Industrial PoE Switch"
+],
+[
+"Fixed Port",
+"1*10/100/1000M RJ45 PoE port / 1*1000M integrated optical port (optional 1310/1550)"
+],
+[
+"PoE Ports",
+"1 port supports IEEE802.3af/at, with a maximum power of 30W per port"
+],
+[
+"PoE Dog",
+"Support"
+],
+[
+"PoE Pin",
+"12+ 36-"
+],
+[
+"Bandwidth",
+"1Gbps"
+],
+[
+"Packet Forwarding",
+"0.3Mpps"
+],
+[
+"MAC",
+"1K"
+],
+[
+"Buffer",
+"768K"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multi-mode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PW: power indicator (green) / 1: 10/100/1000M network connection indicator (green) / 2: Optical fiber connection indicator (green) / V1: Main power indicator (green) / V2: Slave power indicator (green) / V3: DC power indicator (green) / PoE: PoE connection indicator (orange)"
+],
+[
+"Power",
+"Three groups of independent power input / PoE: DC37-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 100*86*30mm / Packing Box: 200*130*40mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.3Kg/0.4Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us；8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-111GP_SFP"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-111GP_SFP"
+],
+[
+"Product Name",
+"2 port 10/100/1000Mbps Industrial PoE Switch"
+],
+[
+"Fixed Port",
+"1*10/100/1000M RJ45 PoE port / 1*1000M SFP"
+],
+[
+"PoE Ports",
+"1 port supports IEEE802.3af/at, with a maximum power of 30W per port"
+],
+[
+"PoE Dog",
+"Support"
+],
+[
+"PoE Pin",
+"12+ 36-"
+],
+[
+"Bandwidth",
+"2Gbps"
+],
+[
+"Packet Forwarding",
+"2.98Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multi-mode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PW: power indicator (green) / 1: 10/100/1000M network connection indicator (green) / 2: Optical fiber connection indicator (green) / V1: Main power indicator (green) / V2: Slave power indicator (green) / V3: DC power indicator (green) / PoE: PoE connection indicator (orange)"
+],
+[
+"Power",
+"Three groups of independent power input / PoE: DC37-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 100*86*30mm / Packing Box: 200*130*40mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.3Kg/0.4Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us；8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-111GP-BT"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-111GP-BT"
+],
+[
+"Product Name",
+"2 port 10/100/1000Mbps Industrial PoE Switch"
+],
+[
+"Fixed Port",
+"1*10/100/1000M RJ45 PoE port / 1*1000M SFP"
+],
+[
+"PoE Ports",
+"1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port"
+],
+[
+"PoE Dog",
+"Support"
+],
+[
+"PoE Pin",
+"12+ 45+ 36- 78-"
+],
+[
+"Bandwidth",
+"2Gbps"
+],
+[
+"Packet Forwarding",
+"2.98Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multi-mode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PW: power indicator (green) / 1: 10/100/1000M network connection indicator (green) / 2: Optical fiber connection indicator (green) / V1: Main power indicator (green) / V2: Slave power indicator (green) / V3: DC power indicator (green) / PoE: PoE connection indicator (orange)"
+],
+[
+"Power",
+"Three groups of independent power input / PoE: DC37-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 100*86*30mm / Packing Box: 200*130*40mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.3Kg/0.4Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us；8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-154GP-BT"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-154GP-BT"
+],
+[
+"Product Name",
+"6 port 10/100/1000Mbps Industrial PoE Switch"
+],
+[
+"Fixed Port",
+"4*10/100/1000M RJ45 PoE port / 1*10/100/1000M Uplink RJ45 port / 1*1000M SFP"
+],
+[
+"PoE Ports",
+"1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2-4 ports support IEEE802.3af/at, with a maximum single port power of 30W"
+],
+[
+"PoE Dog",
+"Support"
+],
+[
+"PoE Pin",
+"af/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-"
+],
+[
+"Bandwidth",
+"12Gbps"
+],
+[
+"Packet Forwarding",
+"8.93Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multi-mode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PWR: Power indicator (green) / PoE port: orange PoE indicator, green grid connection indicator. / 6: Optical fiber connection indicator (green) / GX: expansion indicator (green) / V1: Main power indicator (green) / V2: Slave power indicator (green) / V3: DC power indicator (green)"
+],
+[
+"Power",
+"Three groups of independent power input / PoE: DC37-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 156*113*40mm / Packing Box: 235*165*78mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.9Kg/1.1Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us; 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-222GP-BT"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-222GP-BT"
+],
+[
+"Product Name",
+"4 port 10/100/1000Mbps Industrial PoE Switch"
+],
+[
+"Fixed Port",
+"2*10/100/1000M RJ45 PoE port / 2*1000M SFP"
+],
+[
+"PoE Ports",
+"1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2 port supports IEEE802.3af/at, with a maximum single port power of 30W"
+],
+[
+"PoE Dog",
+"Support"
+],
+[
+"PoE Pin",
+"af/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-"
+],
+[
+"Bandwidth",
+"12Gbps"
+],
+[
+"Packet Forwarding",
+"5.95Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multi-mode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PW: power indicator (green) / PoE port: orange PoE indicator, green grid connection indicator. / 3-4: Optical fiber connection indicator (green) / V1: Main power indicator (green) / V2: Slave power indicator (green) / V3: DC power indicator (green)"
+],
+[
+"Power",
+"Three groups of independent power input / PoE: DC37-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 100*86*30mm / Packing Box: 200*130*40mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.4Kg/0.5Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us；8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-244GP-BT"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-244GP-BT"
+],
+[
+"Product Name",
+"6 port 10/100/1000Mbps Industrial PoE Switch"
+],
+[
+"Fixed Port",
+"4*10/100/1000M RJ45 PoE port / 2*1000M SFP"
+],
+[
+"PoE Ports",
+"1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2-4 ports support IEEE802.3af/at, with a maximum single port power of 30W"
+],
+[
+"PoE Budget",
+"180W"
+],
+[
+"PoE Pin",
+"af/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-"
+],
+[
+"Transmission Mode",
+"Store and Forward"
+],
+[
+"Bandwidth",
+"16Gbps"
+],
+[
+"Packet Forwarding",
+"11.9Mpps"
+],
+[
+"MAC",
+"4K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"DIP Switch",
+"1: Light mouthed watchdog / 2: PoE Watchdog / 3: 1-4 port ultra long mode 250 meters (10M) / 4: After opening the ports, ports 1-4 are isolated from each other and cannot be accessed between them. They can only be accessed from the uplink port"
+],
+[
+"Port Specification",
+"10/100/1000BaseT(X)Auto"
+],
+[
+"Transmission Mode",
+"Store and Forward(full wire-speed）"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multi-mode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PWR: Power indicator light / P1: Power indicator light / P2: Power indicator light / PMX: Power overload indicator light / 5,6: Optical port connection indicator light / Port orange indicator light: PoE indicator light / Port green indicator light: Link indicator light"
+],
+[
+"Power input",
+"V1: 37-57V 5A MAX / V2: 37-57V 5A MAX / IN: --"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 155*115*40mm / Packing Box: 235*165*78mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.9Kg/1.1Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us; 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-288GP-BT"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-288GP-BT"
+],
+[
+"Product Name",
+"10 port 10/100/1000Mbps Industrial PoE Switch"
+],
+[
+"Fixed Port",
+"8*10/100/1000M RJ45 PoE port / 2*1000M SFP"
+],
+[
+"PoE Ports",
+"1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2-8 ports support IEEE802.3af/at, with a maximum single port power of 30W"
+],
+[
+"PoE Dog",
+"Support"
+],
+[
+"PoE Pin",
+"af/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-"
+],
+[
+"Bandwidth",
+"24Gbps"
+],
+[
+"Packet Forwarding",
+"14.88Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multi-mode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PWR: Power indicator (green) / PMX: Power overload indicator (green) / PoE port: orange PoE indicator, green grid connection indicator. / 9-10: Optical fiber connection indicator (green) / V1: Main power indicator (green) / V2: Slave power indicator (green)"
+],
+[
+"Power",
+"2 groups of independent power input / PoE: DC37-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 160*130*45mm / Packing Box: 280*165*79mm"
+],
+[
+"N.W/G.W(Kg)",
+"1.2Kg/1.4Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us; 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-2108GP-BT"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-2108GP-BT"
+],
+[
+"Product Name",
+"12 port 10/100/1000Mbps Industrial PoE Switch"
+],
+[
+"Fixed Port",
+"8*10/100/1000M RJ45 PoE port / 2*10/100/1000M Uplink RJ45 port / 2*1000M SFP"
+],
+[
+"PoE Ports",
+"1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2-8 ports support IEEE802.3af/at, with a maximum single port power of 30W"
+],
+[
+"PoE Dog",
+"Support"
+],
+[
+"PoE Pin",
+"af/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-"
+],
+[
+"Bandwidth",
+"24Gbps"
+],
+[
+"Packet Forwarding",
+"17.86Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multi-mode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PWR: Power indicator (green) / PoE Max: Power overload indicator (green) / Uplink port: green 100M+ orange 100m. / PoE port: orange PoE indicator, green grid connection indicator. / 9-10: Optical fiber connection indicator (green) / P1: Main power indicator (green) / P2: Slave power indicator (green)"
+],
+[
+"Power input",
+"2 groups of independent power input / PoE: DC37-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 187*130*50mm / Packing Box: 280*165*79mm"
+],
+[
+"N.W/G.W(Kg)",
+"1.3Kg/1.5Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us; 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-222DGGP-BT"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-222DGGP-BT"
+],
+[
+"Product Name",
+"4 port 10/100/1000/2500Mbps Industrial PoE Switch"
+],
+[
+"Fixed Port",
+"2*10/100/1000M RJ45 PoE port / 2*2500M SFP"
+],
+[
+"PoE Ports",
+"1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2 port supports IEEE802.3af/at, with a maximum single port power of 30W"
+],
+[
+"PoE Dog",
+"Support"
+],
+[
+"PoE Pin",
+"af/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-"
+],
+[
+"Bandwidth",
+"20Gbps"
+],
+[
+"Packet Forwarding",
+"32.74Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 2500M single and multi-mode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PW: power indicator (green) / PoE port: orange PoE indicator, green grid connection indicator. / 3-4: Optical fiber connection indicator (green) / V1: Main power indicator (green) / V2: Slave power indicator (green) / V3: DC power indicator (green)"
+],
+[
+"Power",
+"Three groups of independent power input / PoE: DC37-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 100*86*30mm / Packing Box: 200*130*40mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.4Kg/0.5Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us；8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 2",
+"text":"STI-244DGGP-BT"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-244DGGP-BT"
+],
+[
+"Product Name",
+"6 port 10/100/1000/2500Mbps Industrial PoE Switch"
+],
+[
+"Fixed Port",
+"4*10/100/1000M RJ45 PoE port / 2*2500M SFP"
+],
+[
+"PoE Ports",
+"1 port supports IEEE802.3af/at/poe++/bt, with a maximum power of 90W per port / 2-4 ports support IEEE802.3af/at, with a maximum single port power of 30W"
+],
+[
+"PoE Dog",
+"Support"
+],
+[
+"PoE Pin",
+"af/at: 12+ 36- / af/at/poe++/bt: 12+ 45+ 36- 78-"
+],
+[
+"Bandwidth",
+"20Gbps"
+],
+[
+"Packet Forwarding",
+"35.71Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3, 4, 5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 2500M single and multi-mode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PWR: Power indicator (green) / PMX: Power overload indicator (green) / PoE port: orange PoE indicator, green grid connection indicator. / 5-6: Optical fiber connection indicator (green) / P1: Main power indicator (green) / P2: Slave power indicator (green)"
+],
+[
+"Power",
+"2 groups of independent power input / PoE: DC37-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 155*115*40mm / Packing Box: 235*165*78mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.9Kg/1.1Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us; 8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"FAQ"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Leadtime"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Production starts AFTER payment is received"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that it usually takes 1~2 working days for our bank to receive the payment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Production time is usually 4~7 working days for standard(non-customized)models(no more than 50Pcs)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipping time is usually 4~7 days by express"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"In total, it takes 10~15 calendar days to arrive at local customs for clearance"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is an estimated period, it usually does not take this long to receive the order"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We will send the goods by express(DHL, UPS or FEDEX)or by sea(for bulk orders)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to ship purchased items via client’s shipping account(DHL, UPS or FEDEX)or forwarders in China"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MoQ"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1 Pc/Pair(It is NOT free, Saga Telecom do NOT do FREE SAMPLES)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to have sample testing before bulk orders"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that we do NOT suggest 1pc/pair in sample testing, better make it at least 2 pieces/pairs in case of any possible dysfunction in production/transportation(then all efforts are gone, a big waste of time)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Warranty"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1 year for commercial models(STC series)and 3 years for industrial models(STI series)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please kindly refer to the “Warranty Policy” for more information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Technical assistance is always available"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Discount"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Available and it is usually based on quantity and AFTER sample testing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The price negotiation makes sense ONLY IF a client is satisfied with the quality"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For distributorship, that we are now seeking, best prices will be provided"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Payment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"T/T transfer and PayPal"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to pay 50% first and another 50% before shipment for a bulk order(this is about standard/non-customized models)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"FULL PAYMENT for a customization order BEFORE PRODUCTION(non-negotiated)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to be paid via client’s forwarder(this is usually about RMB payment on Alipay or WeChat)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Transaction Cost"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is standard charge 25usd for EACH T/T transfer whatever the invoice value is"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is 5usd for every 100usd to PayPal a/c, this ratio is standard charge by PayPal"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"User Manual"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that there is a user manual(with necessary information for usage and installation)in the packing box Actually most of the necessary information is available in this datasheet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We can help print a copy of your version and put it in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing Box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Without Chinese letters or logo"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Hard carton, resilient to wrinkle, good for reselling even after shipment(there is protective foam inside to avoid possible damage)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Customized version is available(with your logo/model/slogan or remove the patterns), but there is MoQ and cost for this, discussion is required"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Label"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"There is product information/model name/serial number on the label"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is fine to write client’s version"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Standard language is English"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If a different language is adopted like Russian, Italian, Korean..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please share EXACT translation, we will simply copy and print"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Barcodes are scannable for inbound statistics"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"“Made in China” description is there and can be removed if required"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"An example photo will be shared for confirmation before mass printing for a bulk order"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"There are 2 copies for each manufactured product. One is attached on the device, the other is on the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Certification"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CE/RoHS/FCC/Reach/UKCA"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please let us know if you need to check the certificates"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"RMA"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please contact us ASAP once there is a problem of ANY KIND"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please also read below “after-sales support” information to understand how to proceed"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For every 100Pcs, there will be 2 extra free units(2% RMA)against immediate warranty coverage"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This rule stands for all Saga Telecom models and even there is not an after-sales issue"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If it is about missing/faulty parts in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please simply use the extra units for the replacem"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"ent and let us know this problem(we will improve)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If it is about usage problem"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom will provide technical support and send new units when necessary(in this occasion, we will be responsible for both product cost and shipping cost, but the local customs clearance cost, if any, is on clients)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SKD/CKD"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Available"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SKD is simple, please just let us know how you would like to have it"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CKD usually involves confidential information such as BOM list, schematic design, PCB layout etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is based on solid cooperation AND bulk orders, thorough discussion is required to do CKD mode"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"OEM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Available"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Discussion is required for complex changes, meanwhile an NDA(Non-disclosure Agreement)contract will be agreed upon and signed"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Relevant cooperation information will not be leaked to a third party without client’s permission"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is mainly about 2 categories"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Industrial manufacturing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Show client’s logo/model on the device/label"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Use client’s packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Design client’s product PVC sticker"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Customize some parts of a model like rear panel/power input terminal block/panels..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that there might be an extra cost for such OEM services"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Management features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Show client’s logo/model on the management interface"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Change IP address"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MAC address"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SNMP, OID"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Above changes are free of cost and please know that"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Font format&GUI color are NOT changeable for the management interface"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We can also help with develop exact features/specifications based on given chips or PCB board designs, this is more complex, thorough discussion is required"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Incoterms"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"EXW term is our focus"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Sometimes we do FOB/CIF for bulk orders, this depends on cases, please talk with us for more information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Online Store"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Currently we do not have an online store(Amazon, Shopify, Aliexpress etc.)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We will add a store link in this datasheet when available"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Branch/Distribution"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Currently we do not have ANY overseas branches or distributors"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We are actively seeking good agents/resellers to promote our brand and products"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Necessary technical and pricing support will be provided"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please let us know if you are interested"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Material Preparation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"20% deposit will be collected beforehand for material preparation if there is a strict requirement of production time."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is to protect ourselves from the awkward situation where we have prepared the materials while the clients do not successfully place the order due to different reasons"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This deposit will be deducted from total amount if this order is secured"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This deposit will be returned after we consumed half of the prepared materials in other orders if this order is not placed"
+},
+{
+"t":"table",
+"rows":[
+[
+"Product Label",
+"Certificate of Warranty"
+],
+[
+"Shipping Label",
+""
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that this is for your reference only(roughly like this, but subject to final format)"
+}
+],
+"extracted_at":"2026-10-23T05:20:28Z"
+}

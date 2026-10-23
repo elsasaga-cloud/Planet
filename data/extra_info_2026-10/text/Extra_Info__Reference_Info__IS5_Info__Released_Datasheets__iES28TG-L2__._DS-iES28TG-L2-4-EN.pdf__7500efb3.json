@@ -1,0 +1,22 @@
+{
+"id":"Extra_Info__Reference_Info__IS5_Info__Released_Datasheets__iES28TG-L2__._DS-iES28TG-L2-4-EN.pdf__7500efb3",
+"path":"Extra_Info/Reference Info/IS5 Info/Released Datasheets/iES28TG-L2/._DS-iES28TG-L2-4-EN.pdf",
+"name":"._DS-iES28TG-L2-4-EN.pdf",
+"ext":".pdf",
+"bytes":4096,
+"sha256":"7500efb3e960c3ff07b5ad2b872f8e2be10d57561132c39e6adf59d94ac9e2be",
+"source":"Extra_Info.zip",
+"method":"pdfplumber",
+"status":"meta",
+"meta":{
+"ocr_pages":0
+},
+"warnings":[
+"pdfplumber: No /Root object! - Is this really a PDF?",
+"pypdf: Stream has ended unexpectedly"
+],
+"chars":0,
+"text":"",
+"pages":[],
+"extracted_at":"2026-10-23T05:13:20Z"
+}

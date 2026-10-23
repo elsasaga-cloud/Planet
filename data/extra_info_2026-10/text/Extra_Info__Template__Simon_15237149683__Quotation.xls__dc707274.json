@@ -1,0 +1,184 @@
+{
+"id":"Extra_Info__Template__Simon_15237149683__Quotation.xls__dc707274",
+"path":"Extra_Info/Template/Simon 15237149683/Quotation.xls",
+"name":"Quotation.xls",
+"ext":".xls",
+"bytes":389120,
+"sha256":"dc70727424116fe6a7197bb368f0e4f0ed2f4e6f12e5314194480748f35847ec",
+"source":"Extra_Info.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Proforma Invoice"
+],
+"rows_total":35
+},
+"warnings":[],
+"chars":2443,
+"text":"--- Sheet: Proforma Invoice ---\nSaga Telecom, OEM Factory\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 15237149683                                          www.sagatelecom.com.cn                                Email: s.sagatelecom@gmail.com\n*********************************************************************************************************************\nQuotation\nBuyer:\t\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t\t\tQuoted By:\tSimon\nEmail:\t\t\tDate:\t18th, Mar, 2025\nContact Person:\t\t\tPrice Term:\tEXW(Shipping cost is NOT included)\nDestination\nModel\tSpecification\t\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSTI-42424XGGPM-4BT\t\tIndustrial PoE Managed Switch\n\n4*1G/2.5G/10G SFP+24*10/100/1000M RJ45/PoE +1*Console Port+1*USB Port\n20*PoE af/at+4*PoE af/at/bt\n240W/370W, L3 Managed\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), Din Mounted\nWith Mounting Hanger\nWithout Optical Module, Without Power Supply\n\n1, Without DI/DO/RS485 Function\n2, -40℃~+ 70℃@240W PoE Output\n-40℃~+ 60℃@370W PoE Output\t\t1\t500\t500\tMarvell Chip\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 158*115*110mm\nNet Weight: 1.8Kg\nGross Weight: 2Kg\nFreight Cost\t60usd for about 2Kg volume weight to UK by FedEx\nAir, door-to-door service\nShipment time: 4~6 calendar days\t\t\t\t\t60\nPayPal Cost\t5Usd will be charged for EVERY 100Usd to our account\t\t\t\t\t28\nTOTAL\t\t\t\t1\t\t588\nSAY TOTAL IN USD FIVE HUNDRED AND EIGHTY EIGHT DOLLARS\nRemark\nPlease do make sure client side could handle import customs clearance\nIf there is any problem with the shipment or clearance\n1, please let us know ASAP\n2, please call DHL/FedEx/UPS official number for information\nPrice validity: 15 days\nSaga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply\nNon-brand packing, without Chinese letters or logo\nNeutral device\nCountry of origin: China\nProduction time: 4~7 working days(NOT including shipping time)\nWarranty: 3 years, lifetime technical support\nPurchased items are deemed accepted upon initial inspection if no written notice of defects is received within two (2) months from the delivery date\nThis acceptance clause shall not affect the validity of the warranty period\nPlease refer to \"warranty policy\" for more information",
+"sheets":{
+"Proforma Invoice":{
+"rows":[
+[
+"Saga Telecom, OEM Factory"
+],
+[
+"Tailored Managed Networking Solutions Provider"
+],
+[
+"Built to Last, Continuous Supply, Evolving Together"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 15237149683                                          www.sagatelecom.com.cn                                Email: s.sagatelecom@gmail.com"
+],
+[
+"*********************************************************************************************************************"
+],
+[
+"Quotation"
+],
+[
+"Buyer:",
+"",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"",
+"",
+"Quoted By:",
+"Simon"
+],
+[
+"Email:",
+"",
+"",
+"Date:",
+"18th, Mar, 2025"
+],
+[
+"Contact Person:",
+"",
+"",
+"Price Term:",
+"EXW(Shipping cost is NOT included)"
+],
+[
+"Destination"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"STI-42424XGGPM-4BT",
+"",
+"Industrial PoE Managed Switch\n\n4*1G/2.5G/10G SFP+24*10/100/1000M RJ45/PoE +1*Console Port+1*USB Port\n20*PoE af/at+4*PoE af/at/bt\n240W/370W, L3 Managed\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), Din Mounted\nWith Mounting Hanger\nWithout Optical Module, Without Power Supply\n\n1, Without DI/DO/RS485 Function\n2, -40℃~+ 70℃@240W PoE Output\n-40℃~+ 60℃@370W PoE Output",
+"",
+"1",
+"500",
+"500",
+"Marvell Chip"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 158*115*110mm\nNet Weight: 1.8Kg\nGross Weight: 2Kg"
+],
+[
+"Freight Cost",
+"60usd for about 2Kg volume weight to UK by FedEx\nAir, door-to-door service\nShipment time: 4~6 calendar days",
+"",
+"",
+"",
+"",
+"60"
+],
+[
+"PayPal Cost",
+"5Usd will be charged for EVERY 100Usd to our account",
+"",
+"",
+"",
+"",
+"28"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"1",
+"",
+"588"
+],
+[
+"SAY TOTAL IN USD FIVE HUNDRED AND EIGHTY EIGHT DOLLARS"
+],
+[
+"Remark"
+],
+[
+"Please do make sure client side could handle import customs clearance"
+],
+[
+"If there is any problem with the shipment or clearance"
+],
+[
+"1, please let us know ASAP"
+],
+[
+"2, please call DHL/FedEx/UPS official number for information"
+],
+[
+"Price validity: 15 days"
+],
+[
+"Saga Telecom reserves all rights to repricing if the USD-RMB exchange rate fluctuates sharply"
+],
+[
+"Non-brand packing, without Chinese letters or logo"
+],
+[
+"Neutral device"
+],
+[
+"Country of origin: China"
+],
+[
+"Production time: 4~7 working days(NOT including shipping time)"
+],
+[
+"Warranty: 3 years, lifetime technical support"
+],
+[
+"Purchased items are deemed accepted upon initial inspection if no written notice of defects is received within two (2) months from the delivery date"
+],
+[
+"This acceptance clause shall not affect the validity of the warranty period"
+],
+[
+"Please refer to \"warranty policy\" for more information"
+]
+]
+}
+},
+"extracted_at":"2026-10-23T05:20:25Z"
+}

@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-240FE__2.png__2c323d79",
+"path":"Extra_Info/Hasivo/Industrial Ethernet_DONE/STI-240FE/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":1822795,
+"sha256":"2c323d79831761821ee81361b7ce981f46812784334da6295eebf432ff589cf1",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":2222,
+"height":825,
+"mode":"RGBA",
+"thumb_bytes":6386
+},
+"warnings":[],
+"chars":47,
+"text":"@s@s 加 有\n@°@sS\n@» @s\nIndustial Switch\n4FE + 2FX",
+"extracted_at":"2026-10-23T05:24:43Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-240FE__2.png__2c323d79.jpg"
+}

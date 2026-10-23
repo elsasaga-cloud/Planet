@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__工业管理类目__L2_PoE__STI-244GPM-2BT__3.png__d8642f16",
+"path":"Extra_Info/Hasivo/待处理/工业管理类目/L2 PoE/STI-244GPM-2BT/3.png",
+"name":"3.png",
+"ext":".png",
+"bytes":953894,
+"sha256":"d8642f16a21bb59d35e0c7349698ee88c5035a30ad63e0107396b8e9117248b4",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":577,
+"height":1064,
+"mode":"RGBA",
+"thumb_bytes":11100
+},
+"warnings":[],
+"chars":66,
+"text":"ee\n5 6 CPW\nLink PoE Console\nManaged Industrial Switch 4GE PoE+2SFP",
+"extracted_at":"2026-10-23T05:21:45Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__工业管理类目__L2_PoE__STI-244GPM-2BT__3.png__d8642f16.jpg"
+}

@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Template__Elsa_18838975947__CoW_Elsa.psd__22172c4a",
+"path":"Extra_Info/Template/Elsa 18838975947/CoW Elsa.psd",
+"name":"CoW Elsa.psd",
+"ext":".psd",
+"bytes":13028084,
+"sha256":"22172c4a50158123a3b5f2d34f816cdc046ce042d9bba1060a4d912eb1cf041e",
+"source":"Extra_Info.zip",
+"method":"pillow(psd composite)",
+"status":"meta",
+"meta":{
+"format":"PSD",
+"width":2480,
+"height":3508,
+"mode":"RGB",
+"thumb_bytes":14804
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:20:24Z",
+"thumb":"thumbs/Extra_Info__Template__Elsa_18838975947__CoW_Elsa.psd__22172c4a.jpg"
+}

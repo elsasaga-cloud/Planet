@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__百千兆2_8_左右结构__1.png__14bf17fa",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/百千兆2+8 左右结构/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":2600395,
+"sha256":"14bf17fa9ef7d229d6a52f1abf1705f3932ebc22c374de1fa13df7aa0f26cc34",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":3513,
+"height":819,
+"mode":"RGBA",
+"thumb_bytes":4256
+},
+"warnings":[],
+"chars":41,
+"text":"PoE Link\nHybrid PoE Switch\n8FE PoE+2GE UP",
+"extracted_at":"2026-10-23T05:22:54Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__百千兆2_8_左右结构__1.png__14bf17fa.jpg"
+}

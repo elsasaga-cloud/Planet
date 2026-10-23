@@ -1,0 +1,18 @@
+{
+"id":"Extra_Info__Xmind__如何报价.xmind__c9e1eedb",
+"path":"Extra_Info/Xmind/如何报价.xmind",
+"name":"如何报价.xmind",
+"ext":".xmind",
+"bytes":103660,
+"sha256":"c9e1eedb613e321a345a5065c0c4f4a7afb114dfe83100331070491d37bd124d",
+"source":"Extra_Info.zip",
+"method":"xmind(content.xml)",
+"status":"ok",
+"meta":{
+"lines":28
+},
+"warnings":[],
+"chars":486,
+"text":"# Sheet: 画布 1\n- 如何报价\n  - 范围报价\n    - 发一个价格区间\n      - 数量不同价格不同\n      - 数量大了免费OEM\n      - 同时结合客户背调问问题，比如具体规格，用在哪里\n  - 精准报价\n    - 贸易商术语\n      - EXW\n    - 价格数量\n    - 付款方式\n    - 交期\n    - 如何发货\n    - 汇率\n    - 报价有效期\n    - MOQ\n    - 质保\n    - 海关编码\n  - 报价单式\n    - 某个系列的价格直接都发过去，小壳系列\n      - 可以尽快确认需求\n      - 可以吸引客户看其他型号，展示更多信息\n      - 后续客户有可能会再问相关产品\n  - 成本报价\n    - 主要针对印度等一些价格非常敏感的客户\n    - 大概说明价格架构，同时展现更多专业细节比如相关认证CE E-mark Vitesse芯片\n    - 可以问一下客户目标价以及为啥会有这样的一个价格（有可能就那么多预算，也可能是拿质量一般的同行的价格来压价比如宇航）",
+"extracted_at":"2026-10-23T05:20:12Z"
+}

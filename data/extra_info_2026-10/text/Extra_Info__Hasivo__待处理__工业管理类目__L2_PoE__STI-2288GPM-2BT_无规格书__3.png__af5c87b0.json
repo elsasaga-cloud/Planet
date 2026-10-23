@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__工业管理类目__L2_PoE__STI-2288GPM-2BT_无规格书__3.png__af5c87b0",
+"path":"Extra_Info/Hasivo/待处理/工业管理类目/L2 PoE/STI-2288GPM-2BT 无规格书/3.png",
+"name":"3.png",
+"ext":".png",
+"bytes":620607,
+"sha256":"af5c87b013a09e9b477ab5a5514052afd187a7aaa9efc46d8ccc40c3de70b278",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":473,
+"height":1050,
+"mode":"RGBA",
+"thumb_bytes":9184
+},
+"warnings":[],
+"chars":16,
+"text":"oF\nor\nIndustrial",
+"extracted_at":"2026-10-23T05:21:14Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__工业管理类目__L2_PoE__STI-2288GPM-2BT_无规格书__3.png__af5c87b0.jpg"
+}

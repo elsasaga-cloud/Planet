@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__工业管理类目__L2_Non-PoE__STI-240GM__1.png__c5c16e8d",
+"path":"Extra_Info/Hasivo/待处理/工业管理类目/L2 Non-PoE/STI-240GM/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":465565,
+"sha256":"c5c16e8d6535c504f9b5b1be564081596231089ff509549ce8365b1fb24611ca",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1019,
+"height":365,
+"mode":"RGBA",
+"thumb_bytes":9134
+},
+"warnings":[],
+"chars":19,
+"text":"console\n|\nLink Giga",
+"extracted_at":"2026-10-23T05:21:57Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__工业管理类目__L2_Non-PoE__STI-240GM__1.png__c5c16e8d.jpg"
+}

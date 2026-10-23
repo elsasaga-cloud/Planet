@@ -1,0 +1,654 @@
+{
+"id":"Extra_Info__Reference_Info__UniPoE__DS__L2_Managed_Switch__PM3030GSM_V1-EN.doc__015b7c66",
+"path":"Extra_Info/Reference Info/UniPoE/DS/L2 Managed Switch/PM3030GSM V1-EN.doc",
+"name":"PM3030GSM V1-EN.doc",
+"ext":".doc",
+"bytes":1466880,
+"sha256":"015b7c669cf6a49de3deb08572e2433395a9778d18250eae083422df58c7cb74",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:19:07+00:00",
+"paragraphs":18,
+"tables":3,
+"embedded_images":5
+},
+"warnings":[],
+"chars":5733,
+"text":"Product Overview\nThe PM3030GSM V1 provides 24*10/100/1000Mbps RJ45 ports, 2*1000Mbps Combo ports and 2*1000Mbps SFP slots that supports 802.3af/at Standard , with a total PoE power supply up to 370W, powerful and flexible enough for users to deploy wireless access points or IP-based network surveillance cameras. The switch also comes equipped with 2 SFP slots, expanding your network flexibly. In addition, it provides high performance, enterprise-level QoS, advanced security strategies and rich layer 2 management features. With all these advanced features, the PoE Switch is an ideal choice for small and medium business networking.\nProduct Features\nComplies with IEEE802.3af/at Standard;\nSupport RJ45 Auto-MDI/MDIX;\nSupports PoE Power up to 30W for each PoE port;\nAuto detect power device;\nRemote power and Data feeding up to 100m;\nFlow Control for Full Duplex operation and back pressure for Half Duplex Operation;\nSupport Energy-Efficient Ethernet (EEE) function (IEEE802.3az);\nHighly reliable design, supporting traditional STP/MSTP/RSTP Layer 2 link protection technology;\nSupport static convergence and dynamic convergence (LACP) 2 convergence modes, effectively increase the link bandwidth, improve the reliability of the link, and at the same time can achieve load balancing, link backup;\nWeb, CLI (Console Port, Telnet, SSH), SNMP and RMON bring abundant management policies;\nSupport PD-ALIVE function.\nProduct Specifications\nModel\tPM3030GSM V1\nStandard\tIEEE802.3, IEEE802.3u,IEEE802.3ab,IEEE802.3z,IEEE802.3x,IEEE802.1X,IEEE802.1q,IEEE 802.1p,IEEE802.1d,IEEE802.1w,IEEE802.3ad,IEEE802.3af,IEEE802.3at\nInterface\t24*10/100/1000Mbps RJ45 Ports (Auto Negotiation/Auto MDI/MDIX) / 2*1000Mbps Combo Ports\n2*1000Mbps SFP Slots / 1 Console Port\nIndicator\tPWR, LNK/ACT, PoE\nNetwork media\t10BASE-T: UTP category 3,4,5 cable(≤100m) / 100BASE-TX: UTP category 5, 5e cable(≤100m) / 1000BASE-T: UTP category 5e, 5 cable(≤100m) / 100BASE-FX:MMF,SMF / 1000BASE-X: MMF, SMF\nMAC Address Table\t8K, Auto-learning, Auto-updating\njumbo frame\t9216Bytes\nTransfer Mode\tStore-and-forward\nPacket Forward Speed\t41.66Mpps\nPacket buffer\t4.1Mbit\nSwitching Capacity\t56Gbps\nDimensions(L*W*H)\t440*207*44mm\nFan Quantity\t2pcs\nPoE Port\tPort1~24\nPoE Power on RJ45\tMode A 1/2(-),3/6(+)\nPoE Power Output\tVoltage: 55V DC Power: 30W(MAX)\nPoE Power Budget\t370W\nPower supply\t400W\nInput Power Supply\t100~240V AC, 50/60Hz\nOperating Temperature\t0°C ~ 40 °C\nStorage Temperature\t-40 °C ~ 70 °C\nOperating Humidity\t10% ~ 90% non-condensing\nStorage Humidity\t5% ~ 90% non-condensing\nSurge Protection\tCommon mode ±6KV , Differential mode ±4KV；\nMTBF\t>50000 hour\nElectrostatic standard\tContact ±6KV,Air ±8KV\nGreen energy saving\tSupport IEEE 802.3az\nHardware Specification\nSoftware Specification\nspanning  Tree\tIEEE802.1D -Spanning Tree\t\nspanning  Tree\tIEEE802.1w -Rapid Spanning Tree\t\nspanning  Tree\tIEEE802.1s -Multiple Spanning Tree\t\nspanning  Tree\tBPDU Guard\t\nspanning  Tree\tSTP Root Guard\t\nspanning  Tree\tLoop Detection\t\nVLAN\tManagement VLAN\t\nVLAN\tPrivate VLAN\t\nVLAN\tVoice VLAN\t\nVLAN\tSurveillance-VLAN\t\nVLAN\tQ-in-Q (Double Tag)\t\nVLAN\t802.1v Protocol VLAN\t\nVLAN\tMAC-Based  VLAN\t\nPort\tIEEE 802.3ad witch LACP(Dynamic)\t\nPort\tStatic Trunk\t\nPort\tEEE\t\nPort\tJumbo Frame\t\nPort\tError-Disable\t\nIGMP  Snooping\tIGMP  Snooping v1/v2/v3\t\nIGMP  Snooping\tMLD Snooping v1/v2\t\nIGMP  Snooping\tMVR\t\nQoS Features\tHardware Queues\nQoS Features\tClass Of Service\tPort Based\nQoS Features\tClass Of Service\t802.1p\nQoS Features\tClass Of Service\tCoS\nQoS Features\tClass Of Service\tDSCP\nQoS Features\tClass Of Service\tIP Precedence\nQoS Features\tClass Of Service\tTCP/UDP (IPv4/IPv6)\nQoS Features\tRate Limiting\tIngress\nQoS Features\tRate Limiting\tEgress\nQoS Features\tPriority Queue Scheduling\tWRR\nQoS Features\tPriority Queue Scheduling\tStrict Priority\nQoS Features\tPriority Queue Scheduling\tDSCP & CS\nQoS Features\tIPv4 QoS (QCEs)\nQoS Features\tIPv6 QoS (QCEs)\nSecurity\tPort Security\nSecurity\tPort Isolation\nSecurity\tIEEE802.1x AAA\nSecurity\tACLs\tL2+/L3/L4\nSecurity\tACLs\tIPv6 Support\nSecurity\tACLs\tManagement Access List\nSecurity\tManagement ACL/Management ACE\nSecurity\tIP Source Guard (IP-MAC-Port-VALN Binding)\nSecurity\tIP Source Guard (IP-MAC-Port Binding)\nSecurity\tDynamic ARP Inspection\nSecurity\tStorm Control\nSecurity\tRADIUS/TACACS+\nSecurity\tRADIUS Authentication (RFC2138)\nSecurity\tDDoS Prevention\nSecurity\tHTTPs and SSL (Secured Web)\nSecurity\tSSH v1.5/v2.0 (Secured Telnet Session)\nSecurity\tDHCP Snooping\nManagement\tSNMP (v1, v2c, v3)\nManagement\tRMON ( 1,2,3 & 9 groups)\nManagement\tSoftware Upgrade\nManagement\tConfiguration Export/Import\nManagement\tDHCP\tClient\nManagement\tDHCP\tOption 82\nManagement\tDHCP\tOption 66\nManagement\tDHCP\tOption 67\nManagement\tEvent/Error Log\tSyslog\nManagement\tManagement Access Filtering\tConsole\nManagement\tManagement Access Filtering\tSNMP\nManagement\tManagement Access Filtering\tHTTP/HTTPS\nManagement\tManagement Access Filtering\tTelnet\nManagement\tPort Mirroring\nManagement\tLLDP (IEEE802.1AB)\nManagement\tLLDP-MED\nManagement\tUDLD\t\nManagement\tDNS Client\t\nManagement\tTraceroute\t\nManagement\tPing\t\nManagement\tCable Test\t\nManagement\tDDMI\t\nManagement\tNTP/ SNTP (RFC2030)\nIPv6 Support\tDual IPv6/IPv4 stack\nIPv6 Support\tIPv6 Web/SSL\nIPv6 Support\tIPv6 SNTP (Simple Network Time Protocol)\nIPv6 Support\tIPv6 Telnet / SSH\nIPv6 Support\tIPv6 Ping/Traceroute\nIPv6 Support\tIPv6 TFTP\nIPv6 Support\tIPv6 RADIUS/TACACS+\nIPv6 Support\tIPv6 SNMP\nPoE Management\tPort Config\nPoE Management\tAlive Checking for PD\nPoE Management\tPoE Delay\nPoE Management\tPoE Schedule\nONVIF\tONVIF Deteciton\nONVIF\tONVIF Server(NLM)\nOrdering Information\nModel\tProduct Information\nPM3030GSM V1\t24-Port Gigabit+2G Combo+2G SFP Managed PoE Switch(24-Port PoE, support IEEE802.3af/at Standard)\n[文本框]\nPM3030GSM V1 Managed PoE Switch",
+"blocks":[
+{
+"t":"p",
+"s":"列出段落",
+"text":"Product Overview"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The PM3030GSM V1 provides 24*10/100/1000Mbps RJ45 ports, 2*1000Mbps Combo ports and 2*1000Mbps SFP slots that supports 802.3af/at Standard , with a total PoE power supply up to 370W, powerful and flexible enough for users to deploy wireless access points or IP-based network surveillance cameras. The switch also comes equipped with 2 SFP slots, expanding your network flexibly. In addition, it provides high performance, enterprise-level QoS, advanced security strategies and rich layer 2 management features. With all these advanced features, the PoE Switch is an ideal choice for small and medium business networking."
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Product Features"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Complies with IEEE802.3af/at Standard;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support RJ45 Auto-MDI/MDIX;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Supports PoE Power up to 30W for each PoE port;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Auto detect power device;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Remote power and Data feeding up to 100m;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Flow Control for Full Duplex operation and back pressure for Half Duplex Operation;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Support Energy-Efficient Ethernet (EEE) function (IEEE802.3az);"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Highly reliable design, supporting traditional STP/MSTP/RSTP Layer 2 link protection technology;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Support static convergence and dynamic convergence (LACP) 2 convergence modes, effectively increase the link bandwidth, improve the reliability of the link, and at the same time can achieve load balancing, link backup;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Web, CLI (Console Port, Telnet, SSH), SNMP and RMON bring abundant management policies;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Support PD-ALIVE function."
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Product Specifications"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"PM3030GSM V1"
+],
+[
+"Standard",
+"IEEE802.3, IEEE802.3u,IEEE802.3ab,IEEE802.3z,IEEE802.3x,IEEE802.1X,IEEE802.1q,IEEE 802.1p,IEEE802.1d,IEEE802.1w,IEEE802.3ad,IEEE802.3af,IEEE802.3at"
+],
+[
+"Interface",
+"24*10/100/1000Mbps RJ45 Ports (Auto Negotiation/Auto MDI/MDIX) / 2*1000Mbps Combo Ports\n2*1000Mbps SFP Slots / 1 Console Port"
+],
+[
+"Indicator",
+"PWR, LNK/ACT, PoE"
+],
+[
+"Network media",
+"10BASE-T: UTP category 3,4,5 cable(≤100m) / 100BASE-TX: UTP category 5, 5e cable(≤100m) / 1000BASE-T: UTP category 5e, 5 cable(≤100m) / 100BASE-FX:MMF,SMF / 1000BASE-X: MMF, SMF"
+],
+[
+"MAC Address Table",
+"8K, Auto-learning, Auto-updating"
+],
+[
+"jumbo frame",
+"9216Bytes"
+],
+[
+"Transfer Mode",
+"Store-and-forward"
+],
+[
+"Packet Forward Speed",
+"41.66Mpps"
+],
+[
+"Packet buffer",
+"4.1Mbit"
+],
+[
+"Switching Capacity",
+"56Gbps"
+],
+[
+"Dimensions(L*W*H)",
+"440*207*44mm"
+],
+[
+"Fan Quantity",
+"2pcs"
+],
+[
+"PoE Port",
+"Port1~24"
+],
+[
+"PoE Power on RJ45",
+"Mode A 1/2(-),3/6(+)"
+],
+[
+"PoE Power Output",
+"Voltage: 55V DC Power: 30W(MAX)"
+],
+[
+"PoE Power Budget",
+"370W"
+],
+[
+"Power supply",
+"400W"
+],
+[
+"Input Power Supply",
+"100~240V AC, 50/60Hz"
+],
+[
+"Operating Temperature",
+"0°C ~ 40 °C"
+],
+[
+"Storage Temperature",
+"-40 °C ~ 70 °C"
+],
+[
+"Operating Humidity",
+"10% ~ 90% non-condensing"
+],
+[
+"Storage Humidity",
+"5% ~ 90% non-condensing"
+],
+[
+"Surge Protection",
+"Common mode ±6KV , Differential mode ±4KV；"
+],
+[
+"MTBF",
+">50000 hour"
+],
+[
+"Electrostatic standard",
+"Contact ±6KV,Air ±8KV"
+],
+[
+"Green energy saving",
+"Support IEEE 802.3az"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Hardware Specification"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Software Specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"spanning  Tree",
+"IEEE802.1D -Spanning Tree",
+""
+],
+[
+"spanning  Tree",
+"IEEE802.1w -Rapid Spanning Tree",
+""
+],
+[
+"spanning  Tree",
+"IEEE802.1s -Multiple Spanning Tree",
+""
+],
+[
+"spanning  Tree",
+"BPDU Guard",
+""
+],
+[
+"spanning  Tree",
+"STP Root Guard",
+""
+],
+[
+"spanning  Tree",
+"Loop Detection",
+""
+],
+[
+"VLAN",
+"Management VLAN",
+""
+],
+[
+"VLAN",
+"Private VLAN",
+""
+],
+[
+"VLAN",
+"Voice VLAN",
+""
+],
+[
+"VLAN",
+"Surveillance-VLAN",
+""
+],
+[
+"VLAN",
+"Q-in-Q (Double Tag)",
+""
+],
+[
+"VLAN",
+"802.1v Protocol VLAN",
+""
+],
+[
+"VLAN",
+"MAC-Based  VLAN",
+""
+],
+[
+"Port",
+"IEEE 802.3ad witch LACP(Dynamic)",
+""
+],
+[
+"Port",
+"Static Trunk",
+""
+],
+[
+"Port",
+"EEE",
+""
+],
+[
+"Port",
+"Jumbo Frame",
+""
+],
+[
+"Port",
+"Error-Disable",
+""
+],
+[
+"IGMP  Snooping",
+"IGMP  Snooping v1/v2/v3",
+""
+],
+[
+"IGMP  Snooping",
+"MLD Snooping v1/v2",
+""
+],
+[
+"IGMP  Snooping",
+"MVR",
+""
+],
+[
+"QoS Features",
+"Hardware Queues"
+],
+[
+"QoS Features",
+"Class Of Service",
+"Port Based"
+],
+[
+"QoS Features",
+"Class Of Service",
+"802.1p"
+],
+[
+"QoS Features",
+"Class Of Service",
+"CoS"
+],
+[
+"QoS Features",
+"Class Of Service",
+"DSCP"
+],
+[
+"QoS Features",
+"Class Of Service",
+"IP Precedence"
+],
+[
+"QoS Features",
+"Class Of Service",
+"TCP/UDP (IPv4/IPv6)"
+],
+[
+"QoS Features",
+"Rate Limiting",
+"Ingress"
+],
+[
+"QoS Features",
+"Rate Limiting",
+"Egress"
+],
+[
+"QoS Features",
+"Priority Queue Scheduling",
+"WRR"
+],
+[
+"QoS Features",
+"Priority Queue Scheduling",
+"Strict Priority"
+],
+[
+"QoS Features",
+"Priority Queue Scheduling",
+"DSCP & CS"
+],
+[
+"QoS Features",
+"IPv4 QoS (QCEs)"
+],
+[
+"QoS Features",
+"IPv6 QoS (QCEs)"
+],
+[
+"Security",
+"Port Security"
+],
+[
+"Security",
+"Port Isolation"
+],
+[
+"Security",
+"IEEE802.1x AAA"
+],
+[
+"Security",
+"ACLs",
+"L2+/L3/L4"
+],
+[
+"Security",
+"ACLs",
+"IPv6 Support"
+],
+[
+"Security",
+"ACLs",
+"Management Access List"
+],
+[
+"Security",
+"Management ACL/Management ACE"
+],
+[
+"Security",
+"IP Source Guard (IP-MAC-Port-VALN Binding)"
+],
+[
+"Security",
+"IP Source Guard (IP-MAC-Port Binding)"
+],
+[
+"Security",
+"Dynamic ARP Inspection"
+],
+[
+"Security",
+"Storm Control"
+],
+[
+"Security",
+"RADIUS/TACACS+"
+],
+[
+"Security",
+"RADIUS Authentication (RFC2138)"
+],
+[
+"Security",
+"DDoS Prevention"
+],
+[
+"Security",
+"HTTPs and SSL (Secured Web)"
+],
+[
+"Security",
+"SSH v1.5/v2.0 (Secured Telnet Session)"
+],
+[
+"Security",
+"DHCP Snooping"
+],
+[
+"Management",
+"SNMP (v1, v2c, v3)"
+],
+[
+"Management",
+"RMON ( 1,2,3 & 9 groups)"
+],
+[
+"Management",
+"Software Upgrade"
+],
+[
+"Management",
+"Configuration Export/Import"
+],
+[
+"Management",
+"DHCP",
+"Client"
+],
+[
+"Management",
+"DHCP",
+"Option 82"
+],
+[
+"Management",
+"DHCP",
+"Option 66"
+],
+[
+"Management",
+"DHCP",
+"Option 67"
+],
+[
+"Management",
+"Event/Error Log",
+"Syslog"
+],
+[
+"Management",
+"Management Access Filtering",
+"Console"
+],
+[
+"Management",
+"Management Access Filtering",
+"SNMP"
+],
+[
+"Management",
+"Management Access Filtering",
+"HTTP/HTTPS"
+],
+[
+"Management",
+"Management Access Filtering",
+"Telnet"
+],
+[
+"Management",
+"Port Mirroring"
+],
+[
+"Management",
+"LLDP (IEEE802.1AB)"
+],
+[
+"Management",
+"LLDP-MED"
+],
+[
+"Management",
+"UDLD",
+""
+],
+[
+"Management",
+"DNS Client",
+""
+],
+[
+"Management",
+"Traceroute",
+""
+],
+[
+"Management",
+"Ping",
+""
+],
+[
+"Management",
+"Cable Test",
+""
+],
+[
+"Management",
+"DDMI",
+""
+],
+[
+"Management",
+"NTP/ SNTP (RFC2030)"
+],
+[
+"IPv6 Support",
+"Dual IPv6/IPv4 stack"
+],
+[
+"IPv6 Support",
+"IPv6 Web/SSL"
+],
+[
+"IPv6 Support",
+"IPv6 SNTP (Simple Network Time Protocol)"
+],
+[
+"IPv6 Support",
+"IPv6 Telnet / SSH"
+],
+[
+"IPv6 Support",
+"IPv6 Ping/Traceroute"
+],
+[
+"IPv6 Support",
+"IPv6 TFTP"
+],
+[
+"IPv6 Support",
+"IPv6 RADIUS/TACACS+"
+],
+[
+"IPv6 Support",
+"IPv6 SNMP"
+],
+[
+"PoE Management",
+"Port Config"
+],
+[
+"PoE Management",
+"Alive Checking for PD"
+],
+[
+"PoE Management",
+"PoE Delay"
+],
+[
+"PoE Management",
+"PoE Schedule"
+],
+[
+"ONVIF",
+"ONVIF Deteciton"
+],
+[
+"ONVIF",
+"ONVIF Server(NLM)"
+]
+]
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Ordering Information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"Product Information"
+],
+[
+"PM3030GSM V1",
+"24-Port Gigabit+2G Combo+2G SFP Managed PoE Switch(24-Port PoE, support IEEE802.3af/at Standard)"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:19:07Z"
+}

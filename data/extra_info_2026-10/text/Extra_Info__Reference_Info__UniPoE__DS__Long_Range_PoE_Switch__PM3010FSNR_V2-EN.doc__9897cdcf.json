@@ -1,0 +1,243 @@
+{
+"id":"Extra_Info__Reference_Info__UniPoE__DS__Long_Range_PoE_Switch__PM3010FSNR_V2-EN.doc__9897cdcf",
+"path":"Extra_Info/Reference Info/UniPoE/DS/Long Range PoE Switch/PM3010FSNR V2-EN.doc",
+"name":"PM3010FSNR V2-EN.doc",
+"ext":".doc",
+"bytes":530944,
+"sha256":"9897cdcf1a175bfd27598ee840482b97f1ed8b758cb23845528c436bdc3fda02",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:19:13+00:00",
+"paragraphs":18,
+"tables":2,
+"embedded_images":5
+},
+"warnings":[],
+"chars":3006,
+"text":"Product Overview\nThe PM3010FSNR V2 has 8*10/100Mbps adaptive RJ45 ports and 2*10/100/1000Mbps RJ45 ports. Each RJ45 port supports MDI/MDIX auto-flip and wire-speed forwarding function. Ports 1-8 have PoE power supply function, supports IEEE 802.3af/at standard, supports up to 800m long-distance transmission (used with long-distance equipment), and can be used as Power over Ethernet device, which can automatically detect and identify the powered devices that meet the standard and supply power to them through the network cable. Uses store-and-forward technology, combined with dynamic memory allocation, to ensure that bandwidth is efficiently allocated to each port.\nThe PM3010FSNR V2 provides one-click VLAN and CCTV functions. Users can enable or disable the CCTV functions according to different application environments to improve network security and suppress network storms. The PM3010FSNR V2 is easy to manage and maintain, and meets the networking and access requirements of enterprises, communities, hotels, office networks, and campus networks.\nFeatures\nSupport IEEE802.3at/af standard;\nSingle port output power up to 30W;\n100Mbps data transmission and PoE power supply distance up to 300m(Typical);\n10Mbps data transmission and PoE power supply distance up to 800m;\nAutomatic detection and identification of standard PoE powered devices, intelligent power supply, will not burn non-standard PoE powered devices or ordinary devices;\nSupports IEEE802.3x full-duplex flow control and Backpressure half-duplex flow control;\nPanel indicators monitor operating status and help with fault analysis;\nWire-speed forwarding, intelligent recognition;\nData exchange using store-and-forward method;\nSupport PD-ALIVE function;\nSupport CCTV and VLAN toggle switch online switching;\nMotherboard, Power Supply, PoE (3 in 1).\nProduct Specifications\nModel\tPM3010FSNR V2\nInterface\t8*10/100Mbps RJ45 ports / 2*10/100/1000Mbps RJ45 ports\nNetwork Media\t10BASE-T： UTP category 3,4,5 cable （≤100m） / 100BASE-TX：UTP category 5, 5e cable （≤100m）\nStandard\tIEEE802.3,IEEE802.3u,IEEE802.3i,IEEE802.3ab,IEEE802.3x,IEEE802.3af,IEEE802.3at\nKey Function\tCCTV&VLAN\nIndicator\tPWR、LNK/ACT、PoE\nMAC Address Table\t8K，Auto-learning, Auto-aging\nJumbo Frame\t9K Byte\nPacket Buffer\t4Mbit\nTransfer Mode\tstore-and-forward\nBandwidth\t5.6Gbps\nPacket Forwarding Rate\t4.17Mpps\nPoE Port\t1~8 port\nPoE Output-Port\tMax 30W\nRJ45 PoE Power Supply\t1/2(+),3/6(-),4/5(+),7/8(-)\nPoE Total\t120W\nPower Supply\t130W\nMains Input\t100~240V AC， 50/60Hz\nOperating Temperature\t0°C ~ 40 °C\nStorage Temperature\t-40 °C ~ 70 °C\nOperating Humidity\t10% ~ 90% RH  non-condensing\nStorage Humidity\t5% ~ 90% RH  non-condensing\nDevice Dimension\t220*150*44mm\nMachine Weight\t>1kg\nSurge Protection\tDifferential mode ±2KV, Common mode ±4KV,\nMTBF\t>50000 hours\nElectrostatic Standard\tContact ±6KV , Air ±8KV\nOrdering Information\nModel\tProduct Information\nPM3010FSNR V2\t8FE(PoE)+2GE Long-range PoE Switch (Used with long-range Equipment )\n[文本框]\nPM3010FSNR V2 Long-range PoE Switch",
+"blocks":[
+{
+"t":"p",
+"s":"列出段落",
+"text":"Product Overview"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The PM3010FSNR V2 has 8*10/100Mbps adaptive RJ45 ports and 2*10/100/1000Mbps RJ45 ports. Each RJ45 port supports MDI/MDIX auto-flip and wire-speed forwarding function. Ports 1-8 have PoE power supply function, supports IEEE 802.3af/at standard, supports up to 800m long-distance transmission (used with long-distance equipment), and can be used as Power over Ethernet device, which can automatically detect and identify the powered devices that meet the standard and supply power to them through the network cable. Uses store-and-forward technology, combined with dynamic memory allocation, to ensure that bandwidth is efficiently allocated to each port."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The PM3010FSNR V2 provides one-click VLAN and CCTV functions. Users can enable or disable the CCTV functions according to different application environments to improve network security and suppress network storms. The PM3010FSNR V2 is easy to manage and maintain, and meets the networking and access requirements of enterprises, communities, hotels, office networks, and campus networks."
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Features"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Support IEEE802.3at/af standard;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Single port output power up to 30W;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"100Mbps data transmission and PoE power supply distance up to 300m(Typical);"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"10Mbps data transmission and PoE power supply distance up to 800m;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Automatic detection and identification of standard PoE powered devices, intelligent power supply, will not burn non-standard PoE powered devices or ordinary devices;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Supports IEEE802.3x full-duplex flow control and Backpressure half-duplex flow control;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Panel indicators monitor operating status and help with fault analysis;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Wire-speed forwarding, intelligent recognition;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Data exchange using store-and-forward method;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Support PD-ALIVE function;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Support CCTV and VLAN toggle switch online switching;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Motherboard, Power Supply, PoE (3 in 1)."
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Product Specifications"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"PM3010FSNR V2"
+],
+[
+"Interface",
+"8*10/100Mbps RJ45 ports / 2*10/100/1000Mbps RJ45 ports"
+],
+[
+"Network Media",
+"10BASE-T： UTP category 3,4,5 cable （≤100m） / 100BASE-TX：UTP category 5, 5e cable （≤100m）"
+],
+[
+"Standard",
+"IEEE802.3,IEEE802.3u,IEEE802.3i,IEEE802.3ab,IEEE802.3x,IEEE802.3af,IEEE802.3at"
+],
+[
+"Key Function",
+"CCTV&VLAN"
+],
+[
+"Indicator",
+"PWR、LNK/ACT、PoE"
+],
+[
+"MAC Address Table",
+"8K，Auto-learning, Auto-aging"
+],
+[
+"Jumbo Frame",
+"9K Byte"
+],
+[
+"Packet Buffer",
+"4Mbit"
+],
+[
+"Transfer Mode",
+"store-and-forward"
+],
+[
+"Bandwidth",
+"5.6Gbps"
+],
+[
+"Packet Forwarding Rate",
+"4.17Mpps"
+],
+[
+"PoE Port",
+"1~8 port"
+],
+[
+"PoE Output-Port",
+"Max 30W"
+],
+[
+"RJ45 PoE Power Supply",
+"1/2(+),3/6(-),4/5(+),7/8(-)"
+],
+[
+"PoE Total",
+"120W"
+],
+[
+"Power Supply",
+"130W"
+],
+[
+"Mains Input",
+"100~240V AC， 50/60Hz"
+],
+[
+"Operating Temperature",
+"0°C ~ 40 °C"
+],
+[
+"Storage Temperature",
+"-40 °C ~ 70 °C"
+],
+[
+"Operating Humidity",
+"10% ~ 90% RH  non-condensing"
+],
+[
+"Storage Humidity",
+"5% ~ 90% RH  non-condensing"
+],
+[
+"Device Dimension",
+"220*150*44mm"
+],
+[
+"Machine Weight",
+">1kg"
+],
+[
+"Surge Protection",
+"Differential mode ±2KV, Common mode ±4KV,"
+],
+[
+"MTBF",
+">50000 hours"
+],
+[
+"Electrostatic Standard",
+"Contact ±6KV , Air ±8KV"
+]
+]
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Ordering Information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"Product Information"
+],
+[
+"PM3010FSNR V2",
+"8FE(PoE)+2GE Long-range PoE Switch (Used with long-range Equipment )"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:19:13Z"
+}

@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆2光4__2.png__4a2d2914",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/千兆2光4/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":35155180,
+"sha256":"4a2d29144744b415e3ffad4cad724d7bd195e1427d208fb63bea764267ea1b65",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":2082,
+"height":542,
+"mode":"RGBA",
+"thumb_bytes":4639
+},
+"warnings":[],
+"chars":38,
+"text":"iber PoE Switch\nAGE PoE+2SFP\nGigabit F",
+"extracted_at":"2026-10-23T05:24:14Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆2光4__2.png__4a2d2914.jpg"
+}

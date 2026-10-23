@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-080GE__4.jpg__615a6f97",
+"path":"Extra_Info/Hasivo/Industrial Ethernet_DONE/STI-080GE/4.jpg",
+"name":"4.jpg",
+"ext":".jpg",
+"bytes":169011,
+"sha256":"615a6f97fb6cde9a1480839e4792412838e133b1860165e2c63ac934fdfd2092",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"JPEG",
+"width":1853,
+"height":678,
+"mode":"RGB",
+"thumb_bytes":4845
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:24:51Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-080GE__4.jpg__615a6f97.jpg"
+}

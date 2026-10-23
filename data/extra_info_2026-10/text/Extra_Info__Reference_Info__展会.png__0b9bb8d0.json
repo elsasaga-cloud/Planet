@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Reference_Info__展会.png__0b9bb8d0",
+"path":"Extra_Info/Reference Info/展会.png",
+"name":"展会.png",
+"ext":".png",
+"bytes":2490414,
+"sha256":"0b9bb8d040498f401de78855e71e05e5ddef4a71b0baae947b1b453622c020d3",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":2048,
+"height":1536,
+"mode":"RGB",
+"thumb_bytes":14623
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:12:47Z",
+"thumb":"thumbs/Extra_Info__Reference_Info__展会.png__0b9bb8d0.jpg"
+}

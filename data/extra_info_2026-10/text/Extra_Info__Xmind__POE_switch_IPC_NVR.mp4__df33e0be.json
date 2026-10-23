@@ -1,0 +1,25 @@
+{
+"id":"Extra_Info__Xmind__POE_switch_IPC_NVR.mp4__df33e0be",
+"path":"Extra_Info/Xmind/POE switch IPC NVR.mp4",
+"name":"POE switch IPC NVR.mp4",
+"ext":".mp4",
+"bytes":125185496,
+"sha256":"df33e0be4a7cbe308bf7b0f47d2f0442dbd0640904c51478028f965196625b6a",
+"source":"Extra_Info.zip",
+"method":"ffprobe+ffmpeg",
+"status":"meta",
+"meta":{
+"duration_s":491.8,
+"width":1280,
+"height":720,
+"vcodec":"h264",
+"acodec":"aac",
+"creation_time":"2021-09-29T00:48:08.000000Z",
+"thumb_bytes":16305
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:20:12Z",
+"thumb":"thumbs/Extra_Info__Xmind__POE_switch_IPC_NVR.mp4__df33e0be.jpg"
+}

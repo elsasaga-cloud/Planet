@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__工业管理类目__L2_Non-PoE__STI-150GM__3.png__f20bff7b",
+"path":"Extra_Info/Hasivo/待处理/工业管理类目/L2 Non-PoE/STI-150GM/3.png",
+"name":"3.png",
+"ext":".png",
+"bytes":1733763,
+"sha256":"f20bff7b79ec157d4999160c498f19001acefc7b09e307baddae557fcf8ee446",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":808,
+"height":1487,
+"mode":"RGBA",
+"thumb_bytes":10812
+},
+"warnings":[],
+"chars":56,
+"text":"© e ~ 一 - - -\nManaged Industrial Switch 4cE+1G+1SFP Cool",
+"extracted_at":"2026-10-23T05:22:06Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__工业管理类目__L2_Non-PoE__STI-150GM__3.png__f20bff7b.jpg"
+}

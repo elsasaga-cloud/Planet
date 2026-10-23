@@ -1,0 +1,32 @@
+{
+"id":"Extra_Info__Reference_Info__UniPoE__PM3030GSM_V1-CN.pdf__2d2b68d2",
+"path":"Extra_Info/Reference Info/UniPoE/PM3030GSM V1-CN.pdf",
+"name":"PM3030GSM V1-CN.pdf",
+"ext":".pdf",
+"bytes":1064461,
+"sha256":"2d2b68d2579bf9a7aff800fb28ba751b26fbe32157408c6392bc05140cedaa06",
+"source":"Extra_Info.zip",
+"method":"pdfplumber",
+"status":"ok",
+"meta":{
+"pages":5,
+"title":"P300系列千兆非管理可视PoE交换机",
+"author":"Administrator",
+"creator":"Acrobat PDFMaker 20 Word 版",
+"producer":"Adobe PDF Library 20.6.66",
+"creationdate":"D:20230626222456+08'00'",
+"moddate":"D:20230626222506+08'00'",
+"ocr_pages":0
+},
+"warnings":[],
+"chars":2704,
+"text":"[p1]\nPM3030GSM V1管理型PoE交换机\n产品概述\nPM3030GSM V1是全千兆二层网管PoE交换机，具有24\n个10/100/1000Mbps RJ45端口，2个1000Mbps 光电复用\n端口和2个1000Mbps SFP光纤模块扩展插槽。24个RJ45端\n口全部支持PoE供电，最大供电功率达370W。支持静态路由\n功能，提供完备的安全策略、完善的QoS策略以及丰富的VLAN\n功能，易于管理维护，满足企业、小区、酒店、办公网及园区\n网的组网及接入要求。\n产品特点\n 符合IEEE802.3, IEEE802.3u, IEEE802.3ab, IEEE802.3z, IEEE802.3x，IEEE802.3af, IEEE802.3at标准。\n RJ45支持端口自动翻转（Auto MDI/MDIX）。\n PoE支持IEEE802.3at（af）标准，每个端口最大输出30W，PoE总功率370W。\n 数据传输及供电距离保证100米。\n 支持IEEE802.3x 全双工流控和Backpressure 半双工流控。\n 面板指示灯监视工作状态及帮助故障分析。\n 完善的安全机制 。\n 高可靠性设计，支持传统的STP/MSTP/RSTP二层链路保护技术；\n 支持静态汇聚和动态汇聚（LACP）两种汇聚模式，有效增加链路带宽，提高链路的可靠性，同时可以实现负载均衡、链路备\n份。\n 灵活方便的管理维护 支持Console、Telnet、SSH等多种管理方式。\n 支持WEB方式管理，更简单高效，便于工程及维护人员的安装调试。\n 支持TFTP方式的文件上传与下载管理。\n 支持PD-ALIVE功能。\n\n[p2]\n产品规格\n硬件功能\n产品名 PM3030GSM V1\nIEEE 802.3、IEEE 802.3u、IEEE 802.3ab、IEEE 802.3z、IEEE 802.3x、IEEE 802.1X、IEEE 802.1q、\n标准\nIEEE 802.1p、IEEE 802.1d、IEEE 802.1w、IEEE 802.3ad、IEEE802.3af、IEEE802.3at\n24个10/100/1000Mbps RJ45端口\n2个1000Mbps 光电复用端口\n接口\n2个1000Mbps SFP光纤模块扩展插槽\n1个Console口\n指示灯 PWR、LNK/ACT、PoE\n10BASE-T：Cat 3、4、5非屏蔽类双绞线（≤100m）\n100BASE-TX：Cat 5及以上非屏蔽类双绞线（≤100m）\n网络介质（线缆） 100BASE-TX：Cat 5及以上非屏蔽类双绞线（≤100m）\n100BASE-FX：MMF,SMF\n1000BASE-X：MMF, SMF\nMAC地址表 8K，自动学习，自动更新\n巨型帧 9216Bytes\n传输模式 存储转发\n包转发率 41.66Mpps\n交换容量 56Gbps\n包缓存 4.1Mbit\n尺寸(L*W*H) 440*207*44mm\n风扇 2个静音风扇\nPoE端口 Port1~24\nPoE供电线对 Mode A 1/2（-），3/6（+）\nPoE端口输出 电压：55V DC 功率：30W（MAX）\nPoE总功率 370W\n电源 400W\n电源输入 100~240V AC， 50/60Hz\n工作温度 0°C ~ 40 °C\n存储温度 -40 °C ~ 70 °C\n工作湿度 10% ~ 90% 无凝结\n存储湿度 5% ~ 90% 无凝结\n防雷等级 共模±6KV，差模±4KV；\n平均故障间隔时间 >50000小时\n静电标准 接触±6KV，空气±8KV\n绿色节能 Support IEEE（802.3az）\n\n[p3]\n软件功能\nIEEE802.1D -STP\nIEEE802.1w -RSTP\nIEEE802.1s -MSTP\n生成树\nBPDU Guard\nSTP Root Guard\n环路检测\n管理VLAN\n私有 VLAN\n语音VLAN\nVLAN 监视VLAN\nQ-in-Q\n基于协议的VLAN\n基于MAC的VLAN\nLACP\nStatic\n端口 EEE\nJumbo Frame\nError-Disable\nIGMP Snooping v1/v2/v3\n组播 MLD Snooping v1/v2\nMVR\n硬件队列\n基于端口\n802.1p\nCoS\nClass Of Service\nDSCP\nIP 优先级\nTCP/UDP (IPv4/IPv6)\nQos功能\n输入\n带宽\n输出\nWRR\n优先级算法 绝对优先级\nDSCP & CS\nIPv4 QoS (QCEs)\nIPv6 QoS (QCEs)\n端口安全\n端口隔离\nIEEE802.1x AAA\nL2+/L3/L4\n安全 ACLs IPv6 ACL\nManagement ACL/Management ACE\nIP源保护（IP -MAC-端口-VALN绑定）\nIP源保护（IP MAC端口绑定）\n\n[p4]\n动态ARP防护\n广播风暴\nRADIUS/TACACS+\nRADIUS 身份验证 (RFC2138)\n防DDoS攻击\nHTTPs 和 SSL\nSSH v1.5/v2.0\nDHCP 监听\nSNMP (v1, v2c, v3)\nRMON ( 1,2,3 & 9 组)\n固件升级\n配置导出/导入\n客户端\nOption 82\nDHCP\nOption 66\nOption 67\n事件/错误日志 系统日志\n串口\nSNMP\n管理访问控制\n管理 HTTP/HTTPS\nTelnet\n端口镜像\nLLDP (IEEE802.1AB)\nLLDP-MED\nUDLD\nDNS Client\nTraceroute\nPing\n线缆检测\nDDMI\nNTP/ SNTP (RFC2030)\nIPv6/IPv4\nIPv6 Web/SSL\nIPv6 SNTP\nIPv6 Telnet/SSH\nIPv6\nIPv6 Ping/Traceroute\nIPv6 TFTP\nIPv6 RADIUS/TACACS+\nIPv6 SNMP\n端口配置\nPD Alive\nPoE 管理\nPoE Delay\nPoE Schedule\nONVIF探测\nONVIF\nONVIF Server(NLM)\n\n[p5]\n订购信息\n产品名 产品信息\n24-Port Gigabit+2G Combo+2G SFP管理型PoE交换机（24口PoE，支持IEEE802.3af/at\nPM3030GSM V1\n标准）",
+"pages":[
+"PM3030GSM V1管理型PoE交换机\n产品概述\nPM3030GSM V1是全千兆二层网管PoE交换机，具有24\n个10/100/1000Mbps RJ45端口，2个1000Mbps 光电复用\n端口和2个1000Mbps SFP光纤模块扩展插槽。24个RJ45端\n口全部支持PoE供电，最大供电功率达370W。支持静态路由\n功能，提供完备的安全策略、完善的QoS策略以及丰富的VLAN\n功能，易于管理维护，满足企业、小区、酒店、办公网及园区\n网的组网及接入要求。\n产品特点\n 符合IEEE802.3, IEEE802.3u, IEEE802.3ab, IEEE802.3z, IEEE802.3x，IEEE802.3af, IEEE802.3at标准。\n RJ45支持端口自动翻转（Auto MDI/MDIX）。\n PoE支持IEEE802.3at（af）标准，每个端口最大输出30W，PoE总功率370W。\n 数据传输及供电距离保证100米。\n 支持IEEE802.3x 全双工流控和Backpressure 半双工流控。\n 面板指示灯监视工作状态及帮助故障分析。\n 完善的安全机制 。\n 高可靠性设计，支持传统的STP/MSTP/RSTP二层链路保护技术；\n 支持静态汇聚和动态汇聚（LACP）两种汇聚模式，有效增加链路带宽，提高链路的可靠性，同时可以实现负载均衡、链路备\n份。\n 灵活方便的管理维护 支持Console、Telnet、SSH等多种管理方式。\n 支持WEB方式管理，更简单高效，便于工程及维护人员的安装调试。\n 支持TFTP方式的文件上传与下载管理。\n 支持PD-ALIVE功能。",
+"产品规格\n硬件功能\n产品名 PM3030GSM V1\nIEEE 802.3、IEEE 802.3u、IEEE 802.3ab、IEEE 802.3z、IEEE 802.3x、IEEE 802.1X、IEEE 802.1q、\n标准\nIEEE 802.1p、IEEE 802.1d、IEEE 802.1w、IEEE 802.3ad、IEEE802.3af、IEEE802.3at\n24个10/100/1000Mbps RJ45端口\n2个1000Mbps 光电复用端口\n接口\n2个1000Mbps SFP光纤模块扩展插槽\n1个Console口\n指示灯 PWR、LNK/ACT、PoE\n10BASE-T：Cat 3、4、5非屏蔽类双绞线（≤100m）\n100BASE-TX：Cat 5及以上非屏蔽类双绞线（≤100m）\n网络介质（线缆） 100BASE-TX：Cat 5及以上非屏蔽类双绞线（≤100m）\n100BASE-FX：MMF,SMF\n1000BASE-X：MMF, SMF\nMAC地址表 8K，自动学习，自动更新\n巨型帧 9216Bytes\n传输模式 存储转发\n包转发率 41.66Mpps\n交换容量 56Gbps\n包缓存 4.1Mbit\n尺寸(L*W*H) 440*207*44mm\n风扇 2个静音风扇\nPoE端口 Port1~24\nPoE供电线对 Mode A 1/2（-），3/6（+）\nPoE端口输出 电压：55V DC 功率：30W（MAX）\nPoE总功率 370W\n电源 400W\n电源输入 100~240V AC， 50/60Hz\n工作温度 0°C ~ 40 °C\n存储温度 -40 °C ~ 70 °C\n工作湿度 10% ~ 90% 无凝结\n存储湿度 5% ~ 90% 无凝结\n防雷等级 共模±6KV，差模±4KV；\n平均故障间隔时间 >50000小时\n静电标准 接触±6KV，空气±8KV\n绿色节能 Support IEEE（802.3az）",
+"软件功能\nIEEE802.1D -STP\nIEEE802.1w -RSTP\nIEEE802.1s -MSTP\n生成树\nBPDU Guard\nSTP Root Guard\n环路检测\n管理VLAN\n私有 VLAN\n语音VLAN\nVLAN 监视VLAN\nQ-in-Q\n基于协议的VLAN\n基于MAC的VLAN\nLACP\nStatic\n端口 EEE\nJumbo Frame\nError-Disable\nIGMP Snooping v1/v2/v3\n组播 MLD Snooping v1/v2\nMVR\n硬件队列\n基于端口\n802.1p\nCoS\nClass Of Service\nDSCP\nIP 优先级\nTCP/UDP (IPv4/IPv6)\nQos功能\n输入\n带宽\n输出\nWRR\n优先级算法 绝对优先级\nDSCP & CS\nIPv4 QoS (QCEs)\nIPv6 QoS (QCEs)\n端口安全\n端口隔离\nIEEE802.1x AAA\nL2+/L3/L4\n安全 ACLs IPv6 ACL\nManagement ACL/Management ACE\nIP源保护（IP -MAC-端口-VALN绑定）\nIP源保护（IP MAC端口绑定）",
+"动态ARP防护\n广播风暴\nRADIUS/TACACS+\nRADIUS 身份验证 (RFC2138)\n防DDoS攻击\nHTTPs 和 SSL\nSSH v1.5/v2.0\nDHCP 监听\nSNMP (v1, v2c, v3)\nRMON ( 1,2,3 & 9 组)\n固件升级\n配置导出/导入\n客户端\nOption 82\nDHCP\nOption 66\nOption 67\n事件/错误日志 系统日志\n串口\nSNMP\n管理访问控制\n管理 HTTP/HTTPS\nTelnet\n端口镜像\nLLDP (IEEE802.1AB)\nLLDP-MED\nUDLD\nDNS Client\nTraceroute\nPing\n线缆检测\nDDMI\nNTP/ SNTP (RFC2030)\nIPv6/IPv4\nIPv6 Web/SSL\nIPv6 SNTP\nIPv6 Telnet/SSH\nIPv6\nIPv6 Ping/Traceroute\nIPv6 TFTP\nIPv6 RADIUS/TACACS+\nIPv6 SNMP\n端口配置\nPD Alive\nPoE 管理\nPoE Delay\nPoE Schedule\nONVIF探测\nONVIF\nONVIF Server(NLM)",
+"订购信息\n产品名 产品信息\n24-Port Gigabit+2G Combo+2G SFP管理型PoE交换机（24口PoE，支持IEEE802.3af/at\nPM3030GSM V1\n标准）"
+],
+"extracted_at":"2026-10-23T05:14:03Z"
+}

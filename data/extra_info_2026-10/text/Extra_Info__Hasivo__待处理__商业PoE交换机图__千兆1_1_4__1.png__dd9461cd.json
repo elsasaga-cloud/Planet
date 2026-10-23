@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆1_1_4__1.png__dd9461cd",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/千兆1+1+4/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":978073,
+"sha256":"dd9461cd5ffc78727b188d38308e35d34ecbb550647938a9d0b08a244b306481",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1565,
+"height":390,
+"mode":"RGBA",
+"thumb_bytes":5309
+},
+"warnings":[],
+"chars":22,
+"text":"4GE PoE+1GE+1SFP\n6-SFP",
+"extracted_at":"2026-10-23T05:22:50Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆1_1_4__1.png__dd9461cd.jpg"
+}

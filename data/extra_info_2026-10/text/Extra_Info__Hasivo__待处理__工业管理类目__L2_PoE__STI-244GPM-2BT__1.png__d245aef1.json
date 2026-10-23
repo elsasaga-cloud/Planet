@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__工业管理类目__L2_PoE__STI-244GPM-2BT__1.png__d245aef1",
+"path":"Extra_Info/Hasivo/待处理/工业管理类目/L2 PoE/STI-244GPM-2BT/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":483265,
+"sha256":"d245aef18ddc2b9e9e61e5dd6a64fd56fb5547d7e85df2ff2cff8971d2e08ade",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":1020,
+"height":365,
+"mode":"RGBA",
+"thumb_bytes":9280
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:21:41Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__工业管理类目__L2_PoE__STI-244GPM-2BT__1.png__d245aef1.jpg"
+}

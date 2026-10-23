@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__百千兆_4_24_COMBO__1.png__537be4ea",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/百千兆 4+24 COMBO/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":1119534,
+"sha256":"537be4ea38c4b65f45e2a3f86d09361e0a4f0bb97b7fc46cda95e258a41a8f7c",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":3284,
+"height":504,
+"mode":"RGBA",
+"thumb_bytes":4378
+},
+"warnings":[],
+"chars":183,
+"text":"VLAN\nNOMI!\nSUPM\n25\n27\n1 5 7 9 則 13 15 17 19 21 23\n2 4 6 8 10 12 14 16 18 20 22 24\n26\n28\nHybrid PoE Switch\nUnmanaged 24FE PoE+4GE Combo\n|\naa am\n25-COMBO ”26-COMBO ”27-COMBO 。” 28-COMBO",
+"extracted_at":"2026-10-23T05:23:04Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__百千兆_4_24_COMBO__1.png__537be4ea.jpg"
+}

@@ -1,0 +1,137 @@
+{
+"id":"Extra_Info__Template__Easy_and_Transparent_Business.docx__4009eeac",
+"path":"Extra_Info/Template/Easy and Transparent Business.docx",
+"name":"Easy and Transparent Business.docx",
+"ext":".docx",
+"bytes":207963,
+"sha256":"4009eeacfd63a94ed2631ecae18cdd7470a392db8d88cf0a43621159ee2bd008",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2025-12-19T11:40:00+00:00",
+"modified":"2025-12-19T11:40:40+00:00",
+"paragraphs":22,
+"tables":0,
+"embedded_images":3
+},
+"warnings":[],
+"chars":1224,
+"text":"Saga Telecom is now being digital and paperless to be efficient and eco-friendly.\nNecessary information will be shared online ONLY(not on A4 paper).\nTo realize this,\nA google drive folder under your country and your name will be created\nThe original editors will be the email(s) from the invoice and s.sagatelecom@gmail.com\nPlease use the original email(s) to adjust the access availability.\nThis folder usually includes below information of each order\nDatasheet\nUser Manual\nCertificate of Warranty\nWarranty Policy\nWeb Manual, CLI Manual(for managed models only)\nProduct photos\nShipping document\nDetails about this order\nRemark\nA printed copy of user manual is included in the packing box.\nWhen a client needs something urgently, but the salesperson cannot reply timely\nWhen a client needs to submit something internally\nWhen a client needs to look into the product details\n...\nThis google drive link will be very helpful.\n[页眉页脚]\n2026/Q1                                                                                                                                                         Saga Telecom\nwww.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom is now being digital and paperless to be efficient and eco-friendly."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Necessary information will be shared online ONLY(not on A4 paper)."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"To realize this,"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A google drive folder under your country and your name will be created"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The original editors will be the email(s) from the invoice and s.sagatelecom@gmail.com"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please use the original email(s) to adjust the access availability."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This folder usually includes below information of each order"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Datasheet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"User Manual"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Certificate of Warranty"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Warranty Policy"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Web Manual, CLI Manual(for managed models only)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product photos"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipping document"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Details about this order"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A printed copy of user manual is included in the packing box."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"When a client needs something urgently, but the salesperson cannot reply timely"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"When a client needs to submit something internally"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"When a client needs to look into the product details"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This google drive link will be very helpful."
+}
+],
+"extracted_at":"2026-10-23T05:20:20Z"
+}

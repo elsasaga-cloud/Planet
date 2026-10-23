@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Reference_Info__OEM信息__案例__aetektec.png__538e3729",
+"path":"Extra_Info/Reference Info/OEM信息/案例/aetektec.png",
+"name":"aetektec.png",
+"ext":".png",
+"bytes":61532,
+"sha256":"538e372971c83da1b35dec06979254c484a194870b6cd2edadb8eb6712307d4c",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":951,
+"height":449,
+"mode":"RGBA",
+"thumb_bytes":9933
+},
+"warnings":[],
+"chars":382,
+"text":"希望 跟 他 一 样 . 主 要 是 w 要 小 .\nDimensions! edo bdr) 26.1 (W) x 94.9 (D) x 144.3(H) mm\nFrom: simon <simon@olycom.com.cn>\nSent: Wednesday, April 28, 2021 5:37 PM\nSubject: Re:RE: Re:Re:Re:RE: Re:FW: Olycom/POE switch supplier\n目前 我 們 這 款 小 殼 子 尺寸 是 : 113.8 x 93 x 34.9mm, 這 個 是 經 過\n之 前 产品 的 尺寸 是 158 x 114.8 x 60mm , 請 看 附件 中 的 圖\n這 個 小 殼 子 的 還 是 人 嗎 ? ?\n您 目标 的 外 珊 尺 寸 是 多 少 呢\n4\n月\n改良 後 的 尺寸",
+"extracted_at":"2026-10-23T05:19:58Z",
+"thumb":"thumbs/Extra_Info__Reference_Info__OEM信息__案例__aetektec.png__538e3729.jpg"
+}

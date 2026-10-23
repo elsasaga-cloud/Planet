@@ -1,0 +1,108 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-110GE__STI-110GE.doc__b0146602",
+"path":"Extra_Info/Hasivo/Industrial Ethernet_DONE/STI-110GE/STI-110GE.doc",
+"name":"STI-110GE.doc",
+"ext":".doc",
+"bytes":28160,
+"sha256":"b01466026716c64c16fbac7cfd9162ca47d0ee583cac88a09d0d093ac63d0712",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:25:02+00:00",
+"paragraphs":0,
+"tables":1,
+"embedded_images":0
+},
+"warnings":[],
+"chars":1242,
+"text":"Model\tSTI-110GE\nProduct Name\t2 port 10/100/1000Mbps Industrial Ethernet Switch\nFixed Port\t1*10/100/1000M RJ45 port / 1*1000M integrated optical port (optional 1310/1550)\nBandwidth\t2Gbps\nPacket Forwarding\t1.49Mpps\nMAC\t2K\nBuffer\t2.5M\nTransmission Distance\t10BASE-T: Cat3,4,5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)\nOptical Media\tSFP: 1000M single and multimode optical module, Max distance≤100Km\nLED Indicator\tPW: power indicator (green) / 1:10/100/1000M network connection indicator (green) / 2: Optical fiber connection indicator (green) / V1: Main power indicator (green) / V2: slave power indicator (green) / V3: DC power indicator (green)\nPower\tThree groups of independent power input / SW: DC 12-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 100mm*86mm*30mm / Packing Box: 200mm*130mm*40mm\nN.W/G.W(Kg)\t0.3Kg/0.4Kg\nLightning / Protection Level\t6KV 8/20us；8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years",
+"blocks":[
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-110GE"
+],
+[
+"Product Name",
+"2 port 10/100/1000Mbps Industrial Ethernet Switch"
+],
+[
+"Fixed Port",
+"1*10/100/1000M RJ45 port / 1*1000M integrated optical port (optional 1310/1550)"
+],
+[
+"Bandwidth",
+"2Gbps"
+],
+[
+"Packet Forwarding",
+"1.49Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3,4,5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multimode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PW: power indicator (green) / 1:10/100/1000M network connection indicator (green) / 2: Optical fiber connection indicator (green) / V1: Main power indicator (green) / V2: slave power indicator (green) / V3: DC power indicator (green)"
+],
+[
+"Power",
+"Three groups of independent power input / SW: DC 12-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 100mm*86mm*30mm / Packing Box: 200mm*130mm*40mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.3Kg/0.4Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us；8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:25:02Z"
+}

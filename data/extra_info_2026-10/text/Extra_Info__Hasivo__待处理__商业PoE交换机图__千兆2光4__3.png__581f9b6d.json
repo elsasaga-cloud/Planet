@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆2光4__3.png__581f9b6d",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/千兆2光4/3.png",
+"name":"3.png",
+"ext":".png",
+"bytes":35121613,
+"sha256":"581f9b6d7b99dc3b5b340c0fe17c51b8ed3068482e549289385faf6f90577294",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":2082,
+"height":542,
+"mode":"RGBA",
+"thumb_bytes":4607
+},
+"warnings":[],
+"chars":44,
+"text":"Gigabit Fiber Po\nNils 4GE PoE+2SFp\nV\nESwitch",
+"extracted_at":"2026-10-23T05:24:16Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__千兆2光4__3.png__581f9b6d.jpg"
+}

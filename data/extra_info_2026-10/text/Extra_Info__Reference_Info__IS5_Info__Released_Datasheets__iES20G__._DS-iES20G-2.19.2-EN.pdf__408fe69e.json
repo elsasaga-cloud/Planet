@@ -1,0 +1,22 @@
+{
+"id":"Extra_Info__Reference_Info__IS5_Info__Released_Datasheets__iES20G__._DS-iES20G-2.19.2-EN.pdf__408fe69e",
+"path":"Extra_Info/Reference Info/IS5 Info/Released Datasheets/iES20G/._DS-iES20G-2.19.2-EN.pdf",
+"name":"._DS-iES20G-2.19.2-EN.pdf",
+"ext":".pdf",
+"bytes":4096,
+"sha256":"408fe69ef985e785c45c0d8cb521a9937ff7318ad1e5cd232a42d01a406f16df",
+"source":"Extra_Info.zip",
+"method":"pdfplumber",
+"status":"meta",
+"meta":{
+"ocr_pages":0
+},
+"warnings":[
+"pdfplumber: No /Root object! - Is this really a PDF?",
+"pypdf: Stream has ended unexpectedly"
+],
+"chars":0,
+"text":"",
+"pages":[],
+"extracted_at":"2026-10-23T05:13:32Z"
+}

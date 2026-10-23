@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__百千兆1_1_16_COMBO__2.png__a9e72cad",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/百千兆1+1+16 COMBO/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":4699148,
+"sha256":"a9e72cad76a12a6bf2620856f28d2e29d4f0a27e27a8c87f04d5e668404e5742",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":4136,
+"height":1204,
+"mode":"RGBA",
+"thumb_bytes":5981
+},
+"warnings":[],
+"chars":34,
+"text":"Ai- PoE Switch\n16FE PoE+1GE+1Combo",
+"extracted_at":"2026-10-23T05:23:38Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__百千兆1_1_16_COMBO__2.png__a9e72cad.jpg"
+}

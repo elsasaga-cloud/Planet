@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-150GE__1.png__d23d2394",
+"path":"Extra_Info/Hasivo/Industrial Ethernet_DONE/STI-150GE/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":1555944,
+"sha256":"d23d239442c93cbf857a2269dcfdd3465c27002251be348a72a98966b5257579",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":2433,
+"height":916,
+"mode":"RGBA",
+"thumb_bytes":7094
+},
+"warnings":[],
+"chars":98,
+"text":"4GE+1G+1SFP\n会 大 =/\n[二 一 二 二\n@ @ @\n= 6 GXPWR\na2e@ @ ®@\n全 VTSV2V3\nIndustial Switch\n一 和 TD\n說 二 a\nEt\n6",
+"extracted_at":"2026-10-23T05:25:11Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-150GE__1.png__d23d2394.jpg"
+}

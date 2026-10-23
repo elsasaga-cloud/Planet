@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__工业管理类目__L2_Non-PoE__STI-280GM__1.png__b5ffe0da",
+"path":"Extra_Info/Hasivo/待处理/工业管理类目/L2 Non-PoE/STI-280GM/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":2403657,
+"sha256":"b5ffe0da85b2a49033d466d17a5b6ede296d533925db8c586862f3c7ac87d5b5",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":2389,
+"height":1064,
+"mode":"RGBA",
+"thumb_bytes":8997
+},
+"warnings":[],
+"chars":26,
+"text":"dAST + 398\nUD3IWNS poseuew",
+"extracted_at":"2026-10-23T05:21:47Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__工业管理类目__L2_Non-PoE__STI-280GM__1.png__b5ffe0da.jpg"
+}

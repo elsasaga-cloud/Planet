@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__工业管理类目__L2_Non-PoE__STI-150GM__4.png__92fe1949",
+"path":"Extra_Info/Hasivo/待处理/工业管理类目/L2 Non-PoE/STI-150GM/4.png",
+"name":"4.png",
+"ext":".png",
+"bytes":2179928,
+"sha256":"92fe1949843a1bce3d937bb2ac1d2a38a9f23b7ac8889f2fdd409c3d57783547",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"meta",
+"meta":{
+"format":"PNG",
+"width":2405,
+"height":864,
+"mode":"RGBA",
+"thumb_bytes":5393
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:22:07Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__工业管理类目__L2_Non-PoE__STI-150GM__4.png__92fe1949.jpg"
+}

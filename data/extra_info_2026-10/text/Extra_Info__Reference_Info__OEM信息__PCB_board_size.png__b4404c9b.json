@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Reference_Info__OEM信息__PCB_board_size.png__b4404c9b",
+"path":"Extra_Info/Reference Info/OEM信息/PCB board size.png",
+"name":"PCB board size.png",
+"ext":".png",
+"bytes":37355,
+"sha256":"b4404c9b79289cd45f549894d4b73f49ddbfe152ecc694c18086390675feb5f1",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":813,
+"height":552,
+"mode":"RGBA",
+"thumb_bytes":20351
+},
+"warnings":[],
+"chars":7,
+"text":"87.1\nmm",
+"extracted_at":"2026-10-23T05:19:51Z",
+"thumb":"thumbs/Extra_Info__Reference_Info__OEM信息__PCB_board_size.png__b4404c9b.jpg"
+}

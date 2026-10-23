@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__工业管理类目__L2_PoE__STI-154GM-2BT__3.png__9bf29323",
+"path":"Extra_Info/Hasivo/待处理/工业管理类目/L2 PoE/STI-154GM-2BT/3.png",
+"name":"3.png",
+"ext":".png",
+"bytes":1744923,
+"sha256":"9bf29323e487f0c75063786ea529c900d11fe10dc84896b4c62b7c1a29b40d8e",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":804,
+"height":1484,
+"mode":"RGBA",
+"thumb_bytes":10706
+},
+"warnings":[],
+"chars":58,
+"text":"~\nPoE Console\nManaged Industrial Switch 4GE PoE +16 + 1SFP",
+"extracted_at":"2026-10-23T05:21:40Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__工业管理类目__L2_PoE__STI-154GM-2BT__3.png__9bf29323.jpg"
+}

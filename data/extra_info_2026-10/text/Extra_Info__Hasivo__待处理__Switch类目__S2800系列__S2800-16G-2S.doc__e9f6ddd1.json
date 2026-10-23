@@ -1,0 +1,129 @@
+{
+"id":"Extra_Info__Hasivo__待处理__Switch类目__S2800系列__S2800-16G-2S.doc__e9f6ddd1",
+"path":"Extra_Info/Hasivo/待处理/Switch类目/S2800系列/S2800-16G-2S.doc",
+"name":"S2800-16G-2S.doc",
+"ext":".doc",
+"bytes":2744366,
+"sha256":"e9f6ddd1211172064153489162ed29bde0e50ff46464613c0ce9a10075bf52b8",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:21:04+00:00",
+"paragraphs":1,
+"tables":1,
+"embedded_images":2
+},
+"warnings":[],
+"chars":1483,
+"text":"Front                       Back\nModel\tS2800-16G-2S\nProduct\tFull Gigabit 16+2 Ethernet Switch\nFixed port\t16*10/100/1000Base-TX RJ45 port (Data) / 2*1000M SFP\nFunction\tN:(Standard normal) / V:(Port isolation) / C:(Flow Control mode)\nNetwork Protocol\tIEEE 802.3 \nIEEE 802.3i 10BASE-T / IEEE 802.3u 100BASE-TX\nIEEE 802.3ab 1000BASE-T / IEEE 802.3z 1000BASE-X / IEEE 802.3x \nIEEE 802.1q\nPort Specification\t10/100/1000BaseT(X) Auto\nTransmission Mode\tStore and Forward(full wirespeed)\nBandwidth\t56Gbps\nPacket Forwarding\t40.32Mpps / Supports 9K jumbo frame transmission\nMAC Address\t8K\nBuffer\t4.1M\nTransmission Distance\t10BASE-T ： Cat3,4,5 UTP(≤250 meter) / 100BASE-TX ： Cat5 or later UTP(150 meter) / 1000BASE-TX ： Cat6 or later UTP(150 meter) / 1000BASE-SX:62.5μm/50μm MMF(2m~550m) / 1000BASE-LX:62.5μm/50μm MM(2m~550m) or 10μm SMF(2m~5000m)\nWatt\tStandby Power Consumption：≤20W；\nLED Indicator\tPWR:Power LED / 1-16:(Link LED=10/100M Link、1000M=Gigabit Link) / 17 18:(SFP LED)\nPower Input\tBuilt-in Power AC：100～240V 50-60Hz 1A\nOperating Temperature/Humidity\t-10～+55°C；5%～90% RH Non coagulation\nStorage Temperature/Humidity\t-40～+75°C；5%～95% RH Non coagulation\nProduct size/Packing size（L*W*H）\t440mm*140mm*45mm / 513mm*220mm*95mm\nN.W/G.W（kg）\t1.6kg/2.2kg\nInstallation\tRack-mount(optional machine hanger spare parts)\nLightning protection level\t3KV 8/20us； / IP30\nCertificate\tCE mark, commercial；CE/LVD EN60950；\nFCC Part 15 Class B；RoHS；\nWarranty\tWhole device for 1 year（Accessories not included）",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Front                       Back"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"S2800-16G-2S"
+],
+[
+"Product",
+"Full Gigabit 16+2 Ethernet Switch"
+],
+[
+"Fixed port",
+"16*10/100/1000Base-TX RJ45 port (Data) / 2*1000M SFP"
+],
+[
+"Function",
+"N:(Standard normal) / V:(Port isolation) / C:(Flow Control mode)"
+],
+[
+"Network Protocol",
+"IEEE 802.3 \nIEEE 802.3i 10BASE-T / IEEE 802.3u 100BASE-TX\nIEEE 802.3ab 1000BASE-T / IEEE 802.3z 1000BASE-X / IEEE 802.3x \nIEEE 802.1q"
+],
+[
+"Port Specification",
+"10/100/1000BaseT(X) Auto"
+],
+[
+"Transmission Mode",
+"Store and Forward(full wirespeed)"
+],
+[
+"Bandwidth",
+"56Gbps"
+],
+[
+"Packet Forwarding",
+"40.32Mpps / Supports 9K jumbo frame transmission"
+],
+[
+"MAC Address",
+"8K"
+],
+[
+"Buffer",
+"4.1M"
+],
+[
+"Transmission Distance",
+"10BASE-T ： Cat3,4,5 UTP(≤250 meter) / 100BASE-TX ： Cat5 or later UTP(150 meter) / 1000BASE-TX ： Cat6 or later UTP(150 meter) / 1000BASE-SX:62.5μm/50μm MMF(2m~550m) / 1000BASE-LX:62.5μm/50μm MM(2m~550m) or 10μm SMF(2m~5000m)"
+],
+[
+"Watt",
+"Standby Power Consumption：≤20W；"
+],
+[
+"LED Indicator",
+"PWR:Power LED / 1-16:(Link LED=10/100M Link、1000M=Gigabit Link) / 17 18:(SFP LED)"
+],
+[
+"Power Input",
+"Built-in Power AC：100～240V 50-60Hz 1A"
+],
+[
+"Operating Temperature/Humidity",
+"-10～+55°C；5%～90% RH Non coagulation"
+],
+[
+"Storage Temperature/Humidity",
+"-40～+75°C；5%～95% RH Non coagulation"
+],
+[
+"Product size/Packing size（L*W*H）",
+"440mm*140mm*45mm / 513mm*220mm*95mm"
+],
+[
+"N.W/G.W（kg）",
+"1.6kg/2.2kg"
+],
+[
+"Installation",
+"Rack-mount(optional machine hanger spare parts)"
+],
+[
+"Lightning protection level",
+"3KV 8/20us； / IP30"
+],
+[
+"Certificate",
+"CE mark, commercial；CE/LVD EN60950；\nFCC Part 15 Class B；RoHS；"
+],
+[
+"Warranty",
+"Whole device for 1 year（Accessories not included）"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:21:04Z"
+}

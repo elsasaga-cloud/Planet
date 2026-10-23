@@ -1,0 +1,258 @@
+{
+"id":"Extra_Info__Template__Elsa_18838975947__PI_Xtransfer.xls__3fe70616",
+"path":"Extra_Info/Template/Elsa 18838975947/PI_Xtransfer.xls",
+"name":"PI_Xtransfer.xls",
+"ext":".xls",
+"bytes":576512,
+"sha256":"3fe70616a3762e4c2acbb8039bd2bd81a61775458fb0a6dcdbfc9a7559cd72d4",
+"source":"Extra_Info.zip",
+"method":"xlrd",
+"status":"ok",
+"meta":{
+"sheets":[
+"Proforma Invoice"
+],
+"rows_total":52
+},
+"warnings":[],
+"chars":3433,
+"text":"--- Sheet: Proforma Invoice ---\nSaga Telecom, OEM Factory\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 18838975947                                          www.sagatelecom.com.cn                                Email: e.sagatelecom@gmail.com\n*********************************************************************************************************************\nProforma Invoice\nPO No.\t\t\tInvoice No.:\tSTEC20230720001\nBuyer:\tGOGREENIT\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t44 77709 16901\t\tIssued By:\tElsa\nEmail:\tinfo@gogreenit.net\t\tInvoice Date:\t23rd, Aug, 2025\nContact Person:\tChris Clemson\t\tPayment Term:\tT/T in advance, DAP but without customs clearance\nShipping Address\tThe Poplars, Burleigh Drive, Derby, DE22 1AL, UK\nModel\tSpecification\t\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSTI-42424XGGPM-4BT\t\tIndustrial PoE Managed Switch\n\n4*1G/2.5G/10G SFP+24*10/100/1000M RJ45/PoE +1*Console Port+1*USB Port\n20*PoE af/at+4*PoE af/at/bt\n240W/370W, L3 Managed\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), Din Mounted\nWith Mounting Hanger\nWithout Optical Module, Without Power Supply\n\n1, Without DI/DO/RS485 Function\n2, -40℃~+ 70℃@240W PoE Output\n-40℃~+ 60℃@370W PoE Output\t\t1\t500\t500\tMarvell Chip\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 158*115*110mm\nNet Weight: 1.8Kg\nGross Weight: 2Kg\nFreight Cost\t60usd for about 2Kg volume weight to UK by FedEx\nAir, door-to-door service\nShipment time: 4~6 calendar days\t\t\t\t\t60\nPayPal Cost\t5Usd will be charged for EVERY 100Usd to our account\t\t\t\t\t28\nTOTAL\t\t\t\t1\t\t588\nSAY TOTAL IN USD FIVE HUNDRED AND EIGHTY EIGHT DOLLARS\nRemark\nPlease do make sure client side could handle import customs clearance\nIf there is any problem with the shipment or clearance\n1, please let us know ASAP\n2, please call DHL/FedEx/UPS official number for information\n1. Payment: Full payment to the below bank account before shipment\nBank Information\nSWIFT/BIC code\tCHASHKHH (CHASHKHHXXX * if 11 characters are required)\nAccount Number\t63003662406\nAccount Name\tZhengzhou Saga Telecom Co., Ltd.\nBank Name\tJPMorgan Chase Bank N.A., Hong Kong Branch\nBank Address\t18/F, 20/F, 22-29/F, CHATER HOUSE, 8 CONNAUGHT ROAD CENTRAL, HONG KONG\nCountry/Region\tHong Kong\nType of Account\tBusiness Account\nBank Code\t007\nBranch Code\t863\n2. NOTE: Saga Telecom will not pay for any PayPal charge\nPlease make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice\n3. Production time: 2~4 working days(NOT including shipping time)\nIncoterms: DAP, excluding destination customs clearance & import duties, but including on-carriage delivery after customs release\n4. Country of origin: China\n5. Non-brand packing, without Chinese letters or logo\nPackage mark: None\nPacking list is available\n6. Warranty: 3 years, lifetime technical support\nPurchased items are deemed accepted upon initial inspection if no written notice of defects is received within two (2) months from the delivery date\nThis acceptance clause shall not affect the validity of the warranty period\nPlease refer to \"warranty policy\" for more information\nBuyer: GOGREENIT\t\t\tSeller: Zhengzhou Saga Telecom Co., Ltd.\nChris Clemson\t\t\tElsa\nAuthorized Signature\t\t\tAuthorized Signature",
+"sheets":{
+"Proforma Invoice":{
+"rows":[
+[
+"Saga Telecom, OEM Factory"
+],
+[
+"Tailored Managed Networking Solutions Provider"
+],
+[
+"Built to Last, Continuous Supply, Evolving Together"
+],
+[
+"Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+],
+[
+"Mob: 86 18838975947                                          www.sagatelecom.com.cn                                Email: e.sagatelecom@gmail.com"
+],
+[
+"*********************************************************************************************************************"
+],
+[
+"Proforma Invoice"
+],
+[
+"PO No.",
+"",
+"",
+"Invoice No.:",
+"STEC20230720001"
+],
+[
+"Buyer:",
+"GOGREENIT",
+"",
+"Seller:",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Tel:",
+"44 77709 16901",
+"",
+"Issued By:",
+"Elsa"
+],
+[
+"Email:",
+"info@gogreenit.net",
+"",
+"Invoice Date:",
+"23rd, Aug, 2025"
+],
+[
+"Contact Person:",
+"Chris Clemson",
+"",
+"Payment Term:",
+"T/T in advance, DAP but without customs clearance"
+],
+[
+"Shipping Address",
+"The Poplars, Burleigh Drive, Derby, DE22 1AL, UK"
+],
+[
+"Model",
+"Specification",
+"",
+"",
+"Quantity \n(pcs)",
+"Unit Price\n(USD)",
+"Amount \n(USD)",
+"Remark"
+],
+[
+"STI-42424XGGPM-4BT",
+"",
+"Industrial PoE Managed Switch\n\n4*1G/2.5G/10G SFP+24*10/100/1000M RJ45/PoE +1*Console Port+1*USB Port\n20*PoE af/at+4*PoE af/at/bt\n240W/370W, L3 Managed\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), Din Mounted\nWith Mounting Hanger\nWithout Optical Module, Without Power Supply\n\n1, Without DI/DO/RS485 Function\n2, -40℃~+ 70℃@240W PoE Output\n-40℃~+ 60℃@370W PoE Output",
+"",
+"1",
+"500",
+"500",
+"Marvell Chip"
+],
+[
+"",
+"HS Code",
+"8517622990"
+],
+[
+"",
+"Packing Information",
+"Dimension: 158*115*110mm\nNet Weight: 1.8Kg\nGross Weight: 2Kg"
+],
+[
+"Freight Cost",
+"60usd for about 2Kg volume weight to UK by FedEx\nAir, door-to-door service\nShipment time: 4~6 calendar days",
+"",
+"",
+"",
+"",
+"60"
+],
+[
+"PayPal Cost",
+"5Usd will be charged for EVERY 100Usd to our account",
+"",
+"",
+"",
+"",
+"28"
+],
+[
+"TOTAL",
+"",
+"",
+"",
+"1",
+"",
+"588"
+],
+[
+"SAY TOTAL IN USD FIVE HUNDRED AND EIGHTY EIGHT DOLLARS"
+],
+[
+"Remark"
+],
+[
+"Please do make sure client side could handle import customs clearance"
+],
+[
+"If there is any problem with the shipment or clearance"
+],
+[
+"1, please let us know ASAP"
+],
+[
+"2, please call DHL/FedEx/UPS official number for information"
+],
+[
+"1. Payment: Full payment to the below bank account before shipment"
+],
+[
+"Bank Information"
+],
+[
+"SWIFT/BIC code",
+"CHASHKHH (CHASHKHHXXX * if 11 characters are required)"
+],
+[
+"Account Number",
+"63003662406"
+],
+[
+"Account Name",
+"Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Bank Name",
+"JPMorgan Chase Bank N.A., Hong Kong Branch"
+],
+[
+"Bank Address",
+"18/F, 20/F, 22-29/F, CHATER HOUSE, 8 CONNAUGHT ROAD CENTRAL, HONG KONG"
+],
+[
+"Country/Region",
+"Hong Kong"
+],
+[
+"Type of Account",
+"Business Account"
+],
+[
+"Bank Code",
+"007"
+],
+[
+"Branch Code",
+"863"
+],
+[
+"2. NOTE: Saga Telecom will not pay for any PayPal charge"
+],
+[
+"Please make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice"
+],
+[
+"3. Production time: 2~4 working days(NOT including shipping time)"
+],
+[
+"Incoterms: DAP, excluding destination customs clearance & import duties, but including on-carriage delivery after customs release"
+],
+[
+"4. Country of origin: China"
+],
+[
+"5. Non-brand packing, without Chinese letters or logo"
+],
+[
+"Package mark: None"
+],
+[
+"Packing list is available"
+],
+[
+"6. Warranty: 3 years, lifetime technical support"
+],
+[
+"Purchased items are deemed accepted upon initial inspection if no written notice of defects is received within two (2) months from the delivery date"
+],
+[
+"This acceptance clause shall not affect the validity of the warranty period"
+],
+[
+"Please refer to \"warranty policy\" for more information"
+],
+[
+"Buyer: GOGREENIT",
+"",
+"",
+"Seller: Zhengzhou Saga Telecom Co., Ltd."
+],
+[
+"Chris Clemson",
+"",
+"",
+"Elsa"
+],
+[
+"Authorized Signature",
+"",
+"",
+"Authorized Signature"
+]
+]
+}
+},
+"extracted_at":"2026-10-23T05:20:25Z"
+}

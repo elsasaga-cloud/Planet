@@ -1,0 +1,116 @@
+{
+"id":"Extra_Info__Hasivo__待处理__POE类目__S500P-1G-1S_EN.doc__338f4130",
+"path":"Extra_Info/Hasivo/待处理/POE类目/S500P-1G-1S_EN.doc",
+"name":"S500P-1G-1S_EN.doc",
+"ext":".doc",
+"bytes":30720,
+"sha256":"338f4130cc9310ba8eae7e4b144a92124d06200fd146233c41885bd1eaa3981d",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:20:47+00:00",
+"paragraphs":0,
+"tables":1,
+"embedded_images":0
+},
+"warnings":[],
+"chars":1033,
+"text":"Model\tS500P-1G-1S\nProduct mame\tFull Gigabit 1SFP+1GE POE Switch\nFixed Port\t1*10/100/1000Base-TX PoE port（Data/Power） / 1*1000M SFP\nPoE Ports\t1 port supports IEEE802.3af/at, max 30W/port, PoE out\nPoE Pin\t12+ 36-\nPoE Bridge\tmax 30W\nBandwidth\t2Gbps\nPacket Forwarding\t2.98Mpps\nMAC\t2K\nBuffer\t2.5M\nTransmission Distance\t10BASE-T ： Cat3,4,5 UTP(≤250 meter) / 100BASE-TX ： Cat5 or later UTP(150 meter) / 1000BASE-TX ： Cat6 or later UTP(150 meter)\nLED Indicator\tPWR:Power LED(over-power LED) / SD/SPD1/FX:Fiber LED / SPD2/TP:Network LED / FDX:POE Link\nPower\tExternal power DC：52V 600MA   max 31W / (100-240Vac 50/60Hz 0.4A)\nOperating Temperature/Humidity\t-10～+55°C；5%～90% RH Non coagulation\nStorage Temperature/Humidity\t-40～+75°C；5%～95% RH Non coagulation\nProduct /Packing / size（L*W*H）\t93mm*69mm*25mm / 205mm*135mm*95mm\nN.W/G.W（kg）\t0.2kg/0.8kg\nLightning / Protection  level\t6KV 8/20us； / IP30\nInstallation\tDesktop\nCertificate\tCE-EMC EN55032；CE-LVD EN62368；\nFCC Part 15 Class B；RoHS；\nWarranty\tWhole device for 1 year(Accessories not included)",
+"blocks":[
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"S500P-1G-1S"
+],
+[
+"Product mame",
+"Full Gigabit 1SFP+1GE POE Switch"
+],
+[
+"Fixed Port",
+"1*10/100/1000Base-TX PoE port（Data/Power） / 1*1000M SFP"
+],
+[
+"PoE Ports",
+"1 port supports IEEE802.3af/at, max 30W/port, PoE out"
+],
+[
+"PoE Pin",
+"12+ 36-"
+],
+[
+"PoE Bridge",
+"max 30W"
+],
+[
+"Bandwidth",
+"2Gbps"
+],
+[
+"Packet Forwarding",
+"2.98Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Transmission Distance",
+"10BASE-T ： Cat3,4,5 UTP(≤250 meter) / 100BASE-TX ： Cat5 or later UTP(150 meter) / 1000BASE-TX ： Cat6 or later UTP(150 meter)"
+],
+[
+"LED Indicator",
+"PWR:Power LED(over-power LED) / SD/SPD1/FX:Fiber LED / SPD2/TP:Network LED / FDX:POE Link"
+],
+[
+"Power",
+"External power DC：52V 600MA   max 31W / (100-240Vac 50/60Hz 0.4A)"
+],
+[
+"Operating Temperature/Humidity",
+"-10～+55°C；5%～90% RH Non coagulation"
+],
+[
+"Storage Temperature/Humidity",
+"-40～+75°C；5%～95% RH Non coagulation"
+],
+[
+"Product /Packing / size（L*W*H）",
+"93mm*69mm*25mm / 205mm*135mm*95mm"
+],
+[
+"N.W/G.W（kg）",
+"0.2kg/0.8kg"
+],
+[
+"Lightning / Protection  level",
+"6KV 8/20us； / IP30"
+],
+[
+"Installation",
+"Desktop"
+],
+[
+"Certificate",
+"CE-EMC EN55032；CE-LVD EN62368；\nFCC Part 15 Class B；RoHS；"
+],
+[
+"Warranty",
+"Whole device for 1 year(Accessories not included)"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:20:47Z"
+}

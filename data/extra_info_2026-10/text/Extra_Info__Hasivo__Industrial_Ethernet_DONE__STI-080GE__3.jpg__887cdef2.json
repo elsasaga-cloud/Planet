@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-080GE__3.jpg__887cdef2",
+"path":"Extra_Info/Hasivo/Industrial Ethernet_DONE/STI-080GE/3.jpg",
+"name":"3.jpg",
+"ext":".jpg",
+"bytes":227831,
+"sha256":"887cdef286384f910498b016657353799c2ad2e44e27f80bc8398edd5190afa0",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"JPEG",
+"width":1177,
+"height":1940,
+"mode":"RGB",
+"thumb_bytes":10249
+},
+"warnings":[],
+"chars":17,
+"text":"Industrial Switch",
+"extracted_at":"2026-10-23T05:24:51Z",
+"thumb":"thumbs/Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-080GE__3.jpg__887cdef2.jpg"
+}

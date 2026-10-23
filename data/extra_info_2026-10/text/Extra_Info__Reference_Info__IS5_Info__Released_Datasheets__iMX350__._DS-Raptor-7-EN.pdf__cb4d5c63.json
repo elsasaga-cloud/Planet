@@ -1,0 +1,22 @@
+{
+"id":"Extra_Info__Reference_Info__IS5_Info__Released_Datasheets__iMX350__._DS-Raptor-7-EN.pdf__cb4d5c63",
+"path":"Extra_Info/Reference Info/IS5 Info/Released Datasheets/iMX350/._DS-Raptor-7-EN.pdf",
+"name":"._DS-Raptor-7-EN.pdf",
+"ext":".pdf",
+"bytes":4097,
+"sha256":"cb4d5c63daddb493d03db1c3ca5f9101c4cf6d957b41bc6bd18d5ffa547e82ad",
+"source":"Extra_Info.zip",
+"method":"pdfplumber",
+"status":"meta",
+"meta":{
+"ocr_pages":0
+},
+"warnings":[
+"pdfplumber: No /Root object! - Is this really a PDF?",
+"pypdf: Stream has ended unexpectedly"
+],
+"chars":0,
+"text":"",
+"pages":[],
+"extracted_at":"2026-10-23T05:13:28Z"
+}

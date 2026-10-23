@@ -1,0 +1,18 @@
+{
+"id":"Extra_Info__Xmind__Label.xmind__9e51990b",
+"path":"Extra_Info/Xmind/Label.xmind",
+"name":"Label.xmind",
+"ext":".xmind",
+"bytes":54423,
+"sha256":"9e51990b0b54a0429f9fea0b0f5eeed19a2eaf3d05e269a389178c9580a4e6b0",
+"source":"Extra_Info.zip",
+"method":"xmind(content.xml)",
+"status":"ok",
+"meta":{
+"lines":13
+},
+"warnings":[],
+"chars":554,
+"text":"# Sheet: 画布 1\n- Label\n  - Content\n    - Standard format\n      - In English\n      - With Saga telecom's model name and descriptions\n    - It is fine to use customer's local language\r\nSuch as Italian, Russian, Korean...\n      - Customers should provide correct expression to avoid any confusion\n    - It is fine to put customer's logo/model name in the label\n  - Serial Number\n    - This is important and will be used in after-sales cases\n    - An agreed format should be applied and recorded\n  - It is fine to use customer self-supplied labels in an order",
+"extracted_at":"2026-10-23T05:20:10Z"
+}

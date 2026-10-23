@@ -1,0 +1,116 @@
+{
+"id":"Extra_Info__Hasivo__待处理__POE类目__S5800P-48G-2S_EN-1600W.doc__16cac742",
+"path":"Extra_Info/Hasivo/待处理/POE类目/S5800P-48G-2S_EN-1600W.doc",
+"name":"S5800P-48G-2S_EN-1600W.doc",
+"ext":".doc",
+"bytes":32768,
+"sha256":"16cac7425c3434c40a4b2280029e1a5e37767ff8e391a6b06892ce2ad5394126",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:20:52+00:00",
+"paragraphs":0,
+"tables":1,
+"embedded_images":0
+},
+"warnings":[],
+"chars":1312,
+"text":"Model\tS5800P-48G-2S\nProduct mame\tFull Gigabit 2SFP+48GE POE Switch\nFixed Port\t48*10/100/1000Base-TX PoE port（Data/Power） / 2*1000M SFP\nPoE Ports\t1-4 port supports IEEE802.3af/at/poe++/bt, max 90W PoE out / 5-48 port supports IEEE802.3af/at, max 30W/port, PoE out\nPoE Pin\taf/at: 12+ 36- / af/at/poe++/bt: 12+ 45+  36- 78-\nPoE Bridge\tmax 1600W\nBandwidth\t128Gbps\nPacket Forwarding\t74.40Mpps\nMAC\t8K\nBuffer\t4.1M\nTransmission Distance\t10BASE-T ： Cat3,4,5 UTP(≤250 meter) / 100BASE-TX ： Cat5 or later UTP(150 meter) / 1000BASE-TX ： Cat6 or later UTP(150 meter) / SFP: 1000M single and multimode optical module with maximum distance ≤ 120km (depending on the optical module)\nLED Indicator\tPW:Power LED / 1-48:PoE work indicator / 49-50:SFP connection indicator / Port:(Orange=PoE LED, Green=LAN Link LED）\nPower\tBuilt-in power AC：100-240Vac 50-60Hz   max1628W\nOperating Temperature/Humidity\t-10～+55°C；5%～90% RH Non coagulation\nStorage Temperature/Humidity\t-40～+75°C；5%～95% RH Non coagulation\nProduct /Packing / size（L*W*H）\t440mm*450mm*45mm / 553mm*478mm*93mm\nN.W/G.W（kg）\t6.4kg/7.2kg\nLightning / Protection  level\t6KV 8/20us； / IP30\nInstallation\tRack-mount (optional machine hanger spare parts)\nCertificate\tCE-EMC EN55032；CE-LVD EN62368；\nFCC Part 15 Class B；RoHS；\nWarranty\tWhole device for 1 year(Accessories not included)",
+"blocks":[
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"S5800P-48G-2S"
+],
+[
+"Product mame",
+"Full Gigabit 2SFP+48GE POE Switch"
+],
+[
+"Fixed Port",
+"48*10/100/1000Base-TX PoE port（Data/Power） / 2*1000M SFP"
+],
+[
+"PoE Ports",
+"1-4 port supports IEEE802.3af/at/poe++/bt, max 90W PoE out / 5-48 port supports IEEE802.3af/at, max 30W/port, PoE out"
+],
+[
+"PoE Pin",
+"af/at: 12+ 36- / af/at/poe++/bt: 12+ 45+  36- 78-"
+],
+[
+"PoE Bridge",
+"max 1600W"
+],
+[
+"Bandwidth",
+"128Gbps"
+],
+[
+"Packet Forwarding",
+"74.40Mpps"
+],
+[
+"MAC",
+"8K"
+],
+[
+"Buffer",
+"4.1M"
+],
+[
+"Transmission Distance",
+"10BASE-T ： Cat3,4,5 UTP(≤250 meter) / 100BASE-TX ： Cat5 or later UTP(150 meter) / 1000BASE-TX ： Cat6 or later UTP(150 meter) / SFP: 1000M single and multimode optical module with maximum distance ≤ 120km (depending on the optical module)"
+],
+[
+"LED Indicator",
+"PW:Power LED / 1-48:PoE work indicator / 49-50:SFP connection indicator / Port:(Orange=PoE LED, Green=LAN Link LED）"
+],
+[
+"Power",
+"Built-in power AC：100-240Vac 50-60Hz   max1628W"
+],
+[
+"Operating Temperature/Humidity",
+"-10～+55°C；5%～90% RH Non coagulation"
+],
+[
+"Storage Temperature/Humidity",
+"-40～+75°C；5%～95% RH Non coagulation"
+],
+[
+"Product /Packing / size（L*W*H）",
+"440mm*450mm*45mm / 553mm*478mm*93mm"
+],
+[
+"N.W/G.W（kg）",
+"6.4kg/7.2kg"
+],
+[
+"Lightning / Protection  level",
+"6KV 8/20us； / IP30"
+],
+[
+"Installation",
+"Rack-mount (optional machine hanger spare parts)"
+],
+[
+"Certificate",
+"CE-EMC EN55032；CE-LVD EN62368；\nFCC Part 15 Class B；RoHS；"
+],
+[
+"Warranty",
+"Whole device for 1 year(Accessories not included)"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:20:52Z"
+}

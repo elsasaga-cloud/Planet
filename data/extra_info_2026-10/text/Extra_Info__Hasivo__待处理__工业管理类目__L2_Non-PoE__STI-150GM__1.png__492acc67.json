@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__工业管理类目__L2_Non-PoE__STI-150GM__1.png__492acc67",
+"path":"Extra_Info/Hasivo/待处理/工业管理类目/L2 Non-PoE/STI-150GM/1.png",
+"name":"1.png",
+"ext":".png",
+"bytes":471632,
+"sha256":"492acc67490092f0dfc1fa883b6897215052cc3362ff769ac46d495bf67e2a81",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1022,
+"height":365,
+"mode":"RGBA",
+"thumb_bytes":9122
+},
+"warnings":[],
+"chars":55,
+"text":"ink Giga console\nGE+1G+1SFP\nindustrial Switch 4\nManaged",
+"extracted_at":"2026-10-23T05:22:01Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__工业管理类目__L2_Non-PoE__STI-150GM__1.png__492acc67.jpg"
+}

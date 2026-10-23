@@ -1,0 +1,574 @@
+{
+"id":"Extra_Info__Reference_Info__UniPoE__DS__L2_Managed_Switch__PM130GM_V2-EN.doc__f3e09d8f",
+"path":"Extra_Info/Reference Info/UniPoE/DS/L2 Managed Switch/PM130GM V2-EN.doc",
+"name":"PM130GM V2-EN.doc",
+"ext":".doc",
+"bytes":911360,
+"sha256":"f3e09d8f233955f246ac3f1591efd068ac48ad30aa5d51cb5b2029af2c19a36e",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:19:00+00:00",
+"paragraphs":13,
+"tables":3,
+"embedded_images":5
+},
+"warnings":[],
+"chars":5110,
+"text":"Product Overview\nThe PM130GM V2 provides 24*10/100/1000Mbps RJ45 ports, 2G Combo ports and 2*1000Mbps SFP ports , powerful and flexible enough for users to deploy wireless access points or IP-based network surveillance cameras. The switch also comes equipped with 2 SFP slots, expanding your network flexibly. In addition, it provides high performance, enterprise-level QoS, advanced security strategies and rich layer 2 management features. With all these advanced features, the Switch is an ideal choice for small and medium business networking.\nProduct Features\nComplies with IEEE802.3, IEEE802.3u, IEEE802.3ab, IEEE802.3z, IEEE802.3x Standard;\nSupport RJ45 Auto-MDI/MDIX;\nFlow Control for Full Duplex operation and back pressure for Half Duplex Operation;\nHighly reliable design, supporting traditional STP/MSTP/RSTP 2-layer link protection technology;\nSupport static convergence and dynamic convergence (LACP) 2 convergence modes, effectively increase the link bandwidth, improve the reliability of the link, and at the same time can achieve load balancing, link backup;\nWeb, CLI (Console Port, Telnet, SSH), SNMP and RMON bring abundant management policies.\nProduct Specifications\nModel\tPM130GM V2\nStandard\tIEEE 802.3, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3z, IEEE 802.3x, IEEE 802.1X, IEEE 802.1q, IEEE 802.1p, IEEE 802.1d, IEEE 802.1w, IEEE 802.3ad\nInterface\t24*10/100/1000Mbps RJ45 Ports / 2*1000Mbps Combo Ports / 2* 1000Mbps SFP Slots / 1 Console Port\nIndicator\tPWR, LNK/ACT, SYS\nNetwork media\t10BASE-T: UTP category 3,4,5 cable(≤100m) / 100BASE-TX: UTP category 5, 5e cable(≤100m) / 1000BASE-T: UTP category 5e, 5 cable(≤100m) / 100BASE-FX:MMF,SMF / 1000BASE-X: MMF, SMF\nMAC Address Table\t8K, Auto-learning, Auto-update\nJumbo Frame\t9216Bytes\nTransfer Mode\tStore-and-forward\nPacket Forward Speed\t41.66Mpps\nSwitching Capacity\t56Gbps\nDimensions(L*W*H)\t440*208*44mm\nInput Power Supply\t100~240V AC, 50/60Hz\nOperating Temperature\t0°C ~ 40 °C\nStorage Temperature\t-40 °C ~ 70 °C\nOperating Humidity\t10% ~ 90% non-condensing\nStorage Humidity\t5% ~ 90% non-condensing\nSurge Protection\tCommon mode ±6KV  Differential mode ±4KV；\nCertification\tCE, FCC ClassA\nMTBF\t>50000 hour\nElectrostatic Standard\tContact ±6KV，Air ±8KV\nHardware Specification\nSoftware Specification\nspanning  Tree\tIEEE  802.1D -Spanning Tree\nspanning  Tree\tIEEE  802.1w -Rapid SpanningTree\nspanning  Tree\tIEEE  802.1s -Multiple Spanning Tree\nspanning  Tree\tBPDU Guard\nspanning  Tree\tSTP Root Guard\nspanning  Tree\tLoop Detection\nVLAN\tManagement VLAN\nVLAN\tPrivate VLAN\nVLAN\tVoice VLAN\nVLAN\tSurveillance-VLAN\nVLAN\tQ-in-Q (Double Tag)\nVLAN\t802.1v Protocol VLAN\nVLAN\tMAC-Based  VLAN\nPort\tIEEE 802.3ad witch LACP(Dynamic)\nPort\tStatic Trunk\nPort\tEEE\nPort\tJumbo Frame\nPort\tError-Disable\nIGMP  Snooping\tIGMP  Snooping v1/v2/v3\nIGMP  Snooping\tMLD Snooping v1/v2\nIGMP  Snooping\tMVR\nL3\tStatic Route\nL3\tStatic ARP\nL3\tDHCP Server\nQoS Features\tHardware Queues\nQoS Features\tClass Of Service\tPort Based\nQoS Features\tClass Of Service\t802.1p\nQoS Features\tClass Of Service\tCoS\nQoS Features\tClass Of Service\tDSCP\nQoS Features\tClass Of Service\tIP Precedence\nQoS Features\tClass Of Service\tTCP/UDP (IPv4/IPv6)\nQoS Features\tRate Limiting\tIngress\nQoS Features\tRate Limiting\tEgress\nQoS Features\tPriority Queue Scheduling\tWRR\nQoS Features\tPriority Queue Scheduling\tStrict Priority\nQoS Features\tPriority Queue Scheduling\tDSCP & CS\nQoS Features\tIPv4 QoS (QCEs)\nQoS Features\tIPv6 QoS (QCEs)\nSecurity\tPort Security\nSecurity\tPort Isolation\nSecurity\tIEEE802.1x AAA\nSecurity\tACLs\tL2+/L3/L4\nSecurity\tACLs\tIPv6 Support\nSecurity\tACLs\tManagement Access List\nSecurity\tManagement ACL/Management ACE\nSecurity\tIP Source Guard (IP-MAC-Port-VALN Binding)\nSecurity\tIP Source Guard (IP-MAC-Port Binding)\nSecurity\tDynamic ARP Inspection\nSecurity\tStorm Control\nSecurity\tRADIUS/TACACS+\nSecurity\tRADIUS Authentication (RFC2138)\nSecurity\tDDoS Prevention\nSecurity\tHTTPs and SSL (Secured Web)\nSecurity\tSSH v1.5/v2.0 (Secured Telnet Session)\nSecurity\tDHCP Snooping\nSecurity\tDHCP Relay\nManagement\tSNMP (v1, v2c, v3)\nManagement\tRMON ( 1,2,3 & 9 groups)\nManagement\tSoftware Upgrade\nManagement\tConfiguration Export/Import\nManagement\tDHCP\tClient\nManagement\tDHCP\tOption 82\nManagement\tDHCP\tOption 66\nManagement\tDHCP\tOption 67\nManagement\tEvent/Error Log\tSyslog\nManagement\tManagement Access Filtering\tConsole\nManagement\tManagement Access Filtering\tSNMP\nManagement\tManagement Access Filtering\tHTTP/HTTPS\nManagement\tManagement Access Filtering\tTelnet\nManagement\tPort Mirroring\nManagement\tLLDP (IEEE802.1AB)\nManagement\tLLDP-MED\nManagement\tUDLD\nManagement\tDNS Client\nManagement\tTraceroute\nManagement\tPing\nManagement\tCable Test\nManagement\tDDMI\nManagement\tNTP/ SNTP (RFC2030)\nIPv6 Support\tDual IPv6/IPv4 stack\nIPv6 Support\tIPv6 Web/SSL\nIPv6 Support\tIPv6 SNTP (Simple Network Time Protocol)\nIPv6 Support\tIPv6 Telnet / SSH\nIPv6 Support\tIPv6 Ping/Traceroute\nIPv6 Support\tIPv6 TFTP\nIPv6 Support\tIPv6 RADIUS/TACACS+\nIPv6 Support\tIPv6 SNMP\nONVIF\tONVIF Deteciton\nONVIF\tONVIF Server(NLM)\nOrdering Information\nModel\tProduct Information\nPM130GM V2\t24-Port Gigabit+2G Combo+2G SFP Managed switch\n[文本框]\nPM130GM V2 Managed switch",
+"blocks":[
+{
+"t":"p",
+"s":"列出段落",
+"text":"Product Overview"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The PM130GM V2 provides 24*10/100/1000Mbps RJ45 ports, 2G Combo ports and 2*1000Mbps SFP ports , powerful and flexible enough for users to deploy wireless access points or IP-based network surveillance cameras. The switch also comes equipped with 2 SFP slots, expanding your network flexibly. In addition, it provides high performance, enterprise-level QoS, advanced security strategies and rich layer 2 management features. With all these advanced features, the Switch is an ideal choice for small and medium business networking."
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Product Features"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Complies with IEEE802.3, IEEE802.3u, IEEE802.3ab, IEEE802.3z, IEEE802.3x Standard;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support RJ45 Auto-MDI/MDIX;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Flow Control for Full Duplex operation and back pressure for Half Duplex Operation;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Highly reliable design, supporting traditional STP/MSTP/RSTP 2-layer link protection technology;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Support static convergence and dynamic convergence (LACP) 2 convergence modes, effectively increase the link bandwidth, improve the reliability of the link, and at the same time can achieve load balancing, link backup;"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Web, CLI (Console Port, Telnet, SSH), SNMP and RMON bring abundant management policies."
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Product Specifications"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"PM130GM V2"
+],
+[
+"Standard",
+"IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3z, IEEE 802.3x, IEEE 802.1X, IEEE 802.1q, IEEE 802.1p, IEEE 802.1d, IEEE 802.1w, IEEE 802.3ad"
+],
+[
+"Interface",
+"24*10/100/1000Mbps RJ45 Ports / 2*1000Mbps Combo Ports / 2* 1000Mbps SFP Slots / 1 Console Port"
+],
+[
+"Indicator",
+"PWR, LNK/ACT, SYS"
+],
+[
+"Network media",
+"10BASE-T: UTP category 3,4,5 cable(≤100m) / 100BASE-TX: UTP category 5, 5e cable(≤100m) / 1000BASE-T: UTP category 5e, 5 cable(≤100m) / 100BASE-FX:MMF,SMF / 1000BASE-X: MMF, SMF"
+],
+[
+"MAC Address Table",
+"8K, Auto-learning, Auto-update"
+],
+[
+"Jumbo Frame",
+"9216Bytes"
+],
+[
+"Transfer Mode",
+"Store-and-forward"
+],
+[
+"Packet Forward Speed",
+"41.66Mpps"
+],
+[
+"Switching Capacity",
+"56Gbps"
+],
+[
+"Dimensions(L*W*H)",
+"440*208*44mm"
+],
+[
+"Input Power Supply",
+"100~240V AC, 50/60Hz"
+],
+[
+"Operating Temperature",
+"0°C ~ 40 °C"
+],
+[
+"Storage Temperature",
+"-40 °C ~ 70 °C"
+],
+[
+"Operating Humidity",
+"10% ~ 90% non-condensing"
+],
+[
+"Storage Humidity",
+"5% ~ 90% non-condensing"
+],
+[
+"Surge Protection",
+"Common mode ±6KV  Differential mode ±4KV；"
+],
+[
+"Certification",
+"CE, FCC ClassA"
+],
+[
+"MTBF",
+">50000 hour"
+],
+[
+"Electrostatic Standard",
+"Contact ±6KV，Air ±8KV"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Hardware Specification"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"Software Specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"spanning  Tree",
+"IEEE  802.1D -Spanning Tree"
+],
+[
+"spanning  Tree",
+"IEEE  802.1w -Rapid SpanningTree"
+],
+[
+"spanning  Tree",
+"IEEE  802.1s -Multiple Spanning Tree"
+],
+[
+"spanning  Tree",
+"BPDU Guard"
+],
+[
+"spanning  Tree",
+"STP Root Guard"
+],
+[
+"spanning  Tree",
+"Loop Detection"
+],
+[
+"VLAN",
+"Management VLAN"
+],
+[
+"VLAN",
+"Private VLAN"
+],
+[
+"VLAN",
+"Voice VLAN"
+],
+[
+"VLAN",
+"Surveillance-VLAN"
+],
+[
+"VLAN",
+"Q-in-Q (Double Tag)"
+],
+[
+"VLAN",
+"802.1v Protocol VLAN"
+],
+[
+"VLAN",
+"MAC-Based  VLAN"
+],
+[
+"Port",
+"IEEE 802.3ad witch LACP(Dynamic)"
+],
+[
+"Port",
+"Static Trunk"
+],
+[
+"Port",
+"EEE"
+],
+[
+"Port",
+"Jumbo Frame"
+],
+[
+"Port",
+"Error-Disable"
+],
+[
+"IGMP  Snooping",
+"IGMP  Snooping v1/v2/v3"
+],
+[
+"IGMP  Snooping",
+"MLD Snooping v1/v2"
+],
+[
+"IGMP  Snooping",
+"MVR"
+],
+[
+"L3",
+"Static Route"
+],
+[
+"L3",
+"Static ARP"
+],
+[
+"L3",
+"DHCP Server"
+],
+[
+"QoS Features",
+"Hardware Queues"
+],
+[
+"QoS Features",
+"Class Of Service",
+"Port Based"
+],
+[
+"QoS Features",
+"Class Of Service",
+"802.1p"
+],
+[
+"QoS Features",
+"Class Of Service",
+"CoS"
+],
+[
+"QoS Features",
+"Class Of Service",
+"DSCP"
+],
+[
+"QoS Features",
+"Class Of Service",
+"IP Precedence"
+],
+[
+"QoS Features",
+"Class Of Service",
+"TCP/UDP (IPv4/IPv6)"
+],
+[
+"QoS Features",
+"Rate Limiting",
+"Ingress"
+],
+[
+"QoS Features",
+"Rate Limiting",
+"Egress"
+],
+[
+"QoS Features",
+"Priority Queue Scheduling",
+"WRR"
+],
+[
+"QoS Features",
+"Priority Queue Scheduling",
+"Strict Priority"
+],
+[
+"QoS Features",
+"Priority Queue Scheduling",
+"DSCP & CS"
+],
+[
+"QoS Features",
+"IPv4 QoS (QCEs)"
+],
+[
+"QoS Features",
+"IPv6 QoS (QCEs)"
+],
+[
+"Security",
+"Port Security"
+],
+[
+"Security",
+"Port Isolation"
+],
+[
+"Security",
+"IEEE802.1x AAA"
+],
+[
+"Security",
+"ACLs",
+"L2+/L3/L4"
+],
+[
+"Security",
+"ACLs",
+"IPv6 Support"
+],
+[
+"Security",
+"ACLs",
+"Management Access List"
+],
+[
+"Security",
+"Management ACL/Management ACE"
+],
+[
+"Security",
+"IP Source Guard (IP-MAC-Port-VALN Binding)"
+],
+[
+"Security",
+"IP Source Guard (IP-MAC-Port Binding)"
+],
+[
+"Security",
+"Dynamic ARP Inspection"
+],
+[
+"Security",
+"Storm Control"
+],
+[
+"Security",
+"RADIUS/TACACS+"
+],
+[
+"Security",
+"RADIUS Authentication (RFC2138)"
+],
+[
+"Security",
+"DDoS Prevention"
+],
+[
+"Security",
+"HTTPs and SSL (Secured Web)"
+],
+[
+"Security",
+"SSH v1.5/v2.0 (Secured Telnet Session)"
+],
+[
+"Security",
+"DHCP Snooping"
+],
+[
+"Security",
+"DHCP Relay"
+],
+[
+"Management",
+"SNMP (v1, v2c, v3)"
+],
+[
+"Management",
+"RMON ( 1,2,3 & 9 groups)"
+],
+[
+"Management",
+"Software Upgrade"
+],
+[
+"Management",
+"Configuration Export/Import"
+],
+[
+"Management",
+"DHCP",
+"Client"
+],
+[
+"Management",
+"DHCP",
+"Option 82"
+],
+[
+"Management",
+"DHCP",
+"Option 66"
+],
+[
+"Management",
+"DHCP",
+"Option 67"
+],
+[
+"Management",
+"Event/Error Log",
+"Syslog"
+],
+[
+"Management",
+"Management Access Filtering",
+"Console"
+],
+[
+"Management",
+"Management Access Filtering",
+"SNMP"
+],
+[
+"Management",
+"Management Access Filtering",
+"HTTP/HTTPS"
+],
+[
+"Management",
+"Management Access Filtering",
+"Telnet"
+],
+[
+"Management",
+"Port Mirroring"
+],
+[
+"Management",
+"LLDP (IEEE802.1AB)"
+],
+[
+"Management",
+"LLDP-MED"
+],
+[
+"Management",
+"UDLD"
+],
+[
+"Management",
+"DNS Client"
+],
+[
+"Management",
+"Traceroute"
+],
+[
+"Management",
+"Ping"
+],
+[
+"Management",
+"Cable Test"
+],
+[
+"Management",
+"DDMI"
+],
+[
+"Management",
+"NTP/ SNTP (RFC2030)"
+],
+[
+"IPv6 Support",
+"Dual IPv6/IPv4 stack"
+],
+[
+"IPv6 Support",
+"IPv6 Web/SSL"
+],
+[
+"IPv6 Support",
+"IPv6 SNTP (Simple Network Time Protocol)"
+],
+[
+"IPv6 Support",
+"IPv6 Telnet / SSH"
+],
+[
+"IPv6 Support",
+"IPv6 Ping/Traceroute"
+],
+[
+"IPv6 Support",
+"IPv6 TFTP"
+],
+[
+"IPv6 Support",
+"IPv6 RADIUS/TACACS+"
+],
+[
+"IPv6 Support",
+"IPv6 SNMP"
+],
+[
+"ONVIF",
+"ONVIF Deteciton"
+],
+[
+"ONVIF",
+"ONVIF Server(NLM)"
+]
+]
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Ordering Information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"Product Information"
+],
+[
+"PM130GM V2",
+"24-Port Gigabit+2G Combo+2G SFP Managed switch"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:19:00Z"
+}

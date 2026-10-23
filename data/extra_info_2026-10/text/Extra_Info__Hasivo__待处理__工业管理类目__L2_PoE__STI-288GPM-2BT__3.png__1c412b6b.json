@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__工业管理类目__L2_PoE__STI-288GPM-2BT__3.png__1c412b6b",
+"path":"Extra_Info/Hasivo/待处理/工业管理类目/L2 PoE/STI-288GPM-2BT/3.png",
+"name":"3.png",
+"ext":".png",
+"bytes":2349096,
+"sha256":"1c412b6b24c3a9b6af2dc8fdd6a669981ccbccaca208f53a3d877bdca251ca75",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":1151,
+"height":2126,
+"mode":"RGBA",
+"thumb_bytes":10553
+},
+"warnings":[],
+"chars":34,
+"text":"=\nS\nQ\n全\n0\n(ead\n=,\nset)\n—\nOd Fe uly",
+"extracted_at":"2026-10-23T05:21:33Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__工业管理类目__L2_PoE__STI-288GPM-2BT__3.png__1c412b6b.jpg"
+}

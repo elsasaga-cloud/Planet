@@ -1,0 +1,18 @@
+{
+"id":"Extra_Info__Xmind__After-sales_Procedure.xmind__6889d09a",
+"path":"Extra_Info/Xmind/After-sales Procedure.xmind",
+"name":"After-sales Procedure.xmind",
+"ext":".xmind",
+"bytes":89868,
+"sha256":"6889d09a37a8a68515abb2d2e12f2a14f836dbeae9f1b58cebd28a1ba42bd335",
+"source":"Extra_Info.zip",
+"method":"xmind(content.xml)",
+"status":"ok",
+"meta":{
+"lines":14
+},
+"warnings":[],
+"chars":905,
+"text":"# Sheet: 画布 1\n- After-sales Procedure\n  - Describe what happened\n    - When this problem occurred\n    - What you did to adjust it like restart the device or change new accessories\n    - How you use this device like connecting some IP cameras\n  - Provide as many actual photos/videos as possible\n    - This is direct and efficient to help figure out the problems.\n  - Prepare necessary and relevant accessories such as SFP module/network cable/patch-cord...\n    - With in-hand accessories, sometimes it is easy to fix the problem.\n    - An example is, in a linear network connection, if one SFP module fails, the whole system might have a transmission problem.\r\nThe solution would be as simple as replacing a new workable SFP module.\n  - Get ready for online meeting\n    - A zoom video meeting link will be shared for face-to-face discussion\n    - Remote control might be required via Teamviewer or Anydesk",
+"extracted_at":"2026-10-23T05:20:09Z"
+}

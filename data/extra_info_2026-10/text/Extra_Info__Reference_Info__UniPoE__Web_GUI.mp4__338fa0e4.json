@@ -1,0 +1,24 @@
+{
+"id":"Extra_Info__Reference_Info__UniPoE__Web_GUI.mp4__338fa0e4",
+"path":"Extra_Info/Reference Info/UniPoE/Web GUI.mp4",
+"name":"Web GUI.mp4",
+"ext":".mp4",
+"bytes":2705152,
+"sha256":"338fa0e484e725977f31fdb9f8527c2830f3202434528764da8f193a2c719491",
+"source":"Extra_Info.zip",
+"method":"ffprobe+ffmpeg",
+"status":"meta",
+"meta":{
+"duration_s":18.5,
+"width":1280,
+"height":720,
+"vcodec":"h264",
+"acodec":"aac",
+"thumb_bytes":4240
+},
+"warnings":[],
+"chars":0,
+"text":"",
+"extracted_at":"2026-10-23T05:18:35Z",
+"thumb":"thumbs/Extra_Info__Reference_Info__UniPoE__Web_GUI.mp4__338fa0e4.jpg"
+}

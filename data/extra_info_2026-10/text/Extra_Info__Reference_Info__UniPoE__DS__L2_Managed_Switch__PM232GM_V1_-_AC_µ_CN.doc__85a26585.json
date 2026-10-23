@@ -1,0 +1,580 @@
+{
+"id":"Extra_Info__Reference_Info__UniPoE__DS__L2_Managed_Switch__PM232GM_V1_-_AC_µ_CN.doc__85a26585",
+"path":"Extra_Info/Reference Info/UniPoE/DS/L2 Managed Switch/PM232GM V1 - AC░µ▒╛ CN.doc",
+"name":"PM232GM V1 - AC░µ▒╛ CN.doc",
+"ext":".doc",
+"bytes":3493888,
+"sha256":"85a2658507986b9fc9c5fb885d8a97d7062bc0c5564ebb2601950076d5fdfe26",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:19:02+00:00",
+"paragraphs":15,
+"tables":3,
+"embedded_images":5
+},
+"warnings":[],
+"chars":2698,
+"text":"产品概述\nPM232GM V1是全千兆管理型交换机，具有24个全千兆的SFP光纤模块插槽，4个千兆Combo口。提供高性能，企业级QoS、高级安全策略和丰富的网管特性。此交换机具备了这些的先进的功能，足够强大和灵活的为用户部署无线接入点或基于IP的网络监控摄像机。是WIFI覆盖、网吧、机房等的理想选择\n产品特点\n符合IEEE802.3, IEEE802.3u, IEEE802.3ab, IEEE802.3z, IEEE802.3x标准。\n面板灯监控工作状态，协助故障分析;\n支持以太网节能(EEE)功能(IEEE802.3az);\n支持IEEE802.3x 全双工流控和Backpressure 半双工流控；\n高可靠性设计，支持传统的STP/RSTP 2层链路保护技术；支持手工汇聚和动态汇聚两种汇聚模式，有效增加链路带宽，提高链路的可靠性，同时可以实现负载均衡、链路备份；\n灵活方便的管理维护  支持Console、Telnet、SSH等多种管理方式\n支持WEB方式管理，更简单高效，便于工程及维护人员的安装调试；\n支持TFTP方式的文件上传与下载管理；\n产品规格\n硬件功能\n产品名\tPM232GM V1\n标准\tIEEE 802.3、IEEE 802.3u、IEEE 802.3ab 、IEEE 802.3z、IEEE 802.3x、IEEE 802.1X、IEEE 802.1q 、IEEE 802.1p、IEEE 802.1d 、IEEE 802.1w、IEEE 802.3ad\n接口\t24*1000Mbps SFP 光纤模块插槽 / 4个千兆Combo端口 / 1个Console端口\n指示灯\tPWR、 LNK/ACT、 SYS\n网络介质（线缆）\t10BASE-T: UTP category 3,4,5 cable（≤100m） / 100BASE-TX: UTP category 5, 5e cable（≤100m） / 1000BASE-T: UTP category 5e, 5 cable（≤100m）\n1000BASE-X: MMF, SMF\nMAC地址表\t16K，自动学习，自动更新\n巨型帧\t12KBytes\n传输模式\t存储转发\n包转发率\t41.66Mpps\n交换容量\t56Gbps\n包缓存\t12Mbit\n尺寸(L*W*H)\t440*207*44mm\n风扇\t1个\n绿色节能\t支持IEEE（802.3az）\n防雷等级\t共模±4KV 差模±2KV\n静电标准\t接触±6KV，空气±8KV\n输入电源\t100-240V/AC 50Hz\n工作温度\t0°C ~ +40 °C\n存储温度\t-40 °C ~ +70 °C\n工作湿度\t10% ~ 90% 无凝结\n存储湿度\t5% ~ 90% 无凝结\n平均故障间隔时间\t>100000小时\n软件功能\n生成树\tIEEE 802.1D -STP\n生成树\tIEEE 802.1w -RSTP\n生成树\tIEEE 802.1s -MSTP\n生成树\tBPDU Guard\n生成树\tSTP Root Guard\n生成树\t环路检测\nVLAN\t管理VLAN\nVLAN\t私有 VLAN\nVLAN\t语音VLAN\nVLAN\t监视VLAN\nVLAN\tQ-in-Q\nVLAN\t基于协议的VLAN\nVLAN\t基于MAC的VLAN\n端口\tLACP\n端口\tStatic\n端口\tEEE\n端口\tJumbo Frame\n端口\tError-Disable\n组播\tIGMP Snooping v1/v2/v3\n组播\tMLD Snooping v1/v2\n组播\tMVR\nQos功能\t硬件队列\nQos功能\tClass of Service\t基于端口\nQos功能\tClass of Service\t802.1p\nQos功能\tClass of Service\tCoS\nQos功能\tClass of Service\tDSCP\nQos功能\tClass of Service\tIP 优先级\nQos功能\tClass of Service\tTCP/UDP (IPv4/IPv6)\nQos功能\t带宽\t输入\nQos功能\t带宽\t输出\nQos功能\t优先级算法\tWRR\nQos功能\t优先级算法\t绝对优先级\nQos功能\t优先级算法\tDSCP & CS\nQos功能\tIPv4 QoS (QCEs)\nQos功能\tIPv6 QoS (QCEs)\n安全\t端口安全\n安全\t端口隔离\n安全\tIEEE802.1x AAA\n安全\tACLs\tL2+/L3/L4\n安全\tACLs\tIPv6 ACL\n安全\tACLs\t\n安全\tManagement ACL/Management ACE\n安全\tIP源保护（IP -MAC-端口-VALN绑定）\n安全\tIP源保护（IP MAC端口绑定）\n安全\t动态ARP防护\n安全\t广播风暴\n安全\tRADIUS/TACACS+\n安全\tRADIUS 身份验证 (RFC2138)\n安全\t防DDoS攻击\n安全\tHTTPs 和 SSL\n安全\tSSH v1.5/v2.0\n安全\tDHCP 监听\n安全\tDHCP中继\n管理\tSNMP (v1, v2c, v3)\n管理\tRMON ( 1,2,3 & 9 组)\n管理\t固件升级\n管理\t配置导出/导入\n管理\tDHCP\t客户端\n管理\tDHCP\tOption 82\n管理\tDHCP\tOption 66\n管理\tDHCP\tOption 67\n管理\t事件/错误日志\t系统日志\n管理\t管理访问控制\t串口\n管理\t管理访问控制\tSNMP\n管理\t管理访问控制\tHTTP/HTTPS\n管理\t管理访问控制\tTelnet\n管理\t端口镜像\n管理\tLLDP (IEEE802.1AB)\n管理\tLLDP-MED\n管理\tUDLD\n管理\tDNS Client\n管理\tTraceroute\n管理\tPing\n管理\t线缆检测\n管理\tDDMI\n管理\tNTP/ SNTP (RFC2030)\nIPv6\tIPv6/IPv4\nIPv6\tIPv6 Web/SSL\nIPv6\tIPv6 SNTP\nIPv6\tIPv6 Telnet/SSH\nIPv6\tIPv6 Ping/Traceroute\nIPv6\tIPv6 TFTP\nIPv6\tIPv6 RADIUS/TACACS+\nIPv6\tIPv6 SNMP\nONVIF\tONVIF探测\nONVIF\tONVIF Server (NLM)\n订购信息\n产品名\t产品信息\nPM232GM V1\t24 GSFP+4G Combo全千兆管理型交换机\n[文本框]\nPM232GM V1全千兆管理型交换机",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"产品概述"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PM232GM V1是全千兆管理型交换机，具有24个全千兆的SFP光纤模块插槽，4个千兆Combo口。提供高性能，企业级QoS、高级安全策略和丰富的网管特性。此交换机具备了这些的先进的功能，足够强大和灵活的为用户部署无线接入点或基于IP的网络监控摄像机。是WIFI覆盖、网吧、机房等的理想选择"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"产品特点"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"符合IEEE802.3, IEEE802.3u, IEEE802.3ab, IEEE802.3z, IEEE802.3x标准。"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"面板灯监控工作状态，协助故障分析;"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"支持以太网节能(EEE)功能(IEEE802.3az);"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"支持IEEE802.3x 全双工流控和Backpressure 半双工流控；"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"高可靠性设计，支持传统的STP/RSTP 2层链路保护技术；支持手工汇聚和动态汇聚两种汇聚模式，有效增加链路带宽，提高链路的可靠性，同时可以实现负载均衡、链路备份；"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"灵活方便的管理维护  支持Console、Telnet、SSH等多种管理方式"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"支持WEB方式管理，更简单高效，便于工程及维护人员的安装调试；"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"支持TFTP方式的文件上传与下载管理；"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"产品规格"
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"硬件功能"
+},
+{
+"t":"table",
+"rows":[
+[
+"产品名",
+"PM232GM V1"
+],
+[
+"标准",
+"IEEE 802.3、IEEE 802.3u、IEEE 802.3ab 、IEEE 802.3z、IEEE 802.3x、IEEE 802.1X、IEEE 802.1q 、IEEE 802.1p、IEEE 802.1d 、IEEE 802.1w、IEEE 802.3ad"
+],
+[
+"接口",
+"24*1000Mbps SFP 光纤模块插槽 / 4个千兆Combo端口 / 1个Console端口"
+],
+[
+"指示灯",
+"PWR、 LNK/ACT、 SYS"
+],
+[
+"网络介质（线缆）",
+"10BASE-T: UTP category 3,4,5 cable（≤100m） / 100BASE-TX: UTP category 5, 5e cable（≤100m） / 1000BASE-T: UTP category 5e, 5 cable（≤100m）\n1000BASE-X: MMF, SMF"
+],
+[
+"MAC地址表",
+"16K，自动学习，自动更新"
+],
+[
+"巨型帧",
+"12KBytes"
+],
+[
+"传输模式",
+"存储转发"
+],
+[
+"包转发率",
+"41.66Mpps"
+],
+[
+"交换容量",
+"56Gbps"
+],
+[
+"包缓存",
+"12Mbit"
+],
+[
+"尺寸(L*W*H)",
+"440*207*44mm"
+],
+[
+"风扇",
+"1个"
+],
+[
+"绿色节能",
+"支持IEEE（802.3az）"
+],
+[
+"防雷等级",
+"共模±4KV 差模±2KV"
+],
+[
+"静电标准",
+"接触±6KV，空气±8KV"
+],
+[
+"输入电源",
+"100-240V/AC 50Hz"
+],
+[
+"工作温度",
+"0°C ~ +40 °C"
+],
+[
+"存储温度",
+"-40 °C ~ +70 °C"
+],
+[
+"工作湿度",
+"10% ~ 90% 无凝结"
+],
+[
+"存储湿度",
+"5% ~ 90% 无凝结"
+],
+[
+"平均故障间隔时间",
+">100000小时"
+]
+]
+},
+{
+"t":"p",
+"s":"z-窗体顶端",
+"text":"软件功能"
+},
+{
+"t":"table",
+"rows":[
+[
+"生成树",
+"IEEE 802.1D -STP"
+],
+[
+"生成树",
+"IEEE 802.1w -RSTP"
+],
+[
+"生成树",
+"IEEE 802.1s -MSTP"
+],
+[
+"生成树",
+"BPDU Guard"
+],
+[
+"生成树",
+"STP Root Guard"
+],
+[
+"生成树",
+"环路检测"
+],
+[
+"VLAN",
+"管理VLAN"
+],
+[
+"VLAN",
+"私有 VLAN"
+],
+[
+"VLAN",
+"语音VLAN"
+],
+[
+"VLAN",
+"监视VLAN"
+],
+[
+"VLAN",
+"Q-in-Q"
+],
+[
+"VLAN",
+"基于协议的VLAN"
+],
+[
+"VLAN",
+"基于MAC的VLAN"
+],
+[
+"端口",
+"LACP"
+],
+[
+"端口",
+"Static"
+],
+[
+"端口",
+"EEE"
+],
+[
+"端口",
+"Jumbo Frame"
+],
+[
+"端口",
+"Error-Disable"
+],
+[
+"组播",
+"IGMP Snooping v1/v2/v3"
+],
+[
+"组播",
+"MLD Snooping v1/v2"
+],
+[
+"组播",
+"MVR"
+],
+[
+"Qos功能",
+"硬件队列"
+],
+[
+"Qos功能",
+"Class of Service",
+"基于端口"
+],
+[
+"Qos功能",
+"Class of Service",
+"802.1p"
+],
+[
+"Qos功能",
+"Class of Service",
+"CoS"
+],
+[
+"Qos功能",
+"Class of Service",
+"DSCP"
+],
+[
+"Qos功能",
+"Class of Service",
+"IP 优先级"
+],
+[
+"Qos功能",
+"Class of Service",
+"TCP/UDP (IPv4/IPv6)"
+],
+[
+"Qos功能",
+"带宽",
+"输入"
+],
+[
+"Qos功能",
+"带宽",
+"输出"
+],
+[
+"Qos功能",
+"优先级算法",
+"WRR"
+],
+[
+"Qos功能",
+"优先级算法",
+"绝对优先级"
+],
+[
+"Qos功能",
+"优先级算法",
+"DSCP & CS"
+],
+[
+"Qos功能",
+"IPv4 QoS (QCEs)"
+],
+[
+"Qos功能",
+"IPv6 QoS (QCEs)"
+],
+[
+"安全",
+"端口安全"
+],
+[
+"安全",
+"端口隔离"
+],
+[
+"安全",
+"IEEE802.1x AAA"
+],
+[
+"安全",
+"ACLs",
+"L2+/L3/L4"
+],
+[
+"安全",
+"ACLs",
+"IPv6 ACL"
+],
+[
+"安全",
+"ACLs",
+""
+],
+[
+"安全",
+"Management ACL/Management ACE"
+],
+[
+"安全",
+"IP源保护（IP -MAC-端口-VALN绑定）"
+],
+[
+"安全",
+"IP源保护（IP MAC端口绑定）"
+],
+[
+"安全",
+"动态ARP防护"
+],
+[
+"安全",
+"广播风暴"
+],
+[
+"安全",
+"RADIUS/TACACS+"
+],
+[
+"安全",
+"RADIUS 身份验证 (RFC2138)"
+],
+[
+"安全",
+"防DDoS攻击"
+],
+[
+"安全",
+"HTTPs 和 SSL"
+],
+[
+"安全",
+"SSH v1.5/v2.0"
+],
+[
+"安全",
+"DHCP 监听"
+],
+[
+"安全",
+"DHCP中继"
+],
+[
+"管理",
+"SNMP (v1, v2c, v3)"
+],
+[
+"管理",
+"RMON ( 1,2,3 & 9 组)"
+],
+[
+"管理",
+"固件升级"
+],
+[
+"管理",
+"配置导出/导入"
+],
+[
+"管理",
+"DHCP",
+"客户端"
+],
+[
+"管理",
+"DHCP",
+"Option 82"
+],
+[
+"管理",
+"DHCP",
+"Option 66"
+],
+[
+"管理",
+"DHCP",
+"Option 67"
+],
+[
+"管理",
+"事件/错误日志",
+"系统日志"
+],
+[
+"管理",
+"管理访问控制",
+"串口"
+],
+[
+"管理",
+"管理访问控制",
+"SNMP"
+],
+[
+"管理",
+"管理访问控制",
+"HTTP/HTTPS"
+],
+[
+"管理",
+"管理访问控制",
+"Telnet"
+],
+[
+"管理",
+"端口镜像"
+],
+[
+"管理",
+"LLDP (IEEE802.1AB)"
+],
+[
+"管理",
+"LLDP-MED"
+],
+[
+"管理",
+"UDLD"
+],
+[
+"管理",
+"DNS Client"
+],
+[
+"管理",
+"Traceroute"
+],
+[
+"管理",
+"Ping"
+],
+[
+"管理",
+"线缆检测"
+],
+[
+"管理",
+"DDMI"
+],
+[
+"管理",
+"NTP/ SNTP (RFC2030)"
+],
+[
+"IPv6",
+"IPv6/IPv4"
+],
+[
+"IPv6",
+"IPv6 Web/SSL"
+],
+[
+"IPv6",
+"IPv6 SNTP"
+],
+[
+"IPv6",
+"IPv6 Telnet/SSH"
+],
+[
+"IPv6",
+"IPv6 Ping/Traceroute"
+],
+[
+"IPv6",
+"IPv6 TFTP"
+],
+[
+"IPv6",
+"IPv6 RADIUS/TACACS+"
+],
+[
+"IPv6",
+"IPv6 SNMP"
+],
+[
+"ONVIF",
+"ONVIF探测"
+],
+[
+"ONVIF",
+"ONVIF Server (NLM)"
+]
+]
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"订购信息"
+},
+{
+"t":"table",
+"rows":[
+[
+"产品名",
+"产品信息"
+],
+[
+"PM232GM V1",
+"24 GSFP+4G Combo全千兆管理型交换机"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:19:02Z"
+}

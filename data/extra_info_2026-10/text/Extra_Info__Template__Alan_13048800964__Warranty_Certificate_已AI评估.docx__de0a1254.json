@@ -1,0 +1,212 @@
+{
+"id":"Extra_Info__Template__Alan_13048800964__Warranty_Certificate_已AI评估.docx__de0a1254",
+"path":"Extra_Info/Template/Alan 13048800964/Warranty Certificate_已AI评估.docx",
+"name":"Warranty Certificate_已AI评估.docx",
+"ext":".docx",
+"bytes":103356,
+"sha256":"de0a12544c2b2b98eebd9d8dc4920e1cddb74b05d50cbe7bfac0eaaee15c2c30",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2026-01-26T09:59:00+00:00",
+"modified":"2026-08-03T08:45:42+00:00",
+"paragraphs":37,
+"tables":0,
+"embedded_images":2
+},
+"warnings":[],
+"chars":1943,
+"text":"Warranty Certificate\nDate: 06 Feb 2026\nContract Reference\nPI Number: STAG20251224020\nPO Number: 2600011146\n1. Parties Information\nSaga Telecom hereby warrants that this lot of products, as detailed below, supplied to\nCustomer:Netaş Telekomünikasyon A.Ş.\nAddress:Orhanlı Mahallesi, İrfanlı Caddesi No: 28, 34956 Orhanlı – Tuzla, Istanbul, Türkiye\nshall be free from defects in material, workmanship or manufacturing under normal and intended use.\n2. Packaging & Product Information\nBox 1(Single Model)\nModel: STI-488DGGPM-2BT\nSerial Number Range: 202601140001 – 202601140003\nTotal Quantity: One Box, 3 Pieces\nBox 2(Mixed Models)\nModel: STI-488DGGPM-2BT\nSerial Number Range: 202601140001 – 202601140003\nModel: ??\nSerial Number Range: ??\nTotal Quantity: One Box, 3 Pieces\nGrand Total: Two Boxes, 10 Pieces\n3. Warranty Period\nModel: STI-488DGGPM-2BT\nWarranty Period: Three (3) years\nFrom 06 Feb 2026 to 05 Feb 2029\n4. Shipping Information\nShipping Address: Orhanlı Mahallesi, İrfanlı Caddesi No: 28, 34956 Orhanlı – Tuzla, Istanbul, Türkiye\nTracking Number: UPS/1Z0E64G86728428159\nDelivery Status: DELIVERED\n5. Acceptance\nPurchased items are deemed accepted upon initial inspection if no written notice of defects is received within two (2) months from the delivery date.\nThis acceptance clause shall not affect the validity of the warranty period.\n6. Warranty Scope\nSaga Telecom further warrants that all products conform to the applicable product specifications and technical requirements as described in the official product specifications and user manuals provided by Saga Telecom.\nAll warranties are subject to proper installation, operation, maintenance, and use strictly in accordance with the instructions and conditions specified in such product documentation.\nAuthorized Signature & Company Stamp\n[页眉页脚]\nSaga Telecom\nwww.sagatele.com\nAn Engineering & Supply-Chain-First Telecom Partner\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Warranty Certificate"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Date: 06 Feb 2026"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Contract Reference"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PI Number: STAG20251224020"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PO Number: 2600011146"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1. Parties Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom hereby warrants that this lot of products, as detailed below, supplied to"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Customer:Netaş Telekomünikasyon A.Ş."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Address:Orhanlı Mahallesi, İrfanlı Caddesi No: 28, 34956 Orhanlı – Tuzla, Istanbul, Türkiye"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"shall be free from defects in material, workmanship or manufacturing under normal and intended use."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2. Packaging & Product Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Box 1(Single Model)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Model: STI-488DGGPM-2BT"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Serial Number Range: 202601140001 – 202601140003"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Total Quantity: One Box, 3 Pieces"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Box 2(Mixed Models)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Model: STI-488DGGPM-2BT"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Serial Number Range: 202601140001 – 202601140003"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Model: ??"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Serial Number Range: ??"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Total Quantity: One Box, 3 Pieces"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Grand Total: Two Boxes, 10 Pieces"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"3. Warranty Period"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Model: STI-488DGGPM-2BT"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Warranty Period: Three (3) years"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"From 06 Feb 2026 to 05 Feb 2029"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4. Shipping Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipping Address: Orhanlı Mahallesi, İrfanlı Caddesi No: 28, 34956 Orhanlı – Tuzla, Istanbul, Türkiye"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Tracking Number: UPS/1Z0E64G86728428159"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Delivery Status: DELIVERED"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"5. Acceptance"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Purchased items are deemed accepted upon initial inspection if no written notice of defects is received within two (2) months from the delivery date."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This acceptance clause shall not affect the validity of the warranty period."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"6. Warranty Scope"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom further warrants that all products conform to the applicable product specifications and technical requirements as described in the official product specifications and user manuals provided by Saga Telecom."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"All warranties are subject to proper installation, operation, maintenance, and use strictly in accordance with the instructions and conditions specified in such product documentation."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Authorized Signature & Company Stamp"
+}
+],
+"extracted_at":"2026-10-23T05:20:27Z"
+}

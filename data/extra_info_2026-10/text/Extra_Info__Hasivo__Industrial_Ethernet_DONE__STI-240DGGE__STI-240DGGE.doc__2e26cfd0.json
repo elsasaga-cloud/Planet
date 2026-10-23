@@ -1,0 +1,108 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-240DGGE__STI-240DGGE.doc__2e26cfd0",
+"path":"Extra_Info/Hasivo/Industrial Ethernet_DONE/STI-240DGGE/STI-240DGGE.doc",
+"name":"STI-240DGGE.doc",
+"ext":".doc",
+"bytes":27699,
+"sha256":"2e26cfd069ec144e14aba75e53c11e48814eff503b87076e40c1300a4abcf67c",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:24:38+00:00",
+"paragraphs":0,
+"tables":1,
+"embedded_images":0
+},
+"warnings":[],
+"chars":1280,
+"text":"Model\tSTI-240DGGE\nProduct Name\t6 port 10/100/1000/2500Mbps Industrial Ethernet Switch\nFixed Port\t4*10/100/1000M RJ45 port / 2*100/1000/2500M SFP\nBandwidth\t20Gbps\nPacket Forwarding\t35.71Mpps\nMAC\t2K\nBuffer\t2.5M\nTransmission Distance\t10BASE-T: Cat3,4,5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)\nOptical Media\tSFP: 2500M single and multimode optical module, Max distance≤100Km\nLED Indicator\tPWR: Power indicator (green) / PMX: Power overload indicator (green) / Port: green _10/100M network connection indicator / green+orange _1000M network connection indicator. / 5-6: Optical fiber connection indicator (green) / P1: Main power indicator (green) / P2: slave power indicator (green)\nPower\tThree groups of independent power input / SW: DC 12-57V\nOperating Temperature / Humidity\t-40°C～+75°C / 10%～90% RH No condensation\nStorage Temperature / Humidity\t-40°C～+85°C / 5%～95% RH No condensation\nDimension / L*W*H\tDevice: 156mm*113mm*40mm / Packing Box: 235mm*165mm*78mm\nN.W/G.W(Kg)\t0.9Kg/1.1Kg\nLightning / Protection Level\t6KV 8/20us；8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years",
+"blocks":[
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-240DGGE"
+],
+[
+"Product Name",
+"6 port 10/100/1000/2500Mbps Industrial Ethernet Switch"
+],
+[
+"Fixed Port",
+"4*10/100/1000M RJ45 port / 2*100/1000/2500M SFP"
+],
+[
+"Bandwidth",
+"20Gbps"
+],
+[
+"Packet Forwarding",
+"35.71Mpps"
+],
+[
+"MAC",
+"2K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3,4,5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter) / 1000BASE-TX: Cat6 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 2500M single and multimode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PWR: Power indicator (green) / PMX: Power overload indicator (green) / Port: green _10/100M network connection indicator / green+orange _1000M network connection indicator. / 5-6: Optical fiber connection indicator (green) / P1: Main power indicator (green) / P2: slave power indicator (green)"
+],
+[
+"Power",
+"Three groups of independent power input / SW: DC 12-57V"
+],
+[
+"Operating Temperature / Humidity",
+"-40°C～+75°C / 10%～90% RH No condensation"
+],
+[
+"Storage Temperature / Humidity",
+"-40°C～+85°C / 5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 156mm*113mm*40mm / Packing Box: 235mm*165mm*78mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.9Kg/1.1Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us；8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:24:38Z"
+}

@@ -1,0 +1,242 @@
+{
+"id":"Extra_Info__Reference_Info__OEM信息__OEM_ODM.docx__47a3ae7f",
+"path":"Extra_Info/Reference Info/OEM信息/OEM&ODM.docx",
+"name":"OEM&ODM.docx",
+"ext":".docx",
+"bytes":15520,
+"sha256":"47a3ae7f5ba01ab6ce7d0be7c8fd5e4d4a06399cb717dd40c615569f1c8769d9",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2024-06-26T09:22:00+00:00",
+"modified":"2024-06-26T10:13:33+00:00",
+"paragraphs":43,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"chars":2525,
+"text":"Principle\nWe are fully connected with our customers, even if just for a single purchase.\nIt starts from the promise of professional products and services, but our work goes far beyond.\nIt is not only fiber optic connection, but also human connection.\nOlycom will sign a NDA file to keep customer information highly confidential.\nRelevant cooperation information will not be leaked to a third party without the customer’s permission.\nOEM\nOlycom support OEM service regarding management features and manufacturing.\nManagement Features\nIt is usually about putting customer’s logo and model name on the GUI interface, see below photo.\nMeanwhile, it is optional to change the GUI color(eg: grey to blue).\nManufacturing\nIn our daily work, it is mainly about 3 aspects\nPrint logo/model name on the device\nUse a customized PVC mask\nChange some parts of the whole piece\nMeanwhile, Olycom support customized packing box or user manual.\nODM\nThis comes in 2 types, SKD or CKD.\nWhat is SKD?\nIt is short for Semi Knocked Down or incompletely disassembled unit.\nAs an OEM manufacturer, we could control the assembling part and do SKD mode for our customers.\n下边放图\nDue to some import policies and regulations in some countries like India or Iran, SKD is necessary.\nWe have dealt with many cases and support this service.\nCKD stands for Completely Knocked Down and is a business mode to disassemble a product into separate parts and ship goods to another place for assembly.\nThat is to say each component and manufacturing part are to be disclosed.\nIn most cases, this involves some confidential information like PCB diagram, BOM list...\n放图\nOlycom has some CKD orders regarding fiber optic poe switch and industrial managed Ethernet switch.\nBasically CKD requires careful discussion and cost determination.\nDesign\nSometimes client will specify a chip solution like Microchip SparX-5i Family for some  special functions.\nExample: TNS function is clearly highlighted in this designing.\nAnother form for this OEM service is exact specifications.\nExample: Industrial Managed Bypass Ethernet Switch(加链接)\nThis diagram indicates the port location and wiring connection.\nOur hardware and software engineers will evaluate and give a conclusion.\n放图\nConclusion\nThis above information includes some common OEM&ODM requirements.\nOlycom are experienced and could support a chain of customized services covering designing and manufacturing.\nPlease let us know if any customization services you need that are not listed, we will assess it and get back to you.",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Principle"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"We are fully connected with our customers, even if just for a single purchase."
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"It starts from the promise of professional products and services, but our work goes far beyond."
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"It is not only fiber optic connection, but also human connection."
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Olycom will sign a NDA file to keep customer information highly confidential."
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Relevant cooperation information will not be leaked to a third party without the customer’s permission."
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"OEM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Olycom support OEM service regarding management features and manufacturing."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Management Features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is usually about putting customer’s logo and model name on the GUI interface, see below photo."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Meanwhile, it is optional to change the GUI color(eg: grey to blue)."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Manufacturing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"In our daily work, it is mainly about 3 aspects"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Print logo/model name on the device"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Use a customized PVC mask"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Change some parts of the whole piece"
+},
+{
+"t":"p",
+"s":"Normal (Web)",
+"text":"Meanwhile, Olycom support customized packing box or user manual."
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"ODM"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This comes in 2 types, SKD or CKD."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"What is SKD?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is short for Semi Knocked Down or incompletely disassembled unit."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"As an OEM manufacturer, we could control the assembling part and do SKD mode for our customers."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"下边放图"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Due to some import policies and regulations in some countries like India or Iran, SKD is necessary."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We have dealt with many cases and support this service."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CKD stands for Completely Knocked Down and is a business mode to disassemble a product into separate parts and ship goods to another place for assembly."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"That is to say each component and manufacturing part are to be disclosed."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"In most cases, this involves some confidential information like PCB diagram, BOM list..."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"放图"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Olycom has some CKD orders regarding fiber optic poe switch and industrial managed Ethernet switch."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Basically CKD requires careful discussion and cost determination."
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Design"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Sometimes client will specify a chip solution like Microchip SparX-5i Family for some  special functions."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Example: TNS function is clearly highlighted in this designing."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Another form for this OEM service is exact specifications."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Example: Industrial Managed Bypass Ethernet Switch(加链接)"
+},
+{
+"t":"p",
+"s":"HTML Preformatted",
+"text":"This diagram indicates the port location and wiring connection."
+},
+{
+"t":"p",
+"s":"HTML Preformatted",
+"text":"Our hardware and software engineers will evaluate and give a conclusion."
+},
+{
+"t":"p",
+"s":"HTML Preformatted",
+"text":"放图"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Conclusion"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This above information includes some common OEM&ODM requirements."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Olycom are experienced and could support a chain of customized services covering designing and manufacturing."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please let us know if any customization services you need that are not listed, we will assess it and get back to you."
+}
+],
+"extracted_at":"2026-10-23T05:19:50Z"
+}

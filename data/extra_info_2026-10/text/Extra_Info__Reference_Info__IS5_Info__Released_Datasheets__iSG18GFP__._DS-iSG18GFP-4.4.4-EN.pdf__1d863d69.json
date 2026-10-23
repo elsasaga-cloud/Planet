@@ -1,0 +1,22 @@
+{
+"id":"Extra_Info__Reference_Info__IS5_Info__Released_Datasheets__iSG18GFP__._DS-iSG18GFP-4.4.4-EN.pdf__1d863d69",
+"path":"Extra_Info/Reference Info/IS5 Info/Released Datasheets/iSG18GFP/._DS-iSG18GFP-4.4.4-EN.pdf",
+"name":"._DS-iSG18GFP-4.4.4-EN.pdf",
+"ext":".pdf",
+"bytes":4096,
+"sha256":"1d863d6969b3a95b1b090340ff91c329f85223ddcaf3567a263931ed1eda5b73",
+"source":"Extra_Info.zip",
+"method":"pdfplumber",
+"status":"meta",
+"meta":{
+"ocr_pages":0
+},
+"warnings":[
+"pdfplumber: No /Root object! - Is this really a PDF?",
+"pypdf: Stream has ended unexpectedly"
+],
+"chars":0,
+"text":"",
+"pages":[],
+"extracted_at":"2026-10-23T05:13:29Z"
+}

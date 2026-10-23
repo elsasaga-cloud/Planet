@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__S5800P-24F-2TC__2.png__32f84f0d",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/S5800P-24F-2TC/2.png",
+"name":"2.png",
+"ext":".png",
+"bytes":1333867,
+"sha256":"32f84f0ddaf7bce9ec6b453319fa2b748b684f2f0f5a2b945bc7eb6cbbbd0a65",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":2470,
+"height":855,
+"mode":"RGBA",
+"thumb_bytes":5197
+},
+"warnings":[],
+"chars":22,
+"text":"sue\n由\n# wow ii SUP\nPoe",
+"extracted_at":"2026-10-23T05:22:48Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__S5800P-24F-2TC__2.png__32f84f0d.jpg"
+}

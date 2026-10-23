@@ -1,0 +1,18 @@
+{
+"id":"Extra_Info__Xmind__PD.xmind__7edffa69",
+"path":"Extra_Info/Xmind/PD.xmind",
+"name":"PD.xmind",
+"ext":".xmind",
+"bytes":62558,
+"sha256":"7edffa6961fe2e1554c7e088be0c2b0cea370219efd37f4565f475aa86da383f",
+"source":"Extra_Info.zip",
+"method":"xmind(content.xml)",
+"status":"ok",
+"meta":{
+"lines":21
+},
+"warnings":[],
+"chars":418,
+"text":"# Sheet: 画布 1\n- PD\n  - High-power\n    - LED lighting and sensors\n    - PTZ cameras\n    - High-performance WAPs\n    - Thin client computers\n    - VoIP phones\n    - IP security cameras\n    - Facility monitoring controls\n    - Digital signage\n  - Normal\n    - Sensors\n    - IP phones\n    - IP clocks\n    - Alarms\n    - Access points\n    - Kiosks\n    - Video Conference\n    - Lighting systems\n    - Television and displays",
+"extracted_at":"2026-10-23T05:20:10Z"
+}

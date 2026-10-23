@@ -1,0 +1,23 @@
+{
+"id":"Extra_Info__Hasivo__待处理__商业PoE交换机图__百千兆1_1_16_COMBO__3.png__d0ee6e67",
+"path":"Extra_Info/Hasivo/待处理/商业PoE交换机图/百千兆1+1+16 COMBO/3.png",
+"name":"3.png",
+"ext":".png",
+"bytes":4849911,
+"sha256":"d0ee6e67b431f10a98cd15fe3f1c7e5fda21ea87848f539d3e27b1d97f353a41",
+"source":"Extra_Info.zip",
+"method":"pillow+tesseract",
+"status":"ok",
+"meta":{
+"format":"PNG",
+"width":4136,
+"height":1204,
+"mode":"RGBA",
+"thumb_bytes":6571
+},
+"warnings":[],
+"chars":47,
+"text":"Ai- PoE Switch\n16FE PoE+1GE+1Combo\nGiga 17 Link",
+"extracted_at":"2026-10-23T05:23:40Z",
+"thumb":"thumbs/Extra_Info__Hasivo__待处理__商业PoE交换机图__百千兆1_1_16_COMBO__3.png__d0ee6e67.jpg"
+}

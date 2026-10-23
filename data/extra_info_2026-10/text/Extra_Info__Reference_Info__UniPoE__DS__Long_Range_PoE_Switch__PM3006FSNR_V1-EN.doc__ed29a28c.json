@@ -1,0 +1,336 @@
+{
+"id":"Extra_Info__Reference_Info__UniPoE__DS__Long_Range_PoE_Switch__PM3006FSNR_V1-EN.doc__ed29a28c",
+"path":"Extra_Info/Reference Info/UniPoE/DS/Long Range PoE Switch/PM3006FSNR V1-EN.doc",
+"name":"PM3006FSNR V1-EN.doc",
+"ext":".doc",
+"bytes":310272,
+"sha256":"ed29a28c3236afb3c1d7fde52d383be80af8874134c65df8a1f9883ee1069984",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:19:11+00:00",
+"paragraphs":18,
+"tables":3,
+"embedded_images":5
+},
+"warnings":[],
+"chars":3147,
+"text":"Product Overview\nPM3006FSNR V1 is 6-port 10/100Mbps switch with 4 port PoE(Port1~4). Among them port1-2 PoE ports support long-distance transmission of 800 meters（Optional）（with long-range Equipment）,The electrical power and data transmission on the same cable can expand your network to the places where no power lines or outlets, With store & forward technology and dynamic memory allocation, M3006FSNR V1 guarantee the bandwidth distributes each port effectively. Where you can install devices such as APs, IP cameras, or IP phones etc.\nPoE, main board and power supply are all in one, PM3006FSNR V1 is easy to install and become smaller and more flexible. In addition, It is easy to manage and maintain which can meet a lot of networking environment, such as Business building, Community, Hotel, Office etc.\nFeatures\nComplies with IEEE802.3af/at Standard;\nSupports PoE Power up to 32W for each PoE port；\nAuto detect power device; will not burned non-standard PoE device or normal PoE switch;\nSupports port power supply prioritization, guarantee the continuous power supply of key nodes;\nDelivers full POE Plus power at 300-500m（By module）;\nUnrestricted 10Mbps with POE at over 800m;\nSupports IEEE802.3 x full duplex flow control and Backpressure half duplex flow control;\nLine-speed forwarding, intelligent identification;\nSupports storage – and- forward for Data exchange;\nInternal power supply with small case;\nPower supply, PoE module and switch PCBA Three in one.\nProduct Specifications\nModel\tPM3006FSNR V1\nPoE standard\tIEEE802.3af/at\nInterface\t6*10/100Mbps RJ45 port\nPoE port\t1-4(port1-2 can choose 1or 2 port to support 800 meters of long-distance transmission) Used with long-range Equipment\nPoE Total\t60W\nPower supply\t65W\nRJ45 PoE power supply\tMode A   Anode1/2   Cathode3/6\nPoE output-port\tMax 32W\nIndicator\tPWR、DATA 、PoE\nNetwork media\t10BASE-T: UTP category 3,4,5 cable（≤100m） / 100BASE-TX: UTP category 5, 5e cable（≤100m）\nMAC Address Table\t1K，Automatic study, automatic updates\njumbo frame\t1536Bytes\nPacket buffer\t448K bit\nTransfer Mode\tstore-and-forward\nPacket forwarding rate\t0.89Mpps\nBandwidth\t1.2Gbps\nFan\tFanless\nDevice Dimension\t168*93*32mm\nMachine weight\t<1kg\nInput Voltage\tAC 100-240V 50/60Hz\nOperating Temperature\t0°C ~ 40 °C\nStorage Temperature\t-40 °C ~ 70 °C\nOperating Humidity\t10% ~ 90%  non-condensing\nStorage Humidity\t5% ~ 90%  non-condensing\nSurge Protection\tDifferential mode±2KV，Common mode ±4KV\nMTBF\t>50000 hour\nElectrostatic standard\tContact 6KV,air 8KV\nWith long-range Equipment Test data：\nCable Length (m)\tNegotiating speed (Mbps)\tPoE Max Load Capacity (W)(PD)\n50\t100Mbps\t33\n100\t100Mbps\t32\n150\t100Mbps\t32\n200\t100Mbps\t31\n250\t100Mbps\t30\n300\t100Mbps\t28\n350\t100Mbps\t27\n400\t100Mbps\t26\n450\t100Mbps\t25\n500\t100Mbps\t24\n550\t10Mbps\t23\n600\t10Mbps\t22\n650\t10Mbps\t21\n700\t10Mbps\t20\n750\t10Mbps\t19\n800\t10Mbps\t17\nUnipoe Power Supply Voltage is 56V. / Adopt PM104MM V1.0 version of the Module. / The cable is CAT.5e, 100m DC impedance is no more than 10.5Ω.\nOrdering information\nModel\tproduct information\nPM3006FSNR V1\t4*10/100Mbps+2FE long-range PoE Switch (Used with long-range Equipment)\n[文本框]\nPM3006FSNR V1 long-range PoE Switch",
+"blocks":[
+{
+"t":"p",
+"s":"列出段落",
+"text":"Product Overview"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PM3006FSNR V1 is 6-port 10/100Mbps switch with 4 port PoE(Port1~4). Among them port1-2 PoE ports support long-distance transmission of 800 meters（Optional）（with long-range Equipment）,The electrical power and data transmission on the same cable can expand your network to the places where no power lines or outlets, With store & forward technology and dynamic memory allocation, M3006FSNR V1 guarantee the bandwidth distributes each port effectively. Where you can install devices such as APs, IP cameras, or IP phones etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE, main board and power supply are all in one, PM3006FSNR V1 is easy to install and become smaller and more flexible. In addition, It is easy to manage and maintain which can meet a lot of networking environment, such as Business building, Community, Hotel, Office etc."
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Features"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Complies with IEEE802.3af/at Standard;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Supports PoE Power up to 32W for each PoE port；"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Auto detect power device; will not burned non-standard PoE device or normal PoE switch;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Supports port power supply prioritization, guarantee the continuous power supply of key nodes;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Delivers full POE Plus power at 300-500m（By module）;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Unrestricted 10Mbps with POE at over 800m;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Supports IEEE802.3 x full duplex flow control and Backpressure half duplex flow control;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Line-speed forwarding, intelligent identification;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Supports storage – and- forward for Data exchange;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Internal power supply with small case;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Power supply, PoE module and switch PCBA Three in one."
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Product Specifications"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"PM3006FSNR V1"
+],
+[
+"PoE standard",
+"IEEE802.3af/at"
+],
+[
+"Interface",
+"6*10/100Mbps RJ45 port"
+],
+[
+"PoE port",
+"1-4(port1-2 can choose 1or 2 port to support 800 meters of long-distance transmission) Used with long-range Equipment"
+],
+[
+"PoE Total",
+"60W"
+],
+[
+"Power supply",
+"65W"
+],
+[
+"RJ45 PoE power supply",
+"Mode A   Anode1/2   Cathode3/6"
+],
+[
+"PoE output-port",
+"Max 32W"
+],
+[
+"Indicator",
+"PWR、DATA 、PoE"
+],
+[
+"Network media",
+"10BASE-T: UTP category 3,4,5 cable（≤100m） / 100BASE-TX: UTP category 5, 5e cable（≤100m）"
+],
+[
+"MAC Address Table",
+"1K，Automatic study, automatic updates"
+],
+[
+"jumbo frame",
+"1536Bytes"
+],
+[
+"Packet buffer",
+"448K bit"
+],
+[
+"Transfer Mode",
+"store-and-forward"
+],
+[
+"Packet forwarding rate",
+"0.89Mpps"
+],
+[
+"Bandwidth",
+"1.2Gbps"
+],
+[
+"Fan",
+"Fanless"
+],
+[
+"Device Dimension",
+"168*93*32mm"
+],
+[
+"Machine weight",
+"<1kg"
+],
+[
+"Input Voltage",
+"AC 100-240V 50/60Hz"
+],
+[
+"Operating Temperature",
+"0°C ~ 40 °C"
+],
+[
+"Storage Temperature",
+"-40 °C ~ 70 °C"
+],
+[
+"Operating Humidity",
+"10% ~ 90%  non-condensing"
+],
+[
+"Storage Humidity",
+"5% ~ 90%  non-condensing"
+],
+[
+"Surge Protection",
+"Differential mode±2KV，Common mode ±4KV"
+],
+[
+"MTBF",
+">50000 hour"
+],
+[
+"Electrostatic standard",
+"Contact 6KV,air 8KV"
+]
+]
+},
+{
+"t":"p",
+"s":"Default",
+"text":"With long-range Equipment Test data："
+},
+{
+"t":"table",
+"rows":[
+[
+"Cable Length (m)",
+"Negotiating speed (Mbps)",
+"PoE Max Load Capacity (W)(PD)"
+],
+[
+"50",
+"100Mbps",
+"33"
+],
+[
+"100",
+"100Mbps",
+"32"
+],
+[
+"150",
+"100Mbps",
+"32"
+],
+[
+"200",
+"100Mbps",
+"31"
+],
+[
+"250",
+"100Mbps",
+"30"
+],
+[
+"300",
+"100Mbps",
+"28"
+],
+[
+"350",
+"100Mbps",
+"27"
+],
+[
+"400",
+"100Mbps",
+"26"
+],
+[
+"450",
+"100Mbps",
+"25"
+],
+[
+"500",
+"100Mbps",
+"24"
+],
+[
+"550",
+"10Mbps",
+"23"
+],
+[
+"600",
+"10Mbps",
+"22"
+],
+[
+"650",
+"10Mbps",
+"21"
+],
+[
+"700",
+"10Mbps",
+"20"
+],
+[
+"750",
+"10Mbps",
+"19"
+],
+[
+"800",
+"10Mbps",
+"17"
+],
+[
+"Unipoe Power Supply Voltage is 56V. / Adopt PM104MM V1.0 version of the Module. / The cable is CAT.5e, 100m DC impedance is no more than 10.5Ω."
+]
+]
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Ordering information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"product information"
+],
+[
+"PM3006FSNR V1",
+"4*10/100Mbps+2FE long-range PoE Switch (Used with long-range Equipment)"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:19:11Z"
+}

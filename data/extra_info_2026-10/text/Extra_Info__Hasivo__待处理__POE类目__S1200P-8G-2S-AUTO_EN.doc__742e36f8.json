@@ -1,0 +1,124 @@
+{
+"id":"Extra_Info__Hasivo__待处理__POE类目__S1200P-8G-2S-AUTO_EN.doc__742e36f8",
+"path":"Extra_Info/Hasivo/待处理/POE类目/S1200P-8G-2S-AUTO_EN.doc",
+"name":"S1200P-8G-2S-AUTO_EN.doc",
+"ext":".doc",
+"bytes":34816,
+"sha256":"742e36f8fc5760e3ac4343110e9206e4e9ec86345c552816cf922f277deec1a0",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:20:42+00:00",
+"paragraphs":0,
+"tables":1,
+"embedded_images":0
+},
+"warnings":[],
+"chars":1599,
+"text":"Model\tS1200P-8G-2S-AUTO\nProduct mame\t24V/48V automatic matching 2SFP+8GE full Gigabit POE switch\nFixed Port\t8*10/100/1000Base-TX PoE port（Data/Power） / 2*1000M SFP\nPoE Ports\t8*24V/48V automatically identify the matching POE port / 1-8 port support detection 24V power supply, max 30W/port / 1-8 port supports IEEE802.3af/at, max 30W/port, PoE out\nPoE Pin\t48V: 12+ 36- / 24V: 45+ 78\nPoE Bridge\tmax 150W\nPoE Dog\tsupport / PoE auto execution、detection and resets fault device,when PoE is on\nFunction\tN:(Standard normal) / V:(Port isolation) / S:(Super mode)(specific port refers to user manual)\nBandwidth\t20Gbps\nPacket Forwarding\t14.88Mpps\nMAC\t4K\nBuffer\t2.5M\nTransmission Distance\t10BASE-T ： Cat3,4,5 UTP(≤250 meter) / 100BASE-TX ： Cat5 or later UTP(150 meter) / 1000BASE-TX ： Cat6 or later UTP(150 meter) / SFP: 1000M single and multimode optical module with maximum distance ≤ 120km (depending on the optical module)\nLED Indicator\tP:Power LED(over-power LED) / 9-10:SFP connection indicator / PoE:48V ON: orange light is always on; 24V ON: orange light flashes / Link:10/100/1000M(green)\nPower\tBuilt-in power AC：100-240Vac 50-60Hz 1.9A   max 158W\nOperating Temperature/Humidity\t-10～+55°C；5%～90% RH Non coagulation\nStorage Temperature/Humidity\t-40～+75°C；5%～95% RH Non coagulation\nProduct /Packing / size（L*W*H）\t206mm*140mm*45mm / 265mm*220mm*68mm\nN.W/G.W（kg）\t1.1kg/1.3kg\nLightning / Protection  level\t6KV 8/20us； / IP30\nInstallation\tDesktop (optional wall +machine hangers)\nCertificate\tCE-EMC EN55032；CE-LVD EN62368；\nFCC Part 15 Class B；RoHS；\nWarranty\tWhole device for 1 year(Accessories not included)",
+"blocks":[
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"S1200P-8G-2S-AUTO"
+],
+[
+"Product mame",
+"24V/48V automatic matching 2SFP+8GE full Gigabit POE switch"
+],
+[
+"Fixed Port",
+"8*10/100/1000Base-TX PoE port（Data/Power） / 2*1000M SFP"
+],
+[
+"PoE Ports",
+"8*24V/48V automatically identify the matching POE port / 1-8 port support detection 24V power supply, max 30W/port / 1-8 port supports IEEE802.3af/at, max 30W/port, PoE out"
+],
+[
+"PoE Pin",
+"48V: 12+ 36- / 24V: 45+ 78"
+],
+[
+"PoE Bridge",
+"max 150W"
+],
+[
+"PoE Dog",
+"support / PoE auto execution、detection and resets fault device,when PoE is on"
+],
+[
+"Function",
+"N:(Standard normal) / V:(Port isolation) / S:(Super mode)(specific port refers to user manual)"
+],
+[
+"Bandwidth",
+"20Gbps"
+],
+[
+"Packet Forwarding",
+"14.88Mpps"
+],
+[
+"MAC",
+"4K"
+],
+[
+"Buffer",
+"2.5M"
+],
+[
+"Transmission Distance",
+"10BASE-T ： Cat3,4,5 UTP(≤250 meter) / 100BASE-TX ： Cat5 or later UTP(150 meter) / 1000BASE-TX ： Cat6 or later UTP(150 meter) / SFP: 1000M single and multimode optical module with maximum distance ≤ 120km (depending on the optical module)"
+],
+[
+"LED Indicator",
+"P:Power LED(over-power LED) / 9-10:SFP connection indicator / PoE:48V ON: orange light is always on; 24V ON: orange light flashes / Link:10/100/1000M(green)"
+],
+[
+"Power",
+"Built-in power AC：100-240Vac 50-60Hz 1.9A   max 158W"
+],
+[
+"Operating Temperature/Humidity",
+"-10～+55°C；5%～90% RH Non coagulation"
+],
+[
+"Storage Temperature/Humidity",
+"-40～+75°C；5%～95% RH Non coagulation"
+],
+[
+"Product /Packing / size（L*W*H）",
+"206mm*140mm*45mm / 265mm*220mm*68mm"
+],
+[
+"N.W/G.W（kg）",
+"1.1kg/1.3kg"
+],
+[
+"Lightning / Protection  level",
+"6KV 8/20us； / IP30"
+],
+[
+"Installation",
+"Desktop (optional wall +machine hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032；CE-LVD EN62368；\nFCC Part 15 Class B；RoHS；"
+],
+[
+"Warranty",
+"Whole device for 1 year(Accessories not included)"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:20:42Z"
+}

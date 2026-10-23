@@ -1,0 +1,124 @@
+{
+"id":"Extra_Info__Hasivo__待处理__POE类目__S5800P-24F-2G_EN.doc__96621802",
+"path":"Extra_Info/Hasivo/待处理/POE类目/S5800P-24F-2G_EN.doc",
+"name":"S5800P-24F-2G_EN.doc",
+"ext":".doc",
+"bytes":33792,
+"sha256":"966218021639b7e81ba2703e1362b6a37803d645d682ed9611174db1454add3a",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:20:49+00:00",
+"paragraphs":0,
+"tables":1,
+"embedded_images":0
+},
+"warnings":[],
+"chars":1466,
+"text":"Model\tS5800P-24F-2G\nProduct mame\tGigabit uplink 24-port 100M POE switch\nFixed Port\t24*10/100Base-TX  PoE port（Data/Power） / 2*10/100/1000Base-TX uplink RJ45 port (Data)\nPoE Ports\t1-2 port supports IEEE802.3af/at/poe++/bt, max 90W PoE out / 3-24 port supports IEEE802.3af/at, max 30W/port, PoE out\nPoE Pin\taf/at: 12+ 36- / af/at/poe++/bt: 12+ 45+  36- 78-\nPoE Bridge\tmax 300W\nPoE Dog\tsupport / PoE auto execution、detection and resets fault device,when PoE is on\nFunction\tN:(Standard normal) / V:(Port isolation) / S:(Super mode)(specific port refers to user manual)\nBandwidth\t16Gbps\nPacket Forwarding\t6.55Mpps\nMAC\t8K\nBuffer\t4.1M\nTransmission Distance\t10BASE-T ： Cat3,4,5 UTP(≤250 meter) / 100BASE-TX ： Cat5 or later UTP(150 meter) / 1000BASE-TX ： Cat6 or later UTP(150 meter)\nLED Indicator\tPWR:Power LED(green) / 1-24:10/100M Network connection indicator(green) / 25-26:10/100、1000M Network connection indicator(green) / PoE:PoE indicator(orange)\nPower\tBuilt-in power AC：100-240Vac 50-60Hz 3.8A   max 310W\nOperating Temperature/Humidity\t-10～+55°C；5%～90% RH Non coagulation\nStorage Temperature/Humidity\t-40～+75°C；5%～95% RH Non coagulation\nProduct /Packing / size（L*W*H）\t440mm*290mm*45mm / 515mm*375mm*95mm\nN.W/G.W（kg）\t3.3kg/4.1kg\nLightning / Protection  level\t6KV 8/20us； / IP30\nInstallation\tRack-mount (optional machine hanger spare parts)\nCertificate\tCE-EMC EN55032；CE-LVD EN62368；\nFCC Part 15 Class B；RoHS；\nWarranty\tWhole device for 1 year(Accessories not included)",
+"blocks":[
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"S5800P-24F-2G"
+],
+[
+"Product mame",
+"Gigabit uplink 24-port 100M POE switch"
+],
+[
+"Fixed Port",
+"24*10/100Base-TX  PoE port（Data/Power） / 2*10/100/1000Base-TX uplink RJ45 port (Data)"
+],
+[
+"PoE Ports",
+"1-2 port supports IEEE802.3af/at/poe++/bt, max 90W PoE out / 3-24 port supports IEEE802.3af/at, max 30W/port, PoE out"
+],
+[
+"PoE Pin",
+"af/at: 12+ 36- / af/at/poe++/bt: 12+ 45+  36- 78-"
+],
+[
+"PoE Bridge",
+"max 300W"
+],
+[
+"PoE Dog",
+"support / PoE auto execution、detection and resets fault device,when PoE is on"
+],
+[
+"Function",
+"N:(Standard normal) / V:(Port isolation) / S:(Super mode)(specific port refers to user manual)"
+],
+[
+"Bandwidth",
+"16Gbps"
+],
+[
+"Packet Forwarding",
+"6.55Mpps"
+],
+[
+"MAC",
+"8K"
+],
+[
+"Buffer",
+"4.1M"
+],
+[
+"Transmission Distance",
+"10BASE-T ： Cat3,4,5 UTP(≤250 meter) / 100BASE-TX ： Cat5 or later UTP(150 meter) / 1000BASE-TX ： Cat6 or later UTP(150 meter)"
+],
+[
+"LED Indicator",
+"PWR:Power LED(green) / 1-24:10/100M Network connection indicator(green) / 25-26:10/100、1000M Network connection indicator(green) / PoE:PoE indicator(orange)"
+],
+[
+"Power",
+"Built-in power AC：100-240Vac 50-60Hz 3.8A   max 310W"
+],
+[
+"Operating Temperature/Humidity",
+"-10～+55°C；5%～90% RH Non coagulation"
+],
+[
+"Storage Temperature/Humidity",
+"-40～+75°C；5%～95% RH Non coagulation"
+],
+[
+"Product /Packing / size（L*W*H）",
+"440mm*290mm*45mm / 515mm*375mm*95mm"
+],
+[
+"N.W/G.W（kg）",
+"3.3kg/4.1kg"
+],
+[
+"Lightning / Protection  level",
+"6KV 8/20us； / IP30"
+],
+[
+"Installation",
+"Rack-mount (optional machine hanger spare parts)"
+],
+[
+"Certificate",
+"CE-EMC EN55032；CE-LVD EN62368；\nFCC Part 15 Class B；RoHS；"
+],
+[
+"Warranty",
+"Whole device for 1 year(Accessories not included)"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:20:49Z"
+}

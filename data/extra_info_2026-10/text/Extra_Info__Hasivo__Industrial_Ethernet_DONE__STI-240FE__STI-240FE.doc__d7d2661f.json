@@ -1,0 +1,108 @@
+{
+"id":"Extra_Info__Hasivo__Industrial_Ethernet_DONE__STI-240FE__STI-240FE.doc__d7d2661f",
+"path":"Extra_Info/Hasivo/Industrial Ethernet_DONE/STI-240FE/STI-240FE.doc",
+"name":"STI-240FE.doc",
+"ext":".doc",
+"bytes":27136,
+"sha256":"d7d2661f19414fbb30c415ed839cb59999c2afb738a2dc28b8790b738617d046",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:24:48+00:00",
+"paragraphs":0,
+"tables":1,
+"embedded_images":0
+},
+"warnings":[],
+"chars":1222,
+"text":"Model\tSTI-240FE\nProduct Name\t6 port 10/100Mbps Industrial Ethernet Switch\nFixed Port\t4*10/100M RJ45 port / 2*100M integrated optical port (optional 1310/1550)\nBandwidth\t1.6Gbps\nPacket Forwarding\t0.9Mpps\nMAC\t1K\nBuffer\t768K\nTransmission Distance\t10BASE-T: Cat3,4,5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter)\nOptical Media\tSFP: 1000M single and multimode optical module, Max distance≤100Km\nLED Indicator\tPWR: Power indicator (green) / Port: green _10M network connection indicator / green+orange _100M network connection indicator. / 5-6: Optical fiber connection indicator (green) / V1: Main power indicator (green) / V2: slave power indicator (green) / V3:DC power indicator (green)\nPower\tThree groups of independent power input / SW: DC 12-57V\nOperating Temperature/Humidity\t-40～80°C；10%～90% RH No condensation\nStorage Temperature/Humidity\t-40～85°C；5%～95% RH No condensation\nDimension / L*W*H\tDevice: 156mm*113mm*40mm / Packing Box: 235mm*105mm*78mm\nN.W/G.W(Kg)\t0.9Kg/1.1Kg\nLightning / Protection Level\t6KV 8/20us；8KV ESD electrostatic protection / IP40\nInstallation\tDesktop, Wall, Rack mountable(with mounting hangers)\nCertificate\tCE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS\nWarranty\t3 Years",
+"blocks":[
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"STI-240FE"
+],
+[
+"Product Name",
+"6 port 10/100Mbps Industrial Ethernet Switch"
+],
+[
+"Fixed Port",
+"4*10/100M RJ45 port / 2*100M integrated optical port (optional 1310/1550)"
+],
+[
+"Bandwidth",
+"1.6Gbps"
+],
+[
+"Packet Forwarding",
+"0.9Mpps"
+],
+[
+"MAC",
+"1K"
+],
+[
+"Buffer",
+"768K"
+],
+[
+"Transmission Distance",
+"10BASE-T: Cat3,4,5 UTP(≤250 meter) / 100BASE-TX: Cat5 or later UTP(150 meter)"
+],
+[
+"Optical Media",
+"SFP: 1000M single and multimode optical module, Max distance≤100Km"
+],
+[
+"LED Indicator",
+"PWR: Power indicator (green) / Port: green _10M network connection indicator / green+orange _100M network connection indicator. / 5-6: Optical fiber connection indicator (green) / V1: Main power indicator (green) / V2: slave power indicator (green) / V3:DC power indicator (green)"
+],
+[
+"Power",
+"Three groups of independent power input / SW: DC 12-57V"
+],
+[
+"Operating Temperature/Humidity",
+"-40～80°C；10%～90% RH No condensation"
+],
+[
+"Storage Temperature/Humidity",
+"-40～85°C；5%～95% RH No condensation"
+],
+[
+"Dimension / L*W*H",
+"Device: 156mm*113mm*40mm / Packing Box: 235mm*105mm*78mm"
+],
+[
+"N.W/G.W(Kg)",
+"0.9Kg/1.1Kg"
+],
+[
+"Lightning / Protection Level",
+"6KV 8/20us；8KV ESD electrostatic protection / IP40"
+],
+[
+"Installation",
+"Desktop, Wall, Rack mountable(with mounting hangers)"
+],
+[
+"Certificate",
+"CE-EMC EN55032; CE-LVD EN62368 / FCC Part 15Class B; RoHS"
+],
+[
+"Warranty",
+"3 Years"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:24:48Z"
+}

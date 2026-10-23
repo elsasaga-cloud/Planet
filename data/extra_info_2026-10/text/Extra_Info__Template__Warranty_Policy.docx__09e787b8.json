@@ -1,0 +1,227 @@
+{
+"id":"Extra_Info__Template__Warranty_Policy.docx__09e787b8",
+"path":"Extra_Info/Template/Warranty Policy.docx",
+"name":"Warranty Policy.docx",
+"ext":".docx",
+"bytes":239004,
+"sha256":"09e787b84045b1c7d1259a8117b37ddc4997be765cc6be7c5d5c627c149e0bdd",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2025-12-19T11:44:00+00:00",
+"modified":"2025-12-19T11:47:09+00:00",
+"paragraphs":23,
+"tables":1,
+"embedded_images":2
+},
+"warnings":[],
+"chars":3453,
+"text":"Saga Telecom warrants that the supplied models will be free of defects in materials, workmanship, and of standard functions indicated in the product brochure.\nWarranty period is 1 year for commercial models(STC series) and 3 years for industrial models(STI series), for the product category that is not listed as below still follows the rule.\nProduct Category\tProduct Line\tWarranty\nCommercial Ethernet\tCommercial Network Switch\t1 Year\nCommercial Ethernet\tCommercial POE Switch\t1 Year\nCommercial Ethernet\tCommercial Managed Switch\t1 Year\nCommercial Ethernet\tCommercial POE Managed Switch\t1 Year\nPOE Accessory\tPOE Injector\t1 Year\nPOE Accessory\tPOE Adapter\t1 Year\nPOE Accessory\tPOE Splitter\t1 Year\nPOE Accessory\tPOE Extender\t1 Year\nEthernet Media Converter\t100M/1G/10G\t1 Year\nIndustrial Networking\tIndustrial Ethernet Switch\t3 Years\nIndustrial Networking\tIndustrial Fiber Switch\t3 Years\nIndustrial Networking\tIndustrial POE Switch\t3 Years\nIndustrial Networking\tIndustrial Managed Switch\t3 Years\nIndustrial Networking\tIndustrial POE Managed Switch\t3 Years\nDin Power Adapter\t20W/75W/120W/240W/480W Series\t3 Years\nWarranty comes in effect from the date of delivery.\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery.\nWarranty is non-transferable and will be solely provided to the original buyer as per the invoice information.\nImmediate contact is strongly advised once any problem occurs, Saga Telecom should be well informed all along before standard solution is provided.\nPlease properly keep purchase-related information(purchase order, proforma invoice, packing list etc.) for any possible repair, replacement or after-sales issues.\nPlease do not remove or ruin the product label(there is serial number) on the device.\nPlease do not repair or replace components of purchased items without our knowing or authorization.\nUnauthorized returns are not accepted without a valid confirmation from Saga Telecom, any risk or expenses involved are not covered in such cases.\nAt Saga Telecom’s option, the disputed device will be preferably repaired or replaced.\nDefective products within warranty but unable to be repaired or discontinued, 10%~20% discount will be offered when the customer purchases the alternative models with identical service features.\nIf there are expenses during the repair, Saga Telecom will negotiate with the customer on how to split the cost, and generally give discounts in new orders to cover this cost.\nSaga Telecom reserves final adjudication rights and sole discretion during the warranty period.\nExclusive Liability\nOut of warranty period\nOrder of wrong models\nHuge defects due to improper use including but not limited to circuit burnout, PCB board deformation, water-soaked chip\nHardware and software compatibility failure\nConsumable materials and routine maintenance such as a fuse or bracket\nUnauthorized modification to important components\nOur service belief is quality, honesty and professionalism, those valuable assets have been leading Saga Telecom to deliver standard after-sales solutions.\nPlease let us know if you have any after-sales query.\n[页眉页脚]\n2026/Q1                                                                                                                                                         Saga Telecom\nwww.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom warrants that the supplied models will be free of defects in materials, workmanship, and of standard functions indicated in the product brochure."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Warranty period is 1 year for commercial models(STC series) and 3 years for industrial models(STI series), for the product category that is not listed as below still follows the rule."
+},
+{
+"t":"table",
+"rows":[
+[
+"Product Category",
+"Product Line",
+"Warranty"
+],
+[
+"Commercial Ethernet",
+"Commercial Network Switch",
+"1 Year"
+],
+[
+"Commercial Ethernet",
+"Commercial POE Switch",
+"1 Year"
+],
+[
+"Commercial Ethernet",
+"Commercial Managed Switch",
+"1 Year"
+],
+[
+"Commercial Ethernet",
+"Commercial POE Managed Switch",
+"1 Year"
+],
+[
+"POE Accessory",
+"POE Injector",
+"1 Year"
+],
+[
+"POE Accessory",
+"POE Adapter",
+"1 Year"
+],
+[
+"POE Accessory",
+"POE Splitter",
+"1 Year"
+],
+[
+"POE Accessory",
+"POE Extender",
+"1 Year"
+],
+[
+"Ethernet Media Converter",
+"100M/1G/10G",
+"1 Year"
+],
+[
+"Industrial Networking",
+"Industrial Ethernet Switch",
+"3 Years"
+],
+[
+"Industrial Networking",
+"Industrial Fiber Switch",
+"3 Years"
+],
+[
+"Industrial Networking",
+"Industrial POE Switch",
+"3 Years"
+],
+[
+"Industrial Networking",
+"Industrial Managed Switch",
+"3 Years"
+],
+[
+"Industrial Networking",
+"Industrial POE Managed Switch",
+"3 Years"
+],
+[
+"Din Power Adapter",
+"20W/75W/120W/240W/480W Series",
+"3 Years"
+]
+]
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Warranty comes in effect from the date of delivery."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Warranty is non-transferable and will be solely provided to the original buyer as per the invoice information."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Immediate contact is strongly advised once any problem occurs, Saga Telecom should be well informed all along before standard solution is provided."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please properly keep purchase-related information(purchase order, proforma invoice, packing list etc.) for any possible repair, replacement or after-sales issues."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please do not remove or ruin the product label(there is serial number) on the device."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please do not repair or replace components of purchased items without our knowing or authorization."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Unauthorized returns are not accepted without a valid confirmation from Saga Telecom, any risk or expenses involved are not covered in such cases."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"At Saga Telecom’s option, the disputed device will be preferably repaired or replaced."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Defective products within warranty but unable to be repaired or discontinued, 10%~20% discount will be offered when the customer purchases the alternative models with identical service features."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If there are expenses during the repair, Saga Telecom will negotiate with the customer on how to split the cost, and generally give discounts in new orders to cover this cost."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom reserves final adjudication rights and sole discretion during the warranty period."
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Exclusive Liability"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Out of warranty period"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Order of wrong models"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Huge defects due to improper use including but not limited to circuit burnout, PCB board deformation, water-soaked chip"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Hardware and software compatibility failure"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Consumable materials and routine maintenance such as a fuse or bracket"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Unauthorized modification to important components"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Our service belief is quality, honesty and professionalism, those valuable assets have been leading Saga Telecom to deliver standard after-sales solutions."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please let us know if you have any after-sales query."
+}
+],
+"extracted_at":"2026-10-23T05:20:23Z"
+}

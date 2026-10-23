@@ -1,0 +1,177 @@
+{
+"id":"Extra_Info__Template__A_Word_from_Saga_Telecom.docx__2c315b4b",
+"path":"Extra_Info/Template/A Word from Saga Telecom.docx",
+"name":"A Word from Saga Telecom.docx",
+"ext":".docx",
+"bytes":515508,
+"sha256":"2c315b4b1e5a3ad3e4bda95c1cd60eefb4821b90c924b7744cc7fce809bdc831",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2025-12-19T11:37:00+00:00",
+"modified":"2025-12-19T11:39:07+00:00",
+"paragraphs":30,
+"tables":0,
+"embedded_images":4
+},
+"warnings":[],
+"chars":2238,
+"text":"In EACH datasheet, there is a link on the bottom exactly the same as below.\nhttps://drive.google.com/drive/folders/10pI-PIGftC6UVEngjg_cLlC8-X14fA9A?usp=drive_link\nYou will be directed to a folder(Name: MUST KNOW)\nThere are many files in it.\nIf you have some time, you could read them one by one.\nOr\nOpen “PROFILE” directly to know us.\nOn page 14, there are some links to each product category.\nClick and you will be directed to the product information.\nThis is our design.\nAs long as a client gets one of our datasheets, there is an access to all of this.\nHowever, we notice that\nMany clients come to us just for prices&datasheet, that is all.\nNo further discussion nor interest in learning our business mode.\nHonestly we do not want to waste our time on such clients.\nOur policy is, serve a few loyal, patient and professional clients with attention.\nWe think\nIf a client does not spend some time on the company profile he is going to cooperate with, how possible he gets the right products/solutions with ease?\nAs we stated in EACH datasheet, we do simplified, standard, solution based business.\nWe like to focus on those clients who truly care about healthy, professional, long-term cooperation.\nGet to know us first and throw questions, we take care of it timely.\nGradually a pattern is formed, both sides know how to communicate effectively, when to expect a reply, what support we could give etc.\nIn the meantime, we do “3C”\nConnecting, Converting, Creating\nSaga Telecom connects talents and ideas that may drive itself forward\nSaga Telecom converts mature business system to all-round growth\nSaga Telecom creates betterness from expertise and solution package\nWe have been working hard to learn better things from clients, peer brands and self-reflection.\nPlease do let us know if we can improve in any way.\nSaga Telecom aims to be a marathoner in fiber optic telecommunication field, please join us to embrace value and growth.\n[页眉页脚]\n2026/Q1                                                                                                                                                         Saga Telecom\nwww.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"In EACH datasheet, there is a link on the bottom exactly the same as below."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"https://drive.google.com/drive/folders/10pI-PIGftC6UVEngjg_cLlC8-X14fA9A?usp=drive_link"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"You will be directed to a folder(Name: MUST KNOW)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"There are many files in it."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If you have some time, you could read them one by one."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Or"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Open “PROFILE” directly to know us."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"On page 14, there are some links to each product category."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Click and you will be directed to the product information."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is our design."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"As long as a client gets one of our datasheets, there is an access to all of this."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"However, we notice that"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Many clients come to us just for prices&datasheet, that is all."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"No further discussion nor interest in learning our business mode."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Honestly we do not want to waste our time on such clients."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Our policy is, serve a few loyal, patient and professional clients with attention."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We think"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"If a client does not spend some time on the company profile he is going to cooperate with, how possible he gets the right products/solutions with ease?"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"As we stated in EACH datasheet, we do simplified, standard, solution based business."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We like to focus on those clients who truly care about healthy, professional, long-term cooperation."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Get to know us first and throw questions, we take care of it timely."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Gradually a pattern is formed, both sides know how to communicate effectively, when to expect a reply, what support we could give etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"In the meantime, we do “3C”"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Connecting, Converting, Creating"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom connects talents and ideas that may drive itself forward"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom converts mature business system to all-round growth"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom creates betterness from expertise and solution package"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We have been working hard to learn better things from clients, peer brands and self-reflection."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please do let us know if we can improve in any way."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Saga Telecom aims to be a marathoner in fiber optic telecommunication field, please join us to embrace value and growth."
+}
+],
+"extracted_at":"2026-10-23T05:20:12Z"
+}

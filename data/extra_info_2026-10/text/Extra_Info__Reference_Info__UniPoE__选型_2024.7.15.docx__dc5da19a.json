@@ -1,0 +1,197 @@
+{
+"id":"Extra_Info__Reference_Info__UniPoE__选型_2024.7.15.docx__dc5da19a",
+"path":"Extra_Info/Reference Info/UniPoE/选型_2024.7.15.docx",
+"name":"选型_2024.7.15.docx",
+"ext":".docx",
+"bytes":15185,
+"sha256":"dc5da19a778aaa5261f1e0df1a9e52d3129018bcfd0bd07d7ae0f5ca758b0c70",
+"source":"Extra_Info.zip",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2024-04-22T07:22:00+00:00",
+"modified":"2024-07-15T02:39:10+00:00",
+"paragraphs":34,
+"tables":0,
+"embedded_images":0
+},
+"warnings":[],
+"chars":691,
+"text":"Data center switch\n2款: RZ-S6500-48V8X和RZ-S6500-32X\n需要资料: 规格书/产品图/管理手册以及相应视频\n这种数据中心的交换机我作为贸易商来推，肯定是有视频资料做辅助最好的\n客户对于这种产品选择会非常谨慎，问的问题也会比较多，如果资料不全或者不能很好的解释相关特点，是很难有进展的\nL2 Managed Switch\nPM112GM V3\nPM3012GSM V3\nPM130GM V2\nPM3030GSM V1\nPM9030GSM V1\nPM226GM V1\nPM232GM V1 AC\nL3 Managed Switch\nPM128GTM V2\nPM3028GTM V1\nPM9028GTM V3\nPM228GTM V2\nPM3012TSM V1\nPM9012TSM V1\nPM130TSM V1\nPM3030TSM V1\nPM9030TSM V1\nPM112TSM V4\nLong Range PoE Switch\n4个型号全部引进\nUnmanaged Gigabit PoE Switch\nPM3008GSN-PD\nPoE Extender\nPM3001FPR-W V2\nPM3001GPR-W V1\nMedia Converter\nPM9001GSF V1\n目前关注点在data center switch和L2/L3交换机上\n[页眉页脚]\ns.sagatelecom@gmail.com\nSaga Telecom\nwww.sagatelecom.com.cn\nConnecting, Converting, Creating",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Data center switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"2款: RZ-S6500-48V8X和RZ-S6500-32X"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"需要资料: 规格书/产品图/管理手册以及相应视频"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"这种数据中心的交换机我作为贸易商来推，肯定是有视频资料做辅助最好的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"客户对于这种产品选择会非常谨慎，问的问题也会比较多，如果资料不全或者不能很好的解释相关特点，是很难有进展的"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"L2 Managed Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PM112GM V3"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PM3012GSM V3"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PM130GM V2"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PM3030GSM V1"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PM9030GSM V1"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PM226GM V1"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PM232GM V1 AC"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"L3 Managed Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PM128GTM V2"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PM3028GTM V1"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PM9028GTM V3"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PM228GTM V2"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PM3012TSM V1"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PM9012TSM V1"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PM130TSM V1"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PM3030TSM V1"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PM9030TSM V1"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PM112TSM V4"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Long Range PoE Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4个型号全部引进"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Unmanaged Gigabit PoE Switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PM3008GSN-PD"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PoE Extender"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PM3001FPR-W V2"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PM3001GPR-W V1"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Media Converter"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"PM9001GSF V1"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"目前关注点在data center switch和L2/L3交换机上"
+}
+],
+"extracted_at":"2026-10-23T05:18:35Z"
+}

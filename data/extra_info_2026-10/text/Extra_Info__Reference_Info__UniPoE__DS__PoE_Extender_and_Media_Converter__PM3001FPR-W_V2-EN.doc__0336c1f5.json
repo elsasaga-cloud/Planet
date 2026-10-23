@@ -1,0 +1,185 @@
+{
+"id":"Extra_Info__Reference_Info__UniPoE__DS__PoE_Extender_and_Media_Converter__PM3001FPR-W_V2-EN.doc__0336c1f5",
+"path":"Extra_Info/Reference Info/UniPoE/DS/PoE Extender and Media Converter/PM3001FPR-W V2-EN.doc",
+"name":"PM3001FPR-W V2-EN.doc",
+"ext":".doc",
+"bytes":230912,
+"sha256":"0336c1f5555d295d368753717775d8455cf2f45c17ba3955f6a7541de33464a3",
+"source":"Extra_Info.zip",
+"method":"soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"meta":{
+"title":"Word Document",
+"author":"",
+"last_modified_by":"python-docx",
+"created":"",
+"modified":"2026-10-23T05:19:19+00:00",
+"paragraphs":16,
+"tables":2,
+"embedded_images":5
+},
+"warnings":[],
+"chars":2066,
+"text":"Product Overview\nPM3001FPR-W V2 is our self-developed 100Mbps Waterproof single-port Extender. This device provides 2*10/100Mbps RJ45 ports, where the INPUT port connects to a PoE Switch and the OUTPUT port connects to an IP terminal device. 2 extenders with PoE Switch can extend 10Mbps network data up to 800 meters, plug and play.\nProfessional room shell design, adapted to various harsh environments, with high stability, reliability, industrial level, wide temperature. The whole machine does not need power adapter, so it is convenient for harsh outdoor environment .Reliable and convenient power for outdoor work AP, cameras etc.\nProduct Features\nComplies with IEEE802.3af/at/bt Standard;\nPlastic housing, protection class IP67;\nCapable of transmitting both data and power on a single network cable;\nSupport 10/100Mbps data transmission;\nSingle PM3001FPR-W V2 use with a regular PoE Switch, power over internet(PoE) distance is 100 meters maximum with 100Mpbs;\nTwo PM3001FRP-W V2 use with a regular PoE Switch, power over internet(PoE) distance is 300 meters with 100Mbps or up to 800 meters maximum with 10Mbps;\n1 PD receiving terminal ,1 PSE supply terminal;\nPlug-and-play, no configuration required;\nOperating temperature：-10°C~55°C;\nIt's ideal for harsh outdoor environment.\nProduct Specifications\nModel\tPM3001FPR-W V2\nStandard\tIEEE802.3, IEEE802.3u, IEEE802.3x, IEEE802.3ab, IEEE802.3af, IEEE802.3at, IEEE802.3bt\nPort\t2*10/100Mbps RJ45 ports\nNetwork Media(Cable)\t10BASE-T: UTP category 3,4, 5 cable (≤100m) / 100BASE-TX: UTP category 5,5e cable (≤100m)\nDimensions (L*W*H)\t156.5*29*29MM\nRJ45 PoE\tData Pairs 1/2（+）3/6（-）,4/5（+）7/8（-）\nPower Supply\tPoE\nPD Port Input\tIEEE802.3af/at/bt\nPoE Power Output\tIEEE802.3af/at/bt\nOperating Temperature\t-10 °C ~ 55 °C\nStorage Temperature\t-40 °C ~ 70 °C\nOperating Humidity\t10% ~ 90% non-condensing\nStorage Humidity\t5% ~ 90% non-condensing\nMTBF\t>50000 hour\nWeather Rating\tIP67\nOrdering Information\nModel\tProduct Information\nPM3001FPR-W V2\tLong-range Waterproof Extender\n[文本框]\nPM3001FPR-W V2 Long-range Waterproof Extender",
+"blocks":[
+{
+"t":"p",
+"s":"src",
+"text":"Product Overview"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"PM3001FPR-W V2 is our self-developed 100Mbps Waterproof single-port Extender. This device provides 2*10/100Mbps RJ45 ports, where the INPUT port connects to a PoE Switch and the OUTPUT port connects to an IP terminal device. 2 extenders with PoE Switch can extend 10Mbps network data up to 800 meters, plug and play."
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Professional room shell design, adapted to various harsh environments, with high stability, reliability, industrial level, wide temperature. The whole machine does not need power adapter, so it is convenient for harsh outdoor environment .Reliable and convenient power for outdoor work AP, cameras etc."
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product Features"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Complies with IEEE802.3af/at/bt Standard;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Plastic housing, protection class IP67;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Capable of transmitting both data and power on a single network cable;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Support 10/100Mbps data transmission;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Single PM3001FPR-W V2 use with a regular PoE Switch, power over internet(PoE) distance is 100 meters maximum with 100Mpbs;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Two PM3001FRP-W V2 use with a regular PoE Switch, power over internet(PoE) distance is 300 meters with 100Mbps or up to 800 meters maximum with 10Mbps;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"1 PD receiving terminal ,1 PSE supply terminal;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Plug-and-play, no configuration required;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Operating temperature：-10°C~55°C;"
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"It's ideal for harsh outdoor environment."
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Product Specifications"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"PM3001FPR-W V2"
+],
+[
+"Standard",
+"IEEE802.3, IEEE802.3u, IEEE802.3x, IEEE802.3ab, IEEE802.3af, IEEE802.3at, IEEE802.3bt"
+],
+[
+"Port",
+"2*10/100Mbps RJ45 ports"
+],
+[
+"Network Media(Cable)",
+"10BASE-T: UTP category 3,4, 5 cable (≤100m) / 100BASE-TX: UTP category 5,5e cable (≤100m)"
+],
+[
+"Dimensions (L*W*H)",
+"156.5*29*29MM"
+],
+[
+"RJ45 PoE",
+"Data Pairs 1/2（+）3/6（-）,4/5（+）7/8（-）"
+],
+[
+"Power Supply",
+"PoE"
+],
+[
+"PD Port Input",
+"IEEE802.3af/at/bt"
+],
+[
+"PoE Power Output",
+"IEEE802.3af/at/bt"
+],
+[
+"Operating Temperature",
+"-10 °C ~ 55 °C"
+],
+[
+"Storage Temperature",
+"-40 °C ~ 70 °C"
+],
+[
+"Operating Humidity",
+"10% ~ 90% non-condensing"
+],
+[
+"Storage Humidity",
+"5% ~ 90% non-condensing"
+],
+[
+"MTBF",
+">50000 hour"
+],
+[
+"Weather Rating",
+"IP67"
+]
+]
+},
+{
+"t":"p",
+"s":"列出段落",
+"text":"Ordering Information"
+},
+{
+"t":"table",
+"rows":[
+[
+"Model",
+"Product Information"
+],
+[
+"PM3001FPR-W V2",
+"Long-range Waterproof Extender"
+]
+]
+}
+],
+"extracted_at":"2026-10-23T05:19:19Z"
+}
