@@ -51,6 +51,20 @@
    "quote": "",
    "url": "PI.zip:17 英国 Chris PayPal 可发展",
    "date": "2026-10-22"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "Mastodon 实例 API：mammut.gogreenit.net v4.7.3，9 用户，16,382 条状态；站长账号 @chewie（Owner，2023-06 建，15,426 条，followers 577，最后发帖 2026-10-22），联系邮箱 chewie@int.gogreenit.net",
+   "quote": "\"version\":\"4.7.3\" … \"user_count\":9,\"status_count\":16382 … \"username\":\"chewie\" … \"last_status_at\":\"2026-10-22\" … \"roles\":[{\"name\":\"Owner\"}]",
+   "url": "https://mammut.gogreenit.net/api/v1/instance",
+   "date": "2026-10-23"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "SOGo wiki 署名 Chris.Clemson@GoGreenIT.Net（2017）；neverbounce：Derby DE22 3UP，邮箱格式 first.last@gogreenit.net",
+   "quote": "If you have any questions, feel free to email me on Chris[dot]Clemson[at]GoGreenIT[dot]Net",
+   "url": "https://wiki.sogo.nu/ZEGReconfiguration",
+   "date": "2017-10-29"
   }
  ],
  "grade_override": "A",
@@ -89,9 +103,11 @@
  ],
  "channels": {
   "网站": "http://www.gogreenit.net/（Contact Us 表单）",
-  "评测页": "http://gogreenit.net/index.php?page=saga-telecom-switch"
+  "评测页": "http://gogreenit.net/index.php?page=saga-telecom-switch",
+  "公开动态平台（监控中，T29-U18）": "自建 Mastodon 实例 mammut.gogreenit.net（v4.7.3，站长 @chewie 每日发帖，最后 2026-10-22；RSS mammut.gogreenit.net/@chewie.rss）；自建 PeerTube / XMPP 服务；官网 gogreenit.net（静态）；Derby，16 May St"
  },
  "signals": [
+  "2026-10-23 核查：GoGreenIT = 英国 Derby 的一人/小团队托管与系统管理商（客户酒店 The New Ellington Leeds、Splendid Hotels），技术负责人 Chris Clemson 自托管 Mastodon（最新版 4.7.3，说明他持续维护基础设施）、PeerTube、XMPP、SOGo——典型 homelab/自托管型买家：小型 2.5G/10G 上联、静音 PoE 机型最对口；他的日常动态在 Mastodon，不在 LinkedIn",
   "**公开好评参考客户**：评测页可作英国/欧洲客户的第三方背书（引用前先征得同意）；评测列出的两项 UI/SFP 缺点应原文转给 SmartByte 作固件改进项（2026-10-21）"
  ],
  "risks": [
@@ -125,5 +141,12 @@
    "phone": "",
    "source": "PI.zip 单据"
   }
- ]
+ ],
+ "watch": {
+  "as_of": "2026-10-23",
+  "github_watch": [],
+  "web_watch_targets": "scripts/web_watch/targets.json#SA-012",
+  "status": "data/customer_watch/当前状态.md",
+  "log": "data/customer_watch/变化日志.md"
+ }
 }

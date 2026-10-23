@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-22
+updated: 2026-10-23
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -85,6 +85,9 @@ updated: 2026-10-22
   > 来源：PI.zip:16 美国 John PayPal gg/CI.xls（抓取 2025-07-18）
 - **【PI】PI 包文件夹「美国 John PayPal gg」：Simon 标签 gg，收款 PayPal；单号 1 个，2025-07-18 → 2025-07-18，销售 USD 285.0 / RMB 0，Simon 成本统计利润合计 RMB 914.31**
   > 来源：PI.zip:16 美国 John PayPal gg（抓取 2026-10-22）
+- **【公开平台核查（T29-U18）】sweetspot：68 项联邦合同累计 $1,430,138，DoD 为主**
+  > 52 NETWORKS, INC. … has received $1,430,138 across 68 federal awards, with top agencies including Department of Defense and General Services Administration
+  > 来源：https://www.sweetspot.so/markets/federal/contractors/52-networks-inc-fv4kbsne5s75/（抓取 2026-06-16）
 - **KP**：Uzair（GSA 登记联系人）（负责人）uzair@52networks.com +1 571-402-8369〔https://www.gsaelibrary.gsa.gov/ElibMain/home.do/contractorInfo.do?contractNumber=47QTCA22D00B3&contractorName=52+NETWORKS,+INC.&executeQuery=YES〕
 - **KP**：—（销售邮箱（用户表））sales@52networks.com +1 757-799-1359〔https://52networks.com/contact-us/〕
 - **KP**：John Davis（单据联系人）sales@52networks.com 〔PI.zip 单据〕
@@ -109,8 +112,9 @@ updated: 2026-10-22
 | 52Networks 店内（C2G/Tripp Lite/Transition/Perle/StarTech 代理） | Media Converters 类目 27 款 | 网店独立类目；用户表兴趣 MC/SFP/无源 | STI-110GE | https://52networks.com/product-category/media-converters（2026-10-21） |
 | 52Networks 店内 | Network Hardware 类目 20 款 | 交换机/配件类目（型号待抓） | STC-28DGGPM | https://52networks.com/product-category/network-hardware（2026-10-21） |
 
-- **触达通道（公开）**：网站/网店: https://52networks.com/（2026-09-11 更新）；直邮: sales@52networks.com（用户表）/ uzair@52networks.com（GSA 登记）
+- **触达通道（公开）**：网站/网店: https://52networks.com/（2026-09-11 更新）；直邮: sales@52networks.com（用户表）/ uzair@52networks.com（GSA 登记）；公开动态平台（监控中，T29-U18）: GSA eLibrary 合同页 47QTCA22D00B3（选项期至 2027-07-25）；GovTribe / HigherGov / USAspending 联邦合同动态（68 单 $1.43M）；官网 52networks.com；X @52networks
 - **近况信号**：
+  - 2026-10-23 核查：52 Networks = 弗吉尼亚 Woodbridge 的少数族裔小型劣势企业（SDB）联邦供应商，GSA MAS 持有人，2025 仍在出单（NAVWAR $294k、Nellis AFB 光纤 MPO $117k、CA 国民警卫队 $29k）；但 MAS 目录受 TAA 约束，中国产交换机进不去——只剩微额采购/开放市场的零星机会；gg 维持，监控其合同动态即可
   - 2026-09-11 首页更新，Cat6A Plenum 促销——活跃电商（https://52networks.com/ 2026-10-21）
   - 用户表：已成单（A 优质名单 US）
 - **风险/边界**：政府/GSA 渠道要求 TAA——Saga 产品非 TAA，只能供其商业客户与网店；小公司，单次量小；MC 单价低
@@ -278,12 +282,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 77）；人工/调研定级 → B
+- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 77）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

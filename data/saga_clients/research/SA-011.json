@@ -71,6 +71,20 @@
    "quote": "",
    "url": "PI.zip:6 美国 Thu 可发展",
    "date": "2026-10-22"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "vilink.us 产品 sitemap：/shop lastmod 2026-08-06；产品含 IE5/IE8/IE10/IE12/IE14/IE18/IE24/IE28/IE216（工业非网管）、ME12…ME216（网管）、EN12…EN48、MC10/12/13/14/15/100/10G 媒体转换器、VL/HL/DL 系列视频光端机、10G–100G AOC/DAC",
+   "quote": "https://vilink.us/shop/ 2026-08-06T03:32:25+00:00 … /product/ie28/ … /product/me28/ … /product/mc10g/",
+   "url": "https://vilink.us/product-sitemap.xml",
+   "date": "2026-10-23"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "IM28 工业网管千兆交换机 8×RJ45 + 2×SFP，DIN 导轨 10~47 VDC，-40~85°C，4KV 浪涌，SW-Ring 环网 <20ms，标价 $395.00",
+   "quote": "IM28 $395.00 Industrial Gigabits Managed Ethernet Switch, 8* 10/100/1000M TX RJ45, 2* 1000M SX SFP, DIN Rail 10~47 VDC … SW-Ring ring network patent technology (Fault recovery time<20ms)",
+   "url": "https://vilink.us/product/im28/",
+   "date": "2026-10-23"
   }
  ],
  "kp": [
@@ -146,9 +160,11 @@
  ],
  "channels": {
   "网站/网店": "https://vilink.us/（直销 + 购物车）",
-  "直邮": "sales@vilinknet.com / thup@vilinknet.com（用户表，成单联系人 Thu Pham）"
+  "直邮": "sales@vilinknet.com / thup@vilinknet.com（用户表，成单联系人 Thu Pham）",
+  "公开动态平台（监控中，T29-U18）": "新站 vilink.us（WooCommerce 网店，2024-07 建；product-sitemap /shop lastmod 2026-08-06；80+ SKU：IE/ME/EN 工业交换机、MC 媒体转换器、VL/HL/DL 视频光端机、AOC/DAC、IL10 OEO）；老站 vilinknet.com；ZoomInfo 11-50 人"
  },
  "signals": [
+  "2026-10-23 核查：Vi-Link 2024-07 上线 vilink.us 网店并持续维护（/shop 2026-08-06 更新），标价 IM28 工业网管 8T+2SFP $395、IL10 OEO $445——Saga STI-288DGGPM 报 139.9/145.7/151.6 USD 有 2.5 倍空间；其产品线（交通路口→TOC 工业环网、SW-Ring <20ms）正是 Saga 工业系列的贴牌对象",
   "2026-09：工业交换机页面图片全部更新（上传日期 2026/09）——仍在维护该产品线（https://vilink.us/industrial-ethernet-switch/ 2026-10-21）",
   "用户表：S 重点名单，已成单（Thu Pham），兴趣 光猫/3G-SDI/VC/SFP/DAC/MC"
  ],
@@ -286,5 +302,12 @@
    "subject": "STC-424XGGPM-280W for Vi-Link - price and sample option",
    "body": "Hi Thu,\n\nFollowing up on the 24-port PoE switch I mentioned when the MC1000SC03 converters shipped (DHL 8604097423 - please let me know they arrived in good shape).\n\nSTC-424XGGPM-280W: 24 x 10/100/1000 PoE+ (802.3af/at, 280 W budget) + 4 x 1G/2.5G/10G SFP+, L2+ managed (Web/CLI/SNMP), Marvell AC5. Price: $194 USD EXW per unit (snapshot 2026-10-22, valid 15 days). Vi-Link logo and front-panel printing are free, same as the converters, and a single sample unit is fine to start - sample cost is credited to your first order.\n\nOne question: is this switch for your own Vi-Link label, or for a specific end-customer project?\n\nBest regards,\nSimon\nSaga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)\nhttps://sagatele.com/"
   }
+ },
+ "watch": {
+  "as_of": "2026-10-23",
+  "github_watch": [],
+  "web_watch_targets": "scripts/web_watch/targets.json#SA-011",
+  "status": "data/customer_watch/当前状态.md",
+  "log": "data/customer_watch/变化日志.md"
  }
 }

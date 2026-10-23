@@ -55,6 +55,13 @@
    "quote": "",
    "url": "PI.zip:5 印度 Rajesh gg",
    "date": "2026-10-22"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "RocketReach：营收 $15.2M，28 人在册；signalhire：专长含 IIoT、RTU、远程通信、交通行业自动化、能源管理",
+   "quote": "Revenue · $15.2 million Employees · 28 … Specialities: Factory Automation, Infrastructure Automation, Industry 4.0, IIoT, Datalogging, Remote Communication, RTU",
+   "url": "https://rocketreach.co/united-control-engineers-india-pvt-ltd-profile_b7dc2582c0cb47fa",
+   "date": "2026-10-23"
   }
  ],
  "kp": [
@@ -122,9 +129,11 @@
   "网站": "https://unitedcontrolengg.com/（有交换机落地页与询盘表单）",
   "直邮": "marketing@unitedcontrolengg.com（官网）；sumitagrwal@yahoo.com（Sumit Agrawal，成单，用户表）",
   "WhatsApp": "已加（用户表）",
-  "LinkedIn": "https://in.linkedin.com/company/united-control-engineers-india-pvt-ltd"
+  "LinkedIn": "https://in.linkedin.com/company/united-control-engineers-india-pvt-ltd",
+  "公开动态平台（监控中，T29-U18）": "官网博客 unitedcontrolengg.com（WordPress，2026-09/10 仍更新，RSS）；LinkedIn 公司页 989 followers；Facebook unitedcontrolengg；IndiaMART（Pramendra Chaudhary，Director）"
  },
  "signals": [
+  "2026-10-23 核查：UCE 是大诺伊达 40 人规模的 Delta/Schneider/ABB/Phoenix Contact/nVent 授权分销 + 盘柜集成商（RocketReach 营收 $15.2M）——Phoenix Contact 工业交换机是其现成货架，Saga 工业系列价格仅其 1/3；对口 = 盘柜项目配套的 DIN 导轨非网管/网管交换机；gg 维持但值得一年两次 LinkedIn 看项目动态",
   "2026-05-23：官网新建「Industrial Ethernet Switch Solutions」页，列 Phoenix + Teltonika 全系——正在把交换机做成独立品类（https://unitedcontrolengg.com/ethernet-switch/）",
   "用户表：3 次实质回复，兴趣 5/8 口非管理工业 FS，已成单"
  ],
@@ -151,5 +160,12 @@
   "rmb": 0.0,
   "profit_rmb": 481.99,
   "models": "Industrial Switch"
+ },
+ "watch": {
+  "as_of": "2026-10-23",
+  "github_watch": [],
+  "web_watch_targets": "scripts/web_watch/targets.json#SA-016",
+  "status": "data/customer_watch/当前状态.md",
+  "log": "data/customer_watch/变化日志.md"
  }
 }

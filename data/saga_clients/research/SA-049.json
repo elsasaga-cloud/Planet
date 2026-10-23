@@ -88,6 +88,13 @@
    "quote": "",
    "url": "PI.zip:14 印度 Manoj 可发展",
    "date": "2026-10-22"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "CEO Manoj Kumar N.（LinkedIn 5K followers）：25 年嵌入式/国防/航电经验；STS 帮客户选型集成工业 PC + I/O 卡 + 网关 + 摄像头 + 网络设备；sales@sundartechno.com，WA +91-9482081014",
+   "quote": "Sundar Techno Solutions can help customers select and integrate the industrial PC with suitable I/O cards, gateways, cameras, networking equipment and operator displays … WA/MOB: +91-9482081014",
+   "url": "https://www.linkedin.com/in/manoj-kumar-n-b4ba7a32/",
+   "date": "2026-10-23"
   }
  ],
  "kp": [
@@ -178,9 +185,11 @@
   "网站": "https://sundartechno.com/ · https://www.sundartechno.in/（IndiaMART）",
   "直邮": "sales@sundartechno.com",
   "电话/WhatsApp": "+91 98808 22633（用户表，已加）",
-  "联系人": "Manoj Kumar N（Founder & CEO，成单）"
+  "联系人": "Manoj Kumar N（Founder & CEO，成单）",
+  "公开动态平台（监控中，T29-U18）": "LinkedIn 公司页（39 followers，2 周前发 4U 工业机箱「Make in India」）；CEO Manoj Kumar N. 个人页（5K followers，常发工业 PC/边缘 AI）；官网 sundartechno.com（RSS）+ embeddedautomation.org + IndiaMART 迷你站 sundartechno.in；YouTube @SUNDARTECHNOSOLUTIONS；X @SundarTechno；Instagram；Facebook"
  },
  "signals": [
+  "2026-10-23 核查：STS 是 IBASE / Volktek（台湾工业交换机厂）/ Panasonic Toughbook 的印度代理，并自产工业机箱/显示一体机（OEM）；Volktek 是现成的竞品位——切入点 = 同规格宽温 PoE 交换机比 Volktek 便宜 + 可贴 STS 标；KP 在 LinkedIn 活跃（5K followers），动态用 web 搜索跟",
   "IndiaMART 店铺以 STS 品牌列出 20+ 款工业交换机，MOQ 1–5 台，「Made in India」——典型贴牌 + 本地组装/贴标模式，持续需要 ODM 货源（2026-10-21）",
   "用户表：2023-06 成单（2×2 bypass 工业 FS 100 台需求），此后无跟进记录"
  ],
@@ -210,5 +219,12 @@
   "models": "STI-0160GE"
  },
  "grade_override": "A",
- "override_reason": "PI 包成单客户，Simon 标签 可发展 → A"
+ "override_reason": "PI 包成单客户，Simon 标签 可发展 → A",
+ "watch": {
+  "as_of": "2026-10-23",
+  "github_watch": [],
+  "web_watch_targets": "scripts/web_watch/targets.json#SA-049",
+  "status": "data/customer_watch/当前状态.md",
+  "log": "data/customer_watch/变化日志.md"
+ }
 }

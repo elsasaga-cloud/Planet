@@ -47,6 +47,13 @@
    "quote": "",
    "url": "PI.zip:16 美国 John PayPal gg",
    "date": "2026-10-22"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "sweetspot：68 项联邦合同累计 $1,430,138，DoD 为主",
+   "quote": "52 NETWORKS, INC. … has received $1,430,138 across 68 federal awards, with top agencies including Department of Defense and General Services Administration",
+   "url": "https://www.sweetspot.so/markets/federal/contractors/52-networks-inc-fv4kbsne5s75/",
+   "date": "2026-06-16"
   }
  ],
  "kp": [
@@ -116,9 +123,11 @@
  ],
  "channels": {
   "网站/网店": "https://52networks.com/（2026-09-11 更新）",
-  "直邮": "sales@52networks.com（用户表）/ uzair@52networks.com（GSA 登记）"
+  "直邮": "sales@52networks.com（用户表）/ uzair@52networks.com（GSA 登记）",
+  "公开动态平台（监控中，T29-U18）": "GSA eLibrary 合同页 47QTCA22D00B3（选项期至 2027-07-25）；GovTribe / HigherGov / USAspending 联邦合同动态（68 单 $1.43M）；官网 52networks.com；X @52networks"
  },
  "signals": [
+  "2026-10-23 核查：52 Networks = 弗吉尼亚 Woodbridge 的少数族裔小型劣势企业（SDB）联邦供应商，GSA MAS 持有人，2025 仍在出单（NAVWAR $294k、Nellis AFB 光纤 MPO $117k、CA 国民警卫队 $29k）；但 MAS 目录受 TAA 约束，中国产交换机进不去——只剩微额采购/开放市场的零星机会；gg 维持，监控其合同动态即可",
   "2026-09-11 首页更新，Cat6A Plenum 促销——活跃电商（https://52networks.com/ 2026-10-21）",
   "用户表：已成单（A 优质名单 US）"
  ],
@@ -145,5 +154,12 @@
   "rmb": 0.0,
   "profit_rmb": 914.31,
   "models": "NDR-240-48、STI-288GP"
+ },
+ "watch": {
+  "as_of": "2026-10-23",
+  "github_watch": [],
+  "web_watch_targets": "scripts/web_watch/targets.json#SA-064",
+  "status": "data/customer_watch/当前状态.md",
+  "log": "data/customer_watch/变化日志.md"
  }
 }

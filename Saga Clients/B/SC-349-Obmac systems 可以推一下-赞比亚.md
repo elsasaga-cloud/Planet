@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-22
+updated: 2026-10-23
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -63,9 +63,20 @@ updated: 2026-10-22
   > 来源：PI.zip:3  赞比亚 Pythias gg/CI.xls（抓取 2024-01-17）
 - **【PI】PI 包文件夹「赞比亚 Pythias gg」：Simon 标签 gg；单号 1 个，2024-01-17 → 2024-01-17，销售 USD 9350.0 / RMB 0，Simon 成本统计利润合计 RMB 23118.35**
   > 来源：PI.zip:3  赞比亚 Pythias gg（抓取 2026-10-22）
+- **【公开平台核查（T29-U18）】官网：2007-02-13 成立，多学科公司，电信/电气/机械项目与采购，从概念设计到交付；客户 Chicken Inn、Pizza Inn、Anfield International、Zambia Breweries、Pizza Hut、Kazungula Boarder Post**
+  > The company was founded on February 13th 2007. Obmac Systems multi- disciplinary company … Chicken Inn Pizza Inn Anfield International Zambia Breweries Pizza Hut Kazungula Boarder Post
+  > 来源：http://obmacsystems.com/（抓取 2026-10-23）
+- **【公开平台核查（T29-U18）】LinkedIn Francis Chamyolo（OBMAC Systems，Lusaka，1K followers）：与 Valinor Investment Limited 合作、SANY International (Zambia) 施工的 11 MWp（10 MWac）光伏电站，年发电 22 GWh**
+  > We are delivering the project with our corporate partner, Valinor Investment Limited, with construction undertaken by SANY International (Zambia) … installed capacity of 11MWp (10MWac)
+  > 来源：https://www.linkedin.com/in/francis-chamyolo-3903ba8b/（抓取 2026-10-23）
 - **KP**：Pythias Kachepa（单据联系人）pythiask@gmail.com 〔PI.zip 单据〕
 - **调研后定级**：B（原自动 C）——PI 包成单客户（2024-01 一单 265 台 USD 9,350，Simon 成本表利润 RMB 23,118；Simon 标签 gg）→ 至少 B
 
+### 加厚挖掘（2026-10-23 · 公开平台核查（T29-U18，针对性：只核活跃平台与触达通道））
+
+- **触达通道（公开）**：公开动态平台（监控中，T29-U18）: 官网 obmacsystems.com（模板站，无更新）；LinkedIn 员工 Francis Chamyolo（1K followers，2026 发光伏 EPC 项目）；ZICTA 注册经销商名单；Yandex 地图条目 Parliament Road / Makishi Road 3061
+- **近况信号**：
+  - 2026-10-23 核查：Obmac Systems（2007-02-13 成立）= 卢萨卡 ICT+机电工程承包（客户 Chicken Inn / Pizza Inn / Zambia Breweries / Kazungula 口岸），2026 起与 Valinor Investment 做 11 MWp 光伏电站——重心转向能源 EPC；网络设备为项目配套、低频；gg 维持，只跟 LinkedIn
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -186,12 +197,12 @@ updated: 2026-10-22
 
 ## 下次复核
 
-- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 18）；人工/调研定级 → B
+- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 18）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

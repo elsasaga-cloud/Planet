@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-22
+updated: 2026-10-23
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -67,10 +67,24 @@ updated: 2026-10-22
   > 来源：PI.zip:19 马来西亚 Raja 可发展/STSC20260821019.xlsx（抓取 2026-08-21）
 - **【PI】PI 包文件夹「马来西亚 Raja 可发展」：Simon 标签 可发展；单号 3 个，2026-08-18 → 2026-08-21，销售 USD 0 / RMB 19590.0，Simon 成本统计利润合计 RMB 0**
   > 来源：PI.zip:19 马来西亚 Raja 可发展（抓取 2026-10-22）
+- **【公开平台核查（T29-U18）】Experian：WIZARDSINC SDN. BHD. 201101002484 (930621-U)，2011-01-24 注册；业务 = ICT 方案与软硬件、嵌入式系统与安防通信系统、在线应用/门禁/CCTV**
+  > ICT SOLUTION & COMPUTER SOFTWARE AND HARDWARE, 2. EMBEDDED SYSTEM AND SECURITY & COMMUNICATION SYSTEMS, 3. ONLINE APPLICATION, ACCESS CONTROL AND CCTV SYSTEMS
+  > 来源：https://buy.experian.com.my/index.php/search/Malaysia-Company/930621/WIZARDSINC-SDN.-BHD.（抓取 2026-10-23）
+- **【公开平台核查（T29-U18）】官网联系页：总部 Lot 1-2A Incubator 1, Technology Park Malaysia, Bukit Jalil；分部 Jalan Ipoh；+6 03 4044 4044；info@/support@wizardsinc.co；+6 012 203 6165；热线 1-700-816-003**
+  > HEAD OFFICE Lot 1-2A Incubator 1, Technology Park Malaysia … info@wizardsinc.co support@wizardsinc.co … CALL US : 1-700-816-003
+  > 来源：http://wizardsinc.co/?page_id=40（抓取 2026-10-23）
+- **【公开平台核查（T29-U18）】10times：Raja Kumaran，CEO at WizardsInc Sdn Bhd，作为参观者评论 LED Light Malaysia（2026-07，吉隆坡）**
+  > Raja Kumaran Visitor CEO at WizardsInc Sdn Bhd Kuala Lumpur, Malaysia
+  > 来源：https://10times.com/malaysia-sign-ledneon-technology-exhibition（抓取 2026-10-23）
 - **KP**：Raja King（单据联系人） 〔PI.zip 单据〕
 - **KP**：Raja Kumaran（单据联系人）rajaking@outlook.com 〔PI.zip 单据〕
 - **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 可发展 → A
 
+### 加厚挖掘（2026-10-23 · 公开平台核查（T29-U18，针对性：只核活跃平台与触达通道））
+
+- **触达通道（公开）**：公开动态平台（监控中，T29-U18）: 官网 wizardsinc.co（WordPress，RSS ?feed=rss2）；10times 展会评论（CEO Raja Kumaran 2026-07 参观 LED Light Malaysia）；GitHub 用户 WizardsInc-Maintenance（归属未证实）
+- **近况信号**：
+  - 2026-10-23 核查：WizardsInc Sdn Bhd（2011-01-24 注册，930621-U）= 吉隆坡 Technology Park Malaysia 孵化器内的 ICT/嵌入式/门禁 CCTV 集成商，总机 03-4044 4044、热线 1-700-816-003；CEO Raja Kumaran 2026-07 在看 LED/标牌展——门禁+CCTV+标牌项目都要 PoE 交换机
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -201,12 +215,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-05**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-06**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 62）
+- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 62）
 
 ---
 
-*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

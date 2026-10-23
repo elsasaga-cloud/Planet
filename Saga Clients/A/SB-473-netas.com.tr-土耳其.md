@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-22
+updated: 2026-10-23
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -72,6 +72,15 @@ updated: 2026-10-22
   > 来源：PI.zip:20 土耳其 Burak 活跃 Xtransfer 轻度绑定/STAG20251224020.xls（抓取 2025-12-24）
 - **【PI】PI 包文件夹「土耳其 Burak 活跃 Xtransfer 轻度绑定」：Simon 标签 活跃，收款 Xtransfer，轻度绑定；单号 1 个，2025-12-24 → 2025-12-24，销售 USD 545.0 / RMB 0，Simon 成本统计利润合计 RMB 903.53**
   > 来源：PI.zip:20 土耳其 Burak 活跃 Xtransfer 轻度绑定（抓取 2026-10-22）
+- **【公开平台核查（T29-U18）】H1 2026 业绩：订单 110 亿 TL（+96%），销售 86 亿 TL（+55%），税前利 2.02 亿 TL**
+  > 2026’nın ilk yarısında siparişlerini yüzde 96 artışla 11 milyar TL’ye, satış gelirleri ise yüzde 55 artışla 8,6 milyar TL’ye çıkaran Netaş, 202 milyon TL vergi öncesi kâr elde etti
+  > 来源：https://www.capital.com.tr/sirket-panosu/sirket-panosu-haberleri/netas-2026nin-ilk-yarisinda-gelirlerini-ve-karliligini-artirdi（抓取 2026-08-14）
+- **【公开平台核查（T29-U18）】2026-08-03 董事长任命 Zhi Ling；Turkcell 与 ZTE/Netaş 合作 5G + Wi-Fi 7 新一代 Superbox**
+  > Netaş’ta Üst Düzey Atama: Yönetim Kurulu Başkanlığı Görevine Zhi Ling Getirildi 3 Ağustos 2026 … Turkcell ve ZTE/Netaş’tan 5G ve Wi-Fi 7 Destekli Yeni Nesil Superbox İş Birliği
+  > 来源：https://netas.com.tr/medya-merkezi（抓取 2026-08-03）
+- **【公开平台核查（T29-U18）】2026-06 KAP 披露：来自土耳其头部运营商 19,584,122 美元服务器订单，2026 年内交付，售后 7 年**
+  > müşterisinden sunucu satışına ilişkin olarak 19.584.122 ABD Doları tutarında sipariş almıştır
+  > 来源：https://www.cnbce.com/borsa/netas-duyurdu-turkiyenin-onde-gelen-telekom-operatorunden-195-milyon-dolarlik-sunucu-siparisi-h31685（抓取 2026-06-16）
 - **KP**：Ender Bulut（（自建站询盘人；职务待核））ebulut@netas.com.tr（用户表） —〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Burak Ozdemir（单据联系人）buozdemir@netas.com.tr 〔PI.zip 单据〕
 - **调研后定级**：A（原自动 A）——规模大 + 守界：BIST 上市电信设备/系统集成巨头（1967 年成立；约 1,264–1,403 名员工；ZTE 持股 48.05%、土耳其武装部队基金会持股 15%）——集团级采购、ZTE 供应链关联且军方基金会股东，超出 Saga 可赢范围；PI 包成单客户，Simon 标签 活跃 → A
@@ -87,8 +96,9 @@ updated: 2026-10-22
 | 其他 | ZTE 48.05%、TSKGV 15%；总经理 Sinan Dumlu |
 
 - **业务线**：电信运营商网络产品与本土基站；系统集成与 IT 服务
-- **触达通道（公开）**：网站: https://netas.com.tr/
+- **触达通道（公开）**：网站: https://netas.com.tr/；公开动态平台（监控中，T29-U18）: 官网媒体中心 netas.com.tr/medya-merkezi（季报/任命/合作新闻，持续更新）；KAP 公开披露（BIST: NETAS）；LinkedIn 公司页；土耳其财经媒体聚合（hurriyet / capital / cnbce）
 - **近况信号**：
+  - 2026-08-14 H1 2026：订单 +96% 至 110 亿 TL，营收 +55% 至 86 亿 TL，税前利润 2.02 亿 TL；2026-08-03 董事长改任 Zhi Ling（ZTE 系）；2026-06 获国内头部运营商 1,958 万美元服务器订单（2026 年内交付，7 年售后）——公司景气、采购活跃；监控其媒体中心即可知新项目方向
   - 询盘型号 OM6X2424(2)-PSE-GW 非 Saga 型号 → 可能为比价/替代件询价
 - **风险/边界**：集团采购 + ZTE 关联 + 军方基金会股东 → C
 - **Saga 对位结论**：P1 待核型（无标准对应）（25% 档）——不推进
@@ -218,12 +228,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-05**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-06**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 90）
+- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 90）
 
 ---
 
-*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

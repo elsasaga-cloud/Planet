@@ -55,6 +55,20 @@
    "quote": "",
    "url": "PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定",
    "date": "2026-10-22"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "pbacctv.com 页脚：บริษัทพีบีเอ ฟอร์เอฟเวอร์ เทคโนโลยีจำกัด（PBA Forever Technology Co., Ltd.）电话 098-265-6972 / 086-544-2684，办公 02-050-0699，LINE peeranun8336，Email pomnong9@gmail.com",
+   "quote": "บริษัทพีบีเอ ฟอร์เอฟเวอร์ เทคโนโลยีจำกัด เบอร์โทร 098-265-6972 , 086-544-2684 สำนักงาน : 02-050-0699 … Line : peeranun8336 Email : pomnong9@gmail.com",
+   "url": "https://www.pbacctv.com/home/product/?id=139",
+   "date": "2026-10-23"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "业务：全套 CCTV 安装（住宅/宿舍/公寓/商铺/办公），Hikvision Color Vu 套餐 2 路 13,900฿ … 8 路 26,900฿；另卖 CCTV 电源箱与 UPS",
+   "quote": "โปรพิเศษ ลดราคาทุกชุด Hikvision Audio Camera 8 ตัวพร้อมติดตั้ง … ลดเหลือเพียง 26,900฿",
+   "url": "https://www.pbacctv.com/",
+   "date": "2026-10-23"
   }
  ],
  "kp": [
@@ -88,5 +102,22 @@
   "why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
  },
  "grade_override": "A",
- "override_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）"
+ "override_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）",
+ "channels": {
+  "公开动态平台（监控中，T29-U18）": "官网 pbacctv.com（泰文 CCTV 安装商站：Hikvision 套餐价、电源/UPS 类目，持续上新）；LINE peeranun8336；电话 098-265-6972 / 086-544-2684 / 02-050-0699；pomnong9@gmail.com"
+ },
+ "signals": [
+  "2026-10-23 核查：公司网站为 pbacctv.com（此前只知 Gmail）——北榄府 Bang Phli 的 CCTV/门禁/网络安装商，主卖 Hikvision 套餐（2 路 13,900฿、6 路 24,900฿、8 路 26,900฿）+ 电源/UPS（CHUPHOTIC）；对口 = 4/8/16 口 PoE 交换机配套"
+ ],
+ "watch": {
+  "as_of": "2026-10-23",
+  "github_watch": [],
+  "web_watch_targets": "scripts/web_watch/targets.json#SA-171",
+  "status": "data/customer_watch/当前状态.md",
+  "log": "data/customer_watch/变化日志.md"
+ },
+ "deep": {
+  "done_at": "2026-10-23",
+  "level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
+ }
 }

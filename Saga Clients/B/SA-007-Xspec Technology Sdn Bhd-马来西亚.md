@@ -28,7 +28,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-22
+updated: 2026-10-23
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -78,6 +78,15 @@ updated: 2026-10-22
   > 来源：PI.zip:9 马来西亚 Sugito gg/普通快递发票.xlsx（抓取 2024-07-17）
 - **【PI】PI 包文件夹「马来西亚 Sugito gg」：Simon 标签 gg；单号 2 个，2024-06-27 → 2024-07-17，销售 USD 1146.0 / RMB 0，Simon 成本统计利润合计 RMB 3179.39**
   > 来源：PI.zip:9 马来西亚 Sugito gg（抓取 2026-10-22）
+- **【公开平台核查（T29-U18）】xspectechnology.com：Industrial technology, training, and support for Southeast Asia；5 个行业（油气海事、军警安防、生物实验室、医疗、培训）；54 品牌 86 产品；客户墙 PDRM、Bomba、MSAT、SPRM、Kastam、UM、Penjara、UiTM、IMR、LHDN…；Subang Jaya USJ 1/8；inquiry@xspec.com.my**
+  > 5 Industries 54 Brands 86 Products … Trusted by government agencies, universities, hospitals, and industry leaders across Malaysia
+  > 来源：https://xspectechnology.com/（抓取 2026-10-23）
+- **【公开平台核查（T29-U18）】MINDTCE 2026（8th Malaysia International NDT Conference & Exhibition，2026-11-17/18）参展商档案：XSPEC TECHNOLOGY SDN BHD，联系人 Sugito Wibawa，sugito@xspec.com.my，+60129888086**
+  > XSPec Technology Sdn Bhd (XSPec) is a Malaysian-based technology provider and manufacturing representative … Non-Destructive Testing (NDT) sector
+  > 来源：https://mindtce.com.my/companyprofile/B2611000001（抓取 2026-10-23）
+- **【公开平台核查（T29-U18）】Converus 授权服务伙伴名录：MALAYSIA XSPec Technology Sdn Bhd，Sugito Wibawa，+60 (3) 8023 1162**
+  > MALAYSIA XSPec Technology Sdn Bhd Sugito Wibawa … W: xspectechnology.com
+  > 来源：https://converus.com/find-a-partner/（抓取 2026-09-23）
 - **KP**：Sugito Wibawa（负责人（代理名录口径））sugito@xspec.com.my +60 3 8023 1161〔https://www.intron.ru/en/about-us/agents/〕
 - **调研后定级**：B（原自动 A）——成单但核心业务是 NDT/国防/医疗设备代理，交换机为项目配套，复购逻辑弱（且含军警安防，INH 守界）；放 B 慢跟、被动响应。
 
@@ -91,8 +100,9 @@ updated: 2026-10-22
 | 其他 | 代理 NDT 检测、军警安防、医疗、生物实验室设备；覆盖马/印尼/新 |
 
 - **业务线**：制造商代表/分销（NDT、安防、医疗）；项目供货（交换机/PoE 作配套）
-- **触达通道（公开）**：网站: https://xspectechnology.com/ · xspec.com.my；邮箱: sugito@xspec.com.my（用户表）；WhatsApp / Skype: +60 12 988 8086 / sugitowibawa（用户表）
+- **触达通道（公开）**：网站: https://xspectechnology.com/ · xspec.com.my；邮箱: sugito@xspec.com.my（用户表）；WhatsApp / Skype: +60 12 988 8086 / sugitowibawa（用户表）；公开动态平台（监控中，T29-U18）: 新目录站 xspectechnology.com（2026 改版，MY/SG/ID 三站，54 品牌 86 产品）；CEO Sugito Wibawa LinkedIn（1K followers，2026-05 仍活跃）；展会：MINDTCE 2026-11-17/18（NDT 展参展商）
 - **近况信号**：
+  - 2026-10-23 核查：XSPec 定位已非常清楚——油气/海事 NDT、军警安防（Converus 测谎软件授权服务商、Intron NDT 代理）、生物实验室、医疗设备的代理与培训，客户全是马来西亚政府机关（PDRM 警察、Bomba 消防、Kastam 海关、Penjara 监狱、SPRM 反贪…）；2019 年那单酒店网络是偶发；gg 维持，不投入
   - CEO 直接表示对交换机/PoE 感兴趣并有 2 次实质回复 → 可作东南亚项目配套分销
   - 军警安防代理线 → 守界：仅民用项目供货
 - **风险/边界**：亚太非主攻区；交换机非其主业；军警客户守界
@@ -258,12 +268,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 123）；人工/调研定级 → B
+- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 123）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-22
+updated: 2026-10-23
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -65,9 +65,24 @@ updated: 2026-10-22
   > 来源：PI.zip:2 印度 Rishi gg/CI.xls（抓取 2023-10-09）
 - **【PI】PI 包文件夹「印度 Rishi gg」：Simon 标签 gg；单号 1 个，2023-10-09 → 2023-10-09，销售 USD 260.0 / RMB 0，Simon 成本统计利润合计 RMB 553.48**
   > 来源：PI.zip:2 印度 Rishi gg（抓取 2026-10-22）
+- **【公开平台核查（T29-U18）】IndiaMART 产品页：4 Port Industrial Ethernet Switch FBC-204GP, BLACK —— 卖家 Fastball（Rishi Bansal，Ashok Nagar, New Delhi 110093），成立 2021，制造/批发/零售光纤线缆、PLC 分路器、光功率计、接头盒**
+  > 4 Port Industrial Ethernet Switch FBC-204GP, BLACK … Established in the year 2021 "Fastball" … Rishi Bansal
+  > 来源：https://www.indiamart.com/proddetail/4-port-industrial-ethernet-switch-fbc-204gp-2852734505091.html（抓取 2026-10-23）
+- **【公开平台核查（T29-U18）】官网：Jhilmil Industrial Area A-61，销售 +91-9871 753 979，支持 +91-9355 075 075；自述 AI 驱动的电信有线产品公司（预防性维护/按需服务）**
+  > Fastball Building, Unit no. A-61, Jhilmil industrial Area, Delhi 110095 Sales +91-9871 753 979, Support +91-9355 075 075
+  > 来源：https://fastball.in/（抓取 2026-10-23）
+- **【公开平台核查（T29-U18）】splicingmachines.com：Fastball 独家进口 Signal Fire AI-5 / AI-9 熔接机，全印分销（孟买/特伦甘纳/加尔各答/德里/勒克瑙）**
+  > Importer · Exclusively Import by FASTBALL in India … Distributor · Available in Mumbai, Telangana, Kolkata, Delhi, Lucknow
+  > 来源：https://www.splicingmachines.com/fiber-optic-splicing-machine.html（抓取 2026-10-23）
 - **KP**：Rishi Kumar Bansal（单据联系人）office@fastball.in 〔PI.zip 单据〕
 - **调研后定级**：B（原自动 A）——PI 包成单客户，Simon 标签 gg：gg（已凉）→ B（成交过·慢慢跟进）
 
+### 加厚挖掘（2026-10-23 · 公开平台核查（T29-U18，针对性：只核活跃平台与触达通道））
+
+- **触达通道（公开）**：公开动态平台（监控中，T29-U18）: 官网 fastball.in（WordPress，RSS）；IndiaMART 店铺 indiamart.com/fastball（产品上新最勤）；TradeIndia 店铺；Rishi Kumar Bansal（CEO/业主，个体 GST 07AJJPR5445G1ZX，2021）
+- **近况信号**：
+  - 2026-10-23 核查：Fastball 在 IndiaMART 挂有「4 Port Industrial Ethernet Switch FBC-204GP」与「20 port Gigabit fiber optic switch」——FBC-204GP 即我方 STC-204GP 的贴牌命名（FBC = Fastball），说明他们把 Saga/HRUI 的工业 4 口直接上架零售；另主营光纤工具（独家进口 Signal Fire AI-5/AI-9 熔接机）、LIU/ODF、PLC 分路器；对口 = 继续供 FBC- 系列小批量
+- **Saga 对位结论**：P1 待核型（无标准对应）（20% 档）——成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -207,12 +222,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 77）；人工/调研定级 → B
+- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 77）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

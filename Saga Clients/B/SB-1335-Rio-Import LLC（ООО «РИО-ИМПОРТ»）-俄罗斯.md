@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-22
+updated: 2026-10-23
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -65,9 +65,21 @@ updated: 2026-10-22
   > 来源：PI.zip:8 俄罗斯 Igor gg/STSC20240523008.xls（抓取 2024-05-23）
 - **【PI】PI 包文件夹「俄罗斯 Igor gg」：Simon 标签 gg；单号 1 个，2024-05-23 → 2024-05-23，销售 USD 1140.0 / RMB 0，Simon 成本统计利润合计 RMB 514.0**
   > 来源：PI.zip:8 俄罗斯 Igor gg（抓取 2026-10-22）
+- **【公开平台核查（T29-U18）】rio-krsk.ru 新闻《Прочные коммутаторы PoE》：Phoenix Contact 新增 1000 系列非网管 PoE（30W/口、SFP）与 4000 系列网管 PoE（60W/口，802.3bt），克拉斯诺亚尔斯克有库存；集团自述为该地区最大工控/柜体/电子元件供应商之一**
+  > Группа компаний РИО — одна из крупнейших поставщиков в Красноярском регионе полного спектра оборудования для АСУТП … Phoenix Contact дополняет свой ассортимент промышленных коммутаторов PoE … Склад в Красноярске
+  > 来源：http://www.rio-krsk.ru/info/news/prochnye-kommutatory-poe/（抓取 2026-10-23）
+- **【公开平台核查（T29-U18）】联系页：Красноярск, ул. Красной Гвардии 21, оф.314；8-(391)-291-14-24 / 290-63-15；rio-import2003@mail.ru**
+  > ООО ”РИО-ИМПОРТ” Адрес г. Красноярск, левый берег ул. Красной Гвардии 21, оф.314 … E-mail rio-import2003@mail.ru
+  > 来源：http://www.rio-krsk.ru/contacts/（抓取 2026-10-23）
 - **KP**：Igor Popov（单据联系人）rio-popov@mail.ru 〔PI.zip 单据〕
 - **调研后定级**：B（原自动 A）——PI 包成单客户，Simon 标签 gg：gg（已凉）→ B（成交过·慢慢跟进）
 
+### 加厚挖掘（2026-10-23 · 公开平台核查（T29-U18，针对性：只核活跃平台与触达通道））
+
+- **触达通道（公开）**：公开动态平台（监控中，T29-U18）: 官网 rio-krsk.ru（集团 РИО：工控/电气元件分销；新闻页 /info/news/）；邮箱 rio-import2003@mail.ru / rio-2003@mail.ru（我方单据 rio-popov@mail.ru）
+- **近况信号**：
+  - 2026-10-23 核查：Rio-Import = 克拉斯诺亚尔斯克「集团 РИО」的进口公司，主营 Delta Electronics / OPTIMUS DRIVE / UPUN / WAIN 等工控电气件，新闻页推 Phoenix Contact 1000/4000 系列工业 PoE 交换机（克拉斯诺亚尔斯克有库存）——他们买我方交换机是给工控客户配套；对口 = DIN 导轨工业 PoE（STI-154GP / STI-288DGGPM）替代 Phoenix；gg 维持
+- **Saga 对位结论**：P1 待核型（无标准对应）（20% 档）——成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -195,12 +207,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 60）；人工/调研定级 → B
+- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 60）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

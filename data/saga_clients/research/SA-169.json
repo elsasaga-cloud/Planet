@@ -48,6 +48,27 @@
    "quote": "I am now working on the UL listed PSU. 52~57VDC output. 250W~300W power budget. I will let you know if I have news.",
    "url": "（S 邮箱 2024-06-27 07:25Z Simon→james@clendenan.ca 主题 Invoice，data/gmail_s/messages/2024/2024-06.jsonl）",
    "date": "2026-10-22"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "Control Ready 官网：加拿大应急/活动响应技术方案，SCOUT（Smart Connection Operations United Toolkit）便携 Wi-Fi/电话/数据箱，BARK（Boundary Alert Response Kit）拖车传感告警，POST 应急数字标牌；均「Designed and Built in Canada with local components and suppliers」",
+   "quote": "SCOUT … Resilient, to-go Wi-Fi, phone, and data storage solutions for event management—all in convenient grab-and-go cases … Built in Canada with local canadian components and suppliers",
+   "url": "https://www.controlready.ca/",
+   "date": "2026-10-23"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "Control Ready About：James Clendenan Systems Ltd. 2012-09 创立；James = Queen's 计算机工程，曾任职 Pixar Canada / Sophos / HootSuite / 奥运转播 OBS；专长 ISP 与中小企业网管",
+   "quote": "James Clendenan Systems Ltd. was launched by James Clendenan in September 2012 … His past experience include stints with Pixar Canada, Sophos, HootSuite, and the Olympic Broadcasting Service",
+   "url": "https://www.controlready.ca/about",
+   "date": "2026-10-23"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "Alignable 商家页：北温哥华，电信/计算机服务/ISP；托管网络起价 15$/设备/月；光纤熔接、固定无线、电话系统",
+   "quote": "Managed Networks Starting at 15$/device/month for monitoring and configuration services … Networking, Wi-Fi, Fixed Wireless, Fiber Optics splicing and repair",
+   "url": "https://www.alignable.com/north-vancouver-bc/james-clendenan-systems-ltd",
+   "date": "2026-10-23"
   }
  ],
  "kp": [
@@ -84,5 +105,22 @@
  "override_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）",
  "risks": [
   "【2026-10-22 第二遍复盘】S 邮箱全库 13,583 封里唯一的 UL 需求来自本户（UL listed 52–57 VDC 250–300 W PSU，2024-06）；Simon 2023-12 曾向 Mencom 问 UL DIN 电源 → 跟进时可直接给 MEAN WELL UL 版电源型号 + 价格（Drive《SmartByte》有 MEAN WELL 价目表），交换机本体不承诺 UL。"
- ]
+ ],
+ "channels": {
+  "公开动态平台（监控中，T29-U18）": "新品牌 Control Ready（controlready.ca，Squarespace）：SCOUT 移动办公箱 / BARK 移动告警套件 / POST 应急数字标牌；Alignable 商家页；LinkedIn 个人页（James Clendenan）"
+ },
+ "signals": [
+  "2026-10-23 核查：James 另起品牌 Control Ready——面向应急/活动响应的「拎走即用」套件（SCOUT Wi-Fi+电话+存储箱、BARK 拖车传感告警、POST 标牌），宣称 Built in Canada with local components → 套件里需要小型宽温 PoE/工业交换机；可把 STI-154GP / STI-288DGGPM 作为 SCOUT 箱内件推荐（注意其「本地元件」话术，供货以中性包装）"
+ ],
+ "watch": {
+  "as_of": "2026-10-23",
+  "github_watch": [],
+  "web_watch_targets": "scripts/web_watch/targets.json#SA-169",
+  "status": "data/customer_watch/当前状态.md",
+  "log": "data/customer_watch/变化日志.md"
+ },
+ "deep": {
+  "done_at": "2026-10-23",
+  "level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
+ }
 }

@@ -1,0 +1,30 @@
+# T29-U18：成单客户活跃平台监控 · 定时工作流模板。
+# 代理的 GitHub 连接没有 workflows 权限，无法推送 .github/workflows/；请 Simon 在 GitHub 网页上把本文件原样保存为
+# .github/workflows/customer-watch.yml（分支 arena/3f35b9b3-planet）。保存后每 12 小时跑一次，也可手动 Run workflow。
+# 在此之前，监控由 smartbyte-crawl 工作流的 WATCH_ONLY 开关（scripts/web_watch/RUN_ON_CRAWL）代跑：每次需要跑就推送一次触及 crawl.py 的提交。
+name: Customer watch (active platforms)
+on:
+  schedule:
+    - cron: "41 */12 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: customer-watch
+  cancel-in-progress: false
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: arena/3f35b9b3-planet
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python -m pip install -q requests
+      - name: Watch
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/web_watch/watch.py

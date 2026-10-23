@@ -42,6 +42,27 @@
    "quote": "",
    "url": "PI.zip:20 土耳其 Burak 活跃 Xtransfer 轻度绑定",
    "date": "2026-10-22"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "H1 2026 业绩：订单 110 亿 TL（+96%），销售 86 亿 TL（+55%），税前利 2.02 亿 TL",
+   "quote": "2026’nın ilk yarısında siparişlerini yüzde 96 artışla 11 milyar TL’ye, satış gelirleri ise yüzde 55 artışla 8,6 milyar TL’ye çıkaran Netaş, 202 milyon TL vergi öncesi kâr elde etti",
+   "url": "https://www.capital.com.tr/sirket-panosu/sirket-panosu-haberleri/netas-2026nin-ilk-yarisinda-gelirlerini-ve-karliligini-artirdi",
+   "date": "2026-08-14"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "2026-08-03 董事长任命 Zhi Ling；Turkcell 与 ZTE/Netaş 合作 5G + Wi-Fi 7 新一代 Superbox",
+   "quote": "Netaş’ta Üst Düzey Atama: Yönetim Kurulu Başkanlığı Görevine Zhi Ling Getirildi 3 Ağustos 2026 … Turkcell ve ZTE/Netaş’tan 5G ve Wi-Fi 7 Destekli Yeni Nesil Superbox İş Birliği",
+   "url": "https://netas.com.tr/medya-merkezi",
+   "date": "2026-08-03"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "2026-06 KAP 披露：来自土耳其头部运营商 19,584,122 美元服务器订单，2026 年内交付，售后 7 年",
+   "quote": "müşterisinden sunucu satışına ilişkin olarak 19.584.122 ABD Doları tutarında sipariş almıştır",
+   "url": "https://www.cnbce.com/borsa/netas-duyurdu-turkiyenin-onde-gelen-telekom-operatorunden-195-milyon-dolarlik-sunucu-siparisi-h31685",
+   "date": "2026-06-16"
   }
  ],
  "kp": [
@@ -79,9 +100,11 @@
   "系统集成与 IT 服务"
  ],
  "channels": {
-  "网站": "https://netas.com.tr/"
+  "网站": "https://netas.com.tr/",
+  "公开动态平台（监控中，T29-U18）": "官网媒体中心 netas.com.tr/medya-merkezi（季报/任命/合作新闻，持续更新）；KAP 公开披露（BIST: NETAS）；LinkedIn 公司页；土耳其财经媒体聚合（hurriyet / capital / cnbce）"
  },
  "signals": [
+  "2026-08-14 H1 2026：订单 +96% 至 110 亿 TL，营收 +55% 至 86 亿 TL，税前利润 2.02 亿 TL；2026-08-03 董事长改任 Zhi Ling（ZTE 系）；2026-06 获国内头部运营商 1,958 万美元服务器订单（2026 年内交付，7 年售后）——公司景气、采购活跃；监控其媒体中心即可知新项目方向",
   "询盘型号 OM6X2424(2)-PSE-GW 非 Saga 型号 → 可能为比价/替代件询价"
  ],
  "risks": [
@@ -106,5 +129,12 @@
   "rmb": 0.0,
   "profit_rmb": 903.53,
   "models": "STI-488DGGPM-2BT"
+ },
+ "watch": {
+  "as_of": "2026-10-23",
+  "github_watch": [],
+  "web_watch_targets": "scripts/web_watch/targets.json#SB-473",
+  "status": "data/customer_watch/当前状态.md",
+  "log": "data/customer_watch/变化日志.md"
  }
 }

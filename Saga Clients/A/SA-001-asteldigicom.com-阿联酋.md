@@ -28,7 +28,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-22
+updated: 2026-10-23
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -110,6 +110,15 @@ updated: 2026-10-22
   > 来源：PI.zip:18 阿联酋 Sanjay 可发展/STAG20251127018.xls（抓取 2025-11-27）
 - **【PI】PI 包文件夹「阿联酋 Sanjay 可发展」：Simon 标签 可发展；单号 1 个，2025-11-27 → 2025-11-27，销售 USD 166.0 / RMB 0，Simon 成本统计利润合计 RMB 267.75**
   > 来源：PI.zip:18 阿联酋 Sanjay 可发展（抓取 2026-10-22）
+- **【公开平台核查（T29-U18）】LinkedIn：Astel Digicom Electronics LLC，Wholesale，11-50 人，Dubai，2012 创立；FTTH/HFC 网络的线缆、网络与光纤设备供应商；地址 Baghlaf Building, Naif Road, Deira**
+  > Cables, Networking and Fiber Optic equipment supplier for all types for FTTH Networks, HFC Networks around the world … Shop no 22, Baghlaf Building, Naif Road, Deira, Dubai
+  > 来源：https://www.linkedin.com/company/astel-digicom-electronics-llc（抓取 2026-10-23）
+- **【公开平台核查（T29-U18）】官网联系页：+971-50-6520753 / +971 4 2523480，asteldigicom@eim.ae，周一至周六 09:30–14:00**
+  > Call Us +971-50-6520753 +971 4 2523480 - Email Us asteldigicom@eim.ae
+  > 来源：https://asteldigicom.com/contactu.html（抓取 2026-10-23）
+- **【公开平台核查（T29-U18）】RocketReach：8 名员工；管理层 Sanjay Singla（GM）、Yash Shahani、Rehman Rahim（销售代表）；Sanjay 2012 至今 GM，此前 Pan Asian Systems（1993-2001）**
+  > Astel Digicom Electronics LLC employs 8 employees. The Astel Digicom Electronics LLC management team includes Sanjay Singla (General Manger), Yash Shahani …
+  > 来源：https://rocketreach.co/astel-digicom-electronics-llc-management_b41a35eeff64aa38（抓取 2026-10-23）
 - **KP**：Sanjay Singla（General Manager）asteldigicom@eim.ae; navsim@eim.ae 〔PI.zip 单据〕
 - **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 可发展 → A
 - 备注：成单客户，S 重点名单；下一步按老客户回访做，主推工业 PoE 整线（替代其在卖的 ONV）。
@@ -131,8 +140,9 @@ updated: 2026-10-22
 | ASTEL | AST-IMC-10G-12E4S-SFP-O | 工业 L3 管理 12×GE（8 PoE）+ 4×1G/10G SFP+，240W，网店价 AED 1,375 | STC-424XGGPM-280W（机架位）/ 工业 10G 待 SmartByte 核型 | https://asteldigicom.com/industrial-poe-switch-16-port-10g-l3-managed.-a.html（2026-10-21） |
 | ASTEL | FOE-IMC-GB-1E1S / 4E1S / 1E2F / 4E2F | 工业千兆非 PoE MC/小交换机 RJ45+SFP/双纤 | STI-110GE | https://asteldigicom.com/fiber-optic/all-products.html（2026-10-21） |
 
-- **触达通道（公开）**：网站/网店: https://asteldigicom.com/（AED 标价，可下单；首页有 WhatsApp 按钮）；直邮: asteldig@asteldigicom.ae / asteldigicom@eim.ae / navsim@eim.ae（用户表）；联系人: Sanjay Singla（GM，成单）
+- **触达通道（公开）**：网站/网店: https://asteldigicom.com/（AED 标价，可下单；首页有 WhatsApp 按钮）；直邮: asteldig@asteldigicom.ae / asteldigicom@eim.ae / navsim@eim.ae（用户表）；联系人: Sanjay Singla（GM，成单）；公开动态平台（监控中，T29-U18）: LinkedIn 公司页（112 followers；员工 Sanjay Singla GM、Yash Shahani / Rehman Rahim / ali khan 销售）；官网 asteldigicom.com（静态 HTML）；B2B 目录 exportersindia / listofcompaniesin；迪拜 Deira Naif Road Baghlaf Building Shop 22（卫星市场）
 - **近况信号**：
+  - 2026-10-23 核查：Astel 是迪拜 Deira 卫星市场的线缆/光纤/FTTH/HFC 批发商（2012 年，11-50 人，8 人在册），无博客/新闻源；唯一「动态」= LinkedIn 公司页与 Sanjay 个人页——人工每月看一次即可；对口产品 = FTTH 配套 PoE 交换机/光纤收发器批发价
   - 网店工业 PoE 交换机页面均「In stock」且有 -O 变体——在持续备货销售自有 AST 品牌（2026-10-21）
   - 用户表：问过 ONV 工业 FS 与工业电源；已成单
 - **风险/边界**：其 AST 系列规格（8E2U2S、10G L3）是典型华南 ODM 公版，价格竞争激烈，需以 Marvell 芯片 + 一致性 + 交期取胜；阿联酋转口贸易，可能分销到伊朗等受限地区——仅按 UAE 本地项目报，守界
@@ -351,12 +361,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-05**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-06**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 164）
+- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 164）
 
 ---
 
-*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

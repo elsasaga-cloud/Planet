@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-22
+updated: 2026-10-23
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -84,6 +84,12 @@ updated: 2026-10-22
   > 来源：PI.zip:17 英国 Chris PayPal 可发展/CI.xls（抓取 2025-08-23）
 - **【PI】PI 包文件夹「英国 Chris PayPal 可发展」：Simon 标签 可发展，收款 PayPal；单号 1 个，2025-08-23 → 2025-08-23，销售 USD 588.0 / RMB 0，Simon 成本统计利润合计 RMB 1125.94**
   > 来源：PI.zip:17 英国 Chris PayPal 可发展（抓取 2026-10-22）
+- **【公开平台核查（T29-U18）】Mastodon 实例 API：mammut.gogreenit.net v4.7.3，9 用户，16,382 条状态；站长账号 @chewie（Owner，2023-06 建，15,426 条，followers 577，最后发帖 2026-10-22），联系邮箱 chewie@int.gogreenit.net**
+  > "version":"4.7.3" … "user_count":9,"status_count":16382 … "username":"chewie" … "last_status_at":"2026-10-22" … "roles":[{"name":"Owner"}]
+  > 来源：https://mammut.gogreenit.net/api/v1/instance（抓取 2026-10-23）
+- **【公开平台核查（T29-U18）】SOGo wiki 署名 Chris.Clemson@GoGreenIT.Net（2017）；neverbounce：Derby DE22 3UP，邮箱格式 first.last@gogreenit.net**
+  > If you have any questions, feel free to email me on Chris[dot]Clemson[at]GoGreenIT[dot]Net
+  > 来源：https://wiki.sogo.nu/ZEGReconfiguration（抓取 2017-10-29）
 - **KP**：Chris Clemson（单据联系人）info@gogreenit.net 〔PI.zip 单据〕
 - **调研后定级**：A（原自动 A）——小型 IT 服务公司，一次性项目需求（90W bt 工业 PoE），无渠道属性与复购逻辑；B 慢跟。；PI 包成单客户，Simon 标签 可发展 → A
 
@@ -101,8 +107,9 @@ updated: 2026-10-22
 | Saga Telecom | STI-42424XGGPM-4BT | L3 工业 PoE 24 口（含 SFP+），2025-08 购入 £588 + 进口费；公开评测含优缺点 | STI-42424XGGPM-4BT（已购） | http://gogreenit.net/index.php?page=saga-telecom-switch（2026-10-21） |
 | Linovision | POE-SW708GM-DC12V | 工业 8 GE 管理 PoE，2024-07 Amazon £379；被评为「buggy」、SNMP 受限，后被 Saga 机替换 | （已被 STI-42424XGGPM-4BT 替换） | http://gogreenit.net/index.php?page=linovision-poe-sw708gm-dc12v（2024-07） |
 
-- **触达通道（公开）**：网站: http://www.gogreenit.net/（Contact Us 表单）；评测页: http://gogreenit.net/index.php?page=saga-telecom-switch
+- **触达通道（公开）**：网站: http://www.gogreenit.net/（Contact Us 表单）；评测页: http://gogreenit.net/index.php?page=saga-telecom-switch；公开动态平台（监控中，T29-U18）: 自建 Mastodon 实例 mammut.gogreenit.net（v4.7.3，站长 @chewie 每日发帖，最后 2026-10-22；RSS mammut.gogreenit.net/@chewie.rss）；自建 PeerTube / XMPP 服务；官网 gogreenit.net（静态）；Derby，16 May St
 - **近况信号**：
+  - 2026-10-23 核查：GoGreenIT = 英国 Derby 的一人/小团队托管与系统管理商（客户酒店 The New Ellington Leeds、Splendid Hotels），技术负责人 Chris Clemson 自托管 Mastodon（最新版 4.7.3，说明他持续维护基础设施）、PeerTube、XMPP、SOGo——典型 homelab/自托管型买家：小型 2.5G/10G 上联、静音 PoE 机型最对口；他的日常动态在 Mastodon，不在 LinkedIn
   - **公开好评参考客户**：评测页可作英国/欧洲客户的第三方背书（引用前先征得同意）；评测列出的两项 UI/SFP 缺点应原文转给 SmartByte 作固件改进项（2026-10-21）
 - **风险/边界**：一次性自用采购（1 台），非渠道复购——保持 B；价值在于背书与产品反馈，不在销量
 - **Saga 对位结论**：P1 STI-42424XGGPM-4BT（25% 档）——已购 STI-42424XGGPM-4BT 自用；后续仅可能补 STI-144GP / STI-288DGGPM 小机；主要动作是征得评测引用许可 + 回传固件反馈
@@ -253,12 +260,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-05**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-06**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 116）
+- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 116）
 
 ---
 
-*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

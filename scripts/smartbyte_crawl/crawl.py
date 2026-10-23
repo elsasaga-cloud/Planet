@@ -67,6 +67,10 @@ v3.2（2026-10-22，T29-U13：Simon 要求把 SmartByte / HRUI / Hohunet 官网�
      已 complete 的站跳过。预算按 45/35/20 分配剩余时间。
   ③ 新增整站：hrgdkj.com（HRUI 中文站）、hohunet.cn（Hohunet 中文站）、smartbyte.com.cn（SmartByte 第二域名，可能已停用）进 EXTRA_SITES；
      hrui_cn 有通用 CMS 列表 API 钩子（类目 id 从首页收集）。
+v3.3（2026-10-23，T29-U18：成单客户活跃平台监控）：
+  scripts/web_watch/RUN_ON_CRAWL 含 WATCH_ONLY=1 时，本工作流的这次运行只执行 scripts/web_watch/watch.py（19 家成单客户 + NYNEX 的
+  RSS / 网页 / sitemap / GitHub / JSON 源抓取 + 比对 + 提交 data/customer_watch/），不爬站、不动 data/smartbyte_site_raw。
+  改回 WATCH_ONLY=0 即恢复 v3.2 行为。监控触发序号 #1：2026-10-23 首轮基线。
 """
 import hashlib
 import json
@@ -1517,7 +1521,33 @@ def _crash(exc):
         pass
 
 
+def _watch_only_flag():
+    """v3.3（T29-U18）：scripts/web_watch/RUN_ON_CRAWL 含 WATCH_ONLY=1 时，本工作流这次运行只跑成单客户活跃平台监控，不爬站。
+    原因：沙箱无外网，监控必须在运行器上跑；本工作流由「推送触及 crawl.py」触发且与 drive-smartbyte-ingest 互不占并发组。"""
+    flag = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "web_watch", "RUN_ON_CRAWL")
+    try:
+        with open(flag, encoding="utf-8") as f:
+            return any(ln.strip() == "WATCH_ONLY=1" for ln in f)
+    except OSError:
+        return False
+
+
+def _run_customer_watch():
+    script = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "web_watch", "watch.py")
+    log("[watch] WATCH_ONLY=1 → python scripts/web_watch/watch.py（成单客户活跃平台监控），不爬站")
+    try:
+        r = subprocess.run([sys.executable, os.path.abspath(script)], check=False, timeout=3600)
+        log(f"[watch] exit {r.returncode}")
+    except Exception as e:  # noqa: BLE001
+        log(f"[watch] failed: {e!r}")
+    for d in ("downloads", "images"):
+        os.makedirs(os.path.join(BIN, d), exist_ok=True)  # 工作流的 zip 步骤要 cd 进 BIN
+
+
 if __name__ == "__main__":
+    if os.environ.get("GITHUB_ACTIONS") and not os.environ.get("CRAWL_HOST") and _watch_only_flag():
+        _run_customer_watch()
+        sys.exit(0)
     try:
         if _already_complete(OUT) and not os.environ.get("CRAWL_RECRAWL"):
             # v3.0：该站已整站抓齐（summary.json complete=true）→ 不重抓（CRAWL_RECRAWL=1 强制）

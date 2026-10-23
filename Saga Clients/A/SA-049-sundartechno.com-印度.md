@@ -28,7 +28,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-22
+updated: 2026-10-23
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -91,6 +91,9 @@ updated: 2026-10-22
   > 来源：PI.zip:14 印度 Manoj 可发展/CI_STSC20260212014.xls（抓取 2026-02-12）
 - **【PI】PI 包文件夹「印度 Manoj 可发展」：Simon 标签 可发展；单号 4 个，2025-01-07 → 2026-02-12，销售 USD 875.0 / RMB 0，Simon 成本统计利润合计 RMB 1227.6**
   > 来源：PI.zip:14 印度 Manoj 可发展（抓取 2026-10-22）
+- **【公开平台核查（T29-U18）】CEO Manoj Kumar N.（LinkedIn 5K followers）：25 年嵌入式/国防/航电经验；STS 帮客户选型集成工业 PC + I/O 卡 + 网关 + 摄像头 + 网络设备；sales@sundartechno.com，WA +91-9482081014**
+  > Sundar Techno Solutions can help customers select and integrate the industrial PC with suitable I/O cards, gateways, cameras, networking equipment and operator displays … WA/MOB: +91-9482081014
+  > 来源：https://www.linkedin.com/in/manoj-kumar-n-b4ba7a32/（抓取 2026-10-23）
 - **KP**：Manoj Kumar N（Founder & CEO（成单联系人））sales@sundartechno.com +91 94820 81014（WhatsApp 已加）〔https://sundartechno.com/〕
 - **KP**：Manoj Kumar（CEO）sales@sundartechno.com 〔PI.zip 单据〕
 - **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 可发展 → A
@@ -117,8 +120,9 @@ updated: 2026-10-22
 | STS | STS05G / STS-UM42POE | 5 口千兆非管理 / 4+1 百兆 PoE | STI-144GP | https://www.sundartechno.in/unmanaged-industrial-grade-ethernet-switch.html（2026-10-21） |
 | STS | STS1012-M 10GE EN50155 铁路交换机（M12） | 铁路/圆形连接器——Saga 不做（守界） | —（不报） | https://www.sundartechno.in/unmanaged-industrial-grade-ethernet-switch.html（2026-10-21） |
 
-- **触达通道（公开）**：网站: https://sundartechno.com/ · https://www.sundartechno.in/（IndiaMART）；直邮: sales@sundartechno.com；电话/WhatsApp: +91 98808 22633（用户表，已加）；联系人: Manoj Kumar N（Founder & CEO，成单）
+- **触达通道（公开）**：网站: https://sundartechno.com/ · https://www.sundartechno.in/（IndiaMART）；直邮: sales@sundartechno.com；电话/WhatsApp: +91 98808 22633（用户表，已加）；联系人: Manoj Kumar N（Founder & CEO，成单）；公开动态平台（监控中，T29-U18）: LinkedIn 公司页（39 followers，2 周前发 4U 工业机箱「Make in India」）；CEO Manoj Kumar N. 个人页（5K followers，常发工业 PC/边缘 AI）；官网 sundartechno.com（RSS）+ embeddedautomation.org + IndiaMART 迷你站 sundartechno.in；YouTube @SUNDARTECHNOSOLUTIONS；X @SundarTechno；Instagram；Facebook
 - **近况信号**：
+  - 2026-10-23 核查：STS 是 IBASE / Volktek（台湾工业交换机厂）/ Panasonic Toughbook 的印度代理，并自产工业机箱/显示一体机（OEM）；Volktek 是现成的竞品位——切入点 = 同规格宽温 PoE 交换机比 Volktek 便宜 + 可贴 STS 标；KP 在 LinkedIn 活跃（5K followers），动态用 web 搜索跟
   - IndiaMART 店铺以 STS 品牌列出 20+ 款工业交换机，MOQ 1–5 台，「Made in India」——典型贴牌 + 本地组装/贴标模式，持续需要 ODM 货源（2026-10-21）
   - 用户表：2023-06 成单（2×2 bypass 工业 FS 100 台需求），此后无跟进记录
 - **风险/边界**：客户面向国防/铁路/智慧城市——国防与铁路项目守界，只供工厂/智慧城市民用项目；「Made in India」标注要求中性包装 + 可能要求 SKD/本地组装；2023 年后沉默 2 年，需重新激活
@@ -288,12 +292,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-05**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-06**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 82）
+- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 82）
 
 ---
 
-*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

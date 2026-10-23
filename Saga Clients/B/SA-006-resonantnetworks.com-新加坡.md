@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-22
+updated: 2026-10-23
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -90,6 +90,15 @@ updated: 2026-10-22
   > 来源：PI.zip:11 新加坡 Au gg/普通快递发票.xlsx（抓取 2024-09-06）
 - **【PI】PI 包文件夹「新加坡 Au gg」：Simon 标签 gg；单号 1 个，2024-09-06 → 2024-09-06，销售 USD 185.0 / RMB 0，Simon 成本统计利润合计 RMB 336.63**
   > 来源：PI.zip:11 新加坡 Au gg（抓取 2026-10-22）
+- **【公开平台核查（T29-U18）】GitHub 组织 Resonant-Networks：2026-08-31 创建；仓库 zpenodegrid（2026-10-09）、containerlab、aiagentsrepo、adtran-alm、rm1dev-proxmox、fntsolution（均 2026-10-06）；提交者 acestraxionweb（Kuala Lumpur，"nope. im not a coder. just a problem solver"）**
+  > feat: initialize ZPE Systems Nodegrid documentation and tool … feat: initialize Adtran ALM fiber monitoring and license ser… feat: initialize FNT documentation repository as source of t…
+  > 来源：https://github.com/Resonant-Networks（抓取 2026-10-23）
+- **【公开平台核查（T29-U18）】adtran-alm README：「documents the official Adtran order 31018123 (PO: OID-537157) for Resonant Networks Pte Ltd」；containerlab README 含 access-comparison.md「Singapore vs Malaysia DC」；zpenodegrid = 裸金属数据中心带外管理与 RS-232 控制台**
+  > This repository documents the official Adtran order **`31018123`** (PO: `OID-537157`) for **Resonant Networks Pte Ltd** … access-comparison.md # Access Architecture: Singapore vs Malaysia DC
+  > 来源：https://github.com/Resonant-Networks/adtran-alm（抓取 2026-10-23）
+- **【公开平台核查（T29-U18）】官网联系页：马来西亚办公室 Unit C-1-13 CoPlace 2, Cyberjaya；邮箱 11101110@resonantnetworks.com；+65 6871 4128**
+  > Malaysia Office Unit C-1-13 CoPlace 2, Block 2260, Jalan Usahawan 1, 63000 Cyberjaya, Selangor
+  > 来源：https://resonantnetworks.com/contact-us/（抓取 2026-10-23）
 - **KP**：—（销售邮箱（Crunchbase 公开））sales@resonantnetworks.com +65 6871 4128〔https://www.crunchbase.com/organization/resonant-networks〕
 - **KP**：Au Wai Choon（单据联系人）sales-inf@resonantnetworks.com 〔PI.zip 单据〕
 - 备注：A 级确认（成单 + 数据中心网络集成）；对位 Hohunet/CENTEC 线 10G/25G（STH 系列）与 STC L3 48 口，而非 PoE 接入。
@@ -111,8 +120,9 @@ updated: 2026-10-22
 |---|---|---|---|---|
 | （项目采购） | MPO/光纤周边；数据中心机柜侧交换机 | 用户表：买过光纤周边，也能用到交换机 | STC-448XGGM(L3) | （本地 Clients/ 表格，无公开 URL）（用户表） |
 
-- **触达通道（公开）**：直邮: trevorloijt@resonantnetworks.com（Trevor Loi，成单）/ sales@resonantnetworks.com；LinkedIn: https://sg.linkedin.com/company/resonant-networks-pte-ltd；网站: https://resonantnetworks.com/；电话: +65 6871 4128（官网公开）；邮箱（公开）: 11101110@resonantnetworks.com（官网通用）
+- **触达通道（公开）**：直邮: trevorloijt@resonantnetworks.com（Trevor Loi，成单）/ sales@resonantnetworks.com；LinkedIn: https://sg.linkedin.com/company/resonant-networks-pte-ltd；网站: https://resonantnetworks.com/；电话: +65 6871 4128（官网公开）；邮箱（公开）: 11101110@resonantnetworks.com（官网通用）；公开动态平台（监控中，T29-U18）: GitHub 组织 Resonant-Networks（2026-08-31 建；6 仓库 2026-10-06/09 推送，唯一提交者 acestraxionweb 吉隆坡）；LinkedIn 公司页 138 followers / 8 员工；官网 resonantnetworks.com（WordPress，2025-03 改版后 RSS 无新文）；SG UEN 202005761Z
 - **近况信号**：
+  - ⬆ 2026-10-23 核查：Simon 标 gg 的 Resonant Networks 其实正处在扩张期——2026-08-31 开 GitHub 组织，10 月初连推 6 个「source of truth」仓库（ZPE Nodegrid 带外管理、Containerlab + Nokia SR Linux 园区拓扑、Adtran/ADVA FSP 3000 ALM 光纤监测、Proxmox 裸金属、FNT Command DCIM、AI 运维 agent），README 写明 Resonant Networks Pte Ltd、「Singapore vs Malaysia DC」、Adtran 订单 31018123；2025-07-08 ACRA 主业改为「数据中心网络系统供应与专业服务」；马来西亚 Cyberjaya 有办公室。建议：从 gg 提回 B（人工定级由 Simon 决定），切入点 = 实验室/testbed 与 DC 带外管理网的接入交换机（STC-4168XGGCM / STC-448XGGPM / 10G 上联款）
   - 2025：主营业务代码变更为数据中心网络系统供应——从光网络工程向 DC 设备供应延伸（recordowl 2026-10 快照）
   - 用户表：成单（Trevor Loi，solution provider）
   - 官网产品页有「Ethernet-over-Copper Extender in SFP form factor」等小众 SFP 形态产品——与 Saga 光模块/MC/DWDM 边缘位（Hohunet CENTEC 线）相邻；接入层交换机非其主业
@@ -297,12 +307,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 130）；人工/调研定级 → B
+- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 130）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

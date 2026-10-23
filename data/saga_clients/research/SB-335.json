@@ -64,6 +64,13 @@
    "quote": "",
    "url": "PI.zip:1 格鲁吉亚 George gg",
    "date": "2026-10-22"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "RIPE NCC 成员名录：Delta Consulting LLC，Lvov Str 72，0160 Tbilisi，+995577578811，sales@DC.ge；ipinfo AS209786 1,024 IPv4（2018-12 分配）",
+   "quote": "Delta Consulting LLC — RIPE Network Coordination Centre … sales@DC.ge",
+   "url": "https://www.ripe.net/membership/member-support/list-of-members/ge/dc/",
+   "date": "2026-10-23"
   }
  ],
  "kp": [
@@ -103,9 +110,11 @@
  ],
  "channels": {
   "role": "系统集成商（企业 + 政府项目）",
-  "region": "格鲁吉亚"
+  "region": "格鲁吉亚",
+  "公开动态平台（监控中，T29-U18）": "官网 dc.ge / delta-consulting.ge；Facebook deltaconsultingofficial；RIPE 成员 + AS209786（1,024 IPv4，ISP/托管）；美国 SAM 注册（UEI J9LKEG5JR7D6，CAGE SJFH4）"
  },
  "signals": [
+  "2026-10-23 核查：Delta Consulting 是第比利斯系统集成商（D&B 30 人、$2.05M、负责人 Giorgi Jaliashvili）+ 自有 AS（RIPE 成员）+ 2020 起美国联邦注册（可能承接美使馆/USAID 本地 IT 项目）；伙伴清单全是 Cisco/Juniper/Dell/Lenovo/Cambium/Teltonika/Dahua 等大牌——Saga 只在「低价项目备选」有机会，gg 维持",
   "已从中国同行（新桥）采购同类工业小壳机 → 需求真实、在比价",
   "2025-11 新需求：小型 8 口大功率 PoE",
   "CEO 直接对接"
@@ -134,5 +143,12 @@
   "rmb": 0.0,
   "profit_rmb": 177.1,
   "models": "STC-028GFP、STC-128GFP"
+ },
+ "watch": {
+  "as_of": "2026-10-23",
+  "github_watch": [],
+  "web_watch_targets": "scripts/web_watch/targets.json#SB-335",
+  "status": "data/customer_watch/当前状态.md",
+  "log": "data/customer_watch/变化日志.md"
  }
 }

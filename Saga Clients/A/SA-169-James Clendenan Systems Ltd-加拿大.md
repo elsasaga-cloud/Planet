@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-22
+updated: 2026-10-23
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -74,10 +74,26 @@ updated: 2026-10-22
 - **【S 邮箱原文】2024-06-27 Simon 向 James 发 Invoice 并承诺「I am now working on the UL listed PSU. 52~57VDC output. 250W~300W power budget」；James 2024-06-28 回复在 24–36 小时内付款；UL 需求只落在 PSU 配件，不在交换机**
   > I am now working on the UL listed PSU. 52~57VDC output. 250W~300W power budget. I will let you know if I have news.
   > 来源：（S 邮箱 2024-06-27 07:25Z Simon→james@clendenan.ca 主题 Invoice，data/gmail_s/messages/2024/2024-06.jsonl）（抓取 2026-10-22）
+- **【公开平台核查（T29-U18）】Control Ready 官网：加拿大应急/活动响应技术方案，SCOUT（Smart Connection Operations United Toolkit）便携 Wi-Fi/电话/数据箱，BARK（Boundary Alert Response Kit）拖车传感告警，POST 应急数字标牌；均「Designed and Built in Canada with local components and suppliers」**
+  > SCOUT … Resilient, to-go Wi-Fi, phone, and data storage solutions for event management—all in convenient grab-and-go cases … Built in Canada with local canadian components and suppliers
+  > 来源：https://www.controlready.ca/（抓取 2026-10-23）
+- **【公开平台核查（T29-U18）】Control Ready About：James Clendenan Systems Ltd. 2012-09 创立；James = Queen's 计算机工程，曾任职 Pixar Canada / Sophos / HootSuite / 奥运转播 OBS；专长 ISP 与中小企业网管**
+  > James Clendenan Systems Ltd. was launched by James Clendenan in September 2012 … His past experience include stints with Pixar Canada, Sophos, HootSuite, and the Olympic Broadcasting Service
+  > 来源：https://www.controlready.ca/about（抓取 2026-10-23）
+- **【公开平台核查（T29-U18）】Alignable 商家页：北温哥华，电信/计算机服务/ISP；托管网络起价 15$/设备/月；光纤熔接、固定无线、电话系统**
+  > Managed Networks Starting at 15$/device/month for monitoring and configuration services … Networking, Wi-Fi, Fixed Wireless, Fiber Optics splicing and repair
+  > 来源：https://www.alignable.com/north-vancouver-bc/james-clendenan-systems-ltd（抓取 2026-10-23）
 - **KP**：James Clendenan（单据联系人）james@clendenan.ca 〔PI.zip 单据〕
 - **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）
 - 备注： ｜ 针对性加厚 2026-10-22（UL PSU 线索，T29-U13 ②）
 
+### 加厚挖掘（2026-10-23 · 公开平台核查（T29-U18，针对性：只核活跃平台与触达通道））
+
+- **触达通道（公开）**：公开动态平台（监控中，T29-U18）: 新品牌 Control Ready（controlready.ca，Squarespace）：SCOUT 移动办公箱 / BARK 移动告警套件 / POST 应急数字标牌；Alignable 商家页；LinkedIn 个人页（James Clendenan）
+- **近况信号**：
+  - 2026-10-23 核查：James 另起品牌 Control Ready——面向应急/活动响应的「拎走即用」套件（SCOUT Wi-Fi+电话+存储箱、BARK 拖车传感告警、POST 标牌），宣称 Built in Canada with local components → 套件里需要小型宽温 PoE/工业交换机；可把 STI-154GP / STI-288DGGPM 作为 SCOUT 箱内件推荐（注意其「本地元件」话术，供货以中性包装）
+- **风险/边界**：【2026-10-22 第二遍复盘】S 邮箱全库 13,583 封里唯一的 UL 需求来自本户（UL listed 52–57 VDC 250–300 W PSU，2024-06）；Simon 2023-12 曾向 Mencom 问 UL DIN 电源 → 跟进时可直接给 MEAN WELL UL 版电源型号 + 价格（Drive《SmartByte》有 MEAN WELL 价目表），交换机本体不承诺 UL。
+- **Saga 对位结论**：P1 待核型（无标准对应）（25% 档）——成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -224,12 +240,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-05**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-06**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 98）
+- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 98）
 
 ---
 
-*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

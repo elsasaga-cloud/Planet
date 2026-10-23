@@ -1,0 +1,188 @@
+{
+  "_comment": "T29-U18（2026-10-23）：PI 包 20 家成单客户中除 NYNEX（已有 scripts/github_watch）以外 19 家 + NYNEX 官网 的「持续更新平台」监控清单。只读抓取；沙箱无外网，由 GitHub Actions 运行器执行 scripts/web_watch/watch.py。kind：rss（RSS/Atom，含 YouTube 频道 feed）| html（正文哈希 + 行级 diff；include/exclude 为正则）| json（字段提取比较）| sitemap（URL + lastmod）| github（账号仓库 pushed_at + 公开事件）| youtube_handle（先解析 channelId 再取 feed）。LinkedIn / Facebook / Instagram / X 有登录墙不抓，只在文档里记录链接，由人工定期看。",
+  "customers": [
+    {
+      "code": "SA-168", "name": "Angora Networks（安卡拉，自有品牌 VERGE 交换机）", "label": "活跃",
+      "sources": [
+        {"id": "site_feed", "kind": "rss", "url": "https://www.angoranetworks.com/feed/", "note": "WordPress 新闻/博客 RSS（最后一篇 2023-12-06 数据二极管 ModBUS/OPC）"},
+        {"id": "home_en", "kind": "html", "url": "https://www.angoranetworks.com/?lang=en", "note": "英文首页 News 区块"},
+        {"id": "verge_family", "kind": "html", "url": "https://www.angoranetworks.com/verge-network-switch-family/?lang=en", "note": "VERGE 交换机产品族页——新机型/新规格会先出现在这里"},
+        {"id": "support_portal", "kind": "html", "url": "https://support.angoranetworks.com/", "note": "在线文档/支持门户（2026-10-23 02:40Z Cloudflare 522 源站超时）"},
+        {"id": "youtube", "kind": "rss", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCAG46dVy-wxXtO-_b7fTPA", "note": "官方 YouTube 频道（官网 sameAs）"},
+        {"id": "github_anwHub", "kind": "github", "login": "anwHub", "note": "官方 GitHub 组织 Angora Networks Open Repository（2020-01 建，1 仓库 3rdPartyConfigs：FreeRADIUS 配置）"}
+      ],
+      "manual": ["https://www.linkedin.com/company/angora-networks（2,110 followers）", "https://x.com/angoranetworks", "https://www.instagram.com/angora_networks/"]
+    },
+    {
+      "code": "SB-473", "name": "Netaş Telekomünikasyon A.Ş.（伊斯坦布尔，BIST: NETAS，ZTE 控股）", "label": "活跃",
+      "sources": [
+        {"id": "media_center", "kind": "html", "url": "https://netas.com.tr/medya-merkezi", "url_fallback": "https://netas.com.tr/en/media-center", "include": "(?is)<main.*?</main>|(?is)<body.*", "exclude": ["(?is)<div[^>]*wt-cli.*?</div>\\s*</div>\\s*</div>"], "note": "媒体中心：季报、任命、合作（2026-08-03 董事长 Zhi Ling；2026-06 1,958 万美元服务器订单；H1 2026 订单 110 亿 TL）"},
+        {"id": "home", "kind": "html", "url": "https://netas.com.tr/", "note": "首页横幅/公告"},
+        {"id": "kap_search", "kind": "html", "url": "https://www.kap.org.tr/tr/sirket-bilgileri/ozet/1061-netas-telekomunikasyon-a-s", "note": "KAP（公开披露平台）公司页；若 URL 失效改抓 kap.org.tr 搜索"}
+      ],
+      "manual": ["https://www.linkedin.com/company/netas（员工 2,000+；KP Ender Bulut / Burak Ozdemir 个人页用 web 搜索看动态）", "https://www.hurriyet.com.tr/haberleri/netas（媒体聚合）"]
+    },
+    {
+      "code": "SA-170", "name": "Biz-Ethics Ltd. / BEL Networks（拉各斯，自有品牌 BNSC-）", "label": "活跃",
+      "sources": [
+        {"id": "domain_home", "kind": "html", "url": "https://belnetworks.com/", "note": "2026-10-23 为 1st Domains（新西兰）停放页——域名已不在客户手里；若恢复成真实网站 = 重大变化"},
+        {"id": "domain_rdap", "kind": "json", "url": "https://rdap.verisign.com/com/v1/domain/belnetworks.com", "fields": ["status", "events", "nameservers"], "note": "注册数据：2024-08-16 被重新注册（eNom，NS ns1/ns2.1stdomains.net.nz），到期 2027-08-16，last changed 2026-07-19"}
+      ],
+      "manual": ["LinkedIn 公司页未找到（搜索被美国 BEL Network Integration & Support / 比利时 Belnet 淹没）", "ngcontacts.com 目录条目：BIZ-ETHICS LTD. 计算机网络/监控/门禁/电源设备", "联系只剩 WhatsApp +234 702 918 6461（PI 单据）"]
+    },
+    {
+      "code": "SA-171", "name": "PBA Forever Technology Co., Ltd.（北榄府 Bang Phli，监控安装商 pbacctv.com）", "label": "活跃",
+      "sources": [
+        {"id": "home", "kind": "html", "url": "https://www.pbacctv.com/", "note": "首页促销套餐（Hikvision 套装价）"},
+        {"id": "promos", "kind": "html", "url": "https://www.pbacctv.com/home/item/", "note": "SETCCTV 促销列表"},
+        {"id": "poe_products", "kind": "html", "url": "https://www.pbacctv.com/home/product/?id=124", "note": "电源/适配器类目（他们自己上架的配套硬件）"}
+      ],
+      "manual": ["LINE: peeranun8336；电话 098-265-6972 / 086-544-2684 / 02-050-0699（站内）", "Facebook 页未检索到确切 URL（站内链接待在 Actions 抓到的首页快照里找）"]
+    },
+    {
+      "code": "SA-169", "name": "James Clendenan Systems Ltd.（北温哥华）+ 新品牌 Control Ready", "label": "活跃",
+      "sources": [
+        {"id": "controlready_home", "kind": "html", "url": "https://www.controlready.ca/", "note": "新品牌官网（Squarespace）：SCOUT 移动办公箱 / BARK 移动告警 / POST 数字标牌——应急通信套件，需要小型 PoE/工业交换机"},
+        {"id": "controlready_scout", "kind": "html", "url": "https://www.controlready.ca/scout", "note": "SCOUT 产品页（元件/规格变化）"},
+        {"id": "controlready_about", "kind": "html", "url": "https://www.controlready.ca/about", "note": "公司沿革（JCS 2012-09 创立）"},
+        {"id": "jcs_home", "kind": "html", "url": "https://clendenan.ca/", "note": "老域名（2026-10-23 02:40Z 沙箱侧抓取失败，待运行器核实）"},
+        {"id": "alignable", "kind": "html", "url": "https://www.alignable.com/north-vancouver-bc/james-clendenan-systems-ltd", "note": "Alignable 商家页（服务/价格 15$/device/month）"}
+      ],
+      "manual": ["LinkedIn 个人页：James Clendenan（Queen's 计算机工程；前 Pixar Canada / Sophos / HootSuite / OBS）"]
+    },
+    {
+      "code": "SA-026", "name": "БитБук / BitBook（下塔吉尔，自有品牌 PRIORAT 交换机 + 条码设备）", "label": "可发展",
+      "sources": [
+        {"id": "blog", "kind": "html", "url": "https://bitbuk.ru/blog/", "include": "(?is)<h1[^>]*>.*", "note": "Бит.Блог：作者 Андрей Татарников（我方 KP）。2026-07-06《Оборудование под Вашим брендом》= 对外承接 OEM/ODM 贴牌"},
+        {"id": "switch_catalog", "kind": "html", "url": "https://bitbuk.ru/category/sistemy-videonablyudeniya/kommutatory/", "note": "PRIORAT 交换机类目（型号与卢布价：PRT-SG-1226P 32,120₽ / PRT-SF-1226P 24,900₽ / PRT-SG-1208PI 工业 14,600₽ / PRT-SG-1424M 14,300₽ / PRT-SF-1110PO IP65 9,400₽）"},
+        {"id": "poe_catalog", "kind": "html", "url": "https://bitbuk.ru/category/sistemy-videonablyudeniya/setevoe-poe-oborudovanie/", "note": "PoE 网络设备类目"},
+        {"id": "brand_page", "kind": "html", "url": "https://bitbuk.ru/brand/bitbuk/", "note": "БитБук 品牌页"},
+        {"id": "support", "kind": "html", "url": "http://help.priorat.ru/", "note": "PRIORAT 技术支持站（固件/说明书更新）"}
+      ],
+      "manual": ["电话 +7 (343) 2010444 / +7 (3435) 37-87-87；info@bitbuk.ru（博客公布）"]
+    },
+    {
+      "code": "SA-011", "name": "Vi-Link / Vilink Communications（加州 Irvine，交通/工业光纤设备）", "label": "可发展",
+      "sources": [
+        {"id": "shop_sitemap", "kind": "sitemap", "url": "https://vilink.us/product-sitemap.xml", "note": "新站 vilink.us（WooCommerce）产品 sitemap：IE/ME/EN 工业交换机、MC 媒体转换器、VL/HL/DL 视频光端机、AOC/DAC；/shop lastmod 2026-08-06"},
+        {"id": "shop_home", "kind": "html", "url": "https://vilink.us/", "note": "新站首页"},
+        {"id": "product_im28", "kind": "html", "url": "https://vilink.us/product/im28/", "note": "IM28 工业网管千兆 8T+2SFP 标价 $395（对标 Saga STI-288DGGPM 139.9/145.7/151.6）"},
+        {"id": "old_site", "kind": "html", "url": "https://www.vilinknet.com/", "note": "老站"}
+      ],
+      "manual": ["ZoomInfo：11-50 人，450 Goddard, Irvine CA 92618", "sales@vilinknet.com / 714-312-0654（MC12 规格书页脚）"]
+    },
+    {
+      "code": "SA-049", "name": "Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理）", "label": "可发展",
+      "sources": [
+        {"id": "site_feed", "kind": "rss", "url": "https://sundartechno.com/feed/", "note": "官网 RSS"},
+        {"id": "home", "kind": "html", "url": "https://sundartechno.com/", "note": "官网首页"},
+        {"id": "youtube", "kind": "youtube_handle", "url": "https://www.youtube.com/@SUNDARTECHNOSOLUTIONS", "note": "YouTube 频道（解析 channelId → feed）"},
+        {"id": "indiamart_minisite", "kind": "html", "url": "https://www.sundartechno.in/", "note": "IndiaMART 迷你站（产品上新）"}
+      ],
+      "manual": ["https://in.linkedin.com/company/sundar-techno-solutions（39 followers；2 周前发 4U 工业机箱 Make in India）", "https://www.linkedin.com/in/manoj-kumar-n-b4ba7a32/（CEO，5K followers，常发边缘 AI/工业 PC）", "https://x.com/SundarTechno", "https://www.instagram.com/sundar_techno_solutions/", "https://www.facebook.com/profile.php?id=100063936730171"]
+    },
+    {
+      "code": "SA-012", "name": "GoGreenIT（英国 Derby，Chris Clemson；自托管 Mastodon/PeerTube/XMPP）", "label": "可发展",
+      "sources": [
+        {"id": "mastodon_instance", "kind": "json", "url": "https://mammut.gogreenit.net/api/v1/instance", "fields": ["version", "stats", "contact_account.username", "contact_account.statuses_count", "contact_account.last_status_at"], "note": "自建 Mastodon 实例（v4.7.3，9 用户，16,382 条；站长 @chewie 15,426 条，最后发帖 2026-10-22）"},
+        {"id": "chewie_rss", "kind": "rss", "url": "https://mammut.gogreenit.net/@chewie.rss", "note": "站长 Chewie（= gogreenit.net 技术负责人，疑即 Chris Clemson）公开帖 RSS"},
+        {"id": "home", "kind": "html", "url": "http://gogreenit.net/", "note": "官网（静态；客户案例 The New Ellington Leeds / Splendid Hotels）"}
+      ],
+      "manual": ["wiki.sogo.nu 署名 Chris.Clemson@GoGreenIT.Net（2017）", "xmpp.org 2026-05 通讯提到 gogreenit.net；ytdl-patched 收录其 PeerTube 实例"]
+    },
+    {
+      "code": "SA-001", "name": "Astel Digicom Electronics LLC（迪拜 Deira 卫星市场，线缆/光纤/FTTH 批发）", "label": "可发展",
+      "sources": [
+        {"id": "home", "kind": "html", "url": "https://asteldigicom.com/", "note": "官网（静态 HTML）"},
+        {"id": "contact", "kind": "html", "url": "https://asteldigicom.com/contactu.html", "note": "联系页（asteldigicom@eim.ae，+971-50-6520753）"}
+      ],
+      "manual": ["https://www.linkedin.com/company/astel-digicom-electronics-llc（112 followers；Sanjay Singla GM 332 followers；Yash Shahani / Rehman Rahim 销售）"]
+    },
+    {
+      "code": "SC-1006", "name": "WizardsInc Sdn Bhd（吉隆坡 Technology Park Malaysia，ICT/嵌入式/门禁 CCTV）", "label": "可发展",
+      "sources": [
+        {"id": "site_feed", "kind": "rss", "url": "http://wizardsinc.co/?feed=rss2", "note": "WordPress RSS"},
+        {"id": "home", "kind": "html", "url": "http://wizardsinc.co/", "note": "官网首页"},
+        {"id": "contact", "kind": "html", "url": "http://wizardsinc.co/?page_id=40", "note": "联系页（info@/support@wizardsinc.co，热线 1-700-816-003）"}
+      ],
+      "manual": ["10times：Raja Kumaran（CEO）参观 LED Light Malaysia 2026-07（标牌/LED 方向）", "GitHub 用户 WizardsInc-Maintenance（2024-02 建，0 公开仓库，2026-10-19 有活动）归属未证实"]
+    },
+    {
+      "code": "SA-006", "name": "Resonant Networks Pte Ltd（新加坡 Ubi + 马来西亚 Cyberjaya，数据中心/光网络工程）", "label": "gg（但 2026-08 起 GitHub 极活跃）",
+      "sources": [
+        {"id": "github_org", "kind": "github", "login": "Resonant-Networks", "note": "官方 GitHub 组织（2026-08-31 建；6 仓库 2026-10-06/09 推送：ZPE Nodegrid、Containerlab(Nokia SR Linux)、Adtran/ADVA ALM、Proxmox、FNT Command DCIM、AI agents；README 写明 Resonant Networks Pte Ltd、Singapore vs Malaysia DC）"},
+        {"id": "github_committer", "kind": "github", "login": "acestraxionweb", "note": "唯一提交者（吉隆坡，2025-04 注册）"},
+        {"id": "site_feed", "kind": "rss", "url": "https://resonantnetworks.com/feed/", "note": "官网 RSS（2025-03 改版后无新文）"},
+        {"id": "home", "kind": "html", "url": "https://resonantnetworks.com/", "note": "官网首页"}
+      ],
+      "manual": ["https://sg.linkedin.com/company/resonant-networks-pte-ltd（138 followers，8 员工：Wai Choon Au MD、Nick Su、Ts. Mohd Idhamm Ibrahim 马来西亚国家经理、Jerlyn Chia）", "recordowl：UEN 202005761Z；2025-07-08 主业改为 SUPPLY NETWORK SYSTEMS AND PROFESSIONAL SERVICES FOR DATA CENTRE"]
+    },
+    {
+      "code": "SB-335", "name": "Delta Consulting LLC（第比利斯，系统集成 + AS209786）", "label": "gg",
+      "sources": [
+        {"id": "home", "kind": "html", "url": "https://www.dc.ge/", "note": "官网"},
+        {"id": "home_alt", "kind": "html", "url": "https://www.delta-consulting.ge/", "note": "备用域名（伙伴：Lenovo/Cisco/Dell/Juniper/Cambium/Teltonika/Dahua/Pelco…）"},
+        {"id": "ripe_asn", "kind": "json", "url": "https://rdap.db.ripe.net/autnum/209786", "fields": ["name", "status", "events"], "note": "RIPE AS209786（1,024 IPv4；ISP/托管业务）"}
+      ],
+      "manual": ["https://www.facebook.com/deltaconsultingofficial", "D&B：30 人，$2.05M，负责人 Giorgi Jaliashvili；美国 SAM 注册 UEI J9LKEG5JR7D6 / CAGE SJFH4（2020-07）"]
+    },
+    {
+      "code": "SB-1334", "name": "Fastball（德里 Jhilmil，光纤工具/FBC- 自有品牌交换机，Rishi Kumar Bansal）", "label": "gg",
+      "sources": [
+        {"id": "site_feed", "kind": "rss", "url": "https://fastball.in/feed/", "note": "WordPress RSS（2023 起 AI 话术改版）"},
+        {"id": "home", "kind": "html", "url": "https://fastball.in/", "note": "官网首页"},
+        {"id": "indiamart", "kind": "html", "url": "https://www.indiamart.com/fastball/", "note": "IndiaMART 店铺（有 FBC-204GP 4 口工业交换机 = 贴我方 STC-204GP 同款命名；20 口千兆光纤交换机）"}
+      ],
+      "manual": ["TradeIndia 店铺；GST 07AJJPR5445G1ZX，个体 proprietorship 2021"]
+    },
+    {
+      "code": "SC-349", "name": "Obmac Systems（卢萨卡，ICT/机电工程承包）", "label": "gg",
+      "sources": [
+        {"id": "home", "kind": "html", "url": "http://obmacsystems.com/", "note": "官网（模板站，2007-02-13 成立；客户 Chicken Inn / Pizza Inn / Zambia Breweries / Kazungula 口岸）"}
+      ],
+      "manual": ["https://www.linkedin.com/in/francis-chamyolo-3903ba8b/（OBMAC 员工，1K followers，2026 发 11 MWp 光伏项目 → 公司向太阳能 EPC 扩展）", "ZICTA 注册经销商名单（2022-11）"]
+    },
+    {
+      "code": "SA-016", "name": "United Control Engineers India Pvt. Ltd.（大诺伊达，Delta/Schneider/ABB/Phoenix 自动化分销）", "label": "gg",
+      "sources": [
+        {"id": "site_feed", "kind": "rss", "url": "https://unitedcontrolengg.com/feed/", "note": "WordPress 博客 RSS（2026-09/10 仍在更新）"},
+        {"id": "home", "kind": "html", "url": "https://unitedcontrolengg.com/", "note": "官网首页"}
+      ],
+      "manual": ["https://in.linkedin.com/company/united-control-engineers-india-pvt-ltd（989 followers）", "https://www.facebook.com/unitedcontrolengg/", "Pramendra Chaudhary（Director，IndiaMART）"]
+    },
+    {
+      "code": "SB-1335", "name": "ООО «РИО-ИМПОРТ» / 集团 РИО（克拉斯诺亚尔斯克，工控/电气分销，卖 Phoenix Contact PoE）", "label": "gg",
+      "sources": [
+        {"id": "news", "kind": "html", "url": "http://www.rio-krsk.ru/info/news/", "note": "新闻页（有《Прочные коммутаторы PoE》Phoenix Contact 1000/4000 系列到货）"},
+        {"id": "home", "kind": "html", "url": "http://www.rio-krsk.ru/", "note": "官网首页/目录"}
+      ],
+      "manual": ["rio-import2003@mail.ru / rio-2003@mail.ru（站内）；我方单据 rio-popov@mail.ru", "注册主体多家同名（叶卡捷琳堡 ИНН 6658492377 / 莫斯科 2022）"]
+    },
+    {
+      "code": "SA-007", "name": "XSPec Technology Sdn Bhd（Subang Jaya，NDT/安防/国防/医疗设备代理）", "label": "gg",
+      "sources": [
+        {"id": "home", "kind": "html", "url": "https://xspectechnology.com/", "note": "2026 新目录站（54 品牌 86 产品；政府客户 PDRM/Bomba/Kastam/Penjara…）"},
+        {"id": "security_cat", "kind": "html", "url": "https://xspectechnology.com/category/military-defence-security", "note": "军警安防类目（网络产品若出现会在这里）"}
+      ],
+      "manual": ["https://www.linkedin.com/in/sugitowibawa/（CEO，1K followers，2026-05 仍活跃）", "MINDTCE 2026-11-17/18 参展商页 mindtce.com.my/companyprofile/B2611000001"]
+    },
+    {
+      "code": "SA-064", "name": "52 Networks, Inc.（弗吉尼亚 Woodbridge，GSA MAS 47QTCA22D00B3 联邦供应商）", "label": "gg",
+      "sources": [
+        {"id": "home", "kind": "html", "url": "https://52networks.com/", "note": "官网"},
+        {"id": "govtribe", "kind": "html", "url": "https://govtribe.com/vendors/52-networks-inc-dot-907x4", "note": "联邦合同动态（2025-07 NAVWAR $294k；2025-08 Nellis AFB 光纤 $117k；2025-09 CA 国民警卫队 $29k）"},
+        {"id": "gsa_elibrary", "kind": "html", "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QTCA22D00B3&contractorName=52+NETWORKS,+INC.", "note": "GSA eLibrary 合同页（选项期至 2027-07-25）"}
+      ],
+      "manual": ["https://x.com/52networks", "uzair@52networks.com（GSA 公示）；SAM UEI FV4KBSNE5S75 / CAGE 907X4；TAA 限制 = 中国产交换机进不了 MAS 目录"]
+    },
+    {
+      "code": "SA-013", "name": "NYNEX satellite OHG / fiberONE（达姆施塔特）—— GitHub 部分见 scripts/github_watch", "label": "活跃",
+      "sources": [
+        {"id": "nynex_home", "kind": "html", "url": "https://www.nynex.de/", "note": "官网"},
+        {"id": "fiberone_home", "kind": "html", "url": "https://www.fiberone.de/", "note": "fiberONE 品牌站（套餐/覆盖区域扩张 = 需求信号）"},
+        {"id": "peeringdb", "kind": "json", "url": "https://www.peeringdb.com/api/net?asn=200519", "fields": ["data.0.name", "data.0.info_prefixes4", "data.0.info_prefixes6", "data.0.updated", "data.0.netixlan_updated", "data.0.netfac_updated"], "note": "PeeringDB AS200519（互联/机房变化）"}
+      ],
+      "manual": ["GitHub freddy36 → scripts/github_watch（每轮必跑）"]
+    }
+  ]
+}

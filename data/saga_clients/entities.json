@@ -664,6 +664,27 @@
 "quote": "",
 "url": "PI.zip:18 阿联酋 Sanjay 可发展",
 "date": "2026-10-22"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "LinkedIn：Astel Digicom Electronics LLC，Wholesale，11-50 人，Dubai，2012 创立；FTTH/HFC 网络的线缆、网络与光纤设备供应商；地址 Baghlaf Building, Naif Road, Deira",
+"quote": "Cables, Networking and Fiber Optic equipment supplier for all types for FTTH Networks, HFC Networks around the world … Shop no 22, Baghlaf Building, Naif Road, Deira, Dubai",
+"url": "https://www.linkedin.com/company/astel-digicom-electronics-llc",
+"date": "2026-10-23"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "官网联系页：+971-50-6520753 / +971 4 2523480，asteldigicom@eim.ae，周一至周六 09:30–14:00",
+"quote": "Call Us +971-50-6520753 +971 4 2523480 - Email Us asteldigicom@eim.ae",
+"url": "https://asteldigicom.com/contactu.html",
+"date": "2026-10-23"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "RocketReach：8 名员工；管理层 Sanjay Singla（GM）、Yash Shahani、Rehman Rahim（销售代表）；Sanjay 2012 至今 GM，此前 Pan Asian Systems（1993-2001）",
+"quote": "Astel Digicom Electronics LLC employs 8 employees. The Astel Digicom Electronics LLC management team includes Sanjay Singla (General Manger), Yash Shahani …",
+"url": "https://rocketreach.co/astel-digicom-electronics-llc-management_b41a35eeff64aa38",
+"date": "2026-10-23"
 }
 ],
 "notes": "成单客户，S 重点名单；下一步按老客户回访做，主推工业 PoE 整线（替代其在卖的 ONV）。",
@@ -720,9 +741,11 @@
 "channels": {
 "网站/网店": "https://asteldigicom.com/（AED 标价，可下单；首页有 WhatsApp 按钮）",
 "直邮": "asteldig@asteldigicom.ae / asteldigicom@eim.ae / navsim@eim.ae（用户表）",
-"联系人": "Sanjay Singla（GM，成单）"
+"联系人": "Sanjay Singla（GM，成单）",
+"公开动态平台（监控中，T29-U18）": "LinkedIn 公司页（112 followers；员工 Sanjay Singla GM、Yash Shahani / Rehman Rahim / ali khan 销售）；官网 asteldigicom.com（静态 HTML）；B2B 目录 exportersindia / listofcompaniesin；迪拜 Deira Naif Road Baghlaf Building Shop 22（卫星市场）"
 },
 "signals": [
+"2026-10-23 核查：Astel 是迪拜 Deira 卫星市场的线缆/光纤/FTTH/HFC 批发商（2012 年，11-50 人，8 人在册），无博客/新闻源；唯一「动态」= LinkedIn 公司页与 Sanjay 个人页——人工每月看一次即可；对口产品 = FTTH 配套 PoE 交换机/光纤收发器批发价",
 "网店工业 PoE 交换机页面均「In stock」且有 -O 变体——在持续备货销售自有 AST 品牌（2026-10-21）",
 "用户表：问过 ONV 工业 FS 与工业电源；已成单"
 ],
@@ -815,6 +838,13 @@
 "A 邮箱：2025-04 询价的回复、2025-12 发货与到货反馈、2026 年是否复购"
 ],
 "draft_en": null
+},
+"watch": {
+"as_of": "2026-10-23",
+"github_watch": [],
+"web_watch_targets": "scripts/web_watch/targets.json#SA-001",
+"status": "data/customer_watch/当前状态.md",
+"log": "data/customer_watch/变化日志.md"
 }
 }
 },
@@ -2485,6 +2515,27 @@
 "quote": "",
 "url": "PI.zip:11 新加坡 Au gg",
 "date": "2026-10-22"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "GitHub 组织 Resonant-Networks：2026-08-31 创建；仓库 zpenodegrid（2026-10-09）、containerlab、aiagentsrepo、adtran-alm、rm1dev-proxmox、fntsolution（均 2026-10-06）；提交者 acestraxionweb（Kuala Lumpur，\"nope. im not a coder. just a problem solver\"）",
+"quote": "feat: initialize ZPE Systems Nodegrid documentation and tool … feat: initialize Adtran ALM fiber monitoring and license ser… feat: initialize FNT documentation repository as source of t…",
+"url": "https://github.com/Resonant-Networks",
+"date": "2026-10-23"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "adtran-alm README：「documents the official Adtran order 31018123 (PO: OID-537157) for Resonant Networks Pte Ltd」；containerlab README 含 access-comparison.md「Singapore vs Malaysia DC」；zpenodegrid = 裸金属数据中心带外管理与 RS-232 控制台",
+"quote": "This repository documents the official Adtran order **`31018123`** (PO: `OID-537157`) for **Resonant Networks Pte Ltd** … access-comparison.md # Access Architecture: Singapore vs Malaysia DC",
+"url": "https://github.com/Resonant-Networks/adtran-alm",
+"date": "2026-10-23"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "官网联系页：马来西亚办公室 Unit C-1-13 CoPlace 2, Cyberjaya；邮箱 11101110@resonantnetworks.com；+65 6871 4128",
+"quote": "Malaysia Office Unit C-1-13 CoPlace 2, Block 2260, Jalan Usahawan 1, 63000 Cyberjaya, Selangor",
+"url": "https://resonantnetworks.com/contact-us/",
+"date": "2026-10-23"
 }
 ],
 "kp": [
@@ -2540,9 +2591,11 @@
 "LinkedIn": "https://sg.linkedin.com/company/resonant-networks-pte-ltd",
 "网站": "https://resonantnetworks.com/",
 "电话": "+65 6871 4128（官网公开）",
-"邮箱（公开）": "11101110@resonantnetworks.com（官网通用）"
+"邮箱（公开）": "11101110@resonantnetworks.com（官网通用）",
+"公开动态平台（监控中，T29-U18）": "GitHub 组织 Resonant-Networks（2026-08-31 建；6 仓库 2026-10-06/09 推送，唯一提交者 acestraxionweb 吉隆坡）；LinkedIn 公司页 138 followers / 8 员工；官网 resonantnetworks.com（WordPress，2025-03 改版后 RSS 无新文）；SG UEN 202005761Z"
 },
 "signals": [
+"⬆ 2026-10-23 核查：Simon 标 gg 的 Resonant Networks 其实正处在扩张期——2026-08-31 开 GitHub 组织，10 月初连推 6 个「source of truth」仓库（ZPE Nodegrid 带外管理、Containerlab + Nokia SR Linux 园区拓扑、Adtran/ADVA FSP 3000 ALM 光纤监测、Proxmox 裸金属、FNT Command DCIM、AI 运维 agent），README 写明 Resonant Networks Pte Ltd、「Singapore vs Malaysia DC」、Adtran 订单 31018123；2025-07-08 ACRA 主业改为「数据中心网络系统供应与专业服务」；马来西亚 Cyberjaya 有办公室。建议：从 gg 提回 B（人工定级由 Simon 决定），切入点 = 实验室/testbed 与 DC 带外管理网的接入交换机（STC-4168XGGCM / STC-448XGGPM / 10G 上联款）",
 "2025：主营业务代码变更为数据中心网络系统供应——从光网络工程向 DC 设备供应延伸（recordowl 2026-10 快照）",
 "用户表：成单（Trevor Loi，solution provider）",
 "官网产品页有「Ethernet-over-Copper Extender in SFP form factor」等小众 SFP 形态产品——与 Saga 光模块/MC/DWDM 边缘位（Hohunet CENTEC 线）相邻；接入层交换机非其主业",
@@ -2571,6 +2624,16 @@
 "rmb": 0.0,
 "profit_rmb": 336.63,
 "models": "Commercial Switch"
+},
+"watch": {
+"as_of": "2026-10-23",
+"github_watch": [
+"Resonant-Networks",
+"acestraxionweb"
+],
+"web_watch_targets": "scripts/web_watch/targets.json#SA-006",
+"status": "data/customer_watch/当前状态.md",
+"log": "data/customer_watch/变化日志.md"
 }
 }
 },
@@ -2795,6 +2858,27 @@
 "quote": "",
 "url": "PI.zip:9 马来西亚 Sugito gg",
 "date": "2026-10-22"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "xspectechnology.com：Industrial technology, training, and support for Southeast Asia；5 个行业（油气海事、军警安防、生物实验室、医疗、培训）；54 品牌 86 产品；客户墙 PDRM、Bomba、MSAT、SPRM、Kastam、UM、Penjara、UiTM、IMR、LHDN…；Subang Jaya USJ 1/8；inquiry@xspec.com.my",
+"quote": "5 Industries 54 Brands 86 Products … Trusted by government agencies, universities, hospitals, and industry leaders across Malaysia",
+"url": "https://xspectechnology.com/",
+"date": "2026-10-23"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "MINDTCE 2026（8th Malaysia International NDT Conference & Exhibition，2026-11-17/18）参展商档案：XSPEC TECHNOLOGY SDN BHD，联系人 Sugito Wibawa，sugito@xspec.com.my，+60129888086",
+"quote": "XSPec Technology Sdn Bhd (XSPec) is a Malaysian-based technology provider and manufacturing representative … Non-Destructive Testing (NDT) sector",
+"url": "https://mindtce.com.my/companyprofile/B2611000001",
+"date": "2026-10-23"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "Converus 授权服务伙伴名录：MALAYSIA XSPec Technology Sdn Bhd，Sugito Wibawa，+60 (3) 8023 1162",
+"quote": "MALAYSIA XSPec Technology Sdn Bhd Sugito Wibawa … W: xspectechnology.com",
+"url": "https://converus.com/find-a-partner/",
+"date": "2026-09-23"
 }
 ],
 "kp": [
@@ -2828,9 +2912,11 @@
 "channels": {
 "网站": "https://xspectechnology.com/ · xspec.com.my",
 "邮箱": "sugito@xspec.com.my（用户表）",
-"WhatsApp / Skype": "+60 12 988 8086 / sugitowibawa（用户表）"
+"WhatsApp / Skype": "+60 12 988 8086 / sugitowibawa（用户表）",
+"公开动态平台（监控中，T29-U18）": "新目录站 xspectechnology.com（2026 改版，MY/SG/ID 三站，54 品牌 86 产品）；CEO Sugito Wibawa LinkedIn（1K followers，2026-05 仍活跃）；展会：MINDTCE 2026-11-17/18（NDT 展参展商）"
 },
 "signals": [
+"2026-10-23 核查：XSPec 定位已非常清楚——油气/海事 NDT、军警安防（Converus 测谎软件授权服务商、Intron NDT 代理）、生物实验室、医疗设备的代理与培训，客户全是马来西亚政府机关（PDRM 警察、Bomba 消防、Kastam 海关、Penjara 监狱、SPRM 反贪…）；2019 年那单酒店网络是偶发；gg 维持，不投入",
 "CEO 直接表示对交换机/PoE 感兴趣并有 2 次实质回复 → 可作东南亚项目配套分销",
 "军警安防代理线 → 守界：仅民用项目供货"
 ],
@@ -2856,6 +2942,13 @@
 "rmb": 0.0,
 "profit_rmb": 3179.39,
 "models": "Commercial Switch"
+},
+"watch": {
+"as_of": "2026-10-23",
+"github_watch": [],
+"web_watch_targets": "scripts/web_watch/targets.json#SA-007",
+"status": "data/customer_watch/当前状态.md",
+"log": "data/customer_watch/变化日志.md"
 }
 }
 },
@@ -4472,6 +4565,20 @@
 "quote": "",
 "url": "PI.zip:6 美国 Thu 可发展",
 "date": "2026-10-22"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "vilink.us 产品 sitemap：/shop lastmod 2026-08-06；产品含 IE5/IE8/IE10/IE12/IE14/IE18/IE24/IE28/IE216（工业非网管）、ME12…ME216（网管）、EN12…EN48、MC10/12/13/14/15/100/10G 媒体转换器、VL/HL/DL 系列视频光端机、10G–100G AOC/DAC",
+"quote": "https://vilink.us/shop/ 2026-08-06T03:32:25+00:00 … /product/ie28/ … /product/me28/ … /product/mc10g/",
+"url": "https://vilink.us/product-sitemap.xml",
+"date": "2026-10-23"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "IM28 工业网管千兆交换机 8×RJ45 + 2×SFP，DIN 导轨 10~47 VDC，-40~85°C，4KV 浪涌，SW-Ring 环网 <20ms，标价 $395.00",
+"quote": "IM28 $395.00 Industrial Gigabits Managed Ethernet Switch, 8* 10/100/1000M TX RJ45, 2* 1000M SX SFP, DIN Rail 10~47 VDC … SW-Ring ring network patent technology (Fault recovery time<20ms)",
+"url": "https://vilink.us/product/im28/",
+"date": "2026-10-23"
 }
 ],
 "kp": [
@@ -4547,9 +4654,11 @@
 ],
 "channels": {
 "网站/网店": "https://vilink.us/（直销 + 购物车）",
-"直邮": "sales@vilinknet.com / thup@vilinknet.com（用户表，成单联系人 Thu Pham）"
+"直邮": "sales@vilinknet.com / thup@vilinknet.com（用户表，成单联系人 Thu Pham）",
+"公开动态平台（监控中，T29-U18）": "新站 vilink.us（WooCommerce 网店，2024-07 建；product-sitemap /shop lastmod 2026-08-06；80+ SKU：IE/ME/EN 工业交换机、MC 媒体转换器、VL/HL/DL 视频光端机、AOC/DAC、IL10 OEO）；老站 vilinknet.com；ZoomInfo 11-50 人"
 },
 "signals": [
+"2026-10-23 核查：Vi-Link 2024-07 上线 vilink.us 网店并持续维护（/shop 2026-08-06 更新），标价 IM28 工业网管 8T+2SFP $395、IL10 OEO $445——Saga STI-288DGGPM 报 139.9/145.7/151.6 USD 有 2.5 倍空间；其产品线（交通路口→TOC 工业环网、SW-Ring <20ms）正是 Saga 工业系列的贴牌对象",
 "2026-09：工业交换机页面图片全部更新（上传日期 2026/09）——仍在维护该产品线（https://vilink.us/industrial-ethernet-switch/ 2026-10-21）",
 "用户表：S 重点名单，已成单（Thu Pham），兴趣 光猫/3G-SDI/VC/SFP/DAC/MC"
 ],
@@ -4687,6 +4796,13 @@
 "subject": "STC-424XGGPM-280W for Vi-Link - price and sample option",
 "body": "Hi Thu,\n\nFollowing up on the 24-port PoE switch I mentioned when the MC1000SC03 converters shipped (DHL 8604097423 - please let me know they arrived in good shape).\n\nSTC-424XGGPM-280W: 24 x 10/100/1000 PoE+ (802.3af/at, 280 W budget) + 4 x 1G/2.5G/10G SFP+, L2+ managed (Web/CLI/SNMP), Marvell AC5. Price: $194 USD EXW per unit (snapshot 2026-10-22, valid 15 days). Vi-Link logo and front-panel printing are free, same as the converters, and a single sample unit is fine to start - sample cost is credited to your first order.\n\nOne question: is this switch for your own Vi-Link label, or for a specific end-customer project?\n\nBest regards,\nSimon\nSaga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)\nhttps://sagatele.com/"
 }
+},
+"watch": {
+"as_of": "2026-10-23",
+"github_watch": [],
+"web_watch_targets": "scripts/web_watch/targets.json#SA-011",
+"status": "data/customer_watch/当前状态.md",
+"log": "data/customer_watch/变化日志.md"
 }
 }
 },
@@ -4940,6 +5056,20 @@
 "quote": "",
 "url": "PI.zip:17 英国 Chris PayPal 可发展",
 "date": "2026-10-22"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "Mastodon 实例 API：mammut.gogreenit.net v4.7.3，9 用户，16,382 条状态；站长账号 @chewie（Owner，2023-06 建，15,426 条，followers 577，最后发帖 2026-10-22），联系邮箱 chewie@int.gogreenit.net",
+"quote": "\"version\":\"4.7.3\" … \"user_count\":9,\"status_count\":16382 … \"username\":\"chewie\" … \"last_status_at\":\"2026-10-22\" … \"roles\":[{\"name\":\"Owner\"}]",
+"url": "https://mammut.gogreenit.net/api/v1/instance",
+"date": "2026-10-23"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "SOGo wiki 署名 Chris.Clemson@GoGreenIT.Net（2017）；neverbounce：Derby DE22 3UP，邮箱格式 first.last@gogreenit.net",
+"quote": "If you have any questions, feel free to email me on Chris[dot]Clemson[at]GoGreenIT[dot]Net",
+"url": "https://wiki.sogo.nu/ZEGReconfiguration",
+"date": "2017-10-29"
 }
 ],
 "grade_override": "A",
@@ -4978,9 +5108,11 @@
 ],
 "channels": {
 "网站": "http://www.gogreenit.net/（Contact Us 表单）",
-"评测页": "http://gogreenit.net/index.php?page=saga-telecom-switch"
+"评测页": "http://gogreenit.net/index.php?page=saga-telecom-switch",
+"公开动态平台（监控中，T29-U18）": "自建 Mastodon 实例 mammut.gogreenit.net（v4.7.3，站长 @chewie 每日发帖，最后 2026-10-22；RSS mammut.gogreenit.net/@chewie.rss）；自建 PeerTube / XMPP 服务；官网 gogreenit.net（静态）；Derby，16 May St"
 },
 "signals": [
+"2026-10-23 核查：GoGreenIT = 英国 Derby 的一人/小团队托管与系统管理商（客户酒店 The New Ellington Leeds、Splendid Hotels），技术负责人 Chris Clemson 自托管 Mastodon（最新版 4.7.3，说明他持续维护基础设施）、PeerTube、XMPP、SOGo——典型 homelab/自托管型买家：小型 2.5G/10G 上联、静音 PoE 机型最对口；他的日常动态在 Mastodon，不在 LinkedIn",
 "**公开好评参考客户**：评测页可作英国/欧洲客户的第三方背书（引用前先征得同意）；评测列出的两项 UI/SFP 缺点应原文转给 SmartByte 作固件改进项（2026-10-21）"
 ],
 "risks": [
@@ -5014,7 +5146,14 @@
 "phone": "",
 "source": "PI.zip 单据"
 }
-]
+],
+"watch": {
+"as_of": "2026-10-23",
+"github_watch": [],
+"web_watch_targets": "scripts/web_watch/targets.json#SA-012",
+"status": "data/customer_watch/当前状态.md",
+"log": "data/customer_watch/变化日志.md"
+}
 }
 },
 {
@@ -6508,6 +6647,13 @@
 "quote": "",
 "url": "PI.zip:5 印度 Rajesh gg",
 "date": "2026-10-22"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "RocketReach：营收 $15.2M，28 人在册；signalhire：专长含 IIoT、RTU、远程通信、交通行业自动化、能源管理",
+"quote": "Revenue · $15.2 million Employees · 28 … Specialities: Factory Automation, Infrastructure Automation, Industry 4.0, IIoT, Datalogging, Remote Communication, RTU",
+"url": "https://rocketreach.co/united-control-engineers-india-pvt-ltd-profile_b7dc2582c0cb47fa",
+"date": "2026-10-23"
 }
 ],
 "kp": [
@@ -6575,9 +6721,11 @@
 "网站": "https://unitedcontrolengg.com/（有交换机落地页与询盘表单）",
 "直邮": "marketing@unitedcontrolengg.com（官网）；sumitagrwal@yahoo.com（Sumit Agrawal，成单，用户表）",
 "WhatsApp": "已加（用户表）",
-"LinkedIn": "https://in.linkedin.com/company/united-control-engineers-india-pvt-ltd"
+"LinkedIn": "https://in.linkedin.com/company/united-control-engineers-india-pvt-ltd",
+"公开动态平台（监控中，T29-U18）": "官网博客 unitedcontrolengg.com（WordPress，2026-09/10 仍更新，RSS）；LinkedIn 公司页 989 followers；Facebook unitedcontrolengg；IndiaMART（Pramendra Chaudhary，Director）"
 },
 "signals": [
+"2026-10-23 核查：UCE 是大诺伊达 40 人规模的 Delta/Schneider/ABB/Phoenix Contact/nVent 授权分销 + 盘柜集成商（RocketReach 营收 $15.2M）——Phoenix Contact 工业交换机是其现成货架，Saga 工业系列价格仅其 1/3；对口 = 盘柜项目配套的 DIN 导轨非网管/网管交换机；gg 维持但值得一年两次 LinkedIn 看项目动态",
 "2026-05-23：官网新建「Industrial Ethernet Switch Solutions」页，列 Phoenix + Teltonika 全系——正在把交换机做成独立品类（https://unitedcontrolengg.com/ethernet-switch/）",
 "用户表：3 次实质回复，兴趣 5/8 口非管理工业 FS，已成单"
 ],
@@ -6604,6 +6752,13 @@
 "rmb": 0.0,
 "profit_rmb": 481.99,
 "models": "Industrial Switch"
+},
+"watch": {
+"as_of": "2026-10-23",
+"github_watch": [],
+"web_watch_targets": "scripts/web_watch/targets.json#SA-016",
+"status": "data/customer_watch/当前状态.md",
+"log": "data/customer_watch/变化日志.md"
 }
 }
 },
@@ -10952,6 +11107,27 @@
 "quote": "",
 "url": "PI.zip:4 俄罗斯 Andrey 货代走账 可发展",
 "date": "2026-10-22"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "Бит.Блог 2026-07-06《Оборудование под Вашим брендом》（作者 Андрей Татарников）：接受目录内任何设备的 OEM/ODM 定制——无标 OEM、客户包装 ODM、按个别图纸设计生产、可定制固件；联系 +7 (343) 2010444 / info@bitbuk.ru",
+"quote": "Мы принимаем заявки на изготовление любого оборудования из нашего каталога под вашим собственным брендом или OEM. Возможно нанесение логотипа, фирменная упаковка, кастомизация прошивок",
+"url": "https://bitbuk.ru/blog/oborudovanie-pod-vashim-brendom/",
+"date": "2026-07-06"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "bitbuk.ru 交换机类目：PRIORAT PRT-SG-1226P 32,120₽、PRT-SF-1226P 24,900₽、PRT-SG-1208PM 14,800₽、PRT-SG-1208PI（工业，120W PoE，6KV 防雷，-40~+70°C）14,600₽、PRT-SG-1424M 14,300₽、PRT-SF-1110PO IP65 9,400₽；库存地 Нижний Тагил",
+"quote": "Коммутатор PoE промышленный PRIORAT PRT-SG-1208PI … Нижний Тагил: В наличии 14 600 ₽ … Бюджет мощности PoE, Вт 120 … -40 +70°C",
+"url": "https://bitbuk.ru/kommutator-poe-promyshlennyy-priorat-prt-sg-1208pi/",
+"date": "2026-10-23"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "公司地址 Нижний Тагил, ул. Юности, 47А, стр. 1；电话 +7 (3435) 37-87-87 / 37-90-80；站内导航：Бит.Блог、Техподдержка（help.priorat.ru）",
+"quote": "Нижний Тагил, ул. Юности, 47А, стр. 1 … +7 (3435) 37-87-87",
+"url": "https://bitbuk.ru/blog/",
+"date": "2026-10-23"
 }
 ],
 "kp": [
@@ -10992,9 +11168,12 @@
 "channels": {
 "网站": "https://bitbook.ru/ · bitbuk.ru",
 "邮箱": "info@bitbook.ru / info@bitbuk.ru（用户表）",
-"WhatsApp": "+7 908 906 7874（已加）"
+"WhatsApp": "+7 908 906 7874（已加）",
+"公开动态平台（监控中，T29-U18）": "网店 bitbuk.ru（自有品牌 PRIORAT 交换机/IP 摄像机 + БитБук 条码设备；类目页即价格表）；Бит.Блог（作者 = KP Андрей Татарников）；技术支持 help.priorat.ru；电话 +7 (343) 2010444；info@bitbuk.ru"
 },
 "signals": [
+"2026-10-23 价格基准：PRT-SG-1226P（24G PoE）32,120₽、PRT-SF-1226P 24,900₽、PRT-SG-1208PM 14,800₽、PRT-SG-1208PI 工业 8 口 14,600₽、PRT-SG-1424M 14,300₽、PRT-SF-1110PO 户外 IP65 9,400₽、GNT-P4813V6 20,790₽、GNT-P9206EA 4,290₽（含俄国内税与运费）",
+"2026-07-06 博客《Оборудование под Вашим брендом》：БитБук 对外承接目录内任何设备的 OEM/ODM 贴牌（无标/客户包装/按图定制、可定制固件）——说明他们自己就是靠中国代工做 PRIORAT，Saga 可直接以「PRIORAT 下一批交换机的代工报价」切入；2026-07-05 其扫码枪通过 Честный Знак 认证",
 "成交 2 次 + 自有品牌在中国代工 → 2 光 8 电管理 PoE 贴 БитБук 牌是现成路径（OEM 30%）",
 "官网招经销商 → 其渠道可放大"
 ],
@@ -11020,6 +11199,13 @@
 "rmb": 0.0,
 "profit_rmb": 5474.38,
 "models": "STC-128GFP、STC-28GPM、STC-424GM、STC-4424GCPM、STI-288GPM"
+},
+"watch": {
+"as_of": "2026-10-23",
+"github_watch": [],
+"web_watch_targets": "scripts/web_watch/targets.json#SA-026",
+"status": "data/customer_watch/当前状态.md",
+"log": "data/customer_watch/变化日志.md"
 }
 }
 },
@@ -19396,6 +19582,13 @@
 "quote": "",
 "url": "PI.zip:14 印度 Manoj 可发展",
 "date": "2026-10-22"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "CEO Manoj Kumar N.（LinkedIn 5K followers）：25 年嵌入式/国防/航电经验；STS 帮客户选型集成工业 PC + I/O 卡 + 网关 + 摄像头 + 网络设备；sales@sundartechno.com，WA +91-9482081014",
+"quote": "Sundar Techno Solutions can help customers select and integrate the industrial PC with suitable I/O cards, gateways, cameras, networking equipment and operator displays … WA/MOB: +91-9482081014",
+"url": "https://www.linkedin.com/in/manoj-kumar-n-b4ba7a32/",
+"date": "2026-10-23"
 }
 ],
 "kp": [
@@ -19486,9 +19679,11 @@
 "网站": "https://sundartechno.com/ · https://www.sundartechno.in/（IndiaMART）",
 "直邮": "sales@sundartechno.com",
 "电话/WhatsApp": "+91 98808 22633（用户表，已加）",
-"联系人": "Manoj Kumar N（Founder & CEO，成单）"
+"联系人": "Manoj Kumar N（Founder & CEO，成单）",
+"公开动态平台（监控中，T29-U18）": "LinkedIn 公司页（39 followers，2 周前发 4U 工业机箱「Make in India」）；CEO Manoj Kumar N. 个人页（5K followers，常发工业 PC/边缘 AI）；官网 sundartechno.com（RSS）+ embeddedautomation.org + IndiaMART 迷你站 sundartechno.in；YouTube @SUNDARTECHNOSOLUTIONS；X @SundarTechno；Instagram；Facebook"
 },
 "signals": [
+"2026-10-23 核查：STS 是 IBASE / Volktek（台湾工业交换机厂）/ Panasonic Toughbook 的印度代理，并自产工业机箱/显示一体机（OEM）；Volktek 是现成的竞品位——切入点 = 同规格宽温 PoE 交换机比 Volktek 便宜 + 可贴 STS 标；KP 在 LinkedIn 活跃（5K followers），动态用 web 搜索跟",
 "IndiaMART 店铺以 STS 品牌列出 20+ 款工业交换机，MOQ 1–5 台，「Made in India」——典型贴牌 + 本地组装/贴标模式，持续需要 ODM 货源（2026-10-21）",
 "用户表：2023-06 成单（2×2 bypass 工业 FS 100 台需求），此后无跟进记录"
 ],
@@ -19518,7 +19713,14 @@
 "models": "STI-0160GE"
 },
 "grade_override": "A",
-"override_reason": "PI 包成单客户，Simon 标签 可发展 → A"
+"override_reason": "PI 包成单客户，Simon 标签 可发展 → A",
+"watch": {
+"as_of": "2026-10-23",
+"github_watch": [],
+"web_watch_targets": "scripts/web_watch/targets.json#SA-049",
+"status": "data/customer_watch/当前状态.md",
+"log": "data/customer_watch/变化日志.md"
+}
 }
 },
 {
@@ -25640,6 +25842,13 @@
 "quote": "",
 "url": "PI.zip:16 美国 John PayPal gg",
 "date": "2026-10-22"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "sweetspot：68 项联邦合同累计 $1,430,138，DoD 为主",
+"quote": "52 NETWORKS, INC. … has received $1,430,138 across 68 federal awards, with top agencies including Department of Defense and General Services Administration",
+"url": "https://www.sweetspot.so/markets/federal/contractors/52-networks-inc-fv4kbsne5s75/",
+"date": "2026-06-16"
 }
 ],
 "kp": [
@@ -25709,9 +25918,11 @@
 ],
 "channels": {
 "网站/网店": "https://52networks.com/（2026-09-11 更新）",
-"直邮": "sales@52networks.com（用户表）/ uzair@52networks.com（GSA 登记）"
+"直邮": "sales@52networks.com（用户表）/ uzair@52networks.com（GSA 登记）",
+"公开动态平台（监控中，T29-U18）": "GSA eLibrary 合同页 47QTCA22D00B3（选项期至 2027-07-25）；GovTribe / HigherGov / USAspending 联邦合同动态（68 单 $1.43M）；官网 52networks.com；X @52networks"
 },
 "signals": [
+"2026-10-23 核查：52 Networks = 弗吉尼亚 Woodbridge 的少数族裔小型劣势企业（SDB）联邦供应商，GSA MAS 持有人，2025 仍在出单（NAVWAR $294k、Nellis AFB 光纤 MPO $117k、CA 国民警卫队 $29k）；但 MAS 目录受 TAA 约束，中国产交换机进不去——只剩微额采购/开放市场的零星机会；gg 维持，监控其合同动态即可",
 "2026-09-11 首页更新，Cat6A Plenum 促销——活跃电商（https://52networks.com/ 2026-10-21）",
 "用户表：已成单（A 优质名单 US）"
 ],
@@ -25738,6 +25949,13 @@
 "rmb": 0.0,
 "profit_rmb": 914.31,
 "models": "NDR-240-48、STI-288GP"
+},
+"watch": {
+"as_of": "2026-10-23",
+"github_watch": [],
+"web_watch_targets": "scripts/web_watch/targets.json#SA-064",
+"status": "data/customer_watch/当前状态.md",
+"log": "data/customer_watch/变化日志.md"
 }
 }
 },
@@ -62162,6 +62380,34 @@
 "quote": "",
 "url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定",
 "date": "2026-10-22"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "LinkedIn 公司页：Ankara，11-50 人，2016 创立，Specialties = IT Network / Network Switch / Network Management；产品 Verge Switch Family + 网管软件",
+"quote": "Angora Networks | 2,110 followers on LinkedIn … Specialties: IT Network, Network Switch, and Network Management … Verge Switch Family",
+"url": "https://www.linkedin.com/company/angora-networks",
+"date": "2026-10-23"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "官网沿革：2016 成立 → 2017 咨询/维保/研发 → 2018 首款 24 口 PoE/非 PoE 交换机 → 2019 COTS 产品销售渠道 → 2020 新一代产品与海外运营；81 城经销与服务网络",
+"quote": "2018 First Product 24-Port Switch (PoE ve no-PoE) … 2020 New Generation Products Growth, Overseas Operation",
+"url": "https://www.angoranetworks.com/angora-networks-_en/?lang=en",
+"date": "2026-10-23"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "GitHub 组织 anwHub = Angora Networks Open Repository（Ankara，contact@angoranetworks.com，blog support.angoranetworks.com）；唯一仓库 3rdPartyConfigs（2020-01-16）= 让 Angora 交换机 802.1X 工作所需的 FreeRADIUS 配置",
+"quote": "3rd party product configuration needed to make an Angora switch function works. freeRadiusConfigs/clients.conf, eap, radiusd.conf",
+"url": "https://github.com/anwHub/3rdPartyConfigs",
+"date": "2026-10-23"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "官网 RSS 可用，最后一篇 2023-12-06《Veri Diyotu … ModBUS ve OPC》，此前 2022-10-02《Packet Broker》；feed lastBuild 2026-06-15",
+"quote": "Wed, 06 Dec 2023 11:27:03 +0000 … Angora Networks ® Veri Diyotu Çözümünde Ezber Bozan ModBUS ve OPC protokolü Desteğini Tanıttı",
+"url": "https://www.angoranetworks.com/feed/",
+"date": "2026-10-23"
 }
 ],
 "kp": [
@@ -62251,9 +62497,11 @@
 "channels": {
 "直邮": "lkilic@angoranetworks.com（Levent）/ tesen@angoranetworks.com（Taylan）",
 "即时通讯": "WeChat/WhatsApp +90 532 476 1428（Levent）",
-"文件": "Google Drive 订单资料夹（Simon 每单上传 MAC/SN/照片/保修证书）"
+"文件": "Google Drive 订单资料夹（Simon 每单上传 MAC/SN/照片/保修证书）",
+"公开动态平台（监控中，T29-U18）": "官网 RSS angoranetworks.com/feed/（末篇 2023-12-06）；YouTube 频道 UCCAG46dVy-wxXtO-_b7fTPA；GitHub 组织 anwHub（2020-01，3rdPartyConfigs=FreeRADIUS 配置）；support.angoranetworks.com 文档门户（2026-10-23 522）；LinkedIn 公司页 2,110 followers；X @AngoraNetworks；Instagram angora_networks"
 },
 "signals": [
+"2026-10-23 公开平台核查：官网新闻自 2023-12-06（数据二极管 ModBUS/OPC）后无新文；VERGE 交换机族页为产品入口；LinkedIn 2,110 followers、11-50 人、2016 年创立、2018 首款 24 口交换机、2020「海外运营」——已纳入 data/customer_watch 监控",
 "2026-07-08 最近一次往来（16 口固件问题已解决，要固件文件）",
 "2026-03-05 土耳其警察 RfP 2026 求最低价机型——待跟进结果",
 "2025-05 TT 大项目首批 2,000 台/60 天口径后无成交记录——需确认项目状态",
@@ -62284,6 +62532,15 @@
 "rmb": 0.0,
 "profit_rmb": 75789.12,
 "models": "ANW-2248-PX、Commercial Switch、STC-28DGGPM、STC-416DGGPM、STC-424XGGPM、STC-448XGGPM、STI-21616DGGPM、STI-280DGGM、STI-288DGGPM、TRX-AP-612T、TRX-AS-24TP4X、TRX-AS-48TP4X、TRX-IS-8TP2G、TRX-QSFP-40G-SR4、TRX-QSFP28-100G-SR4、TRX-SFP-10G-LR、TRX-SFP-10G-SR、TRX-SFP-1G-LX、TRX-SFP-1G-SX、TRX-SFP28-25G-SR"
+},
+"watch": {
+"as_of": "2026-10-23",
+"github_watch": [
+"anwHub"
+],
+"web_watch_targets": "scripts/web_watch/targets.json#SA-168",
+"status": "data/customer_watch/当前状态.md",
+"log": "data/customer_watch/变化日志.md"
 }
 }
 },
@@ -62479,6 +62736,27 @@
 "quote": "I am now working on the UL listed PSU. 52~57VDC output. 250W~300W power budget. I will let you know if I have news.",
 "url": "（S 邮箱 2024-06-27 07:25Z Simon→james@clendenan.ca 主题 Invoice，data/gmail_s/messages/2024/2024-06.jsonl）",
 "date": "2026-10-22"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "Control Ready 官网：加拿大应急/活动响应技术方案，SCOUT（Smart Connection Operations United Toolkit）便携 Wi-Fi/电话/数据箱，BARK（Boundary Alert Response Kit）拖车传感告警，POST 应急数字标牌；均「Designed and Built in Canada with local components and suppliers」",
+"quote": "SCOUT … Resilient, to-go Wi-Fi, phone, and data storage solutions for event management—all in convenient grab-and-go cases … Built in Canada with local canadian components and suppliers",
+"url": "https://www.controlready.ca/",
+"date": "2026-10-23"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "Control Ready About：James Clendenan Systems Ltd. 2012-09 创立；James = Queen's 计算机工程，曾任职 Pixar Canada / Sophos / HootSuite / 奥运转播 OBS；专长 ISP 与中小企业网管",
+"quote": "James Clendenan Systems Ltd. was launched by James Clendenan in September 2012 … His past experience include stints with Pixar Canada, Sophos, HootSuite, and the Olympic Broadcasting Service",
+"url": "https://www.controlready.ca/about",
+"date": "2026-10-23"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "Alignable 商家页：北温哥华，电信/计算机服务/ISP；托管网络起价 15$/设备/月；光纤熔接、固定无线、电话系统",
+"quote": "Managed Networks Starting at 15$/device/month for monitoring and configuration services … Networking, Wi-Fi, Fixed Wireless, Fiber Optics splicing and repair",
+"url": "https://www.alignable.com/north-vancouver-bc/james-clendenan-systems-ltd",
+"date": "2026-10-23"
 }
 ],
 "kp": [
@@ -62515,7 +62793,24 @@
 "override_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）",
 "risks": [
 "【2026-10-22 第二遍复盘】S 邮箱全库 13,583 封里唯一的 UL 需求来自本户（UL listed 52–57 VDC 250–300 W PSU，2024-06）；Simon 2023-12 曾向 Mencom 问 UL DIN 电源 → 跟进时可直接给 MEAN WELL UL 版电源型号 + 价格（Drive《SmartByte》有 MEAN WELL 价目表），交换机本体不承诺 UL。"
-]
+],
+"channels": {
+"公开动态平台（监控中，T29-U18）": "新品牌 Control Ready（controlready.ca，Squarespace）：SCOUT 移动办公箱 / BARK 移动告警套件 / POST 应急数字标牌；Alignable 商家页；LinkedIn 个人页（James Clendenan）"
+},
+"signals": [
+"2026-10-23 核查：James 另起品牌 Control Ready——面向应急/活动响应的「拎走即用」套件（SCOUT Wi-Fi+电话+存储箱、BARK 拖车传感告警、POST 标牌），宣称 Built in Canada with local components → 套件里需要小型宽温 PoE/工业交换机；可把 STI-154GP / STI-288DGGPM 作为 SCOUT 箱内件推荐（注意其「本地元件」话术，供货以中性包装）"
+],
+"watch": {
+"as_of": "2026-10-23",
+"github_watch": [],
+"web_watch_targets": "scripts/web_watch/targets.json#SA-169",
+"status": "data/customer_watch/当前状态.md",
+"log": "data/customer_watch/变化日志.md"
+},
+"deep": {
+"done_at": "2026-10-23",
+"level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
+}
 }
 },
 {
@@ -62758,6 +63053,27 @@
 "quote": "",
 "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定",
 "date": "2026-10-22"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "belnetworks.com 现为域名停放页（1st Domains，新西兰注册商），不是 Biz-Ethics 的网站",
+"quote": "You have reached the future website of belnetworks.com. This domain is currently parked with 1st Domains and does not yet have a website",
+"url": "https://belnetworks.com/",
+"date": "2026-10-23"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "RDAP：belnetworks.com 注册 2024-08-16（即被人重新注册），到期 2027-08-16，last changed 2026-07-19，注册商 eNom，NS ns1/ns2.1stdomains.net.nz；GitHub 上多份过期域名日志（2021/2023/2024）也列有该域 → 原主多次脱手",
+"quote": "\"registration\",\"eventDate\":\"2024-08-16T06:09:14Z\" … \"expiration\",\"eventDate\":\"2027-08-16T06:09:14Z\" … NS1.1STDOMAINS.NET.NZ",
+"url": "https://rdap.verisign.com/com/v1/domain/belnetworks.com",
+"date": "2026-10-23"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "尼日利亚黄页目录条目：BIZ-ETHICS LTD. 经营计算机、有线/无线网络设备、监控与门禁、电源调节设备",
+"quote": "BIZ-ETHICS LTD. Sales of Computers, Networking (Wired/Wireless) Equipments, Surveillance & Access Control Systems and Power-Conditioning Equipment",
+"url": "http://www.ngcontacts.com/directory/computer-and-infotech/computer-networking/",
+"date": "2026-10-23"
 }
 ],
 "kp": [
@@ -62791,7 +63107,24 @@
 "why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
 },
 "grade_override": "A",
-"override_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）"
+"override_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）",
+"channels": {
+"公开动态平台（监控中，T29-U18）": "⚠ belnetworks.com 已不在客户手中：2026-10-23 为 1st Domains（新西兰）停放页；RDAP 显示该域名 2024-08-16 被重新注册（eNom，NS 1stdomains.net.nz），到期 2027-08-16。公开动态平台：无（LinkedIn/Facebook 公司页未检索到）；唯一可靠通道 = WhatsApp +234 702 918 6461"
+},
+"signals": [
+"⚠ 2026-10-23 核查：客户邮箱域 belnetworks.com 自 2024-08-16 起由第三方注册并停放（不是客户的网站）。info@belnetworks.com 很可能收不到或被陌生人收到——对 Biz-Ethics 的任何报价/单据改走 WhatsApp +234 702 918 6461，并向 Valentine 要一个新邮箱；A 邮箱入库后核对 2024-09 以来与他们的邮件实际走的是哪个地址"
+],
+"watch": {
+"as_of": "2026-10-23",
+"github_watch": [],
+"web_watch_targets": "scripts/web_watch/targets.json#SA-170",
+"status": "data/customer_watch/当前状态.md",
+"log": "data/customer_watch/变化日志.md"
+},
+"deep": {
+"done_at": "2026-10-23",
+"level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
+}
 }
 },
 {
@@ -62981,6 +63314,20 @@
 "quote": "",
 "url": "PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定",
 "date": "2026-10-22"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "pbacctv.com 页脚：บริษัทพีบีเอ ฟอร์เอฟเวอร์ เทคโนโลยีจำกัด（PBA Forever Technology Co., Ltd.）电话 098-265-6972 / 086-544-2684，办公 02-050-0699，LINE peeranun8336，Email pomnong9@gmail.com",
+"quote": "บริษัทพีบีเอ ฟอร์เอฟเวอร์ เทคโนโลยีจำกัด เบอร์โทร 098-265-6972 , 086-544-2684 สำนักงาน : 02-050-0699 … Line : peeranun8336 Email : pomnong9@gmail.com",
+"url": "https://www.pbacctv.com/home/product/?id=139",
+"date": "2026-10-23"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "业务：全套 CCTV 安装（住宅/宿舍/公寓/商铺/办公），Hikvision Color Vu 套餐 2 路 13,900฿ … 8 路 26,900฿；另卖 CCTV 电源箱与 UPS",
+"quote": "โปรพิเศษ ลดราคาทุกชุด Hikvision Audio Camera 8 ตัวพร้อมติดตั้ง … ลดเหลือเพียง 26,900฿",
+"url": "https://www.pbacctv.com/",
+"date": "2026-10-23"
 }
 ],
 "kp": [
@@ -63014,7 +63361,24 @@
 "why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
 },
 "grade_override": "A",
-"override_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）"
+"override_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）",
+"channels": {
+"公开动态平台（监控中，T29-U18）": "官网 pbacctv.com（泰文 CCTV 安装商站：Hikvision 套餐价、电源/UPS 类目，持续上新）；LINE peeranun8336；电话 098-265-6972 / 086-544-2684 / 02-050-0699；pomnong9@gmail.com"
+},
+"signals": [
+"2026-10-23 核查：公司网站为 pbacctv.com（此前只知 Gmail）——北榄府 Bang Phli 的 CCTV/门禁/网络安装商，主卖 Hikvision 套餐（2 路 13,900฿、6 路 24,900฿、8 路 26,900฿）+ 电源/UPS（CHUPHOTIC）；对口 = 4/8/16 口 PoE 交换机配套"
+],
+"watch": {
+"as_of": "2026-10-23",
+"github_watch": [],
+"web_watch_targets": "scripts/web_watch/targets.json#SA-171",
+"status": "data/customer_watch/当前状态.md",
+"log": "data/customer_watch/变化日志.md"
+},
+"deep": {
+"done_at": "2026-10-23",
+"level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
+}
 }
 },
 {
@@ -176958,6 +177322,27 @@
 "quote": "",
 "url": "PI.zip:2 印度 Rishi gg",
 "date": "2026-10-22"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "IndiaMART 产品页：4 Port Industrial Ethernet Switch FBC-204GP, BLACK —— 卖家 Fastball（Rishi Bansal，Ashok Nagar, New Delhi 110093），成立 2021，制造/批发/零售光纤线缆、PLC 分路器、光功率计、接头盒",
+"quote": "4 Port Industrial Ethernet Switch FBC-204GP, BLACK … Established in the year 2021 \"Fastball\" … Rishi Bansal",
+"url": "https://www.indiamart.com/proddetail/4-port-industrial-ethernet-switch-fbc-204gp-2852734505091.html",
+"date": "2026-10-23"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "官网：Jhilmil Industrial Area A-61，销售 +91-9871 753 979，支持 +91-9355 075 075；自述 AI 驱动的电信有线产品公司（预防性维护/按需服务）",
+"quote": "Fastball Building, Unit no. A-61, Jhilmil industrial Area, Delhi 110095 Sales +91-9871 753 979, Support +91-9355 075 075",
+"url": "https://fastball.in/",
+"date": "2026-10-23"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "splicingmachines.com：Fastball 独家进口 Signal Fire AI-5 / AI-9 熔接机，全印分销（孟买/特伦甘纳/加尔各答/德里/勒克瑙）",
+"quote": "Importer · Exclusively Import by FASTBALL in India … Distributor · Available in Mumbai, Telangana, Kolkata, Delhi, Lucknow",
+"url": "https://www.splicingmachines.com/fiber-optic-splicing-machine.html",
+"date": "2026-10-23"
 }
 ],
 "kp": [
@@ -176991,7 +177376,24 @@
 "why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
 },
 "grade_override": "B",
-"override_reason": "PI 包成单客户，Simon 标签 gg：gg（已凉）→ B（成交过·慢慢跟进）"
+"override_reason": "PI 包成单客户，Simon 标签 gg：gg（已凉）→ B（成交过·慢慢跟进）",
+"channels": {
+"公开动态平台（监控中，T29-U18）": "官网 fastball.in（WordPress，RSS）；IndiaMART 店铺 indiamart.com/fastball（产品上新最勤）；TradeIndia 店铺；Rishi Kumar Bansal（CEO/业主，个体 GST 07AJJPR5445G1ZX，2021）"
+},
+"signals": [
+"2026-10-23 核查：Fastball 在 IndiaMART 挂有「4 Port Industrial Ethernet Switch FBC-204GP」与「20 port Gigabit fiber optic switch」——FBC-204GP 即我方 STC-204GP 的贴牌命名（FBC = Fastball），说明他们把 Saga/HRUI 的工业 4 口直接上架零售；另主营光纤工具（独家进口 Signal Fire AI-5/AI-9 熔接机）、LIU/ODF、PLC 分路器；对口 = 继续供 FBC- 系列小批量"
+],
+"watch": {
+"as_of": "2026-10-23",
+"github_watch": [],
+"web_watch_targets": "scripts/web_watch/targets.json#SB-1334",
+"status": "data/customer_watch/当前状态.md",
+"log": "data/customer_watch/变化日志.md"
+},
+"deep": {
+"done_at": "2026-10-23",
+"level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
+}
 }
 },
 {
@@ -177145,6 +177547,20 @@
 "quote": "",
 "url": "PI.zip:8 俄罗斯 Igor gg",
 "date": "2026-10-22"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "rio-krsk.ru 新闻《Прочные коммутаторы PoE》：Phoenix Contact 新增 1000 系列非网管 PoE（30W/口、SFP）与 4000 系列网管 PoE（60W/口，802.3bt），克拉斯诺亚尔斯克有库存；集团自述为该地区最大工控/柜体/电子元件供应商之一",
+"quote": "Группа компаний РИО — одна из крупнейших поставщиков в Красноярском регионе полного спектра оборудования для АСУТП … Phoenix Contact дополняет свой ассортимент промышленных коммутаторов PoE … Склад в Красноярске",
+"url": "http://www.rio-krsk.ru/info/news/prochnye-kommutatory-poe/",
+"date": "2026-10-23"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "联系页：Красноярск, ул. Красной Гвардии 21, оф.314；8-(391)-291-14-24 / 290-63-15；rio-import2003@mail.ru",
+"quote": "ООО ”РИО-ИМПОРТ” Адрес г. Красноярск, левый берег ул. Красной Гвардии 21, оф.314 … E-mail rio-import2003@mail.ru",
+"url": "http://www.rio-krsk.ru/contacts/",
+"date": "2026-10-23"
 }
 ],
 "kp": [
@@ -177178,7 +177594,24 @@
 "why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
 },
 "grade_override": "B",
-"override_reason": "PI 包成单客户，Simon 标签 gg：gg（已凉）→ B（成交过·慢慢跟进）"
+"override_reason": "PI 包成单客户，Simon 标签 gg：gg（已凉）→ B（成交过·慢慢跟进）",
+"channels": {
+"公开动态平台（监控中，T29-U18）": "官网 rio-krsk.ru（集团 РИО：工控/电气元件分销；新闻页 /info/news/）；邮箱 rio-import2003@mail.ru / rio-2003@mail.ru（我方单据 rio-popov@mail.ru）"
+},
+"signals": [
+"2026-10-23 核查：Rio-Import = 克拉斯诺亚尔斯克「集团 РИО」的进口公司，主营 Delta Electronics / OPTIMUS DRIVE / UPUN / WAIN 等工控电气件，新闻页推 Phoenix Contact 1000/4000 系列工业 PoE 交换机（克拉斯诺亚尔斯克有库存）——他们买我方交换机是给工控客户配套；对口 = DIN 导轨工业 PoE（STI-154GP / STI-288DGGPM）替代 Phoenix；gg 维持"
+],
+"watch": {
+"as_of": "2026-10-23",
+"github_watch": [],
+"web_watch_targets": "scripts/web_watch/targets.json#SB-1335",
+"status": "data/customer_watch/当前状态.md",
+"log": "data/customer_watch/变化日志.md"
+},
+"deep": {
+"done_at": "2026-10-23",
+"level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
+}
 }
 },
 {
@@ -243070,6 +243503,13 @@
 "quote": "",
 "url": "PI.zip:1 格鲁吉亚 George gg",
 "date": "2026-10-22"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "RIPE NCC 成员名录：Delta Consulting LLC，Lvov Str 72，0160 Tbilisi，+995577578811，sales@DC.ge；ipinfo AS209786 1,024 IPv4（2018-12 分配）",
+"quote": "Delta Consulting LLC — RIPE Network Coordination Centre … sales@DC.ge",
+"url": "https://www.ripe.net/membership/member-support/list-of-members/ge/dc/",
+"date": "2026-10-23"
 }
 ],
 "kp": [
@@ -243109,9 +243549,11 @@
 ],
 "channels": {
 "role": "系统集成商（企业 + 政府项目）",
-"region": "格鲁吉亚"
+"region": "格鲁吉亚",
+"公开动态平台（监控中，T29-U18）": "官网 dc.ge / delta-consulting.ge；Facebook deltaconsultingofficial；RIPE 成员 + AS209786（1,024 IPv4，ISP/托管）；美国 SAM 注册（UEI J9LKEG5JR7D6，CAGE SJFH4）"
 },
 "signals": [
+"2026-10-23 核查：Delta Consulting 是第比利斯系统集成商（D&B 30 人、$2.05M、负责人 Giorgi Jaliashvili）+ 自有 AS（RIPE 成员）+ 2020 起美国联邦注册（可能承接美使馆/USAID 本地 IT 项目）；伙伴清单全是 Cisco/Juniper/Dell/Lenovo/Cambium/Teltonika/Dahua 等大牌——Saga 只在「低价项目备选」有机会，gg 维持",
 "已从中国同行（新桥）采购同类工业小壳机 → 需求真实、在比价",
 "2025-11 新需求：小型 8 口大功率 PoE",
 "CEO 直接对接"
@@ -243140,6 +243582,13 @@
 "rmb": 0.0,
 "profit_rmb": 177.1,
 "models": "STC-028GFP、STC-128GFP"
+},
+"watch": {
+"as_of": "2026-10-23",
+"github_watch": [],
+"web_watch_targets": "scripts/web_watch/targets.json#SB-335",
+"status": "data/customer_watch/当前状态.md",
+"log": "data/customer_watch/变化日志.md"
 }
 }
 },
@@ -282506,6 +282955,27 @@
 "quote": "",
 "url": "PI.zip:20 土耳其 Burak 活跃 Xtransfer 轻度绑定",
 "date": "2026-10-22"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "H1 2026 业绩：订单 110 亿 TL（+96%），销售 86 亿 TL（+55%），税前利 2.02 亿 TL",
+"quote": "2026’nın ilk yarısında siparişlerini yüzde 96 artışla 11 milyar TL’ye, satış gelirleri ise yüzde 55 artışla 8,6 milyar TL’ye çıkaran Netaş, 202 milyon TL vergi öncesi kâr elde etti",
+"url": "https://www.capital.com.tr/sirket-panosu/sirket-panosu-haberleri/netas-2026nin-ilk-yarisinda-gelirlerini-ve-karliligini-artirdi",
+"date": "2026-08-14"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "2026-08-03 董事长任命 Zhi Ling；Turkcell 与 ZTE/Netaş 合作 5G + Wi-Fi 7 新一代 Superbox",
+"quote": "Netaş’ta Üst Düzey Atama: Yönetim Kurulu Başkanlığı Görevine Zhi Ling Getirildi 3 Ağustos 2026 … Turkcell ve ZTE/Netaş’tan 5G ve Wi-Fi 7 Destekli Yeni Nesil Superbox İş Birliği",
+"url": "https://netas.com.tr/medya-merkezi",
+"date": "2026-08-03"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "2026-06 KAP 披露：来自土耳其头部运营商 19,584,122 美元服务器订单，2026 年内交付，售后 7 年",
+"quote": "müşterisinden sunucu satışına ilişkin olarak 19.584.122 ABD Doları tutarında sipariş almıştır",
+"url": "https://www.cnbce.com/borsa/netas-duyurdu-turkiyenin-onde-gelen-telekom-operatorunden-195-milyon-dolarlik-sunucu-siparisi-h31685",
+"date": "2026-06-16"
 }
 ],
 "kp": [
@@ -282543,9 +283013,11 @@
 "系统集成与 IT 服务"
 ],
 "channels": {
-"网站": "https://netas.com.tr/"
+"网站": "https://netas.com.tr/",
+"公开动态平台（监控中，T29-U18）": "官网媒体中心 netas.com.tr/medya-merkezi（季报/任命/合作新闻，持续更新）；KAP 公开披露（BIST: NETAS）；LinkedIn 公司页；土耳其财经媒体聚合（hurriyet / capital / cnbce）"
 },
 "signals": [
+"2026-08-14 H1 2026：订单 +96% 至 110 亿 TL，营收 +55% 至 86 亿 TL，税前利润 2.02 亿 TL；2026-08-03 董事长改任 Zhi Ling（ZTE 系）；2026-06 获国内头部运营商 1,958 万美元服务器订单（2026 年内交付，7 年售后）——公司景气、采购活跃；监控其媒体中心即可知新项目方向",
 "询盘型号 OM6X2424(2)-PSE-GW 非 Saga 型号 → 可能为比价/替代件询价"
 ],
 "risks": [
@@ -282570,6 +283042,13 @@
 "rmb": 0.0,
 "profit_rmb": 903.53,
 "models": "STI-488DGGPM-2BT"
+},
+"watch": {
+"as_of": "2026-10-23",
+"github_watch": [],
+"web_watch_targets": "scripts/web_watch/targets.json#SB-473",
+"status": "data/customer_watch/当前状态.md",
+"log": "data/customer_watch/变化日志.md"
 }
 }
 },
@@ -450149,6 +450628,27 @@
 "quote": "",
 "url": "PI.zip:19 马来西亚 Raja 可发展",
 "date": "2026-10-22"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "Experian：WIZARDSINC SDN. BHD. 201101002484 (930621-U)，2011-01-24 注册；业务 = ICT 方案与软硬件、嵌入式系统与安防通信系统、在线应用/门禁/CCTV",
+"quote": "ICT SOLUTION & COMPUTER SOFTWARE AND HARDWARE, 2. EMBEDDED SYSTEM AND SECURITY & COMMUNICATION SYSTEMS, 3. ONLINE APPLICATION, ACCESS CONTROL AND CCTV SYSTEMS",
+"url": "https://buy.experian.com.my/index.php/search/Malaysia-Company/930621/WIZARDSINC-SDN.-BHD.",
+"date": "2026-10-23"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "官网联系页：总部 Lot 1-2A Incubator 1, Technology Park Malaysia, Bukit Jalil；分部 Jalan Ipoh；+6 03 4044 4044；info@/support@wizardsinc.co；+6 012 203 6165；热线 1-700-816-003",
+"quote": "HEAD OFFICE Lot 1-2A Incubator 1, Technology Park Malaysia … info@wizardsinc.co support@wizardsinc.co … CALL US : 1-700-816-003",
+"url": "http://wizardsinc.co/?page_id=40",
+"date": "2026-10-23"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "10times：Raja Kumaran，CEO at WizardsInc Sdn Bhd，作为参观者评论 LED Light Malaysia（2026-07，吉隆坡）",
+"quote": "Raja Kumaran Visitor CEO at WizardsInc Sdn Bhd Kuala Lumpur, Malaysia",
+"url": "https://10times.com/malaysia-sign-ledneon-technology-exhibition",
+"date": "2026-10-23"
 }
 ],
 "kp": [
@@ -450184,7 +450684,24 @@
 "models": "NDR-240-48、STI-21616GP、STI-21616GPM、STI-288GP、STI-288GPM、STI-G2-MD、STI-G20-SD"
 },
 "grade_override": "A",
-"override_reason": "PI 包成单客户，Simon 标签 可发展 → A"
+"override_reason": "PI 包成单客户，Simon 标签 可发展 → A",
+"channels": {
+"公开动态平台（监控中，T29-U18）": "官网 wizardsinc.co（WordPress，RSS ?feed=rss2）；10times 展会评论（CEO Raja Kumaran 2026-07 参观 LED Light Malaysia）；GitHub 用户 WizardsInc-Maintenance（归属未证实）"
+},
+"signals": [
+"2026-10-23 核查：WizardsInc Sdn Bhd（2011-01-24 注册，930621-U）= 吉隆坡 Technology Park Malaysia 孵化器内的 ICT/嵌入式/门禁 CCTV 集成商，总机 03-4044 4044、热线 1-700-816-003；CEO Raja Kumaran 2026-07 在看 LED/标牌展——门禁+CCTV+标牌项目都要 PoE 交换机"
+],
+"watch": {
+"as_of": "2026-10-23",
+"github_watch": [],
+"web_watch_targets": "scripts/web_watch/targets.json#SC-1006",
+"status": "data/customer_watch/当前状态.md",
+"log": "data/customer_watch/变化日志.md"
+},
+"deep": {
+"done_at": "2026-10-23",
+"level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
+}
 }
 },
 {
@@ -762581,6 +763098,20 @@
 "quote": "",
 "url": "PI.zip:3  赞比亚 Pythias gg",
 "date": "2026-10-22"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "官网：2007-02-13 成立，多学科公司，电信/电气/机械项目与采购，从概念设计到交付；客户 Chicken Inn、Pizza Inn、Anfield International、Zambia Breweries、Pizza Hut、Kazungula Boarder Post",
+"quote": "The company was founded on February 13th 2007. Obmac Systems multi- disciplinary company … Chicken Inn Pizza Inn Anfield International Zambia Breweries Pizza Hut Kazungula Boarder Post",
+"url": "http://obmacsystems.com/",
+"date": "2026-10-23"
+},
+{
+"kind": "公开平台核查（T29-U18）",
+"claim": "LinkedIn Francis Chamyolo（OBMAC Systems，Lusaka，1K followers）：与 Valinor Investment Limited 合作、SANY International (Zambia) 施工的 11 MWp（10 MWac）光伏电站，年发电 22 GWh",
+"quote": "We are delivering the project with our corporate partner, Valinor Investment Limited, with construction undertaken by SANY International (Zambia) … installed capacity of 11MWp (10MWac)",
+"url": "https://www.linkedin.com/in/francis-chamyolo-3903ba8b/",
+"date": "2026-10-23"
 }
 ],
 "kp": [
@@ -762609,7 +763140,24 @@
 "models": "STC-4248XGGCM、STI-244GP、STI-SFP1G-SMD20-1310LC"
 },
 "grade_override": "B",
-"override_reason": "PI 包成单客户（2024-01 一单 265 台 USD 9,350，Simon 成本表利润 RMB 23,118；Simon 标签 gg）→ 至少 B"
+"override_reason": "PI 包成单客户（2024-01 一单 265 台 USD 9,350，Simon 成本表利润 RMB 23,118；Simon 标签 gg）→ 至少 B",
+"channels": {
+"公开动态平台（监控中，T29-U18）": "官网 obmacsystems.com（模板站，无更新）；LinkedIn 员工 Francis Chamyolo（1K followers，2026 发光伏 EPC 项目）；ZICTA 注册经销商名单；Yandex 地图条目 Parliament Road / Makishi Road 3061"
+},
+"signals": [
+"2026-10-23 核查：Obmac Systems（2007-02-13 成立）= 卢萨卡 ICT+机电工程承包（客户 Chicken Inn / Pizza Inn / Zambia Breweries / Kazungula 口岸），2026 起与 Valinor Investment 做 11 MWp 光伏电站——重心转向能源 EPC；网络设备为项目配套、低频；gg 维持，只跟 LinkedIn"
+],
+"watch": {
+"as_of": "2026-10-23",
+"github_watch": [],
+"web_watch_targets": "scripts/web_watch/targets.json#SC-349",
+"status": "data/customer_watch/当前状态.md",
+"log": "data/customer_watch/变化日志.md"
+},
+"deep": {
+"done_at": "2026-10-23",
+"level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
+}
 }
 },
 {

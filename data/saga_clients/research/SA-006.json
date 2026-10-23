@@ -55,6 +55,27 @@
    "quote": "",
    "url": "PI.zip:11 新加坡 Au gg",
    "date": "2026-10-22"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "GitHub 组织 Resonant-Networks：2026-08-31 创建；仓库 zpenodegrid（2026-10-09）、containerlab、aiagentsrepo、adtran-alm、rm1dev-proxmox、fntsolution（均 2026-10-06）；提交者 acestraxionweb（Kuala Lumpur，\"nope. im not a coder. just a problem solver\"）",
+   "quote": "feat: initialize ZPE Systems Nodegrid documentation and tool … feat: initialize Adtran ALM fiber monitoring and license ser… feat: initialize FNT documentation repository as source of t…",
+   "url": "https://github.com/Resonant-Networks",
+   "date": "2026-10-23"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "adtran-alm README：「documents the official Adtran order 31018123 (PO: OID-537157) for Resonant Networks Pte Ltd」；containerlab README 含 access-comparison.md「Singapore vs Malaysia DC」；zpenodegrid = 裸金属数据中心带外管理与 RS-232 控制台",
+   "quote": "This repository documents the official Adtran order **`31018123`** (PO: `OID-537157`) for **Resonant Networks Pte Ltd** … access-comparison.md # Access Architecture: Singapore vs Malaysia DC",
+   "url": "https://github.com/Resonant-Networks/adtran-alm",
+   "date": "2026-10-23"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "官网联系页：马来西亚办公室 Unit C-1-13 CoPlace 2, Cyberjaya；邮箱 11101110@resonantnetworks.com；+65 6871 4128",
+   "quote": "Malaysia Office Unit C-1-13 CoPlace 2, Block 2260, Jalan Usahawan 1, 63000 Cyberjaya, Selangor",
+   "url": "https://resonantnetworks.com/contact-us/",
+   "date": "2026-10-23"
   }
  ],
  "kp": [
@@ -110,9 +131,11 @@
   "LinkedIn": "https://sg.linkedin.com/company/resonant-networks-pte-ltd",
   "网站": "https://resonantnetworks.com/",
   "电话": "+65 6871 4128（官网公开）",
-  "邮箱（公开）": "11101110@resonantnetworks.com（官网通用）"
+  "邮箱（公开）": "11101110@resonantnetworks.com（官网通用）",
+  "公开动态平台（监控中，T29-U18）": "GitHub 组织 Resonant-Networks（2026-08-31 建；6 仓库 2026-10-06/09 推送，唯一提交者 acestraxionweb 吉隆坡）；LinkedIn 公司页 138 followers / 8 员工；官网 resonantnetworks.com（WordPress，2025-03 改版后 RSS 无新文）；SG UEN 202005761Z"
  },
  "signals": [
+  "⬆ 2026-10-23 核查：Simon 标 gg 的 Resonant Networks 其实正处在扩张期——2026-08-31 开 GitHub 组织，10 月初连推 6 个「source of truth」仓库（ZPE Nodegrid 带外管理、Containerlab + Nokia SR Linux 园区拓扑、Adtran/ADVA FSP 3000 ALM 光纤监测、Proxmox 裸金属、FNT Command DCIM、AI 运维 agent），README 写明 Resonant Networks Pte Ltd、「Singapore vs Malaysia DC」、Adtran 订单 31018123；2025-07-08 ACRA 主业改为「数据中心网络系统供应与专业服务」；马来西亚 Cyberjaya 有办公室。建议：从 gg 提回 B（人工定级由 Simon 决定），切入点 = 实验室/testbed 与 DC 带外管理网的接入交换机（STC-4168XGGCM / STC-448XGGPM / 10G 上联款）",
   "2025：主营业务代码变更为数据中心网络系统供应——从光网络工程向 DC 设备供应延伸（recordowl 2026-10 快照）",
   "用户表：成单（Trevor Loi，solution provider）",
   "官网产品页有「Ethernet-over-Copper Extender in SFP form factor」等小众 SFP 形态产品——与 Saga 光模块/MC/DWDM 边缘位（Hohunet CENTEC 线）相邻；接入层交换机非其主业",
@@ -141,5 +164,15 @@
   "rmb": 0.0,
   "profit_rmb": 336.63,
   "models": "Commercial Switch"
+ },
+ "watch": {
+  "as_of": "2026-10-23",
+  "github_watch": [
+   "Resonant-Networks",
+   "acestraxionweb"
+  ],
+  "web_watch_targets": "scripts/web_watch/targets.json#SA-006",
+  "status": "data/customer_watch/当前状态.md",
+  "log": "data/customer_watch/变化日志.md"
  }
 }

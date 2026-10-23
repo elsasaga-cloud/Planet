@@ -50,6 +50,27 @@
    "quote": "",
    "url": "PI.zip:9 马来西亚 Sugito gg",
    "date": "2026-10-22"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "xspectechnology.com：Industrial technology, training, and support for Southeast Asia；5 个行业（油气海事、军警安防、生物实验室、医疗、培训）；54 品牌 86 产品；客户墙 PDRM、Bomba、MSAT、SPRM、Kastam、UM、Penjara、UiTM、IMR、LHDN…；Subang Jaya USJ 1/8；inquiry@xspec.com.my",
+   "quote": "5 Industries 54 Brands 86 Products … Trusted by government agencies, universities, hospitals, and industry leaders across Malaysia",
+   "url": "https://xspectechnology.com/",
+   "date": "2026-10-23"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "MINDTCE 2026（8th Malaysia International NDT Conference & Exhibition，2026-11-17/18）参展商档案：XSPEC TECHNOLOGY SDN BHD，联系人 Sugito Wibawa，sugito@xspec.com.my，+60129888086",
+   "quote": "XSPec Technology Sdn Bhd (XSPec) is a Malaysian-based technology provider and manufacturing representative … Non-Destructive Testing (NDT) sector",
+   "url": "https://mindtce.com.my/companyprofile/B2611000001",
+   "date": "2026-10-23"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "Converus 授权服务伙伴名录：MALAYSIA XSPec Technology Sdn Bhd，Sugito Wibawa，+60 (3) 8023 1162",
+   "quote": "MALAYSIA XSPec Technology Sdn Bhd Sugito Wibawa … W: xspectechnology.com",
+   "url": "https://converus.com/find-a-partner/",
+   "date": "2026-09-23"
   }
  ],
  "kp": [
@@ -83,9 +104,11 @@
  "channels": {
   "网站": "https://xspectechnology.com/ · xspec.com.my",
   "邮箱": "sugito@xspec.com.my（用户表）",
-  "WhatsApp / Skype": "+60 12 988 8086 / sugitowibawa（用户表）"
+  "WhatsApp / Skype": "+60 12 988 8086 / sugitowibawa（用户表）",
+  "公开动态平台（监控中，T29-U18）": "新目录站 xspectechnology.com（2026 改版，MY/SG/ID 三站，54 品牌 86 产品）；CEO Sugito Wibawa LinkedIn（1K followers，2026-05 仍活跃）；展会：MINDTCE 2026-11-17/18（NDT 展参展商）"
  },
  "signals": [
+  "2026-10-23 核查：XSPec 定位已非常清楚——油气/海事 NDT、军警安防（Converus 测谎软件授权服务商、Intron NDT 代理）、生物实验室、医疗设备的代理与培训，客户全是马来西亚政府机关（PDRM 警察、Bomba 消防、Kastam 海关、Penjara 监狱、SPRM 反贪…）；2019 年那单酒店网络是偶发；gg 维持，不投入",
   "CEO 直接表示对交换机/PoE 感兴趣并有 2 次实质回复 → 可作东南亚项目配套分销",
   "军警安防代理线 → 守界：仅民用项目供货"
  ],
@@ -111,5 +134,12 @@
   "rmb": 0.0,
   "profit_rmb": 3179.39,
   "models": "Commercial Switch"
+ },
+ "watch": {
+  "as_of": "2026-10-23",
+  "github_watch": [],
+  "web_watch_targets": "scripts/web_watch/targets.json#SA-007",
+  "status": "data/customer_watch/当前状态.md",
+  "log": "data/customer_watch/变化日志.md"
  }
 }

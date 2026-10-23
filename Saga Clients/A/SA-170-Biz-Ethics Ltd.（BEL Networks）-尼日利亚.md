@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-22
+updated: 2026-10-23
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -87,9 +87,24 @@ updated: 2026-10-22
   > 来源：PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20260830012.xls（抓取 2026-08-30）
 - **【PI】PI 包文件夹「尼日利亚 Mbata 活跃 货代走账 轻度绑定」：Simon 标签 活跃，收款 货代走账，轻度绑定；单号 12 个，2024-09-08 → 2026-08-30，销售 USD 0 / RMB 101353.0，Simon 成本统计利润合计 RMB 0**
   > 来源：PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定（抓取 2026-10-22）
+- **【公开平台核查（T29-U18）】belnetworks.com 现为域名停放页（1st Domains，新西兰注册商），不是 Biz-Ethics 的网站**
+  > You have reached the future website of belnetworks.com. This domain is currently parked with 1st Domains and does not yet have a website
+  > 来源：https://belnetworks.com/（抓取 2026-10-23）
+- **【公开平台核查（T29-U18）】RDAP：belnetworks.com 注册 2024-08-16（即被人重新注册），到期 2027-08-16，last changed 2026-07-19，注册商 eNom，NS ns1/ns2.1stdomains.net.nz；GitHub 上多份过期域名日志（2021/2023/2024）也列有该域 → 原主多次脱手**
+  > "registration","eventDate":"2024-08-16T06:09:14Z" … "expiration","eventDate":"2027-08-16T06:09:14Z" … NS1.1STDOMAINS.NET.NZ
+  > 来源：https://rdap.verisign.com/com/v1/domain/belnetworks.com（抓取 2026-10-23）
+- **【公开平台核查（T29-U18）】尼日利亚黄页目录条目：BIZ-ETHICS LTD. 经营计算机、有线/无线网络设备、监控与门禁、电源调节设备**
+  > BIZ-ETHICS LTD. Sales of Computers, Networking (Wired/Wireless) Equipments, Surveillance & Access Control Systems and Power-Conditioning Equipment
+  > 来源：http://www.ngcontacts.com/directory/computer-and-infotech/computer-networking/（抓取 2026-10-23）
 - **KP**：Valentine Mbata（单据联系人）info@belnetworks.com 〔PI.zip 单据〕
 - **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）
 
+### 加厚挖掘（2026-10-23 · 公开平台核查（T29-U18，针对性：只核活跃平台与触达通道））
+
+- **触达通道（公开）**：公开动态平台（监控中，T29-U18）: ⚠ belnetworks.com 已不在客户手中：2026-10-23 为 1st Domains（新西兰）停放页；RDAP 显示该域名 2024-08-16 被重新注册（eNom，NS 1stdomains.net.nz），到期 2027-08-16。公开动态平台：无（LinkedIn/Facebook 公司页未检索到）；唯一可靠通道 = WhatsApp +234 702 918 6461
+- **近况信号**：
+  - ⚠ 2026-10-23 核查：客户邮箱域 belnetworks.com 自 2024-08-16 起由第三方注册并停放（不是客户的网站）。info@belnetworks.com 很可能收不到或被陌生人收到——对 Biz-Ethics 的任何报价/单据改走 WhatsApp +234 702 918 6461，并向 Valentine 要一个新邮箱；A 邮箱入库后核对 2024-09 以来与他们的邮件实际走的是哪个地址
+- **Saga 对位结论**：P1 待核型（无标准对应）（20% 档）——成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -231,12 +246,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-05**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-06**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 84）
+- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 84）
 
 ---
 
-*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -234,6 +234,30 @@ def snapshot(cfg, prev=None):
                 'hits': sorted(it['full_name'] + ' (' + (it.get('pushed_at') or '')[:10] + ')' for it in r['items'])}
         else:
             snap['searches']['repo:' + q] = r
+    # 10（T29-U18）成单客户的 GitHub 账号/组织：仓库 pushed_at + 公开事件 + 档案
+    snap['customer_accounts'] = {}
+    for acc in cfg.get('customer_accounts', []):
+        login = acc['login']
+        p = gh(f'users/{login}')
+        if '_error' in p:
+            snap['_errors'].append({'path': f'customer:{login}', 'error': p['_error'][:160]})
+            if login in (prev.get('customer_accounts') or {}):
+                snap['customer_accounts'][login] = prev['customer_accounts'][login]
+            continue
+        repos = gh(f'users/{login}/repos?per_page=100&type=all&sort=pushed', paginate=True)
+        ev = gh(f'users/{login}/events/public?per_page=30')
+        snap['customer_accounts'][login] = {
+            'code': acc.get('code'), 'name': acc.get('name'),
+            'profile': {k: p.get(k) for k in ('login', 'type', 'name', 'company', 'blog', 'location', 'email', 'bio',
+                                              'public_repos', 'followers', 'created_at', 'updated_at')},
+            'repos': {r['name']: {'pushed_at': r.get('pushed_at'), 'description': r.get('description'), 'fork': r.get('fork'),
+                                  'language': r.get('language'), 'size': r.get('size')}
+                      for r in (repos if isinstance(repos, list) else [])},
+            'events': [{'id': e['id'], 'at': e['created_at'], 'type': e['type'], 'repo': e['repo']['name'],
+                        'ref': (e.get('payload') or {}).get('ref'),
+                        'commits': [c['message'].split('\n')[0][:100] for c in (e.get('payload') or {}).get('commits', [])][:5]}
+                       for e in (ev if isinstance(ev, list) else [])],
+        }
     return snap
 
 
@@ -280,6 +304,9 @@ def diff(prev, cur, seen=None):
             if isinstance(r, dict) and 'hits' in r:
                 for h in r['hits']:
                     first_time('search:' + q, h)
+        for login, d in (cur.get('customer_accounts') or {}).items():
+            for e in d.get('events', []):
+                first_time('cust_events:' + login, e['id'])
         return out
     # 档案
     for k in ('name', 'company', 'blog', 'location', 'bio', 'public_repos', 'followers', 'following'):
@@ -377,6 +404,33 @@ def diff(prev, cur, seen=None):
                 out.append(f'搜索 {q} 新命中：{h}')
         if isinstance(pr_, dict) and pr_.get('total') != r.get('total'):
             out.append(f'搜索 {q} 总数：{pr_.get("total")} → {r.get("total")}')
+    # 成单客户账号（T29-U18）
+    pc, cc = prev.get('customer_accounts') or {}, cur.get('customer_accounts') or {}
+    for login in sorted(set(cc) | set(pc)):
+        a, b = pc.get(login) or {}, cc.get(login) or {}
+        tag = f'客户账号 {login}（{b.get("code") or a.get("code")}）'
+        if login not in pc:
+            out.append(f'{tag} 首次纳入监控：仓库 {len(b.get("repos", {}))}，档案 {b.get("profile", {}).get("type")} {b.get("profile", {}).get("name")}')
+            for e in b.get('events', []):
+                first_time('cust_events:' + login, e['id'])
+            continue
+        if login not in cc:
+            out.append(f'{tag} 本轮未取到（账号消失/改名/API 失败）')
+            continue
+        for k in ('name', 'company', 'blog', 'location', 'bio', 'public_repos', 'followers'):
+            if (a.get('profile') or {}).get(k) != (b.get('profile') or {}).get(k):
+                out.append(f'{tag} 档案 {k}：{(a.get("profile") or {}).get(k)!r} → {(b.get("profile") or {}).get(k)!r}')
+        ar, br = a.get('repos', {}), b.get('repos', {})
+        for n in sorted(set(br) - set(ar)):
+            out.append(f'{tag} 新仓库 {n}（pushed {br[n].get("pushed_at")}）：{br[n].get("description")}')
+        for n in sorted(set(ar) - set(br)):
+            out.append(f'{tag} 仓库消失/转私有：{n}')
+        for n in sorted(set(ar) & set(br)):
+            if ar[n].get('pushed_at') != br[n].get('pushed_at'):
+                out.append(f'{tag} 仓库 {n} 有新推送：{ar[n].get("pushed_at")} → {br[n].get("pushed_at")}')
+        for e in b.get('events', []):
+            if first_time('cust_events:' + login, e['id']):
+                out.append(f'{tag} 新事件 {e["at"]} {e["type"]} {e["repo"]} {e.get("ref") or ""} ' + ' ‖ '.join(e.get('commits') or []))
     return out
 
 
@@ -456,6 +510,14 @@ def write_status(cfg, cur, changes):
             lines.append(f'- {q}：{r.get("total")} 命中 → ' + '；'.join(r['hits'][:25]))
         else:
             lines.append(f'- {q}：{r}')
+    lines.append('')
+    lines.append('## 成单客户的 GitHub 账号（T29-U18；网页/RSS 等其它平台见 data/customer_watch/）')
+    for login, d in (cur.get('customer_accounts') or {}).items():
+        pr = d.get('profile') or {}
+        newest = max([v.get('pushed_at') or '' for v in d.get('repos', {}).values()] or ['-'])
+        lines.append(f'- **{login}**（{d.get("code")} {d.get("name")}）· {pr.get("type")} · 注册 {str(pr.get("created_at"))[:10]} · 仓库 {len(d.get("repos", {}))} · 最近推送 {newest} · 最近事件 {(d.get("events") or [{}])[0].get("at", "-")}')
+        for n, v in sorted(d.get('repos', {}).items(), key=lambda kv: kv[1].get('pushed_at') or '', reverse=True)[:8]:
+            lines.append(f'  - {n}（{str(v.get("pushed_at"))[:10]}，{v.get("language")}）{v.get("description") or ""}')
     lines.append('')
     lines.append('## 本轮变化')
     lines += [f'- {c}' for c in changes] or ['- 无']

@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-22
+updated: 2026-10-23
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -75,9 +75,21 @@ updated: 2026-10-22
   > 来源：PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20260706013.xls（抓取 2026-07-06）
 - **【PI】PI 包文件夹「泰国 Peeranun 活跃 货代走账 轻度绑定」：Simon 标签 活跃，收款 货代走账，轻度绑定；单号 6 个，2024-10-14 → 2026-07-06，销售 USD 0 / RMB 37489.0，Simon 成本统计利润合计 RMB 0**
   > 来源：PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定（抓取 2026-10-22）
+- **【公开平台核查（T29-U18）】pbacctv.com 页脚：บริษัทพีบีเอ ฟอร์เอฟเวอร์ เทคโนโลยีจำกัด（PBA Forever Technology Co., Ltd.）电话 098-265-6972 / 086-544-2684，办公 02-050-0699，LINE peeranun8336，Email pomnong9@gmail.com**
+  > บริษัทพีบีเอ ฟอร์เอฟเวอร์ เทคโนโลยีจำกัด เบอร์โทร 098-265-6972 , 086-544-2684 สำนักงาน : 02-050-0699 … Line : peeranun8336 Email : pomnong9@gmail.com
+  > 来源：https://www.pbacctv.com/home/product/?id=139（抓取 2026-10-23）
+- **【公开平台核查（T29-U18）】业务：全套 CCTV 安装（住宅/宿舍/公寓/商铺/办公），Hikvision Color Vu 套餐 2 路 13,900฿ … 8 路 26,900฿；另卖 CCTV 电源箱与 UPS**
+  > โปรพิเศษ ลดราคาทุกชุด Hikvision Audio Camera 8 ตัวพร้อมติดตั้ง … ลดเหลือเพียง 26,900฿
+  > 来源：https://www.pbacctv.com/（抓取 2026-10-23）
 - **KP**：Peeranun Ratannabuajan（CEO）pomnong9@gmail.com 〔PI.zip 单据〕
 - **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）
 
+### 加厚挖掘（2026-10-23 · 公开平台核查（T29-U18，针对性：只核活跃平台与触达通道））
+
+- **触达通道（公开）**：公开动态平台（监控中，T29-U18）: 官网 pbacctv.com（泰文 CCTV 安装商站：Hikvision 套餐价、电源/UPS 类目，持续上新）；LINE peeranun8336；电话 098-265-6972 / 086-544-2684 / 02-050-0699；pomnong9@gmail.com
+- **近况信号**：
+  - 2026-10-23 核查：公司网站为 pbacctv.com（此前只知 Gmail）——北榄府 Bang Phli 的 CCTV/门禁/网络安装商，主卖 Hikvision 套餐（2 路 13,900฿、6 路 24,900฿、8 路 26,900฿）+ 电源/UPS（CHUPHOTIC）；对口 = 4/8/16 口 PoE 交换机配套
+- **Saga 对位结论**：P1 待核型（无标准对应）（25% 档）——成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -209,12 +221,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-05**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-06**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 66）
+- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 66）
 
 ---
 
-*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-22
+updated: 2026-10-23
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -77,6 +77,9 @@ updated: 2026-10-22
   > 来源：PI.zip:5 印度 Rajesh gg/普通快递发票.xlsx（抓取 2024-04-22）
 - **【PI】PI 包文件夹「印度 Rajesh gg」：Simon 标签 gg；单号 1 个，2024-04-22 → 2024-04-22，销售 USD 120.0 / RMB 0，Simon 成本统计利润合计 RMB 481.99**
   > 来源：PI.zip:5 印度 Rajesh gg（抓取 2026-10-22）
+- **【公开平台核查（T29-U18）】RocketReach：营收 $15.2M，28 人在册；signalhire：专长含 IIoT、RTU、远程通信、交通行业自动化、能源管理**
+  > Revenue · $15.2 million Employees · 28 … Specialities: Factory Automation, Infrastructure Automation, Industry 4.0, IIoT, Datalogging, Remote Communication, RTU
+  > 来源：https://rocketreach.co/united-control-engineers-india-pvt-ltd-profile_b7dc2582c0cb47fa（抓取 2026-10-23）
 - **KP**：—（市场部）marketing@unitedcontrolengg.com +91 93111 50492〔https://unitedcontrolengg.com/〕
 - **KP**：Rajesh（单据联系人）accounts@unitedcontrolengg.com 〔PI.zip 单据〕
 - 备注：A 确认：工业自动化分销商是 STI 非管理工业交换机（STI-244GP/288GP）的天然渠道；印度区价格敏感，报 20% 分销档并给 MOQ 阶梯。
@@ -100,8 +103,9 @@ updated: 2026-10-22
 | Phoenix Contact | FL SWITCH 1016N | 16 口非管理工业 | STI-21616GP | https://unitedcontrolengg.com/ethernet-switch/（2026-05-23） |
 | Teltonika | TSW100 / TSW110 / TSW200 / TSW210 / TSW212 / TSW010 / TSW030 | TSW100 紧凑千兆 PoE 非管理；TSW200/210/212 管理型 | STI-144GP（TSW100 位）/ STI-288DGGPM（TSW200 位） | https://unitedcontrolengg.com/ethernet-switch/（2026-05-23） |
 
-- **触达通道（公开）**：网站: https://unitedcontrolengg.com/（有交换机落地页与询盘表单）；直邮: marketing@unitedcontrolengg.com（官网）；sumitagrwal@yahoo.com（Sumit Agrawal，成单，用户表）；WhatsApp: 已加（用户表）；LinkedIn: https://in.linkedin.com/company/united-control-engineers-india-pvt-ltd
+- **触达通道（公开）**：网站: https://unitedcontrolengg.com/（有交换机落地页与询盘表单）；直邮: marketing@unitedcontrolengg.com（官网）；sumitagrwal@yahoo.com（Sumit Agrawal，成单，用户表）；WhatsApp: 已加（用户表）；LinkedIn: https://in.linkedin.com/company/united-control-engineers-india-pvt-ltd；公开动态平台（监控中，T29-U18）: 官网博客 unitedcontrolengg.com（WordPress，2026-09/10 仍更新，RSS）；LinkedIn 公司页 989 followers；Facebook unitedcontrolengg；IndiaMART（Pramendra Chaudhary，Director）
 - **近况信号**：
+  - 2026-10-23 核查：UCE 是大诺伊达 40 人规模的 Delta/Schneider/ABB/Phoenix Contact/nVent 授权分销 + 盘柜集成商（RocketReach 营收 $15.2M）——Phoenix Contact 工业交换机是其现成货架，Saga 工业系列价格仅其 1/3；对口 = 盘柜项目配套的 DIN 导轨非网管/网管交换机；gg 维持但值得一年两次 LinkedIn 看项目动态
   - 2026-05-23：官网新建「Industrial Ethernet Switch Solutions」页，列 Phoenix + Teltonika 全系——正在把交换机做成独立品类（https://unitedcontrolengg.com/ethernet-switch/）
   - 用户表：3 次实质回复，兴趣 5/8 口非管理工业 FS，已成单
 - **风险/边界**：印度 BIS 认证（IS 13252）对部分 IT 设备强制，需确认交换机是否需 BIS；进口关税高；客户已有 Phoenix/Teltonika 授权线 → Saga 定位为低价第二品牌
@@ -269,12 +273,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 107）；人工/调研定级 → B
+- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 107）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

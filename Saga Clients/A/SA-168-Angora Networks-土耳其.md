@@ -28,7 +28,7 @@ price_tier: 30%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-22
+updated: 2026-10-23
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -152,6 +152,18 @@ updated: 2026-10-22
   > 来源：PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/CI.xls（抓取 2025-06-19）
 - **【PI】PI 包文件夹「土耳其 Levent 活跃 Xtransfer 轻度绑定」：Simon 标签 活跃，收款 Xtransfer，轻度绑定；单号 10 个，2024-05-08 → 2025-06-19，销售 USD 61669.0 / RMB 0，Simon 成本统计利润合计 RMB 75789.12**
   > 来源：PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定（抓取 2026-10-22）
+- **【公开平台核查（T29-U18）】LinkedIn 公司页：Ankara，11-50 人，2016 创立，Specialties = IT Network / Network Switch / Network Management；产品 Verge Switch Family + 网管软件**
+  > Angora Networks | 2,110 followers on LinkedIn … Specialties: IT Network, Network Switch, and Network Management … Verge Switch Family
+  > 来源：https://www.linkedin.com/company/angora-networks（抓取 2026-10-23）
+- **【公开平台核查（T29-U18）】官网沿革：2016 成立 → 2017 咨询/维保/研发 → 2018 首款 24 口 PoE/非 PoE 交换机 → 2019 COTS 产品销售渠道 → 2020 新一代产品与海外运营；81 城经销与服务网络**
+  > 2018 First Product 24-Port Switch (PoE ve no-PoE) … 2020 New Generation Products Growth, Overseas Operation
+  > 来源：https://www.angoranetworks.com/angora-networks-_en/?lang=en（抓取 2026-10-23）
+- **【公开平台核查（T29-U18）】GitHub 组织 anwHub = Angora Networks Open Repository（Ankara，contact@angoranetworks.com，blog support.angoranetworks.com）；唯一仓库 3rdPartyConfigs（2020-01-16）= 让 Angora 交换机 802.1X 工作所需的 FreeRADIUS 配置**
+  > 3rd party product configuration needed to make an Angora switch function works. freeRadiusConfigs/clients.conf, eap, radiusd.conf
+  > 来源：https://github.com/anwHub/3rdPartyConfigs（抓取 2026-10-23）
+- **【公开平台核查（T29-U18）】官网 RSS 可用，最后一篇 2023-12-06《Veri Diyotu … ModBUS ve OPC》，此前 2022-10-02《Packet Broker》；feed lastBuild 2026-06-15**
+  > Wed, 06 Dec 2023 11:27:03 +0000 … Angora Networks ® Veri Diyotu Çözümünde Ezber Bozan ModBUS ve OPC protokolü Desteğini Tanıttı
+  > 来源：https://www.angoranetworks.com/feed/（抓取 2026-10-23）
 - **KP**：Levent Kılıç（负责人/商务（付款、合同、项目））lkilic@angoranetworks.com +90 532 476 1428（WeChat/WhatsApp，2024-05-02 本人提供）〔gmail:s.sagatelecom thread 1797555182457944562〕
 - **KP**：Taylan Esen（技术负责人（RFP 功能、SNMP/固件、MAC/SN、客户 NMS））tesen@angoranetworks.com 〔gmail:s.sagatelecom thread 1797555182457944562〕
 - **KP**：Levent Kilic（单据联系人）levent.kilic@angoranetworks.com; lkilic@angoranetworks.com 〔PI.zip 单据〕
@@ -176,8 +188,9 @@ updated: 2026-10-22
 | Angora ANW-1108-V / Turk Telekom TT-2208 | STI-280DGGM / STI-288DGGPM | 8 口工业 L2+（无 PoE 版用于 385 台项目；PoE 版用于 TT 大项目与警察 RFP） | STI-280DGGM / STI-288DGGPM | gmail:s.sagatelecom thread 1831639576611676264（2025-06-19） |
 | TronX TRX-CS-24X2Q / TRX-CS-48Y8C | CENTEC 24×10G+2×100G / 48×25G+8×100G | 数据中心核心，L3，定制 OS 品牌；报 $4,600（48×25G） | STH（Hohunet/CENTEC 线，按项目报价） | gmail:s.sagatelecom thread 1826873245545893547（2025-03-19） |
 
-- **触达通道（公开）**：直邮: lkilic@angoranetworks.com（Levent）/ tesen@angoranetworks.com（Taylan）；即时通讯: WeChat/WhatsApp +90 532 476 1428（Levent）；文件: Google Drive 订单资料夹（Simon 每单上传 MAC/SN/照片/保修证书）
+- **触达通道（公开）**：直邮: lkilic@angoranetworks.com（Levent）/ tesen@angoranetworks.com（Taylan）；即时通讯: WeChat/WhatsApp +90 532 476 1428（Levent）；文件: Google Drive 订单资料夹（Simon 每单上传 MAC/SN/照片/保修证书）；公开动态平台（监控中，T29-U18）: 官网 RSS angoranetworks.com/feed/（末篇 2023-12-06）；YouTube 频道 UCCAG46dVy-wxXtO-_b7fTPA；GitHub 组织 anwHub（2020-01，3rdPartyConfigs=FreeRADIUS 配置）；support.angoranetworks.com 文档门户（2026-10-23 522）；LinkedIn 公司页 2,110 followers；X @AngoraNetworks；Instagram angora_networks
 - **近况信号**：
+  - 2026-10-23 公开平台核查：官网新闻自 2023-12-06（数据二极管 ModBUS/OPC）后无新文；VERGE 交换机族页为产品入口；LinkedIn 2,110 followers、11-50 人、2016 年创立、2018 首款 24 口交换机、2020「海外运营」——已纳入 data/customer_watch 监控
   - 2026-07-08 最近一次往来（16 口固件问题已解决，要固件文件）
   - 2026-03-05 土耳其警察 RfP 2026 求最低价机型——待跟进结果
   - 2025-05 TT 大项目首批 2,000 台/60 天口径后无成交记录——需确认项目状态
@@ -352,12 +365,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-05**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-06**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 108）
+- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 108）
 
 ---
 
-*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

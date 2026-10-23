@@ -28,7 +28,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-22
+updated: 2026-10-23
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -112,6 +112,12 @@ updated: 2026-10-22
   > 来源：PI.zip:6 美国 Thu 可发展/普通快递发票_STSC20260903006.xlsx（抓取 2026-09-24）
 - **【PI】PI 包文件夹「美国 Thu 可发展」：Simon 标签 可发展；单号 4 个，2024-04-18 → 2026-09-24，销售 USD 1147.0 / RMB 0，Simon 成本统计利润合计 RMB 749.89**
   > 来源：PI.zip:6 美国 Thu 可发展（抓取 2026-10-22）
+- **【公开平台核查（T29-U18）】vilink.us 产品 sitemap：/shop lastmod 2026-08-06；产品含 IE5/IE8/IE10/IE12/IE14/IE18/IE24/IE28/IE216（工业非网管）、ME12…ME216（网管）、EN12…EN48、MC10/12/13/14/15/100/10G 媒体转换器、VL/HL/DL 系列视频光端机、10G–100G AOC/DAC**
+  > https://vilink.us/shop/ 2026-08-06T03:32:25+00:00 … /product/ie28/ … /product/me28/ … /product/mc10g/
+  > 来源：https://vilink.us/product-sitemap.xml（抓取 2026-10-23）
+- **【公开平台核查（T29-U18）】IM28 工业网管千兆交换机 8×RJ45 + 2×SFP，DIN 导轨 10~47 VDC，-40~85°C，4KV 浪涌，SW-Ring 环网 <20ms，标价 $395.00**
+  > IM28 $395.00 Industrial Gigabits Managed Ethernet Switch, 8* 10/100/1000M TX RJ45, 2* 1000M SX SFP, DIN Rail 10~47 VDC … SW-Ring ring network patent technology (Fault recovery time<20ms)
+  > 来源：https://vilink.us/product/im28/（抓取 2026-10-23）
 - **KP**：Robin Sun（联系人（ProcessRegister 名录口径））sales@vilinknet.com（产品 PDF 页脚公开） +1 714-312-0654〔https://www.processregister.com/Vilink_Communications_Inc/Supplier/sid161883.htm ; https://vilink.us/wp-content/uploads/2024/08/MC12.pdf〕
 - **KP**：Thu Pham（单据联系人）thupvilink16@gmail.com 〔PI.zip 单据〕
 - **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 可发展 → A
@@ -136,8 +142,9 @@ updated: 2026-10-22
 | Vi-Link | IEN10 / IEN21 / IEN41 / IEN42 / IEN81 / IEN82 / IEN84 | 工业以太网交换机（IEN 系列，口数/光口组合不同） | STI-288DGGPM | https://vilink.us/industrial-ethernet-switch/（2026-10-21） |
 | Vi-Link | Media Converter 类目 + SFP 模块类目 | MC 与 SFP 为独立类目，与其光端机配套销售 | STI-110GE | https://vilink.us/media-converter/（2026-10-21） |
 
-- **触达通道（公开）**：网站/网店: https://vilink.us/（直销 + 购物车）；直邮: sales@vilinknet.com / thup@vilinknet.com（用户表，成单联系人 Thu Pham）
+- **触达通道（公开）**：网站/网店: https://vilink.us/（直销 + 购物车）；直邮: sales@vilinknet.com / thup@vilinknet.com（用户表，成单联系人 Thu Pham）；公开动态平台（监控中，T29-U18）: 新站 vilink.us（WooCommerce 网店，2024-07 建；product-sitemap /shop lastmod 2026-08-06；80+ SKU：IE/ME/EN 工业交换机、MC 媒体转换器、VL/HL/DL 视频光端机、AOC/DAC、IL10 OEO）；老站 vilinknet.com；ZoomInfo 11-50 人
 - **近况信号**：
+  - 2026-10-23 核查：Vi-Link 2024-07 上线 vilink.us 网店并持续维护（/shop 2026-08-06 更新），标价 IM28 工业网管 8T+2SFP $395、IL10 OEO $445——Saga STI-288DGGPM 报 139.9/145.7/151.6 USD 有 2.5 倍空间；其产品线（交通路口→TOC 工业环网、SW-Ring <20ms）正是 Saga 工业系列的贴牌对象
   - 2026-09：工业交换机页面图片全部更新（上传日期 2026/09）——仍在维护该产品线（https://vilink.us/industrial-ethernet-switch/ 2026-10-21）
   - 用户表：S 重点名单，已成单（Thu Pham），兴趣 光猫/3G-SDI/VC/SFP/DAC/MC
 - **风险/边界**：ITS/交通控制项目在美国常要求 NEMA TS2 与 Buy America/TAA——Saga 不做 UL/NEMA 认证，只能供非政府/商业项目；其交换机为自有品牌贴牌 → 30% OEM 档，且要求中性包装
@@ -331,12 +338,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-05**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-06**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 117）
+- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 117）
 
 ---
 
-*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

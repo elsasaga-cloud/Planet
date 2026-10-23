@@ -246,6 +246,34 @@
    "quote": "",
    "url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定",
    "date": "2026-10-22"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "LinkedIn 公司页：Ankara，11-50 人，2016 创立，Specialties = IT Network / Network Switch / Network Management；产品 Verge Switch Family + 网管软件",
+   "quote": "Angora Networks | 2,110 followers on LinkedIn … Specialties: IT Network, Network Switch, and Network Management … Verge Switch Family",
+   "url": "https://www.linkedin.com/company/angora-networks",
+   "date": "2026-10-23"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "官网沿革：2016 成立 → 2017 咨询/维保/研发 → 2018 首款 24 口 PoE/非 PoE 交换机 → 2019 COTS 产品销售渠道 → 2020 新一代产品与海外运营；81 城经销与服务网络",
+   "quote": "2018 First Product 24-Port Switch (PoE ve no-PoE) … 2020 New Generation Products Growth, Overseas Operation",
+   "url": "https://www.angoranetworks.com/angora-networks-_en/?lang=en",
+   "date": "2026-10-23"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "GitHub 组织 anwHub = Angora Networks Open Repository（Ankara，contact@angoranetworks.com，blog support.angoranetworks.com）；唯一仓库 3rdPartyConfigs（2020-01-16）= 让 Angora 交换机 802.1X 工作所需的 FreeRADIUS 配置",
+   "quote": "3rd party product configuration needed to make an Angora switch function works. freeRadiusConfigs/clients.conf, eap, radiusd.conf",
+   "url": "https://github.com/anwHub/3rdPartyConfigs",
+   "date": "2026-10-23"
+  },
+  {
+   "kind": "公开平台核查（T29-U18）",
+   "claim": "官网 RSS 可用，最后一篇 2023-12-06《Veri Diyotu … ModBUS ve OPC》，此前 2022-10-02《Packet Broker》；feed lastBuild 2026-06-15",
+   "quote": "Wed, 06 Dec 2023 11:27:03 +0000 … Angora Networks ® Veri Diyotu Çözümünde Ezber Bozan ModBUS ve OPC protokolü Desteğini Tanıttı",
+   "url": "https://www.angoranetworks.com/feed/",
+   "date": "2026-10-23"
   }
  ],
  "kp": [
@@ -335,9 +363,11 @@
  "channels": {
   "直邮": "lkilic@angoranetworks.com（Levent）/ tesen@angoranetworks.com（Taylan）",
   "即时通讯": "WeChat/WhatsApp +90 532 476 1428（Levent）",
-  "文件": "Google Drive 订单资料夹（Simon 每单上传 MAC/SN/照片/保修证书）"
+  "文件": "Google Drive 订单资料夹（Simon 每单上传 MAC/SN/照片/保修证书）",
+  "公开动态平台（监控中，T29-U18）": "官网 RSS angoranetworks.com/feed/（末篇 2023-12-06）；YouTube 频道 UCCAG46dVy-wxXtO-_b7fTPA；GitHub 组织 anwHub（2020-01，3rdPartyConfigs=FreeRADIUS 配置）；support.angoranetworks.com 文档门户（2026-10-23 522）；LinkedIn 公司页 2,110 followers；X @AngoraNetworks；Instagram angora_networks"
  },
  "signals": [
+  "2026-10-23 公开平台核查：官网新闻自 2023-12-06（数据二极管 ModBUS/OPC）后无新文；VERGE 交换机族页为产品入口；LinkedIn 2,110 followers、11-50 人、2016 年创立、2018 首款 24 口交换机、2020「海外运营」——已纳入 data/customer_watch 监控",
   "2026-07-08 最近一次往来（16 口固件问题已解决，要固件文件）",
   "2026-03-05 土耳其警察 RfP 2026 求最低价机型——待跟进结果",
   "2025-05 TT 大项目首批 2,000 台/60 天口径后无成交记录——需确认项目状态",
@@ -368,5 +398,14 @@
   "rmb": 0.0,
   "profit_rmb": 75789.12,
   "models": "ANW-2248-PX、Commercial Switch、STC-28DGGPM、STC-416DGGPM、STC-424XGGPM、STC-448XGGPM、STI-21616DGGPM、STI-280DGGM、STI-288DGGPM、TRX-AP-612T、TRX-AS-24TP4X、TRX-AS-48TP4X、TRX-IS-8TP2G、TRX-QSFP-40G-SR4、TRX-QSFP28-100G-SR4、TRX-SFP-10G-LR、TRX-SFP-10G-SR、TRX-SFP-1G-LX、TRX-SFP-1G-SX、TRX-SFP28-25G-SR"
+ },
+ "watch": {
+  "as_of": "2026-10-23",
+  "github_watch": [
+   "anwHub"
+  ],
+  "web_watch_targets": "scripts/web_watch/targets.json#SA-168",
+  "status": "data/customer_watch/当前状态.md",
+  "log": "data/customer_watch/变化日志.md"
  }
 }

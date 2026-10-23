@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-22
+updated: 2026-10-23
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -91,6 +91,9 @@ updated: 2026-10-22
   > 来源：PI.zip:1 格鲁吉亚 George gg/CI.xls（抓取 2023-07-24）
 - **【PI】PI 包文件夹「格鲁吉亚 George gg」：Simon 标签 gg；单号 1 个，2023-07-24 → 2023-07-24，销售 USD 100.0 / RMB 0，Simon 成本统计利润合计 RMB 177.1**
   > 来源：PI.zip:1 格鲁吉亚 George gg（抓取 2026-10-22）
+- **【公开平台核查（T29-U18）】RIPE NCC 成员名录：Delta Consulting LLC，Lvov Str 72，0160 Tbilisi，+995577578811，sales@DC.ge；ipinfo AS209786 1,024 IPv4（2018-12 分配）**
+  > Delta Consulting LLC — RIPE Network Coordination Centre … sales@DC.ge
+  > 来源：https://www.ripe.net/membership/member-support/list-of-members/ge/dc/（抓取 2026-10-23）
 - **KP**：George Jaliashvili（）george@dc.ge +995 577 578 811〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Daviti Giorgadze（）sales@dc.ge +995 32 205 0055〔https://www.dnb.com/business-directory/company-profiles.delta_consulting_llc.7aa4533b0489d16fd5b3bd6748034f92.html〕
 - 备注：（无首轮调研；由 deepen.py 建档）
@@ -105,8 +108,9 @@ updated: 2026-10-22
 | 其他 | US SAM 注册（UEI J9LKEG5JR7D6） |
 
 - **业务线**：服务器 / 网络 / 通信集成（Cisco、Dell、Juniper）；视频监控 CCTV（Dahua）；无线（Cambium、Ruckus）、IoT 网关（Teltonika）
-- **触达通道（公开）**：role: 系统集成商（企业 + 政府项目）；region: 格鲁吉亚
+- **触达通道（公开）**：role: 系统集成商（企业 + 政府项目）；region: 格鲁吉亚；公开动态平台（监控中，T29-U18）: 官网 dc.ge / delta-consulting.ge；Facebook deltaconsultingofficial；RIPE 成员 + AS209786（1,024 IPv4，ISP/托管）；美国 SAM 注册（UEI J9LKEG5JR7D6，CAGE SJFH4）
 - **近况信号**：
+  - 2026-10-23 核查：Delta Consulting 是第比利斯系统集成商（D&B 30 人、$2.05M、负责人 Giorgi Jaliashvili）+ 自有 AS（RIPE 成员）+ 2020 起美国联邦注册（可能承接美使馆/USAID 本地 IT 项目）；伙伴清单全是 Cisco/Juniper/Dell/Lenovo/Cambium/Teltonika/Dahua 等大牌——Saga 只在「低价项目备选」有机会，gg 维持
   - 已从中国同行（新桥）采购同类工业小壳机 → 需求真实、在比价
   - 2025-11 新需求：小型 8 口大功率 PoE
   - CEO 直接对接
@@ -270,12 +274,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-21**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-22：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 93）；人工/调研定级 → B
+- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 93）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-22　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
