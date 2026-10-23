@@ -725,7 +725,19 @@ def git_commit(msg):
     if not os.environ.get('GITHUB_ACTIONS'):
         print('not in GitHub Actions → skip commit')
         return
-    ref = os.environ.get('GITHUB_REF_NAME') or 'arena/3f35b9b3-planet'
+    # 推送目标 = 实际检出的分支，而不是触发工作流的分支：customer-watch.yml 存在默认分支 main 上时
+    # GITHUB_REF_NAME == 'main'，但 checkout 的是 arena/3f35b9b3-planet；若按 GITHUB_REF_NAME 推，会把本分支 rebase 到 main 上并推过去（2026-10-23 06:20Z 修）。
+    ref = os.environ.get('WATCH_PUSH_REF') or ''
+    if not ref:
+        try:
+            cur = subprocess.run(['git', 'rev-parse', '--abbrev-ref', 'HEAD'], cwd=ROOT, check=False,
+                                 capture_output=True, text=True, timeout=60).stdout.strip()
+        except Exception:
+            cur = ''
+        ref = cur if cur and cur != 'HEAD' else 'arena/3f35b9b3-planet'
+    if ref in ('main', 'master'):
+        print(f'refuse to push to {ref}; using arena/3f35b9b3-planet')
+        ref = 'arena/3f35b9b3-planet'
     sh = lambda *a: subprocess.run(a, cwd=ROOT, check=False, timeout=600)  # noqa: E731
     sh('git', 'config', 'user.name', 'smartbyte-archiver[bot]')
     sh('git', 'config', 'user.email', '41898282+github-actions[bot]@users.noreply.github.com')
