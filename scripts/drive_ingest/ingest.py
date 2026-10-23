@@ -124,8 +124,8 @@ def run(cmd, timeout=600, **kw):
 
 
 # ---------------------------------------------------------------- 下载
-def download(rec, dest):
-    """下载到 dest；返回 None 或错误字符串。"""
+def download(rec, dest, keep_partial=False):
+    """下载到 dest；返回 None 或错误字符串。keep_partial=True 时不删除 dest 里已有的部分文件，直接带 Range 续传（跨次运行续传用）。"""
     if LOCAL_DIR:
         src = os.path.join(LOCAL_DIR, rec['path'])
         if not os.path.exists(src):
@@ -156,7 +156,7 @@ def download(rec, dest):
     expect = int(rec.get('bytes') or 0)
     ua = {'User-Agent': 'Mozilla/5.0'}
     sess = requests.Session()
-    if os.path.exists(dest):
+    if os.path.exists(dest) and not keep_partial:
         os.remove(dest)
     for attempt in range(8):
         for url in (DL_URL, DL_URL2):
@@ -233,6 +233,145 @@ def download(rec, dest):
             seen.add(e)
             uniq.append(e)
     return ' | '.join(uniq[-6:]) or 'download failed'
+
+
+# ---- 跨次运行的「部分下载暂存 / 续传」（2026-10-23 T29：12 GB 的 A 邮箱 mbox 跑了 72 min 后在续传时撞上配额锁，整段白下）----
+# 思路：被 Drive 配额锁（或其他下载错误）打断时，把已下载的部分按 ≤PARTIAL_PART 分卷传到本仓库 Release <partial-tag>，
+# 下次运行先从 Release 拼回，再对 Drive 带 Range 续传；完整校验通过后删掉暂存资产。单文件超过单日匿名下载配额时只能这样跨天完成。
+PARTIAL_MIN = int(float(os.environ.get('PARTIAL_MIN_MB', '64')) * 1024 ** 2)      # 小于这个就不值得暂存
+PARTIAL_PART = int(float(os.environ.get('PARTIAL_PART_GB', '1.8')) * 1024 ** 3)   # Release 单资产上限 2 GiB
+
+
+def partial_tag(job):
+    return 'partial-' + re.sub(r'[^\w.-]+', '-', job).strip('-')
+
+
+def _release_assets(tag):
+    r = run(['gh', 'release', 'view', tag, '--json', 'assets', '-q', '.assets[].name'], timeout=120)
+    return r.stdout.split() if r.returncode == 0 else None
+
+
+def partial_pull(fid, dest, tag):
+    """若 Release <tag> 有 <fid>.partial.json（上次被打断时暂存的部分文件），下载分卷拼回 dest。返回 (已拼回字节数, 元数据)；无则 (0, {})。"""
+    if not have('gh'):
+        return 0, {}
+    names = _release_assets(tag)
+    if not names or f'{fid}.partial.json' not in names:
+        return 0, {}
+    d = os.path.join(os.path.dirname(dest) or '.', f'_partial_{fid}')
+    shutil.rmtree(d, ignore_errors=True)
+    os.makedirs(d, exist_ok=True)
+    r = run(['gh', 'release', 'download', tag, '-D', d, '--pattern', f'{fid}.partial*', '--clobber'], timeout=7200)
+    if r.returncode != 0:
+        log('partial download failed:', (r.stderr or r.stdout)[-200:])
+        shutil.rmtree(d, ignore_errors=True)
+        return 0, {}
+    try:
+        meta = json.load(open(os.path.join(d, f'{fid}.partial.json'), encoding='utf-8'))
+    except Exception as e:  # noqa
+        log('partial meta unreadable', e)
+        shutil.rmtree(d, ignore_errors=True)
+        return 0, {}
+    parts = sorted(fn for fn in os.listdir(d) if re.fullmatch(re.escape(fid) + r'\.partial\.part\d+', fn))
+    os.makedirs(os.path.dirname(dest) or '.', exist_ok=True)
+    with open(dest, 'wb') as w:
+        for fn in parts:
+            with open(os.path.join(d, fn), 'rb') as rf:
+                shutil.copyfileobj(rf, w, 1 << 20)
+            os.remove(os.path.join(d, fn))
+    shutil.rmtree(d, ignore_errors=True)
+    got = os.path.getsize(dest)
+    if got != int(meta.get('got') or -1):
+        log('partial size mismatch', got, meta.get('got'), '→ discard')
+        os.remove(dest)
+        return 0, {}
+    log(f'partial resume: {got} / {meta.get("expect") or "?"} bytes restored from Release {tag} (saved {meta.get("at")}, {len(parts)} parts)')
+    return got, meta
+
+
+def partial_push(fid, dest, expect, name, tag, note=''):
+    """把 dest 里已下载的部分分卷传到 Release <tag>（--clobber 覆盖上次），写 <fid>.partial.json。返回 (ok, got)。"""
+    got = os.path.getsize(dest) if os.path.exists(dest) else 0
+    if got < PARTIAL_MIN or not have('gh'):
+        return False, got
+    if _release_assets(tag) is None:
+        r = run(['gh', 'release', 'create', tag, '--latest=false', '--prerelease', '--title', f'部分下载暂存 {tag}',
+                 '--notes', 'Drive 匿名下载被配额锁打断时暂存的部分文件（<id>.partial.partNNN + <id>.partial.json）。'
+                            '下次运行自动拼回并对 Drive 带 Range 续传；完整校验通过后自动删除。不是最终备份。'], timeout=180)
+        if r.returncode != 0:
+            log('partial release create failed:', (r.stderr or r.stdout)[-200:])
+            return False, got
+    n = (got + PARTIAL_PART - 1) // PARTIAL_PART
+    tmp = dest + '.partchunk'
+    ok_all = True
+    with open(dest, 'rb') as rf:
+        for i in range(n):
+            ln = min(PARTIAL_PART, got - i * PARTIAL_PART)
+            with open(tmp, 'wb') as wf:
+                left = ln
+                while left > 0:
+                    chunk = rf.read(min(1 << 20, left))
+                    if not chunk:
+                        break
+                    wf.write(chunk)
+                    left -= len(chunk)
+            asset = f'{fid}.partial.part{i + 1:03d}'
+            ok = False
+            for attempt in range(4):
+                r = run(['gh', 'release', 'upload', tag, f'{tmp}#{asset}', '--clobber'], timeout=7200)
+                if r.returncode == 0:
+                    ok = True
+                    break
+                log('partial upload retry', asset, (r.stderr or r.stdout)[-200:])
+                time.sleep(10 + attempt * 20)
+            log('partial upload', asset, ln, 'bytes', 'ok' if ok else 'FAILED')
+            ok_all = ok_all and ok
+    if os.path.exists(tmp):
+        os.remove(tmp)
+    for a in (_release_assets(tag) or []):     # 上次分卷比这次多时（理论上不会）删掉多余的
+        m = re.fullmatch(re.escape(fid) + r'\.partial\.part(\d+)', a)
+        if m and int(m.group(1)) > n:
+            run(['gh', 'release', 'delete-asset', tag, a, '-y'], timeout=120)
+    meta = {'id': fid, 'name': name, 'got': got, 'expect': expect, 'parts': n, 'at': now(), 'note': note[:300]}
+    mp = dest + '.partial.json'
+    with open(mp, 'w', encoding='utf-8') as f:
+        json.dump(meta, f, ensure_ascii=False, indent=1)
+    r = run(['gh', 'release', 'upload', tag, f'{mp}#{fid}.partial.json', '--clobber'], timeout=300)
+    os.remove(mp)
+    ok_all = ok_all and r.returncode == 0
+    log(f'partial saved to Release {tag}: {got} / {expect or "?"} bytes, {n} parts, ok={ok_all}')
+    return ok_all, got
+
+
+def partial_cleanup(fid, tag):
+    """完整下载并校验通过后删除暂存资产（尽力而为）。"""
+    for a in (_release_assets(tag) or []):
+        if a.startswith(f'{fid}.partial'):
+            run(['gh', 'release', 'delete-asset', tag, a, '-y'], timeout=120)
+
+
+def fetch_with_resume(dm_download, fid, dest, expect, name, ext, tag, log_fn=None):
+    """SOURCE_IDS 下载的统一入口：先尝试从 Release 拼回上次的部分 → 带 Range 续传 → 失败时暂存部分。
+    返回 (err, expect, resumed_bytes, saved_note)；err=None 表示 dest 完整落地（大小=expect，若已知）。"""
+    lg = log_fn or log
+    resumed, meta = partial_pull(fid, dest, tag)
+    if resumed and not expect and meta.get('expect'):
+        expect = int(meta['expect'])
+    if resumed and expect and resumed >= expect:
+        return None, expect, resumed, ''
+    if os.path.exists(dest) and not resumed:
+        os.remove(dest)
+    lg('download', fid, '→', dest, f'(expect {expect} bytes)' if expect else '', f'resume from {resumed}' if resumed else '')
+    err = dm_download({'id': fid, 'ext': ext, 'path': '', 'folder': '', 'name': name, 'bytes': expect}, dest, keep_partial=bool(resumed))
+    note = ''
+    if err:
+        got_now = os.path.getsize(dest) if os.path.exists(dest) else 0
+        if got_now >= PARTIAL_MIN and (not expect or got_now < expect) and got_now > resumed:
+            ok_p, got_p = partial_push(fid, dest, expect, name, tag, note=err)
+            note = f'已下载 {got_p}/{expect or "?"} 字节暂存到 Release {tag}（{"成功" if ok_p else "上传失败"}）；同参数重跑会自动拼回并续传'
+        elif resumed:
+            note = f'本次没有新增字节（暂存仍为 {resumed}/{expect or "?"}，本次 {got_now}），Release 暂存保持不变；等配额解锁后同参数重跑'
+    return err, expect, resumed, note
 
 
 def _drive_confirm_url(body, fid):

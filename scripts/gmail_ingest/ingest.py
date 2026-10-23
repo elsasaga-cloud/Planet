@@ -416,16 +416,21 @@ def resolve_sources():
                 log('probe failed', fid, e)
             ext = os.path.splitext(name)[1].lower() or '.zip'
             dest = os.path.join(RAW_DIR, re.sub(r'[^\w.\-]+', '_', name) if name != fid else f'{fid}{ext}')
+            ptag = dm.partial_tag(f'gmail-{ACCOUNT}')      # 跨次运行续传暂存（2026-10-23：12 GB mbox 被配额锁打断后不再整段白下）
+            resumed = 0
             for attempt in (1, 2):
                 if os.path.exists(dest) and os.path.getsize(dest) > 0 and (not expect or os.path.getsize(dest) == expect):
                     log('reuse downloaded' if attempt == 1 else 'downloaded', dest, os.path.getsize(dest), 'bytes')
                 else:
-                    if os.path.exists(dest):
-                        os.remove(dest)
-                    log('download', fid, '→', dest, f'(expect {expect} bytes)' if expect else '')
-                    err = dm.download({'id': fid, 'ext': ext, 'path': '', 'folder': '', 'name': name, 'bytes': expect}, dest)
+                    if attempt == 1:
+                        err, expect, resumed, note = dm.fetch_with_resume(dm.download, fid, dest, expect, name, ext, ptag, log_fn=log)
+                    else:   # 第二次：校验失败后从零重下
+                        if os.path.exists(dest):
+                            os.remove(dest)
+                        log('download (fresh)', fid, '→', dest, f'(expect {expect} bytes)' if expect else '')
+                        err, note = dm.download({'id': fid, 'ext': ext, 'path': '', 'folder': '', 'name': name, 'bytes': expect}, dest), ''
                     if err:
-                        abort(2 if err.startswith('NOT_SHARED') else 3, f'download failed {fid}: {err}')
+                        abort(2 if err.startswith('NOT_SHARED') else 3, f'download failed {fid}: {err[:160]}' + (f' ｜ {note}' if note else ''))
                 got = os.path.getsize(dest)
                 ok = (not expect or got == expect)
                 if ok and want_md5:
@@ -436,10 +441,14 @@ def resolve_sources():
                     ok = h.hexdigest() == want_md5
                     log(f'md5 {dest}: {h.hexdigest()} {"== " if ok else "!= "}{want_md5}')
                 if ok:
+                    if resumed:
+                        dm.partial_cleanup(fid, ptag)
                     break
                 log(f'VERIFY FAILED (attempt {attempt}): {dest} size {got} expect {expect}')
                 if attempt == 2:
                     abort(3, f'download verify failed twice: {dest} size {got} expect {expect} md5 {want_md5 or "-"}')
+                if resumed:          # 拼回的部分可能已坏：丢掉暂存，第二次从零下
+                    dm.partial_cleanup(fid, ptag)
                 os.remove(dest)
             paths.append((os.path.basename(dest), dest))
     else:
