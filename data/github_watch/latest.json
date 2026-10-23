@@ -1,5 +1,5 @@
 {
- "ts": "2026-10-22T15:50:55Z",
+ "ts": "2026-10-23T01:09:43Z",
  "user_login": "freddy36",
  "_errors": [],
  "profile": {
@@ -342,7 +342,7 @@
     "bdcom2": {
      "sha": "78be88c82b3e",
      "ahead": 2,
-     "behind": 3235,
+     "behind": 3236,
      "commits": [
       {
        "date": "2024-07-15T07:23:59Z",
@@ -361,7 +361,7 @@
     "bdcom-sfp": {
      "sha": "5101042035ac",
      "ahead": 1,
-     "behind": 3272,
+     "behind": 3273,
      "commits": [
       {
        "date": "2024-07-10T07:07:56Z",
@@ -374,7 +374,7 @@
     "edgecos3": {
      "sha": "3e2d6b14cce1",
      "ahead": 1,
-     "behind": 1335,
+     "behind": 1336,
      "commits": [
       {
        "date": "2026-01-30T11:53:18Z",
@@ -387,13 +387,13 @@
     "master": {
      "sha": "8d990149482c",
      "ahead": 0,
-     "behind": 3421,
+     "behind": 3422,
      "commits": []
     },
     "nut": {
      "sha": "da61191ae4c7",
      "ahead": 1,
-     "behind": 3250,
+     "behind": 3251,
      "commits": [
       {
        "date": "2024-07-05T15:59:47Z",
@@ -406,7 +406,7 @@
     "s3900": {
      "sha": "548392854f1b",
      "ahead": 1,
-     "behind": 3221,
+     "behind": 3222,
      "commits": [
       {
        "date": "2024-07-19T09:29:31Z",
@@ -419,7 +419,7 @@
     "smartbyte1": {
      "sha": "0cd35e6723da",
      "ahead": 2,
-     "behind": 1528,
+     "behind": 1529,
      "commits": [
       {
        "date": "2025-12-22T13:32:53Z",
@@ -2304,18 +2304,7 @@
    "url": "https://github.com/freddy36/check_mk_extensions/issues/1"
   }
  ],
- "events": [
-  {
-   "id": "15498388534",
-   "at": "2026-09-22T11:09:28Z",
-   "type": "PullRequestEvent",
-   "repo": "ytti/oxidized",
-   "action": "merged",
-   "ref": null,
-   "title": "",
-   "commits": []
-  }
- ],
+ "events": [],
  "starred": [
   {
    "repo": "denog/denog-wg-access",
@@ -2579,7 +2568,18 @@
      "last_commit": {}
     }
    },
-   "smartbyte_mentions": [],
+   "smartbyte_mentions": [
+    {
+     "number": 3734,
+     "title": "smartbyte: new model for SmartByte switches",
+     "author": "freddy36",
+     "state": "closed",
+     "created": "2026-01-23T11:04:27Z",
+     "updated": "2026-02-13T20:14:44Z",
+     "is_pr": true,
+     "url": "https://github.com/ytti/oxidized/pull/3734"
+    }
+   ],
    "tree_truncated": false
   },
   "netdata/netdata": {
