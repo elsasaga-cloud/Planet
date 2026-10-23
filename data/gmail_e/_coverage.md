@@ -1,0 +1,29 @@
+# Elsa 邮箱（e.sagatelecom@gmail.com）连接器路径入库 — 覆盖说明
+
+> 方式：Arena Gmail 连接器逐封读取（`list_messages` 建索引 → `get_message_text(include_quoted=false)` 取正文），由代理手工转录为 JSON；**不是** Takeout 导出。
+> 裁定依据：T29-U23（2026-10-23 06:15Z）Simon「Elsa邮箱你不是连接了吗 没办法直接读取内容啥的？还是需要我导出？」→ 方案 (b)。
+
+## 邮箱构成（连接器 2026-10-23 06:01Z–06:20Z 读数）
+| 范围 | 封数 / 线程 | 说明 |
+|---|---|---|
+| 全邮箱 | 3,685 / 3,298 | 仍在增长 |
+| SENT | 3,224 / 3,169 | 2025-02→2026-09 群发（16 个主题模板） |
+| CATEGORY_PERSONAL | 153 / 131 | 真人来信（含退信/自动回复/未答复） |
+| CATEGORY_UPDATES | 297 | 大多是退信通知 |
+| `Replied` 标签 | **189 / 51 线程** | Elsa 实际回复过的往来线程 = 本次入库主体 |
+| `Daily` 标签 | 487 / 237 | 日常群发批次标记 |
+
+## 进度
+| 项 | 状态 | 文件 |
+|---|---|---|
+| `Replied` 索引（189 封 / 51 线程，7 页） | ✅ 189/189（06:25Z） | `index_replied.jsonl` |
+| `Replied` 来信正文（客户→Elsa，67 封） | 🔄 49/67（06:31Z） | `text/<id>.json` |
+| `Replied` Elsa 回复正文（101 封，其中首封群发为模板） | ⏳ | `text/<id>.json` |
+| 退信（21 封）：仅记录被退地址 | ⏳ | 索引 labels 含 `D` 可识别 |
+| 个人类未进 `Replied` 的来信（≈60 封） | ⏳ | `index_personal.jsonl` |
+| 附件原件 | ❌ 不经连接器拉（base64 逐件，体积大） | 需要时 Takeout |
+| 发件群发日志 3,224 封 | ❌ 连接器 ≈108 页不可行 | Takeout 可选 |
+
+## 字段
+`id / thread_id / message_id_header / from / to / cc / subject / date / labels / text / text_source / char_count / attachments[{filename,mime_type,size}] / note / fetched / method`
+（`labels` 里 `Replied` = `Label_308850763726262064`；索引行 labels 缩写 S=SENT P=PERSONAL U=UPDATES I=IMPORTANT R=Replied D=Daily T=TRASH STAR=STARRED）

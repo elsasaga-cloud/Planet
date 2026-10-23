@@ -1,0 +1,3099 @@
+{
+ "ts": "2026-10-23T06:31:57Z",
+ "user_login": "freddy36",
+ "_errors": [],
+ "profile": {
+  "login": "freddy36",
+  "id": 1706402,
+  "name": "Frederik Kriewitz",
+  "company": null,
+  "blog": "",
+  "location": null,
+  "email": null,
+  "bio": null,
+  "public_repos": 35,
+  "public_gists": 0,
+  "followers": 12,
+  "following": 3,
+  "created_at": "2012-05-04T16:17:30Z",
+  "updated_at": "2026-09-14T06:14:32Z"
+ },
+ "repos": {
+  "a2billing": {
+   "fork": true,
+   "pushed_at": "2026-09-21T14:25:23Z",
+   "updated_at": "2026-09-21T14:25:28Z",
+   "stars": 0,
+   "default_branch": "develop",
+   "description": "A2Billing is a telecom switch and billing system capable of providing and billing a range of telecom products and services to customers such as calling card products, residential and wholesale VoIP termination, DID resale and callback services.",
+   "homepage": "www.asterisk2billing.org"
+  },
+  "oxidized": {
+   "fork": true,
+   "pushed_at": "2026-08-21T08:30:54Z",
+   "updated_at": "2023-11-15T14:56:38Z",
+   "stars": 0,
+   "default_branch": "master",
+   "description": "configuration backup software (IOS, JunOS) - silly attempt at rancid",
+   "homepage": null
+  },
+  "kigaroo-image-downloader": {
+   "fork": false,
+   "pushed_at": "2026-02-13T13:12:41Z",
+   "updated_at": "2026-02-13T13:12:44Z",
+   "stars": 0,
+   "default_branch": "main",
+   "description": "A quick and dirty download script for images from kigaroo.de image albums",
+   "homepage": null
+  },
+  "librenms": {
+   "fork": true,
+   "pushed_at": "2026-01-30T11:54:21Z",
+   "updated_at": "2024-04-10T15:50:43Z",
+   "stars": 0,
+   "default_branch": "master",
+   "description": "Community-based GPL-licensed network monitoring system",
+   "homepage": "https://www.librenms.org"
+  },
+  "check_mk_extensions": {
+   "fork": false,
+   "pushed_at": "2026-01-12T17:42:04Z",
+   "updated_at": "2026-03-12T11:13:13Z",
+   "stars": 12,
+   "default_branch": "master",
+   "description": "Extensions for check_mk",
+   "homepage": null
+  },
+  "snmpsim": {
+   "fork": true,
+   "pushed_at": "2024-06-22T21:02:49Z",
+   "updated_at": "2024-06-27T14:09:00Z",
+   "stars": 0,
+   "default_branch": "master",
+   "description": "SNMP Simulator",
+   "homepage": "https://www.pysnmp.com/snmpsim/"
+  },
+  "dddvb": {
+   "fork": true,
+   "pushed_at": "2024-04-26T13:26:51Z",
+   "updated_at": "2024-04-26T13:26:55Z",
+   "stars": 0,
+   "default_branch": "master",
+   "description": "ddbridge linux driver",
+   "homepage": null
+  },
+  "ESP32-audioI2S": {
+   "fork": true,
+   "pushed_at": "2024-03-26T12:47:27Z",
+   "updated_at": "2024-02-01T15:01:50Z",
+   "stars": 0,
+   "default_branch": "master",
+   "description": "Play mp3 files from SD via I2S",
+   "homepage": ""
+  },
+  "mptsd": {
+   "fork": true,
+   "pushed_at": "2024-03-21T10:09:01Z",
+   "updated_at": "2023-03-01T12:38:07Z",
+   "stars": 0,
+   "default_branch": "master",
+   "description": "mptsd receives mpegts streams from udp/multicast or http and combines them into one multiple program stream that is suitable for outputing to DVB-C modulator. It is tested with Dektec DTE-3114 Quad QAM Modulator and it is used in production in couple of small DVB-C networks.",
+   "homepage": "http://georgi.unixsol.org/programs/mptsd/"
+  },
+  "libtsfuncs": {
+   "fork": true,
+   "pushed_at": "2024-03-15T17:27:45Z",
+   "updated_at": "2024-03-15T13:01:49Z",
+   "stars": 0,
+   "default_branch": "master",
+   "description": "libtsfuncs is a library for mpeg PSI parsing and generation.",
+   "homepage": "http://georgi.unixsol.org/programs/libtsfuncs/"
+  },
+  "libfuncs": {
+   "fork": true,
+   "pushed_at": "2024-03-13T08:11:14Z",
+   "updated_at": "2024-03-13T08:10:32Z",
+   "stars": 0,
+   "default_branch": "master",
+   "description": "libfuncs is collection of code (list, queue, circular buffer, io, logging, etc.).",
+   "homepage": "http://georgi.unixsol.org/programs/libfuncs/"
+  },
+  "m3u-parser-generator": {
+   "fork": true,
+   "pushed_at": "2024-02-21T17:37:07Z",
+   "updated_at": "2024-02-15T13:21:44Z",
+   "stars": 0,
+   "default_branch": "main",
+   "description": "Library to parse and generate m3u or m3u8 IPTV playlist files",
+   "homepage": "https://m3u-parser-generator.netlify.app"
+  },
+  "ESPuino": {
+   "fork": true,
+   "pushed_at": "2024-02-16T11:48:47Z",
+   "updated_at": "2024-01-30T13:17:50Z",
+   "stars": 0,
+   "default_branch": "master",
+   "description": "RFID-controlled musicplayer powered by ESP32",
+   "homepage": "https://forum.espuino.de"
+  },
+  "audiobookshelf": {
+   "fork": true,
+   "pushed_at": "2024-02-13T08:41:33Z",
+   "updated_at": "2024-02-13T08:33:59Z",
+   "stars": 0,
+   "default_branch": "master",
+   "description": "Self-hosted audiobook and podcast server",
+   "homepage": "https://audiobookshelf.org"
+  },
+  "apc_tools": {
+   "fork": true,
+   "pushed_at": "2024-02-04T06:00:14Z",
+   "updated_at": "2026-08-04T17:03:35Z",
+   "stars": 12,
+   "default_branch": "master",
+   "description": "Tools for APC devices",
+   "homepage": ""
+  },
+  "audiobook-dl": {
+   "fork": true,
+   "pushed_at": "2023-12-22T10:40:03Z",
+   "updated_at": "2023-12-21T16:05:17Z",
+   "stars": 0,
+   "default_branch": "master",
+   "description": "Audiobook CLI downloader",
+   "homepage": ""
+  },
+  "chatwoot": {
+   "fork": true,
+   "pushed_at": "2022-08-09T04:34:28Z",
+   "updated_at": "2022-01-25T08:07:02Z",
+   "stars": 0,
+   "default_branch": "develop",
+   "description": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+   "homepage": "https://www.chatwoot.com/help-center"
+  },
+  "flask-admin-subview": {
+   "fork": true,
+   "pushed_at": "2022-07-05T15:15:01Z",
+   "updated_at": "2022-07-05T15:15:05Z",
+   "stars": 0,
+   "default_branch": "master",
+   "description": "Embedded Flask-Admin list views",
+   "homepage": null
+  },
+  "ngx-iban-validator": {
+   "fork": true,
+   "pushed_at": "2022-01-20T15:36:42Z",
+   "updated_at": "2020-02-09T14:37:30Z",
+   "stars": 0,
+   "default_branch": "master",
+   "description": "IBAN Validator for your reactive Angular forms, comes without any dependencies and can be used even outside of Angular as standalone function in any JS project. It can perform format, digit and length IBAN validations.",
+   "homepage": ""
+  },
+  "rdpwrap": {
+   "fork": true,
+   "pushed_at": "2021-05-27T10:06:42Z",
+   "updated_at": "2021-10-18T12:45:37Z",
+   "stars": 0,
+   "default_branch": "master",
+   "description": "RDP Wrapper Library",
+   "homepage": null
+  },
+  "MuMuDVB": {
+   "fork": true,
+   "pushed_at": "2021-01-20T11:05:16Z",
+   "updated_at": "2021-01-05T15:04:11Z",
+   "stars": 0,
+   "default_branch": "mumudvb2",
+   "description": "A DVB IPTV streaming software",
+   "homepage": "http://mumudvb.braice.net/"
+  },
+  "puppet-gitlab": {
+   "fork": true,
+   "pushed_at": "2020-01-07T15:53:23Z",
+   "updated_at": "2020-01-07T15:53:25Z",
+   "stars": 0,
+   "default_branch": "master",
+   "description": null,
+   "homepage": null
+  },
+  "genieacs-docker": {
+   "fork": true,
+   "pushed_at": "2019-11-15T15:08:36Z",
+   "updated_at": "2019-11-15T15:08:22Z",
+   "stars": 0,
+   "default_branch": "master",
+   "description": "Automated configuration files for your GenieACS deployment",
+   "homepage": ""
+  },
+  "pdfocgtool": {
+   "fork": false,
+   "pushed_at": "2019-01-22T17:00:15Z",
+   "updated_at": "2019-04-30T19:42:25Z",
+   "stars": 1,
+   "default_branch": "master",
+   "description": "A simple tool to modify Optional Content Group (OCG) realted options of PDF files.",
+   "homepage": ""
+  },
+  "StartSSL_API": {
+   "fork": false,
+   "pushed_at": "2019-01-21T16:14:36Z",
+   "updated_at": "2019-01-21T16:14:54Z",
+   "stars": 14,
+   "default_branch": "master",
+   "description": "DEPRECATED A python/CLI API for some StartCom StartSSL functions",
+   "homepage": ""
+  },
+  "IPTV-Analyzer": {
+   "fork": true,
+   "pushed_at": "2018-07-06T13:54:46Z",
+   "updated_at": "2018-08-01T11:44:21Z",
+   "stars": 0,
+   "default_branch": "master",
+   "description": "Fast MPEG2 Transport Stream Analyzer, based on Netfilter kernel module",
+   "homepage": "www.iptv-analyzer.org"
+  },
+  "pyfreebilling": {
+   "fork": true,
+   "pushed_at": "2018-04-13T08:36:10Z",
+   "updated_at": "2018-04-12T14:26:09Z",
+   "stars": 0,
+   "default_branch": "master",
+   "description": "VoIP wholesale application - AGPL v3 - Based on kamailio and Freewitch",
+   "homepage": "https://www.pyfreebilling.com"
+  },
+  "java-tron": {
+   "fork": true,
+   "pushed_at": "2017-12-30T16:40:19Z",
+   "updated_at": "2017-12-31T12:36:42Z",
+   "stars": 0,
+   "default_branch": "develop",
+   "description": "Java implementation of the Tron whitepaper",
+   "homepage": ""
+  },
+  "acme.sh": {
+   "fork": true,
+   "pushed_at": "2017-12-07T16:26:13Z",
+   "updated_at": "2020-01-30T01:55:50Z",
+   "stars": 0,
+   "default_branch": "master",
+   "description": "A pure Unix shell script implementing ACME client protocol",
+   "homepage": "https://acme.sh"
+  },
+  "gethttpsforfree": {
+   "fork": true,
+   "pushed_at": "2015-12-11T16:25:40Z",
+   "updated_at": "2026-09-26T07:38:59Z",
+   "stars": 0,
+   "default_branch": "gh-pages",
+   "description": "Source code for https://gethttpsforfree.com/",
+   "homepage": ""
+  },
+  "python-isc-dhcp-leases": {
+   "fork": true,
+   "pushed_at": "2015-09-11T08:20:56Z",
+   "updated_at": "2015-09-10T12:42:43Z",
+   "stars": 0,
+   "default_branch": "master",
+   "description": "Small python module for reading /var/lib/dhcp/dhcpd.leases from isc-dhcp-server",
+   "homepage": null
+  },
+  "Emby.Kodi": {
+   "fork": true,
+   "pushed_at": "2015-05-03T07:40:45Z",
+   "updated_at": "2015-05-03T07:40:45Z",
+   "stars": 0,
+   "default_branch": "master",
+   "description": "Emby add-on for Kodi",
+   "homepage": "http://emby.media"
+  },
+  "PostNAS": {
+   "fork": true,
+   "pushed_at": "2015-02-19T22:14:19Z",
+   "updated_at": "2018-06-28T13:32:47Z",
+   "stars": 0,
+   "default_branch": "master",
+   "description": "Privater Git-Mirror des PostNAS-Projektes: http://trac.wheregroup.com/PostNAS",
+   "homepage": ""
+  },
+  "i-doit_stuff": {
+   "fork": false,
+   "pushed_at": "2014-09-15T12:45:14Z",
+   "updated_at": "2021-07-02T10:33:39Z",
+   "stars": 0,
+   "default_branch": "master",
+   "description": "Various stuff for the i-doit CMDB",
+   "homepage": null
+  },
+  "whois": {
+   "fork": true,
+   "pushed_at": "2014-06-04T11:46:47Z",
+   "updated_at": "2014-06-05T16:53:04Z",
+   "stars": 0,
+   "default_branch": "master",
+   "description": "Intelligent WHOIS client",
+   "homepage": null
+  }
+ },
+ "fork_branches": {
+  "librenms": {
+   "upstream": "librenms/librenms",
+   "branches": {
+    "bdcom2": {
+     "sha": "78be88c82b3e",
+     "ahead": 2,
+     "behind": 3236,
+     "commits": [
+      {
+       "date": "2024-07-15T07:23:59Z",
+       "sha": "538889902311",
+       "msg": "update BDCOM NMS-IF-MIB",
+       "files_url": "https://github.com/librenms/librenms/commit/5388899023117de8fd268b6b52c4849abf76b07f"
+      },
+      {
+       "date": "2024-07-15T08:19:31Z",
+       "sha": "78be88c82b3e",
+       "msg": "bdcom/fs-bdcom: add transceiver threshold support",
+       "files_url": "https://github.com/librenms/librenms/commit/78be88c82b3ef8ed4250ba8839a998678dd6fc82"
+      }
+     ]
+    },
+    "bdcom-sfp": {
+     "sha": "5101042035ac",
+     "ahead": 1,
+     "behind": 3273,
+     "commits": [
+      {
+       "date": "2024-07-10T07:07:56Z",
+       "sha": "5101042035ac",
+       "msg": "BDCOM: add transceiver monitoring",
+       "files_url": "https://github.com/librenms/librenms/commit/5101042035ac7739874d8c26672286fd12304f9d"
+      }
+     ]
+    },
+    "edgecos3": {
+     "sha": "3e2d6b14cce1",
+     "ahead": 1,
+     "behind": 1336,
+     "commits": [
+      {
+       "date": "2026-01-30T11:53:18Z",
+       "sha": "3e2d6b14cce1",
+       "msg": "improve edgecos support",
+       "files_url": "https://github.com/librenms/librenms/commit/3e2d6b14cce1784208a40c50f29769392a8897eb"
+      }
+     ]
+    },
+    "master": {
+     "sha": "8d990149482c",
+     "ahead": 0,
+     "behind": 3422,
+     "commits": []
+    },
+    "nut": {
+     "sha": "da61191ae4c7",
+     "ahead": 1,
+     "behind": 3251,
+     "commits": [
+      {
+       "date": "2024-07-05T15:59:47Z",
+       "sha": "da61191ae4c7",
+       "msg": "nut-ups: adjust Line Nominal limits",
+       "files_url": "https://github.com/librenms/librenms/commit/da61191ae4c77223143c2cab004d3937b27bc95a"
+      }
+     ]
+    },
+    "s3900": {
+     "sha": "548392854f1b",
+     "ahead": 1,
+     "behind": 3222,
+     "commits": [
+      {
+       "date": "2024-07-19T09:29:31Z",
+       "sha": "548392854f1b",
+       "msg": "Add support for memory, power status and transceiver monitoring to Fiberstore S3900 series switches",
+       "files_url": "https://github.com/librenms/librenms/commit/548392854f1b51c0539394f7a1a7a5bb347c952e"
+      }
+     ]
+    },
+    "smartbyte1": {
+     "sha": "0cd35e6723da",
+     "ahead": 2,
+     "behind": 1529,
+     "commits": [
+      {
+       "date": "2025-12-22T13:32:53Z",
+       "sha": "698d9b700ccc",
+       "msg": "add SmartByte OS support",
+       "files_url": "https://github.com/librenms/librenms/commit/698d9b700ccc0ccde442eb0f60f4b5c55bf3b1e0"
+      },
+      {
+       "date": "2026-01-11T22:59:34Z",
+       "sha": "0cd35e6723da",
+       "msg": "Updated yaml files and re-generated test data",
+       "files_url": "https://github.com/librenms/librenms/commit/0cd35e6723daddc52d7951b3ab39bd69a6637849"
+      }
+     ]
+    }
+   }
+  },
+  "oxidized": {
+   "upstream": "ytti/oxidized",
+   "branches": {
+    "cnos3": {
+     "sha": "566a88f3925b",
+     "ahead": 0,
+     "behind": 59,
+     "commits": []
+    },
+    "feature-pre_login": {
+     "sha": "72a661998608",
+     "ahead": 1,
+     "behind": 2218,
+     "commits": [
+      {
+       "date": "2017-07-07T11:05:48Z",
+       "sha": "72a661998608",
+       "msg": "add pre_login",
+       "files_url": "https://github.com/ytti/oxidized/commit/72a6619986086df4d8db876ca0424f6bb6671b1b"
+      }
+     ]
+    },
+    "master": {
+     "sha": "a35d69074a53",
+     "ahead": 0,
+     "behind": 1231,
+     "commits": []
+    },
+    "mem_use_optimise": {
+     "sha": "88811da1a72b",
+     "ahead": 3,
+     "behind": 2486,
+     "commits": [
+      {
+       "date": "2017-01-01T09:33:30Z",
+       "sha": "464f3fbb74ed",
+       "msg": "don't store whole job in stats",
+       "files_url": "https://github.com/ytti/oxidized/commit/464f3fbb74ed6ca07a89216cd83d9b88c4f72924"
+      },
+      {
+       "date": "2017-01-01T09:35:16Z",
+       "sha": "5ee54cb50248",
+       "msg": "prevent Node#last from keeping Job reference",
+       "files_url": "https://github.com/ytti/oxidized/commit/5ee54cb50248c3b1cc93c5b83ed0cdbba7f13adb"
+      },
+      {
+       "date": "2017-01-01T09:37:15Z",
+       "sha": "88811da1a72b",
+       "msg": "Send Jobs duplicate of duration",
+       "files_url": "https://github.com/ytti/oxidized/commit/88811da1a72b3f7d9ad51b54386478426aeb8bb2"
+      }
+     ]
+    },
+    "next-with-new-thread": {
+     "sha": "25f100e67c63",
+     "ahead": 6,
+     "behind": 2486,
+     "commits": [
+      {
+       "date": "2017-01-01T09:33:30Z",
+       "sha": "464f3fbb74ed",
+       "msg": "don't store whole job in stats",
+       "files_url": "https://github.com/ytti/oxidized/commit/464f3fbb74ed6ca07a89216cd83d9b88c4f72924"
+      },
+      {
+       "date": "2017-01-01T09:35:16Z",
+       "sha": "5ee54cb50248",
+       "msg": "prevent Node#last from keeping Job reference",
+       "files_url": "https://github.com/ytti/oxidized/commit/5ee54cb50248c3b1cc93c5b83ed0cdbba7f13adb"
+      },
+      {
+       "date": "2017-01-01T09:37:15Z",
+       "sha": "88811da1a72b",
+       "msg": "Send Jobs duplicate of duration",
+       "files_url": "https://github.com/ytti/oxidized/commit/88811da1a72b3f7d9ad51b54386478426aeb8bb2"
+      },
+      {
+       "date": "2017-01-11T19:32:59Z",
+       "sha": "571b77d285af",
+       "msg": "add one thread when requesting next via API",
+       "files_url": "https://github.com/ytti/oxidized/commit/571b77d285afe6a9085369d46b4c57ebd58a5ca1"
+      },
+      {
+       "date": "2017-01-12T13:43:28Z",
+       "sha": "691141d90dfd",
+       "msg": "guard adding job via configuration option",
+       "files_url": "https://github.com/ytti/oxidized/commit/691141d90dfdf982e98b02eab7e8938a95dd5855"
+      },
+      {
+       "date": "2017-01-12T13:45:12Z",
+       "sha": "25f100e67c63",
+       "msg": "fix /next guard",
+       "files_url": "https://github.com/ytti/oxidized/commit/25f100e67c63e118ed72b442c8051c179c9bf777"
+      }
+     ]
+    },
+    "no-resolve": {
+     "sha": "50b3bc843d11",
+     "ahead": 0,
+     "behind": 2447,
+     "commits": []
+    },
+    "patch-1": {
+     "sha": "423cdf9345d3",
+     "ahead": 7,
+     "behind": 1502,
+     "commits": [
+      {
+       "date": "2019-08-29T13:35:45Z",
+       "sha": "02e583eb58ea",
+       "msg": "EdgeCOS: include transceiver details",
+       "files_url": "https://github.com/ytti/oxidized/commit/02e583eb58ea40e36d981c14f62145cc89d85265"
+      },
+      {
+       "date": "2019-08-29T15:25:56Z",
+       "sha": "b36a931f6b2e",
+       "msg": "include transceiver information in EdgeCOS model",
+       "files_url": "https://github.com/ytti/oxidized/commit/b36a931f6b2e3262895119fcf0fd283b77b979d2"
+      },
+      {
+       "date": "2019-10-13T10:17:13Z",
+       "sha": "81341c09e717",
+       "msg": "Merge branch 'master' into patch-1",
+       "files_url": "https://github.com/ytti/oxidized/commit/81341c09e717f85c2c801191a58f87a853614e7b"
+      },
+      {
+       "date": "2019-11-07T08:37:26Z",
+       "sha": "7551d4d8cbc6",
+       "msg": "Merge branch 'master' into patch-1",
+       "files_url": "https://github.com/ytti/oxidized/commit/7551d4d8cbc6a38e4bd9a9e5208481eb0c5664aa"
+      },
+      {
+       "date": "2020-01-26T09:09:19Z",
+       "sha": "9c1add79ef73",
+       "msg": "Merge branch 'master' into patch-1",
+       "files_url": "https://github.com/ytti/oxidized/commit/9c1add79ef73ae68d0b1dfd4339204d70dfd81b0"
+      },
+      {
+       "date": "2020-01-28T18:19:52Z",
+       "sha": "546144d8f0c2",
+       "msg": "Merge branch 'master' into patch-1",
+       "files_url": "https://github.com/ytti/oxidized/commit/546144d8f0c21ec26e2ab470f5a8c267e7ac1efd"
+      },
+      {
+       "date": "2020-01-29T18:14:42Z",
+       "sha": "423cdf9345d3",
+       "msg": "EdgeCOS: hide transceiver DDM information",
+       "files_url": "https://github.com/ytti/oxidized/commit/423cdf9345d3473065bb7a250b54bc76525c0e37"
+      }
+     ]
+    },
+    "patch-2": {
+     "sha": "c5f2d3a9ccd5",
+     "ahead": 1,
+     "behind": 1513,
+     "commits": [
+      {
+       "date": "2019-11-07T08:45:03Z",
+       "sha": "c5f2d3a9ccd5",
+       "msg": "Supported OS types: add Fiberstore S3900 series",
+       "files_url": "https://github.com/ytti/oxidized/commit/c5f2d3a9ccd584a7d130616098df41b6ee486491"
+      }
+     ]
+    },
+    "patch-3": {
+     "sha": "c9c6ba10a70d",
+     "ahead": 2,
+     "behind": 1502,
+     "commits": [
+      {
+       "date": "2020-01-28T18:15:25Z",
+       "sha": "b446d1dd0af5",
+       "msg": "GcomBNPS: allow any max length for username/password",
+       "files_url": "https://github.com/ytti/oxidized/commit/b446d1dd0af5e06ad4397b097d7efa75db0db4eb"
+      },
+      {
+       "date": "2020-01-28T18:23:17Z",
+       "sha": "c9c6ba10a70d",
+       "msg": "Update CHANGELOG.md",
+       "files_url": "https://github.com/ytti/oxidized/commit/c9c6ba10a70d57d7c0e88833cb3349b4d91361c8"
+      }
+     ]
+    },
+    "patch-4": {
+     "sha": "4f962d2dee39",
+     "ahead": 6,
+     "behind": 1500,
+     "commits": [
+      {
+       "date": "2020-01-29T18:22:04Z",
+       "sha": "6f9e7b63e4dd",
+       "msg": "fsos_s5800: update Supported-OS-Types",
+       "files_url": "https://github.com/ytti/oxidized/commit/6f9e7b63e4dd2813617397ec119764f461e455c7"
+      },
+      {
+       "date": "2020-01-29T18:24:38Z",
+       "sha": "5dc8b9eebea7",
+       "msg": "fsos_s5800: add model",
+       "files_url": "https://github.com/ytti/oxidized/commit/5dc8b9eebea70a329031f4e5907e21587d7e39f8"
+      },
+      {
+       "date": "2020-01-29T18:27:12Z",
+       "sha": "9c7d0baf23bd",
+       "msg": "update changelog",
+       "files_url": "https://github.com/ytti/oxidized/commit/9c7d0baf23bddce8c5d04dbd43a4a6143518a415"
+      },
+      {
+       "date": "2020-01-30T08:42:21Z",
+       "sha": "e62d54da64e6",
+       "msg": "rename to CNOS",
+       "files_url": "https://github.com/ytti/oxidized/commit/e62d54da64e6d6a9cb8f86e61a1995a671b3486f"
+      },
+      {
+       "date": "2020-01-30T08:49:28Z",
+       "sha": "98482d92759e",
+       "msg": "Rename to CNOS",
+       "files_url": "https://github.com/ytti/oxidized/commit/98482d92759e4769c0f2c6fbf9e7191d62ada1fe"
+      },
+      {
+       "date": "2020-01-30T08:52:14Z",
+       "sha": "4f962d2dee39",
+       "msg": "rename to CNOS",
+       "files_url": "https://github.com/ytti/oxidized/commit/4f962d2dee396a0cc162d8be280ce0a0c6a426b6"
+      }
+     ]
+    },
+    "patch-5": {
+     "sha": "5fa04eadd7d8",
+     "ahead": 2,
+     "behind": 1500,
+     "commits": [
+      {
+       "date": "2020-01-29T18:34:17Z",
+       "sha": "b99fe25add25",
+       "msg": "EdgeCOS: improve model",
+       "files_url": "https://github.com/ytti/oxidized/commit/b99fe25add251e649c3fdcd63d7d9dfa0f6e40d3"
+      },
+      {
+       "date": "2020-01-29T18:37:44Z",
+       "sha": "5fa04eadd7d8",
+       "msg": "Update CHANGELOG.md",
+       "files_url": "https://github.com/ytti/oxidized/commit/5fa04eadd7d833777637636c3c3df12966550782"
+      }
+     ]
+    },
+    "patch-6": {
+     "sha": "57e44129edc3",
+     "ahead": 1,
+     "behind": 1464,
+     "commits": [
+      {
+       "date": "2020-08-07T15:37:05Z",
+       "sha": "57e44129edc3",
+       "msg": "mlnxos: don't strip password",
+       "files_url": "https://github.com/ytti/oxidized/commit/57e44129edc3a15f36de9470e91956df955e03f8"
+      }
+     ]
+    },
+    "patch-7": {
+     "sha": "4bf8d7ee1aed",
+     "ahead": 0,
+     "behind": 1191,
+     "commits": []
+    },
+    "patch-8": {
+     "sha": "08b9e47e7eff",
+     "ahead": 0,
+     "behind": 1214,
+     "commits": []
+    },
+    "smartbyte1": {
+     "sha": "160a362a1a97",
+     "ahead": 0,
+     "behind": 290,
+     "commits": []
+    }
+   }
+  }
+ },
+ "authored": {
+  "pull-request": [
+   {
+    "repo": "ytti/oxidized",
+    "number": 3892,
+    "title": "CNOS: improve support",
+    "state": "closed",
+    "created": "2026-08-19T12:05:44Z",
+    "updated": "2026-09-22T11:09:28Z",
+    "closed": "2026-09-22T11:09:28Z",
+    "merged": "2026-09-22T11:09:28Z",
+    "url": "https://github.com/ytti/oxidized/pull/3892"
+   },
+   {
+    "repo": "acmesh-official/acme.sh",
+    "number": 1136,
+    "title": " default to domain as friendlyName for --toPkcs",
+    "state": "closed",
+    "created": "2017-12-07T16:33:05Z",
+    "updated": "2026-07-10T15:02:24Z",
+    "closed": "2026-07-10T15:02:24Z",
+    "merged": null,
+    "url": "https://github.com/acmesh-official/acme.sh/pull/1136"
+   },
+   {
+    "repo": "librenms/librenms",
+    "number": 18813,
+    "title": "improve edgecos support",
+    "state": "closed",
+    "created": "2026-01-16T10:46:42Z",
+    "updated": "2026-02-17T02:32:32Z",
+    "closed": "2026-02-17T02:32:31Z",
+    "merged": "2026-02-17T02:32:31Z",
+    "url": "https://github.com/librenms/librenms/pull/18813"
+   },
+   {
+    "repo": "ytti/oxidized",
+    "number": 3734,
+    "title": "smartbyte: new model for SmartByte switches",
+    "state": "closed",
+    "created": "2026-01-23T11:04:27Z",
+    "updated": "2026-02-13T20:14:44Z",
+    "closed": "2026-02-13T20:14:44Z",
+    "merged": "2026-02-13T20:14:44Z",
+    "url": "https://github.com/ytti/oxidized/pull/3734"
+   },
+   {
+    "repo": "librenms/librenms",
+    "number": 18856,
+    "title": "smartbyte: fix opticalVoltage",
+    "state": "closed",
+    "created": "2026-01-23T08:35:21Z",
+    "updated": "2026-01-23T11:32:19Z",
+    "closed": "2026-01-23T09:16:04Z",
+    "merged": "2026-01-23T09:16:03Z",
+    "url": "https://github.com/librenms/librenms/pull/18856"
+   },
+   {
+    "repo": "librenms/librenms",
+    "number": 18815,
+    "title": "fs-bdcom: improve transceiver support",
+    "state": "closed",
+    "created": "2026-01-16T12:14:35Z",
+    "updated": "2026-01-22T07:52:38Z",
+    "closed": "2026-01-21T18:04:26Z",
+    "merged": "2026-01-21T18:04:26Z",
+    "url": "https://github.com/librenms/librenms/pull/18815"
+   },
+   {
+    "repo": "librenms/librenms",
+    "number": 18681,
+    "title": "add support for SmartByte OS",
+    "state": "closed",
+    "created": "2025-12-19T15:52:57Z",
+    "updated": "2026-01-12T11:58:17Z",
+    "closed": "2026-01-11T23:10:23Z",
+    "merged": "2026-01-11T23:10:23Z",
+    "url": "https://github.com/librenms/librenms/pull/18681"
+   },
+   {
+    "repo": "librenms/librenms",
+    "number": 18684,
+    "title": "bdcom: improve transceiver support",
+    "state": "closed",
+    "created": "2025-12-19T17:16:01Z",
+    "updated": "2026-01-12T11:58:17Z",
+    "closed": "2025-12-19T17:43:27Z",
+    "merged": "2025-12-19T17:43:27Z",
+    "url": "https://github.com/librenms/librenms/pull/18684"
+   },
+   {
+    "repo": "schreibfaul1/ESP32-audioI2S",
+    "number": 667,
+    "title": "add audio_webfile_start/audio_webfile_data_received/audio_stopped callbacks",
+    "state": "closed",
+    "created": "2024-01-29T15:37:27Z",
+    "updated": "2024-09-19T02:29:36Z",
+    "closed": "2024-09-19T02:29:35Z",
+    "merged": null,
+    "url": "https://github.com/schreibfaul1/ESP32-audioI2S/pull/667"
+   },
+   {
+    "repo": "librenms/librenms",
+    "number": 16225,
+    "title": "Improve Fiberstore S3900 series support",
+    "state": "closed",
+    "created": "2024-07-19T09:26:55Z",
+    "updated": "2024-08-15T20:14:53Z",
+    "closed": "2024-07-19T17:39:39Z",
+    "merged": "2024-07-19T17:39:39Z",
+    "url": "https://github.com/librenms/librenms/pull/16225"
+   },
+   {
+    "repo": "gfto/mptsd",
+    "number": 40,
+    "title": "add more statistics and /status.json page",
+    "state": "open",
+    "created": "2024-03-13T17:33:55Z",
+    "updated": "2024-07-27T00:44:17Z",
+    "closed": null,
+    "merged": null,
+    "url": "https://github.com/gfto/mptsd/pull/40"
+   },
+   {
+    "repo": "librenms/librenms",
+    "number": 16161,
+    "title": "Add support for snmpsim-lextudio",
+    "state": "closed",
+    "created": "2024-06-27T15:05:01Z",
+    "updated": "2024-07-17T06:36:17Z",
+    "closed": "2024-06-29T16:29:41Z",
+    "merged": "2024-06-29T16:29:41Z",
+    "url": "https://github.com/librenms/librenms/pull/16161"
+   },
+   {
+    "repo": "librenms/librenms",
+    "number": 16160,
+    "title": "BDCOM: add transceiver monitoring",
+    "state": "closed",
+    "created": "2024-06-27T14:18:37Z",
+    "updated": "2024-07-17T06:35:56Z",
+    "closed": "2024-07-10T14:32:13Z",
+    "merged": "2024-07-10T14:32:13Z",
+    "url": "https://github.com/librenms/librenms/pull/16160"
+   },
+   {
+    "repo": "librenms/librenms",
+    "number": 16162,
+    "title": "Add support for Fiberstore branded BDCOM switches",
+    "state": "closed",
+    "created": "2024-06-27T16:02:44Z",
+    "updated": "2024-07-17T06:35:56Z",
+    "closed": "2024-07-04T20:22:37Z",
+    "merged": "2024-07-04T20:22:37Z",
+    "url": "https://github.com/librenms/librenms/pull/16162"
+   },
+   {
+    "repo": "librenms/librenms",
+    "number": 16175,
+    "title": "Add support for Fiberstore branded Centec switches",
+    "state": "closed",
+    "created": "2024-07-01T13:38:58Z",
+    "updated": "2024-07-17T06:35:54Z",
+    "closed": "2024-07-04T19:27:40Z",
+    "merged": "2024-07-04T19:27:40Z",
+    "url": "https://github.com/librenms/librenms/pull/16175"
+   },
+   {
+    "repo": "librenms/librenms",
+    "number": 16180,
+    "title": "nut-ups: adjust Line Nominal default limits",
+    "state": "closed",
+    "created": "2024-07-05T12:17:47Z",
+    "updated": "2024-07-17T06:35:52Z",
+    "closed": "2024-07-07T10:57:20Z",
+    "merged": "2024-07-07T10:57:20Z",
+    "url": "https://github.com/librenms/librenms/pull/16180"
+   },
+   {
+    "repo": "librenms/librenms",
+    "number": 16203,
+    "title": "bdcom/fs-bdcom: add transceiver threshold support",
+    "state": "closed",
+    "created": "2024-07-15T08:24:48Z",
+    "updated": "2024-07-17T06:35:51Z",
+    "closed": "2024-07-15T21:51:34Z",
+    "merged": "2024-07-15T21:51:34Z",
+    "url": "https://github.com/librenms/librenms/pull/16203"
+   },
+   {
+    "repo": "librenms/librenms",
+    "number": 15935,
+    "title": "fix bdcom/pbn neighbour discovery",
+    "state": "closed",
+    "created": "2024-04-10T16:25:15Z",
+    "updated": "2024-07-05T07:21:35Z",
+    "closed": "2024-06-10T00:51:10Z",
+    "merged": "2024-06-10T00:51:10Z",
+    "url": "https://github.com/librenms/librenms/pull/15935"
+   },
+   {
+    "repo": "jo1gi/audiobook-dl",
+    "number": 84,
+    "title": "Storytel rewrite",
+    "state": "closed",
+    "created": "2024-01-15T11:55:26Z",
+    "updated": "2024-07-01T08:46:15Z",
+    "closed": "2024-03-02T13:06:26Z",
+    "merged": "2024-03-02T13:06:26Z",
+    "url": "https://github.com/jo1gi/audiobook-dl/pull/84"
+   },
+   {
+    "repo": "jo1gi/audiobook-dl",
+    "number": 79,
+    "title": "add new expcetions",
+    "state": "closed",
+    "created": "2023-12-27T17:29:27Z",
+    "updated": "2024-07-01T08:46:05Z",
+    "closed": "2024-01-23T09:41:55Z",
+    "merged": "2024-01-23T09:41:55Z",
+    "url": "https://github.com/jo1gi/audiobook-dl/pull/79"
+   },
+   {
+    "repo": "jo1gi/audiobook-dl",
+    "number": 80,
+    "title": "Download check",
+    "state": "closed",
+    "created": "2023-12-27T17:32:54Z",
+    "updated": "2024-07-01T08:46:02Z",
+    "closed": "2024-01-23T11:23:45Z",
+    "merged": "2024-01-23T11:23:45Z",
+    "url": "https://github.com/jo1gi/audiobook-dl/pull/80"
+   },
+   {
+    "repo": "jo1gi/audiobook-dl",
+    "number": 108,
+    "title": "Storytel cloudflare check",
+    "state": "closed",
+    "created": "2024-06-10T14:59:28Z",
+    "updated": "2024-07-01T08:45:51Z",
+    "closed": "2024-06-26T15:58:23Z",
+    "merged": "2024-06-26T15:58:23Z",
+    "url": "https://github.com/jo1gi/audiobook-dl/pull/108"
+   },
+   {
+    "repo": "jo1gi/audiobook-dl",
+    "number": 116,
+    "title": "require urllib3>=2",
+    "state": "closed",
+    "created": "2024-06-28T07:12:46Z",
+    "updated": "2024-07-01T08:45:40Z",
+    "closed": "2024-07-01T08:45:34Z",
+    "merged": "2024-07-01T08:45:34Z",
+    "url": "https://github.com/jo1gi/audiobook-dl/pull/116"
+   },
+   {
+    "repo": "jo1gi/audiobook-dl",
+    "number": 115,
+    "title": "adjust type hints for old python versions",
+    "state": "closed",
+    "created": "2024-06-27T12:17:43Z",
+    "updated": "2024-06-27T12:18:00Z",
+    "closed": "2024-06-27T12:17:55Z",
+    "merged": "2024-06-27T12:17:55Z",
+    "url": "https://github.com/jo1gi/audiobook-dl/pull/115"
+   },
+   {
+    "repo": "jo1gi/audiobook-dl",
+    "number": 114,
+    "title": "fix windows support",
+    "state": "closed",
+    "created": "2024-06-27T07:41:52Z",
+    "updated": "2024-06-27T08:21:34Z",
+    "closed": "2024-06-27T08:20:18Z",
+    "merged": "2024-06-27T08:20:18Z",
+    "url": "https://github.com/jo1gi/audiobook-dl/pull/114"
+   },
+   {
+    "repo": "jo1gi/audiobook-dl",
+    "number": 113,
+    "title": "workaround for requests 2.32.3",
+    "state": "closed",
+    "created": "2024-06-27T07:24:47Z",
+    "updated": "2024-06-27T07:38:43Z",
+    "closed": "2024-06-27T07:38:40Z",
+    "merged": "2024-06-27T07:38:40Z",
+    "url": "https://github.com/jo1gi/audiobook-dl/pull/113"
+   },
+   {
+    "repo": "jo1gi/audiobook-dl",
+    "number": 111,
+    "title": "fix types",
+    "state": "closed",
+    "created": "2024-06-20T14:41:10Z",
+    "updated": "2024-06-20T15:18:06Z",
+    "closed": "2024-06-20T15:18:02Z",
+    "merged": "2024-06-20T15:18:02Z",
+    "url": "https://github.com/jo1gi/audiobook-dl/pull/111"
+   },
+   {
+    "repo": "DigitalDevices/dddvb",
+    "number": 44,
+    "title": "libdddvb: install dvb_filter.h",
+    "state": "closed",
+    "created": "2024-04-26T13:27:48Z",
+    "updated": "2024-05-21T09:47:29Z",
+    "closed": "2024-05-21T09:47:29Z",
+    "merged": null,
+    "url": "https://github.com/DigitalDevices/dddvb/pull/44"
+   },
+   {
+    "repo": "gfto/mptsd",
+    "number": 42,
+    "title": "add corrupted_packets_mode option",
+    "state": "open",
+    "created": "2024-03-21T10:10:22Z",
+    "updated": "2024-03-21T10:10:22Z",
+    "closed": null,
+    "merged": null,
+    "url": "https://github.com/gfto/mptsd/pull/42"
+   },
+   {
+    "repo": "gfto/libtsfuncs",
+    "number": 12,
+    "title": "add ts_packet_has_payload()",
+    "state": "closed",
+    "created": "2024-03-15T17:28:02Z",
+    "updated": "2024-03-16T09:22:26Z",
+    "closed": "2024-03-16T09:22:26Z",
+    "merged": "2024-03-16T09:22:26Z",
+    "url": "https://github.com/gfto/libtsfuncs/pull/12"
+   },
+   {
+    "repo": "gfto/libtsfuncs",
+    "number": 11,
+    "title": "add ts_packet_is_tei_set()",
+    "state": "closed",
+    "created": "2024-03-15T13:09:56Z",
+    "updated": "2024-03-15T13:26:02Z",
+    "closed": "2024-03-15T13:23:47Z",
+    "merged": "2024-03-15T13:23:47Z",
+    "url": "https://github.com/gfto/libtsfuncs/pull/11"
+   },
+   {
+    "repo": "advplyr/audiobookshelf",
+    "number": 2610,
+    "title": "make server url configurable in dev mode",
+    "state": "closed",
+    "created": "2024-02-13T08:46:15Z",
+    "updated": "2024-03-14T06:00:37Z",
+    "closed": "2024-03-12T22:13:06Z",
+    "merged": null,
+    "url": "https://github.com/advplyr/audiobookshelf/pull/2610"
+   },
+   {
+    "repo": "gfto/libtsfuncs",
+    "number": 10,
+    "title": "fix typo",
+    "state": "closed",
+    "created": "2024-03-13T07:59:26Z",
+    "updated": "2024-03-13T11:49:51Z",
+    "closed": "2024-03-13T11:49:51Z",
+    "merged": "2024-03-13T11:49:51Z",
+    "url": "https://github.com/gfto/libtsfuncs/pull/10"
+   },
+   {
+    "repo": "gfto/libfuncs",
+    "number": 1,
+    "title": "mark buffers as const to prevent warning when pasing const buffers",
+    "state": "closed",
+    "created": "2024-03-13T08:05:19Z",
+    "updated": "2024-03-13T11:49:34Z",
+    "closed": "2024-03-13T11:49:34Z",
+    "merged": "2024-03-13T11:49:34Z",
+    "url": "https://github.com/gfto/libfuncs/pull/1"
+   },
+   {
+    "repo": "gfto/libfuncs",
+    "number": 2,
+    "title": "add send_header_applicationjson/send_header_content_length",
+    "state": "closed",
+    "created": "2024-03-13T08:12:04Z",
+    "updated": "2024-03-13T11:49:05Z",
+    "closed": "2024-03-13T11:49:05Z",
+    "merged": "2024-03-13T11:49:05Z",
+    "url": "https://github.com/gfto/libfuncs/pull/2"
+   },
+   {
+    "repo": "gfto/mptsd",
+    "number": 33,
+    "title": "RTP output support",
+    "state": "closed",
+    "created": "2024-03-04T13:58:03Z",
+    "updated": "2024-03-13T08:32:45Z",
+    "closed": "2024-03-13T08:32:45Z",
+    "merged": "2024-03-13T08:32:45Z",
+    "url": "https://github.com/gfto/mptsd/pull/33"
+   },
+   {
+    "repo": "gfto/mptsd",
+    "number": 32,
+    "title": "add support for EIT forwarding (eit_mode)",
+    "state": "closed",
+    "created": "2023-03-01T12:14:38Z",
+    "updated": "2024-03-13T08:32:32Z",
+    "closed": "2024-03-13T08:32:32Z",
+    "merged": "2024-03-13T08:32:32Z",
+    "url": "https://github.com/gfto/mptsd/pull/32"
+   },
+   {
+    "repo": "Raiper34/m3u-parser-generator",
+    "number": 11,
+    "title": "support #EXTBYT/EXTIMG/EXTALB/EXTART/EXTGENRE and #EXTM3U attributes",
+    "state": "closed",
+    "created": "2024-02-15T17:51:20Z",
+    "updated": "2024-02-21T17:58:14Z",
+    "closed": "2024-02-21T17:57:31Z",
+    "merged": "2024-02-21T17:57:30Z",
+    "url": "https://github.com/Raiper34/m3u-parser-generator/pull/11"
+   },
+   {
+    "repo": "biologist79/ESPuino",
+    "number": 307,
+    "title": "pass buffer size to convertAsciiToUtf8",
+    "state": "closed",
+    "created": "2024-02-16T14:42:31Z",
+    "updated": "2024-02-18T21:10:01Z",
+    "closed": "2024-02-18T21:10:00Z",
+    "merged": "2024-02-18T21:10:00Z",
+    "url": "https://github.com/biologist79/ESPuino/pull/307"
+   },
+   {
+    "repo": "biologist79/ESPuino",
+    "number": 304,
+    "title": "include mac address in info",
+    "state": "closed",
+    "created": "2024-02-12T10:04:33Z",
+    "updated": "2024-02-15T23:15:49Z",
+    "closed": "2024-02-15T20:40:18Z",
+    "merged": "2024-02-15T20:40:18Z",
+    "url": "https://github.com/biologist79/ESPuino/pull/304"
+   },
+   {
+    "repo": "biologist79/ESPuino",
+    "number": 305,
+    "title": "set title and navbar heading to hostname",
+    "state": "closed",
+    "created": "2024-02-12T13:49:29Z",
+    "updated": "2024-02-15T23:15:10Z",
+    "closed": "2024-02-15T20:39:16Z",
+    "merged": "2024-02-15T20:39:16Z",
+    "url": "https://github.com/biologist79/ESPuino/pull/305"
+   },
+   {
+    "repo": "biologist79/ESPuino",
+    "number": 306,
+    "title": "update sorting strings",
+    "state": "closed",
+    "created": "2024-02-13T11:55:31Z",
+    "updated": "2024-02-15T23:14:13Z",
+    "closed": "2024-02-15T20:38:05Z",
+    "merged": "2024-02-15T20:38:05Z",
+    "url": "https://github.com/biologist79/ESPuino/pull/306"
+   },
+   {
+    "repo": "biologist79/ESPuino",
+    "number": 293,
+    "title": "keep original mtime for gzip compressed files",
+    "state": "closed",
+    "created": "2024-01-30T13:28:14Z",
+    "updated": "2024-02-12T09:21:00Z",
+    "closed": "2024-01-30T20:03:13Z",
+    "merged": "2024-01-30T20:03:13Z",
+    "url": "https://github.com/biologist79/ESPuino/pull/293"
+   },
+   {
+    "repo": "biologist79/ESPuino",
+    "number": 302,
+    "title": "send numbers as json number instead of string",
+    "state": "closed",
+    "created": "2024-02-11T00:36:07Z",
+    "updated": "2024-02-12T09:20:51Z",
+    "closed": "2024-02-12T08:49:08Z",
+    "merged": "2024-02-12T08:49:08Z",
+    "url": "https://github.com/biologist79/ESPuino/pull/302"
+   },
+   {
+    "repo": "biologist79/ESPuino",
+    "number": 296,
+    "title": "use natural sort",
+    "state": "closed",
+    "created": "2024-02-05T12:05:40Z",
+    "updated": "2024-02-12T09:20:49Z",
+    "closed": "2024-02-12T08:36:48Z",
+    "merged": "2024-02-12T08:36:48Z",
+    "url": "https://github.com/biologist79/ESPuino/pull/296"
+   },
+   {
+    "repo": "biologist79/ESPuino",
+    "number": 301,
+    "title": "remove explorerCreateParentDirectories",
+    "state": "closed",
+    "created": "2024-02-08T16:12:07Z",
+    "updated": "2024-02-12T09:20:45Z",
+    "closed": "2024-02-09T16:51:34Z",
+    "merged": "2024-02-09T16:51:34Z",
+    "url": "https://github.com/biologist79/ESPuino/pull/301"
+   },
+   {
+    "repo": "biologist79/ESPuino",
+    "number": 297,
+    "title": "fix dangling pointer in explorerHandleFileStorageTask",
+    "state": "closed",
+    "created": "2024-02-07T17:51:56Z",
+    "updated": "2024-02-12T09:20:44Z",
+    "closed": "2024-02-07T20:05:23Z",
+    "merged": "2024-02-07T20:05:22Z",
+    "url": "https://github.com/biologist79/ESPuino/pull/297"
+   },
+   {
+    "repo": "biologist79/ESPuino",
+    "number": 294,
+    "title": "improve progress calculation/indication",
+    "state": "closed",
+    "created": "2024-02-02T17:26:20Z",
+    "updated": "2024-02-12T09:20:43Z",
+    "closed": "2024-02-02T20:29:42Z",
+    "merged": "2024-02-02T20:29:42Z",
+    "url": "https://github.com/biologist79/ESPuino/pull/294"
+   },
+   {
+    "repo": "biologist79/ESPuino",
+    "number": 303,
+    "title": "use Number() for playlistSortMode",
+    "state": "closed",
+    "created": "2024-02-12T09:00:28Z",
+    "updated": "2024-02-12T09:19:43Z",
+    "closed": "2024-02-12T09:16:34Z",
+    "merged": "2024-02-12T09:16:34Z",
+    "url": "https://github.com/biologist79/ESPuino/pull/303"
+   },
+   {
+    "repo": "schreibfaul1/ESP32-audioI2S",
+    "number": 673,
+    "title": "improve connecttoFS file opening",
+    "state": "closed",
+    "created": "2024-02-08T19:21:02Z",
+    "updated": "2024-02-08T23:17:50Z",
+    "closed": "2024-02-08T23:17:49Z",
+    "merged": "2024-02-08T23:17:49Z",
+    "url": "https://github.com/schreibfaul1/ESP32-audioI2S/pull/673"
+   },
+   {
+    "repo": "biologist79/ESPuino",
+    "number": 298,
+    "title": "remove convertFilenameToAscii()",
+    "state": "closed",
+    "created": "2024-02-08T09:24:02Z",
+    "updated": "2024-02-08T12:17:30Z",
+    "closed": "2024-02-08T11:24:14Z",
+    "merged": "2024-02-08T11:24:14Z",
+    "url": "https://github.com/biologist79/ESPuino/pull/298"
+   },
+   {
+    "repo": "biologist79/ESPuino",
+    "number": 299,
+    "title": "Playlist fixes",
+    "state": "closed",
+    "created": "2024-02-08T09:46:28Z",
+    "updated": "2024-02-08T12:16:05Z",
+    "closed": "2024-02-08T11:38:33Z",
+    "merged": "2024-02-08T11:38:33Z",
+    "url": "https://github.com/biologist79/ESPuino/pull/299"
+   },
+   {
+    "repo": "schreibfaul1/ESP32-audioI2S",
+    "number": 666,
+    "title": "Improve duration and currentTime calculation",
+    "state": "closed",
+    "created": "2024-01-26T20:29:21Z",
+    "updated": "2024-02-01T15:01:15Z",
+    "closed": "2024-01-28T08:09:06Z",
+    "merged": "2024-01-28T08:09:06Z",
+    "url": "https://github.com/schreibfaul1/ESP32-audioI2S/pull/666"
+   },
+   {
+    "repo": "ytti/oxidized",
+    "number": 2986,
+    "title": "edgecos: improve system temperature removal",
+    "state": "closed",
+    "created": "2023-11-15T14:59:27Z",
+    "updated": "2024-01-15T14:55:33Z",
+    "closed": "2024-01-15T14:55:33Z",
+    "merged": "2024-01-15T14:55:33Z",
+    "url": "https://github.com/ytti/oxidized/pull/2986"
+   },
+   {
+    "repo": "ytti/oxidized",
+    "number": 3029,
+    "title": "Patch 8",
+    "state": "closed",
+    "created": "2024-01-10T13:59:01Z",
+    "updated": "2024-01-15T09:48:45Z",
+    "closed": "2024-01-15T09:48:45Z",
+    "merged": "2024-01-15T09:48:45Z",
+    "url": "https://github.com/ytti/oxidized/pull/3029"
+   },
+   {
+    "repo": "jo1gi/audiobook-dl",
+    "number": 78,
+    "title": "add some new exceptions",
+    "state": "closed",
+    "created": "2023-12-27T16:43:49Z",
+    "updated": "2023-12-27T17:23:44Z",
+    "closed": "2023-12-27T17:23:44Z",
+    "merged": null,
+    "url": "https://github.com/jo1gi/audiobook-dl/pull/78"
+   },
+   {
+    "repo": "jo1gi/audiobook-dl",
+    "number": 77,
+    "title": "add new metadata fields",
+    "state": "closed",
+    "created": "2023-12-22T10:54:32Z",
+    "updated": "2023-12-22T18:26:19Z",
+    "closed": "2023-12-22T17:17:29Z",
+    "merged": "2023-12-22T17:17:29Z",
+    "url": "https://github.com/jo1gi/audiobook-dl/pull/77"
+   },
+   {
+    "repo": "SourceDoctor/mptsd",
+    "number": 1,
+    "title": "add support for EIT forwarding (eit_mode)",
+    "state": "closed",
+    "created": "2023-03-01T12:13:43Z",
+    "updated": "2023-03-01T12:38:45Z",
+    "closed": "2023-03-01T12:38:44Z",
+    "merged": "2023-03-01T12:38:44Z",
+    "url": "https://github.com/SourceDoctor/mptsd/pull/1"
+   },
+   {
+    "repo": "freddy36/mptsd",
+    "number": 1,
+    "title": "add support for EIT forwarding (eit_mode)",
+    "state": "closed",
+    "created": "2023-03-01T12:37:51Z",
+    "updated": "2023-03-01T12:38:02Z",
+    "closed": "2023-03-01T12:38:02Z",
+    "merged": "2023-03-01T12:38:02Z",
+    "url": "https://github.com/freddy36/mptsd/pull/1"
+   },
+   {
+    "repo": "chatwoot/chatwoot",
+    "number": 3841,
+    "title": "update deployment scripts to install sudo",
+    "state": "closed",
+    "created": "2022-01-25T11:30:54Z",
+    "updated": "2022-08-09T04:34:28Z",
+    "closed": "2022-01-27T11:25:27Z",
+    "merged": "2022-01-27T11:25:27Z",
+    "url": "https://github.com/chatwoot/chatwoot/pull/3841"
+   },
+   {
+    "repo": "artemShelest/flask-admin-subview",
+    "number": 1,
+    "title": "add support for WTForms 3.0",
+    "state": "closed",
+    "created": "2022-07-05T15:19:33Z",
+    "updated": "2022-07-10T12:06:10Z",
+    "closed": "2022-07-10T09:07:42Z",
+    "merged": "2022-07-10T09:07:42Z",
+    "url": "https://github.com/artemShelest/flask-admin-subview/pull/1"
+   },
+   {
+    "repo": "SKaDiZZ/ngx-iban-validator",
+    "number": 1,
+    "title": "fix length for CR",
+    "state": "closed",
+    "created": "2022-01-20T15:36:56Z",
+    "updated": "2022-01-21T06:38:34Z",
+    "closed": "2022-01-21T06:38:34Z",
+    "merged": "2022-01-21T06:38:34Z",
+    "url": "https://github.com/SKaDiZZ/ngx-iban-validator/pull/1"
+   },
+   {
+    "repo": "braice/MuMuDVB",
+    "number": 267,
+    "title": "Include Application Signalling (HbbTV) PIDs",
+    "state": "closed",
+    "created": "2021-01-05T15:17:03Z",
+    "updated": "2021-06-19T07:24:37Z",
+    "closed": "2021-06-19T07:24:37Z",
+    "merged": "2021-06-19T07:24:37Z",
+    "url": "https://github.com/braice/MuMuDVB/pull/267"
+   },
+   {
+    "repo": "braice/MuMuDVB",
+    "number": 266,
+    "title": "Fix pin_no/pin_number typo",
+    "state": "closed",
+    "created": "2021-01-05T13:24:16Z",
+    "updated": "2021-01-06T07:46:53Z",
+    "closed": "2021-01-05T21:41:35Z",
+    "merged": "2021-01-05T21:41:35Z",
+    "url": "https://github.com/braice/MuMuDVB/pull/266"
+   },
+   {
+    "repo": "ytti/oxidized",
+    "number": 2024,
+    "title": "EdgeCOS: improve model",
+    "state": "closed",
+    "created": "2020-01-29T18:39:34Z",
+    "updated": "2020-03-07T23:27:25Z",
+    "closed": "2020-03-07T23:27:13Z",
+    "merged": "2020-03-07T23:27:13Z",
+    "url": "https://github.com/ytti/oxidized/pull/2024"
+   },
+   {
+    "repo": "ytti/oxidized",
+    "number": 2023,
+    "title": "add Centec Networks CNOS support",
+    "state": "closed",
+    "created": "2020-01-29T18:30:30Z",
+    "updated": "2020-01-30T22:30:40Z",
+    "closed": "2020-01-30T22:27:06Z",
+    "merged": "2020-01-30T22:27:06Z",
+    "url": "https://github.com/ytti/oxidized/pull/2023"
+   },
+   {
+    "repo": "ytti/oxidized",
+    "number": 1891,
+    "title": "EdgeCOS: include transceiver details",
+    "state": "closed",
+    "created": "2019-08-29T15:29:09Z",
+    "updated": "2020-01-29T18:20:34Z",
+    "closed": "2020-01-29T18:20:34Z",
+    "merged": "2020-01-29T18:20:34Z",
+    "url": "https://github.com/ytti/oxidized/pull/1891"
+   },
+   {
+    "repo": "ytti/oxidized",
+    "number": 2022,
+    "title": "GcomBNPS: allow any max length for username/password",
+    "state": "closed",
+    "created": "2020-01-28T18:27:30Z",
+    "updated": "2020-01-29T13:49:54Z",
+    "closed": "2020-01-29T13:49:54Z",
+    "merged": "2020-01-29T13:49:54Z",
+    "url": "https://github.com/ytti/oxidized/pull/2022"
+   },
+   {
+    "repo": "ytti/oxidized",
+    "number": 1963,
+    "title": "Supported OS types: add Fiberstore S3900 series",
+    "state": "closed",
+    "created": "2019-11-07T08:47:14Z",
+    "updated": "2020-01-19T18:27:42Z",
+    "closed": "2020-01-19T18:27:42Z",
+    "merged": "2020-01-19T18:27:41Z",
+    "url": "https://github.com/ytti/oxidized/pull/1963"
+   },
+   {
+    "repo": "GeiserX/genieacs-container",
+    "number": 6,
+    "title": "fix typo",
+    "state": "closed",
+    "created": "2019-11-15T15:08:44Z",
+    "updated": "2019-11-15T15:42:00Z",
+    "closed": "2019-11-15T15:41:52Z",
+    "merged": "2019-11-15T15:41:52Z",
+    "url": "https://github.com/GeiserX/genieacs-container/pull/6"
+   },
+   {
+    "repo": "mwolff44/pk-sbc",
+    "number": 161,
+    "title": "update CONTRIBUTERS",
+    "state": "closed",
+    "created": "2018-04-13T08:37:36Z",
+    "updated": "2018-04-13T09:20:09Z",
+    "closed": "2018-04-13T09:20:09Z",
+    "merged": "2018-04-13T09:20:09Z",
+    "url": "https://github.com/mwolff44/pk-sbc/pull/161"
+   },
+   {
+    "repo": "mwolff44/pk-sbc",
+    "number": 156,
+    "title": "rename local.py and update docs",
+    "state": "closed",
+    "created": "2018-04-12T14:18:31Z",
+    "updated": "2018-04-13T07:14:36Z",
+    "closed": "2018-04-13T07:14:36Z",
+    "merged": "2018-04-13T07:14:36Z",
+    "url": "https://github.com/mwolff44/pk-sbc/pull/156"
+   },
+   {
+    "repo": "mwolff44/pk-sbc",
+    "number": 157,
+    "title": "fix voicemail/presence handling",
+    "state": "closed",
+    "created": "2018-04-12T14:30:48Z",
+    "updated": "2018-04-13T07:14:04Z",
+    "closed": "2018-04-13T07:13:57Z",
+    "merged": "2018-04-13T07:13:57Z",
+    "url": "https://github.com/mwolff44/pk-sbc/pull/157"
+   },
+   {
+    "repo": "mwolff44/pk-sbc",
+    "number": 160,
+    "title": "fix and improve import-csv.pl",
+    "state": "closed",
+    "created": "2018-04-12T17:26:44Z",
+    "updated": "2018-04-13T07:13:07Z",
+    "closed": "2018-04-13T07:13:07Z",
+    "merged": "2018-04-13T07:13:07Z",
+    "url": "https://github.com/mwolff44/pk-sbc/pull/160"
+   },
+   {
+    "repo": "mwolff44/pk-sbc",
+    "number": 152,
+    "title": "improve default freeswitch config",
+    "state": "closed",
+    "created": "2018-04-10T14:03:06Z",
+    "updated": "2018-04-11T15:32:40Z",
+    "closed": "2018-04-11T15:32:02Z",
+    "merged": "2018-04-11T15:32:02Z",
+    "url": "https://github.com/mwolff44/pk-sbc/pull/152"
+   },
+   {
+    "repo": "mwolff44/pk-sbc",
+    "number": 154,
+    "title": "improve/fix default kamailio config",
+    "state": "closed",
+    "created": "2018-04-10T15:22:50Z",
+    "updated": "2018-04-10T18:29:27Z",
+    "closed": "2018-04-10T18:29:24Z",
+    "merged": "2018-04-10T18:29:24Z",
+    "url": "https://github.com/mwolff44/pk-sbc/pull/154"
+   },
+   {
+    "repo": "mwolff44/pk-sbc",
+    "number": 153,
+    "title": "Update installation.rst",
+    "state": "closed",
+    "created": "2018-04-10T14:52:51Z",
+    "updated": "2018-04-10T18:27:16Z",
+    "closed": "2018-04-10T18:27:06Z",
+    "merged": "2018-04-10T18:27:06Z",
+    "url": "https://github.com/mwolff44/pk-sbc/pull/153"
+   },
+   {
+    "repo": "mwolff44/pk-sbc",
+    "number": 150,
+    "title": "import-csv.pl: fix script",
+    "state": "closed",
+    "created": "2018-04-05T10:22:16Z",
+    "updated": "2018-04-05T13:26:08Z",
+    "closed": "2018-04-05T13:26:08Z",
+    "merged": "2018-04-05T13:26:08Z",
+    "url": "https://github.com/mwolff44/pk-sbc/pull/150"
+   },
+   {
+    "repo": "mwolff44/pk-sbc",
+    "number": 149,
+    "title": "README: fix docs link",
+    "state": "closed",
+    "created": "2018-04-03T09:34:35Z",
+    "updated": "2018-04-04T10:07:42Z",
+    "closed": "2018-04-04T10:07:36Z",
+    "merged": "2018-04-04T10:07:36Z",
+    "url": "https://github.com/mwolff44/pk-sbc/pull/149"
+   },
+   {
+    "repo": "ytti/oxidized",
+    "number": 1097,
+    "title": "Add support for Broadband Network Platform Software from GCOM Technologies Co.,Ltd.",
+    "state": "closed",
+    "created": "2017-11-10T16:27:41Z",
+    "updated": "2017-12-10T20:53:14Z",
+    "closed": "2017-12-10T20:53:14Z",
+    "merged": "2017-12-10T20:53:14Z",
+    "url": "https://github.com/ytti/oxidized/pull/1097"
+   },
+   {
+    "repo": "braice/MuMuDVB",
+    "number": 184,
+    "title": "Add support for streaming EMM PIDs",
+    "state": "closed",
+    "created": "2017-08-10T16:33:04Z",
+    "updated": "2017-10-07T20:48:46Z",
+    "closed": "2017-10-07T20:48:46Z",
+    "merged": "2017-10-07T20:48:46Z",
+    "url": "https://github.com/braice/MuMuDVB/pull/184"
+   },
+   {
+    "repo": "diafygi/gethttpsforfree",
+    "number": 48,
+    "title": "limit subjectAltName parsing to dNSName",
+    "state": "closed",
+    "created": "2015-12-11T16:30:08Z",
+    "updated": "2015-12-15T17:14:07Z",
+    "closed": "2015-12-15T17:13:47Z",
+    "merged": "2015-12-15T17:13:47Z",
+    "url": "https://github.com/diafygi/gethttpsforfree/pull/48"
+   },
+   {
+    "repo": "MartijnBraam/python-isc-dhcp-leases",
+    "number": 4,
+    "title": "Lease6 iaid duid properties",
+    "state": "closed",
+    "created": "2015-09-10T13:01:57Z",
+    "updated": "2015-09-10T18:33:22Z",
+    "closed": "2015-09-10T18:33:22Z",
+    "merged": "2015-09-10T18:33:22Z",
+    "url": "https://github.com/MartijnBraam/python-isc-dhcp-leases/pull/4"
+   },
+   {
+    "repo": "MediaBrowser/plugin.video.emby",
+    "number": 2,
+    "title": "fix HTTPS support",
+    "state": "closed",
+    "created": "2015-04-12T16:29:29Z",
+    "updated": "2015-04-14T09:05:54Z",
+    "closed": "2015-04-14T09:05:54Z",
+    "merged": null,
+    "url": "https://github.com/MediaBrowser/plugin.video.emby/pull/2"
+   },
+   {
+    "repo": "MediaBrowser/plugin.video.emby",
+    "number": 1,
+    "title": "restores the videoBitRate option and the forceTranscodingCodecs option",
+    "state": "closed",
+    "created": "2015-04-12T11:22:25Z",
+    "updated": "2015-04-12T13:47:21Z",
+    "closed": "2015-04-12T13:47:21Z",
+    "merged": "2015-04-12T13:47:21Z",
+    "url": "https://github.com/MediaBrowser/plugin.video.emby/pull/1"
+   },
+   {
+    "repo": "ldx/python-iptables",
+    "number": 6,
+    "title": "fix undefined symbol: iptc_init (libiptc compatibilitly)",
+    "state": "closed",
+    "created": "2012-05-07T11:25:22Z",
+    "updated": "2014-08-16T04:28:23Z",
+    "closed": "2012-05-08T21:16:49Z",
+    "merged": "2012-05-08T21:16:49Z",
+    "url": "https://github.com/ldx/python-iptables/pull/6"
+   },
+   {
+    "repo": "rfc1036/whois",
+    "number": 23,
+    "title": "Add charset for whois.lacnic.net",
+    "state": "closed",
+    "created": "2014-06-04T11:48:43Z",
+    "updated": "2014-07-07T02:05:05Z",
+    "closed": "2014-07-07T02:05:05Z",
+    "merged": null,
+    "url": "https://github.com/rfc1036/whois/pull/23"
+   },
+   {
+    "repo": "ldx/python-iptables",
+    "number": 8,
+    "title": "add get_counters() for rules ",
+    "state": "closed",
+    "created": "2012-05-08T21:26:25Z",
+    "updated": "2012-05-08T21:31:14Z",
+    "closed": "2012-05-08T21:31:14Z",
+    "merged": "2012-05-08T21:31:14Z",
+    "url": "https://github.com/ldx/python-iptables/pull/8"
+   },
+   {
+    "repo": "ldx/python-iptables",
+    "number": 7,
+    "title": "add get_counters() for rules",
+    "state": "closed",
+    "created": "2012-05-07T11:26:26Z",
+    "updated": "2012-05-07T11:26:26Z",
+    "closed": "2012-05-07T11:26:45Z",
+    "merged": null,
+    "url": "https://github.com/ldx/python-iptables/pull/7"
+   }
+  ],
+  "issue": [
+   {
+    "repo": "okfde/fragdenstaat_de",
+    "number": 383,
+    "title": "throttled message link escaped",
+    "state": "closed",
+    "created": "2023-04-03T12:25:01Z",
+    "updated": "2024-04-26T15:11:30Z",
+    "closed": "2024-04-26T15:11:30Z",
+    "merged": null,
+    "url": "https://github.com/okfde/fragdenstaat_de/issues/383"
+   },
+   {
+    "repo": "cdnjs/packages",
+    "number": 1758,
+    "title": "Add: natcompare.js",
+    "state": "open",
+    "created": "2024-02-10T23:06:33Z",
+    "updated": "2024-02-10T23:06:33Z",
+    "closed": null,
+    "merged": null,
+    "url": "https://github.com/cdnjs/packages/issues/1758"
+   },
+   {
+    "repo": "okfde/froide",
+    "number": 681,
+    "title": "Reply all option",
+    "state": "open",
+    "created": "2023-04-06T09:57:18Z",
+    "updated": "2023-04-06T10:47:17Z",
+    "closed": null,
+    "merged": null,
+    "url": "https://github.com/okfde/froide/issues/681"
+   },
+   {
+    "repo": "chatwoot/chatwoot",
+    "number": 3853,
+    "title": "feat: Option to disable gravatar usage",
+    "state": "closed",
+    "created": "2022-01-26T17:04:05Z",
+    "updated": "2022-08-20T18:05:13Z",
+    "closed": "2022-07-21T17:27:14Z",
+    "merged": null,
+    "url": "https://github.com/chatwoot/chatwoot/issues/3853"
+   },
+   {
+    "repo": "Star2Billing/a2billing",
+    "number": 165,
+    "title": "VoIP Settings/SETVAR option broken",
+    "state": "open",
+    "created": "2019-09-11T10:49:09Z",
+    "updated": "2019-09-11T10:49:09Z",
+    "closed": null,
+    "merged": null,
+    "url": "https://github.com/Star2Billing/a2billing/issues/165"
+   },
+   {
+    "repo": "tronprotocol/java-tron",
+    "number": 25,
+    "title": "LGPL violation/Missing references to ethereumj project",
+    "state": "closed",
+    "created": "2017-12-31T13:03:07Z",
+    "updated": "2019-08-01T10:22:51Z",
+    "closed": "2018-03-12T17:09:15Z",
+    "merged": null,
+    "url": "https://github.com/tronprotocol/java-tron/issues/25"
+   },
+   {
+    "repo": "mwolff44/pk-sbc",
+    "number": 151,
+    "title": "DIDs without Provider or customer rate plan fail",
+    "state": "closed",
+    "created": "2018-04-10T11:23:37Z",
+    "updated": "2018-11-13T10:54:33Z",
+    "closed": "2018-11-13T10:54:33Z",
+    "merged": null,
+    "url": "https://github.com/mwolff44/pk-sbc/issues/151"
+   },
+   {
+    "repo": "mwolff44/pk-sbc",
+    "number": 159,
+    "title": "kamailio failing acc sql inserts",
+    "state": "closed",
+    "created": "2018-04-12T15:24:09Z",
+    "updated": "2018-04-13T16:37:57Z",
+    "closed": "2018-04-13T16:37:57Z",
+    "merged": null,
+    "url": "https://github.com/mwolff44/pk-sbc/issues/159"
+   },
+   {
+    "repo": "mwolff44/pk-sbc",
+    "number": 155,
+    "title": "SUBSCRIBE causing authentication loop",
+    "state": "closed",
+    "created": "2018-04-12T12:47:22Z",
+    "updated": "2018-04-13T07:13:57Z",
+    "closed": "2018-04-13T07:13:57Z",
+    "merged": null,
+    "url": "https://github.com/mwolff44/pk-sbc/issues/155"
+   },
+   {
+    "repo": "mwolff44/pk-sbc",
+    "number": 158,
+    "title": "import-csv.pl broken",
+    "state": "closed",
+    "created": "2018-04-12T15:17:37Z",
+    "updated": "2018-04-13T07:13:07Z",
+    "closed": "2018-04-13T07:13:07Z",
+    "merged": null,
+    "url": "https://github.com/mwolff44/pk-sbc/issues/158"
+   },
+   {
+    "repo": "braice/MuMuDVB",
+    "number": 183,
+    "title": "Add support for EMM pid streaming",
+    "state": "closed",
+    "created": "2017-08-09T17:37:36Z",
+    "updated": "2017-10-07T20:48:46Z",
+    "closed": "2017-10-07T20:48:46Z",
+    "merged": null,
+    "url": "https://github.com/braice/MuMuDVB/issues/183"
+   },
+   {
+    "repo": "elcattivo/CloudFlareUtilities",
+    "number": 5,
+    "title": "CurlSharp handler",
+    "state": "closed",
+    "created": "2016-09-29T18:06:36Z",
+    "updated": "2016-10-15T06:23:41Z",
+    "closed": "2016-10-15T06:23:41Z",
+    "merged": null,
+    "url": "https://github.com/elcattivo/CloudFlareUtilities/issues/5"
+   },
+   {
+    "repo": "MartijnBraam/python-isc-dhcp-leases",
+    "number": 7,
+    "title": "lease6 host_identifier incorrectly converted",
+    "state": "closed",
+    "created": "2015-09-11T09:20:06Z",
+    "updated": "2015-09-11T11:45:36Z",
+    "closed": "2015-09-11T11:45:36Z",
+    "merged": null,
+    "url": "https://github.com/MartijnBraam/python-isc-dhcp-leases/issues/7"
+   },
+   {
+    "repo": "MartijnBraam/python-isc-dhcp-leases",
+    "number": 6,
+    "title": "iaid endianness/signed incorrect",
+    "state": "closed",
+    "created": "2015-09-11T09:14:54Z",
+    "updated": "2015-09-11T11:44:30Z",
+    "closed": "2015-09-11T11:44:30Z",
+    "merged": null,
+    "url": "https://github.com/MartijnBraam/python-isc-dhcp-leases/issues/6"
+   },
+   {
+    "repo": "ldx/python-iptables",
+    "number": 27,
+    "title": "Comments with spaces are cut off",
+    "state": "closed",
+    "created": "2013-05-03T16:44:33Z",
+    "updated": "2013-05-11T18:34:05Z",
+    "closed": "2013-05-11T18:34:05Z",
+    "merged": null,
+    "url": "https://github.com/ldx/python-iptables/issues/27"
+   },
+   {
+    "repo": "ldx/python-iptables",
+    "number": 5,
+    "title": "undefined symbol: iptc_init (libiptc compatibilitly)",
+    "state": "closed",
+    "created": "2012-05-07T10:18:24Z",
+    "updated": "2012-05-08T21:17:55Z",
+    "closed": "2012-05-08T21:17:55Z",
+    "merged": null,
+    "url": "https://github.com/ldx/python-iptables/issues/5"
+   },
+   {
+    "repo": "ldx/python-iptables",
+    "number": 4,
+    "title": "comment match not working",
+    "state": "closed",
+    "created": "2012-05-04T16:24:55Z",
+    "updated": "2012-05-07T09:17:02Z",
+    "closed": "2012-05-07T09:17:02Z",
+    "merged": null,
+    "url": "https://github.com/ldx/python-iptables/issues/4"
+   }
+  ]
+ },
+ "involves_recent": [
+  {
+   "repo": "librenms/librenms",
+   "number": 16163,
+   "title": "Fiberstore Switch add sensors for 52652 switches",
+   "kind": "pull-request",
+   "author": "murrant",
+   "updated": "2026-10-20T14:12:56Z",
+   "url": "https://github.com/librenms/librenms/pull/16163"
+  },
+  {
+   "repo": "librenms/librenms",
+   "number": 18955,
+   "title": "Add FS Switch Campus S3410 Series",
+   "kind": "pull-request",
+   "author": "glennmatth",
+   "updated": "2026-02-24T07:56:56Z",
+   "url": "https://github.com/librenms/librenms/pull/18955"
+  },
+  {
+   "repo": "freddy36/check_mk_extensions",
+   "number": 20,
+   "title": "agent_based: fix bounds variable update",
+   "kind": "pull-request",
+   "author": "PhilippKilian",
+   "updated": "2025-12-03T12:18:43Z",
+   "url": "https://github.com/freddy36/check_mk_extensions/pull/20"
+  },
+  {
+   "repo": "freddy36/check_mk_extensions",
+   "number": 15,
+   "title": "fix 2 parsing bugs",
+   "kind": "pull-request",
+   "author": "PhilippKilian",
+   "updated": "2025-12-03T09:22:19Z",
+   "url": "https://github.com/freddy36/check_mk_extensions/pull/15"
+  },
+  {
+   "repo": "esphome/esphome",
+   "number": 8439,
+   "title": "[esp32, logger] Add initial P4 support",
+   "kind": "pull-request",
+   "author": "swoboda1337",
+   "updated": "2025-07-02T14:51:16Z",
+   "url": "https://github.com/esphome/esphome/pull/8439"
+  },
+  {
+   "repo": "mitodl/edx-sga",
+   "number": 349,
+   "title": "feat: allow to configure upload file size",
+   "kind": "pull-request",
+   "author": "ErickMurillo",
+   "updated": "2025-06-13T06:54:24Z",
+   "url": "https://github.com/mitodl/edx-sga/pull/349"
+  },
+  {
+   "repo": "jo1gi/audiobook-dl",
+   "number": 140,
+   "title": "Updating device id to fix the new cloudflare block ",
+   "kind": "pull-request",
+   "author": "ssakkout",
+   "updated": "2025-01-14T14:03:58Z",
+   "url": "https://github.com/jo1gi/audiobook-dl/pull/140"
+  },
+  {
+   "repo": "jo1gi/audiobook-dl",
+   "number": 138,
+   "title": "fixing issue #137 \"the cloudflare block in storytel\"",
+   "kind": "pull-request",
+   "author": "ssakkout",
+   "updated": "2024-12-27T14:59:53Z",
+   "url": "https://github.com/jo1gi/audiobook-dl/pull/138"
+  },
+  {
+   "repo": "librenms/librenms",
+   "number": 16165,
+   "title": "Transceiver Support",
+   "kind": "pull-request",
+   "author": "murrant",
+   "updated": "2024-09-29T22:33:00Z",
+   "url": "https://github.com/librenms/librenms/pull/16165"
+  },
+  {
+   "repo": "gfto/mptsd",
+   "number": 38,
+   "title": "Fix counter output with RTP & file",
+   "kind": "pull-request",
+   "author": "lars18th",
+   "updated": "2024-03-14T06:29:38Z",
+   "url": "https://github.com/gfto/mptsd/pull/38"
+  },
+  {
+   "repo": "ytti/oxidized",
+   "number": 2395,
+   "title": "Add bdcom driver",
+   "kind": "pull-request",
+   "author": "candlerb",
+   "updated": "2022-05-13T19:00:46Z",
+   "url": "https://github.com/ytti/oxidized/pull/2395"
+  },
+  {
+   "repo": "ytti/oxidized",
+   "number": 1855,
+   "title": "Add support for FS switches",
+   "kind": "pull-request",
+   "author": "davidc",
+   "updated": "2022-05-13T18:56:48Z",
+   "url": "https://github.com/ytti/oxidized/pull/1855"
+  },
+  {
+   "repo": "freddy36/check_mk_extensions",
+   "number": 11,
+   "title": "bird for CMK 2.0",
+   "kind": "pull-request",
+   "author": "gurubert",
+   "updated": "2021-03-17T11:14:26Z",
+   "url": "https://github.com/freddy36/check_mk_extensions/pull/11"
+  },
+  {
+   "repo": "ytti/oxidized",
+   "number": 2097,
+   "title": "Fix EdgeCOS model",
+   "kind": "pull-request",
+   "author": "moisseev",
+   "updated": "2020-05-19T11:29:53Z",
+   "url": "https://github.com/ytti/oxidized/pull/2097"
+  },
+  {
+   "repo": "freddy36/check_mk_extensions",
+   "number": 8,
+   "title": "CMK 1.6 compatability",
+   "kind": "pull-request",
+   "author": "gurubert",
+   "updated": "2019-11-07T18:51:12Z",
+   "url": "https://github.com/freddy36/check_mk_extensions/pull/8"
+  },
+  {
+   "repo": "SynoCommunity/spksrc",
+   "number": 3001,
+   "title": "[Mono] Update to 5.4.1.6 (fixes #2808)",
+   "kind": "pull-request",
+   "author": "m4tt075",
+   "updated": "2018-01-15T14:30:37Z",
+   "url": "https://github.com/SynoCommunity/spksrc/pull/3001"
+  },
+  {
+   "repo": "freddy36/check_mk_extensions",
+   "number": 7,
+   "title": "new MKP",
+   "kind": "pull-request",
+   "author": "gurubert",
+   "updated": "2017-11-20T13:44:27Z",
+   "url": "https://github.com/freddy36/check_mk_extensions/pull/7"
+  },
+  {
+   "repo": "freddy36/check_mk_extensions",
+   "number": 6,
+   "title": "OSPF state 2-way should not trigger a warning.",
+   "kind": "pull-request",
+   "author": "liske",
+   "updated": "2017-11-12T22:02:49Z",
+   "url": "https://github.com/freddy36/check_mk_extensions/pull/6"
+  },
+  {
+   "repo": "freddy36/check_mk_extensions",
+   "number": 4,
+   "title": "awk count strings from 1 not 0. Couting from 0 broke mawk implementation",
+   "kind": "pull-request",
+   "author": "theundefined",
+   "updated": "2017-08-16T09:14:39Z",
+   "url": "https://github.com/freddy36/check_mk_extensions/pull/4"
+  },
+  {
+   "repo": "freddy36/check_mk_extensions",
+   "number": 3,
+   "title": "Global imports to not work any more with Check_MK 1.2.8",
+   "kind": "pull-request",
+   "author": "gurubert",
+   "updated": "2017-05-19T17:10:06Z",
+   "url": "https://github.com/freddy36/check_mk_extensions/pull/3"
+  },
+  {
+   "repo": "chatwoot/chatwoot",
+   "number": 1211,
+   "title": "[CW-2856] Ability to set brand icon as staff/agent avatar",
+   "kind": "issue",
+   "author": "iammattmartin",
+   "updated": "2026-07-12T15:42:02Z",
+   "url": "https://github.com/chatwoot/chatwoot/issues/1211"
+  },
+  {
+   "repo": "jo1gi/audiobook-dl",
+   "number": 137,
+   "title": "Storytel Cloudflare block",
+   "kind": "issue",
+   "author": "xzakier",
+   "updated": "2025-12-10T11:07:31Z",
+   "url": "https://github.com/jo1gi/audiobook-dl/issues/137"
+  },
+  {
+   "repo": "freddy36/check_mk_extensions",
+   "number": 19,
+   "title": "Plugin is crashing when \"Route Statistics Levels\" are custom defined",
+   "kind": "issue",
+   "author": "PhilippKilian",
+   "updated": "2025-12-03T12:18:44Z",
+   "url": "https://github.com/freddy36/check_mk_extensions/issues/19"
+  },
+  {
+   "repo": "pallets-eco/flask-admin",
+   "number": 1405,
+   "title": "inline_models don't work for one-to-many",
+   "kind": "issue",
+   "author": "antoine-lizee",
+   "updated": "2025-06-18T00:44:00Z",
+   "url": "https://github.com/pallets-eco/flask-admin/issues/1405"
+  },
+  {
+   "repo": "jo1gi/audiobook-dl",
+   "number": 139,
+   "title": "Cloud flare block is persistent ",
+   "kind": "issue",
+   "author": "ssakkout",
+   "updated": "2025-01-20T15:05:29Z",
+   "url": "https://github.com/jo1gi/audiobook-dl/issues/139"
+  },
+  {
+   "repo": "jo1gi/audiobook-dl",
+   "number": 124,
+   "title": "bash script for linux ",
+   "kind": "issue",
+   "author": "msebastian100",
+   "updated": "2024-12-31T19:24:42Z",
+   "url": "https://github.com/jo1gi/audiobook-dl/issues/124"
+  },
+  {
+   "repo": "jo1gi/audiobook-dl",
+   "number": 131,
+   "title": "Incorrect password in Storytel",
+   "kind": "issue",
+   "author": "pawlo1984",
+   "updated": "2024-12-30T18:36:00Z",
+   "url": "https://github.com/jo1gi/audiobook-dl/issues/131"
+  },
+  {
+   "repo": "jo1gi/audiobook-dl",
+   "number": 135,
+   "title": "Authorization error Storytel",
+   "kind": "issue",
+   "author": "mussakhojayeva",
+   "updated": "2024-12-05T08:46:37Z",
+   "url": "https://github.com/jo1gi/audiobook-dl/issues/135"
+  },
+  {
+   "repo": "jo1gi/audiobook-dl",
+   "number": 106,
+   "title": "Problem with download from Storytel",
+   "kind": "issue",
+   "author": "fedeD84",
+   "updated": "2024-08-27T08:40:28Z",
+   "url": "https://github.com/jo1gi/audiobook-dl/issues/106"
+  },
+  {
+   "repo": "jo1gi/audiobook-dl",
+   "number": 109,
+   "title": "Bug File name too long",
+   "kind": "issue",
+   "author": "bonzoskill",
+   "updated": "2024-07-01T08:51:14Z",
+   "url": "https://github.com/jo1gi/audiobook-dl/issues/109"
+  },
+  {
+   "repo": "gfto/mptsd",
+   "number": 4,
+   "title": "epg from xmltv import option",
+   "kind": "issue",
+   "author": "satcable2005",
+   "updated": "2024-03-13T15:23:27Z",
+   "url": "https://github.com/gfto/mptsd/issues/4"
+  },
+  {
+   "repo": "mish24/Assembly-step-by-step",
+   "number": 1,
+   "title": "Add more Assembly examples",
+   "kind": "issue",
+   "author": "mish24",
+   "updated": "2024-02-23T20:12:01Z",
+   "url": "https://github.com/mish24/Assembly-step-by-step/issues/1"
+  },
+  {
+   "repo": "freddy36/apc_tools",
+   "number": 5,
+   "title": "New Project - Fully Open Source",
+   "kind": "issue",
+   "author": "gregtwallace",
+   "updated": "2024-02-04T14:06:00Z",
+   "url": "https://github.com/freddy36/apc_tools/issues/5"
+  },
+  {
+   "repo": "jo1gi/audiobook-dl",
+   "number": 82,
+   "title": "audiobook-dl: error: unrecognized arguments",
+   "kind": "issue",
+   "author": "yosefomar",
+   "updated": "2024-01-04T18:43:59Z",
+   "url": "https://github.com/jo1gi/audiobook-dl/issues/82"
+  },
+  {
+   "repo": "jo1gi/audiobook-dl",
+   "number": 81,
+   "title": "i can't use the code ",
+   "kind": "issue",
+   "author": "yosefomar",
+   "updated": "2024-01-03T07:53:07Z",
+   "url": "https://github.com/jo1gi/audiobook-dl/issues/81"
+  },
+  {
+   "repo": "jo1gi/audiobook-dl",
+   "number": 74,
+   "title": "Storytel ID3 issue when downloading ",
+   "kind": "issue",
+   "author": "yratof",
+   "updated": "2024-01-02T12:12:51Z",
+   "url": "https://github.com/jo1gi/audiobook-dl/issues/74"
+  },
+  {
+   "repo": "freddy36/apc_tools",
+   "number": 2,
+   "title": "Generating SSH key",
+   "kind": "issue",
+   "author": "thegushi",
+   "updated": "2022-10-04T00:53:18Z",
+   "url": "https://github.com/freddy36/apc_tools/issues/2"
+  },
+  {
+   "repo": "freddy36/check_mk_extensions",
+   "number": 10,
+   "title": "Service discovery is crashing",
+   "kind": "issue",
+   "author": "JWaldecker",
+   "updated": "2022-06-30T06:49:29Z",
+   "url": "https://github.com/freddy36/check_mk_extensions/issues/10"
+  },
+  {
+   "repo": "braice/MuMuDVB",
+   "number": 274,
+   "title": "An improper locking bug(e.g., deadlock) on the lock chan_p.lock",
+   "kind": "issue",
+   "author": "ycaibb",
+   "updated": "2021-09-28T03:12:56Z",
+   "url": "https://github.com/braice/MuMuDVB/issues/274"
+  },
+  {
+   "repo": "freddy36/check_mk_extensions",
+   "number": 5,
+   "title": "cannot compute check result",
+   "kind": "issue",
+   "author": "theundefined",
+   "updated": "2021-06-09T17:38:55Z",
+   "url": "https://github.com/freddy36/check_mk_extensions/issues/5"
+  },
+  {
+   "repo": "signalwire/freeswitch",
+   "number": 142,
+   "title": "No DNS Lookup before sending Register",
+   "kind": "issue",
+   "author": "denzs",
+   "updated": "2021-04-18T01:16:18Z",
+   "url": "https://github.com/signalwire/freeswitch/issues/142"
+  },
+  {
+   "repo": "netbox-community/netbox",
+   "number": 20,
+   "title": "Add support for tracking physical cable plants",
+   "kind": "issue",
+   "author": "jeremystretch",
+   "updated": "2019-06-07T14:31:09Z",
+   "url": "https://github.com/netbox-community/netbox/issues/20"
+  },
+  {
+   "repo": "freddy36/apc_tools",
+   "number": 1,
+   "title": "Compile error with cryptlib 3.4.3.1",
+   "kind": "issue",
+   "author": "mhirsch",
+   "updated": "2019-06-05T16:17:22Z",
+   "url": "https://github.com/freddy36/apc_tools/issues/1"
+  },
+  {
+   "repo": "freddy36/StartSSL_API",
+   "number": 2,
+   "title": "Unable to submit csr on windows",
+   "kind": "issue",
+   "author": "maxpavlov",
+   "updated": "2016-04-11T08:07:54Z",
+   "url": "https://github.com/freddy36/StartSSL_API/issues/2"
+  },
+  {
+   "repo": "freddy36/StartSSL_API",
+   "number": 1,
+   "title": "Hardcoded PEM-file",
+   "kind": "issue",
+   "author": "tobikris",
+   "updated": "2015-05-29T10:04:45Z",
+   "url": "https://github.com/freddy36/StartSSL_API/issues/1"
+  },
+  {
+   "repo": "freddy36/check_mk_extensions",
+   "number": 1,
+   "title": "Malformed agent output",
+   "kind": "issue",
+   "author": "Dragonn",
+   "updated": "2014-09-12T17:48:52Z",
+   "url": "https://github.com/freddy36/check_mk_extensions/issues/1"
+  }
+ ],
+ "events": [],
+ "starred": [
+  {
+   "repo": "denog/denog-wg-access",
+   "starred_at": "2026-03-30T17:20:41Z"
+  },
+  {
+   "repo": "waza-ari/python-desfire",
+   "starred_at": "2026-02-10T10:20:47Z"
+  },
+  {
+   "repo": "gcormier/esphome-pressure",
+   "starred_at": "2025-12-03T10:07:39Z"
+  },
+  {
+   "repo": "leosac/access-control",
+   "starred_at": "2025-02-14T16:19:41Z"
+  },
+  {
+   "repo": "MatthiasValvekens/pyHanko",
+   "starred_at": "2025-02-12T14:56:21Z"
+  },
+  {
+   "repo": "MichaelsPlayground/DesfireToolsForAndroidSdk33",
+   "starred_at": "2025-01-31T21:02:59Z"
+  },
+  {
+   "repo": "MartinP1/ESP8266_MQTT_THERMOSTAT",
+   "starred_at": "2025-01-26T20:42:02Z"
+  },
+  {
+   "repo": "bpc-clone/bpc_chrome_support",
+   "starred_at": "2024-11-14T11:40:53Z"
+  },
+  {
+   "repo": "krusic22/SFP-Transceiver-Flashing",
+   "starred_at": "2024-09-12T15:18:48Z"
+  },
+  {
+   "repo": "MichaelsPlayground/TalkToYourDESFireCard",
+   "starred_at": "2024-09-12T14:02:17Z"
+  },
+  {
+   "repo": "Fiberby-dk/flower-route",
+   "starred_at": "2024-07-31T12:45:56Z"
+  },
+  {
+   "repo": "toniebox-reverse-engineering/toniebox",
+   "starred_at": "2023-11-12T09:37:30Z"
+  },
+  {
+   "repo": "raphamorim/rio",
+   "starred_at": "2023-05-27T02:57:09Z"
+  },
+  {
+   "repo": "alacritty/alacritty",
+   "starred_at": "2023-05-27T02:45:30Z"
+  },
+  {
+   "repo": "leemunroe/responsive-html-email-template",
+   "starred_at": "2023-03-30T09:30:44Z"
+  },
+  {
+   "repo": "alphacep/vosk-api",
+   "starred_at": "2023-03-19T06:59:25Z"
+  },
+  {
+   "repo": "patience4711/read-APSystems-YC600-QS1-DS3",
+   "starred_at": "2022-08-28T21:33:34Z"
+  },
+  {
+   "repo": "google/nel-collector",
+   "starred_at": "2022-01-05T17:48:19Z"
+  },
+  {
+   "repo": "rtbrick/bngblaster",
+   "starred_at": "2021-10-18T11:02:35Z"
+  },
+  {
+   "repo": "networkupstools/nut",
+   "starred_at": "2019-03-15T10:44:43Z"
+  },
+  {
+   "repo": "netoptimizer/IPTV-Analyzer",
+   "starred_at": "2018-08-01T10:58:26Z"
+  },
+  {
+   "repo": "gfto/mptsd",
+   "starred_at": "2018-02-11T15:56:56Z"
+  },
+  {
+   "repo": "donnemartin/system-design-primer",
+   "starred_at": "2018-02-02T16:45:16Z"
+  },
+  {
+   "repo": "irontec/sngrep",
+   "starred_at": "2015-11-11T09:52:23Z"
+  },
+  {
+   "repo": "snabbco/snabb",
+   "starred_at": "2015-10-20T13:52:55Z"
+  },
+  {
+   "repo": "cisco-system-traffic-generator/trex-core",
+   "starred_at": "2015-10-20T09:46:02Z"
+  },
+  {
+   "repo": "network-aggregation/dragon_filtering",
+   "starred_at": "2015-08-03T08:47:11Z"
+  },
+  {
+   "repo": "inex/IXP-Manager",
+   "starred_at": "2015-06-29T13:59:36Z"
+  }
+ ],
+ "following": [
+  "bisdn",
+  "toniebox-reverse-engineering",
+  "liblogicalaccess"
+ ],
+ "gists": [],
+ "upstream": {
+  "librenms/librenms": {
+   "branch": "master",
+   "files": {
+    "LibreNMS/OS/Smartbyte.php": {
+     "blob": "bc9e0dcb9713",
+     "size": 2577,
+     "last_commit": {
+      "sha": "5a79df967fd4",
+      "date": "2026-01-11T23:10:23Z",
+      "author": "freddy36",
+      "msg": "Add support for SmartByte OS (#18681)"
+     }
+    },
+    "html/images/os/smartbyte.png": {
+     "blob": "d261470e9015",
+     "size": 58320,
+     "last_commit": {
+      "sha": "5a79df967fd4",
+      "date": "2026-01-11T23:10:23Z",
+      "author": "freddy36",
+      "msg": "Add support for SmartByte OS (#18681)"
+     }
+    },
+    "mibs/smartbyte/NMS": {
+     "blob": "ff6b58ca28e5",
+     "size": 1685,
+     "last_commit": {
+      "sha": "5a79df967fd4",
+      "date": "2026-01-11T23:10:23Z",
+      "author": "freddy36",
+      "msg": "Add support for SmartByte OS (#18681)"
+     }
+    },
+    "mibs/smartbyte/NMS-OPTICAL-MIB": {
+     "blob": "132611e5433e",
+     "size": 11673,
+     "last_commit": {
+      "sha": "5a79df967fd4",
+      "date": "2026-01-11T23:10:23Z",
+      "author": "freddy36",
+      "msg": "Add support for SmartByte OS (#18681)"
+     }
+    },
+    "mibs/smartbyte/NMS-SYS-MIB": {
+     "blob": "5ff9854d6f42",
+     "size": 8177,
+     "last_commit": {
+      "sha": "5a79df967fd4",
+      "date": "2026-01-11T23:10:23Z",
+      "author": "freddy36",
+      "msg": "Add support for SmartByte OS (#18681)"
+     }
+    },
+    "resources/definitions/os_detection/smartbyte.yaml": {
+     "blob": "ca9bae92d360",
+     "size": 322,
+     "last_commit": {
+      "sha": "5a79df967fd4",
+      "date": "2026-01-11T23:10:23Z",
+      "author": "freddy36",
+      "msg": "Add support for SmartByte OS (#18681)"
+     }
+    },
+    "resources/definitions/os_discovery/smartbyte.yaml": {
+     "blob": "41bba75bc256",
+     "size": 7514,
+     "last_commit": {
+      "sha": "b41ce67d28e9",
+      "date": "2026-04-02T02:14:35Z",
+      "author": "Jellyfrog",
+      "msg": "Remove unused state_draw_graph column from state_translations (#19356)"
+     }
+    },
+    "tests/data/smartbyte_stc-4168xggcm.json": {
+     "blob": "9e27c8c589de",
+     "size": 327269,
+     "last_commit": {
+      "sha": "40af3446f0da",
+      "date": "2026-10-20T00:07:53Z",
+      "author": "Jellyfrog",
+      "msg": "Add sensor category (#20947)"
+     }
+    },
+    "tests/snmpsim/smartbyte_stc-4168xggcm.snmprec": {
+     "blob": "d2153da72d94",
+     "size": 72723,
+     "last_commit": {
+      "sha": "5a79df967fd4",
+      "date": "2026-01-11T23:10:23Z",
+      "author": "freddy36",
+      "msg": "Add support for SmartByte OS (#18681)"
+     }
+    }
+   },
+   "smartbyte_mentions": [
+    {
+     "number": 18856,
+     "title": "smartbyte: fix opticalVoltage",
+     "author": "freddy36",
+     "state": "closed",
+     "created": "2026-01-23T08:35:21Z",
+     "updated": "2026-01-23T11:32:19Z",
+     "is_pr": true,
+     "url": "https://github.com/librenms/librenms/pull/18856"
+    },
+    {
+     "number": 18681,
+     "title": "add support for SmartByte OS",
+     "author": "freddy36",
+     "state": "closed",
+     "created": "2025-12-19T15:52:57Z",
+     "updated": "2026-01-12T11:58:17Z",
+     "is_pr": true,
+     "url": "https://github.com/librenms/librenms/pull/18681"
+    }
+   ],
+   "tree_truncated": false
+  },
+  "ytti/oxidized": {
+   "branch": "master",
+   "files": {
+    "lib/oxidized/model/smartbyte.rb": {
+     "blob": "3048d74d848c",
+     "size": 988,
+     "last_commit": {
+      "sha": "f6b9f689e9a7",
+      "date": "2026-03-31T08:54:48Z",
+      "author": "robertcheramy",
+      "msg": "smartbyte: remove trailing \\r and update unit tests."
+     }
+    },
+    "spec/model/data/smartbyte#STC-4168XGGCM_7.4.7#output.txt": {
+     "blob": "d2e1f7c9a8b7",
+     "size": 37995,
+     "last_commit": {}
+    },
+    "spec/model/data/smartbyte#STC-4168XGGCM_7.4.7#simulation.yaml": {
+     "blob": "db216a25dff8",
+     "size": 49606,
+     "last_commit": {}
+    }
+   },
+   "smartbyte_mentions": [
+    {
+     "number": 3734,
+     "title": "smartbyte: new model for SmartByte switches",
+     "author": "freddy36",
+     "state": "closed",
+     "created": "2026-01-23T11:04:27Z",
+     "updated": "2026-02-13T20:14:44Z",
+     "is_pr": true,
+     "url": "https://github.com/ytti/oxidized/pull/3734"
+    }
+   ],
+   "tree_truncated": false
+  },
+  "netdata/netdata": {
+   "branch": "master",
+   "files": {
+    "src/go/plugin/go.d/collector/snmp/npm-catalog/integrations/shenzhen_smartbyte_technology_co_ltd_snmp_traps.md": {
+     "blob": "8baabfe4addb",
+     "size": 7501,
+     "last_commit": {
+      "sha": "13f193d3644a",
+      "date": "2026-10-07T21:53:28Z",
+      "author": "netdatabot",
+      "msg": "Regenerate integrations docs (#24134)"
+     }
+    },
+    "src/go/plugin/go.d/config/go.d/snmp.trap-profiles/default/shenzhen-smartbyte-technology-co-ltd.yaml": {
+     "blob": "efcd469856fd",
+     "size": 2643,
+     "last_commit": {
+      "sha": "ca99e3232228",
+      "date": "2026-06-11T22:52:35Z",
+      "author": "ktsaou",
+      "msg": "go.d: add profile-based SNMP trap ingestion (#22652)"
+     }
+    }
+   },
+   "smartbyte_mentions": [
+    {
+     "number": 23457,
+     "title": "Regenerate integrations docs",
+     "author": "netdatabot",
+     "state": "closed",
+     "created": "2026-08-12T12:26:56Z",
+     "updated": "2026-09-29T00:56:07Z",
+     "is_pr": true,
+     "url": "https://github.com/netdata/netdata/pull/23457"
+    },
+    {
+     "number": 23484,
+     "title": "Regenerate integrations docs",
+     "author": "netdatabot",
+     "state": "closed",
+     "created": "2026-08-15T04:05:00Z",
+     "updated": "2026-09-29T00:55:44Z",
+     "is_pr": true,
+     "url": "https://github.com/netdata/netdata/pull/23484"
+    }
+   ],
+   "tree_truncated": false
+  },
+  "TencentBlueKing/bk-lite": {
+   "branch": "master",
+   "files": {
+    "server/apps/monitor/support-files/plugins/Telegraf/snmp/switch_smartbyte/UI.json": {
+     "blob": "e17748f68e5f",
+     "size": 10054,
+     "last_commit": {
+      "sha": "25500bc816cd",
+      "date": "2026-10-05T00:53:30Z",
+      "author": "ZhongmingFan",
+      "msg": "feat(monitor): 新增 switch_smartbyte SNMP 采集插件，采集 NMS-SYS CPU/内存/温度/风扇/电源"
+     }
+    },
+    "server/apps/monitor/support-files/plugins/Telegraf/snmp/switch_smartbyte/language/en.yaml": {
+     "blob": "4f2be5692ca6",
+     "size": 15892,
+     "last_commit": {
+      "sha": "25500bc816cd",
+      "date": "2026-10-05T00:53:30Z",
+      "author": "ZhongmingFan",
+      "msg": "feat(monitor): 新增 switch_smartbyte SNMP 采集插件，采集 NMS-SYS CPU/内存/温度/风扇/电源"
+     }
+    },
+    "server/apps/monitor/support-files/plugins/Telegraf/snmp/switch_smartbyte/language/zh-Hans.yaml": {
+     "blob": "a39b286bd911",
+     "size": 13243,
+     "last_commit": {
+      "sha": "25500bc816cd",
+      "date": "2026-10-05T00:53:30Z",
+      "author": "ZhongmingFan",
+      "msg": "feat(monitor): 新增 switch_smartbyte SNMP 采集插件，采集 NMS-SYS CPU/内存/温度/风扇/电源"
+     }
+    },
+    "server/apps/monitor/support-files/plugins/Telegraf/snmp/switch_smartbyte/metrics.json": {
+     "blob": "049e226071ab",
+     "size": 6030,
+     "last_commit": {
+      "sha": "7d582e7b1a12",
+      "date": "2026-10-21T10:59:44Z",
+      "author": "ZhongmingFan",
+      "msg": "fix(监控): SNMP 查询按 collect_type 区分采集器"
+     }
+    },
+    "server/apps/monitor/support-files/plugins/Telegraf/snmp/switch_smartbyte/policy.json": {
+     "blob": "8f1577b325a0",
+     "size": 3295,
+     "last_commit": {
+      "sha": "25500bc816cd",
+      "date": "2026-10-05T00:53:30Z",
+      "author": "ZhongmingFan",
+      "msg": "feat(monitor): 新增 switch_smartbyte SNMP 采集插件，采集 NMS-SYS CPU/内存/温度/风扇/电源"
+     }
+    },
+    "server/apps/monitor/support-files/plugins/Telegraf/snmp/switch_smartbyte/smartbyte.child.toml.j2": {
+     "blob": "2db41b0d7b80",
+     "size": 4981,
+     "last_commit": {
+      "sha": "25500bc816cd",
+      "date": "2026-10-05T00:53:30Z",
+      "author": "ZhongmingFan",
+      "msg": "feat(monitor): 新增 switch_smartbyte SNMP 采集插件，采集 NMS-SYS CPU/内存/温度/风扇/电源"
+     }
+    }
+   },
+   "smartbyte_mentions": [
+    {
+     "number": 6217,
+     "title": "feat(monitor): 新增 switch_smartbyte SNMP 采集插件，采集 NMS-SYS CPU/内存/温度/风扇/电源",
+     "author": "ZhongmingFan",
+     "state": "closed",
+     "created": "2026-10-05T01:09:33Z",
+     "updated": "2026-10-08T07:03:12Z",
+     "is_pr": true,
+     "url": "https://github.com/TencentBlueKing/bk-lite/pull/6217"
+    }
+   ],
+   "tree_truncated": false
+  }
+ },
+ "searches": {
+  "code:smartbyte+snmp": {
+   "total": 45,
+   "hits": [
+    "AdemMlayel/laravel:04/02/38",
+    "AdemMlayel/laravel:04/02/9008",
+    "AdemMlayel/laravel:06/28/9002",
+    "AvinashTiwari/TestingFramework:12_Powershell/svc.csv",
+    "HardenedBSD/ports:net-mgmt/netdata/pkg-plist",
+    "Prasanth595/netdata:src/go/plugin/go.d/collector/snmp/npm-catalog/integrations/shenzhen_smartbyte_technology_co_ltd_snmp_traps.md",
+    "Prasanth595/netdata:src/go/plugin/go.d/config/go.d/snmp.trap-profiles/default/shenzhen-smartbyte-technology-co-ltd.yaml",
+    "RND-NoriTech/NMS-WHITE-V2:LibreNMS/OS/Smartbyte.php",
+    "RND-NoriTech/NMS-WHITE-V2:doc/General/Changelog.md",
+    "RND-NoriTech/NMS-WHITE-V2:tests/data/smartbyte_stc-4168xggcm.json",
+    "TencentBlueKing/bk-lite:server/apps/monitor/support-files/plugins/Telegraf/snmp/switch_smartbyte/UI.json",
+    "TencentBlueKing/bk-lite:server/apps/monitor/support-files/plugins/Telegraf/snmp/switch_smartbyte/language/en.yaml",
+    "TencentBlueKing/bk-lite:server/apps/monitor/support-files/plugins/Telegraf/snmp/switch_smartbyte/language/zh-Hans.yaml",
+    "TencentBlueKing/bk-lite:server/apps/monitor/support-files/plugins/Telegraf/snmp/switch_smartbyte/metrics.json",
+    "TencentBlueKing/bk-lite:server/apps/monitor/support-files/plugins/Telegraf/snmp/switch_smartbyte/policy.json",
+    "TencentBlueKing/bk-lite:server/apps/monitor/support-files/plugins/Telegraf/snmp/switch_smartbyte/smartbyte.child.toml.j2",
+    "TencentBlueKing/bk-lite:web/src/app/monitor/dashboards/shared/capability-matrix.generated.ts",
+    "TencentBlueKing/bk-lite:web/src/app/monitor/hooks/integration/objects/networkDevice/switch.tsx",
+    "TencentBlueKing/bk-lite:web/src/app/monitor/utils/common.tsx",
+    "casudo/KiwiSSH:backend/config/vendors/OS_TYPES.md",
+    "cirosantilli/expired-domain-names-by-day-2013:09/20/36",
+    "cirosantilli/expired-domain-names-by-day-2022:04/02/38",
+    "cirosantilli/expired-domain-names-by-day-2022:04/02/9008",
+    "cirosantilli/expired-domain-names-by-day-2022:06/28/9002",
+    "f0rw4rd/oida:src/oida/fuzz/protocols/snmp_common.py",
+    "f0rw4rd/oida:src/oida/fuzz/protocols/snmpv1.py",
+    "f0rw4rd/oida:src/oida/fuzz/protocols/snmpv2.py",
+    "f0rw4rd/oida:src/oida/fuzz/protocols/snmpv3.py",
+    "f0rw4rd/oida:tests/unit/fuzz/test_snmp_fuzzer.py",
+    "freebsd/freebsd-ports-kde:net-mgmt/netdata/pkg-plist",
+    "freebsd/freebsd-ports:net-mgmt/netdata/pkg-plist",
+    "ghostbsd/ghostbsd-ports:net-mgmt/netdata/pkg-plist",
+    "kruczek8989/librenms_old_kruczek8989:LibreNMS/OS/Smartbyte.php",
+    "kruczek8989/librenms_old_kruczek8989:doc/General/Changelog.md",
+    "kruczek8989/librenms_old_kruczek8989:tests/data/smartbyte_stc-4168xggcm.json",
+    "librenms/librenms:LibreNMS/OS/Smartbyte.php",
+    "librenms/librenms:doc/General/Changelog.md",
+    "librenms/librenms:tests/data/smartbyte_stc-4168xggcm.json",
+    "netdata/learn:docs/Network Performance Monitoring/SNMP Traps/Integrations/Integrations Page 4.mdx",
+    "netdata/learn:docs/Network Performance Monitoring/SNMP Traps/Integrations/Shenzhen Smartbyte Technology Co Ltd SNMP Traps.mdx",
+    "netdata/learn:docs/Welcome to Netdata/Monitor Anything.mdx",
+    "netdata/netdata:src/go/plugin/go.d/collector/snmp/npm-catalog/integrations/shenzhen_smartbyte_technology_co_ltd_snmp_traps.md",
+    "netdata/netdata:src/go/plugin/go.d/config/go.d/snmp.trap-profiles/default/shenzhen-smartbyte-technology-co-ltd.yaml",
+    "opnsense/ports:net-mgmt/netdata/pkg-plist",
+    "ytti/oxidized:CHANGELOG.md"
+   ]
+  },
+  "code:%22SmartByte+OS%22": {
+   "total": 6,
+   "hits": [
+    "RND-NoriTech/NMS-WHITE-V2:LibreNMS/OS/Smartbyte.php",
+    "RND-NoriTech/NMS-WHITE-V2:doc/General/Changelog.md",
+    "kruczek8989/librenms_old_kruczek8989:LibreNMS/OS/Smartbyte.php",
+    "kruczek8989/librenms_old_kruczek8989:doc/General/Changelog.md",
+    "librenms/librenms:LibreNMS/OS/Smartbyte.php",
+    "librenms/librenms:doc/General/Changelog.md"
+   ]
+  },
+  "code:STC-4168XGGCM": {
+   "total": 8,
+   "hits": [
+    "RND-NoriTech/NMS-WHITE-V2:tests/data/smartbyte_stc-4168xggcm.json",
+    "RND-NoriTech/NMS-WHITE-V2:tests/snmpsim/smartbyte_stc-4168xggcm.snmprec",
+    "kruczek8989/librenms_old_kruczek8989:tests/data/smartbyte_stc-4168xggcm.json",
+    "kruczek8989/librenms_old_kruczek8989:tests/snmpsim/smartbyte_stc-4168xggcm.snmprec",
+    "librenms/librenms:tests/data/smartbyte_stc-4168xggcm.json",
+    "librenms/librenms:tests/snmpsim/smartbyte_stc-4168xggcm.snmprec",
+    "ytti/oxidized:spec/model/data/smartbyte#STC-4168XGGCM_7.4.7#output.txt",
+    "ytti/oxidized:spec/model/data/smartbyte#STC-4168XGGCM_7.4.7#simulation.yaml"
+   ]
+  },
+  "code:1.3.6.1.4.1.56166": {
+   "total": 15,
+   "hits": [
+    "Prasanth595/netdata:src/go/plugin/go.d/config/go.d/snmp.trap-profiles/default/shenzhen-smartbyte-technology-co-ltd.yaml",
+    "RND-NoriTech/NMS-WHITE-V2:resources/definitions/os_detection/smartbyte.yaml",
+    "RND-NoriTech/NMS-WHITE-V2:resources/definitions/os_discovery/smartbyte.yaml",
+    "RND-NoriTech/NMS-WHITE-V2:tests/data/smartbyte_stc-4168xggcm.json",
+    "RND-NoriTech/NMS-WHITE-V2:tests/snmpsim/smartbyte_stc-4168xggcm.snmprec",
+    "TencentBlueKing/bk-lite:server/apps/monitor/support-files/plugins/Telegraf/snmp/switch_smartbyte/smartbyte.child.toml.j2",
+    "kruczek8989/librenms_old_kruczek8989:resources/definitions/os_detection/smartbyte.yaml",
+    "kruczek8989/librenms_old_kruczek8989:resources/definitions/os_discovery/smartbyte.yaml",
+    "kruczek8989/librenms_old_kruczek8989:tests/data/smartbyte_stc-4168xggcm.json",
+    "kruczek8989/librenms_old_kruczek8989:tests/snmpsim/smartbyte_stc-4168xggcm.snmprec",
+    "librenms/librenms:resources/definitions/os_detection/smartbyte.yaml",
+    "librenms/librenms:resources/definitions/os_discovery/smartbyte.yaml",
+    "librenms/librenms:tests/data/smartbyte_stc-4168xggcm.json",
+    "librenms/librenms:tests/snmpsim/smartbyte_stc-4168xggcm.snmprec",
+    "netdata/netdata:src/go/plugin/go.d/config/go.d/snmp.trap-profiles/default/shenzhen-smartbyte-technology-co-ltd.yaml"
+   ]
+  },
+  "code:LT-S8528XG": {
+   "total": 0,
+   "hits": []
+  },
+  "code:smartbyte-switch.com": {
+   "total": 0,
+   "hits": []
+  },
+  "code:%22sagatele.com%22": {
+   "total": 28,
+   "hits": [
+    "AdemMlayel/laravel:10/20/31",
+    "SimonSaga-202306/sagatele-site:404.html",
+    "SimonSaga-202306/sagatele-site:CNAME",
+    "SimonSaga-202306/sagatele-site:index.html",
+    "SimonSaga-202306/sagatele-site:insights/chipset-allocation-tightens.html",
+    "SimonSaga-202306/sagatele-site:insights/evaluate-switch-supplier.html",
+    "SimonSaga-202306/sagatele-site:insights/five-questions-oem-agreement.html",
+    "SimonSaga-202306/sagatele-site:insights/industrial-vs-commercial-switch-selection.html",
+    "SimonSaga-202306/sagatele-site:insights/marvell-vs-generic-switches.html",
+    "SimonSaga-202306/sagatele-site:insights/oem-odm-skd-ckd.html",
+    "SimonSaga-202306/sagatele-site:insights/poe-budget-planning.html",
+    "SimonSaga-202306/sagatele-site:insights/public-safety-deployment-case.html",
+    "SimonSaga-202306/sagatele-site:insights/strategic-inventory-procurement.html",
+    "SimonSaga-202306/sagatele-site:llms.txt",
+    "SimonSaga-202306/sagatele-site:products/stc-424xggpm-280w.html",
+    "SimonSaga-202306/sagatele-site:products/stc-448xggm.html",
+    "SimonSaga-202306/sagatele-site:products/sth-2c12xf12xe-hsi.html",
+    "SimonSaga-202306/sagatele-site:products/sth-8c48dx-hsi.html",
+    "SimonSaga-202306/sagatele-site:products/sti-21616gp.html",
+    "SimonSaga-202306/sagatele-site:products/sti-488xggpm2b-2bt.html",
+    "SimonSaga-202306/sagatele-site:robots.txt",
+    "SimonSaga-202306/sagatele-site:sitemap.xml",
+    "cirosantilli/expired-domain-names-by-day-2011:09/24/34",
+    "cirosantilli/expired-domain-names-by-day-2013:02/23/45",
+    "cirosantilli/expired-domain-names-by-day-2019:05/13/39",
+    "cirosantilli/expired-domain-names-by-day-2020:07/31/37",
+    "cirosantilli/expired-domain-names-by-day-2020:07/31/9004",
+    "cirosantilli/expired-domain-names-by-day-2022:10/20/31"
+   ]
+  },
+  "code:%22Saga+Telecom%22+switch": {
+   "total": 20,
+   "hits": [
+    "Nschumi/work-docs-work:docs/project-management/implementation/github-setup/github-quick-setup.sh",
+    "Nschumi/work-docs-work:docs/requirements/SRS/ecom-srs.md",
+    "Nschumi/work-docs-work:docs/requirements/SRS/modules/authentication-module-requirements.md",
+    "SimonSaga-202306/sagatele-site:index.html",
+    "SimonSaga-202306/sagatele-site:insights/chipset-allocation-tightens.html",
+    "SimonSaga-202306/sagatele-site:insights/evaluate-switch-supplier.html",
+    "SimonSaga-202306/sagatele-site:insights/five-questions-oem-agreement.html",
+    "SimonSaga-202306/sagatele-site:insights/industrial-vs-commercial-switch-selection.html",
+    "SimonSaga-202306/sagatele-site:insights/marvell-vs-generic-switches.html",
+    "SimonSaga-202306/sagatele-site:insights/oem-odm-skd-ckd.html",
+    "SimonSaga-202306/sagatele-site:insights/poe-budget-planning.html",
+    "SimonSaga-202306/sagatele-site:insights/public-safety-deployment-case.html",
+    "SimonSaga-202306/sagatele-site:insights/strategic-inventory-procurement.html",
+    "SimonSaga-202306/sagatele-site:llms.txt",
+    "SimonSaga-202306/sagatele-site:products/stc-424xggpm-280w.html",
+    "SimonSaga-202306/sagatele-site:products/stc-448xggm.html",
+    "SimonSaga-202306/sagatele-site:products/sth-2c12xf12xe-hsi.html",
+    "SimonSaga-202306/sagatele-site:products/sth-8c48dx-hsi.html",
+    "SimonSaga-202306/sagatele-site:products/sti-21616gp.html",
+    "SimonSaga-202306/sagatele-site:products/sti-488xggpm2b-2bt.html"
+   ]
+  },
+  "repo:smartbyte+switch": {
+   "total": 0,
+   "hits": []
+  },
+  "repo:smartbyte+snmp": {
+   "total": 0,
+   "hits": []
+  },
+  "repo:nynex": {
+   "total": 18,
+   "hits": [
+    "CodeSalvageON/NYNEX-MONUMENT (2022-09-07)",
+    "CodeSalvageON/NYNEX-WEBSITE (2022-02-19)",
+    "CodeSalvageON/Nynex-2.0 (2022-04-25)",
+    "CodeSalvageON/nynex (2022-02-11)",
+    "CodeSalvageON/nynex2 (2022-04-18)",
+    "RaulNxsDev/NynexoCloudStore (2024-04-22)",
+    "TOcvfan/nynext (2023-06-14)",
+    "b3rn/phantom-phreak (2018-02-03)",
+    "fyfff311-sudo/NYNEX (2026-01-02)",
+    "kingof9x/nynex.dev (2026-10-20)",
+    "mattkane218/nynex (2010-09-14)",
+    "nynexman4464/nynexman4464 (2022-02-01)",
+    "oceankesarwani/L3-WDA-Project-Team-Nynex (2025-11-10)",
+    "paslaurasmood/nynex (2026-09-23)",
+    "s-elhaj/nynex_nms (2017-07-19)",
+    "seanmorris/nynex95 (2024-02-03)",
+    "sharith2611/MyFirstServerNynex (2026-02-25)",
+    "taup1n/nynexsim (2017-10-25)"
+   ]
+  }
+ },
+ "customer_accounts": {
+  "anwHub": {
+   "code": "SA-168",
+   "name": "Angora Networks 官方组织（Angora Networks Open Repository，Ankara；contact@angoranetworks.com）",
+   "profile": {
+    "login": "anwHub",
+    "type": "Organization",
+    "name": "Angora Networks",
+    "company": null,
+    "blog": "https://support.angoranetworks.com",
+    "location": "Ankara, Turkey",
+    "email": "contact@angoranetworks.com",
+    "bio": "Angora Networks Open Repository",
+    "public_repos": 1,
+    "followers": 0,
+    "created_at": "2020-01-16T10:57:48Z",
+    "updated_at": "2020-01-30T08:25:24Z"
+   },
+   "repos": {
+    "3rdPartyConfigs": {
+     "pushed_at": "2020-01-16T11:10:50Z",
+     "description": "3rd party product configuration needed to make an Angora switch function works. ",
+     "fork": false,
+     "language": null,
+     "size": 37
+    }
+   },
+   "events": []
+  },
+  "Resonant-Networks": {
+   "code": "SA-006",
+   "name": "Resonant Networks Pte Ltd 官方组织（2026-08-31 建；README 自述 Resonant Networks Pte Ltd / Singapore vs Malaysia DC）",
+   "profile": {
+    "login": "Resonant-Networks",
+    "type": "Organization",
+    "name": "Resonant Networks",
+    "company": null,
+    "blog": "",
+    "location": null,
+    "email": null,
+    "bio": null,
+    "public_repos": 6,
+    "followers": 0,
+    "created_at": "2026-08-31T01:17:39Z",
+    "updated_at": "2026-08-31T01:26:53Z"
+   },
+   "repos": {
+    "zpenodegrid": {
+     "pushed_at": "2026-10-09T06:55:28Z",
+     "description": null,
+     "fork": false,
+     "language": "Dockerfile",
+     "size": 21
+    },
+    "containerlab": {
+     "pushed_at": "2026-10-06T11:06:45Z",
+     "description": null,
+     "fork": false,
+     "language": "Python",
+     "size": 64
+    },
+    "aiagentsrepo": {
+     "pushed_at": "2026-10-06T11:06:24Z",
+     "description": null,
+     "fork": false,
+     "language": "Python",
+     "size": 2362
+    },
+    "adtran-alm": {
+     "pushed_at": "2026-10-06T10:36:37Z",
+     "description": null,
+     "fork": false,
+     "language": "HTML",
+     "size": 2426
+    },
+    "rm1dev-proxmox": {
+     "pushed_at": "2026-10-06T10:18:38Z",
+     "description": null,
+     "fork": false,
+     "language": "Python",
+     "size": 161
+    },
+    "fntsolution": {
+     "pushed_at": "2026-10-06T09:52:25Z",
+     "description": null,
+     "fork": false,
+     "language": "HTML",
+     "size": 5957
+    }
+   },
+   "events": []
+  },
+  "acestraxionweb": {
+   "code": "SA-006",
+   "name": "Resonant-Networks 六个仓库的唯一提交者（吉隆坡，2025-04 注册）",
+   "profile": {
+    "login": "acestraxionweb",
+    "type": "User",
+    "name": "Acestraxionweb",
+    "company": null,
+    "blog": "",
+    "location": "Kuala Lumpur",
+    "email": null,
+    "bio": "nope. im not a coder. just a problem solver",
+    "public_repos": 0,
+    "followers": 0,
+    "created_at": "2025-04-03T11:04:13Z",
+    "updated_at": "2026-09-29T14:03:43Z"
+   },
+   "repos": {},
+   "events": [
+    {
+     "id": "23612399626",
+     "at": "2026-10-09T02:38:20Z",
+     "type": "PushEvent",
+     "repo": "Resonant-Networks/zpenodegrid",
+     "ref": "refs/heads/main",
+     "commits": []
+    },
+    {
+     "id": "23476411300",
+     "at": "2026-10-09T06:55:29Z",
+     "type": "PushEvent",
+     "repo": "Resonant-Networks/zpenodegrid",
+     "ref": "refs/heads/main",
+     "commits": []
+    },
+    {
+     "id": "23262093045",
+     "at": "2026-10-06T10:04:34Z",
+     "type": "CreateEvent",
+     "repo": "Resonant-Networks/zpenodegrid",
+     "ref": "main",
+     "commits": []
+    },
+    {
+     "id": "23203492362",
+     "at": "2026-10-06T11:06:45Z",
+     "type": "CreateEvent",
+     "repo": "Resonant-Networks/containerlab",
+     "ref": "main",
+     "commits": []
+    },
+    {
+     "id": "23196669417",
+     "at": "2026-10-06T10:18:39Z",
+     "type": "CreateEvent",
+     "repo": "Resonant-Networks/rm1dev-proxmox",
+     "ref": "main",
+     "commits": []
+    },
+    {
+     "id": "16566466956",
+     "at": "2026-10-06T10:55:37Z",
+     "type": "PublicEvent",
+     "repo": "Resonant-Networks/aiagentsrepo",
+     "ref": null,
+     "commits": []
+    },
+    {
+     "id": "23178910866",
+     "at": "2026-10-06T09:52:25Z",
+     "type": "CreateEvent",
+     "repo": "Resonant-Networks/fntsolution",
+     "ref": "main",
+     "commits": []
+    },
+    {
+     "id": "16553132528",
+     "at": "2026-10-06T10:53:55Z",
+     "type": "PublicEvent",
+     "repo": "Resonant-Networks/containerlab",
+     "ref": null,
+     "commits": []
+    },
+    {
+     "id": "23155841870",
+     "at": "2026-10-06T11:06:24Z",
+     "type": "CreateEvent",
+     "repo": "Resonant-Networks/aiagentsrepo",
+     "ref": "main",
+     "commits": []
+    },
+    {
+     "id": "23153657453",
+     "at": "2026-10-06T10:36:37Z",
+     "type": "CreateEvent",
+     "repo": "Resonant-Networks/adtran-alm",
+     "ref": "main",
+     "commits": []
+    }
+   ]
+  }
+ }
+}
