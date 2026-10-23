@@ -1,6 +1,6 @@
 # Simon 补充资料《Extra Info.zip》（2026-10-22 上传到 Elsa 云盘，4.36 GB） · 覆盖率报告
 
-- 生成时间：2026-10-23T06:05:04Z；来源：`Extra_Info.zip` 4358.4 MB（md5 41acb139a25ae2599b72b7b2522deb5e）
+- 生成时间：2026-10-23T06:17:13Z；来源：`Extra_Info.zip` 4358.4 MB（md5 41acb139a25ae2599b72b7b2522deb5e）
 - 成员文件 1551 个（去重前 1551）：**正文 ok 956 / 仅元数据 meta 310 / 失败 fail 0 / 跳过 skip 0**
 - 原件备份：`Extra_Info.zip` → Release `files-extra_info_2026-10` ✅
 
