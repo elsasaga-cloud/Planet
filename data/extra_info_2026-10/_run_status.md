@@ -1,3 +1,3 @@
-# Extra Info（Elsa Drive 压缩包，2026-10） · 运行状态
+# Simon 补充资料《Extra Info.zip》（2026-10-22 上传到 Elsa 云盘，4.36 GB） · 运行状态
 
-- 2026-10-22T10:01:43Z **ABORT（exit 3）**：download failed 1lZnjbel0x3_vLcFuAGW604L440H9tViA: QUOTA_LOCKED: Drive「Too many users have viewed or downloaded this file recently」— 该文件 ID 的匿名下载配额已锁；等 ~24h 后用同一 ID 重跑，或用 copy_file 生成副本（新 ID）后重跑
+- 2026-10-23T02:23:03Z **ABORT（exit 2）**：1fDsDkyUEoBOXPFN8dgXQ9yu91HXTBTA4 未共享（返回登录页）；请设为「知道链接的任何人可查看」后重跑
