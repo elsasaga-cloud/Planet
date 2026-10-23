@@ -4,7 +4,7 @@
 # - JOB=files / OUT_NAME=<目录名> / SOURCE_IDS=<Drive 文件 ID,…> → 转交 scripts/drive_ingest/files_job.py（单个文件/压缩包全保真抽取到 data/<OUT_NAME>/）；
 #   再跑 Drive 任务前要把 JOB 行删掉或注释掉。
 # - JOB=drive / INDEX=<索引 json> / OUT_DIR=<输出目录> / RELEASE_TAG=<Release 标签> / JOB_LABEL=<提交说明前缀> → 用别的索引跑同一套 Drive 任务（T29-U8 供应商文件夹第二轮）。
-# last trigger: 2026-10-23T05:58Z  purpose: 《Extra Info.zip》第 8 次 = 定向补漏（T29-U22 交叉核对）。第 7 次 05:33Z 已完成（1551 成员：正文 913 / 元数据 352 / 失败 1 / 重复 285），核对发现 5 类遗漏：
+# last trigger: 2026-10-23T06:03Z（第 8 次首推 05:47:24Z `fcdf09af`，15 min 内无任何机器人提交 —— 看不到 Actions 页，不知是排队慢还是开跑前就失败，故原参数重推一次；若两次都静默，请 Simon 看 Actions 页最近一次「Drive SmartByte ingest」的注解）  purpose: 《Extra Info.zip》第 8 次 = 定向补漏（T29-U22 交叉核对）。第 7 次 05:33Z 已完成（1551 成员：正文 913 / 元数据 352 / 失败 1 / 重复 285），核对发现 5 类遗漏：
 #   ① Saga SEO/ 下 39 个 .html（sagatele.com 官网/SEO 各版本草稿 2026-08→2026-12）以前没有 HTML 抽取器 → 新增 extract_html；
 #   ② 《销售额 & 利润.xlsx》fail —— 实为 Office 加密文件（OLE2 + EncryptedPackage）→ 识别为「需要密码」而非失败；
 #   ③ 《外汇管理局行政许可.pdf》pdfplumber 读到 0 页 → 没走 OCR → 新增 pdftoppm 直渲染 + OCR；
