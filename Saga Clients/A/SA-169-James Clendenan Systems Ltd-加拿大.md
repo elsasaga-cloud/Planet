@@ -83,6 +83,9 @@ updated: 2026-10-23
 - **【公开平台核查（T29-U18）】Alignable 商家页：北温哥华，电信/计算机服务/ISP；托管网络起价 15$/设备/月；光纤熔接、固定无线、电话系统**
   > Managed Networks Starting at 15$/device/month for monitoring and configuration services … Networking, Wi-Fi, Fixed Wireless, Fiber Optics splicing and repair
   > 来源：https://www.alignable.com/north-vancouver-bc/james-clendenan-systems-ltd（抓取 2026-10-23）
+- **【Simon 口述】绑定等级：轻度绑定（基于沟通、订单和实际使用）；也是微信/领英渠道唯一的成单客户**
+  > Angora james这些都是轻度绑定，都是基于沟通，客户订单和实际使用等等角度来衡量的……这个主要就是指加拿大成单的James 其他的似乎没了
+  > 来源：docs/requirements/对话全记录.md § T29-U28（抓取 2026-10-23）
 - **KP**：James Clendenan（单据联系人）james@clendenan.ca 〔PI.zip 单据〕
 - **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）
 - 备注： ｜ 针对性加厚 2026-10-22（UL PSU 线索，T29-U13 ②）
@@ -133,7 +136,7 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T03:05:43Z　|　**最近变化**：2026-10-23T02:54:23Z
+- **监控层**：成单精选层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T06:51:07Z　|　**最近变化**：2026-10-23T02:54:23Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-169/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
@@ -142,7 +145,7 @@ updated: 2026-10-23
 | [controlready_scout](https://www.controlready.ca/scout) | html | HTTP 200 | 2026-10-23T02:54:23Z | 1423 字符；首行：SCOUT: Smart Connection Operations United Toolkit — Control Ready |
 | [controlready_about](https://www.controlready.ca/about) | html | HTTP 200 | 2026-10-23T02:54:23Z | 2264 字符；首行：About — Control Ready |
 | [jcs_home](https://www.clendenan.ca/) | html | ConnectionError: HTTPConnectionPool(host='clendenan.ca', por | 2026-10-23T02:54:23Z | 老域名（2026-10-23 02:40Z 沙箱侧抓取失败，待运行器核实）；2026-10-23 首轮 https://clendenan.ca/ 连接失败，改 www + htt |
-| [auto_home](https://clendenan.ca/) | html | 待首轮 | — | 官网首页（T27 快照状态 unknown） |
+| [auto_home](https://clendenan.ca/) | html | ConnectionError: HTTPSConnectionPool(host='clendenan.ca', po | - | 官网首页（T27 快照状态 unknown） |
 
 - **人工定期看（登录墙，不自动抓）**：LinkedIn 个人页：James Clendenan（Queen's 计算机工程；前 Pixar Canada / Sophos / HootSuite / OBS）；Alignable 商家页（反爬 429，人工看）: https://www.alignable.com/north-vancouver-bc/james-clendenan-systems-ltd
 

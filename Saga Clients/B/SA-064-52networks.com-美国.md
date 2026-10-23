@@ -175,7 +175,8 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T03:05:43Z　|　**最近变化**：2026-10-23T02:54:23Z
+- **监控层**：成单精选层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T06:51:07Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-064/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
@@ -183,7 +184,8 @@ updated: 2026-10-23
 | [home](https://52networks.com/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 9154 字符；首行：52Networks: Buy Bulk Ethernet Cables – Cat5e, Cat6, Cat6A Authorize partner Wit |
 | [govtribe](https://govtribe.com/vendors/52-networks-inc-dot-907x4) | html | HTTP 403 | 2026-10-23T02:54:23Z | 联邦合同动态（2025-07 NAVWAR $294k；2025-08 Nellis AFB 光纤 $117k；2025-09 CA 国民警卫队 $29k） |
 | [gsa_elibrary](https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QTCA22D00B3&contractorName=52+NETWORKS,+INC.) | html | HTTP 200 | 2026-10-23T02:54:23Z | 5341 字符；首行：Welcome to GSA eLibrary |
-| [auto_news_1](https://52networks.com/blog) | html | 待首轮 | — | 导航「Blog」 |
+| [auto_news_1](https://52networks.com/blog) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4469 字符；首行：Blog - 52Networks Authorize partner With C2G, Tripplite, Transition, Startech a |
+| [feed_auto](https://52networks.com/feed) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Wed, 21 Oct 2026 03:43:11 What Is PoE? A Complete Guide to Power over Ethernet |
 
 - **人工定期看（登录墙，不自动抓）**：https://x.com/52networks；uzair@52networks.com（GSA 公示）；SAM UEI FV4KBSNE5S75 / CAGE 907X4；TAA 限制 = 中国产交换机进不了 MAS 目录
 

@@ -135,6 +135,9 @@ updated: 2026-10-23
 - **【微信 OCR（Simon↔Peter 2024-11-15）】NYNEX 首次询问时自述有 SONiC 移植经验（Broadcom），问 Marvell 芯片/CPU/内存与软件是否自研；Peter 答平台 Marvell 98DX336S / Flash 512M / DRAM 512M / ARM v7 800M、软件自研；100G 为 Aldrin2/Falcon 但系他客户 NDA 定制不卖；双 AC 样品机壳 +200 RMB**
   > We've some experience with porting the open source SONiC network operation system to Broadcom devices. As there's some basic marvel support it might be easy to add support for your hardware.
   > 来源：data/wechat_smartbyte_ocr/Weixin Image_2026-10-20_140337_791.txt（抓取 2024-11-15）
+- **【Simon 口述】绑定等级：较深绑定——客户把 SmartByte/Saga 设备写进了自己的运维工具链（freddy36 向 LibreNMS / Oxidized 提交 SmartByte 支持），切换成本高**
+  > 尤其是德国那个 我让你爬了它的github 它提交了很多信息 这就是比较深一些的绑定了。客户很难换或者换了成本极高 这就是较深绑定
+  > 来源：docs/requirements/对话全记录.md § T29-U28（抓取 2026-10-23）
 - **KP**：Frederik Kriewitz（Systems Engineer / 网络负责人（RIPE 联系人、政策文件署名人；成单联系人））f.kriewitz@nynex.de +49 6151 50074-009〔https://ipinfo.io/AS200519/178.17.236.0/23 + 用户表〕
 - **KP**：Gunter Frank（创始人/合伙人（1999/2000 创立）） 〔https://nynex.de/company/〕
 - **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 活跃 → A
@@ -233,18 +236,19 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：7 个　|　**数据截至**：2026-10-23T03:05:43Z　|　**最近变化**：2026-10-23T02:54:23Z
+- **监控层**：成单精选层　|　**自动源**：7 个　|　**数据截至**：2026-10-23T06:51:07Z　|　**最近变化**：2026-10-23T06:51:07Z
+- **最近变化摘要**：2026-10-23 auto_home：内容变化：+4 −23 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-013/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [nynex_home](https://www.nynex.de/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 6753 字符；首行：NYNEX – Expand your business. We connect it. · Satellit, Glasfaser & IP-Transit |
-| [fiberone_home](https://www.fiberone.de/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 22143 字符；首行：Internetanbieter Rhein-Main – Glasfaser bis 10 Gbit/s \| fiberONE |
+| [fiberone_home](https://www.fiberone.de/) | html | HTTP 200 | 2026-10-23T06:51:07Z | 21974 字符；首行：Internetanbieter Rhein-Main – Glasfaser bis 10 Gbit/s \| fiberONE |
 | [peeringdb](https://www.peeringdb.com/api/net?asn=200519) | json | HTTP 200 | 2026-10-23T02:54:23Z | data.0.name="fiberONE.de"; data.0.info_prefixes4=0; data.0.info_prefixes6=0; data.0.update |
-| [auto_home](https://fiberone.de/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
-| [auto_sitemap](https://fiberone.de/sitemap.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 49 条） |
-| [auto_news_1](https://fiberone.de/news/) | html | 待首轮 | — | 导航「News」 |
-| [auto_news_2](https://fiberone.de/referenzen/) | html | 待首轮 | — | 导航「Alle Referenzen â」 |
+| [auto_home](https://fiberone.de/) | html | HTTP 200 | 2026-10-23T06:51:07Z | 21974 字符；首行：Internetanbieter Rhein-Main – Glasfaser bis 10 Gbit/s \| fiberONE |
+| [auto_sitemap](https://fiberone.de/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 49 个 URL；最新 lastmod - |
+| [auto_news_1](https://fiberone.de/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1513 字符；首行：News — fiberONE \| Aktuelles aus dem Glasfaser-Ausbau |
+| [auto_news_2](https://fiberone.de/referenzen/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2169 字符；首行：Referenzen — fiberONE \| Glasfaser in Frankfurts Türmen & Quartieren |
 
 - **人工定期看（登录墙，不自动抓）**：GitHub freddy36 → scripts/github_watch（每轮必跑）
 

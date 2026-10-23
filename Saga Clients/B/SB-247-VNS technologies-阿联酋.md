@@ -165,16 +165,18 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-247/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://vnstech.com/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
-| [sitemap](https://vnstech.com/wp-sitemap.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 139 条） |
-| [news_1](https://vnstech.com/category/latest-news/) | html | 待首轮 | — | 导航「Latest News」 |
-| [news_2](https://vnstech.com/portfolio/standard-with-space/three-columns/) | html | 待首轮 | — | 导航「Portfolio」 |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UC7aX9HUgurPPGPUQW6G84TA) | rss | 待首轮 | — | YouTube 频道 https://www.youtube.com/channel/UC7aX9HUgurPPGPUQW6G84TA |
+| [home](https://vnstech.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8475 字符；首行：VNS Technologies – Your Technology Partner |
+| [sitemap](https://vnstech.com/wp-sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
+| [news_1](https://vnstech.com/category/latest-news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1936 字符；首行：Latest News – VNS Technologies |
+| [news_2](https://vnstech.com/portfolio/standard-with-space/three-columns/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1091 字符；首行：Portfolio – VNS Technologies |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UC7aX9HUgurPPGPUQW6G84TA) | rss | HTTP 404 | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UC7aX9HUgurPPGPUQW6G84TA |
+| [feed_auto](https://vnstech.com/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 8 条；最新：Thu, 30 Jan 2020 07:55:20 VNS Technologies @ Intersec 2020 |
 
 - **人工定期看（登录墙，不自动抓）**：X/Twitter: https://twitter.com/vnstech；Facebook: https://www.facebook.com/VNSTechConnect/；LinkedIn: https://www.linkedin.com/in/vns-technologies-035821173；LinkedIn: https://www.linkedin.com/in/vns-tech-035821173；Facebook: https://www.facebook.com/VNS-Technologies-1340622449333854/
 

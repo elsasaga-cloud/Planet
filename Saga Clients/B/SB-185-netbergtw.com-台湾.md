@@ -119,15 +119,16 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-185/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://netbergtw.com/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
-| [sitemap](https://netbergtw.com/sitemap.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 6 条） |
-| [news_1](https://netbergtw.com/top-support/articles/) | html | 待首轮 | — | 导航「Articles」 |
-| [news_2](https://netbergtw.com/about/case-studies/) | html | 待首轮 | — | 导航「Use Cases and Customer Success」 |
+| [home](https://netbergtw.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2868 字符；首行：netberg \| Main |
+| [sitemap](https://netbergtw.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
+| [news_1](https://netbergtw.com/top-support/articles/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4077 字符；首行：netberg \| Main |
+| [news_2](https://netbergtw.com/about/case-studies/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3809 字符；首行：netberg \| Main |
 
 ## 联系方式（已有 · 原值照录）
 

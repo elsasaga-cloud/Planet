@@ -149,16 +149,18 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-140/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.brainboxes.com/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
-| [sitemap](https://www.brainboxes.com/sitemap_index.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 345 条） |
-| [news_1](https://www.brainboxes.com/news-room) | html | 待首轮 | — | 导航「Resources」 |
-| [news_2](https://www.brainboxes.com/case-study/) | html | 待首轮 | — | 导航「Explore Case Studies」 |
-| [youtube](https://www.youtube.com/@BrainboxesLtd) | youtube_handle | 待首轮 | — | YouTube（运行器解析 channelId 后转 RSS） |
+| [home](https://www.brainboxes.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5895 字符；首行：Brainboxes \| Trusted Connectivity: Switches, IoT, Serial, IO |
+| [sitemap](https://www.brainboxes.com/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
+| [news_1](https://www.brainboxes.com/news-room) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7535 字符；首行：News - Brainboxes |
+| [news_2](https://www.brainboxes.com/case-study/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5968 字符；首行：Case Studies - Brainboxes |
+| [youtube](https://www.youtube.com/@BrainboxesLtd) | youtube_handle | HTTP 404 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [feed_auto](https://www.brainboxes.com/feed) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 12 条；最新：Mon, 28 Sep 2026 12:56:49 Brainboxes are Exhibiting at Machine Building Live! |
 
 - **人工定期看（登录墙，不自动抓）**：LinkedIn: https://www.linkedin.com/company/brainboxes/；X/Twitter: https://x.com/brainboxes_ltd
 

@@ -124,16 +124,17 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-050/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://izux.es/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
-| [sitemap](https://izux.es/sitemap.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 340 条） |
-| [news_1](https://izux.es/instaladoresdecamarasdeseguridad/zona-instaladores) | html | 待首轮 | — | 导航「Blog」 |
-| [news_2](https://izux.es/nuevos-productos) | html | 待首轮 | — | 导航「Novedades」 |
-| [youtube](https://www.youtube.com/user/IZUXIngenieria) | youtube_handle | 待首轮 | — | YouTube（运行器解析 channelId 后转 RSS） |
+| [home](https://izux.es/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 10316 字符；首行：Cámaras de Seguridad, Alarmas y Control de Acceso - IZUX |
+| [sitemap](https://izux.es/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 340 个 URL；最新 lastmod 2026-03-29T11:03:33 |
+| [news_1](https://izux.es/instaladoresdecamarasdeseguridad/zona-instaladores) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2455 字符；首行：Zona instaladores - Instaladores de cámaras de seguridad en Valencia y Castelló |
+| [news_2](https://izux.es/nuevos-productos) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8834 字符；首行：Nuevos productos de seguridad, videovigilancia, videoporteros, alarmas y contro |
+| [youtube](https://www.youtube.com/user/IZUXIngenieria) | youtube_handle | HTTP 404 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/pages/IZUX-Videovigilancia-y-Seguridad/231797096906699?ref=ts&fref=ts；X/Twitter: https://twitter.com/IzuxSeguridad；LinkedIn: https://www.linkedin.com/company/izux-ingenieria-y-seguridad-s-l-?trk=prof-following-company-logo；WhatsApp: https://wa.me/34661241886?text=Hola%2C%20vi%20su%20web%20y%20me%20gustar%C3%ADa%20m%C3%A1s%20informaci%C3%B3n%20sobre%20sistemas%20de%20seguridad)
 

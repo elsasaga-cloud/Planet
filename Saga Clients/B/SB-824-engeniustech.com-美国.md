@@ -139,15 +139,17 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-824/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.engeniustech.com/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
-| [news_1](https://www.engeniustech.com/blog.html/) | html | 待首轮 | — | 导航「EnGenius Blog」 |
-| [news_2](https://www.engeniustech.com/in-the-news.html) | html | 待首轮 | — | 导航「In the News」 |
-| [youtube](https://www.youtube.com/user/EnGeniusTec) | youtube_handle | 待首轮 | — | YouTube（运行器解析 channelId 后转 RSS） |
+| [home](https://www.engeniustech.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 9518 字符；首行：EnGenius: AI Surveillance \| Wi-Fi \| Switches \| VPN Routers \| PDUs |
+| [news_1](https://www.engeniustech.com/blog.html/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 18694 字符；首行：EnGenius Blog \| EnGenius |
+| [news_2](https://www.engeniustech.com/in-the-news.html) | html | HTTP 200 | 2026-10-23T04:20:51Z | 11742 字符；首行：EnGenius News \| EnGenius |
+| [youtube](https://www.youtube.com/user/EnGeniusTec) | youtube_handle | HTTP 404 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [feed_auto](https://www.engeniustech.com/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 17 条；最新：Fri, 08 May 2026 16:13:57 A Better DECT Alternative for Hospitality: EnGenius Dura |
 
 ## 联系方式（已有 · 原值照录）
 

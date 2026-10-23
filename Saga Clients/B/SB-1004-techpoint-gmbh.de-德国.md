@@ -109,15 +109,17 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1004/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.techpoint-gmbh.de/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
-| [sitemap](https://www.techpoint-gmbh.de/sitemap_index.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 19 条） |
-| [news_1](https://www.techpoint-gmbh.de/news/) | html | 待首轮 | — | 导航「News」 |
-| [news_2](https://www.techpoint-gmbh.de/referenzen/) | html | 待首轮 | — | 导航「Referenzen」 |
+| [home](https://www.techpoint-gmbh.de/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7198 字符；首行：Startseite - Tech-Point GmbH |
+| [sitemap](https://www.techpoint-gmbh.de/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
+| [news_1](https://www.techpoint-gmbh.de/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2585 字符；首行：News - Tech-Point GmbH |
+| [news_2](https://www.techpoint-gmbh.de/referenzen/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8516 字符；首行：Referenzen - Tech-Point GmbH |
+| [feed_auto](https://www.techpoint-gmbh.de/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 2 条；最新：Wed, 02 Jul 2025 17:03:51 Unsere Neuesten Maschinen |
 
 - **人工定期看（登录墙，不自动抓）**：LinkedIn: https://www.linkedin.com/company/tech-point-gmbh/；Facebook: https://www.facebook.com/people/Tech-Point-GmbH/61579183486108/；WhatsApp: https://wa.me/491709912450?text=Hallo%2C%20ich%20habe%20eine%20Frage.
 

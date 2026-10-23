@@ -129,16 +129,18 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-763/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.ctsystem.com/en/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
-| [sitemap](https://www.ctsystem.com/sitemap_index.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 635 条） |
-| [news_1](https://www.ctsystem.com/en/news/) | html | 待首轮 | — | 导航「News」 |
-| [news_2](https://www.ctsystem.com/en/insights/) | html | 待首轮 | — | 导航「Insights」 |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCk927AUhk0cSIhxTk48wW7g) | rss | 待首轮 | — | YouTube 频道 https://www.youtube.com/channel/UCk927AUhk0cSIhxTk48wW7g/about |
+| [home](https://www.ctsystem.com/en/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4776 字符；首行：Connection Technology Systems Inc. |
+| [sitemap](https://www.ctsystem.com/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
+| [news_1](https://www.ctsystem.com/en/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4884 字符；首行：News - Connection Technology Systems Inc. |
+| [news_2](https://www.ctsystem.com/en/insights/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4447 字符；首行：Insights - Connection Technology Systems Inc. |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCk927AUhk0cSIhxTk48wW7g) | rss | HTTP 404 | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCk927AUhk0cSIhxTk48wW7g/about |
+| [feed_auto](https://www.ctsystem.com/en/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Tue, 14 Apr 2026 06:14:46 Meet CTS at Computex 2026 |
 
 - **人工定期看（登录墙，不自动抓）**：LinkedIn: https://www.linkedin.com/company/ctsystem/?original_referer=https%3A%2F%2Fwww.ctsystem.com%2F
 

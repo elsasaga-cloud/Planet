@@ -171,7 +171,8 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T03:05:43Z　|　**最近变化**：2026-10-23T02:54:23Z
+- **监控层**：成单精选层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T06:51:07Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-335/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
@@ -179,8 +180,8 @@ updated: 2026-10-23
 | [home](https://www.dc.ge/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 1501 字符；首行：დელტა კონსალტინგი-Delta Consulting |
 | [home_alt](https://www.delta-consulting.ge/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 1501 字符；首行：დელტა კონსალტინგი-Delta Consulting |
 | [ripe_asn](https://rdap.db.ripe.net/autnum/209786) | json | HTTP 200 | 2026-10-23T02:54:23Z | name="DeltaConsulting"; status=["active"]; events=[{"eventAction": "registration", "eventD |
-| [auto_sitemap](https://www.dc.ge/sitemap.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 15 条） |
-| [auto_news_1](https://www.dc.ge/portfolio.html) | html | 待首轮 | — | 导航「პარტნიორები」 |
+| [auto_sitemap](https://www.dc.ge/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 15 个 URL；最新 lastmod - |
+| [auto_news_1](https://www.dc.ge/portfolio.html) | html | HTTP 200 | 2026-10-23T04:20:51Z | 782 字符；首行：პარტნიორები |
 
 - **人工定期看（登录墙，不自动抓）**：https://www.facebook.com/deltaconsultingofficial；D&B：30 人，$2.05M，负责人 Giorgi Jaliashvili；美国 SAM 注册 UEI J9LKEG5JR7D6 / CAGE SJFH4（2020-07）；Facebook: https://www.facebook.com/deltaconsultingofficial/；LinkedIn: https://www.linkedin.com/company/%E1%83%93%E1%83%94%E1%83%9A%E1%83%A2%E1%83%90-%E1%83%99%E1%83%9D%E1%83%9C%E1%83%A1%E1%83%90%E1%83%9A%E1%83%A2%E1%83%98%E1%83%9C%E1%83%92%E1%83%98-%E2%80%A2-delta-consulting/
 

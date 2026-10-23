@@ -140,16 +140,17 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1118/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.mcss.co.kr/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
-| [sitemap](https://www.mcss.co.kr/sitemap.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 571 条） |
-| [news_1](https://www.mcss.co.kr/blog) | html | 待首轮 | — | 导航「Blog」 |
-| [news_2](https://www.mcss.co.kr/reference) | html | 待首轮 | — | 导航「사업실적」 |
-| [youtube](https://www.youtube.com/@mcssolution) | youtube_handle | 待首轮 | — | YouTube（运行器解析 channelId 后转 RSS） |
+| [home](https://www.mcss.co.kr/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6957 字符；首行：엠씨에스솔루션 \| 네트워크 솔루션·ICT·IoT 전문기업 |
+| [sitemap](https://www.mcss.co.kr/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 571 个 URL；最新 lastmod 2026-08-06 |
+| [news_1](https://www.mcss.co.kr/blog) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5549 字符；首行：엠씨에스솔루션 \| 네트워크 솔루션·ICT·IoT 전문기업 |
+| [news_2](https://www.mcss.co.kr/reference) | html | HTTP 200 | 2026-10-23T04:20:51Z | 9245 字符；首行：엠씨에스솔루션 \| 네트워크 솔루션·ICT·IoT 전문기업 |
+| [youtube](https://www.youtube.com/@mcssolution) | youtube_handle | HTTP 404 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
 
 - **人工定期看（登录墙，不自动抓）**：Instagram: https://www.instagram.com/mcssolution?igsh=MWpycG9ydWRuaTdreQ%3D%3D；Facebook: https://www.facebook.com/www.mcss.co.kr/?locale=ko_KR%2F
 

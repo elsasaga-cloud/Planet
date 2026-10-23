@@ -182,13 +182,14 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-092/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.data-connect.com) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
-| [sitemap](https://www.data-connect.com/sitemap.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 2467 条） |
+| [home](https://www.data-connect.com) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6330 字符；首行：Data Connect Enterprise 1-888-492-6526 Networking Solutions Provider |
+| [sitemap](https://www.data-connect.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 900 个 URL；最新 lastmod 2018-07-17T11:10:10 |
 
 ## 联系方式（已有 · 原值照录）
 

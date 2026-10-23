@@ -69,6 +69,13 @@
    "quote": "Managed Networks Starting at 15$/device/month for monitoring and configuration services … Networking, Wi-Fi, Fixed Wireless, Fiber Optics splicing and repair",
    "url": "https://www.alignable.com/north-vancouver-bc/james-clendenan-systems-ltd",
    "date": "2026-10-23"
+  },
+  {
+   "kind": "Simon 口述",
+   "claim": "绑定等级：轻度绑定（基于沟通、订单和实际使用）；也是微信/领英渠道唯一的成单客户",
+   "quote": "Angora james这些都是轻度绑定，都是基于沟通，客户订单和实际使用等等角度来衡量的……这个主要就是指加拿大成单的James 其他的似乎没了",
+   "url": "docs/requirements/对话全记录.md § T29-U28",
+   "date": "2026-10-23"
   }
  ],
  "kp": [
@@ -122,5 +129,7 @@
  "deep": {
   "done_at": "2026-10-23",
   "level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
- }
+ },
+ "binding_level": "轻度",
+ "binding_src": "Simon 口述 2026-10-23（T29-U28）"
 }

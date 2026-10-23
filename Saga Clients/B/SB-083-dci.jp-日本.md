@@ -153,15 +153,17 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-083/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://dci.jp/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
-| [sitemap](https://dci.jp/sitemap.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 45 条） |
-| [news_1](https://dci.jp/category/news) | html | 待首轮 | — | 导航「NEWS」 |
-| [news_2](https://dci.jp/news/exhibition072026) | html | 待首轮 | — | 导航「7月開催展示会【JANOG58】【ケーブル技術ショー2026】に出展します。」 |
+| [home](https://dci.jp/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1457 字符；首行：データコントロルズ株式会社 \| データコントロルズは光通信、運輸、情報、エネルギーのネットワークインフラのメディア変換製品の設計・開発・販売をトータルサポー |
+| [sitemap](https://dci.jp/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
+| [news_1](https://dci.jp/category/news) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1427 字符；首行：NEWS \| データコントロルズ株式会社 |
+| [news_2](https://dci.jp/news/exhibition072026) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1565 字符；首行：7月開催展示会【JANOG58】【ケーブル技術ショー2026】に出展します。 \| データコントロルズ株式会社 |
+| [feed_auto](https://dci.jp/feed) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Mon, 05 Oct 2026 07:50:03 COMNEXT 第4回［次世代］通信技術＆ソリューション展に出展します |
 
 ## 联系方式（已有 · 原值照录）
 

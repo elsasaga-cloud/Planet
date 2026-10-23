@@ -152,18 +152,19 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：7 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：7 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-955/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://ssd.ru/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
-| [sitemap](https://ssd.ru/sitemap.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 7715 条） |
-| [news_1](https://ssd.ru/news/) | html | 待首轮 | — | 导航「Новости」 |
-| [news_2](https://ssd.ru/articles/) | html | 待首轮 | — | 导航「Статьи」 |
-| [vk](https://vk.com/svyazstroidetal) | html | 待首轮 | — | VK 公开社区页 |
-| [telegram](https://t.me/s/ssdtyt) | html | 待首轮 | — | Telegram 公开频道预览页 |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UC5mTdDW5pkq3QgBiewbZ9QA) | rss | 待首轮 | — | YouTube 频道 https://www.youtube.com/channel/UC5mTdDW5pkq3QgBiewbZ9QA |
+| [home](https://ssd.ru/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5624 字符；首行：ССД - Разработка и производство материалов для строительства и ремонта линий св |
+| [sitemap](https://ssd.ru/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
+| [news_1](https://ssd.ru/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4058 字符；首行：Новости \| Компания ССД |
+| [news_2](https://ssd.ru/articles/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3666 字符；首行：Статьи \| Компания ССД |
+| [vk](https://vk.com/svyazstroidetal) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7 字符；首行：‌ |
+| [telegram](https://t.me/s/ssdtyt) | html | HTTP 200 | 2026-10-23T04:20:51Z | 11163 字符；首行：ССД тут – Telegram |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UC5mTdDW5pkq3QgBiewbZ9QA) | rss | HTTP 404 | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UC5mTdDW5pkq3QgBiewbZ9QA |
 
 ## 联系方式（已有 · 原值照录）
 

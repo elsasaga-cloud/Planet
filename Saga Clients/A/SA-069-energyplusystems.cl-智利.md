@@ -179,13 +179,14 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-069/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://energyplusystems.cl/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
-| [sitemap](https://energyplusystems.cl/sitemap.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 13 条） |
+| [home](https://energyplusystems.cl/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4706 字符；首行：Energyplus - Tecnología para la minería e industria |
+| [sitemap](https://energyplusystems.cl/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 13 个 URL；最新 lastmod 2026-04-10T10:00:00 |
 
 - **人工定期看（登录墙，不自动抓）**：WhatsApp: http://wa.me/56992188218?text=Hola%2C%20deseo%20cotizar%3A%20Enchufe%20Minero%20Embutido%20Clase%2025KV%20Victor；WhatsApp: http://wa.me/56992188218?text=Hola%2C%20deseo%20cotizar%3A%20Enchufe%20Minero%20Volante%20Clase%2025KV%20Victor；WhatsApp: http://wa.me/56992188218?text=Hola%2C%20deseo%20cotizar%3A%20Splitters%20Mineros%20Para%20Acople%20de%20Enchufes%20de%20Media%20Tensi%C3%B3n
 

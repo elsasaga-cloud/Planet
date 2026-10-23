@@ -113,15 +113,16 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-686/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://atelekom.com.tr/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
-| [sitemap](https://atelekom.com.tr/sitemap_index.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 49 条） |
-| [news_1](https://atelekom.com.tr/category/blog/) | html | 待首轮 | — | 导航「Blog」 |
-| [youtube](https://www.youtube.com/@atelekom) | youtube_handle | 待首轮 | — | YouTube（运行器解析 channelId 后转 RSS） |
+| [home](https://atelekom.com.tr/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8669 字符；首行：A Telekomünikasyon \| Zayıf Akımda En İyi Çözüm |
+| [sitemap](https://atelekom.com.tr/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
+| [news_1](https://atelekom.com.tr/category/blog/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4757 字符；首行：Blog - A Telekomünikasyon |
+| [youtube](https://www.youtube.com/@atelekom) | youtube_handle | HTTP 404 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
 
 - **人工定期看（登录墙，不自动抓）**：Instagram: https://www.instagram.com/reel/DNsvT1VUDw0/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==；Instagram: https://www.instagram.com/reel/DPbfP9GiMM7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==；Instagram: https://www.instagram.com/reel/DZwqw-mtura/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==；Facebook: https://www.facebook.com/atelekomunikasyon；Instagram: https://www.instagram.com/atelekomunikasyon/；LinkedIn: https://www.linkedin.com/company/atelekomunikasyon/mycompany/?viewAsMember=true；WhatsApp: https://wa.me/902122228844
 

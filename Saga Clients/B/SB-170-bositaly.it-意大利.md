@@ -155,16 +155,18 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-170/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://bositaly.it/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
-| [sitemap](https://bositaly.it/wp-sitemap.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 278 条） |
-| [news_1](https://bositaly.it/category/news/) | html | 待首轮 | — | 导航「News」 |
-| [news_2](https://bositaly.it/category/news/news-di-prodotto/) | html | 待首轮 | — | 导航「News prodotti」 |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCDuq-1vdWtBPKosxuzLiW6g) | rss | 待首轮 | — | YouTube 频道 https://www.youtube.com/channel/UCDuq-1vdWtBPKosxuzLiW6g |
+| [home](https://bositaly.it/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5667 字符；首行：Bos Italy S.r.l. |
+| [sitemap](https://bositaly.it/wp-sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
+| [news_1](https://bositaly.it/category/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8355 字符；首行：News – Bos Italy S.r.l. |
+| [news_2](https://bositaly.it/category/news/news-di-prodotto/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2803 字符；首行：News di prodotto – Bos Italy S.r.l. |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCDuq-1vdWtBPKosxuzLiW6g) | rss | HTTP 404 | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCDuq-1vdWtBPKosxuzLiW6g |
+| [feed_auto](https://bositaly.it/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Thu, 17 Sep 2026 15:30:39 La ragione di una nuova identità per i Box BOS |
 
 - **人工定期看（登录墙，不自动抓）**：LinkedIn: https://www.linkedin.com/company/borinato-security-srl/；Facebook: https://www.facebook.com/borinatosec
 

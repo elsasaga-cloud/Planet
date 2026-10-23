@@ -164,6 +164,9 @@ updated: 2026-10-23
 - **【公开平台核查（T29-U18）】官网 RSS 可用，最后一篇 2023-12-06《Veri Diyotu … ModBUS ve OPC》，此前 2022-10-02《Packet Broker》；feed lastBuild 2026-06-15**
   > Wed, 06 Dec 2023 11:27:03 +0000 … Angora Networks ® Veri Diyotu Çözümünde Ezber Bozan ModBUS ve OPC protokolü Desteğini Tanıttı
   > 来源：https://www.angoranetworks.com/feed/（抓取 2026-10-23）
+- **【Simon 口述】绑定等级：轻度绑定，且「卡在门槛」——Taylan 要把 Saga 管理型接入其 NMS（2025-03-23 要 MIB），但订单少、官网迟迟不用 Saga 产品图片（已委婉对 Levent 提过几次）**
+  > Angora james这些都是轻度绑定……angora其实严格来说没到这个地步。你看gmail上taylan说把我们管理接入它的NMS，但他们订单少，官网迟迟不用我们的产品图片啥的即使我已经委婉地给levent说过几次了等等。就是类似卡在门槛那了 不进不出
+  > 来源：docs/requirements/对话全记录.md § T29-U28（抓取 2026-10-23）
 - **KP**：Levent Kılıç（负责人/商务（付款、合同、项目））lkilic@angoranetworks.com +90 532 476 1428（WeChat/WhatsApp，2024-05-02 本人提供）〔gmail:s.sagatelecom thread 1797555182457944562〕
 - **KP**：Taylan Esen（技术负责人（RFP 功能、SNMP/固件、MAC/SN、客户 NMS））tesen@angoranetworks.com 〔gmail:s.sagatelecom thread 1797555182457944562〕
 - **KP**：Levent Kilic（单据联系人）levent.kilic@angoranetworks.com; lkilic@angoranetworks.com 〔PI.zip 单据〕
@@ -252,7 +255,8 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：6 个　|　**数据截至**：2026-10-23T03:05:43Z　|　**最近变化**：2026-10-23T02:54:23Z
+- **监控层**：成单精选层　|　**自动源**：6 个　|　**数据截至**：2026-10-23T06:51:07Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-168/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
@@ -262,7 +266,7 @@ updated: 2026-10-23
 | [verge_family](https://www.angoranetworks.com/verge-network-switch-family/?lang=en) | html | HTTP 200 | 2026-10-23T02:54:23Z | 3982 字符；首行：Verge Network Switch Family - Angora Networks |
 | [support_portal](https://support.angoranetworks.com/) | html | HTTP 522 | 2026-10-23T02:54:23Z | 在线文档/支持门户（2026-10-23 02:40Z Cloudflare 522 源站超时） |
 | [github_anwHub](https://github.com/anwHub) | github | HTTP 200 | 2026-10-23T02:54:23Z | Organization anwHub · 仓库 1 · 最近推送 2020-01-16T11:10:50Z |
-| [auto_home](https://angoranetworks.com/) | html | 待首轮 | — | 官网首页（T27 快照状态 unknown） |
+| [auto_home](https://angoranetworks.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3087 字符；首行：Anasayfa - Angora Networks |
 
 - **人工定期看（登录墙，不自动抓）**：https://www.linkedin.com/company/angora-networks（2,110 followers）；https://x.com/angoranetworks；https://www.instagram.com/angora_networks/；YouTube（频道 ID 待核：首轮 feed 404）: https://www.youtube.com/results?search_query=Angora+Networks
 

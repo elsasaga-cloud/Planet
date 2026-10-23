@@ -149,14 +149,15 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-259/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.alternetivo.cz/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
-| [news_1](https://www.alternetivo.cz/default.asp?inc=inc/menu/b2btechn_info.htm) | html | 待首轮 | — | 导航「Knowledge base」 |
-| [youtube](https://www.youtube.com/user/alternetivo1) | youtube_handle | 待首轮 | — | YouTube（运行器解析 channelId 后转 RSS） |
+| [home](https://www.alternetivo.cz/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 13811 字符；首行：Alternetivo \| IT distributor \| Switching/routing, monitoring, síťová bezpečn |
+| [news_1](https://www.alternetivo.cz/default.asp?inc=inc/menu/b2btechn_info.htm) | html | HTTP 200 | 2026-10-23T04:20:51Z | 56913 字符；首行：Jazyk / Language EN |
+| [youtube](https://www.youtube.com/user/alternetivo1) | youtube_handle | HTTP 404 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/Alternetivo/；LinkedIn: https://cz.linkedin.com/company/alternetivo-s-r-o-；X/Twitter: https://twitter.com/Alternetivo
 

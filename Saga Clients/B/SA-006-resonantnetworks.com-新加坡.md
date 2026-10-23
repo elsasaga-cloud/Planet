@@ -198,7 +198,8 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T03:05:43Z　|　**最近变化**：2026-10-23T02:54:23Z
+- **监控层**：成单精选层　|　**自动源**：6 个　|　**数据截至**：2026-10-23T06:51:07Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-006/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
@@ -207,7 +208,8 @@ updated: 2026-10-23
 | [github_committer](https://github.com/acestraxionweb) | github | HTTP 200 | 2026-10-23T02:54:23Z | User acestraxionweb · 仓库 0 · 最近推送 - |
 | [site_feed](https://resonantnetworks.com/feed/) | rss | HTTP 200 | 2026-10-23T02:54:23Z | 10 条；最新：Fri, 28 Mar 2025 08:41:21 Homepage Banner Slide 4 |
 | [home](https://resonantnetworks.com/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 6076 字符；首行：Resonant Networks \| We Build the Earth's Digital Connectivity |
-| [auto_sitemap](https://resonantnetworks.com/sitemap.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 8 条） |
+| [auto_sitemap](https://resonantnetworks.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 8 个 URL；最新 lastmod - |
+| [feed_auto](https://resonantnetworks.com/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Fri, 28 Mar 2025 08:41:21 Homepage Banner Slide 4 |
 
 - **人工定期看（登录墙，不自动抓）**：https://sg.linkedin.com/company/resonant-networks-pte-ltd（138 followers，8 员工：Wai Choon Au MD、Nick Su、Ts. Mohd Idhamm Ibrahim 马来西亚国家经理、Jerlyn Chia）；recordowl：UEN 202005761Z；2025-07-08 主业改为 SUPPLY NETWORK SYSTEMS AND PROFESSIONAL SERVICES FOR DATA CENTRE；LinkedIn: https://www.linkedin.com/company/resonant-networks-pte-ltd/
 

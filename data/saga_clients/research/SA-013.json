@@ -160,6 +160,13 @@
    "quote": "We've some experience with porting the open source SONiC network operation system to Broadcom devices. As there's some basic marvel support it might be easy to add support for your hardware.",
    "url": "data/wechat_smartbyte_ocr/Weixin Image_2026-10-20_140337_791.txt",
    "date": "2024-11-15"
+  },
+  {
+   "kind": "Simon 口述",
+   "claim": "绑定等级：较深绑定——客户把 SmartByte/Saga 设备写进了自己的运维工具链（freddy36 向 LibreNMS / Oxidized 提交 SmartByte 支持），切换成本高",
+   "quote": "尤其是德国那个 我让你爬了它的github 它提交了很多信息 这就是比较深一些的绑定了。客户很难换或者换了成本极高 这就是较深绑定",
+   "url": "docs/requirements/对话全记录.md § T29-U28",
+   "date": "2026-10-23"
   }
  ],
  "notes": "A 维持：运营商持续采购楼宇接入交换机（48 口/L2+/2.5G 上联）与贴牌 MC/SFP；P1 改 STC-448XGGPM 或 STC-424XGGPM-280W（10G 上联）。\n【2026-10-22 复盘补】NYNEX 2025-03 的 SNMP/MIB 合规追问是「工程型缓冲层」的真实考题：欧洲客户会用 snmpwalk 核 OID 归属。Saga 应自己申请一个 IANA PEN（免费、在线表单、约 1–2 周）并要求 SmartByte 在 Saga 版固件里只保留 Saga PEN 下的私有 MIB；给 NYNEX/德国客户的 OEM 说明要能回答「OEM 数据是固件内写死还是独立配置分区」。对应 Q-35。 ｜ 针对性加厚 2026-10-22（S 邮箱 2026-09/10 第 6 单，T29-U13 ②） ｜ 【Simon 2026-10-22 口径】NYNEX 由 Peter 技术跟进、只能在 Saga 下单；宣传 SmartByte 品牌是合作约定 → 之前「Saga 自申 PEN」建议作废。维护计划见 docs/成单客户_NYNEX_维护计划_2026-10-22.md ｜ 【2026-10-22T15:48Z】GitHub 监控上线（宪法第九条）：scripts/github_watch/watch.py，每轮必跑，变化见 data/github_watch/变化日志.md",
@@ -261,5 +268,7 @@
   "7.5 固件 MIB 包 + LLDP-V2-MIB 状态 + snmprec",
   "备件：PSU / 风扇模块",
   "让 Peter 出盖章授权函（compliance）"
- ]
+ ],
+ "binding_level": "较深",
+ "binding_src": "Simon 口述 2026-10-23（T29-U28）"
 }

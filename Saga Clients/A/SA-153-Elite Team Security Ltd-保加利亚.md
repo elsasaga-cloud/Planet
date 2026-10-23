@@ -135,14 +135,16 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：3 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：A 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-153/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://elitteamsecurity.com/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
-| [sitemap](https://elitteamsecurity.com/wp-sitemap.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 183 条） |
-| [news_1](https://elitteamsecurity.com/novini/) | html | 待首轮 | — | 导航「блог」 |
+| [home](https://elitteamsecurity.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5834 字符；首行：ЕЛИТ–ТИМ-СЕКЮРИТИ ООД – лицензирана охранителна фирма, действаща на територията |
+| [sitemap](https://elitteamsecurity.com/wp-sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
+| [news_1](https://elitteamsecurity.com/novini/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4524 字符；首行：Новини – ЕЛИТ–ТИМ-СЕКЮРИТИ ООД |
+| [feed_auto](https://elitteamsecurity.com/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Fri, 23 Jun 2023 15:49:55 Контрол уредите и измерване на енергията |
 
 ## 联系方式（已有 · 原值照录）
 

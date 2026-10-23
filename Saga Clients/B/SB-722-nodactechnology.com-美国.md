@@ -124,16 +124,17 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-722/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://nodactechnology.com/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
-| [sitemap](https://nodactechnology.com/sitemap.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 2118 条） |
-| [news_1](https://nodactechnology.com/articles) | html | 待首轮 | — | 导航「Blog」 |
-| [news_2](https://nodactechnology.com/projectregistration) | html | 待首轮 | — | 导航「Project Registration」 |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCGVaUrW5sszxkUmOCsEXScA) | rss | 待首轮 | — | YouTube 频道 https://www.youtube.com/channel/UCGVaUrW5sszxkUmOCsEXScA |
+| [home](https://nodactechnology.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3604 字符；首行：Security & Low Voltage Solutions Distributor USA \| Nodac Technology |
+| [sitemap](https://nodactechnology.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 900 个 URL；最新 lastmod 2025-10-03 |
+| [news_1](https://nodactechnology.com/articles) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2198 字符；首行：Articles & Insights \| Electronic Security & Low Voltage Solutions \| Nodac Tec |
+| [news_2](https://nodactechnology.com/projectregistration) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3335 字符；首行：Project Registration \| Exclusive Pricing for Integrators \| Nodac Technology |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCGVaUrW5sszxkUmOCsEXScA) | rss | HTTP 404 | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCGVaUrW5sszxkUmOCsEXScA |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/nodactechnology；Instagram: https://www.instagram.com/nodactechnology；Facebook: http://facebook.com/Nodactechnology；LinkedIn: https://www.linkedin.com/company/nodac-technology-inc；X/Twitter: https://x.com/nodactechnology
 

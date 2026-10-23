@@ -182,16 +182,18 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：5 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：A 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-027/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://parallaxdigital.co.uk/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
-| [sitemap](https://parallaxdigital.co.uk/wp-sitemap.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 415 条） |
-| [news_1](https://parallaxdigital.co.uk/news/) | html | 待首轮 | — | 导航「News」 |
-| [news_2](https://parallaxdigital.co.uk/projects/) | html | 待首轮 | — | 导航「Projects」 |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCxopjYNDTtcIM_TEsEOkfOw) | rss | 待首轮 | — | YouTube 频道 https://www.youtube.com/channel/UCxopjYNDTtcIM_TEsEOkfOw |
+| [home](https://parallaxdigital.co.uk/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7736 字符；首行：Parallax Digital – Digital products and services |
+| [sitemap](https://parallaxdigital.co.uk/wp-sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
+| [news_1](https://parallaxdigital.co.uk/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6671 字符；首行：News – Parallax Digital |
+| [news_2](https://parallaxdigital.co.uk/projects/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4517 字符；首行：Projects – Parallax Digital |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCxopjYNDTtcIM_TEsEOkfOw) | rss | HTTP 404 | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCxopjYNDTtcIM_TEsEOkfOw |
+| [feed_auto](https://parallaxdigital.co.uk/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 7 条；最新：Sun, 09 Aug 2026 11:55:37 Website Email Issue Sorted |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/ParallaxDigTech；X/Twitter: https://twitter.com/ParallaxDigTech；LinkedIn: https://www.linkedin.com/company/14845052/；Instagram: https://www.instagram.com/parallaxdigtech/
 

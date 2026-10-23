@@ -143,14 +143,15 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1127/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://throughput.co.za/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
-| [news_1](https://throughput.co.za/knowledge-hub/index.html) | html | 待首轮 | — | 导航「The Knowledge Hub \| Overview」 |
-| [news_2](https://throughput.co.za/knowledge-hub/protocols-industrial-communications.html) | html | 待首轮 | — | 导航「Protocols & Industrial Communications」 |
+| [home](https://throughput.co.za/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8882 字符；首行：Throughput Technologies – Powering Resilient Industrial Networks HP |
+| [news_1](https://throughput.co.za/knowledge-hub/index.html) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7976 字符；首行：Structured Knowledge for Real-World Decisions for Industrial Networks \| Throug |
+| [news_2](https://throughput.co.za/knowledge-hub/protocols-industrial-communications.html) | html | HTTP 200 | 2026-10-23T04:20:51Z | 11055 字符；首行：Protocols & Industrial Communications \| The Knowledge Hub |
 
 ## 联系方式（已有 · 原值照录）
 

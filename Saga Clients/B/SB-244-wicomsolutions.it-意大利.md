@@ -136,15 +136,17 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-244/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.wicomsolutions.it/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
-| [sitemap](https://www.wicomsolutions.it/sitemap_index.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 101 条） |
-| [news_1](https://www.wicomsolutions.it/news/) | html | 待首轮 | — | 导航「News」 |
-| [news_2](https://www.wicomsolutions.it/portfolio/accessori-siti/) | html | 待首轮 | — | 导航「」 |
+| [home](https://www.wicomsolutions.it/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4060 字符；首行：Wi-Com Solutions Componenti elettronici |
+| [sitemap](https://www.wicomsolutions.it/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
+| [news_1](https://www.wicomsolutions.it/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2444 字符；首行：News - Wi-Com Solutions |
+| [news_2](https://www.wicomsolutions.it/portfolio/accessori-siti/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1985 字符；首行：Accessori Siti - Wi-Com Solutions |
+| [feed_auto](https://www.wicomsolutions.it/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Tue, 03 Mar 2026 08:37:39 Antenne Log Periodiche “Low Profile” per Gallerie — GAMM |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/wicomsolutions.it/
 

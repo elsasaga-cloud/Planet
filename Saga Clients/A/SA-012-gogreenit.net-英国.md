@@ -157,15 +157,16 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T03:05:43Z　|　**最近变化**：2026-10-23T02:54:23Z
+- **监控层**：成单精选层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T06:51:07Z　|　**最近变化**：2026-10-23T04:57:18Z
+- **最近变化摘要**：2026-10-23 mastodon_instance：内容变化：+1 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-012/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [mastodon_instance](https://mammut.gogreenit.net/api/v1/instance) | json | HTTP 200 | 2026-10-23T02:54:23Z | version="4.7.3"; stats={"user_count": 9, "status_count": 16381, "domain_count": 285; conta |
+| [mastodon_instance](https://mammut.gogreenit.net/api/v1/instance) | json | HTTP 200 | 2026-10-23T04:57:18Z | version="4.7.3"; stats={"user_count": 9, "status_count": 16381, "domain_count": 285; conta |
 | [chewie_rss](https://mammut.gogreenit.net/@chewie.rss) | rss | HTTP 200 | 2026-10-23T02:54:23Z | 20 条；最新：Thu, 22 Oct 2026 18:04:59  |
 | [home](http://gogreenit.net/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 2569 字符；首行：Go Green IT - Home |
-| [auto_home](https://gogreenit.net/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
+| [auto_home](https://gogreenit.net/) | html | HTTP 200 | 2026-10-23T04:57:18Z | 2569 字符；首行：Go Green IT - Home |
 
 - **人工定期看（登录墙，不自动抓）**：wiki.sogo.nu 署名 Chris.Clemson@GoGreenIT.Net（2017）；xmpp.org 2026-05 通讯提到 gogreenit.net；ytdl-patched 收录其 PeerTube 实例
 

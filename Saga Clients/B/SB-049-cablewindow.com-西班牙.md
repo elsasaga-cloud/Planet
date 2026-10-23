@@ -121,14 +121,16 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-049/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.cablewindow.com/en/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
-| [sitemap](https://www.cablewindow.com/sitemap.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 500 条） |
-| [news_1](http://www.cablewindow.com/blog/all-post.html) | html | 待首轮 | — | 导航「Blog」 |
+| [home](https://www.cablewindow.com/en/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4117 字符；首行：Cablewindow |
+| [sitemap](https://www.cablewindow.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 500 个 URL；最新 lastmod - |
+| [news_1](http://www.cablewindow.com/blog/all-post.html) | html | HTTP 404 | 2026-10-23T04:20:51Z | 导航「Blog」 |
+| [feed_auto](http://www.cablewindow.com/modules/feeder/rss.php?id_category=0&orderby=position&orderway=asc) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新： Domo Motorizado PTZ Exterior 500º/s 27x Easy Plug - 604,94 € |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/pages/Cablewindow/125006147539121；LinkedIn: http://www.linkedin.com/company/cablewindow
 

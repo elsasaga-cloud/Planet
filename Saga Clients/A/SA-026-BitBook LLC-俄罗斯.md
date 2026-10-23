@@ -161,7 +161,8 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：9 个　|　**数据截至**：2026-10-23T03:05:43Z　|　**最近变化**：2026-10-23T03:05:43Z
+- **监控层**：成单精选层　|　**自动源**：9 个　|　**数据截至**：2026-10-23T06:51:07Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-026/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
@@ -171,10 +172,10 @@ updated: 2026-10-23
 | [poe_catalog](https://bitbuk.ru/category/sistemy-videonablyudeniya/setevoe-poe-oborudovanie/) | html | HTTP 200 | 2026-10-23T03:05:43Z | 5921 字符；首行：Системы видеонаблюдения Сетевое PoE оборудование купить в интернет-магазине Pri |
 | [brand_page](https://bitbuk.ru/brand/bitbuk/) | html | HTTP 200 | 2026-10-23T03:05:43Z | 8617 字符；首行：БитБук |
 | [support](http://help.priorat.ru/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 29 字符；首行：Priorat® \| Help Desk |
-| [auto_home](https://bitbuk.ru/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
-| [auto_sitemap](https://bitbuk.ru/sitemap.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 292 条） |
-| [auto_vk](https://vk.com/bitbuk) | html | 待首轮 | — | VK 公开社区页 |
-| [auto_youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCTOihFJ_tskxJEpzfKbJ95A) | rss | 待首轮 | — | YouTube 频道 https://www.youtube.com/channel/UCTOihFJ_tskxJEpzfKbJ95A |
+| [auto_home](https://bitbuk.ru/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7198 字符；首行：bitbuk.ru — официальный сайт производителя и импортера торговой техники и копью |
+| [auto_sitemap](https://bitbuk.ru/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
+| [auto_vk](https://vk.com/bitbuk) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7 字符；首行：‌ |
+| [auto_youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCTOihFJ_tskxJEpzfKbJ95A) | rss | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCTOihFJ_tskxJEpzfKbJ95A |
 
 - **人工定期看（登录墙，不自动抓）**：电话 +7 (343) 2010444 / +7 (3435) 37-87-87；info@bitbuk.ru（博客公布）
 

@@ -112,14 +112,16 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-778/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.netronicsnetworks.com/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
-| [sitemap](https://www.netronicsnetworks.com/sitemap.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 83 条） |
-| [news_1](https://www.netronicsnetworks.com/knowledge-base) | html | 待首轮 | — | 导航「Knowledge Base」 |
+| [home](https://www.netronicsnetworks.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2426 字符；首行：HOME \| Netronics |
+| [sitemap](https://www.netronicsnetworks.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
+| [news_1](https://www.netronicsnetworks.com/knowledge-base) | html | HTTP 200 | 2026-10-23T04:20:51Z | 900 字符；首行：Knowledge Base \| Netronics Networks |
+| [feed_auto](https://www.netronicsnetworks.com/blog-feed.xml) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 6 条；最新：Mon, 09 May 2016 07:34:38 This is your first post |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/netronics/；X/Twitter: https://twitter.com/Netronics_Comm；LinkedIn: https://www.linkedin.com/company/netronics；Instagram: https://www.instagram.com/netronicsnetworks/
 

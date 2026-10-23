@@ -147,14 +147,15 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-133/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.bargas.ru/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
-| [news_1](https://www.bargas.ru/news?from=bot) | html | 待首轮 | — | 导航「news」 |
-| [news_2](https://www.bargas.ru/blog?from=bot) | html | 待首轮 | — | 导航「blog」 |
+| [home](https://www.bargas.ru/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 189 字符；首行：KillBot user verification [40.76.117.240] [Mozilla/5.0 (X11; Linux x86_64) Apple |
+| [news_1](https://www.bargas.ru/news?from=bot) | html | HTTP 200 | 2026-10-23T04:20:51Z | 189 字符；首行：KillBot user verification [40.76.117.240] [Mozilla/5.0 (X11; Linux x86_64) Apple |
+| [news_2](https://www.bargas.ru/blog?from=bot) | html | HTTP 200 | 2026-10-23T04:20:51Z | 208 字符；首行：KillBot user verification [40.76.117.240] [Mozilla/5.0 (X11; Linux x86_64) Apple |
 
 ## 联系方式（已有 · 原值照录）
 

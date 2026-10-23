@@ -119,15 +119,17 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-127/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://testronix.ph/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
-| [sitemap](https://testronix.ph/sitemap_index.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 70 条） |
-| [news_1](https://testronix.ph/news-events/) | html | 待首轮 | — | 导航「News & Events」 |
-| [news_2](https://testronix.ph/insights/) | html | 待首轮 | — | 导航「Insights」 |
+| [home](https://testronix.ph/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7580 字符；首行：Transform Your Business with Testronix ICT Solutions |
+| [sitemap](https://testronix.ph/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
+| [news_1](https://testronix.ph/news-events/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5555 字符；首行：News & Events - Testronix |
+| [news_2](https://testronix.ph/insights/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 18327 字符；首行：Insights - Testronix |
+| [feed_auto](https://testronix.ph/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Tue, 17 Mar 2026 06:50:51 Operational Excellence Through Intelligent Infrastructur |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/testronix.inc；Instagram: https://www.instagram.com/testronix.inc/；LinkedIn: https://ph.linkedin.com/company/testronix-inc
 

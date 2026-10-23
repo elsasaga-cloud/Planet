@@ -179,15 +179,17 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-253/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://watchnetinc.com/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
-| [news_1](https://watchnetinc.com/blog/) | html | 待首轮 | — | 导航「Read Blog」 |
-| [news_2](https://watchnetinc.com/events/) | html | 待首轮 | — | 导航「View All Events」 |
-| [youtube](https://www.youtube.com/@watchnetvideos) | youtube_handle | 待首轮 | — | YouTube（运行器解析 channelId 后转 RSS） |
+| [home](https://watchnetinc.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6286 字符；首行：Home Page - WatchNET inc - CCTV, Access Control and NVRs |
+| [news_1](https://watchnetinc.com/blog/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1613 字符；首行：Blog - WatchNET inc |
+| [news_2](https://watchnetinc.com/events/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1693 字符；首行：Events - WatchNET inc |
+| [youtube](https://www.youtube.com/@watchnetvideos) | youtube_handle | HTTP 404 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [feed_auto](https://watchnetinc.com/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 1 条；最新：Wed, 08 Apr 2020 16:01:09 Hello world! |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/watchnetinc；LinkedIn: https://www.linkedin.com/company/watchnet-inc-/；Instagram: https://www.instagram.com/watchnetinc/
 

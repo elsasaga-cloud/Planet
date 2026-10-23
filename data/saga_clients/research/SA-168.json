@@ -274,6 +274,13 @@
    "quote": "Wed, 06 Dec 2023 11:27:03 +0000 … Angora Networks ® Veri Diyotu Çözümünde Ezber Bozan ModBUS ve OPC protokolü Desteğini Tanıttı",
    "url": "https://www.angoranetworks.com/feed/",
    "date": "2026-10-23"
+  },
+  {
+   "kind": "Simon 口述",
+   "claim": "绑定等级：轻度绑定，且「卡在门槛」——Taylan 要把 Saga 管理型接入其 NMS（2025-03-23 要 MIB），但订单少、官网迟迟不用 Saga 产品图片（已委婉对 Levent 提过几次）",
+   "quote": "Angora james这些都是轻度绑定……angora其实严格来说没到这个地步。你看gmail上taylan说把我们管理接入它的NMS，但他们订单少，官网迟迟不用我们的产品图片啥的即使我已经委婉地给levent说过几次了等等。就是类似卡在门槛那了 不进不出",
+   "url": "docs/requirements/对话全记录.md § T29-U28",
+   "date": "2026-10-23"
   }
  ],
  "kp": [
@@ -407,5 +414,7 @@
   "web_watch_targets": "scripts/web_watch/targets.json#SA-168",
   "status": "data/customer_watch/当前状态.md",
   "log": "data/customer_watch/变化日志.md"
- }
+ },
+ "binding_level": "轻度（卡门槛）",
+ "binding_src": "Simon 口述 2026-10-23（T29-U28）"
 }

@@ -162,13 +162,14 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-771/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://hyconext.com/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
-| [news_1](https://hyconext.com/article-category) | html | 待首轮 | — | 导航「News Updates」 |
+| [home](https://hyconext.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2727 字符；首行：Innovative Connectivity with Advanced Networking Solutions |
+| [news_1](https://hyconext.com/article-category) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3566 字符；首行：All our tech articles |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/hyconext/；LinkedIn: https://www.linkedin.com/company/hyconext
 
